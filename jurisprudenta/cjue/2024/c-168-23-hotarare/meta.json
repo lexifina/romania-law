@@ -1,0 +1,62 @@
+{
+ "key": "cjue-c-168-23-hotarare-2024-06-27",
+ "label": "CJUE, Hotărârea Curții (Camera a opta) din 27 iunie 2024, Cauza C-168/23",
+ "court": "cjue",
+ "court_name": "Curtea de Justiție a Uniunii Europene",
+ "kind": "hotarare",
+ "act_type": "JUDG",
+ "date": "2024-06-27",
+ "year": "2024",
+ "case": "Cauza C-168/23",
+ "celex": "62023CJ0168",
+ "ecli": "ECLI:EU:C:2024:557",
+ "heading": "Hotărârea Curții (Camera a opta) din 27 iunie 2024",
+ "formation": "CHAMB_08_C",
+ "procedure": "REFER_PREL",
+ "romania_role": [
+  "originates"
+ ],
+ "referred_by": [
+  {
+   "court": "Tribunalul Olt, Secţia a II-a de Contencios Administrativ şi Fiscal",
+   "date": "2023-03-01",
+   "national_file": "2145/104/2022"
+  }
+ ],
+ "referral_text": "Cerere de decizie preliminară formulată de Tribunalul Olt",
+ "national_followup": null,
+ "parties": null,
+ "parties_withheld": true,
+ "keywords": "Trimitere preliminară – Uniunea vamală – Tariful vamal comun – Nomenclatura combinată – Clasificare tarifară – Cabluri din fibre optice – Subpozițiile 8544 70 00 și 9001 10 90 – Modificarea Notelor explicative ale Nomenclaturii combinate – Principiile securității juridice și protecției încrederii legitime",
+ "interprets": [
+  {
+   "celex": "31987R2658",
+   "folder": "ue/regulament/1987/2658"
+  }
+ ],
+ "text": "dispozitiv.md",
+ "text_withheld": "personal_data",
+ "withheld_reason": "The full text names the parties' lawyers (and, in older cases, private parties); only the metadata and the operative part are published here, with the official link.",
+ "operative_missing": false,
+ "eurlex_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62023CJ0168",
+ "curia_url": "https://curia.europa.eu/juris/liste.jsf?num=C-168/23&language=ro",
+ "source": {
+  "name": "CELLAR, Publications Office of the European Union",
+  "url": "http://publications.europa.eu/resource/cellar/b2290769-3461-11ef-b441-01aa75ed71a1.0002.05/DOC_1",
+  "format": "xhtml",
+  "sha256": [
+   "875f86eb79bac0000933704be73db9eb30e58401c9455448bff9a7faa445ead0"
+  ]
+ },
+ "legal_basis": "Jurisprudența Curții de Justiție a Uniunii Europene (texte oficiale; reutilizare permisă cu menționarea sursei: Decizia Comisiei 2011/833/UE și condițiile CURIA; © Uniunea Europeană). Textele oficiale nu sunt protejate de dreptul de autor în România (Legea nr. 8/1996, art. 9 lit. b).",
+ "attribution": "© European Union, https://eur-lex.europa.eu (via the Publications Office CELLAR)",
+ "operative": [
+  "Pentru aceste motive, Curtea (Camera a opta) declară:",
+  "1) Subpoziția 85447000 din Nomenclatura combinată, care figurează în anexa I la Regulamentul (CEE) nr. 2658/87 al Consiliului din 23 iulie 1987 privind Nomenclatura tarifară și statistică și Tariful vamal comun, astfel cum a fost modificat prin Regulamentul (CE) nr. 254/2000 al Consiliului din 31 ianuarie 2000, în versiunea care rezultă din Regulamentul de punere în aplicare (UE) 2017/1925 al Comisiei din 12 octombrie 2017,",
+  "trebuie interpretată în sensul că",
+  "nu acoperă un cablu din fibre optice compus din miez optic și armătură optică acoperite de un prim înveliș interior din acrilat moale și un al doilea înveliș al stratului din acrilat dur colorat.",
+  "2) Principiile securității juridice și protecției încrederii legitime",
+  "trebuie interpretate în sensul că",
+  "nu se opun recuperării de către autoritățile vamale ale unui stat membru a taxelor și a impozitelor datorate de un contribuabil pentru clasificarea tarifară eronată, potrivit acestor autorități, a unei mărfi la o subpoziție din Nomenclatura combinată care figurează în anexa I la Regulamentul nr. 2658/87, astfel cum a fost modificat prin Regulamentul nr. 254/2000, în versiunea care rezultă din Regulamentul de punere în aplicare 2017/1925, chiar dacă unele decizii referitoare la informațiile tarifare obligatorii emise în privința altor contribuabili de aceste autorități și de autoritățile vamale din alte state membre, precum și unele hotărâri judecătorești din alte state membre nu au respins o asemenea clasificare tarifară."
+ ]
+}
