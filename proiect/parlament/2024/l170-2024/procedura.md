@@ -20,6 +20,7 @@ Initiator: Guvernul României.
 - 2024-06-18: adopted by the Chamber of Deputies
 - 2024-06-19: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2024-06-21: sent for promulgation
+- 2024-06-27: promulgated, becomes Legea nr. 204/2024; published in the Monitorul Oficial; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -42,3 +43,5 @@ Initiator: Guvernul României.
 - 2024-04-22: Adresă către Camera Deputaților (AM): [am-9792fce3.md](am-9792fce3.md); official file https://www.senat.ro/legis/PDF/2024/24L170AM.PDF
 - 2024-06-19: Adresă privind sesizarea CCR (AXS): [axs-0f86007b.md](axs-0f86007b.md); official file https://www.senat.ro/legis/PDF/2024/24L170AXS.PDF
 - 2024-06-19: Forma trimisă la promulgare (LP): [lp-385d4403.md](lp-385d4403.md); official file https://www.senat.ro/legis/PDF/2024/24L170LP.PDF
+- 2024-06-27: Decret de promulgare (DP): [dp-9e20e92c.md](dp-9e20e92c.md); official file https://www.senat.ro/legis/PDF/2024/24L170DP.PDF
+- 2024-06-27: Forma promulgată (FP): [fp-62d4dc70.md](fp-62d4dc70.md); official file https://www.senat.ro/legis/PDF/2024/24L170FP.PDF
