@@ -20,6 +20,7 @@ Initiator: Membri ai Parlamentului.
 - 2024-06-03: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2024-06-08: sent for promulgation
 - 2024-06-26: promulgated, becomes Legea nr. 203/2024; documents published: Decret de promulgare, Forma promulgată
+- 2024-06-27: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -35,3 +36,6 @@ Initiator: Membri ai Parlamentului.
 - 2024-06-03: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L577LP.PDF
 - 2024-06-26: Decret de promulgare (DP): [dp-45e35488.md](dp-45e35488.md); official file https://www.senat.ro/legis/PDF/2023/23L577DP.PDF
 - 2024-06-26: Forma promulgată (FP): [fp-9869b4b2.md](fp-9869b4b2.md); official file https://www.senat.ro/legis/PDF/2023/23L577FP.PDF
+- 2024-06-27: Document (CC): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L577CC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2024-06-27: Document (AT): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L577AT.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2024-06-27: Document (S1): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L577S1.PDF (its day is not given by the bill file: shown from the last stage held)
