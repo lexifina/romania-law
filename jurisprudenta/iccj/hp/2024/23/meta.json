@@ -1,0 +1,155 @@
+{
+ "key": "iccj-hp-23-2024",
+ "label": "Decizia ÎCCJ nr. 23/2024 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "23",
+ "date": "2024-05-20",
+ "year": "2024",
+ "heading": "DECIZIA nr. 23 din 20 mai 2024",
+ "subtitle": "referitoare la interpretarea și aplicarea dispozițiilor art. 781 alin. (1), art. 783 alin. (2) și ale art. 790 alin. (1) și (4) din Codul de procedură civilă",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "599",
+  "bis": false,
+  "date": "2024-06-27",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "474/1/2024",
+  "13.501/180/2021"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "781",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "783",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "790",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge ca inadmisibilă sesizarea formulată de Tribunalul Bacău - Secția a II-a civilă și de contencios administrativ și fiscal în vederea lămuririi următoarelor probleme de drept:",
+  "Dacă, în interpretarea și aplicarea dispozițiilor art. 781 alin. (1), art. 783 alin. (2) și ale art. 790 alin. (1) și (4) din Codul de procedură civilă, se consideră terț poprit a fi cel care: a. nu deține niciun raport juridic obligațional cu debitorul urmărit; b. nu datorează sau nu va datora în viitor nicio sumă de bani debitorilor urmăriți; c. nu deține sume în numele acestor debitori urmăriți; d. este parte contractuală într-un contract de prestări servicii, în cuprinsul căruia se menționează în mod expres că nu este și nu poate fi considerată terț poprit, dar, cu toate acestea, anumite instanțe de fond ignoră acest lucru; e. în temeiul respectivului contract de prestări servicii, titularul contului în lei este E.M.I. (instituția emitentă de monedă electronică stabilită și autorizată în Lituania) cont colector ce se debitează exclusiv E.M.I. și nu de clienții acestuia (în cazul de față, debitorul urmărit în dosarul execuțional); f. nu este titularul contului colector sau conturilor asociate acestuia și nu deschide conturi de plată debitorilor urmăriți, iar aceștia din urmă nu sunt beneficiarii reali ai respectivelor conturi virtuale; g. nu emite instrucțiuni de plată cu privire la efectuarea unor plăți din contul colector și nici nu primește instrucțiuni de plată din partea debitorilor urmăriți.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "781",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "783",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "790",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": [
+      "11",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "516",
+     "alin": [
+      "7"
+     ],
+     "lit": null
+    },
+    {
+     "art": "729",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "787",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "634",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 20
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2024-06-27",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/284592",
+  "text_sha256": "407e1fd7bd30ea7a5fddfea617bee539d2a0e707892e3ecd412ed14a14841089",
+  "catalogue_sha256": "407e1fd7bd30ea7a5fddfea617bee539d2a0e707892e3ecd412ed14a14841089",
+  "fetched": "2026-11-03T01:09:56Z",
+  "chars": 53284,
+  "portal_id": "284592",
+  "tip": "DECIZIE"
+ }
+}
