@@ -1,0 +1,17 @@
+# Propunere legislativă L458/2024
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Propunere legislativă pentru completarea Legii nr.227/2015 privind CODUL FISCAL
+
+Initiator: Membri ai Parlamentului.
+
+## Stages published so far
+
+- 2024-07-01: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
+
+## Documents
+
+- 2024-07-01: Adresă de înaintare a inițiativei (AD): [ad-7a331d94.md](ad-7a331d94.md); official file https://www.senat.ro/legis/PDF/2024/24L458AD.PDF
+- 2024-07-01: Forma inițiatorului (FG): [fg-5536d717.md](fg-5536d717.md); official file https://www.senat.ro/legis/PDF/2024/24L458FG.PDF
+- 2024-07-01: Expunere de motive (EM): [em-33677b70.md](em-33677b70.md); official file https://www.senat.ro/legis/PDF/2024/24L458EM.PDF
