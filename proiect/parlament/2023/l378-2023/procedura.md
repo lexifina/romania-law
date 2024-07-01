@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2024-06-03: adopted by the Chamber of Deputies
 - 2024-06-11: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2024-06-13: sent for promulgation
+- 2024-07-01: promulgated, becomes Legea nr. 207/2024; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -37,3 +38,5 @@ Initiator: Guvernul României.
 - 2023-09-12: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L378AM.PDF
 - 2024-06-11: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L378AXS.PDF
 - 2024-06-11: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L378LP.PDF
+- 2024-07-01: Decret de promulgare (DP): [dp-c71d696b.md](dp-c71d696b.md); official file https://www.senat.ro/legis/PDF/2023/23L378DP.PDF
+- 2024-07-01: Forma promulgată (FP): [fp-542bf65d.md](fp-542bf65d.md); official file https://www.senat.ro/legis/PDF/2023/23L378FP.PDF
