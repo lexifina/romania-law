@@ -1,0 +1,246 @@
+{
+ "key": "cedo-46201-16-2023-11-28",
+ "label": "CEDO, Asociațiile de coproprietate forestieră Porceni Pleșa și Piciorul Bătrân Banciu (Obștea de Pădure Porceni Pleșa și Composesoratul Piciorul Bătrân Banciu) c. României, 2023-11-28",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2023-11-28",
+ "year": "2023",
+ "heading": "HOTĂRÂREA din 28 noiembrie 2023",
+ "subtitle": "în Cauza Asociațiile de coproprietate forestieră Porceni Pleșa și Piciorul Bătrân Banciu (Obștea de Pădure Porceni Pleșa și Composesoratul Piciorul Bătrân Banciu) împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI - SECȚIA A PATRA",
+ "mo": {
+  "number": "627",
+  "bis": false,
+  "date": "2024-07-02",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation"
+ ],
+ "applications": [
+  "46201/16"
+ ],
+ "case_name": "Asociațiile de coproprietate forestieră Porceni Pleșa și Piciorul Bătrân Banciu (Obștea de Pădure Porceni Pleșa și Composesoratul Piciorul Bătrân Banciu)",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1 la Convenție",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "În unanimitate,",
+  "CURTEA:",
+  "1. decide să conexeze cererile și să le declare admisibile;",
+  "2. hotărăște că a fost încălcat art. 1 din Protocolul nr. 1 la Convenție;",
+  "3. hotărăște: a) că statul pârât trebuie să plătească primei reclamante, în termen de trei luni de la data rămânerii definitive a hotărârii, în conformitate cu art. 44 § 2 din Convenție, următoarele sume, care trebuie convertite în moneda statului pârât la rata de schimb aplicabilă la data plății: (i).",
+  "261.000 EUR (două sute șaizeci și unu de mii de euro), plus orice sumă ce poate fi datorată cu titlu de impozit, pentru prejudiciul material;",
+  "(ii).",
+  "2.000 EUR (două mii de euro), plus orice sumă ce poate fi datorată cu titlu de impozit, pentru prejudiciul moral;",
+  "(iii).",
+  "1.000 EUR (una mie euro), plus orice sumă ce poate fi datorată pentru acest cuantum de prima reclamantă cu titlu de impozit, pentru cheltuielile de judecată;",
+  "b) că statul pârât trebuie să plătească celei de-a doua reclamante, în termen de trei luni de la data rămânerii definitive a hotărârii, în conformitate cu art. 44 § 2 din Convenție, următoarele sume, care trebuie convertite în moneda statului pârât la rata de schimb aplicabilă la data plății: (i).",
+  "85.393 EUR (optzeci și cinci de mii trei sute nouăzeci și trei de euro), plus orice sumă care poate fi datorată cu titlu de impozit pe această sumă, pentru prejudiciul material;",
+  "(ii).",
+  "10.000 EUR (zece mii de euro), plus orice sumă ce poate fi datorată cu titlu de impozit, pentru prejudiciul moral;",
+  "(iii).",
+  "2.680 EUR (două mii șase sute optzeci de euro), plus orice sumă ce poate fi datorată pentru acest cuantum de cea de-a doua reclamantă cu titlu de impozit, pentru cheltuielile de judecată;",
+  "c) că, de la expirarea termenului menționat și până la efectuarea plății, aceste sume trebuie majorate cu o dobândă simplă, la o rată egală cu rata dobânzii facilității de împrumut marginal practicată de Banca Centrală Europeană, aplicabilă pe parcursul acestei perioade și majorată cu trei puncte procentuale;",
+  "4. respinge cererea de acordare a unei reparații echitabile pentru celelalte capete de cerere."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 46/2008",
+    "number": "46",
+    "year": "2008",
+    "path": "lege/2008/46"
+   },
+   "articles": [
+    {
+     "art": "99",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "97",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a",
+      "b",
+      "c"
+     ]
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenție",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul ministrului mediului și dezvoltării durabile nr. 1.964/2007",
+    "number": "1964",
+    "year": "2007"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 14/2010",
+    "number": "14",
+    "year": "2010",
+    "path": "og/2010/14"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": null,
+     "lit": [
+      "s"
+     ]
+    },
+    {
+     "art": "5",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 861/2009",
+    "number": "861",
+    "year": "2009",
+    "path": "hg/2009/861"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul adițional nr. 1",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 447/2017",
+    "number": "447",
+    "year": "2017",
+    "path": "hg/2017/447"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 554/2004",
+    "number": "554",
+    "year": "2004",
+    "path": "lege/2004/554"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "1357",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/284782",
+  "text_sha256": "f21a3204caf5eaed6e9e86491842835f8bcb9ba6551ca65546dbedb54a96c790",
+  "catalogue_sha256": "f21a3204caf5eaed6e9e86491842835f8bcb9ba6551ca65546dbedb54a96c790",
+  "fetched": "2026-11-03T01:09:40Z",
+  "chars": 79366,
+  "portal_id": "284782",
+  "tip": "HOTĂRÂRE"
+ }
+}
