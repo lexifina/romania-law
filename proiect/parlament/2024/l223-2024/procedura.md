@@ -19,6 +19,7 @@ Initiator: Membri ai Parlamentului.
 - 2024-06-03: adopted by the Chamber of Deputies
 - 2024-06-11: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2024-06-17: sent for promulgation
+- 2024-07-03: promulgated, becomes Legea nr. 208/2024; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -33,3 +34,5 @@ Initiator: Membri ai Parlamentului.
 - 2024-04-29: Adresă către Camera Deputaților (AM): [am-94a1e8d3.md](am-94a1e8d3.md); official file https://www.senat.ro/legis/PDF/2024/24L223AM.PDF
 - 2024-06-11: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L223AXS.PDF
 - 2024-06-11: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L223LP.PDF
+- 2024-07-03: Decret de promulgare (DP): [dp-f76ded3c.md](dp-f76ded3c.md); official file https://www.senat.ro/legis/PDF/2024/24L223DP.PDF
+- 2024-07-03: Forma promulgată (FP): [fp-fa79e52e.md](fp-fa79e52e.md); official file https://www.senat.ro/legis/PDF/2024/24L223FP.PDF
