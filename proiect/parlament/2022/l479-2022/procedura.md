@@ -21,6 +21,7 @@ Initiator: Guvernul României.
 - 2024-06-11: adopted by the Chamber of Deputies
 - 2024-06-17: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2024-06-20: sent for promulgation
+- 2024-07-04: promulgated, becomes Legea nr. 210/2024; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -42,3 +43,5 @@ Initiator: Guvernul României.
 - 2022-09-19: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L479AM.PDF
 - 2024-06-17: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L479AXS.PDF
 - 2024-06-17: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L479LP.PDF
+- 2024-07-04: Decret de promulgare (DP): [dp-d3f0ddc2.md](dp-d3f0ddc2.md); official file https://www.senat.ro/legis/PDF/2022/22L479DP.PDF
+- 2024-07-04: Forma promulgată (FP): [fp-fd1472a2.md](fp-fd1472a2.md); official file https://www.senat.ro/legis/PDF/2022/22L479FP.PDF
