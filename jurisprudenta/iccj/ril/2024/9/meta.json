@@ -1,0 +1,203 @@
+{
+ "key": "iccj-ril-9-2024",
+ "label": "Decizia ÎCCJ nr. 9/2024 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "9",
+ "date": "2024-05-20",
+ "year": "2024",
+ "heading": "DECIZIA nr. 9 din 20 mai 2024",
+ "subtitle": "cu privire la interpretarea și aplicarea unitară a dispozițiilor art. 113 alin. (2) lit. a) din Ordonanța de urgență a Guvernului nr. 99/2006 privind instituțiile de credit și adecvarea capitalului, aprobată cu modificări și completări prin Legea nr. 227/2007, cu modificările și completările ulterioare",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU SOLUȚIONAREA RECURSULUI ÎN INTERESUL LEGII",
+ "mo": {
+  "number": "637",
+  "bis": false,
+  "date": "2024-07-04",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "679/1/2024"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 99/2006",
+    "number": "99",
+    "year": "2006",
+    "path": "oug/2006/99"
+   },
+   "articles": [
+    {
+     "art": "113",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite recursul în interesul legii promovat de Colegiul de conducere al Curții de Apel Galați și în consecință: În interpretarea și aplicarea unitară a dispozițiilor art. 113 alin. (2) lit. a) din Ordonanța de urgență a Guvernului nr. 99/2006 privind instituțiile de credit și adecvarea capitalului, aprobată cu modificări și completări prin Legea nr. 227/2007, cu modificările și completările ulterioare, stabilește că:",
+  "Moștenitorii titularului de cont decedat au dreptul să obțină furnizarea, de către instituțiile bancare, a informațiilor protejate de secretul bancar, pentru perioada anterioară decesului, numai în măsura în care justifică scopul pentru care le pretind.",
+  "Obligatorie, potrivit dispozițiilor art. 517 alin. (4) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 99/2006",
+    "number": "99",
+    "year": "2006",
+    "path": "oug/2006/99"
+   },
+   "articles": [
+    {
+     "art": "113",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 17
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "953",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "954",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2187",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1282",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1114",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1090",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1091",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "26",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "515",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "94",
+     "alin": null,
+     "lit": [
+      "h"
+     ]
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2024-07-04",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/285094",
+  "text_sha256": "87f21c66f98877162960c23e51ac8db2663d213d5e6fdc85ccae53dc3e8bbbac",
+  "catalogue_sha256": "87f21c66f98877162960c23e51ac8db2663d213d5e6fdc85ccae53dc3e8bbbac",
+  "fetched": "2026-11-03T01:09:41Z",
+  "chars": 45435,
+  "portal_id": "285094",
+  "tip": "DECIZIE"
+ }
+}
