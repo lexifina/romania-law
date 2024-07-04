@@ -20,6 +20,7 @@ Initiator: Membri ai Parlamentului.
 - 2024-06-11: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2024-06-17: sent for promulgation
 - 2024-07-03: promulgated, becomes Legea nr. 208/2024; documents published: Decret de promulgare, Forma promulgată
+- 2024-07-04: published in the Monitorul Oficial
 
 ## Documents
 
