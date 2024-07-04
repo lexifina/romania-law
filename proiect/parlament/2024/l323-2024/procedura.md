@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2024-06-11: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2024-06-20: sent for promulgation
 - 2024-07-03: promulgated, becomes Legea nr. 209/2024; documents published: Decret de promulgare, Forma promulgată
+- 2024-07-04: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -34,3 +35,6 @@ Initiator: Guvernul României.
 - 2024-06-11: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L323LP.PDF
 - 2024-07-03: Decret de promulgare (DP): [dp-8aa59e67.md](dp-8aa59e67.md); official file https://www.senat.ro/legis/PDF/2024/24L323DP.PDF
 - 2024-07-03: Forma promulgată (FP): [fp-4f3b3b88.md](fp-4f3b3b88.md); official file https://www.senat.ro/legis/PDF/2024/24L323FP.PDF
+- 2024-07-04: Document (TX): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L323TX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2024-07-04: Document (AL): [al-33884f83.md](al-33884f83.md); official file https://www.senat.ro/legis/PDF/2024/24L323AL.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2024-07-04: Document (TC): [tc-778dbbe7.md](tc-778dbbe7.md); official file https://www.senat.ro/legis/PDF/2024/24L323TC.PDF (its day is not given by the bill file: shown from the last stage held)
