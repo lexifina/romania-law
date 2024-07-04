@@ -1,0 +1,199 @@
+{
+ "key": "iccj-hp-21-2024",
+ "label": "Decizia ÎCCJ nr. 21/2024 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "21",
+ "date": "2024-05-13",
+ "year": "2024",
+ "heading": "DECIZIA nr. 21 din 13 mai 2024",
+ "subtitle": "cu privire la interpretarea dispozițiilor art. 5 din Decretul-lege nr. 118/1990 privind acordarea unor drepturi persoanelor persecutate din motive politice de dictatura instaurată cu începere de la 6 martie 1945, precum și celor deportate în străinătate ori constituite în prizonieri, republicat, cu modificările și completările ulterioare",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "633",
+  "bis": false,
+  "date": "2024-07-04",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "422/1/2024",
+  "3.195/102/2023"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "decret-lege",
+    "label": "Decretul-lege nr. 118/1990",
+    "number": "118",
+    "year": "1990",
+    "path": "decret-lege/1990/118"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": [
+      "6",
+      "7"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "Admite sesizarea formulată de Tribunalul Mureș - Secția contencios administrativ și fiscal în Dosarul nr. 3.195/102/2023 și, în consecință, stabilește că:",
+  "1. În interpretarea dispozițiilor art. 5 alin. (6) din Decretul-lege nr. 118/1990 privind acordarea unor drepturi persoanelor persecutate din motive politice de dictatura instaurată cu începere de la 6 martie 1945, precum și celor deportate în străinătate ori constituite în prizonieri, republicat, cu modificările și completările ulterioare, recunoașterea unor drepturi proprii copilului minor la data la care unul sau ambii părinți au fost strămutați în altă localitate, precum și copilului născut în perioada strămutării are drept consecință, după intrarea în vigoare a acestei norme, încetarea practicii anterioare de recunoaștere a dreptului la aceeași indemnizație în temeiul art. 1 alin. (1) lit. e) din acest act normativ.",
+  "2. În interpretarea dispozițiilor art. 5 alin. (7) din Decretul-lege nr. 118/1990 privind acordarea unor drepturi persoanelor persecutate din motive politice de dictatura instaurată cu începere de la 6 martie 1945, precum și celor deportate în străinătate ori constituite în prizonieri, republicat, cu modificările și completările ulterioare, de aceste prevederi nu pot beneficia copiii persoanelor prevăzute la art. 5 alin. (6) din acest act normativ.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "decret-lege",
+    "label": "Decretul-lege nr. 118/1990",
+    "number": "118",
+    "year": "1990",
+    "path": "decret-lege/1990/118"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": [
+      "6",
+      "7",
+      "8",
+      "4",
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": [
+      "e",
+      "d",
+      "a"
+     ]
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 90
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 130/2020",
+    "number": "130",
+    "year": "2020",
+    "path": "lege/2020/130"
+   },
+   "articles": [],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 71/2022",
+    "number": "71",
+    "year": "2022",
+    "path": "lege/2022/71"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 210/2022",
+    "number": "210",
+    "year": "2022",
+    "path": "lege/2022/210"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanței Guvernului nr. 105/1999",
+    "number": "105",
+    "year": "1999",
+    "path": "og/1999/105"
+   },
+   "articles": [
+    {
+     "art": "3-1",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a",
+      "c"
+     ]
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea contenciosului administrativ nr. 554/2004",
+    "number": "554",
+    "year": "2004",
+    "path": "lege/2004/554"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2024-07-04",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/284843",
+  "text_sha256": "8ddd7ae89d96ae94e389cfd753086533ce9a43868b969ec290b1522b95c4ed62",
+  "catalogue_sha256": "8ddd7ae89d96ae94e389cfd753086533ce9a43868b969ec290b1522b95c4ed62",
+  "fetched": "2026-11-03T01:09:35Z",
+  "chars": 82575,
+  "portal_id": "284843",
+  "tip": "DECIZIE"
+ }
+}
