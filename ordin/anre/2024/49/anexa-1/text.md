@@ -1,0 +1,6 @@
+# Anexa 1
+Anexa nr. 1*)
+*) Anexa nr. 1 este reprodusă în facsimil.
+AUTORITATEA NAȚIONALĂ DE REGLEMENTARE ÎN DOMENIUL ENERGIEI
+BUGETUL DE VENITURI ȘI CHELTUIELI RECTIFICAT
+pe anul 2024
