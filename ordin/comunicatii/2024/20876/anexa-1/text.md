@@ -1,0 +1,2 @@
+# ANEXĂ
+SCHEMĂ DE AJUTOR DE MINIMIS pentru dezvoltarea Programului de mentorat Orizont Europa, aferentă Planului național de redresare și reziliență al României 2021-2026, pilonul III, componenta C9 „Suport pentru sectorul privat, cercetare, dezvoltare și inovare”, investiția 6 „Programul de mentorat Orizont Europa”
