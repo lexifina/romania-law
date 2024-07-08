@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2024-06-18: adopted by the Chamber of Deputies
 - 2024-06-25: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2024-06-27: sent for promulgation
+- 2024-07-08: promulgated, becomes Legea nr. 218/2024; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -33,3 +34,5 @@ Initiator: Guvernul României.
 - 2019-09-16: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L319AM.PDF
 - 2024-06-25: Adresă privind sesizarea CCR (AXS): [axs-c0dcc857.md](axs-c0dcc857.md); official file https://www.senat.ro/legis/PDF/2019/19L319AXS.PDF
 - 2024-06-25: Forma trimisă la promulgare (LP): [lp-79f334d1.md](lp-79f334d1.md); official file https://www.senat.ro/legis/PDF/2019/19L319LP.PDF
+- 2024-07-08: Decret de promulgare (DP): [dp-d321f295.md](dp-d321f295.md); official file https://www.senat.ro/legis/PDF/2019/19L319DP.PDF
+- 2024-07-08: Forma promulgată (FP): [fp-23dd9110.md](fp-23dd9110.md); official file https://www.senat.ro/legis/PDF/2019/19L319FP.PDF
