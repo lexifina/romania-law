@@ -1,0 +1,7 @@
+# ANEXĂ
+DATELE DE IDENTIFICARE ale bunurilor din infrastructura secundară de irigații, aflate în domeniul privat al statului și în administrarea Agenției Naționale de Îmbunătățiri Funciare, Filiala Teritorială de Îmbunătățiri Funciare Galați, care se transmit în proprietatea Organizației utilizatorilor de apă pentru irigații Cudalbi Plot 50 din județul Galați
+Nr. crt. Codul de clasificare și nr. MFP alocat prin Ordinul ministrului finanțelor publice și al ministrului delegat pentru buget nr. 668/2014, cu modificările și completările ulterioare Persoana juridică de la care se transmite imobilul Persoana juridică la care se transmite imobilul Denumirea bunului Descrierea tehnică Adresa
+Valoarea de inventar (lei) 0 1 2 3 4 5 6 7
+1. 9/INVPPS-6504999-2016 Agenția Națională de Îmbunătățiri Funciare CIF 29275212 Organizația utilizatorilor de apă pentru irigații Cudalbi Plot 50 Sediul: comuna Cudalbi, județul Galați Înregistrată în Registrul național al organizațiilor de îmbunătățiri funciare cu nr. 131 din 15.02.2006 CIF: 18480696 Teren stație SPP 50 Nr. inventar 1570 Terenul aferent stației de punere sub presiune SPP50 situat în extravilan, în suprafață totală de 1.212 mp UAT Cudalbi, județul Galați 670,95
+2. 9/INVPPS-6505001-2016 Teren stație SPP 51 Nr. inventar 1571 Terenul aferent stației de punere sub presiune SPP51 situat în extravilan, în suprafața totală de 1.212 mp UAT Grivița, județul Galați 670,95
+-----
