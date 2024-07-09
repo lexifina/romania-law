@@ -1,0 +1,417 @@
+{
+ "key": "iccj-scaf-3741-2023",
+ "label": "Decizia ÎCCJ nr. 3741/2023 (SCAF)",
+ "court": "iccj",
+ "kind": "alta",
+ "panel": "scaf",
+ "number": "3741",
+ "date": "2023-07-13",
+ "year": "2023",
+ "heading": "DECIZIA nr. 3.741 din 13 iulie 2023",
+ "subtitle": "referitoare la soluționarea recursului declarat de pârâtul Guvernul României prin Secretariatul General al Guvernului împotriva Sentinței civile nr. 1 din 4 ianuarie 2022 a Curții de Apel București - Secția a IX-a contencios administrativ și fiscal și a Încheierii de ședință din 14 iulie 2022 privind îndreptarea erorii materiale, precum și a recursului formulat de pârâtul Comitetul Național pentru Situații de Urgență prin reprezentant legal Departamentul pentru Situații de Urgență din cadrul Ministerului Afacerilor Interne împotriva Sentinței civile nr. 1 din 4 ianuarie 2022 a Curții de Apel București - Secția a IX-a de contencios administrativ și fiscal",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - SECȚIA DE CONTENCIOS ADMINISTRATIV ȘI FISCAL",
+ "mo": {
+  "number": "651",
+  "bis": false,
+  "date": "2024-07-09",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "8.178/2/2021"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "hg",
+    "label": "H.G. nr. 1.242/2021",
+    "number": "1242",
+    "year": "2021",
+    "path": "hg/2021/1242"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Respinge excepția tardivității recursului formulat de pârâtul Guvernul României împotriva soluției prin care s-a dispus suspendarea dispozițiilor din anexele la H.G. nr. 1.242/2021, invocată din oficiu.",
+  "Respinge excepția nulității recursurilor invocată de intimatul-intervenient X.",
+  "Respinge recursurile formulate de pârâtul Guvernul României prin Secretariatul General al Guvernului împotriva Sentinței civile nr. 1 din 4 ianuarie 2022 a Curții de Apel București - Secția a IX-a contencios administrativ și fiscal și a Încheierii de ședință din 14 iulie 2022 a aceleiași instanțe, ca nefondate.",
+  "Respinge recursul formulat de pârâtul Comitetul Național pentru Situații de Urgență prin reprezentant legal Departamentul pentru Situații de Urgență din cadrul Ministerului Afacerilor Interne împotriva Sentinței civile nr. 1 din 4 ianuarie 2022 a Curții de Apel București - Secția a IX-a de contencios administrativ și fiscal, ca nefondat.",
+  "Definitivă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "hg",
+    "label": "H.G. nr. 1.242/2021",
+    "number": "1242",
+    "year": "2021",
+    "path": "hg/2021/1242"
+   },
+   "articles": [],
+   "mentions": 28
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "488",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "61",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "62",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "63",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "64",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "486",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "490",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "183",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "181",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "425",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "453",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 25
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 554/2004",
+    "number": "554",
+    "year": "2004",
+    "path": "lege/2004/554"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituției",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "53",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "34",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "H.G. nr. 759/2009",
+    "number": "759",
+    "year": "2009",
+    "path": "hg/2009/759"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 55/2020",
+    "number": "55",
+    "year": "2020",
+    "path": "lege/2020/55"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 136/2020",
+    "number": "136",
+    "year": "2020",
+    "path": "lege/2020/136"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": [
+      "o"
+     ]
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretul nr. 195/2020",
+    "number": "195",
+    "year": "2020",
+    "path": "decret/2020/195"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "O.U.G. nr. 30/2007",
+    "number": "30",
+    "year": "2007",
+    "path": "oug/2007/30"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "O.G. nr. 137/2000",
+    "number": "137",
+    "year": "2000",
+    "path": "og/2000/137"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "H.G. nr. 1.491/2004",
+    "number": "1491",
+    "year": "2004",
+    "path": "hg/2004/1491"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "O.U.G. nr. 68/2021",
+    "number": "68",
+    "year": "2021",
+    "path": "oug/2021/68"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "84",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "H.G. nr. 561/2009",
+    "number": "561",
+    "year": "2009",
+    "path": "hg/2009/561"
+   },
+   "articles": [],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2024-07-09",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/285209",
+  "text_sha256": "2162920b51d2a8e26bbf5c32d2599f1ce807d2a8469e1269ca77d8ea812a15c2",
+  "catalogue_sha256": "2162920b51d2a8e26bbf5c32d2599f1ce807d2a8469e1269ca77d8ea812a15c2",
+  "fetched": "2026-11-03T01:09:30Z",
+  "chars": 93292,
+  "portal_id": "285209",
+  "tip": "DECIZIE"
+ }
+}
