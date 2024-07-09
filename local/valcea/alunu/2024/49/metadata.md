@@ -1,0 +1,10 @@
+# HCL Alunu nr. 49/2024
+
+Text not yet included: no document of it is held. It will be added when it is.
+
+- Council: Consiliul Local al Comunei Alunu
+- Decision: nr. 49/2024
+- Adopted: 2024-05-30
+- Published: 2024-07-09
+- Title: privind exceptarea Serviciului public de alimentare cu apă și canalizare Alunu, aflat în subordinea Consiliului Local Alunu, Județul Vâlcea, serviciu cu personalitate juridică de la aplicarea prevederilor art. XXIX, alin. (1) din Legea nr. 296/2023 privind unele măsuri fiscal-bugetare pentru asigurarea sustenabilității financiare a României pe termen lung, cu modificările și completările ulterioare
+- Record: https://emol.ro/alunu-vl/registru-hcl/161916
