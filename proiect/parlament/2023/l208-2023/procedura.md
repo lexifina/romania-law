@@ -23,6 +23,7 @@ Initiator: Membri ai Parlamentului.
 - 2024-02-28: returned for re-examination
 - 2024-03-04: returned for re-examination
 - 2024-03-16: sent for promulgation
+- 2024-07-09: published in the Monitorul Oficial
 
 ## Documents
 
