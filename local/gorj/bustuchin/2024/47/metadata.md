@@ -1,0 +1,10 @@
+# HCL Bustuchin nr. 47/2024
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+- Council: Consiliul Local al Comunei Bustuchin
+- Decision: nr. 47/2024
+- Adopted: 2024-06-28
+- Published: 2024-07-10
+- Title: privind modificarea anexei la HCL Bustuchin nr.24/29.03.2024
+- Record: https://emol.ro/bustuchin-gj/registru-hcl/161156
