@@ -1,0 +1,42 @@
+{
+ "key": "cjue-c-318-24-concluzii-2024-07-11",
+ "label": "CJUE, Concluziile avocatei generale J. Kokott prezentate la 11 iulie 2024, Cauza C-318/24 PPU.",
+ "court": "cjue",
+ "court_name": "Curtea de Justiție a Uniunii Europene",
+ "kind": "concluzii",
+ "act_type": "OPIN_AG",
+ "date": "2024-07-11",
+ "year": "2024",
+ "case": "Cauza C-318/24 PPU.",
+ "celex": "62024CC0318",
+ "ecli": "ECLI:EU:C:2024:617",
+ "heading": "Concluziile avocatei generale J. Kokott prezentate la 11 iulie 2024",
+ "formation": null,
+ "procedure": "REFER_PREL_URG",
+ "romania_role": [
+  "originates"
+ ],
+ "referred_by": null,
+ "referral_text": "Cerere de decizie preliminară formulată de Curtea de Apel Brașov.",
+ "national_followup": null,
+ "parties": null,
+ "parties_withheld": true,
+ "keywords": "Trimitere preliminară – Cooperarea judiciară în materie penală – Mandat european de arestare – Decizia‑cadru 2002/584/JAI – Predarea persoanelor căutate autorităților judiciare emitente – Respectarea drepturilor fundamentale – Deficiențe sistemice sau generalizate cu privire la independența puterii judecătorești din statul membru emitent – Deficiențe privind absența dovezii depunerii jurământului de către judecători – Interzicerea tratamentelor inumane sau degradante – Condiții de detenție în statul membru emitent – Apreciere de către autoritatea judiciară de executare – Refuzul executării mandatului european de arestare de către autoritatea judiciară de executare – Efectele acestui refuz pentru autoritatea judiciară de executare a unui alt stat membru.",
+ "interprets": [],
+ "text": null,
+ "text_withheld": "personal_data",
+ "withheld_reason": "The full text names the parties' lawyers (and, in older cases, private parties); only the metadata and the operative part are published here, with the official link.",
+ "operative_missing": null,
+ "eurlex_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62024CC0318",
+ "curia_url": "https://curia.europa.eu/juris/liste.jsf?num=C-318/24&language=ro",
+ "source": {
+  "name": "CELLAR, Publications Office of the European Union",
+  "url": "http://publications.europa.eu/resource/cellar/f9055f8b-3f7f-11ef-865a-01aa75ed71a1.0003.05/DOC_1",
+  "format": "xhtml",
+  "sha256": [
+   "a3e0a26b0795f4a4a84bdda98eecb335e05c7c4078fbea92fd6f6aac76325413"
+  ]
+ },
+ "legal_basis": "Jurisprudența Curții de Justiție a Uniunii Europene (texte oficiale; reutilizare permisă cu menționarea sursei: Decizia Comisiei 2011/833/UE și condițiile CURIA; © Uniunea Europeană). Textele oficiale nu sunt protejate de dreptul de autor în România (Legea nr. 8/1996, art. 9 lit. b).",
+ "attribution": "© European Union, https://eur-lex.europa.eu (via the Publications Office CELLAR)"
+}
