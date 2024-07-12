@@ -1,0 +1,289 @@
+{
+ "key": "iccj-hp-28-2024",
+ "label": "Decizia ÎCCJ nr. 28/2024 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "28",
+ "date": "2024-06-03",
+ "year": "2024",
+ "heading": "DECIZIA nr. 28 din 3 iunie 2024",
+ "subtitle": "referitoare la interpretarea dispozițiilor art. 30 alin. (4^4) din Legea nr. 263/2010 privind sistemul unitar de pensii publice, cu modificările și completările ulterioare",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "669",
+  "bis": false,
+  "date": "2024-07-12",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "757/1/2024",
+  "2.755/95/2022"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 263/2010",
+    "number": "263",
+    "year": "2010",
+    "path": "lege/2010/263"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "4-4",
+      "1"
+     ],
+     "lit": [
+      "i"
+     ]
+    },
+    {
+     "art": "100",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "Admite sesizarea formulată de Curtea de Apel Craiova - Secția de litigii de muncă și asigurări sociale, în Dosarul nr. 2.755/95/2022, privind pronunțarea unei hotărâri prealabile și, în consecință, stabilește că: În interpretarea dispozițiilor art. 30 alin. (4^4) din Legea nr. 263/2010 privind sistemul unitar de pensii publice, cu modificările și completările ulterioare, asimilarea perioadei anterioare datei de 1 aprilie 2001, în care salariații au desfășurat activități dintre cele prevăzute de art. 30 alin. (1) lit. i) din aceeași lege, în locurile de muncă încadrate în grupa a II-a de muncă, unui stagiu de cotizare în condiții speciale de muncă, produce efecte și sub aspectul majorării punctajelor lunare cu 50%, conform art. 100 lit. b) din Legea nr. 263/2010, iar nu doar cu privire la determinarea stagiului de cotizare, potrivit art. 56 alin. (1) lit. d), și la reducerea vârstei de pensionare, potrivit art. 56^2 din Legea nr. 263/2010.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 263/2010",
+    "number": "263",
+    "year": "2010",
+    "path": "lege/2010/263"
+   },
+   "articles": [
+    {
+     "art": "56",
+     "alin": [
+      "1",
+      "3"
+     ],
+     "lit": [
+      "d"
+     ]
+    },
+    {
+     "art": "56-2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "30",
+     "alin": [
+      "1",
+      "4-4"
+     ],
+     "lit": [
+      "i"
+     ]
+    },
+    {
+     "art": "100",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "155",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "j"
+     ]
+    }
+   ],
+   "mentions": 99
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 74/2022",
+    "number": "74",
+    "year": "2022",
+    "path": "lege/2022/74"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "96",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 197/2021",
+    "number": "197",
+    "year": "2021",
+    "path": "lege/2021/197"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "i"
+     ]
+    },
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 19
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 19/2000",
+    "number": "19",
+    "year": "2000",
+    "path": "lege/2000/19"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 18/2018",
+    "number": "18",
+    "year": "2018",
+    "path": "oug/2018/18"
+   },
+   "articles": [
+    {
+     "art": "IV",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 227/2015",
+    "number": "227",
+    "year": "2015",
+    "path": "lege/2015/227"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituția României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2024-07-12",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/285339",
+  "text_sha256": "e9d07f6f470c53b359f8a5eee70ec0f6d1150180e726bc46b1db8c8f3cc609cf",
+  "catalogue_sha256": "e9d07f6f470c53b359f8a5eee70ec0f6d1150180e726bc46b1db8c8f3cc609cf",
+  "fetched": "2026-11-03T01:09:12Z",
+  "chars": 91315,
+  "portal_id": "285339",
+  "tip": "DECIZIE"
+ }
+}
