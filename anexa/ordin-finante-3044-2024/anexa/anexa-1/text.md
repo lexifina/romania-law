@@ -1,0 +1,26 @@
+# Anexa 1
+ANEXĂ
+la procedură
+Denumirea entității nonprofit/societății deținute integral de entitatea/entitățile nonprofit ...................
+Codul de identificare fiscală ...............
+Adresa .............
+Telefon .............
+Nr. de înregistrare ..............
+CERERE DE RESTITUIRE
+a TVA aferente achizițiilor de bunuri sau servicii efectuate de
+entitățile nonprofit, respectiv de societățile deținute integral de
+entitățile nonprofit, pentru care se aplică scutirea prevăzută la
+art. 294 alin. (5) lit. a)-b^1) din Legea nr. 227/2015 privind Codul fiscal
+În conformitate cu prevederile art. 2 din Procedura de restituire a TVA aferente achizițiilor de bunuri sau servicii efectuate de entitățile nonprofit și de societățile deținute integral de entitățile nonprofit, pentru care se aplică scutirea de taxă conform art. 294 alin. (5) lit. a)-b^1) din Legea nr. 227/2015 privind Codul fiscal , prin prezenta cerere solicităm restituirea taxei pe valoarea adăugată, în sumă de .............. lei, pentru bunurile/serviciile achiziționate care sunt:
+[ ] destinate unităților spitalicești deținute și exploatate de entitatea nonprofit/societatea deținută integral de entitatea/entitățile nonprofit, respectiv: ...................................................................................... (denumirea și adresa unității spitalicești)
+...................................................................................... (denumirea și adresa unității spitalicești)
+[ ] donate/puse gratuit la dispoziția unităților spitalicești din rețeaua publică de stat, respectiv: ...................................................................................... (denumirea și adresa unității spitalicești beneficiare)
+...................................................................................... (denumirea și adresa unității spitalicești beneficiare)
+Solicităm restituirea în contul nr. .............., deschis la .................., sucursala .......... .
+Reprezentantul legal al entității nonprofit/societății deținute integral de entitatea/entitățile nonprofit,
+......................................................................................
+(numele și prenumele)
+......................................................................................
+(semnătura)
+Data ......................
+-----
