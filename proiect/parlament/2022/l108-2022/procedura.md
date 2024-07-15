@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2024-06-18: adopted by the Chamber of Deputies
 - 2024-06-25: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2024-07-01: sent for promulgation
+- 2024-07-15: promulgated, becomes Legea nr. 221/2024; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -34,3 +35,5 @@ Initiator: Guvernul României.
 - 2022-03-28: Adresă către Camera Deputaților (AM): [am-a2d67974.md](am-a2d67974.md); official file https://www.senat.ro/legis/PDF/2022/22L108AM.PDF
 - 2024-06-25: Adresă privind sesizarea CCR (AXS): [axs-c0dcc857.md](axs-c0dcc857.md); official file https://www.senat.ro/legis/PDF/2022/22L108AXS.PDF
 - 2024-06-25: Forma trimisă la promulgare (LP): [lp-81aa075a.md](lp-81aa075a.md); official file https://www.senat.ro/legis/PDF/2022/22L108LP.PDF
+- 2024-07-15: Decret de promulgare (DP): [dp-857c674a.md](dp-857c674a.md); official file https://www.senat.ro/legis/PDF/2022/22L108DP.PDF
+- 2024-07-15: Forma promulgată (FP): [fp-fa91ccbd.md](fp-fa91ccbd.md); official file https://www.senat.ro/legis/PDF/2022/22L108FP.PDF
