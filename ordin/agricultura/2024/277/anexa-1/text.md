@@ -1,0 +1,15 @@
+# ANEXĂ
+DATELE DE IDENTIFICARE ale bunurilor din infrastructura secundară de irigații, aflate în domeniul privat al statului și în administrarea
+Agenției Naționale de Îmbunătățiri Funciare, care se transmit în proprietatea Organizației utilizatorilor de apă pentru irigații Buhoci din județul Bacău
+Nr. crt. Codul de clasificare și nr. MFP alocat prin Ordinul ministrului finanțelor publice și al ministrului delegat pentru buget nr. 668/2014, cu modificările și completările ulterioare
+Persoana juridică de la care se transmite imobilul
+Persoana juridică la care se transmite imobilul Denumirea bunului Descrierea tehnică Adresa Valoarea de inventar (lei) 1 1.8.12 INVPPS- 6505209-2016 Agenția Națională de Îmbunătățiri Funciare CIF 29275212 Organizația utilizatorilor de apă pentru irigații Buhoci Sediul: satul Buhoci, comuna Buhoci Înregistrată în Registrul național al organizațiilor de îmbunătățiri funciare cu nr. 579 din 13.04.2018 CIF RO39732494 Stație pompare SPAC Buhoci
+Stație pompare SPAC Buhoci 1.1. Rețea alimentare energie electrică Buhoci - 1 buc. 1.2. Construcție SPAC Buhoci - 1 buc. Suprafață desfășurată = 35,98 mp Suprafață construită la sol = 17,99 mp Regim de înălțime - parter + etaj 1.3. Consolidare mal 50 ml Buhoci - 1 buc. (1.1. + 1.2. + 1.3. = 38.650 RON) 1.4. Construcție SPAC Buhoci (anexă) - 1 buc. 1.4. = 1.350 RON
+Suprafață desfășurată = 55,25 mp Suprafață construită la sol = 55,25 mp Regim de înălțime - parter
+UAT Buhoci, județul Bacău 40.000 2 1.8.12 INVPPS- 6505211-2016 Stație pompare SPAU Buhoci
+Stație pompare SPAU Buhoci 2.1. Construcție SPAU Buhoci - 1 buc. 2.1. = 8.300 ron Suprafață desfășurată = 11,88 mp Suprafață construită la sol = 11,88 mp Regim de înălțime - parter 2.2. Bazin stocare Buhoci 1 buc. 2.2. = 7.000 Ron Suprafață desfășurată = 45.220 mp Suprafață construită la sol = 45.220 mp Regim de înălțime - parter 15.300 3 1.8.6 INVPPS- 6505213-2016 Conductă îngropată 15.100 ml Buhoci
+Conductă îngropată Lungime CP + antene = 15.100 ml CP + CP1+ CP2 + CP3 + CP4 + CP5 = 4.660 ml CP - 155 ml/DN600, CP1 - 370 ml/DN400 CP2 parțial - 1.430 ml/DN400 CP3 - 1.240 ml = 800 ml/DN350 + 440 ml/DN300 CP4 - 1.215 ml/DN250, CP5 - 250 ml/DN250 Antene A1 + A1-a + A2 + A2-a + A3 +A3-a + A4 + A4-a + A5 + A6 = 10.440 ml A1 - 1.296 ml = 684 ml/DN150 + 612 ml/DN125
+A1-a - 1.951 ml = 1.044 ml/DN150 + 907 ml/DN125
+A2 - 3.012 m = 1.260 ml/DN250 + 864 ml/DN200 + 600 ml/DN150 + 288 ml/DN125 A2-a = 288 ml/DN125 A3 - 1.340 ml = 540 ml/DN250 + 440 ml/DN200 + 360 ml/DN125
+A3-a - 288 ml/DN125 A4 - 972 ml = 540 ml/DN200 + 432 ml/DN125 A4-a - 288 ml/DN125 A5 - 290 ml/DN125, A6 - 715 ml/DN125 Subtraversări - 8 buc. 63.498 4 1.8.6 INVPPS-26447342-2018 Conductă îngropată 5.400 ml Traian Conductă îngropată Lungime CP + antene = 5.400 ml CP2 parțial - 2.255 ml = 1.495 ml/DN400 + 363 ml/DN350 + 397 ml/DN150 Antene A7 + A8 + A9 + A10 = 3.145 ml A7 - 743 ml = 468 ml/DN200 + 275 ml/DN125 A8 - 956 ml = 324 ml/DN200 + 632 ml/DN150 A9 - 1.122 ml = 672 ml/DN250 + 450 ml/DN150 A10 - 324 ml/DN125 UAT Traian, județul Bacău 18.702
+----
