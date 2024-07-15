@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2024-06-25: adopted by the Senate; documents published: Forma adoptată de Senat
 - 2024-06-26: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2024-07-01: sent for promulgation
+- 2024-07-15: promulgated, becomes Legea nr. 220/2024; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -31,3 +32,5 @@ Initiator: Guvernul României.
 - 2024-06-25: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L303FS.PDF
 - 2024-06-26: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L303AXS.PDF
 - 2024-06-26: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L303LP.PDF
+- 2024-07-15: Decret de promulgare (DP): [dp-952ba9e6.md](dp-952ba9e6.md); official file https://www.senat.ro/legis/PDF/2024/24L303DP.PDF
+- 2024-07-15: Forma promulgată (FP): [fp-f783fbe5.md](fp-f783fbe5.md); official file https://www.senat.ro/legis/PDF/2024/24L303FP.PDF
