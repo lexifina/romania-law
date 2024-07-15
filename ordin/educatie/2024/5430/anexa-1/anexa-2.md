@@ -1,0 +1,6 @@
+# Anexa nr. 2 la normele metodologice
+DEVIZ PRELIMINAR ESTIMATIV (pentru activități online)
+Tip cheltuială Număr participanți Cuantum/participant Suma totală
+Cheltuieli specifice de organizare W 100 W * 100
+Rector,................
+Coordonator proiect,................
