@@ -21,6 +21,7 @@ Initiator: Guvernul României.
 - 2024-06-26: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2024-06-28: sent for promulgation
 - 2024-07-15: promulgated, becomes Legea nr. 219/2024; documents published: Decret de promulgare, Forma promulgată
+- 2024-07-16: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -39,3 +40,4 @@ Initiator: Guvernul României.
 - 2024-06-26: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L282LP.PDF
 - 2024-07-15: Decret de promulgare (DP): [dp-baf4413b.md](dp-baf4413b.md); official file https://www.senat.ro/legis/PDF/2024/24L282DP.PDF
 - 2024-07-15: Forma promulgată (FP): [fp-f6a1a22c.md](fp-f6a1a22c.md); official file https://www.senat.ro/legis/PDF/2024/24L282FP.PDF
+- 2024-07-16: Document (AL): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L282AL.PDF (its day is not given by the bill file: shown from the last stage held)
