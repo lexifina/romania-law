@@ -10,7 +10,11 @@ Initiator: Membri ai Parlamentului.
 
 - 2024-06-12: registered at the Senate
 - 2024-06-26: documents published: Aviz comisie
+- 2024-07-16: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 
 ## Documents
 
 - 2024-06-26: Aviz comisie (CA45): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L417CA45.PDF
+- 2024-07-16: Adresă de înaintare a inițiativei (AD): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L417AD.PDF
+- 2024-07-16: Forma inițiatorului (FG): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L417FG.PDF
+- 2024-07-16: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L417EM.PDF
