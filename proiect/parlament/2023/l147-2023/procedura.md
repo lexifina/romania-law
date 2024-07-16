@@ -18,6 +18,7 @@ Initiator: Membri ai Parlamentului.
 - 2024-06-18: adopted by the Chamber of Deputies
 - 2024-06-25: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2024-07-01: sent for promulgation
+- 2024-07-16: promulgated, becomes Legea nr. 223/2024; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -31,3 +32,5 @@ Initiator: Membri ai Parlamentului.
 - 2023-05-15: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L147AM.PDF
 - 2024-06-25: Adresă privind sesizarea CCR (AXS): [axs-c0dcc857.md](axs-c0dcc857.md); official file https://www.senat.ro/legis/PDF/2023/23L147AXS.PDF
 - 2024-06-25: Forma trimisă la promulgare (LP): [lp-13325384.md](lp-13325384.md); official file https://www.senat.ro/legis/PDF/2023/23L147LP.PDF
+- 2024-07-16: Decret de promulgare (DP): [dp-74db0f63.md](dp-74db0f63.md); official file https://www.senat.ro/legis/PDF/2023/23L147DP.PDF
+- 2024-07-16: Forma promulgată (FP): [fp-d5423ea6.md](fp-d5423ea6.md); official file https://www.senat.ro/legis/PDF/2023/23L147FP.PDF
