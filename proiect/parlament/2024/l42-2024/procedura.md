@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2024-06-18: adopted by the Chamber of Deputies
 - 2024-06-25: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2024-07-01: sent for promulgation
+- 2024-07-16: promulgated, becomes Legea nr. 224/2024; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -38,3 +39,5 @@ Initiator: Guvernul României.
 - 2024-03-11: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L042AM.PDF
 - 2024-06-25: Adresă privind sesizarea CCR (AXS): [axs-c0dcc857.md](axs-c0dcc857.md); official file https://www.senat.ro/legis/PDF/2024/24L042AXS.PDF
 - 2024-06-25: Forma trimisă la promulgare (LP): [lp-d0e16520.md](lp-d0e16520.md); official file https://www.senat.ro/legis/PDF/2024/24L042LP.PDF
+- 2024-07-16: Decret de promulgare (DP): [dp-afa2295f.md](dp-afa2295f.md); official file https://www.senat.ro/legis/PDF/2024/24L042DP.PDF
+- 2024-07-16: Forma promulgată (FP): [fp-592933eb.md](fp-592933eb.md); official file https://www.senat.ro/legis/PDF/2024/24L042FP.PDF
