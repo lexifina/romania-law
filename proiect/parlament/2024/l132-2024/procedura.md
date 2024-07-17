@@ -17,6 +17,7 @@ Initiator: Guvernul României.
 - 2024-03-25: registered at the Chamber of Deputies
 - 2024-06-26: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2024-06-28: sent for promulgation
+- 2024-07-17: promulgated, becomes Legea nr. 229/2024; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -32,3 +33,5 @@ Initiator: Guvernul României.
 - 2024-03-18: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L132AM.PDF
 - 2024-06-26: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L132AXS.PDF
 - 2024-06-26: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L132LP.PDF
+- 2024-07-17: Decret de promulgare (DP): [dp-127fdb80.md](dp-127fdb80.md); official file https://www.senat.ro/legis/PDF/2024/24L132DP.PDF
+- 2024-07-17: Forma promulgată (FP): [fp-4e0148ba.md](fp-4e0148ba.md); official file https://www.senat.ro/legis/PDF/2024/24L132FP.PDF
