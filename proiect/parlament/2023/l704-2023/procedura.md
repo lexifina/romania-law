@@ -20,6 +20,7 @@ Initiator: Guvernul României.
 - 2024-06-26: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2024-06-28: sent for promulgation
 - 2024-07-17: promulgated, becomes Legea nr. 231/2024; documents published: Decret de promulgare, Forma promulgată
+- 2024-07-18: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -42,3 +43,4 @@ Initiator: Guvernul României.
 - 2024-06-26: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L704LP.PDF
 - 2024-07-17: Decret de promulgare (DP): [dp-c6a62a19.md](dp-c6a62a19.md); official file https://www.senat.ro/legis/PDF/2023/23L704DP.PDF
 - 2024-07-17: Forma promulgată (FP): [fp-0187ab2a.md](fp-0187ab2a.md); official file https://www.senat.ro/legis/PDF/2023/23L704FP.PDF
+- 2024-07-18: Document (TA): [ta-17198237.md](ta-17198237.md); official file https://www.senat.ro/legis/PDF/2023/23L704TA.PDF (its day is not given by the bill file: shown from the last stage held)
