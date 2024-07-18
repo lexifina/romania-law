@@ -1,0 +1,442 @@
+{
+ "key": "iccj-hp-penal-37-2024",
+ "label": "Decizia ÎCCJ nr. 37/2024 (HP penal)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp-penal",
+ "number": "37",
+ "date": "2024-06-17",
+ "year": "2024",
+ "heading": "DECIZIA nr. 37 din 17 iunie 2024",
+ "subtitle": "referitoare la sesizarea formulată de Curtea de Apel Târgu Mureș - Secția penală și pentru cauze cu minori și de familie, în baza art. 475 din Codul de procedură penală, în vederea pronunțării unei hotărâri prealabile pentru dezlegarea chestiunii de drept în materie penală",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT ÎN MATERIE PENALĂ",
+ "mo": {
+  "number": "697",
+  "bis": false,
+  "date": "2024-07-18",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "681/1/2024",
+  "2.958/102/2021"
+ ],
+ "subjects": [],
+ "operative": [
+  "Admite sesizarea formulată de Curtea de Apel Târgu Mureș - Secția penală și pentru cauze cu minori și de familie, prin care se solicită pronunțarea unei hotărâri prealabile pentru dezlegarea următoarei chestiuni de drept:",
+  "Instanțele de judecată sunt obligate să lase neaplicată dezlegarea chestiunii de drept privitoare la aplicarea principiului mitior lex în materia întreruperii cursului prescripției, dată prin Decizia nr. 67/2022 a Înaltei Curți de Casație și Justiție - Completul pentru dezlegarea unor chestiuni de drept în materie penală, în limitele rezultate din Hotărârea Curții de Justiție a Uniunii Europene pronunțată în 24 iulie 2023 în Cauza C-107/23 PPU? și stabilește că: 1.",
+  "Instanțele de judecată nu pot lăsa neaplicată dezlegarea chestiunii de drept privitoare la aplicarea principiului mitior lex în materia întreruperii cursului prescripției răspunderii penale, dată prin Decizia nr. 67/2022 a Înaltei Curți de Casație și Justiție - Completul pentru dezlegarea unor chestiuni de drept în materie penală, în limitele rezultate din hotărârea Curții de Justiție a Uniunii Europene pronunțată în 24 iulie 2023 în Cauza C-107/23 PPU (limite prevăzute în dispozitivul hotărârii la pct. 1 teza a II-a).",
+  "2. Dezlegarea dată prin Decizia nr. 67/2022 a Înaltei Curți de Casație și Justiție - Completul pentru dezlegarea unor chestiuni de drept în materie penală se va aplica în condițiile stabilite de aceasta și actelor de procedură efectuate înainte de 25 iunie 2018, data publicării Deciziei nr. 297/2018 a Curții Constituționale.",
+  "Obligatorie de la data publicării în Monitorul Oficial al României, Partea I, potrivit art. 477 alin. (3) din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția europeană a drepturilor omului",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "325",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "49",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": [
+      "12"
+     ],
+     "lit": null
+    },
+    {
+     "art": "147",
+     "alin": [
+      "1",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 165
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 241/2005",
+    "number": "241",
+    "year": "2005",
+    "path": "lege/2005/241"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "35",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "155",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "124",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "153",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "154",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 53
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 129/2019",
+    "number": "129",
+    "year": "2019",
+    "path": "lege/2019/129"
+   },
+   "articles": [
+    {
+     "art": "49",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "c",
+      "a"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 71/2022",
+    "number": "71",
+    "year": "2022",
+    "path": "oug/2022/71"
+   },
+   "articles": [],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "475",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "476",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "473",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "595",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "126",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": [
+      "12"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "147",
+     "alin": [
+      "1",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "148",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 33
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "604",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 78/2000",
+    "number": "78",
+    "year": "2000",
+    "path": "lege/2000/78"
+   },
+   "articles": [
+    {
+     "art": "18-1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 173/2022",
+    "number": "173",
+    "year": "2022",
+    "path": "lege/2022/173"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolului nr. 16",
+    "path": null,
+    "slug": "conventia-edo-protocolul-16"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 27/2012",
+    "number": "27",
+    "year": "2012",
+    "path": "lege/2012/27"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [
+  "subjects: none parsed"
+ ],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2024-07-18",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/285578",
+  "text_sha256": "a80f85042d78bd1ceb10eea14dabcb459698fae3614926f830864222a4a7f936",
+  "catalogue_sha256": "a80f85042d78bd1ceb10eea14dabcb459698fae3614926f830864222a4a7f936",
+  "fetched": "2026-11-03T01:08:58Z",
+  "chars": 280678,
+  "portal_id": "285578",
+  "tip": "DECIZIE"
+ }
+}
