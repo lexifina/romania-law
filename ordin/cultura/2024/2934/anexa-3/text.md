@@ -1,0 +1,9 @@
+# Anexa nr. 2 la normele metodologice
+DECLARAȚIE PE PROPRIA RĂSPUNDERE (pentru solicitantul persoană juridică de drept public sau cult religios recunoscut de lege)
+Subsemnatul/Subsemnata,........................................, cu domiciliul în județul....................................., municipiul/orașul/comuna............., satul....................., sectorul.............., str........... nr..........., bl........, sc.........., et...., ap............, tel................, e-mail...................., posesor/posesoare al/a BI/CI seria....... nr........................... eliberat(ă) de....................... la data de............................., în calitate de reprezentant legal al........................................................... (denumirea solicitantului, persoană juridică de drept public sau cult religios recunoscut de lege), declar pe propria răspundere, sub sancțiunea falsului în declarații, că imobilul (teren și/sau construcții) pentru care solicit finanțare prin Programul național de restaurare a monumentelor istorice - sesiunea.............................. - nu face obiectul unui litigiu aflat pe rolul instanțelor judecătorești privitor la dreptul de proprietate/ de administrare, după caz;
+- nu se află sub sechestru asigurător;
+- nu este ipotecat.
+Declar că nu dispunem de resursele financiare necesare desfășurării activității de protejare sau de intervenție, respectiv de punere în valoare ori reintegrare în circuitul cultural și/sau turistic a monumentului istoric, după caz.
+Declar că pentru aceeași categorie de servicii/lucrări nu beneficiem de fonduri din alte programe, naționale sau comunitare, inclusiv din contracte de împrumut semnate cu instituții de credit sau instituții financiare interne sau internaționale, pentru cheltuielile eligibile prin PNR.
+Semnătura......................
+Data................................
