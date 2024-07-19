@@ -19,6 +19,7 @@ Initiator: Membri ai Parlamentului.
 - 2024-03-04: registered at the Chamber of Deputies
 - 2024-06-26: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2024-07-01: sent for promulgation
+- 2024-07-19: promulgated, becomes Legea nr. 239/2024; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -32,3 +33,5 @@ Initiator: Membri ai Parlamentului.
 - 2024-02-26: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L734AM.PDF
 - 2024-06-26: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L734AXS.PDF
 - 2024-06-26: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L734LP.PDF
+- 2024-07-19: Decret de promulgare (DP): [dp-32554ba9.md](dp-32554ba9.md); official file https://www.senat.ro/legis/PDF/2023/23L734DP.PDF
+- 2024-07-19: Forma promulgată (FP): [fp-b265c2eb.md](fp-b265c2eb.md); official file https://www.senat.ro/legis/PDF/2023/23L734FP.PDF
