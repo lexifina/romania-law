@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2024-02-26: registered at the Chamber of Deputies
 - 2024-06-26: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2024-07-01: sent for promulgation
+- 2024-07-19: promulgated, becomes Legea nr. 237/2024; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -35,3 +36,5 @@ Initiator: Guvernul României.
 - 2024-02-20: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L025AM.PDF
 - 2024-06-26: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L025AXS.PDF
 - 2024-06-26: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L025LP.PDF
+- 2024-07-19: Decret de promulgare (DP): [dp-5a83bd28.md](dp-5a83bd28.md); official file https://www.senat.ro/legis/PDF/2024/24L025DP.PDF
+- 2024-07-19: Forma promulgată (FP): [fp-4c6dfa87.md](fp-4c6dfa87.md); official file https://www.senat.ro/legis/PDF/2024/24L025FP.PDF
