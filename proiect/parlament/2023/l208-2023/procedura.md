@@ -24,6 +24,7 @@ Initiator: Membri ai Parlamentului.
 - 2024-03-04: returned for re-examination
 - 2024-03-16: sent for promulgation
 - 2024-07-09: published in the Monitorul Oficial
+- 2024-07-19: promulgated, becomes Legea nr. 241/2024; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -35,3 +36,5 @@ Initiator: Membri ai Parlamentului.
 - 2023-11-06: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L208FS.PDF
 - 2023-11-08: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L208AXS.PDF
 - 2023-11-08: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L208LP.PDF
+- 2024-07-19: Decret de promulgare (DP): [dp-9eedb8bd.md](dp-9eedb8bd.md); official file https://www.senat.ro/legis/PDF/2023/23L208DP.PDF
+- 2024-07-19: Forma promulgată (FP): [fp-231d60fb.md](fp-231d60fb.md); official file https://www.senat.ro/legis/PDF/2023/23L208FP.PDF
