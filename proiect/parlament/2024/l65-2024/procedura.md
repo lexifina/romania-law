@@ -20,6 +20,7 @@ Initiator: Membri ai Parlamentului.
 - 2024-06-26: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2024-07-01: sent for promulgation
 - 2024-07-19: promulgated, becomes Legea nr. 238/2024; documents published: Decret de promulgare, Forma promulgată
+- 2024-07-22: published in the Monitorul Oficial
 
 ## Documents
 
