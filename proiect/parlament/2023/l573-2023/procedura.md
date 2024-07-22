@@ -20,6 +20,7 @@ Initiator: Membri ai Parlamentului.
 - 2024-06-25: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2024-07-01: sent for promulgation
 - 2024-07-19: promulgated, becomes Legea nr. 232/2024; documents published: Decret de promulgare, Forma promulgată
+- 2024-07-22: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -35,3 +36,4 @@ Initiator: Membri ai Parlamentului.
 - 2024-06-25: Forma trimisă la promulgare (LP): [lp-5e8c6b94.md](lp-5e8c6b94.md); official file https://www.senat.ro/legis/PDF/2023/23L573LP.PDF
 - 2024-07-19: Decret de promulgare (DP): [dp-ccb7108f.md](dp-ccb7108f.md); official file https://www.senat.ro/legis/PDF/2023/23L573DP.PDF
 - 2024-07-19: Forma promulgată (FP): [fp-6414e8e3.md](fp-6414e8e3.md); official file https://www.senat.ro/legis/PDF/2023/23L573FP.PDF
+- 2024-07-22: Document (CNA): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L573CNA.PDF (its day is not given by the bill file: shown from the last stage held)
