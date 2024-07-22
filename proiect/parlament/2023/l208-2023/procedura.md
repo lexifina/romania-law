@@ -25,6 +25,7 @@ Initiator: Membri ai Parlamentului.
 - 2024-03-16: sent for promulgation
 - 2024-07-09: published in the Monitorul Oficial
 - 2024-07-19: promulgated, becomes Legea nr. 241/2024; documents published: Decret de promulgare, Forma promulgată
+- 2024-07-22: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -38,3 +39,13 @@ Initiator: Membri ai Parlamentului.
 - 2023-11-08: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L208LP.PDF
 - 2024-07-19: Decret de promulgare (DP): [dp-9eedb8bd.md](dp-9eedb8bd.md); official file https://www.senat.ro/legis/PDF/2023/23L208DP.PDF
 - 2024-07-19: Forma promulgată (FP): [fp-231d60fb.md](fp-231d60fb.md); official file https://www.senat.ro/legis/PDF/2023/23L208FP.PDF
+- 2024-07-22: Document (AL): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L208AL.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2024-07-22: Document (SC): [sc-996c3499.md](sc-996c3499.md); official file https://www.senat.ro/legis/PDF/2023/23L208SC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2024-07-22: Document (DC): [dc-e3c1ff2d.md](dc-e3c1ff2d.md); official file https://www.senat.ro/legis/PDF/2023/23L208DC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2024-07-22: Document (RX): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L208RX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2024-07-22: Document (CX): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L208CX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2024-07-22: Document (SX): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L208SX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2024-07-22: Document (LX): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L208LX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2024-07-22: Document (XA): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L208XA.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2024-07-22: Document (XXS): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L208XXS.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2024-07-22: Document (PX): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L208PX.PDF (its day is not given by the bill file: shown from the last stage held)
