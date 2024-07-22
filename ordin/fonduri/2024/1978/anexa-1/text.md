@@ -1,0 +1,9 @@
+# Anexa nr. 1 (Anexa nr. 3 la Ordinul nr. 374/332/617/788/2024)
+SITUAȚIE CENTRALIZATOARE cu beneficiarii sprijinului material sub formă de pachet cu produse alimentare
+Județul....................................
+Denumirea unității administrativ-teritoriale:..............
+Categoria de beneficiari:..........................................
+Codul județului CNP Numele și prenumele beneficiarului Dispoziția primarului nr./Decizie AJPIS nr.
+Categoria de beneficiari conform art. 1 alin. (4) și (6) din anexa la Hotărârea Guvernului nr. 70/2024
+Localitatea de domiciliu Strada Nr. clădirii Blocul Scara Etajul Ap.
+Venit (total sau mediu per membru de familie)^1 ^1 În cazul familiilor, persoanelor singure, precum și al persoanelor/familiilor aflate temporar în situații critice de viață care au stabilit dreptul la ajutorul de incluziune, în condițiile Legii nr. 196/2016 privind venitul minim de incluziune, cu modificările și completările ulterioare.
