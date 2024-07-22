@@ -20,6 +20,7 @@ Initiator: Membri ai Parlamentului.
 - 2024-06-26: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2024-07-01: sent for promulgation
 - 2024-07-19: promulgated, becomes Legea nr. 240/2024; documents published: Decret de promulgare, Forma promulgată
+- 2024-07-22: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -36,3 +37,4 @@ Initiator: Membri ai Parlamentului.
 - 2024-06-26: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L210LP.PDF
 - 2024-07-19: Decret de promulgare (DP): [dp-1ce4faea.md](dp-1ce4faea.md); official file https://www.senat.ro/legis/PDF/2024/24L210DP.PDF
 - 2024-07-19: Forma promulgată (FP): [fp-2f181453.md](fp-2f181453.md); official file https://www.senat.ro/legis/PDF/2024/24L210FP.PDF
+- 2024-07-22: Document (CF): [cf-4f77c074.md](cf-4f77c074.md); official file https://www.senat.ro/legis/PDF/2024/24L210CF.PDF (its day is not given by the bill file: shown from the last stage held)
