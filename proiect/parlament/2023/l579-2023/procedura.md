@@ -18,6 +18,7 @@ Initiator: Membri ai Parlamentului.
 - 2023-11-08: registered at the Chamber of Deputies
 - 2024-07-15: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2024-07-20: sent for promulgation
+- 2024-07-23: promulgated, becomes Legea nr. 242/2024; published in the Monitorul Oficial; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -32,3 +33,5 @@ Initiator: Membri ai Parlamentului.
 - 2023-11-06: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L579AM.PDF
 - 2024-07-15: Adresă privind sesizarea CCR (AXS): [axs-740da9a7.md](axs-740da9a7.md); official file https://www.senat.ro/legis/PDF/2023/23L579AXS.PDF
 - 2024-07-15: Forma trimisă la promulgare (LP): [lp-9aa42c15.md](lp-9aa42c15.md); official file https://www.senat.ro/legis/PDF/2023/23L579LP.PDF
+- 2024-07-23: Decret de promulgare (DP): [dp-038b8864.md](dp-038b8864.md); official file https://www.senat.ro/legis/PDF/2023/23L579DP.PDF
+- 2024-07-23: Forma promulgată (FP): [fp-32f90cae.md](fp-32f90cae.md); official file https://www.senat.ro/legis/PDF/2023/23L579FP.PDF
