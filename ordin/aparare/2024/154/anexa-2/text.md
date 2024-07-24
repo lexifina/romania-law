@@ -1,0 +1,4 @@
+# Anexa nr. 2 (Anexa nr. 35^2 la Ordinul nr. M.102/2012)
+EMBLEMA DE MERIT A FORȚELOR TERESTRE -
+SFÂNTA MARE MUCENIȚĂ VARVARA
+------
