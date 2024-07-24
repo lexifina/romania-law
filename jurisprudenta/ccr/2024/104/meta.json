@@ -1,0 +1,248 @@
+{
+ "key": "dcc-104-2024",
+ "label": "Decizia CCR nr. 104/2024",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "104",
+ "date": "2024-03-07",
+ "year": "2024",
+ "heading": "DECIZIA nr. 104 din 7 martie 2024",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 22 alin. (6) din Legea nr. 255/2010 privind exproprierea pentru cauză de utilitate publică, necesară realizării unor obiective de interes național, județean și local",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "725",
+  "bis": false,
+  "date": "2024-07-24",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "1.030/93/2019",
+  "2.564D/2019",
+  "8.546/63/2019",
+  "3.357/93/2019",
+  "2.716/111/2019",
+  "3.018/93/2020",
+  "2.082/111/2020",
+  "22.162/3/2020",
+  "21.903/3/2019",
+  "15.812/3/2020"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 255/2010",
+    "number": "255",
+    "year": "2010",
+    "path": "lege/2010/255"
+   },
+   "articles": [
+    {
+     "art": "22",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Societatea Geo 2000 Trading Exim - S.R.L. din București, George Nedelea și Elena Nedelea în Dosarul nr. 1.030/93/2019 al Tribunalului Ilfov - Secția civilă, de instanță, din oficiu, în Dosarul nr. 8.546/63/2019 al Tribunalului Dolj - Secția I civilă, de Nicolae Stancu în Dosarul nr. 3.357/93/2019 al Tribunalului Ilfov - Secția civilă, de Mircea Sergiu Indrieș în Dosarul nr. 2.716/111/2019 al Curții de Apel Oradea - Secția I civilă, de Societatea Sunny Rom Trading - S.R.L. din comuna Tunari, județul Ilfov, în Dosarul nr. 3.018/93/2020 al Tribunalului Ilfov - Secția civilă, de Fănică Matei, Otilia Teodora Matei, Miceta Achim și Jan Sebastian Bonca în Dosarul nr. 2.082/111/2020 al Tribunalului Bihor - Secția I civilă, de Nicolae Săvulescu și Neli Săvulescu în Dosarul nr. 22.162/3/2020 al Tribunalului București - Secția a IV-a civilă, de instanță, din oficiu, în Dosarul nr. 21.903/3/2019 al Curții de Apel București - Secția a IV-a civilă, de Societatea Art Construct 94 - S.R.L. din București în Dosarul nr. 15.812/3/2020 al Tribunalului București - Secția a III-a civilă și de Ion Ghiță și Elena Ghiță în Dosarul nr. 6.855/118/2021 al Tribunalului Constanța - Secția I civilă și constată că dispozițiile art. 22 alin. (6) din Legea nr. 255/2010 privind exproprierea pentru cauză de utilitate publică, necesară realizării unor obiective de interes național, județean și local sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului Ilfov - Secția civilă, Tribunalului Dolj - Secția I civilă, Curții de Apel Oradea - Secția I civilă, Tribunalului Bihor - Secția I civilă, Tribunalului București - Secția a IV-a civilă, Curții de Apel București - Secția a IV-a civilă, Tribunalului București - Secția a III-a civilă și Tribunalului Constanța - Secția I civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 255/2010",
+    "number": "255",
+    "year": "2010",
+    "path": "lege/2010/255"
+   },
+   "articles": [
+    {
+     "art": "22",
+     "alin": [
+      "6",
+      "1",
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 16
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 33/1994",
+    "number": "33",
+    "year": "1994",
+    "path": "lege/1994/33"
+   },
+   "articles": [
+    {
+     "art": "26",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "562",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 24/2011",
+    "number": "24",
+    "year": "2011",
+    "path": "og/2011/24"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 233/2018",
+    "number": "233",
+    "year": "2018",
+    "path": "lege/2018/233"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2024-07-24",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/285897",
+  "text_sha256": "a807021796facb58465a461ba9251456d766d4617a9a75a1b977fd2671c35f33",
+  "catalogue_sha256": "a807021796facb58465a461ba9251456d766d4617a9a75a1b977fd2671c35f33",
+  "fetched": "2026-11-03T01:08:43Z",
+  "chars": 29003,
+  "portal_id": "285897",
+  "tip": "DECIZIE"
+ }
+}
