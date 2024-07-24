@@ -1,0 +1,173 @@
+{
+ "key": "dcc-175-2024",
+ "label": "Decizia CCR nr. 175/2024",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "175",
+ "date": "2024-03-21",
+ "year": "2024",
+ "heading": "DECIZIA nr. 175 din 21 martie 2024",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor notei 2 a lit. c) de la pct. II lit. A cap. I din anexa nr. VIII la Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, în interpretarea dată prin Decizia nr. 82 din 26 noiembrie 2018, pronunțată de Înalta Curte de Casație și Justiție - Completul pentru dezlegarea unor chestiuni de drept",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "721",
+  "bis": false,
+  "date": "2024-07-24",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "4.146/117/2020",
+  "1.083D/2021",
+  "4.155/117/2020",
+  "4.161/117/2020",
+  "4.165/117/2020",
+  "4.162/117/2020",
+  "1.213D/2021",
+  "1.276D/2021",
+  "1.352D/2021"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Sindicatul Național Solidaritatea Cluj-Napoca, în numele membrilor de sindicat Mihaiela Agud-Popa și alții, în Dosarul nr. 4.146/117/2020 al Tribunalului Bihor - Secția a III-a contencios administrativ și fiscal, de Sindicatul Național Solidaritatea Cluj-Napoca, pentru membrii de sindicat Ancuța Irina Sofronie și alții, în Dosarul nr. 4.155/117/2020 al Tribunalului Ialomița - Judecător Sindic, de Sindicatul Național Solidaritatea Cluj-Napoca, pentru membrii de sindicat Lidia Ghiduh și alții, în Dosarul nr. 4.161/117/2020 al Tribunalului Neamț - Secția a II-a civilă, de contencios administrativ și fiscal, de Sindicatul Național Solidaritatea Cluj-Napoca, în numele membrilor săi, în Dosarul nr. 4.165/117/2020 al Tribunalului Satu Mare - Secția a II-a civilă, de contencios administrativ și fiscal și de Sindicatul Național Solidaritatea Cluj-Napoca, pentru membrii de sindicat Valentin Ion Petre și Elena Cristina Dumitrescu, în Dosarul nr. 4.162/117/2020 al Tribunalului Prahova - Secția a II-a civilă, de contencios administrativ și fiscal și constată că dispozițiile notei 2 a lit. c) de la pct. II lit. A cap. I din anexa nr. VIII la Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, în interpretarea dată prin Decizia nr. 82 din 26 noiembrie 2018, pronunțată de Înalta Curte de Casație și Justiție - Completul pentru dezlegarea unor chestiuni de drept, sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului Bihor - Secția a III-a contencios administrativ și fiscal, Tribunalului Ialomița - Judecător Sindic, Tribunalului Neamț - Secția a II-a civilă, de contencios administrativ și fiscal, Tribunalului Satu Mare - Secția a II-a civilă, de contencios administrativ și fiscal și Tribunalului Prahova - Secția a II-a civilă de contencios administrativ și fiscal și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "38",
+     "alin": [
+      "1",
+      "2",
+      "3",
+      "4"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 57/2015",
+    "number": "57",
+    "year": "2015",
+    "path": "oug/2015/57"
+   },
+   "articles": [
+    {
+     "art": "3-1",
+     "alin": [
+      "1-2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituției",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2024-07-24",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/285838",
+  "text_sha256": "8c0e5f06ee2a64adac3a572e62b4df5aa66d94607be5077ecb8b82ef9e2c0d2c",
+  "catalogue_sha256": "8c0e5f06ee2a64adac3a572e62b4df5aa66d94607be5077ecb8b82ef9e2c0d2c",
+  "fetched": "2026-11-03T01:08:39Z",
+  "chars": 22491,
+  "portal_id": "285838",
+  "tip": "DECIZIE"
+ }
+}
