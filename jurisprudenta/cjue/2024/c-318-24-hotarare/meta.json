@@ -1,0 +1,87 @@
+{
+ "key": "cjue-c-318-24-hotarare-2024-07-29",
+ "label": "CJUE, Hotărârea Curții (Camera a cincea) din 29 iulie 2024, Cauza C-318/24 PPU",
+ "court": "cjue",
+ "court_name": "Curtea de Justiție a Uniunii Europene",
+ "kind": "hotarare",
+ "act_type": "JUDG",
+ "date": "2024-07-29",
+ "year": "2024",
+ "case": "Cauza C-318/24 PPU",
+ "celex": "62024CJ0318",
+ "ecli": "ECLI:EU:C:2024:658",
+ "heading": "Hotărârea Curții (Camera a cincea) din 29 iulie 2024",
+ "formation": "CHAMB_05_C",
+ "procedure": "REFER_PREL_URG",
+ "romania_role": [
+  "originates"
+ ],
+ "referred_by": [
+  {
+   "court": "Curtea de Apel Braşov",
+   "date": "2024-04-30",
+   "national_file": null
+  }
+ ],
+ "referral_text": "Cerere de decizie preliminară formulată de Curtea de Apel Brașov",
+ "national_followup": [
+  "Curtea de Apel Braşov, Încheiere din 13/08/2024 (345/64/2016)"
+ ],
+ "parties": null,
+ "parties_withheld": true,
+ "keywords": "Trimitere preliminară – Cooperarea judiciară în materie penală – Mandat european de arestare – Decizia‑cadru 2002/584/JAI – Predarea persoanelor căutate autorităților judiciare emitente – Respectarea drepturilor fundamentale – Deficiențe sistemice sau generalizate cu privire la independența puterii judecătorești din statul membru emitent – Deficiențe privind absența dovezii depunerii jurământului de către judecători – Interzicerea tratamentelor inumane sau degradante – Condiții de detenție în statul membru emitent – Apreciere de către autoritatea judiciară de executare – Refuzul executării mandatului european de arestare de către autoritatea judiciară de executare – Efectele acestui refuz pentru autoritatea judiciară de executare a unui alt stat membru",
+ "interprets": [
+  {
+   "celex": "12007P004",
+   "folder": null
+  },
+  {
+   "celex": "12007P047",
+   "folder": null
+  },
+  {
+   "celex": "12008E267",
+   "folder": null
+  },
+  {
+   "celex": "32002F0584",
+   "folder": null
+  }
+ ],
+ "text": "dispozitiv.md",
+ "text_withheld": "personal_data",
+ "withheld_reason": "The full text names the parties' lawyers (and, in older cases, private parties); only the metadata and the operative part are published here, with the official link.",
+ "operative_missing": false,
+ "eurlex_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62024CJ0318",
+ "curia_url": "https://curia.europa.eu/juris/liste.jsf?num=C-318/24&language=ro",
+ "source": {
+  "name": "CELLAR, Publications Office of the European Union",
+  "url": "http://publications.europa.eu/resource/cellar/e1fccadc-4d8e-11ef-acbc-01aa75ed71a1.0002.05/DOC_1",
+  "format": "xhtml",
+  "sha256": [
+   "9584426a71cadef0fbf0141b55b2492caaf72540d9bcf10063636d06bd6ca97f"
+  ]
+ },
+ "legal_basis": "Jurisprudența Curții de Justiție a Uniunii Europene (texte oficiale; reutilizare permisă cu menționarea sursei: Decizia Comisiei 2011/833/UE și condițiile CURIA; © Uniunea Europeană). Textele oficiale nu sunt protejate de dreptul de autor în România (Legea nr. 8/1996, art. 9 lit. b).",
+ "attribution": "© European Union, https://eur-lex.europa.eu (via the Publications Office CELLAR)",
+ "operative": [
+  "Pentru aceste motive, Curtea (Camera a cincea) declară:",
+  "1) Articolul 1 alineatul (3) și articolul 15 alineatul (1) din Decizia‑cadru 2002/584/JAI a Consiliului din 13 iunie 2002 privind mandatul european de arestare și procedurile de predare între statele membre, astfel cum a fost modificată prin Decizia‑cadru 2009/299/JAI a Consiliului din 26 februarie 2009,",
+  "trebuie interpretate în sensul că",
+  "autoritatea de executare a unui stat membru nu este obligată să refuze executarea unui mandat european de arestare atunci când autoritatea de executare a unui alt stat membru a refuzat în prealabil să execute acest mandat de arestare pentru motivul că predarea persoanei în cauză ar risca să aducă atingere dreptului fundamental la un proces echitabil consacrat la articolul 47 al doilea paragraf din Carta drepturilor fundamentale a Uniunii Europene. Cu toate acestea, în cadrul propriei examinări a existenței unui motiv de neexecutare, această autoritate trebuie să țină seama de motivele care stau la baza deciziei de refuz adoptate de prima autoritate de executare. Aceste dispoziții nu se opun ca, în aceleași împrejurări, autoritatea judiciară emitentă să mențină mandatul european de arestare dacă, potrivit propriei sale aprecieri, executarea acestui mandat de arestare nu trebuie să fie refuzată din cauza unui risc de încălcare a dreptului fundamental la un proces echitabil consacrat la articolul 47 al doilea paragraf din Carta drepturilor fundamentale a Uniunii Europene, iar menținerea mandatului de arestare menționat are un caracter proporțional.",
+  "2) Articolul 1 alineatul (3) din Decizia‑cadru 2002/584, astfel cum a fost modificată prin Decizia‑cadru 2009/299, coroborat cu articolul 47 al doilea paragraf din Carta drepturilor fundamentale",
+  "trebuie interpretat în sensul că,",
+  "într‑o situație în care o persoană care face obiectul unui mandat european de arestare susține că predarea sa către statul membru emitent ar conduce la încălcarea dreptului său la un proces echitabil, existența unei decizii a Comisiei de control al fișierelor Interpol (CCF) referitoare la situația acestei persoane nu poate justifica în sine refuzul autorității judiciare de executare de a executa acest mandat de arestare. În schimb, o asemenea decizie poate să fie luată în considerare de această autoritate judiciară pentru a decide dacă trebuie să refuze executarea mandatului de arestare menționat.",
+  "3) Articolul 267 TFUE trebuie interpretat în sensul că",
+  "autoritatea judiciară emitentă a unui mandat european de arestare nu este obligată să sesizeze Curtea cu o cerere de decizie preliminară înainte de a decide, având în vedere motivele care au determinat autoritatea judiciară de executare a acestui mandat de arestare să refuze executarea acestuia, să retragă mandatul de arestare menționat sau să îl mențină, cu excepția cazului în care decizia pe care va trebui să o adopte nu este supusă niciunei căi de atac în dreptul intern, caz în care este în principiu obligată să sesizeze Curtea.",
+  "4) Articolul 1 alineatul (3) din Decizia‑cadru 2002/584, astfel cum a fost modificată prin Decizia‑cadru 2009/299,",
+  "trebuie interpretat în sensul că",
+  "autoritatea judiciară de executare a unui mandat european de arestare emis în vederea executării unei pedepse nu poate refuza executarea acestui mandat de arestare întemeindu‑se pe motivul că procesul‑verbal de depunere a jurământului unui judecător care a aplicat această pedeapsă nu poate fi găsit sau pe împrejurarea că un alt judecător din cadrul aceluiași complet ar fi depus jurământul numai la numirea sa în calitate de procuror.",
+  "5) Decizia‑cadru 2002/584, astfel cum a fost modificată prin Decizia‑cadru 2009/299,",
+  "trebuie interpretată în sensul că",
+  "autoritatea judiciară emitentă a unui mandat european de arestare nu dispune de dreptul de a participa, în calitate de parte, la procedura privind executarea acestui mandat de arestare în fața autorității judiciare de executare.",
+  "6) Articolul 1 alineatul (3) și articolul 15 alineatele (2) și (3) din Decizia‑cadru 2002/584, astfel cum a fost modificată prin Decizia‑cadru 2009/299, citite în lumina articolului 4 din Carta drepturilor fundamentale și a principiului încrederii reciproce,",
+  "trebuie interpretate în sensul că,",
+  "în cadrul examinării condițiilor de detenție din statul membru emitent, autoritatea judiciară de executare nu poate refuza executarea unui mandat european de arestare întemeindu‑se pe elemente privind condițiile de detenție din penitenciarele din statul membru emitent pe care le‑a obținut ea însăși și cu privire la care nu a solicitat informații suplimentare autorității judiciare emitente. Autoritatea judiciară de executare nu poate aplica un standard mai ridicat în materie de condiții de detenție decât cel garantat la acest articol 4."
+ ]
+}
