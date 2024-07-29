@@ -1,0 +1,59 @@
+{
+ "key": "cjue-c-286-23-hotarare-2024-07-29",
+ "label": "CJUE, Hotărârea Curții (Camera a șasea) din 29 iulie 2024, Cauza C-286/23",
+ "court": "cjue",
+ "court_name": "Curtea de Justiție a Uniunii Europene",
+ "kind": "hotarare",
+ "act_type": "JUDG",
+ "date": "2024-07-29",
+ "year": "2024",
+ "case": "Cauza C-286/23",
+ "celex": "62023CJ0286",
+ "ecli": "ECLI:EU:C:2024:655",
+ "heading": "Hotărârea Curții (Camera a șasea) din 29 iulie 2024",
+ "formation": "CHAMB_06_C",
+ "procedure": "REFER_PREL",
+ "romania_role": [
+  "originates"
+ ],
+ "referred_by": null,
+ "referral_text": "Cerere de decizie preliminară formulată de Curtea de Apel Braşov",
+ "national_followup": [
+  "Curtea de Apel Braşov, încheiere din 10/04/2023 (229/64/2021)"
+ ],
+ "parties": null,
+ "parties_withheld": true,
+ "keywords": "Trimitere preliminară – Politica agricolă comună – Regulamentul (UE) 2016/1012 – Animale de reproducție de rasă pură – Procedura de recunoaștere a societăților de ameliorare – Procedura de aprobare a programelor de ameliorare – Posibilitatea de a refuza aprobarea unui program de ameliorare suplimentar pentru aceeași rasă, referitor la același teritoriu, dacă această aprobare riscă să compromită un program de ameliorare deja existent – Dreptul crescătorilor de animale de rasă pură de a alege între diferitele programe de ameliorare existente",
+ "interprets": [
+  {
+   "celex": "32016R1012",
+   "folder": "ue/regulament/2016/1012"
+  }
+ ],
+ "text": "dispozitiv.md",
+ "text_withheld": "personal_data",
+ "withheld_reason": "The full text names the parties' lawyers (and, in older cases, private parties); only the metadata and the operative part are published here, with the official link.",
+ "operative_missing": false,
+ "eurlex_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62023CJ0286",
+ "curia_url": "https://curia.europa.eu/juris/liste.jsf?num=C-286/23&language=ro",
+ "source": {
+  "name": "CELLAR, Publications Office of the European Union",
+  "url": "http://publications.europa.eu/resource/cellar/a0299895-4d8e-11ef-acbc-01aa75ed71a1.0002.05/DOC_1",
+  "format": "xhtml",
+  "sha256": [
+   "e2007e39c8fbecb38017fea833b599e801690ef7e255169b632053d7371911fe"
+  ]
+ },
+ "legal_basis": "Jurisprudența Curții de Justiție a Uniunii Europene (texte oficiale; reutilizare permisă cu menționarea sursei: Decizia Comisiei 2011/833/UE și condițiile CURIA; © Uniunea Europeană). Textele oficiale nu sunt protejate de dreptul de autor în România (Legea nr. 8/1996, art. 9 lit. b).",
+ "attribution": "© European Union, https://eur-lex.europa.eu (via the Publications Office CELLAR)",
+ "operative": [
+  "Pentru aceste motive, Curtea (Camera a șasea) declară:",
+  "1) Articolul 4 alineatul (3) litera (b) din Regulamentul (UE) 2016/1012 al Parlamentului European și al Consiliului din 8 iunie 2016 privind condițiile zootehnice și genealogice aplicabile ameliorării animalelor de reproducție de rasă pură, a porcilor de reproducție hibrizi și a materialului germinativ provenit de la acestea, comerțului cu acestea și introducerii lor în Uniune și de modificare a Regulamentului (UE) nr. 652/2014 și a Directivelor 89/608/CEE și 90/425/CEE ale Consiliului, precum și de abrogare a anumitor acte în sectorul ameliorării animalelor („Regulamentul privind ameliorarea animalelor”), coroborat cu anexa I partea 1 din acest regulament și în lumina considerentului (24) al regulamentului menționat,",
+  "trebuie interpretat în sensul că",
+  "nu se opune recunoașterii ca societate de ameliorare a unui solicitant care, pentru a dovedi că dispune de un efectiv suficient de mare de animale de reproducție și de un număr suficient de crescători, se prevalează de angajamente de participare semnate de crescători deja înscriși într‑un program de ameliorare al unei alte societăți de ameliorare recunoscute.",
+  "2) Articolul 10 din Regulamentul 2016/1012, coroborat cu articolul 13 și cu anexa I partea 1 secțiunea B punctul 2 litera (a) din acest regulament, precum și în lumina considerentelor (21) și (24) ale regulamentului menționat,",
+  "trebuie interpretat în sensul că,",
+  "pe de o parte, în cazul în care într‑un stat membru este în desfășurare un program de ameliorare având ca obiectiv principal ameliorarea unei anumite rase de animale, autoritatea competentă a acestui stat poate aproba un nou program de ameliorare prezentat de o altă societate de ameliorare, care se referă la aceeași rasă de animale, privește același teritoriu geografic și urmărește același obiectiv și în cadrul căruia au fost selecționate animale de reproducție din cadrul efectivului de animale de reproducție al programului de ameliorare deja în curs, și, pe de altă parte, atunci când această recunoaștere riscă să compromită unul sau mai multe dintre elementele prevăzute la literele (a)-(c) ale articolului 10 alineatul (1) din Regulamentul 2016/1012, aceeași autoritate are posibilitatea de a refuza recunoașterea noului program de ameliorare.",
+  "von Danwitz"
+ ]
+}
