@@ -1,0 +1,19 @@
+# Propunere legislativă L482/2024
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 42/2025 (`legea-42-2025`).
+
+Propunere legislativă privind declararea săptămânii 15-21 mai ca Săptămâna naţională a siguranţei rutiere
+
+Initiator: Membri ai Parlamentului.
+
+## Stages published so far
+
+- 2024-07-29: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
+
+## Documents
+
+- 2024-07-29: Adresă de înaintare a inițiativei (AD): [ad-1317e736.md](ad-1317e736.md); official file https://www.senat.ro/legis/PDF/2024/24L482AD.PDF
+- 2024-07-29: Forma inițiatorului (FG): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L482FG.PDF
+- 2024-07-29: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L482EM.PDF
