@@ -1,0 +1,56 @@
+# DECIZIA nr. 140 din 19 martie 2024
+referitoare la excepția de neconstituționalitate a dispozițiilor art. 719 alin. (2) lit. b) și ale art. 1.062 din Codul de procedură civilă
+Marian Enache - președinte
+Mihaela Ciochină - judecător
+Cristian Deliorga - judecător
+Dimitrie-Bogdan Licu - judecător
+Laura-Iuliana Scântei - judecător
+Gheorghe Stan - judecător
+Livia Doina Stanciu - judecător
+Elena-Simina Tănăsescu - judecător
+Varga Attila - judecător
+Claudia-Margareta Krupenschi - magistrat-asistent-șef
+Cu participarea reprezentantului Ministerului Public, procuror Ioan-Sorin-Daniel Chiriazi.
+1. Pe rol se află soluționarea excepției de neconstituționalitate a prevederilor art. 719 alin. (2) și ale art. 1.062 din Codul de procedură civilă, excepție ridicată de contestatorul debitor Zabulică Florin-Sorin în Dosarul nr. 3.512/866/2019 al Judecătoriei Pașcani - Secția civilă și care constituie obiectul Dosarului Curții Constituționale nr. 3.447D/2019.
+2. La apelul nominal se constată lipsa părților. Procedura de înștiințare este legal îndeplinită.
+3. Cauza fiind în stare de judecată, președintele Curții acordă cuvântul reprezentantului Ministerului Public, care solicită respingerea, ca inadmisibilă, a excepției, arătând în acest sens că nici în cuprinsul încheierii de sesizare și nici în cel al motivării excepției nu sunt indicate normele constituționale pretins încălcate, iar Curtea nu poate complini din oficiu aceste lipsuri care atrag inadmisibilitatea unei excepții de neconstituționalitate.
+CURTEA, având în vedere actele și lucrările dosarului, constată următoarele:
+4. Prin Încheierea din 19 decembrie 2019, pronunțată în Dosarul nr. 3.512/866/2019, Judecătoria Pașcani - Secția civilă a sesizat Curtea Constituțională cu excepția de neconstituționalitate a prevederilor art. 719 alin. (2) și ale art. 1.062 din Codul de procedură civilă. Excepția de neconstituționalitate a fost ridicată de contestatorul debitor Zabulică Florin-Sorin într-o cauză având ca obiect validarea unei popriri.
+5. În motivarea excepției de neconstituționalitate, autorul acesteia susține, în virtutea accesului liber la justiție, că este ilegal să se solicite o cauțiune pentru a se judeca cererea de suspendare a executării silite, iar creditorul să aibă dreptul de a-și recupera eventualul prejudiciu pricinuit în ipoteza respingerii contestației la executare. Precizează că a încheiat cu creditorul un angajament de plată pentru plata lunară a unei anumite sume de bani, considerând că acest fapt reprezintă un motiv în plus de siguranță pentru creditor și, totodată, un motiv de bunăvoință în fața instanței.
+6. Judecătoria Pașcani - Secția civilă consideră că textele de lege criticate sunt constituționale, astfel cum s-a reținut în jurisprudența în materie a Curții Constituționale (Decizia nr. 619 din 4 noiembrie 2014, Decizia nr. 59 din 24 februarie 2015, Decizia nr. 2 din 14 ianuarie 2016 și Decizia nr. 861 din 18 decembrie 2018).
+7. Potrivit prevederilor art. 30 alin. (1) din Legea nr. 47/1992, încheierea de sesizare a fost comunicată președinților celor două Camere ale Parlamentului, Guvernului și Avocatului Poporului, pentru a-și exprima punctele de vedere asupra excepției de neconstituționalitate.
+8. Președinții celor două Camere ale Parlamentului, Guvernul și Avocatul Poporului nu au comunicat punctele lor de vedere cu privire la excepția de neconstituționalitate.
+CURTEA, examinând încheierea de sesizare, raportul întocmit de judecătorul-raportor, concluziile procurorului, dispozițiile legale criticate, raportate la prevederile Constituției, precum și Legea nr. 47/1992, reține următoarele:
+9. Curtea Constituțională a fost legal sesizată și este competentă, potrivit dispozițiilor art. 146 lit. d) din Constituție, precum și ale art. 1 alin. (2), ale art. 2, 3, 10 și 29 din Legea nr. 47/1992, să soluționeze excepția de neconstituționalitate.
+10. Obiectul excepției de neconstituționalitate îl reprezintă, potrivit încheierii de sesizare, prevederile art. 719 alin. (2) și ale art. 1.062 din Codul de procedură civilă, republicat în Monitorul Oficial al României, Partea I, nr. 247 din 10 aprilie 2015, cu următorul conținut normativ: –
+Art. 719 alin. (2):
+(2) Pentru a se dispune suspendarea, cel care o solicită trebuie să dea în prealabil o cauțiune, calculată la valoarea obiectului contestației, după cum urmează: a) de 10%, dacă această valoare este până la 10.000 lei;
+b) de 1.000 lei plus 5% pentru ceea ce depășește 10.000 lei;
+c) de 5.500 lei plus 1% pentru ceea ce depășește 100.000 lei;
+d) de 14.500 lei plus 0,1% pentru ceea ce depășește 1.000.000 lei.
+–
+Art. 1.062:
+Procedura de stabilire a cauțiunii
+(1) Dacă prin lege nu se prevede altfel, instanța va cita părțile în termen scurt, în camera de consiliu, și va stabili de urgență cauțiunea.
+(2) Instanța se pronunță printr-o încheiere care poate fi atacată odată cu hotărârea prin care s-a dispus asupra cauțiunii.
+(3) Când există urgență, instanța va putea stabili cauțiunea și fără citarea părților. În acest caz, cauțiunea se va depune numai în numerar, într-un termen stabilit de instanță. Debitorului cauțiunii îi va fi comunicată încheierea prin care cauțiunea a fost stabilită, de la data acestei comunicări începând a curge termenul pentru plata cauțiunii.
+(4) Nedepunerea cauțiunii în termenul prevăzut la alin. (3) atrage desființarea de drept a măsurilor în legătură cu care s-a dispus stabilirea cauțiunii.“
+11. În ceea ce privește art. 719 alin. (2) din Codul de procedură civilă, Curtea observă, din cuprinsul actului de sesizare, că incidentă este doar litera b) din cuprinsul alin. (2) (cuantumul cauțiunii stabilite în cauză, având ca obiect validarea popririi asupra sumei de 10.357,52 lei, este de 1.210 lei), astfel că obiectul excepției îl constituie, în realitate, dispozițiile art. 719 alin. (2) lit. b) și ale art. 1.062 din Codul de procedură civilă.
+12. Normele constituționale invocate, ce se deduc în mod rezonabil din motivarea excepției de neconstituționalitate, sunt cele ale art. 21 - Accesul liber la justiție.
+13. Analizând excepția de neconstituționalitate, Curtea reține că s-a mai pronunțat asupra unor critici de neconstituționalitate asemănătoare prin care se reclama, în esență, împiedicarea accesului la justiție prin impunerea unei cauțiuni în procedura de suspendare a executării silite.
+14. Prin Decizia nr. 861 din 18 decembrie 2018, publicată în Monitorul Oficial al României, Partea I, nr. 224 din 22 martie 2019, paragrafele 14-18, Curtea a arătat, în esență, că instituirea obligației de plată a cauțiunii, ca o condiție a suspendării executării, are o dublă finalitate, și anume, pe de o parte, aceea de a constitui o garanție pentru creditor în ceea ce privește acoperirea eventualelor daune suferite ca urmare a întârzierii executării silite, prin efectul suspendării acesteia, și, pe de altă parte, de a preveni și de a limita eventualele abuzuri în valorificarea unui atare drept de către debitorii rău-platnici. Întrucât plata cauțiunii nu constituie o condiție de admisibilitate a contestației la executare, ci vizează exclusiv cererea de suspendare a executării silite, instituirea acestei obligații nu poate fi calificată ca o modalitate de a împiedica accesul liber la justiție. Curtea a mai constatat că, în condițiile în care, potrivit art. 126 alin. (2) din Constituție, legiuitorul ordinar este abilitat să reglementeze competența și procedura de judecată, stabilind cadrul organizatoric și funcțional în care se realizează accesul liber la justiție, instituirea cauțiunii nu aduce nicio atingere principiului constituțional pretins încălcat. Sub acest aspect, procedura contestației la executare asigură garanții suficiente de ocrotire a accesului liber la justiție tuturor părților implicate în proces, prin însuși faptul că le oferă posibilitatea de a contesta executarea și de a solicita suspendarea acesteia.
+15. De asemenea, în legătură cu problema cauțiunii, Curtea a reținut, prin raportare la dispoziții legale similare, că jurisprudența sa este în acord cu cea a Curții Europene a Drepturilor Omului, care a statuat, în Hotărârea din 10 mai 2001, pronunțată în Cauza Z și alții împotriva Regatului Unit, paragraful 93, că accesul liber la justiție „nu este absolut și că el poate fi supus la restricții legitime, cum ar fi termenele legale de prescripție sau ordonanțele care impun depunerea unei cauțiuni judicatum solvi [...]“. Important este ca aceste restrângeri să nu aducă atingere substanței dreptului, să urmărească un scop legitim și să existe un raport rezonabil de proporționalitate între mijloacele utilizate și scopul urmărit (Decizia nr. 51 din 14 ianuarie 2010, publicată în Monitorul Oficial al României, Partea I, nr. 187 din 24 martie 2010).
+16. Totodată, pentru situația în care justițiabilul nu poate face față cheltuielilor unui proces din cauza lipsei mijloacelor materiale, Curtea a amintit, într-o altă cauză, prevederile art. 42 din Ordonanța de urgență a Guvernului nr. 80/2013 privind taxele judiciare de timbru, prin care legiuitorul a instituit, ca o garanție a accesului liber la justiție, posibilitatea ca persoanele fizice să beneficieze de scutiri, reduceri, eșalonări sau amânări pentru plata taxelor judiciare de timbru, în condițiile Ordonanței de urgență a Guvernului nr. 51/2008 privind ajutorul public judiciar în materie civilă. Mai mult, art. 8 alin. (3) din acest ultim act normativ prevede că ajutorul public judiciar se poate acorda și în alte situații, proporțional cu nevoile solicitantului, în cazul în care costurile certe sau estimate ale procesului sunt de natură să îi limiteze accesul efectiv la justiție, inclusiv din cauza diferențelor de cost al vieții dintre statul membru în care acesta își are domiciliul sau reședința obișnuită și cel din România. Aceste dispoziții permit instanței de judecată să individualizeze acordarea acestui ajutor în funcție de nevoile reale ale solicitantului (Decizia nr. 610 din 10 octombrie 2019, publicată în Monitorul Oficial al României, Partea I, nr. 937 din 21 noiembrie 2019, paragraful 20).
+17. Întrucât nu au apărut elemente noi, de natură să schimbe jurisprudența Curții Constituționale în această materie, soluția și considerentele reținute în deciziile de referință anterior menționate își păstrează valabilitatea și în prezenta cauză.
+18. Pentru considerentele expuse mai sus, în temeiul art. 146 lit. d) și al art. 147 alin. (4) din Constituție, precum și al art. 1 - 3, al art. 11 alin. (1) lit. A.d) și al art. 29 din Legea nr. 47/1992, cu unanimitate de voturi,
+CURTEA CONSTITUȚIONALĂ
+În numele legii
+DECIDE:
+Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Zabulică Florin-Sorin în Dosarul nr. 3.512/866/2019 al Judecătoriei Pașcani - Secția civilă și constată că dispozițiile art. 719 alin. (2) lit. b) și ale art. 1.062 din Codul de procedură civilă sunt constituționale în raport cu criticile formulate.
+Definitivă și general obligatorie.
+Decizia se comunică Judecătoriei Pașcani - Secția civilă și se publică în Monitorul Oficial al României, Partea I.
+Pronunțată în ședința din data de 19 martie 2024.
+PREȘEDINTELE CURȚII CONSTITUȚIONALE
+MARIAN ENACHE
+Magistrat-asistent-șef,
+Claudia-Margareta Krupenschi
