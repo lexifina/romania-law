@@ -1,0 +1,9 @@
+# Anexa nr. 3
+CERERE pentru acordarea sprijinului lunar pentru creșterea copilului, prevazut la art. 15 alin. (1) din
+Ordonanța de urgență a Guvernului nr. 96/2024 privind acordarea de sprijin și asistență umanitară de către statul român cetățenilor străini sau apatrizilor aflați în situații deosebite, proveniți din zona conflictului armat din Ucraina
+Subsemnatul/Subsemnata,........................................, născut/născută la data de.................... în......................., cu reședința în România în............................, legitimat/legitimată cu permisul de ședere temporară...................., eliberat la data de........................, locul eliberării......................., valabil până la data de........................, în calitate de părinte/reprezentant al minorului/minorilor............................., născut/născuți la data de.............................., vă rog să îmi aprobați acordarea sprijinului lunar pentru creșterea copilului, prevăzut la art. 15 alin. (1) din Ordonanța de urgență a Guvernului nr. 96/2024 privind acordarea de sprijin și asistență umanitară de către statul român cetățenilor străini sau apatrizilor aflați în situații deosebite, proveniți din zona conflictului armat din Ucraina.
+Menționez că am/nu am încasat suma forfetară lunară prevăzută la art. 3 alin. (1) din Ordonanța de urgență a Guvernului nr. 96/2024 pe o perioadă de 3 luni consecutive, începând cu data de............
+Anexez următoarele documente: [] permis de ședere temporară/act de identitate.......... (copie); [] certificat(e) de naștere al(e) copilului/copiilor (copie).
+Data.............
+Semnătura...................
+-------

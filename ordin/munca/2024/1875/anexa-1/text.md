@@ -1,0 +1,6 @@
+# Anexa nr. 1
+DECLARAȚIE PE PROPRIA RĂSPUNDERE privind certificarea faptului că minorul se află în întreținerea părintelui sau a reprezentantului acestuia
+Subsemnatul/Subsemnata,.........., data nașterii.........., cetățenia.........., reședința în România în.........., date de contact: telefon.........., e-mail.........., legitimat/legitimată cu permisul de ședere temporară.........., eliberat la data de.........., locul eliberării.........., valabil până la data de.........., declar pe propria răspundere, sub sancțiunile prevăzute de Codul penal al României pentru declarații neadevărate, că minorul/minorii.......... se află în întreținerea mea, în calitate de: [] părinte; [] reprezentant.
+Am completat și am citit cu atenție conținutul declarației de mai sus, fiind conștient/conștientă de consecințele săvârșirii infracțiunii de fals în declarații, prevăzută la art. 326 din Codul penal al României, după care am semnat.
+Data.............
+Semnătura...................
