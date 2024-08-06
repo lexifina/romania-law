@@ -1,0 +1,12 @@
+# HCGMB nr. 178/2024
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+- Council: Consiliul General al Municipiului București
+- Decision: nr. 178/2024
+- Adopted: 2024-07-31
+- Published: 2024-08-06
+- Title: PRIVIND APROBAREA CONTRACTARII SI/SAU GARANTARII UNEI/UNOR FINANTARI RAMBURSABILE INTERNE IN VALOARE TOTALA DE PANA LA 69.651.000 LEI, PENTRU ASIGURAREA FINANTARII CHELTUIELILOR NEELIGIBILE AFERENTE FINALIZARII PROIECTULUI “FINALIZAREA STATIEI DE EPURARE GLINA, REABILITAREA PRINCIPALELOR COLECTOARE DE CANALIZARE SI A CANALULUI COLECTOR DAMBOVITA (CASETA) IN MUNICIPIUL BUCURESTI - ETAPA II”, DERULAT IN CADRUL PROGRAMULUI OPERATIONAL INFRASTRUCTURA MARE 2014 - 2020
+- Record: https://acteinterne.pmb.ro/legis/acteinterne/acte_int/45768
+- Document: https://doc.pmb.ro/legis/acteinterne/2024/45768/h178_24.pdf
+- Document sha256: 600e3637e868087721f29f17812679bd18c42ee5b340b1eaeebefab4e1728073
