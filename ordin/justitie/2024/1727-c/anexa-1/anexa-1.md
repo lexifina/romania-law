@@ -1,0 +1,13 @@
+# Anexa nr. 1 la regulament
+CERERE de înscriere la examenul sau concursul de dobândire a calității de notar stagiar
+Domnule Președinte,
+1.
+Subsemnatul/Subsemnata,...................(numele, inițiala tatălui, prenumele).........................., născut/născută în localitatea................................. la data de................, identificat/identificată cu CNP......................................., cu domiciliul în...............(localitatea, str., nr., bl., sc., et., ap., județul/sectorul)................., telefon...................., e-mail............................................, solicit înscrierea la examenul sau concursul de dobândire a calității de notar stagiar, în vederea ocupării unui post de notar stagiar în cadrul Camerei Notarilor Publici........(denumirea Camerei Notarilor Publici)........... - sesiunea..................................
+2.^1
+Prin prezenta declar că: [] nu dețin acces la internet; [] nu dispun de mijloacele tehnice pentru a încărca documentele în platforma informatică a Institutului Notarial Român; [] platforma informatică a Institutului Notarial Român nu funcționează.
+3.
+ACORD PRIVIND PRELUCRAREA DATELOR PERSONALE
+Subsemnatul/Subsemnata,.........(numele, inițiala tatălui, prenumele)............., identificat/identificată cu CNP.................................., în calitate de candidat la examenul sau concursul de dobândire a calității de notar stagiar, declar că sunt de acord cu prelucrarea datelor cu caracter personal în scopul organizării și desfășurării examenului sau concursului de dobândire a calității de notar stagiar, în conformitate cu dispozițiile Regulamentului (UE) 2016/679 privind protecția persoanelor fizice în ceea ce privește prelucrarea datelor cu caracter personal și privind libera circulație a acestor date și de abrogare a Directivei 95/46/CE („GDPR”) și cu dispozițiile Legii nr. 190/2018 privind măsuri de punere în aplicare a Regulamentului (UE) 2016/679 al Parlamentului European și al Consiliului din 27 aprilie 2016 privind protecția persoanelor fizice în ceea ce privește prelucrarea datelor cu caracter personal și privind libera circulație a acestor date și de abrogare a Directivei 95/46/CE (Regulamentul general privind protecția datelor), cu modificările ulterioare.
+Data....................
+Semnătura..................
+Domnului Președinte al Institutului Notarial Român ^1 Se va completa doar în cazul în care sunt incidente ipotezele prevăzute de dispozițiile art. 4 alin. (3) din Regulamentul pentru organizarea și desfășurarea examenului sau a concursului pentru dobândirea calității de notar stagiar, aprobat prin Ordinul ministrului justiției nr. 1.727/C/2024.
