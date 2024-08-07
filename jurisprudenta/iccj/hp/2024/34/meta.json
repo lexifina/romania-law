@@ -1,0 +1,173 @@
+{
+ "key": "iccj-hp-34-2024",
+ "label": "Decizia ÎCCJ nr. 34/2024 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "34",
+ "date": "2024-06-17",
+ "year": "2024",
+ "heading": "DECIZIA nr. 34 din 17 iunie 2024",
+ "subtitle": "referitoare la interpretarea dispozițiilor art. 452 raportate la cele ale art. 470 din Codul de procedură civilă",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "771",
+  "bis": false,
+  "date": "2024-08-07",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "892/1/2024",
+  "18/289/2022"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "452",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "470",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite sesizarea formulată de Tribunalul Mureș - Secția civilă în Dosarul nr. 18/289/2022 pentru pronunțarea unei hotărâri prealabile și, în consecință, stabilește că: Dispozițiile art. 452 raportate la cele ale art. 470 din Codul de procedură civilă, astfel cum au fost interpretate prin Decizia nr. 9 din 30 martie 2020, pronunțată de Înalta Curte de Casație și Justiție - Completul pentru soluționarea recursului în interesul legii, publicată în Monitorul Oficial al României, Partea I, nr. 548 din 25 iunie 2020, se interpretează în sensul că, în ipoteza în care au fost solicitate cheltuieli de judecată în fața primei instanțe, dar nu s-a făcut dovada achitării lor până la data închiderii dezbaterilor asupra fondului cauzei, se poate face, prin înscrisuri noi, această dovadă, în apelul declarat împotriva soluției de respingere a cererii de acordare a cheltuielilor de judecată.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "452",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "470",
+     "alin": [
+      "1",
+      "3"
+     ],
+     "lit": [
+      "d"
+     ]
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "254",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "478",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "479",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "482",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 42
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 80/2013",
+    "number": "80",
+    "year": "2013",
+    "path": "oug/2013/80"
+   },
+   "articles": [
+    {
+     "art": "45",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "f"
+     ]
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "479",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2024-08-07",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/286641",
+  "text_sha256": "f5b767eedecce208d0894e84da95c974ca6276447a6bb817bac9fb26813d279f",
+  "catalogue_sha256": "f5b767eedecce208d0894e84da95c974ca6276447a6bb817bac9fb26813d279f",
+  "fetched": "2026-11-03T01:08:05Z",
+  "chars": 54336,
+  "portal_id": "286641",
+  "tip": "DECIZIE"
+ }
+}
