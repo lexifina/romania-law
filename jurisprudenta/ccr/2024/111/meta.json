@@ -1,0 +1,258 @@
+{
+ "key": "dcc-111-2024",
+ "label": "Decizia CCR nr. 111/2024",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "111",
+ "date": "2024-03-07",
+ "year": "2024",
+ "heading": "DECIZIA nr. 111 din 7 martie 2024",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 72 alin. (1) fraza a doua din Codul penal",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "790",
+  "bis": false,
+  "date": "2024-08-09",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "3.075/296/2019",
+  "1.988D/2019"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "72",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Vasile Ciorbă în Dosarul nr. 3.075/296/2019 al Tribunalului Satu Mare - Secția penală și constată că dispozițiile art. 72 alin. (1) fraza a doua din Codul penal sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului Satu Mare - Secția penală și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "72",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "39",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "40",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "80",
+     "alin": [
+      "2",
+      "3"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "81",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "82",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "83",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "84",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "85",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "86",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "87",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "88",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "89",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "90",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 30
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "404",
+     "alin": [
+      "4"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a",
+      "e"
+     ]
+    }
+   ],
+   "mentions": 5
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2024-08-09",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/286780",
+  "text_sha256": "48463045e382599f6039988e0f9fef982e557b2b421cc7cc554698462cd764cb",
+  "catalogue_sha256": "48463045e382599f6039988e0f9fef982e557b2b421cc7cc554698462cd764cb",
+  "fetched": "2026-11-03T22:20:01Z",
+  "chars": 20431,
+  "portal_id": "286780",
+  "tip": "DECIZIE"
+ }
+}
