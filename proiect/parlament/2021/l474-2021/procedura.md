@@ -20,6 +20,7 @@ Initiator: Membri ai Parlamentului.
 - 2024-04-02: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2024-04-08: sent for promulgation
 - 2024-07-11: published in the Monitorul Oficial
+- 2024-08-12: promulgated, becomes Legea nr. 243/2024; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -35,3 +36,5 @@ Initiator: Membri ai Parlamentului.
 - 2021-12-30: Adresă către Camera Deputaților (AM): [am-ecc0262b.md](am-ecc0262b.md); official file https://www.senat.ro/legis/PDF/2021/21L474AM.PDF
 - 2024-04-02: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L474AXS.PDF
 - 2024-04-02: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L474LP.PDF
+- 2024-08-12: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L474DP.PDF
+- 2024-08-12: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L474FP.PDF
