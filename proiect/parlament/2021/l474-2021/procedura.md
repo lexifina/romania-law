@@ -21,6 +21,7 @@ Initiator: Membri ai Parlamentului.
 - 2024-04-08: sent for promulgation
 - 2024-07-11: published in the Monitorul Oficial
 - 2024-08-12: promulgated, becomes Legea nr. 243/2024; documents published: Decret de promulgare, Forma promulgată
+- 2024-08-13: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -38,3 +39,6 @@ Initiator: Membri ai Parlamentului.
 - 2024-04-02: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L474LP.PDF
 - 2024-08-12: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L474DP.PDF
 - 2024-08-12: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L474FP.PDF
+- 2024-08-13: Document (AT): [at-10bcc55c.md](at-10bcc55c.md); official file https://www.senat.ro/legis/PDF/2021/21L474AT.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2024-08-13: Document (SC): [sc-b5ecd62d.md](sc-b5ecd62d.md); official file https://www.senat.ro/legis/PDF/2021/21L474SC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2024-08-13: Document (DC): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L474DC.PDF (its day is not given by the bill file: shown from the last stage held)
