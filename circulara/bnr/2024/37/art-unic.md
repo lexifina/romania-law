@@ -1,0 +1,2 @@
+# Articolul unic
+Începând cu perioada de aplicare 24 iulie-23 august 2024, rata dobânzii plătite la rezervele minime obligatorii constituite în euro este de 0,17% pe an.
