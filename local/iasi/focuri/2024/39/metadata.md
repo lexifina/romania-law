@@ -1,0 +1,10 @@
+# HCL Focuri nr. 39/2024
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+- Council: Consiliul Local al Comunei Focuri
+- Decision: nr. 39/2024
+- Adopted: 2024-07-30
+- Published: 2024-08-19
+- Title: privind aprobarea damararea studiilor necesare parcurgerii etapelor pentru ÎNFIINȚAREA ȘI DELEGAREA SERVICIULUI DE TRANSPORT PUBLIC LOCAL ÎN COMUNA FOCURI
+- Record: https://emol.ro/focuri-is/registru-hcl/165539
