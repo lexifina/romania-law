@@ -1,0 +1,6 @@
+# ANEXĂ
+REGULAMENT de organizare și funcționare a
+Comisiei de Film în România, responsabilă cu aplicarea Procedurii de evaluare, aprobare și decontare a ajutorului de stat pentru proiectele care pot fi finanțate în cadrul schemei de ajutor de stat reglementate de
+Hotărârea Guvernului nr. 421/2018 pentru instituirea unei scheme de ajutor de stat privind sprijinirea producției de opere audiovizuale pe teritoriul României, începând cu sesiunea 2024, aprobată prin
+Decizia managerului Oficiului de Film și
+Investiții Culturale, interimar, nr. 659/2024
