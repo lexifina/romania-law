@@ -1,0 +1,1 @@
+Prezenta hotărâre a fost adoptată astăzi, 29.08.2024, cu respectarea prevederilor art 139 alin.1) din OUG 57/2019, cu un număr de 15 voturi pentru, 0 voturi împotrivă, 0 voturi abțineri, din totalul de 15 consilieri locali prezenți.
