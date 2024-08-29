@@ -1,0 +1,434 @@
+{
+ "key": "dcc-749-2023",
+ "label": "Decizia CCR nr. 749/2023",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "749",
+ "date": "2023-12-14",
+ "year": "2023",
+ "heading": "DECIZIA nr. 749 din 14 decembrie 2023",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 1 alin. (1), ale art. 4 alin. (1^1)-(1^3), (3) și (4), ale art. 5 alin. (3) și (3^1), ale art. 7 alin. (4) și (5^1), ale art. 8 alin. (5), ale art. 10 alin. (1) și ale art. 11 teza întâi din Legea nr. 77/2016 privind darea în plată a unor bunuri imobile în vederea stingerii obligațiilor asumate prin credite, precum și ale Legii nr. 52/2020 pentru modificarea și completarea Legii nr. 77/2016 privind darea în plată a unor bunuri imobile în vederea stingerii obligațiilor asumate prin credite, în ansamblul său",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "866",
+  "bis": false,
+  "date": "2024-08-29",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata",
+  "devenita-inadmisibila"
+ ],
+ "dossiers": [
+  "3.271/225/2018",
+  "890D/2020",
+  "5.169/306/2020",
+  "13.970/303/2020",
+  "24.651/245/2020",
+  "19.230/299/2020",
+  "22.261/245/2020",
+  "1.152/211/2021",
+  "20.303/303/2020",
+  "22.242/233/2020"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 77/2016",
+    "number": "77",
+    "year": "2016",
+    "path": "lege/2016/77"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": [
+      "1-1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 52/2020",
+    "number": "52",
+    "year": "2020",
+    "path": "lege/2020/52"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "1. Respinge, ca devenită inadmisibilă, excepția de neconstituționalitate a dispozițiilor art. 8 alin. (5) tezele a doua și a treia din Legea nr. 77/2016 privind darea în plată a unor bunuri imobile în vederea stingerii obligațiilor asumate prin credite, excepție ridicată de B.R.D. - Groupe Société Générale - S.A. din București în Dosarul nr. 3.271/225/2018 al Tribunalului Mehedinți - Secția a II-a civilă, de contencios administrativ și fiscal, în Dosarul nr. 5.169/306/2020 al Judecătoriei Sibiu - Secția civilă, în Dosarul nr. 13.970/303/2020 al Judecătoriei Sectorului 6 București - Secția civilă, în Dosarul nr. 24.651/245/2020 al Judecătoriei Iași - Secția civilă, în Dosarul nr. 19.230/299/2020 al Judecătoriei Sectorului 1 București - Secția a II-a civilă, în Dosarul nr. 22.261/245/2020 al Judecătoriei Iași - Secția civilă, în Dosarul nr. 1.152/211/2021 al Judecătoriei Cluj-Napoca - Secția civilă, în Dosarul nr. 20.303/303/2020 al Judecătoriei Sectorului 6 București - Secția civilă, în Dosarul nr. 22.242/233/2020 al Judecătoriei Galați - Secția civilă, în Dosarul nr. 15.743/302/2020 al Judecătoriei Sectorului 5 București - Secția a II-a civilă, de Raiffeisen Bank - S.A. din București în Dosarul nr. 1.956/289/2020 al Judecătoriei Reghin, în dosarele nr. 14.469/4/2020 și nr. 12.769/4/2020 ale Judecătoriei Sectorului 4 București - Secția civilă, în Dosarul nr. 16.833/245/2020 al Judecătoriei Iași - Secția civilă, de Banca Comercială Intesa Sanpaolo România - S.A. din București în Dosarul nr. 9.148/271/2020 al Judecătoriei Oradea - Secția civilă, de Banca Românească - S.A. din București în Dosarul nr. 6.081/182/2020 al Judecătoriei Baia Mare - Secția civilă, în Dosarul nr. 16.135/300/2020 al Judecătoriei Sectorului 2 București - Secția civilă, în Dosarul nr. 15.768/4/2020 al Judecătoriei Sectorului 4 București - Secția civilă, în Dosarul nr. 11.990/281/2020 al Judecătoriei Ploiești, în Dosarul nr. 14.509/233/2020 al Judecătoriei Galați - Secția civilă, în Dosarul nr. 16.676/233/2020 al Judecătoriei Galați - Secția civilă, de Banca Transilvania - S.A. din Cluj-Napoca în Dosarul nr. 5.759/193/2020 al Judecătoriei Botoșani - Secția civilă, în Dosarul nr. 5.944/221/2020 al Judecătoriei Deva - Secția civilă, de Credit Plus (Gulf) Ltd. din Dubai, Emiratele Arabe Unite în Dosarul nr. 12.990/302/2020 al Judecătoriei Sectorului 5 București - Secția a II-a civilă, de Credit Europe Bank România - S.A. din București în Dosarul nr. 12.867/303/2020 al Judecătoriei Sectorului 6 București - Secția civilă, în Dosarul nr. 10.890/320/2020/a1 al Tribunalului Specializat Mureș, de Garanti Bank - S.A. din București în Dosarul nr. 10.599/1.748/2020 al Judecătoriei Cornetu - Secția civilă, în Dosarul nr. 17.258/94/2020 al Judecătoriei Buftea - Secția civilă, de Unicredit Bank - S.A. din București în Dosarul nr. 27.050/325/2020 al Judecătoriei Timișoara - Secția a II-a civilă, în Dosarul nr. 4.680/291/2020 al Judecătoriei Roman, în Dosarul nr. 20.372/303/2020 al Judecătoriei Sectorului 6 București - Secția civilă, de Invest Capital Ltd din San Gwann, Malta, în Dosarul nr. 17.184/280/2020 al Judecătoriei Pitești - Secția civilă, în Dosarul nr. 9.306/315/2020 al Judecătoriei Târgoviște, în Dosarul nr. 2.943/197/2021 al Judecătoriei Brașov, în Dosarul nr. 12.382/215/2020 al Judecătoriei Craiova - Secția I civilă, în Dosarul nr. 22.876/245/2020 al Judecătoriei Iași - Secția civilă, în Dosarul nr. 16.327/301/2020 al Tribunalului București - Secția a VI-a civilă, în Dosarul nr. 679/1.748/2021 al Judecătoriei Cornetu - Secția civilă, în Dosarul nr. 645/1.748/2021 al Judecătoriei Cornetu - Secția civilă, de Eos Credit Funding Dac din Dublin, Irlanda, în Dosarul nr. 27.748/245/2020 al Judecătoriei Iași - Secția civilă, în Dosarul nr. 26.160/245/2019 al Tribunalului Iași - Secția I civilă, în Dosarul nr. 12.571/302/2020 al Judecătoriei Sectorului 5 - Secția a II-a civilă, în Dosarul nr. 8.065/271/2020 al Tribunalului Bihor - Secția a II-a civilă și de Patria Bank - S.A. din București în Dosarul nr. 5.762/328/2020 al Judecătoriei Turda.",
+  "2. Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de aceleași părți în dosarele acelorași instanțe și constată că dispozițiile art. 1 alin. (1), ale art. 4 alin. (1^1)-(1^3), (3) și (4), ale art. 5 alin. (3) și (3^1), ale art. 7 alin. (4) și (5^1), ale art. 8 alin. (5) teza întâi, ale art. 10 alin. (1) și ale art. 11 teza întâi din Legea nr. 77/2016, precum și Legea nr. 52/2020 pentru modificarea și completarea Legii nr. 77/2016 privind darea în plată a unor bunuri imobile în vederea stingerii obligațiilor asumate prin credite, în ansamblul său, sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului Mehedinți - Secția a II-a civilă, de contencios administrativ și fiscal, Judecătoriei Sibiu - Secția civilă, Judecătoriei Sectorului 6 București – Secția civilă, Judecătoriei Iași - Secția civilă, Judecătoriei Sectorului 1 București - Secția a II-a civilă, Judecătoriei Cluj-Napoca - Secția civilă, Judecătoriei Galați - Secția civilă, Judecătoriei Sectorului 5 București - Secția a II-a civilă, Judecătoriei Reghin, Judecătoriei Sectorului 4 București - Secția civilă, Judecătoriei Oradea - Secția civilă, Judecătoriei Baia Mare - Secția civilă, Judecătoriei Sectorului 2 București - Secția civilă, Judecătoriei Ploiești, Judecătoriei Galați - Secția civilă, Judecătoriei Botoșani - Secția civilă, Judecătoriei Deva - Secția civilă, Judecătoriei Sectorului 5 București, Tribunalului Specializat Mureș, Judecătoriei Cornetu - Secția civilă, Judecătoriei Buftea - Secția civilă, Judecătoriei Timișoara - Secția a II-a civilă, Judecătoriei Roman, Judecătoriei Pitești - Secția civilă, Judecătoriei Târgoviște, Judecătoriei Brașov, Judecătoriei Craiova - Secția I civilă, Tribunalului București - Secția a VI-a civilă, Tribunalului Iași - Secția I civilă, Judecătoriei Sectorului 5 București - Secția a II-a civilă, Tribunalului Bihor - Secția a II-a civilă și Judecătoriei Turda și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 77/2016",
+    "number": "77",
+    "year": "2016",
+    "path": "lege/2016/77"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": [
+      "1-1",
+      "1-3",
+      "1-2",
+      "3",
+      "4"
+     ],
+     "lit": [
+      "a",
+      "b"
+     ]
+    },
+    {
+     "art": "8",
+     "alin": [
+      "5",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": [
+      "3",
+      "3-1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": [
+      "4",
+      "5-1",
+      "6"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 78
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 52/2020",
+    "number": "52",
+    "year": "2020",
+    "path": "lege/2020/52"
+   },
+   "articles": [],
+   "mentions": 66
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 312/2004",
+    "number": "312",
+    "year": "2004",
+    "path": "lege/2004/312"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "3",
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "147",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "148",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "79",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "141",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "102",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 27
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "1271",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 52/2016",
+    "number": "52",
+    "year": "2016",
+    "path": "oug/2016/52"
+   },
+   "articles": [
+    {
+     "art": "32",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "62",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "cod/1864/civil",
+    "slug": "codul-civil-1864"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2024-08-29",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/287803",
+  "text_sha256": "20b9f1ce2907e7a5f413a3aed2f89a392b956fc2e1b6c7b79eccc0d5034f9cd7",
+  "catalogue_sha256": "20b9f1ce2907e7a5f413a3aed2f89a392b956fc2e1b6c7b79eccc0d5034f9cd7",
+  "fetched": "2026-11-03T01:06:59Z",
+  "chars": 101764,
+  "portal_id": "287803",
+  "tip": "DECIZIE"
+ }
+}
