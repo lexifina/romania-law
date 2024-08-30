@@ -1,0 +1,11 @@
+# HCGMB nr. 255/2024
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+- Council: Consiliul General al Municipiului București
+- Decision: nr. 255/2024
+- Adopted: 2024-08-30
+- Title: PRIVIND APROBAREA ACORDULUI DE PARTENERIAT PENTRU DEPUNEREA EXPRESIEI DE INTERES IN CADRUL APELULUI DE PROPUNERI PENTRU SUSTINEREA ORASELOR IN “MISIUNEA UE PENTRU 100 DE ORASE INTELIGENTE SI NEUTRE DIN PUNCT DE VEDERE CLIMATIC PANA IN 2030” (M100) DE CATRE MUNICIPIUL BUCURESTI SI SECTORUL 1 AL MUNICIPIULUI BUCURESTI, SECTORUL 3 AL MUNICIPIULUI BUCURESTI, SECTORUL 4 AL MUNICIPIULUI BUCURESTI, SECTORUL 5 AL MUNICIPIULUI BUCURESTI SI SECTORUL 6 AL MUNICIPIULUI BUCURESTI
+- Record: https://acteinterne.pmb.ro/legis/acteinterne/acte_int/45835
+- Document: https://doc.pmb.ro/legis/acteinterne/2024/45835/h255_24.pdf
+- Document sha256: 8e1c6743ebfa8b945988fc7c200826bb22a5d438f32cc83d14e0ca5da3a137de
