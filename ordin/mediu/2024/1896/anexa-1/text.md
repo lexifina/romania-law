@@ -1,0 +1,2 @@
+# ANEXĂ
+REGULAMENT privind alocarea, la cerere, a exemplarelor de urs brun din nivelul de intervenție la nivel național, prevăzute la art. 3^1 alin. (1) din Ordonanța de urgență a Guvernului nr. 81/2021 privind aprobarea metodelor de intervenție imediată pentru prevenirea și combaterea atacurilor exemplarelor de urs brun asupra persoanelor și bunurilor acestora, precum și pentru modificarea și completarea unor acte normative
