@@ -1,0 +1,10 @@
+# HCL Livezile nr. 12/2024
+
+Text not yet included: no document of it is held. It will be added when it is.
+
+- Council: Consiliul Local al Comunei Livezile
+- Decision: nr. 12/2024
+- Adopted: 2024-06-28
+- Published: 2024-09-04
+- Title: privind aprobarea modului de întocmire a registrului agricol
+- Record: https://emol.ro/livezile-mh/registru-hcl/161816
