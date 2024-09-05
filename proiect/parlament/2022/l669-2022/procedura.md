@@ -16,6 +16,7 @@ Initiator: Membri ai Parlamentului.
 - 2022-12-14: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților
 - 2023-02-01: registered at the Chamber of Deputies
 - 2024-09-03: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
+- 2024-09-05: sent for promulgation; promulgated, becomes Legea nr. 244/2024; published in the Monitorul Oficial; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -29,3 +30,5 @@ Initiator: Membri ai Parlamentului.
 - 2022-12-14: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L669AM.PDF
 - 2024-09-03: Adresă privind sesizarea CCR (AXS): [axs-b4b53237.md](axs-b4b53237.md); official file https://www.senat.ro/legis/PDF/2022/22L669AXS.PDF
 - 2024-09-03: Forma trimisă la promulgare (LP): [lp-6525dd81.md](lp-6525dd81.md); official file https://www.senat.ro/legis/PDF/2022/22L669LP.PDF
+- 2024-09-05: Decret de promulgare (DP): [dp-7c720f9a.md](dp-7c720f9a.md); official file https://www.senat.ro/legis/PDF/2022/22L669DP.PDF
+- 2024-09-05: Forma promulgată (FP): [fp-36d9981f.md](fp-36d9981f.md); official file https://www.senat.ro/legis/PDF/2022/22L669FP.PDF
