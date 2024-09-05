@@ -12,6 +12,7 @@ Initiator: Guvernul României.
 
 - 2024-09-02: registered at the Chamber of Deputies; registered at the Senate; adopted by the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document, Aviz comisie, Raport comisie sesizată pe fond, Forma adoptată de Senat, Adres…
 - 2024-09-03: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
+- 2024-09-05: sent for promulgation; promulgated, becomes Legea nr. 246/2024; published in the Monitorul Oficial; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -26,3 +27,5 @@ Initiator: Guvernul României.
 - 2024-09-02: Adresă către Camera Deputaților (AM): [am-2c5106fd.md](am-2c5106fd.md); official file https://www.senat.ro/legis/PDF/2024/24L468AM.PDF
 - 2024-09-03: Adresă privind sesizarea CCR (AXS): [axs-2a2b2a3e.md](axs-2a2b2a3e.md); official file https://www.senat.ro/legis/PDF/2024/24L468AXS.PDF
 - 2024-09-03: Forma trimisă la promulgare (LP): [lp-08985ea4.md](lp-08985ea4.md); official file https://www.senat.ro/legis/PDF/2024/24L468LP.PDF
+- 2024-09-05: Decret de promulgare (DP): [dp-a2d414a8.md](dp-a2d414a8.md); official file https://www.senat.ro/legis/PDF/2024/24L468DP.PDF
+- 2024-09-05: Forma promulgată (FP): [fp-ddce2375.md](fp-ddce2375.md); official file https://www.senat.ro/legis/PDF/2024/24L468FP.PDF
