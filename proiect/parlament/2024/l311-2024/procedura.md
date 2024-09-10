@@ -13,6 +13,7 @@ Initiator: Membri ai Parlamentului.
 - 2024-06-12: documents published: Aviz comisie
 - 2024-09-02: documents published: Raport comisie sesizată pe fond
 - 2024-09-03: rejected by the Senate; documents published: Adresă către Camera Deputaților
+- 2024-09-10: registered at the Chamber of Deputies
 
 ## Documents
 
