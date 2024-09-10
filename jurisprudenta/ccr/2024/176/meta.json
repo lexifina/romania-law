@@ -1,0 +1,321 @@
+{
+ "key": "dcc-176-2024",
+ "label": "Decizia CCR nr. 176/2024",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "176",
+ "date": "2024-03-21",
+ "year": "2024",
+ "heading": "DECIZIA nr. 176 din 21 martie 2024",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 6 lit. b), c), d) și g), ale art. 23, ale art. 36 alin. (1), ale art. 38 alin. (1), alin. (2) lit. a), alin. (3), (4) și (6) și ale art. 39 din Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, precum și ale art. 1 din cap. I lit. B și ale cap. II lit. A secțiunea II pct. 6 subpct. 6.2 lit. a) pct. 1 și 2 din anexa nr. VIII la Legea-cadru nr. 153/2017, în interpretarea dată prin Decizia nr. 27 din 26 octombrie 2020, pronunțată de Înalta Curte de Casație și Justiție - Completul pentru soluționarea recursului în interesul legii",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "911",
+  "bis": false,
+  "date": "2024-09-10",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "17.061/3/2020",
+  "1.148D/2021",
+  "2.877/30/2019",
+  "2.478/3/2019",
+  "29.952/3/2019",
+  "325/88/2019",
+  "2.875/30/2019",
+  "12.975/3/2019",
+  "28.330/3/2018",
+  "10.424/3/2020"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "36",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "38",
+     "alin": [
+      "1",
+      "2",
+      "3"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "39",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Andreia Diana Notrețu, prin Sindicatul Național al Lucrătorilor din Agenția de Plăți și Intervenție pentru Agricultură, în Dosarul nr. 17.061/3/2020 al Tribunalului Dolj - Secția contencios administrativ și fiscal, de Navara Maria Roșu (fostă Dumitrașcu) și alții în Dosarul nr. 2.877/30/2019 al Curții de Apel Pitești - Secția a II-a civilă, de contencios administrativ și fiscal, de Sindicatul din Rețeaua Veterinară a județului Ilfov, în numele și pentru membrii de sindicat Oana Nicoleta Balaban și alții, în Dosarul nr. 2.478/3/2019 al Curții de Apel București - Secția a VII-a pentru cauze privind conflicte de muncă și asigurări sociale, de Adrian Turtoi și alții în Dosarul nr. 29.952/3/2019 al Curții de Apel Ploiești - Secția de contencios administrativ și fiscal, de Sindicatul Liber al Personalului Sanitar Veterinar Tulcea, pentru membrul de sindicat Viorica Cotos, în Dosarul nr. 325/88/2019 al Curții de Apel Constanța - Secția a II-a civilă, de contencios administrativ și fiscal, de Aurelia Stan și alții în Dosarul nr. 2.875/30/2019 al Curții de Apel Galați - Secția contencios administrativ și fiscal, de Rodica Borodatîi și alții în Dosarul nr. 12.975/3/2019 al Curții de Apel București - Secția a VIII-a contencios administrativ și fiscal, de Sindicatul din Rețeaua Veterinară a județului Ilfov, pentru membrii de sindicat Camelia Georgeta Ilie și alții, în Dosarul nr. 28.330/3/2018 al Înaltei Curți de Casație și Justiție - Secția de contencios administrativ și fiscal, de Sindicatul Liber Independent din Institutul de Diagnostic și Sănătate Animală, pentru membrii de sindicat Teofilia Banu și alții, în Dosarul nr. 10.424/3/2020 al Tribunalului București - Secția a II-a contencios administrativ și fiscal, de Cristian Bratu în Dosarul nr. 2.036/93/2021 al Tribunalului București - Secția a VIII-a conflicte de muncă și asigurări sociale, de Sindicatul Veterinarilor din Administrația Centrală - Esculap, în nume propriu și în calitate de reprezentant al membrului de sindicat Oana-Flavia Ioniță, în Dosarul nr. 5.765/2/2020 al Curții de Apel București - Secția a IX-a contencios administrativ și fiscal, de Sindicatul Salariaților din Agenția Domeniilor Statului, în numele și pentru membrii de sindicat Dragoș Dumitrescu și, respectiv, Octavian Șoldea, în dosarele nr. 22.186/3/2021 și nr. 35.417/3/2021 ale Tribunalului București - Secția a VIII-a conflicte de muncă și asigurări sociale, de Sindicatul Veterinarilor din Administrația Centrală - Esculap, în nume propriu și în calitate de reprezentant al membrului de sindicat Daniel Spoială, în Dosarul nr. 34.269/3/2019 al Curții de Apel București - Secția a VIII-a contencios administrativ și fiscal, și constată că dispozițiile art. 6 lit. b), c), d) și g), ale art. 23, ale art. 36 alin. (1), ale art. 38 alin. (1), alin. (2) lit. a), alin. (3), (4) și (6) și ale art. 39 din Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, precum și ale art. 1 din cap. I lit. B și ale cap. II lit. A secțiunea II pct. 6 subpct. 6.2 lit. a) pct. 1 și 2 din anexa nr. VIII la Legea-cadru nr. 153/2017, în interpretarea dată prin Decizia nr. 27 din 26 octombrie 2020, pronunțată de Înalta Curte de Casație și Justiție - Completul pentru soluționarea recursului în interesul legii, sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului Dolj - Secția contencios administrativ și fiscal, Curții de Apel Pitești - Secția a II-a civilă, de contencios administrativ și fiscal, Curții de Apel București - Secția a VII-a pentru cauze privind conflicte de muncă și asigurări sociale, Curții de Apel Ploiești - Secția de contencios administrativ și fiscal, Curții de Apel Constanța - Secția a II-a civilă, de contencios administrativ și fiscal, Curții de Apel Galați - Secția contencios administrativ și fiscal, Curții de Apel București - Secția a VIII-a contencios administrativ și fiscal, Înaltei Curți de Casație și Justiție - Secția de contencios administrativ și fiscal, Tribunalului București - Secția a II-a contencios administrativ și fiscal, Tribunalului București - Secția a VIII-a conflicte de muncă și asigurări sociale și Curții de Apel București - Secția a IX-a contencios administrativ și fiscal și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "38",
+     "alin": [
+      "1",
+      "3",
+      "4",
+      "2"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "39",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": [
+      "b",
+      "h"
+     ]
+    },
+    {
+     "art": "36",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 47
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "148",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "34",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 229/2020",
+    "number": "229",
+    "year": "2020",
+    "path": "lege/2020/229"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 12 la Convenție",
+    "path": null,
+    "slug": "conventia-edo-protocolul-12"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 917/2017",
+    "number": "917",
+    "year": "2017",
+    "path": "hg/2017/917"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanței Guvernului nr. 137/2000",
+    "number": "137",
+    "year": "2000",
+    "path": "og/2000/137"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 5
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2024-09-10",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/288194",
+  "text_sha256": "4341a0aa65bf8b3e885dae517c57ce85ef9b4cdddaa5dcde646484b75c3dd340",
+  "catalogue_sha256": "4341a0aa65bf8b3e885dae517c57ce85ef9b4cdddaa5dcde646484b75c3dd340",
+  "fetched": "2026-11-03T01:06:44Z",
+  "chars": 55078,
+  "portal_id": "288194",
+  "tip": "DECIZIE"
+ }
+}
