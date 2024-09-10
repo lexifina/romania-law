@@ -1,0 +1,347 @@
+{
+ "key": "dcc-220-2024",
+ "label": "Decizia CCR nr. 220/2024",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "220",
+ "date": "2024-04-10",
+ "year": "2024",
+ "heading": "DECIZIA nr. 220 din 10 aprilie 2024",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. I pct. 9 din Legea nr. 217/2023 pentru modificarea și completarea Legii nr. 286/2009 privind Codul penal, a Legii nr. 135/2010 privind Codul de procedură penală, precum și a Legii audiovizualului nr. 504/2002, cu referire la art. 218^1 alin. (7) din Codul penal, precum și a Legii nr. 217/2023, în ansamblul său",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "911",
+  "bis": false,
+  "date": "2024-09-10",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata",
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.486D/2023"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 217/2023",
+    "number": "217",
+    "year": "2023",
+    "path": "lege/2023/217"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 135/2010",
+    "number": "135",
+    "year": "2010",
+    "path": "lege/2010/135"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii audiovizualului nr. 504/2002",
+    "number": "504",
+    "year": "2002",
+    "path": "lege/2002/504"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "218-1",
+     "alin": [
+      "7"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "1. Respinge, ca inadmisibilă, excepția de neconstituționalitate a dispozițiilor art. I pct. 9 din Legea nr. 217/2023 pentru modificarea și completarea Legii nr. 286/2009 privind Codul penal, a Legii nr. 135/2010 privind Codul de procedură penală, precum și a Legii audiovizualului nr. 504/2002, cu referire la art. 218^1 alin. (7) din Codul penal, excepție ridicată de Avocatul Poporului.",
+  "2. Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Avocatul Poporului și constată că Legea nr. 217/2023 pentru modificarea și completarea Legii nr. 286/2009 privind Codul penal, a Legii nr. 135/2010 privind Codul de procedură penală, precum și a Legii audiovizualului nr. 504/2002, în ansamblul său, este constituțională în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Avocatului Poporului și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 217/2023",
+    "number": "217",
+    "year": "2023",
+    "path": "lege/2023/217"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 30
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 135/2010",
+    "number": "135",
+    "year": "2010",
+    "path": "lege/2010/135"
+   },
+   "articles": [],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii audiovizualului nr. 504/2002",
+    "number": "504",
+    "year": "2002",
+    "path": "lege/2002/504"
+   },
+   "articles": [],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "218-1",
+     "alin": [
+      "7",
+      "3",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "113",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "218",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 29
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "18",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "19",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "22",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "49",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "22",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "32",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "33",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "30",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "31",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 424/2023",
+    "number": "424",
+    "year": "2023",
+    "path": "lege/2023/424"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2024-09-10",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/288195",
+  "text_sha256": "75d50b76ae6b82a35dda127ab8e216ece77d7578f02fa66462958ef4305fa628",
+  "catalogue_sha256": "75d50b76ae6b82a35dda127ab8e216ece77d7578f02fa66462958ef4305fa628",
+  "fetched": "2026-11-03T01:06:44Z",
+  "chars": 32012,
+  "portal_id": "288195",
+  "tip": "DECIZIE"
+ }
+}
