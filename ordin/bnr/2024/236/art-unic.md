@@ -1,0 +1,3 @@
+# Articolul unic
+Se dispune publicarea efectuării radierii din Registrul general și Registrul special Instituții Financiare Nebancare, ținute de către Banca Națională a României, a Societății BRD FINANCE IFN - S.A., cu sediul în București, Șoseaua Olteniței nr. 2, clădirea City Offices, etajul 4, sectorul 4, înregistrată la Oficiul Național al Registrului Comerțului cu nr. J40/6083/2004, având cod unic de înregistrare 16334236, înscrisă în Registrul general cu nr. RG-PJR-41-110035, respectiv cu nr. RS-PJR-41-110005 din data de 29.11.2006, la secțiunea k) - "Activități multiple de creditare".
+335 415
