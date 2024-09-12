@@ -1,0 +1,16 @@
+# Anexa 3
+Anexa nr. 3
+la normele metodologice
+Notificare cu privire la reconcilierea contabilă anuală
+De la: .............(operatorul de program/beneficiarul în cadrul suportului tehnic)...........
+Către: Autoritatea de plată
+Referitor: măsura-suport/componenta de program, numărul Acordului privind măsura-suport/Acordului de implementare a măsurii-suport/Contractului de finanțare sau suportul tehnic - Fondul de pregătire a măsurilor-suport/fondul de asistență tehnică) .........................................
+Vă informăm că la data de ............... situația încasărilor/plăților a fost următoarea: – sume încasate de la Autoritatea de plată: ..................., conform: • OP nr./data ............., suma ................., reprezentând ...................;
+• OP nr./data ............., suma ................., reprezentând ...................;
+• ........................................................................................................
+• sume plătite (restituite) către Autoritatea de plată: ................., conform:
+• OP nr./data ............., suma ................, reprezentând ...................;
+• OP nr./data ............., suma ................, reprezentând ...................;
+• .......................................................................................................
+Întocmit:
+Reprezentant legal ........ (numele, data, semnătura și ștampila)...........
