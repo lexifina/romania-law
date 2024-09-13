@@ -1,0 +1,188 @@
+{
+ "key": "dcc-123-2024",
+ "label": "Decizia CCR nr. 123/2024",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "123",
+ "date": "2024-03-14",
+ "year": "2024",
+ "heading": "DECIZIA nr. 123 din 14 martie 2024",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 29 alin. (1) și (5) din Legea nr. 47/1992 privind organizarea și funcționarea Curții Constituționale",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "925",
+  "bis": false,
+  "date": "2024-09-13",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "4.424/2/2016/a1.1",
+  "103D/2020",
+  "8.511/2/2018",
+  "138/36/2018",
+  "118/57/2020/a1.1",
+  "3.143/2/2020",
+  "2.260D/2020"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Costel Ghiță în Dosarul nr. 4.424/2/2016/a1.1 al Înaltei Curți de Casație și Justiție - Secția de contencios administrativ și fiscal, de Ioana Sfîrâială în Dosarul nr. 8.511/2/2018*/a1 al Înaltei Curți de Casație și Justiție - Secția de contencios administrativ și fiscal, de Ordinul Tehnicienilor Dentari din România în Dosarul nr. 138/36/2018*/a1.1 al Înaltei Curți de Casație și Justiție - Secția de contencios administrativ și fiscal, de Teodora Condruz și societățile Metropolitan Security - S.R.L. și Ippon Med - S.R.L., ambele din Mediaș, în Dosarul nr. 118/57/2020/a1.1 al Înaltei Curți de Casație și Justiție - Secția de contencios administrativ și fiscal, și de Andrei Sfîrâială în Dosarul nr. 3.143/2/2020 al Curții de Apel București - Secția a II-a penală și constată că dispozițiile art. 29 alin. (1) și (5) din Legea nr. 47/1992 privind organizarea și funcționarea Curții Constituționale sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Înaltei Curți de Casație și Justiție - Secția de contencios administrativ și fiscal și Curții de Apel București - Secția a II-a penală și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "5",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 22
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2024-09-13",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/288321",
+  "text_sha256": "cb1d29fb2dbde7056f122044e599f53633fc0e3f5997e09d3e73880104d9cd37",
+  "catalogue_sha256": "cb1d29fb2dbde7056f122044e599f53633fc0e3f5997e09d3e73880104d9cd37",
+  "fetched": "2026-11-06T02:42:25Z",
+  "chars": 19130,
+  "archive": {
+   "source": "wayback",
+   "url": "https://web.archive.org/web/20240914140356/https://legislatie.just.ro/Public/DetaliiDocument/288321",
+   "page": "https://legislatie.just.ro/Public/DetaliiDocument/288321",
+   "timestamp": "20240914140356",
+   "sha256": "aa9fa2980034718af2da368bac71ffd10053b64cf2b13bc1415b4ef6938f7ef7"
+  },
+  "portal_id": "288321",
+  "tip": "DECIZIE"
+ }
+}
