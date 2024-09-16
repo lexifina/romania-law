@@ -13,6 +13,7 @@ Initiator: Membri ai Parlamentului.
 - 2024-06-04: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 - 2024-06-17: documents published: Aviz comisie
 - 2024-09-11: documents published: Raport comisie sesizată pe fond
+- 2024-09-16: adopted by the Senate; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -21,3 +22,4 @@ Initiator: Membri ai Parlamentului.
 - 2024-06-04: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L340EM.PDF
 - 2024-06-17: Aviz comisie (CA45): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L340CA45.PDF
 - 2024-09-11: Raport comisie sesizată pe fond (CR): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L340CR.PDF
+- 2024-09-16: Document (ARD): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L340ARD.PDF (its day is not given by the bill file: shown from the last stage held)
