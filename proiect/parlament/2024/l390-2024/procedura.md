@@ -14,6 +14,7 @@ Initiator: Guvernul României.
 - 2024-09-03: documents published: Aviz comisie
 - 2024-09-05: documents published: Aviz comisie
 - 2024-09-10: adopted by the Senate; documents published: Raport comisie sesizată pe fond, Forma adoptată de Senat, Adresă către Camera Deputaților
+- 2024-09-16: registered at the Chamber of Deputies
 
 ## Documents
 
