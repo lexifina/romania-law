@@ -12,7 +12,9 @@ Initiator: Guvernul României.
 
 - 2024-09-02: registered at the Chamber of Deputies
 - 2024-09-11: documents published: Raport comisie sesizată pe fond
+- 2024-09-17: adopted by the Chamber of Deputies; documents published: Document
 
 ## Documents
 
 - 2024-09-11: Raport comisie sesizată pe fond (CR): [cr-79d38337.md](cr-79d38337.md); official file https://www.senat.ro/legis/PDF/2024/24L498CR.PDF
+- 2024-09-17: Document (OG): [og-bbf8f3ec.md](og-bbf8f3ec.md); official file https://www.senat.ro/legis/PDF/2024/24L498OG.PDF
