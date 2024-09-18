@@ -16,6 +16,7 @@ Initiator: Membri ai Parlamentului.
 - 2023-12-18: documents published: Punct de vedere Guvern
 - 2024-02-03: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților
 - 2024-02-07: registered at the Chamber of Deputies
+- 2024-09-18: documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -28,3 +29,4 @@ Initiator: Membri ai Parlamentului.
 - 2023-12-18: Punct de vedere Guvern (SJ): [sj-ecbb4539.md](sj-ecbb4539.md); official file https://www.senat.ro/legis/PDF/2023/23L623SJ.PDF
 - 2024-02-03: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L623FS.PDF
 - 2024-02-03: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L623AM.PDF
+- 2024-09-18: Document (AJ): [aj-5efe234e.md](aj-5efe234e.md); official file https://www.senat.ro/legis/PDF/2023/23L623AJ.PDF (its day is not given by the bill file: shown from the last stage held)
