@@ -13,8 +13,14 @@ Initiator: Guvernul României.
 - 2024-09-02: registered at the Chamber of Deputies
 - 2024-09-11: documents published: Raport comisie sesizată pe fond
 - 2024-09-17: adopted by the Chamber of Deputies; documents published: Document
+- 2024-09-19: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
 
 ## Documents
 
 - 2024-09-11: Raport comisie sesizată pe fond (CR): [cr-79d38337.md](cr-79d38337.md); official file https://www.senat.ro/legis/PDF/2024/24L498CR.PDF
 - 2024-09-17: Document (OG): [og-bbf8f3ec.md](og-bbf8f3ec.md); official file https://www.senat.ro/legis/PDF/2024/24L498OG.PDF
+- 2024-09-19: Adresă de înaintare a inițiativei (AD): [ad-48f6ebd9.md](ad-48f6ebd9.md); official file https://www.senat.ro/legis/PDF/2024/24L498AD.PDF
+- 2024-09-19: Forma inițiatorului (FG): [fg-a9e0d8b1.md](fg-a9e0d8b1.md); official file https://www.senat.ro/legis/PDF/2024/24L498FG.PDF
+- 2024-09-19: Expunere de motive (EM): [em-1d82cf10.md](em-1d82cf10.md); official file https://www.senat.ro/legis/PDF/2024/24L498EM.PDF
+- 2024-09-19: Aviz Consiliul Legislativ (LG): [lg-3ac24ba5.md](lg-3ac24ba5.md); official file https://www.senat.ro/legis/PDF/2024/24L498LG.PDF
+- 2024-09-19: Document (HG): [hg-30be9301.md](hg-30be9301.md); official file https://www.senat.ro/legis/PDF/2024/24L498HG.PDF
