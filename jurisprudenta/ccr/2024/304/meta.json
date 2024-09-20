@@ -1,0 +1,386 @@
+{
+ "key": "dcc-304-2024",
+ "label": "Decizia CCR nr. 304/2024",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "304",
+ "date": "2024-06-18",
+ "year": "2024",
+ "heading": "DECIZIA nr. 304 din 18 iunie 2024",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 19 alin. (2) lit. b) și c) și ale art. 25 alin. (1) din Legea nr. 171/2010 privind stabilirea și sancționarea contravențiilor silvice, precum și ale art. 6 alin. (9) din Hotărârea Guvernului nr. 470/2014 pentru aprobarea Normelor referitoare la proveniența, circulația și comercializarea materialelor lemnoase, la regimul spațiilor de depozitare a materialelor lemnoase și al instalațiilor de prelucrat lemn rotund, precum și a unor măsuri de aplicare a Regulamentului (UE) nr. 995/2010 al Parlamentului European și al Consiliului din 20 octombrie 2010 de stabilire a obligațiilor ce revin operatorilor care introduc pe piață lemn și produse din lemn",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "946",
+  "bis": false,
+  "date": "2024-09-20",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata",
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.093/290/2019",
+  "696D/2020",
+  "1.279D/2020",
+  "2.861/208/2019"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 171/2010",
+    "number": "171",
+    "year": "2010",
+    "path": "lege/2010/171"
+   },
+   "articles": [
+    {
+     "art": "19",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 470/2014",
+    "number": "470",
+    "year": "2014",
+    "path": "hg/2014/470"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "9"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "1. Respinge, ca inadmisibilă, excepția de neconstituționalitate a dispozițiilor art. 6 alin. (9) din Hotărârea Guvernului nr. 470/2014 pentru aprobarea Normelor referitoare la proveniența, circulația și comercializarea materialelor lemnoase, la regimul spațiilor de depozitare a materialelor lemnoase și al instalațiilor de prelucrat lemn rotund, precum și a unor măsuri de aplicare a Regulamentului (UE) nr. 995/2010 al Parlamentului European și al Consiliului din 20 octombrie 2010 de stabilire a obligațiilor ce revin operatorilor care introduc pe piață lemn și produse din lemn și ale art. 25 alin. (1) din Legea nr. 171/2010 privind stabilirea și sancționarea contravențiilor silvice, excepție ridicată de Societatea Colcear Servcom - S.R.L., respectiv de Societatea Colcear Agregate - S.R.L., ambele din comuna Zăvoi, județul Caraș-Severin, în dosarele nr. 2.093/290/2019 al Judecătoriei Reșița și, respectiv, nr. 2.861/208/2019 al Judecătoriei Caransebeș.",
+  "2. Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de aceeași autoare în aceleași dosare ale acelorași instanțe și constată că dispozițiile art. 19 alin. (2) lit. b) și c) din Legea nr. 171/2010 privind stabilirea și sancționarea contravențiilor silvice sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Judecătoriei Reșița și Judecătoriei Caransebeș și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 171/2010",
+    "number": "171",
+    "year": "2010",
+    "path": "lege/2010/171"
+   },
+   "articles": [
+    {
+     "art": "19",
+     "alin": [
+      "2",
+      "13"
+     ],
+     "lit": [
+      "b",
+      "c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "22",
+     "alin": [
+      "7"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 21
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 470/2014",
+    "number": "470",
+    "year": "2014",
+    "path": "hg/2014/470"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "9"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": [
+      "8",
+      "9"
+     ],
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": [
+      "11"
+     ],
+     "lit": null
+    },
+    {
+     "art": "136",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "4",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "31",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 134/2017",
+    "number": "134",
+    "year": "2017",
+    "path": "lege/2017/134"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 923/2020",
+    "number": "923",
+    "year": "2020",
+    "path": "hg/2020/923"
+   },
+   "articles": [
+    {
+     "art": "IV",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 2/2001",
+    "number": "2",
+    "year": "2001",
+    "path": "og/2001/2"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "31",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "32",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "34",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 51/2016",
+    "number": "51",
+    "year": "2016",
+    "path": "oug/2016/51"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2024-09-20",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/288731",
+  "text_sha256": "7c601d8ce33e7f5415af9f15f8884c71e592e82779baade237a3a33e9f8f3b2e",
+  "catalogue_sha256": "7c601d8ce33e7f5415af9f15f8884c71e592e82779baade237a3a33e9f8f3b2e",
+  "fetched": "2026-11-03T01:06:19Z",
+  "chars": 36813,
+  "portal_id": "288731",
+  "tip": "DECIZIE"
+ }
+}
