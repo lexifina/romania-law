@@ -10,6 +10,7 @@ Initiator: Membri ai Parlamentului.
 
 - 2024-09-11: first record in the bill file
 - 2024-09-16: documents published: Aviz Consiliul Legislativ, Aviz Consiliul Economic și Social, Punct de vedere Guvern, Punct de vedere
+- 2024-09-20: registered at the Senate
 
 ## Documents
 
