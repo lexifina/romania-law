@@ -19,6 +19,7 @@ Initiator: Membri ai Parlamentului.
 - 2024-09-11: adopted by the Chamber of Deputies
 - 2024-09-16: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2024-09-21: sent for promulgation
+- 2024-09-23: promulgated, becomes Legea nr. 247/2024; published in the Monitorul Oficial; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -33,3 +34,5 @@ Initiator: Membri ai Parlamentului.
 - 2024-05-21: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L258AM.PDF
 - 2024-09-16: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L258AXS.PDF
 - 2024-09-16: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L258LP.PDF
+- 2024-09-23: Decret de promulgare (DP): [dp-77cf68d4.md](dp-77cf68d4.md); official file https://www.senat.ro/legis/PDF/2024/24L258DP.PDF
+- 2024-09-23: Forma promulgată (FP): [fp-3f6809e0.md](fp-3f6809e0.md); official file https://www.senat.ro/legis/PDF/2024/24L258FP.PDF
