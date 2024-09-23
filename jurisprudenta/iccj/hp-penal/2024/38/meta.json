@@ -1,0 +1,337 @@
+{
+ "key": "iccj-hp-penal-38-2024",
+ "label": "Decizia ÎCCJ nr. 38/2024 (HP penal)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp-penal",
+ "number": "38",
+ "date": "2024-06-17",
+ "year": "2024",
+ "heading": "DECIZIA nr. 38 din 17 iunie 2024",
+ "subtitle": "referitoare la pronunțarea unei hotărâri prealabile pentru dezlegarea chestiunii privind aflarea în prezența unui concurs de infracțiuni între faptele comise anterior intrării în vigoare a Legii nr. 77/2023 și cele comise ulterior acestui moment sau a unei infracțiuni continuate a cărei încadrare se raportează la momentul epuizării activității presupus infracționale",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT ÎN MATERIE PENALĂ",
+ "mo": {
+  "number": "951",
+  "bis": false,
+  "date": "2024-09-23",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "908/1/2024"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 77/2023",
+    "number": "77",
+    "year": "2023",
+    "path": "lege/2023/77"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 194/2011",
+    "number": "194",
+    "year": "2011",
+    "path": "lege/2011/194"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 143/2000",
+    "number": "143",
+    "year": "2000",
+    "path": "lege/2000/143"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "operative": [
+  "Admite sesizarea formulată de Curtea de Apel Cluj - Secția penală și de minori prin care se solicită pronunțarea unei hotărâri prealabile pentru dezlegarea următoarei chestiuni de drept: „Atunci când o persoană comite la diferite intervale de timp, în baza aceleiași rezoluții infracționale, acțiuni care pot constitui elementul material atât al infracțiunii prevăzute de art. 16 alin. (1) din Legea nr. 194/2011, cât și al infracțiunii prevăzute de art. 2 din Legea nr. 143/2000, acțiuni având ca obiect același tip de substanță interzisă (aceeași substanță), aflată, anterior intrării în vigoare a Legii nr. 77/2023, sub incidența Legii nr. 194/2011, iar ulterior intrării în vigoare a actului normativ menționat, sub incidența Legii nr. 143/2000 (introdusă astfel în tabelul-anexă la Legea nr. 143/2000 ca drog de mare risc), ne aflăm în prezența unui concurs de infracțiuni între faptele comise anterior intrării în vigoare a Legii nr. 77/2023 și cele comise ulterior acestui moment sau a unei infracțiuni continuate a cărei încadrare se raportează la momentul epuizării activității presupus infracționale?“ și stabilește că:",
+  "Atunci când o persoană comite la diferite intervale de timp, în baza unei rezoluții infracționale unice, acțiuni care corespund, în concret, atât elementului material al infracțiunii prevăzute de art. 16 alin. (1) din Legea nr. 194/2011, cât și elementului material al infracțiunii prevăzute de art. 2 din Legea nr. 143/2000 și care au ca obiect același tip de substanță interzisă aflată, anterior intrării în vigoare a Legii nr. 77/2023, sub incidența Legii nr. 194/2011, iar ulterior intrării în vigoare a actului normativ menționat, sub incidența Legii nr. 143/2000, activitatea sa constituie o unitate legală sub forma infracțiunii continuate, căreia i se aplică legea penală în vigoare la momentul comiterii ultimei acțiuni.",
+  "Obligatorie de la data publicării în Monitorul Oficial al României, Partea I, potrivit art. 477 alin. (3) din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 194/2011",
+    "number": "194",
+    "year": "2011",
+    "path": "lege/2011/194"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 60
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 143/2000",
+    "number": "143",
+    "year": "2000",
+    "path": "lege/2000/143"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 78
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 77/2023",
+    "number": "77",
+    "year": "2023",
+    "path": "lege/2023/77"
+   },
+   "articles": [],
+   "mentions": 31
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "475",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "476",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "473",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "35",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "91",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "174",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "228",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "229",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "154",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 27
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 58/2024",
+    "number": "58",
+    "year": "2024",
+    "path": "lege/2024/58"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 45/2023",
+    "number": "45",
+    "year": "2023",
+    "path": "lege/2023/45"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "41",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția europeană a drepturilor omului",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 45/2003",
+    "number": "45",
+    "year": "2003",
+    "path": "lege/2003/45"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2024-09-23",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/288764",
+  "text_sha256": "c2399272b8cca08a812506d6519aa804ff5718a2762b1723598321ef725b96bc",
+  "catalogue_sha256": "c2399272b8cca08a812506d6519aa804ff5718a2762b1723598321ef725b96bc",
+  "fetched": "2026-11-03T01:06:16Z",
+  "chars": 97839,
+  "portal_id": "288764",
+  "tip": "DECIZIE"
+ }
+}
