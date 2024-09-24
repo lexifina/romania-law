@@ -13,6 +13,7 @@ Initiator: Membri ai Parlamentului.
 - 2024-06-18: rejected by the Chamber of Deputies
 - 2024-06-19: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 - 2024-09-17: documents published: Aviz comisie
+- 2024-09-24: rejected by the Senate; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -21,3 +22,4 @@ Initiator: Membri ai Parlamentului.
 - 2024-06-19: Forma inițiatorului (FG): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L358FG.PDF
 - 2024-06-19: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L358EM.PDF
 - 2024-09-17: Aviz comisie (CA45): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L358CA45.PDF
+- 2024-09-24: Document (ARD): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L358ARD.PDF (its day is not given by the bill file: shown from the last stage held)
