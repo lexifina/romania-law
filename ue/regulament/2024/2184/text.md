@@ -1,0 +1,39 @@
+REGULAMENTUL DE PUNERE ÎN APLICARE (UE) 2024/2184 AL COMISIEI
+din 3 septembrie 2024
+privind autorizarea unui preparat de esterază a fumonisinelor produsă cu Komagataella phaffii NCAIM (P) Y001485 ca aditiv în hrana purceilor și a porcilor pentru îngrășare aparținând tuturor speciilor de Suidae
+(Text cu relevanță pentru SEE)
+COMISIA EUROPEANĂ,
+având în vedere Tratatul privind funcționarea Uniunii Europene,
+având în vedere Regulamentul (CE) nr. 1831/2003 al Parlamentului European și al Consiliului din 22 septembrie 2003 privind aditivii din hrana animalelor (1), în special articolul 9 alineatul (2),
+întrucât:
+(1) Regulamentul (CE) nr. 1831/2003 prevede autorizarea aditivilor destinați hranei animalelor, precum și motivele și procedurile de acordare a unei astfel de autorizații.
+(2) În conformitate cu articolul 7 din Regulamentul (CE) nr. 1831/2003, a fost transmisă o cerere de autorizare a unui preparat de esterază a fumonisinelor produsă cu Komagataella phaffii NCAIM (P) Y001485. Cererea a fost însoțită de informațiile și de documentele necesare în conformitate cu articolul 7 alineatul (3) din Regulamentul (CE) nr. 1831/2003.
+(3) Cererea vizează autorizarea unui preparat de esterază a fumonisinelor produsă cu Komagataella phaffii NCAIM (P) Y001485 ca aditiv în hrana tuturor porcilor, solicitând ca aditivul respectiv să fie clasificat în categoria „aditivi tehnologici” și în grupa funcțională „substanțe pentru reducerea contaminării furajelor cu micotoxine”.
+(4) Se preconizează că utilizarea acestui aditiv, astfel cum se indică în Regulamentul (CE) nr. 386/2009 al Comisiei (2) de stabilire a grupei funcționale „substanțe pentru reducerea contaminării furajelor cu micotoxine”, îmbunătățește calitatea hranei animalelor aflată în mod legal pe piață, oferind garanții suplimentare pentru protecția sănătății animale și a sănătății publice.
+(5) În avizul ei din 30 ianuarie 2024 (3), Autoritatea Europeană pentru Siguranța Alimentară („autoritatea”) a concluzionat că preparatul de esterază a fumonisinelor produsă cu Komagataella phaffii NCAIM (P) Y001485 este sigur până la 60 U/kg de hrană completă destinată purceilor înțărcați și de lapte, porcilor pentru îngrășare și tuturor speciilor minore de porcine în creștere, precum și că utilizarea sa în hrana animalelor în condițiile de utilizare propuse este sigură pentru consumatori și pentru mediu. În absența unor date adecvate, autoritatea nu a putut concluziona cu privire la siguranța aditivului la nivelul maxim de utilizare propus (360 U/kg) și nici cu privire la siguranța scroafelor și a speciilor minore de porcine de reproducere. Ea a concluzionat, în plus, că preparatul de esterază a fumonisinelor produsă cu Komagataella phaffii NCAIM (P) Y001485 este considerat sensibilizant pentru căile respiratorii deși expunerea prin inhalare este puțin probabilă, nu este iritant nici pentru piele, nici pentru ochi, și nu s-a putut formula nicio concluzie cu privire la potențialul său de sensibilizare cutanată. Autoritatea a mai concluzionat că substanța este eficace în reducerea contaminării cu fumonisine în hrana pentru animale atunci când este adăugată la nivelul minim de utilizare de 60 U/kg de hrană pentru animale în cazul tuturor Suidae-lor. În plus, autoritatea a verificat raportul referitor la metoda de analiză a aditivului în hrana pentru animale transmis de laboratorul de referință înființat prin Regulamentul (CE) nr. 1831/2003.
+(6) Ulterior, solicitantul a retras cererea sa pentru scroafe și speciile minore de porcine de reproducere.
+(7) Având în vedere cele de mai sus, Comisia consideră că preparatul de esterază a fumonisinelor produsă cu Komagataella phaffii NCAIM (P) Y001485 îndeplinește condițiile prevăzute la articolul 5 din Regulamentul (CE) nr. 1831/2003. În consecință, este necesar ca utilizarea respectivei substanțe să fie autorizată pentru purcei și porci pentru îngrășare aparținând tuturor speciilor de Suidae. În plus, Comisia consideră că este necesar să fie luate măsuri de protecție adecvate pentru a preveni efectele adverse asupra sănătății utilizatorilor aditivului.
+(8) Măsurile prevăzute în prezentul regulament sunt conforme cu avizul Comitetului permanent pentru plante, animale, produse alimentare și hrană pentru animale,
+ADOPTĂ PREZENTUL REGULAMENT:
+Articolul 1
+Autorizare
+Substanța specificată în anexă, aparținând categoriei „aditivi tehnologici” și grupei funcționale „substanțe pentru reducerea contaminării furajelor cu micotoxine”, este autorizată ca aditiv în hrana animalelor în condițiile prevăzute în anexa respectivă.
+Articolul 2
+Intrare în vigoare
+Prezentul regulament intră în vigoare în a douăzecea zi de la data publicării în Jurnalul Oficial al Uniunii Europene.
+Prezentul regulament este obligatoriu în toate elementele sale și se aplică direct în toate statele membre.
+Adoptat la Bruxelles, 3 septembrie 2024.
+Pentru Comisie
+Președinta
+Ursula VON DER LEYEN
+(1) JO L 268, 18.10.2003, p. 29, ELI: http://data.europa.eu/eli/reg/2003/1831/oj.
+(2) Regulamentul (CE) nr. 386/2009 al Comisiei din 12 mai 2009 de modificare a Regulamentului (CE) nr. 1831/2003 al Parlamentului European și al Consiliului în ceea ce privește stabilirea unei noi grupe funcționale de aditivi furajeri (JO L 118, 13.5.2009, p. 66, ELI: http://data.europa.eu/eli/reg/2009/386/oj).
+(3) EFSA Journal 2024;22(3), e8614.
+ANEXĂ
+Numărul de identificare al aditivului pentru hrana animalelor | Aditivul | Compoziția, formula chimică, descrierea, metoda analitică | Specia sau categoria de animale | Vârsta maximă | Conținutul minim | Conținutul maxim | Alte dispoziții | Sfârșitul perioadei de autorizare
+Unități de activitate/kg de hrană completă pentru animale, cu un conținut de umiditate de 12 %
+Categorie: aditivi tehnologici. Grupă funcțională: substanțe pentru reducerea contaminării furajelor cu micotoxine: fumonisine
+1m04 | Esterază a fumonisinelor EC 3.1.1.87 | Compoziția aditivului Preparat de esterază a fumonisinelor produsă cu Komagataella phaffii NCAIM (P) Y001485 conținând cel puțin 1 200 U(1) /g. Formă solidă Caracterizarea substanței active Esterază a fumonisinelor (EC 3.1.1.87) produsă cu Komagataella phaffii NCAIM (P) Y001485 Metoda analitică (2) Pentru determinarea activității esterazei fumonisinei B1 în aditivul pentru hrana animalelor, în preamestecuri și în hrana combinată pentru animale: Cromatografie de înaltă performanță în mediu lichid cuplată cu detectarea fluorescenței (HPLC-FLD) bazată pe cuantificarea fumonisinei B1 hidrolizate eliberată din acțiunea enzimei asupra fumonisinei B1 la pH 6,0 și la 37 °C. | Purcei aparținând tuturor speciilor de Suidae Porci pentru îngrășare aparținând tuturor speciilor de Suidae | - | 60 | 60 | 1. În instrucțiunile de utilizare a aditivului și a preamestecurilor se menționează condițiile de depozitare și stabilitatea la tratament termic. 2. Aditivul se utilizează numai în hrana pentru animale care este deja conformă cu normele stabilite pentru micotoxine în legislația Uniunii privind substanțele nedorite din hrana pentru animale. 3. Pentru utilizatorii aditivului și ai preamestecurilor, operatorii din sectorul hranei pentru animale trebuie să stabilească proceduri operaționale și măsuri organizatorice pentru a contracara riscurile potențiale care rezultă din utilizarea lor. În cazul în care riscurile respective nu pot fi eliminate prin astfel de proceduri și de măsuri, aditivul și preamestecurile se utilizează cu echipamente individuale de protecție cutanată și respiratorie. | 24 septembrie 2034
+(1) O unitate (U) este cantitatea de enzimă care eliberează un μmol de HFB1 per minut din 100 μM de FB1 în tampon de fosfat 50 mM la pH 6,0 și la 37 °C.
+(2) Detaliile metodelor analitice sunt disponibile la următoarea adresă a laboratorului de referință: https://joint-research-centre.ec.europa.eu/eurl-fa-eurl-feed-additives/eurl-fa-authorisation/eurl-fa-evaluation-reports_ro.
+ELI: http://data.europa.eu/eli/reg_impl/2024/2184/oj
