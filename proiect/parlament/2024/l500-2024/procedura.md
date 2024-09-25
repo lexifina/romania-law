@@ -1,0 +1,22 @@
+# Proiect de lege L500/2024
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 167/2025 (`legea-167-2025`).
+
+Proiect de lege pentru aprobarea Ordonanţei de urgenţã a Guvernului nr.112/2024 privind modificarea și completarea unor acte normative
+
+Initiator: Guvernul României.
+
+## Stages published so far
+
+- 2024-09-25: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+
+## Documents
+
+- 2024-09-25: Adresă de înaintare a inițiativei (AD): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L500AD.PDF
+- 2024-09-25: Forma inițiatorului (FG): [fg-c13d31a5.md](fg-c13d31a5.md); official file https://www.senat.ro/legis/PDF/2024/24L500FG.PDF
+- 2024-09-25: Expunere de motive (EM): [em-f35f2c24.md](em-f35f2c24.md); official file https://www.senat.ro/legis/PDF/2024/24L500EM.PDF
+- 2024-09-25: Aviz Consiliul Legislativ (LG): [lg-3f202580.md](lg-3f202580.md); official file https://www.senat.ro/legis/PDF/2024/24L500LG.PDF
+- 2024-09-25: Document (OG): [og-2fe1c557.md](og-2fe1c557.md); official file https://www.senat.ro/legis/PDF/2024/24L500OG.PDF
+- 2024-09-25: Document (HG): [hg-15eeaa0e.md](hg-15eeaa0e.md); official file https://www.senat.ro/legis/PDF/2024/24L500HG.PDF
