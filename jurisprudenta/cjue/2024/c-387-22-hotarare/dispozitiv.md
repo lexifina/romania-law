@@ -1,0 +1,4 @@
+# CJUE, Hotărârea Curții (Camera întâi) din 26 septembrie 2024, Cauza C-387/22
+
+Pentru aceste motive, Curtea (Camera întâi) declară:
+Articolul 56 TFUE trebuie interpretat în sensul că nu se opune unei reglementări a unui stat membru care rezervă beneficiul avantajelor fiscale și sociale doar angajaților întreprinderilor din sectorul construcțiilor care își desfășoară activitățile pe teritoriul acestui stat membru și care se află într‑o situație comparabilă cu cea a întreprinderilor din sectorul construcțiilor ai căror angajați sunt detașați în alte state membre, cu condiția ca această reglementare națională să fie justificată de motive imperative de interes general și să respecte principiul proporționalității, ceea ce presupune ca aplicarea sa să fie aptă să garanteze, în mod coerent și sistematic, realizarea obiectivului urmărit și să nu depășească ceea ce este necesar pentru atingerea acestui obiectiv.
