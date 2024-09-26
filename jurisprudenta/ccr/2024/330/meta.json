@@ -1,0 +1,300 @@
+{
+ "key": "dcc-330-2024",
+ "label": "Decizia CCR nr. 330/2024",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "330",
+ "date": "2024-07-09",
+ "year": "2024",
+ "heading": "DECIZIA nr. 330 din 9 iulie 2024",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 36 pct. II lit. d) și ale art. 38 alin. (3) din Legea nr. 10/1995 privind calitatea în construcții",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "972",
+  "bis": false,
+  "date": "2024-09-26",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "7.915/211/2018",
+  "409D/2020",
+  "2.019D/2020",
+  "11.103/197/2020"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 10/1995",
+    "number": "10",
+    "year": "1995",
+    "path": "lege/1995/10"
+   },
+   "articles": [
+    {
+     "art": "36",
+     "alin": null,
+     "lit": [
+      "d"
+     ]
+    },
+    {
+     "art": "38",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Florin Nicolae Pop-Pîgleșan în Dosarul nr. 7.915/211/2018 al Tribunalului Cluj - Secția mixtă de contencios administrativ și fiscal, de conflicte de muncă și asigurări sociale și de către Claudiu Mihail Iorga în Dosarul nr. 11.103/197/2020 al Judecătoriei Brașov și constată că dispozițiile art. 36 pct. II lit. d) și ale art. 38 alin. (3) din Legea nr. 10/1995 privind calitatea în construcții sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului Cluj - Secția mixtă de contencios administrativ și fiscal, de conflicte de muncă și asigurări sociale și Judecătoriei Brașov și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 10/1995",
+    "number": "10",
+    "year": "1995",
+    "path": "lege/1995/10"
+   },
+   "articles": [
+    {
+     "art": "38",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "36",
+     "alin": null,
+     "lit": [
+      "d"
+     ]
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 25
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 2/2001",
+    "number": "2",
+    "year": "2001",
+    "path": "og/2001/2"
+   },
+   "articles": [
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 50/1991",
+    "number": "50",
+    "year": "1991",
+    "path": "lege/1991/50"
+   },
+   "articles": [
+    {
+     "art": "26",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul ministrului dezvoltării regionale și turismului nr. 1.496/2011",
+    "number": "1496",
+    "year": "2011"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "514",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2024-09-26",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/288908",
+  "text_sha256": "f43ab5d1d92fa24e5b2be44fdd6183862d2523b44fbbb59d6c7290f0bf933893",
+  "catalogue_sha256": "f43ab5d1d92fa24e5b2be44fdd6183862d2523b44fbbb59d6c7290f0bf933893",
+  "fetched": "2026-11-03T01:06:07Z",
+  "chars": 28811,
+  "portal_id": "288908",
+  "tip": "DECIZIE"
+ }
+}
