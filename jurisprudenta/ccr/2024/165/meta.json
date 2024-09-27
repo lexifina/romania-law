@@ -1,0 +1,193 @@
+{
+ "key": "dcc-165-2024",
+ "label": "Decizia CCR nr. 165/2024",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "165",
+ "date": "2024-03-21",
+ "year": "2024",
+ "heading": "DECIZIA nr. 165 din 21 martie 2024",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 2 alin. (4) din Ordonanța de urgență a Guvernului nr. 155/2001 privind aprobarea programului de gestionare a câinilor fără stăpân, în redactarea anterioară modificării prin art. I pct. 2 din Legea nr. 368/2023 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 155/2001 privind aprobarea programului de gestionare a câinilor fără stăpân",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "973",
+  "bis": false,
+  "date": "2024-09-27",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "496/93/2018",
+  "1.322D/2019"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 155/2001",
+    "number": "155",
+    "year": "2001",
+    "path": "oug/2001/155"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 368/2023",
+    "number": "368",
+    "year": "2023",
+    "path": "lege/2023/368"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Societatea Vetevolution - S.R.L. din Cornetu în Dosarul nr. 496/93/2018 al Tribunalului Ilfov - Secția civilă și constată că dispozițiile art. 2 alin. (4) din Ordonanța de urgență a Guvernului nr. 155/2001 privind aprobarea programului de gestionare a câinilor fără stăpân, în redactarea anterioară modificării prin art. I pct. 2 din Legea nr. 368/2023 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 155/2001 privind aprobarea programului de gestionare a câinilor fără stăpân, sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului Ilfov - Secția civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 155/2001",
+    "number": "155",
+    "year": "2001",
+    "path": "oug/2001/155"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "135",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "45",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 368/2023",
+    "number": "368",
+    "year": "2023",
+    "path": "lege/2023/368"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2024-09-27",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/288912",
+  "text_sha256": "2503df6b2ddb4cb29846848144591206b79fe914b05ba7009f02d204be89b434",
+  "catalogue_sha256": "2503df6b2ddb4cb29846848144591206b79fe914b05ba7009f02d204be89b434",
+  "fetched": "2026-11-03T01:06:13Z",
+  "chars": 12997,
+  "portal_id": "288912",
+  "tip": "DECIZIE"
+ }
+}
