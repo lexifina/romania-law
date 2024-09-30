@@ -1,0 +1,13 @@
+# Anexa nr. 3 (Anexa nr. 4 la norme)
+ADEVERINȚĂ-TIP pentru stabilirea pensiei de serviciu, conform Legii nr. 94/1992 privind organizarea și funcționarea Curții de Conturi
+Se adeverește prin prezenta că domnul/doamna.............................., domiciliat(ă) în localitatea................................., str........................... nr........, bl......., sc........, ap......., sectorul........................, județul................................., posesor/posesoare al/a actului de identitate BI/CI seria............. nr........................................, CNP I_I_I_I_I_I_I_I_I_I_I_I_I_I, deține/a deținut calitatea de............................ și se încadrează la art.................. alin...... lit...... din Legea nr. 94/1992 privind organizarea și funcționarea Curții de Conturi, republicată, cu modificările și completările ulterioare. art. 49 alin. (4) din Legea nr. 94/1992 privind organizarea și funcționarea Curții de Conturi, republicată, cu modificările și completările ulterioare, în cazul persoanei care a îndeplinit funcția de consilier de conturi pe durata unui mandat complet;
+- art. 49 alin. (5) lit. a) sau b) din Legea nr. 94/1992 privind organizarea și funcționarea Curții de Conturi, republicată, cu modificările și completările ulterioare, în cazul persoanei care a îndeplinit funcția de consilier de conturi pe o perioadă de cel puțin jumătate din durata unui mandat complet.
+Vârsta la data pensionării (ani, luni):..........................
+Vechimea în activitate în calitate de consilier de conturi (ani) la data de.........................
+Baza de calcul (media indemnizațiilor de încadrare brute lunare și a sporurilor avute în ultimele 48 de luni de activitate înainte de data pensionării):...................... lei
+Venitul net avut în ultima lună de activitate înainte de data pensionării:......................... lei
+Certificăm corectitudinea și legalitatea datelor înscrise în prezenta adeverință-tip.
+Ordonator principal de credite,..............................
+Direcția (Serviciul) cu atribuții de salarizare personal
+Director (Șef serviciu),..............................
+----
