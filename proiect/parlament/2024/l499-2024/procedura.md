@@ -9,6 +9,7 @@ Initiator: Membri ai Parlamentului.
 ## Stages published so far
 
 - 2024-09-18: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Economic și Social, Aviz Consiliul Legislativ
+- 2024-10-01: withdrawn by the initiator
 
 ## Documents
 
