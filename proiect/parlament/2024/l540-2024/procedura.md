@@ -10,6 +10,7 @@ Initiator: Membri ai Parlamentului.
 
 - 2024-09-02: registered at the Chamber of Deputies; documents published: Punct de vedere Guvern
 - 2024-10-01: legislative procedure ended
+- 2024-10-02: registered at the Senate
 
 ## Documents
 
