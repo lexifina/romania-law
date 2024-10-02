@@ -9,7 +9,8 @@ Initiator: Guvernul României.
 ## Stages published so far
 
 - 2024-09-02: registered at the Chamber of Deputies
+- 2024-10-02: adopted by the Chamber of Deputies; documents published: Document
 
 ## Documents
 
-- none held as text
+- 2024-10-02: Document (OG): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L517OG.PDF
