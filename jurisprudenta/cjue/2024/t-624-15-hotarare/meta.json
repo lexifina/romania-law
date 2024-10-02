@@ -1,0 +1,42 @@
+{
+ "key": "cjue-t-624-15-hotarare-2024-10-02",
+ "label": "CJUE, Hotărârea Tribunalului (Camera a doua extinsă) din 2 octombrie 2024 (Extras), Cauzele T-624/15 RENV, T-694/15 RENV și T-704/15 RENV",
+ "court": "cjue",
+ "court_name": "Curtea de Justiție a Uniunii Europene",
+ "kind": "hotarare",
+ "act_type": "JUDG",
+ "date": "2024-10-02",
+ "year": "2024",
+ "case": "Cauzele T-624/15 RENV, T-694/15 RENV și T-704/15 RENV",
+ "celex": "62015TJ0624(01)",
+ "ecli": "ECLI:EU:T:2024:659",
+ "heading": "Hotărârea Tribunalului (Camera a doua extinsă) din 2 octombrie 2024 (Extras)",
+ "formation": "CHAMB_EXTD_02_T",
+ "procedure": "ACTION_ANNU",
+ "romania_role": [
+  "originates"
+ ],
+ "referred_by": null,
+ "referral_text": null,
+ "national_followup": null,
+ "parties": null,
+ "parties_withheld": true,
+ "keywords": "Ajutor de stat – Articolele 107 și 108 TFUE – Tratat bilateral de investiții – Clauză de arbitraj – România – Aderarea la Uniunea Europeană – Abrogarea unei scheme de stimulente fiscale înainte de aderare – Hotărâre arbitrală prin care se acordă plata de daune interese după aderare – Decizie prin care ajutorul este declarat incompatibil cu piața internă și prin care se dispune recuperarea acestuia – Articolul 351 primul paragraf TFUE – Obligația de motivare – Noțiunea de „ajutor de stat” – Avantaj – Caracter selectiv – Imputabilitate în sarcina statului – Compatibilitate cu piața internă – Ajutor destinat să favorizeze dezvoltarea economică a unor regiuni defavorizate – Recuperare – Noțiunea de „unitate economică” – Încredere legitimă – Dreptul de a fi ascultat",
+ "interprets": [],
+ "text": null,
+ "text_withheld": "personal_data",
+ "withheld_reason": "The full text names the parties' lawyers (and, in older cases, private parties); only the metadata and the operative part are published here, with the official link.",
+ "operative_missing": true,
+ "eurlex_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62015TJ0624(01)",
+ "curia_url": "https://curia.europa.eu/juris/liste.jsf?num=T-624/15&language=ro",
+ "source": {
+  "name": "CELLAR, Publications Office of the European Union",
+  "url": "http://publications.europa.eu/resource/cellar/4fe17fb4-8097-11ef-a67d-01aa75ed71a1.0008.05/DOC_1",
+  "format": "xhtml",
+  "sha256": [
+   "98a090b57ce83a478e51723cd69648b9893807bb50abb636434663317995a076"
+  ]
+ },
+ "legal_basis": "Jurisprudența Curții de Justiție a Uniunii Europene (texte oficiale; reutilizare permisă cu menționarea sursei: Decizia Comisiei 2011/833/UE și condițiile CURIA; © Uniunea Europeană). Textele oficiale nu sunt protejate de dreptul de autor în România (Legea nr. 8/1996, art. 9 lit. b).",
+ "attribution": "© European Union, https://eur-lex.europa.eu (via the Publications Office CELLAR)"
+}
