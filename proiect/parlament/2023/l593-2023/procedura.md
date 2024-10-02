@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2024-09-17: adopted by the Chamber of Deputies
 - 2024-09-23: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2024-09-25: sent for promulgation
+- 2024-10-02: promulgated, becomes Legea nr. 249/2024; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -37,3 +38,5 @@ Initiator: Guvernul României.
 - 2023-11-13: Adresă către Camera Deputaților (AM): [am-b2c61325.md](am-b2c61325.md); official file https://www.senat.ro/legis/PDF/2023/23L593AM.PDF
 - 2024-09-23: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L593AXS.PDF
 - 2024-09-23: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L593LP.PDF
+- 2024-10-02: Decret de promulgare (DP): [dp-94ddd14a.md](dp-94ddd14a.md); official file https://www.senat.ro/legis/PDF/2023/23L593DP.PDF
+- 2024-10-02: Forma promulgată (FP): [fp-f310e375.md](fp-f310e375.md); official file https://www.senat.ro/legis/PDF/2023/23L593FP.PDF
