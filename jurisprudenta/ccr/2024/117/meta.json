@@ -1,0 +1,259 @@
+{
+ "key": "dcc-117-2024",
+ "label": "Decizia CCR nr. 117/2024",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "117",
+ "date": "2024-03-07",
+ "year": "2024",
+ "heading": "DECIZIA nr. 117 din 7 martie 2024",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 391 alin. (8) din Legea nr. 95/2006 privind reforma în domeniul sănătății, în redactarea anterioară modificărilor aduse prin Ordonanța Guvernului nr. 18/2021 pentru modificarea și completarea Legii nr. 95/2006 privind reforma în domeniul sănătății și pentru modificarea unor acte normative în domeniul sănătății, precum și pentru abrogarea art. 4 din Legea nr. 584/2002 privind măsurile de prevenire a răspândirii maladiei SIDA în România și de protecție a persoanelor infectate cu HIV sau bolnave de SIDA",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "987",
+  "bis": false,
+  "date": "2024-10-02",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "13.442/193/2017",
+  "353D/2019"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 95/2006",
+    "number": "95",
+    "year": "2006",
+    "path": "lege/2006/95"
+   },
+   "articles": [
+    {
+     "art": "391",
+     "alin": [
+      "8"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 18/2021",
+    "number": "18",
+    "year": "2021",
+    "path": "og/2021/18"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 584/2002",
+    "number": "584",
+    "year": "2002",
+    "path": "lege/2002/584"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Societatea Medas - S.R.L. din Darabani în Dosarul nr. 13.442/193/2017 al Tribunalului Botoșani - Secția a II-a civilă, de contencios administrativ și fiscal și constată că dispozițiile art. 391 alin. (8) din Legea nr. 95/2006 privind reforma în domeniul sănătății, în redactarea anterioară modificărilor aduse prin Ordonanța Guvernului nr. 18/2021 pentru modificarea și completarea Legii nr. 95/2006 privind reforma în domeniul sănătății și pentru modificarea unor acte normative în domeniul sănătății, precum și pentru abrogarea art. 4 din Legea nr. 584/2002 privind măsurile de prevenire a răspândirii maladiei SIDA în România și de protecție a persoanelor infectate cu HIV sau bolnave de SIDA, sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului Botoșani - Secția a II-a civilă, de contencios administrativ și fiscal și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 95/2006",
+    "number": "95",
+    "year": "2006",
+    "path": "lege/2006/95"
+   },
+   "articles": [
+    {
+     "art": "391",
+     "alin": [
+      "8",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "7"
+     ],
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": [
+      "n"
+     ]
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 18/2021",
+    "number": "18",
+    "year": "2021",
+    "path": "og/2021/18"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 584/2002",
+    "number": "584",
+    "year": "2002",
+    "path": "lege/2002/584"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 161/2016",
+    "number": "161",
+    "year": "2016",
+    "path": "hg/2016/161"
+   },
+   "articles": [
+    {
+     "art": "22",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2024-10-02",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/289038",
+  "text_sha256": "342509ed69b6594e79ff9ecad7649f0e3fca5dafecdf4b1f8888b74aa00c247d",
+  "catalogue_sha256": "342509ed69b6594e79ff9ecad7649f0e3fca5dafecdf4b1f8888b74aa00c247d",
+  "fetched": "2026-11-03T01:05:53Z",
+  "chars": 20986,
+  "portal_id": "289038",
+  "tip": "DECIZIE"
+ }
+}
