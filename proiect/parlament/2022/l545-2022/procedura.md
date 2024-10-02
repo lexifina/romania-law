@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2024-09-11: adopted by the Chamber of Deputies
 - 2024-09-16: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2024-09-18: sent for promulgation
+- 2024-10-02: promulgated, becomes Legea nr. 251/2024; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -34,3 +35,5 @@ Initiator: Guvernul României.
 - 2022-09-27: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L545AM.PDF
 - 2024-09-16: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L545AXS.PDF
 - 2024-09-16: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L545LP.PDF
+- 2024-10-02: Decret de promulgare (DP): [dp-ed6436d1.md](dp-ed6436d1.md); official file https://www.senat.ro/legis/PDF/2022/22L545DP.PDF
+- 2024-10-02: Forma promulgată (FP): [fp-f04c1f74.md](fp-f04c1f74.md); official file https://www.senat.ro/legis/PDF/2022/22L545FP.PDF
