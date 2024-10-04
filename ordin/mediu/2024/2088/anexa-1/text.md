@@ -1,0 +1,3 @@
+# ANEXĂ
+SCHEMĂ DE AJUTOR DE MINIMIS Sprijin pentru acordarea finanțării nerambursabile din
+Planul național de redresare și reziliență pentru lucrările de reîmpădurire inițiate după data de 1 februarie 2020, în scopul refacerii potențialului forestier afectat de incendii, de fenomene meteorologice nefavorabile, care pot fi asimilate unei calamități naturale, de infestări ale plantelor cu organisme dăunătoare și de evenimente catastrofale
