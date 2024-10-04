@@ -1,0 +1,42 @@
+{
+ "key": "cjue-c-244-23-concluzii-2024-10-04",
+ "label": "CJUE, Concluziile avocatului general domnul M. Szpunar prezentate la 4 octombrie 2024, Cauzele conexate C-244/23 P-C-246/23 P.",
+ "court": "cjue",
+ "court_name": "Curtea de Justiție a Uniunii Europene",
+ "kind": "concluzii",
+ "act_type": "OPIN_AG",
+ "date": "2024-10-04",
+ "year": "2024",
+ "case": "Cauzele conexate C-244/23 P-C-246/23 P.",
+ "celex": "62023CC0244",
+ "ecli": "ECLI:EU:C:2024:867",
+ "heading": "Concluziile avocatului general domnul M. Szpunar prezentate la 4 octombrie 2024",
+ "formation": null,
+ "procedure": "ACTION_ANNU",
+ "romania_role": [
+  "originates"
+ ],
+ "referred_by": null,
+ "referral_text": null,
+ "national_followup": null,
+ "parties": "Comisia Europeană ș.a. împotriva Carpatair SA.",
+ "parties_withheld": false,
+ "keywords": "Recurs – Ajutoare de stat – Sectorul aerian – Măsuri puse în aplicare de Aeroportul Internațional Timișoara (România) în favoarea Wizz Air și a altor companii aeriene care utilizează aeroportul – Decizie prin care se constată inexistența unui ajutor de stat – Acțiune în anulare – Articolul 263 TFUE – Admisibilitate – Condiția potrivit căreia reclamantul trebuie să fie vizat direct și individual – Obligația de motivare – Denaturarea elementelor de probă.",
+ "interprets": [],
+ "text": null,
+ "text_withheld": "personal_data",
+ "withheld_reason": "The full text names the parties' lawyers (and, in older cases, private parties); only the metadata and the operative part are published here, with the official link.",
+ "operative_missing": null,
+ "eurlex_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62023CC0244",
+ "curia_url": "https://curia.europa.eu/juris/liste.jsf?num=C-244/23&language=ro",
+ "source": {
+  "name": "CELLAR, Publications Office of the European Union",
+  "url": "http://publications.europa.eu/resource/cellar/1e5b0038-8241-11ef-a67d-01aa75ed71a1.0016.05/DOC_1",
+  "format": "xhtml",
+  "sha256": [
+   "9ed4d021879164048837016d561b25d59f84c45de57736af924af3ab6f3b5f28"
+  ]
+ },
+ "legal_basis": "Jurisprudența Curții de Justiție a Uniunii Europene (texte oficiale; reutilizare permisă cu menționarea sursei: Decizia Comisiei 2011/833/UE și condițiile CURIA; © Uniunea Europeană). Textele oficiale nu sunt protejate de dreptul de autor în România (Legea nr. 8/1996, art. 9 lit. b).",
+ "attribution": "© European Union, https://eur-lex.europa.eu (via the Publications Office CELLAR)"
+}
