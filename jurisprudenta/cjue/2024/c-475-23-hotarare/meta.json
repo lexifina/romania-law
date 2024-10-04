@@ -1,0 +1,62 @@
+{
+ "key": "cjue-c-475-23-hotarare-2024-10-04",
+ "label": "CJUE, Hotărârea Curții (Camera a noua) din 4 octombrie 2024, Cauza C-475/23",
+ "court": "cjue",
+ "court_name": "Curtea de Justiție a Uniunii Europene",
+ "kind": "hotarare",
+ "act_type": "JUDG",
+ "date": "2024-10-04",
+ "year": "2024",
+ "case": "Cauza C-475/23",
+ "celex": "62023CJ0475",
+ "ecli": "ECLI:EU:C:2024:866",
+ "heading": "Hotărârea Curții (Camera a noua) din 4 octombrie 2024",
+ "formation": "CHAMB_09_C",
+ "procedure": "REFER_PREL",
+ "romania_role": [
+  "originates"
+ ],
+ "referred_by": [
+  {
+   "court": "Curtea de Apel Cluj",
+   "date": "2023-07-03",
+   "national_file": "3381/117/2022"
+  }
+ ],
+ "referral_text": "Cerere de decizie preliminară formulată de Curtea de Apel Cluj",
+ "national_followup": null,
+ "parties": null,
+ "parties_withheld": true,
+ "keywords": "Trimitere preliminară – Sistemul comun al taxei pe valoarea adăugată (TVA) – Directiva 2006/112/CE – Articolul 168 litera (a) – Dreptul de deducere a TVA-ului – Achiziționare a unui bun de către o persoană impozabilă – Punere la dispoziție cu titlu gratuit a acestui bun în favoarea unui subcontractant în vederea realizării unor lucrări în beneficiul persoanei impozabile – Refuzul deducerii TVA‑ului aferent bunului respectiv",
+ "interprets": [
+  {
+   "celex": "32006L0112",
+   "folder": "ue/directiva/2006/112"
+  }
+ ],
+ "text": "dispozitiv.md",
+ "text_withheld": "personal_data",
+ "withheld_reason": "The full text names the parties' lawyers (and, in older cases, private parties); only the metadata and the operative part are published here, with the official link.",
+ "operative_missing": false,
+ "eurlex_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62023CJ0475",
+ "curia_url": "https://curia.europa.eu/juris/liste.jsf?num=C-475/23&language=ro",
+ "source": {
+  "name": "CELLAR, Publications Office of the European Union",
+  "url": "http://publications.europa.eu/resource/cellar/e584f498-8238-11ef-a67d-01aa75ed71a1.0002.05/DOC_1",
+  "format": "xhtml",
+  "sha256": [
+   "a2da7bc82c39ef210ddbffbc4fb8420a2dfa97537187175adf9758371896fbeb"
+  ]
+ },
+ "legal_basis": "Jurisprudența Curții de Justiție a Uniunii Europene (texte oficiale; reutilizare permisă cu menționarea sursei: Decizia Comisiei 2011/833/UE și condițiile CURIA; © Uniunea Europeană). Textele oficiale nu sunt protejate de dreptul de autor în România (Legea nr. 8/1996, art. 9 lit. b).",
+ "attribution": "© European Union, https://eur-lex.europa.eu (via the Publications Office CELLAR)",
+ "operative": [
+  "Pentru aceste motive, Curtea (Camera a noua) declară:",
+  "1) Articolul 168 litera (a) din Directiva 2006/112/CE a Consiliului din 28 noiembrie 2006 privind sistemul comun al taxei pe valoarea adăugată",
+  "trebuie interpretat în sensul că",
+  "se opune unei practici naționale în temeiul căreia, atunci când o persoană impozabilă a achiziționat un bun pe care îl pune ulterior, cu titlu gratuit, la dispoziția unui subcontractant pentru ca acesta să efectueze lucrări în beneficiul persoanei impozabile respective, acesteia din urmă i se refuză deducerea taxei pe valoarea adăugată aferente achiziționării bunului respectiv, în măsura în care punerea la dispoziție nu depășește ceea ce este necesar pentru a permite persoanei impozabile să efectueze una sau mai multe operațiuni taxabile în aval sau, în caz contrar, să își desfășoare activitatea economică, iar costul de achiziție a acelui bun face parte din elementele constitutive ale prețului fie al operațiunilor efectuate de aceeași persoană impozabilă, fie al bunurilor sau al serviciilor pe care ea le furnizează în cadrul activității sale economice.",
+  "2) Articolul 168 litera (a) din Directiva 2006/112",
+  "trebuie interpretat în sensul că",
+  "se opune unei practici naționale în temeiul căreia deducerea taxei pe valoarea adăugată achitate în amonte este refuzată unei persoane impozabile deoarece aceasta nu a ținut o contabilitate distinctă pentru sediul său comercial fix din statul membru în care se efectuează inspecția fiscală atunci când autoritățile fiscale sunt în măsură să verifice dacă sunt îndeplinite condițiile de fond ale dreptului de deducere."
+ ]
+}
