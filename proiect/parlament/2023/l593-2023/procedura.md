@@ -20,6 +20,7 @@ Initiator: Guvernul României.
 - 2024-09-23: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2024-09-25: sent for promulgation
 - 2024-10-02: promulgated, becomes Legea nr. 249/2024; documents published: Decret de promulgare, Forma promulgată
+- 2024-10-04: published in the Monitorul Oficial
 
 ## Documents
 
