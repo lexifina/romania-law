@@ -1,0 +1,19 @@
+# Anexa nr. 6
+Model de angajament de plată de tip II
+Unitatea......................
+Exemplar nr......
+ANGAJAMENT DE PLATĂ DE TIP II încheiat la data de.................
+Noi,.........................(gradul, numele și prenumele), reprezentant al........................(unitatea și localitatea), în calitate de creditoare, și...................................(gradul, numele de familie și prenumele), fiul lui............................ (prenumele tatălui) și al....................................(prenumele mamei), născut la data de................... în localitatea................., județul/sectorul................, domiciliat în localitatea..............., județul/sectorul..............., str.................... nr........, posesor al BI/CI seria...... nr............., eliberat(ă) de............... la data de............., în calitate de debitor
+Având în vedere Hotărârea nr........, pronunțată de................... (instanța) în dosarul (civil/penal) nr....../............(numărul și anul dosarului), am convenit la încheierea prezentului angajament de plată, în vederea stabilirii modului de plată a sumei de................. (în cifre) lei, adică.......................... (în litere)
+Eu,................................. (gradul, numele și prenumele debitorului) solicit ca suma stabilită de către instanță prin Hotărârea nr....... să o achit astfel: 1. integral, la casieria sau în contul de trezorerie al unității nr....... până la data de...............;
+2. din garanția constituită în favoarea mea, potrivit dispozițiilor Legii nr. 22/1969;
+3. prin...... rețineri lunare din soldă/salariu/indemnizație, efectuate de către structura financiar-contabilă a unității.
+Eu,......................................................(gradul, numele și prenumele reprezentantului unității), declar că sunt de acord cu modalitatea în care debitorul solicită să achite suma înscrisă în Hotărârea nr..........
+Drept pentru care am încheiat prezentul angajament de plată în două exemplare, câte unul pentru fiecare parte.
+Gradul, numele și prenumele debitorului......................... (semnătura)
+Data.............
+Gradul, numele și prenumele reprezentantului structurii M.A.I....................................... (semnătura)
+Data.............
+Înregistrat în evidența contabilă la nr. crt................... din registrul-jurnal
+Șeful compartimentului financiar-contabil,............................... (semnătura)
+-----
