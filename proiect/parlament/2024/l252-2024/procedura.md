@@ -21,6 +21,7 @@ Initiator: Membri ai Parlamentului.
 - 2024-09-11: adopted by the Chamber of Deputies
 - 2024-09-16: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2024-09-21: sent for promulgation
+- 2024-10-07: promulgated, becomes Legea nr. 255/2024; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -37,3 +38,5 @@ Initiator: Membri ai Parlamentului.
 - 2024-05-27: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L252AM.PDF
 - 2024-09-16: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L252AXS.PDF
 - 2024-09-16: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L252LP.PDF
+- 2024-10-07: Decret de promulgare (DP): [dp-6b9fe91c.md](dp-6b9fe91c.md); official file https://www.senat.ro/legis/PDF/2024/24L252DP.PDF
+- 2024-10-07: Forma promulgată (FP): [fp-6987e8e1.md](fp-6987e8e1.md); official file https://www.senat.ro/legis/PDF/2024/24L252FP.PDF
