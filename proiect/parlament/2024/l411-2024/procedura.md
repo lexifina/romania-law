@@ -11,6 +11,7 @@ Initiator: Membri ai Parlamentului.
 - 2024-06-17: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Aviz Consiliul Economic și Social
 - 2024-09-16: documents published: Raport comisie sesizată pe fond
 - 2024-10-01: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților
+- 2024-10-07: registered at the Chamber of Deputies
 
 ## Documents
 
