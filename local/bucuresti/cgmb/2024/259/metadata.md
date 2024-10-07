@@ -1,0 +1,12 @@
+# HCGMB nr. 259/2024
+
+Text not yet included: its text is a scan that has not been read by OCR yet. It will be added when it is. The document is at the council's record.
+
+- Council: Consiliul General al Municipiului București
+- Decision: nr. 259/2024
+- Adopted: 2024-09-30
+- Published: 2024-10-07
+- Title: PRIVIND INITIEREA COLABORARII DINTRE MUNICIPIUL BUCURESTI, MINISTERUL DEZVOLTARII, LUCRARILOR PUBLICE SI ADMINISTRATIEI SI ASOCIATIA DE DEZVOLTARE INTERCOMUNITARA ZONA METROPOLITANA BUCURESTI IN VEDEREA ELABORARII SI IMPLEMENTARII PLANULUI URBANISTIC ZONAL: REGENERAREA LA NIVEL METROPOLITAN A CORIDORULUI RAULUI DAMBOVITA - PLAN DAMBOVITA 2050 SI STABILIRII ZONEI DE REGLEMENTARE PUZ CA ZONA STRATEGICA DE COORDONARE
+- Record: https://acteinterne.pmb.ro/legis/acteinterne/acte_int/45844
+- Document: https://doc.pmb.ro/legis/acteinterne/2024/45844/h259_24.pdf
+- Document sha256: b34ea1591de281f413abecc8ae378fab6e134a00448f9aa70a0613934596ea1b
