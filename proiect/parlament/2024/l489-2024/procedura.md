@@ -12,6 +12,7 @@ Initiator: Guvernul României.
 
 - 2024-09-12: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
 - 2024-09-24: documents published: Aviz comisie
+- 2024-10-07: adopted by the Senate; documents published: Raport comisie sesizată pe fond, Forma adoptată de Senat, Adresă către Camera Deputaților
 
 ## Documents
 
@@ -24,3 +25,6 @@ Initiator: Guvernul României.
 - 2024-09-24: Aviz comisie (CA1): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L489CA1.PDF
 - 2024-09-24: Aviz comisie (CA3): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L489CA3.PDF
 - 2024-09-24: Aviz comisie (CA45): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L489CA45.PDF
+- 2024-10-07: Raport comisie sesizată pe fond (CR): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L489CR.PDF
+- 2024-10-07: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L489FS.PDF
+- 2024-10-07: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L489AM.PDF
