@@ -19,6 +19,7 @@ Initiator: Membri ai Parlamentului.
 - 2023-10-23: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2023-10-28: sent for promulgation
 - 2023-12-13: published in the Monitorul Oficial
+- 2024-10-07: documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -32,3 +33,6 @@ Initiator: Membri ai Parlamentului.
 - 2023-10-16: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L198FS.PDF
 - 2023-10-23: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L198AXS.PDF
 - 2023-10-23: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L198LP.PDF
+- 2024-10-07: Document (AL): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L198AL.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2024-10-07: Document (SC1): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L198SC1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2024-10-07: Document (DC1): [dc1-e958e128.md](dc1-e958e128.md); official file https://www.senat.ro/legis/PDF/2023/23L198DC1.PDF (its day is not given by the bill file: shown from the last stage held)
