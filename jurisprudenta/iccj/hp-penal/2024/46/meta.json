@@ -1,0 +1,275 @@
+{
+ "key": "iccj-hp-penal-46-2024",
+ "label": "Decizia ÎCCJ nr. 46/2024 (HP penal)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp-penal",
+ "number": "46",
+ "date": "2024-09-16",
+ "year": "2024",
+ "heading": "DECIZIA nr. 46 din 16 septembrie 2024",
+ "subtitle": "referitoare la infracțiunea prevăzută în art. 24 lit. b) din Legea nr. 50/1991 privind autorizarea executării lucrărilor de construcții",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT ÎN MATERIE PENALĂ",
+ "mo": {
+  "number": "1007",
+  "bis": false,
+  "date": "2024-10-08",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "1.318/1/2024",
+  "7.387/197/2021"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 50/1991",
+    "number": "50",
+    "year": "1991",
+    "path": "lege/1991/50"
+   },
+   "articles": [
+    {
+     "art": "24",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "Admite sesizarea formulată de Curtea de Apel Brașov - Secția penală în Dosarul nr. 7.387/197/2021 prin care se solicită pronunțarea unei hotărâri prealabile pentru dezlegarea următoarelor chestiuni de drept:",
+  "Dacă infracțiunea prevăzută în art. 24 lit. b) din Legea nr. 50/1991 privind autorizarea executării lucrărilor de construcții, constând în continuarea executării lucrărilor, după dispunerea opririi acestora de către organele de control competente potrivit legii, vizează deopotrivă aceeași conduită interzisă, incriminată ca infracțiune și în cazul în care lucrările nu se opresc, dar sistarea lor este dispusă de către organele de urmărire penală?“ și stabilește că:",
+  "Infracțiunea prevăzută în art. 24 lit. b) din Legea nr. 50/1991 privind autorizarea executării lucrărilor de construcții, constând în continuarea executării lucrărilor după dispunerea opririi acestora de către organele de control competente potrivit legii, nu vizează și situația în care lucrările continuă după dispunerea opririi acestora de către organele de urmărire penală.",
+  "Obligatorie de la data publicării în Monitorul Oficial al României, Partea I, potrivit art. 477 alin. (3) din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 50/1991",
+    "number": "50",
+    "year": "1991",
+    "path": "lege/1991/50"
+   },
+   "articles": [
+    {
+     "art": "24",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b",
+      "a"
+     ]
+    },
+    {
+     "art": "3",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "26",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "24-1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "28",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "27",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "32",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 78
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "475",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "24",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "396",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "256",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "476",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "473",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 125/1996",
+    "number": "125",
+    "year": "1996",
+    "path": "lege/1996/125"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 231/2000",
+    "number": "231",
+    "year": "2000",
+    "path": "oug/2000/231"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "24",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "38",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "80",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "336",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinului ministrului dezvoltării regionale și locuinței nr. 839/2009",
+    "number": "839",
+    "year": "2009"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2024-10-08",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/289235",
+  "text_sha256": "bcbbecd30188e36c25255bc74b5631b6f3baa1ed7620f2c2784f053fc3c06f96",
+  "catalogue_sha256": "bcbbecd30188e36c25255bc74b5631b6f3baa1ed7620f2c2784f053fc3c06f96",
+  "fetched": "2026-11-03T01:05:43Z",
+  "chars": 96271,
+  "portal_id": "289235",
+  "tip": "DECIZIE"
+ }
+}
