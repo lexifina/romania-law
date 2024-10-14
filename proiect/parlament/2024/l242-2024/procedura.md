@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2024-09-23: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2024-09-28: sent for promulgation
 - 2024-10-11: promulgated, becomes Legea nr. 258/2024; documents published: Decret de promulgare, Forma promulgată
+- 2024-10-14: published in the Monitorul Oficial
 
 ## Documents
 
