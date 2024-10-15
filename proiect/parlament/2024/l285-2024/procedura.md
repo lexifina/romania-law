@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2024-09-24: adopted by the Chamber of Deputies
 - 2024-10-01: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2024-10-03: sent for promulgation
+- 2024-10-15: promulgated, becomes Legea nr. 260/2024; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -33,3 +34,5 @@ Initiator: Guvernul României.
 - 2024-06-03: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L285AM.PDF
 - 2024-10-01: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L285AXS.PDF
 - 2024-10-01: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L285LP.PDF
+- 2024-10-15: Decret de promulgare (DP): [dp-22481fde.md](dp-22481fde.md); official file https://www.senat.ro/legis/PDF/2024/24L285DP.PDF
+- 2024-10-15: Forma promulgată (FP): [fp-6c75d076.md](fp-6c75d076.md); official file https://www.senat.ro/legis/PDF/2024/24L285FP.PDF
