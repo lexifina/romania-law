@@ -1,0 +1,13 @@
+# Anexa nr. 5
+CASA TERITORIALĂ DE PENSII.......................................
+DECIZIA Nr..................... din....................... privind suspendarea plății pensiei...................... și/sau a indemnizației pentru însoțitor
+CNP titular/tutore/curator:
+A.
+Datele de identificare ale titularului/tutorelui/curatorului Numele și prenumele......................................................., cu domiciliul/reședința în localitatea......................................, str...................... nr........, bl......, sc......., et......, ap........, județul/sectorul...................., oficiul poștal................, țara................
+B.
+Plata pensiei și/sau a indemnizației de însoțitor se suspendă începând cu data de..........................., având în vedere:
+1. prevederile art. 101 alin. (1) lit. a) [] lit. b) [] lit. c) [] lit. d) [] lit. e) [] lit. f) [] lit. g) [] lit. h) [] lit. i) [] lit. j) [] alin. (2) [] alin. (3) [] alin. (4) [] alin. (5) [] din Legea nr. 360/2023 privind sistemul public de pensii;
+2. prevederile....................................................
+În conformitate cu prevederile art. 127 alin. (1) din Legea nr. 360/2023 privind sistemul public de pensii, prezenta decizie poate fi contestată, în termen de 45 de zile de la comunicare, la instanța judecătorească competentă. Conform art. 127 alin. (2) din Legea nr. 360/2023 privind sistemul public de pensii, decizia necontestată în termen este definitivă.
+Director executiv
+Numele și prenumele.................................
