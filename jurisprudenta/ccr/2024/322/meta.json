@@ -1,0 +1,369 @@
+{
+ "key": "dcc-322-2024",
+ "label": "Decizia CCR nr. 322/2024",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "322",
+ "date": "2024-07-09",
+ "year": "2024",
+ "heading": "DECIZIA nr. 322 din 9 iulie 2024",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 4 alin. (1), ale art. 5 alin. (2) lit. d) și alin. (3) lit. a), ale art. 6, ale art. 13 lit. a), ale art. 65 lit. h) și ale art. 69 din Legea nr. 55/2020 privind unele măsuri pentru prevenirea și combaterea efectelor pandemiei de COVID-19, precum și a Legii nr. 55/2020, în ansamblul său",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "1041",
+  "bis": false,
+  "date": "2024-10-16",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "3.400/268/2021",
+  "2.164D/2022",
+  "2.181D/2022",
+  "19.985/211/2021",
+  "2.216D/2022",
+  "506/299/2022",
+  "2.224D/2022",
+  "3.877/197/2022",
+  "2.284D/2022",
+  "1.886/234/2020"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 55/2020",
+    "number": "55",
+    "year": "2020",
+    "path": "lege/2020/55"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": [
+      "2",
+      "3"
+     ],
+     "lit": [
+      "d",
+      "a"
+     ]
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "65",
+     "alin": null,
+     "lit": [
+      "h"
+     ]
+    },
+    {
+     "art": "69",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Rudolf Pîrvan în Dosarul nr. 3.400/268/2021 al Judecătoriei Odorheiu Secuiesc, de Răzvan Paraschivu în Dosarul nr. 19.985/211/2021 al Judecătoriei Cluj-Napoca - Secția civilă, de Angela Negrotă în Dosarul nr. 506/299/2022 al Judecătoriei Sectorului 1 București - Secția I civilă, de Lucian Petre în Dosarul nr. 3.877/197/2022 al Judecătoriei Brașov, de Rezler Zsolt-Istvan în Dosarul nr. 1.886/234/2020 al Tribunalului Harghita - Secția civilă și de Pompiliu Diplan în Dosarul nr. 100/302/2022 al Judecătoriei Sectorului 5 București - Secția a II-a civilă și constată că dispozițiile art. 4 alin. (1), ale art. 5 alin. (2) lit. d) și alin. (3) lit. a), ale art. 6, ale art. 13 lit. a), ale art. 65 lit. h) și ale art. 69 din Legea nr. 55/2020 privind unele măsuri pentru prevenirea și combaterea efectelor pandemiei de COVID-19, precum și Legea nr. 55/2020, în ansamblul său, sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Judecătoriei Odorheiu Secuiesc, Judecătoriei Cluj-Napoca - Secția civilă, Judecătoriei Sectorului 1 București - Secția I civilă, Judecătoriei Brașov, Tribunalului Harghita - Secția civilă și Judecătoriei Sectorului 5 București - Secția a II-a civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 55/2020",
+    "number": "55",
+    "year": "2020",
+    "path": "lege/2020/55"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": [
+      "2",
+      "3"
+     ],
+     "lit": [
+      "d",
+      "a"
+     ]
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "65",
+     "alin": null,
+     "lit": [
+      "h"
+     ]
+    },
+    {
+     "art": "69",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 46
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 248/2013",
+    "number": "248",
+    "year": "2013",
+    "path": "lege/2013/248"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "3",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "93",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "141",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "108",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 967/2020",
+    "number": "967",
+    "year": "2020",
+    "path": "hg/2020/967"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 2/2001",
+    "number": "2",
+    "year": "2001",
+    "path": "og/2001/2"
+   },
+   "articles": [
+    {
+     "art": "28",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 192/2020",
+    "number": "192",
+    "year": "2020",
+    "path": "oug/2020/192"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 81/2018",
+    "number": "81",
+    "year": "2018",
+    "path": "lege/2018/81"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2024-10-16",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/289790",
+  "text_sha256": "b35e9b52371164aeba5a7d4761dff41a6284f1b4fdcaf95689d95c999e87ac5c",
+  "catalogue_sha256": "b35e9b52371164aeba5a7d4761dff41a6284f1b4fdcaf95689d95c999e87ac5c",
+  "fetched": "2026-11-03T01:05:28Z",
+  "chars": 42688,
+  "portal_id": "289790",
+  "tip": "DECIZIE"
+ }
+}
