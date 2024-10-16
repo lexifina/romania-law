@@ -1,0 +1,190 @@
+{
+ "key": "iccj-ril-14-2024",
+ "label": "Decizia ÎCCJ nr. 14/2024 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "14",
+ "date": "2024-09-16",
+ "year": "2024",
+ "heading": "DECIZIA nr. 14 din 16 septembrie 2024",
+ "subtitle": "referitoare la interpretarea și aplicarea unitară a dispozițiilor art. 57 alin. (3), coroborate cu dispozițiile art. 57 alin. (2) din Legea nr. 85/2014 privind procedurile de prevenire a insolvenței",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU SOLUȚIONAREA RECURSULUI ÎN INTERESUL LEGII",
+ "mo": {
+  "number": "1040",
+  "bis": false,
+  "date": "2024-10-16",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "1.174/1/2024"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 85/2014",
+    "number": "85",
+    "year": "2014",
+    "path": "lege/2014/85"
+   },
+   "articles": [
+    {
+     "art": "57",
+     "alin": [
+      "3",
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite recursul în interesul legii formulat de Colegiul de conducere al Curții de Apel Constanța și, în consecință, stabilește că: În interpretarea și aplicarea unitară a dispozițiilor art. 57 alin. (3), coroborate cu dispozițiile art. 57 alin. (2) din Legea nr. 85/2014 privind procedurile de prevenire a insolvenței și de insolvență, prerogativa creditorului majoritar de desemnare a administratorului judiciar ori a lichidatorului judiciar poate fi exercitată cel mai târziu la data primei ședințe a adunării creditorilor, având ca ordine de zi confirmarea/desemnarea administratorului/lichidatorului judiciar.",
+  "Obligatorie, potrivit dispozițiilor art. 517 alin. (4) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "516",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "514",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "515",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 85/2014",
+    "number": "85",
+    "year": "2014",
+    "path": "lege/2014/85"
+   },
+   "articles": [
+    {
+     "art": "57",
+     "alin": [
+      "3",
+      "2",
+      "4",
+      "6",
+      "14",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "49",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "48",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "40",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "73",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "45",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "d"
+     ]
+    }
+   ],
+   "mentions": 81
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 86/2006",
+    "number": "86",
+    "year": "2006",
+    "path": "oug/2006/86"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 85/2006",
+    "number": "85",
+    "year": "2006",
+    "path": "lege/2006/85"
+   },
+   "articles": [
+    {
+     "art": "19",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2024-10-16",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/289789",
+  "text_sha256": "4483f93fd84ef5e5703240ea6b909f6065c952234ac80b3885a13ef0e2f68d27",
+  "catalogue_sha256": "4483f93fd84ef5e5703240ea6b909f6065c952234ac80b3885a13ef0e2f68d27",
+  "fetched": "2026-11-03T01:05:28Z",
+  "chars": 95470,
+  "portal_id": "289789",
+  "tip": "DECIZIE"
+ }
+}
