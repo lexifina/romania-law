@@ -1,0 +1,248 @@
+{
+ "key": "iccj-hp-42-2024",
+ "label": "Decizia ÎCCJ nr. 42/2024 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "42",
+ "date": "2024-09-16",
+ "year": "2024",
+ "heading": "DECIZIA nr. 42 din 16 septembrie 2024",
+ "subtitle": "referitoare la aplicarea dispozițiilor art. 211 alin. (4) din Legea nr. 303/2022 privind statutul judecătorilor și procurorilor, în forma nemodificată",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "1036",
+  "bis": false,
+  "date": "2024-10-16",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.526/1/2024",
+  "4.380/86/2023"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 303/2022",
+    "number": "303",
+    "year": "2022",
+    "path": "lege/2022/303"
+   },
+   "articles": [
+    {
+     "art": "211",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de către Tribunalul Suceava - Secția I civilă, în Dosarul nr. 4.380/86/2023, în vederea pronunțării unei hotărâri prealabile, cu privire la următoarea chestiune de drept: Dacă dispozițiile art. 211 alin. (4) din Legea nr. 303/2022 privind statutul judecătorilor și procurorilor, în forma nemodificată, conform cărora „persoanele care au o vechime de cel puțin 25 de ani numai în funcțiile enumerate la alin. (1) se pot pensiona la împlinirea vârstei de 60 de ani și pot beneficia de pensie de serviciu, chiar dacă la data pensionării au o altă ocupație“, se aplică foștilor judecători/procurori care au această vechime, fără nicio distincție între funcțiile enumerate de art. 211 alin. (1) („o vechime de cel puțin 25 de ani în funcțiile de judecător, procuror, judecător de la Curtea Constituțională, magistrat-asistent la Înalta Curte de Casație și Justiție și la Curtea Constituțională, personal de specialitate juridică asimilat judecătorilor și procurorilor, judecător financiar, procuror financiar sau consilier de conturi de la secția jurisdicțională a Curții de Conturi, avocat, personal de specialitate juridică în fostele arbitraje de stat, grefier cu studii superioare juridice, consilier juridic sau jurisconsult“), conform principiului „ubi lex non distinguit, nec nos distinguere debemus“.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 62/2024",
+    "number": "62",
+    "year": "2024",
+    "path": "oug/2024/62"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 303/2022",
+    "number": "303",
+    "year": "2022",
+    "path": "lege/2022/303"
+   },
+   "articles": [
+    {
+     "art": "211",
+     "alin": [
+      "4",
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 22
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 282/2023",
+    "number": "282",
+    "year": "2023",
+    "path": "lege/2023/282"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 227/2015",
+    "number": "227",
+    "year": "2015",
+    "path": "lege/2015/227"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 282/2003",
+    "number": "282",
+    "year": "2003",
+    "path": "lege/2003/282"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 303/2004",
+    "number": "303",
+    "year": "2004",
+    "path": "lege/2004/303"
+   },
+   "articles": [
+    {
+     "art": "82",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 608/2024",
+    "number": "608",
+    "year": "2024",
+    "path": "hg/2024/608"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 127/2019",
+    "number": "127",
+    "year": "2019",
+    "path": "lege/2019/127"
+   },
+   "articles": [
+    {
+     "art": "139",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "141",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2024-10-16",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/289758",
+  "text_sha256": "7dbb079249e135de43198927b2641a4a795b08856220749cd7a9077f3152d2c9",
+  "catalogue_sha256": "7dbb079249e135de43198927b2641a4a795b08856220749cd7a9077f3152d2c9",
+  "fetched": "2026-11-03T01:05:20Z",
+  "chars": 47932,
+  "portal_id": "289758",
+  "tip": "DECIZIE"
+ }
+}
