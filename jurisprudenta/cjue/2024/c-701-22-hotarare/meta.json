@@ -1,0 +1,58 @@
+{
+ "key": "cjue-c-701-22-hotarare-2024-10-17",
+ "label": "CJUE, Hotărârea Curții (Camera a treia) din 17 octombrie 2024, Cauza C-701/22",
+ "court": "cjue",
+ "court_name": "Curtea de Justiție a Uniunii Europene",
+ "kind": "hotarare",
+ "act_type": "JUDG",
+ "date": "2024-10-17",
+ "year": "2024",
+ "case": "Cauza C-701/22",
+ "celex": "62022CJ0701",
+ "ecli": "ECLI:EU:C:2024:891",
+ "heading": "Hotărârea Curții (Camera a treia) din 17 octombrie 2024",
+ "formation": "CHAMB_03_C",
+ "procedure": "REFER_PREL",
+ "romania_role": [
+  "originates"
+ ],
+ "referred_by": null,
+ "referral_text": "Cerere de decizie preliminară formulată de Curtea de Apel Cluj",
+ "national_followup": [
+  "Curtea de Apel Cluj, încheiere din 15/12/2021 (42938/22.09.2015 ; 44969/02.10.2015 ; 48609/22.10.2015)"
+ ],
+ "parties": "SC AA SRL împotriva MFE",
+ "parties_withheld": false,
+ "keywords": "Trimitere preliminară – Fondul european de dezvoltare regională (FEDER) – Regulamentul (CE) nr. 1083/2006 – Articolul 60 – Principiul bunei gestiuni financiare – Articolul 80 – Dreptul beneficiarilor de a primi plățile în cele mai scurte termene și integral – Dreptul de a obține dobânzi pentru întârzierea în efectuarea plăților – Principiile efectivității și echivalenței – Rezilierea unui contract de finanțare din FEDR din cauza unor neregularități săvârșite cu ocazia executării acestuia – Anularea acestei rezilieri – Corectarea neregularităților – Combaterea întârzierii în efectuarea plăților în tranzacțiile comerciale – Directiva 2011/7/UE – Domeniu de aplicare",
+ "interprets": [
+  {
+   "celex": "32006R1083",
+   "folder": "ue/regulament/2006/1083"
+  }
+ ],
+ "text": "dispozitiv.md",
+ "text_withheld": "personal_data",
+ "withheld_reason": "The full text names the parties' lawyers (and, in older cases, private parties); only the metadata and the operative part are published here, with the official link.",
+ "operative_missing": false,
+ "eurlex_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62022CJ0701",
+ "curia_url": "https://curia.europa.eu/juris/liste.jsf?num=C-701/22&language=ro",
+ "source": {
+  "name": "CELLAR, Publications Office of the European Union",
+  "url": "http://publications.europa.eu/resource/cellar/abb9d49d-8c66-11ef-a130-01aa75ed71a1.0002.05/DOC_1",
+  "format": "xhtml",
+  "sha256": [
+   "e71af8e8a7d0d8705fbff83902c6c5071024528761d843a040df3c5cbe45b80a"
+  ]
+ },
+ "legal_basis": "Jurisprudența Curții de Justiție a Uniunii Europene (texte oficiale; reutilizare permisă cu menționarea sursei: Decizia Comisiei 2011/833/UE și condițiile CURIA; © Uniunea Europeană). Textele oficiale nu sunt protejate de dreptul de autor în România (Legea nr. 8/1996, art. 9 lit. b).",
+ "attribution": "© European Union, https://eur-lex.europa.eu (via the Publications Office CELLAR)",
+ "operative": [
+  "Pentru aceste motive, Curtea (Camera a treia) declară:",
+  "1) Principiul bunei gestiuni financiare prevăzut la articolul 60 din Regulamentul (CE) nr. 1083/2006 al Consiliului din 11 iulie 2006 de stabilire a anumitor dispoziții generale privind Fondul European de Dezvoltare Regională, Fondul Social European și Fondul de coeziune și de abrogare a Regulamentului (CE) nr. 1260/1999 trebuie interpretat în sensul că nu se opune achitării unor dobânzi de întârziere pentru plata cu întârziere de către autoritatea de gestionare a unor sume corespunzătoare cheltuielilor eligibile în cadrul Fondului european de dezvoltare regională.",
+  "În schimb, principiul efectivității trebuie interpretat, în lumina articolului 80 din Regulamentul nr. 1083/2006, în sensul că se opune ca plata acestor dobânzi să fie exclusă în temeiul unor dispoziții ale dreptului național care impun achitarea unor dobânzi de întârziere numai de la expirarea termenului de restituire a sumei plătite în mod necuvenit.",
+  "2) Dispozițiile coroborate ale articolului 2 punctul 7 și ale articolului 98 alineatele (1) și (2) din Regulamentul nr. 1083/2006",
+  "trebuie interpretate în sensul că",
+  "nu se opun ca o instanță națională să reducă, ca urmare a unor „neregularități” în sensul articolului 2 punctul 7 din Regulamentul nr. 1083/2006, constatate cu ocazia executării unui contract de finanțare și în conformitate cu principiul proporționalității, cuantumul dobânzilor de întârziere datorate beneficiarului unei finanțări din Fondul european de dezvoltare regională pentru plata cu întârziere de către autoritatea de gestionare a cheltuielilor eligibile în cadrul acestei finanțări, într-un caz în care autoritatea de gestionare respectivă nu a aplicat nicio corecție financiară în această privință.",
+  "3) Directiva 2011/7/UE a Parlamentului European și a Consiliului din 16 februarie 2011 privind combaterea întârzierii în efectuarea plăților în tranzacțiile comerciale trebuie interpretată în sensul că nu este aplicabilă unui contract de finanțare încheiat între o autoritate de gestionare a unui stat membru și o întreprindere având ca obiect cofinanțarea din Fondul european de dezvoltare regională a unui proiect de achiziție de către această întreprindere a unor echipamente de la un terț."
+ ]
+}
