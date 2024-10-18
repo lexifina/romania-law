@@ -1,0 +1,92 @@
+# Anexa nr. 3 (Anexa nr. 4 la Ordinul nr. 2.547/2019) 670
+Sigla DGRFP
+Agenția Națională de Administrare Fiscală..................................
+Direcția Generală Regională a Finanțelor Publice..................................
+Unitatea fiscală..................................
+Nr. înregistrare................................
+Data............/........../...................
+DECIZIE privind stabilirea din oficiu a contribuției de asigurări sociale și a contribuției de asigurări sociale de sănătate pentru persoane fizice, pe anul..............
+Către..................................
+Numele:.............................
+Prenumele:........................
+Domiciliul fiscal: localitatea...................,
+Str...................................nr...., bl...., sc...., et...., ap...., județul/sectorul..................,
+Cod de identificare fiscală:
+În baza art. 107 din Legea nr. 207/2015 privind Codul de procedură fiscală, cu modificările și completările ulterioare, și potrivit art. 137, 148, 155 și 170 din Legea nr. 227/2015 privind Codul fiscal, cu modificările și completările ulterioare, se stabilește contribuția de asigurări sociale și/sau contribuția de asigurări sociale de sănătate datorată, după cum urmează:
+I.
+Date privind activitatea desfășurată 1.
+Statul în care s-a realizat venitul................................................................................................
+2.
+Categoria de venit 2.1 [] activități independente
+2.2 [] din drepturi de proprietate intelectuală
+2.3 [] venituri din asocierea cu o persoană juridică contribuabil potrivit prevederilor titlului II sau titlului III din Codul fiscal, pentru care sunt aplicabile prevederile art. 125 din același cod
+2.4 [] cedarea folosinței bunurilor
+2.5 [] activități agricole, piscicultură, silvicultură
+2.6 [] investiții
+2.7 [] alte surse
+3.
+Determinarea venitului net............................................................
+4.
+Forma de organizare.................................................................
+5.
+Obiectul principal de activitate..........................................................
+6.
+Codul CAEN......................................................................................
+7.
+Sediul................................................................................................
+8.
+Documentul de autorizare/Contractul de asociere nr........... data....../....../...........
+9.
+Data începerii activității......./........../..................
+10.
+Data încetării activității......./........../..................
+II.
+Stabilirea obligațiilor de plată cu titlu de contribuție de asigurări sociale și contribuție de asigurări sociale de sănătate
+- lei -
+Denumirea indicatorului
+Contribuția de asigurări sociale (CAS)
+Contribuția de asigurări sociale de sănătate (CASS)
+Decizie anterioară
+Decizie curentă
+Decizie anterioară
+Decizie curentă
+1. Bază anuală de calcul
+2. CAS datorată (rd.1 x 10%)
+3. CASS datorată (rd.1 x 25%)
+Obligația anuală de plată reprezentând contribuția de asigurări sociale (rd. 2) în sumă de................ lei, și pentru contribuția de asigurări sociale de sănătate (rd. 3) se plătește astfel:
+Pentru obligațiile a căror scadență a expirat la data comunicării prezentei decizii: - dacă data comunicării este cuprinsă în intervalul 1-15 din lună, termenul de plată este până la data de 5 a lunii următoare;
+- dacă data comunicării este cuprinsă în intervalul 16-31 din lună, termenul de plată este până la data de 20 a lunii următoare.
+Pentru contribuțiile anuale datorate se vor calcula obligații fiscale accesorii, conform legii.
+Decizia de impunere din oficiu reprezintă titlu de creanță și constituie înștiințare de plată, conform legii. Prezenta decizie poate fi contestată în termen de 45 de zile de la data comunicării, sub sancțiunea decăderii, potrivit art. 268, 270 și 272 din Legea nr. 207/2015 privind Codul de procedură fiscală, cu modificările și completările ulterioare, la organul fiscal competent.
+Depunerea declarației unice privind impozitul pe venit și contribuțiile sociale datorate de persoanele fizice, potrivit legii, pentru obligațiile stabilite din oficiu, în termen de 60 de zile de la data comunicării prezentei decizii, conduce la desființarea deciziei de impunere din oficiu.
+Date necesare efectuării plății contribuției de asigurări sociale și a contribuției de asigurări sociale de sănătate
+Obligații de plată CAS CASS
+Beneficiar
+Cod de identificare fiscală beneficiar
+Contul de venituri bugetare corespunzător obligației de plată
+Codul IBAN aferent contului de venituri bugetare
+Explicații
+Suma (lei)
+Informații privind modalitățile de plată a obligațiilor datorate
+Achitarea sumelor datorate poate fi efectuată prin una dintre următoarele modalități: - în numerar, la unitatea Trezoreriei Statului.................................;
+- prin mandat poștal, la subunitățile poștale ale Companiei Naționale Poșta Română - S.A.;
+- prin intermediul cardurilor bancare, prin POS-urile instalate la unitățile teritoriale ale Trezoreriei Statului sau în sistem online prin intermediul Sistemului național electronic de plăți, disponibil la adresa de internet www.ghișeul.ro;
+- prin virament, utilizând ordinul de plată, din contul propriu deschis la o instituție de credit din România (bancă), inclusiv cel emis prin sisteme de plată electronică de tip „Internet banking”;
+- prin virament în numerar la ghișeele instituțiilor de credit sau la terminalele de plată instalate de acestea, utilizând contul tranzitoriu deschis pe numele Ministerului Finanțelor. Nomenclatorul conturilor de venituri bugetare/disponibilități în care pot fi achitate sume prin intermediul contului tranzitoriu de către persoanele fizice se regăsește pe site-ul Agenției Naționale de Administrare Fiscală, www.anaf.ro.
+Aprobat
+Funcția......................,
+Numele, prenumele
+Data......./........./......
+Verificat
+Funcția......................,
+Numele, prenumele
+Data......./........./......
+Întocmit
+Funcția......................,
+Numele, prenumele
+Data......./........./......
+Am primit un exemplar.
+Semnătura contribuabilului...........
+Data......./........./...... sau numărul și data confirmării de primire
+Document care conține date cu caracter personal protejate de prevederile Regulamentului (UE) 2016/679
+------
