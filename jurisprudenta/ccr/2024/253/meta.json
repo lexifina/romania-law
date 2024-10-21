@@ -1,0 +1,239 @@
+{
+ "key": "dcc-253-2024",
+ "label": "Decizia CCR nr. 253/2024",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "253",
+ "date": "2024-05-14",
+ "year": "2024",
+ "heading": "DECIZIA nr. 253 din 14 mai 2024",
+ "subtitle": "referitoare la excepția de neconstituționalitate a Ordonanței de urgență a Guvernului nr. 77/2018 pentru completarea art. 67 din Legea nr. 317/2004 privind Consiliul Superior al Magistraturii",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "1051",
+  "bis": false,
+  "date": "2024-10-21",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "784/46/2019",
+  "951D/2020"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 77/2018",
+    "number": "77",
+    "year": "2018",
+    "path": "oug/2018/77"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 317/2004",
+    "number": "317",
+    "year": "2004",
+    "path": "lege/2004/317"
+   },
+   "articles": [
+    {
+     "art": "67",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepția de neconstituționalitate a Ordonanței de urgență a Guvernului nr. 77/2018 pentru completarea art. 67 din Legea nr. 317/2004 privind Consiliul Superior al Magistraturii, excepție ridicată de Ciprian Ghiță în Dosarul nr. 784/46/2019 al Curții de Apel Pitești - Secția a II-a civilă, de contencios administrativ și fiscal.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Curții de Apel Pitești - Secția a II-a civilă, de contencios administrativ și fiscal și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 77/2018",
+    "number": "77",
+    "year": "2018",
+    "path": "oug/2018/77"
+   },
+   "articles": [],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 317/2004",
+    "number": "317",
+    "year": "2004",
+    "path": "lege/2004/317"
+   },
+   "articles": [
+    {
+     "art": "67",
+     "alin": [
+      "7"
+     ],
+     "lit": null
+    },
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "134",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "133",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "146",
+     "alin": null,
+     "lit": [
+      "d"
+     ]
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2024-10-21",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/289869",
+  "text_sha256": "7e9d779e01af346109a8c7e78373ca466f4938ba917b72a3e4367bfb2b60fa7d",
+  "catalogue_sha256": "7e9d779e01af346109a8c7e78373ca466f4938ba917b72a3e4367bfb2b60fa7d",
+  "fetched": "2026-11-03T01:05:13Z",
+  "chars": 18367,
+  "portal_id": "289869",
+  "tip": "DECIZIE"
+ }
+}
