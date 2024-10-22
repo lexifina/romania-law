@@ -12,6 +12,7 @@ Initiator: Membri ai Parlamentului.
 - 2024-03-19: documents published: Aviz Consiliul Economic și Social, Aviz Consiliul Legislativ
 - 2024-06-20: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților
 - 2024-09-02: registered at the Chamber of Deputies
+- 2024-10-22: documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -22,3 +23,5 @@ Initiator: Membri ai Parlamentului.
 - 2024-03-19: Aviz Consiliul Legislativ (LG): [lg-f97c4da5.md](lg-f97c4da5.md); official file https://www.senat.ro/legis/PDF/2024/24L241LG.PDF
 - 2024-06-20: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L241FS.PDF
 - 2024-06-20: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L241AM.PDF
+- 2024-10-22: Document (ANFP): [anfp-a5ac6ce7.md](anfp-a5ac6ce7.md); official file https://www.senat.ro/legis/PDF/2024/24L241ANFP.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2024-10-22: Document (SM): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L241SM.PDF (its day is not given by the bill file: shown from the last stage held)
