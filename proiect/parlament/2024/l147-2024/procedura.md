@@ -13,6 +13,7 @@ Initiator: Guvernul României.
 - 2024-03-27: documents published: Aviz comisie
 - 2024-04-09: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților
 - 2024-04-22: registered at the Chamber of Deputies
+- 2024-10-22: documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -27,3 +28,4 @@ Initiator: Guvernul României.
 - 2024-03-27: Aviz comisie (CA53): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L147CA53.PDF
 - 2024-04-09: Forma adoptată de Senat (FS): [fs-10af19e8.md](fs-10af19e8.md); official file https://www.senat.ro/legis/PDF/2024/24L147FS.PDF
 - 2024-04-09: Adresă către Camera Deputaților (AM): [am-e7a92deb.md](am-e7a92deb.md); official file https://www.senat.ro/legis/PDF/2024/24L147AM.PDF
+- 2024-10-22: Document (AT): [at-0db5df44.md](at-0db5df44.md); official file https://www.senat.ro/legis/PDF/2024/24L147AT.PDF (its day is not given by the bill file: shown from the last stage held)
