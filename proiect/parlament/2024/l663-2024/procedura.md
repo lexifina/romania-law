@@ -12,6 +12,7 @@ Initiator: Membri ai Parlamentului.
 - 2024-07-16: documents published: Aviz Consiliul Legislativ, Aviz Consiliul Economic și Social, Punct de vedere Guvern, Punct de vedere
 - 2024-08-02: registered at the Senate
 - 2024-09-23: registered at the Chamber of Deputies
+- 2024-10-23: documents published: Raport comisie sesizată pe fond
 
 ## Documents
 
@@ -19,3 +20,4 @@ Initiator: Membri ai Parlamentului.
 - 2024-07-16: Aviz Consiliul Economic și Social (ES): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L663ES.PDF
 - 2024-07-16: Punct de vedere Guvern (SJ): [sj-3d8aea6f.md](sj-3d8aea6f.md); official file https://www.senat.ro/legis/PDF/2024/24L663SJ.PDF
 - 2024-07-16: Punct de vedere (PV): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L663PV.PDF
+- 2024-10-23: Raport comisie sesizată pe fond (CR): [cr-9264dcec.md](cr-9264dcec.md); official file https://www.senat.ro/legis/PDF/2024/24L663CR.PDF
