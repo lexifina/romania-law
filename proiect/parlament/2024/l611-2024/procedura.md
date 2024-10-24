@@ -11,7 +11,8 @@ Initiator: Guvernul României.
 ## Stages published so far
 
 - 2024-10-15: registered at the Chamber of Deputies
+- 2024-10-24: documents published: Raport comisie sesizată pe fond
 
 ## Documents
 
-- none held as text
+- 2024-10-24: Raport comisie sesizată pe fond (CR): [cr-158c972f.md](cr-158c972f.md); official file https://www.senat.ro/legis/PDF/2024/24L611CR.PDF
