@@ -1,0 +1,151 @@
+{
+ "key": "iccj-hp-48-2024",
+ "label": "Decizia ÎCCJ nr. 48/2024 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "48",
+ "date": "2024-10-07",
+ "year": "2024",
+ "heading": "DECIZIA nr. 48",
+ "subtitle": "din 7 octombrie 2024 referitoare la soluționarea cererii de acordare a cheltuielilor de judecată, în condițiile art. 444 alin. (1) din Codul de procedură civilă, sau la îndreptarea hotărârii judecătorești prevăzută de art. 442 alin. (1) din Codul de procedură civilă",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "1071",
+  "bis": false,
+  "date": "2024-10-25",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.393/1/2024",
+  "5.613/270/2019"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "444",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "442",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Tribunalul Bacău - Secția I civilă, în Dosarul nr. 5.613/270/2019/a1*, în vederea pronunțării unei hotărâri prealabile pentru dezlegarea următoarei chestiuni de drept:",
+  "Dacă instanța a soluționat cererea de acordare a cheltuielilor de judecată, însă a omis să se pronunțe asupra unei categorii de cheltuieli de judecată, solicitate și dovedite cu înscrisuri depuse la dosar (spre exemplu, onorariul cuvenit expertului judiciar), partea a cărei cerere a fost omisă de la pronunțare poate recurge la complinirea acestei omisiuni prin promovarea unei cereri de completare, în condițiile art. 444 alin. (1) din Codul de procedură civilă, sau la îndreptarea hotărârii judecătorești prevăzută de art. 442 alin. (1) din Codul de procedură civilă ?",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "444",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "442",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "718",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "446",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "281-2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "452",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "470",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 30
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 310/2018",
+    "number": "310",
+    "year": "2018",
+    "path": "lege/2018/310"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2024-10-25",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/290006",
+  "text_sha256": "57caba17906606821415a6ddb8cf600b624eea1e2b67e2e035d9255ba9215ffb",
+  "catalogue_sha256": "57caba17906606821415a6ddb8cf600b624eea1e2b67e2e035d9255ba9215ffb",
+  "fetched": "2026-11-03T01:05:00Z",
+  "chars": 57501,
+  "portal_id": "290006",
+  "tip": "DECIZIE"
+ }
+}
