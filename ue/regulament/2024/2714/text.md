@@ -1,0 +1,48 @@
+REGULAMENTUL DE PUNERE ÎN APLICARE (UE) 2024/2714 AL COMISIEI
+din 24 octombrie 2024
+de supunere la înregistrare a importurilor de rășini epoxidice originare din Republica Populară Chineză, Republica Coreea, Taiwan și Thailanda
+COMISIA EUROPEANĂ,
+având în vedere Tratatul privind funcționarea Uniunii Europene,
+având în vedere Regulamentul (UE) 2016/1036 al Parlamentului European și al Consiliului din 8 iunie 2016 privind protecția împotriva importurilor care fac obiectul unui dumping din partea țărilor care nu sunt membre ale Uniunii Europene (1) (denumit în continuare „regulamentul de bază”), în special articolul 14 alineatul (5),
+după informarea statelor membre,
+întrucât:
+(1) La 1 iulie 2024, Comisia Europeană („Comisia”) a anunțat, printr-un aviz publicat în Jurnalul Oficial al Uniunii Europene (2), deschiderea unei proceduri antidumping privind importurile în Uniune de rășini epoxidice originare din Republica Populară Chineză, Republica Coreea, Taiwan și Thailanda.
+(2) Deschiderea acestei proceduri a avut loc în urma unei plângeri depuse la 6 iunie 2024 de către Coaliția ad-hoc a producătorilor de rășini epoxidice în numele unor producători care reprezintă peste 25 % din producția totală a Uniunii de rășini epoxidice.
+1. PRODUSUL CARE FACE OBIECTUL ÎNREGISTRĂRII
+(3) Produsul supus obligativității înregistrării (denumit în continuare „produsul în cauză”) este reprezentat de produsele care conțin peste 35 % în greutate rășini epoxi, cunoscute și sub denumirea de rășini epoxidice sau poliepoxizi, care sunt polimeri sau prepolimeri care conțin grupe epoxi reactive, pe bază de epiclorhidrină și un compus alcoolic alifatic sau aromatic (cum ar fi BPA) sub formă solidă, semisolidă sau lichidă, având toate tipurile de grad, puritate, greutate moleculară sau structură moleculară, care conțin sau nu modificatori, agenți de întărire sau aditivi, atât timp cât agenții de întărire nu au reacționat chimic astfel încât să întărească rășina epoxidică sau să o transforme într-un produs diferit, care nu mai conține grupe epoxi.
+(4) Următoarele produse sunt excluse:
+— anumite vopsele și produse de acoperire, care sunt amestecuri, sau alte formule de rășină epoxidică, agent de întărire și pigment, sub orice formă, ambalate în unul sau mai multe recipiente, în care: 1. pigmentul reprezintă minimum 10 % din greutatea totală a produsului; 2. rășina epoxidică reprezintă maximum 80 % din greutatea totală a produsului; și 3. agentul de întărire reprezintă 5-40 % din greutatea totală a produsului,
+— țesături sau fibre preimpregnate, denumite adesea „preimpregnate”, care sunt materiale compozite compuse din țesături sau fibre (de obicei carbon sau sticlă) impregnate cu rășină epoxidică;
+— amestecuri de rășini epoxidice cu alte materiale, clasificate în prezent la alte coduri NC decât 2910 90 00 , 3824 99 92 , 3824 99 93 și 3907 30 00 .
+(5) Produsul în cauză este clasificat în prezent la codurile NC ex 2910 90 00 , ex 3824 99 92 , ex 3824 99 93 , și ex 3907 30 00 (coduri TARIC 2910 90 00 05, 3824 99 92 96, 3824 99 93 10, 3907 30 00 05, 3907 30 00 20 și 3907 30 00 80). Codurile NC și TARIC sunt menționate doar cu titlu informativ și fără a aduce atingere eventualei modificări ulterioare a clasificării tarifare.
+2. ÎNREGISTRAREA
+(6) În temeiul articolului 14 alineatul (5) din regulamentul de bază, importurile produsului în cauză pot fi supuse obligativității înregistrării pentru a se garanta că, în cazul în care investigațiile ar avea ca rezultat constatări care conduc la instituirea unor taxe antidumping, taxele respective pot fi percepute retroactiv pentru importurile înregistrate, dacă sunt îndeplinite condițiile necesare, în conformitate cu dispozițiile legale aplicabile.
+(7) Comisia a decis, din proprie inițiativă, să supună înregistrării importurile de produs în cauză, în temeiul articolului 14 alineatul (5) din regulamentul de bază. Condițiile de percepere retroactivă a taxelor vor fi evaluate în regulamentul de instituire a unor taxe definitive, dacă este cazul.
+(8) Orice obligație de plată ulterioară va decurge din constatările investigației.
+(9) În ceea ce privește importurile din Republica Populară Chineză, afirmațiile din plângerea prin care se solicită deschiderea unei investigații antidumping estimează marje de dumping cuprinse între 140 % și 170 % și un nivel mediu de eliminare a prejudiciului cuprins între 50 % și 60 % pentru produsul în cauză din octombrie 2022 până în septembrie 2023.
+(10) Cuantumul eventualei obligații de plată ulterioare ar fi, în mod normal, stabilit la nivelul inferior dintre respectivele două niveluri, în conformitate cu articolul 7 alineatul (2) din regulamentul de bază. În cazul în care, în cursul investigației, Comisia constată existența unor distorsiuni legate de materiile prime în temeiul articolului 7 alineatul (2a) din regulamentul de bază, cuantumul eventualei datorii viitoare ar urma să fie stabilit la nivelul marjei de dumping, astfel cum se prevede la articolul 7 alineatul (2b) din regulamentul de bază, în cazul în care se concluzionează că o taxă mai mică decât marja de dumping nu ar fi suficientă pentru a elimina prejudiciul suferit de industria din Uniune.
+(11) În ceea ce privește importurile din Republica Coreea, în plângere se estimează marje de dumping cuprinse între 10 % și 40 % și un nivel mediu de eliminare a prejudiciului cuprins între 40 % și 50 % pentru produsul în cauză din octombrie 2022 până în septembrie 2023.
+(12) În ceea ce privește importurile din Taiwan, în plângere se estimează marje de dumping cuprinse între 10 % și 40 % și un nivel mediu de eliminare a prejudiciului cuprins între 50 % și 60 % pentru produsul în cauză din octombrie 2022 până în septembrie 2023.
+(13) În ceea ce privește importurile din Thailanda, în plângere se estimează marje de dumping cuprinse între 60 % și 90 % și un nivel mediu de eliminare a prejudiciului cuprins între 40 % și 50 % pentru produsul în cauză din octombrie 2022 până în septembrie 2023.
+(14) Cuantumul eventualei obligații de plată ulterioare pentru Republica Coreea, Taiwan și Thailanda ar fi, în mod normal, stabilit la nivelul inferior dintre respectivele două niveluri, în conformitate cu articolul 7 alineatul (2) din regulamentul de bază.
+3. PRELUCRAREA DATELOR CU CARACTER PERSONAL
+(15) Toate datele cu caracter personal colectate în contextul acestei înregistrări vor fi prelucrate în conformitate cu Regulamentul (UE) 2018/1725 al Parlamentului European și al Consiliului (3),
+ADOPTĂ PREZENTUL REGULAMENT:
+Articolul 1
+În conformitate cu articolul 14 alineatul (5) din Regulamentul (UE) 2016/1036, autoritățile vamale sunt invitate să ia măsurile corespunzătoare pentru a înregistra importurile în Uniune de produse care conțin mai mult de 35 % în greutate rășini epoxi, cunoscute și sub denumirea de rășini epoxidice sau poliepoxizi, care sunt polimeri sau prepolimeri care conțin grupe epoxi reactive, pe bază de epiclorhidrină și un compus alcoolic alifatic sau aromatic (cum ar fi BPA) sub formă solidă, semisolidă sau lichidă, având toate tipurile de grad, puritate, greutate moleculară sau structură moleculară, care conțin sau nu modificatori, agenți de întărire sau aditivi, atât timp cât agenții de întărire nu au reacționat chimic astfel încât să întărească rășina epoxidică sau să o transforme într-un produs diferit, care nu mai conține grupe epoxi, clasificate în prezent la codurile NC ex 3907 30 00 , ex 3824 99 93 , ex 3824999296 și ex 2910900005 (coduri TARIC 3907 30 00 05, 3824 99 93 10, 3907 30 00 20, 2910 90 00, 3907 30 00 80 și 3824 99 92 ) și originare din Republica Populară Chineză, Republica Coreea, Taiwan și Thailanda.
+Următoarele produse sunt excluse din definiția produsului prevăzută la articolul 1 alineatul (1):
+— anumite vopsele și produse de acoperire, care sunt amestecuri, sau alte formule de rășină epoxidică, agent de întărire și pigment, sub orice formă, ambalate în unul sau mai multe recipiente, în care: 1. pigmentul reprezintă minimum 10 % din greutatea totală a produsului; 2. rășina epoxidică reprezintă maximum 80 % din greutatea totală a produsului; și 3. agentul de întărire reprezintă 5-40 % din greutatea totală a produsului;
+— țesături sau fibre preimpregnate, denumite adesea „preimpregnate”, care sunt materiale compozite compuse din țesături sau fibre (de obicei, carbon sau sticlă) impregnate cu rășină epoxidică;
+— amestecuri de rășini epoxidice cu alte materiale, clasificate în prezent la alte coduri NC decât 2910 90 00 , 3824 99 92 , 3824 99 93 și 3907 30 00 .
+Înregistrarea expiră la nouă luni de la data intrării în vigoare a prezentului regulament.
+Articolul 2
+Prezentul regulament intră în vigoare în ziua următoare datei publicării în Jurnalul Oficial al Uniunii Europene.
+Prezentul regulament este obligatoriu în toate elementele sale și se aplică direct în toate statele membre.
+Adoptat la Bruxelles, 24 octombrie 2024.
+Pentru Comisie
+Președinta
+Ursula VON DER LEYEN
+(1) JO L 176, 30.6.2016, p. 21, ELI: http://data.europa.eu/eli/reg/2016/1036/oj.
+(2) JO C, C/2024/4137, 1.7.2024, ELI: http://data.europa.eu/eli/C/2024/4137/oj.
+(3) Regulamentul (UE) 2018/1725 al Parlamentului European și al Consiliului din 23 octombrie 2018 privind protecția persoanelor fizice în ceea ce privește prelucrarea datelor cu caracter personal de către instituțiile, organele, oficiile și agențiile Uniunii și privind libera circulație a acestor date și de abrogare a Regulamentului (CE) nr. 45/2001 și a Deciziei nr. 1247/2002/CE (JO L 295, 21.11.2018, p. 39, http://data.europa.eu/eli/reg/2018/1725/oj).
+ELI: http://data.europa.eu/eli/reg_impl/2024/2714/oj
