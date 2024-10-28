@@ -21,6 +21,7 @@ Initiator: Membri ai Parlamentului.
 - 2024-10-02: adopted by the Chamber of Deputies
 - 2024-10-07: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2024-10-12: sent for promulgation
+- 2024-10-28: promulgated, becomes Legea nr. 266/2024; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -37,3 +38,5 @@ Initiator: Membri ai Parlamentului.
 - 2024-06-25: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L312AM.PDF
 - 2024-10-07: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L312AXS.PDF
 - 2024-10-07: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L312LP.PDF
+- 2024-10-28: Decret de promulgare (DP): [dp-d4b749ad.md](dp-d4b749ad.md); official file https://www.senat.ro/legis/PDF/2024/24L312DP.PDF
+- 2024-10-28: Forma promulgată (FP): [fp-c451b4bb.md](fp-c451b4bb.md); official file https://www.senat.ro/legis/PDF/2024/24L312FP.PDF
