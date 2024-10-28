@@ -11,6 +11,7 @@ Initiator: Membri ai Parlamentului.
 - 2024-09-02: first record in the bill file
 - 2024-09-03: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 - 2024-09-10: documents published: Aviz Consiliul Economic și Social, Aviz Consiliul Legislativ
+- 2024-10-28: documents published: Raport comisie sesizată pe fond
 
 ## Documents
 
@@ -19,3 +20,4 @@ Initiator: Membri ai Parlamentului.
 - 2024-09-03: Expunere de motive (EM): [em-f4b55bed.md](em-f4b55bed.md); official file https://www.senat.ro/legis/PDF/2024/24L524EM.PDF
 - 2024-09-10: Aviz Consiliul Economic și Social (ES): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L524ES.PDF
 - 2024-09-10: Aviz Consiliul Legislativ (LG): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L524LG.PDF
+- 2024-10-28: Raport comisie sesizată pe fond (CR): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L524CR.PDF
