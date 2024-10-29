@@ -23,6 +23,7 @@ Initiator: Membri ai Parlamentului.
 - 2023-04-25: returned for re-examination
 - 2024-03-11: adopted by the Senate
 - 2024-06-26: adopted by the Chamber of Deputies
+- 2024-10-29: published in the Monitorul Oficial
 
 ## Documents
 
