@@ -20,6 +20,7 @@ Initiator: Membri ai Parlamentului.
 - 2024-10-08: adopted by the Chamber of Deputies
 - 2024-10-14: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2024-10-19: sent for promulgation
+- 2024-10-30: promulgated, becomes Legea nr. 269/2024; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -34,3 +35,5 @@ Initiator: Membri ai Parlamentului.
 - 2024-09-11: Aviz comisie (CA45): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L420CA45.PDF
 - 2024-10-14: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L420AXS.PDF
 - 2024-10-14: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L420LP.PDF
+- 2024-10-30: Decret de promulgare (DP): [dp-340ee3c3.md](dp-340ee3c3.md); official file https://www.senat.ro/legis/PDF/2024/24L420DP.PDF
+- 2024-10-30: Forma promulgată (FP): [fp-0586eaf3.md](fp-0586eaf3.md); official file https://www.senat.ro/legis/PDF/2024/24L420FP.PDF
