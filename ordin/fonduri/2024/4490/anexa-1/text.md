@@ -1,0 +1,2 @@
+# ANEXĂ
+INSTRUCȚIUNI pentru stabilirea mecanismului de justificare a sumelor rămase la dispoziția beneficiarilor, aferente proiectelor finanțate în cadrul Programului operațional regional 2014-2020, potrivit dispozițiilor art. III alin. (1) din Ordonanța de urgență a Guvernului nr. 31/2024 privind reglementarea unor măsuri fiscal-bugetare și pentru modificarea și completarea unor acte normative, aprobată cu modificări prin Legea nr. 204/2024
