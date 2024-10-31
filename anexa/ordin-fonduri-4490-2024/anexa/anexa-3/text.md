@@ -1,0 +1,26 @@
+# Anexa 3
+Anexa nr. 3
+la instrucțiuni
+Direcția generală …………………..
+Direcția autorizare proiecte
+Serviciul autorizare proiecte
+NOTA DE JUSTIFICARE
+a plăților din valoarea neutilizată a prefinanțării
+Aprobat,
+.......................
+Programul operațional regional 2014-2020
+Axa prioritară: .............................
+Prioritatea de intervenție: .........................
+Cod Proiect:.....................
+Beneficiar: ..........................
+Titlu Proiect: ..............................
+Denumire
+TOTAL FEDR
+Valoarea prefinanțării neutilizate până la data de 31.12.2023 0,00 0,00
+Valoarea plăților din prefinanțarea neutilizată
+0,00 0,00
+Valoarea prefinanțării de recuperat de la beneficiar pentru care s-a întocmit Solicitare de recuperare de la beneficiar 0,00 0,00
+Întocmit,
+……………………
+Avizat/Supervizat,
+…………………
