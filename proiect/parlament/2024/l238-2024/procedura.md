@@ -21,6 +21,7 @@ Initiator: Membri ai Parlamentului.
 - 2024-10-08: adopted by the Chamber of Deputies
 - 2024-10-14: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2024-10-19: sent for promulgation
+- 2024-11-01: promulgated, becomes Legea nr. 270/2024; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -37,3 +38,5 @@ Initiator: Membri ai Parlamentului.
 - 2024-05-27: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L238AM.PDF
 - 2024-10-14: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L238AXS.PDF
 - 2024-10-14: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L238LP.PDF
+- 2024-11-01: Decret de promulgare (DP): [dp-b2bcbad9.md](dp-b2bcbad9.md); official file https://www.senat.ro/legis/PDF/2024/24L238DP.PDF
+- 2024-11-01: Forma promulgată (FP): [fp-4ffd4a8c.md](fp-4ffd4a8c.md); official file https://www.senat.ro/legis/PDF/2024/24L238FP.PDF
