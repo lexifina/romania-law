@@ -1,0 +1,71 @@
+În conformitate cu prevederile art. 12 alin. (1) și ale art. 27 alin. (1)
+din Legea nr. 101/2016 privind remediile și căile de atac în materie de
+atribuire a contractelor de achiziție publică, a contractelor sectoriale și a
+contractelor de concesiune de lucrări și concesiune de servicii, precum și
+pentru organizarea și funcționarea Consiliului Național de Soluționare a
+Contestațiilor, Consiliul adoptă următoarea
+DECIZIE
+Nr. ...
+Data: ...
+Prin  contestația  fără  număr  de  înregistrare  la  emitent  și  nedatată,
+înregistrată  la  Consiliul  Național  de  Soluționare  a  Contestațiilor  sub  nr.
+68604/28.10.2024, formulată de către ..., cu sediul în ..., înmatriculată la Oficiul
+Registrului Comerțului sub nr. ..., având CUI ..., reprezentată convențional
+prin ..., cu sediul ales pentru comunicarea actelor de procedură în ..., împotriva
+documentației de atribuire emisă de către ..., cu sediul în ..., în calitate de
+autoritate contractantă, în cadrul procedurii de licitație deschisă, organizată în
+vederea atribuirii contractului de achiziție publică având ca obiect „Achiziție de
+Echipamente  destinate  reducerii  riscului  de  infecții  nosocomiale  în  cadrul
+proiectului «Consolidarea capacității Spitalului Orășenesc ..., pentru prevenirea
+apariției infecțiilor nosocomiale»”, se solicită admiterea contestației, obligarea
+autorității contractante la împărțirea procedurii în loturi distincte corespunzător
+funcționalităților acestora, conform celor detaliate prin contestație, în subsidiar,
+anularea procedurii de atribuire, obligarea autorității contractante la prelungirea
+perioadei de depunere a ofertelor în cadrul procedurii, după pronunțarea Deciziei
+CNSC în cadrul acestui dosar, astfel încât să permită operatorilor economici să
+poată beneficia de un interval de timp suficient pentru pregătirea ofertelor,
+precum și obligarea autorității contractante la plata cheltuielilor de judecată în
+temeiul art. 26 alin. (9) din Legea nr. 101/2016.
+Procedura de soluționare în fața Consiliului s-a desfășurat în scris.
+CONSILIUL NAȚIONAL DE SOLUȚIONARE A CONTESTAȚIILOR,
+asupra cauzei de față, constată următoarele:
+Consiliul a fost legal sesizat și este competent, potrivit dispozițiilor art. 12
+alin. (1) din Legea nr. 101/2016, să soluționeze contestația formulată de către
+..., critică  modalitatea  prin  care  autoritatea  contractantă  ... a  elaborat
+documentația de atribuire.
+Prin adresa din data de 31.10.2024, înregistrată la Consiliul Național de
+Soluționare a Contestațiilor sub nr. 70195/01.11.2024, contestatorul aduce la
+cunoștința Consiliului următoarele: „... având în vedere că Măsurile de remediere
+
+nr. 8190/30.10.2024, postate de autoritatea contractantă în SEAP în data de
+31.10.2024, ora 10:02, prin care aceasta a decis revizuirea documentației de
+atribuire în sensul defalcării procedurii pe loturi și, drept consecință, a decis
+anularea procedurii și având în vedere că în SEAP procedura este menționată ca
+fiind anulată, formulează prezenta cerere de renunțare la contestația ce face
+obiectul Dosarului nr. 3752/C7/2024 ...”
+În aceste condiții, în considerarea dispozițiilor art. 26 alin. (8) din Legea nr.
+101/2016, conform cărora „Consiliul poate lua act, oricând în cursul soluționării
+contestației, de renunțarea la aceasta de către contestator”, Consiliul va face
+aplicarea acestora, luând act de faptul că ..., renunță la contestația fără număr de
+înregistrare  la  emitent  și  nedatată,  înregistrată  la  Consiliul  Național  de
+Soluționare a Contestațiilor sub nr. 68604/28.10.2024.
+În consecință, în baza art. 26 alin. (8) din Legea nr. 101/2016, Consiliul ia
+act de retragerea la contestația formulată de către ..., în contradictoriu cu ....
+Pentru aceste motive,
+în baza legii și a mijloacelor de probă aflate la dosar,
+CONSILIUL DECIDE:
+Ia act de renunțarea la contestația formulată de către ..., cu sediul în ...,
+reprezentată convențional prin ..., cu sediul ales pentru comunicarea actelor de
+procedură în ..., în contradictoriu cu ..., cu sediul în ..., ....
+Prezenta decizie este obligatorie pentru părți, în conformitate cu dispozițiile
+art. 28 alin. (1) din Legea nr. 101/2016.
+Împotriva prezentei decizii se poate formula plângere, în termen de 10 zile
+de la comunicare pentru părțile cauzei, respectiv de la data luării la cunoștință de
+către alte persoane vătămate.
+PREȘEDINTE,
+MEMBRU,
+MEMBRU,
+...
+...
+...
+Redactat în 4 (patru) exemplare originale, conține 2 (două) pagini
