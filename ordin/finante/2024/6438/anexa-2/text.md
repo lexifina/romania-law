@@ -1,0 +1,16 @@
+# Anexa nr. 2 (Anexa nr. 14 la procedură)
+ANTET
+Către.......(organul fiscal competent).......
+ADRESĂ privind structura creanțelor înscrise în tabelul definitiv de creanțe sau în tabelul definitiv consolidat de creanțe, după caz
+Prin prezenta, subscrisa................, în calitate de administrator/lichidator judiciar, prin reprezentant legal.............., confirmăm că în cazul debitorului.........., CIF................, cu sediul în............., radiat/aflat în procedura de observație/reorganizare judiciară/faliment, ca urmare a Hotărârii judecătorești nr........ din data de......, pronunțată de................, structura creanțelor înscrise în tabelul definitiv de creanțe sau în tabelul definitiv consolidat de creanțe, după caz, rămase de încasat la data prezentei, este următoarea: I.
+Creanțe rămase în sold la data prezentei adrese, defalcate pe creditori:
+Nr. crt. Denumirea/ Numele și prenumele creditorului Datele de identificare ale creditorului Rangul de preferință Soldul creanței datorate creditorului - lei - Procent din categoria de creanță Contul IBAN al debitorului sau creditorului, după caz, în care se virează suma încasată
+1.
+2....
+Total general
+II.
+Creanțe bugetare datorate către creditorul bugetar ANAF, în cuantum total de................. lei, din care principale.................. lei și accesorii................... lei
+Prezenta adresă se emite în vederea recuperării de la persoana/persoanele...................... a sumelor în cuantum de....... lei, pentru care s-a/s-au făcut răspunzătoare în baza Hotărârii judecătorești nr............... din data de................., pronunțată de.........................
+Reprezentant legal administrator/lichidator judiciar
+Numele și prenumele.......................
+Semnătura.......................
