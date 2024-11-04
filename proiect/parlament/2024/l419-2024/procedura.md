@@ -20,6 +20,7 @@ Initiator: Membri ai Parlamentului.
 - 2024-10-08: adopted by the Chamber of Deputies
 - 2024-10-14: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2024-10-19: sent for promulgation
+- 2024-11-04: promulgated, becomes Legea nr. 272/2024; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -34,3 +35,5 @@ Initiator: Membri ai Parlamentului.
 - 2024-09-11: Aviz comisie (CA45): [ca45-532d4077.md](ca45-532d4077.md); official file https://www.senat.ro/legis/PDF/2024/24L419CA45.PDF
 - 2024-10-14: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L419AXS.PDF
 - 2024-10-14: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L419LP.PDF
+- 2024-11-04: Decret de promulgare (DP): [dp-acf726c7.md](dp-acf726c7.md); official file https://www.senat.ro/legis/PDF/2024/24L419DP.PDF
+- 2024-11-04: Forma promulgată (FP): [fp-d39b78e7.md](fp-d39b78e7.md); official file https://www.senat.ro/legis/PDF/2024/24L419FP.PDF
