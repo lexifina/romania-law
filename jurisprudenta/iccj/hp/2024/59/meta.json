@@ -1,0 +1,163 @@
+{
+ "key": "iccj-hp-59-2024",
+ "label": "Decizia ÎCCJ nr. 59/2024 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "59",
+ "date": "2024-10-21",
+ "year": "2024",
+ "heading": "DECIZIA nr. 59 din 21 octombrie 2024",
+ "subtitle": "referitoare la interpretarea art. 18 alin. (2) din Ordonanța Guvernului nr. 26/2000 cu privire la asociații și fundații, aprobată cu modificări și completări prin Legea nr. 246/2005, cu modificările și completările ulterioare",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "1104",
+  "bis": false,
+  "date": "2024-11-05",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.569/1/2024",
+  "325/98/2024"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 26/2000",
+    "number": "26",
+    "year": "2000",
+    "path": "og/2000/26"
+   },
+   "articles": [
+    {
+     "art": "18",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Tribunalul Ialomița - Secția civilă, în Dosarul nr. 325/98/2024, în vederea pronunțării unei hotărâri prealabile cu privire la următoarea chestiune de drept:",
+  "Dispozițiile art. 18 alin. (2) din Ordonanța Guvernului nr. 26/2000 cu privire la asociații și fundații, aprobată cu modificări și completări prin Legea nr. 246/2005, cu modificările și completările ulterioare, potrivit cărora filiala este condusă de un consiliu director propriu, se interpretează în sensul că respectivul consiliu director al filialei trebuie să fie distinct (în privința componenței) de consiliul director al fundației care a constituit respectiva filială?",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "520",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "503",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "508",
+     "alin": [
+      "4",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "457",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 18
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 26/2000",
+    "number": "26",
+    "year": "2000",
+    "path": "og/2000/26"
+   },
+   "articles": [
+    {
+     "art": "18",
+     "alin": [
+      "2",
+      "3",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 25
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2024-11-05",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/290307",
+  "text_sha256": "768bab443f71d284e952820279af736de699ee8977c91939124530ce6f413516",
+  "catalogue_sha256": "768bab443f71d284e952820279af736de699ee8977c91939124530ce6f413516",
+  "fetched": "2026-11-03T01:04:39Z",
+  "chars": 30081,
+  "portal_id": "290307",
+  "tip": "DECIZIE"
+ }
+}
