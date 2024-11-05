@@ -9,9 +9,12 @@ Initiator: Membri ai Parlamentului.
 ## Stages published so far
 
 - 2024-10-30: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
+- 2024-11-05: documents published: Aviz Consiliul Economic și Social, Aviz Consiliul Legislativ
 
 ## Documents
 
 - 2024-10-30: Adresă de înaintare a inițiativei (AD): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L639AD.PDF
 - 2024-10-30: Forma inițiatorului (FG): [fg-1c82a8d9.md](fg-1c82a8d9.md); official file https://www.senat.ro/legis/PDF/2024/24L639FG.PDF
 - 2024-10-30: Expunere de motive (EM): [em-644db39d.md](em-644db39d.md); official file https://www.senat.ro/legis/PDF/2024/24L639EM.PDF
+- 2024-11-05: Aviz Consiliul Economic și Social (ES): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L639ES.PDF
+- 2024-11-05: Aviz Consiliul Legislativ (LG): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L639LG.PDF
