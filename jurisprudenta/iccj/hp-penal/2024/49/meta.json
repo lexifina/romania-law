@@ -1,0 +1,324 @@
+{
+ "key": "iccj-hp-penal-49-2024",
+ "label": "Decizia ÎCCJ nr. 49/2024 (HP penal)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp-penal",
+ "number": "49",
+ "date": "2024-10-07",
+ "year": "2024",
+ "heading": "DECIZIA nr. 49 din 7 octombrie 2024",
+ "subtitle": "referitoare la interpretarea și aplicarea dispozițiilor art. 198 alin. (1) din Codul penal, ale art. 19 alin. (2) din Codul de procedură penală și ale art. 1.370 din Codul civil",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT ÎN MATERIE PENALĂ",
+ "mo": {
+  "number": "1102",
+  "bis": false,
+  "date": "2024-11-05",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "1.521/1/2024",
+  "5.934/314/2022"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "198",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "19",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "1370",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "Admite sesizarea formulată de Curtea de Apel Suceava - Secția penală și pentru cauze cu minori, prin care se solicită pronunțarea unei hotărâri prealabile pentru dezlegarea următoarei chestiuni de drept:",
+  "Dacă în interpretarea dispozițiilor art. 198 alin. (1) din Codul penal, ale art. 19 alin. (2) din Codul de procedură penală și ale art. 1.370 din Codul civil este admisibilă acțiunea civilă formulată de un inculpat-participant la săvârșirea infracțiunii de încăierare prevăzute de art. 198 alin. (1) din Codul penal împotriva altui inculpat-participant la aceeași infracțiune de încăierare prevăzută de art. 198 alin. (1) din Codul penal, având ca obiect pretenții civile decurgând din leziunile suferite ca urmare a încăierării“ și stabilește că:",
+  "În interpretarea și aplicarea dispozițiilor art. 198 alin. (1) din Codul penal, ale art. 19 alin. (2) din Codul de procedură penală și ale art. 1.370 din Codul civil, este admisibilă acțiunea civilă formulată de un inculpat-participant la săvârșirea infracțiunii de încăierare prevăzute de art. 198 alin. (1) din Codul penal împotriva altui inculpat-participant la aceeași infracțiune de încăierare prevăzută de art. 198 alin. (1) din Codul penal.",
+  "Obligatorie de la data publicării în Monitorul Oficial al României, Partea I, potrivit art. 477 alin. (3) din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "198",
+     "alin": [
+      "1",
+      "2",
+      "4",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "371",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "38",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "113",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "154",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "d",
+      "e"
+     ]
+    },
+    {
+     "art": "131",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "193",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "194",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "151",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "133",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 146
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "19",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "475",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "f"
+     ]
+    },
+    {
+     "art": "397",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "476",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "473",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "79",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 31
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "1370",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1349",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1357",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1371",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1382",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1381",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1360",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 51
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2024-11-05",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/290304",
+  "text_sha256": "82f32f06908e81a1590b635b3488274ccbf2f45f380485f9bc3e348fd1e888ad",
+  "catalogue_sha256": "82f32f06908e81a1590b635b3488274ccbf2f45f380485f9bc3e348fd1e888ad",
+  "fetched": "2026-11-06T03:58:15Z",
+  "chars": 106809,
+  "archive": {
+   "source": "commoncrawl",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/290304",
+   "timestamp": "20260218061039",
+   "crawl": "CC-MAIN-2026-08",
+   "filename": "crawl-data/CC-MAIN-2026-08/segments/1770395864658.85/warc/CC-MAIN-20260218050034-20260218080034-00344.warc.gz",
+   "offset": "245033854",
+   "length": "65649",
+   "sha256": "88f7dde9d7a6e4c8469bb5a3849df2b14829b8fe32e3f90be34edb536c02c07b"
+  },
+  "portal_id": "290304",
+  "tip": "DECIZIE"
+ }
+}
