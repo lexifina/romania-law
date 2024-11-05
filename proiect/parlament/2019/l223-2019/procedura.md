@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2019-06-18: registered at the Chamber of Deputies
 - 2024-10-29: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2024-10-31: sent for promulgation
+- 2024-11-05: promulgated, becomes Legea nr. 273/2024; published in the Monitorul Oficial; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -36,3 +37,5 @@ Initiator: Guvernul României.
 - 2019-06-11: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L223AM.PDF
 - 2024-10-29: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L223AXS.PDF
 - 2024-10-29: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L223LP.PDF
+- 2024-11-05: Decret de promulgare (DP): [dp-fcbf2459.md](dp-fcbf2459.md); official file https://www.senat.ro/legis/PDF/2019/19L223DP.PDF
+- 2024-11-05: Forma promulgată (FP): [fp-8c72d9b0.md](fp-8c72d9b0.md); official file https://www.senat.ro/legis/PDF/2019/19L223FP.PDF
