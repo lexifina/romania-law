@@ -16,6 +16,7 @@ Initiator: Membri ai Parlamentului.
 - 2024-10-28: documents published: Raport comisie sesizată pe fond
 - 2024-10-29: adopted by the Chamber of Deputies; registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 - 2024-11-04: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă privind sesizarea CCR, Forma trimisă la promulgare
+- 2024-11-07: sent for promulgation
 
 ## Documents
 
