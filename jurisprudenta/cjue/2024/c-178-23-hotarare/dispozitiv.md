@@ -1,0 +1,6 @@
+# CJUE, Hotărârea Curții (Camera a opta) din 7 noiembrie 2024, Cauza C-178/23
+
+Pentru aceste motive, Curtea (Camera a opta) declară:
+Articolul 7 alineatul (1) din Directiva 93/13/CEE a Consiliului din 5 aprilie 1993 privind clauzele abuzive în contractele încheiate cu consumatorii, citit în lumina celui de al douăzeci și patrulea considerent al acesteia, a principiului efectivității și a articolului 47 din Carta drepturilor fundamentale a Uniunii Europene,
+trebuie interpretat în sensul că
+nu impune unei instanțe naționale să examineze caracterul eventual abuziv al clauzelor unui contract încheiat între un profesionist și un consumator atunci când aceste clauze au fost deja examinate de o altă instanță națională a cărei hotărâre a dobândit autoritate de lucru judecat, nici chiar în cazul în care în fața acestei prime instanțe consumatorul nu a fost asistat de un avocat, nu a participat la dezbateri și nu a utilizat o cale de atac care îi era deschisă, cu condiția ca respectiva hotărâre să fi fost comunicată în mod corespunzător consumatorului, cu indicarea căilor de atac de care dispune, și să nu existe alte motive speciale legate de desfășurarea acestei proceduri, precum lipsa motivării hotărârii menționate, care ar fi putut împiedica sau descuraja consumatorul să își exercite în mod util drepturile procedurale.
