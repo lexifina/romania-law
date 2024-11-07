@@ -21,6 +21,7 @@ Initiator: Membri ai Parlamentului.
 - 2024-10-14: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2024-10-19: sent for promulgation
 - 2024-11-06: promulgated, becomes Legea nr. 274/2024; documents published: Decret de promulgare, Forma promulgată
+- 2024-11-07: published in the Monitorul Oficial
 
 ## Documents
 
