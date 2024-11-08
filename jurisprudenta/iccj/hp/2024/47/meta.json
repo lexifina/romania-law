@@ -1,0 +1,219 @@
+{
+ "key": "iccj-hp-47-2024",
+ "label": "Decizia ÎCCJ nr. 47/2024 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "47",
+ "date": "2024-10-07",
+ "year": "2024",
+ "heading": "DECIZIA nr. 47 din 7 octombrie 2024",
+ "subtitle": "referitoare la interpretarea și aplicarea prevederilor art. 906 alin. (5) din Codul de procedură civilă",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "1117",
+  "bis": false,
+  "date": "2024-11-08",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.192/1/2024",
+  "1.193/1/2024",
+  "2.450/203/2022",
+  "1.005/203/2022"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "906",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibile, sesizările formulate de Tribunalul Alba - Secția I civilă, în dosarele nr. 2.450/203/2022 și nr. 1.005/203/2022, în vederea pronunțării unei hotărâri prealabile prin care să se dea o rezolvare de principiu cu privire la următoarea chestiune de drept:",
+  "Dacă, în interpretarea și aplicarea prevederilor art. 906 alin. (5) din Codul de procedură civilă: – criteriile avute în vedere de instanță la stabilirea penalităților de întârziere prin încheierea pronunțată în temeiul dispozițiilor art. 906 alin. (2) din Codul de procedură civilă pot fi analizate și avute în vedere la reducerea penalității în cadrul contestației la executare formulate cu privire la oricare dintre încheierile pronunțate în temeiul art. 906 alin. (4) din Codul de procedură civilă, indiferent dacă debitorul a executat sau nu obligația de a face și chiar dacă nu a dovedit existența unor motive temeinice care au justificat întârzierea executării;",
+  "– penalitățile de întârziere stabilite prin oricare dintre încheierile pronunțate în temeiul art. 906 alin. (4) din Codul de procedură civilă vor putea fi reduse și atunci când debitorul execută parțial obligația de a face și dovedește existența unor motive temeinice care au justificat întârzierea parțială a executării;",
+  "– penalitățile de întârziere stabilite prin oricare dintre încheierile pronunțate în temeiul art. 906 alin. (4) din Codul de procedură civilă mai pot fi executate în situația în care creditorul însuși deține un titlu executoriu prin care a fost autorizat personal să îndeplinească, pe cheltuiala debitorului, obligația de a face stabilită în sarcina debitorului.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "906",
+     "alin": [
+      "5",
+      "2",
+      "1",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "904",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "712",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "713",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "457",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "634",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "903",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "905",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 109
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "1528",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenției",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 310/2018",
+    "number": "310",
+    "year": "2018",
+    "path": "lege/2018/310"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2024-11-08",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/290456",
+  "text_sha256": "ac0b499b4069eb50dc84ffb1b826d15360998da0c9052b7834d94b63a0a1834b",
+  "catalogue_sha256": "ac0b499b4069eb50dc84ffb1b826d15360998da0c9052b7834d94b63a0a1834b",
+  "fetched": "2026-11-03T01:04:28Z",
+  "chars": 106944,
+  "portal_id": "290456",
+  "tip": "DECIZIE"
+ }
+}
