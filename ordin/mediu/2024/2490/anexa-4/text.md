@@ -1,0 +1,6 @@
+# Anexa nr. 1 la contractul de finanțare
+CAPITOLE ȘI SUBCAPITOLE DE CHELTUIELI ELIGIBILE în cadrul Programului privind creșterea eficienței energetice a infrastructurii de iluminat public
+AFM
+Președinte,.....................................
+BENEFICIAR
+Prin reprezentant legal,........................................
