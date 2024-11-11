@@ -1,0 +1,13 @@
+# ANEXĂ
+DATELE DE IDENTIFICARE ale bunurilor din infrastructura secundară de irigații, aflate în domeniul privat al statului și în administrarea Agenției Naționale de Îmbunătățiri Funciare, care se transmit în proprietatea Organizației utilizatorilor de apă pentru irigații Mara din județul Brăila
+Nr. crt.
+Codul de clasificație și nr. MFP alocat prin Ordinul ministrului finanțelor publice și al ministrului delegat pentru buget nr. 668/2014, cu modificările și completările ulterioare Persoana juridică de la care se transmite imobilul
+Persoana juridică la care se transmite imobilul
+Denumirea bunului Descrierea tehnică Adresa Valoarea de inventar (lei)
+1. 1.8.12/INVPPS-6491071-2016
+Agenția Națională de Îmbunătățiri Funciare
+CIF 29275212
+Organizația utilizatorilor de apă pentru irigații Mara, județul Brăila Sediul: comuna Grădiștea, satul Maraloiu, Str. Școlii nr. 46, județul Brăila, înregistrată în Registrul național al organizațiilor de îmbunătățiri funciare la nr. 890 din 23.07.2024, codul de înregistrare fiscală (C.I.F.) 50404684 din 31.07.2024 Stație de pompare SPP 35
+Clădire stație de pompare: suprafața construită = 25,42 mp; suprafața desfășurată = 50,84 mp; suprafața totală a imobilului = 364 mp; regim de înălțime = P + 1
+UAT Grădiștea, județul Brăila 617,73 1.8.12/INVPPS-6491069-2016 Teren stație de pompare SPP 35 478 mp UAT Grădiștea, județul Brăila 119,06 1.8.6/INVPPS-6491097-2016 Conductă principală CP1 SPP 35 L = 1.404 m UAT Grădiștea, județul Brăila 105.231,63 1.8.6/INVPPS-6491139-2016 Conductă alimentare apă A1 SPP 35 L = 852 m UAT Grădiștea, județul Brăila 50.742,04 1.8.6/INVPPS-6491141-2016 Conductă alimentare apă A2 SPP 35 L = 956 m UAT Grădiștea, județul Brăila 56.920,99 1.8.6/INVPPS-6491143-2016 Conductă alimentare apă A3 SPP 35 L = 1.104 m UAT Grădiștea, județul Brăila 65.732,30 1.8.6/INVPPS-6491099-2016 Conductă principală CP2 SPP 35 L = 600 m UAT Grădiștea, județul Brăila 44.970,78 1.8.6/INVPPS-6491145-2016 Conductă alimentare apă A4 SPP 35 L = 552 m UAT Grădiștea, județul Brăila 32.866,55 1.8.6/INVPPS-6491147-2016 Conductă alimentare apă A5 SPP 35 L = 1.104 m UAT Grădiștea, județul Brăila 65.732,30 1.8.6/INVPPS-6491149-2016 Conductă alimentare apă A6 SPP 35 L = 654 m UAT Grădiștea, județul Brăila 38.939,25 1.8.6/INVPPS-6491151-2016 Conductă alimentare apă A7 SPP 35 L = 1.548 m UAT Grădiștea, județul Brăila 92.167,85 1.8.6/INVPPS-6491153-2016 Conductă alimentare apă A8 SPP 35 L = 956 m UAT Grădiștea, județul Brăila 56.920,99 1.8.6/INVPPS-6491155-2016 Conductă alimentare apă A9 SPP 35 L = 1.104 m UAT Grădiștea, județul Brăila 65.732,30 1.8.6/INVPPS-6491157-2016 Conductă alimentare apă A10 SPP 35 L = 1.104 m UAT Grădiștea, județul Brăila 65.732,30
+-----
