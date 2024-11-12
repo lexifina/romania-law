@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2024-10-03: sent for promulgation
 - 2024-10-15: promulgated, becomes Legea nr. 259/2024; documents published: Decret de promulgare, Forma promulgată
 - 2024-10-16: published in the Monitorul Oficial
+- 2024-11-12: documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -34,3 +35,4 @@ Initiator: Guvernul României.
 - 2024-10-01: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L319LP.PDF
 - 2024-10-15: Decret de promulgare (DP): [dp-b4edf25b.md](dp-b4edf25b.md); official file https://www.senat.ro/legis/PDF/2024/24L319DP.PDF
 - 2024-10-15: Forma promulgată (FP): [fp-7089e2ee.md](fp-7089e2ee.md); official file https://www.senat.ro/legis/PDF/2024/24L319FP.PDF
+- 2024-11-12: Document (TX): [tx-40522d14.md](tx-40522d14.md); official file https://www.senat.ro/legis/PDF/2024/24L319TX.PDF (its day is not given by the bill file: shown from the last stage held)
