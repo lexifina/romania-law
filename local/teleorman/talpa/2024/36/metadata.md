@@ -1,0 +1,8 @@
+# HCL Talpa nr. 36/2024
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here. Its title names a private person or a private property, so it is not shown.
+
+- Council: Consiliul Local al Comunei Talpa
+- Decision: nr. 36/2024
+- Adopted: 2024-11-15
+- Record: https://emol.ro/talpa-tr/registru-hcl/187010
