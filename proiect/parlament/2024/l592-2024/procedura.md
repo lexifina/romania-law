@@ -12,6 +12,7 @@ Initiator: Guvernul României.
 
 - 2024-11-12: adopted by the Chamber of Deputies; registered at the Chamber of Deputies; registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document, Raport comisie sesizată pe fond
 - 2024-11-13: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă privind sesizarea CCR, Forma trimisă la promulgare
+- 2024-11-15: sent for promulgation; promulgated, becomes Legea nr. 284/2024; published in the Monitorul Oficial; documents published: Document (day not given by the bill file), Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -24,3 +25,6 @@ Initiator: Guvernul României.
 - 2024-11-13: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L592FS.PDF
 - 2024-11-13: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L592AXS.PDF
 - 2024-11-13: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L592LP.PDF
+- 2024-11-15: Document (AL): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L592AL.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2024-11-15: Decret de promulgare (DP): [dp-ac50d5f5.md](dp-ac50d5f5.md); official file https://www.senat.ro/legis/PDF/2024/24L592DP.PDF
+- 2024-11-15: Forma promulgată (FP): [fp-6eae3036.md](fp-6eae3036.md); official file https://www.senat.ro/legis/PDF/2024/24L592FP.PDF
