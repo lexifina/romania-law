@@ -20,6 +20,7 @@ Initiator: Guvernul României.
 - 2024-10-28: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2024-10-30: sent for promulgation
 - 2024-11-13: promulgated, becomes Legea nr. 281/2024; documents published: Decret de promulgare, Forma promulgată
+- 2024-11-18: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -37,3 +38,7 @@ Initiator: Guvernul României.
 - 2024-10-28: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L492LP.PDF
 - 2024-11-13: Decret de promulgare (DP): [dp-e7dc5025.md](dp-e7dc5025.md); official file https://www.senat.ro/legis/PDF/2024/24L492DP.PDF
 - 2024-11-13: Forma promulgată (FP): [fp-fba9ca54.md](fp-fba9ca54.md); official file https://www.senat.ro/legis/PDF/2024/24L492FP.PDF
+- 2024-11-18: Document (DR): [dr-9dac9b01.md](dr-9dac9b01.md); official file https://www.senat.ro/legis/PDF/2024/24L492DR.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2024-11-18: Document (TX): [tx-fc252e47.md](tx-fc252e47.md); official file https://www.senat.ro/legis/PDF/2024/24L492TX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2024-11-18: Document (AL): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L492AL.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2024-11-18: Document (TC): [tc-c5c8fbaf.md](tc-c5c8fbaf.md); official file https://www.senat.ro/legis/PDF/2024/24L492TC.PDF (its day is not given by the bill file: shown from the last stage held)
