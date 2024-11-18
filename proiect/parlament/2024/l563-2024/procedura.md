@@ -12,6 +12,7 @@ Initiator: Membri ai Parlamentului.
 - 2024-10-23: documents published: Raport comisie sesizată pe fond
 - 2024-10-29: rejected by the Chamber of Deputies; registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 - 2024-11-11: documents published: Aviz comisie
+- 2024-11-18: rejected by the Senate; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -20,3 +21,4 @@ Initiator: Membri ai Parlamentului.
 - 2024-10-29: Forma inițiatorului (FG): [fg-312b19e0.md](fg-312b19e0.md); official file https://www.senat.ro/legis/PDF/2024/24L563FG.PDF
 - 2024-10-29: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L563EM.PDF
 - 2024-11-11: Aviz comisie (CA12): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L563CA12.PDF
+- 2024-11-18: Document (ARD): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L563ARD.PDF (its day is not given by the bill file: shown from the last stage held)
