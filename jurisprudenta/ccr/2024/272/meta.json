@@ -1,0 +1,281 @@
+{
+ "key": "dcc-272-2024",
+ "label": "Decizia CCR nr. 272/2024",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "272",
+ "date": "2024-05-28",
+ "year": "2024",
+ "heading": "DECIZIA nr. 272 din 28 mai 2024",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 82 alin. (2), ale art. 647 alin. (1) și ale art. 670 alin. (1), (2), (4), (5) și (6) din Codul de procedură civilă",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "1151",
+  "bis": false,
+  "date": "2024-11-18",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "9.191/301/2022",
+  "2.131D/2022",
+  "23.450/301/2021",
+  "6.679/301/2022",
+  "25.750/301/2021",
+  "11.755/301/2022",
+  "6.684/301/2022",
+  "14.969/301/2022",
+  "18.050/301/2022",
+  "8.090/301/2022"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "82",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "647",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "670",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Biroul Executorului Judecătoresc Tudor Irina Alexandra și constată că dispozițiile art. 82 alin. (2), ale art. 647 alin. (1) și ale art. 670 alin. (1), (2), (4), (5) și (6) din Codul de procedură civilă sunt constituționale în raport cu criticile formulate.",
+  "Decizia se comunică Judecătoriei Sectorului 2 București - Secția civilă, Judecătoriei Sectorului 3 București și Tribunalului București - secțiile a III-a, a IV-a și a V-a civile și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "670",
+     "alin": [
+      "1",
+      "5",
+      "4",
+      "3",
+      "2",
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "82",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "647",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "669",
+     "alin": [
+      "1",
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "706",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "208",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "480",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 79
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "82",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "148",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "45",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 188/2000",
+    "number": "188",
+    "year": "2000",
+    "path": "lege/2000/188"
+   },
+   "articles": [
+    {
+     "art": "39",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2024-11-18",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/291080",
+  "text_sha256": "a685f4aa1306a35b470528911722c3ce06cc6111497c8136bcfa6c191860c0e4",
+  "catalogue_sha256": "a685f4aa1306a35b470528911722c3ce06cc6111497c8136bcfa6c191860c0e4",
+  "fetched": "2026-11-03T22:28:45Z",
+  "chars": 51797,
+  "portal_id": "291080",
+  "tip": "DECIZIE"
+ }
+}
