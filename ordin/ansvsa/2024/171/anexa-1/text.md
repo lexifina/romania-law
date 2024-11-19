@@ -1,0 +1,2 @@
+# ANEXĂ
+PROCEDURĂ privind verificarea și decontarea acțiunilor sanitar-veterinare cuprinse în Programul acțiunilor de supraveghere, prevenire și control al bolilor la animale, al celor transmisibile de la animale la om, protecția animalelor și protecția mediului, de imobilizare a animalelor care amenință viața sau integritatea corporală a persoanelor prin utilizarea și administrarea substanțelor din categoria stupefiante, psihotrope, de identificare și înregistrare a bovinelor, suinelor, ovinelor, caprinelor și ecvideelor
