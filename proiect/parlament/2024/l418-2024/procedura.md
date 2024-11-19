@@ -21,6 +21,7 @@ Initiator: Membri ai Parlamentului.
 - 2024-10-22: adopted by the Chamber of Deputies
 - 2024-10-28: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2024-11-02: sent for promulgation
+- 2024-11-19: promulgated, becomes Legea nr. 285/2024; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -36,3 +37,5 @@ Initiator: Membri ai Parlamentului.
 - 2024-10-07: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L418AM.PDF
 - 2024-10-28: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L418AXS.PDF
 - 2024-10-28: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L418LP.PDF
+- 2024-11-19: Decret de promulgare (DP): [dp-b0fb4699.md](dp-b0fb4699.md); official file https://www.senat.ro/legis/PDF/2024/24L418DP.PDF
+- 2024-11-19: Forma promulgată (FP): [fp-fcd4c738.md](fp-fcd4c738.md); official file https://www.senat.ro/legis/PDF/2024/24L418FP.PDF
