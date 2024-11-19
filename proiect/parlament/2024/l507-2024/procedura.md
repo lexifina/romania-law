@@ -18,6 +18,7 @@ Initiator: Membri ai Parlamentului.
 - 2024-10-21: adopted by the Senate; documents published: Forma adoptată de Senat
 - 2024-10-28: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2024-11-02: sent for promulgation
+- 2024-11-19: promulgated, becomes Legea nr. 287/2024; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -31,3 +32,5 @@ Initiator: Membri ai Parlamentului.
 - 2024-10-21: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L507FS.PDF
 - 2024-10-28: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L507AXS.PDF
 - 2024-10-28: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L507LP.PDF
+- 2024-11-19: Decret de promulgare (DP): [dp-0157e634.md](dp-0157e634.md); official file https://www.senat.ro/legis/PDF/2024/24L507DP.PDF
+- 2024-11-19: Forma promulgată (FP): [fp-9fcd595e.md](fp-9fcd595e.md); official file https://www.senat.ro/legis/PDF/2024/24L507FP.PDF
