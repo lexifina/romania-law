@@ -22,6 +22,7 @@ Initiator: Membri ai Parlamentului.
 - 2024-06-11: registered at the Chamber of Deputies
 - 2024-10-29: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2024-11-04: sent for promulgation
+- 2024-11-20: promulgated, becomes Legea nr. 288/2024; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -41,3 +42,5 @@ Initiator: Membri ai Parlamentului.
 - 2024-06-03: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L259AM.PDF
 - 2024-10-29: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L259AXS.PDF
 - 2024-10-29: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L259LP.PDF
+- 2024-11-20: Decret de promulgare (DP): [dp-3dcec2b5.md](dp-3dcec2b5.md); official file https://www.senat.ro/legis/PDF/2024/24L259DP.PDF
+- 2024-11-20: Forma promulgată (FP): [fp-1a30012c.md](fp-1a30012c.md); official file https://www.senat.ro/legis/PDF/2024/24L259FP.PDF
