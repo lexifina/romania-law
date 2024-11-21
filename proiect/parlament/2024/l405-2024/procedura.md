@@ -20,6 +20,7 @@ Initiator: Membri ai Parlamentului.
 - 2024-10-28: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2024-11-02: sent for promulgation
 - 2024-11-20: promulgated, becomes Legea nr. 290/2024; documents published: Decret de promulgare, Forma promulgată
+- 2024-11-21: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -37,3 +38,6 @@ Initiator: Membri ai Parlamentului.
 - 2024-10-28: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L405LP.PDF
 - 2024-11-20: Decret de promulgare (DP): [dp-66d368d8.md](dp-66d368d8.md); official file https://www.senat.ro/legis/PDF/2024/24L405DP.PDF
 - 2024-11-20: Forma promulgată (FP): [fp-a09810f9.md](fp-a09810f9.md); official file https://www.senat.ro/legis/PDF/2024/24L405FP.PDF
+- 2024-11-21: Document (CF): [cf-fff409ab.md](cf-fff409ab.md); official file https://www.senat.ro/legis/PDF/2024/24L405CF.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2024-11-21: Document (CC): [cc-eaa9afdb.md](cc-eaa9afdb.md); official file https://www.senat.ro/legis/PDF/2024/24L405CC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2024-11-21: Document (BNR): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L405BNR.PDF (its day is not given by the bill file: shown from the last stage held)
