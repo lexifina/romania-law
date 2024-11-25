@@ -1,0 +1,13 @@
+# Anexa nr. 3
+Informare privind verificarea pe teren
+Către:...............(denumirea operatorului economic)............
+În atenția domnului/doamnei............................................................., reprezentant legal
+Către: domnul/doamna.............(denumirea beneficiarului final).........
+Vă informăm că în data de........................., începând cu ora..........., se va efectua o verificare pe teren, în conformitate cu prevederile Ordinului.............................., pentru gospodăria care a beneficiat de sprijin în cadrul componentei 16 - REPowerEU - investiția.................... din PNRR, aflată la locația:.....................(strada, numărul, codul poștal, localitatea, municipiul, județul).....................
+Verificarea în teren va fi efectuată de către personalul ghișeului unic de eficiență energetică din cadrul consiliului județean/agenției de dezvoltare intercomunitară/Consiliului Municipiului București, împreună cu reprezentați ai MIPE (dacă este cazul).
+Obiectivele verificării pe teren sunt: [] verificarea faptului că investițiile au fost implementate conform specificațiilor și cerințelor prevăzute în ghidul specific și cu respectarea angajamentelor asumate prin cererea de finanțare; [] asigurarea că investițiile realizate își ating indicatorii prevăzuți în ghidul specific și cererea de finanțare; [] detectarea oricăror probleme sau deficiențe în implementare pentru a putea fi corectate și pentru a îmbunătăți eficiența investițiilor; [] asigurarea transparenței în utilizarea fondurilor publice și a responsabilității implementării corecte a proiectelor finanțate.
+Având în vedere natura verificărilor, vă adresăm rugămintea să asigurați disponibilitatea personalului responsabil de implementarea proiectului și să asigurați accesul la toată documentația referitoare la proiect, precum și în locațiile în care se află clădirile/echipamentele care fac obiectul proiectului.
+Pentru informații suplimentare vă rugăm să ne contactați la tel..................., dl/dna........................
+Cu stimă,................................. nume/prenume, funcție
+Avizat................................. nume/prenume, funcție
+Întocmit................................. nume/prenume, funcție
