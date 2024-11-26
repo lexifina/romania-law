@@ -15,6 +15,7 @@ Initiator: Membri ai Parlamentului.
 - 2024-04-10: registered at the Senate
 - 2024-04-23: documents published: Aviz comisie
 - 2024-11-19: documents published: Raport comisie sesizată pe fond
+- 2024-11-26: adopted by the Senate; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -26,3 +27,5 @@ Initiator: Membri ai Parlamentului.
 - 2024-04-23: Aviz comisie (CA45): [ca45-2af74493.md](ca45-2af74493.md); official file https://www.senat.ro/legis/PDF/2024/24L216CA45.PDF
 - 2024-04-23: Aviz comisie (CA57): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L216CA57.PDF
 - 2024-11-19: Raport comisie sesizată pe fond (CR): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L216CR.PDF
+- 2024-11-26: Document (AJ): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L216AJ.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2024-11-26: Document (ARD): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L216ARD.PDF (its day is not given by the bill file: shown from the last stage held)
