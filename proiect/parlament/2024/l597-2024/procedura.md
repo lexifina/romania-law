@@ -16,6 +16,7 @@ Initiator: Membri ai Parlamentului.
 - 2024-09-11: documents published: Raport comisie sesizată pe fond
 - 2024-11-12: adopted by the Chamber of Deputies
 - 2024-11-13: registered at the Senate
+- 2024-11-26: documents published: Aviz comisie
 
 ## Documents
 
@@ -27,3 +28,4 @@ Initiator: Membri ai Parlamentului.
 - 2024-04-02: Punct de vedere Guvern (SJ): [sj-51ddbd02.md](sj-51ddbd02.md); official file https://www.senat.ro/legis/PDF/2024/24L597SJ.PDF
 - 2024-05-15: Aviz comisie (CA45): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L597CA45.PDF
 - 2024-09-11: Raport comisie sesizată pe fond (CR): [cr-55193cfa.md](cr-55193cfa.md); official file https://www.senat.ro/legis/PDF/2024/24L597CR.PDF
+- 2024-11-26: Aviz comisie (CA58): [ca58-fbea5558.md](ca58-fbea5558.md); official file https://www.senat.ro/legis/PDF/2024/24L597CA58.PDF
