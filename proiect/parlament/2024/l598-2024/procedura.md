@@ -16,6 +16,7 @@ Initiator: Membri ai Parlamentului.
 - 2024-11-11: adopted by the Chamber of Deputies
 - 2024-11-13: registered at the Senate
 - 2024-11-19: documents published: Aviz comisie
+- 2024-11-26: documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -27,3 +28,8 @@ Initiator: Membri ai Parlamentului.
 - 2024-04-08: Punct de vedere Guvern (SJ): [sj-bdf04035.md](sj-bdf04035.md); official file https://www.senat.ro/legis/PDF/2024/24L598SJ.PDF
 - 2024-05-28: Aviz comisie (CA3): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L598CA3.PDF
 - 2024-11-19: Aviz comisie (CA45): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L598CA45.PDF
+- 2024-11-26: Document (ANFP): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L598ANFP.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2024-11-26: Document (CF): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L598CF.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2024-11-26: Document (CO): [co-2863f87b.md](co-2863f87b.md); official file https://www.senat.ro/legis/PDF/2024/24L598CO.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2024-11-26: Document (AJ): [aj-b6e10dd1.md](aj-b6e10dd1.md); official file https://www.senat.ro/legis/PDF/2024/24L598AJ.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2024-11-26: Document (SM): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L598SM.PDF (its day is not given by the bill file: shown from the last stage held)
