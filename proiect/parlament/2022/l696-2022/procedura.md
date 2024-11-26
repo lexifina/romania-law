@@ -20,6 +20,7 @@ Initiator: Guvernul României.
 - 2024-02-14: returned for re-examination
 - 2024-05-13: adopted by the Senate
 - 2024-11-20: sent for promulgation
+- 2024-11-26: promulgated, becomes Legea nr. 293/2024; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -37,3 +38,5 @@ Initiator: Guvernul României.
 - 2022-12-07: Adresă către Camera Deputaților (AM): [am-1243532b.md](am-1243532b.md); official file https://www.senat.ro/legis/PDF/2022/22L696AM.PDF
 - 2023-06-28: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L696AXS.PDF
 - 2023-06-28: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L696LP.PDF
+- 2024-11-26: Decret de promulgare (DP): [dp-b531ecec.md](dp-b531ecec.md); official file https://www.senat.ro/legis/PDF/2022/22L696DP.PDF
+- 2024-11-26: Forma promulgată (FP): [fp-fbadc551.md](fp-fbadc551.md); official file https://www.senat.ro/legis/PDF/2022/22L696FP.PDF
