@@ -19,6 +19,7 @@ Initiator: Membri ai Parlamentului.
 - 2024-11-05: adopted by the Chamber of Deputies
 - 2024-11-11: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2024-11-16: sent for promulgation
+- 2024-11-27: promulgated, becomes Legea nr. 298/2024; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -34,3 +35,5 @@ Initiator: Membri ai Parlamentului.
 - 2024-05-13: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L219AM.PDF
 - 2024-11-11: Adresă privind sesizarea CCR (AXS): [axs-5875e797.md](axs-5875e797.md); official file https://www.senat.ro/legis/PDF/2024/24L219AXS.PDF
 - 2024-11-11: Forma trimisă la promulgare (LP): [lp-25aba931.md](lp-25aba931.md); official file https://www.senat.ro/legis/PDF/2024/24L219LP.PDF
+- 2024-11-27: Decret de promulgare (DP): [dp-e3b5567f.md](dp-e3b5567f.md); official file https://www.senat.ro/legis/PDF/2024/24L219DP.PDF
+- 2024-11-27: Forma promulgată (FP): [fp-c9e0d2db.md](fp-c9e0d2db.md); official file https://www.senat.ro/legis/PDF/2024/24L219FP.PDF
