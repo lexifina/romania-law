@@ -19,6 +19,7 @@ Initiator: Membri ai Parlamentului.
 - 2024-11-05: adopted by the Chamber of Deputies
 - 2024-11-11: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2024-11-16: sent for promulgation
+- 2024-11-27: promulgated, becomes Legea nr. 295/2024; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -35,3 +36,5 @@ Initiator: Membri ai Parlamentului.
 - 2024-06-25: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L314AM.PDF
 - 2024-11-11: Adresă privind sesizarea CCR (AXS): [axs-7a187622.md](axs-7a187622.md); official file https://www.senat.ro/legis/PDF/2024/24L314AXS.PDF
 - 2024-11-11: Forma trimisă la promulgare (LP): [lp-8f72e894.md](lp-8f72e894.md); official file https://www.senat.ro/legis/PDF/2024/24L314LP.PDF
+- 2024-11-27: Decret de promulgare (DP): [dp-89d876e3.md](dp-89d876e3.md); official file https://www.senat.ro/legis/PDF/2024/24L314DP.PDF
+- 2024-11-27: Forma promulgată (FP): [fp-f83ac85b.md](fp-f83ac85b.md); official file https://www.senat.ro/legis/PDF/2024/24L314FP.PDF
