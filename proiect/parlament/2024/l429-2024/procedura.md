@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2024-11-05: adopted by the Chamber of Deputies
 - 2024-11-11: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2024-11-16: sent for promulgation
+- 2024-11-27: promulgated, becomes Legea nr. 296/2024; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -32,3 +33,5 @@ Initiator: Guvernul României.
 - 2024-09-24: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L429AM.PDF
 - 2024-11-11: Adresă privind sesizarea CCR (AXS): [axs-e172d110.md](axs-e172d110.md); official file https://www.senat.ro/legis/PDF/2024/24L429AXS.PDF
 - 2024-11-11: Forma trimisă la promulgare (LP): [lp-0f54d4c6.md](lp-0f54d4c6.md); official file https://www.senat.ro/legis/PDF/2024/24L429LP.PDF
+- 2024-11-27: Decret de promulgare (DP): [dp-8417253f.md](dp-8417253f.md); official file https://www.senat.ro/legis/PDF/2024/24L429DP.PDF
+- 2024-11-27: Forma promulgată (FP): [fp-f9d464dd.md](fp-f9d464dd.md); official file https://www.senat.ro/legis/PDF/2024/24L429FP.PDF
