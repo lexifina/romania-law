@@ -21,6 +21,7 @@ Initiator: Guvernul României.
 - 2024-05-13: adopted by the Senate
 - 2024-11-20: sent for promulgation
 - 2024-11-26: promulgated, becomes Legea nr. 293/2024; documents published: Decret de promulgare, Forma promulgată
+- 2024-11-28: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -40,3 +41,11 @@ Initiator: Guvernul României.
 - 2023-06-28: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L696LP.PDF
 - 2024-11-26: Decret de promulgare (DP): [dp-b531ecec.md](dp-b531ecec.md); official file https://www.senat.ro/legis/PDF/2022/22L696DP.PDF
 - 2024-11-26: Forma promulgată (FP): [fp-fbadc551.md](fp-fbadc551.md); official file https://www.senat.ro/legis/PDF/2022/22L696FP.PDF
+- 2024-11-28: Document (SC): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L696SC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2024-11-28: Document (DC): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L696DC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2024-11-28: Document (RC): [rc-974f00c3.md](rc-974f00c3.md); official file https://www.senat.ro/legis/PDF/2022/22L696RC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2024-11-28: Document (X1): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L696X1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2024-11-28: Document (XD): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L696XD.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2024-11-28: Document (SX): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L696SX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2024-11-28: Document (XXS): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L696XXS.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2024-11-28: Document (PX): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L696PX.PDF (its day is not given by the bill file: shown from the last stage held)
