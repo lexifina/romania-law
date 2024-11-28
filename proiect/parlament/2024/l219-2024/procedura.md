@@ -20,6 +20,7 @@ Initiator: Membri ai Parlamentului.
 - 2024-11-11: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2024-11-16: sent for promulgation
 - 2024-11-27: promulgated, becomes Legea nr. 298/2024; documents published: Decret de promulgare, Forma promulgată
+- 2024-11-28: published in the Monitorul Oficial
 
 ## Documents
 
