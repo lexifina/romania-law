@@ -22,6 +22,7 @@ Initiator: Membri ai Parlamentului.
 - 2024-11-11: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2024-11-16: sent for promulgation
 - 2024-11-27: promulgated, becomes Legea nr. 297/2024; documents published: Decret de promulgare, Forma promulgată
+- 2024-11-28: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -38,3 +39,6 @@ Initiator: Membri ai Parlamentului.
 - 2024-11-11: Forma trimisă la promulgare (LP): [lp-e22b2317.md](lp-e22b2317.md); official file https://www.senat.ro/legis/PDF/2024/24L125LP.PDF
 - 2024-11-27: Decret de promulgare (DP): [dp-30d0368e.md](dp-30d0368e.md); official file https://www.senat.ro/legis/PDF/2024/24L125DP.PDF
 - 2024-11-27: Forma promulgată (FP): [fp-15f64aad.md](fp-15f64aad.md); official file https://www.senat.ro/legis/PDF/2024/24L125FP.PDF
+- 2024-11-28: Document (AJ): [aj-2e443bb9.md](aj-2e443bb9.md); official file https://www.senat.ro/legis/PDF/2024/24L125AJ.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2024-11-28: Document (AT): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L125AT.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2024-11-28: Document (S1): [s1-e6ab26dc.md](s1-e6ab26dc.md); official file https://www.senat.ro/legis/PDF/2024/24L125S1.PDF (its day is not given by the bill file: shown from the last stage held)
