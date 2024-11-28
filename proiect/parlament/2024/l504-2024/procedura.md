@@ -20,6 +20,7 @@ Initiator: Guvernul României.
 - 2024-11-04: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2024-11-09: sent for promulgation
 - 2024-11-25: promulgated, becomes Legea nr. 291/2024; documents published: Decret de promulgare, Forma promulgată
+- 2024-11-28: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -37,3 +38,6 @@ Initiator: Guvernul României.
 - 2024-11-04: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L504LP.PDF
 - 2024-11-25: Decret de promulgare (DP): [dp-74d8dfc0.md](dp-74d8dfc0.md); official file https://www.senat.ro/legis/PDF/2024/24L504DP.PDF
 - 2024-11-25: Forma promulgată (FP): [fp-526a3827.md](fp-526a3827.md); official file https://www.senat.ro/legis/PDF/2024/24L504FP.PDF
+- 2024-11-28: Document (TX): [tx-a3e8d7b1.md](tx-a3e8d7b1.md); official file https://www.senat.ro/legis/PDF/2024/24L504TX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2024-11-28: Document (AL): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L504AL.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2024-11-28: Document (TC): [tc-99e0e18b.md](tc-99e0e18b.md); official file https://www.senat.ro/legis/PDF/2024/24L504TC.PDF (its day is not given by the bill file: shown from the last stage held)
