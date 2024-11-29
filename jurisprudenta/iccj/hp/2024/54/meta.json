@@ -1,0 +1,203 @@
+{
+ "key": "iccj-hp-54-2024",
+ "label": "Decizia ÎCCJ nr. 54/2024 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "54",
+ "date": "2024-10-21",
+ "year": "2024",
+ "heading": "DECIZIA nr. 54 din 21 octombrie 2024",
+ "subtitle": "referitoare la condițiile acordării majorării salariale prevăzute de Ordinul ministrului afacerilor interne nr. 35/2019 privind condițiile de stabilire a majorării salariale pentru munca suplimentară prestată de personalul cu statut special",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "1198",
+  "bis": false,
+  "date": "2024-11-29",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.641/1/2024",
+  "4.955/3/2024"
+ ],
+ "subjects": [],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Tribunalul București - Secția a VIII-a conflicte de muncă și asigurări sociale, în Dosarul nr. 4.955/3/2024, în vederea pronunțării unei hotărâri prealabile privind următoarea chestiune de drept:",
+  "Condițiile acordării majorării salariale prevăzute de Ordinul ministrului afacerilor interne nr. 35/2019 privind condițiile de stabilire a majorării salariale pentru munca suplimentară prestată de personalul cu statut special, precum și activitățile deosebite cu caracter operativ sau neprevăzut, prin raportare la dispozițiile art. 5 și 6 din acest act normativ, în situația în care munca suplimentară efectiv prestată depășește fondurile bugetare acordate cu această destinație.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 62/2024",
+    "number": "62",
+    "year": "2024",
+    "path": "oug/2024/62"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul ministrului afacerilor interne nr. 35/2019",
+    "number": "35",
+    "year": "2019"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 114/2018",
+    "number": "114",
+    "year": "2018",
+    "path": "oug/2018/114"
+   },
+   "articles": [
+    {
+     "art": "35",
+     "alin": [
+      "4",
+      "3",
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [
+  "subjects: none parsed"
+ ],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2024-11-29",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/291791",
+  "text_sha256": "9e23a060ceb493f283381c43ac1233efaef186375c66094cbf07aafecf6061db",
+  "catalogue_sha256": "9e23a060ceb493f283381c43ac1233efaef186375c66094cbf07aafecf6061db",
+  "fetched": "2026-11-03T01:03:24Z",
+  "chars": 30579,
+  "portal_id": "291791",
+  "tip": "DECIZIE"
+ }
+}
