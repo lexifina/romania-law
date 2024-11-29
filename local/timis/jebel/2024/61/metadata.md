@@ -1,0 +1,10 @@
+# HCL Jebel nr. 61/2024
+
+Text not yet included: no document of it is held. It will be added when it is.
+
+- Council: Consiliul Local al Comunei Jebel
+- Decision: nr. 61/2024
+- Adopted: 2024-11-15
+- Published: 2024-11-29
+- Title: privind aprobarea Regulamentului de Organizare și Funcționare al Consiliului Local Jebel, județul Timiș
+- Record: https://emol.ro/jebel-tm/registru-hcl/176651
