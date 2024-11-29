@@ -22,6 +22,7 @@ Initiator: Guvernul României.
 - 2024-11-11: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2024-11-13: sent for promulgation
 - 2024-11-26: promulgated, becomes Legea nr. 294/2024; documents published: Decret de promulgare, Forma promulgată
+- 2024-11-29: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -43,3 +44,4 @@ Initiator: Guvernul României.
 - 2024-11-11: Forma trimisă la promulgare (LP): [lp-f00189de.md](lp-f00189de.md); official file https://www.senat.ro/legis/PDF/2024/24L369LP.PDF
 - 2024-11-26: Decret de promulgare (DP): [dp-fdaa6edf.md](dp-fdaa6edf.md); official file https://www.senat.ro/legis/PDF/2024/24L369DP.PDF
 - 2024-11-26: Forma promulgată (FP): [fp-a0e5a273.md](fp-a0e5a273.md); official file https://www.senat.ro/legis/PDF/2024/24L369FP.PDF
+- 2024-11-29: Document (TA): [ta-b0313157.md](ta-b0313157.md); official file https://www.senat.ro/legis/PDF/2024/24L369TA.PDF (its day is not given by the bill file: shown from the last stage held)
