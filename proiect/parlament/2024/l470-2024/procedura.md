@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2024-11-05: adopted by the Chamber of Deputies
 - 2024-11-11: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2024-11-16: sent for promulgation
+- 2024-12-02: promulgated, becomes Legea nr. 300/2024; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -36,3 +37,5 @@ Initiator: Guvernul României.
 - 2024-09-23: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L470AM.PDF
 - 2024-11-11: Adresă privind sesizarea CCR (AXS): [axs-8e695988.md](axs-8e695988.md); official file https://www.senat.ro/legis/PDF/2024/24L470AXS.PDF
 - 2024-11-11: Forma trimisă la promulgare (LP): [lp-8cde536c.md](lp-8cde536c.md); official file https://www.senat.ro/legis/PDF/2024/24L470LP.PDF
+- 2024-12-02: Decret de promulgare (DP): [dp-275a006a.md](dp-275a006a.md); official file https://www.senat.ro/legis/PDF/2024/24L470DP.PDF
+- 2024-12-02: Forma promulgată (FP): [fp-d454ce9e.md](fp-d454ce9e.md); official file https://www.senat.ro/legis/PDF/2024/24L470FP.PDF
