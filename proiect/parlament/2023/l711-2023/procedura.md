@@ -20,6 +20,7 @@ Initiator: Membri ai Parlamentului.
 - 2024-11-05: adopted by the Chamber of Deputies
 - 2024-11-11: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2024-11-16: sent for promulgation
+- 2024-12-02: promulgated, becomes Legea nr. 302/2024; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -36,3 +37,5 @@ Initiator: Membri ai Parlamentului.
 - 2024-02-12: Adresă către Camera Deputaților (AM): [am-810bda73.md](am-810bda73.md); official file https://www.senat.ro/legis/PDF/2023/23L711AM.PDF
 - 2024-11-11: Adresă privind sesizarea CCR (AXS): [axs-f4fd533b.md](axs-f4fd533b.md); official file https://www.senat.ro/legis/PDF/2023/23L711AXS.PDF
 - 2024-11-11: Forma trimisă la promulgare (LP): [lp-7f2330a5.md](lp-7f2330a5.md); official file https://www.senat.ro/legis/PDF/2023/23L711LP.PDF
+- 2024-12-02: Decret de promulgare (DP): [dp-d9f619b2.md](dp-d9f619b2.md); official file https://www.senat.ro/legis/PDF/2023/23L711DP.PDF
+- 2024-12-02: Forma promulgată (FP): [fp-36394235.md](fp-36394235.md); official file https://www.senat.ro/legis/PDF/2023/23L711FP.PDF
