@@ -1,0 +1,190 @@
+{
+ "key": "iccj-scaf-4607-2024",
+ "label": "Decizia ÎCCJ nr. 4607/2024 (SCAF)",
+ "court": "iccj",
+ "kind": "alta",
+ "panel": "scaf",
+ "number": "4607",
+ "date": "2024-10-16",
+ "year": "2024",
+ "heading": "DECIZIA nr. 4.607 din 16 octombrie 2024",
+ "subtitle": "referitoare la punctul 9 lit. d) și lit. f) din instrucțiunile privind individualizarea sancțiunilor pentru contravențiile prevăzute la art. 55 din Legea concurenței nr. 21/1996, puse în aplicare prin Ordinul C.C. nr. 1.037/2019",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - SECȚIA DE CONTENCIOS ADMINISTRATIV ȘI FISCAL",
+ "mo": {
+  "number": "1214",
+  "bis": false,
+  "date": "2024-12-03",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "4.155/2/2020"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea concurenței nr. 21/1996",
+    "number": "21",
+    "year": "1996",
+    "path": "lege/1996/21"
+   },
+   "articles": [
+    {
+     "art": "55",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite recursul declarat de recurenta-reclamantă A.S.F. din România - A. împotriva Sentinței nr. 2.342 din 13 decembrie 2022 a Curții de Apel B. - Secția a VIII-a contencios administrativ și fiscal.",
+  "Casează sentința recurată și, în rejudecare:",
+  "Admite, în parte, acțiunea formulată de reclamanta A.S.F. din România - A.",
+  "Anulează punctul 9 lit. d) și lit. f) din instrucțiunile privind individualizarea sancțiunilor pentru contravențiile prevăzute la art. 55 din Legea concurenței nr. 21/1996, puse în aplicare prin Ordinul C.C. nr. 1.037/2019.",
+  "Dispune publicarea prezentei decizii în Monitorul Oficial al României, Partea I.",
+  "Definitivă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea concurenței nr. 21/1996",
+    "number": "21",
+    "year": "1996",
+    "path": "lege/1996/21"
+   },
+   "articles": [
+    {
+     "art": "55",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "27",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "68",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "488",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 52/2003",
+    "number": "52",
+    "year": "2003",
+    "path": "lege/2003/52"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": [
+      "2",
+      "4",
+      "8"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului fiscal",
+    "path": "lege/2015/227",
+    "slug": "codul-fiscal"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinului nr. 1.037/2019",
+    "number": "1037",
+    "year": "2019"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituției",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2024-12-03",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/291975",
+  "text_sha256": "c60fc8cb1c1aa752b64765a280cbe2b2fc748a7d170c91272cb6dab07013c00a",
+  "catalogue_sha256": "c60fc8cb1c1aa752b64765a280cbe2b2fc748a7d170c91272cb6dab07013c00a",
+  "fetched": "2026-11-03T01:03:14Z",
+  "chars": 23100,
+  "portal_id": "291975",
+  "tip": "DECIZIE"
+ }
+}
