@@ -16,6 +16,7 @@ Initiator: Guvernul României.
 - 2024-11-06: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
 - 2024-11-18: documents published: Aviz comisie
 - 2024-11-26: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă privind sesizarea CCR, Forma trimisă la promulgare
+- 2024-12-04: sent for promulgation
 
 ## Documents
 
