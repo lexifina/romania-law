@@ -1,0 +1,2 @@
+# ANEXĂ
+ANEXĂ la Ordinul Băncii Naționale a României nr. 7/2024 privind modificarea și completarea Ordinului Băncii Naționale a României nr. 4/2022 pentru aprobarea Normelor metodologice privind întocmirea situațiilor financiare periodice la nivel individual, conforme cu Standardele internaționale de raportare financiară, aplicabile instituțiilor financiare nebancare în scopuri de monitorizare/supraveghere prudențială
