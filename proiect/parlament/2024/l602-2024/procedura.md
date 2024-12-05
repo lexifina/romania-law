@@ -16,6 +16,7 @@ Initiator: Guvernul României.
 - 2024-11-13: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
 - 2024-11-26: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2024-12-04: sent for promulgation
+- 2024-12-05: promulgated, becomes Legea nr. 303/2024; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -28,3 +29,5 @@ Initiator: Guvernul României.
 - 2024-11-26: Forma adoptată de Senat (FS): [fs-3f27cb37.md](fs-3f27cb37.md); official file https://www.senat.ro/legis/PDF/2024/24L602FS.PDF
 - 2024-11-26: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L602AXS.PDF
 - 2024-11-26: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L602LP.PDF
+- 2024-12-05: Decret de promulgare (DP): [dp-bfacfab6.md](dp-bfacfab6.md); official file https://www.senat.ro/legis/PDF/2024/24L602DP.PDF
+- 2024-12-05: Forma promulgată (FP): [fp-80d2e6d3.md](fp-80d2e6d3.md); official file https://www.senat.ro/legis/PDF/2024/24L602FP.PDF
