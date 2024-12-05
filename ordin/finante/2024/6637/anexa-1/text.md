@@ -1,0 +1,4 @@
+# Anexe nr. 1- 6
+ANEXE cu privire la Termenii finali ai emisiunilor de titluri de stat, denominate în lei și euro, lansate în perioada 9-18 decembrie 2024, în baza Prospectului de bază pentru Programul FIDELIS de emisiuni de titluri de stat destinate exclusiv investitorilor persoane fizice emise de Ministerul Finanțelor, ce urmează a fi listate pe piața reglementată administrată de Bursa de Valori București - S.A. și supravegheată de către
+Autoritatea de Supraveghere Financiară, aprobat prin
+Ordinul ministrului finanțelor publice nr. 2.118/2020
