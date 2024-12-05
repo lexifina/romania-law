@@ -1,0 +1,16 @@
+# Anexa nr. 7
+DECLARAȚIE de consimțământ cu privire la prelucrarea datelor cu caracter personal
+Autoritatea Națională pentru Calificări, cu sediul în București, piața Valter Mărăcineanu nr. 1-3, intrarea B, etajul 2, camera 117, CUI 28911460, operator de date cu caracter personal, prelucrează datele cu caracter personal ale persoanelor vizate (nume, prenume, CNP, număr și serie carte de identitate, adresa de domiciliu, conturi de e-mail, imagine, telefon etc.) prin mijloace automatizate/manuale în vederea scopului specificat în declarație.
+Datele furnizate sunt destinate utilizării de către operator, sunt comunicate persoanei vizate sau reprezentantului legal al persoanei vizate și nu vor fi transferate către alte entități, cu excepția autorităților competente de cercetare a unor fapte penale, la solicitarea acestora.
+Astfel, în vederea unei prelucrări echitabile și transparente și pentru garantarea demnității umane, a intereselor legitime și a drepturilor fundamentale ale persoanelor vizate operatorul pune la dispoziție persoanei vizate următoarele informații, conform Regulamentului (UE) 2016/679 al Parlamentului European și al Consiliului din 27 aprilie 2016: - dreptul de a cunoaște perioada pentru care vor fi stocate datele cu caracter personal conform prevederilor legale, destinatarii sau categoriile de destinatari ai datelor, datele de contact ale responsabilului cu protecția datelor;
+- dreptul de a solicita accesul la acestea printr-o cerere scrisă, semnată și datată, de rectificare, blocare, restricționare sau ștergere a acestora (dreptul de a fi uitat), precum și dreptul de a se opune prelucrării;
+- dreptul de a retrage consimțământul în orice moment, fără a afecta legalitatea prelucrării efectuate pe baza consimțământului înainte de retragerea acestuia;
+- dreptul de a nu fi supus unei decizii individuale;
+- dreptul de a depune o plângere în fața autorității de supraveghere.
+Subsemnatul/a..........................................., având datele de identificare:................................, declar pe propria răspundere că îmi dau acordul cu privire la utilizarea și prelucrarea datelor mele personale în scopul..........................., iar aceste date corespund realității.
+În acest sens, sunt de acord cu depunerea de copii ale următoarelor documente........................................................................................................................................................., ele fiind necesare în scopul anterior menționat.
+Am luat cunoștință de faptul că refuzul meu determină refuzul operatorului în vederea evaluării și certificării în conformitate cu prevederile Ordinului ministrului educației nr. 7.432/2024 pentru aprobarea Metodologiei privind criteriile și procedurile de evaluare și certificare a evaluatorilor de competențe profesionale, a evaluatorilor de evaluatori și a evaluatorilor externi.
+Am luat cunoștință de faptul că datele vor fi tratate confidențial, în conformitate cu prevederile Regulamentului (UE) 2016/679 al Parlamentului European și al Consiliului din 27 aprilie 2016 privind protecția persoanelor fizice în ceea ce privește prelucrarea datelor cu caracter personal și libera circulație a acestor date, cu modificările și completările ulterioare.
+Data.............................
+Semnătura.......................................................
+-----
