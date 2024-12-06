@@ -1,0 +1,308 @@
+{
+ "key": "iccj-ril-16-2024",
+ "label": "Decizia ÎCCJ nr. 16/2024 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "16",
+ "date": "2024-09-16",
+ "year": "2024",
+ "heading": "DECIZIA nr. 16 din 16 septembrie 2024",
+ "subtitle": "referitoare la actele de procedură anterioare datei de 25 iunie 2018 (data publicării Deciziei nr. 297/2018) și actele întrerupătoare de prescripție ulterioare datei de 30 mai 2022 (data publicării Ordonanței de urgență a Guvernului nr. 71/2022)",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU SOLUȚIONAREA RECURSULUI ÎN INTERESUL LEGII",
+ "mo": {
+  "number": "1229",
+  "bis": false,
+  "date": "2024-12-06",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "1.094/1/2024"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 71/2022",
+    "number": "71",
+    "year": "2022",
+    "path": "oug/2022/71"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite recursul în interesul legii formulat de Colegiul de conducere al Curții de Apel Brașov și stabilește că: 1.",
+  "Actele de procedură emise anterior datei de 25 iunie 2018 (data publicării în Monitorul Oficial al României, Partea I, nr. 518 din 25 iunie 2018 a Deciziei Curții Constituționale nr. 297/2018) au efect întreruptiv al prescripției răspunderii penale, indiferent de valoarea prejudiciului, fără a fi necesară evaluarea în concret a unui risc sistemic de impunitate, în toate cauzele având ca obiect infracțiuni contra intereselor financiare ale Uniunii Europene și infracțiuni de corupție, numai dacă legea penală mai favorabilă stabilită în mod global potrivit Deciziei Curții Constituționale nr. 265 din 6 mai 2014 (publicată în Monitorul Oficial al României, Partea I, nr. 372 din 20 mai 2014) este Codul penal sau legislația specială conținând dispoziții penale în forma în vigoare între 1 februarie 2014 și 24 iunie 2018.",
+  "2. Actele de procedură pentru care există obligația legală de a fi comunicate suspectului sau inculpatului ulterior datei de 30 mai 2022 (data publicării Ordonanței de urgență a Guvernului nr. 71/2022) întrerup curgerea termenului de prescripție a răspunderii penale numai cu privire la faptele comise începând cu data de 30 mai 2022 ori cu privire la faptele săvârșite anterior, numai dacă legea penală mai favorabilă stabilită în mod global potrivit Deciziei Curții Constituționale nr. 265 din 6 mai 2014 (publicată în Monitorul Oficial al României, Partea I, nr. 372 din 20 mai 2014) este Codul penal sau legislația specială conținând dispoziții penale în forma în vigoare începând cu data de 30 mai 2022.",
+  "Obligatorie de la data publicării în Monitorul Oficial al României, Partea I, potrivit art. 474 alin. (4) din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 71/2022",
+    "number": "71",
+    "year": "2022",
+    "path": "oug/2022/71"
+   },
+   "articles": [],
+   "mentions": 19
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "471",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "473",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "472",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "474",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "155",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 43
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituției",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "147",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "5",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "148",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "152",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "61",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 19
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "49",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "325",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "9",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": [
+      "12"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 74
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2024-12-06",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/292074",
+  "text_sha256": "deb084b483f534ff5647db5b87107eaaa633447a42416947ecf60b451693f222",
+  "catalogue_sha256": "deb084b483f534ff5647db5b87107eaaa633447a42416947ecf60b451693f222",
+  "fetched": "2026-11-03T21:00:26Z",
+  "chars": 160873,
+  "portal_id": "292074",
+  "tip": "DECIZIE"
+ }
+}
