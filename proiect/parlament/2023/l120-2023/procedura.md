@@ -20,6 +20,7 @@ Initiator: Membri ai Parlamentului.
 - 2024-11-12: adopted by the Chamber of Deputies
 - 2024-11-18: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2024-11-23: sent for promulgation
+- 2024-12-06: promulgated, becomes Legea nr. 309/2024; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -36,3 +37,5 @@ Initiator: Membri ai Parlamentului.
 - 2023-04-03: Adresă către Camera Deputaților (AM): [am-70b6c892.md](am-70b6c892.md); official file https://www.senat.ro/legis/PDF/2023/23L120AM.PDF
 - 2024-11-18: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L120AXS.PDF
 - 2024-11-18: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L120LP.PDF
+- 2024-12-06: Decret de promulgare (DP): [dp-25d1051d.md](dp-25d1051d.md); official file https://www.senat.ro/legis/PDF/2023/23L120DP.PDF
+- 2024-12-06: Forma promulgată (FP): [fp-73d46f6a.md](fp-73d46f6a.md); official file https://www.senat.ro/legis/PDF/2023/23L120FP.PDF
