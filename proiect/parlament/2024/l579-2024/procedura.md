@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2024-11-26: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2024-12-04: sent for promulgation
 - 2024-12-05: promulgated, becomes Legea nr. 304/2024; documents published: Decret de promulgare, Forma promulgată
+- 2024-12-06: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -34,3 +35,6 @@ Initiator: Guvernul României.
 - 2024-11-26: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L579LP.PDF
 - 2024-12-05: Decret de promulgare (DP): [dp-3d9a156d.md](dp-3d9a156d.md); official file https://www.senat.ro/legis/PDF/2024/24L579DP.PDF
 - 2024-12-05: Forma promulgată (FP): [fp-2b2c4e99.md](fp-2b2c4e99.md); official file https://www.senat.ro/legis/PDF/2024/24L579FP.PDF
+- 2024-12-06: Document (TX): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L579TX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2024-12-06: Document (AL): [al-b13993fe.md](al-b13993fe.md); official file https://www.senat.ro/legis/PDF/2024/24L579AL.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2024-12-06: Document (TC): [tc-360ea685.md](tc-360ea685.md); official file https://www.senat.ro/legis/PDF/2024/24L579TC.PDF (its day is not given by the bill file: shown from the last stage held)
