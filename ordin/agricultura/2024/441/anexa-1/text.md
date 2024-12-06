@@ -1,0 +1,2 @@
+# ANEXĂ
+PROCEDURĂ OPERAȚIONALĂ privind efectuarea controlului pe teren pentru cererile de plată aferente pachetului 8, măsura 10 "Creșterea animalelor de fermă din rase locale în pericol de abandon" din cadrul Programului Național de Dezvoltare Rurală 2014-2020/intervenției DR-03 - Agromediu și climă - Creșterea animalelor de fermă din rase locale în pericol de abandon din cadrul Planului strategic PAC 2023-2027
