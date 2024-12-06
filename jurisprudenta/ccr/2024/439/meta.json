@@ -1,0 +1,212 @@
+{
+ "key": "dcc-439-2024",
+ "label": "Decizia CCR nr. 439/2024",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "439",
+ "date": "2024-09-24",
+ "year": "2024",
+ "heading": "DECIZIA nr. 439 din 24 septembrie 2024",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 453 alin. (1) lit. a) și alin. (4) din Codul de procedură penală",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "1231",
+  "bis": false,
+  "date": "2024-12-06",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata",
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "26.297/300/2019",
+  "1.047D/2020"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "453",
+     "alin": [
+      "1",
+      "4"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "1. Respinge, ca inadmisibilă, excepția de neconstituționalitate a dispozițiilor art. 453 alin. (1) lit. a) din Codul de procedură penală, excepție ridicată de Parchetul de pe lângă Judecătoria Sectorului 2 în Dosarul nr. 26.297/300/2019 al Judecătoriei Sectorului 2 București - Secția penală.",
+  "2. Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de același autor în același dosar al aceleiași instanțe și constată că dispozițiile art. 453 alin. (4) din Codul de procedură penală sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Judecătoriei Sectorului 2 București - Secția penală și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "453",
+     "alin": [
+      "1",
+      "4"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "126",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "129",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 19
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "131",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "31",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 201/2023",
+    "number": "201",
+    "year": "2023",
+    "path": "lege/2023/201"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2024-12-06",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/292100",
+  "text_sha256": "269eee9edb9dab4700009e9db4954cb09b89f60b46ace83ccac5528fa4bf86e8",
+  "catalogue_sha256": "269eee9edb9dab4700009e9db4954cb09b89f60b46ace83ccac5528fa4bf86e8",
+  "fetched": "2026-11-03T01:03:10Z",
+  "chars": 21567,
+  "portal_id": "292100",
+  "tip": "DECIZIE"
+ }
+}
