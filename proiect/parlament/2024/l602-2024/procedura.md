@@ -17,6 +17,7 @@ Initiator: Guvernul României.
 - 2024-11-26: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2024-12-04: sent for promulgation
 - 2024-12-05: promulgated, becomes Legea nr. 303/2024; documents published: Decret de promulgare, Forma promulgată
+- 2024-12-06: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -31,3 +32,7 @@ Initiator: Guvernul României.
 - 2024-11-26: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L602LP.PDF
 - 2024-12-05: Decret de promulgare (DP): [dp-bfacfab6.md](dp-bfacfab6.md); official file https://www.senat.ro/legis/PDF/2024/24L602DP.PDF
 - 2024-12-05: Forma promulgată (FP): [fp-80d2e6d3.md](fp-80d2e6d3.md); official file https://www.senat.ro/legis/PDF/2024/24L602FP.PDF
+- 2024-12-06: Document (DR): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L602DR.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2024-12-06: Document (TX): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L602TX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2024-12-06: Document (AL): [al-2b017547.md](al-2b017547.md); official file https://www.senat.ro/legis/PDF/2024/24L602AL.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2024-12-06: Document (TC): [tc-3b078936.md](tc-3b078936.md); official file https://www.senat.ro/legis/PDF/2024/24L602TC.PDF (its day is not given by the bill file: shown from the last stage held)
