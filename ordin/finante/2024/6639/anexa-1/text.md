@@ -1,0 +1,3 @@
+# ANEXĂ
+NORME METODOLOGICE privind mecanismul de acordare și derulare a împrumuturilor acordate unităților administrativ-teritoriale conform
+Ordonanței de urgență a Guvernului nr. 133/2024 pentru asigurarea unor împrumuturi din Trezoreria Statului, documentele în baza cărora se acordă împrumutul și cele care stau la baza obținerii avizului Comisiei de autorizare a împrumuturilor locale, precum și modul de reflectare a sumelor respective în bugetele instituțiilor publice locale
