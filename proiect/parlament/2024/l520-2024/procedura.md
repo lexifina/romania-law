@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2024-11-18: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2024-11-20: sent for promulgation
 - 2024-12-05: promulgated, becomes Legea nr. 307/2024; documents published: Decret de promulgare, Forma promulgată
+- 2024-12-06: published in the Monitorul Oficial
 
 ## Documents
 
