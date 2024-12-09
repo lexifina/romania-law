@@ -21,6 +21,7 @@ Initiator: Membri ai Parlamentului.
 - 2024-11-18: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2024-11-23: sent for promulgation
 - 2024-12-06: promulgated, becomes Legea nr. 310/2024; documents published: Decret de promulgare, Forma promulgată
+- 2024-12-09: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -38,3 +39,4 @@ Initiator: Membri ai Parlamentului.
 - 2024-11-18: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L258LP.PDF
 - 2024-12-06: Decret de promulgare (DP): [dp-b4fc1ae9.md](dp-b4fc1ae9.md); official file https://www.senat.ro/legis/PDF/2023/23L258DP.PDF
 - 2024-12-06: Forma promulgată (FP): [fp-419a9d6e.md](fp-419a9d6e.md); official file https://www.senat.ro/legis/PDF/2023/23L258FP.PDF
+- 2024-12-09: Document (CC): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L258CC.PDF (its day is not given by the bill file: shown from the last stage held)
