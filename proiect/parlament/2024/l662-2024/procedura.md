@@ -12,6 +12,7 @@ Initiator: Membri ai Parlamentului.
 - 2024-06-25: documents published: Aviz Consiliul Economic și Social, Aviz Consiliul Legislativ
 - 2024-07-23: registered at the Senate
 - 2024-09-10: registered at the Chamber of Deputies
+- 2024-12-10: adopted by the Chamber of Deputies
 
 ## Documents
 
