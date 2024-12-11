@@ -1,0 +1,40 @@
+{
+ "key": "cjue-t-554-22-hotarare-2024-12-11",
+ "label": "CJUE, Hotărârea Tribunalului (Camera a patra) din 11 decembrie 2024, Cauza T-554/22",
+ "court": "cjue",
+ "court_name": "Curtea de Justiție a Uniunii Europene",
+ "kind": "hotarare",
+ "act_type": "JUDG",
+ "date": "2024-12-11",
+ "year": "2024",
+ "case": "Cauza T-554/22",
+ "celex": "62022TJ0554",
+ "ecli": "ECLI:EU:T:2024:895",
+ "heading": "Hotărârea Tribunalului (Camera a patra) din 11 decembrie 2024",
+ "formation": "CHAMB_04_T",
+ "procedure": "ACTION_ANNU",
+ "romania_role": [
+  "originates"
+ ],
+ "referred_by": null,
+ "referral_text": null,
+ "national_followup": null,
+ "parties": null,
+ "parties_withheld": true,
+ "keywords": "Mediu – Directiva 2003/87/CE – Schemă de comercializare a certificatelor de emisii de gaze cu efect de seră – Norme tranzitorii privind alocarea armonizată a certificatelor de emisii cu titlu gratuit pentru perioada 2021-2030 – Modificări aduse tabelului național de alocare pentru România pentru perioada 2021-2025 – Alocare tranzitorie cu titlu gratuit de certificate de emisii de gaze cu efect de seră pentru instalații care produc var nestins – Obligația de motivare – Dreptul de a fi ascultat – Principiul bunei administrări – Eroare de drept – Eroare vădită de apreciere – Egalitate de tratament – Securitate juridică – Încredere legitimă",
+ "interprets": [],
+ "text": null,
+ "text_withheld": "personal_data",
+ "withheld_reason": "The full text names the parties' lawyers (and, in older cases, private parties); only the metadata and the operative part are published here, with the official link.",
+ "operative_missing": true,
+ "eurlex_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62022TJ0554",
+ "curia_url": "https://curia.europa.eu/juris/liste.jsf?num=T-554/22&language=ro",
+ "source": {
+  "name": "CELLAR, Publications Office of the European Union",
+  "url": null,
+  "format": null,
+  "sha256": null
+ },
+ "legal_basis": "Jurisprudența Curții de Justiție a Uniunii Europene (texte oficiale; reutilizare permisă cu menționarea sursei: Decizia Comisiei 2011/833/UE și condițiile CURIA; © Uniunea Europeană). Textele oficiale nu sunt protejate de dreptul de autor în România (Legea nr. 8/1996, art. 9 lit. b).",
+ "attribution": "© European Union, https://eur-lex.europa.eu (via the Publications Office CELLAR)"
+}
