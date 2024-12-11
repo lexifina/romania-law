@@ -17,6 +17,7 @@ Initiator: Guvernul României.
 - 2024-11-18: adopted by the Senate; documents published: Forma adoptată de Senat
 - 2024-11-26: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2024-12-07: sent for promulgation
+- 2024-12-11: promulgated, becomes Legea nr. 311/2024; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -29,3 +30,5 @@ Initiator: Guvernul României.
 - 2024-11-18: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L545FS.PDF
 - 2024-11-26: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L545AXS.PDF
 - 2024-11-26: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L545LP.PDF
+- 2024-12-11: Decret de promulgare (DP): [dp-e8697d65.md](dp-e8697d65.md); official file https://www.senat.ro/legis/PDF/2024/24L545DP.PDF
+- 2024-12-11: Forma promulgată (FP): [fp-7ac43385.md](fp-7ac43385.md); official file https://www.senat.ro/legis/PDF/2024/24L545FP.PDF
