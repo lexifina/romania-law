@@ -1,0 +1,10 @@
+# HCL 23 August nr. 166/2024
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+- Council: Consiliul Local al Comunei 23 August
+- Decision: nr. 166/2024
+- Adopted: 2024-11-28
+- Published: 2024-12-12
+- Title: RECTIFICARE BUGET TRIMESTRUL IV
+- Record: https://emol.ro/23august-ct/registru-hcl/181791
