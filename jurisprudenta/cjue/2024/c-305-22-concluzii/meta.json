@@ -1,0 +1,42 @@
+{
+ "key": "cjue-c-305-22-concluzii-2024-12-12",
+ "label": "CJUE, Concluziile avocatului general domnul J. Richard de la Tour prezentate la 12 decembrie 2024, Cauza C-305/22.",
+ "court": "cjue",
+ "court_name": "Curtea de Justiție a Uniunii Europene",
+ "kind": "concluzii",
+ "act_type": "OPIN_AG",
+ "date": "2024-12-12",
+ "year": "2024",
+ "case": "Cauza C-305/22.",
+ "celex": "62022CC0305(01)",
+ "ecli": "ECLI:EU:C:2024:1030",
+ "heading": "Concluziile avocatului general domnul J. Richard de la Tour prezentate la 12 decembrie 2024",
+ "formation": null,
+ "procedure": "REFER_PREL",
+ "romania_role": [
+  "originates"
+ ],
+ "referred_by": null,
+ "referral_text": "Cererea de decizie preliminară formulată de Curtea de Apel Bucureşti.",
+ "national_followup": null,
+ "parties": null,
+ "parties_withheld": false,
+ "keywords": "Trimitere preliminară – Spațiul de libertate, securitate și justiție – Cooperarea judiciară în materie penală – Decizia‑cadru 2002/584/JAI – Mandat european de arestare emis în scopul executării unei pedepse privative de libertate – Articolul 4 punctul 6 – Motiv de neexecutare facultativă a mandatului european de arestare – Condițiile preluării executării acestei pedepse de către statul de executare – Articolul 3 punctul 2 – Noțiunea de «judecată definitiv[ă] […] pentru aceleași fapte» – Decizia‑cadru 2008/909/JAI – Recunoaștere reciprocă a hotărârilor judecătorești în materie penală în scopul executării lor în alt stat membru – Articolul 25 – Respectarea condițiilor și a procedurii prevăzute de această decizie‑cadru în cazurile în care un stat membru se angajează să execute o pedeapsă aplicată printr‑o hotărâre judecătorească pronunțată de o instanță din statul emitent – Cerința consimțământului statului emitent în ceea ce privește preluarea executării unei astfel de pedepse de către un alt stat membru – Articolul 4 – Posibilitate acordată statului emitent de a transmite statului de executare hotărârea judecătorească și certificatul prevăzute la acest articol – Consecințele lipsei unei astfel de transmiteri – Principiul cooperării loiale – Articolul 22 – Dreptul statului emitent de a executa această pedeapsă – Menținerea mandatului european de arestare – Obligația autorității judiciare de executare de a executa mandatul european de arestare.",
+ "interprets": [],
+ "text": null,
+ "text_withheld": "personal_data",
+ "withheld_reason": "The full text names the parties' lawyers (and, in older cases, private parties); only the metadata and the operative part are published here, with the official link.",
+ "operative_missing": null,
+ "eurlex_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62022CC0305(01)",
+ "curia_url": "https://curia.europa.eu/juris/liste.jsf?num=C-305/22&language=ro",
+ "source": {
+  "name": "CELLAR, Publications Office of the European Union",
+  "url": "http://publications.europa.eu/resource/cellar/5fb6a1fc-b87a-11ef-91ed-01aa75ed71a1.0021.05/DOC_1",
+  "format": "xhtml",
+  "sha256": [
+   "465bd033175a4d6dd1d3e2a0d990c28a98c994e81d1da2cd1d457bc2ddc06dfd"
+  ]
+ },
+ "legal_basis": "Jurisprudența Curții de Justiție a Uniunii Europene (texte oficiale; reutilizare permisă cu menționarea sursei: Decizia Comisiei 2011/833/UE și condițiile CURIA; © Uniunea Europeană). Textele oficiale nu sunt protejate de dreptul de autor în România (Legea nr. 8/1996, art. 9 lit. b).",
+ "attribution": "© European Union, https://eur-lex.europa.eu (via the Publications Office CELLAR)"
+}
