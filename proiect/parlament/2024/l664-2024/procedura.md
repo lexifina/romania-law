@@ -14,6 +14,7 @@ Initiator: Membri ai Parlamentului.
 - 2024-09-23: registered at the Chamber of Deputies
 - 2024-12-10: documents published: Raport comisie sesizată pe fond
 - 2024-12-11: rejected by the Chamber of Deputies
+- 2024-12-12: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 
 ## Documents
 
@@ -22,3 +23,6 @@ Initiator: Membri ai Parlamentului.
 - 2024-07-16: Punct de vedere Guvern (SJ): [sj-3d8aea6f.md](sj-3d8aea6f.md); official file https://www.senat.ro/legis/PDF/2024/24L664SJ.PDF
 - 2024-07-16: Punct de vedere (PV): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L664PV.PDF
 - 2024-12-10: Raport comisie sesizată pe fond (CR): [cr-f8bca743.md](cr-f8bca743.md); official file https://www.senat.ro/legis/PDF/2024/24L664CR.PDF
+- 2024-12-12: Adresă de înaintare a inițiativei (AD): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L664AD.PDF
+- 2024-12-12: Forma inițiatorului (FG): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L664FG.PDF
+- 2024-12-12: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L664EM.PDF
