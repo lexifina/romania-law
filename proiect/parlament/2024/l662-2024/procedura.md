@@ -13,8 +13,12 @@ Initiator: Membri ai Parlamentului.
 - 2024-07-23: registered at the Senate
 - 2024-09-10: registered at the Chamber of Deputies
 - 2024-12-10: adopted by the Chamber of Deputies
+- 2024-12-12: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 
 ## Documents
 
 - 2024-06-25: Aviz Consiliul Economic și Social (ES): [es-67c5b0aa.md](es-67c5b0aa.md); official file https://www.senat.ro/legis/PDF/2024/24L662ES.PDF
 - 2024-06-25: Aviz Consiliul Legislativ (LG): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L662LG.PDF
+- 2024-12-12: Adresă de înaintare a inițiativei (AD): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L662AD.PDF
+- 2024-12-12: Forma inițiatorului (FG): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L662FG.PDF
+- 2024-12-12: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L662EM.PDF
