@@ -1,0 +1,22 @@
+# Proiect de lege L660/2024
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 97/2025 (`legea-97-2025`).
+
+Proiect de lege privind aprobarea Ordonanţei de urgenţã a Guvernului nr.145/2024 pentru modificarea art.16 alin.(1) din Legea nr.195/2018 privind aprobarea Programului de susținere a crescătorilor de suine pentru activitatea de reproducție, precum și a art.15 alin.(1) din Legea nr.227/2018 privind aprobarea Programului de susținere pentru activitatea de reproducție, incubație și de creștere în sectorul avicol
+
+Initiator: Guvernul României.
+
+## Stages published so far
+
+- 2024-12-13: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+
+## Documents
+
+- 2024-12-13: Adresă de înaintare a inițiativei (AD): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L660AD.PDF
+- 2024-12-13: Forma inițiatorului (FG): [fg-e67344ac.md](fg-e67344ac.md); official file https://www.senat.ro/legis/PDF/2024/24L660FG.PDF
+- 2024-12-13: Expunere de motive (EM): [em-43c3d46e.md](em-43c3d46e.md); official file https://www.senat.ro/legis/PDF/2024/24L660EM.PDF
+- 2024-12-13: Aviz Consiliul Legislativ (LG): [lg-4b0b240c.md](lg-4b0b240c.md); official file https://www.senat.ro/legis/PDF/2024/24L660LG.PDF
+- 2024-12-13: Document (OG): [og-511ed723.md](og-511ed723.md); official file https://www.senat.ro/legis/PDF/2024/24L660OG.PDF
+- 2024-12-13: Document (HG): [hg-47d3ae5f.md](hg-47d3ae5f.md); official file https://www.senat.ro/legis/PDF/2024/24L660HG.PDF
