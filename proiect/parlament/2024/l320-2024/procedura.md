@@ -17,6 +17,7 @@ Initiator: Guvernul României.
 - 2024-11-18: adopted by the Chamber of Deputies
 - 2024-12-02: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2024-12-05: sent for promulgation
+- 2024-12-16: promulgated, becomes Legea nr. 312/2024; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -31,3 +32,5 @@ Initiator: Guvernul României.
 - 2024-06-18: Adresă către Camera Deputaților (AM): [am-666f4673.md](am-666f4673.md); official file https://www.senat.ro/legis/PDF/2024/24L320AM.PDF
 - 2024-12-02: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L320AXS.PDF
 - 2024-12-02: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L320LP.PDF
+- 2024-12-16: Decret de promulgare (DP): [dp-6b576596.md](dp-6b576596.md); official file https://www.senat.ro/legis/PDF/2024/24L320DP.PDF
+- 2024-12-16: Forma promulgată (FP): [fp-a0e759ae.md](fp-a0e759ae.md); official file https://www.senat.ro/legis/PDF/2024/24L320FP.PDF
