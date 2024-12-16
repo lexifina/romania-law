@@ -10,6 +10,7 @@ Initiator: Membri ai Parlamentului.
 
 - 2022-02-22: registered at the Chamber of Deputies; registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Punct de vedere
 - 2022-02-28: documents published: Raport comisie sesizată pe fond
+- 2024-12-16: rejected by the Chamber of Deputies
 
 ## Documents
 
