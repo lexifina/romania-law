@@ -14,6 +14,7 @@ Initiator: Guvernul României.
 - 2024-12-10: documents published: Aviz comisie
 - 2024-12-11: documents published: Aviz comisie
 - 2024-12-12: documents published: Aviz comisie
+- 2024-12-16: documents published: Aviz comisie
 
 ## Documents
 
@@ -28,3 +29,6 @@ Initiator: Guvernul României.
 - 2024-12-11: Aviz comisie (CA3): [ca3-9b3122b6.md](ca3-9b3122b6.md); official file https://www.senat.ro/legis/PDF/2024/24L633CA3.PDF
 - 2024-12-11: Aviz comisie (CA5): [ca5-cbb10a72.md](ca5-cbb10a72.md); official file https://www.senat.ro/legis/PDF/2024/24L633CA5.PDF
 - 2024-12-12: Aviz comisie (CA56): [ca56-93590a6f.md](ca56-93590a6f.md); official file https://www.senat.ro/legis/PDF/2024/24L633CA56.PDF
+- 2024-12-16: Aviz comisie (CA41): [ca41-a1164116.md](ca41-a1164116.md); official file https://www.senat.ro/legis/PDF/2024/24L633CA41.PDF
+- 2024-12-16: Aviz comisie (CA42): [ca42-16ec580d.md](ca42-16ec580d.md); official file https://www.senat.ro/legis/PDF/2024/24L633CA42.PDF
+- 2024-12-16: Aviz comisie (CA43): [ca43-8ba489ea.md](ca43-8ba489ea.md); official file https://www.senat.ro/legis/PDF/2024/24L633CA43.PDF
