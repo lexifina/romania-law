@@ -1,0 +1,151 @@
+{
+ "key": "iccj-hp-55-2024",
+ "label": "Decizia ÎCCJ nr. 55/2024 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "55",
+ "date": "2024-10-21",
+ "year": "2024",
+ "heading": "DECIZIA nr. 55 din 21 octombrie 2024",
+ "subtitle": "referitoare la acordarea primelor aferente anului 2021, conform art. 125 alin. (1) lit. b) din Contractul colectiv de muncă nr. 81/175/768 din 9 noiembrie 2018, și acordarea tichetelor de vacanță aferente anului 2021, conform art. 125 alin. (2) lit. e) din același contract",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "1278",
+  "bis": false,
+  "date": "2024-12-18",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.644/1/2024",
+  "3.623/3/2024",
+  "3.496/3/2024",
+  "1.974/1/2024"
+ ],
+ "subjects": [],
+ "operative": [
+  "Respinge, ca inadmisibile, sesizările conexate formulate de Tribunalul București - Secția a VIII-a conflicte de muncă și asigurări sociale în dosarele nr. 3.496/3/2024 și nr. 3.623/3/2024, în vederea pronunțării unei hotărâri prealabile prin care să se dea o rezolvare de principiu asupra chestiunii de drept privind acordarea primelor aferente anului 2021, conform art. 125 alin. (1) lit. b) din Contractul colectiv de muncă nr. 81/175/768 din 9 noiembrie 2018, și acordarea tichetelor de vacanță aferente anului 2021, conform art. 125 alin. (2) lit. e) din același contract.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 62/2024",
+    "number": "62",
+    "year": "2024",
+    "path": "oug/2024/62"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 1.208/2009",
+    "number": "1208",
+    "year": "2009",
+    "path": "hg/2009/1208"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "1400",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 134/2010",
+    "number": "134",
+    "year": "2010",
+    "path": "lege/2010/134"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  }
+ ],
+ "warnings": [
+  "subjects: none parsed"
+ ],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2024-12-18",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/292478",
+  "text_sha256": "2e28a8eb9f7b9230aa1b98821703d8f3922e543aee792d9540f05e39e570b6be",
+  "catalogue_sha256": "2e28a8eb9f7b9230aa1b98821703d8f3922e543aee792d9540f05e39e570b6be",
+  "fetched": "2026-11-03T01:02:35Z",
+  "chars": 25105,
+  "portal_id": "292478",
+  "tip": "DECIZIE"
+ }
+}
