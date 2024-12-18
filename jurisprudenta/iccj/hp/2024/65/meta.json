@@ -1,0 +1,197 @@
+{
+ "key": "iccj-hp-65-2024",
+ "label": "Decizia ÎCCJ nr. 65/2024 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "65",
+ "date": "2024-10-28",
+ "year": "2024",
+ "heading": "DECIZIA nr. 65 din 28 octombrie 2024",
+ "subtitle": "referitoare la corespondența claselor de salarizare, astfel cum au fost modificate conform contractului colectiv de muncă la nivel de unitate al Societății Naționale de Transport Feroviar de Călători \"C.F.R. Călători\" - S.A. pe anii 2023-2024 înregistrat la Inspectoratul Teritorial de Muncă al Municipiului București cu nr. 388/13.12.2023",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "1281",
+  "bis": false,
+  "date": "2024-12-18",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.740/1/2024",
+  "2.140/3/2024"
+ ],
+ "subjects": [],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Tribunalul București - Secția a VIII-a conflicte de muncă și asigurări sociale, în Dosarul nr. 2.140/3/2024, în vederea pronunțării unei hotărâri prealabile pentru dezlegarea următoarei chestiuni de drept: „corespondența claselor de salarizare, astfel cum au fost modificate conform contractului colectiv de muncă la nivel de unitate al Societății Naționale de Transport Feroviar de Călători «C.F.R. Călători» - S.A. pe anii 2023-2024 înregistrat la Inspectoratul Teritorial de Muncă al Municipiului București cu nr. 388/13.12.2023“.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 62/2024",
+    "number": "62",
+    "year": "2024",
+    "path": "oug/2024/62"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 53/2003",
+    "number": "53",
+    "year": "2003",
+    "path": "lege/2003/53"
+   },
+   "articles": [
+    {
+     "art": "37",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "38",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 12/1998",
+    "number": "12",
+    "year": "1998",
+    "path": "oug/1998/12"
+   },
+   "articles": [
+    {
+     "art": "49",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 584/1998",
+    "number": "584",
+    "year": "1998",
+    "path": "hg/1998/584"
+   },
+   "articles": [
+    {
+     "art": "19",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 581/1998",
+    "number": "581",
+    "year": "1998",
+    "path": "hg/1998/581"
+   },
+   "articles": [
+    {
+     "art": "22",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 582/1998",
+    "number": "582",
+    "year": "1998",
+    "path": "hg/1998/582"
+   },
+   "articles": [
+    {
+     "art": "13",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 195/2020",
+    "number": "195",
+    "year": "2020",
+    "path": "lege/2020/195"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [
+  "subjects: none parsed"
+ ],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2024-12-18",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/292497",
+  "text_sha256": "8c7aa30b55dae584ba023c0266688d95d422983ce919188814ff61a7aa41e073",
+  "catalogue_sha256": "8c7aa30b55dae584ba023c0266688d95d422983ce919188814ff61a7aa41e073",
+  "fetched": "2026-11-03T01:02:33Z",
+  "chars": 25459,
+  "portal_id": "292497",
+  "tip": "DECIZIE"
+ }
+}
