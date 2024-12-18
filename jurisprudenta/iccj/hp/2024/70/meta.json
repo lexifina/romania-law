@@ -1,0 +1,503 @@
+{
+ "key": "iccj-hp-70-2024",
+ "label": "Decizia ÎCCJ nr. 70/2024 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "70",
+ "date": "2024-11-11",
+ "year": "2024",
+ "heading": "DECIZIA nr. 70 din 11 noiembrie 2024",
+ "subtitle": "referitoare la interpretarea și aplicarea art. I alin. (1) și (7) din Ordonanța de urgență a Guvernului nr. 115/2023",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "1275",
+  "bis": false,
+  "date": "2024-12-18",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "2.020/1/2024",
+  "20.154/3/2024",
+  "1.325/90/2024",
+  "2.618/102/2024",
+  "2.952/102/2024"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 115/2023",
+    "number": "115",
+    "year": "2023",
+    "path": "oug/2023/115"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "38",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 128/2023",
+    "number": "128",
+    "year": "2023",
+    "path": "oug/2023/128"
+   },
+   "articles": [
+    {
+     "art": "III",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "VI",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite sesizarea formulată de Tribunalul București - Secția a VIII-a conflicte de muncă și asigurări sociale, în Dosarul nr. 20.154/3/2024, în vederea pronunțării unei hotărâri prealabile și, în consecință, stabilește că: În interpretarea și aplicarea art. I alin. (1) și (7) din Ordonanța de urgență a Guvernului nr. 115/2023, personalul din familia ocupațională „Justiție“, ale cărui drepturi salariale au fost calculate, prin acte administrative ale ordonatorilor principali de credite, prin raportare la valoarea de referință sectorială de 605,225 lei, fără a se ține cont de plafonarea prevăzută de art. 38 alin. (6) din Legea-cadru nr. 153/2017, nu beneficiază de majorarea de 5% a indemnizației de încadrare brute lunare, începând cu 1 ianuarie 2024.",
+  "Admite sesizările formulate de Tribunalul Vâlcea - Secția a II-a civilă în Dosarul nr. 1.325/90/2024, de Curtea de Apel Târgu Mureș - Secția a II-a civilă, de contencios administrativ și fiscal în Dosarul nr. 2.618/102/2024, de Tribunalul Alba - Secția a II-a civilă, de contencios administrativ, fiscal și de insolvență în dosarele nr. 1.766/107/2024, nr. 1.778/107/2024, nr. 1.771/107/2024, nr. 1.772/107/2024, nr. 1.777/107/2024 și nr. 1.768/107/2024 și de Tribunalul Mureș - Secția contencios administrativ și fiscal în Dosarul nr. 2.952/102/2024 în vederea pronunțării unei hotărâri prealabile și, în consecință, stabilește că: În interpretarea și aplicarea art. III pct. 3 și art. VI din Ordonanța de urgență a Guvernului nr. 128/2023, cu trimitere la art. I alin. (1) din Ordonanța de urgență a Guvernului nr. 115/2023, structurile subordonate ale A.P.I.A. și Inspecției Muncii nu beneficiază de dreptul la majorare cu 5% față de nivelul acordat pentru luna decembrie 2023 a salariului de bază/indemnizației de încadrare brute lunare cuvenite de la 1 ianuarie 2024, cu excepția situației în care din aplicarea prevederilor Ordonanței de urgență a Guvernului nr. 128/2023 ar rezulta o majorare a salariilor de bază mai mică decât procentul prevăzut la art. I alin. (1) din Ordonanța de urgență a Guvernului nr. 115/2023, situație în care se aplică procentul de 5% la salariul de bază aferent lunii decembrie 2023.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 62/2024",
+    "number": "62",
+    "year": "2024",
+    "path": "oug/2024/62"
+   },
+   "articles": [
+    {
+     "art": "VI",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 27
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "38",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 83
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 115/2023",
+    "number": "115",
+    "year": "2023",
+    "path": "oug/2023/115"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": [
+      "1",
+      "7",
+      "3",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "VI",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "III",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 96
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 128/2023",
+    "number": "128",
+    "year": "2023",
+    "path": "oug/2023/128"
+   },
+   "articles": [
+    {
+     "art": "III",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "V",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "VI",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "IV",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 110
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 81/2023",
+    "number": "81",
+    "year": "2023",
+    "path": "oug/2023/81"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 371/2023",
+    "number": "371",
+    "year": "2023",
+    "path": "lege/2023/371"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 127/2023",
+    "number": "127",
+    "year": "2023",
+    "path": "oug/2023/127"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 57/2019",
+    "number": "57",
+    "year": "2019",
+    "path": "oug/2019/57"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituția României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "95",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "96",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 168/2022",
+    "number": "168",
+    "year": "2022",
+    "path": "oug/2022/168"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 303/2004",
+    "number": "303",
+    "year": "2004",
+    "path": "lege/2004/303"
+   },
+   "articles": [
+    {
+     "art": "82",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 27/2006",
+    "number": "27",
+    "year": "2006",
+    "path": "oug/2006/27"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul muncii",
+    "path": "lege/2003/53",
+    "slug": "codul-muncii"
+   },
+   "articles": [
+    {
+     "art": "269",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea contenciosului administrativ nr. 554/2004",
+    "number": "554",
+    "year": "2004",
+    "path": "lege/2004/554"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 135/2017",
+    "number": "135",
+    "year": "2017",
+    "path": "lege/2017/135"
+   },
+   "articles": [
+    {
+     "art": "38",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 137/2000",
+    "number": "137",
+    "year": "2000",
+    "path": "og/2000/137"
+   },
+   "articles": [
+    {
+     "art": "27",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2024-12-18",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/292465",
+  "text_sha256": "3b323b747e824eb7584199dc5ac76900d53128377c9c91eb831da1a1c0f3e2ef",
+  "catalogue_sha256": "3b323b747e824eb7584199dc5ac76900d53128377c9c91eb831da1a1c0f3e2ef",
+  "fetched": "2026-11-03T01:02:44Z",
+  "chars": 163779,
+  "portal_id": "292465",
+  "tip": "DECIZIE"
+ }
+}
