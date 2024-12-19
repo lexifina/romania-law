@@ -11,6 +11,7 @@ Initiator: Membri ai Parlamentului.
 ## Stages published so far
 
 - 2024-12-17: registered at the Chamber of Deputies; registered at the Senate; adopted by the Chamber of Deputies; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Raport comisie sesizată pe fond, Adresă privind sesizarea CCR, Forma trimi…
+- 2024-12-19: sent for promulgation
 
 ## Documents
 
