@@ -17,6 +17,7 @@ Initiator: Guvernul României.
 - 2024-04-29: adopted by the Senate; documents published: Raport comisie sesizată pe fond, Forma adoptată de Senat, Adresă către Camera Deputaților
 - 2024-05-07: registered at the Chamber of Deputies
 - 2024-12-17: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
+- 2024-12-19: sent for promulgation
 
 ## Documents
 
