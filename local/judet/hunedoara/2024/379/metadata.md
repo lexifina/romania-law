@@ -1,0 +1,11 @@
+# HCJ Hunedoara nr. 379/2024
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+- Council: Consiliul Județean Hunedoara
+- Decision: nr. 379/2024
+- Adopted: 2024-12-19
+- Title: privind Desemnarea nominală a 6 consilieri județeni ca membri ai Autorității Teritoriale de Ordine Publică organizată la nivelul județului Hunedoara
+- Record: https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/744-hotarari-2024
+- Document: https://www.cjhunedoara.ro/documente/2024/Hotarari/HOTARARI%2019%20DECEMBRIE%202024/HCJH%20379.pdf
+- Document sha256: 5414c96bb8d687c8a1df9140dcc77cef857ad81d51ecf3d1b8539563dd476880
