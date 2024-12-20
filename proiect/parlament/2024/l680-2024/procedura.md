@@ -12,6 +12,7 @@ Initiator: Membri ai Parlamentului.
 
 - 2024-12-17: registered at the Chamber of Deputies; registered at the Senate; adopted by the Chamber of Deputies; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Raport comisie sesizată pe fond, Adresă privind sesizarea CCR, Forma trimi…
 - 2024-12-19: sent for promulgation
+- 2024-12-20: promulgated, becomes Legea nr. 325/2024; published in the Monitorul Oficial; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -22,3 +23,5 @@ Initiator: Membri ai Parlamentului.
 - 2024-12-17: Raport comisie sesizată pe fond (CR): [cr-2d693afd.md](cr-2d693afd.md); official file https://www.senat.ro/legis/PDF/2024/24L680CR.PDF
 - 2024-12-17: Adresă privind sesizarea CCR (AXS): [axs-d0e2bb38.md](axs-d0e2bb38.md); official file https://www.senat.ro/legis/PDF/2024/24L680AXS.PDF
 - 2024-12-17: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L680LP.PDF
+- 2024-12-20: Decret de promulgare (DP): [dp-cb943b15.md](dp-cb943b15.md); official file https://www.senat.ro/legis/PDF/2024/24L680DP.PDF
+- 2024-12-20: Forma promulgată (FP): [fp-2218df25.md](fp-2218df25.md); official file https://www.senat.ro/legis/PDF/2024/24L680FP.PDF
