@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2023-12-04: registered at the Chamber of Deputies
 - 2024-12-17: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2024-12-19: sent for promulgation
+- 2024-12-20: promulgated, becomes Legea nr. 328/2024; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -35,3 +36,5 @@ Initiator: Guvernul României.
 - 2023-11-27: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L613AM.PDF
 - 2024-12-17: Adresă privind sesizarea CCR (AXS): [axs-d0e2bb38.md](axs-d0e2bb38.md); official file https://www.senat.ro/legis/PDF/2023/23L613AXS.PDF
 - 2024-12-17: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L613LP.PDF
+- 2024-12-20: Decret de promulgare (DP): [dp-d8dfd597.md](dp-d8dfd597.md); official file https://www.senat.ro/legis/PDF/2023/23L613DP.PDF
+- 2024-12-20: Forma promulgată (FP): [fp-631f429a.md](fp-631f429a.md); official file https://www.senat.ro/legis/PDF/2023/23L613FP.PDF
