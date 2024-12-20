@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2024-11-26: documents published: Aviz comisie
 - 2024-12-09: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2024-12-16: sent for promulgation
+- 2024-12-20: promulgated, becomes Legea nr. 315/2024; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -34,3 +35,5 @@ Initiator: Guvernul României.
 - 2024-12-09: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L578FS.PDF
 - 2024-12-09: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L578AXS.PDF
 - 2024-12-09: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L578LP.PDF
+- 2024-12-20: Decret de promulgare (DP): [dp-2e28a297.md](dp-2e28a297.md); official file https://www.senat.ro/legis/PDF/2024/24L578DP.PDF
+- 2024-12-20: Forma promulgată (FP): [fp-d14892c8.md](fp-d14892c8.md); official file https://www.senat.ro/legis/PDF/2024/24L578FP.PDF
