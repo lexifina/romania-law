@@ -20,6 +20,7 @@ Initiator: Membri ai Parlamentului.
 - 2024-11-18: adopted by the Chamber of Deputies
 - 2024-12-02: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2024-12-09: sent for promulgation
+- 2024-12-20: promulgated, becomes Legea nr. 317/2024; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -35,3 +36,5 @@ Initiator: Membri ai Parlamentului.
 - 2023-10-09: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L404AM.PDF
 - 2024-12-02: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L404AXS.PDF
 - 2024-12-02: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L404LP.PDF
+- 2024-12-20: Decret de promulgare (DP): [dp-bb566400.md](dp-bb566400.md); official file https://www.senat.ro/legis/PDF/2023/23L404DP.PDF
+- 2024-12-20: Forma promulgată (FP): [fp-7ebf037c.md](fp-7ebf037c.md); official file https://www.senat.ro/legis/PDF/2023/23L404FP.PDF
