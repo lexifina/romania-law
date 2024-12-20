@@ -16,6 +16,7 @@ Initiator: Guvernul României.
 - 2024-05-21: registered at the Chamber of Deputies
 - 2024-12-17: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2024-12-19: sent for promulgation
+- 2024-12-20: promulgated, becomes Legea nr. 330/2024; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -30,3 +31,5 @@ Initiator: Guvernul României.
 - 2024-05-13: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L244AM.PDF
 - 2024-12-17: Adresă privind sesizarea CCR (AXS): [axs-d0e2bb38.md](axs-d0e2bb38.md); official file https://www.senat.ro/legis/PDF/2024/24L244AXS.PDF
 - 2024-12-17: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L244LP.PDF
+- 2024-12-20: Decret de promulgare (DP): [dp-bbf2c977.md](dp-bbf2c977.md); official file https://www.senat.ro/legis/PDF/2024/24L244DP.PDF
+- 2024-12-20: Forma promulgată (FP): [fp-d62966d4.md](fp-d62966d4.md); official file https://www.senat.ro/legis/PDF/2024/24L244FP.PDF
