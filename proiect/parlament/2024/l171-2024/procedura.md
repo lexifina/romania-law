@@ -20,6 +20,7 @@ Initiator: Guvernul României.
 - 2024-07-18: returned for re-examination
 - 2024-09-23: adopted by the Senate
 - 2024-12-18: sent for promulgation
+- 2024-12-20: promulgated, becomes Legea nr. 316/2024; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -38,3 +39,5 @@ Initiator: Guvernul României.
 - 2024-04-22: Adresă către Camera Deputaților (AM): [am-39b704fa.md](am-39b704fa.md); official file https://www.senat.ro/legis/PDF/2024/24L171AM.PDF
 - 2024-06-26: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L171AXS.PDF
 - 2024-06-26: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L171LP.PDF
+- 2024-12-20: Decret de promulgare (DP): [dp-5e741dae.md](dp-5e741dae.md); official file https://www.senat.ro/legis/PDF/2024/24L171DP.PDF
+- 2024-12-20: Forma promulgată (FP): [fp-36437b53.md](fp-36437b53.md); official file https://www.senat.ro/legis/PDF/2024/24L171FP.PDF
