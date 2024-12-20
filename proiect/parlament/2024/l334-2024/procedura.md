@@ -17,6 +17,7 @@ Initiator: Guvernul României.
 - 2024-09-10: registered at the Chamber of Deputies
 - 2024-12-17: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2024-12-19: sent for promulgation
+- 2024-12-20: promulgated, becomes Legea nr. 327/2024; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -32,3 +33,5 @@ Initiator: Guvernul României.
 - 2024-08-27: Adresă către Camera Deputaților (AM): [am-167b460e.md](am-167b460e.md); official file https://www.senat.ro/legis/PDF/2024/24L334AM.PDF
 - 2024-12-17: Adresă privind sesizarea CCR (AXS): [axs-d0e2bb38.md](axs-d0e2bb38.md); official file https://www.senat.ro/legis/PDF/2024/24L334AXS.PDF
 - 2024-12-17: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L334LP.PDF
+- 2024-12-20: Decret de promulgare (DP): [dp-eae39b8d.md](dp-eae39b8d.md); official file https://www.senat.ro/legis/PDF/2024/24L334DP.PDF
+- 2024-12-20: Forma promulgată (FP): [fp-de2aade4.md](fp-de2aade4.md); official file https://www.senat.ro/legis/PDF/2024/24L334FP.PDF
