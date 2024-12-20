@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2024-12-11: adopted by the Chamber of Deputies
 - 2024-12-16: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2024-12-18: sent for promulgation
+- 2024-12-20: promulgated, becomes Legea nr. 322/2024; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -36,3 +37,5 @@ Initiator: Guvernul României.
 - 2022-09-14: Adresă către Camera Deputaților (AM): [am-8f4f569c.md](am-8f4f569c.md); official file https://www.senat.ro/legis/PDF/2022/22L402AM.PDF
 - 2024-12-16: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L402AXS.PDF
 - 2024-12-16: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L402LP.PDF
+- 2024-12-20: Decret de promulgare (DP): [dp-cdd81d3c.md](dp-cdd81d3c.md); official file https://www.senat.ro/legis/PDF/2022/22L402DP.PDF
+- 2024-12-20: Forma promulgată (FP): [fp-896af1fa.md](fp-896af1fa.md); official file https://www.senat.ro/legis/PDF/2022/22L402FP.PDF
