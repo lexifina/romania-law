@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2024-12-16: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2024-12-18: sent for promulgation
 - 2024-12-20: promulgated, becomes Legea nr. 321/2024; documents published: Decret de promulgare, Forma promulgată
+- 2024-12-23: published in the Monitorul Oficial
 
 ## Documents
 
