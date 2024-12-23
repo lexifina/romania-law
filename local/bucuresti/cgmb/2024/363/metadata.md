@@ -1,0 +1,12 @@
+# HCGMB nr. 363/2024
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+- Council: Consiliul General al Municipiului București
+- Decision: nr. 363/2024
+- Adopted: 2024-12-20
+- Published: 2024-12-23
+- Title: PRIVIND APROBAREA SOLICITARII CATRE CONSILIUL JUDETEAN ILFOV A PRELUNGIRII DURATEI TRECERII DIN DOMENIUL PUBLIC AL JUDEJULUI ILFOV SI ADMINISTRAREA CONSILIULUI JUDETEAN ILFOV IN DOMENIUL PUBLIC AL MUNICIPIULUI BUCURESTI SI ADMINISTRAREA CONSILIULUI GENERAL AL MUNICIPIULUI BUCURESTI, A STRAZILOR SI SUPRAFETELOR DE TEREN PENTRU REALIZAREA BAZINELOR DE RETENTIE SI STATIILOR DE PREEPURARE DIN ANSAMBLUL DE LOCUINTE HENRI COANDA
+- Record: https://acteinterne.pmb.ro/legis/acteinterne/acte_int/45962
+- Document: https://doc.pmb.ro/legis/acteinterne/2024/45962/h363_24.pdf
+- Document sha256: 07e6dbfa5d820989888f4b752a4a109093c40764629f95d6afd3928c0e865396
