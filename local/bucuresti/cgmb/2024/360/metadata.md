@@ -1,0 +1,12 @@
+# HCGMB nr. 360/2024
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+- Council: Consiliul General al Municipiului București
+- Decision: nr. 360/2024
+- Adopted: 2024-12-20
+- Published: 2024-12-23
+- Title: PENTRU COMPLETAREA SI MODIFICAREA HOTARARII CONSILIULUI GENERAL AL MUNICIPIULUI BUCURESTI NR. 366/15.07.2022, PRIVIND APROBAREA PARTICIPARII LA PROGRAMUL TERMOFICARE SI A GRAFICULUI DE ESALONARE ANUALA A PLATILOR PENTRU OBIECTIVUL DE INVESTITII “REABILITAREA SISTEMULUI DE TERMOFICARE AL MUNICIPIULUI BUCURESTI (7 OBIECTIVE INSUMAND O LUNGIME DE TRASEU DE 31,621 KM)”, MODIFICATA PRIN HOTARAREA CONSILIULUI GENERAL AL MUNICIPIULUI BUCURESTI NR. 400/31.08.2022
+- Record: https://acteinterne.pmb.ro/legis/acteinterne/acte_int/45959
+- Document: https://doc.pmb.ro/legis/acteinterne/2024/45959/h360_24.pdf
+- Document sha256: 1046d7ad1b8b279fa739d4f79b05731079b0c340ec49ee6d15ee73c591e32e43
