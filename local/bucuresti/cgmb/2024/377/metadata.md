@@ -1,0 +1,12 @@
+# HCGMB nr. 377/2024
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+- Council: Consiliul General al Municipiului București
+- Decision: nr. 377/2024
+- Adopted: 2024-12-20
+- Published: 2024-12-23
+- Title: PENTRU MODIFICAREA HOTARARII CONSILIULUI GENERAL AL MUNICIPIULUI BUCURESTI NR. 38/2011 PRIVIND APROBAREA INDICATORILOR TEHNICO - ECONOMICI AFERENTI STUDIULUI DE FEZABILITATE PENTRU OBIECTIVUL DE INVESTITII AL CENTRULUI DE CULTURA PALATELE BRANCOVENESTI DE LA PORTILE BUCURESTIULUI DIN MOGOSOAIA - AMENAJARE, RESTAURARE ANSAMBLUL ISTORIC MOGOSOAIA - REFACERE INVELITORI LA OBIECTIVELE GHETARIE, CASA DE OASPETI - CORP C, TURN ACCES, CORP A, CORP B, RESTAURARE SI EXTINDERE ZONA CENTRALA
+- Record: https://acteinterne.pmb.ro/legis/acteinterne/acte_int/45976
+- Document: https://doc.pmb.ro/legis/acteinterne/2024/45976/h377_24.pdf
+- Document sha256: a350efa6814e5d710fa3656208aa636fe2060e6aab98eca8c2b2d3d860b3a51c
