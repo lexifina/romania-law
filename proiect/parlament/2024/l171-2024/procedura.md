@@ -21,6 +21,7 @@ Initiator: Guvernul României.
 - 2024-09-23: adopted by the Senate
 - 2024-12-18: sent for promulgation
 - 2024-12-20: promulgated, becomes Legea nr. 316/2024; documents published: Decret de promulgare, Forma promulgată
+- 2024-12-23: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -41,3 +42,10 @@ Initiator: Guvernul României.
 - 2024-06-26: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L171LP.PDF
 - 2024-12-20: Decret de promulgare (DP): [dp-5e741dae.md](dp-5e741dae.md); official file https://www.senat.ro/legis/PDF/2024/24L171DP.PDF
 - 2024-12-20: Forma promulgată (FP): [fp-36437b53.md](fp-36437b53.md); official file https://www.senat.ro/legis/PDF/2024/24L171FP.PDF
+- 2024-12-23: Document (RX): [rx-47cdf9ec.md](rx-47cdf9ec.md); official file https://www.senat.ro/legis/PDF/2024/24L171RX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2024-12-23: Document (XA): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L171XA.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2024-12-23: Document (CX): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L171CX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2024-12-23: Document (XD): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L171XD.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2024-12-23: Document (SX): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L171SX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2024-12-23: Document (XXS): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L171XXS.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2024-12-23: Document (PX): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L171PX.PDF (its day is not given by the bill file: shown from the last stage held)
