@@ -1,0 +1,12 @@
+Consiliul local UNȚENI, județul Botoșani, având în vedere raportul de specialitate nr. 6418/2024 al compartimentului impozite și taxe din cadrul aparatului de specialitate al primarului; analizând Referatul de aprobare nr. 6419/2024 al viceprimarului comunei Unțeni; urmare a Hotărârilor AGA A.D.I. „Ecoproces” nr. 176 și 186/14.10.2024 de aprobare a tarifelor distincte de gestionare a deșeurilor municipale, și respectiv, de aprobare a Planului de creștere a tarifelor, actualizat, aferent proiectului S.I.M.D. în județul Botoșani, având în vedere rapoartele de avizare consultative ale:
+- comisiei pentru activități economico-financiare, agricultură, administrarea domeniului public și privat al comunei, gospodărie comunală, protecția mediului și turism, servicii și comerț, nr.44 din
+23. 12.2024;
+- comisiei pentru administrație publică locală, juridică și de disciplină, amenajarea teritoriului și urbanism, apărarea ordinii și liniștii publice, a drepturilor cetățenilor nr. 51 din
+23.12.2024;
+- comisiei pentru învățământ, sănătate și familie, activități social-culturale, culte, muncă și protecție socială, protecție copii, tineret și sport nr. 45 din 23.12.2024;, în conformitate cu prevederile:
+- art.6, alin.(1) lit. „k”, art.9, art. 29 alin.(2), lit. c) din Legea nr. 101/2006 a serviciului de salubrizare a localităților, republicată (r2) cu completările ulterioare;
+- O.U.G. nr. 92/2001 privind regimul deșeurilor, cu modificările și completările ulterioare;
+- art. 18 și art. 21 din Ordinul ANRSC nr. 640/2022 privind aprobarea Normelor metodologice de stabilire, ajustare sau modificare a tarifelor pentru activitățile de salubrizare, precum și de calculare a tarifelor/taxelor distincte pentru gestionarea deșeurilor și a taxelor de salubrizare;
+- Titlul IX din Legea 227/2015, privind Codul Fiscal, cu modificările și completările ulterioare, în temeiul prevederilor art. 196 alin.(1), lit. a) din Ordonanța de urgență a Guvernului nr.
+57/2019 privind Codul administrativ, cu modificările și completările ulterioare,
+hotărăște:
