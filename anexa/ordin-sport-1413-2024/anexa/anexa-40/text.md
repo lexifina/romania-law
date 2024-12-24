@@ -1,0 +1,79 @@
+# Anexa 40
+Anexa nr. 5
+la contract
+Comitetul Național Paralimpic
+CONT DE EXECUȚIE
+privind utilizarea sumei repartizate din bugetul
+A.N.S. și a veniturilor proprii ale C.N.P. pe
+trimestrul ..........., în baza contractului
+nr. ......... din ...................
+I.
+Date privind veniturile C.N.P.:
+lei
+• suma repartizată din bugetul A.N.S. pe anul in curs, conform contractului, total, din care:
+- sume de la bugetul de stat
+din care:
+- Programul "Promovarea sportului de performanță"
+- Programul "Întreținerea, funcționarea și dezvoltarea bazei materiale sportive"
+• suma încasată de la A.N.S. (cumulat, de la începutul anului), total, din care:
+- transferuri
+din care:
+- Programul ”Promovarea sportului de performanță”
+- Programul ”Întreținerea, funcționarea și dezvoltarea bazei materiale sportive”
+• venituri proprii ale CNP realizate (cumulat, de la începutul anului), total
+• disponibilități în cont / conturi la începutul anului, conform extrasului/extraselor de cont
+• disponibilități în cont / conturi la sfârșitul perioadei raportate, conform extrasului/extraselor de cont, total din care:
+- disponibilități din suma repartizată din bugetul A.N.S.
+- disponibilități din veniturile proprii ale C.N.P.
+II.
+Date privind cheltuielile efectuate în perioada raportată (se va detalia pe programele, subprogramele și categoriile de cheltuieli prevăzute în anexa nr. 2 ), potrivit modelului de mai jos
+Programe/Subprograme categorii de cheltuieli
+Sume aprobate pe anul 2025
+Plăți efectuate în trimestrul pentru care se face raportarea (ct. de disponibil)
+Plăți efectuate cumulat de la începutul anului până la sfârșitul trim. raportat (ct. de disponibil)
+suma repartizată de ANS
+venituri proprii ale C.N.P., total
+din suma repartizată de ANS
+din veniturile proprii ale C.N.P., total
+din suma repartizată de ANS
+din veniturile proprii ale C.N.P., total
+A. Programul "Promovarea sportului de performanță" - total, din care:
+I. Subprogramul pregătire loturi olimpice și/sau naționale - total,
+din care:
+● cazare, masă, transport, susținătoare de efort și medicamente, indemnizație de lot
+● cercetare științifică
+● alte cheltuieli (se va specifica natura acestora)
+II. Subprogramul calendar sportiv național - total, din care:
+● cheltuieli cu organizarea competițiilor sportive naționale
+● premii (medalii, diplome, tricouri, etc.)
+III. Subprogramul calendar sportiv internațional (competiții sportive internaționale) - total, din care:
+● cheltuieli de participare/organizare competiții sportive internaționale (transport internațional/intern, cazare, diurnă/ masă, alte cheltuieli prevăzute de lege)
+● premii (altele decât cele acordate de către A.N.S. și C.O.S.R.)
+IV. Cheltuieli de personal aferente posturilor care derulează programul, corespunzătoare unui număr de ___ total
+V. Cheltuieli bunuri și servicii, altele decât cele prevăzute la pct. I, II, III și IV, necesare desfășurării programului, cu excepția cheltuielilor de telefonie și a celor privind carburanții
+VI. Cheltuieli pentru materiale și echipament sportiv
+VII. Cheltuieli pentru control dopinq
+VIII. Cheltuieli de participare la conqrese internaționale
+IX. Cheltuieli orqanizare cursuri de perfecționare antrenori
+X. Cheltuieli pentru activități de pregătire, organizare/participare competiții pentru juniori mici
+XI. Cheltuieli pentru activități de pregătire, organizare/participare competiții pentru copii sub 9 ani
+XII. Cheltuieli pentru indemnizații sportive pentru juniori 1 și tineret
+B. Programul "întreținerea, funcționarea și dezvoltarea bazei materiale sportive" - total,
+din care:
+Cheltuieli de întreținere, funcționare pentru bunurile imobile primite de către CNP în folosință gratuită din domeniul public/privat al statului și/sau din domeniul public/privat local, sau care se află în propietatea privată a CNP
+TOTAL A + B
+III.
+Situația documentelor justificative existente în contabilitatea C.N.P., aferente cheltuielilor efectuate din suma repartizată de A.N.S. structurate pe programele, subprogramele și categoriile de cheltuieli menționate în anexa nr. 2 la contract, aferente trimestrului ......, potrivit modelului de mai jos:
+Programe / subprograme / categorii de cheltuieli
+Document justificativ
+Valoare doc
+lei
+Specificații
+denumire
+nr.
+data
+emitent
+Total programe
+Declarăm pe propria răspundere că datele și informațiile prezentate corespund realității.
+Reprezentanți legali:
+(numele, prenumele, funcția, semnătura și ștampila CNP)
