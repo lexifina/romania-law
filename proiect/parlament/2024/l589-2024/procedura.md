@@ -12,6 +12,7 @@ Initiator: Membri ai Parlamentului.
 - 2024-10-07: documents published: Aviz Consiliul Economic și Social, Aviz Consiliul Legislativ
 - 2024-11-19: documents published: Aviz comisie
 - 2024-12-11: documents published: Aviz comisie
+- 2024-12-30: closed (clasat); documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -22,3 +23,4 @@ Initiator: Membri ai Parlamentului.
 - 2024-10-07: Aviz Consiliul Legislativ (LG): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L589LG.PDF
 - 2024-11-19: Aviz comisie (CA45): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L589CA45.PDF
 - 2024-12-11: Aviz comisie (CA3): [ca3-6a379c6e.md](ca3-6a379c6e.md); official file https://www.senat.ro/legis/PDF/2024/24L589CA3.PDF
+- 2024-12-30: Document (CF): [cf-c4c0c7a4.md](cf-c4c0c7a4.md); official file https://www.senat.ro/legis/PDF/2024/24L589CF.PDF (its day is not given by the bill file: shown from the last stage held)
