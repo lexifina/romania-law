@@ -12,6 +12,7 @@ Initiator: Membri ai Parlamentului.
 - 2024-10-15: documents published: Aviz Consiliul Economic și Social, Aviz Consiliul Legislativ
 - 2024-11-26: documents published: Aviz comisie
 - 2024-11-27: documents published: Aviz comisie
+- 2024-12-30: closed (clasat)
 
 ## Documents
 
