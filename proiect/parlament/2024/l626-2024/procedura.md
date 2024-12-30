@@ -11,6 +11,7 @@ Initiator: Membri ai Parlamentului.
 - 2024-10-28: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 - 2024-10-29: documents published: Aviz Consiliul Economic și Social, Aviz Consiliul Legislativ
 - 2024-12-11: documents published: Aviz comisie
+- 2024-12-30: closed (clasat); documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -20,3 +21,4 @@ Initiator: Membri ai Parlamentului.
 - 2024-10-29: Aviz Consiliul Economic și Social (ES): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L626ES.PDF
 - 2024-10-29: Aviz Consiliul Legislativ (LG): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L626LG.PDF
 - 2024-12-11: Aviz comisie (CA3): [ca3-044c4321.md](ca3-044c4321.md); official file https://www.senat.ro/legis/PDF/2024/24L626CA3.PDF
+- 2024-12-30: Document (CC): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L626CC.PDF (its day is not given by the bill file: shown from the last stage held)
