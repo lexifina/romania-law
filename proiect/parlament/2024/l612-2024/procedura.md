@@ -11,6 +11,7 @@ Initiator: Membri ai Parlamentului.
 - 2024-10-15: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 - 2024-10-21: documents published: Aviz Consiliul Economic și Social, Aviz Consiliul Legislativ
 - 2024-12-04: documents published: Aviz comisie
+- 2024-12-30: closed (clasat)
 
 ## Documents
 
