@@ -1,0 +1,20 @@
+# Proiect de lege L8/2025
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Proiect de lege pentru aprobarea Ordonanţei de urgenţã a Guvernului nr.156/2024 privind unele măsuri fiscal-bugetare în domeniul cheltuielilor publice pentru fundamentarea bugetului general consolidat pe anul 2025, pentru modificarea și completarea unor acte normative, precum și pentru prorogarea unor termene
+
+Initiator: Guvernul României.
+
+## Stages published so far
+
+- 2024-12-31: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+
+## Documents
+
+- 2024-12-31: Adresă de înaintare a inițiativei (AD): not held as text; official file https://www.senat.ro/legis/PDF/2025/25L008AD.PDF
+- 2024-12-31: Forma inițiatorului (FG): [fg-884e16c7.md](fg-884e16c7.md); official file https://www.senat.ro/legis/PDF/2025/25L008FG.PDF
+- 2024-12-31: Expunere de motive (EM): [em-8749a502.md](em-8749a502.md); official file https://www.senat.ro/legis/PDF/2025/25L008EM.PDF
+- 2024-12-31: Aviz Consiliul Legislativ (LG): [lg-e6d132f1.md](lg-e6d132f1.md); official file https://www.senat.ro/legis/PDF/2025/25L008LG.PDF
+- 2024-12-31: Document (OG): [og-ec5effd3.md](og-ec5effd3.md); official file https://www.senat.ro/legis/PDF/2025/25L008OG.PDF
+- 2024-12-31: Document (HG): [hg-41f65560.md](hg-41f65560.md); official file https://www.senat.ro/legis/PDF/2025/25L008HG.PDF
