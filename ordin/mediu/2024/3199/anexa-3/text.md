@@ -1,0 +1,9 @@
+# Anexa nr. 3 (Anexa nr. 1c la procedură)
+MINISTERUL MEDIULUI, APELOR ȘI PĂDURILOR
+LICENȚĂ DE OPERARE
+- model -
+Nr........... din..........
+Pentru............... din localitatea.............., str...................... nr......., județul/sectorul.........., înregistrată la............. cu nr.................., cod unic de înregistrare nr.........../.........., în scopul implementării obligațiilor privind răspunderea extinsă a producătorului de echipamente electrice și electronice sau ale reprezentanților autorizați care acționează în numele producătorilor, prevăzute în Ordonanța de urgență a Guvernului nr. 92/2021 privind regimul deșeurilor, aprobată cu modificări și completări prin Legea nr. 17/2023, cu modificările și completările ulterioare, și în Ordonanța de urgență a Guvernului nr. 5/2015 privind deșeurile de echipamente electrice și electronice, aprobată cu modificări și completări prin Legea nr. 127/2024, cu completările ulterioare, pentru următoarele categorii de echipamente electrice și electronice, emisă în baza legii.
+Data emiterii:..........
+Ministrul mediului, apelor și pădurilor,......................
+------
