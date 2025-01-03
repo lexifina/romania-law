@@ -1,0 +1,12 @@
+# HCLS1 nr. 229/2024
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+- Council: Consiliul Local al Sectorului 1 al Municipiului București
+- Decision: nr. 229/2024
+- Adopted: 2024-12-12
+- Published: 2025-01-03
+- Title: prin care se solicită Consiliului General al Municipiului București împuternicirea expresă a Consiliului Local al Sectorului 1 de a hotărî cu privire la asocierea între Sectorul 1 al Municipiului București și Direcția Generală de Poliție a Municipiului București, în vederea realizării unor acțiuni de interes public
+- Record: https://emol.ro/sectorul-1/registru-hcl/?an=2024
+- Document: https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/178700/229.2024_AN.pdf
+- Document sha256: 70f59b712064a7f428f39a3f9e3cde06f9062ba6390bf8a2661a4bba13167385
