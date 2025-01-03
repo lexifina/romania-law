@@ -1,0 +1,351 @@
+{
+ "key": "dcc-318-2024",
+ "label": "Decizia CCR nr. 318/2024",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "318",
+ "date": "2024-07-09",
+ "year": "2024",
+ "heading": "DECIZIA nr. 318 din 9 iulie 2024",
+ "subtitle": "referitoare la excepția de neconstituționalitate a sintagmei \"de până la\" din cuprinsul art. 14 alin. (1) din anexa nr. VI la Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice și a dispozițiilor alin. (5) din același articol, a sintagmei \"structurile centrale ale instituțiilor\" din cuprinsul art. 23 din anexa nr. VI la Legea-cadru nr. 153/2017, a dispozițiilor art. 38 alin. (2) și (3) din Legea-cadru nr. 153/2017 și a dispozițiilor art. 1 alin. (5) din Legea nr. 285/2010 privind salarizarea în anul 2011 a personalului plătit din fonduri publice",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "1",
+  "bis": false,
+  "date": "2025-01-03",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata",
+  "devenita-inadmisibila"
+ ],
+ "dossiers": [
+  "8.157/3/2020",
+  "1.675D/2020",
+  "8.287/3/2020",
+  "794/89/2020",
+  "33.991/3/2019",
+  "30.264/3/2019",
+  "1.744/89/2020",
+  "4.796/63/2020",
+  "16.365/3/2020",
+  "21.763/3/2020"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "38",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 285/2010",
+    "number": "285",
+    "year": "2010",
+    "path": "lege/2010/285"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "1. Respinge, ca devenită inadmisibilă, excepția de neconstituționalitate a dispozițiilor art. 14 alin. (5) din anexa nr. VI la Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, excepție ridicată de Sindicatul Național al Polițiștilor și Personalului Contractual din Ministerul Afacerilor Interne în Dosarul nr. 8.157/3/2020 al Tribunalului București - Secția a II-a contencios administrativ și fiscal, Dosarul nr. 8.287/3/2020 al Tribunalului București - Secția a II-a contencios administrativ și fiscal, Dosarul nr. 794/89/2020 al Tribunalului Vaslui - Secția civilă, Dosarul nr. 33.991/3/2019 al Curții de Apel Brașov - Secția contencios administrativ și fiscal, Dosarul nr. 30.264/3/2019 al Curții de Apel Pitești - Secția a II-a civilă, de contencios administrativ și fiscal, Dosarul nr. 1.744/89/2020 al Tribunalului Vaslui - Secția civilă, Dosarul nr. 4.796/63/2020 al Tribunalului Mehedinți - Secția a II-a civilă, de contencios administrativ și fiscal, Dosarul nr. 16.365/3/2020 al Curții de Apel Brașov - Secția contencios administrativ și fiscal, Dosarul nr. 21.763/3/2020 al Tribunalului București - Secția a II-a contencios administrativ și fiscal și Dosarul nr. 4.611/30/2020 al Tribunalului Bihor - Secția a III-a contencios administrativ și fiscal, de Sindicatul Polițiștilor și Personalului Contractual din Inspectoratul de Poliție Județean Botoșani în Dosarul nr. 264/39/2020 al Tribunalului Botoșani - Secția de contencios administrativ și fiscal și de Marian Bărbulete în Dosarul nr. 30.161/3/2019 al Curții de Apel București - Secția a VIII-a contencios administrativ și fiscal.",
+  "2. Respinge, ca inadmisibilă, excepția de neconstituționalitate a dispozițiilor art. 38 alin. (2) și (3) din Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, precum și a sintagmei „structurile centrale ale instituțiilor“ din cuprinsul art. 23 din anexa nr. VI la Legea-cadru nr. 153/2017, excepție ridicată de aceiași autori, în aceleași dosare ale acelorași instanțe.",
+  "3. Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de aceiași autori în aceleași dosare ale acelorași instanțe și constată că sintagma „de până la“ din cuprinsul art. 14 alin. (1) din anexa nr. VI la Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, precum și dispozițiile art. 1 alin. (5) din Legea nr. 285/2010 privind salarizarea în anul 2011 a personalului plătit din fonduri publice sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului București - Secția a II-a contencios administrativ și fiscal, Curții de Apel București - Secția a VIII-a contencios administrativ și fiscal, Tribunalului Vaslui - Secția civilă, Curții de Apel Brașov - Secția contencios administrativ și fiscal, Tribunalului Mehedinți - Secția a II-a civilă, de contencios administrativ și fiscal, Curții de Apel Pitești - Secția a II-a civilă, de contencios administrativ și fiscal, Tribunalului Botoșani - Secția de contencios administrativ și fiscal și Tribunalului Bihor - Secția a III-a contencios administrativ și fiscal și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "38",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 76
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 285/2010",
+    "number": "285",
+    "year": "2010",
+    "path": "lege/2010/285"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "4",
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "31",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "73",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "j"
+     ]
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 360/2002",
+    "number": "360",
+    "year": "2002",
+    "path": "lege/2002/360"
+   },
+   "articles": [
+    {
+     "art": "28",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 104/2001",
+    "number": "104",
+    "year": "2001",
+    "path": "oug/2001/104"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 284/2010",
+    "number": "284",
+    "year": "2010",
+    "path": "lege/2010/284"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 79/2018",
+    "number": "79",
+    "year": "2018",
+    "path": "lege/2018/79"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 168/2022",
+    "number": "168",
+    "year": "2022",
+    "path": "oug/2022/168"
+   },
+   "articles": [
+    {
+     "art": "LVII",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 330/2009",
+    "number": "330",
+    "year": "2009",
+    "path": "lege/2009/330"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 38/2003",
+    "number": "38",
+    "year": "2003",
+    "path": "og/2003/38"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2025-01-03",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/293132",
+  "text_sha256": "702fe5203fd06e1f7956086f6beae3c498f60857eca5d5e98c00e50f1f9b1d01",
+  "catalogue_sha256": "702fe5203fd06e1f7956086f6beae3c498f60857eca5d5e98c00e50f1f9b1d01",
+  "fetched": "2026-11-03T01:02:05Z",
+  "chars": 56614,
+  "portal_id": "293132",
+  "tip": "DECIZIE"
+ }
+}
