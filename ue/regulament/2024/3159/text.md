@@ -1,0 +1,553 @@
+REGULAMENTUL DELEGAT (UE) 2024/3159 AL COMISIEI
+din 2 septembrie 2024
+de modificare a Regulamentului (UE) 2016/792 al Parlamentului European și al Consiliului privind indicii armonizați ai prețurilor de consum și indicele prețului locuințelor în ceea ce privește clasificarea consumului și includerea jocurilor de noroc
+(Text cu relevanță pentru SEE)
+COMISIA EUROPEANĂ,
+având în vedere Tratatul privind funcționarea Uniunii Europene,
+având în vedere Regulamentul (UE) 2016/792 al Parlamentului European și al Consiliului din 11 mai 2016 privind indicii armonizați ai prețurilor de consum și indicele prețului locuințelor, și de abrogare a Regulamentului (CE) nr. 2494/95 al Consiliului (1), în special articolul 4 alineatul (3) și articolul 5 alineatul (8),
+întrucât:
+(1) Articolul 4 alineatul (3) din Regulamentul (UE) 2016/792 împuternicește Comisia să adopte acte delegate în conformitate cu articolul 10 în vederea modificării anexei I, pentru a asigura comparabilitatea indicilor armonizați la nivel internațional în conformitate cu modificările aduse Clasificării consumului individual a Organizației Națiunilor Unite în funcție de destinație (UN COICOP).
+(2) Cea de a 49-a sesiune a Comisiei pentru statistică a Organizației Națiunilor Unite a examinat și a aprobat o versiune revizuită a UN COICOP ca standard acceptat la nivel internațional. Anexa I la Regulamentul (UE) 2016/792 trebuie modificată, în vederea alinierii clasificării europene a consumului individual pe destinații (ECOICOP) la versiunea revizuită a UN COICOP. Clasificarea revizuită reflectă modificările semnificative ale naturii modelelor de consum ale gospodăriilor care au avut loc de la întocmirea clasificării UN COICOP inițiale în 1999.
+(3) Comisia (Eurostat) a elaborat orientări metodologice care ar trebui să asigure un grad suficient de armonizare pentru elaborarea unui subindice pentru jocurile de noroc. Prin urmare, jocurile de noroc trebuie incluse în indicii armonizați ai prețurilor de consum (IAPC) și în indicii armonizați ai prețurilor de consum la rate de impozitare constante (IAPC-IC).
+(4) Ca urmare a modificării clasificării din anexa I la Regulamentul (UE) 2016/792 și pentru a asigura coerența între clasificarea respectivă și tabelul de la articolul 5 alineatul (8) din regulamentul respectiv, tabelul trebuie înțeles ca făcând trimitere la clasificarea modificată în ceea ce privește produsele enumerate în tabel.
+(5) Regulamentul (UE) 2016/792 trebuie să fie modificat în consecință.
+(6) Pentru a acorda timp punerii în aplicare a noii clasificări în sistemele statelor membre, regulamentul trebuie să se aplice transmiterii datelor IAPC și IAPC-IC către Comisie (Eurostat) începând cu luna de referință ianuarie 2026,
+ADOPTĂ PREZENTUL REGULAMENT:
+Articolul 1
+Regulamentul (UE) 2016/792 se modifică după cum urmează:
+1. La articolul 5, alineatul (8) se înlocuiește cu următorul text:
+„(8) Statele membre nu sunt obligate să producă următoarele părți de subindici ECOICOP sau următorii subindici ECOICOP, fie pentru că nu sunt incluși în cheltuielile monetare pentru consumul final al gospodăriilor, fie pentru că gradul de armonizare metodologică nu este încă suficient:
+02.3. Narcotice;
+12.2. Prostituție;
+12.5.1. Asigurări de viață;
+12.6.1. SIFIM.
+Se conferă Comisiei competența de a adopta acte delegate în conformitate cu articolul 10 în vederea modificării listei prevăzute în prezentul alineat pentru a include jocurile de noroc în IAPC și în IAPC-IC.”
+2. Anexa I se înlocuiește cu textul care figurează în anexa la prezentul regulament.
+Articolul 2
+Prezentul regulament intră în vigoare în a douăzecea zi de la data publicării în Jurnalul Oficial al Uniunii Europene.
+Prezentul regulament se aplică transmiterii către Comisie (Eurostat) a datelor aferente indicilor armonizați ai prețurilor de consum (IAPC) și indicilor armonizați ai prețurilor de consum la rate de impozitare constante (IAPC-IC) începând cu luna de referință ianuarie 2026.
+Prezentul regulament este obligatoriu în toate elementele sale și se aplică direct în toate statele membre.
+Adoptat la Bruxelles, 2 septembrie 2024.
+Pentru Comisie
+Președinta
+Ursula VON DER LEYEN
+(1) JO L 135, 24.5.2016, p. 11.
+ANEXĂ
+„ANEXA I
+CLASIFICAREA EUROPEANĂ A CONSUMULUI INDIVIDUAL PE DESTINAȚII (ECOICOP) versiunea 2
+ECOICOP versiunea 2 este identică cu UN COICOP 2018.
+ND | : | Bun de folosință neîndelungată
+SD | : | Bun de folosință semi-îndelungată
+D | : | Bun de folosință îndelungată
+S | : | Serviciu
+01 Alimente și băuturi nealcoolice
+01.1 Alimente
+01.1.1 Cereale și produse pe bază de cereale (ND)
+01.1.1.1 Cereale (ND)
+01.1.1.2 Făină de cereale (ND)
+01.1.1.3 Pâine și produse de panificație (ND)
+01.1.1.4 Cereale pentru micul dejun (ND)
+01.1.1.5 Macaroane, tăieței, cușcuș și produse din paste similare (ND)
+01.1.1.9 Alte produse pe bază de cereale măcinate (ND)
+01.1.2 Animale vii, carne și alte părți de animale terestre sacrificate (ND)
+01.1.2.1 Animale terestre vii (ND)
+01.1.2.2 Carne, proaspătă, refrigerată sau congelată (ND)
+01.1.2.3 Carne, uscată, sărată, în saramură sau afumată (ND)
+01.1.2.4 Organe, sânge și alte părți de animale sacrificate, proaspete, refrigerate sau congelate, uscate, sărate, în saramură sau afumate (ND)
+01.1.2.5 Preparate din carne, organe, sânge și alte părți de animale sacrificate (ND)
+01.1.3 Pește și alte fructe de mare (ND)
+01.1.3.1 Pește, viu, proaspăt, refrigerat sau congelat (ND)
+01.1.3.2 Pește, uscat, sărat, în saramură sau afumat (ND)
+01.1.3.3 Preparate din pește (ND)
+01.1.3.4 Alte fructe de mare, vii, proaspete, refrigerate sau congelate (ND)
+01.1.3.5 Alte fructe de mare, uscate, sărate, în saramură sau afumate (ND)
+01.1.3.6 Alte preparate din fructe de mare (ND)
+01.1.3.7 Ficat, icre și alte organe de pește și de alte fructe de mare, sub toate formele (ND)
+01.1.4 Lapte, alte produse lactate și ouă (ND)
+01.1.4.1 Lapte crud și integral (ND)
+01.1.4.2 Lapte degresat (ND)
+01.1.4.3 Alte tipuri de lapte și smântână (ND)
+01.1.4.4 Lapte de origine neanimală (ND)
+01.1.4.5 Brânză (ND)
+01.1.4.6 Iaurt și produse similare (ND)
+01.1.4.7 Deserturi și băuturi pe bază de lapte (ND)
+01.1.4.8 Ouă (ND)
+01.1.4.9 Alte produse lactate (ND)
+01.1.5 Uleiuri și grăsimi (ND)
+01.1.5.1 Uleiuri vegetale (ND)
+01.1.5.2 Unt și alte uleiuri și grăsimi care provin din lapte (ND)
+01.1.5.3 Margarină și preparate similare (ND)
+01.1.5.9 Alte uleiuri și grăsimi de origine animală (ND)
+01.1.6 Fructe și fructe cu coajă lemnoasă (ND)
+01.1.6.1 Curmale, smochine și fructe tropicale, proaspete (ND)
+01.1.6.2 Citrice proaspete (ND)
+01.1.6.3 Fructe sâmburoase și fructe semințoase, proaspete (ND)
+01.1.6.4 Bace proaspete (ND)
+01.1.6.5 Alte fructe proaspete (ND)
+01.1.6.6 Fructe congelate (ND)
+01.1.6.7 Fructe uscate și deshidratate (ND)
+01.1.6.8 Fructe cu coajă lemnoasă, în coajă sau decojite (ND)
+01.1.6.9 Fructe și fructe cu coajă lemnoasă, măcinate și în alte preparate (ND)
+01.1.7 Legume, tuberculi, banane din specia Musa paradisiaca (plantains), banane destinate gătitului și leguminoase (ND)
+01.1.7.1 Legume cu frunze sau tulpină, proaspete sau refrigerate (ND)
+01.1.7.2 Legume pentru fructe, proaspete sau refrigerate (ND)
+01.1.7.3 Leguminoase verzi, proaspete sau refrigerate (ND)
+01.1.7.4 Alte legume, proaspete sau refrigerate (ND)
+01.1.7.5 Tuberculi, banane din specia Musa paradisiaca (plantains) și banane destinate gătitului, proaspete sau refrigerate (ND)
+01.1.7.6 Leguminoase (ND)
+01.1.7.7 Alte legume, tuberculi, banane din specia Musa paradisiaca (plantains) și banane destinate gătitului, uscate și deshidratate (ND)
+01.1.7.8 Legume, tuberculi, banane din specia Musa paradisiaca (plantains) și banane destinate gătitului, congelate (ND)
+01.1.7.9 Legume, tuberculi, banane din specia Musa paradisiaca (plantains), banane destinate gătitului și leguminoase, măcinate și în alte preparate (ND)
+01.1.8 Zahăr, produse de cofetărie și deserturi (ND)
+01.1.8.1 Zahăr din trestie și din sfeclă (ND)
+01.1.8.2 Alte zaharuri și înlocuitori de zahăr (ND)
+01.1.8.3 Gemuri, marmelade, jeleuri, piureuri și paste de fructe și miere (ND)
+01.1.8.4 Piure de fructe cu coajă lemnoasă, unt de fructe cu coajă lemnoasă și pastă de fructe cu coajă lemnoasă (ND)
+01.1.8.5 Ciocolată, cacao și produse alimentare pe bază de cacao (ND)
+01.1.8.6 Gheață, înghețată și sorbeturi (ND)
+01.1.8.9 Alte produse zaharoase și deserturi n.c.a. (ND)
+01.1.9 Mâncăruri gata preparate și alte produse alimentare (ND)
+01.1.9.1 Mâncăruri gata preparate (ND)
+01.1.9.2 Alimente pentru sugari (ND)
+01.1.9.3 Sare, condimente și sosuri (ND)
+01.1.9.4 Mirodenii, ierburi aromatice culinare și semințe (ND)
+01.1.9.9 Alte produse alimentare n.c.a. (ND)
+01.2 Băuturi nealcoolice
+01.2.1 Sucuri de fructe și de legume (ND)
+01.2.1.0 Sucuri de fructe și de legume (ND)
+01.2.2 Cafea și înlocuitori de cafea (ND)
+01.2.2.0 Cafea și înlocuitori de cafea (ND)
+01.2.3 Ceai, maté și alte produse derivate din plante pentru infuzii (ND)
+01.2.3.0 Ceai, maté și alte produse derivate din plante pentru infuzii (ND)
+01.2.4 Băuturi din cacao (ND)
+01.2.4.0 Băuturi din cacao (ND)
+01.2.5 Apă (ND)
+01.2.5.0 Apă (ND)
+01.2.6 Băuturi răcoritoare (ND)
+01.2.6.0 Băuturi răcoritoare (ND)
+01.2.9 Alte băuturi nealcoolice (ND)
+01.2.9.0 Alte băuturi nealcoolice (ND)
+01.3 Servicii de prelucrare a produselor de bază pentru alimente și băuturi nealcoolice
+01.3.0 Servicii de prelucrare a produselor de bază pentru alimente și băuturi nealcoolice (S)
+01.3.0.0 Servicii de prelucrare a produselor de bază pentru alimente și băuturi nealcoolice (S)
+02 Băuturi alcoolice, tutun și narcotice
+02.1 Băuturi alcoolice
+02.1.1 Băuturi spirtoase (ND)
+02.1.1.0 Băuturi spirtoase (ND)
+02.1.2 Vinuri (ND)
+02.1.2.1 Vinuri din struguri (ND)
+02.1.2.2 Vinuri din alte surse (ND)
+02.1.3 Bere (ND)
+02.1.3.0 Bere (ND)
+02.1.9 Alte băuturi alcoolice (ND)
+02.1.9.0 Alte băuturi alcoolice (ND)
+02.2 Servicii de producție a alcoolului
+02.2.0 Servicii de producție a alcoolului (S)
+02.2.0.0 Servicii de producție a alcoolului (S)
+02.3 Tutun
+02.3.0 Tutun (ND)
+02.3.0.1 Țigarete (ND)
+02.3.0.2 Țigări de foi (ND)
+02.3.0.9 Alte produse din tutun (ND)
+02.4 Narcotice
+02.4.0 Narcotice (ND)
+02.4.0.0 Narcotice (ND)
+03 Îmbrăcăminte și încălțăminte
+03.1 Îmbrăcăminte
+03.1.1 Materiale pentru confecții (SD)
+03.1.1.0 Materiale pentru confecții (SD)
+03.1.2 Articole de îmbrăcăminte (SD)
+03.1.2.1 Articole de îmbrăcăminte pentru bărbați sau băieți (SD)
+03.1.2.2 Articole de îmbrăcăminte pentru femei sau fete (SD)
+03.1.2.3 Articole de îmbrăcăminte pentru bebeluși (cu vârsta sub 2 ani) (SD)
+03.1.2.4 Uniforme școlare (SD)
+03.1.3 Alte articole și accesorii de îmbrăcăminte (SD)
+03.1.3.1 Alte articole de îmbrăcăminte (SD)
+03.1.3.2 Accesorii de îmbrăcăminte (SD)
+03.1.4 Curățarea, repararea, confecționarea și închirierea articolelor de îmbrăcăminte (S)
+03.1.4.1 Curățarea articolelor de îmbrăcăminte (S)
+03.1.4.2 Repararea, confecționarea și închirierea articolelor de îmbrăcăminte (S)
+03.2 Încălțăminte
+03.2.1 Pantofi și alte tipuri de încălțăminte (SD)
+03.2.1.1 Încălțăminte pentru bărbați (SD)
+03.2.1.2 Încălțăminte pentru femei (SD)
+03.2.1.3 Încălțăminte pentru bebeluși și pentru copii (SD)
+03.2.2 Curățarea, repararea și închirierea articolelor de încălțăminte (S)
+03.2.2.0 Curățarea, repararea și închirierea articolelor de încălțăminte (S)
+04 Locuință, apă, electricitate, gaz și alți combustibili
+04.1 Plăți efective de chirii efectuate pentru locuință
+04.1.1 Plăți efective de chirii efectuate de chiriași pentru reședința principală (S)
+04.1.1.0 Plăți efective de chirii efectuate de chiriași pentru reședința principală (S)
+04.1.2 Alte plăți efective de chirii (S)
+04.1.2.1 Plăți efective de chirii efectuate de chiriași pentru reședințe secundare (S)
+04.1.2.2 Plăți de chirii pentru garaje și alte plăți de chirii efectuate de chiriași (S)
+04.2 Plăți de chirii imputate pentru locuință
+04.2.1 Plăți de chirii imputate pentru locatarii-proprietari pentru reședința lor principală (S)
+04.2.1.0 Plăți de chirii imputate pentru locatarii-proprietari pentru reședința lor principală (S)
+04.2.2 Alte chirii imputate (S)
+04.2.2.0 Alte chirii imputate (S)
+04.3 Întreținerea, repararea și siguranța locuinței
+04.3.1 Echipamente de siguranță și materiale pentru întreținerea și repararea locuinței
+04.3.1.1 Materiale pentru întreținerea și repararea locuinței (ND)
+04.3.1.2 Echipamente de siguranță (SD)
+04.3.2 Servicii pentru întreținerea, repararea și siguranța locuinței (S)
+04.3.2.0 Servicii pentru întreținerea, repararea și siguranța locuinței (S)
+04.4 Alimentarea cu apă și alte servicii aferente locuinței
+04.4.1 Alimentarea cu apă (ND)
+04.4.1.1 Alimentarea cu apă prin intermediul rețelelor de distribuție (ND)
+04.4.1.2 Alimentarea cu apă prin intermediul altor sisteme (ND)
+04.4.2 Colectarea deșeurilor (S)
+04.4.2.0 Colectarea deșeurilor (S)
+04.4.3 Colectarea apelor uzate (S)
+04.4.3.1 Colectarea apelor uzate prin sisteme de canalizare (S)
+04.4.3.2 Colectarea apelor uzate prin sisteme de salubrizare la fața locului (S)
+04.4.4 Alte servicii legate de locuință (S)
+04.4.4.1 Cheltuieli de întreținere în imobilele colective (S)
+04.4.4.9 Alte servicii legate de locuință n.c.a. (S)
+04.5 Electricitate, gaz și alți combustibili
+04.5.1 Electricitate (ND)
+04.5.1.0 Electricitate (ND)
+04.5.2 Gaz (ND)
+04.5.2.1 Gaze naturale distribuite prin rețele (ND)
+04.5.2.2 Hidrocarburi lichefiate (ND)
+04.5.3 Combustibili lichizi (ND)
+04.5.3.0 Combustibili lichizi (ND)
+04.5.4 Combustibili solizi (ND)
+04.5.4.1 Cărbune, brichete de cărbune, turbă și brichete de turbă (ND)
+04.5.4.2 Combustibil lemnos, inclusiv pelete și brichete (ND)
+04.5.4.3 Cărbune (ND)
+04.5.4.9 Alți combustibili solizi (ND)
+04.5.5 Alte surse de energie pentru încălzire și răcire (ND)
+04.5.5.0 Alte surse de energie pentru încălzire și răcire (ND)
+05 Articole de mobilier, echipamente de uz casnic și întreținerea curentă a locuinței
+05.1 Mobilă, articole de mobilier și covoare
+05.1.1 Mobilă, articole de mobilier și covoare (D)
+05.1.1.1 Mobilier de uz casnic (D)
+05.1.1.2 Mobilier de grădină și de camping (D)
+05.1.1.3 Echipamente de iluminat (D)
+05.1.1.4 Articole de mobilier, covoare și mochete (D)
+05.1.2 Repararea, instalarea și închirierea mobilei, a articolelor de mobilier și a covoarelor (S)
+05.1.2.0 Repararea, instalarea și închirierea mobilei, a articolelor de mobilier și a covoarelor (S)
+05.2 Materiale textile pentru gospodărie
+05.2.1 Materiale textile pentru gospodărie (SD)
+05.2.1.1 Țesături pentru articole de mobilier și perdele (SD)
+05.2.1.2 Lenjerie de pat și așternuturi (SD)
+05.2.1.3 Lenjerie de masă și lenjerie de baie (SD)
+05.2.1.9 Alte materiale textile pentru gospodărie (SD)
+05.2.2 Servicii de reparare, închiriere și cusut ale materialelor textile pentru gospodărie (S)
+05.2.2.0 Servicii de reparare, închiriere și cusut ale materialelor textile pentru gospodărie (S)
+05.3 Aparate de uz casnic
+05.3.1 Aparate de uz casnic mari, electrice și de alt tip (D)
+05.3.1.1 Aparate de bucătărie mari (D)
+05.3.1.2 Aparate de spălat rufe, mari (D)
+05.3.1.3 Aparate de încălzire și aparate de climatizare (D)
+05.3.1.4 Echipamente de curățare (D)
+05.3.1.9 Alte aparate de uz casnic de dimensiuni mari (D)
+05.3.2 Aparate de uz casnic mici (SD)
+05.3.2.1 Aparate mici pentru gătirea și prelucrarea alimentelor (SD)
+05.3.2.2 Aparate mici pentru prepararea băuturilor (SD)
+05.3.2.9 Alte aparate de uz casnic mici (SD)
+05.3.3 Repararea, instalarea și închirierea aparatelor de uz casnic (S)
+05.3.3.0 Repararea, instalarea și închirierea aparatelor de uz casnic (S)
+05.4 Sticlărie, veselă și ustensile de menaj
+05.4.0 Sticlărie, veselă și ustensile de menaj (SD)
+05.4.0.1 Articole de sticlă, de cristal, de ceramică și de porțelan (SD)
+05.4.0.2 Tacâmuri, articole din metal comun și argintărie (SD)
+05.4.0.3 Ustensile și articole de bucătărie (SD)
+05.4.0.4 Repararea și închirierea sticlăriei, a veselei și a ustensilelor de menaj (S)
+05.5 Unelte și echipamente pentru casă și grădină
+05.5.1 Unelte și echipamente motorizate (D)
+05.5.1.0 Unelte și echipamente motorizate (D)
+05.5.2 Unelte nemotorizate și accesorii diverse (SD)
+05.5.2.1 Unelte nemotorizate (SD)
+05.5.2.2 Accesorii diverse (SD)
+05.5.3 Repararea și închirierea de unelte și echipamente motorizate și nemotorizate (S)
+05.5.3.0 Repararea și închirierea de unelte și echipamente motorizate și nemotorizate (S)
+05.6 Bunuri și servicii pentru întreținerea curentă a locuinței
+05.6.1 Articole de menaj de folosință neîndelungată (ND)
+05.6.1.1 Produse de curățare și de întreținere a locuinței (ND)
+05.6.1.9 Alte articole de menaj de folosință neîndelungată (ND)
+05.6.2 Servicii domestice și alte servicii pentru locuință (S)
+05.6.2.1 Servicii domestice prestate de personal remunerat (S)
+05.6.2.9 Alte servicii pentru locuință (S)
+06 Sănătate
+06.1 Medicamente și produse de sănătate
+06.1.1 Medicamente (ND)
+06.1.1.1 Medicamente, vaccinuri și alte preparate farmaceutice (ND)
+06.1.1.2 Medicamente pe bază de plante și produse homeopatice (ND)
+06.1.2 Produse medicale (ND)
+06.1.2.1 Produse medicale pentru diagnostic (ND)
+06.1.2.2 Dispozitive pentru prevenire și protecție (ND)
+06.1.2.3 Dispozitive de tratament pentru uz personal (ND)
+06.1.3 Produse de asistare (D)
+06.1.3.1 Produse de asistare pentru vedere (D)
+06.1.3.2 Produse de asistare pentru auz și comunicare (D)
+06.1.3.3 Produse de asistare pentru mobilitate și traiul zilnic (D)
+06.1.4 Repararea, închirierea și întreținerea produselor medicale și de asistare (S)
+06.1.4.0 Repararea, închirierea și întreținerea produselor medicale și de asistare (S)
+06.2 Servicii de îngrijire ambulatorie
+06.2.1 Servicii de îngrijire preventivă (S)
+06.2.1.1 Servicii de imunizare (S)
+06.2.1.9 Alte servicii de îngrijire preventivă (S)
+06.2.2 Servicii dentare ambulatorii (S)
+06.2.2.1 Servicii dentare preventive (S)
+06.2.2.9 Alte servicii dentare ambulatorii (S)
+06.2.3 Alte servicii de îngrijire ambulatorie (S)
+06.2.3.1 Servicii curative și de recuperare în ambulatoriu (S)
+06.2.3.2 Servicii de îngrijire ambulatorie pe termen lung (S)
+06.3 Servicii spitalicești
+06.3.1 Servicii curative și de recuperare spitalicești (S)
+06.3.1.0 Servicii curative și de recuperare spitalicești (S)
+06.3.2 Servicii spitalicești pe termen lung (S)
+06.3.2.0 Servicii spitalicești pe termen lung (S)
+06.4 Alte servicii de sănătate
+06.4.1 Servicii de diagnostic imagistic și servicii de laborator medical (S)
+06.4.1.0 Servicii de diagnostic imagistic și servicii de laborator medical (S)
+06.4.2 Servicii de transport de urgență pentru pacienți și de salvare în situații de urgență (S)
+06.4.2.0 Servicii de transport de urgență pentru pacienți și de salvare în situații de urgență (S)
+07 Transport
+07.1 Achiziționarea de vehicule
+07.1.1 Autovehicule (D)
+07.1.1.1 Autovehicule noi (D)
+07.1.1.2 Autovehicule de ocazie (D)
+07.1.2 Motociclete (D)
+07.1.2.0 Motociclete (D)
+07.1.3 Biciclete (D)
+07.1.3.0 Biciclete (D)
+07.1.4 Vehicule cu tracțiune animală (D)
+07.1.4.0 Vehicule cu tracțiune animală (D)
+07.2 Utilizarea vehiculelor personale
+07.2.1 Piese de schimb și accesorii pentru vehiculele personale (SD)
+07.2.1.1 Anvelope (SD)
+07.2.1.2 Piese de schimb pentru vehiculele personale (SD)
+07.2.1.3 Accesorii pentru vehiculele personale (SD)
+07.2.2 Combustibili și lubrifianți pentru vehiculele personale (ND)
+07.2.2.1 Motorină (ND)
+07.2.2.2 Benzină (ND)
+07.2.2.3 Alți combustibili pentru vehiculele personale (ND)
+07.2.2.4 Lubrifianți (ND)
+07.2.3 Întreținerea și repararea vehiculelor personale (S)
+07.2.3.0 Întreținerea și repararea vehiculelor personale (S)
+07.2.4 Alte servicii pentru vehiculele personale (S)
+07.2.4.1 Servicii de parcare (S)
+07.2.4.2 Taxe rutiere (S)
+07.2.4.3 Cursuri de conducere auto, teste, permise și inspecții tehnice auto (S)
+07.2.4.4 Închirierea vehiculelor personale fără șofer (S)
+07.3 Servicii de transport de călători
+07.3.1 Transport feroviar de călători (S)
+07.3.1.1 Transport de călători cu trenul (S)
+07.3.1.2 Transport de călători cu sistemul de tranzit rapid și cu tramvaiul (S)
+07.3.2 Transport rutier de călători (S)
+07.3.2.1 Transport de călători cu autobuzul și cu autocarul (S)
+07.3.2.2 Transport de călători cu taxiul și cu autovehicule cu șofer închiriate (S)
+07.3.2.3 Transport pentru elevi, către și de la școală (S)
+07.3.2.9 Alte tipuri de transport rutier de călători (S)
+07.3.3 Transport aerian de călători (S)
+07.3.3.1 Transport aerian de călători, național (S)
+07.3.3.2 Transport aerian de călători, internațional (S)
+07.3.4 Transport maritim și pe căi navigabile interioare de călători (S)
+07.3.4.0 Transport maritim și pe căi navigabile interioare de călători (S)
+07.3.5 Transport de călători combinat (S)
+07.3.5.0 Transport de călători combinat (S)
+07.3.6 Alte servicii de transport de călători (S)
+07.3.6.0 Alte servicii de transport de călători (S)
+07.4 Servicii de transport de bunuri
+07.4.1 Servicii poștale și de curierat (S)
+07.4.1.1 Servicii de manipulare a corespondenței (S)
+07.4.1.2 Servicii de curierat și de livrare de colete (S)
+07.4.9 Alte tipuri de transport de bunuri (S)
+07.4.9.1 Servicii de mutare și depozitare (S)
+07.4.9.2 Livrare de bunuri (S)
+08 Informare și comunicare
+08.1 Echipamente de informare și comunicare
+08.1.1 Echipamente de telefon fix (D)
+08.1.1.0 Echipamente de telefon fix (D)
+08.1.2 Echipamente de telefon mobil (D)
+08.1.2.0 Echipamente de telefon mobil (D)
+08.1.3 Echipamente informatice (D)
+08.1.3.1 Calculatoare, laptopuri și tablete (D)
+08.1.3.2 Echipament periferic și componentele sale consumabile (D)
+08.1.4 Aparate de recepționare, de înregistrare și de reproducere a sunetului și a imaginii (D)
+08.1.4.0 Aparate de recepționare, de înregistrare și de reproducere a sunetului și a imaginii (D)
+08.1.5 Suporturi de înregistrare neînregistrate (SD)
+08.1.5.0 Suporturi de înregistrare neînregistrate (SD)
+08.1.9 Alte echipamente și accesorii pentru informare și comunicare (D)
+08.1.9.1 Alte echipamente de informare și comunicare (D)
+08.1.9.2 Alte accesorii pentru informare și comunicare (SD)
+08.2 Software, cu excepția jocurilor
+08.2.0 Software, cu excepția jocurilor (S)
+08.2.0.0 Software, cu excepția jocurilor (S)
+08.3 Servicii de informare și comunicare
+08.3.1 Servicii de comunicații fixe (S)
+08.3.1.0 Servicii de comunicații fixe (S)
+08.3.2 Servicii de comunicații mobile (S)
+08.3.2.0 Servicii de comunicații mobile (S)
+08.3.3 Servicii de furnizare de acces la internet și servicii de stocare online (S)
+08.3.3.0 Servicii de furnizare de acces la internet și servicii de stocare online (S)
+08.3.4 Pachete de servicii de telecomunicații (S)
+08.3.4.0 Pachete de servicii de telecomunicații (S)
+08.3.5 Repararea și închirierea echipamentelor de informare și comunicare (S)
+08.3.5.0 Repararea și închirierea echipamentelor de informare și comunicare (S)
+08.3.9 Alte servicii de informare și comunicare (S)
+08.3.9.1 Taxe și licențe pentru televiziune și radio (S)
+08.3.9.2 Abonamente la servicii de streaming audiovizual și închiriere de conținut audiovizual (S)
+08.3.9.9 Alte servicii de informare și comunicare n.c.a. (S)
+09 Recreere, sport și cultură
+09.1 Bunuri de folosință îndelungată pentru activități recreative
+09.1.1 Echipamente fotografice și cinematografice și instrumente optice (D)
+09.1.1.1 Camere video și aparate fotografice (D)
+09.1.1.2 Accesorii pentru echipamente fotografice și cinematografice (D)
+09.1.1.3 Instrumente optice (D)
+09.1.2 Bunuri de folosință îndelungată de mari dimensiuni pentru activități recreative (D)
+09.1.2.1 Rulote, autorulote și remorci (D)
+09.1.2.2 Avioane, aeronave ultraușoare, planoare, deltaplane și baloane cu aer cald (D)
+09.1.2.3 Bărci, iahturi, motoare suspendate și alte echipamente pentru practicarea sporturilor nautice (D)
+09.1.2.4 Cai, ponei, cămile și dromaderi și accesorii (D)
+09.1.2.9 Alte bunuri de folosință îndelungată de mari dimensiuni pentru activități recreative (D)
+09.2 Alte bunuri pentru activități recreative
+09.2.1 Jocuri, jucării și articole pentru hobbyuri (SD)
+09.2.1.1 Calculatoare pentru jocuri video, console, aplicații de jocuri și software (SD)
+09.2.1.2 Alte jocuri, jucării și articole pentru hobbyuri (SD)
+09.2.1.3 Articole festive (ND)
+09.2.2 Echipamente de sport, de camping și de recreere în aer liber (SD)
+09.2.2.1 Echipamente de sport (SD)
+09.2.2.2 Echipamente de camping și de recreere în aer liber (SD)
+09.3 Produse pentru grădinărit și animale de companie
+09.3.1 Produse pentru grădinărit, plante și flori (ND)
+09.3.1.1 Produse pentru grădinărit (ND)
+09.3.1.2 Plante, semințe și flori (ND)
+09.3.2 Animale de companie și produse pentru animale de companie (D)
+09.3.2.1 Animale de companie (D)
+09.3.2.2 Produse pentru animale de companie și alte animale domestice (ND)
+09.4 Servicii recreative
+09.4.1 Închirierea și repararea echipamentelor fotografice și cinematografice și a instrumentelor optice (S)
+09.4.1.0 Închirierea și repararea echipamentelor fotografice și cinematografice și a instrumentelor optice (S)
+09.4.2 Închirierea, întreținerea și repararea bunurilor de folosință îndelungată de mari dimensiuni pentru activități recreative (S)
+09.4.2.1 Închirierea, întreținerea și repararea rulotelor și autorulotelor (S)
+09.4.2.2 Închirierea, întreținerea și repararea altor bunuri de folosință îndelungată de mari dimensiuni pentru activități recreative (S)
+09.4.3 Închirierea și repararea jocurilor, jucăriilor și articolelor pentru hobbyuri (S)
+09.4.3.1 Închirierea de software pentru jocuri și abonamente la jocuri online (S)
+09.4.3.2 Închirierea și repararea altor jocuri, a jucăriilor și a articolelor pentru hobbyuri (S)
+09.4.4 Închirierea și repararea echipamentelor de sport, de camping și de recreere în aer liber (S)
+09.4.4.0 Închirierea și repararea echipamentelor de sport, de camping și de recreere în aer liber (S)
+09.4.5 Servicii veterinare și alte servicii pentru animalele de companie (S)
+09.4.5.0 Servicii veterinare și alte servicii pentru animalele de companie (S)
+09.4.6 Servicii recreative și sportive (S)
+09.4.6.1 Servicii recreative și de ocupare a timpului liber (S)
+09.4.6.2 Servicii asociate practicării sportului (S)
+09.4.6.3 Servicii asociate participării la evenimente sportive (S)
+09.4.7 Jocuri de noroc (S)
+09.4.7.0 Jocuri de noroc (S)
+09.5 Bunuri culturale
+09.5.1 Instrumente muzicale (D)
+09.5.1.0 Instrumente muzicale (D)
+09.5.2 Mass-media audiovizuală (SD)
+09.5.2.0 Mass-media audiovizuală (SD)
+09.6 Servicii culturale
+09.6.1 Servicii furnizate de cinematografe, teatre și săli de concerte (S)
+09.6.1.0 Servicii furnizate de cinematografe, teatre și săli de concerte (S)
+09.6.2 Servicii furnizate de muzee, biblioteci și situri culturale (S)
+09.6.2.0 Servicii furnizate de muzee, biblioteci și situri culturale (S)
+09.6.3 Servicii fotografice (S)
+09.6.3.0 Servicii fotografice (S)
+09.6.9 Alte servicii culturale (S)
+09.6.9.0 Alte servicii culturale (S)
+09.7 Ziare, cărți și papetărie
+09.7.1 Cărți (SD)
+09.7.1.1 Cărți cu conținut educativ și manuale (SD)
+09.7.1.9 Alte cărți (SD)
+09.7.2 Ziare și publicații periodice (ND)
+09.7.2.1 Ziare (ND)
+09.7.2.2 Reviste și publicații periodice (ND)
+09.7.3 Diverse materiale tipărite (ND)
+09.7.3.0 Diverse materiale tipărite (ND)
+09.7.4 Papetărie și materiale pentru desen (ND)
+09.7.4.0 Papetărie și materiale pentru desen (ND)
+09.8 Pachete de servicii pentru vacanță
+09.8.0 Pachete de servicii pentru vacanță (S)
+09.8.0.0 Pachete de servicii pentru vacanță (S)
+10 Servicii de învățământ
+10.1 Educație timpurie și învățământ primar
+10.1.0 Educație timpurie și învățământ primar (S)
+10.1.0.1 Educație timpurie (S)
+10.1.0.2 Învățământ primar (S)
+10.2 Învățământ secundar
+10.2.0 Învățământ secundar (S)
+10.2.0.0 Învățământ secundar (S)
+10.3 Învățământ post-secundar neterțiar
+10.3.0 Învățământ post-secundar neterțiar (S)
+10.3.0.0 Învățământ post-secundar neterțiar (S)
+10.4 Învățământ terțiar
+10.4.0 Învățământ terțiar (S)
+10.4.0.0 Învățământ terțiar (S)
+10.5 Învățământ neîncadrat în niciun nivel de studii
+10.5.0 Învățământ neîncadrat în niciun nivel de studii (S)
+10.5.0.1 Tutoriat (S)
+10.5.0.9 Alt tip de învățământ neîncadrat în niciun nivel de studii (S)
+11 Restaurante și servicii de cazare
+11.1 Servicii de servire a alimentelor și băuturilor
+11.1.1 Restaurante, cafenele și alte localuri similare (S)
+11.1.1.1 Restaurante, cafenele și alte localuri similare - cu servicii complete (S)
+11.1.1.2 Restaurante, cafenele și alte localuri similare - cu servicii limitate (S)
+11.1.2 Cantine, cafenele și săli de mese (S)
+11.1.2.1 Cantine și cafenele ale universităților, școlilor și grădinițelor (S)
+11.1.2.9 Alte cantine, cafenele și săli de mese (S)
+11.2 Servicii de cazare
+11.2.0 Servicii de cazare (S)
+11.2.0.1 Hoteluri, moteluri, hanuri și servicii de cazare similare (S)
+11.2.0.2 Centre de vacanță, campinguri, hosteluri și servicii de cazare asemănătoare (S)
+11.2.0.3 Servicii de cazare în internate, universități și alte unități de învățământ (S)
+11.2.0.9 Alte servicii de cazare (S)
+12 Servicii de asigurări și servicii financiare
+12.1 Asigurări
+12.1.1 Asigurări de viață și împotriva accidentelor (S)
+12.1.1.0 Asigurări de viață și împotriva accidentelor (S)
+12.1.2 Asigurări legate de sănătate (S)
+12.1.2.0 Asigurări legate de sănătate (S)
+12.1.3 Asigurări legate de locuință (S)
+12.1.3.0 Asigurări legate de locuință (S)
+12.1.4 Asigurări legate de transport (S)
+12.1.4.1 Asigurări de transport personal (S)
+12.1.4.2 Asigurări de călătorie (S)
+12.1.9 Alte asigurări (S)
+12.1.9.0 Alte asigurări (S)
+12.2 Servicii financiare
+12.2.1 Servicii de intermediere financiară indirect măsurate (S)
+12.2.1.0 Servicii de intermediere financiară indirect măsurate (S)
+12.2.2 Comisioane explicite ale societăților care acceptă depozite (S)
+12.2.2.0 Comisioane explicite ale societăților care acceptă depozite (S)
+12.2.9 Alte servicii financiare (S)
+12.2.9.1 Comisioane pentru transfer de fonduri (S)
+12.2.9.9 Alte servicii financiare n.c.a. (S)
+13 Îngrijire personală, protecție socială și diverse bunuri și servicii
+13.1 Îngrijire personală
+13.1.1 Aparate electrice pentru îngrijirea personală (SD)
+13.1.1.1 Achiziționarea de aparate electrice pentru îngrijirea personală (SD)
+13.1.1.2 Repararea aparatelor electrice pentru îngrijirea personală (S)
+13.1.2 Alte aparate, articole și produse pentru îngrijirea personală (ND)
+13.1.2.0 Alte aparate, articole și produse pentru îngrijirea personală (ND)
+13.1.3 Saloane de coafură, de frizerie și de estetică corporală (S)
+13.1.3.1 Coafură și frizerie (S)
+13.1.3.2 Tratamente de estetică corporală (S)
+13.2 Alte efecte personale
+13.2.1 Bijuterii și ceasuri de mână (D)
+13.2.1.1 Achiziționarea de bijuterii și ceasuri de mână (D)
+13.2.1.2 Repararea și închirierea bijuteriilor și a ceasurilor (S)
+13.2.2 Articole devoționale și articole pentru sărbători religioase și ritualuri (SD)
+13.2.2.0 Articole devoționale și articole pentru sărbători religioase și ritualuri (SD)
+13.2.9 Alte efecte personale n.c.a. (SD)
+13.2.9.1 Articole de voiaj, articole pentru sugari și alte efecte personale n.c.a. (SD)
+13.2.9.2 Repararea și închirierea altor efecte personale (S)
+13.3 Protecție socială
+13.3.0 Protecție socială (S)
+13.3.0.1 Servicii de îngrijire a copiilor (S)
+13.3.0.2 Aziluri de bătrâni și cămine pentru persoane cu dizabilități, care nu oferă îngrijire medicală (S)
+13.3.0.3 Servicii de îngrijire la domiciliu pentru vârstnici și pentru persoane cu dizabilități (S)
+13.3.0.9 Alte servicii de protecție socială (S)
+13.9 Alte servicii
+13.9.0 Alte servicii (S)
+13.9.0.1 Prostituție (S)
+13.9.0.2 Servicii religioase (S)
+13.9.0.9 Alte servicii n.c.a. (S)
+”
+ELI: http://data.europa.eu/eli/reg_del/2024/3159/oj
