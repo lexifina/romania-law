@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2024-12-17: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2024-12-19: sent for promulgation
 - 2024-12-20: promulgated, becomes Legea nr. 331/2024; documents published: Decret de promulgare, Forma promulgată
+- 2025-01-09: published in the Monitorul Oficial
 
 ## Documents
 
