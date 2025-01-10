@@ -1,0 +1,332 @@
+{
+ "key": "dcc-402-2024",
+ "label": "Decizia CCR nr. 402/2024",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "402",
+ "date": "2024-09-19",
+ "year": "2024",
+ "heading": "DECIZIA nr. 402 din 19 septembrie 2024",
+ "subtitle": "referitoare la excepția de neconstituționalitate a Legii nr. 11/2024 privind statutul grefierilor și al altor categorii de personal care ocupă funcții de specialitate în cadrul instanțelor judecătorești, al parchetelor de pe lângă acestea și al Institutului Național de Expertize Criminalistice, în ansamblul său",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "15",
+  "bis": false,
+  "date": "2025-01-10",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "3.243/2/2024",
+  "480/42/2024",
+  "1.868D/2024",
+  "1.746D/2024"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 11/2024",
+    "number": "11",
+    "year": "2024",
+    "path": "lege/2024/11"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite excepția de neconstituționalitate ridicată de Curtea de Apel Ploiești în Dosarul nr. 3.243/2/2024 al Curții de Apel București - Secția a X-a de contencios administrativ și fiscal și pentru achiziții publice și de Curtea de Apel București în Dosarul nr. 480/42/2024 al Curții de Apel Ploiești - Secția de contencios administrativ și fiscal și constată că Legea nr. 11/2024 privind statutul grefierilor și al altor categorii de personal care ocupă funcții de specialitate în cadrul instanțelor judecătorești, al parchetelor de pe lângă acestea și al Institutului Național de Expertize Criminalistice este neconstituțională, în ansamblul său.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică celor două Camere ale Parlamentului, Guvernului, Curții de Apel București - Secția a X-a de contencios administrativ și fiscal și pentru achiziții publice și Curții de Apel Ploiești - Secția de contencios administrativ și fiscal și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 11/2024",
+    "number": "11",
+    "year": "2024",
+    "path": "lege/2024/11"
+   },
+   "articles": [
+    {
+     "art": "58",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "205",
+     "alin": [
+      "3",
+      "4",
+      "5",
+      "6"
+     ],
+     "lit": [
+      "a",
+      "c",
+      "d"
+     ]
+    },
+    {
+     "art": "208",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "209",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "256",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "257",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "258",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "82",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "95",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 18
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 393/2023",
+    "number": "393",
+    "year": "2023",
+    "path": "lege/2023/393"
+   },
+   "articles": [
+    {
+     "art": "40",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b",
+      "a"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "205",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "3",
+      "4",
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "61",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "58",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "73",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "l"
+     ]
+    },
+    {
+     "art": "147",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 18
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2022",
+    "number": "304",
+    "year": "2022",
+    "path": "lege/2022/304"
+   },
+   "articles": [
+    {
+     "art": "127",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "26",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "64",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenției pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 567/2004",
+    "number": "567",
+    "year": "2004",
+    "path": "lege/2004/567"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2025-01-10",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/293456",
+  "text_sha256": "f60d3a36d5d79871d3e10528796365312e263aa1848fe9c0c272238552616a8d",
+  "catalogue_sha256": "f60d3a36d5d79871d3e10528796365312e263aa1848fe9c0c272238552616a8d",
+  "fetched": "2026-11-03T01:01:57Z",
+  "chars": 55290,
+  "portal_id": "293456",
+  "tip": "DECIZIE"
+ }
+}
