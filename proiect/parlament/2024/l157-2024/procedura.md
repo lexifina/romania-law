@@ -17,6 +17,7 @@ Initiator: Membri ai Parlamentului.
 - 2024-05-21: registered at the Chamber of Deputies
 - 2024-12-17: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2024-12-23: sent for promulgation
+- 2025-01-10: promulgated, becomes Legea nr. 6/2025; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -31,3 +32,5 @@ Initiator: Membri ai Parlamentului.
 - 2024-05-08: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L157AM.PDF
 - 2024-12-17: Adresă privind sesizarea CCR (AXS): [axs-d0e2bb38.md](axs-d0e2bb38.md); official file https://www.senat.ro/legis/PDF/2024/24L157AXS.PDF
 - 2024-12-17: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L157LP.PDF
+- 2025-01-10: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L157DP.PDF
+- 2025-01-10: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L157FP.PDF
