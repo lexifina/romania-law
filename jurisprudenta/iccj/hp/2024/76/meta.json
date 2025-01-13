@@ -1,0 +1,379 @@
+{
+ "key": "iccj-hp-76-2024",
+ "label": "Decizia ÎCCJ nr. 76/2024 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "76",
+ "date": "2024-11-18",
+ "year": "2024",
+ "heading": "DECIZIA nr. 76 din 18 noiembrie 2024",
+ "subtitle": "referitoare la interpretarea și aplicarea dispozițiilor art. 14 alin. (1) lit. a) capitolul II din anexa nr. II la Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, cu modificările și completările ulterioare, și ale articolului unic pct. I lit. A din anexa nr. 9 la Regulamentul-cadru privind stabilirea locurilor de muncă, a categoriilor de personal, a mărimii concrete a sporului pentru condiții de muncă prevăzut în anexa nr. II la Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, precum și a condițiilor de acordare a acestuia, pentru familia ocupațională de funcții bugetare \"Sănătate și asistență socială\", aprobat prin Hotărârea Guvernului nr. 153/2018, cu modificările și completările ulterioare",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "16",
+  "bis": false,
+  "date": "2025-01-13",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": true,
+ "dossiers": [
+  "2.022/1/2024",
+  "1.127/99/2024",
+  "11.155/3/2024",
+  "2.048/1/2024"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [],
+   "mentions": 6
+  }
+ ],
+ "operative": [
+  "Admite, în parte, sesizările conexate formulate de Tribunalul București - Secția a VIII-a conflicte de muncă și asigurări sociale în dosarele nr. 11.155/3/2024 și nr. 68/3/2024 și de Tribunalul Iași - Secția I civilă în Dosarul nr. 1.127/99/2024, în vederea pronunțării unei hotărâri prealabile. În interpretarea și aplicarea dispozițiilor art. 14 alin. (1) lit. a) capitolul II din anexa nr. II la Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, cu modificările și completările ulterioare, și ale articolului unic pct. I lit. A din anexa nr. 9 la Regulamentul-cadru privind stabilirea locurilor de muncă, a categoriilor de personal, a mărimii concrete a sporului pentru condiții de muncă prevăzut în anexa nr. II la Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, precum și a condițiilor de acordare a acestuia, pentru familia ocupațională de funcții bugetare „Sănătate și asistență socială“, aprobat prin Hotărârea Guvernului nr. 153/2018, cu modificările și completările ulterioare, stabilește că:",
+  "Personalul care își desfășoară activitatea în condiții deosebit de periculoase, prevăzut la articolul unic pct. I lit. A din anexa nr. 9 la Regulamentul-cadru aprobat prin Hotărârea Guvernului nr. 153/2018, salarizat potrivit anexei nr. II la Legea-cadru nr. 153/2017, are dreptul la acordarea sporului pentru condiții deosebit de periculoase de la 50% până la 75% din salariul de bază, prevăzut de art. 14 alin. (1) lit. a) capitolul II din anexa nr. II la Legea-cadru nr. 153/2017 și articolul unic pct. I lit. A din anexa nr. 9 la Regulamentul-cadru aprobat prin Hotărârea Guvernului nr. 153/2018, în baza buletinelor de determinare sau, după caz, expertizare, emise de către autoritățile abilitate în acest sens, dacă sunt îndeplinite condițiile prevăzute de Legea-cadru nr. 153/2017 și Regulamentul-cadru aprobat prin Hotărârea Guvernului nr. 153/2018, obligația stabilirii cuantumului concret al sporului pentru condiții deosebit de periculoase revenind ordonatorului de credite.",
+  "Respinge, în rest, sesizările conexate.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 62/2024",
+    "number": "62",
+    "year": "2024",
+    "path": "oug/2024/62"
+   },
+   "articles": [],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "44",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "37",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "9",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 78
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 53/2003",
+    "number": "53",
+    "year": "2003",
+    "path": "lege/2003/53"
+   },
+   "articles": [
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "269",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii-cadru nr. 284/2010",
+    "number": "284",
+    "year": "2010",
+    "path": "lege/2010/284"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 114/2018",
+    "number": "114",
+    "year": "2018",
+    "path": "oug/2018/114"
+   },
+   "articles": [
+    {
+     "art": "34",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 330/2009",
+    "number": "330",
+    "year": "2009",
+    "path": "lege/2009/330"
+   },
+   "articles": [
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 285/2010",
+    "number": "285",
+    "year": "2010",
+    "path": "lege/2010/285"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 83/2014",
+    "number": "83",
+    "year": "2014",
+    "path": "oug/2014/83"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 153/2018",
+    "number": "153",
+    "year": "2018",
+    "path": "hg/2018/153"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 589/2018",
+    "number": "589",
+    "year": "2018",
+    "path": "hg/2018/589"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 867/2015",
+    "number": "867",
+    "year": "2015",
+    "path": "hg/2015/867"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 12",
+    "path": null,
+    "slug": "conventia-edo-protocolul-12"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-01-13",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/293459",
+  "text_sha256": "dc1a20251f033c818edbea1e7b53f10860c902eee5cfa4d163be9ad88e813a17",
+  "catalogue_sha256": "dc1a20251f033c818edbea1e7b53f10860c902eee5cfa4d163be9ad88e813a17",
+  "fetched": "2026-11-03T22:42:47Z",
+  "chars": 114497,
+  "portal_id": "293459",
+  "tip": "DECIZIE"
+ }
+}
