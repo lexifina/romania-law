@@ -1,0 +1,10 @@
+# HCL Techirghiol nr. 203/2024
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+- Council: Consiliul Local al Orașului Techirghiol
+- Decision: nr. 203/2024
+- Adopted: 2024-12-18
+- Published: 2025-01-13
+- Title: privind aprobarea Contractului Colectiv de Munca şi Acordului-Colectiv de muncă ale UAT Oraş Techirghiol
+- Record: https://emol.ro/techirghiol-ct/registru-hcl/183290
