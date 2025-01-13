@@ -1,0 +1,10 @@
+# HCL Periș nr. 43/2024
+
+Text not yet included: no document of it is held. It will be added when it is.
+
+- Council: Consiliul Local al Comunei Periș
+- Decision: nr. 43/2024
+- Adopted: 2024-07-29
+- Published: 2025-01-13
+- Title: privind aprobarea Regulamentului privind desfasurarea activităților de comercializare a produselor și serviciilor de piață pe raza administrativ teritorială a comunei Peris, judetul Ilfov
+- Record: https://emol.ro/peris-if/registru-hcl/175127
