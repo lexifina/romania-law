@@ -22,6 +22,7 @@ Initiator: Membri ai Parlamentului.
 - 2024-12-17: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2024-12-23: sent for promulgation
 - 2025-01-10: promulgated, becomes Legea nr. 4/2025; documents published: Decret de promulgare, Forma promulgată
+- 2025-01-13: published in the Monitorul Oficial
 
 ## Documents
 
