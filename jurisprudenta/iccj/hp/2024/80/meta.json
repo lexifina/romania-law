@@ -1,0 +1,195 @@
+{
+ "key": "iccj-hp-80-2024",
+ "label": "Decizia ÎCCJ nr. 80/2024 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "80",
+ "date": "2024-11-18",
+ "year": "2024",
+ "heading": "DECIZIA nr. 80 din 18 noiembrie 2024",
+ "subtitle": "referitoare la sporurile pentru condiții deosebit de periculoase și pentru condiții deosebite, prevăzute de art. 7 alin. (1) lit. b) și h) din anexa nr. II a Legii-cadru nr. 153/2017",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "22",
+  "bis": false,
+  "date": "2025-01-14",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.597/1/2024",
+  "453/100/2023"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [],
+   "mentions": 4
+  }
+ ],
+ "operative": [
+  "Respinge ca inadmisibilă sesizarea formulată de Tribunalul București - Secția a VIII-a conflicte de muncă și asigurări sociale în vederea lămuririi următoarei probleme de drept:",
+  "Dacă sporurile pentru condiții deosebit de periculoase și pentru condiții deosebite, prevăzute de art. 7 alin. (1) lit. b) și h) din anexa nr. II a Legii-cadru nr. 153/2017 se aplică și în cazul gărzilor desfășurate în condițiile art. 3 alin. (1), (2), (3) și (6) din anexa nr. II a Legii-cadru nr. 153/2017 și, în caz afirmativ, dacă baza de calcul al sporurilor este reprezentată de salariul de bază sau de salarizarea prevăzută de art. 3 din anexa nr. II a Legii-cadru nr. 153/2017",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [],
+   "mentions": 32
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 62/2024",
+    "number": "62",
+    "year": "2024",
+    "path": "oug/2024/62"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 53/2023",
+    "number": "53",
+    "year": "2023",
+    "path": "lege/2023/53"
+   },
+   "articles": [
+    {
+     "art": "269",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-01-14",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/293521",
+  "text_sha256": "6851737ec79333d52ff710321544dc205fb7653ce0ec385bea5f7b8d20305026",
+  "catalogue_sha256": "6851737ec79333d52ff710321544dc205fb7653ce0ec385bea5f7b8d20305026",
+  "fetched": "2026-11-03T01:01:52Z",
+  "chars": 39576,
+  "portal_id": "293521",
+  "tip": "DECIZIE"
+ }
+}
