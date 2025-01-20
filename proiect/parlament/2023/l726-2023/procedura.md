@@ -20,6 +20,7 @@ Initiator: Guvernul României.
 - 2024-06-27: sent for promulgation
 - 2024-10-29: published in the Monitorul Oficial
 - 2025-01-17: promulgated, becomes Legea nr. 7/2025; documents published: Decret de promulgare, Forma promulgată
+- 2025-01-20: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -37,3 +38,5 @@ Initiator: Guvernul României.
 - 2024-06-25: Forma trimisă la promulgare (LP): [lp-cd2067d8.md](lp-cd2067d8.md); official file https://www.senat.ro/legis/PDF/2023/23L726LP.PDF
 - 2025-01-17: Decret de promulgare (DP): [dp-fb7be40e.md](dp-fb7be40e.md); official file https://www.senat.ro/legis/PDF/2023/23L726DP.PDF
 - 2025-01-17: Forma promulgată (FP): [fp-98f84535.md](fp-98f84535.md); official file https://www.senat.ro/legis/PDF/2023/23L726FP.PDF
+- 2025-01-20: Document (SC): [sc-bef5c0eb.md](sc-bef5c0eb.md); official file https://www.senat.ro/legis/PDF/2023/23L726SC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-01-20: Document (DC): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L726DC.PDF (its day is not given by the bill file: shown from the last stage held)
