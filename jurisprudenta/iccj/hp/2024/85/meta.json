@@ -1,0 +1,153 @@
+{
+ "key": "iccj-hp-85-2024",
+ "label": "Decizia ÎCCJ nr. 85/2024 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "85",
+ "date": "2024-11-18",
+ "year": "2024",
+ "heading": "DECIZIA nr. 85 din 18 noiembrie 2024",
+ "subtitle": "referitoare la indemnizația cuvenită pentru funcția de conducere (indemnizație de încadrare și sporuri aferente), potrivit art. 10 alin. (1) lit. b) din cap. VIII secțiunea a 2-a din anexa nr. V la Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, cu modificările și completările ulterioare",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "63",
+  "bis": false,
+  "date": "2025-01-27",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.976/1/2024",
+  "109/87/2024"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Tribunalul Teleorman - Secția conflicte de muncă, asigurări sociale și contencios administrativ fiscal în Dosarul nr. 109/87/2024, în vederea pronunțării unei hotărâri prealabile cu privire la următoarea chestiune de drept: Dacă, în cadrul familiei ocupaționale de funcții bugetare „Justiție“, indemnizația cuvenită pentru funcția de conducere (indemnizație de încadrare și sporuri aferente) se stabilește potrivit art. 10 alin. (1) lit. b) din cap. VIII secțiunea a 2-a din anexa nr. V la Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, cu modificările și completările ulterioare.",
+  "Obligatorie, potrivit art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "38",
+     "alin": [
+      "6",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 19
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 62/2024",
+    "number": "62",
+    "year": "2024",
+    "path": "oug/2024/62"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "22",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-01-27",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/293900",
+  "text_sha256": "8d598c3a0974298134c251c1cedacdfa7f81a88c2090a9f0476661a4e65e1468",
+  "catalogue_sha256": "8d598c3a0974298134c251c1cedacdfa7f81a88c2090a9f0476661a4e65e1468",
+  "fetched": "2026-11-03T01:01:20Z",
+  "chars": 33571,
+  "portal_id": "293900",
+  "tip": "DECIZIE"
+ }
+}
