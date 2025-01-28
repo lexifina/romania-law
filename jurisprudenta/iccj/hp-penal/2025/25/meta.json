@@ -1,0 +1,274 @@
+{
+ "key": "iccj-hp-penal-25-2025",
+ "label": "Decizia ÎCCJ nr. 25/2025 (HP penal)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp-penal",
+ "number": "25",
+ "date": "2025-01-27",
+ "year": "2025",
+ "heading": "DECIZIA nr. 25 din 27 ianuarie 2025",
+ "subtitle": "referitoare la infracțiunea de conducere a unui vehicul sub influența substanțelor psihoactive, prevăzută de art. 336 alin. (2) din Codul penal",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIEI - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT ÎN MATERIE PENALĂ",
+ "mo": {
+  "number": "70",
+  "bis": false,
+  "date": "2025-01-28",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "620/1/2024",
+  "2.769/338/2022",
+  "2.889/219/2022"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "336",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "operative": [
+  "Admite sesizările formulate de Curtea de Apel Brașov - Secția penală în Dosarul nr. 2.769/338/2022, respectiv Curtea de Apel Cluj - Secția penală și de minori în Dosarul nr. 2.889/219/2022, prin care se solicită pronunțarea unei hotărâri prealabile pentru dezlegarea următoarelor chestiuni de drept:",
+  "În cazul infracțiunii de conducere a unui vehicul sub influența substanțelor psihoactive, prevăzută de art. 336 alin. (2) din Codul penal, pentru realizarea cerinței esențiale preexistente ca inculpatul să se fi aflat sub influența unor substanțe psihoactive este suficient să se constate prezența în probele biologice a substanței psihoactive, indiferent de concentrația acesteia, influența asupra capacității de a conduce fiind prezumată absolut ori dacă această prezumție este una relativă, putând fi combătută prin mijloace de probă științifice potrivit cărora, în ciuda prezenței substanțelor psihoactive într-o concentrație minimală, persoana nu se află sub influența substanțelor psihoactive, cu afectarea capacității de a conduce autovehicule pe drumurile publice?“;",
+  "Dacă dispoziția «aflată sub influența unor substanțe psihoactive» din cuprinsul infracțiunii prevăzute de art. 336 alin. (2) din Codul penal se referă la o persoană care a consumat substanțe psihoactive sau la o persoană a cărei capacitate de a conduce un vehicul (pentru care legea prevede obligativitatea deținerii permisului de conducere) este alterată în urma consumului de substanțe psihoactive? și stabilește următoarele:",
+  "În cazul infracțiunii de conducere a unui vehicul sub influența substanțelor psihoactive, prevăzută de art. 336 alin. (2) din Codul penal, pentru realizarea condiției esențiale atașată elementului material al laturii obiective, aceea ca inculpatul să se fi aflat sub influența unor substanțe psihoactive, este necesar să se constate atât prezența în probele biologice a substanței psihoactive, cât și aptitudinea acesteia de a putea determina afectarea capacității de a conduce a autorului faptei.",
+  "Obligatorie de la data publicării în Monitorul Oficial al României, Partea I, potrivit art. 477 alin. (3) din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "336",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "61",
+     "alin": [
+      "4",
+      "6"
+     ],
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "63",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "196",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 87
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "475",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "559",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "476",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "473",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 194/2011",
+    "number": "194",
+    "year": "2011",
+    "path": "lege/2011/194"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": [
+      "e",
+      "f"
+     ]
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 187/2012",
+    "number": "187",
+    "year": "2012",
+    "path": "lege/2012/187"
+   },
+   "articles": [
+    {
+     "art": "241",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 195/2002",
+    "number": "195",
+    "year": "2002",
+    "path": "oug/2002/195"
+   },
+   "articles": [
+    {
+     "art": "102",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "34",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 143/2000",
+    "number": "143",
+    "year": "2000",
+    "path": "lege/2000/143"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-01-28",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/293958",
+  "text_sha256": "f792c8ab7fb51416681927af9238d1c9c21c5d9c7bd7a071623717a32f9004b3",
+  "catalogue_sha256": "f792c8ab7fb51416681927af9238d1c9c21c5d9c7bd7a071623717a32f9004b3",
+  "fetched": "2026-11-03T14:21:14Z",
+  "chars": 127476,
+  "portal_id": "293958",
+  "tip": "DECIZIE"
+ }
+}
