@@ -1,0 +1,9 @@
+# HCL Vârfuri nr. 5/2025
+
+Text not yet included: no document of it is held. It will be added when it is.
+
+- Council: Consiliul Local al Comunei Vârfuri
+- Decision: nr. 5/2025
+- Adopted: 2025-01-29
+- Title: privind aprobarea cuantumului taxei de salubrizare pentru utilizatorii noncasnici, pentru anul 2025, în cuantumul stabilit pentru anul 2024
+- Record: https://varfuri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/25659#93779
