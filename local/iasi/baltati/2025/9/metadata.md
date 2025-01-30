@@ -1,0 +1,9 @@
+# HCL Bălțați nr. 9/2025
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+- Council: Consiliul Local al Comunei Bălțați
+- Decision: nr. 9/2025
+- Adopted: 2025-01-30
+- Title: privind aprobarea Actului Adițional pentru modificarea, completarea și actualizarea Statutului Asociaţiei Regionale a Serviciilor de Apă Canal Iaşi – ARSACIS
+- Record: https://emol.ro/baltati-is/registru-hcl/190129
