@@ -1,0 +1,10 @@
+# HCJ Vaslui nr. 29/2025
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here. Its title names a private person or a private property, so it is not shown.
+
+- Council: Consiliul Județean Vaslui
+- Decision: nr. 29/2025
+- Adopted: 2025-01-30
+- Record: https://cjvs.eu/hotarari-2025/
+- Document: http://cjvs.eu/wp-content/downloads/Hotarari/2025/HotarareaNr29_2025.pdf
+- Document sha256: aaee9f40b1fef40cbe4f37e1e3b9d9d6e66379690218aa349660da172b8a9a7b
