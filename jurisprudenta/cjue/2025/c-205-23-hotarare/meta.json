@@ -1,0 +1,69 @@
+{
+ "key": "cjue-c-205-23-hotarare-2025-01-30",
+ "label": "CJUE, Hotărârea Curții (Camera a treia) din 30 ianuarie 2025, Cauza C-205/23",
+ "court": "cjue",
+ "court_name": "Curtea de Justiție a Uniunii Europene",
+ "kind": "hotarare",
+ "act_type": "JUDG",
+ "date": "2025-01-30",
+ "year": "2025",
+ "case": "Cauza C-205/23",
+ "celex": "62023CJ0205",
+ "ecli": "ECLI:EU:C:2025:43",
+ "heading": "Hotărârea Curții (Camera a treia) din 30 ianuarie 2025",
+ "formation": "CHAMB_03_C",
+ "procedure": "REFER_PREL",
+ "romania_role": [
+  "originates"
+ ],
+ "referred_by": [
+  {
+   "court": "Tribunalul Bucureşti, secția a II-a de contencios administrativ și fiscal",
+   "date": "2023-02-24",
+   "national_file": "25238/4/202t"
+  }
+ ],
+ "referral_text": "Cerere de decizie preliminară formulată de Tribunalul Bucureşti",
+ "national_followup": null,
+ "parties": "Engie Romania SA împotriva Autorității Naţionale de Reglementare în Domeniul Energiei",
+ "parties_withheld": false,
+ "keywords": "Trimitere preliminară – Energie – Piața internă a gazelor naturale – Directiva 2009/73/CE – Articolul 3 alineatul (1) – Obligații ale statelor membre în privința întreprinderilor din sectorul gazelor naturale – Protecția consumatorilor – Articolele 40 și 41 – Competențe ale autorității de reglementare – Încălcarea de către o întreprindere din sectorul gazelor naturale a obligației sale de transparență față de clienți – Cumul de sancțiuni pentru același comportament ilicit – Articolul 50 din Carta drepturilor fundamentale a Uniunii Europene – Dreptul de a nu fi judecat sau condamnat de două ori pentru aceeași infracțiune – Ne bis in idem – Articolul 52 alineatul (1) – Restrângeri ale exercițiului acestui drept fundamental – Principiul proporționalității",
+ "interprets": [
+  {
+   "celex": "12007P050",
+   "folder": null
+  },
+  {
+   "celex": "32009L0103",
+   "folder": "ue/directiva/2009/103"
+  }
+ ],
+ "text": "dispozitiv.md",
+ "text_withheld": "personal_data",
+ "withheld_reason": "The full text names the parties' lawyers (and, in older cases, private parties); only the metadata and the operative part are published here, with the official link.",
+ "operative_missing": false,
+ "eurlex_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62023CJ0205",
+ "curia_url": "https://curia.europa.eu/juris/liste.jsf?num=C-205/23&language=ro",
+ "source": {
+  "name": "CELLAR, Publications Office of the European Union",
+  "url": "http://publications.europa.eu/resource/cellar/25f1a92e-deeb-11ef-be2a-01aa75ed71a1.0002.05/DOC_1",
+  "format": "xhtml",
+  "sha256": [
+   "d14d0b3f87cc4a9452b7604b6603a6583a8ab3556a0ef1d02635f30f98a68402"
+  ]
+ },
+ "legal_basis": "Jurisprudența Curții de Justiție a Uniunii Europene (texte oficiale; reutilizare permisă cu menționarea sursei: Decizia Comisiei 2011/833/UE și condițiile CURIA; © Uniunea Europeană). Textele oficiale nu sunt protejate de dreptul de autor în România (Legea nr. 8/1996, art. 9 lit. b).",
+ "attribution": "© European Union, https://eur-lex.europa.eu (via the Publications Office CELLAR)",
+ "operative": [
+  "Pentru aceste motive, Curtea (Camera a treia) declară:",
+  "1) Articolul 3 alineatele (1) și (3) din Directiva 2009/73/CE a Parlamentului European și a Consiliului din 13 iulie 2009 privind normele comune pentru piața internă în sectorul gazelor naturale și de abrogare a Directivei 2003/55/CE",
+  "trebuie interpretat în sensul că",
+  "nu se opune ca o autoritate națională de reglementare în domeniul energiei, atunci când constată că un furnizor de gaze naturale nu și‑a îndeplinit obligația de transparență față de clienții săi cu ocazia modificării prețului de furnizare a acestui produs, să impună furnizorului menținerea prețului stabilit în contractele încheiate inițial cu clienții respectivi.",
+  "2) Articolul 50 din Carta drepturilor fundamentale a Uniunii Europene coroborat cu articolul 52 alineatul (1) din aceasta",
+  "trebuie interpretat în sensul că",
+  "nu se opune ca unui furnizor de gaze naturale să i se impună, în temeiul unor legislații naționale diferite care transpun Directiva 2009/73 și, respectiv, Directiva 2005/29/CE a Parlamentului European și a Consiliului din 11 mai 2005 privind practicile comerciale neloiale ale întreprinderilor de pe piața internă față de consumatori și de modificare a Directivei 84/450/CEE a Consiliului, a Directivelor 97/7/CE, 98/27/CE și 2002/65/CE ale Parlamentului European și ale Consiliului și a Regulamentului (CE) nr. 2006/2004 al Parlamentului European și al Consiliului („Directiva privind practicile comerciale neloiale”), două sancțiuni care trebuie calificate drept „sancțiuni de natură penală pentru fapte identice”, cu condiția:",
+  "– să existe norme clare și precise ce permit să se prevadă care acte și omisiuni pot face obiectul unui cumul de proceduri și de sancțiuni, precum și să se asigure coordonarea între cele două autorități competente;",
+  "– cele două proceduri în discuție să se fi desfășurat în mod suficient de coordonat, într‑un interval de timp scurt, și",
+  "– toate sancțiunile aplicate să corespundă gravității contravențiilor."
+ ]
+}
