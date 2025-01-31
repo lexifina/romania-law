@@ -1,0 +1,22 @@
+# Proiect de lege L23/2025
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 115/2025 (`legea-115-2025`).
+
+Proiect de lege privind aprobarea Ordonanţei Guvernului nr.8/2025 pentru modificarea și completarea Legii nr.152/1998 privind înfiinţarea Agenţiei Naţionale pentru Locuinţe
+
+Initiator: Guvernul României.
+
+## Stages published so far
+
+- 2025-01-31: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+
+## Documents
+
+- 2025-01-31: Adresă de înaintare a inițiativei (AD): [ad-ccf18732.md](ad-ccf18732.md); official file https://www.senat.ro/legis/PDF/2025/25L023AD.PDF
+- 2025-01-31: Forma inițiatorului (FG): [fg-f9466127.md](fg-f9466127.md); official file https://www.senat.ro/legis/PDF/2025/25L023FG.PDF
+- 2025-01-31: Expunere de motive (EM): [em-4dd1f6b7.md](em-4dd1f6b7.md); official file https://www.senat.ro/legis/PDF/2025/25L023EM.PDF
+- 2025-01-31: Aviz Consiliul Legislativ (LG): [lg-a7bcb825.md](lg-a7bcb825.md); official file https://www.senat.ro/legis/PDF/2025/25L023LG.PDF
+- 2025-01-31: Document (OG): [og-2b0a3fc6.md](og-2b0a3fc6.md); official file https://www.senat.ro/legis/PDF/2025/25L023OG.PDF
+- 2025-01-31: Document (HG): [hg-557d7dcd.md](hg-557d7dcd.md); official file https://www.senat.ro/legis/PDF/2025/25L023HG.PDF
