@@ -1,0 +1,310 @@
+{
+ "key": "iccj-hp-110-2024",
+ "label": "Decizia ÎCCJ nr. 110/2024 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "110",
+ "date": "2024-12-09",
+ "year": "2024",
+ "heading": "DECIZIA nr. 110 din 9 decembrie 2024",
+ "subtitle": "referitoare la îndreptățirea reclamanților la revizuirea pensiei de serviciu de care beneficiază (din 20.05.2019 și până la data pensionării, respectiv 1.03.2021 pentru reclamanta A și 1.09.2020 pentru reclamantul B), cu luarea în considerare a vechimii efective în specialitate a fiecărui reclamant",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "90",
+  "bis": false,
+  "date": "2025-01-31",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.093/1/2024",
+  "1.455/107/2023"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 20/2016",
+    "number": "20",
+    "year": "2016",
+    "path": "oug/2016/20"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Respinge ca inadmisibilă sesizarea formulată de Tribunalul Cluj - Secția mixtă, de contencios administrativ și fiscal, de conflicte de muncă și asigurări sociale, în Dosarul nr. 294/117/2024, privind dezlegarea următoarei chestiuni de drept:",
+  "Îndreptățirea reclamanților la revizuirea pensiei de serviciu de care beneficiază (din 20.05.2019 și până la data pensionării, respectiv 1.03.2021 pentru reclamanta A și 1.09.2020 pentru reclamantul B), cu luarea în considerare a vechimii efective în specialitate a fiecărui reclamant, luând în considerare cele stabilite prin Sentința civilă nr. 2.354/12.10.2023 pronunțată de Tribunalul Alba în Dosarul nr. 1.455/107/2023, și dacă se impune obligarea pârâtului la eliberarea în favoarea reclamanților a unor adeverințe în vederea revizuirii pensiei de serviciu, cu luarea în considerare, raportat la perioada în care a avut calitatea de angajator al reclamanților, și recalcularea indemnizațiilor de încadrare a reclamanților, conform Legii nr. 71/2015 și Ordonanței de urgență a Guvernului nr. 20/2016, începând cu 20.05.2019 și până la data pensionării, respectiv 1.03.2021 pentru reclamanta A și 1.09.2020 pentru reclamantul B, cu luarea în considerare a vechimii în specialitate a fiecărui reclamant, ținând cont de cele stabilite prin Sentința civilă nr. 2.354/12.10.2023 pronunțată de Tribunalul Alba în Dosarul nr. 1.455/107/2023",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 20/2016",
+    "number": "20",
+    "year": "2016",
+    "path": "oug/2016/20"
+   },
+   "articles": [],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 62/2024",
+    "number": "62",
+    "year": "2024",
+    "path": "oug/2024/62"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "430",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "431",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "432",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "433",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "434",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "435",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 567/2004",
+    "number": "567",
+    "year": "2004",
+    "path": "lege/2004/567"
+   },
+   "articles": [
+    {
+     "art": "68-5",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "38",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 53/2023",
+    "number": "53",
+    "year": "2023",
+    "path": "lege/2023/53"
+   },
+   "articles": [
+    {
+     "art": "40",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "h"
+     ]
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 27/2006",
+    "number": "27",
+    "year": "2006",
+    "path": "oug/2006/27"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 83/2014",
+    "number": "83",
+    "year": "2014",
+    "path": "oug/2014/83"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "5-1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 303/2004",
+    "number": "303",
+    "year": "2004",
+    "path": "lege/2004/303"
+   },
+   "articles": [
+    {
+     "art": "82",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 57/2015",
+    "number": "57",
+    "year": "2015",
+    "path": "oug/2015/57"
+   },
+   "articles": [
+    {
+     "art": "3-1",
+     "alin": [
+      "1-2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-01-31",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/294170",
+  "text_sha256": "26c3e2076470e03b0936a204d16813a8d3373c4c89399bbfd60d71b16ba97a02",
+  "catalogue_sha256": "26c3e2076470e03b0936a204d16813a8d3373c4c89399bbfd60d71b16ba97a02",
+  "fetched": "2026-11-03T01:01:00Z",
+  "chars": 43470,
+  "portal_id": "294170",
+  "tip": "DECIZIE"
+ }
+}
