@@ -1,0 +1,199 @@
+{
+ "key": "iccj-hp-111-2024",
+ "label": "Decizia ÎCCJ nr. 111/2024 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "111",
+ "date": "2024-12-09",
+ "year": "2024",
+ "heading": "DECIZIA nr. 111 din 9 decembrie 2024",
+ "subtitle": "referitoare la încadrarea reclamantei ca personal didactic auxiliar, respectiv îngrijitoare în educație timpurie și plata tuturor drepturilor salariale corespunzătoare de la 1 ianuarie 2024 și plata tuturor diferențelor salariale ca urmare a admiterii petitului 1, în condițiile în care nu este aprobată o asemenea funcție în statul de funcții, nu există legislație specifică prin care să se reglementeze condițiile de încadrare, condițiile de studii, atribuțiile și fișa-cadru a postului și norme metodologice",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "93",
+  "bis": false,
+  "date": "2025-01-31",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.095/1/2024",
+  "2.096/1/2024",
+  "1.531/117/2024",
+  "1.526/117/2024"
+ ],
+ "subjects": [],
+ "operative": [
+  "Respinge, ca inadmisibile, sesizările conexate formulate de Tribunalul Cluj - Secția mixtă de contencios administrativ și fiscal, de conflicte de muncă și asigurări sociale în dosarele nr. 1.531/117/2024 și nr. 1.526/117/2024, în vederea pronunțării unei hotărâri prealabile cu privire la următoarea chestiune de drept:",
+  "Dacă se impune încadrarea reclamantei ca personal didactic auxiliar, respectiv îngrijitoare în educație timpurie și plata tuturor drepturilor salariale corespunzătoare de la 1 ianuarie 2024 și plata tuturor diferențelor salariale ca urmare a admiterii petitului 1, în condițiile în care nu este aprobată o asemenea funcție în statul de funcții, nu există legislație specifică prin care să se reglementeze condițiile de încadrare, condițiile de studii, atribuțiile și fișa-cadru a postului și norme metodologice.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 62/2024",
+    "number": "62",
+    "year": "2024",
+    "path": "oug/2024/62"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 168/2022",
+    "number": "168",
+    "year": "2022",
+    "path": "oug/2022/168"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea învățământului preuniversitar nr. 198/2023",
+    "number": "198",
+    "year": "2023",
+    "path": "lege/2023/198"
+   },
+   "articles": [
+    {
+     "art": "192",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "p"
+     ]
+    },
+    {
+     "art": "193",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": [
+      "p",
+      "o"
+     ]
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 128/2023",
+    "number": "128",
+    "year": "2023",
+    "path": "oug/2023/128"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul ministrului educației nr. 6.072/2023",
+    "number": "6072",
+    "year": "2023"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [
+  "subjects: none parsed"
+ ],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-01-31",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/294189",
+  "text_sha256": "6184cf950e0c8fbf12a7c03c29a9b5d8fb88a19fa7b8d55f77957013a6d4436a",
+  "catalogue_sha256": "6184cf950e0c8fbf12a7c03c29a9b5d8fb88a19fa7b8d55f77957013a6d4436a",
+  "fetched": "2026-11-03T01:01:09Z",
+  "chars": 43354,
+  "portal_id": "294189",
+  "tip": "DECIZIE"
+ }
+}
