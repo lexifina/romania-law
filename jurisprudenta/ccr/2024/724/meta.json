@@ -1,0 +1,413 @@
+{
+ "key": "dcc-724-2024",
+ "label": "Decizia CCR nr. 724/2024",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "724",
+ "date": "2024-12-19",
+ "year": "2024",
+ "heading": "DECIZIA nr. 724 din 19 decembrie 2024",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 101 din Legea nr. 227/2015 privind Codul fiscal",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "91",
+  "bis": false,
+  "date": "2025-01-31",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "58/98/2024",
+  "1.009D/2024",
+  "965/3/2024",
+  "89/98/2024",
+  "335/113/2024",
+  "1.122/108/2024",
+  "1.037/108/2024",
+  "155/90/2024",
+  "187/98/2024",
+  "248/85/2024"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 227/2015",
+    "number": "227",
+    "year": "2015",
+    "path": "lege/2015/227"
+   },
+   "articles": [
+    {
+     "art": "101",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite excepția de neconstituționalitate ridicată de Sevastița Stoian în Dosarul nr. 58/98/2024 al Tribunalului Ialomița - Secția civilă, de Ștefania Stan în Dosarul nr. 965/3/2024 al Tribunalului București - Secția a VIII-a conflicte de muncă și asigurări sociale, de Carmen Maria Zaharia în Dosarul nr. 89/98/2024 al Tribunalului Ialomița - Secția civilă, de Viorica Alionte în Dosarul nr. 335/113/2024 al Tribunalului Vrancea - Secția I civilă, de Călin George Hosu în Dosarul nr. 1.122/108/2024 al Tribunalului Arad - Secția a III-a contencios administrativ și fiscal, litigii de muncă și asigurări sociale, de Daniela Brița și alții, de George Coca, precum și de Eugenia Ion în dosarele nr. 3.928/3/2024, nr. 4.493/3/2024 și nr. 3.061/3/2024 ale Tribunalului București - Secția a VIII-a conflicte de muncă și asigurări sociale, de Marius Neculcea și Corina Corbaciu în Dosarul nr. 1.037/108/2024 al Tribunalului Arad - Secția a III-a contencios administrativ și fiscal, litigii de muncă și asigurări sociale, de Elena Cristina Lungu și alții în Dosarul nr. 155/90/2024 al Tribunalului Vâlcea - Secția I civilă, de Costel Catrinoiu în Dosarul nr. 187/98/2024 al Tribunalului Ialomița - Secția civilă, de Andrei Vlăduț Sebeșan și alții în Dosarul nr. 248/85/2024 al Tribunalului Sibiu - Secția I civilă, de Aurel Gogoci, Ion Micuț și Maria Nemoianu în Dosarul nr. 204/90/2024 al Tribunalului Vâlcea - Secția I civilă, de Doina Anghel și alții, de Viorica Cosma și Veronica Năstăsie, de Ioana Ilie și alții, precum și de Theodor Mrejeru în dosarele nr. 2.687/3/2024, nr. 3.064/3/2024, nr. 3.095/3/2024 și nr. 4.392/3/2024 ale Tribunalului București - Secția a VIII-a conflicte de muncă și asigurări sociale, de Leontin Lungu și Alexandru Daniel Petre, de Rodica Dinu și Nicolae Coameșu, precum și de Mărioara Dicu în dosarele nr. 156/90/2024, nr. 329/90/2024 și nr. 408/90/2024 ale Tribunalului Vâlcea - Secția I civilă, respectiv de Oprica Mihaela Mărgineanu în Dosarul nr. 428/101/2024 al Tribunalului Mehedinți - Secția conflicte de muncă și asigurări sociale și constată că dispozițiile art. 101 din Legea nr. 227/2015 privind Codul fiscal sunt neconstituționale.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică celor două Camere ale Parlamentului, Guvernului și Tribunalului Ialomița - Secția civilă, Tribunalului București - Secția a VIII-a conflicte de muncă și asigurări sociale, Tribunalului Vrancea - Secția I civilă, Tribunalului Arad - Secția a III-a contencios administrativ și fiscal, litigii de muncă și asigurări sociale, Tribunalului Vâlcea - Secția I civilă, Tribunalului Sibiu - Secția I civilă, precum și Tribunalului Mehedinți - Secția conflicte de muncă și asigurări sociale și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 227/2015",
+    "number": "227",
+    "year": "2015",
+    "path": "lege/2015/227"
+   },
+   "articles": [
+    {
+     "art": "101",
+     "alin": [
+      "2",
+      "3",
+      "8"
+     ],
+     "lit": [
+      "b",
+      "c",
+      "a"
+     ]
+    },
+    {
+     "art": "64",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "100",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 45
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 282/2023",
+    "number": "282",
+    "year": "2023",
+    "path": "lege/2023/282"
+   },
+   "articles": [
+    {
+     "art": "XVIII",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "5",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "56",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "139",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "147",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "124",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "47",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "118",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 33
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 303/2004",
+    "number": "303",
+    "year": "2004",
+    "path": "lege/2004/303"
+   },
+   "articles": [
+    {
+     "art": "82",
+     "alin": [
+      "8"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 303/2022",
+    "number": "303",
+    "year": "2022",
+    "path": "lege/2022/303"
+   },
+   "articles": [
+    {
+     "art": "211",
+     "alin": [
+      "7"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "38",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "61",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "62",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "63",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenției pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 360/2023",
+    "number": "360",
+    "year": "2023",
+    "path": "lege/2023/360"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 223/2015",
+    "number": "223",
+    "year": "2015",
+    "path": "lege/2015/223"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 119/2010",
+    "number": "119",
+    "year": "2010",
+    "path": "lege/2010/119"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2025-01-31",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/294171",
+  "text_sha256": "6e2ae508a6005171672dffe9f27ca72701d611ff573f4bfdfaa2bee9b74e8251",
+  "catalogue_sha256": "6e2ae508a6005171672dffe9f27ca72701d611ff573f4bfdfaa2bee9b74e8251",
+  "fetched": "2026-11-06T01:47:35Z",
+  "chars": 99169,
+  "archive": {
+   "source": "commoncrawl",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/294171",
+   "timestamp": "20260216143012",
+   "crawl": "CC-MAIN-2026-08",
+   "filename": "crawl-data/CC-MAIN-2026-08/segments/1770395507219.24/warc/CC-MAIN-20260216132221-20260216162221-00800.warc.gz",
+   "offset": "284553271",
+   "length": "70196",
+   "sha256": "4d0275d0ffeb6b4e04557b79b2cf276a199d6be6665f5795a5a6e6a441f6d663"
+  },
+  "portal_id": "294171",
+  "tip": "DECIZIE"
+ }
+}
