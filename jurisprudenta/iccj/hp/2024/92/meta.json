@@ -1,0 +1,170 @@
+{
+ "key": "iccj-hp-92-2024",
+ "label": "Decizia ÎCCJ nr. 92/2024 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "92",
+ "date": "2024-11-25",
+ "year": "2024",
+ "heading": "DECIZIA nr. 92 din 25 noiembrie 2024",
+ "subtitle": "referitoare la interpretarea și aplicarea prevederilor subpct. 2 și 3 din nota 2 de la pct. II lit. A din capitolul I al anexei nr. VIII la Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, cu modificările și completările ulterioare",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "87",
+  "bis": false,
+  "date": "2025-01-31",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "2.073/1/2024",
+  "451/86/2023",
+  "239/84/2024",
+  "2.124/1/2024"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite sesizările conexate formulate de Tribunalul Suceava - Secția de contencios administrativ și fiscal în Dosarul nr. 451/86/2023* și de Tribunalul Sălaj - Secția civilă în Dosarul nr. 239/84/2024. În interpretarea și aplicarea prevederilor subpct. 2 și 3 din nota 2 de la pct. II lit. A din capitolul I al anexei nr. VIII la Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, cu modificările și completările ulterioare, coroborate cu prevederile art. 16 alin. (1) din același act normativ și cele ale art. 4 alin. (1) din Regulamentul-cadru privind stabilirea condițiilor de înființare a posturilor în afara organigramei și a criteriilor pe baza cărora se stabilește procentul de majorare salarială pentru activitatea prestată în proiecte finanțate din fonduri europene nerambursabile, aprobat prin Hotărârea Guvernului nr. 325/2018, stabilește că:",
+  "Majorarea salariului de bază de 15% pentru complexitatea muncii nu poate fi acordată pentru activitatea prestată în luna în care funcționarul a beneficiat de o majorare de până la 50% a salariului de bază pentru activitatea desfășurată pentru realizarea unor proiecte finanțate din fonduri europene nerambursabile.",
+  "Obligatorie, potrivit art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 62/2024",
+    "number": "62",
+    "year": "2024",
+    "path": "oug/2024/62"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "38",
+     "alin": [
+      "4",
+      "1",
+      "2",
+      "3"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "42",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 27
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 155/2020",
+    "number": "155",
+    "year": "2020",
+    "path": "oug/2020/155"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "521",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-01-31",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/294128",
+  "text_sha256": "d8c9f901a96474c501aecbb8fad4a4c296ce9d84d34ea1bd61f683a1245568c6",
+  "catalogue_sha256": "d8c9f901a96474c501aecbb8fad4a4c296ce9d84d34ea1bd61f683a1245568c6",
+  "fetched": "2026-11-03T01:01:09Z",
+  "chars": 42011,
+  "portal_id": "294128",
+  "tip": "DECIZIE"
+ }
+}
