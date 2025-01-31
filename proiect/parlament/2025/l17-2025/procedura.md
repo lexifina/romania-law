@@ -1,0 +1,22 @@
+# Proiect de lege L17/2025
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 114/2025 (`legea-114-2025`).
+
+Proiect de lege privind aprobarea Ordonanţei Guvernului nr.2/2025 pentru modificarea Legii nr.185/2017 privind asigurarea calității în sistemul de sănătate
+
+Initiator: Guvernul României.
+
+## Stages published so far
+
+- 2025-01-31: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+
+## Documents
+
+- 2025-01-31: Adresă de înaintare a inițiativei (AD): [ad-6636a65e.md](ad-6636a65e.md); official file https://www.senat.ro/legis/PDF/2025/25L017AD.PDF
+- 2025-01-31: Forma inițiatorului (FG): [fg-7e4da12a.md](fg-7e4da12a.md); official file https://www.senat.ro/legis/PDF/2025/25L017FG.PDF
+- 2025-01-31: Expunere de motive (EM): [em-134cc447.md](em-134cc447.md); official file https://www.senat.ro/legis/PDF/2025/25L017EM.PDF
+- 2025-01-31: Aviz Consiliul Legislativ (LG): [lg-bd16392a.md](lg-bd16392a.md); official file https://www.senat.ro/legis/PDF/2025/25L017LG.PDF
+- 2025-01-31: Document (OG): [og-6b0596c5.md](og-6b0596c5.md); official file https://www.senat.ro/legis/PDF/2025/25L017OG.PDF
+- 2025-01-31: Document (HG): [hg-dc34dfab.md](hg-dc34dfab.md); official file https://www.senat.ro/legis/PDF/2025/25L017HG.PDF
