@@ -1,0 +1,213 @@
+{
+ "key": "dcc-409-2024",
+ "label": "Decizia CCR nr. 409/2024",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "409",
+ "date": "2024-09-24",
+ "year": "2024",
+ "heading": "DECIZIA nr. 409 din 24 septembrie 2024",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 31 alin. (1^2) din Legea nr. 360/2002 privind Statutul polițistului",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "90",
+  "bis": false,
+  "date": "2025-01-31",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "874/118/2020",
+  "1.605D/2020"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 360/2002",
+    "number": "360",
+    "year": "2002",
+    "path": "lege/2002/360"
+   },
+   "articles": [
+    {
+     "art": "31",
+     "alin": [
+      "1-2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepția de neconstituționalitate a dispozițiilor art. 31 alin. (1^2) din Legea nr. 360/2002 privind Statutul polițistului, excepție ridicată de Marius Ghiță în Dosarul nr. 874/118/2020 al Tribunalului Constanța - Secția de contencios administrativ și fiscal.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului Constanța - Secția de contencios administrativ și fiscal și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 360/2002",
+    "number": "360",
+    "year": "2002",
+    "path": "lege/2002/360"
+   },
+   "articles": [
+    {
+     "art": "31",
+     "alin": [
+      "1-2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "32",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 288/2018",
+    "number": "288",
+    "year": "2018",
+    "path": "lege/2018/288"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanței Guvernului nr. 137/2000",
+    "number": "137",
+    "year": "2000",
+    "path": "og/2000/137"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2025-01-31",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/294167",
+  "text_sha256": "407bc15e6cae584ea213b9adbc8d60bdbf2477365d6db8ff955a0d64f01ce39c",
+  "catalogue_sha256": "407bc15e6cae584ea213b9adbc8d60bdbf2477365d6db8ff955a0d64f01ce39c",
+  "fetched": "2026-11-03T01:01:00Z",
+  "chars": 16488,
+  "portal_id": "294167",
+  "tip": "DECIZIE"
+ }
+}
