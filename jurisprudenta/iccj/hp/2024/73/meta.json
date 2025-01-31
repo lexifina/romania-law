@@ -1,0 +1,677 @@
+{
+ "key": "iccj-hp-73-2024",
+ "label": "Decizia ÎCCJ nr. 73/2024 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "73",
+ "date": "2024-11-11",
+ "year": "2024",
+ "heading": "DECIZIA nr. 73 din 11 noiembrie 2024",
+ "subtitle": "referitoare la interpretarea și aplicarea a dispozițiilor art. 35 lit. b) din Legea poliției locale nr. 155/2010, republicată, cu modificările și completările ulterioare",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "89",
+  "bis": false,
+  "date": "2025-01-31",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.018/1/2024",
+  "6.268/117/2023"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea poliției locale nr. 155/2010",
+    "number": "155",
+    "year": "2010",
+    "path": "lege/2010/155"
+   },
+   "articles": [
+    {
+     "art": "35",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârii Guvernului nr. 1.822/2004",
+    "number": "1822",
+    "year": "2004",
+    "path": "hg/2004/1822"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Curtea de Apel Cluj - Secția a III-a contencios administrativ și fiscal în Dosarul nr. 6.268/117/2023, în vederea pronunțării unei hotărâri prealabile cu privire la următoarea chestiune de drept: Modul de interpretare și aplicare a dispozițiilor art. 35 lit. b) din Legea poliției locale nr. 155/2010, republicată, cu modificările și completările ulterioare, în sensul de a stabili dacă în privința polițiștilor locali, salarizați în baza Legii nr. 155/2010, sunt aplicabile dispozițiile Hotărârii Guvernului nr. 1.822/2004 privind stabilirea locurilor de muncă și activităților cu condiții deosebite, speciale și alte condiții, specifice pentru polițiști, cu modificările ulterioare, în vederea determinării locurilor de muncă și activităților în condiții deosebite și speciale.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 62/2024",
+    "number": "62",
+    "year": "2024",
+    "path": "oug/2024/62"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea poliției locale nr. 155/2010",
+    "number": "155",
+    "year": "2010",
+    "path": "lege/2010/155"
+   },
+   "articles": [
+    {
+     "art": "35",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "4",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârii Guvernului nr. 1.822/2004",
+    "number": "1822",
+    "year": "2004",
+    "path": "hg/2004/1822"
+   },
+   "articles": [],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 263/2010",
+    "number": "263",
+    "year": "2010",
+    "path": "lege/2010/263"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "e"
+     ]
+    },
+    {
+     "art": "29",
+     "alin": [
+      "1",
+      "1-1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "17",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "18",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "100",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 20
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "520",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "193",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "109",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "517",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 19/2000",
+    "number": "19",
+    "year": "2000",
+    "path": "lege/2000/19"
+   },
+   "articles": [
+    {
+     "art": "20",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "19",
+     "alin": [
+      "1",
+      "5",
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 226/2006",
+    "number": "226",
+    "year": "2006",
+    "path": "lege/2006/226"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 261/2001",
+    "number": "261",
+    "year": "2001",
+    "path": "hg/2001/261"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "18",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 246/2007",
+    "number": "246",
+    "year": "2007",
+    "path": "hg/2007/246"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "9",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 1.025/2003",
+    "number": "1025",
+    "year": "2003",
+    "path": "hg/2003/1025"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "9",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 1.284/2011",
+    "number": "1284",
+    "year": "2011",
+    "path": "hg/2011/1284"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 307/2006",
+    "number": "307",
+    "year": "2006",
+    "path": "lege/2006/307"
+   },
+   "articles": [
+    {
+     "art": "39",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 1.294/2001",
+    "number": "1294",
+    "year": "2001",
+    "path": "hg/2001/1294"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul ministrului de interne nr. 283/2002",
+    "number": "283",
+    "year": "2002"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 448/2006",
+    "number": "448",
+    "year": "2006",
+    "path": "lege/2006/448"
+   },
+   "articles": [
+    {
+     "art": "37",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "47",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 153/2018",
+    "number": "153",
+    "year": "2018",
+    "path": "hg/2018/153"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 65/2015",
+    "number": "65",
+    "year": "2015",
+    "path": "oug/2015/65"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 1.014/2015",
+    "number": "1014",
+    "year": "2015",
+    "path": "hg/2015/1014"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 104/2003",
+    "number": "104",
+    "year": "2003",
+    "path": "lege/2003/104"
+   },
+   "articles": [
+    {
+     "art": "22",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 223/2015",
+    "number": "223",
+    "year": "2015",
+    "path": "lege/2015/223"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituția României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "108",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-01-31",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/294154",
+  "text_sha256": "8025e51e769e1c164908839155bd4422c92ebece834d600fca478ee04d21e3e7",
+  "catalogue_sha256": "8025e51e769e1c164908839155bd4422c92ebece834d600fca478ee04d21e3e7",
+  "fetched": "2026-11-03T01:01:09Z",
+  "chars": 59555,
+  "portal_id": "294154",
+  "tip": "DECIZIE"
+ }
+}
