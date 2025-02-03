@@ -1,0 +1,181 @@
+{
+ "key": "dcc-474-2024",
+ "label": "Decizia CCR nr. 474/2024",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "474",
+ "date": "2024-10-15",
+ "year": "2024",
+ "heading": "DECIZIA nr. 474 din 15 octombrie 2024",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 31 alin. (17) din Legea serviciului de alimentare cu apă și de canalizare nr. 241/2006",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "96",
+  "bis": false,
+  "date": "2025-02-03",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "4.235/202/2019",
+  "624D/2020"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea serviciului de alimentare cu apă și de canalizare nr. 241/2006",
+    "number": "241",
+    "year": "2006",
+    "path": "lege/2006/241"
+   },
+   "articles": [
+    {
+     "art": "31",
+     "alin": [
+      "17"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Cătălin Dobrescu în Dosarul nr. 4.235/202/2019 al Judecătoriei Călărași și constată că dispozițiile art. 31 alin. (17) din Legea serviciului de alimentare cu apă și de canalizare nr. 241/2006 sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Judecătoriei Călărași și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea serviciului de alimentare cu apă și de canalizare nr. 241/2006",
+    "number": "241",
+    "year": "2006",
+    "path": "lege/2006/241"
+   },
+   "articles": [
+    {
+     "art": "31",
+     "alin": [
+      "17"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "146",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "61",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii serviciilor comunitare de utilități publice nr. 51/2006",
+    "number": "51",
+    "year": "2006",
+    "path": "lege/2006/51"
+   },
+   "articles": [
+    {
+     "art": "42",
+     "alin": [
+      "6-1",
+      "10"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2025-02-03",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/294199",
+  "text_sha256": "41ece1c8a267f5a2a3905ab69e6c53d76f71c183c086f7e71f20e147327d2626",
+  "catalogue_sha256": "41ece1c8a267f5a2a3905ab69e6c53d76f71c183c086f7e71f20e147327d2626",
+  "fetched": "2026-11-03T01:00:55Z",
+  "chars": 15753,
+  "portal_id": "294199",
+  "tip": "DECIZIE"
+ }
+}
