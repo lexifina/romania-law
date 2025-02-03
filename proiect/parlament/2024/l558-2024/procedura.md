@@ -13,6 +13,7 @@ Initiator: Membri ai Parlamentului.
 - 2024-11-04: documents published: Aviz comisie
 - 2024-11-06: documents published: Aviz comisie
 - 2024-12-11: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților
+- 2025-02-03: registered at the Chamber of Deputies
 
 ## Documents
 
