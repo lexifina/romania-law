@@ -1,0 +1,2 @@
+# Articolul unic
+Se dispune publicarea efectuării radierii din Registrul general Instituții Financiare Nebancare, ținut de către Banca Națională a României, a Societății INSTANT CREDIT GRUP IFN - S.A., cu sediul în Rădăuți, Str. Fabricilor nr. 7, biroul nr. 5, județul Suceava, înregistrată la oficiul registrului comerțului cu nr. J33/1322/2019, cod unic de înregistrare 41402765, înscrisă în Registrul general cu nr. RG-PJR-34-110350/25.10.2019, la secțiunea k) „Activități multiple de creditare”.
