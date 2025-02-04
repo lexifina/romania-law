@@ -1,0 +1,10 @@
+# HCL Baia de Aramă nr. 78/2024
+
+Text not yet included: no document of it is held. It will be added when it is.
+
+- Council: Consiliul Local al Orașului Baia de Aramă
+- Decision: nr. 78/2024
+- Adopted: 2024-11-29
+- Published: 2025-02-04
+- Title: pentru modificarea HCL nr. 63/08.10.2024 privind acordarea unor facilități fiscale urmare a achitării până la data de 25.11.2024 a obligațiilor fiscale principale restante la data de 31.08.2024
+- Record: https://emol.ro/baiadearama-mh/registru-hcl/179891
