@@ -1,0 +1,12 @@
+Consiliul local al municipiului Hunedoara;
+Analizând Proiectul de Hotărâre nr. 538/09.12.2024, Referatul de aprobare al Primarului municipiului Hunedoara nr. 96377/09.12.2024 prin care se propune aprobarea organizării rețelei școlare a unităților de învățământ preuniversitar de stat și particular de pe raza teritorială a Municipiului Hunedoara, pentru anul școlar 20254-2026, precum și raportul de specialitate al compartimentului de resort nr. 96378/09.12.2024;
+Urmare a avizului conform al Inspectoratului Școlar Județean Hunedoara nr.
+4504/2/18.11.2024 înregistrată la Primăria municipiului Hunedoara sub nr.
+94209/02.12.2024;
+Având în vedere Ordinul Ministrului Educației Naționale nr. 5039/2023 privind privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Grădinița „Happy Kids” din Municipiul Hunedoara, județul Hunedoara și Ordinul Ministrului Educației Naționale nr.4610/2017 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Școala Tehnică Postliceală „Henri Coandă” din municipiul Hunedoara;
+Având în vedere avizul Comisiei de studii, prognoze economico-sociale, buget, finanțe și administrarea domeniului public și privat al municipiului Hunedoara nr.
+7380/30.01.2025, al Comisiei pentru administrație publică locală, juridică, apărarea ordinii publice, respectarea drepturilor și libertăților cetățenilor nr. 7297/30.01.2025, al Comisiei de organizare și dezvoltare urbanistică, realizarea lucrărilor publice, protecția mediului înconjurător, conservarea monumentelor istorice și de arhitectură nr. 7321/30.01.2025, al Comisiei pentru servicii publice și comerț nr. 7371/30.01.2025, precum și al Comisiei pentru activități științifice, învățământ, sănătate, cultură, protecție socială, sportive și de agrement nr. 7382/30.01.2025;
+În temeiul prevederilor art. 19 alin. (1)-(6) din Legea învățământului preuniversitar nr.
+198/2023, cu modificările ulterioare, ale Ordinul Ministrului Educației Naționale nr.6613/2024 pentru aprobarea Calendarului operațiunilor de organizare a rețelei școlare, pentru anul școlar 2025-2026, precum și ale art. 4 lit. b) și art. 7 din Legea nr. 52/2003 privind transparența decizională în administrația publică, republicată, cu modificările ulterioare;
+În temeiul prevederilor art. 129 alin. (2) lit. d), alin. (7), lit. a), alin. (14), precum și ale art.139 coroborat cu art. 196 alin.(1) lit. a), din Ordonanța de urgență nr.57/2019 privind Codul administrativ, cu modificările și completările ulterioare;
+H O T Ă R Ă Ș T E:
