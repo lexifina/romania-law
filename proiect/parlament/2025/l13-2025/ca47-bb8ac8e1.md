@@ -1,0 +1,3001 @@
+Parlamentul României
+SENAT
+SENAT
+CAMERA DEPUTATILOR
+Comisia
+Comisia pentru
+Comisia pentru mediu
+pentru mediu
+ape, păduri,pescuit
+Si echilibru ecologic
+si fond cinegetic
+Nr. LXXII/5
+Nr. XXXIII/ 17
+Nr. 4c-8/20
+AVIZ
+COMUN
+asupra proiectul Legii bugetului de stat pe anul 2025
+În conformitate Cu prevederile art. 21 din Regulamentul activitătilor
+comune ale Senatului și Camerei Deputa~ilor,republicat, cu completările ulterioare,
+Comisia pentru mediu a Senatului, Comisia pentru ape, păduri, pescuit și fond
+cinegetic a Senatului și Comisia pentru mediu și echilibru ecologic a Camerei
+Deputatilor au fost sesizate, prin adresele L13/2025 și PL-x nr. 1/2025, pentru
+dezbatere și avizare cu proiectul Legii bugetului de stat pe anul 2025.
+Potrivit prevederilor art.22 din Regulamentul activitătilor comune ale
+Senatului și Camerei Deputatilor republicat, Cu completările ulterioare, membrii
+comisiilor reunite, au examinat proiectul de lege mai sus menționat în ședința comună
+din 4 februarie 2025.
+La ședinta comisiilor reunite, au participat, în calitate de invitați,
+reprezentanți din partea Ministerului Finanțelor Publice, precum și din partea
+Ministerului Mediului, Apelor și Pădurilor.
+În urma finalizării dezbaterii, membrii comisiilor au hotarât, cu majoritate
+de voturi ( --
+pentru,  lTmpotrivă și
+abțineri), avizarea favorabilă a
+proiectului Legii bugetului de stat pe anul 2025, cu amendamente
+respinse,
+prevăzute în anexa la prezentul aviz.
+În raport cu obiectul și continutul său, proiectul de Lege face parte din
+categoria legilor ordinare.
+PREȘEDINTE,
+Diana-Anda;BUZQIANU ,
+
+Anexa
+AMENDAMENTE RESPINSE
+asupra proiectului Legii bugetului de stat pe anul 2025
+Anexa 3/23 — Ministerul Mediului, Apelor și Pădurilor
+Nr.
+crt.
+Articolul din
+lege/anexa/capitoUsubcapitol/pa
+ragraf/
+grupa/titlul/articoValineat
+Text amendament propus
+(autor, apartenen(ă politic)
+Motiva(ia amendamentului/
+sursa de finan~are
+Motiva~ia
+respingerii
+(numai pt.
+comisii)
+l.
+Anexa
+3/23/01,
+Ministerul Se adaugă suma de 2.000 mu i lei pentru Municipiul Vaslui se confruntă
+Amendament
+Mediului, Apelor și Pădurilor,
+Capitolul 5001,
+c) Cheltuieli pentru elaborarea
+studiilor de prefezabilitate, a
+elaborarea unui studiu de fezabilitate privind
+identificarea unor surse suplimentare de apă pentru
+municipiul Vaslui.
+cu o serie de provocări legate
+de
+aprovizionarea
+cu
+apă
+potabilă, ceea ee
+justifică
+necesitatea de a investi in surse
+respins la vot
+studiilor de fezabilitate, a altor Autori: senator Mindru Cătălin — Emil, Grupurile suplimentare de apă, precum
+studii aferente obiectivelor de
+investitii, inclusiv cheltuielile
+necesare
+pentru
+obtinerea
+avizelor,
+autorizatiilor
+si
+acordurilor prevazute de lege
+parlamentare ale USR
+aducțiunea de apă din râul Prut
+sau din surse subterane. În
+acest
+sens,
+Ministerul
+Mediului, Apelor și Pădurilor a
+fost informat de către Primăria
+Municipiului
+Vaslui
+prin
+adresa
+nr.
+104869
+din
+30.08.2024.
+Creșterea
+populației
+și
+urbanizarea. Sistemul existent
+de furnizare a apei poate deveni
+insuficient pentru a face față
+nevoilor unui număr mai mare
+de locuitori și utilizatori, in
+ultimii ani, municipiul Vaslui
+2
+
+inregistrănd
+o
+creștere
+semnificativă a populației.
+Schimbările
+climatice.
+Secetele
+prelungite
+și
+perioadele
+de
+temperaturi
+extreme inregistrate in zonă, in
+ultimii
+ani
+au
+condus
+la
+reducerea debitului surselor de
+suprafață, ceea cc face necesar
+un
+sistem
+diversificat
+de
+aprovizionare cu apă. Sursele
+de apă din răul Prut sau din
+resursele subterane ar oferi o
+siguranță suplimentară in fața
+acestor
+riscuri.
+Cresterea
+cererii
+de
+apă
+pentru
+agricultură. De
+asemenea,
+activitătile
+agricole
+vor
+consuma cantități man de apă
+pentru irigații, in special in
+perioadele de secetă.
+Îmbunătățirea calității apei.
+Resursele locale de apă au
+inregistrat fluctuații in ceea cc
+privește
+calitatea
+apei,
+in
+special in perioadele de secetă
+pedologică
+prelungită.
+Utilizarea răului Prut sau a
+surselor subterane ar putea
+oferi o sursă de apă mai curată
+și mai constant., cu o calitate
+mai ridicată, care să răspundă
+cerințelor de potabilitate.
+3
+
+Sursa de finantare:
+Administrația prezidențială -
+Anexa nr. 3 / 01 / 15 - Capitol
+5010 / Titlul Ol sau 10
+2.
+Anexa 3/23/01, Ministerul
+Mediului, Apelor și Pădurilor,
+capitol 8301, grupa 20
+Se adaugă suma de 150.000 mu i lei pentru
+finanțarea programului prin care TAF-urile pot fi
+dotate cu sistem GPS.
+Autor: Adrian Giurgiu, deputat USR
+Grupurile parlamentare ale USR
+Dotarea TAF-urilor cu un
+sistem GPS va permite o mai
+bun ă
+monitorizare
+a
+materialului lemnos care iese
+din
+pădurile
+României.
+Beneficiind de harta digital ă a
+ariei in lucru Si dotarea tafului
+cu GPS se va cunoaște exact
+poziția acestuia. De asemenea,
+se va cunoaște dacă personalul
+silvic respect ă modul de tăiere
+si locul de tăiere.
+Sursă finantare: Serviciul
+Roman de Informatii (SRI):
+Anexa nr. 3 / 31 / 02 — Capitol
+5001 / Tit1u101 /
+CHELTUIELI CURENTE / II.
+Credite bugetare
+Amendament
+respins la vot
+3.
+Anexa 3/23/01, Ministerul
+Mediului, Apelor și Pădurilor,
+capitol 8301, grupa 20
+Se adaugă suma de 200.000 mu i lei pentru
+finanțarea programului prin care fondul forestier
+Pentru a limita tăierile ilegale
+de
+arbori,
+fondul
+forestier
+national, va fi monitorizat prin
+Amendament
+respins la vot
+4
+
+național va fi monitorizat prin intermediul unor
+sisteme integrate de supraveghere video,
+Autor: Adrian Giurgiu, deputat USR
+Grupul parlamentare ale USR
+intermediul
+unor
+sisteme
+integrate
+de
+supraveghere
+video.
+Sistemele
+de
+supraveghere video vor avea
+acces la internet și se vor
+instala in mai multe puncte in
+fondul forestier.
+Sursa
+finantare:
+Serviciul
+Romăn de Informații (SRI):
+Anexa nr. 3 / 31 / 02 — Capitol
+5001
+/
+Titlul
+01
+/
+CHELTUIELI CURENTE /11.
+Credite bugetare
+4.
+Anexa 3/23/01, Ministerul
+Mediului, Apelor și Pădurilor,
+capitol 7401, titlu 20
+Se suplimentează suma prevăzută cu 300.000
+m
+u
+
+i
+Iei aferentă implementării măsurilor necesare
+pentru
+inchiderea
+gropilor
+de
+gunoi
+și
+decontaminarea mai multor site-uri care fac
+obiectul procedurilor de infringement.
+Autori:
+deputata Diana Buzoianu - USR,
+deputat Allen Coliban - USR,
+Romănia a fost deja chemată in
+judecată la CJUE pentru eșecul
+inchiderii celor peste 40 de
+gropi de gunoi neconforme cu
+standardele europene care ne
+pun sănătatea in pericol.
+De-a lungul anilor una dintre
+scuzele
+executivului
+pentru
+nerezolvare acestei probleme a
+fost lipsa resurselor financiare.
+Cu toate acestea, trebuie să
+ințelegem că dacă nu vom
+aloca aceste resurse pentru
+Amendament
+respins la vot
+5
+
+deputat Adrian Giurgiu- USR,
+senator Aurel Oprinoiu - USR,
+senatoarea Cynthia Păun - USR,
+senator Sebastian Cernic - USR.
+Grupurile parlamentare ale USR
+rezolvarea problemelor, pentru
+preluarea
+acestor
+gropi și
+închiderea
+lor,
+pentru
+decontaminarea
+acestor
+depozite, vom ajunge să plătim
+exponential mai mulți bani în
+amenzi. Așadar, considerăm
+necesară alocarea de resurse
+reale pentru rezolvarea acestei
+probleme cu care România și
+românii se confruntă de ani de
+zile.
+Sursa de finantare:
+Serviciul Roman de Informatii
+(SRI): Anexa nr. 3 / 31 / 02 —
+Capitol 5001 / Titlul 01 /
+CHELTUIELI CURENTE /11.
+Credite bugetare
+5.
+Anexa 3/23/01, Ministerul
+Mediului, Apelor și Pădurilor,
+capitol 7401,
+titlu 20
+Se adaugă suma de 200.000 mu i lei pentru
+finanțarea decontaminării unei prime părti din
+siturile contaminate.
+Autori:
+deputata Diana Buzoianu - USR,
+În România exist ă un număr de
+1.393
+de
+situri
+contaminate/potential
+contaminate,
+inventariate,
+conform strategiei naționale
+privind gestionarea siturilor
+contaminate.
+Amendament
+respins la vot
+6
+
+deputat Allen Coliban - USR,
+În topul județelor în ceea ce
+deputat Adrian Giurgiu- USR,
+senator Aurel Op rinoiu - USR,
+senatoarea Cynthia Păun - USR,
+senator Sebastian Cernic - USR.
+Grupurile parlamentare ale USR
+privește siturile contaminate se
+află Hunedoara, cu 41 de situri,
+urmat de Caras Severin cu 33
+de situri și Cluj, cu 19 situri
+contaminate.
+În Strategia Natională și Planul
+National pentru Gestionarea
+Siturilor Contaminate a fost
+inclusă
+Si
+o
+estimare
+a
+necesarului
+de
+finantare.
+Astfel,
+costurile
+estimative
+pentru
+siturile
+potential
+contaminate
+care
+necesită
+investigare și evaluări de risc,
+urmând ca pe baza acestora să
+se stabilească dacă necesită sau
+nu lucrări de remediere, se
+ridică la 7.145.320.000 de euro,
+dintre care 7.098.000.000 euro
+pentru acțiuni de remediere și
+47.320.000 euro pentru acțiuni
+de investigare.
+În cazul unui teren potential
+contaminat, costurile pentru
+evaluarea completă, care va
+stabili dacă acesta este sau nu
+7
+
+contaminat, se ridică la suma
+de 40.000 de euro.
+Potrivit estimărilor, costurile
+totale
+ale
+operațiunilor
+necesare
+pentru
+siturile
+contaminate și a celor potențial
+contaminate se ridică la peste
+8,4 miliarde euro.
+Sursa de finantare:
+Serviciul Romăn de Informatii
+(SRI): Anexa nr. 3 / 31 / 02 —
+Capitol 5001 / Titlul 01 /
+CHELTUIELI CURENTE / II.
+Credite bugetare
+6.
+Anexa 3/23/01, Ministerul
+Mediului, Apelor și Pădurilor,
+capitol 7401, titlu 20
+Se adaugă suma de 50.000 mu i lei pentru
+Administrația Națională Apele Române in vederea
+dispunerii lucrărilor de curare a râurilor.
+Autori:
+deputata Diana Buzoianu - USR,
+deputat Allen Coliban - USR,
+În
+septembrie
+2023,
+Cuapelecurate.ro evalua faptul
+că in România ar exista peste
+100 de tone de plastic ce sunt
+purtate anual de apele Dunării.
+Poluarea
+râurilor
+este
+un
+fenomen care afectează in mod
+ireparabil mediul inconjurător,
+dar și sănătatea a milioane de
+români, fund necesare măsuri
+Amendament
+respins la vot
+8
+
+deputat Adrian Giurgiu- USR,
+senator Aurel Oprinoiu - USR,
+senatoarea Cynthia Nun - USR,
+senator Sebastian Cernic - USR.
+Grupurile parlamentare ale USR
+concrete
+de
+curătare
+a
+albiilor râurilor.
+Astfel, administrațiile bazinale
+din subordinea Administratiei
+Nationale
+Apele
+Române
+trebuie să primească resursele
+necesare în vederea curățării
+apelor pe care le administrează.
+Sursa de finantare:
+Administratia
+Prezidentială:
+Anexa nr. 3 / 01 / 02 — Capitol
+5001
+/
+Titlul
+01
+/
+CHELTUIELI CURENTE /
+II.Credite bugetare.
+7.
+Amendament
+Anexa 3/23/01, Ministerul
+Mediului, Apelor și Pădurilor„
+capitol 8301, subcapitol 04
+Se adaugă suma de 50.000
+m
+u
+
+i
+
+lei în vederea
+implementării
+proiectelor-pilot
+privind
+achiziționarea de către Regia Natională a Pădurilor
+ROMSILVA a sistemelor cu tehnologie RFID in
+vederea marcării arborilor.
+Autori:
+deputata Diana Buzoianu - USR,
+Prevederile
+din Noul Cod
+Silvic
+prevăd
+posibilitatea
+pilotării proiectelor de marcare
+a arborilor prin tehnologii
+alternative.
+Trebuie asigurate acele garanții
+că
+tăierea
+arborilor
+se
+realizează in baza Si in limitele
+legale,
+motiv
+pentru
+care
+marcarea
+acestora
+cu
+tehnologii
+RFID
+(radio-
+respins la vot
+9
+
+deputat Allen Coliban - USR,
+deputat Adrian Giurgiu- USR,
+senator Aurel Oprinoiu - USR,
+deputat Andrei Plujar - USR,
+senatoarea Cynthia Nun - USR,
+senator Sebastian Cernic - USR.
+Grupurile parlamentare ale USR
+frequency
+identification)
+determină posibilitatea unei
+mai
+bune
+inventarieri
+Si
+monitorizări
+a
+tăierilor
+arborilor.
+Dorim
+implementarea
+unor
+proiecte pilot,
+in ocoalele
+silvice selectate transparent in
+cadrul anului 2025, de marcare
+a tăierii arborilor cu tehnologia
+REID.
+Sursa
+de
+finantare:
+Administratia
+Prezidentială:
+Anexa nr. 3 / 01/ 02 — Capitol
+5001
+/
+Titlul
+01
+/
+CHELTUIELI CURENTE /
+II.Credite bugetare.
+8.
+Amendament
+Anexa 3/23/01, Ministerul
+Mediului, Apelor Si Pădurilor,
+capitol 7000, subcapitol 1, titlu
+20
+Se adaugă suma de 100.000
+m
+u
+
+i
+
+lei pentru
+Administratia National Apele Romăne in vederea
+consolidării digurilor și barajelor.
+Autori:
+Raportat la situatia actuală din
+România,
+in
+care
+lipsa
+consolidării
+digurilor
+și
+barajelor determină inundații
+constante, care afectează mu i de
+familii
+anual,
+se
+impune
+asumarea majorării investițiilor
+respins la vot
+deputata Diana Buzoianu - USR,
+in ceea ce privește consolidarea
+digurilor și barajelor.
+10
+
+deputat Allen Coliban - USR,
+deputat Adrian Giurgiu- USR,
+senator Aurel Oprinoiu - USR,
+senatoarea Cynthia Pun - USR,
+senator Sebastian Cernic - USR.
+Grupurile parlamentare ale USR
+Sursa de finantare:
+Serviciul Roman de Informatii
+(SRI): Anexa nr. 3 / 31 / 02 —
+Capitol 5001 / Titlul 01 /
+CHELTUIELI CURENTE /11.
+Credite bugetare
+9.
+Anexa 3/23/01, Ministerul
+Mediului, Apelor și Pădurilor„
+Capitol 7000, subcapitol 1, titlu
+20
+Se adaugă suma de 10.000
+m
+u
+
+i
+
+lei pentru
+mentenanță și extindere a Rețelei Naționale de
+Monitorizare a Calității Aerului
+Autori:
+deputata Diana Buzoianu - USR,
+deputat Allen Coliban - USR,
+deputat Adrian Giurgiu- USR,
+deputat Andrei Plujar - USR,
+senator Aurel Oprinoiu - USR,
+senatoarea Cynthia Nun - USR,
+RNMCA
+se
+confruntă
+Cu
+probleme de operare cauzate de
+finantarea
+insuficientă
+a
+activităților
+de mentenanță,
+lucru
+vizibil
+tuturor
+la
+accesarea siteului calitateaer.ro
+(ex: pentru parametrul PM10,
+majoritatea
+stațiilor
+sunt
+"gri"/nefuncționale in privința
+determinărilor
+instantanee).
+Sunt necesare fonduri pentru
+mentenanta
+si
+extinderea
+acestei retele.
+Sursa de finantare:
+Serviciul Român de Informatii
+(SRI): Anexa nr. 3 / 31 / 02 —
+Capitol 5001 / Titlul 01 /
+Amendament
+respins la vot
+11
+
+senator Sebastian Cernic - USR.
+Grupurile parlamentare ale USR
+CHELTUIELI CURENTE / II.
+Credite bugetare
+10.
+Anexa 3/23/01, Ministerul
+Mediului, Apelor și Pădurilor,
+Capitolul 5000
+Se suplimentează cu suma de 6.000 mu i lei pentru
+achiziția a patru autolaboratoare/unități mobile de
+monitorizare a concentrațiilor de poluanți, dotarea
+lor cu echipamente de măsurare a poluan~ilor
+(SO2, NOx/NO2, CO, COV, PM10, H2S, NH3),
+echipamente de calibrare, echipamente pentru
+monitorizarea parametrilor meteorologici, sisteme
+de transmitere a datelor, inclusiv aplicații software
+pentru colectarea, prelucrarea și transmiterea
+datelor specifice RNMCA și care vor fi conectate
+la re~eaua local de monitorizare a calită~ii aerului
+înconjurător a APM din județele Ilfov, București,
+Brasov si Iasi.
+'
+Autori:
+Senatoarea Cynthia Nun - USR,
+Deputat Dumitru Văduva - USR
+Deputata Diana Buzoianu - USR,
+Deputat Allen Coliban - USR,
+Deputat Adrian Giurgiu- USR,
+Senator Aurel Oprinoiu - USR,
+Senator Sebastian Cernic - USR,
+Senator Mihai Bodea - USR
+Deputat Ștefan Tănasă - USR
+Deputata Monica Berescu - USR
+Senator Ambrozie-Irineu Darău - USR
+Județele
+Ilfov,
+București,
+Brașov și Iași au înregistrat o
+creștere a gradului de poluare,
+printre
+principalii
+factori
+numărându-se arderile ilegale,
+depozitele ilegale de deșeuri,
+emisia
+de
+gaze
+poluante,
+traficul, etc.
+Cu toate că societatea civil ă a
+semnalat în nenumărate rânduri
+emisii de gaze neconforme de
+la arderile ilegale de deșeuri și
+alte tipuri de emisii de gaze
+poluante, APM județene nu au
+putut
+răspunde
+rapid
+solicitărilor cetățenilor și nu au
+identificat sursele de poluare
+pentru a putea lua măsuri
+eficiente care să stopeze aceste
+fenomene.
+Autolaboratorul mobil este o
+soluție pentru zonele care nu se
+află in aria de acoperire a
+stațiilor
+automate
+de
+monitorizare a calității aerului,
+putând fi folosit inclusiv pentru
+Amendament
+respins la vot
+12
+
+Grupurile parlamentare ale USR
+soluționarea
+petițiilor,
+sesizărilor sau reclamatiilor
+venite din partea cetățenilor.
+Amintim
+că
+MMAP
+a
+achizitionat 25 de astfel de
+auto laboratoare
+pentru
+jumătate din județele
+rii, dar
+nu sunt suficiente pentru a
+acoperi nevoia și zonele Cu un
+grad ridicat de poluare.
+Sursa
+de
+finantare:
+Se
+diminuează bugetul Academiei
+Oamenilor de Știintă (AOSR):
+Anexa nr. 3 / 56 / 02 - Capitol
+5001
+/
+Titlul
+01
+/
+CHELTUIELI CURENTE /
+II.Credite bugetare, cu suma de
+6.000 mu i lei.
+11.
+Se adaugă suma de 200.000 mu i lei pentru Anul
+trecut
+s-au
+pierdut
+Amendament
+Anexa
+3/23/01,
+Ministerul înființarea unui fond special pentru achiziția de achizițiile a 4.000 de hectare in
+respins la vot
+Mediului, Apelor și Pădurilor,
+capitol 8301, subcapito104
+păduri in gestionarea Ministerului Mediului
+jud. Neamt și 1.000 de hectare
+de pădure în jud. Mureș.
+Autori:
+deputata Diana Buzoianu - USR,
+deputat Allen Coliban - USR,
+deputat Adrian Giurgiu- USR,
+senator Aurel Oprinoiu - USR,
+senatoarea Cynthia Pun - USR,
+Este nevoie de un fond special
+pentru achiziția de păduri.
+Statul ar trebui să aibă un plan
+de achiziționare a pădurilor
+private pe care proprietarii
+doresc
+să
+le
+văndă.
+13
+
+senator Sebastian Cernic - USR
+Grupurile parlamentare ale USR
+După
+1990,
+Romsilva
+a
+achiziționat,
+in
+total,
+aproximativ 10.000 de hectare
+de pădure. Drept comparația,
+persoane fizice private din
+țările nordice au cumpărat de
+câteva
+o
+n
+
+mai multă pădure in
+Romănia decât Romsilva in
+scop de tezaurizare.
+Sursa de finantare:
+Serviciul Romăn de Informatii
+(SRI): Anexa nr. 3 / 31 / 02 —
+Capitol 5001 / Titlul 01 /
+CHELTUIELI CURENTE / II.
+Credite bugetare
+12.
+Anexa
+3/23/01,
+Ministerul
+Mediului, Apelor și Pădurilor,
+Capitolul
+7001
+-
+Locuințe,
+Servicii și Dezvoltare Public, II.
+Credite Bugetare
+Propuneri 2025
+Se suplimentează cu suma de 80
+m
+u
+
+i
+
+lei, aferentă
+proiectului „Dezvoltare rural
+echilibrată prin
+realizarea de capacități de producere energie
+regenerabilă la clădirea grădiniței Bogata de Sus",
+Comuna Vad, fa ță de suma de 1.166.091 mu i lei,
+care este prevăzută in forma proiectului de lege.
+Concluzie, suma care va figura in Anexă:
+Comunitățile
+rurale
+din
+Romănia
+se
+confruntă
+cu
+depopulări masive. O bună
+parte
+dintre
+acestea
+sunt
+cauzate de lipsa unor servicii
+minime de bază oferite de către
+administratiile locale.
+Stoparea
+acestui
+fenomen
+presupune politici de atragere
+si mentinere a tinerilor in
+aceste
+comunități,
+inclusiv
+construirea,
+reabilitarea
+Amendament
+respins la vot
+14
+
+1.166.171
+Autori:
+Senator RUS Ciprian
+Deputat MURARIU Oana
+Deputat RIGMAN Ciprian
+-Grupurile Parlamentare ale USR
+infrastructurii
+școlare
+sau
+dotarea acestora, care de multe
+on
+grevează
+semnificativ
+bugetele
+locale
+sau
+ar
+presupune o durată mai lungă
+de implementare dacă ar fi
+finanțate exclusiv din bugetele
+locale.
+Sursa de finanțare:
+Fondurile puse la dispoziția
+Administratiei
+Prezidentiale
+pentru deplasările externe ale
+Presedintelui României
+Anexa
+nr.
+3/01/01
+-
+Administrația
+Prezidențială,
+Capitolu15000 - Total General,
+II. Credite bugetare
+13.
+Anexa
+3/23/01,
+Ministerul
+Mediului, Apelor și Pădurilor,
+Capitolul
+7001
+-
+Locuințe,
+Servicii Si Dezvoltare Public, II.
+Credite Bugetare
+Propuneri 2025
+Se suplimentează cu suma de 6.000
+m
+u
+
+i
+
+lei,
+aferentă proiectului „Reabilitare, modernizare și
+dotare Grădiniță Cetan", comuna Vad, fa ță de
+suma de 1.166.091 mu i lei, care este prevăzută in
+forma proiectului de lege.
+Comunitățile
+rurale
+din
+România
+se
+confruntă
+cu
+depopulări masive. O bună
+parte
+dintre
+acestea
+sunt
+cauzate de lipsa unor servicii
+minime de bază ofente de către
+administratiile locale.
+Amendament
+respins la vot
+15
+
+Concluzie, suma care va figura in Anexă:
+1.172.091
+Autori:
+Senator RUS Ciprian
+Deputat MURARIU Oana
+Deputat RIGMAN Ciprian
+-Grupurile Parlamentare ale USR
+Stoparea
+acestui
+fenomen
+presupune politici de atragere
+Si mentinere a tinerilor in
+aceste
+comunităti,
+inclusiv
+construirea,
+reabilitarea
+infrastructurii
+scolare
+sau
+dotarea acestora, care de multe
+o
+n
+
+grevează
+semnificativ
+bugetele
+locale
+sau
+ar
+presupune o durată mai lungă
+de implementare dacă ar fi
+finantate exclusiv din bugetele
+locale.
+Sursa de finantare:
+Fondurile puse la dispoziția
+Administratiei
+Prezidentiale
+pentru deplasările externe ale
+Presedintelui României
+Anexa
+nr.
+3/01/01
+-
+Administrația
+Prezidențială,
+Capitolu15000 - Total General,
+II. Credite bugetare
+14.
+Anexa 3/23/01, Ministerul
+Mediului, Apelor și Pădurilor,
+Capitolu15000, Grupa 58 - Titlul
+Se suplimentează cu suma de 1.273,4
+m
+u
+
+i
+
+lei,
+aferentă proiectului „Construirea de noi capacități
+de producere a energiei electrice produsă din surse
+Statul roman trebuie să susțină
+comunitățile
+care
+depun
+proiecte pentru construirea de
+Amendament
+respins la vot
+16
+
+X - Proiecte cu finantare din
+fondurile externe nerambursabile
+aferente cadrului financiar 2014-
+2020, II. Credite Bugetare
+Propuneri 2025
+regenerabile
+de
+energie
+solară
+pentru
+autoconsum", Comuna Vad, fa ță de suma de
+103.607 mu i lei, care este prevăzută in forma
+proiectului de lege.
+Concluzie, suma care va f gura in Anexă:
+104.880,4
+Autori:
+Senator RUS Ciprian
+Deputat MURARIU Oana
+Deputat RIGMAN Ciprian
+-Grupurile Parlamentare ale USR
+capacități
+de
+producere
+a
+energiei electrice deoarece, in
+final,
+acestea
+reduc
+semnificativ
+consumul
+,
+precum și costurile aferente
+acestei utilităti.
+Totodată, economiile realizate
+vor putea fi redireccionate către
+proiecte benefice comunității.
+Sursa de finantare:
+Fondurile puse la dispoziția
+Administratiei
+Prezidențiale
+pentru deplasările externe ale
+Presedintelui României
+Anexa
+nr.
+3/01/01
+-
+Administracia
+Prezidențială,
+Capitolul 5000 - Total General,
+II. Credite bugetare
+15.
+Anexa
+3/23/01,
+Ministerul
+Mediului, Apelor și Pădurilor,
+Capitolul
+7001
+-
+Locuinte,
+Servicii și Dezvoltare Public., II.
+Credite Bugetare
+Se suplimentează cu suma de 636,3
+m
+u
+
+i
+
+lei,
+aferentă proiectului „Stacie de incărcare mașini
+electrice", Comuna Vad, fa ță de suma de
+1.166.091 mu i lei, care este prevăzută in forma
+proiectului de lege.
+Dezvoltarea
+infrastructurii
+pentru stațiile de incărcare a
+mașinilor
+electrice
+este
+esențială pentru accelerarea
+tranzitiei
+către
+mobilitatea
+verde, reducerea emisiilor de
+Amendament
+respins la vot
+17
+
+Propuneri 2025
+Concluzie, suma care va figura in Anexă:
+1.166.727,3
+Autori:
+Senator RUS Ciprian
+Deputat MURARIU Oana
+Deputat RIGMAN Ciprian
+-Grupurile Parlamentare ale USR
+CO2 și îmbunătățirea calității
+aerului.
+Finantarea
+acestor
+stații
+va
+stimula
+adopția
+vehiculelor
+electrice,
+va
+sprijini economia locală
+p
+r
+i
+n
+
+investitii sustenabile
+Si va
+alinia România la obiectivele
+europene privind transportul
+ecologic.
+Sursa de finanțare:
+Fondurile puse la dispoziția
+Administratiei
+Prezidentiale
+pentru deplasările externe ale
+Presedintelui României
+Anexa
+nr.
+3/01/01
+-
+Administrația
+Prezidențială,
+Capitolu15000 - Total General,
+II. Credite bugetare
+16.
+Anexa
+3/23/01,
+Ministerul
+Mediului, Apelor și Pădurilor,
+Capitolul
+7001
+-
+Locuințe,
+Servicii și Dezvoltare Public., II.
+Credite Bugetare
+Propuneri 2025
+Se suplimentează cu suma de 1.000
+m
+u
+
+i
+
+lei,
+aferentă
+proiectului
+„Creșterea
+eficienței
+energetice a infrastructurii de iluminat public",
+Comuna Valea Ierii, fa ță de suma de 1.166.091 mu i
+lei, care este prevăzută in forma proiectului de
+lege.
+Statul roman trebuie să susțină
+comunitățile
+care
+depun
+proiecte pentru modernizarea
+sistemului de iluminat public
+deoarece, in final,
+acestea
+reduc semnificativ consumul
+de energie electric, precum și
+Amendament
+respins la vot
+18
+
+Concluzie, suma care va figura în Anexă:
+1.167.091
+Autori:
+Senator RUS Ciprian
+Deputat MURARIU Oana
+Deputat RIGMAN Ciprian
+-Grupurile Parlamentare ale USR
+costurile
+aferente
+acestei
+utilităti.
+Totodată, economiile realizate
+vor putea fi redirectionate către
+proiecte benefice comunitătii.
+Sursa de finanțare:
+Fondurile puse la dispozitia
+Administratiei
+Prezidentiale
+pentru deplasările externe ale
+Președintelui Romăniei
+Anexa
+nr.
+3/01/01
+-
+Administrația
+Prezidentială,
+Capitolu15000 - Total General,
+II. Credite bugetare
+17.
+Anexa
+3/23/01,
+Ministerul
+Mediului, Apelor și Pădurilor,
+Capitolul
+7001
+-
+Locuințe,
+Servicii și Dezvoltare Public, II.
+Credite Bugetare
+Propuneri 2025
+Se suplimentează cu suma de 1.865
+m
+u
+
+i
+
+lei,
+aferentă
+proiectului
+„Creșterea
+eficienței
+energetice și gestionarea inteligentă a energiei in
+clădirile publice cu destinație de unități de
+învățămănt la Școala Primară Satul Plăiești",
+comuna Moldovenești, fa ță de suma de 1.166.091
+mu i lei, care este prevăzută in forma proiectului de
+lege.
+Comunitățile
+rurale
+din
+Romănia
+se
+confruntă
+cu
+depopulări masive. O bună
+parte
+dintre
+acestea
+sunt
+cauzate de lipsa unor servicii
+minime de bază oferite de către
+administrațiile locale.
+Stoparea
+acestui
+fenomen
+presupune politici de atragere
+Si mentinere a tinerilor in
+Amendament
+respins la vot
+19
+
+Concluzie, suma care va figura in Anexă:
+1.167.956
+Autori:
+Senator RUS Ciprian
+Deputat MURARIU Oana
+Deputat RIGMAN Ciprian
+-Grupurile Parlamentare ale USR
+aceste
+comunități,
+inclusiv
+construirea,
+reabilitarea
+infrastructurii
+scolare
+sau
+dotarea acestora, care de multe
+o
+n
+
+grevează
+semnificativ
+bugetele
+locale
+sau
+ar
+presupune o durată mai lung
+de implementare dacă ar fi
+finanțate exclusiv din bugetele
+locale.
+Sursa de finantare:
+Fondurile puse la dispoziția
+Administratiei
+Prezidentiale
+pentru deplasările externe ale
+Presedintelui RomânieiAnexa
+nr. 3/01/01 - Administrația
+Prezidențială, Capitolul 5000 -
+Total
+General,
+II.
+Credite
+bugetare
+18.
+Anexa
+3/23/01,
+Ministerul
+Mediului, Apelor și Pădurilor,
+Capitolul
+7001
+-
+Locuințe,
+Servicii și Dezvoltare Public, II.
+Credite Bugetare
+Se suplimentează cu suma de 1.817
+m
+u
+
+i
+
+lei,
+aferentă
+proiectului
+„Creșterea
+eficienței
+energetice și gestionarea inteligentă a energiei in
+clădirile publice cu destinație de unități de
+invățământ la Școala Primară Satul Podeni",
+comuna Moldovenești, fa ță de suma de 1.166.091
+Comunitățile
+rurale
+din
+România
+se
+confruntă
+cu
+depopulări masive. O bună
+parte
+dintre
+acestea
+sunt
+cauzate de lipsa unor servicii
+Amendament
+respins la vot
+20
+
+Propuneri 2025
+mu i lei, care este prevăzută in forma proiectului de
+lege.
+Concluzie, suma care va figura in Anexă:
+minime de bază oferite de către
+administratiile locale.
+Stoparea
+acestui
+fenomen
+presupune politici de atragere
+si mentinere a tinerilor in
+aceste
+comunităti,
+inclusiv
+1.167.908
+construirea,
+reabilitarea
+infrastructurii
+scolare
+sau
+dotarea acestora, care de multe
+Autori:
+o
+n
+
+grevează
+semnificativ
+bugetele
+locale
+sau
+ar
+Senator RUS Ciprian
+presupune o durată mai lungă
+Deputat MURARIU Oana
+de implementare dacă ar fi
+finantate exclusiv din bugetele
+Deputat RIGMAN Ciprian
+locale.
+-Grupurile Parlamentare ale USR
+Sursa de finantare:
+Fondurile puse la dispoziția
+Administratiei
+Prezidentiale
+pentru deplasările externe ale
+Presedintelui României Anexa
+nr. 3/01/01 - Administratia
+Prezidentială, Capitolul 5000 -
+Total
+General,
+II.
+Credite
+bugetare
+21
+
+19.
+Anexa
+3/23/01,
+Ministerul
+Mediului, Apelor și Pădurilor,
+Capitolul
+7001
+-
+Locuințe,
+Servicii și Dezvoltare Public, II.
+Credite Bugetare
+Propuneri 2025
+Se suplimentează cu suma de 1.446
+m
+u
+
+i
+
+lei,
+aferentă proiectului „Înființarea unei capacități de
+producție a energiei electrice din sursă solar ă
+pentru acoperirea consumului propriu", Comuna
+Moldovenești, față de suma de 1.166.091 mu i lei,
+care este prevăzută in forma proiectului de lege.
+Concluzie, suma care va figura in Anexa:
+1.167.537
+Autori:
+Senator RUS Ciprian
+Deputat MURARIU Oana
+Deputat RIGMAN Cipria
+Grupurile Parlamentare ale USR
+Statul roman trebuie să susțină
+comunitățile
+care
+depun
+proiecte pentru construirea de
+capacități
+de
+producere
+a
+energiei electrice deoarece, in
+final,
+acestea
+reduc
+semnificativ
+consumul
+,
+precum și costurile aferente
+acestei utilităti.
+'
+Totodată, economiile realizate
+vor putea fi redirecționate către
+proiecte benefice comunității.
+Sursa de finanțare:
+Fondurile puse la dispoziția
+Administrației
+Prezidențiale
+pentru deplasările externe ale
+Președintelui României Anexa
+nr. 3/01/01 - Administratia
+Prezidențială, Capitolul 5000 -
+Total
+General,
+II.
+Credite
+bugetare
+20.
+ANEXA NR 3/23/02
+Titlu VII -Alte transferuri
+"Investitii ale agentilor economici
+cu capital de stat"
+Se alocă suma de 1.000
+m
+u
+
+i
+
+lei pentru construirea
+unui zone de promenada, muzeu in aer liber - in
+punctul Cosota -Teica, orașul statiune Ocnele
+Mari.
+Zona
+aflată
+in
+imediata
+apropiere a sitului arheologic
+Buridava, Salinei Ocnele Mari
+și
+băilor
+de
+apă
+sărată
+reprezintă
+un
+potential
+Amendament
+respins la vot
+22
+
+Autor:
+Deputat Gheorghiu Andrei Florin
+Grupurile parlamentare USR
+semnificativ
+pentru
+dezvoltarea
+turistică
+și
+cultural . Recent ecologizată și
+asfaltată, in urma alunecărilor
+de teren din zona TEICA,
+această locatie beneficiază de
+infrastructura necesară pentru a
+sprijjni investitii in domeniul
+turismului. Proiectul ar crea
+locuri de munch Si ar stimula
+dezvoltarea turismului balnear
+si cultural in statiunea Ocnele
+Mari,
+consolidând
+astfel
+potențialul
+regiunii
+ca
+destinație turistică important .
+Sursa de finantare:
+Se
+diminuează
+bugetul
+Academiei
+Oamenilor
+de
+Știință (anexa nr. 3/56) la
+capitolul
+5000
+Titlul
+10
+Cheltuieli de personal', cu
+suma de 1.000 mu i lei.
+21.
+ANEXA NR 3/23/02
+Titlu VII -Alte transferuri
+"Investitii ale agentilor economici
+cu capital de stat"
+Se suplimentează credite bugetare cu suma de 800
+m
+u
+
+i
+
+lei și credite de angajament cu 200
+m
+u
+
+i
+
+lei
+pentru finanțare project: „Trasee de cicloturism pe
+muntele Cozia", Orasul Calimanesti, județul
+Valcea
+Autor:
+Proiectul
+„Trasee
+de
+cicloturism pe muntele Cozia",
+in orașul Călimănești, județul
+Vâlcea,
+are
+un
+potențial
+semnificativ de dezvoltare a
+turismului in această zonă, jar
+suplimentarea cu 800 mu i lei a
+creditelor bugetare și 200 mui
+Amendament
+respins la vot
+23
+
+Deputat Gheorghiu Andrei Florin
+Grupurile parlamentare USR
+lei a creditelor de angajament
+va asigura finanțarea necesară
+pentru implementarea acestuia.
+•
+Creditele bugetare
+suplimentate vor fi folosite
+pentru plăți efective, asigurănd
+resurse financiare pentru
+realizarea infrastructurii
+necesare pentru traseele de
+cicloturism Si alte cheltuieli
+curente.
+•
+Creditele de
+angajament suplimentate vor
+permite angaj area de cheltuieli
+ce vor fi efectuate in viitor,
+asigurănd astfel continuitatea
+proiectului pe termen lung.
+Sursa de finantare:
+Se diminuează Anexa 1, cap
+5001, grupa 50, TITLUL V -
+FONDURI DE REZERVA
+22. ANEXA NR 3/23
+Capitolu18201, TITLUL VII
+ALTE TRANSFERURI,
+Investiții ale agenților economici
+cu capital de stat
+Se suplimentează bugetul alocat cu 25
+m
+u
+
+i
+
+m
+u
+
+i
+
+lei
+pentru acțiunile de deschidere a exploatatiei de
+grafit de la Baia de Fier, faza filtrarii iazului de
+decantare.
+Autor:
+Reinceperea exploatației de
+grafit de la Baia de Fier
+Proiectul presupune reluarea
+exploatării grafitului la Baia de
+Fier,
+incepută
+initial
+prin
+filtrarea iazului de decantare.
+Având in vedere că studiul de
+fezabilitate a fost deja achitat și
+demarat, se solicită alocarea
+unei sume pentru amenaj area
+Amendament
+respins la vot
+24
+
+Deputat Radu Miruta — Grupurile parlamentare
+USR
+exploatației,
+conform
+rezultatelor studiului, în etapa
+initială de filtrare a iazului de
+decantare.
+Sursa de finantare:
+Anexa 3 / 13 / 20 - Fondul de
+rezerva al Guvernului, aflat la
+dispoziția premierului.
+23'
+Anexa 3/23/02
+Ministerul Mediului, Apelor și
+Pădurilor
+Capitolul 5000
+Se suplimentează cu suma de 1.500 mu i lei pentru
+achiziția unui autolaborator/unitate mobilă de
+monitorizare a concentrațiilor de poluanți, dotarea
+lui cu echipamente de măsurare a poluan~ilor
+(SO2, NOx/NO2, CO, COV, PM10, H2S, NH3),
+echipamente de calibrare, echipamente pentru
+monitorizarea parametrilor meteorologici, sisteme
+de transmitere a datelor, inclusiv aplicații software
+pentru colectarea, prelucrarea și transmiterea
+datelor specifice RNMCA și care vor fi conectate
+la re~eaua locală de monitorizare a calită~ii aerului
+înconjurător a APM Ilfov.
+Anton:
+Pun Ana Cynthia Ioana - senator USR
+Buzoianu Diana - deputat USR
+Văduva Dumitru - deputat USR
+Grupurile parlamentare USR
+Județul Ilfov a înregistrat o
+creștere a gradului de poluare,
+zonele cele mai afectate fund
+Voluntari, Bragadiru, Popești-
+Leordeni,
+Berceni,
+Vidra.
+Printre principalii factori se
+numără
+arderile
+ilegale,
+depozitele ilegale de deșeuri,
+emisia
+de
+gaze
+poluante,
+traficul, etc.
+Cu toate că societatea civilă a
+semnalat în nenumărate rănduri
+emisii de gaze neconforme de la
+arderile ilegale de deșeuri și alte
+tipuri
+de
+emisii
+de
+gaze
+poluante, APM Ilfov nu a putut
+răspunde
+rapid
+solicitărilor
+cetățenilor și
+nu a putut
+identifica sursele de poluare
+pentru a putea lua măsuri
+Amendament
+respins la vot
+25
+
+eficiente
+care
+să
+stopeze
+poluarea.
+Autolaboratorul mobil este o
+solutie pentru zonele care nu se
+află in aria de acoperire a
+statiilor
+automate
+de
+monitorizare a calității aerului,
+putând fi folosit inclusiv pentru
+soluționarea
+petițiilor,
+sesizărilor sau reclamatiilor
+venite din partea cetățenilor.
+Amintim
+că
+MMAP
+a
+achizitionat 25 de astfel de
+autolaboratoare pentru jumătate
+din județele .rii, județul Ilfov
+nefăcând
+parte
+din
+lista
+județelor beneficiare.
+Sursa
+de
+flnantare:
+Se
+diminuează bugetul Academiei
+Oamenilor de Știință (AOSR):
+Anexa nr. 3 / 56 / 02 - Capitol
+5001 / Tit1u10il CHELTUIELI
+CURENTE
+/
+II.Credite
+bugetare, cu suma de 1.500
+m
+u
+i
+
+lei.
+24.
+Anexa
+3/23/01,
+Ministerul Se propune spre alocare suma de 104,34
+m
+u
+
+i
+
+lei Sursa
+de
+finantare: Amendament
+Mediului, Apelor și Pădurilor,
+Capitol
+5000
+pentru
+proiect
+„Modernizare
+sistemului
+de
+iluminat in comuna Bălușeni, Jud. Botoșani"
+Autor:
+AFM
+respins la vot
+Grupa/Titlul
+58
+Titlul X Proiecte cu fnanțare din
+Grupurile parlamentare ale Alianței pentru Unirea
+Românilor
+Finanțarea este necesară pentru
+realizarea proiectului
+26
+
+fonduri externe nerambursabile
+aferente cadrului financiar 2014-
+2020 si din fondul de modernizare
+Indicator II — Credite bugetare"
+25.
+Anexa
+3/23/01,
+Ministerul
+Mediului, Apelor și Pădurilor,
+Capitol
+5000
+Grupa/Titlul
+58
+Titlul X Proiecte cu finanțare din
+fonduri externe nerambursabile
+aferente cadrului financiar 2014-
+2020 și din fondul de modernizare
+Indicator II— Credite bugetare"
+Se propune spre alocare suma de 523.157,18 lei
+pentru proiectul "Creșterea eficienței energetice a
+infrastructurii de iluminat public din comuna
+Băneasa, județul Constanța" - proiect finalizat,
+finanțat
+prin
+AFM
+Autor:
+Grupurile parlamentare ale Alianței pentru Unirea
+Românilor
+Finanțarea este necesară pentru
+plata
+facturilor
+restante,
+reprezentând
+cofinanțarea
+comunei
+Băneasa,
+județul
+Constanța.
+Sursa
+de
+finantare:
+MINISTERUL FINANTELOR
+- ACȚIUNI GENERALE
+Amendament
+respins la vot
+26.
+Anexa
+3/23/01,
+Ministerul
+Mediului, Apelor și Pădurilor,
+Capitol
+5000
+Grupa/Titlul
+58
+Titlul X Proiecte cu finantare din
+fonduri externe nerambursabile
+aferente cadrului financiar 2014-
+2020 si din fondul de modernizare
+Indicator II — Credite bugetare
+Se propune spre alocare suma de 210
+m
+u
+
+i
+
+lei pentru
+proiect,
+„Înființare
+centru
+de
+colectare
+prin aport voluntar in comuna Borlești, județul
+Neamț".
+Autor:
+Grupurile parlamentare ale Alianței pentru Unirea
+Românilor
+Sursa
+de
+finanțare:
+MINISTERUL
+MEDIULUI,
+APELOR ȘI PĂDURILOR -
+PNRR
+C3I2A0123000194
+"Finantarea este necesară pentru
+continuarea
+investițiilor
+aflate in derulare in acest
+moment lucrările fund in curs
+de
+executie.
+Amendament
+respins la vot
+27.
+Anexa
+3/23/01,
+Ministerul
+Mediului, Apelor și Pădurilor,
+Capitol
+5000
+Grupa/Titlul
+60
+Titlul XII Proiecte cu finanțare din
+sumele
+reprezentând
+asistența
+Se propune spre alocare suma de 161
+m
+u
+
+i
+
+lei pentru
+proiect, „Amenajare și construire platform ă
+pentru gestionarea gonoiului de grajd in comuna
+Borlești,
+jud.
+Neamț".
+Autor:
+Sursa
+de
+finanțare:
+MINISTERUL
+MEDIULUI,
+APELOR ȘI PĂDURILOR -
+PNRR
+C3
+Finanțare proiect.
+Amendament
+respins la vot
+27
+
+financiară
+nerambursabilă
+aferentă
+PNRR
+Indicator II — Credite bugetare
+Grupurile parlamentare ale Alianței pentru Unirea
+Românilor
+28.
+Anexa
+3/23/01,
+Ministerul
+Mediului, Apelor și Pădurilor,
+Capitol
+5000
+Grupa/Titlul
+60
+Titlul XII Proiecte cu finanțare din
+sumele
+reprezentând
+asistența
+financiară
+nerambursabilă
+aferentă
+PNRR
+Indicator II — Credite bugetare
+Se propune spre alocare suma de 5.238
+m
+u
+
+i
+
+lei
+pentru proiect, „Extindere rețea de alimentare cu
+apă
+și
+canalizare
+menajeră în comuna Botești, județul Neamț-Etapa
+2022".
+Autor:
+Grupurile parlamentare ale Alianței pentru Unirea
+Românilor
+Sursa
+de
+rinanțare:
+Cofinanțare necesară finanțării
+proiectului prin Planul Național
+de
+Redresare
+și
+Reziliență/2022/Cl/Il.
+Componenta
+1:
+MANAGEMENTUL
+APEI-
+INVESTITIA 1 - Extinderea
+sistemelor de apă și canalizare
+în aglomerări mai man de 2000
+de
+locuitori
+echivalenți,
+prioritizate
+prin
+Planul
+accelerat de conformare cu
+directivele
+europene,
+în
+desfășuare achiziție proiectare
+si executie.
+Amendament
+respins la vot
+29.
+Anexa
+3/23/01,
+Ministerul
+Mediului, Apelor și Pădurilor,
+Capitol
+5000
+Grupa/Titlul
+58
+Titlul X Proiecte cu finantare din
+fonduri externe nerambursabile
+aferente cadrului financiar 2014-
+2020 si din fondul de modernizare
+Indicator II— Credite bugetare
+Se propune spre alocare suma de 59
+m
+u
+
+i
+
+lei pentru
+proiect, „Modernizarea sistemului de iluminat
+public stradal în comuna Cândești, județul Neamț
+-
+etapa
+II".
+Autor:
+Grupurile parlamentare ale Alianței pentru Unirea
+Românilor
+Sursa
+de
+finanțare:
+Prin
+Administația
+Fondului
+pentru
+Mediu,
+Contract
+659/F/GES/19.12.2023, Dosar
+IIPS02202212900450
+În
+implementare
+Amendament
+respins la vot
+30.
+Anexa
+3/23/01,
+Ministerul
+Mediului, Apelor și Pădurilor,
+Capitol
+5000
+Se propune spre alocare suma de 296
+m
+u
+
+i
+
+lei pentru
+proiect, „Modernizarea sistemului de iluminat
+public stradal în comuna Cândești, Județul
+Sursa
+de
+finanțare:
+Prin
+Administația
+Fondului
+Amendament
+respins la vot
+28
+
+Grupa/Titlul
+58
+Titlul X Proiecte cu finanțare din
+fonduri externe nerambursabile
+aferente cadrului financiar 2014-
+2020 și din fondul de modernizare
+Indicator II — Credite bugetare
+Neamț".
+Autor:
+Grupurile parlamentare ale Alianței pentru Unirea
+Românilor
+pentru
+Mediu.
+Finanțarea este necesară pentru
+continuarea
+investitiilor
+aflate în derulare în acest
+moment lucrările fund în curs
+de executie.
+31.
+Anexa
+3/23/01,
+Ministerul
+Mediului, Apelor și Pădurilor,
+Capitol
+5000
+Grupa/Titlul
+58
+Titlul X Proiecte cu finantare din
+fonduri externe nerambursabile
+aferente cadrului financiar 2014-
+2020 și din fondul de modernizare
+Indicator II — Credite bugetare
+Se propune spre alocare suma de 800
+m
+u
+
+i
+
+lei pentru
+project, „Program de reducere a emisiilor de gaze
+prin infrastructura de statii de reincărcare pentru
+vehicule electrice".
+Autor:
+Grupurile parlamentare ale Alianței pentru Unirea
+Românilor
+Sursa
+de
+finantare:
+FONDURI
+GUVERNAMENTALE / AFM
+Proiectul se află în fază de
+licitatie.
+Finantarea este necesară pentru
+realizarea proiectului.
+Amendament
+respins la vot
+32.
+Anexa
+3/23/01,
+Ministerul
+Mediului, Apelor și Pădurilor,
+Capitol
+5000
+Grupa/Titlul
+58
+Titlul X Proiecte cu finantare din
+fonduri externe nerambursabile
+aferente cadrului financiar 2014-
+2020 și din fondul de modernizare
+Indicator II — Credite bugetare
+Se propune spre alocare suma de 1.300
+m
+u
+
+i
+
+lei
+pentru proiect, „Modernizarea și eficientizarea
+energetic ă sediu nou primărie, sat. Petricani,
+comuna Petricani, județul Neamț".
+Autor:
+Grupurile parlamentare ale Alianței pentru Unirea
+Românilor
+Sursa
+de
+finanțare:
+Fonduri
+Guvernamentale
+/
+AFM
+Project
+tehnic
+în
+lucru.
+Finanțarea este necesară pentru
+realizarea proiectului.
+Amendament
+respins la vot
+33.
+Anexa
+3/23/01,
+Ministerul
+Mediului, Apelor și Pădurilor,
+Capitol
+5000
+Grupa/Titlul
+58
+Titlul X Proiecte cu finantare din
+fonduri externe nerambursabile
+Se propune spre alocare suma de 185,90
+m
+u
+
+i
+
+lei
+pentru proiect, „Modernizarea sistemului de
+iluminat public din comuna Grințieș, Jud. Neamț".
+Autor:
+Sursa
+de
+finanțare:
+COFINANTARE
+Programul privind Creșterea
+Eficienței
+Energetice
+a
+Infrastructurii de Derulat prin
+Amendament
+respins la vot
+29
+
+aferente cadrului financiar 2014-
+2020 și din fondul de modernizare
+Indicator II — Credite bugetare
+Grupurile parlamentare ale Alianței pentru Unirea
+Românilor
+A.F.M.
+Finanțarea este necesară pentru
+realizarea proiectului.
+34.
+Anexa
+3/23/01,
+Ministerul
+Mediului, Apelor și Pădurilor,
+Capitol
+5000
+Grupa/Titlul
+58
+Titlul X Proiecte cu finanțare din
+fonduri externe nerambursabile
+aferente cadrului financiar 2014-
+2020 și din fondul de modernizare
+Indicator II — Credite bugetare
+Se propune spre alocare suma de 58,64
+m
+u
+
+i
+
+lei
+pentru proiect, „Modernizarea sistemului de
+iluminat public din comuna Grințieș, Jud. Neamț
+Etapa
+II".
+Autor:
+Grupurile parlamentare ale Alianței pentru Unirea
+Românilor
+Sursa
+de
+finanțare:
+COFINANTARE
+Programul privind Creșterea
+Eficienței
+Energetice
+a
+Infrastructurii de Derulat prin
+A.F.M.
+Finanțarea este necesară pentru
+realizarea proiectului.
+Amendament
+respins la vot
+35.
+Anexa
+3/23/01,
+Ministerul
+Mediului, Apelor și Pădurilor,
+Capitol
+5000
+Grupa/Titlul
+58
+Titlul X Proiecte cu finanțare din
+fonduri externe nerambursabile
+aferente cadrului financiar 2014-
+2020 și din fondul de modernizare
+Indicator II — Credite bugetare
+Se propune spre alocare suma de 198,42
+m
+u
+
+i
+
+lei
+pentru proiect, „Realizarea unei capacități noi de
+producere energie electric ă din surse solare pentru
+autoconsum in comuna Grințieș, Jud. NeamY'.
+Autor:
+Grupurile parlamentare ale Alianței pentru Unirea
+Românilor
+Sursa
+de
+finanțare:
+COFINANTARE
+Sprijinirea investițiilor in noi
+capacitățoi
+de
+producere
+a
+energiei electrice produsă din
+surse
+regenerabile
+pentru
+autoconsum.
+Finanțarea este necesară pentru
+realizarea proiectului.
+Amendament
+respins la vot
+36.
+Anexa
+3/23/01,
+Ministerul
+Mediului, Apelor și Pădurilor,
+Capitol
+5000
+Grupa/Titlul
+58
+Titlul X Proiecte cu finanțare din
+fonduri externe nerambursabile
+aferente cadrului financiar 2014-
+Se propune spre alocare suma de 330,80
+m
+u
+
+i
+
+lei
+pentru proiect, „Spații reicărcare pentru vehicule
+electrice in comuna Tarcău, Jud. Neamț".
+Autor:
+Grupurile parlamentare ale Alianței pentru Unirea
+Românilor
+Sursa
+de
+finanțare:
+Administrația Fondului pentru
+Mediu
+Finanțarea este necesară pentru
+realizarea proiectului.
+Amendament
+respins la vot
+30
+
+2020 si din fondul de modernizare
+Indicator II — Credite bugetare
+37.
+Anexa
+3/23/01,
+Ministerul
+Mediului, Apelor și Pădurilor,
+Capitol
+5000
+Grupa/Titlul
+58
+Titlul X Proiecte cu finantare din
+fonduri externe nerambursabile
+aferente cadrului financiar 2014-
+2020 si din fondul de modernizare
+Indicator II— Credite bugetare
+Se propune spre alocare suma de 1.000
+m
+u
+
+i
+
+lei
+pentru regeneraresa
+Si
+ingrijirea rezervatiei
+naturale Padurea Crangul Buzaului, pentru 177ha
+de padure, cartarea stejarilor si speciilor protej ate
+precum
+si
+plantarea
+de
+copaci.
+Autor:
+Grupurile parlamentare ale Alianței pentru Unirea
+Românilor
+Deputat Titus-Sorin Muncaciu AUR
+Sursa
+de
+finanțare:
+Administrația Fondului pentru
+Mediu
+Amendament
+respins la vot
+38.
+Legea Bugetului de stat pe anul
+2025
+Ministerul Mediului Apelor si
+Padurilor
+Anexa nr. 03 / 23 / 22/ Pag. 11
+Cod 2045, 20485
+Se suplimentează cu suma de 20.000
+m
+u
+
+i
+
+lei pentru
+realizarea unei infrastructuri noi de monitorizare si
+cercetare a caliatii apei si a aerului la sol si in
+altitudine in judetul Iasi.
+Autor: deputat Gurlui Silviu-Octavian
+Finanțarea
+de
+urgenta
+este
+necesară pentru rezolvarea unor
+probleme grave ale Iasului,
+acumulate de zeci de ani,
+practic- de securitate regionala a
+Romanie,
+privind
+poluarea
+severa Cu consecinte negative
+asupra sanatatii oamenilor Si
+asupra
+unor
+fenomene
+atmosferice extreme (caderi de
+grindina,
+seceta,
+precipitatii
+extreme,
+inversiuni termice)
+peste judetul Iasi. Iasul este unul
+dintre cele mai afectate judete
+ale tarii iar APM si reteaua de
+mediu din Iasi nu are si nu aloca
+resursele necesare pentru a
+rezolva o problema de maxima
+securitate
+pentru
+cetatenii
+Iasului,
+pentru
+atmosfera,
+Ainendament
+respins la vot
+31
+
+pentru vietuitoarele din mediul
+acvatic.
+Sunt
+necesare
+echipamente care sa deceleze
+amprenta chimica complexa a
+poluantilor din Iasi sau ajunsi
+din vecinatatea Iasului, din aer,
+din aer, din apa potabila de la
+fintini sau din apele curgatoare.
+Infrastructura trebuie sa fie
+capabila sa avertizeze populatia
+din timp, sa identifice sursele de
+poluare, proportia lor, solutiile
+de diminuare reale, optime,
+credibile, fund un pilot pentru
+toate celelalte regiuni ale tarii.
+Infrastructura
+trebuie
+sa
+cuprinda instalatiii de analiza a
+aerosolilor
+atmosferici
+pe
+verticala,
+a
+profilului
+de
+temperatura
+pe
+verticala,
+instalatii de teledetectie lidar
+pentru monitorizarea 3D a
+poluantilor Pm2.5, ozon, oxizi,
+etc, instalatii de spectrometrie
+de masa pentru investigatii ale
+urmelor
+toxinelor
+din
+aer,
+instalatii pentru detectia si
+monitorizarea elementelor grele
+din
+praful
+respirabil
+(spectroscopie
+de
+absorbtie
+atomica), din apa sau din
+culturile agricole, sisteme de
+avertizare si de modelare in
+32
+
+timp real, etc. Bugetul propus
+include mentenanta, salarizarea
+personalului calificat.
+33
+
+SENATUL ROMANIEI
+Comisia pentru
+agriculture,
+industrie alimentary i
+dezvoltare rurala
+Nr.XXIII/26/04.02.2025
+SENATUL ROMANIEI
+Comisia pentru ape,
+paduri, pescuit i fond
+cinegetic
+Nr.XXXIII/17/04.02.2025
+CAMERA
+DEPUTATILOR
+Comisia pentru
+agriculture, silviculture,
+industrie alimentary i
+servicii specifice
+Nr.4c-5/24/04.02.2025
+Catre,
+Comisia pentru buget, finan/e, activitate bancara si piala de capital a Senatului
+Comisia pentru buget, finanle ,ci banci a Camerei Deputatilor
+AVIZ COMUN
+asupra proiectului Legii bugetului de stat pe anul 2025
+In conformitate Cu prevederile art.21 din Regulamentul activitatilor comune ale Camerei
+Deputatilor
+si
+Senatului, republicat, Comisia pentru agricultura, industrie alimentary i dezvoltare
+rurala, Comisia pentru ape, paduri, pescuit i fond cinegetic ale Senatului Si Comisia pentru
+agriculture, silviculture, industrie alimentary i servicii specifice a Camerei Deputatilor au fost
+sesizate spre dezbatere i avizare cu proiectul Legii bugetului de stat pe anul 2025, transmis cu
+adresa nr.L13/2025, respectiv adresa nr.PLx.1 din 1 februarie 2025.
+Proiectul de buget al Ministerului Agriculturii i Dezvoltarii Rurale (Anexa nr.3/22)
+impreuna cu amendamentele depuse au fost dezbatute in edinta comuna care a avut loc in ziva de
+04.02.2025.
+La dezbateri a participat domnul Florin-Ionut BARBU, ministrul Agriculturii Si Dezvoltarii
+Rurale.
+In urma dezbaterilor generale, pe articole, i a amendamentelor depuse, membrii Comisiilor
+au hotarat, cu majoritate de voturi (voturi pentru 2 - , voturi contra `I , abtineri — ), sa avizeze
+favorabil proiectul de lege.
+Amendamentele respinse sunt cuprinse in Anexa la prezentul aviz.
+PRESEDINTE,
+
+d
+w z
+AMENDAMENTE RESPINSE
+asupra proiectului Legii bugetului Ministerului Agriculturii i Dezvoltarii Rurale pe anul 2025 — Anexa nr.3/22
+Motivatia
+respingerii
+Motivatia amendamentului/
+sursa de finantare
+Sustinerea producatorilor locali
+prin
+reducerea
+impactului
+secetei asupra agriculturii.
+Sursa de finantare: Diminuarea
+bugetului
+Administratiei
+Prezidentiale, Anexa 3/01/01,
+Capitol
+5000,
+Titlul
+01
+CHELTUIELI CURENTE cu
+20.000 mu i lei
+U
+w
+~
+ci
+it-
+L
+t
+~~
+<~
+o
+~
+N~
+<~
+Text amendament propus
+(autor, apartenenta politics)
+Se aloca 20.000
+mu i
+lei pentru
+reabilitarea si extinderea sistemelor de
+irigatii in zonele agricole din sudul
+judetului Valcea.
+Autor.
+Deputat Gheorghiu Andrei Florin
+Grupul parlamentar USR
+Se
+aloca
+suplimentar
+suma
+de
+1.000.000 mu i lei.
+Autor:
+Grupurile parlamentare ale Aliantei
+pentru Unirea Romanilor
+Articolul din
+lege/anexa/capitol/subcapitol/paragraf/
+grupa/titlul/articol/alineat
+MINISTERUL AGRICULTURII
+SI
+DEZVOLTARII RURALE
+Anexa nr. 3/22/02
+Capitol 8301 Subcapitol 03 Paragraf 02
+Imbunatatiri funciare, irigatii, desecari
+s
+i
+
+combaterea eroziunii solului
+Legea bugetului de stat 2025
+Ministerul Agriculturii
+s
+i
+
+Dezvoltarii
+Rurale
+Anexa 3/22/02
+Capitol 8301
+Subcapitol 03
+Paragraf 02
+Indicator II. Credite bugetare
+Imbunatatiri funciare, irigatii, desecari
+si combaterea eroziunii solului
+
+j
+-.
+p
+r
+R3
+cC
+•-,
+U
+.)
+cd
+..
+N U
+N
+cd
+U
+O
+U
+-
+r
+<~
+•~ )~o
+U
+O
+M
+A
+i.
+Stadiu: in faza de proiect -
+Finantarea este necesara pentru
+crearea proiectului de investitii
+Sursa de finantare:
+MINISTERUL
+FINANTELOR
+-
+ACTIUNI GENERALE
+Se propune alocarea sumei de 100,0O
+mu i lei pentru dotare camin cultural,
+comuna Cordareni, judetul Botosani
+Autor:
+Grupurile parlamentare ale Aliantei
+pentru Unirea Romanilor
+Legea Bugetului de stat pe anul 2025
+Ministerul Agriculturii
+s
+i
+
+Dezvoltarii
+Rurale
+Anexa 3/22/01 pag. 2
+Capitolul 8300
+GrupalTitlul 58
+Titlul X proiecte cu finantare din
+fonduri externe nerambursabile aferente
+M
+
+Redistribuirea din sumele cu
+destinatie
+specifics
+alocate
+ordonatorului
+principal
+de
+credite (Ministerul Agriculturii
+s
+i
+
+Dezvoltarii rurale) — PNDR
+sub mssura 19.2, M5 AFIR
+Sursa
+de
+finantare:
+AFIR
+PS
+2023-2027
+Finantarea este necesara pentru
+realizarea proiectului
+Sursa de finantare: AFIR
+Finantarea este necesara in
+vederea derulerii proiectului de
+investitie
+Se propune spre alocare suma de
+4.513,97
+mu i
+lei
+pentru
+proiect
+„Modernizare infrastructure rutiers de
+baza
+in
+comuna
+Bsluseni,
+Jud.
+Botosani"
+Autor:
+Grupurile parlamentare ale Aliantei
+pentru Unirea Romanilor
+Se suplimenteaza cu suma de 11.000
+mu i lei investitia "Modernizare drumuri
+locale, extindere alimentare cu apa,
+canalizare menaj era, infiintare si dotare
+servicii
+publice,
+reabilitare,
+modernizare
+si dotare asezaminte
+culturale"
+Autor:
+Grupurile parlamentare ale Aliantei
+pentru Unirea Romanilor
+Se solicits alocarea sumei de 382,57
+mu i lei pentru Achizitie tractor cu
+tocstoare pentru vegetatie in vederea
+doterii Serviciului Voluntariat Situatii
+cadrului financiar 2014- 2020 si din
+fondul de modernizare
+Indicator II - Credite bugetare
+Legea Bugetului de stat pe anul 2025
+Ministerul Agriculturii
+s
+i
+
+Dezvoltarii
+Rurale
+Anexa
+3/22/01
+pag.
+2
+Capitolul
+8300
+Grupa/Titlul
+58
+Titlul X proiecte cu finantare din
+fonduri externe nerambursabile aferente
+cadrului financiar 2014- 2020 si din
+fondul
+de
+modernizare
+Indicator II - Credite bugetare
+Legea Bugetului de stat pe anul 2025
+Ministerul Agriculturii
+s
+i
+
+Dezvoltarii
+Rurale
+Anexa
+3/22/01
+pag.
+2
+Capitolul
+8300
+Grupa/Titlul
+58
+Titlul X proiecte cu finantare din
+fonduri externe nerambursabile aferente
+cadrului financiar 2014- 2020 si din
+fondul
+de
+modernizare
+Indicator II - Credite bugetare
+Legea Bugetului de stat pe anul 2025
+Ministerul Agriculturii
+s
+i
+
+Dezvoltarii
+Rurale
+~
+~
+~
+
+Y
+a
+¢
+p,
+z
+W
+W
+U
+U
+E
+~
+•~
+• S"'
+"C
+U
+•
+N
+U
+~U+
+o
+ftS
+C~
+~,
+C
+O
+i
+'
+.~.
+~.
+' )
+aI
+Infiintare sistem de canalizare
+cu statie de epurare in satele
+Balanu
+s
+i
+
+Ghizdaru, comuna
+Stanesti,
+Jud.
+Giurgiu
+Sursa
+de
+finantare
+fonduri europene PNDR 2
+Finantarea reprezinta majorari
+de pre t prevazute in contract
+s
+i
+
+nedecontate
+de
+AFIR
+Sursa
+de
+finantare:
+MADR
+-
+Agentia
+pentru
+Finantarea Investitiilor Rurale
+de Urgenta infiintat la nivelul Comunei
+Stanesti,judetul Giurgiu
+Autor.
+Grupurile parlamentare ale Aliantei
+pentru Unirea Romanilor
+Se solicta suma de 4.464 mu i lei pentru
+infiintarea sistemului de canalizare cu
+statie de epurare in satele Balanu
+s
+i
+
+Ghizdaru, corn. Stanesti, jud. Giurgiu
+Autor.
+Grupurile parlamentare ale Aliantei
+pentru Unirea Romanilor
+Se propune spre alocare suma de
+1.700,00 mu i lei pentru obiectivul
+"Modernizare DC 125A Almasu-Sec-
+limita DJ708E-Archia, comuna Carjiti,
+judetul Hunedoara" - stadiu lucrari
+realizate 50%, finantate din bugetul
+local
+Autor:
+Anexa
+3/22/01
+pag.
+2
+Capitolul
+8300
+Grupa/Titlul
+58
+Titlul X proiecte cu finantare din
+fonduri externe nerambursabile aferente
+cadrului financiar 2014- 2020 si din
+fondul
+de
+modernizare
+Indicator II - Credite bugetare
+Legea Bugetului de stat pe anul 2025
+Ministerul Agriculturii
+s
+i
+
+Dezvoltarii
+Rurale
+Anexa
+3/22/01
+pag.
+2
+Capitolul
+8300
+Grupa/Titlul
+58
+Titlul X proiecte cu finantare din
+fonduri externe nerambursabile aferente
+cadrului financiar 2014- 2020 si din
+fondul
+de
+modernizare
+Indicator II - Credite bugetare
+Legea Bugetului de stat pe anul 2025
+Ministerul Agriculturii
+s
+i
+
+Dezvoltarii
+Rurale
+Anexa
+3/22/01
+pag.
+2
+Capitolul
+8300
+Grupa/Titlul
+58
+Titlul X proiecte cu finantare din
+fonduri externe nerambursabile aferente
+
+Sursa
+de
+finantare:
+Programul Regional Nord-Est
+2021-2027
+Finantarea este necesara pentru
+realizarea proiectului.
+Grupurile parlamentare ale Aliantei
+pentru Unirea Romanilor
+Se propune spre alocare suma de
+1.502,13
+mu i
+lei
+pentru project,
+„Modernizarea
+s
+i
+
+dotarea
+infrastructurii operationale din cadrul
+Scolii
+Gimnaziale
+JULIA
+HALAUCESCU, corn. Tarcau, jud.
+Neamt".
+Autor:
+Grupurile parlamentare ale Aliantei
+pentru Unirea Romanilor
+cadrului financiar 2014- 2020 si din
+fondul
+de
+modernizare
+Indicator II - Credite bugetare
+Legea Bugetului de stat pe anul 2025
+Ministerul Agriculturii
+s
+i
+
+Dezvoltarii
+Rurale
+Anexa
+3/22/01
+pag.
+2
+Capitolul
+8300
+Grupa/Titlul
+58
+Titlul X proiecte cu finantare din
+fonduri externe nerambursabile aferente
+cadrului financiar 2014- 2020 si din
+fondul
+de
+modernizare
+Indicator II - Credite bugetare
