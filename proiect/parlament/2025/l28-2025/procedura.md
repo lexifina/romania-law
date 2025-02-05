@@ -11,7 +11,8 @@ Initiator: Guvernul României.
 ## Stages published so far
 
 - 2024-12-02: registered at the Chamber of Deputies
+- 2025-02-05: adopted by the Chamber of Deputies; documents published: Document
 
 ## Documents
 
-- none held as text
+- 2025-02-05: Document (OG): [og-3c9cc8af.md](og-3c9cc8af.md); official file https://www.senat.ro/legis/PDF/2025/25L028OG.PDF
