@@ -1,0 +1,532 @@
+# ANEXĂ (Anexa la Ordinul nr. 2.118/2020)
+PROSPECT DE BAZĂ pentru programul FIDELIS de emisiuni de titluri de stat destinate exclusiv investitorilor persoane fizice emise de Ministerul Finanțelor, ce urmează a fi listate pe piața reglementată administrată de Bursa de Valori București - S.A. și supravegheată de către Autoritatea de Supraveghere Financiară
+1.
+Notă pentru investitori Acest document („Prospectul”) nu reprezintă un prospect în sensul prevederilor Regulamentului delegat (UE) 2019/980 al Comisiei din 14 martie 2019 de completare a Regulamentului (UE) 2017/1.129 al Parlamentului European și al Consiliului în ceea ce privește formatul, conținutul, verificarea și aprobarea prospectului care trebuie publicat în cazul unei oferte publice de valori mobiliare sau al admiterii de valori mobiliare la tranzacționare pe o piață reglementată și de abrogare a Regulamentului (CE) nr. 809/2004 al Comisiei („Regulamentul delegat 2019/980”).
+Prospectul a fost elaborat de către Ministerul Finanțelor, în calitate de Emitent, cu intenția exclusivă de a oferi potențialilor investitori informații privind Emitentul, emisiunea și oferta, în baza unui program („Programul”) de emisiuni de titluri de stat FIDELIS destinate exclusiv persoanelor fizice, denominate în lei și euro, emise în formă dematerializată prin înscriere în cont, cu dobândă fixă. În temeiul Programului, Emitentul este îndreptățit, cu respectarea legislației aplicabile în vigoare, să emită titluri de stat având caracteristicile prevăzute în Termenii finali („Termenii finali”).
+Acest prospect nu este aprobat de Autoritatea de Supraveghere Financiară în considerarea prevederilor Regulamentului Autorității de Supraveghere Financiară nr. 5/2018 privind emitenții de instrumente financiare și operațiuni de piață, cu modificările și completările ulterioare.
+Titlurile de stat vor fi oferite numai pe teritoriul României exclusiv investitorilor persoane fizice rezidente și nerezidente. Admiterea la tranzacționare a titlurilor de stat se va realiza de drept în conformitate cu dispozițiile art. 102 din Regulamentul Autorității de Supraveghere Financiară nr. 5/2018, cu modificările și completările ulterioare.
+După realizarea tuturor verificărilor rezonabile și luarea tuturor măsurilor rezonabile în acest sens, emitentul declară că informațiile cuprinse sau încorporate în acest prospect sunt, după cunoștința sa, conforme cu realitatea și nu conțin omisiuni de natură să afecteze semnificativ conținutul acestuia, iar prezentul prospect cuprinde toate informațiile semnificative privind termenii și condițiile titlurilor de stat.
+Nici membrii Sindicatului de intermediere și niciunul dintre administratorii sau afiliații acestuia nu au făcut o verificare independentă a informațiilor cuprinse în acest prospect în legătură cu emisiunea sau oferta de titluri de stat și nu acordă nicio declarație sau garanție, expresă sau implicită, cu privire la acuratețea sau completitudinea acestor informații. Nimic din conținutul prezentului prospect nu este, nu va fi interpretat a fi sau nu va fi considerat a fi o promisiune, o garanție sau o declarație, din trecut sau din viitor, a Sindicatului de intermediere sau a oricărui director, afiliat, consultant sau agent al acestuia în nicio privință. Prin urmare, membrii Sindicatului de intermediere nu își asumă, în limita permisă de lege, nicio răspundere în legătură cu acest prospect sau cu transmiterea acestuia în format electronic.
+Conținutul acestui prospect nu este, nu va fi interpretat și nu va fi considerat ca fiind o opinie legală, financiară sau fiscală și orice investitor potențial ar trebui să își consulte propriii consilieri juridici sau de alt fel pentru consultanță relevantă. Nici Emitentul, nici membrii Sindicatului de intermediere nu fac vreo declarație vreunui destinatar sau cumpărător ori subscriitor de titluri de stat cu privire la legalitatea unei investiții în titluri de stat realizate de respectivul destinatar, cumpărător sau subscriitor în baza legislației relevante care reglementează investițiile sau a unei legislații similare. Prețul titlurilor de stat, precum și venitul aferent acestora, dacă există, pot fie să crească, fie să scadă. Nicio persoană nu este sau nu a fost autorizată de Emitent să transmită vreo informație sau să facă vreo declarație care nu este cuprinsă în sau nu este conformă cu acest prospect, în legătură cu emisiunea și oferta de titluri de stat și, dacă o astfel de informație este transmisă sau o astfel de declarație este făcută, aceasta nu poate fi interpretată ca fiind autorizată de către Emitent sau membrii Sindicatului de intermediere sau de oricare dintre administratorii, afiliații, consultanții sau agenții acestuia.
+Sindicatul de intermediere acționează exclusiv pentru Emitent și, prin urmare, nu acționează pentru nicio altă persoană în legătură cu oferta și nu va fi ținut răspunzător față de vreo altă persoană pentru protejarea clienților acestuia sau pentru furnizarea de servicii de consultanță în legătură cu oferta.
+Informațiile care se regăsesc pe pagina de internet a Emitentului, pe orice pagină de internet la care se face referire în acest prospect sau pe orice pagină de internet la care se face trimitere directă sau indirectă de pe pagina de internet a Emitentului nu sunt încorporate prin referință în prezentul prospect și orice decizie de a subscrie sau de a cumpăra titluri de stat nu ar trebui să se bazeze pe aceste informații.
+Acest prospect nu constituie și nici nu poate fi utilizat în legătură cu o ofertă de a vinde, o invitație în vederea achiziționării de titluri de stat sau o solicitare a unei oferte de cumpărare a titlurilor de stat din partea niciunei persoane în nicio jurisdicție în care este ilegal să fie făcută o astfel de ofertă, invitație sau solicitare. Atât distribuirea acestui prospect, cât și oferirea sau vânzarea titlurilor de stat în anumite jurisdicții pot fi restricționate prin lege. Prospectul nu poate fi utilizat pentru sau în legătură cu și nu reprezintă o ofertă către sau o solicitare făcută de orice persoană în orice jurisdicție sau în orice împrejurare în care o astfel de ofertă sau solicitare nu este autorizată sau este ilegală.
+În cazul în care Prospectul v-a fost pus la dispoziție în format electronic, dorim să vă reamintim că documentele transmise prin acest mijloc de comunicare se pot modifica sau schimba pe durata perioadei ofertei și, prin urmare, nici Sindicatul de intermediere, nici vreo persoană care îl controlează, nici vreun administrator, funcționar, angajat sau agent al acestuia, nici vreun afiliat al acestor persoane nu își asumă vreo răspundere sau responsabilitate de orice natură în ceea ce privește orice diferență între Prospectul care v-a fost pus la dispoziție în formă electronică și versiunea în formă tipărită disponibilă la cerere la sediile membrilor Sindicatului de intermediere.
+Răspunsurile la comunicările efectuate prin poșta electronică, inclusiv cele pe care le generați folosind funcția „răspunde” din programul software al poștei electronice, nu vor fi luate în considerare sau vor fi respinse. Dacă veți primi informații privind disponibilitatea Prospectului în format electronic prin intermediul poștei electronice, utilizarea acestui prospect și a mesajului primit prin poșta electronică se realizează pe riscul dumneavoastră și este responsabilitatea dumneavoastră să luați măsuri de precauție pentru a vă asigura că nu conțin viruși informatici și alte elemente de natură distructivă.
+Guvernanța produsului conform MiFID II. Piața-țintă: Persoane fizice -- investitori de retail sau investitori profesionali
+Exclusiv în scopul procesului intern al producătorului de aprobare a instrumentului financiar, evaluarea pieței vizate (piața-țintă) a titlurilor de stat a condus la concluzia că: (i) sunt considerate piața-țintă pentru titlurile de stat doar persoane fizice din categoria clienților de retail sau clienților profesionali și (ii) toate canalele de distribuire a titlurilor de stat către clienți sunt disponibile. Orice persoană care oferă, vinde sau recomandă titluri de stat (un distribuitor) ar trebui să ia în considerare evaluarea de piață-țintă a producătorului; cu toate acestea, un distribuitor care face obiectul aplicării legislației MiFID II este responsabil de efectuarea propriei evaluări de piață-țintă în ceea ce privește titlurile de stat (prin adoptarea sau perfecționarea evaluării de piață-țintă a producătorului) și determinarea canalelor de distribuție corespunzătoare.
+2.
+Glosar de termeni
+Agent de plată pentru emisiunea în lei
+- Banca Transilvania - S.A., cu sediul în Calea Dorobanților nr. 30-36, Cluj-Napoca. Agentul de plată va procesa în numele Emitentului plățile aferente dobânzii și rambursării valorii nominale aferente emisiunii în lei către deținătorii de titluri de stat existenți la data de înregistrare
+ASF
+- Autoritatea de Supraveghere Financiară din România, înființată și funcționând potrivit Ordonanței de urgență a Guvernului nr. 93/2012 privind înființarea, organizarea și funcționarea Autorității de Supraveghere Financiară, aprobată cu modificări și completări prin Legea nr. 113/2013, cu modificările și completările ulterioare
+Alpha Bank
+- Alpha Bank România - S.A.
+BCR
+- Banca Comercială Română - S.A.
+BRD
+- BRD - Groupe Société Générale - S.A.
+BT
+- Banca Transilvania - S.A.
+BT Capital Partners
+- BT Capital Partners - S.A., lider al consorțiului format din Banca Transilvania - S.A. și BT Capital Partners - S.A.
+BVB
+- Bursa de Valori București - S.A.
+CNP
+- cod numeric personal
+Codul fiscal din România
+- Codul fiscal din România, aprobat prin Legea nr. 227/2015 privind Codul fiscal, cu modificările și completările ulterioare
+Cont colector
+- oricare dintre conturile bancare nepurtătoare de dobândă, deschise de către Alpha Bank, BT Capital Partners, BRD și Tradeville pentru colectarea sumelor subscrise pe baza formularului de subscriere pe perioada ofertei
+Data alocării
+- ultima zi lucrătoare a perioadei ofertei, după închiderea ofertei, astfel cum este definită în Termenii finali ai emisiunii
+Data de plată
+- reprezintă ziua lucrătoare la care devine exigibilă obligația Emitentului de a efectua plata unei dobânzi (cupon), respectiv a valorii nominale către deținătorii de titluri de stat înregistrați în Registrul deținătorilor de titluri de stat la data de înregistrare. Data de plată a dobânzii (cuponului) este definită în Termenii finali ai emisiunii.
+Data de înregistrare
+- Data care servește la identificarea deținătorilor de titluri de stat înregistrați în Registrul deținătorilor de titluri de stat care au dreptul de a primi dobânda curentă și/sau valoarea nominală, în conformitate cu Prospectul, și care nu va fi anterioară datei de plată a dobânzii (cuponului) și/sau a valorii nominale către deținătorii de titluri de stat cu mai mult de 7 zile lucrătoare. Datele de înregistrare pentru fiecare perioadă de dobândă în parte se stabilesc în Termenii finali ai emisiunii.
+Data decontării
+- a doua zi lucrătoare după data tranzacției, reprezentând ziua lucrătoare în care se realizează decontarea tranzacțiilor prin sistemul de compensare și decontare al Depozitarului Central - S.A. Data decontării este definită în Termenii finali ai emisiunii.
+Data emisiunii
+- Data emisiunii este aceeași zi cu data decontării și este definită în Termenii finali ai emisiunii.
+Data începerii acumulării dobânzii (cuponului)
+- data de la care începe să se acumuleze dobânda (cuponul) și care este aceeași zi cu data emisiunii
+Data scadenței
+- Este definită în Termenii finali ai emisiunii.
+Data tranzacției
+- prima zi lucrătoare după data alocării, reprezentând ziua lucrătoare în care sunt încheiate tranzacțiile în sistemul electronic de tranzacționare al BVB; data tranzacției este definită în Termenii finali ai emisiunii.
+Depozitarul Central
+- societate pe acțiuni, cu sediul în București, sectorul 1, șoseaua Nicolae Titulescu nr. 4-8, clădirea America House, aripa de est, etajul 1, cod poștal 011141, România, telefon 021.408.58.60; 021.408.58.66; 021.408.58.19, fax 021.408.58.16, membră a grupului BVB, care furnizează servicii de depozitare, registru, compensare și decontare a tranzacțiilor cu valori mobiliare, precum și alte operațiuni în legătură cu acestea, având calitatea de administrator al unui sistem de plăți ce asigură compensarea fondurilor și decontarea operațiunilor cu valori mobiliare
+Deținător de titluri de stat
+- orice persoană/entitate cu/fără personalitate juridică, pe al/a cărei nume/denumire sunt înregistrate unul sau mai multe titluri de stat la data de înregistrare
+Directiva MiFID II
+- Directiva 2014/65/UE a Parlamentului European și a Consiliului din 15 mai 2014 privind piețele instrumentelor financiare și de modificare a Directivei 2002/92/CE și a Directivei 2011/61/UE
+Dobânda (cupon)
+- suma de bani care reprezintă dobânda (cuponul) datorată (datorat) de către Emitent, în conformitate cu prezentul prospect, pentru un titlu de stat, corespunzătoare perioadei de dobândă relevante și pe care Emitentul se obligă să o plătească deținătorului titlului de stat la data de plată a dobânzii (cuponului)
+Donator de sânge
+- persoană care donează, pe teritoriul României, voluntar sânge sau componentele sale (plasmă, celule roșii, trombocite) în vederea utilizării lor în scopuri medicale, cum ar fi transfuziile de sânge sau tratamentele pentru afecțiuni specifice, astfel cum acest termen este definit în legislația aplicabilă
+Donator eligibil
+- persoană fizică care a donat, pe teritoriul României, sânge în termenul de valabilitate a adeverinței de donator de sânge/carnetului de donator, menționat în Termenii finali ai fiecărei emisiuni, pentru a subscrie în emisiunile dedicate persoanelor donatoare de sânge
+Emitent
+- Ministerul Finanțelor sau MF
+Emisiune
+- fiecare emisiune de titluri de stat emisă în cadrul Programului, având caracteristicile menționate în Termenii finali
+Euro
+- Înseamnă moneda europeană introdusă la 1 ianuarie 1999 ca parte a Uniunii Economice Monetare (UEM).
+Formular de subscriere
+- formularul completat de investitori în vederea subscrierii titlurilor de stat denominate în lei în cadrul ofertei
+Intermediari
+- societăți de servicii de investiții financiare autorizate de Comisia Națională a Valorilor Mobiliare (C.N.V.M.)/ASF, instituții de credit autorizate de Banca Națională a României, în conformitate cu legislația bancară aplicabilă, precum și entități de natura acestora autorizate în state membre sau nemembre să presteze servicii de investiții financiare
+Lead manager
+- BT Capital Partners - S.A.
+Oferta
+- oferta primară inițiată de Emitent, având ca obiect emiterea de titluri de stat în lei și în euro, cum este descrisă în prezentul prospect și în Termenii finali ai fiecărei emisiuni
+Participant eligibil
+- orice intermediar autorizat de ASF (altul decât Alpha Bank, BT Capital Partners, BCR, BRD, Tradeville), care este societate de investiții financiare sau instituție de credit acceptată ca participant la sistemul de tranzacționare al Bursei de Valori București și care (i) a semnat Angajamentul privind respectarea condițiilor de derulare a ofertei și a prevederilor Prospectului („Angajamentul”) și (ii) a transmis Angajamentul către lead manager
+Perioada de dobândă sau perioada de referință
+- perioada calendaristică de un an care începe la (și inclusiv) data începerii acumulării dobânzii (cuponului) și se încheie la (dar excluzând) aceeași dată calendaristică a anului următor și fiecare perioadă succesivă următoare de un an calendaristic până la (dar excluzând) data scadenței
+Perioada ofertei
+- Este determinată în Termenii finali ai emisiunii.
+Preț de emisiune
+- suma plătită de investitori pentru un titlu de stat subscris, netă de orice comisioane bancare sau alte comisioane, reprezentând 100% din valoarea nominală. Persoanele care subscriu și plătesc prin intermediul oricărui membru al Sindicatului de intermediere nu vor plăti niciun comision pentru transferul sumelor subscrise în contul colector.
+Prospect
+- un prospect de bază în sensul art. 8 din Regulamentul privind Prospectul, Regulamentul delegat (UE) 2019/980 al Comisiei din 14 martie 2019 de completare a Regulamentului (UE) 2017/1.129 al Parlamentului European și al Consiliului în ceea ce privește formatul, conținutul, verificarea și aprobarea prospectului care trebuie publicat în cazul unei oferte publice de valori mobiliare sau al admiterii de valori mobiliare la tranzacționare pe o piață reglementată și de abrogare a Regulamentului (CE) nr. 809/2004 al Comisiei, cu scopul de a furniza toate informațiile care, ținând seama de natura specifică a emitentului și a valorilor mobiliare oferite public sau admise la tranzacționare pe o piață reglementată, sunt informații necesare pentru a permite investitorilor luarea unei decizii de investire
+Rata dobânzii (rata cuponului)
+- Rata dobânzii (rata cuponului) este fixă și este determinată în Termenii finali ai emisiunii.
+Registrul deținătorilor de titluri de stat
+- registrul administrat de Depozitarul Central în care se înregistrează dreptul de proprietate al deținătorilor de titluri de stat
+Regulamentul 5/2018
+- Regulamentul ASF nr. 5/2018 privind emitenții de instrumente financiare și operațiuni de piață, cu modificările și completările ulterioare
+Regulamentul delegat (UE) 2019/980
+- Regulamentul privind prospectul, Regulamentul delegat (UE) 2019/980 al Comisiei din 14 martie 2019 de completare a Regulamentului (UE) 2017/1.129 al Parlamentului European și al Consiliului în ceea ce privește formatul, conținutul, verificarea și aprobarea prospectului care trebuie publicat în cazul unei oferte publice de valori mobiliare sau al admiterii de valori mobiliare la tranzacționare pe o piață reglementată și de abrogare a Regulamentului (CE) nr. 809/2004 al Comisiei
+Leu
+- Înseamnă leul românesc, moneda națională a României.
+Libra Bank
+- Libra Internet Bank - S.A.
+Secțiunea I
+- secțiunea din cadrul sistemului Depozitarului Central în care sunt evidențiate conturile individuale în care instrumentele financiare sunt înregistrate direct în numele și pe seama proprietarului, conturi care nu sunt în administrarea unui participant
+Secțiunea II
+- secțiunea din cadrul sistemului Depozitarului Central în care sunt evidențiate conturile individuale și globale în care instrumentele financiare sunt înregistrate de către participanți în numele și pe seama clienților acestora
+Secțiunea de oferte pentru titluri de stat POFB
+- piața de tranzacționare a sistemului BVB prin intermediul căreia se va realiza tranzacția titlurilor de stat pentru emisiunea denominată în lei;
+Secțiunea de oferte pentru titluri de stat EPOFB
+- piața de tranzacționare a sistemului BVB prin intermediul căreia se va realiza tranzacția titlurilor de stat pentru emisiunea denominată în euro;
+Sindicatul de intermediere
+- BT Capital Partners (lider al consorțiului format din BT Capital Partners și Banca Transilvania) - în calitate de lead manager al Sindicatului de intermediere și intermediar, Banca Transilvania - în calitate de grup de distribuție, Alpha Bank Romania - S.A. - în calitate de intermediar, Banca Comercială Română S.A. - în calitate de intermediar, BRD - Groupe Société Générale - S.A. - în calitate de intermediar, Tradeville (lider al consorțiului format din Libra Bank și Tradeville) - în calitate de intermediar, Libra Bank - în calitate de grup de distribuție
+Termenii finali ai emisiunii/Termenii finali
+- Reprezintă documentul prin care Emitentul stabilește termenii și condițiile specifice fiecărei emisiuni de titluri de stat.
+Titlurile de stat
+- valorile mobiliare cu o valoare nominală de 100 lei fiecare, respectiv cu o valoare nominală de 100 euro fiecare, ce fac obiectul ofertei
+Titular de cont
+- orice persoană fizică și juridică îndreptățită să dețină conturi, direct sau indirect, la Depozitarul Central
+Tradeville
+- S.S.I.F. Tradeville - S.A. (lider al consorțiului format din Libra Bank și Tradeville)
+UE
+- Uniunea Europeană
+Valoarea nominală
+- Reprezintă valoarea împrumutului corespunzător unui titlu de stat, respectiv 100 lei și 100 euro, exclusiv dobânda aferentă, pe care Emitentul se angajează să o ramburseze la scadență, în conformitate cu prevederile din prezentul prospect.
+Valoarea nominală totală
+- valoarea nominală totală a titlurilor de stat oferite în lei și euro emise în cadrul acestui program
+Zi lucrătoare
+- orice zi (cu excepția zilelor de sâmbătă sau duminică sau altă sărbătoare legală în România) în care Depozitarul Central - S.A. derulează operațiuni curente și în care băncile comerciale efectuează plăți în lei în România
+Zi lucrătoare pentru plata dobânzii
+- Pentru emisiunea de titluri de stat denominate în euro înseamnă o zi de operare (business day), respectiv, orice zi în care platforma T2S este deschisă pentru decontarea operațiunilor în moneda euro;
+Platforma T2S
+- Platforma TARGET2 - Securities, soluția tehnică (infrastructura tehnică, hardware și software) prin intermediul căreia Eurosistemul furnizează servicii depozitarilor centrali și care permite decontarea tranzacțiilor pe principiul livrare contra plată (DvP) în banii băncii centrale, conform definiției codului Depozitarului Central
+3.
+Factorii de risc O investiție în titluri de stat implică anumite riscuri. Investitorii trebuie să aibă în vedere informațiile care urmează privind aceste riscuri, împreună cu informațiile cuprinse în restul Prospectului, înainte de a decide să cumpere titluri de stat.
+În continuare sunt prezentați factorii de risc pe care Emitentul îi consideră a fi importanți cu privire la acesta și la titlurile de stat emise în cadrul acestei oferte, precum și cu privire la capacitatea Emitentului de a-și îndeplini obligațiile care îi revin în legătură cu titlurile de stat.
+Toți acești factori sunt situații neprevăzute care pot sau nu pot să se materializeze. Emitentul nu este în măsură să exprime un punct de vedere cu privire la probabilitatea materializării unui astfel de risc. În plus, mai jos sunt descriși și factorii care pot fi relevanți în scopul evaluării riscurilor de piață asociate titlurilor de stat.
+Emitentul consideră că factorii descriși mai jos reprezintă principalele riscuri inerente unei investiții în titluri de stat, însă abilitatea Emitentului de a plăti dobânda sau principalul sau de a îndeplini alte obligații în legătură cu titlurile de stat poate fi afectată și de alți factori de risc suplimentari sau de incertitudini necunoscute în prezent sau pe care Emitentul, bazându-se pe informația pe care o are la dispoziție în prezent, nu le-a considerat factori de risc. 3.1.
+Modificări legislative Condițiile titlurilor de stat (inclusiv orice obligații necontractuale care rezultă din acestea sau în legătură cu titlurile de stat) se bazează pe legile relevante în vigoare la data acestui prospect. Nu se pot oferi asigurări în ceea ce privește impactul oricărei posibile hotărâri judecătorești sau modificări legislative sau aplicări ori interpretări oficiale a unor astfel de legi sau practici administrative ulterioare datei prezentului prospect.
+3.2.
+Riscuri legate de modificarea legislației fiscale Rata de modificare a actelor normative în domeniul fiscal este destul de ridicată, având impact și asupra impozitării veniturilor obținute de investitorii persoane fizice și persoane juridice din deținerea și tranzacționarea titlurilor de valoare, cum sunt și titlurile de stat. În acest sens este posibil ca pentru anumite categorii de investitori veniturile din dobânzi sau din tranzacționarea titlurilor de stat, care acum sunt scutite de impozit, să devină impozabile în viitor ca urmare a unor modificări legislative.
+3.3.
+Riscuri legate de rata dobânzii Investiția în titluri de stat cu rata fixă a dobânzii, precum titlurile de stat în cauză, implică riscul ca modificări ulterioare în ratele de piață ale dobânzii să genereze efecte negative asupra valorii și prețului titlurilor de stat. Un deținător de titluri de stat este expus riscului ca prețul titlurilor de stat deținute să scadă ca urmare a modificării dobânzii de pe piața monetară interbancară. În timp ce rata dobânzii titlurilor de stat este fixă pe durata de viață a acestuia, prețul de piață se poate modifica zilnic. Pe măsură ce se schimbă rata de dobândă de piață, se schimbă și prețul titlurilor de stat, în direcția opusă. Dacă dobânda de piață crește, în mod obișnuit prețul titlurilor de stat cu rata fixă scade până când randamentul acestor titluri de stat este aproximativ egal cu dobânda de piață. Dacă dobânda de piață scade, în mod obișnuit prețul titlurilor de stat cu rata fixă crește până când randamentul acestor titluri de stat este aproximativ egal cu dobânda de piață. Dacă deținătorul de titluri de stat cu rata fixă păstrează titlurile de stat până la scadență, modificările dobânzii de piață nu sunt relevante pentru un astfel de deținător de titluri de stat deoarece acestea vor fi rambursate la valoarea nominală.
+Vânzarea de către un deținător a titlurilor de stat înainte de scadență și creșterea dobânzii de piață pot genera efecte negative asupra randamentului titlurilor de stat.
+3.4.
+Prețul de piață al titlurilor de stat ar putea avea o evoluție nefavorabilă Valoarea de piață a titlurilor de stat depinde de o serie de factori interconectați, de evenimente economice, financiare și politice din România sau de altă natură, inclusiv catastrofe naturale, epidemii sau pandemii ce ar afecta populația la nivel local, continental sau global, dar și piețele de capital în general și piața pe care sunt tranzacționate titlurile de stat respective. De exemplu, anul 2020 a fost marcat de izbucnirea și amplificarea pandemiei de COVID-19 (desemnarea oficială de către OMS). Criza generată de pandemia de COVID-19 este una fără precedent, atât din perspectiva cauzei, cât și a consecințelor, afectând multe afaceri din majoritatea sectoarelor, determinând o volatilitate ridicată a burselor de valori la nivel global, inclusiv BVB. Conflictul Ucraina-Rusia, izbucnit în februarie 2022, a determinat, de asemenea, creșterea semnificativă a volatilității piețelor de capital la nivel global, iar amplificarea acestuia poate determina modificări majore ale climatului politic și economic. Războiul mai recent dintre Israel și Hamas, precum și o posibilă escaladare a conflictelor din regiune ar putea afecta economiile europene (și, prin urmare, economia României) prin scăderea comerțului cu țările din Orientul Mijlociu, înăsprirea condițiilor financiare, creșterea prețurilor la energie și a presiunilor inflaționiste și intensificarea volatilității piețelor. Astfel de evenimente pot afecta starea economiei locale, dar și prețul de tranzacționare al titlurilor de stat. Prețul la care un deținător de titluri de stat va putea vinde titlurile de stat înainte de scadență poate fi mai mic decât prețul de emisiune sau prețul de cumpărare plătit de deținătorul de titluri de stat, fapt ce ar putea avea un efect negativ asupra randamentului investiției în titluri de stat.
+4.
+Descrierea generală a Programului Forma termenilor finali [Acesta este formularul Termenilor finali care urmează a fi completat pentru fiecare emisiune de titluri de stat care va fi emisă.] [Inserați data.]
+Termeni finali [Inserați denumirea emisiunii de titluri de stat relevantă.] („emisiunea”) emise în baza Programului de emisiune de titluri de stat FIDELIS al Ministerului Finanțelor
+Perioada ofertei: []-[]
+Preț de emisiune: []% din valoarea nominală
+Data emisiunii: []
+ISIN: []
+Cod CFI: []
+Simbol: []
+NOTĂ IMPORTANTĂ Acești termeni finali trebuie citiți împreună cu Prospectul întocmit în scopul Programului de emisiuni de titluri de stat FIDELIS („Programul”) de către Ministerul Finanțelor („Emitentul”) („Prospectul”).
+Prezentul prospect și orice modificări ale acestuia sunt disponibile: a) pe website-ul Emitentului - www.mfinante.ro;
+b) pe website-ul BVB - www.bvb.ro;
+c) pe website-ul Alpha Bank - www.alphabank.ro;
+d) pe website-ul BT Capital Partners - www.btcapitalpartners.ro;
+e) pe website-ul BCR - www.bcr.ro;
+f) pe website-ul BRD - www.brd.ro/mfp;
+g) pe website-ul Tradeville - www.tradeville.ro.
+Informații complete despre Emitent și titlurile de stat sunt puse la dispoziție în Prospect și în acești termeni finali.
+TERMENI ȘI CONDIȚII
+Această parte a Termenilor finali va fi citită împreună cu termenii și condițiile titlurilor de stat prezentate în Prospect. Termenii care nu sunt definiți în acești termeni finali vor avea înțelesul menționat în Prospect, atunci când vor fi folosiți în Termenii finali.
+Toate referințele în această parte a Termenilor finali la secțiuni și paragrafe sunt făcute la secțiunile și paragrafele din Prospect.
+Prevederile Prospectului vor fi considerate completate cu informațiile conținute în acești termeni finali.
+Valuta, denominare, forma și natura juridică
+Valuta Lei și euro
+Valoarea nominală a unui titlu de stat 100 lei și, respectiv, 100 euro
+Sistemul de decontare Depozitarul Central - S.A., București, sectorul 1, șoseaua Nicolae Titulescu nr. 4-8, clădirea America House, aripa de est, etajul 1, cod poștal 011141, România
+Titluri de stat cu dobândă (cupon) fix/ă
+Rata dobânzii (Rata cuponului) [•] la sută pe an
+Data începerii acumulării dobânzii (cuponului) [•]
+Perioada de dobândă De la, inclusiv până la, inclusiv [data] [data]
+Plata dobânzii (cuponului) anuală
+Data de înregistrare [•]
+Datele de plată a dobânzii (cuponului) [•]
+Rambursarea valorii nominale
+Rambursare la scadență (data scadenței) [•]
+Agent de plată
+Agent de plată pentru emisiunea în lei (dobândă și valoare nominală)
+Banca Transilvania Calea Dorobanților nr. 30-36, Cluj-Napoca
+Plata dobânzilor (cupoanelor) și a principalului pentru emisiunea denominată în euro Având în vedere faptul că investitorii vor putea dobândi și tranzacționa titluri de stat denominate în euro doar prin intermediul unor participanți la sistemul Depozitarului Central, autorizați în vederea accesării Platformei T2S, Emitentul va efectua plățile prin intermediul Depozitarului Central.
+Legea aplicabilă și jurisdicția
+Legea aplicabilă Legea română
+Jurisdicția Instanțele judecătorești din România
+Admitere la tranzacționare
+Listare Piața reglementată la vedere administrată de Bursa de Valori București - S.A.
+Data admiterii/admiterilor la tranzacționare [•]
+Termeni și condiții ale emisiunii
+Revocarea subscrierilor Subscrierile realizate în conformitate cu termenii acestei oferte sunt irevocabile.
+Modificarea subscrierilor Subscrierile realizate în conformitate cu termenii acestei oferte nu sunt modificabile.
+Data alocării [•]
+Data tranzacției [•]
+Data decontării [•]
+Eligibilitate emisiune dedicată persoanelor donatoare de sânge [DA]/[NU]
+Termen de valabilitate a adeverinței de donator de sânge/carnetului de donator
+5.
+Informații referitoare la Programul de emisiuni de titluri de stat FIDELIS destinate exclusiv investitorilor persoane fizice 5.1.
+Aprobare. Utilizarea fondurilor Prospectul se aprobă prin ordin al ministrului finanțelor. Fondurile obținute de Emitent ca urmare a emisiunii de titluri de stat vor fi folosite pentru finanțarea deficitului bugetar, refinanțarea și rambursarea anticipată a datoriei publice guvernamentale.
+5.2.
+Tipul, clasa valorilor mobiliare și detalii privind admiterea la tranzacționare Titlurile de stat sunt titluri de creanță negociabile care vor fi emise prin oferirea în România exclusiv persoanelor fizice rezidente și nerezidente, cu excepția persoanelor care nu au împlinit vârsta de 18 ani până la data închiderii ofertei inclusiv.
+Titlurile de stat sunt denominate în lei și euro, având o valoare nominală de 100 lei fiecare și, respectiv, 100 euro fiecare, și sunt emise cu dobândă fixă anuală. Emitentul va putea emite și plasa titluri de stat în cadrul unor emisiuni distincte („Emisiuni” sau „Emisiuni de titluri de stat”). Fiecare emisiune include titluri de stat care sunt identice în toate aspectele și conferă deținătorilor drepturi egale.
+Titlurile de stat vor fi admise de drept la tranzacționare pe piața reglementată la vedere administrată de BVB, sectorul „Titluri de credit”, categoria „Titluri de stat”. Codul ISIN, CFI și simbolul de piață aferent titlurilor de stat vor fi definite în Termenii finali ai fiecărei emisiuni.
+5.3.
+Legea aplicabilă Titlurile de stat vor fi emise în conformitate cu legile din România, iar termenii și condițiile lor vor fi guvernate de legile din România.
+5.4.
+Forma titlurilor de stat, dreptul de proprietate și transfer Titlurile de stat vor fi nominative, denominate în lei și euro, emise în formă dematerializată (prin înscriere în cont), fiecare având o valoare nominală de 100 lei și, respectiv, 100 euro, și dau deținătorilor drepturi egale.
+Titlurile de stat urmează a fi emise la data emisiunii, respectiv la data la care vor fi decontate tranzacțiile cu titlurile de stat din cadrul ofertei în sistemul de compensare și decontare operat de Depozitarul Central (și anume data decontării). Dreptul de proprietate asupra titlurilor de stat va fi evidențiat prin înscrierea în Registrul deținătorilor de titluri de stat. Registrul deținătorilor de titluri de stat este administrat de Depozitarul Central în baza unui contract de registru încheiat între Emitent și Depozitarul Central.
+Anterior admiterii la tranzacționare a titlurilor de stat pe piața reglementată la vedere administrată de BVB, titlurile de stat vor fi înregistrate la ASF și la Depozitarul Central.
+Dreptul de proprietate asupra titlurilor de stat se transferă conform legislației aplicabile din România, reglementărilor BVB și reglementărilor Depozitarului Central prin înregistrarea în Registrul deținătorilor de titluri de stat administrat de Depozitarul Central.
+5.5.
+Drepturile aferente titlurilor de stat și condițiile de exercitare a acestor drepturi Deținătorii de titluri de stat, înregistrați la data de înregistrare în Registrul deținătorilor de titluri de stat, dată care va fi determinată conform secțiunii 5.6 lit. d) („data de înregistrare”), au dreptul la: 1. rambursarea valorii nominale a titlurilor de stat la data scadenței corespunzătoare numărului de titluri de stat deținute la data de înregistrare; și
+2. plata dobânzii aferente titlurilor de stat la fiecare dată de plată a dobânzii corespunzătoare numărului de titluri de stat deținute la data de înregistrare.
+5.6.
+Plăți în legătură cu titlurile de stat a)
+Rambursarea valorii nominale Rambursarea valorii nominale se va efectua la data de plată a valorii nominale, astfel cum este determinată în Termenii finali ai emisiunii, conform dispozițiilor lit. c) „Modalitatea de plată”.
+b)
+Plata dobânzii Dobânda se va plăti la fiecare dată de plată a dobânzii, respectiv la datele astfel determinate în Termenii finali ai emisiunii, conform dispozițiilor lit. c) „Modalitatea de plată”.
+c)
+Modalitatea de plată 1.
+Pentru titlurile de stat denominate în lei Toate plățile aferente titlurilor de stat denominate în lei vor fi efectuate de către Emitent printr-un agent de plată și prin Depozitarul Central, conform legislației în vigoare. Depozitarul Central și agentul de plată vor realiza, în numele Emitentului, plățile aferente rambursării valorii nominale și/sau dobânzii către deținătorii de titluri de stat.
+Cu o zi lucrătoare înainte de data de plată a dobânzii și, respectiv, a valorii nominale, Emitentul transferă către Depozitarul Central în contul pe numele său, deschis la agentul de plată, sumele aferente evenimentului de plată.
+Rambursarea valorii nominale și/sau plata dobânzii aferente titlurilor de stat se va face la data plății în lei, prin virament bancar într-un cont denominat în lei, deschis la o instituție de credit, după cum urmează: (i) pentru deținătorii care la data de înregistrare dețin titluri de stat în secțiunea II a Registrului în contul deschis la intermediarii la care își păstrează titlurile de stat denominate în lei, plata se va face prin transfer bancar în contul respectivului intermediar;
+(ii) pentru toți ceilalți deținători de titluri de stat denominate în lei, care își păstrează titlurile de stat în contul individual deschis în secțiunea I a Registrului menținut de Depozitarul Central, plățile se vor face prin transfer bancar în contul bancar al deținătorului menționat în formularul de subscriere și indicat Depozitarului Central de către membrul Sindicatului de intermediere/ intermediarul care a preluat și validat subscrierea, conform regulilor Depozitarului Central și acordului clientului obținut în cadrul formularului de subscriere. Prin semnarea formularului de subscriere, deținătorul de titluri de stat autorizează în mod expres și irevocabil membrul Sindicatului de intermediere/intermediarul prin care realizează subscrierea, în vederea transmiterii către Depozitarul Central a detaliilor contului său curent deschis la o instituție de credit, precum și a oricăror informații suplimentare solicitate în acest sens. În cazul în care deținătorul de titluri de stat decide să închidă acest cont bancar înainte de maturitatea titlurilor de stat, acesta va informa în mod direct Depozitarul Central și va indica un alt cont bancar pentru efectuarea plăților.
+Nici emitentul și nici agentul de plată nu au nicio obligație de plată către un deținător de titluri de stat până când detaliile necesare efectuării plății dobânzii sau a rambursării valorii nominale nu au fost furnizate Depozitarului Central, în conformitate cu Prospectul, și nicio dobândă suplimentară și/sau penalizatoare nu va fi datorată ca rezultat al oricărei întârzieri de plată cauzate de netransmiterea de către deținătorul de titluri de stat a detaliilor de plată adecvate în cazul în care contul IBAN menționat în formularul de subscriere și transmis Depozitarului Central de către membrul Sindicatului de intermediere/ intermediarul care a preluat și validat subscrierea nu mai este activ/valid. Deținătorii de titluri de stat au obligația de a se asigura că Depozitarul Central deține toate detaliile necesare realizării plăților de dobândă și/sau plăților aferente rambursării valorii nominale aferente titlurilor de stat, incluzând detaliile privind contul bancar în care urmează să se efectueze plata (respectiv contul bancar în format IBAN și denumirea instituției de credit la care este deschis contul), împreună cu următoarele informații despre respectiva persoană: specificarea privind calitatea de persoană fizică sau persoană/entitate juridică, astfel: (i) în cazul persoanelor fizice - nume, prenume, cod numeric personal sau alt identificator în cazul persoanelor fizice nerezidente (dacă este cazul), cetățenia, reședința fiscală, seria și numărul cărții de identitate și adresa de domiciliu; iar
+(ii) în cazul persoanelor/entităților juridice - denumirea, sediul social, codul unic de înregistrare sau codul fiscal, numărul de înregistrare la registrul comerțului sau în orice alt registru public de evidență a persoanelor/entităților juridice, dacă este cazul, reședința fiscală.
+În cazul în care contul IBAN indicat în formularul de subscriere pentru plata dobânzii, respectiv rambursarea valorii nominale a titlurilor de stat este deschis la o altă bancă decât membrul Sindicatului de intermediere care a preluat și validat subscrierea și acest cont bancar nu mai este valid/activ, este posibil ca din suma returnată, reprezentând dobândă/valoare nominală, să fie reținut un comision de retur de către banca la care s-a transmis suma.
+Nicio plată de dobândă și/sau rambursare de valoare nominală aferentă titlurilor de stat denominate în lei nu va fi efectuată în numerar, prin cec sau mandat poștal sau prin orice altă modalitate de plată, exceptând plata prin virament bancar în contul bancar denominat în lei deschis la o instituție de credit, indicat de deținătorul de titluri de stat în formularul de subscriere.
+Rambursarea, respectiv plata valorii nominale a titlurilor de stat se face la data de plată a valorii nominale, așa cum este determinată în Termenii finali ai emisiunii. Prin urmare, data de înregistrare și termenul de plată pentru valoarea nominală a titlurilor de stat sunt aceleași ca și pentru ultima plată de dobândă.
+2.
+Pentru titlurile de stat denominate în euro Plata valorii nominale și/sau a dobânzii aferente titlurilor de stat denominate în euro se va face în euro, în contul membrului Sindicatului de intermediere/intermediarului al cărui client este deținătorul de titluri de stat la data de înregistrare, corespunzător deținerilor de titluri de stat evidențiate la data de înregistrare în conturile deschise de către membrii Sindicatului de intermediere/ intermediari, aceștia având obligația de a înregistra sumele aferente dobânzii datorate și/sau valorii nominale în contul deținătorului de titluri de stat din evidențele proprii.
+Cu două zile lucrătoare înainte de data de plată a dobânzii și, respectiv, a valorii nominale, emitentul transferă către Depozitarul Central, în contul deschis pe numele său și comunicat Emitentului, sumele aferente evenimentului de plată.
+Deținătorii de titluri de stat care nu au un cont de investiții financiare deschis la unul din membrii Sindicatului de intermediere trebuie să se asigure că titlurile de stat denominate în euro deținute sunt înregistrate în conturile de instrumente financiare ale intermediarilor, deschise pe Platforma T2S, în vederea efectuării plății sumelor aferente dobânzii datorate și/sau valorii nominale, după caz.
+Emitentul și Sindicatul de intermediere nu au nicio obligație de plată către un deținător de titluri de stat denominate în euro în cazul în care, ca urmare a acțiunii/inacțiunii deținătorului de titluri de stat, titlurile de stat nu sunt înregistrate în conturile de instrumente financiare ale intermediarilor deschise pe Platforma T2S și nicio dobândă suplimentară nu va fi plătită ca urmare a oricărei întârzieri la plată determinate de netransmiterea de către deținătorul de titluri de stat denominate în euro a detaliilor de plată relevante.
+Nicio plată a dobânzii și/sau a valorii nominale nu va fi efectuată în numerar, prin cec sau mandat poștal.
+Deținătorii de titluri de stat denominate în euro nu au dreptul să pretindă Emitentului și Sindicatului de intermediere nicio penalitate pentru întârzierea plății. Orice comisioane percepute de băncile care asigură intermedierea cu privire la plățile efectuate ca urmare a deținerii de titluri de stat denominate în euro vor fi suportate de către deținătorii de titluri de stat.
+d)
+Data de înregistrare Plățile aferente titlurilor de stat vor fi efectuate către deținătorii de titluri de stat înscriși în Registrul deținătorilor de titluri de stat administrat de Depozitarul Central la data de înregistrare, iar toate plățile valabil efectuate către aceștia la data de plată a dobânzii asociată, respectiv la data de plată a valorii nominale vor constitui o îndeplinire corespunzătoare a obligațiilor Emitentului cu privire la respectivele plăți.
+În consecință, orice persoană înregistrată ca deținător de titluri de stat în Registrul deținătorilor de titluri de stat între ziua lucrătoare imediat următoare datei de înregistrare relevante (inclusiv) și data de plată a dobânzii aferentă sau data scadenței nu va fi îndreptățită să primească o astfel de plată, chiar dacă persoana respectivă este înregistrată în Registrul deținătorilor de titluri de stat ținut de Depozitarul Central ca deținător de titluri de stat la data de plată a dobânzii relevante sau la data scadenței, după caz.
+Începând cu 7 zile lucrătoare înainte de data scadenței fiecărei emisiuni, tranzacționarea titlurilor de stat se va suspenda în vederea determinării deținătorilor de titluri care vor încasa valoarea nominală la data de plată a respectivei emisiuni.
+e)
+Plăți efectuate în zile lucrătoare În cazul în care data scadenței sau o dată de plată a dobânzii (cuponului) nu este o zi lucrătoare sau o zi lucrătoare pentru plata dobânzii (cuponului), atunci respectiva plată se va realiza în ziua lucrătoare sau ziua lucrătoare pentru plata dobânzii (cuponului) imediat următoare datei scadenței sau datei de plată a dobânzii (cuponului), după caz, iar deținătorul de titluri de stat nu va avea dreptul la o dobândă suplimentară și/sau o dobândă penalizatoare sau la o altă plată pentru perioada dintre data inițială a scadenței pentru respectiva plată și data plății efective.
+f)
+Agentul de plată pentru titlurile de stat denominate în lei Banca Transilvania - S.A., cu sediul în Calea Dorobanților nr. 30-36, Cluj-Napoca, va acționa în calitate de agent de plată în legătură cu titlurile de stat denominate în lei și va intermedia plata valorii nominale și a dobânzii, după caz, către deținătorii de titluri de stat, în baza instrucțiunilor primite de la Depozitarul Central, prin ordine de plată inițiate de către acesta din contul dedicat.
+g)
+Impozitare Veniturile realizate de persoanele fizice rezidente din deținerea și tranzacționarea titlurilor de stat nu sunt venituri impozabile, în conformitate cu prevederile art. 93 alin. (1) lit. a) din Legea nr. 227/2015 privind Codul fiscal, cu modificările și completările ulterioare.
+Veniturile obținute de nerezidenții din România din dobânzile aferente titlurilor de stat și din tranzacționarea acestora sunt venituri scutite de impozit, conform art. 229 alin. (1) lit. a) din Legea nr. 227/2015 privind Codul fiscal, cu modificările și completările ulterioare.
+Veniturile realizate din deținerea și tranzacționarea titlurilor de stat de către persoane juridice rezidente vor fi supuse impozitului pe profit, în conformitate cu prevederile Codului fiscal în vigoare la momentul respectiv.
+5.6.1.
+Rata dobânzii (Rata cuponului) Titlurile de stat sunt purtătoare de dobândă (cupon) la rata dobânzii (rata cuponului), începând cu, inclusiv, data începerii acumulării dobânzii (cuponului).
+5.6.2.
+Încetarea acumulării dobânzii (cuponului) Titlurile de stat vor înceta să mai fie purtătoare de dobândă (cupon) la, și inclusiv, data scadenței lor, așa cum este determinată în Termenii finali ai fiecărei emisiuni.
+5.6.3.
+Data de plată a dobânzii (cuponului) și a valorii nominale Dobânda aferentă oricărui titlu de stat se plătește anual la fiecare dată de plată a dobânzii (cuponului), iar rambursarea valorii nominale se va efectua la data de plată a valorii nominale, așa cum aceste date sunt determinate în Termenii finali ai fiecărei emisiuni.
+5.6.4.
+Valoarea dobânzii (cuponului) Dobânda (cuponul) va fi calculat/ă pe baza numărului efectiv de zile din perioada de dobândă relevantă și pe baza numărului de zile din anul respectiv, utilizând următoarea formulă: D = [Valoarea nominală x Rata dobânzii (%) x Număr de zile acumulate/Număr de zile an curent], unde: -
+D = valoarea dobânzii pentru fiecare dată de plată a dobânzii pentru un titlu de stat;
+-
+Valoarea nominală = valoarea nominală a unui titlu de stat;
+-
+Rata dobânzii = astfel cum este determinată în Termenii finali ai fiecărei emisiuni;
+-
+Număr de zile acumulate = numărul efectiv de zile din perioada de dobândă;
+-
+Număr de zile an curent = numărul efectiv de zile din perioada de dobândă;
+-
+An curent = perioada de dobândă curentă.
+Valoarea rezultată a dobânzii calculată în baza formulei de mai sus va fi rotunjită în minus până la cea mai apropiată valoare de ban (respectiv 0,01 lei sau euro), valoarea egală sau mai mare decât 0,005 lei sau euro rotunjindu-se crescător până la 0,01 lei sau euro.
+Fiecare deținător de titluri de stat va primi dobânda determinată conform formulei de mai sus înmulțită cu numărul de titluri de stat deținute de respectiva persoană/entitate la data de înregistrare inclusă în perioada de dobândă pentru care se face plata.
+Dobânda totală plătită de Emitent la fiecare dată de plată a dobânzii va fi calculată conform formulei:
+Dobânda totală = D x numărul total de titluri de stat aflate în circulație.
+5.6.5.
+Transferul titlurilor de stat și al sumelor aferente în cazul decesului deținătorului de titluri de stat În cazul decesului deținătorului de titluri de stat, pentru transferul titlurilor de stat și al sumelor de bani aferente acestora, moștenitorii se vor adresa: (i)
+Depozitarului Central, dacă persoana decedată are deținerile de titluri de stat evidențiate în secțiunea I a Registrului Depozitarului Central, cu documente doveditoare privind decesul, în vederea efectuării transferului dreptului de proprietate; sau
+(ii) intermediarului în contul căruia sunt evidențiate deținerile de titluri de stat ale titularului decedat cu documente doveditoare privind decesul, iar intermediarul va efectua transferul titlurilor în secțiunea I a Registrului Depozitarului Central, urmând ca moștenitorii să se adreseze acestuia în vederea realizării transferului pe numele moștenitorilor; în cazul titlurilor de stat denominate în euro, transferul acestora se va realiza de către intermediar cu sprijinul Depozitarului Central, moștenitorii urmând să deschidă un cont de tranzacționare la un intermediar și să achite costurile pentru transfer comunicate de Depozitarul Central și intermediar.
+Sumele de bani aferente cupoanelor, principalului, încasate în contul decedatului, se vor plăti moștenitorilor în baza documentelor justificative (certificate de moștenitor, acte de partaj) în care sunt menționate aceste sume.
+6.
+Informații privind oferta 6.1.
+Termenii și condițiile ofertei
+Termenii principali ai ofertei
+Emitent
+Ministerul Finanțelor
+Tipul ofertei
+Titlurile de stat vor fi oferite în România exclusiv persoanelor fizice rezidente și nerezidente, cu excepția persoanelor care nu au împlinit vârsta de 18 ani până la data închiderii ofertei inclusiv.
+Codul ISIN
+Codul ISIN al titlurilor de stat este identificat în Termenii finali ai fiecărei emisiuni.
+Valuta
+Titlurile de stat vor fi denominate în lei și euro.
+Sindicatul de intermediere
+BT Capital Partners (lider al consorțiului format din BT Capital Partners și BT) - în calitate de lead manager al Sindicatului de intermediere și intermediar, BT - în calitate de grup de distribuție, Alpha Bank - în calitate de intermediar, BCR - în calitate de intermediar, BRD - în calitate de intermediar și Tradeville (lider al consorțiului format din Libra Bank și Tradeville) - în calitate de intermediar, Libra Bank în calitate de grup de distribuție
+Metoda de intermediere
+Metoda celei mai bune execuții, respectiv acea metodă de intermediere prin care Sindicatul de intermediere va depune diligențe pentru plasarea titlurilor de stat fără a exista nicio obligație a Sindicatului de intermediere cu privire la plasarea tuturor titlurilor de stat.
+Titlurile de stat oferite
+Emitentul intenționează să emită titluri de stat în lei și euro.
+Valoarea nominală a unui titlu de stat 100 lei în cazul emisiunii în lei 100 euro în cazul emisiunii în euro
+Prețul de emisiune și oferta 100% din valoarea nominală a unui titlu de stat; subscriitorul va plăti pentru fiecare titlu de stat subscris suma de:
+- 100 lei cu titlu de preț de emisiune pentru emisiunea în lei;
+- 100 euro cu titlu de preț de emisiune pentru emisiunea în euro.
+Rata dobânzii (rata cuponului)
+Este determinată în Termenii finali ai fiecărei emisiuni.
+Plata dobânzii (cuponului)
+Anuală
+Rambursare valoare nominală
+La data de plată a valorii nominale, așa cum este definită în Termenii finali ai fiecărei emisiuni.
+Agent de plată pentru emisiunea în lei
+BT
+Valoarea nominală totală
+Valoarea nominală cumulată totală a titlurilor de stat oferite în lei și euro
+Data emiterii
+Data decontării
+Data scadenței
+Este determinată în Termenii finali ai fiecărei emisiuni.
+Perioada ofertei/Perioada de subscriere
+Este determinată în Termenii finali ai fiecărei emisiuni.
+Termen de valabilitate a adeverinței de donator de sânge/carnetului de donator
+Este determinat în Termenii finali ai fiecărei emisiuni dedicate persoanelor donatoare de sânge.
+Valoarea minimă a unei subscrieri
+Valoarea minimă a unei subscrieri este de 5.000 lei (mai puțin în cazul emisiunilor dedicate donatorilor de sânge) și, respectiv, 1.000 euro, reprezentând contravaloarea unui număr de minimum 50 de titluri de stat denominate în lei la prețul de emisiune pentru emisiunea în lei și, respectiv, a unui număr de minimum 10 titluri de stat denominate în euro la prețul de emisiune pentru emisiunea în euro.
+În cazul emisiunilor dedicate donatorilor de sânge, valoarea minimă a unei subscrieri este de 500 lei, reprezentând contravaloarea unui număr de minimum 5 titluri de stat denominate în lei la prețul de emisiune pentru emisiunea în lei.
+Subscrierea de fracțiuni a numărului minim de titluri de stat ce pot fi subscrise nu se acceptă și va atrage invalidarea integrală a subscrierii.
+În cazul în care o subscriere este pentru mai puțin de 5.000 lei aferentă titlurilor de stat denominate în lei (cu excepția emisiunilor dedicate donatorilor de sânge), 500 lei aferentă titlurilor de stat denominate în lei dedicate donatorilor de sânge sau 1.000 euro pentru titlurile de stat denominate în euro, o astfel de subscriere va fi invalidată. Sumele achitate de investitori, aferente subscrierilor în lei, vor fi returnate acestora după deducerea comisioanelor bancare privind această plată, în maximum 5 zile lucrătoare de la data decontării. Pentru returnarea sumelor de bani, comisioanele vor fi suportate de investitori, mai puțin în cazul în care sumele sunt returnate de BT Capital Partners în conturi deschise la BT, de BRD în conturi deschise la BRD, de Alpha Bank în conturi deschise la Alpha Bank sau de Tradeville în conturile deschise la Libra Bank. În cazul investitorilor cu contracte valide de servicii de investiții financiare, atât în cazul emisiunilor în lei, cât și în euro, se aplică prevederile referitoare la neexecutarea ordinelor din contractul de servicii de investiții financiare încheiat cu investitorii.
+Revocarea subscrierilor
+Subscrierile realizate în conformitate cu termenii acestei oferte sunt irevocabile.
+Modificarea subscrierilor
+Subscrierile realizate în conformitate cu termenii acestei oferte nu sunt modificabile.
+Data alocării
+Este determinată în Termenii finali ai fiecărei emisiuni.
+Data tranzacției
+Prima zi lucrătoare după data alocării, așa cum este determinată în Termenii finali ai fiecărei emisiuni, reprezentând ziua lucrătoare în care sunt încheiate în sistemul de tranzacționare al BVB tranzacțiile de cumpărare în piața primară a titlurilor de stat oferite.
+Data decontării
+A doua zi lucrătoare după data tranzacției, așa cum este determinată în Termenii finali ai fiecărei emisiuni, reprezentând ziua lucrătoare în care se realizează decontarea tranzacțiilor încheiate în cadrul ofertei prin sistemul de compensare și decontare al Depozitarului Central.
+Data de începere a acumulării dobânzii
+Data decontării (emiterii), respectiv data astfel determinată în Termenii finali ai fiecărei emisiuni.
+Decontarea
+Prin Depozitarul Central
+Admiterea la tranzacționare
+Titlurile de stat vor fi admise de drept pe piața reglementată administrată de BVB, sectorul „Titluri de credit”, categoria „Titluri de stat”.
+Data admiterii la tranzacționare
+Prima zi lucrătoare după data decontării, respectiv data astfel determinată în Termenii finali ai fiecărei emisiuni.
+Tratament fiscal
+Veniturile realizate de persoanele fizice rezidente din deținerea și tranzacționarea titlurilor de stat nu sunt venituri impozabile, în conformitate cu prevederile art. 93 alin. (1) lit. a) din Legea nr. 227/2015 privind Codul fiscal, cu modificările și completările ulterioare.
+Veniturile obținute de nerezidenți din România din dobânzile aferente titlurilor de stat și din tranzacționarea acestora sunt venituri scutite de impozit, conform art. 229 alin. (1) lit. a) din Legea nr. 227/2015 privind Codul fiscal, cu modificările și completările ulterioare.
+6.2.
+Calendarul estimat și procedura de subscriere Perioada ofertei va fi definită în Termenii finali ai fiecărei emisiuni.
+Subscrierile titlurilor de stat se pot realiza în timpul programului normal de lucru al intermediarilor, de luni până vineri inclusiv, pe parcursul perioadei ofertei, cu excepția ultimei zile lucrătoare a perioadei ofertei, când subscrierile vor putea fi înregistrate până la ora 13:00, ora României. Investitorii ar trebui să țină cont de faptul că transferul bancar ar putea dura 2-3 zile lucrătoare. După expirarea perioadei ofertei nu mai sunt acceptate subscrieri de la investitori.
+În cazul intermediarilor care acceptă subscrieri online, în funcție de politica fiecărui intermediar, ordinele de subscriere transmise online pot fi înregistrate în aplicațiile informatice ale respectivilor intermediari și în afara programului de lucru (cu excepția ultimei zile de ofertă), urmând a fi validate în timpul programului normal de lucru al intermediarilor.
+Subscrierile pentru emisiunea în lei se pot realiza prin intermediul: -
+Alpha Bank, prin unitățile bancare menționate pe website-ul Alpha Bank la adresa https://www.alphabank.ro/investitii-financiare/operatiuni-in-derulare/operatiuni-in-derulare, pentru persoane fizice rezidente și nerezidente;
+-
+BT Capital Partners, la sediul din str. Constantin Brâncuși nr. 74-76, parter, Cluj-Napoca, și prin orice unitate autorizată a BT Capital Partners;
+-
+BT, la sediul din Calea Dorobanților nr. 30-36, Cluj-Napoca, și prin orice unitate bancară a BT, pentru persoane fizice rezidente;
+-
+BCR, la sediul din Șoseaua Orhideelor nr. 15D, clădirea The Bridge 1, etajul 2, sectorul 6, București, și prin orice unitate bancară a BCR menționată pe website-ul BCR la adresa https://www.bcr.ro/ro/retea-unitati1/unitati-atm și vor putea fi efectuate numai în baza unui contract valid de servicii de investiții financiare încheiat cu investitorii;
+-
+BRD:
+- la sediul din Turnul BRD, bd. Ion Mihalache nr. 1-7, sectorul 1, București, și prin orice unitate bancară a BRD menționată pe website-ul BRD la adresa https://www.brd.ro/agentii-si-atm-uri;
+- prin manifestarea intenției de subscriere în urma completării unui formular pe website-ul BRD la adresa https://www.brd.ro/mfp, urmată de contactarea telefonică a persoanei interesate și redirecționarea sa în cea mai apropiată unitate BRD pentru subscriere;
+- telefonic, doar pentru investitorii care au încheiat cu BRD un contract valid de servicii de investiții financiare;
+-
+Tradeville - online, prin intermediul platformei de tranzacționare puse la dispoziția clienților (https://portal.tradeville.ro/), atât în varianta web, cât și ca aplicație mobilă, subscrierile putând fi efectuate numai prin intermediul contului de tranzacționare deschis la Tradeville în baza unui contract valid de servicii de investiții financiare încheiat între client și Tradeville;
+-
+Libra Bank, prin unitățile bancare menționate pe website-ul băncii, la adresa https://www.librabank.ro/sucursale, pentru persoane fizice rezidente;
+- la sediile autorizate ale oricărui participant eligibil (astfel cum acesta este definit mai jos).
+Subscrierile pentru emisiunea în euro se pot realiza numai în baza unui contract valid de servicii de investiții financiare încheiat de investitori cu unul dintre membrii Sindicatului de intermediere, respectiv Alpha Bank, BT Capital Partners, BCR, BRD, Tradeville sau cu participanții eligibili care au semnat și transmis către lead managerul Sindicatului de intermediere Angajamentul privind respectarea condițiilor de derulare a ofertei și a prevederilor Prospectului de bază. În acest caz, subscrierea va fi realizată prin transmiterea unui ordin de cumpărare care să conțină informații referitoare la numărul de titluri subscrise, conform prevederilor contractului de servicii de investiții financiare și prin mijloacele de comunicare prevăzute în acel contract.
+În cazul în care investitorii care intenționează să subscrie în emisiunea denominată în euro nu dețin un astfel de contract valid de servicii de investiții financiare, deschiderea conturilor de tranzacționare se poate realiza la sediile menționate mai jos: -
+Alpha Bank, prin unitățile bancare menționate pe website-ul Alpha Bank la adresa https://www.alphabank.ro/investitii-financiare/operatiuni-in-derulare/operatiuni-in-derulare;
+-
+BT Capital Partners, la sediul din str. Constantin Brâncuși nr. 74-76, parter, Cluj-Napoca, și prin orice unitate autorizată a BT Capital Partners sau online;
+-
+BCR, la sediul din Șoseaua Orhideelor nr. 15D, clădirea The Bridge 1, etajul 2, sectorul 6, București, și prin orice unitate bancară a BCR menționată pe website-ul BCR la adresa https://www.bcr.ro/ro/retea-unitati1/unitati-atm;
+-
+BRD, la sediul din Turnul BRD, bd. Ion Mihalache nr. 1-7, sectorul 1, București, și prin orice unitate bancară menționată pe website-ul BRD, la adresa https://www.brd.ro/agentii-si-atm-uri;
+-
+Tradeville - online, prin intermediul platformei de tranzacționare puse la dispoziția clienților, atât în varianta web (accesibilă din pagina de internet https://tradeville.ro/), cât și ca aplicație mobilă;
+- la sediile autorizate ale oricărui participant eligibil (astfel cum acesta este definit mai jos).
+"Participant eligibil” înseamnă orice intermediar autorizat de ASF (altul decât BT Capital Partners, BCR, BRD, Alpha Bank, Tradeville), care (i) a semnat Angajamentul privind respectarea condițiilor de derulare a ofertei și a prevederilor Prospectului de bază („Angajamentul”) și (ii) a transmis Angajamentul la BT Capital Partners la următoarea adresă de corespondență: -
+BT Capital Partners - str. Constantin Brâncuși nr. 74-76, Cluj-Napoca, e-mail: custodie@btcapitalpartners.ro.
+Participanții eligibili nu pot accepta, înregistra, procesa și valida subscrierile înainte de semnarea și transmiterea Angajamentului la BT Capital Partners. Fiecare participant eligibil trebuie să se asigure că sistemele sale interne îi permit să se conformeze cerințelor prevăzute în prezentul prospect, inclusiv, însă fără a se limita la cerințele privind disponibilitatea fondurilor și decontarea tranzacțiilor derulate în urma acceptării subscrierilor de către respectivul participant eligibil, condiția de a fi participant înregistrat pe Platforma T2S, pentru a putea prelua subscrieri pentru titlurile de stat denominate în euro.
+Subscrierile efectuate de investitori vor fi înregistrate, pe parcursul perioadei ofertei, în sistemul BVB dedicat ofertelor pentru titluri de stat, de către membrii Sindicatului de intermediere sau de către participantul eligibil care a primit și validat respectiva subscriere.
+6.3.
+Condiții generale Titlurile de stat vor fi oferite în România exclusiv persoanelor fizice rezidente și nerezidente, cu excepția persoanelor care nu au împlinit vârsta de 18 ani până la data închiderii ofertei inclusiv. În cazul emisiunilor în euro, subscrierile pentru titlurile de stat vor putea fi efectuate numai în baza unui contract valid de servicii de investiții financiare încheiat cu investitorii.
+În cazul emisiunilor dedicate donatorilor de sânge este necesară prezentarea unui document doveditor emis de o entitate din România, care certifică calitatea de donator de sânge, respectiv adeverință de donator de sânge/carnet de donator, cu condiția ca aceasta/acesta să fie eliberată/eliberat în termenul de valabilitate stipulat în Termenii finali ai fiecărei emisiuni. Condițiile finale, inclusiv rata cuponului, vor fi stabilite în Termenii finali ai fiecărei emisiuni.
+Responsabilitatea privind documentarea eligibilității subscriitorilor în cadrul emisiunilor dedicate donatorilor de sânge revine Sindicatului de intermediere/participantului eligibil, în baza adeverinței de donator de sânge/carnetului de donator, eliberată/eliberat în termenul de valabilitate stipulat în Termenii finali ai fiecărei emisiuni și prezentată/prezentat la momentul subscrierii de către donatorul eligibil. Membrii Sindicatului de intermediere/Participantul eligibil și Emitentul nu își asumă răspunderea privind verificarea și certificarea autenticității documentului prezentat.
+Acest prospect nu reprezintă o ofertă sau o invitație făcută de către Emitent sau de Sindicatul de intermediere sau în numele vreunuia dintre aceștia pentru a subscrie titluri de stat într-o jurisdicție unde o astfel de ofertă sau invitație este neautorizată sau restricționată în orice fel și nu reprezintă nici o ofertă sau o invitație făcută unor investitori potențiali care nu pot subscrie în condițiile legii sau ale prezentului prospect. Orice investitor care decide să subscrie titluri de stat în cadrul acestei oferte este obligat să cunoască și să respecte restricțiile și limitările aplicabile acestei oferte, așa cum sunt ele specificate în acest prospect și în legislația aplicabilă.
+În luarea deciziei de a investi în titluri de stat, investitorilor li se recomandă să se bazeze pe propria evaluare a termenilor și condițiilor ofertei, inclusiv a oricăror beneficii și riscuri aferente acesteia. Fiecare subscriitor al titlurilor de stat trebuie să respecte toate normele juridice în vigoare, precum și dispozițiile acestui prospect. Emitentul și Sindicatul de intermediere nu vor fi responsabili în niciun fel pentru încălcarea de către investitori a normelor juridice aplicabile și/sau a prevederilor acestui prospect.
+Fiecărui investitor i se recomandă să se consulte cu consultanții săi juridici, financiari, fiscali sau orice alt fel de consultanți și cu contabili și alți experți în chestiuni legale, fiscale, de administrare a afacerilor sau financiare sau în orice chestiune referitoare la subscrierea, cumpărarea, deținerea sau transferul titlurilor de stat, Emitentul și Sindicatul de intermediere refuzând orice responsabilitate în legătură cu astfel de aspecte.
+6.4.
+Procedura de subscriere Prin subscrierea titlurilor de stat, fiecare investitor confirmă că a citit acest prospect, că a acceptat termenii și condițiile prevăzute în acest prospect și în Termenii finali și că a efectuat subscrierea în conformitate cu termenii incluși în acest prospect și în Termenii finali. Semnarea formularului de subscriere în cazul subscrierii de titluri de stat în lei de către investitorii care nu au încheiat un contract valid de servicii de investiții financiare reprezintă acceptarea necondiționată a termenilor și condițiilor acestei oferte și a Prospectului în integralitatea acestuia.
+Persoanele care subscriu și plătesc prin intermediul oricărui membru al Sindicatului de intermediere nu vor plăti niciun comision pentru transferul în contul colector. Investitorii pot efectua subscrieri multiple prin intermediul oricărui membru al Sindicatului de intermediere sau participant eligibil. În cazul emisiunilor în euro, subscrierile vor putea fi efectuate numai în baza unui contract valid de servicii de investiții financiare încheiat cu investitorii.
+Nu va fi perceput niciun comision de subscriere în legătură cu subscrierile realizate de investitori. În momentul subscrierii, investitorii trebuie să menționeze un cont bancar pentru plăți ulterioare denominat în lei, deschis la o instituție de credit.
+Subscrierea pentru emisiunile în lei se va putea realiza: - fie în baza unui contract valid de servicii de investiții financiare încheiat de investitori cu unul dintre membrii Sindicatului de intermediere sau participanții eligibili;
+- prin intermediul unităților Alpha Bank menționate anterior, pentru persoane fizice rezidente și nerezidente, prin furnizarea tuturor documentelor menționate în secțiunea 6.5 („Documentele necesare subscrierii”) și a dovezii de plată a contravalorii titlurilor de stat subscrise. Plata contravalorii titlurilor de stat se va realiza de către investitor prin virament bancar dintr-un cont bancar deschis la o instituție de credit în contul colector;
+- prin intermediul unităților BT Capital Partners, BT și Libra Bank, pentru persoane fizice rezidente, prin virament bancar dintr-un cont bancar deschis la o instituție de credit, prin prezentarea la oricare dintre sediile Grupului de distribuție mai sus menționate, prin furnizarea tuturor documentelor cerute în secțiunea 6.5 („Documentele necesare subscrierii”). În plus, toți subscriitorii trebuie să depună, împreună cu formularul de subscriere, dovada de plată a titlurilor de stat (cu excepția cazurilor în care contul din care se face plata este deschis la instituția de credit care a preluat subscrierea);
+- prin intermediul unităților BRD, exclusiv pentru clienții BRD, prin debitarea automată a contului curent al investitorului, deschis la BRD, cu contravaloarea titlurilor de stat subscrise, prin prezentarea la oricare dintre sediile BRD mai sus menționate și în baza furnizării tuturor documentelor cerute în secțiunea 6.5 („Documentele necesare subscrierii”).
+În cazul în care persoanele care subscriu nu dețin un cont bancar, intermediarul sau Grupul de distribuție prin care se realizează subscrierea va deschide pe numele subscriitorului un cont curent aferent operațiunii.
+a)
+Subscrierile în lei și euro realizate de către investitorii care au un contract valid de servicii de investiții financiare semnat cu unul dintre membrii Sindicatului de intermediere sau cu un participant eligibil Pe durata perioadei ofertei, Sindicatul de intermediere sau participantul eligibil va accepta subscrierile în conformitate cu reglementările interne referitoare la acceptare, validare și transmitere spre executare a ordinelor de subscriere, precum și cu normele referitoare la managementul riscului de decontare și cerințele incluse în acest prospect.
+În cazul intermediarilor care acceptă subscrieri online, în funcție de politica fiecărui intermediar, ordinele de subscriere transmise online pot fi înregistrate în aplicațiile informatice ale respectivilor intermediari și în afara programului de lucru (cu excepția ultimei zile de ofertă), urmând a fi validate în timpul programului normal de lucru al intermediarilor.
+b)
+Subscrierile realizate în lei de către investitorii care nu au un contract valid de servicii de investiții financiare încheiat cu unul dintre membrii Sindicatului de intermediere Pentru emisiunile în lei, pe durata perioadei ofertei, membrii Sindicatului de intermediere (Alpha Bank, BT Capital Partners, BT pentru persoane fizice rezidente, BRD și Libra Bank) vor recepționa formularele de subscriere și vor procesa, valida și înregistra, în cel mai scurt timp posibil, toate subscrierile valide recepționate. În cazul BCR și Tradeville, precum și al altor participanți eligibili, subscrierile vor putea fi efectuate numai în baza unui contract valid de servicii de investiții financiare încheiat cu investitorii. Validarea subscrierilor se va face numai la recepționarea sumelor în oricare din conturile colectoare ale membrilor Sindicatului de intermediere sau în contul participantului eligibil, până cel mai târziu în ultima zi lucrătoare a perioadei ofertei.
+Pentru emisiunile în euro subscrierile se vor putea realiza numai în baza unui contract valid de servicii de investiții financiare încheiat cu investitorii de către unul dintre membrii Sindicatului de intermediere sau participant eligibil.
+c)
+Subscrierile realizate de către investitorii donatori eligibili Pentru a subscrie în cadrul emisiunilor dedicate donatorilor de sânge este necesară prezentarea unui document doveditor de către donatorul eligibil, emis de o entitate din România, respectiv o adeverință de donator de sânge/un carnet de donator, eliberată/eliberat în termenul de valabilitate stipulat în Termenii finali ai fiecărei emisiuni. La momentul subscrierii, clientul donator de sânge, astfel cum acest termen este definit în legislația aplicabilă, îndeplinind toate condițiile din Prospect și Termenii finali cu privire la calificarea drept donator de sânge eligibil, garantează faptul că documentul prezentat intermediarului este autentic și valid, fiind eliberat de o instituție medicală de profil, autorizată pentru organizarea colectării de sânge, și a fost emis în termenul de valabilitate stabilit conform dispozițiilor Prospectului și menționat în Termenii finali ai fiecărei emisiuni.
+6.5.
+Documentele necesare subscrierii a)
+Subscrierile în lei și euro realizate de către investitorii care au un contract valid de servicii de investiții financiare semnat cu unul dintre membrii Sindicatului de intermediere sau cu un participant eligibil În acest caz, subscrierea va fi realizată prin transmiterea unui ordin de cumpărare, conform prevederilor contractului de servicii de investiții financiare și prin mijloacele de comunicare prevăzute în acel contract, care să conțină informații referitoare la numărul de titluri subscrise.
+b)
+Subscrierile realizate în lei de către investitorii care nu au un contract valid de servicii de investiții financiare semnat cu unul dintre membrii Sindicatului de intermediere În acest caz, investitorii vor avea în vedere următoarele, la momentul subscrierii: - semnarea formularului de subscriere;
+- în cazul subscriitorilor care subscriu prin intermediul BT Capital Partners BT și Libra Bank, aceștia vor depune dovada de plată a contravalorii titlurilor de stat subscrise prin transfer în contul colector aferent, cu excepția cazurilor în care contul din care se face plata este deschis la instituția de credit care a preluat subscrierea. În cazul subscriitorilor care subscriu prin intermediul Alpha Bank, aceștia vor depune dovada de plată a contravalorii titlurilor de stat subscrise prin transfer în contul colector. În cazul subscriitorilor care subscriu prin BRD, plățile în contul colector se vor realiza prin debitarea directă a contului curent al clientului, deschis la BRD;
+- prezentarea următoarelor documente de subscriere, menționate mai jos: • pentru persoanele fizice rezidente/nerezidente care subscriu în nume propriu:
+- document de identitate (carte de identitate, pașaport împreună cu permisul de rezidență/permisul de conducere/alt document oficial de identitate care să conțină adresa) (în original pentru verificare și o copie a acesteia/acestuia);
+- extras de cont care să ateste că subscriitorul este titularul contului IBAN pentru plăți ulterioare indicat în formularul de subscriere, cu excepția cazurilor în care acest cont este deschis la instituția de credit care a preluat subscrierea; • pentru persoanele fizice rezidente care subscriu în numele altei persoane fizice rezidente/nerezidente:
+- document de identitate (carte de identitate, pașaport împreună cu permisul de rezidență/permisul de conducere/alt document oficial de identitate care să conțină adresa) al reprezentantului (în original pentru verificare și o copie a acesteia/acestuia) și documentul de identitate (carte de identitate, pașaport împreună cu permisul de rezidență/permisul de conducere/alt document oficial de identitate care să conțină adresa) (în copie) al persoanei reprezentate;
+- împuternicirea, autentificată de un notar public, prin care se autorizează reprezentantul să acționeze în numele persoanei fizice rezidente/nerezidente (în original), având menționată expres posibilitatea de a subscrie în cadrul unei oferte și de a putea ordona plata din disponibilul mandantului/investitorului (împuternicire cel puțin punctuală/per operațiune pe cont pentru a putea ordona și mandatul de debitare directă de pe contul mandantului/investitorului);
+- extras de cont care să ateste că subscriitorul este titularul contului IBAN pentru plăți ulterioare indicat în formularul de subscriere, cu excepția cazurilor în care acest cont este deschis la instituția de credit care a preluat subscrierea; • pentru persoanele fizice rezidente/nerezidente incapabile (fără discernământ) sau aflate sub curatelă:
+- document de identitate (carte de identitate, pașaport împreună cu permisul de rezidență/permisul de conducere/alt document oficial de identitate care să conțină adresa) al reprezentantului (în original pentru verificare și o copie a acesteia/acestuia) și documentul de identitate (carte de identitate, pașaport împreună cu permisul de rezidență/permisul de conducere/alt document oficial de identitate care să conțină adresa) (în copie) al persoanei reprezentate;
+- actul juridic care stabilește curatela sau, după caz, documentul care stabilește curatela (în original pentru verificare și o copie a acestuia);
+- extras de cont care să ateste că subscriitorul este titularul contului IBAN pentru plăți ulterioare indicat în formularul de subscriere, cu excepția cazurilor în care acest cont este deschis la instituția de credit care a preluat subscrierea; • pentru persoanele fizice rezidente/nerezidente care sunt reprezentate de o societate de administrare investiții în baza unui contract de administrare de portofoliu:
+- document de identitate (carte de identitate, pașaport împreună cu permisul de rezidență/permisul de conducere/alt document oficial de identitate care să conțină adresa) (în copie) al persoanei reprezentate;
+- mandat de reprezentare/contract de administrare (original și copie);
+- extras de cont care să ateste că subscriitorul este titularul IBAN-ului pentru plăți ulterioare indicat în formularul de subscriere, cu excepția cazurilor în care acest IBAN este deschis la instituția de credit care a preluat subscrierea; • pentru societatea de administrare investiții care subscrie în numele persoanelor fizice:
+- certificat de înregistrare emis de oficiul registrului comerțului (copie);
+- act constitutiv actualizat (copie conformă cu originalul certificată de reprezentantul legal al persoanei juridice);
+- certificat constatator privind situația actuală a persoanei juridice emis de oficiul registrului comerțului (emis cu cel mult 30 de zile lucrătoare înainte de data subscrierii);
+- procură/mandat în original pentru persoana care semnează formularul de subscriere și pentru a putea ordona plata din disponibilul mandantului/investitorului (împuternicire cel puțin punctuală/per operațiune pe cont pentru a putea ordona și mandatul de debitare directă de pe contul mandantului/investitorului), acordată conform prevederilor actului constitutiv, sau o dovadă că persoana respectivă reprezintă în mod legal entitatea care subscrie, cu drept individual de reprezentare (în cazul în care societatea este reprezentată în mod colectiv de două sau mai multe persoane care sunt toate prezente la semnarea formularului de subscriere, o astfel de dovadă va fi prezentată pentru toate aceste persoane) (procura în original și orice alte documente conforme cu originalul certificate de reprezentantul legal al persoanei juridice); carte/buletin de identitate (în original și copie) a/al persoanei care subscrie în numele clienților societății de administrare.
+c)
+Subscrierile realizate de către investitorii donatori eligibili Pentru subscrierea în cadrul emisiunilor dedicate persoanelor donatoare de sânge, suplimentar documentelor necesare pentru subscriere menționate anterior la lit. b), se va prezenta și o adeverință de donator de sânge/un carnet de donator, emisă/emis de o entitate din România în termenul de valabilitate menționat în Termenii finali ai fiecărei emisiuni.
+Membrii Sindicatului de intermediere/Participantul eligibil și Emitentul nu își asumă răspunderea privind verificarea și certificarea autenticității documentului doveditor prezentat pentru subscrierea în cadrul emisiunilor dedicate persoanelor donatoare de sânge, donatorul eligibil fiind singurul care garantează autenticitatea și validitatea acestuia.
+Entitatea prin care un investitor subscrie are dreptul să solicite orice documente suplimentare în scopul îndeplinirii obligațiilor sale de respectare a regulilor „de cunoaștere a clientelei”, conform normelor și procedurilor sale interne de identificare a clienților, precum și la efectuarea oricăror analize sau verificări necesare pentru determinarea profilului investițional al clientului, conform prevederilor MiFID II și legislației naționale relevante.
+Documentele într-o altă limbă decât limba română și/sau limba engleză depuse de un investitor vor fi însoțite de o traducere legalizată a acestora în limba română.
+6.6.
+Revocarea subscrierilor Subscrierile realizate în conformitate cu acest prospect sunt irevocabile pe toată perioada ofertei.
+6.7.
+Rambursări Investitorilor le vor fi returnate sumele plătite în contul subscrierilor invalidate/anulate.
+În acest caz, plata va fi efectuată în termen de cinci zile lucrătoare de la data decontării. Plățile aferente subscrierilor invalidate/anulate vor fi efectuate prin transfer bancar în conturile bancare ale investitorilor, conform prevederilor formularului de subscriere. În cazul subscrierilor realizate prin BRD și invalidate, sumele plătite se vor returna în contul din care s-a efectuat prelevarea/plata.
+Toate comisioanele legate de plățile făcute către investitori în oricare dintre cazurile prezentate mai sus vor fi suportate de investitori, mai puțin în cazul în care sumele sunt returnate de BT Capital Partners în conturi deschise la BT, de BRD în conturi deschise la BRD, de Alpha Bank în conturi deschise la Alpha Bank sau de Tradeville în conturile deschise la Libra Bank. În cazul investitorilor cu contracte valide de servicii de investiții financiare, atât în cazul emisiunilor în lei, cât și a celor în euro se aplică prevederile din contractul de servicii de investiții financiare încheiat cu investitorii.
+Titlurile de stat pot fi tranzacționate doar după admiterea la tranzacționare pe piața reglementată administrată de BVB.
+6.8.
+Subscriere minimă Valoarea minimă a unei subscrieri este de 5.000 lei pentru emisiunile în lei (cu excepția celor dedicate donatorilor de sânge), reprezentând prețul de emisiune a minimum 50 de titluri de stat în lei, 500 lei pentru emisiunile în lei dedicate donatorilor de sânge, reprezentând prețul de emisiune a minimum 5 titluri de stat în lei și 1.000 euro pentru emisiunile în euro, reprezentând prețul de emisiune a minimum 10 titluri de stat în euro. Subscrierea de fracțiuni a numărului minim de titluri de stat ce pot fi subscrise nu este acceptată. Investitorii pot efectua subscrieri multiple prin intermediul oricărui intermediar sau participant eligibil.
+În cazul emisiunilor dedicate donatorilor de sânge, valoarea minimă a unei subscrieri este de 500 lei, reprezentând contravaloarea unui număr de minimum 5 titluri de stat denominate în lei la prețul de emisiune pentru emisiunea în lei.
+6.9.
+Metoda și calendarul pentru plata și livrarea titlurilor de stat 6.9.1.
+Plata titlurilor de stat Plata titlurilor de stat subscrise prin oricare membru al Sindicatului de intermediere va fi făcută prin virament bancar/prelevare automată în contul colector deschis la respectivul intermediar.
+Conturile colectoare pentru subscrierile titlurilor de stat oferite sunt următoarele: - pentru subscrierile de titluri de stat în lei prin BT & BT Capital Partners - contul bancar cu IBAN RO73BTRL0130120292569000 deschis la BT, beneficiar BT Capital Partners;
+- pentru subscrierile de titluri de stat în lei prin BRD - contul bancar cu IBAN RO67BRDE427SV00060054270 deschis la BRD, beneficiar BRD-BPF;
+- pentru subscrierile de titluri de stat în lei prin Alpha Bank, contul bancar cu IBAN RO19BUCU0011630006003RON deschis la Alpha Bank, beneficiar ABR-CMD;
+- pentru subscrierile de titluri de stat în lei prin Tradeville și Libra Bank - contul bancar cu IBAN RO93BREL0001070014420117 deschis la Libra Bank, beneficiar Tradeville - S.A.
+Plata titlurilor de stat subscrise prin BCR se va face conform prevederilor contractului de investiții financiare.
+Subscrierile prin participanții eligibili se vor face conform politicii acestora de preluare și executare a ordinelor de cumpărare.
+Aceste conturi colectoare sunt conturi bancare nepurtătoare de dobândă, iar pentru operațiunile realizate în aceste conturi bancare nu se percepe niciun fel de comision.
+Cu excepția subscrierilor efectuate în baza unui contract valid de servicii de investiții financiare întocmit cu investitorii, fiecare ordin de plată corespunde unei subscrieri și, prin urmare, nu este permisă cumularea mai multor ordine de plată pentru o singură subscriere. De asemenea, nu este permisă depunerea unui ordin de plată pentru mai multe subscrieri. În cazul în care o subscriere a fost anulată, suma depusă pentru subscrierea respectivă poate fi folosită pentru o nouă subscriere.
+Prețul de emisiune pentru titlurile de stat subscrise va fi plătit net de orice comisioane bancare. Investitorii trebuie să ia în considerare comisioanele bancare aplicabile transferurilor bancare (mai puțin în cazul în care sumele sunt returnate de BT Capital Partners în conturi deschise la BT, de BRD în conturi deschise la BRD, de Alpha Bank în conturi deschise la Alpha Bank sau de Tradeville în conturi deschise la Libra Bank), durata de timp necesară pentru realizarea transferurilor bancare, precum și prevederile din contractele de servicii de investiții financiare încheiate cu investitorii (dacă este cazul). Persoanele care subscriu și plătesc prin intermediul oricărui membru al Sindicatului de intermediere nu vor plăti niciun comision pentru transferul/prelevarea automată în conturile colectoare și nici pentru deschiderea de conturi curente în vederea subscrierii prin intermediul membrilor Sindicatului de intermediere.
+6.9.2.
+Procedura de validare a subscrierilor În cazul investitorilor care au un contract valid de servicii de investiții financiare încheiat cu unul dintre membrii Sindicatului de intermediere sau cu un participant eligibil, subscrierile vor fi acceptate în conformitate cu reglementările interne referitoare la acceptarea, validarea și transmiterea pentru executare a ordinelor, precum și în concordanță cu reglementările privind managementul riscului de decontare stabilite de către intermediarul respectiv. În cazul BCR, subscrierile vor fi făcute numai în baza unui ordin de cumpărare, emis în baza unui contract valid de servicii de investiții financiare.
+Orice subscriere este considerată validă la momentul înregistrării sumelor de bani corespunzătoare în contul colector sau în contul participantului eligibil/membrului Sindicatului de intermediere, dar nu mai târziu de ultima zi lucrătoare a perioadei ofertei, în concordanță cu Prospectul și prevederile contractului valid de servicii de investiții financiare. În cazul BCR, ordinele vor putea fi plasate cu condiția ca sumele aferente ordinului să existe deja în contul curent al clientului sau în contul de tranzacționare, în funcție de fluxul prin care se plasează ordinul.
+În cazul emisiunilor în lei, pentru investitorii care nu au încheiate contracte valide de servicii de investiții financiare cu membrii Sindicatului de intermediere BT Capital Partners/BT ca grup de distribuție, BRD, Alpha Bank, Libra Bank ca grup de distribuție al Tradeville, exceptând clienții care subscriu prin BCR, subscrierile vor fi acceptate numai cu condiția semnării formularului de subscriere, a prezentării, la momentul realizării subscrierii, a documentelor specificate în secțiunea 6.5 („Documentele necesare subscrierii”) și asigurării plății contravalorii titlurilor subscrise. Investitorii ar trebui să țină cont de faptul că transferul bancar ar putea dura 2-3 zile lucrătoare.
+În cazul subscrierilor realizate prin BT Capital Partners, BT, Tradeville, Libra Bank sau Alpha Bank, dacă sumele de bani aferente subscrierii depuse/transferate de investitori au o valoare mai mare decât suma obținută prin înmulțirea numărului de titluri de stat subscrise cu prețul de emisiune, subscrierea va fi validată pentru numărul de titluri de stat specificate în formularul de subscriere și diferența va fi returnată de către intermediar investitorilor în termen de cinci zile lucrătoare de la data decontării, prin transfer bancar, în conturile menționate de investitori în formularul de subscriere. Aceste sume nu vor fi purtătoare de dobândă. De asemenea, nu se vor cumula sumele depuse pentru subscrieri făcute în cazul unor scadențe diferite. Dacă sumele de bani aferente subscrierii depuse/transferate de investitori au o valoare mai mică decât suma obținută prin înmulțirea numărului de titluri de stat subscrise cu prețul de emisiune, subscrierea va fi invalidată. Suma de bani depusă în contul colector va fi returnată de către intermediar investitorilor în termen de cinci zile lucrătoare de la data decontării, prin transfer bancar, în conturile menționate de investitori în formularul de subscriere. Aceste sume nu vor fi purtătoare de dobândă. Pentru a putea face o nouă subscriere, dacă subscriitorul dorește acest lucru, subscriitorul trebuie să aibă suma necesară subscrierii în contul colector. Returnarea acestor sume se va face în concordanță cu prevederile contractului valabil de servicii de investiții (atunci când acesta a fost încheiat), care vor prevala.
+În cazul subscrierilor realizate prin BRD, plata titlurilor de stat subscrise se va efectua prin debitare automată a contului curent al subscriitorului deschis la BRD, în aceeași zi în care a fost înregistrat formularul de subscriere. Dacă sumele de bani existente în contul curent al subscriitorului pe perioada ofertei au o valoare mai mică decât suma obținută prin înmulțirea numărului de titluri de stat subscrise cu prețul de emisiune, prelevarea automată în contul colector nu va putea fi realizată, astfel că subscrierea va fi invalidată. Pentru ca subscrierea să fie validă, subscriitorul trebuie să aibă disponibilă suma necesară subscrierii în contul curent deschis la BRD în timp util, astfel încât contul colector să fie creditat prin prelevare automată cel târziu în ultima zi lucrătoare din perioada ofertei.
+În cazul emisiunilor în euro, precum și a celor în lei pentru investitorii cu contracte valide de servicii de investiții financiare, subscrierile se vor putea realiza și valida în baza și conform prevederilor contractului valid de servicii de investiții financiare încheiat cu investitorii de către unul dintre membrii Sindicatului de intermediere sau participant eligibil.
+Nici Sindicatul de intermediere și nici Emitentul nu vor fi răspunzători în cazul în care, din motive care nu se află sub controlul acestora, contul colector/contul participantului eligibil nu este efectiv creditat cu sumele reprezentând valoarea subscrierilor până inclusiv în ultima zi lucrătoare a perioadei ofertei.
+În urma validării subscrierilor, membrii Sindicatului de intermediere sau participanții eligibili vor înregistra ordinele corespunzătoare în sistemul de tranzacționare al Bursei de Valori București. Nivelul subscrierilor în cadrul ofertei va fi disponibil în sistemul de tranzacționare administrat de BVB. Oferta va avea loc prin sistemul de tranzacționare al BVB - Secțiunea de oferte pentru titluri de stat. Executarea și decontarea tranzacțiilor se vor realiza în conformitate cu procedurile BVB, precum și cu cele ale Depozitarului Central aplicabile ofertei. Subscrierile care nu sunt validate nu vor fi înregistrate în sistemul BVB și nu vor fi luate în considerare în procesul de alocare și sumele plătite de către investitorii ale căror subscrieri nu au fost validate vor fi transferate către respectivii investitori în termen de cinci zile lucrătoare de la data decontării prin transfer bancar în conturile investitorilor, conform prevederilor formularului de subscriere sau ale contractului de investiții financiare. Aceste sume nu sunt purtătoare de dobândă. În cazul subscrierilor realizate prin BRD și invalidate, sumele plătite se vor returna în contul din care s-a efectuat prelevarea/plata.
+Toate comisioanele legate de transferul bancar către investitori vor fi suportate de către investitori, mai puțin în cazul în care transferul se face de către oricare dintre membrii Sindicatului de intermediere într-un cont al investitorului deschis la respectivul membru.
+6.10.
+Alocarea și decontarea titlurilor de stat 6.10.1.
+Metoda de alocare Alocarea titlurilor de stat subscrise în cadrul ofertei se va efectua la data alocării, așa cum este definită în Termenii finali ai fiecărei emisiuni. Numărul final de titluri de stat oferite va fi stabilit la data alocării de către Emitent, cu consultarea Sindicatului de intermediere.
+Ordinele aferente subscrierilor alocate investitorilor pe baza subscrierilor validate de membrii Sindicatului de intermediere/ participanții eligibili vor fi înregistrate în sistemul de tranzacționare al BVB dedicat ofertelor publice (titluri de stat). Alocarea titlurilor de stat efectuată de Sindicatul de intermediere împreună cu Emitentul este obligatorie și este angajantă pentru investitori.
+La data alocării, dacă este cazul, BT Capital Partners, în calitate de lead manager al Sindicatului de intermediere, va publica indicele de alocare pe website-ul BVB, www.bvb.ro.
+Alocarea titlurilor de stat va fi realizată la data alocării, iar tranzacțiile vor fi încheiate la data tranzacției.
+Titlurile de stat alocate investitorilor vor fi transferate automat în secțiunea I a Registrului Depozitarului Central după data decontării, dar nu mai târziu de cinci zile lucrătoare, cu excepția titlurilor de stat alocate acelor investitori care au încheiat un contract de servicii de investiții financiare valabil cu unul dintre membrii Sindicatului de intermediere sau participantul eligibil prin intermediul căruia au subscris în cadrul ofertei, caz în care rămân în contul investitorului deschis la membrul sindicatului de intermediere sau participantul eligibil respectiv.
+6.10.2.
+Tranzacția și decontarea titlurilor de stat alocate Ordinele care corespund subscrierilor valide pentru titlurile de stat oferite, realizate de investitori, sunt introduse de către Sindicatul de intermediere și participanții eligibili în segmentul relevant al pieței ofertelor publice din cadrul BVB pe perioada ofertei, în timpul ședinței de tranzacționare, iar pentru ordinele introduse în ultima zi a perioadei de ofertă, acestea vor fi introduse până la finalul ședinței de tranzacționare din ziua respectivă.
+La data tranzacției, membrii Sindicatului de intermediere vor înregistra tranzacțiile corespunzător cu titlurile de stat alocate prin sistemul de tranzacționare al BVB. Decontarea va fi făcută utilizând sistemul de compensare-decontare al Depozitarului Central. Decontarea se va realiza la data decontării, respectiv în termen de două zile lucrătoare de la data tranzacției.
+În termen de o zi lucrătoare de la data tranzacției, fiecare dintre membrii Sindicatului de intermediere sau participantul eligibil va transmite către toți deținătorii de titluri de stat confirmările de tranzacție incluzând numărul de titluri de stat alocate, la adresa de contact menționată în formularul de subscriere/contractul de servicii de investiții financiare, prin e-mail.
+Acolo unde este cazul, orice diferență între suma subscrisă și prețul de emisiune al titlurilor de stat alocate va fi transferată către cei care au subscris în termen de cinci zile lucrătoare de la data decontării, în conturile bancare ale subscriitorilor, conform prevederilor formularului de subscriere. Transferul acestor sume se va face în concordanță cu prevederile contractului valabil de servicii de investiții (atunci când acesta a fost încheiat), care vor prevala.
+Toate comisioanele legate de transferul bancar către investitori vor fi suportate de către investitori, mai puțin în cazul în care transferul se face de către oricare dintre membrii Sindicatului de intermediere într-un cont al investitorului deschis la respectivul membru.
+Sumele achitate de investitori în contul colector, reprezentând valoarea totală de subscriere a titlurilor de stat subscrise, nu vor fi purtătoare de dobândă.
+6.10.3.
+Notificarea alocărilor BT Capital Partners va transmite către BVB un anunț cu privire la valoarea indicelui de alocare și valoarea finală a emisiunii, care va fi transmis ulterior de către BVB către participanții la piață, pe cale electronică, prin sistemele de comunicare ale acestuia, precum și către ASF.
+Ulterior datei tranzacției, investitorii vor primi confirmarea tranzacției în maximum o zi lucrătoare de la data tranzacției, prin mijloacele de comunicare utilizate de aceștia, după caz (de exemplu, telefon, poștă electronică).
+6.11.
+Publicarea rezultatelor ofertei Rezultatele ofertei vor fi notificate către ASF în termen de cinci zile lucrătoare de la închiderea ofertei și vor fi comunicate și către BVB.
+6.12.
+Costuri suplimentare la subscriere Persoanele care subscriu și plătesc prin intermediul oricărui membru al Sindicatului de intermediere nu vor avea de plătit niciun comision pentru transferul/prelevarea automată în contul colector și nici în cazul deschiderii unui cont bancar curent în vederea subscrierii în cadrul ofertei. Investitorii nu vor plăti niciun comision de piață sau de intermediere în legătură cu subscrierea de către aceștia a titlurilor de stat.
+6.13.
+Metoda de intermediere Metoda de intermediere este metoda celei mai bune execuții, ceea ce implică luarea măsurilor pe care Sindicatul de intermediere le consideră necesare și oportune pentru obținerea celor mai bune rezultate cu privire la plasarea titlurilor de stat, fără însă a însemna că Sindicatul de intermediere își asumă sau garantează în vreun fel faptul că va plasa oricare sau toate titlurile de stat sau că oferă orice declarație sau garanție cu privire la succesul ofertei.
+6.14.
+Ratingul emisiunii Nu a fost făcută nicio solicitare privind obținerea unui rating al titlurilor de stat.
+6.15.
+Utilizarea fondurilor obținute în urma derulării ofertei Emitentul va utiliza fondurile obținute în urma derulării ofertei pentru finanțarea deficitului bugetar, refinanțarea și rambursarea anticipată a datoriei publice guvernamentale.
+7.
+Admiterea la tranzacționare 7.1.
+Admiterea titlurilor de stat la tranzacționare și procedurile aferente tranzacționării Titlurile de stat vor fi admise de drept la tranzacționare pe piața reglementată la vedere administrată de BVB, sectorul „Titluri de credit”, categoria „Titluri de stat”, în conformitate cu dispozițiile art. 102 din Regulamentul ASF nr. 5/2018, cu modificările și completările ulterioare. Piața reglementată a BVB este o piață reglementată conform prevederilor art. 4 pct. 21 din Directiva MiFID II.
+Odată admise la tranzacționare, titlurile de stat vor fi tranzacționate, iar codul ISIN, CFI și simbolul de piață sunt definite în Termenii finali ai fiecărei emisiuni.
+Data începerii tranzacționării titlurilor de stat va fi prima zi lucrătoare după data decontării și va fi făcută publică printr-un comunicat publicat de Bursa de Valori București și de Emitent.
+7.2.
+Furnizori de lichiditate Emitentul a desemnat membrii Sindicatului de intermediere să asigure lichiditatea titlurilor de stat pe piața secundară. Ulterior admiterii la tranzacționare a titlurilor de stat, fiecare membru al Sindicatului de intermediere va publica cotații zilnice ferme de cumpărare prin intermediul BVB.
+Comisionul perceput de membrii Sindicatului de intermediere pentru vânzarea sau cumpărarea acestor titluri de stat pe piața secundară administrată de BVB este de maximum 0,1%, în timp ce ceilalți intermediari vor aplica propria politică de comisionare.
+7.3.
+Vânzarea/Cumpărarea titlurilor de stat înainte de scadență Piața secundară este piața pe care investitorii vor avea posibilitatea să cumpere și să vândă titlurile de stat emise de către Ministerul Finanțelor înainte de scadență. Cumpărarea și vânzarea titlurilor de stat admise la tranzacționare pe piața reglementată administrată de BVB se realizează prin intermediul societăților de servicii de investiții financiare („SSIF”), precum și prin instituțiile de credit autorizate să efectueze operațiuni pe piața de capital (împreună „intermediari”) admise ca participanți la sistemul de tranzacționare al BVB.
+Intermediarii sunt persoane juridice autorizate de ASF și înscrise în Registrul ASF. Lista intermediarilor autorizați de ASF este publicată pe site-ul ASF, www.asfromania.ro, și pe site-ul BVB, www.bvb.ro, secțiunea Intermediari, unde se găsesc și datele de contact ale acestora.
+În cazul persoanelor care au încheiat un contract de servicii de investiții financiare, plasarea unui ordin de vânzare/ cumpărare de titluri de stat se face în conformitate cu prevederile respectivului contract.
+Pașii necesari vânzării/cumpărării de titluri de stat în cazul persoanelor care nu au încheiat un contract de servicii de investiții financiare: -
+Prezentarea într-o unitate BT Capital Partners, BCR, BRD sau Alpha Bank și contactarea personalului autorizat în vederea încheierii unui contract de servicii de investiții financiare. Alternativ, investitorul se poate prezenta la sediul oricărui intermediar.
+-
+Încheierea contractului de servicii de investiții financiare. Un contract de servicii de investiții financiare trebuie să conțină cel puțin informații referitoare la: • natura serviciilor și tipul de instrumente tranzacționate; • durata contractului, modalitatea de prelungire, modificare sau reziliere; • drepturile și obligațiile celor două părți; • tipul, conținutul și frecvența documentelor pe care trebuie să le primească investitorul; • locația unde se va desfășura tranzacția (piața); • acordul investitorului privind prelucrarea datelor cu caracter personal; • comisioanele și tarifele percepute.
+Intermediarul va solicita investitorului o serie de informații în vederea determinării gradului de risc aferent profilului său investițional. Înaintea semnării contractului de servicii de investiții financiare și a cererii de deschidere de cont, intermediarul va înmâna persoanei respective un document de prezentare scris într-o formă ușor de înțeles, astfel încât aceasta să fie în măsură să înțeleagă natura și riscurile serviciilor de investiții financiare, precum și specificitatea instrumentului financiar ce urmează a fi tranzacționat, în acest caz, titlurile de stat.
+Persoana fizică va trebui să prezinte intermediarului un document de identificare în original și copie (B.I. sau C.I. sau pașaport sau alt document de identificare emis de autorități din țara de origine) și alte documente suplimentare în funcție de politica de cunoaștere și acceptare a clientelei a respectivului intermediar.
+-
+Ca urmare a semnării contractului de servicii de investiții financiare, intermediarul va deschide, în numele investitorului, un cont de tranzacționare. Acest cont reprezintă relația contractuală dintre investitor și intermediar. În acest cont vor fi depozitate fie sumele de bani necesare cumpărării titlurilor de stat, fie titlurile de stat, în scopul vânzării lor la BVB. În acest fel, intermediarul are posibilitatea de a iniția vânzarea sau cumpărarea de titluri de stat în numele investitorului.
+-
+Transferul titlurilor de stat din contul individual deschis în secțiunea specifică a Registrului Depozitarului Central în contul de tranzacționare deschis la intermediar se va realiza în baza unei declarații de achiziție prin care se solicită transferul instrumentelor financiare și a unei copii a confirmării de tranzacție conținând numărul de titluri alocate. Costul emiterii acestor documente poate fi diferit în funcție de intermediar. La membrii Sindicatului de intermediere (Alpha Bank, BT Capital Partners, BCR, BRD, Tradeville) costul este zero pentru titlurile de stat emise în baza prezentului prospect.
+-
+Investitorul poate transmite ordine de vânzare/cumpărare direct la sediul intermediarului, telefonic prin telefon înregistrat, prin aplicația online sau prin e-mail utilizând formularul de ordin pus la dispoziție de intermediar, în conformitate cu prevederile contractului de servicii de investiții financiare. Ordinele de tranzacționare transmise vor fi preluate de intermediar și vor fi introduse în sistemul de tranzacționare al BVB în vederea executării lor. În formularul de ordin investitorul trebuie să specifice cantitatea de titluri de stat pe care dorește să o tranzacționeze (să o cumpere/vândă) și prețul. Informațiile despre prețul de tranzacționare a titlurilor de stat pot fi obținute de la intermediar sau de pe site-ul BVB, www.bvb.ro. Pentru transmiterea unui ordin de vânzare/cumpărare nu se percepe niciun comision.
+-
+Tranzacția. Ordinul de tranzacționare va fi executat în momentul în care sunt îndeplinite condițiile cerute de investitor în ceea ce privește prețul. Ordinul de tranzacționare poate fi executat parțial în cazul în care nu există cerere suficientă la prețul respectiv. După executarea ordinelor de tranzacționare, intermediarul va transmite formularul de confirmare a executării tranzacției, printr-o metodă agreată în contractul de servicii de investiții financiare, în termen de maximum 24 de ore de la executarea ordinului de tranzacționare. Comisionul perceput de membrii Sindicatului de intermediere pentru vânzarea sau cumpărarea acestor titluri de stat de la BVB este de 0,1%, în timp ce societățile de investiții financiare vor aplica propria politica de comisionare.
+-
+Decontarea tranzacției. Ca urmare a executării ordinelor de tranzacționare au loc operațiunile de decontare a tranzacțiilor în vederea efectuării transferului de proprietate, respectiv transferul sumei de bani aferente. Decontarea are loc în termen de 2 (două) zile lucrătoare de la data tranzacției respective. Astfel, în cazul vânzării titlurilor de stat, investitorul va încasa banii din această operațiune în contul bancar individual, indicat în contractul de servicii de investiții financiare, în termen de 2 (două) zile lucrătoare de la data efectuării tranzacției, la cererea deținătorului venită prin una dintre modalitățile de comunicare menționate în contract. În cazul cumpărării titlurilor de stat, acestea vor fi evidențiate în contul de tranzacționare deschis la intermediar. Intermediarul care deține titlurile de stat în numele investitorului trebuie să transmită acestuia, periodic, pe un suport durabil, formularul de raportare privind activele clientului, dacă astfel de informații nu au fost furnizate prin intermediul altei raportări periodice.
+7.4.
+Documente disponibile În perioada cuprinsă după publicarea Prospectului în Monitorul Oficial al României, Partea I, și ultima zi a perioadei de ofertă, prezentul prospect și orice modificări ale acestuia sunt disponibile: a) pe website-ul Emitentului - www.mfinante.ro;
+b) pe website-ul BVB - www.bvb.ro;
+c) pe website-ul Alpha Bank - www.alphabank.ro;
+d) pe website-ul BT Capital Partners - www.btcapitalpartners.ro;
+e) pe website-ul BCR - www.bcr.ro;
+f) pe website-ul BRD - http://www.brd.ro/mfp;
+g) pe website-ul Tradeville - www.tradeville.ro.
+-----
