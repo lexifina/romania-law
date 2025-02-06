@@ -1,0 +1,42 @@
+{
+ "key": "cjue-c-492-23-concluzii-2025-02-06",
+ "label": "CJUE, Concluziile avocatului general domnul M. Szpunar prezentate la 6 februarie 2025, Cauza C-492/23.",
+ "court": "cjue",
+ "court_name": "Curtea de Justiție a Uniunii Europene",
+ "kind": "concluzii",
+ "act_type": "OPIN_AG",
+ "date": "2025-02-06",
+ "year": "2025",
+ "case": "Cauza C-492/23.",
+ "celex": "62023CC0492",
+ "ecli": "ECLI:EU:C:2025:68",
+ "heading": "Concluziile avocatului general domnul M. Szpunar prezentate la 6 februarie 2025",
+ "formation": null,
+ "procedure": "REFER_PREL",
+ "romania_role": [
+  "originates"
+ ],
+ "referred_by": null,
+ "referral_text": "Cererea de decizie preliminară formulată de Curtea de Apel Cluj.",
+ "national_followup": null,
+ "parties": "X împotriva Russmedia Digital SRL și Inform Media Press SRL.",
+ "parties_withheld": false,
+ "keywords": "Trimitere preliminară – Protecția datelor cu caracter personal – Regulamentul (UE) 2016/679 – Articolul 4 punctul 7 – Noțiunea de «operator» – Responsabilitatea operatorului unei piețe online pentru publicarea datelor cu caracter personal conținute în anunțurile plasate pe piața sa online de către utilizatori care publică anunțuri – Articolul 5 alineatul (2) – Principiul responsabilității – Articolul 26 – Responsabilitate comună cu acești utilizatori care publică anunțuri – Articolul 9 alineatul (1) și alineatul (2) litera (a) – Anunțuri care conțin date sensibile – Legalitatea prelucrării – Consimțământ – Articolele 24, 25 și 32 – Obligațiile operatorului – Identificarea prealabilă a anunțurilor care conțin astfel de date – Verificarea prealabilă a identității utilizatorului care publică anunțul – Refuzul publicării anunțurilor ilicite – Măsuri de securitate de natură să împiedice copierea anunțurilor și publicarea lor pe alte site‑uri internet – Comerț electronic – Directiva 2000/31/CE – Articolele 12-15 – Posibilitatea unui astfel de operator de a se prevala, în privința unei încălcări a acestor obligații, de exonerarea de răspundere a unui furnizor intermediar de servicii ale societății informaționale.",
+ "interprets": [],
+ "text": null,
+ "text_withheld": "personal_data",
+ "withheld_reason": "The full text names the parties' lawyers (and, in older cases, private parties); only the metadata and the operative part are published here, with the official link.",
+ "operative_missing": null,
+ "eurlex_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62023CC0492",
+ "curia_url": "https://curia.europa.eu/juris/liste.jsf?num=C-492/23&language=ro",
+ "source": {
+  "name": "CELLAR, Publications Office of the European Union",
+  "url": "http://publications.europa.eu/resource/cellar/7d994215-e47f-11ef-bc1c-01aa75ed71a1.0022.05/DOC_1",
+  "format": "xhtml",
+  "sha256": [
+   "e547b5a8ca1d1dce74306c434771e11df48daec142039aa370a024098d7c7e78"
+  ]
+ },
+ "legal_basis": "Jurisprudența Curții de Justiție a Uniunii Europene (texte oficiale; reutilizare permisă cu menționarea sursei: Decizia Comisiei 2011/833/UE și condițiile CURIA; © Uniunea Europeană). Textele oficiale nu sunt protejate de dreptul de autor în România (Legea nr. 8/1996, art. 9 lit. b).",
+ "attribution": "© European Union, https://eur-lex.europa.eu (via the Publications Office CELLAR)"
+}
