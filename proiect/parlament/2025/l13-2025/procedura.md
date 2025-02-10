@@ -14,6 +14,7 @@ Initiator: Guvernul României.
 - 2025-02-04: documents published: Aviz comisie
 - 2025-02-05: adopted by the Chamber of Deputies; documents published: Raport comisie sesizată pe fond, Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-02-07: sent for promulgation
+- 2025-02-10: promulgated, becomes Legea nr. 9/2025; published in the Monitorul Oficial; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -47,3 +48,5 @@ Initiator: Guvernul României.
 - 2025-02-05: Raport comisie sesizată pe fond (CR): [cr-098e7fb0.md](cr-098e7fb0.md); official file https://www.senat.ro/legis/PDF/2025/25L013CR.PDF
 - 2025-02-05: Adresă privind sesizarea CCR (AXS): [axs-59dd3f4e.md](axs-59dd3f4e.md); official file https://www.senat.ro/legis/PDF/2025/25L013AXS.PDF
 - 2025-02-05: Forma trimisă la promulgare (LP): [lp-58c8f396.md](lp-58c8f396.md); official file https://www.senat.ro/legis/PDF/2025/25L013LP.PDF
+- 2025-02-10: Decret de promulgare (DP): [dp-7838ceb7.md](dp-7838ceb7.md); official file https://www.senat.ro/legis/PDF/2025/25L013DP.PDF
+- 2025-02-10: Forma promulgată (FP): [fp-546660a8.md](fp-546660a8.md); official file https://www.senat.ro/legis/PDF/2025/25L013FP.PDF
