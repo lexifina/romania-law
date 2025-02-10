@@ -14,6 +14,7 @@ Initiator: Guvernul României.
 - 2025-02-03: registered at the Chamber of Deputies; adopted by the Senate; documents published: Raport comisie sesizată pe fond, Forma adoptată de Senat, Adresă către Camera Deputaților
 - 2025-02-05: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-02-07: sent for promulgation
+- 2025-02-10: promulgated, becomes Legea nr. 8/2025; published in the Monitorul Oficial; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -27,3 +28,5 @@ Initiator: Guvernul României.
 - 2025-02-03: Adresă către Camera Deputaților (AM): [am-bcdc2ecc.md](am-bcdc2ecc.md); official file https://www.senat.ro/legis/PDF/2025/25L012AM.PDF
 - 2025-02-05: Adresă privind sesizarea CCR (AXS): [axs-33569ecd.md](axs-33569ecd.md); official file https://www.senat.ro/legis/PDF/2025/25L012AXS.PDF
 - 2025-02-05: Forma trimisă la promulgare (LP): [lp-6ff71959.md](lp-6ff71959.md); official file https://www.senat.ro/legis/PDF/2025/25L012LP.PDF
+- 2025-02-10: Decret de promulgare (DP): [dp-2895bd41.md](dp-2895bd41.md); official file https://www.senat.ro/legis/PDF/2025/25L012DP.PDF
+- 2025-02-10: Forma promulgată (FP): [fp-3e8661bc.md](fp-3e8661bc.md); official file https://www.senat.ro/legis/PDF/2025/25L012FP.PDF
