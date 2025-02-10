@@ -1,0 +1,22 @@
+# Anexa nr. 1a
+AGENȚIA NAȚIONALĂ DE ADMINISTRARE FISCALĂ
+DIRECȚIA GENERALĂ ANTIFRAUDĂ FISCALĂ
+Direcția^1........................
+SIGLĂ ^1 Se menționează direcția regională antifraudă fiscală din care fac parte inspectorii antifraudă care efectuează controlul, după caz.
+PROCES-VERBAL încheiat în............... ziua..... luna..... anul.....
+Subsemnații^2,..................................., având funcția de inspector antifraudă în cadrul Agenției Naționale de Administrare Fiscală - Direcția generală antifraudă fiscală, în baza prevederilor Ordonanței de urgență a Guvernului nr. 74/2013, aprobată cu modificări și completări prin Legea nr. 144/2014, cu modificările ulterioare, și ale Legii nr. 207/2015 privind Codul de procedură fiscală, cu modificările și completările ulterioare, a ordinelor de serviciu permanent și a legitimațiilor de control nr................, am efectuat, în perioada...................., un control antifraudă la................., având codul de identificare fiscală.................., înmatriculată la Oficiul Național al Registrului Comerțului cu nr....................., cu sediul social în localitatea......................., bd./str................. nr......., bl...., sc......, et......, ap......, județul/sectorul..............., cu domiciliul fiscal în localitatea....................., bd./str............................ nr......., bl...., sc...., et...., ap...., județul/sectorul................., având următoarele obiective:..................................................................... ^2 Numele și prenumele complete ale fiecărui inspector antifraudă.
+Contribuabilul/Plătitorul are ca obiect principal de activitate declarat^3................................... și desfășoară efectiv activitate constând în......................................................... ^3 Denumirea și clasificarea cod CAEN ale obiectului principal de activitate declarat.
+Controlul s-a desfășurat^4............................., unde contribuabilul/plătitorul sus-menționat are^5......................................... ^4 Adresa sediului social/domiciliului fiscal/sediului secundar (punct de lucru, sucursală, subunitate) sau adresa locului în care se desfășoară controlul. ^5 Menționarea tipului de sediu (sediul social/domiciliul fiscal, sediul secundar, punct de lucru, sucursală, subunitate). În situația în care nu este niciunul dintre locurile menționate anterior se precizează informațiile disponibile referitoare la locul controlului, respectiv cele referitoare la proprietar/deținător și motivele pentru care controlul se desfășoară la adresa respectivă.
+În timpul controlului contribuabilul/plătitorul a fost reprezentat de^6......................., având calitatea de............................... ^6 Numele, prenumele, CNP ori numele, prenumele, seria și numărul actului de identitate, statul emitent și data emiterii, în cazul persoanelor care nu au domiciliul în România, pentru persoanele care reprezintă contribuabilul/plătitorul în timpul controlului.
+Capitolul I
+Constatări.....................................................................
+Capitolul II
+Prevederile legale încălcate.....................................................................
+Capitolul III
+Consecințe și măsuri dispuse în timpul controlului.....................................................................
+La terminarea controlului au fost restituite toate documentele/înscrisurile originale puse la dispoziția organelor de control, cu excepția celor reținute, pentru care s-a întocmit proces-verbal de ridicare de înscrisuri.
+Față de constatările înscrise în prezentul proces-verbal, contribuabilul/plătitorul a formulat/nu a formulat punct de vedere^7..................................................... Punctul de vedere față de constatările menționate în procesul-verbal poate fi comunicat în termen de 5 zile lucrătoare de la comunicare. ^7 Se consemnează, după caz, punctul de vedere al contribuabilului/plătitorului.
+Prezentul proces-verbal s-a întocmit în............... exemplare, dintre care un exemplar a fost înmânat contribuabilului/plătitorului și a fost înregistrat în Registrul unic de control la poziția nr.....................................
+Inspectori antifraudă,.................................................................................................... (numele, prenumele și semnătura)
+Contribuabil/Plătitor,.......................................................... (denumirea)
+Reprezentant,................................................... (numele, prenumele și semnătura)

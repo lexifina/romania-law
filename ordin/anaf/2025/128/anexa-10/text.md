@@ -1,0 +1,19 @@
+# Anexa nr. 4b
+Instrucțiuni de completare și utilizare a formularului
+„Proces-verbal de prelevare probe”
+1.
+Reprezintă documentul pe care inspectorii antifraudă îl întocmesc pentru prelevarea unor probe. Prin excepție de la pct. 1 din anexa nr. 3b la ordin, în cazul sigiliilor de unică folosință aplicate probelor prelevate nu se întocmește proces-verbal de sigilare/desigilare. Informațiile referitoare la sigiliile de unică folosință aplicate se regăsesc, în mod corespunzător, printre cele înscrise la fiecare probă/eșantion constituită/constituit.
+2.
+Se completează de inspectorii antifraudă cu ocazia controlului, când există suspiciuni cu privire la originea, autenticitatea sau natura marcajelor/produselor care fac obiectul prelevării. Procesul-verbal de prelevare probe poate cuprinde datele/informațiile de la lit. A, lit. B ori de la lit. A și B, în funcție de tipul probelor prelevate. 2.1.
+În cazul marcajelor, după prelevarea probelor se formează 4 plicuri, în care se introduc același număr și aceleași tipuri de marcaje. Plicurile cu marcaje vor fi sigilate și semnate de echipa de control și de reprezentantul contribuabilului/plătitorului. Cele 4 plicuri vor circula astfel: - plicul nr. 1 se lasă contribuabilului/plătitorului;
+- plicurile nr. 2, 3 și 4 se ridică de către echipa de control. Plicul nr. 2 rămâne în posesia echipei de control, plicul nr. 3 se transmite spre expertizare Companiei Naționale „Imprimeria Națională” - S.A., iar plicul nr. 4 se păstrează la organul de control pentru a fi utilizat la contraexpertiză, dacă este cazul.
+2.2.
+În cazul eșantioanelor de produse se prelevează 4 probe, care vor avea următoarea destinație: - proba/eșantionul nr. 1 se lasă contribuabilului/plătitorului;
+- probele/eșantioanele nr. 2, 3 și 4 se ridică de către echipa de control. Proba/Eșantionul nr. 2 rămâne în posesia echipei de control, proba/eșantionul nr. 3 se transmite spre analiză/examinare/expertizare în laboratoare de specialitate agreate, iar proba/eșantionul nr. 4 se păstrează la organul de control pentru a fi utilizat(ă) la contraexpertiză, dacă este cazul.
+Descrierea produselor prelevate va cuprinde date/informații cu privire la recipientele/pachetele în care sunt ambalate (de exemplu: pachete conținând fiecare 20 de țigarete ș.a.m.d.) și orice alte date/informații relevante care permit individualizarea produsului precum denumirea, tipul și, în măsura în care sunt disponibile, date/informații semnificative extrase de pe eventualele etichete aplicate pe produse (de exemplu: denumirea producătorului, codul de bare/identificare ș.a.m.d.). În situația în care produsele prelevate sunt marcate și banderolele/timbrele nu fac obiectul prelevării și nu se desprind de pe produse la momentul controlului/prelevării, descrierea produselor prelevate va cuprinde și datele/informațiile aferente marcajelor aplicate pe fiecare produs.
+3.
+Procesul-verbal de prelevare probe se semnează de către inspectorii antifraudă și de către reprezentantul contribuabilului pe fiecare pagină completată.
+4.
+În situația în care, la momentul încheierii procesului-verbal de prelevare probe, la locul efectuării controlului nu se află niciun reprezentant al contribuabilului/plătitorului verificat sau, deși prezent, refuză sau nu poate să semneze, acest fapt se va menționa în cuprinsul procesului-verbal de prelevare probe, iar prelevarea de probe se efectuează în prezența cel puțin a unui martor asistent. În lipsa unui martor, inspectorii antifraudă vor preciza motivele care au condus la încheierea procesului-verbal de prelevare probe în acest mod. Nu poate avea calitatea de martor un alt inspector antifraudă.
+5.
+Procesul-verbal de prelevare probe se comunică contribuabilului/plătitorului, conform prevederilor art. 47 din Legea nr. 207/2015 privind Codul de procedură fiscală, cu modificările și completările ulterioare.
