@@ -1,0 +1,23 @@
+# ANEXA NR. 17 (Anexa nr. 18 la Ordinul nr. 106/2024)
+Denumire solicitant
+CUI/CF.......
+ID APIA.......
+Cod ANSVSA RO.......
+Localitatea exploatației Cod ANSVSA
+Județul.......
+Situația centralizatoare a evidențelor privind respectarea suprafeței de pardoseală disponibilă în condiții superioare de bunăstare pentru categoria tineret la îngrășat (PD- 08) perioada*....... anul.......
+Din cadrul exploatației cu cod ANSVSA.......
+Nr. crt.
+Luna
+Spațiu creștere (grajd/ compartiment/ boxă) (mp)**
+Nr. maxim animale din luna (cap)
+Nr. maxim animale din luna (UVM)
+Structura de greutate (kg)
+Suprafața utilă grajd/ compartiment/ boxa(mp)
+Suprafața pe cap de animal asigurată (mp)
+Efectivul realizat (stoc+intrări-mortalități 1 2 3......
+Notă:
+* Situația centralizatoare va fi întocmită pentru perioada aferentă fiecărui decont justificativ.
+** Se completează în funcție de evidențele beneficiarului.
+Reprezentant legal,
+Semnătură
