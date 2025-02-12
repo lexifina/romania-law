@@ -1,0 +1,40 @@
+{
+ "key": "cjue-t-245-24-hotarare-2025-02-12",
+ "label": "CJUE, Hotărârea Tribunalului (Camera a șasea) din 12 februarie 2025, Cauza T-245/24",
+ "court": "cjue",
+ "court_name": "Curtea de Justiție a Uniunii Europene",
+ "kind": "hotarare",
+ "act_type": "JUDG",
+ "date": "2025-02-12",
+ "year": "2025",
+ "case": "Cauza T-245/24",
+ "celex": "62024TJ0245",
+ "ecli": "ECLI:EU:T:2025:145",
+ "heading": "Hotărârea Tribunalului (Camera a șasea) din 12 februarie 2025",
+ "formation": "CHAMB_06_T",
+ "procedure": "ACTION_ANNU",
+ "romania_role": [
+  "originates"
+ ],
+ "referred_by": null,
+ "referral_text": null,
+ "national_followup": null,
+ "parties": null,
+ "parties_withheld": true,
+ "keywords": "Desen sau model industrial comunitar – Procedură de declarare a nulității – Desen sau model industrial comunitar înregistrat care reprezintă o cutie de carton [ambalaj] – Mărci naționale verbale anterioare – Motiv de nulitate – Utilizare în desenul sau modelul industrial ulterior a unui semn distinctiv a cărui utilizare poate fi interzisă de titular – Articolul 25 alineatul (1) litera (e) din Regulamentul (CE) nr. 6/2002 – Articolul 27 alineatul (2) din Regulamentul delegat (UE) 2018/625 – Lipsa similitudinii produselor",
+ "interprets": [],
+ "text": null,
+ "text_withheld": "personal_data",
+ "withheld_reason": "The full text names the parties' lawyers (and, in older cases, private parties); only the metadata and the operative part are published here, with the official link.",
+ "operative_missing": true,
+ "eurlex_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62024TJ0245",
+ "curia_url": "https://curia.europa.eu/juris/liste.jsf?num=T-245/24&language=ro",
+ "source": {
+  "name": "CELLAR, Publications Office of the European Union",
+  "url": null,
+  "format": null,
+  "sha256": null
+ },
+ "legal_basis": "Jurisprudența Curții de Justiție a Uniunii Europene (texte oficiale; reutilizare permisă cu menționarea sursei: Decizia Comisiei 2011/833/UE și condițiile CURIA; © Uniunea Europeană). Textele oficiale nu sunt protejate de dreptul de autor în România (Legea nr. 8/1996, art. 9 lit. b).",
+ "attribution": "© European Union, https://eur-lex.europa.eu (via the Publications Office CELLAR)"
+}
