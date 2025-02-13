@@ -1,0 +1,21 @@
+# Proiect de lege L29/2025
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 64/2025 (`legea-64-2025`).
+
+Proiect de lege pentru abrogarea art.197 alin.(4)-(13) din Legea nr.135/2010 privind Codul de procedură penală
+
+Initiator: Guvernul României.
+
+## Stages published so far
+
+- 2025-02-13: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+
+## Documents
+
+- 2025-02-13: Adresă de înaintare a inițiativei (AD): [ad-bdded3c8.md](ad-bdded3c8.md); official file https://www.senat.ro/legis/PDF/2025/25L029AD.PDF
+- 2025-02-13: Forma inițiatorului (FG): [fg-083dd37e.md](fg-083dd37e.md); official file https://www.senat.ro/legis/PDF/2025/25L029FG.PDF
+- 2025-02-13: Expunere de motive (EM): [em-9c4d0f82.md](em-9c4d0f82.md); official file https://www.senat.ro/legis/PDF/2025/25L029EM.PDF
+- 2025-02-13: Aviz Consiliul Legislativ (LG): [lg-dd3337c0.md](lg-dd3337c0.md); official file https://www.senat.ro/legis/PDF/2025/25L029LG.PDF
+- 2025-02-13: Document (HG): [hg-96eadae4.md](hg-96eadae4.md); official file https://www.senat.ro/legis/PDF/2025/25L029HG.PDF
