@@ -1,0 +1,345 @@
+# ANEXĂ
+MODIFICĂRI ȘI COMPLETĂRI ale anexei nr. 2 la Ordinul ministrului sănătății și al președintelui
+Casei Naționale de Asigurări de Sănătate nr. 1.605/875/2014 privind aprobarea modului de calcul, a listei denumirilor comerciale și a prețurilor de decontare ale medicamentelor care se acordă bolnavilor în cadrul programelor naționale de sănătate și a metodologiei de calcul al acestora
+1.
+La secțiunea P1 „Programul național de boli transmisibile” litera A) „Subprogramul de tratament și monitorizare a persoanelor cu infecție HIV/SIDA și tratamentul postexpunere”, poziția 536 se abrogă.
+2.
+La secțiunea P1 „Programul național de boli transmisibile” litera A) „Subprogramul de tratament și monitorizare a persoanelor cu infecție HIV/SIDA și tratamentul postexpunere”, după poziția 551 se introduc trei noi poziții, pozițiile 552-554, cu următorul cuprins: 552
+W70493002
+J01FA10
+AZITHROMYCINUM
+AZITROMICINĂ SANDOZ 250 mg
+COMPR. FILM. 250 mg
+SANDOZ PHARMACEUTICALS - S.R.L.
+ROMÂNIA
+CUTIE CU 1 BLIST. PVC-PVDC/AL X 6 COMPR. FILM.
+PRF 6 2,261666 3,056666 0,000000 553
+W70494001
+J01FA10
+AZITHROMYCINUM
+AZITROMICINĂ SANDOZ 500 mg
+COMPR. FILM. 500 mg
+SANDOZ PHARMACEUTICALS - S.R.L.
+ROMÂNIA
+CUTIE CU 1 BLIST. PVC-PVDC/AL X 3 COMPR. FILM.
+PRF 3 2,973333 4,016666 0,000000 554
+W70632001
+J05AF07
+TENOFOVIRUM DISOPROXIL
+TENOFOVIR DISOPROXIL VIATRIS 245 mg
+COMPR. FILM. 245 mg
+VIATRIS LIMITED
+IRLANDA
+CUTIE CU 1 FLAC. DIN PEID X 30 COMPR. FILM.
+PR 30 15,648000 18,328000 0,000000
+3.
+La secțiunea P3 „Programul național de oncologie”, pozițiile 271, 273, 275, 322, 522, 716, 739, 741 și 742 se modifică și vor avea următorul cuprins: 271
+W64607001
+L01EA03
+NILOTINIBUM**1
+TASIGNA 150 mg
+CAPS. 150 mg
+NOVARTIS EUROPHARM LTD.
+IRLANDA
+CUTIE X 28 CAPS. (BLIST. PVC/PVDC/AL) (CUTIE DIN CARTON)
+PR 28 70,284964 77,785500 17,474500..................... 273
+W64606002
+L01EA03
+NILOTINIBUM**1
+TASIGNA 200 mg
+CAPS. 200 mg
+NOVARTIS EUROPHARM LTD.
+IRLANDA
+CUTIE DE CARTON X 28 CAPS. (BLIST. PVC/PVDC/AL)
+PR 28 74,123678 82,011535 29,329179..................... 275
+W64606001
+L01EA03
+NILOTINIBUM**1
+TASIGNA 200 mg
+CAPS. 200 mg
+NOVARTIS EUROPHARM LTD.
+IRLANDA
+CUTIE X 28 CAPS. (BLIST. PVC/PVDC/AL)
+PR 28 74,123678 82,011535 29,329179.................... 322
+W64505001
+L01EG02
+EVEROLIMUS**1
+AFINITOR 10 mg
+COMPR. 10 mg
+NOVARTIS EUROPHARM LTD.
+IRLANDA
+CUTIE CU BLIST. AL/PA/AL/PVC X 30 COMPR.
+PR 30 88,284799 98,718799 87,640867..................... 522
+W64833002
+L01XE21
+REGORAFENIBUM**1
+STIVARGA
+COMPR. FILM. 40 mg
+BAYER AG
+GERMANIA
+CUTIE CU 3 FLAC. DIN PEID X 28 COMPR. FILM. (AMBALAJ MULTIPLU)
+PR 84 125,135000 138,215238 0,000000.................... 716
+W68142001
+L04AX06
+POMALIDOMIDUM**1
+IMNOVID 3 mg
+CAPS. 3 mg
+BRISTOL-MYERS SQUIBB PHARMA EEIG
+IRLANDA
+CUTIE CU BLIST. PVC/PCTFE X 21 CAPS.
+PR 21 1.334,824761 1.471,325238 0,000000.................... 739
+W52218002
+V03AF03
+CALCII FOLINAS
+FOLCASIN 10 mg/ml
+SOL. INJ./PERF. 10 mg/ml
+ACTAVIS - S.R.L.
+ROMÂNIA
+CUTIE CU 1 FLAC. DIN STICLĂ BRUNĂ X 10 ML SOL. INJ./PERF.
+S/P-RF 1 31,680000 38,676000 69,424000.................... 741
+W64436002
+V03AF03
+CALCII FOLINAS
+FOLCASIN 10 mg/ml
+SOL. INJ./PERF. 10 mg/ml
+TEVA B.V.
+OLANDA
+CUTIE CU 1 FLAC. DIN STICLĂ BRUNĂ X 10 ML SOL. INJ./PERF.
+PR 1 31,680000 38,676000 69,424000 742
+W62525006
+V03AF03
+CALCII FOLINAS
+FOLINAT DE CALCIU KABI 10 mg/ml
+SOL. INJ./PERF. 10 mg/ml
+FRESENIUS KABI DEUTSCHLAND GMBH
+GERMANIA
+CUTIE CU 10 FLACOANE DIN STICLĂ BRUNĂ, PREVĂZUTE CU DOP DIN CAUCIUC CLOROBUTILIC ȘI SIGILATE CU CAPSĂ DIN AL TIP FLIP-OFF ȘI DISC DE CULOARE GALBENĂ, CARE CONȚIN 10 ML SOL. INJ./PERF.
+PR 10 31,680000 38,676000 46,829000
+4.
+La secțiunea P3 „Programul național de oncologie”, pozițiile 467 și 644 se abrogă.
+5.
+La secțiunea P3 „Programul național de oncologie”, după poziția 743 se introduc șase noi poziții, pozițiile 744-749, cu următorul cuprins: 744
+W70420003
+L01CD04
+CABAZITAXELUM**1
+CABAZITAXEL SANDOZ 10 mg/ml
+CONC. PT. SOL. PERF. 10 mg/ml
+SANDOZ PHARMACEUTICALS - S.R.L.
+ROMÂNIA
+CUTIE CU 1 FLAC. DIN STICLĂ TRANSPARENTĂ A 6 ML CONC. PT. SOL. PERF.
+PR 1 7.064,790000 7.815,780000 0,000000 745
+W70420001
+L01CD04
+CABAZITAXELUM**1
+CABAZITAXEL SANDOZ 10 mg/ml
+CONC. PT. SOL. PERF. 10 mg/ml
+SANDOZ PHARMACEUTICALS - S.R.L.
+ROMÂNIA
+CUTIE CU 1 FLAC. DIN STICLĂ TRANSPARENTĂ A 4,5 ML CONC. PT. SOL. PERF.
+PR 1 5.306,090000 5.879,630000 0,000000 746
+W70540001
+L01EA03
+NILOTINIBUM**1
+KRUFTON 150 mg
+CAPS. 150 mg
+EGIS PARMACEUTICALS PLC
+UNGARIA
+AMBALAJ MULTIPLU CONȚINÂND 112 (4 CUTII A CÂTE 28 CAPS. ÎN BLIST. PVC-PE-PDVC/AL) CAPS.
+PR 112 58,570803 64,821250 0,000000 747
+W70541001
+L01EA03
+NILOTINIBUM**1
+KRUFTON 200 mg
+CAPS. 200 mg
+EGIS PARMACEUTICALS PLC
+UNGARIA
+AMBALAJ MULTIPLU CONȚINÂND 112 (4 CUTII A CÂTE 28 CAPS. ÎN BLIST. PVC-PE-PDVC/AL) CAPS.
+PR 112 61,769732 68,342946 0,000000 748
+W70018004
+L01EX03
+PAZOPANIBUM**1
+PAZOPANIB ACCORD 200 mg
+COMPR. FILM. 200 mg
+ACCORD HEALTHCARE POLSKA SP. Z O.O.
+POLONIA
+CUTIE CU BLIST. PVC-PE-PVDC/AL X 90 COMPR. FILM.
+PR 90 42,775333 47,515222 0,000000 749
+W70818001
+V03AF03
+CALCII FOLINAS
+EUROFOLIC 10 mg/ml
+SOL. INJ. 100 mg/10 ml
+CN UNIFARM - S.A.
+ROMÂNIA
+CUTIE CU 5 FLAC. A CÂTE 10 ML SOL. INJ.
+PR 5 26,400000 32,230000 0,000000
+6.
+La secțiunea P4 „Programul național de boli neurologice - Subprogramul de tratament al sclerozei multiple”, pozițiile 16-20, 22-24 și 35 se modifică și vor avea următorul cuprins: 16
+W69302002
+L04AA31
+TERIFLUNOMIDUM**1
+AUBAGIO
+COMPR. FILM. 14 mg
+SANOFI WINTHROP INDUSTRIE
+FRANȚA
+CUTIE CU 28 COMPR. FILM.
+PR 28 47,012428 52,300999 67,962215 17
+W69306001
+L04AA31
+TERIFLUNOMIDUM**1
+TERIFLUNOMIDĂ MYLAN 14 mg
+COMPR. FILM. 14 mg
+MYLAN PHARMACEUTICALS LIMITED
+IRLANDA
+CUTIE CU BLIST. OPA/AL/PVC-AL X 28 COMPR. FILM.
+PR 28 47,012428 52,300999 8,613286 18
+W69287002
+L04AA31
+TERIFLUNOMIDUM**1
+TEREBYO 14 mg
+COMPR. FILM. 14 mg
+SANDOZ - S.R.L.
+ROMÂNIA
+CUTIE CU BLIST. OPA-AL-PVC/AL X 28 COMPR. FILM.
+PR 28 47,012428 52,300999 8,613286 19
+W70374002
+L04AA31
+TERIFLUNOMIDUM**1
+TEREBYO 14 mg
+COMPR. FILM. 14 mg
+SANDOZ PHARMACEUTICALS - S.R.L.
+ROMÂNIA
+CUTIE CU BLIST. OPA-AL-PVC/AL X 28 COMPR. FILM.
+PR 28 47,012428 52,300999 8,613286 20
+W69707001
+L04AA31
+TERIFLUNOMIDUM**1
+TERIFLUNOMIDĂ DR. REDDY'S 14 mg
+COMPR. FILM. 14 mg
+DR. REDDY'S LABORATORIES
+ROMÂNIA
+CUTIE CU BLIST. OPA-AL-PVC-AL X 28 COMPR. FILM.
+PR 28 47,012428 52,300999 27,538643............................. 22
+W69318001
+L04AA31
+TERIFLUNOMIDUM**1
+BOZILOS 14 mg
+COMPR. FILM. 14 mg
+EGIS PARMACEUTICALS PLC
+UNGARIA
+CUTIE CU BLIST. OPA-AL-PVC/AL X 28 COMPR. FILM.
+PR 28 47,012428 52,300999 8,613286 23
+W60449002
+L04AA31
+TERIFLUNOMIDUM**1
+AUBAGIO
+COMPR. FILM. 14 mg
+SANOFI - AVENTIS GROUPE
+FRANȚA
+CUTIE CU 28 COMPR. FILM.
+PR 28 47,012428 52,300999 67,962215 24
+W69450001
+L04AA31
+TERIFLUNOMIDUM**1
+TERIFLUNOMIDĂ ZENTIVA 14 mg
+COMPR. FILM. 14 mg
+ZENTIVA, K.S.
+REPUBLICA CEHĂ
+CUTIE CU BLIST. OPA-AL-PVC-AL X 28 COMPR. FILM.
+PR 28 47,012428 52,300999 28,542929............................. 35
+W70385001
+L04AG08
+OCRELIZUMABUM**1 Ω
+OCREVUS 920 mg
+SOL. INJ. 40 mg/ml
+ROCHE REGISTRATION GMBH
+GERMANIA
+CUTIE CU 1 FLAC. X 23 ML SOL. INJ.
+PR 1 41.731,040000 45.979,850000 0,000000
+7.
+La secțiunea P4 „Programul național de boli neurologice - Subprogramul de tratament al sclerozei multiple”, după poziția 39 se introduce o nouă poziție, poziția 40, cu următorul cuprins: 40
+W69294002
+L04AA31
+TERIFLUNOMIDUM**1
+TERIFLUNOMIDĂ STADA 14 mg
+COMPR. FILM. 14 mg
+STADA M D - S.R.L.
+ROMÂNIA
+CUTIE CU BLIST. DIN OPA-AL-PVC/AL X 84 COMPR. FILM.
+PR 84 39,177023 43,584166 0,000000
+8.
+La secțiunea P5 „Programul național de diabet zaharat - Tratamentul medicamentos al bolnavilor cu diabet zaharat”, după poziția 183 se introduce o nouă poziție, poziția 184, cu următorul cuprins: 184
+W70455002
+A10BH01
+SITAGLIPTINUM**
+JAZETA NOVUM 100 mg
+COMPR. FILM. 100 mg
+ZENTIVA, K.S.
+REPUBLICA CEHĂ
+CUTIE CU BLIST. PVC-PVDC/AL X 28 COMPR. FILM.
+PRF 28 1,331142 1,741285 1,647286
+9.
+La secțiunea P6 „Programul național de diagnostic și tratament pentru boli rare și sepsis sever” subprogramul P6.2 „Epidermoliza buloasă”, după poziția 15 se introduce o nouă poziție, poziția 16, cu următorul cuprins: 16
+W70554002
+D03AX13
+PLANTE (MESTEACĂN)
+FILSUVEZ
+GEL
+FĂRĂ CONCENTRAȚIE
+CHIESI FARMACEUTICI S.P.A.
+ITALIA
+CUTIE CU 1 TUB X 23,4 G GEL
+PRF 1 1.201,390000 1.347,670000 0,000000
+10.
+La secțiunea P6 „Programul național de diagnostic și tratament pentru boli rare și sepsis sever” subprogramul P6.5 „Boli neurologice degenerative/inflamator-imune” subpunctul P6.5.1 „Tratamentul medicamentos al bolnavilor cu boli neurologice inflamator-imune”, poziția 24 se abrogă.
+11.
+La secțiunea P6 „Programul național de diagnostic și tratament pentru boli rare și sepsis sever” subprogramul P6.15 „Sindrom de imunodeficiență primară”, poziția 27 se abrogă.
+12.
+La secțiunea P6 „Programul național de diagnostic și tratament pentru boli rare și sepsis sever” subprogramul P6.27 „Boli rare - medicamente incluse condiționat”, poziția 20 se abrogă.
+13.
+La secțiunea P7 „Programul național de boli endocrine - Tratamentul medicamentos al bolnavilor cu osteoporoză, gușă datorată carenței de iod și proliferării maligne”, pozițiile 37, 40, 65, 67 și 69 se abrogă.
+14.
+La secțiunea P7 „Programul național de boli endocrine - Tratamentul medicamentos al bolnavilor cu osteoporoză, gușă datorată carenței de iod și proliferării maligne”, pozițiile 66, 68 și 70 se modifică și vor avea următorul cuprins: 66
+W64729001
+M05BB03
+COMBINAȚII (ACIDUM ALENDRONICUM + COLECALCIFEROLUM)**
+FOSAVANCE 70 mg/5.600 UI
+COMPR. 70 mg/5.600 UI
+MERCK SHARP
+DOHME
+OLANDA
+CUTIE X 2 COMPR. (1 BLISTER DIN AL/AL X 2 COMPR.)
+P6L 2 8,130000 10,990000 0,000000.............................. 68
+W63923002
+M05BB03
+COMBINAȚII (ACIDUM ALENDRONICUM + COLECALCIFEROLUM)**
+ACID ALENDRONIC/ COLECALCIFEROL ZENTIVA 70 mg/5.600 UI
+COMPR. 70 mg/5.600 UI
+ZENTIVA, K.S.
+REPUBLICA CEHĂ
+CUTIE CU BLIST. PA-AL-PVC/AL X 4 COMPR.
+P6L 4 9,756000 13,188000 0,639500............................. 70
+W67697001
+M05BB03
+COMBINAȚII (ACIDUM ALENDRONICUM + COLECALCIFEROLUM)**
+FOSAVANCE 70 mg/5.600 UI
+COMPR. 70 mg/5.600 UI
+N.V. ORGANON
+OLANDA
+CUTIE X 2 COMPR. (1 BLISTER DIN AL/AL X 2 COMPR.)
+P6L 2 8,130000 10,990000 0,000000
+15.
+La secțiunea P9 „Programul național de transplant de organe, țesuturi și celule de origine umană” subprogramul P9.1 „Transplant medular”, poziția 197 se abrogă.
+16.
+La secțiunea P9 „Programul național de transplant de organe, țesuturi și celule de origine umană” subprogramul P9.1 „Transplant medular”, după poziția 333 se introduce o nouă poziție, poziția 334, cu următorul cuprins: 334
+W70753001
+L04AB01
+ETANERCEPTUM**
+NEPEXTO 50 mg
+SOL. INJ. ÎN STILOU INJECTOR (PEN) PREUMPLUT 50 mg
+BIOSIMILAR COLLABORATIONS IRELAND LIMITED
+IRLANDA 4 STILOURI INJECTOARE (PENURI) PREUMPLUTE
+PR 4 439,587500 493,480000 0,000000
+17.
+La secțiunea P9 „Programul național de transplant de organe, țesuturi și celule de origine umană” subprogramul P9.4 „Transplant renal, transplant combinat rinichi și pancreas”, poziția 179 se abrogă.
+-----
