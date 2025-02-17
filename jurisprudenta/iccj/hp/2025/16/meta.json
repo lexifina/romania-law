@@ -1,0 +1,207 @@
+{
+ "key": "iccj-hp-16-2025",
+ "label": "Decizia ÎCCJ nr. 16/2025 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "16",
+ "date": "2025-01-27",
+ "year": "2025",
+ "heading": "DECIZIA nr. 16 din 27 ianuarie 2025",
+ "subtitle": "referitoare la actualizarea pensiilor militare de stat",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "138",
+  "bis": false,
+  "date": "2025-02-17",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.163/1/2024",
+  "2.804/105/2023",
+  "449/93/2023",
+  "2.165/1/2024",
+  "450/93/2023",
+  "2.896/1/2024"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 59/2017",
+    "number": "59",
+    "year": "2017",
+    "path": "oug/2017/59"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibile, sesizările conexate formulate de Tribunalul Ilfov - Secția civilă în dosarele nr. 449/93/2023 și nr. 450/93/2023 și de Tribunalul Prahova - Secția I civilă în Dosarul nr. 2.804/105/2023, în vederea pronunțării unei hotărâri prealabile cu privire la următoarele chestiuni de drept:",
+  "Posibilitatea, după adoptarea Ordonanței de urgență a Guvernului nr. 59/2017 privind modificarea și completarea unor acte normative din domeniul pensiilor de serviciu, a actualizării pensiilor militare de stat prin aplicarea procentului de 25% acordat ca majorare a soldei de funcție a cadrelor militare în activitate pentru anul 2018, respectiv a indexării cuantumurilor pensiilor militare de stat cu 50% din creșterea reală a câștigului salarial mediu brut realizat în anul 2018. și",
+  "Dacă pensiile militare de stat pot fi actualizate, în baza dispozițiilor art. 60 din Legea nr. 223/2015 privind pensiile militare de stat, cu modificările și completările ulterioare, respectiv, în caz afirmativ, data de la care acest drept poate fi acordat raportat la dispozițiile Ordonanței de urgență a Guvernului nr. 59/2017.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 62/2024",
+    "number": "62",
+    "year": "2024",
+    "path": "oug/2024/62"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 59/2017",
+    "number": "59",
+    "year": "2017",
+    "path": "oug/2017/59"
+   },
+   "articles": [],
+   "mentions": 20
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 223/2015",
+    "number": "223",
+    "year": "2015",
+    "path": "lege/2015/223"
+   },
+   "articles": [
+    {
+     "art": "60",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "59",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "101",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 59/2917",
+    "number": "59",
+    "year": "2917",
+    "path": "oug/2917/59"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "47",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-02-17",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/294761",
+  "text_sha256": "f46f2528cb606dd2fea1f671398e52f655112fd7f21dea751d3e7e79bf3530e5",
+  "catalogue_sha256": "f46f2528cb606dd2fea1f671398e52f655112fd7f21dea751d3e7e79bf3530e5",
+  "fetched": "2026-11-03T01:00:38Z",
+  "chars": 42717,
+  "portal_id": "294761",
+  "tip": "DECIZIE"
+ }
+}
