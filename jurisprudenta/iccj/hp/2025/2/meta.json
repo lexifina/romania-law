@@ -1,0 +1,527 @@
+{
+ "key": "iccj-hp-2-2025",
+ "label": "Decizia ÎCCJ nr. 2/2025 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "2",
+ "date": "2025-01-20",
+ "year": "2025",
+ "heading": "DECIZIA nr. 2 din 20 ianuarie 2025",
+ "subtitle": "referitoare la interpretarea dispozițiilor Ordonanței de urgență a Guvernului nr. 8/2009 și ale Normelor metodologice privind acordarea voucherelor de vacanță, aprobate prin Hotărârea Guvernului nr. 215/2009, cu modificările și completările ulterioare",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "137",
+  "bis": false,
+  "date": "2025-02-17",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": true,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.143/1/2024",
+  "5.495/30/2022",
+  "1.526/111/2023",
+  "3.149/90/2021",
+  "2.435/1/2024",
+  "2.305/1/2024"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 8/2009",
+    "number": "8",
+    "year": "2009",
+    "path": "oug/2009/8"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 107/2018",
+    "number": "107",
+    "year": "2018",
+    "path": "oug/2018/107"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 95/2006",
+    "number": "95",
+    "year": "2006",
+    "path": "lege/2006/95"
+   },
+   "articles": [
+    {
+     "art": "100",
+     "alin": [
+      "7"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 8/2019",
+    "number": "8",
+    "year": "2019",
+    "path": "oug/2019/8"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 131/2021",
+    "number": "131",
+    "year": "2021",
+    "path": "oug/2021/131"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 8/2021",
+    "number": "8",
+    "year": "2021",
+    "path": "oug/2021/8"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Admite sesizarea Curții de Apel Timișoara - Secția litigii de muncă și asigurări sociale formulată în Dosarul nr. 5.495/30/2022 și, în parte, sesizările Tribunalului Maramureș - Secția I civilă formulate în dosarele nr. 2.739/100/2023 și nr. 3.008/100/2023, în vederea pronunțării unei hotărâri prealabile, și, în consecință, stabilește că:",
+  "În interpretarea și aplicarea unitară a dispozițiilor art. 1 alin. (2), (2^4) și (3) din Ordonanța de urgență a Guvernului nr. 8/2009 privind acordarea voucherelor de vacanță, aprobată cu modificări și completări prin Legea nr. 94/2014, astfel cum a fost modificată și completată prin art. I din Ordonanța de urgență a Guvernului nr. 107/2018 privind modificarea și completarea unor acte normative, precum și pentru prorogarea unor termene, voucherele de vacanță se acordă în limitele sumelor prevăzute cu această destinație în bugetul de stat sau, după caz, în bugetele locale, pentru unitățile din sistemul bugetar.",
+  "Respinge, ca inadmisibilă, sesizarea Curții de Apel Oradea - Secția I civilă, formulată în Dosarul nr. 1.526/111/2023, în ceea ce privește următoarea chestiune de drept:",
+  "Dacă dispozițiile art. 1 alin. (2) din Ordonanța de urgență a Guvernului nr. 8/2009, pentru voucherele de vacanță cuvenite și neacordate, aferente anului 2020, astfel cum au fost modificate prin art. I din Ordonanța de urgență a Guvernului nr. 107/2018, coroborat cu dispozițiile art. 100 alin. (7) lit. a) din Legea nr. 95/2006 privind reforma în domeniul sănătății, republicată, cu modificările și completările ulterioare, se interpretează în sensul că obligația de a prevedea sume în buget cu această destinație revine angajatorului sau Ministerului Sănătății, reclamanții fiind angajați ai unui spital clinic județean de urgență - UPU.",
+  "Respinge, ca inadmisibilă, sesizarea Curții de Apel Pitești - Secția I civilă, formulată în Dosarul nr. 3.149/90/2021, cu privire la următoarea chestiune de drept:",
+  "În interpretarea dispozițiilor Ordonanței de urgență a Guvernului nr. 8/2009 și ale Normelor metodologice privind acordarea voucherelor de vacanță, aprobate prin Hotărârea Guvernului nr. 215/2009, cu modificările și completările ulterioare, refuzul angajatorului de a acorda vouchere de vacanță, în condițiile prevederii de sume cu această destinație în bugetul de venituri și cheltuieli legal aprobat, dă dreptul angajatului să solicite despăgubiri, constând în contravaloarea acestor vouchere, precum și în dobânzi legale penalizatoare?",
+  "Respinge, ca inadmisibile, sesizările formulate de Tribunalul Maramureș - Secția I civilă, formulate în dosarele nr. 2.739/100/2023 și nr. 3.008/100/2023, în privința următoarelor chestiuni de drept:",
+  "Dacă art. 1 alin. (2) raportat la art. 2 alin. (4) din Ordonanța de urgență a Guvernului nr. 8/2019 poate fi interpretat în sensul că, în ipoteza în care voucherele de vacanță nu au fost emise în anul fiscal în care trebuiau emise, angajatorul poate fi obligat la emiterea voucherelor de vacanță sau, din contră, aceste norme se impun a fi interpretate în sensul că ulterior angajatorul poate fi obligat doar la despăgubiri egale cu contravaloarea voucherelor de vacanță neacordate.",
+  "Dacă modificarea art. 1 alin. (2) din Ordonanța de urgență a Guvernului nr. 8/2019 prin Ordonanța de urgență a Guvernului nr. 131/2021 privind modificarea și completarea unor acte normative, precum și pentru prorogarea unor termene, aprobată cu modificări prin Legea nr. 130/2023, cu modificările ulterioare, poate fi interpretată în sensul că a instituit permisiunea acordării voucherelor de vacanță și în anul 2021, având în vedere interdicția inițial instituită prin art. I din Ordonanța de urgență a Guvernului nr. 8/2021 privind unele măsuri fiscal-bugetare, precum și pentru modificarea și completarea unor acte normative.",
+  "În cazul în care răspunsul la cea de-a doua întrebare este în sensul că angajatorul poate fi obligat la emiterea voucherelor de vacanță, în această situație se pot acorda dobânzi sub forma dobânzii legale penalizatoare, conform art. 1.531 alin. (1) din Codul civil ?",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 62/2024",
+    "number": "62",
+    "year": "2024",
+    "path": "oug/2024/62"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 8/2009",
+    "number": "8",
+    "year": "2009",
+    "path": "oug/2009/8"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2",
+      "2-4",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 48
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 107/2018",
+    "number": "107",
+    "year": "2018",
+    "path": "oug/2018/107"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 95/2006",
+    "number": "95",
+    "year": "2006",
+    "path": "lege/2006/95"
+   },
+   "articles": [
+    {
+     "art": "100",
+     "alin": [
+      "7"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 8/2019",
+    "number": "8",
+    "year": "2019",
+    "path": "oug/2019/8"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 131/2021",
+    "number": "131",
+    "year": "2021",
+    "path": "oug/2021/131"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 8/2021",
+    "number": "8",
+    "year": "2021",
+    "path": "oug/2021/8"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 500/2002",
+    "number": "500",
+    "year": "2002",
+    "path": "lege/2002/500"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 273/2006",
+    "number": "273",
+    "year": "2006",
+    "path": "lege/2006/273"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": [
+      "8"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 41/1994",
+    "number": "41",
+    "year": "1994",
+    "path": "lege/1994/41"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 114/2018",
+    "number": "114",
+    "year": "2018",
+    "path": "oug/2018/114"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "36",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 80/2010",
+    "number": "80",
+    "year": "2010",
+    "path": "oug/2010/80"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 84/2012",
+    "number": "84",
+    "year": "2012",
+    "path": "oug/2012/84"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 29/2013",
+    "number": "29",
+    "year": "2013",
+    "path": "og/2013/29"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-02-17",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/294753",
+  "text_sha256": "979dde108baa77e270bb8ed795ea6b7b5d4f9e1b7278cec52b45a33b61e9d969",
+  "catalogue_sha256": "979dde108baa77e270bb8ed795ea6b7b5d4f9e1b7278cec52b45a33b61e9d969",
+  "fetched": "2026-11-03T01:00:38Z",
+  "chars": 79304,
+  "portal_id": "294753",
+  "tip": "DECIZIE"
+ }
+}
