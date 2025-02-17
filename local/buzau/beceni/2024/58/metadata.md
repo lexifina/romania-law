@@ -1,0 +1,10 @@
+# HCL Beceni nr. 58/2024
+
+Text not yet included: no document of it is held. It will be added when it is.
+
+- Council: Consiliul Local al Comunei Beceni
+- Decision: nr. 58/2024
+- Adopted: 2024-12-18
+- Published: 2025-02-17
+- Title: privind stabilirea, la nivelul comunei Beceni, a impozitelor și taxelor locale pentru anul fiscal 2025
+- Record: https://emol.ro/beceni-bz/registru-hcl/182989
