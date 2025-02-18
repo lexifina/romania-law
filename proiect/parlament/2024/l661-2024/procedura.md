@@ -15,6 +15,7 @@ Initiator: Membri ai Parlamentului.
 - 2024-09-10: registered at the Chamber of Deputies
 - 2024-12-10: adopted by the Chamber of Deputies
 - 2024-12-12: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
+- 2025-02-18: documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -25,3 +26,5 @@ Initiator: Membri ai Parlamentului.
 - 2024-12-12: Adresă de înaintare a inițiativei (AD): [ad-5f25db38.md](ad-5f25db38.md); official file https://www.senat.ro/legis/PDF/2024/24L661AD.PDF
 - 2024-12-12: Forma inițiatorului (FG): [fg-e0da678e.md](fg-e0da678e.md); official file https://www.senat.ro/legis/PDF/2024/24L661FG.PDF
 - 2024-12-12: Expunere de motive (EM): [em-94c22019.md](em-94c22019.md); official file https://www.senat.ro/legis/PDF/2024/24L661EM.PDF
+- 2025-02-18: Document (SM): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L661SM.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-02-18: Document (AJ): [aj-29ec5855.md](aj-29ec5855.md); official file https://www.senat.ro/legis/PDF/2024/24L661AJ.PDF (its day is not given by the bill file: shown from the last stage held)
