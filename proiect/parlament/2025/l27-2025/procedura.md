@@ -14,6 +14,7 @@ Initiator: Membri ai Parlamentului.
 - 2024-12-16: documents published: Raport comisie sesizată pe fond
 - 2025-02-05: adopted by the Chamber of Deputies
 - 2025-02-06: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
+- 2025-02-18: documents published: Aviz comisie
 
 ## Documents
 
@@ -21,3 +22,5 @@ Initiator: Membri ai Parlamentului.
 - 2025-02-06: Adresă de înaintare a inițiativei (AD): [ad-ec45e2ba.md](ad-ec45e2ba.md); official file https://www.senat.ro/legis/PDF/2025/25L027AD.PDF
 - 2025-02-06: Forma inițiatorului (FG): [fg-9f10ea7e.md](fg-9f10ea7e.md); official file https://www.senat.ro/legis/PDF/2025/25L027FG.PDF
 - 2025-02-06: Expunere de motive (EM): [em-802df596.md](em-802df596.md); official file https://www.senat.ro/legis/PDF/2025/25L027EM.PDF
+- 2025-02-18: Aviz comisie (CA3): [ca3-3fbccfb0.md](ca3-3fbccfb0.md); official file https://www.senat.ro/legis/PDF/2025/25L027CA3.PDF
+- 2025-02-18: Aviz comisie (CA45): [ca45-09f1624f.md](ca45-09f1624f.md); official file https://www.senat.ro/legis/PDF/2025/25L027CA45.PDF
