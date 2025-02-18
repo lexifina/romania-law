@@ -1,0 +1,10 @@
+# HCL Dumbrava nr. 6/2025
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+- Council: Consiliul Local al Comunei Dumbrava
+- Decision: nr. 6/2025
+- Adopted: 2025-01-30
+- Published: 2025-02-18
+- Title: privind aprobarea Regulamentului privind decontarea cheltuielilor cu contravaloarea ochelarilor de vedere pentru personalul din cadrul Primăriei Comunei Dumbrava
+- Record: https://emol.ro/dumbrava-ph/registru-hcl/191537
