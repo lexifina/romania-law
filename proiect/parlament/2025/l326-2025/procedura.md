@@ -9,7 +9,10 @@ Initiator: Membri ai Parlamentului.
 ## Stages published so far
 
 - 2025-02-12: first record in the bill file
+- 2025-02-18: documents published: Aviz Consiliul Economic și Social, Aviz Consiliul Legislativ, Punct de vedere Guvern
 
 ## Documents
 
-- none held as text
+- 2025-02-18: Aviz Consiliul Economic și Social (ES): [es-632f780d.md](es-632f780d.md); official file https://www.senat.ro/legis/PDF/2025/25L326ES.PDF
+- 2025-02-18: Aviz Consiliul Legislativ (LG): not held as text; official file https://www.senat.ro/legis/PDF/2025/25L326LG.PDF
+- 2025-02-18: Punct de vedere Guvern (SJ): [sj-2feb57a1.md](sj-2feb57a1.md); official file https://www.senat.ro/legis/PDF/2025/25L326SJ.PDF
