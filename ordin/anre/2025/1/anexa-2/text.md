@@ -1,0 +1,15 @@
+# Anexa nr. 2 (Anexa nr. 7 la condițiile-cadru)
+CONDIȚII SPECIFICE ale locului de consum/de producere și consum integrat în sistemul de măsurare inteligentă a energiei electrice
+1.
+Începând cu data de..........................., locul de consum/de producere și consum identificat prin POD.........................., de la adresa: str...................... nr..... bl....., sc....., ap....., localitatea......................, județul................., a fost integrat în sistemul de măsurare inteligentă a energiei electrice (SMI).
+2.
+Informațiile cu privire la beneficiile care se pot obține prin valorificarea funcționalităților SMI, precum și alte date și informații cu privire la sistemele de măsurare inteligentă prevăzute la art. 16 din Condițiile-cadru pentru realizarea calendarului de implementare a sistemelor de măsurare inteligentă a energiei electrice la nivel național, aprobate prin Ordinul președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 177/2018, cu modificările și completările ulterioare (condițiile-cadru), pot fi obținute prin accesarea paginii de internet http://.................................................
+3.
+Ca urmare a integrării în SMI, facturarea energiei electrice consumate la locul de consum/de producere și consum prevăzut la pct. 1 se face de către furnizor pe baza datelor de decontare înregistrate de SMI, fără să se mai solicite transmiterea de către utilizator a indexului autocitit.
+4.
+Utilizatorul are acces, pe portalul aflat pe pagina de internet http://.........................................., la datele istorice de măsurare proprii, în condițiile prevăzute la art. 18 alin. (3) din condițiile-cadru, cu respectarea condițiilor de securitate și protecție a confidențialității datelor prevăzute în Regulamentul (UE) 2016/679 al Parlamentului European și al Consiliului din 27 aprilie 2016 privind protecția persoanelor fizice în ceea ce privește prelucrarea datelor cu caracter personal și privind libera circulație a acestor date și de abrogare a Directivei 95/46/CE. Accesul utilizatorului la datele proprii de măsurare se face prin intermediul unui cont unic, cu nume de utilizator și parolă personalizate. Contul unic, cu nume de utilizator și parolă, se creează de către utilizator la prima accesare a portalului.
+5.
+Utilizatorului i se poate asigura acces la datele de măsurare nevalidate, în timp aproape real, pentru sine sau pentru un terț (persoană fizică sau juridică) pe care utilizatorul l-a împuternicit să aibă acces la aceste date în numele său, prin formularea unei solicitări, inclusiv online, pe portalul OD, conform prevederilor art. 18^1 din condițiile-cadru.
+6.
+În situația în care nu sunt îndeplinite condițiile prin care OD și furnizorul au dreptul să prelucreze datele conform prevederilor din Regulamentul (UE) 2016/679 al Parlamentului European și al Consiliului din 27 aprilie 2016, operatorul de distribuție limitează înregistrarea datelor de decontare strict la cele necesare facturării lunare a cantității de energie electrică consumată/produsă.
+-------
