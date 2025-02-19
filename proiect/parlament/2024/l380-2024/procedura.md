@@ -13,6 +13,7 @@ Initiator: Guvernul României.
 - 2024-09-17: documents published: Raport comisie sesizată pe fond
 - 2024-09-25: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților
 - 2024-10-07: registered at the Chamber of Deputies
+- 2025-02-19: documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -26,3 +27,4 @@ Initiator: Guvernul României.
 - 2024-09-17: Raport comisie sesizată pe fond (CR): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L380CR.PDF
 - 2024-09-25: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L380FS.PDF
 - 2024-09-25: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L380AM.PDF
+- 2025-02-19: Document (AT): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L380AT.PDF (its day is not given by the bill file: shown from the last stage held)
