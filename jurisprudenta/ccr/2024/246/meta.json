@@ -1,0 +1,313 @@
+{
+ "key": "dcc-246-2024",
+ "label": "Decizia CCR nr. 246/2024",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "246",
+ "date": "2024-04-25",
+ "year": "2024",
+ "heading": "DECIZIA nr. 246 din 25 aprilie 2024",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 32 alin. (1) din Ordonanța Guvernului nr. 2/2001 privind regimul juridic al contravențiilor, în redactarea anterioară modificărilor aduse prin Legea nr. 107/2022 pentru modificarea art. 32 alin. (1) din Ordonanța Guvernului nr. 2/2001 privind regimul juridic al contravențiilor, și ale art. 118 alin. (1) din Ordonanța de urgență a Guvernului nr. 195/2002 privind circulația pe drumurile publice, în redactarea anterioară modificărilor aduse prin Legea nr. 254/2023 pentru modificarea art. 118 alin. (1) din Ordonanța de urgență a Guvernului nr. 195/2002 privind circulația pe drumurile publice",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "150",
+  "bis": false,
+  "date": "2025-02-20",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "4.111/245/2019",
+  "137D/2020",
+  "2.365D/2020",
+  "4.987/180/2019"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 2/2001",
+    "number": "2",
+    "year": "2001",
+    "path": "og/2001/2"
+   },
+   "articles": [
+    {
+     "art": "32",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 107/2022",
+    "number": "107",
+    "year": "2022",
+    "path": "lege/2022/107"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 195/2002",
+    "number": "195",
+    "year": "2002",
+    "path": "oug/2002/195"
+   },
+   "articles": [
+    {
+     "art": "118",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 254/2023",
+    "number": "254",
+    "year": "2023",
+    "path": "lege/2023/254"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Lucian-Mihail Arnăutu în Dosarul nr. 4.111/245/2019 al Judecătoriei Iași - Secția civilă și de Liviu-Claudiu Doroș în Dosarul nr. 4.987/180/2019 al Judecătoriei Focșani - Secția civilă și constată că dispozițiile art. 32 alin. (1) din Ordonanța Guvernului nr. 2/2001 privind regimul juridic al contravențiilor, în redactarea anterioară modificărilor aduse prin Legea nr. 107/2022 pentru modificarea art. 32 alin. (1) din Ordonanța Guvernului nr. 2/2001 privind regimul juridic al contravențiilor, și ale art. 118 alin. (1) din Ordonanța de urgență a Guvernului nr. 195/2002 privind circulația pe drumurile publice, în redactarea anterioară modificărilor aduse prin Legea nr. 254/2023 pentru modificarea art. 118 alin. (1) din Ordonanța de urgență a Guvernului nr. 195/2002 privind circulația pe drumurile publice, sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Judecătoriei Iași - Secția civilă și Judecătoriei Focșani - Secția civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 2/2001",
+    "number": "2",
+    "year": "2001",
+    "path": "og/2001/2"
+   },
+   "articles": [
+    {
+     "art": "32",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 195/2002",
+    "number": "195",
+    "year": "2002",
+    "path": "oug/2002/195"
+   },
+   "articles": [
+    {
+     "art": "118",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "111",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "183",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "200",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 152/2019",
+    "number": "152",
+    "year": "2019",
+    "path": "lege/2019/152"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 21/2014",
+    "number": "21",
+    "year": "2014",
+    "path": "og/2014/21"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 107/2022",
+    "number": "107",
+    "year": "2022",
+    "path": "lege/2022/107"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 254/2023",
+    "number": "254",
+    "year": "2023",
+    "path": "lege/2023/254"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2025-02-20",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/294837",
+  "text_sha256": "a6d87cb8be82be36ec05d27c3817603e77af3e9821fb5dc11fcb2bb67df7b608",
+  "catalogue_sha256": "a6d87cb8be82be36ec05d27c3817603e77af3e9821fb5dc11fcb2bb67df7b608",
+  "fetched": "2026-11-03T18:55:10Z",
+  "chars": 19118,
+  "portal_id": "294837",
+  "tip": "DECIZIE"
+ }
+}
