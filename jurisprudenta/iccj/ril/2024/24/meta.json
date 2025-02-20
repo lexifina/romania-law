@@ -1,0 +1,255 @@
+{
+ "key": "iccj-ril-24-2024",
+ "label": "Decizia ÎCCJ nr. 24/2024 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "24",
+ "date": "2024-12-09",
+ "year": "2024",
+ "heading": "DECIZIA nr. 24 din 9 decembrie 2024",
+ "subtitle": "cu privire la interpretarea și aplicarea dispozițiilor art. 460 alin. (5) lit. b) și d) și alin. (6) din Legea nr. 227/2015 privind Codul fiscal, cu modificările și completările ulterioare, și ale pct. 38 din titlul IX \"Impozite și taxe locale\" capitolul II \"Impozitul pe clădiri și taxa pe clădiri\" secțiunea a 4-a \"Calculul impozitului pe clădirile nerezidențiale\" din Normele metodologice de aplicare a Legii nr. 227/2015 privind Codul fiscal, aprobate prin Hotărârea Guvernului nr. 1/2016",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU SOLUȚIONAREA RECURSULUI ÎN INTERESUL LEGII",
+ "mo": {
+  "number": "152",
+  "bis": false,
+  "date": "2025-02-20",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.119/1/2024"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 227/2015",
+    "number": "227",
+    "year": "2015",
+    "path": "lege/2015/227"
+   },
+   "articles": [
+    {
+     "art": "460",
+     "alin": [
+      "5",
+      "6"
+     ],
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibil, recursul în interesul legii formulat de procurorul general al Parchetului de pe lângă Înalta Curte de Casație și Justiție, cu privire la interpretarea și aplicarea dispozițiilor art. 460 alin. (5) lit. b) și d) și alin. (6) din Legea nr. 227/2015 privind Codul fiscal, cu modificările și completările ulterioare, și ale pct. 38 din titlul IX „Impozite și taxe locale“ capitolul II „Impozitul pe clădiri și taxa pe clădiri“ secțiunea a 4-a „Calculul impozitului pe clădirile nerezidențiale“ din Normele metodologice de aplicare a Legii nr. 227/2015 privind Codul fiscal, aprobate prin Hotărârea Guvernului nr. 1/2016, în sensul de a se stabili dacă, după depunerea declarației de impunere și stabilirea impozitului pe clădirile nerezidențiale prin raportare la valoarea clădirii rezultată din actul prin care se transferă dreptul de proprietate, valoarea impozabilă a clădirii mai poate fi sau nu stabilită, pentru același an fiscal de referință, pe baza unui raport de evaluare, dacă nu au intervenit schimbări cu privire la starea fizică și/sau regimul juridic al clădirii.",
+  "Obligatorie, potrivit dispozițiilor art. 517 alin. (4) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul fiscal",
+    "path": "lege/2015/227",
+    "slug": "codul-fiscal"
+   },
+   "articles": [
+    {
+     "art": "460",
+     "alin": [
+      "5",
+      "6",
+      "8",
+      "2"
+     ],
+     "lit": [
+      "d",
+      "b",
+      "a"
+     ]
+    },
+    {
+     "art": "461",
+     "alin": [
+      "2",
+      "1",
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "462",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 68
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură fiscală",
+    "path": "lege/2015/207",
+    "slug": "legea-207-2015"
+   },
+   "articles": [
+    {
+     "art": "95",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "102",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "336",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": [
+      "b",
+      "d"
+     ]
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 571/2003",
+    "number": "571",
+    "year": "2003",
+    "path": "lege/2003/571"
+   },
+   "articles": [
+    {
+     "art": "253",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "56",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "45",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "515",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-02-20",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/294852",
+  "text_sha256": "5f19cdaf668c3ec372678b6888168672276ee8f5be9d2b5e734345bcf3e39030",
+  "catalogue_sha256": "5f19cdaf668c3ec372678b6888168672276ee8f5be9d2b5e734345bcf3e39030",
+  "fetched": "2026-11-03T01:00:33Z",
+  "chars": 64762,
+  "portal_id": "294852",
+  "tip": "DECIZIE"
+ }
+}
