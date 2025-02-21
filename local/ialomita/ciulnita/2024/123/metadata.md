@@ -1,0 +1,10 @@
+# HCL Ciulnița nr. 123/2024
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+- Council: Consiliul Local al Comunei Ciulnița
+- Decision: nr. 123/2024
+- Adopted: 2024-11-25
+- Published: 2025-02-21
+- Title: privind modificarea Hotărârii Consiliului local nr. 90/2024 privind aprobarea închiderii activității Serviciului de salubrizare Ciulnița
+- Record: https://emol.ro/ciulnita-il/registru-hcl/193129
