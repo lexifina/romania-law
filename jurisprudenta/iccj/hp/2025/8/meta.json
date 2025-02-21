@@ -1,0 +1,180 @@
+{
+ "key": "iccj-hp-8-2025",
+ "label": "Decizia ÎCCJ nr. 8/2025 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "8",
+ "date": "2025-01-20",
+ "year": "2025",
+ "heading": "DECIZIA nr. 8 din 20 ianuarie 2025",
+ "subtitle": "cu privire la modalitatea de raportare și stabilire a nivelului de salarizare începând cu data de 1 ianuarie 2020 a salariaților din cadrul Autorității pentru Administrarea Activelor Statului, conform anexei nr. VIII din Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, cu modificările și completările ulterioare",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "154",
+  "bis": false,
+  "date": "2025-02-21",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.144/1/2024",
+  "6.477/3/2024"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Tribunalul Alba - Secția a II-a civilă, de contencios administrativ, fiscal și de insolvență în Dosarul nr. 6.477/3/2024, în vederea pronunțării unei hotărâri prealabile pentru dezlegarea următoarei chestiuni de drept:",
+  "Modalitatea de raportare și stabilire a nivelului de salarizare începând cu data de 1 ianuarie 2020 a salariaților din cadrul Autorității pentru Administrarea Activelor Statului, conform anexei nr. VIII din Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, cu modificările și completările ulterioare, în ipoteza emiterii actului administrativ privind transformarea prin efectul legii a posturilor de natură contractuală în funcții publice, potrivit art. 407 și art. 612 alin. (1) din Codul administrativ.",
+  "Obligatorie, potrivit art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 62/2024",
+    "number": "62",
+    "year": "2024",
+    "path": "oug/2024/62"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 57/2019",
+    "number": "57",
+    "year": "2019",
+    "path": "oug/2019/57"
+   },
+   "articles": [
+    {
+     "art": "467",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "370",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "406",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "407",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "612",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-02-21",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/294865",
+  "text_sha256": "76c3c4b5fa3a56cf0d86791fbb5b32d197820c0fff2fa2444277674ef3d8bb6e",
+  "catalogue_sha256": "76c3c4b5fa3a56cf0d86791fbb5b32d197820c0fff2fa2444277674ef3d8bb6e",
+  "fetched": "2026-11-06T03:49:38Z",
+  "chars": 28537,
+  "archive": {
+   "source": "commoncrawl",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/294865",
+   "timestamp": "20260118011152",
+   "crawl": "CC-MAIN-2026-04",
+   "filename": "crawl-data/CC-MAIN-2026-04/segments/1768220469387.45/warc/CC-MAIN-20260118002417-20260118032417-00500.warc.gz",
+   "offset": "295836673",
+   "length": "28940",
+   "sha256": "ed9df8f76eac3df1db47df80fa8a1e3bc006a9639f9eccd6a570fea9347463dc"
+  },
+  "portal_id": "294865",
+  "tip": "DECIZIE"
+ }
+}
