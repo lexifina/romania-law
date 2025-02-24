@@ -1,0 +1,17 @@
+# Propunere legislativă L86/2025
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Propunere legislativă pentru completarea art.22 din Legea nr.143/2000 privind combaterea traficului și consumului ilicit de droguri
+
+Initiator: Membri ai Parlamentului.
+
+## Stages published so far
+
+- 2025-02-24: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
+
+## Documents
+
+- 2025-02-24: Adresă de înaintare a inițiativei (AD): [ad-b0797a2a.md](ad-b0797a2a.md); official file https://www.senat.ro/legis/PDF/2025/25L086AD.PDF
+- 2025-02-24: Forma inițiatorului (FG): [fg-eaa9d8f4.md](fg-eaa9d8f4.md); official file https://www.senat.ro/legis/PDF/2025/25L086FG.PDF
+- 2025-02-24: Expunere de motive (EM): [em-b5265e3d.md](em-b5265e3d.md); official file https://www.senat.ro/legis/PDF/2025/25L086EM.PDF
