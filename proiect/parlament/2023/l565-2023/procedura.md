@@ -17,6 +17,7 @@ Initiator: Membri ai Parlamentului.
 - 2024-03-05: documents published: Aviz comisie
 - 2024-03-12: documents published: Aviz comisie
 - 2024-05-09: documents published: Aviz comisie
+- 2025-02-25: documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -34,3 +35,5 @@ Initiator: Membri ai Parlamentului.
 - 2024-03-12: Aviz comisie (CA3): [ca3-39f2764c.md](ca3-39f2764c.md); official file https://www.senat.ro/legis/PDF/2023/23L565CA3.PDF
 - 2024-03-12: Aviz comisie (CA50): [ca50-85d2631e.md](ca50-85d2631e.md); official file https://www.senat.ro/legis/PDF/2023/23L565CA50.PDF
 - 2024-05-09: Aviz comisie (CA58): [ca58-9a537668.md](ca58-9a537668.md); official file https://www.senat.ro/legis/PDF/2023/23L565CA58.PDF
+- 2025-02-25: Document (CT): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L565CT.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-02-25: Document (AJ): [aj-ebfa1293.md](aj-ebfa1293.md); official file https://www.senat.ro/legis/PDF/2023/23L565AJ.PDF (its day is not given by the bill file: shown from the last stage held)
