@@ -1,0 +1,3 @@
+# ANEXĂ
+ANEXA privind intermedierea vânzării, colectării subscrierilor și efectuării plăților aferente titlurilor de stat destinate populației, prin Compania Națională „Poșta Română” - S.A. la nivel de subunități poștale din rețeaua companiei și în mediul online utilizând platforma ghiseul.ro, în cadrul
+Programului Tezaur
