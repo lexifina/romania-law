@@ -1,0 +1,11 @@
+# HCL Sebeș nr. 42/2025
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+- Council: Consiliul Local al Municipiului Sebeș
+- Decision: nr. 42/2025
+- Adopted: 2025-02-26
+- Title: privind aprobarea documentației cadastrale de actualizare date a imobilului teren în suprafață de 19 mp., situat administrativ în Municipiul Sebeș, str
+- Record: https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2025/
+- Document: https://www.primariasebes.ro/wp-content/uploads/2025/03/HCL-42-site.pdf
+- Document sha256: a3bd3ac70855cf268cf287744574c04ad7568c6aa72dbaf499791c318c8a09d6
