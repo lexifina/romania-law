@@ -1,0 +1,468 @@
+{
+ "key": "dcc-563-2024",
+ "label": "Decizia CCR nr. 563/2024",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "563",
+ "date": "2024-10-31",
+ "year": "2024",
+ "heading": "DECIZIA nr. 563 din 31 octombrie 2024",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 96 alin. (1) și alin. (2) lit. b), ale art. 100 alin. (3), ale art. 101 alin. (3), ale art. 102 alin. (3) și ale art. 109 alin. (9) din Ordonanța de urgență a Guvernului nr. 195/2002 privind circulația pe drumurile publice, precum și ale art. 5 alin. (5), ale art. 21 alin. (3) și ale art. 34 alin. (1) din Ordonanța Guvernului nr. 2/2001 privind regimul juridic al contravențiilor, în interpretarea dată prin Decizia nr. 5 din 12 aprilie 2021, pronunțată de Înalta Curte de Casație și Justiție - Completul pentru soluționarea recursului în interesul legii",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "169",
+  "bis": false,
+  "date": "2025-02-26",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "1.994/322/2021",
+  "1.440D/2023",
+  "2.914/180/2022",
+  "2.339/288/2023",
+  "1.611/186/2021",
+  "3.624/337/2022",
+  "950/255/2022",
+  "1.085/238/2022",
+  "6.482/271/2022",
+  "5.166/180/2022"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 195/2002",
+    "number": "195",
+    "year": "2002",
+    "path": "oug/2002/195"
+   },
+   "articles": [
+    {
+     "art": "96",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "100",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "101",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "102",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "109",
+     "alin": [
+      "9"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 2/2001",
+    "number": "2",
+    "year": "2001",
+    "path": "og/2001/2"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "34",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Mariana Mihaela Gavrilă, de Albert Gabriel Cobzaru, de Dumitru Cristinel Coțovanu, de Florin Cucu, de Constantin Ramașcanu, de Ana Maria Hera, de Robert Mugurel Ciocoiu, de Irinel Proca, de Vasile Chiș, de Janos Akos Tomuța, de Claudiu Răzvan Rus, de Florian Nițu, de Alin Ilie Cearnău, de Lăcrămioara Cătălina Alexe, de Ioan Liviu Costache, de Ioan Baltă, de Doinița Cotan, de Andrei-Mihai Ceapraga, de Anda Ciotmonda, de Petrea Iftimi, de Dan Dumitru Bucurean, de Viktor Bielinskyi, de Gheorghe Eusebio Tudoroiu, de Crina Turca, de Gheorghe Mandache, de Carola Olosz, de Marian Trușcă, de Judecătoria Sectorului 6 București - Secția civilă, din oficiu, de Gabriel Cătălin Neculau, de Sorin Eugen Roman, de Ionuț Curpan, de Doru-Alin Hagiu, de Constantin Dobrițoiu, de Cristian Moldovan, de Sebastian Florin Ifrim, de Alin Morar, de Ioan Bala, de Alexandru Dobrescu, de Ciprian Timofte, de Cristian Șipoteanu, de Andrei Ciobanu, de Cătălin Cojocaru, de Sajgo Lorand Thibold, de Corina-Cornelia Baicu, de Vlad Lututovici, de Florea Poienar, de Lică Șelaru, de Tiberiu-Sebastian Crețu, de Tribunalul București - Secția a II-a contencios administrativ și fiscal, din oficiu, de Laurențiu Bodolan, de Mimi Chicoș, de Iustina Popa, de Ioan Ciuc, de Daniel Hopulele, de Daniel Laurențiu Bocșe, de Cezar Raric și de Mihaela Drăguț în Dosarul nr. 1.994/322/2021 al Judecătoriei Târgu Secuiesc, în dosarele nr. 15.080/245/2022, nr. 20.341/245/2022, nr. 21.108/245/2022 și nr. 2.675/227/2022 ale Judecătoriei Iași - Secția civilă, în dosarele nr. 2.009/222/2021 și nr. 8.235/193/2021 ale Tribunalului Botoșani - Secția de contencios administrativ și fiscal, în Dosarul nr. 2.914/180/2022 al Judecătoriei Piatra-Neamț, în Dosarul nr. 2.339/288/2023 al Judecătoriei Râmnicu Vâlcea - Secția civilă, în Dosarul nr. 1.611/186/2021 al Tribunalului Bistrița-Năsăud - Secția a II-a civilă, de contencios administrativ și fiscal, în Dosarul nr. 3.624/337/2022 al Judecătoriei Zalău, în Dosarul nr. 950/255/2022 al Judecătoriei Marghita, în Dosarul nr. 1.085/238/2022 al Tribunalului Arad - Secția a III-a contencios administrativ și fiscal, litigii de muncă și asigurări sociale, în dosarele nr. 29.609/299/2020, nr. 44.871/299/2022 și nr. 7.765/3/2023 ale Tribunalului București - Secția a II-a contencios administrativ și fiscal, în Dosarul nr. 6.482/271/2022 al Judecătoriei Oradea - Secția civilă, în dosarele nr. 19.738/231/2021, nr. 12.194/231/2020 și nr. 6.231/231/2022 ale Tribunalului Vrancea - Secția a II-a civilă și de contencios administrativ și fiscal, în dosarele nr. 4.227/270/2022 și nr. 4.207/270/2022 ale Judecătoriei Onești, în Dosarul nr. 1.539/266/2022 al Judecătoriei Vișeu de Sus, în Dosarul nr. 5.166/180/2022 al Judecătoriei Bacău - Secția civilă, în Dosarul nr. 6.480/333/2022 al Judecătoriei Vaslui - Secția civilă, în Dosarul nr. 83/240/2022 al Tribunalului Hunedoara - Secția a II-a civilă, de contencios administrativ și fiscal, în Dosarul nr. 2.340/227/2021 al Tribunalului Suceava - Secția de contencios administrativ și fiscal, în dosarele nr. 14.065/271/2022, nr. 840/187/2023 și nr. 957/187/2023 ale Judecătoriei Beiuș, în Dosarul nr. 17.898/236/2022 al Judecătoriei Giurgiu - Secția civilă, în Dosarul nr. 2.052/288/2022 al Tribunalului Vâlcea - Secția a II-a civilă, în dosarele nr. 4.532/333/2022 și nr. 1.165/333/2022 ale Tribunalului Vaslui - Secția civilă, în Dosarul nr. 2.243/305/2022 al Tribunalului Covasna - Secția civilă, în dosarele nr. 778/199/2022, nr. 110/260/2022, nr. 4.837/180/2022 și nr. 2.699/270/2022 ale Tribunalului Bacău - Secția II-a civilă și de contencios administrativ și fiscal, în Dosarul nr. 390/303/2023 al Judecătoriei Sectorului 6 București - Secția civilă, în Dosarul nr. 24.602/4/2021 al Judecătoriei Focșani, în Dosarul nr. 2.961/229/2022 al Judecătoriei Fetești, în dosarele nr. 4.275/235/2022 și nr. 3.860/235/2022 ale Judecătoriei Gherla, în dosarele nr. 12.167/271/2022 și nr. 18.106/271/2020 ale Tribunalului Bihor - Secția a III-a contencios administrativ și fiscal, în Dosarul nr. 3.260/327/2021 al Tribunalului Tulcea - Secția civilă de contencios administrativ și fiscal, în Dosarul nr. 3.294/299/2022 al Judecătoriei Sectorului 1 București - Secția I civilă, în Dosarul nr. 211/286/2023 al Judecătoriei Răducăneni, în Dosarul nr. 3.365/227/2022 al Judecătoriei Satu Mare - Secția civilă, în Dosarul nr. 1.359/333/2022 al Tribunalului Vaslui - Secția civilă, în Dosarul nr. 3.131/293/2022 al Judecătoriei Rupea, în Dosarul nr. 11.401/94/2022 al Judecătoriei Buhuși, în Dosarul nr. 17.967/301/2022 al Judecătoriei Călărași, în dosarele nr. 6.468/314/2022 și nr. 6.588/314/2022 ale Judecătoriei Suceava - Secția civilă și în Dosarul nr. 4.368/866/2022 al Tribunalului Iași - Secția a II-a civilă, contencios administrativ și fiscal și constată că dispozițiile art. 96 alin. (1) și alin. (2) lit. b), art. 100 alin. (3), ale art. 101 alin. (3), ale art. 102 alin. (3) și ale art. 109 alin. (9) din Ordonanța de urgență a Guvernului nr. 195/2002 privind circulația pe drumurile publice, precum și ale art. 5 alin. (5), ale art. 21 alin. (3) și ale art. 34 alin. (1) din Ordonanța Guvernului nr. 2/2001 privind regimul juridic al contravențiilor, în interpretarea dată prin Decizia nr. 5 din 12 aprilie 2021, pronunțată de Înalta Curte de Casație și Justiție - Completul pentru soluționarea recursului în interesul legii, sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Judecătoriei Târgu Secuiesc, Judecătoriei Iași - Secția civilă, Tribunalului Botoșani - Secția de contencios administrativ și fiscal, Judecătoriei Piatra-Neamț, Judecătoriei Râmnicu Vâlcea - Secția civilă, Tribunalului Bistrița-Năsăud - Secția a II-a civilă, de contencios administrativ și fiscal, Judecătoriei Zalău, Judecătoriei Marghita, Tribunalului Arad - Secția a III-a contencios administrativ și fiscal, litigii de muncă și asigurări sociale, Tribunalului București - Secția a II-a contencios administrativ și fiscal, Judecătoriei Oradea - Secția civilă, Tribunalului Vrancea - Secția a II-a civilă și de contencios administrativ și fiscal, Judecătoriei Onești, Judecătoriei Vișeu de Sus, Judecătoriei Bacău - Secția civilă, Judecătoriei Vaslui - Secția civilă, Tribunalului Hunedoara - Secția a II-a civilă, de contencios administrativ și fiscal, Tribunalului Suceava - Secția de contencios administrativ și fiscal, Judecătoriei Beiuș, Judecătoriei Giurgiu - Secția civilă, Tribunalului Vâlcea - Secția a II-a civilă, Tribunalului Vaslui - Secția civilă, Tribunalului Covasna - Secția civilă, Tribunalului Bacău - Secția II-a civilă și de contencios administrativ și fiscal, Judecătoriei Sectorului 6 București - Secția civilă, Judecătoriei Focșani, Judecătoriei Fetești, Judecătoriei Gherla, Tribunalului Bihor - Secția a III-a contencios administrativ și fiscal, Tribunalului Tulcea - Secția civilă de contencios administrativ și fiscal, Judecătoriei Sectorului 1 București - Secția I civilă, Judecătoriei Răducăneni, Judecătoriei Satu Mare - Secția civilă, Tribunalului Vaslui - Secția civilă, Judecătoriei Rupea, Judecătoriei Buhuși, Judecătoriei Călărași, Judecătoriei Suceava - Secția civilă și Tribunalului Iași - Secția a II-a civilă, contencios administrativ și fiscal și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 195/2002",
+    "number": "195",
+    "year": "2002",
+    "path": "oug/2002/195"
+   },
+   "articles": [
+    {
+     "art": "96",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "100",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "101",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "e"
+     ]
+    },
+    {
+     "art": "102",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "g",
+      "e"
+     ]
+    },
+    {
+     "art": "109",
+     "alin": [
+      "9"
+     ],
+     "lit": null
+    },
+    {
+     "art": "95",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 71
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 2/2001",
+    "number": "2",
+    "year": "2001",
+    "path": "og/2001/2"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": [
+      "5",
+      "3",
+      "6",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "34",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 60
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "124",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "147",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "61",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenție",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "49",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "236-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "405",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "514",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 171/2010",
+    "number": "171",
+    "year": "2010",
+    "path": "lege/2010/171"
+   },
+   "articles": [
+    {
+     "art": "19",
+     "alin": [
+      "13"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 84/2024",
+    "number": "84",
+    "year": "2024",
+    "path": "oug/2024/84"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2025-02-26",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/294964",
+  "text_sha256": "84fbf376390c836481a64b6422462fc8718f666dae757742d1c2200b0436ccb3",
+  "catalogue_sha256": "84fbf376390c836481a64b6422462fc8718f666dae757742d1c2200b0436ccb3",
+  "fetched": "2026-11-03T01:00:32Z",
+  "chars": 120387,
+  "portal_id": "294964",
+  "tip": "DECIZIE"
+ }
+}
