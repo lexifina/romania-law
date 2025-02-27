@@ -1,0 +1,1 @@
+Prezenta hotărâre a fost adoptată astăzi, 27.02.2025, cu respectarea prevederilor art. 139 alin. 1 din OUG nr. 57/2019 privind Codul administrativ, cu modificările și completările ulterioare, cu un număr de 17 voturi pentru, 0 voturi împotrivă, 0 voturi abțineri, din totalul de 17 consilieri locali prezenți.
