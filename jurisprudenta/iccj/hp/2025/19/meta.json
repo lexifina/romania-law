@@ -1,0 +1,388 @@
+{
+ "key": "iccj-hp-19-2025",
+ "label": "Decizia ÎCCJ nr. 19/2025 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "19",
+ "date": "2025-01-27",
+ "year": "2025",
+ "heading": "DECIZIA nr. 19 din 27 ianuarie 2025",
+ "subtitle": "referitoare la interpretarea și aplicarea dispozițiilor art. 7 alin. (1) lit. b) din capitolul II din anexa nr. II la Legea-cadru nr. 153/2017 și ale articolului unic lit. A pct. 9 din anexa nr. 2 la Regulamentul-cadru aprobat prin Hotărârea Guvernului nr. 153/2018",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "182",
+  "bis": false,
+  "date": "2025-02-28",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.207/1/2024",
+  "9.598/3/2024"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul ministrului sănătății nr. 434/2021",
+    "number": "434",
+    "year": "2021"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul ministrului sănătății nr. 1.334/2022",
+    "number": "1334",
+    "year": "2022"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 136/2020",
+    "number": "136",
+    "year": "2020",
+    "path": "lege/2020/136"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Tribunalul București - Secția a VIII-a conflicte de muncă și asigurări sociale în Dosarul nr. 9.598/3/2024, în vederea pronunțării unei hotărâri prealabile cu privire la următoarele probleme de drept:",
+  "Dacă, în interpretarea și aplicarea dispozițiilor art. 7 alin. (1) lit. b) din capitolul II din anexa nr. II la Legea-cadru nr. 153/2017 și ale articolului unic lit. A pct. 9 din anexa nr. 2 la Regulamentul-cadru aprobat prin Hotărârea Guvernului nr. 153/2018, prevederile din anexa nr. 2 la Ordinul ministrului sănătății nr. 434/2021 și, subsecvent, lit. B pct. 4 nr. 12 din anexa nr. 2 la Ordinul ministrului sănătății nr. 1.334/2022 îndeplinesc condiția de a fi «stabilite de Ministerul Sănătății și declarate prin ordin», condiție prevăzută de articolul unic lit. A pct. 9 din anexa nr. 2 la Regulamentul-cadru aprobat prin Hotărârea Guvernului nr. 153/2018.",
+  "Dacă prevederea pârâtei în anexele nr. 2 din ordinele ministrului sănătății nr. 434/2021 și nr. 1.334/2022 prezumă absolut îndeplinirea condițiilor pentru acordarea sporului pentru condiții deosebit de periculoase.",
+  "Dacă lipsa acordului dintre unitatea sanitară și sindicatele reprezentative semnatare ale contractului colectiv de muncă la nivel de sistem sanitar, prevăzut de teza finală a art. 7 alin. (1) lit. b) din capitolul II din anexa nr. II la Legea-cadru nr. 153/2017, constituie condiția suspensivă până la realizarea căreia dreptul la sporul pentru condiții deosebit de periculoase nu este efectiv.",
+  "Dacă, în interpretarea și aplicarea dispozițiilor art. 7 alin. (1) lit. b) din capitolul II din anexa nr. II la Legea-cadru nr. 153/2017 și ale articolului unic lit. A pct. 9 din anexa nr. 2 la Regulamentul-cadru aprobat prin Hotărârea Guvernului nr. 153/2018, sporul pentru situația de risc epidemiologic poate fi acordat și în lipsa declarării, certificării sau constatării, după caz, a încetării situațiilor de risc epidemiologic și biologic prevăzute la art. 6 din Legea nr. 136/2020, dispuse de către structura care a dispus instituirea acestora, în raport cu dispozițiile art. 6 lit. d) și art. 6^1 din aceeași lege.",
+  "Dacă, în interpretarea dispozițiilor art. 7 alin. (1) lit. h) din capitolul II din anexa nr. II la Legea-cadru nr. 153/2017, coroborat cu articolul unic lit. D din anexa nr. 8 la Regulamentul-cadru aprobat prin Hotărârea Guvernului nr. 153/2018, reclamanții sunt îndreptățiți la acordarea sporului prevăzut de norma precitată, în considerarea Ordinului ministrului sănătății publice nr. 1.996/2008?",
+  "Dacă, în interpretarea și aplicarea dispozițiilor art. 20 din Legea-cadru nr. 153/2017, sporul pentru munca de noapte se poate cumula cu sporul de ture prevăzut de art. 1 alin. (1) din capitolul II din anexa nr. II la Legea-cadru nr. 153/2017.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 62/2024",
+    "number": "62",
+    "year": "2024",
+    "path": "oug/2024/62"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 60
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul ministrului sănătății nr. 434/2021",
+    "number": "434",
+    "year": "2021"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul nr. 434/2021",
+    "number": "434",
+    "year": "2021"
+   },
+   "articles": [],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul ministrului sănătății nr. 1.334/2022",
+    "number": "1334",
+    "year": "2022"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul nr. 1.334/2022",
+    "number": "1334",
+    "year": "2022"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 136/2020",
+    "number": "136",
+    "year": "2020",
+    "path": "lege/2020/136"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": [
+      "d",
+      "a"
+     ]
+    },
+    {
+     "art": "6-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 19
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul nr. 1.996/2008",
+    "number": "1996",
+    "year": "2008"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 56/2020",
+    "number": "56",
+    "year": "2020",
+    "path": "lege/2020/56"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 698/2022",
+    "number": "698",
+    "year": "2022",
+    "path": "hg/2022/698"
+   },
+   "articles": [],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinului nr. 1.996/2008",
+    "number": "1996",
+    "year": "2008"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 53/2003",
+    "number": "53",
+    "year": "2003",
+    "path": "lege/2003/53"
+   },
+   "articles": [
+    {
+     "art": "269",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 1.035/2020",
+    "number": "1035",
+    "year": "2020",
+    "path": "hg/2020/1035"
+   },
+   "articles": [],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 141/2020",
+    "number": "141",
+    "year": "2020",
+    "path": "lege/2020/141"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-02-28",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/295107",
+  "text_sha256": "5d4070d239bef1f851525fb9f20a339788ba16282c213cd5e16803a978eb65c7",
+  "catalogue_sha256": "5d4070d239bef1f851525fb9f20a339788ba16282c213cd5e16803a978eb65c7",
+  "fetched": "2026-11-06T03:54:42Z",
+  "chars": 79971,
+  "archive": {
+   "source": "commoncrawl",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/295107",
+   "timestamp": "20251114112857",
+   "crawl": "CC-MAIN-2025-47",
+   "filename": "crawl-data/CC-MAIN-2025-47/segments/1762439343932.66/warc/CC-MAIN-20251114104301-20251114134301-00380.warc.gz",
+   "offset": "332474714",
+   "length": "46593",
+   "sha256": "d5c51057b07e4b925d3fd7dd2283cec736010a1821e07643a3be48111b8202f1"
+  },
+  "portal_id": "295107",
+  "tip": "DECIZIE"
+ }
+}
