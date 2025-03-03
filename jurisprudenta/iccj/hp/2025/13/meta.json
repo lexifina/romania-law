@@ -1,0 +1,401 @@
+{
+ "key": "iccj-hp-13-2025",
+ "label": "Decizia ÎCCJ nr. 13/2025 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "13",
+ "date": "2025-01-27",
+ "year": "2025",
+ "heading": "DECIZIA nr. 13 din 27 ianuarie 2025",
+ "subtitle": "referitoare la interpretarea dispozițiilor art. 88^2 alin. (5) din Legea nr. 304/2004 privind organizarea judiciară, republicată, cu modificările și completările ulterioare, coroborat cu art. 13 alin. (1) lit. a) din Ordonanța de urgență a Guvernului nr. 27/2006 privind salarizarea și alte drepturi ale judecătorilor, procurorilor și altor categorii de personal din sistemul justiției",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "183",
+  "bis": false,
+  "date": "2025-03-03",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "2.221/1/2024",
+  "26.865/3/2022"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "88-2",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 27/2006",
+    "number": "27",
+    "year": "2006",
+    "path": "oug/2006/27"
+   },
+   "articles": [
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 303/2004",
+    "number": "303",
+    "year": "2004",
+    "path": "lege/2004/303"
+   },
+   "articles": [
+    {
+     "art": "87",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "39",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Admite sesizarea formulată de Curtea de Apel București - Secția a VII-a pentru cauze privind conflicte de muncă și asigurări sociale în Dosarul nr. 26.865/3/2022*, în vederea pronunțării unei hotărâri prealabile. În interpretarea dispozițiilor art. 88^2 alin. (5) din Legea nr. 304/2004 privind organizarea judiciară, republicată, cu modificările și completările ulterioare, coroborat cu art. 13 alin. (1) lit. a) din Ordonanța de urgență a Guvernului nr. 27/2006 privind salarizarea și alte drepturi ale judecătorilor, procurorilor și altor categorii de personal din sistemul justiției, aprobată cu modificări și completări prin Legea nr. 45/2007, cu modificările și completările ulterioare, cu art. 87 alin. (1) din Legea nr. 303/2004 privind statutul judecătorilor și procurorilor, republicată, cu modificările și completările ulterioare, cu art. 14 din Convenția pentru apărarea drepturilor omului și a libertăților fundamentale și cu art. 6 lit. c) și d) și art. 39 alin. (4) din Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, cu modificările și completările ulterioare, în lumina Deciziei Curții Constituționale nr. 794 din 15 decembrie 2016, publicată în Monitorul Oficial al României, Partea I, nr. 1029 din 21 decembrie 2016, și a Deciziei nr. 13 din 13 martie 2023 a Înaltei Curți de Casație și Justiție - Completul pentru dezlegarea unor chestiuni de drept, publicată în Monitorul Oficial al României, Partea I, nr. 401 din 10 mai 2023, stabilește următoarele:",
+  "Dreptul la diurnă cuvenit procurorilor care și-au desfășurat activitatea în cadrul Secției pentru investigarea infracțiunilor din justiție, reglementat de art. 88^2 alin. (5) din Legea nr. 304/2004, coroborat cu art. 13 alin. (1) lit. a) din Ordonanța de urgență a Guvernului nr. 27/2006, nu se cuvine personalului de specialitate juridică asimilat judecătorilor și procurorilor din cadrul Ministerului Justiției.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 62/2024",
+    "number": "62",
+    "year": "2024",
+    "path": "oug/2024/62"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "88-2",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "88-5",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 23
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 27/2006",
+    "number": "27",
+    "year": "2006",
+    "path": "oug/2006/27"
+   },
+   "articles": [
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 303/2004",
+    "number": "303",
+    "year": "2004",
+    "path": "lege/2004/303"
+   },
+   "articles": [
+    {
+     "art": "87",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "88-5",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "45",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": [
+      "c",
+      "b",
+      "a"
+     ]
+    },
+    {
+     "art": "39",
+     "alin": [
+      "4",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "38",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": null,
+     "lit": [
+      "g"
+     ]
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 20
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituția României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "120",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 71/2015",
+    "number": "71",
+    "year": "2015",
+    "path": "lege/2015/71"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 57/2015",
+    "number": "57",
+    "year": "2015",
+    "path": "oug/2015/57"
+   },
+   "articles": [
+    {
+     "art": "3-1",
+     "alin": [
+      "1-2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "31",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": [
+      "3",
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-03-03",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/295114",
+  "text_sha256": "cc4f232ff39dcd13ba8060fa164a4acae341fa24cb07f394d8c4b03d871bcc0f",
+  "catalogue_sha256": "cc4f232ff39dcd13ba8060fa164a4acae341fa24cb07f394d8c4b03d871bcc0f",
+  "fetched": "2026-11-03T01:00:14Z",
+  "chars": 63166,
+  "portal_id": "295114",
+  "tip": "DECIZIE"
+ }
+}
