@@ -1,0 +1,41 @@
+{
+ "key": "cjue-t-67-25-ordonanta-2025-03-03",
+ "label": "CJUE, Ordonanța președintelui Tribunalului din 3 martie 2025, Cauza T-67/25 R",
+ "court": "cjue",
+ "court_name": "Curtea de Justiție a Uniunii Europene",
+ "kind": "ordonanta",
+ "act_type": "ORDER",
+ "date": "2025-03-03",
+ "year": "2025",
+ "case": "Cauza T-67/25 R",
+ "celex": "62025TO0067",
+ "ecli": "ECLI:EU:T:2025:201",
+ "heading": "Ordonanța președintelui Tribunalului din 3 martie 2025",
+ "formation": "PRESID_T",
+ "procedure": "APPL_SUSP_ADP",
+ "romania_role": [
+  "defendant",
+  "originates"
+ ],
+ "referred_by": null,
+ "referral_text": null,
+ "national_followup": null,
+ "parties": null,
+ "parties_withheld": true,
+ "keywords": "Măsuri provizorii – Respingerea acțiunii principale – Nepronunțare asupra fondului",
+ "interprets": [],
+ "text": null,
+ "text_withheld": "personal_data",
+ "withheld_reason": "The full text names the parties' lawyers (and, in older cases, private parties); only the metadata and the operative part are published here, with the official link.",
+ "operative_missing": true,
+ "eurlex_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62025TO0067",
+ "curia_url": "https://curia.europa.eu/juris/liste.jsf?num=T-67/25&language=ro",
+ "source": {
+  "name": "CELLAR, Publications Office of the European Union",
+  "url": null,
+  "format": null,
+  "sha256": null
+ },
+ "legal_basis": "Jurisprudența Curții de Justiție a Uniunii Europene (texte oficiale; reutilizare permisă cu menționarea sursei: Decizia Comisiei 2011/833/UE și condițiile CURIA; © Uniunea Europeană). Textele oficiale nu sunt protejate de dreptul de autor în România (Legea nr. 8/1996, art. 9 lit. b).",
+ "attribution": "© European Union, https://eur-lex.europa.eu (via the Publications Office CELLAR)"
+}
