@@ -1,0 +1,237 @@
+{
+ "key": "iccj-ril-2-2025",
+ "label": "Decizia ÎCCJ nr. 2/2025 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "2",
+ "date": "2025-01-27",
+ "year": "2025",
+ "heading": "DECIZIA nr. 2 din 27 ianuarie 2025",
+ "subtitle": "referitoare la interpretarea dispozițiilor art. 612 alin. (1) din Ordonanța de urgență a Guvernului nr. 57/2019 privind Codul administrativ, cu modificările și completările ulterioare",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU SOLUȚIONAREA RECURSULUI ÎN INTERESUL LEGII",
+ "mo": {
+  "number": "186",
+  "bis": false,
+  "date": "2025-03-04",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "2.621/1/2024"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 57/2019",
+    "number": "57",
+    "year": "2019",
+    "path": "oug/2019/57"
+   },
+   "articles": [
+    {
+     "art": "612",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "406",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "407",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "operative": [
+  "Admite recursul în interesul legii formulat de Colegiul de conducere al Curții de Apel Alba Iulia și, în consecință, în interpretarea art. 612 alin. (1) din Codul administrativ, cu modificările și completările ulterioare, stabilește că:",
+  "Transformarea posturilor de natură contractuală în posturi aferente funcțiilor publice, în condițiile prevăzute la art. 406 din Codul administrativ, cu modificările și completările ulterioare, este o obligație legală, care trebuia îndeplinită din oficiu de autoritățile și instituțiile publice până la data de 1 ianuarie 2020.",
+  "În situația în care autoritățile și instituțiile publice nu și-au îndeplinit această obligație până la 1 ianuarie 2020, persoanele care, anterior acestei date, ocupau posturile de natură contractuală la care se referă art. 407 din Codul administrativ, cu modificările și completările ulterioare, pot solicita, în condițiile legii, dobândirea calității de funcționar public, prin transformarea postului de natură contractuală în post aferent funcției publice.",
+  "Obligatorie, potrivit dispozițiilor art. 517 alin. (4) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 57/2019",
+    "number": "57",
+    "year": "2019",
+    "path": "oug/2019/57"
+   },
+   "articles": [
+    {
+     "art": "612",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "406",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "407",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "370",
+     "alin": [
+      "1",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "465",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "464",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "537",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "382",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "539",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "541",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 63
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "2545",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2517",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituția României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "5-2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "516",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "515",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "514",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea contenciosului administrativ nr. 554/2004",
+    "number": "554",
+    "year": "2004",
+    "path": "lege/2004/554"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-03-04",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/295134",
+  "text_sha256": "9bb8588a1da32c842c9e1be3c6aad8447d16dc0bb534035be61ae44e1efce686",
+  "catalogue_sha256": "9bb8588a1da32c842c9e1be3c6aad8447d16dc0bb534035be61ae44e1efce686",
+  "fetched": "2026-11-03T01:00:14Z",
+  "chars": 49618,
+  "portal_id": "295134",
+  "tip": "DECIZIE"
+ }
+}
