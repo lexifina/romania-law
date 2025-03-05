@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2024-06-25: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2024-06-27: sent for promulgation
 - 2024-09-19: published in the Monitorul Oficial
+- 2025-03-05: promulgated, becomes Legea nr. 12/2025; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -32,3 +33,5 @@ Initiator: Guvernul României.
 - 2024-02-08: Adresă către Camera Deputaților (AM): [am-850f42f3.md](am-850f42f3.md); official file https://www.senat.ro/legis/PDF/2023/23L721AM.PDF
 - 2024-06-25: Adresă privind sesizarea CCR (AXS): [axs-c0dcc857.md](axs-c0dcc857.md); official file https://www.senat.ro/legis/PDF/2023/23L721AXS.PDF
 - 2024-06-25: Forma trimisă la promulgare (LP): [lp-479e18e7.md](lp-479e18e7.md); official file https://www.senat.ro/legis/PDF/2023/23L721LP.PDF
+- 2025-03-05: Decret de promulgare (DP): [dp-a02d31b5.md](dp-a02d31b5.md); official file https://www.senat.ro/legis/PDF/2023/23L721DP.PDF
+- 2025-03-05: Forma promulgată (FP): [fp-913a88eb.md](fp-913a88eb.md); official file https://www.senat.ro/legis/PDF/2023/23L721FP.PDF
