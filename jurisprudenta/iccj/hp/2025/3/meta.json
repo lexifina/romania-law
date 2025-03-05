@@ -1,0 +1,562 @@
+{
+ "key": "iccj-hp-3-2025",
+ "label": "Decizia ÎCCJ nr. 3/2025 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "3",
+ "date": "2025-01-20",
+ "year": "2025",
+ "heading": "DECIZIA nr. 3 din 20 ianuarie 2025",
+ "subtitle": "privind interpretarea dispozițiilor art. 27^29 din Legea nr. 360/2002 privind Statutul polițistului, precum și a dispozițiilor art. 60 alin. (3) din anexa nr. VI la Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE",
+ "mo": {
+  "number": "192",
+  "bis": false,
+  "date": "2025-03-05",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": true,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.147/1/2024",
+  "6.150/117/2023"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 360/2002",
+    "number": "360",
+    "year": "2002",
+    "path": "lege/2002/360"
+   },
+   "articles": [
+    {
+     "art": "27-29",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 114/2018",
+    "number": "114",
+    "year": "2018",
+    "path": "oug/2018/114"
+   },
+   "articles": [
+    {
+     "art": "34-1",
+     "alin": [
+      "1",
+      "5"
+     ],
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 1.578/2002",
+    "number": "1578",
+    "year": "2002",
+    "path": "hg/2002/1578"
+   },
+   "articles": [
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Admite, în parte, sesizarea formulată de Tribunalul Cluj - Secția mixtă de contencios administrativ și fiscal, de conflicte de muncă și asigurări sociale în Dosarul nr. 6.150/117/2023, în vederea pronunțării unei hotărâri prealabile și, în consecință, stabilește că:",
+  "În interpretarea dispozițiilor art. 27^29 din Legea nr. 360/2002 privind Statutul polițistului, cu modificările și completările ulterioare, precum și a dispozițiilor art. 60 alin. (3) din anexa nr. VI la Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, cu modificările și completările ulterioare, măsurile repunerii polițistului „în funcția deținută și în toate drepturile avute la data punerii la dispoziție sau suspendării, inclusiv de compensare a celor de care a fost privat pe perioada punerii la dispoziție sau suspendării“ și „repunerii în toate drepturile bănești avute la data punerii la dispoziție, respectiv a suspendării din funcție, inclusiv compensarea drepturilor salariale de care au fost private pe perioada punerii la dispoziție, respectiv a suspendării din funcție, actualizate potrivit majorărilor sau indexărilor salariale“ includ:",
+  "– actualizarea sumelor achitate ca urmare a repunerii în funcție cu rata indicelui de inflație;",
+  "– plata dobânzii legale penalizatoare, calculată începând cu ziua următoare scadenței fiecărui salariu lunar din perioada punerii la dispoziție și până la data plății efective;",
+  "– plata retroactivă a valorii corespunzătoare sporului pentru absolvirea instituțiilor de învățământ superior, cu diplomă de licență, astfel cum este reglementată de dispozițiile art. 34^1 alin. (1) lit. b) și alin. (5) din Ordonanța de urgență a Guvernului nr. 114/2018 privind instituirea unor măsuri în domeniul investițiilor publice și a unor măsuri fiscal-bugetare, modificarea și completarea unor acte normative și prorogarea unor termene, cu modificările ulterioare, dacă la data punerii la dispoziție își desfășura activitatea în domenii corespunzătoare studiilor absolvite.",
+  "În interpretarea dispozițiilor art. 27^29 din Legea nr. 360/2002 privind Statutul polițistului, cu modificările și completările ulterioare, și a dispozițiilor art. 13, art. 16 și art. 4 alin. (2) din Hotărârea Guvernului nr. 1.578/2002 privind condițiile în baza cărora polițistul are dreptul la concedii de odihnă, concedii de studii și învoiri plătite, concedii fără plată, bilete de odihnă, tratament și recuperare, cu modificările și completările ulterioare, măsura compensării drepturilor de care a fost privat polițistul pe perioada punerii la dispoziție sau a suspendării nu include compensarea în bani a concediului de odihnă suplimentar neefectuat.",
+  "Respinge, ca inadmisibilă, sesizarea privind interpretarea dispozițiilor art. 27^29 din Legea nr. 360/2002 privind Statutul polițistului, cu modificările și completările ulterioare, în sensul includerii sau neincluderii, în categoria drepturilor cuvenite polițistului repus în funcție, a totalității „sporurilor și drepturilor pecuniare aferente funcției pe care fiecare dintre reclamanți ar fi deținut-o în lipsa punerii la dispoziție, incluzând, însă fără a se limita la sporul de fidelitate, sporul pentru studii superioare, sporul pentru păstrarea confidențialității etc.; avansările în grad; majorările salariului de funcție/salariului de bază cu 7,5% pentru titlul de specialist de clasă/domeniu funcțional clasa I (...)“.",
+  "Obligatorie potrivit art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 62/2024",
+    "number": "62",
+    "year": "2024",
+    "path": "oug/2024/62"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 360/2002",
+    "number": "360",
+    "year": "2002",
+    "path": "lege/2002/360"
+   },
+   "articles": [
+    {
+     "art": "27-29",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 30
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 1.578/2002",
+    "number": "1578",
+    "year": "2002",
+    "path": "hg/2002/1578"
+   },
+   "articles": [
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "34-1",
+     "alin": [
+      "1",
+      "5"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "14",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 17
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 114/2018",
+    "number": "114",
+    "year": "2018",
+    "path": "oug/2018/114"
+   },
+   "articles": [
+    {
+     "art": "34-1",
+     "alin": [
+      "1",
+      "5"
+     ],
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "60",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 18
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 130/2021",
+    "number": "130",
+    "year": "2021",
+    "path": "oug/2021/130"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul muncii",
+    "path": "lege/2003/53",
+    "slug": "codul-muncii"
+   },
+   "articles": [
+    {
+     "art": "166",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "1531",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1535",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1385",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 13/2011",
+    "number": "13",
+    "year": "2011",
+    "path": "og/2011/13"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 130/2021",
+    "number": "130",
+    "year": "2021",
+    "path": "og/2021/130"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "95",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului administrativ",
+    "path": "oug/2019/57",
+    "slug": "codul-administrativ"
+   },
+   "articles": [
+    {
+     "art": "527",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "536",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "cod/1864/civil",
+    "slug": "codul-civil-1864"
+   },
+   "articles": [
+    {
+     "art": "1082",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1088",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 71/2009",
+    "number": "71",
+    "year": "2009",
+    "path": "oug/2009/71"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 3/2019",
+    "number": "3",
+    "year": "2019",
+    "path": "oug/2019/3"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul ministrului finanțelor publice nr. 86/2005",
+    "number": "86",
+    "year": "2005"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 157/2017",
+    "number": "157",
+    "year": "2017",
+    "path": "lege/2017/157"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 59/2000",
+    "number": "59",
+    "year": "2000",
+    "path": "oug/2000/59"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 48/2022",
+    "number": "48",
+    "year": "2022",
+    "path": "oug/2022/48"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 75/2020",
+    "number": "75",
+    "year": "2020",
+    "path": "oug/2020/75"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 31/1991",
+    "number": "31",
+    "year": "1991",
+    "path": "lege/1991/31"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-03-05",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/295164",
+  "text_sha256": "33cbec2c629638a7146ebdeeafcf99daf3eba23d51cbaf6adb2b549cd92cb756",
+  "catalogue_sha256": "33cbec2c629638a7146ebdeeafcf99daf3eba23d51cbaf6adb2b549cd92cb756",
+  "fetched": "2026-11-03T01:00:12Z",
+  "chars": 90093,
+  "portal_id": "295164",
+  "tip": "DECIZIE"
+ }
+}
