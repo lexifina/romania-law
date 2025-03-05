@@ -1,0 +1,52 @@
+În conformitate cu prevederile art. 12 alin. (1) și ale art. 27
+alin. (1) din Legea nr. 101/2016 privind remediile și căile de atac în
+materie  de  atribuire  a  contractelor  de  achiziție  publică,  a
+contractelor sectoriale și a contractelor de concesiune de lucrări și
+concesiune de servicii, precum și pentru organizarea și funcționarea
+Consiliului Național de Soluționare a Contestațiilor, Consiliul adoptă
+următoarea
+DECIZIE
+Nr. 570/C4/648
+Data: 05.03.2025
+Prin contestația nr. 33/28.02.2025, înregistrată la Consiliul Național
+de Soluționare a Contestațiilor sub nr. 13083/28.02.2025, formulată de
+GBC EXIM SRL, cu sediul în București, str. Lotrioara nr. 39, bl. W40, sc.2,
+et.7, ap. 92, sector 3, înregistrată la Oficiul Registrului Comerțului sub nr.
+J40/9735/2002, CUI RO14916025, reprezentată legal de George Boboc -
+administrator, împotriva raportului procedurii nr. BA-037 din 18.02.2025
+din  RU  A-995/12.09.2023  și  a  comunicării  rezultatului  procedurii  nr.
+BA-034/18.02.2025 din RU A-997/09.09.2024, emise de către UNITATEA
+MILITARĂ 01575 BUCUREȘTI, cu sediul în București, str. Drumul Taberei
+nr. 7H, sector 6, în calitate de autoritate contractantă, în cadrul procedurii
+de atribuire, prin licitație deschisă, a contractului de achiziții publice având
+ca obiect „“VIDEOWALL 3x3; VIDEOWALL 2x2; Display interactiv SMART
+Board”, pentru Lotul 2 - „4 buc VIDEOWALL 2x2”, Anunț de participare nr.
+CN1071875/07.08.2024, s-a solicitat:
+(a) Anularea raportului procedurii nr. BA-037 din 18.02.2025 din RU
+A-995/12.09.2023  și  a  comunicării  rezultatului  procedurii  nr.
+BA-034/18.02.2025 din RU A-997/09.09.2024, precum și a oricăror acte
+interne  anterioare  și/sau  subsecvente  și  conexe  acesteia  care  privesc
+modalitatea de evaluare a ofertei depuse de către Felix Telecom SRL din
+perspectiva  aplicării  factorilor  de  evaluare  „Consumul  de  energie  al
+panourilor LED în modul activ/oră” și „Consumul de energie al panourilor
+LED în modul inactiv/oră”;
+(b)  Obligarea  autorității  contractante  la  continuarea  procedurii  de
+atribuire cu respectarea dispozițiilor legale în materia achizițiilor publice, cu
+consecința  eliminării  punctajului  acordat  ofertei  Felix  Telecom  SRL  prin
+
+raportare la factorii de evaluare „Consumul de energie al panourilor LED în
+modul  activ/oră”  și  „Consumul  de  energie  al  panourilor  LED  în  modul
+inactiv/oră”, urmare a aplicării condițiilor și a algoritmilor de calcul aferenți.
+Pentru aceste motive,
+în baza legii și a mijloacelor de probă afiate la dosar,
+CONSILIUL DECIDE:
+În  temeiul  dispozițiilor  art.  26  alin.  (8)  din  Legea  nr.  101/2016,
+Consiliul ia act de renunțarea la contestația nr. 33/28.02.2025, înregistrată
+la  Consiliul  Național  de  Soluționare  a  Contestațiilor  sub  nr.
+13083/28.02.2025,  ce  formează  obiectul  dosarului  nr.  648/C4/2025,
+formulată de SC GBC EXIM SRL, în contradictoriu cu UNITATEA MILITARĂ
+01575 BUCUREȘTI.
+Prezenta  decizie  este  obligatorie  pentru  părți.  Împotriva  prezentei
+decizii se poate formula plângere în termen de 10 zile de la comunicare.
+
+Redactată în 4 exemplare, conține 2 (două) pagini.
