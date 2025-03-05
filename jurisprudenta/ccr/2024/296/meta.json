@@ -1,0 +1,179 @@
+{
+ "key": "dcc-296-2024",
+ "label": "Decizia CCR nr. 296/2024",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "296",
+ "date": "2024-06-18",
+ "year": "2024",
+ "heading": "DECIZIA nr. 296 din 18 iunie 2024",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 1.034, ale art. 1.035 alin. (2) și ale art. 1.041 din Codul de procedură civilă",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "192",
+  "bis": false,
+  "date": "2025-03-05",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "18.572/4/2018",
+  "262D/2020"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "1034",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1035",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1041",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Nalini Ziya în Dosarul nr. 18.572/4/2018 al Tribunalului București - Secția a III-a civilă și constată că dispozițiile art. 1.034, art. 1.035 alin. (2) și art. 1.041 din Codul de procedură civilă sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului București - Secția a III-a civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "1034",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1035",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1041",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1039",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2025-03-05",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/295162",
+  "text_sha256": "d62a1a114ac0bfe241842b9db53aa3023d192edb043d054cb9024c5a828905f6",
+  "catalogue_sha256": "d62a1a114ac0bfe241842b9db53aa3023d192edb043d054cb9024c5a828905f6",
+  "fetched": "2026-11-03T01:00:12Z",
+  "chars": 14438,
+  "portal_id": "295162",
+  "tip": "DECIZIE"
+ }
+}
