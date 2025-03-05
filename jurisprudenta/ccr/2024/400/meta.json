@@ -1,0 +1,519 @@
+{
+ "key": "dcc-400-2024",
+ "label": "Decizia CCR nr. 400/2024",
+ "court": "ccr",
+ "kind": "a-priori",
+ "subkind": "lege-inainte-de-promulgare",
+ "number": "400",
+ "date": "2024-09-19",
+ "year": "2024",
+ "heading": "DECIZIA nr. 400 din 19 septembrie 2024",
+ "subtitle": "referitoare la obiecția de neconstituționalitate a Legii pentru aprobarea Ordonanței de urgență a Guvernului nr. 109/2023 privind înființarea, dezvoltarea și administrarea unui hub financiar la nivelul Ministerului Finanțelor, în ansamblul său, a Ordonanței de urgență a Guvernului nr. 109/2023 privind înființarea, dezvoltarea și administrarea unui hub financiar la nivelul Ministerului Finanțelor, în ansamblul său, precum și, în special, a dispozițiilor art. 1-5 din ordonanța de urgență",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "191",
+  "bis": false,
+  "date": "2025-03-05",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "2.126A/2024"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii pentru aprobarea Ordonanței de urgență a Guvernului nr. 109/2023",
+    "number": "109",
+    "year": "2023",
+    "path": "lege/2023/109"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 109/2023",
+    "number": "109",
+    "year": "2023",
+    "path": "oug/2023/109"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, obiecția de neconstituționalitate și constată că Legea pentru aprobarea Ordonanței de urgență a Guvernului nr. 109/2023 privind înființarea, dezvoltarea și administrarea unui hub financiar la nivelul Ministerului Finanțelor, în ansamblul său, Ordonanța de urgență a Guvernului nr. 109/2023 privind înființarea, dezvoltarea și administrarea unui hub financiar la nivelul Ministerului Finanțelor, în ansamblul său, precum și, în special, dispozițiile art. 1 - 5 din ordonanța de urgență sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Președintelui României și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii pentru aprobarea Ordonanței de urgență a Guvernului nr. 109/2023",
+    "number": "109",
+    "year": "2023",
+    "path": "lege/2023/109"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "3",
+      "5",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "141",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "115",
+     "alin": [
+      "4",
+      "6",
+      "7",
+      "8"
+     ],
+     "lit": null
+    },
+    {
+     "art": "138",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "146",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "77",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 39
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea serviciului de iluminat public nr. 230/2006",
+    "number": "230",
+    "year": "2006",
+    "path": "lege/2006/230"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": [
+      "8"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 248/2013",
+    "number": "248",
+    "year": "2013",
+    "path": "lege/2013/248"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "g"
+     ]
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 500/2002",
+    "number": "500",
+    "year": "2002",
+    "path": "lege/2002/500"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea responsabilității fiscal-bugetare nr. 69/2010",
+    "number": "69",
+    "year": "2010",
+    "path": "lege/2010/69"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 182/2002",
+    "number": "182",
+    "year": "2002",
+    "path": "lege/2002/182"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "18",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.a"
+     ]
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 89/2022",
+    "number": "89",
+    "year": "2022",
+    "path": "oug/2022/89"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": [
+      "k"
+     ]
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 163/2021",
+    "number": "163",
+    "year": "2021",
+    "path": "lege/2021/163"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 30/2022",
+    "number": "30",
+    "year": "2022",
+    "path": "oug/2022/30"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 112/2023",
+    "number": "112",
+    "year": "2023",
+    "path": "hg/2023/112"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 114/2011",
+    "number": "114",
+    "year": "2011",
+    "path": "oug/2011/114"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 109/2023",
+    "number": "109",
+    "year": "2023",
+    "path": "oug/2023/109"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "9"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 363/2018",
+    "number": "363",
+    "year": "2018",
+    "path": "lege/2018/363"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 98/2010",
+    "number": "98",
+    "year": "2010",
+    "path": "oug/2010/98"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 60/1995",
+    "number": "60",
+    "year": "1995",
+    "path": "hg/1995/60"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea contenciosului administrativ nr. 554/2004",
+    "number": "554",
+    "year": "2004",
+    "path": "lege/2004/554"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2025-03-05",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/295152",
+  "text_sha256": "1016d77ac8c08ddf56ea30a7f1df15e7ae7622e774a774bb68d2479007ec5b10",
+  "catalogue_sha256": "1016d77ac8c08ddf56ea30a7f1df15e7ae7622e774a774bb68d2479007ec5b10",
+  "fetched": "2026-11-03T01:00:12Z",
+  "chars": 97007,
+  "portal_id": "295152",
+  "tip": "DECIZIE"
+ }
+}
