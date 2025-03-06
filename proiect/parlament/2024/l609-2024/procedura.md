@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2025-02-24: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-03-01: sent for promulgation
 - 2025-03-05: promulgated, becomes Legea nr. 13/2025; documents published: Decret de promulgare, Forma promulgată
+- 2025-03-06: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -34,3 +35,6 @@ Initiator: Guvernul României.
 - 2025-02-24: Forma trimisă la promulgare (LP): [lp-c3c4beb2.md](lp-c3c4beb2.md); official file https://www.senat.ro/legis/PDF/2024/24L609LP.PDF
 - 2025-03-05: Decret de promulgare (DP): [dp-84c3dea4.md](dp-84c3dea4.md); official file https://www.senat.ro/legis/PDF/2024/24L609DP.PDF
 - 2025-03-05: Forma promulgată (FP): [fp-e6e18ba7.md](fp-e6e18ba7.md); official file https://www.senat.ro/legis/PDF/2024/24L609FP.PDF
+- 2025-03-06: Document (TX): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L609TX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-03-06: Document (AL): [al-2a33b568.md](al-2a33b568.md); official file https://www.senat.ro/legis/PDF/2024/24L609AL.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-03-06: Document (TC): [tc-f96028cf.md](tc-f96028cf.md); official file https://www.senat.ro/legis/PDF/2024/24L609TC.PDF (its day is not given by the bill file: shown from the last stage held)
