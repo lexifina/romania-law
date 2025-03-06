@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2024-06-27: sent for promulgation
 - 2024-09-19: published in the Monitorul Oficial
 - 2025-03-05: promulgated, becomes Legea nr. 12/2025; documents published: Decret de promulgare, Forma promulgată
+- 2025-03-06: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -35,3 +36,5 @@ Initiator: Guvernul României.
 - 2024-06-25: Forma trimisă la promulgare (LP): [lp-479e18e7.md](lp-479e18e7.md); official file https://www.senat.ro/legis/PDF/2023/23L721LP.PDF
 - 2025-03-05: Decret de promulgare (DP): [dp-a02d31b5.md](dp-a02d31b5.md); official file https://www.senat.ro/legis/PDF/2023/23L721DP.PDF
 - 2025-03-05: Forma promulgată (FP): [fp-913a88eb.md](fp-913a88eb.md); official file https://www.senat.ro/legis/PDF/2023/23L721FP.PDF
+- 2025-03-06: Document (SC): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L721SC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-03-06: Document (DC): [dc-fa5016dd.md](dc-fa5016dd.md); official file https://www.senat.ro/legis/PDF/2023/23L721DC.PDF (its day is not given by the bill file: shown from the last stage held)
