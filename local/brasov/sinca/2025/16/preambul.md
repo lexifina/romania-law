@@ -1,0 +1,11 @@
+Consiliul Local al Comunei Șinca întrunit în ședință extraordinară convocata de indata la data de 06.03.2025,
+Având în vedere referatul de aprobare nr. 1287/05.03.2025 a Primarului Comunei Șinca si raportul de specialitate nr. 1288/05.03.2025 al Compartimentului decadastru si urbanism privind aprobarea participării UAT Comuna Șinca la Programul național multianual privind finanțarea elaborării și/ actualizării planurilor urbanistice generale ale localităților și a regulamentelor locale de urbanism, aprobarea cofinantarii, a Devizului General si a indicatorilor in vederea actualizarii "Planului Urbanistic General și a Regulamentului Local de Urbanism al comunei Șinca, județul Brașov"
+Luand act de adresa C.J. Brașov nr. 5/4165 din 21.02.2025 privind transmiterea necesarului estimat de sume de la bugetul de stat pentru anul bugetar in curs si estimarile pentru urmatorii ani pentru finantarea planurilor urbanistice generale și a regulamentelor locale de urbanism, de prevederile H.C.L. nr. 9/1999 privind aprobare P.U.G. Comuna Șinca, prevedrile H.C.L. nr. 49/2023 privind aprobarea prelungirii valabilității Planului Urbanistic General al Comunei Șinca;
+Vazand avizul favorabil al Comisiei de specialitate din cadrul Consiliului Local Sinca;
+În conformitate cu prevederile art. 5 lit. e) din H.G. nr. 1137 din 16 noiembrie 2023 privind aprobarea Normelor metodologice pentru derularea programului multianual privind finantarea elaborarii și/sau actualizării planurilor urbanistice generale ale localitaților și a regulamentelor locale de urbanism, prevederile art. 5 alin. (1) , art. 6, art. 25 alin. (1) și (2) , art.
+46 alin. (13) alin. (17), alin. (18), lit. b), art. 461 și art. 51 alin. (20 din Legea nr. 350/2001 privind amenajarea teritoriului și urbanismul, cu modificările și completările ulterioare, prevederile art.
+44 și art. 45 din Legea nr. 273/ 2006 privind finanțele publice locale, cu modificările și completările ulterioare si de prevederile art. 129 alin. (1), alin. (2), lit. c), alin. (6), lit. c), alin.
+(14) și ale din OUG nr. 57/2019 privind Codul administrativ, cu modificările și completările ulterioare;
+În temeiul prevederilor art. 139 coroborat cu art. 196 alin. (1) lit. a) din O.U.G. nr.
+57/2019 privind Codul Administrativ al României, cu modificările și completările ulterioare;
+HOTĂRĂȘTE:
