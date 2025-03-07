@@ -1,0 +1,21 @@
+# Proiect de lege L51/2025
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 49/2025 (`legea-49-2025`).
+
+Proiect de lege pentru completarea Ordonanței de urgenţă a Guvernului nr.57/2019 privind Codul administrativ și pentru modificarea Legii nr.251/2004 privind unele măsuri referitoare la bunurile primite cu titlu gratuit cu prilejul unor acţiuni de protocol în exercitarea mandatului sau a funcţiei
+
+Initiator: Guvernul României.
+
+## Stages published so far
+
+- 2025-03-07: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+
+## Documents
+
+- 2025-03-07: Adresă de înaintare a inițiativei (AD): [ad-6b6aafa3.md](ad-6b6aafa3.md); official file https://www.senat.ro/legis/PDF/2025/25L051AD.PDF
+- 2025-03-07: Forma inițiatorului (FG): [fg-190006c1.md](fg-190006c1.md); official file https://www.senat.ro/legis/PDF/2025/25L051FG.PDF
+- 2025-03-07: Expunere de motive (EM): [em-3c1aad4d.md](em-3c1aad4d.md); official file https://www.senat.ro/legis/PDF/2025/25L051EM.PDF
+- 2025-03-07: Aviz Consiliul Legislativ (LG): [lg-7d5cdb3f.md](lg-7d5cdb3f.md); official file https://www.senat.ro/legis/PDF/2025/25L051LG.PDF
+- 2025-03-07: Document (HG): [hg-863cfe67.md](hg-863cfe67.md); official file https://www.senat.ro/legis/PDF/2025/25L051HG.PDF
