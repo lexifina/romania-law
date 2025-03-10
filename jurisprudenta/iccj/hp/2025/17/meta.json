@@ -1,0 +1,142 @@
+{
+ "key": "iccj-hp-17-2025",
+ "label": "Decizia ÎCCJ nr. 17/2025 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "17",
+ "date": "2025-01-27",
+ "year": "2025",
+ "heading": "DECIZIA nr. 17 din 27 ianuarie 2025",
+ "subtitle": "referitoare la interpretarea și aplicarea dispozițiilor art. 7 alin. (1) lit. h) de la capitolul II din anexa nr. II la Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, cu modificările și completările ulterioare",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "209",
+  "bis": false,
+  "date": "2025-03-10",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.167/1/2024",
+  "4.768/99/2023",
+  "12.095/3/2024",
+  "2.843/1/2024"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [],
+   "mentions": 4
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Tribunalul Iași - Secția I civilă în Dosarul nr. 4.768/99/2023, în vederea pronunțării unei hotărâri prealabile cu privire la următoarea chestiune de drept: Dacă, în interpretarea și aplicarea dispozițiilor art. 7 alin. (1) lit. h) de la capitolul II din anexa nr. II la Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, cu modificările și completările ulterioare, pentru familia ocupațională de funcții bugetare „Sănătate și asistență socială“, respectiv ale articolului unic lit. A pct. 3 din anexa nr. 8 la Regulamentul-cadru privind stabilirea locurilor de muncă, a categoriilor de personal, a mărimii concrete a sporului pentru condiții de muncă prevăzut în anexa nr. II la Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, precum și a condițiilor de acordare a acestuia, pentru familia ocupațională de funcții bugetare „Sănătate și asistență socială“, aprobat prin Hotărârea Guvernului nr. 153/2018, cu modificările și completările ulterioare, dispoziția referitoare la dreptul de a beneficia de sporul de 12-15% din salariul de bază se interpretează în sensul că se aplică și personalului care își desfășoară activitatea în cadrul cabinetelor școlare din instituțiile de învățământ special?",
+  "Respinge, ca inadmisibilă, sesizarea conexă formulată de Tribunalul București - Secția a VIII-a conflicte de muncă și asigurări sociale în Dosarul nr. 12.095/3/2024, în vederea pronunțării unei hotărâri prealabile cu privire la următoarea chestiune de drept: Dacă de sporul pentru condiții deosebite de muncă prevăzut de art. 7 alin. (1) lit. h) din capitolul II al anexei nr. II la Legea-cadru nr. 153/2017 pot beneficia și reclamanții - personal medical din cabinetele medicale organizate în unități de învățământ.",
+  "Obligatorie, potrivit art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 62/2024",
+    "number": "62",
+    "year": "2024",
+    "path": "oug/2024/62"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 22
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-03-10",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/295271",
+  "text_sha256": "f0d88b0b4d92af776f728e151b9df8778b2d59a270c59d5e94abe446049aa604",
+  "catalogue_sha256": "f0d88b0b4d92af776f728e151b9df8778b2d59a270c59d5e94abe446049aa604",
+  "fetched": "2026-11-03T01:00:03Z",
+  "chars": 33100,
+  "portal_id": "295271",
+  "tip": "DECIZIE"
+ }
+}
