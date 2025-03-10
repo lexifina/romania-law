@@ -1,0 +1,167 @@
+{
+ "key": "iccj-hp-32-2025",
+ "label": "Decizia ÎCCJ nr. 32/2025 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "32",
+ "date": "2025-02-10",
+ "year": "2025",
+ "heading": "DECIZIA nr. 32 din 10 februarie 2025",
+ "subtitle": "referitoare la dreptul persoanelor care au calitatea de personal militar și acces la informații clasificate, în temeiul prevederilor art. 3 alin. (1) din Legea nr. 444/2006 pentru aprobarea Ordonanței Guvernului nr. 19/2006, la un spor de 15% din solda lunară, respectiv din salariul de bază, pentru păstrarea confidențialității, indiferent de clasele/nivelurile de secretizare la care au acces potrivit avizului pe care îl dețin",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "210",
+  "bis": false,
+  "date": "2025-03-10",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.380/1/2024",
+  "25.800/3/2022"
+ ],
+ "subjects": [],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Curtea de Apel București - Secția a VII-a pentru cauze privind conflicte de muncă și asigurări sociale în Dosarul nr. 25.800/3/2022*, privind dezlegarea următoarei chestiuni de drept:",
+  "Dacă persoanele care au calitatea de personal militar și acces la informații clasificate au dreptul, în temeiul prevederilor art. 3 alin. (1) din Legea nr. 444/2006 pentru aprobarea Ordonanței Guvernului nr. 19/2006, la un spor de 15% din solda lunară, respectiv din salariul de bază, pentru păstrarea confidențialității, indiferent de clasele/nivelurile de secretizare la care au acces potrivit avizului pe care îl dețin.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 444/2006",
+    "number": "444",
+    "year": "2006",
+    "path": "lege/2006/444"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 182/2002",
+    "number": "182",
+    "year": "2002",
+    "path": "lege/2002/182"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul ministrului administrației și internelor nr. 121/2007",
+    "number": "121",
+    "year": "2007"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 62/2024",
+    "number": "62",
+    "year": "2024",
+    "path": "oug/2024/62"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 19/2006",
+    "number": "19",
+    "year": "2006",
+    "path": "og/2006/19"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [
+  "subjects: none parsed"
+ ],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-03-10",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/295281",
+  "text_sha256": "4030f7c2672429a87dd3fa551c1ebf432186c96c23a70ef58f35835fb7b1d66c",
+  "catalogue_sha256": "4030f7c2672429a87dd3fa551c1ebf432186c96c23a70ef58f35835fb7b1d66c",
+  "fetched": "2026-11-03T01:00:06Z",
+  "chars": 28328,
+  "portal_id": "295281",
+  "tip": "DECIZIE"
+ }
+}
