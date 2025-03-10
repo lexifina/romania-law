@@ -17,6 +17,7 @@ Initiator: Membri ai Parlamentului.
 - 2024-03-26: documents published: Aviz comisie
 - 2024-04-02: documents published: Aviz comisie
 - 2024-04-03: documents published: Aviz comisie
+- 2025-03-10: adopted by the Senate; documents published: Forma adoptată de Senat
 
 ## Documents
 
@@ -27,3 +28,4 @@ Initiator: Membri ai Parlamentului.
 - 2024-03-26: Aviz comisie (CA45): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L150CA45.PDF
 - 2024-04-02: Aviz comisie (CA3): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L150CA3.PDF
 - 2024-04-03: Aviz comisie (CA57): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L150CA57.PDF
+- 2025-03-10: Forma adoptată de Senat (FS): [fs-97324324.md](fs-97324324.md); official file https://www.senat.ro/legis/PDF/2024/24L150FS.PDF
