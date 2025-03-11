@@ -1,0 +1,175 @@
+{
+ "key": "iccj-hp-36-2025",
+ "label": "Decizia ÎCCJ nr. 36/2025 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "36",
+ "date": "2025-02-10",
+ "year": "2025",
+ "heading": "DECIZIA nr. 36 din 10 februarie 2025",
+ "subtitle": "referitoare la interpretarea art. 13 alin. (2) și (6) din Legea nr. 17/2000",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "212",
+  "bis": false,
+  "date": "2025-03-11",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.540/1/2024",
+  "1.432/85/2024"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 17/2000",
+    "number": "17",
+    "year": "2000",
+    "path": "lege/2000/17"
+   },
+   "articles": [
+    {
+     "art": "13",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Tribunalul Sibiu - Secția a II-a civilă, de contencios administrativ și fiscal în Dosarul nr. 1.432/85/2024, în sensul de a se stabili:",
+  "Dacă, în interpretarea art. 13 alin. (2) și (6) din Legea nr. 17/2000, dreptul îngrijitorului informal la indemnizația cuvenită poate fi recunoscut doar ulterior aprobării bugetului local în care să fie prevăzute sumele necesare sau contractul de îngrijire informală poate fi încheiat și anterior acestui moment, dacă sunt întrunite condițiile prevăzute de lege?",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 17/2000",
+    "number": "17",
+    "year": "2000",
+    "path": "lege/2000/17"
+   },
+   "articles": [
+    {
+     "art": "13",
+     "alin": [
+      "2",
+      "6",
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 20
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 62/2024",
+    "number": "62",
+    "year": "2024",
+    "path": "oug/2024/62"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 292/2011",
+    "number": "292",
+    "year": "2011",
+    "path": "lege/2011/292"
+   },
+   "articles": [
+    {
+     "art": "13",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-03-11",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/295294",
+  "text_sha256": "bf998fa2690fbbf3e7cef13c9361b1de2e6a83d0d8fcb54db281d992a9e0b64c",
+  "catalogue_sha256": "bf998fa2690fbbf3e7cef13c9361b1de2e6a83d0d8fcb54db281d992a9e0b64c",
+  "fetched": "2026-11-05T02:57:10Z",
+  "chars": 31734,
+  "portal_id": "295294",
+  "tip": "DECIZIE"
+ }
+}
