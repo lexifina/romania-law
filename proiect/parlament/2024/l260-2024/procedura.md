@@ -16,6 +16,7 @@ Initiator: Membri ai Parlamentului.
 - 2024-05-21: rejected by the Senate; documents published: Adresă către Camera Deputaților
 - 2024-05-27: registered at the Chamber of Deputies
 - 2024-11-21: documents published: Punct de vedere Guvern
+- 2025-03-11: documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -27,3 +28,4 @@ Initiator: Membri ai Parlamentului.
 - 2024-05-14: Raport comisie sesizată pe fond (CR): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L260CR.PDF
 - 2024-05-21: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L260AM.PDF
 - 2024-11-21: Punct de vedere Guvern (SJ): [sj-f630f93b.md](sj-f630f93b.md); official file https://www.senat.ro/legis/PDF/2024/24L260SJ.PDF
+- 2025-03-11: Document (AJ): [aj-29340ab8.md](aj-29340ab8.md); official file https://www.senat.ro/legis/PDF/2024/24L260AJ.PDF (its day is not given by the bill file: shown from the last stage held)
