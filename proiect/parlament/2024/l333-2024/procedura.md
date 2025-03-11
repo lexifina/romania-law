@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2024-06-26: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2024-06-28: sent for promulgation
 - 2024-10-29: published in the Monitorul Oficial
+- 2025-03-11: promulgated, becomes Legea nr. 14/2025; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -33,3 +34,5 @@ Initiator: Guvernul României.
 - 2024-06-18: Adresă către Camera Deputaților (AM): [am-28ed3f84.md](am-28ed3f84.md); official file https://www.senat.ro/legis/PDF/2024/24L333AM.PDF
 - 2024-06-26: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L333AXS.PDF
 - 2024-06-26: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L333LP.PDF
+- 2025-03-11: Decret de promulgare (DP): [dp-8a4d8a24.md](dp-8a4d8a24.md); official file https://www.senat.ro/legis/PDF/2024/24L333DP.PDF
+- 2025-03-11: Forma promulgată (FP): [fp-ff4c57d3.md](fp-ff4c57d3.md); official file https://www.senat.ro/legis/PDF/2024/24L333FP.PDF
