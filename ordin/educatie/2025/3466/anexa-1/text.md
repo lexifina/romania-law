@@ -1,0 +1,3 @@
+# ANEXĂ
+METODOLOGIE de înscriere în clasa a IX-a, în anul școlar 2025-2026, a elevilor care au obținut, pe parcursul gimnaziului, premiul I la etapa națională a olimpiadelor școlare organizate și finanțate de Ministerul
+Educației și Cercetării sau au obținut premiul I, II sau III la competiții internaționale recunoscute de Ministerul Educației și Cercetării
