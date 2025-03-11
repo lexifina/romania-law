@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2025-02-19: adopted by the Chamber of Deputies
 - 2025-02-24: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-03-01: sent for promulgation
+- 2025-03-11: promulgated, becomes Legea nr. 15/2025; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -34,3 +35,5 @@ Initiator: Guvernul României.
 - 2024-02-09: Adresă către Camera Deputaților (AM): [am-12010f7d.md](am-12010f7d.md); official file https://www.senat.ro/legis/PDF/2023/23L672AM.PDF
 - 2025-02-24: Adresă privind sesizarea CCR (AXS): [axs-016ee058.md](axs-016ee058.md); official file https://www.senat.ro/legis/PDF/2023/23L672AXS.PDF
 - 2025-02-24: Forma trimisă la promulgare (LP): [lp-26c0e023.md](lp-26c0e023.md); official file https://www.senat.ro/legis/PDF/2023/23L672LP.PDF
+- 2025-03-11: Decret de promulgare (DP): [dp-cdda2791.md](dp-cdda2791.md); official file https://www.senat.ro/legis/PDF/2023/23L672DP.PDF
+- 2025-03-11: Forma promulgată (FP): [fp-3df68785.md](fp-3df68785.md); official file https://www.senat.ro/legis/PDF/2023/23L672FP.PDF
