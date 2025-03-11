@@ -1,0 +1,185 @@
+{
+ "key": "iccj-hp-29-2025",
+ "label": "Decizia ÎCCJ nr. 29/2025 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "29",
+ "date": "2025-02-10",
+ "year": "2025",
+ "heading": "DECIZIA nr. 29 din 10 februarie 2025",
+ "subtitle": "referitoare la modul de actualizare a pensiilor de serviciu ale grefierilor în perioada 2018-2020, raportat la dispozițiile art. 68^5 alin. (10) din Legea nr. 567/2004 privind statutul personalului auxiliar de specialitate al instanțelor judecătorești și al parchetelor de pe lângă acestea și al personalului care funcționează în cadrul Institutului Național de Expertize Criminalistice, cu modificările și completările ulterioare",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "211",
+  "bis": false,
+  "date": "2025-03-11",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.260/1/2024",
+  "1.509/95/2024"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 567/2004",
+    "number": "567",
+    "year": "2004",
+    "path": "lege/2004/567"
+   },
+   "articles": [
+    {
+     "art": "68-5",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Tribunalul Gorj - Secția conflicte de muncă și asigurări sociale în Dosarul nr. 1.509/95/2024 în vederea pronunțării unei hotărâri prealabile pentru dezlegarea chestiunii de drept privind: Modul de actualizare a pensiilor de serviciu ale grefierilor în perioada 2018-2020, raportat la dispozițiile art. 68^5 alin. (10) din Legea nr. 567/2004 privind statutul personalului auxiliar de specialitate al instanțelor judecătorești și al parchetelor de pe lângă acestea și al personalului care funcționează în cadrul Institutului Național de Expertize Criminalistice, cu modificările și completările ulterioare, în sensul dacă actualizarea are loc în raport cu indicele de inflație al anului anterior sau în raport cu indicele de inflație cunoscut la data de 1 ianuarie a fiecărui an în care se face actualizarea și comunicat de Institutul Național de Statistică.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 62/2024",
+    "number": "62",
+    "year": "2024",
+    "path": "oug/2024/62"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 567/2004",
+    "number": "567",
+    "year": "2004",
+    "path": "lege/2004/567"
+   },
+   "articles": [
+    {
+     "art": "68-5",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 21
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 223/2007",
+    "number": "223",
+    "year": "2007",
+    "path": "lege/2007/223"
+   },
+   "articles": [
+    {
+     "art": "42-5",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "95",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "94",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 59/2017",
+    "number": "59",
+    "year": "2017",
+    "path": "oug/2017/59"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-03-11",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/295287",
+  "text_sha256": "9f0cb9a686dba804f354bc7964832bf190ad779f6061f922a40e15a5cc7e015d",
+  "catalogue_sha256": "9f0cb9a686dba804f354bc7964832bf190ad779f6061f922a40e15a5cc7e015d",
+  "fetched": "2026-11-03T01:00:03Z",
+  "chars": 38211,
+  "portal_id": "295287",
+  "tip": "DECIZIE"
+ }
+}
