@@ -1,0 +1,236 @@
+{
+ "key": "iccj-hp-11-2025",
+ "label": "Decizia ÎCCJ nr. 11/2025 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "11",
+ "date": "2025-01-20",
+ "year": "2025",
+ "heading": "DECIZIA nr. 11 din 20 ianuarie 2025",
+ "subtitle": "referitoare la interpretarea dispozițiilor art. 133 alin. (2), alin. (4), ale art. 102 alin. (4), alin. (5) și alin. (8^1), art. 111 alin. (6) teza finală și ale art. 165 pct. 1 din Legea nr. 85/2014 privind procedurile de prevenire a insolvenței și de insolvență",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "216",
+  "bis": false,
+  "date": "2025-03-12",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.186/1/2024",
+  "6.151/118/2017"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 85/2014",
+    "number": "85",
+    "year": "2014",
+    "path": "lege/2014/85"
+   },
+   "articles": [
+    {
+     "art": "133",
+     "alin": [
+      "2",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "102",
+     "alin": [
+      "4",
+      "5",
+      "8-1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "111",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "165",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Curtea de Apel Constanța - Secția a II-a civilă, de insolvență și litigii cu profesioniști și societăți, în Dosarul nr. 6.151/118/2017/a16, în vederea pronunțării unei hotărâri prealabile pentru dezlegarea următoarei chestiuni de drept:",
+  "Dacă în interpretarea dispozițiilor art. 133 alin. (2), alin. (4), ale art. 102 alin. (4), alin. (5) și alin. (8^1), art. 111 alin. (6) teza finală și ale art. 165 pct. 1 din Legea nr. 85/2014 privind procedurile de prevenire a insolvenței și de insolvență, în cuprinsul planului de reorganizare trebuie cuprinse și creanțele înscrise sub condiție suspensivă, iar, în caz afirmativ, dacă, prin raportare la aceleași prevederi legale, creanțele înscrise sub condiție suspensivă trebuie provizionate în cuprinsul planului de reorganizare",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 85/2014",
+    "number": "85",
+    "year": "2014",
+    "path": "lege/2014/85"
+   },
+   "articles": [
+    {
+     "art": "133",
+     "alin": [
+      "2",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "102",
+     "alin": [
+      "4",
+      "5",
+      "8-1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "111",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "165",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "132",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "43",
+     "alin": [
+      "1",
+      "7"
+     ],
+     "lit": null
+    },
+    {
+     "art": "45",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "634",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "480",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "1400",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 88/2018",
+    "number": "88",
+    "year": "2018",
+    "path": "oug/2018/88"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 113/2020",
+    "number": "113",
+    "year": "2020",
+    "path": "lege/2020/113"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-03-12",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/295326",
+  "text_sha256": "d4d697c86799d14e5f387bc033eeff5250714f1b859babe33b854613bfc1f79a",
+  "catalogue_sha256": "d4d697c86799d14e5f387bc033eeff5250714f1b859babe33b854613bfc1f79a",
+  "fetched": "2026-11-03T00:59:58Z",
+  "chars": 38114,
+  "portal_id": "295326",
+  "tip": "DECIZIE"
+ }
+}
