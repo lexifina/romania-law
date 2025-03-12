@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2024-06-28: sent for promulgation
 - 2024-10-29: published in the Monitorul Oficial
 - 2025-03-11: promulgated, becomes Legea nr. 14/2025; documents published: Decret de promulgare, Forma promulgată
+- 2025-03-12: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -36,3 +37,5 @@ Initiator: Guvernul României.
 - 2024-06-26: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L333LP.PDF
 - 2025-03-11: Decret de promulgare (DP): [dp-8a4d8a24.md](dp-8a4d8a24.md); official file https://www.senat.ro/legis/PDF/2024/24L333DP.PDF
 - 2025-03-11: Forma promulgată (FP): [fp-ff4c57d3.md](fp-ff4c57d3.md); official file https://www.senat.ro/legis/PDF/2024/24L333FP.PDF
+- 2025-03-12: Document (SC): [sc-d99c15aa.md](sc-d99c15aa.md); official file https://www.senat.ro/legis/PDF/2024/24L333SC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-03-12: Document (DC): [dc-68a385f9.md](dc-68a385f9.md); official file https://www.senat.ro/legis/PDF/2024/24L333DC.PDF (its day is not given by the bill file: shown from the last stage held)
