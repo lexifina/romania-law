@@ -1,0 +1,55 @@
+{
+ "key": "cjue-c-266-22-hotarare-2025-03-13",
+ "label": "CJUE, Hotărârea Curții (Camera a patra) din 13 martie 2025, Cauza C-266/22",
+ "court": "cjue",
+ "court_name": "Curtea de Justiție a Uniunii Europene",
+ "kind": "hotarare",
+ "act_type": "JUDG",
+ "date": "2025-03-13",
+ "year": "2025",
+ "case": "Cauza C-266/22",
+ "celex": "62022CJ0266",
+ "ecli": "ECLI:EU:C:2025:178",
+ "heading": "Hotărârea Curții (Camera a patra) din 13 martie 2025",
+ "formation": "CHAMB_04_C",
+ "procedure": "REFER_PREL",
+ "romania_role": [
+  "originates"
+ ],
+ "referred_by": null,
+ "referral_text": "Cerere de decizie preliminară formulată de Curtea de Apel Bucureşti",
+ "national_followup": [
+  "Curtea de Apel Bucureşti, secţia a VIII-a Contencios Administrativ şi Fiscal, încheiere din 23/03/2022 (832/2/2022)"
+ ],
+ "parties": null,
+ "parties_withheld": true,
+ "keywords": "Trimitere preliminară – Achiziții publice în Uniunea Europeană – Directiva 2014/24/UE – Articolul 25 – Operatori economici din țări terțe care nu au încheiat cu Uniunea un acord internațional care garantează, în mod reciproc și egal, accesul la achizițiile publice – Lipsa dreptului acestor operatori economici la un «tratament nu mai puțin favorabil» – Excluderea unui astfel de operator economic dintr‑o procedură de atribuire a unui contract de achiziții publice, în temeiul unei legislații naționale – Competență exclusivă a Uniunii",
+ "interprets": [
+  {
+   "celex": "12008E003",
+   "folder": null
+  }
+ ],
+ "text": "dispozitiv.md",
+ "text_withheld": "personal_data",
+ "withheld_reason": "The full text names the parties' lawyers (and, in older cases, private parties); only the metadata and the operative part are published here, with the official link.",
+ "operative_missing": false,
+ "eurlex_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62022CJ0266",
+ "curia_url": "https://curia.europa.eu/juris/liste.jsf?num=C-266/22&language=ro",
+ "source": {
+  "name": "CELLAR, Publications Office of the European Union",
+  "url": "http://publications.europa.eu/resource/cellar/5ed6010e-ffed-11ef-9503-01aa75ed71a1.0002.05/DOC_1",
+  "format": "xhtml",
+  "sha256": [
+   "f441f316bb88a974cc36b64735789173466d2804da5d967ccce1ebf25275328d"
+  ]
+ },
+ "legal_basis": "Jurisprudența Curții de Justiție a Uniunii Europene (texte oficiale; reutilizare permisă cu menționarea sursei: Decizia Comisiei 2011/833/UE și condițiile CURIA; © Uniunea Europeană). Textele oficiale nu sunt protejate de dreptul de autor în România (Legea nr. 8/1996, art. 9 lit. b).",
+ "attribution": "© European Union, https://eur-lex.europa.eu (via the Publications Office CELLAR)",
+ "operative": [
+  "Pentru aceste motive, Curtea (Camera a patra) declară:",
+  "Articolul 3 alineatul (1) litera (e) TFUE, care conferă Uniunii o competență exclusivă în materie de politică comercială comună, coroborat cu articolul 2 alineatul (1) TFUE",
+  "trebuie interpretat în sensul că",
+  "se opune ca, în lipsa unui act al Uniunii care să impună sau să interzică accesul la procedurile de atribuire a unor contracte de achiziții publice al operatorilor economici dintr‑o țară terță care nu a încheiat cu Uniunea un acord internațional prevăzut la articolul 25 din Directiva 2014/24/UE a Parlamentului European și a Consiliului din 26 februarie 2014 privind achizițiile publice și de abrogare a Directivei 2004/18/CE, o autoritate contractantă dintr‑un stat membru să excludă un operator economic dintr‑o astfel de țară terță în temeiul unui act legislativ pe care acest stat membru l‑a adoptat fără să fi fost abilitat de Uniune în acest sens, împrejurarea că acest act legislativ a intrat în vigoare după publicarea anunțului de participare fiind fără incidență în această privință."
+ ]
+}
