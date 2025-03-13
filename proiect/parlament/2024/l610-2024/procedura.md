@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2025-02-17: adopted by the Senate; documents published: Forma adoptată de Senat
 - 2025-02-24: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-02-26: sent for promulgation
+- 2025-03-13: promulgated, becomes Legea nr. 16/2025; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -33,3 +34,5 @@ Initiator: Guvernul României.
 - 2025-02-17: Forma adoptată de Senat (FS): [fs-c922453a.md](fs-c922453a.md); official file https://www.senat.ro/legis/PDF/2024/24L610FS.PDF
 - 2025-02-24: Adresă privind sesizarea CCR (AXS): [axs-c0d694f9.md](axs-c0d694f9.md); official file https://www.senat.ro/legis/PDF/2024/24L610AXS.PDF
 - 2025-02-24: Forma trimisă la promulgare (LP): [lp-9a0cf841.md](lp-9a0cf841.md); official file https://www.senat.ro/legis/PDF/2024/24L610LP.PDF
+- 2025-03-13: Decret de promulgare (DP): [dp-d8b32a3d.md](dp-d8b32a3d.md); official file https://www.senat.ro/legis/PDF/2024/24L610DP.PDF
+- 2025-03-13: Forma promulgată (FP): [fp-8e74180c.md](fp-8e74180c.md); official file https://www.senat.ro/legis/PDF/2024/24L610FP.PDF
