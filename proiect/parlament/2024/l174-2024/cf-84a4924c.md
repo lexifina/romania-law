@@ -1,0 +1,93 @@
+i
+Biroul permanent ai Senatului ■
+iLj.. ^
+.............
+Bp
+Tfnj
+'
+I
+Consiliul Fiscal al României
+București - România, Casa Academiei, Calea 13 Septembrie Nr. 13, Sector S,
+Telefon/fax: 40-21-3184826, Telefon: 40-21-3188106/3544, www.conslliulfiscal.ro
+Nr. 13/18.03.2024
+,
+Către: PARLAMENTUL ROMÂNIEI, SENAT
+Biroul permanent al Senatului
+..............
+Domnului Secretar General Mario-Ovidiu Oprea
+!' ' >
+Stimate domnule Secretar General,
+Ca răspuns la adresa dvs. nr. XXXV/1006 din 26.02.2024, prin care ați solicitat, în baza art. 53 alin.
+(2) lit. e) al Legii nr. 69/2010 a responsabilității fiscal-bugetare republicate (LRFB), opinia Consiliului
+Fiscal cu privire la o serie de propuneri legislative, vă comunicăm următoarele:
+•
+Legea nr. 69/2010 prevede la articolul 53 alin. (2) lit. e) drept una din atribuțiile Consiliului
+Fiscal „analiza și elaborarea de opinii și recomandări, atât înainte de aprobarea de către
+Guvern, c6t și înainte de transmiterea către Parlament, asupra legilor bugetare anuale, a
+rectificărilor bugetare, precum și asupra altor inițiative legislative care pot avea un impact
+asupra volumului cheltuielilor bugetare, precum și evaluarea conformității acestora cu
+principiile și regulile fiscale prevăzute de prezenta lege".
+•
+în acest sens, LRFB specifică, conform art. 15 alin. (1) că: „în cazul propunerilor de
+introducere .a unor măsuri/politici/inițiative iegislative a căror adoptare atrage majorarea
+cheltuielilor bugetare, inițiatorii au obligația să prezinte: a) fișa financiară prevăzută ia
+art. 15 din Legea nr. 500/2002, cu modificările și completările ulterioare, însoțită de
+ipotezele șl metodologia de calcul utilizată; b) declarație conform căreia majorarea de
+cheltuială respectivă este compatibilă cu obiectivele și prioritățile strategice specificate în
+strategia fiscal-bugetară, cu legea bugetară anuală șl cu plafoanele de cheltuieli
+prezentate în strategia fiscal-bugetară".
+•
+în cazul propunerilor legislative care conduc la diminuarea veniturilor bugetare, conform
+art. 21, „se va elabora fișa financiară potrivit prevederilor art. 15 din Legea nr. 500/2002,
+care trebuie să îndeplinească cel puțin una dintre următoarele condiții: (a) să aibă avizul
+Ministerului Finanțelor Publice și al Consiliului fiscal, conform căruia impactul financiar a
+fost luat în calcul în prognoza veniturilor bugetare și nu afectează țintele bugetare anuale
+și pe termen mediu; (b) să fie însoțită de propuneri de măsuri de compensare a impactului
+financiar respectiv, prin majorarea altor venituri bugetare".
+1' ■
+
+1
+'i-
+J
+• Din analiza propunerilor legislative, transmise prin adresa mai sus menționată, rezultă
+următoarele:
+'
+i. Nu au fost întrunite cerințele prevăzute la art. 21 din LRFB, care reglementează propunerile
+de acte normative care conduc la diminuarea veniturilor bugetare, pentru propunerea
+legislativă pentru protejarea sănătății persoanelor care își desfășoară activitatea în mod
+\
+independent, precum și modificarea/ Legii nr. 227/2015 privind Codul fiscal
+^ ''
+{b68/19.02.2024), care are în vedere deductibilitatea din CASS a cheltuielilor cu primele de
+1 ' asigurare voluntară de sănătate și cu serviciile medicale furnizate sub formă de abonament
+plătite în scopul personal al contribuabilului, în cazul persoanelor care desfășoară activitate
+în mod independent în România, inclusiv profesii liberale.
+în consecință, pentru a răspunde solicitării de.a'emite opinia sa asupra acestei propuneri
+legislative, Consiliul Fiscal solicită documentele stipulate la art. 21 din LRFB.
+i
+!
+2. Nu există indicii că adoptarea propunerii legislative pentru modificarea și completarea Legii
+nr. 207/2015 privind Codul de procedură fiscală (b74/20.02.2024) va determina o majorare
+a cheltuielilor bugetare și/sau o diminuare a veniturilor bugetare, situații reglementate de
+prevederile LRFB menționate mai sus. Prin urmare. Consiliul Fiscal constată că nu este
+LlSO
+necesară opinia sa în baza prevederilor LRFB.
+I
+I
+Cu considerație.
+Președintele Consiliului Fiscal
+Acad. Daniel Dăianu
+!
+'
+l
+)
+I
+I
+|l
+(
+I
+I
+' ,2
+I
+l
+I
