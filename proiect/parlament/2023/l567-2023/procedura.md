@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2023-12-04: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2023-12-06: sent for promulgation
 - 2024-10-29: published in the Monitorul Oficial
+- 2025-03-14: promulgated, becomes Legea nr. 19/2025; published in the Monitorul Oficial; documents published: Document (day not given by the bill file), Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -32,3 +33,7 @@ Initiator: Guvernul României.
 - 2023-10-25: Aviz comisie (CA45): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L567CA45.PDF
 - 2023-12-04: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L567AXS.PDF
 - 2023-12-04: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L567LP.PDF
+- 2025-03-14: Document (SC): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L567SC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-03-14: Document (DC): [dc-4ba96002.md](dc-4ba96002.md); official file https://www.senat.ro/legis/PDF/2023/23L567DC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-03-14: Decret de promulgare (DP): [dp-a8e01c1f.md](dp-a8e01c1f.md); official file https://www.senat.ro/legis/PDF/2023/23L567DP.PDF
+- 2025-03-14: Forma promulgată (FP): [fp-562327dc.md](fp-562327dc.md); official file https://www.senat.ro/legis/PDF/2023/23L567FP.PDF
