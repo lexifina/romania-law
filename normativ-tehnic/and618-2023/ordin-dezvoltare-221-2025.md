@@ -1,0 +1,2 @@
+ ORDIN nr. 221 din 17 februarie 2025  pentru aprobarea reglementării tehnice "Instrucțiuni tehnice privind metodologia de determinare a stării de degradare a drumurilor cu ajutorul echipamentului HAWKEYE 2000 - ACD (Automatic Crack Detection)" - indicativ AND 618-2023     EMITENT     MINISTERUL TRANSPORTURILOR ȘI INFRASTRUCTURII Nr. 29 din 20 ianuarie 2025   MINISTERUL DEZVOLTĂRII, LUCRĂRILOR PUBLICE  ȘI ADMINISTRAȚIEI Nr. 221 din 17 februarie 2025       Publicat în
+			  MONITORUL OFICIAL nr. 236 din 18 martie 2025        ORDIN nr. 29 din 20 ianuarie 2025
