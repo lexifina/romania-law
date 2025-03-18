@@ -1,0 +1,278 @@
+{
+ "key": "iccj-ril-3-2025",
+ "label": "Decizia ÎCCJ nr. 3/2025 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "3",
+ "date": "2025-02-17",
+ "year": "2025",
+ "heading": "DECIZIA nr. 3 din 17 februarie 2025",
+ "subtitle": "privind interpretarea și aplicarea unitară a dispozițiilor art. 207 alin. (1), art. 222 alin. (4) și art. 235 alin. (1) din Codul de procedură penală",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU SOLUȚIONAREA RECURSULUI ÎN INTERESUL LEGII",
+ "mo": {
+  "number": "239",
+  "bis": false,
+  "date": "2025-03-18",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "2.691/1/2024"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "207",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "222",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "235",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite recursul în interesul legii formulat de procurorul general al Parchetului de pe lângă Înalta Curte de Casație și Justiție.",
+  "În interpretarea și aplicarea unitară a dispozițiilor art. 207 alin. (1), art. 222 alin. (4) și art. 235 alin. (1) din Codul de procedură penală, stabilește că nu se consideră în termen sesizarea cu rechizitoriul prin care s-a dispus trimiterea în judecată a inculpatului față de care s-a dispus o măsură preventivă sau cu propunerea de prelungire a duratei măsurii arestării preventive ori a arestului la domiciliu, formulată în ultima zi a termenului, calculat potrivit art. 269 alin. (1), (2) și (4) din Codul de procedură penală.",
+  "Obligatorie, potrivit dispozițiilor art. 474 alin. (4) din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "207",
+     "alin": [
+      "1",
+      "4",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "222",
+     "alin": [
+      "4",
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "235",
+     "alin": [
+      "1",
+      "4",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "269",
+     "alin": [
+      "4",
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "268",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "471",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "473",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "472",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "270",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "271",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "124",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "281",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "94",
+     "alin": [
+      "7"
+     ],
+     "lit": null
+    },
+    {
+     "art": "204",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "205",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "474-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 82
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituția României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 201/2023",
+    "number": "201",
+    "year": "2023",
+    "path": "lege/2023/201"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "159",
+     "alin": [
+      "8"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-03-18",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/295667",
+  "text_sha256": "c9318d321dded4f2137a2d7fd9fd88ceb38446244f1b21034197d45360883304",
+  "catalogue_sha256": "c9318d321dded4f2137a2d7fd9fd88ceb38446244f1b21034197d45360883304",
+  "fetched": "2026-11-03T15:29:50Z",
+  "chars": 77000,
+  "portal_id": "295667",
+  "tip": "DECIZIE"
+ }
+}
