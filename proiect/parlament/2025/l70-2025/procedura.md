@@ -12,7 +12,13 @@ Initiator: Guvernul României.
 
 - 2024-12-16: registered at the Chamber of Deputies
 - 2025-03-11: documents published: Raport comisie sesizată pe fond
+- 2025-03-19: adopted by the Chamber of Deputies; registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
 
 ## Documents
 
 - 2025-03-11: Raport comisie sesizată pe fond (CR): [cr-321f3a55.md](cr-321f3a55.md); official file https://www.senat.ro/legis/PDF/2025/25L070CR.PDF
+- 2025-03-19: Adresă de înaintare a inițiativei (AD): [ad-aa7556cd.md](ad-aa7556cd.md); official file https://www.senat.ro/legis/PDF/2025/25L070AD.PDF
+- 2025-03-19: Forma inițiatorului (FG): [fg-7a618a0f.md](fg-7a618a0f.md); official file https://www.senat.ro/legis/PDF/2025/25L070FG.PDF
+- 2025-03-19: Expunere de motive (EM): [em-7522ce51.md](em-7522ce51.md); official file https://www.senat.ro/legis/PDF/2025/25L070EM.PDF
+- 2025-03-19: Aviz Consiliul Legislativ (LG): [lg-1a9952d6.md](lg-1a9952d6.md); official file https://www.senat.ro/legis/PDF/2025/25L070LG.PDF
+- 2025-03-19: Document (HG): [hg-581c85fc.md](hg-581c85fc.md); official file https://www.senat.ro/legis/PDF/2025/25L070HG.PDF
