@@ -1,0 +1,17 @@
+# Propunere legislativă L116/2025
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Propunere legislativă privind abrogarea legii nr.133/2019 pentru înființarea Agenției pentru Calitatea și Marketingul Produselor Agroalimentare
+
+Initiator: Membri ai Parlamentului.
+
+## Stages published so far
+
+- 2025-03-19: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
+
+## Documents
+
+- 2025-03-19: Adresă de înaintare a inițiativei (AD): [ad-357919c2.md](ad-357919c2.md); official file https://www.senat.ro/legis/PDF/2025/25L116AD.PDF
+- 2025-03-19: Forma inițiatorului (FG): [fg-e95ba019.md](fg-e95ba019.md); official file https://www.senat.ro/legis/PDF/2025/25L116FG.PDF
+- 2025-03-19: Expunere de motive (EM): [em-ad86c5b4.md](em-ad86c5b4.md); official file https://www.senat.ro/legis/PDF/2025/25L116EM.PDF
