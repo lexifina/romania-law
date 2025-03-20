@@ -1,0 +1,62 @@
+{
+ "key": "cjue-c-116-24-hotarare-2025-03-20",
+ "label": "CJUE, Hotărârea Curții (Camera a șasea) din 20 martie 2025, Cauza C-116/24",
+ "court": "cjue",
+ "court_name": "Curtea de Justiție a Uniunii Europene",
+ "kind": "hotarare",
+ "act_type": "JUDG",
+ "date": "2025-03-20",
+ "year": "2025",
+ "case": "Cauza C-116/24",
+ "celex": "62024CJ0116",
+ "ecli": "ECLI:EU:C:2025:198",
+ "heading": "Hotărârea Curții (Camera a șasea) din 20 martie 2025",
+ "formation": "CHAMB_06_C",
+ "procedure": "REFER_PREL",
+ "romania_role": [
+  "originates"
+ ],
+ "referred_by": [
+  {
+   "court": "Curtea de Apel Piteşti, Secția a II-a Civilă de contencios administrativ și fiscal",
+   "date": "2023-11-28",
+   "national_file": "891/46/2018"
+  }
+ ],
+ "referral_text": "Cerere de decizie preliminară formulată de Curtea de Apel Piteşti",
+ "national_followup": [
+  "Curtea de Apel Piteşti, Secția a II-a Civilă de contencios administrativ și fiscal, Sentinţa 05/06/2025 (ECLI:RO:CAPIT:2025:008.000216)"
+ ],
+ "parties": null,
+ "parties_withheld": true,
+ "keywords": "Trimitere preliminară – Politica agricolă comună – Finanțare prin Fondul european agricol pentru dezvoltare rurală (FEADR) – Programul național de dezvoltare rurală 2007-2013 – Măsură de dezvoltare rurală – Plăți în favoarea bunăstării animalelor – Erori de calcul – Reducere a acestor plăți de către autoritățile naționale fără a aștepta o decizie definitivă a Comisiei Europene – Incidența expirării termenului prevăzut pentru modificarea acestui program și a deciziilor Comisiei de aprobare sau de modificare a programului respectiv – Inexistența unei contradicții între o hotărâre a Curții și o hotărâre a Tribunalului Uniunii Europene – Răspunderea statului membru în cauză pentru încălcarea dreptului Uniunii",
+ "interprets": [
+  {
+   "celex": "32005R1698",
+   "folder": "ue/regulament/2005/1698"
+  }
+ ],
+ "text": "dispozitiv.md",
+ "text_withheld": "personal_data",
+ "withheld_reason": "The full text names the parties' lawyers (and, in older cases, private parties); only the metadata and the operative part are published here, with the official link.",
+ "operative_missing": false,
+ "eurlex_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62024CJ0116",
+ "curia_url": "https://curia.europa.eu/juris/liste.jsf?num=C-116/24&language=ro",
+ "source": {
+  "name": "CELLAR, Publications Office of the European Union",
+  "url": "http://publications.europa.eu/resource/cellar/0f2125ee-056d-11f0-b1a3-01aa75ed71a1.0002.05/DOC_1",
+  "format": "xhtml",
+  "sha256": [
+   "7ca087488f486206651c7bcefa6a318770bd748860a4d283182f563f51699901"
+  ]
+ },
+ "legal_basis": "Jurisprudența Curții de Justiție a Uniunii Europene (texte oficiale; reutilizare permisă cu menționarea sursei: Decizia Comisiei 2011/833/UE și condițiile CURIA; © Uniunea Europeană). Textele oficiale nu sunt protejate de dreptul de autor în România (Legea nr. 8/1996, art. 9 lit. b).",
+ "attribution": "© European Union, https://eur-lex.europa.eu (via the Publications Office CELLAR)",
+ "operative": [
+  "Pentru aceste motive, Curtea (Camera a șasea) declară:",
+  "1) Articolul 19 din Regulamentul (CE) nr. 1698/2005 al Consiliului din 20 septembrie 2005 privind sprijinul pentru dezvoltare rurală acordat din Fondul European Agricol pentru Dezvoltare Rurală (FEADR), astfel cum a fost modificat prin Regulamentul (CE) nr. 74/2009 al Consiliului din 19 ianuarie 2009, și articolul 9 alineatul (3) din Regulamentul (CE) nr. 1974/2006 al Comisiei din 15 decembrie 2006 de stabilire a normelor de aplicare a Regulamentului (CE) nr. 1698/2005 al Consiliului privind sprijinul pentru dezvoltarea rurală acordat din Fondul European Agricol pentru Dezvoltare Rurală (FEADR), astfel cum a fost modificat prin Regulamentul de punere în aplicare (UE) nr. 335/2013 al Comisiei din 12 aprilie 2013,",
+  "trebuie interpretate în sensul că",
+  "nu se opun ca autoritățile naționale implicate în implementarea unei măsuri de sprijin financiar nerambursabil să adopte, ca urmare a unor erori de calcul constatate de Curtea de Conturi Europeană, acte care impun o reducere a cuantumului ajutorului financiar acordat de programul de dezvoltare rurală al Fondului European Agricol pentru Dezvoltare Rurală (FEADR) pentru România pentru perioada de programare 2007-2013, astfel cum a fost aprobat și modificat prin decizii ale Comisiei Europene, în condițiile în care acest program nu mai putea fi revizuit și nici modificat la data constatării erorilor respective. Considerentele prezentate de Tribunalul Uniunii Europene în Hotărârea din 18 ianuarie 2023, România/Comisia (T‑33/21, EU:T:2023:5), sunt lipsite de pertinență în această privință.",
+  "2) Principiul răspunderii statelor membre pentru încălcarea dreptului Uniunii nu se aplică atunci când ratele de sprijin referitoare la ajutoare financiare acordate în temeiul unui program de dezvoltare rurală al Fondului european agricol pentru dezvoltare rurală (FEADR) au fost stabilite într‑un mod care nu este conform cu dreptul Uniunii, iar beneficiarii ajutoarelor respective au obținut plăți în temeiul acestora, calculate pe baza unor rate rectificate, conforme cu acest drept."
+ ]
+}
