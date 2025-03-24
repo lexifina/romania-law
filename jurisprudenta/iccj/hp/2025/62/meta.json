@@ -1,0 +1,164 @@
+{
+ "key": "iccj-hp-62-2025",
+ "label": "Decizia ÎCCJ nr. 62/2025 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "62",
+ "date": "2025-02-24",
+ "year": "2025",
+ "heading": "DECIZIA nr. 62 din 24 februarie 2025",
+ "subtitle": "referitoare la interpretarea dispozițiilor art. 4 alin. (2) lit. a), coroborate cu cele ale art. 6 din Ordonanța Guvernului nr. 25/2014 privind încadrarea în muncă și detașarea străinilor pe teritoriul României și pentru modificarea și completarea unor acte normative privind regimul străinilor în România",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "252",
+  "bis": false,
+  "date": "2025-03-24",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "2.518/1/2024",
+  "411/35/2023"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 25/2014",
+    "number": "25",
+    "year": "2014",
+    "path": "og/2014/25"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 28/2024",
+    "number": "28",
+    "year": "2024",
+    "path": "lege/2024/28"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Admite sesizarea formulată de Înalta Curte de Casație și Justiție - Secția de contencios administrativ și fiscal în Dosarul nr. 411/35/2023, în vederea pronunțării unei hotărâri prealabile. În interpretarea dispozițiilor art. 4 alin. (2) lit. a), coroborate cu cele ale art. 6 din Ordonanța Guvernului nr. 25/2014 privind încadrarea în muncă și detașarea străinilor pe teritoriul României și pentru modificarea și completarea unor acte normative privind regimul străinilor în România, aprobată prin Legea nr. 14/2016, cu modificările și completările ulterioare, în forma anterioară intrării în vigoare a Legii nr. 28/2024 pentru modificarea și completarea unor acte normative în domeniul străinilor, stabilește că:",
+  "Pentru îndeplinirea condiției prevăzute de aceste dispoziții în vederea eliberării avizului de angajare nu este suficientă înscrierea, în certificatul de înmatriculare sau înregistrare în registrul comerțului ori certificatul de înscriere în Registrul asociațiilor și fundațiilor, a codurilor CAEN aferente activităților compatibile cu funcția pentru care se solicită încadrarea în muncă a străinului, fiind necesară și desfășurarea efectivă de către angajator a activității compatibile cu funcția pentru care solicită încadrarea în muncă a străinului.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 25/2014",
+    "number": "25",
+    "year": "2014",
+    "path": "og/2014/25"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "28",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 20
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 28/2024",
+    "number": "28",
+    "year": "2024",
+    "path": "lege/2024/28"
+   },
+   "articles": [],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârii Guvernului nr. 1.256/2011",
+    "number": "1256",
+    "year": "2011",
+    "path": "hg/2011/1256"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-03-24",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/295770",
+  "text_sha256": "4dd6566fdad680d56eff07e2e6980f3383a11305b639a1fc59120e47c037e858",
+  "catalogue_sha256": "4dd6566fdad680d56eff07e2e6980f3383a11305b639a1fc59120e47c037e858",
+  "fetched": "2026-11-03T00:59:41Z",
+  "chars": 35198,
+  "portal_id": "295770",
+  "tip": "DECIZIE"
+ }
+}
