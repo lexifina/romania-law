@@ -1,0 +1,185 @@
+{
+ "key": "dcc-448-2024",
+ "label": "Decizia CCR nr. 448/2024",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "448",
+ "date": "2024-10-15",
+ "year": "2024",
+ "heading": "DECIZIA nr. 448 din 15 octombrie 2024",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 509 alin. (1) pct. 8 din Codul de procedură civilă",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "260",
+  "bis": false,
+  "date": "2025-03-25",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "1.295/1/2019",
+  "737D/2020",
+  "1.579/1/2019/a1",
+  "1.295/1/2019/a1.1"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "509",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Carmen Ramona Gheorghe în Dosarul nr. 1.295/1/2019 al Înaltei Curți de Casație și Justiție - Completul de 5 judecători, de Regia Națională a Pădurilor Romsilva, prin Direcția Silvică Suceava, în Dosarul nr. 1.579/1/2019/a1 al Înaltei Curți de Casație și Justiție - Completul de 5 judecători și în dosarele nr. 2.023/1/2020/a1, nr. 2.030/1/2020/a1, nr. 2.067/1/2020/a1, nr. 2.028/1/2020/a1, nr. 2.062/1/2020/a1 și nr. 2.063/1/2020/a1 ale Înaltei Curți de Casație și Justiție - Secția I civilă și constată că dispozițiile art. 509 alin. (1) pct. 8 din Codul de procedură civilă sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Înaltei Curți de Casație și Justiție - Completul de 5 judecători și Înaltei Curți de Casație și Justiție - Secția I civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "509",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "461",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "430",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "431",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituției",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2025-03-25",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/295805",
+  "text_sha256": "dc1cac926dedef47f6830c472e90067c15e183c71cda8da39567f4de1c6015b9",
+  "catalogue_sha256": "dc1cac926dedef47f6830c472e90067c15e183c71cda8da39567f4de1c6015b9",
+  "fetched": "2026-11-03T00:59:38Z",
+  "chars": 18292,
+  "portal_id": "295805",
+  "tip": "DECIZIE"
+ }
+}
