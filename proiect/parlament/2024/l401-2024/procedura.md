@@ -19,6 +19,7 @@ Initiator: Membri ai Parlamentului.
 - 2025-02-26: adopted by the Chamber of Deputies
 - 2025-03-03: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-03-08: sent for promulgation
+- 2025-03-25: promulgated, becomes Legea nr. 33/2025; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -33,3 +34,5 @@ Initiator: Membri ai Parlamentului.
 - 2024-09-23: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L401AM.PDF
 - 2025-03-03: Adresă privind sesizarea CCR (AXS): [axs-5f8dee42.md](axs-5f8dee42.md); official file https://www.senat.ro/legis/PDF/2024/24L401AXS.PDF
 - 2025-03-03: Forma trimisă la promulgare (LP): [lp-a799f2a5.md](lp-a799f2a5.md); official file https://www.senat.ro/legis/PDF/2024/24L401LP.PDF
+- 2025-03-25: Decret de promulgare (DP): [dp-dd9c50c4.md](dp-dd9c50c4.md); official file https://www.senat.ro/legis/PDF/2024/24L401DP.PDF
+- 2025-03-25: Forma promulgată (FP): [fp-8ba246e3.md](fp-8ba246e3.md); official file https://www.senat.ro/legis/PDF/2024/24L401FP.PDF
