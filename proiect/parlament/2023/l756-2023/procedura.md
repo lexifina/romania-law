@@ -12,6 +12,7 @@ Initiator: Membri ai Parlamentului.
 - 2023-11-28: documents published: Aviz Consiliul Legislativ, Aviz Consiliul Economic și Social, Punct de vedere
 - 2024-03-11: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților
 - 2024-03-25: registered at the Chamber of Deputies
+- 2025-03-25: documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -23,3 +24,4 @@ Initiator: Membri ai Parlamentului.
 - 2023-11-28: Punct de vedere (PV): [pv-1e9f72d6.md](pv-1e9f72d6.md); official file https://www.senat.ro/legis/PDF/2023/23L756PV.PDF
 - 2024-03-11: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L756FS.PDF
 - 2024-03-11: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L756AM.PDF
+- 2025-03-25: Document (CF): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L756CF.PDF (its day is not given by the bill file: shown from the last stage held)
