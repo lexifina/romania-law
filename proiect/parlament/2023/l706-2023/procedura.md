@@ -20,6 +20,7 @@ Initiator: Membri ai Parlamentului.
 - 2025-03-10: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-03-14: sent for promulgation
 - 2025-03-24: promulgated, becomes Legea nr. 27/2025; documents published: Decret de promulgare, Forma promulgată
+- 2025-03-25: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -35,3 +36,4 @@ Initiator: Membri ai Parlamentului.
 - 2025-03-10: Forma trimisă la promulgare (LP): [lp-700b4bb5.md](lp-700b4bb5.md); official file https://www.senat.ro/legis/PDF/2023/23L706LP.PDF
 - 2025-03-24: Decret de promulgare (DP): [dp-af5e5cee.md](dp-af5e5cee.md); official file https://www.senat.ro/legis/PDF/2023/23L706DP.PDF
 - 2025-03-24: Forma promulgată (FP): [fp-d2793a3b.md](fp-d2793a3b.md); official file https://www.senat.ro/legis/PDF/2023/23L706FP.PDF
+- 2025-03-25: Document (AL): [al-46d8539f.md](al-46d8539f.md); official file https://www.senat.ro/legis/PDF/2023/23L706AL.PDF (its day is not given by the bill file: shown from the last stage held)
