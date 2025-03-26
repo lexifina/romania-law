@@ -17,6 +17,7 @@ Initiator: Guvernul României.
 - 2025-03-17: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-03-19: sent for promulgation
 - 2025-03-25: promulgated, becomes Legea nr. 30/2025; documents published: Decret de promulgare, Forma promulgată
+- 2025-03-26: published in the Monitorul Oficial
 
 ## Documents
 
