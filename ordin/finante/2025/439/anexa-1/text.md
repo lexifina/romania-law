@@ -1,0 +1,2 @@
+# ANEXĂ
+PROCEDURĂ de soluționare a cererilor de transfer din domeniul privat al statului în domeniul privat al unităților administrativ-teritoriale al bunurilor imobile, în condițiile Ordonanței de urgență a Guvernului nr. 91/2023 privind unele măsuri referitoare la exercitarea dreptului de proprietate publică și privată a statului, precum și la administrarea eficientă a proprietăților statului, precum și pentru modificarea și completarea unor acte normative
