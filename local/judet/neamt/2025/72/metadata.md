@@ -1,0 +1,11 @@
+# HCJ Neamț nr. 72/2025
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+- Council: Consiliul Județean Neamț
+- Decision: nr. 72/2025
+- Adopted: 2025-03-26
+- Title: cu privire la emiterea avizului consultativ pentru Planul anual de acțiune privind serviciile sociale administrate și finanțate din bugetul Comunei Tașca pentru anul 2025 - Instituția Prefectului Persoanelor/autorităților interesate Vezi HCJ
+- Record: https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2025/
+- Document: https://cjneamt.ro/wp-content/uploads/2025/03/Consiliul-Judetean-Neamt-HCJ-nr.-72-din-26-martie-2025.pdf
+- Document sha256: 26f4291dd2dec2bed70f533301c125275bc099b6061c3ffbe1d3aae53b9fac7a
