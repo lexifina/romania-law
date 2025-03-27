@@ -1,0 +1,42 @@
+{
+ "key": "cjue-c-654-23-concluzii-2025-03-27",
+ "label": "CJUE, Concluziile avocatului general domnul M. Szpunar prezentate la 27 martie 2025, Cauza C-654/23.",
+ "court": "cjue",
+ "court_name": "Curtea de Justiție a Uniunii Europene",
+ "kind": "concluzii",
+ "act_type": "OPIN_AG",
+ "date": "2025-03-27",
+ "year": "2025",
+ "case": "Cauza C-654/23.",
+ "celex": "62023CC0654",
+ "ecli": "ECLI:EU:C:2025:213",
+ "heading": "Concluziile avocatului general domnul M. Szpunar prezentate la 27 martie 2025",
+ "formation": null,
+ "procedure": "REFER_PREL",
+ "romania_role": [
+  "originates"
+ ],
+ "referred_by": null,
+ "referral_text": "Cererea de decizie preliminară formulată de Curtea de Apel Bucureşti.",
+ "national_followup": null,
+ "parties": null,
+ "parties_withheld": true,
+ "keywords": "Trimitere preliminară – Prelucrarea datelor personale și protejarea confidențialității în sectorul comunicațiilor publice – Directiva 2002/58/CE – Articolul 13 alineatele (1) și (2) – Comunicări nesolicitate – Noțiunea de comunicare efectuată «în scopuri de marketing direct» – Obținere de date de contact electronic «în contextul vânzării unui produs sau a unui serviciu» – Înscriere pe o platformă online care dă acces la un conținut suplimentar – Trimitere prin poștă electronică a unei informări zilnice – Regulamentul (UE) 2016/679 – Articolul 6 – Legalitatea prelucrării – Articolul 95 – Relația cu Directiva 2002/58/CE.",
+ "interprets": [],
+ "text": null,
+ "text_withheld": "personal_data",
+ "withheld_reason": "The full text names the parties' lawyers (and, in older cases, private parties); only the metadata and the operative part are published here, with the official link.",
+ "operative_missing": null,
+ "eurlex_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62023CC0654",
+ "curia_url": "https://curia.europa.eu/juris/liste.jsf?num=C-654/23&language=ro",
+ "source": {
+  "name": "CELLAR, Publications Office of the European Union",
+  "url": "http://publications.europa.eu/resource/cellar/34cab9a2-0afd-11f0-b1a3-01aa75ed71a1.0016.05/DOC_1",
+  "format": "xhtml",
+  "sha256": [
+   "9c2dc140f610bcd9d3eec63e434ced11159fa352f52c686c64bf8f096d1c6a9f"
+  ]
+ },
+ "legal_basis": "Jurisprudența Curții de Justiție a Uniunii Europene (texte oficiale; reutilizare permisă cu menționarea sursei: Decizia Comisiei 2011/833/UE și condițiile CURIA; © Uniunea Europeană). Textele oficiale nu sunt protejate de dreptul de autor în România (Legea nr. 8/1996, art. 9 lit. b).",
+ "attribution": "© European Union, https://eur-lex.europa.eu (via the Publications Office CELLAR)"
+}
