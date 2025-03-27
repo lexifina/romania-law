@@ -20,6 +20,7 @@ Initiator: Guvernul României.
 - 2025-03-17: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-03-19: sent for promulgation
 - 2025-03-25: promulgated, becomes Legea nr. 31/2025; documents published: Decret de promulgare, Forma promulgată
+- 2025-03-27: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -38,3 +39,6 @@ Initiator: Guvernul României.
 - 2025-03-17: Forma trimisă la promulgare (LP): [lp-a7aa44ba.md](lp-a7aa44ba.md); official file https://www.senat.ro/legis/PDF/2025/25L032LP.PDF
 - 2025-03-25: Decret de promulgare (DP): [dp-6cf52aa8.md](dp-6cf52aa8.md); official file https://www.senat.ro/legis/PDF/2025/25L032DP.PDF
 - 2025-03-25: Forma promulgată (FP): [fp-9a70583e.md](fp-9a70583e.md); official file https://www.senat.ro/legis/PDF/2025/25L032FP.PDF
+- 2025-03-27: Document (TX): [tx-418bd039.md](tx-418bd039.md); official file https://www.senat.ro/legis/PDF/2025/25L032TX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-03-27: Document (AL): [al-326b13cb.md](al-326b13cb.md); official file https://www.senat.ro/legis/PDF/2025/25L032AL.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-03-27: Document (TC): [tc-669cc60d.md](tc-669cc60d.md); official file https://www.senat.ro/legis/PDF/2025/25L032TC.PDF (its day is not given by the bill file: shown from the last stage held)
