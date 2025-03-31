@@ -1,0 +1,19 @@
+# Anexa 21
+Anexa nr. 20
+Tabel cu participanții care au beneficiat de
+CONTRAVALOAREA TRANSPORTULUI
+Denumire proiect: .................
+Localitatea .......................
+Perioada ..........................
+Nr. Crt.
+Nume și prenume
+Ruta
+Seria bilet /
+Bon fiscal combustibil
+Suma
+Semnătura
+1
+2
+Nume și prenume reprezentant legal al partenerului: ..............
+Semnătura: ...........
+Data: ...........

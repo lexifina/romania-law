@@ -1,0 +1,33 @@
+# Anexa 20
+Anexa nr. 19
+PONTAJ DE MASĂ PARTICIPANȚI/BENEFICIARI/GRUP ȚINTĂ PROIECT
+Denumire proiect: .................
+Perioada: .........................
+Locul de desfășurare: .............
+Unitatea prestatoare de servicii .............
+Nr. Crt
+Nume
+Prenume
+Ziua 1
+Ziua 2
+Ziua 3
+Ziua 4
+Semnătură participant
+MD
+D
+C
+MD
+D
+C
+MD
+D
+C
+MD
+D
+C
+Nume și prenume reprezentant legal al partenerului: ..............
+Semnătura: ...........
+Data: ...........
+Numele și prenumele reprezentantului unității prestatoare de servicii..............
+Semnătura: ...........
+Data: ...........
