@@ -1,0 +1,17 @@
+# Propunere legislativă L141/2025
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Propunere legislativă pentru modificarea și completarea art.63, alin.(4) și a art.65 din Ordonanța de urgență a Guvernului nr.195/2002 privind circulația pe drumurile publice
+
+Initiator: Membri ai Parlamentului.
+
+## Stages published so far
+
+- 2025-03-31: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
+
+## Documents
+
+- 2025-03-31: Adresă de înaintare a inițiativei (AD): [ad-886f14ad.md](ad-886f14ad.md); official file https://www.senat.ro/legis/PDF/2025/25L141AD.PDF
+- 2025-03-31: Forma inițiatorului (FG): [fg-187db008.md](fg-187db008.md); official file https://www.senat.ro/legis/PDF/2025/25L141FG.PDF
+- 2025-03-31: Expunere de motive (EM): [em-dee5c1f4.md](em-dee5c1f4.md); official file https://www.senat.ro/legis/PDF/2025/25L141EM.PDF
