@@ -1,0 +1,7 @@
+# Anexa nr. 3
+Modelul declarației de renunțare la candidatură care va fi utilizat la alegerile locale parțiale din data de 4 mai 2025
+DECLARAȚIE DE RENUNȚARE LA CANDIDATURĂ
+Subsemnatul,.........................., având cetățenia^1..................., domiciliat în....................., str............................ nr........, bl......., ap......., sectorul....., județul................, de profesie............................., ocupația (activitatea desfășurată).............................., membru al^2........................, declar prin prezenta că renunț la candidatura propusă de^3...................... la alegerile locale parțiale din data de 4 mai 2025 pentru funcția de^4.............. și depusă în data de................ ^1 În cazul cetățenilor Uniunii Europene se va înscrie și statul membru de origine. ^2 Se trece denumirea partidului politic sau a organizației cetățenilor aparținând minorității naționale al cărui/cărei membru este. Pentru candidații independenți se trece mențiunea „independent”. ^3 Se trece denumirea abreviată și desfășurată a partidului politic, a alianței politice, a alianței electorale ori a organizației cetățenilor aparținând minorităților naționale sau, după caz, mențiunea „candidat independent”. ^4 Se înscrie sintagma „primar al comunei/orașului/municipiului.............., județul.......................” sau „președinte al Consiliului Județean Bihor”, după caz.
+Data.......................
+Semnătura.........................
+NOTĂ: Declarația se semnează și datează olograf.
