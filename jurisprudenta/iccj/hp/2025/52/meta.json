@@ -1,0 +1,188 @@
+{
+ "key": "iccj-hp-52-2025",
+ "label": "Decizia ÎCCJ nr. 52/2025 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "52",
+ "date": "2025-02-24",
+ "year": "2025",
+ "heading": "DECIZIA nr. 52 din 24 februarie 2025",
+ "subtitle": "referitoare la pronunțarea unei hotărâri prealabile cu privire la stabilirea sporului pentru condiții deosebit de periculoase prevăzut de Regulamentul-cadru privind stabilirea locurilor de muncă, a categoriilor de personal, a mărimii concrete a sporului pentru condiții de muncă prevăzut în anexa nr. II la Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice precum și a condițiilor de acordare a acestuia, pentru familia ocupațională de funcții bugetare \"Sănătate și asistență socială\", aprobat prin Hotărârea Guvernului nr. 153/2018",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "281",
+  "bis": false,
+  "date": "2025-03-31",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.279/1/2024",
+  "3.081/62/2023"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Tribunalul Brașov - Secția I civilă în Dosarul nr. 3.081/62/2023, în vederea pronunțării unei hotărâri prealabile cu privire la următoarea problemă de drept:",
+  "Stabilirea sporului pentru condiții deosebit de periculoase prevăzut de Regulamentul-cadru privind stabilirea locurilor de muncă, a categoriilor de personal, a mărimii concrete a sporului pentru condiții de muncă prevăzut în anexa nr. II la Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, precum și a condițiilor de acordare a acestuia, pentru familia ocupațională de funcții bugetare „Sănătate și asistență socială“, aprobat prin Hotărârea Guvernului nr. 153/2018, cu modificările și completările ulterioare, precum și a condițiilor de acordare a acestuia la procentul de 75% în favoarea reclamanților, raportat la principiile egalității și nediscriminării reglementate de art. 6 alin. (1) din Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, cu modificările și completările ulterioare, și la reglementările internaționale în materie de discriminare.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 62/2024",
+    "number": "62",
+    "year": "2024",
+    "path": "oug/2024/62"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "42",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 21
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 114/2018",
+    "number": "114",
+    "year": "2018",
+    "path": "oug/2018/114"
+   },
+   "articles": [
+    {
+     "art": "42",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 53/2003",
+    "number": "53",
+    "year": "2003",
+    "path": "lege/2003/53"
+   },
+   "articles": [
+    {
+     "art": "269",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-03-31",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/296006",
+  "text_sha256": "4ec7da710e568f351b4764666048c98aea9dffcb8e622ee1c4ef92c830210a2d",
+  "catalogue_sha256": "4ec7da710e568f351b4764666048c98aea9dffcb8e622ee1c4ef92c830210a2d",
+  "fetched": "2026-11-03T00:59:25Z",
+  "chars": 43051,
+  "portal_id": "296006",
+  "tip": "DECIZIE"
+ }
+}
