@@ -1,0 +1,231 @@
+{
+ "key": "iccj-hp-71-2025",
+ "label": "Decizia ÎCCJ nr. 71/2025 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "71",
+ "date": "2025-03-03",
+ "year": "2025",
+ "heading": "DECIZIA nr. 71 din 3 martie 2025",
+ "subtitle": "privind interpretarea dispozițiilor art. 30 alin. (1) lit. i) din Legea nr. 263/2010 privind sistemul unitar de pensii publice",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "285",
+  "bis": false,
+  "date": "2025-04-01",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.322/1/2024",
+  "2.674/90/2023"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 263/2010",
+    "number": "263",
+    "year": "2010",
+    "path": "lege/2010/263"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "i"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Curtea de Apel Pitești - Secția I civilă, în Dosarul nr. 2.674/90/2023, în vederea pronunțării unei hotărâri prealabile cu privire la chestiunea de drept vizând interpretarea dispozițiilor art. 30 alin. (1) lit. i) din Legea nr. 263/2010 privind sistemul unitar de pensii publice, cu modificările și completările ulterioare, respectiv dacă persoanele care au desfășurat activități dintre cele enumerate la art. 30 alin. (1) lit. i) din Legea nr. 263/2010 ulterior datei de 1 aprilie 2001, fiind încadrate în condiții deosebite de muncă, sunt îndreptățite, ca efect al aplicării dispozițiilor sus-menționate, la beneficiile încadrării în condițiile speciale de muncă, respectiv majorarea punctajelor lunare cu 50%, conform art. 100 lit. b) din Legea nr. 263/2010.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 62/2024",
+    "number": "62",
+    "year": "2024",
+    "path": "oug/2024/62"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 263/2010",
+    "number": "263",
+    "year": "2010",
+    "path": "lege/2010/263"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1",
+      "4-4"
+     ],
+     "lit": [
+      "i"
+     ]
+    },
+    {
+     "art": "100",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "56-2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "107",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "56",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "d"
+     ]
+    }
+   ],
+   "mentions": 28
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 197/2021",
+    "number": "197",
+    "year": "2021",
+    "path": "lege/2021/197"
+   },
+   "articles": [],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 74/2022",
+    "number": "74",
+    "year": "2022",
+    "path": "lege/2022/74"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 759/1997",
+    "number": "759",
+    "year": "1997",
+    "path": "hg/1997/759"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 1.005/2002",
+    "number": "1005",
+    "year": "2002",
+    "path": "hg/2002/1005"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-04-01",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/296035",
+  "text_sha256": "b2a2c9f6eff2cbc93ba753157199c26b68a8fae38181492db5cb66015be8a3e3",
+  "catalogue_sha256": "b2a2c9f6eff2cbc93ba753157199c26b68a8fae38181492db5cb66015be8a3e3",
+  "fetched": "2026-11-03T00:59:21Z",
+  "chars": 34489,
+  "portal_id": "296035",
+  "tip": "DECIZIE"
+ }
+}
