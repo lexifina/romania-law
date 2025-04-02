@@ -1,0 +1,306 @@
+{
+ "key": "iccj-hp-75-2025",
+ "label": "Decizia ÎCCJ nr. 75/2025 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "75",
+ "date": "2025-03-03",
+ "year": "2025",
+ "heading": "DECIZIA nr. 75 din 3 martie 2025",
+ "subtitle": "privind interpretarea dispozițiilor art. 5 alin. (1) și (2) și ale lit. B pct. 19 din anexa nr. 3 la Regulamentul privind acordarea sporurilor la salariile de bază, în conformitate cu prevederile notei din anexa nr. II/2 la Legea-cadru nr. 330/2009 privind salarizarea unitară a personalului plătit din fonduri publice, aprobat prin Ordinul ministrului sănătății nr. 547/2010, precum și ale art. 15 alin. (1) lit. e) capitolul II din anexa nr. III la Legea-cadru nr. 284/2010 privind salarizarea unitară a personalului plătit din fonduri publice",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "291",
+  "bis": false,
+  "date": "2025-04-02",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.323/1/2024",
+  "3.042/90/2020"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 330/2009",
+    "number": "330",
+    "year": "2009",
+    "path": "lege/2009/330"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 284/2010",
+    "number": "284",
+    "year": "2010",
+    "path": "lege/2010/284"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 57/2015",
+    "number": "57",
+    "year": "2015",
+    "path": "oug/2015/57"
+   },
+   "articles": [
+    {
+     "art": "3-2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Curtea de Apel Pitești - Secția I civilă, în Dosarul nr. 3.042/90/2020, cu privire la următoarea problemă de drept: Interpretarea dispozițiilor art. 5 alin. (1) și (2) și ale lit. B pct. 19 din anexa nr. 3 la Regulamentul privind acordarea sporurilor la salariile de bază, în conformitate cu prevederile notei din anexa nr. II/2 la Legea-cadru nr. 330/2009 privind salarizarea unitară a personalului plătit din fonduri publice, aprobat prin Ordinul ministrului sănătății nr. 547/2010, precum și ale art. 15 alin. (1) lit. e) capitolul II din anexa nr. III la Legea-cadru nr. 284/2010 privind salarizarea unitară a personalului plătit din fonduri publice, cu modificările și completările ulterioare, respectiv: 1. dacă în urma intrării în vigoare a prevederilor art. 3^2 alin. (1) din Ordonanța de urgență a Guvernului nr. 57/2015 privind salarizarea personalului plătit din fonduri publice în anul 2016, prorogarea unor termene, precum și unele măsuri fiscal-bugetare, cu modificările și completările ulterioare, astfel cum a fost modificată și completată prin Ordonanța de urgență a Guvernului nr. 20/2016 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 57/2015 privind salarizarea personalului plătit din fonduri publice în anul 2016, prorogarea unor termene, precum și unele măsuri fiscal-bugetare și pentru modificarea și completarea unor acte normative, aprobată cu modificări și completări prin Legea nr. 250/2016, cu modificările ulterioare, personalul din sistemul public de asistență socială (familia ocupațională „Sănătate“) mai este îndreptățit la plata sporului de 15% din salariul de bază conform dispozițiilor lit. B pct. 19 din anexa nr. 3 la Regulamentul aprobat prin Ordinul ministrului sănătății nr. 547/2010 și art. 15 alin. (1) lit. e) capitolul II din anexa nr. III la Legea-cadru nr. 284/2010;",
+  "2. dacă personalul din sistemul public de asistență socială angajat ulterior datei de 1 decembrie 2016 este îndreptățit la plata sporului sus-menționat;",
+  "3. dacă emiterea buletinului de determinare prin expertizare a locurilor de muncă, conform art. 5 alin. (1) și (2) din Regulamentul aprobat prin Ordinul ministrului sănătății nr. 547/2010, precum și nominalizarea personalului care beneficiază de spor pe locuri de muncă de către șeful ierarhic superior și aprobarea de comitetul director, cu acordul sindicatelor reprezentative la nivel de unitate semnatare ale contractului colectiv de muncă la nivel de ramură sanitară/asistență socială, conform art. 15 alin. (1) din același act normativ, reprezintă cerințe prealabile obligatorii pentru acordarea sporului de 15%, conform art. 15 alin. (1) lit. e) capitolul II din anexa nr. III la Legea-cadru nr. 284/2010 și lit. B pct. 19 din anexa nr. 3 la Regulamentul aprobat prin Ordinul ministrului sănătății nr. 547/2010.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 62/2024",
+    "number": "62",
+    "year": "2024",
+    "path": "oug/2024/62"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 330/2009",
+    "number": "330",
+    "year": "2009",
+    "path": "lege/2009/330"
+   },
+   "articles": [],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 284/2010",
+    "number": "284",
+    "year": "2010",
+    "path": "lege/2010/284"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "39",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 24
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 57/2015",
+    "number": "57",
+    "year": "2015",
+    "path": "oug/2015/57"
+   },
+   "articles": [
+    {
+     "art": "3-2",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "e"
+     ]
+    }
+   ],
+   "mentions": 18
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 20/2016",
+    "number": "20",
+    "year": "2016",
+    "path": "oug/2016/20"
+   },
+   "articles": [],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 589/2018",
+    "number": "589",
+    "year": "2018",
+    "path": "hg/2018/589"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 95/2006",
+    "number": "95",
+    "year": "2006",
+    "path": "lege/2006/95"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 285/2010",
+    "number": "285",
+    "year": "2010",
+    "path": "lege/2010/285"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 1/2010",
+    "number": "1",
+    "year": "2010",
+    "path": "oug/2010/1"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul ministrului sănătății nr. 547/2010",
+    "number": "547",
+    "year": "2010"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-04-02",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/296347",
+  "text_sha256": "f090e420e3ffa8b9f1c7ceff6120f6e9e2895e18c1c0e3a56be276ae473e4b68",
+  "catalogue_sha256": "f090e420e3ffa8b9f1c7ceff6120f6e9e2895e18c1c0e3a56be276ae473e4b68",
+  "fetched": "2026-11-03T15:49:05Z",
+  "chars": 58980,
+  "portal_id": "296347",
+  "tip": "DECIZIE"
+ }
+}
