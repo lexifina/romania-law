@@ -23,6 +23,7 @@ Initiator: Guvernul României.
 - 2023-10-03: adopted by the Senate
 - 2024-02-09: returned for re-examination
 - 2024-10-14: adopted by the Senate
+- 2025-04-02: sent for promulgation
 
 ## Documents
 
