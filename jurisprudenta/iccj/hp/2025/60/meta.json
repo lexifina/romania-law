@@ -1,0 +1,211 @@
+{
+ "key": "iccj-hp-60-2025",
+ "label": "Decizia ÎCCJ nr. 60/2025 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "60",
+ "date": "2025-02-24",
+ "year": "2025",
+ "heading": "DECIZIA nr. 60 din 24 februarie 2025",
+ "subtitle": "privind interpretarea art. 49 din Legea nr. 217/2003 pentru prevenirea și combaterea violenței domestice",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "290",
+  "bis": false,
+  "date": "2025-04-02",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "2.425/1/2024",
+  "20.050/196/2024"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 217/2003",
+    "number": "217",
+    "year": "2003",
+    "path": "lege/2003/217"
+   },
+   "articles": [
+    {
+     "art": "49",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite sesizarea privind pronunțarea unei hotărâri prealabile formulată de Tribunalul Brăila - Secția I civilă în Dosarul nr. 20.050/196/2024 și, în consecință, stabilește că:",
+  "Dispozițiile art. 49 din Legea nr. 217/2003 pentru prevenirea și combaterea violenței domestice, republicată, cu modificările și completările ulterioare, se interpretează în sensul că, pentru formularea unei cereri de înlocuire a măsurilor stabilite printr-un ordin de protecție emis pe durată maximă, persoana împotriva căreia a fost emis ordinul nu trebuie să facă dovada îndeplinirii, cumulativ, a condițiilor prevăzute de art. 49 alin. (2) din aceeași lege.",
+  "Cererea de înlocuire a măsurilor stabilite printr-un ordin de protecție se soluționează conform procedurii prevăzute de art. 49 alin. (3) din aceeași lege.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 217/2003",
+    "number": "217",
+    "year": "2003",
+    "path": "lege/2003/217"
+   },
+   "articles": [
+    {
+     "art": "49",
+     "alin": [
+      "1",
+      "2",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "34",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "42",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "38",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "39",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 64
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția europeană a drepturilor omului",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 25/2012",
+    "number": "25",
+    "year": "2012",
+    "path": "lege/2012/25"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-04-02",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/296332",
+  "text_sha256": "ab8f2b50319b384147eee4904c0e7c55ab6c218a294c8b7812770cd20d371a4d",
+  "catalogue_sha256": "ab8f2b50319b384147eee4904c0e7c55ab6c218a294c8b7812770cd20d371a4d",
+  "fetched": "2026-11-06T03:49:34Z",
+  "chars": 74481,
+  "archive": {
+   "source": "commoncrawl",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/296332",
+   "timestamp": "20251118103645",
+   "crawl": "CC-MAIN-2025-47",
+   "filename": "crawl-data/CC-MAIN-2025-47/segments/1762439651456.92/warc/CC-MAIN-20251118091112-20251118121112-00181.warc.gz",
+   "offset": "266805479",
+   "length": "61604",
+   "sha256": "0667bdbad13a0b885b16cc8ef387f036b4abf5836366b800cf5f60494beb6dc4"
+  },
+  "portal_id": "296332",
+  "tip": "DECIZIE"
+ }
+}
