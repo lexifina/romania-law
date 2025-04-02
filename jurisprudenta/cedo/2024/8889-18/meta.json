@@ -1,0 +1,123 @@
+{
+ "key": "cedo-8889-18-2024-04-16",
+ "label": "CEDO, Plasty Prod - S.A. c. României, 2024-04-16",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2024-04-16",
+ "year": "2024",
+ "heading": "HOTĂRÂREA din 16 aprilie 2024",
+ "subtitle": "în Cauza Plasty Prod - S.A. împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI - SECȚIA A PATRA",
+ "mo": {
+  "number": "289",
+  "bis": false,
+  "date": "2025-04-02",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation"
+ ],
+ "applications": [
+  "8889/18"
+ ],
+ "case_name": "Plasty Prod - S.A.",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenție",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1 la Convenție",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "În unanimitate",
+  "CURTEA",
+  "1. declară cererea admisibilă;",
+  "2. hotărăște că a fost încălcat art. 6 § 1 din Convenție;",
+  "3. hotărăște că nu este necesar să se examineze dacă a fost încălcat art. 1 din Protocolul nr. 1 la Convenție;",
+  "4. hotărăște: (a) că statul pârât trebuie să plătească societății reclamante, în termen de trei luni (de la data rămânerii definitive a hotărârii), următoarele sume, care trebuie convertite în moneda națională a statului pârât la rata de schimb aplicabilă la data plății: (i)",
+  "2.000 EUR (două mii de euro), plus orice sumă ce poate fi datorată cu titlu de impozit, pentru prejudiciul moral;",
+  "(ii)",
+  "810 EUR (opt sute zece euro), pentru cheltuielile de judecată, plus orice sumă ce poate fi datorată de societatea reclamantă cu titlu de impozit",
+  "(b) că, de la împlinirea termenului menționat și până la efectuarea plății, aceste sume trebuie majorate cu o dobândă simplă, la o rată egală cu rata dobânzii facilității de împrumut marginal practicată de Banca Centrală Europeană, aplicabilă pe parcursul acestei perioade și majorată cu trei puncte procentuale;",
+  "5. respinge cererea de acordare a unei reparații echitabile pentru celelalte capete de cerere."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1 la Convenție",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/296328",
+  "text_sha256": "50102d48e4beb05c065fb1797cc544b7f835580c954aa695aa6fdc4b1fa902ce",
+  "catalogue_sha256": "50102d48e4beb05c065fb1797cc544b7f835580c954aa695aa6fdc4b1fa902ce",
+  "fetched": "2026-11-03T00:59:20Z",
+  "chars": 13827,
+  "portal_id": "296328",
+  "tip": "HOTĂRÂRE"
+ }
+}
