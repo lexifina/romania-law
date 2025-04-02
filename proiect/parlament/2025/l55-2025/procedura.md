@@ -13,6 +13,7 @@ Initiator: Membri ai Parlamentului.
 - 2025-03-10: registered at the Chamber of Deputies; registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ
 - 2025-03-25: adopted by the Chamber of Deputies; documents published: Raport comisie sesizată pe fond, Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-03-31: sent for promulgation
+- 2025-04-02: promulgated, becomes Legea nr. 34/2025; published in the Monitorul Oficial; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -23,3 +24,5 @@ Initiator: Membri ai Parlamentului.
 - 2025-03-25: Raport comisie sesizată pe fond (CR): [cr-0f04cc0f.md](cr-0f04cc0f.md); official file https://www.senat.ro/legis/PDF/2025/25L055CR.PDF
 - 2025-03-25: Adresă privind sesizarea CCR (AXS): [axs-6989f742.md](axs-6989f742.md); official file https://www.senat.ro/legis/PDF/2025/25L055AXS.PDF
 - 2025-03-25: Forma trimisă la promulgare (LP): [lp-5fccabe0.md](lp-5fccabe0.md); official file https://www.senat.ro/legis/PDF/2025/25L055LP.PDF
+- 2025-04-02: Decret de promulgare (DP): [dp-eab67fbf.md](dp-eab67fbf.md); official file https://www.senat.ro/legis/PDF/2025/25L055DP.PDF
+- 2025-04-02: Forma promulgată (FP): [fp-350a0c6f.md](fp-350a0c6f.md); official file https://www.senat.ro/legis/PDF/2025/25L055FP.PDF
