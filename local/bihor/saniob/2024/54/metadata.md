@@ -1,0 +1,10 @@
+# HCL Sâniob nr. 54/2024
+
+Text not yet included: no document of it is held. It will be added when it is.
+
+- Council: Consiliul Local al Comunei Sâniob
+- Decision: nr. 54/2024
+- Adopted: 2024-07-05
+- Published: 2025-04-03
+- Title: privind aprobarea contractului de concesiune a spațiului cu destinația de cabinet medical, situat în Comuna Sâniob, satul Ciuhoi nr. 205
+- Record: https://emol.ro/saniob-bh/registru-hcl/167236
