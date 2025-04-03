@@ -1,0 +1,42 @@
+{
+ "key": "cjue-c-726-23-concluzii-2025-04-03",
+ "label": "CJUE, Concluziile avocatului general domnul J. Richard de la Tour prezentate la 3 aprilie 2025, Cauza C-726/23.",
+ "court": "cjue",
+ "court_name": "Curtea de Justiție a Uniunii Europene",
+ "kind": "concluzii",
+ "act_type": "OPIN_AG",
+ "date": "2025-04-03",
+ "year": "2025",
+ "case": "Cauza C-726/23.",
+ "celex": "62023CC0726",
+ "ecli": "ECLI:EU:C:2025:244",
+ "heading": "Concluziile avocatului general domnul J. Richard de la Tour prezentate la 3 aprilie 2025",
+ "formation": null,
+ "procedure": "REFER_PREL",
+ "romania_role": [
+  "originates"
+ ],
+ "referred_by": null,
+ "referral_text": "Cererea de decizie preliminară formulată de Curtea de Apel Bucureşti.",
+ "national_followup": null,
+ "parties": null,
+ "parties_withheld": true,
+ "keywords": "Trimitere preliminară – Fiscalitate – Sistemul comun al taxei pe valoarea adăugată (TVA) – Directiva 2006/112/CE – Sfera de aplicare a TVA‑ului – Articolul 2 alineatul (1) litera (c) – Noțiunea de «prestare de servicii efectuată cu titlu oneros» – Servicii comerciale furnizate în cadrul aceluiași grup de societăți – Preț de transfer – Articolele 168 și 178 – Drept de deducere a TVA‑ului – Documente justificative.",
+ "interprets": [],
+ "text": null,
+ "text_withheld": "personal_data",
+ "withheld_reason": "The full text names the parties' lawyers (and, in older cases, private parties); only the metadata and the operative part are published here, with the official link.",
+ "operative_missing": null,
+ "eurlex_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62023CC0726",
+ "curia_url": "https://curia.europa.eu/juris/liste.jsf?num=C-726/23&language=ro",
+ "source": {
+  "name": "CELLAR, Publications Office of the European Union",
+  "url": "http://publications.europa.eu/resource/cellar/d7ee923a-1080-11f0-b1a3-01aa75ed71a1.0015.05/DOC_1",
+  "format": "xhtml",
+  "sha256": [
+   "121d2b15b6dc66acfbc650fb635be3decbfaba442389f78e8b3cd112184ac2f9"
+  ]
+ },
+ "legal_basis": "Jurisprudența Curții de Justiție a Uniunii Europene (texte oficiale; reutilizare permisă cu menționarea sursei: Decizia Comisiei 2011/833/UE și condițiile CURIA; © Uniunea Europeană). Textele oficiale nu sunt protejate de dreptul de autor în România (Legea nr. 8/1996, art. 9 lit. b).",
+ "attribution": "© European Union, https://eur-lex.europa.eu (via the Publications Office CELLAR)"
+}
