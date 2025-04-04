@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2025-03-12: adopted by the Chamber of Deputies
 - 2025-03-17: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-03-19: sent for promulgation
+- 2025-04-04: promulgated, becomes Legea nr. 37/2025; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -33,3 +34,5 @@ Initiator: Guvernul României.
 - 2023-09-30: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L422AM.PDF
 - 2025-03-17: Adresă privind sesizarea CCR (AXS): [axs-f24cd7b2.md](axs-f24cd7b2.md); official file https://www.senat.ro/legis/PDF/2023/23L422AXS.PDF
 - 2025-03-17: Forma trimisă la promulgare (LP): [lp-810df0e7.md](lp-810df0e7.md); official file https://www.senat.ro/legis/PDF/2023/23L422LP.PDF
+- 2025-04-04: Decret de promulgare (DP): [dp-416a2669.md](dp-416a2669.md); official file https://www.senat.ro/legis/PDF/2023/23L422DP.PDF
+- 2025-04-04: Forma promulgată (FP): [fp-6321e49a.md](fp-6321e49a.md); official file https://www.senat.ro/legis/PDF/2023/23L422FP.PDF
