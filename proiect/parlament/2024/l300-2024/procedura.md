@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2025-03-12: adopted by the Chamber of Deputies
 - 2025-03-17: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-03-19: sent for promulgation
+- 2025-04-04: promulgated, becomes Legea nr. 39/2025; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -34,3 +35,5 @@ Initiator: Guvernul României.
 - 2024-06-11: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L300AM.PDF
 - 2025-03-17: Adresă privind sesizarea CCR (AXS): [axs-72fad472.md](axs-72fad472.md); official file https://www.senat.ro/legis/PDF/2024/24L300AXS.PDF
 - 2025-03-17: Forma trimisă la promulgare (LP): [lp-16ae343f.md](lp-16ae343f.md); official file https://www.senat.ro/legis/PDF/2024/24L300LP.PDF
+- 2025-04-04: Decret de promulgare (DP): [dp-c5f8c817.md](dp-c5f8c817.md); official file https://www.senat.ro/legis/PDF/2024/24L300DP.PDF
+- 2025-04-04: Forma promulgată (FP): [fp-9048716e.md](fp-9048716e.md); official file https://www.senat.ro/legis/PDF/2024/24L300FP.PDF
