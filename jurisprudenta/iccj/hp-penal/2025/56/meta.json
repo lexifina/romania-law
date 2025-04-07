@@ -1,0 +1,356 @@
+{
+ "key": "iccj-hp-penal-56-2025",
+ "label": "Decizia ÎCCJ nr. 56/2025 (HP penal)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp-penal",
+ "number": "56",
+ "date": "2025-02-24",
+ "year": "2025",
+ "heading": "DECIZIA nr. 56 din 24 februarie 2025",
+ "subtitle": "referitoare la schimbarea încadrării juridice întro infracțiune mai gravă, care atrage un termen al prescripției răspunderii penale mai mare, într-un moment procesual în care se împlinise deja termenul prescripției răspunderii penale pentru infracțiunea mai ușoară vizată de art. 386 din Codul de procedură penală, și inculpatul nu a solicitat continuarea procesului penal, conform art. 18 din Codul de procedură penală",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT ÎN MATERIE PENALĂ",
+ "mo": {
+  "number": "303",
+  "bis": false,
+  "date": "2025-04-07",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.941/1/2024"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "386",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "246",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Curtea de Apel Bacău - Secția penală și pentru cauze cu minori și de familie, în vederea pronunțării unei hotărâri prealabile pentru dezlegarea următoarelor chestiuni de drept:",
+  "1. Dacă se poate dispune schimbarea încadrării juridice într-o infracțiune mai gravă, care atrage un termen al prescripției răspunderii penale mai mare, într-un moment procesual în care se împlinise deja termenul prescripției răspunderii penale pentru infracțiunea mai ușoară vizată de art. 386 din Codul de procedură penală, și inculpatul nu a solicitat continuarea procesului penal, conform art. 18 din Codul de procedură penală.",
+  "2. Dacă prin noțiunea de «participant» la o licitație publică, în accepțiunea art. 246 din Codul penal, se poate înțelege orice agent economic cu vocație de a participa la procedura de atribuire a contractului de achiziție publică, vocație derivată din faptul solicitării de către agentul economic a caietului de sarcini și formulării ulterioare de cereri de clarificări privind caietul de sarcini.",
+  "3. Care este înțelesul noțiunii de «constrângere», în accepțiunea art. 246 din Codul penal, dacă participantul este un agent economic.",
+  "Obligatorie de la data publicării în Monitorul Oficial al României, Partea I, potrivit art. 477 alin. (3) din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "386",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a",
+      "f"
+     ]
+    },
+    {
+     "art": "18",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "476",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "473",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "396",
+     "alin": [
+      "10",
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "475",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "387",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 29
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "246",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "297",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "309",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "68",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "207",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "154",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "153",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 50
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 78/2000",
+    "number": "78",
+    "year": "2000",
+    "path": "lege/2000/78"
+   },
+   "articles": [
+    {
+     "art": "13-2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "1349",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1357",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1382",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1385",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 34/2006",
+    "number": "34",
+    "year": "2006",
+    "path": "oug/2006/34"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "209",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 98/2016",
+    "number": "98",
+    "year": "2016",
+    "path": "lege/2016/98"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "36",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-04-07",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/296449",
+  "text_sha256": "1758bba2c2067eb6289913a79ae2e13e076502e7ecc0caeb7cb3dd9d637597e6",
+  "catalogue_sha256": "1758bba2c2067eb6289913a79ae2e13e076502e7ecc0caeb7cb3dd9d637597e6",
+  "fetched": "2026-11-03T00:59:14Z",
+  "chars": 90999,
+  "portal_id": "296449",
+  "tip": "DECIZIE"
+ }
+}
