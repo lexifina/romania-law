@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2025-03-12: adopted by the Chamber of Deputies
 - 2025-03-17: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-03-22: sent for promulgation
+- 2025-04-07: promulgated, becomes Legea nr. 44/2025; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -33,3 +34,5 @@ Initiator: Guvernul României.
 - 2024-09-24: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L436AM.PDF
 - 2025-03-17: Adresă privind sesizarea CCR (AXS): [axs-b9f9631f.md](axs-b9f9631f.md); official file https://www.senat.ro/legis/PDF/2024/24L436AXS.PDF
 - 2025-03-17: Forma trimisă la promulgare (LP): [lp-fcd1693f.md](lp-fcd1693f.md); official file https://www.senat.ro/legis/PDF/2024/24L436LP.PDF
+- 2025-04-07: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L436DP.PDF
+- 2025-04-07: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L436FP.PDF
