@@ -1,0 +1,17 @@
+# Propunere legislativă L153/2025
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Propunere legislativă pentru completarea Legii nr.267/2008 privind unele măsuri speciale pentru reglementarea avansului rest de justificat şi pentru efectuarea recepţiei în fază unică a lucrărilor de construcţii şi a instalaţiilor aferente acestora la obiectivul de investiţii Palatul Parlamentului, precum şi pentru reglementarea unor măsuri cu privire la administrarea imobilului "Palatul Parlamentului"
+
+Initiator: Membri ai Parlamentului.
+
+## Stages published so far
+
+- 2025-04-07: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
+
+## Documents
+
+- 2025-04-07: Adresă de înaintare a inițiativei (AD): [ad-320f14c4.md](ad-320f14c4.md); official file https://www.senat.ro/legis/PDF/2025/25L153AD.PDF
+- 2025-04-07: Forma inițiatorului (FG): [fg-95b462ab.md](fg-95b462ab.md); official file https://www.senat.ro/legis/PDF/2025/25L153FG.PDF
+- 2025-04-07: Expunere de motive (EM): [em-0be7a7e4.md](em-0be7a7e4.md); official file https://www.senat.ro/legis/PDF/2025/25L153EM.PDF
