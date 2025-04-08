@@ -19,6 +19,7 @@ Initiator: Membri ai Parlamentului.
 - 2025-03-26: adopted by the Chamber of Deputies
 - 2025-03-31: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-04-05: sent for promulgation
+- 2025-04-08: promulgated, becomes Legea nr. 46/2025; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -32,3 +33,5 @@ Initiator: Membri ai Parlamentului.
 - 2018-04-25: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L133AM.PDF
 - 2025-03-31: Adresă privind sesizarea CCR (AXS): [axs-d5140c49.md](axs-d5140c49.md); official file https://www.senat.ro/legis/PDF/2018/18L133AXS.PDF
 - 2025-03-31: Forma trimisă la promulgare (LP): [lp-a7094cc5.md](lp-a7094cc5.md); official file https://www.senat.ro/legis/PDF/2018/18L133LP.PDF
+- 2025-04-08: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L133DP.PDF
+- 2025-04-08: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L133FP.PDF
