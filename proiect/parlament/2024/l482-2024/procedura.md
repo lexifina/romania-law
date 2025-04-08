@@ -20,6 +20,7 @@ Initiator: Membri ai Parlamentului.
 - 2025-03-31: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-04-05: sent for promulgation
 - 2025-04-07: promulgated, becomes Legea nr. 42/2025; documents published: Decret de promulgare, Forma promulgată
+- 2025-04-08: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -37,3 +38,4 @@ Initiator: Membri ai Parlamentului.
 - 2025-03-31: Forma trimisă la promulgare (LP): [lp-4e910b39.md](lp-4e910b39.md); official file https://www.senat.ro/legis/PDF/2024/24L482LP.PDF
 - 2025-04-07: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L482DP.PDF
 - 2025-04-07: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L482FP.PDF
+- 2025-04-08: Document (CNA): [cna-b0bf454c.md](cna-b0bf454c.md); official file https://www.senat.ro/legis/PDF/2024/24L482CNA.PDF (its day is not given by the bill file: shown from the last stage held)
