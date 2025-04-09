@@ -1,0 +1,277 @@
+{
+ "key": "dcc-508-2024",
+ "label": "Decizia CCR nr. 508/2024",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "508",
+ "date": "2024-10-17",
+ "year": "2024",
+ "heading": "DECIZIA nr. 508 din 17 octombrie 2024",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 54 lit. a) și b), ale art. 328 alin. (1) și ale art. 346 alin. (3) lit. a) din Codul de procedură penală",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "316",
+  "bis": false,
+  "date": "2025-04-09",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "6.183/176/2018/a1.7",
+  "1.192D/2021"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "54",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "328",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "346",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepția de neconstituționalitate a dispozițiilor art. 54 lit. a) și b), ale art. 328 alin. (1) și ale art. 346 alin. (3) lit. a) din Codul de procedură penală, excepție ridicată de Dan Laurian Elvireanu în Dosarul nr. 6.183/176/2018/a1.7 al Tribunalului Alba - Secția penală.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului Alba - Secția penală și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "54",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "346",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "328",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "280",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "281",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "282",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituției",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "126",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 201/2023",
+    "number": "201",
+    "year": "2023",
+    "path": "lege/2023/201"
+   },
+   "articles": [
+    {
+     "art": "346",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "124",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2025-04-09",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/296523",
+  "text_sha256": "812a96eea86a86e899a4452e88ebb17eb7d46526d7eae565d45fccf8701d9b4b",
+  "catalogue_sha256": "812a96eea86a86e899a4452e88ebb17eb7d46526d7eae565d45fccf8701d9b4b",
+  "fetched": "2026-11-03T00:59:05Z",
+  "chars": 18560,
+  "portal_id": "296523",
+  "tip": "DECIZIE"
+ }
+}
