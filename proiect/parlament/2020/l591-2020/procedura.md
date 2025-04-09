@@ -24,6 +24,7 @@ Initiator: Guvernul României.
 - 2024-02-09: returned for re-examination
 - 2024-10-14: adopted by the Senate
 - 2025-04-02: sent for promulgation
+- 2025-04-09: published in the Monitorul Oficial
 
 ## Documents
 
