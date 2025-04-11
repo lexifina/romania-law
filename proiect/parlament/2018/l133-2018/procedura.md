@@ -20,6 +20,7 @@ Initiator: Membri ai Parlamentului.
 - 2025-03-31: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-04-05: sent for promulgation
 - 2025-04-08: promulgated, becomes Legea nr. 46/2025; documents published: Decret de promulgare, Forma promulgată
+- 2025-04-11: published in the Monitorul Oficial
 
 ## Documents
 
