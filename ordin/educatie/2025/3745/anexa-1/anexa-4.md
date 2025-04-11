@@ -1,0 +1,6 @@
+# Anexa nr. 4 la metodologie
+DECLARAȚIE PE PROPRIA RĂSPUNDERE
+Subsemnatul/Subsemnata,............., domiciliat(ă) în............., str.............. nr...., bl...., sc...., ap...., județul/sectorul............., legitimat(ă) cu seria.... nr......., CNP............., încadrat(ă) la............. pe funcția de............., declar pe propria răspundere că documentele depuse la dosar îmi aparțin și că prin acestea sunt confirmate/certificate activitățile desfășurate.
+Întocmită într-un exemplar, pe propria răspundere, cunoscând că falsul în declarații este pedepsit conform legii.
+Semnătura......................
+Data...................
