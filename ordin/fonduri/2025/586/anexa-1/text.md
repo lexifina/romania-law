@@ -1,0 +1,2 @@
+# ANEXĂ
+SCHEMĂ DE AJUTOR DE STAT pentru acordarea de sprijin financiar participanților indirecți la proiectul important de interes european comun, aferentă componentei C9. Suport pentru sectorul privat, cercetare, dezvoltare și inovare, investiția 4. Proiecte transfrontaliere și multinaționale - Procesoare cu consum redus de energie și cipuri semiconductoare, din cadrul Mecanismului de redresare și reziliență
