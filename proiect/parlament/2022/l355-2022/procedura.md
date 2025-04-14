@@ -20,6 +20,7 @@ Initiator: Membri ai Parlamentului.
 - 2025-03-26: adopted by the Chamber of Deputies
 - 2025-03-31: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-04-05: sent for promulgation
+- 2025-04-14: promulgated, becomes Legea nr. 50/2025; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -35,3 +36,5 @@ Initiator: Membri ai Parlamentului.
 - 2022-06-27: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L355AM.PDF
 - 2025-03-31: Adresă privind sesizarea CCR (AXS): [axs-ca654ec4.md](axs-ca654ec4.md); official file https://www.senat.ro/legis/PDF/2022/22L355AXS.PDF
 - 2025-03-31: Forma trimisă la promulgare (LP): [lp-4d7704f3.md](lp-4d7704f3.md); official file https://www.senat.ro/legis/PDF/2022/22L355LP.PDF
+- 2025-04-14: Decret de promulgare (DP): [dp-0ee7284f.md](dp-0ee7284f.md); official file https://www.senat.ro/legis/PDF/2022/22L355DP.PDF
+- 2025-04-14: Forma promulgată (FP): [fp-38aacb00.md](fp-38aacb00.md); official file https://www.senat.ro/legis/PDF/2022/22L355FP.PDF
