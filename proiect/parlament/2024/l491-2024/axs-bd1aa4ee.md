@@ -1,0 +1,91 @@
+i
+1
+►
+'
++M~ y i^`  tl e N t•r~t~~'~t~' :
+►,
+~
+~i~ :~., rel`I„Gl,
+. u~ ..:..,,.~ ►~
+~
+,r.
+ROMANIA
+Parfamentut 1omâniei
+Camera Deputaților
+Cabinet Secretar General
+Domnului,
+1 /
+04'- 90$
+București, 14 aprilie 2025
+Nr.
+PLx65,PLx82,PLx461,PLx629,PLx608,
+PLx567, PLx597,PLx606,PLx328,PLx3
+MARIO-OVIDIU OPREA
+Secretar general al Senatului
+În conformitate cu prevederile art.15 alin.(2) din Legea nr.47/1992 privind
+organizarea și functionarea Cur(ii Constitutionale, republicată, vă înaintăm alăturat,
+urmănd a proceda în consecin~ă, următoarele legi:
+1. Legea pentru aprobarea Ordonantei Guvernului nr.6/2025 privind stabilirea
+unor măsuri pentru implementarea programelor naționale din domeniul lucrărilor
+procedură de drept comun-
+publice (PL-x 65/2025)
+!
+;, ~,~
+~``~~~. Legea pentru modificarea și completarea unor acte normative în domeniul
+străinilor (PL-x 608/2024)
+procedură de urgență-
+i LMf
+'6 Legea privind aprobarea Ordonantei de urgen
+a Guvernului nr.11l/2024
+pentru modificarea și completarea Legii nr.119/1996 cu privire la actele de stare civilă
+(PL-x 567/2024)
+procedură de urgență-
+Legea privind
+aprobarea Ordonantei
+Guvernului
+nr.42/2024 pentru
+modificarea și completarea Legii nr.339/2005 privind regimul juridic al plantelor,
+substantelor și preparatelor stupefiante și psihotrope (PL-x 597/2024)
+procedură de drept comun-
+2. Legea privind instituirea zilei de 15 iunie ca Ziva Banatului Montan
+/
+(PL-x82/2025)
+procedură de drept corn un-
+3iegea privind aprobarea Ordonantei de urgen
+a Guvernului nr.73/2024
+pentru modificarea Ordonantei de urgen
+a Guvernului nr.57/2019 privind Codul
+administrativ, precum și pentru completarea art.2 din Ordonanta de urgen(ă a
+Guvernului nr.212/2020 privind stabilirea unor măsuri la nivelul administratiei
+publice centrale și pentru modificarea și completarea unor acte normative
+(PL-x 461/2024)
+procedură de urgență-
+1.. Legea pentru completarea Ordonantei de urgen
+a Guvernului nr.28/2013
+pentru aprobarea Programului national de dezvoltare locală (PL-x 629/2023)
+procedură de drept comun-
+
+-2-
+r~~
+SJLegea pentru modificarea art.1.026 alin.(1) din Legea nr.134/2010 privind
+Codul de procedură civil . (PL-x 606/2023)
+procedură de drept comun-
+- ~I~j~~W~,~Legea pentru modificarea art.66 alin.(12) lit.c) din Ordonanta de urgent a
+Guvernului nr.92/2021 privind regimul deșeurilor (PL-x 328/2024)
+procedură de drept comun-
+(( ~
+10r Legea privind cooperarea poli(ienească interna(ională și pentru modificarea
+unor acte normative în domeniu (PL-x 3/2025)
+procedură de urgență-
+Cu considerație,
+p. SECRETAR GENERAL
+Ioana Bran-Voinea
+Secretar general adjunct
+~_-:; t:
+`tF'c
+•'~ ; `.
+.. ,'
+~ .-
+~~
+Biroul pentru pregătirea lucrărilor plenului
+Șef birou, Dian~Mpdălina Miroiu
