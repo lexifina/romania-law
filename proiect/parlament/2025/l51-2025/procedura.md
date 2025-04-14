@@ -16,6 +16,7 @@ Initiator: Guvernul României.
 - 2025-03-19: registered at the Chamber of Deputies
 - 2025-03-26: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-03-28: sent for promulgation
+- 2025-04-14: promulgated, becomes Legea nr. 49/2025; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -31,3 +32,5 @@ Initiator: Guvernul României.
 - 2025-03-18: Aviz comisie (CA45): [ca45-47653114.md](ca45-47653114.md); official file https://www.senat.ro/legis/PDF/2025/25L051CA45.PDF
 - 2025-03-26: Adresă privind sesizarea CCR (AXS): [axs-330d7ff3.md](axs-330d7ff3.md); official file https://www.senat.ro/legis/PDF/2025/25L051AXS.PDF
 - 2025-03-26: Forma trimisă la promulgare (LP): [lp-cc645903.md](lp-cc645903.md); official file https://www.senat.ro/legis/PDF/2025/25L051LP.PDF
+- 2025-04-14: Decret de promulgare (DP): [dp-f0422d69.md](dp-f0422d69.md); official file https://www.senat.ro/legis/PDF/2025/25L051DP.PDF
+- 2025-04-14: Forma promulgată (FP): [fp-a502f106.md](fp-a502f106.md); official file https://www.senat.ro/legis/PDF/2025/25L051FP.PDF
