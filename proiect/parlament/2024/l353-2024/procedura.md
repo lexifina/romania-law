@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2025-03-19: adopted by the Chamber of Deputies
 - 2025-03-24: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-03-26: sent for promulgation
+- 2025-04-14: promulgated, becomes Legea nr. 47/2025; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -37,3 +38,5 @@ Initiator: Guvernul României.
 - 2024-09-10: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L353AM.PDF
 - 2025-03-24: Adresă privind sesizarea CCR (AXS): [axs-11926c60.md](axs-11926c60.md); official file https://www.senat.ro/legis/PDF/2024/24L353AXS.PDF
 - 2025-03-24: Forma trimisă la promulgare (LP): [lp-23707282.md](lp-23707282.md); official file https://www.senat.ro/legis/PDF/2024/24L353LP.PDF
+- 2025-04-14: Decret de promulgare (DP): [dp-f297aa14.md](dp-f297aa14.md); official file https://www.senat.ro/legis/PDF/2024/24L353DP.PDF
+- 2025-04-14: Forma promulgată (FP): [fp-b9ff890f.md](fp-b9ff890f.md); official file https://www.senat.ro/legis/PDF/2024/24L353FP.PDF
