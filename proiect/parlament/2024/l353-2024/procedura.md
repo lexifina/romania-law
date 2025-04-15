@@ -20,6 +20,7 @@ Initiator: Guvernul României.
 - 2025-03-24: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-03-26: sent for promulgation
 - 2025-04-14: promulgated, becomes Legea nr. 47/2025; documents published: Decret de promulgare, Forma promulgată
+- 2025-04-15: published in the Monitorul Oficial
 
 ## Documents
 
