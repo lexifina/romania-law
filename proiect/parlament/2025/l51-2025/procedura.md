@@ -17,6 +17,7 @@ Initiator: Guvernul României.
 - 2025-03-26: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-03-28: sent for promulgation
 - 2025-04-14: promulgated, becomes Legea nr. 49/2025; documents published: Decret de promulgare, Forma promulgată
+- 2025-04-15: published in the Monitorul Oficial
 
 ## Documents
 
