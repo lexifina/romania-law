@@ -21,6 +21,7 @@ Initiator: Membri ai Parlamentului.
 - 2025-03-31: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-04-05: sent for promulgation
 - 2025-04-14: promulgated, becomes Legea nr. 50/2025; documents published: Decret de promulgare, Forma promulgată
+- 2025-04-15: published in the Monitorul Oficial
 
 ## Documents
 
