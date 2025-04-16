@@ -1,0 +1,188 @@
+{
+ "key": "iccj-hp-53-2025",
+ "label": "Decizia ÎCCJ nr. 53/2025 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "53",
+ "date": "2025-02-24",
+ "year": "2025",
+ "heading": "DECIZIA nr. 53 din 24 februarie 2025",
+ "subtitle": "referitoare la aplicarea prevederilor lit. A pct. I capitolul I din anexa nr. VIII din Legea-cadru nr. 153/2017",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "339",
+  "bis": false,
+  "date": "2025-04-16",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.289/1/2024",
+  "197/46/2024"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Tribunalul Vâlcea - Secția a II-a civilă, de contencios administrativ și fiscal în Dosarul nr. 197/46/2024, în vederea pronunțării unei hotărâri prealabile cu privire la următoarea problemă de drept: Dacă, prin raportare la principiile egalității și nediscriminării, reglementate de art. 6 alin. (1) din Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, cu modificările și completările ulterioare, prevederile lit. A pct. I capitolul I din anexa nr. VIII la aceeași lege se aplică și personalului ce deține calitatea de funcționar public în cadrul unei unități teritoriale a Administrației Naționale a Rezervelor de Stat și Probleme Speciale sau, din contră, doar celui din cadrul aparatului central al autorității publice respective.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 62/2024",
+    "number": "62",
+    "year": "2024",
+    "path": "oug/2024/62"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "f"
+     ]
+    }
+   ],
+   "mentions": 16
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 128/2023",
+    "number": "128",
+    "year": "2023",
+    "path": "oug/2023/128"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 1.380/2009",
+    "number": "1380",
+    "year": "2009",
+    "path": "hg/2009/1380"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "520",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-04-16",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/296693",
+  "text_sha256": "aa6c62f76fdf329a8f803ff19434d87ccabe9bb3c3d50d408b61f19af7e62838",
+  "catalogue_sha256": "aa6c62f76fdf329a8f803ff19434d87ccabe9bb3c3d50d408b61f19af7e62838",
+  "fetched": "2026-11-03T00:58:59Z",
+  "chars": 40993,
+  "portal_id": "296693",
+  "tip": "DECIZIE"
+ }
+}
