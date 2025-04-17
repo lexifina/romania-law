@@ -1,0 +1,3 @@
+# ANEXĂ
+PROCEDURĂ de stabilire și aplicare a sancțiunii la cifra de afaceri rezultate din activitatea de control, în conformitate cu prevederile
+Ordonanței de urgență a Guvernului nr. 6/2025 privind măsurile aplicabile clienților finali din piața de energie electrică în perioada 1 aprilie 2025-30 iunie 2025, respectiv măsurile aplicabile clienților finali din piața de gaze naturale în perioada 1 aprilie 2025-31 martie 2026, precum și pentru modificarea și completarea unor acte normative din domeniul energiei
