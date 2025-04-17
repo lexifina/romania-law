@@ -1,0 +1,22 @@
+# Proiect de lege L104/2025
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 46/2026 (`legea-46-2026`).
+
+Proiect de lege pentru aprobarea Ordonanţei de urgenţã a Guvernului nr.24/2025 privind unele măsuri bugetare în domeniul culturii și al asigurării funcționării structurii de coordonare în domeniul drogurilor și al adicțiilor pentru anul 2025
+
+Initiator: Guvernul României.
+
+## Stages published so far
+
+- 2025-04-17: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+
+## Documents
+
+- 2025-04-17: Adresă de înaintare a inițiativei (AD): [ad-e08afca1.md](ad-e08afca1.md); official file https://www.senat.ro/legis/PDF/2025/25L104AD.PDF
+- 2025-04-17: Forma inițiatorului (FG): [fg-898489b1.md](fg-898489b1.md); official file https://www.senat.ro/legis/PDF/2025/25L104FG.PDF
+- 2025-04-17: Expunere de motive (EM): [em-2cbfd82b.md](em-2cbfd82b.md); official file https://www.senat.ro/legis/PDF/2025/25L104EM.PDF
+- 2025-04-17: Aviz Consiliul Legislativ (LG): [lg-749b16ed.md](lg-749b16ed.md); official file https://www.senat.ro/legis/PDF/2025/25L104LG.PDF
+- 2025-04-17: Document (OG): [og-88410257.md](og-88410257.md); official file https://www.senat.ro/legis/PDF/2025/25L104OG.PDF
+- 2025-04-17: Document (HG): [hg-e6d1f4e2.md](hg-e6d1f4e2.md); official file https://www.senat.ro/legis/PDF/2025/25L104HG.PDF
