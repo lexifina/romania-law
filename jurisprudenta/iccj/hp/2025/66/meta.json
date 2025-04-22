@@ -1,0 +1,221 @@
+{
+ "key": "iccj-hp-66-2025",
+ "label": "Decizia ÎCCJ nr. 66/2025 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "66",
+ "date": "2025-03-03",
+ "year": "2025",
+ "heading": "DECIZIA nr. 66 din 3 martie 2025",
+ "subtitle": "referitoare la interpretarea dispozițiilor art. 2 alin. (1) și (2), art. 13 alin. (3) din Ordonanța de urgență a Guvernului nr. 111/2010 privind concediul și indemnizația lunară pentru creșterea copiilor",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "352",
+  "bis": false,
+  "date": "2025-04-22",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "2.311/1/2024",
+  "2.509/86/2023"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 111/2010",
+    "number": "111",
+    "year": "2010",
+    "path": "oug/2010/111"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": [
+      "7"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  }
+ ],
+ "operative": [
+  "Admite sesizarea formulată de Curtea de Apel Suceava - Secția de contencios administrativ și fiscal în Dosarul nr. 2.509/86/2023, în vederea pronunțării unei hotărâri prealabile.",
+  "În interpretarea dispozițiilor art. 2 alin. (1) și (2), art. 13 alin. (3) din Ordonanța de urgență a Guvernului nr. 111/2010 privind concediul și indemnizația lunară pentru creșterea copiilor, aprobată cu modificări prin Legea nr. 132/2011, cu modificările și completările ulterioare, în forma în vigoare la data de 16 mai 2019, respectiv a dispozițiilor art. 3 alin. (7) și (8) din Ordonanța de urgență a Guvernului nr. 111/2010, în forma în vigoare în prezent, precum și a dispozițiilor art. 22 alin. (4) din Normele metodologice de aplicare a prevederilor Ordonanței de urgență a Guvernului nr. 111/2010 privind concediul și indemnizația lunară pentru creșterea copiilor, aprobate prin Hotărârea Guvernului nr. 52/2011, cu modificările și completările ulterioare, stabilește că:",
+  "Recalcularea cuantumului indemnizației lunare pentru creșterea copilului se realizează, cu respectarea limitei maxime prevăzute de lege, la cererea persoanei îndreptățite, chiar după împlinirea de către copil a vârstei de 2 ani, respectiv 3 ani în cazul copilului cu handicap, dacă ulterior, în baza unor hotărâri judecătorești definitive, s-au acordat diferențe de drepturi salariale sau asimilate acestora, impozabile, drepturi corespunzătoare perioadei de contributivitate impuse de art. 2 alin. (1) din Ordonanța de urgență a Guvernului nr. 111/2010.",
+  "Obligatorie, potrivit art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 62/2024",
+    "number": "62",
+    "year": "2024",
+    "path": "oug/2024/62"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 111/2010",
+    "number": "111",
+    "year": "2010",
+    "path": "oug/2010/111"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": [
+      "1",
+      "7"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 22
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea contenciosului administrativ nr. 554/2004",
+    "number": "554",
+    "year": "2004",
+    "path": "lege/2004/554"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 52/2011",
+    "number": "52",
+    "year": "2011",
+    "path": "hg/2011/52"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "430",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului fiscal",
+    "path": "lege/2015/227",
+    "slug": "codul-fiscal"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-04-22",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/296811",
+  "text_sha256": "e71a76fb351da6d54cdffa16123beb9c992615ba7a4f815723ca3fd42b8d9ce2",
+  "catalogue_sha256": "e71a76fb351da6d54cdffa16123beb9c992615ba7a4f815723ca3fd42b8d9ce2",
+  "fetched": "2026-11-03T00:58:56Z",
+  "chars": 48294,
+  "portal_id": "296811",
+  "tip": "DECIZIE"
+ }
+}
