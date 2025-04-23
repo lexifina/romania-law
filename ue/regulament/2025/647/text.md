@@ -1,0 +1,56 @@
+REGULAMENTUL DE PUNERE ÎN APLICARE (UE) 2025/647 AL COMISIEI
+din 2 aprilie 2025
+de modificare și de rectificare a Regulamentului de punere în aplicare (UE) 2019/913 și de rectificare a Regulamentului de punere în aplicare (UE) 2022/1471 în ceea ce privește autorizarea carbonatului de lantan octahidrat, cu numerele de identificare 4d1 și, respectiv, 4d23, ca aditivi pentru hrana pisicilor
+(Text cu relevanță pentru SEE)
+COMISIA EUROPEANĂ,
+având în vedere Tratatul privind funcționarea Uniunii Europene,
+având în vedere Regulamentul (CE) nr. 1831/2003 al Parlamentului European și al Consiliului din 22 septembrie 2003 privind aditivii din hrana animalelor (1), în special articolul 9 alineatul (2) și articolul 13 alineatul (3),
+întrucât:
+(1) Regulamentul (CE) nr. 1831/2003 prevede autorizarea aditivilor destinați hranei animalelor, precum și motivele și procedurile de acordare a unei astfel de autorizații.
+(2) Autorizația carbonatului de lantan octahidrat a fost reînnoită pentru o perioadă de 10 ani ca aditiv pentru hrana pisicilor, cu numărul de identificare 4d1, prin Regulamentul de punere în aplicare (UE) 2019/913 al Comisiei (2) (titularul autorizației: Bayer HealthCare AG). Carbonatul de lantan octahidrat a fost autorizat tot timp de 10 ani ca aditiv pentru hrana pisicilor, cu numărul de identificare 4d23, prin Regulamentul de punere în aplicare (UE) 2022/1471 al Comisiei (3) (titularul autorizației: Porus GmbH). Ambii aditivi au fost menționați în mod eronat ca preparate în anexele la respectivele regulamente de punere în aplicare. În plus, condițiile de utilizare din anexele la regulamentele de punere în aplicare respective nu reflectă în mod corespunzător concluziile Autorității Europene pentru Siguranța Alimentară („autoritatea”) din avizele sale din 27 septembrie 2007 (4) și din 27 ianuarie 2022 (5), potrivit cărora carbonatul de lantan octahidrat este sigur și eficace pentru pisicile adulte.
+(3) Prin urmare, este necesar ca Regulamentele de punere în aplicare (UE) 2019/913 și (UE) 2022/1471 să fie rectificate în consecință.
+(4) În plus, Bayer HealthCare AG, titularul autorizației pentru carbonatul de lantan octahidrat ca aditiv pentru hrana pisicilor, cu numărul de identificare 4d1, a transmis Comisiei o cerere în conformitate cu articolul 13 alineatul (3) din Regulamentul (CE) nr. 1831/2003, propunând modificarea numelui titularului autorizației pentru aditivul respectiv în Elanco GmbH.
+(5) Modificarea propusă a termenilor autorizației vizând numele titularului autorizației carbonatului de lantan octahidrat ca aditiv pentru hrana pisicilor, cu numărul de identificare 4d1, este de natură pur administrativă și nu implică o nouă evaluare. Autoritatea a fost informată cu privire la respectiva cerere.
+(6) Pentru a permite întreprinderii Elanco GmbH să își exploateze drepturile de comercializare în conformitate cu articolul 9 alineatul (6) din Regulamentul (CE) nr. 1831/2003, este necesar să se modifice termenii autorizației în cauză prin indicarea denumirii sale ca titular al autorizației pentru carbonatul de lantan octahidrat ca aditiv pentru hrana pisicilor, cu numărul de identificare 4d1.
+(7) Prin urmare, este necesar ca Regulamentul de punere în aplicare (UE) 2019/913 să fie modificat în consecință.
+(8) Întrucât nu există motive din sfera siguranței care să impună aplicarea imediată a modificărilor condițiilor de autorizare a carbonatului de lantan octahidrat pentru pisici, este adecvat să se prevadă o perioadă de tranziție pentru a permite părților interesate să se pregătească pentru a îndeplini noile cerințe care rezultă din rectificare Regulamentelor de punere în aplicare (UE) 2019/913 și (UE) 2022/1471 și din modificarea Regulamentului de punere în aplicare (UE) 2019/913.
+(9) Măsurile prevăzute în prezentul regulament sunt conforme cu avizul Comitetului permanent pentru plante, animale, produse alimentare și hrană pentru animale,
+ADOPTĂ PREZENTUL REGULAMENT:
+Articolul 1
+Rectificarea și modificarea Regulamentului de punere în aplicare (UE) 2019/913
+Anexa la Regulamentul de punere în aplicare (UE) 2019/913 se înlocuiește cu anexa I la prezentul regulament.
+Articolul 2
+Rectificarea Regulamentului de punere în aplicare (UE) 2022/1471
+Anexa la Regulamentul de punere în aplicare (UE) 2022/1471 se înlocuiește cu anexa II la prezentul regulament.
+Articolul 3
+Măsuri tranzitorii
+(1) Substanța specificată în anexele I și II și preamestecurile care conțin substanța respectivă, care sunt destinate pisicilor și care sunt produse și etichetate înainte de 23 octombrie 2025 în conformitate cu normele aplicabile înainte de 23 aprilie 2025 pot fi în continuare introduse pe piață și utilizate până la epuizarea stocurilor existente.
+(2) Hrana combinată pentru animale și materiile prime destinate hranei animalelor, care conțin substanța specificată în anexele I și II, care sunt destinate pisicilor și care sunt produse și etichetate înainte de 23 aprilie 2027, în conformitate cu normele aplicabile înainte de 23 aprilie 2025, pot fi în continuare introduse pe piață și utilizate până la epuizarea stocurilor existente.
+Articolul 4
+Intrare în vigoare
+Prezentul regulament intră în vigoare în a douăzecea zi de la data publicării în Jurnalul Oficial al Uniunii Europene.
+Prezentul regulament este obligatoriu în toate elementele sale și se aplică direct în toate statele membre.
+Adoptat la Bruxelles, 2 aprilie 2025.
+Pentru Comisie
+Președinta
+Ursula VON DER LEYEN
+(1) JO L 268, 18.10.2003, p. 29, ELI: http://data.europa.eu/eli/reg/2003/1831/oj.
+(2) Regulamentul de punere în aplicare (UE) 2019/913 al Comisiei din 29 mai 2019 privind reînnoirea autorizației pentru carbonatul de lantan octahidrat ca aditiv pentru hrana pisicilor și de abrogare a Regulamentului (CE) nr. 163/2008 (titularul autorizației: Bayer HealthCare AG) (JO L 146, 5.6.2019, p. 57, ELI: http://data.europa.eu/eli/reg_impl/2019/913/oj).
+(3) Regulamentul de punere în aplicare (UE) 2022/1471 al Comisiei din 5 septembrie 2022 privind autorizarea carbonatului de lantan octahidrat ca aditiv pentru hrana pisicilor (titularul autorizației: Porus GmbH) (JO L 231, 6.9.2022, p. 113, ELI: http://data.europa.eu/eli/reg_impl/2022/1471/oj).
+(4) EFSA Journal (2007) 542.
+(5) EFSA Journal 2022;20(2):7168.
+ANEXA I
+Numărul de identificare al aditivului destinat hranei animale | Numele titularului autorizației | Aditivul | Compoziția, formula chimică, descrierea, metoda analitică | Specia sau categoria de animale | Vârsta maximă | Conținutul minim | Conținutul maxim | Alte dispoziții | Sfârșitul perioadei de autorizare
+mg de aditiv/kg de hrană completă pentru animale cu un conținut de umiditate de 12 %
+Categoria: aditivi zootehnici. Grupa funcțională: alți aditivi zootehnici (diminuarea excreției de fosfor prin urină)
+4d1 | Elanco GmbH | Carbonat de lantan octahidrat | Compoziția aditivului Carbonat de lantan octahidrat Cel puțin 85 % carbonat de lantan octahidrat ca substanță activă. Caracterizarea substanței active Carbonat de lantan octahidrat La2(CO3)3*8H2O Numărul CAS 6487-39-4 Metoda analitică (1) Pentru cuantificarea carbonatului în aditivul destinat hranei animale: Metoda Uniunii, introdusă prin Regulamentul (CE) nr. 152/2009 al Comisiei(2). Pentru cuantificarea lantjanului în aditivul destinat hranei animale și în hrana combinată pentru animale: Spectrometrie cu emisie atomică cu plasmă cuplată inductiv (ICP-AES). | Pisici | - | 1 500 | 7 500 | 1. A se menționa condițiile de depozitare și stabilitatea la tratament termic la temperaturi mari în instrucțiunile de utilizare a aditivului și a preamestecurilor. 2. Aditivul se administrează numai pisicilor adulte. 3. În instrucțiunile de utilizare a aditivului se indică următoarele: „Pentru pisici adulte. A se evita utilizarea simultană a hranei animale care are un nivel mare de fosfor.” 4. Pentru utilizatorii aditivului și ai preamestecurilor, operatorii din sectorul hranei pentru animale trebuie să stabilească proceduri operaționale și măsuri organizatorice pentru a contracara riscurile potențiale care rezultă din utilizarea lor. În cazul în care riscurile respective nu pot fi eliminate prin astfel de proceduri și de măsuri, aditivul și preamestecurile se utilizează cu echipament personal de protecție respiratorie. | 25 iunie 2029
+(1) Detaliile metodelor analitice sunt disponibile la următoarea adresă a laboratorului de referință: https://joint-research-centre.ec.europa.eu/eurl-fa-eurl-feed-additives/eurl-fa-authorisation/eurl-fa-evaluation-reports_ro.
+(2) Regulamentul (CE) nr. 152/2009 al Comisiei din 27 ianuarie 2009 de stabilire a metodelor de eșantionare și analiză pentru controlul oficial al furajelor (JO L 54, 26.2.2009, p. 1, ELI: http://data.europa.eu/eli/reg/2009/152/oj).
+ANEXA II
+Numărul de identificare al aditivului destinat hranei animale | Numele titularului autorizației | Aditivul | Compoziția, formula chimică, descrierea, metoda analitică | Specia sau categoria de animale | Vârsta maximă | Conținutul minim | Conținutul maxim | Alte dispoziții | Sfârșitul perioadei de autorizare
+mg de aditiv/kg de hrană completă pentru animale cu un conținut de umiditate de 12 %
+Categoria: aditivi zootehnici. Grupa funcțională: alți aditivi zootehnici (diminuarea excreției de fosfor prin urină)
+4d23 | Porus GmbH | Carbonat de lantan octahidrat | Compoziția aditivului Carbonat de lantan octahidrat care conține cel puțin 85 % carbonat de lantan octahidrat ca substanță activă. Formă solidă. Caracterizarea substanței active Carbonat de lantan octahidrat La2(CO3)3*8H2O Numărul CAS 6487-39-4 Metoda analitică (1) Pentru cuantificarea carbonatului în aditivul destinat hranei animale: Metoda Uniunii, introdusă prin Regulamentul (CE) nr. 152/2009 al Comisiei(2). Pentru cuantificarea lantanului în aditivul destinat hranei animale și în hrana combinată pentru animale: Spectrometrie cu emisie atomică cu plasmă cuplată inductiv (ICP-AES). | Pisici | - | 1 500 | 7 500 | 1. A se menționa condițiile de depozitare și stabilitatea la tratament termic la temperaturi mari în instrucțiunile de utilizare a aditivului și a preamestecurilor. 2. Aditivul se administrează numai pisicilor adulte. 3. În instrucțiunile de utilizare a aditivului se indică următoarele: „Pentru pisici adulte. A se evita utilizarea simultană a hranei animale care are un nivel mare de fosfor.” 4. Pentru utilizatorii aditivului și ai preamestecurilor, operatorii din sectorul hranei pentru animale trebuie să stabilească proceduri operaționale și măsuri organizatorice pentru a contracara riscurile potențiale care rezultă din utilizarea lor. În cazul în care riscurile respective nu pot fi eliminate prin astfel de proceduri și de măsuri, aditivul și preamestecurile se utilizează cu echipament personal de protecție respiratorie. | 26 septembrie 2032
+(1) Detaliile metodelor analitice sunt disponibile la următoarea adresă a laboratorului de referință: https://joint-research-centre.ec.europa.eu/eurl-fa-eurl-feed-additives/eurl-fa-authorisation/eurl-fa-evaluation-reports_ro.
+(2) Regulamentul (CE) nr. 152/2009 al Comisiei din 27 ianuarie 2009 de stabilire a metodelor de eșantionare și analiză pentru controlul oficial al furajelor (JO L 54, 26.2.2009, p. 1, ELI: http://data.europa.eu/eli/reg/2009/152/oj).
+ELI: http://data.europa.eu/eli/reg_impl/2025/647/oj
