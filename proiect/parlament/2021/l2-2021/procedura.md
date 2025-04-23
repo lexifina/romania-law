@@ -20,6 +20,7 @@ Initiator: Guvernul României.
 - 2021-04-21: sent for promulgation
 - 2021-05-06: promulgated, becomes Legea nr. 124/2021; published in the Monitorul Oficial; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 - 2022-02-21: registered at the Chamber of Deputies
+- 2025-04-23: adopted by the Senate
 
 ## Documents
 
