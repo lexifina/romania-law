@@ -11,7 +11,8 @@ Initiator: Guvernul României.
 ## Stages published so far
 
 - 2025-03-31: registered at the Chamber of Deputies
+- 2025-04-23: documents published: Raport comisie sesizată pe fond
 
 ## Documents
 
-- none held as text
+- 2025-04-23: Raport comisie sesizată pe fond (CR): [cr-06c5ac00.md](cr-06c5ac00.md); official file https://www.senat.ro/legis/PDF/2025/25L160CR.PDF
