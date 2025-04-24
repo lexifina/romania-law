@@ -1,0 +1,20 @@
+# Proiect de lege L109/2025
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Proiect de lege pentru aprobarea Ordonanţei de urgenţã a Guvernului nr.29/2025 privind suspendarea aplicării unor dispoziții din Ordonanţa de urgenţă a Guvernului nr.41/2022 pentru instituirea Sistemului naţional privind monitorizarea transporturilor rutiere de bunuri RO e-Transport şi de abrogare a art.XXVIII din Ordonanţa de urgenţă a Guvernului nr.130/2021 privind unele măsuri fiscal-bugetare, prorogarea unor termene, precum şi pentru modificarea şi completarea unor acte normative
+
+Initiator: Guvernul României.
+
+## Stages published so far
+
+- 2025-04-24: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+
+## Documents
+
+- 2025-04-24: Adresă de înaintare a inițiativei (AD): [ad-0e2ccd0f.md](ad-0e2ccd0f.md); official file https://www.senat.ro/legis/PDF/2025/25L109AD.PDF
+- 2025-04-24: Forma inițiatorului (FG): [fg-e5a190cd.md](fg-e5a190cd.md); official file https://www.senat.ro/legis/PDF/2025/25L109FG.PDF
+- 2025-04-24: Expunere de motive (EM): [em-f1e9b2de.md](em-f1e9b2de.md); official file https://www.senat.ro/legis/PDF/2025/25L109EM.PDF
+- 2025-04-24: Aviz Consiliul Legislativ (LG): [lg-99964ffb.md](lg-99964ffb.md); official file https://www.senat.ro/legis/PDF/2025/25L109LG.PDF
+- 2025-04-24: Document (OG): [og-05e8bfe6.md](og-05e8bfe6.md); official file https://www.senat.ro/legis/PDF/2025/25L109OG.PDF
+- 2025-04-24: Document (HG): [hg-d3bc89aa.md](hg-d3bc89aa.md); official file https://www.senat.ro/legis/PDF/2025/25L109HG.PDF
