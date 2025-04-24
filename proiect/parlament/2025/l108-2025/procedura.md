@@ -1,0 +1,22 @@
+# Proiect de lege L108/2025
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 195/2025 (`legea-195-2025`).
+
+Proiect de lege privind aprobarea Ordonanţei de urgenţã a Guvernului nr.28/2025 pentru modificarea și completarea Ordonanţei de urgenţă a Guvernului nr.34/2024 privind unele măsuri pentru sprijinirea categoriilor de cupluri mamă-nou-născut defavorizate cu tichete sociale pe suport electronic acordate din fonduri externe nerambursabile pentru nou-născuţi, pentru modificarea Legii nr.227/2015 privind Codul fiscal, precum şi prorogarea unui termen
+
+Initiator: Guvernul României.
+
+## Stages published so far
+
+- 2025-04-24: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+
+## Documents
+
+- 2025-04-24: Adresă de înaintare a inițiativei (AD): [ad-fe6e37cf.md](ad-fe6e37cf.md); official file https://www.senat.ro/legis/PDF/2025/25L108AD.PDF
+- 2025-04-24: Forma inițiatorului (FG): [fg-30fbfb3e.md](fg-30fbfb3e.md); official file https://www.senat.ro/legis/PDF/2025/25L108FG.PDF
+- 2025-04-24: Expunere de motive (EM): [em-cc7fc44b.md](em-cc7fc44b.md); official file https://www.senat.ro/legis/PDF/2025/25L108EM.PDF
+- 2025-04-24: Aviz Consiliul Legislativ (LG): [lg-38dee7da.md](lg-38dee7da.md); official file https://www.senat.ro/legis/PDF/2025/25L108LG.PDF
+- 2025-04-24: Document (OG): [og-b222f15b.md](og-b222f15b.md); official file https://www.senat.ro/legis/PDF/2025/25L108OG.PDF
+- 2025-04-24: Document (HG): [hg-cd720cc2.md](hg-cd720cc2.md); official file https://www.senat.ro/legis/PDF/2025/25L108HG.PDF
