@@ -1,0 +1,195 @@
+{
+ "key": "iccj-hp-76-2025",
+ "label": "Decizia ÎCCJ nr. 76/2025 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "76",
+ "date": "2025-03-03",
+ "year": "2025",
+ "heading": "DECIZIA nr. 76 din 3 martie 2025",
+ "subtitle": "referitoare la interpretarea dispozițiilor art. 85 alin. (2) din Legea nr. 303/2004, cu referire la art. 14 alin. (1) din Legea-cadru nr. 153/2017",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "370",
+  "bis": false,
+  "date": "2025-04-25",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.338/1/2024",
+  "3.121/30/2022",
+  "2.624/90/2022",
+  "3.037/1/2024"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 303/2004",
+    "number": "303",
+    "year": "2004",
+    "path": "lege/2004/303"
+   },
+   "articles": [
+    {
+     "art": "85",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibile, sesizările conexate formulate de Curtea de Apel Timișoara - Secția litigii de muncă și asigurări sociale în Dosarul nr. 3.121/30/2022 și de Curtea de Apel Pitești - Secția I civilă în Dosarul nr. 2.624/90/2022, în vederea pronunțării unei hotărâri prealabile cu privire la următoarele chestiuni de drept: – interpretarea sintagmei „indemnizația brută lunară a unui judecător și procuror în activitate, în condiții identice de funcție, vechime și grad al instanței sau parchetului, cu luarea în considerare, în procent, a sporurilor intrate în baza de calcul la acordarea pensiei de serviciu, precum și a sporului de vechime“ din art. 85 alin. (2) din Legea nr. 303/2004 privind statutul judecătorilor și procurorilor, republicată, cu modificările și completările ulterioare, odată cu intrarea în vigoare a Legii-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, cu modificările și completările ulterioare, și anume dacă luarea în considerare, în procent, a sporurilor intrate în baza de calcul la acordarea pensiei de serviciu, precum și a sporului de vechime presupune adăugarea acestora la indemnizația brută lunară a unui judecător și procuror în activitate, în condiții identice de funcție, vechime și grad al instanței sau parchetului, indiferent dacă respectivele sporuri au fost sau nu introduse, prin modificări legislative ulterioare, în indemnizația brută, și, respectiv,",
+  "– interpretarea dispozițiilor art. 85 alin. (2) din Legea nr. 303/2004, cu referire la art. 14 alin. (1) din Legea-cadru nr. 153/2017, referitor la modalitatea de actualizare a pensiei de serviciu a unui procuror pensionar ce deține titlul de doctor în drept, respectiv dacă se are în vedere procentul de 15% de la momentul ieșirii la pensie sau cuantumul fix stabilit prin Legea-cadru nr. 153/2017.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 62/2024",
+    "number": "62",
+    "year": "2024",
+    "path": "oug/2024/62"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 303/2004",
+    "number": "303",
+    "year": "2004",
+    "path": "lege/2004/303"
+   },
+   "articles": [
+    {
+     "art": "85",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 28
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "85",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 28
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 330/2009",
+    "number": "330",
+    "year": "2009",
+    "path": "lege/2009/330"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-04-25",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/296915",
+  "text_sha256": "6c5eb563bf73033168de5872231b64000661c02870ad356d3fa512e630cc18aa",
+  "catalogue_sha256": "6c5eb563bf73033168de5872231b64000661c02870ad356d3fa512e630cc18aa",
+  "fetched": "2026-11-03T00:58:42Z",
+  "chars": 61103,
+  "portal_id": "296915",
+  "tip": "DECIZIE"
+ }
+}
