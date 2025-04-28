@@ -1,0 +1,290 @@
+{
+ "key": "iccj-hp-penal-78-2025",
+ "label": "Decizia ÎCCJ nr. 78/2025 (HP penal)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp-penal",
+ "number": "78",
+ "date": "2025-03-03",
+ "year": "2025",
+ "heading": "DECIZIA nr. 78 din 3 martie 2025",
+ "subtitle": "referitoare la încadrarea juridică pentru infracțiunea de viol comisă de către un membru de familie asupra minorei (tatăl asupra fiicei), prin acte cu caracter continuat de natură sexuală prin constrângere sau profitând de vulnerabilitatea ori dependența acesteia care, înainte cu cca 6 luni de intrarea în vigoare a Legii nr. 217/2023",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT ÎN MATERIE PENALĂ",
+ "mo": {
+  "number": "377",
+  "bis": false,
+  "date": "2025-04-28",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "60/1/2025",
+  "753/218/2024"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 217/2023",
+    "number": "217",
+    "year": "2023",
+    "path": "lege/2023/217"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "218",
+     "alin": [
+      "1",
+      "3",
+      "3-2"
+     ],
+     "lit": [
+      "a",
+      "d"
+     ]
+    },
+    {
+     "art": "35",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "218-1",
+     "alin": [
+      "2",
+      "4"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Curtea de Apel Oradea - Secția penală și pentru cauze cu minori, prin Încheierea de ședință din data de 16 decembrie 2024, pronunțată în Dosarul nr. 753/218/2024, prin care solicită pronunțarea unei hotărâri prealabile cu privire la următoarea chestiune de drept:",
+  "Care este încadrarea juridică pentru infracțiunea de viol comisă de către un membru de familie asupra minorei (tatăl asupra fiicei), prin acte cu caracter continuat de natură sexuală prin constrângere sau profitând de vulnerabilitatea ori dependența acesteia care, înainte cu cca 6 luni de intrarea în vigoare a Legii nr. 217/2023, a devenit majoră, iar infracțiunea s-a epuizat imediat după intrarea în vigoare a Legii nr. 217/2023, și anume la data de 9 ianuarie 2024, respectiv sunt aplicabile fie dispozițiile prevăzute de art. 218 alin. (1), alin. (3) lit. a) și b) și alin. (3^2) lit. d) din Codul penal privind infracțiunea de viol, cu aplicarea art. 35 alin. (1) din Codul penal, fie dispozițiile prevăzute de art. 218^1 alin. (2) și alin. (4) lit. a) și b) din Codul penal privind infracțiunea de viol săvârșit asupra unui minor, cu aplicarea art. 35 alin. (1) din Codul penal ?",
+  "Obligatorie de la data publicării în Monitorul Oficial al României, Partea I, potrivit art. 477 alin. (3) din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 217/2023",
+    "number": "217",
+    "year": "2023",
+    "path": "lege/2023/217"
+   },
+   "articles": [],
+   "mentions": 21
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "218",
+     "alin": [
+      "1",
+      "3",
+      "3-2",
+      "3-1"
+     ],
+     "lit": [
+      "a",
+      "d",
+      "c"
+     ]
+    },
+    {
+     "art": "35",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "218-1",
+     "alin": [
+      "2",
+      "4"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "199",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "193",
+     "alin": [
+      "2",
+      "2-1",
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "66",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "45",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "38",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "197",
+     "alin": [
+      "1",
+      "2",
+      "3"
+     ],
+     "lit": [
+      "b-1"
+     ]
+    },
+    {
+     "art": "41",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 87
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "475",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "408",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "476",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "473",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "471",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 16
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii audiovizualului nr. 504/2002",
+    "number": "504",
+    "year": "2002",
+    "path": "lege/2002/504"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția europeană a drepturilor omului",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-04-28",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/296979",
+  "text_sha256": "596cac5c4f443a0abc418e1ae30daac201410743eef069c134fb03598f37cb7c",
+  "catalogue_sha256": "596cac5c4f443a0abc418e1ae30daac201410743eef069c134fb03598f37cb7c",
+  "fetched": "2026-11-03T00:58:47Z",
+  "chars": 77259,
+  "portal_id": "296979",
+  "tip": "DECIZIE"
+ }
+}
