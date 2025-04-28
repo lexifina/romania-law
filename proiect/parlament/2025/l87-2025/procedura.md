@@ -14,6 +14,7 @@ Initiator: Membri ai Parlamentului.
 - 2025-03-25: documents published: Aviz Consiliul Legislativ, Aviz Consiliul Economic și Social
 - 2025-04-15: documents published: Aviz comisie, Raport comisie sesizată pe fond
 - 2025-04-16: documents published: Aviz comisie
+- 2025-04-28: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților
 
 ## Documents
 
@@ -25,3 +26,5 @@ Initiator: Membri ai Parlamentului.
 - 2025-04-15: Aviz comisie (CA3): [ca3-a5de51cc.md](ca3-a5de51cc.md); official file https://www.senat.ro/legis/PDF/2025/25L087CA3.PDF
 - 2025-04-15: Raport comisie sesizată pe fond (CR): [cr-ca7b88b1.md](cr-ca7b88b1.md); official file https://www.senat.ro/legis/PDF/2025/25L087CR.PDF
 - 2025-04-16: Aviz comisie (CA49): [ca49-10b1ed19.md](ca49-10b1ed19.md); official file https://www.senat.ro/legis/PDF/2025/25L087CA49.PDF
+- 2025-04-28: Forma adoptată de Senat (FS): [fs-0410408a.md](fs-0410408a.md); official file https://www.senat.ro/legis/PDF/2025/25L087FS.PDF
+- 2025-04-28: Adresă către Camera Deputaților (AM): [am-c58d6f16.md](am-c58d6f16.md); official file https://www.senat.ro/legis/PDF/2025/25L087AM.PDF
