@@ -1,0 +1,203 @@
+{
+ "key": "iccj-hp-88-2025",
+ "label": "Decizia ÎCCJ nr. 88/2025 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "88",
+ "date": "2025-03-17",
+ "year": "2025",
+ "heading": "DECIZIA nr. 88 din 17 martie 2025",
+ "subtitle": "referitoare la interpretarea dispozițiilor art. 21 alin. (1) din Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, cu modificările și completările ulterioare",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "374",
+  "bis": false,
+  "date": "2025-04-28",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.374/1/2024",
+  "1.031/96/2023"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Curtea de Apel Târgu Mureș - Secția a II-a civilă, de contencios administrativ și fiscal în Dosarul nr. 1.031/96/2023, în vederea pronunțării unei hotărâri prealabile cu privire la următoarele probleme de drept:",
+  "Dacă, în interpretarea dispozițiilor art. 21 alin. (1) din Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, cu modificările și completările ulterioare, în munca suplimentară prestată peste programul normal de lucru, precum și în munca prestată în zilele de sărbători legale, repaus săptămânal și în alte zile în care, în conformitate cu legea, nu se lucrează, se poate include și perioada în care un funcționar public cu statut special - polițist, în temeiul normelor juridice care îi reglementează statutul și activitatea, este inclus pe o planificare de permanență la domiciliu, indiferent de îndeplinirea în concret a atribuțiilor specifice care au determinat întocmirea planificării sau este necesar ca acesta să îndeplinească în mod efectiv sarcinile și atribuțiile de serviciu",
+  "Dacă interpretarea dispozițiilor art. 21 alin. (1) din Legea-cadru nr. 153/2017 este în sensul că munca suplimentară nu presupune ca funcționarul public să îndeplinească în mod efectiv sarcinile și atribuțiile de serviciu, acesta are dreptul la plata sporurilor salariale prevăzute de alineatele (2) și (3) ale aceluiași articol pentru toată perioada în care a figurat pe planificarea de permanență sau cuantumul orelor ce se vor plăti suplimentar nu poate depăși 360 de ore anual, în sensul art. 21 alin. (4) din aceeași lege?",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 62/2024",
+    "number": "62",
+    "year": "2024",
+    "path": "oug/2024/62"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": [
+      "1",
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul nr. 577/2008",
+    "number": "577",
+    "year": "2008"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 360/2002",
+    "number": "360",
+    "year": "2002",
+    "path": "lege/2002/360"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-04-28",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/296961",
+  "text_sha256": "90b31f7dccf80ade837738be8ede731f495ba68fdee972d12a5fd3dcadad41f6",
+  "catalogue_sha256": "90b31f7dccf80ade837738be8ede731f495ba68fdee972d12a5fd3dcadad41f6",
+  "fetched": "2026-11-03T00:58:46Z",
+  "chars": 40602,
+  "portal_id": "296961",
+  "tip": "DECIZIE"
+ }
+}
