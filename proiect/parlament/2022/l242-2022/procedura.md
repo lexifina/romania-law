@@ -14,6 +14,7 @@ Initiator: Membri ai Parlamentului.
 - 2022-05-18: documents published: Raport comisie sesizată pe fond
 - 2022-05-30: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților
 - 2022-06-07: registered at the Chamber of Deputies
+- 2025-04-28: documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -25,3 +26,4 @@ Initiator: Membri ai Parlamentului.
 - 2022-05-18: Raport comisie sesizată pe fond (CR): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L242CR.PDF
 - 2022-05-30: Forma adoptată de Senat (FS): [fs-86f501d5.md](fs-86f501d5.md); official file https://www.senat.ro/legis/PDF/2022/22L242FS.PDF
 - 2022-05-30: Adresă către Camera Deputaților (AM): [am-d8cba1ea.md](am-d8cba1ea.md); official file https://www.senat.ro/legis/PDF/2022/22L242AM.PDF
+- 2025-04-28: Document (CC): [cc-71c2e5c2.md](cc-71c2e5c2.md); official file https://www.senat.ro/legis/PDF/2022/22L242CC.PDF (its day is not given by the bill file: shown from the last stage held)
