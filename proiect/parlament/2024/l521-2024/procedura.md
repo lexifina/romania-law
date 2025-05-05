@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2025-04-14: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-04-16: sent for promulgation
 - 2025-04-30: promulgated, becomes Legea nr. 53/2025; documents published: Decret de promulgare, Forma promulgată
+- 2025-05-05: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -37,3 +38,4 @@ Initiator: Guvernul României.
 - 2025-04-14: Forma trimisă la promulgare (LP): [lp-da2a38c2.md](lp-da2a38c2.md); official file https://www.senat.ro/legis/PDF/2024/24L521LP.PDF
 - 2025-04-30: Decret de promulgare (DP): [dp-854dbb33.md](dp-854dbb33.md); official file https://www.senat.ro/legis/PDF/2024/24L521DP.PDF
 - 2025-04-30: Forma promulgată (FP): [fp-68acf9bd.md](fp-68acf9bd.md); official file https://www.senat.ro/legis/PDF/2024/24L521FP.PDF
+- 2025-05-05: Document (TA): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L521TA.PDF (its day is not given by the bill file: shown from the last stage held)
