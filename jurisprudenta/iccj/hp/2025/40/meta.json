@@ -1,0 +1,292 @@
+{
+ "key": "iccj-hp-40-2025",
+ "label": "Decizia ÎCCJ nr. 40/2025 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "40",
+ "date": "2025-02-17",
+ "year": "2025",
+ "heading": "DECIZIA nr. 40 din 17 februarie 2025",
+ "subtitle": "referitoare la interpretarea dispozițiilor art. 20^1 alin. 2^1, alin. 2^2, alin. 2^3, alin. 2^5 și alin. 3 din Legea nr. 80/1995 privind statutul cadrelor militare",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "398",
+  "bis": false,
+  "date": "2025-05-05",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": true,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.100/1/2024",
+  "1.747/108/2024",
+  "349/114/2023",
+  "2.205/1/2024"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 80/1995",
+    "number": "80",
+    "year": "1995",
+    "path": "lege/1995/80"
+   },
+   "articles": [
+    {
+     "art": "20-1",
+     "alin": [
+      "2-1",
+      "2-2",
+      "2-3",
+      "2-5",
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 145/2019",
+    "number": "145",
+    "year": "2019",
+    "path": "lege/2019/145"
+   },
+   "articles": [
+    {
+     "art": "111",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite sesizarea formulată de Tribunalul Arad - Secția a III-a de contencios administrativ și fiscal, litigii de muncă și asigurări sociale, în Dosarul nr. 1.747/108/2024.",
+  "În interpretarea și aplicarea dispozițiilor art. 20^1 alin. 2^1, alin. 2^2, alin. 2^3, alin. 2^5 și alin. 3 din Legea nr. 80/1995 privind statutul cadrelor militare, cu modificările și completările ulterioare, stabilește că:",
+  "Dreptul la compensația lunară pentru chirie nu poate fi recunoscut și cadrelor militare care au încheiat contracte de credit ipotecar în vederea construirii unei locuințe.",
+  "Respinge, ca inadmisibilă, sesizarea formulată de Curtea de Apel Ploiești - Secția de contencios administrativ și fiscal, în Dosarul nr. 349/114/2023, în vederea pronunțării unei hotărâri prealabile cu privire la următoarea chestiune de drept:",
+  "Dacă dispozițiile art. 111 din Legea nr. 145/2019 privind statutul polițiștilor de penitenciare, cu modificările și completările ulterioare, și ale art. 25 din Ordinul ministrului justiției nr. 482/C/2020 privind stabilirea condițiilor de acordare în beneficiul polițiștilor de penitenciare a compensației lunare a chiriei, precum și a compensației lunare a chiriei pentru plata ratei sau a unei fracțiuni din rata aferentă unui credit ipotecar/imobiliar destinat achiziționării unei locuințe sau unui contract de vânzare-cumpărare cu plata în rate a locuinței, cu modificările și completările ulterioare, se aplică exclusiv polițiștilor de penitenciare care obțin contractarea unui credit ipotecar/imobiliar după intrarea în vigoare a Legii nr. 145/2019, adică după data de 1 august 2019.",
+  "Obligatorie, potrivit art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 62/2024",
+    "number": "62",
+    "year": "2024",
+    "path": "oug/2024/62"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 80/1995",
+    "number": "80",
+    "year": "1995",
+    "path": "lege/1995/80"
+   },
+   "articles": [
+    {
+     "art": "20-1",
+     "alin": [
+      "2-1",
+      "2-2",
+      "2-3",
+      "2-5",
+      "3",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "9",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 145/2019",
+    "number": "145",
+    "year": "2019",
+    "path": "lege/2019/145"
+   },
+   "articles": [
+    {
+     "art": "111",
+     "alin": [
+      "9"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 23
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 1.867/2005",
+    "number": "1867",
+    "year": "2005",
+    "path": "hg/2005/1867"
+   },
+   "articles": [
+    {
+     "art": "4-1",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "6",
+     "alin": [
+      "6"
+     ],
+     "lit": [
+      "d"
+     ]
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "488",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 288/2018",
+    "number": "288",
+    "year": "2018",
+    "path": "lege/2018/288"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 360/2002",
+    "number": "360",
+    "year": "2002",
+    "path": "lege/2002/360"
+   },
+   "articles": [
+    {
+     "art": "31",
+     "alin": [
+      "1-2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 227/2015",
+    "number": "227",
+    "year": "2015",
+    "path": "lege/2015/227"
+   },
+   "articles": [
+    {
+     "art": "76",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-05-05",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/297095",
+  "text_sha256": "793af8682a801e6d5690000dff188fabfac0853080da8861f2edeb5cb274e571",
+  "catalogue_sha256": "793af8682a801e6d5690000dff188fabfac0853080da8861f2edeb5cb274e571",
+  "fetched": "2026-11-03T00:58:27Z",
+  "chars": 62781,
+  "portal_id": "297095",
+  "tip": "DECIZIE"
+ }
+}
