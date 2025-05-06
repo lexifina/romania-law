@@ -1,0 +1,281 @@
+{
+ "key": "iccj-hp-73-2025",
+ "label": "Decizia ÎCCJ nr. 73/2025 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "73",
+ "date": "2025-03-03",
+ "year": "2025",
+ "heading": "DECIZIA nr. 73 din 3 martie 2025",
+ "subtitle": "referitoare la art. 28 alin. (1) lit. e) din Legea nr. 360/2002, a art. 4 și 13 din anexa VI la Legea-cadru nr. 153/2017, a art. 37 alin. (1) din Ordonanța Guvernului nr. 38/2003, a art. 150 din Legea nr. 53/2003",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "402",
+  "bis": false,
+  "date": "2025-05-06",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.313/1/2024",
+  "94/1/2025"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 360/2002",
+    "number": "360",
+    "year": "2002",
+    "path": "lege/2002/360"
+   },
+   "articles": [
+    {
+     "art": "28",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "e"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 38/2003",
+    "number": "38",
+    "year": "2003",
+    "path": "og/2003/38"
+   },
+   "articles": [
+    {
+     "art": "37",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 53/2003",
+    "number": "53",
+    "year": "2003",
+    "path": "lege/2003/53"
+   },
+   "articles": [
+    {
+     "art": "150",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Tribunalul Suceava - Secția de contencios administrativ și fiscal în Dosarul nr. 454/103/2024, privind dezlegarea următoarei chestiuni de drept:",
+  "Dacă, în interpretarea art. 28 alin. (1) lit. e) din Legea nr. 360/2002, a art. 4 și 13 din anexa VI la Legea-cadru nr. 153/2017, a art. 37 alin. (1) din Ordonanța Guvernului nr. 38/2003, a art. 150 din Legea nr. 53/2003, indemnizația de concediu aferentă concediului de odihnă trebuie să cuprindă sporul pentru condiții periculoase sau vătămătoare, sporul pentru condiții grele de muncă, sporuri de care personalul beneficiază în perioada de activitate?",
+  "Respinge, ca inadmisibilă, sesizarea formulată de Tribunalul Neamț - Secția a II-a civilă, de contencios administrativ și fiscal în Dosarul nr. 2.161/103/2023, privind dezlegarea următoarei chestiuni de drept:",
+  "1. Dacă, în interpretarea art. 28 alin. (1) lit. e) din Legea nr. 360/2002, a art. 4 din anexa nr. VI «Familia ocupațională de funcții bugetare „Apărare, ordine publică și securitate națională“» la Legea-cadru nr. 153/2017 și a art. 37 alin. (1) din Ordonanța Guvernului nr. 38/2003, indemnizația de concediu aferentă concediului de odihnă cuvenită polițiștilor din cadrul inspectoratelor județene de poliție/Inspectoratului General al Poliției Române trebuie să cuprindă sporurile prevăzute de art. 12 alin. (2) lit. a)-c) din anexa nr. VI la Legea-cadru nr. 153/2017, respectiv sporul pentru condiții periculoase sau vătămătoare, sporul pentru condiții grele de muncă și sporul pentru activitățile care solicită o încordare psihică foarte ridicată - de care personalul beneficiază în perioada de activitate (acordate în mod concomitent)?",
+  "2. Prevederile art. 150 din Codul muncii se aplică la calcularea și scadența drepturilor prevăzute de art. 37 din Ordonanța Guvernului nr. 38/2003, având în vedere că, în temeiul art. 1 alin. (2) și art. 278 din Codul muncii, normele din Codul muncii completează legislația funcției de poliție, în măsura în care reglementările speciale nu sunt complete și aplicarea lor nu este incompatibilă cu specificul raporturilor de muncă respective?",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 360/2002",
+    "number": "360",
+    "year": "2002",
+    "path": "lege/2002/360"
+   },
+   "articles": [
+    {
+     "art": "28",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "e"
+     ]
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [],
+   "mentions": 18
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 38/2003",
+    "number": "38",
+    "year": "2003",
+    "path": "og/2003/38"
+   },
+   "articles": [
+    {
+     "art": "37",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul muncii",
+    "path": "lege/2003/53",
+    "slug": "codul-muncii"
+   },
+   "articles": [
+    {
+     "art": "150",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 16
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 62/2024",
+    "number": "62",
+    "year": "2024",
+    "path": "oug/2024/62"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 1.578/2002",
+    "number": "1578",
+    "year": "2002",
+    "path": "hg/2002/1578"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 64/2006",
+    "number": "64",
+    "year": "2006",
+    "path": "og/2006/64"
+   },
+   "articles": [
+    {
+     "art": "38",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 38/2023",
+    "number": "38",
+    "year": "2023",
+    "path": "og/2023/38"
+   },
+   "articles": [
+    {
+     "art": "37",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-05-06",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/297130",
+  "text_sha256": "1f381a05d417b5923486ce1184dd7264d30b846ad4f2577f52d85451bd279ab4",
+  "catalogue_sha256": "1f381a05d417b5923486ce1184dd7264d30b846ad4f2577f52d85451bd279ab4",
+  "fetched": "2026-11-03T00:58:24Z",
+  "chars": 38439,
+  "portal_id": "297130",
+  "tip": "DECIZIE"
+ }
+}
