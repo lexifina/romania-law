@@ -25,6 +25,7 @@ Initiator: Guvernul României.
 - 2024-10-14: adopted by the Senate
 - 2025-04-02: sent for promulgation
 - 2025-04-09: published in the Monitorul Oficial
+- 2025-05-08: promulgated, becomes Legea nr. 54/2025; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -41,3 +42,5 @@ Initiator: Guvernul României.
 - 2020-10-07: Adresă către Camera Deputaților (AM): [am-29708d3a.md](am-29708d3a.md); official file https://www.senat.ro/legis/PDF/2020/20L591AM.PDF
 - 2022-11-07: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L591AXS.PDF
 - 2022-11-07: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L591LP.PDF
+- 2025-05-08: Decret de promulgare (DP): [dp-825346d8.md](dp-825346d8.md); official file https://www.senat.ro/legis/PDF/2020/20L591DP.PDF
+- 2025-05-08: Forma promulgată (FP): [fp-e30695e1.md](fp-e30695e1.md); official file https://www.senat.ro/legis/PDF/2020/20L591FP.PDF
