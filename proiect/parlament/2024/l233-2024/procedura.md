@@ -18,6 +18,7 @@ Initiator: Membri ai Parlamentului.
 - 2025-04-08: adopted by the Chamber of Deputies
 - 2025-04-14: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-04-22: sent for promulgation
+- 2025-05-08: promulgated, becomes Legea nr. 56/2025; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -31,3 +32,5 @@ Initiator: Membri ai Parlamentului.
 - 2024-05-21: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L233AM.PDF
 - 2025-04-14: Adresă privind sesizarea CCR (AXS): [axs-1fcc7604.md](axs-1fcc7604.md); official file https://www.senat.ro/legis/PDF/2024/24L233AXS.PDF
 - 2025-04-14: Forma trimisă la promulgare (LP): [lp-0adf24f3.md](lp-0adf24f3.md); official file https://www.senat.ro/legis/PDF/2024/24L233LP.PDF
+- 2025-05-08: Decret de promulgare (DP): [dp-67b36c87.md](dp-67b36c87.md); official file https://www.senat.ro/legis/PDF/2024/24L233DP.PDF
+- 2025-05-08: Forma promulgată (FP): [fp-216552ab.md](fp-216552ab.md); official file https://www.senat.ro/legis/PDF/2024/24L233FP.PDF
