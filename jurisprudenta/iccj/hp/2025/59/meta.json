@@ -1,0 +1,390 @@
+{
+ "key": "iccj-hp-59-2025",
+ "label": "Decizia ÎCCJ nr. 59/2025 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "59",
+ "date": "2025-02-24",
+ "year": "2025",
+ "heading": "DECIZIA nr. 59 din 24 februarie 2025",
+ "subtitle": "referitoare la modalitatea de aplicare a majorării salariale de 5% prevăzute de art. I alin. (1) din Ordonanța de urgență a Guvernului nr. 115/2023 privind unele măsuri fiscal-bugetare în domeniul cheltuielilor publice, pentru consolidare fiscală, combaterea evaziunii fiscale, pentru modificarea și completarea unor acte normative, precum și pentru prorogarea unor termene, cu modificările și completările ulterioare, în situația funcționarilor publici din cadrul Agenției Naționale de Administrare Fiscală",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "421",
+  "bis": false,
+  "date": "2025-05-08",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.428/1/2024",
+  "810/119/2024"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 115/2023",
+    "number": "115",
+    "year": "2023",
+    "path": "oug/2023/115"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 81/2023",
+    "number": "81",
+    "year": "2023",
+    "path": "oug/2023/81"
+   },
+   "articles": [
+    {
+     "art": "XI",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 127/2023",
+    "number": "127",
+    "year": "2023",
+    "path": "oug/2023/127"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": [
+      "7"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Tribunalul Covasna - Secția civilă în Dosarul nr. 810/119/2024, în vederea pronunțării unei hotărâri prealabile pentru dezlegarea următoarelor chestiuni de drept: Modalitatea de aplicare a majorării salariale de 5% prevăzute de art. I alin. (1) din Ordonanța de urgență a Guvernului nr. 115/2023 privind unele măsuri fiscal-bugetare în domeniul cheltuielilor publice, pentru consolidare fiscală, combaterea evaziunii fiscale, pentru modificarea și completarea unor acte normative, precum și pentru prorogarea unor termene, cu modificările și completările ulterioare, în situația funcționarilor publici din cadrul Agenției Naționale de Administrare Fiscală care având drepturile salariale la nivel maxim pentru funcția, gradul, treapta și gradația pe care le ocupau înainte de intrarea în vigoare a dispozițiilor art. XI din Ordonanța de urgență a Guvernului nr. 81/2023 privind consolidarea capacității instituționale a Ministerului Finanțelor, exercitarea controlului financiar de specialitate al statului, pentru unele reglementări specifice, precum și pentru modificarea și completarea unor acte normative, cu completările ulterioare (act normativ care nu prevede o majorare, ci o procedură de egalizare a drepturilor salariale), și care nu au beneficiat de nicio egalizare/majorare, respectiv dacă aceștia mai sunt beneficiari ai acestui drept?",
+  "Modalitatea de aplicare a majorării salariale de 5% prevăzute de art. I alin. (1) din Ordonanța de urgență a Guvernului nr. 115/2023 privind unele măsuri fiscal-bugetare în domeniul cheltuielilor publice, pentru consolidare fiscală, combaterea evaziunii fiscale, pentru modificarea și completarea unor acte normative, precum și pentru prorogarea unor termene, cu modificările și completările ulterioare, în situația funcționarilor publici din cadrul Agenției Naționale de Administrare Fiscală care au drepturile salariale la nivel maxim pentru funcția, gradul, treapta și gradația pe care le ocupă în raport cu dispozițiile art. I pct. 1 alin. (7) din Ordonanța de urgență a Guvernului nr. 127/2023 pentru modificarea și completarea unor acte normative, prorogarea unor termene, precum și unele măsuri bugetare, cu modificările și completările ulterioare.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 62/2024",
+    "number": "62",
+    "year": "2024",
+    "path": "oug/2024/62"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 115/2023",
+    "number": "115",
+    "year": "2023",
+    "path": "oug/2023/115"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": [
+      "1",
+      "7"
+     ],
+     "lit": null
+    },
+    {
+     "art": "VI",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 30
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 81/2023",
+    "number": "81",
+    "year": "2023",
+    "path": "oug/2023/81"
+   },
+   "articles": [
+    {
+     "art": "XI",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 127/2023",
+    "number": "127",
+    "year": "2023",
+    "path": "oug/2023/127"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": [
+      "7"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "XI",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "9",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 371/2023",
+    "number": "371",
+    "year": "2023",
+    "path": "lege/2023/371"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 57/2019",
+    "number": "57",
+    "year": "2019",
+    "path": "oug/2019/57"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 53/2003",
+    "number": "53",
+    "year": "2003",
+    "path": "lege/2003/53"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituția României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "41",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii contenciosului administrativ nr. 554/2004",
+    "number": "554",
+    "year": "2004",
+    "path": "lege/2004/554"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 128/2023",
+    "number": "128",
+    "year": "2023",
+    "path": "oug/2023/128"
+   },
+   "articles": [
+    {
+     "art": "III",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "V",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "VI",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-05-08",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/297807",
+  "text_sha256": "5b6584e39a15ffdf2d3ce6a9d11727d0533f0f69915c5325bc17a5f52a9a9e1c",
+  "catalogue_sha256": "5b6584e39a15ffdf2d3ce6a9d11727d0533f0f69915c5325bc17a5f52a9a9e1c",
+  "fetched": "2026-11-03T00:58:01Z",
+  "chars": 45029,
+  "portal_id": "297807",
+  "tip": "DECIZIE"
+ }
+}
