@@ -16,6 +16,7 @@ Initiator: Guvernul României.
 - 2025-04-09: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
 - 2025-04-28: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-04-30: sent for promulgation
+- 2025-05-12: promulgated, becomes Legea nr. 61/2025; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -28,3 +29,5 @@ Initiator: Guvernul României.
 - 2025-04-28: Forma adoptată de Senat (FS): [fs-a755f2b6.md](fs-a755f2b6.md); official file https://www.senat.ro/legis/PDF/2025/25L090FS.PDF
 - 2025-04-28: Adresă privind sesizarea CCR (AXS): [axs-399a2fde.md](axs-399a2fde.md); official file https://www.senat.ro/legis/PDF/2025/25L090AXS.PDF
 - 2025-04-28: Forma trimisă la promulgare (LP): [lp-09a7b0a1.md](lp-09a7b0a1.md); official file https://www.senat.ro/legis/PDF/2025/25L090LP.PDF
+- 2025-05-12: Decret de promulgare (DP): [dp-f82f2af9.md](dp-f82f2af9.md); official file https://www.senat.ro/legis/PDF/2025/25L090DP.PDF
+- 2025-05-12: Forma promulgată (FP): [fp-389a7b0a.md](fp-389a7b0a.md); official file https://www.senat.ro/legis/PDF/2025/25L090FP.PDF
