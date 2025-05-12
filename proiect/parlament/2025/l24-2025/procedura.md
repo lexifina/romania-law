@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2025-03-12: registered at the Chamber of Deputies
 - 2025-04-23: adopted by the Chamber of Deputies
 - 2025-05-07: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
+- 2025-05-12: sent for promulgation
 
 ## Documents
 
