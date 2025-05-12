@@ -20,6 +20,7 @@ Initiator: Guvernul României.
 - 2025-04-15: adopted by the Chamber of Deputies
 - 2025-04-23: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-04-25: sent for promulgation
+- 2025-05-12: promulgated, becomes Legea nr. 64/2025; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -38,3 +39,5 @@ Initiator: Guvernul României.
 - 2025-03-10: Adresă către Camera Deputaților (AM): [am-707b9d6d.md](am-707b9d6d.md); official file https://www.senat.ro/legis/PDF/2025/25L029AM.PDF
 - 2025-04-23: Adresă privind sesizarea CCR (AXS): [axs-af99898b.md](axs-af99898b.md); official file https://www.senat.ro/legis/PDF/2025/25L029AXS.PDF
 - 2025-04-23: Forma trimisă la promulgare (LP): [lp-19323ba3.md](lp-19323ba3.md); official file https://www.senat.ro/legis/PDF/2025/25L029LP.PDF
+- 2025-05-12: Decret de promulgare (DP): [dp-8d01bd6a.md](dp-8d01bd6a.md); official file https://www.senat.ro/legis/PDF/2025/25L029DP.PDF
+- 2025-05-12: Forma promulgată (FP): [fp-cfc144b1.md](fp-cfc144b1.md); official file https://www.senat.ro/legis/PDF/2025/25L029FP.PDF
