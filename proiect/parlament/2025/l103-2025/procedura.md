@@ -15,6 +15,7 @@ Initiator: Guvernul României.
 - 2025-04-25: documents published: Aviz comisie
 - 2025-04-28: adopted by the Senate; documents published: Aviz comisie, Forma adoptată de Senat, Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-04-30: sent for promulgation
+- 2025-05-12: promulgated, becomes Legea nr. 62/2025; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -29,3 +30,5 @@ Initiator: Guvernul României.
 - 2025-04-28: Forma adoptată de Senat (FS): [fs-6ca62790.md](fs-6ca62790.md); official file https://www.senat.ro/legis/PDF/2025/25L103FS.PDF
 - 2025-04-28: Adresă privind sesizarea CCR (AXS): [axs-6eedd787.md](axs-6eedd787.md); official file https://www.senat.ro/legis/PDF/2025/25L103AXS.PDF
 - 2025-04-28: Forma trimisă la promulgare (LP): [lp-fcaafe83.md](lp-fcaafe83.md); official file https://www.senat.ro/legis/PDF/2025/25L103LP.PDF
+- 2025-05-12: Decret de promulgare (DP): [dp-a9959976.md](dp-a9959976.md); official file https://www.senat.ro/legis/PDF/2025/25L103DP.PDF
+- 2025-05-12: Forma promulgată (FP): [fp-dfc9c31e.md](fp-dfc9c31e.md); official file https://www.senat.ro/legis/PDF/2025/25L103FP.PDF
