@@ -19,6 +19,7 @@ Initiator: Membri ai Parlamentului.
 - 2025-04-14: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-04-22: sent for promulgation
 - 2025-05-08: promulgated, becomes Legea nr. 57/2025; documents published: Decret de promulgare, Forma promulgată
+- 2025-05-12: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -34,3 +35,4 @@ Initiator: Membri ai Parlamentului.
 - 2025-04-14: Forma trimisă la promulgare (LP): [lp-cca03d5e.md](lp-cca03d5e.md); official file https://www.senat.ro/legis/PDF/2023/23L517LP.PDF
 - 2025-05-08: Decret de promulgare (DP): [dp-53e93969.md](dp-53e93969.md); official file https://www.senat.ro/legis/PDF/2023/23L517DP.PDF
 - 2025-05-08: Forma promulgată (FP): [fp-91d6a13d.md](fp-91d6a13d.md); official file https://www.senat.ro/legis/PDF/2023/23L517FP.PDF
+- 2025-05-12: Document (SM): [sm-1e3551b9.md](sm-1e3551b9.md); official file https://www.senat.ro/legis/PDF/2023/23L517SM.PDF (its day is not given by the bill file: shown from the last stage held)
