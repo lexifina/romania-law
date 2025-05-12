@@ -26,6 +26,7 @@ Initiator: Guvernul României.
 - 2025-04-02: sent for promulgation
 - 2025-04-09: published in the Monitorul Oficial
 - 2025-05-08: promulgated, becomes Legea nr. 54/2025; documents published: Decret de promulgare, Forma promulgată
+- 2025-05-12: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -44,3 +45,25 @@ Initiator: Guvernul României.
 - 2022-11-07: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L591LP.PDF
 - 2025-05-08: Decret de promulgare (DP): [dp-825346d8.md](dp-825346d8.md); official file https://www.senat.ro/legis/PDF/2020/20L591DP.PDF
 - 2025-05-08: Forma promulgată (FP): [fp-e30695e1.md](fp-e30695e1.md); official file https://www.senat.ro/legis/PDF/2020/20L591FP.PDF
+- 2025-05-12: Document (RX1): [rx1-ca02b8cc.md](rx1-ca02b8cc.md); official file https://www.senat.ro/legis/PDF/2020/20L591RX1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-05-12: Document (CX1): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L591CX1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-05-12: Document (XD1): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L591XD1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-05-12: Document (SX1): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L591SX1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-05-12: Document (XXS1): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L591XXS1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-05-12: Document (PX1): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L591PX1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-05-12: Document (SC1): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L591SC1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-05-12: Document (DC1): [dc1-5a729c01.md](dc1-5a729c01.md); official file https://www.senat.ro/legis/PDF/2020/20L591DC1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-05-12: Document (RC1): [rc1-f24d625d.md](rc1-f24d625d.md); official file https://www.senat.ro/legis/PDF/2020/20L591RC1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-05-12: Document (XD2): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L591XD2.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-05-12: Document (SX2): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L591SX2.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-05-12: Document (XXS2): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L591XXS2.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-05-12: Document (PX2): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L591PX2.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-05-12: Document (SC2): [sc2-7a215ffc.md](sc2-7a215ffc.md); official file https://www.senat.ro/legis/PDF/2020/20L591SC2.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-05-12: Document (DC2): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L591DC2.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-05-12: Document (RC2): [rc2-5e64df1e.md](rc2-5e64df1e.md); official file https://www.senat.ro/legis/PDF/2020/20L591RC2.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-05-12: Document (XD3): [xd3-5776ea49.md](xd3-5776ea49.md); official file https://www.senat.ro/legis/PDF/2020/20L591XD3.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-05-12: Document (SX3): [sx3-7643df5d.md](sx3-7643df5d.md); official file https://www.senat.ro/legis/PDF/2020/20L591SX3.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-05-12: Document (XXS3): [xxs3-9d34bb59.md](xxs3-9d34bb59.md); official file https://www.senat.ro/legis/PDF/2020/20L591XXS3.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-05-12: Document (PX3): [px3-5e1dfbb2.md](px3-5e1dfbb2.md); official file https://www.senat.ro/legis/PDF/2020/20L591PX3.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-05-12: Document (SC3): [sc3-8535af33.md](sc3-8535af33.md); official file https://www.senat.ro/legis/PDF/2020/20L591SC3.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-05-12: Document (DC3): [dc3-f706a1c9.md](dc3-f706a1c9.md); official file https://www.senat.ro/legis/PDF/2020/20L591DC3.PDF (its day is not given by the bill file: shown from the last stage held)
