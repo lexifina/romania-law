@@ -19,6 +19,7 @@ Initiator: Membri ai Parlamentului.
 - 2025-04-14: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-04-22: sent for promulgation
 - 2025-05-08: promulgated, becomes Legea nr. 56/2025; documents published: Decret de promulgare, Forma promulgată
+- 2025-05-12: published in the Monitorul Oficial
 
 ## Documents
 
