@@ -20,6 +20,7 @@ Initiator: Guvernul României.
 - 2025-04-15: adopted by the Chamber of Deputies
 - 2025-04-23: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-04-25: sent for promulgation
+- 2025-05-12: promulgated, becomes Legea nr. 63/2025; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -37,3 +38,5 @@ Initiator: Guvernul României.
 - 2020-10-31: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L615AM.PDF
 - 2025-04-23: Adresă privind sesizarea CCR (AXS): [axs-f43bbc60.md](axs-f43bbc60.md); official file https://www.senat.ro/legis/PDF/2020/20L615AXS.PDF
 - 2025-04-23: Forma trimisă la promulgare (LP): [lp-77ef362d.md](lp-77ef362d.md); official file https://www.senat.ro/legis/PDF/2020/20L615LP.PDF
+- 2025-05-12: Decret de promulgare (DP): [dp-cba2465b.md](dp-cba2465b.md); official file https://www.senat.ro/legis/PDF/2020/20L615DP.PDF
+- 2025-05-12: Forma promulgată (FP): [fp-03d19dfd.md](fp-03d19dfd.md); official file https://www.senat.ro/legis/PDF/2020/20L615FP.PDF
