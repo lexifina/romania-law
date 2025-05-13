@@ -17,6 +17,7 @@ Initiator: Guvernul României.
 - 2025-04-15: adopted by the Chamber of Deputies
 - 2025-04-23: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-04-25: sent for promulgation
+- 2025-05-13: promulgated, becomes Legea nr. 66/2025; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -31,3 +32,5 @@ Initiator: Guvernul României.
 - 2024-06-03: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L287AM.PDF
 - 2025-04-23: Adresă privind sesizarea CCR (AXS): [axs-3c551462.md](axs-3c551462.md); official file https://www.senat.ro/legis/PDF/2024/24L287AXS.PDF
 - 2025-04-23: Forma trimisă la promulgare (LP): [lp-f5be0056.md](lp-f5be0056.md); official file https://www.senat.ro/legis/PDF/2024/24L287LP.PDF
+- 2025-05-13: Decret de promulgare (DP): [dp-39ae3a29.md](dp-39ae3a29.md); official file https://www.senat.ro/legis/PDF/2024/24L287DP.PDF
+- 2025-05-13: Forma promulgată (FP): [fp-b5518f07.md](fp-b5518f07.md); official file https://www.senat.ro/legis/PDF/2024/24L287FP.PDF
