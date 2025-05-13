@@ -17,6 +17,7 @@ Initiator: Guvernul României.
 - 2025-04-15: adopted by the Chamber of Deputies
 - 2025-04-23: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-04-25: sent for promulgation
+- 2025-05-13: promulgated, becomes Legea nr. 68/2025; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -32,3 +33,5 @@ Initiator: Guvernul României.
 - 2021-01-08: Adresă către Camera Deputaților (AM): [am-21a61639.md](am-21a61639.md); official file https://www.senat.ro/legis/PDF/2020/20L690AM.PDF
 - 2025-04-23: Adresă privind sesizarea CCR (AXS): [axs-eba6d032.md](axs-eba6d032.md); official file https://www.senat.ro/legis/PDF/2020/20L690AXS.PDF
 - 2025-04-23: Forma trimisă la promulgare (LP): [lp-94d002e1.md](lp-94d002e1.md); official file https://www.senat.ro/legis/PDF/2020/20L690LP.PDF
+- 2025-05-13: Decret de promulgare (DP): [dp-e5041e27.md](dp-e5041e27.md); official file https://www.senat.ro/legis/PDF/2020/20L690DP.PDF
+- 2025-05-13: Forma promulgată (FP): [fp-18c58705.md](fp-18c58705.md); official file https://www.senat.ro/legis/PDF/2020/20L690FP.PDF
