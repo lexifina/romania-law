@@ -1,0 +1,10 @@
+# HCL Bărăganu nr. 11/2025
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+- Council: Consiliul Local al Comunei Bărăganu
+- Decision: nr. 11/2025
+- Adopted: 2025-03-25
+- Published: 2025-05-13
+- Title: privind modificarea și completarea H.C.L.nr.15/16.12.2024 privind organizarea comisiilor de specialitate ale Consiliului local al comunei Bărăganu, județul Constanța
+- Record: https://emol.ro/baraganu-ct/registru-hcl/207061
