@@ -1,0 +1,19 @@
+# Propunere legislativă L177/2025
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 56/2026 (`legea-56-2026`).
+
+Propunere legislativă pentru completarea art.93 din Legea învăţământului preuniversitar nr.198/2023
+
+Initiator: Membri ai Parlamentului.
+
+## Stages published so far
+
+- 2025-05-13: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
+
+## Documents
+
+- 2025-05-13: Adresă de înaintare a inițiativei (AD): [ad-89e119e1.md](ad-89e119e1.md); official file https://www.senat.ro/legis/PDF/2025/25L177AD.PDF
+- 2025-05-13: Forma inițiatorului (FG): [fg-c10ebbac.md](fg-c10ebbac.md); official file https://www.senat.ro/legis/PDF/2025/25L177FG.PDF
+- 2025-05-13: Expunere de motive (EM): [em-8c2ae86b.md](em-8c2ae86b.md); official file https://www.senat.ro/legis/PDF/2025/25L177EM.PDF
