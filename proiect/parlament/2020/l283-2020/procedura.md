@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2025-04-15: adopted by the Chamber of Deputies
 - 2025-04-23: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-04-25: sent for promulgation
+- 2025-05-13: promulgated, becomes Legea nr. 67/2025; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -35,3 +36,5 @@ Initiator: Guvernul României.
 - 2020-05-27: Adresă către Camera Deputaților (AM): [am-71ed3b60.md](am-71ed3b60.md); official file https://www.senat.ro/legis/PDF/2020/20L283AM.PDF
 - 2025-04-23: Adresă privind sesizarea CCR (AXS): [axs-74b549ac.md](axs-74b549ac.md); official file https://www.senat.ro/legis/PDF/2020/20L283AXS.PDF
 - 2025-04-23: Forma trimisă la promulgare (LP): [lp-53f1f40a.md](lp-53f1f40a.md); official file https://www.senat.ro/legis/PDF/2020/20L283LP.PDF
+- 2025-05-13: Decret de promulgare (DP): [dp-61fbd157.md](dp-61fbd157.md); official file https://www.senat.ro/legis/PDF/2020/20L283DP.PDF
+- 2025-05-13: Forma promulgată (FP): [fp-8bb58c2f.md](fp-8bb58c2f.md); official file https://www.senat.ro/legis/PDF/2020/20L283FP.PDF
