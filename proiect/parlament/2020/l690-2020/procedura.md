@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2025-04-23: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-04-25: sent for promulgation
 - 2025-05-13: promulgated, becomes Legea nr. 68/2025; documents published: Decret de promulgare, Forma promulgată
+- 2025-05-14: published in the Monitorul Oficial
 
 ## Documents
 
