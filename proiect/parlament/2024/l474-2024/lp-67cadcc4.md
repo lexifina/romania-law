@@ -1,0 +1,29 @@
+PARLAMENTUL ROMANIEI
+CAMERA DEPUTAJILOR
+SENATUL
+LEGE
+privind aprobarea Ordonantei Guvernului nr. 39/2024
+pentru modificarea și completarea Legii nr. 263/2004 privind
+asigurarea continuității asistenței medicale primare prin centrele de
+permanență
+Parla men tul României adoptă prezenta lege.
+Articol unic. - Se aprobă Ordonanța Guvernului nr. 39 din 28
+august 2024 pentu modificarea și completarea Legii nr. 263/2004 privind
+asigurarea continuității asistenței medicale primare prin centrele de
+permanență, adoptată în temeiul art. 1 pct. V. 2 din Legea nr. 187/2024
+privind abilitarea Guvernului de a emite ordonanțe, și publicată în
+Monitorul Oficial al României, Partea I, nr. 870 din 29 august 2024.
+
+2
+Această lege a fost adoptată de Parlamentul României,
+cu respectarea prevederilor art. 75 ș'i ale art. 76 aim . (2) din Constitu(ia
+României, republicată.
+p. PREȘEDINTELE
+p. PREȘEDINTELE
+CAMEREI DEPUTAJILOR
+SENATULUI
+VASILE-DANIEL SUCIU
+MIRCE
+• B : I DEAN
+București,
+Nr.
