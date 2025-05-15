@@ -19,6 +19,7 @@ Initiator: Membri ai Parlamentului.
 - 2025-04-23: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-04-28: sent for promulgation
 - 2025-05-14: promulgated, becomes Legea nr. 70/2025; documents published: Decret de promulgare, Forma promulgată
+- 2025-05-15: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -34,3 +35,4 @@ Initiator: Membri ai Parlamentului.
 - 2025-04-23: Forma trimisă la promulgare (LP): [lp-90bc7346.md](lp-90bc7346.md); official file https://www.senat.ro/legis/PDF/2023/23L477LP.PDF
 - 2025-05-14: Decret de promulgare (DP): [dp-189e90e4.md](dp-189e90e4.md); official file https://www.senat.ro/legis/PDF/2023/23L477DP.PDF
 - 2025-05-14: Forma promulgată (FP): [fp-9db01f72.md](fp-9db01f72.md); official file https://www.senat.ro/legis/PDF/2023/23L477FP.PDF
+- 2025-05-15: Document (SM): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L477SM.PDF (its day is not given by the bill file: shown from the last stage held)
