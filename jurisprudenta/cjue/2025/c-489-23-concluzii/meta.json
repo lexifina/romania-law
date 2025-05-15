@@ -1,0 +1,42 @@
+{
+ "key": "cjue-c-489-23-concluzii-2025-05-15",
+ "label": "CJUE, Concluziile avocatului general domnul D. Spielmann prezentate la 15 mai 2025, Cauza C-489/23.",
+ "court": "cjue",
+ "court_name": "Curtea de Justiție a Uniunii Europene",
+ "kind": "concluzii",
+ "act_type": "OPIN_AG",
+ "date": "2025-05-15",
+ "year": "2025",
+ "case": "Cauza C-489/23.",
+ "celex": "62023CC0489",
+ "ecli": "ECLI:EU:C:2025:361",
+ "heading": "Concluziile avocatului general domnul D. Spielmann prezentate la 15 mai 2025",
+ "formation": null,
+ "procedure": "REFER_PREL",
+ "romania_role": [
+  "originates"
+ ],
+ "referred_by": null,
+ "referral_text": "Cererea de decizie preliminară formulată de Înalta Curte de Casaţie şi Justiţie.",
+ "national_followup": null,
+ "parties": "AF împotriva Guvernului României ș.a.",
+ "parties_withheld": false,
+ "keywords": "Trimitere preliminară – Securitate socială – Asigurare de sănătate – Articolul 56 TFUE – Libera prestare a serviciilor – Regulamentul (CE) nr. 883/2004 – Articolul 20 alineatele (1) și (2) – Asistență medicală acordată în alt stat membru decât cel de reședință al persoanei asigurate – Directiva 2011/24/UE – Articolul 7 alineatul (7) – Acoperirea costurilor asistenței medicale suportate de persoana asigurată – Rambursare – Reglementare națională care condiționează acoperirea costurilor de realizarea unei evaluări medicale, efectuată exclusiv de un medic din cadrul sistemului public de asigurări de sănătate din statul membru de reședință al persoanei asigurate și finalizată prin emiterea de către medicul respectiv a unui document care autorizează internarea acestei persoane – Limitare semnificativă a rambursării costurilor asistenței medicale transfrontaliere.",
+ "interprets": [],
+ "text": null,
+ "text_withheld": "personal_data",
+ "withheld_reason": "The full text names the parties' lawyers (and, in older cases, private parties); only the metadata and the operative part are published here, with the official link.",
+ "operative_missing": null,
+ "eurlex_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62023CC0489",
+ "curia_url": "https://curia.europa.eu/juris/liste.jsf?num=C-489/23&language=ro",
+ "source": {
+  "name": "CELLAR, Publications Office of the European Union",
+  "url": "http://publications.europa.eu/resource/cellar/d3db3029-3174-11f0-8a44-01aa75ed71a1.0016.05/DOC_1",
+  "format": "xhtml",
+  "sha256": [
+   "59723985faffcda8d3aec330c26b873e7c41235442051e147681a09c29159c74"
+  ]
+ },
+ "legal_basis": "Jurisprudența Curții de Justiție a Uniunii Europene (texte oficiale; reutilizare permisă cu menționarea sursei: Decizia Comisiei 2011/833/UE și condițiile CURIA; © Uniunea Europeană). Textele oficiale nu sunt protejate de dreptul de autor în România (Legea nr. 8/1996, art. 9 lit. b).",
+ "attribution": "© European Union, https://eur-lex.europa.eu (via the Publications Office CELLAR)"
+}
