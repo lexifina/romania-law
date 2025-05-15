@@ -18,6 +18,7 @@ Initiator: Membri ai Parlamentului.
 - 2025-04-15: adopted by the Chamber of Deputies
 - 2025-04-23: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-04-28: sent for promulgation
+- 2025-05-15: promulgated, becomes Legea nr. 71/2025; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -31,3 +32,5 @@ Initiator: Membri ai Parlamentului.
 - 2019-05-29: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L172AM.PDF
 - 2025-04-23: Adresă privind sesizarea CCR (AXS): [axs-c64a6b77.md](axs-c64a6b77.md); official file https://www.senat.ro/legis/PDF/2019/19L172AXS.PDF
 - 2025-04-23: Forma trimisă la promulgare (LP): [lp-9a76377b.md](lp-9a76377b.md); official file https://www.senat.ro/legis/PDF/2019/19L172LP.PDF
+- 2025-05-15: Decret de promulgare (DP): [dp-77b030f9.md](dp-77b030f9.md); official file https://www.senat.ro/legis/PDF/2019/19L172DP.PDF
+- 2025-05-15: Forma promulgată (FP): [fp-6e0a3ede.md](fp-6e0a3ede.md); official file https://www.senat.ro/legis/PDF/2019/19L172FP.PDF
