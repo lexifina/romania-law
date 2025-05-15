@@ -1,0 +1,15 @@
+# Anexa nr. 6 la norme
+CERERE de echivalare a instruirii teoretice și a stagiului de pregătire practică
+Subsemnatul/Subsemnata,........................................., cu domiciliul în țara.............................., localitatea..........................., str......................................... nr...., bl...., sc...., et...., ap....., legitimat(ă) cu cartea de identitate/pașaportul seria....... nr.........., eliberat(ă) de...................... la data de...................., cod numeric personal (CNP)........................................., solicit echivalarea instruirii teoretice și a stagiului de pregătire practică în activitatea de audit financiar și, după caz, de asigurare a raportării privind durabilitatea, în conformitate cu prevederile art. 11 alin. (8) din Legea nr. 162/2017 privind auditul statutar al situațiilor financiare anuale și al situațiilor financiare anuale consolidate și de modificare a unor acte normative, cu modificările și completările ulterioare, și declar că: [] am fost angajat(ă) timp de 15 ani în activități profesionale care mi-au permis să dobândesc suficientă experiență în domeniul financiar-contabil și audit. Anexez la prezenta cerere următoarele documente: - copie a cărții de identitate/pașaportului, aflată/aflat în termen de valabilitate;
+- curriculum vitae, model Europass, cu semnătură olografă, din care să reiasă experiența profesională de 15 ani în domeniul financiar-contabil și audit;
+- documente care să dovedească experiența relevantă în domeniul financiar-contabil și audit (adeverințe, contracte de muncă, de prestări servicii, de colaborare sau orice alte documente oficiale etc.);
+- declarația pe propria răspundere, sub semnătură olografă, din care să rezulte că nu am fost sancționat(ă) pentru încălcarea legislației în domeniul auditului financiar;
+- dovada achitării taxei de echivalare.
+[] am calitatea de conducător de doctorat în domeniul financiar-contabil și audit de cel puțin 5 ani. Anexez la prezenta cerere următoarele documente: - copie a cărții de identitate/pașaportului, aflată/aflat în termen de valabilitate;
+- curriculum vitae, model Europass, cu semnătură olografă, din care să reiasă experiența profesională în calitatea de conducător de doctorat în domeniul financiar-contabil și audit de cel puțin 5 ani;
+- documente justificative eliberate de școala doctorală, în original;
+- declarația pe propria răspundere, sub semnătură olografă, din care să rezulte că nu am fost sancționat(ă) pentru încălcarea legislației în domeniul auditului financiar;
+- dovada achitării taxei de echivalare.
+Subsemnatul/Subsemnata,......................., declar, sub sancțiunea prevederilor art. 322, 323 și 326 din Codul penal privind falsul în înscrisuri sub semnătură privată, uzul de fals și, respectiv, falsul în declarații, că informațiile furnizate sunt corecte și complete și că sunt de acord cu stocarea, utilizarea și prelucrarea de către Autoritatea pentru Supravegherea Publică a Activității de Audit Statutar a datelor cu caracter personal în exercitarea atribuțiilor legale.
+Semnătura........................
+Data.....................
