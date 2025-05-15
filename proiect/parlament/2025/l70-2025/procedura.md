@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2025-04-23: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-04-28: sent for promulgation
 - 2025-05-14: promulgated, becomes Legea nr. 69/2025; documents published: Decret de promulgare, Forma promulgată
+- 2025-05-15: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -34,3 +35,6 @@ Initiator: Guvernul României.
 - 2025-04-23: Forma trimisă la promulgare (LP): [lp-89662a68.md](lp-89662a68.md); official file https://www.senat.ro/legis/PDF/2025/25L070LP.PDF
 - 2025-05-14: Decret de promulgare (DP): [dp-2fcaf496.md](dp-2fcaf496.md); official file https://www.senat.ro/legis/PDF/2025/25L070DP.PDF
 - 2025-05-14: Forma promulgată (FP): [fp-2d0806bf.md](fp-2d0806bf.md); official file https://www.senat.ro/legis/PDF/2025/25L070FP.PDF
+- 2025-05-15: Document (TX): [tx-ec85a74e.md](tx-ec85a74e.md); official file https://www.senat.ro/legis/PDF/2025/25L070TX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-05-15: Document (AL): [al-6acb48cb.md](al-6acb48cb.md); official file https://www.senat.ro/legis/PDF/2025/25L070AL.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-05-15: Document (TC): [tc-1aa19b8d.md](tc-1aa19b8d.md); official file https://www.senat.ro/legis/PDF/2025/25L070TC.PDF (its day is not given by the bill file: shown from the last stage held)
