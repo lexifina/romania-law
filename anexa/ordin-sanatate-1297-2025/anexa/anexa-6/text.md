@@ -1,0 +1,16 @@
+# Anexa 6
+Anexa nr. 6
+la norme
+Unitatea sanitară ...................
+nr. ...../.........
+DECLARAȚIE
+cu privire la realitatea documentelor,
+precum și concordanța acestora cu situația de la
+nivelul instituției care a solicitat autorizarea
+Subsemnatul(a) , ..................., în calitate de ................... al ..................., cu sediul în localitatea ..................., județul ..................., str. ................... nr. ..., sectorul ....., având codul fiscal .........., cunoscând că declarațiile false sunt pedepsite conform legii, declar pe propria răspundere că documentele anexate cererii nr. ......... sunt conforme cu originalul și sunt în concordanță cu situația de la nivelul unității sanitare pe care o reprezint.
+Data (completării)
+.............................
+Numele în clar
+..........................
+Semnătura și ștampila
+.................................
