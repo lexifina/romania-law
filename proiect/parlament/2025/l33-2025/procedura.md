@@ -17,6 +17,7 @@ Initiator: Guvernul României.
 - 2025-02-26: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-03-03: sent for promulgation
 - 2025-03-27: published in the Monitorul Oficial
+- 2025-05-19: promulgated, becomes Legea nr. 72/2025; published in the Monitorul Oficial; documents published: Document (day not given by the bill file), Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -29,3 +30,8 @@ Initiator: Guvernul României.
 - 2025-02-26: Forma adoptată de Senat (FS): [fs-b361cbd3.md](fs-b361cbd3.md); official file https://www.senat.ro/legis/PDF/2025/25L033FS.PDF
 - 2025-02-26: Adresă privind sesizarea CCR (AXS): [axs-1a0e8e6e.md](axs-1a0e8e6e.md); official file https://www.senat.ro/legis/PDF/2025/25L033AXS.PDF
 - 2025-02-26: Forma trimisă la promulgare (LP): [lp-ffb9a1d6.md](lp-ffb9a1d6.md); official file https://www.senat.ro/legis/PDF/2025/25L033LP.PDF
+- 2025-05-19: Document (AL): [al-cb6fccfc.md](al-cb6fccfc.md); official file https://www.senat.ro/legis/PDF/2025/25L033AL.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-05-19: Document (SC): [sc-212439d0.md](sc-212439d0.md); official file https://www.senat.ro/legis/PDF/2025/25L033SC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-05-19: Document (DC): not held as text; official file https://www.senat.ro/legis/PDF/2025/25L033DC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-05-19: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2025/25L033DP.PDF
+- 2025-05-19: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2025/25L033FP.PDF
