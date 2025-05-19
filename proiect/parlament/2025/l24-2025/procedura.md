@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2025-04-23: adopted by the Chamber of Deputies
 - 2025-05-07: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-05-12: sent for promulgation
+- 2025-05-19: promulgated, becomes Legea nr. 78/2025; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -38,3 +39,5 @@ Initiator: Guvernul României.
 - 2025-03-10: Adresă către Camera Deputaților (AM): [am-b1a3fd9e.md](am-b1a3fd9e.md); official file https://www.senat.ro/legis/PDF/2025/25L024AM.PDF
 - 2025-05-07: Adresă privind sesizarea CCR (AXS): [axs-b736b6e2.md](axs-b736b6e2.md); official file https://www.senat.ro/legis/PDF/2025/25L024AXS.PDF
 - 2025-05-07: Forma trimisă la promulgare (LP): [lp-29d51e1f.md](lp-29d51e1f.md); official file https://www.senat.ro/legis/PDF/2025/25L024LP.PDF
+- 2025-05-19: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2025/25L024DP.PDF
+- 2025-05-19: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2025/25L024FP.PDF
