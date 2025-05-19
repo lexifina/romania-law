@@ -1,0 +1,10 @@
+# HCL Chiajna nr. 37/2025
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+- Council: Consiliul Local al Comunei Chiajna
+- Decision: nr. 37/2025
+- Adopted: 2025-04-30
+- Published: 2025-05-19
+- Title: privind includerea în perimetrul de concesiune conform contractului de delegare a gestiunii serviciului public de alimentare cu apă și canalizare nr. 7020/1 din 02.08.2012, a obiectivelor "Proiectare și Execuție Rețea Apă Potabilă" și "Extindere Rețea Apă Potabilă”
+- Record: https://emol.ro/chiajna-if/registru-hcl/205262
