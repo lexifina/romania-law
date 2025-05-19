@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2025-04-23: adopted by the Chamber of Deputies
 - 2025-05-07: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-05-09: sent for promulgation
+- 2025-05-19: promulgated, becomes Legea nr. 76/2025; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -34,3 +35,5 @@ Initiator: Guvernul României.
 - 2023-06-09: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L284AM.PDF
 - 2025-05-07: Adresă privind sesizarea CCR (AXS): [axs-487d13c9.md](axs-487d13c9.md); official file https://www.senat.ro/legis/PDF/2023/23L284AXS.PDF
 - 2025-05-07: Forma trimisă la promulgare (LP): [lp-73c0c173.md](lp-73c0c173.md); official file https://www.senat.ro/legis/PDF/2023/23L284LP.PDF
+- 2025-05-19: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L284DP.PDF
+- 2025-05-19: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L284FP.PDF
