@@ -1,0 +1,392 @@
+{
+ "key": "iccj-hp-118-2025",
+ "label": "Decizia ÎCCJ nr. 118/2025 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "118",
+ "date": "2025-04-07",
+ "year": "2025",
+ "heading": "DECIZIA nr. 118 din 7 aprilie 2025",
+ "subtitle": "referitoare la art. 14 alin. (1) teza întâi din Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, cu modificările și completările ulterioare",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "464",
+  "bis": false,
+  "date": "2025-05-20",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": true,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.051/1/2024",
+  "1.924/99/2024",
+  "2.202/30/2023",
+  "2.098/1/2024"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 115/2023",
+    "number": "115",
+    "year": "2023",
+    "path": "oug/2023/115"
+   },
+   "articles": [
+    {
+     "art": "XXXIX",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Admite sesizarea formulată de Tribunalul Iași - Secția I civilă în Dosarul nr. 1.924/99/2024, în vederea pronunțării unei hotărâri prealabile.",
+  "În interpretarea dispozițiilor art. XXXIX și XXXVIII din Ordonanța de urgență a Guvernului nr. 115/2023 privind unele măsuri fiscal-bugetare în domeniul cheltuielilor publice, pentru consolidare fiscală, combaterea evaziunii fiscale, pentru modificarea și completarea unor acte normative, precum și pentru prorogarea unor termene, cu modificările și completările ulterioare, stabilește că:",
+  "În vederea acordării indemnizației pentru titlul științific de doctor se instituie o obligație pentru angajator de a modifica fișele de post, în măsura în care specificul muncii permite identificarea unor atribuții/criterii obiective care să prevadă în ce modalitate este sau poate fi valorificată suplimentar activitatea salariatului ce deține acest titlu, plata indemnizației aferente cuvenindu-se salariatului de la data modificării fișei postului.",
+  "Respinge, ca inadmisibilă, sesizarea formulată de Curtea de Apel Timișoara - Secția litigii de muncă și asigurări sociale în Dosarul nr. 2.202/30/2023, în vederea pronunțării unei hotărâri prealabile cu privire la următoarea problemă de drept:",
+  "Dispozițiile art. 14 alin. (1) teza întâi din Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, cu modificările și completările ulterioare, sunt aplicabile/vizează personalul contractual care nu își desfășoară activitatea în domeniul pentru care deține titlul și dacă nu are prevăzute în fișa postului un set de atribuții obiective și cuantificabile care să permită verificarea lunară a modului în care activitatea acestuia este valorificată în mod suplimentar?",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 62/2024",
+    "number": "62",
+    "year": "2024",
+    "path": "oug/2024/62"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 16
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 115/2023",
+    "number": "115",
+    "year": "2023",
+    "path": "oug/2023/115"
+   },
+   "articles": [
+    {
+     "art": "XXXIX",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "XXXVIII",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "XXXV",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 27
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "XXXVIII",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "39",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 21
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 296/2023",
+    "number": "296",
+    "year": "2023",
+    "path": "lege/2023/296"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 5/2021",
+    "number": "5",
+    "year": "2021",
+    "path": "lege/2021/5"
+   },
+   "articles": [],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 284/2010",
+    "number": "284",
+    "year": "2010",
+    "path": "lege/2010/284"
+   },
+   "articles": [
+    {
+     "art": "19-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 53/2003",
+    "number": "53",
+    "year": "2003",
+    "path": "lege/2003/53"
+   },
+   "articles": [
+    {
+     "art": "169",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "115",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "79",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 195/2020",
+    "number": "195",
+    "year": "2020",
+    "path": "lege/2020/195"
+   },
+   "articles": [
+    {
+     "art": "XXXVI",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 352/2015",
+    "number": "352",
+    "year": "2015",
+    "path": "lege/2015/352"
+   },
+   "articles": [
+    {
+     "art": "XXXVII",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "III",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 156/2024",
+    "number": "156",
+    "year": "2024",
+    "path": "oug/2024/156"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-05-20",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/298156",
+  "text_sha256": "851d237bcbab5283d225907c4a7a7c941a810fb98c2ccc9f56e024bc0c424b4e",
+  "catalogue_sha256": "851d237bcbab5283d225907c4a7a7c941a810fb98c2ccc9f56e024bc0c424b4e",
+  "fetched": "2026-11-06T03:44:53Z",
+  "chars": 64917,
+  "archive": {
+   "source": "commoncrawl",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/298156",
+   "timestamp": "20250621135346",
+   "crawl": "CC-MAIN-2025-26",
+   "filename": "crawl-data/CC-MAIN-2025-26/segments/1749709481681.43/warc/CC-MAIN-20250621130606-20250621160606-00162.warc.gz",
+   "offset": "285155622",
+   "length": "49377",
+   "sha256": "1d10867ab334984315f027b7492d12bc28d25760ed2317e44c86b3db7b9298d3"
+  },
+  "portal_id": "298156",
+  "tip": "DECIZIE"
+ }
+}
