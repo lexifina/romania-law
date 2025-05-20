@@ -1,0 +1,150 @@
+{
+ "key": "iccj-hp-109-2025",
+ "label": "Decizia ÎCCJ nr. 109/2025 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "109",
+ "date": "2025-03-31",
+ "year": "2025",
+ "heading": "DECIZIA nr. 109 din 31 martie 2025",
+ "subtitle": "referitoare la sporul de 50% pentru condiții deosebit de periculoase, prevăzut de art. 14 alin. (1) lit. a) și alin. (2) din capitolul II al anexei nr. II la Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, cu modificările și completările ulterioare",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "463",
+  "bis": false,
+  "date": "2025-05-20",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.379/1/2024",
+  "32.167/3/2022"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Curtea de Apel București - Secția a VII-a pentru cauze privind conflicte de muncă și asigurări sociale, în Dosarul nr. 32.167/3/2022, în vederea pronunțării unei hotărâri prealabile cu privire la următoarea chestiune de drept:",
+  "Dacă sporul de 50% pentru condiții deosebit de periculoase, prevăzut de art. 14 alin. (1) lit. a) și alin. (2) din capitolul II al anexei nr. II la Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, cu modificările și completările ulterioare, se acordă medicilor specialiști angajați ai direcției generale de asistență socială și protecția copilului, chiar dacă locul de muncă nu a fost efectiv expertizat conform Regulamentului-cadru privind stabilirea locurilor de muncă, a categoriilor de personal, a mărimii concrete a sporului pentru condiții de muncă prevăzut în anexa nr. II la Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, precum și a condițiilor de acordare a acestuia, pentru familia ocupațională de funcții bugetare «Sănătate și asistență socială», aprobat prin Hotărârea Guvernului nr. 153/2018, cu modificările și completările ulterioare, întrucât era vacant la momentul efectuării expertizei la nivelul unității angajatoare.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 62/2024",
+    "number": "62",
+    "year": "2024",
+    "path": "oug/2024/62"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [],
+   "mentions": 22
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "517",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-05-20",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/298152",
+  "text_sha256": "f879283233c9ef3cc5627e58d299c5894e0204e7a57f55d6fc6dd8b967c73056",
+  "catalogue_sha256": "f879283233c9ef3cc5627e58d299c5894e0204e7a57f55d6fc6dd8b967c73056",
+  "fetched": "2026-11-06T03:48:02Z",
+  "chars": 45000,
+  "archive": {
+   "source": "commoncrawl",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/298152",
+   "timestamp": "20250621135046",
+   "crawl": "CC-MAIN-2025-26",
+   "filename": "crawl-data/CC-MAIN-2025-26/segments/1749709481681.43/warc/CC-MAIN-20250621130606-20250621160606-00158.warc.gz",
+   "offset": "286773347",
+   "length": "39335",
+   "sha256": "5d76359fea86ba01235f5ef5ab40595c451b4fe565290800dae4fba2681b810e"
+  },
+  "portal_id": "298152",
+  "tip": "DECIZIE"
+ }
+}
