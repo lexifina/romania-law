@@ -1,0 +1,332 @@
+{
+ "key": "iccj-hp-68-2025",
+ "label": "Decizia ÎCCJ nr. 68/2025 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "68",
+ "date": "2025-03-03",
+ "year": "2025",
+ "heading": "DECIZIA nr. 68 din 3 martie 2025",
+ "subtitle": "referitoare la interpretarea și aplicarea art. 6 lit. b) și c) și a art. 39 alin. (1) și (4) din Legea-cadru nr. 153/2017",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "466",
+  "bis": false,
+  "date": "2025-05-20",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.288/1/2024",
+  "2.181/121/2023",
+  "2.678/100/2023",
+  "3.661/86/2022",
+  "5.440/102/2023",
+  "2.658/105/2021"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "39",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibile, sesizările conexate formulate de Tribunalul Galați - Secția I civilă în Dosarul nr. 2.181/121/2023, de Tribunalul Maramureș - Secția a II-a civilă de contencios administrativ și fiscal în Dosarul nr. 2.678/100/2023, de Curtea de Apel Suceava - Secția de contencios administrativ și fiscal în Dosarul nr. 3.661/86/2022*, de Curtea de Apel Târgu Mureș - Secția I civilă în Dosarul nr. 5.440/102/2023, de Curtea de Apel Ploiești - Secția de contencios administrativ și fiscal în Dosarul nr. 2.658/105/2021*, de Tribunalul Brașov - Secția I civilă în Dosarul nr. 478/62/2024, de Tribunalul Bihor - Secția a III-a contencios administrativ și fiscal în dosarele nr. 1.813/111/2024, nr. 2.232/111/2024, nr. 2.415/111/2023, nr. 1.669/111/2024, nr. 1.417/111/2020 și nr. 4.470/111/2017, de Tribunalul Harghita - Secția civilă în Dosarul nr. 1.796/117/2023*, de Tribunalul Sibiu - Secția I civilă în Dosarul nr. 1.423/85/2024, de Tribunalul Constanța - Secția de contencios administrativ și fiscal în dosarele nr. 1.999/118/2024 și nr. 2.998/118/2024, de Curtea de Apel Ploiești - Secția de contencios administrativ și fiscal în Dosarul nr. 2.117/120/2023, de Tribunalul București - Secția a II-a contencios administrativ și fiscal în Dosarul nr. 10.394/3/2024, de Tribunalul Vrancea - Secția a II-a civilă și de contencios administrativ și fiscal în Dosarul nr. 681/91/2024, de Tribunalul Prahova - Secția I civilă în Dosarul nr. 5.583/105/2021*, de Tribunalul Iași - Secția II civilă, contencios administrativ și fiscal în dosarele nr. 1.985/99/2024 și nr. 4.389/99/2024, de Tribunalul Suceava - Secția de contencios administrativ și fiscal în Dosarul nr. 59/86/2023*, de Curtea de Apel Oradea - Secția de contencios administrativ și fiscal în Dosarul nr. 3.641/111/2022, de Curtea de Apel Constanța - Secția de contencios administrativ și fiscal în Dosarul nr. 5.452/118/2021, de Tribunalul Vâlcea - Secția a II-a civilă în Dosarul nr. 1.817/90/2024, de Tribunalul Alba - Secția a II-a civilă, de contencios administrativ, fiscal și de insolvență în Dosarul nr. 2.022/107/2024, de Tribunalul Maramureș - Secția a II-a civilă, de contencios administrativ și fiscal în Dosarul nr. 942/100/2023 și de Tribunalul Iași - Secția I civilă în Dosarul nr. 5.555/99/2022, în vederea pronunțării unei hotărâri prealabile cu privire la următoarea chestiune de drept:",
+  "Dacă, în interpretarea și aplicarea art. 6 lit. b) și c) și a art. 39 alin. (1) și (4) din Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, cu modificările și completările ulterioare, principiile egalității și nediscriminării pot fi invocate pentru egalizarea salariului la nivelul maxim aflat în plată, cu luarea sau neluarea în considerare a majorărilor și/sau sporurilor salariale recunoscute prin hotărâri judecătorești definitive, pentru funcții similare din cadrul: aceleiași autorități/instituții publice; altei autorități/instituții publice similare din țară; altei autorități/instituții publice din cadrul aceleiași familii ocupaționale; autorităților/instituțiilor publice centrale.",
+  "Obligatorie, potrivit art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 62/2024",
+    "number": "62",
+    "year": "2024",
+    "path": "oug/2024/62"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "39",
+     "alin": [
+      "1",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "36",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "38",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": [
+      "b",
+      "a"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 51
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 57/2015",
+    "number": "57",
+    "year": "2015",
+    "path": "oug/2015/57"
+   },
+   "articles": [
+    {
+     "art": "3-1",
+     "alin": [
+      "1",
+      "1-2",
+      "1-3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii-cadru nr. 284/2010",
+    "number": "284",
+    "year": "2010",
+    "path": "lege/2010/284"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 207/2017",
+    "number": "207",
+    "year": "2017",
+    "path": "lege/2017/207"
+   },
+   "articles": [
+    {
+     "art": "III",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 520/2013",
+    "number": "520",
+    "year": "2013",
+    "path": "hg/2013/520"
+   },
+   "articles": [
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 24/2020",
+    "number": "24",
+    "year": "2020",
+    "path": "oug/2020/24"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 57/2017",
+    "number": "57",
+    "year": "2017",
+    "path": "oug/2017/57"
+   },
+   "articles": [
+    {
+     "art": "3-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 137/2000",
+    "number": "137",
+    "year": "2000",
+    "path": "og/2000/137"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2",
+      "3"
+     ],
+     "lit": [
+      "e"
+     ]
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 83/2014",
+    "number": "83",
+    "year": "2014",
+    "path": "oug/2014/83"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "5-1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-05-20",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/298171",
+  "text_sha256": "5f12dbb967d3dc63386df291a0f939510c422ce6698acb472268f32086d3ba3b",
+  "catalogue_sha256": "5f12dbb967d3dc63386df291a0f939510c422ce6698acb472268f32086d3ba3b",
+  "fetched": "2026-11-03T00:57:32Z",
+  "chars": 96963,
+  "portal_id": "298171",
+  "tip": "DECIZIE"
+ }
+}
