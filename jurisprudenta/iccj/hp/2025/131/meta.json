@@ -1,0 +1,221 @@
+{
+ "key": "iccj-hp-131-2025",
+ "label": "Decizia ÎCCJ nr. 131/2025 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "131",
+ "date": "2025-04-07",
+ "year": "2025",
+ "heading": "DECIZIA nr. 131 din 7 aprilie 2025",
+ "subtitle": "referitoare la art. 36 alin. (2), art. 39 alin. (1) și (2) din Legea-cadru nr. 153/2017",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "465",
+  "bis": false,
+  "date": "2025-05-20",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.515/1/2024",
+  "1.630/40/2022",
+  "1.630/120/2022"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "36",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "39",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 42/2020",
+    "number": "42",
+    "year": "2020",
+    "path": "lege/2020/42"
+   },
+   "articles": [
+    {
+     "art": "IV",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Tribunalul Dâmbovița - Secția I civilă în Dosarul nr. 1.630/120/2022*, în vederea pronunțării unei hotărâri prealabile cu privire la următoarele chestiuni de drept:",
+  "Dacă dispozițiile art. 36 alin. (2), art. 39 alin. (1) și (2) din Legea-cadru nr. 153/2017 conferă dreptul de încadrare/reîncadrare prin asimilare a unui garderobier din cadrul unui spital județean pe unul din capitolele din anexa nr. III la Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, cu modificările și completările ulterioare, în condițiile în care personalul spitalului a fost încadrat pe anexa nr. VIII și, ulterior, anexa nr. VII la Legea-cadru nr. 153/2017;",
+  "Dacă dispozițiile Legii-cadru nr. 153/2017, inclusiv art. 36 alin. (2), art. 39 alin. (1) și (2) din acest act normativ, conferă dreptul de a încadra/reîncadra categoria de personal a garderobierilor din cadrul unui spital județean strict formal pe anexa nr. VIII și, ulterior, anexa nr. VII la Legea-cadru nr. 153/2017, însă prin asimilare cu funcția de bază și salarizarea aferente din altă anexă, în speță, anexa nr. III la același act normativ; dacă răspunsul la întrebarea anterioară este negativ, atunci pe ce anexă și capitol din aceasta la Legea-cadru nr. 153/2017 trebuia făcută încadrarea/reîncadrarea garderobierilor din spitalul județean;",
+  "Dacă este supusă controlului de legalitate/temeinicie încadrarea/reîncadrarea în privința criteriilor de stabilire a capitolului din anexa nr. III la Legea-cadru nr. 153/2017 pe care s-a făcut încadrarea/reîncadrarea personalului, în condițiile în care toate capitolele anexei respective prevăd funcția de bază garderobier cu același salariu de bază și coeficient de multiplicare, sau aspectul vizează exclusiv dreptul ordonatorului de apreciere/oportunitate;",
+  "Dacă încadrarea/reîncadrarea garderobierilor din cadrul spitalului județean prin asimilare pe capitolul I din anexa nr. III la Legea-cadru nr. 153/2017 reprezintă un criteriu legal de excludere de la majorarea salarială prevăzută de art. IV din Legea nr. 42/2020 pentru modificarea Legii-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, în condițiile în care funcția de garderobier cu același salariu de bază și coeficient de multiplicare se regăsește în toate capitolele din anexa nr. III la Legea-cadru nr. 153/2017, inclusiv în cazul categoriilor de personal avute în vedere de art. IV din Legea nr. 42/2020; în cazul unui răspuns negativ, dacă dreptul la majorarea prevăzută de art. IV din Legea nr. 42/2020 trebuie recunoscut în baza principiilor legalității, egalității și nediscriminării prevăzute de art. 6 din Legea-cadru nr. 153/2017.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 62/2024",
+    "number": "62",
+    "year": "2024",
+    "path": "oug/2024/62"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "36",
+     "alin": [
+      "2",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "39",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "IV",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "38",
+     "alin": [
+      "6",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 46
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 42/2020",
+    "number": "42",
+    "year": "2020",
+    "path": "lege/2020/42"
+   },
+   "articles": [
+    {
+     "art": "IV",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-05-20",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/298168",
+  "text_sha256": "0ff1e91aa2b239c7c14b3ec65a8c8b0b9d2dcbd5aead1cd0bbe2f1d5833ebdd5",
+  "catalogue_sha256": "0ff1e91aa2b239c7c14b3ec65a8c8b0b9d2dcbd5aead1cd0bbe2f1d5833ebdd5",
+  "fetched": "2026-11-03T00:57:32Z",
+  "chars": 34782,
+  "portal_id": "298168",
+  "tip": "DECIZIE"
+ }
+}
