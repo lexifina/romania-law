@@ -19,6 +19,7 @@ Initiator: Membri ai Parlamentului.
 - 2025-05-07: adopted by the Chamber of Deputies
 - 2025-05-14: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-05-19: sent for promulgation
+- 2025-05-21: promulgated, becomes Legea nr. 83/2025; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -33,3 +34,5 @@ Initiator: Membri ai Parlamentului.
 - 2023-05-02: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L141AM.PDF
 - 2025-05-14: Adresă privind sesizarea CCR (AXS): [axs-8c3319cc.md](axs-8c3319cc.md); official file https://www.senat.ro/legis/PDF/2023/23L141AXS.PDF
 - 2025-05-14: Forma trimisă la promulgare (LP): [lp-7d0dba12.md](lp-7d0dba12.md); official file https://www.senat.ro/legis/PDF/2023/23L141LP.PDF
+- 2025-05-21: Decret de promulgare (DP): [dp-48528242.md](dp-48528242.md); official file https://www.senat.ro/legis/PDF/2023/23L141DP.PDF
+- 2025-05-21: Forma promulgată (FP): [fp-45359309.md](fp-45359309.md); official file https://www.senat.ro/legis/PDF/2023/23L141FP.PDF
