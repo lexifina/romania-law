@@ -21,6 +21,7 @@ Initiator: Guvernul României.
 - 2024-12-16: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2024-12-18: sent for promulgation
 - 2025-04-09: published in the Monitorul Oficial
+- 2025-05-21: promulgated, becomes Legea nr. 79/2025; published in the Monitorul Oficial; documents published: Document (day not given by the bill file), Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -39,3 +40,7 @@ Initiator: Guvernul României.
 - 2024-09-23: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L381AM.PDF
 - 2024-12-16: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L381AXS.PDF
 - 2024-12-16: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L381LP.PDF
+- 2025-05-21: Document (SC): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L381SC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-05-21: Document (DC): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L381DC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-05-21: Decret de promulgare (DP): [dp-b4d74548.md](dp-b4d74548.md); official file https://www.senat.ro/legis/PDF/2024/24L381DP.PDF
+- 2025-05-21: Forma promulgată (FP): [fp-e609c2f2.md](fp-e609c2f2.md); official file https://www.senat.ro/legis/PDF/2024/24L381FP.PDF
