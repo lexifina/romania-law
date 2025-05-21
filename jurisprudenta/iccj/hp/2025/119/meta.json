@@ -1,0 +1,460 @@
+{
+ "key": "iccj-hp-119-2025",
+ "label": "Decizia ÎCCJ nr. 119/2025 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "119",
+ "date": "2025-04-07",
+ "year": "2025",
+ "heading": "DECIZIA nr. 119 din 7 aprilie 2025",
+ "subtitle": "referitoare la interpretarea dispozițiilor art. 38 alin. (1) din Ordonanța Guvernului nr. 64/2006 privind salarizarea și alte drepturi ale funcționarilor publici cu statut special din sistemul administrației penitenciare, aprobată cu modificări prin Legea nr. 462/2006, cu modificările ulterioare",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "473",
+  "bis": false,
+  "date": "2025-05-21",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": true,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.478/1/2024",
+  "4.602/111/2023",
+  "2.479/1/2024",
+  "2.996/111/2023",
+  "16/1/2025",
+  "2.997/111/2023"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 64/2006",
+    "number": "64",
+    "year": "2006",
+    "path": "og/2006/64"
+   },
+   "articles": [
+    {
+     "art": "38",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 53/2003",
+    "number": "53",
+    "year": "2003",
+    "path": "lege/2003/53"
+   },
+   "articles": [
+    {
+     "art": "150",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Admite sesizarea formulată de Tribunalul Bihor - Secția a III-a contencios administrativ și fiscal în Dosarul nr. 2.997/111/2023 și, în consecință, stabilește că:",
+  "În interpretarea dispozițiilor art. 7 lit. b), f) și i) din Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, cu modificările și completările ulterioare, și ale art. 4 alin. (2) din capitolul II din anexa nr. VI la Legea-cadru nr. 153/2017, majorarea pentru munca suplimentară desfășurată de polițiștii de penitenciare în zilele de repaus săptămânal, de sărbători legale și în celelalte zile în care, în conformitate cu reglementările în vigoare, nu se lucrează, calculată potrivit dispozițiilor art. 13 alin. (5) din Ordonanța de urgență a Guvernului nr. 103/2013 privind salarizarea personalului plătit din fonduri publice în anul 2014, precum și alte măsuri în domeniul cheltuielilor publice, aprobată cu completări prin Legea nr. 28/2014, cu modificările și completările ulterioare, nu influențează calculul altor drepturi salariale și nesalariale constând în sumă compensatorie, spor condiții vătămătoare, spor condiții periculoase, ore suplimentare, spor pericol ANP, indemnizație chirie, majorare de 50%.",
+  "Respinge, ca inadmisibile, sesizările conexate formulate de Tribunalul Bihor - Secția a III-a contencios administrativ și fiscal în dosarele nr. 4.602/111/2023 și nr. 2.996/111/2023, în vederea pronunțării unei hotărâri prealabile cu privire la următoarea chestiune de drept:",
+  "În interpretarea dispozițiilor art. 38 alin. (1) din Ordonanța Guvernului nr. 64/2006 privind salarizarea și alte drepturi ale funcționarilor publici cu statut special din sistemul administrației penitenciare, aprobată cu modificări prin Legea nr. 462/2006, cu modificările ulterioare, și art. 150 alin. (1) și (2) din Legea nr. 53/2003 - Codul muncii, republicată, cu modificările și completările ulterioare, la calculul indemnizațiilor cuvenite pentru perioada concediului de odihnă, concediului medical, concediului de studii, învoirilor plătite, polițiștii de penitenciare beneficiază de aceleași drepturi salariale și nesalariale (sumă compensatorie, spor condiții vătămătoare, spor condiții periculoase, ore suplimentare, spor pericol ANP, indemnizație chirie, valoare majorare 50%) ca acelea cuvenite pentru perioada în care au desfășurat activitate efectivă?",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 62/2024",
+    "number": "62",
+    "year": "2024",
+    "path": "oug/2024/62"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 64/2006",
+    "number": "64",
+    "year": "2006",
+    "path": "og/2006/64"
+   },
+   "articles": [
+    {
+     "art": "38",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 53/2003",
+    "number": "53",
+    "year": "2003",
+    "path": "lege/2003/53"
+   },
+   "articles": [
+    {
+     "art": "150",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "142",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": null,
+     "lit": [
+      "b",
+      "f"
+     ]
+    },
+    {
+     "art": "38",
+     "alin": [
+      "1",
+      "3",
+      "6"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "2",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 22
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 130/2021",
+    "number": "130",
+    "year": "2021",
+    "path": "oug/2021/130"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "II",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 168/2022",
+    "number": "168",
+    "year": "2022",
+    "path": "oug/2022/168"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "II",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 115/2023",
+    "number": "115",
+    "year": "2023",
+    "path": "oug/2023/115"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "III",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 226/2020",
+    "number": "226",
+    "year": "2020",
+    "path": "oug/2020/226"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 114/2018",
+    "number": "114",
+    "year": "2018",
+    "path": "oug/2018/114"
+   },
+   "articles": [
+    {
+     "art": "34",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 145/2019",
+    "number": "145",
+    "year": "2019",
+    "path": "lege/2019/145"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 90/2017",
+    "number": "90",
+    "year": "2017",
+    "path": "oug/2017/90"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 103/2013",
+    "number": "103",
+    "year": "2013",
+    "path": "oug/2013/103"
+   },
+   "articles": [
+    {
+     "art": "13",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 79/2018",
+    "number": "79",
+    "year": "2018",
+    "path": "lege/2018/79"
+   },
+   "articles": [
+    {
+     "art": "IV",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 64/2006",
+    "number": "64",
+    "year": "2006",
+    "path": "oug/2006/64"
+   },
+   "articles": [
+    {
+     "art": "38",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-05-21",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/298215",
+  "text_sha256": "1fb2a8d409ee412ed6cc71b5fa2ad29b3c36b47d471d25cee8f9de245188a3fe",
+  "catalogue_sha256": "1fb2a8d409ee412ed6cc71b5fa2ad29b3c36b47d471d25cee8f9de245188a3fe",
+  "fetched": "2026-11-03T00:57:28Z",
+  "chars": 73229,
+  "portal_id": "298215",
+  "tip": "DECIZIE"
+ }
+}
