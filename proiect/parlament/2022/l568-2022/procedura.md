@@ -18,6 +18,7 @@ Initiator: Membri ai Parlamentului.
 - 2025-05-07: adopted by the Chamber of Deputies
 - 2025-05-14: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-05-19: sent for promulgation
+- 2025-05-21: promulgated, becomes Legea nr. 82/2025; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -32,3 +33,5 @@ Initiator: Membri ai Parlamentului.
 - 2022-10-05: Adresă către Camera Deputaților (AM): [am-b4963830.md](am-b4963830.md); official file https://www.senat.ro/legis/PDF/2022/22L568AM.PDF
 - 2025-05-14: Adresă privind sesizarea CCR (AXS): [axs-8ebf3d92.md](axs-8ebf3d92.md); official file https://www.senat.ro/legis/PDF/2022/22L568AXS.PDF
 - 2025-05-14: Forma trimisă la promulgare (LP): [lp-cbd65d2f.md](lp-cbd65d2f.md); official file https://www.senat.ro/legis/PDF/2022/22L568LP.PDF
+- 2025-05-21: Decret de promulgare (DP): [dp-b90ed685.md](dp-b90ed685.md); official file https://www.senat.ro/legis/PDF/2022/22L568DP.PDF
+- 2025-05-21: Forma promulgată (FP): [fp-e2e5f328.md](fp-e2e5f328.md); official file https://www.senat.ro/legis/PDF/2022/22L568FP.PDF
