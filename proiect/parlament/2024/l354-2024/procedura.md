@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2025-05-07: adopted by the Chamber of Deputies
 - 2025-05-14: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-05-16: sent for promulgation
+- 2025-05-21: promulgated, becomes Legea nr. 81/2025; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -35,3 +36,5 @@ Initiator: Guvernul României.
 - 2024-09-16: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L354AM.PDF
 - 2025-05-14: Adresă privind sesizarea CCR (AXS): [axs-793ee357.md](axs-793ee357.md); official file https://www.senat.ro/legis/PDF/2024/24L354AXS.PDF
 - 2025-05-14: Forma trimisă la promulgare (LP): [lp-f80f4a6d.md](lp-f80f4a6d.md); official file https://www.senat.ro/legis/PDF/2024/24L354LP.PDF
+- 2025-05-21: Decret de promulgare (DP): [dp-dd4eac1c.md](dp-dd4eac1c.md); official file https://www.senat.ro/legis/PDF/2024/24L354DP.PDF
+- 2025-05-21: Forma promulgată (FP): [fp-d064df93.md](fp-d064df93.md); official file https://www.senat.ro/legis/PDF/2024/24L354FP.PDF
