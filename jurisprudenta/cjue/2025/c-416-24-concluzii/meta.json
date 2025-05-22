@@ -1,0 +1,42 @@
+{
+ "key": "cjue-c-416-24-concluzii-2025-05-22",
+ "label": "CJUE, Concluziile avocatului general domnul M. Szpunar prezentate la 22 mai 2025, Cauza C-416/24.",
+ "court": "cjue",
+ "court_name": "Curtea de Justiție a Uniunii Europene",
+ "kind": "concluzii",
+ "act_type": "OPIN_AG",
+ "date": "2025-05-22",
+ "year": "2025",
+ "case": "Cauza C-416/24.",
+ "celex": "62024CC0416",
+ "ecli": "ECLI:EU:C:2025:377",
+ "heading": "Concluziile avocatului general domnul M. Szpunar prezentate la 22 mai 2025",
+ "formation": null,
+ "procedure": "REFER_PREL",
+ "romania_role": [
+  "originates"
+ ],
+ "referred_by": null,
+ "referral_text": "Cererea de decizie preliminară formulată de Curtea de Apel Bacău.",
+ "national_followup": null,
+ "parties": null,
+ "parties_withheld": true,
+ "keywords": "Trimitere preliminară – Ajutoare de stat – Regulamentul (UE) nr. 651/2014 – Exceptarea anumitor categorii de ajutoare compatibile cu piața internă – Eroare de traducere în versiunea în limba română a acestui regulament – Efectele juridice ale regulamentului de rectificare a acestei erori – Posibilitate de recuperare a unui ajutor acordat înainte de rectificare în conformitate cu condițiile prevăzute în versiunea regulamentului care conținea eroarea de traducere – Protecția încrederii legitime – Securitate juridică.",
+ "interprets": [],
+ "text": null,
+ "text_withheld": "personal_data",
+ "withheld_reason": "The full text names the parties' lawyers (and, in older cases, private parties); only the metadata and the operative part are published here, with the official link.",
+ "operative_missing": null,
+ "eurlex_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62024CC0416",
+ "curia_url": "https://curia.europa.eu/juris/liste.jsf?num=C-416/24&language=ro",
+ "source": {
+  "name": "CELLAR, Publications Office of the European Union",
+  "url": "http://publications.europa.eu/resource/cellar/e07a863a-36fc-11f0-8a44-01aa75ed71a1.0016.05/DOC_1",
+  "format": "xhtml",
+  "sha256": [
+   "b18d3587600be3ee72267f56d53cd4d231227bc9828832007cf3f6c3bea7fb4b"
+  ]
+ },
+ "legal_basis": "Jurisprudența Curții de Justiție a Uniunii Europene (texte oficiale; reutilizare permisă cu menționarea sursei: Decizia Comisiei 2011/833/UE și condițiile CURIA; © Uniunea Europeană). Textele oficiale nu sunt protejate de dreptul de autor în România (Legea nr. 8/1996, art. 9 lit. b).",
+ "attribution": "© European Union, https://eur-lex.europa.eu (via the Publications Office CELLAR)"
+}
