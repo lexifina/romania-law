@@ -17,6 +17,7 @@ Initiator: Guvernul României.
 - 2025-05-07: adopted by the Chamber of Deputies
 - 2025-05-14: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-05-16: sent for promulgation
+- 2025-05-22: promulgated, becomes Legea nr. 87/2025; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -30,3 +31,5 @@ Initiator: Guvernul României.
 - 2024-09-23: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L484AM.PDF
 - 2025-05-14: Adresă privind sesizarea CCR (AXS): [axs-13e87491.md](axs-13e87491.md); official file https://www.senat.ro/legis/PDF/2024/24L484AXS.PDF
 - 2025-05-14: Forma trimisă la promulgare (LP): [lp-3801b7af.md](lp-3801b7af.md); official file https://www.senat.ro/legis/PDF/2024/24L484LP.PDF
+- 2025-05-22: Decret de promulgare (DP): [dp-65673730.md](dp-65673730.md); official file https://www.senat.ro/legis/PDF/2024/24L484DP.PDF
+- 2025-05-22: Forma promulgată (FP): [fp-18d55783.md](fp-18d55783.md); official file https://www.senat.ro/legis/PDF/2024/24L484FP.PDF
