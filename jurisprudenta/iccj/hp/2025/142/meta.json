@@ -1,0 +1,176 @@
+{
+ "key": "iccj-hp-142-2025",
+ "label": "Decizia ÎCCJ nr. 142/2025 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "142",
+ "date": "2025-04-07",
+ "year": "2025",
+ "heading": "DECIZIA nr. 142 din 7 aprilie 2025",
+ "subtitle": "referitoare la interpretarea art. 8 alin. (5) teza I și art. 11 din Legea nr. 77/2016",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "486",
+  "bis": false,
+  "date": "2025-05-26",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "3.038/1/2024",
+  "16.895/325/2022"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 77/2016",
+    "number": "77",
+    "year": "2016",
+    "path": "lege/2016/77"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Tribunalul Timiș - Secția a II-a civilă în Dosarul nr. 16.895/325/2022, în vederea pronunțării unei hotărâri prealabile cu privire la următoarea chestiune de drept:",
+  "Prevederile art. 8 alin. (5) teza I și art. 11 din Legea nr. 77/2016 trebuie interpretate în sensul că permit în etapa executării silite efectuate în baza contractului de credit inclusiv soluția de adaptare a acestui contract?",
+  "În caz afirmativ, soluțiile de adaptare a contractului prin: – reducerea soldului;",
+  "– stabilirea unui nou curs valutar aplicabil tuturor sumelor restante, cu repunerea pe rol a creditului;",
+  "– stabilirea unui nou curs valutar aplicabil ratelor cu scadența după introducerea notificării de adaptare pot reprezenta modalități de echilibrare a contractului de credit admisibile prin raportare la prevederile Legii nr. 77/2016 ?",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 77/2016",
+    "number": "77",
+    "year": "2016",
+    "path": "lege/2016/77"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": [
+      "1-1",
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 37
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "483",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "477",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "481",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 52/2020",
+    "number": "52",
+    "year": "2020",
+    "path": "lege/2020/52"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "970",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1271",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-05-26",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/298307",
+  "text_sha256": "6d9c0c1bc3b49c33d21d150137acee2658dc29df6b724c8727a28f42af7d30d8",
+  "catalogue_sha256": "6d9c0c1bc3b49c33d21d150137acee2658dc29df6b724c8727a28f42af7d30d8",
+  "fetched": "2026-11-03T22:34:55Z",
+  "chars": 42493,
+  "portal_id": "298307",
+  "tip": "DECIZIE"
+ }
+}
