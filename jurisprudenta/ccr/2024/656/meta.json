@@ -1,0 +1,243 @@
+{
+ "key": "dcc-656-2024",
+ "label": "Decizia CCR nr. 656/2024",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "656",
+ "date": "2024-11-21",
+ "year": "2024",
+ "heading": "DECIZIA nr. 656 din 21 noiembrie 2024",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 2 alin. (1), ale art. 3 alin. (1), ale art. 17 și ale art. 50 lit. a) din Legea nr. 333/2003 privind paza obiectivelor, bunurilor, valorilor și protecția persoanelor",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "487",
+  "bis": false,
+  "date": "2025-05-26",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "7.781/256/2020",
+  "1.459D/2021",
+  "8.294/256/2020",
+  "8.713/256/2020"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 333/2003",
+    "number": "333",
+    "year": "2003",
+    "path": "lege/2003/333"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "17",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "50",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepția de neconstituționalitate a dispozițiilor art. 2 alin. (1), ale art. 3 alin. (1), ale art. 17 și ale art. 50 lit. a) din Legea nr. 333/2003 privind paza obiectivelor, bunurilor, valorilor și protecția persoanelor, excepție ridicată de Societatea Grup Feroviar Român - S.A. din București în dosarele nr. 7.781/256/2020, nr. 7.782/256/2020, nr. 7.943/256/2020, nr. 7.944/256/2020, nr. 8.294/256/2020, nr. 8.713/256/2020, nr. 8.714/256/2020/a1, nr. 7.783/256/2020, nr. 7.945/256/2020, nr. 709/256/2021, nr. 710/256/2021, nr. 7.780/256/2020, nr. 1.747/256/2021, nr. 2.888/256/2021, nr. 2.889/256/2021, nr. 123/256/2021, nr. 2.133/256/2021, nr. 2.888/256/2021, nr. 2.238/256/2021, nr. 3.441/256/2021, nr. 2.134/256/2021, nr. 2.739/256/2021, nr. 2.742/256/2021, nr. 2.743/256/2021, nr. 4.154/256/2021, nr. 2.237/256/2021, nr. 2.135/256/2021, nr. 5.277/256/2021, nr. 2.239/256/2021, nr. 3.726/256/2021, nr. 3.727/256/2021, nr. 4.008/256/2021, nr. 2.740/256/2021, nr. 4.935/256/2021, nr. 4.483/256/2021, nr. 5.416/256/2021, nr. 4.931/256/2021, nr. 4.932/256/2021, nr. 3.724/256/2021, nr. 3.442/256/2021, nr. 4.933/256/2021, nr. 4.156/256/2021, nr. 5.066/256/2021, nr. 6.233/256/2021, nr. 4.934/256/2021, nr. 7.620/256/2021, nr. 6.105/256/2021, nr. 6.128/256/2021, nr. 4.155/256/2021/a1, nr. 6.644/256/2021, nr. 7.126/256/2021, nr. 7.127/256/2021, nr. 8.138/256/2021, nr. 7.618/256/2021, nr. 7.943/256/2021, nr. 7.942/256/2021, nr. 7.617/256/2021, nr. 7.619/256/2021, nr. 8.141/256/2021, nr. 8.140/256/2021, nr. 34/256/2022, nr. 965/256/2022, nr. 966/256/2022, nr. 1.642/256/2022, nr. 1.644/256/2022, nr. 1.645/256/2022, nr. 1.995/256/2022, nr. 1.996/256/2022, nr. 2.278/256/2022 și nr. 2.279/256/2022 ale Judecătoriei Medgidia, precum și în dosarele nr. 2.738/256/2021, nr. 7.025/118/2021, nr. 2.741/256/2021, nr. 5.704/256/2021, nr. 4.482/256/2021, nr. 5.418/256/2021, nr. 6.645/256/2021, nr. 4.936/256/2021, nr. 5.417/256/2021 și nr. 3.725/256/2021 ale Tribunalului Constanța - Secția de contencios administrativ și fiscal.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Judecătoriei Medgidia și Tribunalului Constanța - Secția de contencios administrativ și fiscal și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 333/2003",
+    "number": "333",
+    "year": "2003",
+    "path": "lege/2003/333"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "17",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "50",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "5",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 289/2005",
+    "number": "289",
+    "year": "2005",
+    "path": "lege/2005/289"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârii Guvernului nr. 203/1994",
+    "number": "203",
+    "year": "1994",
+    "path": "hg/1994/203"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 31/1990",
+    "number": "31",
+    "year": "1990",
+    "path": "lege/1990/31"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2025-05-26",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/298310",
+  "text_sha256": "e0725490eca8cb854cbbcd8ffd7bef424b395189dcc9cf62ab1d815f762bb3fc",
+  "catalogue_sha256": "e0725490eca8cb854cbbcd8ffd7bef424b395189dcc9cf62ab1d815f762bb3fc",
+  "fetched": "2026-11-03T00:57:28Z",
+  "chars": 38982,
+  "portal_id": "298310",
+  "tip": "DECIZIE"
+ }
+}
