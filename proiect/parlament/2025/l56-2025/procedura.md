@@ -14,6 +14,7 @@ Initiator: Guvernul României.
 - 2025-04-01: documents published: Raport comisie sesizată pe fond
 - 2025-04-07: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților
 - 2025-04-14: registered at the Chamber of Deputies
+- 2025-05-27: documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -30,3 +31,4 @@ Initiator: Guvernul României.
 - 2025-04-01: Raport comisie sesizată pe fond (CR): [cr-959c659c.md](cr-959c659c.md); official file https://www.senat.ro/legis/PDF/2025/25L056CR.PDF
 - 2025-04-07: Forma adoptată de Senat (FS): [fs-e4117b1c.md](fs-e4117b1c.md); official file https://www.senat.ro/legis/PDF/2025/25L056FS.PDF
 - 2025-04-07: Adresă către Camera Deputaților (AM): [am-1878b4ab.md](am-1878b4ab.md); official file https://www.senat.ro/legis/PDF/2025/25L056AM.PDF
+- 2025-05-27: Document (TA): [ta-5ef6165c.md](ta-5ef6165c.md); official file https://www.senat.ro/legis/PDF/2025/25L056TA.PDF (its day is not given by the bill file: shown from the last stage held)
