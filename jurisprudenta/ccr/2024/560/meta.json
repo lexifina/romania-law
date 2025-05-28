@@ -1,0 +1,234 @@
+{
+ "key": "dcc-560-2024",
+ "label": "Decizia CCR nr. 560/2024",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "560",
+ "date": "2024-10-29",
+ "year": "2024",
+ "heading": "DECIZIA nr. 560 din 29 octombrie 2024",
+ "subtitle": "referitoare la excepția de neconstituționalitate a sintagmei \"și pentru care decizia de admitere, de către agențiile pentru plăți și inspecție socială județene, respectiv a municipiului București, nu a fost emisă până la această dată\" din cuprinsul art. II din Legea nr. 89/2019 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 111/2010 privind concediul și indemnizația lunară pentru creșterea copiilor, precum și pentru stabilirea unor măsuri privind recuperarea debitelor reprezentând indemnizație pentru creșterea copilului",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "499",
+  "bis": false,
+  "date": "2025-05-28",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "33.970/3/2019",
+  "2.163D/2020"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 89/2019",
+    "number": "89",
+    "year": "2019",
+    "path": "lege/2019/89"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite excepția de neconstituționalitate formulată de Otilia Ghenici în Dosarul nr. 33.970/3/2019 al Tribunalului București - Secția a II-a contencios administrativ și fiscal și constată că sintagma „și pentru care decizia de admitere, de către agențiile pentru plăți și inspecție socială județene, respectiv a municipiului București, nu a fost emisă până la această dată“ din cuprinsul art. II din Legea nr. 89/2019 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 111/2010 privind concediul și indemnizația lunară pentru creșterea copiilor, precum și pentru stabilirea unor măsuri privind recuperarea debitelor reprezentând indemnizație pentru creșterea copilului este neconstituțională.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică celor două Camere ale Parlamentului, Guvernului și Tribunalului București - Secția a II-a contencios administrativ și fiscal și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 89/2019",
+    "number": "89",
+    "year": "2019",
+    "path": "lege/2019/89"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 18
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "49",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 111/2010",
+    "number": "111",
+    "year": "2010",
+    "path": "oug/2010/111"
+   },
+   "articles": [
+    {
+     "art": "9-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 17
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 82/2017",
+    "number": "82",
+    "year": "2017",
+    "path": "oug/2017/82"
+   },
+   "articles": [
+    {
+     "art": "IV",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 61/1993",
+    "number": "61",
+    "year": "1993",
+    "path": "lege/1993/61"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2025-05-28",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/298402",
+  "text_sha256": "c58249c251ecf0f90d05437c021eaa7bd0ac1113faadba4c961350084abfbc93",
+  "catalogue_sha256": "c58249c251ecf0f90d05437c021eaa7bd0ac1113faadba4c961350084abfbc93",
+  "fetched": "2026-11-03T00:57:15Z",
+  "chars": 32725,
+  "portal_id": "298402",
+  "tip": "DECIZIE"
+ }
+}
