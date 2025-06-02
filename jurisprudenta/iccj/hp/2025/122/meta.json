@@ -1,0 +1,155 @@
+{
+ "key": "iccj-hp-122-2025",
+ "label": "Decizia ÎCCJ nr. 122/2025 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "122",
+ "date": "2025-04-07",
+ "year": "2025",
+ "heading": "DECIZIA nr. 122 din 7 aprilie 2025",
+ "subtitle": "referitoare la posibilitatea recalculării indemnizațiilor de încadrare cuvenite reclamanților, conform Legii nr. 71/2015 și Ordonanței de urgență a Guvernului nr. 20/2016",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "512",
+  "bis": false,
+  "date": "2025-06-02",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.483/1/2024",
+  "899/93/2023"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 20/2016",
+    "number": "20",
+    "year": "2016",
+    "path": "oug/2016/20"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Respinge ca inadmisibilă, sesizarea formulată de Tribunalul Ilfov - Secția civilă în Dosarul nr. 899/93/2023, în vederea lămuririi următoarei probleme de drept: posibilitatea recalculării indemnizațiilor de încadrare cuvenite reclamanților, conform Legii nr. 71/2015 și Ordonanței de urgență a Guvernului nr. 20/2016, începând cu 9 aprilie 2015 și în continuare, după intrarea în vigoare a Legii-cadru nr. 153/2017, prin luarea în considerare a unui coeficient de multiplicare de 23,000, în raport cu perioadele în care fiecare dintre reclamanți a îndeplinit funcții de conducere",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 20/2016",
+    "number": "20",
+    "year": "2016",
+    "path": "oug/2016/20"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 62/2024",
+    "number": "62",
+    "year": "2024",
+    "path": "oug/2024/62"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 27/2006",
+    "number": "27",
+    "year": "2006",
+    "path": "oug/2006/27"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "517",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-06-02",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/298480",
+  "text_sha256": "c77e6f2a2dcebc3c1341bd75ea6f9f7d07c63f3ff5084531990bc434d52b3ce3",
+  "catalogue_sha256": "c77e6f2a2dcebc3c1341bd75ea6f9f7d07c63f3ff5084531990bc434d52b3ce3",
+  "fetched": "2026-11-03T00:57:17Z",
+  "chars": 17253,
+  "portal_id": "298480",
+  "tip": "DECIZIE"
+ }
+}
