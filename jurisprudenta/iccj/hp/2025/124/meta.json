@@ -1,0 +1,226 @@
+{
+ "key": "iccj-hp-124-2025",
+ "label": "Decizia ÎCCJ nr. 124/2025 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "124",
+ "date": "2025-04-07",
+ "year": "2025",
+ "heading": "DECIZIA nr. 124 din 7 aprilie 2025",
+ "subtitle": "referitoare la beneficierea de către judecători, în temeiul art. 38-40, 120, 123 din Codul muncii cu aplicarea art. 1.345 din Codul civil, de contravaloarea muncii suplimentare prestate raportat la indemnizația din ultimii 3 ani anterior formulării acțiunii",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "513",
+  "bis": false,
+  "date": "2025-06-02",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.611/1/2024",
+  "3.032/1/2024",
+  "870/120/2023",
+  "1.002/121/2023"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "1345",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul muncii",
+    "path": "lege/2003/53",
+    "slug": "codul-muncii"
+   },
+   "articles": [
+    {
+     "art": "123",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Tribunalul Dâmbovița în Dosarul nr. 870/120/2023, în vederea lămuririi următoarei probleme de drept:",
+  "Dacă, în cadrul familiei ocupaționale „Justiție“, judecătorii și asistenții judiciari pot beneficia, în temeiul art. 38 - 40, 120, 123 din Codul muncii cu aplicarea art. 1.345 din Codul civil, de contravaloarea muncii suplimentare prestate raportat la indemnizația din ultimii 3 ani anterior formulării acțiunii.",
+  "Respinge, ca inadmisibilă, sesizarea formulată de Tribunalul Galați în Dosarul nr. 1.002/121/2023, în vederea lămuririi următoarei probleme de drept: Dacă perioada de asigurare a permanenței inactive de către magistratul aflat la dispoziția angajatorului, fără să îndeplinească nicio activitate, dar putând în orice moment să i se ceară să își îndeplinească atribuțiile, reprezintă muncă suplimentară în accepțiunea de timp de lucru stabilit prin prevederile Directivei 2003/88 CE a Parlamentului European, remunerarea magistratului urmând a fi făcută prin coroborarea art. 8 alin. (1) din cap. VIII din anexa nr. V la Legea-cadru nr. 153/2017 cu art. 123 alin. (1) din Codul muncii.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "1345",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul muncii",
+    "path": "lege/2003/53",
+    "slug": "codul-muncii"
+   },
+   "articles": [
+    {
+     "art": "123",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "120",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "112",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 62/2024",
+    "number": "62",
+    "year": "2024",
+    "path": "oug/2024/62"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "517",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-06-02",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/298482",
+  "text_sha256": "4a59cb8d54c65a177f02d7795aee321fab7d23fb4b884e227c132233709ab8c8",
+  "catalogue_sha256": "4a59cb8d54c65a177f02d7795aee321fab7d23fb4b884e227c132233709ab8c8",
+  "fetched": "2026-11-03T00:57:17Z",
+  "chars": 29347,
+  "portal_id": "298482",
+  "tip": "DECIZIE"
+ }
+}
