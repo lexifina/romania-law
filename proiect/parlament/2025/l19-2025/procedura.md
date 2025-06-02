@@ -16,6 +16,7 @@ Initiator: Guvernul României.
 - 2025-02-24: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților
 - 2025-02-26: registered at the Chamber of Deputies
 - 2025-05-28: adopted by the Chamber of Deputies
+- 2025-06-02: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 
 ## Documents
 
@@ -29,3 +30,5 @@ Initiator: Guvernul României.
 - 2025-02-19: Raport comisie sesizată pe fond (CR): [cr-2fa32c7f.md](cr-2fa32c7f.md); official file https://www.senat.ro/legis/PDF/2025/25L019CR.PDF
 - 2025-02-24: Forma adoptată de Senat (FS): [fs-4b884ee9.md](fs-4b884ee9.md); official file https://www.senat.ro/legis/PDF/2025/25L019FS.PDF
 - 2025-02-24: Adresă către Camera Deputaților (AM): [am-e3b26ce6.md](am-e3b26ce6.md); official file https://www.senat.ro/legis/PDF/2025/25L019AM.PDF
+- 2025-06-02: Adresă privind sesizarea CCR (AXS): [axs-e1dd5e1c.md](axs-e1dd5e1c.md); official file https://www.senat.ro/legis/PDF/2025/25L019AXS.PDF
+- 2025-06-02: Forma trimisă la promulgare (LP): [lp-f6c24e03.md](lp-f6c24e03.md); official file https://www.senat.ro/legis/PDF/2025/25L019LP.PDF
