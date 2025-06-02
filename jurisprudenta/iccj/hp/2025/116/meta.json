@@ -1,0 +1,178 @@
+{
+ "key": "iccj-hp-116-2025",
+ "label": "Decizia ÎCCJ nr. 116/2025 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "116",
+ "date": "2025-03-31",
+ "year": "2025",
+ "heading": "DECIZIA nr. 116 din 31 martie 2025",
+ "subtitle": "referitoare la atribuțiile consilierului de integritate, astfel cum acestea sunt prevăzute și definite de Ordinul ministrului justiției nr. 2.127/C/2020 privind organizarea și desfășurarea activităților de prevenire a corupției și de educație pentru promovarea integrității în cadrul Administrației Naționale a Penitenciarelor și al unităților subordonate",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "512",
+  "bis": false,
+  "date": "2025-06-02",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.488/1/2024",
+  "4.603/111/2023"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Tribunalul Bihor - Secția a III-a contencios administrativ și fiscal în Dosarul nr. 4.603/111/2023, în vederea pronunțării unei hotărâri prealabile cu privire la următoarea chestiune de drept: Dacă atribuțiile consilierului de integritate, astfel cum acestea sunt prevăzute și definite de Ordinul ministrului justiției nr. 2.127/C/2020 privind organizarea și desfășurarea activităților de prevenire a corupției și de educație pentru promovarea integrității în cadrul Administrației Naționale a Penitenciarelor și al unităților subordonate, reprezintă activități de prevenire și combatere a corupției în sensul dispozițiilor art. 14 alin. (3) din capitolul II al anexei nr. VI la Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, cu modificările și completările ulterioare, pentru care se aplică majorarea cu 12,5% a salariului de funcție/salariului de bază, având în vedere că prin dispozițiile art. 26 alin. (3), art. 27 și art. 137 din Normele metodologice de aplicare a Legii-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice pentru personalul din sistemul administrației penitenciare, aprobate prin Ordinul ministrului justiției nr. 2.415/C/2018, cu modificările și completările ulterioare, nu s-au stabilit expres unitățile, categoriile de personal, condițiile, criteriile și mărimea acestei majorări.",
+  "Obligatorie, potrivit art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 62/2024",
+    "number": "62",
+    "year": "2024",
+    "path": "oug/2024/62"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 18
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul ministrului justiției nr. 2.415/2018",
+    "number": "2415",
+    "year": "2018"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul ministrului justiției nr. 2.127/2020",
+    "number": "2127",
+    "year": "2020"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "22",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul administrativ",
+    "path": "oug/2019/57",
+    "slug": "codul-administrativ"
+   },
+   "articles": [
+    {
+     "art": "536",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-06-02",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/298479",
+  "text_sha256": "4973ca987740ad5b4ef7210804c99e8a4baf581192b8cd0f7f21c5e4b34b6274",
+  "catalogue_sha256": "4973ca987740ad5b4ef7210804c99e8a4baf581192b8cd0f7f21c5e4b34b6274",
+  "fetched": "2026-11-03T00:57:17Z",
+  "chars": 28924,
+  "portal_id": "298479",
+  "tip": "DECIZIE"
+ }
+}
