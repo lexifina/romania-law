@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2025-05-07: adopted by the Chamber of Deputies
 - 2025-05-14: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-05-16: sent for promulgation
+- 2025-06-03: promulgated, becomes Legea nr. 89/2025; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -33,3 +34,5 @@ Initiator: Guvernul României.
 - 2024-03-18: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L134AM.PDF
 - 2025-05-14: Adresă privind sesizarea CCR (AXS): [axs-94055b24.md](axs-94055b24.md); official file https://www.senat.ro/legis/PDF/2024/24L134AXS.PDF
 - 2025-05-14: Forma trimisă la promulgare (LP): [lp-cb2078ab.md](lp-cb2078ab.md); official file https://www.senat.ro/legis/PDF/2024/24L134LP.PDF
+- 2025-06-03: Decret de promulgare (DP): [dp-8ce96844.md](dp-8ce96844.md); official file https://www.senat.ro/legis/PDF/2024/24L134DP.PDF
+- 2025-06-03: Forma promulgată (FP): [fp-a09d13a0.md](fp-a09d13a0.md); official file https://www.senat.ro/legis/PDF/2024/24L134FP.PDF
