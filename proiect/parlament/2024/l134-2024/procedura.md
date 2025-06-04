@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2025-05-14: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-05-16: sent for promulgation
 - 2025-06-03: promulgated, becomes Legea nr. 89/2025; documents published: Decret de promulgare, Forma promulgată
+- 2025-06-04: published in the Monitorul Oficial
 
 ## Documents
 
