@@ -1,0 +1,9 @@
+# HCL Șipote nr. 62/2025
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+- Council: Consiliul Local al Comunei Șipote
+- Decision: nr. 62/2025
+- Adopted: 2025-06-05
+- Title: privind aprobarea documentației tehnico-economice la faza SF,a indicatorilor tehnico-economici și a cheltuielilor proiectului pentru obiectivul de investiții “Construire scoală și grădiniță și desfiintare corpuri C1, C2, C3, C4, C5 in comuna Șipote, judetul Iași” propus pentru finanțare prin Programul Regional Nord-Est 2021-2027 PRIORITATEA P6 NORD-EST – O REGIUNE EDUCATĂ ;
+- Record: https://emol.ro/sipote-is/registru-hcl/211643
