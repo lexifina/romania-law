@@ -1,0 +1,273 @@
+{
+ "key": "iccj-hp-94-2025",
+ "label": "Decizia ÎCCJ nr. 94/2025 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "94",
+ "date": "2025-03-17",
+ "year": "2025",
+ "heading": "DECIZIA nr. 94 din 17 martie 2025",
+ "subtitle": "referitoare la interpretarea dispozițiilor art. 36 și art. 39 alin. (1) și alin. (4) din Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, cu modificările și completările ulterioare, raportat și la principiile reglementate de art. 6 din aceeași lege",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "526",
+  "bis": false,
+  "date": "2025-06-05",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.369/1/2024",
+  "4.998/107/2023",
+  "308/91/2024",
+  "2.793/1/2024"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "36",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "39",
+     "alin": [
+      "1",
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 81/2023",
+    "number": "81",
+    "year": "2023",
+    "path": "oug/2023/81"
+   },
+   "articles": [],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Tribunalul Alba - Secția a II-a civilă, de contencios administrativ, fiscal și de insolvență în Dosarul nr. 4.998/107/2023, în vederea pronunțării unei hotărâri prealabile cu privire la următoarele chestiuni de drept:",
+  "Dacă, în interpretarea dispozițiilor art. 36 și art. 39 alin. (1) și alin. (4) din Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, cu modificările și completările ulterioare, raportat și la principiile reglementate de art. 6 din aceeași lege, stabilirea nivelului maxim de salarizare al personalului încadrat în cadrul unei direcții generale regionale a finanțelor publice se poate realiza la nivelul maxim aflat în plată pentru o funcție similară din cadrul Agenției Naționale de Administrare Fiscală și al tuturor direcțiilor regionale ale finanțelor publice din țară, inclusiv pentru perioada anterioară intrării în vigoare a Ordonanței de urgență a Guvernului nr. 81/2023 privind consolidarea capacității instituționale a Ministerului Finanțelor, exercitarea controlului financiar de specialitate al statului, pentru unele reglementări specifice, precum și pentru modificarea și completarea unor acte normative, cu completările ulterioare.",
+  "Dacă, în interpretarea dispozițiilor art. 36 și art. 39 alin. (1) și alin. (4) din Legea-cadru nr. 153/2017, raportat și la principiile reglementate de art. 6 din aceeași lege, stabilirea nivelului maxim de salarizare al personalului încadrat în cadrul Autorității Vamale Române se poate realiza la nivelul maxim aflat în plată pentru o funcție similară din cadrul Agenției Naționale de Administrare Fiscală și al tuturor direcțiilor regionale ale finanțelor publice din țară, inclusiv pentru perioada anterioară intrării în vigoare a Ordonanței de urgență a Guvernului nr. 81/2023.",
+  "Respinge, ca inadmisibilă, sesizarea formulată de Tribunalul Vrancea - Secția a II-a civilă și de contencios administrativ și fiscal în Dosarul nr. 308/91/2024, în vederea pronunțării unei hotărâri prealabile cu privire la următoarea chestiune de drept:",
+  "Dacă, în interpretarea dispozițiilor art. 39 alin. (1) și alin. (4) din Legea-cadru nr. 153/2017 raportat și la principiile reglementate de art. 6 din aceeași lege, reclamanta - funcționar public în cadrul Agenției Naționale de Administrare Fiscală - Direcția Generală Antifraudă Fiscală are dreptul la salariul maxim în plată în cadrul autorității, cu luarea în considerare a majorărilor salariale stabilite prin hotărâri judecătorești pentru perioada anterioară intrării în vigoare a Ordonanței de urgență a Guvernului nr. 81/2023.",
+  "Obligatorie, potrivit art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 62/2024",
+    "number": "62",
+    "year": "2024",
+    "path": "oug/2024/62"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "36",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "39",
+     "alin": [
+      "1",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": [
+      "a",
+      "b"
+     ]
+    }
+   ],
+   "mentions": 19
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 81/2023",
+    "number": "81",
+    "year": "2023",
+    "path": "oug/2023/81"
+   },
+   "articles": [
+    {
+     "art": "XI",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituția României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "120",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 57/2015",
+    "number": "57",
+    "year": "2015",
+    "path": "oug/2015/57"
+   },
+   "articles": [
+    {
+     "art": "3-1",
+     "alin": [
+      "1-2",
+      "1",
+      "1-3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 137/2000",
+    "number": "137",
+    "year": "2000",
+    "path": "og/2000/137"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2",
+      "3"
+     ],
+     "lit": [
+      "e"
+     ]
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-06-05",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/298871",
+  "text_sha256": "941b030353f2226d251b54db9d43e0b43f6476466ee8cf0620ec54cfe309fce6",
+  "catalogue_sha256": "941b030353f2226d251b54db9d43e0b43f6476466ee8cf0620ec54cfe309fce6",
+  "fetched": "2026-11-03T00:57:04Z",
+  "chars": 45927,
+  "portal_id": "298871",
+  "tip": "DECIZIE"
+ }
+}
