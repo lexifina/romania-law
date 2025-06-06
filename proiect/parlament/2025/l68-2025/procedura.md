@@ -17,6 +17,7 @@ Initiator: Membri ai Parlamentului.
 - 2025-05-12: registered at the Chamber of Deputies
 - 2025-05-21: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-05-26: sent for promulgation
+- 2025-06-06: promulgated, becomes Legea nr. 100/2025; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -29,3 +30,5 @@ Initiator: Membri ai Parlamentului.
 - 2025-04-30: Adresă către Camera Deputaților (AM): [am-2eef3b8c.md](am-2eef3b8c.md); official file https://www.senat.ro/legis/PDF/2025/25L068AM.PDF
 - 2025-05-21: Adresă privind sesizarea CCR (AXS): [axs-2d04d06f.md](axs-2d04d06f.md); official file https://www.senat.ro/legis/PDF/2025/25L068AXS.PDF
 - 2025-05-21: Forma trimisă la promulgare (LP): [lp-f8049565.md](lp-f8049565.md); official file https://www.senat.ro/legis/PDF/2025/25L068LP.PDF
+- 2025-06-06: Decret de promulgare (DP): [dp-63e50629.md](dp-63e50629.md); official file https://www.senat.ro/legis/PDF/2025/25L068DP.PDF
+- 2025-06-06: Forma promulgată (FP): [fp-dffd179c.md](fp-dffd179c.md); official file https://www.senat.ro/legis/PDF/2025/25L068FP.PDF
