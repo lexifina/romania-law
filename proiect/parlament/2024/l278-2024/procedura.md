@@ -16,6 +16,7 @@ Initiator: Guvernul României.
 - 2025-05-13: adopted by the Chamber of Deputies
 - 2025-05-21: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-05-23: sent for promulgation
+- 2025-06-06: promulgated, becomes Legea nr. 94/2025; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -30,3 +31,5 @@ Initiator: Guvernul României.
 - 2024-06-03: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L278AM.PDF
 - 2025-05-21: Adresă privind sesizarea CCR (AXS): [axs-d7c1eca9.md](axs-d7c1eca9.md); official file https://www.senat.ro/legis/PDF/2024/24L278AXS.PDF
 - 2025-05-21: Forma trimisă la promulgare (LP): [lp-6e9a04be.md](lp-6e9a04be.md); official file https://www.senat.ro/legis/PDF/2024/24L278LP.PDF
+- 2025-06-06: Decret de promulgare (DP): [dp-494b8343.md](dp-494b8343.md); official file https://www.senat.ro/legis/PDF/2024/24L278DP.PDF
+- 2025-06-06: Forma promulgată (FP): [fp-05297ec6.md](fp-05297ec6.md); official file https://www.senat.ro/legis/PDF/2024/24L278FP.PDF
