@@ -20,6 +20,7 @@ Initiator: Membri ai Parlamentului.
 - 2025-05-07: adopted by the Chamber of Deputies
 - 2025-05-14: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-05-19: sent for promulgation
+- 2025-06-06: promulgated, becomes Legea nr. 91/2025; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -36,3 +37,5 @@ Initiator: Membri ai Parlamentului.
 - 2024-06-25: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L308AM.PDF
 - 2025-05-14: Adresă privind sesizarea CCR (AXS): [axs-d7856fa9.md](axs-d7856fa9.md); official file https://www.senat.ro/legis/PDF/2024/24L308AXS.PDF
 - 2025-05-14: Forma trimisă la promulgare (LP): [lp-b4e1ab81.md](lp-b4e1ab81.md); official file https://www.senat.ro/legis/PDF/2024/24L308LP.PDF
+- 2025-06-06: Decret de promulgare (DP): [dp-adddfdab.md](dp-adddfdab.md); official file https://www.senat.ro/legis/PDF/2024/24L308DP.PDF
+- 2025-06-06: Forma promulgată (FP): [fp-451d4e13.md](fp-451d4e13.md); official file https://www.senat.ro/legis/PDF/2024/24L308FP.PDF
