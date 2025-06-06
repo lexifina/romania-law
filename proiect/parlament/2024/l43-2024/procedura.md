@@ -20,6 +20,7 @@ Initiator: Membri ai Parlamentului.
 - 2025-05-13: adopted by the Chamber of Deputies
 - 2025-05-21: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-05-26: sent for promulgation
+- 2025-06-06: promulgated, becomes Legea nr. 99/2025; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -36,3 +37,5 @@ Initiator: Membri ai Parlamentului.
 - 2024-03-11: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L043AM.PDF
 - 2025-05-21: Adresă privind sesizarea CCR (AXS): [axs-33ffbc2f.md](axs-33ffbc2f.md); official file https://www.senat.ro/legis/PDF/2024/24L043AXS.PDF
 - 2025-05-21: Forma trimisă la promulgare (LP): [lp-8269275a.md](lp-8269275a.md); official file https://www.senat.ro/legis/PDF/2024/24L043LP.PDF
+- 2025-06-06: Decret de promulgare (DP): [dp-35d062e5.md](dp-35d062e5.md); official file https://www.senat.ro/legis/PDF/2024/24L043DP.PDF
+- 2025-06-06: Forma promulgată (FP): [fp-6a30b7ae.md](fp-6a30b7ae.md); official file https://www.senat.ro/legis/PDF/2024/24L043FP.PDF
