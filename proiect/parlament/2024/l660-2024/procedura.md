@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2025-05-13: adopted by the Chamber of Deputies
 - 2025-05-21: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-05-23: sent for promulgation
+- 2025-06-06: promulgated, becomes Legea nr. 97/2025; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -33,3 +34,5 @@ Initiator: Guvernul României.
 - 2025-02-12: Adresă către Camera Deputaților (AM): [am-1576ad6e.md](am-1576ad6e.md); official file https://www.senat.ro/legis/PDF/2024/24L660AM.PDF
 - 2025-05-21: Adresă privind sesizarea CCR (AXS): [axs-27ab8ce2.md](axs-27ab8ce2.md); official file https://www.senat.ro/legis/PDF/2024/24L660AXS.PDF
 - 2025-05-21: Forma trimisă la promulgare (LP): [lp-d0ab0932.md](lp-d0ab0932.md); official file https://www.senat.ro/legis/PDF/2024/24L660LP.PDF
+- 2025-06-06: Decret de promulgare (DP): [dp-41ec1b01.md](dp-41ec1b01.md); official file https://www.senat.ro/legis/PDF/2024/24L660DP.PDF
+- 2025-06-06: Forma promulgată (FP): [fp-236206d3.md](fp-236206d3.md); official file https://www.senat.ro/legis/PDF/2024/24L660FP.PDF
