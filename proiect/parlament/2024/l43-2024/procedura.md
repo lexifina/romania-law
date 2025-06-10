@@ -21,6 +21,7 @@ Initiator: Membri ai Parlamentului.
 - 2025-05-21: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-05-26: sent for promulgation
 - 2025-06-06: promulgated, becomes Legea nr. 99/2025; documents published: Decret de promulgare, Forma promulgată
+- 2025-06-10: published in the Monitorul Oficial
 
 ## Documents
 
