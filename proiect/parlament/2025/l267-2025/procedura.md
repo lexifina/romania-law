@@ -1,0 +1,17 @@
+# Propunere legislativă L267/2025
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Propunere legislativă privind reglementarea și interzicerea dispozitivelor electronice pentru vapare de unică folosință
+
+Initiator: Membri ai Parlamentului.
+
+## Stages published so far
+
+- 2025-06-10: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
+
+## Documents
+
+- 2025-06-10: Adresă de înaintare a inițiativei (AD): [ad-ffd0af3a.md](ad-ffd0af3a.md); official file https://www.senat.ro/legis/PDF/2025/25L267AD.PDF
+- 2025-06-10: Forma inițiatorului (FG): [fg-848fd548.md](fg-848fd548.md); official file https://www.senat.ro/legis/PDF/2025/25L267FG.PDF
+- 2025-06-10: Expunere de motive (EM): [em-614db2c1.md](em-614db2c1.md); official file https://www.senat.ro/legis/PDF/2025/25L267EM.PDF
