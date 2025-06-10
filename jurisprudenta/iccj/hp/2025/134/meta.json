@@ -1,0 +1,250 @@
+{
+ "key": "iccj-hp-134-2025",
+ "label": "Decizia ÎCCJ nr. 134/2025 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "134",
+ "date": "2025-04-07",
+ "year": "2025",
+ "heading": "DECIZIA nr. 134 din 7 aprilie 2025",
+ "subtitle": "referitoare la Legea nr. 11/2024 privind statutul grefierilor și al altor categorii de personal care ocupă funcții de specialitate în cadrul instanțelor judecătorești, al parchetelor de pe lângă acestea și al Institutului Național de Expertize Criminalistice",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "535",
+  "bis": false,
+  "date": "2025-06-10",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "3.061/1/2024",
+  "1.023/90/2024"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 11/2024",
+    "number": "11",
+    "year": "2024",
+    "path": "lege/2024/11"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 567/2004",
+    "number": "567",
+    "year": "2004",
+    "path": "lege/2004/567"
+   },
+   "articles": [
+    {
+     "art": "69",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Tribunalul Vâlcea - Secția I civilă - Conflicte de muncă și asigurări sociale în Dosarul nr. 1.023/90/2024, în vederea pronunțării unei hotărâri prealabile pentru dezlegarea următoarei chestiuni de drept:",
+  "1. Dacă în urma declarării neconstituționalității în ansamblul său a Legii nr. 11/2024 privind statutul grefierilor și al altor categorii de personal care ocupă funcții de specialitate în cadrul instanțelor judecătorești, al parchetelor de pe lângă acestea și al Institutului Național de Expertize Criminalistice și a reintrării în vigoare a dispozițiilor Legii nr. 567/2004 privind statutul personalului auxiliar de specialitate al instanțelor judecătorești și al parchetelor de pe lângă acestea și al personalului care funcționează în cadrul Institutului Național de Expertize Criminalistice, cu modificările și completările ulterioare, dreptul subiectiv prevăzut de art. 69 alin. (1) din acest ultim act normativ a redevenit sau nu actual pentru beneficiarii pensiei de serviciu și dacă măsura suspendării prevăzută de actele normative prin care s-a dispus, în mod succesiv, neacordarea indemnizației de pensionare prevăzute de art. 69 alin. (1) din Legea nr. 567/2004 redevine sau nu aplicabilă;",
+  "2. Dacă prin măsura suspendării succesive a dreptului prevăzut de art. 69 alin. (1) din Legea nr. 567/2004 până în momentul abrogării acestuia, cu consecința neacordării lui, s-au încălcat dispozițiile art. 1 din Protocolul adițional nr. 1 la Convenția pentru apărarea drepturilor omului și a libertăților fundamentale;",
+  "3. Dacă, în acordarea dreptului prevăzut de art. 69 din Legea nr. 567/2004, există discriminare între personalul auxiliar de specialitate beneficiar al pensiei de serviciu și moștenitorii personalului auxiliar de specialitate decedat.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 62/2024",
+    "number": "62",
+    "year": "2024",
+    "path": "oug/2024/62"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 11/2024",
+    "number": "11",
+    "year": "2024",
+    "path": "lege/2024/11"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 567/2004",
+    "number": "567",
+    "year": "2004",
+    "path": "lege/2004/567"
+   },
+   "articles": [
+    {
+     "art": "69",
+     "alin": [
+      "1",
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 21
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul adițional nr. 1",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul muncii",
+    "path": "lege/2003/53",
+    "slug": "codul-muncii"
+   },
+   "articles": [
+    {
+     "art": "269",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "95",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 330/2009",
+    "number": "330",
+    "year": "2009",
+    "path": "lege/2009/330"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 238/1998",
+    "number": "238",
+    "year": "1998",
+    "path": "lege/1998/238"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-06-10",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/298953",
+  "text_sha256": "a7a61f505394b060cd1630c616f963e8bb9448e494fab62bf57955958c1d886c",
+  "catalogue_sha256": "a7a61f505394b060cd1630c616f963e8bb9448e494fab62bf57955958c1d886c",
+  "fetched": "2026-11-03T00:57:01Z",
+  "chars": 34849,
+  "portal_id": "298953",
+  "tip": "DECIZIE"
+ }
+}
