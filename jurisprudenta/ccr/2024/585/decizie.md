@@ -1,0 +1,41 @@
+# DECIZIA nr. 585 din 31 octombrie 2024
+referitoare la excepția de neconstituționalitate a dispozițiilor art. 351 din Codul penal
+Marian Enache - președinte
+Mihaela Ciochină - judecător
+Cristian Deliorga - judecător
+Laura-Iuliana Scântei - judecător
+Gheorghe Stan - judecător
+Livia Doina Stanciu - judecător
+Elena-Simina Tănăsescu - judecător
+Varga Attila - judecător
+Cristina Teodora Pop - magistrat-asistent
+Cu participarea reprezentantului Ministerului Public, procuror Nicoleta-Ecaterina Eucarie.
+1. Pe rol se află soluționarea excepției de neconstituționalitate a dispozițiilor art. 351 din Codul penal, excepție ridicată de Constantin Cristian Litera în Dosarul nr. 854/57/2013* al Curții de Apel Alba Iulia - Secția penală și care formează obiectul Dosarului Curții Constituționale nr. 1.679D/2020.
+2. La apelul nominal lipsesc părțile. Procedura de înștiințare este legal îndeplinită.
+3. Cauza fiind în stare de judecată, președintele Curții acordă cuvântul reprezentantului Ministerului Public, care pune concluzii de respingere a excepției de neconstituționalitate, în principal, ca inadmisibilă. În acest sens se susține că autorul excepției raportează dispozițiile legale criticate la un alt text din cuprinsul Codului penal, și nu la dispoziții din cuprinsul Constituției. Astfel, se arată că autorul face o paralelă între art. 351 din Codul penal și art. 348 din Codul penal, arătând că, deși cele două infracțiuni au același element material al laturii obiective, textul criticat reglementează un regim sancționator mai sever.
+4. În subsidiar, pe fondul excepției de neconstituționalitate, se solicită respingerea acesteia, ca neîntemeiată, fiind invocate soluția și considerentele deciziilor nr. 550 din 26 septembrie 2019 și nr. 44 din 30 ianuarie 2024.
+CURTEA, având în vedere actele și lucrările dosarului, constată următoarele:
+5. Prin Încheierea din 29 septembrie 2020, pronunțată în Dosarul nr. 854/57/2013*, Curtea de Apel Alba Iulia - Secția penală a sesizat Curtea Constituțională cu excepția de neconstituționalitate a dispozițiilor art. 351 din Codul penal, excepție ridicată de Constantin Cristian Litera într-o cauză având ca obiect soluționarea unei cereri de schimbare a încadrării juridice formulate de autorul excepției.
+6. În motivarea excepției de neconstituționalitate se susține, în esență, că dispozițiile art. 351 din Codul penal încalcă prevederile constituționale ale art. 16 alin. (1), întrucât reglementează un regim sancționator mai sever față de cele ale art. 348 din Codul penal, diferență de tratament juridic ce nu are o justificare obiectivă și rezonabilă, deoarece persoanele care dau bani cu dobândă fără a fi autorizate în acest sens se află în aceeași situație cu cele care exercită, fără drept, alte profesii sau activități pentru care legea cere autorizație. Se susține, totodată, că dispozițiile art. 351 din Codul penal încalcă principiul legalității incriminării și a pedepsei prin faptul că elementul material al laturii obiective a infracțiunii de camătă pe care o reglementează se suprapune cu cel al infracțiunii de exercitare fără drept a unei profesii sau activități. Se invocă în acest sens jurisprudența Curții Constituționale și jurisprudența Curții Europene a Drepturilor Omului referitoare la principiul egalității în drepturi și la principiul legalității incriminării și a pedepsei.
+7. Curtea de Apel Alba Iulia - Secția penală apreciază că excepția de neconstituționalitate este admisibilă, fără a-și exprima opinia asupra fondului acesteia, contrar dispozițiilor art. 29 alin. (4) din Legea nr. 47/1992 privind organizarea și funcționarea Curții Constituționale.
+8. Potrivit prevederilor art. 30 alin. (1) din Legea nr. 47/1992, încheierea de sesizare a fost comunicată președinților celor două Camere ale Parlamentului, Guvernului și Avocatului Poporului, pentru a-și exprima punctele de vedere asupra excepției de neconstituționalitate.
+9. Președinții celor două Camere ale Parlamentului, Guvernul și Avocatul Poporului nu au comunicat punctele lor de vedere asupra excepției de neconstituționalitate.
+CURTEA, examinând încheierea de sesizare, raportul întocmit de judecătorul-raportor, concluziile procurorului, dispozițiile legale criticate, raportate la prevederile Constituției, precum și Legea nr. 47/1992, reține următoarele:
+10. Curtea Constituțională a fost legal sesizată și este competentă, potrivit dispozițiilor art. 146 lit. d) din Constituție, precum și ale art. 1 alin. (2), ale art. 2, 3, 10 și 29 din Legea nr. 47/1992, să soluționeze excepția de neconstituționalitate.
+11. Obiectul excepției de neconstituționalitate îl constituie dispozițiile art. 351 din Codul penal, care au următorul cuprins: „Darea de bani cu dobândă, ca îndeletnicire, de către o persoană neautorizată, se pedepsește cu închisoarea de la 6 luni la 5 ani.“
+12. În opinia autorului excepției de neconstituționalitate, textul criticat contravine prevederilor constituționale ale art. 1 alin. (5) referitoare la calitatea legii, ale art. 11 alin. (1) și (2) referitoare la dreptul internațional și dreptul intern, ale art. 16 alin. (1) privind egalitatea în drepturi, ale art. 20 - Tratatele internaționale privind drepturile omului și ale art. 23 alin. (12) cu privire la legalitatea incriminării și a pedepsei, precum și prevederilor art. 7 și 14 din Convenția pentru apărarea drepturilor omului și a libertăților fundamentale cu privire la principiul legalității incriminării și a pedepsei și la interzicerea discriminării.
+13. Examinând excepția de neconstituționalitate, Curtea reține că autorul acesteia nu formulează reale critici de neconstituționalitate, ci compară regimul sancționator a două infracțiuni, respectiv cea de camătă, prevăzută la art. 351 din Codul penal, și cea de exercitare fără drept a unei profesii sau activități, prevăzută la art. 348 din Codul penal. Or, Curtea Constituțională a reținut, în repetate rânduri, în jurisprudența sa, că neconstituționalitatea unei dispoziții legale nu poate fi dedusă din compararea între ele a prevederilor legale infraconstituționale, ci doar din raportarea dispozițiilor legale ce constituie obiectul controlului de constituționalitate la prevederile Constituției (a se vedea deciziile nr. 527 din 11 iulie 2017, publicată în Monitorul Oficial al României, Partea I, nr. 814 din 15 octombrie 2017, nr. 774 din 28 noiembrie 2017, publicată în Monitorul Oficial al României, Partea I, nr. 135 din 13 februarie 2018, nr. 207 din 9 aprilie 2019, publicată în Monitorul Oficial al României, Partea I, nr. 551 din 4 iulie 2019, respectiv nr. 648 din 17 octombrie 2019, publicată în Monitorul Oficial al României, Partea I, nr. 1015 din data de 17 decembrie 2019).
+14. În ceea ce privește incidența dispozițiilor art. 348 și 351 din Codul penal în cauze concrete deduse judecății, în funcție de calitatea făptuitorilor, aceasta va fi stabilită de către organele judiciare în funcție de circumstanțele fiecărei spețe. Aceste aspecte constituie însă probleme de interpretare și aplicare a dispozițiilor legale criticate, și nu probleme de constituționalitate, fiind de competența exclusivă a organelor judiciare. În ceea ce privește competența Curții Constituționale, potrivit art. 2 alin. (3) din Legea nr. 47/1992 privind organizarea și funcționarea Curții Constituționale, aceasta „se pronunță numai asupra constituționalității actelor cu privire la care a fost sesizată“.
+15. Pentru aceste motive, excepția de neconstituționalitate a dispozițiilor art. 351 din Codul penal este inadmisibilă.
+16. Pentru considerentele expuse mai sus, în temeiul art. 146 lit. d) și al art. 147 alin. (4) din Constituție, al art. 1 - 3, al art. 11 alin. (1) lit. A.d) și al art. 29 din Legea nr. 47/1992, cu unanimitate de voturi,
+CURTEA CONSTITUȚIONALĂ
+În numele legii
+DECIDE:
+Respinge, ca inadmisibilă, excepția de neconstituționalitate a dispozițiilor art. 351 din Codul penal, excepție ridicată de Constantin Cristian Litera în Dosarul nr. 854/57/2013* al Curții de Apel Alba Iulia - Secția penală.
+Definitivă și general obligatorie.
+Decizia se comunică Curții de Apel Alba Iulia - Secția penală și se publică în Monitorul Oficial al României, Partea I.
+Pronunțată în ședința din data de 31 octombrie 2024.
+PREȘEDINTELE CURȚII CONSTITUȚIONALE
+MARIAN ENACHE
+Magistrat-asistent,
+Cristina Teodora Pop
