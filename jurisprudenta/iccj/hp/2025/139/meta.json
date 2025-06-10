@@ -1,0 +1,292 @@
+{
+ "key": "iccj-hp-139-2025",
+ "label": "Decizia ÎCCJ nr. 139/2025 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "139",
+ "date": "2025-04-07",
+ "year": "2025",
+ "heading": "DECIZIA nr. 139 din 7 aprilie 2025",
+ "subtitle": "referitoare la art. 2 alin. (1) din Ordonanța de urgență a Guvernului nr. 62/2024 privind unele măsuri pentru soluționarea proceselor privind salarizarea personalului plătit din fonduri publice",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "531",
+  "bis": false,
+  "date": "2025-06-10",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.610/1/2024",
+  "1.176/120/2024"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 62/2024",
+    "number": "62",
+    "year": "2024",
+    "path": "oug/2024/62"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 71/2015",
+    "number": "71",
+    "year": "2015",
+    "path": "lege/2015/71"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 20/2016",
+    "number": "20",
+    "year": "2016",
+    "path": "oug/2016/20"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 27/2006",
+    "number": "27",
+    "year": "2006",
+    "path": "oug/2006/27"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibile, sesizările conexate formulate de Tribunalul Dâmbovița - Secția I civilă în Dosarul nr. 1.176/120/2024 și de Tribunalul Sibiu - Secția I civilă în dosarele nr. 1.499/85/2024 și nr. 486/85/2024, în vederea pronunțării unei hotărâri prealabile cu privire la următoarele chestiuni de drept: Dacă în cadrul familiei ocupaționale de funcții bugetare „Justiție“, personalul auxiliar poate beneficia de acordarea unei majorări de 10% a indemnizației de încadrare, față de cele stabilite potrivit prevederilor art. 3 alin. (4) și (7) din Ordonanța Guvernului nr. 8/2007, raportat la nivelul indemnizațiilor personalului auxiliar din cadrul Direcției Naționale Anticorupție și Direcției de Investigare a Infracțiunilor de Criminalitate Organizată și Terorism, prin aplicarea Legii nr. 71/2015 și Ordonanței de urgență a Guvernului nr. 20/2016, începând cu data intrării în vigoare a Ordonanței de urgență a Guvernului nr. 27/2006.",
+  "Dacă personalul auxiliar din cadrul instanțelor judecătorești beneficiază începând cu data intrării în vigoare a Ordonanței de urgență a Guvernului nr. 27/2006, coroborat cu momentul angajării acestora și după intrarea în vigoare a Legii-cadru nr. 153/2017, de majorarea de 10% la nivelul indemnizațiilor personalului auxiliar din cadrul Direcției Naționale Anticorupție și Direcției de Investigare a Infracțiunilor de Criminalitate Organizată și Terorism, față de drepturile salariale stabilite potrivit prevederilor art. 3 alin. (4) din Ordonanța Guvernului nr. 8/2007.",
+  "Obligatorie, potrivit art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 71/2015",
+    "number": "71",
+    "year": "2015",
+    "path": "lege/2015/71"
+   },
+   "articles": [],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 20/2016",
+    "number": "20",
+    "year": "2016",
+    "path": "oug/2016/20"
+   },
+   "articles": [],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 27/2006",
+    "number": "27",
+    "year": "2006",
+    "path": "oug/2006/27"
+   },
+   "articles": [],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "38",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": [
+      "b",
+      "a"
+     ]
+    },
+    {
+     "art": "39",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 20
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 8/2007",
+    "number": "8",
+    "year": "2007",
+    "path": "og/2007/8"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": [
+      "8"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 567/2004",
+    "number": "567",
+    "year": "2004",
+    "path": "lege/2004/567"
+   },
+   "articles": [
+    {
+     "art": "17",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 62/2024",
+    "number": "62",
+    "year": "2024",
+    "path": "oug/2024/62"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 50/1996",
+    "number": "50",
+    "year": "1996",
+    "path": "lege/1996/50"
+   },
+   "articles": [
+    {
+     "art": "19",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-06-10",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/298935",
+  "text_sha256": "9e9a63536e42c01057beaa68b00ea864855ddcd24de8514c38bd40778f3059ae",
+  "catalogue_sha256": "9e9a63536e42c01057beaa68b00ea864855ddcd24de8514c38bd40778f3059ae",
+  "fetched": "2026-11-03T00:57:06Z",
+  "chars": 43388,
+  "portal_id": "298935",
+  "tip": "DECIZIE"
+ }
+}
