@@ -17,6 +17,7 @@ Initiator: Guvernul României.
 - 2025-05-21: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-05-23: sent for promulgation
 - 2025-06-06: promulgated, becomes Legea nr. 94/2025; documents published: Decret de promulgare, Forma promulgată
+- 2025-06-10: published in the Monitorul Oficial
 
 ## Documents
 
