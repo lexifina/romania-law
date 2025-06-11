@@ -1,0 +1,12 @@
+# HCGMB nr. 178/2025
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+- Council: Consiliul General al Municipiului București
+- Decision: nr. 178/2025
+- Adopted: 2025-06-04
+- Published: 2025-06-11
+- Title: PRIVIND APROBAREA SOLICITARII CATRE CONSILIUL JUDETEAN ILFOV A PRELUNGIRII DURATEI TRECERII DIN DOMENIUL PUBLIC AL JUDETULUI ILFOV SI ADMINISTRAREA CONSILIULUI JUDETEAN ILFOV IN DOMENIUL PUBLIC AL MUNICIPIULUI BUCURESTI SI ADMINISTRAREA CONSILIULUI GENERAL AL MUNICIPIULUI BUCURESTI, A STRAZILOR SI SUPRAFETELOR DE TEREN PENTRU REALIZAREA BAZINELOR DE RETENTIE SI STATIILOR DE PREEPURARE DIN ANSAMBLUL DE LOCUINTE HENRI COANDA
+- Record: https://acteinterne.pmb.ro/legis/acteinterne/acte_int/46882
+- Document: https://doc.pmb.ro/legis/acteinterne/2025/46882/h178_25.pdf
+- Document sha256: 032b63f2b8c4c07357ef4d42304e9f011b7b8522fb09a391a7c7537dd97f320c
