@@ -1,0 +1,12 @@
+# HCGMB nr. 166/2025
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+- Council: Consiliul General al Municipiului București
+- Decision: nr. 166/2025
+- Adopted: 2025-06-04
+- Published: 2025-06-11
+- Title: PENTRU MODIFICAREA HOTARARII CONSILIULUI GENERAL AL MUNICIPIULUI BUCURESTI NR. 327/28.09.2023 PRIVIND DETALIEREA SEPARATA A CHELTUIELILOR PE CATEGORII CHELTUIELI: ELIGIBILE SI NEELIGIBILE A DEVIZULUI GENERAL NECESAR REALIZARII PROIECTULUI PNRR/2022/C5/1/A. 1/1 , NR.C5-A1-9 - “CONSOLIDARE SEISMICA SI RENOVARE ENERGETICA MODERATA CLADIRE REZIDENTIALA MULTIFAMILIALA SITUATA IN STR. BALTAGULUI, NR. 17, SECTOR 5, BUCURESTI” MODIFICA ANEXA DIN HCGMB NR. 327/2023 COMPLETEAZA HCGMB NR. 327/2023
+- Record: https://acteinterne.pmb.ro/legis/acteinterne/acte_int/46871
+- Document: https://doc.pmb.ro/legis/acteinterne/2025/46871/h166_25.pdf
+- Document sha256: cc658e9ad16e5893b5d361a1125126c4967fe8bb74f45d735ad33aeb8f2f8b09
