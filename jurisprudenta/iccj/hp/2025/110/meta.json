@@ -1,0 +1,233 @@
+{
+ "key": "iccj-hp-110-2025",
+ "label": "Decizia ÎCCJ nr. 110/2025 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "110",
+ "date": "2025-03-31",
+ "year": "2025",
+ "heading": "DECIZIA nr. 110 din 31 martie 2025",
+ "subtitle": "referitoare la acordarea sporului de 15% din salariul de bază al personalului care își desfășoară activitatea prin acordarea de servicii de îngrijire la domiciliu pentru persoane cu dizabilități și pentru persoane vârstnice, prevăzut la pct. IV lit. A subpct. 2 din anexa nr. 9 la Hotărârea Guvernului nr. 153/2018 pentru aprobarea regulamentului-cadru privind stabilirea locurilor de muncă, a categoriilor de personal, a mărimii concrete a sporului pentru condiții de muncă prevăzut în anexa nr. II la Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, precum și a condițiilor de acordare a acestuia, pentru familia ocupațională de funcții bugetare «Sănătate și asistență socială»",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "539",
+  "bis": false,
+  "date": "2025-06-11",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.409/1/2024",
+  "2.920/105/2023"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 153/2018",
+    "number": "153",
+    "year": "2018",
+    "path": "hg/2018/153"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Curtea de Apel Ploiești - Secția de contencios administrativ și fiscal, în Dosarul nr. 2.920/105/2023, în vederea pronunțării unei hotărâri prealabile cu privire la următoarea chestiune de drept:",
+  "Dacă acordarea sporului de 15% din salariul de bază al personalului care își desfășoară activitatea prin acordarea de servicii de îngrijire la domiciliu pentru persoane cu dizabilități și pentru persoane vârstnice, prevăzut la pct. IV lit. A subpct. 2 din anexa nr. 9 la Hotărârea Guvernului nr. 153/2018 pentru aprobarea regulamentului-cadru privind stabilirea locurilor de muncă, a categoriilor de personal, a mărimii concrete a sporului pentru condiții de muncă prevăzut în anexa nr. II la Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, precum și a condițiilor de acordare a acestuia, pentru familia ocupațională de funcții bugetare «Sănătate și asistență socială», poate fi condiționată de aprobarea sumelor cu această destinație în bugetul de venituri și cheltuieli pentru anii în care se solicită acest spor.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 153/2018",
+    "number": "153",
+    "year": "2018",
+    "path": "hg/2018/153"
+   },
+   "articles": [],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "37",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 18
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 62/2024",
+    "number": "62",
+    "year": "2024",
+    "path": "oug/2024/62"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 273/2006",
+    "number": "273",
+    "year": "2006",
+    "path": "lege/2006/273"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea contenciosului administrativ nr. 554/2004",
+    "number": "554",
+    "year": "2004",
+    "path": "lege/2004/554"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 569/2017",
+    "number": "569",
+    "year": "2017",
+    "path": "hg/2017/569"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 114/2018",
+    "number": "114",
+    "year": "2018",
+    "path": "oug/2018/114"
+   },
+   "articles": [
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-06-11",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/298968",
+  "text_sha256": "6b46d1e347ce55c8e1f8ba997f427358d6eac12d9d33def7f79aed574a1ffe02",
+  "catalogue_sha256": "6b46d1e347ce55c8e1f8ba997f427358d6eac12d9d33def7f79aed574a1ffe02",
+  "fetched": "2026-11-03T00:56:57Z",
+  "chars": 40195,
+  "portal_id": "298968",
+  "tip": "DECIZIE"
+ }
+}
