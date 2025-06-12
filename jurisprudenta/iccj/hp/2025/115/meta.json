@@ -1,0 +1,203 @@
+{
+ "key": "iccj-hp-115-2025",
+ "label": "Decizia ÎCCJ nr. 115/2025 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "115",
+ "date": "2025-03-31",
+ "year": "2025",
+ "heading": "DECIZIA nr. 115 din 31 martie 2025",
+ "subtitle": "referitoare la modalitatea de aplicare a prevederilor art. 2 alin. (1) și art. 3 alin. (7) din Ordonanța de urgență a Guvernului nr. 111/2010 privind concediul și indemnizația lunară pentru creșterea copiilor, aprobată cu modificări prin Legea nr. 132/2011, cu modificările și completările ulterioare, și, respectiv, art. 22 alin. (7) din Normele metodologice de aplicare a prevederilor Ordonanței de urgență a Guvernului nr. 111/2010 privind concediul și indemnizația lunară pentru creșterea copiilor, aprobate prin Hotărârea Guvernului nr. 52/2011, cu modificările și completările ulterioare, cu privire la recalcularea cuantumului indemnizației lunare pentru creșterea copilului în situația în care beneficiarul depune documente ulterioare (decizie de salarizare) din care rezultă că drepturile salariale au fost recalculate inclusiv pentru perioada de 24 de luni anterioară nașterii copilului, chiar în măsura în care aceste drepturi nu au fost efectiv achitate",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "541",
+  "bis": false,
+  "date": "2025-06-12",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.370/1/2024",
+  "8.479/3/2024",
+  "1.996/107/2024"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 111/2010",
+    "number": "111",
+    "year": "2010",
+    "path": "oug/2010/111"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": [
+      "7"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibile, sesizările conexate formulate de Tribunalul Alba - Secția a II-a civilă, de contencios administrativ, fiscal și de insolvență în dosarele nr. 2.192/107/2024, nr. 2.593/107/2024 și nr. 1.996/107/2024, în vederea pronunțării unei hotărâri prealabile cu privire la următoarele chestiuni de drept:",
+  "Modalitatea de aplicare a prevederilor art. 2 alin. (1) și art. 3 alin. (7) din Ordonanța de urgență a Guvernului nr. 111/2010 privind concediul și indemnizația lunară pentru creșterea copiilor, aprobată cu modificări prin Legea nr. 132/2011, cu modificările și completările ulterioare, și, respectiv, art. 22 alin. (7) din Normele metodologice de aplicare a prevederilor Ordonanței de urgență a Guvernului nr. 111/2010 privind concediul și indemnizația lunară pentru creșterea copiilor, aprobate prin Hotărârea Guvernului nr. 52/2011, cu modificările și completările ulterioare, cu privire la recalcularea cuantumului indemnizației lunare pentru creșterea copilului în situația în care beneficiarul depune documente ulterioare (decizie de salarizare) din care rezultă că drepturile salariale au fost recalculate inclusiv pentru perioada de 24 de luni anterioară nașterii copilului, chiar în măsura în care aceste drepturi nu au fost efectiv achitate.",
+  "Data de la care intervine recalcularea indemnizației de creștere copil, conform art. 3 alin. (6) din Ordonanța de urgență a Guvernului nr. 111/2010, respectiv data prezentării documentelor de rectificare sau data de la care a intervenit rectificarea, conform înscrisurilor justificative.",
+  "Respinge, ca inadmisibilă, sesizarea conexată formulată de Tribunalul București - Secția a VIII-a conflicte de muncă și asigurări sociale în Dosarul nr. 8.479/3/2024, în vederea pronunțării unei hotărâri prealabile cu privire la următoarea chestiune de drept: Dacă indemnizația de maternitate de care a beneficiat reclamanta se impune a fi recalculată prin raportare la alte valori ale drepturilor bănești de referință recunoscute retroactiv printr-un act administrativ, dar care nu au fost efectiv achitate în perioada avută în vedere ca bază de calcul al acesteia.",
+  "Obligatorie, potrivit art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 62/2024",
+    "number": "62",
+    "year": "2024",
+    "path": "oug/2024/62"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 111/2010",
+    "number": "111",
+    "year": "2010",
+    "path": "oug/2010/111"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": [
+      "7"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 52/2011",
+    "number": "52",
+    "year": "2011",
+    "path": "hg/2011/52"
+   },
+   "articles": [
+    {
+     "art": "22",
+     "alin": [
+      "7"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea contenciosului administrativ nr. 554/2004",
+    "number": "554",
+    "year": "2004",
+    "path": "lege/2004/554"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-06-12",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/298997",
+  "text_sha256": "be75bb3c72c4ca81ea00aac6823ac7d6c8d2915445451a1b76424b1cebd0f19e",
+  "catalogue_sha256": "be75bb3c72c4ca81ea00aac6823ac7d6c8d2915445451a1b76424b1cebd0f19e",
+  "fetched": "2026-11-03T00:56:55Z",
+  "chars": 35489,
+  "portal_id": "298997",
+  "tip": "DECIZIE"
+ }
+}
