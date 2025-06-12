@@ -1,0 +1,155 @@
+{
+ "key": "iccj-hp-113-2025",
+ "label": "Decizia ÎCCJ nr. 113/2025 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "113",
+ "date": "2025-03-31",
+ "year": "2025",
+ "heading": "DECIZIA nr. 113 din 31 martie 2025",
+ "subtitle": "referitoare la exercitarea atribuțiilor funcției de șef inspectorat ca sarcină de serviciu conform fișei postului, în condițiile existenței unei împuterniciri, prin act administrativ",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "541",
+  "bis": false,
+  "date": "2025-06-12",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.412/1/2024",
+  "1.845/90/2024"
+ ],
+ "subjects": [],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Tribunalul Vâlcea - Secția a II-a civilă, dispusă prin Încheierea din 22 octombrie 2024, în Dosarul nr. 1.845/90/2024, pentru dezlegarea următoarei chestiuni de drept: Exercitarea atribuțiilor funcției de șef inspectorat ca sarcină de serviciu conform fișei postului, în condițiile existenței unei împuterniciri, prin act administrativ, în funcția de adjunct, îndreptățește funcționarul public cu statut special (polițist) la acordarea unor diferențe salariale aferente funcției de conducere de șef inspectorat?",
+  "Obligatorie, potrivit art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 62/2024",
+    "number": "62",
+    "year": "2024",
+    "path": "oug/2024/62"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "19",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinului ministrului afacerilor interne nr. 105/2013",
+    "number": "105",
+    "year": "2013"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 293/2004",
+    "number": "293",
+    "year": "2004",
+    "path": "lege/2004/293"
+   },
+   "articles": [
+    {
+     "art": "55",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [
+  "subjects: none parsed"
+ ],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-06-12",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/298996",
+  "text_sha256": "813f14a5a395c6f6cebcfb4c2392d4734cb04cbd5766f175432d40dd0997041d",
+  "catalogue_sha256": "813f14a5a395c6f6cebcfb4c2392d4734cb04cbd5766f175432d40dd0997041d",
+  "fetched": "2026-11-03T00:57:01Z",
+  "chars": 31341,
+  "portal_id": "298996",
+  "tip": "DECIZIE"
+ }
+}
