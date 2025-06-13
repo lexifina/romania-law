@@ -1,0 +1,90 @@
+# DECIZIA nr. 154 din 5 mai 2025
+referitoare la modalitatea efectivă de calcul al impozitului progresiv conform art. 101 alin. (2) lit. c) din Codul fiscal
+Dosar nr. 2.652/1/2024
+Mariana Constantinescu - vicepreședintele Înaltei Curți de Casație și Justiție - președintele completului
+Adina Georgeta Ponea - pentru Președintele Secției I civile
+Adina Oana Surdu - președintele Secției a II-a civile
+Elena Diana Tămagă - președintele Secției de contencios administrativ și fiscal
+Lavinia Curelea - judecător la Secția I civilă
+Lavinia Dascălu - judecător la Secția I civilă
+Denisa Livia Băldean - judecător la Secția I civilă
+Ileana Ruxandra Tirică - judecător la Secția I civilă
+Liviu Eugen Făget - judecător la Secția I civilă
+Roxana Popa - judecător la Secția a II-a civilă
+Minodora Condoiu - judecător la Secția a II-a civilă
+Ianina Blandiana Grădinaru - judecător la Secția a II-a civilă
+Ștefan Ioan Lucaciuc - judecător la Secția a II-a civilă
+Marcela Marta Iacob - judecător la Secția a II-a civilă
+Gheza Attila Farmathy - judecător la Secția de contencios administrativ și fiscal
+Maria Hrudei - judecător la Secția de contencios administrativ și fiscal
+Adriana Florina Secrețeanu - judecător la Secția de contencios administrativ și fiscal
+Alina Nicoleta Ghica Velescu - judecător la Secția de contencios administrativ și fiscal
+Mădălina Elena Vladu Crevon - judecător la Secția de contencios administrativ și fiscal
+1. Completul pentru dezlegarea unor chestiuni de drept competent să judece sesizarea ce formează obiectul Dosarului nr. 2.652/1/2024 este legal constituit, conform art. 520 alin. (8) din Codul de procedură civilă și art. 35 alin. (3) din Regulamentul privind organizarea și funcționarea administrativă a Înaltei Curți de Casație și Justiție, aprobat prin Hotărârea Colegiului de conducere al Înaltei Curți de Casație și Justiție nr. 20/2023, cu modificările și completările ulterioare (Regulamentul).
+2. Ședința este prezidată de doamna judecător Mariana Constantinescu, vicepreședintele Înaltei Curți de Casație și Justiție.
+3. La ședința de judecată participă doamna Ileana Peligrad, magistrat-asistent, desemnată în conformitate cu dispozițiile art. 36 din Regulament.
+4. Înalta Curte de Casație și Justiție - Completul pentru dezlegarea unor chestiuni de drept a luat în examinare sesizarea formulată de Tribunalul Constanța - Secția I civilă în vederea pronunțării unei hotărâri prealabile pentru dezlegarea următoarei probleme de drept: „modalitatea efectivă de calcul al impozitului progresiv conform art. 101 alin. (2) lit. c) din Codul fiscal în sensul de a stabili dacă, matematic, primul pas al calculului impozitului progresiv este reprezentat de scăderea plafonului de venit neimpozabil lunar de 2.000 de lei din totalul venitului lunar din pensii care are doar componentă necontributivă, iar «partea» rămasă după deducerea sumei de 2.000 de lei din totalul venitului lunar sau dacă primul pas al calculului este reprezentat de scăderea plafonului de venit neimpozabil lunar de 2.000 de lei din nivelul câștigului salarial mediu brut, iar al doilea pas aplicarea cotei de 10% la diferența dintre nivelul câștigului salarial mediu brut și suma de 2.000 de lei“.
+5. Magistratul-asistent învederează că la dosar au fost depuse raportul întocmit și punctul de vedere din partea pârâtei.
+6. Președintele completului, doamna judecător Mariana Constantinescu, constatând că nu mai sunt alte completări, chestiuni de invocat sau întrebări de formulat din partea membrilor completului, a declarat dezbaterile închise, iar completul de judecată a rămas în pronunțare.
+ÎNALTA CURTE, deliberând asupra chestiunii de drept cu care a fost sesizată, a constatat următoarele:
+I. Titularul și obiectul sesizării 7.
+Tribunalul Constanța - Secția I civilă a dispus, prin Încheierea din 1 noiembrie 2024, în Dosarul nr. 1.686/118/2024, sesizarea Înaltei Curți de Casație și Justiție, în temeiul dispozițiilor art. 2 din Ordonanța de urgență a Guvernului nr. 62/2024 privind unele măsuri pentru soluționarea proceselor privind salarizarea personalului plătit din fonduri publice, precum și a proceselor privind prestații de asigurări sociale (Ordonanța de urgență a Guvernului nr. 62/2024), în vederea pronunțării unei hotărâri prealabile.
+8. Sesizarea a fost înregistrată la 18 noiembrie 2024 cu nr. 2.652/1/2024.
+II. Normele legale incidente 9.
+Legea nr. 227/2015 privind Codul fiscal, cu modificările și completările ulterioare (Codul fiscal)
+Articolul 101
+Calculul impozitului pe venitul din pensii și termenul de plată
+(...)
+(2) Impozitul lunar se determină de fiecare plătitor de venit din pensii, astfel: (...)
+c) pentru venitul lunar din pensii care are doar componentă necontributivă, din care se deduce plafonul de venit neimpozabil lunar de 2.000 de lei, se aplică progresiv următoarele cote de impunere: (i)
+10%, pentru partea mai mică decât nivelul câștigului salarial mediu net sau egală cu acesta;
+(ii)
+15%, pentru partea cuprinsă între nivelul câștigului salarial mediu net și nivelul câștigului salarial mediu brut utilizat la fundamentarea bugetului asigurărilor sociale de stat sau egală cu acesta;
+(iii)
+20%, pentru partea ce depășește nivelul câștigului salarial mediu brut utilizat la fundamentarea bugetului asigurărilor sociale de stat.
+(...)
+III. Expunerea procesului 10.
+Prin Cererea înregistrată pe rolul Tribunalului Constanța cu nr. 1.686/118/2024, reclamantul persoană fizică, în contradictoriu cu pârâta Casa de Pensii Sectorială a Ministerului Apărării Naționale, a solicitat obligarea pârâtei la recalcularea pensiei, începând cu luna ianuarie 2024, în conformitate cu prevederile art. 101, coroborat cu art. 100 din Codul fiscal, în sensul aplicării treptelor de impozitare prevăzute de art. 100 din Codul fiscal la venitul impozabil, și nu la întregul venit din pensii, revocarea talonului/taloanelor de pensie emis/emise începând cu ianuarie 2024 și eliberarea, în consecință, a altui/altor talon/taloane de pensie, precum și obligarea la recuperarea prejudiciului suportat, respectiv obligarea la restituirea sumelor reținute în plus cu titlu de impozit în lunile ianuarie 2024 și următoarele, prin încălcarea prevederilor Codului fiscal (art. 100 și art. 101 - astfel cum a fost modificat prin Legea nr. 282/2023).
+11. În motivare, reclamantul a contestat algoritmul de calcul al impozitului pe venitul din pensie aplicat de pârâtă, întrucât nu respectă întocmai prevederile art. 100 și art. 101 (modificat prin art. XVIII din Legea nr. 282/2023) din Codul fiscal, în sensul că a dedus plafonul de venit neimpozabil lunar de 2.000 de lei din prima cotă de impozitare (de 10%), iar nu din venitul lunar brut.
+12. În cadrul soluționării acțiunii s-au dispus sesizarea Înaltei Curți de Casație și Justiție și suspendarea cauzei.
+IV. Motivele reținute de titularul sesizării, care susțin admisibilitatea sesizării 13.
+Prin raportare la dispozițiile Ordonanței de urgență a Guvernului nr. 62/2024 coroborate cu cele ale art. 519 din Codul de procedură civilă, s-a apreciat că acțiunea se încadrează în categoria proceselor prevăzute la art. 1 din Ordonanța de urgență a Guvernului nr. 62/2024, iar asupra chestiunii de drept de a cărei lămurire depinde soluționarea pe fond a cauzei Înalta Curte de Casație și Justiție nu a statuat și aceasta nu a făcut obiectul vreunui recurs în interesul legii în curs de soluționare, astfel că se impune sesizarea instanței supreme în vederea pronunțării unei hotărâri prin care să se dea rezolvare de principiu chestiunii de drept cu care a fost sesizată.
+V. Punctul de vedere al completului de judecată
+14. Instanța de trimitere nu a formulat niciun punct de vedere, apreciind că ar echivala cu o antepronunțare.
+VI. Punctul de vedere al părților 15.
+Părțile au susținut că Înalta Curte de Casație și Justiție a fost deja sesizată cu chestiunea de drept de dezlegarea căreia depinde soluționarea prezentei cauze.
+VII. Jurisprudența instanțelor naționale în materie 16.
+La nivelul Curții de Apel Alba Iulia a fost identificată o singură hotărâre referitoare la problema de drept pusă în discuție, în sensul că anterior stabilirii oricărei cote de impunere se procedează la deducerea din cuantumul pensiei a sumei de 2.000 de lei, sumă care reprezintă plafonul neimpozabil.
+17. Curtea de Apel București a înaintat hotărâri judecătorești și opinii teoretice din care a rezultat existența a două orientări jurisprudențiale. Astfel, pe de o parte, instanțele de fond au admis cererile formulate de beneficiarii pensiilor de serviciu acordate în temeiul Legii nr. 223/2015 privind pensiile militare de stat, pârâta fiind obligată la calcularea impozitului datorat asupra pensiilor reclamanților prin aplicarea cotelor de impozit progresiv doar asupra părții din pensie care depășește plafonul neimpozabil de 2.000 de lei.
+Pe de altă parte, instanțele de fond au respins cererile formulate de beneficiarii pensiilor de serviciu acordate în temeiul Legii nr. 223/2015, pârâta procedând la calcularea și reținerea impozitului progresiv asupra pensiilor de serviciu ale reclamanților, fără a determina, în prealabil, cota contributivă din pensia acestora, în același sens fiind și Decizia Curții Constituționale nr. 900 din 15 decembrie 2020.
+18. La nivelul Secției pentru cauze privind conflicte de muncă și asigurări sociale a Curții de Apel Galați, acțiunea având ca obiect recalcularea corectă a impozitului aplicat asupra dreptului de pensie și obligarea pârâtei la restituirea diferențelor bănești rezultate din sumele reținute nelegal prin aplicarea art. 101 din Codul fiscal a fost respinsă, în prezent dosarul fiind suspendat.
+19. Prin punctul de vedere exprimat la nivelul Curții de Apel Iași s-a arătat că sintagma „se deduce plafonul de venit neimpozabil lunar de 2.000 de lei“ este echivalentă cu excluderea sumei de 2.000 de lei din brutul pensiei de serviciu (pensie militară de stat), stabilindu-se astfel venitul impozabil din pensie (venitul care se impozitează), la care se aplică progresiv cele trei cote de impunere stabilite prin art. 101 alin. (2) lit. c) din Codul fiscal.
+20. Celelalte curți de apel nu au înaintat hotărâri judecătorești și nu au formulat niciun punct de vedere.
+21. Ministerul Public - Parchetul de pe lângă Înalta Curte de Casație și Justiție a comunicat că, la nivelul Secției judiciare - Serviciul judiciar civil nu se verifică, în prezent, practică judiciară în vederea promovării unui eventual recurs în interesul legii în problema de drept ce formează obiectul sesizării.
+VIII. Jurisprudența Înaltei Curți de Casație și Justiție 22.
+Înalta Curte de Casație și Justiție - Completul pentru dezlegarea unor chestiuni de drept, prin Decizia nr. 117 din 7 aprilie 2025 *), a respins ca inadmisibile sesizările conexate cu privire la dezlegarea problemei de drept privind „impozitarea progresivă asupra pensiei de serviciu obținute, conform art. 101 alin. (2) din Codul fiscal, modificat prin Legea nr. 282/2023“ și în Dosarul nr. 21.430/3/2024, referitor la următoarele chestiuni de drept: „dacă în cazul magistraților pensionați în temeiul art. 82 alin. (2) din Legea nr. 303/2004, prin raportare la art. 85 din Legea nr. 303/2004 și art. 17 alin. (2) din Normele metodologice de aplicare a prevederilor Legii nr. 303/2004 și ale Legii nr. 47/1992, decizia de pensie trebuie să cuprindă distinct cuantumurile celor două categorii de pensii, pensia din sistemul public, respectiv pensia de serviciu, precum și diferența dintre cele două pensii care urmează a fi suportată de la bugetul de stat și, în caz afirmativ, dacă impozitul pe acest venit urmează a fi calculat începând cu 1 ianuarie 2024 în temeiul art. 101 alin. (2) lit. b) din Codul Fiscal, așa cum a fost modificat prin Legea nr. 282/2023; dacă vechimea prevăzută de art. 82 alin. (2) din Legea nr. 303/2004 constituie stagiul legal de cotizare în funcție de care se calculează pensia pentru limită de vârstă care face parte din pensia de serviciu“.
+23. Curtea Constituțională, prin Decizia nr. 724 din 19 decembrie 2024, publicată în Monitorul Oficial al României, Partea I, nr. 91 din 31 ianuarie 2025, a constatat că dispozițiile art. 101 din Codul fiscal sunt neconstituționale.
+IX. Raportul asupra chestiunii de drept 24.
+Prin raportul întocmit în cauză, conform art. 520 alin. (8) din Codul de procedură civilă, s-a apreciat că sesizarea este inadmisibilă.
+X. Înalta Curte de Casație și Justiție Asupra admisibilității sesizării
+25. În prealabil, sesizarea Înaltei Curți de Casație și Justiție pentru pronunțarea unei hotărâri prealabile, formulată în temeiul prevederilor Ordonanței de urgență a Guvernului nr. 62/2024, trebuie să îndeplinească, în mod cumulativ, următoarele condiții de admisibilitate: (i) existența unei cauze în curs de judecată, care să privească fie stabilirea și/sau plata drepturilor salariale/de natură salarială ale personalului plătit din fonduri publice, inclusiv cele privind obligarea la emiterea actelor administrative sau privind anularea actelor administrative emise pentru acest personal sau/și cele privind raporturile de muncă și de serviciu ale acestui personal, fie stabilirea și/sau plata drepturilor la pensie, inclusiv cele rezultate din actualizarea/recalcularea/revizuirea drepturilor la pensie sau/și cele privind alte prestații de asigurări sociale ale personalului plătit din fonduri publice, indiferent de natura și obiectul proceselor, de calitatea părților ori de instanța competentă să le soluționeze;
+(ii) instanța care sesizează Înalta Curte de Casație și Justiție să judece cauza în primă instanță sau în calea de atac;
+(iii) să existe o chestiune de drept de care a cărei lămurire să depindă soluționarea pe fond a cauzei;
+(iv) chestiunea de drept să nu fi făcut obiectul statuării Înaltei Curți de Casație și Justiție și nici obiectul unui recurs în interesul legii în curs de soluționare.
+26. Evaluând elementele sesizării, în scopul de a stabili dacă sunt întrunite toate condițiile anterior enunțate, se constată că acestea nu sunt îndeplinite în totalitate.
+27. Astfel, la data sesizării Înaltei Curți de Casație și Justiție, 18 noiembrie 2024, art. 101 din Codul fiscal era în vigoare.
+28. Cum însă dispozițiile art. 101 din Codul fiscal, astfel cum acestea au fost modificate prin Legea nr. 282/2023, au fost declarate neconstituționale prin Decizia Curții Constituționale nr. 724 din 19 decembrie 2024, sesizarea ce face obiectul dosarului de față a devenit inadmisibilă, fiind irelevantă la acest moment din punct de vedere fiscal decelarea între partea contributivă și cea necontributivă din cadrul pensiilor de serviciu ale militarilor, în cazul acestor categorii profesionale nemaipunându-se problema impozitării progresive a pensiilor obținute, în aceste condiții, rămânând incidente dispozițiile Codului fiscal referitoare la cota de impozit de 10% aplicabilă fiecărei surse din fiecare categorie de venit impozabil.
+29. Temeiul de drept care a stat la baza problemei de drept ce constituie obiect al sesizării, declarat neconstituțional, nu mai poate face obiectul examinării într-un asemenea cadru, căci voința instanței de contencios constituțional a fost exprimată în mod explicit, neechivoc și nu mai subzistă la data soluționării acesteia.
+30. Decizia prin care Curtea Constituțională, în exercitarea controlului concret, rezolvă, prin admitere, excepția de neconstituționalitate este obligatorie și produce efecte erga omnes și nu numai inter partes litigantes, iar ca o consecință a caracterului obligatoriu, prevederea normativă a cărei neconstituționalitate a fost constatată nu mai poate fi aplicată de niciun subiect de drept, încetându-și de drept efectele pentru viitor, și anume de la data publicării deciziei Curții Constituționale în Monitorul Oficial al României, Partea I, potrivit art. 147 alin. (1) din Constituția României, republicată. *) Decizia Înaltei Curți de Casație și Justiție - Completul pentru dezlegarea unor chestiuni de drept nr. 117 din 7 aprilie 2025 nu a fost publicată în Monitorul Oficial al României, Partea I.
+31. Totodată, potrivit art. 147 din Constituția României, dispozițiile din legile și ordonanțele în vigoare, precum și cele din regulamente, constatate ca fiind neconstituționale, își încetează efectele juridice la 45 de zile de la publicarea deciziei Curții Constituționale dacă, în acest interval, Parlamentul sau Guvernul, după caz, nu pune de acord prevederile neconstituționale cu dispozițiile Constituției. Pe durata acestui termen, dispozițiile constatate ca fiind neconstituționale sunt suspendate de drept.
+32. Prin urmare, Completul pentru dezlegarea unor chestiuni de drept apreciază că dispare însăși premisa pronunțării unei hotărâri prealabile care, în esență, vizează existența unei reglementări îndoielnice, lacunare ori neclare, necesar a fi lămurită sub aspectul interpretării, pentru preîntâmpinarea unei aplicări neunitare a acesteia, sesizarea devenind inadmisibilă.
+ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE
+În numele legii
+DECIDE:
+Respinge, ca inadmisibilă, sesizarea formulată de Tribunalul Constanța - Secția I civilă privind lămurirea următoarei chestiuni de drept: „modalitatea efectivă de calcul al impozitului progresiv conform art. 101 alin. (2) lit. c) din Codul fiscal în sensul de a stabili dacă, matematic, primul pas al calculului impozitului progresiv este reprezentat de scăderea plafonului de venit neimpozabil lunar de 2.000 de lei din totalul venitului lunar din pensii care are doar componentă necontributivă, iar «partea» rămasă după deducerea sumei de 2.000 de lei din totalul venitului lunar sau dacă primul pas al calculului este reprezentat de scăderea plafonului de venit neimpozabil lunar de 2.000 de lei din nivelul câștigului salarial mediu brut, iar al doilea pas aplicarea cotei de 10% la diferența dintre nivelul câștigului salarial mediu brut și suma de 2.000 de lei“.
+Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă.
+Pronunțată în ședință publică astăzi, 5 mai 2025.
+VICEPREȘEDINTELE ÎNALTEI CURȚI DE CASAȚIE ȘI JUSTIȚIE
+MARIANA CONSTANTINESCU
+Magistrat-asistent,
+Ileana Peligrad
