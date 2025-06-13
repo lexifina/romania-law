@@ -1,0 +1,10 @@
+# HCL Aroneanu nr. 61/2025
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+- Council: Consiliul Local al Comunei Aroneanu
+- Decision: nr. 61/2025
+- Adopted: 2025-05-29
+- Published: 2025-06-13
+- Title: privind aprobarea Regulamentului intern de decontare a cheltuielilor de transport pentru funcționarii publici și personalul contractual din cadrul aparatului de specialitate al primarului comunei Aroneanu, județul Iași
+- Record: https://emol.ro/aroneanu-is/registru-hcl/211805
