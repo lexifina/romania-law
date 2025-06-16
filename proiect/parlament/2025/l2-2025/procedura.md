@@ -17,6 +17,7 @@ Initiator: Guvernul României.
 - 2025-05-21: adopted by the Chamber of Deputies
 - 2025-05-26: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-05-28: sent for promulgation
+- 2025-06-16: promulgated, becomes Legea nr. 101/2025; published in the Monitorul Oficial; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -31,3 +32,5 @@ Initiator: Guvernul României.
 - 2025-02-17: Adresă către Camera Deputaților (AM): [am-3aea1931.md](am-3aea1931.md); official file https://www.senat.ro/legis/PDF/2025/25L002AM.PDF
 - 2025-05-26: Adresă privind sesizarea CCR (AXS): [axs-d2359ba3.md](axs-d2359ba3.md); official file https://www.senat.ro/legis/PDF/2025/25L002AXS.PDF
 - 2025-05-26: Forma trimisă la promulgare (LP): [lp-4d84a4f8.md](lp-4d84a4f8.md); official file https://www.senat.ro/legis/PDF/2025/25L002LP.PDF
+- 2025-06-16: Decret de promulgare (DP): [dp-4a5502dd.md](dp-4a5502dd.md); official file https://www.senat.ro/legis/PDF/2025/25L002DP.PDF
+- 2025-06-16: Forma promulgată (FP): [fp-a31f2ea7.md](fp-a31f2ea7.md); official file https://www.senat.ro/legis/PDF/2025/25L002FP.PDF
