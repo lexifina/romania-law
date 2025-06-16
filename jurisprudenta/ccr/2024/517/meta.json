@@ -1,0 +1,279 @@
+{
+ "key": "dcc-517-2024",
+ "label": "Decizia CCR nr. 517/2024",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "517",
+ "date": "2024-10-22",
+ "year": "2024",
+ "heading": "DECIZIA nr. 517 din 22 octombrie 2024",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 1 și 2 din Ordonanța de urgență a Guvernului nr. 72/2020 pentru modificarea alin. (6) al art. 21 din Legea nr. 165/2013 privind măsurile pentru finalizarea procesului de restituire, în natură sau prin echivalent, a imobilelor preluate în mod abuziv în perioada regimului comunist în România și instituirea unor măsuri tranzitorii",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "551",
+  "bis": false,
+  "date": "2025-06-16",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "45.233/3/2018",
+  "1.048D/2020"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 72/2020",
+    "number": "72",
+    "year": "2020",
+    "path": "oug/2020/72"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 165/2013",
+    "number": "165",
+    "year": "2013",
+    "path": "lege/2013/165"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepția de neconstituționalitate a dispozițiilor art. 1 și 2 din Ordonanța de urgență a Guvernului nr. 72/2020 pentru modificarea alin. (6) al art. 21 din Legea nr. 165/2013 privind măsurile pentru finalizarea procesului de restituire, în natură sau prin echivalent, a imobilelor preluate în mod abuziv în perioada regimului comunist în România și instituirea unor măsuri tranzitorii, excepție ridicată de Daliana-Maria Bălănescu, Alina-Yvonne Roșianu și Alina-Maria Roșianu în Dosarul nr. 45.233/3/2018 al Tribunalului București - Secția a V-a civilă.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului București - Secția a V-a civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 72/2020",
+    "number": "72",
+    "year": "2020",
+    "path": "oug/2020/72"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 18
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 165/2013",
+    "number": "165",
+    "year": "2013",
+    "path": "lege/2013/165"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 21
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituției",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "115",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 22/2020",
+    "number": "22",
+    "year": "2020",
+    "path": "lege/2020/22"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 94/2000",
+    "number": "94",
+    "year": "2000",
+    "path": "oug/2000/94"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 193/2021",
+    "number": "193",
+    "year": "2021",
+    "path": "lege/2021/193"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 205/2006",
+    "number": "205",
+    "year": "2006",
+    "path": "lege/2006/205"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 219/2020",
+    "number": "219",
+    "year": "2020",
+    "path": "lege/2020/219"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2025-06-16",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/299054",
+  "text_sha256": "b518aea7a310eb844c7e42ca05618aa16948567aa990a748551e1dadcccaa6a0",
+  "catalogue_sha256": "b518aea7a310eb844c7e42ca05618aa16948567aa990a748551e1dadcccaa6a0",
+  "fetched": "2026-11-03T00:56:54Z",
+  "chars": 20545,
+  "portal_id": "299054",
+  "tip": "DECIZIE"
+ }
+}
