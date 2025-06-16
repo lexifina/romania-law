@@ -1,0 +1,259 @@
+{
+ "key": "dcc-591-2024",
+ "label": "Decizia CCR nr. 591/2024",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "591",
+ "date": "2024-11-05",
+ "year": "2024",
+ "heading": "DECIZIA nr. 591 din 5 noiembrie 2024",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 2 alin. (1), ale art. 3 alin. (1), ale art. 17 și ale art. 50 lit. a) din Legea nr. 333/2003 privind paza obiectivelor, bunurilor, valorilor și protecția persoanelor",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "556",
+  "bis": false,
+  "date": "2025-06-16",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "4.461/256/2022",
+  "2.120D/2022",
+  "2.463/256/2022",
+  "14.217/212/2022/a1"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 333/2003",
+    "number": "333",
+    "year": "2003",
+    "path": "lege/2003/333"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "17",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "50",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepția de neconstituționalitate a dispozițiilor art. 2 alin. (1), ale art. 3 alin. (1), ale art. 17 și ale art. 50 lit. a) din Legea nr. 333/2003 privind paza obiectivelor, bunurilor, valorilor și protecția persoanelor, excepție ridicată de Societatea Grup Feroviar Român - S.A. din București în dosarele nr. 2.463/256/2022, nr. 4.461/256/2022, nr. 3.241/256/2022, nr. 3.950/256/2022, nr. 4.614/256/2022, nr. 5.036/256/2022, nr. 4.615/256/2022, nr. 4.616/256/2022, nr. 4.702/256/2022, nr. 4.703/256/2022, nr. 4.704/256/2022, nr. 5.242/256/2022, nr. 4.462/256/2022, nr. 5.035/256/2022, nr. 5.243/256/2022, nr. 5.244/256/2022, nr. 5.245/256/2022, nr. 3.243/256/2022, nr. 3.244/256/2022, nr. 5.241/256/2022, nr. 6.466/256/2022, nr. 6.893/256/2022, nr. 6.894/256/2022, nr. 6.896/256/2022, nr. 6.898/256/2022, nr. 6.901/256/2022, nr. 6.892/256/2022, nr. 7.347/256/2022, nr. 7.665/256/2022, nr. 7.666/256/2022, nr. 6.900/256/2022, nr. 6.899/256/2022, nr. 7.662/256/2022, nr. 7.670/256/2022, nr. 8.065/256/2022, nr. 8.421/256/2022, nr. 8.423/256/2022, nr. 9.206/256/2022, nr. 8.422/256/2022, nr. 9.203/256/2022, nr. 9.204/256/2022, nr. 7.660/256/2022, nr. 7.669/256/2022, nr. 9.528/256/2022, nr. 339/256/2023, nr. 10.101/256/2022, nr. 9.200/256/2022, nr. 9.196/256/2022, nr. 9.209/256/2022, nr. 7.663/256/2022, nr. 88/256/2023, nr. 7.668/256/2022, nr. 9.195/256/2022, nr. 9.201/256/2022, nr. 9.202/256/2022, nr. 9.533/256/2022, nr. 6.891/256/2022, nr. 6.897/256/2002, nr. 7.667/256/2022, nr. 84/256/2023, nr. 86/256/2023, nr. 4.459/256/2022, nr. 4.460/256/2022, nr. 9.198/256/2022, nr. 9.197/256/2022, nr. 9.535/256/2022, nr. 9.536/256/2022, nr. 9.537/256/2022, nr. 9.538/256/2022, nr. 7.661/256/2022, nr. 10.102/256/2022, nr. 10.103/256/2022, nr. 3.515/256/2023, nr. 87/256/2023 și nr. 89/256/2023 ale Judecătoriei Medgidia, în dosarele nr. 14.217/212/2022/a1 și nr. 3.242/256/2022 ale Judecătoriei Constanța - Secția civilă și în dosarele nr. 3.240/256/2022, nr. 7.664/256/2022, nr. 9.199/256/2022, nr. 9.205/256/2022, nr. 9.210/256/2022, nr. 9.208/256/2022/a1 și nr. 85/256/2023/a1 ale Tribunalului Constanța - Secția de contencios administrativ și fiscal.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Judecătoriei Medgidia, Judecătoriei Constanța - Secția civilă și Tribunalului Constanța - Secția de contencios administrativ și fiscal și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 333/2003",
+    "number": "333",
+    "year": "2003",
+    "path": "lege/2003/333"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "17",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "50",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 43
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 289/2005",
+    "number": "289",
+    "year": "2005",
+    "path": "lege/2005/289"
+   },
+   "articles": [],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârii Guvernului nr. 203/1994",
+    "number": "203",
+    "year": "1994",
+    "path": "hg/1994/203"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 303/2003",
+    "number": "303",
+    "year": "2003",
+    "path": "lege/2003/303"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 31/1990",
+    "number": "31",
+    "year": "1990",
+    "path": "lege/1990/31"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2025-06-16",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/299086",
+  "text_sha256": "5e9250f679333ccbd56d743571f62be0b4737e6adb8078aaa56e3ca94eb2939d",
+  "catalogue_sha256": "5e9250f679333ccbd56d743571f62be0b4737e6adb8078aaa56e3ca94eb2939d",
+  "fetched": "2026-11-04T06:26:02Z",
+  "chars": 43138,
+  "portal_id": "299086",
+  "tip": "DECIZIE"
+ }
+}
