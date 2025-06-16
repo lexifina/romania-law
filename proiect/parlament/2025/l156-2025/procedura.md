@@ -12,6 +12,7 @@ Initiator: Membri ai Parlamentului.
 - 2025-04-15: documents published: Aviz Consiliul Legislativ, Aviz Consiliul Economic și Social, Punct de vedere
 - 2025-05-27: documents published: Aviz comisie
 - 2025-06-11: documents published: Raport comisie sesizată pe fond
+- 2025-06-16: rejected by the Senate; documents published: Adresă către Camera Deputaților
 
 ## Documents
 
@@ -23,3 +24,4 @@ Initiator: Membri ai Parlamentului.
 - 2025-05-27: Aviz comisie (CA41): [ca41-d1aa738c.md](ca41-d1aa738c.md); official file https://www.senat.ro/legis/PDF/2025/25L156CA41.PDF
 - 2025-05-27: Aviz comisie (CA58): [ca58-a36dc8de.md](ca58-a36dc8de.md); official file https://www.senat.ro/legis/PDF/2025/25L156CA58.PDF
 - 2025-06-11: Raport comisie sesizată pe fond (CR): [cr-04dcaeec.md](cr-04dcaeec.md); official file https://www.senat.ro/legis/PDF/2025/25L156CR.PDF
+- 2025-06-16: Adresă către Camera Deputaților (AM): [am-928e62dd.md](am-928e62dd.md); official file https://www.senat.ro/legis/PDF/2025/25L156AM.PDF
