@@ -1,0 +1,177 @@
+{
+ "key": "iccj-hp-121-2025",
+ "label": "Decizia ÎCCJ nr. 121/2025 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "121",
+ "date": "2025-04-07",
+ "year": "2025",
+ "heading": "DECIZIA nr. 121 din 7 aprilie 2025",
+ "subtitle": "referitoare la interpretarea Ordinului Ministerului Afacerilor Interne nr. 136/2017",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "555",
+  "bis": false,
+  "date": "2025-06-16",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.373/1/2024"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinului Ministerului Afacerilor Interne nr. 136/2017",
+    "number": "136",
+    "year": "2017"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Tribunalul Suceava - Secția de contencios administrativ și fiscal în Dosarul nr. 1.199/117/2024, în vederea pronunțării unei hotărâri prealabile cu privire la următoarea chestiune de drept:",
+  "Dacă, în interpretarea Ordinului Ministerului Afacerilor Interne nr. 136/2017, polițiștii care activează ca sportivi la asociațiile sportive ale Ministerului Afacerilor Interne beneficiază de norma de hrană 12B sau contravaloarea financiară a acesteia și în ce condiții?",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinului Ministerului Afacerilor Interne nr. 136/2017",
+    "number": "136",
+    "year": "2017"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 62/2024",
+    "number": "62",
+    "year": "2024",
+    "path": "oug/2024/62"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul ministrului afacerilor interne nr. 136/2017",
+    "number": "136",
+    "year": "2017"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârii Guvernului nr. 501/1994",
+    "number": "501",
+    "year": "1994",
+    "path": "hg/1994/501"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârii Guvernului nr. 65/2003",
+    "number": "65",
+    "year": "2003",
+    "path": "hg/2003/65"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "95",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul administrativ",
+    "path": "oug/2019/57",
+    "slug": "codul-administrativ"
+   },
+   "articles": [
+    {
+     "art": "536",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-06-16",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/299076",
+  "text_sha256": "11c983f9457cf7f097509905f0c9873ba0d6bd6d8d90a9337c8f3900a52c8909",
+  "catalogue_sha256": "11c983f9457cf7f097509905f0c9873ba0d6bd6d8d90a9337c8f3900a52c8909",
+  "fetched": "2026-11-03T00:56:51Z",
+  "chars": 32553,
+  "portal_id": "299076",
+  "tip": "DECIZIE"
+ }
+}
