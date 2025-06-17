@@ -1,0 +1,1 @@
+Prezenta hotărâre a fost adoptată cu respectarea prevederilor art.182 alin.(1) din Ordonanța de Urgență a Guvernului nr.57/2019 privind Codul administrativ cu modificările și completările ulterioare, cu un număr de 30 voturi pentru, 0 voturi împotrivă și 0 abțineri, iar domnul lon-Adrian Iliescu Vicepreședinte al Consiliului Județean Vâlcea nu a participat la vot.
