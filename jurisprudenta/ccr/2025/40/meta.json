@@ -1,0 +1,174 @@
+{
+ "key": "dcc-40-2025",
+ "label": "Decizia CCR nr. 40/2025",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "40",
+ "date": "2025-01-30",
+ "year": "2025",
+ "heading": "DECIZIA nr. 40 din 30 ianuarie 2025",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor notei 2 a lit. c) de la pct. II lit. A cap. I din anexa nr. VIII la Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, în interpretarea dată prin Decizia nr. 82 din 26 noiembrie 2018, pronunțată de Înalta Curte de Casație și Justiție - Completul pentru dezlegarea unor chestiuni de drept",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "564",
+  "bis": false,
+  "date": "2025-06-18",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "4.149/117/2020",
+  "917D/2021",
+  "4.151/117/2020",
+  "4.153/117/2020",
+  "4.160/117/2020",
+  "4.166/117/2020",
+  "4.169/117/2020"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Sindicatul Național Solidaritatea Cluj-Napoca în Dosarul nr. 4.149/117/2020 al Tribunalului Covasna - Secția civilă, Dosarul nr. 4.151/117/2020 al Tribunalului Galați - Secția contencios administrativ și fiscal, în Dosarul nr. 4.153/117/2020 al Tribunalului Harghita - Secția civilă, în Dosarul nr. 4.160/117/2020 al Tribunalului Mureș - Secția contencios administrativ și fiscal, în Dosarul nr. 4.166/117/2020 al Tribunalului Suceava - Secția de contencios administrativ și fiscal și în Dosarul nr. 4.169/117/2020 al Tribunalului Vrancea - Secția a II-a civilă și de contencios administrativ și fiscal și constată că dispozițiile notei 2 a lit. c) de la pct. II lit. A cap. I din anexa nr. VIII la Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, în interpretarea dată prin Decizia nr. 82 din 26 noiembrie 2018, pronunțată de Înalta Curte de Casație și Justiție - Completul pentru dezlegarea unor chestiuni de drept, sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului Covasna - Secția civilă, Tribunalului Galați - Secția contencios administrativ și fiscal, Tribunalului Harghita - Secția civilă, Tribunalului Mureș - Secția contencios administrativ și fiscal, Tribunalului Suceava - Secția de contencios administrativ și fiscal și Tribunalului Vrancea - Secția a II-a civilă și de contencios administrativ și fiscal și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "38",
+     "alin": [
+      "1",
+      "2",
+      "3",
+      "4"
+     ],
+     "lit": [
+      "a",
+      "a"
+     ]
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenției pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2025-06-18",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/299123",
+  "text_sha256": "c83c58091adcffd565101d9bb9b05c94e2c43aa6a5e81352bad02e5845d7414a",
+  "catalogue_sha256": "c83c58091adcffd565101d9bb9b05c94e2c43aa6a5e81352bad02e5845d7414a",
+  "fetched": "2026-11-03T00:56:45Z",
+  "chars": 18085,
+  "portal_id": "299123",
+  "tip": "DECIZIE"
+ }
+}
