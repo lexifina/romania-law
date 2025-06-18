@@ -1,0 +1,459 @@
+{
+ "key": "iccj-hp-133-2025",
+ "label": "Decizia ÎCCJ nr. 133/2025 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "133",
+ "date": "2025-04-07",
+ "year": "2025",
+ "heading": "DECIZIA nr. 133 din 7 aprilie 2025",
+ "subtitle": "referitoare la indemnizația de grad profesional prevăzută de art. 22 alin. (2) și (3) din Ordonanța de urgență a Guvernului nr. 59/2000 privind Statutul personalului silvic, modificată prin Legea nr. 234/2019, în forma în vigoare din 16.12.2019",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "561",
+  "bis": false,
+  "date": "2025-06-18",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.573/1/2024",
+  "508/89/2024"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 59/2000",
+    "number": "59",
+    "year": "2000",
+    "path": "oug/2000/59"
+   },
+   "articles": [
+    {
+     "art": "22",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 1/2020",
+    "number": "1",
+    "year": "2020",
+    "path": "oug/2020/1"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 226/2020",
+    "number": "226",
+    "year": "2020",
+    "path": "oug/2020/226"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 130/2021",
+    "number": "130",
+    "year": "2021",
+    "path": "oug/2021/130"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 168/2022",
+    "number": "168",
+    "year": "2022",
+    "path": "oug/2022/168"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Tribunalul Vaslui - Secția civilă în Dosarul nr. 508/89/2024, în vederea pronunțării unei hotărâri prealabile cu privire la următoarele chestiuni de drept: Dacă indemnizația de grad profesional prevăzută de art. 22 alin. (2) și (3) din Ordonanța de urgență a Guvernului nr. 59/2000 privind Statutul personalului silvic, modificată prin Legea nr. 234/2019, în forma în vigoare din 16.12.2019, se calculează în funcție de salariul minim brut garantat pentru studii medii sau în funcție de salariul minim brut garantat pentru studii superioare, având în vedere studiile persoanelor solicitante",
+  "Dacă în ceea ce privește calculul indemnizației prevăzute de art. 22 alin. (2) și (3) din Ordonanța de urgență a Guvernului nr. 59/2000, în forma în vigoare din 16.12.2019, acesta este limitat la cuantumul din 16.12.2019 în baza art. 34 alin. (2) din Ordonanța de urgență a Guvernului nr. 114/2018 privind instituirea unor măsuri în domeniul investițiilor publice și a unor măsuri fiscal-bugetare, modificarea și completarea unor acte normative și prorogarea unor termene, art. I alin. (2) din Ordonanța de urgență a Guvernului nr. 1/2020 privind unele măsuri fiscal-bugetare și pentru modificarea și completarea unor acte normative, art. I alin. (3) din Ordonanța de urgență a Guvernului nr. 226/2020 privind unele măsuri fiscal-bugetare și pentru modificarea și completarea unor acte normative și prorogarea unor termene, art. I alin. (5) din Ordonanța de urgență a Guvernului nr. 130/2021 privind unele măsuri fiscal-bugetare, prorogarea unor termene, precum și pentru modificarea și completarea unor acte normative și art. I alin. (5) din Ordonanța de urgență a Guvernului nr. 168/2022 privind unele măsuri fiscal-bugetare, prorogarea unor termene, precum și pentru modificarea și completarea unor acte normative, care prevăd plafonarea anuală a sporurilor și indemnizației personalului plătit din fonduri publice.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 59/2000",
+    "number": "59",
+    "year": "2000",
+    "path": "oug/2000/59"
+   },
+   "articles": [
+    {
+     "art": "22",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 46/2008",
+    "number": "46",
+    "year": "2008",
+    "path": "lege/2008/46"
+   },
+   "articles": [
+    {
+     "art": "22",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "120",
+     "alin": [
+      "3",
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 937/2018",
+    "number": "937",
+    "year": "2018",
+    "path": "hg/2018/937"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": [
+      "d"
+     ]
+    },
+    {
+     "art": "7",
+     "alin": null,
+     "lit": [
+      "e"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 114/2018",
+    "number": "114",
+    "year": "2018",
+    "path": "oug/2018/114"
+   },
+   "articles": [
+    {
+     "art": "34",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 226/2020",
+    "number": "226",
+    "year": "2020",
+    "path": "oug/2020/226"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 130/2021",
+    "number": "130",
+    "year": "2021",
+    "path": "oug/2021/130"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 168/2022",
+    "number": "168",
+    "year": "2022",
+    "path": "oug/2022/168"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 62/2024",
+    "number": "62",
+    "year": "2024",
+    "path": "oug/2024/62"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 234/2019",
+    "number": "234",
+    "year": "2019",
+    "path": "lege/2019/234"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârii Guvernului nr. 935/2019",
+    "number": "935",
+    "year": "2019",
+    "path": "hg/2019/935"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 1/2020",
+    "number": "1",
+    "year": "2020",
+    "path": "oug/2020/1"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 53/2003",
+    "number": "53",
+    "year": "2003",
+    "path": "lege/2003/53"
+   },
+   "articles": [
+    {
+     "art": "164",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 96/2018",
+    "number": "96",
+    "year": "2018",
+    "path": "oug/2018/96"
+   },
+   "articles": [
+    {
+     "art": "IV",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 283/2024",
+    "number": "283",
+    "year": "2024",
+    "path": "lege/2024/283"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-06-18",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/299134",
+  "text_sha256": "41410afa82c54b9faf9843a97a39abf4bb1d33a8669b6dfaba2e3b7cbc5af42e",
+  "catalogue_sha256": "41410afa82c54b9faf9843a97a39abf4bb1d33a8669b6dfaba2e3b7cbc5af42e",
+  "fetched": "2026-11-03T00:56:52Z",
+  "chars": 35826,
+  "portal_id": "299134",
+  "tip": "DECIZIE"
+ }
+}
