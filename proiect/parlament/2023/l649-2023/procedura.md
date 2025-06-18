@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2024-10-29: published in the Monitorul Oficial
 - 2025-02-11: returned for re-examination
 - 2025-06-16: adopted by the Senate
+- 2025-06-18: documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -35,3 +36,8 @@ Initiator: Guvernul României.
 - 2023-12-11: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L649AM.PDF
 - 2024-06-26: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L649AXS.PDF
 - 2024-06-26: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L649LP.PDF
+- 2025-06-18: Document (SC1): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L649SC1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-06-18: Document (DC1): [dc1-d03f87d9.md](dc1-d03f87d9.md); official file https://www.senat.ro/legis/PDF/2023/23L649DC1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-06-18: Document (RC1): [rc1-db3432e7.md](rc1-db3432e7.md); official file https://www.senat.ro/legis/PDF/2023/23L649RC1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-06-18: Document (XD1): [xd1-c71ff15e.md](xd1-c71ff15e.md); official file https://www.senat.ro/legis/PDF/2023/23L649XD1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-06-18: Document (SX1): [sx1-8a5e0e15.md](sx1-8a5e0e15.md); official file https://www.senat.ro/legis/PDF/2023/23L649SX1.PDF (its day is not given by the bill file: shown from the last stage held)
