@@ -16,6 +16,7 @@ Initiator: Membri ai Parlamentului.
 - 2024-02-14: documents published: Raport comisie sesizată pe fond
 - 2024-02-19: rejected by the Senate; documents published: Adresă către Camera Deputaților
 - 2024-02-26: registered at the Chamber of Deputies
+- 2025-06-18: documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -30,3 +31,4 @@ Initiator: Membri ai Parlamentului.
 - 2024-02-06: Aviz comisie (CA56): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L766CA56.PDF
 - 2024-02-14: Raport comisie sesizată pe fond (CR): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L766CR.PDF
 - 2024-02-19: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L766AM.PDF
+- 2025-06-18: Document (CC): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L766CC.PDF (its day is not given by the bill file: shown from the last stage held)
