@@ -1,0 +1,303 @@
+{
+ "key": "dcc-653-2024",
+ "label": "Decizia CCR nr. 653/2024",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "653",
+ "date": "2024-11-21",
+ "year": "2024",
+ "heading": "DECIZIA nr. 653 din 21 noiembrie 2024",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. I alin. (1), (3), (4) și (5) din Ordonanța de urgență a Guvernului nr. 226/2020 privind unele măsuri fiscal-bugetare și pentru modificarea și completarea unor acte normative și prorogarea unor termene, precum și ale art. I alin. (1), (5) și (6) din Ordonanța de urgență a Guvernului nr. 130/2021 privind unele măsuri fiscal-bugetare, prorogarea unor termene, precum și pentru modificarea și completarea unor acte normative",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "569",
+  "bis": false,
+  "date": "2025-06-19",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "1.197/104/2021",
+  "2.473D/2022",
+  "2.376/101/2021",
+  "16.852/3/2021",
+  "16.425/3/2021",
+  "11.096/3/2022",
+  "13.394/3/2021",
+  "1.893/101/2021",
+  "15.979/3/2022",
+  "27.498/3/2021"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 226/2020",
+    "number": "226",
+    "year": "2020",
+    "path": "oug/2020/226"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 130/2021",
+    "number": "130",
+    "year": "2021",
+    "path": "oug/2021/130"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Sindicatul Național al Polițiștilor și Personalului Contractual din cadrul Ministerului Afacerilor Interne, în numele și pentru unii membrii de sindicat (Vlad Anca, Cristian Petcu și alții), în dosarele nr. 1.197/104/2021*, nr. 2.376/101/2021, nr. 16.852/3/2021, nr. 16.425/3/2021, nr. 11.096/3/2022, nr. 13.394/3/2021, nr. 1.893/101/2021, nr. 15.979/3/2022, nr. 27.498/3/2021, nr. 1.381/122/2021, nr. 77/87/2022, nr. 1.538/122/2021, nr. 242/122/2022, nr. 537/87/2022, nr. 3.849/99/2021, nr. 4.277/99/2021, nr. 11.184/3/2022, nr. 1.145/87/2022, nr. 13.889/3/2021, nr. 1.142/99/2022, nr. 1.656/102/2022, nr. 723/115/2022 și nr. 267/89/2022 ale Curții de Apel București - Secția a VII-a pentru cauze privind conflicte de muncă și asigurări sociale, Secția a VIII-a contencios administrativ și fiscal și Secția a IX-a de contencios administrativ și fiscal, ale Curții de Apel Iași - Secția contencios administrativ și fiscal, ale Curții de Apel Târgu Mureș - Secția a II-a civilă, de contencios administrativ și fiscal și ale Curții de Apel Oradea - Secția de contencios administrativ și fiscal și constată că dispozițiile art. I alin. (1), (3), (4) și (5) din Ordonanța de urgență a Guvernului nr. 226/2020 privind unele măsuri fiscal-bugetare și pentru modificarea și completarea unor acte normative și prorogarea unor termene, precum și ale art. I alin. (1), (5) și (6) din Ordonanța de urgență a Guvernului nr. 130/2021 privind unele măsuri fiscal-bugetare, prorogarea unor termene, precum și pentru modificarea și completarea unor acte normative sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Curții de Apel București - Secția a VII-a pentru cauze privind conflicte de muncă și asigurări sociale, Secția a VIII-a contencios administrativ și fiscal și Secția a IX-a contencios administrativ și fiscal, Curții de Apel Iași - Secția contencios administrativ și fiscal, Curții de Apel Târgu Mureș - Secția a II-a civilă, de contencios administrativ și fiscal și Curții de Apel Oradea - Secția de contencios administrativ și fiscal și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 226/2020",
+    "number": "226",
+    "year": "2020",
+    "path": "oug/2020/226"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": [
+      "1",
+      "3",
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 23
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 130/2021",
+    "number": "130",
+    "year": "2021",
+    "path": "oug/2021/130"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "I",
+     "alin": [
+      "1",
+      "5",
+      "6"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 16
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "38",
+     "alin": [
+      "4"
+     ],
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "18",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 284/2010",
+    "number": "284",
+    "year": "2010",
+    "path": "lege/2010/284"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "115",
+     "alin": [
+      "4",
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "47",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 205/2020",
+    "number": "205",
+    "year": "2020",
+    "path": "lege/2020/205"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2025-06-19",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/299158",
+  "text_sha256": "258cda6ce1584fb5d3ea46db22c9596913a524729f51c7df98c5e6b374751071",
+  "catalogue_sha256": "258cda6ce1584fb5d3ea46db22c9596913a524729f51c7df98c5e6b374751071",
+  "fetched": "2026-11-03T22:34:15Z",
+  "chars": 39077,
+  "portal_id": "299158",
+  "tip": "DECIZIE"
+ }
+}
