@@ -1,0 +1,243 @@
+{
+ "key": "dcc-3-2025",
+ "label": "Decizia CCR nr. 3/2025",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "3",
+ "date": "2025-01-28",
+ "year": "2025",
+ "heading": "DECIZIA nr. 3 din 28 ianuarie 2025",
+ "subtitle": "referitoare la excepția de neconstituționalitate a Ordonanței de urgență a Guvernului nr. 53/2018 pentru modificarea și completarea Legii nr. 360/2002 privind Statutul polițistului, în ansamblul său, precum și, în special, a dispozițiilor art. I pct. 5 din această ordonanță de urgență, cu referire la dispozițiile art. 21 alin. (5) lit. c) din Legea nr. 360/2002",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "567",
+  "bis": false,
+  "date": "2025-06-19",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "2.250/121/2020",
+  "141D/2021",
+  "3.192D/2021",
+  "3.536/121/2019"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 53/2018",
+    "number": "53",
+    "year": "2018",
+    "path": "oug/2018/53"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 360/2002",
+    "number": "360",
+    "year": "2002",
+    "path": "lege/2002/360"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "5"
+     ],
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Vicențiu-Claudiu Nechita în Dosarul nr. 2.250/121/2020 al Tribunalului Vrancea - Secția a II-a civilă și de contencios administrativ și fiscal și de Viorel Rența și Gabriel Valentin Căpătan în Dosarul nr. 3.536/121/2019 al Tribunalului Galați - Secția contencios administrativ și fiscal și constată că Ordonanța de urgență a Guvernului nr. 53/2018 pentru modificarea și completarea Legii nr. 360/2002 privind Statutul polițistului, în ansamblul său, precum și, în special, dispozițiile art. I pct. 5 din această ordonanță de urgență, cu referire la dispozițiile art. 21 alin. (5) lit. c) din Legea nr. 360/2002 privind Statutul polițistului, sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului Vrancea - Secția a II-a civilă și de contencios administrativ și fiscal și Tribunalului Galați - Secția contencios administrativ și fiscal și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 53/2018",
+    "number": "53",
+    "year": "2018",
+    "path": "oug/2018/53"
+   },
+   "articles": [],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 360/2002",
+    "number": "360",
+    "year": "2002",
+    "path": "lege/2002/360"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "5",
+      "3"
+     ],
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "9",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "115",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "73",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "j"
+     ]
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2025-06-19",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/299147",
+  "text_sha256": "716f46b5a820e72619ada22cf1fd85a43326e3d50b09a224fc6bf9a1a8648052",
+  "catalogue_sha256": "716f46b5a820e72619ada22cf1fd85a43326e3d50b09a224fc6bf9a1a8648052",
+  "fetched": "2026-11-06T01:47:36Z",
+  "chars": 16721,
+  "archive": {
+   "source": "commoncrawl",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/299147",
+   "timestamp": "20260608080732",
+   "crawl": "CC-MAIN-2026-25",
+   "filename": "crawl-data/CC-MAIN-2026-25/segments/1780687572372.38/warc/CC-MAIN-20260608072750-20260608102750-00668.warc.gz",
+   "offset": "286190825",
+   "length": "20232",
+   "sha256": "5c43b41c34ecfdb1c79081fa1bd9193ac4ac07790c0acfd3eda3f9c73edc1e4b"
+  },
+  "portal_id": "299147",
+  "tip": "DECIZIE"
+ }
+}
