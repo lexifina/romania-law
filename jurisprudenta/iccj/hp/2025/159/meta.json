@@ -1,0 +1,127 @@
+{
+ "key": "iccj-hp-159-2025",
+ "label": "Decizia ÎCCJ nr. 159/2025 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "159",
+ "date": "2025-05-05",
+ "year": "2025",
+ "heading": "DECIZIA nr. 159 din 5 mai 2025",
+ "subtitle": "referitoare la interpretarea dispozițiilor art. 30 alin. (1) lit. g) din Legea nr. 263/2010, modificată prin Ordonanța de urgență a Guvernului nr. 108/2020 de modificare a legii sistemului unitar de pensii, aprobată prin Legea nr. 289/2020 privind aprobarea Ordonanței de urgență a Guvernului nr. 108/2020 pentru completarea Legii nr. 263/2010 privind sistemul unitar de pensii publice",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "574",
+  "bis": false,
+  "date": "2025-06-20",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "17/1/2025",
+  "3.718/107/2023"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 263/2010",
+    "number": "263",
+    "year": "2010",
+    "path": "lege/2010/263"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "g"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Tribunalul Alba - Secția I civilă în Dosarul nr. 3.718/107/2023, în vederea pronunțării unei hotărâri prealabile cu privire la următoarea chestiune de drept:",
+  "În situația angajatorului care nu figurează în anexa nr. 3 a Legii nr. 263/2010 privind sistemul unitar de pensii publice, dispozițiile art. 30 alin. (1) lit. g) din Legea nr. 263/2010, modificată prin Ordonanța de urgență a Guvernului nr. 108/2020 de modificare a legii sistemului unitar de pensii, aprobată prin Legea nr. 289/2020 privind aprobarea Ordonanței de urgență a Guvernului nr. 108/2020 pentru completarea Legii nr. 263/2010 privind sistemul unitar de pensii publice, se interpretează în sensul că produc efecte și asupra raporturilor de muncă în sensul recunoașterii ope legis a încadrării în condiții speciale, după data de 1.04.2001, a activităților din industria de armament încadrate în grupa I de muncă, conform legislației anterioare datei de 1.04.2001, angajatorul atestând acest fapt, sau se interpretează în sensul că produc efecte numai în materia asigurărilor sociale, cu referire la stagiul de cotizare realizat în condiții speciale, angajatorul atestând, pentru perioada ulterioară datei de 1.04.2001, activitatea profesională prestată în locul de muncă prevăzut de textul de lege.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 263/2010",
+    "number": "263",
+    "year": "2010",
+    "path": "lege/2010/263"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "g"
+     ]
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 62/2024",
+    "number": "62",
+    "year": "2024",
+    "path": "oug/2024/62"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-06-20",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/299181",
+  "text_sha256": "b51bef2cd9c743b55375226e31db317ef6e441dfc5676c7b72048cde767cf31a",
+  "catalogue_sha256": "b51bef2cd9c743b55375226e31db317ef6e441dfc5676c7b72048cde767cf31a",
+  "fetched": "2026-11-03T00:56:42Z",
+  "chars": 17751,
+  "portal_id": "299181",
+  "tip": "DECIZIE"
+ }
+}
