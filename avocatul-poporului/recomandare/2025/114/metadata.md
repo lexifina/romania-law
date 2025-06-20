@@ -1,0 +1,9 @@
+# Recomandarea Avocatul Poporului nr. 114/2025
+
+Text withheld: this record names private persons and is not anonymised, so only its metadata is published here; the official text is at the source link.
+
+- Body: Avocatul Poporului
+- Type: recomandare
+- Number: 114
+- Date: 2025-06-20
+- Source: https://avp.ro/wp-content/uploads/2025/07/Recomandarea114_2025.pdf
