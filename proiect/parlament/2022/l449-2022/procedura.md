@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2025-05-28: adopted by the Chamber of Deputies
 - 2025-06-02: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-06-04: sent for promulgation
+- 2025-06-23: promulgated, becomes Legea nr. 110/2025; published in the Monitorul Oficial; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -34,3 +35,5 @@ Initiator: Guvernul României.
 - 2022-09-19: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L449AM.PDF
 - 2025-06-02: Adresă privind sesizarea CCR (AXS): [axs-d8d4f9a6.md](axs-d8d4f9a6.md); official file https://www.senat.ro/legis/PDF/2022/22L449AXS.PDF
 - 2025-06-02: Forma trimisă la promulgare (LP): [lp-c59efe6f.md](lp-c59efe6f.md); official file https://www.senat.ro/legis/PDF/2022/22L449LP.PDF
+- 2025-06-23: Decret de promulgare (DP): [dp-ceb21e07.md](dp-ceb21e07.md); official file https://www.senat.ro/legis/PDF/2022/22L449DP.PDF
+- 2025-06-23: Forma promulgată (FP): [fp-a507133e.md](fp-a507133e.md); official file https://www.senat.ro/legis/PDF/2022/22L449FP.PDF
