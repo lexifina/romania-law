@@ -21,6 +21,7 @@ Initiator: Guvernul României.
 - 2025-05-28: adopted by the Chamber of Deputies
 - 2025-06-02: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-06-04: sent for promulgation
+- 2025-06-23: promulgated, becomes Legea nr. 109/2025; published in the Monitorul Oficial; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -40,3 +41,5 @@ Initiator: Guvernul României.
 - 2023-02-13: Adresă către Camera Deputaților (AM): [am-1e18f719.md](am-1e18f719.md); official file https://www.senat.ro/legis/PDF/2022/22L833AM.PDF
 - 2025-06-02: Adresă privind sesizarea CCR (AXS): [axs-9e3d6487.md](axs-9e3d6487.md); official file https://www.senat.ro/legis/PDF/2022/22L833AXS.PDF
 - 2025-06-02: Forma trimisă la promulgare (LP): [lp-84e461c8.md](lp-84e461c8.md); official file https://www.senat.ro/legis/PDF/2022/22L833LP.PDF
+- 2025-06-23: Decret de promulgare (DP): [dp-1b013cfc.md](dp-1b013cfc.md); official file https://www.senat.ro/legis/PDF/2022/22L833DP.PDF
+- 2025-06-23: Forma promulgată (FP): [fp-a6439e74.md](fp-a6439e74.md); official file https://www.senat.ro/legis/PDF/2022/22L833FP.PDF
