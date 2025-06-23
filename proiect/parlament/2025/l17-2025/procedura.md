@@ -17,6 +17,7 @@ Initiator: Guvernul României.
 - 2025-05-28: adopted by the Chamber of Deputies
 - 2025-06-02: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-06-07: sent for promulgation
+- 2025-06-23: promulgated, becomes Legea nr. 114/2025; published in the Monitorul Oficial; documents published: Document (day not given by the bill file), Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -31,3 +32,7 @@ Initiator: Guvernul României.
 - 2025-03-10: Adresă către Camera Deputaților (AM): [am-15dc7185.md](am-15dc7185.md); official file https://www.senat.ro/legis/PDF/2025/25L017AM.PDF
 - 2025-06-02: Adresă privind sesizarea CCR (AXS): [axs-d2bdf324.md](axs-d2bdf324.md); official file https://www.senat.ro/legis/PDF/2025/25L017AXS.PDF
 - 2025-06-02: Forma trimisă la promulgare (LP): [lp-14686e4e.md](lp-14686e4e.md); official file https://www.senat.ro/legis/PDF/2025/25L017LP.PDF
+- 2025-06-23: Document (AT): [at-6ec33c53.md](at-6ec33c53.md); official file https://www.senat.ro/legis/PDF/2025/25L017AT.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-06-23: Document (S1): [s1-cc991a80.md](s1-cc991a80.md); official file https://www.senat.ro/legis/PDF/2025/25L017S1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-06-23: Decret de promulgare (DP): [dp-75b678ec.md](dp-75b678ec.md); official file https://www.senat.ro/legis/PDF/2025/25L017DP.PDF
+- 2025-06-23: Forma promulgată (FP): [fp-9dbf2227.md](fp-9dbf2227.md); official file https://www.senat.ro/legis/PDF/2025/25L017FP.PDF
