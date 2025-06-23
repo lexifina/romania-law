@@ -18,6 +18,7 @@ Initiator: Membri ai Parlamentului.
 - 2025-06-04: adopted by the Chamber of Deputies
 - 2025-06-10: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-06-16: sent for promulgation
+- 2025-06-23: promulgated, becomes Legea nr. 116/2025; published in the Monitorul Oficial; documents published: Document (day not given by the bill file), Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -31,3 +32,6 @@ Initiator: Membri ai Parlamentului.
 - 2024-12-18: Adresă către Camera Deputaților (AM): [am-62a37ebd.md](am-62a37ebd.md); official file https://www.senat.ro/legis/PDF/2024/24L566AM.PDF
 - 2025-06-10: Adresă privind sesizarea CCR (AXS): [axs-39c4735b.md](axs-39c4735b.md); official file https://www.senat.ro/legis/PDF/2024/24L566AXS.PDF
 - 2025-06-10: Forma trimisă la promulgare (LP): [lp-78dc6148.md](lp-78dc6148.md); official file https://www.senat.ro/legis/PDF/2024/24L566LP.PDF
+- 2025-06-23: Document (SM): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L566SM.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-06-23: Decret de promulgare (DP): [dp-0a239082.md](dp-0a239082.md); official file https://www.senat.ro/legis/PDF/2024/24L566DP.PDF
+- 2025-06-23: Forma promulgată (FP): [fp-70b07a13.md](fp-70b07a13.md); official file https://www.senat.ro/legis/PDF/2024/24L566FP.PDF
