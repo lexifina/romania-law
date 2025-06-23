@@ -1,0 +1,460 @@
+{
+ "key": "iccj-hp-150-2025",
+ "label": "Decizia ÎCCJ nr. 150/2025 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "150",
+ "date": "2025-05-05",
+ "year": "2025",
+ "heading": "DECIZIA nr. 150 din 5 mai 2025",
+ "subtitle": "referitoare la interpretarea dispozițiior art. 123 alin. (3) din Codul muncii, în condițiile în care, pentru personalul plătit din fonduri publice în perioada incidentă 2016-2019, erau aplicabile dispozițiile art. 9 din Ordonanța de urgență a Guvernului nr. 57/2015, art. 8 din Ordonanța de urgență a Guvernului nr. 99/2016, art. 8 din Ordonanța de urgență a Guvernului nr. 90/2017 și art. 35 din Ordonanța de urgență a Guvernului nr. 114/2018 privind compensarea muncii suplimentare numai cu timp liber corespunzător",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "581",
+  "bis": false,
+  "date": "2025-06-23",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.622/1/2024",
+  "2.622/1/2025",
+  "2.736/107/2019"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul muncii",
+    "path": "lege/2003/53",
+    "slug": "codul-muncii"
+   },
+   "articles": [
+    {
+     "art": "123",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 57/2015",
+    "number": "57",
+    "year": "2015",
+    "path": "oug/2015/57"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 99/2016",
+    "number": "99",
+    "year": "2016",
+    "path": "oug/2016/99"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 90/2017",
+    "number": "90",
+    "year": "2017",
+    "path": "oug/2017/90"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 114/2018",
+    "number": "114",
+    "year": "2018",
+    "path": "oug/2018/114"
+   },
+   "articles": [
+    {
+     "art": "35",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Curtea de Apel Alba Iulia - Secția I Civilă în Dosarul nr. 2.736/107/2019, în vederea pronunțării unei hotărâri prealabile pentru dezlegarea următoarei chestiuni de drept:",
+  "Dacă, în situația unui angajat al cărui raport de muncă a încetat, devin aplicabile dispozițiile art. 123 alin. (3) din Codul muncii, în condițiile în care, pentru personalul plătit din fonduri publice în perioada incidentă 2016-2019 erau aplicabile dispozițiile art. 9 din Ordonanța de urgență a Guvernului nr. 57/2015, art. 8 din Ordonanța de urgență a Guvernului nr. 99/2016, art. 8 din Ordonanța de urgență a Guvernului nr. 90/2017 și art. 35 din Ordonanța de urgență a Guvernului nr. 114/2018 privind compensarea muncii suplimentare numai cu timp liber corespunzător.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 62/2024",
+    "number": "62",
+    "year": "2024",
+    "path": "oug/2024/62"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul muncii",
+    "path": "lege/2003/53",
+    "slug": "codul-muncii"
+   },
+   "articles": [
+    {
+     "art": "123",
+     "alin": [
+      "3",
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "111",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "120",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "121",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "122",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "229",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "137",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "142",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 19
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 57/2015",
+    "number": "57",
+    "year": "2015",
+    "path": "oug/2015/57"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 99/2016",
+    "number": "99",
+    "year": "2016",
+    "path": "oug/2016/99"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 90/2017",
+    "number": "90",
+    "year": "2017",
+    "path": "oug/2017/90"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 114/2018",
+    "number": "114",
+    "year": "2018",
+    "path": "oug/2018/114"
+   },
+   "articles": [
+    {
+     "art": "35",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "2",
+      "1",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 9/2017",
+    "number": "9",
+    "year": "2017",
+    "path": "oug/2017/9"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea dialogului social nr. 62/2011",
+    "number": "62",
+    "year": "2011",
+    "path": "lege/2011/62"
+   },
+   "articles": [
+    {
+     "art": "142",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 168/2022",
+    "number": "168",
+    "year": "2022",
+    "path": "oug/2022/168"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 448/2006",
+    "number": "448",
+    "year": "2006",
+    "path": "lege/2006/448"
+   },
+   "articles": [
+    {
+     "art": "37",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "38",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "39",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 188/2018",
+    "number": "188",
+    "year": "2018",
+    "path": "oug/2018/188"
+   },
+   "articles": [
+    {
+     "art": "35",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-06-23",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/299205",
+  "text_sha256": "0b0f430934c9ecbadb57d7986cb91bfff5b18161e984628a37be2c859572d4a5",
+  "catalogue_sha256": "0b0f430934c9ecbadb57d7986cb91bfff5b18161e984628a37be2c859572d4a5",
+  "fetched": "2026-11-03T00:56:45Z",
+  "chars": 40841,
+  "portal_id": "299205",
+  "tip": "DECIZIE"
+ }
+}
