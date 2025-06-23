@@ -17,6 +17,7 @@ Initiator: Guvernul României.
 - 2025-05-28: adopted by the Chamber of Deputies
 - 2025-06-02: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-06-04: sent for promulgation
+- 2025-06-23: promulgated, becomes Legea nr. 105/2025; published in the Monitorul Oficial; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -32,3 +33,5 @@ Initiator: Guvernul României.
 - 2024-12-16: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L606AM.PDF
 - 2025-06-02: Adresă privind sesizarea CCR (AXS): [axs-b32e2856.md](axs-b32e2856.md); official file https://www.senat.ro/legis/PDF/2024/24L606AXS.PDF
 - 2025-06-02: Forma trimisă la promulgare (LP): [lp-cb7f24bd.md](lp-cb7f24bd.md); official file https://www.senat.ro/legis/PDF/2024/24L606LP.PDF
+- 2025-06-23: Decret de promulgare (DP): [dp-207d6e70.md](dp-207d6e70.md); official file https://www.senat.ro/legis/PDF/2024/24L606DP.PDF
+- 2025-06-23: Forma promulgată (FP): [fp-f60beea4.md](fp-f60beea4.md); official file https://www.senat.ro/legis/PDF/2024/24L606FP.PDF
