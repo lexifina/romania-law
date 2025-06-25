@@ -1,0 +1,13 @@
+# Anexa 6
+Anexa nr. 7
+CONSIMȚĂMÂNT
+PENTRU PRELUCRAREA DATELOR CU CARACTER PERSONAL
+Subsemnatul/subsemnata &lt;prenume, nume&gt;, posesor al CI ...., nr ... eliberat de ...., în calitate de reprezentant legal/împuternicit al &lt;denumire solicitant/partener &gt;, persoană de contact menționată în cererea de finanțare, în cadrul proiectului &lt;titlul proiectului&gt;, declar prin prezenta că toate datele cu caracter personal evidențiate prin cererea de finanțare au fost prelucrate cu respectarea legii și sunt de acord ca MADR - AMPOPAM să fie autorizate prin compartimentele de specialitate responsabile cu evaluarea, selecția și contractarea cererii de finanțare să proceseze datele personale menționate, în cadrul activității de evaluare, selecție și contractare, în baza Reg. (UE) nr. 679/2016 privind protecția persoanelor fizice în ceea ce privește prelucrarea datelor cu caracter personal și privind libera circulație a acestor date și de abrogare a Directivei 95 / 46 / CE ( Regulamentul general privind protecția datelor), precum și prelucrarea, stocarea / arhivarea datelor conform normelor legale incidente.
+De asemenea, prin prezenta sunt de acord cu prelucrarea datelor cu caracter personal în scopul mai sus menționat, cu furnizarea datelor personale, precum și cu accesarea și prelucrarea acestora în bazele de date publice cu scopul realizării verificărilor presupuse de ghidul solicitantului, acordând inclusiv dreptul AM POCIDIF și OIC de a utiliza datele disponibile în baze de date externe în scopul verificării în procesul de evaluare, selecție și contractare a cererii de finanțare cu titlul ........, cod SMIS ...........,
+Declar că am luat la cunoștință de drepturile mele conferite de Reg. (UE) nr. 679 /2016 , inclusiv despre drepturile pe care subiecții datelor cu caracter personal le dețin, dreptul la acces la date, dreptul la ștergerea datelor ("dreptul de a fi uitat"), dreptul la restricționare, dreptul la portabilitatea datelor, dreptul la opoziție, dreptul la rectificare în conformitate cu prevederile legale în vigoare.
+Modalitatea prin care solicit să fiu contactat în scopul furnizării de informații este sistemul electronic MySMIS2021/SMIS2021+ sau adresa de email .........., telefon ............., conform prevederilor contractului de finanțare cu privire la comunicare.
+Declar că am înțeles această declarație de consimțământ, că sunt de acord cu procesarea datelor mele personale prin canalele de mai sus, în scopurile descrise în această declarație de consimțământ.
+Reprezentant legal/Împuternicit/Persoană de contact
+Nume și prenume (litere mari de tipar) ............
+Data: .............
+Semnătura .........
