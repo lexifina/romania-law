@@ -1,0 +1,195 @@
+{
+ "key": "iccj-hp-162-2025",
+ "label": "Decizia ÎCCJ nr. 162/2025 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "162",
+ "date": "2025-05-05",
+ "year": "2025",
+ "heading": "DECIZIA nr. 162 din 5 mai 2025",
+ "subtitle": "referitoare la taxa de școlarizare prevăzută de art. 4 alin. (1) lit. f) din capitolul IV secțiunea a 3-a din anexa nr. IV la Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice în cazul educației antepreșcolarilor și preșcolarilor prin raportare la prevederile Legii educației naționale nr. 1/2011 și respectiv Legii învățământului preuniversitar nr. 198/2023",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "594",
+  "bis": false,
+  "date": "2025-06-26",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "227/1/2025",
+  "21.613/3/2023"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii educației naționale nr. 1/2011",
+    "number": "1",
+    "year": "2011",
+    "path": "lege/2011/1"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii învățământului preuniversitar nr. 198/2023",
+    "number": "198",
+    "year": "2023",
+    "path": "lege/2023/198"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Tribunalul București - Secția a VIII-a conflicte de muncă și asigurări sociale, în Dosarul nr. 21.613/3/2023*, în vederea pronunțării unei hotărâri prealabile pentru dezlegarea următoarei chestiuni de drept: Ce include taxa de școlarizare prevăzută de art. 4 alin. (1) lit. f) din capitolul IV secțiunea a 3-a din anexa nr. IV la Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice în cazul educației antepreșcolarilor și preșcolarilor prin raportare la prevederile Legii educației naționale nr. 1/2011 și respectiv Legii învățământului preuniversitar nr. 198/2023 ? Documentele de decontare prezentate de părinte și emise de creșe/grădinițe care oferă nu numai servicii de educație, ci și supraveghere și îngrijire trebuie să realizeze o defalcare a costurilor în ceea ce privește educația antepreșcolarilor și preșcolarilor și celelalte costuri?",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 62/2024",
+    "number": "62",
+    "year": "2024",
+    "path": "oug/2024/62"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii educației naționale nr. 1/2011",
+    "number": "1",
+    "year": "2011",
+    "path": "lege/2011/1"
+   },
+   "articles": [],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii învățământului preuniversitar nr. 198/2023",
+    "number": "198",
+    "year": "2023",
+    "path": "lege/2023/198"
+   },
+   "articles": [],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "95",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul muncii",
+    "path": "lege/2003/53",
+    "slug": "codul-muncii"
+   },
+   "articles": [
+    {
+     "art": "269",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-06-26",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/299335",
+  "text_sha256": "cef75163d5fd45235be3a28a9ac55795da0a508815a217d1047ef7458c7edc31",
+  "catalogue_sha256": "cef75163d5fd45235be3a28a9ac55795da0a508815a217d1047ef7458c7edc31",
+  "fetched": "2026-11-03T00:56:30Z",
+  "chars": 29157,
+  "portal_id": "299335",
+  "tip": "DECIZIE"
+ }
+}
