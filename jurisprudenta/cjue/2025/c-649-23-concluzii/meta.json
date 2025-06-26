@@ -1,0 +1,42 @@
+{
+ "key": "cjue-c-649-23-concluzii-2025-06-26",
+ "label": "CJUE, Concluziile avocatului general domnul D. Spielmann prezentate la 26 iunie 2025, Cauza C-649/23.",
+ "court": "cjue",
+ "court_name": "Curtea de Justiție a Uniunii Europene",
+ "kind": "concluzii",
+ "act_type": "OPIN_AG",
+ "date": "2025-06-26",
+ "year": "2025",
+ "case": "Cauza C-649/23.",
+ "celex": "62023CC0649",
+ "ecli": "ECLI:EU:C:2025:488",
+ "heading": "Concluziile avocatului general domnul D. Spielmann prezentate la 26 iunie 2025",
+ "formation": null,
+ "procedure": "REFER_PREL",
+ "romania_role": [
+  "originates"
+ ],
+ "referred_by": null,
+ "referral_text": "Cererea de decizie preliminară formulată de Înalta Curte de Casaţie şi Justiţie.",
+ "national_followup": null,
+ "parties": null,
+ "parties_withheld": true,
+ "keywords": "Trimitere preliminară – Apropierea legislațiilor – Directiva 2001/29/CE – Armonizarea anumitor aspecte ale dreptului de autor și ale drepturilor conexe în societatea informațională – Dreptul de reproducere – Articolul 2 litera (a) – Noțiunea de operă – Protecția operelor prin dreptul de autor – Condiții – Directiva 2006/116/CE – Articolul 5 – Convenția de la Berna pentru protecția operelor literare și artistice – Articolul 2 – Ediție critică a unei opere preexistente, al cărei scop este reconstituirea unui manuscris în latină – Creație intelectuală care reflectă personalitatea autorului său, manifestând alegerile libere și creative ale acestuia – Obiect identificabil în mod suficient de precis și de obiectiv.",
+ "interprets": [],
+ "text": null,
+ "text_withheld": "personal_data",
+ "withheld_reason": "The full text names the parties' lawyers (and, in older cases, private parties); only the metadata and the operative part are published here, with the official link.",
+ "operative_missing": null,
+ "eurlex_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62023CC0649",
+ "curia_url": "https://curia.europa.eu/juris/liste.jsf?num=C-649/23&language=ro",
+ "source": {
+  "name": "CELLAR, Publications Office of the European Union",
+  "url": "http://publications.europa.eu/resource/cellar/c1c5f578-5276-11f0-a9d0-01aa75ed71a1.0015.05/DOC_1",
+  "format": "xhtml",
+  "sha256": [
+   "5ad07538d0d0daafc71518eca1f335d5e9b564f84af8ca296937d918a83f65ab"
+  ]
+ },
+ "legal_basis": "Jurisprudența Curții de Justiție a Uniunii Europene (texte oficiale; reutilizare permisă cu menționarea sursei: Decizia Comisiei 2011/833/UE și condițiile CURIA; © Uniunea Europeană). Textele oficiale nu sunt protejate de dreptul de autor în România (Legea nr. 8/1996, art. 9 lit. b).",
+ "attribution": "© European Union, https://eur-lex.europa.eu (via the Publications Office CELLAR)"
+}
