@@ -1,0 +1,164 @@
+{
+ "key": "iccj-hp-127-2025",
+ "label": "Decizia ÎCCJ nr. 127/2025 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "127",
+ "date": "2025-04-07",
+ "year": "2025",
+ "heading": "DECIZIA nr. 127 din 7 aprilie 2025",
+ "subtitle": "referitoare la posibilitatea recunoașterii dreptului reclamanților de a beneficia de plata simultană a drepturilor salariale aferente titlului de specialist de clasă și primei de clasificare, retroactiv, începând cu data de 1.11.2019 și până la trecerea în rezervă a fiecărui reclamant",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "597",
+  "bis": false,
+  "date": "2025-06-26",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.481/1/2024",
+  "7.061/3/2023"
+ ],
+ "subjects": [],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Tribunalul Ilfov - Secția civilă în Dosarul nr. 7.061/3/2023, în vederea pronunțării unei hotărâri prealabile cu privire la următoarea chestiune de drept:",
+  "Posibilitatea recunoașterii dreptului reclamanților de a beneficia de plata simultană a drepturilor salariale aferente titlului de specialist de clasă și primei de clasificare, retroactiv, începând cu data de 1.11.2019 și până la trecerea în rezervă a fiecărui reclamant.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 62/2024",
+    "number": "62",
+    "year": "2024",
+    "path": "oug/2024/62"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 284/2010",
+    "number": "284",
+    "year": "2010",
+    "path": "lege/2010/284"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 35/1990",
+    "number": "35",
+    "year": "1990",
+    "path": "lege/1990/35"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "17",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "31",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  }
+ ],
+ "warnings": [
+  "subjects: none parsed"
+ ],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-06-26",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/299347",
+  "text_sha256": "ed335826d46ae566b9bb2bf682b9fb298f3ac0e83b7c76562659a71a0c992133",
+  "catalogue_sha256": "ed335826d46ae566b9bb2bf682b9fb298f3ac0e83b7c76562659a71a0c992133",
+  "fetched": "2026-11-03T00:56:30Z",
+  "chars": 33506,
+  "portal_id": "299347",
+  "tip": "DECIZIE"
+ }
+}
