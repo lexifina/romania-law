@@ -1,0 +1,184 @@
+{
+ "key": "dcc-343-2024",
+ "label": "Decizia CCR nr. 343/2024",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "343",
+ "date": "2024-07-09",
+ "year": "2024",
+ "heading": "DECIZIA nr. 343 din 9 iulie 2024",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 28 alin. (1) fraza a treia teza finală din Ordonanța Guvernului nr. 2/2001 privind regimul juridic al contravențiilor, în redactarea anterioară modificărilor aduse prin Legea nr. 203/2018 privind măsuri de eficientizare a achitării amenzilor contravenționale",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "594",
+  "bis": false,
+  "date": "2025-06-26",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "4.925/270/2017",
+  "3.208D/2029"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 2/2001",
+    "number": "2",
+    "year": "2001",
+    "path": "og/2001/2"
+   },
+   "articles": [
+    {
+     "art": "28",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 203/2018",
+    "number": "203",
+    "year": "2018",
+    "path": "lege/2018/203"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Tribunalul Bacău - Secția a II-a civilă, de contencios administrativ și fiscal, din oficiu, în Dosarul nr. 4.925/270/2017 al acestei instanțe și constată că dispozițiile art. 28 alin. (1) fraza a treia teza finală din Ordonanța Guvernului nr. 2/2001 privind regimul juridic al contravențiilor, în redactarea anterioară modificărilor aduse prin Legea nr. 203/2018 privind măsuri de eficientizare a achitării amenzilor contravenționale, sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului Bacău - Secția a II-a civilă, de contencios administrativ și fiscal și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 2/2001",
+    "number": "2",
+    "year": "2001",
+    "path": "og/2001/2"
+   },
+   "articles": [
+    {
+     "art": "28",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 203/2018",
+    "number": "203",
+    "year": "2018",
+    "path": "lege/2018/203"
+   },
+   "articles": [
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2025-06-26",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/299332",
+  "text_sha256": "21e8313e55b1cf52b997ef41dd50242a1b15b17a90a2952fa04dde345e0d98b1",
+  "catalogue_sha256": "21e8313e55b1cf52b997ef41dd50242a1b15b17a90a2952fa04dde345e0d98b1",
+  "fetched": "2026-11-03T00:56:38Z",
+  "chars": 17010,
+  "portal_id": "299332",
+  "tip": "DECIZIE"
+ }
+}
