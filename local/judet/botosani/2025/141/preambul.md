@@ -1,0 +1,11 @@
+Consiliul Județean Botoșani întrunit în ședință ordinară la data de 27.06.2025, urmare adreselor nr. 14705/06.02.2025, 14755/18.02.2025 și 14859/14.03.2025 înaintate de către Asociația de Dezvoltare Intercomunitară „AQUA BOTOȘANI”, înregistrate la Consiliul Județean Botoșani cu nr. 2656/07.02.2025, nr. 3571/19.02.2025 și nr. 5479/17.03.2025, analizând Referatul de aprobare nr. 6858/03.04.2025 al Președintelui Consiliului Județean Botoșani prin care se propune modificărea Metodologiei de defalcare și facturare a cantităților de apă potabilă în condominii, având în vedere:
+- Raportul de specialitate comun nr. 6859/03.04.2025 al Direcției Servicii Publice și Direcției Juridică, Administrație Publică Locală și Direcției Buget Finanțe din cadrul aparatului de specialitate al Consiliului Județean Botoșani;
+- Avizul Comisiei pentru activități economice, buget, finanțe, administrarea domeniului public și privat al județului, servicii publice și agricultură;
+- Avizul comisiei pentru administrația publică locală, juridică, disciplină, apărarea ordinii publice, respectarea drepturilor și libertăților cetățenilor, cooperare, parteneriate și fonduri europene,
+- Avizul Comisiei pentru amenajarea teritoriului și urbanism, lucrări publice, monumente istorice și de arhitectură, protecția mediului și turism,
+- Decizia nr. 2/31.01.2024 a Consiliului de Administrație al Societății Nova Apaserv S.A.
+Botoșani;
+- Hotărârea nr. 209/14.03.2025 a Adunării Generale a Asociaților Asociației de Dezvoltare Intercomunitare „AQUA BOTOȘANI” privind avizarea modificării Metodologiei de defalcare și facturare a cantităților de apă potabilă în condominii, în conformitate cu prevederile art. 7 alin. (1) lit. e), art. 12 alin. (1) lit. k) din Legea nr.
+241/2006 a serviciului de alimentare cu apă și de canalizare, republicată, art. 7 alin. (1) lit. e), art.
+42 alin. (4) și alin. (6) din Legea nr. 51/2006 a serviciilor comunitare de utilități publice și ale art.7 din Legea nr. 52/2003 privind transparența decizională în administrația publică, republicată, în temeiul art. 173 alin. (1) lit. d) și f), alin. (5) lit. m) și art. 196 alin. (1) lit. a) din Ordonanța de urgență a Guvernului nr. 57/2019 privind Codul administrativ,
+hotărăște:
