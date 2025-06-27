@@ -17,6 +17,7 @@ Initiator: Guvernul României.
 - 2024-10-01: registered at the Chamber of Deputies
 - 2025-06-18: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-06-20: sent for promulgation
+- 2025-06-27: promulgated, becomes Legea nr. 117/2025; published in the Monitorul Oficial; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -34,3 +35,5 @@ Initiator: Guvernul României.
 - 2024-09-23: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L483AM.PDF
 - 2025-06-18: Adresă privind sesizarea CCR (AXS): [axs-3ec5455d.md](axs-3ec5455d.md); official file https://www.senat.ro/legis/PDF/2024/24L483AXS.PDF
 - 2025-06-18: Forma trimisă la promulgare (LP): [lp-834c4a89.md](lp-834c4a89.md); official file https://www.senat.ro/legis/PDF/2024/24L483LP.PDF
+- 2025-06-27: Decret de promulgare (DP): [dp-24aab149.md](dp-24aab149.md); official file https://www.senat.ro/legis/PDF/2024/24L483DP.PDF
+- 2025-06-27: Forma promulgată (FP): [fp-a0d2bc08.md](fp-a0d2bc08.md); official file https://www.senat.ro/legis/PDF/2024/24L483FP.PDF
