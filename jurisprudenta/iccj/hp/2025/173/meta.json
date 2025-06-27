@@ -1,0 +1,219 @@
+{
+ "key": "iccj-hp-173-2025",
+ "label": "Decizia ÎCCJ nr. 173/2025 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "173",
+ "date": "2025-05-19",
+ "year": "2025",
+ "heading": "DECIZIA nr. 173 din 19 mai 2025",
+ "subtitle": "privind reținerea de contribuții de asigurări sociale unei persoane care a încheiat voluntar un contract de asigurare pentru concedii și indemnizații de asigurări sociale de sănătate cu casa de asigurări de sănătate, potrivit prevederilor contractului și ale Codului fiscal, dacă persoana în cauză este avocat și are calitatea de membru al Casei de Asigurări a Avocaților",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "598",
+  "bis": false,
+  "date": "2025-06-27",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "421/1/2025"
+ ],
+ "subjects": [],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Tribunalul Cluj - Secția mixtă de contencios administrativ și fiscal, de conflicte de muncă și asigurări sociale privind dezlegarea următoarei probleme de drept:",
+  "Dacă unei persoane care a încheiat voluntar un contract de asigurare pentru concedii și indemnizații de asigurări sociale de sănătate cu casa de asigurări de sănătate, în temeiul dispozițiilor Ordonanței de urgență a Guvernului nr. 158/2005, i se rețin contribuții de asigurări sociale potrivit prevederilor contractuale și ale Codului fiscal, dacă persoana în cauză este avocat și are calitatea de membru al Casei de Asigurări a Avocaților.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 62/2024",
+    "number": "62",
+    "year": "2024",
+    "path": "oug/2024/62"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul fiscal",
+    "path": "lege/2015/227",
+    "slug": "codul-fiscal"
+   },
+   "articles": [
+    {
+     "art": "136",
+     "alin": null,
+     "lit": [
+      "e"
+     ]
+    },
+    {
+     "art": "144",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "141",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 158/2005",
+    "number": "158",
+    "year": "2005",
+    "path": "oug/2005/158"
+   },
+   "articles": [
+    {
+     "art": "136",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "32",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 72/2016",
+    "number": "72",
+    "year": "2016",
+    "path": "lege/2016/72"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 263/2010",
+    "number": "263",
+    "year": "2010",
+    "path": "lege/2010/263"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "141",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 51/1995",
+    "number": "51",
+    "year": "1995",
+    "path": "lege/1995/51"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [
+  "subjects: none parsed"
+ ],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-06-27",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/299404",
+  "text_sha256": "cab100f7c2ed5e7dae448e379a2d6066f532b32621a8b069a771c2b4fd0c090c",
+  "catalogue_sha256": "cab100f7c2ed5e7dae448e379a2d6066f532b32621a8b069a771c2b4fd0c090c",
+  "fetched": "2026-11-03T00:56:32Z",
+  "chars": 32052,
+  "portal_id": "299404",
+  "tip": "DECIZIE"
+ }
+}
