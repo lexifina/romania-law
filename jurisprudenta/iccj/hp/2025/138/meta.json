@@ -1,0 +1,437 @@
+{
+ "key": "iccj-hp-138-2025",
+ "label": "Decizia ÎCCJ nr. 138/2025 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "138",
+ "date": "2025-04-07",
+ "year": "2025",
+ "heading": "DECIZIA nr. 138 din 7 aprilie 2025",
+ "subtitle": "referitoare la interpretarea dispozițiilor art. 11 alin. (1) și alin. (4) din Legea-cadru nr. 153/2017",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "599",
+  "bis": false,
+  "date": "2025-06-27",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.484/1/2024",
+  "567/30/2024",
+  "3.258/99/2023",
+  "1.347/99/2024"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": [
+      "1",
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 130/2021",
+    "number": "130",
+    "year": "2021",
+    "path": "oug/2021/130"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 103/2023",
+    "number": "103",
+    "year": "2023",
+    "path": "lege/2023/103"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul muncii",
+    "path": "lege/2003/53",
+    "slug": "codul-muncii"
+   },
+   "articles": [
+    {
+     "art": "164",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârii Guvernului nr. 900/2023",
+    "number": "900",
+    "year": "2023",
+    "path": "hg/2023/900"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 115/2023",
+    "number": "115",
+    "year": "2023",
+    "path": "oug/2023/115"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibile, sesizările conexate formulate de Tribunalul Timiș - Secția de contencios administrativ și fiscal, în Dosarul nr. 567/30/2024, și de Tribunalul Iași - Secția a II-a civilă, contencios administrativ și fiscal, în dosarele nr. 1.347/99/2024 și nr. 3.258/99/2023, în vederea pronunțării unei hotărâri prealabile cu privire la următoarele chestiuni de drept:",
+  "– dacă, în interpretarea dispozițiilor art. 11 alin. (1) și alin. (4) din Legea-cadru nr. 153/2017, în ipoteza stabilirii salariilor de bază pentru funcțiile prevăzute în aparatul de specialitate al primarului prin înmulțirea coeficienților de ierarhizare prevăzuți în hotărârea consiliului local cu salariul de bază minim brut pe țară garantat în plată, se aplică plafonarea salariului minim brut pe țară garantat în plată prevăzută de Ordonanța de urgență a Guvernului nr. 226/2020, Ordonanța de urgență a Guvernului nr. 130/2021, respectiv Legea nr. 103/2023 ?",
+  "– dacă, în cazul funcționarilor publici angajați de către unitățile administrativ-teritoriale, se impune stabilirea salariului de bază, începând cu data de 1 ianuarie 2024, corespunzător funcției, nivelului studiilor, gradului/treptelor profesionale și gradației de vechime, cu aplicarea salariului de bază minim brut pe țară garantat în plată în cuantum de 3.300 lei, în conformitate cu dispozițiile art. 11 alin. (1) din Legea-cadru nr. 153/2017 și ale art. 164 din Codul muncii, coroborate cu cele ale Hotărârii Guvernului nr. 900/2023, respectiv dacă acestor funcționari li se aplică limitările prevăzute de art. 11 alin. (4) din Legea-cadru nr. 153/2017 și de art. I alin. (1) și alin. (2) din Ordonanța de urgență a Guvernului nr. 115/2023 la calculul salariului de bază începând cu data menționată?",
+  "– dacă, în interpretarea art. 11 din Legea-cadru nr. 153/2017, pentru funcționarii publici din cadrul familiei ocupaționale de funcții bugetare „Administrație“ din aparatul propriu al primăriilor, salariile de bază ce se stabilesc prin hotărâre a consiliului local, în aplicarea principiului autonomiei locale, cu respectarea condiționărilor prevăzute de art. 11 alin. (4) (fără a se depăși indemnizația viceprimarului) și art. 25 (referitoare la limitarea cuantumului total al sporurilor) pot avea în vedere și înmulțirea unor coeficienți cu salariul de bază minim brut pe țară garantat în plată?",
+  "Obligatorie, potrivit art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 62/2024",
+    "number": "62",
+    "year": "2024",
+    "path": "oug/2024/62"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": [
+      "1",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "38",
+     "alin": [
+      "3",
+      "2"
+     ],
+     "lit": [
+      "f",
+      "b",
+      "e"
+     ]
+    },
+    {
+     "art": "12",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": [
+      "a",
+      "f"
+     ]
+    },
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 42
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 130/2021",
+    "number": "130",
+    "year": "2021",
+    "path": "oug/2021/130"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 103/2023",
+    "number": "103",
+    "year": "2023",
+    "path": "lege/2023/103"
+   },
+   "articles": [],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul muncii",
+    "path": "lege/2003/53",
+    "slug": "codul-muncii"
+   },
+   "articles": [
+    {
+     "art": "164",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârii Guvernului nr. 900/2023",
+    "number": "900",
+    "year": "2023",
+    "path": "hg/2023/900"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 115/2023",
+    "number": "115",
+    "year": "2023",
+    "path": "oug/2023/115"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 226/2020",
+    "number": "226",
+    "year": "2020",
+    "path": "oug/2020/226"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârii Guvernului nr. 937/2018",
+    "number": "937",
+    "year": "2018",
+    "path": "hg/2018/937"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârii Guvernului nr. 935/2019",
+    "number": "935",
+    "year": "2019",
+    "path": "hg/2019/935"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârii Guvernului nr. 1.071/2021",
+    "number": "1071",
+    "year": "2021",
+    "path": "hg/2021/1071"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 168/2022",
+    "number": "168",
+    "year": "2022",
+    "path": "oug/2022/168"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-06-27",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/299408",
+  "text_sha256": "9f60ebfa363a69edd58ea8a0070a70773addeb120fefffd81d61b7b87772309e",
+  "catalogue_sha256": "9f60ebfa363a69edd58ea8a0070a70773addeb120fefffd81d61b7b87772309e",
+  "fetched": "2026-11-03T00:56:25Z",
+  "chars": 60310,
+  "portal_id": "299408",
+  "tip": "DECIZIE"
+ }
+}
