@@ -1,0 +1,399 @@
+{
+ "key": "iccj-hp-164-2025",
+ "label": "Decizia ÎCCJ nr. 164/2025 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "164",
+ "date": "2025-05-05",
+ "year": "2025",
+ "heading": "DECIZIA nr. 164 din 5 mai 2025",
+ "subtitle": "referitoare la cumularea stimulentului de risc în cuantum de 2.500 de lei brut/lună pe perioada stării de urgență, prevăzut de art. 7 alin. (5) din Ordonanța de urgență a Guvernului nr. 43/2020 pentru aprobarea unor măsuri de sprijin decontate din fonduri europene, ca urmare a răspândirii coronavirusului COVID-19, pe perioada stării de urgență",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "602",
+  "bis": false,
+  "date": "2025-06-27",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "238/1/2025",
+  "1.947/97/2023"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 43/2020",
+    "number": "43",
+    "year": "2020",
+    "path": "oug/2020/43"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 166/2021",
+    "number": "166",
+    "year": "2021",
+    "path": "lege/2021/166"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 19/2020",
+    "number": "19",
+    "year": "2020",
+    "path": "lege/2020/19"
+   },
+   "articles": [
+    {
+     "art": "3-1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 30/2020",
+    "number": "30",
+    "year": "2020",
+    "path": "oug/2020/30"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Tribunalul Hunedoara - Secția I civilă în Dosarul nr. 1.947/97/2023, privind pronunțarea unei hotărâri prealabile pentru dezlegarea următoarei chestiuni de drept: a) dacă se poate cumula stimulentul de risc în cuantum de 2.500 de lei brut/lună pe perioada stării de urgență, prevăzut de art. 7 alin. (5) din Ordonanța de urgență a Guvernului nr. 43/2020 pentru aprobarea unor măsuri de sprijin decontate din fonduri europene, ca urmare a răspândirii coronavirusului COVID-19, pe perioada stării de urgență, aprobată prin Legea nr. 82/2020 privind aprobarea Ordonanței de urgență a Guvernului nr. 43/2020 pentru aprobarea unor măsuri de sprijin decontate din fonduri europene, ca urmare a răspândirii coronavirusului COVID-19, pe perioada stării de urgență, cu stimulentul de risc în sumă fixă de 1.150 de lei brut, pentru salariații care au fost izolați preventiv la locul de muncă pe perioada stării de urgență, în temeiul art. 1 din Ordonanța de urgență a Guvernului nr. 82/2020 pentru aprobarea acordării unui stimulent de risc pentru personalul centrelor rezidențiale de îngrijire și asistență a persoanelor vârstnice, centrelor rezidențiale pentru copii și adulți, cu și fără dizabilități, precum și pentru alte categorii vulnerabile, izolate preventiv la locul de muncă, pe perioada stării de urgență;",
+  "b) dacă în vederea acordării acestor drepturi instanța de judecată este ținută să aibă în vedere prevederile art. 25 alin. (1) din Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, potrivit cărora: „Suma sporurilor, compensațiilor, adaosurilor, primelor, premiilor și indemnizațiilor, inclusiv cele pentru hrană și vacanță, acordate cumulat pe total buget, pentru fiecare ordonator de credite, nu poate depăși 30% din suma salariilor de bază, a soldelor de funcție/salariilor de funcție, soldelor de grad/salariilor gradului profesional deținut, gradațiilor și a soldelor de comandă/salariilor de comandă, a indemnizațiilor de încadrare și a indemnizațiilor lunare, după caz.“;",
+  "c) dacă modificarea legislativă a art. 7 alin. (5) din Ordonanța de urgență a Guvernului nr. 43/2020, intervenită prin Legea nr. 166/2021 privind modificarea și completarea art. 7 din Ordonanța de urgență a Guvernului nr. 43/2020 pentru aprobarea unor măsuri de sprijin decontate din fonduri europene, ca urmare a răspândirii coronavirusului COVID-19, pe perioada stării de urgență, potrivit căreia: „Se aprobă acordarea, o singură dată, a unui stimulent de risc în cuantum de 2.500 lei brut, pentru angajații centrelor rezidențiale de îngrijire și asistență a persoanelor vârstnice, centrelor rezidențiale pentru copii și adulți, cu și fără dizabilități, precum și pentru angajații centrelor rezidențiale destinate altor categorii vulnerabile, ale furnizorilor publici și privați, prevăzute în Nomenclatorul serviciilor sociale, aprobat prin Hotărârea Guvernului nr. 867/2015 pentru aprobarea Nomenclatorului serviciilor sociale, precum și a regulamentelor-cadru de organizare și funcționare a serviciilor sociale, cu modificările și completările ulterioare, care au fost izolați preventiv la locul de muncă pe perioada stării de urgență. Furnizorii de servicii sociale au obligația de a fi acreditați, iar serviciile sociale din subordinea lor să fie licențiate sau, după caz, să dețină aviz de înființare sau reorganizare ori plan de restructurare avizat.“, are aplicabilitate în prezenta cauză, înregistrată la instanța de judecată în cursul anului 2023;",
+  "d) rezolvarea de principiu a chestiunii de drept constând în modalitatea de aplicare/interpretare a art. 3^1 alin. (1) din Legea nr. 19/2020 privind acordarea unor zile libere părinților pentru supravegherea copiilor, în situația închiderii temporare a unităților de învățământ, introdus prin art. I pct. 6 din Ordonanța de urgență a Guvernului nr. 30/2020 pentru modificarea și completarea unor acte normative, precum și pentru stabilirea unor măsuri în domeniul protecției sociale în contextul situației epidemiologice determinate de răspândirea coronavirusului SARS-CoV-2.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 43/2020",
+    "number": "43",
+    "year": "2020",
+    "path": "oug/2020/43"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 20
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 166/2021",
+    "number": "166",
+    "year": "2021",
+    "path": "lege/2021/166"
+   },
+   "articles": [],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 19/2020",
+    "number": "19",
+    "year": "2020",
+    "path": "lege/2020/19"
+   },
+   "articles": [
+    {
+     "art": "3-1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 30/2020",
+    "number": "30",
+    "year": "2020",
+    "path": "oug/2020/30"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 82/2020",
+    "number": "82",
+    "year": "2020",
+    "path": "oug/2020/82"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretul nr. 195/2020",
+    "number": "195",
+    "year": "2020",
+    "path": "decret/2020/195"
+   },
+   "articles": [
+    {
+     "art": "3-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "32",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 62/2024",
+    "number": "62",
+    "year": "2024",
+    "path": "oug/2024/62"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 166/2020",
+    "number": "166",
+    "year": "2020",
+    "path": "lege/2020/166"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul muncii",
+    "path": "lege/2003/53",
+    "slug": "codul-muncii"
+   },
+   "articles": [
+    {
+     "art": "269",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "95",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-06-27",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/299411",
+  "text_sha256": "51f8993fc2a04488b450e5880c544280db43d4816f8a274a195066020ce8d71d",
+  "catalogue_sha256": "51f8993fc2a04488b450e5880c544280db43d4816f8a274a195066020ce8d71d",
+  "fetched": "2026-11-03T00:56:25Z",
+  "chars": 52760,
+  "portal_id": "299411",
+  "tip": "DECIZIE"
+ }
+}
