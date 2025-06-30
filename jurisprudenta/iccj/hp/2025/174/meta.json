@@ -1,0 +1,203 @@
+{
+ "key": "iccj-hp-174-2025",
+ "label": "Decizia ÎCCJ nr. 174/2025 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "174",
+ "date": "2025-05-19",
+ "year": "2025",
+ "heading": "DECIZIA nr. 174 din 19 mai 2025",
+ "subtitle": "privind interpretarea art. 25 din Legea-cadru nr. 153/2017 referitoare la indemnizația de hrană acordată funcționarilor publici",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "612",
+  "bis": false,
+  "date": "2025-06-30",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.675/1/2024",
+  "590/1/2025",
+  "2.398/86/2023",
+  "1.826/105/2022"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "18",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibile, sesizările conexate formulate de Tribunalul Suceava - Secția de contencios administrativ și fiscal în Dosarul nr. 2.398/86/2023 și de Tribunalul Prahova - Secția I civilă în Dosarul nr. 1.826/105/2022, în vederea pronunțării unei hotărâri prealabile cu privire la următoarele chestiuni de drept: dacă indemnizația de hrană acordată funcționarilor publici este supusă atât limitărilor prevăzute de art. 25 din Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, cu modificările și completările ulterioare, cât și de art. 11 alin. (4) din același act normativ, doar uneia dintre ele sau niciunei limitări; și, respectiv, dacă plata indemnizației de hrană datorate personalului auxiliar de specialitate din cadrul instanțelor, prevăzută de art. 18 alin. (1) din Legea-cadru nr. 153/2017, așa cum era în vigoare la data de 24 aprilie 2023, se realizează cu aplicarea dispozițiilor art. 25 alin. (1) din aceeași lege-cadru.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 62/2024",
+    "number": "62",
+    "year": "2024",
+    "path": "oug/2024/62"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "18",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "4",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "38",
+     "alin": [
+      "3",
+      "6"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 32
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 296/2023",
+    "number": "296",
+    "year": "2023",
+    "path": "lege/2023/296"
+   },
+   "articles": [
+    {
+     "art": "18",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "XXVI",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-06-30",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/299489",
+  "text_sha256": "3909f85792ae40096be98e6a2491f6dcaf139dc0e0c1d7c27088bfac36f3d31a",
+  "catalogue_sha256": "3909f85792ae40096be98e6a2491f6dcaf139dc0e0c1d7c27088bfac36f3d31a",
+  "fetched": "2026-11-03T00:56:21Z",
+  "chars": 42994,
+  "portal_id": "299489",
+  "tip": "DECIZIE"
+ }
+}
