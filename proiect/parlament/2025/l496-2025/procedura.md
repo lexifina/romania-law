@@ -10,6 +10,7 @@ Initiator: Membri ai Parlamentului.
 
 - 2025-06-04: first record in the bill file
 - 2025-06-10: documents published: Aviz Consiliul Legislativ, Aviz Consiliul Economic și Social, Punct de vedere, Punct de vedere Guvern
+- 2025-06-30: registered at the Senate
 
 ## Documents
 
