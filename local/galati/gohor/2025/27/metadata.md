@@ -1,0 +1,9 @@
+# HCL Gohor nr. 27/2025
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+- Council: Consiliul Local al Comunei Gohor
+- Decision: nr. 27/2025
+- Adopted: 2025-06-30
+- Title: privind modificarea Hotărârii Consiliului Local Gohor nr. 32/26.07.2023 privind: aprobarea proiectului și a acordului de parteneriat pentru realizarea obiectivului de investiții „Reabilitarea și modernizarea infrastructurii de transport regional pe tronsonul funcțional E 581 - DJ 241 - DJ 241A - DJ 241G”
+- Record: https://emol.ro/gohor-gl/registru-hcl/216175
