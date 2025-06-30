@@ -1,0 +1,469 @@
+{
+ "key": "dcc-203-2025",
+ "label": "Decizia CCR nr. 203/2025",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "203",
+ "date": "2025-04-08",
+ "year": "2025",
+ "heading": "DECIZIA nr. 203 din 8 aprilie 2025",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 48 alin. (10) și ale art. 49 alin. (11) din Legea nr. 303/2004 privind statutul judecătorilor și procurorilor, precum și ale art. 108 alin. (6), ale art. 142 alin. (4), ale art. 144 alin. (2) și ale art. 150 alin. (4) din Legea nr. 303/2022 privind statutul judecătorilor și procurorilor",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "611",
+  "bis": false,
+  "date": "2025-06-30",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": true,
+ "partly": false,
+ "dossiers": [
+  "184/64/2022",
+  "566/57/2022",
+  "386D/2023",
+  "2.123D/2022"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 303/2004",
+    "number": "303",
+    "year": "2004",
+    "path": "lege/2004/303"
+   },
+   "articles": [
+    {
+     "art": "48",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "49",
+     "alin": [
+      "11"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 303/2022",
+    "number": "303",
+    "year": "2022",
+    "path": "lege/2022/303"
+   },
+   "articles": [
+    {
+     "art": "108",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "142",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "144",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "150",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "1. Admite excepția de neconstituționalitate ridicată de Valentin Teodorescu în Dosarul nr. 184/64/2022 al Curții de Apel Brașov - Secția contencios administrativ și fiscal, respectiv de Marcian Silviu Dordea în Dosarul nr. 566/57/2022 al Curții de Apel Alba Iulia - Secția de contencios administrativ și fiscal și constată că sintagma „care au făcut parte din serviciile de informații“ din cuprinsul dispozițiilor art. 48 alin. (10) din Legea nr. 303/2004 privind statutul judecătorilor și procurorilor, precum și din cuprinsul dispozițiilor art. 108 alin. (6), ale art. 142 alin. (4), ale art. 144 alin. (2) și ale art. 150 alin. (4) din Legea nr. 303/2022 privind statutul judecătorilor și procurorilor este constituțională în măsura în care vizează serviciile de informații anterioare anului 1990.",
+  "2. Admite excepția de neconstituționalitate ridicată de aceiași autori în aceleași dosare ale acelorași instanțe și constată că trimiterea din cuprinsul dispozițiilor art. 49 alin. (11) din Legea nr. 303/2004 privind statutul judecătorilor și procurorilor la art. 48 alin. (10) din același act normativ este neconstituțională.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică celor două Camere ale Parlamentului, Guvernului, Curții de Apel Brașov - Secția contencios administrativ și fiscal și Curții de Apel Alba Iulia - Secția de contencios administrativ și fiscal și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 303/2004",
+    "number": "303",
+    "year": "2004",
+    "path": "lege/2004/303"
+   },
+   "articles": [
+    {
+     "art": "48",
+     "alin": [
+      "10",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "49",
+     "alin": [
+      "11"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "3",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 23
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": [
+      "11"
+     ],
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "3",
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "37",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "38",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "48",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 18
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "52",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": [
+      "11"
+     ],
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "148",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 303/2022",
+    "number": "303",
+    "year": "2022",
+    "path": "lege/2022/303"
+   },
+   "articles": [
+    {
+     "art": "108",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "142",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "144",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "294",
+     "alin": [
+      "5"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "150",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 242/2018",
+    "number": "242",
+    "year": "2018",
+    "path": "lege/2018/242"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 187/1999",
+    "number": "187",
+    "year": "1999",
+    "path": "lege/1999/187"
+   },
+   "articles": [
+    {
+     "art": "22-1",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 16/2006",
+    "number": "16",
+    "year": "2006",
+    "path": "oug/2006/16"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 51/1991",
+    "number": "51",
+    "year": "1991",
+    "path": "lege/1991/51"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": [
+      "1",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "9",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2025-06-30",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/299484",
+  "text_sha256": "ec32d59d30ccfe4b3b6a1fac49e6895b5f5afafd563410edabd1f71c143fd4c5",
+  "catalogue_sha256": "ec32d59d30ccfe4b3b6a1fac49e6895b5f5afafd563410edabd1f71c143fd4c5",
+  "fetched": "2026-11-03T00:56:21Z",
+  "chars": 56492,
+  "portal_id": "299484",
+  "tip": "DECIZIE"
+ }
+}
