@@ -11,7 +11,8 @@ Initiator: Membri ai Parlamentului.
 ## Stages published so far
 
 - 2025-06-18: registered at the Senate
+- 2025-07-01: documents published: Aviz comisie
 
 ## Documents
 
-- none held as text
+- 2025-07-01: Aviz comisie (CA45): [ca45-60dbed8e.md](ca45-60dbed8e.md); official file https://www.senat.ro/legis/PDF/2025/25L374CA45.PDF
