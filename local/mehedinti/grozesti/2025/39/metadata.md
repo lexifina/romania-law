@@ -1,0 +1,10 @@
+# HCL Grozești nr. 39/2025
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+- Council: Consiliul Local al Comunei Grozești
+- Decision: nr. 39/2025
+- Adopted: 2025-06-19
+- Published: 2025-07-02
+- Title: privind aprobarea reinstalarii sistemului de supraveghere video si a sistemului antiefractie la sediul Primariei Comunei Grozesti
+- Record: https://emol.ro/grozesti-mh/registru-hcl/213016
