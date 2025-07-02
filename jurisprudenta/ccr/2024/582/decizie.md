@@ -1,0 +1,41 @@
+# DECIZIA nr. 582 din 31 octombrie 2024
+referitoare la excepția de neconstituționalitate a dispozițiilor art. 460 alin. (2) din Codul de procedură penală
+Marian Enache - președinte
+Mihaela Ciochină - judecător
+Cristian Deliorga - judecător
+Laura-Iuliana Scântei - judecător
+Gheorghe Stan - judecător
+Livia Doina Stanciu - judecător
+Elena-Simina Tănăsescu - judecător
+Varga Attila - judecător
+Cristina Teodora Pop - magistrat-asistent
+Cu participarea reprezentantului Ministerului Public, procuror Nicoleta-Ecaterina Eucarie.
+1. Pe rol se află soluționarea excepției de neconstituționalitate a dispozițiilor art. 460 alin. (2) din Codul de procedură penală, excepție ridicată de Gabriela Mazilu și Ovidiu Mazilu în Dosarul nr. 1.310/110/2020/a1 al Curții de Apel Bacău - Secția penală și pentru cauze cu minori și de familie și care formează obiectul Dosarului Curții Constituționale nr. 1.533D/2020.
+2. La apelul nominal lipsesc părțile. Procedura de înștiințare este legal îndeplinită.
+3. Cauza fiind în stare de judecată, președintele Curții acordă cuvântul reprezentantului Ministerului Public, care pune concluzii de respingere, ca inadmisibilă, a excepției de neconstituționalitate, arătând că autorii excepției solicită, în realitate, Curții Constituționale completarea dispozițiilor legale criticate.
+CURTEA, având în vedere actele și lucrările dosarului, constată următoarele:
+4. Prin Încheierea din 25 august 2020, pronunțată în Dosarul nr. 1.310/110/2020/a1, Curtea de Apel Bacău - Secția penală și pentru cauze cu minori și de familie a sesizat Curtea Constituțională cu excepția de neconstituționalitate a dispozițiilor art. 460 alin. (2) din Codul de procedură penală, excepție ridicată de Gabriela Mazilu și Ovidiu Mazilu într-o cauză având ca obiect soluționarea unei contestații formulate de aceștia împotriva unei încheieri prin care a fost respinsă ca nefondată cererea de suspendare a executării hotărârii supuse revizuirii.
+5. În motivarea excepției de neconstituționalitate se susține, în esență, că dispozițiile art. 460 alin. (2) din Codul de procedură penală sunt neconstituționale, întrucât nu îi conferă revizuentului condamnat dreptul să formuleze contestație împotriva soluției pronunțate cu privire la cererea de suspendare a executării hotărârii judecătorești supuse revizuirii. Se arată că soluția legislativă anterior menționată constituie o încălcare a principiului egalității în drepturi, precum și a principiului egalității armelor, prin faptul că orice persoană interesată, dar și procurorul au dreptul să formuleze contestație conform art. 460 alin. (2) din Codul de procedură penală. Pentru aceleași motive se susține încălcarea prin textul criticat a dreptului de acces liber la justiție.
+6. Curtea de Apel Bacău - Secția penală și pentru cauze cu minori și de familie opinează că excepția de neconstituționalitate este întemeiată, arătând că reglementarea legală care exclude revizuentul condamnat dintre titularii dreptului de a formula contestație împotriva soluției de respingere a cererii de suspendare a executării hotărârii supuse revizuirii reprezintă o încălcare nejustificată a principiului egalității în drepturi și a dreptului de acces liber la justiție.
+7. Potrivit prevederilor art. 30 alin. (1) din Legea nr. 47/1992, încheierea de sesizare a fost comunicată președinților celor două Camere ale Parlamentului, Guvernului și Avocatului Poporului, pentru a-și exprima punctele de vedere asupra excepției de neconstituționalitate.
+8. Guvernul arată că excepția de neconstituționalitate este, în principal, inadmisibilă și, în subsidiar, neîntemeiată. În acest sens, în principal, se observă că autorii excepției solicită Curții Constituționale completarea textului criticat cu o soluție legislativă care nu a fost prevăzută de legiuitor, operațiune ce excedează competenței instanței de contencios constituțional, fiind de competența exclusivă a Parlamentului, conform art. 61 alin. (1) din Constituție. În subsidiar, se arată că dispozițiile legale criticate prevăd că poate formula contestație orice persoană interesată, în această categorie încadrându-se și revizuentul care are calitatea de persoană condamnată. Pentru aceste considerente, se apreciază că excepția de neconstituționalitate este neîntemeiată.
+9. Președinții celor două Camere ale Parlamentului și Avocatul Poporului nu au comunicat punctele lor de vedere asupra excepției de neconstituționalitate.
+CURTEA, examinând încheierea de sesizare, punctul de vedere al Guvernului, raportul întocmit de judecătorul-raportor, concluziile procurorului, dispozițiile legale criticate, raportate la prevederile Constituției, precum și Legea nr. 47/1992, reține următoarele:
+10. Curtea Constituțională a fost legal sesizată și este competentă, potrivit dispozițiilor art. 146 lit. d) din Constituție, precum și ale art. 1 alin. (2), ale art. 2, 3, 10 și 29 din Legea nr. 47/1992, să soluționeze excepția de neconstituționalitate.
+11. Obiectul excepției de neconstituționalitate îl constituie dispozițiile art. 460 alin. (2) din Codul de procedură penală, care au următorul cuprins: „Împotriva încheierii prin care s-a dispus suspendarea hotărârii supuse revizuirii, prevăzută la alin. (1), procurorul sau persoana interesată poate formula contestație în termen de 48 de ore de la pronunțare pentru cei prezenți și de la comunicare pentru cei lipsă. Contestația formulată de procuror este suspensivă de executare. Dispozițiile art. 597 alin. (2)-(5) se aplică în mod corespunzător.“
+12. În opinia autorilor excepției de neconstituționalitate, textul criticat contravine prevederilor constituționale ale art. 16 alin. (1) privind egalitatea în drepturi și ale art. 21 alin. (1) referitoare la accesul liber la justiție, precum și prevederilor art. 2 din Protocolul nr. 7 la Convenția pentru apărarea drepturilor omului și a libertăților fundamentale cu privire la dublul grad de jurisdicție în materie penală.
+13. Examinând excepția de neconstituționalitate, Curtea reține că autorii acesteia critică dispozițiile art. 460 alin. (2) din Codul de procedură penală pentru faptul că acestea prevăd doar posibilitatea de a formula contestație împotriva încheierii prin care s-a dispus suspendarea hotărârii supuse revizuirii, de către procuror sau de către altă persoană interesată, fără a reglementa aceeași cale de atac și împotriva încheierii prin care este respinsă cererea de suspendare a hotărârii revizuite.
+14. Așadar, în susținerea excepției, autorii acesteia nu formulează veritabile critici de neconstituționalitate, ci solicită, în realitate, completarea art. 460 alin. (2) din Codul de procedură penală cu o nouă soluție legislativă, care să prevadă posibilitatea formulării de către revizuent a căii de atac a contestației împotriva soluției prin care este respinsă cererea de suspendare a executării hotărârii ce constituie obiectul revizuirii.
+15. Or, modificarea și completarea dispozițiilor legale constituie atribuția legiuitorului, pe care acesta o exercită exclusiv și în marja de apreciere prevăzută la art. 61 alin. (1) din Constituție, excedând competenței Curții Constituționale, care, conform art. 2 alin. (3) din Legea nr. 47/1992 privind organizarea și funcționarea Curții Constituționale, „se pronunță numai asupra constituționalității actelor cu privire la care a fost sesizată, fără a putea modifica sau completa prevederile supuse controlului“.
+16. Pentru considerentele expuse mai sus, în temeiul art. 146 lit. d) și al art. 147 alin. (4) din Constituție, al art. 1 - 3, al art. 11 alin. (1) lit. A.d) și al art. 29 din Legea nr. 47/1992, cu unanimitate de voturi,
+CURTEA CONSTITUȚIONALĂ
+În numele legii
+DECIDE:
+Respinge, ca inadmisibilă, excepția de neconstituționalitate a dispozițiilor art. 460 alin. (2) din Codul de procedură penală, excepție ridicată de Gabriela Mazilu și Ovidiu Mazilu în Dosarul nr. 1.310/110/2020/a1 al Curții de Apel Bacău - Secția penală și pentru cauze cu minori și de familie.
+Definitivă și general obligatorie.
+Decizia se comunică Curții de Apel Bacău - Secția penală și pentru cauze cu minori și de familie și se publică în Monitorul Oficial al României, Partea I.
+Pronunțată în ședința din data de 31 octombrie 2024.
+PREȘEDINTELE CURȚII CONSTITUȚIONALE
+MARIAN ENACHE
+Magistrat-asistent,
+Cristina Teodora Pop
