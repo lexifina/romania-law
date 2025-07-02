@@ -1,0 +1,419 @@
+{
+ "key": "dcc-530-2024",
+ "label": "Decizia CCR nr. 530/2024",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "530",
+ "date": "2024-10-22",
+ "year": "2024",
+ "heading": "DECIZIA nr. 530 din 22 octombrie 2024",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor articolului unic din Ordonanța de urgență a Guvernului nr. 56/2017 privind completarea art. II din Legea nr. 152/2017 pentru aprobarea Ordonanței de urgență a Guvernului nr. 99/2016 privind unele măsuri pentru salarizarea personalului plătit din fonduri publice, prorogarea unor termene, precum și unele măsuri fiscal-bugetare, cu referire la sintagma \"solda de bază\" din cuprinsul art. II alin. (7) din Legea nr. 152/2017, în redactarea anterioară intrării în vigoare a Legii nr. 207/2017 pentru aprobarea Ordonanței de urgență a Guvernului nr. 56/2017",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "620",
+  "bis": false,
+  "date": "2025-07-02",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "904/89/2020/a1",
+  "2.262D/2020"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 56/2017",
+    "number": "56",
+    "year": "2017",
+    "path": "oug/2017/56"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 152/2017",
+    "number": "152",
+    "year": "2017",
+    "path": "lege/2017/152"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": [
+      "7"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 207/2017",
+    "number": "207",
+    "year": "2017",
+    "path": "lege/2017/207"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Constantin Văduva în Dosarul nr. 904/89/2020/a1 al Curții de Apel Iași - Secția litigii de muncă și asigurări sociale și constată că dispozițiile articolului unic din Ordonanța de urgență a Guvernului nr. 56/2017 privind completarea art. II din Legea nr. 152/2017 pentru aprobarea Ordonanței de urgență a Guvernului nr. 99/2016 privind unele măsuri pentru salarizarea personalului plătit din fonduri publice, prorogarea unor termene, precum și unele măsuri fiscal-bugetare, cu referire la sintagma „solda de bază“ din cuprinsul art. II alin. (7) din Legea nr. 152/2017, în redactarea anterioară intrării în vigoare a Legii nr. 207/2017 pentru aprobarea Ordonanței de urgență a Guvernului nr. 56/2017, sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Curții de Apel Iași - Secția litigii de muncă și asigurări sociale și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 56/2017",
+    "number": "56",
+    "year": "2017",
+    "path": "oug/2017/56"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 152/2017",
+    "number": "152",
+    "year": "2017",
+    "path": "lege/2017/152"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": [
+      "7"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "73",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "115",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": null,
+     "lit": [
+      "i"
+     ]
+    },
+    {
+     "art": "17",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "22",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "33",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "38",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "39",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "20",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "36",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "37",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "48",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 207/2017",
+    "number": "207",
+    "year": "2017",
+    "path": "lege/2017/207"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2025-07-02",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/299556",
+  "text_sha256": "54870d7aba689b8ccae82600e3cdf69c3aebb7d4b06fbdc7dd0fa53ab194d1b2",
+  "catalogue_sha256": "54870d7aba689b8ccae82600e3cdf69c3aebb7d4b06fbdc7dd0fa53ab194d1b2",
+  "fetched": "2026-11-03T00:56:23Z",
+  "chars": 22643,
+  "portal_id": "299556",
+  "tip": "DECIZIE"
+ }
+}
