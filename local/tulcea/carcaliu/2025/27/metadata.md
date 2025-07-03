@@ -1,0 +1,10 @@
+# HCL Carcaliu nr. 27/2025
+
+Text not yet included: no document of it is held. It will be added when it is.
+
+- Council: Consiliul Local al Comunei Carcaliu
+- Decision: nr. 27/2025
+- Adopted: 2025-06-25
+- Published: 2025-07-03
+- Title: privind aprobarea rectificării bugetului de venituri și cheltuieli al comunei Carcaliu, județul Tulcea, pe anul 2025
+- Record: https://emol.ro/carcaliu-tl/registru-hcl/213814
