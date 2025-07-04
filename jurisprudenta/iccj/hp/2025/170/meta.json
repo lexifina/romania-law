@@ -1,0 +1,165 @@
+{
+ "key": "iccj-hp-170-2025",
+ "label": "Decizia ÎCCJ nr. 170/2025 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "170",
+ "date": "2025-05-19",
+ "year": "2025",
+ "heading": "DECIZIA nr. 170 din 19 mai 2025",
+ "subtitle": "privind dreptul la acordarea sporului în cuantum mai mare, aferent întregului program de lucru, precum și la aplicarea art. 8 din Regulamentul-cadru aprobat prin Hotărârea Guvernului nr. 153/2018 privind acordarea fiecărui spor proporțional cu timpul lucrat",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "630",
+  "bis": false,
+  "date": "2025-07-04",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.656/1/2024",
+  "2.853/85/2022"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Curtea de Apel Alba Iulia - Secția I civilă, în Dosarul nr. 2.853/85/2022, în vederea pronunțării unei hotărâri prealabile cu privire la următoarea chestiune de drept: Dacă prestarea de către reclamantă, medic în cadrul direcției de sănătate publică - laboratorul diagnostic și investigare în sănătate publică - laboratorul de microbiologie, atât a activităților pentru care beneficiază de un spor de 15-25% din salariul de bază, conform art. unic pct. 7 din anexa nr. 1 la Regulamentul-cadru privind stabilirea locurilor de muncă, a categoriilor de personal, a mărimii concrete a sporului pentru condiții de muncă prevăzut în anexa nr. II la Legea-cadru nr. 153/2017 pentru salarizarea personalului plătit din fonduri publice, precum și a condițiilor de acordare a acestuia, pentru familia ocupațională de funcții bugetare „Sănătate și asistență socială“, aprobat prin Hotărârea Guvernului nr. 153/2018, cu modificările și completările ulterioare, cât și a activităților pentru care beneficiază de un spor de 55-85% din salariul de bază, conform art. unic lit. A pct. 2 din anexa nr. 2 la Regulamentul-cadru aprobat prin Hotărârea Guvernului nr. 153/2018 (activitatea HIV/SIDA), deschide dreptul acesteia la acordarea sporului în cuantum mai mare, aferent întregului program de lucru, sau devin aplicabile prevederile art. 8 din Regulamentul-cadru aprobat prin Hotărârea Guvernului nr. 153/2018 privind acordarea fiecărui spor proporțional cu timpul lucrat în aceste condiții.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 62/2024",
+    "number": "62",
+    "year": "2024",
+    "path": "oug/2024/62"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 32
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "61",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-07-04",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/299629",
+  "text_sha256": "b509af97be7ba92911c827365a71852ec73e5b25e154d28bff116ee015d4579f",
+  "catalogue_sha256": "b509af97be7ba92911c827365a71852ec73e5b25e154d28bff116ee015d4579f",
+  "fetched": "2026-11-03T00:56:18Z",
+  "chars": 54627,
+  "portal_id": "299629",
+  "tip": "DECIZIE"
+ }
+}
