@@ -13,6 +13,7 @@ Initiator: Membri ai Parlamentului.
 - 2025-06-19: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 - 2025-06-23: registered at the Chamber of Deputies
 - 2025-06-30: adopted by the Chamber of Deputies; documents published: Raport comisie sesizată pe fond, Adresă privind sesizarea CCR, Forma trimisă la promulgare
+- 2025-07-05: sent for promulgation
 
 ## Documents
 
