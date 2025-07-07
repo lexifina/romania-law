@@ -1,0 +1,284 @@
+{
+ "key": "iccj-hp-225-2025",
+ "label": "Decizia ÎCCJ nr. 225/2025 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "225",
+ "date": "2025-06-16",
+ "year": "2025",
+ "heading": "DECIZIA nr. 225 din 16 iunie 2025",
+ "subtitle": "referitoare la interpretarea art. 1 alin. (1) și (2) din Ordonanța de urgență a Guvernului nr. 8/2009 privind acordarea voucherelor de vacanță, aprobată cu modificări și completări prin Legea nr. 94/2014, cu modificările și completările ulterioare, art. 3 alin. (2) și art. 12 alin. (2) din Normele metodologice privind acordarea voucherelor de vacanță, aprobate prin Hotărârea Guvernului nr. 215/2009, cu modificările și completările ulterioare, ale Ordinului ministrului educației nr. 3.498/2022 privind stabilirea modalității de acordare a voucherelor de vacanță pentru unitățile/instituțiile de învățământ de stat, Ministerul Educației și alte instituții publice din subordinea/coordonarea acestuia, pentru anul 2022",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "638",
+  "bis": false,
+  "date": "2025-07-07",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.790/1/2024",
+  "3.804/97/2022"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 8/2009",
+    "number": "8",
+    "year": "2009",
+    "path": "oug/2009/8"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Curtea de Apel Alba Iulia - Secția I civilă în Dosarul nr. 3.804/97/2022, în vederea pronunțării unei hotărâri prealabile cu privire la următoarea chestiune de drept:",
+  "Dacă prevederile art. 1 alin. (1) și (2) din Ordonanța de urgență a Guvernului nr. 8/2009 privind acordarea voucherelor de vacanță, aprobată cu modificări și completări prin Legea nr. 94/2014, cu modificările și completările ulterioare, art. 3 alin. (2) și art. 12 alin. (2) din Normele metodologice privind acordarea voucherelor de vacanță, aprobate prin Hotărârea Guvernului nr. 215/2009, cu modificările și completările ulterioare, ale Ordinului ministrului educației nr. 3.498/2022 privind stabilirea modalității de acordare a voucherelor de vacanță pentru unitățile/instituțiile de învățământ de stat, Ministerul Educației și alte instituții publice din subordinea/coordonarea acestuia, pentru anul 2022, se interpretează în sensul că voucherele de vacanță aferente anului 2022 cuvenite cadrelor didactice se acordă proporțional cu activitatea în muncă efectiv prestată în timpul anului sau integral, indiferent de perioada în care s-a prestat această muncă.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 62/2024",
+    "number": "62",
+    "year": "2024",
+    "path": "oug/2024/62"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 8/2009",
+    "number": "8",
+    "year": "2009",
+    "path": "oug/2009/8"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1",
+      "2",
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinului ministrului educației nr. 3.498/2022",
+    "number": "3498",
+    "year": "2022"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul nr. 3.498/2022",
+    "number": "3498",
+    "year": "2022"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 500/2002",
+    "number": "500",
+    "year": "2002",
+    "path": "lege/2002/500"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 273/2006",
+    "number": "273",
+    "year": "2006",
+    "path": "lege/2006/273"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 53/2003",
+    "number": "53",
+    "year": "2003",
+    "path": "lege/2003/53"
+   },
+   "articles": [
+    {
+     "art": "40",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "145",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinului nr. 3.498/2022",
+    "number": "3498",
+    "year": "2022"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea educației naționale nr. 1/2011",
+    "number": "1",
+    "year": "2011",
+    "path": "lege/2011/1"
+   },
+   "articles": [
+    {
+     "art": "104",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-07-07",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/299684",
+  "text_sha256": "58e86eac9e0f5162e1e98dd575a53b6607da5c9bd29168cc7fe7bdbfc951e4cf",
+  "catalogue_sha256": "58e86eac9e0f5162e1e98dd575a53b6607da5c9bd29168cc7fe7bdbfc951e4cf",
+  "fetched": "2026-11-06T03:52:18Z",
+  "chars": 37637,
+  "archive": {
+   "source": "wayback",
+   "url": "https://web.archive.org/web/20260112090315/https://legislatie.just.ro/Public/DetaliiDocumentAfis/299684",
+   "page": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/299684",
+   "timestamp": "20260112090315",
+   "sha256": "6a077919d5c2c4ca6e00d0c93e24f4a5ed3840b0b8902de9763ac02421e85ddb"
+  },
+  "portal_id": "299684",
+  "tip": "DECIZIE"
+ }
+}
