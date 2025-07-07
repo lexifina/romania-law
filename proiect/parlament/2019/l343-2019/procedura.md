@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2025-06-11: adopted by the Chamber of Deputies
 - 2025-06-16: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-06-18: sent for promulgation
+- 2025-07-07: promulgated, becomes Legea nr. 126/2025; published in the Monitorul Oficial; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -35,3 +36,5 @@ Initiator: Guvernul României.
 - 2019-10-02: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L343AM.PDF
 - 2025-06-16: Adresă privind sesizarea CCR (AXS): [axs-4aecb9af.md](axs-4aecb9af.md); official file https://www.senat.ro/legis/PDF/2019/19L343AXS.PDF
 - 2025-06-16: Forma trimisă la promulgare (LP): [lp-7dd19f0d.md](lp-7dd19f0d.md); official file https://www.senat.ro/legis/PDF/2019/19L343LP.PDF
+- 2025-07-07: Decret de promulgare (DP): [dp-c3b54c86.md](dp-c3b54c86.md); official file https://www.senat.ro/legis/PDF/2019/19L343DP.PDF
+- 2025-07-07: Forma promulgată (FP): [fp-efa88b01.md](fp-efa88b01.md); official file https://www.senat.ro/legis/PDF/2019/19L343FP.PDF
