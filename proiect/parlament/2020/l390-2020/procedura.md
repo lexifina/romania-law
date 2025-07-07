@@ -20,6 +20,7 @@ Initiator: Membri ai Parlamentului.
 - 2025-06-11: adopted by the Chamber of Deputies
 - 2025-06-16: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-06-21: sent for promulgation
+- 2025-07-07: promulgated, becomes Legea nr. 128/2025; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -36,3 +37,5 @@ Initiator: Membri ai Parlamentului.
 - 2020-07-27: Adresă către Camera Deputaților (AM): [am-9f14648f.md](am-9f14648f.md); official file https://www.senat.ro/legis/PDF/2020/20L390AM.PDF
 - 2025-06-16: Adresă privind sesizarea CCR (AXS): [axs-b302ec92.md](axs-b302ec92.md); official file https://www.senat.ro/legis/PDF/2020/20L390AXS.PDF
 - 2025-06-16: Forma trimisă la promulgare (LP): [lp-e8a89954.md](lp-e8a89954.md); official file https://www.senat.ro/legis/PDF/2020/20L390LP.PDF
+- 2025-07-07: Decret de promulgare (DP): [dp-8a776aaa.md](dp-8a776aaa.md); official file https://www.senat.ro/legis/PDF/2020/20L390DP.PDF
+- 2025-07-07: Forma promulgată (FP): [fp-ceb14fe5.md](fp-ceb14fe5.md); official file https://www.senat.ro/legis/PDF/2020/20L390FP.PDF
