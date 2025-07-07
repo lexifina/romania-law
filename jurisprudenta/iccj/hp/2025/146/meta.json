@@ -1,0 +1,248 @@
+{
+ "key": "iccj-hp-146-2025",
+ "label": "Decizia ÎCCJ nr. 146/2025 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "146",
+ "date": "2025-05-05",
+ "year": "2025",
+ "heading": "DECIZIA nr. 146 din 5 mai 2025",
+ "subtitle": "referitoare la interpretarea art. 6 din Ordonanța de urgență a Guvernului nr. 155/2020, raportat și la Hotărârea Guvernului nr. 234/2023",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "636",
+  "bis": false,
+  "date": "2025-07-07",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.624/1/2024",
+  "5.391/107/2023"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 155/2020",
+    "number": "155",
+    "year": "2020",
+    "path": "oug/2020/155"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 234/2023",
+    "number": "234",
+    "year": "2023",
+    "path": "hg/2023/234"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Tribunalul Alba - Secția a II-a civilă, de contencios administrativ, fiscal și de insolvență în Dosarul nr. 5.391/107/2023, în vederea pronunțării unei hotărâri prealabile cu privire la următoarea chestiune de drept:",
+  "Dacă reclamanții, angajați ai Casei Județene de Pensii Alba, desfășurând activitatea de evaluare a dosarelor de pensie în vederea recalculării pensiilor, raportat la Reforma R8 - Reforma sistemului public de pensii din PNRR, pot fi considerați personal încadrat într-o instituție publică și nominalizat în echipele de proiecte finanțate din fonduri europene nerambursabile și/sau fonduri externe rambursabile sau personal implicat în implementarea Mecanismului de redresare și reziliență, prevăzut de art. 6 din Ordonanța de urgență a Guvernului nr. 155/2020, raportat și la Hotărârea Guvernului nr. 234/2023, fiind astfel îndreptățiți să beneficieze de majorarea de până la 50%, calculată la salariul de bază, proporțional cu timpul efectiv alocat activităților în cadrul PNRR.",
+  "Obligatorie, potrivit art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 62/2024",
+    "number": "62",
+    "year": "2024",
+    "path": "oug/2024/62"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 155/2020",
+    "number": "155",
+    "year": "2020",
+    "path": "oug/2020/155"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 234/2023",
+    "number": "234",
+    "year": "2023",
+    "path": "hg/2023/234"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 124/2021",
+    "number": "124",
+    "year": "2021",
+    "path": "oug/2021/124"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 360/2023",
+    "number": "360",
+    "year": "2023",
+    "path": "lege/2023/360"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 127/2019",
+    "number": "127",
+    "year": "2019",
+    "path": "lege/2019/127"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-07-07",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/299670",
+  "text_sha256": "c0bb1dcad013215c785da8134e5abaf2e2d1dd188ca57389fda83773e51bbe5f",
+  "catalogue_sha256": "c0bb1dcad013215c785da8134e5abaf2e2d1dd188ca57389fda83773e51bbe5f",
+  "fetched": "2026-11-06T03:55:20Z",
+  "chars": 36245,
+  "archive": {
+   "source": "commoncrawl",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/299670",
+   "timestamp": "20260122050739",
+   "crawl": "CC-MAIN-2026-04",
+   "filename": "crawl-data/CC-MAIN-2026-04/segments/1768220469991.35/warc/CC-MAIN-20260122030830-20260122060830-00559.warc.gz",
+   "offset": "278473328",
+   "length": "32832",
+   "sha256": "6331b81d22727a4dbf1816ccdced6193d9ef1d5201ed04a72ea8c39cfb0d2953"
+  },
+  "portal_id": "299670",
+  "tip": "DECIZIE"
+ }
+}
