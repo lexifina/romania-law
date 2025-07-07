@@ -1,0 +1,243 @@
+{
+ "key": "iccj-ril-7-2025",
+ "label": "Decizia ÎCCJ nr. 7/2025 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "7",
+ "date": "2025-05-26",
+ "year": "2025",
+ "heading": "DECIZIA nr. 7 din 26 mai 2025",
+ "subtitle": "referitoare la aplicarea dispozițiilor art. 6^1 din Ordonanța de urgență a Guvernului nr. 10/2017 pentru stimularea înființării de noi întreprinderi mici și mijlocii, astfel cum a fost modificată și completată prin Legea nr. 218/2020",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU SOLUȚIONAREA RECURSULUI ÎN INTERESUL LEGII",
+ "mo": {
+  "number": "633",
+  "bis": false,
+  "date": "2025-07-07",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "443/1/2025"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 10/2017",
+    "number": "10",
+    "year": "2017",
+    "path": "oug/2017/10"
+   },
+   "articles": [
+    {
+     "art": "6-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite recursul în interesul legii formulat de Colegiul de conducere al Curții de Apel Alba Iulia și, în consecință, stabilește că: Dispozițiile art. 6^1 din Ordonanța de urgență a Guvernului nr. 10/2017 pentru stimularea înființării de noi întreprinderi mici și mijlocii, astfel cum a fost modificată și completată prin Legea nr. 218/2020, sunt aplicabile în cazul înstrăinărilor de părți sociale intervenite după intrarea în vigoare a acestui articol, chiar dacă acordul de finanțare a fost încheiat anterior.",
+  "Obligatorie, potrivit dispozițiilor art. 517 alin. (4) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 10/2017",
+    "number": "10",
+    "year": "2017",
+    "path": "oug/2017/10"
+   },
+   "articles": [
+    {
+     "art": "6-1",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 33
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 218/2020",
+    "number": "218",
+    "year": "2020",
+    "path": "lege/2020/218"
+   },
+   "articles": [],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituția României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 29/2024",
+    "number": "29",
+    "year": "2024",
+    "path": "og/2024/29"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii privind modificarea și completarea Ordonanței de urgență a Guvernului nr. 10/2017",
+    "number": "10",
+    "year": "2017",
+    "path": "lege/2017/10"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 346/2004",
+    "number": "346",
+    "year": "2004",
+    "path": "lege/2004/346"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii societăților nr. 31/1990",
+    "number": "31",
+    "year": "1990",
+    "path": "lege/1990/31"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 112/2017",
+    "number": "112",
+    "year": "2017",
+    "path": "lege/2017/112"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul ministrului pentru mediul de afaceri, comerț și antreprenoriat nr. 692/2017",
+    "number": "692",
+    "year": "2017"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul ministrului pentru mediul de afaceri, comerț și antreprenoriat nr. 1.854/2018",
+    "number": "1854",
+    "year": "2018"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "514",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "515",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-07-07",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/299644",
+  "text_sha256": "97604c35c4b702d86107193ef46dd66a9cbaf9466d3351fb0a960a7e6805f100",
+  "catalogue_sha256": "97604c35c4b702d86107193ef46dd66a9cbaf9466d3351fb0a960a7e6805f100",
+  "fetched": "2026-11-03T14:36:51Z",
+  "chars": 48160,
+  "portal_id": "299644",
+  "tip": "DECIZIE"
+ }
+}
