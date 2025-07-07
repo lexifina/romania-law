@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2025-06-11: adopted by the Chamber of Deputies
 - 2025-06-16: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-06-18: sent for promulgation
+- 2025-07-07: promulgated, becomes Legea nr. 125/2025; published in the Monitorul Oficial; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -33,3 +34,5 @@ Initiator: Guvernul României.
 - 2024-09-16: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L355AM.PDF
 - 2025-06-16: Adresă privind sesizarea CCR (AXS): [axs-638c49ec.md](axs-638c49ec.md); official file https://www.senat.ro/legis/PDF/2024/24L355AXS.PDF
 - 2025-06-16: Forma trimisă la promulgare (LP): [lp-c840e800.md](lp-c840e800.md); official file https://www.senat.ro/legis/PDF/2024/24L355LP.PDF
+- 2025-07-07: Decret de promulgare (DP): [dp-bddd5701.md](dp-bddd5701.md); official file https://www.senat.ro/legis/PDF/2024/24L355DP.PDF
+- 2025-07-07: Forma promulgată (FP): [fp-cd86c714.md](fp-cd86c714.md); official file https://www.senat.ro/legis/PDF/2024/24L355FP.PDF
