@@ -21,6 +21,7 @@ Initiator: Membri ai Parlamentului.
 - 2025-06-16: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-06-21: sent for promulgation
 - 2025-07-07: promulgated, becomes Legea nr. 128/2025; documents published: Decret de promulgare, Forma promulgată
+- 2025-07-08: published in the Monitorul Oficial
 
 ## Documents
 
