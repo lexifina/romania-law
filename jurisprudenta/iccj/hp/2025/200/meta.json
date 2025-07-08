@@ -1,0 +1,186 @@
+{
+ "key": "iccj-hp-200-2025",
+ "label": "Decizia ÎCCJ nr. 200/2025 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "200",
+ "date": "2025-05-26",
+ "year": "2025",
+ "heading": "DECIZIA nr. 200 din 26 mai 2025",
+ "subtitle": "referitoare la valorificarea perioadei pentru stabilirea în favoarea contestatorului a uneia dintre pensiile prevăzute de Legea nr. 223/2015 privind pensiile militare de stat, cu modificările și completările ulterioare",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "643",
+  "bis": false,
+  "date": "2025-07-08",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.780/1/2024",
+  "20.029/3/2024"
+ ],
+ "subjects": [],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Tribunalul București - Secția a VIII-a conflicte de muncă și asigurări sociale în Dosarul nr. 20.029/3/2024, în vederea pronunțării unei hotărâri prealabile cu privire la următoarele chestiuni de drept: – dacă perioada cât contestatorul a fost subofițer activ, eventual deja valorificată la stabilirea pensiei pentru limită de vârstă de care acesta beneficiază, mai poate fi valorificată pentru stabilirea în favoarea contestatorului a uneia dintre pensiile prevăzute de Legea nr. 223/2015 privind pensiile militare de stat, cu modificările și completările ulterioare; – dacă perioada cât contestatorul a fost elev al Școlii Militare de Maiștri Militari și Subofițeri de Logistică „Gheorghe Lazăr“ poate fi avută în vedere ca vechime în serviciu, conform prevederilor art. 3 lit. e) pct. 3 din Legea nr. 223/2015, pentru stabilirea în favoarea contestatorului a uneia dintre pensiile prevăzute de această lege.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 62/2024",
+    "number": "62",
+    "year": "2024",
+    "path": "oug/2024/62"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 223/2015",
+    "number": "223",
+    "year": "2015",
+    "path": "lege/2015/223"
+   },
+   "articles": [
+    {
+     "art": "26",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": [
+      "g",
+      "e"
+     ]
+    },
+    {
+     "art": "27",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "101",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 263/2010",
+    "number": "263",
+    "year": "2010",
+    "path": "lege/2010/263"
+   },
+   "articles": [
+    {
+     "art": "192",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "49",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "g"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretul nr. 198/1953",
+    "number": "198",
+    "year": "1953",
+    "path": "decret/1953/198"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [
+  "subjects: none parsed"
+ ],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-07-08",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/299713",
+  "text_sha256": "b2689f065db453fcc0c1e0875d322e1886efd913552b873f9b53aa553ae9db69",
+  "catalogue_sha256": "b2689f065db453fcc0c1e0875d322e1886efd913552b873f9b53aa553ae9db69",
+  "fetched": "2026-11-06T03:58:34Z",
+  "chars": 29786,
+  "archive": {
+   "source": "commoncrawl",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/299713",
+   "timestamp": "20251111132206",
+   "crawl": "CC-MAIN-2025-47",
+   "filename": "crawl-data/CC-MAIN-2025-47/segments/1762439343030.54/warc/CC-MAIN-20251111125753-20251111155753-00337.warc.gz",
+   "offset": "283084797",
+   "length": "31265",
+   "sha256": "35152bb90ff21baf499353f1d2c485ee69571d7f8f6318e00191afec0f882bbe"
+  },
+  "portal_id": "299713",
+  "tip": "DECIZIE"
+ }
+}
