@@ -1,0 +1,174 @@
+{
+ "key": "iccj-hp-157-2025",
+ "label": "Decizia ÎCCJ nr. 157/2025 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "157",
+ "date": "2025-05-05",
+ "year": "2025",
+ "heading": "DECIZIA nr. 157 din 5 mai 2025",
+ "subtitle": "referitoare la beneficierea, de către personalul ce este încadrat în cadrul unei unități medico-sociale, de stimulentul de risc prevăzut la art. 7 alin. (5) din Ordonanța de urgență a Guvernului nr. 43/2020 pentru aprobarea unor măsuri de sprijin decontate din fonduri europene",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "639",
+  "bis": false,
+  "date": "2025-07-08",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "3.033/1/2024",
+  "1.873/121/2023",
+  "4.439/105/2022"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 43/2020",
+    "number": "43",
+    "year": "2020",
+    "path": "oug/2020/43"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată Tribunalul Galați - Secția I civilă în Dosarul nr. 1.873/121/2023, în vederea pronunțării unei hotărâri prealabile cu privire la următoarea chestiune de drept: Dacă personalul ce este încadrat în cadrul unei unități medico-sociale putea beneficia de stimulentul de risc prevăzut la art. 7 alin. (5) din Ordonanța de urgență a Guvernului nr. 43/2020 pentru aprobarea unor măsuri de sprijin decontate din fonduri europene, ca urmare a răspândirii coronavirusului COVID-19, pe perioada stării de urgență, astfel cum a fost modificată, în condițiile în care unitatea medico-socială a furnizat servicii sociale și medicale fără să dețină licență de funcționare și certificat de acreditare.",
+  "Respinge, ca inadmisibilă, sesizarea conexată formulată de Tribunalul Prahova - Secția I civilă în Dosarul nr. 4.439/105/2022, în vederea pronunțării unei hotărâri prealabile cu privire la următoarea chestiune de drept: Dacă asistenții personali ai persoanelor cu handicap grav pot beneficia de stimulentul de risc aferent perioadei 15.03.2020-15.05.2020, în baza dispozițiilor art. 7 alin. (5) din Ordonanța de urgență a Guvernului nr. 43/2020 pentru aprobarea unor măsuri de sprijin decontate din fonduri europene, ca urmare a răspândirii coronavirusului COVID-19, pe perioada stării de urgență.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 43/2020",
+    "number": "43",
+    "year": "2020",
+    "path": "oug/2020/43"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": [
+      "5",
+      "6"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 19
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 166/2021",
+    "number": "166",
+    "year": "2021",
+    "path": "lege/2021/166"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 62/2024",
+    "number": "62",
+    "year": "2024",
+    "path": "oug/2024/62"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 448/2006",
+    "number": "448",
+    "year": "2006",
+    "path": "lege/2006/448"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-07-08",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/299696",
+  "text_sha256": "a46c60524d40de7f89bdb12c6b0af3c370e89ea158d4b0ac20351bd6c448305f",
+  "catalogue_sha256": "a46c60524d40de7f89bdb12c6b0af3c370e89ea158d4b0ac20351bd6c448305f",
+  "fetched": "2026-11-03T00:56:06Z",
+  "chars": 37406,
+  "portal_id": "299696",
+  "tip": "DECIZIE"
+ }
+}
