@@ -1,0 +1,231 @@
+{
+ "key": "iccj-hp-156-2025",
+ "label": "Decizia ÎCCJ nr. 156/2025 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "156",
+ "date": "2025-05-05",
+ "year": "2025",
+ "heading": "DECIZIA nr. 156 din 5 mai 2025",
+ "subtitle": "referitoare la interpretarea dispozițiilor anexei nr. 2 lit. A pct. 9 din Hotărârea Guvernului nr. 153/2018 pentru aprobarea Regulamentului-cadru privind stabilirea locurilor de muncă",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "643",
+  "bis": false,
+  "date": "2025-07-08",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "3.008/1/2024",
+  "1.880/103/2023"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 153/2018",
+    "number": "153",
+    "year": "2018",
+    "path": "hg/2018/153"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Tribunalul Neamț - Secția I civilă și de contencios administrativ în Dosarul nr. 1.880/103/2023, în vederea pronunțării unei hotărâri prealabile cu privire la următoarea chestiune de drept:",
+  "Dacă, în interpretarea dispozițiilor anexei nr. 2 lit. A pct. 9 din Hotărârea Guvernului nr. 153/2018 pentru aprobarea Regulamentului-cadru privind stabilirea locurilor de muncă, a categoriilor de personal, a mărimii concrete a sporului pentru condiții de muncă prevăzut în anexa nr. II la Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, precum și a condițiilor de acordare a acestuia pentru familia ocupațională de funcții bugetare „Sănătate și asistență socială“, raportat la art. 11 din Hotărârea Guvernului. nr. 153/2018, cu referire la perioada începând cu data de 1 martie 2021 și până la 60 de zile de la data încetării stării de alertă instituite pe teritoriul României, pot fi acordate diferențele bănești actualizate cu indicele de inflație și dobânda legală dintre sporul de condiții deosebit de periculoase în cuantum de 75% din salariul de bază, calculat proporțional cu întreg timpul lucrat în condiții vătămătoare, respectiv întregul program de lucru, și sporul efectiv plătit pentru aceeași perioadă personalului de specialitate medico-sanitar și auxiliar sanitar din cadrul Spitalului Municipal de Urgență Roman.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 62/2024",
+    "number": "62",
+    "year": "2024",
+    "path": "oug/2024/62"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 153/2018",
+    "number": "153",
+    "year": "2018",
+    "path": "hg/2018/153"
+   },
+   "articles": [],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 136/2020",
+    "number": "136",
+    "year": "2020",
+    "path": "lege/2020/136"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 53/2003",
+    "number": "53",
+    "year": "2003",
+    "path": "lege/2003/53"
+   },
+   "articles": [
+    {
+     "art": "269",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 1.035/2020",
+    "number": "1035",
+    "year": "2020",
+    "path": "hg/2020/1035"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-07-08",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/299712",
+  "text_sha256": "756e7471cfe5639a5d67245dbb6623a9ba80ff325339dc7b68ec49b2b948de49",
+  "catalogue_sha256": "756e7471cfe5639a5d67245dbb6623a9ba80ff325339dc7b68ec49b2b948de49",
+  "fetched": "2026-11-06T03:45:26Z",
+  "chars": 28824,
+  "archive": {
+   "source": "commoncrawl",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/299712",
+   "timestamp": "20250905114208",
+   "crawl": "CC-MAIN-2025-38",
+   "filename": "crawl-data/CC-MAIN-2025-38/segments/1757047532641.17/warc/CC-MAIN-20250905112101-20250905142101-00336.warc.gz",
+   "offset": "335007045",
+   "length": "30234",
+   "sha256": "d265556caef1d09df0a082cbf9ac7e3581724fc5cdc6a3c569ec811a3bc00962"
+  },
+  "portal_id": "299712",
+  "tip": "DECIZIE"
+ }
+}
