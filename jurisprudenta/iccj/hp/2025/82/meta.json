@@ -1,0 +1,442 @@
+{
+ "key": "iccj-hp-82-2025",
+ "label": "Decizia ÎCCJ nr. 82/2025 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "82",
+ "date": "2025-03-17",
+ "year": "2025",
+ "heading": "DECIZIA nr. 82 din 17 martie 2025",
+ "subtitle": "referitoare la actualizarea pensiei militare de stat prin raportare: la salariul de bază minim brut pe țară garantat în plată pentru anul 2016, stabilit prin Hotărârea Guvernului nr. 1.017/2015, începând cu data de 1 mai 2016; la salariul de bază minim brut pe țară garantat în plată pentru anul 2017, stabilit prin Hotărârea Guvernului nr. 1/2017 începând cu data de 1 februarie 2017; la salariul de bază minim brut pe țară garantat în plată pentru anul 2018, stabilit prin Hotărârea Guvernului nr. 846/2017 începând cu data de 1 ianuarie 2018; la salariul de bază minim brut pe țară garantat în plată începând cu 1 ianuarie 2019, stabilit prin Hotărârea Guvernului nr. 937/2018, și începând cu data de 1 ianuarie 2020, stabilit prin Hotărârea Guvernului nr. 935/2019",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "644",
+  "bis": false,
+  "date": "2025-07-09",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.342/1/2024",
+  "1.496/87/2021",
+  "53/108/2024"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 1.017/2015",
+    "number": "1017",
+    "year": "2015",
+    "path": "hg/2015/1017"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 1/2017",
+    "number": "1",
+    "year": "2017",
+    "path": "hg/2017/1"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 846/2017",
+    "number": "846",
+    "year": "2017",
+    "path": "hg/2017/846"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 937/2018",
+    "number": "937",
+    "year": "2018",
+    "path": "hg/2018/937"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 935/2019",
+    "number": "935",
+    "year": "2019",
+    "path": "hg/2019/935"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Tribunalul Teleorman - Secția conflicte de muncă, asigurări sociale și contencios administrativ și fiscal în Dosarul nr. 1.496/87/2021, în vederea pronunțării unei hotărâri prealabile pentru dezlegarea următoarelor chestiuni de drept: Dacă pensia militară de stat poate fi actualizată prin raportare: la salariul de bază minim brut pe țară garantat în plată pentru anul 2016, stabilit prin Hotărârea Guvernului nr. 1.017/2015, începând cu data de 1 mai 2016; la salariul de bază minim brut pe țară garantat în plată pentru anul 2017, stabilit prin Hotărârea Guvernului nr. 1/2017 începând cu data de 1 februarie 2017; la salariul de bază minim brut pe țară garantat în plată pentru anul 2018, stabilit prin Hotărârea Guvernului nr. 846/2017 începând cu data de 1 ianuarie 2018; la salariul de bază minim brut pe țară garantat în plată începând cu 1 ianuarie 2019, stabilit prin Hotărârea Guvernului nr. 937/2018, și începând cu data de 1 ianuarie 2020, stabilit prin Hotărârea Guvernului nr. 935/2019.",
+  "Dacă solda de grad și de funcție se calculează începând cu 1.05.2017 prin raportare la o VRS de 600 lei, sumă la care se raportează celelalte elemente ale soldei și soldei de grad.",
+  "Respinge, ca inadmisibilă, sesizarea formulată de Tribunalul Arad - Secția a III-a de contencios administrativ și fiscal, litigii de muncă și asigurări sociale în Dosarul nr. 53/108/2024, în vederea pronunțării unei hotărâri prealabile pentru dezlegarea următoarei chestiuni de drept: Dacă solda de funcție a militarilor în rezervă poate fi stabilită prin raportare la o valoare de referință sectorială de 605,225 lei, valoare la care se referă considerentele Deciziei nr. 34 din 6 iunie 2022, pronunțată de Înalta Curte de Casație și Justiție - Completul pentru dezlegarea unor chestiuni de drept, publicată în Monitorul Oficial al României, Partea I, nr. 905 din 14 septembrie 2022.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 62/2024",
+    "number": "62",
+    "year": "2024",
+    "path": "oug/2024/62"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 1.017/2015",
+    "number": "1017",
+    "year": "2015",
+    "path": "hg/2015/1017"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 1/2017",
+    "number": "1",
+    "year": "2017",
+    "path": "hg/2017/1"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 846/2017",
+    "number": "846",
+    "year": "2017",
+    "path": "hg/2017/846"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 937/2018",
+    "number": "937",
+    "year": "2018",
+    "path": "hg/2018/937"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 935/2019",
+    "number": "935",
+    "year": "2019",
+    "path": "hg/2019/935"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 53/2003",
+    "number": "53",
+    "year": "2003",
+    "path": "lege/2003/53"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "164",
+     "alin": [
+      "1",
+      "1-2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 284/2010",
+    "number": "284",
+    "year": "2010",
+    "path": "lege/2010/284"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "38",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituției României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 137/2000",
+    "number": "137",
+    "year": "2000",
+    "path": "og/2000/137"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 80/1995",
+    "number": "80",
+    "year": "1995",
+    "path": "lege/1995/80"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea contenciosului administrativ nr. 554/2004",
+    "number": "554",
+    "year": "2004",
+    "path": "lege/2004/554"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 223/2015",
+    "number": "223",
+    "year": "2015",
+    "path": "lege/2015/223"
+   },
+   "articles": [
+    {
+     "art": "28",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "60",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "59",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 263/2010",
+    "number": "263",
+    "year": "2010",
+    "path": "lege/2010/263"
+   },
+   "articles": [
+    {
+     "art": "107",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 59/2017",
+    "number": "59",
+    "year": "2017",
+    "path": "oug/2017/59"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 57/2017",
+    "number": "57",
+    "year": "2017",
+    "path": "oug/2017/57"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-07-09",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/299735",
+  "text_sha256": "c4927c9ca9b15081fb174564c619384418ed77011ab3a163e096113e0742dbab",
+  "catalogue_sha256": "c4927c9ca9b15081fb174564c619384418ed77011ab3a163e096113e0742dbab",
+  "fetched": "2026-11-03T00:56:05Z",
+  "chars": 52605,
+  "portal_id": "299735",
+  "tip": "DECIZIE"
+ }
+}
