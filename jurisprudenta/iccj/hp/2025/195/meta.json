@@ -1,0 +1,208 @@
+{
+ "key": "iccj-hp-195-2025",
+ "label": "Decizia ÎCCJ nr. 195/2025 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "195",
+ "date": "2025-05-26",
+ "year": "2025",
+ "heading": "DECIZIA nr. 195 din 26 mai 2025",
+ "subtitle": "referitoare la posibilitatea decontării contravalorii cheltuielilor de transport între localitatea de domiciliu/reședință și localitatea unde se află locul de muncă al salariaților în baza Hotărârii Guvernului nr. 39/2024 privind aprobarea modalității de decontare a cheltuielilor de transport pentru funcționarii publici",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "646",
+  "bis": false,
+  "date": "2025-07-09",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.713/1/2024",
+  "361/84/2024"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârii Guvernului nr. 39/2024",
+    "number": "39",
+    "year": "2024",
+    "path": "hg/2024/39"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Curtea de Apel Cluj - Secția a III-a contencios administrativ și fiscal în Dosarul nr. 361/84/2024, în vederea pronunțării unei hotărâri prealabile pentru dezlegarea următoarei chestiuni de drept: Dacă se poate deconta contravaloarea cheltuielilor de transport între localitatea de domiciliu/reședință și localitatea unde se află locul de muncă al salariaților în baza Hotărârii Guvernului nr. 39/2024 privind aprobarea modalității de decontare a cheltuielilor de transport pentru funcționarii publici și personalul contractual din cadrul familiei ocupaționale „Administrație“ din aparatul de specialitate al primarilor comunelor și al instituțiilor și serviciilor publice de interes local, înființate în subordinea, coordonarea sau sub autoritatea consiliilor locale din comune, în lipsa adoptării unei hotărâri de către consiliul local conform art. 11^1 alin. (1) din Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, cu modificările și completările ulterioare.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 62/2024",
+    "number": "62",
+    "year": "2024",
+    "path": "oug/2024/62"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârii Guvernului nr. 39/2024",
+    "number": "39",
+    "year": "2024",
+    "path": "hg/2024/39"
+   },
+   "articles": [],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "11-1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 57/2019",
+    "number": "57",
+    "year": "2019",
+    "path": "oug/2019/57"
+   },
+   "articles": [
+    {
+     "art": "129",
+     "alin": [
+      "12"
+     ],
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": [
+      "j"
+     ]
+    },
+    {
+     "art": "84",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "87",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11-1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-07-09",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/299727",
+  "text_sha256": "554fc8b90cea5a1bbc32dd9359f14c51d036a3cdacdf725f2a533b4962d1bd5c",
+  "catalogue_sha256": "554fc8b90cea5a1bbc32dd9359f14c51d036a3cdacdf725f2a533b4962d1bd5c",
+  "fetched": "2026-11-03T00:56:11Z",
+  "chars": 35343,
+  "portal_id": "299727",
+  "tip": "DECIZIE"
+ }
+}
