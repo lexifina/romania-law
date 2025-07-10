@@ -1,0 +1,102 @@
+REGULAMENTUL DELEGAT (UE) 2025/1222 AL COMISIEI
+din 2 aprilie 2025
+de modificare a Regulamentului (CE) nr. 1272/2008 al Parlamentului European și al Consiliului în ceea ce privește clasificarea și etichetarea armonizată a anumitor substanțe
+(Text cu relevanță pentru SEE)
+COMISIA EUROPEANĂ,
+având în vedere Tratatul privind funcționarea Uniunii Europene,
+având în vedere Regulamentul (CE) nr. 1272/2008 al Parlamentului European și al Consiliului din 16 decembrie 2008 privind clasificarea, etichetarea și ambalarea substanțelor și a amestecurilor, de modificare și de abrogare a Directivelor 67/548/CEE și 1999/45/CE, precum și de modificare a Regulamentului (CE) nr. 1907/2006 (1), în special articolul 37 alineatul (5),
+întrucât:
+(1) Tabelul 3 din partea 3 a anexei VI la Regulamentul (CE) nr. 1272/2008 conține lista clasificării și etichetării armonizate a substanțelor periculoase, întocmită pe baza criteriilor stabilite în părțile 2-5 din anexa I la regulamentul menționat.
+(2) În temeiul articolului 37 din Regulamentul (CE) nr. 1272/2008, au fost transmise Agenției Europene pentru Produse Chimice („agenția”) propuneri de a introduce o clasificare și etichetare armonizată a anumitor substanțe și de a actualiza clasificarea și etichetarea armonizată a altor câteva substanțe. După luarea în considerare a observațiilor primite de la părțile implicate, Comitetul pentru evaluarea riscurilor (CER) din cadrul agenției a adoptat următoarele avize (2) cu privire la aceste propuneri:
+— Avizul din 16 martie 2023 referitor la monoesterul acidului 2-etilhexanoic cu propan-1,2-diol;
+— Avizul din 16 martie 2023 referitor la extractul apos din semințe germinate de Lupinus albus dulce;
+— Avizul din 16 martie 2023 referitor la N-1-naftilanilină; N-fenilnaftalen-1-amină;
+— Avizul din 16 martie 2023 referitor la 4-hidroxibenzoatul de propil;
+— Avizul din 16 martie 2023 referitor la α,α’-propilendinitrilodi-o-crezol;
+— Avizul din 16 martie 2023 referitor la ozon;
+— Avizul din 16 martie 2023 privind oxidul de diazot;
+— Avizul din 16 martie 2023 referitor la tri(pirofosfat) de tetrafer; pirofosfatul feric;
+— Avizul din 16 martie 2023 referitor la 2-fenilpropen; α-metilstiren;
+— Avizul din 16 martie 2023 referitor la trisulfura de tetrafosfor; sesquisulfura de fosfor;
+— Avizul din 16 martie 2023 referitor la petoxamid (ISO); 2-cloro-N-(2-etoxietil)-N-(2-metil-1-fenilprop-1-enil) acetamid;
+— Avizul din 8 iunie 2023 referitor la 1,1-dicloroetilen; clorura de viniliden;
+— Avizul din 8 iunie 2023 referitor la bixlozon (ISO); 2-(2,4-diclorbenzil)-4,4-dimetil-1,2-oxazolidin-3-onă;
+— Avizul din 8 iunie 2023 referitor la sărurile de potasiu ale acidului 9-octadecenoic (Z)-, sulfonat [1]; produse de reacție ale acizilor grași, alchil C18 (nesaturat) cu trioxid de sulf, săruri de potasiu [2]; sarea de potasiu a acidului 9 (sau 10)-sulfooctadecanoic [3];
+— Avizul din 8 iunie 2023 referitor la bis[2-cloro-5-[(2-hidroxi-1-naftil)azo]toluen-4-sulfonat] de bariu; C.I. Pigment roșu 53:1;
+— Avizul din 8 iunie 2023 referitor la cromatul de bariu;
+— Avizul din 8 iunie 2023 referitor la extractul de Chrysanthemum cinerariaefolium din flori deschise și mature de Tanacetum cinerariifolium obținut cu solvenți de hidrocarburi;
+— Avizul din 8 iunie 2023 referitor la extractul de Chrysanthemum cinerariaefolium din flori deschise și mature de Tanacetum cinerariifolium obținut cu CO2 supercritic;
+— Avizul din 8 iunie 2023 referitor la fluoretilenă;
+— Avizul din 8 iunie 2023 referitor la metacrilatul de tetrahidrofurfuril;
+— Avizul din 8 iunie 2023 referitor la eterul izopropilic de 2,3-epoxipropil;
+— Avizul din 8 iunie 2023 referitor la fostaful de trimetil;
+— Avizul din 8 iunie 2023 referitor la izocianatul de 3-izocianatometil-3,5,5-trimetilciclohexil; diizocianat de izoforon;
+— Avizul din 8 iunie 2023 referitor la 2-bromo-2-(bromometil)pentandinitril; [DBDCB];
+— Avizul din 8 iunie 2023 referitor la folpet (ISO); N-(triclorometiltio)ftalimidă;
+— Avizul din 14 septembrie 2023 referitor la 2-bromo-3,3,3-trifluoroprop-1-enă;
+— Avizul din 14 septembrie 2023 referitor la clopiralid (ISO); 3,6-dicloropiridin-2-acid carboxilic;
+— Avizul din 14 septembrie 2023 referitor la 3-iodo-2-propinil butilcarbamat; 3-iodoprop-2-in-1-il butilcarbamat;
+— Avizul din 14 septembrie 2023 referitor la captan (ISO); 1,2,3,6-tetrahidro-N-(triclorometiltio)ftalimidă;
+— Avizul din 14 septembrie 2023 referitor la dinotefuran (ISO); (RS)-1-metil-2-nitro-3-(tetrahidro-3-furilmetil)guanidină;
+— Avizul din 14 septembrie 2023 referitor la oct-2-inoat de metil;
+— Avizul din 14 septembrie 2023 referitor la proquinazid (ISO); 6-iod-2-propoxi-3-propilquinazolin-4(3H)-onă;
+— Avizul din 14 septembrie 2023 referitor la eterul 2,3-epoxipropil o-totil;
+— Avizul din 14 septembrie 2023 referitor la clorhidratul de 2-metil-2H-izotiazol-3-onă; clorhidratul de 2-metil-2,3-dihidro-1,2-tiazol-3-onă.
+(3) Comisia a primit informații suplimentare de la părțile interesate care contestă evaluarea științifică prezentată în avizul CER din 16 martie 2023 privind protoxidul de azot. Informațiile suplimentare au fost evaluate de Comisie și nu au fost considerate suficiente pentru a pune la îndoială analiza științifică conținută în avizele CER.
+(4) Având în vedere avizele CER, este oportun să se introducă sau să se actualizeze clasificarea și etichetarea armonizată a substanțelor în cauză pe baza evaluării efectuate în avizele respective și ca urmare a evaluării ulterioare realizate de Comisie.
+(5) Prin urmare, Regulamentul (CE) nr. 1272/2008 ar trebui modificat în consecință.
+(6) Nu ar trebui să se solicite imediat respectarea clasificărilor armonizate noi sau actualizate, întrucât este necesară o anumită perioadă de timp pentru a le permite furnizorilor să adapteze etichetarea și ambalajul substanțelor și al amestecurilor la clasificările noi sau actualizate și să vândă stocurile existente, cu condiția respectării cerințelor normative preexistente. Această perioadă de timp este, de asemenea, necesară pentru a le lăsa furnizorilor suficient timp pentru a lua măsurile necesare pentru a asigura continuarea respectării altor cerințe legale în urma modificărilor efectuate în cadrul prezentului regulament. Cu toate acestea, furnizorii ar trebui să aibă posibilitatea de a aplica clasificările armonizate noi sau actualizate și de a adapta în consecință etichetarea și ambalarea, în mod voluntar, înainte de data aplicării prezentului regulament, pentru a asigura un nivel ridicat de protecție a sănătății umane și a mediului și pentru a oferi suficientă flexibilitate furnizorilor,
+ADOPTĂ PREZENTUL REGULAMENT:
+Articolul 1
+Anexa VI la Regulamentul (CE) nr. 1272/2008 se modifică în conformitate cu anexa la prezentul regulament.
+Articolul 2
+Prezentul regulament intră în vigoare în a douăzecea zi de la data publicării în Jurnalul Oficial al Uniunii Europene.
+Se aplică începând de la 1 februarie 2027.
+Cu toate acestea, furnizorii pot clasifica, eticheta și ambala substanțele și amestecurile în conformitate cu Regulamentul (CE) nr. 1272/2008, astfel cum a fost modificat prin prezentul regulament, de la data intrării în vigoare a prezentului regulament.
+Prezentul regulament este obligatoriu în toate elementele sale și se aplică direct în toate statele membre.
+Adoptat la Bruxelles, 2 aprilie 2025.
+Pentru Comisie
+Președinta
+Ursula VON DER LEYEN
+(1) JO L 353, 31.12.2008, p. 1, ELI: http://data.europa.eu/eli/reg/2008/1272/oj.
+(2) Avizele sunt accesibile prin intermediul următorului site web: https://echa.europa.eu/registry-of-clh-intentions-until-outcome/-/dislist/name/-/ecNumber/-/casNumber/-/dte_receiptFrom/-/dte_receiptTo/-/prc_public_status/Opinion+Adopted/dte_withdrawnFrom/-/dte_withdrawnTo/-/sbm_expected_submissionFrom/-/sbm_expected_submissionTo/-/dte_finalise_deadlineFrom/-/dte_finalise_deadlineTo/-/haz_addional_hazard/-/lec_submitter/-/dte_assessmentFrom/-/dte_assessmentTo/-/prc_regulatory_programme/-/.
+ANEXĂ
+Tabelul 3 din partea 3 a anexei VI la Regulamentul (CE) nr. 1272/2008 se modifică după cum urmează:
+1. Se introduc următoarele intrări în ordinea consecutivă a numerelor de index corespunzătoare fiecărei intrări:
+Nr. index | Denumirea chimică | Nr. CE | Nr. CAS | Clasificare | Etichetare | Limite de conc. specifice, factori M și ATE | Observații
+Codul (codurile) claselor și categoriilor de pericol | Codul (codurile) frazelor de pericol | Codul (codurile) pictogramei, cuvântului de avertizare | Codul (codurile) frazelor de pericol | Codul (codurile) frazelor de pericol suplimentare
+„607-776-00-5 | monoesterul acidului 2-etilhexanoic cu propan-1,2-diol | 285-503-5 | 85114-00-7 | Toxicitate pentru reproducere (Repr.) 1B | H360D | GHS08 Pericol (Dgr) | H360D” | | |
+„612-300-00-4 | N-1-naftilanilină; N-fenilnaftalen-1-amină | 201-983-0 | 90-30-2 | Toxicitate acută 4 STOT RE 2 Sens. pielii (Skin Sens.) 1 | H302 H373 (sistemul sanguin, ficatul) H317 | GHS07 GHS08 Atn (Wng) | H302 H373 (sistemul sanguin, ficatul) H317 | | cale orală: ATE = 1 200 mg/kg gc” |
+„026-005-00-8 | tri(pirofosfat) de tetrafer; pirofosfat feric | 233-190-0 | 10058-44-3 | Irit. oc. 2 | H319 | GHS07 Atn (Wng) | H319” | | |
+„604-103-00-7 | α,α’-propilendinitrilodi-o-crezol | 202-374-2 | 94-91-7 | Toxicitate pentru reproducere (Repr.) 1B | H360FD | GHS08 Pericol (Dgr) | H360FD” | | |
+„008-004-00-4 | ozon | 233-069-2 | 10028-15-6 | Ox. Gaz 1 Carcinogenicitate (Carc.) 2 Mutagenitate (Muta.) 2 Toxicitate acută 1 STOT SE 1 STOT RE 1 Acut pentru mediul acvatic (Aquatic Acute) 1 Cronic pentru mediul acvatic (Aquatic Chronic) 1 | H270 H351 H341 H330 H370 (sistemul nervos, sistemul respirator, sistemul cardiovascular) H372 (sistemul nervos, sistemul respirator) H400 H410 | GHS03 GHS08 GHS06 GHS09 Pericol (Dgr) | H270 H351 H341 H330 H370 (sistemul nervos, sistemul respirator, sistemul cardiovascular) H372 (sistemul nervos, sistemul respirator) H410 | | inhalare: ATE = 10 ppmV STOT SE 1; H370: C ≥ 0,002 % STOT SE 2; H371: 0,0005 % ≤ C < 0,002 % STOT RE 1; H372: C ≥ 0,05 % STOT RE 2; H373: 0,01 % ≤ C < 0,05 % M = 100 M = 1” |
+„007-031-00-9 | protoxid de azot | 233-032-0 | 10024-97-2 | Toxicitate pentru reproducere (Repr.) 1B STOT SE 3 STOT RE 1 Ozon 1 | H360Df H336 H372 (sistemul nervos) H420 | GHS08 GHS07 Pericol (Dgr) | H360Df H336 H372 (sistemul nervos) H420” | | |
+„056-006-00-9 | cromat de bariu | 233-660-5 | 10294-40-3 | Carcinogenicitate (Carc.) 1B | H350 | GHS08 Pericol (Dgr) | H350” | | |
+„650-060-00-2 | Extract de Chrysanthemum cinerariaefolium din flori deschise și mature de Tanacetum cinerariifolium obținut cu CO2 supercritic | 289-699-3 | 89997-63-7 | Toxicitate acută 4 Toxicitate acută 4 STOT SE 1 STOT RE 2 Sens. pielii (Skin Sens.) 1 Acut pentru mediul acvatic (Aquatic Acute) 1 Cronic pentru mediul acvatic (Aquatic Chronic) 1 | H332 H302 H370 (sistemul nervos) H373 (căile respiratorii, inhalare) H317 H400 H410 | GHS07 GHS08 Pericol (Dgr) | H332 H302 H370 (sistemul nervos) H373 (căile respiratorii, inhalare) H317 H410 | | inhalare: ATE = 2,6 mg/L (pulberi sau particule lichide pulverizate) cale orală: ATE = 730 mg/kg gc M = 1 000 M = 100” |
+„650-059-00-7 | Extract de Chrysanthemum cinerariaefolium obținut cu solvenți de hidrocarburi din flori deschise și mature de Tanacetum cinerariifolium | 289-699-3 | 89997-63-7 | Toxicitate acută 4 Toxicitate acută 4 STOT SE 1 STOT RE 2 Sens. pielii (Skin Sens.) 1 Acut pentru mediul acvatic (Aquatic Acute) 1 Cronic pentru mediul acvatic (Aquatic Chronic) 1 | H332 H302 H370 (sistemul nervos) H373 (căile respiratorii, inhalare) H317 H400 H410 | GHS07 GHS08 Pericol (Dgr) | H332 H302 H370 (sistemul nervos) H373 (căile respiratorii, inhalare) H317 H410 | | inhalare: ATE = 2,6 mg/L (pulberi sau particule lichide pulverizate) cale orală: ATE = 730 mg/kg gc M = 1 000 M = 100” |
+„607-777-00-0 | bis[2-cloro-5-[(2-hidroxi-1-naftil)azo]toluen-4-sulfonat] de bariu; C.I. Pigment Roșu 53:1 | 225-935-3 | 5160-02-1 | Carcinogenicitate (Carc.) 2 | H351 | GHS08 Atn (Wng) | H351” | | |
+„608-070-00-X | 2-bromo-2-(bromometil)pentandinitril; [DBDCB] | 252-681-0 | 35691-65-7 | Toxicitate acută 2 Toxicitate acută 4 STOT RE 2 Lez. oc. 1 Sens. pielii 1A Cronic pentru mediul acvatic (Aquatic Chronic) 2 | H330 H302 H373 (tiroida, sistemul nervos central) H318 H317 H411 | GHS06 GHS08 GHS05 GHS09 Pericol (Dgr) | H330 H302 H373 (tiroida, sistemul nervos central) H318 H317 H411 | | inhalare: ATE = 0,27 mg/L (pulberi sau particule lichide pulverizate) cale orală: ATE = 500 mg/kg gc Sens. pielii 1A; H317: C ≥ 0,001 %” |
+„607-779-00-1 | acid 9-octadecenoic (Z)-, sulfonat, săruri de potasiu [1]; produse de reacție ale acizilor grași, alchil C18 (nesaturat) cu trioxid de sulf, săruri de potasiu [2]; sarea de potasiu a acidului 9 (sau 10)-sulfooctadecanoic [3] | 271-843-1 [1]; - [2]; 267-966-5 [3] | 68609-93-8 [1]; - [2]; 67968-63-2 [3] | Toxicitate pentru reproducere (Repr.) 1B | H360D | GHS08 Pericol (Dgr) | H360D” | | |
+„613-352-00-0 | bixlozonă (ISO); 2-(2,4-diclorbenzil)-4,4-dimetil-1,2-oxazolidin-3-onă | — | 81777-95-9 | Acut pentru mediul acvatic (Aquatic Acute) 1 Cronic pentru mediul acvatic (Aquatic Chronic) 1 | H400 H410 | GHS09 Atn (Wng) | H410 | | M = 1 M = 10” |
+„603-248-00-3 | 2,3-epoxipropil fenil eter | 223-672-9 | 4016-14-2 | Toxicitate pentru reproducere (Repr.) 1B | H360F | GHS08 Pericol (Dgr) | H360F” | | |
+„607-778-00-6 | metacrilat de tetrahidrofurfuril | 219-529-5 | 2455-24-5 | Toxicitate pentru reproducere (Repr.) 1B Sens. pielii 1A | H360Df H317 | GHS08 GHS07 Pericol (Dgr) | H360Df H317” | | |
+„015-209-00-2 | fosfat de trimetil | 208-144-8 | 512-56-1 | Carcinogenicitate (Carc.) 1B Mutagenitate (Muta.) 1B Toxicitate pentru reproducere (Repr.) 1B Toxicitate acută 4 STOT RE 2 | H350 H340 H360FD H302 H373 (sistemul nervos) | GHS08 GHS07 Pericol (Dgr) | H350 H340 H360FD H302 H373 (sistemul nervos) | | cale orală: ATE = 1 300 mg/kg gc” |
+„602-111-00-5 | fluoretilenă | 200-832-6 | 75-02-5 | Carcinogenicitate (Carc.) 1A Mutagenitate (Muta.) 2 | H350 H341 | GHS08 Pericol (Dgr) | H350 H341 | | | D”
+„602-112-00-0 | 2-bromo-3,3,3-trifluoroprop-1-enă | — | 1514-82-5 | Toxicitate pentru reproducere (Repr.) 1B STOT SE 3 STOT SE 3 | H360FD H335 H336 | GHS08 GHS07 Pericol (Dgr) | H360FD H335 H336” | | |
+„613-353-00-6 | clorhidrat de 2-metil-2H-izotiazol-3-onă; clorhidrat de 2-metil-2,3-dihidro-1,2-tiazol-3-onă | 247-499-3 | 26172-54-3 | Toxicitate acută 2 Toxicitate acută 3 Toxicitate acută 3 Corodarea pielii (Skin Corr.) 1 Lez. oc. 1 Sens. pielii 1A Acut pentru mediul acvatic (Aquatic Acute) 1 Cronic pentru mediul acvatic (Chronic Acute) 1 | H330 H311 H301 H314 H318 H317 H400 H410 | GHS06 GHS05 GHS09 Pericol (Dgr) | H330 H311 H301 H314 H317 H410 | EUH071 | inhalare: ATE = 0,15 mg/L (pulberi sau particule lichide pulverizate) cale cutanată: ATE = 320 mg/kg gc cale orală: ATE = 180 mg/kg gc Sens. pielii 1A; H317: C ≥ 0,0015 % M = 10 M = 1” |
+„603-249-00-9 | 2,3-epoxipropil o-tolil eter | 218-645-3 | 2210-79-9 | Iritarea pielii (Skin Irrit.) 2 Sens. pielii 1A Mutagenitate (Muta.) 2 Cronic pentru mediul acvatic (Aquatic Chronic) 2 | H315 H317 H341 H411 | GHS07 GHS08 GHS09 Atn (Wng) | H315 H317 H341 H411 | | | C”
+„607-780-00-7 | oct-2-inoat de metil | 203-836-6 | 111-12-6 | Sens. pielii 1A | H317 | GHS07 Atn (Wng) | H317” | | |
+„612-301-00-X | dinotefuran (ISO); (RS)-1-metil-2-nitro-3-(tetrahidro-3-furilmetil)guanidină | — | 165252-70-0 | Toxicitate acută 4 Acut pentru mediul acvatic (Aquatic Acute) 1 Cronic pentru mediul acvatic (Aquatic Chronic) 1 | H302 H400 H410 | GHS07 GHS09 Atn (Wng) | H302 H410 | | cale orală: ATE = 2 000 mg/kg gc M = 10 M = 10” |
+2. Intrările corespunzătoare numerelor de index 015-012-00-1, 601-027-00-6, 602-025-00-8, 607-231-00-1, 613-044-00-6, 613-045-00-1, 615-008-00-5, 616-145-00-3, 616-211-00-1, 616-212-00-7 se înlocuiesc cu următoarele intrări:
+Nr. index | Denumirea chimică | Nr. CE | Nr. CAS | Codul (codurile) claselor și categoriilor de pericol | Codul (codurile) frazelor de pericol | Codul (codurile) pictogramei, cuvântului de avertizare | Codul (codurile) frazelor de pericol | Codul (codurile) frazelor de pericol suplimentare | Limite de conc. specifice, factori M și ATE | Observații
+„601-027-00-6 | 2-fenilpropenă; alfa-metilstiren | 202-705-0 | 98-83-9 | Lich. infl. 3 Carcinogenicitate (Carc.) 2 STOT SE 3 Irit. oc. 2 Sens. pielii 1B Cronic pentru mediul acvatic (Aquatic Chronic) 2 | H226 H351 H335 H319 H317 H411 | GHS02 GHS08 GHS07 GHS09 Atn (Wng) | H226 H351 H335 H319 H317 H411 | | STOT SE 3; H335: C ≥ 25 % | D”
+„616-145-00-3 | petoxamidă (ISO); 2-cloro-N-(2-etoxietil)-N-(2-metil-1-fenilprop-1-enil)acetamid | — | 106700-29-2 | Toxicitate acută 4 Sens. pielii 1A Acut pentru mediul acvatic (Aquatic Acute) 1 Cronic pentru mediul acvatic (Aquatic Chronic) 1 | H302 H317 H400 H410 | GHS07 GHS09 Atn (Wng) | H302 H317 H410 | | cale orală: ATE = 980 mg/kg gc M = 100 M = 10” |
+„015-012-00-1 | trisulfură de tetrafosfor; sesquisulfură de fosfor | 215-245-0 | 1314-85-8 | Sol. infl. 1 Încălz. spon. 1 Toxicitate acută 4* | H228 H251 H302 | GHS02 GHS07 Pericol (Dgr) | H228 H251 H302 | | | T”
+„602-025-00-8 | 1,1-dicloroetilenă; clorură de viniliden | 200-864-0 | 75-35-4 | Lich. infl. 1 Carcinogenicitate (Carc.) 1B Mutagenitate (Muta.) 2 Toxicitate acută 1 Toxicitate acută 3 STOT RE 1 Cronic pentru mediul acvatic (Aquatic Chronic) 3 | H224 H350 H341 H330 H301 H372 (căile respiratorii, rinichii, ficatul) H412 | GHS02 GHS08 GHS06 Pericol (Dgr) | H224 H350 H341 H330 H301 H372 (căile respiratorii, rinichii, ficatul) H412 | | inhalare: ATE = 0,5 mg/L (vapori) cale orală: ATE = 300 mg/kg gc | D”
+„615-008-00-5 | izocianat de 3-izocianato-metil-3,5,5-trimetilciclohexil; diizocianat de izoforon | 223-861-6 | 4098-71-9 | Toxicitate acută 1 Corodarea pielii (Skin Corr.) 1 Lez. oc. 1 Sens. resp. 1 Sens. pielii 1A Cronic pentru mediul acvatic (Aquatic Chronic) 2 | H330 H314 H334 H317 H411 | GHS06 GHS05 GHS08 GHS09 Pericol (Dgr) | H330 H314 H318 H334 H317 H411 | EUH071 | inhalare: ATE = 0,03 mg/L (pulberi sau particule lichide pulverizate) Sens. resp. 1; H334: C ≥ 0,5 % Sens. pielii 1A; H317: C ≥ 0,001 % | 2”
+„613-045-00-1 | folpet (ISO); N-(triclorometiltio)ftalimidă | 205-088-6 | 133-07-3 | Carcinogenicitate (Carc.) 2 Toxicitate acută 2 STOT RE 1 Lez. oc. 1 Sens. pielii 1A Acut pentru mediul acvatic (Aquatic Acute) 1 Cronic pentru mediul acvatic (Aquatic Chronic) 1 | H351 H330 H372 (căile respiratorii) H318 H317 H400 H410 | GHS08 GHS06 GHS05 GHS09 Pericol (Dgr) | H351 H330 H372 (căile respiratorii) H318 H317 H410 | EUH066 | inhalare: ATE = 0,30 mg/L (pulberi sau particule lichide pulverizate) STOT RE 1: C ≥ 5 % STOT RE 2: 0,5 % ≤ C < 5 % Sens. pielii 1A; H317: C ≥ 0,001 % M = 10 M = 10” |
+„613-044-00-6 | captan (ISO); 1,2,3,6-tetrahidro-N-(triclorometiltio)ftalimidă | 205-087-0 | 133-06-2 | Carcinogenicitate (Carc.) 2 Toxicitate pentru reproducere (Repr.) 2 Toxicitate acută 2 STOT RE 1 Lez. oc. 1 Sens. pielii 1A Acut pentru mediul acvatic (Aquatic Acute) 1 Cronic pentru mediul acvatic (Aquatic Chronic) 1 | H351 H361f H330 H372 H318 H317 H400 H410 | GHS08 GHS06 GHS05 GHS09 Pericol (Dgr) | H351 H361f H330 H372 H318 H317 H410 | | inhalare: ATE = 0,22 mg/L (pulberi sau particule lichide pulverizate) Sens. pielii 1A; H317: C ≥ 0,001 % M = 10 M = 10” |
+„607-231-00-1 | clopiralid (ISO); 3,6-dicloropiridin-2-acid carboxilic | 216-935-4 | 1702-17-6 | Lez. oc. 1 Cronic pentru mediul acvatic (Aquatic Chronic) 1 | H318 H410 | GHS05 GHS09 Pericol (Dgr) | H318 H410 | EUH066 | M = 10” |
+„616-211-00-1 | proquinazid (ISO); 6-iod-2-propoxi-3-propilquinazolin-4(3H)-onă | — | 189278-12-4 | Carcinogenicitate (Carc.) 2 STOT RE 1 Acut pentru mediul acvatic (Aquatic Acute) 1 Cronic pentru mediul acvatic (Aquatic Chronic) 1 | H351 H372 (tiroida, ficatul) H400 H410 | GHS08 GHS09 Pericol (Dgr) | H351 H372 (tiroida, ficatul) H410 | | M = 1 M = 10” |
+„616-212-00-7 | 3-iodo-2-propinil butilcarbamat; 3-iodoprop-2-in-1-il butilcarbamat | 259-627-5 | 55406-53-6 | Toxicitate acută 2 Toxicitate acută 4 STOT RE 1 Lez. oc. 1 Sens. pielii (Skin Sens.) 1 Acut pentru mediul acvatic (Aquatic Acute) 1 Cronic pentru mediul acvatic (Aquatic Chronic) 1 | H330 H302 H372 (laringele) H318 H317 H400 H410 | GHS06 GHS08 GHS05 GHS09 Pericol (Dgr) | H330 H302 H372 (laringele) H318 H317 H410 | | inhalare: ATE = 0,17 mg/L (pulberi sau particule lichide pulverizate) M = 10 M = 10” |
+ELI: http://data.europa.eu/eli/reg_del/2025/1222/oj
