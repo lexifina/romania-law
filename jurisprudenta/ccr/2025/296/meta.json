@@ -1,0 +1,372 @@
+{
+ "key": "dcc-296-2025",
+ "label": "Decizia CCR nr. 296/2025",
+ "court": "ccr",
+ "kind": "a-priori",
+ "subkind": "lege-inainte-de-promulgare",
+ "number": "296",
+ "date": "2025-05-29",
+ "year": "2025",
+ "heading": "DECIZIA nr. 296 din 29 mai 2025",
+ "subtitle": "referitoare la obiecția de neconstituționalitate a Legii privind aprobarea Ordonanței de urgență a Guvernului nr. 73/2024 pentru modificarea Ordonanței de urgență a Guvernului nr. 57/2019 privind Codul administrativ, precum și pentru completarea art. 2 din Ordonanța de urgență a Guvernului nr. 212/2020 privind stabilirea unor măsuri la nivelul administrației publice centrale și pentru modificarea și completarea unor acte normative",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "652",
+  "bis": false,
+  "date": "2025-07-11",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": false,
+ "partly": false,
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii privind aprobarea Ordonanței de urgență a Guvernului nr. 73/2024",
+    "number": "73",
+    "year": "2024",
+    "path": "lege/2024/73"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 212/2020",
+    "number": "212",
+    "year": "2020",
+    "path": "oug/2020/212"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite obiecția formulată de Președintele interimar al României și constată că Legea privind aprobarea Ordonanței de urgență a Guvernului nr. 73/2024 pentru modificarea Ordonanței de urgență a Guvernului nr. 57/2019 privind Codul administrativ, precum și pentru completarea art. 2 din Ordonanța de urgență a Guvernului nr. 212/2020 privind stabilirea unor măsuri la nivelul administrației publice centrale și pentru modificarea și completarea unor acte normative este neconstituțională, în ansamblul său.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Președintelui României, președinților celor două Camere ale Parlamentului și prim-ministrului și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii privind aprobarea Ordonanței de urgență a Guvernului nr. 73/2024",
+    "number": "73",
+    "year": "2024",
+    "path": "lege/2024/73"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 212/2020",
+    "number": "212",
+    "year": "2020",
+    "path": "oug/2020/212"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "7"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "61",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "73",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "m"
+     ]
+    },
+    {
+     "art": "75",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "76",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "136",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "147",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "115",
+     "alin": [
+      "7"
+     ],
+     "lit": null
+    },
+    {
+     "art": "146",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "77",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 24
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 296/2023",
+    "number": "296",
+    "year": "2023",
+    "path": "lege/2023/296"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul administrativ",
+    "path": "oug/2019/57",
+    "slug": "codul-administrativ"
+   },
+   "articles": [
+    {
+     "art": "364",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "355",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "363",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "362",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "346",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 26
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 73/2024",
+    "number": "73",
+    "year": "2024",
+    "path": "oug/2024/73"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "364",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea minelor nr. 85/2003",
+    "number": "85",
+    "year": "2003",
+    "path": "lege/2003/85"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 287/2009",
+    "number": "287",
+    "year": "2009",
+    "path": "lege/2009/287"
+   },
+   "articles": [
+    {
+     "art": "1730",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.a"
+     ]
+    },
+    {
+     "art": "18",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 88/1997",
+    "number": "88",
+    "year": "1997",
+    "path": "oug/1997/88"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2025-07-11",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/299764",
+  "text_sha256": "3c2d4fdca825a967aaffa30a6d96471fbbfbc1c81a18d6a8090fceb9d3c8a29c",
+  "catalogue_sha256": "3c2d4fdca825a967aaffa30a6d96471fbbfbc1c81a18d6a8090fceb9d3c8a29c",
+  "fetched": "2026-11-04T01:08:31Z",
+  "chars": 54697,
+  "portal_id": "299764",
+  "tip": "DECIZIE"
+ }
+}
