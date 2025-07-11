@@ -1,0 +1,221 @@
+{
+ "key": "iccj-hp-226-2025",
+ "label": "Decizia ÎCCJ nr. 226/2025 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "226",
+ "date": "2025-06-16",
+ "year": "2025",
+ "heading": "DECIZIA nr. 226 din 16 iunie 2025",
+ "subtitle": "referitoare la indemnizația de periculozitate reglementată de art. 19 alin. (1) din Hotărârea Guvernului nr. 77/2003 privind instituirea unor măsuri pentru prevenirea accidentelor montane și organizarea activității de salvare în munți",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "653",
+  "bis": false,
+  "date": "2025-07-11",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.879/1/2024",
+  "519/100/2022"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 77/2003",
+    "number": "77",
+    "year": "2003",
+    "path": "hg/2003/77"
+   },
+   "articles": [
+    {
+     "art": "19",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 53/2003",
+    "number": "53",
+    "year": "2003",
+    "path": "lege/2003/53"
+   },
+   "articles": [
+    {
+     "art": "137",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Tribunalul Maramureș - Secția I civilă, în Dosarul nr. 519/100/2022, în vederea pronunțării unei hotărâri prealabile cu privire la următoarele chestiuni de drept:",
+  "Indemnizația de periculozitate reglementată de art. 19 alin. (1) din Hotărârea Guvernului nr. 77/2003 privind instituirea unor măsuri pentru prevenirea accidentelor montane și organizarea activității de salvare în munți, respectiv indemnizația de hrană reglementată de alineatul (2) al aceluiași text de lege, se datorează indiferent de faptul că salvatorul montan a participat la acțiunile prevăzute în cuprinsul art. 19 din Hotărârea Guvernului nr. 77/2003, dacă valoarea acestor drepturi a fost stabilită prin hotărârea consiliului județean?",
+  "Prevederile art. 137 alin. (3) din Legea nr. 53/2003 - Codul muncii, republicată, cu modificările și completările ulterioare, raportat la prevederile art. 21 alin. (3) din Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, cu modificările și completările ulterioare, trebuie interpretate în sensul că angajații care beneficiază de timpul aferent repaosului săptămânal în alte 2 zile consecutive decât sâmbăta și duminica beneficiază de sporul de 100% raportat la salariul de bază pentru activitatea efectiv desfășurată în zilele de sâmbătă și duminică, indiferent de faptul că au fost efectuate ore suplimentare?",
+  "Prevederile art. 21 alin. (3) din Legea-cadru nr. 153/2017 trebuie interpretate în sensul că angajatul poate beneficia de sporul de 75%, sau de 100% din salariul de bază pentru perioada de timp în care realizează deplasarea de la domiciliu la locul de muncă?",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 62/2024",
+    "number": "62",
+    "year": "2024",
+    "path": "oug/2024/62"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 77/2003",
+    "number": "77",
+    "year": "2003",
+    "path": "hg/2003/77"
+   },
+   "articles": [
+    {
+     "art": "19",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 53/2003",
+    "number": "53",
+    "year": "2003",
+    "path": "lege/2003/53"
+   },
+   "articles": [
+    {
+     "art": "137",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-07-11",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/299761",
+  "text_sha256": "4d2982dfc3d1112f6eb7198344f4dec6deefe8373936b874bf3982d80359f378",
+  "catalogue_sha256": "4d2982dfc3d1112f6eb7198344f4dec6deefe8373936b874bf3982d80359f378",
+  "fetched": "2026-11-03T00:56:10Z",
+  "chars": 49042,
+  "portal_id": "299761",
+  "tip": "DECIZIE"
+ }
+}
