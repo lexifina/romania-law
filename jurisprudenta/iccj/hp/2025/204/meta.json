@@ -1,0 +1,249 @@
+{
+ "key": "iccj-hp-204-2025",
+ "label": "Decizia ÎCCJ nr. 204/2025 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "204",
+ "date": "2025-05-26",
+ "year": "2025",
+ "heading": "DECIZIA nr. 204 din 26 mai 2025",
+ "subtitle": "referitoare la pensia de serviciu a unui fost magistrat, stabilită în baza Legii nr. 303/2004",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "652",
+  "bis": false,
+  "date": "2025-07-11",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.779/1/2024",
+  "11.099/3/2024"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 303/2004",
+    "number": "303",
+    "year": "2004",
+    "path": "lege/2004/303"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Tribunalul București - Secția a VIII-a conflicte de muncă și asigurări sociale în Dosarul nr. 11.099/3/2024, în vederea pronunțării unei hotărâri prealabile cu privire la următoarele chestiuni de drept:",
+  "Dacă pensia de serviciu a unui fost magistrat, stabilită în baza Legii nr. 303/2004, se actualizează în anul 2023 conform art. 85 din Legea nr. 303/2004 sau în baza art. 213 alin. (2) din Legea nr. 303/2022.",
+  "Dacă diferențele aferente pensiei de serviciu a unui fost magistrat ca urmare a recalculării acesteia în urma majorării indemnizației brute lunare a unui judecător sau procuror în activitate, în condiții identice de funcție, vechime și grad al instanței sau parchetului, se acordă cu respectarea termenului de prescripție calculat de la data la care a fost acordată colegilor magistrați majorarea care a determinat recalcularea pensiei, așa cum este indicată în adeverință.",
+  "Dacă aceste diferențe se impun a fi actualizate cu indicele de inflație și implică plata de daune-interese moratorii egale cu dobânda legală penalizatoare.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 303/2004",
+    "number": "303",
+    "year": "2004",
+    "path": "lege/2004/303"
+   },
+   "articles": [
+    {
+     "art": "82",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "85",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 62/2024",
+    "number": "62",
+    "year": "2024",
+    "path": "oug/2024/62"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 223/2015",
+    "number": "223",
+    "year": "2015",
+    "path": "lege/2015/223"
+   },
+   "articles": [
+    {
+     "art": "65",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 303/2022",
+    "number": "303",
+    "year": "2022",
+    "path": "lege/2022/303"
+   },
+   "articles": [
+    {
+     "art": "V",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "213",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 282/2023",
+    "number": "282",
+    "year": "2023",
+    "path": "lege/2023/282"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 227/2015",
+    "number": "227",
+    "year": "2015",
+    "path": "lege/2015/227"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "cod/1864/civil",
+    "slug": "codul-civil-1864"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 263/2010",
+    "number": "263",
+    "year": "2010",
+    "path": "lege/2010/263"
+   },
+   "articles": [
+    {
+     "art": "107",
+     "alin": [
+      "2",
+      "1",
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 15
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-07-11",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/299765",
+  "text_sha256": "4c60639323a4bdc9c3054e9e08b7c0c1b7cc6c12af1d136cff7987fee08c949d",
+  "catalogue_sha256": "4c60639323a4bdc9c3054e9e08b7c0c1b7cc6c12af1d136cff7987fee08c949d",
+  "fetched": "2026-11-06T04:03:34Z",
+  "chars": 41054,
+  "archive": {
+   "source": "wayback",
+   "url": "https://web.archive.org/web/20260209133454/https://legislatie.just.ro/Public/DetaliiDocumentAfis/299765",
+   "page": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/299765",
+   "timestamp": "20260209133454",
+   "sha256": "9fa0bc12de51fed3cb077e67e4ae0a44661e8ddde71e3807e16cc10ffa9d73e9"
+  },
+  "portal_id": "299765",
+  "tip": "DECIZIE"
+ }
+}
