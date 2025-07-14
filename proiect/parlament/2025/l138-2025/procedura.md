@@ -18,6 +18,7 @@ Initiator: Membri ai Parlamentului.
 - 2025-05-28: registered at the Chamber of Deputies
 - 2025-06-11: adopted by the Chamber of Deputies
 - 2025-06-16: documents published: Forma trimisă la promulgare
+- 2025-07-14: returned for re-examination
 
 ## Documents
 
