@@ -1,0 +1,268 @@
+{
+ "key": "iccj-hp-167-2025",
+ "label": "Decizia ÎCCJ nr. 167/2025 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "167",
+ "date": "2025-05-19",
+ "year": "2025",
+ "heading": "DECIZIA nr. 167 din 19 mai 2025",
+ "subtitle": "referitoare la interpretarea art. 5 lit. a) și b) și art. 11 din Legea nr. 218/2002 privind organizarea și funcționarea Poliției Române, republicată, cu modificările și completările ulterioare",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "659",
+  "bis": false,
+  "date": "2025-07-14",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.706/1/2024",
+  "4.258/90/2023",
+  "1.905/105/2023",
+  "2.399/99/2023"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 218/2002",
+    "number": "218",
+    "year": "2002",
+    "path": "lege/2002/218"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 65/2003",
+    "number": "65",
+    "year": "2003",
+    "path": "hg/2003/65"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinului ministrului afacerilor interne nr. 136/2017",
+    "number": "136",
+    "year": "2017"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul ministrului afacerilor interne nr. 193/2014",
+    "number": "193",
+    "year": "2014"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibile, sesizările conexate formulate de Curtea de Apel Pitești - Secția a II-a civilă, de contencios administrativ și fiscal în Dosarul nr. 4.258/90/2023, de Curtea de Apel Ploiești - Secția de contencios administrativ și fiscal în Dosarul nr. 1.905/105/2023 și de Curtea de Apel Iași - Secția contencios administrativ și fiscal în Dosarul nr. 2.399/99/2023, în vederea pronunțării unei hotărâri prealabile cu privire la următoarele chestiuni de drept: În interpretarea art. 5 lit. a) și b) și art. 11 din Legea nr. 218/2002 privind organizarea și funcționarea Poliției Române, republicată, cu modificările și completările ulterioare, și a prevederilor din Hotărârea Guvernului nr. 65/2003 privind stabilirea drepturilor de hrană, în timp de pace, ale personalului aparținând structurilor Ministerului de Interne, căruia i se aplică Statutul polițistului, cu modificările ulterioare, și anexa la aceasta, norma de hrană nr. 12 „B“ se acordă și polițiștilor încadrați într-un serviciu de combatere a criminalității organizate ce funcționează la nivel teritorial în subordinea Inspectoratului General al Poliției Române?",
+  "Dacă, în interpretarea dispozițiilor Ordinului ministrului afacerilor interne nr. 136/2017 pentru aprobarea Regulilor de aplicare a normelor de hrană, a Regulilor privind organizarea și funcționarea popotelor, a structurii normelor de hrană pentru animalele de serviciu, precum și a structurii normelor de dotare cu bunuri materiale necesare aprovizionării, depozitării și păstrării produselor alimentare, preparării, transportului și servirii hranei în unitățile Ministerului Afacerilor Interne, pe timp de pace, cu modificările și completările ulterioare, și ale art. 5 din Legea nr. 218/2002, norma de hrană nr. 12 „B“ se cuvine doar polițiștilor încadrați în structurile centrale ale Inspectoratului General al Poliției Române sau și celor încadrați în Unitatea Teritorială de Analiză a Informațiilor Cluj-Napoca.",
+  "Dacă, în interpretarea dispozițiilor art. 5 și art. 11 din Legea nr. 218/2002 și a art. 5 alin. (1) din Ordinul ministrului afacerilor interne nr. 193/2014, unitățile teritoriale de analiză a informațiilor pot fi încadrate ca făcând parte din structura organizatorică a Inspectoratului General al Poliției Române, pentru ca funcționarii încadrați în aceste unități să poată beneficia de norma de hrană nr. 12 „B“.",
+  "Obligatorie, potrivit art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 62/2024",
+    "number": "62",
+    "year": "2024",
+    "path": "oug/2024/62"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 218/2002",
+    "number": "218",
+    "year": "2002",
+    "path": "lege/2002/218"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 65/2003",
+    "number": "65",
+    "year": "2003",
+    "path": "hg/2003/65"
+   },
+   "articles": [],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinului ministrului afacerilor interne nr. 136/2017",
+    "number": "136",
+    "year": "2017"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul ministrului afacerilor interne nr. 193/2014",
+    "number": "193",
+    "year": "2014"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "488",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul ministrului afacerilor interne nr. 136/2017",
+    "number": "136",
+    "year": "2017"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-07-14",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/299798",
+  "text_sha256": "aabfb92a23b39c4a6eff35ca1f726a5bc294731cc6ebc439a4bacce978b5bbd1",
+  "catalogue_sha256": "aabfb92a23b39c4a6eff35ca1f726a5bc294731cc6ebc439a4bacce978b5bbd1",
+  "fetched": "2026-11-03T18:43:49Z",
+  "chars": 37186,
+  "portal_id": "299798",
+  "tip": "DECIZIE"
+ }
+}
