@@ -1,0 +1,123 @@
+{
+ "key": "iccj-hp-199-2025",
+ "label": "Decizia ÎCCJ nr. 199/2025 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "199",
+ "date": "2025-05-26",
+ "year": "2025",
+ "heading": "DECIZIA nr. 199 din 26 mai 2025",
+ "subtitle": "referitoare la perioada în care un salariat a desfășurat activitate (ulterior datei de 1 aprilie 2001), dintre cele menționate în anexa nr. 2 la Legea nr. 263/2010 privind sistemul unitar de pensii publice, cu modificările și completările ulterioare",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "659",
+  "bis": false,
+  "date": "2025-07-14",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.753/1/2024",
+  "2.542/109/2022"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 263/2010",
+    "number": "263",
+    "year": "2010",
+    "path": "lege/2010/263"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Tribunalul Argeș - Secția pentru conflicte de muncă și asigurări sociale, în Dosarul nr. 2.542/109/2022, în vederea pronunțării unei hotărâri prealabile pentru dezlegarea următoarei chestiuni de drept: Dacă perioada în care un salariat a desfășurat activitate (ulterior datei de 1 aprilie 2001), dintre cele menționate în anexa nr. 2 la Legea nr. 263/2010 privind sistemul unitar de pensii publice, cu modificările și completările ulterioare, în baza unui contract de muncă cu timp parțial, 5 ore/zi, 24 de ore/săptămână, declarată de un angajator ce se regăsește în anexa nr. 3 la aceeași lege ca fiind prestată în condiții speciale, cu plata contribuțiilor de asigurări sociale corespunzătoare, poate fi valorificată, la stabilirea drepturilor de pensie, ca fiind activitate desfășurată în condiții speciale, potrivit dispozițiilor art. 30 alin. (1) lit. e) din Legea nr. 263/2010.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 62/2024",
+    "number": "62",
+    "year": "2024",
+    "path": "oug/2024/62"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 263/2010",
+    "number": "263",
+    "year": "2010",
+    "path": "lege/2010/263"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": [
+      "h"
+     ]
+    },
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "e"
+     ]
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-07-14",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/299799",
+  "text_sha256": "cc12fc1087a5829a4abf901715d31f519082e53e5aa1b1a4bd24153316562e99",
+  "catalogue_sha256": "cc12fc1087a5829a4abf901715d31f519082e53e5aa1b1a4bd24153316562e99",
+  "fetched": "2026-11-03T22:16:40Z",
+  "chars": 21337,
+  "portal_id": "299799",
+  "tip": "DECIZIE"
+ }
+}
