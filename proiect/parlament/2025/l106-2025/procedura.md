@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2025-06-18: adopted by the Chamber of Deputies
 - 2025-06-23: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-06-25: sent for promulgation
+- 2025-07-14: promulgated, becomes Legea nr. 131/2025; published in the Monitorul Oficial; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -34,3 +35,5 @@ Initiator: Guvernul României.
 - 2025-05-14: Adresă către Camera Deputaților (AM): [am-0f7b42f6.md](am-0f7b42f6.md); official file https://www.senat.ro/legis/PDF/2025/25L106AM.PDF
 - 2025-06-23: Adresă privind sesizarea CCR (AXS): [axs-b383c0ec.md](axs-b383c0ec.md); official file https://www.senat.ro/legis/PDF/2025/25L106AXS.PDF
 - 2025-06-23: Forma trimisă la promulgare (LP): [lp-5b32e980.md](lp-5b32e980.md); official file https://www.senat.ro/legis/PDF/2025/25L106LP.PDF
+- 2025-07-14: Decret de promulgare (DP): [dp-fb3682e4.md](dp-fb3682e4.md); official file https://www.senat.ro/legis/PDF/2025/25L106DP.PDF
+- 2025-07-14: Forma promulgată (FP): [fp-a1037885.md](fp-a1037885.md); official file https://www.senat.ro/legis/PDF/2025/25L106FP.PDF
