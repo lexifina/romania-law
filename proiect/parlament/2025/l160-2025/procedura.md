@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2025-06-16: adopted by the Senate; documents published: Forma adoptată de Senat
 - 2025-06-23: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-06-28: sent for promulgation
+- 2025-07-14: promulgated, becomes Legea nr. 132/2025; published in the Monitorul Oficial; documents published: Document (day not given by the bill file), Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -33,3 +34,6 @@ Initiator: Guvernul României.
 - 2025-06-16: Forma adoptată de Senat (FS): [fs-b1108271.md](fs-b1108271.md); official file https://www.senat.ro/legis/PDF/2025/25L160FS.PDF
 - 2025-06-23: Adresă privind sesizarea CCR (AXS): [axs-f6c4493f.md](axs-f6c4493f.md); official file https://www.senat.ro/legis/PDF/2025/25L160AXS.PDF
 - 2025-06-23: Forma trimisă la promulgare (LP): [lp-219c532e.md](lp-219c532e.md); official file https://www.senat.ro/legis/PDF/2025/25L160LP.PDF
+- 2025-07-14: Document (AL): [al-341b64cb.md](al-341b64cb.md); official file https://www.senat.ro/legis/PDF/2025/25L160AL.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-07-14: Decret de promulgare (DP): [dp-41c28f5f.md](dp-41c28f5f.md); official file https://www.senat.ro/legis/PDF/2025/25L160DP.PDF
+- 2025-07-14: Forma promulgată (FP): [fp-3ae809f7.md](fp-3ae809f7.md); official file https://www.senat.ro/legis/PDF/2025/25L160FP.PDF
