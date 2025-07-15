@@ -1,0 +1,199 @@
+{
+ "key": "dcc-81-2025",
+ "label": "Decizia CCR nr. 81/2025",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "81",
+ "date": "2025-02-25",
+ "year": "2025",
+ "heading": "DECIZIA nr. 81 din 25 februarie 2025",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 3 alin. (1) din Ordonanța Guvernului nr. 55/2002 privind regimul juridic al sancțiunii prestării unei activități în folosul comunității, în ceea ce privește durata minimă de 50 de ore de prestare a unei activități în folosul comunității",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "661",
+  "bis": false,
+  "date": "2025-07-15",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "14.730/4/2020",
+  "2.454D/2020"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 55/2002",
+    "number": "55",
+    "year": "2002",
+    "path": "og/2002/55"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepția de neconstituționalitate a dispozițiilor art. 3 alin. (1) din Ordonanța Guvernului nr. 55/2002 privind regimul juridic al sancțiunii prestării unei activități în folosul comunității, în ceea ce privește durata minimă de 50 de ore de prestare a unei activități în folosul comunității, excepție ridicată de Judecătoria Sectorului 4 București - Secția civilă, din oficiu, în Dosarul nr. 14.730/4/2020 al acestei instanțe.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Judecătoriei Sectorului 4 București - Secția civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 55/2002",
+    "number": "55",
+    "year": "2002",
+    "path": "og/2002/55"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 935/2019",
+    "number": "935",
+    "year": "2019",
+    "path": "hg/2019/935"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituției",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 1.105/2002",
+    "number": "1105",
+    "year": "2002",
+    "path": "hg/2002/1105"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 1.515/2003",
+    "number": "1515",
+    "year": "2003",
+    "path": "hg/2003/1515"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2025-07-15",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/299817",
+  "text_sha256": "73588368c3034d24208ecc6c77372f0b498307934af3ecce60756781533a603f",
+  "catalogue_sha256": "73588368c3034d24208ecc6c77372f0b498307934af3ecce60756781533a603f",
+  "fetched": "2026-11-03T00:56:05Z",
+  "chars": 11946,
+  "portal_id": "299817",
+  "tip": "DECIZIE"
+ }
+}
