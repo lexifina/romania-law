@@ -1,0 +1,355 @@
+{
+ "key": "iccj-hp-penal-115-2024",
+ "label": "Decizia ÎCCJ nr. 115/2024 (HP penal)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp-penal",
+ "number": "115",
+ "date": "2024-12-09",
+ "year": "2024",
+ "heading": "DECIZIA nr. 115 din 9 decembrie 2024",
+ "subtitle": "referitoare la lăsarea neaplicată a unor dispoziții din dreptul intern care se circumscriu standardului național de protecție referitor la previzibilitatea legii penale",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT ÎN MATERIE PENALĂ",
+ "mo": {
+  "number": "666",
+  "bis": false,
+  "date": "2025-07-16",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "216/1/2024",
+  "48.817/3/2017"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituția României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "49",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": [
+      "12"
+     ],
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Curtea de Apel București - Secția I penală în Dosarul nr. 48.817/3/2017, prin care se solicită pronunțarea unei hotărâri prealabile pentru dezlegarea următoarelor chestiuni de drept: 1.",
+  "Dacă lăsarea neaplicată a unor dispoziții din dreptul intern care se circumscriu standardului național de protecție referitor la previzibilitatea legii penale este compatibilă cu art. 7 din Convenția europeană a drepturilor omului?",
+  "2. Dacă concursul de legi penale în timp este susceptibil de tratament juridic diferit, în funcție de natura infracțiunii, fără încălcarea legalității incriminării, respectiv a art. 7 din Convenția europeană a drepturilor omului, art. 49 din Carta drepturilor fundamentale a Uniunii Europene, art. 23 alin. (12) din Constituția României, art. 15 alin. (2) din Constituția României, și fără încălcarea art. 14 din Convenția europeană a drepturilor omului prin introducerea unui tratament discriminatoriu?",
+  "3. Dacă, în absența unor criterii prestabilite prin lege care să definească noțiunile de „risc sistemic de impunitate“ și „număr semnificativ de cauze“, instanța de judecată poate statua incidența acestora fără să încalce principiul legalității incriminării și pedepsei, astfel cum este protejat de art. 7 din Convenția europeană a drepturilor omului?",
+  "4. Dacă, prin raportare la principiul separației puterilor în stat consacrat de art. 1 alin. (4) din Constituția României, evaluarea „riscului sistemic de impunitate“ este compatibilă cu atribuția de judecată ce revine unei instanțe învestite cu soluționarea unei cauze concrete sau conduce la preluarea unor atribuții ce aparțin autorităților cu competențe în domeniul de reglementare a politicilor penale?",
+  "5. Dacă riscul sistemic de impunitate, apreciat ca atare, legitimează sau justifică întreruperea cursului prescripției, de o manieră clandestină, prin acte care nu se comunică suspectului sau inculpatului, fără a se crea o stare de incertitudine perpetuă dată de imposibilitatea unei aprecieri a intervalului de timp în care poate fi tras la răspundere penală, cu încălcarea art. 7 din Convenția europeană a drepturilor omului?",
+  "Obligatorie de la data publicării în Monitorul Oficial al României, Partea I, potrivit art. 477 alin. (3) din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția europeană a drepturilor omului",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "325",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 73
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituția României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "49",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": [
+      "12",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 33
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 78/2000",
+    "number": "78",
+    "year": "2000",
+    "path": "lege/2000/78"
+   },
+   "articles": [
+    {
+     "art": "18",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "f"
+     ]
+    },
+    {
+     "art": "13-2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "297",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "309",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "183",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "289",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "155",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "154",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 48
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 71/2022",
+    "number": "71",
+    "year": "2022",
+    "path": "oug/2022/71"
+   },
+   "articles": [],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "475",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "371",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "476",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "473",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 173/2022",
+    "number": "173",
+    "year": "2022",
+    "path": "lege/2022/173"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolului nr. 16",
+    "path": null,
+    "slug": "conventia-edo-protocolul-16"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-07-16",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/299852",
+  "text_sha256": "684cfa8f223cab4392c7de7041f43406cba00ceaf1f00ee74cd0962e4c99dd4c",
+  "catalogue_sha256": "684cfa8f223cab4392c7de7041f43406cba00ceaf1f00ee74cd0962e4c99dd4c",
+  "fetched": "2026-11-03T00:55:57Z",
+  "chars": 132715,
+  "portal_id": "299852",
+  "tip": "DECIZIE"
+ }
+}
