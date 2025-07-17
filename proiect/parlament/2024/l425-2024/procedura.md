@@ -20,6 +20,7 @@ Initiator: Membri ai Parlamentului.
 - 2025-06-18: adopted by the Chamber of Deputies
 - 2025-06-23: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-06-28: sent for promulgation
+- 2025-07-17: promulgated, becomes Legea nr. 135/2025; published in the Monitorul Oficial; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -36,3 +37,5 @@ Initiator: Membri ai Parlamentului.
 - 2024-09-23: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L425AM.PDF
 - 2025-06-23: Adresă privind sesizarea CCR (AXS): [axs-41442639.md](axs-41442639.md); official file https://www.senat.ro/legis/PDF/2024/24L425AXS.PDF
 - 2025-06-23: Forma trimisă la promulgare (LP): [lp-a89fd9d8.md](lp-a89fd9d8.md); official file https://www.senat.ro/legis/PDF/2024/24L425LP.PDF
+- 2025-07-17: Decret de promulgare (DP): [dp-8e503fd5.md](dp-8e503fd5.md); official file https://www.senat.ro/legis/PDF/2024/24L425DP.PDF
+- 2025-07-17: Forma promulgată (FP): [fp-59d35076.md](fp-59d35076.md); official file https://www.senat.ro/legis/PDF/2024/24L425FP.PDF
