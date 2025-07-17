@@ -15,6 +15,7 @@ Initiator: Guvernul României.
 - 2025-06-30: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-07-02: sent for promulgation
 - 2025-07-08: published in the Monitorul Oficial
+- 2025-07-17: promulgated, becomes Legea nr. 134/2025; published in the Monitorul Oficial; documents published: Document (day not given by the bill file), Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -28,3 +29,7 @@ Initiator: Guvernul României.
 - 2025-06-24: Adresă către Camera Deputaților (AM): [am-9edd94a7.md](am-9edd94a7.md); official file https://www.senat.ro/legis/PDF/2025/25L193AM.PDF
 - 2025-06-30: Adresă privind sesizarea CCR (AXS): [axs-1de5934d.md](axs-1de5934d.md); official file https://www.senat.ro/legis/PDF/2025/25L193AXS.PDF
 - 2025-06-30: Forma trimisă la promulgare (LP): [lp-22f663b1.md](lp-22f663b1.md); official file https://www.senat.ro/legis/PDF/2025/25L193LP.PDF
+- 2025-07-17: Document (SC): [sc-de9e5cb1.md](sc-de9e5cb1.md); official file https://www.senat.ro/legis/PDF/2025/25L193SC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-07-17: Document (DC1): [dc1-73a90186.md](dc1-73a90186.md); official file https://www.senat.ro/legis/PDF/2025/25L193DC1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-07-17: Decret de promulgare (DP): [dp-ee2d53ca.md](dp-ee2d53ca.md); official file https://www.senat.ro/legis/PDF/2025/25L193DP.PDF
+- 2025-07-17: Forma promulgată (FP): [fp-e2ad3eb0.md](fp-e2ad3eb0.md); official file https://www.senat.ro/legis/PDF/2025/25L193FP.PDF
