@@ -20,6 +20,7 @@ Initiator: Membri ai Parlamentului.
 - 2025-06-18: adopted by the Chamber of Deputies
 - 2025-06-23: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-06-28: sent for promulgation
+- 2025-07-17: promulgated, becomes Legea nr. 136/2025; published in the Monitorul Oficial; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -34,3 +35,5 @@ Initiator: Membri ai Parlamentului.
 - 2024-03-04: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L764AM.PDF
 - 2025-06-23: Adresă privind sesizarea CCR (AXS): [axs-1347c402.md](axs-1347c402.md); official file https://www.senat.ro/legis/PDF/2023/23L764AXS.PDF
 - 2025-06-23: Forma trimisă la promulgare (LP): [lp-3fb0816b.md](lp-3fb0816b.md); official file https://www.senat.ro/legis/PDF/2023/23L764LP.PDF
+- 2025-07-17: Decret de promulgare (DP): [dp-94af3475.md](dp-94af3475.md); official file https://www.senat.ro/legis/PDF/2023/23L764DP.PDF
+- 2025-07-17: Forma promulgată (FP): [fp-0e200402.md](fp-0e200402.md); official file https://www.senat.ro/legis/PDF/2023/23L764FP.PDF
