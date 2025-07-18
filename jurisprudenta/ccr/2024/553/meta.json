@@ -1,0 +1,294 @@
+{
+ "key": "dcc-553-2024",
+ "label": "Decizia CCR nr. 553/2024",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "553",
+ "date": "2024-10-29",
+ "year": "2024",
+ "heading": "DECIZIA nr. 553 din 29 octombrie 2024",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 109 alin. (1), ale art. 110 alin. (1) și ale art. 122 din Legea nr. 223/2015 privind pensiile militare de stat",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "677",
+  "bis": false,
+  "date": "2025-07-18",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "18.582/3/2020",
+  "1.160D/2022",
+  "2.085/120/2021",
+  "3.343/120/2021",
+  "5.473/109/2021"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 223/2015",
+    "number": "223",
+    "year": "2015",
+    "path": "lege/2015/223"
+   },
+   "articles": [
+    {
+     "art": "109",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "110",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "122",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Mihai Lucian Sârbu în Dosarul nr. 18.582/3/2020 al Curții de Apel București - Secția a VII-a pentru cauze privind conflicte de muncă și asigurări sociale, de Ion Barbu, Stelian Azoiței, Mircea Vladimir Stănescu, Adrian Păun și Ionel Rizescu în dosarele nr. 785/120/2022, nr. 4.274/120/2021, nr. 4.362/120/2021, nr. 846/120/2022 și nr. 824/120/2022 ale Tribunalului Dâmbovița - Secția I civilă, de Sandu Ciupitu, Stelian Azoiței, Neculae Oțelea, Sandu Ciupitu, într-un dosar distinct, și Nicolae Schileru în dosarele nr. 24/120/2021, nr. 130/120/2021, nr. 784/120/2022/a1, nr. 816/120/2022/a1 și nr. 916/120/2022, de Gheorghe Anițuca în Dosarul nr. 2.085/120/2021 al Curții de Apel Ploiești - Secția I civilă, de Valentin Moldoveanu în Dosarul nr. 3.343/120/2021* al Curții de Apel Ploiești - Secția I civilă, precum și de Viorel Mateescu în Dosarul nr. 5.473/109/2021* al Curții de Apel Pitești - Secția civilă și constată că dispozițiile art. 109 alin. (1), ale art. 110 alin. (1) și ale art. 122 din Legea nr. 223/2015 privind pensiile militare de stat sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Curții de Apel București - Secția a VII-a pentru cauze privind conflicte de muncă și asigurări sociale, Tribunalului Dâmbovița - Secția I civilă, Curții de Apel Ploiești - Secția I civilă și Curții de Apel Pitești - Secția civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 223/2015",
+    "number": "223",
+    "year": "2015",
+    "path": "lege/2015/223"
+   },
+   "articles": [
+    {
+     "art": "109",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "122",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "110",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "111",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 51
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "47",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 164/2001",
+    "number": "164",
+    "year": "2001",
+    "path": "lege/2001/164"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 179/2004",
+    "number": "179",
+    "year": "2004",
+    "path": "lege/2004/179"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 263/2010",
+    "number": "263",
+    "year": "2010",
+    "path": "lege/2010/263"
+   },
+   "articles": [],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretul nr. 214/1977",
+    "number": "214",
+    "year": "1977",
+    "path": "decret/1977/214"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 80/1995",
+    "number": "80",
+    "year": "1995",
+    "path": "lege/1995/80"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 119/2010",
+    "number": "119",
+    "year": "2010",
+    "path": "lege/2010/119"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 241/2013",
+    "number": "241",
+    "year": "2013",
+    "path": "lege/2013/241"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2025-07-18",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/299910",
+  "text_sha256": "a820f94aa807d17ac7c42a0cf38da1cace07d0bede400ba9bbeadc386b2637ec",
+  "catalogue_sha256": "a820f94aa807d17ac7c42a0cf38da1cace07d0bede400ba9bbeadc386b2637ec",
+  "fetched": "2026-11-03T00:55:53Z",
+  "chars": 39874,
+  "portal_id": "299910",
+  "tip": "DECIZIE"
+ }
+}
