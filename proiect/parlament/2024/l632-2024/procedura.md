@@ -17,6 +17,7 @@ Initiator: Guvernul României.
 - 2025-02-03: registered at the Chamber of Deputies
 - 2025-06-30: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-07-02: sent for promulgation
+- 2025-07-21: promulgated, becomes Legea nr. 137/2025; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -33,3 +34,5 @@ Initiator: Guvernul României.
 - 2024-12-16: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L632AM.PDF
 - 2025-06-30: Adresă privind sesizarea CCR (AXS): [axs-ab4d8d23.md](axs-ab4d8d23.md); official file https://www.senat.ro/legis/PDF/2024/24L632AXS.PDF
 - 2025-06-30: Forma trimisă la promulgare (LP): [lp-9d4d87dc.md](lp-9d4d87dc.md); official file https://www.senat.ro/legis/PDF/2024/24L632LP.PDF
+- 2025-07-21: Decret de promulgare (DP): [dp-6bd2353d.md](dp-6bd2353d.md); official file https://www.senat.ro/legis/PDF/2024/24L632DP.PDF
+- 2025-07-21: Forma promulgată (FP): [fp-007ac224.md](fp-007ac224.md); official file https://www.senat.ro/legis/PDF/2024/24L632FP.PDF
