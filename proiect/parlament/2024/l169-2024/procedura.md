@@ -16,6 +16,7 @@ Initiator: Guvernul României.
 - 2024-05-07: registered at the Chamber of Deputies
 - 2025-06-30: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-07-02: sent for promulgation
+- 2025-07-21: promulgated, becomes Legea nr. 138/2025; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -30,3 +31,5 @@ Initiator: Guvernul României.
 - 2024-04-27: Adresă către Camera Deputaților (AM): [am-f3ea65d4.md](am-f3ea65d4.md); official file https://www.senat.ro/legis/PDF/2024/24L169AM.PDF
 - 2025-06-30: Adresă privind sesizarea CCR (AXS): [axs-78a93819.md](axs-78a93819.md); official file https://www.senat.ro/legis/PDF/2024/24L169AXS.PDF
 - 2025-06-30: Forma trimisă la promulgare (LP): [lp-df8bb9da.md](lp-df8bb9da.md); official file https://www.senat.ro/legis/PDF/2024/24L169LP.PDF
+- 2025-07-21: Decret de promulgare (DP): [dp-f4d5e1d3.md](dp-f4d5e1d3.md); official file https://www.senat.ro/legis/PDF/2024/24L169DP.PDF
+- 2025-07-21: Forma promulgată (FP): [fp-055e2b54.md](fp-055e2b54.md); official file https://www.senat.ro/legis/PDF/2024/24L169FP.PDF
