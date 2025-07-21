@@ -1,0 +1,200 @@
+{
+ "key": "iccj-ril-5-2025",
+ "label": "Decizia ÎCCJ nr. 5/2025 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "5",
+ "date": "2025-05-05",
+ "year": "2025",
+ "heading": "DECIZIA nr. 5 din 5 mai 2025",
+ "subtitle": "referitoare la interpretarea și aplicarea unitară a art. 160 alin. (1) din Legea nr. 367/2022 privind dialogul social",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU SOLUȚIONAREA RECURSULUI ÎN INTERESUL LEGII",
+ "mo": {
+  "number": "682",
+  "bis": false,
+  "date": "2025-07-21",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "322/1/2025"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 367/2022",
+    "number": "367",
+    "year": "2022",
+    "path": "lege/2022/367"
+   },
+   "articles": [
+    {
+     "art": "160",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite recursul în interesul legii formulat de Colegiul de conducere al Curții de Apel Cluj și, în consecință, stabilește că:",
+  "În interpretarea și aplicarea unitară a art. 160 alin. (1) din Legea nr. 367/2022 privind dialogul social, cu modificările și completările ulterioare, suspendarea contractului individual de muncă sau a raportului de serviciu la inițiativa angajatului intervine ca efect al aderării la grevă, doar pe durata participării la aceasta, fără a fi necesară o manifestare de voință suplimentară în acest sens din partea angajatului.",
+  "Obligatorie, potrivit art. 517 alin. (4) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 367/2022",
+    "number": "367",
+    "year": "2022",
+    "path": "lege/2022/367"
+   },
+   "articles": [
+    {
+     "art": "160",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "153",
+     "alin": [
+      "5",
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 36
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 123/2006",
+    "number": "123",
+    "year": "2006",
+    "path": "lege/2006/123"
+   },
+   "articles": [
+    {
+     "art": "59",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "78",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "49",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 53/2003",
+    "number": "53",
+    "year": "2003",
+    "path": "lege/2003/53"
+   },
+   "articles": [
+    {
+     "art": "51",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "f"
+     ]
+    },
+    {
+     "art": "260",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "e"
+     ]
+    },
+    {
+     "art": "234",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 18
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 42/2023",
+    "number": "42",
+    "year": "2023",
+    "path": "oug/2023/42"
+   },
+   "articles": [],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "514",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii dialogului social nr. 62/2011",
+    "number": "62",
+    "year": "2011",
+    "path": "lege/2011/62"
+   },
+   "articles": [
+    {
+     "art": "185",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-07-21",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/299937",
+  "text_sha256": "6b2fffd613cde38722ba8c854a815cb9039763dc90290becedcb5a755a1c95ad",
+  "catalogue_sha256": "6b2fffd613cde38722ba8c854a815cb9039763dc90290becedcb5a755a1c95ad",
+  "fetched": "2026-11-03T00:55:59Z",
+  "chars": 46353,
+  "portal_id": "299937",
+  "tip": "DECIZIE"
+ }
+}
