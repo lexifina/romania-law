@@ -1,0 +1,24 @@
+# Decizia CNSC nr. 2070/C10/2178 din 21.07.2025
+
+The record of this decision on the CNSC portal.
+
+- Body: Consiliul Național de Soluționare a Contestațiilor (CNSC)
+- Decision: 2070/C10/2178
+- Date: 2025-07-21
+- Panel: C10
+- Complainant: GB INDCO SRL, BIOSTEC CLINILAB SRL
+- Complainant CUI: RO10421821
+- Contracting authority: SPITAL CLINIC JUDETEAN DE URGENTA BIHOR
+- Contracting authority CUI: 4208498
+- Complaint registered at CNSC: 39006, 39572 / 2025-06-13
+- Resolution: Admite
+- Operative part: admite, respinge, exceptie_admisa, anuleaza, obliga, continuare_procedura, conexare, tardiva
+- Procedure: *Negocierea fara publicare prealabila
+- Funds: Proprii
+- Criticisms: R3 (caracterul inacceptabil al ofertelor altor participanţi la procedura de atribuire); R2 (respingerea ofertei contestatorului ca neconformă sau inacceptabilă)
+- Procedure law: Legea nr. 101/2016
+- Official Bulletin number: BO2025_2070
+- Decision as issued (PDF): http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NjhkMmE2NjgtZTM4Yy00Y2FjLWFmOWYtNGVhYWVmM2NkMjgz&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yMDcwLnBkZg==&action=YXR0YWNobWVudA==
+- Reasoned decision (PDF): http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MjllNWVlNzktNDZkMi00MzBjLWE1YjUtODQxODM5OWMzZTU5&pdfa1=ZmFsc2U=&filename=Qk8yMDI1XzIwNzAucGRm&action=YXR0YWNobWVudA==
+- Copyright: Legea nr. 8/1996, art. 9 lit. b: texts of a legislative, administrative or judicial nature are not protected by copyright; CNSC decisions are administrative-jurisdictional acts.
+- Publication: Published on the official-text basis by the decision of Lexifina (2026-11-06), although the CNSC portal's terms bar reproduction for commercial purposes without written consent.
