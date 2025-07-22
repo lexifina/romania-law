@@ -1,0 +1,213 @@
+{
+ "key": "iccj-hp-203-2025",
+ "label": "Decizia ÎCCJ nr. 203/2025 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "203",
+ "date": "2025-05-26",
+ "year": "2025",
+ "heading": "DECIZIA nr. 203 din 26 mai 2025",
+ "subtitle": "referitoare la drepturile salariale neacordate personalului prevăzut de anexa nr. VI la Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, cu modificările și completările ulterioare",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "685",
+  "bis": false,
+  "date": "2025-07-22",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "563/1/2025",
+  "494/84/2024"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibile, sesizările conexate formulate de Curtea de Apel Cluj - Secția a III-a contencios administrativ și fiscal în dosarele nr. 494/84/2024 și nr. 344/100/2023, în vederea pronunțării unei hotărâri prealabile cu privire la următoarele întrebări:",
+  "În cazul drepturilor salariale neacordate personalului prevăzut de anexa nr. VI la Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, cu modificările și completările ulterioare, termenul de prescripție începe să curgă de la data când titularul dreptului la acțiune a cunoscut sau, după împrejurări, trebuia să cunoască nașterea dreptului său potrivit art. 2.523 din Codul civil sau de la data când acestea trebuiau plătite, potrivit art. 62 din anexa nr. VI la Legea-cadru nr. 153/2017 ?",
+  "În cazul drepturilor salariale neacordate funcționarilor publici, termenul de prescripție începe să curgă de la data când titularul dreptului la acțiune a cunoscut sau, după împrejurări, trebuia să cunoască nașterea dreptului său potrivit art. 2.523 din Codul civil sau de la data când acestea trebuiau plătite, potrivit art. 171 din Codul muncii ?",
+  "Obligatorie, potrivit art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 62/2024",
+    "number": "62",
+    "year": "2024",
+    "path": "oug/2024/62"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "2523",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 53/2003",
+    "number": "53",
+    "year": "2003",
+    "path": "lege/2003/53"
+   },
+   "articles": [
+    {
+     "art": "171",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "268",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârii Guvernului nr. 582/2015",
+    "number": "582",
+    "year": "2015",
+    "path": "hg/2015/582"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 1.086/2004",
+    "number": "1086",
+    "year": "2004",
+    "path": "hg/2004/1086"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretul nr. 167/1958",
+    "number": "167",
+    "year": "1958",
+    "path": "decret/1958/167"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-07-22",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/299953",
+  "text_sha256": "4a80c2c0b3bc732fa148a6cc31ffb861acf625beb404c4e44db2b64f025bd204",
+  "catalogue_sha256": "4a80c2c0b3bc732fa148a6cc31ffb861acf625beb404c4e44db2b64f025bd204",
+  "fetched": "2026-11-03T00:55:52Z",
+  "chars": 32211,
+  "portal_id": "299953",
+  "tip": "DECIZIE"
+ }
+}
