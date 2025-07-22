@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2025-06-30: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-07-02: sent for promulgation
 - 2025-07-21: promulgated, becomes Legea nr. 137/2025; documents published: Decret de promulgare, Forma promulgată
+- 2025-07-22: published in the Monitorul Oficial
 
 ## Documents
 
