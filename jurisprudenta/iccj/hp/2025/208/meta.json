@@ -1,0 +1,196 @@
+{
+ "key": "iccj-hp-208-2025",
+ "label": "Decizia ÎCCJ nr. 208/2025 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "208",
+ "date": "2025-05-26",
+ "year": "2025",
+ "heading": "DECIZIA nr. 208 din 26 mai 2025",
+ "subtitle": "privind chestiunea de drept referitoare la recalcularea retroactivă a indemnizației de instalare a unui judecător pentru perioada 1.01.2021-4.05.2022 în baza unui coeficient de multiplicare și a unei valori de referință sectorială",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "690",
+  "bis": false,
+  "date": "2025-07-23",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "290/1/2025",
+  "78/3/2024"
+ ],
+ "subjects": [],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Tribunalul București - Secția a VIII-a conflicte de muncă și asigurări sociale în Dosarul nr. 78/3/2024, în vederea pronunțării unei hotărâri prealabile cu privire la următoarea chestiune de drept: Dacă indemnizația de instalare a unui judecător, care este egală cu indemnizația de încadrare brută lunară corespunzătoare funcției în care este încadrat conform prevederilor art. 26 alin. (1) din Ordonanța de urgență a Guvernului nr. 27/2006 privind salarizarea și alte drepturi ale judecătorilor, procurorilor și altor categorii de personal din sistemul justiției, cu modificările și completările ulterioare, poate fi recalculată retroactiv pentru perioada 1.01.2021-4.05.2022 în baza unui coeficient de multiplicare de 19,00 și a unei valori de referință sectorială de 605,225 lei în urma constatării unei/unor situații de discriminare prin raportare la un coleg sau la colegi, cu același grad profesional/vechime, căruia/cărora i/li s-au recunoscut aceste drepturi sau despăgubiri pentru o astfel de discriminare pe cale judecătorească.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 27/2006",
+    "number": "27",
+    "year": "2006",
+    "path": "oug/2006/27"
+   },
+   "articles": [
+    {
+     "art": "26",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 20/2016",
+    "number": "20",
+    "year": "2016",
+    "path": "oug/2016/20"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 62/2024",
+    "number": "62",
+    "year": "2024",
+    "path": "oug/2024/62"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul muncii",
+    "path": "lege/2003/53",
+    "slug": "codul-muncii"
+   },
+   "articles": [
+    {
+     "art": "269",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": [
+      "b",
+      "a"
+     ]
+    },
+    {
+     "art": "38",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "39",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 284/2010",
+    "number": "284",
+    "year": "2010",
+    "path": "lege/2010/284"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [
+  "subjects: none parsed"
+ ],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-07-23",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/299985",
+  "text_sha256": "e6ce0aafce7b4af7d794df17bd806223e0da3bbd9c52488ab1006e9b591d38e2",
+  "catalogue_sha256": "e6ce0aafce7b4af7d794df17bd806223e0da3bbd9c52488ab1006e9b591d38e2",
+  "fetched": "2026-11-03T00:55:48Z",
+  "chars": 37117,
+  "portal_id": "299985",
+  "tip": "DECIZIE"
+ }
+}
