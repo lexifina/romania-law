@@ -1,0 +1,237 @@
+{
+ "key": "cedo-59012-17-2025-01-07",
+ "label": "CEDO, Văleanu și alții c. României, 2025-01-07",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2025-01-07",
+ "year": "2025",
+ "heading": "HOTĂRÂREA din 7 ianuarie 2025",
+ "subtitle": "în Cauza Văleanu și alții împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI - SECȚIA A PATRA",
+ "mo": {
+  "number": "688",
+  "bis": false,
+  "date": "2025-07-23",
+  "part": "I"
+ },
+ "outcome": "struck-out",
+ "findings": [
+  "struck-out",
+  "just-satisfaction"
+ ],
+ "applications": [
+  "59012/17",
+  "12854/18",
+  "32541/18",
+  "38992/18",
+  "42182/18",
+  "45732/18",
+  "52852/18",
+  "59503/18",
+  "2556/19",
+  "1369/19",
+  "16060/19",
+  "20341/19",
+  "27761/19",
+  "28615/19",
+  "33596/19",
+  "43586/19"
+ ],
+ "case_name": "Văleanu și alții",
+ "subjects": [],
+ "operative": [
+  "În unanimitate,",
+  "CURTEA:",
+  "1. hotărăște că moștenitorii reclamanților, domnul Mircea Romulus Todea, domnul Sorin Constantin Grigorescu, doamna Anca Simona Banc-Oltean, domnul Ciprian Oltean, domnul Octavian Vasile Oltean, doamna Zoița Mihaela Oltean, doamna Valeria-Zorița Pastor și doamna Gabriela Carmen Boarti, au calitatea de a continua prezenta procedură în locul reclamanților decedați, respectiv domnul Romulus Nicolae Todea (Cererea nr. 38.992/18) și doamnele Maria Grigorescu, Floarea Oltean și Lucreția Boarti (Cererea nr. 25.503/19);",
+  "2. decide să radieze cererile nr. 42.182/18 (Iuga împotriva României), nr. 52.852/18 (Enescu și alții împotriva României), nr. 16.337/19 (Mihaela Ștefănescu împotriva României) și nr. 33.596/19 (Stoiculescu împotriva României) - enumerate respectiv la nr. 6, 9, 15 și 24 din tabelul anexat - de pe lista sa de cauze în ceea ce privește procedura rezervată în temeiul art. 41;",
+  "3. hotărăște: (a) că statul pârât trebuie să asigure, prin mijloace adecvate, executarea hotărârilor judecătorești pronunțate în favoarea reclamanților, inclusiv restituirea bunurilor în cauză (cererile enumerate la nr. 2, 4, 5, 7, 10, 11, 12, 13, 14, 16, 21, 22 și 28 în tabelul anexat) și sub rezerva condițiilor prevăzute la pct. 123, în termen de 12 luni de la data la care hotărârea devine definitivă, în conformitate cu art. 44 § 2 din Convenție;",
+  "(b) că, în cazul în care nu este executată această hotărâre în cauzele sus-menționate, statul pârât trebuie să plătească reclamanților, în același termen de 12 luni, sumele indicate în tabelul anexat (ultima coloană), plus orice sumă care poate fi datorată cu titlu de impozit, cu titlu de prejudiciu material;",
+  "(c) că, în ceea ce privește restul cererilor (cererile enumerate la nr. 1, 3, 8, 17, 18, 19, 20, 23, 25, 26 și 27), statul pârât trebuie să plătească reclamanților, în termen de trei luni de la data rămânerii definitive a hotărârii, în conformitate cu art. 44 § 2 din Convenție, sumele indicate în tabelul anexat (ultima coloană), plus orice sumă ce poate fi datorată cu titlu de impozit, cu titlu de prejudiciu material;",
+  "(d) că, în orice caz, statul pârât trebuie să plătească reclamanților, în același termen de trei luni, sumele indicate în tabelul anexat (ultima coloană), plus orice sumă care poate fi datorată de reclamanți cu titlu de impozit, cu titlu de cheltuieli de judecată;",
+  "(e) că sumele de mai sus, exprimate în euro, trebuie convertite în moneda națională a statului pârât la rata de schimb aplicabilă la data plății;",
+  "(f) că, de la împlinirea termenului menționat de 12 și, respectiv, trei luni până la efectuarea plății, aceste sume trebuie majorate cu o dobândă simplă, la o rată egală cu rata dobânzii facilității de împrumut marginal practicată de Banca Centrală Europeană, aplicabilă pe parcursul acestei perioade și majorată cu trei puncte procentuale;",
+  "4. respinge cererea de acordare a unei reparații echitabile pentru celelalte capete de cerere."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenție",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "37",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "43",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 165/2013",
+    "number": "165",
+    "year": "2013",
+    "path": "lege/2013/165"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 284/2023",
+    "number": "284",
+    "year": "2023",
+    "path": "lege/2023/284"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 10/2001",
+    "number": "10",
+    "year": "2001",
+    "path": "lege/2001/10"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 90/2003",
+    "number": "90",
+    "year": "2003",
+    "path": "oug/2003/90"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "OUG nr. 90/2023",
+    "number": "90",
+    "year": "2023",
+    "path": "oug/2023/90"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul fiscal",
+    "path": "lege/2015/227",
+    "slug": "codul-fiscal"
+   },
+   "articles": [
+    {
+     "art": "111",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul nr. 694/2016",
+    "number": "694",
+    "year": "2016"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/299966",
+  "text_sha256": "049cb528c95416aab8b37e4a08dc9168e12be207435aa66e0a2a67785cd072d1",
+  "catalogue_sha256": "049cb528c95416aab8b37e4a08dc9168e12be207435aa66e0a2a67785cd072d1",
+  "fetched": "2026-11-03T14:59:54Z",
+  "chars": 124991,
+  "portal_id": "299966",
+  "tip": "HOTĂRÂRE"
+ }
+}
