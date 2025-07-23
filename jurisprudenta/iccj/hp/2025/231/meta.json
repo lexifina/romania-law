@@ -1,0 +1,220 @@
+{
+ "key": "iccj-hp-231-2025",
+ "label": "Decizia ÎCCJ nr. 231/2025 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "231",
+ "date": "2025-06-16",
+ "year": "2025",
+ "heading": "DECIZIA nr. 231 din 16 iunie 2025",
+ "subtitle": "privind dezlegarea unor chestiuni de drept referitoare la drepturile prevăzute la art. 9 alin. (1) lit. h), coroborat cu dispozițiile art. 9 alin. (3) și (4) din Hotărârea Guvernului nr. 1.198/2022 pentru personalul care își desfășoară activitatea în punctele de control pentru trecerea frontierei",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "690",
+  "bis": false,
+  "date": "2025-07-23",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.796/1/2024",
+  "2.796/1/2025",
+  "2.042/108/2023"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 1.198/2022",
+    "number": "1198",
+    "year": "2022",
+    "path": "hg/2022/1198"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": [
+      "1",
+      "3"
+     ],
+     "lit": [
+      "h"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Curtea de Apel Timișoara - Secția contencios administrativ și fiscal în Dosarul nr. 2.042/108/2023, în vederea pronunțării unei hotărâri prealabile privind lămurirea următoarei chestiuni de drept:",
+  "Personalul care își desfășoară activitatea în punctele de control pentru trecerea frontierei, care nu a avut niciodată domiciliul sau reședința în aceeași localitate în care își desfășoară sau și-a desfășurat activitatea, beneficiază de drepturile prevăzute la art. 9 alin. (1) lit. h), coroborat cu dispozițiile art. 9 alin. (3) și (4) din Hotărârea Guvernului nr. 1.198/2022, și în situația în care pe parcursul carierei au intervenit mutări la cerere în alte puncte de control decât cel în care a fost numit în prima funcție?",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 1.198/2022",
+    "number": "1198",
+    "year": "2022",
+    "path": "hg/2022/1198"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": [
+      "1",
+      "3",
+      "4"
+     ],
+     "lit": [
+      "h"
+     ]
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": [
+      "h"
+     ]
+    }
+   ],
+   "mentions": 31
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 62/2024",
+    "number": "62",
+    "year": "2024",
+    "path": "oug/2024/62"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul ministrului afacerilor interne nr. 181/2022",
+    "number": "181",
+    "year": "2022"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 1.198/2002",
+    "number": "1198",
+    "year": "2002",
+    "path": "hg/2002/1198"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": [
+      "1",
+      "3"
+     ],
+     "lit": [
+      "h"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "96",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinului ministrului afacerilor interne nr. 181/2022",
+    "number": "181",
+    "year": "2022"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-07-23",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/299986",
+  "text_sha256": "4ca41507807954351697ce068e6da294b046b1067f38f9f16d330ec6b2049ac3",
+  "catalogue_sha256": "4ca41507807954351697ce068e6da294b046b1067f38f9f16d330ec6b2049ac3",
+  "fetched": "2026-11-06T03:45:59Z",
+  "chars": 44522,
+  "archive": {
+   "source": "commoncrawl",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/299986",
+   "timestamp": "20251009145850",
+   "crawl": "CC-MAIN-2025-43",
+   "filename": "crawl-data/CC-MAIN-2025-43/segments/1759648358447.5/warc/CC-MAIN-20251009131730-20251009161730-00479.warc.gz",
+   "offset": "344068862",
+   "length": "34164",
+   "sha256": "cb0846c99fc473c90fb616f210781f39365e760d7d2f8c1dba420393d18628d0"
+  },
+  "portal_id": "299986",
+  "tip": "DECIZIE"
+ }
+}
