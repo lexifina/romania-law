@@ -14,6 +14,7 @@ Initiator: Membri ai Parlamentului.
 - 2025-06-23: registered at the Chamber of Deputies
 - 2025-06-30: adopted by the Chamber of Deputies; documents published: Raport comisie sesizată pe fond, Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-07-05: sent for promulgation
+- 2025-07-24: promulgated, becomes Legea nr. 139/2025; published in the Monitorul Oficial; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -23,3 +24,5 @@ Initiator: Membri ai Parlamentului.
 - 2025-06-30: Raport comisie sesizată pe fond (CR): [cr-adb8ec69.md](cr-adb8ec69.md); official file https://www.senat.ro/legis/PDF/2025/25L184CR.PDF
 - 2025-06-30: Adresă privind sesizarea CCR (AXS): [axs-797d5433.md](axs-797d5433.md); official file https://www.senat.ro/legis/PDF/2025/25L184AXS.PDF
 - 2025-06-30: Forma trimisă la promulgare (LP): [lp-3cb11841.md](lp-3cb11841.md); official file https://www.senat.ro/legis/PDF/2025/25L184LP.PDF
+- 2025-07-24: Decret de promulgare (DP): [dp-788d8d07.md](dp-788d8d07.md); official file https://www.senat.ro/legis/PDF/2025/25L184DP.PDF
+- 2025-07-24: Forma promulgată (FP): [fp-be894be5.md](fp-be894be5.md); official file https://www.senat.ro/legis/PDF/2025/25L184FP.PDF
