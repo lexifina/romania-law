@@ -20,6 +20,7 @@ Initiator: Membri ai Parlamentului.
 - 2025-06-25: adopted by the Chamber of Deputies
 - 2025-06-30: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-07-05: sent for promulgation
+- 2025-07-24: promulgated, becomes Legea nr. 140/2025; published in the Monitorul Oficial; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -36,3 +37,5 @@ Initiator: Membri ai Parlamentului.
 - 2025-05-14: Adresă către Camera Deputaților (AM): [am-a9566efe.md](am-a9566efe.md); official file https://www.senat.ro/legis/PDF/2025/25L091AM.PDF
 - 2025-06-30: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2025/25L091AXS.PDF
 - 2025-06-30: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2025/25L091LP.PDF
+- 2025-07-24: Decret de promulgare (DP): [dp-90386940.md](dp-90386940.md); official file https://www.senat.ro/legis/PDF/2025/25L091DP.PDF
+- 2025-07-24: Forma promulgată (FP): [fp-7092b04c.md](fp-7092b04c.md); official file https://www.senat.ro/legis/PDF/2025/25L091FP.PDF
