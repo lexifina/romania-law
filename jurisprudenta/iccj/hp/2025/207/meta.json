@@ -1,0 +1,263 @@
+{
+ "key": "iccj-hp-207-2025",
+ "label": "Decizia ÎCCJ nr. 207/2025 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "207",
+ "date": "2025-05-26",
+ "year": "2025",
+ "heading": "DECIZIA nr. 207 din 26 mai 2025",
+ "subtitle": "referitoare la plafonarea prevăzută de art. IX din Ordonanța de urgență a Guvernului nr. 59/2017 privind modificarea și completarea unor acte normative din domeniul pensiilor de serviciu",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "693",
+  "bis": false,
+  "date": "2025-07-24",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "195/1/2025",
+  "959/100/2024",
+  "2.662/89/2023",
+  "2.158/90/2024"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 59/2017",
+    "number": "59",
+    "year": "2017",
+    "path": "oug/2017/59"
+   },
+   "articles": [
+    {
+     "art": "IX",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Tribunalul Maramureș - Secția I civilă în Dosarul nr. 959/100/2024, în vederea pronunțării unei hotărâri prealabile cu privire la următoarea chestiune de drept: Dacă în cazul beneficiarului pensiei de serviciu stabilite în temeiul Legii nr. 94/1992 privind organizarea și funcționarea Curții de Conturi, cu modificările și completările ulterioare, plafonarea prevăzută de art. IX din Ordonanța de urgență a Guvernului nr. 59/2017 privind modificarea și completarea unor acte normative din domeniul pensiilor de serviciu se aplică și în cazul actualizării pensiei de serviciu prevăzute de art. V din același act normativ sau numai în cazul stabilirii pensiei, respectiv dacă prin actualizarea acestei pensii de serviciu cu rata medie a inflației poate fi depășită media venitului net corespunzător venitului brut care a constituit baza de calcul al pensiei de serviciu.",
+  "Respinge, ca inadmisibilă, sesizarea formulată de Curtea de Apel Iași - Secția conflicte de muncă și asigurări sociale în Dosarul nr. 2.662/89/2023, în vederea pronunțării unei hotărâri prealabile cu privire la următoarea chestiune de drept: Dacă interdicția reglementată de art. IX din Ordonanța de urgență a Guvernului nr. 59/2017 privind modificarea și completarea unor acte normative din domeniul pensiilor de serviciu, care stipulează că, în stabilirea cuantumului net al pensiei de serviciu, acesta nu poate fi mai mare decât media venitului net corespunzător venitului brut care a constituit baza de calcul al pensiei de serviciu, împiedică actualizarea pensiilor de serviciu prevăzute de art. V din același act normativ, dacă prin această actualizare se depășește limita valorică impusă la momentul stabilirii pensiei, pentru perioada 2018-2023.",
+  "Respinge, ca inadmisibilă, sesizarea formulată de Tribunalul Vâlcea - Secția I civilă în Dosarul nr. 2.158/90/2024, în vederea pronunțării unei hotărâri prealabile cu privire la următoarea chestiune de drept: În urma actualizărilor cuantumului pensiei de serviciu conform art. 51 alin. (10) din Legea nr. 94/1992 privind organizarea și funcționarea Curții de Conturi, cu modificările și completările ulterioare, poate fi depășit plafonul prevăzut la art. IX din Ordonanța de urgență a Guvernului nr. 59/2017 privind modificarea și completarea unor acte normative din domeniul pensiilor de serviciu (media venitului net corespunzător venitului brut care a constituit baza de calcul al pensiei de serviciu).",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 62/2024",
+    "number": "62",
+    "year": "2024",
+    "path": "oug/2024/62"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 59/2017",
+    "number": "59",
+    "year": "2017",
+    "path": "oug/2017/59"
+   },
+   "articles": [
+    {
+     "art": "IX",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "V",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "68-5",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 24
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 94/1992",
+    "number": "94",
+    "year": "1992",
+    "path": "lege/1992/94"
+   },
+   "articles": [
+    {
+     "art": "51",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 223/2007",
+    "number": "223",
+    "year": "2007",
+    "path": "lege/2007/223"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 567/2004",
+    "number": "567",
+    "year": "2004",
+    "path": "lege/2004/567"
+   },
+   "articles": [
+    {
+     "art": "68-5",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 7/2006",
+    "number": "7",
+    "year": "2006",
+    "path": "lege/2006/7"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 216/2015",
+    "number": "216",
+    "year": "2015",
+    "path": "lege/2015/216"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 263/2010",
+    "number": "263",
+    "year": "2010",
+    "path": "lege/2010/263"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 7/2016",
+    "number": "7",
+    "year": "2016",
+    "path": "lege/2016/7"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-07-24",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/299996",
+  "text_sha256": "72eecfc1c0c863fac445c1d5a90c38a01da30bfe1c0c82a268bfd947e5f9bede",
+  "catalogue_sha256": "72eecfc1c0c863fac445c1d5a90c38a01da30bfe1c0c82a268bfd947e5f9bede",
+  "fetched": "2026-11-03T00:55:46Z",
+  "chars": 44287,
+  "portal_id": "299996",
+  "tip": "DECIZIE"
+ }
+}
