@@ -1,0 +1,158 @@
+{
+ "key": "iccj-hp-234-2025",
+ "label": "Decizia ÎCCJ nr. 234/2025 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "234",
+ "date": "2025-06-16",
+ "year": "2025",
+ "heading": "DECIZIA nr. 234 din 16 iunie 2025",
+ "subtitle": "referitoare la pronunțarea unei hotărâri prealabile privind drepturile prevăzute la art. 9 alin. (1) lit. j) din Hotărârea Guvernului nr. 1.198/2022",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "691",
+  "bis": false,
+  "date": "2025-07-24",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "294/1/2025",
+  "490/85/2024"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 1.198/2022",
+    "number": "1198",
+    "year": "2022",
+    "path": "hg/2022/1198"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "j"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Curtea de Apel Alba Iulia - Secția de contencios administrativ și fiscal în Dosarul nr. 490/85/2024, în vederea pronunțării unei hotărâri prealabile cu privire la următoarea chestiune de drept:",
+  "Polițiștii care și-au stabilit domiciliul în localitatea în care au fost mutați în interes de serviciu beneficiază de drepturile prevăzute la art. 9 alin. (1) lit. j) din Hotărârea Guvernului nr. 1.198/2022 privind drepturile de transport, pe teritoriul național, ale personalului din instituțiile de apărare, ordine publică și securitate națională, forma în vigoare la data cererii (3.01.2023), în situația în care, ulterior mutării, și-au stabilit reședința într-o altă localitate, situată la o distanță mai mare de 301 km față de localitatea în care se află locul de muncă și domiciliul?",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 1.198/2022",
+    "number": "1198",
+    "year": "2022",
+    "path": "hg/2022/1198"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": [
+      "1",
+      "3"
+     ],
+     "lit": [
+      "j",
+      "h"
+     ]
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": [
+      "h"
+     ]
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 62/2024",
+    "number": "62",
+    "year": "2024",
+    "path": "oug/2024/62"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul ministrului afacerilor interne nr. 181/2022",
+    "number": "181",
+    "year": "2022"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-07-24",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/299990",
+  "text_sha256": "4ac3c18900434b000a3f71e45c9d566e8ad7693e27d2271eaf34669ad188bd1a",
+  "catalogue_sha256": "4ac3c18900434b000a3f71e45c9d566e8ad7693e27d2271eaf34669ad188bd1a",
+  "fetched": "2026-11-03T00:55:47Z",
+  "chars": 25712,
+  "portal_id": "299990",
+  "tip": "DECIZIE"
+ }
+}
