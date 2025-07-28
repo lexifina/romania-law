@@ -1,0 +1,221 @@
+{
+ "key": "iccj-hp-178-2025",
+ "label": "Decizia ÎCCJ nr. 178/2025 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "178",
+ "date": "2025-05-19",
+ "year": "2025",
+ "heading": "DECIZIA nr. 178 din 19 mai 2025",
+ "subtitle": "referitoare la interpretarea art. 2 alin. (1), (1^1), (2), (4) și art. 4 alin. (1) din Legea concediului paternal nr. 210/1999",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "701",
+  "bis": false,
+  "date": "2025-07-28",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "292/1/2025",
+  "2.218/99/2024"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea concediului paternal nr. 210/1999",
+    "number": "210",
+    "year": "1999",
+    "path": "lege/1999/210"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 1.577/2022",
+    "number": "1577",
+    "year": "2022",
+    "path": "hg/2022/1577"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 57/2019",
+    "number": "57",
+    "year": "2019",
+    "path": "oug/2019/57"
+   },
+   "articles": [
+    {
+     "art": "514",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": [
+      "d"
+     ]
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Tribunalul Iași - Secția a II-a civilă, de contencios administrativ și fiscal, în Dosarul nr. 2.218/99/2024, în vederea pronunțării unei hotărâri prealabile cu privire la următoarea chestiune de drept:",
+  "Dacă în interpretarea art. 2 alin. (1), (1^1), (2), (4) și art. 4 alin. (1) din Legea concediului paternal nr. 210/1999, cu modificările și completările ulterioare, cu referire la art. 2 teza I din Normele metodologice de aplicare a Legii concediului paternal nr. 210/1999, aprobate prin Hotărârea Guvernului nr. 244/2000, cu completările ulterioare, astfel cum a fost modificat prin pct. 2 din Hotărârea Guvernului nr. 1.577/2022 pentru modificarea Normelor metodologice de aplicare a Legii concediului paternal nr. 210/1999, aprobate prin Hotărârea Guvernului nr. 244/2000, precum și prin raportare la art. 514 alin. (1) lit. d) și alin. (2) din Ordonanța de urgență a Guvernului nr. 57/2019 privind Codul administrativ, cu modificările și completările ulterioare, solicitantul unei indemnizații pentru concediu paternal trebuie să formuleze în scris o astfel de cerere anterior efectuării concediului sau poate formula această cerere și în timpul/după efectuarea concediului, atât timp cât este respectat termenul de 8 săptămâni de la nașterea copilului?",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 62/2024",
+    "number": "62",
+    "year": "2024",
+    "path": "oug/2024/62"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea concediului paternal nr. 210/1999",
+    "number": "210",
+    "year": "1999",
+    "path": "lege/1999/210"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 1.577/2022",
+    "number": "1577",
+    "year": "2022",
+    "path": "hg/2022/1577"
+   },
+   "articles": [],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 57/2019",
+    "number": "57",
+    "year": "2019",
+    "path": "oug/2019/57"
+   },
+   "articles": [
+    {
+     "art": "514",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": [
+      "d"
+     ]
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 244/2000",
+    "number": "244",
+    "year": "2000",
+    "path": "hg/2000/244"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-07-28",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/300340",
+  "text_sha256": "f7f98116b1c5f887ee3c200e4ae4606e4cb57f7d5fee69335699e87797e9fd14",
+  "catalogue_sha256": "f7f98116b1c5f887ee3c200e4ae4606e4cb57f7d5fee69335699e87797e9fd14",
+  "fetched": "2026-11-03T00:55:44Z",
+  "chars": 26819,
+  "portal_id": "300340",
+  "tip": "DECIZIE"
+ }
+}
