@@ -1,0 +1,10 @@
+# HCL Crivăț nr. 28/2025
+
+Text not yet included: no document of it is held. It will be added when it is.
+
+- Council: Consiliul Local al Comunei Crivăț
+- Decision: nr. 28/2025
+- Adopted: 2025-07-14
+- Published: 2025-07-29
+- Title: privind completarea si actualizarea Nomenclatorului stradal al comunei Crivat, judetul Calarasi
+- Record: https://emol.ro/crivat-cl/registru-hcl/216883
