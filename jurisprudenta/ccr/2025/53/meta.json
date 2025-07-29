@@ -1,0 +1,348 @@
+{
+ "key": "dcc-53-2025",
+ "label": "Decizia CCR nr. 53/2025",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "53",
+ "date": "2025-02-25",
+ "year": "2025",
+ "heading": "DECIZIA nr. 53 din 25 februarie 2025",
+ "subtitle": "asupra excepției de neconstituționalitate a Ordonanței de urgență a Guvernului nr. 59/2017 privind modificarea și completarea unor acte normative din domeniul pensiilor de serviciu, în ansamblul său, precum și a dispozițiilor art. VII - X din același act normativ, în special",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "705",
+  "bis": false,
+  "date": "2025-07-29",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "7.543/3/2021",
+  "2.025D/2022",
+  "2.386/110/2019",
+  "3.967/99/2021",
+  "2.140/90/2021",
+  "707/103/2022",
+  "1.115/99/2021",
+  "2.067/90/2021",
+  "2.108/90/2021",
+  "6.997/109/2021"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 59/2017",
+    "number": "59",
+    "year": "2017",
+    "path": "oug/2017/59"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Viorel Stanca, Bogdan Felix Tălmăcel, Florin Macariu, Nicolae Stroe, Neculai Ciorbea, Sidorel Ungureanu, prin moștenitorii Nicoleta Mihaela Ungureanu, Daria Ungureanu, Matei Ungureanu și Iustina Ungureanu - prin reprezentant legal Nicoleta Mihaela Ungureanu, Sandu Romeo Trușcă, Gheorghe Olteanu, Zorin Văleanu, Adrian-Marius Furcilă, Adrian Rotar, Daniel-Robert Constantin și Vasile-Leontin Popescu în Dosarul nr. 7.543/3/2021 al Curții de Apel București - Secția a VII-a pentru cauze privind conflicte de muncă și asigurări sociale, în Dosarul nr. 2.386/110/2019 al Tribunalului Bacău - Secția I civilă, în Dosarul nr. 3.967/99/2021 al Curții de Apel Iași - Secția litigii de muncă și asigurări sociale, în Dosarul nr. 2.140/90/2021 al Curții de Apel Pitești - Secția I civilă, în Dosarul nr. 707/103/2022 al Tribunalului Neamț - Secția I civilă, în Dosarul nr. 1.115/99/2021 al Tribunalului Iași - Secția I civilă, în Dosarul nr. 2.067/90/2021 al Tribunalului Vâlcea - Secția I civilă, în Dosarul nr. 2.108/90/2021 al Tribunalului Vâlcea - Secția I civilă, în Dosarul nr. 6.997/109/2021 al Tribunalului Argeș - Secția pentru conflicte de muncă și asigurări sociale, în Dosarul nr. 175/121/2022 al Tribunalului Galați - Secția I civilă, în Dosarul nr. 2.017/120/2022 al Tribunalului Dâmbovița - Secția I civilă, în Dosarul nr. 390/96/2021/a1* al Curții de Apel Târgu Mureș - Secția I civilă și în Dosarul nr. 2.855/120/2019 al Tribunalului Dâmbovița - Secția I civilă și constată că Ordonanța de urgență a Guvernului nr. 59/2017 privind modificarea și completarea unor acte normative din domeniul pensiilor de serviciu, în ansamblul său, precum și dispozițiile art. VII - X din același act normativ, în special, sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Curții de Apel București - Secția a VII-a pentru cauze privind conflicte de muncă și asigurări sociale, Tribunalului Bacău - Secția I civilă, Curții de Apel Iași - Secția litigii de muncă și asigurări sociale, Curții de Apel Pitești - Secția I civilă, Tribunalului Neamț - Secția I civilă, Tribunalului Iași - Secția I civilă, Tribunalului Vâlcea - Secția I civilă, Tribunalului Argeș - Secția pentru conflicte de muncă și asigurări sociale, Tribunalului Galați - Secția I civilă, Tribunalului Dâmbovița - Secția I civilă și Curții de Apel Târgu Mureș - Secția I civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 59/2017",
+    "number": "59",
+    "year": "2017",
+    "path": "oug/2017/59"
+   },
+   "articles": [
+    {
+     "art": "VII",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "60",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "VIII",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "IX",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "X",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 26
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 73/1993",
+    "number": "73",
+    "year": "1993",
+    "path": "lege/1993/73"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 223/2015",
+    "number": "223",
+    "year": "2015",
+    "path": "lege/2015/223"
+   },
+   "articles": [
+    {
+     "art": "59",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "60",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "47",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "79",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 223/2007",
+    "number": "223",
+    "year": "2007",
+    "path": "lege/2007/223"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 567/2004",
+    "number": "567",
+    "year": "2004",
+    "path": "lege/2004/567"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 7/2006",
+    "number": "7",
+    "year": "2006",
+    "path": "lege/2006/7"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 216/2015",
+    "number": "216",
+    "year": "2015",
+    "path": "lege/2015/216"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 94/1992",
+    "number": "94",
+    "year": "1992",
+    "path": "lege/1992/94"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2025-07-29",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/300360",
+  "text_sha256": "677e3de2a6c3ce68b8bd8134a328428d0397a3f05ec696ca050a813dbcb286a9",
+  "catalogue_sha256": "677e3de2a6c3ce68b8bd8134a328428d0397a3f05ec696ca050a813dbcb286a9",
+  "fetched": "2026-11-03T00:55:50Z",
+  "chars": 32711,
+  "portal_id": "300360",
+  "tip": "DECIZIE"
+ }
+}
