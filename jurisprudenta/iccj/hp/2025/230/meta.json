@@ -1,0 +1,235 @@
+{
+ "key": "iccj-hp-230-2025",
+ "label": "Decizia ÎCCJ nr. 230/2025 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "230",
+ "date": "2025-06-16",
+ "year": "2025",
+ "heading": "DECIZIA nr. 230 din 16 iunie 2025",
+ "subtitle": "referitoare la interpretarea prevederilor anexei la Regulamentul privind stabilirea locurilor de muncă, a categoriilor de personal, mărimea concretă a sporului pentru condiții de muncă, precum și condițiile de acordare a acestuia pentru familia ocupațională de funcții bugetare \"Administrație\" din administrația publică locală, aprobat prin Hotărârea Guvernului nr. 569/2017",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "707",
+  "bis": false,
+  "date": "2025-07-30",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.878/1/2024",
+  "2.768/100/2023",
+  "1.295/100/2024",
+  "1.581/100/2024"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârii Guvernului nr. 569/2017",
+    "number": "569",
+    "year": "2017",
+    "path": "hg/2017/569"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 53/2003",
+    "number": "53",
+    "year": "2003",
+    "path": "lege/2003/53"
+   },
+   "articles": [
+    {
+     "art": "253",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Respinge ca inadmisibile sesizările conexate formulate de Tribunalul Maramureș - Secția I civilă în dosarele nr. 2.768/100/2023, nr. 1.295/100/2024 și nr. 1.581/100/2024, în vederea pronunțării unei hotărâri prealabile pentru dezlegarea următoarelor chestiuni de drept:",
+  "Dacă prevederile anexei la Regulamentul privind stabilirea locurilor de muncă, a categoriilor de personal, mărimea concretă a sporului pentru condiții de muncă, precum și condițiile de acordare a acestuia pentru familia ocupațională de funcții bugetare „Administrație“ din administrația publică locală, aprobat prin Hotărârea Guvernului nr. 569/2017, prin raportare la prevederile art. 4 din regulament, trebuie interpretate în sensul că angajații sunt îndreptățiți să beneficieze de sporul pentru condiții periculoase sau vătămătoare într-un procent de 15% din salariul de bază, în situația în care angajatorul nu a demarat procedura de evaluare a locului de muncă și nu a stabilit în concret valoarea sporului?",
+  "Dacă prevederile articolului unic pct. I lit. A subpct. I din anexa nr. 9 la Regulamentul-cadru privind stabilirea locurilor de muncă, a categoriilor de personal, a mărimii concrete a sporului pentru condiții de muncă prevăzut în anexa nr. II la Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, precum și a condițiilor de acordare a acestuia, pentru familia ocupațională de funcții bugetare „Sănătate și asistență socială“, aprobat prin Hotărârea Guvernului nr. 153/2018, trebuie interpretate în sensul că angajații sunt îndreptățiți să beneficieze de sporul pentru condiții deosebit de periculoase într-un procent stabilit între 50% și 75% din salariul de bază, în situația în care angajatorul nu a demarat procedura de evaluare a locului de muncă și nu a stabilit în concret valoarea sporului? și, respectiv:",
+  "Dacă pârâta Direcția de asistență socială avea obligația expertizării locurilor de muncă ocupate de reclamanți, posturi administrative: șef birou, consilier vocațional, inspector de specialitate în administrația publică, analist piața muncii, muncitor III și muncitor IV - bucătar, șef serviciu instituție publică.",
+  "Dacă pârâta Direcția de asistență socială are obligația emiterii regulamentului în temeiul căruia să fie stabilit, pentru funcțiile ocupate de reclamanți, sporul pentru condiții periculoase raportat la dispozițiile Legii-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, cu modificările și completările ulterioare, anexa nr. VIII - Reglementări specifice personalului încadrat pe bază de contract individual de muncă - personal contractual în administrația publică și ale Hotărârii Guvernului nr. 569/2017.",
+  "În condițiile în care pârâta nu a emis regulamentul privind stabilirea și acordarea sporului pentru condiții periculoase, în ipoteza în care avea această obligație încă de la intrarea în vigoare a Legii-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, dacă aceasta poate fi obligată retroactiv la despăgubiri echivalente sporului pentru condiții periculoase sau vătămătoare în condițiile răspunderii patrimoniale reglementate de art. 253 din Legea nr. 53/2003 - Codul muncii, republicată.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 62/2024",
+    "number": "62",
+    "year": "2024",
+    "path": "oug/2024/62"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "9",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 35
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârii Guvernului nr. 569/2017",
+    "number": "569",
+    "year": "2017",
+    "path": "hg/2017/569"
+   },
+   "articles": [],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 53/2003",
+    "number": "53",
+    "year": "2003",
+    "path": "lege/2003/53"
+   },
+   "articles": [
+    {
+     "art": "253",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "269",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 153/2018",
+    "number": "153",
+    "year": "2018",
+    "path": "hg/2018/153"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-07-30",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/300370",
+  "text_sha256": "87b02dfc3e28c2d098221d4ed62e931efb9b0c623db86b150af4f52db9fb9e08",
+  "catalogue_sha256": "87b02dfc3e28c2d098221d4ed62e931efb9b0c623db86b150af4f52db9fb9e08",
+  "fetched": "2026-11-03T00:55:49Z",
+  "chars": 80829,
+  "portal_id": "300370",
+  "tip": "DECIZIE"
+ }
+}
