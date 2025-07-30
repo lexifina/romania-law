@@ -1,0 +1,10 @@
+# HCL Brănești nr. 105/2025
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+- Council: Consiliul Local al Comunei Brănești
+- Decision: nr. 105/2025
+- Adopted: 2025-07-11
+- Published: 2025-07-30
+- Title: privind modificarea/completarea Hotararii Consiliului Local nr.101/26.06.2024 , modificata prin HCL nr.115/18.07.2024, HCL nr.29/27.02.2025 si HCL nr.88/2025, cu privire la aprobarea contractării de către Comuna Branesti a unei finanţări rambursabile interne în valoare de până la 12 milioane lei pentru asigurarea fondurilor necesare implementarii unor obiective de interes public local
+- Record: https://emol.ro/branesti-if/registru-hcl/216596
