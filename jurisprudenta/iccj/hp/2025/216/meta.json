@@ -1,0 +1,301 @@
+{
+ "key": "iccj-hp-216-2025",
+ "label": "Decizia ÎCCJ nr. 216/2025 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "216",
+ "date": "2025-06-16",
+ "year": "2025",
+ "heading": "DECIZIA nr. 216 din 16 iunie 2025",
+ "subtitle": "referitoare la interpretarea dispozițiilor art. 122 alin. (3) din Legea nr. 272/2004 privind protecția și promovarea drepturilor copilului, cu modificările și completările ulterioare, și ale art. 8 din Hotărârea Guvernului nr. 679/2003 privind condițiile de obținere a atestatului, procedurile de atestare și statutul asistentului maternal profesionist",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "713",
+  "bis": false,
+  "date": "2025-07-31",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "300/1/2025",
+  "775/100/2024"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 272/2004",
+    "number": "272",
+    "year": "2004",
+    "path": "lege/2004/272"
+   },
+   "articles": [
+    {
+     "art": "122",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 679/2003",
+    "number": "679",
+    "year": "2003",
+    "path": "hg/2003/679"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Tribunalul Maramureș - Secția I civilă în Dosarul nr. 775/100/2024, în vederea pronunțării unei hotărâri prealabile cu privire la următoarea chestiune de drept:",
+  "Dacă dispozițiile art. 122 alin. (3) din Legea nr. 272/2004 privind protecția și promovarea drepturilor copilului, cu modificările și completările ulterioare, și ale art. 8 din Hotărârea Guvernului nr. 679/2003 privind condițiile de obținere a atestatului, procedurile de atestare și statutul asistentului maternal profesionist se interpretează în sensul că asistentul maternal profesionist este îndreptățit la plata drepturilor salariale exclusiv pe durata de timp în care a primit un copil în plasament sau în îngrijire, acest drept nesubzistând în intervalul de timp în care nu prestează activitatea specifică, indiferent dacă s-a emis sau nu o dispoziție valabilă de suspendare a contractului individual de muncă ori dacă i-a fost suspendat sau nu atestatul profesional, sau, din contră, normele se impune a fi interpretate în sensul că asistentul maternal profesionist este îndreptățit la drepturile salariale ce decurg din contractul individual de muncă chiar și pe durata de timp în care nu prestează activitate specifică, atât timp cât nu a fost emisă o dispoziție valabilă de suspendare a contractului individual de muncă sau nu i-a fost suspendat atestatul profesional.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 62/2024",
+    "number": "62",
+    "year": "2024",
+    "path": "oug/2024/62"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 272/2004",
+    "number": "272",
+    "year": "2004",
+    "path": "lege/2004/272"
+   },
+   "articles": [
+    {
+     "art": "122",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "d"
+     ]
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 679/2003",
+    "number": "679",
+    "year": "2003",
+    "path": "hg/2003/679"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "9",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "f"
+     ]
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul muncii",
+    "path": "lege/2003/53",
+    "slug": "codul-muncii"
+   },
+   "articles": [
+    {
+     "art": "49",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "159",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "52",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "80",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "111",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "144",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "149",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "269",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 26/1997",
+    "number": "26",
+    "year": "1997",
+    "path": "oug/1997/26"
+   },
+   "articles": [
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-07-31",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/300402",
+  "text_sha256": "c97af6a079ae96460b2a293bd29d486c2681c47f4bd1b8cccd455df4c8eb5bfd",
+  "catalogue_sha256": "c97af6a079ae96460b2a293bd29d486c2681c47f4bd1b8cccd455df4c8eb5bfd",
+  "fetched": "2026-11-06T04:02:15Z",
+  "chars": 34177,
+  "archive": {
+   "source": "commoncrawl",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/300402",
+   "timestamp": "20260517152043",
+   "crawl": "CC-MAIN-2026-21",
+   "filename": "crawl-data/CC-MAIN-2026-21/segments/1778213678516.83/warc/CC-MAIN-20260517140959-20260517170959-00765.warc.gz",
+   "offset": "286459218",
+   "length": "33697",
+   "sha256": "43a2e5a2e34b456295b5d8c5cfd6db70e980759117295672a4d40c7d899cd7e6"
+  },
+  "portal_id": "300402",
+  "tip": "DECIZIE"
+ }
+}
