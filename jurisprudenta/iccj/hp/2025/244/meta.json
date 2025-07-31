@@ -1,0 +1,258 @@
+{
+ "key": "iccj-hp-244-2025",
+ "label": "Decizia ÎCCJ nr. 244/2025 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "244",
+ "date": "2025-06-23",
+ "year": "2025",
+ "heading": "DECIZIA nr. 244 din 23 iunie 2025",
+ "subtitle": "referitoare la interpretarea prevederilor art. 30 și 60 din Legea nr. 223/2015",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "715",
+  "bis": false,
+  "date": "2025-07-31",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.958/1/2024",
+  "931/108/2024",
+  "1.608/103/2024",
+  "15.455/3/2024",
+  "3.011/1/2024",
+  "3.014/1/2024"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 223/2015",
+    "number": "223",
+    "year": "2015",
+    "path": "lege/2015/223"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "60",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 227/2015",
+    "number": "227",
+    "year": "2015",
+    "path": "lege/2015/227"
+   },
+   "articles": [
+    {
+     "art": "60",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 448/2006",
+    "number": "448",
+    "year": "2006",
+    "path": "lege/2006/448"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": [
+      "h"
+     ]
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibile, sesizările conexate formulate de Curtea de Apel Timișoara - Secția litigii de muncă și asigurări sociale, în Dosarul nr. 931/108/2024, de Tribunalul Neamț - Secția I civilă și de contencios administrativ, în Dosarul nr. 1.608/103/2024, și de Tribunalul București - Secția a VIII-a conflicte de muncă și asigurări sociale, în Dosarul nr. 15.455/3/2024, în vederea pronunțării unei hotărâri prealabile cu privire la următoarele chestiuni de drept:",
+  "Incidența și, în caz afirmativ, modalitatea de aplicare a dispozițiilor art. 60 din Legea nr. 223/2015 privind pensiile militare de stat, cu modificările și completările ulterioare, în cazul pensionarilor militari care se regăsesc în situația reglementată de dispozițiile art. 60 pct. 1 lit. c) din Legea nr. 227/2015 privind Codul fiscal, cu modificările și completările ulterioare, și art. 6 lit. h) din Legea nr. 448/2006 privind protecția și promovarea drepturilor persoanelor cu handicap, republicată, cu modificările și completările ulterioare, adică dacă beneficiază de scutire fiscală sub forma scutirii de la plata impozitului pe venit pentru veniturile realizate din pensii; stabilirea pensiei nete și acordarea acesteia plafonat la media soldelor/salariilor lunare nete; raportarea pensiei brute fără aplicarea impozitului, în cazul acestor pensionari, la media soldelor/salariilor lunare nete la care face referire art. 60 din Legea nr. 223/2015 și acordarea acesteia plafonat la respectiva medie; raportarea pensiei brute, fără aplicarea impozitului, în cazul acestor pensionari, la media soldelor/salariilor lunare cuprinzând și impozitul pe venit și acordarea pensiei plafonate la această sumă (venitul impozabil).",
+  "În interpretarea prevederilor art. 30 și 60 din Legea nr. 223/2015, pentru data de referință 30 iunie 2017, în ceea ce privește actualizarea pensiilor militare, majorarea de 5% acordată în anul 2016 se include sau nu în calculul pensiei actualizate plafonate la 85% din baza de calcul?",
+  "În interpretarea art. 60 din Legea nr. 223/2015, pentru cei care au beneficiat de scutire de impozit pe venit în perioada de referință, cuantumul mediei soldelor/salariilor lunare nete corespunzătoare soldelor/salariilor lunare brute cuprinse în baza de calcul al pensiei se stabilește fără deducerea din media soldelor/salariilor lunare brute realizate la funcția de bază a cotei de impozit pe venit de 10%?",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 62/2024",
+    "number": "62",
+    "year": "2024",
+    "path": "oug/2024/62"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 16
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 223/2015",
+    "number": "223",
+    "year": "2015",
+    "path": "lege/2015/223"
+   },
+   "articles": [
+    {
+     "art": "60",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "30",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 21
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 227/2015",
+    "number": "227",
+    "year": "2015",
+    "path": "lege/2015/227"
+   },
+   "articles": [
+    {
+     "art": "60",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 448/2006",
+    "number": "448",
+    "year": "2006",
+    "path": "lege/2006/448"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": [
+      "h"
+     ]
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 59/2017",
+    "number": "59",
+    "year": "2017",
+    "path": "oug/2017/59"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-07-31",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/300410",
+  "text_sha256": "3838d723ebe318da65fff70e897f59439f016d8af85ee94514121f40dd0de529",
+  "catalogue_sha256": "3838d723ebe318da65fff70e897f59439f016d8af85ee94514121f40dd0de529",
+  "fetched": "2026-11-06T03:47:33Z",
+  "chars": 40370,
+  "archive": {
+   "source": "commoncrawl",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/300410",
+   "timestamp": "20251108121046",
+   "crawl": "CC-MAIN-2025-47",
+   "filename": "crawl-data/CC-MAIN-2025-47/segments/1762439342593.9/warc/CC-MAIN-20251108114106-20251108144106-00794.warc.gz",
+   "offset": "298353595",
+   "length": "31604",
+   "sha256": "3dd3136ba7ca8afee42bbfecfe5af6383e6aba5d1ec122b1df6bc2c542d1e8ca"
+  },
+  "portal_id": "300410",
+  "tip": "DECIZIE"
+ }
+}
