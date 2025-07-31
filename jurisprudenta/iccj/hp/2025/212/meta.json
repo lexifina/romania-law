@@ -1,0 +1,354 @@
+{
+ "key": "iccj-hp-212-2025",
+ "label": "Decizia ÎCCJ nr. 212/2025 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "212",
+ "date": "2025-05-26",
+ "year": "2025",
+ "heading": "DECIZIA nr. 212 din 26 mai 2025",
+ "subtitle": "referitoare la interpretarea dispozițiilor art. 12 - 15 din Hotărârea Guvernului nr. 1.028/2006 privind cerințele minime de securitate și sănătate în muncă referitoare la utilizarea echipamentelor cu ecran de vizualizare și art. 9 lit. g) din Hotărârea Guvernului nr. 762/2010 privind condițiile de acordare, în mod gratuit, a asistenței medicale, medicamentelor și protezelor pentru unele categorii de personal din sistemul justiției, cu modificările și completările ulterioare",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "711",
+  "bis": false,
+  "date": "2025-07-31",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "296/1/2025",
+  "4.501/109/2023",
+  "2.416/99/2024",
+  "325/1/2025"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 1.028/2006",
+    "number": "1028",
+    "year": "2006",
+    "path": "hg/2006/1028"
+   },
+   "articles": [
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "9",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 762/2010",
+    "number": "762",
+    "year": "2010",
+    "path": "hg/2010/762"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": null,
+     "lit": [
+      "g"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 53/2024",
+    "number": "53",
+    "year": "2024",
+    "path": "oug/2024/53"
+   },
+   "articles": [
+    {
+     "art": "V",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibile, sesizările conexate formulate de Curtea de Apel Pitești - Secția I civilă în Dosarul nr. 4.501/109/2023 și de Tribunalul Iași - Secția I civilă în Dosarul nr. 2.416/99/2024, în vederea pronunțării unei hotărâri prealabile cu privire la interpretarea dispozițiilor art. 12-15 din Hotărârea Guvernului nr. 1.028/2006 privind cerințele minime de securitate și sănătate în muncă referitoare la utilizarea echipamentelor cu ecran de vizualizare și art. 9 lit. g) din Hotărârea Guvernului nr. 762/2010 privind condițiile de acordare, în mod gratuit, a asistenței medicale, medicamentelor și protezelor pentru unele categorii de personal din sistemul justiției, cu modificările și completările ulterioare, respectiv:",
+  "1. dacă există contradicție între dispozițiile art. 9 lit. g) din Hotărârea Guvernului nr. 762/2010 și art. 12-15 din Hotărârea Guvernului nr. 1.028/2006;",
+  "2. dacă dispozițiile art. 12-15 din Hotărârea Guvernului nr. 1.028/2006 se aplică și sistemului judiciar și dacă noțiunea de „dispozitive de corecție speciale“ se interpretează în sensul că aceste dispozitive includ și ochelarii de vedere sau asemenea dispozitive de corecție speciale se limitează la aparate utilizate exclusiv în cadrul profesional, având în vedere și interpretarea art. 9 alin. (3) al Directivei 90/270/CEE din Cauza C-392/21;",
+  "3. dacă, în interpretarea dispozițiilor art. 15 din Hotărârea Guvernului nr. 1.028/2006, plata unui spor salarial pentru condiții de muncă vătămătoare poate fi considerată ca acoperind obligația angajatorului, având în vedere și interpretarea art. 9 alin. (3) și (4) al Directivei 90/270/CEE din Cauza C-392/21, și, respectiv,",
+  "1. dacă, în situații precum cea a reclamantei, în care achiziționarea aparatului special de corecție a vederii s-a făcut anterior de a se emite Decizia nr. 120 din 8 aprilie 2024, de către președintele Curții de Apel Galați, dar ulterior Hotărârii din 22 decembrie 2022, pronunțată în Cauza C-392/21, se poate acorda contravaloarea integrală a aparatului special de corecție a vederii, adică a) fără respectarea plafonului prevăzut în Decizia nr. 120 din 8 aprilie 2024, emisă de către președintele Curții de Apel Galați, și b) fără a îndeplini condițiile prevăzute de Decizia nr. 120 din 8 aprilie 2024, emisă de către președintele Curții de Apel Galați, în baza dreptului comun;",
+  "2. dacă, în situații precum cea a reclamantei, care s-a adresat instanței după intrarea în vigoare a Deciziei nr. 120 din 8 aprilie 2024, aceasta era obligată să se adreseze pârâtei în temeiul respectivei proceduri anterior sesizării instanței;",
+  "3. dacă, în situații precum cea a reclamantei, în care achiziționarea aparatului special de corecție a vederii s-a făcut anterior intrării în vigoare a Ordonanței de urgență a Guvernului nr. 53/2024 și a normelor sale metodologice, dar ulterior Hotărârii din 22 decembrie 2022, pronunțată în Cauza C-392/21, se poate acorda contravaloarea integrală a aparatului special de corecție a vederii, adică a) fără respectarea plafonului prevăzut în art. V din Ordonanța de urgență a Guvernului nr. 53/2024 și b) fără a îndeplini condițiile prevăzute de normele metodologice de aplicare a art. V din aceeași ordonanță.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 62/2024",
+    "number": "62",
+    "year": "2024",
+    "path": "oug/2024/62"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 1.028/2006",
+    "number": "1028",
+    "year": "2006",
+    "path": "hg/2006/1028"
+   },
+   "articles": [
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "9",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 30
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 762/2010",
+    "number": "762",
+    "year": "2010",
+    "path": "hg/2010/762"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": null,
+     "lit": [
+      "g"
+     ]
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 53/2024",
+    "number": "53",
+    "year": "2024",
+    "path": "oug/2024/53"
+   },
+   "articles": [
+    {
+     "art": "V",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii securității și sănătății în muncă nr. 319/2006",
+    "number": "319",
+    "year": "2006",
+    "path": "lege/2006/319"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 500/2002",
+    "number": "500",
+    "year": "2002",
+    "path": "lege/2002/500"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 273/2006",
+    "number": "273",
+    "year": "2006",
+    "path": "lege/2006/273"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "22",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituția României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "148",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-07-31",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/300391",
+  "text_sha256": "e7268ac38558b12f8fb4b3f22a2256b3fbb7f942ad83f62856bf5e03a7f5dec6",
+  "catalogue_sha256": "e7268ac38558b12f8fb4b3f22a2256b3fbb7f942ad83f62856bf5e03a7f5dec6",
+  "fetched": "2026-11-03T00:55:46Z",
+  "chars": 51204,
+  "portal_id": "300391",
+  "tip": "DECIZIE"
+ }
+}
