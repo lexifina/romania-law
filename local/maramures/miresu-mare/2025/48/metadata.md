@@ -1,0 +1,10 @@
+# HCL Mireșu Mare nr. 48/2025
+
+Text not yet included: no document of it is held. It will be added when it is.
+
+- Council: Consiliul Local al Comunei Mireșu Mare
+- Decision: nr. 48/2025
+- Adopted: 2025-07-17
+- Published: 2025-08-05
+- Title: privind aprobarea Acordului de principiu pentru începerea demersurilor necesare cooperări între Comuna Mireșu Mare, Județul Maramureș din România şi Comuna Solotvino, Raionul Tyachiv, Regiunea Transcapatia din Ucraina
+- Record: https://emol.ro/miresumare-mm/registru-hcl/217545
