@@ -1,0 +1,254 @@
+{
+ "key": "iccj-hp-214-2025",
+ "label": "Decizia ÎCCJ nr. 214/2025 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "214",
+ "date": "2025-06-16",
+ "year": "2025",
+ "heading": "DECIZIA nr. 214 din 16 iunie 2025",
+ "subtitle": "referitoare la interpretarea art. 20 alin. (3) din Ordonanța de urgență a Guvernului nr. 59/2000 privind Statutul personalului silvic și art. 107 alin. (3) din Legea nr. 263/2010 privind sistemul unitar de pensii publice",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "728",
+  "bis": false,
+  "date": "2025-08-05",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "14/1/2025",
+  "517/100/2024"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 59/2000",
+    "number": "59",
+    "year": "2000",
+    "path": "oug/2000/59"
+   },
+   "articles": [
+    {
+     "art": "20",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 263/2010",
+    "number": "263",
+    "year": "2010",
+    "path": "lege/2010/263"
+   },
+   "articles": [
+    {
+     "art": "107",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 234/2019",
+    "number": "234",
+    "year": "2019",
+    "path": "lege/2019/234"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Tribunalul Maramureș - Secția I civilă, în Dosarul nr. 517/100/2024, în vederea pronunțării unei hotărâri prealabile pentru dezlegarea următoarei chestiuni de drept, referitoare la interpretarea art. 20 alin. (3) din Ordonanța de urgență a Guvernului nr. 59/2000 privind Statutul personalului silvic și art. 107 alin. (3) din Legea nr. 263/2010 privind sistemul unitar de pensii publice, cu modificările și completările ulterioare: „Dacă dispozițiile art. 20 alin. (3) din Ordonanța de urgență a Guvernului nr. 59/2000 privind Statutul personalului silvic, cu modificările și completările ulterioare, se impun a fi interpretate în sensul că se aplică și persoanelor care s-au înscris la pensie anterior intrării în vigoare a art. I din Legea nr. 234/2019 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 59/2000 privind Statutul personalului silvic și care au formulat o cerere de recalculare conform art. 107 alin. (3) din Legea nr. 263/2010 privind sistemul unitar de pensii publice, cu modificările și completările ulterioare, sau, din contră, sunt aplicabile numai persoanelor care au formulat cerere de înscriere la pensie ulterior intrării în vigoare a acestei norme?“",
+  "Obligatorie, potrivit art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 62/2024",
+    "number": "62",
+    "year": "2024",
+    "path": "oug/2024/62"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 59/2000",
+    "number": "59",
+    "year": "2000",
+    "path": "oug/2000/59"
+   },
+   "articles": [
+    {
+     "art": "20",
+     "alin": [
+      "3",
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 24
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 234/2019",
+    "number": "234",
+    "year": "2019",
+    "path": "lege/2019/234"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 20
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 360/2023",
+    "number": "360",
+    "year": "2023",
+    "path": "lege/2023/360"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 263/2010",
+    "number": "263",
+    "year": "2010",
+    "path": "lege/2010/263"
+   },
+   "articles": [
+    {
+     "art": "107",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "h"
+     ]
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 19/2000",
+    "number": "19",
+    "year": "2000",
+    "path": "lege/2000/19"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 197/2021",
+    "number": "197",
+    "year": "2021",
+    "path": "lege/2021/197"
+   },
+   "articles": [],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-08-05",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/301125",
+  "text_sha256": "92cf3abaacbd7bbb553033c050e66b7d0bdd05375f49638a0ec33642d76c2f85",
+  "catalogue_sha256": "92cf3abaacbd7bbb553033c050e66b7d0bdd05375f49638a0ec33642d76c2f85",
+  "fetched": "2026-11-03T00:55:33Z",
+  "chars": 43351,
+  "portal_id": "301125",
+  "tip": "DECIZIE"
+ }
+}
