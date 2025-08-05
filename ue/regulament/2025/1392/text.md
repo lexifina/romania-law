@@ -1,0 +1,40 @@
+REGULAMENTUL DE PUNERE ÎN APLICARE (UE) 2025/1392 AL COMISIEI
+din 15 iulie 2025
+privind autorizarea unui preparat de 3-fitază produsă cu Komagataella phaffii CECT 13171 ca aditiv pentru hrana speciilor de păsări de curte pentru îngrășare sau crescute pentru ouat sau reproducție, a speciilor minore de păsări de curte pentru reproducție, a găinilor ouătoare și a porcilor pentru îngrășat din toate speciile de Suidae (titularul autorizației: Fertinagro Biotech S.L.)
+(Text cu relevanță pentru SEE)
+COMISIA EUROPEANĂ,
+având în vedere Tratatul privind funcționarea Uniunii Europene,
+având în vedere Regulamentul (CE) nr. 1831/2003 al Parlamentului European și al Consiliului din 22 septembrie 2003 privind aditivii din hrana animalelor (1), în special articolul 9 alineatul (2),
+întrucât:
+(1) Regulamentul (CE) nr. 1831/2003 prevede autorizarea aditivilor destinați hranei animalelor, precum și motivele și procedurile de acordare a acestor autorizații.
+(2) În conformitate cu articolul 7 din Regulamentul (CE) nr. 1831/2003, s-a depus o cerere de autorizare a unui preparat de 3-fitază produsă cu Komagataella phaffii CECT 13171. Cererea a fost însoțită de informațiile și de documentele necesare în conformitate cu articolul 7 alineatul (3) din Regulamentul (CE) nr. 1831/2003.
+(3) Cererea se referă la autorizarea preparatului de 3-fitază produsă cu Komagataella phaffii CECT 13171 ca aditiv pentru hrana puilor pentru îngrășare, a puicuțelor crescute pentru ouat, a găinilor ouătoare, a curcanilor pentru îngrășare, a curcanilor crescuți pentru reproducție, a speciilor minore de păsări de curte pentru îngrășare, a speciilor minore de păsări de curte pentru reproducție, a speciilor minore de păsări de curte crescute pentru ouat, a porcilor pentru îngrășat și a speciilor minore de porcine pentru îngrășat, solicitând ca aditivul respectiv să fie clasificat în categoria „aditivi zootehnici” și în grupa funcțională „promotori de digestibilitate”.
+(4) În avizele sale din 27 septembrie 2022 (2) și 17 septembrie 2024 (3), Autoritatea Europeană pentru Siguranța Alimentară (denumită în continuare „autoritatea”) a concluzionat că, în condițiile de utilizare propuse, preparatul de 3-fitază produsă cu Komagataella phaffii CECT 13171, atât în formularea sa lichidă, cât și în cea solidă, este considerat sigur pentru speciile vizate, pentru consumatori și pentru mediu. În ceea ce privește siguranța utilizatorului, autoritatea a concluzionat că preparatul de 3-fitază produsă cu Komagataella phaffii CECT 13171, în oricare dintre formele sale, nu este iritant pentru ochi și piele. Aceasta a afirmat, de asemenea, că formularea lichidă a preparatului nu este sensibilizantă pentru piele, în timp ce formularea solidă este sensibilizantă pentru piele, și că cele două formulări ar trebui considerate sensibilizanți potențiali ai căilor respiratorii. Autoritatea a concluzionat că preparatul de 3-fitază produsă cu Komagataella phaffii CECT 13171 este eficace la 500 FTU/kg de hrană pentru speciile de păsări de curte pentru îngrășare sau crescute pentru ouat sau reproducție, porcii pentru îngrășat și speciile minore de porcine pentru îngrășat, și la 1 000 FTU/kg de hrană pentru găinile ouătoare. Aceasta a considerat că nu este necesar să se prevadă cerințe specifice de monitorizare ulterioară introducerii pe piață.
+(5) În conformitate cu articolul 5 alineatul (4) litera (a) din Regulamentul (CE) nr. 378/2005 al Comisiei (4), laboratorul de referință instituit prin Regulamentul (CE) nr. 1831/2003 a considerat că concluziile și recomandările rezultate în urma evaluării anterioare a aceluiași aditiv sunt valabile și aplicabile cererii actuale.
+(6) Având în vedere cele de mai sus, Comisia consideră că preparatul de 3-fitază produsă cu Komagataella phaffii CECT 13171 îndeplinește condițiile de autorizare prevăzute la articolul 5 din Regulamentul (CE) nr. 1831/2003. În consecință, este oportun să se autorizeze utilizarea preparatului respectiv în cazul speciilor de păsări de curte pentru îngrășare sau crescute pentru ouat sau reproducție, al speciilor minore de păsări de curte pentru reproducție, al găinilor ouătoare și al porcilor pentru îngrășat din toate speciile de Suidae. Pe lângă aceasta, Comisia consideră că este necesar să fie luate măsuri de protecție adecvate pentru a se preveni efectele adverse asupra sănătății utilizatorilor aditivului.
+(7) Măsurile prevăzute în prezentul regulament sunt conforme cu avizul Comitetului permanent pentru plante, animale, produse alimentare și hrană pentru animale,
+ADOPTĂ PREZENTUL REGULAMENT:
+Articolul 1
+Autorizare
+Se autorizează preparatul specificat în anexă, aparținând categoriei „aditivi zootehnici” și grupei funcționale „promotori de digestibilitate”, ca aditiv destinat hranei pentru animale, în condițiile stabilite în anexa respectivă.
+Articolul 2
+Intrare în vigoare
+Prezentul regulament intră în vigoare în a douăzecea zi de la data publicării în Jurnalul Oficial al Uniunii Europene.
+Prezentul regulament este obligatoriu în toate elementele sale și se aplică direct în toate statele membre.
+Adoptat la Bruxelles, 15 iulie 2025.
+Pentru Comisie
+Președinta
+Ursula VON DER LEYEN
+(1) JO L 268, 18.10.2003, p. 29, ELI: http://data.europa.eu/eli/reg/2003/1831/oj.
+(2) EFSA Journal 2022;20(11):7614, https://doi.org/10.2903/j.efsa.2022.7614.
+(3) EFSA Journal 2024;22:e9023, https://doi.org/10.2903/j.efsa.2024.9023.
+(4) Regulamentul (CE) nr. 378/2005 al Comisiei din 4 martie 2005 de stabilire a normelor de punere în aplicare a Regulamentului (CE) nr. 1831/2003 al Parlamentului European și al Consiliului privind funcțiile și atribuțiile laboratorului comunitar de referință cu privire la cererile de autorizare a unor aditivi pentru hrana animalelor (JO L 59, 5.3.2005, p. 8, ELI: http://data.europa.eu/eli/reg/2005/378/oj).
+ANEXĂ
+Numărul de identificare al aditivului pentru hrana animalelor | Numele titularului autorizației | Aditivul | Compoziția, formula chimică, descrierea, metoda de analiză | Specia sau categoria de animale | Vârsta maximă | Conținutul minim | Conținutul maxim | Alte dispoziții | Sfârșitul perioadei de autorizare
+Unități de activitate/kg de hrană animală completă, cu un conținut de umiditate de 12 %
+Categoria: aditivi zootehnici. Grupa funcțională: promotori de digestibilitate
+4a50 | Fertinagro Biotech S.L. | 3-fitază (CE 3.1.3.8) | Compoziția aditivului Preparat de 3-fitază produsă cu Komagataella phaffii CECT 13171 având o activitate minimă de: Formă solidă: 10 000 FTU(1)/g Formă lichidă: 1 000 FTU/ml Caracterizarea substanței active 3-fitază produsă cu Komagataella phaffii CECT 13171 Metoda de analiză (2) Pentru cuantificarea activității 3-fitazei în aditivul pentru hrana animalelor, în preamestecuri și în hrana combinată pentru animale: — metoda colorimetrică bazată pe reacția enzimatică a fitazei pe fitat – EN ISO 30024. | Specii de păsări de curte pentru îngrășare sau crescute pentru ouat sau pentru reproducție Specii minore de păsări de curte pentru reproducție Porci pentru îngrășat aparținând tuturor speciilor de Suidae | — | 500 FTU | — | 1. În instrucțiunile de utilizare a aditivului și a preamestecurilor trebuie menționate condițiile de depozitare și stabilitatea la tratament termic. 2. Pentru utilizatorii aditivului și ai preamestecurilor, operatorii din sectorul hranei pentru animale trebuie să stabilească proceduri operaționale și măsuri organizatorice pentru a contracara riscurile potențiale care rezultă din utilizarea lor. În cazul în care riscurile respective nu pot fi eliminate prin astfel de proceduri și de măsuri, aditivul și preamestecurile se utilizează cu echipamente de protecție individuală respiratorie și cutanată. | 5 august 2035
+Găini ouătoare | 1 000 FTU
+(1) 1 FTU reprezintă cantitatea de enzimă care eliberează 1 μmol de fosfat anorganic pe minut din fitatul de sodiu, la 37 °C și un pH de 5,5.
+(2) Detaliile metodelor de analiză sunt disponibile la următoarea adresă a laboratorului de referință: https://joint-research-centre.ec.europa.eu/eurl-fa-eurl-feed-additives/eurl-fa-authorisation/eurl-fa-evaluation-reports_en.
+ELI: http://data.europa.eu/eli/reg_impl/2025/1392/oj
