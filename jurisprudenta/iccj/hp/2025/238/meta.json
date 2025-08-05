@@ -1,0 +1,152 @@
+{
+ "key": "iccj-hp-238-2025",
+ "label": "Decizia ÎCCJ nr. 238/2025 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "238",
+ "date": "2025-06-16",
+ "year": "2025",
+ "heading": "DECIZIA nr. 238 din 16 iunie 2025",
+ "subtitle": "referitoare la posibilitatea de a beneficia de sporul pentru condiții periculoase și vătămătoare în procent de 15% din salariul de bază, prevăzut în anexa nr. II din Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, cu modificările și completările ulterioare, raportat la Regulamentul privind stabilirea locurilor de muncă, a categoriilor de personal, mărimea concretă a sporului pentru condiții de muncă, precum și condițiile de acordare a acestuia pentru familia ocupațională de funcții bugetare \"Administrație\" din administrația publică locală, aprobat prin Hotărârea Guvernului nr. 569/2017, și la Regulamentul-cadru privind stabilirea locurilor de muncă, a categoriilor de personal, a mărimii concrete a sporului pentru condiții de muncă prevăzut în anexa nr. II la Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, precum și a condițiilor de acordare a acestuia, pentru familia ocupațională de funcții bugetare \"Sănătate și asistență socială\", aprobat prin Hotărârea Guvernului nr. 153/2018",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "729",
+  "bis": false,
+  "date": "2025-08-05",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.895/1/2024",
+  "2.124/105/2023"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [],
+   "mentions": 4
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Tribunalul Prahova - Secția I civilă în Dosarul nr. 2.124/105/2023*, în vederea pronunțării unei hotărâri prealabile cu privire la următoarea chestiune de drept: Dacă personalul contractual (paznic) din cadrul Administrației Serviciilor Sociale Comunitare Ploiești poate beneficia de sporul pentru condiții periculoase și vătămătoare în procent de 15% din salariul de bază, prevăzut în anexa nr. II din Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, cu modificările și completările ulterioare, raportat la Regulamentul privind stabilirea locurilor de muncă, a categoriilor de personal, mărimea concretă a sporului pentru condiții de muncă, precum și condițiile de acordare a acestuia pentru familia ocupațională de funcții bugetare „Administrație“ din administrația publică locală, aprobat prin Hotărârea Guvernului nr. 569/2017, și la Regulamentul-cadru privind stabilirea locurilor de muncă, a categoriilor de personal, a mărimii concrete a sporului pentru condiții de muncă prevăzut în anexa nr. II la Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, precum și a condițiilor de acordare a acestuia, pentru familia ocupațională de funcții bugetare „Sănătate și asistență socială“, aprobat prin Hotărârea Guvernului nr. 153/2018, cu modificările și completările ulterioare.",
+  "Obligatorie, potrivit art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 62/2024",
+    "number": "62",
+    "year": "2024",
+    "path": "oug/2024/62"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 17
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul muncii",
+    "path": "lege/2003/53",
+    "slug": "codul-muncii"
+   },
+   "articles": [
+    {
+     "art": "269",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-08-05",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/301136",
+  "text_sha256": "f93c82e2cee8fc74e2e5d6e0b4c217bc6396140b3ad548296f999830bc8ca138",
+  "catalogue_sha256": "f93c82e2cee8fc74e2e5d6e0b4c217bc6396140b3ad548296f999830bc8ca138",
+  "fetched": "2026-11-03T00:55:26Z",
+  "chars": 33340,
+  "portal_id": "301136",
+  "tip": "DECIZIE"
+ }
+}
