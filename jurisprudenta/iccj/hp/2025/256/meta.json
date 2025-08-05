@@ -1,0 +1,231 @@
+{
+ "key": "iccj-hp-256-2025",
+ "label": "Decizia ÎCCJ nr. 256/2025 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "256",
+ "date": "2025-06-23",
+ "year": "2025",
+ "heading": "DECIZIA nr. 256 din 23 iunie 2025",
+ "subtitle": "referitoare la interpretarea dispozițiilor art. 17 alin. (1) și ale art. 100 lit. a) din Legea nr. 263 din 16 decembrie 2010 privind sistemul unitar de pensii publice, raportat la dispozițiile art. 7 din Ordinul nr. 50 din 5 martie 1990",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "727",
+  "bis": false,
+  "date": "2025-08-05",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.997/1/2024",
+  "3.041/1/2024",
+  "4.046/109/2023",
+  "3.401/1/2024"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 257/2011",
+    "number": "257",
+    "year": "2011",
+    "path": "hg/2011/257"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibile, sesizările conexate formulate de Curtea de Apel Pitești - Secția I civilă, în dosarele nr. 4.046/109/2023 și nr. 4.520/109/2023 privind dezlegarea următoarelor chestiuni de drept: Interpretarea dispozițiilor art. 17 alin. (1) și ale art. 100 lit. a) din Legea nr. 263 din 16 decembrie 2010 privind sistemul unitar de pensii publice, raportat la dispozițiile art. 7 din Ordinul nr. 50 din 5 martie 1990 pentru precizarea locurilor de muncă, activităților și categoriilor profesionale cu condiții deosebite care se încadrează în grupele I și a II-a de muncă în vederea pensionării, respectiv dacă la valorificarea perioadei de activitate încadrate în grupa a II-a de muncă, conform adeverinței emise de angajator, se are în vedere procentul de timp efectiv lucrat în locul de muncă încadrat în grupa a II-a, atestat în respectiva adeverință, sau, dimpotrivă, procentul de timp efectiv lucrat în locul de muncă încadrat în grupa a II-a reprezintă numai o condiție pentru obținerea încadrării în grupă de muncă, fără relevanță asupra valorificării la pensie.",
+  "Interpretarea dispozițiilor art. 7 din Ordinul nr. 50 din 5 martie 1990 pentru precizarea locurilor de muncă, activităților și categoriilor profesionale cu condiții deosebite care se încadrează în grupele I și a II-a de muncă în vederea pensionării raportat la dispozițiile art. 126 din Hotărârea Guvernului nr. 257/2011 pentru aprobarea Normelor de aplicare a prevederilor Legii nr. 263/2010 privind sistemul unitar de pensii publice, respectiv dacă la valorificarea adeverinței prin care se atestă activitatea desfășurată în locurile de muncă încadrate în grupa I sau a II-a se are în vedere procentul de timp efectiv lucrat în locurile de muncă încadrate în grupa I sau a II-a, atestat în respectiva adeverință, sau, dimpotrivă, procentul de timp efectiv lucrat în locurile de muncă încadrate în grupa I sau a II-a reprezintă numai o condiție pentru încadrarea în grupă de muncă, fără relevanță la valorificarea la pensie.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 263/2010",
+    "number": "263",
+    "year": "2010",
+    "path": "lege/2010/263"
+   },
+   "articles": [
+    {
+     "art": "17",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "100",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "169",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "193",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 257/2011",
+    "number": "257",
+    "year": "2011",
+    "path": "hg/2011/257"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul nr. 50/1990",
+    "number": "50",
+    "year": "1990"
+   },
+   "articles": [],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea Arhivelor Naționale nr. 16/1996",
+    "number": "16",
+    "year": "1996",
+    "path": "lege/1996/16"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinului ministrului muncii, familiei și egalității de șanse nr. 590/2008",
+    "number": "590",
+    "year": "2008"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 62/2024",
+    "number": "62",
+    "year": "2024",
+    "path": "oug/2024/62"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii societăților nr. 31/1990",
+    "number": "31",
+    "year": "1990",
+    "path": "lege/1990/31"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-08-05",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/301128",
+  "text_sha256": "b0c5e6d1663e5538aebbd3ad5e607f6792d64279ffae7d53aeac92e095f2d9b8",
+  "catalogue_sha256": "b0c5e6d1663e5538aebbd3ad5e607f6792d64279ffae7d53aeac92e095f2d9b8",
+  "fetched": "2026-11-03T00:55:33Z",
+  "chars": 32586,
+  "portal_id": "301128",
+  "tip": "DECIZIE"
+ }
+}
