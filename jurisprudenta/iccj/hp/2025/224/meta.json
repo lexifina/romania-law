@@ -1,0 +1,251 @@
+{
+ "key": "iccj-hp-224-2025",
+ "label": "Decizia ÎCCJ nr. 224/2025 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "224",
+ "date": "2025-06-16",
+ "year": "2025",
+ "heading": "DECIZIA nr. 224",
+ "subtitle": "din 16 iunie 2025 referitoare la pronunțarea unei hotărâri prealabile privind interpretarea dispozițiilor art. 7 alin. (1) și (3) și ale art. 2 alin. (1) din Legea nr. 56/2020 pentru recunoașterea meritelor personalului medical participant la acțiuni medicale împotriva COVID-19, cu modificările și completările ulterioare, raportat la dispozițiile art. 6 din Ordinul comun al ministrului sănătății, al ministrului afacerilor interne și al ministrului finanțelor publice nr. 1.070/94/2.087/2020 privind stabilirea categoriilor de personal și mărimea concretă a sporului pentru condiții de pericol deosebit acordat în baza prevederilor art. 7 alin. (1) din Legea nr. 56/2020 și art. 3 din Ordinul ministrului sănătății nr. 555/2020",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "734",
+  "bis": false,
+  "date": "2025-08-06",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.575/1/2024",
+  "5.553/109/2022"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 56/2020",
+    "number": "56",
+    "year": "2020",
+    "path": "lege/2020/56"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul ministrului sănătății nr. 555/2020",
+    "number": "555",
+    "year": "2020"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Curtea de Pitești - Secția I civilă în Dosarul nr. 5.553/109/2022, în vederea pronunțării unei hotărâri prealabile cu privire la următoarele chestiuni de drept:",
+  "Interpretarea dispozițiilor art. 7 alin. (1) și (3) și ale art. 2 alin. (1) din Legea nr. 56/2020 pentru recunoașterea meritelor personalului medical participant la acțiuni medicale împotriva COVID-19, cu modificările și completările ulterioare, raportat la dispozițiile art. 6 din Ordinul comun al ministrului sănătății, al ministrului afacerilor interne și al ministrului finanțelor publice nr. 1.070/94/2.087/2020 privind stabilirea categoriilor de personal și mărimea concretă a sporului pentru condiții de pericol deosebit acordat în baza prevederilor art. 7 alin. (1) din Legea nr. 56/2020 pentru recunoașterea meritelor personalului medical participant la acțiuni medicale împotriva COVID-19 și art. 3 din Ordinul ministrului sănătății nr. 555/2020 privind aprobarea Planului de măsuri pentru pregătirea spitalelor în contextul epidemiei de coronavirus COVID-19, a Listei spitalelor care asigură asistența medicală pacienților testați pozitiv cu virusul SARS-CoV-2 în faza I și în faza a II-a și a Listei cu spitalele de suport pentru pacienții testați pozitiv sau suspecți cu virusul SARS-CoV-2, cu modificările și completările ulterioare, respectiv dacă beneficiază de sporul pentru activitate în condiții de pericol deosebit în procent de 30% și angajații spitalelor din secțiile care nu sunt enumerate în anexa cuprinzând spitalele de suport pentru pacienți suspecți sau testați pozitiv cu virusul SARS-CoV-2 și dacă acordarea sporului depinde sau nu de înregistrarea la nivelul secției respective de pacienți cu simptome specifice infectării cu virusul SARS-CoV-2.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 62/2024",
+    "number": "62",
+    "year": "2024",
+    "path": "oug/2024/62"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 56/2020",
+    "number": "56",
+    "year": "2020",
+    "path": "lege/2020/56"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": [
+      "1",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul ministrului sănătății nr. 555/2020",
+    "number": "555",
+    "year": "2020"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul nr. 555/2020",
+    "number": "555",
+    "year": "2020"
+   },
+   "articles": [],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretul nr. 195/2020",
+    "number": "195",
+    "year": "2020",
+    "path": "decret/2020/195"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretul nr. 240/2020",
+    "number": "240",
+    "year": "2020",
+    "path": "decret/2020/240"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituția României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "138",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-08-06",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/301164",
+  "text_sha256": "46bde36a6d60414723f78a990a6d919e0ae705189302f11b8ee029e8b1d18215",
+  "catalogue_sha256": "46bde36a6d60414723f78a990a6d919e0ae705189302f11b8ee029e8b1d18215",
+  "fetched": "2026-11-03T00:55:32Z",
+  "chars": 42280,
+  "portal_id": "301164",
+  "tip": "DECIZIE"
+ }
+}
