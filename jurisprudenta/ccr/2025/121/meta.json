@@ -1,0 +1,277 @@
+{
+ "key": "dcc-121-2025",
+ "label": "Decizia CCR nr. 121/2025",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "121",
+ "date": "2025-02-27",
+ "year": "2025",
+ "heading": "DECIZIA nr. 121 din 27 februarie 2025",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. I alin. (1) din Ordonanța de urgență a Guvernului nr. 226/2020 privind unele măsuri fiscal-bugetare și pentru modificarea și completarea unor acte normative și prorogarea unor termene",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "755",
+  "bis": false,
+  "date": "2025-08-12",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "3.247/99/2021",
+  "3.090D/2021",
+  "5.327/99/2021",
+  "2.095/107/2021",
+  "8.277/118/2021",
+  "4.229/99/2021",
+  "69/115/2022",
+  "2.582/89/2021"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 226/2020",
+    "number": "226",
+    "year": "2020",
+    "path": "oug/2020/226"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Sindicatul Polițiștilor Europeni Europol Iași, în numele și pentru membrii de sindicat: Cătălin Eduard Moraru și alții, Iosif Chiriac și alții, Constantin Apetrei și alții, Andreea-Mădălina Munteanu și Dinu Pintilii, Iulian Boboc și alții și Alin Gabriel Pintilii în dosarele nr. 3.247/99/2021, nr. 3.248/99/2021, nr. 4.507/99/2021, nr. 5.166/99/2021, nr. 4.497/99/2021 și nr. 5.167/99/2021 ale Tribunalului Iași - Secția a II-a civilă - contencios administrativ și fiscal, Andrei Iulian Tătaru în Dosarul nr. 5.327/99/2021 al Tribunalului Botoșani - Secția de contencios administrativ și fiscal, de Sindicatul Național al Polițiștilor și Personalului Contractual din Ministerul Afacerilor Interne, în numele și pentru membrii de sindicat: Iulia-Adelina Barbu și alții și Daniel Roșca și alții în dosarele nr. 13.858/3/2021 și nr. 20.357/3/2021 ale Tribunalului București - Secția a II-a contencios administrativ și fiscal, Cătălin Constantin Crăciun și alții, Călin Titi Achim și alții, Petre Ion, Nicu Chelan și alții, Călin Barbu și alții, Laurențiu Florin Ancuța și alții, Ion Berbec și alții, Florin Claudiu Ilie, Gheorghe Neagoe și alții, Gabriel Adrian Neagu, Ionela Oana Ciuciu, Vasile Godinac și alții, Gheorghe Ion Stanciu și alții, Laurențiu Lucian Nicola și alții, Dumitru Ovidiu Bărbulescu, Tiberiu Bogdan Olaru și alții și Cristi Toma în dosarele nr. 721/104/2021, nr. 3.172/63/2021, nr. 3.172/107/2021, nr. 1.161/104/2021, nr. 3.256/63/2021, nr. 3.126/63/2021, nr. 4.324/63/2021, nr. 3.170/107/2021, nr. 3.261/63/2021, nr. 4.635/63/2021, nr. 27.499/3/2021, nr. 1.606/101/2021, nr. 1.465/101/2021, nr. 646/104/2021, nr. 5.968/63/2021, nr. 2.247/101/2021 și nr. 31.544/3/2021 ale Curții de Apel Craiova - Secția contencios administrativ și fiscal, Tudor Baltag și Ionel Manoilă și alții în dosarele nr. 5.903/99/2021 și nr. 4.232/99/2021 ale Tribunalului Iași - Secția a II-a civilă - contencios administrativ și fiscal, Marin Stoian în Dosarul nr. 2.095/107/2021 al Tribunalului Alba - Secția a II-a civilă, de contencios administrativ, fiscal și de insolvență, Viorel Murat și alții și Puiu-Gelu Gârlea și alții în dosarele nr. 6.351/118/2021 și nr. 6.347/118/2021 ale Tribunalului Constanța - Secția de contencios administrativ și fiscal, Gavril Ciprian Dascălu și alții, Gheorghe Gherasim și alții, Mihai Cimpoieșu și alții și Florin Pavel și alții în dosarele nr. 2.012/103/2021, nr. 158/103/2022, nr. 170/103/2022 și nr. 2.021/103/2021 ale Tribunalului Neamț - Secția a II-a civilă, de contencios administrativ și fiscal, Mihai Ceuca și alții, Mihail Ilea și alții, Mihai Dan Popa și Alexandru Ionașcu, precum și Vasile Ioan Andreș și alții în dosarele nr. 1.797/107/2021, nr. 1.666/107/2021, nr. 3.173/107/2021 și nr. 2.814/107/2021 ale Curții de Apel Alba Iulia - Secția contencios administrativ și fiscal, Leon Nedelcu și alții în Dosarul nr. 8.277/118/2021 al Tribunalului Ialomița - Secția civilă, Costică Vlad Rotaru și alții în Dosarul nr. 4.229/99/2021 al Curții de Apel Iași - Secția contencios administrativ și fiscal, Robert Constantin Ciucă în Dosarul nr. 69/115/2022 al Curții de Apel Timișoara - Secția contencios administrativ și fiscal, Iulian Codrin Baștiurea-Sîrbu și alții și Viorel Andrei și alții în dosarele nr. 1.501/113/2021 și nr. 1.576/113/2021 ale Curții de Apel Galați - Secția contencios administrativ și fiscal și de Sindicatul Megas din cadrul Penitenciarului Vaslui, în numele și pentru membrii de sindicat Alexandru Adrian Adam și alții, în Dosarul nr. 2.582/89/2021 al Tribunalului Vaslui - Secția civilă și constată că dispozițiile art. I alin. (1) din Ordonanța de urgență a Guvernului nr. 226/2020 privind unele măsuri fiscal-bugetare și pentru modificarea și completarea unor acte normative și prorogarea unor termene sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului Iași - Secția a II-a civilă - contencios administrativ și fiscal, Tribunalului Botoșani - Secția de contencios administrativ și fiscal, Tribunalului București - Secția a II-a contencios administrativ și fiscal, Curții de Apel Craiova - Secția contencios administrativ și fiscal, Tribunalului Alba - Secția a II-a civilă, de contencios administrativ, fiscal și de insolvență, Tribunalului Constanța - Secția de contencios administrativ și fiscal, Tribunalului Neamț - Secția a II-a civilă, de contencios administrativ și fiscal, Curții de Apel Alba Iulia - Secția contencios administrativ și fiscal, Tribunalului Ialomița - Secția civilă, Curții de Apel Iași - Secția contencios administrativ și fiscal, Curții de Apel Timișoara - Secția contencios administrativ și fiscal, Curții de Apel Galați - Secția contencios administrativ și fiscal și Tribunalului Vaslui - Secția civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 226/2020",
+    "number": "226",
+    "year": "2020",
+    "path": "oug/2020/226"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 50
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "38",
+     "alin": [
+      "4"
+     ],
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituției",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "3",
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "115",
+     "alin": [
+      "4",
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "47",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "58",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "66",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 284/2010",
+    "number": "284",
+    "year": "2010",
+    "path": "lege/2010/284"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 205/2020",
+    "number": "205",
+    "year": "2020",
+    "path": "lege/2020/205"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2025-08-12",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/301293",
+  "text_sha256": "f79bfa2a45f50f651a5c66a678bbeb1521280e5b0812a3718d3165bb19cc0837",
+  "catalogue_sha256": "f79bfa2a45f50f651a5c66a678bbeb1521280e5b0812a3718d3165bb19cc0837",
+  "fetched": "2026-11-03T22:00:40Z",
+  "chars": 67018,
+  "portal_id": "301293",
+  "tip": "DECIZIE"
+ }
+}
