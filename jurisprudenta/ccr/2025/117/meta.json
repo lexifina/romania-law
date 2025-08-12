@@ -1,0 +1,336 @@
+{
+ "key": "dcc-117-2025",
+ "label": "Decizia CCR nr. 117/2025",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "117",
+ "date": "2025-02-27",
+ "year": "2025",
+ "heading": "DECIZIA nr. 117 din 27 februarie 2025",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 160 alin. (1) lit. h), alin. (7) și alin. (10) din Ordonanța de urgență a Guvernului nr. 57/2019 privind Codul administrativ și ale art. 8 alin. (2) din Legea partidelor politice nr. 14/2003",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "751",
+  "bis": false,
+  "date": "2025-08-12",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "3.038/86/2020/a1",
+  "506D/2021"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 57/2019",
+    "number": "57",
+    "year": "2019",
+    "path": "oug/2019/57"
+   },
+   "articles": [
+    {
+     "art": "160",
+     "alin": [
+      "1",
+      "7",
+      "10"
+     ],
+     "lit": [
+      "h"
+     ]
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea partidelor politice nr. 14/2003",
+    "number": "14",
+    "year": "2003",
+    "path": "lege/2003/14"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Petru Marocico în Dosarul nr. 3.038/86/2020/a1 al Curții de Apel Suceava - Secția de contencios administrativ și fiscal și constată că dispozițiile art. 160 alin. (1) lit. h), alin. (7) și alin. (10) din Ordonanța de urgență a Guvernului nr. 57/2019 privind Codul administrativ și ale art. 8 alin. (2) din Legea partidelor politice nr. 14/2003 sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Curții de Apel Suceava - Secția de contencios administrativ și fiscal și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 57/2019",
+    "number": "57",
+    "year": "2019",
+    "path": "oug/2019/57"
+   },
+   "articles": [
+    {
+     "art": "160",
+     "alin": [
+      "1",
+      "7",
+      "10"
+     ],
+     "lit": [
+      "h"
+     ]
+    },
+    {
+     "art": "597",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": [
+      "e",
+      "h"
+     ]
+    },
+    {
+     "art": "249",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "253",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 21
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea partidelor politice nr. 14/2003",
+    "number": "14",
+    "year": "2003",
+    "path": "lege/2003/14"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": [
+      "2",
+      "1",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "40",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "70",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 16
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 393/2004",
+    "number": "393",
+    "year": "2004",
+    "path": "lege/2004/393"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "g-1"
+     ]
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 249/2006",
+    "number": "249",
+    "year": "2006",
+    "path": "lege/2006/249"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea administrației publice locale nr. 215/2001",
+    "number": "215",
+    "year": "2001",
+    "path": "lege/2001/215"
+   },
+   "articles": [
+    {
+     "art": "69",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2025-08-12",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/301271",
+  "text_sha256": "4ecf6f25862b7a44c2c173594a333440525b3d52a04a28294abc13d8254dd2da",
+  "catalogue_sha256": "4ecf6f25862b7a44c2c173594a333440525b3d52a04a28294abc13d8254dd2da",
+  "fetched": "2026-11-06T01:28:15Z",
+  "chars": 25605,
+  "archive": {
+   "source": "commoncrawl",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/301271",
+   "timestamp": "20251212095610",
+   "crawl": "CC-MAIN-2025-51",
+   "filename": "crawl-data/CC-MAIN-2025-51/segments/1764871307657.96/warc/CC-MAIN-20251212083019-20251212113019-00105.warc.gz",
+   "offset": "287532125",
+   "length": "27680",
+   "sha256": "01a99aee50784d44042734c8cf3d826fc0a2a4a6db720f495eb9fc451e3f4583"
+  },
+  "portal_id": "301271",
+  "tip": "DECIZIE"
+ }
+}
