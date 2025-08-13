@@ -1,0 +1,17 @@
+# Propunere legislativă L363/2025
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Propunere legislativă privind instituirea dreptului de preempțiune în favoarea titularilor de licențe și permise de exploatare minieră asupra terenurilor proprietate privată a statului ori a unităților administrativ-teritoriale pe care se desfășoară activități miniere și pentru completarea art.364 din Ordonanța de urgență a Guvernului nr.57/2019 privind Codul administrativ
+
+Initiator: Membri ai Parlamentului.
+
+## Stages published so far
+
+- 2025-08-13: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
+
+## Documents
+
+- 2025-08-13: Adresă de înaintare a inițiativei (AD): [ad-a4d2be20.md](ad-a4d2be20.md); official file https://www.senat.ro/legis/PDF/2025/25L363AD.PDF
+- 2025-08-13: Forma inițiatorului (FG): [fg-c2599188.md](fg-c2599188.md); official file https://www.senat.ro/legis/PDF/2025/25L363FG.PDF
+- 2025-08-13: Expunere de motive (EM): [em-af258c5d.md](em-af258c5d.md); official file https://www.senat.ro/legis/PDF/2025/25L363EM.PDF
