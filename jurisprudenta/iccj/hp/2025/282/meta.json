@@ -1,0 +1,288 @@
+{
+ "key": "iccj-hp-282-2025",
+ "label": "Decizia ÎCCJ nr. 282/2025 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "282",
+ "date": "2025-06-30",
+ "year": "2025",
+ "heading": "DECIZIA nr. 282 din 30 iunie 2025",
+ "subtitle": "referitoare la modalitatea de determinare a începutului curgerii prescripției cu privire la drepturile pretinse în temeiul art. 1 alin. (5^1) din Ordonanța de urgență a Guvernului nr. 83/2014 privind salarizarea personalului plătit din fonduri publice în anul 2015, și la modalitatea de calculare a soldei funcției de bază prin includerea sporului de fidelitate de 15%",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "763",
+  "bis": false,
+  "date": "2025-08-14",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "3.026/1/2024",
+  "2.355/118/2023"
+ ],
+ "subjects": [],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Curtea de Apel Constanța - Secția I civilă în Dosarul nr. 2.355/118/2023, în vederea pronunțării unei hotărâri prealabile cu privire la următoarele chestiuni de drept:",
+  "Modalitatea de determinare a începutului curgerii prescripției cu privire la drepturile pretinse în temeiul art. 1 alin. (5^1) din Ordonanța de urgență a Guvernului nr. 83/2014 privind salarizarea personalului plătit din fonduri publice în anul 2015, precum și alte măsuri în domeniul cheltuielilor publice, aprobată cu modificări și completări prin Legea nr. 71/2015, cu modificările și completările ulterioare, în sensul calculării soldei funcției de bază și sporurilor la nivelul maxim de salarizare pentru funcții similare.",
+  "Modalitatea de calculare a soldei funcției de bază prin includerea sporului de fidelitate de 15% în temeiul art. 1 alin. (5^1) din Ordonanța de urgență a Guvernului nr. 83/2014.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 62/2024",
+    "number": "62",
+    "year": "2024",
+    "path": "oug/2024/62"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 83/2014",
+    "number": "83",
+    "year": "2014",
+    "path": "oug/2014/83"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "5-1",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 18
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 223/2015",
+    "number": "223",
+    "year": "2015",
+    "path": "lege/2015/223"
+   },
+   "articles": [
+    {
+     "art": "28",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "39",
+     "alin": [
+      "1",
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 280/2020",
+    "number": "280",
+    "year": "2020",
+    "path": "lege/2020/280"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 75/2020",
+    "number": "75",
+    "year": "2020",
+    "path": "oug/2020/75"
+   },
+   "articles": [],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 284/2010",
+    "number": "284",
+    "year": "2010",
+    "path": "lege/2010/284"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a",
+      "b"
+     ]
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 114/2018",
+    "number": "114",
+    "year": "2018",
+    "path": "oug/2018/114"
+   },
+   "articles": [
+    {
+     "art": "34-1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 57/2015",
+    "number": "57",
+    "year": "2015",
+    "path": "oug/2015/57"
+   },
+   "articles": [
+    {
+     "art": "3-1",
+     "alin": [
+      "1",
+      "1-2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 20/2016",
+    "number": "20",
+    "year": "2016",
+    "path": "oug/2016/20"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 71/2015",
+    "number": "71",
+    "year": "2015",
+    "path": "lege/2015/71"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "5-1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenție",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [
+  "subjects: none parsed"
+ ],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-08-14",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/301356",
+  "text_sha256": "35bc9e6220939906a0bdfeca64b06e8e8ea9a02d57e2708d0b3d802a72dda822",
+  "catalogue_sha256": "35bc9e6220939906a0bdfeca64b06e8e8ea9a02d57e2708d0b3d802a72dda822",
+  "fetched": "2026-11-03T00:55:16Z",
+  "chars": 53591,
+  "portal_id": "301356",
+  "tip": "DECIZIE"
+ }
+}
