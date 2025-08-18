@@ -1,0 +1,243 @@
+{
+ "key": "iccj-hp-260-2025",
+ "label": "Decizia ÎCCJ nr. 260/2025 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "260",
+ "date": "2025-06-23",
+ "year": "2025",
+ "heading": "DECIZIA nr. 260 din 23 iunie 2025",
+ "subtitle": "referitoare la aplicarea Legii nr. 78/2018 privind exonerarea personalului plătit din fonduri publice de la plata unor sume reprezentând venituri de natură salarială, cu modificările și completările ulterioare",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "767",
+  "bis": false,
+  "date": "2025-08-18",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "299/1/2025",
+  "5.800/99/2021"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 78/2018",
+    "number": "78",
+    "year": "2018",
+    "path": "lege/2018/78"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Curtea de Apel Iași - Secția conflicte de muncă și asigurări sociale, în Dosarul nr. 5.800/99/2021, în vederea pronunțării unei hotărâri prealabile pentru dezlegarea următoarelor chestiuni de drept: Dacă Legea nr. 78/2018 privind exonerarea personalului plătit din fonduri publice de la plata unor sume reprezentând venituri de natură salarială, cu modificările și completările ulterioare, este aplicabilă veniturilor din salarii, sume considerate de către reclamant a fi încasate nelegal, rezultate din derularea unor proiecte POS DRU (Programul operațional sectorial Dezvoltarea resurselor umane) finanțate din fonduri europene, sume declarate neeligibile prin actul Centrului Național de Dezvoltare a Învățământului Profesional și Tehnic - Organism intermediar POS DRU ca urmare a stării de incompatibilitate a directorului unității chemat în judecată alături de salariata aflată în relație de rudenie.",
+  "În cazul în care răspunsul la prima întrebare este afirmativ, respectiv dacă sumele declarate neeligibile nu mai pot fi recuperate de la salariatul beneficiar ca urmare a amnistiei, ar mai putea fi ele recuperate de la salariatul considerat vinovat de situația prejudiciabilă, pe calea angajării răspunderii patrimoniale?",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 62/2024",
+    "number": "62",
+    "year": "2024",
+    "path": "oug/2024/62"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 78/2018",
+    "number": "78",
+    "year": "2018",
+    "path": "lege/2018/78"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 18
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 500/2002",
+    "number": "500",
+    "year": "2002",
+    "path": "lege/2002/500"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 273/2006",
+    "number": "273",
+    "year": "2006",
+    "path": "lege/2006/273"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 227/2015",
+    "number": "227",
+    "year": "2015",
+    "path": "lege/2015/227"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "76",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 329/2022",
+    "number": "329",
+    "year": "2022",
+    "path": "lege/2022/329"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul muncii",
+    "path": "lege/2003/53",
+    "slug": "codul-muncii"
+   },
+   "articles": [
+    {
+     "art": "254",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 66/2011",
+    "number": "66",
+    "year": "2011",
+    "path": "oug/2011/66"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-08-18",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/301382",
+  "text_sha256": "591235e699b755d574f3ba19282a3bda7d347cb287b1d5f695328bc31fd3e5b6",
+  "catalogue_sha256": "591235e699b755d574f3ba19282a3bda7d347cb287b1d5f695328bc31fd3e5b6",
+  "fetched": "2026-11-03T00:55:09Z",
+  "chars": 36417,
+  "portal_id": "301382",
+  "tip": "DECIZIE"
+ }
+}
