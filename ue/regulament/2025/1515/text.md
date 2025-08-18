@@ -1,0 +1,57 @@
+REGULAMENTUL DE PUNERE ÎN APLICARE (UE) 2025/1515 AL COMISIEI
+din 28 iulie 2025
+de autorizare a introducerii pe piață ca aliment nou a uleiului de Schizochytrium limacinum (ATCC-20889) și de modificare a Regulamentului de punere în aplicare (UE) 2017/2470
+(Text cu relevanță pentru SEE)
+COMISIA EUROPEANĂ,
+având în vedere Tratatul privind funcționarea Uniunii Europene,
+având în vedere Regulamentul (UE) 2015/2283 al Parlamentului European și al Consiliului din 25 noiembrie 2015 privind alimentele noi, de modificare a Regulamentului (UE) nr. 1169/2011 al Parlamentului European și al Consiliului și de abrogare a Regulamentului (CE) nr. 258/97 al Parlamentului European și al Consiliului și a Regulamentului (CE) nr. 1852/2001 al Comisiei (1), în special articolul 12 alineatul (1),
+întrucât:
+(1) Regulamentul (UE) 2015/2283 prevede că doar alimentele noi autorizate și incluse în lista cu alimente noi a Uniunii pot fi introduse pe piața Uniunii.
+(2) În temeiul articolului 8 din Regulamentul (UE) 2015/2283, Regulamentul de punere în aplicare (UE) 2017/2470 al Comisiei (2) a stabilit o listă cu alimente noi a Uniunii.
+(3) Lista Uniunii prevăzută în anexa la Regulamentul de punere în aplicare (UE) 2017/2470 include uleiul de Schizochytrium sp. ca aliment nou autorizat.
+(4) La data de 24 mai 2023, societatea BioPlus Life Sciences („solicitantul”) a înaintat Comisiei o cerere în conformitate cu articolul 10 alineatul (1) din Regulamentul (UE) 2015/2283 pentru a modifica condițiile de utilizare a alimentului nou ulei de Schizochytrium sp. Solicitantul a cerut extinderea utilizării alimentului nou Schizochytrium sp. la formulele de început și formulele de continuare, astfel cum sunt definite în Regulamentul (UE) nr. 609/2013 al Parlamentului European și al Consiliului (3). Tulpina de ulei de Schizochytrium sp. vizată de cerere este specificată ca tulpina ATCC 20889.
+(5) De asemenea, la 30 august 2024 solicitantul a înaintat Comisiei o cerere vizând protejarea următoarelor date care fac obiectul unui drept de proprietate: identitatea (4), procesul de producție (5) și datele privind compoziția (6).
+(6) La 10 octombrie 2023, Comisia a solicitat Autorității Europene pentru Siguranța Alimentară („autoritatea”) să furnizeze un aviz științific privind modificarea condițiilor de utilizare a uleiului de Schizochytrium sp. ca aliment nou.
+(7) La 28 noiembrie 2024, autoritatea a adoptat avizul său științific privind „Siguranța uleiului de Schizochytrium limacinum (tulpina ATCC-20889) pentru utilizare în formulele de început și formulele de continuare ca aliment nou în temeiul Regulamentului (UE) 2015/2283” (7), în conformitate cu articolul 11 din Regulamentul (UE) 2015/2283.
+(8) În avizul său științific, autoritatea a concluzionat că uleiul produs din tulpina ATCC-20889 aparținând speciei Schizochytrium limacinum este sigur în condițiile de utilizare propuse. Luând act de faptul că datele de evaluare a siguranței identifică tulpina ATCC-20889 ca aparținând speciei Schizochytrium limacinum și, prin urmare, acest organism sursă specific, nu Schizochytrium sp., a fost evaluat de autoritate, rezultă că cererea ar trebui să fie considerată o cerere de autorizare a unui nou aliment nou destinat utilizării în formulele de început și în formulele de continuare, mai degrabă decât o modificare a condițiilor de utilizare a unui aliment nou deja autorizat.
+(9) Informațiile furnizate în cerere și în avizul științific al autorității oferă suficiente motive pentru a se stabili că uleiul de Schizochytrium limacinum (ATCC-20889), atunci când este utilizat în formulele de început și în formulele de continuare, în conformitate cu Regulamentul (UE) nr. 609/2013, îndeplinește condițiile pentru introducerea sa pe piață în conformitate cu articolul 12 alineatul (1) din Regulamentul (UE) 2015/2283.
+(10) În avizul său științific, autoritatea a precizat, de asemenea, că și-a bazat concluzia privind siguranța alimentului nou pe datele privind identitatea, procesul de producție și datele privind compoziția, fără de care nu ar fi putut evalua alimentul nou și nu ar fi putut ajunge la respectiva concluzie.
+(11) Comisia a cerut solicitantului să clarifice suplimentar justificarea deținerii dreptului său de proprietate asupra datelor și studiilor respective și să clarifice pretenția sa privind deținerea unui drept exclusiv de a face trimiteri la datele și studiile respective în conformitate cu articolul 26 alineatul (2) litera (b) din Regulamentul (UE) 2015/2283.
+(12) Solicitantul a declarat că, la momentul depunerii cererii, deținea drepturi de proprietate și drepturi exclusive de trimitere la datele privind identitatea, procesul de producție și datele privind compoziția, și că părțile terțe nu pot accesa, utiliza sau face trimitere în mod legal la datele respective.
+(13) Comisia a evaluat toate informațiile transmise de solicitant și consideră că acesta a justificat în mod suficient îndeplinirea cerințelor prevăzute la articolul 26 alineatul (2) din Regulamentul (UE) 2015/2283. Prin urmare, datele privind identitatea, procesul de producție și datele privind compoziția trebuie protejate în conformitate cu articolul 27 alineatul (1) din Regulamentul (UE) 2015/2283. În consecință, numai solicitantul trebuie să fie autorizat să introducă pe piață pe teritoriul Uniunii uleiul de Schizochytrium limacinum (ATCC-20889) în formulele de început și în formulele de continuare, astfel cum sunt definite în Regulamentul (UE) nr. 609/2013, pentru o perioadă de cinci ani de la intrarea în vigoare a prezentului regulament.
+(14) Cu toate acestea, o astfel de restricționare a autorizării și a trimiterii la datele conținute în dosarul solicitantului în sensul utilizării exclusive de către acesta nu împiedică solicitanții ulteriori să solicite o autorizație de introducere pe piață a aceluiași aliment nou, cu condiția ca cererea lor să se bazeze pe informații obținute în mod legal în sprijinul unei astfel de autorizații.
+(15) Uleiul de Schizochytrium limacinum (ATCC-20889) trebuie inclus în lista cu alimente noi a Uniunii prevăzută în Regulamentul de punere în aplicare (UE) 2017/2470. Prin urmare, anexa la Regulamentul de punere în aplicare (UE) 2017/2470 trebuie modificată în consecință.
+(16) Măsurile prevăzute în prezentul regulament sunt conforme cu avizul Comitetului permanent pentru plante, animale, produse alimentare și hrană pentru animale,
+ADOPTĂ PREZENTUL REGULAMENT:
+Articolul 1
+(1) Uleiul de Schizochytrium limacinum (ATCC-20889) se autorizează pentru a fi introdus pe piață în Uniune.
+Uleiul de Schizochytrium limacinum (ATCC-20889) se include în lista cu alimente noi a Uniunii prevăzută în Regulamentul de punere în aplicare (UE) 2017/2470.
+(2) Anexa la Regulamentul de punere în aplicare (UE) 2017/2470 se modifică în conformitate cu anexa la prezentul regulament.
+Articolul 2
+Numai societatea BioPlus Life Sciences (8) este autorizată să introducă pe piața Uniunii alimentul nou menționat la articolul 1, timp de 5 ani de la 18 august 2025, cu excepția cazului în care un solicitant ulterior obține o autorizație pentru alimentul nou respectiv fără a face trimitere la datele științifice protejate în temeiul articolului 3 sau cu acordul societății BioPlus Life Sciences.
+Articolul 3
+Datele științifice conținute în dosarul de cerere și care îndeplinesc condițiile prevăzute la articolul 26 alineatul (2) din Regulamentul (UE) 2015/2283 nu se utilizează în beneficiul unui solicitant ulterior pentru o perioadă de cinci ani de la data intrării în vigoare a prezentului regulament fără acordul societății BioPlus Life Sciences.
+Articolul 4
+Prezentul regulament intră în vigoare în a douăzecea zi de la data publicării în Jurnalul Oficial al Uniunii Europene.
+Prezentul regulament este obligatoriu în toate elementele sale și se aplică direct în toate statele membre.
+Adoptat la Bruxelles, 28 iulie 2025.
+Pentru Comisie
+Președinta
+Ursula VON DER LEYEN
+(1) JO L 327, 11.12.2015, p. 1, ELI: http://data.europa.eu/eli/reg/2015/2283/oj.
+(2) Regulamentul de punere în aplicare (UE) 2017/2470 al Comisiei din 20 decembrie 2017 de stabilire a listei cu alimente noi a Uniunii în conformitate cu Regulamentul (UE) 2015/2283 al Parlamentului European și al Consiliului privind alimentele noi (JO L 351, 30.12.2017, p. 72, ELI: http://data.europa.eu/eli/reg_impl/2017/2470/oj).
+(3) Regulamentul (UE) nr. 609/2013 al Parlamentului European și al Consiliului din 12 iunie 2013 privind alimentele destinate sugarilor și copiilor de vârstă mică, alimentele destinate unor scopuri medicale speciale și înlocuitorii totali ai dietei în scop de control al greutății și de abrogare a Directivei 92/52/CEE a Consiliului, a Directivelor 96/8/CE, 1999/21/CE, 2006/125/CE și 2006/141/CE ale Comisiei, a Directivei 2009/39/CE a Parlamentului European și a Consiliului și a Regulamentelor (CE) nr. 41/2009 și (CE) nr. 953/2009 ale Comisiei (JO L 181, 29.6.2013, p. 35, ELI: http://data.europa.eu/eli/reg/2013/609/oj).
+(4) Anexele 3, 4, 46, 47, 64 și 67.
+(5) Anexele 5, 6, 7, 11, 12, 12bis, 17, 18, 48, 49, 50, 52, 53, 70 și 71.
+(6) Anexele 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 36, 37, 38, 39, 40, 41, 42, 43, 54, 55, 56, 59, 60, 61, 62 și 63.
+(7) EFSA Journal 2025;23:e9156.
+(8) Adresa: Pharmed Gardens, Whitefield Road, Bangalore 560048 India.
+ANEXĂ
+1. În tabelul 1 (Alimente noi autorizate), se introduce următoarea rubrică, în ordine alfabetică:
+Aliment nou autorizat | Condițiile în care poate fi utilizat alimentul nou | Cerințe specifice suplimentare privind etichetarea | Alte cerințe | Protecția datelor
+„Schizochytrium limacinum (ATCC-20889) | Categorie specifică de alimente | Niveluri maxime de DHA | Denumirea alimentului nou de pe eticheta produselor alimentare care îl conțin este «Ulei din microalgele Schizochytrium limacinum». | | Autorizat la data de 18 august 2025. Această includere se bazează pe dovezi științifice și date științifice care fac obiectul unui drept de proprietate, protejate în conformitate cu articolul 26 din Regulamentul (UE) 2015/2283. Solicitant: BioPlus Life Sciences, Pharmed Gardens, Whitefield Road, Bangalore 560048 India. Pe perioada protecției datelor, alimentul nou uleiul de Schizochytrium limacinum (ATCC-20889) este autorizat pentru introducerea pe piața Uniunii numai de către BioPlus Life Sciences, cu excepția cazului în care un solicitant ulterior obține autorizația pentru alimentul nou fără a face trimitere la dovezile științifice sau la datele științifice care fac obiectul unui drept de proprietate, protejate în conformitate cu articolul 26 din Regulamentul (UE) 2015/2283, sau cu acordul societății BioPlus Life Sciences. Data de încheiere a protecției datelor: 18 august 2030”
+Formule de început și formule de continuare, astfel cum sunt definite în Regulamentul (UE) nr. 609/2013 | În conformitate cu Regulamentul (UE) nr. 609/2013
+2. În tabelul 2 (Specificații), se introduce următoarea rubrică, în ordine alfabetică:
+Alimente noi autorizate | Specificații
+„Ulei de Schizochytrium limacinum (ATCC-20889) | Descriere/definiție: Alimentul nou este un ulei produs din tulpina ATCC-20889 a microalgelor Schizochytrium limacinum. Compoziție: Indice de aciditate: ≤ 0,5 mg KOH/g Indice de peroxid (IP): ≤ 5,0 meq/kg ulei Umiditate și substanțe volatile: ≤ 0,05 % Substanțe nesaponificabile: ≤ 4,5 % Acizi grași trans: ≤ 1,0 % Acid docosahexaenoic (DHA): ≥ 32 % Indice de p-anisidină: ≤ 10”
+ELI: http://data.europa.eu/eli/reg_impl/2025/1515/oj
