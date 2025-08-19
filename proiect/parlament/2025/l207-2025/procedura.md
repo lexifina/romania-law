@@ -1,0 +1,22 @@
+# Proiect de lege L207/2025
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 178/2025 (`legea-178-2025`).
+
+Proiect de lege privind aprobarea Ordonanţei de urgenţã a Guvernului nr.41/2025 pentru instituirea unor măsuri în domeniul gestionării investițiilor finanțate din Planul național de redresare și reziliență și din fonduri publice naționale
+
+Initiator: Guvernul României.
+
+## Stages published so far
+
+- 2025-08-19: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+
+## Documents
+
+- 2025-08-19: Adresă de înaintare a inițiativei (AD): not held as text; official file https://www.senat.ro/legis/PDF/2025/25L207AD.PDF
+- 2025-08-19: Forma inițiatorului (FG): [fg-0400687f.md](fg-0400687f.md); official file https://www.senat.ro/legis/PDF/2025/25L207FG.PDF
+- 2025-08-19: Expunere de motive (EM): [em-68c85d4d.md](em-68c85d4d.md); official file https://www.senat.ro/legis/PDF/2025/25L207EM.PDF
+- 2025-08-19: Aviz Consiliul Legislativ (LG): [lg-89fa3fc5.md](lg-89fa3fc5.md); official file https://www.senat.ro/legis/PDF/2025/25L207LG.PDF
+- 2025-08-19: Document (OG): [og-e8dcbcbe.md](og-e8dcbcbe.md); official file https://www.senat.ro/legis/PDF/2025/25L207OG.PDF
+- 2025-08-19: Document (HG): [hg-683a15b2.md](hg-683a15b2.md); official file https://www.senat.ro/legis/PDF/2025/25L207HG.PDF
