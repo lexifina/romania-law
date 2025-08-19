@@ -1,0 +1,197 @@
+{
+ "key": "dcc-266-2024",
+ "label": "Decizia CCR nr. 266/2024",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "266",
+ "date": "2024-05-14",
+ "year": "2024",
+ "heading": "DECIZIA nr. 266 din 14 mai 2024",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 226 alin. (4) din Legea nr. 207/2015 privind Codul de procedură fiscală",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "770",
+  "bis": false,
+  "date": "2025-08-19",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "6.613/236/2018",
+  "1.843D/2019"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 207/2015",
+    "number": "207",
+    "year": "2015",
+    "path": "lege/2015/207"
+   },
+   "articles": [
+    {
+     "art": "226",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Ana Maria Necula în Dosarul nr. 6.613/236/2018 al Tribunalului Giurgiu - Secția civilă și constată că dispozițiile art. 226 alin. (4) din Legea nr. 207/2015 privind Codul de procedură fiscală sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului Giurgiu - Secția civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 207/2015",
+    "number": "207",
+    "year": "2015",
+    "path": "lege/2015/207"
+   },
+   "articles": [
+    {
+     "art": "226",
+     "alin": [
+      "4",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "156",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "22",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituției",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "135",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "b",
+      "f"
+     ]
+    },
+    {
+     "art": "47",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2025-08-19",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/301406",
+  "text_sha256": "6f229a7b9f8267947d96fa9e78793acb4b944adecd1eb11910f3a0b913d7878d",
+  "catalogue_sha256": "6f229a7b9f8267947d96fa9e78793acb4b944adecd1eb11910f3a0b913d7878d",
+  "fetched": "2026-11-03T00:55:05Z",
+  "chars": 15767,
+  "portal_id": "301406",
+  "tip": "DECIZIE"
+ }
+}
