@@ -1,0 +1,157 @@
+{
+ "key": "iccj-hp-243-2025",
+ "label": "Decizia ÎCCJ nr. 243/2025 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "243",
+ "date": "2025-06-23",
+ "year": "2025",
+ "heading": "DECIZIA nr. 243 din 23 iunie 2025",
+ "subtitle": "referitoare la interpretarea prevederilor art. 23 din Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "772",
+  "bis": false,
+  "date": "2025-08-19",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.673/1/2024",
+  "14.522/3/2023",
+  "3.539/3/2023",
+  "1.813/99/2024",
+  "2.952/1/2024"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibile, sesizările conexate formulate de Curtea de Apel București - Secția a VII-a pentru cauze privind conflicte de muncă și asigurări sociale, în Dosarul nr. 14.522/3/2023, de Tribunalul București - Secția a VIII-a conflicte de muncă și asigurări sociale, în Dosarul nr. 3.539/3/2023*, și de Tribunalul Iași - Secția I civilă, în Dosarul nr. 1.813/99/2024, în vederea pronunțării unei hotărâri prealabile cu privire la următoarele chestiuni de drept:",
+  "Dacă, în interpretarea prevederilor art. 23 din Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, cu modificările și completările ulterioare, personalul din cadrul direcțiilor de sănătate publică, ce a efectuat triajul epidemiologic din punctele de trecere a frontierei, potrivit art. 8 alin. (5) din Ordonanța de urgență a Guvernului nr. 11/2020 privind stocurile de urgență medicală, precum și unele măsuri aferente instituirii carantinei, aprobată cu completări prin Legea nr. 20/2020, cu modificările și completările ulterioare, este îndreptățit la acordarea sporului pentru condiții deosebit de periculoase prevăzut de art. unic lit. A pct. 1 și 9 din anexa nr. 8 la Regulamentul-cadru privind stabilirea locurilor de muncă, a categoriilor de personal, a mărimii concrete a sporului pentru condiții de muncă prevăzut în anexa nr. II la Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, precum și a condițiilor de acordare a acestuia, pentru familia ocupațională de funcții bugetare «Sănătate și asistență socială», aprobat prin Hotărârea Guvernului nr. 153/2018, cu modificările și completările ulterioare, potrivit art. 7 alin. (5) din capitolul II din anexa nr. II la Legea-cadru nr. 153/2017.",
+  "Dacă personalul din cadrul direcțiilor de sănătate publică (medici și asistenți medicali) care a fost implicat în măsurile luate pe perioada pandemiei de coronavirus beneficiază în perioada martie 2020-martie 2022 de sporul pentru condiții deosebit de periculoase prevăzut de art. 7 alin. (1) lit. b) și alin. (5) din capitolul II din anexa nr. II la Legea-cadru nr. 153/2017 coroborat cu art. unic lit. A pct. 1 din anexa nr. 2 la Regulamentul-cadru aprobat prin Hotărârea Guvernului nr. 153/2018 și dacă acordarea acestui spor este condiționată de existența buletinelor de determinare sau, după caz, expertizare, emise de către autoritățile abilitate în acest sens potrivit art. 5 din Regulamentul-cadru aprobat prin Hotărârea Guvernului nr. 153/2018, chiar și în situația în care angajatorul nu a procedat la expertizarea locurilor de muncă, deși s-au schimbat condițiile de muncă.",
+  "Dacă participarea efectivă, în aplicarea măsurilor de limitare a unor epidemii deosebit de grave și altele asemenea stabilite de Ministerul Sănătății și declarate prin ordin, implică în mod obligatoriu contact direct al personalului din cadrul direcțiilor de sănătate publică cu persoanele infectate sau este suficientă participarea acestora în cadrul anchetelor epidemiologice prin contactarea telefonică a persoanelor.",
+  "În interpretarea și aplicarea dispozițiilor art. unic lit. A pct. 1 din anexa nr. 2 la Regulamentul-cadru aprobat prin Hotărârea Guvernului nr. 153/2018, prin raportare la art. 7 alin. (1) lit. b) din capitolul II din anexa nr. II la Legea-cadru nr. 153/2017, se cuvine reclamanților, angajați în cadrul Direcției de Sănătate Publică Iași, implicați în mod direct în acțiuni de prevenire, gestionare și combaterea infecțiilor cu COVID-19, sporul pentru condiții deosebit de periculoase cuprins între 55%-85% pentru toată perioada stării de urgență (16 martie 2020-14 mai 2020), respectiv de alertă (15 mai 2020-8 martie 2022) a pandemiei COVID-19?",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 62/2024",
+    "number": "62",
+    "year": "2024",
+    "path": "oug/2024/62"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 21
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 11/2020",
+    "number": "11",
+    "year": "2020",
+    "path": "oug/2020/11"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-08-19",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/301419",
+  "text_sha256": "ccafdc4dc0c15bc6290f084796113a9da636d2f3f977244aa247e24cc08d4631",
+  "catalogue_sha256": "ccafdc4dc0c15bc6290f084796113a9da636d2f3f977244aa247e24cc08d4631",
+  "fetched": "2026-11-03T00:55:05Z",
+  "chars": 45959,
+  "portal_id": "301419",
+  "tip": "DECIZIE"
+ }
+}
