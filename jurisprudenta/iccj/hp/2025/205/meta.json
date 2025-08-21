@@ -1,0 +1,218 @@
+{
+ "key": "iccj-hp-205-2025",
+ "label": "Decizia ÎCCJ nr. 205/2025 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "205",
+ "date": "2025-05-26",
+ "year": "2025",
+ "heading": "DECIZIA nr. 205 din 26 mai 2025",
+ "subtitle": "referitoare la plata diferențelor dintre drepturile salariale efectiv acordate și nivelul maxim al salariilor de bază/indemnizațiilor de încadrare menționate pentru funcții similare în anexa la Ordinul ministrului mediului, apelor și pădurilor nr. 1.006 din 29.06.2021",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "782",
+  "bis": false,
+  "date": "2025-08-21",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "139/1/2025",
+  "2.290/99/2023"
+ ],
+ "subjects": [],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Tribunalul Iași - Secția a II-a civilă, de contencios administrativ și fiscal în Dosarul nr. 2.290/99/2023, în vederea pronunțării unei hotărâri prealabile cu privire la următoarea chestiune de drept:",
+  "Funcționarii publici din cadrul instituțiilor subordonate Ministerului Mediului, Apelor și Pădurilor, cărora li s-au acordat drepturi salariale inferioare nivelului maxim al salariilor de bază/indemnizațiilor de încadrare menționate pentru funcții similare în anexa la Ordinul ministrului mediului, apelor și pădurilor nr. 1.006 din 29.06.2021, sunt îndreptățiți la plata diferențelor dintre drepturile salariale efectiv acordate și nivelul maxim al salariilor de bază/indemnizațiilor de încadrare menționate pentru funcții similare în anexa la Ordinul ministrului mediului, apelor și pădurilor nr. 1.006 din 29.06.2021?",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 62/2024",
+    "number": "62",
+    "year": "2024",
+    "path": "oug/2024/62"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "39",
+     "alin": [
+      "1",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b",
+      "a"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituția României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "120",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 62/2022",
+    "number": "62",
+    "year": "2022",
+    "path": "lege/2022/62"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 57/2015",
+    "number": "57",
+    "year": "2015",
+    "path": "oug/2015/57"
+   },
+   "articles": [
+    {
+     "art": "3-1",
+     "alin": [
+      "1-2",
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea contenciosului administrativ nr. 554/2004",
+    "number": "554",
+    "year": "2004",
+    "path": "lege/2004/554"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [
+  "subjects: none parsed"
+ ],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-08-21",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/301525",
+  "text_sha256": "0a0097350e688e310a66569afe0e27d44197fb675490da54f8cb858c8dc7c7df",
+  "catalogue_sha256": "0a0097350e688e310a66569afe0e27d44197fb675490da54f8cb858c8dc7c7df",
+  "fetched": "2026-11-03T23:08:58Z",
+  "chars": 39885,
+  "portal_id": "301525",
+  "tip": "DECIZIE"
+ }
+}
