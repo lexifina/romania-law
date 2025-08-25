@@ -1,0 +1,20 @@
+# Proiect de lege L221/2025
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Proiect de lege privind aprobarea Ordonanţei Guvernului nr.15/2025 pentru modificarea Ordonanţei Guvernului nr.43/1997 privind regimul drumurilor
+
+Initiator: Guvernul României.
+
+## Stages published so far
+
+- 2025-08-25: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+
+## Documents
+
+- 2025-08-25: Adresă de înaintare a inițiativei (AD): [ad-488e3ecd.md](ad-488e3ecd.md); official file https://www.senat.ro/legis/PDF/2025/25L221AD.PDF
+- 2025-08-25: Forma inițiatorului (FG): [fg-5cdb73d5.md](fg-5cdb73d5.md); official file https://www.senat.ro/legis/PDF/2025/25L221FG.PDF
+- 2025-08-25: Expunere de motive (EM): [em-5132d814.md](em-5132d814.md); official file https://www.senat.ro/legis/PDF/2025/25L221EM.PDF
+- 2025-08-25: Aviz Consiliul Legislativ (LG): [lg-43cf9dea.md](lg-43cf9dea.md); official file https://www.senat.ro/legis/PDF/2025/25L221LG.PDF
+- 2025-08-25: Document (OG): [og-82023b7a.md](og-82023b7a.md); official file https://www.senat.ro/legis/PDF/2025/25L221OG.PDF
+- 2025-08-25: Document (HG): [hg-3bbd29a0.md](hg-3bbd29a0.md); official file https://www.senat.ro/legis/PDF/2025/25L221HG.PDF
