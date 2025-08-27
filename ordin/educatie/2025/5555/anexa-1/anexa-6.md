@@ -1,0 +1,9 @@
+# Anexa nr. 6 la metodologie
+ACORD privind prelucrarea datelor cu caracter personal
+Subsemnatul/Subsemnata,................................., având următoarele date de contact: e-mail............, nr. telefon............................., declar prin prezenta că sunt de acord ca Autoritatea Națională pentru Cercetare să fie autorizată, prin Secretariatul tehnic al Colegiului Consultativ pentru Cercetare-Dezvoltare și Inovare, să proceseze datele mele personale în baza Regulamentului (UE) 2016/679 privind protecția persoanelor fizice în ceea ce privește prelucrarea datelor cu caracter personal și privind libera circulație a acestor date și de abrogare a Directivei 95/46/CE (Regulamentul general privind protecția datelor), precum și să efectueze prelucrarea, stocarea/arhivarea datelor conform normelor legale incidente.
+Declar că am luat cunoștință de drepturile mele conferite de Regulamentul (UE) 2016/679, inclusiv despre drepturile pe care subiecții datelor cu caracter personal le dețin, dreptul la acces la date, dreptul la ștergerea datelor („dreptul de a fi uitat”), dreptul la restricționare, dreptul la portabilitatea datelor, dreptul la opoziție, dreptul la rectificare, în conformitate cu prevederile legale în vigoare.
+Modalitatea prin care solicit să fiu contactat în scopul furnizării de informații este telefonic la nr........ sau la adresa de e-mail.......................
+Declar că am înțeles această declarație de consimțământ, că sunt de acord cu procesarea datelor mele personale prin canalele de mai sus în scopurile descrise în această declarație de consimțământ.
+Data......................
+Semnătura....................................
+-----
