@@ -1,0 +1,22 @@
+# Proiect de lege L230/2025
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 67/2026 (`legea-67-2026`).
+
+Proiect de lege privind aprobarea Ordonanţei de urgenţã a Guvernului nr.43/2025 pentru completarea Ordonanței de urgență a Guvernului nr.87/2020 privind organizarea şi funcţionarea Corpului de control al prim-ministrului, precum şi pentru instituirea unor măsuri de îmbunătățire a activităţii acestuia și pentru completarea Ordonanţei de urgenţă a Guvernului nr.83/2023 privind unele măsuri pentru susţinerea preşcolarilor şi elevilor dezavantajaţi care beneficiază de sprijin educaţional pe bază de tichete sociale pe suport electronic acordate din fonduri externe nerambursabile şi luarea unor măsuri în domeniul educaţiei
+
+Initiator: Guvernul României.
+
+## Stages published so far
+
+- 2025-08-28: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+
+## Documents
+
+- 2025-08-28: Adresă de înaintare a inițiativei (AD): [ad-74cb6ddf.md](ad-74cb6ddf.md); official file https://www.senat.ro/legis/PDF/2025/25L230AD.PDF
+- 2025-08-28: Forma inițiatorului (FG): [fg-d8ab2285.md](fg-d8ab2285.md); official file https://www.senat.ro/legis/PDF/2025/25L230FG.PDF
+- 2025-08-28: Expunere de motive (EM): [em-0852441f.md](em-0852441f.md); official file https://www.senat.ro/legis/PDF/2025/25L230EM.PDF
+- 2025-08-28: Aviz Consiliul Legislativ (LG): [lg-0aa66589.md](lg-0aa66589.md); official file https://www.senat.ro/legis/PDF/2025/25L230LG.PDF
+- 2025-08-28: Document (OG): [og-f4828a84.md](og-f4828a84.md); official file https://www.senat.ro/legis/PDF/2025/25L230OG.PDF
+- 2025-08-28: Document (HG): [hg-ccd2d21c.md](hg-ccd2d21c.md); official file https://www.senat.ro/legis/PDF/2025/25L230HG.PDF
