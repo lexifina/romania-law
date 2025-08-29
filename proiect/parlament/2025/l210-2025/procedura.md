@@ -1,0 +1,21 @@
+# Proiect de lege L210/2025
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 163/2025 (`legea-163-2025`).
+
+Proiect de lege pentru modificarea și completarea unor acte normative și pentru stabilirea unor măsuri în domeniul sănătății
+
+Initiator: Guvernul României.
+
+## Stages published so far
+
+- 2025-08-29: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+
+## Documents
+
+- 2025-08-29: Adresă de înaintare a inițiativei (AD): [ad-70ff3533.md](ad-70ff3533.md); official file https://www.senat.ro/legis/PDF/2025/25L210AD.PDF
+- 2025-08-29: Forma inițiatorului (FG): [fg-9dfb7c01.md](fg-9dfb7c01.md); official file https://www.senat.ro/legis/PDF/2025/25L210FG.PDF
+- 2025-08-29: Expunere de motive (EM): [em-d7f685ea.md](em-d7f685ea.md); official file https://www.senat.ro/legis/PDF/2025/25L210EM.PDF
+- 2025-08-29: Aviz Consiliul Legislativ (LG): [lg-a25fcff2.md](lg-a25fcff2.md); official file https://www.senat.ro/legis/PDF/2025/25L210LG.PDF
+- 2025-08-29: Document (HG): [hg-97279720.md](hg-97279720.md); official file https://www.senat.ro/legis/PDF/2025/25L210HG.PDF
