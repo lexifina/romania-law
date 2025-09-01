@@ -18,6 +18,7 @@ Initiator: Membri ai Parlamentului.
 - 2024-11-04: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2024-11-07: sent for promulgation
 - 2025-03-11: published in the Monitorul Oficial
+- 2025-09-01: documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -33,3 +34,8 @@ Initiator: Membri ai Parlamentului.
 - 2024-11-04: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L559FS.PDF
 - 2024-11-04: Adresă privind sesizarea CCR (AXS): [axs-d0e3ca72.md](axs-d0e3ca72.md); official file https://www.senat.ro/legis/PDF/2024/24L559AXS.PDF
 - 2024-11-04: Forma trimisă la promulgare (LP): [lp-6cc5d1d5.md](lp-6cc5d1d5.md); official file https://www.senat.ro/legis/PDF/2024/24L559LP.PDF
+- 2025-09-01: Document (CF): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L559CF.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-09-01: Document (AJ): [aj-85673c16.md](aj-85673c16.md); official file https://www.senat.ro/legis/PDF/2024/24L559AJ.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-09-01: Document (AL): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L559AL.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-09-01: Document (SC1): [sc1-6c7cac7a.md](sc1-6c7cac7a.md); official file https://www.senat.ro/legis/PDF/2024/24L559SC1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-09-01: Document (DC1): [dc1-9f1c4e4a.md](dc1-9f1c4e4a.md); official file https://www.senat.ro/legis/PDF/2024/24L559DC1.PDF (its day is not given by the bill file: shown from the last stage held)
