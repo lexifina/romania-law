@@ -1,0 +1,6 @@
+# CJUE, Ordonanța Curții (Camera a noua) din 2 septembrie 2025, Cauza C-827/24
+
+Pentru aceste motive, Curtea (Camera a noua) dispune:
+Articolul 13 alineatul (1) din Regulamentul (UE) 2016/1036 al Parlamentului European și al Consiliului din 8 iunie 2016 privind protecția împotriva importurilor care fac obiectul unui dumping din partea țărilor care nu sunt membre ale Uniunii Europene și articolul 60 alineatul (2) din Regulamentul (UE) nr. 952/2013 al Parlamentului European și al Consiliului din 9 octombrie 2013 de stabilire a Codului vamal al Uniunii
+trebuie interpretate în sensul că
+formarea la rece în India a unor tuburi sau a unor țevi, fără sudură, din fier sau din oțel, provenind din China, cu privire la care Comisia Europeană a constatat că a avut ca efect transformarea în mod substanțial a acestor produse, în măsura în care a modificat în mod ireversibil caracteristicile lor esențiale, constituie o modificare ce exclude aplicabilitatea articolului 13 alineatul (1) din Regulamentul 2016/1036 și o „ultimă transformare sau prelucrare substanțială, justificată economic”, în sensul articolului 60 alineatul (2) din Regulamentul nr. 952/2013, care conferă o origine indiană produselor menționate.
