@@ -1,0 +1,201 @@
+{
+ "key": "dcc-639-2024",
+ "label": "Decizia CCR nr. 639/2024",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "639",
+ "date": "2024-11-07",
+ "year": "2024",
+ "heading": "DECIZIA nr. 639 din 7 noiembrie 2024",
+ "subtitle": "referitoare la excepția de neconstituționalitate a Ordonanței de urgență a Guvernului nr. 59/2017 privind modificarea și completarea unor acte normative din domeniul pensiilor de serviciu, în ansamblul său, precum și a dispozițiilor art. VII pct. 2 și 3 din această ordonanță de urgență, în special",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "815",
+  "bis": false,
+  "date": "2025-09-03",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "252/83/2023",
+  "1.651D/2023",
+  "393/83/2023",
+  "301/83/2023"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 59/2017",
+    "number": "59",
+    "year": "2017",
+    "path": "oug/2017/59"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Daniel Olteanu, Marinel Dumitru Mag, Octavian Ioan Berințan, Teodor Airinei, Ioan Chioran, Ioan Țîrtiu, Sorin Radu Brădeanu, Cătălin Benea, Mircea Agoston, Marinel Hendea, Robert Radvanyi, Gheorghe Dan Moisa, Răzvan-Sebastian Agoston, Dan Gozman-Pop, Călin-Augustin Sfâra, Mihai Ștefan Pintea, Alexandru Gheorghe Potroviță, Marius Dorel Radu, Ioan Condor, Vasile-Daniel Maxim, Ioan Florin Oneț, Nicolae Turău, Ovidiu Cristian Volcovinschi, Mircea Miron, Ioan Octavian Văleanu, Felician Alexandru Marinescu, Vasile Roman, Traian Ardelean, Vasile Mașlinca, Costel Dolhăscu, Costică Dascălu, Silviu Costescu, Gheorghe Liviu Gliga, Vasile Radu Chiș, Iuliu Bute, Marinel Fănel Tutueanu, Vasile Stan, Vasile Iosif Kovari, Dănuț Radu Pintea, Maria Pop și Maria Bozintan în dosarele nr. 284/83/2023, nr. 293/83/2023, nr. 283/83/2023, nr. 260/83/2023, nr. 314/83/2023, nr. 292/83/2023, nr. 318/83/2023, nr. 257/83/2023, nr. 251/83/2023, nr. 274/83/2023, nr. 280/83/2023, nr. 278/83/2023, nr. 252/83/2023, nr. 303/83/2023, nr. 244/83/2023, nr. 270/83/2023, nr. 272/83/2023, nr. 277/83/2023, nr. 232/83/2023, nr. 269/83/2023, nr. 291/83/2023, nr. 273/83/2023, nr. 233/83/2023, nr. 243/83/2023, nr. 279/83/2023, nr. 281/83/2023, nr. 316/83/2023, nr. 312/83/2023, nr. 315/83/2023, nr. 317/83/2023, nr. 393/83/2023 și nr. 301/83/2023 ale Tribunalului Satu Mare - Secția I civilă și constată că Ordonanța de urgență a Guvernului nr. 59/2017 privind modificarea și completarea unor acte normative din domeniul pensiilor de serviciu, în ansamblul său, precum și dispozițiile art. VII pct. 2 și 3 din această ordonanță de urgență, în special, sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului Satu Mare - Secția I civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 59/2017",
+    "number": "59",
+    "year": "2017",
+    "path": "oug/2017/59"
+   },
+   "articles": [
+    {
+     "art": "VII",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "79",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "115",
+     "alin": [
+      "4",
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "47",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 18
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 223/2015",
+    "number": "223",
+    "year": "2015",
+    "path": "lege/2015/223"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2025-09-03",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/301852",
+  "text_sha256": "0b8460ec9035d94aadbc30c95c6376a6db3760a569bd4f0560870987b5670dc4",
+  "catalogue_sha256": "0b8460ec9035d94aadbc30c95c6376a6db3760a569bd4f0560870987b5670dc4",
+  "fetched": "2026-11-03T00:54:47Z",
+  "chars": 21296,
+  "portal_id": "301852",
+  "tip": "DECIZIE"
+ }
+}
