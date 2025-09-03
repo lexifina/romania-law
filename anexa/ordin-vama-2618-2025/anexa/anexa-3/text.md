@@ -1,0 +1,29 @@
+# Anexa 3
+Anexa nr. 3
+la norme
+Nr. ......... data ............
+DECLARAȚIE SPECIALĂ DE TVA
+pentru declararea și plata TVA la import în cadrul mecanismului special,
+prevăzut la art. 315^3 din Legea nr. 227/2015 privind Codul fiscal ,
+cu modificările și completările ulterioare
+Societatea ........................, înregistrată în scopuri de TVA cu nr. ........................, titular al Autorizației pentru utilizarea mecanismului special pentru declararea și plata TVA la import nr. ................................. din data de ......................., declar prin prezenta că am plătit în contul nr. ...................... al Biroului Vamal ...................... suma de ...................... lei, reprezentând cuantumul total al taxei pe valoarea adăugată încasate în luna ............... anul ............. .
+Anexat prezentei declarații se regăsesc copia dovezii efectuării plății și tabelul centralizator care cuprinde un număr de ....... înregistrări reprezentând informații din toate declarațiile de punere în liberă circulație a bunurilor depuse în luna ................ anul ............, la Biroul Vamal ............., în contul destinatarilor, prin utilizarea mecanismului special pentru declararea și plata TVA la import, prevăzut la art. 315^3 din Legea nr. 227/2015 privind Codul fiscal , cu modificările și completările ulterioare.
+Numele și prenumele ...............................
+Funcția ................................................
+Codul numeric personal ..............................
+Semnătura .................................
+ANEXĂ
+la Declarația specială de TVA pentru declararea și plata TVA la import în cadrul mecanismului special nr. ...... data. ..........
+Nr. crt.
+MRN declarație vamală de PLC
+Data acordării liberului de vamă
+Număr de identificare destinatar
+TVA declarat
+TVA încasat
+Observații*
+1
+2
+3
+.....
+* În cazurile în care TVA declarat nu coincide cu TVA încasat se vor înscrie motivele diferenței dintre aceste valori.
+-----
