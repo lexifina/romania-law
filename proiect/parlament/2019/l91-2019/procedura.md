@@ -13,6 +13,7 @@ Initiator: Membri ai Parlamentului.
 - 2018-12-11: documents published: Aviz Consiliul Economic și Social, Aviz Consiliul Legislativ
 - 2019-03-25: rejected by the Senate; documents published: Adresă către Camera Deputaților
 - 2019-03-27: registered at the Chamber of Deputies
+- 2025-09-03: documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -22,3 +23,4 @@ Initiator: Membri ai Parlamentului.
 - 2018-12-11: Aviz Consiliul Economic și Social (ES): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L091ES.PDF
 - 2018-12-11: Aviz Consiliul Legislativ (LG): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L091LG.PDF
 - 2019-03-25: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L091AM.PDF
+- 2025-09-03: Document (AA): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L091AA.PDF (its day is not given by the bill file: shown from the last stage held)
