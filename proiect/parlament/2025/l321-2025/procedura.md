@@ -12,6 +12,7 @@ Initiator: Guvernul României.
 
 - 2025-05-12: registered at the Chamber of Deputies
 - 2025-05-21: documents published: Raport comisie sesizată pe fond
+- 2025-09-03: adopted by the Chamber of Deputies
 
 ## Documents
 
