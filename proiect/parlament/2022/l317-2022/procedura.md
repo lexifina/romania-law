@@ -22,6 +22,7 @@ Initiator: Membri ai Parlamentului.
 - 2023-03-04: sent for promulgation
 - 2023-06-30: returned for re-examination
 - 2023-10-09: rejected by the Senate
+- 2025-09-04: documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -37,3 +38,8 @@ Initiator: Membri ai Parlamentului.
 - 2022-06-22: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L317AM.PDF
 - 2023-02-27: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L317AXS.PDF
 - 2023-02-27: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L317LP.PDF
+- 2025-09-04: Document (SC1): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L317SC1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-09-04: Document (SC2): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L317SC2.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-09-04: Document (DC1): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L317DC1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-09-04: Document (RC1): [rc1-40aa319a.md](rc1-40aa319a.md); official file https://www.senat.ro/legis/PDF/2022/22L317RC1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-09-04: Document (XD1): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L317XD1.PDF (its day is not given by the bill file: shown from the last stage held)
