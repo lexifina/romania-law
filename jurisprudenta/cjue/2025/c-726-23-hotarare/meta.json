@@ -1,0 +1,57 @@
+{
+ "key": "cjue-c-726-23-hotarare-2025-09-04",
+ "label": "CJUE, Hotărârea Curții (Camera întâi) din 4 septembrie 2025, Cauza C-726/23",
+ "court": "cjue",
+ "court_name": "Curtea de Justiție a Uniunii Europene",
+ "kind": "hotarare",
+ "act_type": "JUDG",
+ "date": "2025-09-04",
+ "year": "2025",
+ "case": "Cauza C-726/23",
+ "celex": "62023CJ0726",
+ "ecli": "ECLI:EU:C:2025:646",
+ "heading": "Hotărârea Curții (Camera întâi) din 4 septembrie 2025",
+ "formation": "CHAMB_01_C",
+ "procedure": "REFER_PREL",
+ "romania_role": [
+  "originates"
+ ],
+ "referred_by": null,
+ "referral_text": "Cererea de decizie preliminară formulată de Curtea de Apel Bucureşti",
+ "national_followup": [
+  "Curtea de Apel Bucureşti, încheiere din 16/09/2021 (16945/3/2016)"
+ ],
+ "parties": null,
+ "parties_withheld": true,
+ "keywords": "Trimitere preliminară – Fiscalitate – Sistemul comun al taxei pe valoarea adăugată (TVA) – Directiva 2006/112/CE – Sfera de aplicare a TVA‑ului – Articolul 2 alineatul (1) litera (c) – Noțiunea de «prestare de servicii efectuată cu titlu oneros» – Servicii comerciale furnizate în cadrul aceluiași grup de societăți – Preț de transfer – Articolele 168 și 178 – Drept de deducere a TVA‑ului – Documente justificative",
+ "interprets": [
+  {
+   "celex": "32006L0112",
+   "folder": "ue/directiva/2006/112"
+  }
+ ],
+ "text": "dispozitiv.md",
+ "text_withheld": "personal_data",
+ "withheld_reason": "The full text names the parties' lawyers (and, in older cases, private parties); only the metadata and the operative part are published here, with the official link.",
+ "operative_missing": false,
+ "eurlex_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62023CJ0726",
+ "curia_url": "https://curia.europa.eu/juris/liste.jsf?num=C-726/23&language=ro",
+ "source": {
+  "name": "CELLAR, Publications Office of the European Union",
+  "url": "http://publications.europa.eu/resource/cellar/6fa11202-896e-11f0-9af8-01aa75ed71a1.0002.05/DOC_1",
+  "format": "xhtml",
+  "sha256": [
+   "a14122599f7b4e855b2a6e8f93b36cdabec876768f2243457f0b1315a8d0d2bc"
+  ]
+ },
+ "legal_basis": "Jurisprudența Curții de Justiție a Uniunii Europene (texte oficiale; reutilizare permisă cu menționarea sursei: Decizia Comisiei 2011/833/UE și condițiile CURIA; © Uniunea Europeană). Textele oficiale nu sunt protejate de dreptul de autor în România (Legea nr. 8/1996, art. 9 lit. b).",
+ "attribution": "© European Union, https://eur-lex.europa.eu (via the Publications Office CELLAR)",
+ "operative": [
+  "Pentru aceste motive, Curtea (Camera întâi) declară:",
+  "1) Articolul 2 alineatul (1) litera (c) din Directiva 2006/112/CE a Consiliului din 28 noiembrie 2006 privind sistemul comun al taxei pe valoarea adăugată, astfel cum a fost modificată prin Directiva 2010/45/UE a Consiliului din 13 iulie 2010,",
+  "trebuie interpretat în sensul că",
+  "remunerarea serviciilor intragrup furnizate de o societate‑mamă filialei sale și detaliate contractual, care este calculată conform unei metode recomandate de principiile aplicabile în materia prețurilor de transfer adoptate de Organizația pentru Cooperare și Dezvoltare Economică (OCDE) și corespunde părții din marja de profit operațională care depășește 2,74 % realizată de această filială, constituie contrapartida unei prestări de servicii efectuate cu titlu oneros care intră în sfera de aplicare a taxei pe valoarea adăugată.",
+  "2) Articolele 168 și 178 din Directiva 2006/112, astfel cum a fost modificată prin Directiva 2010/45, trebuie interpretate în sensul că",
+  "nu se opun ca administrația fiscală să solicite unei persoane impozabile care cere deducerea taxei pe valoarea adăugată achitate în amonte prezentarea altor documente decât factura pentru a dovedi existența serviciilor menționate pe această factură și utilizarea lor în scopul operațiunilor taxabile ale respectivei persoane impozabile, cu condiția ca prezentarea acestor probe să fie necesară și proporțională în acest scop."
+ ]
+}
