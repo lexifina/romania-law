@@ -13,6 +13,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-10-28: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 - 2020-11-16: documents published: Aviz comisie
 - 2025-07-01: documents published: Raport comisie sesizată pe fond
+- 2025-09-08: adopted by the Senate; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -21,3 +22,4 @@ Initiator: Membri ai Parlamentului.
 - 2020-10-28: Expunere de motive (EM): [em-06dd971c.md](em-06dd971c.md); official file https://www.senat.ro/legis/PDF/2020/20L674EM.PDF
 - 2020-11-16: Aviz comisie (CA41): [ca41-4fd87fc2.md](ca41-4fd87fc2.md); official file https://www.senat.ro/legis/PDF/2020/20L674CA41.PDF
 - 2025-07-01: Raport comisie sesizată pe fond (CR): [cr-8ba0011a.md](cr-8ba0011a.md); official file https://www.senat.ro/legis/PDF/2020/20L674CR.PDF
+- 2025-09-08: Document (ARD): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L674ARD.PDF (its day is not given by the bill file: shown from the last stage held)
