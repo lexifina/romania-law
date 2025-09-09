@@ -11,6 +11,7 @@ Initiator: Membri ai Parlamentului.
 - 2025-06-18: first record in the bill file
 - 2025-06-24: documents published: Aviz Consiliul Legislativ, Aviz Consiliul Economic și Social, Punct de vedere, Punct de vedere Guvern
 - 2025-07-15: registered at the Senate
+- 2025-09-09: documents published: Aviz comisie
 
 ## Documents
 
@@ -18,3 +19,4 @@ Initiator: Membri ai Parlamentului.
 - 2025-06-24: Aviz Consiliul Economic și Social (ES): [es-3996f3ca.md](es-3996f3ca.md); official file https://www.senat.ro/legis/PDF/2025/25L497ES.PDF
 - 2025-06-24: Punct de vedere (PV): [pv-a9b22b32.md](pv-a9b22b32.md); official file https://www.senat.ro/legis/PDF/2025/25L497PV.PDF
 - 2025-06-24: Punct de vedere Guvern (SJ): not held as text; official file https://www.senat.ro/legis/PDF/2025/25L497SJ.PDF
+- 2025-09-09: Aviz comisie (CA45): [ca45-ae2e1559.md](ca45-ae2e1559.md); official file https://www.senat.ro/legis/PDF/2025/25L497CA45.PDF
