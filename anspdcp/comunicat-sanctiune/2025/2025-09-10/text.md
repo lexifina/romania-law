@@ -1,0 +1,10 @@
+Amendă pentru încălcarea Legii nr. 506/2004
+Autoritatea Națională de Supraveghere a Prelucrării Datelor cu Caracter Personal a finalizat o investigație, în luna august 2025, la operatorul Lenjeria Magică SRL și a constatat încălcarea dispozițiilor art. 4 alin. (5) lit. a) și b) din Legea nr. 506/2004 privind prelucrarea datelor cu caracter personal și protecția vieții private în sectorul comunicațiilor electronice.
+Ca atare, operatorul a fost sancționat contravențional cu amendă în cuantum de 15.000 lei.
+Investigația a fost demarată ca urmare a unei sesizări prin care s-a reclamat o posibilă încălcare a dispozițiilor Regulamentului (UE) 2016/679 și a Legii nr. 506/2004.
+În cadrul investigației, Autoritatea Națională de Supraveghere a Prelucrării Datelor cu Caracter Personal a constatat că pe site-ul deținut de operator au fost stocate module cookies care nu erau necesare din punct de vedere tehnic pe echipamentele utilizatorilor, fără o informare clară a existenței acestora și fără a exista consimțământul explicit al persoanelor vizate, începând cu data de 15.04.2025.
+În acest context, operatorul a fost sancționat cu amendă pentru încălcarea prevederilor art. 4 alin. (5) lit. a) și b) din Legea nr. 506/2004 privind prelucrarea datelor cu caracter personal și protecția vieții private în sectorul comunicațiilor electronice, în temeiul art. 13 alin. (1) lit. i) și alin. (2) din același act normativ, care prevede:
+”Art. 13 (1) Constituie contravenții următoarele fapte: (…) i) nerespectarea condițiilor prevăzute la art. 4 alin. (5) (…).
+(2) Contravențiile prevăzute la alin. (1) lit. a)-l), n), o) și q) se sancționează cu amendă de la 5.000 lei la 100.000 lei, iar pentru societățile comerciale cu o cifră de afaceri de peste 5.000.000 lei, prin derogare de la dispozițiile Ordonanței Guvernului nr. 2/2001 privind regimul juridic al contravențiilor, aprobată cu modificări și completări prin Legea nr. 180/2002, cu modificările și completările ulterioare, cu amendă în cuantum de până la 2% din cifra de afaceri.
+Direcția juridică și comunicare
+A.N.S.P.D.C.P.
