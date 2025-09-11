@@ -1,0 +1,416 @@
+{
+ "key": "iccj-ril-16-2025",
+ "label": "Decizia ÎCCJ nr. 16/2025 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "16",
+ "date": "2025-06-30",
+ "year": "2025",
+ "heading": "DECIZIA nr. 16 din 30 iunie 2025",
+ "subtitle": "referitoare la interpretarea și aplicarea unitară a dispozițiilor art. 413 alin. (1) pct. 1 și 2 din Codul de procedură civilă raportat la cele ale art. 46 alin. (3), art. 49 alin. (5) și (7) din Legea nr. 317/2004 privind Consiliul Superior al Magistraturii, republicată, cu modificările și completările ulterioare",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU SOLUȚIONAREA RECURSULUI ÎN INTERESUL LEGII",
+ "mo": {
+  "number": "840",
+  "bis": false,
+  "date": "2025-09-11",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "1.057/1/2025"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "413",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 317/2004",
+    "number": "317",
+    "year": "2004",
+    "path": "lege/2004/317"
+   },
+   "articles": [
+    {
+     "art": "46",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "49",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 305/2022",
+    "number": "305",
+    "year": "2022",
+    "path": "lege/2022/305"
+   },
+   "articles": [
+    {
+     "art": "47",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "49",
+     "alin": [
+      "12"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Admite recursul în interesul legii formulat de Colegiul de conducere al Înaltei Curți de Casație și Justiție și, în consecință, stabilește că: În interpretarea și aplicarea unitară a dispozițiilor art. 413 alin. (1) pct. 1 și 2 din Codul de procedură civilă raportat la cele ale art. 46 alin. (3), art. 49 alin. (5) și (7) din Legea nr. 317/2004 privind Consiliul Superior al Magistraturii, republicată, cu modificările și completările ulterioare, precum și ale art. 47 alin. (3), art. 49 alin. (12) și (14) din Legea nr. 305/2022 privind Consiliul Superior al Magistraturii, în procedurile disciplinare soluționate în fața secțiilor Consiliului Superior al Magistraturii pot fi aplicate dispozițiile art. 413 din Codul de procedură civilă referitoare la suspendarea facultativă a cauzelor.",
+  "Obligatorie, potrivit dispozițiilor art. 517 alin. (4) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "413",
+     "alin": [
+      "1",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "411",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "412",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "509",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "510",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "511",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "512",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "513",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "514",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "515",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "22",
+     "alin": [
+      "7"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 55
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 317/2004",
+    "number": "317",
+    "year": "2004",
+    "path": "lege/2004/317"
+   },
+   "articles": [
+    {
+     "art": "46",
+     "alin": [
+      "3",
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "49",
+     "alin": [
+      "5",
+      "7",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "51",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "45",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 18
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 305/2022",
+    "number": "305",
+    "year": "2022",
+    "path": "lege/2022/305"
+   },
+   "articles": [
+    {
+     "art": "47",
+     "alin": [
+      "3",
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "49",
+     "alin": [
+      "12",
+      "14"
+     ],
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 22
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "413",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "134",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "124",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2022",
+    "number": "304",
+    "year": "2022",
+    "path": "lege/2022/304"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 7",
+    "path": null,
+    "slug": "conventia-edo-protocolul-7"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul muncii",
+    "path": "lege/2003/53",
+    "slug": "codul-muncii"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "63",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-09-11",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/302009",
+  "text_sha256": "47c3c10dde02b4cf75319c74398a5bc2545d65e88b087ba832ebd5fee9d353c9",
+  "catalogue_sha256": "47c3c10dde02b4cf75319c74398a5bc2545d65e88b087ba832ebd5fee9d353c9",
+  "fetched": "2026-11-03T21:08:27Z",
+  "chars": 56333,
+  "portal_id": "302009",
+  "tip": "DECIZIE"
+ }
+}
