@@ -1,0 +1,255 @@
+{
+ "key": "iccj-hp-281-2025",
+ "label": "Decizia ÎCCJ nr. 281/2025 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "281",
+ "date": "2025-06-30",
+ "year": "2025",
+ "heading": "DECIZIA nr. 281 din 30 iunie 2025",
+ "subtitle": "referitoare la recuperarea prejudiciului cauzat reclamantului, beneficiar al indemnizației pentru limită de vârstă, începând cu data încetării plății acesteia prin efectul Legii nr. 7/2021 pentru modificarea Legii nr. 96/2006 privind Statutul deputaților și al senatorilor",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "843",
+  "bis": false,
+  "date": "2025-09-12",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "3.064/1/2024",
+  "416/103/2024"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 7/2021",
+    "number": "7",
+    "year": "2021",
+    "path": "lege/2021/7"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Tribunalul Neamț - Secția I civilă și de contencios administrativ în Dosarul nr. 416/103/2024, în vederea pronunțării unei hotărâri prealabile cu privire la următoarea chestiune de drept:",
+  "Se impune recuperarea prejudiciului cauzat reclamantului, beneficiar al indemnizației pentru limită de vârstă, începând cu data încetării plătii acesteia prin efectul Legii nr. 7/2021 pentru modificarea Legii nr. 96/2006 privind Statutul deputaților și al senatorilor, declarată neconstituțională prin Decizia Curții Constituționale nr. 261 din 5 mai 2022, publicată în Monitorul Oficial al României, Partea I, nr. 570 din 10 iunie 2022, în mod similar cu cele statuate de Curtea Constituțională prin Decizia nr. 678 din 28 noiembrie 2023, publicată în Monitorul Oficial al României, Partea I, nr. 1119 din 12 decembrie 2023 (paragraful 57)?",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 62/2024",
+    "number": "62",
+    "year": "2024",
+    "path": "oug/2024/62"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 7/2021",
+    "number": "7",
+    "year": "2021",
+    "path": "lege/2021/7"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 22
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 96/2006",
+    "number": "96",
+    "year": "2006",
+    "path": "lege/2006/96"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "49",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "50",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 263/2010",
+    "number": "263",
+    "year": "2010",
+    "path": "lege/2010/263"
+   },
+   "articles": [
+    {
+     "art": "49",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "152",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 192/2023",
+    "number": "192",
+    "year": "2023",
+    "path": "lege/2023/192"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea contenciosului administrativ nr. 554/2004",
+    "number": "554",
+    "year": "2004",
+    "path": "lege/2004/554"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituția României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "147",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-09-12",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/302034",
+  "text_sha256": "39ce8cf35bb0c77203ee4f83b02775bc6cf63f9b24d6d19a6a8467ef7ff33669",
+  "catalogue_sha256": "39ce8cf35bb0c77203ee4f83b02775bc6cf63f9b24d6d19a6a8467ef7ff33669",
+  "fetched": "2026-11-03T00:54:34Z",
+  "chars": 43479,
+  "portal_id": "302034",
+  "tip": "DECIZIE"
+ }
+}
