@@ -1,0 +1,17 @@
+# Propunere legislativă L422/2025
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Propunere legislativă pentru completarea art.154 alin.(1) din Legea nr.227/2015 privind Codul fiscal
+
+Initiator: Membri ai Parlamentului.
+
+## Stages published so far
+
+- 2025-09-15: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
+
+## Documents
+
+- 2025-09-15: Adresă de înaintare a inițiativei (AD): [ad-9c06eb38.md](ad-9c06eb38.md); official file https://www.senat.ro/legis/PDF/2025/25L422AD.PDF
+- 2025-09-15: Forma inițiatorului (FG): [fg-834f59ad.md](fg-834f59ad.md); official file https://www.senat.ro/legis/PDF/2025/25L422FG.PDF
+- 2025-09-15: Expunere de motive (EM): [em-397b1688.md](em-397b1688.md); official file https://www.senat.ro/legis/PDF/2025/25L422EM.PDF
