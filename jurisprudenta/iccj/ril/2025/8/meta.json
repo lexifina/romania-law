@@ -1,0 +1,273 @@
+{
+ "key": "iccj-ril-8-2025",
+ "label": "Decizia ÎCCJ nr. 8/2025 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "8",
+ "date": "2025-06-16",
+ "year": "2025",
+ "heading": "DECIZIA nr. 8 din 16 iunie 2025",
+ "subtitle": "referitoare la competența lucrătorilor poliției judiciare din cadrul Direcției Generale Anticorupție",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU SOLUȚIONAREA RECURSULUI ÎN INTERESUL LEGII",
+ "mo": {
+  "number": "850",
+  "bis": false,
+  "date": "2025-09-16",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "531/1/2025"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "O.U.G. nr. 120/2005",
+    "number": "120",
+    "year": "2005",
+    "path": "oug/2005/120"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Admite recursul în interesul legii formulat de Colegiul de conducere al Curții de Apel Alba Iulia și stabilește că:",
+  "Lucrătorii poliției judiciare din cadrul Direcției Generale Anticorupție au competența să efectueze, prin delegare, în condițiile prevăzute de lege, actele de cercetare penală dispuse de procurorul competent exclusiv în cauzele privind infracțiunile prevăzute de art. 1 alin. (2) din O.U.G. nr. 120/2005.",
+  "Obligatorie, potrivit dispozițiilor art. 474 alin. (4) din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "OUG nr. 120/2005",
+    "number": "120",
+    "year": "2005",
+    "path": "oug/2005/120"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 28
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "324",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "201",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "200",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "56",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "281",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "473",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "57",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "471",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "472",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "325",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 28
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 30/2007",
+    "number": "30",
+    "year": "2007",
+    "path": "oug/2007/30"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 161/2005",
+    "number": "161",
+    "year": "2005",
+    "path": "lege/2005/161"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "207",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 78/2016",
+    "number": "78",
+    "year": "2016",
+    "path": "oug/2016/78"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 104/2001",
+    "number": "104",
+    "year": "2001",
+    "path": "oug/2001/104"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": null,
+     "lit": [
+      "u"
+     ]
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 324/2013",
+    "number": "324",
+    "year": "2013",
+    "path": "lege/2013/324"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 59/2013",
+    "number": "59",
+    "year": "2013",
+    "path": "oug/2013/59"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-09-16",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/302306",
+  "text_sha256": "d3b1b16377ea31232933f5287a7ae0307dda2ad6690767722b6c28bce117300b",
+  "catalogue_sha256": "d3b1b16377ea31232933f5287a7ae0307dda2ad6690767722b6c28bce117300b",
+  "fetched": "2026-11-03T00:54:34Z",
+  "chars": 58189,
+  "portal_id": "302306",
+  "tip": "DECIZIE"
+ }
+}
