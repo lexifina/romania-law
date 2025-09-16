@@ -1,0 +1,303 @@
+{
+ "key": "iccj-ril-10-2025",
+ "label": "Decizia ÎCCJ nr. 10/2025 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "10",
+ "date": "2025-06-23",
+ "year": "2025",
+ "heading": "DECIZIA nr. 10 din 23 iunie 2025",
+ "subtitle": "referitoare la interpretarea și aplicarea unitară a dispozițiilor art. 354, art. 357, art. 391 și 392, art. 395, art. 405 și art. 406 din Codul de procedură penală",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU SOLUȚIONAREA RECURSULUI ÎN INTERESUL LEGII",
+ "mo": {
+  "number": "848",
+  "bis": false,
+  "date": "2025-09-16",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "760/1/2025"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "354",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "357",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "391",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "392",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "395",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "405",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "406",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite recursul în interesul legii formulat de procurorul general al Parchetului de pe lângă Înalta Curte de Casație și Justiție. În interpretarea și aplicarea unitară a dispozițiilor art. 354, art. 357, art. 391 și 392, art. 395, art. 405 și art. 406 din Codul de procedură penală stabilește că:",
+  "Judecătorul care a închis dezbaterile, rămânând în pronunțare cu privire la soluția asupra fondului acțiunii penale, nu este obligat să ia parte la deliberare, să redacteze și să pronunțe hotărârea în ipoteza în care, ulterior închiderii dezbaterilor, a fost transferat, delegat, detașat sau, după caz, a promovat efectiv la instanța superioară, întrucât nu mai este judecător al instanței respective.",
+  "Obligatorie, potrivit dispozițiilor art. 474 alin. (4) din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "354",
+     "alin": [
+      "3",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "357",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "391",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "392",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "395",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "405",
+     "alin": [
+      "3",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "406",
+     "alin": [
+      "3",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "375",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "377",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "394",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "473",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "351",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "471",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "472",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "388",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "400",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "19",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "453",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "281",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 49
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "395",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "398",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 28
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenție",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": [
+      "12"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-09-16",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/302067",
+  "text_sha256": "0880d1e8e979ad2cc0b911bc6eb3c85358c7671bd47a59c6a9d3b72d26eb4a59",
+  "catalogue_sha256": "0880d1e8e979ad2cc0b911bc6eb3c85358c7671bd47a59c6a9d3b72d26eb4a59",
+  "fetched": "2026-11-03T00:54:34Z",
+  "chars": 76843,
+  "portal_id": "302067",
+  "tip": "DECIZIE"
+ }
+}
