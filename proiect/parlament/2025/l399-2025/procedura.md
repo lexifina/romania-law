@@ -9,7 +9,8 @@ Initiator: Membri ai Parlamentului.
 ## Stages published so far
 
 - 2025-06-23: registered at the Chamber of Deputies
+- 2025-09-16: documents published: Raport comisie sesizată pe fond
 
 ## Documents
 
-- none held as text
+- 2025-09-16: Raport comisie sesizată pe fond (CR): [cr-89e04049.md](cr-89e04049.md); official file https://www.senat.ro/legis/PDF/2025/25L399CR.PDF
