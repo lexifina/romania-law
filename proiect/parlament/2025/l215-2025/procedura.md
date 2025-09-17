@@ -13,6 +13,7 @@ Initiator: Guvernul României.
 - 2025-08-25: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
 - 2025-09-09: documents published: Aviz comisie, Raport comisie sesizată pe fond
 - 2025-09-15: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților
+- 2025-09-17: registered at the Chamber of Deputies
 
 ## Documents
 
