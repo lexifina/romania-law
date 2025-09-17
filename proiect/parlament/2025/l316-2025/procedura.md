@@ -12,6 +12,7 @@ Initiator: Guvernul României.
 
 - 2025-09-04: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
 - 2025-09-16: documents published: Aviz comisie
+- 2025-09-17: documents published: Aviz comisie
 
 ## Documents
 
@@ -22,3 +23,6 @@ Initiator: Guvernul României.
 - 2025-09-04: Document (HG): [hg-6137e000.md](hg-6137e000.md); official file https://www.senat.ro/legis/PDF/2025/25L316HG.PDF
 - 2025-09-16: Aviz comisie (CA12): [ca12-24a4b612.md](ca12-24a4b612.md); official file https://www.senat.ro/legis/PDF/2025/25L316CA12.PDF
 - 2025-09-16: Aviz comisie (CA92): [ca92-5c79a2cf.md](ca92-5c79a2cf.md); official file https://www.senat.ro/legis/PDF/2025/25L316CA92.PDF
+- 2025-09-17: Aviz comisie (CA45): [ca45-02eee43e.md](ca45-02eee43e.md); official file https://www.senat.ro/legis/PDF/2025/25L316CA45.PDF
+- 2025-09-17: Aviz comisie (CA60): [ca60-a79486d1.md](ca60-a79486d1.md); official file https://www.senat.ro/legis/PDF/2025/25L316CA60.PDF
+- 2025-09-17: Aviz comisie (CA8): [ca8-8b649c82.md](ca8-8b649c82.md); official file https://www.senat.ro/legis/PDF/2025/25L316CA8.PDF
