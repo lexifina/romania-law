@@ -1,0 +1,261 @@
+{
+ "key": "iccj-hp-280-2025",
+ "label": "Decizia ÎCCJ nr. 280/2025 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "280",
+ "date": "2025-06-30",
+ "year": "2025",
+ "heading": "DECIZIA nr. 280 din 30 iunie 2025",
+ "subtitle": "referitoare la interpretarea dispozițiilor prevăzute de pct. 1 subpct. 1.4 poziția 14 capitolul I din anexa nr. II la Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, cu modificările și completările ulterioare",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "851",
+  "bis": false,
+  "date": "2025-09-17",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "3.035/1/2024",
+  "462/84/2024"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 128/2023",
+    "number": "128",
+    "year": "2023",
+    "path": "oug/2023/128"
+   },
+   "articles": [
+    {
+     "art": "III",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "V",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Tribunalul Sălaj - Secția civilă în Dosarul nr. 462/84/2024, privind pronunțarea unei hotărâri prealabile cu privire la următoarea chestiune de drept: Dacă în interpretarea dispozițiilor prevăzute de pct. 1 subpct. 1.4 poziția 14 capitolul I din anexa nr. II la Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, cu modificările și completările ulterioare, privind majorarea de 7,5% pentru activitatea de control în sănătate publică coroborate cu dispozițiile prevăzute de art. III pct. 3 și 4 din Ordonanța de urgență a Guvernului nr. 128/2023 pentru unele măsuri referitoare la salarizarea personalului din învățământ și alte sectoare de activitate bugetară și având în vedere prevederile art. V alin. (1) din Ordonanța de urgență a Guvernului nr. 128/2023 care limitează aplicarea tranșelor aferente diferențelor salariale la salariul de bază aferent lunii decembrie, fără a depăși salariile aflate în plată în structurile supraordonate, poate fi acordată în continuare această majorare funcționarilor publici din cadrul direcțiilor de sănătate publică județene, care efectuează în concret activități de control în sănătate publică, după stabilirea salariului de bază al acestora la nivelul salariului de bază al inspectorilor din cadrul Ministerului Sănătății.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 62/2024",
+    "number": "62",
+    "year": "2024",
+    "path": "oug/2024/62"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "38",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": null,
+     "lit": [
+      "m"
+     ]
+    }
+   ],
+   "mentions": 22
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 128/2023",
+    "number": "128",
+    "year": "2023",
+    "path": "oug/2023/128"
+   },
+   "articles": [
+    {
+     "art": "III",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "V",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "VI",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "IV",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 27
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 115/2023",
+    "number": "115",
+    "year": "2023",
+    "path": "oug/2023/115"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul ministrului sănătății nr. 1.078/2010",
+    "number": "1078",
+    "year": "2010"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 95/2006",
+    "number": "95",
+    "year": "2006",
+    "path": "lege/2006/95"
+   },
+   "articles": [
+    {
+     "art": "27",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-09-17",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/302324",
+  "text_sha256": "6e48ba3321a15d6475e122252a57314c83a49c86ab73c19849dcbe59f2730491",
+  "catalogue_sha256": "6e48ba3321a15d6475e122252a57314c83a49c86ab73c19849dcbe59f2730491",
+  "fetched": "2026-11-03T00:54:32Z",
+  "chars": 45188,
+  "portal_id": "302324",
+  "tip": "DECIZIE"
+ }
+}
