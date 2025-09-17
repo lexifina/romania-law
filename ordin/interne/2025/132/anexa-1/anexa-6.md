@@ -1,0 +1,13 @@
+# Anexa nr. 6 la metodologie
+MINISTERUL AFACERILOR INTERNE
+Direcția generală permise de conducere și înmatriculări
+Atelierul de confecționat plăci cu numere de înmatriculare al județului..........
+PROCES-VERBAL de constatare a rebuturilor de confecționare
+Nr........... din..........
+În conformitate cu art. 21 lit. b) și art. 23 din Metodologia privind confecționarea și valorificarea plăcilor cu numere de înmatriculare cu fond reflectorizant, precum și aprovizionarea cu acestea în formă brută, aprobată prin Ordinul ministrului afacerilor interne nr. 132/2025, în timpul procesului de confecționare al comenzilor/comenzii nr.:.................. (executată de............);.................. (executată de............), am constatat că la ambutisarea plăcilor cu numere de înmatriculare tip...... a/au fost rebutată/rebutate........ placă/plăci tip......., fiind neuniformă/neuniforme la presare/neconformă/neconforme cu numărul/numerele comandat/comandate/nu au fost încadrate corect înscrisurile în raport cu suprafața și dimensiunile plăcii, la prețul de...... lei.
+Seria/Seriile rebutată/rebutate este/sunt:.................
+Rebuturile au fost constatate la recepția comenzilor menționate mai sus, drept care a fost solicitată o notă explicativă a lucrătorului/lucrătorilor.
+Prezentul proces-verbal a fost încheiat în 2 (două) exemplare, dintre care exemplarul nr. 1 se transmite la S.O.U.P.T., în vederea întocmirii procesului-verbal privind analizarea rebuturilor de confecționare rezultate lunar, iar exemplarul nr. 2 se păstrează la atelier.
+Atașez procesului-verbal de constatare transmis S.O.U.P.T. și nota explicativă a lucrătorului, precum și o copie a comenzii/comenzilor de lucru.
+Întocmit
+Responsabil atelier,.................

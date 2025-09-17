@@ -1,0 +1,16 @@
+# Anexa nr. 7 la metodologie
+MINISTERUL AFACERILOR INTERNE
+Direcția generală permise de conducere și înmatriculări
+Văzut
+Șef S.O.U.P.T.,........................
+PROCES-VERBAL de distrugere
+Nr........ din..........
+Anul......, luna....., ziua..... la sediul Direcției generale permise de conducere și înmatriculări din șoseaua Pipera nr. 49, sectorul 2, București
+Noi, comisia numită prin Dispoziția de zi pe unitate nr........... din............., formată din: -.............. - președinte;
+-............ - membru;
+-............ - membru, am procedat la distrugerea prin tăiere a unui număr de:............... plăci tip A;............... plăci tip B;............... plăci tip C;............... plăci tip D.
+În urma distrugerii prin tăiere a plăcilor cu numere de înmatriculare au rezultat...... kg aluminiu.
+Prezentul proces-verbal a fost întocmit în 3 (trei) exemplare, dintre care exemplarul nr. 1 se va transmite către structura Financiar din cadrul D.G.P.C.Î., exemplarul nr. 2 se transmite la atelier, în vederea operării în evidența tehnico-operativă, iar exemplarul nr. 3 se va transmite către S.O.U.P.T.
+Comisia de analiză a rebuturilor de confecționare: Președinte:.....................
+Membru:.......................
+Membru:.......................
