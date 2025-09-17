@@ -14,6 +14,7 @@ Initiator: Membri ai Parlamentului.
 - 2025-06-30: documents published: Aviz Consiliul Legislativ, Aviz Consiliul Economic și Social, Punct de vedere Guvern, Punct de vedere
 - 2025-07-15: registered at the Senate
 - 2025-09-09: documents published: Aviz comisie
+- 2025-09-17: registered at the Chamber of Deputies
 
 ## Documents
 
