@@ -1,0 +1,357 @@
+{
+ "key": "iccj-hp-272-2025",
+ "label": "Decizia ÎCCJ nr. 272/2025 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "272",
+ "date": "2025-06-30",
+ "year": "2025",
+ "heading": "DECIZIA nr. 272 din 30 iunie 2025",
+ "subtitle": "referitoare la interpretarea dispozițiilor art. 38 alin. (1) din Legea nr. 360/2002 privind Statutul polițistului, cu modificările și completările ulterioare",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "862",
+  "bis": false,
+  "date": "2025-09-19",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "214/1/2025",
+  "2.698/120/2023"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 360/2002",
+    "number": "360",
+    "year": "2002",
+    "path": "lege/2002/360"
+   },
+   "articles": [
+    {
+     "art": "38",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 95/2006",
+    "number": "95",
+    "year": "2006",
+    "path": "lege/2006/95"
+   },
+   "articles": [
+    {
+     "art": "230",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 677/2003",
+    "number": "677",
+    "year": "2003",
+    "path": "hg/2003/677"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 521/2023",
+    "number": "521",
+    "year": "2023",
+    "path": "hg/2023/521"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Admite sesizarea formulată de Curtea de Apel Ploiești - Secția I civilă în Dosarul nr. 2.698/120/2023, în vederea pronunțării unei hotărâri prealabile pentru dezlegarea unei chestiuni de drept și, în consecință, stabilește că:",
+  "În interpretarea dispozițiilor art. 38 alin. (1) din Legea nr. 360/2002 privind Statutul polițistului, cu modificările și completările ulterioare, art. 230 alin. (3) din Legea nr. 95/2006 privind reforma în domeniul sănătății, republicată, cu modificările și completările ulterioare, art. 1 alin. (1) și (4) din Hotărârea Guvernului nr. 677/2003 privind condițiile de acordare în mod gratuit a asistenței medicale și psihologice, a medicamentelor și protezelor pentru polițiști, cu modificările și completările ulterioare, art. 156-158 din anexa nr. 2 (contractul-cadru) la Hotărârea Guvernului nr. 521/2023 pentru aprobarea pachetelor de servicii și a Contractului-cadru care reglementează condițiile acordării asistenței medicale, a medicamentelor și a dispozitivelor medicale, în cadrul sistemului de asigurări sociale de sănătate, cu modificările și completările ulterioare, respectiv anexa nr. 36 a Ordinului ministrului sănătății și al președintelui Casei Naționale de Asigurări de Sănătate nr. 1.857/441/2023 privind aprobarea Normelor metodologice de aplicare a Hotărârii Guvernului nr. 521/2023 pentru aprobarea pachetelor de servicii și a Contractului cadru care reglementează condițiile acordării asistenței medicale, a medicamentelor și a dispozitivelor medicale în cadrul sistemului de asigurări sociale de sănătate, cu modificările și completările ulterioare, polițiștii pensionari beneficiază de medicamente gratuite în aceleași condiții cu polițiștii în funcție, conform regimului derogatoriu stabilit prin actele normative speciale aplicabile acestora, gratuitatea fiind limitată la pachetul de servicii de bază și condiționată de îndeplinirea cerințelor prevăzute în contractul-cadru și în normele sale de aplicare.",
+  "Obligatorie, potrivit art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 360/2002",
+    "number": "360",
+    "year": "2002",
+    "path": "lege/2002/360"
+   },
+   "articles": [
+    {
+     "art": "38",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 95/2006",
+    "number": "95",
+    "year": "2006",
+    "path": "lege/2006/95"
+   },
+   "articles": [
+    {
+     "art": "230",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "221",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "324",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 677/2003",
+    "number": "677",
+    "year": "2003",
+    "path": "hg/2003/677"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1",
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 696/2021",
+    "number": "696",
+    "year": "2021",
+    "path": "hg/2021/696"
+   },
+   "articles": [],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 521/2023",
+    "number": "521",
+    "year": "2023",
+    "path": "hg/2023/521"
+   },
+   "articles": [
+    {
+     "art": "158",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "156",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "157",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "154",
+     "alin": null,
+     "lit": [
+      "d"
+     ]
+    },
+    {
+     "art": "230",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "221",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "159",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "160",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 80/1995",
+    "number": "80",
+    "year": "1995",
+    "path": "lege/1995/80"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 150/2002",
+    "number": "150",
+    "year": "2002",
+    "path": "oug/2002/150"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 161/2016",
+    "number": "161",
+    "year": "2016",
+    "path": "hg/2016/161"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 62/2024",
+    "number": "62",
+    "year": "2024",
+    "path": "oug/2024/62"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 720/2008",
+    "number": "720",
+    "year": "2008",
+    "path": "hg/2008/720"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-09-19",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/302365",
+  "text_sha256": "430c526046799ee36f95da1981496f153c1810cb440bba5f6e010dcc49cc65a7",
+  "catalogue_sha256": "430c526046799ee36f95da1981496f153c1810cb440bba5f6e010dcc49cc65a7",
+  "fetched": "2026-11-03T00:54:28Z",
+  "chars": 46128,
+  "portal_id": "302365",
+  "tip": "DECIZIE"
+ }
+}
