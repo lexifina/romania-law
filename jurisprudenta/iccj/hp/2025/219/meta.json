@@ -1,0 +1,283 @@
+{
+ "key": "iccj-hp-219-2025",
+ "label": "Decizia ÎCCJ nr. 219/2025 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "219",
+ "date": "2025-06-16",
+ "year": "2025",
+ "heading": "DECIZIA nr. 219 din 16 iunie 2025",
+ "subtitle": "referitoare la salariul de încadrare și celelalte drepturi salariale ale unei persoane încadrate într-o funcție de execuție (consilier relații, gradul I, gradația 4) în cadrul Institutului Diplomatic Român",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "864",
+  "bis": false,
+  "date": "2025-09-22",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "350/1/2025",
+  "22.667/3/2021"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 500/2002",
+    "number": "500",
+    "year": "2002",
+    "path": "lege/2002/500"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 273/2006",
+    "number": "273",
+    "year": "2006",
+    "path": "lege/2006/273"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 78/2018",
+    "number": "78",
+    "year": "2018",
+    "path": "lege/2018/78"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Tribunalul București - Secția a VIII-a conflicte de muncă și asigurări sociale în Dosarul nr. 22.667/3/2021, în vederea pronunțării unei hotărâri prealabile cu privire la următoarele chestiuni de drept: a.",
+  "Dacă în anul 2021 salariul de încadrare și celelalte drepturi salariale ale unei persoane încadrate într-o funcție de execuție (consilier relații, gradul I, gradația 4) în cadrul Institutului Diplomatic Român se raportează la drepturile bănești și obligațiile prevăzute pentru membrii Corpului diplomatic și consular al României conform art. 36 din Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, cu modificările și completările ulterioare; b.",
+  "Dacă în anul 2021 salariul de încadrare și celelalte drepturi salariale ale unei persoane încadrate într-o funcție de execuție (consilier relații, gradul I, gradația 4) în cadrul Institutului Diplomatic Român sunt egale cu cele ale personalului similar din cadrul Agenției de Cooperare Internațională pentru Dezvoltare (RoAid); c.",
+  "Dacă recalcularea salariului de bază și a celorlalte elemente ale sistemului de salarizare de care beneficiază personalul din cadrul autorităților și instituțiilor administrației publice ale căror bugete sunt prevăzute la art. 1 alin. (2) din Legea nr. 500/2002 privind finanțele publice, cu modificările și completările ulterioare, precum și la art. 1 alin. (2) din Legea nr. 273/2006 privind finanțele publice locale, cu modificările și completările ulterioare, aferente lunii în care intră în vigoare Legea nr. 78/2018 privind exonerarea personalului plătit din fonduri publice de la plata unor sume reprezentând venituri de natură salarială, cu modificările și completările ulterioare (n.n. - luna martie 2018), prin eliminarea din cuantumul acestora a drepturilor constatate a fi acordate în mod necuvenit de către Curtea de Conturi sau alte structuri/instituții cu atribuții de control, poate fi efectuată și de alt ordonator de credite decât cel principal conform art. 3 alin. (2) din legea sus-amintită.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 62/2024",
+    "number": "62",
+    "year": "2024",
+    "path": "oug/2024/62"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "39",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "36",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 500/2002",
+    "number": "500",
+    "year": "2002",
+    "path": "lege/2002/500"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 273/2006",
+    "number": "273",
+    "year": "2006",
+    "path": "lege/2006/273"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 78/2018",
+    "number": "78",
+    "year": "2018",
+    "path": "lege/2018/78"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 284/2010",
+    "number": "284",
+    "year": "2010",
+    "path": "lege/2010/284"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 53/2003",
+    "number": "53",
+    "year": "2003",
+    "path": "lege/2003/53"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-09-22",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/302414",
+  "text_sha256": "26e5ae857781cfa6a932b0c90d9553bce95fe799b6f3981f909791e2577d44ab",
+  "catalogue_sha256": "26e5ae857781cfa6a932b0c90d9553bce95fe799b6f3981f909791e2577d44ab",
+  "fetched": "2026-11-03T00:54:24Z",
+  "chars": 35379,
+  "portal_id": "302414",
+  "tip": "DECIZIE"
+ }
+}
