@@ -12,6 +12,7 @@ Initiator: Guvernul României.
 - 2025-09-09: documents published: Aviz comisie
 - 2025-09-10: documents published: Aviz comisie
 - 2025-09-16: documents published: Raport comisie sesizată pe fond
+- 2025-09-22: documents published: Aviz comisie
 
 ## Documents
 
@@ -25,3 +26,4 @@ Initiator: Guvernul României.
 - 2025-09-09: Aviz comisie (CA47): [ca47-6099b260.md](ca47-6099b260.md); official file https://www.senat.ro/legis/PDF/2025/25L222CA47.PDF
 - 2025-09-10: Aviz comisie (CA16): [ca16-e602d385.md](ca16-e602d385.md); official file https://www.senat.ro/legis/PDF/2025/25L222CA16.PDF
 - 2025-09-16: Raport comisie sesizată pe fond (CR): [cr-49a6c6aa.md](cr-49a6c6aa.md); official file https://www.senat.ro/legis/PDF/2025/25L222CR.PDF
+- 2025-09-22: Aviz comisie (CA19): [ca19-fba5c1c9.md](ca19-fba5c1c9.md); official file https://www.senat.ro/legis/PDF/2025/25L222CA19.PDF
