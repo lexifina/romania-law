@@ -13,6 +13,7 @@ Initiator: Guvernul României.
 - 2025-09-05: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
 - 2025-09-16: documents published: Aviz comisie
 - 2025-09-17: documents published: Aviz comisie
+- 2025-09-22: adopted by the Senate; documents published: Aviz comisie, Raport comisie sesizată pe fond, Forma adoptată de Senat, Adresă către Camera Deputaților
 
 ## Documents
 
@@ -23,3 +24,7 @@ Initiator: Guvernul României.
 - 2025-09-05: Document (HG): not held as text; official file https://www.senat.ro/legis/PDF/2025/25L317HG.PDF
 - 2025-09-16: Aviz comisie (CA92): [ca92-d14b4f28.md](ca92-d14b4f28.md); official file https://www.senat.ro/legis/PDF/2025/25L317CA92.PDF
 - 2025-09-17: Aviz comisie (CA45): [ca45-93a9479b.md](ca45-93a9479b.md); official file https://www.senat.ro/legis/PDF/2025/25L317CA45.PDF
+- 2025-09-22: Aviz comisie (CA5): [ca5-0ee278f2.md](ca5-0ee278f2.md); official file https://www.senat.ro/legis/PDF/2025/25L317CA5.PDF
+- 2025-09-22: Raport comisie sesizată pe fond (CR): [cr-fc038277.md](cr-fc038277.md); official file https://www.senat.ro/legis/PDF/2025/25L317CR.PDF
+- 2025-09-22: Forma adoptată de Senat (FS): [fs-9277b17f.md](fs-9277b17f.md); official file https://www.senat.ro/legis/PDF/2025/25L317FS.PDF
+- 2025-09-22: Adresă către Camera Deputaților (AM): [am-8c02f539.md](am-8c02f539.md); official file https://www.senat.ro/legis/PDF/2025/25L317AM.PDF
