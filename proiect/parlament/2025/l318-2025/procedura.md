@@ -9,6 +9,7 @@ Initiator: Guvernul României.
 ## Stages published so far
 
 - 2025-09-05: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+- 2025-09-22: adopted by the Senate; documents published: Raport comisie sesizată pe fond, Forma adoptată de Senat, Adresă către Camera Deputaților
 
 ## Documents
 
@@ -18,3 +19,6 @@ Initiator: Guvernul României.
 - 2025-09-05: Aviz Consiliul Legislativ (LG): not held as text; official file https://www.senat.ro/legis/PDF/2025/25L318LG.PDF
 - 2025-09-05: Document (OG): not held as text; official file https://www.senat.ro/legis/PDF/2025/25L318OG.PDF
 - 2025-09-05: Document (HG): not held as text; official file https://www.senat.ro/legis/PDF/2025/25L318HG.PDF
+- 2025-09-22: Raport comisie sesizată pe fond (CR): [cr-2880faee.md](cr-2880faee.md); official file https://www.senat.ro/legis/PDF/2025/25L318CR.PDF
+- 2025-09-22: Forma adoptată de Senat (FS): [fs-8143530d.md](fs-8143530d.md); official file https://www.senat.ro/legis/PDF/2025/25L318FS.PDF
+- 2025-09-22: Adresă către Camera Deputaților (AM): [am-2e096770.md](am-2e096770.md); official file https://www.senat.ro/legis/PDF/2025/25L318AM.PDF
