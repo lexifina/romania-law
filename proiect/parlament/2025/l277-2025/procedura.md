@@ -12,6 +12,7 @@ Initiator: Membri ai Parlamentului.
 - 2025-06-24: documents published: Aviz Consiliul Legislativ, Aviz Consiliul Economic și Social, Punct de vedere, Punct de vedere Guvern
 - 2025-09-08: registered at the Senate
 - 2025-09-16: documents published: Aviz comisie
+- 2025-09-23: documents published: Aviz comisie
 
 ## Documents
 
@@ -20,3 +21,4 @@ Initiator: Membri ai Parlamentului.
 - 2025-06-24: Punct de vedere (PV): [pv-3d20ceee.md](pv-3d20ceee.md); official file https://www.senat.ro/legis/PDF/2025/25L277PV.PDF
 - 2025-06-24: Punct de vedere Guvern (SJ): not held as text; official file https://www.senat.ro/legis/PDF/2025/25L277SJ.PDF
 - 2025-09-16: Aviz comisie (CA12): [ca12-8ecc7b6f.md](ca12-8ecc7b6f.md); official file https://www.senat.ro/legis/PDF/2025/25L277CA12.PDF
+- 2025-09-23: Aviz comisie (CA8): [ca8-d565c308.md](ca8-d565c308.md); official file https://www.senat.ro/legis/PDF/2025/25L277CA8.PDF
