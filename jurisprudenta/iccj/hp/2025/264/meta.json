@@ -1,0 +1,232 @@
+{
+ "key": "iccj-hp-264-2025",
+ "label": "Decizia ÎCCJ nr. 264/2025 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "264",
+ "date": "2025-06-23",
+ "year": "2025",
+ "heading": "DECIZIA nr. 264 din 23 iunie 2025",
+ "subtitle": "referitoare la indemnizația \"Mission Subsistence Allowance\"",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "869",
+  "bis": false,
+  "date": "2025-09-23",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "351/1/2025",
+  "5.571/63/2023",
+  "4.730/118/2023",
+  "676/1/2025"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 46/2020",
+    "number": "46",
+    "year": "2020",
+    "path": "hg/2020/46"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 14/2002",
+    "number": "14",
+    "year": "2002",
+    "path": "oug/2002/14"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibile, sesizările conexate formulate de Curtea de Apel Craiova - Secția de litigii de muncă și asigurări sociale în Dosarul nr. 5.571/63/2023 și de Tribunalul Constanța - Secția I civilă în Dosarul nr. 4.730/118/2023, în vederea pronunțării unei hotărâri prealabile cu privire la următoarele chestiuni de drept: Dacă indemnizația „Mission Subsistence Allowance“ acoperă aceleași costuri ca și diurna în valută prevăzută de art. 1 alin. (3) și beneficiul pentru facilitarea legăturii cu familia prevăzut de art. 3 din Hotărârea Guvernului nr. 46/2020 pentru stabilirea drepturilor de diurnă, cazare, hrană, facilitarea legăturii cu familia, recreere și transport ale personalului militar și civil participant la misiuni și operații în afara teritoriului statului român.",
+  "Acordarea de către pârâți, prin rambursare, a alocației de subzistență (MSA - Mission Subsistence Allowance) pentru misiunile UNMIK Kosovo la care au participat jandarmi, prin raportare la anexele A și G la Memorandumul de înțelegere dintre Guvernul României și Organizația Națiunilor Unite privind contribuția cu resurse la unitatea specială de poliție a Națiunilor Unite din Kosovo, ratificat prin Ordonanța de urgență a Guvernului nr. 14/2002 și aprobat prin Legea nr. 350/2002.",
+  "Obligatorie, potrivit art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 62/2024",
+    "number": "62",
+    "year": "2024",
+    "path": "oug/2024/62"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 46/2020",
+    "number": "46",
+    "year": "2020",
+    "path": "hg/2020/46"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 14/2002",
+    "number": "14",
+    "year": "2002",
+    "path": "oug/2002/14"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 121/2011",
+    "number": "121",
+    "year": "2011",
+    "path": "lege/2011/121"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 1.086/2004",
+    "number": "1086",
+    "year": "2004",
+    "path": "hg/2004/1086"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-09-23",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/302426",
+  "text_sha256": "9ddbf783b30fcfb4a263e558e07a6016b9f7855bc433c304fc81933ae022f513",
+  "catalogue_sha256": "9ddbf783b30fcfb4a263e558e07a6016b9f7855bc433c304fc81933ae022f513",
+  "fetched": "2026-11-03T00:54:24Z",
+  "chars": 37771,
+  "portal_id": "302426",
+  "tip": "DECIZIE"
+ }
+}
