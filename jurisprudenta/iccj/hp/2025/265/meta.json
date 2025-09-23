@@ -1,0 +1,240 @@
+{
+ "key": "iccj-hp-265-2025",
+ "label": "Decizia ÎCCJ nr. 265/2025 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "265",
+ "date": "2025-06-23",
+ "year": "2025",
+ "heading": "DECIZIA nr. 265 din 23 iunie 2025",
+ "subtitle": "referitoare la interpretarea dispozițiilor art. 27 alin. (1) din Ordonanța Guvernului nr. 137/2000 privind prevenirea și sancționarea tuturor formelor de discriminare, republicată, cu modificările și completările ulterioare",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "869",
+  "bis": false,
+  "date": "2025-09-23",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "413/1/2025",
+  "2.659/3/2022"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 137/2000",
+    "number": "137",
+    "year": "2000",
+    "path": "og/2000/137"
+   },
+   "articles": [
+    {
+     "art": "27",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 269/2003",
+    "number": "269",
+    "year": "2003",
+    "path": "lege/2003/269"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "9",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Curtea de Apel București - Secția a VII-a pentru cauze privind conflicte de muncă și asigurări sociale în Dosarul nr. 2.659/3/2022*, în vederea pronunțării unei hotărâri prealabile cu privire la următoarea chestiune de drept:",
+  "Dacă, în interpretarea dispozițiilor art. 27 alin. (1) din Ordonanța Guvernului nr. 137/2000 privind prevenirea și sancționarea tuturor formelor de discriminare, republicată, cu modificările și completările ulterioare, măsurile ce pot fi dispuse pentru restabilirea situației anterioare discriminării sau anularea situației create prin discriminare pot viza și obligarea la acordarea unui anumit grad diplomatic superior, care se acordă potrivit procedurii reglementate de dispozițiile art. 6, art. 9 și art. 11-13 din Legea nr. 269/2003 privind Statutul Corpului diplomatic și consular al României, cu modificările ulterioare.",
+  "Obligatorie, potrivit art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 62/2024",
+    "number": "62",
+    "year": "2024",
+    "path": "oug/2024/62"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 137/2000",
+    "number": "137",
+    "year": "2000",
+    "path": "og/2000/137"
+   },
+   "articles": [
+    {
+     "art": "27",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 269/2003",
+    "number": "269",
+    "year": "2003",
+    "path": "lege/2003/269"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "9",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-09-23",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/302427",
+  "text_sha256": "994c945cab4afa2ef7bfa8c906136ec85dc7cbdbd03fcec287a9d353fc2ba325",
+  "catalogue_sha256": "994c945cab4afa2ef7bfa8c906136ec85dc7cbdbd03fcec287a9d353fc2ba325",
+  "fetched": "2026-11-06T03:51:50Z",
+  "chars": 31352,
+  "archive": {
+   "source": "wayback",
+   "url": "https://web.archive.org/web/20260306015302/https://legislatie.just.ro/Public/DetaliiDocumentAfis/302427",
+   "page": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/302427",
+   "timestamp": "20260306015302",
+   "sha256": "68ec9540d923e1d8cd974c6442babe9a256d39683422b600b97509860fad31c8"
+  },
+  "portal_id": "302427",
+  "tip": "DECIZIE"
+ }
+}
