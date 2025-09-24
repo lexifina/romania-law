@@ -18,6 +18,7 @@ Initiator: Membri ai Parlamentului.
 - 2024-10-21: rejected by the Senate; documents published: Adresă către Camera Deputaților
 - 2024-10-28: registered at the Chamber of Deputies
 - 2025-09-08: published in the Monitorul Oficial
+- 2025-09-24: adopted by the Chamber of Deputies
 
 ## Documents
 
