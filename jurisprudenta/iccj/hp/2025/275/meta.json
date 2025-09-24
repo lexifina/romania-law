@@ -1,0 +1,242 @@
+{
+ "key": "iccj-hp-275-2025",
+ "label": "Decizia ÎCCJ nr. 275/2025 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "275",
+ "date": "2025-06-30",
+ "year": "2025",
+ "heading": "DECIZIA nr. 275 din 30 iunie 2025",
+ "subtitle": "referitoare la interpretarea art. 9 alin. (2^2) și (3), art. 21 alin. (8), art. 22 alin. (4) și (4^2) din Legea nr. 360/2002 privind Statutul polițistului, cu modificările și completările ulterioare, coroborat cu art. 47 alin. (3) din Legea nr. 500/2002 privind finanțele publice",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "875",
+  "bis": false,
+  "date": "2025-09-24",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "3.009/1/2024",
+  "2.803/117/2023"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 360/2002",
+    "number": "360",
+    "year": "2002",
+    "path": "lege/2002/360"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": [
+      "2-2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "8"
+     ],
+     "lit": null
+    },
+    {
+     "art": "22",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 500/2002",
+    "number": "500",
+    "year": "2002",
+    "path": "lege/2002/500"
+   },
+   "articles": [
+    {
+     "art": "47",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Tribunalul Cluj - Secția mixtă de contencios administrativ și fiscal, de conflicte de muncă și asigurări sociale, în Dosarul nr. 2.803/117/2023, în vederea pronunțării unei hotărâri prealabile cu privire la următoarea chestiune de drept:",
+  "Dacă, din interpretarea art. 9 alin. (2^2) și (3), art. 21 alin. (8), art. 22 alin. (4) și (4^2) din Legea nr. 360/2002 privind Statutul polițistului, cu modificările și completările ulterioare, coroborat cu art. 47 alin. (3) din Legea nr. 500/2002 privind finanțele publice, cu modificările și completările ulterioare, rezultă că:",
+  "a) se oferă o prerogativă șefului cu competență de gestiune a resurselor umane de a decide încadrarea (atât la angajare, cât și la definitivare) polițistului în funcții de execuție fie echivalente cu gradul profesional deținut, fie mai mari cu cel mult trei trepte față de gradul deținut de acesta?;",
+  "b) încadrarea în funcțiile superioare de execuție, cu cel mult trei trepte depinde de alocațiile bugetare, conform art. 47 alin. (3) din Legea nr. 500/2002, respectiv de existența funcției superioare în cadrul instituției angajatoare?",
+  "Obligatorie, potrivit art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 62/2024",
+    "number": "62",
+    "year": "2024",
+    "path": "oug/2024/62"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 360/2002",
+    "number": "360",
+    "year": "2002",
+    "path": "lege/2002/360"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": [
+      "2-2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "8"
+     ],
+     "lit": null
+    },
+    {
+     "art": "22",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 500/2002",
+    "number": "500",
+    "year": "2002",
+    "path": "lege/2002/500"
+   },
+   "articles": [
+    {
+     "art": "47",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 360/2022",
+    "number": "360",
+    "year": "2022",
+    "path": "lege/2022/360"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "22",
+     "alin": [
+      "4-2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-09-24",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/302478",
+  "text_sha256": "1359b425e25cb30aeff0f2a2dcbaa8259d97dc5883db567d42b6409cbfa58ede",
+  "catalogue_sha256": "1359b425e25cb30aeff0f2a2dcbaa8259d97dc5883db567d42b6409cbfa58ede",
+  "fetched": "2026-11-06T03:49:36Z",
+  "chars": 27678,
+  "archive": {
+   "source": "commoncrawl",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/302478",
+   "timestamp": "20260114062320",
+   "crawl": "CC-MAIN-2026-04",
+   "filename": "crawl-data/CC-MAIN-2026-04/segments/1768220469098.18/warc/CC-MAIN-20260114060053-20260114090053-00570.warc.gz",
+   "offset": "285809787",
+   "length": "30003",
+   "sha256": "1e21739b07f5933786369e05cff4bbb340efba77fe9ffda2cf3bd7df1636821a"
+  },
+  "portal_id": "302478",
+  "tip": "DECIZIE"
+ }
+}
