@@ -1,0 +1,249 @@
+{
+ "key": "iccj-hp-169-2025",
+ "label": "Decizia ÎCCJ nr. 169/2025 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "169",
+ "date": "2025-05-19",
+ "year": "2025",
+ "heading": "DECIZIA nr. 169 din 19 mai 2025",
+ "subtitle": "referitoare la dreptul angajaților Administrației Naționale \"Apele Române\" la spor de 15% de consemn, după data de 1.01.2023, indiferent dacă se produce sau nu se produce evenimentul pentru care au fost consemnați la domiciliu",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "878",
+  "bis": false,
+  "date": "2025-09-25",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.669/1/2024",
+  "1.696/87/2023"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Curtea de Apel București - Secția a VII-a pentru cauze privind conflicte de muncă și asigurări sociale în Dosarul nr. 1.696/87/2023, în vederea pronunțării unei hotărâri prealabile pentru dezlegarea următoarei chestiuni de drept:",
+  "Dacă angajații Administrației Naționale „Apele Române“, prin raportare la dispozițiile art. 10 lit. d) din cap. II din anexa nr. VII la Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, cu modificările și completările ulterioare, au dreptul la spor de 15% de consemn, după data de 1.01.2023, indiferent dacă se produce sau nu se produce evenimentul pentru care au fost consemnați la domiciliu?",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 62/2024",
+    "number": "62",
+    "year": "2024",
+    "path": "oug/2024/62"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "38",
+     "alin": [
+      "4",
+      "6"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 16
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 107/2002",
+    "number": "107",
+    "year": "2002",
+    "path": "oug/2002/107"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 53/2003",
+    "number": "53",
+    "year": "2003",
+    "path": "lege/2003/53"
+   },
+   "articles": [
+    {
+     "art": "162",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "120",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "112",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea dialogului social nr. 62/2011",
+    "number": "62",
+    "year": "2011",
+    "path": "lege/2011/62"
+   },
+   "articles": [
+    {
+     "art": "138",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 114/2018",
+    "number": "114",
+    "year": "2018",
+    "path": "oug/2018/114"
+   },
+   "articles": [
+    {
+     "art": "34",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 168/2022",
+    "number": "168",
+    "year": "2022",
+    "path": "oug/2022/168"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-09-25",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/302498",
+  "text_sha256": "72d7ee62e5346abceadcc6cc34909f098fb0c690832c3fcbb2a5d587791420a3",
+  "catalogue_sha256": "72d7ee62e5346abceadcc6cc34909f098fb0c690832c3fcbb2a5d587791420a3",
+  "fetched": "2026-11-03T00:54:20Z",
+  "chars": 35361,
+  "portal_id": "302498",
+  "tip": "DECIZIE"
+ }
+}
