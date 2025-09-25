@@ -1,0 +1,353 @@
+{
+ "key": "iccj-hp-291-2025",
+ "label": "Decizia ÎCCJ nr. 291/2025 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "291",
+ "date": "2025-06-30",
+ "year": "2025",
+ "heading": "DECIZIA nr. 291 din 30 iunie 2025",
+ "subtitle": "referitoare la interpretarea dispozițiilor art. 27 alin. (1^2) din Legea educației naționale nr. 1/2011, astfel cum a fost modificată prin art. I pct. 1 din Ordonanța de urgență a Guvernului nr. 100/2021 pentru modificarea și completarea Legii educației naționale nr. 1/2011 și abrogarea unor acte normative din domeniul protecției sociale",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "879",
+  "bis": false,
+  "date": "2025-09-25",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "58/1/2025",
+  "5.846/102/2023"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea educației naționale nr. 1/2011",
+    "number": "1",
+    "year": "2011",
+    "path": "lege/2011/1"
+   },
+   "articles": [
+    {
+     "art": "27",
+     "alin": [
+      "1-2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 100/2021",
+    "number": "100",
+    "year": "2021",
+    "path": "oug/2021/100"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 53/2003",
+    "number": "53",
+    "year": "2003",
+    "path": "lege/2003/53"
+   },
+   "articles": [
+    {
+     "art": "173",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 566/2022",
+    "number": "566",
+    "year": "2022",
+    "path": "hg/2022/566"
+   },
+   "articles": [
+    {
+     "art": "33",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "28",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "36",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Curtea de Apel Târgu Mureș - Secția I civilă în Dosarul nr. 5.846/102/2023, privind pronunțarea unei hotărâri prealabile cu privire la următoarea chestiune de drept: Să se stabilească dacă, în interpretarea dispozițiilor art. 27 alin. (1^2) din Legea educației naționale nr. 1/2011, astfel cum a fost modificată prin art. I pct. 1 din Ordonanța de urgență a Guvernului nr. 100/2021 pentru modificarea și completarea Legii educației naționale nr. 1/2011 și abrogarea unor acte normative din domeniul protecției sociale, arondarea creșelor de stat la solicitarea primarilor, ca urmare a hotărârilor autorităților deliberative, prin decizie a inspectoratelor școlare județene/al municipiului București, unităților de învățământ care au nivel preșcolar cu program prelungit cu personalitate juridică sau unităților de învățământ care au în structură învățământ preșcolar reprezintă un transfer al întreprinderii, al unității sau al unor părți ale acesteia către un alt angajator în sensul art. 173 din Legea nr. 53/2003 - Codul muncii, republicată, cu modificările și completările ulterioare.",
+  "În ipoteza unui răspuns negativ la prima întrebare, să se stabilească dacă, în interpretarea art. II și VI din Ordonanța de urgență a Guvernului nr. 100/2021, aprobată cu modificări și completări prin Legea nr. 17/2022 privind aprobarea Ordonanței de urgență a Guvernului nr. 100/2021 pentru modificarea și completarea Legii educației naționale nr. 1/2011 și abrogarea unor acte normative din domeniul protecției sociale, și a art. 33 din anexa la Hotărârea Guvernului nr. 566/2022 privind aprobarea Metodologiei de organizare și funcționare a creșelor și a altor unități de educație timpurie antepreșcolară, trimiterea făcută la dispozițiile art. 28 alin. (1) și (2) și art. 36 alin. (2) din Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, cu modificările și completările ulterioare, impune păstrarea funcțiilor și a drepturilor salariale aflate în plată în luna decembrie 2022, deținute de personalul din creșe anterior arondării.",
+  "Obligatorie, potrivit art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 62/2024",
+    "number": "62",
+    "year": "2024",
+    "path": "oug/2024/62"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea educației naționale nr. 1/2011",
+    "number": "1",
+    "year": "2011",
+    "path": "lege/2011/1"
+   },
+   "articles": [
+    {
+     "art": "27",
+     "alin": [
+      "1-2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 100/2021",
+    "number": "100",
+    "year": "2021",
+    "path": "oug/2021/100"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 53/2003",
+    "number": "53",
+    "year": "2003",
+    "path": "lege/2003/53"
+   },
+   "articles": [
+    {
+     "art": "173",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 566/2022",
+    "number": "566",
+    "year": "2022",
+    "path": "hg/2022/566"
+   },
+   "articles": [
+    {
+     "art": "33",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "28",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "36",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 263/2010",
+    "number": "263",
+    "year": "2010",
+    "path": "lege/2010/263"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 168/2022",
+    "number": "168",
+    "year": "2022",
+    "path": "oug/2022/168"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 67/2006",
+    "number": "67",
+    "year": "2006",
+    "path": "lege/2006/67"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 655/2022",
+    "number": "655",
+    "year": "2022",
+    "path": "hg/2022/655"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-09-25",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/302503",
+  "text_sha256": "a23d836b3e91a94fd45a1f4471d8ce89af44727a83102c2a8e0a77200fa4b1d8",
+  "catalogue_sha256": "a23d836b3e91a94fd45a1f4471d8ce89af44727a83102c2a8e0a77200fa4b1d8",
+  "fetched": "2026-11-03T00:54:20Z",
+  "chars": 36164,
+  "portal_id": "302503",
+  "tip": "DECIZIE"
+ }
+}
