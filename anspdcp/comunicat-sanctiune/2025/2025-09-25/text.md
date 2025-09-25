@@ -1,0 +1,13 @@
+O nouă sancțiune aplicată pentru încălcarea GDPR
+Autoritatea Națională de Supraveghere a Prelucrării Datelor cu Caracter Personal a finalizat, în luna septembrie 2025, o investigație la operatorul S.C. PRIMONET RO S.R.L., în cadrul căreia a constatat încălcarea dispozițiilor art. 32 alin. (1) lit. b) și alin. (2) din Regulamentul (UE) 2016/679.
+Operatorul a fost sancționat contravențional cu amendă în cuantum de 101.544 lei, echivalentul sumei de 20.000 euro, conform cursului BNR din data aplicării sancțiunii.
+Investigația a fost demarată ca urmare a transmiterii de către operator a unei notificări cu privire la încălcarea securității datelor cu caracter personal, potrivit dispozițiilor art. 33 din Regulamentul (UE) 2016/679.
+Astfel, operatorul a notificat faptul că, în urma unui atac cibernetic, au fost afectate următoarele categorii de date cu caracter personale, respectiv număr card bancar, nr. CVC, numele și prenumele deținătorului de card, data expirării cardului, ale unui număr semnificativ de clienți ai operatorului care au utilizat platforma de e-commerce a acestuia și au efectuat plăți cu cardul.
+Ulterior notificării transmise de operator, au fost primite la Autoritatea națională de supraveghere și două plângeri de la persoane vizate, clienți ai acestuia.
+În cadrul investigației s-a constatat faptul că operatorul nu avea implementate măsuri de securitate asupra site-ului propriu care ar fi putut diminua considerabil riscul de modificare de cod în structura acestuia, datorită utilizării unei versiunii învechite a platformei pe care rula site-ul la momentul încălcării de securitate.
+Încălcarea securității datelor cu caracter personal a provocat persoanelor vizate prejudicii financiare constând în tranzacții neautorizate de pe cardurile afectate, lipsa unor sume de bani din conturile clienților ca urmare a tranzacțiilor neautorizate pe care băncile nu au reușit să le blocheze, blocarea cardurilor și așteptarea emiterii unor carduri noi.
+Prin urmare, s-a constatat că operatorul a încălcat dispozițiile art. 32 alin. (1) lit. b) și alin. (2) din Regulamentul (UE) 2016/679, întrucât nu a implementat măsuri tehnice și organizatorice adecvate în vederea asigurării unui nivel de securitate corespunzător riscului prezentat de prelucrare.
+În același timp, în temeiul dispozițiilor art. 58 alin. (2) lit. d) din Regulamentul (UE) 2016/679, s-a dispus operatorului S.C. PRIMONET RO S.R.L. măsura corectivă de implementare tehnică și organizatorică a unui sistem de jurnalizare a tuturor accesărilor asupra platformei de e-commerce deținută, inclusiv cu efectuarea de back-up asupra fișierelor de jurnalizare (log-uri).
+Operatorul a achitat amendă contravențională stabilită.
+Direcția juridică și comunicare
+A.N.S.P.D.C.P.
