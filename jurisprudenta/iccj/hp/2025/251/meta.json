@@ -1,0 +1,304 @@
+{
+ "key": "iccj-hp-251-2025",
+ "label": "Decizia ÎCCJ nr. 251/2025 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "251",
+ "date": "2025-06-23",
+ "year": "2025",
+ "heading": "DECIZIA nr. 251 din 23 iunie 2025",
+ "subtitle": "referitoare la interpretarea și aplicarea dispozițiilor art. 18 alin. (1) și (2) din Legea-cadru nr. 153/2017, precum și a dispozițiilor art. 10 și art. 23 alin. (3) din Ordonanța de urgență a Guvernului nr. 158/2005",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "882",
+  "bis": false,
+  "date": "2025-09-26",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "486/1/2025",
+  "4.668/105/2023"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "18",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 158/2005",
+    "number": "158",
+    "year": "2005",
+    "path": "oug/2005/158"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul muncii",
+    "path": "lege/2003/53",
+    "slug": "codul-muncii"
+   },
+   "articles": [
+    {
+     "art": "154",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 111/2010",
+    "number": "111",
+    "year": "2010",
+    "path": "oug/2010/111"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Tribunalul Prahova - Secția I civilă, în Dosarul nr. 4.668/105/2023, privind lămurirea următoarelor chestiuni de drept: – dacă, în interpretarea și aplicarea dispozițiilor art. 18 alin. (1) și (2) din Legea-cadru nr. 153/2017, cadrele didactice pot beneficia de recalcularea indemnizațiilor de hrană, începând cu 1.01.2019 prin includerea și a celor pentru zilele libere suplimentare din cadrul zilelor lucrătoare care se recuperează ulterior, zile libere acordate în baza contractului colectiv de muncă sau a unor acte normative emise de Guvernul României sau Ministerul Educației; – dacă, în interpretarea și aplicarea dispozițiilor art. 10 și art. 23 alin. (3) din Ordonanța de urgență a Guvernului nr. 158/2005, art. 59-67 din normele de aplicare a prevederilor Ordonanței de urgență a Guvernului nr. 158/2005, aprobate prin Ordinul ministrului sănătății și al președintelui Casei Naționale de Asigurări de Sănătate nr. 15/2018/1.311/2017, art. 154 din Codul muncii și art. 2 alin. (1) și (2) din Ordonanța de urgență a Guvernului nr. 111/2010, cadrele didactice pot beneficia de recalcularea indemnizațiilor de concediu medical, de concediu pentru studii și de concediu pentru îngrijirea și creșterea copilului cu includerea indemnizației de concediu de odihnă și a indemnizației de hrană menționate mai sus neplătite.",
+  "Obligatorie, potrivit dispozițiilorart. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "18",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": null,
+     "lit": [
+      "m"
+     ]
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 158/2005",
+    "number": "158",
+    "year": "2005",
+    "path": "oug/2005/158"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul muncii",
+    "path": "lege/2003/53",
+    "slug": "codul-muncii"
+   },
+   "articles": [
+    {
+     "art": "154",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "150",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "111",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "269",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 111/2010",
+    "number": "111",
+    "year": "2010",
+    "path": "oug/2010/111"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 62/2024",
+    "number": "62",
+    "year": "2024",
+    "path": "oug/2024/62"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul ministrului educației, cercetării, tineretului și sportului nr. 5.559/2011",
+    "number": "5559",
+    "year": "2011"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul ministrului educației nr. 4.050/2021",
+    "number": "4050",
+    "year": "2021"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-09-26",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/302519",
+  "text_sha256": "b0ff1c2e3390cb35216724da3727ea685db87ea23717e5d6dc502318e664c0d8",
+  "catalogue_sha256": "b0ff1c2e3390cb35216724da3727ea685db87ea23717e5d6dc502318e664c0d8",
+  "fetched": "2026-11-06T04:01:47Z",
+  "chars": 43096,
+  "archive": {
+   "source": "commoncrawl",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/302519",
+   "timestamp": "20251207184640",
+   "crawl": "CC-MAIN-2025-51",
+   "filename": "crawl-data/CC-MAIN-2025-51/segments/1764871307259.62/warc/CC-MAIN-20251207175928-20251207205928-00346.warc.gz",
+   "offset": "271708165",
+   "length": "39847",
+   "sha256": "6d0072faf50d410d3cca0a97f04df6cb158c8a78f561d39f2bf9697755129f7c"
+  },
+  "portal_id": "302519",
+  "tip": "DECIZIE"
+ }
+}
