@@ -1,0 +1,141 @@
+{
+ "key": "iccj-hp-294-2025",
+ "label": "Decizia ÎCCJ nr. 294/2025 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "294",
+ "date": "2025-06-30",
+ "year": "2025",
+ "heading": "DECIZIA nr. 294 din 30 iunie 2025",
+ "subtitle": "referitoare la interpretarea prevederilor punctului 1.4 nr. crt. 7 și 11 din capitolul I al anexei nr. II la Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, cu modificările și completările ulterioare",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "883",
+  "bis": false,
+  "date": "2025-09-26",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "196/1/2025",
+  "3.022/85/2022"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Curtea de Apel Alba Iulia - Secția I civilă în Dosarul nr. 3.022/85/2022, în vederea pronunțării unei hotărâri prealabile cu privire la următoarea chestiune de drept:",
+  "În interpretarea prevederilor punctului 1.4 nr. crt. 7 și 11 din capitolul I al anexei nr. II la Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, cu modificările și completările ulterioare, farmacistul șef de secție cu atribuții de gestiune beneficiază atât de majorarea salariului de bază avut cu 7,5%, cât și de majorarea acestuia cu 5%?",
+  "Obligatorie, potrivit art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 62/2024",
+    "number": "62",
+    "year": "2024",
+    "path": "oug/2024/62"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinului ministrului sănătății nr. 444/2019",
+    "number": "444",
+    "year": "2019"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-09-26",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/302530",
+  "text_sha256": "aacb463f1a42231c913627c5a22bf3051e10bead64c32581b511251f1b3018ca",
+  "catalogue_sha256": "aacb463f1a42231c913627c5a22bf3051e10bead64c32581b511251f1b3018ca",
+  "fetched": "2026-11-06T03:59:35Z",
+  "chars": 18813,
+  "archive": {
+   "source": "wayback",
+   "url": "https://web.archive.org/web/20250929085121/https://legislatie.just.ro/Public/DetaliiDocument/302530",
+   "page": "https://legislatie.just.ro/Public/DetaliiDocument/302530",
+   "timestamp": "20250929085121",
+   "sha256": "8ddf2c38eaea4f7f949c334456d3b966d722bf9e6d4805188523af4fa3debe63"
+  },
+  "portal_id": "302530",
+  "tip": "DECIZIE"
+ }
+}
