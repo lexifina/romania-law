@@ -1,0 +1,335 @@
+{
+ "key": "iccj-hp-266-2025",
+ "label": "Decizia ÎCCJ nr. 266/2025 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "266",
+ "date": "2025-06-23",
+ "year": "2025",
+ "heading": "DECIZIA nr. 266 din 23 iunie 2025",
+ "subtitle": "referitoare la interpretarea dispozițiilor art. 39 alin. (1) și alin. (4) din Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, cu modificările și completările ulterioare",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "883",
+  "bis": false,
+  "date": "2025-09-26",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "464/1/2025",
+  "2.627/99/2024",
+  "1.123/62/2024",
+  "15/114/2024"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "39",
+     "alin": [
+      "1",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 83/2014",
+    "number": "83",
+    "year": "2014",
+    "path": "oug/2014/83"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 57/2015",
+    "number": "57",
+    "year": "2015",
+    "path": "oug/2015/57"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 43/2016",
+    "number": "43",
+    "year": "2016",
+    "path": "oug/2016/43"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibile, sesizările conexe formulate de Tribunalul Iași - Secția a II-a civilă, de contencios administrativ și fiscal în Dosarul nr. 2.627/99/2024, de Tribunalul Brașov - Secția a II-a civilă, de contencios administrativ și fiscal în Dosarul nr. 1.123/62/2024 și de Tribunalul Buzău - Secția a II-a civilă, de contencios administrativ și fiscal în Dosarul nr. 15/114/2024, în vederea pronunțării unei hotărâri prealabile cu privire la următoarele chestiuni de drept: Dacă, în interpretarea dispozițiilor art. 39 alin. (1) și alin. (4) din Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, cu modificările și completările ulterioare, raportat și la principiile reglementate de art. 6 din aceeași lege, stabilirea nivelului maxim de salarizare al personalului încadrat în cadrul unei agenții județene pentru ocuparea forței de muncă se poate realiza la nivelul maxim aflat în plată pentru o funcție similară (aceeași funcție, același grad, aceeași gradație) în cadrul unei/unor/tuturor agenții/agențiilor județene pentru plăți și inspecție socială, cu luarea în considerare inclusiv a tuturor majorărilor salariale stabilite prin hotărâri judecătorești definitive.",
+  "Dacă, în interpretarea dispozițiilor art. 39 alin. (1) din Legea-cadru nr. 153/2017, raportat și la principiile reglementate de art. 6 lit. a), b) și c) din aceeași lege, stabilirea nivelului maxim de salarizare al personalului încadrat în cadrul caselor teritoriale de pensii, pe funcția de consilier juridic, grad profesional superior, gradația 5, se poate realiza la nivelul maxim aflat în plată pentru o funcție similară din cadrul celorlalte case teritoriale de pensii din țară, cu luarea în considerare a sporurilor de confidențialitate și mobilitate, recunoscute în favoarea persoanelor de comparație prin hotărâri judecătorești definitive, pronunțate în baza Ordonanței de urgență a Guvernului nr. 83/2014, Ordonanței de urgență a Guvernului nr. 57/2015 și Ordonanței de urgență a Guvernului nr. 43/2016 (sporuri neprevăzute de legislația actuală, respectiv Legea-cadru nr. 153/2017) ?",
+  "Dacă, prin raportare la principiile egalității și nediscriminării, reglementate de art. 6 din Legea-cadru nr. 153/2017, dispozițiile pct. I lit. A capitolul I din anexa nr. VIII la Legea-cadru nr. 153/2017 pot fi aplicate la nivelul unităților teritoriale subordonate/structurilor subordonate Agenției Naționale de Administrare Fiscală și Direcției generale regionale a finanțelor publice, în sensul stabilirii nivelului de salarizare al personalului încadrat în cadrul acestor structuri la nivelul salariului maxim aflat în plată pentru o funcție similară din cadrul aparatului propriu al Ministerului Finanțelor, și dacă la salariul de bază stabilit la nivelul maxim aflat în plată pentru o funcție similară din cadrul aparatului propriu al Ministerului Finanțelor se pot sau nu adăuga majorările salariale stabilite prin hotărâri judecătorești definitive.",
+  "Obligatorie, potrivit art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 62/2024",
+    "number": "62",
+    "year": "2024",
+    "path": "oug/2024/62"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "39",
+     "alin": [
+      "1",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": [
+      "b",
+      "a"
+     ]
+    },
+    {
+     "art": "36",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "38",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 31
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 83/2014",
+    "number": "83",
+    "year": "2014",
+    "path": "oug/2014/83"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "5-1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 57/2015",
+    "number": "57",
+    "year": "2015",
+    "path": "oug/2015/57"
+   },
+   "articles": [
+    {
+     "art": "3-1",
+     "alin": [
+      "1-2",
+      "1",
+      "1-3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 43/2016",
+    "number": "43",
+    "year": "2016",
+    "path": "oug/2016/43"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituția României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "120",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 115/2023",
+    "number": "115",
+    "year": "2023",
+    "path": "oug/2023/115"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 137/2000",
+    "number": "137",
+    "year": "2000",
+    "path": "og/2000/137"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2",
+      "3"
+     ],
+     "lit": [
+      "e"
+     ]
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-09-26",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/302529",
+  "text_sha256": "037236475476c7cef7e3245e2abd3bb999d09caab71dd821617672e404e80cf8",
+  "catalogue_sha256": "037236475476c7cef7e3245e2abd3bb999d09caab71dd821617672e404e80cf8",
+  "fetched": "2026-11-03T00:54:25Z",
+  "chars": 51324,
+  "portal_id": "302529",
+  "tip": "DECIZIE"
+ }
+}
