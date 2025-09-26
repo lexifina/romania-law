@@ -1,0 +1,167 @@
+{
+ "key": "iccj-hp-253-2025",
+ "label": "Decizia ÎCCJ nr. 253/2025 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "253",
+ "date": "2025-06-23",
+ "year": "2025",
+ "heading": "DECIZIA nr. 253 din 23 iunie 2025",
+ "subtitle": "referitoare la exceptarea drepturilor prevăzute la art. 2 alin. (2) din Hotărârea Guvernului nr. 1.086/2004",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "885",
+  "bis": false,
+  "date": "2025-09-26",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "747/1/2025",
+  "3.028/93/2022"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 1.086/2004",
+    "number": "1086",
+    "year": "2004",
+    "path": "hg/2004/1086"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Tribunalul Ilfov - Secția civilă în Dosarul nr. 3.028/93/2022, în vederea pronunțării unei hotărâri prealabile cu privire la următoarea chestiune de drept:",
+  "Dacă exceptarea drepturilor prevăzute la art. 2 alin. (2) din Hotărârea Guvernului nr. 1.086/2004, prin mențiunea „în lipsa unor acorduri/înțelegeri tehnice“, are în vedere exceptarea de la plată doar prin existența sau invocarea pur formală a unui/unei acord/înțelegeri cu titlu general privind o anumită zonă de operațiuni sau aceste drepturi sunt exceptate doar în situația în care sau acordat efectiv participantului ori acesta a beneficiat, în mod concret și probat cu raportare la participantul-reclamant, de drepturi materiale în baza unui/unei asemenea acord/înțelegeri?",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 1.086/2004",
+    "number": "1086",
+    "year": "2004",
+    "path": "hg/2004/1086"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 18
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 62/2024",
+    "number": "62",
+    "year": "2024",
+    "path": "oug/2024/62"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 42/2004",
+    "number": "42",
+    "year": "2004",
+    "path": "lege/2004/42"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 518/1995",
+    "number": "518",
+    "year": "1995",
+    "path": "hg/1995/518"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 121/2011",
+    "number": "121",
+    "year": "2011",
+    "path": "lege/2011/121"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-09-26",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/302535",
+  "text_sha256": "c7e95ed7ae8627003706f689d6ffc2f1672930f7f9fe3ec7cfba0cbdb58b0b40",
+  "catalogue_sha256": "c7e95ed7ae8627003706f689d6ffc2f1672930f7f9fe3ec7cfba0cbdb58b0b40",
+  "fetched": "2026-11-06T03:52:05Z",
+  "chars": 24507,
+  "archive": {
+   "source": "wayback",
+   "url": "https://web.archive.org/web/20250929085135/https://legislatie.just.ro/Public/DetaliiDocument/302535",
+   "page": "https://legislatie.just.ro/Public/DetaliiDocument/302535",
+   "timestamp": "20250929085135",
+   "sha256": "4e518540efd906a9ea8878c2c6d4fc090f5f1706dacbd79a6c53e6a23d72fa1f"
+  },
+  "portal_id": "302535",
+  "tip": "DECIZIE"
+ }
+}
