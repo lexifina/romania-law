@@ -1,0 +1,10 @@
+# HCL Călărași nr. 40/2025
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+- Council: Consiliul Local al Comunei Călărași
+- Decision: nr. 40/2025
+- Adopted: 2025-09-25
+- Published: 2025-09-26
+- Title: privind însuşirea variantei finale a proiectului de stemă a comunei Călărași, județul Cluj
+- Record: https://emol.ro/calarasi-cj/registru-hcl/226612
