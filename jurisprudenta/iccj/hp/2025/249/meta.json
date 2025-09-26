@@ -1,0 +1,163 @@
+{
+ "key": "iccj-hp-249-2025",
+ "label": "Decizia ÎCCJ nr. 249/2025 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "249",
+ "date": "2025-06-23",
+ "year": "2025",
+ "heading": "DECIZIA nr. 249 din 23 iunie 2025",
+ "subtitle": "referitoare la interpretarea și aplicarea prevederilor art. 720 alin. (1) din Codul de procedură civilă",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "884",
+  "bis": false,
+  "date": "2025-09-26",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.901/1/2024",
+  "13.735/301/2020",
+  "25.167/301/2019"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "720",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Tribunalul București - Secția a V-a civilă în Dosarul nr. 13.735/301/2020*, în vederea pronunțării unei hotărâri prealabile cu privire la următoarea chestiune de drept:",
+  "În interpretarea și aplicarea prevederilor art. 720 alin. (1) din Codul de procedură civilă, dacă soluția instanței de anulare a unui act de executare poate avea un efect de anulare parțială a actelor de executare cu privire la suma urmărită sau dacă prin modificarea cuantumului creanței instanța este ținută de pronunțarea unei soluții de îndreptare a actului de executare silită.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "720",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "712",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "637",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "643",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "631",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "651",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "713",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "717",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "634",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "483",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "718",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 25
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-09-26",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/302525",
+  "text_sha256": "af208534bfb9dff13744c045fe75f991640219eb4e8f9eade1ff89535c40161a",
+  "catalogue_sha256": "af208534bfb9dff13744c045fe75f991640219eb4e8f9eade1ff89535c40161a",
+  "fetched": "2026-11-03T00:54:23Z",
+  "chars": 34177,
+  "portal_id": "302525",
+  "tip": "DECIZIE"
+ }
+}
