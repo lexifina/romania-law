@@ -1,0 +1,214 @@
+{
+ "key": "iccj-hp-293-2025",
+ "label": "Decizia ÎCCJ nr. 293/2025 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "293",
+ "date": "2025-06-30",
+ "year": "2025",
+ "heading": "DECIZIA nr. 293 din 30 iunie 2025",
+ "subtitle": "referitoare la stabilirea cuantumului sporului pentru condiții deosebit de periculoase pentru medicii rezidenți detașați pentru efectuarea unor stagii de pregătire în alte unități sanitare în baza Ordonanței Guvernului nr. 18/2009 privind organizarea și finanțarea rezidențiatului, cu modificările și completările ulterioare, prin raportare la art. 25 din Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, cu modificările și completările ulterioare",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "887",
+  "bis": false,
+  "date": "2025-09-29",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "194/1/2025",
+  "929/121/2023"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanței Guvernului nr. 18/2009",
+    "number": "18",
+    "year": "2009",
+    "path": "og/2009/18"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea securității și sănătății în muncă nr. 319/2006",
+    "number": "319",
+    "year": "2006",
+    "path": "lege/2006/319"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Curtea de Apel Galați - Secția conflicte de muncă și asigurări sociale în Dosarul nr. 929/121/2023, privind pronunțarea unei hotărâri prealabile cu privire la următoarele chestiuni de drept: Stabilirea cuantumului sporului pentru condiții deosebit de periculoase pentru medicii rezidenți detașați pentru efectuarea unor stagii de pregătire în alte unități sanitare în baza Ordonanței Guvernului nr. 18/2009 privind organizarea și finanțarea rezidențiatului, cu modificările și completările ulterioare, prin raportare la art. 25 din Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, cu modificările și completările ulterioare.",
+  "Dacă alimentația de protecție prevăzută la art. 14 din Legea securității și sănătății în muncă nr. 319/2006, cu modificările și completările ulterioare, poate fi compensată în bani.",
+  "Obligatorie, potrivit art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanței Guvernului nr. 18/2009",
+    "number": "18",
+    "year": "2009",
+    "path": "og/2009/18"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea securității și sănătății în muncă nr. 319/2006",
+    "number": "319",
+    "year": "2006",
+    "path": "lege/2006/319"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 62/2024",
+    "number": "62",
+    "year": "2024",
+    "path": "oug/2024/62"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "96",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-09-29",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/302542",
+  "text_sha256": "77c043c900c71c2cb86b477773b097223afd6c9a979d77f7a6884c33a2bd1802",
+  "catalogue_sha256": "77c043c900c71c2cb86b477773b097223afd6c9a979d77f7a6884c33a2bd1802",
+  "fetched": "2026-11-03T00:54:16Z",
+  "chars": 35169,
+  "portal_id": "302542",
+  "tip": "DECIZIE"
+ }
+}
