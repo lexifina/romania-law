@@ -1,0 +1,13 @@
+# ANEXĂ (Anexa la Ordinul nr. 118/2012)
+- Model -
+MINISTERUL AFACERILOR INTERNE
+Unitatea..............................
+Data....................................
+ANGAJAMENT
+Subsemnatul,........ (gradul, numele și prenumele)....., prin prezentul angajament mă oblig să restitui suma de..............., suportată de unitate pentru asigurarea asistenței juridice în cauza privind.........................................................., în următoarele situații: a) în cazul în care am încheiat un contract de tranzacție ori un acord de mediere;
+b) în cazul în care instanța de judecată sau organele administrativ-jurisdicționale au constatat vinovăția mea, printr-o hotărâre/decizie definitivă;
+c) în cazul în care instanța de judecată sau organele administrativ-jurisdicționale au constatat, printr-o hotărâre/decizie definitivă, că fapta nu a fost săvârșită în exercitarea atribuțiilor de serviciu;
+d) în cazul în care instanța de judecată sau organele administrativ-jurisdicționale au constatat nevinovăția mea, printr-o hotărâre/decizie definitivă, și a fost admisă în favoarea mea plata cheltuielilor de judecată cu titlu de onorariu avocat.
+Numele și prenumele..............................
+Semnătura..............................
+------
