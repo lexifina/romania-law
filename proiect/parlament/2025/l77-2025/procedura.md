@@ -18,6 +18,7 @@ Initiator: Membri ai Parlamentului.
 - 2025-09-03: adopted by the Chamber of Deputies
 - 2025-09-08: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-09-13: sent for promulgation
+- 2025-09-29: promulgated, becomes Legea nr. 142/2025; published in the Monitorul Oficial; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -30,3 +31,5 @@ Initiator: Membri ai Parlamentului.
 - 2025-05-14: Adresă către Camera Deputaților (AM): [am-9948a580.md](am-9948a580.md); official file https://www.senat.ro/legis/PDF/2025/25L077AM.PDF
 - 2025-09-08: Adresă privind sesizarea CCR (AXS): [axs-7e18fb9a.md](axs-7e18fb9a.md); official file https://www.senat.ro/legis/PDF/2025/25L077AXS.PDF
 - 2025-09-08: Forma trimisă la promulgare (LP): [lp-28a62e69.md](lp-28a62e69.md); official file https://www.senat.ro/legis/PDF/2025/25L077LP.PDF
+- 2025-09-29: Decret de promulgare (DP): [dp-22dbde55.md](dp-22dbde55.md); official file https://www.senat.ro/legis/PDF/2025/25L077DP.PDF
+- 2025-09-29: Forma promulgată (FP): [fp-3edc4509.md](fp-3edc4509.md); official file https://www.senat.ro/legis/PDF/2025/25L077FP.PDF
