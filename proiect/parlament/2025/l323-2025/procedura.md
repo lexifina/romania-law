@@ -14,6 +14,7 @@ Initiator: Guvernul României.
 - 2025-09-23: documents published: Aviz comisie
 - 2025-09-24: documents published: Aviz comisie
 - 2025-09-30: documents published: Aviz comisie
+- 2025-10-01: documents published: Aviz comisie
 
 ## Documents
 
@@ -28,3 +29,5 @@ Initiator: Guvernul României.
 - 2025-09-24: Aviz comisie (CA60): [ca60-702358ff.md](ca60-702358ff.md); official file https://www.senat.ro/legis/PDF/2025/25L323CA60.PDF
 - 2025-09-24: Aviz comisie (CA61): [ca61-1ce5bc3e.md](ca61-1ce5bc3e.md); official file https://www.senat.ro/legis/PDF/2025/25L323CA61.PDF
 - 2025-09-30: Aviz comisie (CA41): [ca41-bcb9c1c8.md](ca41-bcb9c1c8.md); official file https://www.senat.ro/legis/PDF/2025/25L323CA41.PDF
+- 2025-10-01: Aviz comisie (CA16): [ca16-7fad8267.md](ca16-7fad8267.md); official file https://www.senat.ro/legis/PDF/2025/25L323CA16.PDF
+- 2025-10-01: Aviz comisie (CA8): [ca8-ebc64f06.md](ca8-ebc64f06.md); official file https://www.senat.ro/legis/PDF/2025/25L323CA8.PDF
