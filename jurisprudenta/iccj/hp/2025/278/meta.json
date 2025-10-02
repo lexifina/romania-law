@@ -1,0 +1,219 @@
+{
+ "key": "iccj-hp-278-2025",
+ "label": "Decizia ÎCCJ nr. 278/2025 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "278",
+ "date": "2025-06-30",
+ "year": "2025",
+ "heading": "DECIZIA nr. 278 din 30 iunie 2025",
+ "subtitle": "referitoare la interpretarea dispozițiilor art. 31 alin. (1) și alin. (1^2) din Legea nr. 360/2002 privind Statutul polițistului, cu modificările și completările ulterioare",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "906",
+  "bis": false,
+  "date": "2025-10-02",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "420/1/2025",
+  "3.440/117/2024"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 360/2002",
+    "number": "360",
+    "year": "2002",
+    "path": "lege/2002/360"
+   },
+   "articles": [
+    {
+     "art": "31",
+     "alin": [
+      "1",
+      "1-2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Tribunalul Cluj - Secția mixtă de contencios administrativ și fiscal, de conflicte de muncă și asigurări sociale în Dosarul nr. 3.440/117/2024, în vederea pronunțării unei hotărâri prealabile cu privire la următoarea chestiune de drept:",
+  "Dacă, în interpretarea dispozițiilor art. 31 alin. (1) și alin. (1^2) din Legea nr. 360/2002 privind Statutul polițistului, cu modificările și completările ulterioare, prin polițist care îndeplinește condițiile de acordare a compensației lunare pentru chirie potrivit alin. (1) al aceluiași articol, respectiv condiția ca polițistul numit în prima funcție sau mutat în interesul serviciului într-o altă localitate decât cea în care își are domiciliul să nu dețină locuință proprietate personală în acea localitate, nici el și nici soția/soțul acestuia, se înțelege că nu se referă chiar la locuința pentru care polițistul solicită acordarea dreptului la compensație, chiar dacă ulterior achiziționării acesteia solicitantul a fost mutat în interes de serviciu în localitatea în care se află locuința achiziționată prin credit bancar?",
+  "Obligatorie, potrivit art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 62/2024",
+    "number": "62",
+    "year": "2024",
+    "path": "oug/2024/62"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 360/2002",
+    "number": "360",
+    "year": "2002",
+    "path": "lege/2002/360"
+   },
+   "articles": [
+    {
+     "art": "31",
+     "alin": [
+      "1",
+      "1-2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 23
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 284/2005",
+    "number": "284",
+    "year": "2005",
+    "path": "hg/2005/284"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": [
+      "d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 288/2018",
+    "number": "288",
+    "year": "2018",
+    "path": "lege/2018/288"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 113/2023",
+    "number": "113",
+    "year": "2023",
+    "path": "lege/2023/113"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul administrativ",
+    "path": "oug/2019/57",
+    "slug": "codul-administrativ"
+   },
+   "articles": [
+    {
+     "art": "536",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-10-02",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/302705",
+  "text_sha256": "65b8a534e99007366836b1653dca2d55926142673cddccd0d0d59951afdcd882",
+  "catalogue_sha256": "65b8a534e99007366836b1653dca2d55926142673cddccd0d0d59951afdcd882",
+  "fetched": "2026-11-03T00:54:12Z",
+  "chars": 35441,
+  "portal_id": "302705",
+  "tip": "DECIZIE"
+ }
+}
