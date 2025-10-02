@@ -1,0 +1,20 @@
+# Proiect de lege L346/2025
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Proiect de lege pentru aprobarea Ordonanţei de urgenţã a Guvernului nr.53/2025 privind fabricarea, ambalarea, etichetarea, reambalarea, depozitarea, comercializarea, importul, exportul, utilizarea şi prestarea de servicii cu produse de protecție a plantelor pe teritoriul României
+
+Initiator: Guvernul României.
+
+## Stages published so far
+
+- 2025-10-02: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+
+## Documents
+
+- 2025-10-02: Adresă de înaintare a inițiativei (AD): [ad-e725f3f7.md](ad-e725f3f7.md); official file https://www.senat.ro/legis/PDF/2025/25L346AD.PDF
+- 2025-10-02: Forma inițiatorului (FG): [fg-6a0a5589.md](fg-6a0a5589.md); official file https://www.senat.ro/legis/PDF/2025/25L346FG.PDF
+- 2025-10-02: Expunere de motive (EM): [em-423567a3.md](em-423567a3.md); official file https://www.senat.ro/legis/PDF/2025/25L346EM.PDF
+- 2025-10-02: Aviz Consiliul Legislativ (LG): [lg-85e070f9.md](lg-85e070f9.md); official file https://www.senat.ro/legis/PDF/2025/25L346LG.PDF
+- 2025-10-02: Document (OG): [og-2d982384.md](og-2d982384.md); official file https://www.senat.ro/legis/PDF/2025/25L346OG.PDF
+- 2025-10-02: Document (HG): [hg-6bcdcf88.md](hg-6bcdcf88.md); official file https://www.senat.ro/legis/PDF/2025/25L346HG.PDF
