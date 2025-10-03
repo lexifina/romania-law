@@ -15,6 +15,7 @@ Initiator: Guvernul României.
 - 2025-09-07: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-09-09: sent for promulgation
 - 2025-09-24: published in the Monitorul Oficial
+- 2025-10-03: promulgated, becomes Legea nr. 145/2025; published in the Monitorul Oficial; documents published: Document (day not given by the bill file), Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -25,3 +26,7 @@ Initiator: Guvernul României.
 - 2025-08-29: Document (HG): [hg-dce4bfec.md](hg-dce4bfec.md); official file https://www.senat.ro/legis/PDF/2025/25L212HG.PDF
 - 2025-09-07: Adresă privind sesizarea CCR (AXS): [axs-4331a30a.md](axs-4331a30a.md); official file https://www.senat.ro/legis/PDF/2025/25L212AXS.PDF
 - 2025-09-07: Forma trimisă la promulgare (LP): [lp-a837a990.md](lp-a837a990.md); official file https://www.senat.ro/legis/PDF/2025/25L212LP.PDF
+- 2025-10-03: Document (SC1): [sc1-e3d63bba.md](sc1-e3d63bba.md); official file https://www.senat.ro/legis/PDF/2025/25L212SC1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-10-03: Document (SC2): [sc2-12cb3061.md](sc2-12cb3061.md); official file https://www.senat.ro/legis/PDF/2025/25L212SC2.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-10-03: Decret de promulgare (DP): [dp-0f012df2.md](dp-0f012df2.md); official file https://www.senat.ro/legis/PDF/2025/25L212DP.PDF
+- 2025-10-03: Forma promulgată (FP): [fp-1226ba88.md](fp-1226ba88.md); official file https://www.senat.ro/legis/PDF/2025/25L212FP.PDF
