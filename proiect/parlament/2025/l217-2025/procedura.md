@@ -15,6 +15,7 @@ Initiator: Guvernul României.
 - 2025-09-10: documents published: Aviz comisie
 - 2025-09-16: documents published: Aviz comisie
 - 2025-10-01: documents published: Raport comisie sesizată pe fond
+- 2025-10-06: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților
 
 ## Documents
 
@@ -28,3 +29,5 @@ Initiator: Guvernul României.
 - 2025-09-10: Aviz comisie (CA16): [ca16-2893404a.md](ca16-2893404a.md); official file https://www.senat.ro/legis/PDF/2025/25L217CA16.PDF
 - 2025-09-16: Aviz comisie (CA41): [ca41-63a2cce3.md](ca41-63a2cce3.md); official file https://www.senat.ro/legis/PDF/2025/25L217CA41.PDF
 - 2025-10-01: Raport comisie sesizată pe fond (CR): [cr-4b9d8996.md](cr-4b9d8996.md); official file https://www.senat.ro/legis/PDF/2025/25L217CR.PDF
+- 2025-10-06: Forma adoptată de Senat (FS): [fs-a40dd277.md](fs-a40dd277.md); official file https://www.senat.ro/legis/PDF/2025/25L217FS.PDF
+- 2025-10-06: Adresă către Camera Deputaților (AM): [am-32d00904.md](am-32d00904.md); official file https://www.senat.ro/legis/PDF/2025/25L217AM.PDF
