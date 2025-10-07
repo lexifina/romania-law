@@ -1,0 +1,221 @@
+{
+ "key": "iccj-hp-304-2025",
+ "label": "Decizia ÎCCJ nr. 304/2025 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "304",
+ "date": "2025-09-15",
+ "year": "2025",
+ "heading": "DECIZIA nr. 304 din 15 septembrie 2025",
+ "subtitle": "referitoare la aplicarea dispozițiilor art. 27^23 din Legea nr. 360/2002 privind Statutul polițistului, cu modificările și completările ulterioare, precum și la aplicarea prevederilor art. 60 alin. (1) din anexa nr. VI la Legea-cadru nr. 153/2017",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "924",
+  "bis": false,
+  "date": "2025-10-07",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "373/1/2025",
+  "1.914/117/2023"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 360/2002",
+    "number": "360",
+    "year": "2002",
+    "path": "lege/2002/360"
+   },
+   "articles": [
+    {
+     "art": "27-23",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 0610/2017",
+    "number": "610",
+    "year": "2017",
+    "path": "hg/2017/610"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Tribunalul Cluj - Secția mixtă de contencios administrativ și fiscal, de conflicte de muncă și asigurări sociale în Dosarul nr. 1.914/117/2023, în vederea pronunțării unei hotărâri prealabile cu privire la următoarele chestiuni de drept: Dacă, în aplicarea dispozițiilor art. 27^23 din Legea nr. 360/2002 privind Statutul polițistului, cu modificările și completările ulterioare, sunt incidente prevederile art. 60 alin. (1) din anexa nr. VI la Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, cu modificările și completările ulterioare, iar, în caz afirmativ, dacă stabilirea salariului de funcție minim corespunzător gradului deținut, pentru o persoană definitivată în profesie și pusă la dispoziție, se va realiza prin raportare la funcția de agent IV sau la cea de agent debutant.",
+  "Dacă, în aplicarea prevederilor art. 60 alin. (1) din anexa nr. VI la Legea-cadru nr. 153/2017, stabilirea salariului de funcție minim corespunzător gradului deținut, pentru o persoană definitivată în profesie și pusă la dispoziție, se va realiza prin raportare la prevederile Ordinului ministrului afacerilor interne nr. S/7 din 31.01.2018 pentru aprobarea normelor metodologice privind aplicarea prevederilor legale referitoare, la salarizarea personalului militar, polițiștilor și personalului civil din Ministerul Afacerilor Interne, cu modificările și completările ulterioare, sau în considerarea prevederilor din Hotărârea Guvernului nr. 0610/2017 privind stabilirea funcțiilor pe grade militare, respectiv pe grade profesionale, pe coeficienți și solde de funcție/salarii de funcție, pentru personalul militar în activitate, polițiștii, funcționarii publici cu statut special din sistemul administrației penitenciare și preoții militari din instituțiile de apărare, ordine publică și securitate națională.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 62/2024",
+    "number": "62",
+    "year": "2024",
+    "path": "oug/2024/62"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 360/2002",
+    "number": "360",
+    "year": "2002",
+    "path": "lege/2002/360"
+   },
+   "articles": [
+    {
+     "art": "27-23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "27-21",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [],
+   "mentions": 25
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârii Guvernului nr. 0610/2017",
+    "number": "610",
+    "year": "2017",
+    "path": "hg/2017/610"
+   },
+   "articles": [],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 284/2010",
+    "number": "284",
+    "year": "2010",
+    "path": "lege/2010/284"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii-cadru nr. 330/2009",
+    "number": "330",
+    "year": "2009",
+    "path": "lege/2009/330"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-10-07",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/302832",
+  "text_sha256": "f5e5095f03ea642de1307d6813d8909eb8c35e8269aa537555b2e151c4c8c028",
+  "catalogue_sha256": "f5e5095f03ea642de1307d6813d8909eb8c35e8269aa537555b2e151c4c8c028",
+  "fetched": "2026-11-03T00:53:56Z",
+  "chars": 36769,
+  "portal_id": "302832",
+  "tip": "DECIZIE"
+ }
+}
