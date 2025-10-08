@@ -12,6 +12,7 @@ Initiator: Guvernul României.
 
 - 2025-09-25: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
 - 2025-10-07: documents published: Aviz comisie
+- 2025-10-08: documents published: Aviz comisie, Raport comisie sesizată pe fond
 
 ## Documents
 
@@ -23,3 +24,7 @@ Initiator: Guvernul României.
 - 2025-09-25: Document (HG): [hg-47ae1983.md](hg-47ae1983.md); official file https://www.senat.ro/legis/PDF/2025/25L330HG.PDF
 - 2025-10-07: Aviz comisie (CA41): [ca41-f0fd3fe0.md](ca41-f0fd3fe0.md); official file https://www.senat.ro/legis/PDF/2025/25L330CA41.PDF
 - 2025-10-07: Aviz comisie (CA92): not held as text; official file https://www.senat.ro/legis/PDF/2025/25L330CA92.PDF
+- 2025-10-08: Aviz comisie (CA12): [ca12-84f17295.md](ca12-84f17295.md); official file https://www.senat.ro/legis/PDF/2025/25L330CA12.PDF
+- 2025-10-08: Aviz comisie (CA16): [ca16-0a6d5ef2.md](ca16-0a6d5ef2.md); official file https://www.senat.ro/legis/PDF/2025/25L330CA16.PDF
+- 2025-10-08: Aviz comisie (CA61): [ca61-71b207fe.md](ca61-71b207fe.md); official file https://www.senat.ro/legis/PDF/2025/25L330CA61.PDF
+- 2025-10-08: Raport comisie sesizată pe fond (CR): [cr-75e9e091.md](cr-75e9e091.md); official file https://www.senat.ro/legis/PDF/2025/25L330CR.PDF
