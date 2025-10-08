@@ -1,0 +1,17 @@
+# Propunere legislativă L505/2025
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Propunere legislativă pentru modificarea și completarea Legii bibliotecilor nr.334/2002
+
+Initiator: Membri ai Parlamentului.
+
+## Stages published so far
+
+- 2025-10-08: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
+
+## Documents
+
+- 2025-10-08: Adresă de înaintare a inițiativei (AD): [ad-55ec78c2.md](ad-55ec78c2.md); official file https://www.senat.ro/legis/PDF/2025/25L505AD.PDF
+- 2025-10-08: Forma inițiatorului (FG): [fg-81a9a8fd.md](fg-81a9a8fd.md); official file https://www.senat.ro/legis/PDF/2025/25L505FG.PDF
+- 2025-10-08: Expunere de motive (EM): [em-41dc5501.md](em-41dc5501.md); official file https://www.senat.ro/legis/PDF/2025/25L505EM.PDF
