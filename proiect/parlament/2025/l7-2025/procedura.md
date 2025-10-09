@@ -21,6 +21,7 @@ Initiator: Guvernul României.
 - 2025-06-16: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-06-18: sent for promulgation
 - 2025-07-07: promulgated, becomes Legea nr. 124/2025; published in the Monitorul Oficial; documents published: Decret de promulgare, Forma promulgată
+- 2025-10-09: documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -43,3 +44,4 @@ Initiator: Guvernul României.
 - 2025-06-16: Forma trimisă la promulgare (LP): [lp-d11cd0e3.md](lp-d11cd0e3.md); official file https://www.senat.ro/legis/PDF/2025/25L007LP.PDF
 - 2025-07-07: Decret de promulgare (DP): [dp-226628a0.md](dp-226628a0.md); official file https://www.senat.ro/legis/PDF/2025/25L007DP.PDF
 - 2025-07-07: Forma promulgată (FP): [fp-5f5116a0.md](fp-5f5116a0.md); official file https://www.senat.ro/legis/PDF/2025/25L007FP.PDF
+- 2025-10-09: Document (TA): [ta-b9f22257.md](ta-b9f22257.md); official file https://www.senat.ro/legis/PDF/2025/25L007TA.PDF (its day is not given by the bill file: shown from the last stage held)
