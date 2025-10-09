@@ -13,6 +13,7 @@ Initiator: Membri ai Parlamentului.
 - 2025-06-30: registered at the Senate
 - 2025-09-09: documents published: Aviz comisie
 - 2025-09-17: registered at the Chamber of Deputies
+- 2025-10-09: documents published: Raport comisie sesizată pe fond
 
 ## Documents
 
@@ -21,3 +22,4 @@ Initiator: Membri ai Parlamentului.
 - 2025-06-10: Punct de vedere (PV): [pv-d86b1836.md](pv-d86b1836.md); official file https://www.senat.ro/legis/PDF/2025/25L496PV.PDF
 - 2025-06-10: Punct de vedere Guvern (SJ): not held as text; official file https://www.senat.ro/legis/PDF/2025/25L496SJ.PDF
 - 2025-09-09: Aviz comisie (CA45): [ca45-613a2f5e.md](ca45-613a2f5e.md); official file https://www.senat.ro/legis/PDF/2025/25L496CA45.PDF
+- 2025-10-09: Raport comisie sesizată pe fond (CR): [cr-d549982e.md](cr-d549982e.md); official file https://www.senat.ro/legis/PDF/2025/25L496CR.PDF
