@@ -19,6 +19,7 @@ Initiator: Membri ai Parlamentului.
 - 2025-09-10: adopted by the Chamber of Deputies
 - 2025-09-15: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-09-20: sent for promulgation
+- 2025-10-09: promulgated, becomes Legea nr. 147/2025; published in the Monitorul Oficial; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -36,3 +37,5 @@ Initiator: Membri ai Parlamentului.
 - 2025-05-26: Adresă către Camera Deputaților (AM): [am-5c46c8dd.md](am-5c46c8dd.md); official file https://www.senat.ro/legis/PDF/2025/25L124AM.PDF
 - 2025-09-15: Adresă privind sesizarea CCR (AXS): [axs-6d5b08e8.md](axs-6d5b08e8.md); official file https://www.senat.ro/legis/PDF/2025/25L124AXS.PDF
 - 2025-09-15: Forma trimisă la promulgare (LP): [lp-fe9bd39a.md](lp-fe9bd39a.md); official file https://www.senat.ro/legis/PDF/2025/25L124LP.PDF
+- 2025-10-09: Decret de promulgare (DP): [dp-29a28c38.md](dp-29a28c38.md); official file https://www.senat.ro/legis/PDF/2025/25L124DP.PDF
+- 2025-10-09: Forma promulgată (FP): [fp-d4196bfe.md](fp-d4196bfe.md); official file https://www.senat.ro/legis/PDF/2025/25L124FP.PDF
