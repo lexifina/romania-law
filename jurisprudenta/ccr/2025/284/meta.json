@@ -1,0 +1,361 @@
+{
+ "key": "dcc-284-2025",
+ "label": "Decizia CCR nr. 284/2025",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "284",
+ "date": "2025-05-29",
+ "year": "2025",
+ "heading": "DECIZIA nr. 284 din 29 mai 2025",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 173 alin. (1) din Codul de procedură penală",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "931",
+  "bis": false,
+  "date": "2025-10-09",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "9.811/63/2016"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "173",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Societatea Polystart Impex - S.R.L., cu sediul în Craiova, în Dosarul nr. 9.811/63/2016 al Tribunalului Dolj - Secția penală și pentru cauze cu minori și constată că dispozițiile art. 173 alin. (1) din Codul de procedură penală sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului Dolj - Secția penală și pentru cauze cu minori și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "173",
+     "alin": [
+      "1",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "285",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "184",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "185",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "186",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "187",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "188",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "189",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "190",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "191",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "174",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "64",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "177",
+     "alin": [
+      "1",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "172",
+     "alin": [
+      "8"
+     ],
+     "lit": null
+    },
+    {
+     "art": "178",
+     "alin": [
+      "5",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "179",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "180",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "181",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 23
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "331",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 78/2000",
+    "number": "78",
+    "year": "2000",
+    "path": "lege/2000/78"
+   },
+   "articles": [
+    {
+     "art": "18-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanței Guvernului nr. 2/2000",
+    "number": "2",
+    "year": "2000",
+    "path": "og/2000/2"
+   },
+   "articles": [],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2025-10-09",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/302906",
+  "text_sha256": "5d418906a612b127fe70b530dbcc1de6a64055130eeecc66384e80928feae676",
+  "catalogue_sha256": "5d418906a612b127fe70b530dbcc1de6a64055130eeecc66384e80928feae676",
+  "fetched": "2026-11-03T00:53:51Z",
+  "chars": 24024,
+  "portal_id": "302906",
+  "tip": "DECIZIE"
+ }
+}
