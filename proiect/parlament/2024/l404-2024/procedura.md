@@ -21,6 +21,7 @@ Initiator: Membri ai Parlamentului.
 - 2025-09-10: adopted by the Chamber of Deputies
 - 2025-09-15: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-09-20: sent for promulgation
+- 2025-10-09: promulgated, becomes Legea nr. 149/2025; published in the Monitorul Oficial; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -38,3 +39,5 @@ Initiator: Membri ai Parlamentului.
 - 2024-10-01: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L404AM.PDF
 - 2025-09-15: Adresă privind sesizarea CCR (AXS): [axs-0e003838.md](axs-0e003838.md); official file https://www.senat.ro/legis/PDF/2024/24L404AXS.PDF
 - 2025-09-15: Forma trimisă la promulgare (LP): [lp-f4491606.md](lp-f4491606.md); official file https://www.senat.ro/legis/PDF/2024/24L404LP.PDF
+- 2025-10-09: Decret de promulgare (DP): [dp-70125721.md](dp-70125721.md); official file https://www.senat.ro/legis/PDF/2024/24L404DP.PDF
+- 2025-10-09: Forma promulgată (FP): [fp-98e4a7c7.md](fp-98e4a7c7.md); official file https://www.senat.ro/legis/PDF/2024/24L404FP.PDF
