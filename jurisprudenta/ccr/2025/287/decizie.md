@@ -1,0 +1,40 @@
+# DECIZIA nr. 287 din 29 mai 2025
+referitoare la excepția de neconstituționalitate a dispozițiilor art. 276 alin. (6) din Codul de procedură penală
+Marian Enache - președinte
+Mihaela Ciochină - judecător
+Cristian Deliorga - judecător
+Dimitrie-Bogdan Licu - judecător
+Laura-Iuliana Scântei - judecător
+Gheorghe Stan - judecător
+Livia Doina Stanciu - judecător
+Elena-Simina Tănăsescu - judecător
+Varga Attila - judecător
+Cristina Teodora Pop - magistrat-asistent
+Cu participarea reprezentantului Ministerului Public, procuror Loredana Brezeanu.
+1. Pe rol se află soluționarea excepției de neconstituționalitate a dispozițiilor art. 276 alin. (6) din Codul de procedură penală, excepție ridicată de Lucian Frențescu și Laurian Frențescu în Dosarul nr. 8.206/55/2019 al Curții de Apel Timișoara - Secția I civilă și care formează obiectul Dosarului Curții Constituționale nr. 648 D/2021.
+2. La apelul nominal lipsesc autorii excepției. Procedura de înștiințare este legal îndeplinită.
+3. Cauza fiind în stare de judecată, președintele Curții acordă cuvântul reprezentantului Ministerului Public, care pune concluzii de respingere a excepției de neconstituționalitate ca inadmisibilă. Se susține în acest sens că autorii critică, în realitate, considerentele pe care Curtea le-a reținut soluționând o excepție cu același obiect.
+CURTEA, având în vedere actele și lucrările dosarului, constată următoarele:
+4. Prin Decizia civilă nr. 65 din 27 ianuarie 2021, pronunțată în Dosarul nr. 8.206/55/2019, Curtea de Apel Timișoara - Secția I civilă a sesizat Curtea Constituțională cu excepția de neconstituționalitate a prevederilor art. 276 alin. (6) din Codul de procedură penală, excepție ridicată de Lucian Frențescu și Laurian Frențescu într-o cauză având ca obiect soluționarea recursului declarat de autorii excepției împotriva unei decizii civile prin care a fost respins apelul formulat de aceiași autori împotriva unei sentințe civile pronunțată cu privire la pretențiile civile invocate de aceștia.
+5. În motivarea excepției de neconstituționalitate, autorii susțin, în esență, că prevederile art. 276 alin. (6) din Codul de procedură penală, în interpretarea dată acestora prin Decizia Curții Constituționale nr. 440 din 22 iunie 2017, extind sfera subiecților procesuali prevăzuți de dispozițiile Codului de procedură penală, ajungându-se, astfel, ca și persoana indicată de petent în plângerea adresată autorităților competente să aibă calitatea de subiect procesual, chiar și în condițiile în care urmărirea penală a fost desfășurată in rem. Se arată că, în aceste condiții, prin Decizia nr. 440 din 22 iunie 2017, Curtea Constituțională a adăugat la legea procesual penală și a dat organelor judiciare libertatea deplină de a-i sancționa pe cei care au curajul necesar de a indica persoanele în privința cărora solicită efectuarea de investigații, persoane care nu au nici măcar calitatea de suspect. Se susține, totodată, că maniera de interpretare a dispozițiilor art. 276 alin. (6) din Codul de procedură penală mai sus arătată încalcă dreptul de acces liber la justiție, prin faptul că permite sancționarea petenților cu plata unor cheltuieli de judecată abuzive în favoarea unor persoane care sunt considerate ca având calitatea de „intimat“, noțiune care nu este definită de dispozițiile Codului de procedură penală, în lipsa desfășurării unor anchete care să stabilească vinovăția sau nevinovăția acestora. Se subliniază că prin această modalitate de interpretare a dispozițiilor legale criticate este descurajată promovarea de plângeri penale prin care să fie indicați eventualii făptuitori, dar și că nu este constituțional ca o persoană să primească sume de bani reprezentând cheltuieli judiciare câtă vreme respectiva persoană nu a avut o calitate procesuală într-o cauză penală. De asemenea, se susține că textul criticat contravine dreptului la apărare prin faptul că acest drept nu poate fi garantat unei persoane care nu are nicio calitate procesuală.
+6. Curtea de Apel Timișoara - Secția I civilă opinează că dispozițiile legale criticate sunt constituționale. Se arată în acest sens că dreptul de acces liber la justiție nu este un drept absolut, exercitarea acestuia putând fi restrânsă potrivit unor criterii obiective și rezonabile. Astfel circumstanțiat, dreptul anterior menționat nu împiedică obligarea persoanelor care se adresează justiției la plata unor cheltuieli judiciare ocazionate de participarea altor persoane la desfășurarea procesului penal. Se susține că această soluție legislativă constituie opțiunea legiuitorului exprimată conform art. 61 alin. (1) din Constituție, aspect subliniat și în cuprinsul Deciziei Curții Constituționale nr. 440 din 22 iunie 2017.
+7. Potrivit prevederilor art. 30 alin. (1) din Legea nr. 47/1992, actul de sesizare a fost comunicat președinților celor două Camere ale Parlamentului, Guvernului și Avocatului Poporului, pentru a-și exprima punctele de vedere asupra excepției de neconstituționalitate.
+8. Președinții celor două Camere ale Parlamentului, Guvernul și Avocatul Poporului nu au comunicat punctele lor de vedere asupra excepției de neconstituționalitate.
+CURTEA, examinând actul de sesizare, raportul întocmit de judecătorul-raportor, concluziile procurorului, dispozițiile legale criticate, raportate la prevederile Constituției, precum și Legea nr. 47/1992, reține următoarele:
+9. Curtea Constituțională a fost legal sesizată și este competentă, potrivit dispozițiilor art. 146 lit. d) din Constituție, precum și ale art. 1 alin. (2), ale art. 2, 3, 10 și 29 din Legea nr. 47/1992, să soluționeze excepția de neconstituționalitate.
+10. Obiectul excepției de neconstituționalitate îl constituie dispozițiile art. 276 alin. (6) din Codul de procedură penală, care au următorul cuprins: „În celelalte cazuri instanța stabilește obligația de restituire potrivit legii civile.“
+11. Se susține că textul criticat contravine prevederilor constituționale ale art. 21 alin. (3) cu privire la dreptul la un proces echitabil și ale art. 24 referitoare la dreptul la apărare.
+12. Examinând excepția de neconstituționalitate, Curtea reține că, în realitate, autorii prezentei excepții de neconstituționalitate nu critică dispozițiile art. 276 alin. (6) din Codul de procedură penală, ci soluția pronunțată de Curtea Constituțională cu privire la acestea prin Decizia nr. 440 din 22 iunie 2017, publicată în Monitorul Oficial al României, Partea I, nr. 883 din 9 noiembrie 2017, afirmând că această soluție încalcă principiile și drepturile fundamentale invocate în prezenta cauză.
+13. Or, Curtea Constituțională a stabilit, în jurisprudența sa, că excepțiile de neconstituționalitate prin a căror motivare sunt criticate propriile sale decizii sunt inadmisibile (a se vedea, cu titlu exemplificativ, Decizia nr. 278 din 4 iunie 2020, publicată în Monitorul Oficial al României, Partea I, nr. 1103 din 19 noiembrie 2020, paragraful 19, și Decizia nr. 1.255 din 22 septembrie 2011, publicată în Monitorul Oficial al României, Partea I, nr. 830 din 23 noiembrie 2011, paragraful II).
+14. Pentru considerentele expuse mai sus, în temeiul art. 146 lit. d) și al art. 147 alin. (4) din Constituție, al art. 1 - 3, al art. 11 alin. (1) lit. A.d) și al art. 29 din Legea nr. 47/1992, cu unanimitate de voturi,
+CURTEA CONSTITUȚIONALĂ
+În numele legii
+DECIDE:
+Respinge, ca inadmisibilă, excepția de neconstituționalitate a dispozițiilor art. 276 alin. (6) din Codul de procedură penală, excepție invocată de Lucian Frențescu și Laurian Frențescu în Dosarul nr. 8.206/55/2019 al Curții de Apel Timișoara - Secția I civilă.
+Definitivă și general obligatorie.
+Decizia se comunică Curții de Apel Timișoara - Secția I civilă și se publică în Monitorul Oficial al României, Partea I.
+Pronunțată în ședința din data de 29 mai 2025.
+PREȘEDINTELE CURȚII CONSTITUȚIONALE pentru MARIAN ENACHE, în temeiul art. 426 alin. (4) din Codul de procedură civilă coroborat cu art. 14 din Legea nr. 47/1992 privind organizarea și funcționarea Curții Constituționale, semnează
+ELENA-SIMINA TĂNĂSESCU
+Magistrat-asistent,
+Cristina Teodora Pop
