@@ -1,0 +1,168 @@
+{
+ "key": "iccj-hp-305-2025",
+ "label": "Decizia ÎCCJ nr. 305/2025 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "305",
+ "date": "2025-09-15",
+ "year": "2025",
+ "heading": "DECIZIA nr. 305 din 15 septembrie 2025",
+ "subtitle": "referitoare la interpretarea și aplicarea unitară a dispozițiilor art. 52 alin. (2) din Legea nr. 53/2003 - Codul muncii, republicată, cu modificările și completările ulterioare",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "938",
+  "bis": false,
+  "date": "2025-10-10",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "623/1/2025",
+  "764/63/2022"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 53/2003",
+    "number": "53",
+    "year": "2003",
+    "path": "lege/2003/53"
+   },
+   "articles": [
+    {
+     "art": "52",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Curtea de Apel Craiova - Secția de litigii de muncă și asigurări sociale în Dosarul nr. 764/63/2022, în vederea pronunțării unei hotărâri prealabile cu privire la următoarea chestiune de drept: În interpretarea și aplicarea unitară a dispozițiilor art. 52 alin. (2) din Legea nr. 53/2003 - Codul muncii, republicată, cu modificările și completările ulterioare, raportat la Decizia Curții Constituționale nr. 279 din 23 aprilie 2015, publicată în Monitorul Oficial al României, Partea I, nr. 431 din 17 iunie 2015, în cazul salariatului cu privire la care angajatorul a emis, în temeiul art. 52 alin. (1) lit. b) teza întâi din Codul muncii, decizie de suspendare a contractului individual de muncă, faptul că raporturile de muncă nu au fost reluate din oficiu de către angajator, iar asupra deciziei de suspendare s-a pronunțat definitiv o instanță judecătorească, însă anterior publicării deciziei de neconstituționalitate, determină incidența unui raport juridic care nu a fost definitiv consolidat, cu efectele și în sensul celor statuate de Înalta Curte de Casație și Justiție - Completul pentru soluționarea recursului în interesul legii, prin Decizia nr. 15 din 19 septembrie 2022, publicată în Monitorul Oficial al României, Partea I, nr. 1065 din 3 noiembrie 2022?",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 53/2003",
+    "number": "53",
+    "year": "2003",
+    "path": "lege/2003/53"
+   },
+   "articles": [
+    {
+     "art": "52",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 18
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituția României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "147",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": [
+      "11"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "96",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "634",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "28",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-10-10",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/302951",
+  "text_sha256": "0a3401cb2c81e664f40dbd94bdb4bf0d7fdf0d44ea554205487cda32f242723e",
+  "catalogue_sha256": "0a3401cb2c81e664f40dbd94bdb4bf0d7fdf0d44ea554205487cda32f242723e",
+  "fetched": "2026-11-03T00:53:48Z",
+  "chars": 57123,
+  "portal_id": "302951",
+  "tip": "DECIZIE"
+ }
+}
