@@ -1,0 +1,279 @@
+{
+ "key": "iccj-hp-192-2025",
+ "label": "Decizia ÎCCJ nr. 192/2025 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "192",
+ "date": "2025-05-19",
+ "year": "2025",
+ "heading": "DECIZIA nr. 192 din 19 mai 2025",
+ "subtitle": "referitoare la interpretare art. 8 alin. (1) și art. 2 pct. 2 lit. f) din Ordonanța de urgență a Guvernului nr. 190/2000 privind regimul metalelor prețioase și pietrelor prețioase în România, republicată",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "946",
+  "bis": false,
+  "date": "2025-10-13",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "131/1/2025",
+  "10.151/182/2022"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 190/2000",
+    "number": "190",
+    "year": "2000",
+    "path": "oug/2000/190"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": [
+      "f"
+     ]
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 71/2011",
+    "number": "71",
+    "year": "2011",
+    "path": "lege/2011/71"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului vamal",
+    "path": "lege/2006/86",
+    "slug": "legea-86-2006"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Tribunalul Maramureș - Secția a II-a civilă, de contencios administrativ și fiscal în Dosarul nr. 10.151/182/2022 pentru pronunțarea unei hotărâri prealabile cu privire la următoarea chestiune de drept:",
+  "Dacă dispozițiile art. 8 alin. (1) și art. 2 pct. 2 lit. f) din Ordonanța de urgență a Guvernului nr. 190/2000 privind regimul metalelor prețioase și pietrelor prețioase în România, republicată, cu modificările și completările ulterioare, raportate la art. 8 alin. (2) din Legea nr. 71/2011 pentru punerea în aplicare a Legii nr. 287/2009 privind Codul civil, cu modificările și completările ulterioare, și la art. 259 alin. (1) și (3) din Regulamentul (UE) nr. 952/2013 al Parlamentului European și al Consiliului din 9 octombrie 2013 de stabilire a Codului vamal al Uniunii, cu modificările și completările ulterioare, se impun a fi interpretate în sensul că obligația de obținere a autorizației pentru introducerea în țară a metalelor și a pietrelor prețioase este incidentă și în cazul bijuteriilor produse în urma prelucrării unor materii prime în cadrul regimului de perfecționare pasivă și reintroduse în țară ca etapă finală a acestui regim sau, din contră, reintroducerea în țară a bijuteriilor obținute în cadrul regimului de perfecționare pasivă nu este supusă autorizării pentru introducerea în țară a metalelor prețioase și a pietrelor prețioase.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "634",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 190/2000",
+    "number": "190",
+    "year": "2000",
+    "path": "oug/2000/190"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": [
+      "f"
+     ]
+    },
+    {
+     "art": "18",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 31
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 71/2011",
+    "number": "71",
+    "year": "2011",
+    "path": "lege/2011/71"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": [
+      "f"
+     ]
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului vamal",
+    "path": "lege/2006/86",
+    "slug": "legea-86-2006"
+   },
+   "articles": [
+    {
+     "art": "211",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "259",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "145",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": [
+      "f"
+     ]
+    }
+   ],
+   "mentions": 23
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 287/2009",
+    "number": "287",
+    "year": "2009",
+    "path": "lege/2009/287"
+   },
+   "articles": [
+    {
+     "art": "598",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 261/2002",
+    "number": "261",
+    "year": "2002",
+    "path": "lege/2002/261"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-10-13",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/303316",
+  "text_sha256": "c8c126fe6938b951e790ac968c467cbb15f9c7a6d69c5b12f10a099690c73b3e",
+  "catalogue_sha256": "c8c126fe6938b951e790ac968c467cbb15f9c7a6d69c5b12f10a099690c73b3e",
+  "fetched": "2026-11-06T03:48:06Z",
+  "chars": 55761,
+  "archive": {
+   "source": "commoncrawl",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/303316",
+   "timestamp": "20260213095857",
+   "crawl": "CC-MAIN-2026-08",
+   "filename": "crawl-data/CC-MAIN-2026-08/segments/1770395506298.48/warc/CC-MAIN-20260213091623-20260213121623-00212.warc.gz",
+   "offset": "248429160",
+   "length": "47521",
+   "sha256": "9cfccc71b3e7a1e012adcca163d4f3fa82a75a47920b094f65ba0e2d62205429"
+  },
+  "portal_id": "303316",
+  "tip": "DECIZIE"
+ }
+}
