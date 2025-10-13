@@ -1,0 +1,11 @@
+Amendă pentru încălcarea RGPD
+Autoritatea Națională de Supraveghere a Prelucrării Datelor cu Caracter Personal a finalizat, în luna septembrie 2025, o investigație la operatorul Vellea Home SRL și a constatat încălcarea dispozițiilor art. 32 alin. (1) lit. b) și alin. (2) din Regulamentul (UE) 679/2016 .
+Ca atare, operatorul a fost sancționat cu amendă în cuantum de 25.376 lei , echivalentul sumei de 5000 euro.
+Investigația a fost demarată ca urmare a transmiterii de către operatorul Vellea Home SRL a unei notificări de încălcare a securității datelor cu caracter personal, potrivit dispozițiilor art. 33 din Regulamentul (UE) 679/2016.
+Astfel, operatorul a notificat faptul că, în urma unui atac informatic, au fost accesate în mod neautorizat date cu caracter personal aparținând unor persoane fizice, în contextul desfășurării de activități comerciale prin intermediul magazinului online deținut.
+În cursul investigației, a rezultat că operatorul nu avea implementate măsuri tehnice și organizatorice adecvate în vederea asigurării unui nivel de securitate corespunzător riscului prezentat de prelucrare, generat în special, în mod accidental sau ilegal, de divulgarea neautorizată sau accesul neautorizat la datele cu caracter personal transmise, stocate sau prelucrate într-un alt mod, incluzând capacitatea de a asigura confidențialitatea, integritatea, disponibilitatea și rezistența continue ale sistemelor și serviciilor de prelucrare pentru a preveni accesare în mod ilegal a datelor.
+Această situație a condus pe o perioadă determinată de timp la accesul nelegal la datele cu caracter personal aparținând unui număr semnificativ de persoane fizice, respectiv date de contact (telefon, adresă e-mail, adresă livrare).
+Ca atare, operatorul a fost sancționat pentru încălcarea dispozițiile art. 32 alin. (1) lit. b) și alin. (2) din Regulamentul (UE) 679/2016.
+De asemenea, în temeiul dispozițiilor art. 58 alin. (2) lit. d) din Regulamentul (UE) 679/2016, s-a dispus față de operator măsura corectivă de revizuire și actualizare a planului existent de răspuns la incidente de securitate, astfel încât acesta să includă proceduri clare pentru detecția timpurie a amenințărilor cibernetice, mecanisme de alertare automată a potențialelor vulnerabilități prin scanarea periodică a sistemelor.
+Direcția juridică și comunicare
+A.N.S.P.D.C.P
