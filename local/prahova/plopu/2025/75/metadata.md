@@ -1,0 +1,9 @@
+# HCL Plopu nr. 75/2025
+
+Text not yet included: no document of it is held. It will be added when it is.
+
+- Council: Consiliul Local al Comunei Plopu
+- Decision: nr. 75/2025
+- Adopted: 2025-10-13
+- Title: privind APROBAREA INDICATORILOR TEHNICO-ECONOMICI SI A DEVIZULUI GENERAL ACTUALIZAT PENTRU OBIECTIVUL DE INVESTITII “MODERNIZARE SI EXTINDERE RETEA DE DISTRIBUTIE GAZE NATURALE IN SATUL HARSA, COMUNA PLOPU, JUDETUL PRAHOVA”, FINANTAT PRIN PROGRAMUL NATIONAL DE INVESTITII “ANGHEL SALIGNY”
+- Record: https://emol.ro/plopu-ph/registru-hcl/229818
