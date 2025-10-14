@@ -1,0 +1,9 @@
+# HCL Vulcana-Pandele nr. 66/2025
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+- Council: Consiliul Local al Comunei Vulcana-Pandele
+- Decision: nr. 66/2025
+- Adopted: 2025-10-14
+- Title: privind implementarea proiectului „Dotări unități de învățământ preșcolar în comuna Vulcana-Pandele, judetul Dâmbovița”
+- Record: https://vulcanapandele.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2954#107353
