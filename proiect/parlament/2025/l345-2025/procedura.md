@@ -9,6 +9,7 @@ Initiator: Guvernul României.
 ## Stages published so far
 
 - 2025-10-02: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+- 2025-10-14: documents published: Aviz comisie
 
 ## Documents
 
@@ -18,3 +19,6 @@ Initiator: Guvernul României.
 - 2025-10-02: Aviz Consiliul Legislativ (LG): [lg-71f944ce.md](lg-71f944ce.md); official file https://www.senat.ro/legis/PDF/2025/25L345LG.PDF
 - 2025-10-02: Document (OG): [og-d8d2f0d9.md](og-d8d2f0d9.md); official file https://www.senat.ro/legis/PDF/2025/25L345OG.PDF
 - 2025-10-02: Document (HG): [hg-fd5ee57c.md](hg-fd5ee57c.md); official file https://www.senat.ro/legis/PDF/2025/25L345HG.PDF
+- 2025-10-14: Aviz comisie (CA12): [ca12-ad0c92c5.md](ca12-ad0c92c5.md); official file https://www.senat.ro/legis/PDF/2025/25L345CA12.PDF
+- 2025-10-14: Aviz comisie (CA43): [ca43-3601b99c.md](ca43-3601b99c.md); official file https://www.senat.ro/legis/PDF/2025/25L345CA43.PDF
+- 2025-10-14: Aviz comisie (CA49): [ca49-24ff9807.md](ca49-24ff9807.md); official file https://www.senat.ro/legis/PDF/2025/25L345CA49.PDF
