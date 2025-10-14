@@ -11,6 +11,7 @@ Initiator: Membri ai Parlamentului.
 - 2025-01-12: first record in the bill file
 - 2025-07-14: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 - 2025-09-03: documents published: Aviz Consiliul Legislativ, Aviz Consiliul Economic și Social
+- 2025-10-14: documents published: Aviz comisie
 
 ## Documents
 
@@ -19,3 +20,5 @@ Initiator: Membri ai Parlamentului.
 - 2025-07-14: Expunere de motive (EM): [em-fb6b7306.md](em-fb6b7306.md); official file https://www.senat.ro/legis/PDF/2025/25L355EM.PDF
 - 2025-09-03: Aviz Consiliul Legislativ (LG): [lg-f2df57d4.md](lg-f2df57d4.md); official file https://www.senat.ro/legis/PDF/2025/25L355LG.PDF
 - 2025-09-03: Aviz Consiliul Economic și Social (ES): [es-1ac5e427.md](es-1ac5e427.md); official file https://www.senat.ro/legis/PDF/2025/25L355ES.PDF
+- 2025-10-14: Aviz comisie (CA12): [ca12-7056f7b6.md](ca12-7056f7b6.md); official file https://www.senat.ro/legis/PDF/2025/25L355CA12.PDF
+- 2025-10-14: Aviz comisie (CA49): [ca49-e366c5f8.md](ca49-e366c5f8.md); official file https://www.senat.ro/legis/PDF/2025/25L355CA49.PDF
