@@ -1,0 +1,10 @@
+# HCL Șărmășag nr. 73/2025
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+- Council: Consiliul Local al Comunei Șărmășag
+- Decision: nr. 73/2025
+- Adopted: 2025-08-14
+- Published: 2025-10-15
+- Title: pentru rectificarea bugetului local al comunei Șărmășag pe trimestrul III 2025
+- Record: https://emol.ro/sarmasag-sj/registru-hcl/229696
