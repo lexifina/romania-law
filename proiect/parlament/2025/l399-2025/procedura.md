@@ -10,6 +10,7 @@ Initiator: Membri ai Parlamentului.
 
 - 2025-06-23: registered at the Chamber of Deputies
 - 2025-09-16: documents published: Raport comisie sesizată pe fond
+- 2025-10-15: rejected by the Chamber of Deputies
 
 ## Documents
 
