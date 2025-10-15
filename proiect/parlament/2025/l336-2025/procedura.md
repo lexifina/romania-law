@@ -10,6 +10,7 @@ Initiator: Membri ai Parlamentului.
 
 - 2025-09-02: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 - 2025-10-07: documents published: Raport comisie sesizată pe fond
+- 2025-10-15: rejected by the Senate; documents published: Adresă către Camera Deputaților
 
 ## Documents
 
@@ -17,3 +18,4 @@ Initiator: Membri ai Parlamentului.
 - 2025-09-02: Forma inițiatorului (FG): [fg-e7f04a68.md](fg-e7f04a68.md); official file https://www.senat.ro/legis/PDF/2025/25L336FG.PDF
 - 2025-09-02: Expunere de motive (EM): [em-d1623616.md](em-d1623616.md); official file https://www.senat.ro/legis/PDF/2025/25L336EM.PDF
 - 2025-10-07: Raport comisie sesizată pe fond (CR): [cr-2fec5d42.md](cr-2fec5d42.md); official file https://www.senat.ro/legis/PDF/2025/25L336CR.PDF
+- 2025-10-15: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2025/25L336AM.PDF
