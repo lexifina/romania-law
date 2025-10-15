@@ -1,0 +1,17 @@
+# Propunere legislativă L521/2025
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Propunere legislativă pentru protecția și integrarea persoanelor cu afecțiuni psihice
+
+Initiator: Membri ai Parlamentului.
+
+## Stages published so far
+
+- 2025-10-15: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
+
+## Documents
+
+- 2025-10-15: Adresă de înaintare a inițiativei (AD): [ad-f61c9f03.md](ad-f61c9f03.md); official file https://www.senat.ro/legis/PDF/2025/25L521AD.PDF
+- 2025-10-15: Forma inițiatorului (FG): [fg-f0a6f019.md](fg-f0a6f019.md); official file https://www.senat.ro/legis/PDF/2025/25L521FG.PDF
+- 2025-10-15: Expunere de motive (EM): [em-96cd81d4.md](em-96cd81d4.md); official file https://www.senat.ro/legis/PDF/2025/25L521EM.PDF
