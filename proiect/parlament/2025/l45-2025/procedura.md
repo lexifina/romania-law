@@ -21,6 +21,7 @@ Initiator: Guvernul României.
 - 2025-04-17: returned for re-examination
 - 2025-06-19: returned for re-examination
 - 2025-10-06: returned for re-examination
+- 2025-10-15: sent for promulgation
 
 ## Documents
 
