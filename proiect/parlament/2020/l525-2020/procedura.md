@@ -20,6 +20,7 @@ Initiator: Membri ai Parlamentului.
 - 2022-04-21: sent for promulgation
 - 2022-08-23: returned for re-examination
 - 2022-09-21: rejected by the Senate
+- 2025-10-16: documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -34,3 +35,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-10-14: Adresă către Camera Deputaților (AM): [am-5f4dab49.md](am-5f4dab49.md); official file https://www.senat.ro/legis/PDF/2020/20L525AM.PDF
 - 2022-04-19: Adresă privind sesizarea CCR (AXS): [axs-7a96052f.md](axs-7a96052f.md); official file https://www.senat.ro/legis/PDF/2020/20L525AXS.PDF
 - 2022-04-19: Forma trimisă la promulgare (LP): [lp-472b5b39.md](lp-472b5b39.md); official file https://www.senat.ro/legis/PDF/2020/20L525LP.PDF
+- 2025-10-16: Document (SC1): [sc1-17e2c1fe.md](sc1-17e2c1fe.md); official file https://www.senat.ro/legis/PDF/2020/20L525SC1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-10-16: Document (DC1): [dc1-32204e17.md](dc1-32204e17.md); official file https://www.senat.ro/legis/PDF/2020/20L525DC1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-10-16: Document (RC1): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L525RC1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-10-16: Document (XD1): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L525XD1.PDF (its day is not given by the bill file: shown from the last stage held)
