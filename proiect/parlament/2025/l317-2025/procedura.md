@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2025-09-24: registered at the Chamber of Deputies
 - 2025-10-08: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-10-10: sent for promulgation
+- 2025-10-16: promulgated, becomes Legea nr. 156/2025; published in the Monitorul Oficial; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -35,3 +36,5 @@ Initiator: Guvernul României.
 - 2025-09-23: Aviz comisie (CA41): [ca41-243e031b.md](ca41-243e031b.md); official file https://www.senat.ro/legis/PDF/2025/25L317CA41.PDF
 - 2025-10-08: Adresă privind sesizarea CCR (AXS): [axs-c70cf934.md](axs-c70cf934.md); official file https://www.senat.ro/legis/PDF/2025/25L317AXS.PDF
 - 2025-10-08: Forma trimisă la promulgare (LP): [lp-9e16b343.md](lp-9e16b343.md); official file https://www.senat.ro/legis/PDF/2025/25L317LP.PDF
+- 2025-10-16: Decret de promulgare (DP): [dp-3b3ebb6a.md](dp-3b3ebb6a.md); official file https://www.senat.ro/legis/PDF/2025/25L317DP.PDF
+- 2025-10-16: Forma promulgată (FP): [fp-d22b2a17.md](fp-d22b2a17.md); official file https://www.senat.ro/legis/PDF/2025/25L317FP.PDF
