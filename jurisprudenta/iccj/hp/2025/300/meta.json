@@ -1,0 +1,204 @@
+{
+ "key": "iccj-hp-300-2025",
+ "label": "Decizia ÎCCJ nr. 300/2025 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "300",
+ "date": "2025-09-15",
+ "year": "2025",
+ "heading": "DECIZIA nr. 300 din 15 septembrie 2025",
+ "subtitle": "referitoare la posibilitatea asimilării perioadei pentru care o persoană a beneficiat de concediu pentru creșterea copilului în vârstă de până la 2 ani ca vechime în specialitate",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "956",
+  "bis": false,
+  "date": "2025-10-16",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "707/1/2025",
+  "3.475/93/2022"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 124/2011",
+    "number": "124",
+    "year": "2011",
+    "path": "oug/2011/124"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Tribunalul Ilfov - Secția civilă în Dosarul nr. 3.475/93/2022, în vederea pronunțării unei hotărâri prealabile cu privire la chestiunea de drept vizând posibilitatea asimilării perioadei pentru care o persoană a beneficiat de concediu pentru creșterea copilului în vârstă de până la 2 ani ca vechime în specialitate, în condițiile în care concediul pentru creșterea copilului în vârstă de până la 2 ani a fost efectuat anterior intrării în vigoare a modificărilor legislative aduse prin Ordonanța de urgență a Guvernului nr. 124/2011 pentru modificarea și completarea unor acte normative care reglementează acordarea de beneficii de asistență socială, aprobată cu modificări și completări prin Legea nr. 166/2012.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 62/2024",
+    "number": "62",
+    "year": "2024",
+    "path": "oug/2024/62"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 124/2011",
+    "number": "124",
+    "year": "2011",
+    "path": "oug/2011/124"
+   },
+   "articles": [
+    {
+     "art": "III",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 148/2005",
+    "number": "148",
+    "year": "2005",
+    "path": "oug/2005/148"
+   },
+   "articles": [
+    {
+     "art": "18",
+     "alin": [
+      "7"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "2",
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-10-16",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/303465",
+  "text_sha256": "90d0f664f08c578a42529506ac9bf86dcebde6a9d63af1e7340d430f728ffd1f",
+  "catalogue_sha256": "90d0f664f08c578a42529506ac9bf86dcebde6a9d63af1e7340d430f728ffd1f",
+  "fetched": "2026-11-03T00:53:46Z",
+  "chars": 28881,
+  "portal_id": "303465",
+  "tip": "DECIZIE"
+ }
+}
