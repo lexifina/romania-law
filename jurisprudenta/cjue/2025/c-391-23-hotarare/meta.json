@@ -1,0 +1,62 @@
+{
+ "key": "cjue-c-391-23-hotarare-2025-10-16",
+ "label": "CJUE, Hotărârea Curții (Camera a noua) din 16 octombrie 2025, Cauza C-391/23",
+ "court": "cjue",
+ "court_name": "Curtea de Justiție a Uniunii Europene",
+ "kind": "hotarare",
+ "act_type": "JUDG",
+ "date": "2025-10-16",
+ "year": "2025",
+ "case": "Cauza C-391/23",
+ "celex": "62023CJ0391",
+ "ecli": "ECLI:EU:C:2025:799",
+ "heading": "Hotărârea Curții (Camera a noua) din 16 octombrie 2025",
+ "formation": "CHAMB_09_C",
+ "procedure": "REFER_PREL",
+ "romania_role": [
+  "originates"
+ ],
+ "referred_by": null,
+ "referral_text": "Cererea de decizie preliminară formulată de Curtea de Apel Bucureşti",
+ "national_followup": [
+  "Curtea de Apel Bucureşti, încheiere din 07/02/2023 (2735/2/2022)"
+ ],
+ "parties": "Braila Winds SRL împotriva Direcției Generale Regionale a Finanțelor Publice București București – Administrația Fiscală pentru Contribuabili Mijlocii București ș.a.",
+ "parties_withheld": false,
+ "keywords": "Trimitere preliminară – Articolul 191 alineatul (2) TFUE – Politica Uniunii în domeniul mediului – Regulamentul (UE) 2021/1119 – Obiectivul Uniunii privind neutralitatea climatică – Directiva (UE) 2019/944 – Norme comune pentru piața internă de energie electrică – Reglementare națională care obligă producătorii de energie electrică din surse regenerabile la plata unui impozit pe venit – Scutire pentru producătorii de energie electrică pe bază de combustibili fosili și de biomasă",
+ "interprets": [
+  {
+   "celex": "32019L0944",
+   "folder": "ue/directiva/2019/944"
+  },
+  {
+   "celex": "32021R1119",
+   "folder": "ue/regulament/2021/1119"
+  }
+ ],
+ "text": "dispozitiv.md",
+ "text_withheld": "personal_data",
+ "withheld_reason": "The full text names the parties' lawyers (and, in older cases, private parties); only the metadata and the operative part are published here, with the official link.",
+ "operative_missing": false,
+ "eurlex_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62023CJ0391",
+ "curia_url": "https://curia.europa.eu/juris/liste.jsf?num=C-391/23&language=ro",
+ "source": {
+  "name": "CELLAR, Publications Office of the European Union",
+  "url": "http://publications.europa.eu/resource/cellar/d7f2323a-aa68-11f0-89c6-01aa75ed71a1.0002.05/DOC_1",
+  "format": "xhtml",
+  "sha256": [
+   "3e7c037e71d14d9f85e4c1cf07b49f8882971c2a805b523f6abdb7961c3030ee"
+  ]
+ },
+ "legal_basis": "Jurisprudența Curții de Justiție a Uniunii Europene (texte oficiale; reutilizare permisă cu menționarea sursei: Decizia Comisiei 2011/833/UE și condițiile CURIA; © Uniunea Europeană). Textele oficiale nu sunt protejate de dreptul de autor în România (Legea nr. 8/1996, art. 9 lit. b).",
+ "attribution": "© European Union, https://eur-lex.europa.eu (via the Publications Office CELLAR)",
+ "operative": [
+  "Pentru aceste motive, Curtea (Camera a noua) declară:",
+  "1) Directiva (UE) 2019/944 a Parlamentului European și a Consiliului din 5 iunie 2019 privind normele comune pentru piața internă de energie electrică și de modificare a Directivei 2012/27/UE",
+  "trebuie interpretată în sensul că",
+  "nu se opune unei reglementări naționale care supune producătorii de energie electrică unui impozit pe veniturile obținute din vânzarea energiei lor electrice la un preț mai mare decât cel stabilit prin această reglementare.",
+  "2) Regulamentul (UE) 2021/1119 al Parlamentului European și al Consiliului din 30 iunie 2021 de instituire a cadrului pentru realizarea neutralității climatice și de modificare a Regulamentelor (CE) nr. 401/2009 și (UE) 2018/1999 („Legea europeană a climei”)",
+  "trebuie interpretat în sensul că",
+  "nu se opune unei reglementări naționale care supune producătorii de energie electrică din surse regenerabile unui impozit pe veniturile obținute din vânzarea energiei lor electrice la un preț mai mare decât cel stabilit de această reglementare, dar care exceptează de la plata acestui impozit producătorii de energie electrică pe bază de combustibili fosili."
+ ]
+}
