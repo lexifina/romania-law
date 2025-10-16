@@ -1,0 +1,8 @@
+Sancțiune pentru încălcarea RGPD
+Autoritatea Națională de Supraveghere a Prelucrării Datelor cu Caracter Personal a finalizat, în luna septembrie 2025, o investigație la PRIME TRANSACTION SA și a constatat încălcarea prevederilor art. 32 alin. (1) lit. b) și d) și alin. (2) din Regulamentul General privind Protecția Datelor (RGPD).
+Ca atare, PRIME TRANSACTION SA a fost sancționată cu amendă în cuantum de 10.162,2 lei, echivalentul a 2.000 EURO.
+Investigația a fost demarată ca urmare a transmiterii de către PRIME TRANSACTION SA a unei notificări de încălcare a securității datelor cu caracter personal în temeiul Regulamentului (UE) 2016/679.
+În cadrul investigației efectuate s-a constatat faptul că încălcarea securității prelucrării datelor s-a produs ca urmare a unui atac informatic, situație ce a condus la accesul neautorizat, în perioada 09-10.06.2025, la datele cu caracter personal (nume, adresă, cod numeric personal, adrese de e-mail, numere de telefon, extrase de cont, venit anual, angajator, copii ale actelor de identitate) ale unui număr semnificativ de persoane vizate.
+Ca atare, raportat la criteriile de individualizare a sancțiunilor prevăzute de art. 83 din Regulamentul (UE) 2016/679, s-a stabilit sancționarea cu amendă pentru încălcarea prevederilor art. 32 alin. (1) lit. b) și d) și alin. (2) din RGPD, întrucât operatorul PRIME TRANSACTION SA nu a implementat măsuri tehnice și organizatorice adecvate și nu a realizat testarea, evaluarea și aprecierea periodice ale eficacității măsurilor tehnice și organizatorice pentru a garanta securitatea prelucrării.
+Direcția juridică și comunicare
+A.N.S.P.D.C.P.
