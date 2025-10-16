@@ -20,6 +20,7 @@ Initiator: Membri ai Parlamentului.
 - 2025-09-17: adopted by the Chamber of Deputies
 - 2025-09-22: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-09-27: sent for promulgation
+- 2025-10-16: promulgated, becomes Legea nr. 153/2025; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -36,3 +37,5 @@ Initiator: Membri ai Parlamentului.
 - 2024-10-14: Adresă către Camera Deputaților (AM): [am-ee542e19.md](am-ee542e19.md); official file https://www.senat.ro/legis/PDF/2024/24L424AM.PDF
 - 2025-09-22: Adresă privind sesizarea CCR (AXS): [axs-f5625b04.md](axs-f5625b04.md); official file https://www.senat.ro/legis/PDF/2024/24L424AXS.PDF
 - 2025-09-22: Forma trimisă la promulgare (LP): [lp-678e6ecd.md](lp-678e6ecd.md); official file https://www.senat.ro/legis/PDF/2024/24L424LP.PDF
+- 2025-10-16: Decret de promulgare (DP): [dp-cfa9b87a.md](dp-cfa9b87a.md); official file https://www.senat.ro/legis/PDF/2024/24L424DP.PDF
+- 2025-10-16: Forma promulgată (FP): [fp-aa9aa334.md](fp-aa9aa334.md); official file https://www.senat.ro/legis/PDF/2024/24L424FP.PDF
