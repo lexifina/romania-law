@@ -11,7 +11,11 @@ Initiator: Membri ai Parlamentului.
 - 2025-06-04: registered at the Chamber of Deputies
 - 2025-09-16: documents published: Raport comisie sesizată pe fond
 - 2025-10-15: rejected by the Chamber of Deputies
+- 2025-10-16: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 
 ## Documents
 
 - 2025-09-16: Raport comisie sesizată pe fond (CR): [cr-c2522a10.md](cr-c2522a10.md); official file https://www.senat.ro/legis/PDF/2025/25L400CR.PDF
+- 2025-10-16: Adresă de înaintare a inițiativei (AD): [ad-52cc351a.md](ad-52cc351a.md); official file https://www.senat.ro/legis/PDF/2025/25L400AD.PDF
+- 2025-10-16: Forma inițiatorului (FG): [fg-e4255379.md](fg-e4255379.md); official file https://www.senat.ro/legis/PDF/2025/25L400FG.PDF
+- 2025-10-16: Expunere de motive (EM): [em-e7a778d0.md](em-e7a778d0.md); official file https://www.senat.ro/legis/PDF/2025/25L400EM.PDF
