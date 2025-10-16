@@ -1,0 +1,291 @@
+{
+ "key": "dcc-236-2025",
+ "label": "Decizia CCR nr. 236/2025",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "236",
+ "date": "2025-04-29",
+ "year": "2025",
+ "heading": "DECIZIA nr. 236 din 29 aprilie 2025",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 5 lit. jj) și ale art. 536 din Ordonanța de urgență a Guvernului nr. 57/2019 privind Codul administrativ",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "956",
+  "bis": false,
+  "date": "2025-10-16",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata",
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "5.350/63/2020",
+  "1.232D/2021",
+  "30.316/3/2019",
+  "2.468/97/2020",
+  "2.469/97/2020",
+  "3.272/97/2020"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 57/2019",
+    "number": "57",
+    "year": "2019",
+    "path": "oug/2019/57"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "536",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "1. Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Mircea Constantinescu în Dosarul nr. 5.350/63/2020* al Tribunalului Dolj - Secția contencios administrativ și fiscal, de Marian Iulian Bunea, Florin Daniel Pelisanu și Gheorghe Severian Berbece în Dosarul nr. 30.316/3/2019* al Tribunalului București - Secția a II-a contencios administrativ și fiscal, de Dan Florin Miclea, Petru Sortan și, respectiv, Tiberiu-Ioan Zoaizon în dosarele nr. 2.468/97/2020*, nr. 2.469/97/2020*, și respectiv, nr. 3.272/97/2020* ale Tribunalului Hunedoara - Secția a II-a civilă, de contencios administrativ și fiscal și constată că dispozițiile art. 536 din Ordonanța de urgență a Guvernului nr. 57/2019 privind Codul administrativ sunt constituționale în raport cu criticile formulate.",
+  "2. Respinge, ca inadmisibilă, excepția de neconstituționalitate a dispozițiilor art. 5 lit. jj) din Ordonanța de urgență a Guvernului nr. 57/2019 privind Codul administrativ, excepție ridicată de aceiași autori în aceleași dosare ale acelorași instanțe judecătorești.",
+  "Decizia se comunică Tribunalului Dolj - Secția contencios administrativ și fiscal, Tribunalului București - Secția a II-a contencios administrativ și fiscal și Tribunalului Hunedoara - Secția a II-a civilă, de contencios administrativ și fiscal și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 57/2019",
+    "number": "57",
+    "year": "2019",
+    "path": "oug/2019/57"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": null,
+     "lit": [
+      "j"
+     ]
+    },
+    {
+     "art": "536",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 20
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 8/2008",
+    "number": "8",
+    "year": "2008",
+    "path": "og/2008/8"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanței Guvernului nr. 64/2006",
+    "number": "64",
+    "year": "2006",
+    "path": "og/2006/64"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 188/1999",
+    "number": "188",
+    "year": "1999",
+    "path": "lege/1999/188"
+   },
+   "articles": [
+    {
+     "art": "109",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 53/2003",
+    "number": "53",
+    "year": "2003",
+    "path": "lege/2003/53"
+   },
+   "articles": [
+    {
+     "art": "272",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "171",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "268",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii dialogului social nr. 62/2011",
+    "number": "62",
+    "year": "2011",
+    "path": "lege/2011/62"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "73",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "j"
+     ]
+    },
+    {
+     "art": "115",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2025-10-16",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/303462",
+  "text_sha256": "80894959e7532b671fec3289c38ef06ccf77f4539f22ae8d7fdfa2eac43905e5",
+  "catalogue_sha256": "80894959e7532b671fec3289c38ef06ccf77f4539f22ae8d7fdfa2eac43905e5",
+  "fetched": "2026-11-03T00:53:46Z",
+  "chars": 24155,
+  "portal_id": "303462",
+  "tip": "DECIZIE"
+ }
+}
