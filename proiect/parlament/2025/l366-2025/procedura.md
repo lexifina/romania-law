@@ -12,6 +12,7 @@ Initiator: Membri ai Parlamentului.
 - 2025-09-03: documents published: Aviz Consiliul Economic și Social, Aviz Consiliul Legislativ
 - 2025-10-14: documents published: Aviz comisie
 - 2025-10-15: documents published: Aviz comisie
+- 2025-10-20: withdrawn by the initiator; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -22,3 +23,6 @@ Initiator: Membri ai Parlamentului.
 - 2025-09-03: Aviz Consiliul Legislativ (LG): [lg-3e9e4a38.md](lg-3e9e4a38.md); official file https://www.senat.ro/legis/PDF/2025/25L366LG.PDF
 - 2025-10-14: Aviz comisie (CA12): [ca12-f835d107.md](ca12-f835d107.md); official file https://www.senat.ro/legis/PDF/2025/25L366CA12.PDF
 - 2025-10-15: Aviz comisie (CA45): [ca45-a7b1f2f9.md](ca45-a7b1f2f9.md); official file https://www.senat.ro/legis/PDF/2025/25L366CA45.PDF
+- 2025-10-20: Document (ANRE): [anre-32324b68.md](anre-32324b68.md); official file https://www.senat.ro/legis/PDF/2025/25L366ANRE.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-10-20: Document (CC): [cc-1b0cc444.md](cc-1b0cc444.md); official file https://www.senat.ro/legis/PDF/2025/25L366CC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-10-20: Document (AR): not held as text; official file https://www.senat.ro/legis/PDF/2025/25L366AR.PDF (its day is not given by the bill file: shown from the last stage held)
