@@ -11,6 +11,7 @@ Initiator: Membri ai Parlamentului.
 - 2025-08-13: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 - 2025-09-03: documents published: Aviz Consiliul Economic și Social, Aviz Consiliul Legislativ
 - 2025-10-14: documents published: Aviz comisie
+- 2025-10-20: withdrawn by the initiator
 
 ## Documents
 
