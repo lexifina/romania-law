@@ -1,0 +1,239 @@
+{
+ "key": "iccj-ril-18-2025",
+ "label": "Decizia ÎCCJ nr. 18/2025 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "18",
+ "date": "2025-09-29",
+ "year": "2025",
+ "heading": "DECIZIA nr. 18 din 29 septembrie 2025",
+ "subtitle": "referitoare la interpretarea și aplicarea unitară a dispozițiilor art. 60 alin. (1) lit. a) din Codul muncii",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU SOLUȚIONAREA RECURSULUI ÎN INTERESUL LEGII",
+ "mo": {
+  "number": "967",
+  "bis": false,
+  "date": "2025-10-20",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "1.469/1/2025"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul muncii",
+    "path": "lege/2003/53",
+    "slug": "codul-muncii"
+   },
+   "articles": [
+    {
+     "art": "60",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite recursul în interesul legii formulat de Colegiul de conducere al Curții de Apel Craiova și, în consecință, stabilește că: În interpretarea și aplicarea unitară a dispozițiilor art. 60 alin. (1) lit. a) din Codul muncii, interdicția de concediere privește momentul emiterii deciziei de concediere, moment care nu se poate situa în perioada în care salariatul se află în incapacitate temporară de muncă stabilită prin certificat medical conform legii.",
+  "Obligatorie, potrivit art. 517 alin. (4) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul muncii",
+    "path": "lege/2003/53",
+    "slug": "codul-muncii"
+   },
+   "articles": [
+    {
+     "art": "60",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "278",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "55",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "77",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "76",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "59",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "78",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "50",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "49",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 37
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "1324",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1325",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1326",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1246",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "216",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "184",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "514",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "515",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 455/2001",
+    "number": "455",
+    "year": "2001",
+    "path": "lege/2001/455"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "126",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-10-20",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/303544",
+  "text_sha256": "6c7c5e47daddd005bc209a82b8621725f91b233aaeb2fd92245c5978c37b9fe7",
+  "catalogue_sha256": "6c7c5e47daddd005bc209a82b8621725f91b233aaeb2fd92245c5978c37b9fe7",
+  "fetched": "2026-11-03T00:53:42Z",
+  "chars": 37869,
+  "portal_id": "303544",
+  "tip": "DECIZIE"
+ }
+}
