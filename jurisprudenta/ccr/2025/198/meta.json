@@ -1,0 +1,264 @@
+{
+ "key": "dcc-198-2025",
+ "label": "Decizia CCR nr. 198/2025",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "198",
+ "date": "2025-04-08",
+ "year": "2025",
+ "heading": "DECIZIA nr. 198 din 8 aprilie 2025",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 19 alin. (1) lit. s) din Legea nr. 550/2004 privind organizarea și funcționarea Jandarmeriei Române",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "969",
+  "bis": false,
+  "date": "2025-10-21",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "27.778/299/2020",
+  "27.788/299/2020",
+  "28.286/299/2020",
+  "27.791/299/2020",
+  "27.790/299/2020",
+  "27.787/299/2020",
+  "27.782/299/2020",
+  "27.783/299/2020",
+  "27.792/299/2020",
+  "27.963/299/2020"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 550/2004",
+    "number": "550",
+    "year": "2004",
+    "path": "lege/2004/550"
+   },
+   "articles": [
+    {
+     "art": "19",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "s"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Teodora Ludmila Vlad în Dosarul nr. 27.778/299/2020, de Mugurel Tolea în dosarele nr. 27.781/299/2020 și nr. 27.825/299/2020, de Dioleta Crețu în Dosarul nr. 27.788/299/2020 ale Judecătoriei Sectorului 1 București - Secția a II-a civilă, de Călin Angheluță în Dosarul nr. 28.286/299/2020, de Săndel Matei în Dosarul nr. 27.791/299/2020 ale Judecătoriei Sectorului 1 București - Secția I civilă, de Viorica Sasu în Dosarul nr. 27.790/299/2020 al Judecătoriei Sectorului 1 București - Secția a II-a civilă și în Dosarul nr. 27.787/299/2020 al Judecătoriei Sectorului 1 București - Secția I civilă, de Marilena Piucă în Dosarul nr. 27.782/299/2020 al Judecătoriei Sectorului 1 București - Secția I civilă, de Ștefan Valentin Manea în Dosarul nr. 27.783/299/2020, de Petru Ion Panaite în Dosarul nr. 27.792/299/2020, de Cătălin Stoiciu în Dosarul nr. 27.963/299/2020 și de Ioan Lazăr în Dosarul nr. 27.786/299/2020 ale Judecătoriei Sectorului 1 București - Secția a II-a civilă și constată că dispozițiile art. 19 alin. (1) lit. s) din Legea nr. 550/2004 privind organizarea și funcționarea Jandarmeriei Române sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Judecătoriei Sectorului 1 București - Secția a II-a civilă și Judecătoriei Sectorului 1 București - Secția I civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 550/2004",
+    "number": "550",
+    "year": "2004",
+    "path": "lege/2004/550"
+   },
+   "articles": [
+    {
+     "art": "19",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "s"
+     ]
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "26",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "5",
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 18
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 4/2008",
+    "number": "4",
+    "year": "2008",
+    "path": "lege/2008/4"
+   },
+   "articles": [
+    {
+     "art": "55",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 682/2001",
+    "number": "682",
+    "year": "2001",
+    "path": "lege/2001/682"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 363/2018",
+    "number": "363",
+    "year": "2018",
+    "path": "lege/2018/363"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2025-10-21",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/303556",
+  "text_sha256": "4705db00537bcb4e2b1986c9cffd96b15d9b8019edb1e4b1b261f55faa926ee0",
+  "catalogue_sha256": "4705db00537bcb4e2b1986c9cffd96b15d9b8019edb1e4b1b261f55faa926ee0",
+  "fetched": "2026-11-03T00:53:34Z",
+  "chars": 54607,
+  "portal_id": "303556",
+  "tip": "DECIZIE"
+ }
+}
