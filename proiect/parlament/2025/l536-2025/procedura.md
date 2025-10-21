@@ -9,7 +9,10 @@ Initiator: Membri ai Parlamentului.
 ## Stages published so far
 
 - 2025-10-20: first record in the bill file
+- 2025-10-21: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 
 ## Documents
 
-- none held as text
+- 2025-10-21: Adresă de înaintare a inițiativei (AD): [ad-bfd274c8.md](ad-bfd274c8.md); official file https://www.senat.ro/legis/PDF/2025/25L536AD.PDF
+- 2025-10-21: Forma inițiatorului (FG): [fg-41c855ef.md](fg-41c855ef.md); official file https://www.senat.ro/legis/PDF/2025/25L536FG.PDF
+- 2025-10-21: Expunere de motive (EM): [em-ddbc29af.md](em-ddbc29af.md); official file https://www.senat.ro/legis/PDF/2025/25L536EM.PDF
