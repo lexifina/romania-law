@@ -1,0 +1,290 @@
+{
+ "key": "dcc-324-2025",
+ "label": "Decizia CCR nr. 324/2025",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "324",
+ "date": "2025-07-01",
+ "year": "2025",
+ "heading": "DECIZIA nr. 324 din 1 iulie 2025",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 495 alin. (1), (2), (3) și (5) din Codul de procedură penală",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "970",
+  "bis": false,
+  "date": "2025-10-21",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "1.706/85/2019",
+  "685D/2020"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "495",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Industrial Software - S.R.L. din Sibiu în Dosarul nr. 1.706/85/2019 al Curții de Apel Alba Iulia - Secția a II-a civilă și constată că dispozițiile art. 495 alin. (1), (2), (3) și (5) din Codul de procedură penală sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Curții de Apel Alba Iulia - Secția a II-a civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "495",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "493",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 290/2004",
+    "number": "290",
+    "year": "2004",
+    "path": "lege/2004/290"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "45",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "31",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "135",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "44",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "146",
+     "alin": null,
+     "lit": [
+      "d"
+     ]
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "136",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 26/1990",
+    "number": "26",
+    "year": "1990",
+    "path": "lege/1990/26"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 152/2015",
+    "number": "152",
+    "year": "2015",
+    "path": "lege/2015/152"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2025-10-21",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/303563",
+  "text_sha256": "87426dbbd0d340e1af08e0d090e2d1822f29d2dd249318773f03c8ecc7d976d2",
+  "catalogue_sha256": "87426dbbd0d340e1af08e0d090e2d1822f29d2dd249318773f03c8ecc7d976d2",
+  "fetched": "2026-11-03T00:53:40Z",
+  "chars": 26598,
+  "portal_id": "303563",
+  "tip": "DECIZIE"
+ }
+}
