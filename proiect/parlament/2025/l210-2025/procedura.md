@@ -15,6 +15,7 @@ Initiator: Guvernul României.
 - 2025-09-07: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-09-09: sent for promulgation
 - 2025-10-08: published in the Monitorul Oficial
+- 2025-10-22: promulgated, becomes Legea nr. 163/2025; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -25,3 +26,5 @@ Initiator: Guvernul României.
 - 2025-08-29: Document (HG): [hg-97279720.md](hg-97279720.md); official file https://www.senat.ro/legis/PDF/2025/25L210HG.PDF
 - 2025-09-07: Adresă privind sesizarea CCR (AXS): [axs-23855883.md](axs-23855883.md); official file https://www.senat.ro/legis/PDF/2025/25L210AXS.PDF
 - 2025-09-07: Forma trimisă la promulgare (LP): [lp-0a4ced95.md](lp-0a4ced95.md); official file https://www.senat.ro/legis/PDF/2025/25L210LP.PDF
+- 2025-10-22: Decret de promulgare (DP): [dp-2c085f3f.md](dp-2c085f3f.md); official file https://www.senat.ro/legis/PDF/2025/25L210DP.PDF
+- 2025-10-22: Forma promulgată (FP): [fp-6c3dd8ef.md](fp-6c3dd8ef.md); official file https://www.senat.ro/legis/PDF/2025/25L210FP.PDF
