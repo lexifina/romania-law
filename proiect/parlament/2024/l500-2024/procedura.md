@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2025-10-01: adopted by the Chamber of Deputies
 - 2025-10-06: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-10-08: sent for promulgation
+- 2025-10-22: promulgated, becomes Legea nr. 167/2025; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -39,3 +40,5 @@ Initiator: Guvernul României.
 - 2024-10-21: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L500AM.PDF
 - 2025-10-06: Adresă privind sesizarea CCR (AXS): [axs-49220ee8.md](axs-49220ee8.md); official file https://www.senat.ro/legis/PDF/2024/24L500AXS.PDF
 - 2025-10-06: Forma trimisă la promulgare (LP): [lp-c0133abc.md](lp-c0133abc.md); official file https://www.senat.ro/legis/PDF/2024/24L500LP.PDF
+- 2025-10-22: Decret de promulgare (DP): [dp-5c9fc1e2.md](dp-5c9fc1e2.md); official file https://www.senat.ro/legis/PDF/2024/24L500DP.PDF
+- 2025-10-22: Forma promulgată (FP): [fp-6dbc1624.md](fp-6dbc1624.md); official file https://www.senat.ro/legis/PDF/2024/24L500FP.PDF
