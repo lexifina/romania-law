@@ -19,6 +19,7 @@ Initiator: Membri ai Parlamentului.
 - 2025-09-22: adopted by the Senate; documents published: Forma adoptată de Senat
 - 2025-09-29: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-10-04: sent for promulgation
+- 2025-10-22: promulgated, becomes Legea nr. 161/2025; published in the Monitorul Oficial; documents published: Document (day not given by the bill file), Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -31,3 +32,6 @@ Initiator: Membri ai Parlamentului.
 - 2025-09-22: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L214FS.PDF
 - 2025-09-29: Adresă privind sesizarea CCR (AXS): [axs-06f221b1.md](axs-06f221b1.md); official file https://www.senat.ro/legis/PDF/2024/24L214AXS.PDF
 - 2025-09-29: Forma trimisă la promulgare (LP): [lp-f079cf47.md](lp-f079cf47.md); official file https://www.senat.ro/legis/PDF/2024/24L214LP.PDF
+- 2025-10-22: Document (AL): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L214AL.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-10-22: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L214DP.PDF
+- 2025-10-22: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L214FP.PDF
