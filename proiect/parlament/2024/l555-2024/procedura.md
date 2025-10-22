@@ -17,6 +17,7 @@ Initiator: Membri ai Parlamentului.
 - 2025-09-24: adopted by the Chamber of Deputies
 - 2025-09-29: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-10-04: sent for promulgation
+- 2025-10-22: promulgated, becomes Legea nr. 160/2025; published in the Monitorul Oficial; documents published: Document (day not given by the bill file), Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -31,3 +32,6 @@ Initiator: Membri ai Parlamentului.
 - 2024-11-04: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L555AM.PDF
 - 2025-09-29: Adresă privind sesizarea CCR (AXS): [axs-d216e7f6.md](axs-d216e7f6.md); official file https://www.senat.ro/legis/PDF/2024/24L555AXS.PDF
 - 2025-09-29: Forma trimisă la promulgare (LP): [lp-43622b2f.md](lp-43622b2f.md); official file https://www.senat.ro/legis/PDF/2024/24L555LP.PDF
+- 2025-10-22: Document (CF): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L555CF.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-10-22: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L555DP.PDF
+- 2025-10-22: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L555FP.PDF
