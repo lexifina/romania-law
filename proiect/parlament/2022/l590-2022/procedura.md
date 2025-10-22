@@ -17,6 +17,7 @@ Initiator: Guvernul României.
 - 2025-10-01: adopted by the Chamber of Deputies
 - 2025-10-06: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-10-08: sent for promulgation
+- 2025-10-22: promulgated, becomes Legea nr. 164/2025; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -31,3 +32,5 @@ Initiator: Guvernul României.
 - 2022-10-03: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L590AM.PDF
 - 2025-10-06: Adresă privind sesizarea CCR (AXS): [axs-69f3f8b2.md](axs-69f3f8b2.md); official file https://www.senat.ro/legis/PDF/2022/22L590AXS.PDF
 - 2025-10-06: Forma trimisă la promulgare (LP): [lp-5a1a9fce.md](lp-5a1a9fce.md); official file https://www.senat.ro/legis/PDF/2022/22L590LP.PDF
+- 2025-10-22: Decret de promulgare (DP): [dp-c552268d.md](dp-c552268d.md); official file https://www.senat.ro/legis/PDF/2022/22L590DP.PDF
+- 2025-10-22: Forma promulgată (FP): [fp-703b5bb5.md](fp-703b5bb5.md); official file https://www.senat.ro/legis/PDF/2022/22L590FP.PDF
