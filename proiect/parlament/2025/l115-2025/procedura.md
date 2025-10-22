@@ -19,6 +19,7 @@ Initiator: Membri ai Parlamentului.
 - 2025-06-30: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-07-05: sent for promulgation
 - 2025-09-16: published in the Monitorul Oficial
+- 2025-10-22: promulgated, becomes Legea nr. 162/2025; published in the Monitorul Oficial; documents published: Document (day not given by the bill file), Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -33,3 +34,8 @@ Initiator: Membri ai Parlamentului.
 - 2025-06-10: Adresă către Camera Deputaților (AM): [am-18bd208a.md](am-18bd208a.md); official file https://www.senat.ro/legis/PDF/2025/25L115AM.PDF
 - 2025-06-30: Adresă privind sesizarea CCR (AXS): [axs-eb3b2d2d.md](axs-eb3b2d2d.md); official file https://www.senat.ro/legis/PDF/2025/25L115AXS.PDF
 - 2025-06-30: Forma trimisă la promulgare (LP): [lp-1595435e.md](lp-1595435e.md); official file https://www.senat.ro/legis/PDF/2025/25L115LP.PDF
+- 2025-10-22: Document (CC): [cc-c8331812.md](cc-c8331812.md); official file https://www.senat.ro/legis/PDF/2025/25L115CC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-10-22: Document (SC1): [sc1-1d236bb4.md](sc1-1d236bb4.md); official file https://www.senat.ro/legis/PDF/2025/25L115SC1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-10-22: Document (DC1): [dc1-a9d858d8.md](dc1-a9d858d8.md); official file https://www.senat.ro/legis/PDF/2025/25L115DC1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-10-22: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2025/25L115DP.PDF
+- 2025-10-22: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2025/25L115FP.PDF
