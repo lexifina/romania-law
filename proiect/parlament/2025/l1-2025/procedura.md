@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2025-10-01: adopted by the Chamber of Deputies
 - 2025-10-06: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-10-08: sent for promulgation
+- 2025-10-22: promulgated, becomes Legea nr. 165/2025; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -36,3 +37,5 @@ Initiator: Guvernul României.
 - 2025-02-18: Aviz comisie (CA45): [ca45-a666b3b0.md](ca45-a666b3b0.md); official file https://www.senat.ro/legis/PDF/2025/25L001CA45.PDF
 - 2025-10-06: Adresă privind sesizarea CCR (AXS): [axs-b22b579a.md](axs-b22b579a.md); official file https://www.senat.ro/legis/PDF/2025/25L001AXS.PDF
 - 2025-10-06: Forma trimisă la promulgare (LP): [lp-66617bd8.md](lp-66617bd8.md); official file https://www.senat.ro/legis/PDF/2025/25L001LP.PDF
+- 2025-10-22: Decret de promulgare (DP): [dp-caab18a5.md](dp-caab18a5.md); official file https://www.senat.ro/legis/PDF/2025/25L001DP.PDF
+- 2025-10-22: Forma promulgată (FP): [fp-3d6cf0a7.md](fp-3d6cf0a7.md); official file https://www.senat.ro/legis/PDF/2025/25L001FP.PDF
