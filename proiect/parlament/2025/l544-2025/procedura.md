@@ -1,0 +1,17 @@
+# Propunere legislativă L544/2025
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Propunere legislativă pentru modificarea și completarea articolului 781 din Legea nr.134/2010 privind Codul de procedură civilă, republicată, cu modificările și completările ulterioare
+
+Initiator: Membri ai Parlamentului.
+
+## Stages published so far
+
+- 2025-10-23: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
+
+## Documents
+
+- 2025-10-23: Adresă de înaintare a inițiativei (AD): [ad-7ddbbd73.md](ad-7ddbbd73.md); official file https://www.senat.ro/legis/PDF/2025/25L544AD.PDF
+- 2025-10-23: Forma inițiatorului (FG): [fg-f6b66042.md](fg-f6b66042.md); official file https://www.senat.ro/legis/PDF/2025/25L544FG.PDF
+- 2025-10-23: Expunere de motive (EM): [em-45c0dc42.md](em-45c0dc42.md); official file https://www.senat.ro/legis/PDF/2025/25L544EM.PDF
