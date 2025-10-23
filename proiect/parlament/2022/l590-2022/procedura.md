@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2025-10-06: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-10-08: sent for promulgation
 - 2025-10-22: promulgated, becomes Legea nr. 164/2025; documents published: Decret de promulgare, Forma promulgată
+- 2025-10-23: published in the Monitorul Oficial
 
 ## Documents
 
