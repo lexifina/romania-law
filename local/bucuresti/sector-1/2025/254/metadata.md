@@ -1,0 +1,11 @@
+# HCLS1 nr. 254/2025
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here. Its title names a private person or a private property, so it is not shown.
+
+- Council: Consiliul Local al Sectorului 1 al Municipiului București
+- Decision: nr. 254/2025
+- Adopted: 2025-09-30
+- Published: 2025-10-23
+- Record: https://emol.ro/sectorul-1/registru-hcl/?an=2025
+- Document: https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/222352/254.2025-AN.pdf
+- Document sha256: ead443d9348e6c4f7a2dea4fd8596184b3b54d1cb74c8eb47b29b41e08ba6195
