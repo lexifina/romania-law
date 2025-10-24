@@ -16,6 +16,7 @@ Initiator: Guvernul României.
 - 2025-09-09: sent for promulgation
 - 2025-10-08: published in the Monitorul Oficial
 - 2025-10-22: promulgated, becomes Legea nr. 163/2025; documents published: Decret de promulgare, Forma promulgată
+- 2025-10-24: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -28,3 +29,6 @@ Initiator: Guvernul României.
 - 2025-09-07: Forma trimisă la promulgare (LP): [lp-0a4ced95.md](lp-0a4ced95.md); official file https://www.senat.ro/legis/PDF/2025/25L210LP.PDF
 - 2025-10-22: Decret de promulgare (DP): [dp-2c085f3f.md](dp-2c085f3f.md); official file https://www.senat.ro/legis/PDF/2025/25L210DP.PDF
 - 2025-10-22: Forma promulgată (FP): [fp-6c3dd8ef.md](fp-6c3dd8ef.md); official file https://www.senat.ro/legis/PDF/2025/25L210FP.PDF
+- 2025-10-24: Document (SC1): [sc1-01aefa61.md](sc1-01aefa61.md); official file https://www.senat.ro/legis/PDF/2025/25L210SC1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-10-24: Document (SC2): [sc2-fccd2750.md](sc2-fccd2750.md); official file https://www.senat.ro/legis/PDF/2025/25L210SC2.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-10-24: Document (DC1): [dc1-01111b41.md](dc1-01111b41.md); official file https://www.senat.ro/legis/PDF/2025/25L210DC1.PDF (its day is not given by the bill file: shown from the last stage held)
