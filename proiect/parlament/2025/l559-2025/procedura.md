@@ -1,0 +1,19 @@
+# Propunere legislativă L559/2025
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 117/2026 (`legea-117-2026`).
+
+Propunere legislativă pentru modificarea și completarea Legii nr.481/2004 privind protecția civilă
+
+Initiator: Membri ai Parlamentului.
+
+## Stages published so far
+
+- 2025-10-28: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
+
+## Documents
+
+- 2025-10-28: Adresă de înaintare a inițiativei (AD): [ad-39818f9e.md](ad-39818f9e.md); official file https://www.senat.ro/legis/PDF/2025/25L559AD.PDF
+- 2025-10-28: Forma inițiatorului (FG): [fg-949bf022.md](fg-949bf022.md); official file https://www.senat.ro/legis/PDF/2025/25L559FG.PDF
+- 2025-10-28: Expunere de motive (EM): [em-e1c2b782.md](em-e1c2b782.md); official file https://www.senat.ro/legis/PDF/2025/25L559EM.PDF
