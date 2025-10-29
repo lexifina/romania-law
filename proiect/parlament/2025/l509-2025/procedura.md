@@ -1,0 +1,19 @@
+# Propunere legislativă L509/2025
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 53/2026 (`legea-53-2026`).
+
+Propunere legislativă pentru prevenirea și combaterea femicidelor și a violențelor care le preced
+
+Initiator: Membri ai Parlamentului.
+
+## Stages published so far
+
+- 2025-10-29: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
+
+## Documents
+
+- 2025-10-29: Adresă de înaintare a inițiativei (AD): [ad-58278520.md](ad-58278520.md); official file https://www.senat.ro/legis/PDF/2025/25L509AD.PDF
+- 2025-10-29: Forma inițiatorului (FG): [fg-aaeaa192.md](fg-aaeaa192.md); official file https://www.senat.ro/legis/PDF/2025/25L509FG.PDF
+- 2025-10-29: Expunere de motive (EM): [em-3e70ccc1.md](em-3e70ccc1.md); official file https://www.senat.ro/legis/PDF/2025/25L509EM.PDF
