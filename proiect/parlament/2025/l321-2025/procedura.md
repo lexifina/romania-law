@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2025-09-29: adopted by the Senate; documents published: Forma adoptată de Senat
 - 2025-10-06: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-10-11: sent for promulgation
+- 2025-10-29: promulgated, becomes Legea nr. 170/2025; published in the Monitorul Oficial; documents published: Document (day not given by the bill file), Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -31,3 +32,9 @@ Initiator: Guvernul României.
 - 2025-09-29: Forma adoptată de Senat (FS): [fs-d4261e15.md](fs-d4261e15.md); official file https://www.senat.ro/legis/PDF/2025/25L321FS.PDF
 - 2025-10-06: Adresă privind sesizarea CCR (AXS): [axs-5014be0f.md](axs-5014be0f.md); official file https://www.senat.ro/legis/PDF/2025/25L321AXS.PDF
 - 2025-10-06: Forma trimisă la promulgare (LP): [lp-1201cdec.md](lp-1201cdec.md); official file https://www.senat.ro/legis/PDF/2025/25L321LP.PDF
+- 2025-10-29: Document (DR): [dr-1a370576.md](dr-1a370576.md); official file https://www.senat.ro/legis/PDF/2025/25L321DR.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-10-29: Document (TX): [tx-aff345fd.md](tx-aff345fd.md); official file https://www.senat.ro/legis/PDF/2025/25L321TX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-10-29: Document (AL): [al-4b0920eb.md](al-4b0920eb.md); official file https://www.senat.ro/legis/PDF/2025/25L321AL.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-10-29: Decret de promulgare (DP): [dp-0efa764d.md](dp-0efa764d.md); official file https://www.senat.ro/legis/PDF/2025/25L321DP.PDF
+- 2025-10-29: Forma promulgată (FP): [fp-b1043260.md](fp-b1043260.md); official file https://www.senat.ro/legis/PDF/2025/25L321FP.PDF
+- 2025-10-29: Document (TC): [tc-93fd1a0e.md](tc-93fd1a0e.md); official file https://www.senat.ro/legis/PDF/2025/25L321TC.PDF (its day is not given by the bill file: shown from the last stage held)
