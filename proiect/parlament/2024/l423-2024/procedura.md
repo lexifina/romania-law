@@ -19,6 +19,7 @@ Initiator: Membri ai Parlamentului.
 - 2025-10-01: adopted by the Chamber of Deputies
 - 2025-10-06: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-10-11: sent for promulgation
+- 2025-10-29: promulgated, becomes Legea nr. 168/2025; published in the Monitorul Oficial; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -32,3 +33,5 @@ Initiator: Membri ai Parlamentului.
 - 2024-09-16: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L423AM.PDF
 - 2025-10-06: Adresă privind sesizarea CCR (AXS): [axs-f45779c8.md](axs-f45779c8.md); official file https://www.senat.ro/legis/PDF/2024/24L423AXS.PDF
 - 2025-10-06: Forma trimisă la promulgare (LP): [lp-f1cbdc7d.md](lp-f1cbdc7d.md); official file https://www.senat.ro/legis/PDF/2024/24L423LP.PDF
+- 2025-10-29: Decret de promulgare (DP): [dp-dc1b46bb.md](dp-dc1b46bb.md); official file https://www.senat.ro/legis/PDF/2024/24L423DP.PDF
+- 2025-10-29: Forma promulgată (FP): [fp-c7164ee2.md](fp-c7164ee2.md); official file https://www.senat.ro/legis/PDF/2024/24L423FP.PDF
