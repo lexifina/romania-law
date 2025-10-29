@@ -21,6 +21,7 @@ Initiator: Membri ai Parlamentului.
 - 2023-10-21: sent for promulgation
 - 2024-04-09: returned for re-examination
 - 2024-05-27: rejected by the Senate
+- 2025-10-29: documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -38,3 +39,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-10-21: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L380AM.PDF
 - 2023-10-16: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L380AXS.PDF
 - 2023-10-16: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L380LP.PDF
+- 2025-10-29: Document (SC1): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L380SC1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-10-29: Document (DC1): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L380DC1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-10-29: Document (RC1): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L380RC1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-10-29: Document (XD1): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L380XD1.PDF (its day is not given by the bill file: shown from the last stage held)
