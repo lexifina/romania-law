@@ -1,0 +1,130 @@
+{
+ "key": "iccj-hp-316-2025",
+ "label": "Decizia ÎCCJ nr. 316/2025 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "316",
+ "date": "2025-09-22",
+ "year": "2025",
+ "heading": "DECIZIE nr. 316 din 22 septembrie 2025",
+ "subtitle": "referitoare la dispozițiile pct. 5^1 din anexa nr. II a Legii-cadru nr. 153/2017 privind majorarea salariului de bază cu 10% sunt aplicabile unui psiholog practicant având atestat de psiholog cu drept de liberă practică în specialitatea psihologie clinică, ce își desfășoară activitatea în cadrul unităților de asistență socială",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "996",
+  "bis": false,
+  "date": "2025-10-29",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "621/1/2025",
+  "430/120/2024"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge ca inadmisibilă sesizarea formulată de Curtea de Apel Ploiești - Secția I civilă privind lămurirea următoarei chestiuni de drept:\"Dacă dispozițiile pct. 5^1 din anexa nr. II a Legii-cadru nr. 153/2017 privind majorarea salariului de bază cu 10% sunt aplicabile unui psiholog practicant având atestat de psiholog cu drept de liberă practică în specialitatea psihologie clinică, ce își desfășoară activitatea în cadrul unităților de asistență socială.\"",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 62/2024",
+    "number": "62",
+    "year": "2024",
+    "path": "oug/2024/62"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "96",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-10-29",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/303779",
+  "text_sha256": "8cb3e762838a429bbee2cc5a0ab7c42a9e32483d42d5f9302d5f9839f464ec63",
+  "catalogue_sha256": "8cb3e762838a429bbee2cc5a0ab7c42a9e32483d42d5f9302d5f9839f464ec63",
+  "fetched": "2026-11-03T00:53:27Z",
+  "chars": 21628,
+  "portal_id": "303779",
+  "tip": "DECIZIE"
+ }
+}
