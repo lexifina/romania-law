@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2025-10-08: adopted by the Chamber of Deputies
 - 2025-10-13: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-10-15: sent for promulgation
+- 2025-10-30: promulgated, becomes Legea nr. 171/2025; published in the Monitorul Oficial; documents published: Document (day not given by the bill file), Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -38,3 +39,6 @@ Initiator: Guvernul României.
 - 2024-10-14: Adresă către Camera Deputaților (AM): [am-776944eb.md](am-776944eb.md); official file https://www.senat.ro/legis/PDF/2024/24L473AM.PDF
 - 2025-10-13: Adresă privind sesizarea CCR (AXS): [axs-4aad4bc5.md](axs-4aad4bc5.md); official file https://www.senat.ro/legis/PDF/2024/24L473AXS.PDF
 - 2025-10-13: Forma trimisă la promulgare (LP): [lp-8888a9e0.md](lp-8888a9e0.md); official file https://www.senat.ro/legis/PDF/2024/24L473LP.PDF
+- 2025-10-30: Document (TA): [ta-f39f7ac7.md](ta-f39f7ac7.md); official file https://www.senat.ro/legis/PDF/2024/24L473TA.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-10-30: Decret de promulgare (DP): [dp-78a8146c.md](dp-78a8146c.md); official file https://www.senat.ro/legis/PDF/2024/24L473DP.PDF
+- 2025-10-30: Forma promulgată (FP): [fp-aaa1db90.md](fp-aaa1db90.md); official file https://www.senat.ro/legis/PDF/2024/24L473FP.PDF
