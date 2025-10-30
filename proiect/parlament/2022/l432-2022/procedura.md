@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2025-10-08: adopted by the Chamber of Deputies
 - 2025-10-13: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-10-15: sent for promulgation
+- 2025-10-30: promulgated, becomes Legea nr. 172/2025; published in the Monitorul Oficial; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -36,3 +37,5 @@ Initiator: Guvernul României.
 - 2022-09-19: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L432AM.PDF
 - 2025-10-13: Adresă privind sesizarea CCR (AXS): [axs-5b739e16.md](axs-5b739e16.md); official file https://www.senat.ro/legis/PDF/2022/22L432AXS.PDF
 - 2025-10-13: Forma trimisă la promulgare (LP): [lp-0d3eec91.md](lp-0d3eec91.md); official file https://www.senat.ro/legis/PDF/2022/22L432LP.PDF
+- 2025-10-30: Decret de promulgare (DP): [dp-7fdb4af7.md](dp-7fdb4af7.md); official file https://www.senat.ro/legis/PDF/2022/22L432DP.PDF
+- 2025-10-30: Forma promulgată (FP): [fp-120c9f2b.md](fp-120c9f2b.md); official file https://www.senat.ro/legis/PDF/2022/22L432FP.PDF
