@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2025-10-08: adopted by the Chamber of Deputies
 - 2025-10-13: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-10-15: sent for promulgation
+- 2025-10-30: promulgated, becomes Legea nr. 175/2025; published in the Monitorul Oficial; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -37,3 +38,5 @@ Initiator: Guvernul României.
 - 2021-05-15: Adresă către Camera Deputaților (AM): [am-0643fafe.md](am-0643fafe.md); official file https://www.senat.ro/legis/PDF/2021/21L104AM.PDF
 - 2025-10-13: Adresă privind sesizarea CCR (AXS): [axs-97f0cb56.md](axs-97f0cb56.md); official file https://www.senat.ro/legis/PDF/2021/21L104AXS.PDF
 - 2025-10-13: Forma trimisă la promulgare (LP): [lp-ab453575.md](lp-ab453575.md); official file https://www.senat.ro/legis/PDF/2021/21L104LP.PDF
+- 2025-10-30: Decret de promulgare (DP): [dp-919fff18.md](dp-919fff18.md); official file https://www.senat.ro/legis/PDF/2021/21L104DP.PDF
+- 2025-10-30: Forma promulgată (FP): [fp-385dbc7c.md](fp-385dbc7c.md); official file https://www.senat.ro/legis/PDF/2021/21L104FP.PDF
