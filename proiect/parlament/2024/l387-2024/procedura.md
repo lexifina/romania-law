@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2025-10-08: adopted by the Chamber of Deputies
 - 2025-10-13: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-10-15: sent for promulgation
+- 2025-10-30: promulgated, becomes Legea nr. 173/2025; published in the Monitorul Oficial; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -36,3 +37,5 @@ Initiator: Guvernul României.
 - 2024-09-16: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L387AM.PDF
 - 2025-10-13: Adresă privind sesizarea CCR (AXS): [axs-855f73b0.md](axs-855f73b0.md); official file https://www.senat.ro/legis/PDF/2024/24L387AXS.PDF
 - 2025-10-13: Forma trimisă la promulgare (LP): [lp-c6abc223.md](lp-c6abc223.md); official file https://www.senat.ro/legis/PDF/2024/24L387LP.PDF
+- 2025-10-30: Decret de promulgare (DP): [dp-42ab5a69.md](dp-42ab5a69.md); official file https://www.senat.ro/legis/PDF/2024/24L387DP.PDF
+- 2025-10-30: Forma promulgată (FP): [fp-c5bfef3f.md](fp-c5bfef3f.md); official file https://www.senat.ro/legis/PDF/2024/24L387FP.PDF
