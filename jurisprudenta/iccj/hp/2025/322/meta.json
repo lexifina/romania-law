@@ -1,0 +1,234 @@
+{
+ "key": "iccj-hp-322-2025",
+ "label": "Decizia ÎCCJ nr. 322/2025 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "322",
+ "date": "2025-09-22",
+ "year": "2025",
+ "heading": "DECIZIA nr. 322 din 22 septembrie 2025",
+ "subtitle": "referitoare la încălcarea principiului nediscriminării, prin limitarea pentru funcționarii publici ale căror salarii lunare nete sunt mai mari de 8.000 lei a sporului pentru condiții periculoase sau vătămătoare la 1.500 lei brut lunar conform art. XXVI pct. 10 din Legea nr. 296/2023 privind unele măsuri fiscal-bugetare pentru asigurarea sustenabilității financiare a României pe termen lung, cu modificările și completările ulterioare, și, respectiv, prin neacordarea indemnizației de hrană conform art. XXVI pct. 1 din aceeași lege",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "1009",
+  "bis": false,
+  "date": "2025-10-31",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "940/1/2025",
+  "2.624/30/2024"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituția României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Tribunalul Timiș - Secția de contencios administrativ și fiscal în Dosarul nr. 2.624/30/2024, în vederea pronunțării unei hotărâri prealabile cu privire la următoarele chestiuni de drept:",
+  "Dacă prin limitarea pentru funcționarii publici ale căror salarii lunare nete sunt mai mari de 8.000 lei a sporului pentru condiții periculoase sau vătămătoare la 1.500 lei brut lunar conform art. XXVI pct. 10 din Legea nr. 296/2023 privind unele măsuri fiscal-bugetare pentru asigurarea sustenabilității financiare a României pe termen lung, cu modificările și completările ulterioare, și, respectiv, prin neacordarea indemnizației de hrană conform art. XXVI pct. 1 din aceeași lege se încalcă principiul nediscriminării, astfel cum acesta a fost consfințit de prevederile art. 16 din Constituția României?",
+  "Dacă prin emiterea unui act administrativ cu caracter individual prin care se limitează sporul pentru condiții periculoase sau vătămătoare la 1.500 lei brut lunar și se încetează acordarea indemnizației de hrană, act emis în baza dispozițiilor legale menționate anterior, se încalcă principiul nediscriminării, astfel cum acesta a fost consfințit de prevederile art. 16 din Constituția României?",
+  "Obligatorie, potrivit art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 62/2024",
+    "number": "62",
+    "year": "2024",
+    "path": "oug/2024/62"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituția României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 137/2000",
+    "number": "137",
+    "year": "2000",
+    "path": "og/2000/137"
+   },
+   "articles": [
+    {
+     "art": "27",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2",
+      "3"
+     ],
+     "lit": [
+      "e"
+     ]
+    },
+    {
+     "art": "2",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea contenciosului administrativ nr. 554/2004",
+    "number": "554",
+    "year": "2004",
+    "path": "lege/2004/554"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "18",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-10-31",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/303895",
+  "text_sha256": "c909d77572545844dad27ee157501caa12cc710046dbb14dc0b7f9d05465681e",
+  "catalogue_sha256": "c909d77572545844dad27ee157501caa12cc710046dbb14dc0b7f9d05465681e",
+  "fetched": "2026-11-06T03:51:53Z",
+  "chars": 25762,
+  "archive": {
+   "source": "wayback",
+   "url": "https://web.archive.org/web/20260701064725/https://legislatie.just.ro/Public/DetaliiDocumentAfis/303895",
+   "page": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/303895",
+   "timestamp": "20260701064725",
+   "sha256": "0aa908b07506302e33b42bddd17aff828cc7b920703f562f3d05aab22d44efd9"
+  },
+  "portal_id": "303895",
+  "tip": "DECIZIE"
+ }
+}
