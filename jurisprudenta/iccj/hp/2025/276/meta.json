@@ -1,0 +1,303 @@
+{
+ "key": "iccj-hp-276-2025",
+ "label": "Decizia ÎCCJ nr. 276/2025 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "276",
+ "date": "2025-06-30",
+ "year": "2025",
+ "heading": "DECIZIA nr. 276 din 30 iunie 2025",
+ "subtitle": "referitoare la interpretarea dispozitiilor articolului unic din Legea nr. 103/2023, coroborat cu prevederile art. 11 alin. (1) - (4) din Legea-cadru nr. 153/2017",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "1003",
+  "bis": false,
+  "date": "2025-10-31",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "3.027/1/2024",
+  "1.178/83/2023",
+  "3.868/109/2023",
+  "3.040/1/2024"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 103/2023",
+    "number": "103",
+    "year": "2023",
+    "path": "lege/2023/103"
+   },
+   "articles": [],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": [
+      "1",
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgentă a Guvernului nr. 130/2021",
+    "number": "130",
+    "year": "2021",
+    "path": "oug/2021/130"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": [
+      "4-4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibile, sesizările conexate formulate de Curtea de Apel Oradea - Secția de contencios administrativ și fiscal în Dosarul nr. 1.178/83/2023 și de Curtea de Apel Pitești - Secția a II-a civilă, de contencios administrativ și fiscal în Dosarul nr. 3.868/109/2023, în vederea pronunțării unei hotărâri prealabile cu privire la următoarele întrebări:",
+  "Articolul unic din Legea nr. 103/2023, coroborat cu prevederile art. 11 alin. (1)-(4) din Legea-cadru nr. 153/2017, se interpretează în sensul că modificarea indemnizației primarului și viceprimarului pentru o perioadă anterioară intrării în vigoare a Legii nr. 103/2023 (în mod retroactiv) permite ca modificarea corespunzătoare a salariilor de bază ale personalului din aparatul de specialitate al primarului să fie efectuată retroactiv pentru respectiva perioadă anterioară intrării în vigoare a Legii nr. 103/2023 sau, dimpotrivă, o atare modificare poate opera exclusiv pentru perioada ulterioară intrării în vigoare a Legii nr. 103/2023 ?",
+  "În interpretarea art. 11 alin. (1) și alin. (4) din Legea-cadru nr. 153/2017 și art. I alin. (4^4) din Ordonanța de urgentă a Guvernului nr. 130/2021, introdus prin Legea nr. 103/2023, aceste din urmă dispoziții determină obligarea consiliului local să modifice în mod corespunzător salarizarea și pentru categoria de personal funcționari publici, salarizat potrivit art. 11 alin. (1) din Legea-cadru nr. 153/2017, începând cu data de 1 noiembrie 2022?",
+  "Obligatorie, potrivit art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 62/2024",
+    "number": "62",
+    "year": "2024",
+    "path": "oug/2024/62"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 103/2023",
+    "number": "103",
+    "year": "2023",
+    "path": "lege/2023/103"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": [
+      "4-4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 32
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": [
+      "1",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "38",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "f"
+     ]
+    }
+   ],
+   "mentions": 19
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgentă a Guvernului nr. 130/2021",
+    "number": "130",
+    "year": "2021",
+    "path": "oug/2021/130"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": [
+      "4-4",
+      "2",
+      "4-1",
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 17
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea privind aprobarea Ordonanței de urgență a Guvernului nr. 115/2022",
+    "number": "115",
+    "year": "2022",
+    "path": "lege/2022/115"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 226/2020",
+    "number": "226",
+    "year": "2020",
+    "path": "oug/2020/226"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 168/2022",
+    "number": "168",
+    "year": "2022",
+    "path": "oug/2022/168"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 115/2022",
+    "number": "115",
+    "year": "2022",
+    "path": "oug/2022/115"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": [
+      "4-4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "22",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-10-31",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/303842",
+  "text_sha256": "0a66db3d0547b8ede45ac53368c5cad06a4d93ffe32a766d915ce93725c964ba",
+  "catalogue_sha256": "0a66db3d0547b8ede45ac53368c5cad06a4d93ffe32a766d915ce93725c964ba",
+  "fetched": "2026-11-03T00:53:16Z",
+  "chars": 41129,
+  "portal_id": "303842",
+  "tip": "DECIZIE"
+ }
+}
