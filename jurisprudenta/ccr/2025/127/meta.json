@@ -1,0 +1,195 @@
+{
+ "key": "dcc-127-2025",
+ "label": "Decizia CCR nr. 127/2025",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "127",
+ "date": "2025-03-27",
+ "year": "2025",
+ "heading": "DECIZIA nr. 127 din 27 martie 2025",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 21 din Legea nr. 304/2004 privind organizarea judiciară și ale art. 29 din Legea nr. 47/1992 privind organizarea și funcționarea Curții Constituționale",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "1003",
+  "bis": false,
+  "date": "2025-10-31",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.879/187/2015",
+  "229D/2020"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepția de neconstituționalitate a dispozițiilor art. 21 din Legea nr. 304/2004 privind organizarea judiciară și ale art. 29 din Legea nr. 47/1992 privind organizarea și funcționarea Curții Constituționale, ridicată de Societatea Băița Bihor - S.A. din Nucet, județul Bihor, în Dosarul nr. 1.879/187/2015**/a1.1 al Înaltei Curți de Casație și Justiție - Secția a II-a civilă.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Înaltei Curți de Casație și Justiție - Secția a II-a civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituției",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 340/2009",
+    "number": "340",
+    "year": "2009",
+    "path": "lege/2009/340"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2025-10-31",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/303835",
+  "text_sha256": "5df1d0a3f11f00985b081c6d445f54eed707e327c3a878ea89a2d86b565c9392",
+  "catalogue_sha256": "5df1d0a3f11f00985b081c6d445f54eed707e327c3a878ea89a2d86b565c9392",
+  "fetched": "2026-11-03T00:53:16Z",
+  "chars": 17002,
+  "portal_id": "303835",
+  "tip": "DECIZIE"
+ }
+}
