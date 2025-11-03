@@ -1,0 +1,12 @@
+# HCGMB nr. 453/2025
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+- Council: Consiliul General al Municipiului București
+- Decision: nr. 453/2025
+- Adopted: 2025-10-30
+- Published: 2025-11-03
+- Title: PENTRU MODIFICAREA ANEXEI LA HOTARAREA CONSILIULUI GENERAL AL MUNICIPIULUI BUCURESTI NR. 699/18.10.2018 PRIVIND APROBAREA INDICATORILOR TEHNICO-ECONOMICI AFERENTI DOCUMENTATIEI DE AVIZARE A LUCRARILOR DE INTERVENTII PENTRU OBIECTIVUL DE INVESTITIE “MODIFICARI INTERIOARE SI EXTERIOARE, REABILITARE SI MODERNIZARE - PAVILION "CASA DORU" SPITALUL CLINIC DE BOLI INFECTIOASE SI TROPICALE "DR. VICTOR BABES" MODIFICA ANEXA DIN HCGMB NR. 699/2018 INCETEAZA APLICABILITATEA LA HCGMB NR. 336/2022
+- Record: https://acteinterne.pmb.ro/legis/acteinterne/acte_int/47453
+- Document: https://doc.pmb.ro/legis/acteinterne/2025/47453/h453_25.pdf
+- Document sha256: 871bccd939a2dd6eb7da632516b4028ab7a5bb7dc22ac3e3551825d0e17e4f44
