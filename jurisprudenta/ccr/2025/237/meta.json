@@ -1,0 +1,374 @@
+{
+ "key": "dcc-237-2025",
+ "label": "Decizia CCR nr. 237/2025",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "237",
+ "date": "2025-04-29",
+ "year": "2025",
+ "heading": "DECIZIA nr. 237 din 29 aprilie 2025",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 15 alin. (1) și (4) din Ordonanța Guvernului nr. 21/1992 privind protecția consumatorilor, ale art. 27 alin. (3) din Ordonanța Guvernului nr. 2/2018 privind pachetele de servicii de călătorie și serviciile de călătorie asociate, precum și pentru modificarea unor acte normative și ale art. 15^1 din Legea nr. 363/2007 privind combaterea practicilor incorecte ale comercianților în relația cu consumatorii și armonizarea reglementărilor cu legislația europeană privind protecția consumatorilor",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "1011",
+  "bis": false,
+  "date": "2025-11-03",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "22.032/281/2020",
+  "1.257D/2021",
+  "25.947/325/2020",
+  "24.523/233/2020/a1",
+  "16.954/233/2020",
+  "38.681/299/2020",
+  "17.163/233/2020",
+  "4.808/299/2021"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 21/1992",
+    "number": "21",
+    "year": "1992",
+    "path": "og/1992/21"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 2/2018",
+    "number": "2",
+    "year": "2018",
+    "path": "og/2018/2"
+   },
+   "articles": [
+    {
+     "art": "27",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 363/2007",
+    "number": "363",
+    "year": "2007",
+    "path": "lege/2007/363"
+   },
+   "articles": [
+    {
+     "art": "15-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Societatea Christian 76 Tour - S.R.L. din București în Dosarul nr. 22.032/281/2020 al Judecătoriei Ploiești, în dosarele nr. 16.954/233/2020 și nr. 17.163/233/2020 ale Judecătoriei Galați - Secția civilă, în dosarele nr. 38.681/299/2020 și nr. 4.808/299/2021 ale Judecătoriei Sectorului 1 București - Secția a II-a civilă, în Dosarul nr. 25.947/325/2020 al Judecătoriei Timișoara - Secția I civilă și în Dosarul nr. 24.523/233/2020/a1 al Judecătoriei Constanța - Secția civilă și constată că dispozițiile art. 15 alin. (1) și (4) din Ordonanța Guvernului nr. 21/1992 privind protecția consumatorilor, ale art. 27 alin. (3) din Ordonanța Guvernului nr. 2/2018 privind pachetele de servicii de călătorie și serviciile de călătorie asociate, precum și pentru modificarea unor acte normative și ale art. 15^1 din Legea nr. 363/2007 privind combaterea practicilor incorecte ale comercianților în relația cu consumatorii și armonizarea reglementărilor cu legislația europeană privind protecția consumatorilor sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Judecătoriei Ploiești, Judecătoriei Galați - Secția civilă, Judecătoriei Sectorului 1 București - Secția a II-a civilă, Judecătoriei Timișoara - Secția I civilă și Judecătoriei Constanța - Secția civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 21/1992",
+    "number": "21",
+    "year": "1992",
+    "path": "og/1992/21"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "1",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "54",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "62",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 2/2018",
+    "number": "2",
+    "year": "2018",
+    "path": "og/2018/2"
+   },
+   "articles": [
+    {
+     "art": "27",
+     "alin": [
+      "3",
+      "6"
+     ],
+     "lit": [
+      "b",
+      "c"
+     ]
+    },
+    {
+     "art": "50",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "51",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 17
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 363/2007",
+    "number": "363",
+    "year": "2007",
+    "path": "lege/2007/363"
+   },
+   "articles": [
+    {
+     "art": "15-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituției",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "126",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "135",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "f"
+     ]
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 2/2001",
+    "number": "2",
+    "year": "2001",
+    "path": "og/2001/2"
+   },
+   "articles": [
+    {
+     "art": "31",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 174/2008",
+    "number": "174",
+    "year": "2008",
+    "path": "oug/2008/174"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 51/2016",
+    "number": "51",
+    "year": "2016",
+    "path": "lege/2016/51"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 58/2022",
+    "number": "58",
+    "year": "2022",
+    "path": "oug/2022/58"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 296/2004",
+    "number": "296",
+    "year": "2004",
+    "path": "lege/2004/296"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 700/2012",
+    "number": "700",
+    "year": "2012",
+    "path": "hg/2012/700"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2025-11-03",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/303900",
+  "text_sha256": "d57329b3366cfd7456c269d602a2bd3787521d57833e992a7f234aaa96b6f286",
+  "catalogue_sha256": "d57329b3366cfd7456c269d602a2bd3787521d57833e992a7f234aaa96b6f286",
+  "fetched": "2026-11-03T17:17:05Z",
+  "chars": 37569,
+  "portal_id": "303900",
+  "tip": "DECIZIE"
+ }
+}
