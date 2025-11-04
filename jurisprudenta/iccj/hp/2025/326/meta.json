@@ -1,0 +1,370 @@
+{
+ "key": "iccj-hp-326-2025",
+ "label": "Decizia ÎCCJ nr. 326/2025 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "326",
+ "date": "2025-09-22",
+ "year": "2025",
+ "heading": "DECIZIA nr. 326 din 22 septembrie 2025",
+ "subtitle": "referitoare la aplicarea art. 100^1 din Legea nr. 273/2004 privind procedura adopției, republicată, cu modificările și completările ulterioare",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "1018",
+  "bis": false,
+  "date": "2025-11-04",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "2.653/1/2024",
+  "3.795/30/2023"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 273/2004",
+    "number": "273",
+    "year": "2004",
+    "path": "lege/2004/273"
+   },
+   "articles": [
+    {
+     "art": "100-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 268/2020",
+    "number": "268",
+    "year": "2020",
+    "path": "lege/2020/268"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 11/2014",
+    "number": "11",
+    "year": "2014",
+    "path": "oug/2014/11"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": [
+      "7"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Admite sesizarea formulată de Curtea de Apel Timișoara - Secția contencios administrativ și fiscal în Dosarul nr. 3.795/30/2023 și, în consecință, stabilește că:",
+  "Dispozițiile art. 100^1 din Legea nr. 273/2004 privind procedura adopției, republicată, cu modificările și completările ulterioare, sunt aplicabile și în situația în care hotărârea judecătorească de încuviințare a rămas definitivă înainte de intrarea în vigoare a Legii nr. 268/2020 pentru modificarea și completarea Legii nr. 273/2004 privind procedura adopției, precum și pentru abrogarea art. 5 alin. (7) lit. ș) și cc) din Ordonanța de urgență a Guvernului nr. 11/2014 privind adoptarea unor măsuri de reorganizare la nivelul administrației publice centrale și pentru modificarea și completarea unor acte normative.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 273/2004",
+    "number": "273",
+    "year": "2004",
+    "path": "lege/2004/273"
+   },
+   "articles": [
+    {
+     "art": "100-1",
+     "alin": [
+      "5",
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 39
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 268/2020",
+    "number": "268",
+    "year": "2020",
+    "path": "lege/2020/268"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 40
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 11/2014",
+    "number": "11",
+    "year": "2014",
+    "path": "oug/2014/11"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": [
+      "7"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 579/2016",
+    "number": "579",
+    "year": "2016",
+    "path": "hg/2016/579"
+   },
+   "articles": [
+    {
+     "art": "83",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "80",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 798/2021",
+    "number": "798",
+    "year": "2021",
+    "path": "hg/2021/798"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituția României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "49",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 287/2009",
+    "number": "287",
+    "year": "2009",
+    "path": "lege/2009/287"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "6",
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea contenciosului administrativ nr. 554/2004",
+    "number": "554",
+    "year": "2004",
+    "path": "lege/2004/554"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 80/1995",
+    "number": "80",
+    "year": "1995",
+    "path": "lege/1995/80"
+   },
+   "articles": [
+    {
+     "art": "52",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "36",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "e"
+     ]
+    },
+    {
+     "art": "20-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 101/2019",
+    "number": "101",
+    "year": "2019",
+    "path": "lege/2019/101"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 360/2002",
+    "number": "360",
+    "year": "2002",
+    "path": "lege/2002/360"
+   },
+   "articles": [
+    {
+     "art": "31",
+     "alin": [
+      "1-2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 288/2018",
+    "number": "288",
+    "year": "2018",
+    "path": "lege/2018/288"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-11-04",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/303954",
+  "text_sha256": "ca4e2855f69f541ebad141cb1084c09a491c58fad2306d9ae85c50b2ebf6f2a7",
+  "catalogue_sha256": "ca4e2855f69f541ebad141cb1084c09a491c58fad2306d9ae85c50b2ebf6f2a7",
+  "fetched": "2026-11-06T03:54:43Z",
+  "chars": 67647,
+  "archive": {
+   "source": "commoncrawl",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/303954",
+   "timestamp": "20251116225018",
+   "crawl": "CC-MAIN-2025-47",
+   "filename": "crawl-data/CC-MAIN-2025-47/segments/1762439344677.89/warc/CC-MAIN-20251116203421-20251116233421-00355.warc.gz",
+   "offset": "274788636",
+   "length": "56212",
+   "sha256": "a8d5bff6b6f0814b68b75e86e0f5f25e0da912c86ab256104c4f9442d5210f76"
+  },
+  "portal_id": "303954",
+  "tip": "DECIZIE"
+ }
+}
