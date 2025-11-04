@@ -1,0 +1,10 @@
+# HCL Vâlcelele nr. 41/2025
+
+Text not yet included: no document of it is held. It will be added when it is.
+
+- Council: Consiliul Local al Comunei Vâlcelele
+- Decision: nr. 41/2025
+- Adopted: 2025-10-28
+- Published: 2025-11-04
+- Title: privind aprobarea organigramei actualizate a comunei Vâlcelele, județul Buzău
+- Record: https://emol.ro/valcelele-bz/registru-hcl/233969
