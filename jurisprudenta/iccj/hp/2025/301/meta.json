@@ -1,0 +1,261 @@
+{
+ "key": "iccj-hp-301-2025",
+ "label": "Decizia ÎCCJ nr. 301/2025 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "301",
+ "date": "2025-09-15",
+ "year": "2025",
+ "heading": "DECIZIA nr. 301 din 15 septembrie 2025",
+ "subtitle": "referitoare la interpretarea dispozițiilor art. 1 alin. (5) din anexa la Hotărârea Guvernului nr. 714/2018 privind drepturile și obligațiile personalului autorităților și instituțiilor publice pe perioada delegării și detașării în altă localitate, precum și în cazul deplasării în interesul serviciului",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "1019",
+  "bis": false,
+  "date": "2025-11-04",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "762/1/2025",
+  "3.788/117/2024"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 714/2018",
+    "number": "714",
+    "year": "2018",
+    "path": "hg/2018/714"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Curtea de Apel Cluj - Secția a III-a contencios administrativ și fiscal în Dosarul nr. 3.788/117/2024, în vederea pronunțării unei hotărâri prealabile privind următoarea chestiune de drept:",
+  "Dacă dispozițiile art. 1 alin. (5) din anexa la Hotărârea Guvernului nr. 714/2018 privind drepturile și obligațiile personalului autorităților și instituțiilor publice pe perioada delegării și detașării în altă localitate, precum și în cazul deplasării în interesul serviciului se interpretează în sensul că indemnizația de delegare se acordă doar în zilele în care durata delegării este de cel puțin 12 ore și doar cu condiția prezentării documentelor justificative, conform dispozițiilor art. 16 din aceeași anexă.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 62/2024",
+    "number": "62",
+    "year": "2024",
+    "path": "oug/2024/62"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 714/2018",
+    "number": "714",
+    "year": "2018",
+    "path": "hg/2018/714"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "5",
+      "1",
+      "4",
+      "3",
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 25
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "517",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 360/2002",
+    "number": "360",
+    "year": "2002",
+    "path": "lege/2002/360"
+   },
+   "articles": [
+    {
+     "art": "39",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 53/2003",
+    "number": "53",
+    "year": "2003",
+    "path": "lege/2003/53"
+   },
+   "articles": [
+    {
+     "art": "111",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 27/2006",
+    "number": "27",
+    "year": "2006",
+    "path": "oug/2006/27"
+   },
+   "articles": [
+    {
+     "art": "13",
+     "alin": [
+      "1",
+      "3"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 1.860/2006",
+    "number": "1860",
+    "year": "2006",
+    "path": "hg/2006/1860"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-11-04",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/303962",
+  "text_sha256": "98580ef8fd851593f57327d7fd5df59e75325130e2e0bb494ef3e94d68ee97ea",
+  "catalogue_sha256": "98580ef8fd851593f57327d7fd5df59e75325130e2e0bb494ef3e94d68ee97ea",
+  "fetched": "2026-11-03T00:53:10Z",
+  "chars": 45178,
+  "portal_id": "303962",
+  "tip": "DECIZIE"
+ }
+}
