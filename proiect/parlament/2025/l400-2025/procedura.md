@@ -13,6 +13,7 @@ Initiator: Membri ai Parlamentului.
 - 2025-10-15: rejected by the Chamber of Deputies
 - 2025-10-16: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 - 2025-10-29: documents published: Aviz comisie
+- 2025-11-04: documents published: Aviz comisie
 
 ## Documents
 
@@ -21,3 +22,4 @@ Initiator: Membri ai Parlamentului.
 - 2025-10-16: Forma inițiatorului (FG): [fg-e4255379.md](fg-e4255379.md); official file https://www.senat.ro/legis/PDF/2025/25L400FG.PDF
 - 2025-10-16: Expunere de motive (EM): [em-e7a778d0.md](em-e7a778d0.md); official file https://www.senat.ro/legis/PDF/2025/25L400EM.PDF
 - 2025-10-29: Aviz comisie (CA57): [ca57-a9885ddb.md](ca57-a9885ddb.md); official file https://www.senat.ro/legis/PDF/2025/25L400CA57.PDF
+- 2025-11-04: Aviz comisie (CA8): [ca8-e632c96a.md](ca8-e632c96a.md); official file https://www.senat.ro/legis/PDF/2025/25L400CA8.PDF
