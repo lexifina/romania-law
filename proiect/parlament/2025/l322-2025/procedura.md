@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2025-10-06: adopted by the Senate; documents published: Forma adoptată de Senat
 - 2025-10-13: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-10-18: sent for promulgation
+- 2025-11-05: promulgated, becomes Legea nr. 177/2025; published in the Monitorul Oficial; documents published: Document (day not given by the bill file), Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -32,3 +33,8 @@ Initiator: Guvernul României.
 - 2025-10-06: Forma adoptată de Senat (FS): [fs-c0bd9f8f.md](fs-c0bd9f8f.md); official file https://www.senat.ro/legis/PDF/2025/25L322FS.PDF
 - 2025-10-13: Adresă privind sesizarea CCR (AXS): [axs-7e35ba00.md](axs-7e35ba00.md); official file https://www.senat.ro/legis/PDF/2025/25L322AXS.PDF
 - 2025-10-13: Forma trimisă la promulgare (LP): [lp-02c24946.md](lp-02c24946.md); official file https://www.senat.ro/legis/PDF/2025/25L322LP.PDF
+- 2025-11-05: Document (TX): [tx-fb363c03.md](tx-fb363c03.md); official file https://www.senat.ro/legis/PDF/2025/25L322TX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-11-05: Document (AL): [al-af599a04.md](al-af599a04.md); official file https://www.senat.ro/legis/PDF/2025/25L322AL.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-11-05: Decret de promulgare (DP): [dp-8af6f528.md](dp-8af6f528.md); official file https://www.senat.ro/legis/PDF/2025/25L322DP.PDF
+- 2025-11-05: Forma promulgată (FP): [fp-04e730c8.md](fp-04e730c8.md); official file https://www.senat.ro/legis/PDF/2025/25L322FP.PDF
+- 2025-11-05: Document (TC): [tc-93734793.md](tc-93734793.md); official file https://www.senat.ro/legis/PDF/2025/25L322TC.PDF (its day is not given by the bill file: shown from the last stage held)
