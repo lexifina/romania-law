@@ -1,0 +1,300 @@
+{
+ "key": "dcc-654-2024",
+ "label": "Decizia CCR nr. 654/2024",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "654",
+ "date": "2024-11-21",
+ "year": "2024",
+ "heading": "DECIZIA nr. 654 din 21 noiembrie 2024",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 14 alin. (3) coroborate cu art. 39 alin. (5) din Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "1022",
+  "bis": false,
+  "date": "2025-11-05",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "887D/2022",
+  "1.553/54/2021",
+  "1.671/83/2021",
+  "1.925/83/2021",
+  "1.669/83/2021",
+  "1.672/83/2021",
+  "1.670/83/2021",
+  "215/39/2022",
+  "369/45/2022",
+  "26/98/2022"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "39",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Sindicatul Liber din Învățământ Satu Mare, în numele membrilor de sindicat Anițaș Tunde Eva și alții, în Dosarul nr. 24/35/CA/2022 - P.I. al Curții de Apel Oradea - Secția de contencios administrativ și fiscal, de Trancă Georgiana-Corina, Cotescu Diana-Victoria și Bușu Adrian-Florin în Dosarul nr. 1.553/54/2021 al Curții de Apel Craiova - Secția contencios administrativ și fiscal, de Sindicatul Învățământului Preuniversitar Satu Mare, în numele membrului de sindicat Jager-Peter Monika, în Dosarul nr. 1.671/83/2021 al Curții de Apel Oradea - Secția I civilă, de Sindicatul Învățământului Preuniversitar Satu Mare, în numele membrului de sindicat Onea Vasile Marcian, în Dosarul nr. 1.925/83/2021 al Curții de Apel Oradea - Secția I civilă, de Sindicatul Învățământului Preuniversitar Satu Mare, în numele membrului de sindicat Oproiu Costinel Bogdan, în Dosarul nr. 1.669/83/2021 al Curții de Apel Oradea - Secția I civilă, de Sindicatul Învățământului Preuniversitar Satu Mare, în numele membrului de sindicat Bonto Gabriela Cristina, în Dosarul nr. 1.672/83/2021 al Curții de Apel Oradea - Secția I civilă, de Sindicatul Învățământului Preuniversitar Satu Mare, în numele membrului de sindicat Frigy Szabolcs Istvan, în Dosarul nr. 1.670/83/2021 al Curții de Apel Oradea - Secția I civilă, de Murariu Iulia, Bocăneț Carmen, Mărginean Daria și Tănase Sorin Iulian în Dosarul nr. 215/39/2022 al Curții de Apel Suceava - Secția contencios administrativ și fiscal, de Pușcă Bălan Ioana Mihaela în Dosarul nr. 369/45/2022 al Curții de Apel Iași - Secția de contencios administrativ și fiscal, de Matei Gh. Daniela în Dosarul nr. 26/98/2022 al Curții de Apel București - Secția a VII-a pentru cauze privind conflicte de muncă și asigurări sociale, de Sindicatul din Învățământ „Spiru Haret“ Cluj, pentru membrul de sindicat Mureșan Liana, în Dosarul nr. 178/33/2022/a1.1 al Înaltei Curți de Casație și Justiție - Secția de contencios administrativ și fiscal, de Sîrbu Viorica și alții în Dosarul nr. 7.171/2/2021/a1 al Înaltei Curți de Casație și Justiție - Secția de contencios administrativ și fiscal, de Sindicatul din Învățământ „Spiru Haret“ Cluj, pentru membrul de sindicat Mureșan Liana, în Dosarul nr. 178/33/2022/a2 al Înaltei Curți de Casație și Justiție - Secția de contencios administrativ și fiscal, de Matiu Gabriela în Dosarul nr. 4.162/2/2022 al Curții de Apel București - Secția a VIII-a de contencios administrativ și fiscal și de Sindicatul din Învățământ „Spiru Haret“ Cluj, pentru membrii de sindicat Florea Andreea Gabriela și alții, în Dosarul nr. 101/33/2022/a1 al Înaltei Curți de Casație și Justiție - Secția de contencios administrativ și fiscal și constată că dispozițiile art. 14 alin. (3) coroborate cu art. 39 alin. (5) din Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Curții de Apel Oradea - Secția de contencios administrativ și fiscal, Curții de Apel Craiova - Secția de contencios administrativ și fiscal, Curții de Apel Oradea - Secția I civilă, Curții de Apel Suceava - Secția de contencios administrativ și fiscal, Curții de Apel Iași - Secția de contencios administrativ și fiscal, Curții de Apel București - Secția a VII-a pentru cauze privind conflicte de muncă și asigurări sociale, Înaltei Curți de Casație și Justiție - Secția de contencios administrativ și fiscal și Curții de Apel București - Secția a VIII-a contencios administrativ și fiscal și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "39",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 46
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanței Guvernului nr. 137/2000",
+    "number": "137",
+    "year": "2000",
+    "path": "og/2000/137"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "3",
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 12",
+    "path": null,
+    "slug": "conventia-edo-protocolul-12"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinului ministrului educației nr. 3.993/2021",
+    "number": "3993",
+    "year": "2021"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2025-11-05",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/303983",
+  "text_sha256": "10352ac60ebcc40b59d85b9eef0c9bbb28ff10d5a92aa01cdd4194f3abd54b0b",
+  "catalogue_sha256": "10352ac60ebcc40b59d85b9eef0c9bbb28ff10d5a92aa01cdd4194f3abd54b0b",
+  "fetched": "2026-11-03T00:53:12Z",
+  "chars": 53158,
+  "portal_id": "303983",
+  "tip": "DECIZIE"
+ }
+}
