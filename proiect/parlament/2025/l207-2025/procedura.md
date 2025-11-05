@@ -23,6 +23,7 @@ Initiator: Guvernul României.
 - 2025-10-15: adopted by the Chamber of Deputies
 - 2025-10-20: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-10-22: sent for promulgation
+- 2025-11-05: promulgated, becomes Legea nr. 178/2025; published in the Monitorul Oficial; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -49,3 +50,5 @@ Initiator: Guvernul României.
 - 2025-09-22: Adresă către Camera Deputaților (AM): [am-92680cd1.md](am-92680cd1.md); official file https://www.senat.ro/legis/PDF/2025/25L207AM.PDF
 - 2025-10-20: Adresă privind sesizarea CCR (AXS): [axs-f298cdf5.md](axs-f298cdf5.md); official file https://www.senat.ro/legis/PDF/2025/25L207AXS.PDF
 - 2025-10-20: Forma trimisă la promulgare (LP): [lp-bacd76f7.md](lp-bacd76f7.md); official file https://www.senat.ro/legis/PDF/2025/25L207LP.PDF
+- 2025-11-05: Decret de promulgare (DP): [dp-a120b238.md](dp-a120b238.md); official file https://www.senat.ro/legis/PDF/2025/25L207DP.PDF
+- 2025-11-05: Forma promulgată (FP): [fp-fd6cb8ca.md](fp-fd6cb8ca.md); official file https://www.senat.ro/legis/PDF/2025/25L207FP.PDF
