@@ -19,6 +19,7 @@ Initiator: Membri ai Parlamentului.
 - 2025-10-15: adopted by the Chamber of Deputies
 - 2025-10-20: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-10-25: sent for promulgation
+- 2025-11-05: promulgated, becomes Legea nr. 180/2025; published in the Monitorul Oficial; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -33,3 +34,5 @@ Initiator: Membri ai Parlamentului.
 - 2025-04-07: Adresă către Camera Deputaților (AM): [am-74565d9f.md](am-74565d9f.md); official file https://www.senat.ro/legis/PDF/2025/25L050AM.PDF
 - 2025-10-20: Adresă privind sesizarea CCR (AXS): [axs-553920b5.md](axs-553920b5.md); official file https://www.senat.ro/legis/PDF/2025/25L050AXS.PDF
 - 2025-10-20: Forma trimisă la promulgare (LP): [lp-bc36e8d5.md](lp-bc36e8d5.md); official file https://www.senat.ro/legis/PDF/2025/25L050LP.PDF
+- 2025-11-05: Decret de promulgare (DP): [dp-433a1abf.md](dp-433a1abf.md); official file https://www.senat.ro/legis/PDF/2025/25L050DP.PDF
+- 2025-11-05: Forma promulgată (FP): [fp-cf432fb1.md](fp-cf432fb1.md); official file https://www.senat.ro/legis/PDF/2025/25L050FP.PDF
