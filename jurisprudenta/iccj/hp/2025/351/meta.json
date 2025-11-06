@@ -1,0 +1,181 @@
+{
+ "key": "iccj-hp-351-2025",
+ "label": "Decizia ÎCCJ nr. 351/2025 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "351",
+ "date": "2025-10-06",
+ "year": "2025",
+ "heading": "DECIZIA nr. 351 din 6 octombrie 2025",
+ "subtitle": "referire la interpretarea și aplicarea art. 25 lit. b) din Legea nr. 132/2017 privind asigurarea obligatorie de răspundere civilă auto pentru prejudicii produse terților prin accidente de vehicule și tramvaie, cu modificările și completările ulterioare",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "1029",
+  "bis": false,
+  "date": "2025-11-06",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.260/1/2025",
+  "8.964/221/2022"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 132/2017",
+    "number": "132",
+    "year": "2017",
+    "path": "lege/2017/132"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "1394",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1597",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2528",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Tribunalul Hunedoara - Secția a II-a civilă, de contencios administrativ și fiscal în Dosarul nr. 8.964/221/2022, în vederea pronunțării unei hotărâri prealabile cu privire la următoarea chestiune de drept: În interpretarea și aplicarea art. 25 lit. b) din Legea nr. 132/2017 privind asigurarea obligatorie de răspundere civilă auto pentru prejudicii produse terților prin accidente de vehicule și tramvaie, cu modificările și completările ulterioare, raportat la art. 1.394, art. 1.597 și art. 2.528 din Codul civil, în ipoteza unei acțiuni în regres a asigurătorului împotriva persoanei răspunzătoare de producerea accidentului, întemeiate pe dispozițiile art. 25 lit. b) din Legea nr. 132/2017, este incidentă prorogarea termenului de prescripție prevăzută de art. 1.394 din Codul civil ?",
+  "Obligatorie, potrivit art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 132/2017",
+    "number": "132",
+    "year": "2017",
+    "path": "lege/2017/132"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "1394",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1597",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2528",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 136/1995",
+    "number": "136",
+    "year": "1995",
+    "path": "lege/1995/136"
+   },
+   "articles": [
+    {
+     "art": "58",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-11-06",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/304031",
+  "text_sha256": "079329b4d43d428bc8b5d1db44eaac0f2c0afa681ae097c57243efc31ebe01a8",
+  "catalogue_sha256": "079329b4d43d428bc8b5d1db44eaac0f2c0afa681ae097c57243efc31ebe01a8",
+  "fetched": "2026-11-03T00:53:09Z",
+  "chars": 22152,
+  "portal_id": "304031",
+  "tip": "DECIZIE"
+ }
+}
