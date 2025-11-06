@@ -1,0 +1,325 @@
+{
+ "key": "dcc-231-2025",
+ "label": "Decizia CCR nr. 231/2025",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "231",
+ "date": "2025-04-29",
+ "year": "2025",
+ "heading": "DECIZIA nr. 231 din 29 aprilie 2025",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 160 alin. (1) lit. h), alin. (2) și alin. (7) - (10) din Ordonanța de urgență a Guvernului nr. 57/2019 privind Codul administrativ și a Ordonanței de urgență a Guvernului nr. 57/2019, în ansamblul său",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "1029",
+  "bis": false,
+  "date": "2025-11-06",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "2.810/90/2020",
+  "1.085D/2021",
+  "1.287D/2021",
+  "19/91/2021"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 57/2019",
+    "number": "57",
+    "year": "2019",
+    "path": "oug/2019/57"
+   },
+   "articles": [
+    {
+     "art": "160",
+     "alin": [
+      "1",
+      "2",
+      "7"
+     ],
+     "lit": [
+      "h"
+     ]
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Gheorghe Gîngu în Dosarul nr. 2.810/90/2020 al Tribunalului Vâlcea - Secția a II-a civilă și de Romeo Vulpe în Dosarul nr. 19/91/2021 al Tribunalului Vrancea - Secția a II-a civilă și de contencios administrativ și fiscal și constată că dispozițiile art. 160 alin. (1) lit. h), alin. (2) și alin. (7) - (10) din Ordonanța de urgență a Guvernului nr. 57/2019 privind Codul administrativ și Ordonanța de urgență a Guvernului nr. 57/2019, în ansamblul său, sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului Vâlcea - Secția a II-a civilă și Tribunalului Vrancea - Secția a II-a civilă și de contencios administrativ și fiscal și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 57/2019",
+    "number": "57",
+    "year": "2019",
+    "path": "oug/2019/57"
+   },
+   "articles": [
+    {
+     "art": "160",
+     "alin": [
+      "1",
+      "2",
+      "7",
+      "9"
+     ],
+     "lit": [
+      "h"
+     ]
+    },
+    {
+     "art": "42",
+     "alin": null,
+     "lit": [
+      "f"
+     ]
+    },
+    {
+     "art": "253",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 33
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 21/2024",
+    "number": "21",
+    "year": "2024",
+    "path": "oug/2024/21"
+   },
+   "articles": [
+    {
+     "art": "33",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "73",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "o"
+     ]
+    },
+    {
+     "art": "115",
+     "alin": [
+      "6",
+      "4",
+      "3",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "37",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "108",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "61",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 22
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 128/2019",
+    "number": "128",
+    "year": "2019",
+    "path": "lege/2019/128"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 393/2004",
+    "number": "393",
+    "year": "2004",
+    "path": "lege/2004/393"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "g-1"
+     ]
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 249/2006",
+    "number": "249",
+    "year": "2006",
+    "path": "lege/2006/249"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea administrației publice locale nr. 215/2001",
+    "number": "215",
+    "year": "2001",
+    "path": "lege/2001/215"
+   },
+   "articles": [
+    {
+     "art": "69",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2025-11-06",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/304024",
+  "text_sha256": "7bcab534508919deaf9a55156b2498778b004c8f31a51598f9f53a111d4a5590",
+  "catalogue_sha256": "7bcab534508919deaf9a55156b2498778b004c8f31a51598f9f53a111d4a5590",
+  "fetched": "2026-11-03T23:26:40Z",
+  "chars": 36799,
+  "portal_id": "304024",
+  "tip": "DECIZIE"
+ }
+}
