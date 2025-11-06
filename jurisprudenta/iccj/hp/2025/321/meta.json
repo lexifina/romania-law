@@ -1,0 +1,153 @@
+{
+ "key": "iccj-hp-321-2025",
+ "label": "Decizia ÎCCJ nr. 321/2025 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "321",
+ "date": "2025-09-22",
+ "year": "2025",
+ "heading": "DECIZIA nr. 321 din 22 septembrie 2025",
+ "subtitle": "referitoare la aplicarea dispozițiilor art. 9 alin. (1) lit. h) coroborate cu cele ale art. 9 alin. (6^2) din Hotărârea Guvernului nr. 1.198/2022 privind drepturile de transport, pe teritoriul național, ale personalului din instituțiile de apărare, ordine publică și securitate națională, cu modificările și completările ulterioare, precum și cu art. 3 alin. (3) din Normele metodologice de aplicare la nivelul Ministerului Afacerilor Interne a Hotărârii Guvernului nr. 1.198/2022 privind drepturile de transport, pe teritoriul național, ale personalului din instituțiile de apărare, ordine publică și securitate națională, aprobate prin Ordinul ministrului afacerilor interne nr. 181/2022, cu modificările și completările ulterioare",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "1028",
+  "bis": false,
+  "date": "2025-11-06",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "763/1/2025",
+  "3.089/109/2023"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 1.198/2022",
+    "number": "1198",
+    "year": "2022",
+    "path": "hg/2022/1198"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": [
+      "1",
+      "6-2"
+     ],
+     "lit": [
+      "h"
+     ]
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Curtea de Apel Pitești - Secția a II-a civilă, de contencios administrativ și fiscal în Dosarul nr. 3.089/109/2023, în vederea pronunțării unei hotărâri prealabile cu privire la următoarea chestiune de drept: Dacă dispozițiile art. 9 alin. (1) lit. h) coroborate cu cele ale art. 9 alin. (6^2) din Hotărârea Guvernului nr. 1.198/2022 privind drepturile de transport, pe teritoriul național, ale personalului din instituțiile de apărare, ordine publică și securitate națională, cu modificările și completările ulterioare, precum și cu art. 3 alin. (3) din Normele metodologice de aplicare la nivelul Ministerului Afacerilor Interne a Hotărârii Guvernului nr. 1.198/2022 privind drepturile de transport, pe teritoriul național, ale personalului din instituțiile de apărare, ordine publică și securitate națională, aprobate prin Ordinul ministrului afacerilor interne nr. 181/2022, cu modificările și completările ulterioare, sunt aplicabile/vizează și funcționarii publici transferați în interesul serviciului de la o autoritate publică (din afara Ministerului Afacerilor Interne) la o structură din cadrul Ministerului Afacerilor Interne, ce are sediul în altă localitate decât cea de domiciliu, transfer efectuat la solicitarea acesteia din urmă?",
+  "Obligatorie, potrivit art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 62/2024",
+    "number": "62",
+    "year": "2024",
+    "path": "oug/2024/62"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 1.198/2022",
+    "number": "1198",
+    "year": "2022",
+    "path": "hg/2022/1198"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": [
+      "1",
+      "6-2",
+      "3"
+     ],
+     "lit": [
+      "h"
+     ]
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": [
+      "h"
+     ]
+    }
+   ],
+   "mentions": 16
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-11-06",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/304012",
+  "text_sha256": "28281084c7fdbb85365cfb5afde48ee03933ab53ddcd974772664814a3944c75",
+  "catalogue_sha256": "28281084c7fdbb85365cfb5afde48ee03933ab53ddcd974772664814a3944c75",
+  "fetched": "2026-11-03T00:53:03Z",
+  "chars": 28201,
+  "portal_id": "304012",
+  "tip": "DECIZIE"
+ }
+}
