@@ -1,0 +1,207 @@
+{
+ "key": "dcc-240-2025",
+ "label": "Decizia CCR nr. 240/2025",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "240",
+ "date": "2025-04-29",
+ "year": "2025",
+ "heading": "DECIZIA nr. 240 din 29 aprilie 2025",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor cuprinse în capitolul I litera B din anexa nr. V la Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "1034",
+  "bis": false,
+  "date": "2025-11-07",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "4.304/107/2020",
+  "2.457D/2021",
+  "3/90/2021",
+  "4.651/107/2020",
+  "426/107/2021",
+  "1.790/89/2021"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Valentina Maria Gândilă, Gheorghe Costea, Florin Ștefan Georgescu, Marius Vasile Hărșan, Galina Mircea, Roxana Andreea Crișan, Mariana Chetraru, Emanuela Mesaroș, Constantin Barbu, Alexandru Bogdan Pop și Ciprian Gherasim în Dosarul nr. 4.304/107/2020 al Tribunalului Alba - Secția I civilă, de Ion Veștemean, Bogdan-Nicolae Dancu, Simona Enache, Andra-Simina Florescu Mironescu, Bogdan Valentin Florescu, Remus Paul Criste, Mihaela Ruginosu-Tabata, Dan Octavian Simion, Monica Isailă, Florin Nanu și Cornel David-Deca în Dosarul nr. 3/90/2021 al Tribunalului Vâlcea - Secția I civilă, conflicte de muncă și asigurări sociale, de Gianina Oreviceanu și Radu Cristian Mihai în Dosarul nr. 4.651/107/2020 al Tribunalului Alba - Secția I civilă, de Lavinia Șișman, Costinel Claudiu Minea, Cornel Cîrjeu, Fănică Cercel, Adriana Emanuela Dogaru, Camelia Antonela Dima, Sandra Georgescu, Cora Nicoleta Rujoiu, Ecaterina Maria Șuiu, Ion Bleoancă și Carmen Constanța Herciu în Dosarul nr. 426/107/2021 al Tribunalului Alba - Secția I civilă și de Maria Cristina Rotaru, Mihaela Plopan, Alina Mihaela Tinică și Petrișor Harnagea în Dosarul nr. 1.790/89/2021 al Tribunalului Vaslui - Secția civilă și constată că dispozițiile cuprinse în capitolul I litera B din anexa nr. V la Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului Alba - Secția I civilă, Tribunalului Vâlcea - Secția I civilă, conflicte de muncă și asigurări sociale și Tribunalului Vaslui - Secția civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 303/2004",
+    "number": "303",
+    "year": "2004",
+    "path": "lege/2004/303"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "124",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "131",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "132",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul muncii",
+    "path": "lege/2003/53",
+    "slug": "codul-muncii"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2025-11-07",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/304063",
+  "text_sha256": "e7334d677bf64d9ff472a34d339ddd5d9b4d9e3ce1fd97d64e8f2502b8ca531a",
+  "catalogue_sha256": "e7334d677bf64d9ff472a34d339ddd5d9b4d9e3ce1fd97d64e8f2502b8ca531a",
+  "fetched": "2026-11-03T00:53:02Z",
+  "chars": 22312,
+  "portal_id": "304063",
+  "tip": "DECIZIE"
+ }
+}
