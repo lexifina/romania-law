@@ -1,0 +1,16 @@
+Sancțiune pentru încălcarea RGPD
+Autoritatea Națională de Supraveghere a Prelucrării Datelor cu Caracter Personal a finalizat, în luna octombrie 2025, o investigație la operatorul Whitedecor SRL și a constatat încălcarea dispozițiilor art. 6 alin. (1) a), art. 7, art. 12 alin. (3), art. 15 și art. 17 și art. 21 din Regulamentul (UE) 2016/679.
+Ca atare, operatorul a fost sancționat contravențional:
+cu amendă în cuantum de 5082 lei (echivalentul a 1.000 EURO), pentru încălcarea dispozițiilor art. 6 alin. (1) lit. a), art. 7, art. 21 alin. (3) din Regulamentul (UE) 2016/679;
+cu amendă în cuantum de 5082 lei (echivalentul a 1.000 EURO), pentru încălcarea art. 12 alin. (3), art. 15, art. 17 și art. 21 din Regulamentul (UE) 2016/679;
+Investigația a fost demarată ca urmare a unei plângeri prin care o persoană fizică a reclamat că au fost încălcate dispozițiile Regulamentului (UE) 2016/679, referitoare la drepturile persoanelor vizate și consimțământul obținut din partea acestora.
+În cursul investigației, Autoritatea Națională de Supraveghere a Prelucrării Datelor cu Caracter Personal a constatat că operatorul, ca urmare a unei achiziții, a transmis clientului, în mod repetat, mesaje comerciale nesolicitate pe numărul său de telefon.
+Astfel, operatorul nu a făcut dovada existenței consimțământului obținut de la persoana vizată pentru prelucrarea datelor personale ale acesteia în scop de marketing, fiind astfel încălcate prevederile art. 6 alin. (1) lit. a), art. 7 și art. 21 alin. (3) din Regulamentul (UE) 2016/679.
+Totodată, s-a constatat că persoana vizată a solicitat să i se confirme dacă datele sale personale sunt sau nu prelucrate de operator. În același timp, clientul a solicitat prin cererea sa inclusiv o copie a datelor prelucrate, în baza dispozițiilor art. 15 din Regulamentul (UE) 2016/679.
+De asemenea, clientul și-a exprimat opoziția față de prelucrarea datelor sale în scop de marketing direct și a solicitat ca datele sale personale să fie șterse din întreaga bază de date deținută de operator.
+În cadrul investigației, a rezultat că operatorul nu a făcut dovada transmiterii unui răspuns în termenul legal de cel mult o lună la cererea de exercitare a drepturilor de acces, opoziție și de ștergere din partea persoanei vizate. Prin urmare, au fost încălcate dispozițiile art. 12 alin. (3), art. 15, art. 17 și art. 21 din Regulamentul (UE) 679/2016.
+În același timp, în temeiul dispozițiilor art. 58 alin. (2) lit. c) și d) din Regulamentul (UE) 2016/679 s-au dispus față de operator și următoarele măsuri corective:
+adoptarea unor proceduri interne privind modul de soluționare a cererilor depuse de persoanele vizate în temeiul art. 12-22 din Regulamentul (UE) 2016/679, respectarea în toate cazurile a dispozițiilor aplicabile privind analizarea și soluționarea fără întârziere a acestor cereri și comunicarea unor răspunsuri către persoanele vizate în cadrul termenelor legale, precum și instruirea regulată a personalului operatorului în acest sens;
+adoptarea unor proceduri interne privind modul de prelucrarea a datelor cu caracter personal ale persoanelor vizate în scop de marketing direct, în vederea transmiterii de mesaje comerciale prin mijloace de comunicare electronică numai cu consimțământul expres prealabil și informat al persoanelor vizate.
+Direcția juridică și comunicare
+A.N.S.P.D.C.P.
