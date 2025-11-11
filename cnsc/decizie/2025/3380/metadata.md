@@ -1,0 +1,23 @@
+# Decizia CNSC nr. 3380/C6/3807 din 11.11.2025
+
+The record of this decision on the CNSC portal.
+
+- Body: Consiliul Național de Soluționare a Contestațiilor (CNSC)
+- Decision: 3380/C6/3807
+- Date: 2025-11-11
+- Panel: C6
+- Complainant: CONCELEX SRL
+- Complainant CUI: 6544184
+- Contracting authority: U.A.T JUDETUL CONSTANTA - CONSILIUL JUDETEAN CONSTANTA
+- Complaint registered at CNSC: 67574 / 2025-09-29
+- Resolution: Respinge
+- Operative part: respinge, fara_obiect
+- Procedure: *Licitatie deschisa
+- Funds: Europene
+- Criticisms: R2 (respingerea ofertei contestatorului ca neconformă sau inacceptabilă)
+- Procedure law: Legea nr. 101/2016
+- Official Bulletin number: BO2025_3380
+- Decision as issued (PDF): http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZGZlNzI3NDAtNWJjMS00YjY4LTljYzktM2M3MWVkYmU4MTA0&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8zMzgwLnBkZg==&action=YXR0YWNobWVudA==
+- Reasoned decision (PDF): http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZjJiN2YwNWUtNjRjMC00ZDZjLTk1MDctOTQyZGE2N2Q5MmY4&pdfa1=ZmFsc2U=&filename=Qk8yMDI1XzMzODAucGRm&action=YXR0YWNobWVudA==
+- Copyright: Legea nr. 8/1996, art. 9 lit. b: texts of a legislative, administrative or judicial nature are not protected by copyright; CNSC decisions are administrative-jurisdictional acts.
+- Publication: Published on the official-text basis by the decision of Lexifina (2026-11-06), although the CNSC portal's terms bar reproduction for commercial purposes without written consent.
