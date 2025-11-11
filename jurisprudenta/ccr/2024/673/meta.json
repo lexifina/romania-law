@@ -1,0 +1,292 @@
+{
+ "key": "dcc-673-2024",
+ "label": "Decizia CCR nr. 673/2024",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "673",
+ "date": "2024-12-03",
+ "year": "2024",
+ "heading": "DECIZIA nr. 673 din 3 decembrie 2024",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 194 pct. 39 din Legea energiei electrice și a gazelor naturale nr. 123/2012",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "1041",
+  "bis": false,
+  "date": "2025-11-11",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "59/299/2019",
+  "22.578/299/2018",
+  "21.565/4/2019",
+  "2.215D/2019"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea energiei electrice și a gazelor naturale nr. 123/2012",
+    "number": "123",
+    "year": "2012",
+    "path": "lege/2012/123"
+   },
+   "articles": [
+    {
+     "art": "194",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Societatea Euro Seven Industry - S.R.L. din București în Dosarul nr. 59/299/2019 al Judecătoriei Sectorului 1 București - Secția I civilă și în Dosarul nr. 22.578/299/2018 al Tribunalului București - Secția a II-a contencios administrativ și fiscal, precum și de către Societatea Delagaz&amp;Energie - S.R.L. din Tărlungeni, județul Brașov, în Dosarul nr. 21.565/4/2019 al Judecătoriei Brașov - Secția civilă și constată că dispozițiile art. 194 pct. 39 din Legea energiei electrice și a gazelor naturale nr. 123/2012 sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Judecătoriei Sectorului 1 București - Secția I civilă, Tribunalului București - Secția a II-a contencios administrativ și fiscal și Judecătoriei Brașov - Secția civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea energiei electrice și a gazelor naturale nr. 123/2012",
+    "number": "123",
+    "year": "2012",
+    "path": "lege/2012/123"
+   },
+   "articles": [
+    {
+     "art": "194",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "7-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "198",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 24
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "4",
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "73",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "j"
+     ]
+    },
+    {
+     "art": "21",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": [
+      "12"
+     ],
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 33/2007",
+    "number": "33",
+    "year": "2007",
+    "path": "oug/2007/33"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "5",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 2/2001",
+    "number": "2",
+    "year": "2001",
+    "path": "og/2001/2"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 155/2020",
+    "number": "155",
+    "year": "2020",
+    "path": "lege/2020/155"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2025-11-11",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/304103",
+  "text_sha256": "e3c8e9f81dd20f4791cd08c277898d37be038e3e119910e16d7fea81b87911f8",
+  "catalogue_sha256": "e3c8e9f81dd20f4791cd08c277898d37be038e3e119910e16d7fea81b87911f8",
+  "fetched": "2026-11-03T00:53:05Z",
+  "chars": 32980,
+  "portal_id": "304103",
+  "tip": "DECIZIE"
+ }
+}
