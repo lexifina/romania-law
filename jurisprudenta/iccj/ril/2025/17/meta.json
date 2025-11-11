@@ -1,0 +1,169 @@
+{
+ "key": "iccj-ril-17-2025",
+ "label": "Decizia ÎCCJ nr. 17/2025 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "17",
+ "date": "2025-09-29",
+ "year": "2025",
+ "heading": "DECIZIA nr. 17 din 29 septembrie 2025",
+ "subtitle": "referitoare la interpretarea și aplicarea dispozițiilor art. 222 alin. (1) cu referire la art. 227 alin. (2) și art. 204 alin. (12) teza I din Codul de procedură penală",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU SOLUȚIONAREA RECURSULUI ÎN INTERESUL LEGII",
+ "mo": {
+  "number": "1040",
+  "bis": false,
+  "date": "2025-11-11",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "1.458/1/2025"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "222",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "227",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "204",
+     "alin": [
+      "12"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite recursul în interesul legii formulat de procurorul general al Parchetului de pe lângă Înalta Curte de Casație și Justiție.",
+  "În interpretarea și aplicarea dispozițiilor art. 222 alin. (1) cu referire la art. 227 alin. (2) și art. 204 alin. (12) teza I din Codul de procedură penală, stabilește următoarele:",
+  "În cazul admiterii contestației, Completul de judecători de drepturi și libertăți de la instanța de control judiciar va putea dispune luarea măsurii arestului la domiciliu pentru durata de timp rămasă până la împlinirea termenului substanțial de 30 de zile calculat de la momentul arestării preventive a inculpatului, în temeiul dispoziției judecătorului de drepturi și libertăți de la prima instanță.",
+  "Obligatorie, potrivit dispozițiilor art. 474 alin. (4) din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituția României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția europeană a drepturilor omului",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "222",
+     "alin": [
+      "1",
+      "10",
+      "9"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "473",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "471",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "472",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "227",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "204",
+     "alin": [
+      "12"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 21
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-11-11",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/304101",
+  "text_sha256": "cd493a3646d560286062de5e74fd22ab31f94426c1777ff44587ac1256ebc2a2",
+  "catalogue_sha256": "cd493a3646d560286062de5e74fd22ab31f94426c1777ff44587ac1256ebc2a2",
+  "fetched": "2026-11-03T00:52:56Z",
+  "chars": 42091,
+  "portal_id": "304101",
+  "tip": "DECIZIE"
+ }
+}
