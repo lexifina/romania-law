@@ -1,0 +1,269 @@
+{
+ "key": "iccj-hp-penal-373-2025",
+ "label": "Decizia ÎCCJ nr. 373/2025 (HP penal)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp-penal",
+ "number": "373",
+ "date": "2025-10-20",
+ "year": "2025",
+ "heading": "DECIZIA nr. 373 din 20 octombrie 2025",
+ "subtitle": "referitoare la interpretarea și aplicarea art. 5 din Codul penal privind legea penală mai favorabilă în cursul judecății, din perspectiva comparației între infracțiunea de act sexual cu un minor, prevăzută de art. 220 din Codul penal (în forma în vigoare anterior datei de 1.01.2024), și viol săvârșit asupra unui minor, prevăzută de art. 218^1 din Codul penal (forma intrată în vigoare începând cu data de 1.01.2024)",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT ÎN MATERIE PENALĂ",
+ "mo": {
+  "number": "1040",
+  "bis": false,
+  "date": "2025-11-11",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "1.389/1/2025"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "220",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "218-1",
+     "alin": [
+      "4"
+     ],
+     "lit": [
+      "g"
+     ]
+    }
+   ],
+   "mentions": 9
+  }
+ ],
+ "operative": [
+  "Admite sesizarea formulată de Curtea de Apel Cluj - Secția penală și de minori, în Dosarul nr. 1.538/1.752/2023, prin care se solicită pronunțarea unei hotărâri prealabile pentru dezlegarea următoarei chestiuni de drept: „Dacă în interpretarea și aplicarea art. 5 din Codul penal privind legea penală mai favorabilă în cursul judecății, din perspectiva comparației între infracțiunea de act sexual cu un minor, prevăzută de art. 220 din Codul penal (în forma în vigoare anterior datei de 1.01.2024), și viol săvârșit asupra unui minor, prevăzută de art. 218^1 din Codul penal (forma intrată în vigoare începând cu data de 1.01.2024), la determinarea legii noi trebuie avute în vedere și formele agravate neprevăzute de legea veche, precum cea reglementată la art. 218^1 alin. (4) lit. g) din Codul penal“, și, în consecință stabilește că: La stabilirea și aplicarea legii penale mai favorabile în cazul infracțiunilor de act sexual cu un minor, prevăzută de art. 220 din Codul penal (în forma în vigoare anterior datei de 1.01.2024), și viol săvârșit asupra unui minor, prevăzută de art. 218^1 din Codul penal (forma intrată în vigoare începând cu data de 1.01.2024), calificarea faptei săvârșite se realizează în raport cu fiecare dintre legile penale intervenite până la judecarea definitivă în integralitatea lor, având în vedere inclusiv elementele circumstanțiale agravante introduse prin legea penală în vigoare începând cu data de 1 ianuarie 2024.",
+  "Obligatorie de la data publicării în Monitorul Oficial al României, Partea I, potrivit art. 477 alin. (3) din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "220",
+     "alin": [
+      "1",
+      "4",
+      "6"
+     ],
+     "lit": [
+      "e"
+     ]
+    },
+    {
+     "art": "218-1",
+     "alin": [
+      "4",
+      "7",
+      "1"
+     ],
+     "lit": [
+      "g"
+     ]
+    },
+    {
+     "art": "35",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 55
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "475",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "396",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "476",
+     "alin": [
+      "2",
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "473",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "320-1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 87/1994",
+    "number": "87",
+    "year": "1994",
+    "path": "lege/1994/87"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 241/2005",
+    "number": "241",
+    "year": "2005",
+    "path": "lege/2005/241"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "61",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 217/2023",
+    "number": "217",
+    "year": "2023",
+    "path": "lege/2023/217"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii audiovizualului nr. 504/2002",
+    "number": "504",
+    "year": "2002",
+    "path": "lege/2002/504"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-11-11",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/304102",
+  "text_sha256": "41bdb692923e472acf38cc97ca59738648731a3004cdbc43e1a4e68ed3c4d44f",
+  "catalogue_sha256": "41bdb692923e472acf38cc97ca59738648731a3004cdbc43e1a4e68ed3c4d44f",
+  "fetched": "2026-11-03T00:52:56Z",
+  "chars": 52981,
+  "portal_id": "304102",
+  "tip": "DECIZIE"
+ }
+}
