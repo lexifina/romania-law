@@ -10,7 +10,10 @@ Initiator: Membri ai Parlamentului.
 
 - 2025-06-25: registered at the Chamber of Deputies
 - 2025-11-10: adopted by the Chamber of Deputies
+- 2025-11-12: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 
 ## Documents
 
-- none held as text
+- 2025-11-12: Adresă de înaintare a inițiativei (AD): [ad-fed88ca5.md](ad-fed88ca5.md); official file https://www.senat.ro/legis/PDF/2025/25L500AD.PDF
+- 2025-11-12: Forma inițiatorului (FG): [fg-a6365998.md](fg-a6365998.md); official file https://www.senat.ro/legis/PDF/2025/25L500FG.PDF
+- 2025-11-12: Expunere de motive (EM): [em-92cc9bf6.md](em-92cc9bf6.md); official file https://www.senat.ro/legis/PDF/2025/25L500EM.PDF
