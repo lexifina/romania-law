@@ -1,0 +1,6 @@
+# CJUE, Hotărârea Curții (Camera întâi) din 13 noiembrie 2025, Cauza C-272/24
+
+Pentru aceste motive, Curtea (Camera întâi) declară:
+Articolul 19 alineatul (1) al doilea paragraf TUE, citit în lumina articolului 2 TUE și a punctului 5 din Carta comunitară a drepturilor sociale fundamentale ale lucrătorilor, adoptată cu ocazia reuniunii Consiliului European de la Strasbourg din 9 decembrie 1989,
+trebuie interpretat în sensul că
+principiul independenței judecătorilor nu se opune unei reglementări naționale care, prin faptul că prevede doar acordarea de timp liber în compensare pentru timpul de lucru pe care un judecător îl efectuează pentru realizarea unor sarcini aferente unui post vacant în cadrul instanței în care își desfășoară activitatea în plus față de cele care îi revin conform postului pe care îl ocupă, exclude orice compensație financiară pentru munca efectuată în vederea realizării acestor sarcini suplimentare, cu condiția ca acest judecător să poată valorifica efectiv timpul liber în compensare pe care l‑a dobândit și ca această reglementare să nu aibă drept consecință afectarea caracterului adecvat al remunerației sale în raport cu importanța funcțiilor pe care le exercită.

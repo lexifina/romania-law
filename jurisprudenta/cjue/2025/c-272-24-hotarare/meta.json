@@ -1,0 +1,61 @@
+{
+ "key": "cjue-c-272-24-hotarare-2025-11-13",
+ "label": "CJUE, Hotărârea Curții (Camera întâi) din 13 noiembrie 2025, Cauza C-272/24",
+ "court": "cjue",
+ "court_name": "Curtea de Justiție a Uniunii Europene",
+ "kind": "hotarare",
+ "act_type": "JUDG",
+ "date": "2025-11-13",
+ "year": "2025",
+ "case": "Cauza C-272/24",
+ "celex": "62024CJ0272",
+ "ecli": "ECLI:EU:C:2025:874",
+ "heading": "Hotărârea Curții (Camera întâi) din 13 noiembrie 2025",
+ "formation": "CHAMB_01_C",
+ "procedure": "REFER_PREL",
+ "romania_role": [
+  "originates"
+ ],
+ "referred_by": [
+  {
+   "court": "Curtea de Apel Bucureşti",
+   "date": "2024-04-08",
+   "national_file": "12228/3/2022"
+  }
+ ],
+ "referral_text": "Cererea de decizie preliminară formulată de Curtea de Apel Bucureşti",
+ "national_followup": [
+  "Curtea de Apel Bucureşti, Decizia din 16/02/2026 (910/2026)"
+ ],
+ "parties": "HZ împotriva Tribunalului Galaţi",
+ "parties_withheld": false,
+ "keywords": "Trimitere preliminară – Articolul 2 TUE – Articolul 19 alineatul (1) al doilea paragraf TUE – Principiul independenței judecătorilor – Directiva 2003/88/CE – Timp de lucru săptămânal – Ore suplimentare efectuate de judecători – Reglementare națională care prevede compensarea cu timp liber, cu excluderea unei compensații financiare – Remunerație adecvată",
+ "interprets": [
+  {
+   "celex": "12008M019",
+   "folder": null
+  }
+ ],
+ "text": "dispozitiv.md",
+ "text_withheld": "personal_data",
+ "withheld_reason": "The full text names the parties' lawyers (and, in older cases, private parties); only the metadata and the operative part are published here, with the official link.",
+ "operative_missing": false,
+ "eurlex_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62024CJ0272",
+ "curia_url": "https://curia.europa.eu/juris/liste.jsf?num=C-272/24&language=ro",
+ "source": {
+  "name": "CELLAR, Publications Office of the European Union",
+  "url": "http://publications.europa.eu/resource/cellar/13e3ca12-c074-11f0-a612-01aa75ed71a1.0002.05/DOC_1",
+  "format": "xhtml",
+  "sha256": [
+   "dfb6d1fc06d5fe0f0947e332c3eced3febe93b9e4e600ca6b96754b9224eb8c7"
+  ]
+ },
+ "legal_basis": "Jurisprudența Curții de Justiție a Uniunii Europene (texte oficiale; reutilizare permisă cu menționarea sursei: Decizia Comisiei 2011/833/UE și condițiile CURIA; © Uniunea Europeană). Textele oficiale nu sunt protejate de dreptul de autor în România (Legea nr. 8/1996, art. 9 lit. b).",
+ "attribution": "© European Union, https://eur-lex.europa.eu (via the Publications Office CELLAR)",
+ "operative": [
+  "Pentru aceste motive, Curtea (Camera întâi) declară:",
+  "Articolul 19 alineatul (1) al doilea paragraf TUE, citit în lumina articolului 2 TUE și a punctului 5 din Carta comunitară a drepturilor sociale fundamentale ale lucrătorilor, adoptată cu ocazia reuniunii Consiliului European de la Strasbourg din 9 decembrie 1989,",
+  "trebuie interpretat în sensul că",
+  "principiul independenței judecătorilor nu se opune unei reglementări naționale care, prin faptul că prevede doar acordarea de timp liber în compensare pentru timpul de lucru pe care un judecător îl efectuează pentru realizarea unor sarcini aferente unui post vacant în cadrul instanței în care își desfășoară activitatea în plus față de cele care îi revin conform postului pe care îl ocupă, exclude orice compensație financiară pentru munca efectuată în vederea realizării acestor sarcini suplimentare, cu condiția ca acest judecător să poată valorifica efectiv timpul liber în compensare pe care l‑a dobândit și ca această reglementare să nu aibă drept consecință afectarea caracterului adecvat al remunerației sale în raport cu importanța funcțiilor pe care le exercită."
+ ]
+}
