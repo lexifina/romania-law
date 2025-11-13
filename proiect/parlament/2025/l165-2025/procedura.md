@@ -16,6 +16,7 @@ Initiator: Membri ai Parlamentului.
 - 2025-09-16: documents published: Raport comisie sesizată pe fond
 - 2025-09-22: rejected by the Senate; documents published: Adresă către Camera Deputaților
 - 2025-09-24: registered at the Chamber of Deputies
+- 2025-11-13: documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -31,3 +32,5 @@ Initiator: Membri ai Parlamentului.
 - 2025-06-11: Aviz comisie (CA49): [ca49-dc3c57e3.md](ca49-dc3c57e3.md); official file https://www.senat.ro/legis/PDF/2025/25L165CA49.PDF
 - 2025-09-16: Raport comisie sesizată pe fond (CR): [cr-9c6f8afc.md](cr-9c6f8afc.md); official file https://www.senat.ro/legis/PDF/2025/25L165CR.PDF
 - 2025-09-22: Adresă către Camera Deputaților (AM): [am-74e94095.md](am-74e94095.md); official file https://www.senat.ro/legis/PDF/2025/25L165AM.PDF
+- 2025-11-13: Document (CNA): [cna-209abbab.md](cna-209abbab.md); official file https://www.senat.ro/legis/PDF/2025/25L165CNA.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-11-13: Document (CF): [cf-b0a0e476.md](cf-b0a0e476.md); official file https://www.senat.ro/legis/PDF/2025/25L165CF.PDF (its day is not given by the bill file: shown from the last stage held)
