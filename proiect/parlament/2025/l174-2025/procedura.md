@@ -17,6 +17,7 @@ Initiator: Membri ai Parlamentului.
 - 2025-10-15: adopted by the Chamber of Deputies
 - 2025-10-20: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-10-25: sent for promulgation
+- 2025-11-13: documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -33,3 +34,4 @@ Initiator: Membri ai Parlamentului.
 - 2025-06-24: Adresă către Camera Deputaților (AM): [am-c173ae1b.md](am-c173ae1b.md); official file https://www.senat.ro/legis/PDF/2025/25L174AM.PDF
 - 2025-10-20: Adresă privind sesizarea CCR (AXS): [axs-6bda7d23.md](axs-6bda7d23.md); official file https://www.senat.ro/legis/PDF/2025/25L174AXS.PDF
 - 2025-10-20: Forma trimisă la promulgare (LP): [lp-8c84243a.md](lp-8c84243a.md); official file https://www.senat.ro/legis/PDF/2025/25L174LP.PDF
+- 2025-11-13: Document (SC1): [sc1-51214eff.md](sc1-51214eff.md); official file https://www.senat.ro/legis/PDF/2025/25L174SC1.PDF (its day is not given by the bill file: shown from the last stage held)
