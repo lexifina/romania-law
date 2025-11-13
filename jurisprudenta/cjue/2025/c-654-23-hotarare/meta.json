@@ -1,0 +1,59 @@
+{
+ "key": "cjue-c-654-23-hotarare-2025-11-13",
+ "label": "CJUE, Hotărârea Curții (Camera întâi) din 13 noiembrie 2025, Cauza C-654/23",
+ "court": "cjue",
+ "court_name": "Curtea de Justiție a Uniunii Europene",
+ "kind": "hotarare",
+ "act_type": "JUDG",
+ "date": "2025-11-13",
+ "year": "2025",
+ "case": "Cauza C-654/23",
+ "celex": "62023CJ0654",
+ "ecli": "ECLI:EU:C:2025:871",
+ "heading": "Hotărârea Curții (Camera întâi) din 13 noiembrie 2025",
+ "formation": "CHAMB_01_C",
+ "procedure": "REFER_PREL",
+ "romania_role": [
+  "originates"
+ ],
+ "referred_by": null,
+ "referral_text": "Cererea de decizie preliminară formulată de Curtea de Apel Bucureşti",
+ "national_followup": [
+  "Curtea de Apel Bucureşti, încheiere din 20/03/2023 (31192/3/2019*)"
+ ],
+ "parties": null,
+ "parties_withheld": true,
+ "keywords": "Trimitere preliminară – Prelucrarea datelor personale și protejarea confidențialității în sectorul comunicațiilor publice – Directiva 2002/58/CE – Articolul 13 alineatele (1) și (2) – Comunicări nesolicitate – Noțiunea de comunicare efectuată «în scopuri de marketing direct» – Obținere de date de contact electronic «în contextul vânzării unui produs sau a unui serviciu» – Înscriere pe o platformă online care dă acces la un conținut suplimentar – Trimitere prin poștă electronică a unei informări zilnice – Regulamentul (UE) 2016/679 – Articolul 6 – Legalitatea prelucrării – Articolul 95 – Relația cu Directiva 2002/58/CE",
+ "interprets": [
+  {
+   "celex": "32002L0058",
+   "folder": "ue/directiva/2002/58"
+  }
+ ],
+ "text": "dispozitiv.md",
+ "text_withheld": "personal_data",
+ "withheld_reason": "The full text names the parties' lawyers (and, in older cases, private parties); only the metadata and the operative part are published here, with the official link.",
+ "operative_missing": false,
+ "eurlex_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62023CJ0654",
+ "curia_url": "https://curia.europa.eu/juris/liste.jsf?num=C-654/23&language=ro",
+ "source": {
+  "name": "CELLAR, Publications Office of the European Union",
+  "url": "http://publications.europa.eu/resource/cellar/efe59dec-c073-11f0-a612-01aa75ed71a1.0002.05/DOC_1",
+  "format": "xhtml",
+  "sha256": [
+   "937b310945dedddf7610338062c8a1e503e739404d07538627d806e3d27a51da"
+  ]
+ },
+ "legal_basis": "Jurisprudența Curții de Justiție a Uniunii Europene (texte oficiale; reutilizare permisă cu menționarea sursei: Decizia Comisiei 2011/833/UE și condițiile CURIA; © Uniunea Europeană). Textele oficiale nu sunt protejate de dreptul de autor în România (Legea nr. 8/1996, art. 9 lit. b).",
+ "attribution": "© European Union, https://eur-lex.europa.eu (via the Publications Office CELLAR)",
+ "operative": [
+  "Pentru aceste motive, Curtea (Camera întâi) declară:",
+  "1) Articolul 13 alineatele (1) și (2) din Directiva 2002/58/CE a Parlamentului European și a Consiliului din 12 iulie 2002 privind prelucrarea datelor personale și protejarea confidențialității în sectorul comunicațiilor publice (Directiva asupra confidențialității și comunicațiilor electronice), astfel cum a fost modificată prin Directiva 2009/136/CE a Parlamentului European și a Consiliului din 25 noiembrie 2009,",
+  "trebuie interpretat în sensul că",
+  "adresa de e‑mail a unui utilizator este obținută de editorul unei publicații online „în contextul vânzării unui produs sau a unui serviciu”, în sensul acestui articol 13 alineatul (2), atunci când respectivul utilizator creează un cont gratuit pe platforma online a acestuia care îi dă dreptul de a accesa gratuit un anumit număr de articole ale publicației amintite, de a primi gratuit prin e‑mail o informare zilnică ce conține un rezumat al noutăților legislative tratate în articole ale acestei publicații, inclusiv hiperlinkuri către acestea din urmă, precum și dreptul de a accesa contra cost articole și analize suplimentare ale publicației menționate. Transmiterea unei astfel de informări reprezintă o folosire a poștei electronice „în scopuri de marketing direct” pentru „produse sau servicii similare” în sensul acestei din urmă dispoziții.",
+  "2) Articolul 13 alineatul (2) din Directiva 2002/58, astfel cum a fost modificată prin Directiva 2009/136, coroborat cu articolul 95 din Regulamentul (UE) 2016/679 al Parlamentului European și al Consiliului din 27 aprilie 2016 privind protecția persoanelor fizice în ceea ce privește prelucrarea datelor cu caracter personal și privind libera circulație a acestor date și de abrogare a Directivei 95/46/CE (Regulamentul general privind protecția datelor)",
+  "trebuie interpretat în sensul că,",
+  "atunci când operatorul utilizează adresa de e‑mail a unui utilizator pentru a‑i trimite o comunicare nesolicitată, în conformitate cu acest articol 13 alineatul (2), condițiile de legalitate a prelucrării prevăzute la articolul 6 alineatul (1) din acest regulament nu sunt aplicabile.",
+  "3) A treia întrebare adresată de Curtea de Apel București (România) este inadmisibilă."
+ ]
+}
