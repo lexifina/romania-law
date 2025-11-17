@@ -1,0 +1,172 @@
+{
+ "key": "iccj-hp-penal-328-2025",
+ "label": "Decizia ÎCCJ nr. 328/2025 (HP penal)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp-penal",
+ "number": "328",
+ "date": "2025-09-22",
+ "year": "2025",
+ "heading": "DECIZIA nr. 328 din 22 septembrie 2025",
+ "subtitle": "referitoare la interpretarea art. 338 alin. (2) din Codul penal",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT ÎN MATERIE PENALĂ",
+ "mo": {
+  "number": "1054",
+  "bis": false,
+  "date": "2025-11-17",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "979/1/2025",
+  "6.177/182/2023"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "338",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "196",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Curtea de Apel Cluj - Secția penală și de minori în Dosarul nr. 6.177/182/2023, în vederea pronunțării unei hotărâri prealabile pentru dezlegarea următoarei chestiuni de drept:",
+  "Dacă, în interpretarea art. 338 alin. (2) din Codul penal, situația premisă constând în accidentul de circulație din care a rezultat vătămarea integrității corporale ori a sănătății uneia sau mai multor persoane implică producerea unei urmări care să se circumscrie infracțiunii de vătămare corporală din culpă (art. 196 din Codul penal) sau este suficientă producerea unei urmări care să se circumscrie noțiunii de «rănire», conform dispozițiilor art. 75 lit. b) teza a II-a din Ordonanța de urgență a Guvernului nr. 195/2002 privind circulația pe drumurile publice?",
+  "Obligatorie de la data publicării în Monitorul Oficial al României, Partea I, potrivit art. 477 alin. (3) din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "338",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "196",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "194",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "193",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 20
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "475",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 195/2002",
+    "number": "195",
+    "year": "2002",
+    "path": "oug/2002/195"
+   },
+   "articles": [
+    {
+     "art": "103",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "d"
+     ]
+    },
+    {
+     "art": "75",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 84/2024",
+    "number": "84",
+    "year": "2024",
+    "path": "oug/2024/84"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-11-17",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/304205",
+  "text_sha256": "c97d6575a81643d1a3d587f2fc51da20ca35e573aeaaeae851cd267e1edadfaa",
+  "catalogue_sha256": "c97d6575a81643d1a3d587f2fc51da20ca35e573aeaaeae851cd267e1edadfaa",
+  "fetched": "2026-11-03T00:52:57Z",
+  "chars": 26381,
+  "portal_id": "304205",
+  "tip": "DECIZIE"
+ }
+}
