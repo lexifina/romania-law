@@ -1,0 +1,423 @@
+{
+ "key": "iccj-hp-339-2025",
+ "label": "Decizia ÎCCJ nr. 339/2025 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "339",
+ "date": "2025-09-29",
+ "year": "2025",
+ "heading": "DECIZIA nr. 339 din 29 septembrie 2025",
+ "subtitle": "referitoare la interpretarea dispozițiilor art. 39 alin. (1) din Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, cu modificările și completările ulterioare, raportat și la principiile reglementate de art. 6 din același act normativ",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "1057",
+  "bis": false,
+  "date": "2025-11-17",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "187/1/2025",
+  "2.013/109/2023"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "39",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 567/2004",
+    "number": "567",
+    "year": "2004",
+    "path": "lege/2004/567"
+   },
+   "articles": [
+    {
+     "art": "90-2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Tribunalul Suceava - Secția de contencios administrativ și fiscal, în Dosarul nr. 2.013/109/2023*, în vederea pronunțării unei hotărâri prealabile cu privire la următoarea chestiune de drept:",
+  "Dacă, în interpretarea dispozițiilor art. 39 alin. (1) din Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, cu modificările și completările ulterioare, raportat și la principiile reglementate de art. 6 din același act normativ, dar și la modalitatea de salarizare a funcționarilor publici din cadrul parchetelor de pe lângă instanțele judecătorești, stabilirea nivelului de salarizare a acestor funcționari publici se poate realiza la nivelul salariului maxim aflat în plată pentru o funcție similară (aceeași funcție/grad/treaptă/gradație), din cadrul tuturor parchetelor de pe lângă instanțele judecătorești, prin luarea în considerare a drepturilor de natura suplimentului postului în procent de 25% din salariul de bază brut lunar și a suplimentului treptei de salarizare în procent de 25% din salariul de bază brut lunar, drepturi acordate prin hotărâri judecătorești unor persoane aflate în aceeași situație de încadrare profesională și care exercită aceleași atribuții, cu trimitere și la art. 90^2 din Legea nr. 567/2004 privind statutul personalului auxiliar de specialitate al instanțelor judecătorești și al parchetelor de pe lângă acestea și al personalului care funcționează în cadrul Institutului Național de Expertize Criminalistice, cu modificările și completările ulterioare.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 62/2024",
+    "number": "62",
+    "year": "2024",
+    "path": "oug/2024/62"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "39",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 567/2004",
+    "number": "567",
+    "year": "2004",
+    "path": "lege/2004/567"
+   },
+   "articles": [
+    {
+     "art": "90-2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituția României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "120",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "O.U.G nr. 83/2014",
+    "number": "83",
+    "year": "2014",
+    "path": "oug/2014/83"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "5-1",
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 57/2015",
+    "number": "57",
+    "year": "2015",
+    "path": "oug/2015/57"
+   },
+   "articles": [
+    {
+     "art": "3-1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 330/2009",
+    "number": "330",
+    "year": "2009",
+    "path": "lege/2009/330"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 80/2010",
+    "number": "80",
+    "year": "2010",
+    "path": "oug/2010/80"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 37/2008",
+    "number": "37",
+    "year": "2008",
+    "path": "oug/2008/37"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 84/2012",
+    "number": "84",
+    "year": "2012",
+    "path": "oug/2012/84"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 103/2013",
+    "number": "103",
+    "year": "2013",
+    "path": "oug/2013/103"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 188/1999",
+    "number": "188",
+    "year": "1999",
+    "path": "lege/1999/188"
+   },
+   "articles": [
+    {
+     "art": "31",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "c",
+      "b"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "2523",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 137/2000",
+    "number": "137",
+    "year": "2000",
+    "path": "og/2000/137"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2",
+      "3"
+     ],
+     "lit": [
+      "e"
+     ]
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 62/2004",
+    "number": "62",
+    "year": "2004",
+    "path": "oug/2004/62"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-11-17",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/304225",
+  "text_sha256": "72143e3a074dba9b0dd3f893a43e1e300643af7222c72b469fd427b94dd748fc",
+  "catalogue_sha256": "72143e3a074dba9b0dd3f893a43e1e300643af7222c72b469fd427b94dd748fc",
+  "fetched": "2026-11-03T00:52:58Z",
+  "chars": 40931,
+  "portal_id": "304225",
+  "tip": "DECIZIE"
+ }
+}
