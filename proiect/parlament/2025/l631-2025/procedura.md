@@ -11,9 +11,13 @@ Initiator: Membri ai Parlamentului.
 ## Stages published so far
 
 - 2025-11-13: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
+- 2025-11-17: documents published: Aviz Consiliul Economic și Social, Aviz Consiliul Legislativ, Punct de vedere
 
 ## Documents
 
 - 2025-11-13: Adresă de înaintare a inițiativei (AD): [ad-6535a8da.md](ad-6535a8da.md); official file https://www.senat.ro/legis/PDF/2025/25L631AD.PDF
 - 2025-11-13: Forma inițiatorului (FG): [fg-076daeb9.md](fg-076daeb9.md); official file https://www.senat.ro/legis/PDF/2025/25L631FG.PDF
 - 2025-11-13: Expunere de motive (EM): [em-7947ae77.md](em-7947ae77.md); official file https://www.senat.ro/legis/PDF/2025/25L631EM.PDF
+- 2025-11-17: Aviz Consiliul Economic și Social (ES): [es-193d0c66.md](es-193d0c66.md); official file https://www.senat.ro/legis/PDF/2025/25L631ES.PDF
+- 2025-11-17: Aviz Consiliul Legislativ (LG): [lg-fb670300.md](lg-fb670300.md); official file https://www.senat.ro/legis/PDF/2025/25L631LG.PDF
+- 2025-11-17: Punct de vedere (PV): [pv-7a94fc6e.md](pv-7a94fc6e.md); official file https://www.senat.ro/legis/PDF/2025/25L631PV.PDF
