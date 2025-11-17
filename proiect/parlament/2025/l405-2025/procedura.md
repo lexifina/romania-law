@@ -16,6 +16,7 @@ Initiator: Membri ai Parlamentului.
 - 2025-10-16: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 - 2025-11-04: documents published: Aviz comisie
 - 2025-11-10: adopted by the Senate; documents published: Forma adoptată de Senat
+- 2025-11-17: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 
 ## Documents
 
@@ -25,3 +26,5 @@ Initiator: Membri ai Parlamentului.
 - 2025-10-16: Expunere de motive (EM): [em-f08c6d75.md](em-f08c6d75.md); official file https://www.senat.ro/legis/PDF/2025/25L405EM.PDF
 - 2025-11-04: Aviz comisie (CA12): [ca12-3f0bb256.md](ca12-3f0bb256.md); official file https://www.senat.ro/legis/PDF/2025/25L405CA12.PDF
 - 2025-11-10: Forma adoptată de Senat (FS): [fs-e34ea86a.md](fs-e34ea86a.md); official file https://www.senat.ro/legis/PDF/2025/25L405FS.PDF
+- 2025-11-17: Adresă privind sesizarea CCR (AXS): [axs-2adb0070.md](axs-2adb0070.md); official file https://www.senat.ro/legis/PDF/2025/25L405AXS.PDF
+- 2025-11-17: Forma trimisă la promulgare (LP): [lp-acfd9bfd.md](lp-acfd9bfd.md); official file https://www.senat.ro/legis/PDF/2025/25L405LP.PDF
