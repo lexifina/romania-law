@@ -1,0 +1,10 @@
+Sancțiune pentru încălcarea RGPD
+Autoritatea Națională de Supraveghere a Prelucrării Datelor cu Caracter Personal a finalizat, în luna octombrie 2025, o investigație la operatorul PGS SOFA & CO SRL și a constatat încălcarea art. 32 alin. (1) lit. b) și d) și alin. (2) din Regulamentul (UE) 2016/679 .
+Ca atare, operatorul a fost sancționat cu amendă în cuantum de 40.663 lei, echivalentul sumei de 8000 de euro .
+Investigația a fost demarată ca urmare a transmiterii de către operatorul PGS SOFA & CO S.R.L a unei notificări de încălcare a securității datelor cu caracter personal, potrivit dispozițiilor art. 33 din Regulamentul (UE) 2016/679.
+În cadrul investigației, s-a constatat că, în urma unui atac cibernetic, a fost accesată și totodată restricționat accesul operatorului la infrastructura informatică proprie.
+Această situație a condus la accesul neautorizat la datele cu caracter personal ale unui număr semnificativ de angajați, clienți și colaboratori ai operatorului, respectiv date de identificare, salariu, conturi bancare ale angajaților și conturi bancare ale clienților și colaboratorilor.
+Ca atare, s-a constatat că operatorul nu a implementat măsuri tehnice și organizatorice adecvate și nu a realizat testarea, evaluarea și aprecierea periodice ale eficacității măsurilor tehnice și organizatorice pentru a garanta securitatea prelucrării.
+Totodată, în temeiul art. 58 alin. (2) lit. d) din Regulament s-a dispus față de operator măsura corectivăde asigurare a conformității dispozițiilor prevăzute de art. 32 din RGPD, în sensul implementării unor măsuri tehnice și organizatorice adecvate în vederea asigurării unui nivel de securitate corespunzător riscului prelucrării, inclusiv prin implementarea autentificării multifactoriale pentru toate conturile de utilizator/administrator care se pot conecta de la distanță în infrastructura IT a operatorului, precum și implementarea unei politici de complexitate a parolelor utilizate pentru aceste conturi.
+Direcția juridică și comunicare
+A.N.S.P.D.C.P
