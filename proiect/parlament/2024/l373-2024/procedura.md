@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2025-04-16: sent for promulgation
 - 2025-05-29: published in the Monitorul Oficial
 - 2025-07-10: returned for re-examination
+- 2025-11-17: adopted by the Senate
 
 ## Documents
 
