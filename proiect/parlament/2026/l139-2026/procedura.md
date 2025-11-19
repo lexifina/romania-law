@@ -9,6 +9,7 @@ Initiator: Membri ai Parlamentului.
 ## Stages published so far
 
 - 2025-03-04: adopted by the Chamber of Deputies
+- 2025-11-19: registered at the Chamber of Deputies
 
 ## Documents
 
