@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2025-10-29: adopted by the Chamber of Deputies
 - 2025-11-03: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-11-05: sent for promulgation
+- 2025-11-19: promulgated, becomes Legea nr. 187/2025; published in the Monitorul Oficial; documents published: Document (day not given by the bill file), Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -34,3 +35,6 @@ Initiator: Guvernul României.
 - 2023-12-04: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L609AM.PDF
 - 2025-11-03: Adresă privind sesizarea CCR (AXS): [axs-79bcc857.md](axs-79bcc857.md); official file https://www.senat.ro/legis/PDF/2023/23L609AXS.PDF
 - 2025-11-03: Forma trimisă la promulgare (LP): [lp-c6f19da5.md](lp-c6f19da5.md); official file https://www.senat.ro/legis/PDF/2023/23L609LP.PDF
+- 2025-11-19: Document (TA): [ta-76f81aaa.md](ta-76f81aaa.md); official file https://www.senat.ro/legis/PDF/2023/23L609TA.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-11-19: Decret de promulgare (DP): [dp-a9909b8b.md](dp-a9909b8b.md); official file https://www.senat.ro/legis/PDF/2023/23L609DP.PDF
+- 2025-11-19: Forma promulgată (FP): [fp-651c1414.md](fp-651c1414.md); official file https://www.senat.ro/legis/PDF/2023/23L609FP.PDF
