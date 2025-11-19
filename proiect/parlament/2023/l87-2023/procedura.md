@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2025-05-09: published in the Monitorul Oficial
 - 2025-09-10: returned for re-examination
 - 2025-09-29: rejected by the Senate
+- 2025-11-19: legislative procedure ended; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -32,3 +33,7 @@ Initiator: Guvernul României.
 - 2023-03-06: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L087AM.PDF
 - 2024-02-27: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L087AXS.PDF
 - 2024-02-27: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L087LP.PDF
+- 2025-11-19: Document (SC1): [sc1-d87c99c6.md](sc1-d87c99c6.md); official file https://www.senat.ro/legis/PDF/2023/23L087SC1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-11-19: Document (DC1): [dc1-dab10c10.md](dc1-dab10c10.md); official file https://www.senat.ro/legis/PDF/2023/23L087DC1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-11-19: Document (RC1): [rc1-ae579cc1.md](rc1-ae579cc1.md); official file https://www.senat.ro/legis/PDF/2023/23L087RC1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-11-19: Document (XD): [xd-aa02e145.md](xd-aa02e145.md); official file https://www.senat.ro/legis/PDF/2023/23L087XD.PDF (its day is not given by the bill file: shown from the last stage held)
