@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2025-10-29: adopted by the Chamber of Deputies
 - 2025-11-03: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-11-05: sent for promulgation
+- 2025-11-19: promulgated, becomes Legea nr. 185/2025; published in the Monitorul Oficial; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -36,3 +37,5 @@ Initiator: Guvernul României.
 - 2025-05-14: Adresă către Camera Deputaților (AM): [am-774a272c.md](am-774a272c.md); official file https://www.senat.ro/legis/PDF/2025/25L105AM.PDF
 - 2025-11-03: Adresă privind sesizarea CCR (AXS): [axs-7b2ea435.md](axs-7b2ea435.md); official file https://www.senat.ro/legis/PDF/2025/25L105AXS.PDF
 - 2025-11-03: Forma trimisă la promulgare (LP): [lp-2abef1ce.md](lp-2abef1ce.md); official file https://www.senat.ro/legis/PDF/2025/25L105LP.PDF
+- 2025-11-19: Decret de promulgare (DP): [dp-f7261c19.md](dp-f7261c19.md); official file https://www.senat.ro/legis/PDF/2025/25L105DP.PDF
+- 2025-11-19: Forma promulgată (FP): [fp-9e80b1ee.md](fp-9e80b1ee.md); official file https://www.senat.ro/legis/PDF/2025/25L105FP.PDF
