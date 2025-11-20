@@ -21,6 +21,7 @@ Initiator: Membri ai Parlamentului.
 - 2025-10-29: adopted by the Chamber of Deputies
 - 2025-11-03: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-11-08: sent for promulgation
+- 2025-11-20: promulgated, becomes Legea nr. 193/2025; published in the Monitorul Oficial; documents published: Document (day not given by the bill file), Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -41,3 +42,6 @@ Initiator: Membri ai Parlamentului.
 - 2024-03-11: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L762AM.PDF
 - 2025-11-03: Adresă privind sesizarea CCR (AXS): [axs-df4f38ff.md](axs-df4f38ff.md); official file https://www.senat.ro/legis/PDF/2023/23L762AXS.PDF
 - 2025-11-03: Forma trimisă la promulgare (LP): [lp-2a0387d4.md](lp-2a0387d4.md); official file https://www.senat.ro/legis/PDF/2023/23L762LP.PDF
+- 2025-11-20: Document (CC): [cc-72abb785.md](cc-72abb785.md); official file https://www.senat.ro/legis/PDF/2023/23L762CC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-11-20: Decret de promulgare (DP): [dp-db1cfa4a.md](dp-db1cfa4a.md); official file https://www.senat.ro/legis/PDF/2023/23L762DP.PDF
+- 2025-11-20: Forma promulgată (FP): [fp-74ca0e80.md](fp-74ca0e80.md); official file https://www.senat.ro/legis/PDF/2023/23L762FP.PDF
