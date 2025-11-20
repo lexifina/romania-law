@@ -18,6 +18,7 @@ Initiator: Membri ai Parlamentului.
 - 2025-10-29: adopted by the Chamber of Deputies
 - 2025-11-03: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-11-08: sent for promulgation
+- 2025-11-20: promulgated, becomes Legea nr. 192/2025; published in the Monitorul Oficial; documents published: Document (day not given by the bill file), Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -32,3 +33,6 @@ Initiator: Membri ai Parlamentului.
 - 2025-10-06: Adresă către Camera Deputaților (AM): [am-61938d83.md](am-61938d83.md); official file https://www.senat.ro/legis/PDF/2025/25L315AM.PDF
 - 2025-11-03: Adresă privind sesizarea CCR (AXS): [axs-33d4f16a.md](axs-33d4f16a.md); official file https://www.senat.ro/legis/PDF/2025/25L315AXS.PDF
 - 2025-11-03: Forma trimisă la promulgare (LP): [lp-a9f7b8d8.md](lp-a9f7b8d8.md); official file https://www.senat.ro/legis/PDF/2025/25L315LP.PDF
+- 2025-11-20: Document (CNA): [cna-a4cc469d.md](cna-a4cc469d.md); official file https://www.senat.ro/legis/PDF/2025/25L315CNA.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-11-20: Decret de promulgare (DP): [dp-e1f250b2.md](dp-e1f250b2.md); official file https://www.senat.ro/legis/PDF/2025/25L315DP.PDF
+- 2025-11-20: Forma promulgată (FP): [fp-90024784.md](fp-90024784.md); official file https://www.senat.ro/legis/PDF/2025/25L315FP.PDF
