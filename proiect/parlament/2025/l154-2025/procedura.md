@@ -19,6 +19,7 @@ Initiator: Membri ai Parlamentului.
 - 2025-10-29: adopted by the Chamber of Deputies
 - 2025-11-03: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-11-08: sent for promulgation
+- 2025-11-20: promulgated, becomes Legea nr. 190/2025; published in the Monitorul Oficial; documents published: Document (day not given by the bill file), Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -34,3 +35,6 @@ Initiator: Membri ai Parlamentului.
 - 2025-06-24: Adresă către Camera Deputaților (AM): [am-10fb634d.md](am-10fb634d.md); official file https://www.senat.ro/legis/PDF/2025/25L154AM.PDF
 - 2025-11-03: Adresă privind sesizarea CCR (AXS): [axs-8d1490db.md](axs-8d1490db.md); official file https://www.senat.ro/legis/PDF/2025/25L154AXS.PDF
 - 2025-11-03: Forma trimisă la promulgare (LP): [lp-2791be30.md](lp-2791be30.md); official file https://www.senat.ro/legis/PDF/2025/25L154LP.PDF
+- 2025-11-20: Document (CC): [cc-0aab7b64.md](cc-0aab7b64.md); official file https://www.senat.ro/legis/PDF/2025/25L154CC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-11-20: Decret de promulgare (DP): [dp-ea2618b8.md](dp-ea2618b8.md); official file https://www.senat.ro/legis/PDF/2025/25L154DP.PDF
+- 2025-11-20: Forma promulgată (FP): [fp-e9ebfe4c.md](fp-e9ebfe4c.md); official file https://www.senat.ro/legis/PDF/2025/25L154FP.PDF
