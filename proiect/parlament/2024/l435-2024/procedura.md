@@ -17,6 +17,7 @@ Initiator: Guvernul României.
 - 2025-10-29: adopted by the Chamber of Deputies
 - 2025-11-03: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-11-08: sent for promulgation
+- 2025-11-20: promulgated, becomes Legea nr. 191/2025; published in the Monitorul Oficial; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -31,3 +32,5 @@ Initiator: Guvernul României.
 - 2024-09-24: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L435AM.PDF
 - 2025-11-03: Adresă privind sesizarea CCR (AXS): [axs-9c1aabf1.md](axs-9c1aabf1.md); official file https://www.senat.ro/legis/PDF/2024/24L435AXS.PDF
 - 2025-11-03: Forma trimisă la promulgare (LP): [lp-83f9089f.md](lp-83f9089f.md); official file https://www.senat.ro/legis/PDF/2024/24L435LP.PDF
+- 2025-11-20: Decret de promulgare (DP): [dp-bc37f5ff.md](dp-bc37f5ff.md); official file https://www.senat.ro/legis/PDF/2024/24L435DP.PDF
+- 2025-11-20: Forma promulgată (FP): [fp-481fa5e5.md](fp-481fa5e5.md); official file https://www.senat.ro/legis/PDF/2024/24L435FP.PDF
