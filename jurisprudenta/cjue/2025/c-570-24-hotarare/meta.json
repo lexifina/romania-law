@@ -1,0 +1,62 @@
+{
+ "key": "cjue-c-570-24-hotarare-2025-11-20",
+ "label": "CJUE, Hotărârea Curții (Camera a șaptea) din 20 noiembrie 2025, Cauza C-570/24",
+ "court": "cjue",
+ "court_name": "Curtea de Justiție a Uniunii Europene",
+ "kind": "hotarare",
+ "act_type": "JUDG",
+ "date": "2025-11-20",
+ "year": "2025",
+ "case": "Cauza C-570/24",
+ "celex": "62024CJ0570",
+ "ecli": "ECLI:EU:C:2025:907",
+ "heading": "Hotărârea Curții (Camera a șaptea) din 20 noiembrie 2025",
+ "formation": "CHAMB_07_C",
+ "procedure": "REFER_PREL",
+ "romania_role": [
+  "originates"
+ ],
+ "referred_by": [
+  {
+   "court": "Curtea de Apel Cluj",
+   "date": "2024-03-16",
+   "national_file": "296/112/2021"
+  }
+ ],
+ "referral_text": "Cererea de decizie preliminară formulată de Curtea de Apel Cluj",
+ "national_followup": null,
+ "parties": null,
+ "parties_withheld": true,
+ "keywords": "Trimitere preliminară – Accize – Directiva 2008/118/CE – Articolul 8 alineatul (1) litera (a) punctul (i) și alineatul (2) – Persoană plătitoare de accize – Cantitate de alcool etilic lipsă din gestiunea unei societăți – Administrator împuternicit al unei societăți, vinovat de delapidare și de neînregistrarea în contabilitate – Stabilirea persoanei plătitoare de accize – Pluralitate de plătitori de accize – Incidența unei hotărâri pronunțate de o instanță penală pe latura civilă, prin care se recunoaște răspunderea exclusivă a administratorului împuternicit",
+ "interprets": [
+  {
+   "celex": "32008L0118",
+   "folder": "ue/directiva/2008/118"
+  }
+ ],
+ "text": "dispozitiv.md",
+ "text_withheld": "personal_data",
+ "withheld_reason": "The full text names the parties' lawyers (and, in older cases, private parties); only the metadata and the operative part are published here, with the official link.",
+ "operative_missing": false,
+ "eurlex_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62024CJ0570",
+ "curia_url": "https://curia.europa.eu/juris/liste.jsf?num=C-570/24&language=ro",
+ "source": {
+  "name": "CELLAR, Publications Office of the European Union",
+  "url": "http://publications.europa.eu/resource/cellar/84142f95-c5f5-11f0-8da2-01aa75ed71a1.0002.05/DOC_1",
+  "format": "xhtml",
+  "sha256": [
+   "bcacb5bcb5fd20fc1f70e7adad76ea789fca48d455169a9d3d641b9aebd640ec"
+  ]
+ },
+ "legal_basis": "Jurisprudența Curții de Justiție a Uniunii Europene (texte oficiale; reutilizare permisă cu menționarea sursei: Decizia Comisiei 2011/833/UE și condițiile CURIA; © Uniunea Europeană). Textele oficiale nu sunt protejate de dreptul de autor în România (Legea nr. 8/1996, art. 9 lit. b).",
+ "attribution": "© European Union, https://eur-lex.europa.eu (via the Publications Office CELLAR)",
+ "operative": [
+  "Pentru aceste motive, Curtea (Camera a șaptea) declară:",
+  "1) Articolul 8 alineatul (1) litera (a) punctul (i) din Directiva 2008/118/CE a Consiliului din 16 decembrie 2008 privind regimul general al accizelor și de abrogare a Directivei 92/12/CEE",
+  "trebuie interpretat în sensul că",
+  "o persoană juridică care, în vederea autorizării ca antrepozitar fiscal, a desfășurat o activitate de producție de alcool etilic în regim suspensiv de accize, din gestiunea căreia s‑a constatat lipsa unei anumite cantități din acest alcool, se încadrează în noțiunea de persoană plătitoare de accize în sensul acestei dispoziții.",
+  "2) Articolul 8 alineatul (1) litera (a) punctul (i) și alineatul (2) din Directiva 2008/118",
+  "trebuie interpretat în sensul că",
+  "pentru a stabili persoana sau persoanele plătitoare de accize care au devenit exigibile în sensul acestor dispoziții, o instanță națională nu este ținută de dispozitivul privind latura civilă al hotărârii unei instanțe penale prin care o persoană fizică, salariat sau administrator al unei persoane juridice, este condamnată definitiv ca unica responsabilă pentru producerea prejudiciului față de bugetul de stat prin sustragerea unei cantități de alcool depozitate în regim suspensiv de accize la această persoană juridică."
+ ]
+}
