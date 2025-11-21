@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2025-11-05: adopted by the Chamber of Deputies
 - 2025-11-10: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-11-12: sent for promulgation
+- 2025-11-21: promulgated, becomes Legea nr. 194/2025; published in the Monitorul Oficial; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -37,3 +38,5 @@ Initiator: Guvernul României.
 - 2024-04-29: Adresă către Camera Deputaților (AM): [am-1bb4c025.md](am-1bb4c025.md); official file https://www.senat.ro/legis/PDF/2024/24L211AM.PDF
 - 2025-11-10: Adresă privind sesizarea CCR (AXS): [axs-94e34d1e.md](axs-94e34d1e.md); official file https://www.senat.ro/legis/PDF/2024/24L211AXS.PDF
 - 2025-11-10: Forma trimisă la promulgare (LP): [lp-7624afe8.md](lp-7624afe8.md); official file https://www.senat.ro/legis/PDF/2024/24L211LP.PDF
+- 2025-11-21: Decret de promulgare (DP): [dp-6e0c8ce6.md](dp-6e0c8ce6.md); official file https://www.senat.ro/legis/PDF/2024/24L211DP.PDF
+- 2025-11-21: Forma promulgată (FP): [fp-6ebe5c6f.md](fp-6ebe5c6f.md); official file https://www.senat.ro/legis/PDF/2024/24L211FP.PDF
