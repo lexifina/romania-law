@@ -20,6 +20,7 @@ Initiator: Guvernul României.
 - 2025-11-05: adopted by the Chamber of Deputies
 - 2025-11-10: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-11-12: sent for promulgation
+- 2025-11-21: promulgated, becomes Legea nr. 195/2025; published in the Monitorul Oficial; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -38,3 +39,5 @@ Initiator: Guvernul României.
 - 2025-05-14: Adresă către Camera Deputaților (AM): [am-07f166ff.md](am-07f166ff.md); official file https://www.senat.ro/legis/PDF/2025/25L108AM.PDF
 - 2025-11-10: Adresă privind sesizarea CCR (AXS): [axs-ba89cf28.md](axs-ba89cf28.md); official file https://www.senat.ro/legis/PDF/2025/25L108AXS.PDF
 - 2025-11-10: Forma trimisă la promulgare (LP): [lp-09179369.md](lp-09179369.md); official file https://www.senat.ro/legis/PDF/2025/25L108LP.PDF
+- 2025-11-21: Decret de promulgare (DP): [dp-a274cb1e.md](dp-a274cb1e.md); official file https://www.senat.ro/legis/PDF/2025/25L108DP.PDF
+- 2025-11-21: Forma promulgată (FP): [fp-1be01617.md](fp-1be01617.md); official file https://www.senat.ro/legis/PDF/2025/25L108FP.PDF
