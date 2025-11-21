@@ -1,0 +1,10 @@
+# HCL Jariștea nr. 12/2025
+
+Text not yet included: no document of it is held. It will be added when it is.
+
+- Council: Consiliul Local al Comunei Jariștea
+- Decision: nr. 12/2025
+- Adopted: 2025-02-28
+- Published: 2025-11-21
+- Title: privind aprobarea schimbării destinației imobilului „Grădiniță și punct sanitar - veterinar” aflat în domeniul public al comunei Jariștea, județul Vrancea
+- Record: https://emol.ro/jaristea-vn/registru-hcl/194617
