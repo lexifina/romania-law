@@ -18,6 +18,7 @@ Initiator: Membri ai Parlamentului.
 - 2025-10-09: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 - 2025-11-10: adopted by the Senate; documents published: Forma adoptată de Senat
 - 2025-11-17: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
+- 2025-11-22: sent for promulgation
 
 ## Documents
 
