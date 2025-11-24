@@ -1,0 +1,416 @@
+{
+ "key": "dcc-564-2025",
+ "label": "Decizia CCR nr. 564/2025",
+ "court": "ccr",
+ "kind": "a-priori",
+ "subkind": "lege-inainte-de-promulgare",
+ "number": "564",
+ "date": "2025-11-05",
+ "year": "2025",
+ "heading": "DECIZIA nr. 564 din 5 noiembrie 2025",
+ "subtitle": "referitoare la obiecția de neconstituționalitate a Legii pentru modificarea art. 12 din Legea nr. 96/2006 privind Statutul deputaților și al senatorilor",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "1080",
+  "bis": false,
+  "date": "2025-11-24",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "4.281A/2025",
+  "4.324A/2025"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 96/2006",
+    "number": "96",
+    "year": "2006",
+    "path": "lege/2006/96"
+   },
+   "articles": [
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, obiecția de neconstituționalitate și constată că Legea pentru modificarea art. 12 din Legea nr. 96/2006 privind Statutul deputaților și al senatorilor este constituțională în raport cu criticile de neconstituționalitate formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Președintelui României și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 96/2006",
+    "number": "96",
+    "year": "2006",
+    "path": "lege/2006/96"
+   },
+   "articles": [
+    {
+     "art": "12",
+     "alin": [
+      "7",
+      "8",
+      "5",
+      "10",
+      "12",
+      "1",
+      "13"
+     ],
+     "lit": null
+    },
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 44
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "5",
+      "4",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "79",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "69",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "61",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "146",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "75",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "76",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "65",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "64",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 56
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "36",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "9",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": [
+      "3",
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 57/2019",
+    "number": "57",
+    "year": "2019",
+    "path": "oug/2019/57"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "18",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "47-11",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "18",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.a"
+     ]
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 286/2009",
+    "number": "286",
+    "year": "2009",
+    "path": "lege/2009/286"
+   },
+   "articles": [
+    {
+     "art": "291",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 190/2018",
+    "number": "190",
+    "year": "2018",
+    "path": "lege/2018/190"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 73/1993",
+    "number": "73",
+    "year": "1993",
+    "path": "lege/1993/73"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 49/2025",
+    "number": "49",
+    "year": "2025",
+    "path": "lege/2025/49"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 251/2004",
+    "number": "251",
+    "year": "2004",
+    "path": "lege/2004/251"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 129/2018",
+    "number": "129",
+    "year": "2018",
+    "path": "lege/2018/129"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2025-11-24",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/304657",
+  "text_sha256": "cadba59cbd5ec1e823a05c4a0f521d58fe0a96c06f5af043b2151ffee1c6d7e9",
+  "catalogue_sha256": "cadba59cbd5ec1e823a05c4a0f521d58fe0a96c06f5af043b2151ffee1c6d7e9",
+  "fetched": "2026-11-03T00:52:41Z",
+  "chars": 110721,
+  "portal_id": "304657",
+  "tip": "DECIZIE"
+ }
+}
