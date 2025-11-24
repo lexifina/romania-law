@@ -9,6 +9,7 @@ Initiator: Guvernul României.
 ## Stages published so far
 
 - 2025-10-06: registered at the Chamber of Deputies
+- 2025-11-24: adopted by the Chamber of Deputies
 
 ## Documents
 
