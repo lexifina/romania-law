@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2025-11-05: adopted by the Chamber of Deputies
 - 2025-11-10: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-11-12: sent for promulgation
+- 2025-11-25: promulgated, becomes Legea nr. 196/2025; published in the Monitorul Oficial; documents published: Document (day not given by the bill file), Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -37,3 +38,6 @@ Initiator: Guvernul României.
 - 2025-09-15: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2025/25L216AM.PDF
 - 2025-11-10: Adresă privind sesizarea CCR (AXS): [axs-e50284c1.md](axs-e50284c1.md); official file https://www.senat.ro/legis/PDF/2025/25L216AXS.PDF
 - 2025-11-10: Forma trimisă la promulgare (LP): [lp-a29316a1.md](lp-a29316a1.md); official file https://www.senat.ro/legis/PDF/2025/25L216LP.PDF
+- 2025-11-25: Document (TA): [ta-66de68da.md](ta-66de68da.md); official file https://www.senat.ro/legis/PDF/2025/25L216TA.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-11-25: Decret de promulgare (DP): [dp-869a56e6.md](dp-869a56e6.md); official file https://www.senat.ro/legis/PDF/2025/25L216DP.PDF
+- 2025-11-25: Forma promulgată (FP): [fp-1cb26204.md](fp-1cb26204.md); official file https://www.senat.ro/legis/PDF/2025/25L216FP.PDF
