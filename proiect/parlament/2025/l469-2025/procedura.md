@@ -17,6 +17,7 @@ Initiator: Membri ai Parlamentului.
 - 2025-11-04: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 - 2025-11-17: documents published: Aviz comisie
 - 2025-11-19: documents published: Aviz comisie
+- 2025-11-25: documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -30,3 +31,5 @@ Initiator: Membri ai Parlamentului.
 - 2025-11-04: Expunere de motive (EM): [em-d20ba5ea.md](em-d20ba5ea.md); official file https://www.senat.ro/legis/PDF/2025/25L469EM.PDF
 - 2025-11-17: Aviz comisie (CA45): [ca45-f07a75cb.md](ca45-f07a75cb.md); official file https://www.senat.ro/legis/PDF/2025/25L469CA45.PDF
 - 2025-11-19: Aviz comisie (CA41): [ca41-94ff1ff4.md](ca41-94ff1ff4.md); official file https://www.senat.ro/legis/PDF/2025/25L469CA41.PDF
+- 2025-11-25: Document (AJ): not held as text; official file https://www.senat.ro/legis/PDF/2025/25L469AJ.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-11-25: Document (SE1): [se1-1a4e3265.md](se1-1a4e3265.md); official file https://www.senat.ro/legis/PDF/2025/25L469SE1.PDF (its day is not given by the bill file: shown from the last stage held)
