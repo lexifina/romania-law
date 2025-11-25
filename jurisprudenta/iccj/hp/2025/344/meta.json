@@ -1,0 +1,375 @@
+{
+ "key": "iccj-hp-344-2025",
+ "label": "Decizia ÎCCJ nr. 344/2025 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "344",
+ "date": "2025-10-06",
+ "year": "2025",
+ "heading": "DECIZIA nr. 344 din 6 octombrie 2025",
+ "subtitle": "referitoare la interpretarea și aplicarea art. 20^1 din Legea nr. 80/1995 și art. 2 din Hotărârea Guvernului nr. 1.867/2005 coroborate cu art. 40 - 43 din anexa nr. 7 secțiunea a II-a din Ordinul ministrului afacerilor interne nr. 177/2016",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "1085",
+  "bis": false,
+  "date": "2025-11-25",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.044/1/2025",
+  "5.777/117/2024"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 80/1995",
+    "number": "80",
+    "year": "1995",
+    "path": "lege/1995/80"
+   },
+   "articles": [
+    {
+     "art": "20-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 1.867/2005",
+    "number": "1867",
+    "year": "2005",
+    "path": "hg/2005/1867"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul ministrului afacerilor interne nr. 177/2016",
+    "number": "177",
+    "year": "2016"
+   },
+   "articles": [
+    {
+     "art": "40",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "42",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "43",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Tribunalul Cluj - Secția mixtă de contencios administrativ și fiscal, de conflicte de muncă și asigurări sociale în Dosarul nr. 5.777/117/2024, în vederea pronunțării unei hotărâri prealabile cu privire la următoarea chestiune de drept: Dacă, în interpretarea și aplicarea art. 20^1 din Legea nr. 80/1995 și art. 2 din Hotărârea Guvernului nr. 1.867/2005 coroborate cu art. 40 - 43 din anexa nr. 7 secțiunea a II-a din Ordinul ministrului afacerilor interne nr. 177/2016, schimbarea din funcție la cerere, spre deosebire de mutarea la cerere, este de natură a împiedica acordarea compensației pentru chirie cadrelor militare în activitate.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 80/1995",
+    "number": "80",
+    "year": "1995",
+    "path": "lege/1995/80"
+   },
+   "articles": [
+    {
+     "art": "20-1",
+     "alin": [
+      "1",
+      "2-1",
+      "2-2",
+      "2-3",
+      "2-5",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 17
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 1.867/2005",
+    "number": "1867",
+    "year": "2005",
+    "path": "hg/2005/1867"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul ministrului afacerilor interne nr. 177/2016",
+    "number": "177",
+    "year": "2016"
+   },
+   "articles": [
+    {
+     "art": "40",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "42",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "43",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 62/2024",
+    "number": "62",
+    "year": "2024",
+    "path": "oug/2024/62"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul nr. 177/2016",
+    "number": "177",
+    "year": "2016"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 360/2002",
+    "number": "360",
+    "year": "2002",
+    "path": "lege/2002/360"
+   },
+   "articles": [
+    {
+     "art": "31",
+     "alin": [
+      "1",
+      "1-2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "9",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "h"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 284/2005",
+    "number": "284",
+    "year": "2005",
+    "path": "hg/2005/284"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": [
+      "d"
+     ]
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 1.198/2022",
+    "number": "1198",
+    "year": "2022",
+    "path": "hg/2022/1198"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": [
+      "1",
+      "3"
+     ],
+     "lit": [
+      "h"
+     ]
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": [
+      "h"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 113/2023",
+    "number": "113",
+    "year": "2023",
+    "path": "lege/2023/113"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 516/2003",
+    "number": "516",
+    "year": "2003",
+    "path": "lege/2003/516"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-11-25",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/304675",
+  "text_sha256": "788b5ccf7fa23f165fd854f70ffac39b5b177fe82dc19e5fbb15facdaf96d7fa",
+  "catalogue_sha256": "788b5ccf7fa23f165fd854f70ffac39b5b177fe82dc19e5fbb15facdaf96d7fa",
+  "fetched": "2026-11-03T00:52:40Z",
+  "chars": 51537,
+  "portal_id": "304675",
+  "tip": "DECIZIE"
+ }
+}
