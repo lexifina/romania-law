@@ -14,6 +14,7 @@ Initiator: Guvernul României.
 - 2025-09-06: sent for promulgation
 - 2025-10-20: published in the Monitorul Oficial
 - 2025-11-11: returned for re-examination
+- 2025-11-26: returned for re-examination; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -24,3 +25,6 @@ Initiator: Guvernul României.
 - 2025-08-29: Document (HG): [hg-3a9e4eba.md](hg-3a9e4eba.md); official file https://www.senat.ro/legis/PDF/2025/25L209HG.PDF
 - 2025-09-04: Adresă privind sesizarea CCR (AXS): [axs-46c9f6cc.md](axs-46c9f6cc.md); official file https://www.senat.ro/legis/PDF/2025/25L209AXS.PDF
 - 2025-09-04: Forma trimisă la promulgare (LP): [lp-23743015.md](lp-23743015.md); official file https://www.senat.ro/legis/PDF/2025/25L209LP.PDF
+- 2025-11-26: Document (SC1): [sc1-79dc0ae8.md](sc1-79dc0ae8.md); official file https://www.senat.ro/legis/PDF/2025/25L209SC1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-11-26: Document (DC1): not held as text; official file https://www.senat.ro/legis/PDF/2025/25L209DC1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-11-26: Document (RC1): [rc1-565a4900.md](rc1-565a4900.md); official file https://www.senat.ro/legis/PDF/2025/25L209RC1.PDF (its day is not given by the bill file: shown from the last stage held)
