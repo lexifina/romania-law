@@ -1,0 +1,196 @@
+{
+ "key": "cedo-22198-18-2025-04-15",
+ "label": "CEDO, Bădescu și altele c. României, 2025-04-15",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2025-04-15",
+ "year": "2025",
+ "heading": "HOTĂRÂREA din 15 aprilie 2025",
+ "subtitle": "în Cauza Bădescu și altele împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI - SECȚIA A PATRA",
+ "mo": {
+  "number": "1090",
+  "bis": false,
+  "date": "2025-11-26",
+  "part": "I"
+ },
+ "outcome": "no-violation",
+ "findings": [
+  "no-violation",
+  "inadmissible"
+ ],
+ "applications": [
+  "22198/18"
+ ],
+ "case_name": "Bădescu și altele",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenție",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "În unanimitate,",
+  "CURTEA:",
+  "1. decide să conexeze cererile;",
+  "2. declară admisibile cererile nr. 22.198/18 și nr. 48.856/18 și inadmisibilă Cererea nr. 57.849/19;",
+  "3. hotărăște că nu a fost încălcat art. 7 din Convenție."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 24
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 303/2004",
+    "number": "303",
+    "year": "2004",
+    "path": "lege/2004/303"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "94",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "97",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "124",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "129",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [],
+   "mentions": 5
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/304692",
+  "text_sha256": "dfd023673060eb3fc5f6a9cbc82b908b3eb2fa2882e22dc8ecbb3482b07cbb1e",
+  "catalogue_sha256": "dfd023673060eb3fc5f6a9cbc82b908b3eb2fa2882e22dc8ecbb3482b07cbb1e",
+  "fetched": "2026-11-03T00:52:38Z",
+  "chars": 123027,
+  "portal_id": "304692",
+  "tip": "HOTĂRÂRE"
+ }
+}
