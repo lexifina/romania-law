@@ -15,6 +15,7 @@ Initiator: Guvernul României.
 - 2025-11-05: adopted by the Chamber of Deputies
 - 2025-11-06: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
 - 2025-11-19: documents published: Aviz comisie
+- 2025-11-26: documents published: Aviz comisie
 
 ## Documents
 
@@ -25,3 +26,4 @@ Initiator: Guvernul României.
 - 2025-11-06: Aviz Consiliul Legislativ (LG): [lg-959818f8.md](lg-959818f8.md); official file https://www.senat.ro/legis/PDF/2025/25L471LG.PDF
 - 2025-11-06: Document (HG): [hg-323cfca1.md](hg-323cfca1.md); official file https://www.senat.ro/legis/PDF/2025/25L471HG.PDF
 - 2025-11-19: Aviz comisie (CA12): [ca12-bc6bf741.md](ca12-bc6bf741.md); official file https://www.senat.ro/legis/PDF/2025/25L471CA12.PDF
+- 2025-11-26: Aviz comisie (CA60): [ca60-f2174f5a.md](ca60-f2174f5a.md); official file https://www.senat.ro/legis/PDF/2025/25L471CA60.PDF
