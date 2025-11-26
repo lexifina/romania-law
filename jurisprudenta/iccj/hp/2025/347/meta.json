@@ -1,0 +1,277 @@
+{
+ "key": "iccj-hp-347-2025",
+ "label": "Decizia ÎCCJ nr. 347/2025 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "347",
+ "date": "2025-10-06",
+ "year": "2025",
+ "heading": "DECIZIA nr. 347 din 6 octombrie 2025",
+ "subtitle": "referitoare la dispozițiile art. 104 lit. c) din Legea nr. 145/2019 privind statutul polițiștilor de penitenciare, cu modificările și completările ulterioare",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "1091",
+  "bis": false,
+  "date": "2025-11-26",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "741/1/2025",
+  "1.850/99/2024"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 145/2019",
+    "number": "145",
+    "year": "2019",
+    "path": "lege/2019/145"
+   },
+   "articles": [
+    {
+     "art": "104",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 273/2004",
+    "number": "273",
+    "year": "2004",
+    "path": "lege/2004/273"
+   },
+   "articles": [
+    {
+     "art": "50",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Respinge ca inadmisibilă sesizarea formulată de Tribunalul Iași - Secția a II-a civilă - contencios administrativ și fiscal în Dosarul nr. 1.850/99/2024, în vederea pronunțării unei hotărâri prealabile pentru dezlegarea următoarei chestiuni de drept: Dacă dispozițiile art. 104 lit. c) din Legea nr. 145/2019 privind statutul polițiștilor de penitenciare, cu modificările și completările ulterioare, prin raportare la art. 4 lit. d) din anexa la Ordinul ministrului justiției nr. 1.318/C/2012 pentru aprobarea Normelor de acordare a drepturilor de hrană, în timp de pace, personalului din sistemul administrației penitenciare, publicat în Monitorul Oficial al României, Partea I, nr. 333 bis din 17 mai 2012, cu modificările și completările ulterioare, și art. 37 de la punctul 9 litera A capitolul II din anexa nr. 4 la Regulamentul pentru descrierea, compunerea și modul de purtare a uniformelor și echipamentului specific pentru funcționarii publici cu statut special din sistemul administrației penitenciare, precum și regulile de acordare a drepturilor de echipament, aprobate prin Ordinul ministrului justiției nr. 2.908/C/2013, publicat în Monitorul Oficial al României, Partea I, nr. 652 din 23 octombrie 2013, cu modificările și completările ulterioare, ce reglementează dreptul la uniformă și echipament specific și drepturi de hrană, sunt aplicabile în situația personalului din penitenciare aflat în concediu de acomodare, reglementat de art. 50 alin. (1) din Legea nr. 273/2004 privind procedura adopției, cu modificările și completările ulterioare?",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 62/2024",
+    "number": "62",
+    "year": "2024",
+    "path": "oug/2024/62"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 145/2019",
+    "number": "145",
+    "year": "2019",
+    "path": "lege/2019/145"
+   },
+   "articles": [
+    {
+     "art": "104",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 273/2004",
+    "number": "273",
+    "year": "2004",
+    "path": "lege/2004/273"
+   },
+   "articles": [
+    {
+     "art": "50",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "37",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea contenciosului administrativ nr. 554/2004",
+    "number": "554",
+    "year": "2004",
+    "path": "lege/2004/554"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 53/2003",
+    "number": "53",
+    "year": "2003",
+    "path": "lege/2003/53"
+   },
+   "articles": [
+    {
+     "art": "269",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "95",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinului Ministerului Afacerilor Interne nr. 136/2017",
+    "number": "136",
+    "year": "2017"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-11-26",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/304715",
+  "text_sha256": "f00cfc2dc22bfbbdc05ece50456428704269fc39bf9ec169d76fca18c815ca6c",
+  "catalogue_sha256": "f00cfc2dc22bfbbdc05ece50456428704269fc39bf9ec169d76fca18c815ca6c",
+  "fetched": "2026-11-03T00:52:43Z",
+  "chars": 40967,
+  "portal_id": "304715",
+  "tip": "DECIZIE"
+ }
+}
