@@ -17,6 +17,7 @@ Initiator: Guvernul României.
 - 2023-10-21: sent for promulgation
 - 2023-11-03: returned for re-examination
 - 2023-12-18: adopted by the Senate
+- 2025-11-26: documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -31,3 +32,8 @@ Initiator: Guvernul României.
 - 2022-10-24: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L604AM.PDF
 - 2023-10-16: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L604AXS.PDF
 - 2023-10-16: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L604LP.PDF
+- 2025-11-26: Document (RX): [rx-aa38d376.md](rx-aa38d376.md); official file https://www.senat.ro/legis/PDF/2022/22L604RX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-11-26: Document (XA): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L604XA.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-11-26: Document (CX): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L604CX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-11-26: Document (XD): [xd-cc1bbae7.md](xd-cc1bbae7.md); official file https://www.senat.ro/legis/PDF/2022/22L604XD.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-11-26: Document (SX): [sx-d244cc6e.md](sx-d244cc6e.md); official file https://www.senat.ro/legis/PDF/2022/22L604SX.PDF (its day is not given by the bill file: shown from the last stage held)
