@@ -1,0 +1,87 @@
+# Anexa 3
+Anexa nr. 2
+la Contractul de parteneriat pentru formarea profesională a elevilor prin învățământul liceal tehnologic dual, nr. ..../....
+Situația privind stimulentele, susținerea financiară și alte forme de sprijin acordate elevilor din învățământul liceal tehnologic dual de către operatorul economic ......, în anul școlar ................
+1.
+Calificările, clasele și numărul de elevi care fac obiectul anexei: (Informațiile de la punctul 1 sunt corelate cu art. 2 din contractul de parteneriat și identice cu cele de la punctul 1 din anexa nr. 1 la contractul de parteneriat.
+Calificarea profesională
+(cf. RNCP)
+Nivelul de calificare conform CNC
+Domeniul de pregătire profesională
+Clasa/an de studiu (clasa a IX-a, clasa a X-a; ...)
+Număr elevi
+1
+2
+3
+4
+5
+1.
+Categorii de susțineri financiare, stimulente și alte forme de sprijin acordate elevilor
+Clasa ..........
+Susținerea financiară/ Stimulentul/
+Forma de sprijin acordată elevilor
+Nr. de elevi cf. tabelului de la pct. 1, coloana 5.
+Nr. de
+elevi
+pentru
+care se
+acordă
+susținere
+a financiară
+Valoare/elev (lei/elev)
+Perioada pentru care se acordă
+(nr. de luni/zile )
+Valoare a totală (=3*4*5) (lei)
+1
+2
+3
+4
+5
+6
+Bursă lunară (valoare/lună)
+Examinări de medicină a muncii și analize medicale obligatorii în vederea efectuării stagiului de pregătire practică (în funcție de domeniul de activitate)
+Asigurare de răspundere civilă în cazul unor eventuale accidente, daune sau vătămări corporale generate în timpul practicii
+Echipament de lucru
+Echipament de protecție
+Transport la și de la locul de practică (lei/zi)
+lei/zi
+... zile
+Asigurarea unei mesei/zi la locul de practică (lei/zi)
+lei/zi
+... zile
+Cazare pe parcursul pregătirii practice
+lei/zi
+... zile
+Rechizite necesare pe perioada practicii
+Premii pentru stimularea performanței
+Altele:
+(Se menționează care)
+Total valoare stimulente/forme de sprijin
+2.
+Condiții de acordare a susținerii financiare, stimulentelor și altor forme de sprijin
+Susținerea financiară/ Stimulentul/ Forma de sprijin acordată elevilor
+Condiții de acordare
+Detaliere
+Bursă lunară
+Frecvență (prezența la pregătirea teoretică și practică)
+Promovarea
+disciplinelor/modulelor din planul de învățământ
+Rezultate la evaluări teoretice și practice
+Rezultate la evaluarea comportamentală și de atitudine
+Examinări de medicină a muncii și analize medicale obligatorii în vederea efectuării stagiului de pregătire practică (în funcție de domeniul de activitate)
+Asigurare de răspundere civilă în cazul unor eventuale accidente, daune sau vătămări corporale generate în timpul practicii
+Echipament de lucru
+Echipament de protecție
+Transport la și de la locul de practică
+Asigurarea unei mesei/zi la locul de practică
+Cazare pe parcursul pregătirii practice
+Rechizite necesare pe perioada practicii
+Premii pentru stimularea performanței
+Altele:.............
+(Se completează câte un tabel pentru fiecare clasă /an de studii, pentru care operatorul economic respectiv încheie contracte de pregătire practică în învățământul liceal tehnologic în calificarea mai sus menționată, pentru anul școlar respectiv. Dacă nu este cazul se completează cu NA, nu se modifică anexa.)
+Pentru componentele pentru care nu se prevăd condiții specifice, se pot completa doar mențiuni generice, după caz (de exemplu, în cazul examinărilor de medicină a muncii, "pentru toți elevii practicanți, la începutul anului școlar", referitor la transport: "asigurat pentru toți elevii practicanți, cu mijloacele de transport ale firmei" sau "decontarea cheltuielilor pe bază de abonament ..." etc. În cazul acordării de premii se precizează criteriul sau alte aspecte relevante (ex. "pentru performanțe deosebite obținute la " etc.)
+Operatorul economic: .................................
+Reprezentant legal (numele și prenumele): ............
+Funcția: ......................
+Semnătura
+Data:
