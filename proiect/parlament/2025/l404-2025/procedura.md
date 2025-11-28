@@ -17,6 +17,7 @@ Initiator: Guvernul României.
 - 2025-11-03: adopted by the Senate; documents published: Forma adoptată de Senat
 - 2025-11-10: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-11-15: sent for promulgation
+- 2025-11-28: promulgated, becomes Legea nr. 200/2025; published in the Monitorul Oficial; documents published: Document (day not given by the bill file), Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -29,3 +30,8 @@ Initiator: Guvernul României.
 - 2025-11-03: Forma adoptată de Senat (FS): [fs-fef34c7c.md](fs-fef34c7c.md); official file https://www.senat.ro/legis/PDF/2025/25L404FS.PDF
 - 2025-11-10: Adresă privind sesizarea CCR (AXS): [axs-aea5c9f4.md](axs-aea5c9f4.md); official file https://www.senat.ro/legis/PDF/2025/25L404AXS.PDF
 - 2025-11-10: Forma trimisă la promulgare (LP): [lp-7462bbc3.md](lp-7462bbc3.md); official file https://www.senat.ro/legis/PDF/2025/25L404LP.PDF
+- 2025-11-28: Document (TX): not held as text; official file https://www.senat.ro/legis/PDF/2025/25L404TX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-11-28: Document (AL): [al-94ba20c8.md](al-94ba20c8.md); official file https://www.senat.ro/legis/PDF/2025/25L404AL.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-11-28: Decret de promulgare (DP): [dp-dd4b9ab0.md](dp-dd4b9ab0.md); official file https://www.senat.ro/legis/PDF/2025/25L404DP.PDF
+- 2025-11-28: Forma promulgată (FP): [fp-f042bacb.md](fp-f042bacb.md); official file https://www.senat.ro/legis/PDF/2025/25L404FP.PDF
+- 2025-11-28: Document (TC): [tc-79de2ccf.md](tc-79de2ccf.md); official file https://www.senat.ro/legis/PDF/2025/25L404TC.PDF (its day is not given by the bill file: shown from the last stage held)
