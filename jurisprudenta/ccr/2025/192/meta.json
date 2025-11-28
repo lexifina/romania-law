@@ -1,0 +1,253 @@
+{
+ "key": "dcc-192-2025",
+ "label": "Decizia CCR nr. 192/2025",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "192",
+ "date": "2025-04-08",
+ "year": "2025",
+ "heading": "DECIZIA nr. 192 din 8 aprilie 2025",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 318 alin. (16) și ale art. 426 lit. a) din Codul de procedură penală",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "1107",
+  "bis": false,
+  "date": "2025-11-28",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata",
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "22.186/300/2020",
+  "2.440D/2020"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "318",
+     "alin": [
+      "16"
+     ],
+     "lit": null
+    },
+    {
+     "art": "426",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "1. Respinge, ca inadmisibilă, excepția de neconstituționalitate a dispozițiilor art. 318 alin. (16) din Codul de procedură penală, excepție ridicată de Mariana-Ștefania Dumitrescu în Dosarul nr. 22.186/300/2020 al Judecătoriei Sectorului 2 București - Secția penală.",
+  "2. Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de aceeași autoare în același dosar al aceleiași instanțe și constată că dispozițiile art. 426 lit. a) din Codul de procedură penală sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Judecătoriei Sectorului 2 București - Secția penală și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "318",
+     "alin": [
+      "16"
+     ],
+     "lit": null
+    },
+    {
+     "art": "426",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "427",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "428",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "429",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "430",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "431",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "432",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 16
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "129",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "4",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2025-11-28",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/304842",
+  "text_sha256": "882b6bb4842a8b3821e2cd4664ee635b217da261e5339af977b6306cf6244fd2",
+  "catalogue_sha256": "882b6bb4842a8b3821e2cd4664ee635b217da261e5339af977b6306cf6244fd2",
+  "fetched": "2026-11-03T00:52:34Z",
+  "chars": 19697,
+  "portal_id": "304842",
+  "tip": "DECIZIE"
+ }
+}
