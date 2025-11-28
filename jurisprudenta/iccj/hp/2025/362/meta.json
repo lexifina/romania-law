@@ -1,0 +1,293 @@
+{
+ "key": "iccj-hp-362-2025",
+ "label": "Decizia ÎCCJ nr. 362/2025 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "362",
+ "date": "2025-10-20",
+ "year": "2025",
+ "heading": "DECIZIA nr. 362 din 20 octombrie 2025",
+ "subtitle": "referitoare la interpretarea și aplicarea dispozițiilor art. 80 alin. (2) și ale art. 274 coroborate cu cele ale art. 8, art. 17 alin. (3) lit. g) și art. 40 alin. (2) lit. a) din Legea nr. 53/2003 - Codul muncii, republicată, cu modificările și completările ulterioare",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "1102",
+  "bis": false,
+  "date": "2025-11-28",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "1.157/1/2025",
+  "3.691/99/2023"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 53/2003",
+    "number": "53",
+    "year": "2003",
+    "path": "lege/2003/53"
+   },
+   "articles": [
+    {
+     "art": "80",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "274",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "17",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "g"
+     ]
+    },
+    {
+     "art": "40",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite sesizarea formulată de Curtea de Apel Suceava - Secția I civilă în Dosarul nr. 3.691/99/2023, în vederea pronunțării unei hotărâri prealabile. În interpretarea și aplicarea dispozițiilor art. 80 alin. (2) și ale art. 274 coroborate cu cele ale art. 8, art. 17 alin. (3) lit. g) și art. 40 alin. (2) lit. a) din Legea nr. 53/2003 - Codul muncii, republicată, cu modificările și completările ulterioare, stabilește că:",
+  "Executarea de către angajator, la inițiativa sa, a hotărârii judecătorești pronunțate de prima instanță în sensul reintegrării salariatului pe postul deținut anterior concedierii nelegale presupune înștiințarea angajatului cu privire la reactivarea contractului individual de muncă și cu privire la data reluării efective a raporturilor de muncă.",
+  "Obligatorie, potrivit art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 53/2003",
+    "number": "53",
+    "year": "2003",
+    "path": "lege/2003/53"
+   },
+   "articles": [
+    {
+     "art": "274",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "80",
+     "alin": [
+      "2",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "278",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "55",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "77",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "76",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "17",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "g"
+     ]
+    },
+    {
+     "art": "40",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "271",
+     "alin": [
+      "2-2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 30
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "216",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "184",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "634",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "483",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "632",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "448",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "622",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "1324",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1325",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1326",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 455/2001",
+    "number": "455",
+    "year": "2001",
+    "path": "lege/2001/455"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "287",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "d"
+     ]
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-11-28",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/304790",
+  "text_sha256": "a22dc522fe67cae0b5b72ff51a521a0a96263b251e90b5f94adb94cb817be5b7",
+  "catalogue_sha256": "a22dc522fe67cae0b5b72ff51a521a0a96263b251e90b5f94adb94cb817be5b7",
+  "fetched": "2026-11-03T00:52:30Z",
+  "chars": 55983,
+  "portal_id": "304790",
+  "tip": "DECIZIE"
+ }
+}
