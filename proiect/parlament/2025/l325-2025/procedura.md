@@ -18,6 +18,7 @@ Initiator: Membri ai Parlamentului.
 - 2025-11-05: adopted by the Chamber of Deputies
 - 2025-11-10: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-11-15: sent for promulgation
+- 2025-11-28: promulgated, becomes Legea nr. 198/2025; published in the Monitorul Oficial; documents published: Punct de vedere Guvern (day not given by the bill file), Document (day not given by the bill file), Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -30,3 +31,7 @@ Initiator: Membri ai Parlamentului.
 - 2025-10-06: Adresă către Camera Deputaților (AM): [am-61938d83.md](am-61938d83.md); official file https://www.senat.ro/legis/PDF/2025/25L325AM.PDF
 - 2025-11-10: Adresă privind sesizarea CCR (AXS): [axs-69ea0d72.md](axs-69ea0d72.md); official file https://www.senat.ro/legis/PDF/2025/25L325AXS.PDF
 - 2025-11-10: Forma trimisă la promulgare (LP): [lp-4f7fc3f8.md](lp-4f7fc3f8.md); official file https://www.senat.ro/legis/PDF/2025/25L325LP.PDF
+- 2025-11-28: Punct de vedere Guvern (SJ): not held as text; official file https://www.senat.ro/legis/PDF/2025/25L325SJ.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-11-28: Document (AJ): not held as text; official file https://www.senat.ro/legis/PDF/2025/25L325AJ.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-11-28: Decret de promulgare (DP): [dp-7bc41044.md](dp-7bc41044.md); official file https://www.senat.ro/legis/PDF/2025/25L325DP.PDF
+- 2025-11-28: Forma promulgată (FP): [fp-11e491ca.md](fp-11e491ca.md); official file https://www.senat.ro/legis/PDF/2025/25L325FP.PDF
