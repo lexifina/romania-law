@@ -20,6 +20,7 @@ Initiator: Membri ai Parlamentului.
 - 2025-11-12: adopted by the Chamber of Deputies
 - 2025-11-17: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-11-22: sent for promulgation
+- 2025-11-28: promulgated, becomes Legea nr. 201/2025; published in the Monitorul Oficial; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -35,3 +36,5 @@ Initiator: Membri ai Parlamentului.
 - 2023-05-15: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L187AM.PDF
 - 2025-11-17: Adresă privind sesizarea CCR (AXS): [axs-714c5e9d.md](axs-714c5e9d.md); official file https://www.senat.ro/legis/PDF/2023/23L187AXS.PDF
 - 2025-11-17: Forma trimisă la promulgare (LP): [lp-cdb4601e.md](lp-cdb4601e.md); official file https://www.senat.ro/legis/PDF/2023/23L187LP.PDF
+- 2025-11-28: Decret de promulgare (DP): [dp-ae3a0924.md](dp-ae3a0924.md); official file https://www.senat.ro/legis/PDF/2023/23L187DP.PDF
+- 2025-11-28: Forma promulgată (FP): [fp-8d813e2f.md](fp-8d813e2f.md); official file https://www.senat.ro/legis/PDF/2023/23L187FP.PDF
