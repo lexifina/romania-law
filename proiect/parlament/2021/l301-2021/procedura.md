@@ -27,6 +27,7 @@ Initiator: Membri ai Parlamentului.
 - 2025-04-07: returned for re-examination
 - 2025-05-26: adopted by the Senate
 - 2025-11-19: adopted by the Chamber of Deputies
+- 2025-11-29: sent for promulgation
 
 ## Documents
 
