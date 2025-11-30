@@ -1,0 +1,61 @@
+REGULAMENTUL DE PUNERE ÎN APLICARE (UE) 2025/2245 AL COMISIEI
+din 7 noiembrie 2025
+de modificare a Regulamentului de punere în aplicare (UE) 2017/2470 în ceea ce privește condițiile de utilizare a alimentului nou ulei de Schizochytrium sp. (ATCC PTA-9695)
+(Text cu relevanță pentru SEE)
+COMISIA EUROPEANĂ,
+având în vedere Tratatul privind funcționarea Uniunii Europene,
+având în vedere Regulamentul (UE) 2015/2283 al Parlamentului European și al Consiliului din 25 noiembrie 2015 privind alimentele noi, de modificare a Regulamentului (UE) nr. 1169/2011 al Parlamentului European și al Consiliului și de abrogare a Regulamentului (CE) nr. 258/97 al Parlamentului European și al Consiliului și a Regulamentului (CE) nr. 1852/2001 al Comisiei (1), în special articolul 12,
+întrucât:
+(1) Regulamentul (UE) 2015/2283 prevede că doar alimentele noi autorizate și incluse în lista cu alimente noi a Uniunii pot fi introduse pe piața Uniunii.
+(2) În temeiul articolului 8 din Regulamentul (UE) 2015/2283, Regulamentul de punere în aplicare (UE) 2017/2470 al Comisiei (2) a stabilit o listă cu alimente noi a Uniunii.
+(3) Lista Uniunii prevăzută în anexa la Regulamentul de punere în aplicare (UE) 2017/2470 include uleiul de Schizochytrium sp. (ATCC PTA-9695) ca aliment nou autorizat.
+(4) Decizia de punere în aplicare (UE) 2015/545 a Comisiei (3) a autorizat, în conformitate cu Regulamentul (CE) nr. 258/97 al Parlamentului European și al Consiliului (4), introducerea pe piață a uleiului de Schizochytrium sp. (ATCC PTA-9695) ca aliment nou destinat utilizării în mai multe alimente. Regulamentul de punere în aplicare (UE) 2019/387 al Comisiei (5) a autorizat o extindere a utilizării alimentului nou.
+(5) La data de 4 martie 2025, societatea DSM Nutritional Products Europe Ltd. (denumită în continuare „solicitantul”) a înaintat Comisiei o cerere în conformitate cu articolul 10 alineatul (1) din Regulamentul (UE) 2015/2283 pentru a modifica condițiile de utilizare a alimentului nou ulei de Schizochytrium sp. (ATCC PTA-9695). Solicitantul a cerut creșterea nivelului maxim de DHA în suplimentele alimentare, astfel cum sunt definite în Directiva 2002/46/CE a Parlamentului European și a Consiliului (6), de la maximum 250 mg DHA/zi pentru populația generală și 450 mg DHA/zi pentru femeile însărcinate și cele care alăptează la maximum 1 g DHA/zi pentru populația generală cu vârsta de peste trei ani, inclusiv femeile însărcinate și femeile care alăptează, menținând în același timp 250 mg DHA/zi în suplimentele alimentare pentru copiii cu vârsta sub trei ani.
+(6) Regulamentul de punere în aplicare (UE) 2021/1326 al Comisiei (7) a autorizat introducerea pe piață ca aliment nou a unui alt ulei de Schizochytrium sp. produs dintr-o tulpină diferită, FCC-3204. Pe baza avizului pozitiv emis de Autoritatea Europeană pentru Siguranța Alimentară (denumită în continuare „autoritatea”) (8), uleiul de Schizochytrium sp. (FCC-3204) a fost autorizat pentru utilizarea în suplimentele alimentare astfel cum sunt definite în Directiva 2002/46/CE la niveluri maxime de DHA de 1 g/zi pentru populația generală cu vârsta de peste trei ani. Comisia consideră că actualizarea solicitată a listei Uniunii privind modificarea condițiilor de utilizare a uleiului de Schizochytrium sp. (ATCC PTA-9695) propusă de solicitant nu este susceptibilă să aibă un efect asupra sănătății umane și că nu este necesară o evaluare a siguranței de către autoritate în conformitate cu articolul 10 alineatul (3) din Regulamentul (UE) 2015/2283. Creșterea propusă la 1 g DHA/zi în suplimentele alimentare pentru populația generală cu vârsta de peste trei ani nu afectează siguranța și nici concluziile autorității care au sprijinit autorizarea uleiului de Schizochytrium sp. (FCC-3204) prin Regulamentul (UE) 2021/1326 pentru utilizarea în suplimentele alimentare pentru populația generală cu vârsta de peste trei ani la un nivel maxim de 1 g DHA/zi, se aplică acestei creșteri propuse. Aceste concluzii au luat în considerare avizul științific al autorității privind „Limita superioară tolerabilă a aportului de acid eicosapentaenoic (EPA), de acid docosahexaenoic (DHA) și de acid docosapentaenoic (DPA)” [Tolerable Upper Intake Level of eicosapentaenoic acid (EPA), docosahexaenoic acid (DHA) and docosapentaenoic acid (DPA)] (9), în care autoritatea a concluzionat că numai aportul suplimentar de DHA de până la aproximativ 1 g/zi nu dă naștere la preocupări legate de siguranță în ceea ce privește populația generală. Ținând seama de aceste considerații, modificarea propusă a condițiilor de utilizare respectă articolul 12 alineatul (1) din Regulamentul (UE) 2015/2283. Prin urmare, este oportun să se modifice condițiile de utilizare a alimentului nou ulei de Schizochytrium sp. (ATCC PTA-9695) prin creșterea nivelurilor maxime de utilizare a DHA în suplimentele alimentare pentru populația generală cu vârsta de peste trei ani.
+(7) Informațiile furnizate în cerere și în avizul științific al autorității privind „Siguranța uleiului extras din Schizochytrium limacinum (tulpina FCC-3204) destinat utilizării în suplimentele alimentare ca aliment nou în temeiul Regulamentului (UE) 2015/2283” (10) și „Limita superioară tolerabilă a aportului de acid eicosapentaenoic (EPA), de acid docosahexaenoic (DHA) și de acid docosapentaenoic (DPA)” oferă suficiente motive pentru a se stabili că modificările condițiilor de utilizare a uleiului de Schizochytrium sp. (ATCC PTA-9695) sunt în conformitate cu articolul 12 din Regulamentul (UE) 2015/2283 și trebuie să fie aprobate.
+(8) Este adecvat ca includerea uleiului de Schizochytrium sp. (ATCC PTA-9695) ca aliment nou în lista cu alimente noi a Uniunii să conțină informațiile menționate la articolul 9 alineatul (3) din Regulamentul (UE) 2015/2283. Conform condițiilor de utilizare a suplimentelor alimentare care conțin ulei de Schizochytrium sp. (ATCC PTA-9695), astfel cum a propus solicitantul, este necesar să se informeze consumatorii în această privință printr-o etichetare adecvată cu privire la utilizările suplimentelor alimentare care conțin ulei de Schizochytrium sp. (ATCC PTA-9695).
+(9) Prin urmare, anexa la Regulamentul de punere în aplicare (UE) 2017/2470 trebuie modificată în consecință.
+(10) Măsurile prevăzute în prezentul regulament sunt conforme cu avizul Comitetului permanent pentru plante, animale, produse alimentare și hrană pentru animale,
+ADOPTĂ PREZENTUL REGULAMENT:
+Articolul 1
+Anexa la Regulamentul de punere în aplicare (UE) 2017/2470 se modifică în conformitate cu anexa la prezentul regulament.
+Articolul 2
+Prezentul regulament intră în vigoare în a douăzecea zi de la data publicării în Jurnalul Oficial al Uniunii Europene.
+Prezentul regulament este obligatoriu în toate elementele sale și se aplică direct în toate statele membre.
+Adoptat la Bruxelles, 7 noiembrie 2025.
+Pentru Comisie
+Președinta
+Ursula VON DER LEYEN
+(1) JO L 327, 11.12.2015, p. 1, ELI: http://data.europa.eu/eli/reg/2015/2283/oj.
+(2) Regulamentul de punere în aplicare (UE) 2017/2470 al Comisiei din 20 decembrie 2017 de stabilire a listei cu alimente noi a Uniunii în conformitate cu Regulamentul (UE) 2015/2283 al Parlamentului European și al Consiliului privind alimentele noi (JO L 351, 30.12.2017, p. 72, ELI: http://data.europa.eu/eli/reg_impl/2017/2470/oj).
+(3) Decizia de punere în aplicare (UE) 2015/545 a Comisiei din 31 martie 2015 de autorizare a introducerii pe piață a uleiului extras din microalga Schizochytrium sp. (ATCC PTA-9695), ca ingredient alimentar nou conform Regulamentului (CE) nr. 258/97 al Parlamentului European și al Consiliului (JO L 90, 2.4.2015, p. 7, ELI: http://data.europa.eu/eli/dec_impl/2015/545/oj).
+(4) Regulamentul (CE) nr. 258/97 al Parlamentului European și al Consiliului din 27 ianuarie 1997 privind alimentele și ingredientele alimentare noi (JO L 43, 14.2.1997, p. 1, ELI: http://data.europa.eu/eli/reg/1997/258/oj).
+(5) Regulamentul de punere în aplicare (UE) 2019/387 al Comisiei din 11 martie 2019 de autorizare a unei extinderi a utilizării uleiului de Schizochytrium sp. (ATCC PTA-9695) ca aliment nou și a modificării denumirii și a cerinței specifice de etichetare a uleiului de Schizochytrium sp. (ATCC PTA-9695) în temeiul Regulamentului (UE) 2015/2283 al Parlamentului European și al Consiliului, precum și de modificare a Regulamentului de punere în aplicare (UE) 2017/2470 al Comisiei (JO L 70, 12.3.2019, p. 17, ELI: http://data.europa.eu/eli/reg_impl/2019/387/oj).
+(6) Directiva 2002/46/CE a Parlamentului European și a Consiliului din 10 iunie 2002 referitoare la apropierea legislațiilor statelor membre privind suplimentele alimentare (JO L 183, 12.7.2002, p. 51, ELI: http://data.europa.eu/eli/dir/2002/46/oj).
+(7) Regulamentul de punere în aplicare (UE) 2021/1326 al Comisiei din 10 august 2021 de autorizare a introducerii pe piață a uleiului de Schizochytrium sp. (FCC-3204) ca aliment nou în temeiul Regulamentului (UE) 2015/2283 al Parlamentului European și al Consiliului și de modificare a Regulamentului de punere în aplicare (UE) 2017/2470 al Comisiei (JO L 288, 11.8.2021, p. 24, ELI: http://data.europa.eu/eli/reg_impl/2021/1326/oj).
+(8) Siguranța uleiului extras din Schizochytrium limacinum (tulpina FCC-3204) destinat utilizării în suplimentele alimentare ca aliment nou în temeiul Regulamentului (UE) 2015/2283 [EFSA Journal 2021; 19 (1): 6345].
+(9) EFSA Journal 2012;10(7):2815.
+(10) EFSA Journal 2021;19(1):6345.
+ANEXĂ
+În tabelul 1 (Alimente noi autorizate) din anexa la Regulamentul de punere în aplicare (UE) 2017/2470, rubrica referitoare la uleiul de Schizochytrium sp. (ATCC PTA-9695) se înlocuiește cu următorul text:
+Aliment nou autorizat | Condițiile în care poate fi utilizat alimentul nou | Cerințe specifice suplimentare privind etichetarea | Alte cerințe | Protecția datelor
+„Ulei de Schizochytrium sp. (ATCC PTA-9695) | Categorie specifică de alimente | Niveluri maxime de DHA | 1. Denumirea alimentului nou de pe eticheta produselor alimentare care îl conțin este «Ulei din microalgele Schizochytrium sp.» 2. Etichetarea suplimentelor alimentare care conțin mai mult de 250 mg DHA/zi trebuie să cuprindă o mențiune care să specifice că acestea nu trebuie consumate de copii cu vârsta sub trei ani.” | |
+Produse lactate, cu excepția băuturilor pe bază de lapte | 200 mg/100 g sau, pentru brânzeturi, 600 mg/100 g
+Produse analoge lactatelor, cu excepția băuturilor | 200 mg/100 g sau, pentru produse analoge brânzeturilor, 600 mg/100 g
+Grăsimi tartinabile și sosuri pentru salate | 600 mg/100 g
+Cereale pentru micul dejun | 500 mg/100 g
+Suplimente alimentare, astfel cum sunt definite în Directiva 2002/46/CE | 250 mg DHA/zi pentru populația generală
+1 g DHA/zi pentru populația generală, cu excepția sugarilor și a copiilor de vârstă mică
+Înlocuitori ai unei diete totale pentru controlul greutății, astfel cum sunt definiți în Regulamentul (UE) nr. 609/2013 și înlocuitori ai unei mese pentru controlul greutății | 250 mg/porție
+Băuturi pe bază de lapte și produse similare destinate copiilor de vârstă mică | 200 mg/100 g
+Alimente care trebuie să compenseze consumul în urma efortului muscular intens, destinate în special sportivilor
+Alimente pe care se menționează absența sau prezența în cantități reduse a glutenului în conformitate cu cerințele Regulamentului de punere în aplicare (UE) nr. 828/2014
+Alimente destinate unor scopuri medicale speciale, astfel cum sunt definite în Regulamentul (UE) nr. 609/2013 | În conformitate cu necesitățile nutriționale speciale ale persoanelor cărora le sunt destinate produsele
+Produse de panificație (pâine, chifle și biscuiți dulci) | 200 mg/100 g
+Batoane din cereale | 500 mg/100 g
+Grăsimi pentru gătit | 360 mg/100 g
+Băuturi nealcoolice (inclusiv produse lactate analoge și băuturi pe bază de lapte) | 80 mg/100 g
+Formule de început și formule de continuare, astfel cum sunt definite în Regulamentul (UE) nr. 609/2013 | În conformitate cu Regulamentul (UE) nr. 609/2013
+Preparate pe bază de cereale și alimente pentru copii destinate sugarilor și copiilor de vârstă mică, astfel cum sunt definite în Regulamentul (UE) nr. 609/2013 | 200 mg/100 g
+Piure de fructe/legume | 100 mg/100 g
+ELI: http://data.europa.eu/eli/reg_impl/2025/2245/oj
