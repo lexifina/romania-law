@@ -1,0 +1,15 @@
+# CJUE, Hotărârea Curții (Marea Cameră) din 2 decembrie 2025, Cauza C-492/23
+
+Pentru aceste motive, Curtea (Marea Cameră) declară:
+1) Articolul 5 alineatul (2), precum și articolele 24-26 din Regulamentul (UE) 2016/679 al Parlamentului European și al Consiliului din 27 aprilie 2016 privind protecția persoanelor fizice în ceea ce privește prelucrarea datelor cu caracter personal și privind libera circulație a acestor date și de abrogare a Directivei 95/46/CE (Regulamentul general privind protecția datelor)
+trebuie interpretate în sensul că
+operatorul unei piețe online, în calitate de operator în sensul articolului 4 punctul 7 din acest regulament în ceea ce privește datele cu caracter personal cuprinse în anunțuri publicate pe piața sa online, este obligat, înainte de publicarea anunțurilor și prin intermediul unor măsuri tehnice și organizatorice adecvate,
+– să identifice anunțurile care conțin date sensibile, în sensul articolului 9 alineatul (1) din regulamentul menționat,
+– să verifice dacă utilizatorul care publică anunțul, care urmează să plaseze un astfel de anunț, este persoana ale cărei date sensibile figurează în acest anunț și, în caz contrar,
+– să refuze publicarea anunțului, cu excepția cazului în care utilizatorul care publică anunțul poate demonstra că persoana vizată și‑a dat consimțământul explicit ca datele în cauză să fie publicate pe această piață online, în sensul articolului 9 alineatul (2) litera (a), sau că se aplică una dintre celelalte excepții prevăzute la respectivul articol 9 alineatul (2) literele (b)-(j).
+2) Articolul 32 din Regulamentul 2016/679
+trebuie interpretat în sensul că
+operatorul unei piețe online, în calitate de operator în sensul articolului 4 punctul 7 din acest regulament în ceea ce privește datele cu caracter personal cuprinse în anunțuri publicate pe piața sa online, este obligat să implementeze măsuri de securitate tehnice și organizatorice adecvate în vederea împiedicării copierii și publicării ilicite pe alte site‑uri internet a unor anunțuri publicate pe piața sa online care conțin date sensibile, în sensul articolului 9 alineatul (1) din regulamentul menționat.
+3) Articolul 1 alineatul (5) litera (b) din Directiva 2000/31/CE a Parlamentului European și a Consiliului din 8 iunie 2000 privind anumite aspecte juridice ale serviciilor societății informaționale, în special ale comerțului electronic, pe piața internă (Directiva privind comerțul electronic) și articolul 2 alineatul (4) din Regulamentul 2016/679
+trebuie interpretate în sensul că
+operatorul unei piețe online, în calitate de operator în sensul articolului 4 punctul 7 din Regulamentul 2016/679 în ceea ce privește datele cu caracter personal cuprinse în anunțuri publicate pe piața sa online, nu se poate prevala, în privința unei încălcări a obligațiilor care decurg din articolul 5 alineatul (2) și din articolele 24-26 și 32 din acest regulament, de articolele 12-15 din această directivă, referitoare la răspunderea furnizorilor de servicii intermediari.
