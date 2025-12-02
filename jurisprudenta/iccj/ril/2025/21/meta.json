@@ -1,0 +1,164 @@
+{
+ "key": "iccj-ril-21-2025",
+ "label": "Decizia ÎCCJ nr. 21/2025 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "21",
+ "date": "2025-10-20",
+ "year": "2025",
+ "heading": "DECIZIA nr. 21 din 20 octombrie 2025",
+ "subtitle": "referitoare la art. 23 alin. (3) din Legea nr. 361/2022 privind protecția avertizorilor în interes public",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU SOLUȚIONAREA RECURSULUI ÎN INTERESUL LEGII",
+ "mo": {
+  "number": "1110",
+  "bis": false,
+  "date": "2025-12-02",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.711/1/2025"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 361/2022",
+    "number": "361",
+    "year": "2022",
+    "path": "lege/2022/361"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "997",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibil, recursul în interesul legii formulat de Colegiul de conducere al Curții de Apel Bacău cu privire la următoarea problemă de drept:",
+  "În interpretarea și aplicarea unitară a dispozițiilor art. 23 alin. (3) din Legea nr. 361/2022 privind protecția avertizorilor în interes public, cu modificările și completările ulterioare, procedura ordonanței președințiale reglementată de textul de lege susmenționat este derogatorie de la dreptul comun, în sensul că nu presupune verificarea întrunirii cumulative a condițiilor prevăzute de art. 997 din Codul de procedură civilă ?",
+  "Obligatorie, potrivit dispozițiilor art. 517 alin. (4) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "61",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "997",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "22",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "514",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "515",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 24
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 361/2022",
+    "number": "361",
+    "year": "2022",
+    "path": "lege/2022/361"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "22",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "d"
+     ]
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 32
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-12-02",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/304862",
+  "text_sha256": "bf475ebdbd1f2b1f5812b2e078f54e5081aa1fe7ad32ea5d3a26eb3ba0e43f2f",
+  "catalogue_sha256": "bf475ebdbd1f2b1f5812b2e078f54e5081aa1fe7ad32ea5d3a26eb3ba0e43f2f",
+  "fetched": "2026-11-03T00:52:32Z",
+  "chars": 37770,
+  "portal_id": "304862",
+  "tip": "DECIZIE"
+ }
+}
