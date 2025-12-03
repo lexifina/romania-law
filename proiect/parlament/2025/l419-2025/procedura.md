@@ -17,6 +17,7 @@ Initiator: Guvernul României.
 - 2025-11-04: documents published: Aviz comisie
 - 2025-11-05: documents published: Aviz comisie
 - 2025-11-24: adopted by the Senate; documents published: Forma adoptată de Senat
+- 2025-12-03: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 
 ## Documents
 
@@ -30,3 +31,5 @@ Initiator: Guvernul României.
 - 2025-11-04: Aviz comisie (CA41): [ca41-03a25d95.md](ca41-03a25d95.md); official file https://www.senat.ro/legis/PDF/2025/25L419CA41.PDF
 - 2025-11-05: Aviz comisie (CA45): [ca45-a35d44fd.md](ca45-a35d44fd.md); official file https://www.senat.ro/legis/PDF/2025/25L419CA45.PDF
 - 2025-11-24: Forma adoptată de Senat (FS): [fs-9ffced6e.md](fs-9ffced6e.md); official file https://www.senat.ro/legis/PDF/2025/25L419FS.PDF
+- 2025-12-03: Adresă privind sesizarea CCR (AXS): [axs-7fcf20d8.md](axs-7fcf20d8.md); official file https://www.senat.ro/legis/PDF/2025/25L419AXS.PDF
+- 2025-12-03: Forma trimisă la promulgare (LP): [lp-dd167657.md](lp-dd167657.md); official file https://www.senat.ro/legis/PDF/2025/25L419LP.PDF
