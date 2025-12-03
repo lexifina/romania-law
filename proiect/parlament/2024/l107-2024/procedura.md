@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2025-11-12: adopted by the Chamber of Deputies
 - 2025-11-17: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-11-19: sent for promulgation
+- 2025-12-03: promulgated, becomes Legea nr. 202/2025; published in the Monitorul Oficial; documents published: Document (day not given by the bill file), Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -33,3 +34,6 @@ Initiator: Guvernul României.
 - 2024-03-18: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L107AM.PDF
 - 2025-11-17: Adresă privind sesizarea CCR (AXS): [axs-66a80707.md](axs-66a80707.md); official file https://www.senat.ro/legis/PDF/2024/24L107AXS.PDF
 - 2025-11-17: Forma trimisă la promulgare (LP): [lp-b2f020a6.md](lp-b2f020a6.md); official file https://www.senat.ro/legis/PDF/2024/24L107LP.PDF
+- 2025-12-03: Document (TA): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L107TA.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-12-03: Decret de promulgare (DP): [dp-d57ae150.md](dp-d57ae150.md); official file https://www.senat.ro/legis/PDF/2024/24L107DP.PDF
+- 2025-12-03: Forma promulgată (FP): [fp-2836abe4.md](fp-2836abe4.md); official file https://www.senat.ro/legis/PDF/2024/24L107FP.PDF
