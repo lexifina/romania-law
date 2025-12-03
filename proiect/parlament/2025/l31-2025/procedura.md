@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2025-11-12: adopted by the Chamber of Deputies
 - 2025-11-17: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-11-19: sent for promulgation
+- 2025-12-03: promulgated, becomes Legea nr. 205/2025; published in the Monitorul Oficial; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -35,3 +36,5 @@ Initiator: Guvernul României.
 - 2025-03-17: Adresă către Camera Deputaților (AM): [am-cc0ecfba.md](am-cc0ecfba.md); official file https://www.senat.ro/legis/PDF/2025/25L031AM.PDF
 - 2025-11-17: Adresă privind sesizarea CCR (AXS): [axs-e6287bdd.md](axs-e6287bdd.md); official file https://www.senat.ro/legis/PDF/2025/25L031AXS.PDF
 - 2025-11-17: Forma trimisă la promulgare (LP): [lp-802c3f5f.md](lp-802c3f5f.md); official file https://www.senat.ro/legis/PDF/2025/25L031LP.PDF
+- 2025-12-03: Decret de promulgare (DP): [dp-080e03df.md](dp-080e03df.md); official file https://www.senat.ro/legis/PDF/2025/25L031DP.PDF
+- 2025-12-03: Forma promulgată (FP): [fp-6465e25e.md](fp-6465e25e.md); official file https://www.senat.ro/legis/PDF/2025/25L031FP.PDF
