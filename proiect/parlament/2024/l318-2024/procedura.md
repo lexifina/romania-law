@@ -17,6 +17,7 @@ Initiator: Guvernul României.
 - 2025-11-12: adopted by the Chamber of Deputies
 - 2025-11-17: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-11-19: sent for promulgation
+- 2025-12-03: promulgated, becomes Legea nr. 204/2025; published in the Monitorul Oficial; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -32,3 +33,5 @@ Initiator: Guvernul României.
 - 2024-06-18: Adresă către Camera Deputaților (AM): [am-666f4673.md](am-666f4673.md); official file https://www.senat.ro/legis/PDF/2024/24L318AM.PDF
 - 2025-11-17: Adresă privind sesizarea CCR (AXS): [axs-b318b97d.md](axs-b318b97d.md); official file https://www.senat.ro/legis/PDF/2024/24L318AXS.PDF
 - 2025-11-17: Forma trimisă la promulgare (LP): [lp-064f982f.md](lp-064f982f.md); official file https://www.senat.ro/legis/PDF/2024/24L318LP.PDF
+- 2025-12-03: Decret de promulgare (DP): [dp-e66219e0.md](dp-e66219e0.md); official file https://www.senat.ro/legis/PDF/2024/24L318DP.PDF
+- 2025-12-03: Forma promulgată (FP): [fp-51914491.md](fp-51914491.md); official file https://www.senat.ro/legis/PDF/2024/24L318FP.PDF
