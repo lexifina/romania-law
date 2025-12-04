@@ -28,6 +28,7 @@ Initiator: Membri ai Parlamentului.
 - 2025-05-26: adopted by the Senate
 - 2025-11-19: adopted by the Chamber of Deputies
 - 2025-11-29: sent for promulgation
+- 2025-12-04: promulgated, becomes Legea nr. 206/2025; published in the Monitorul Oficial; documents published: Document (day not given by the bill file), Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -44,3 +45,19 @@ Initiator: Membri ai Parlamentului.
 - 2021-10-09: Adresă către Camera Deputaților (AM): [am-912e0600.md](am-912e0600.md); official file https://www.senat.ro/legis/PDF/2021/21L301AM.PDF
 - 2022-06-29: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L301AXS.PDF
 - 2022-06-29: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L301LP.PDF
+- 2025-12-04: Document (SC1): [sc1-6d32d17e.md](sc1-6d32d17e.md); official file https://www.senat.ro/legis/PDF/2021/21L301SC1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-12-04: Document (DC1): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L301DC1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-12-04: Document (RC1): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L301RC1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-12-04: Document (XD1): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L301XD1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-12-04: Document (SX1): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L301SX1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-12-04: Document (XXS1): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L301XXS1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-12-04: Document (PX1): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L301PX1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-12-04: Document (SC2): [sc2-c6236c8e.md](sc2-c6236c8e.md); official file https://www.senat.ro/legis/PDF/2021/21L301SC2.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-12-04: Document (DC2): [dc2-c989d22a.md](dc2-c989d22a.md); official file https://www.senat.ro/legis/PDF/2021/21L301DC2.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-12-04: Document (RC2): [rc2-d0368beb.md](rc2-d0368beb.md); official file https://www.senat.ro/legis/PDF/2021/21L301RC2.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-12-04: Document (XD2): [xd2-7beb81a2.md](xd2-7beb81a2.md); official file https://www.senat.ro/legis/PDF/2021/21L301XD2.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-12-04: Document (SX2): [sx2-1cc70a98.md](sx2-1cc70a98.md); official file https://www.senat.ro/legis/PDF/2021/21L301SX2.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-12-04: Document (XXS2): [xxs2-5bbdff15.md](xxs2-5bbdff15.md); official file https://www.senat.ro/legis/PDF/2021/21L301XXS2.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-12-04: Document (PX2): [px2-3df6ca6a.md](px2-3df6ca6a.md); official file https://www.senat.ro/legis/PDF/2021/21L301PX2.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-12-04: Decret de promulgare (DP): [dp-3b58bb5d.md](dp-3b58bb5d.md); official file https://www.senat.ro/legis/PDF/2021/21L301DP.PDF
+- 2025-12-04: Forma promulgată (FP): [fp-1c2ff1bc.md](fp-1c2ff1bc.md); official file https://www.senat.ro/legis/PDF/2021/21L301FP.PDF
