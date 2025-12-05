@@ -11,6 +11,7 @@ Initiator: Guvernul României.
 ## Stages published so far
 
 - 2025-11-28: registered at the Chamber of Deputies; registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+- 2025-12-05: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 
 ## Documents
 
@@ -19,3 +20,5 @@ Initiator: Guvernul României.
 - 2025-11-28: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2025/25L526EM.PDF
 - 2025-11-28: Aviz Consiliul Legislativ (LG): not held as text; official file https://www.senat.ro/legis/PDF/2025/25L526LG.PDF
 - 2025-11-28: Document (HG): not held as text; official file https://www.senat.ro/legis/PDF/2025/25L526HG.PDF
+- 2025-12-05: Adresă privind sesizarea CCR (AXS): [axs-2a0c0456.md](axs-2a0c0456.md); official file https://www.senat.ro/legis/PDF/2025/25L526AXS.PDF
+- 2025-12-05: Forma trimisă la promulgare (LP): [lp-e7331fac.md](lp-e7331fac.md); official file https://www.senat.ro/legis/PDF/2025/25L526LP.PDF
