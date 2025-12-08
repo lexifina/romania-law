@@ -18,6 +18,7 @@ Initiator: Membri ai Parlamentului.
 - 2025-11-12: adopted by the Chamber of Deputies
 - 2025-11-17: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-11-22: sent for promulgation
+- 2025-12-08: promulgated, becomes Legea nr. 209/2025; published in the Monitorul Oficial; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -35,3 +36,5 @@ Initiator: Membri ai Parlamentului.
 - 2024-03-05: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L083AM.PDF
 - 2025-11-17: Adresă privind sesizarea CCR (AXS): [axs-7ae2a261.md](axs-7ae2a261.md); official file https://www.senat.ro/legis/PDF/2024/24L083AXS.PDF
 - 2025-11-17: Forma trimisă la promulgare (LP): [lp-2bc80d70.md](lp-2bc80d70.md); official file https://www.senat.ro/legis/PDF/2024/24L083LP.PDF
+- 2025-12-08: Decret de promulgare (DP): [dp-4f6725b9.md](dp-4f6725b9.md); official file https://www.senat.ro/legis/PDF/2024/24L083DP.PDF
+- 2025-12-08: Forma promulgată (FP): [fp-76cdc679.md](fp-76cdc679.md); official file https://www.senat.ro/legis/PDF/2024/24L083FP.PDF
