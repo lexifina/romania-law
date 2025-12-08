@@ -15,6 +15,7 @@ Initiator: Membri ai Parlamentului.
 - 2025-09-17: registered at the Chamber of Deputies
 - 2025-11-05: documents published: Raport comisie sesizată pe fond
 - 2025-11-12: rejected by the Chamber of Deputies; registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
+- 2025-12-08: rejected by the Senate; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -27,3 +28,6 @@ Initiator: Membri ai Parlamentului.
 - 2025-11-12: Adresă de înaintare a inițiativei (AD): [ad-319b02b6.md](ad-319b02b6.md); official file https://www.senat.ro/legis/PDF/2025/25L497AD.PDF
 - 2025-11-12: Forma inițiatorului (FG): [fg-41d0a557.md](fg-41d0a557.md); official file https://www.senat.ro/legis/PDF/2025/25L497FG.PDF
 - 2025-11-12: Expunere de motive (EM): [em-a0ff466f.md](em-a0ff466f.md); official file https://www.senat.ro/legis/PDF/2025/25L497EM.PDF
+- 2025-12-08: Document (AJ): not held as text; official file https://www.senat.ro/legis/PDF/2025/25L497AJ.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-12-08: Document (SE1): [se1-b8fd08c2.md](se1-b8fd08c2.md); official file https://www.senat.ro/legis/PDF/2025/25L497SE1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-12-08: Document (ARD): [ard-4696e94b.md](ard-4696e94b.md); official file https://www.senat.ro/legis/PDF/2025/25L497ARD.PDF (its day is not given by the bill file: shown from the last stage held)
