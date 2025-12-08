@@ -18,6 +18,7 @@ Initiator: Membri ai Parlamentului.
 - 2025-11-12: adopted by the Chamber of Deputies
 - 2025-11-17: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-11-22: sent for promulgation
+- 2025-12-08: promulgated, becomes Legea nr. 207/2025; published in the Monitorul Oficial; documents published: Document (day not given by the bill file), Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -32,3 +33,7 @@ Initiator: Membri ai Parlamentului.
 - 2025-04-14: Adresă către Camera Deputaților (AM): [am-2ff29ea0.md](am-2ff29ea0.md); official file https://www.senat.ro/legis/PDF/2025/25L036AM.PDF
 - 2025-11-17: Adresă privind sesizarea CCR (AXS): [axs-0596b9a0.md](axs-0596b9a0.md); official file https://www.senat.ro/legis/PDF/2025/25L036AXS.PDF
 - 2025-11-17: Forma trimisă la promulgare (LP): [lp-4812bff8.md](lp-4812bff8.md); official file https://www.senat.ro/legis/PDF/2025/25L036LP.PDF
+- 2025-12-08: Document (ASF): [asf-502b642b.md](asf-502b642b.md); official file https://www.senat.ro/legis/PDF/2025/25L036ASF.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-12-08: Document (CC): [cc-52ecd160.md](cc-52ecd160.md); official file https://www.senat.ro/legis/PDF/2025/25L036CC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-12-08: Decret de promulgare (DP): [dp-95b0544a.md](dp-95b0544a.md); official file https://www.senat.ro/legis/PDF/2025/25L036DP.PDF
+- 2025-12-08: Forma promulgată (FP): [fp-934aaeac.md](fp-934aaeac.md); official file https://www.senat.ro/legis/PDF/2025/25L036FP.PDF
