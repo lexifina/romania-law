@@ -19,6 +19,7 @@ Initiator: Membri ai Parlamentului.
 - 2025-11-10: adopted by the Senate; documents published: Forma adoptată de Senat
 - 2025-11-17: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-11-22: sent for promulgation
+- 2025-12-08: promulgated, becomes Legea nr. 210/2025; published in the Monitorul Oficial; documents published: Punct de vedere Guvern, Document (day not given by the bill file), Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -30,3 +31,9 @@ Initiator: Membri ai Parlamentului.
 - 2025-11-10: Forma adoptată de Senat (FS): [fs-44524bd9.md](fs-44524bd9.md); official file https://www.senat.ro/legis/PDF/2025/25L374FS.PDF
 - 2025-11-17: Adresă privind sesizarea CCR (AXS): [axs-b242537b.md](axs-b242537b.md); official file https://www.senat.ro/legis/PDF/2025/25L374AXS.PDF
 - 2025-11-17: Forma trimisă la promulgare (LP): [lp-7addbe03.md](lp-7addbe03.md); official file https://www.senat.ro/legis/PDF/2025/25L374LP.PDF
+- 2025-12-08: Punct de vedere Guvern (SJ): [sj-920db764.md](sj-920db764.md); official file https://www.senat.ro/legis/PDF/2025/25L374SJ.PDF
+- 2025-12-08: Document (AJ): [aj-855c3106.md](aj-855c3106.md); official file https://www.senat.ro/legis/PDF/2025/25L374AJ.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-12-08: Document (SE1): [se1-63e3095b.md](se1-63e3095b.md); official file https://www.senat.ro/legis/PDF/2025/25L374SE1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-12-08: Document (AL): [al-5fa9e86c.md](al-5fa9e86c.md); official file https://www.senat.ro/legis/PDF/2025/25L374AL.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-12-08: Decret de promulgare (DP): [dp-b3be15f5.md](dp-b3be15f5.md); official file https://www.senat.ro/legis/PDF/2025/25L374DP.PDF
+- 2025-12-08: Forma promulgată (FP): [fp-001e893a.md](fp-001e893a.md); official file https://www.senat.ro/legis/PDF/2025/25L374FP.PDF
