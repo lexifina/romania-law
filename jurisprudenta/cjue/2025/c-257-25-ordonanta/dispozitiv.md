@@ -1,0 +1,4 @@
+# CJUE, Ordonanța Curții (Camera a șaptea) din 8 decembrie 2025, Cauza C-257/25
+
+Pentru aceste motive, Curtea (Camera a șaptea) declară:
+Articolul 2 TUE și articolul 19 alineatul (1) al doilea paragraf TUE coroborat cu articolul 47 din Carta drepturilor fundamentale a Uniunii Europene trebuie interpretate în sensul că principiul independenței judecătorilor nu se opune refuzului de a lua în considerare o diurnă de detașare pentru calcularea pensiei de serviciu atunci când un astfel de refuz, pe de o parte, derogă de la mecanismul prin care se urmărește ca pensia de serviciu a judecătorilor să fie stabilită pe baza unor criterii obiective, independente de intervenția arbitrară a puterilor executivă și legislativă, și, pe de altă parte, determină o diminuare considerabilă a nivelului de remunerare a judecătorilor pensionari.

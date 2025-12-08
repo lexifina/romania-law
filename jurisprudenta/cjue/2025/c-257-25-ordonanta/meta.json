@@ -1,0 +1,61 @@
+{
+ "key": "cjue-c-257-25-ordonanta-2025-12-08",
+ "label": "CJUE, Ordonanța Curții (Camera a șaptea) din 8 decembrie 2025, Cauza C-257/25",
+ "court": "cjue",
+ "court_name": "Curtea de Justiție a Uniunii Europene",
+ "kind": "ordonanta",
+ "act_type": "ORDER",
+ "date": "2025-12-08",
+ "year": "2025",
+ "case": "Cauza C-257/25",
+ "celex": "62025CO0257",
+ "ecli": "ECLI:EU:C:2025:1018",
+ "heading": "Ordonanța Curții (Camera a șaptea) din 8 decembrie 2025",
+ "formation": "CHAMB_07_C",
+ "procedure": "REFER_PREL",
+ "romania_role": [
+  "originates"
+ ],
+ "referred_by": [
+  {
+   "court": "Tribunalul Neamţ, Secţia I civilă",
+   "date": "2025-02-07",
+   "national_file": null
+  }
+ ],
+ "referral_text": "Cererea de decizie preliminară formulată de Tribunalul Neamţ",
+ "national_followup": null,
+ "parties": null,
+ "parties_withheld": true,
+ "keywords": "Trimitere preliminară – Articolul 99 din Regulamentul de procedură al Curții – Pensie de serviciu a judecătorilor – Bază de calcul – Neluarea în considerare a unei indemnizații de detașare – Excludere din motive legate de constrângeri de eliminare a deficitului bugetar – Articolul 2 TUE – Articolul 19 alineatul (1) al doilea paragraf TUE – Principiul independenței judecătorilor – Competența puterilor legislativă și executivă ale statelor membre de a reduce remunerația judecătorilor – Condiții",
+ "interprets": [
+  {
+   "celex": "12008M002",
+   "folder": null
+  },
+  {
+   "celex": "12008M019",
+   "folder": null
+  }
+ ],
+ "text": "dispozitiv.md",
+ "text_withheld": "personal_data",
+ "withheld_reason": "The full text names the parties' lawyers (and, in older cases, private parties); only the metadata and the operative part are published here, with the official link.",
+ "operative_missing": false,
+ "eurlex_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62025CO0257",
+ "curia_url": "https://curia.europa.eu/juris/liste.jsf?num=C-257/25&language=ro",
+ "source": {
+  "name": "CELLAR, Publications Office of the European Union",
+  "url": "http://publications.europa.eu/resource/cellar/4c644d19-ea20-11f0-8d3c-01aa75ed71a1.0002.05/DOC_1",
+  "format": "xhtml",
+  "sha256": [
+   "bfc8df8cd08e46b3058283a8415f00739a729270af13dceb6e15e6aff1442d91"
+  ]
+ },
+ "legal_basis": "Jurisprudența Curții de Justiție a Uniunii Europene (texte oficiale; reutilizare permisă cu menționarea sursei: Decizia Comisiei 2011/833/UE și condițiile CURIA; © Uniunea Europeană). Textele oficiale nu sunt protejate de dreptul de autor în România (Legea nr. 8/1996, art. 9 lit. b).",
+ "attribution": "© European Union, https://eur-lex.europa.eu (via the Publications Office CELLAR)",
+ "operative": [
+  "Pentru aceste motive, Curtea (Camera a șaptea) declară:",
+  "Articolul 2 TUE și articolul 19 alineatul (1) al doilea paragraf TUE coroborat cu articolul 47 din Carta drepturilor fundamentale a Uniunii Europene trebuie interpretate în sensul că principiul independenței judecătorilor nu se opune refuzului de a lua în considerare o diurnă de detașare pentru calcularea pensiei de serviciu atunci când un astfel de refuz, pe de o parte, derogă de la mecanismul prin care se urmărește ca pensia de serviciu a judecătorilor să fie stabilită pe baza unor criterii obiective, independente de intervenția arbitrară a puterilor executivă și legislativă, și, pe de altă parte, determină o diminuare considerabilă a nivelului de remunerare a judecătorilor pensionari."
+ ]
+}
