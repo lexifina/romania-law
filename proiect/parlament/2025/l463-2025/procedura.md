@@ -13,6 +13,7 @@ Initiator: Membri ai Parlamentului.
 - 2025-11-10: documents published: Aviz comisie
 - 2025-11-11: documents published: Aviz comisie
 - 2025-11-26: documents published: Aviz comisie
+- 2025-12-08: withdrawn by the initiator; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -25,3 +26,8 @@ Initiator: Membri ai Parlamentului.
 - 2025-11-11: Aviz comisie (CA41): [ca41-1472705a.md](ca41-1472705a.md); official file https://www.senat.ro/legis/PDF/2025/25L463CA41.PDF
 - 2025-11-11: Aviz comisie (CA58): [ca58-45ced5e1.md](ca58-45ced5e1.md); official file https://www.senat.ro/legis/PDF/2025/25L463CA58.PDF
 - 2025-11-26: Aviz comisie (CA5): [ca5-5e89ce07.md](ca5-5e89ce07.md); official file https://www.senat.ro/legis/PDF/2025/25L463CA5.PDF
+- 2025-12-08: Document (CF): [cf-6991fb47.md](cf-6991fb47.md); official file https://www.senat.ro/legis/PDF/2025/25L463CF.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-12-08: Document (ASF): [asf-22114b94.md](asf-22114b94.md); official file https://www.senat.ro/legis/PDF/2025/25L463ASF.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-12-08: Document (CT): [ct-1f529c3e.md](ct-1f529c3e.md); official file https://www.senat.ro/legis/PDF/2025/25L463CT.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-12-08: Document (CC): [cc-c62743be.md](cc-c62743be.md); official file https://www.senat.ro/legis/PDF/2025/25L463CC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-12-08: Document (AR): not held as text; official file https://www.senat.ro/legis/PDF/2025/25L463AR.PDF (its day is not given by the bill file: shown from the last stage held)
