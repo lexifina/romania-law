@@ -17,6 +17,7 @@ Initiator: Membri ai Parlamentului.
 - 2024-11-12: adopted by the Chamber of Deputies
 - 2024-11-13: registered at the Senate
 - 2024-11-26: documents published: Aviz comisie
+- 2025-12-08: adopted by the Senate; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -29,3 +30,8 @@ Initiator: Membri ai Parlamentului.
 - 2024-05-15: Aviz comisie (CA45): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L597CA45.PDF
 - 2024-09-11: Raport comisie sesizată pe fond (CR): [cr-55193cfa.md](cr-55193cfa.md); official file https://www.senat.ro/legis/PDF/2024/24L597CR.PDF
 - 2024-11-26: Aviz comisie (CA58): [ca58-fbea5558.md](ca58-fbea5558.md); official file https://www.senat.ro/legis/PDF/2024/24L597CA58.PDF
+- 2025-12-08: Document (AJ): [aj-293f31bd.md](aj-293f31bd.md); official file https://www.senat.ro/legis/PDF/2024/24L597AJ.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-12-08: Document (AT): [at-c7cadc75.md](at-c7cadc75.md); official file https://www.senat.ro/legis/PDF/2024/24L597AT.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-12-08: Document (S1): [s1-dea15cef.md](s1-dea15cef.md); official file https://www.senat.ro/legis/PDF/2024/24L597S1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-12-08: Document (S2): [s2-5ea8c740.md](s2-5ea8c740.md); official file https://www.senat.ro/legis/PDF/2024/24L597S2.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-12-08: Document (ARD): [ard-40f0ec18.md](ard-40f0ec18.md); official file https://www.senat.ro/legis/PDF/2024/24L597ARD.PDF (its day is not given by the bill file: shown from the last stage held)
