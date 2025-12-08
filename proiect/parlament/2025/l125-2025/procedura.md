@@ -22,6 +22,7 @@ Initiator: Membri ai Parlamentului.
 - 2025-07-10: published in the Monitorul Oficial
 - 2025-07-17: published in the Monitorul Oficial
 - 2025-12-04: returned for re-examination
+- 2025-12-08: adopted by the Senate
 
 ## Documents
 
