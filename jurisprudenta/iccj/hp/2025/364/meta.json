@@ -1,0 +1,211 @@
+{
+ "key": "iccj-hp-364-2025",
+ "label": "Decizia ÎCCJ nr. 364/2025 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "364",
+ "date": "2025-10-20",
+ "year": "2025",
+ "heading": "DECIZIA nr. 364 din 20 octombrie 2025",
+ "subtitle": "referitoare la interpretarea dispozițiilor art. 17 alin. (3) și (4) din secțiunea a 4-a capitolul VIII din anexa nr. V la Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, cu modificările și completările ulterioare, referitoare la majorarea salariului de bază cu 7,5%, respectiv cu 5%, sunt aplicabile specialiștilor IT din cadrul instanțelor care funcționează în municipiul București și în localitățile reședință de județ cărora le-au fost deja stabilite drepturile salariale în raport cu Ordonanța de urgență a Guvernului nr. 12/2019 pentru modificarea și completarea unor acte normative în domeniul justiției",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "1128",
+  "bis": false,
+  "date": "2025-12-08",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "698/1/2025",
+  "3.315/120/2023"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 12/2019",
+    "number": "12",
+    "year": "2019",
+    "path": "oug/2019/12"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Curtea de Apel Ploiești - Secția I civilă în Dosarul nr. 3.315/120/2023, în vederea pronunțării unei hotărâri prealabile cu privire la următoarea chestiune de drept:",
+  "Dacă dispozițiile art. 17 alin. (3) și (4) din secțiunea a 4-a capitolul VIII din anexa nr. V la Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, cu modificările și completările ulterioare, referitoare la majorarea salariului de bază cu 7,5%, respectiv cu 5%, sunt aplicabile specialiștilor IT din cadrul instanțelor care funcționează în municipiul București și în localitățile reședință de județ cărora le-au fost deja stabilite drepturile salariale în raport cu Ordonanța de urgență a Guvernului nr. 12/2019 pentru modificarea și completarea unor acte normative în domeniul justiției.",
+  "Obligatorie, potrivit art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 62/2024",
+    "number": "62",
+    "year": "2024",
+    "path": "oug/2024/62"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [],
+   "mentions": 27
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 12/2019",
+    "number": "12",
+    "year": "2019",
+    "path": "oug/2019/12"
+   },
+   "articles": [],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 567/2004",
+    "number": "567",
+    "year": "2004",
+    "path": "lege/2004/567"
+   },
+   "articles": [
+    {
+     "art": "17",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "120",
+     "alin": [
+      "5-1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2022",
+    "number": "304",
+    "year": "2022",
+    "path": "lege/2022/304"
+   },
+   "articles": [
+    {
+     "art": "131",
+     "alin": [
+      "7"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-12-08",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/305008",
+  "text_sha256": "0240e8018d6be27634d3f07e411d43b26890966ce123f43e2992009b6b845faa",
+  "catalogue_sha256": "0240e8018d6be27634d3f07e411d43b26890966ce123f43e2992009b6b845faa",
+  "fetched": "2026-11-03T00:52:16Z",
+  "chars": 42650,
+  "portal_id": "305008",
+  "tip": "DECIZIE"
+ }
+}
