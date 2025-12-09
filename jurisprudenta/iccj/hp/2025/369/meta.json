@@ -1,0 +1,194 @@
+{
+ "key": "iccj-hp-369-2025",
+ "label": "Decizia ÎCCJ nr. 369/2025 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "369",
+ "date": "2025-10-20",
+ "year": "2025",
+ "heading": "DECIZIA nr. 369 din 20 octombrie 2025",
+ "subtitle": "referitoare la aplicarea art. 39 din Legea poliției locale nr. 155/2010, republicată, cu modificările și completările ulterioare, și art. 11 din Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, cu modificările și completările ulterioare",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "1136",
+  "bis": false,
+  "date": "2025-12-09",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.326/1/2025",
+  "5.024/99/2022"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea poliției locale nr. 155/2010",
+    "number": "155",
+    "year": "2010",
+    "path": "lege/2010/155"
+   },
+   "articles": [
+    {
+     "art": "39",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Tribunalul Iași - Secția a II-a civilă, de contencios administrativ și fiscal, în Dosarul nr. 5.024/99/2022, în vederea pronunțării unei hotărâri prealabile cu privire la următoarea chestiune de drept:",
+  "În aplicarea art. 39 din Legea poliției locale nr. 155/2010, republicată, cu modificările și completările ulterioare, și art. 11 din Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, cu modificările și completările ulterioare, o hotărâre de consiliu local prin care se stabilește o majorare a coeficienților care stau la baza salariilor de bază pentru funcțiile publice din cadrul poliției locale, fără a se menționa data de la care se modifică respectivii coeficienți, are aplicabilitate imediată, respectiv de la data intrării în vigoare a hotărârii de consiliu local, întrucât drepturile salariale majorate sunt suficient de caracterizate, astfel încât pot fi stabilite prin aplicarea directă a hotărârii de consiliu local, sau hotărârea de consiliu local produce efecte juridice în sensul majorării drepturilor salariale la o dată ulterioară menționată în actele administrative individuale (deciziile de încadrare) emise în aplicarea hotărârii consiliului local?",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 62/2024",
+    "number": "62",
+    "year": "2024",
+    "path": "oug/2024/62"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea poliției locale nr. 155/2010",
+    "number": "155",
+    "year": "2010",
+    "path": "lege/2010/155"
+   },
+   "articles": [
+    {
+     "art": "39",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea contenciosului administrativ nr. 554/2004",
+    "number": "554",
+    "year": "2004",
+    "path": "lege/2004/554"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-12-09",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/305056",
+  "text_sha256": "a71c1310259aab989f28cce4b5fe71ad3651ee8582b44bc1c2d8faa37dd1deba",
+  "catalogue_sha256": "a71c1310259aab989f28cce4b5fe71ad3651ee8582b44bc1c2d8faa37dd1deba",
+  "fetched": "2026-11-03T00:52:13Z",
+  "chars": 30588,
+  "portal_id": "305056",
+  "tip": "DECIZIE"
+ }
+}
