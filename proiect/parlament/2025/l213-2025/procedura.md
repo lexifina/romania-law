@@ -17,6 +17,7 @@ Initiator: Guvernul României.
 - 2025-11-10: returned for re-examination
 - 2025-11-18: adopted by the Chamber of Deputies
 - 2025-11-20: sent for promulgation
+- 2025-12-10: published in the Monitorul Oficial
 
 ## Documents
 
