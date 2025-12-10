@@ -1,0 +1,42 @@
+REGULAMENTUL DELEGAT (UE) 2025/1951 AL COMISIEI
+din 29 septembrie 2025
+de modificare a anexelor II, IV și VII la Regulamentul (UE) nr. 978/2012 al Parlamentului European și al Consiliului
+COMISIA EUROPEANĂ,
+având în vedere Tratatul privind funcționarea Uniunii Europene,
+având în vedere Regulamentul (UE) nr. 978/2012 al Parlamentului European și al Consiliului din 25 octombrie 2012 de aplicare a unui sistem generalizat de preferințe tarifare și de abrogare a Regulamentului (CE) nr. 732/2008 al Consiliului (1), în special articolul 5 alineatul (3), articolul 9 alineatul (2) și articolul 17 alineatul (2),
+întrucât:
+(1) Articolul 4 din Regulamentul (UE) nr. 978/2012 stabilește criteriile de acordare a preferințelor tarifare în temeiul regimului general al Sistemului generalizat de preferințe („SGP”).
+(2) Articolul 4 alineatul (1) litera (a) din Regulamentul (UE) nr. 978/2012 prevede că o țară care a fost clasificată de Banca Mondială ca având venituri mari sau venituri medii-superioare timp de trei ani consecutivi nu beneficiază de SGP.
+(3) Lista țărilor care beneficiază de SGP este stabilită în anexa II la Regulamentul (UE) nr. 978/2012. În temeiul regulamentului respectiv, Comisiei îi revine obligația să revizuiască anexa II anual până la 1 ianuarie pentru a modifica statutul țărilor din listă în conformitate cu criteriile prevăzute la articolul 4 din regulamentul respectiv.
+(4) În conformitate cu articolul 5 alineatul (2) din Regulamentul (UE) nr. 978/2012, țările și operatorii economici care beneficiază de SGP trebuie să dispună de suficient timp pentru o adaptare corectă în urma revizuirii statutului țării în cadrul SGP. Prin urmare, decizia de a elimina o țară beneficiară din lista țărilor care beneficiază de SGP în baza articolului 4 alineatul (1) litera (a) se aplică după un an de la data intrării în vigoare a deciziei respective.
+(5) Indonezia a fost clasificată de Banca Mondială ca țară cu venituri medii-superioare în 2023, 2024 și 2025. Prin urmare, Indonezia nu mai îndeplinește condițiile pentru acordarea statutului de țară beneficiară a SGP în conformitate cu articolul 4 alineatul (1) litera (a) din Regulamentul (UE) nr. 978/2012 și ar trebui să fie eliminată din lista țărilor care beneficiază de SGP din anexa II la respectivul regulament, cu aplicare de la 1 ianuarie 2027.
+(6) În conformitate cu articolul 17 alineatul (1) din Regulamentul (UE) nr. 978/2012, o țară care este identificată de ONU ca aparținând categoriei țărilor cel mai puțin dezvoltate trebuie să beneficieze de preferințele tarifare acordate în temeiul regimului special pentru țările cel mai puțin dezvoltate [inițiativa „Totul în afară de arme” – Everything But Arms – „EBA”]. Lista țărilor care beneficiază de EBA este stabilită în anexa IV la Regulamentul (UE) nr. 978/2012.
+(7) São Tomé și Príncipe a fost eliminat de ONU din categoria țărilor cel mai puțin dezvoltate la 13 decembrie 2024. Prin urmare, São Tomé și Príncipe nu mai îndeplinește condițiile pentru acordarea statutului de țară beneficiară a EBA în temeiul articolului 17 alineatul (1) din Regulamentul (UE) nr. 978/2012 și trebuie eliminat din anexa IV la respectivul regulament. În conformitate cu articolul 17 alineatul (2) din Regulamentul (UE) nr. 978/2012, actul delegat prin care se elimină São Tomé și Príncipe din lista țărilor beneficiare ale EBA ar trebui să se aplice după o perioadă de tranziție de trei ani de la data la care actul delegat respectiv intră în vigoare. Prin urmare, São Tomé și Príncipe trebuie să fie eliminat din anexa IV începând de la 1 ianuarie 2029.
+(8) În conformitate cu articolul 9 alineatul (1) litera (a) din Regulamentul (UE) nr. 978/2012, o țară care beneficiază de sistemul generalizat de preferințe (SGP) poate beneficia de preferințele tarifare prevăzute în cadrul regimului special de încurajare a dezvoltării durabile și a bunei guvernanțe, în cazul în care este considerată a fi vulnerabilă din cauza lipsei de diversificare și a integrării insuficiente în sistemul comercial internațional, astfel cum este definit în anexa VII la Regulamentul (UE) nr. 978/2012.
+(9) În conformitate cu punctul 1 litera (b) din anexa VII la Regulamentul (UE) nr. 978/2012, astfel cum a fost modificat prin Regulamentele delegate (UE) 2015/602 (2) și (UE) 2020/129 (3) ale Comisiei, pentru ca o țară să fie considerată vulnerabilă, importurile în Uniune de produse enumerate în anexa IX din țara respectivă ar trebui să reprezinte mai puțin decât pragul de 7,4 % din valoarea totală a importurilor din țările care beneficiază de SGP în Uniune, ca medie pe parcursul ultimilor trei ani consecutivi.
+(10) În conformitate cu articolul 9 alineatul (2) din Regulamentul (UE) nr. 978/2012, în cazul în care se modifică lista țărilor care beneficiază de SGP din anexa II, Comisia este împuternicită să adopte acte delegate pentru a modifica anexa VII în vederea revizuirii pragului de vulnerabilitate definit la punctul 1 litera (b) din anexa VII. O astfel de revizuire urmărește să mențină în mod proporțional aceeași pondere a pragului de vulnerabilitate precum cea calculată în conformitate cu anexa VII, ținând seama de modificările anterioare aduse listei țărilor care beneficiază de SGP.
+(11) Ultima revizuire în temeiul Regulamentului delegat (UE) 2020/129 a crescut pragul de vulnerabilitate de la 6,5 % la 7,4 %, aplicabil începând cu 1 ianuarie 2019.
+(12) Între 1 ianuarie 2019 și 1 ianuarie 2023, lista beneficiarilor SGP din anexa II la Regulamentul (UE) nr. 978/2012 a fost modificată în mod substanțial, întrucât cinci țări au fost eliminate din anexa II. Prin urmare, este necesar să se revizuiască pragul de vulnerabilitate stabilit la punctul 1 litera (b) din anexa VII la Regulamentul (UE) nr. 978/2012.
+(13) Ca urmare a modificărilor aduse listei beneficiarilor SGP din anexa II la Regulamentul (UE) nr. 978/2012 între 1 ianuarie 2019 și 1 ianuarie 2023, importurile totale în Uniune de produse enumerate în anexa IX din toate țările care beneficiază de SGP, luate ca medie, au scăzut cu 17,5 %. O creștere a pragului de vulnerabilitate de la 7,4 % la 9 %, aplicabilă din momentul în care modificările aduse anexei II au intrat în vigoare, și anume de la 1 ianuarie 2023, ar menține în mod proporțional aceeași pondere a pragului de vulnerabilitate ca cea prevăzută în anexa VII la Regulamentul (UE) nr. 978/2012,
+ADOPTĂ PREZENTUL REGULAMENT:
+Articolul 1
+Regulamentul (UE) nr. 978/2012 se modifică după cum urmează:
+1. În anexa II, la rubrica „Țările care beneficiază de sistemul general prevăzut la articolul 1 alineatul (2) litera (a)”, următoarele coduri alfabetice și țări corespunzătoare sunt eliminate din coloanele A și, respectiv, B:
+„Identificator Indonezia”.
+2. În anexa IV, la rubrica „Țările care beneficiază de regimul special în favoarea țărilor cel mai puțin dezvoltate, prevăzut la articolul 1 alineatul (2) litera (c)”, următoarele coduri alfabetice și țări corespunzătoare sunt eliminate din coloanele A și, respectiv, B:
+„ST São Tomé și Príncipe”.
+3. La punctul 1 litera (b) din anexa VII, pragul de „7,4 %” se înlocuiește cu „9 %”.
+Articolul 2
+Prezentul regulament intră în vigoare în ziua următoare datei publicării în Jurnalul Oficial al Uniunii Europene.
+Articolul 1 alineatul (1) se aplică de la 1 ianuarie 2027.
+Articolul 1 alineatul (2) se aplică începând cu 1 ianuarie 2029.
+Articolul 1 alineatul (3) se aplică începând cu 1 ianuarie 2023.
+Prezentul regulament este obligatoriu în toate elementele sale și se aplică direct în toate statele membre.
+Adoptat la Bruxelles, 29 septembrie 2025.
+Pentru Comisie
+Președinta
+Ursula VON DER LEYEN
+(1) JO L 303, 31.10.2012, p. 1, ELI: http://data.europa.eu/eli/reg/2012/978/oj.
+(2) Regulamentul delegat (UE) 2015/602 al Comisiei din 9 februarie 2015 de modificare a Regulamentului (UE) nr. 978/2012 al Parlamentului European și al Consiliului în ceea ce privește pragul de vulnerabilitate definit la punctul 1 litera (b) din anexa VII la respectivul regulament (JO L 100, 17.4.2015, p. 8, ELI: http://data.europa.eu/eli/reg_del/2015/602/oj).
+(3) Regulamentul Delegat (UE) 2020/129 al Comisiei din 26 noiembrie 2019 de modificare a pragului de vulnerabilitate stabilit la punctul 1 litera (b) din anexa VII la Regulamentul (UE) nr. 978/2012 al Parlamentului European și al Consiliului de aplicare a unui sistem generalizat de preferințe tarifare (JO L 27, 31.1.2020, p. 8, ELI: http://data.europa.eu/eli/reg_del/2020/129/oj).
+ELI: http://data.europa.eu/eli/reg_del/2025/1951/oj
