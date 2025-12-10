@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2025-11-19: adopted by the Chamber of Deputies
 - 2025-11-24: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-11-26: sent for promulgation
+- 2025-12-10: promulgated, becomes Legea nr. 214/2025; published in the Monitorul Oficial; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -36,3 +37,5 @@ Initiator: Guvernul României.
 - 2024-09-16: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L375AM.PDF
 - 2025-11-24: Adresă privind sesizarea CCR (AXS): [axs-fc34199a.md](axs-fc34199a.md); official file https://www.senat.ro/legis/PDF/2024/24L375AXS.PDF
 - 2025-11-24: Forma trimisă la promulgare (LP): [lp-28ac79a0.md](lp-28ac79a0.md); official file https://www.senat.ro/legis/PDF/2024/24L375LP.PDF
+- 2025-12-10: Decret de promulgare (DP): [dp-82c8bb12.md](dp-82c8bb12.md); official file https://www.senat.ro/legis/PDF/2024/24L375DP.PDF
+- 2025-12-10: Forma promulgată (FP): [fp-27836b14.md](fp-27836b14.md); official file https://www.senat.ro/legis/PDF/2024/24L375FP.PDF
