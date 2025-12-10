@@ -1,0 +1,250 @@
+{
+ "key": "iccj-hp-penal-391-2025",
+ "label": "Decizia ÎCCJ nr. 391/2025 (HP penal)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp-penal",
+ "number": "391",
+ "date": "2025-10-27",
+ "year": "2025",
+ "heading": "DECIZIA nr. 391",
+ "subtitle": "din 27 octombrie 2025 privind calculul termenului special de prescripție a răspunderii penale și legea penală mai favorabilă",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT ÎN MATERIE PENALĂ",
+ "mo": {
+  "number": "1143",
+  "bis": false,
+  "date": "2025-12-10",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "1.669/1/2025"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "155",
+     "alin": [
+      "4",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  }
+ ],
+ "operative": [
+  "Admite sesizarea formulată de Curtea de Apel Brașov - Secția penală, prin care se solicită pronunțarea unei hotărâri prealabile pentru dezlegarea următoarelor chestiuni de drept:",
+  "1. În cazul redeschiderii procesului penal, în aplicarea prevederilor art. 155 alin. (4) din Codul penal, la calculul termenului special de prescripție a răspunderii penale se ia în considerare și perioada cuprinsă între data rămânerii definitivă a hotărârii inițiale de condamnare și data redeschiderii procesului penal?",
+  "2. În cazul aplicării art. 5 din Codul penal privind legea penală mai favorabilă, prin prisma declarării ca neconstituționale a dispozițiilor art. 155 alin. (1) din Codul penal prin deciziile nr. 297/2018 și nr. 358/2022 ale Curții Constituționale, ulterior redeschiderii procesului penal curge un nou termen general de prescripție conform art. 155 alin. (5) din Codul penal, chiar dacă acest termen era împlinit anterior rămânerii definitivă a condamnării inițiale? și stabilește că:",
+  "1. În cazul redeschiderii procesului penal, în aplicarea art. 155 alin. (4) din Codul penal, la calculul termenului de prescripție a răspunderii penale nu se ia în considerare și perioada cuprinsă între data rămânerii definitivă a hotărârii inițiale de condamnare și data redeschiderii procesului penal.",
+  "2. Ulterior redeschiderii procesului penal nu mai curge un nou termen de prescripție generală conform art. 155 alin. (5) din Codul penal, dacă acest termen era împlinit anterior rămânerii definitivă a condamnării inițiale, în aplicarea art. 5 din Codul penal privind legea penală mai favorabilă, prin prisma declarării ca neconstituționale a dispozițiilor art. 155 alin. (1) din Codul penal prin deciziile nr. 297/2018 și nr. 358/2022 ale Curții Constituționale.",
+  "Obligatorie de la data publicării în Monitorul Oficial al României, Partea I, potrivit art. 477 alin. (3) din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "155",
+     "alin": [
+      "4",
+      "1",
+      "5",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "295",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "308",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "154",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "153",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "124",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 86
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "469",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "476",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "473",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "466",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "467",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "468",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "475",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 71/2022",
+    "number": "71",
+    "year": "2022",
+    "path": "oug/2022/71"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 255/2013",
+    "number": "255",
+    "year": "2013",
+    "path": "lege/2013/255"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "125",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-12-10",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/305118",
+  "text_sha256": "83990529820bdf3f98f6a4a7d54c1bfe497aff2489f9a5b8a6af364d4e5daab5",
+  "catalogue_sha256": "83990529820bdf3f98f6a4a7d54c1bfe497aff2489f9a5b8a6af364d4e5daab5",
+  "fetched": "2026-11-03T00:52:11Z",
+  "chars": 58218,
+  "portal_id": "305118",
+  "tip": "DECIZIE"
+ }
+}
