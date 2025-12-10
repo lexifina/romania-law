@@ -13,6 +13,7 @@ Initiator: Membri ai Parlamentului.
 - 2021-12-08: documents published: Raport comisie sesizată pe fond
 - 2021-12-13: rejected by the Senate; documents published: Adresă către Camera Deputaților
 - 2021-12-15: registered at the Chamber of Deputies
+- 2025-12-10: documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -23,3 +24,4 @@ Initiator: Membri ai Parlamentului.
 - 2021-10-12: Aviz Consiliul Legislativ (LG): [lg-62293894.md](lg-62293894.md); official file https://www.senat.ro/legis/PDF/2021/21L499LG.PDF
 - 2021-12-08: Raport comisie sesizată pe fond (CR): [cr-98e3f2a4.md](cr-98e3f2a4.md); official file https://www.senat.ro/legis/PDF/2021/21L499CR.PDF
 - 2021-12-13: Adresă către Camera Deputaților (AM): [am-205a7190.md](am-205a7190.md); official file https://www.senat.ro/legis/PDF/2021/21L499AM.PDF
+- 2025-12-10: Document (AA): [aa-5f2497ef.md](aa-5f2497ef.md); official file https://www.senat.ro/legis/PDF/2021/21L499AA.PDF (its day is not given by the bill file: shown from the last stage held)
