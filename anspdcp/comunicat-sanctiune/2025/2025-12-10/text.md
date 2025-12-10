@@ -1,0 +1,11 @@
+Amendă pentru încălcarea RGPD
+Autoritatea Națională de Supraveghere a Prelucrării Datelor cu Caracter Personal a finalizat, în luna noiembrie 2025, o investigație la operatorul Crowd Entertainment Limited și a constatat încălcarea dispozițiilor art. 12 alin. (3) și (4) prin raportare la art. 15 alin. (1) și (3) din Regulamentul (UE) 2016/679.
+Ca atare, operatorul a fost sancționat contravențional cu amendă în cuantum de 76.333 lei (echivalentul a 15 000 euro).
+Investigația a fost demarată ca urmare a unei plângeri formulată de o persoană vizată nemulțumită de modalitatea prin care i-a fost gestionată cererea sa de acces la datele personale de către Crowd Entertainment Limited.
+În cursul investigației, Autoritatea Națională de Supraveghere a Prelucrării Datelor cu Caracter Personal a constatat că operatorul nu a prezentat dovezi din care să reiasă că a comunicat, în scris și în termenul legal, un răspuns complet și corespunzător la cererea petentului prin care solicita acces la datele sale personale aferente conturilor de jucător înregistrate pe platformele deținute de operator, inclusiv la informațiile referitoare la cererile sale de autoexcludere.
+Prin urmare, au fost încălcate art. 12 alin. (3)-(4), raportare la art. 15 alin. (1) și (3) din Regulamentul (UE) 2016/679.
+În același timp, s-au dispus față de operator și următoarele măsuri corective:
+de a transmite un răspuns complet la cererea petentului, prin comunicarea tuturor informațiilor solicitate prin cererile sale, prin raportare la dispozițiile art. 15 alin. (1) și (3) din Regulamentul (UE) 2016/679;
+de a asigura conformitatea cu Regulamentul (UE) 2016/679 a operațiunilor de prelucrare a datelor personale, prin adoptarea măsurilor tehnice și organizatorice necesare, inclusiv sub aspectul instruirii personalului desemnat în acest scop, cu implicarea corespunzătoare a responsabilului cu protecția datelor, astfel încât operatorul să fie capabil să analizeze, să soluționeze în mod corect și să răspundă adecvat la cererile prin care persoanele vizate își exercită drepturile, în cadrul termenelor potrivit condițiilor prevăzute de art. 12-23 din Regulamentul (UE) 2016/679.
+Direcția juridică și comunicare
+A.N.S.P.D.C.P.
