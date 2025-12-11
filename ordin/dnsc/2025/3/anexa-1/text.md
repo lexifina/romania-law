@@ -1,0 +1,3 @@
+# Anexa nr. 1
+NORME de aplicare a dispozițiilor privind supravegherea, verificarea și controlul respectării prevederilor
+Ordonanței de urgență a Guvernului nr. 155/2024 privind instituirea unui cadru pentru securitatea cibernetică a rețelelor și sistemelor informatice din spațiul cibernetic național civil și a Metodologiei de prioritizare pe bază de risc a activităților de supraveghere, verificare și control
