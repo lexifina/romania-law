@@ -1,0 +1,434 @@
+{
+ "key": "iccj-hp-368-2025",
+ "label": "Decizia ÎCCJ nr. 368/2025 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "368",
+ "date": "2025-10-20",
+ "year": "2025",
+ "heading": "DECIZIA nr. 368 din 20 octombrie 2025",
+ "subtitle": "referitoare la interpretarea și aplicarea dispozițiilor art. 40 alin. (2) lit. f) din Legea nr. 53/2003 - Codul muncii, republicată, cu modificările și completările ulterioare, coroborat cu art. 10 din Legea nr. 263/2010 privind sistemul unitar de pensii publice, cu modificările și completările ulterioare, și art. 105 alin. (3) și art. 111 alin. (1) lit. c) din Legea nr. 207/2015 privind Codul de procedură fiscală, cu modificările și completările ulterioare",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "1150",
+  "bis": false,
+  "date": "2025-12-11",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.151/1/2025",
+  "24.020/3/2023"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 53/2003",
+    "number": "53",
+    "year": "2003",
+    "path": "lege/2003/53"
+   },
+   "articles": [
+    {
+     "art": "40",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "f"
+     ]
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 263/2010",
+    "number": "263",
+    "year": "2010",
+    "path": "lege/2010/263"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 207/2015",
+    "number": "207",
+    "year": "2015",
+    "path": "lege/2015/207"
+   },
+   "articles": [
+    {
+     "art": "105",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "111",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Curtea de Apel București - Secția a VII-a pentru cauze privind conflicte de muncă și asigurări sociale, în Dosarul nr. 24.020/3/2023, privind dezlegarea următoarei chestiuni de drept:",
+  "Dacă, în interpretarea și aplicarea dispozițiilor art. 40 alin. (2) lit. f) din Legea nr. 53/2003 - Codul muncii, republicată, cu modificările și completările ulterioare, coroborat cu art. 10 din Legea nr. 263/2010 privind sistemul unitar de pensii publice, cu modificările și completările ulterioare, și art. 105 alin. (3) și art. 111 alin. (1) lit. c) din Legea nr. 207/2015 privind Codul de procedură fiscală, cu modificările și completările ulterioare, în urma depunerii declarațiilor rectificative după recunoașterea încadrării activității în condiții deosebite de muncă, conform art. 22 din Legea nr. 104/2003 privind manipularea cadavrelor umane și prelevarea organelor și țesuturilor de la cadavre în vederea transplantului, republicată, cu modificările ulterioare, angajatorul Institutul Național de Medicină Legală are obligația de a plăti și diferențele dintre cotele de contribuții către bugetul asigurărilor sociale de stat plătite și cele aferente pentru activitatea desfășurată în condiții deosebite de muncă (constatată pe cale judiciară), respectiv care este termenul de prescripție extinctivă în cazul acțiunilor formulate de salariați, având ca obiect obligarea unității la îndeplinirea acestei obligații, inclusiv pentru obligațiile aferente perioadei anterioare datei de 1 octombrie 2011 (data intrării în vigoare a actualului Cod civil), și de la ce dată curge termenul de prescripție.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 62/2024",
+    "number": "62",
+    "year": "2024",
+    "path": "oug/2024/62"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 53/2003",
+    "number": "53",
+    "year": "2003",
+    "path": "lege/2003/53"
+   },
+   "articles": [
+    {
+     "art": "40",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "f"
+     ]
+    },
+    {
+     "art": "269",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 263/2010",
+    "number": "263",
+    "year": "2010",
+    "path": "lege/2010/263"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 207/2015",
+    "number": "207",
+    "year": "2015",
+    "path": "lege/2015/207"
+   },
+   "articles": [
+    {
+     "art": "105",
+     "alin": [
+      "3",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "111",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 104/2003",
+    "number": "104",
+    "year": "2003",
+    "path": "lege/2003/104"
+   },
+   "articles": [
+    {
+     "art": "22",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul fiscal",
+    "path": "lege/2003/571",
+    "slug": "codul-fiscal-2003"
+   },
+   "articles": [
+    {
+     "art": "296-19",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul fiscal",
+    "path": "lege/2015/227",
+    "slug": "codul-fiscal"
+   },
+   "articles": [
+    {
+     "art": "147",
+     "alin": [
+      "1",
+      "3-2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 19/2000",
+    "number": "19",
+    "year": "2000",
+    "path": "lege/2000/19"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 246/2007",
+    "number": "246",
+    "year": "2007",
+    "path": "hg/2007/246"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 59/2000",
+    "number": "59",
+    "year": "2000",
+    "path": "oug/2000/59"
+   },
+   "articles": [
+    {
+     "art": "20",
+     "alin": [
+      "2",
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 234/2019",
+    "number": "234",
+    "year": "2019",
+    "path": "lege/2019/234"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea contenciosului administrativ nr. 554/2004",
+    "number": "554",
+    "year": "2004",
+    "path": "lege/2004/554"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 1/2000",
+    "number": "1",
+    "year": "2000",
+    "path": "og/2000/1"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretul nr. 167/1958",
+    "number": "167",
+    "year": "1958",
+    "path": "decret/1958/167"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-12-11",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/305133",
+  "text_sha256": "7cea70abdfd19c9f2976cf3ad17fcf2815c969a6c90d5b9e0f01bb3b115486d8",
+  "catalogue_sha256": "7cea70abdfd19c9f2976cf3ad17fcf2815c969a6c90d5b9e0f01bb3b115486d8",
+  "fetched": "2026-11-03T00:52:14Z",
+  "chars": 70557,
+  "portal_id": "305133",
+  "tip": "DECIZIE"
+ }
+}
