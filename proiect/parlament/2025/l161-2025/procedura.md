@@ -18,6 +18,7 @@ Initiator: Membri ai Parlamentului.
 - 2025-11-19: adopted by the Chamber of Deputies
 - 2025-11-24: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-11-29: sent for promulgation
+- 2025-12-11: promulgated, becomes Legea nr. 216/2025; published in the Monitorul Oficial; documents published: Document (day not given by the bill file), Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -33,3 +34,6 @@ Initiator: Membri ai Parlamentului.
 - 2025-06-30: Adresă către Camera Deputaților (AM): [am-e9c13d58.md](am-e9c13d58.md); official file https://www.senat.ro/legis/PDF/2025/25L161AM.PDF
 - 2025-11-24: Adresă privind sesizarea CCR (AXS): [axs-a7134cbf.md](axs-a7134cbf.md); official file https://www.senat.ro/legis/PDF/2025/25L161AXS.PDF
 - 2025-11-24: Forma trimisă la promulgare (LP): [lp-1a0a16c4.md](lp-1a0a16c4.md); official file https://www.senat.ro/legis/PDF/2025/25L161LP.PDF
+- 2025-12-11: Document (SM): [sm-20bc9bd9.md](sm-20bc9bd9.md); official file https://www.senat.ro/legis/PDF/2025/25L161SM.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-12-11: Decret de promulgare (DP): [dp-a2dc90ac.md](dp-a2dc90ac.md); official file https://www.senat.ro/legis/PDF/2025/25L161DP.PDF
+- 2025-12-11: Forma promulgată (FP): [fp-a3e51088.md](fp-a3e51088.md); official file https://www.senat.ro/legis/PDF/2025/25L161FP.PDF
