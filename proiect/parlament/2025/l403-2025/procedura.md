@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2025-11-17: adopted by the Senate; documents published: Forma adoptată de Senat
 - 2025-11-24: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-11-29: sent for promulgation
+- 2025-12-11: promulgated, becomes Legea nr. 218/2025; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -31,3 +32,5 @@ Initiator: Guvernul României.
 - 2025-11-17: Forma adoptată de Senat (FS): [fs-275e8b67.md](fs-275e8b67.md); official file https://www.senat.ro/legis/PDF/2025/25L403FS.PDF
 - 2025-11-24: Adresă privind sesizarea CCR (AXS): [axs-8fc81a9a.md](axs-8fc81a9a.md); official file https://www.senat.ro/legis/PDF/2025/25L403AXS.PDF
 - 2025-11-24: Forma trimisă la promulgare (LP): [lp-4ab174b1.md](lp-4ab174b1.md); official file https://www.senat.ro/legis/PDF/2025/25L403LP.PDF
+- 2025-12-11: Decret de promulgare (DP): [dp-661db837.md](dp-661db837.md); official file https://www.senat.ro/legis/PDF/2025/25L403DP.PDF
+- 2025-12-11: Forma promulgată (FP): [fp-87e09b0d.md](fp-87e09b0d.md); official file https://www.senat.ro/legis/PDF/2025/25L403FP.PDF
