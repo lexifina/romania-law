@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2025-11-26: adopted by the Chamber of Deputies
 - 2025-12-03: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-12-05: sent for promulgation
+- 2025-12-12: promulgated, becomes Legea nr. 219/2025; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -33,3 +34,5 @@ Initiator: Guvernul României.
 - 2025-04-07: Adresă către Camera Deputaților (AM): [am-f2589e72.md](am-f2589e72.md); official file https://www.senat.ro/legis/PDF/2025/25L059AM.PDF
 - 2025-12-03: Adresă privind sesizarea CCR (AXS): [axs-690fd431.md](axs-690fd431.md); official file https://www.senat.ro/legis/PDF/2025/25L059AXS.PDF
 - 2025-12-03: Forma trimisă la promulgare (LP): [lp-e2f34f93.md](lp-e2f34f93.md); official file https://www.senat.ro/legis/PDF/2025/25L059LP.PDF
+- 2025-12-12: Decret de promulgare (DP): [dp-0d141cd8.md](dp-0d141cd8.md); official file https://www.senat.ro/legis/PDF/2025/25L059DP.PDF
+- 2025-12-12: Forma promulgată (FP): [fp-08cea157.md](fp-08cea157.md); official file https://www.senat.ro/legis/PDF/2025/25L059FP.PDF
