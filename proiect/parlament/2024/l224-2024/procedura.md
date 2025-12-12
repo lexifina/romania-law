@@ -18,6 +18,7 @@ Initiator: Membri ai Parlamentului.
 - 2025-11-26: adopted by the Chamber of Deputies
 - 2025-12-03: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-12-08: sent for promulgation
+- 2025-12-12: promulgated, becomes Legea nr. 230/2025; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -32,3 +33,5 @@ Initiator: Membri ai Parlamentului.
 - 2024-05-29: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L224AM.PDF
 - 2025-12-03: Adresă privind sesizarea CCR (AXS): [axs-60d65423.md](axs-60d65423.md); official file https://www.senat.ro/legis/PDF/2024/24L224AXS.PDF
 - 2025-12-03: Forma trimisă la promulgare (LP): [lp-7403033d.md](lp-7403033d.md); official file https://www.senat.ro/legis/PDF/2024/24L224LP.PDF
+- 2025-12-12: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L224DP.PDF
+- 2025-12-12: Forma promulgată (FP): [fp-8ec46cb8.md](fp-8ec46cb8.md); official file https://www.senat.ro/legis/PDF/2024/24L224FP.PDF
