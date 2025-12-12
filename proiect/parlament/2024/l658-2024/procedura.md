@@ -16,6 +16,7 @@ Initiator: Guvernul României.
 - 2025-11-26: adopted by the Chamber of Deputies
 - 2025-12-03: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-12-05: sent for promulgation
+- 2025-12-12: promulgated, becomes Legea nr. 220/2025; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -30,3 +31,5 @@ Initiator: Guvernul României.
 - 2025-02-11: Adresă către Camera Deputaților (AM): [am-5d46a460.md](am-5d46a460.md); official file https://www.senat.ro/legis/PDF/2024/24L658AM.PDF
 - 2025-12-03: Adresă privind sesizarea CCR (AXS): [axs-5d153fb4.md](axs-5d153fb4.md); official file https://www.senat.ro/legis/PDF/2024/24L658AXS.PDF
 - 2025-12-03: Forma trimisă la promulgare (LP): [lp-d4a748f0.md](lp-d4a748f0.md); official file https://www.senat.ro/legis/PDF/2024/24L658LP.PDF
+- 2025-12-12: Decret de promulgare (DP): [dp-e72fdc24.md](dp-e72fdc24.md); official file https://www.senat.ro/legis/PDF/2024/24L658DP.PDF
+- 2025-12-12: Forma promulgată (FP): [fp-604daa93.md](fp-604daa93.md); official file https://www.senat.ro/legis/PDF/2024/24L658FP.PDF
