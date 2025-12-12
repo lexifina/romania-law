@@ -19,6 +19,7 @@ Initiator: Membri ai Parlamentului.
 - 2025-11-26: adopted by the Chamber of Deputies
 - 2025-12-03: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-12-08: sent for promulgation
+- 2025-12-12: promulgated, becomes Legea nr. 227/2025; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -35,3 +36,5 @@ Initiator: Membri ai Parlamentului.
 - 2025-10-20: Adresă către Camera Deputaților (AM): [am-b8994bae.md](am-b8994bae.md); official file https://www.senat.ro/legis/PDF/2025/25L352AM.PDF
 - 2025-12-03: Adresă privind sesizarea CCR (AXS): [axs-4fe58607.md](axs-4fe58607.md); official file https://www.senat.ro/legis/PDF/2025/25L352AXS.PDF
 - 2025-12-03: Forma trimisă la promulgare (LP): [lp-61a0ba3b.md](lp-61a0ba3b.md); official file https://www.senat.ro/legis/PDF/2025/25L352LP.PDF
+- 2025-12-12: Decret de promulgare (DP): [dp-4febe4b5.md](dp-4febe4b5.md); official file https://www.senat.ro/legis/PDF/2025/25L352DP.PDF
+- 2025-12-12: Forma promulgată (FP): [fp-bbe79d1d.md](fp-bbe79d1d.md); official file https://www.senat.ro/legis/PDF/2025/25L352FP.PDF
