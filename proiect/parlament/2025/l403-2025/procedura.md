@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2025-11-24: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-11-29: sent for promulgation
 - 2025-12-11: promulgated, becomes Legea nr. 218/2025; documents published: Decret de promulgare, Forma promulgată
+- 2025-12-12: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -34,3 +35,7 @@ Initiator: Guvernul României.
 - 2025-11-24: Forma trimisă la promulgare (LP): [lp-4ab174b1.md](lp-4ab174b1.md); official file https://www.senat.ro/legis/PDF/2025/25L403LP.PDF
 - 2025-12-11: Decret de promulgare (DP): [dp-661db837.md](dp-661db837.md); official file https://www.senat.ro/legis/PDF/2025/25L403DP.PDF
 - 2025-12-11: Forma promulgată (FP): [fp-87e09b0d.md](fp-87e09b0d.md); official file https://www.senat.ro/legis/PDF/2025/25L403FP.PDF
+- 2025-12-12: Document (DR): [dr-7cd250db.md](dr-7cd250db.md); official file https://www.senat.ro/legis/PDF/2025/25L403DR.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-12-12: Document (TX): [tx-972743d3.md](tx-972743d3.md); official file https://www.senat.ro/legis/PDF/2025/25L403TX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-12-12: Document (AL): [al-d9e1aaf1.md](al-d9e1aaf1.md); official file https://www.senat.ro/legis/PDF/2025/25L403AL.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-12-12: Document (TC): [tc-8ce2ba49.md](tc-8ce2ba49.md); official file https://www.senat.ro/legis/PDF/2025/25L403TC.PDF (its day is not given by the bill file: shown from the last stage held)
