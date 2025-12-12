@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2025-12-03: adopted by the Chamber of Deputies
 - 2025-12-08: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-12-10: sent for promulgation
+- 2025-12-12: promulgated, becomes Legea nr. 236/2025; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -35,3 +36,5 @@ Initiator: Guvernul României.
 - 2025-02-12: Adresă către Camera Deputaților (AM): [am-0c281a75.md](am-0c281a75.md); official file https://www.senat.ro/legis/PDF/2024/24L679AM.PDF
 - 2025-12-08: Adresă privind sesizarea CCR (AXS): [axs-27aa52f9.md](axs-27aa52f9.md); official file https://www.senat.ro/legis/PDF/2024/24L679AXS.PDF
 - 2025-12-08: Forma trimisă la promulgare (LP): [lp-3f7e7fb8.md](lp-3f7e7fb8.md); official file https://www.senat.ro/legis/PDF/2024/24L679LP.PDF
+- 2025-12-12: Decret de promulgare (DP): [dp-9c522c2a.md](dp-9c522c2a.md); official file https://www.senat.ro/legis/PDF/2024/24L679DP.PDF
+- 2025-12-12: Forma promulgată (FP): [fp-3f7a905b.md](fp-3f7a905b.md); official file https://www.senat.ro/legis/PDF/2024/24L679FP.PDF
