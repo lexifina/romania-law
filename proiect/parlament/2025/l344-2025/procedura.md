@@ -23,6 +23,7 @@ Initiator: Guvernul României.
 - 2025-11-26: adopted by the Chamber of Deputies
 - 2025-12-03: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-12-05: sent for promulgation
+- 2025-12-12: promulgated, becomes Legea nr. 224/2025; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -43,3 +44,5 @@ Initiator: Guvernul României.
 - 2025-11-10: Adresă către Camera Deputaților (AM): [am-ce06107f.md](am-ce06107f.md); official file https://www.senat.ro/legis/PDF/2025/25L344AM.PDF
 - 2025-12-03: Adresă privind sesizarea CCR (AXS): [axs-f571bf65.md](axs-f571bf65.md); official file https://www.senat.ro/legis/PDF/2025/25L344AXS.PDF
 - 2025-12-03: Forma trimisă la promulgare (LP): [lp-cf8ef15b.md](lp-cf8ef15b.md); official file https://www.senat.ro/legis/PDF/2025/25L344LP.PDF
+- 2025-12-12: Decret de promulgare (DP): [dp-81b100c9.md](dp-81b100c9.md); official file https://www.senat.ro/legis/PDF/2025/25L344DP.PDF
+- 2025-12-12: Forma promulgată (FP): [fp-a302037a.md](fp-a302037a.md); official file https://www.senat.ro/legis/PDF/2025/25L344FP.PDF
