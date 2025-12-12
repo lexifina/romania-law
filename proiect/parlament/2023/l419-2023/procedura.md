@@ -20,6 +20,7 @@ Initiator: Guvernul României.
 - 2025-11-26: adopted by the Chamber of Deputies
 - 2025-12-03: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-12-05: sent for promulgation
+- 2025-12-12: promulgated, becomes Legea nr. 221/2025; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -37,3 +38,5 @@ Initiator: Guvernul României.
 - 2023-09-27: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L419AM.PDF
 - 2025-12-03: Adresă privind sesizarea CCR (AXS): [axs-7d2d8c6e.md](axs-7d2d8c6e.md); official file https://www.senat.ro/legis/PDF/2023/23L419AXS.PDF
 - 2025-12-03: Forma trimisă la promulgare (LP): [lp-1dce79da.md](lp-1dce79da.md); official file https://www.senat.ro/legis/PDF/2023/23L419LP.PDF
+- 2025-12-12: Decret de promulgare (DP): [dp-a6012605.md](dp-a6012605.md); official file https://www.senat.ro/legis/PDF/2023/23L419DP.PDF
+- 2025-12-12: Forma promulgată (FP): [fp-2d87a1a9.md](fp-2d87a1a9.md); official file https://www.senat.ro/legis/PDF/2023/23L419FP.PDF
