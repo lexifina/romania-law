@@ -15,6 +15,7 @@ Initiator: Membri ai Parlamentului.
 - 2025-10-09: documents published: Aviz comisie
 - 2025-11-12: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților
 - 2025-11-19: registered at the Chamber of Deputies
+- 2025-12-15: documents published: Punct de vedere Guvern
 
 ## Documents
 
@@ -27,3 +28,4 @@ Initiator: Membri ai Parlamentului.
 - 2025-10-09: Aviz comisie (CA41): [ca41-ad254072.md](ca41-ad254072.md); official file https://www.senat.ro/legis/PDF/2025/25L334CA41.PDF
 - 2025-11-12: Forma adoptată de Senat (FS): [fs-1f55aa52.md](fs-1f55aa52.md); official file https://www.senat.ro/legis/PDF/2025/25L334FS.PDF
 - 2025-11-12: Adresă către Camera Deputaților (AM): [am-fbb593e5.md](am-fbb593e5.md); official file https://www.senat.ro/legis/PDF/2025/25L334AM.PDF
+- 2025-12-15: Punct de vedere Guvern (SJ): not held as text; official file https://www.senat.ro/legis/PDF/2025/25L334SJ.PDF
