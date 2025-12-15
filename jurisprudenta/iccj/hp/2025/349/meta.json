@@ -1,0 +1,217 @@
+{
+ "key": "iccj-hp-349-2025",
+ "label": "Decizia ÎCCJ nr. 349/2025 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "349",
+ "date": "2025-10-06",
+ "year": "2025",
+ "heading": "DECIZIA nr. 349 din 6 octombrie 2025",
+ "subtitle": "referitoare la prevederile art. XI din Ordonanța de urgență a Guvernului nr. 81/2023 privind consolidarea capacității instituționale a Ministerului Finanțelor, exercitarea controlului financiar de specialitate al statului, pentru unele reglementări specifice, precum și pentru modificarea și completarea unor acte normative, cu completările ulterioare",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "1161",
+  "bis": false,
+  "date": "2025-12-15",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.165/1/2025",
+  "42.722/3/2024"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 81/2023",
+    "number": "81",
+    "year": "2023",
+    "path": "oug/2023/81"
+   },
+   "articles": [
+    {
+     "art": "XI",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Tribunalul București - Secția a II-a de contencios administrativ și fiscal, în Dosarul nr. 42.722/3/2024, în vederea pronunțării unei hotărâri prealabile cu privire la următoarele chestiuni de drept:",
+  "Dacă prevederile art. XI din Ordonanța de urgență a Guvernului nr. 81/2023 privind consolidarea capacității instituționale a Ministerului Finanțelor, exercitarea controlului financiar de specialitate al statului, pentru unele reglementări specifice, precum și pentru modificarea și completarea unor acte normative, cu completările ulterioare, vizează întreaga familie ocupațională „Administrație“ și, prin urmare, sunt aplicabile tuturor categoriilor de funcționari publici sau sunt de strictă interpretare și aplicare, precum și",
+  "Dacă prevederile punctului 3 din nota de la litera f) din capitolul I litera A punctul I din anexa nr. VIII la Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, cu modificările și completările ulterioare, și cele aferente punctului 3 din nota de la subpunctul 2.9 din capitolul II litera A punctul I din anexa nr. VIII la Legea-cadru nr. 153/2017, care instituie majorarea salariilor de bază cu până la 15% pentru complexitatea muncii, pot fi extinse la întreaga familie ocupațională „Administrație“ sau sunt de strictă interpretare și aplicare.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 62/2024",
+    "number": "62",
+    "year": "2024",
+    "path": "oug/2024/62"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 81/2023",
+    "number": "81",
+    "year": "2023",
+    "path": "oug/2023/81"
+   },
+   "articles": [
+    {
+     "art": "XI",
+     "alin": [
+      "4",
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "XI",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "9",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 20
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 53/2024",
+    "number": "53",
+    "year": "2024",
+    "path": "oug/2024/53"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 57/2024",
+    "number": "57",
+    "year": "2024",
+    "path": "oug/2024/57"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-12-15",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/305223",
+  "text_sha256": "ce095a9c459d04055cb87099db65b62dbcfb2a6d90b7db05d456695f820f0fef",
+  "catalogue_sha256": "ce095a9c459d04055cb87099db65b62dbcfb2a6d90b7db05d456695f820f0fef",
+  "fetched": "2026-11-06T03:47:37Z",
+  "chars": 42072,
+  "archive": {
+   "source": "commoncrawl",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/305223",
+   "timestamp": "20260214052943",
+   "crawl": "CC-MAIN-2026-08",
+   "filename": "crawl-data/CC-MAIN-2026-08/segments/1770395506411.81/warc/CC-MAIN-20260214032910-20260214062910-00861.warc.gz",
+   "offset": "254251002",
+   "length": "35248",
+   "sha256": "6635ecb2ef71f0d145afd493cbc6e17f1d41c05ad60531aaac0d29d1acb5965a"
+  },
+  "portal_id": "305223",
+  "tip": "DECIZIE"
+ }
+}
