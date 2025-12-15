@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2025-11-18: adopted by the Chamber of Deputies
 - 2025-11-20: sent for promulgation
 - 2025-12-10: published in the Monitorul Oficial
+- 2025-12-15: promulgated, becomes Legea nr. 239/2025; published in the Monitorul Oficial; documents published: Document (day not given by the bill file), Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -28,3 +29,13 @@ Initiator: Guvernul României.
 - 2025-08-29: Document (HG): [hg-e8a24478.md](hg-e8a24478.md); official file https://www.senat.ro/legis/PDF/2025/25L213HG.PDF
 - 2025-09-07: Adresă privind sesizarea CCR (AXS): [axs-f23801bf.md](axs-f23801bf.md); official file https://www.senat.ro/legis/PDF/2025/25L213AXS.PDF
 - 2025-09-07: Forma trimisă la promulgare (LP): [lp-8955107e.md](lp-8955107e.md); official file https://www.senat.ro/legis/PDF/2025/25L213LP.PDF
+- 2025-12-15: Document (SC1): [sc1-4d024dd6.md](sc1-4d024dd6.md); official file https://www.senat.ro/legis/PDF/2025/25L213SC1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-12-15: Document (SC2): [sc2-ea06b1c1.md](sc2-ea06b1c1.md); official file https://www.senat.ro/legis/PDF/2025/25L213SC2.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-12-15: Document (DC1): [dc1-1a0d86d0.md](dc1-1a0d86d0.md); official file https://www.senat.ro/legis/PDF/2025/25L213DC1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-12-15: Document (RC1): [rc1-6cad3346.md](rc1-6cad3346.md); official file https://www.senat.ro/legis/PDF/2025/25L213RC1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-12-15: Document (XXS1): [xxs1-4afea9dc.md](xxs1-4afea9dc.md); official file https://www.senat.ro/legis/PDF/2025/25L213XXS1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-12-15: Document (PX1): [px1-6e314300.md](px1-6e314300.md); official file https://www.senat.ro/legis/PDF/2025/25L213PX1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-12-15: Document (SC3): [sc3-d056fd0a.md](sc3-d056fd0a.md); official file https://www.senat.ro/legis/PDF/2025/25L213SC3.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-12-15: Document (DC2): [dc2-87bd5287.md](dc2-87bd5287.md); official file https://www.senat.ro/legis/PDF/2025/25L213DC2.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-12-15: Decret de promulgare (DP): [dp-82f9d1a8.md](dp-82f9d1a8.md); official file https://www.senat.ro/legis/PDF/2025/25L213DP.PDF
+- 2025-12-15: Forma promulgată (FP): [fp-019da9a2.md](fp-019da9a2.md); official file https://www.senat.ro/legis/PDF/2025/25L213FP.PDF
