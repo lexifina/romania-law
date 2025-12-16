@@ -24,6 +24,7 @@ Initiator: Guvernul României.
 - 2025-12-03: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-12-05: sent for promulgation
 - 2025-12-12: promulgated, becomes Legea nr. 224/2025; documents published: Decret de promulgare, Forma promulgată
+- 2025-12-16: published in the Monitorul Oficial
 
 ## Documents
 
