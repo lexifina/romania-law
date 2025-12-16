@@ -21,6 +21,7 @@ Initiator: Membri ai Parlamentului.
 - 2025-12-03: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-12-08: sent for promulgation
 - 2025-12-12: promulgated, becomes Legea nr. 232/2025; documents published: Decret de promulgare, Forma promulgată
+- 2025-12-16: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -41,3 +42,7 @@ Initiator: Membri ai Parlamentului.
 - 2025-12-03: Forma trimisă la promulgare (LP): [lp-3c03fb04.md](lp-3c03fb04.md); official file https://www.senat.ro/legis/PDF/2025/25L252LP.PDF
 - 2025-12-12: Decret de promulgare (DP): [dp-59974e8c.md](dp-59974e8c.md); official file https://www.senat.ro/legis/PDF/2025/25L252DP.PDF
 - 2025-12-12: Forma promulgată (FP): [fp-68fd2f72.md](fp-68fd2f72.md); official file https://www.senat.ro/legis/PDF/2025/25L252FP.PDF
+- 2025-12-16: Document (AG1): not held as text; official file https://www.senat.ro/legis/PDF/2025/25L252AG1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-12-16: Document (AG2): [ag2-4a7a2c96.md](ag2-4a7a2c96.md); official file https://www.senat.ro/legis/PDF/2025/25L252AG2.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-12-16: Document (AG3): not held as text; official file https://www.senat.ro/legis/PDF/2025/25L252AG3.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-12-16: Document (SM): [sm-46bb5d8a.md](sm-46bb5d8a.md); official file https://www.senat.ro/legis/PDF/2025/25L252SM.PDF (its day is not given by the bill file: shown from the last stage held)
