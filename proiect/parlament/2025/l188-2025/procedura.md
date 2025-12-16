@@ -20,6 +20,7 @@ Initiator: Membri ai Parlamentului.
 - 2025-12-03: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-12-08: sent for promulgation
 - 2025-12-12: promulgated, becomes Legea nr. 231/2025; documents published: Decret de promulgare, Forma promulgată
+- 2025-12-16: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -38,3 +39,4 @@ Initiator: Membri ai Parlamentului.
 - 2025-12-03: Forma trimisă la promulgare (LP): [lp-7eb95a4d.md](lp-7eb95a4d.md); official file https://www.senat.ro/legis/PDF/2025/25L188LP.PDF
 - 2025-12-12: Decret de promulgare (DP): [dp-5b0fc50b.md](dp-5b0fc50b.md); official file https://www.senat.ro/legis/PDF/2025/25L188DP.PDF
 - 2025-12-12: Forma promulgată (FP): [fp-296af7f4.md](fp-296af7f4.md); official file https://www.senat.ro/legis/PDF/2025/25L188FP.PDF
+- 2025-12-16: Document (SM): [sm-ce44f5df.md](sm-ce44f5df.md); official file https://www.senat.ro/legis/PDF/2025/25L188SM.PDF (its day is not given by the bill file: shown from the last stage held)
