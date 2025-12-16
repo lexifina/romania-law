@@ -16,6 +16,7 @@ Initiator: Membri ai Parlamentului.
 - 2025-11-12: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților
 - 2025-11-19: registered at the Chamber of Deputies
 - 2025-12-15: documents published: Punct de vedere Guvern
+- 2025-12-16: documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -29,3 +30,4 @@ Initiator: Membri ai Parlamentului.
 - 2025-11-12: Forma adoptată de Senat (FS): [fs-1f55aa52.md](fs-1f55aa52.md); official file https://www.senat.ro/legis/PDF/2025/25L334FS.PDF
 - 2025-11-12: Adresă către Camera Deputaților (AM): [am-fbb593e5.md](am-fbb593e5.md); official file https://www.senat.ro/legis/PDF/2025/25L334AM.PDF
 - 2025-12-15: Punct de vedere Guvern (SJ): not held as text; official file https://www.senat.ro/legis/PDF/2025/25L334SJ.PDF
+- 2025-12-16: Document (AJ): not held as text; official file https://www.senat.ro/legis/PDF/2025/25L334AJ.PDF (its day is not given by the bill file: shown from the last stage held)
