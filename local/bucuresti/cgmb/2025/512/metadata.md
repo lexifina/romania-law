@@ -1,0 +1,12 @@
+# HCGMB nr. 512/2025
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+- Council: Consiliul General al Municipiului București
+- Decision: nr. 512/2025
+- Adopted: 2025-12-16
+- Published: 2025-12-17
+- Title: PENTRU MODIFICAREA SI COMPLETAREA HOTARARII CONSILIULUI GENERAL AL MUNICIPIULUI BUCURESTI NR. 459/2025 DE REPARTIZARE A SUMELOR DEFALCATE DIN TAXA PE VALOAREA ADAUGATA PENTRU FINANTAREA CHELTUIELILOR DESCENTRALIZATE LA NIVELUL SECTOARELOR SI MUNICIPIULUI BUCURESTI, DESTINATE FINANTARII CHELTUIELILOR DETERMINATE DE IMPLEMENTAREA PROGRAMULUI PENTRU SCOLI AL ROMANIEI POTRIVIT HOTARARII GUVERNULUI NR. 1032/2024 MODIFICA SI COMPLETEAZA HCGMB NR. 459/2025
+- Record: https://acteinterne.pmb.ro/legis/acteinterne/acte_int/47684
+- Document: https://doc.pmb.ro/legis/acteinterne/2025/47684/h512_25.pdf
+- Document sha256: 83afeb16f9ca62f406c0204b8d095f16dbb31dc46e54911502c8f76dfe078fef
