@@ -1,0 +1,17 @@
+# Propunere legislativă L309/2026
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Propunere legislativă privind reorganizarea Institutului pentru Studierea Revoluției Române din Decembrie 1989 și înființarea Agenției pentru Memoria Revoluției Române din Decembrie 1989
+
+Initiator: Membri ai Parlamentului.
+
+## Stages published so far
+
+- 2025-12-17: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
+
+## Documents
+
+- 2025-12-17: Adresă de înaintare a inițiativei (AD): [ad-cbd87abd.md](ad-cbd87abd.md); official file https://www.senat.ro/legis/PDF/2026/26L309AD.PDF
+- 2025-12-17: Forma inițiatorului (FG): [fg-d60b4e38.md](fg-d60b4e38.md); official file https://www.senat.ro/legis/PDF/2026/26L309FG.PDF
+- 2025-12-17: Expunere de motive (EM): [em-39be5e5c.md](em-39be5e5c.md); official file https://www.senat.ro/legis/PDF/2026/26L309EM.PDF
