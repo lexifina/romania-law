@@ -14,6 +14,7 @@ Initiator: Membri ai Parlamentului.
 - 2023-06-28: documents published: Aviz comisie
 - 2023-10-04: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților
 - 2023-10-16: registered at the Chamber of Deputies
+- 2025-12-17: documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -25,3 +26,4 @@ Initiator: Membri ai Parlamentului.
 - 2023-06-28: Aviz comisie (CA45): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L386CA45.PDF
 - 2023-10-04: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L386FS.PDF
 - 2023-10-04: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L386AM.PDF
+- 2025-12-17: Document (ASF): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L386ASF.PDF (its day is not given by the bill file: shown from the last stage held)
