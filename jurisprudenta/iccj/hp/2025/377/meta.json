@@ -1,0 +1,315 @@
+{
+ "key": "iccj-hp-377-2025",
+ "label": "Decizia ÎCCJ nr. 377/2025 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "377",
+ "date": "2025-10-27",
+ "year": "2025",
+ "heading": "DECIZIA nr. 377 din 27 octombrie 2025",
+ "subtitle": "referitoare la interpretarea art. 111 alin. (9) și (10) din Legea nr. 145/2019, art. 15 alin. (3) și art. 24 din Ordinul ministrului justiției nr. 482/2020",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "1177",
+  "bis": false,
+  "date": "2025-12-18",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.792/1/2025",
+  "3.981/62/2024"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 145/2019",
+    "number": "145",
+    "year": "2019",
+    "path": "lege/2019/145"
+   },
+   "articles": [
+    {
+     "art": "111",
+     "alin": [
+      "9",
+      "11"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul ministrului justiției nr. 482/2020",
+    "number": "482",
+    "year": "2020"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "Respinge ca inadmisibilă sesizarea formulată de Tribunalul Brașov - Secția a II-a civilă, de contencios administrativ și fiscal în Dosarul nr. 3.981/62/2024, privind lămurirea următoarei chestiuni de drept:",
+  "Dacă, în interpretarea art. 111 alin. (9) și (10) din Legea nr. 145/2019, art. 15 alin. (3) și art. 24 din Ordinul ministrului justiției nr. 482/2020, sintagma „pentru o singură locuință achiziționată pe timpul carierei“ are în vedere exclusiv prima locuință cumpărată de solicitant, indiferent de durata acordării dreptului și de mutarea ulterioară în interes de serviciu, ori dreptul de opțiune conferit de art. 111 alin. (11) din Legea nr. 145/2019 are în vedere și posibilitatea acordării compensației lunare pentru chirie vizând plata ratelor aferente creditului contractat pentru achiziția unei locuințe în localitatea unde își desfășoară activitatea polițistul de penitenciare, mutat în interesul serviciului dintr-o altă localitate unde achiziționase anterior o locuință, pentru care a beneficiat de același drept pe durata detașării, fără incidența unei situații de încetare dintre cele prevăzute de art. 24 din Ordinul ministrului justiției nr. 482/2020 ?",
+  "Obligatorie, potrivit art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 145/2019",
+    "number": "145",
+    "year": "2019",
+    "path": "lege/2019/145"
+   },
+   "articles": [
+    {
+     "art": "111",
+     "alin": [
+      "9",
+      "11",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "109",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul ministrului justiției nr. 482/2020",
+    "number": "482",
+    "year": "2020"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 62/2024",
+    "number": "62",
+    "year": "2024",
+    "path": "oug/2024/62"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul nr. 482/2020",
+    "number": "482",
+    "year": "2020"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția europeană a drepturilor omului",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 360/2002",
+    "number": "360",
+    "year": "2002",
+    "path": "lege/2002/360"
+   },
+   "articles": [
+    {
+     "art": "31",
+     "alin": [
+      "1-2",
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 113/2023",
+    "number": "113",
+    "year": "2023",
+    "path": "lege/2023/113"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 80/1995",
+    "number": "80",
+    "year": "1995",
+    "path": "lege/1995/80"
+   },
+   "articles": [
+    {
+     "art": "20-1",
+     "alin": [
+      "2-1",
+      "2-2",
+      "2-3",
+      "2-5",
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 284/2005",
+    "number": "284",
+    "year": "2005",
+    "path": "hg/2005/284"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": [
+      "d"
+     ]
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 288/2018",
+    "number": "288",
+    "year": "2018",
+    "path": "lege/2018/288"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-12-18",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/305647",
+  "text_sha256": "f8a9c5d7a91c1412787570679b707f8265cbd369faa70bfae9512aa5f7d93562",
+  "catalogue_sha256": "f8a9c5d7a91c1412787570679b707f8265cbd369faa70bfae9512aa5f7d93562",
+  "fetched": "2026-11-03T00:52:02Z",
+  "chars": 39098,
+  "portal_id": "305647",
+  "tip": "DECIZIE"
+ }
+}
