@@ -1,0 +1,143 @@
+{
+ "key": "iccj-hp-380-2025",
+ "label": "Decizia ÎCCJ nr. 380/2025 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "380",
+ "date": "2025-10-27",
+ "year": "2025",
+ "heading": "DECIZIA nr. 380 din 27 octombrie 2025",
+ "subtitle": "referitoare la caracterul sporului de până la 50% din salariul de bază (de funcție) prevăzut de anexele nr. 10 și 10A la Ordinul ministrului internelor și reformei administrative nr. S/629 din 30 septembrie 2008",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "1183",
+  "bis": false,
+  "date": "2025-12-19",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.009/1/2025",
+  "2.135/2/2023"
+ ],
+ "subjects": [],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Tribunalul București - Secția a II-a contencios administrativ și fiscal în Dosarul nr. 2.135/2/2023, în vederea pronunțării unei hotărâri prealabile pentru dezlegarea următoarei chestiuni de drept:",
+  "Dacă sporul de până la 50% din salariul de bază (de funcție) prevăzut de anexele nr. 10 și 10A la Ordinul ministrului internelor și reformei administrative nr. S/629 din 30 septembrie 2008 are caracter permanent, acordându-se pentru locuri de muncă și condiții stabilite pe bază de buletine de determinare prin expertizare a locurilor de muncă, sau are caracter temporar, în sensul că se acordă numai în condițiile desfășurării unei activități precise, în condiții speciale.",
+  "Obligatorie, potrivit art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 62/2024",
+    "number": "62",
+    "year": "2024",
+    "path": "oug/2024/62"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 64/2006",
+    "number": "64",
+    "year": "2006",
+    "path": "og/2006/64"
+   },
+   "articles": [
+    {
+     "art": "38",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 53/2003",
+    "number": "53",
+    "year": "2003",
+    "path": "lege/2003/53"
+   },
+   "articles": [
+    {
+     "art": "150",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  }
+ ],
+ "warnings": [
+  "subjects: none parsed"
+ ],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-12-19",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/305684",
+  "text_sha256": "1fa81242678783204a2dbc9505de74c244f47f39dbf715bc652169ece883c350",
+  "catalogue_sha256": "1fa81242678783204a2dbc9505de74c244f47f39dbf715bc652169ece883c350",
+  "fetched": "2026-11-03T00:51:58Z",
+  "chars": 31749,
+  "portal_id": "305684",
+  "tip": "DECIZIE"
+ }
+}
