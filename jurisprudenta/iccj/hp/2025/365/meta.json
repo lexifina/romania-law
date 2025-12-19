@@ -1,0 +1,353 @@
+{
+ "key": "iccj-hp-365-2025",
+ "label": "Decizia ÎCCJ nr. 365/2025 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "365",
+ "date": "2025-12-19",
+ "year": "2025",
+ "heading": "DECIZIA nr. 365 din 19 decembrie 2025",
+ "subtitle": "referitoare la prevederile art. 100 din Legea nr. 304/2004, art. 121 și art. 122 alin. (3) din Legea nr. 304/2022, art. 2, 4 și 7 din Regulamentul privind concediile judecătorilor și procurorilor, aprobat prin Hotărârea C.S.M. nr. 325 din 24 august 2005, art. 8 alin. (2) din Regulamentul privind concediul de odihnă și alte concedii ale asistenților judiciari, aprobat prin Ordinul ministrului justiției nr. 2.430/C din 27 octombrie 2006, art. 55 lit. a), art. 56 alin. (1) lit. i), art. 83 lit. h) și art. 146 alin. (3) din Codul muncii",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "1178",
+  "bis": false,
+  "date": "2025-12-19",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "727/1/2025",
+  "1.041/96/2023",
+  "823/96/2023",
+  "728/1/2025"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "100",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2022",
+    "number": "304",
+    "year": "2022",
+    "path": "lege/2022/304"
+   },
+   "articles": [
+    {
+     "art": "121",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "122",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul muncii",
+    "path": "lege/2003/53",
+    "slug": "codul-muncii"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "55",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "56",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "i"
+     ]
+    },
+    {
+     "art": "83",
+     "alin": null,
+     "lit": [
+      "h"
+     ]
+    },
+    {
+     "art": "146",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibile, sesizările conexate formulate de Curtea de Apel Târgu Mureș - Secția I civilă în Dosarul nr. 1.041/96/2023 și în Dosarul nr. 823/96/2023, având următorul conținut: să se stabilească dacă, prin prisma prevederilor art. 100 din Legea nr. 304/2004, art. 121 și art. 122 alin. (3) din Legea nr. 304/2022, art. 2, 4 și 7 din Regulamentul privind concediile judecătorilor și procurorilor, aprobat prin Hotărârea C.S.M. nr. 325 din 24 august 2005, art. 8 alin. (2) din Regulamentul privind concediul de odihnă și alte concedii ale asistenților judiciari, aprobat prin Ordinul ministrului justiției nr. 2.430/C din 27 octombrie 2006, art. 55 lit. a), art. 56 alin. (1) lit. i), art. 83 lit. h) și art. 146 alin. (3) din Codul muncii, având în vedere că asistenții judiciari sunt numiți în funcție pentru o perioadă de 5 ani și văzând că acestora li se aplică dispozițiile prevăzute de lege pentru magistrați în ceea ce privește concediul de odihnă, se poate considera că încetarea mandatului unui asistent judiciar la sfârșitul perioadei de 5 ani este echivalentă cu încetarea unui contract individual de muncă încheiat pe durată determinată; în ipoteza unui răspuns afirmativ la prima întrebare, să se stabilească dacă raportat la prevederile legale arătate mai sus se poate acorda compensarea în bani a concediului de odihnă neefectuat în cazul în care încetarea unui mandat de 5 ani al unui asistent judiciar este urmată de numirea în funcție a acestui asistent judiciar pentru un nou mandat de 5 ani",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "100",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2022",
+    "number": "304",
+    "year": "2022",
+    "path": "lege/2022/304"
+   },
+   "articles": [
+    {
+     "art": "121",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "122",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul muncii",
+    "path": "lege/2003/53",
+    "slug": "codul-muncii"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "55",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "56",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "i"
+     ]
+    },
+    {
+     "art": "83",
+     "alin": null,
+     "lit": [
+      "h"
+     ]
+    },
+    {
+     "art": "146",
+     "alin": [
+      "3",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 20
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 62/2024",
+    "number": "62",
+    "year": "2024",
+    "path": "oug/2024/62"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 303/2004",
+    "number": "303",
+    "year": "2004",
+    "path": "lege/2004/303"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 317/2004",
+    "number": "317",
+    "year": "2004",
+    "path": "lege/2004/317"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-12-19",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/305652",
+  "text_sha256": "4f8273f53b52066f7c45cc5d24ea4151412bc67627b13431f628878884e51851",
+  "catalogue_sha256": "4f8273f53b52066f7c45cc5d24ea4151412bc67627b13431f628878884e51851",
+  "fetched": "2026-11-06T03:55:08Z",
+  "chars": 46547,
+  "archive": {
+   "source": "wayback",
+   "url": "https://web.archive.org/web/20260311141147/https://legislatie.just.ro/Public/DetaliiDocumentAfis/305652",
+   "page": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/305652",
+   "timestamp": "20260311141147",
+   "sha256": "eb91799991b77069f48f17a3e7c91f346cb05a2f0f980cd70bc280d94121eae9"
+  },
+  "portal_id": "305652",
+  "tip": "DECIZIE"
+ }
+}
