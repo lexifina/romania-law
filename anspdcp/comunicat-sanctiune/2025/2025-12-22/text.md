@@ -1,0 +1,9 @@
+Amendă pentru încălcarea Legii nr. 506/2004
+Autoritatea Națională de Supraveghere a Prelucrării Datelor cu Caracter Personal a finalizat, în luna noiembrie 2025, o investigație la operatorul S.C. iHUNT TECHNOLOGY IMPORT-EXPORT SA și a constatat încălcarea dispozițiilor art. 4 alin. (5) lit. a) și b) din Legea nr. 506/2004 privind prelucrarea datelor cu caracter personal și protecția vieții private în sectorul comunicațiilor electronice.
+Ca atare, operatorul a fost sancționat cu amendă în cuantum de 20.000 lei .
+Investigația a fost demarată ca urmare a unei sesizări a unei persoane fizice cu privire la o posibilă încălcare a prevederilor legislației din domeniul protecției datelor cu caracter personal.
+În cadrul investigației, Autoritatea Națională de Supraveghere a Prelucrării Datelor cu Caracter Personal a constatat că, pe site-ul deținut de operator, au fost stocate module cookies care nu erau necesare din punct de vedere tehnic pe echipamentele utilizatorilor, fără a efectua o informare corectă și completă și fără a exista consimțământul prealabil expres al persoanelor vizate.
+S-a constatat că operatorul a permis stocarea de informații și obținerea accesului la informațiile stocate pe echipamentele utilizatorilor, cu ocazia accesării site-ului deținut, prin intermediul anumitor module cookies care nu erau necesare din punct de vedere tehnic, instalate în terminalul utilizatorului înainte de exprimarea opțiunii acestuia de consimțământ.
+Ca atare, operatorul a fost sancționat cu amendă pentru încălcarea prevederilor art. 4 alin. (5) lit. a) și lit. b) din Legea nr. 506/2004, potrivit cărora stocarea de informații sau obținerea accesului la informația stocată în echipamentul terminal al unui abonat ori utilizator, este permisă numai cu îndeplinirea în mod cumulativ a condițiilor prevăzute de acest alineat.
+Direcția juridică și comunicare
+A.N.S.P.D.C.P
