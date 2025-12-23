@@ -9,9 +9,14 @@ Initiator: Membri ai Parlamentului.
 ## Stages published so far
 
 - 2025-12-17: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
+- 2025-12-23: documents published: Aviz Consiliul Economic și Social, Aviz Consiliul Legislativ, Punct de vedere Guvern, Punct de vedere
 
 ## Documents
 
 - 2025-12-17: Adresă de înaintare a inițiativei (AD): [ad-cbd87abd.md](ad-cbd87abd.md); official file https://www.senat.ro/legis/PDF/2026/26L309AD.PDF
 - 2025-12-17: Forma inițiatorului (FG): [fg-d60b4e38.md](fg-d60b4e38.md); official file https://www.senat.ro/legis/PDF/2026/26L309FG.PDF
 - 2025-12-17: Expunere de motive (EM): [em-39be5e5c.md](em-39be5e5c.md); official file https://www.senat.ro/legis/PDF/2026/26L309EM.PDF
+- 2025-12-23: Aviz Consiliul Economic și Social (ES): [es-eacc1515.md](es-eacc1515.md); official file https://www.senat.ro/legis/PDF/2026/26L309ES.PDF
+- 2025-12-23: Aviz Consiliul Legislativ (LG): [lg-0f2fb437.md](lg-0f2fb437.md); official file https://www.senat.ro/legis/PDF/2026/26L309LG.PDF
+- 2025-12-23: Punct de vedere Guvern (SJ): [sj-b3fa2b11.md](sj-b3fa2b11.md); official file https://www.senat.ro/legis/PDF/2026/26L309SJ.PDF
+- 2025-12-23: Punct de vedere (PV): [pv-52a52646.md](pv-52a52646.md); official file https://www.senat.ro/legis/PDF/2026/26L309PV.PDF
