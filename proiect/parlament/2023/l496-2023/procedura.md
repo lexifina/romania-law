@@ -18,6 +18,7 @@ Initiator: Membri ai Parlamentului.
 - 2025-12-10: adopted by the Chamber of Deputies
 - 2025-12-15: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-12-20: sent for promulgation
+- 2025-12-23: promulgated, becomes Legea nr. 245/2025; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -32,3 +33,5 @@ Initiator: Membri ai Parlamentului.
 - 2023-10-18: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L496AM.PDF
 - 2025-12-15: Adresă privind sesizarea CCR (AXS): [axs-fdbb0b27.md](axs-fdbb0b27.md); official file https://www.senat.ro/legis/PDF/2023/23L496AXS.PDF
 - 2025-12-15: Forma trimisă la promulgare (LP): [lp-74c6af00.md](lp-74c6af00.md); official file https://www.senat.ro/legis/PDF/2023/23L496LP.PDF
+- 2025-12-23: Decret de promulgare (DP): [dp-ef4a2e53.md](dp-ef4a2e53.md); official file https://www.senat.ro/legis/PDF/2023/23L496DP.PDF
+- 2025-12-23: Forma promulgată (FP): [fp-46a863a5.md](fp-46a863a5.md); official file https://www.senat.ro/legis/PDF/2023/23L496FP.PDF
