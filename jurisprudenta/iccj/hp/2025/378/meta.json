@@ -1,0 +1,162 @@
+{
+ "key": "iccj-hp-378-2025",
+ "label": "Decizia ÎCCJ nr. 378/2025 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "378",
+ "date": "2025-10-27",
+ "year": "2025",
+ "heading": "DECIZIA nr. 378 din 27 octombrie 2025",
+ "subtitle": "referitoare la perioada în care o persoană cu studii superioare absolvite în România și-a desfășurat activitatea în calitate de cadru didactic într-o țară din afara Uniunii Europene cu care România nu are încheiat un/o acord/convenție/tratat cu privire la recunoașterea vechimii în muncă potrivit acestei specialități",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "1187",
+  "bis": false,
+  "date": "2025-12-23",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.852/1/2025",
+  "873/107/2023"
+ ],
+ "subjects": [],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Tribunalul Alba - Secția I civilă în Dosarul nr. 873/107/2023*, privind lămurirea următoarei chestiuni de drept:",
+  "Dacă perioada în care o persoană cu studii superioare absolvite în România și-a desfășurat activitatea în calitate de cadru didactic într-o țară din afara Uniunii Europene cu care România nu are încheiat un/o acord/convenție/tratat cu privire la recunoașterea vechimii în muncă potrivit acestei specialități poată fi luată în calcul pentru acordarea gradației corespunzătoare funcției, conform art. 10 din Legea-cadru nr. 153/2017, în vederea acordării drepturilor salariale și în raport cu această vechime?",
+  "Obligatorie, potrivit art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 62/2024",
+    "number": "62",
+    "year": "2024",
+    "path": "oug/2024/62"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 16
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": [
+      "4"
+     ],
+     "lit": [
+      "d"
+     ]
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 91/2017",
+    "number": "91",
+    "year": "2017",
+    "path": "oug/2017/91"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituția României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 57/2019",
+    "number": "57",
+    "year": "2019",
+    "path": "oug/2019/57"
+   },
+   "articles": [
+    {
+     "art": "424",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [
+  "subjects: none parsed"
+ ],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-12-23",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/305720",
+  "text_sha256": "f120ffb51da7b9b813be50be6589790947876a31d0a668f94277dcad53f94f55",
+  "catalogue_sha256": "f120ffb51da7b9b813be50be6589790947876a31d0a668f94277dcad53f94f55",
+  "fetched": "2026-11-03T00:51:55Z",
+  "chars": 31224,
+  "portal_id": "305720",
+  "tip": "DECIZIE"
+ }
+}
