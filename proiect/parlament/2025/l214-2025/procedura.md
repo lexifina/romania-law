@@ -21,6 +21,7 @@ Initiator: Guvernul României.
 - 2025-11-25: published in the Monitorul Oficial
 - 2025-12-12: returned for re-examination
 - 2025-12-17: adopted by the Senate
+- 2025-12-23: adopted by the Chamber of Deputies
 
 ## Documents
 
