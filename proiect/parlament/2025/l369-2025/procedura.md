@@ -21,6 +21,7 @@ Initiator: Membri ai Parlamentului.
 - 2025-11-17: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-12-08: returned for re-examination
 - 2025-12-17: adopted by the Senate
+- 2025-12-23: returned for re-examination
 
 ## Documents
 
