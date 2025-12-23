@@ -22,6 +22,7 @@ Initiator: Membri ai Parlamentului.
 - 2025-11-24: adopted by the Senate
 - 2025-12-17: returned for re-examination
 - 2025-12-22: sent for promulgation
+- 2025-12-23: promulgated, becomes Legea nr. 240/2025; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -35,3 +36,5 @@ Initiator: Membri ai Parlamentului.
 - 2025-05-26: Raport comisie sesizată pe fond (CR): [cr-a12195a4.md](cr-a12195a4.md); official file https://www.senat.ro/legis/PDF/2025/25L138CR.PDF
 - 2025-05-26: Adresă către Camera Deputaților (AM): [am-a779b7d9.md](am-a779b7d9.md); official file https://www.senat.ro/legis/PDF/2025/25L138AM.PDF
 - 2025-06-16: Forma trimisă la promulgare (LP): [lp-75655c8e.md](lp-75655c8e.md); official file https://www.senat.ro/legis/PDF/2025/25L138LP.PDF
+- 2025-12-23: Decret de promulgare (DP): [dp-5b01538f.md](dp-5b01538f.md); official file https://www.senat.ro/legis/PDF/2025/25L138DP.PDF
+- 2025-12-23: Forma promulgată (FP): [fp-d3f4fd6b.md](fp-d3f4fd6b.md); official file https://www.senat.ro/legis/PDF/2025/25L138FP.PDF
