@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2025-12-08: adopted by the Senate; documents published: Forma adoptată de Senat
 - 2025-12-15: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-12-20: sent for promulgation
+- 2025-12-23: promulgated, becomes Legea nr. 248/2025; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -31,3 +32,5 @@ Initiator: Guvernul României.
 - 2025-12-08: Forma adoptată de Senat (FS): [fs-03e330ff.md](fs-03e330ff.md); official file https://www.senat.ro/legis/PDF/2025/25L472FS.PDF
 - 2025-12-15: Adresă privind sesizarea CCR (AXS): [axs-f7d01979.md](axs-f7d01979.md); official file https://www.senat.ro/legis/PDF/2025/25L472AXS.PDF
 - 2025-12-15: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2025/25L472LP.PDF
+- 2025-12-23: Decret de promulgare (DP): [dp-bd866cfb.md](dp-bd866cfb.md); official file https://www.senat.ro/legis/PDF/2025/25L472DP.PDF
+- 2025-12-23: Forma promulgată (FP): [fp-b5d77b4c.md](fp-b5d77b4c.md); official file https://www.senat.ro/legis/PDF/2025/25L472FP.PDF
