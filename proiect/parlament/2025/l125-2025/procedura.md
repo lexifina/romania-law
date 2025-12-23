@@ -25,6 +25,7 @@ Initiator: Membri ai Parlamentului.
 - 2025-12-08: adopted by the Senate
 - 2025-12-17: returned for re-examination
 - 2025-12-22: sent for promulgation
+- 2025-12-23: promulgated, becomes Legea nr. 241/2025; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -40,3 +41,5 @@ Initiator: Membri ai Parlamentului.
 - 2025-05-26: Adresă către Camera Deputaților (AM): [am-5fcfdc29.md](am-5fcfdc29.md); official file https://www.senat.ro/legis/PDF/2025/25L125AM.PDF
 - 2025-06-16: Adresă privind sesizarea CCR (AXS): [axs-357213de.md](axs-357213de.md); official file https://www.senat.ro/legis/PDF/2025/25L125AXS.PDF
 - 2025-06-16: Forma trimisă la promulgare (LP): [lp-45bd01ca.md](lp-45bd01ca.md); official file https://www.senat.ro/legis/PDF/2025/25L125LP.PDF
+- 2025-12-23: Decret de promulgare (DP): [dp-61a5471c.md](dp-61a5471c.md); official file https://www.senat.ro/legis/PDF/2025/25L125DP.PDF
+- 2025-12-23: Forma promulgată (FP): [fp-fa74a1b4.md](fp-fa74a1b4.md); official file https://www.senat.ro/legis/PDF/2025/25L125FP.PDF
