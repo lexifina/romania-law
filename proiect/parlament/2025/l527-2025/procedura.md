@@ -14,6 +14,7 @@ Initiator: Guvernul României.
 - 2025-12-02: adopted by the Senate; documents published: Raport comisie sesizată pe fond, Forma adoptată de Senat, Adresă către Camera Deputaților
 - 2025-12-17: adopted by the Chamber of Deputies; documents published: Forma adoptată de Camera Deputaților, Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-12-19: sent for promulgation
+- 2025-12-23: promulgated, becomes Legea nr. 244/2025; published in the Monitorul Oficial; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -28,3 +29,5 @@ Initiator: Guvernul României.
 - 2025-12-17: Forma adoptată de Camera Deputaților (FC): [fc-14006bff.md](fc-14006bff.md); official file https://www.senat.ro/legis/PDF/2025/25L527FC.PDF
 - 2025-12-17: Adresă privind sesizarea CCR (AXS): [axs-0598f8cc.md](axs-0598f8cc.md); official file https://www.senat.ro/legis/PDF/2025/25L527AXS.PDF
 - 2025-12-17: Forma trimisă la promulgare (LP): [lp-2c53d536.md](lp-2c53d536.md); official file https://www.senat.ro/legis/PDF/2025/25L527LP.PDF
+- 2025-12-23: Decret de promulgare (DP): [dp-654c5e3a.md](dp-654c5e3a.md); official file https://www.senat.ro/legis/PDF/2025/25L527DP.PDF
+- 2025-12-23: Forma promulgată (FP): [fp-0105e901.md](fp-0105e901.md); official file https://www.senat.ro/legis/PDF/2025/25L527FP.PDF
