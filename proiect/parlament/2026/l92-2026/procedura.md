@@ -1,0 +1,17 @@
+# Propunere legislativă L92/2026
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Propunere legislativă pentru completarea Legii nr.95/2006 privind reforma în domeniul sănătății și pentru completarea Legii nr.53/2003 - Codul muncii
+
+Initiator: Membri ai Parlamentului.
+
+## Stages published so far
+
+- 2025-12-23: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
+
+## Documents
+
+- 2025-12-23: Adresă de înaintare a inițiativei (AD): [ad-ac589456.md](ad-ac589456.md); official file https://www.senat.ro/legis/PDF/2026/26L092AD.PDF
+- 2025-12-23: Forma inițiatorului (FG): [fg-205f4ef8.md](fg-205f4ef8.md); official file https://www.senat.ro/legis/PDF/2026/26L092FG.PDF
+- 2025-12-23: Expunere de motive (EM): [em-a12ed6dc.md](em-a12ed6dc.md); official file https://www.senat.ro/legis/PDF/2026/26L092EM.PDF
