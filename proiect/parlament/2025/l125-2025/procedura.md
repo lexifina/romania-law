@@ -26,6 +26,7 @@ Initiator: Membri ai Parlamentului.
 - 2025-12-17: returned for re-examination
 - 2025-12-22: sent for promulgation
 - 2025-12-23: promulgated, becomes Legea nr. 241/2025; documents published: Decret de promulgare, Forma promulgată
+- 2025-12-24: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -43,3 +44,16 @@ Initiator: Membri ai Parlamentului.
 - 2025-06-16: Forma trimisă la promulgare (LP): [lp-45bd01ca.md](lp-45bd01ca.md); official file https://www.senat.ro/legis/PDF/2025/25L125LP.PDF
 - 2025-12-23: Decret de promulgare (DP): [dp-61a5471c.md](dp-61a5471c.md); official file https://www.senat.ro/legis/PDF/2025/25L125DP.PDF
 - 2025-12-23: Forma promulgată (FP): [fp-fa74a1b4.md](fp-fa74a1b4.md); official file https://www.senat.ro/legis/PDF/2025/25L125FP.PDF
+- 2025-12-24: Document (CNCD): [cncd-74419223.md](cncd-74419223.md); official file https://www.senat.ro/legis/PDF/2025/25L125CNCD.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-12-24: Document (CNA): [cna-42bd310a.md](cna-42bd310a.md); official file https://www.senat.ro/legis/PDF/2025/25L125CNA.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-12-24: Document (SM): [sm-d67ff853.md](sm-d67ff853.md); official file https://www.senat.ro/legis/PDF/2025/25L125SM.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-12-24: Document (SC1): [sc1-83ac6f7d.md](sc1-83ac6f7d.md); official file https://www.senat.ro/legis/PDF/2025/25L125SC1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-12-24: Document (DC1): [dc1-67bcf3d0.md](dc1-67bcf3d0.md); official file https://www.senat.ro/legis/PDF/2025/25L125DC1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-12-24: Document (SC2): [sc2-7b829b0e.md](sc2-7b829b0e.md); official file https://www.senat.ro/legis/PDF/2025/25L125SC2.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-12-24: Document (DC2): [dc2-e56c951e.md](dc2-e56c951e.md); official file https://www.senat.ro/legis/PDF/2025/25L125DC2.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-12-24: Document (RX1): [rx1-a6151d1b.md](rx1-a6151d1b.md); official file https://www.senat.ro/legis/PDF/2025/25L125RX1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-12-24: Document (CX): [cx-7bea2135.md](cx-7bea2135.md); official file https://www.senat.ro/legis/PDF/2025/25L125CX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-12-24: Document (XD1): [xd1-0d4440f8.md](xd1-0d4440f8.md); official file https://www.senat.ro/legis/PDF/2025/25L125XD1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-12-24: Document (SX1): [sx1-930712c9.md](sx1-930712c9.md); official file https://www.senat.ro/legis/PDF/2025/25L125SX1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-12-24: Document (XXS1): [xxs1-90d7eacf.md](xxs1-90d7eacf.md); official file https://www.senat.ro/legis/PDF/2025/25L125XXS1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-12-24: Document (PX1): [px1-0bf77106.md](px1-0bf77106.md); official file https://www.senat.ro/legis/PDF/2025/25L125PX1.PDF (its day is not given by the bill file: shown from the last stage held)
