@@ -1,0 +1,19 @@
+# Proiect de lege L640/2025
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Proiect de lege pentru modificarea și completarea unor acte normative în domeniul financiar
+
+Initiator: Guvernul României.
+
+## Stages published so far
+
+- 2025-12-24: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+
+## Documents
+
+- 2025-12-24: Adresă de înaintare a inițiativei (AD): [ad-3ed88d8b.md](ad-3ed88d8b.md); official file https://www.senat.ro/legis/PDF/2025/25L640AD.PDF
+- 2025-12-24: Forma inițiatorului (FG): [fg-4d36d99e.md](fg-4d36d99e.md); official file https://www.senat.ro/legis/PDF/2025/25L640FG.PDF
+- 2025-12-24: Expunere de motive (EM): [em-339a1d5d.md](em-339a1d5d.md); official file https://www.senat.ro/legis/PDF/2025/25L640EM.PDF
+- 2025-12-24: Aviz Consiliul Legislativ (LG): [lg-e288209a.md](lg-e288209a.md); official file https://www.senat.ro/legis/PDF/2025/25L640LG.PDF
+- 2025-12-24: Document (HG): [hg-ac820fa2.md](hg-ac820fa2.md); official file https://www.senat.ro/legis/PDF/2025/25L640HG.PDF
