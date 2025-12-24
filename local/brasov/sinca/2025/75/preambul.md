@@ -1,0 +1,7 @@
+Consiliul Local al Comunei Șinca, întrunit în ședința ordinară din data de 24.12.2025, Având în vedere referatul de aprobare nr. 9231/21.11.2025 a primarului comunei, precum și raportul de specialitate al secretarului general al comunei nr. 9233/21.11.2025 privind ajustarea tarifelor pentru serviciile de salubrizare prestate în Comuna Șinca și adresa nr.
+1361/18.09.2025 a COMPREST S.A., Operator economic prestator al serviciului de salubrizare in comuna Șinca prin care solicită ajustrea tarifelor.
+Vazand avizul favorabil al Comisiei de specialitate din cadrul Consiliului Local Sinca;
+Având in vedere prevederile art. 9 din O.U.G.nr. 196/2005 privind fondul pentru mediu, art. 54 din Ordinul A.N.R.S.C.U.P. nr. 640/2022 privind aprobarea Normelor metodologice de stabilire, ajustare sau modificare a tarifelor pentru activitățile specifice serviciului de salubrizare a localităților, art. 6, lit. l, din Legea nr. 101/2006 a serviciului de salubrizare a localităților și Contractul de delegare prin concesionare a gestiunii serviciului public de salubrizare în Comuna Sinca nr. 18 din 16.07.2025,
+Ținând cont de prevederile art. 129, alin. 2 lit. d și alin. 7, lit. n din O.U.G. nr. 57/2019 privind Codul administrativ cu modificările și completările ulterioare,
+În temeiul art. 139, alin. 1 si art. 196, alin. 1, lit. a din O.U.G. nr. 57/2019 privind Codul administrativ, cu modificările și completările ulterioare
+HOTĂRĂȘTE:
