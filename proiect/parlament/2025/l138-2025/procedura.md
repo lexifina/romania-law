@@ -23,6 +23,7 @@ Initiator: Membri ai Parlamentului.
 - 2025-12-17: returned for re-examination
 - 2025-12-22: sent for promulgation
 - 2025-12-23: promulgated, becomes Legea nr. 240/2025; documents published: Decret de promulgare, Forma promulgată
+- 2025-12-24: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -38,3 +39,10 @@ Initiator: Membri ai Parlamentului.
 - 2025-06-16: Forma trimisă la promulgare (LP): [lp-75655c8e.md](lp-75655c8e.md); official file https://www.senat.ro/legis/PDF/2025/25L138LP.PDF
 - 2025-12-23: Decret de promulgare (DP): [dp-5b01538f.md](dp-5b01538f.md); official file https://www.senat.ro/legis/PDF/2025/25L138DP.PDF
 - 2025-12-23: Forma promulgată (FP): [fp-d3f4fd6b.md](fp-d3f4fd6b.md); official file https://www.senat.ro/legis/PDF/2025/25L138FP.PDF
+- 2025-12-24: Document (RX1): [rx1-2bd5dc40.md](rx1-2bd5dc40.md); official file https://www.senat.ro/legis/PDF/2025/25L138RX1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-12-24: Document (XA1): [xa1-5b601f95.md](xa1-5b601f95.md); official file https://www.senat.ro/legis/PDF/2025/25L138XA1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-12-24: Document (CX1): [cx1-b5240127.md](cx1-b5240127.md); official file https://www.senat.ro/legis/PDF/2025/25L138CX1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-12-24: Document (XD1): [xd1-cceafd7b.md](xd1-cceafd7b.md); official file https://www.senat.ro/legis/PDF/2025/25L138XD1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-12-24: Document (SX1): [sx1-03d78154.md](sx1-03d78154.md); official file https://www.senat.ro/legis/PDF/2025/25L138SX1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-12-24: Document (XXS1): [xxs1-6a974bba.md](xxs1-6a974bba.md); official file https://www.senat.ro/legis/PDF/2025/25L138XXS1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-12-24: Document (PX1): [px1-2f8c6a5c.md](px1-2f8c6a5c.md); official file https://www.senat.ro/legis/PDF/2025/25L138PX1.PDF (its day is not given by the bill file: shown from the last stage held)
