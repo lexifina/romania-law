@@ -1,0 +1,182 @@
+{
+ "key": "dcc-313-2025",
+ "label": "Decizia CCR nr. 313/2025",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "313",
+ "date": "2025-06-05",
+ "year": "2025",
+ "heading": "DECIZIA nr. 313 din 5 iunie 2025",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 14 alin. (1) din Ordonanța de urgență a Guvernului nr. 51/2008 privind ajutorul public judiciar în materie civilă",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "1195",
+  "bis": false,
+  "date": "2025-12-24",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 51/2008",
+    "number": "51",
+    "year": "2008",
+    "path": "oug/2008/51"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Cristian Botez în dosarele nr. 438/192/2020/a1 al Judecătoriei Bolintin-Vale și nr. 861/1/2020/a.1.1.1 al Înaltei Curți de Casație și Justiție - Secția a II-a civilă și constată că dispozițiile art. 14 alin. (1) din Ordonanța de urgență a Guvernului nr. 51/2008 privind ajutorul public judiciar în materie civilă sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Judecătoriei Bolintin-Vale și Înaltei Curți de Casație și Justiție - Secția a II-a civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 51/2008",
+    "number": "51",
+    "year": "2008",
+    "path": "oug/2008/51"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituției",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "318",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2025-12-24",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/305757",
+  "text_sha256": "78ab2fdd9b5dff8b33cb5827131bf66388805eacb883f920518269bad2a4f2dd",
+  "catalogue_sha256": "78ab2fdd9b5dff8b33cb5827131bf66388805eacb883f920518269bad2a4f2dd",
+  "fetched": "2026-11-03T00:51:53Z",
+  "chars": 12615,
+  "portal_id": "305757",
+  "tip": "DECIZIE"
+ }
+}
