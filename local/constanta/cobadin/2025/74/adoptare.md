@@ -1,0 +1,1 @@
+Prezenta Hotărâre a fost adoptată cu un număr de 11 voturi “pentru”, 0 voturi “împotrivă” și 1 vot “abținere”, din numărul de 12 consilieri locali prezenți la ședință, din numărul de 15 consilieri locali aleși.
