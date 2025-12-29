@@ -20,6 +20,7 @@ Initiator: Guvernul României.
 - 2025-12-15: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-12-20: sent for promulgation
 - 2025-12-23: promulgated, becomes Legea nr. 247/2025; documents published: Decret de promulgare, Forma promulgată
+- 2025-12-29: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -36,3 +37,7 @@ Initiator: Guvernul României.
 - 2025-12-15: Forma trimisă la promulgare (LP): [lp-cb012400.md](lp-cb012400.md); official file https://www.senat.ro/legis/PDF/2025/25L471LP.PDF
 - 2025-12-23: Decret de promulgare (DP): [dp-34d772cf.md](dp-34d772cf.md); official file https://www.senat.ro/legis/PDF/2025/25L471DP.PDF
 - 2025-12-23: Forma promulgată (FP): [fp-578c397c.md](fp-578c397c.md); official file https://www.senat.ro/legis/PDF/2025/25L471FP.PDF
+- 2025-12-29: Document (DR): [dr-9b6d5acb.md](dr-9b6d5acb.md); official file https://www.senat.ro/legis/PDF/2025/25L471DR.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-12-29: Document (TX): [tx-4f8cda8b.md](tx-4f8cda8b.md); official file https://www.senat.ro/legis/PDF/2025/25L471TX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-12-29: Document (AL): [al-8d97417b.md](al-8d97417b.md); official file https://www.senat.ro/legis/PDF/2025/25L471AL.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2025-12-29: Document (TC): [tc-9c520510.md](tc-9c520510.md); official file https://www.senat.ro/legis/PDF/2025/25L471TC.PDF (its day is not given by the bill file: shown from the last stage held)
