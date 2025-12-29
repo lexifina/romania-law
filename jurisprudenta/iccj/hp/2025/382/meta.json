@@ -1,0 +1,301 @@
+{
+ "key": "iccj-hp-382-2025",
+ "label": "Decizia ÎCCJ nr. 382/2025 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "382",
+ "date": "2025-10-27",
+ "year": "2025",
+ "heading": "DECIZIA nr. 382 din 27 octombrie 2025",
+ "subtitle": "referitoare la interpretarea dispozițiilor art. 28 alin. (1) lit. l) din Legea nr. 360/2023",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "1207",
+  "bis": false,
+  "date": "2025-12-29",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.612/1/2015",
+  "1.612/1/2025",
+  "345/30/2025"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 360/2023",
+    "number": "360",
+    "year": "2023",
+    "path": "lege/2023/360"
+   },
+   "articles": [
+    {
+     "art": "28",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "l"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul viceprim-ministrului, ministrul transporturilor și infrastructurii, nr. 1.561/2022",
+    "number": "1561",
+    "year": "2022"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Tribunalul Timiș - Secția I civilă în Dosarul nr. 345/30/2025, în vederea pronunțării unei hotărâri prealabile cu privire la următoarele chestiuni de drept:",
+  "Interpretarea dispozițiilor art. 28 alin. (1) lit. l) din Legea nr. 360/2023 privind sistemul public de pensii, în sensul de a se stabili: a) dacă activitățile care vizează siguranța circulației feroviare sunt cele aferente funcțiilor și meseriilor prevăzute în anexa nr. 1 la Ordinul viceprim-ministrului, ministrul transporturilor și infrastructurii, nr. 1.561/2022 privind lista funcțiilor și meseriilor cu atribuții și responsabilități în siguranța circulației feroviare sau cu metroul;",
+  "b) dacă încadrarea în condiții speciale de muncă a acestor activități este ope legis, fără a fi necesar ca angajatorul să urmeze procedura administrativă prevăzută de Hotărârea Guvernului nr. 1.025/2003 privind metodologia și criteriile de încadrare a persoanelor în locuri de muncă în condiții speciale, cu modificările și completările ulterioare, pentru obținerea avizului de încadrare în condiții speciale și indiferent de tipul de contribuții sociale plătite și de declarațiile nominale de asigurare depuse de angajator;",
+  "c) dacă aceste dispoziții se aplică și perioadelor de activitate prestată anterior intrării în vigoare a Legii nr. 360/2023, indiferent de tipul de contribuții sociale plătite și de declarațiile nominale de asigurare depuse de angajator.",
+  "Obligatorie, potrivit art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 62/2024",
+    "number": "62",
+    "year": "2024",
+    "path": "oug/2024/62"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 360/2023",
+    "number": "360",
+    "year": "2023",
+    "path": "lege/2023/360"
+   },
+   "articles": [
+    {
+     "art": "28",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "l",
+      "d"
+     ]
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul viceprim-ministrului, ministrul transporturilor și infrastructurii, nr. 1.561/2022",
+    "number": "1561",
+    "year": "2022"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinului viceprim-ministrului, ministrul transporturilor și infrastructurii, nr. 1.561/2022",
+    "number": "1561",
+    "year": "2022"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul nr. 1.561/2022",
+    "number": "1561",
+    "year": "2022"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 263/2010",
+    "number": "263",
+    "year": "2010",
+    "path": "lege/2010/263"
+   },
+   "articles": [
+    {
+     "art": "562",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "i"
+     ]
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 59/2000",
+    "number": "59",
+    "year": "2000",
+    "path": "oug/2000/59"
+   },
+   "articles": [
+    {
+     "art": "20",
+     "alin": [
+      "2",
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 234/2019",
+    "number": "234",
+    "year": "2019",
+    "path": "lege/2019/234"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 12/1998",
+    "number": "12",
+    "year": "1998",
+    "path": "oug/1998/12"
+   },
+   "articles": [
+    {
+     "art": "47",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "49",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 581/1998",
+    "number": "581",
+    "year": "1998",
+    "path": "hg/1998/581"
+   },
+   "articles": [
+    {
+     "art": "22",
+     "alin": [
+      "2",
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-12-29",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/305849",
+  "text_sha256": "a3bace811c691f9c04851b7a1c728bc1cc9c5fad0b16cd9c62291e8b7f522644",
+  "catalogue_sha256": "a3bace811c691f9c04851b7a1c728bc1cc9c5fad0b16cd9c62291e8b7f522644",
+  "fetched": "2026-11-03T00:51:40Z",
+  "chars": 30067,
+  "portal_id": "305849",
+  "tip": "DECIZIE"
+ }
+}
