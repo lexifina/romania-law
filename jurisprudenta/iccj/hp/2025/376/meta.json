@@ -1,0 +1,276 @@
+{
+ "key": "iccj-hp-376-2025",
+ "label": "Decizia ÎCCJ nr. 376/2025 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "376",
+ "date": "2025-10-27",
+ "year": "2025",
+ "heading": "DECIZIA nr. 376 din 27 octombrie 2025",
+ "subtitle": "referitoare la vechimea în funcția de judecător/procuror/magistrat-asistent, conform art. 44 alin. (1^1) forma inițială și art. 44 alin. (2) din Legea nr. 303/2004",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "1225",
+  "bis": false,
+  "date": "2025-12-31",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.716/1/2025",
+  "2.328/120/2023"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "86",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Respinge ca inadmisibilă sesizarea formulată de Curtea de Apel Ploiești - Secția I civilă, în Dosarul nr. 2.328/120/2023, privind lămurirea următoarelor chestiuni de drept: dacă perioada în care judecătorul, procurorul sau magistratul-asistent de la Înalta Curte de Casație și Justiție, intrat în profesie anterior datei de 15 iunie 2009, a fost avocat este recunoscută ca vechime în funcția de judecător/procuror/magistrat-asistent, conform art. 44 alin. (1^1) forma inițială și art. 44 alin. (2) din Legea nr. 303/2004, norme declarate neconstituționale prin Decizia nr. 785 din 12 mai 2009 a Curții Constituționale, prin raportare la Hotărârile nr. 122/2005 și nr. 11/2009 ale Consiliului Superior al Magistraturii; dacă perioada în care judecătorul, procurorul sau magistratul-asistent de la Înalta Curte de Casație și Justiție, intrat în profesie anterior datei de 15 iunie 2009, a fost avocat este avută în vedere la încadrarea în grila de salarizare și calculul indemnizației de încadrare ca vechime în funcția de judecător/procuror/magistrat-asistent; dacă principiile nediscriminării și egalității, prevăzute de art. 6 lit. b) și c) din Legea-cadru nr. 153/2017, pot fi invocate doar de către judecătorii/procurorii/magistrații-asistenți care ocupă o funcție similară cu a acestora, astfel cum este definită la art. 7 lit. g) din același act normativ coroborat cu art. 8 din secțiunea a 2-a din capitolul VIII din anexa nr. V la Legea-cadru nr. 153/2017, raportat la art. 86 alin. (2) din Legea nr. 304/2004",
+  "Obligatorie, potrivit art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "86",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 62/2024",
+    "number": "62",
+    "year": "2024",
+    "path": "oug/2024/62"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 303/2004",
+    "number": "303",
+    "year": "2004",
+    "path": "lege/2004/303"
+   },
+   "articles": [
+    {
+     "art": "86",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "33",
+     "alin": [
+      "7"
+     ],
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 303/2022",
+    "number": "303",
+    "year": "2022",
+    "path": "lege/2022/303"
+   },
+   "articles": [
+    {
+     "art": "282",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 137/2000",
+    "number": "137",
+    "year": "2000",
+    "path": "og/2000/137"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2",
+      "3"
+     ],
+     "lit": [
+      "e"
+     ]
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 57/2015",
+    "number": "57",
+    "year": "2015",
+    "path": "oug/2015/57"
+   },
+   "articles": [
+    {
+     "art": "3-1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2025-12-31",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/306244",
+  "text_sha256": "a1d6282ab0b5419a596230948f775026261d2d3d18b7bcd288762b19f1ee3d33",
+  "catalogue_sha256": "a1d6282ab0b5419a596230948f775026261d2d3d18b7bcd288762b19f1ee3d33",
+  "fetched": "2026-11-03T00:51:34Z",
+  "chars": 38717,
+  "portal_id": "306244",
+  "tip": "DECIZIE"
+ }
+}
