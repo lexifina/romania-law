@@ -1,0 +1,43 @@
+REGULAMENTUL DE PUNERE ÎN APLICARE (UE) 2025/2491 AL COMISIEI
+din 10 decembrie 2025
+privind autorizarea unui preparat de 25-hidroxicolecalciferol produs cu Saccharomyces cerevisiae CBS 146008 ca aditiv pentru hrana tuturor speciilor de animale, cu excepția păsărilor de curte, a porcilor și a rumegătoarelor
+(Text cu relevanță pentru SEE)
+COMISIA EUROPEANĂ,
+având în vedere Tratatul privind funcționarea Uniunii Europene,
+având în vedere Regulamentul (CE) nr. 1831/2003 al Parlamentului European și al Consiliului din 22 septembrie 2003 privind aditivii din hrana animalelor (1), în special articolul 9 alineatul (2),
+întrucât:
+(1) Regulamentul (CE) nr. 1831/2003 prevede autorizarea aditivilor destinați hranei animalelor, precum și motivele și procedurile de acordare a acestei autorizații.
+(2) În conformitate cu articolul 7 din Regulamentul (CE) nr. 1831/2003, s-a depus o cerere de autorizare pentru preparatul de 25-hidroxicolecalciferol produs de Saccharomyces cerevisiae CBS 146008. Cererea a fost însoțită de informațiile și de documentele necesare în conformitate cu articolul 7 alineatul (3) din Regulamentul (CE) nr. 1831/2003.
+(3) Cererea vizează autorizarea unui preparat de 25-hidroxicolecalciferol produs de Saccharomyces cerevisiae CBS 146008 ca aditiv pentru hrana tuturor speciilor de animale, cu excepția păsărilor de curte, a porcilor și a rumegătoarelor, solicitându-se ca aditivul respectiv să fie clasificat în categoria „aditivi nutriționali” și în grupa funcțională „vitamine, provitamine și substanțe bine definite din punct de vedere chimic, cu efect similar”.
+(4) Autoritatea Europeană pentru Siguranța Alimentară („autoritatea”) a concluzionat în avizul ei din 20 mai 2025 (2) că, în condițiile de utilizare propuse, preparatul de 25-hidroxicolecalciferol produs de Saccharomyces cerevisiae CBS 146008 este sigur pentru toate speciile de animale, cu excepția păsărilor de curte, a porcilor și a rumegătoarelor, precum și pentru consumatori și pentru mediu. Autoritatea a concluzionat, de asemenea, că aditivul nu este iritant pentru piele sau ochi. Cu toate acestea, din cauza lipsei de informații, nu s-a putut ajunge la nicio concluzie cu privire la potențialul său de a fi sensibilizant pentru piele sau la efectele sale asupra sistemului respirator. Autoritatea a concluzionat, de asemenea, că aditivul este eficace în ceea ce privește acoperirea cerințelor nutriționale ale animalelor țintă. Autoritatea nu a considerat necesară prevederea unor cerințe specifice de monitorizare după introducerea pe piață.
+(5) Laboratorul de referință înființat prin Regulamentul (CE) nr. 1831/2003 a considerat că concluziile și recomandările la care s-a ajuns în cadrul unei evaluări anterioare cu privire la o altă cerere de autorizare a aceluiași aditiv și care au fost verificate de autoritate în avizul său din 5 iulie 2023 (3) sunt valabile și aplicabile cererii actuale. Prin urmare, în conformitate cu articolul 5 alineatul (4) litera (a) din Regulamentul (CE) nr. 378/2005 al Comisiei (4), nu este necesar un raport de evaluare din partea laboratorului de referință.
+(6) Având în vedere cele de mai sus, Comisia consideră că preparatul de 25-hidroxicolecalciferol produs de Saccharomyces cerevisiae CBS 146008 îndeplinește condițiile prevăzute la articolul 5 din Regulamentul (CE) nr. 1831/2003. În consecință, este necesar ca preparatul respectiv să fie autorizat pentru toate speciile de animale, cu excepția păsărilor de curte, a porcilor și a rumegătoarelor. În plus, Comisia consideră că este necesar să fie luate măsuri de protecție adecvate pentru a se preveni efectele adverse asupra sănătății utilizatorilor aditivului.
+(7) Măsurile prevăzute în prezentul regulament sunt conforme cu avizul Comitetului permanent pentru plante, animale, produse alimentare și hrană pentru animale,
+ADOPTĂ PREZENTUL REGULAMENT:
+Articolul 1
+Autorizare
+Se autorizează preparatul specificat în anexă, aparținând categoriei „aditivi nutriționali” și grupei funcționale „vitamine, provitamine și substanțe bine definite din punct de vedere chimic, cu efect similar”, ca aditiv destinat hranei pentru animale, în condițiile stabilite în anexa respectivă.
+Articolul 2
+Data intrării în vigoare
+Prezentul regulament intră în vigoare în a douăzecea zi de la data publicării în Jurnalul Oficial al Uniunii Europene.
+Prezentul regulament este obligatoriu în toate elementele sale și se aplică direct în toate statele membre.
+Adoptat la Bruxelles, 10 decembrie 2025.
+Pentru Comisie
+Președinta
+Ursula VON DER LEYEN
+(1) JO L 268, 18.10.2003, p. 29, ELI: http://data.europa.eu/eli/reg/2003/1831/oj.
+(2) EFSA Journal 2025;23:e9479. https://doi.org/10.2903/j.efsa.2025.9479.
+(3) EFSA Journal 2023;21(8):8168. https://doi.org/10.2903/j.efsa.2023.8168.
+(4) Regulamentul (CE) nr. 378/2005 al Comisiei din 4 martie 2005 de stabilire a normelor de punere în aplicare a Regulamentului (CE) nr. 1831/2003 al Parlamentului European și al Consiliului privind funcțiile și atribuțiile laboratorului comunitar de referință cu privire la cererile de autorizare a unor aditivi pentru hrana animalelor (JO L 59, 5.3.2005, p. 8, ELI: http://data.europa.eu/eli/reg/2005/378/oj).
+ANEXĂ
+Numărul de identificare al aditivului pentru hrana animalelor | Denumirea aditivului | Compoziția, formula chimică, descrierea, metoda analitică | Specia sau categoria de animale | Vârsta maximă | Conținutul minim | Conținutul maxim | Alte dispoziții | Sfârșitul perioadei de autorizare
+mg de substanță activă/kg de hrană completă pentru animale cu un conținut de umiditate de 12 %
+Categorie: aditivi nutriționali. Grupa funcțională: Vitamine, provitamine și substanțe bine definite din punct de vedere chimic cu efect similar
+Subclasificare: vitamina D
+3a670a | 25-Hidroxicolecalciferol | Compoziția aditivului Preparat cu un conținut maxim de 25-hidroxicolecalciferol de 1,25 % Formă solidă Caracterizarea substanței active 25-Hidroxicolecalciferol. Compusul său precursor, 5,7,24-colestatrienol, este produs de Saccharomyces cerevisiae CBS 146008. După extracție, precursorul este convertit chimic în 25-hidroxi-provitamina D3, care este apoi transformată fotochimic în 25-hidroxicolecalciferol. Formula chimică: C27H44O2H2O Numărul CAS: 63283–36–3 Criterii de puritate: — 25-hidroxicolecalciferol > 94 %; — alți derivați de sterol ≤ 1 % fiecare; — eritrozină < 5 mg/kg Metoda analitică (1) Pentru determinarea 25-hidroxicolecalciferolului în aditivul pentru hrana animalelor: cromatografie în fază lichidă ultraperformantă cuplată cu detecție spectrofotometrică (UPLC-UV). Pentru determinarea 25-hidroxicolecalciferolului în preamestecuri: cromatografie în fază lichidă de înaltă performanță cuplată cu detecție spectrofotometrică (HPLC-UV). Pentru determinarea 25-hidroxicolecalciferolului în furajele combinate și în preamestecurile slab concentrate: cromatografie lichidă de înaltă performanță cuplată cu spectrometrie de masă în tandem (HPLC-MS/MS). | Salmonide | | | 0,800 | 1. Aditivul se adaugă în hrana pentru animale prin utilizarea unui preamestec. 2. În instrucțiunile de utilizare a aditivului și a preamestecurilor, se precizează condițiile de depozitare și stabilitatea la tratament termic. 3. Conținutul maxim al combinației de 25-hidroxicolecalciferol cu colecalciferol (vitamina D3) per kg de hrană completă pentru animale: — ≤ 1,500 mg(2) (echivalent cu 60 000 UI de colecalciferol) pentru salmonide, — ≤ 0,075 mg(2) (echivalent cu 3 000 UI de colecalciferol) pentru speciile de pește, altele decât salmonidele și peștii ornamentali, — ≤ 0,050 mg(2) (echivalent cu 2 000 UI de colecalciferol) pentru alte categorii de animale, cu excepția porcinelor, păsărilor de curte și rumegătoarelor. 4. Pentru utilizatorii aditivului și ai preamestecurilor, operatorii din sectorul hranei pentru animale trebuie să stabilească proceduri operaționale și măsuri organizatorice pentru a contracara riscurile potențiale care rezultă din utilizarea lor. În cazul în care riscurile respective nu pot fi eliminate prin astfel de proceduri și de măsuri, aditivul și preamestecurile se utilizează cu echipamente individuale de protecție respiratorie și cutanată. | 31 decembrie 2035
+Specii de pești cu înotătoare, altele decât salmonidele | | | 0,075
+Pești ornamentali | | | 0,075
+Alte specii și categorii de animale, cu excepția porcinelor, păsărilor de curte și rumegătoarelor | | | 0,050
+(1) Detaliile metodelor analitice sunt disponibile la următoarea adresă a laboratorului de referință: https://joint-research-centre.ec.europa.eu/eurl-fa-eurl-feed-additives/eurl-fa-authorisation/eurl-fa-evaluation-reports_en.
+(2) 40 UI de colecalciferol (vitamina D3) = 0,001 mg de colecalciferol (vitamina D3).
+ELI: http://data.europa.eu/eli/reg_impl/2025/2491/oj
