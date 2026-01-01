@@ -1,0 +1,35 @@
+REGULAMENTUL DE PUNERE ÎN APLICARE (UE) 2025/2511 AL COMISIEI
+din 11 decembrie 2025
+privind autorizarea unui preparat de Bacillus paralicheniformis DSM 33902 și Bacillus subtilis DSM 33903 ca aditiv pentru hrana rumegătoarelor pentru producția de lapte/reproducere (titularul autorizației: Chr. Hansen A/S)
+(Text cu relevanță pentru SEE)
+COMISIA EUROPEANĂ,
+având în vedere Tratatul privind funcționarea Uniunii Europene,
+având în vedere Regulamentul (CE) nr. 1831/2003 al Parlamentului European și al Consiliului din 22 septembrie 2003 privind aditivii din hrana animalelor (1), în special articolul 9 alineatul (2),
+întrucât:
+(1) Regulamentul (CE) nr. 1831/2003 prevede autorizarea aditivilor destinați hranei animalelor, precum și motivele și procedurile de acordare a unei astfel de autorizații.
+(2) În conformitate cu articolul 7 din Regulamentul (CE) nr. 1831/2003, a fost depusă o cerere de autorizare a unui preparat de Bacillus paralicheniformis DSM 33902 și Bacillus subtilis DSM 33903. Respectiva cerere a fost însoțită de informațiile și documentele necesare în temeiul articolului 7 alineatul (3) din Regulamentul (CE) nr. 1831/2003.
+(3) Cererea vizează autorizarea preparatului de Bacillus paralicheniformis DSM 33902 și Bacillus subtilis DSM 33903 ca aditiv în hrana vacilor de lapte și a altor rumegătoare pentru producția de lapte, solicitându-se clasificarea aditivului în categoria „aditivi zootehnici” și în grupa funcțională „stabilizatori ai florei intestinale”.
+(4) Autoritatea Europeană pentru Siguranța Alimentară (denumită în continuare „autoritatea”) a concluzionat în avizul său din 9 aprilie 2025 (2) că, în condițiile propuse de utilizare, preparatul de Bacillus paralicheniformis DSM 33902 și Bacillus subtilis DSM 33903 este sigur pentru animalele vizate, consumatori și mediu. Autoritatea a concluzionat, de asemenea, că preparatul de Bacillus paralicheniformis DSM 33902 și Bacillus subtilis DSM 33903 sub ambele forme este considerat neiritant pentru piele și ochi, dar sensibilizant pentru piele și căile respiratorii și orice expunere prin piele și căile respiratorii este considerată un risc. Autoritatea a concluzionat, de asemenea, că preparatul de Bacillus paralicheniformis DSM 33902 și Bacillus subtilis DSM 33903 are potențialul de a fi eficace ca aditiv zootehnic la vacile de lapte și la alte rumegătoare pentru producția de lapte atunci când este utilizat în hrana pentru animale și în apă. Autoritatea a concluzionat, de asemenea, că nivelul minim de utilizare a preparatului în furaje poate fi stabilit la 3,8 × 108 UFC/kg de furaj complet, în timp ce nivelul minim de utilizare în apă poate fi stabilit pe baza dozei zilnice per animal (9,6 × 109 UFC per animal) și a aportului zilnic de apă. Autoritatea nu a considerat necesară prevederea unor cerințe specifice de monitorizare după introducerea pe piață. În plus, autoritatea a verificat raportul privind metodele de analiză a aditivului în hrana pentru animale, prezentat de laboratorul de referință înființat în temeiul Regulamentului (CE) nr. 1831/2003.
+(5) Având în vedere cele de mai sus, Comisia consideră că preparatul de Bacillus paralicheniformis DSM 33902 și Bacillus subtilis DSM 33903 îndeplinește condițiile de autorizare prevăzute la articolul 5 din Regulamentul (CE) nr. 1831/2003. În consecință, utilizarea preparatului respectiv trebuie autorizată pentru rumegătoare pentru producția de lapte/reproducere. În plus, Comisia consideră că este necesar să fie luate măsuri de protecție adecvate pentru a se preveni efectele adverse asupra sănătății utilizatorilor aditivului.
+(6) Măsurile prevăzute în prezentul regulament sunt conforme cu avizul Comitetului permanent pentru plante, animale, produse alimentare și hrană pentru animale,
+ADOPTĂ PREZENTUL REGULAMENT:
+Articolul 1
+Autorizare
+Se autorizează preparatul specificat în anexă, aparținând categoriei „aditivi zootehnici” și grupei funcționale „stabilizatori ai florei intestinale”, ca aditiv destinat hranei pentru animale, în condițiile stabilite în anexa respectivă.
+Articolul 2
+Data intrării în vigoare
+Prezentul regulament intră în vigoare în a douăzecea zi de la data publicării în Jurnalul Oficial al Uniunii Europene.
+Prezentul regulament este obligatoriu în toate elementele sale și se aplică direct în toate statele membre.
+Adoptat la Bruxelles, 11 decembrie 2025.
+Pentru Comisie
+Președinta
+Ursula VON DER LEYEN
+(1) JO L 268, 18.10.2003, p. 29, ELI: http://data.europa.eu/eli/reg/2003/1831/oj.
+(2) EFSA Journal. 2025;23:e9426. https://doi.org/10.2903/j.efsa.2025.9426.
+ANEXĂ
+Numărul de identificare al aditivului pentru hrana animalelor | Numele titularului autorizației | Denumirea aditivului | Compoziția, formula chimică, descrierea, metoda analitică | Specia sau categoria de animale | Vârsta maximă | Conținutul minim | Conținutul maxim | Conținutul minim | Conținutul maxim | Alte dispoziții | Sfârșitul perioadei de autorizare
+UFC/kg de furaj complet cu un conținut de umiditate de 12 % | UFC/l de apă pentru băut
+Categorie: aditivi zootehnici. Grupa funcțională: stabilizatori ai florei intestinale
+4b1896 | Chr. Hansen A/S | Bacillus paralicheniformis DSM 33902 și Bacillus subtilis DSM 33903 | Compoziția aditivului Preparat de Bacillus paralicheniformis DSM 33902 și Bacillus subtilis DSM 33903 conținând Bacillus spp. în total minimum 3,2 × 1010 CFU/g aditiv (raport 1:1) Formă solidă Caracterizarea substanței active Spori viabili de Bacillus paralicheniformis DSM 33902 și Bacillus subtilis DSM 33903. Metodă analitică (1) Pentru numărarea în aditivul furajer, în hrana combinată pentru animale și în apa de băut: metoda prin etalare pe placă Petri care conține agar cu triptonă și soia (EN 15784) Pentru identificare: Metode de secvențiere a ADN-ului sau electroforeză în gel în câmp pulsatil (PFGE) (CEN/TS 17697) | Rumegătoare pentru producția de lapte/reproducere | — | 3,8 × 10 8 | — | 7,4 × 10 7 | — | 1. Aditivul poate fi utilizat prin intermediul apei de băut. 2. În instrucțiunile de utilizare a aditivului și a preamestecurilor, se menționează condițiile de depozitare, stabilitatea la tratament termic și stabilitatea în apa de băut. 3. Atunci când este utilizat prin intermediul apei de băut, aditivul se utilizează asigurând o doză minimă de: 9,6 × 109 UFC/animal/zi. 4. Pentru utilizatorii aditivului și ai preamestecurilor, operatorii din sectorul hranei pentru animale trebuie să stabilească proceduri operaționale și măsuri organizatorice pentru a contracara riscurile potențiale care rezultă din utilizarea lor. În cazul în care riscurile respective nu pot fi eliminate prin astfel de proceduri și de măsuri, aditivul și preamestecurile se utilizează cu echipamente individuale de protecție respiratorie și cutanată. | 1 ianuarie 2036
+(1) Detaliile metodelor analitice sunt disponibile la următoarea adresă a laboratorului de referință: https://joint-research-centre.ec.europa.eu/eurl-fa-eurl-feed-additives/eurl-fa-authorisation/eurl-fa-evaluation-reports_en.
+ELI: http://data.europa.eu/eli/reg_impl/2025/2511/oj
