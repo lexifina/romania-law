@@ -20,6 +20,7 @@ Initiator: Guvernul României.
 - 2025-12-17: adopted by the Senate
 - 2025-12-23: returned for re-examination
 - 2025-12-29: sent for promulgation
+- 2026-01-05: promulgated, becomes Legea nr. 3/2026; published in the Monitorul Oficial; documents published: Document (day not given by the bill file), Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -37,3 +38,12 @@ Initiator: Guvernul României.
 - 2024-10-07: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L489AM.PDF
 - 2025-10-20: Adresă privind sesizarea CCR (AXS): [axs-ab941f8a.md](axs-ab941f8a.md); official file https://www.senat.ro/legis/PDF/2024/24L489AXS.PDF
 - 2025-10-20: Forma trimisă la promulgare (LP): [lp-596d040a.md](lp-596d040a.md); official file https://www.senat.ro/legis/PDF/2024/24L489LP.PDF
+- 2026-01-05: Document (RX1): [rx1-b5793907.md](rx1-b5793907.md); official file https://www.senat.ro/legis/PDF/2024/24L489RX1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-01-05: Document (XA1): [xa1-0ca7267f.md](xa1-0ca7267f.md); official file https://www.senat.ro/legis/PDF/2024/24L489XA1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-01-05: Document (CX1): [cx1-e87dbe91.md](cx1-e87dbe91.md); official file https://www.senat.ro/legis/PDF/2024/24L489CX1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-01-05: Document (XD1): [xd1-c12cf03b.md](xd1-c12cf03b.md); official file https://www.senat.ro/legis/PDF/2024/24L489XD1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-01-05: Document (SX1): [sx1-86925b87.md](sx1-86925b87.md); official file https://www.senat.ro/legis/PDF/2024/24L489SX1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-01-05: Document (XXS1): [xxs1-c9ce6cf5.md](xxs1-c9ce6cf5.md); official file https://www.senat.ro/legis/PDF/2024/24L489XXS1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-01-05: Document (PX1): [px1-d3b8c228.md](px1-d3b8c228.md); official file https://www.senat.ro/legis/PDF/2024/24L489PX1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-01-05: Decret de promulgare (DP): [dp-9ce7e39f.md](dp-9ce7e39f.md); official file https://www.senat.ro/legis/PDF/2024/24L489DP.PDF
+- 2026-01-05: Forma promulgată (FP): [fp-0ec78bcf.md](fp-0ec78bcf.md); official file https://www.senat.ro/legis/PDF/2024/24L489FP.PDF
