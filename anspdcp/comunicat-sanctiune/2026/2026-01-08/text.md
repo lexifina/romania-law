@@ -1,0 +1,15 @@
+Amendă pentru încălcarea Legii nr. 506/2004 și a RGPD
+Autoritatea Națională de Supraveghere a Prelucrării Datelor cu Caracter Personal a finalizat, în anul 2025, o investigație la operatorul Money Seeds S.R.L. și a constatat încălcarea dispozițiilor art. 12 alin. (1) și (2) din Legea nr. 506/2004 privind prelucrarea datelor cu caracter personal și protecția vieții private în sectorul comunicațiilor electronice, precum și a dispozițiilor art. 12 - 14 din Regulamentul (UE) 679 /2016 .
+Ca atare, operatorul a fost sancționat contravențional cu:
+amendă în cuantum de 5.000 lei pentru încălcarea dispozițiilor art. 12 alin. (1) și (2) din Legea nr. 506/2004.
+amendă în cuantum de 10.178 lei (echivalentul sumei de 2000 euro) pentru încălcarea dispozițiilor art. 12-14 din Regulamentul (UE) 679/2016.
+Investigația a fost demarată ca urmare a unei plângeri a unei persoane fizice, care a reclamat că operatorul Money Seeds S.R.L. i-a transmis pe adresa de e-mail mesaje comerciale nesolicitate, deși s-a opus primirii lor.
+Petentul a solicitat în mod repetat ștergerea datelor sale, dar nu a primit răspuns.
+În cursul investigației, s-a constatat că operatorul a prelucrat adresa de e-mail a petentului în vederea transmiterii de comunicări comerciale, deși acesta își exprimase anterior opoziția.
+De asemenea, operatorul nu a oferit petentului posibilitatea de a se opune printr-un mijloc simplu și gratuit față de utilizarea adresei sale de e-mail în scop de marketing direct, încălcând astfel prevederile art. 12 alin. (1) și (2) din Legea nr. 506/2004.
+În același timp, s-a constatat că operatorul nu a prezentat dovezi cu privire la asigurarea unei informări complete și corecte a persoanelor vizate conform art. 13-14 din Regulamentul (UE) 679/2016, prin raportare la dispozițiile art. 12 același act normativ.
+În același timp, în temeiul art. 58 alin. (2) lit. d) din Regulamentul (UE) 679/2016, s-au dispus operatorului următoarele măsuri corective :
+de a transmite un răspuns la cererile petentului prin care acesta și-a exercitat dreptul de ștergere și opoziție;
+de a asigura conformitatea cu Regulamentul (UE) 679/2016 a operațiunilor de prelucrare a datelor personale, prin adoptarea măsurilor tehnice și organizatorice necesare, inclusiv sub aspectul revizuirii bazei de date, a aplicațiilor informatice folosite și a instruirii corespunzătoare a personalului, astfel încât prelucrarea datelor personale în scop de marketing direct prin transmiterea de comunicări comerciale prin servicii de comunicații electronice destinate publicului (cum ar fi telefon, sms, e-mail) să se efectueze cu respectarea dispozițiilor Legii nr. 506/2004 și ale Regulamentului (UE) 679/2016, implicit în ceea ce privește exprimarea opoziției, asigurarea unei informări corecte și complete, prin furnizarea tuturor informațiilor prevăzute de art. 13-14 din Regulamentul (UE) 679/2016 și cu respectarea art. 12 din același act normativ, precum și gestionarea și soluționarea corespunzătoare în termen legal a cererilor persoanelor vizate.
+Direcția juridică și comunicare
+A.N.S.P.D.C.P
