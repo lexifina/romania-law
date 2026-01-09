@@ -1,0 +1,9 @@
+# HCL Plopu nr. 4/2026
+
+Text not yet included: no document of it is held. It will be added when it is.
+
+- Council: Consiliul Local al Comunei Plopu
+- Decision: nr. 4/2026
+- Adopted: 2026-01-09
+- Title: privind APEROBAREA SALARIULUI DE BAZA PTR. FUNCTIONARUL PUBLIC DE EXECUTIE, REFERENT (ASISTENT SOCIAL), GRAD PRTOFESIONAL 'SUPERIOR' DIN CADRUL COMPARTIMENTULUI 'ASISTENTA SOCIALA SI AUTORITATE TUTELARA' AL APARATULUI DE SPECIALITATE AL PRIMARULUI COMUNEI PLOPU, INCEPAND CU DATA DE 01 AUGUST 2025
+- Record: https://emol.ro/plopu-ph/registru-hcl/246105
