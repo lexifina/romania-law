@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2025-12-17: adopted by the Chamber of Deputies
 - 2025-12-22: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-12-24: sent for promulgation
+- 2026-01-09: promulgated, becomes Legea nr. 7/2026; published in the Monitorul Oficial; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -33,3 +34,5 @@ Initiator: Guvernul României.
 - 2024-06-25: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L338AM.PDF
 - 2025-12-22: Adresă privind sesizarea CCR (AXS): [axs-d5374396.md](axs-d5374396.md); official file https://www.senat.ro/legis/PDF/2024/24L338AXS.PDF
 - 2025-12-22: Forma trimisă la promulgare (LP): [lp-cc86d50f.md](lp-cc86d50f.md); official file https://www.senat.ro/legis/PDF/2024/24L338LP.PDF
+- 2026-01-09: Decret de promulgare (DP): [dp-3e893d14.md](dp-3e893d14.md); official file https://www.senat.ro/legis/PDF/2024/24L338DP.PDF
+- 2026-01-09: Forma promulgată (FP): [fp-77caae6f.md](fp-77caae6f.md); official file https://www.senat.ro/legis/PDF/2024/24L338FP.PDF
