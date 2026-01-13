@@ -1,0 +1,16 @@
+# Anexa nr. 2 (Anexa nr. 10 la Ordinul nr. 1.030/2009)
+MINISTERUL SĂNĂTĂȚII
+Autoritatea competentă.......
+Aviz temporar de funcționare
+- model -
+La cererea................., cu sediul în..............., înregistrată cu nr..........., în urma examinării documentației prezentate și a evaluării obiectivului........... din................. str.............., județul.............., de către......(numele și prenumele specialistului)........., care a întocmit Referatul de evaluare nr....... din......./20...., a rezultat că sunt îndeplinite prevederile reglementărilor sanitare în vigoare:............................
+Rămân de îndeplinit:.........................
+În baza Hotărârii Guvernului nr. 971/2023 pentru aprobarea Normelor de supraveghere, monitorizare și inspecție sanitară a calității apei potabile, se acordă:
+AVIZ TEMPORAR DE FUNCȚIONARE
+Nr........ din............/200... pentru obiectivul:..............., situat în.............., având ca obiect de activitate (cod CAEN):......., structura funcțională..........
+Autoritatea competentă,..........................
+Semnătura și ștampila
+NOTE: Titularul avizului este obligat să aplice și să respecte normele de igienă și sănătate publică în vigoare.
+Avizul temporar de funcționare este valabil timp de un an de la data eliberării.
+Prezentul aviz este primul [], al doilea [], al treilea [] aviz temporar de funcționare consecutiv.
+-----
