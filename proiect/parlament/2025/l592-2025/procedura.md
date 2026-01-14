@@ -17,6 +17,7 @@ Initiator: Guvernul României.
 - 2025-12-22: adopted by the Senate; documents published: Aviz comisie, Forma adoptată de Senat
 - 2025-12-23: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-12-29: sent for promulgation
+- 2026-01-14: promulgated, becomes Legea nr. 19/2026; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -30,3 +31,5 @@ Initiator: Guvernul României.
 - 2025-12-22: Forma adoptată de Senat (FS): [fs-2c796a9c.md](fs-2c796a9c.md); official file https://www.senat.ro/legis/PDF/2025/25L592FS.PDF
 - 2025-12-23: Adresă privind sesizarea CCR (AXS): [axs-76cd0f1e.md](axs-76cd0f1e.md); official file https://www.senat.ro/legis/PDF/2025/25L592AXS.PDF
 - 2025-12-23: Forma trimisă la promulgare (LP): [lp-9e612034.md](lp-9e612034.md); official file https://www.senat.ro/legis/PDF/2025/25L592LP.PDF
+- 2026-01-14: Decret de promulgare (DP): [dp-a7b1abea.md](dp-a7b1abea.md); official file https://www.senat.ro/legis/PDF/2025/25L592DP.PDF
+- 2026-01-14: Forma promulgată (FP): [fp-d3a55ef5.md](fp-d3a55ef5.md); official file https://www.senat.ro/legis/PDF/2025/25L592FP.PDF
