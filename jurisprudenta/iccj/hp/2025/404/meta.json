@@ -1,0 +1,170 @@
+{
+ "key": "iccj-hp-404-2025",
+ "label": "Decizia ÎCCJ nr. 404/2025 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "404",
+ "date": "2025-11-17",
+ "year": "2025",
+ "heading": "DECIZIA nr. 404 din 17 noiembrie 2025",
+ "subtitle": "referitoare la dezlegarea unei chestiuni de drept privind pensia militară",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "20",
+  "bis": false,
+  "date": "2026-01-14",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "851/1/2025",
+  "3.315/110/2021"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 223/2015",
+    "number": "223",
+    "year": "2015",
+    "path": "lege/2015/223"
+   },
+   "articles": [
+    {
+     "art": "60",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Curtea de Apel Bacău - Secția I civilă în Dosarul nr. 3.315/110/2021*, în vederea pronunțării unei hotărâri prealabile pentru dezlegarea următoarei chestiuni de drept:",
+  "Dacă pensia militară calculată potrivit art. 122 din Legea nr. 223/2015 privind pensiile militare de stat, cu modificările și completările ulterioare - prin modul de calcul prevăzut de Legea nr. 263/2010 privind sistemul unitar de pensii publice, cu modificările și completările ulterioare, pe principiul contributivității și care are un cuantum brut mai mare decât pensia calculată în baza Legii nr. 223/2015 - este supusă plafonării prevăzute de art. 60 din Legea nr. 223/2015, potrivit căruia pensia netă nu poate fi mai mare decât media soldelor/salariilor lunare nete corespunzătoare soldelor/salariilor lunare brute cuprinse în baza de calcul.",
+  "Obligatorie, potrivit art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 62/2024",
+    "number": "62",
+    "year": "2024",
+    "path": "oug/2024/62"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 223/2015",
+    "number": "223",
+    "year": "2015",
+    "path": "lege/2015/223"
+   },
+   "articles": [
+    {
+     "art": "60",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "122",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 22
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 263/2010",
+    "number": "263",
+    "year": "2010",
+    "path": "lege/2010/263"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2026-01-14",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/306395",
+  "text_sha256": "9c5e101f168c31963c290d01ca15093117b0b2ab1715ab37553caa5138756d47",
+  "catalogue_sha256": "9c5e101f168c31963c290d01ca15093117b0b2ab1715ab37553caa5138756d47",
+  "fetched": "2026-11-06T03:55:52Z",
+  "chars": 25371,
+  "archive": {
+   "source": "commoncrawl",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/306395",
+   "timestamp": "20260213094954",
+   "crawl": "CC-MAIN-2026-08",
+   "filename": "crawl-data/CC-MAIN-2026-08/segments/1770395506298.48/warc/CC-MAIN-20260213091623-20260213121623-00832.warc.gz",
+   "offset": "259118324",
+   "length": "29206",
+   "sha256": "7dec78d3ebd069dccbe13901116c777918416fa6664978be2f42133ee2b85ac6"
+  },
+  "portal_id": "306395",
+  "tip": "DECIZIE"
+ }
+}
