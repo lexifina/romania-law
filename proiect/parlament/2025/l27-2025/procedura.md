@@ -20,6 +20,7 @@ Initiator: Membri ai Parlamentului.
 - 2025-12-17: adopted by the Senate; documents published: Forma adoptată de Senat
 - 2025-12-22: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-12-29: sent for promulgation
+- 2026-01-14: promulgated, becomes Legea nr. 17/2026; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -34,3 +35,5 @@ Initiator: Membri ai Parlamentului.
 - 2025-12-17: Forma adoptată de Senat (FS): [fs-e7288b38.md](fs-e7288b38.md); official file https://www.senat.ro/legis/PDF/2025/25L027FS.PDF
 - 2025-12-22: Adresă privind sesizarea CCR (AXS): [axs-0e008579.md](axs-0e008579.md); official file https://www.senat.ro/legis/PDF/2025/25L027AXS.PDF
 - 2025-12-22: Forma trimisă la promulgare (LP): [lp-6b253541.md](lp-6b253541.md); official file https://www.senat.ro/legis/PDF/2025/25L027LP.PDF
+- 2026-01-14: Decret de promulgare (DP): [dp-106f36eb.md](dp-106f36eb.md); official file https://www.senat.ro/legis/PDF/2025/25L027DP.PDF
+- 2026-01-14: Forma promulgată (FP): [fp-7828f28a.md](fp-7828f28a.md); official file https://www.senat.ro/legis/PDF/2025/25L027FP.PDF
