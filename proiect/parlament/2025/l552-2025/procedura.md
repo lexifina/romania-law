@@ -20,6 +20,7 @@ Initiator: Guvernul României.
 - 2025-12-23: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-12-29: sent for promulgation
 - 2026-01-14: promulgated, becomes Legea nr. 21/2026; documents published: Decret de promulgare, Forma promulgată
+- 2026-01-15: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -37,3 +38,6 @@ Initiator: Guvernul României.
 - 2025-12-23: Forma trimisă la promulgare (LP): [lp-fc78940f.md](lp-fc78940f.md); official file https://www.senat.ro/legis/PDF/2025/25L552LP.PDF
 - 2026-01-14: Decret de promulgare (DP): [dp-04fae39a.md](dp-04fae39a.md); official file https://www.senat.ro/legis/PDF/2025/25L552DP.PDF
 - 2026-01-14: Forma promulgată (FP): [fp-fab322ca.md](fp-fab322ca.md); official file https://www.senat.ro/legis/PDF/2025/25L552FP.PDF
+- 2026-01-15: Document (TX): [tx-4b953b22.md](tx-4b953b22.md); official file https://www.senat.ro/legis/PDF/2025/25L552TX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-01-15: Document (AL): [al-536c7ebd.md](al-536c7ebd.md); official file https://www.senat.ro/legis/PDF/2025/25L552AL.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-01-15: Document (TC): [tc-f82e9a79.md](tc-f82e9a79.md); official file https://www.senat.ro/legis/PDF/2025/25L552TC.PDF (its day is not given by the bill file: shown from the last stage held)
