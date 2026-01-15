@@ -22,6 +22,7 @@ Initiator: Membri ai Parlamentului.
 - 2025-12-22: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-12-29: sent for promulgation
 - 2026-01-14: promulgated, becomes Legea nr. 18/2026; documents published: Decret de promulgare, Forma promulgată
+- 2026-01-15: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -40,3 +41,7 @@ Initiator: Membri ai Parlamentului.
 - 2025-12-22: Forma trimisă la promulgare (LP): [lp-32e8a76c.md](lp-32e8a76c.md); official file https://www.senat.ro/legis/PDF/2025/25L420LP.PDF
 - 2026-01-14: Decret de promulgare (DP): [dp-bc3f517b.md](dp-bc3f517b.md); official file https://www.senat.ro/legis/PDF/2025/25L420DP.PDF
 - 2026-01-14: Forma promulgată (FP): [fp-28067d28.md](fp-28067d28.md); official file https://www.senat.ro/legis/PDF/2025/25L420FP.PDF
+- 2026-01-15: Document (CF): [cf-649d7a91.md](cf-649d7a91.md); official file https://www.senat.ro/legis/PDF/2025/25L420CF.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-01-15: Document (AG1): [ag1-12e17294.md](ag1-12e17294.md); official file https://www.senat.ro/legis/PDF/2025/25L420AG1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-01-15: Document (AG2): not held as text; official file https://www.senat.ro/legis/PDF/2025/25L420AG2.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-01-15: Document (AJ): not held as text; official file https://www.senat.ro/legis/PDF/2025/25L420AJ.PDF (its day is not given by the bill file: shown from the last stage held)
