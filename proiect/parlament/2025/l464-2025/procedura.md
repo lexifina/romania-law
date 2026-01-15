@@ -20,6 +20,7 @@ Initiator: Membri ai Parlamentului.
 - 2025-12-23: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-12-29: sent for promulgation
 - 2026-01-14: promulgated, becomes Legea nr. 10/2026; documents published: Decret de promulgare, Forma promulgată
+- 2026-01-15: published in the Monitorul Oficial
 
 ## Documents
 
