@@ -19,6 +19,7 @@ Initiator: Membri ai Parlamentului.
 - 2025-12-23: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-12-29: sent for promulgation
 - 2026-01-14: promulgated, becomes Legea nr. 12/2026; documents published: Decret de promulgare, Forma promulgată
+- 2026-01-15: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -37,3 +38,5 @@ Initiator: Membri ai Parlamentului.
 - 2025-12-23: Forma trimisă la promulgare (LP): [lp-58d1664a.md](lp-58d1664a.md); official file https://www.senat.ro/legis/PDF/2025/25L288LP.PDF
 - 2026-01-14: Decret de promulgare (DP): [dp-a5a9e8c3.md](dp-a5a9e8c3.md); official file https://www.senat.ro/legis/PDF/2025/25L288DP.PDF
 - 2026-01-14: Forma promulgată (FP): [fp-c0a45202.md](fp-c0a45202.md); official file https://www.senat.ro/legis/PDF/2025/25L288FP.PDF
+- 2026-01-15: Document (AG1): not held as text; official file https://www.senat.ro/legis/PDF/2025/25L288AG1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-01-15: Document (AG2): not held as text; official file https://www.senat.ro/legis/PDF/2025/25L288AG2.PDF (its day is not given by the bill file: shown from the last stage held)
