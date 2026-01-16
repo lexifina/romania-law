@@ -1,0 +1,19 @@
+# Propunere legislativă L140/2026
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 121/2026 (`legea-121-2026`).
+
+Propunere legislativă pentru modificarea și completarea Legii audiovizualului nr.504/2002
+
+Initiator: Membri ai Parlamentului.
+
+## Stages published so far
+
+- 2026-01-16: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
+
+## Documents
+
+- 2026-01-16: Adresă de înaintare a inițiativei (AD): [ad-3fe1978e.md](ad-3fe1978e.md); official file https://www.senat.ro/legis/PDF/2026/26L140AD.PDF
+- 2026-01-16: Forma inițiatorului (FG): [fg-adf56b72.md](fg-adf56b72.md); official file https://www.senat.ro/legis/PDF/2026/26L140FG.PDF
+- 2026-01-16: Expunere de motive (EM): [em-1c80ae3b.md](em-1c80ae3b.md); official file https://www.senat.ro/legis/PDF/2026/26L140EM.PDF
