@@ -1,0 +1,639 @@
+{
+ "key": "iccj-hp-412-2025",
+ "label": "Decizia ÎCCJ nr. 412/2025 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "412",
+ "date": "2025-11-17",
+ "year": "2025",
+ "heading": "DECIZIA nr. 412 din 17 noiembrie 2025",
+ "subtitle": "referitoare la interpretarea dispozițiilor art. 14 alin. (10) și art. 40 alin. (5) din Legea cadastrului și publicității imobiliare nr. 7/1996, republicată, cu modificările și completările ulterioare",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "35",
+  "bis": false,
+  "date": "2026-01-19",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "3.036/1/2024",
+  "4.312/176/2018"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea cadastrului și publicității imobiliare nr. 7/1996",
+    "number": "7",
+    "year": "1996",
+    "path": "lege/1996/7"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "40",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite sesizarea formulată de Tribunalul Alba - Secția I civilă în Dosarul nr. 4.312/176/2018 în vederea pronunțării unei hotărâri prealabile pentru dezlegarea unei chestiuni de drept.",
+  "În interpretarea dispozițiilor art. 14 alin. (10) și art. 40 alin. (5) din Legea cadastrului și publicității imobiliare nr. 7/1996, republicată, cu modificările și completările ulterioare, stabilește următoarele:",
+  "Sintagma „în caz de discrepanță, prevalează situația tehnică identificată în urma măsurătorilor efectuate“ semnifică faptul că, ulterior finalizării lucrărilor de înregistrare sistematică și deschiderii din oficiu a cărților funciare pentru întreaga unitate administrativ-teritorială, prin efectul legii, în toate situațiile, își încetează valabilitatea numai mențiunile privind descrierea imobilelor cuprinse în actele de proprietate sau în titlurile de proprietate emise în baza legilor de restituire a proprietăților funciare, precum și planurile și orice alte evidențe cadastrale și de publicitate imobiliară anterioare.",
+  "Obligatorie, potrivit art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 7/1996",
+    "number": "7",
+    "year": "1996",
+    "path": "lege/1996/7"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": [
+      "10",
+      "1",
+      "4",
+      "7",
+      "5",
+      "8",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "1",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "9",
+     "alin": [
+      "23"
+     ],
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": [
+      "10",
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "19",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "12"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "40",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "6",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "89",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "214",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 96
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea fondului funciar nr. 18/1991",
+    "number": "18",
+    "year": "1991",
+    "path": "lege/1991/18"
+   },
+   "articles": [
+    {
+     "art": "560",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "563",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "27",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "52",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituția României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "136",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "563",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "555",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "557",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "565",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "907",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "914",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "885",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "908",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "560",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "876",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "877",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "878",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "879",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "880",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "881",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "882",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "883",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "884",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "886",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "887",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "888",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "889",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "890",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "891",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "892",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "893",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "894",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "895",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "896",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "897",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "898",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "899",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "900",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "901",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "902",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "903",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "904",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "905",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "906",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "909",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "910",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "911",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "912",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "913",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "915",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "556",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 24
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârii Guvernului nr. 890/2005",
+    "number": "890",
+    "year": "2005",
+    "path": "hg/2005/890"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinului directorului general al Agenției Naționale de Cadastru și Publicitate Imobiliară nr. 700/2014",
+    "number": "700",
+    "year": "2014"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "22",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "decret-lege",
+    "label": "Decretului-lege nr. 115/1938",
+    "number": "115",
+    "year": "1938",
+    "path": "decret-lege/1938/115"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 71/2011",
+    "number": "71",
+    "year": "2011",
+    "path": "lege/2011/71"
+   },
+   "articles": [
+    {
+     "art": "56",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 185/2018",
+    "number": "185",
+    "year": "2018",
+    "path": "lege/2018/185"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 133/2012",
+    "number": "133",
+    "year": "2012",
+    "path": "lege/2012/133"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretului nr. 2.142/1930",
+    "number": "2142",
+    "year": "1930",
+    "path": "decret/1930/2142"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2026-01-19",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/306484",
+  "text_sha256": "3e46b7dd9035df013c5d80835c38be18d253626533c1cc51cb807ae8ecca3892",
+  "catalogue_sha256": "3e46b7dd9035df013c5d80835c38be18d253626533c1cc51cb807ae8ecca3892",
+  "fetched": "2026-11-03T16:00:24Z",
+  "chars": 119191,
+  "portal_id": "306484",
+  "tip": "DECIZIE"
+ }
+}
