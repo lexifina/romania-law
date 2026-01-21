@@ -1,0 +1,546 @@
+{
+ "key": "iccj-hp-385-2025",
+ "label": "Decizia ÎCCJ nr. 385/2025 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "385",
+ "date": "2025-10-27",
+ "year": "2025",
+ "heading": "DECIZIA nr. 385 din 27 octombrie 2025",
+ "subtitle": "referitoare la aplicarea art. 1 alin. (2) coroborate cu cele ale art. 1 alin. (3) din Ordonanța de urgență a Guvernului nr. 62/2024, la interpretarea și aplicarea dispozițiilor art. 144 alin. (1)-(2) și alin. (5)-(6) din Legea nr. 360/2023, art. 112 alin. (3) din Normele aprobate prin Hotărârea Guvernului nr. 181/2024, art. 157 alin. (2) din Legea nr. 127/2019, Ordinului ministrului muncii și protecției sociale nr. 108/2021 și Ordinului ministrului muncii și protecției sociale nr. 487/2021, coroborate cu cele ale art. 4 din Legea nr. 24/2000, recalcularea pensiilor",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "43",
+  "bis": false,
+  "date": "2026-01-21",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.751/1/2025"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 62/2024",
+    "number": "62",
+    "year": "2024",
+    "path": "oug/2024/62"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2",
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 360/2023",
+    "number": "360",
+    "year": "2023",
+    "path": "lege/2023/360"
+   },
+   "articles": [
+    {
+     "art": "144",
+     "alin": [
+      "1",
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "103",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "127",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "128",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": [
+      "d"
+     ]
+    },
+    {
+     "art": "88",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "83",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "85",
+     "alin": [
+      "1",
+      "7"
+     ],
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": [
+      "h",
+      "q"
+     ]
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "42",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "86",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 127/2019",
+    "number": "127",
+    "year": "2019",
+    "path": "lege/2019/127"
+   },
+   "articles": [
+    {
+     "art": "157",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinului ministrului muncii și protecției sociale nr. 108/2021",
+    "number": "108",
+    "year": "2021"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinului ministrului muncii și protecției sociale nr. 487/2021",
+    "number": "487",
+    "year": "2021"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "22",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibile, sesizările conexate formulate de Tribunalul Mureș - Secția civilă în dosarele nr. 6.832/102/2024, nr. 6.457/102/2024, nr. 8.166/102/2024, nr. 6.844/102/2024, nr. 6.841/102/2024, nr. 6.455/102/2024, nr. 6.469/102/2024 și nr. 8.283/102/2024, în vederea pronunțării unei hotărâri prealabile cu privire la următoarele întrebări: (i)",
+  "Dacă prevederile art. 1 alin. (2) coroborate cu cele ale art. 1 alin. (3) din Ordonanța de urgență a Guvernului nr. 62/2024 se aplică: a)",
+  "„personalului plătit din fonduri publice“ care cumulează această calitate cu cea de beneficiar al drepturilor la pensie sau/și celor privind alte prestații de asigurări sociale litigioase, care fac obiectul dosarului instanței de trimitere;",
+  "b) sau/și fostului „personal plătit din fonduri publice“ căruia i-a încetat această calitate și ulterior a devenit beneficiar al drepturilor la pensie sau/și celor privind alte prestații de asigurări sociale litigioase, care fac obiectul dosarului instanței de trimitere;",
+  "c) sau/și beneficiarilor drepturilor la pensie sau/și celor privind alte prestații de asigurări sociale litigioase, care fac obiectul dosarului instanței de trimitere, numai din momentul în care acești beneficiari au început să cumuleze dreptul litigios cu calitatea de „personal plătit din fonduri publice“;",
+  "d) sau/și beneficiarilor drepturilor la pensie sau/și celor privind alte prestații de asigurări sociale litigioase, care fac obiectul dosarului instanței de trimitere, numai dacă acești beneficiari au realizat întregul stagiu necesar pentru acordarea dreptului litigios în calitate de „personal plătit din fonduri publice“;",
+  "e) sau/și beneficiarilor drepturilor la pensie sau/și celor privind alte prestații de asigurări sociale litigioase, care fac obiectul dosarului instanței de trimitere, dacă acești beneficiari au realizat cel puțin o parte din stagiul necesar pentru acordarea dreptului litigios în calitate de „personal plătit din fonduri publice“;",
+  "f) sau/și altor justițiabili, ipoteză în care să fie dezlegată problema conținutului și limitelor concrete privind persoanele cărora li se aplică textul art. 1 alin. (2) coroborat cu cel al art. 1 alin. (3) din Ordonanța de urgență a Guvernului nr. 62/2024 ?",
+  "(ii)",
+  "Dacă, în interpretarea și aplicarea dispozițiilor art. 144 alin. (1)-(2) și alin. (5)-(6) din Legea nr. 360/2023, art. 112 alin. (3) din Normele aprobate prin Hotărârea Guvernului nr. 181/2024, art. 157 alin. (2) din Legea nr. 127/2019, Ordinului ministrului muncii și protecției sociale nr. 108/2021 și Ordinului ministrului muncii și protecției sociale nr. 487/2021, coroborate cu cele ale art. 4 din Legea nr. 24/2000, recalcularea pensiilor, sub aspectul stabilirii cuantumului „punctajelor anuale realizate“, presupune o recalculare efectivă a acestor punctaje, conform legislației care le guvernează, printr-o verificare și valorificare a tuturor datelor din dosarul de pensie, sau presupune o recalculare efectivă a acestor punctaje numai printr-o verificare și valorificare a datelor din baza de date constituită în urma procesului de evaluare a pensiilor potrivit ordinelor mai sus menționate?",
+  "(iii)",
+  "În interpretarea și aplicarea dispozițiilor art. 144 alin. (1)-(2) și alin. (5)-(6) din Legea nr. 360/2023, art. 112 alin. (3) din Normele aprobate prin Hotărârea Guvernului nr. 181/2024, art. 157 alin. (2) din Legea nr. 127/2019, Ordinului ministrului muncii și protecției sociale nr. 108/2021 și Ordinului ministrului muncii și protecției sociale nr. 487/2021, care este actul juridic verificabil emis de casele teritoriale de pensii sau documentul verificabil eliberat de către acestea, echivalent unui tabel și unui buletin de calcul, care atestă și preia în concret datele din baza de date constituită în urma procesului de evaluare a pensiilor conform ordinelor mai sus menționate, act/document care trebuie să stea la baza emiterii deciziilor de recalculare a pensiilor în temeiul art. 144 alin. (1)-(2) și (5)-(6) din Legea nr. 360/2023 și care să poată fi analizat de instanța învestită cu judecarea contestațiilor împotriva acestor decizii de recalculare, potrivit art. 127 - 128 din Legea nr. 360/2023 ?",
+  "(iv)",
+  "Dacă, în interpretarea și aplicarea dispozițiilor art. 144 alin. (1)-(2) și alin. (5)-(6) din Legea nr. 360/2023, art. 112 alin. (3) din Normele aprobate prin Hotărârea Guvernului nr. 181/2024, art. 157 alin. (2) din Legea nr. 127/2019, Ordinului ministrului muncii și protecției sociale nr. 108/2021, Ordinului ministrului muncii și protecției sociale nr. 487/2021, coroborate cu cele ale art. 103 și art. 127 - 128 din Legea nr. 360/2023 și ale art. 1 alin. (2), art. 5 alin. (1)-(3) și art. 22 alin. (2) din Codul de procedură civilă, cu ocazia cercetării legalității și temeiniciei deciziilor de recalculare a pensiilor, emise în temeiul art. 144 alin. (1)-(2) și (5)-(6) din Legea nr. 360/2023, instanțele de judecată sunt competente și au obligația de a verifica realitatea și exactitatea datelor din baza de date constituită în urma procesului de evaluare a pensiilor potrivit ordinelor mai sus menționate, date pretins a fi stat la baza emiterii deciziilor contestate respective?",
+  "(v)",
+  "Dacă, în interpretarea și aplicarea dispozițiilor art. 2 lit. d), art. 144 alin. (1)-(2) și alin. (5)-(6), art. 88, art. 83, art. 85 alin. (1)-(2) și alin. (7) din Legea nr. 360/2023 și art. 112 alin. (2) din Normele aprobate prin Hotărârea Guvernului nr. 181/2024, coroborate cu cele ale art. 4 din Legea nr. 24/2000, la recalcularea reglementată de art. 144 alin. (1)-(2) și (5)-(6) din Legea nr. 360/2023, „numărul total de puncte realizat“ poate cuprinde și punctele suplimentare prevăzute de art. 88 din Legea nr. 360/2023 care se adaugă la punctajul lunar calculat conform art. 85 alin. (7) din aceeași lege, pentru pensionarii care îndeplinesc condițiile legale de acordare a acestor puncte suplimentare?",
+  "(vi)",
+  "Dacă, în interpretarea și aplicarea dispozițiilor art. 2 lit. b)- d), art. 3 lit. h)- i), lit. l) și lit. q)- r), art. 13 - 15, art. 39 alin. (1), art. 42, art. 86, art. 144 alin. (1)-(2) și alin. (5)-(6), art. 83, art. 85 alin. (1) și alin. (3)-(6), art. 94 alin. (5)-(6) din Legea nr. 360/2023 și art. 112 alin. (4) din Normele aprobate prin Hotărârea Guvernului nr. 181/2024, coroborate cu cele ale art. 4 din Legea nr. 24/2000, la recalcularea reglementată de art. 144 alin. (1)-(2) și (5)-(6) din Legea nr. 360/2023, „punctele de stabilitate“ se acordă și pentru: a) perioadele suplimentare prevăzute de art. 15 din Legea nr. 360/2023;",
+  "b) perioadele asimilate prevăzute de art. 3 lit. h)- i) și lit. q), art. 14, art. 42, art. 86 din Legea nr. 360/2023;",
+  "c) perioada contributivă realizată după data înscrierii la pensia din sistemul public, conform art. 94 alin. (5)-(6) din Legea nr. 360/2023 ?",
+  "Obligatorie, potrivit art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 62/2024",
+    "number": "62",
+    "year": "2024",
+    "path": "oug/2024/62"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 360/2023",
+    "number": "360",
+    "year": "2023",
+    "path": "lege/2023/360"
+   },
+   "articles": [
+    {
+     "art": "144",
+     "alin": [
+      "1",
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "103",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "127",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "128",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": [
+      "d"
+     ]
+    },
+    {
+     "art": "88",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "83",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "85",
+     "alin": [
+      "1",
+      "7"
+     ],
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": [
+      "h",
+      "q"
+     ]
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "42",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "86",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "94",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "39",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "162",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 31
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 127/2019",
+    "number": "127",
+    "year": "2019",
+    "path": "lege/2019/127"
+   },
+   "articles": [
+    {
+     "art": "157",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "112",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "85",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinului ministrului muncii și protecției sociale nr. 108/2021",
+    "number": "108",
+    "year": "2021"
+   },
+   "articles": [],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinului ministrului muncii și protecției sociale nr. 487/2021",
+    "number": "487",
+    "year": "2021"
+   },
+   "articles": [],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "22",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 223/2015",
+    "number": "223",
+    "year": "2015",
+    "path": "lege/2015/223"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2026-01-21",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/306530",
+  "text_sha256": "ebcab35bca1ae2d268e94d5142f546f43ce7d9bfb38f9a2e987cc3935bb3cc4a",
+  "catalogue_sha256": "ebcab35bca1ae2d268e94d5142f546f43ce7d9bfb38f9a2e987cc3935bb3cc4a",
+  "fetched": "2026-11-03T23:21:24Z",
+  "chars": 48628,
+  "portal_id": "306530",
+  "tip": "DECIZIE"
+ }
+}
