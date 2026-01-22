@@ -1,0 +1,10 @@
+# HCL Gruia nr. 2/2026
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+- Council: Consiliul Local al Comunei Gruia
+- Decision: nr. 2/2026
+- Adopted: 2026-01-12
+- Published: 2026-01-22
+- Title: privind acoperirea definitiva din excedentul bugetului local a deficitului sectiunii de functionare/dezvoltare
+- Record: https://emol.ro/gruia-mh/registru-hcl/246782
