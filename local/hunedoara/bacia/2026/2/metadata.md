@@ -1,0 +1,10 @@
+# HCL Băcia nr. 2/2026
+
+Text not yet included: no document of it is held. It will be added when it is.
+
+- Council: Consiliul Local al Comunei Băcia
+- Decision: nr. 2/2026
+- Adopted: 2026-01-12
+- Published: 2026-01-22
+- Title: privind aprobarea ca tipul de suport alimentar să fie sub formă de ,, masă caldă” în regim de catering pentru preșcolarii și elevii Școlii gimnaziale Băcia, pe anul 2026
+- Record: https://emol.ro/bacia-hd/registru-hcl/247843
