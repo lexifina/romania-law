@@ -1,0 +1,258 @@
+{
+ "key": "iccj-hp-394-2025",
+ "label": "Decizia ÎCCJ nr. 394/2025 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "394",
+ "date": "2025-11-17",
+ "year": "2025",
+ "heading": "DECIZIA nr. 394 din 17 noiembrie 2025",
+ "subtitle": "referitoare la aplicarea unui stagiu complet de cotizare de 25 de ani în situația personalului silvic care a desfășurat activitățile enumerate de art. 20 alin. (2) din Ordonanța de urgență a Guvernului nr. 59/2000 privind Statutul personalului silvic, aprobată cu modificări și completări prin Legea nr. 427/2001, astfel cum a fost modificată și completată prin Legea nr. 234/2019",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "55",
+  "bis": false,
+  "date": "2026-01-23",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "743/1/2025",
+  "329/112/2024"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 59/2000",
+    "number": "59",
+    "year": "2000",
+    "path": "oug/2000/59"
+   },
+   "articles": [
+    {
+     "art": "20",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Curtea de Apel Cluj - Secția a IV-a pentru litigii de muncă și asigurări sociale în Dosarul nr. 329/112/2024, în vederea pronunțării unei hotărâri prealabile cu privire la chestiunea de drept ce vizează aplicarea unui stagiu complet de cotizare de 25 de ani în situația personalului silvic care a desfășurat activitățile enumerate de art. 20 alin. (2) din Ordonanța de urgență a Guvernului nr. 59/2000 privind Statutul personalului silvic, aprobată cu modificări și completări prin Legea nr. 427/2001, astfel cum a fost modificată și completată prin Legea nr. 234/2019, și căruia i se recunoaște încadrarea în condiții speciale de muncă a unei perioade de cel puțin 30 de ani în aceste locuri de muncă.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 59/2000",
+    "number": "59",
+    "year": "2000",
+    "path": "oug/2000/59"
+   },
+   "articles": [
+    {
+     "art": "20",
+     "alin": [
+      "2",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 31
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 360/2023",
+    "number": "360",
+    "year": "2023",
+    "path": "lege/2023/360"
+   },
+   "articles": [
+    {
+     "art": "168",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "e"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 263/2010",
+    "number": "263",
+    "year": "2010",
+    "path": "lege/2010/263"
+   },
+   "articles": [
+    {
+     "art": "107",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "100",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "56",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "d"
+     ]
+    },
+    {
+     "art": "53",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "55",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "56-1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "56-2",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "57",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "r",
+      "n"
+     ]
+    }
+   ],
+   "mentions": 27
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 234/2019",
+    "number": "234",
+    "year": "2019",
+    "path": "lege/2019/234"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "96",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "634",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2026-01-23",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/306600",
+  "text_sha256": "8a4c8e9f0f9e7cc5aec1d3bdb61bdef29556bf4a84fc56654f914f68b5ae6e46",
+  "catalogue_sha256": "8a4c8e9f0f9e7cc5aec1d3bdb61bdef29556bf4a84fc56654f914f68b5ae6e46",
+  "fetched": "2026-11-06T03:53:46Z",
+  "chars": 49073,
+  "archive": {
+   "source": "wayback",
+   "url": "https://web.archive.org/web/20260129191753/https://legislatie.just.ro/Public/DetaliiDocument/306600",
+   "page": "https://legislatie.just.ro/Public/DetaliiDocument/306600",
+   "timestamp": "20260129191753",
+   "sha256": "4b7408d088735dfe434347941cf21d6d34f0d7a9a5b74d86bad5a8adbb32dbde"
+  },
+  "portal_id": "306600",
+  "tip": "DECIZIE"
+ }
+}
