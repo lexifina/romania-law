@@ -1,0 +1,182 @@
+{
+ "key": "iccj-hp-396-2025",
+ "label": "Decizia ÎCCJ nr. 396/2025 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "396",
+ "date": "2025-11-17",
+ "year": "2025",
+ "heading": "DECIZIA nr. 396 din 17 noiembrie 2025",
+ "subtitle": "referitoare la interpretarea și aplicarea art. 144 alin. (1) și (2) din Legea nr. 360/2023",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "53",
+  "bis": false,
+  "date": "2026-01-23",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.528/1/2025"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 360/2023",
+    "number": "360",
+    "year": "2023",
+    "path": "lege/2023/360"
+   },
+   "articles": [
+    {
+     "art": "144",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Curtea de Apel Timișoara - Secția litigii de muncă și asigurări sociale în vederea pronunțării unei hotărâri prealabile pentru dezlegarea următoarei probleme de drept:",
+  "Dacă, în interpretarea și aplicarea art. 144 alin. (1) și (2) din Legea nr. 360/2023, la obținerea numărului total de puncte realizat, care se obține conform art. 144 alin. (2), prin însumarea punctajelor anuale, trebuia inclus și punctajul suplimentar aferent indicelui de corecție, drept câștigat irevocabil prin decizia inițială de pensionare anterioară emisă în temeiul Legii nr. 263/2010.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 360/2023",
+    "number": "360",
+    "year": "2023",
+    "path": "lege/2023/360"
+   },
+   "articles": [
+    {
+     "art": "144",
+     "alin": [
+      "1",
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "84",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "83",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": [
+      "q"
+     ]
+    },
+    {
+     "art": "85",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 19
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 263/2010",
+    "number": "263",
+    "year": "2010",
+    "path": "lege/2010/263"
+   },
+   "articles": [
+    {
+     "art": "170",
+     "alin": [
+      "1",
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 221/2018",
+    "number": "221",
+    "year": "2018",
+    "path": "lege/2018/221"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituția României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2026-01-23",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/306578",
+  "text_sha256": "eebfb34406ef60a619f465831bc8b193a47dd9c2017b0b2ca8d185d55e01b7b8",
+  "catalogue_sha256": "eebfb34406ef60a619f465831bc8b193a47dd9c2017b0b2ca8d185d55e01b7b8",
+  "fetched": "2026-11-03T00:51:17Z",
+  "chars": 35942,
+  "portal_id": "306578",
+  "tip": "DECIZIE"
+ }
+}
