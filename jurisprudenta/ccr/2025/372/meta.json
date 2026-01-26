@@ -1,0 +1,266 @@
+{
+ "key": "dcc-372-2025",
+ "label": "Decizia CCR nr. 372/2025",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "372",
+ "date": "2025-09-16",
+ "year": "2025",
+ "heading": "DECIZIA nr. 372 din 16 septembrie 2025",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 169^2 alin. (1) din Legea nr. 263/2010 privind sistemul unitar de pensii publice",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "61",
+  "bis": false,
+  "date": "2026-01-26",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "1.456/121/2020",
+  "1.673D/2021"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 263/2010",
+    "number": "263",
+    "year": "2010",
+    "path": "lege/2010/263"
+   },
+   "articles": [
+    {
+     "art": "169-2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Gheorghe Roșca, Radu Enache, Vasile Onofrei, Răsvan Perianu, Gheorghe Pralea și Iacob Burghelea în dosarele nr. 1.456/121/2020, nr. 1.521/121/2020, nr. 1.662/121/2020, nr. 1.682/121/2020, nr. 1.484/121/2020 și nr. 1.493/121/2020 ale Curții de Apel Galați - Secția conflicte de muncă și asigurări sociale și constată că dispozițiile art. 169^2 alin. (1) din Legea nr. 263/2010 privind sistemul unitar de pensii publice sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Curții de Apel Galați - Secția conflicte de muncă și asigurări sociale și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 263/2010",
+    "number": "263",
+    "year": "2010",
+    "path": "lege/2010/263"
+   },
+   "articles": [
+    {
+     "art": "169-2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "169-1",
+     "alin": [
+      "3",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "169",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 25
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 3/1977",
+    "number": "3",
+    "year": "1977",
+    "path": "lege/1977/3"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 218/2008",
+    "number": "218",
+    "year": "2008",
+    "path": "lege/2008/218"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 19/2000",
+    "number": "19",
+    "year": "2000",
+    "path": "lege/2000/19"
+   },
+   "articles": [
+    {
+     "art": "78-2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 221/2018",
+    "number": "221",
+    "year": "2018",
+    "path": "lege/2018/221"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituției",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 360/2023",
+    "number": "360",
+    "year": "2023",
+    "path": "lege/2023/360"
+   },
+   "articles": [
+    {
+     "art": "168",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2026-01-26",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/306679",
+  "text_sha256": "abc805ff23cb0c2d0acb40a024e8859439a0a8a05892d5e19c1f2199d2f435c1",
+  "catalogue_sha256": "abc805ff23cb0c2d0acb40a024e8859439a0a8a05892d5e19c1f2199d2f435c1",
+  "fetched": "2026-11-06T01:46:40Z",
+  "chars": 21557,
+  "archive": {
+   "source": "wayback",
+   "url": "https://web.archive.org/web/20260202014337/https://legislatie.just.ro/Public/DetaliiDocument/306679",
+   "page": "https://legislatie.just.ro/Public/DetaliiDocument/306679",
+   "timestamp": "20260202014337",
+   "sha256": "596c45fb869896a524619c53be16ef71bad5a512ce590db3ccd965ed24c30f27"
+  },
+  "portal_id": "306679",
+  "tip": "DECIZIE"
+ }
+}
