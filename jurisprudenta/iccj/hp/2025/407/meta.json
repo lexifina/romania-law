@@ -1,0 +1,171 @@
+{
+ "key": "iccj-hp-407-2025",
+ "label": "Decizia ÎCCJ nr. 407/2025 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "407",
+ "date": "2025-11-17",
+ "year": "2025",
+ "heading": "DECIZIA nr. 407 din 17 noiembrie 2025",
+ "subtitle": "referitoare la aplicarea prevederilor art. 6 lit. b) și c) din Legea-cadru nr. 153/2017, astfel cum au fost interpretate prin Decizia nr. 80 din 11 decembrie 2023 a Înaltei Curți de Casație și Justiție - Completul pentru dezlegarea unor chestiuni de drept",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "74",
+  "bis": false,
+  "date": "2026-01-30",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.419/1/2025",
+  "4.334/108/2024"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Tribunalul Arad - Secția a III-a de contencios administrativ și fiscal, litigii de muncă și asigurări sociale, în Dosarul nr. 4.334/108/2024, în vederea pronunțării unei hotărâri prealabile cu privire la următoarele chestiuni de drept: Dacă personalul vamal, funcționari publici în cadrul Autorității Vamale Române, poate beneficia de egalizarea și plata la nivelul maxim a drepturilor salariale existente în plată pentru funcții similare din cadrul Ministerului Finanțelor, ca urmare a aplicării principiilor nediscriminării și egalității prevăzute de Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, cu modificările și completările ulterioare.",
+  "Dacă aplicarea prevederilor art. 6 lit. b) și c) din Legea-cadru nr. 153/2017, astfel cum au fost interpretate prin Decizia nr. 80 din 11 decembrie 2023 a Înaltei Curți de Casație și Justiție - Completul pentru dezlegarea unor chestiuni de drept, încalcă dispozițiile art. 6 lit. f) din același act normativ, respectiv dacă personalul din cadrul altor unități subordonate Ministerului Finanțelor ar putea beneficia de egalizare și plată la nivelul maxim a drepturilor salariale existente în plată pentru funcții similare din cadrul Ministerului Finanțelor, cu încălcarea principiului ierarhizării atât pe verticală, cât și pe orizontală, în cadrul aceluiași domeniu, în funcție de complexitatea și importanța activității desfășurate.",
+  "Obligatorie, potrivit art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 62/2024",
+    "number": "62",
+    "year": "2024",
+    "path": "oug/2024/62"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": [
+      "b",
+      "f"
+     ]
+    },
+    {
+     "art": "39",
+     "alin": [
+      "4",
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 57/2015",
+    "number": "57",
+    "year": "2015",
+    "path": "oug/2015/57"
+   },
+   "articles": [
+    {
+     "art": "3-1",
+     "alin": [
+      "1",
+      "1-3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2026-01-30",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/306790",
+  "text_sha256": "28dca61eb7e1521e4b9f221be653e7896fa610fa54974c4e97fb13e3d31d20f7",
+  "catalogue_sha256": "28dca61eb7e1521e4b9f221be653e7896fa610fa54974c4e97fb13e3d31d20f7",
+  "fetched": "2026-11-03T00:51:12Z",
+  "chars": 33191,
+  "portal_id": "306790",
+  "tip": "DECIZIE"
+ }
+}
