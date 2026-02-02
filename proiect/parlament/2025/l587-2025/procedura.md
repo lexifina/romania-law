@@ -11,6 +11,7 @@ Initiator: Guvernul României.
 - 2025-12-11: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
 - 2025-12-16: documents published: Aviz comisie
 - 2026-01-30: documents published: Aviz comisie
+- 2026-02-02: registered at the Senate
 
 ## Documents
 
