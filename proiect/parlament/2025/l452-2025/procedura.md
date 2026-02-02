@@ -15,6 +15,7 @@ Initiator: Membri ai Parlamentului.
 - 2025-11-11: documents published: Aviz comisie
 - 2025-11-27: documents published: Raport comisie sesizată pe fond
 - 2025-12-22: rejected by the Senate; documents published: Adresă către Camera Deputaților
+- 2026-02-02: registered at the Chamber of Deputies
 
 ## Documents
 
