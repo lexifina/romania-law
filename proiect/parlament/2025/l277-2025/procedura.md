@@ -15,6 +15,7 @@ Initiator: Membri ai Parlamentului.
 - 2025-09-23: documents published: Aviz comisie
 - 2025-10-06: registered at the Chamber of Deputies
 - 2025-12-17: adopted by the Chamber of Deputies; registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
+- 2026-02-04: documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -27,3 +28,6 @@ Initiator: Membri ai Parlamentului.
 - 2025-12-17: Adresă de înaintare a inițiativei (AD): [ad-17243301.md](ad-17243301.md); official file https://www.senat.ro/legis/PDF/2025/25L277AD.PDF
 - 2025-12-17: Forma inițiatorului (FG): [fg-fcb41c13.md](fg-fcb41c13.md); official file https://www.senat.ro/legis/PDF/2025/25L277FG.PDF
 - 2025-12-17: Expunere de motive (EM): [em-6cdf0d11.md](em-6cdf0d11.md); official file https://www.senat.ro/legis/PDF/2025/25L277EM.PDF
+- 2026-02-04: Document (ASF): [asf-b7d0333f.md](asf-b7d0333f.md); official file https://www.senat.ro/legis/PDF/2025/25L277ASF.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-02-04: Document (AJ): [aj-c276ec8d.md](aj-c276ec8d.md); official file https://www.senat.ro/legis/PDF/2025/25L277AJ.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-02-04: Document (SE1): [se1-597bd0fd.md](se1-597bd0fd.md); official file https://www.senat.ro/legis/PDF/2025/25L277SE1.PDF (its day is not given by the bill file: shown from the last stage held)
