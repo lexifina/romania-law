@@ -11,6 +11,7 @@ Initiator: Guvernul României.
 - 2025-12-16: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
 - 2026-02-02: documents published: Aviz comisie, Raport comisie sesizată pe fond
 - 2026-02-03: documents published: Aviz comisie
+- 2026-02-04: adopted by the Senate; documents published: Aviz comisie, Forma adoptată de Senat, Adresă către Camera Deputaților
 
 ## Documents
 
@@ -23,3 +24,6 @@ Initiator: Guvernul României.
 - 2026-02-02: Aviz comisie (CA60): [ca60-4b3f800c.md](ca60-4b3f800c.md); official file https://www.senat.ro/legis/PDF/2025/25L612CA60.PDF
 - 2026-02-02: Raport comisie sesizată pe fond (CR): [cr-028ea757.md](cr-028ea757.md); official file https://www.senat.ro/legis/PDF/2025/25L612CR.PDF
 - 2026-02-03: Aviz comisie (CA43): [ca43-78d48393.md](ca43-78d48393.md); official file https://www.senat.ro/legis/PDF/2025/25L612CA43.PDF
+- 2026-02-04: Aviz comisie (CA42): [ca42-476fad96.md](ca42-476fad96.md); official file https://www.senat.ro/legis/PDF/2025/25L612CA42.PDF
+- 2026-02-04: Forma adoptată de Senat (FS): [fs-d7a5bcf9.md](fs-d7a5bcf9.md); official file https://www.senat.ro/legis/PDF/2025/25L612FS.PDF
+- 2026-02-04: Adresă către Camera Deputaților (AM): [am-becc2d66.md](am-becc2d66.md); official file https://www.senat.ro/legis/PDF/2025/25L612AM.PDF
