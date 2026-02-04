@@ -11,6 +11,7 @@ Initiator: Membri ai Parlamentului.
 - 2025-09-17: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 - 2025-10-07: documents published: Aviz comisie
 - 2025-10-22: registered at the Chamber of Deputies; documents published: Punct de vedere Guvern
+- 2026-02-04: adopted by the Chamber of Deputies
 
 ## Documents
 
