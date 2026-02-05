@@ -1,0 +1,42 @@
+{
+ "key": "cjue-c-606-24-concluzii-2026-02-05",
+ "label": "CJUE, Concluziile avocatului general R. Norkus prezentate la 5 februarie 2026, Cauza C-606/24.",
+ "court": "cjue",
+ "court_name": "Curtea de Justiție a Uniunii Europene",
+ "kind": "concluzii",
+ "act_type": "OPIN_AG",
+ "date": "2026-02-05",
+ "year": "2026",
+ "case": "Cauza C-606/24.",
+ "celex": "62024CC0606",
+ "ecli": "ECLI:EU:C:2026:77",
+ "heading": "Concluziile avocatului general R. Norkus prezentate la 5 februarie 2026",
+ "formation": null,
+ "procedure": "REFER_PREL",
+ "romania_role": [
+  "originates"
+ ],
+ "referred_by": null,
+ "referral_text": "Cerere de decizie preliminară formulată de Tribunalul Bucureşti.",
+ "national_followup": null,
+ "parties": "XY ș.a. împotriva Ministerului Finanţelor.",
+ "parties_withheld": false,
+ "keywords": "Trimitere preliminară – Articolul 19 alineatul (1) al doilea paragraf TUE – Articolul 47 din Carta drepturilor fundamentale – Protecție jurisdicțională efectivă – Independența judecătorilor – Instanță judecătorească constituită în prealabil prin lege – Obligație a instanțelor naționale de a sesiza instanța supremă cu o chestiune de drept prealabilă – Articolul 267 TFUE.",
+ "interprets": [],
+ "text": null,
+ "text_withheld": "personal_data",
+ "withheld_reason": "The full text names the parties' lawyers (and, in older cases, private parties); only the metadata and the operative part are published here, with the official link.",
+ "operative_missing": null,
+ "eurlex_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62024CC0606",
+ "curia_url": "https://curia.europa.eu/juris/liste.jsf?num=C-606/24&language=ro",
+ "source": {
+  "name": "CELLAR, Publications Office of the European Union",
+  "url": "http://publications.europa.eu/resource/cellar/b11a5409-0283-11f1-825d-01aa75ed71a1.0016.05/DOC_1",
+  "format": "xhtml",
+  "sha256": [
+   "a66f88c1c268bf770487db04dd3819ac4779825df9646e5eaf2f54678f127a37"
+  ]
+ },
+ "legal_basis": "Jurisprudența Curții de Justiție a Uniunii Europene (texte oficiale; reutilizare permisă cu menționarea sursei: Decizia Comisiei 2011/833/UE și condițiile CURIA; © Uniunea Europeană). Textele oficiale nu sunt protejate de dreptul de autor în România (Legea nr. 8/1996, art. 9 lit. b).",
+ "attribution": "© European Union, https://eur-lex.europa.eu (via the Publications Office CELLAR)"
+}
