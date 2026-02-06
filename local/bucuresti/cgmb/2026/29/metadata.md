@@ -1,0 +1,12 @@
+# HCGMB nr. 29/2026
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+- Council: Consiliul General al Municipiului București
+- Decision: nr. 29/2026
+- Adopted: 2026-01-29
+- Published: 2026-02-06
+- Title: PRIVIND IMPUTERNICIREA EXPRESA A CONSILIULUI LOCAL AL SECTORULUI 6 DE CATRE CONSILIUL GENERAL AL MUNICIPIULUI BUCURESTI DE A HOTART CU PRIVIRE LA INCHEIEREA UNUI ACORD DE FINANTARE INTRE SECTORUL 6 AL MUNICIPIULUI BUCURESTI SI COMUNITATEA INTER-MUNICIPALA AVE (PORTUGALIA) IN VEDEREA IMPLEMENTARII PROIECTULUI ADVANCING RENEWABLE ENERGY COMMUNITIES AND ENERGY-EFFICIENT BUILDING REFURBISHMENT IN THE AVE REGION SI A CHELTUIELILOR LEGATE DE ACEST PROIECT
+- Record: https://acteinterne.pmb.ro/legis/acteinterne/acte_int/47733
+- Document: https://doc.pmb.ro/legis/acteinterne/2026/47733/h029_26.pdf
+- Document sha256: 962c28b71dff2d867789acc9ca0c3a7292cde5648fa62cd655ee06e41bd8f316
