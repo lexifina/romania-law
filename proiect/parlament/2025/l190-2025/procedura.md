@@ -19,6 +19,7 @@ Initiator: Membri ai Parlamentului.
 - 2025-09-17: documents published: Aviz comisie
 - 2025-10-06: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților
 - 2025-10-13: registered at the Chamber of Deputies
+- 2026-02-09: documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -38,3 +39,11 @@ Initiator: Membri ai Parlamentului.
 - 2025-09-17: Aviz comisie (CA60): [ca60-a55fb94a.md](ca60-a55fb94a.md); official file https://www.senat.ro/legis/PDF/2025/25L190CA60.PDF
 - 2025-10-06: Forma adoptată de Senat (FS): [fs-82900afc.md](fs-82900afc.md); official file https://www.senat.ro/legis/PDF/2025/25L190FS.PDF
 - 2025-10-06: Adresă către Camera Deputaților (AM): [am-0253e5f5.md](am-0253e5f5.md); official file https://www.senat.ro/legis/PDF/2025/25L190AM.PDF
+- 2026-02-09: Document (CF): [cf-1ef0043f.md](cf-1ef0043f.md); official file https://www.senat.ro/legis/PDF/2025/25L190CF.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-02-09: Document (AG1): not held as text; official file https://www.senat.ro/legis/PDF/2025/25L190AG1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-02-09: Document (CNA): [cna-76e78566.md](cna-76e78566.md); official file https://www.senat.ro/legis/PDF/2025/25L190CNA.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-02-09: Document (AG2): not held as text; official file https://www.senat.ro/legis/PDF/2025/25L190AG2.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-02-09: Document (CC): [cc-9a9be6c3.md](cc-9a9be6c3.md); official file https://www.senat.ro/legis/PDF/2025/25L190CC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-02-09: Document (AG3): [ag3-3c86ce3f.md](ag3-3c86ce3f.md); official file https://www.senat.ro/legis/PDF/2025/25L190AG3.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-02-09: Document (ANCO): [anco-0d9962ca.md](anco-0d9962ca.md); official file https://www.senat.ro/legis/PDF/2025/25L190ANCO.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-02-09: Document (AG4): not held as text; official file https://www.senat.ro/legis/PDF/2025/25L190AG4.PDF (its day is not given by the bill file: shown from the last stage held)
