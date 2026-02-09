@@ -10,6 +10,7 @@ Initiator: Membri ai Parlamentului.
 
 - 2025-12-17: registered at the Senate; documents published: Forma inițiatorului, Expunere de motive
 - 2025-12-23: documents published: Aviz Consiliul Economic și Social, Aviz Consiliul Legislativ
+- 2026-02-09: withdrawn by the initiator; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -17,3 +18,5 @@ Initiator: Membri ai Parlamentului.
 - 2025-12-17: Expunere de motive (EM): [em-c7eb6350.md](em-c7eb6350.md); official file https://www.senat.ro/legis/PDF/2026/26L105EM.PDF
 - 2025-12-23: Aviz Consiliul Economic și Social (ES): [es-add092bc.md](es-add092bc.md); official file https://www.senat.ro/legis/PDF/2026/26L105ES.PDF
 - 2025-12-23: Aviz Consiliul Legislativ (LG): [lg-53adea89.md](lg-53adea89.md); official file https://www.senat.ro/legis/PDF/2026/26L105LG.PDF
+- 2026-02-09: Document (CF): [cf-319514f5.md](cf-319514f5.md); official file https://www.senat.ro/legis/PDF/2026/26L105CF.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-02-09: Document (AR): not held as text; official file https://www.senat.ro/legis/PDF/2026/26L105AR.PDF (its day is not given by the bill file: shown from the last stage held)
