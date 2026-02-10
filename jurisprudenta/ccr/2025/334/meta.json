@@ -1,0 +1,300 @@
+{
+ "key": "dcc-334-2025",
+ "label": "Decizia CCR nr. 334/2025",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "334",
+ "date": "2025-07-01",
+ "year": "2025",
+ "heading": "DECIZIE nr. 334 din 1 iulie 2025",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 100 alin. (3) și (4) din Codul penal și ale art. 96 alin. (1) lit. b) și alin. (2) și ale art. 97 alin. (3) lit. a) din Legea nr. 254/2013 privind executarea pedepselor și a măsurilor privative de libertate dispuse de organele judiciare în cursul procesului penal",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "107",
+  "bis": false,
+  "date": "2026-02-10",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "8.122/215/2020",
+  "1.020D/2020"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "100",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 254/2013",
+    "number": "254",
+    "year": "2013",
+    "path": "lege/2013/254"
+   },
+   "articles": [
+    {
+     "art": "96",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "97",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepția de neconstituționalitate a dispozițiilor art. 100 alin. (3) și (4) din Codul penal și ale art. 96 alin. (1) lit. b) și alin. (2) și ale art. 97 alin. (3) lit. a) din Legea nr. 254/2013 privind executarea pedepselor și a măsurilor privative de libertate dispuse de organele judiciare în cursul procesului penal, excepție ridicată de Petrișor Gabriel în Dosarul nr. 8.122/215/2020 al Tribunalului Dolj - Secția penală și pentru cauze cu minori.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului Dolj - Secția penală și pentru cauze cu minori și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "100",
+     "alin": [
+      "3",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 254/2013",
+    "number": "254",
+    "year": "2013",
+    "path": "lege/2013/254"
+   },
+   "articles": [
+    {
+     "art": "96",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "97",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "551",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "78",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "83",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "84",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "85",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "86",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "87",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "88",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "55-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 16
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "17",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2026-02-10",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/307265",
+  "text_sha256": "f0f68a25561ab4ad683827c5230803d911d3679714b623accf0de99247454500",
+  "catalogue_sha256": "f0f68a25561ab4ad683827c5230803d911d3679714b623accf0de99247454500",
+  "fetched": "2026-11-03T00:50:47Z",
+  "chars": 24985,
+  "portal_id": "307265",
+  "tip": "DECIZIE"
+ }
+}
