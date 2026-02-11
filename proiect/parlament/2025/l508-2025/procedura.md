@@ -13,6 +13,7 @@ Initiator: Membri ai Parlamentului.
 - 2025-11-26: documents published: Aviz comisie
 - 2025-12-03: documents published: Aviz comisie
 - 2025-12-22: registered at the Chamber of Deputies
+- 2026-02-11: legislative procedure ended; registered at the Senate
 
 ## Documents
 
