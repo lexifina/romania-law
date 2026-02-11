@@ -1,0 +1,366 @@
+{
+ "key": "iccj-scaf-6097-2025",
+ "label": "Decizia ÎCCJ nr. 6097/2025 (SCAF)",
+ "court": "iccj",
+ "kind": "alta",
+ "panel": "scaf",
+ "number": "6097",
+ "date": "2025-12-12",
+ "year": "2025",
+ "heading": "DECIZIA nr. 6.097 din 12 decembrie 2025",
+ "subtitle": "referitoare la anularea Ordinului nr. 26/2023",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - SECȚIA DE CONTENCIOS ADMINISTRATIV ȘI FISCAL",
+ "mo": {
+  "number": "111",
+  "bis": false,
+  "date": "2026-02-11",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": true,
+ "dossiers": [
+  "2.647/2/2024"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinului nr. 26/2023",
+    "number": "26",
+    "year": "2023"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul nr. 26/2023",
+    "number": "26",
+    "year": "2023"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "451",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Admite recursul declarat de recurenta-reclamantă A. S.R.L. împotriva Sentinței civile nr. 165 din 5 februarie 2025, pronunțată de Curtea de Apel B. - Secția a IX-a contencios administrativ și fiscal.",
+  "Casează sentința atacată și, rejudecând, admite, în parte, acțiunea reclamantei A. S.R.L.",
+  "Anulează, în parte, Ordinul nr. 26/2023, respectiv art. I punctul 3, în privința dispoziției introduse în art. 4 alin. (2) lit. e) din anexa nr. 2 la Ordinul viceprim-ministrului, ministrul agriculturii și dezvoltării rurale, al viceprim-ministrului, ministrul dezvoltării, lucrărilor publice și administrației, al ministrului apărării naționale și al viceprim-ministrului, ministrul culturii, nr. 719/740/M.57/2.333/2014, emis de M.A.D.R.",
+  "Obligă pârâtul M.A.D.R. la plata sumei de 15.000 lei, reprezentând cheltuieli de judecată, cu aplicarea art. 451 alin. (2) din Codul de procedură civilă, către recurenta-reclamantă A. S.R.L.",
+  "Dispune publicarea prezentei decizii în Monitorul Oficial al României, Partea I.",
+  "Respinge, în rest, acțiunea.",
+  "Definitivă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "488",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "392",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "394",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "451",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "496",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "e"
+     ]
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituției României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 17/2014",
+    "number": "17",
+    "year": "2014",
+    "path": "lege/2014/17"
+   },
+   "articles": [
+    {
+     "art": "4-1",
+     "alin": [
+      "5",
+      "1",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "9",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": [
+      "1",
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 52
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul nr. 26/2023",
+    "number": "26",
+    "year": "2023"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "e"
+     ]
+    }
+   ],
+   "mentions": 20
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinului nr. 26/2023",
+    "number": "26",
+    "year": "2023"
+   },
+   "articles": [],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 268/2001",
+    "number": "268",
+    "year": "2001",
+    "path": "lege/2001/268"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul nr. 719/2014",
+    "number": "719",
+    "year": "2014"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "e"
+     ]
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": [
+      "m"
+     ]
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinului nr. 719/2014",
+    "number": "719",
+    "year": "2014"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 554/2004",
+    "number": "554",
+    "year": "2004",
+    "path": "lege/2004/554"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "58",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 175/2020",
+    "number": "175",
+    "year": "2020",
+    "path": "lege/2020/175"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2026-02-11",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/307305",
+  "text_sha256": "a9b5f43ca3472836a1971f13485e0a4082beec7461f8a0697a26c1d53693ce0e",
+  "catalogue_sha256": "a9b5f43ca3472836a1971f13485e0a4082beec7461f8a0697a26c1d53693ce0e",
+  "fetched": "2026-11-03T00:50:44Z",
+  "chars": 42284,
+  "portal_id": "307305",
+  "tip": "DECIZIE"
+ }
+}
