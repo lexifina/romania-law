@@ -14,6 +14,7 @@ Initiator: Guvernul României.
 - 2026-02-02: registered at the Senate
 - 2026-02-03: documents published: Aviz comisie
 - 2026-02-10: documents published: Aviz comisie
+- 2026-02-11: registered at the Chamber of Deputies
 
 ## Documents
 
