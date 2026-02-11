@@ -10,7 +10,8 @@ Initiator: Membri ai Parlamentului.
 
 - 2025-03-04: adopted by the Chamber of Deputies
 - 2025-11-19: registered at the Chamber of Deputies
+- 2026-02-11: documents published: Raport comisie sesizată pe fond
 
 ## Documents
 
-- none held as text
+- 2026-02-11: Raport comisie sesizată pe fond (CR): [cr-80b33f54.md](cr-80b33f54.md); official file https://www.senat.ro/legis/PDF/2026/26L139CR.PDF
