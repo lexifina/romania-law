@@ -17,6 +17,7 @@ Initiator: Guvernul României.
 - 2025-12-16: documents published: Aviz comisie
 - 2025-12-17: documents published: Aviz comisie
 - 2025-12-18: documents published: Aviz comisie
+- 2026-02-16: adopted by the Senate; documents published: Forma adoptată de Senat
 
 ## Documents
 
@@ -30,3 +31,4 @@ Initiator: Guvernul României.
 - 2025-12-16: Aviz comisie (CA41): [ca41-999f7980.md](ca41-999f7980.md); official file https://www.senat.ro/legis/PDF/2025/25L551CA41.PDF
 - 2025-12-17: Aviz comisie (CA60): [ca60-4cad86f8.md](ca60-4cad86f8.md); official file https://www.senat.ro/legis/PDF/2025/25L551CA60.PDF
 - 2025-12-18: Aviz comisie (CA45): [ca45-83decc14.md](ca45-83decc14.md); official file https://www.senat.ro/legis/PDF/2025/25L551CA45.PDF
+- 2026-02-16: Forma adoptată de Senat (FS): [fs-0ea4c7e2.md](fs-0ea4c7e2.md); official file https://www.senat.ro/legis/PDF/2025/25L551FS.PDF
