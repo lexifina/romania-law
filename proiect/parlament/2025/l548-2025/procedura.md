@@ -14,6 +14,7 @@ Initiator: Membri ai Parlamentului.
 - 2025-12-15: documents published: Aviz comisie
 - 2025-12-22: documents published: Aviz comisie
 - 2026-02-11: documents published: Raport comisie sesizată pe fond
+- 2026-02-16: rejected by the Senate; documents published: Adresă către Camera Deputaților
 
 ## Documents
 
@@ -28,3 +29,4 @@ Initiator: Membri ai Parlamentului.
 - 2025-12-15: Aviz comisie (CA58): [ca58-ac6db722.md](ca58-ac6db722.md); official file https://www.senat.ro/legis/PDF/2025/25L548CA58.PDF
 - 2025-12-22: Aviz comisie (CA41): [ca41-c3210b4f.md](ca41-c3210b4f.md); official file https://www.senat.ro/legis/PDF/2025/25L548CA41.PDF
 - 2026-02-11: Raport comisie sesizată pe fond (CR): [cr-706afeb6.md](cr-706afeb6.md); official file https://www.senat.ro/legis/PDF/2025/25L548CR.PDF
+- 2026-02-16: Adresă către Camera Deputaților (AM): [am-e18e62dd.md](am-e18e62dd.md); official file https://www.senat.ro/legis/PDF/2025/25L548AM.PDF
