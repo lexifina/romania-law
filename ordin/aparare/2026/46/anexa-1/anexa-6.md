@@ -1,0 +1,16 @@
+# Anexa nr. 6 la normele metodologice privind selecția și expertiza
+MODELUL FIȘEI MEDICALE PENTRU EXAMINARE SEMESTRIALĂ
+FIȘA MEDICALĂ PENTRU EXAMINARE SEMESTRIALĂ
+Specialitatea
+Rezultatul examenelor
+Recomandări
+MEDICINA INTERNĂ
+NEUROLOGIE
+O.R.L.
+OFTALMOLOGIE
+PSIHIATRIE
+LABORATOR
+CLINIC
+CONCLUZII ȘI RECOMANDĂRI
+AVIZUL COMANDANTULUI
+DATA.........................................
