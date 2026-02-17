@@ -1,0 +1,55 @@
+În conformitate cu prevederile art. 12 alin. (1) și ale art. 27 alin.
+(1) din Legea nr. 101/2016 privind remediile și căile de atac în materie
+de  atribuire  a  contractelor  de  achiziție  publică,  a  contractelor
+sectoriale și a contractelor de concesiune de lucrări și concesiune de
+servicii,  precum  și  pentru  organizarea  și  funcționarea  Consiliului
+Național de Soluționare a Contestațiilor, Consiliul adoptă următoarea
+DECIZIE
+Nr. 457/C10/435
+Data: 17.02.2026
+Prin  contestația  comunicată  în  data  de  11.02.2026,  înregistrată  la
+Consiliul Național de Soluționare a Contestațiilor cu nr. 9234/11.02.2026,
+depusă de GEIGER TRANSILVANIA SRL, cu sediul social în comuna Cristești,
+sat  Cristești,  str.  Geiger  nr.  1/E,  județul  Mureș  (adresă  unde  se  solicită
+comunicarea  tuturor  actelor  de  procedură),  înmatriculată  în  Registrul
+Comerțului sub nr. J2004001142266, CUI RO8844358, reprezentată legal prin
+Administrator dl. Attila CSONGVAY, și reprezentată convențional prin Cabinet
+Avocat  MIHALACHE  Victor  Daniel,  cu  sediul  profesional  în  București,  str.
+Nicolae Constantinescu, nr. 10, Bl. 11A, sc. 2, apt. 24, Sector 1, împotriva
+"Răspunsului  consolidat  nr.  2"  la  solicitările  de  clarificări  privind  licitația
+deschisă, online, organizată în vederea atribuirii contractului de achiziție având
+ca obiect "Achiziția lucrărilor de construcții din cadrul proiectului "REABILITARE
+INFRASTRUCTURĂ RUTIERĂ PE CORIDORUL: CARTIER TUDOR VLADIMIRESCU
+-  CARTIER  22  DECEMBRIE  1989,  DESERVIT  DE  TRANSPORTUL  PUBLIC  -
+TRONSON  1"",  cod  CPV  45233120-6,  de  către  PRIMĂRIA  MUNICIPIULUI
+TÂRGU-MUREȘ, cu sediul în localitatea Târgu-Mureș, str. Piața Victoriei, nr. 3,
+județul Mureș, în calitate de autoritate contractantă, s-a solicitat:
+1.
+Suspendarea procedurii de atribuire;
+2.
+Admiterea prezentei Contestații, astfel cum a fost formulată;
+3.
+Anularea  parțială  a  Răspunsului  consolidat  nr.  2/  în  subsidiar
+modificarea acestuia;
+4.
+Obligarea  Autorității  Contractante  la  adoptarea  măsurilor  de
+remediere,  astfel  cum  acestea  sunt  detaliate  în  conținutul  prezentei
+Contestații;
+5.
+Obligarea  Autorității  Contractante  de  a  prelungi  perioada  de
+elaborare și de depunere a ofertelor cu cel puțin 30 zile, începând cu data
+publicării în SEAP a adresei prin care remediază răspunsurile la solicitările de
+clarificări în conformitate cu considerentele deciziei CNSC;
+6.
+Obligarea Autorității contractante la plata cheltuielilor de judecată
+efectuate  de  GEIGER  TRANSILVANIA  SRL  pentru  soluționarea  prezentei
+Contestații, potrivit dispozițiilor art. 26 alin. (9) din Legea nr. 101/2016.
+
+Pentru aceste motive,
+în baza legii și a mijloacelor de probă aflate la dosar,
+CONSILIUL DECIDE:
+
+În  temeiul  dispozițiilor  art.  26  alin.  (8)  din  Legea  nr.  101/2016,
+Consiliul  ia  act  de  renunțarea  la  contestația  formulată  de  GEIGER
+TRANSILVANIA SRL, în contradictoriu cu PRIMĂRIA MUNICIPIULUI TÂRGU-
+MUREȘ.
