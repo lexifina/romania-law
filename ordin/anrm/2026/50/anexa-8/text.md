@@ -1,0 +1,4 @@
+# Anexa nr. 8 (Anexa nr. 8 la Ordinul nr. 489/2024)
+FUNDAMENTAREA tarifelor pentru actele eliberate de Autoritatea Națională de Reglementare în Domeniul Minier, Petrolier și al Stocării Geologice a Dioxidului de Carbon, prevăzute la categoria A2 lit. f)-m) din anexa nr. 1 la ordin
+Nr. crt. Gradul de complexitate Tariful (lei) 1 I-1 II-1 5.763 2 I-1 II-2 6.364 3 I-1 II-3 7.083 4 I-2 II-1 7.565 5 I-2 II-2 8.164 6 I-2 II-3 8.886 7 I-3 II-1 9.605 8 I-3 II-2 10.086 9 I-3 II-3 11.407
+La categoria A2 lit. f), h) și m) se aplică cota procentuală de până la 1% din valoarea anuală a lucrărilor, după cum urmează: 1% pentru lucrări miniere până în 500.000 lei; 0,8% pentru lucrări miniere până în 600.000 lei; 0,6% pentru lucrări miniere până în 700.000 lei; 0,4% pentru lucrări miniere până în 800.000 lei; 0,2% pentru lucrări miniere peste 800.000 lei.
