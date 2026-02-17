@@ -1,0 +1,396 @@
+{
+ "key": "dcc-409-2025",
+ "label": "Decizia CCR nr. 409/2025",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "409",
+ "date": "2025-09-18",
+ "year": "2025",
+ "heading": "DECIZIA nr. 409 din 18 septembrie 2025",
+ "subtitle": "referitoare la excepția de neconstituționalitate a sintagmei \"uneia sau mai multor infracțiuni\" cuprinse în dispozițiile art. 367 alin. (6) din Codul penal și ale art. 323 alin. 1 din Codul penal din 1969",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "131",
+  "bis": false,
+  "date": "2026-02-17",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "2.596/118/2015",
+  "560D/2021"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "367",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "323",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Nicușor Daniel Constantinescu în Dosarul nr. 2.596/118/2015 al Curții de Apel Galați - Secția penală și pentru cauze cu minori și constată că sintagma „uneia sau mai multor infracțiuni“ cuprinse în dispozițiile art. 367 alin. (6) din Codul penal și ale art. 323 alin. 1 din Codul penal din 1969 este constituțională în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Curții de Apel Galați - Secția penală și pentru cauze cu minori și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "323",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "167",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "155",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "156",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "157",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "158",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "159",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "160",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "161",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "162",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "163",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "165",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "166-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "367",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": [
+      "12"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "3",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 565/2002",
+    "number": "565",
+    "year": "2002",
+    "path": "lege/2002/565"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 535/2004",
+    "number": "535",
+    "year": "2004",
+    "path": "lege/2004/535"
+   },
+   "articles": [
+    {
+     "art": "35",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 39/2003",
+    "number": "39",
+    "year": "2003",
+    "path": "lege/2003/39"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 187/2012",
+    "number": "187",
+    "year": "2012",
+    "path": "lege/2012/187"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2026-02-17",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/307436",
+  "text_sha256": "e9c7a8f6c522c9388d6ee75901e8702ef69f20e65cff6f8f7acfb8d0317e7658",
+  "catalogue_sha256": "e9c7a8f6c522c9388d6ee75901e8702ef69f20e65cff6f8f7acfb8d0317e7658",
+  "fetched": "2026-11-03T00:50:37Z",
+  "chars": 22637,
+  "portal_id": "307436",
+  "tip": "DECIZIE"
+ }
+}
