@@ -1,0 +1,10 @@
+# HCL Oprișor nr. 27/2025
+
+Text not yet included: no document of it is held. It will be added when it is.
+
+- Council: Consiliul Local al Comunei Oprișor
+- Decision: nr. 27/2025
+- Adopted: 2025-12-15
+- Published: 2026-02-18
+- Title: privind stabilirea impozitelor și taxelor locale la nivelul Comunei Oprișor, Județul Mehedinți, pentru anul 2026
+- Record: https://emol.ro/oprisor-mh/registru-hcl/253653
