@@ -1,0 +1,225 @@
+{
+ "key": "dcc-520-2025",
+ "label": "Decizia CCR nr. 520/2025",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "520",
+ "date": "2025-10-23",
+ "year": "2025",
+ "heading": "DECIZIA nr. 520 din 23 octombrie 2025",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor Ordonanței de urgență a Guvernului nr. 3/2019 privind eșalonarea plății drepturilor salariale restante pentru unele categorii de personal din sistemul justiției și ale Legii nr. 224/2019 pentru aprobarea Ordonanței de urgență a Guvernului nr. 3/2019 privind eșalonarea plății drepturilor salariale restante pentru unele categorii de personal din sistemul justiției",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "137",
+  "bis": false,
+  "date": "2026-02-20",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "580/114/2020",
+  "1.261D/2021"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 3/2019",
+    "number": "3",
+    "year": "2019",
+    "path": "oug/2019/3"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 224/2019",
+    "number": "224",
+    "year": "2019",
+    "path": "lege/2019/224"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Simona Florica Nicolau și altele în Dosarul nr. 580/114/2020 al Curții de Apel Ploiești - Secția I civilă și constată că dispozițiile Ordonanței de urgență a Guvernului nr. 3/2019 privind eșalonarea plății drepturilor salariale restante pentru unele categorii de personal din sistemul justiției și ale Legii nr. 224/2019 pentru aprobarea Ordonanței de urgență a Guvernului nr. 3/2019 privind eșalonarea plății drepturilor salariale pentru unele categorii de personal din sistemul justiției sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Curții de Apel Ploiești - Secția I civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 3/2019",
+    "number": "3",
+    "year": "2019",
+    "path": "oug/2019/3"
+   },
+   "articles": [],
+   "mentions": 17
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 224/2019",
+    "number": "224",
+    "year": "2019",
+    "path": "lege/2019/224"
+   },
+   "articles": [],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "115",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "61",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 4/2019",
+    "number": "4",
+    "year": "2019",
+    "path": "lege/2019/4"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2026-02-20",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/307522",
+  "text_sha256": "39bc5b3bdc33f58ada90bf08b04bb64b8309c363ed247af959a5a34c4d13abc7",
+  "catalogue_sha256": "39bc5b3bdc33f58ada90bf08b04bb64b8309c363ed247af959a5a34c4d13abc7",
+  "fetched": "2026-11-03T23:21:44Z",
+  "chars": 25941,
+  "portal_id": "307522",
+  "tip": "DECIZIE"
+ }
+}
