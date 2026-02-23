@@ -1,0 +1,16 @@
+PARLAMENTUL ROMÂNIEI
+SENAT
+LEGE
+privind aprobarea Ordonanței de urgență a Guvernului nr.87/2025 pentru
+stabilirea unor măsuri bugetare privind implementarea programe[or
+naționale din domeniul lucrărilor publice
+Senatul adoptă prezentul proiect de lege
+Articol  unic.-  Se  aprobă  Ordonanța  de  urgență  a  Guvemului  nr.87  din  23
+decembrie   2025   pentru   stabilirea  unor   măsuri   bugetare   privind   implementarea
+programelor naționale din domeniul lucrărilor publice, publicată în Monitorul Oficial
+al României, Partea 1, nr.1203 din 24 decembrie 2025.
+
+2
+Acest proiect de lege a fost adoptat de Senat în ședința din 23 februarie 2026,
+cu respectarea prevederilor articolului 76 alineatul (2) din Constituția României,
+republicată.
