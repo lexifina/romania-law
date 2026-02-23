@@ -9,9 +9,14 @@ Initiator: Membri ai Parlamentului.
 ## Stages published so far
 
 - 2026-02-17: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
+- 2026-02-23: documents published: Aviz Consiliul Economic și Social, Aviz Consiliul Legislativ, Punct de vedere Guvern, Punct de vedere
 
 ## Documents
 
 - 2026-02-17: Adresă de înaintare a inițiativei (AD): [ad-5d212edb.md](ad-5d212edb.md); official file https://www.senat.ro/legis/PDF/2026/26L473AD.PDF
 - 2026-02-17: Forma inițiatorului (FG): [fg-5636a970.md](fg-5636a970.md); official file https://www.senat.ro/legis/PDF/2026/26L473FG.PDF
 - 2026-02-17: Expunere de motive (EM): [em-1df0cff2.md](em-1df0cff2.md); official file https://www.senat.ro/legis/PDF/2026/26L473EM.PDF
+- 2026-02-23: Aviz Consiliul Economic și Social (ES): [es-03229e96.md](es-03229e96.md); official file https://www.senat.ro/legis/PDF/2026/26L473ES.PDF
+- 2026-02-23: Aviz Consiliul Legislativ (LG): [lg-06b92394.md](lg-06b92394.md); official file https://www.senat.ro/legis/PDF/2026/26L473LG.PDF
+- 2026-02-23: Punct de vedere Guvern (SJ): [sj-0bda924a.md](sj-0bda924a.md); official file https://www.senat.ro/legis/PDF/2026/26L473SJ.PDF
+- 2026-02-23: Punct de vedere (PV): [pv-db1f9925.md](pv-db1f9925.md); official file https://www.senat.ro/legis/PDF/2026/26L473PV.PDF
