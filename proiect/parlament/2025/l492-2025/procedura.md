@@ -13,6 +13,7 @@ Initiator: Membri ai Parlamentului.
 - 2025-11-19: documents published: Aviz comisie
 - 2025-11-25: documents published: Aviz comisie
 - 2026-02-09: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților
+- 2026-02-23: registered at the Chamber of Deputies
 
 ## Documents
 
