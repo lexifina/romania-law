@@ -15,6 +15,7 @@ Initiator: Membri ai Parlamentului.
 - 2025-12-18: documents published: Aviz comisie
 - 2025-12-22: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților
 - 2026-02-02: registered at the Chamber of Deputies
+- 2026-02-24: documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -29,3 +30,5 @@ Initiator: Membri ai Parlamentului.
 - 2025-12-18: Aviz comisie (CA45): [ca45-9bdfef62.md](ca45-9bdfef62.md); official file https://www.senat.ro/legis/PDF/2025/25L562CA45.PDF
 - 2025-12-22: Forma adoptată de Senat (FS): [fs-c660913f.md](fs-c660913f.md); official file https://www.senat.ro/legis/PDF/2025/25L562FS.PDF
 - 2025-12-22: Adresă către Camera Deputaților (AM): [am-7981f7e9.md](am-7981f7e9.md); official file https://www.senat.ro/legis/PDF/2025/25L562AM.PDF
+- 2026-02-24: Document (AH1): not held as text; official file https://www.senat.ro/legis/PDF/2025/25L562AH1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-02-24: Document (CNA): [cna-fd24d92b.md](cna-fd24d92b.md); official file https://www.senat.ro/legis/PDF/2025/25L562CNA.PDF (its day is not given by the bill file: shown from the last stage held)
