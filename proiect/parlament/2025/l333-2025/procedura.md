@@ -20,6 +20,7 @@ Initiator: Guvernul României.
 - 2026-02-02: adopted by the Senate; documents published: Forma adoptată de Senat
 - 2026-02-09: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2026-02-11: sent for promulgation
+- 2026-02-24: promulgated, becomes Legea nr. 23/2026; published in the Monitorul Oficial; documents published: Document (day not given by the bill file), Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -37,3 +38,6 @@ Initiator: Guvernul României.
 - 2026-02-02: Forma adoptată de Senat (FS): [fs-dce00a1d.md](fs-dce00a1d.md); official file https://www.senat.ro/legis/PDF/2025/25L333FS.PDF
 - 2026-02-09: Adresă privind sesizarea CCR (AXS): [axs-99455e03.md](axs-99455e03.md); official file https://www.senat.ro/legis/PDF/2025/25L333AXS.PDF
 - 2026-02-09: Forma trimisă la promulgare (LP): [lp-11f3f734.md](lp-11f3f734.md); official file https://www.senat.ro/legis/PDF/2025/25L333LP.PDF
+- 2026-02-24: Document (AL): [al-795a313f.md](al-795a313f.md); official file https://www.senat.ro/legis/PDF/2025/25L333AL.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-02-24: Decret de promulgare (DP): [dp-c00d3397.md](dp-c00d3397.md); official file https://www.senat.ro/legis/PDF/2025/25L333DP.PDF
+- 2026-02-24: Forma promulgată (FP): [fp-280bc9f6.md](fp-280bc9f6.md); official file https://www.senat.ro/legis/PDF/2025/25L333FP.PDF
