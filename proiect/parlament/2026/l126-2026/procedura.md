@@ -1,0 +1,20 @@
+# Proiect de lege L126/2026
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Proiect de lege privind aprobarea Ordonanţei de urgenţã a Guvernului nr.7/2026 pentru modificarea şi completarea unor acte normative, precum şi pentru adoptarea unor măsuri pentru creşterea capacităţii financiare a unităţilor administrativ-teritoriale
+
+Initiator: Guvernul României.
+
+## Stages published so far
+
+- 2026-02-25: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+
+## Documents
+
+- 2026-02-25: Adresă de înaintare a inițiativei (AD): [ad-3e72aa0a.md](ad-3e72aa0a.md); official file https://www.senat.ro/legis/PDF/2026/26L126AD.PDF
+- 2026-02-25: Forma inițiatorului (FG): [fg-ed0da667.md](fg-ed0da667.md); official file https://www.senat.ro/legis/PDF/2026/26L126FG.PDF
+- 2026-02-25: Expunere de motive (EM): [em-60416cb8.md](em-60416cb8.md); official file https://www.senat.ro/legis/PDF/2026/26L126EM.PDF
+- 2026-02-25: Aviz Consiliul Legislativ (LG): [lg-8f9e8864.md](lg-8f9e8864.md); official file https://www.senat.ro/legis/PDF/2026/26L126LG.PDF
+- 2026-02-25: Document (OG): [og-c6651449.md](og-c6651449.md); official file https://www.senat.ro/legis/PDF/2026/26L126OG.PDF
+- 2026-02-25: Document (HG): [hg-cbb3f05d.md](hg-cbb3f05d.md); official file https://www.senat.ro/legis/PDF/2026/26L126HG.PDF
