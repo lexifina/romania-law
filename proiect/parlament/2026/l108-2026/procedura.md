@@ -17,6 +17,7 @@ Initiator: Membri ai Parlamentului.
 - 2026-02-04: rejected by the Chamber of Deputies
 - 2026-02-17: documents published: Aviz comisie
 - 2026-02-19: documents published: Aviz comisie
+- 2026-02-25: documents published: Aviz comisie
 
 ## Documents
 
@@ -30,3 +31,4 @@ Initiator: Membri ai Parlamentului.
 - 2025-10-21: Aviz comisie (CA42): [ca42-0c267d57.md](ca42-0c267d57.md); official file https://www.senat.ro/legis/PDF/2026/26L108CA42.PDF
 - 2026-02-17: Aviz comisie (CA45): [ca45-9726c050.md](ca45-9726c050.md); official file https://www.senat.ro/legis/PDF/2026/26L108CA45.PDF
 - 2026-02-19: Aviz comisie (CA57): [ca57-ac1c68af.md](ca57-ac1c68af.md); official file https://www.senat.ro/legis/PDF/2026/26L108CA57.PDF
+- 2026-02-25: Aviz comisie (CA41): [ca41-3ef72a2c.md](ca41-3ef72a2c.md); official file https://www.senat.ro/legis/PDF/2026/26L108CA41.PDF
