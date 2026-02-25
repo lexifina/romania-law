@@ -12,7 +12,14 @@ Initiator: Guvernul României.
 
 - 2026-02-02: registered at the Chamber of Deputies
 - 2026-02-10: documents published: Raport comisie sesizată pe fond
+- 2026-02-25: adopted by the Chamber of Deputies; registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
 
 ## Documents
 
 - 2026-02-10: Raport comisie sesizată pe fond (CR): [cr-8c4eace3.md](cr-8c4eace3.md); official file https://www.senat.ro/legis/PDF/2026/26L130CR.PDF
+- 2026-02-25: Adresă de înaintare a inițiativei (AD): [ad-9234eea3.md](ad-9234eea3.md); official file https://www.senat.ro/legis/PDF/2026/26L130AD.PDF
+- 2026-02-25: Forma inițiatorului (FG): [fg-080e7d39.md](fg-080e7d39.md); official file https://www.senat.ro/legis/PDF/2026/26L130FG.PDF
+- 2026-02-25: Expunere de motive (EM): [em-f1ee8573.md](em-f1ee8573.md); official file https://www.senat.ro/legis/PDF/2026/26L130EM.PDF
+- 2026-02-25: Aviz Consiliul Legislativ (LG): [lg-e0a9a0a9.md](lg-e0a9a0a9.md); official file https://www.senat.ro/legis/PDF/2026/26L130LG.PDF
+- 2026-02-25: Document (OG): [og-32f4ab7d.md](og-32f4ab7d.md); official file https://www.senat.ro/legis/PDF/2026/26L130OG.PDF
+- 2026-02-25: Document (HG): [hg-7e1041ba.md](hg-7e1041ba.md); official file https://www.senat.ro/legis/PDF/2026/26L130HG.PDF
