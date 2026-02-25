@@ -1,0 +1,40 @@
+{
+ "key": "cjue-t-72-25-hotarare-2026-02-25",
+ "label": "CJUE, Hotărârea Tribunalului (Camera a opta) din 25 februarie 2026, Cauza T-72/25",
+ "court": "cjue",
+ "court_name": "Curtea de Justiție a Uniunii Europene",
+ "kind": "hotarare",
+ "act_type": "JUDG",
+ "date": "2026-02-25",
+ "year": "2026",
+ "case": "Cauza T-72/25",
+ "celex": "62025TJ0072",
+ "ecli": "ECLI:EU:T:2026:153",
+ "heading": "Hotărârea Tribunalului (Camera a opta) din 25 februarie 2026",
+ "formation": "CHAMB_08_T",
+ "procedure": "ACTION_ANNU",
+ "romania_role": [
+  "originates"
+ ],
+ "referred_by": null,
+ "referral_text": null,
+ "national_followup": null,
+ "parties": "Viva Credit IFN SA împotriva Oficiului Uniunii Europene pentru Proprietate Intelectuală",
+ "parties_withheld": false,
+ "keywords": "Marcă a Uniunii Europene – Procedură de decădere – Marca Uniunii Europene figurativă Vivawallet – Decădere parțială – Utilizare efectivă a mărcii – Dovada utilizării efective – Articolul 58 alineatul (1) litera (a) și alineatul (2) din Regulamentul (UE) 2017/1001",
+ "interprets": [],
+ "text": null,
+ "text_withheld": "personal_data",
+ "withheld_reason": "The full text names the parties' lawyers (and, in older cases, private parties); only the metadata and the operative part are published here, with the official link.",
+ "operative_missing": true,
+ "eurlex_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62025TJ0072",
+ "curia_url": "https://curia.europa.eu/juris/liste.jsf?num=T-72/25&language=ro",
+ "source": {
+  "name": "CELLAR, Publications Office of the European Union",
+  "url": null,
+  "format": null,
+  "sha256": null
+ },
+ "legal_basis": "Jurisprudența Curții de Justiție a Uniunii Europene (texte oficiale; reutilizare permisă cu menționarea sursei: Decizia Comisiei 2011/833/UE și condițiile CURIA; © Uniunea Europeană). Textele oficiale nu sunt protejate de dreptul de autor în România (Legea nr. 8/1996, art. 9 lit. b).",
+ "attribution": "© European Union, https://eur-lex.europa.eu (via the Publications Office CELLAR)"
+}
