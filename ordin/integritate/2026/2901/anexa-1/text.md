@@ -1,0 +1,3 @@
+# ANEXĂ
+PROCEDURĂ de transmitere prin e-DAI a declarației prevăzute la art. 7^3 alin. (1) și a notificării prevăzute la art. 7^6 alin. (1) din Legea nr. 176/2010 privind integritatea în exercitarea funcțiilor și demnităților publice, pentru modificarea și completarea Legii nr. 144/2007 privind înființarea, organizarea și funcționarea Agenției
+Naționale de Integritate, precum și pentru modificarea și completarea altor acte normative, cu modificările și completările ulterioare, precum și a condițiilor în care aceasta se realizează
