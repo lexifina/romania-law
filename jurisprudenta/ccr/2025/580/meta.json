@@ -1,0 +1,277 @@
+{
+ "key": "dcc-580-2025",
+ "label": "Decizia CCR nr. 580/2025",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "580",
+ "date": "2025-11-06",
+ "year": "2025",
+ "heading": "DECIZIA nr. 580 din 6 noiembrie 2025",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 13 din Legea nr. 114/2021 privind unele măsuri în domeniul justiției în contextul pandemiei de COVID-19",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "149",
+  "bis": false,
+  "date": "2026-02-26",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "23.396/325/2021",
+  "3.115D/2021",
+  "3.437D/2021",
+  "7.457/200/2021/a2"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 114/2021",
+    "number": "114",
+    "year": "2021",
+    "path": "lege/2021/114"
+   },
+   "articles": [
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Faur Nistor Isai în Dosarul nr. 23.396/325/2021 al Judecătoriei Timișoara - Secția penală și de Costel Ghiță în Dosarul nr. 7.457/200/2021/a2 al Judecătoriei Buzău - Secția penală și constată că dispozițiile art. 13 din Legea nr. 114/2021 privind unele măsuri în domeniul justiției în contextul pandemiei de COVID-19 sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Judecătoriei Timișoara - Secția penală și Judecătoriei Buzău - Secția penală și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 114/2021",
+    "number": "114",
+    "year": "2021",
+    "path": "lege/2021/114"
+   },
+   "articles": [
+    {
+     "art": "13",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "17",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "104",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "106",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 254/2013",
+    "number": "254",
+    "year": "2013",
+    "path": "lege/2013/254"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenției pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 55/2020",
+    "number": "55",
+    "year": "2020",
+    "path": "lege/2020/55"
+   },
+   "articles": [
+    {
+     "art": "62",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 70/2020",
+    "number": "70",
+    "year": "2020",
+    "path": "oug/2020/70"
+   },
+   "articles": [
+    {
+     "art": "56",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii educației naționale nr. 1/2011",
+    "number": "1",
+    "year": "2011",
+    "path": "lege/2011/1"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2026-02-26",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/307592",
+  "text_sha256": "4eaf143b8836037e7486a3925c6f78aa565e0b0df0dc2aaf1ade20da9e62ce32",
+  "catalogue_sha256": "4eaf143b8836037e7486a3925c6f78aa565e0b0df0dc2aaf1ade20da9e62ce32",
+  "fetched": "2026-11-03T00:50:33Z",
+  "chars": 27010,
+  "portal_id": "307592",
+  "tip": "DECIZIE"
+ }
+}
