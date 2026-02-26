@@ -1,0 +1,11 @@
+# HCL Sebeș nr. 40/2026
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+- Council: Consiliul Local al Municipiului Sebeș
+- Decision: nr. 40/2026
+- Adopted: 2026-02-26
+- Title: privind aprobarea documentației cadastrale de primă înregistrare în sistemul integrat de Cadastru și Carte Funciară a imobilului „pășune” în suprafață de 19722 mp, situat administrativ în extravilanul Municipiului Sebeș, jud. Alba
+- Record: https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2026/
+- Document: https://www.primariasebes.ro/wp-content/uploads/2026/03/hcl-40-site.pdf
+- Document sha256: ef9f7531bf751532ce9bbe29c63bb8a95158a51934cfd06bfad2ad801feb03d7
