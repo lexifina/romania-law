@@ -14,6 +14,7 @@ Initiator: Guvernul României.
 - 2025-12-05: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-12-08: sent for promulgation
 - 2026-02-18: published in the Monitorul Oficial
+- 2026-02-27: promulgated, becomes Legea nr. 24/2026; published in the Monitorul Oficial; documents published: Document (day not given by the bill file), Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -24,3 +25,7 @@ Initiator: Guvernul României.
 - 2025-11-28: Document (HG): not held as text; official file https://www.senat.ro/legis/PDF/2025/25L526HG.PDF
 - 2025-12-05: Adresă privind sesizarea CCR (AXS): [axs-2a0c0456.md](axs-2a0c0456.md); official file https://www.senat.ro/legis/PDF/2025/25L526AXS.PDF
 - 2025-12-05: Forma trimisă la promulgare (LP): [lp-e7331fac.md](lp-e7331fac.md); official file https://www.senat.ro/legis/PDF/2025/25L526LP.PDF
+- 2026-02-27: Document (SC1): [sc1-96711c0e.md](sc1-96711c0e.md); official file https://www.senat.ro/legis/PDF/2025/25L526SC1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-02-27: Document (DC1): [dc1-2736f34c.md](dc1-2736f34c.md); official file https://www.senat.ro/legis/PDF/2025/25L526DC1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-02-27: Decret de promulgare (DP): [dp-ea090036.md](dp-ea090036.md); official file https://www.senat.ro/legis/PDF/2025/25L526DP.PDF
+- 2026-02-27: Forma promulgată (FP): [fp-e207db7d.md](fp-e207db7d.md); official file https://www.senat.ro/legis/PDF/2025/25L526FP.PDF
