@@ -12,6 +12,7 @@ Initiator: Membri ai Parlamentului.
 - 2025-12-16: documents published: Aviz Consiliul Legislativ, Aviz Consiliul Economic și Social
 - 2026-02-10: documents published: Aviz comisie
 - 2026-02-17: documents published: Aviz comisie, Raport comisie sesizată pe fond
+- 2026-03-02: withdrawn by the initiator; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -23,3 +24,4 @@ Initiator: Membri ai Parlamentului.
 - 2026-02-10: Aviz comisie (CA52): [ca52-fb8030e0.md](ca52-fb8030e0.md); official file https://www.senat.ro/legis/PDF/2026/26L042CA52.PDF
 - 2026-02-17: Aviz comisie (CA58): [ca58-4f832268.md](ca58-4f832268.md); official file https://www.senat.ro/legis/PDF/2026/26L042CA58.PDF
 - 2026-02-17: Raport comisie sesizată pe fond (CR): [cr-e5a437c5.md](cr-e5a437c5.md); official file https://www.senat.ro/legis/PDF/2026/26L042CR.PDF
+- 2026-03-02: Document (AR): [ar-0c5b8c89.md](ar-0c5b8c89.md); official file https://www.senat.ro/legis/PDF/2026/26L042AR.PDF (its day is not given by the bill file: shown from the last stage held)
