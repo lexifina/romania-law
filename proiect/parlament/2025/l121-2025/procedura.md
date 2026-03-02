@@ -19,6 +19,7 @@ Initiator: Membri ai Parlamentului.
 - 2025-07-05: sent for promulgation
 - 2025-10-20: published in the Monitorul Oficial
 - 2026-02-24: returned for re-examination
+- 2026-03-02: documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -33,3 +34,6 @@ Initiator: Membri ai Parlamentului.
 - 2025-06-16: Adresă către Camera Deputaților (AM): [am-8c56a5f1.md](am-8c56a5f1.md); official file https://www.senat.ro/legis/PDF/2025/25L121AM.PDF
 - 2025-06-30: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2025/25L121AXS.PDF
 - 2025-06-30: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2025/25L121LP.PDF
+- 2026-03-02: Document (SM): [sm-ab78e9e7.md](sm-ab78e9e7.md); official file https://www.senat.ro/legis/PDF/2025/25L121SM.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-03-02: Document (SC1): [sc1-a9b22398.md](sc1-a9b22398.md); official file https://www.senat.ro/legis/PDF/2025/25L121SC1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-03-02: Document (DC1): [dc1-dc89ed8c.md](dc1-dc89ed8c.md); official file https://www.senat.ro/legis/PDF/2025/25L121DC1.PDF (its day is not given by the bill file: shown from the last stage held)
