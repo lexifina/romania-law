@@ -1,0 +1,172 @@
+{
+ "key": "iccj-hp-25-2026",
+ "label": "Decizia ÎCCJ nr. 25/2026 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "25",
+ "date": "2026-01-26",
+ "year": "2026",
+ "heading": "DECIZIA nr. 25 din 26 ianuarie 2026",
+ "subtitle": "referitoare la interpretarea dispozițiilor art. 20 din anexa nr. 6 la Ordonanța de urgență a Guvernului nr. 57/2019 privind Codul administrativ, cu modificările și completările ulterioare",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "165",
+  "bis": false,
+  "date": "2026-03-04",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "1.916/1/2025",
+  "1.653/110/2024"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 57/2019",
+    "number": "57",
+    "year": "2019",
+    "path": "oug/2019/57"
+   },
+   "articles": [
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite sesizarea formulată de Curtea de Apel Bacău - Secția a II-a civilă, de contencios administrativ și fiscal în Dosarul nr. 1.653/110/2024, și, în consecință, stabilește că:",
+  "În interpretarea dispozițiilor art. 20 din anexa nr. 6 la Ordonanța de urgență a Guvernului nr. 57/2019 privind Codul administrativ, cu modificările și completările ulterioare, contestația formulată în cadrul procedurii de evaluare, la conducătorul instituției publice, reprezintă o procedură prealabilă obligatorie anterior sesizării instanței de judecată cu o acțiune în anularea raportului de evaluare.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea contenciosului administrativ nr. 554/2004",
+    "number": "554",
+    "year": "2004",
+    "path": "lege/2004/554"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 16
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "O.U.G. nr. 57/2019",
+    "number": "57",
+    "year": "2019",
+    "path": "oug/2019/57"
+   },
+   "articles": [
+    {
+     "art": "20",
+     "alin": [
+      "1",
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "27",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 23
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "50",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 188/1999",
+    "number": "188",
+    "year": "1999",
+    "path": "lege/1999/188"
+   },
+   "articles": [
+    {
+     "art": "106",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2026-03-04",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/308012",
+  "text_sha256": "b3db1babe6ed108cc6042b05784a6b381ebad5b59e6498516296407abb709878",
+  "catalogue_sha256": "b3db1babe6ed108cc6042b05784a6b381ebad5b59e6498516296407abb709878",
+  "fetched": "2026-11-03T00:50:21Z",
+  "chars": 45646,
+  "portal_id": "308012",
+  "tip": "DECIZIE"
+ }
+}
