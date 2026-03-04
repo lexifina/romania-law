@@ -1,0 +1,39 @@
+# Anexa 4
+Anexa nr. 4
+la regulament
+Model decizie de reevaluare
+AUTORITATEA NAȚIONALĂ PENTRU PROTECȚIA DREPTURILOR PERSOANELOR CU DIZABILITĂȚI
+COMISIA SUPERIOARĂ DE EVALUARE A PERSOANELOR ADULTE CU HANDICAP
+DECIZIE DE REEVALUARE
+Nr. ............ din data de ........................
+Comisia superioară de evaluare a persoanelor adulte cu handicap, constituită în conformitate cu prevederile Legii nr. 448/2006 privind protecția și promovarea drepturilor persoanelor cu handicap, republicată, cu modificările și completările ulterioare, numită prin ordin al președintelui Autorității Naționale pentru Protecția Drepturilor Persoanelor cu Dizabilități, întrunită în ședința din data de ..............................., în prezența cvorumului, [ ] analizând recomandările cuprinse în documentul de control înregistrat cu nr. ........ din data de ................., în urma acțiunii de control dispuse prin Ordinul ministrului muncii, familiei, tineretului și solidarității sociale nr. ............/......................;
+[ ] sesizându-se din oficiu ca urmare a ...................................................,
+decide
+REEVALUAREA
+doamnei/domnului .........................................., având CNP |_|_|_|_|_|_|_|_|_|_|_|_|_|, cu domiciliul/reședința în localitatea .........(satul, comuna, orașul, municipiul) ........, sectorul/județul ................................, str. ................................. nr. ......., bl. ......, sc. ....., et. ....., ap. ....., cod poștal ................, în perioada ....................................... de către …........................................ .
+Documentația necesară la reevaluare: .............................................................
+..............................................................
+..............................................................
+..............................................................
+.............................................................
+Prezenta decizie poate fi contestată potrivit prevederilor Legii contenciosului administrativ nr. 554/2004 , cu modificările și completările ulterioare.
+Președinte,
+………………………..
+(numele și prenumele)
+Semnătura
+…………………………
+Vicepreședinte,
+………………………..
+(numele și prenumele)
+Semnătura
+…………………………
+Membri:
+……………………………….
+(numele și prenumele)
+Semnătura
+……………………………….
+Secretar,
+…………………………..
+(numele și prenumele)
+Semnătura
+……………………………
