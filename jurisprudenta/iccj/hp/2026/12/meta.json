@@ -1,0 +1,207 @@
+{
+ "key": "iccj-hp-12-2026",
+ "label": "Decizia ÎCCJ nr. 12/2026 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "12",
+ "date": "2026-01-26",
+ "year": "2026",
+ "heading": "DECIZIA nr. 12 din 26 ianuarie 2026",
+ "subtitle": "referitoare la modalitatea de aplicare a art. III alin. (3) din Ordonanța de urgență a Guvernului nr. 128/2023 pentru unele măsuri referitoare la salarizarea personalului din învățământ și alte sectoare de activitate bugetară, în situația personalului angajat în funcția de șef serviciu, grad II, personal care beneficiază de sporul de condiții vătămătoare în cuantum de 15% din salariul de bază",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "168",
+  "bis": false,
+  "date": "2026-03-04",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.048/1/2025",
+  "1.825/99/2024"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 128/2023",
+    "number": "128",
+    "year": "2023",
+    "path": "oug/2023/128"
+   },
+   "articles": [
+    {
+     "art": "III",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Tribunalul Iași - Secția a II-a civilă, contencios administrativ și fiscal în Dosarul nr. 1.825/99/2024, în vederea pronunțării unei hotărâri prealabile prin care să dea o rezolvare de principiu asupra următoarei chestiuni de drept:",
+  "Care este modalitatea de aplicare a art. III alin. (3) din Ordonanța de urgență a Guvernului nr. 128/2023 pentru unele măsuri referitoare la salarizarea personalului din învățământ și alte sectoare de activitate bugetară, în situația personalului angajat în funcția de șef serviciu, grad II, personal care beneficiază de sporul de condiții vătămătoare în cuantum de 15% din salariul de bază, în sensul de a se stabili dacă și pentru reclamantă, angajată la un serviciu teritorial, se calculează salariul la nivelul salariului de bază corespunzător funcției și gradului din administrația publică centrală.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 62/2024",
+    "number": "62",
+    "year": "2024",
+    "path": "oug/2024/62"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 128/2023",
+    "number": "128",
+    "year": "2023",
+    "path": "oug/2023/128"
+   },
+   "articles": [
+    {
+     "art": "III",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "IV",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "VI",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "38",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 115/2023",
+    "number": "115",
+    "year": "2023",
+    "path": "oug/2023/115"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2026-03-04",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/308051",
+  "text_sha256": "1de461bf43a72b83b6a39be51a8bdd66cae2f1afc7cd82c38dd6ea3c498ab209",
+  "catalogue_sha256": "1de461bf43a72b83b6a39be51a8bdd66cae2f1afc7cd82c38dd6ea3c498ab209",
+  "fetched": "2026-11-03T00:50:24Z",
+  "chars": 26810,
+  "portal_id": "308051",
+  "tip": "DECIZIE"
+ }
+}
