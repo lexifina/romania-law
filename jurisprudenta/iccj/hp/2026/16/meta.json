@@ -1,0 +1,247 @@
+{
+ "key": "iccj-hp-16-2026",
+ "label": "Decizia ÎCCJ nr. 16/2026 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "16",
+ "date": "2026-01-26",
+ "year": "2026",
+ "heading": "DECIZIA nr. 16 din 26 ianuarie 2026",
+ "subtitle": "referitoare la interpretarea și aplicarea dispozițiilor art. 517 alin. (1) lit. d) și ale alin. (2) din Codul administrativ raportate la considerentele Deciziei nr. 91 din 25 noiembrie 2024 a Înaltei Curți de Casație și Justiție - Completul pentru dezlegarea unor chestiuni de drept",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "170",
+  "bis": false,
+  "date": "2026-03-05",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.382/1/2025",
+  "416/119/2025"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul administrativ",
+    "path": "oug/2019/57",
+    "slug": "codul-administrativ"
+   },
+   "articles": [
+    {
+     "art": "517",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": [
+      "d"
+     ]
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 263/2010",
+    "number": "263",
+    "year": "2010",
+    "path": "lege/2010/263"
+   },
+   "articles": [
+    {
+     "art": "114",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Curtea de Apel Brașov - Secția contencios administrativ și fiscal în Dosarul nr. 416/119/2025, în vederea pronunțării unei hotărâri prealabile prin care să dea o rezolvare de principiu asupra chestiunii de drept: În interpretarea și aplicarea dispozițiilor art. 517 alin. (1) lit. d) și ale alin. (2) din Codul administrativ raportate la considerentele Deciziei nr. 91 din 25 noiembrie 2024 a Înaltei Curți de Casație și Justiție - Completul pentru dezlegarea unor chestiuni de drept, emiterea unei decizii de pensionare anticipată sau de pensionare anticipată parțială, la cererea funcționarului public, înainte de îndeplinirea cumulativă a condițiilor de vârstă standard de pensionare și a stagiului minim de cotizare, determină încetarea de drept a raportului de serviciu sau, dimpotrivă, încetarea de drept intervine exclusiv în ipoteza îndeplinirii condițiilor standard pentru pensia de limită de vârstă, fără a se extinde la situația pensiei anticipate/anticipate parțiale, în contextul prevederilor art. 114 alin. (1) lit. b) din Legea nr. 263/2010 privind sistemul unitar de pensii publice.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 62/2024",
+    "number": "62",
+    "year": "2024",
+    "path": "oug/2024/62"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul administrativ",
+    "path": "oug/2019/57",
+    "slug": "codul-administrativ"
+   },
+   "articles": [
+    {
+     "art": "517",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": [
+      "d"
+     ]
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "51",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 21
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 263/2010",
+    "number": "263",
+    "year": "2010",
+    "path": "lege/2010/263"
+   },
+   "articles": [
+    {
+     "art": "114",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "51",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "53",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "67",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul muncii",
+    "path": "lege/2003/53",
+    "slug": "codul-muncii"
+   },
+   "articles": [
+    {
+     "art": "56",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "22",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2026-03-05",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/308061",
+  "text_sha256": "42adbe6927276d89374ee23c651217a5f46b3b091d5c5d5dc0e6bf813eaae4b8",
+  "catalogue_sha256": "42adbe6927276d89374ee23c651217a5f46b3b091d5c5d5dc0e6bf813eaae4b8",
+  "fetched": "2026-11-03T22:45:47Z",
+  "chars": 34167,
+  "portal_id": "308061",
+  "tip": "DECIZIE"
+ }
+}
