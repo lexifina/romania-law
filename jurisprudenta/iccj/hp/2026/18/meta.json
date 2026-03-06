@@ -1,0 +1,242 @@
+{
+ "key": "iccj-hp-18-2026",
+ "label": "Decizia ÎCCJ nr. 18/2026 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "18",
+ "date": "2026-01-26",
+ "year": "2026",
+ "heading": "DECIZIA nr. 18 din 26 ianuarie 2026",
+ "subtitle": "referitoare la interpretarea art. 127 și a art. 140 din Legea învățământului preuniversitar nr. 198/2023, prin raportare la art. 2, art. 6, art. 5 și art. 8 din Normele metodologice privind decontarea cheltuielilor pentru navetă la și de la locul de muncă a cadrelor didactice și personalului didactic auxiliar, aprobate prin Hotărârea Guvernului nr. 569/2015",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "175",
+  "bis": false,
+  "date": "2026-03-06",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.558/1/2025",
+  "448/99/2025"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea învățământului preuniversitar nr. 198/2023",
+    "number": "198",
+    "year": "2023",
+    "path": "lege/2023/198"
+   },
+   "articles": [
+    {
+     "art": "127",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "140",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Tribunalul Iași - Secția I civilă în Dosarul nr. 448/99/2025, în vederea pronunțării unei hotărâri prealabile privind dezlegarea următoarei chestiuni de drept:",
+  "Dacă, în interpretarea art. 127 și a art. 140 din Legea învățământului preuniversitar nr. 198/2023, prin raportare la art. 2, art. 6, art. 5 și art. 8 din Normele metodologice privind decontarea cheltuielilor pentru navetă la și de la locul de muncă a cadrelor didactice și personalului didactic auxiliar, aprobate prin Hotărârea Guvernului nr. 569/2015, se poate concluziona că între personalul didactic ce are dreptul la decontarea cheltuielilor de transport și unitatea administrativ-teritorială care trebuie să cuprindă în buget sumele necesare acestei decontări există un raport juridic obligațional direct, în sensul că cel dintâi este creditorul unității administrativ-teritoriale și poate solicita acesteia alocarea către unitatea de învățământ a sumelor necesare decontului de navetă.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 62/2024",
+    "number": "62",
+    "year": "2024",
+    "path": "oug/2024/62"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea învățământului preuniversitar nr. 198/2023",
+    "number": "198",
+    "year": "2023",
+    "path": "lege/2023/198"
+   },
+   "articles": [
+    {
+     "art": "127",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "140",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 569/2015",
+    "number": "569",
+    "year": "2015",
+    "path": "hg/2015/569"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii contenciosului administrativ nr. 554/2004",
+    "number": "554",
+    "year": "2004",
+    "path": "lege/2004/554"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "36",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârii Guvernului nr. 39/2024",
+    "number": "39",
+    "year": "2024",
+    "path": "hg/2024/39"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 367/2022",
+    "number": "367",
+    "year": "2022",
+    "path": "lege/2022/367"
+   },
+   "articles": [
+    {
+     "art": "53",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "100",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "105",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2026-03-06",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/308078",
+  "text_sha256": "ca441191c6d7e02c8e70801a1300c450009d53d57424ae7fd90de19ae02514bd",
+  "catalogue_sha256": "ca441191c6d7e02c8e70801a1300c450009d53d57424ae7fd90de19ae02514bd",
+  "fetched": "2026-11-03T16:30:42Z",
+  "chars": 37055,
+  "portal_id": "308078",
+  "tip": "DECIZIE"
+ }
+}
