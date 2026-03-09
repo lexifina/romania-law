@@ -1,0 +1,13 @@
+# Anexa 9
+Anexa nr. 9
+la regulament
+- model -
+CERERE
+pentru extinderea domeniului de certificare
+Organismul delegat ..............................., cu sediul în localitatea ............................................, str. .................... nr. .........., bl. ......., sc. ................., ap. ................., județul/sectorul ............................., România, nr. de telefon ................................, email .........................................., înmatriculat la registrul comerțului cu nr. ..........................., deținător al Certificatului de acreditare nr. ......./......................., reprezentat prin .............................., cu domiciliul în localitatea................................., str. ................... nr. ....., bl. ..............., sc. ................, ap. ......................., județul/sectorul ............................., țara ...................., nr. de telefon ........................, e-mail ........................., solicit extinderea pentru următoarele categorii/clase de produse: |_| denumiri de origine și indicații geografice (se vor enumera pentru): – produsele agricole conform clasificării din capitolele 1-23 din Nomenclatorul combinat și cele prevăzute în anexa I la Regulamentul (UE) 2024/1.143;
+|_| specialități tradiționale garantate (se vor enumera pentru): – produsele agricole destinate consumului uman enumerate în anexa I la Tratatul TFUE ;
+– produsele agricole/alimentare menționate în anexa II la Regulamentul (UE) 2024/1.143;
+– clase de produse conform anexei XVIII din Regulamentul de punere în aplicare (UE) 2025/26 al Comisiei din 30 octombrie 2024 de stabilire a normelor de aplicare a Regulamentului (UE) 2024/1.143 al Parlamentului European și al Consiliului în ceea ce privește înregistrările, modificarea Regulamentului, anulările, asigurarea respectării protecției, etichetarea și comunicarea în domeniul indicațiilor geografice și în cel al specialităților tradiționale garantate, de modificare a Regulamentului de
+punere în aplicare (UE) 2019/34 în ceea ce privește indicațiile geografice din sectorul vitivinicol și de abrogare a Regulamentelor de punere în aplicare (UE) nr. 668/2014 și (UE) 2021/1.236 și produse agricole conform anexei II din Regulamentul (UE) 2024/1.143.
+Anexez la prezenta cerere o copie a Certificatului de acreditare nr. ........../................., eliberat de organismul național de acreditare, conform standardului european EN ISO/IEC 17065, și documentele care certifică îndeplinirea cerințelor prevăzute la art. 39 alin. (3) lit. b) și, respectiv, art. 72 alin. (3) din Regulamentul (UE) 2024/1.143.
+Semnătura reprezentantului legal .................................
