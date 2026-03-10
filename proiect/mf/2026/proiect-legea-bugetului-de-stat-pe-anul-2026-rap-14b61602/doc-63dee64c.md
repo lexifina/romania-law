@@ -1,0 +1,7206 @@
+MINISTERUL FINANTELOR - ACTIUNI GENERALE
+Anexa nr.3/65
+Nr.
+formular
+01
+02
+26
+27
+Programe bugetare
+Sinteza finantarii programelor bugetare
+Fisele programelor bugetare
+CUPRINS
+Sinteza fondurilor alocate pe surse si pe titluri de cheltuieli
+Sume alocate din bugetul de stat
+Bugetul pe capitole, subcapitole, paragrafe, titluri de cheltuieli, articole si alineate
+pag.2
+
+ Denumire indicator
+SINTEZA
+fondurilor alocate pe surse si pe titluri de cheltuieli
+pe anii 2024-2029
+Anexa nr. 3 / 65 / 01   Pag.
+- mii lei -
+1
+Capi-
+tol
+Sub-
+capi-
+tol
+Pa-
+ra-
+graf
+Gru-
+pa/
+Titlu
+Ar-
+ti-
+col
+Ali-
+ne-
+at
+5000
+01
+20
+30
+40
+50
+51
+55
+56
+58
+59
+60
+61
+79
+80
+TOTAL GENERAL
+I.Credite de angajament
+II.Credite bugetare
+CHELTUIELI CURENTE
+I.Credite de angajament
+II.Credite bugetare
+TITLUL II BUNURI SI SERVICII
+I.Credite de angajament
+II.Credite bugetare
+TITLUL III DOBANZI
+I.Credite de angajament
+II.Credite bugetare
+TITLUL IV SUBVENTII
+I.Credite de angajament
+II.Credite bugetare
+TITLUL V FONDURI DE REZERVA
+I.Credite de angajament
+II.Credite bugetare
+TITLUL VI TRANSFERURI INTRE UNITATI
+ALE ADMINISTRATIEI PUBLICE
+I.Credite de angajament
+II.Credite bugetare
+TITLUL VII ALTE TRANSFERURI
+I.Credite de angajament
+II.Credite bugetare
+TITLUL VIII PROIECTE CU FINANTARE DIN
+FONDURI EXTERNE NERAMBURSABILE
+(FEN) POSTADERARE
+I.Credite de angajament
+II.Credite bugetare
+TITLUL X PROIECTE CU FINANTARE DIN
+FONDURI EXTERNE NERAMBURSABILE
+AFERENTE CADRULUI FINANCIAR 2014-
+2020 SI DIN FONDUL DE MODERNIZARE
+I.Credite de angajament
+II.Credite bugetare
+TITLUL XI  ALTE CHELTUIELI
+I.Credite de angajament
+II.Credite bugetare
+TITLUL XII PROIECTE CU FINANTARE DIN
+SUMELE REPREZENTAND ASISTENTA
+FINANCIARA NERAMBURSABILA
+AFERENTA PNRR
+I.Credite de angajament
+II.Credite bugetare
+TITLUL XIII PROIECTE CU FINANTARE DIN
+SUMELE AFERENTE COMPONENTEI DE
+IMPRUMUT A PNRR
+I.Credite de angajament
+II.Credite bugetare
+OPERATIUNI FINANCIARE
+I.Credite de angajament
+II.Credite bugetare
+TITLUL XVIII IMPRUMUTURI
+61.512.876
+59.081.155
+177.219
+34.783.239
+9.204
+1.082
+17.864.365
+746.047
+5.500.000
+2.458.415
+87.818.551
+87.149.508
+86.413.224
+85.744.181
+249.475
+249.396
+48.834.633
+48.834.633
+19.518.824
+18.849.860
+13.837.627
+13.837.627
+3.972.665
+3.972.665
+1.405.327
+1.405.327
+112.890.204
+112.425.742
+110.738.439
+110.273.977
+624.682
+577.680
+58.824.484
+58.824.484
+285.668
+285.668
+100.000
+100.000
+73.275
+73.275
+24.997.764
+24.580.304
+15.546.559
+15.546.559
+624.000
+624.000
+59.000
+59.000
+5.616.029
+5.616.029
+3.986.978
+3.986.978
+2.151.765
+2.151.765
+28,55
+29,00
+28,15
+28,61
+150,40
+131,63
+20,46
+20,46
+28,07
+30,40
+12,35
+12,35
+-84,29
+-84,29
+53,11
+53,11
+107.534.482
+108.625.593
+106.625.873
+107.716.984
+258.660
+247.648
+64.358.030
+64.358.030
+532.500
+532.500
+80.000
+80.000
+21.511.683
+22.613.806
+19.651.000
+19.651.000
+234.000
+234.000
+908.609
+908.609
+103.900.788
+105.007.911
+103.094.270
+104.201.393
+192.466
+197.466
+62.137.957
+62.137.957
+549.540
+549.540
+88.000
+88.000
+21.935.807
+23.037.930
+17.887.500
+17.887.500
+303.000
+303.000
+806.518
+806.518
+A
+B
+MINISTERUL FINANTELOR-ACTIUNI GENERALE
+102.664.623
+104.162.297
+101.955.681
+103.453.355
+177.881
+198.431
+61.572.599
+61.572.599
+549.540
+549.540
+97.000
+97.000
+22.096.161
+23.573.285
+17.209.500
+17.209.500
+253.000
+253.000
+708.942
+708.942
+Realizari
+2024
+Executie
+preliminata
+2025
+Propuneri
+2026
+Crestere /
+descrestere
+2026/2025
+Estimari
+2027
+Estimari
+2028
+Estimari
+2029
+1
+2
+3
+4
+5
+6
+7
+pag.3
+
+ Denumire indicator
+Anexa nr. 3 / 65 / 01   Pag.
+- mii lei -
+2
+Capi-
+tol
+Sub-
+capi-
+tol
+Pa-
+ra-
+graf
+Gru-
+pa/
+Titlu
+Ar-
+ti-
+col
+Ali-
+ne-
+at
+5100
+5400
+81
+84
+85
+01
+55
+56
+58
+60
+61
+01
+50
+55
+84
+85
+I.Credite de angajament
+II.Credite bugetare
+TITLUL XIX RAMBURSARI DE CREDITE
+I.Credite de angajament
+II.Credite bugetare
+PLATI EFECTUATE IN ANII PRECEDENTI SI
+RECUPERATE IN ANUL CURENT
+II.Credite bugetare
+TITLUL XXI PLATI EFECTUATE IN ANII
+PRECEDENTI SI RECUPERATE IN ANUL
+CURENT
+II.Credite bugetare
+AUTORITATI PUBLICE SI ACTIUNI
+EXTERNE
+I.Credite de angajament
+II.Credite bugetare
+CHELTUIELI CURENTE
+I.Credite de angajament
+II.Credite bugetare
+TITLUL VII ALTE TRANSFERURI
+I.Credite de angajament
+II.Credite bugetare
+TITLUL VIII PROIECTE CU FINANTARE DIN
+FONDURI EXTERNE NERAMBURSABILE
+(FEN) POSTADERARE
+I.Credite de angajament
+II.Credite bugetare
+TITLUL X PROIECTE CU FINANTARE DIN
+FONDURI EXTERNE NERAMBURSABILE
+AFERENTE CADRULUI FINANCIAR 2014-
+2020 SI DIN FONDUL DE MODERNIZARE
+I.Credite de angajament
+II.Credite bugetare
+TITLUL XII PROIECTE CU FINANTARE DIN
+SUMELE REPREZENTAND ASISTENTA
+FINANCIARA NERAMBURSABILA
+AFERENTA PNRR
+I.Credite de angajament
+II.Credite bugetare
+TITLUL XIII PROIECTE CU FINANTARE DIN
+SUMELE AFERENTE COMPONENTEI DE
+IMPRUMUT A PNRR
+I.Credite de angajament
+II.Credite bugetare
+ALTE SERVICII PUBLICE GENERALE
+I.Credite de angajament
+II.Credite bugetare
+CHELTUIELI CURENTE
+I.Credite de angajament
+II.Credite bugetare
+TITLUL V FONDURI DE REZERVA
+I.Credite de angajament
+II.Credite bugetare
+TITLUL VII ALTE TRANSFERURI
+I.Credite de angajament
+II.Credite bugetare
+PLATI EFECTUATE IN ANII PRECEDENTI SI
+RECUPERATE IN ANUL CURENT
+II.Credite bugetare
+TITLUL XXI PLATI EFECTUATE IN ANII
+2.458.415
+-26.693
+-26.693
+21.085.880
+21.085.880
+14.839.833
+746.047
+5.500.000
+324.668
+329.139
+329.139
+-4.471
+390.000
+390.000
+1.015.327
+1.015.327
+34.314.902
+34.314.902
+34.314.902
+34.314.902
+16.504.610
+16.504.610
+13.837.627
+13.837.627
+3.972.665
+3.972.665
+546.028
+546.028
+546.028
+546.028
+546.028
+546.028
+1.250.000
+1.250.000
+901.765
+901.765
+47.963.033
+47.963.033
+47.963.033
+47.963.033
+22.189.467
+22.189.467
+15.546.559
+15.546.559
+624.000
+624.000
+5.616.029
+5.616.029
+3.986.978
+3.986.978
+1.068.097
+1.068.097
+1.068.097
+1.068.097
+100.000
+100.000
+968.097
+968.097
+220,51
+220,51
+-11,18
+-11,18
+39,77
+39,77
+39,77
+39,77
+34,44
+34,44
+12,35
+12,35
+-84,29
+-84,29
+95,61
+95,61
+95,61
+95,61
+77,30
+77,30
+250.000
+250.000
+658.609
+658.609
+41.134.983
+41.134.983
+41.134.983
+41.134.983
+21.483.983
+21.483.983
+19.651.000
+19.651.000
+560.100
+560.100
+560.100
+560.100
+532.500
+532.500
+27.600
+27.600
+250.000
+250.000
+556.518
+556.518
+39.797.307
+39.797.307
+39.797.307
+39.797.307
+21.909.807
+21.909.807
+17.887.500
+17.887.500
+575.440
+575.440
+575.440
+575.440
+549.540
+549.540
+25.900
+25.900
+A
+B
+MINISTERUL FINANTELOR-ACTIUNI GENERALE
+250.000
+250.000
+458.942
+458.942
+39.287.961
+39.287.961
+39.287.961
+39.287.961
+22.078.461
+22.078.461
+17.209.500
+17.209.500
+567.140
+567.140
+567.140
+567.140
+549.540
+549.540
+17.600
+17.600
+Realizari
+2024
+Executie
+preliminata
+2025
+Propuneri
+2026
+Crestere /
+descrestere
+2026/2025
+Estimari
+2027
+Estimari
+2028
+Estimari
+2029
+1
+2
+3
+4
+5
+6
+7
+pag.4
+
+ Denumire indicator
+Anexa nr. 3 / 65 / 01   Pag.
+- mii lei -
+3
+Capi-
+tol
+Sub-
+capi-
+tol
+Pa-
+ra-
+graf
+Gru-
+pa/
+Titlu
+Ar-
+ti-
+col
+Ali-
+ne-
+at
+5500
+5600
+8000
+01
+20
+30
+51
+59
+79
+81
+84
+85
+84
+85
+01
+20
+40
+PRECEDENTI SI RECUPERATE IN ANUL
+CURENT
+II.Credite bugetare
+TRANZACTII PRIVIND DATORIA PUBLICA
+SI IMPRUMUTURI
+I.Credite de angajament
+II.Credite bugetare
+CHELTUIELI CURENTE
+I.Credite de angajament
+II.Credite bugetare
+TITLUL II BUNURI SI SERVICII
+I.Credite de angajament
+II.Credite bugetare
+TITLUL III DOBANZI
+I.Credite de angajament
+II.Credite bugetare
+TITLUL VI TRANSFERURI INTRE UNITATI
+ALE ADMINISTRATIEI PUBLICE
+I.Credite de angajament
+II.Credite bugetare
+TITLUL XI  ALTE CHELTUIELI
+I.Credite de angajament
+II.Credite bugetare
+OPERATIUNI FINANCIARE
+I.Credite de angajament
+II.Credite bugetare
+TITLUL XIX RAMBURSARI DE CREDITE
+I.Credite de angajament
+II.Credite bugetare
+PLATI EFECTUATE IN ANII PRECEDENTI SI
+RECUPERATE IN ANUL CURENT
+II.Credite bugetare
+TITLUL XXI PLATI EFECTUATE IN ANII
+PRECEDENTI SI RECUPERATE IN ANUL
+CURENT
+II.Credite bugetare
+TRANSFERURI CU CARACTER GENERAL
+INTRE DIFERITE NIVELE ALE
+ADMINISTRATIEI
+II.Credite bugetare
+PLATI EFECTUATE IN ANII PRECEDENTI SI
+RECUPERATE IN ANUL CURENT
+II.Credite bugetare
+TITLUL XXI PLATI EFECTUATE IN ANII
+PRECEDENTI SI RECUPERATE IN ANUL
+CURENT
+II.Credite bugetare
+ACTIUNI GENERALE ECONOMICE,
+COMERCIALE SI DE MUNCA
+I.Credite de angajament
+II.Credite bugetare
+CHELTUIELI CURENTE
+I.Credite de angajament
+II.Credite bugetare
+TITLUL II BUNURI SI SERVICII
+I.Credite de angajament
+II.Credite bugetare
+TITLUL IV SUBVENTII
+I.Credite de angajament
+II.Credite bugetare
+-4.471
+37.418.534
+34.961.539
+177.219
+34.783.239
+1.082
+2.458.415
+2.458.415
+-1.419
+-1.419
+-1.150
+-1.150
+-1.150
+2.684.944
+2.704.597
+9.204
+50.099.435
+50.099.356
+49.084.108
+49.084.029
+249.475
+249.396
+48.834.633
+48.834.633
+1.015.327
+1.015.327
+1.015.327
+1.015.327
+2.858.186
+2.189.222
+2.468.186
+1.799.222
+60.432.106
+60.433.649
+59.530.341
+59.531.884
+573.582
+575.125
+58.824.484
+58.824.484
+73.275
+73.275
+59.000
+59.000
+901.765
+901.765
+901.765
+901.765
+3.426.968
+2.960.963
+2.176.968
+1.710.963
+51.100
+2.555
+285.668
+285.668
+20,62
+20,63
+21,28
+21,29
+129,92
+130,61
+20,46
+20,46
+-11,18
+-11,18
+-11,18
+-11,18
+19,90
+35,25
+-11,80
+-4,91
+65.538.199
+65.529.742
+64.879.590
+64.871.133
+207.560
+199.103
+64.358.030
+64.358.030
+80.000
+80.000
+234.000
+234.000
+658.609
+658.609
+658.609
+658.609
+301.200
+1.400.768
+51.200
+1.150.768
+51.100
+48.545
+63.252.391
+63.257.391
+62.695.873
+62.700.873
+166.916
+171.916
+62.137.957
+62.137.957
+88.000
+88.000
+303.000
+303.000
+556.518
+556.518
+556.518
+556.518
+275.650
+1.377.773
+25.650
+1.127.773
+25.550
+25.550
+A
+B
+MINISTERUL FINANTELOR-ACTIUNI GENERALE
+62.559.422
+62.554.422
+62.100.480
+62.095.480
+177.881
+172.881
+61.572.599
+61.572.599
+97.000
+97.000
+253.000
+253.000
+458.942
+458.942
+458.942
+458.942
+250.100
+1.752.774
+100
+1.502.774
+25.550
+Realizari
+2024
+Executie
+preliminata
+2025
+Propuneri
+2026
+Crestere /
+descrestere
+2026/2025
+Estimari
+2027
+Estimari
+2028
+Estimari
+2029
+1
+2
+3
+4
+5
+6
+7
+pag.5
+
+ Denumire indicator
+Anexa nr. 3 / 65 / 01   Pag.
+- mii lei -
+4
+Capi-
+tol
+Sub-
+capi-
+tol
+Pa-
+ra-
+graf
+Gru-
+pa/
+Titlu
+Ar-
+ti-
+col
+Ali-
+ne-
+at
+5001
+55
+79
+80
+84
+85
+01
+20
+30
+40
+50
+51
+55
+56
+58
+59
+60
+TITLUL VII ALTE TRANSFERURI
+I.Credite de angajament
+II.Credite bugetare
+OPERATIUNI FINANCIARE
+I.Credite de angajament
+II.Credite bugetare
+TITLUL XVIII IMPRUMUTURI
+I.Credite de angajament
+II.Credite bugetare
+PLATI EFECTUATE IN ANII PRECEDENTI SI
+RECUPERATE IN ANUL CURENT
+II.Credite bugetare
+TITLUL XXI PLATI EFECTUATE IN ANII
+PRECEDENTI SI RECUPERATE IN ANUL
+CURENT
+II.Credite bugetare
+CHELTUIELI - BUGET DE STAT
+I.Credite de angajament
+II.Credite bugetare
+CHELTUIELI CURENTE
+I.Credite de angajament
+II.Credite bugetare
+TITLUL II BUNURI SI SERVICII
+I.Credite de angajament
+II.Credite bugetare
+TITLUL III DOBANZI
+I.Credite de angajament
+II.Credite bugetare
+TITLUL IV SUBVENTII
+I.Credite de angajament
+II.Credite bugetare
+TITLUL V FONDURI DE REZERVA
+I.Credite de angajament
+II.Credite bugetare
+TITLUL VI TRANSFERURI INTRE UNITATI
+ALE ADMINISTRATIEI PUBLICE
+I.Credite de angajament
+II.Credite bugetare
+TITLUL VII ALTE TRANSFERURI
+I.Credite de angajament
+II.Credite bugetare
+TITLUL VIII PROIECTE CU FINANTARE DIN
+FONDURI EXTERNE NERAMBURSABILE
+(FEN) POSTADERARE
+I.Credite de angajament
+II.Credite bugetare
+TITLUL X PROIECTE CU FINANTARE DIN
+FONDURI EXTERNE NERAMBURSABILE
+AFERENTE CADRULUI FINANCIAR 2014-
+2020 SI DIN FONDUL DE MODERNIZARE
+I.Credite de angajament
+II.Credite bugetare
+TITLUL XI  ALTE CHELTUIELI
+I.Credite de angajament
+II.Credite bugetare
+TITLUL XII PROIECTE CU FINANTARE DIN
+SUMELE REPREZENTAND ASISTENTA
+FINANCIARA NERAMBURSABILA
+AFERENTA PNRR
+2.695.393
+-19.653
+-19.653
+61.512.876
+59.081.155
+177.219
+34.783.239
+9.204
+1.082
+17.864.365
+746.047
+5.500.000
+2.468.186
+1.799.222
+390.000
+390.000
+390.000
+390.000
+87.818.551
+87.149.508
+86.413.224
+85.744.181
+249.475
+249.396
+48.834.633
+48.834.633
+19.518.824
+18.849.860
+13.837.627
+13.837.627
+3.972.665
+3.972.665
+1.840.200
+1.422.740
+1.250.000
+1.250.000
+1.250.000
+1.250.000
+112.890.204
+112.425.742
+110.738.439
+110.273.977
+624.682
+577.680
+58.824.484
+58.824.484
+285.668
+285.668
+100.000
+100.000
+73.275
+73.275
+24.997.764
+24.580.304
+15.546.559
+15.546.559
+624.000
+624.000
+59.000
+59.000
+-25,44
+-20,92
+220,51
+220,51
+220,51
+220,51
+28,55
+29,00
+28,15
+28,61
+150,40
+131,63
+20,46
+20,46
+28,07
+30,40
+12,35
+12,35
+-84,29
+-84,29
+100
+1.102.223
+250.000
+250.000
+250.000
+250.000
+107.534.482
+108.625.593
+106.625.873
+107.716.984
+258.660
+247.648
+64.358.030
+64.358.030
+532.500
+532.500
+80.000
+80.000
+21.511.683
+22.613.806
+19.651.000
+19.651.000
+234.000
+234.000
+100
+1.102.223
+250.000
+250.000
+250.000
+250.000
+103.900.788
+105.007.911
+103.094.270
+104.201.393
+192.466
+197.466
+62.137.957
+62.137.957
+549.540
+549.540
+88.000
+88.000
+21.935.807
+23.037.930
+17.887.500
+17.887.500
+303.000
+303.000
+A
+B
+MINISTERUL FINANTELOR-ACTIUNI GENERALE
+100
+1.477.224
+250.000
+250.000
+250.000
+250.000
+102.664.623
+104.162.297
+101.955.681
+103.453.355
+177.881
+198.431
+61.572.599
+61.572.599
+549.540
+549.540
+97.000
+97.000
+22.096.161
+23.573.285
+17.209.500
+17.209.500
+253.000
+253.000
+Realizari
+2024
+Executie
+preliminata
+2025
+Propuneri
+2026
+Crestere /
+descrestere
+2026/2025
+Estimari
+2027
+Estimari
+2028
+Estimari
+2029
+1
+2
+3
+4
+5
+6
+7
+pag.6
+
+ Denumire indicator
+Anexa nr. 3 / 65 / 01   Pag.
+- mii lei -
+5
+Capi-
+tol
+Sub-
+capi-
+tol
+Pa-
+ra-
+graf
+Gru-
+pa/
+Titlu
+Ar-
+ti-
+col
+Ali-
+ne-
+at
+5100
+01
+61
+79
+80
+81
+84
+85
+01
+20
+30
+50
+51
+55
+56
+58
+59
+I.Credite de angajament
+II.Credite bugetare
+TITLUL XIII PROIECTE CU FINANTARE DIN
+SUMELE AFERENTE COMPONENTEI DE
+IMPRUMUT A PNRR
+I.Credite de angajament
+II.Credite bugetare
+OPERATIUNI FINANCIARE
+I.Credite de angajament
+II.Credite bugetare
+TITLUL XVIII IMPRUMUTURI
+I.Credite de angajament
+II.Credite bugetare
+TITLUL XIX RAMBURSARI DE CREDITE
+I.Credite de angajament
+II.Credite bugetare
+PLATI EFECTUATE IN ANII PRECEDENTI SI
+RECUPERATE IN ANUL CURENT
+II.Credite bugetare
+TITLUL XXI PLATI EFECTUATE IN ANII
+PRECEDENTI SI RECUPERATE IN ANUL
+CURENT
+II.Credite bugetare
+Partea I-a SERVICII PUBLICE GENERALE
+I.Credite de angajament
+II.Credite bugetare
+CHELTUIELI CURENTE
+I.Credite de angajament
+II.Credite bugetare
+TITLUL II BUNURI SI SERVICII
+I.Credite de angajament
+II.Credite bugetare
+TITLUL III DOBANZI
+I.Credite de angajament
+II.Credite bugetare
+TITLUL V FONDURI DE REZERVA
+I.Credite de angajament
+II.Credite bugetare
+TITLUL VI TRANSFERURI INTRE UNITATI
+ALE  ADMINISTRATIEI PUBLICE
+I.Credite de angajament
+II.Credite bugetare
+TITLUL VII ALTE TRANSFERURI
+I.Credite de angajament
+II.Credite bugetare
+TITLUL VIII PROIECTE CU FINANTARE DIN
+FONDURI EXTERNE NERAMBURSABILE
+(FEN) POSTADERARE
+I.Credite de angajament
+II.Credite bugetare
+TITLUL X PROIECTE CU FINANTARE DIN
+FONDURI EXTERNE NERAMBURSABILE
+AFERENTE CADRULUI FINANCIAR 2014-
+2020 SI DIN FONDUL DE MODERNIZARE
+I.Credite de angajament
+II.Credite bugetare
+TITLUL XI  ALTE CHELTUIELI
+I.Credite de angajament
+II.Credite bugetare
+2.458.415
+2.458.415
+-26.693
+-26.693
+58.827.932
+56.376.558
+177.219
+34.783.239
+1.082
+15.168.972
+746.047
+5.500.000
+1.405.327
+1.405.327
+390.000
+390.000
+1.015.327
+1.015.327
+84.960.365
+84.960.286
+83.945.038
+83.944.959
+249.475
+249.396
+48.834.633
+48.834.633
+17.050.638
+17.050.638
+13.837.627
+13.837.627
+3.972.665
+3.972.665
+5.616.029
+5.616.029
+3.986.978
+3.986.978
+2.151.765
+2.151.765
+1.250.000
+1.250.000
+901.765
+901.765
+109.463.236
+109.464.779
+108.561.471
+108.563.014
+573.582
+575.125
+58.824.484
+58.824.484
+100.000
+100.000
+73.275
+73.275
+23.157.564
+23.157.564
+15.546.559
+15.546.559
+624.000
+624.000
+59.000
+59.000
+53,11
+53,11
+220,51
+220,51
+-11,18
+-11,18
+28,84
+28,84
+29,32
+29,33
+129,92
+130,61
+20,46
+20,46
+35,82
+35,82
+12,35
+12,35
+-84,29
+-84,29
+908.609
+908.609
+250.000
+250.000
+658.609
+658.609
+107.233.282
+107.224.825
+106.574.673
+106.566.216
+207.560
+199.103
+64.358.030
+64.358.030
+532.500
+532.500
+80.000
+80.000
+21.511.583
+21.511.583
+19.651.000
+19.651.000
+234.000
+234.000
+806.518
+806.518
+250.000
+250.000
+556.518
+556.518
+103.625.138
+103.630.138
+103.068.620
+103.073.620
+166.916
+171.916
+62.137.957
+62.137.957
+549.540
+549.540
+88.000
+88.000
+21.935.707
+21.935.707
+17.887.500
+17.887.500
+303.000
+303.000
+A
+B
+MINISTERUL FINANTELOR-ACTIUNI GENERALE
+708.942
+708.942
+250.000
+250.000
+458.942
+458.942
+102.414.523
+102.409.523
+101.955.581
+101.950.581
+177.881
+172.881
+61.572.599
+61.572.599
+549.540
+549.540
+97.000
+97.000
+22.096.061
+22.096.061
+17.209.500
+17.209.500
+253.000
+253.000
+Realizari
+2024
+Executie
+preliminata
+2025
+Propuneri
+2026
+Crestere /
+descrestere
+2026/2025
+Estimari
+2027
+Estimari
+2028
+Estimari
+2029
+1
+2
+3
+4
+5
+6
+7
+pag.7
+
+ Denumire indicator
+Anexa nr. 3 / 65 / 01   Pag.
+- mii lei -
+6
+Capi-
+tol
+Sub-
+capi-
+tol
+Pa-
+ra-
+graf
+Gru-
+pa/
+Titlu
+Ar-
+ti-
+col
+Ali-
+ne-
+at
+5101
+5401
+60
+61
+79
+81
+84
+85
+01
+55
+56
+58
+60
+61
+01
+TITLUL XII PROIECTE CU FINANTARE DIN
+SUMELE REPREZENTAND ASISTENTA
+FINANCIARA NERAMBURSABILA
+AFERENTA PNRR
+I.Credite de angajament
+II.Credite bugetare
+TITLUL XIII PROIECTE CU FINANTARE DIN
+SUMELE AFERENTE COMPONENTEI DE
+IMPRUMUT A PNRR
+I.Credite de angajament
+II.Credite bugetare
+OPERATIUNI FINANCIARE
+I.Credite de angajament
+II.Credite bugetare
+TITLUL XIX RAMBURSARI DE CREDITE
+I.Credite de angajament
+II.Credite bugetare
+PLATI EFECTUATE IN ANII PRECEDENTI SI
+RECUPERATE IN ANUL CURENT
+II.Credite bugetare
+TITLUL XXI PLATI EFECTUATE IN ANII
+PRECEDENTI SI RECUPERATE IN ANUL
+CURENT
+II.Credite bugetare
+AUTORITATI PUBLICE SI ACTIUNI
+EXTERNE
+I.Credite de angajament
+II.Credite bugetare
+CHELTUIELI CURENTE
+I.Credite de angajament
+II.Credite bugetare
+TITLUL VII ALTE TRANSFERURI
+I.Credite de angajament
+II.Credite bugetare
+TITLUL VIII PROIECTE CU FINANTARE DIN
+FONDURI EXTERNE NERAMBURSABILE
+(FEN) POSTADERARE
+I.Credite de angajament
+II.Credite bugetare
+TITLUL X PROIECTE CU FINANTARE DIN
+FONDURI EXTERNE NERAMBURSABILE
+AFERENTE CADRULUI FINANCIAR 2014-
+2020 SI DIN FONDUL DE MODERNIZARE
+I.Credite de angajament
+II.Credite bugetare
+TITLUL XII PROIECTE CU FINANTARE DIN
+SUMELE REPREZENTAND ASISTENTA
+FINANCIARA NERAMBURSABILA
+AFERENTA PNRR
+I.Credite de angajament
+II.Credite bugetare
+TITLUL XIII PROIECTE CU FINANTARE DIN
+SUMELE AFERENTE COMPONENTEI DE
+IMPRUMUT A PNRR
+I.Credite de angajament
+II.Credite bugetare
+ALTE SERVICII PUBLICE GENERALE
+I.Credite de angajament
+II.Credite bugetare
+CHELTUIELI CURENTE
+I.Credite de angajament
+2.458.415
+2.458.415
+-7.040
+-5.621
+21.085.880
+21.085.880
+14.839.833
+746.047
+5.500.000
+324.668
+1.015.327
+1.015.327
+1.015.327
+1.015.327
+34.314.902
+34.314.902
+34.314.902
+34.314.902
+16.504.610
+16.504.610
+13.837.627
+13.837.627
+3.972.665
+3.972.665
+546.028
+546.028
+546.028
+5.616.029
+5.616.029
+3.986.978
+3.986.978
+901.765
+901.765
+901.765
+901.765
+47.963.033
+47.963.033
+47.963.033
+47.963.033
+22.189.467
+22.189.467
+15.546.559
+15.546.559
+624.000
+624.000
+5.616.029
+5.616.029
+3.986.978
+3.986.978
+1.068.097
+1.068.097
+1.068.097
+-11,18
+-11,18
+-11,18
+-11,18
+39,77
+39,77
+39,77
+39,77
+34,44
+34,44
+12,35
+12,35
+-84,29
+-84,29
+95,61
+95,61
+95,61
+658.609
+658.609
+658.609
+658.609
+41.134.983
+41.134.983
+41.134.983
+41.134.983
+21.483.983
+21.483.983
+19.651.000
+19.651.000
+560.100
+560.100
+560.100
+556.518
+556.518
+556.518
+556.518
+39.797.307
+39.797.307
+39.797.307
+39.797.307
+21.909.807
+21.909.807
+17.887.500
+17.887.500
+575.440
+575.440
+575.440
+A
+B
+MINISTERUL FINANTELOR-ACTIUNI GENERALE
+458.942
+458.942
+458.942
+458.942
+39.287.961
+39.287.961
+39.287.961
+39.287.961
+22.078.461
+22.078.461
+17.209.500
+17.209.500
+567.140
+567.140
+567.140
+Realizari
+2024
+Executie
+preliminata
+2025
+Propuneri
+2026
+Crestere /
+descrestere
+2026/2025
+Estimari
+2027
+Estimari
+2028
+Estimari
+2029
+1
+2
+3
+4
+5
+6
+7
+pag.8
+
+ Denumire indicator
+Anexa nr. 3 / 65 / 01   Pag.
+- mii lei -
+7
+Capi-
+tol
+Sub-
+capi-
+tol
+Pa-
+ra-
+graf
+Gru-
+pa/
+Titlu
+Ar-
+ti-
+col
+Ali-
+ne-
+at
+5501
+5601
+8000
+01
+50
+55
+84
+85
+01
+20
+30
+51
+59
+79
+81
+84
+85
+84
+85
+II.Credite bugetare
+TITLUL V FONDURI DE REZERVA
+I.Credite de angajament
+II.Credite bugetare
+TITLUL VII ALTE TRANSFERURI
+I.Credite de angajament
+II.Credite bugetare
+PLATI EFECTUATE IN ANII PRECEDENTI SI
+RECUPERATE IN ANUL CURENT
+II.Credite bugetare
+TITLUL XXI PLATI EFECTUATE IN ANII
+PRECEDENTI SI RECUPERATE IN ANUL
+CURENT
+II.Credite bugetare
+TRANZACTII PRIVIND DATORIA PUBLICA
+SI IMPRUMUTURI
+I.Credite de angajament
+II.Credite bugetare
+CHELTUIELI CURENTE
+I.Credite de angajament
+II.Credite bugetare
+TITLUL II BUNURI SI SERVICII
+I.Credite de angajament
+II.Credite bugetare
+TITLUL III DOBANZI
+I.Credite de angajament
+II.Credite bugetare
+TITLUL VI TRANSFERURI INTRE UNITATI
+ALE ADMINISTRATIEI PUBLICE
+I.Credite de angajament
+II.Credite bugetare
+TITLUL XI  ALTE CHELTUIELI
+I.Credite de angajament
+II.Credite bugetare
+OPERATIUNI FINANCIARE
+I.Credite de angajament
+II.Credite bugetare
+TITLUL XIX RAMBURSARI DE CREDITE
+I.Credite de angajament
+II.Credite bugetare
+PLATI EFECTUATE IN ANII PRECEDENTI SI
+RECUPERATE IN ANUL CURENT
+II.Credite bugetare
+TITLUL XXI PLATI EFECTUATE IN ANII
+PRECEDENTI SI RECUPERATE IN ANUL
+CURENT
+II.Credite bugetare
+TRANSFERURI CU CARACTER GENERAL
+INTRE DIFERITE NIVELE ALE
+ADMINISTRATIEI
+II.Credite bugetare
+PLATI EFECTUATE IN ANII PRECEDENTI SI
+RECUPERATE IN ANUL CURENT
+II.Credite bugetare
+TITLUL XXI PLATI EFECTUATE IN ANII
+PRECEDENTI SI RECUPERATE IN ANUL
+CURENT
+II.Credite bugetare
+Partea a V-a ACTIUNI ECONOMICE
+I.Credite de angajament
+329.139
+329.139
+-4.471
+-4.471
+37.418.534
+34.961.539
+177.219
+34.783.239
+1.082
+2.458.415
+2.458.415
+-1.419
+-1.419
+-1.150
+-1.150
+-1.150
+546.028
+546.028
+546.028
+50.099.435
+50.099.356
+49.084.108
+49.084.029
+249.475
+249.396
+48.834.633
+48.834.633
+1.015.327
+1.015.327
+1.015.327
+1.015.327
+2.858.186
+1.068.097
+100.000
+100.000
+968.097
+968.097
+60.432.106
+60.433.649
+59.530.341
+59.531.884
+573.582
+575.125
+58.824.484
+58.824.484
+73.275
+73.275
+59.000
+59.000
+901.765
+901.765
+901.765
+901.765
+3.426.968
+95,61
+77,30
+77,30
+20,62
+20,63
+21,28
+21,29
+129,92
+130,61
+20,46
+20,46
+-11,18
+-11,18
+-11,18
+-11,18
+19,90
+560.100
+532.500
+532.500
+27.600
+27.600
+65.538.199
+65.529.742
+64.879.590
+64.871.133
+207.560
+199.103
+64.358.030
+64.358.030
+80.000
+80.000
+234.000
+234.000
+658.609
+658.609
+658.609
+658.609
+301.200
+575.440
+549.540
+549.540
+25.900
+25.900
+63.252.391
+63.257.391
+62.695.873
+62.700.873
+166.916
+171.916
+62.137.957
+62.137.957
+88.000
+88.000
+303.000
+303.000
+556.518
+556.518
+556.518
+556.518
+275.650
+A
+B
+MINISTERUL FINANTELOR-ACTIUNI GENERALE
+567.140
+549.540
+549.540
+17.600
+17.600
+62.559.422
+62.554.422
+62.100.480
+62.095.480
+177.881
+172.881
+61.572.599
+61.572.599
+97.000
+97.000
+253.000
+253.000
+458.942
+458.942
+458.942
+458.942
+250.100
+Realizari
+2024
+Executie
+preliminata
+2025
+Propuneri
+2026
+Crestere /
+descrestere
+2026/2025
+Estimari
+2027
+Estimari
+2028
+Estimari
+2029
+1
+2
+3
+4
+5
+6
+7
+pag.9
+
+ Denumire indicator
+Anexa nr. 3 / 65 / 01   Pag.
+- mii lei -
+8
+Capi-
+tol
+Sub-
+capi-
+tol
+Pa-
+ra-
+graf
+Gru-
+pa/
+Titlu
+Ar-
+ti-
+col
+Ali-
+ne-
+at
+8001
+01
+20
+40
+55
+79
+80
+84
+85
+01
+20
+40
+55
+79
+80
+84
+85
+II.Credite bugetare
+CHELTUIELI CURENTE
+I.Credite de angajament
+II.Credite bugetare
+TITLUL II BUNURI SI SERVICII
+I.Credite de angajament
+II.Credite bugetare
+TITLUL IV SUBVENTII
+I.Credite de angajament
+II.Credite bugetare
+TITLUL VII ALTE TRANSFERURI
+I.Credite de angajament
+II.Credite bugetare
+OPERATIUNI FINANCIARE
+I.Credite de angajament
+II.Credite bugetare
+TITLUL XVIII IMPRUMUTURI
+I.Credite de angajament
+II.Credite bugetare
+PLATI EFECTUATE IN ANII PRECEDENTI SI
+RECUPERATE IN ANUL CURENT
+II.Credite bugetare
+TITLUL XXI PLATI EFECTUATE IN ANII
+PRECEDENTI SI RECUPERATE IN ANUL
+CURENT
+II.Credite bugetare
+ACTIUNI GENERALE ECONOMICE,
+COMERCIALE SI DE MUNCA
+I.Credite de angajament
+II.Credite bugetare
+CHELTUIELI CURENTE
+I.Credite de angajament
+II.Credite bugetare
+TITLUL II BUNURI SI SERVICII
+I.Credite de angajament
+II.Credite bugetare
+TITLUL IV SUBVENTII
+I.Credite de angajament
+II.Credite bugetare
+TITLUL VII ALTE TRANSFERURI
+I.Credite de angajament
+II.Credite bugetare
+OPERATIUNI FINANCIARE
+I.Credite de angajament
+II.Credite bugetare
+TITLUL XVIII IMPRUMUTURI
+I.Credite de angajament
+II.Credite bugetare
+PLATI EFECTUATE IN ANII PRECEDENTI SI
+RECUPERATE IN ANUL CURENT
+II.Credite bugetare
+TITLUL XXI PLATI EFECTUATE IN ANII
+PRECEDENTI SI RECUPERATE IN ANUL
+CURENT
+II.Credite bugetare
+2.684.944
+2.704.597
+9.204
+2.695.393
+-19.653
+-19.653
+2.684.944
+2.704.597
+9.204
+2.695.393
+-19.653
+-19.653
+2.189.222
+2.468.186
+1.799.222
+2.468.186
+1.799.222
+390.000
+390.000
+390.000
+390.000
+2.858.186
+2.189.222
+2.468.186
+1.799.222
+2.468.186
+1.799.222
+390.000
+390.000
+390.000
+390.000
+2.960.963
+2.176.968
+1.710.963
+51.100
+2.555
+285.668
+285.668
+1.840.200
+1.422.740
+1.250.000
+1.250.000
+1.250.000
+1.250.000
+3.426.968
+2.960.963
+2.176.968
+1.710.963
+51.100
+2.555
+285.668
+285.668
+1.840.200
+1.422.740
+1.250.000
+1.250.000
+1.250.000
+1.250.000
+35,25
+-11,80
+-4,91
+-25,44
+-20,92
+220,51
+220,51
+220,51
+220,51
+19,90
+35,25
+-11,80
+-4,91
+-25,44
+-20,92
+220,51
+220,51
+220,51
+220,51
+1.400.768
+51.200
+1.150.768
+51.100
+48.545
+100
+1.102.223
+250.000
+250.000
+250.000
+250.000
+301.200
+1.400.768
+51.200
+1.150.768
+51.100
+48.545
+100
+1.102.223
+250.000
+250.000
+250.000
+250.000
+1.377.773
+25.650
+1.127.773
+25.550
+25.550
+100
+1.102.223
+250.000
+250.000
+250.000
+250.000
+275.650
+1.377.773
+25.650
+1.127.773
+25.550
+25.550
+100
+1.102.223
+250.000
+250.000
+250.000
+250.000
+A
+B
+MINISTERUL FINANTELOR-ACTIUNI GENERALE
+1.752.774
+100
+1.502.774
+25.550
+100
+1.477.224
+250.000
+250.000
+250.000
+250.000
+250.100
+1.752.774
+100
+1.502.774
+25.550
+100
+1.477.224
+250.000
+250.000
+250.000
+250.000
+Realizari
+2024
+Executie
+preliminata
+2025
+Propuneri
+2026
+Crestere /
+descrestere
+2026/2025
+Estimari
+2027
+Estimari
+2028
+Estimari
+2029
+1
+2
+3
+4
+5
+6
+7
+pag.10
+
+ Denumire indicator
+Bugetul pe capitole, subcapitole, paragrafe, titluri de cheltuieli, articole si  alineate
+pe anii 2024-2029
+(sume alocate din bugetul de stat)
+Anexa nr. 3 / 65 / 02   Pag.
+- mii lei -
+1
+Capi-
+tol
+Sub-
+capi-
+tol
+Pa-
+ra-
+graf
+Gru-
+pa/
+Titlu
+Ar-
+ti-
+col
+Ali-
+ne-
+at
+5001
+01
+20
+30
+40
+01
+02
+03
+04
+13
+01
+03
+01
+04
+06
+06
+07
+CHELTUIELI - BUGET DE STAT
+I.Credite de angajament
+II.Credite bugetare
+CHELTUIELI CURENTE
+I.Credite de angajament
+II.Credite bugetare
+TITLUL II BUNURI SI SERVICII
+I.Credite de angajament
+II.Credite bugetare
+TITLUL III DOBANZI
+I.Credite de angajament
+II.Credite bugetare
+ Dobanzi aferente datoriei publice interne
+I.Credite de angajament
+II.Credite bugetare
+  Dobanzi aferente datoriei publice interne directe
+I.Credite de angajament
+II.Credite bugetare
+Prime la emisiunea titlurilor de stat
+I.Credite de angajament
+II.Credite bugetare
+ Dobanzi aferente datoriei publice externe
+I.Credite de angajament
+II.Credite bugetare
+  Dobanzi, aferente datoriei publice externe directe
+I.Credite de angajament
+II.Credite bugetare
+ Prime la emisiunea titlurilor de stat
+I.Credite de angajament
+II.Credite bugetare
+Dobanzi aferente tranzactiilor cu instrumente
+financiare derivate
+II.Credite bugetare
+ Alte dobanzi
+II.Credite bugetare
+Dobanzi aferente colateralului din tranzactii cu
+instrumente financiare derivate
+II.Credite bugetare
+Suma neta negativa aferenta diferentei de dobanda
+bonificata pentru disponibilitatile contului curent in
+valuta administrat de Ministerul Finantelor  la
+Banca Nationala a Romaniei
+II.Credite bugetare
+ Dobanzi aferente imprumuturilor
+preluate/contractate de MF in baza OUG 64/2007
+I.Credite de angajament
+II.Credite bugetare
+TITLUL IV SUBVENTII
+I.Credite de angajament
+II.Credite bugetare
+Sustinerea exportului, a mediului de afaceri si a
+tranzactiilor internationale
+II.Credite bugetare
+61.512.876
+59.081.155
+177.219
+34.783.239
+21.148.714
+23.399.716
+-2.251.002
+13.464.989
+13.912.780
+-447.791
+4
+4
+169.532
+9.204
+9.204
+87.818.551
+87.149.508
+86.413.224
+85.744.181
+249.475
+249.396
+48.834.633
+48.834.633
+30.419.771
+30.419.771
+31.299.571
+31.299.571
+-879.800
+-879.800
+18.325.576
+18.325.576
+18.556.370
+18.556.370
+-230.794
+-230.794
+89.286
+89.286
+112.890.204
+112.425.742
+110.738.439
+110.273.977
+624.682
+577.680
+58.824.484
+58.824.484
+31.866.568
+31.866.568
+26.860.073
+26.783.573
+76.500
+13.005
+13.000
+5
+84.838
+285.668
+285.668
+285.668
+28,55
+29,00
+28,15
+28,61
+150,40
+131,63
+20,46
+20,46
+4,76
+1,81
+46,57
+44,34
+-4,98
+107.534.482
+108.625.593
+106.625.873
+107.716.984
+258.660
+247.648
+64.358.030
+64.358.030
+103.900.788
+105.007.911
+103.094.270
+104.201.393
+192.466
+197.466
+62.137.957
+62.137.957
+A
+B
+MINISTERUL FINANTELOR-ACTIUNI GENERALE
+102.664.623
+104.162.297
+101.955.681
+103.453.355
+177.881
+198.431
+61.572.599
+61.572.599
+Realizari
+2024
+Executie
+preliminata
+2025
+Propuneri
+2026
+Crestere /
+descrestere
+2026/2025
+Estimari
+2027
+Estimari
+2028
+Estimari
+2029
+1
+2
+3
+4
+5
+6
+7
+pag.11
+
+ Denumire indicator
+Anexa nr. 3 / 65 / 02   Pag.
+- mii lei -
+2
+Capi-
+tol
+Sub-
+capi-
+tol
+Pa-
+ra-
+graf
+Gru-
+pa/
+Titlu
+Ar-
+ti-
+col
+Ali-
+ne-
+at
+50
+51
+55
+01
+02
+01
+02
+03
+10
+46
+47
+50
+61
+05
+01
+04
+06
+07
+10
+TITLUL V FONDURI DE REZERVA
+I.Credite de angajament
+II.Credite bugetare
+Fond de rezerva bugetara la dispozitia Guvernului
+II.Credite bugetare
+TITLUL VI TRANSFERURI INTRE UNITATI
+ALE ADMINISTRATIEI PUBLICE
+I.Credite de angajament
+II.Credite bugetare
+ Transferuri de capital
+II.Credite bugetare
+  Plati in contul creditelor garantate si/sau
+subimprumutate
+II.Credite bugetare
+TITLUL VII ALTE TRANSFERURI
+I.Credite de angajament
+II.Credite bugetare
+ A. Transferuri interne
+I.Credite de angajament
+II.Credite bugetare
+  Transferuri catre intreprinderi in cadrul schemelor
+de ajutor de stat
+I.Credite de angajament
+II.Credite bugetare
+  Plata valorii de executare a garantiei in contul
+finantatorilor in cadrul programului "Prima
+casa/Noua casa"
+I.Credite de angajament
+II.Credite bugetare
+Sume rezultate din executarea garantiilor acordate
+din bugetul de stat
+I.Credite de angajament
+II.Credite bugetare
+ Fond de premiere pentru Loteria bonurilor fiscale
+II.Credite bugetare
+ B. Transferuri curente in strainatate (catre
+organizatii internationale)
+I.Credite de angajament
+II.Credite bugetare
+Contributia Romaniei la Fondul European pentru
+dezvoltare
+I.Credite de angajament
+II.Credite bugetare
+ Contributia Romaniei la bugetul U.E.
+I.Credite de angajament
+II.Credite bugetare
+ Contributii din taxe vamale
+I.Credite de angajament
+II.Credite bugetare
+  Contributii din resursa TVA
+I.Credite de angajament
+II.Credite bugetare
+  Contributii din resursa VBN
+I.Credite de angajament
+II.Credite bugetare
+  Contributii suplimentare si neprevazute
+I.Credite de angajament
+II.Credite bugetare
+Contributii pentru reducerile in favoarea Austriei,
+1.082
+1.082
+1.082
+17.864.365
+2.970.951
+2.695.393
+9.640
+265.918
+53.581
+53.581
+14.786.995
+1.413.972
+1.879.398
+8.386.036
+932.280
+19.518.824
+18.849.860
+2.984.959
+2.315.995
+2.468.186
+1.799.222
+8.699
+8.699
+508.074
+508.074
+29.255
+29.255
+29.255
+29.255
+16.450.068
+16.450.068
+1.803.509
+1.803.509
+2.029.391
+2.029.391
+10.182.798
+10.182.798
+275.282
+275.282
+100.000
+100.000
+100.000
+73.275
+73.275
+73.275
+73.275
+24.997.764
+24.580.304
+2.365.037
+1.422.540
+15.000
+927.297
+200
+25.800
+25.800
+22.118.367
+2.040.000
+2.239.673
+14.318.040
+1.220.000
+28,07
+30,40
+2,12
+-20,94
+72,43
+82,51
+-11,81
+-11,81
+34,46
+13,11
+10,36
+40,61
+343,18
+532.500
+532.500
+80.000
+80.000
+21.511.683
+22.613.806
+549.540
+549.540
+88.000
+88.000
+21.935.807
+23.037.930
+A
+B
+MINISTERUL FINANTELOR-ACTIUNI GENERALE
+549.540
+549.540
+97.000
+97.000
+22.096.161
+23.573.285
+Realizari
+2024
+Executie
+preliminata
+2025
+Propuneri
+2026
+Crestere /
+descrestere
+2026/2025
+Estimari
+2027
+Estimari
+2028
+Estimari
+2029
+1
+2
+3
+4
+5
+6
+7
+pag.12
+
+ Denumire indicator
+Anexa nr. 3 / 65 / 02   Pag.
+- mii lei -
+3
+Capi-
+tol
+Sub-
+capi-
+tol
+Pa-
+ra-
+graf
+Gru-
+pa/
+Titlu
+Ar-
+ti-
+col
+Ali-
+ne-
+at
+56
+58
+59
+60
+61
+04
+71
+24
+45
+01
+02
+03
+11
+04
+01
+Danemarcei, Germaniei, Tarilor de Jos si Suediei
+I.Credite de angajament
+II.Credite bugetare
+ Contributii din deseurile de ambalaje din plastic
+nereciclate
+I.Credite de angajament
+II.Credite bugetare
+Alte plati catre UE
+I.Credite de angajament
+II.Credite bugetare
+Contributia financiara catre UE in contul
+sprijinului macrofinanciar acordat Ucrainei
+I.Credite de angajament
+II.Credite bugetare
+TITLUL VIII PROIECTE CU FINANTARE DIN
+FONDURI EXTERNE NERAMBURSABILE
+(FEN) POSTADERARE
+I.Credite de angajament
+II.Credite bugetare
+Sume aferente asistentei financiare nerambursabile
+alocate de Uniunea Europeana in perioada de
+programare 2021-2027
+I.Credite de angajament
+II.Credite bugetare
+Sume necesare pentru continuarea proiectelor in
+cazul indisponibilitatii temporare a fondurilor
+europene
+I.Credite de angajament
+II.Credite bugetare
+TITLUL X PROIECTE CU FINANTARE DIN
+FONDURI EXTERNE NERAMBURSABILE
+AFERENTE CADRULUI FINANCIAR 2014-
+2020 SI DIN FONDUL DE MODERNIZARE
+I.Credite de angajament
+II.Credite bugetare
+ Sume aferente asistentei financiare nerambursabile
+alocata de Uniunea Europeana in perioada de
+programare 2014-2020
+I.Credite de angajament
+II.Credite bugetare
+TITLUL XI  ALTE CHELTUIELI
+I.Credite de angajament
+II.Credite bugetare
+Plata garantiilor de stat aferente activitatii Bancii
+de Investitii si Dezvoltare
+II.Credite bugetare
+TITLUL XII PROIECTE CU FINANTARE DIN
+SUMELE REPREZENTAND ASISTENTA
+FINANCIARA NERAMBURSABILA
+AFERENTA PNRR
+I.Credite de angajament
+II.Credite bugetare
+Fonduri europene nerambursabile
+II.Credite bugetare
+Finatare publica nationala
+II.Credite bugetare
+Sume aferente TVA
+II.Credite bugetare
+TITLUL XIII PROIECTE CU FINANTARE DIN
+SUMELE AFERENTE COMPONENTEI DE
+IMPRUMUT A PNRR
+858.609
+1.316.701
+52.838
+52.838
+746.047
+746.047
+746.047
+5.500.000
+5.500.000
+920.278
+920.278
+1.238.810
+1.238.810
+54.542
+54.542
+54.542
+54.542
+13.837.627
+13.837.627
+13.837.627
+13.837.627
+13.837.627
+13.837.627
+3.972.665
+3.972.665
+3.972.665
+3.972.665
+1.010.297
+1.290.357
+71.100
+71.100
+15.546.559
+15.546.559
+15.546.559
+15.546.559
+624.000
+624.000
+624.000
+59.000
+59.000
+59.000
+5.616.029
+5.616.029
+3.319.615
+1.321.731
+974.683
+9,78
+4,16
+30,36
+30,36
+12,35
+12,35
+12,35
+12,35
+-84,29
+-84,29
+-84,29
+19.651.000
+19.651.000
+234.000
+234.000
+17.887.500
+17.887.500
+303.000
+303.000
+A
+B
+MINISTERUL FINANTELOR-ACTIUNI GENERALE
+17.209.500
+17.209.500
+253.000
+253.000
+Realizari
+2024
+Executie
+preliminata
+2025
+Propuneri
+2026
+Crestere /
+descrestere
+2026/2025
+Estimari
+2027
+Estimari
+2028
+Estimari
+2029
+1
+2
+3
+4
+5
+6
+7
+pag.13
+
+ Denumire indicator
+Anexa nr. 3 / 65 / 02   Pag.
+- mii lei -
+4
+Capi-
+tol
+Sub-
+capi-
+tol
+Pa-
+ra-
+graf
+Gru-
+pa/
+Titlu
+Ar-
+ti-
+col
+Ali-
+ne-
+at
+5100
+01
+79
+80
+81
+84
+85
+01
+20
+30
+50
+01
+03
+11
+14
+03
+01
+03
+05
+I.Credite de angajament
+II.Credite bugetare
+Fonduri din imprumut rambursabil
+II.Credite bugetare
+Sume aferente TVA
+II.Credite bugetare
+OPERATIUNI FINANCIARE
+I.Credite de angajament
+II.Credite bugetare
+TITLUL XVIII IMPRUMUTURI
+I.Credite de angajament
+II.Credite bugetare
+ Fonduri de la bugetul de stat puse la dispozitia
+EXIMBANK
+I.Credite de angajament
+II.Credite bugetare
+Fonduri puse la dispozitia Bancii de Investitii si
+Dezvoltare
+II.Credite bugetare
+TITLUL XIX RAMBURSARI DE CREDITE
+I.Credite de angajament
+II.Credite bugetare
+ Rambursari de credite in contul imprumuturilor
+preluate/contractate de MF in baza OUG 64/2007
+I.Credite de angajament
+II.Credite bugetare
+PLATI EFECTUATE IN ANII PRECEDENTI SI
+RECUPERATE IN ANUL CURENT
+II.Credite bugetare
+TITLUL XXI PLATI EFECTUATE IN ANII
+PRECEDENTI SI RECUPERATE IN ANUL
+CURENT
+II.Credite bugetare
+ Plati efectuate in anii precedenti si recuperate in
+anul curent
+II.Credite bugetare
+ Plati efectuate in anii  precedenti si recuperate in
+anul curent aferente cheltuielilor curente si
+operatiunilor financiare ale altor institutii publice
+II.Credite bugetare
+Plati efectuate in anii precedenti si recuperate in
+anul curent aferente fondurilor externe
+nerambursabile
+II.Credite bugetare
+Partea I-a SERVICII PUBLICE GENERALE
+I.Credite de angajament
+II.Credite bugetare
+CHELTUIELI CURENTE
+I.Credite de angajament
+II.Credite bugetare
+TITLUL II BUNURI SI SERVICII
+I.Credite de angajament
+II.Credite bugetare
+TITLUL III DOBANZI
+I.Credite de angajament
+II.Credite bugetare
+TITLUL V FONDURI DE REZERVA
+I.Credite de angajament
+II.Credite bugetare
+2.458.415
+2.458.415
+2.458.415
+-26.693
+-26.693
+-26.693
+-22.596
+-4.098
+58.827.932
+56.376.558
+177.219
+34.783.239
+1.405.327
+1.405.327
+390.000
+390.000
+390.000
+390.000
+1.015.327
+1.015.327
+1.015.327
+1.015.327
+84.960.365
+84.960.286
+83.945.038
+83.944.959
+249.475
+249.396
+48.834.633
+48.834.633
+3.986.978
+3.986.978
+3.295.023
+691.955
+2.151.765
+2.151.765
+1.250.000
+1.250.000
+250.000
+1.000.000
+901.765
+901.765
+901.765
+109.463.236
+109.464.779
+108.561.471
+108.563.014
+573.582
+575.125
+58.824.484
+58.824.484
+100.000
+100.000
+53,11
+53,11
+220,51
+220,51
+-35,90
+-11,18
+-11,18
+-11,18
+28,84
+28,84
+29,32
+29,33
+129,92
+130,61
+20,46
+20,46
+908.609
+908.609
+250.000
+250.000
+658.609
+658.609
+107.233.282
+107.224.825
+106.574.673
+106.566.216
+207.560
+199.103
+64.358.030
+64.358.030
+532.500
+532.500
+806.518
+806.518
+250.000
+250.000
+556.518
+556.518
+103.625.138
+103.630.138
+103.068.620
+103.073.620
+166.916
+171.916
+62.137.957
+62.137.957
+549.540
+549.540
+A
+B
+MINISTERUL FINANTELOR-ACTIUNI GENERALE
+708.942
+708.942
+250.000
+250.000
+458.942
+458.942
+102.414.523
+102.409.523
+101.955.581
+101.950.581
+177.881
+172.881
+61.572.599
+61.572.599
+549.540
+549.540
+Realizari
+2024
+Executie
+preliminata
+2025
+Propuneri
+2026
+Crestere /
+descrestere
+2026/2025
+Estimari
+2027
+Estimari
+2028
+Estimari
+2029
+1
+2
+3
+4
+5
+6
+7
+pag.14
+
+ Denumire indicator
+Anexa nr. 3 / 65 / 02   Pag.
+- mii lei -
+5
+Capi-
+tol
+Sub-
+capi-
+tol
+Pa-
+ra-
+graf
+Gru-
+pa/
+Titlu
+Ar-
+ti-
+col
+Ali-
+ne-
+at
+5101
+51
+55
+56
+58
+59
+60
+61
+79
+81
+84
+85
+01
+55
+03
+01
+TITLUL VI TRANSFERURI INTRE UNITATI
+ALE  ADMINISTRATIEI PUBLICE
+I.Credite de angajament
+II.Credite bugetare
+TITLUL VII ALTE TRANSFERURI
+I.Credite de angajament
+II.Credite bugetare
+TITLUL VIII PROIECTE CU FINANTARE DIN
+FONDURI EXTERNE NERAMBURSABILE
+(FEN) POSTADERARE
+I.Credite de angajament
+II.Credite bugetare
+TITLUL X PROIECTE CU FINANTARE DIN
+FONDURI EXTERNE NERAMBURSABILE
+AFERENTE CADRULUI FINANCIAR 2014-
+2020 SI DIN FONDUL DE MODERNIZARE
+I.Credite de angajament
+II.Credite bugetare
+TITLUL XI  ALTE CHELTUIELI
+I.Credite de angajament
+II.Credite bugetare
+TITLUL XII PROIECTE CU FINANTARE DIN
+SUMELE REPREZENTAND ASISTENTA
+FINANCIARA NERAMBURSABILA
+AFERENTA PNRR
+I.Credite de angajament
+II.Credite bugetare
+TITLUL XIII PROIECTE CU FINANTARE DIN
+SUMELE AFERENTE COMPONENTEI DE
+IMPRUMUT A PNRR
+I.Credite de angajament
+II.Credite bugetare
+OPERATIUNI FINANCIARE
+I.Credite de angajament
+II.Credite bugetare
+TITLUL XIX RAMBURSARI DE CREDITE
+I.Credite de angajament
+II.Credite bugetare
+PLATI EFECTUATE IN ANII PRECEDENTI SI
+RECUPERATE IN ANUL CURENT
+II.Credite bugetare
+TITLUL XXI PLATI EFECTUATE IN ANII
+PRECEDENTI SI RECUPERATE IN ANUL
+CURENT
+II.Credite bugetare
+AUTORITATI PUBLICE SI ACTIUNI
+EXTERNE
+I.Credite de angajament
+II.Credite bugetare
+CHELTUIELI CURENTE
+I.Credite de angajament
+II.Credite bugetare
+TITLUL VII ALTE TRANSFERURI
+I.Credite de angajament
+II.Credite bugetare
+ Contributia Romaniei la bugetul U.E.
+I.Credite de angajament
+II.Credite bugetare
+ Contributii din taxe vamale
+I.Credite de angajament
+1.082
+15.168.972
+746.047
+5.500.000
+2.458.415
+2.458.415
+-7.040
+-5.621
+21.085.880
+21.085.880
+14.839.833
+14.786.995
+17.050.638
+17.050.638
+13.837.627
+13.837.627
+3.972.665
+3.972.665
+1.015.327
+1.015.327
+1.015.327
+1.015.327
+34.314.902
+34.314.902
+34.314.902
+34.314.902
+16.504.610
+16.504.610
+16.450.068
+16.450.068
+1.803.509
+73.275
+73.275
+23.157.564
+23.157.564
+15.546.559
+15.546.559
+624.000
+624.000
+59.000
+59.000
+5.616.029
+5.616.029
+3.986.978
+3.986.978
+901.765
+901.765
+901.765
+901.765
+47.963.033
+47.963.033
+47.963.033
+47.963.033
+22.189.467
+22.189.467
+22.118.367
+35,82
+35,82
+12,35
+12,35
+-84,29
+-84,29
+-11,18
+-11,18
+-11,18
+-11,18
+39,77
+39,77
+39,77
+39,77
+34,44
+34,44
+34,46
+80.000
+80.000
+21.511.583
+21.511.583
+19.651.000
+19.651.000
+234.000
+234.000
+658.609
+658.609
+658.609
+658.609
+41.134.983
+41.134.983
+41.134.983
+41.134.983
+21.483.983
+21.483.983
+88.000
+88.000
+21.935.707
+21.935.707
+17.887.500
+17.887.500
+303.000
+303.000
+556.518
+556.518
+556.518
+556.518
+39.797.307
+39.797.307
+39.797.307
+39.797.307
+21.909.807
+21.909.807
+A
+B
+MINISTERUL FINANTELOR-ACTIUNI GENERALE
+97.000
+97.000
+22.096.061
+22.096.061
+17.209.500
+17.209.500
+253.000
+253.000
+458.942
+458.942
+458.942
+458.942
+39.287.961
+39.287.961
+39.287.961
+39.287.961
+22.078.461
+22.078.461
+Realizari
+2024
+Executie
+preliminata
+2025
+Propuneri
+2026
+Crestere /
+descrestere
+2026/2025
+Estimari
+2027
+Estimari
+2028
+Estimari
+2029
+1
+2
+3
+4
+5
+6
+7
+pag.15
+
+ Denumire indicator
+Anexa nr. 3 / 65 / 02   Pag.
+- mii lei -
+6
+Capi-
+tol
+Sub-
+capi-
+tol
+Pa-
+ra-
+graf
+Gru-
+pa/
+Titlu
+Ar-
+ti-
+col
+Ali-
+ne-
+at
+56
+58
+60
+04
+71
+24
+01
+02
+04
+06
+07
+10
+11
+04
+01
+II.Credite bugetare
+  Contributii din resursa TVA
+I.Credite de angajament
+II.Credite bugetare
+  Contributii din resursa VBN
+I.Credite de angajament
+II.Credite bugetare
+  Contributii suplimentare si neprevazute
+I.Credite de angajament
+II.Credite bugetare
+Contributii pentru reducerile in favoarea Austriei,
+Danemarcei, Germaniei, Tarilor de Jos si Suediei
+I.Credite de angajament
+II.Credite bugetare
+ Contributii din deseurile de ambalaje din plastic
+nereciclate
+I.Credite de angajament
+II.Credite bugetare
+Alte plati catre UE
+I.Credite de angajament
+II.Credite bugetare
+Contributia financiara catre UE in contul
+sprijinului macrofinanciar acordat Ucrainei
+I.Credite de angajament
+II.Credite bugetare
+TITLUL VIII PROIECTE CU FINANTARE DIN
+FONDURI EXTERNE NERAMBURSABILE
+(FEN) POSTADERARE
+I.Credite de angajament
+II.Credite bugetare
+Sume aferente asistentei financiare nerambursabile
+alocate de Uniunea Europeana in perioada de
+programare 2021-2027
+I.Credite de angajament
+II.Credite bugetare
+Sume necesare pentru continuarea proiectelor in
+cazul indisponibilitatii temporare a fondurilor
+europene
+I.Credite de angajament
+II.Credite bugetare
+TITLUL X PROIECTE CU FINANTARE DIN
+FONDURI EXTERNE NERAMBURSABILE
+AFERENTE CADRULUI FINANCIAR 2014-
+2020 SI DIN FONDUL DE MODERNIZARE
+I.Credite de angajament
+II.Credite bugetare
+ Sume aferente asistentei financiare nerambursabile
+alocata de Uniunea Europeana in perioada de
+programare 2014-2020
+I.Credite de angajament
+II.Credite bugetare
+TITLUL XII PROIECTE CU FINANTARE DIN
+SUMELE REPREZENTAND ASISTENTA
+FINANCIARA NERAMBURSABILA
+AFERENTA PNRR
+I.Credite de angajament
+II.Credite bugetare
+Fonduri europene nerambursabile
+II.Credite bugetare
+Finatare publica nationala
+1.413.972
+1.879.398
+8.386.036
+932.280
+858.609
+1.316.701
+52.838
+52.838
+746.047
+746.047
+746.047
+5.500.000
+5.500.000
+1.803.509
+2.029.391
+2.029.391
+10.182.798
+10.182.798
+275.282
+275.282
+920.278
+920.278
+1.238.810
+1.238.810
+54.542
+54.542
+54.542
+54.542
+13.837.627
+13.837.627
+13.837.627
+13.837.627
+13.837.627
+13.837.627
+3.972.665
+3.972.665
+3.972.665
+3.972.665
+2.040.000
+2.239.673
+14.318.040
+1.220.000
+1.010.297
+1.290.357
+71.100
+71.100
+15.546.559
+15.546.559
+15.546.559
+15.546.559
+624.000
+624.000
+624.000
+5.616.029
+5.616.029
+3.319.615
+13,11
+10,36
+40,61
+343,18
+9,78
+4,16
+30,36
+30,36
+12,35
+12,35
+12,35
+12,35
+-84,29
+-84,29
+-84,29
+19.651.000
+19.651.000
+17.887.500
+17.887.500
+A
+B
+MINISTERUL FINANTELOR-ACTIUNI GENERALE
+17.209.500
+17.209.500
+Realizari
+2024
+Executie
+preliminata
+2025
+Propuneri
+2026
+Crestere /
+descrestere
+2026/2025
+Estimari
+2027
+Estimari
+2028
+Estimari
+2029
+1
+2
+3
+4
+5
+6
+7
+pag.16
+
+ Denumire indicator
+Anexa nr. 3 / 65 / 02   Pag.
+- mii lei -
+7
+Capi-
+tol
+Sub-
+capi-
+tol
+Pa-
+ra-
+graf
+Gru-
+pa/
+Titlu
+Ar-
+ti-
+col
+Ali-
+ne-
+at
+5401
+03
+04
+61
+01
+50
+55
+84
+85
+03
+01
+03
+01
+01
+02
+47
+50
+05
+II.Credite bugetare
+Sume aferente TVA
+II.Credite bugetare
+TITLUL XIII PROIECTE CU FINANTARE DIN
+SUMELE AFERENTE COMPONENTEI DE
+IMPRUMUT A PNRR
+I.Credite de angajament
+II.Credite bugetare
+Fonduri din imprumut rambursabil
+II.Credite bugetare
+Sume aferente TVA
+II.Credite bugetare
+ Contributia la bugetul UE
+I.Credite de angajament
+II.Credite bugetare
+ Cofinantarea fondurilor primite de la Uniunea
+Europeana
+I.Credite de angajament
+II.Credite bugetare
+ALTE SERVICII PUBLICE GENERALE
+I.Credite de angajament
+II.Credite bugetare
+CHELTUIELI CURENTE
+I.Credite de angajament
+II.Credite bugetare
+TITLUL V FONDURI DE REZERVA
+I.Credite de angajament
+II.Credite bugetare
+ Fond de rezerva bugetara la dispozitia Guvernului
+II.Credite bugetare
+TITLUL VII ALTE TRANSFERURI
+I.Credite de angajament
+II.Credite bugetare
+ A. Transferuri interne
+I.Credite de angajament
+II.Credite bugetare
+  Plata valorii de executare a garantiei in contul
+finantatorilor in cadrul programului "Prima
+casa/Noua casa"
+I.Credite de angajament
+II.Credite bugetare
+Sume rezultate din executarea garantiilor acordate
+din bugetul de stat
+I.Credite de angajament
+II.Credite bugetare
+ B. Transferuri curente in strainatate (catre
+organizatii internationale)
+I.Credite de angajament
+II.Credite bugetare
+Contributia Romaniei la Fondul European pentru
+dezvoltare
+I.Credite de angajament
+II.Credite bugetare
+PLATI EFECTUATE IN ANII PRECEDENTI SI
+RECUPERATE IN ANUL CURENT
+II.Credite bugetare
+TITLUL XXI PLATI EFECTUATE IN ANII
+PRECEDENTI SI RECUPERATE IN ANUL
+CURENT
+14.839.833
+6.246.047
+324.668
+329.139
+329.139
+275.558
+9.640
+265.918
+53.581
+53.581
+-4.471
+16.504.610
+16.504.610
+17.810.292
+17.810.292
+546.028
+546.028
+546.028
+546.028
+546.028
+546.028
+516.773
+516.773
+8.699
+8.699
+508.074
+508.074
+29.255
+29.255
+29.255
+29.255
+1.321.731
+974.683
+3.986.978
+3.986.978
+3.295.023
+691.955
+22.189.467
+25.773.566
+1.068.097
+1.068.097
+1.068.097
+1.068.097
+100.000
+100.000
+100.000
+968.097
+968.097
+942.297
+15.000
+927.297
+25.800
+25.800
+34,44
+44,71
+95,61
+95,61
+95,61
+95,61
+77,30
+77,30
+82,34
+72,43
+82,51
+-11,81
+-11,81
+560.100
+560.100
+560.100
+560.100
+532.500
+532.500
+27.600
+27.600
+575.440
+575.440
+575.440
+575.440
+549.540
+549.540
+25.900
+25.900
+A
+B
+MINISTERUL FINANTELOR-ACTIUNI GENERALE
+567.140
+567.140
+567.140
+567.140
+549.540
+549.540
+17.600
+17.600
+Realizari
+2024
+Executie
+preliminata
+2025
+Propuneri
+2026
+Crestere /
+descrestere
+2026/2025
+Estimari
+2027
+Estimari
+2028
+Estimari
+2029
+1
+2
+3
+4
+5
+6
+7
+pag.17
+
+ Denumire indicator
+Anexa nr. 3 / 65 / 02   Pag.
+- mii lei -
+8
+Capi-
+tol
+Sub-
+capi-
+tol
+Pa-
+ra-
+graf
+Gru-
+pa/
+Titlu
+Ar-
+ti-
+col
+Ali-
+ne-
+at
+5501
+02
+04
+11
+14
+15
+01
+20
+30
+01
+01
+02
+03
+05
+01
+03
+01
+04
+II.Credite bugetare
+ Plati efectuate in anii precedenti si recuperate in
+anul curent
+II.Credite bugetare
+ Plati efectuate in anii  precedenti si recuperate in
+anul curent aferente cheltuielilor curente si
+operatiunilor financiare ale altor institutii publice
+II.Credite bugetare
+Plati efectuate in anii precedenti si recuperate in
+anul curent aferente fondurilor externe
+nerambursabile
+II.Credite bugetare
+ Fond de rezerva bugetara la dispozitia Guvernului
+II.Credite bugetare
+ Fondul National de Preaderare
+II.Credite bugetare
+ Asistenta nationala externa pentru dezvoltare
+I.Credite de angajament
+II.Credite bugetare
+ Plata valorii de executare a garantiei in cadrul
+programului "Prima casa/Noua casa"
+I.Credite de angajament
+II.Credite bugetare
+Sume rezultate din executarea garantiilor acordate
+din bugetul de stat
+I.Credite de angajament
+II.Credite bugetare
+TRANZACTII PRIVIND DATORIA PUBLICA
+SI IMPRUMUTURI
+I.Credite de angajament
+II.Credite bugetare
+CHELTUIELI CURENTE
+I.Credite de angajament
+II.Credite bugetare
+TITLUL II BUNURI SI SERVICII
+I.Credite de angajament
+II.Credite bugetare
+TITLUL III DOBANZI
+I.Credite de angajament
+II.Credite bugetare
+ Dobanzi aferente datoriei publice interne
+I.Credite de angajament
+II.Credite bugetare
+  Dobanzi aferente datoriei publice interne directe
+I.Credite de angajament
+II.Credite bugetare
+Prime la emisiunea titlurilor de stat
+I.Credite de angajament
+II.Credite bugetare
+ Dobanzi aferente datoriei publice externe
+I.Credite de angajament
+II.Credite bugetare
+  Dobanzi, aferente datoriei publice externe directe
+I.Credite de angajament
+II.Credite bugetare
+ Prime la emisiunea titlurilor de stat
+I.Credite de angajament
+II.Credite bugetare
+-4.471
+-4.471
+-374
+-4.098
+-4.098
+53.581
+9.267
+265.918
+37.418.534
+34.961.539
+177.219
+34.783.239
+21.148.714
+23.399.716
+-2.251.002
+13.464.989
+13.912.780
+-447.791
+29.255
+29.255
+8.699
+8.699
+508.074
+508.074
+50.099.435
+50.099.356
+49.084.108
+49.084.029
+249.475
+249.396
+48.834.633
+48.834.633
+30.419.771
+30.419.771
+31.299.571
+31.299.571
+-879.800
+-879.800
+18.325.576
+18.325.576
+18.556.370
+18.556.370
+-230.794
+-230.794
+100.000
+25.800
+15.000
+927.297
+60.432.106
+60.433.649
+59.530.341
+59.531.884
+573.582
+575.125
+58.824.484
+58.824.484
+31.866.568
+31.866.568
+26.860.073
+26.783.573
+-11,81
+72,43
+82,51
+20,62
+20,63
+21,28
+21,29
+129,92
+130,61
+20,46
+20,46
+4,76
+1,81
+46,57
+44,34
+65.538.199
+65.529.742
+64.879.590
+64.871.133
+207.560
+199.103
+64.358.030
+64.358.030
+63.252.391
+63.257.391
+62.695.873
+62.700.873
+166.916
+171.916
+62.137.957
+62.137.957
+A
+B
+MINISTERUL FINANTELOR-ACTIUNI GENERALE
+62.559.422
+62.554.422
+62.100.480
+62.095.480
+177.881
+172.881
+61.572.599
+61.572.599
+Realizari
+2024
+Executie
+preliminata
+2025
+Propuneri
+2026
+Crestere /
+descrestere
+2026/2025
+Estimari
+2027
+Estimari
+2028
+Estimari
+2029
+1
+2
+3
+4
+5
+6
+7
+pag.18
+
+ Denumire indicator
+Anexa nr. 3 / 65 / 02   Pag.
+- mii lei -
+9
+Capi-
+tol
+Sub-
+capi-
+tol
+Pa-
+ra-
+graf
+Gru-
+pa/
+Titlu
+Ar-
+ti-
+col
+Ali-
+ne-
+at
+5601
+51
+59
+79
+81
+84
+85
+84
+03
+04
+02
+45
+03
+01
+06
+06
+07
+10
+03
+Dobanzi aferente tranzactiilor cu instrumente
+financiare derivate
+II.Credite bugetare
+ Alte dobanzi
+II.Credite bugetare
+Dobanzi aferente colateralului din tranzactii cu
+instrumente financiare derivate
+II.Credite bugetare
+Suma neta negativa aferenta diferentei de dobanda
+bonificata pentru disponibilitatile contului curent in
+valuta administrat de Ministerul Finantelor  la
+Banca Nationala a Romaniei
+II.Credite bugetare
+ Dobanzi aferente imprumuturilor
+preluate/contractate de MF in baza OUG 64/2007
+I.Credite de angajament
+II.Credite bugetare
+TITLUL VI TRANSFERURI INTRE UNITATI
+ALE ADMINISTRATIEI PUBLICE
+I.Credite de angajament
+II.Credite bugetare
+ Transferuri de capital
+II.Credite bugetare
+  Plati in contul creditelor garantate si/sau
+subimprumutate
+II.Credite bugetare
+TITLUL XI  ALTE CHELTUIELI
+I.Credite de angajament
+II.Credite bugetare
+Plata garantiilor de stat aferente activitatii Bancii
+de Investitii si Dezvoltare
+II.Credite bugetare
+OPERATIUNI FINANCIARE
+I.Credite de angajament
+II.Credite bugetare
+TITLUL XIX RAMBURSARI DE CREDITE
+I.Credite de angajament
+II.Credite bugetare
+ Rambursari de credite in contul imprumuturilor
+preluate/contractate de MF in baza OUG 64/2007
+I.Credite de angajament
+II.Credite bugetare
+PLATI EFECTUATE IN ANII PRECEDENTI SI
+RECUPERATE IN ANUL CURENT
+II.Credite bugetare
+TITLUL XXI PLATI EFECTUATE IN ANII
+PRECEDENTI SI RECUPERATE IN ANUL
+CURENT
+II.Credite bugetare
+ Plati efectuate in anii precedenti si recuperate in
+anul curent
+II.Credite bugetare
+ Plati efectuate in anii  precedenti si recuperate in
+anul curent aferente cheltuielilor curente si
+operatiunilor financiare ale altor institutii publice
+II.Credite bugetare
+TRANSFERURI CU CARACTER GENERAL
+INTRE DIFERITE NIVELE ALE
+ADMINISTRATIEI
+II.Credite bugetare
+PLATI EFECTUATE IN ANII PRECEDENTI SI
+4
+4
+169.532
+1.082
+1.082
+1.082
+2.458.415
+2.458.415
+2.458.415
+-1.419
+-1.419
+-1.419
+-1.419
+-1.150
+89.286
+89.286
+1.015.327
+1.015.327
+1.015.327
+1.015.327
+1.015.327
+1.015.327
+76.500
+13.005
+13.000
+5
+84.838
+73.275
+73.275
+73.275
+73.275
+59.000
+59.000
+59.000
+901.765
+901.765
+901.765
+901.765
+901.765
+-4,98
+-11,18
+-11,18
+-11,18
+-11,18
+-11,18
+80.000
+80.000
+234.000
+234.000
+658.609
+658.609
+658.609
+658.609
+88.000
+88.000
+303.000
+303.000
+556.518
+556.518
+556.518
+556.518
+A
+B
+MINISTERUL FINANTELOR-ACTIUNI GENERALE
+97.000
+97.000
+253.000
+253.000
+458.942
+458.942
+458.942
+458.942
+Realizari
+2024
+Executie
+preliminata
+2025
+Propuneri
+2026
+Crestere /
+descrestere
+2026/2025
+Estimari
+2027
+Estimari
+2028
+Estimari
+2029
+1
+2
+3
+4
+5
+6
+7
+pag.19
+
+ Denumire indicator
+Anexa nr. 3 / 65 / 02   Pag.
+- mii lei -
+10
+Capi-
+tol
+Sub-
+capi-
+tol
+Pa-
+ra-
+graf
+Gru-
+pa/
+Titlu
+Ar-
+ti-
+col
+Ali-
+ne-
+at
+8000
+8001
+05
+01
+85
+01
+20
+40
+55
+79
+80
+84
+85
+01
+20
+40
+01
+13
+03
+RECUPERATE IN ANUL CURENT
+II.Credite bugetare
+TITLUL XXI PLATI EFECTUATE IN ANII
+PRECEDENTI SI RECUPERATE IN ANUL
+CURENT
+II.Credite bugetare
+ Plati efectuate in anii precedenti si recuperate in
+anul curent
+II.Credite bugetare
+ Plati efectuate in anii  precedenti si recuperate in
+anul curent aferente cheltuielilor curente si
+operatiunilor financiare ale altor institutii publice
+II.Credite bugetare
+ Transferuri din bugetul de stat catre bugetele
+locale din Fondul de Interventie
+II.Credite bugetare
+Partea a V-a ACTIUNI ECONOMICE
+I.Credite de angajament
+II.Credite bugetare
+CHELTUIELI CURENTE
+I.Credite de angajament
+II.Credite bugetare
+TITLUL II BUNURI SI SERVICII
+I.Credite de angajament
+II.Credite bugetare
+TITLUL IV SUBVENTII
+I.Credite de angajament
+II.Credite bugetare
+TITLUL VII ALTE TRANSFERURI
+I.Credite de angajament
+II.Credite bugetare
+OPERATIUNI FINANCIARE
+I.Credite de angajament
+II.Credite bugetare
+TITLUL XVIII IMPRUMUTURI
+I.Credite de angajament
+II.Credite bugetare
+PLATI EFECTUATE IN ANII PRECEDENTI SI
+RECUPERATE IN ANUL CURENT
+II.Credite bugetare
+TITLUL XXI PLATI EFECTUATE IN ANII
+PRECEDENTI SI RECUPERATE IN ANUL
+CURENT
+II.Credite bugetare
+ACTIUNI GENERALE ECONOMICE,
+COMERCIALE SI DE MUNCA
+I.Credite de angajament
+II.Credite bugetare
+CHELTUIELI CURENTE
+I.Credite de angajament
+II.Credite bugetare
+TITLUL II BUNURI SI SERVICII
+I.Credite de angajament
+II.Credite bugetare
+TITLUL IV SUBVENTII
+I.Credite de angajament
+II.Credite bugetare
+Sustinerea exportului, a mediului de afaceri si a
+tranzactiilor internationale
+-1.150
+-1.150
+-1.150
+-1.150
+-1.150
+2.684.944
+2.704.597
+9.204
+2.695.393
+-19.653
+-19.653
+2.684.944
+2.704.597
+9.204
+2.858.186
+2.189.222
+2.468.186
+1.799.222
+2.468.186
+1.799.222
+390.000
+390.000
+390.000
+390.000
+2.858.186
+2.189.222
+2.468.186
+1.799.222
+3.426.968
+2.960.963
+2.176.968
+1.710.963
+51.100
+2.555
+285.668
+285.668
+1.840.200
+1.422.740
+1.250.000
+1.250.000
+1.250.000
+1.250.000
+3.426.968
+2.960.963
+2.176.968
+1.710.963
+51.100
+2.555
+285.668
+285.668
+19,90
+35,25
+-11,80
+-4,91
+-25,44
+-20,92
+220,51
+220,51
+220,51
+220,51
+19,90
+35,25
+-11,80
+-4,91
+301.200
+1.400.768
+51.200
+1.150.768
+51.100
+48.545
+100
+1.102.223
+250.000
+250.000
+250.000
+250.000
+301.200
+1.400.768
+51.200
+1.150.768
+51.100
+48.545
+275.650
+1.377.773
+25.650
+1.127.773
+25.550
+25.550
+100
+1.102.223
+250.000
+250.000
+250.000
+250.000
+275.650
+1.377.773
+25.650
+1.127.773
+25.550
+25.550
+A
+B
+MINISTERUL FINANTELOR-ACTIUNI GENERALE
+250.100
+1.752.774
+100
+1.502.774
+25.550
+100
+1.477.224
+250.000
+250.000
+250.000
+250.000
+250.100
+1.752.774
+100
+1.502.774
+25.550
+Realizari
+2024
+Executie
+preliminata
+2025
+Propuneri
+2026
+Crestere /
+descrestere
+2026/2025
+Estimari
+2027
+Estimari
+2028
+Estimari
+2029
+1
+2
+3
+4
+5
+6
+7
+pag.20
+
+ Denumire indicator
+Anexa nr. 3 / 65 / 02   Pag.
+- mii lei -
+11
+Capi-
+tol
+Sub-
+capi-
+tol
+Pa-
+ra-
+graf
+Gru-
+pa/
+Titlu
+Ar-
+ti-
+col
+Ali-
+ne-
+at
+01
+07
+12
+30
+55
+79
+80
+84
+85
+01
+11
+14
+01
+46
+61
+03
+II.Credite bugetare
+TITLUL VII ALTE TRANSFERURI
+I.Credite de angajament
+II.Credite bugetare
+ A. Transferuri interne
+I.Credite de angajament
+II.Credite bugetare
+  Transferuri catre intreprinderi in cadrul schemelor
+de ajutor de stat
+I.Credite de angajament
+II.Credite bugetare
+ Fond de premiere pentru Loteria bonurilor fiscale
+II.Credite bugetare
+OPERATIUNI FINANCIARE
+I.Credite de angajament
+II.Credite bugetare
+TITLUL XVIII IMPRUMUTURI
+I.Credite de angajament
+II.Credite bugetare
+ Fonduri de la bugetul de stat puse la dispozitia
+EXIMBANK
+I.Credite de angajament
+II.Credite bugetare
+Fonduri puse la dispozitia Bancii de Investitii si
+Dezvoltare
+II.Credite bugetare
+PLATI EFECTUATE IN ANII PRECEDENTI SI
+RECUPERATE IN ANUL CURENT
+II.Credite bugetare
+TITLUL XXI PLATI EFECTUATE IN ANII
+PRECEDENTI SI RECUPERATE IN ANUL
+CURENT
+II.Credite bugetare
+ Plati efectuate in anii precedenti si recuperate in
+anul curent
+II.Credite bugetare
+ Plati efectuate in anii  precedenti si recuperate in
+anul curent aferente cheltuielilor curente si
+operatiunilor financiare ale altor institutii publice
+II.Credite bugetare
+ Actiuni generale economice si comerciale
+I.Credite de angajament
+II.Credite bugetare
+  Sustinerea exportului, a mediului de afaceri si a
+tranzactiilor internationale
+I.Credite de angajament
+II.Credite bugetare
+ Ajutoare de stat
+I.Credite de angajament
+II.Credite bugetare
+  Alte cheltuieli pentru actiuni generale economice
+si comerciale
+II.Credite bugetare
+9.204
+2.695.393
+2.695.393
+2.695.393
+-19.653
+-19.653
+-19.653
+-19.653
+2.684.944
+-8.474
+2.693.418
+2.468.186
+1.799.222
+2.468.186
+1.799.222
+2.468.186
+1.799.222
+390.000
+390.000
+390.000
+390.000
+390.000
+390.000
+2.858.186
+2.189.222
+390.000
+390.000
+2.468.186
+1.799.222
+285.668
+1.840.200
+1.422.740
+1.422.740
+1.422.540
+200
+1.250.000
+1.250.000
+1.250.000
+1.250.000
+250.000
+1.000.000
+2.960.963
+1.535.668
+1.422.540
+2.755
+-25,44
+-20,92
+-20,92
+-20,94
+220,51
+220,51
+220,51
+220,51
+-35,90
+35,25
+293,76
+-20,94
+100
+1.102.223
+250.000
+250.000
+250.000
+250.000
+100
+1.102.223
+250.000
+250.000
+250.000
+250.000
+A
+B
+MINISTERUL FINANTELOR-ACTIUNI GENERALE
+100
+1.477.224
+250.000
+250.000
+250.000
+250.000
+Realizari
+2024
+Executie
+preliminata
+2025
+Propuneri
+2026
+Crestere /
+descrestere
+2026/2025
+Estimari
+2027
+Estimari
+2028
+Estimari
+2029
+1
+2
+3
+4
+5
+6
+7
+pag.21
+
+Cod ordonator
+SINTEZA FINANTARII PROGRAMELOR
+- mii lei -
+65 / 26
+Anexa nr.
+3
+/
+Estimari ani
+ulteriori
+Pag. 1 din 6
+65    8609468
+721
+721
+721
+721
+721
+721
+721
+721
+Prog.
+Ministerul Finantelor-Actiuni Generale
+TOTAL CHELTUIELI
+I. Credite de angajament
+II. Credite bugetare
+Buget de stat
+I. Credite de angajament
+II. Credite bugetare
+PROGRAM
+Ajutoare de stat pentru finantarea proiectelor pentru investitii
+TOTAL PROGRAM
+I. Credite de angajament
+II. Credite bugetare
+Buget de stat
+I. Credite de angajament
+II. Credite bugetare
+Denumire
+ 126.624.587
+ 124.025.477
+ 126.624.587
+ 124.025.477
+ 14.447.971
+ 11.853.025
+ 14.447.971
+ 11.853.025
+ 87.818.551
+ 87.149.508
+ 87.818.551
+ 87.149.508
+ 2.468.186
+ 1.799.222
+ 2.468.186
+ 1.799.222
+ 112.890.204
+ 112.425.742
+ 112.890.204
+ 112.425.742
+ 1.840.000
+ 1.422.540
+ 1.840.000
+ 1.422.540
+ 107.534.482
+ 108.625.593
+ 107.534.482
+ 108.625.593
+ 1.102.123
+ 1.102.123
+ 103.900.788
+ 105.007.911
+ 103.900.788
+ 105.007.911
+ 1.102.123
+ 1.102.123
+ 102.664.623
+ 104.162.297
+ 102.664.623
+ 104.162.297
+ 1.477.124
+ 1.477.124
+ 32.543
+ 32.543
+Realizari2024 si
+ani anteriori
+Executie
+preliminata 2025
+Propuneri 2026
+Estimari 2027
+Estimari 2028
+Estimari 2029
+ 641.433.235
+ 641.429.071
+ 641.433.235
+ 641.429.071
+ 18.756.157
+ 18.756.157
+ 18.756.157
+ 18.756.157
+Valoarea totala a
+programului
+pag.22
+
+Cod ordonator
+SINTEZA FINANTARII PROGRAMELOR
+- mii lei -
+65 / 26
+Anexa nr.
+3
+/
+Estimari ani
+ulteriori
+Pag. 2 din 6
+65    8609468
+1244
+1244
+1244
+1244
+1244
+1244
+1244
+1244
+1384
+1384
+1384
+1384
+1384
+1384
+1384
+Prog.
+PROGRAM
+Evaluarea riscului de tara
+TOTAL PROGRAM
+I. Credite de angajament
+II. Credite bugetare
+Buget de stat
+I. Credite de angajament
+II. Credite bugetare
+PROGRAM
+Transferuri in cadrul schemelor de ajutor de stat reprezentand sume restituite la accize pentru motorina utilizata drept combustibil.
+TOTAL PROGRAM
+I. Credite de angajament
+II. Credite bugetare
+Buget de stat
+I. Credite de angajament
+Denumire
+ 34.136
+ 29.972
+ 34.136
+ 29.972
+ 155.047
+ 155.047
+ 155.047
+Realizari2024 si
+ani anteriori
+Executie
+preliminata 2025
+Propuneri 2026
+Estimari 2027
+Estimari 2028
+Estimari 2029
+ 34.136
+ 29.972
+ 34.136
+ 29.972
+ 155.047
+ 155.047
+ 155.047
+Valoarea totala a
+programului
+pag.23
+
+Cod ordonator
+SINTEZA FINANTARII PROGRAMELOR
+- mii lei -
+65 / 26
+Anexa nr.
+3
+/
+Estimari ani
+ulteriori
+Pag. 3 din 6
+65    8609468
+1384
+2050
+2050
+2050
+2050
+2050
+2050
+2050
+2050
+2490
+2490
+2490
+2490
+2490
+2490
+Prog.
+II. Credite bugetare
+PROGRAM
+Participarea la constituirea capitalului social al Fondului de Investitii al Initiativei celor Trei Mari
+TOTAL PROGRAM
+I. Credite de angajament
+II. Credite bugetare
+Buget de stat
+I. Credite de angajament
+II. Credite bugetare
+PROGRAM
+Alocari la bugetul de stat -ACP aferente FEN
+TOTAL PROGRAM
+I. Credite de angajament
+II. Credite bugetare
+Buget de stat
+Denumire
+ 155.047
+ 92.336
+ 92.336
+ 92.336
+ 92.336
+ 9.016.270
+ 9.016.270
+Realizari2024 si
+ani anteriori
+Executie
+preliminata 2025
+Propuneri 2026
+Estimari 2027
+Estimari 2028
+Estimari 2029
+ 155.047
+ 92.336
+ 92.336
+ 92.336
+ 92.336
+ 9.016.270
+ 9.016.270
+Valoarea totala a
+programului
+pag.24
+
+Cod ordonator
+SINTEZA FINANTARII PROGRAMELOR
+- mii lei -
+65 / 26
+Anexa nr.
+3
+/
+Estimari ani
+ulteriori
+Pag. 4 din 6
+65    8609468
+2490
+2490
+2492
+2492
+2492
+2492
+2492
+2492
+2492
+2492
+2493
+2493
+2493
+2493
+2493
+Prog.
+I. Credite de angajament
+II. Credite bugetare
+PROGRAM
+Program Contributii ale Romaniei la Uniunea Europeana
+TOTAL PROGRAM
+I. Credite de angajament
+II. Credite bugetare
+Buget de stat
+I. Credite de angajament
+II. Credite bugetare
+PROGRAM
+Fonduri de rezerva la dispozitia Guvernului
+TOTAL PROGRAM
+I. Credite de angajament
+II. Credite bugetare
+Denumire
+ 9.016.270
+ 9.016.270
+ 13.913.990
+ 13.913.990
+ 13.913.990
+ 13.913.990
+ 66.168
+ 66.168
+Realizari2024 si
+ani anteriori
+Executie
+preliminata 2025
+Propuneri 2026
+Estimari 2027
+Estimari 2028
+Estimari 2029
+ 9.016.270
+ 9.016.270
+ 13.913.990
+ 13.913.990
+ 13.913.990
+ 13.913.990
+ 66.168
+ 66.168
+Valoarea totala a
+programului
+pag.25
+
+Cod ordonator
+SINTEZA FINANTARII PROGRAMELOR
+- mii lei -
+65 / 26
+Anexa nr.
+3
+/
+Estimari ani
+ulteriori
+Pag. 5 din 6
+65    8609468
+2493
+2493
+2493
+2494
+2494
+2494
+2494
+2494
+2494
+2494
+2494
+2590
+2590
+2590
+2590
+Prog.
+Buget de stat
+I. Credite de angajament
+II. Credite bugetare
+PROGRAM
+Managementul datoriei publice guvernamentale
+TOTAL PROGRAM
+I. Credite de angajament
+II. Credite bugetare
+Buget de stat
+I. Credite de angajament
+II. Credite bugetare
+PROGRAM
+Alte obligatii de plata in numele statului
+TOTAL PROGRAM
+I. Credite de angajament
+Denumire
+ 66.168
+ 66.168
+ 67.772.930
+ 67.772.930
+ 67.772.930
+ 67.772.930
+ 21.125.739
+ 50.616.208
+ 50.616.129
+ 50.616.208
+ 50.616.129
+ 34.734.157
+ 61.374.403
+ 61.375.946
+ 61.374.403
+ 61.375.946
+ 49.675.801
+ 65.538.199
+ 65.529.742
+ 65.538.199
+ 65.529.742
+ 41.996.283
+ 63.252.391
+ 63.257.391
+ 63.252.391
+ 63.257.391
+ 40.648.397
+ 62.559.422
+ 62.554.422
+ 62.559.422
+ 62.554.422
+ 40.105.201
+ 6.993
+ 6.993
+Realizari2024 si
+ani anteriori
+Executie
+preliminata 2025
+Propuneri 2026
+Estimari 2027
+Estimari 2028
+Estimari 2029
+ 66.168
+ 66.168
+ 371.113.553
+ 371.113.553
+ 371.113.553
+ 371.113.553
+ 228.285.578
+Valoarea totala a
+programului
+pag.26
+
+Cod ordonator
+SINTEZA FINANTARII PROGRAMELOR
+- mii lei -
+65 / 26
+Anexa nr.
+3
+/
+Estimari ani
+ulteriori
+Pag. 6 din 6
+65    8609468
+2590
+2590
+2590
+2590
+Prog.
+II. Credite bugetare
+Buget de stat
+I. Credite de angajament
+II. Credite bugetare
+Denumire
+ 21.125.739
+ 21.125.739
+ 21.125.739
+ 34.734.157
+ 34.734.157
+ 34.734.157
+ 49.627.256
+ 49.675.801
+ 49.627.256
+ 41.993.728
+ 41.996.283
+ 41.993.728
+ 40.648.397
+ 40.648.397
+ 40.648.397
+ 40.130.751
+ 40.105.201
+ 40.130.751
+ 25.550
+ 25.550
+Realizari2024 si
+ani anteriori
+Executie
+preliminata 2025
+Propuneri 2026
+Estimari 2027
+Estimari 2028
+Estimari 2029
+ 228.285.578
+ 228.285.578
+ 228.285.578
+Valoarea totala a
+programului
+pag.27
+
+FISA PROGRAMULUI BUGETAR
+- mii lei-
+Anexa nr.
+65
+3
+/
+/ 27
+Pag. 1 din 31
+65
+Cod
+    8609468
+     ordonator
+
+  721
+Cod
+program
+Cod
+indicator
+Ministerul Finantelor-Actiuni Generale
+PROGRAM :
+Ajutoare de stat pentru finantarea proiectelor pentru investitii
+DESCRIERE PROGRAM SI DOMENIUL POLITICII PUBLICE:
+Programul cumuleaza scheme de ajutor de stat instituite prin H.G. nr.332/2014, H.G. nr. 807/2014, H.G. nr.300/2024, O.U.G.
+nr.42/2020, O.U.G. nr.24/2022, H.G. nr. 667/2022, O.U.G. nr.99/2022,H.G. nr. 152/2024, H.G. nr. 153/2024, O.U.G. nr.18/2024,
+H.G. nr. 1385/2024 si HG nr.1094/2025
+OBIECTIV PROGRAM
+Programul isi propune sustinerea mediului de afaceri prin intermediul masurilor de sprijin de natura ajutorului de stat avand in
+vedere incurajarea participarii active a intreprinderilor la reducerea decalajelor economice dintre regiuni, atat prin stimularea
+realizarii de investitii in active fixe cat si prin crearea de locuri de munca.
+DURATA DE REALIZARE A PROGRAMULUI(luni): 303
+DATA DE INCEPERE A PROGRAMULUI:   luna: 10 anul: 2007
+DATA DE INCHIDERE A PROGRAMULUI:   luna: 12 anul: 2032
+PROGRAM PERMANENT: NU
+INDICATORI DE REZULTAT - EFECTUL POLITICILIOR PUBLICE
+Procent din creditele de angajament aprobate prin Legea bugetului de stat care sunt utilizate, prin emiterea angajamentelor
+legale în baza schemelor de ajutor de stat pentru care Ministerul Finantelor este furnizor de ajutor de stat   Tinta 2028: >70%;
+Procent din creditele bugetare aprobate prin Legea bugetului de stat care sunt utilizate pentru efectuarea platii ajutorului de stat
+în baza angajamentelor legale aprobate   Tinta 2028: >90%
+Valoarea totala a
+programului
+Executie preliminata
+2025
+Estimari 2027
+Estimari 2028 Estimari 2029
+Realizari2024 si ani
+anteriori
+Propuneri 2026
+Estimari ani
+ulteriori
+pag.28
+
+FISA PROGRAMULUI BUGETAR
+- mii lei-
+Anexa nr.
+65
+3
+/
+/ 27
+Pag. 2 din 31
+65
+Cod
+    8609468
+     ordonator
+  721
+Cod
+program
+Cod
+indicator
+MASURI INTREPRINSE PENTRU ATINGEREA OBIECTIVULUI SI COSTURI ASOCIATE ACESTORA:
+Masura 982
+Aplicarea legislatiei in domeniul ajutorului de stat pentru schemele administrate de MF si pentru scheme administrate de alte autoritati, pentru care MF este furnizor de
+ajutor de stat Cost asociat:1422540 mii lei
+SURSE DE FINANTARE ALE PROGRAMULUI
+Total General
+I. Credite de angajament
+II. Credite bugetare
+Buget de stat
+I. Credite de angajament
+II. Credite bugetare
+BUGETUL PROGRAMULUI
+Total General
+I. Credite de angajament
+II. Credite bugetare
+ 14.447.971
+ 11.853.025
+ 14.447.971
+ 11.853.025
+ 14.447.971
+ 11.853.025
+ 2.468.186
+ 1.799.222
+ 2.468.186
+ 1.799.222
+ 2.468.186
+ 1.799.222
+ 1.840.000
+ 1.422.540
+ 1.840.000
+ 1.422.540
+ 1.840.000
+ 1.422.540
+ 1.102.123
+ 1.102.123
+ 1.102.123
+ 1.102.123
+ 1.102.123
+ 1.102.123
+ 1.477.124
+ 1.477.124
+ 1.477.124
+ 18.756.157
+ 18.756.157
+ 18.756.157
+ 18.756.157
+ 18.756.157
+ 18.756.157
+Valoarea totala a
+programului
+Executie preliminata
+2025
+Estimari 2027
+Estimari 2028 Estimari 2029
+Realizari2024 si ani
+anteriori
+Propuneri 2026
+Estimari ani
+ulteriori
+pag.29
+
+FISA PROGRAMULUI BUGETAR
+- mii lei-
+Anexa nr.
+65
+3
+/
+/ 27
+Pag. 3 din 31
+65
+Cod
+    8609468
+     ordonator
+  721
+Cod
+program
+5001
+5001
+5001
+8001
+8001
+8001
+800155
+800155
+800155
+800185
+800185
+800185
+Cod
+indicator
+Buget de stat
+CHELTUIELI - BUGET DE STAT
+I. Credite de angajament
+II. Credite bugetare
+ACTIUNI GENERALE ECONOMICE, COMERCIALE SI DE MUNCA
+I. Credite de angajament
+II. Credite bugetare
+TITLUL VII ALTE TRANSFERURI
+I. Credite de angajament
+II. Credite bugetare
+TITLUL XXI PLATI EFECTUATE IN ANII PRECEDENTI SI RECUPERATE IN ANUL CURENT
+I. Credite de angajament
+II. Credite bugetare
+COMENTARII :
+.
+ 14.447.971
+ 11.853.025
+ 14.447.971
+ 11.853.025
+ 14.449.970
+ 11.855.024
+-1.999
+-1.999
+ 2.468.186
+ 1.799.222
+ 2.468.186
+ 1.799.222
+ 2.468.186
+ 1.799.222
+ 1.840.000
+ 1.422.540
+ 1.840.000
+ 1.422.540
+ 1.840.000
+ 1.422.540
+ 1.102.123
+ 1.102.123
+ 1.102.123
+ 1.102.123
+ 1.102.123
+ 1.102.123
+ 1.477.124
+ 1.477.124
+ 1.477.124
+ 18.756.157
+ 18.756.157
+ 18.756.157
+ 18.756.157
+ 18.758.156
+ 18.758.156
+-1.999
+-1.999
+Valoarea totala a
+programului
+Executie preliminata
+2025
+Estimari 2027
+Estimari 2028 Estimari 2029
+Realizari2024 si ani
+anteriori
+Propuneri 2026
+Estimari ani
+ulteriori
+pag.30
+
+FISA PROGRAMULUI BUGETAR
+- mii lei-
+Anexa nr.
+65
+3
+/
+/ 27
+Pag. 4 din 31
+65
+Cod
+    8609468
+     ordonator
+ 1244
+Cod
+program
+Cod
+indicator
+PROGRAM :
+Evaluarea riscului de tara
+DESCRIERE PROGRAM SI DOMENIUL POLITICII PUBLICE:
+Prezentul program are ca obiectiv asigurarea platii serviciilor privind evaluarea riscului de tara furnizate de catre agentiile de
+rating, in baza contractelor incheiate intre Ministerul Finantelor si acestea
+OBIECTIV PROGRAM
+Evaluarea riscului de tara de catre agentiile de rating in vederea acordarii  de  calificative de rating Romaniei, etapa esentiala in
+procesul de lansare a obligatiunilor de stat pe pietele externe.
+DURATA DE REALIZARE A PROGRAMULUI(luni):
+DATA DE INCEPERE A PROGRAMULUI:   luna: 1 anul: 2013
+DATA DE INCHIDERE A PROGRAMULUI:   luna:  anul:
+PROGRAM PERMANENT: DA
+INDICATORI DE REZULTAT - EFECTUL POLITICILIOR PUBLICE
+Programul urmareste asigurarea serviciilor de evaluare a riscului de tara acordate Romaniei de catre agentiile specializate de
+rating
+SURSE DE FINANTARE ALE PROGRAMULUI
+Total General
+Valoarea totala a
+programului
+Executie preliminata
+2025
+Estimari 2027
+Estimari 2028 Estimari 2029
+Realizari2024 si ani
+anteriori
+Propuneri 2026
+Estimari ani
+ulteriori
+pag.31
+
+FISA PROGRAMULUI BUGETAR
+- mii lei-
+Anexa nr.
+65
+3
+/
+/ 27
+Pag. 5 din 31
+65
+Cod
+    8609468
+     ordonator
+ 1244
+Cod
+program
+5001
+5001
+5001
+5501
+5501
+Cod
+indicator
+I. Credite de angajament
+II. Credite bugetare
+Buget de stat
+I. Credite de angajament
+II. Credite bugetare
+BUGETUL PROGRAMULUI
+Total General
+I. Credite de angajament
+II. Credite bugetare
+Buget de stat
+CHELTUIELI - BUGET DE STAT
+I. Credite de angajament
+II. Credite bugetare
+TRANZACTII PRIVIND DATORIA PUBLICA SI IMPRUMUTURI
+I. Credite de angajament
+ 34.136
+ 29.972
+ 34.136
+ 29.972
+ 34.136
+ 29.972
+ 34.136
+ 29.972
+ 34.136
+ 34.136
+ 29.972
+ 34.136
+ 29.972
+ 34.136
+ 29.972
+ 34.136
+ 29.972
+ 34.136
+Valoarea totala a
+programului
+Executie preliminata
+2025
+Estimari 2027
+Estimari 2028 Estimari 2029
+Realizari2024 si ani
+anteriori
+Propuneri 2026
+Estimari ani
+ulteriori
+pag.32
+
+FISA PROGRAMULUI BUGETAR
+- mii lei-
+Anexa nr.
+65
+3
+/
+/ 27
+Pag. 6 din 31
+65
+Cod
+    8609468
+     ordonator
+ 1244
+ 1384
+Cod
+program
+5501
+550120
+550120
+550120
+Cod
+indicator
+II. Credite bugetare
+TITLUL II BUNURI SI SERVICII
+I. Credite de angajament
+II. Credite bugetare
+COMENTARII :
+PROGRAM :
+Transferuri in cadrul schemelor de ajutor de stat reprezentand sume restituite la accize pentru motorina utilizata drept
+combustibil.
+DESCRIERE PROGRAM SI DOMENIUL POLITICII PUBLICE:
+Prezentul program include schema de ajutor instituita de stat instituita prin  H.G. 537/2014 si H.G. nr.549/2018
+OBIECTIV PROGRAM
+DURATA DE REALIZARE A PROGRAMULUI(luni): 74
+DATA DE INCEPERE A PROGRAMULUI:   luna: 10 anul: 2014
+ 29.972
+ 34.136
+ 29.972
+ 29.972
+ 34.136
+ 29.972
+Valoarea totala a
+programului
+Executie preliminata
+2025
+Estimari 2027
+Estimari 2028 Estimari 2029
+Realizari2024 si ani
+anteriori
+Propuneri 2026
+Estimari ani
+ulteriori
+pag.33
+
+FISA PROGRAMULUI BUGETAR
+- mii lei-
+Anexa nr.
+65
+3
+/
+/ 27
+Pag. 7 din 31
+65
+Cod
+    8609468
+     ordonator
+ 1384
+Cod
+program
+Cod
+indicator
+DATA DE INCHIDERE A PROGRAMULUI:   luna: 12 anul: 2020
+PROGRAM PERMANENT: NU
+INDICATORI DE REZULTAT - EFECTUL POLITICILIOR PUBLICE
+SURSE DE FINANTARE ALE PROGRAMULUI
+Total General
+I. Credite de angajament
+II. Credite bugetare
+Buget de stat
+I. Credite de angajament
+II. Credite bugetare
+BUGETUL PROGRAMULUI
+Total General
+I. Credite de angajament
+II. Credite bugetare
+ 155.047
+ 155.047
+ 155.047
+ 155.047
+ 155.047
+ 155.047
+ 155.047
+ 155.047
+ 155.047
+ 155.047
+ 155.047
+ 155.047
+Valoarea totala a
+programului
+Executie preliminata
+2025
+Estimari 2027
+Estimari 2028 Estimari 2029
+Realizari2024 si ani
+anteriori
+Propuneri 2026
+Estimari ani
+ulteriori
+pag.34
+
+FISA PROGRAMULUI BUGETAR
+- mii lei-
+Anexa nr.
+65
+3
+/
+/ 27
+Pag. 8 din 31
+65
+Cod
+    8609468
+     ordonator
+ 1384
+ 2050
+Cod
+program
+5001
+5001
+5001
+8001
+8001
+8001
+800155
+800155
+800155
+Cod
+indicator
+Buget de stat
+CHELTUIELI - BUGET DE STAT
+I. Credite de angajament
+II. Credite bugetare
+ACTIUNI GENERALE ECONOMICE, COMERCIALE SI DE MUNCA
+I. Credite de angajament
+II. Credite bugetare
+TITLUL VII ALTE TRANSFERURI
+I. Credite de angajament
+II. Credite bugetare
+COMENTARII :
+PROGRAM :
+Participarea la constituirea capitalului social al Fondului de Investitii al Initiativei celor Trei Mari
+DESCRIERE PROGRAM SI DOMENIUL POLITICII PUBLICE:
+ 155.047
+ 155.047
+ 155.047
+ 155.047
+ 155.047
+ 155.047
+ 155.047
+ 155.047
+ 155.047
+ 155.047
+ 155.047
+ 155.047
+Valoarea totala a
+programului
+Executie preliminata
+2025
+Estimari 2027
+Estimari 2028 Estimari 2029
+Realizari2024 si ani
+anteriori
+Propuneri 2026
+Estimari ani
+ulteriori
+pag.35
+
+FISA PROGRAMULUI BUGETAR
+- mii lei-
+Anexa nr.
+65
+3
+/
+/ 27
+Pag. 9 din 31
+65
+Cod
+    8609468
+     ordonator
+ 2050
+Cod
+program
+Cod
+indicator
+Crearea Fondului de Investitii al Initiativei celor Trei Mari (FI3M) reprezinta o initiativa a bancilor nationale de
+promovare/dezvoltare din tarile Initiativei celor Trei Mari, in calitate de Sponsori Principali, cu intentia de a atrage ulterior si
+alti parteneri potentiali (co-investitori) din categoria fondurilor de investitii private si institutii financiare internationale
+OBIECTIV PROGRAM
+Cresterea nivelului investitiilor, conectivitatii si cooperarii in regiune prin asigurarea suportului politic si eventual financiar
+pentru realizarea proiectelor strategice transnationale si finantarea proiectelor strategice de infrastructura pentru asigurarea
+inter-conectivitatii regionale a infrastructurii de transport, de energie si a pietelor digitale pe axa Nord-Sud, in concordanta cu
+politicile UE.
+DURATA DE REALIZARE A PROGRAMULUI(luni):
+DATA DE INCEPERE A PROGRAMULUI:   luna: 5 anul: 2019
+DATA DE INCHIDERE A PROGRAMULUI:   luna:  anul:
+PROGRAM PERMANENT: DA
+INDICATORI DE REZULTAT - EFECTUL POLITICILIOR PUBLICE
+SURSE DE FINANTARE ALE PROGRAMULUI
+Total General
+I. Credite de angajament
+II. Credite bugetare
+ 92.336
+ 92.336
+ 92.336
+ 92.336
+Valoarea totala a
+programului
+Executie preliminata
+2025
+Estimari 2027
+Estimari 2028 Estimari 2029
+Realizari2024 si ani
+anteriori
+Propuneri 2026
+Estimari ani
+ulteriori
+pag.36
+
+FISA PROGRAMULUI BUGETAR
+- mii lei-
+Anexa nr.
+65
+3
+/
+/ 27
+Pag. 10 din 31
+65
+Cod
+    8609468
+     ordonator
+ 2050
+Cod
+program
+5001
+5001
+5001
+8001
+8001
+8001
+800140
+Cod
+indicator
+Buget de stat
+I. Credite de angajament
+II. Credite bugetare
+BUGETUL PROGRAMULUI
+Total General
+I. Credite de angajament
+II. Credite bugetare
+Buget de stat
+CHELTUIELI - BUGET DE STAT
+I. Credite de angajament
+II. Credite bugetare
+ACTIUNI GENERALE ECONOMICE, COMERCIALE SI DE MUNCA
+I. Credite de angajament
+II. Credite bugetare
+TITLUL IV SUBVENTII
+ 92.336
+ 92.336
+ 92.336
+ 92.336
+ 92.336
+ 92.336
+ 92.336
+ 92.336
+ 92.336
+ 92.336
+ 92.336
+ 92.336
+ 92.336
+ 92.336
+ 92.336
+ 92.336
+Valoarea totala a
+programului
+Executie preliminata
+2025
+Estimari 2027
+Estimari 2028 Estimari 2029
+Realizari2024 si ani
+anteriori
+Propuneri 2026
+Estimari ani
+ulteriori
+pag.37
+
+FISA PROGRAMULUI BUGETAR
+- mii lei-
+Anexa nr.
+65
+3
+/
+/ 27
+Pag. 11 din 31
+65
+Cod
+    8609468
+     ordonator
+ 2050
+ 2490
+Cod
+program
+800140
+800140
+Cod
+indicator
+I. Credite de angajament
+II. Credite bugetare
+COMENTARII :
+Angajamentul de 20 milioane EUR asumat de Romania la data constituirii FI3M reprezinta un angajament ferm, irevocabil, al
+statului roman incepand cu data de 29 mai 2019, data la care EximBank a semnat Statutul FI3M alaturi de banca de dezvoltare a
+Poloniei BGK in calitate de actionar fondator. Pentru asigurarea functionarii FI3M, EximBank are obligatia de a efectua
+varsamintele reprezentand cota sa de contributie pe masura ce FI3M identifica proiectele mature si viabile in care poate
+investi.Sumele alocate vor fi utilizate de Banca de Export-Import a Romaniei EXIMBANK - S.A. pentru plata contributiei
+aferente participarii Romaniei la Fondul de Investitii al Initiativei celor Trei Mari si a contributiei Romaniei la actiunile initiate
+de catre actionarii Fondului de Investitii al Initiativei celor Trei Mari.
+PROGRAM :
+Alocari la bugetul de stat -ACP aferente FEN
+DESCRIERE PROGRAM SI DOMENIUL POLITICII PUBLICE:
+Programul asigura resurse financiare in cazul indisponibilitatii temporare de la Comisia Europeana a fondurilor externe
+nerambursabile (FEN)  aferente perioadei de programare 2014-2020 / resurse financiare pentru acoperirea dobanzilor nete
+negative in euro bonificate de Banca Nationala a Romaniei pentru disponibilitatile de fonduri europene administrate de
+Ministerul Finantelor - Autoritatea de Certificare si Plata / Contributie BS aferenta FEN 2021-2027 pana la aprobarea
+programelor.
+OBIECTIV PROGRAM
+Asigurarea, prin intermediul autoritatilor de management, a sumelor necesare platii prefinantarii proiectelor pentru beneficiari
+si/sau continuarii finantarii proiectelor in cazul indisponibilitatii temporare a fondurilor europene. Finantarea de la bugetul de
+stat a sumelor reprezentand dobanda neta negativa in euro bonificata de Banca Natională a Romaniei pentru disponibilitătile
+conturilor analitice administrate de Ministerul Finantelor  - Autoritatea de Certificare si Plata. Asigurarea sumelor de la bugetul
+de stat pentru  fondurile externe nerambursabile (FEN 2021-2027) pana la aprobarea programelor.
+ 92.336
+ 92.336
+ 92.336
+ 92.336
+Valoarea totala a
+programului
+Executie preliminata
+2025
+Estimari 2027
+Estimari 2028 Estimari 2029
+Realizari2024 si ani
+anteriori
+Propuneri 2026
+Estimari ani
+ulteriori
+pag.38
+
+FISA PROGRAMULUI BUGETAR
+- mii lei-
+Anexa nr.
+65
+3
+/
+/ 27
+Pag. 12 din 31
+65
+Cod
+    8609468
+     ordonator
+ 2490
+Cod
+program
+Cod
+indicator
+DURATA DE REALIZARE A PROGRAMULUI(luni):
+DATA DE INCEPERE A PROGRAMULUI:   luna:  anul:
+DATA DE INCHIDERE A PROGRAMULUI:   luna:  anul:
+PROGRAM PERMANENT: DA
+INDICATORI DE REZULTAT - EFECTUL POLITICILIOR PUBLICE
+SURSE DE FINANTARE ALE PROGRAMULUI
+Total General
+I. Credite de angajament
+II. Credite bugetare
+Buget de stat
+I. Credite de angajament
+II. Credite bugetare
+BUGETUL PROGRAMULUI
+ 9.016.270
+ 9.016.270
+ 9.016.270
+ 9.016.270
+ 9.016.270
+ 9.016.270
+ 9.016.270
+ 9.016.270
+Valoarea totala a
+programului
+Executie preliminata
+2025
+Estimari 2027
+Estimari 2028 Estimari 2029
+Realizari2024 si ani
+anteriori
+Propuneri 2026
+Estimari ani
+ulteriori
+pag.39
+
+FISA PROGRAMULUI BUGETAR
+- mii lei-
+Anexa nr.
+65
+3
+/
+/ 27
+Pag. 13 din 31
+65
+Cod
+    8609468
+     ordonator
+ 2490
+Cod
+program
+5001
+5001
+5001
+5101
+5101
+5101
+510158
+510158
+510158
+5401
+Cod
+indicator
+Total General
+I. Credite de angajament
+II. Credite bugetare
+Buget de stat
+CHELTUIELI - BUGET DE STAT
+I. Credite de angajament
+II. Credite bugetare
+AUTORITATI PUBLICE SI ACTIUNI EXTERNE
+I. Credite de angajament
+II. Credite bugetare
+TITLUL X PROIECTE CU FINANTARE DIN FONDURI EXTERNE NERAMBURSABILE AFERENTE CADRULUI
+FINANCIAR 2014-2020 SI DIN FONDUL DE MODERNIZARE
+I. Credite de angajament
+II. Credite bugetare
+ALTE SERVICII PUBLICE GENERALE
+ 9.016.270
+ 9.016.270
+ 9.016.270
+ 9.016.270
+ 9.215.997
+ 9.215.997
+ 9.215.997
+ 9.215.997
+ 9.016.270
+ 9.016.270
+ 9.016.270
+ 9.016.270
+ 9.215.997
+ 9.215.997
+ 9.215.997
+ 9.215.997
+Valoarea totala a
+programului
+Executie preliminata
+2025
+Estimari 2027
+Estimari 2028 Estimari 2029
+Realizari2024 si ani
+anteriori
+Propuneri 2026
+Estimari ani
+ulteriori
+pag.40
+
+FISA PROGRAMULUI BUGETAR
+- mii lei-
+Anexa nr.
+65
+3
+/
+/ 27
+Pag. 14 din 31
+65
+Cod
+    8609468
+     ordonator
+ 2490
+ 2492
+Cod
+program
+5401
+5401
+540185
+540185
+540185
+Cod
+indicator
+I. Credite de angajament
+II. Credite bugetare
+TITLUL XXI PLATI EFECTUATE IN ANII PRECEDENTI SI RECUPERATE IN ANUL CURENT
+I. Credite de angajament
+II. Credite bugetare
+COMENTARII :
+Sumele utilizate de la bugetul de stat de la titlul 58 functioneaza pe principiul reintregirii bugetului de stat pe masura primirii
+fondurilor de la CE. Sumele utilizate de la bugetul de stat de la titlurile 56 si 60 NU functioneaza pe principiul reintregirii
+bugetului de stat
+PROGRAM :
+Program Contributii ale Romaniei la Uniunea Europeana
+DESCRIERE PROGRAM SI DOMENIUL POLITICII PUBLICE:
+Contributia Romaniei catre U.E. si cuprinde: 1. Contributia Romaniei la bugetul U.E.; 2. Contributia Romaniei la Fondul
+European de Dezvoltare (FED)
+OBIECTIV PROGRAM
+Asigurare indeplinirii obligatiilor financiare ale României către U.E. (Contributia Romaniei la bugetul Uniunii Europene si
+Contributia Romaniei la Fondul European de Dezvoltare) conform acordurilor semnate de Romania
+-199.727
+-199.727
+-199.727
+-199.727
+-199.727
+-199.727
+-199.727
+-199.727
+Valoarea totala a
+programului
+Executie preliminata
+2025
+Estimari 2027
+Estimari 2028 Estimari 2029
+Realizari2024 si ani
+anteriori
+Propuneri 2026
+Estimari ani
+ulteriori
+pag.41
+
+FISA PROGRAMULUI BUGETAR
+- mii lei-
+Anexa nr.
+65
+3
+/
+/ 27
+Pag. 15 din 31
+65
+Cod
+    8609468
+     ordonator
+ 2492
+Cod
+program
+Cod
+indicator
+DURATA DE REALIZARE A PROGRAMULUI(luni):
+DATA DE INCEPERE A PROGRAMULUI:   luna:  anul:
+DATA DE INCHIDERE A PROGRAMULUI:   luna:  anul:
+PROGRAM PERMANENT: DA
+INDICATORI DE REZULTAT - EFECTUL POLITICILIOR PUBLICE
+SURSE DE FINANTARE ALE PROGRAMULUI
+Total General
+I. Credite de angajament
+II. Credite bugetare
+Buget de stat
+I. Credite de angajament
+II. Credite bugetare
+BUGETUL PROGRAMULUI
+Total General
+ 13.913.990
+ 13.913.990
+ 13.913.990
+ 13.913.990
+ 13.913.990
+ 13.913.990
+ 13.913.990
+ 13.913.990
+Valoarea totala a
+programului
+Executie preliminata
+2025
+Estimari 2027
+Estimari 2028 Estimari 2029
+Realizari2024 si ani
+anteriori
+Propuneri 2026
+Estimari ani
+ulteriori
+pag.42
+
+FISA PROGRAMULUI BUGETAR
+- mii lei-
+Anexa nr.
+65
+3
+/
+/ 27
+Pag. 16 din 31
+65
+Cod
+    8609468
+     ordonator
+ 2492
+Cod
+program
+5001
+5001
+5001
+5101
+5101
+5101
+510155
+510155
+510155
+5401
+5401
+5401
+Cod
+indicator
+I. Credite de angajament
+II. Credite bugetare
+Buget de stat
+CHELTUIELI - BUGET DE STAT
+I. Credite de angajament
+II. Credite bugetare
+AUTORITATI PUBLICE SI ACTIUNI EXTERNE
+I. Credite de angajament
+II. Credite bugetare
+TITLUL VII ALTE TRANSFERURI
+I. Credite de angajament
+II. Credite bugetare
+ALTE SERVICII PUBLICE GENERALE
+I. Credite de angajament
+II. Credite bugetare
+ 13.913.990
+ 13.913.990
+ 13.913.990
+ 13.913.990
+ 13.839.432
+ 13.839.432
+ 13.839.432
+ 13.839.432
+ 74.558
+ 74.558
+ 13.913.990
+ 13.913.990
+ 13.913.990
+ 13.913.990
+ 13.839.432
+ 13.839.432
+ 13.839.432
+ 13.839.432
+ 74.558
+ 74.558
+Valoarea totala a
+programului
+Executie preliminata
+2025
+Estimari 2027
+Estimari 2028 Estimari 2029
+Realizari2024 si ani
+anteriori
+Propuneri 2026
+Estimari ani
+ulteriori
+pag.43
+
+FISA PROGRAMULUI BUGETAR
+- mii lei-
+Anexa nr.
+65
+3
+/
+/ 27
+Pag. 17 din 31
+65
+Cod
+    8609468
+     ordonator
+ 2492
+ 2493
+Cod
+program
+540155
+540155
+540155
+Cod
+indicator
+TITLUL VII ALTE TRANSFERURI
+I. Credite de angajament
+II. Credite bugetare
+COMENTARII :
+Programul Contributii ale Romaniei la Uniunea Europeana, cuprinde: Contributia Romaniei la bugetul U.E. si Contributia
+Romaniei la Fondul European de Dezvoltare (FED) si are drept scop asigurarea indeplinirii obligatiilor financiare ale Romaniei
+catre U.E. potrivit angajamentelor asumate de Romania prin Tratatul de aderare a Republicii Bulgaria si a Romaniei la Uniunea
+Europeana ratificat prin Legea nr. 157/2005.Astfel, Romania, in calitate de stat membru, participa la finantarea bugetului
+Uniunii Europene si asigura plata contributiei sale pentru finantarea bugetului Uniunii in cadrul sistemului resurselor proprii ale
+bugetului U.E.. Totodată, Romania isi aduce contributia la Fondul European de Dezvoltare in urma aderarii la Acordul de
+parteneriat dintre membrii grupului statelor din Africa, Caraibe si Pacific (ACP) si Uniunea Europeana ratificat prin Legea nr.
+16/2008.
+PROGRAM :
+Fonduri de rezerva la dispozitia Guvernului
+DESCRIERE PROGRAM SI DOMENIUL POLITICII PUBLICE:
+Prezentul program cuprinde sumele care urmează a fi repartizate potrivit legii din Fondul de rezerva bugetara la dispozitia
+Guvernului si din Fondul de interventie la dispozitia Guvernului unor ordonatori principali de credite ai bugetului de stat si ai
+bugetelor locale.
+OBIECTIV PROGRAM
+Programul cumuleaza: finantarea unor cheltuieli urgente sau neprevazute aparute in timpul exercitiului bugetar;  finantarea
+unor actiuni urgente in vederea inlaturarii efectelor unor calamitati naturale si sprijinirii persoanelor fizice sinistrate
+ 74.558
+ 74.558
+ 74.558
+ 74.558
+Valoarea totala a
+programului
+Executie preliminata
+2025
+Estimari 2027
+Estimari 2028 Estimari 2029
+Realizari2024 si ani
+anteriori
+Propuneri 2026
+Estimari ani
+ulteriori
+pag.44
+
+FISA PROGRAMULUI BUGETAR
+- mii lei-
+Anexa nr.
+65
+3
+/
+/ 27
+Pag. 18 din 31
+65
+Cod
+    8609468
+     ordonator
+ 2493
+Cod
+program
+Cod
+indicator
+DURATA DE REALIZARE A PROGRAMULUI(luni):
+DATA DE INCEPERE A PROGRAMULUI:   luna:  anul:
+DATA DE INCHIDERE A PROGRAMULUI:   luna:  anul:
+PROGRAM PERMANENT: DA
+INDICATORI DE REZULTAT - EFECTUL POLITICILIOR PUBLICE
+SURSE DE FINANTARE ALE PROGRAMULUI
+Total General
+I. Credite de angajament
+II. Credite bugetare
+Buget de stat
+I. Credite de angajament
+II. Credite bugetare
+BUGETUL PROGRAMULUI
+Total General
+ 66.168
+ 66.168
+ 66.168
+ 66.168
+ 66.168
+ 66.168
+ 66.168
+ 66.168
+Valoarea totala a
+programului
+Executie preliminata
+2025
+Estimari 2027
+Estimari 2028 Estimari 2029
+Realizari2024 si ani
+anteriori
+Propuneri 2026
+Estimari ani
+ulteriori
+pag.45
+
+FISA PROGRAMULUI BUGETAR
+- mii lei-
+Anexa nr.
+65
+3
+/
+/ 27
+Pag. 19 din 31
+65
+Cod
+    8609468
+     ordonator
+ 2493
+Cod
+program
+5001
+5001
+5001
+5601
+5601
+5601
+560151
+560151
+560151
+560185
+560185
+560185
+Cod
+indicator
+I. Credite de angajament
+II. Credite bugetare
+Buget de stat
+CHELTUIELI - BUGET DE STAT
+I. Credite de angajament
+II. Credite bugetare
+TRANSFERURI CU CARACTER GENERAL INTRE DIFERITE NIVELE ALE ADMINISTRATIEI
+I. Credite de angajament
+II. Credite bugetare
+TITLUL VI TRANSFERURI INTRE UNITATI ALE ADMINISTRATIEI PUBLICE
+I. Credite de angajament
+II. Credite bugetare
+TITLUL XXI PLATI EFECTUATE IN ANII PRECEDENTI SI RECUPERATE IN ANUL CURENT
+I. Credite de angajament
+II. Credite bugetare
+ 66.168
+ 66.168
+ 66.168
+ 66.168
+ 66.168
+ 66.168
+ 71.418
+ 71.418
+-5.250
+-5.250
+ 66.168
+ 66.168
+ 66.168
+ 66.168
+ 66.168
+ 66.168
+ 71.418
+ 71.418
+-5.250
+-5.250
+Valoarea totala a
+programului
+Executie preliminata
+2025
+Estimari 2027
+Estimari 2028 Estimari 2029
+Realizari2024 si ani
+anteriori
+Propuneri 2026
+Estimari ani
+ulteriori
+pag.46
+
+FISA PROGRAMULUI BUGETAR
+- mii lei-
+Anexa nr.
+65
+3
+/
+/ 27
+Pag. 20 din 31
+65
+Cod
+    8609468
+     ordonator
+ 2493
+ 2494
+Cod
+program
+Cod
+indicator
+COMENTARII :
+Fondul de rezerva bugetara la dispozitia Guvernului este destinat pentru finantarea unor cheltuieli urgente sau neprevazute ale
+unor ordonatori principali de credite ai bugetului de stat si ai bugetelor locale aparute in timpul exercitiului bugetar. Fondul de
+interventie la dispozitia Guvernului este destinat pentru finantarea unor actiuni urgente in vederea inlaturarii efectelor unor
+calamitati naturale si sprijinirii persoanelor fizice sinistrate
+PROGRAM :
+Managementul datoriei publice guvernamentale
+DESCRIERE PROGRAM SI DOMENIUL POLITICII PUBLICE:
+Datoria publica, conform O.U.G. nr.64/2007 include datoria publica guvernamentala, reprezentand obligatii contractate direct
+sau garantate de catre Guvern prin Ministerul Finantelor, incluzand sumele din contul curent general al Trezoreriei Statului,
+datoria contractata de catre ministerele de linie, precum si datoria publica locala, reprezentand obligatii contactate direct sau
+garantate de catre unitatile administratiei publice locale.
+OBIECTIV PROGRAM
+Programul isi propune asigurarea necesarului de finantare al administratiei publice centrale pe fondul minimizarii costurilor pe
+termen mediu si lung, limitarea riscurilor asociate portofoliului datoriei publice guvernamentale si  dezvoltarea pietei interne a
+titlurilor de stat.
+DURATA DE REALIZARE A PROGRAMULUI(luni):
+DATA DE INCEPERE A PROGRAMULUI:   luna: 1 anul: 2023
+DATA DE INCHIDERE A PROGRAMULUI:   luna:  anul:
+PROGRAM PERMANENT: DA
+Valoarea totala a
+programului
+Executie preliminata
+2025
+Estimari 2027
+Estimari 2028 Estimari 2029
+Realizari2024 si ani
+anteriori
+Propuneri 2026
+Estimari ani
+ulteriori
+pag.47
+
+FISA PROGRAMULUI BUGETAR
+- mii lei-
+Anexa nr.
+65
+3
+/
+/ 27
+Pag. 21 din 31
+65
+Cod
+    8609468
+     ordonator
+ 2494
+Cod
+program
+Cod
+indicator
+INDICATORI DE REZULTAT - EFECTUL POLITICILIOR PUBLICE
+Ponderea datoriei in moneda nationala din total datorie Tinta 2025: 45% (minim) – 60%; Ponderea datoriei scadente in termen
+de 1 an Tinta 2025: 10% - 20% (maxim); Maturitatea medie ramasa pentru total datorie Tinta 2025: 6,5 ani (minim) – 8,0 ani
+MASURI INTREPRINSE PENTRU ATINGEREA OBIECTIVULUI SI COSTURI ASOCIATE ACESTORA:
+Masura 985
+Limitarea riscurilor asociate portofoliului datoriei publice guvernamentale Cost asociat:7500 mii lei
+Masura 989
+Tranzactii privind datoria publica, imprumuturi, garantii de stat Cost asociat:61368446 mii lei
+SURSE DE FINANTARE ALE PROGRAMULUI
+Total General
+I. Credite de angajament
+II. Credite bugetare
+Buget de stat
+I. Credite de angajament
+II. Credite bugetare
+ 67.772.930
+ 67.772.930
+ 67.772.930
+ 67.772.930
+ 50.616.208
+ 50.616.129
+ 50.616.208
+ 50.616.129
+ 61.374.403
+ 61.375.946
+ 61.374.403
+ 61.375.946
+ 65.538.199
+ 65.529.742
+ 65.538.199
+ 65.529.742
+ 63.252.391
+ 63.257.391
+ 63.252.391
+ 63.257.391
+ 62.559.422
+ 62.554.422
+ 62.559.422
+ 62.554.422
+ 371.113.553
+ 371.113.553
+ 371.113.553
+ 371.113.553
+Valoarea totala a
+programului
+Executie preliminata
+2025
+Estimari 2027
+Estimari 2028 Estimari 2029
+Realizari2024 si ani
+anteriori
+Propuneri 2026
+Estimari ani
+ulteriori
+ 6.993
+ 6.993
+pag.48
+
+FISA PROGRAMULUI BUGETAR
+- mii lei-
+Anexa nr.
+65
+3
+/
+/ 27
+Pag. 22 din 31
+65
+Cod
+    8609468
+     ordonator
+ 2494
+Cod
+program
+5001
+5001
+5001
+5401
+5401
+5401
+540155
+540155
+540155
+540185
+Cod
+indicator
+BUGETUL PROGRAMULUI
+Total General
+I. Credite de angajament
+II. Credite bugetare
+Buget de stat
+CHELTUIELI - BUGET DE STAT
+I. Credite de angajament
+II. Credite bugetare
+ALTE SERVICII PUBLICE GENERALE
+I. Credite de angajament
+II. Credite bugetare
+TITLUL VII ALTE TRANSFERURI
+I. Credite de angajament
+II. Credite bugetare
+TITLUL XXI PLATI EFECTUATE IN ANII PRECEDENTI SI RECUPERATE IN ANUL CURENT
+ 67.772.930
+ 67.772.930
+ 67.772.930
+ 67.772.930
+ 424.016
+ 424.016
+ 424.754
+ 424.754
+ 50.616.208
+ 50.616.129
+ 50.616.208
+ 50.616.129
+ 516.773
+ 516.773
+ 516.773
+ 516.773
+ 61.374.403
+ 61.375.946
+ 61.374.403
+ 61.375.946
+ 942.297
+ 942.297
+ 942.297
+ 942.297
+ 65.538.199
+ 65.529.742
+ 65.538.199
+ 65.529.742
+ 63.252.391
+ 63.257.391
+ 63.252.391
+ 63.257.391
+ 62.559.422
+ 62.554.422
+ 62.559.422
+ 62.554.422
+ 371.113.553
+ 371.113.553
+ 371.113.553
+ 371.113.553
+ 1.883.086
+ 1.883.086
+ 1.883.824
+ 1.883.824
+Valoarea totala a
+programului
+Executie preliminata
+2025
+Estimari 2027
+Estimari 2028 Estimari 2029
+Realizari2024 si ani
+anteriori
+Propuneri 2026
+Estimari ani
+ulteriori
+ 6.993
+ 6.993
+pag.49
+
+FISA PROGRAMULUI BUGETAR
+- mii lei-
+Anexa nr.
+65
+3
+/
+/ 27
+Pag. 23 din 31
+65
+Cod
+    8609468
+     ordonator
+ 2494
+Cod
+program
+540185
+540185
+5501
+5501
+5501
+550120
+550120
+550120
+550130
+550130
+550130
+550151
+550151
+550151
+550159
+Cod
+indicator
+I. Credite de angajament
+II. Credite bugetare
+TRANZACTII PRIVIND DATORIA PUBLICA SI IMPRUMUTURI
+I. Credite de angajament
+II. Credite bugetare
+TITLUL II BUNURI SI SERVICII
+I. Credite de angajament
+II. Credite bugetare
+TITLUL III DOBANZI
+I. Credite de angajament
+II. Credite bugetare
+TITLUL VI TRANSFERURI INTRE UNITATI ALE ADMINISTRATIEI PUBLICE
+I. Credite de angajament
+II. Credite bugetare
+TITLUL XI  ALTE CHELTUIELI
+-738
+-738
+ 67.348.914
+ 67.348.914
+ 298.570
+ 298.570
+ 63.326.802
+ 63.326.802
+ 48.105
+ 48.105
+ 50.099.435
+ 50.099.356
+ 249.475
+ 249.396
+ 48.834.633
+ 48.834.633
+ 60.432.106
+ 60.433.649
+ 573.582
+ 575.125
+ 58.824.484
+ 58.824.484
+ 73.275
+ 73.275
+ 65.538.199
+ 65.529.742
+ 207.560
+ 199.103
+ 64.358.030
+ 64.358.030
+ 80.000
+ 80.000
+ 63.252.391
+ 63.257.391
+ 166.916
+ 171.916
+ 62.137.957
+ 62.137.957
+ 88.000
+ 88.000
+ 62.559.422
+ 62.554.422
+ 177.881
+ 172.881
+ 61.572.599
+ 61.572.599
+ 97.000
+ 97.000
+-738
+-738
+ 369.230.467
+ 369.230.467
+ 1.673.984
+ 1.673.984
+ 359.054.505
+ 359.054.505
+ 386.380
+ 386.380
+Valoarea totala a
+programului
+Executie preliminata
+2025
+Estimari 2027
+Estimari 2028 Estimari 2029
+Realizari2024 si ani
+anteriori
+Propuneri 2026
+Estimari ani
+ulteriori
+ 6.993
+ 6.993
+pag.50
+
+FISA PROGRAMULUI BUGETAR
+- mii lei-
+Anexa nr.
+65
+3
+/
+/ 27
+Pag. 24 din 31
+65
+Cod
+    8609468
+     ordonator
+ 2494
+ 2590
+Cod
+program
+550159
+550159
+550181
+550181
+550181
+550185
+550185
+550185
+Cod
+indicator
+I. Credite de angajament
+II. Credite bugetare
+TITLUL XIX RAMBURSARI DE CREDITE
+I. Credite de angajament
+II. Credite bugetare
+TITLUL XXI PLATI EFECTUATE IN ANII PRECEDENTI SI RECUPERATE IN ANUL CURENT
+I. Credite de angajament
+II. Credite bugetare
+COMENTARII :
+Conform legislatiei privind datoria publica, rambursarea datoriei publice guvernamentale reprezintă o obligatie a statului
+neconditionata si irevocabila de plata a capitalului, dobanzilor, comisioanelor si a altor costuri aferente finantarilor rambursabile
+angajate sau garantate. De asemenea statul in calitate de actionar majoritar al Eximbank asigura sursele financiare necesare
+pentru desfasurarea activitatii bancii in nume si cont stat inclusiv pentru derularea unor programe pentru sustinerea mediului
+economic.
+PROGRAM :
+Alte obligatii de plata in numele statului
+DESCRIERE PROGRAM SI DOMENIUL POLITICII PUBLICE:
+ 3.679.796
+ 3.679.796
+-4.359
+-4.359
+ 1.015.327
+ 1.015.327
+ 59.000
+ 59.000
+ 901.765
+ 901.765
+ 234.000
+ 234.000
+ 658.609
+ 658.609
+ 303.000
+ 303.000
+ 556.518
+ 556.518
+ 253.000
+ 253.000
+ 458.942
+ 458.942
+ 849.000
+ 849.000
+ 7.270.957
+ 7.270.957
+-4.359
+-4.359
+Valoarea totala a
+programului
+Executie preliminata
+2025
+Estimari 2027
+Estimari 2028 Estimari 2029
+Realizari2024 si ani
+anteriori
+Propuneri 2026
+Estimari ani
+ulteriori
+pag.51
+
+FISA PROGRAMULUI BUGETAR
+- mii lei-
+Anexa nr.
+65
+3
+/
+/ 27
+Pag. 25 din 31
+65
+Cod
+    8609468
+     ordonator
+ 2590
+Cod
+program
+Cod
+indicator
+Contributii ale Romaniei la bugetul UE. Procedurile de plata a contributiei Romaniei la BUE in cadrul sistemului resurselor
+proprii ale BUE si a Instrumentului de acordare de sprijin financiar UA(MFA+) pentru 2023 in ceea ce priveste subventionarea
+dobanzii, a contributiei Romaniei la FED se efectueaza conform Regulamentelor UE nr. 609/2014, nr. 2022/2463 si
+2018/1877.Fonduri de rezerva la dispozitia Guvernului-sumele care se repartizeaza unor OPC ai bugetului de stat si ai bugetelor
+locale din aceste fonduri, in baza actelor normative. Alocari la bugetul de stat-ACP aferente FEN-resurse financiare in cazul
+indisponibilitatii temporare de la CE a FEN aferente per. de programare 2014-2020 si 2021-2027. Participarea la constituirea
+fondurilor de investitii promovate in cadrul Initiativei celor Trei Mari, inclusiv de Fondul European de Investitii (FEI), destinate
+sustinerii proiectelor de investiții. Alocarea de fonduri pentru sustinerea economiei prin intermediul Exim Banca Romaneasca.
+OBIECTIV PROGRAM
+Indeplinirea la termen a  obligatiilor financiare ale Romaniei cu privire la contributii ale Romaniei la Uniunea Europeana,
+fonduri de rezerva la dispozitia Guvernului, asigurarea sprijinului in vederea atingerii obiectivelor autoritatilor de management,
+prin asigurarea resurselor financiare in cazul indisponibilitatii temporare de la Comisia Europeana a fondurilor externe
+nerambursabile, participarea la constituirea capitalului social al fondurilor de investitii promovate în cadrul Initiativei celor
+Trei Mari, inclusiv de Fondul European de Investitii si alocarea de fonduri pentru sustinerea economiei prin instrumentele
+acordate in numele si contul statului de catre Exim Banca Romaneasca.
+DURATA DE REALIZARE A PROGRAMULUI(luni):
+DATA DE INCEPERE A PROGRAMULUI:   luna: 1 anul: 2024
+DATA DE INCHIDERE A PROGRAMULUI:   luna:  anul:
+PROGRAM PERMANENT: DA
+INDICATORI DE REZULTAT - EFECTUL POLITICILIOR PUBLICE
+Grad de indeplinire in termen a obligatiilor de plata, conform procedurilor Tinta 2028: 100%
+MASURI INTREPRINSE PENTRU ATINGEREA OBIECTIVULUI SI COSTURI ASOCIATE ACESTORA:
+Valoarea totala a
+programului
+Executie preliminata
+2025
+Estimari 2027
+Estimari 2028 Estimari 2029
+Realizari2024 si ani
+anteriori
+Propuneri 2026
+Estimari ani
+ulteriori
+pag.52
+
+FISA PROGRAMULUI BUGETAR
+- mii lei-
+Anexa nr.
+65
+3
+/
+/ 27
+Pag. 26 din 31
+65
+Cod
+    8609468
+     ordonator
+ 2590
+Cod
+program
+Cod
+indicator
+Masura 984
+Plata contributiilor Romaniei la Uniunea Europeana Cost asociat:22215267 mii lei
+Masura 986
+Gestionarea Fondului de rezerva la dispozitia Guvernului (FRB) si a Fondului de interventie la dispozitia Guvernului (FI) prin punerea in aplicare a solicitarilor OPC care
+au la baza acte normative de alocare a unor sume din FRB si FI, precum si a cedarilor de sume la FRB potrivit actelor normative in vigoare Cost asociat:100000 mii lei
+Masura 988
+Alocari la bugetul de stat - ACP aferente fondurilor externe nerambursabile Cost asociat:16170559 mii lei
+Masura 990
+Finantarea masurilor reziduale din Loteria bonurilor fiscale Cost asociat:200 mii lei
+Masura 1181
+Participarea la constituirea fondurilor de investitii promovate in cadrul Initiativei celor Trei Mari, inclusiv de Fondul European de Investitii Cost asociat:285668 mii lei
+Masura 1341
+Alocarea de fonduri pentru sustinerea economiei prin intermediul Exim Banca Romaneasca si a Bancii de Investitii si Dezvoltare, pentru incurajarea mediului de afaceri
+romanesc prin produse specifice de finantare, garantare si asigurare (activitate în numele si în contul statului) Cost asociat:1250000 mii lei
+Masura 1581
+Asigurare sume PNRR pentru redistribuiri Cost asociat:9603007 mii lei
+Valoarea totala a
+programului
+Executie preliminata
+2025
+Estimari 2027
+Estimari 2028 Estimari 2029
+Realizari2024 si ani
+anteriori
+Propuneri 2026
+Estimari ani
+ulteriori
+pag.53
+
+FISA PROGRAMULUI BUGETAR
+- mii lei-
+Anexa nr.
+65
+3
+/
+/ 27
+Pag. 27 din 31
+65
+Cod
+    8609468
+     ordonator
+ 2590
+Cod
+program
+5001
+Cod
+indicator
+Masura 1601
+Programul Facilitatea nationala pentru finantarea pregatirii proiectelor si asistenta tehnica pentru parteneriatele public-private. Cost asociat:2555 mii lei
+SURSE DE FINANTARE ALE PROGRAMULUI
+Total General
+I. Credite de angajament
+II. Credite bugetare
+Buget de stat
+I. Credite de angajament
+II. Credite bugetare
+BUGETUL PROGRAMULUI
+Total General
+I. Credite de angajament
+II. Credite bugetare
+Buget de stat
+CHELTUIELI - BUGET DE STAT
+ 21.125.739
+ 21.125.739
+ 21.125.739
+ 21.125.739
+ 21.125.739
+ 21.125.739
+ 34.734.157
+ 34.734.157
+ 34.734.157
+ 34.734.157
+ 34.734.157
+ 34.734.157
+ 49.675.801
+ 49.627.256
+ 49.675.801
+ 49.627.256
+ 49.675.801
+ 49.627.256
+ 41.996.283
+ 41.993.728
+ 41.996.283
+ 41.993.728
+ 41.996.283
+ 41.993.728
+ 40.648.397
+ 40.648.397
+ 40.648.397
+ 40.648.397
+ 40.648.397
+ 40.648.397
+ 40.105.201
+ 40.130.751
+ 40.105.201
+ 40.130.751
+ 40.105.201
+ 40.130.751
+ 228.285.578
+ 228.285.578
+ 228.285.578
+ 228.285.578
+ 228.285.578
+ 228.285.578
+Valoarea totala a
+programului
+Executie preliminata
+2025
+Estimari 2027
+Estimari 2028 Estimari 2029
+Realizari2024 si ani
+anteriori
+Propuneri 2026
+Estimari ani
+ulteriori
+ 25.550
+ 25.550
+ 25.550
+pag.54
+
+FISA PROGRAMULUI BUGETAR
+- mii lei-
+Anexa nr.
+65
+3
+/
+/ 27
+Pag. 28 din 31
+65
+Cod
+    8609468
+     ordonator
+ 2590
+Cod
+program
+5001
+5001
+5101
+5101
+5101
+510155
+510155
+510155
+510156
+510156
+510156
+510158
+510158
+510158
+Cod
+indicator
+I. Credite de angajament
+II. Credite bugetare
+AUTORITATI PUBLICE SI ACTIUNI EXTERNE
+I. Credite de angajament
+II. Credite bugetare
+TITLUL VII ALTE TRANSFERURI
+I. Credite de angajament
+II. Credite bugetare
+TITLUL VIII PROIECTE CU FINANTARE DIN FONDURI EXTERNE NERAMBURSABILE (FEN) POSTADERARE
+I. Credite de angajament
+II. Credite bugetare
+TITLUL X PROIECTE CU FINANTARE DIN FONDURI EXTERNE NERAMBURSABILE AFERENTE CADRULUI
+FINANCIAR 2014-2020 SI DIN FONDUL DE MODERNIZARE
+I. Credite de angajament
+II. Credite bugetare
+ 21.125.739
+ 21.125.739
+ 21.085.880
+ 21.085.880
+ 14.839.833
+ 14.839.833
+ 746.047
+ 746.047
+ 5.500.000
+ 5.500.000
+ 34.734.157
+ 34.734.157
+ 34.314.902
+ 34.314.902
+ 16.504.610
+ 16.504.610
+ 13.837.627
+ 13.837.627
+ 3.972.665
+ 3.972.665
+ 49.675.801
+ 49.627.256
+ 47.963.033
+ 47.963.033
+ 22.189.467
+ 22.189.467
+ 15.546.559
+ 15.546.559
+ 624.000
+ 624.000
+ 41.996.283
+ 41.993.728
+ 41.134.983
+ 41.134.983
+ 21.483.983
+ 21.483.983
+ 19.651.000
+ 19.651.000
+ 40.648.397
+ 40.648.397
+ 39.797.307
+ 39.797.307
+ 21.909.807
+ 21.909.807
+ 17.887.500
+ 17.887.500
+ 40.105.201
+ 40.130.751
+ 39.287.961
+ 39.287.961
+ 22.078.461
+ 22.078.461
+ 17.209.500
+ 17.209.500
+ 228.285.578
+ 228.285.578
+ 223.584.066
+ 223.584.066
+ 119.006.161
+ 119.006.161
+ 84.878.233
+ 84.878.233
+ 10.096.665
+ 10.096.665
+Valoarea totala a
+programului
+Executie preliminata
+2025
+Estimari 2027
+Estimari 2028 Estimari 2029
+Realizari2024 si ani
+anteriori
+Propuneri 2026
+Estimari ani
+ulteriori
+ 25.550
+pag.55
+
+FISA PROGRAMULUI BUGETAR
+- mii lei-
+Anexa nr.
+65
+3
+/
+/ 27
+Pag. 29 din 31
+65
+Cod
+    8609468
+     ordonator
+ 2590
+Cod
+program
+510160
+510160
+510160
+510161
+510161
+510161
+5401
+5401
+5401
+540150
+540150
+540150
+540155
+540155
+Cod
+indicator
+TITLUL XII PROIECTE CU FINANTARE DIN SUMELE REPREZENTAND ASISTENTA FINANCIARA
+NERAMBURSABILA AFERENTA PNRR
+I. Credite de angajament
+II. Credite bugetare
+TITLUL XIII PROIECTE CU FINANTARE DIN SUMELE AFERENTE COMPONENTEI DE IMPRUMUT A PNRR
+I. Credite de angajament
+II. Credite bugetare
+ALTE SERVICII PUBLICE GENERALE
+I. Credite de angajament
+II. Credite bugetare
+TITLUL V FONDURI DE REZERVA
+I. Credite de angajament
+II. Credite bugetare
+TITLUL VII ALTE TRANSFERURI
+I. Credite de angajament
+ 49.483
+ 49.483
+ 53.581
+ 29.255
+ 29.255
+ 29.255
+ 5.616.029
+ 5.616.029
+ 3.986.978
+ 3.986.978
+ 125.800
+ 125.800
+ 100.000
+ 100.000
+ 25.800
+ 560.100
+ 560.100
+ 532.500
+ 532.500
+ 27.600
+ 575.440
+ 575.440
+ 549.540
+ 549.540
+ 25.900
+ 567.140
+ 567.140
+ 549.540
+ 549.540
+ 17.600
+ 5.616.029
+ 5.616.029
+ 3.986.978
+ 3.986.978
+ 1.907.218
+ 1.907.218
+ 1.731.580
+ 1.731.580
+ 179.736
+Valoarea totala a
+programului
+Executie preliminata
+2025
+Estimari 2027
+Estimari 2028 Estimari 2029
+Realizari2024 si ani
+anteriori
+Propuneri 2026
+Estimari ani
+ulteriori
+pag.56
+
+FISA PROGRAMULUI BUGETAR
+- mii lei-
+Anexa nr.
+65
+3
+/
+/ 27
+Pag. 30 din 31
+65
+Cod
+    8609468
+     ordonator
+ 2590
+Cod
+program
+540155
+540185
+540185
+540185
+5601
+5601
+5601
+560185
+560185
+560185
+8001
+8001
+8001
+800120
+800120
+Cod
+indicator
+II. Credite bugetare
+TITLUL XXI PLATI EFECTUATE IN ANII PRECEDENTI SI RECUPERATE IN ANUL CURENT
+I. Credite de angajament
+II. Credite bugetare
+TRANSFERURI CU CARACTER GENERAL INTRE DIFERITE NIVELE ALE ADMINISTRATIEI
+I. Credite de angajament
+II. Credite bugetare
+TITLUL XXI PLATI EFECTUATE IN ANII PRECEDENTI SI RECUPERATE IN ANUL CURENT
+I. Credite de angajament
+II. Credite bugetare
+ACTIUNI GENERALE ECONOMICE, COMERCIALE SI DE MUNCA
+I. Credite de angajament
+II. Credite bugetare
+TITLUL II BUNURI SI SERVICII
+I. Credite de angajament
+ 53.581
+-4.098
+-4.098
+-1.150
+-1.150
+-1.150
+-1.150
+-8.474
+-8.474
+ 29.255
+ 390.000
+ 390.000
+ 25.800
+ 1.586.968
+ 1.538.423
+ 51.100
+ 27.600
+ 301.200
+ 298.645
+ 51.100
+ 25.900
+ 275.650
+ 275.650
+ 25.550
+ 17.600
+ 250.100
+ 275.650
+ 179.736
+-4.098
+-4.098
+-1.150
+-1.150
+-1.150
+-1.150
+ 2.795.444
+ 2.795.444
+ 127.750
+Valoarea totala a
+programului
+Executie preliminata
+2025
+Estimari 2027
+Estimari 2028 Estimari 2029
+Realizari2024 si ani
+anteriori
+Propuneri 2026
+Estimari ani
+ulteriori
+ 25.550
+pag.57
+
+FISA PROGRAMULUI BUGETAR
+- mii lei-
+Anexa nr.
+65
+3
+/
+/ 27
+Pag. 31 din 31
+65
+Cod
+    8609468
+     ordonator
+ 2590
+Cod
+program
+800120
+800140
+800140
+800140
+800155
+800155
+800155
+800180
+800180
+800180
+800185
+800185
+800185
+Cod
+indicator
+II. Credite bugetare
+TITLUL IV SUBVENTII
+I. Credite de angajament
+II. Credite bugetare
+TITLUL VII ALTE TRANSFERURI
+I. Credite de angajament
+II. Credite bugetare
+TITLUL XVIII IMPRUMUTURI
+I. Credite de angajament
+II. Credite bugetare
+TITLUL XXI PLATI EFECTUATE IN ANII PRECEDENTI SI RECUPERATE IN ANUL CURENT
+I. Credite de angajament
+II. Credite bugetare
+COMENTARII :
+ 9.204
+ 9.204
+-17.678
+-17.678
+ 390.000
+ 390.000
+ 2.555
+ 285.668
+ 285.668
+ 200
+ 200
+ 1.250.000
+ 1.250.000
+ 48.545
+ 100
+ 100
+ 250.000
+ 250.000
+ 25.550
+ 100
+ 100
+ 250.000
+ 250.000
+ 25.550
+ 100
+ 100
+ 250.000
+ 250.000
+ 127.750
+ 294.872
+ 294.872
+ 500
+ 500
+ 2.390.000
+ 2.390.000
+-17.678
+-17.678
+Valoarea totala a
+programului
+Executie preliminata
+2025
+Estimari 2027
+Estimari 2028 Estimari 2029
+Realizari2024 si ani
+anteriori
+Propuneri 2026
+Estimari ani
+ulteriori
+ 25.550
+pag.58
