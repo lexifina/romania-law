@@ -1,0 +1,319 @@
+{
+ "key": "iccj-hp-23-2026",
+ "label": "Decizia ÎCCJ nr. 23/2026 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "23",
+ "date": "2026-01-26",
+ "year": "2026",
+ "heading": "DECIZIA nr. 23 din 26 ianuarie 2026",
+ "subtitle": "referitoare la interpretarea și aplicarea dispozițiilor art. 850 alin. (1) și ale art. 863 alin. (1) din Codul de procedură civilă",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "183",
+  "bis": false,
+  "date": "2026-03-10",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "2.975/1/2024",
+  "30.765/325/2023"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "850",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "863",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite sesizarea formulată de Tribunalul Arad - Secția I civilă în Dosarul nr. 30.765/325/2023, în vederea pronunțării unei hotărâri prealabile. În interpretarea și aplicarea dispozițiilor art. 850 alin. (1) și ale art. 863 alin. (1) din Codul de procedură civilă, stabilește că:",
+  "Debitorul sau orice altă persoană interesată poate obține desființarea măsurilor asigurătorii sau de executare, consemnând la dispoziția creditorului urmăritor întreaga valoare a creanței, cu toate accesoriile și cheltuielile de executare, până la data emiterii actului de adjudecare. În acest caz, executorul judecătoresc va refuza emiterea actului de adjudecare, chiar dacă adjudecatarul a depus prețul integral.",
+  "Obligatorie, potrivit art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "863",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "850",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "854",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "h"
+     ]
+    },
+    {
+     "art": "703",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "849",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "851",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "857",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "846",
+     "alin": [
+      "11"
+     ],
+     "lit": null
+    },
+    {
+     "art": "847",
+     "alin": [
+      "1",
+      "3"
+     ],
+     "lit": [
+      "f"
+     ]
+    },
+    {
+     "art": "856",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "862",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "179",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "853",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "622",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 67
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 138/2014",
+    "number": "138",
+    "year": "2014",
+    "path": "lege/2014/138"
+   },
+   "articles": [],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "881",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "887",
+     "alin": [
+      "1",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1674",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 71/2011",
+    "number": "71",
+    "year": "2011",
+    "path": "lege/2011/71"
+   },
+   "articles": [
+    {
+     "art": "56",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "37",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul adițional nr. 1",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2026-03-10",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/308135",
+  "text_sha256": "a41c845dd7876bfeb1cf2dac58b8604185c34dd632535a651281ae7666e6cada",
+  "catalogue_sha256": "a41c845dd7876bfeb1cf2dac58b8604185c34dd632535a651281ae7666e6cada",
+  "fetched": "2026-11-03T00:50:16Z",
+  "chars": 78597,
+  "portal_id": "308135",
+  "tip": "DECIZIE"
+ }
+}
