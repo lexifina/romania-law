@@ -14,6 +14,7 @@ Initiator: Guvernul României.
 - 2026-02-25: documents published: Aviz comisie
 - 2026-03-03: documents published: Aviz comisie
 - 2026-03-05: documents published: Aviz comisie
+- 2026-03-10: documents published: Aviz comisie
 
 ## Documents
 
@@ -27,3 +28,4 @@ Initiator: Guvernul României.
 - 2026-03-03: Aviz comisie (CA19): [ca19-92afc1bf.md](ca19-92afc1bf.md); official file https://www.senat.ro/legis/PDF/2026/26L121CA19.PDF
 - 2026-03-03: Aviz comisie (CA58): [ca58-38668af2.md](ca58-38668af2.md); official file https://www.senat.ro/legis/PDF/2026/26L121CA58.PDF
 - 2026-03-05: Aviz comisie (CA60): [ca60-9d6c6f9a.md](ca60-9d6c6f9a.md); official file https://www.senat.ro/legis/PDF/2026/26L121CA60.PDF
+- 2026-03-10: Aviz comisie (CA41): [ca41-6debc43a.md](ca41-6debc43a.md); official file https://www.senat.ro/legis/PDF/2026/26L121CA41.PDF
