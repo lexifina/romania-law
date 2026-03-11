@@ -1,0 +1,243 @@
+{
+ "key": "iccj-scaf-4649-2025",
+ "label": "Decizia ÎCCJ nr. 4649/2025 (SCAF)",
+ "court": "iccj",
+ "kind": "alta",
+ "panel": "scaf",
+ "number": "4649",
+ "date": "2025-10-15",
+ "year": "2025",
+ "heading": "DECIZIA nr. 4.649 din 15 octombrie 2025",
+ "subtitle": "referitoare la anularea art. I pct. 39 din Hotărârea nr. 1/08.04.2023 privind modificarea și completarea Regulamentului de organizare și funcționare internă a Colegiului Psihologilor din România, aprobat prin Hotărârea Convenției naționale a Colegiului Psihologilor din România nr. 4/2018",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - SECȚIA DE CONTENCIOS ADMINISTRATIV ȘI FISCAL",
+ "mo": {
+  "number": "186",
+  "bis": false,
+  "date": "2026-03-11",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": true,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "6.757/2/2023"
+ ],
+ "subjects": [],
+ "operative": [
+  "Admite recursul declarat de recurentul-reclamant C.C.E. împotriva Sentinței civile nr. 1.178 din data de 25 iunie 2024, pronunțată de Curtea de Apel B. - Secția a VIII-a contencios administrativ și fiscal.",
+  "Casează sentința recurată și, rejudecând:",
+  "Admite cererea formulată de reclamantul C.C.E., în contradictoriu cu pârâtul C.P.R.",
+  "Anulează, în parte, art. I pct. 39 din Hotărârea nr. 1/08.04.2023 privind modificarea și completarea Regulamentului de organizare și funcționare internă a Colegiului Psihologilor din România, aprobat prin Hotărârea Convenției naționale a Colegiului Psihologilor din România nr. 4/2018, în sensul anulării din conținutul art. 42 alin. (3) din Regulamentul de organizare și funcționare internă al Colegiului Psihologilor din România a mențiunilor „refuzul de a duce la îndeplinire hotărârile forurilor de conducere și refuzul îndeplinirii atribuțiilor legale“.",
+  "Respinge cererea formulată de intimatul-pârât C.P.R. privind acordarea cheltuielilor de judecată, în recurs, ca neîntemeiată.",
+  "Definitivă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 213/2004",
+    "number": "213",
+    "year": "2004",
+    "path": "lege/2004/213"
+   },
+   "articles": [
+    {
+     "art": "32",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "27",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "31",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "33",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "36",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "37",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "38",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "39",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "30",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "42",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 42
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 20
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "394",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "488",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "483",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "204",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "494",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "451",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "58",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea contenciosului administrativ nr. 554/2004",
+    "number": "554",
+    "year": "2004",
+    "path": "lege/2004/554"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2026-03-11",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/308152",
+  "text_sha256": "ddae9efce103b672b02dd58c6a26cfac9eac5bbc0af1a124293751c178e80ccd",
+  "catalogue_sha256": "ddae9efce103b672b02dd58c6a26cfac9eac5bbc0af1a124293751c178e80ccd",
+  "fetched": "2026-11-03T00:50:14Z",
+  "chars": 50349,
+  "portal_id": "308152",
+  "tip": "DECIZIE"
+ }
+}
