@@ -20,6 +20,7 @@ Initiator: Guvernul României.
 - 2026-02-16: adopted by the Senate; documents published: Forma adoptată de Senat
 - 2026-02-23: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2026-02-25: sent for promulgation
+- 2026-03-11: promulgated, becomes Legea nr. 28/2026; published in the Monitorul Oficial; documents published: Document (day not given by the bill file), Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -36,3 +37,8 @@ Initiator: Guvernul României.
 - 2026-02-16: Forma adoptată de Senat (FS): [fs-0ea4c7e2.md](fs-0ea4c7e2.md); official file https://www.senat.ro/legis/PDF/2025/25L551FS.PDF
 - 2026-02-23: Adresă privind sesizarea CCR (AXS): [axs-8189483c.md](axs-8189483c.md); official file https://www.senat.ro/legis/PDF/2025/25L551AXS.PDF
 - 2026-02-23: Forma trimisă la promulgare (LP): [lp-eb76e954.md](lp-eb76e954.md); official file https://www.senat.ro/legis/PDF/2025/25L551LP.PDF
+- 2026-03-11: Document (TX): [tx-ce5b4d29.md](tx-ce5b4d29.md); official file https://www.senat.ro/legis/PDF/2025/25L551TX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-03-11: Document (AL): [al-98e8f877.md](al-98e8f877.md); official file https://www.senat.ro/legis/PDF/2025/25L551AL.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-03-11: Decret de promulgare (DP): [dp-e2199d09.md](dp-e2199d09.md); official file https://www.senat.ro/legis/PDF/2025/25L551DP.PDF
+- 2026-03-11: Forma promulgată (FP): [fp-169b3b0f.md](fp-169b3b0f.md); official file https://www.senat.ro/legis/PDF/2025/25L551FP.PDF
+- 2026-03-11: Document (TC): not held as text; official file https://www.senat.ro/legis/PDF/2025/25L551TC.PDF (its day is not given by the bill file: shown from the last stage held)
