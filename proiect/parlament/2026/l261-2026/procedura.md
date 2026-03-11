@@ -1,0 +1,17 @@
+# Propunere legislativă L261/2026
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Propunere legislativă pentru modificarea art.155 din Legea nr.286/2009 privind Codul Penal
+
+Initiator: Membri ai Parlamentului.
+
+## Stages published so far
+
+- 2026-03-11: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
+
+## Documents
+
+- 2026-03-11: Adresă de înaintare a inițiativei (AD): [ad-9cb4970b.md](ad-9cb4970b.md); official file https://www.senat.ro/legis/PDF/2026/26L261AD.PDF
+- 2026-03-11: Forma inițiatorului (FG): [fg-9ff10402.md](fg-9ff10402.md); official file https://www.senat.ro/legis/PDF/2026/26L261FG.PDF
+- 2026-03-11: Expunere de motive (EM): [em-9540d372.md](em-9540d372.md); official file https://www.senat.ro/legis/PDF/2026/26L261EM.PDF
