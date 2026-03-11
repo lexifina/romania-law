@@ -21,6 +21,7 @@ Initiator: Membri ai Parlamentului.
 - 2026-02-16: adopted by the Senate; documents published: Forma adoptată de Senat
 - 2026-02-23: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2026-02-28: sent for promulgation
+- 2026-03-11: promulgated, becomes Legea nr. 29/2026; published in the Monitorul Oficial; documents published: Document (day not given by the bill file), Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -36,3 +37,10 @@ Initiator: Membri ai Parlamentului.
 - 2026-02-16: Forma adoptată de Senat (FS): [fs-178086e6.md](fs-178086e6.md); official file https://www.senat.ro/legis/PDF/2025/25L470FS.PDF
 - 2026-02-23: Adresă privind sesizarea CCR (AXS): [axs-4d21db4d.md](axs-4d21db4d.md); official file https://www.senat.ro/legis/PDF/2025/25L470AXS.PDF
 - 2026-02-23: Forma trimisă la promulgare (LP): [lp-22143d89.md](lp-22143d89.md); official file https://www.senat.ro/legis/PDF/2025/25L470LP.PDF
+- 2026-03-11: Document (CNA): [cna-074da7ad.md](cna-074da7ad.md); official file https://www.senat.ro/legis/PDF/2025/25L470CNA.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-03-11: Document (AJ): not held as text; official file https://www.senat.ro/legis/PDF/2025/25L470AJ.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-03-11: Document (SE1): [se1-ba370917.md](se1-ba370917.md); official file https://www.senat.ro/legis/PDF/2025/25L470SE1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-03-11: Document (AG1): [ag1-1e018754.md](ag1-1e018754.md); official file https://www.senat.ro/legis/PDF/2025/25L470AG1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-03-11: Document (AL): [al-7181fb35.md](al-7181fb35.md); official file https://www.senat.ro/legis/PDF/2025/25L470AL.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-03-11: Decret de promulgare (DP): [dp-7a31d71a.md](dp-7a31d71a.md); official file https://www.senat.ro/legis/PDF/2025/25L470DP.PDF
+- 2026-03-11: Forma promulgată (FP): [fp-98676bfd.md](fp-98676bfd.md); official file https://www.senat.ro/legis/PDF/2025/25L470FP.PDF
