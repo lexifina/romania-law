@@ -17,6 +17,7 @@ Initiator: Guvernul României.
 - 2026-02-18: adopted by the Chamber of Deputies
 - 2026-02-23: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2026-02-28: sent for promulgation
+- 2026-03-11: promulgated, becomes Legea nr. 31/2026; published in the Monitorul Oficial; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -31,3 +32,5 @@ Initiator: Guvernul României.
 - 2024-02-27: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L004AM.PDF
 - 2026-02-23: Adresă privind sesizarea CCR (AXS): [axs-5e6dea09.md](axs-5e6dea09.md); official file https://www.senat.ro/legis/PDF/2024/24L004AXS.PDF
 - 2026-02-23: Forma trimisă la promulgare (LP): [lp-2e725672.md](lp-2e725672.md); official file https://www.senat.ro/legis/PDF/2024/24L004LP.PDF
+- 2026-03-11: Decret de promulgare (DP): [dp-887a506c.md](dp-887a506c.md); official file https://www.senat.ro/legis/PDF/2024/24L004DP.PDF
+- 2026-03-11: Forma promulgată (FP): [fp-34e4d3ce.md](fp-34e4d3ce.md); official file https://www.senat.ro/legis/PDF/2024/24L004FP.PDF
