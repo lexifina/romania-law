@@ -1,0 +1,202 @@
+{
+ "key": "iccj-hp-24-2026",
+ "label": "Decizia ÎCCJ nr. 24/2026 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "24",
+ "date": "2026-01-26",
+ "year": "2026",
+ "heading": "DECIZIA nr. 24 din 26 ianuarie 2026",
+ "subtitle": "referitoare la interpretarea dispozițiilor art. 663 alin. (4) din Codul de procedură civilă raportate la prevederile art. 781 alin. (4) și art. 784 alin. (2) din Codul de procedură civilă corelate cu dispozițiile art. 2 alin. (1) -(3) și alin. (6) lit. a) din Legea nr. 272/2004 privind protecția și promovarea drepturilor copilului, republicată, cu modificările și completările ulterioare",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "195",
+  "bis": false,
+  "date": "2026-03-13",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "677/1/2025",
+  "8.082/320/2024",
+  "14.340/320/2023",
+  "15.133/320/2023"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "663",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "781",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "784",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 272/2004",
+    "number": "272",
+    "year": "2004",
+    "path": "lege/2004/272"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1",
+      "6"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de către Tribunalul Mureș - Secția civilă în Dosarul nr. 8.082/320/2024, în vederea pronunțării unei hotărâri prealabile cu privire la următoarea chestiune de drept:",
+  "Dacă dispozițiile art. 663 alin. (4) din Codul de procedură civilă raportate la prevederile art. 781 alin. (4) și art. 784 alin. (2) din Codul de procedură civilă corelate cu dispozițiile art. 2 alin. (1) -(3) și alin. (6) lit. a) din Legea nr. 272/2004 privind protecția și promovarea drepturilor copilului, republicată, cu modificările și completările ulterioare, se interpretează în sensul că, în cazul încuviințării executării silite a unei hotărâri judecătorești prin care debitorul a fost obligat la plata pensiei de întreținere în favoarea minorului până la împlinirea vârstei de 18 ani, încuviințarea executării silite se poate dispune strict în raport cu pensia de întreținere scadentă la momentul depunerii cererii de executare silită sau inclusiv în privința sumelor viitoare datorate cu titlu de pensie de întreținere și nescadente la momentul depunerii cererii de executare silită?",
+  "Obligatorie, potrivit art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "663",
+     "alin": [
+      "4",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "781",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "784",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "34",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "790",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "666",
+     "alin": [
+      "5",
+      "7"
+     ],
+     "lit": null
+    },
+    {
+     "art": "787",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "634",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 22
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 272/2004",
+    "number": "272",
+    "year": "2004",
+    "path": "lege/2004/272"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1",
+      "6"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 8
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2026-03-13",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/308216",
+  "text_sha256": "5281babd5ceb064ce8bf003274e3d0670787784d2ef3461146f5ff19125fa7f7",
+  "catalogue_sha256": "5281babd5ceb064ce8bf003274e3d0670787784d2ef3461146f5ff19125fa7f7",
+  "fetched": "2026-11-03T18:39:10Z",
+  "chars": 36626,
+  "portal_id": "308216",
+  "tip": "DECIZIE"
+ }
+}
