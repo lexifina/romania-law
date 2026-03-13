@@ -1,0 +1,472 @@
+{
+ "key": "dcc-11-2025",
+ "label": "Decizia CCR nr. 11/2025",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "11",
+ "date": "2025-01-28",
+ "year": "2025",
+ "heading": "DECIZIA nr. 11 din 28 ianuarie 2025",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 1 alin. (3), ale art. 9, ale art. 25 și ale art. 38 alin. (6) și (6^1) din Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, ale anexei nr. V la Legea-cadru nr. 153/2017, a Legii-cadru nr. 153/2017, în ansamblul său, precum și a dispozițiilor art. 34 alin. (2) din Ordonanța de urgență a Guvernului nr. 114/2018 privind instituirea unor măsuri în domeniul investițiilor publice și a unor măsuri fiscal-bugetare, modificarea și completarea unor acte normative și prorogarea unor termene și a Ordonanței de urgență a Guvernului nr. 114/2018, în ansamblul său",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "197",
+  "bis": false,
+  "date": "2026-03-13",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata",
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "6.547/3/2021",
+  "2.400D/2021",
+  "166/40/2022",
+  "261/102/2022/a1",
+  "260/102/2022/a1",
+  "170/89/2022",
+  "2.118/2/2022",
+  "1.503/120/2022",
+  "422/42/2022",
+  "2.780/111/2021"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "9",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "38",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 114/2018",
+    "number": "114",
+    "year": "2018",
+    "path": "oug/2018/114"
+   },
+   "articles": [
+    {
+     "art": "34",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "operative": [
+  "1. Respinge, ca inadmisibilă, excepția de neconstituționalitate a dispozițiilor art. 1 alin. (3), ale art. 9, ale art. 25 și ale art. 38 alin. (6) și (6^1) din Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, ale anexei nr. V la Legea-cadru nr. 153/2017, precum și ale art. 34 alin. (2) din Ordonanța de urgență a Guvernului nr. 114/2018 privind instituirea unor măsuri în domeniul investițiilor publice și a unor măsuri fiscal bugetare, modificarea și completarea unor acte normative și prorogarea unor termene, excepție ridicată de Eugenia Marin și de Gabriela Victoria Bîrsan în Dosarul nr. 6.547/3/2021 al Tribunalului Ilfov - Secția civilă, de Olariu Valentina Lăcrămioara și alții în Dosarul nr. 166/40/2022 al Tribunalului Botoșani - Secția I civilă, de Pop Anamaria Iosefina în Dosarul nr. 261/102/2022/a1 al Tribunalului Mureș - Secția civilă, de Făgăraș Claudia Maria în Dosarul nr. 260/102/2022/a1 al Tribunalului Mureș - Secția civilă, de Istrate Ioana-Silvia și alții în Dosarul nr. 170/89/2022 al Tribunalului Vaslui - Secția civilă, de Dima Florin și alții în Dosarul nr. 2.118/2/2022 al Curții de Apel București - Secția a IX-a contencios administrativ și fiscal, de Giorgescu Ovidiu în Dosarul nr. 1.503/120/2022 al Tribunalului Dâmbovița - Secția I civilă, de Afrăsinie Mădălina și alții în Dosarul nr. 422/42/2022 al Curții de Apel Ploiești - Secția de contencios administrativ și fiscal, de Tebieș Maria în Dosarul nr. 2.780/111/2021 al Curții de Apel Oradea - Secția I civilă, de Mustață Gabriel în Dosarul nr. 165/116/2020* al Curții de Apel București - Secția a VII-a pentru cauze privind conflicte de muncă și asigurări sociale, de Drăgan Ioan și alții în Dosarul nr. 3.242/2/2022 al Curții de Apel București - Secția a IX-a contencios administrativ și fiscal, de Iordache Danița și alții în Dosarul nr. 754/2/2022 al Curții de Apel București - Secția a VIII-a contencios administrativ și fiscal, de Amihaesei Andreea Ionela și alții în Dosarul nr. 686/103/2022 al Tribunalului Neamț - Secția I civilă și de contencios administrativ și fiscal, de Afanasov Valentina și alții în Dosarul nr. 2.675/3/2022 al Tribunalului București - Secția a VIII-a conflicte de muncă și asigurări sociale, de Artenie Dan și alții în Dosarul nr. 781/121/2020 al Curții de Apel Galați - Secția conflicte de muncă și asigurări sociale, de Iosef Radu în Dosarul nr. 2.794/2/2022 al Curții de Apel București - Secția a VIII-a contencios administrativ și fiscal, de Popovici Ion-Adrian și alții în Dosarul nr. 915/107/2022 al Tribunalului Alba - Secția I civilă, de Tuduce Ioan Răzvan și alții în Dosarul nr. 3.608/111/2021 al Curții de Apel Oradea - Secția I civilă, de Bejenaru Iolanda Lăcrămioara și alții în Dosarul nr. 7.000/120/2020 al Tribunalului Dâmbovița - Secția I civilă, de Albu Maria Mihaela și alții în Dosarul nr. 1.160/85/2021 al Tribunalului Vâlcea - Secția I civilă, conflicte de muncă și asigurări sociale, de Joarză Camelia Janina și alții în Dosarul nr. 1.336/2/2022 al Curții de Apel București - Secția a VIII-a contencios administrativ și fiscal, de Alecu Cristian George și alții în Dosarul nr. 1.364/2/2022 al Curții de Apel București - Secția a IX-a contencios administrativ și fiscal, de Mihai Florentina și alții în Dosarul nr. 926/2/2022 al Curții de Apel București - Secția a IX-a contencios administrativ și fiscal, de Bărbulescu Codruț Marian și alții în Dosarul nr. 5.177/2/2022 al Curții de Apel București - Secția a VIII-a contencios administrativ și fiscal, de Diaconaru Iulia și alții în Dosarul nr. 3.911/86/2020 al Curții de Apel Suceava - Secția I civilă, de Tudor Raimond și Bârlog Constantin în Dosarul nr. 7.251/2/2022 al Curții de Apel București - Secția a VIII-a contencios administrativ și fiscal, de Froicu Diana în Dosarul nr. 1.354/107/2021 al Curții de Apel Alba Iulia - Secția I civilă, de Toma Ileana Gabriela și alții în Dosarul nr. 4.212/2/2022 al Curții de Apel București - Secția a VIII-a contencios administrativ și fiscal, de Axinte Constantin și alții în Dosarul nr. 3.548/2/2022 al Curții de Apel București - Secția a IX-a contencios administrativ și fiscal, de Stîngă Olimpia Maria și alții în Dosarul nr. 2.911/2/2022 al Curții de Apel București - Secția a IX-a contencios administrativ și fiscal, de Rusu Oana și alții în Dosarul nr. 5.203/2/2022 al Curții de Apel București - Secția a IX-a contencios administrativ și fiscal, de Nicolau Marius Ionel și alții în Dosarul nr. 2.953/2/2022 al Curții de Apel București - Secția a IX-a contencios administrativ și fiscal, de Roman Mihai în Dosarul nr. 7.548/2/2022 al Curții de Apel București - Secția a IX-a contencios administrativ și fiscal, de Drăguțescu Mihai Pantelimon în Dosarul nr. 27.894/3/2022 al Tribunalului București - Secția a VIII-a conflicte de muncă și asigurări sociale, de Vâlcea Lucian George și alții în Dosarul nr. 2.075/2/2022 al Curții de Apel București - Secția a VIII-a contencios administrativ și fiscal, de Andrei Adriana și alții în Dosarul nr. 2.148/2/2022 al Curții de Apel București - Secția a VIII-a contencios administrativ și fiscal, de Gociu Marian în Dosarul nr. 2.705/2/2022 al Curții de Apel București - Secția a IX-a contencios administrativ și fiscal, de Aurel Olteanu și alții în Dosarul nr. 2.529/2/2022 al Curții de Apel București - Secția a VIII-a contencios administrativ și fiscal, de Lia Sorin Marian și Dorcu Lavina Prodan Felicia în Dosarul nr. 2.029/2/2023 al Curții de Apel București - Secția a VIII-a contencios administrativ și fiscal, de Dinescu Adrian Gabriel și alții în Dosarul nr. 4.034/2/2022 al Curții de Apel București - Secția a IX-a contencios administrativ și fiscal, de Nicolici Maria Veronica Simona și alții în Dosarul nr. 1.359/2/2022 al Curții de Apel București - Secția a IX-a contencios administrativ și fiscal, de Ghenu Andreea Monica și alții în Dosarul nr. 4.322/105/2021 al Curții de Apel Ploiești - Secția I civilă, de Nicoliță Luiza Daiana și alții în Dosarul nr. 2.715/109/2022 al Tribunalului Argeș - Secția pentru conflicte de muncă și asigurări sociale, de Sindicatul Național Pro Lex în numele și pentru membrul de sindicat Crișcă Mioara Claudia în Dosarul nr. 13.284/3/2022* al Curții de Apel Alba Iulia - Secția I civilă, de Dincă Mihai și alții în Dosarul nr. 576/120/2023* al Tribunalului Dâmbovița - Secția I civilă.",
+  "2. Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de aceiași autori în aceleași dosare ale acelorași instanțe și constată că Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, în ansamblul său, precum și Ordonanța de urgența a Guvernului nr. 114/2018 privind instituirea unor măsuri în domeniul investițiilor publice și a unor măsuri fiscal-bugetare, modificarea și completarea unor acte normative și prorogarea unor termene, în ansamblul său, sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului Ilfov - Secția civilă, Tribunalului Botoșani - Secția I civilă, Tribunalului Mureș - Secția civilă, Tribunalului Vaslui - Secția civilă, Curții de Apel București - Secția a IX-a contencios administrativ și fiscal, Tribunalului Dâmbovița - Secția I civilă, Curții de Apel Ploiești - Secția de contencios administrativ și fiscal, Curții de Apel Oradea - Secția I civilă, Curții de Apel București - Secția a VII-a pentru cauze privind conflicte de muncă și asigurări sociale, Curții de Apel București - Secția a VIII-a contencios administrativ și fiscal, Tribunalului Neamț - Secția I civilă și de contencios administrativ și fiscal, Tribunalului București - Secția a VIII-a conflicte de muncă și asigurări sociale, Curții de Apel Galați - Secția conflicte de muncă și asigurări sociale, Tribunalului Alba - Secția I civilă, Tribunalul Vâlcea - Secția I civilă, conflicte de muncă și asigurări sociale, Curții de Apel Suceava - Secția I civilă, Curții de Apel Alba Iulia - Secția I civilă, Curții de Apel Ploiești - Secția I civilă și Tribunalului Argeș - Secția pentru conflicte de muncă și asigurări sociale și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "9",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "38",
+     "alin": [
+      "6",
+      "6-1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 92
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 114/2018",
+    "number": "114",
+    "year": "2018",
+    "path": "oug/2018/114"
+   },
+   "articles": [
+    {
+     "art": "34",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "134",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 10/2007",
+    "number": "10",
+    "year": "2007",
+    "path": "og/2007/10"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 303/2004",
+    "number": "303",
+    "year": "2004",
+    "path": "lege/2004/303"
+   },
+   "articles": [
+    {
+     "art": "74",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "82",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 567/2004",
+    "number": "567",
+    "year": "2004",
+    "path": "lege/2004/567"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "4",
+      "5",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "124",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "125",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "134",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "133",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 21
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 57/2015",
+    "number": "57",
+    "year": "2015",
+    "path": "oug/2015/57"
+   },
+   "articles": [
+    {
+     "art": "3-1",
+     "alin": [
+      "1-2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 12",
+    "path": null,
+    "slug": "conventia-edo-protocolul-12"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 317/2004",
+    "number": "317",
+    "year": "2004",
+    "path": "lege/2004/317"
+   },
+   "articles": [
+    {
+     "art": "38",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 305/2022",
+    "number": "305",
+    "year": "2022",
+    "path": "lege/2022/305"
+   },
+   "articles": [
+    {
+     "art": "96",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "39",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2026-03-13",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/308240",
+  "text_sha256": "bf824c0aab639eae9e8a8578b10f194a9e137080f900c1ced04bb0e92a2a7837",
+  "catalogue_sha256": "bf824c0aab639eae9e8a8578b10f194a9e137080f900c1ced04bb0e92a2a7837",
+  "fetched": "2026-11-03T00:50:02Z",
+  "chars": 92824,
+  "portal_id": "308240",
+  "tip": "DECIZIE"
+ }
+}
