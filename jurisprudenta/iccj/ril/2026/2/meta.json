@@ -1,0 +1,207 @@
+{
+ "key": "iccj-ril-2-2026",
+ "label": "Decizia ÎCCJ nr. 2/2026 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "2",
+ "date": "2026-02-09",
+ "year": "2026",
+ "heading": "DECIZIA nr. 2 din 9 februarie 2026",
+ "subtitle": "referitoare la interpretarea și aplicarea unitară a dispozițiilor art. 61 din Legea nr. 360/2002 privind Statutul polițistului, cu modificările și completările ulterioare",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU SOLUȚIONAREA RECURSULUI ÎN INTERESUL LEGII",
+ "mo": {
+  "number": "196",
+  "bis": false,
+  "date": "2026-03-13",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "2.242/1/2025"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 360/2002",
+    "number": "360",
+    "year": "2002",
+    "path": "lege/2002/360"
+   },
+   "articles": [
+    {
+     "art": "61",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea contenciosului administrativ nr. 554/2004",
+    "number": "554",
+    "year": "2004",
+    "path": "lege/2004/554"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Admite recursul în interesul legii formulat de Colegiul de conducere al Curții de Apel Galați și, în consecință, stabilește că: În interpretarea și aplicarea unitară a dispozițiilor art. 61 din Legea nr. 360/2002 privind Statutul polițistului, cu modificările și completările ulterioare, decizia motivată a șefului unității ierarhic superioare, prin care se dispun respingerea contestației, ca neîntemeiată sau ca tardiv introdusă, precum și menținerea sancțiunii aplicate, reprezintă un act administrativ, în sensul art. 2 alin. (1) lit. c) din Legea contenciosului administrativ nr. 554/2004, cu modificările și completările ulterioare.",
+  "Obligatorie, conform art. 517 alin. (4) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 360/2002",
+    "number": "360",
+    "year": "2002",
+    "path": "lege/2002/360"
+   },
+   "articles": [
+    {
+     "art": "61",
+     "alin": [
+      "6",
+      "8",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "58-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 28
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea contenciosului administrativ nr. 554/2004",
+    "number": "554",
+    "year": "2004",
+    "path": "lege/2004/554"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 27
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 725/2015",
+    "number": "725",
+    "year": "2015",
+    "path": "hg/2015/725"
+   },
+   "articles": [
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "42",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "43",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "514",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "515",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul administrativ",
+    "path": "oug/2019/57",
+    "slug": "codul-administrativ"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2026-03-13",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/308238",
+  "text_sha256": "b0542a9d13b216060e5974dd2167b047e2396ae728d467fb19bfaa62c1c2ea67",
+  "catalogue_sha256": "b0542a9d13b216060e5974dd2167b047e2396ae728d467fb19bfaa62c1c2ea67",
+  "fetched": "2026-11-03T00:50:02Z",
+  "chars": 37800,
+  "portal_id": "308238",
+  "tip": "DECIZIE"
+ }
+}
