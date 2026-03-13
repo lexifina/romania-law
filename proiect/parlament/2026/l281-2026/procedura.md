@@ -1,0 +1,17 @@
+# Propunere legislativă L281/2026
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Propunere legislativă pentru desființarea Academiei de Științe Tehnice din România și pentru abrogarea Legii nr.230/2008 privind înființarea și funcționarea Academiei de Științe Tehnice din România
+
+Initiator: Membri ai Parlamentului.
+
+## Stages published so far
+
+- 2026-03-13: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
+
+## Documents
+
+- 2026-03-13: Adresă de înaintare a inițiativei (AD): [ad-447c7e15.md](ad-447c7e15.md); official file https://www.senat.ro/legis/PDF/2026/26L281AD.PDF
+- 2026-03-13: Forma inițiatorului (FG): [fg-0c30862a.md](fg-0c30862a.md); official file https://www.senat.ro/legis/PDF/2026/26L281FG.PDF
+- 2026-03-13: Expunere de motive (EM): [em-5bde5571.md](em-5bde5571.md); official file https://www.senat.ro/legis/PDF/2026/26L281EM.PDF
