@@ -1,0 +1,27 @@
+3.QL.@D-
+PARLAMENTUL ROMÂNIEI
+SENAT
+București
+Nr.....ș..Ș.?.±.ț.Î.9.*:.Lsb8
+•  Doamnei senator
+NADIA-COSMINA CEHVA
+Președintele Comisiei pentru constituționalitate
+În  temeiul  prevederilor  art.35.. alin.(1)  lit.e),  a  doua  liniuță  din  Regulamentul
+•  Senatului,   republicat,   vă   transmitem,   alăturat,   următoarele   propuneri   legislative,
+înregistrate la  Biroul permanent al Senatului, în vederea întocmirii avizelor prin care
+urmează  să  stabiliți  competența  de  dezbatere  ca  primă  Cameră  sesizată  a  acestor
+propuneri legislative:
+1.       Propunerelegislativă pentru eliminarea pensîilor speciale ale primarilor,
+viceprimarilor, președinților și vicepreședînților ai .consiliilor județene
+q)5Z6/ZZ.10.2025).
+2.       Propunere   legis]ativă   pentni   modificarea    Ordonanței    Guvemului
+nr.33/Z004  privind  înființarea,  organizarea  și  funcționarea  Agenției
+Române     de     Salvare    a     Viețiî     Omenești     pe    ;Mare     -    ARSVOM
+O.628/26.11.20Z5)
+3.       Propunere    legislativă    pentru    modificarea    și    completarea    Legiî
+nr.198/2023 privind Legea învățământului preuniversitar   (L5 08/20Z5)
+
+Menționăm că, avizele Comisiei pentru constituționalitate vor fi supuse aprobării
+plenului  Șenatului,  în  cazul  în  care  Camera  Deputaților  este  competentă  să  dezbată
+propunerile legis]ative menționate în calitate de primă Cameră sesizată.
+Cu considerație,
