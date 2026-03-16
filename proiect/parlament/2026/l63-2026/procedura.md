@@ -13,6 +13,7 @@ Initiator: Membri ai Parlamentului.
 - 2026-02-19: documents published: Aviz comisie
 - 2026-02-24: documents published: Aviz comisie
 - 2026-02-25: documents published: Aviz comisie, Raport comisie sesizată pe fond
+- 2026-03-16: withdrawn by the initiator; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -25,3 +26,7 @@ Initiator: Membri ai Parlamentului.
 - 2026-02-24: Aviz comisie (CA19): [ca19-4c7b3d8c.md](ca19-4c7b3d8c.md); official file https://www.senat.ro/legis/PDF/2026/26L063CA19.PDF
 - 2026-02-25: Aviz comisie (CA12): [ca12-0fc2a00f.md](ca12-0fc2a00f.md); official file https://www.senat.ro/legis/PDF/2026/26L063CA12.PDF
 - 2026-02-25: Raport comisie sesizată pe fond (CR): [cr-5806a243.md](cr-5806a243.md); official file https://www.senat.ro/legis/PDF/2026/26L063CR.PDF
+- 2026-03-16: Document (ANPC): [anpc-aa92deb0.md](anpc-aa92deb0.md); official file https://www.senat.ro/legis/PDF/2026/26L063ANPC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-03-16: Document (AT): [at-5bf5106f.md](at-5bf5106f.md); official file https://www.senat.ro/legis/PDF/2026/26L063AT.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-03-16: Document (AG1): [ag1-6786439f.md](ag1-6786439f.md); official file https://www.senat.ro/legis/PDF/2026/26L063AG1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-03-16: Document (AR): [ar-34fb5478.md](ar-34fb5478.md); official file https://www.senat.ro/legis/PDF/2026/26L063AR.PDF (its day is not given by the bill file: shown from the last stage held)
