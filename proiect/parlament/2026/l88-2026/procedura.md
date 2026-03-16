@@ -12,6 +12,7 @@ Initiator: Membri ai Parlamentului.
 - 2025-12-30: documents published: Aviz Consiliul Economic și Social, Aviz Consiliul Legislativ, Punct de vedere
 - 2026-02-18: documents published: Aviz comisie
 - 2026-03-04: documents published: Raport comisie sesizată pe fond
+- 2026-03-16: withdrawn by the initiator; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -23,3 +24,6 @@ Initiator: Membri ai Parlamentului.
 - 2025-12-30: Punct de vedere (PV): [pv-b9de2cb8.md](pv-b9de2cb8.md); official file https://www.senat.ro/legis/PDF/2026/26L088PV.PDF
 - 2026-02-18: Aviz comisie (CA53): [ca53-06464df1.md](ca53-06464df1.md); official file https://www.senat.ro/legis/PDF/2026/26L088CA53.PDF
 - 2026-03-04: Raport comisie sesizată pe fond (CR): [cr-5605403c.md](cr-5605403c.md); official file https://www.senat.ro/legis/PDF/2026/26L088CR.PDF
+- 2026-03-16: Document (SM): [sm-4b3b6cab.md](sm-4b3b6cab.md); official file https://www.senat.ro/legis/PDF/2026/26L088SM.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-03-16: Document (AT): [at-2167791e.md](at-2167791e.md); official file https://www.senat.ro/legis/PDF/2026/26L088AT.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-03-16: Document (AR): [ar-039e5450.md](ar-039e5450.md); official file https://www.senat.ro/legis/PDF/2026/26L088AR.PDF (its day is not given by the bill file: shown from the last stage held)
