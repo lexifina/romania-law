@@ -1,0 +1,141 @@
+{
+ "key": "iccj-hp-6-2026",
+ "label": "Decizia ÎCCJ nr. 6/2026 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "6",
+ "date": "2026-01-26",
+ "year": "2026",
+ "heading": "DECIZIA nr. 6 din 26 ianuarie 2026",
+ "subtitle": "referitoare la interpretarea dispozițiilor art. 521 alin. (3) din Codul de procedură civilă",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "200",
+  "bis": false,
+  "date": "2026-03-16",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.339/1/2025",
+  "2.373/1/2025",
+  "800/103/2025",
+  "840/103/2025"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "521",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibile, sesizările conexate formulate de Tribunalul Neamț - Secția I civilă în dosarele nr. 800/103/2025 și nr. 840/103/2025, în vederea pronunțării unei hotărâri prealabile cu privire la următoarele chestiuni de drept: În interpretarea dispozițiilor art. 521 alin. (3) din Codul de procedură civilă, dezlegarea dată problemelor de drept este obligatorie de la data publicării deciziei în Monitorul Oficial al României, Partea I, exclusiv în cadrul procedurilor judiciare aflate pe rolul instanțelor de judecată sau se extinde și în afara procedurilor judiciare, respectiv și asupra raporturilor juridice de muncă existente între angajator și angajat?",
+  "În interpretarea dispozițiilor art. 521 alin. (3) din Codul de procedură civilă, dezlegarea dată problemelor de drept, publicată ulterior rămânerii definitive a unei hotărâri judecătorești prin care unui salariat i-au fost recunoscute și acordate anumite drepturi salariale, are ca efect încetarea (sistarea) acestor drepturi salariale pe viitor, respectiv pentru perioada ulterioară publicării deciziei în Monitorul Oficial al României, Partea I?",
+  "Obligatorie, potrivit art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 62/2024",
+    "number": "62",
+    "year": "2024",
+    "path": "oug/2024/62"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "521",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "431",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 24
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2026-03-16",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/308261",
+  "text_sha256": "a4d1fee55b5ba122a3d166390130a2bd1a336bab0ad76dcf01ae4c90ec5d8b16",
+  "catalogue_sha256": "a4d1fee55b5ba122a3d166390130a2bd1a336bab0ad76dcf01ae4c90ec5d8b16",
+  "fetched": "2026-11-03T00:50:08Z",
+  "chars": 38622,
+  "portal_id": "308261",
+  "tip": "DECIZIE"
+ }
+}
