@@ -12,6 +12,7 @@ Initiator: Guvernul României.
 
 - 2026-03-13: registered at the Chamber of Deputies; registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Aviz Consiliul Legislativ, Document
 - 2026-03-16: documents published: Aviz comisie
+- 2026-03-17: documents published: Aviz comisie
 
 ## Documents
 
@@ -33,3 +34,12 @@ Initiator: Guvernul României.
 - 2026-03-16: Aviz comisie (CA60): [ca60-a641f630.md](ca60-a641f630.md); official file https://www.senat.ro/legis/PDF/2026/26L146CA60.PDF
 - 2026-03-16: Aviz comisie (CA61): [ca61-da742c8b.md](ca61-da742c8b.md); official file https://www.senat.ro/legis/PDF/2026/26L146CA61.PDF
 - 2026-03-16: Aviz comisie (CA8): [ca8-54680268.md](ca8-54680268.md); official file https://www.senat.ro/legis/PDF/2026/26L146CA8.PDF
+- 2026-03-17: Aviz comisie (CA42): [ca42-96a8a679.md](ca42-96a8a679.md); official file https://www.senat.ro/legis/PDF/2026/26L146CA42.PDF
+- 2026-03-17: Aviz comisie (CA43): [ca43-0eeb914c.md](ca43-0eeb914c.md); official file https://www.senat.ro/legis/PDF/2026/26L146CA43.PDF
+- 2026-03-17: Aviz comisie (CA45): [ca45-b03cbe8f.md](ca45-b03cbe8f.md); official file https://www.senat.ro/legis/PDF/2026/26L146CA45.PDF
+- 2026-03-17: Aviz comisie (CA47): [ca47-342457ea.md](ca47-342457ea.md); official file https://www.senat.ro/legis/PDF/2026/26L146CA47.PDF
+- 2026-03-17: Aviz comisie (CA5): [ca5-221703ac.md](ca5-221703ac.md); official file https://www.senat.ro/legis/PDF/2026/26L146CA5.PDF
+- 2026-03-17: Aviz comisie (CA52): [ca52-b01b479f.md](ca52-b01b479f.md); official file https://www.senat.ro/legis/PDF/2026/26L146CA52.PDF
+- 2026-03-17: Aviz comisie (CA57): [ca57-e1c30af9.md](ca57-e1c30af9.md); official file https://www.senat.ro/legis/PDF/2026/26L146CA57.PDF
+- 2026-03-17: Aviz comisie (CA58): [ca58-57cc93d3.md](ca58-57cc93d3.md); official file https://www.senat.ro/legis/PDF/2026/26L146CA58.PDF
+- 2026-03-17: Aviz comisie (CA6): [ca6-35f013be.md](ca6-35f013be.md); official file https://www.senat.ro/legis/PDF/2026/26L146CA6.PDF
