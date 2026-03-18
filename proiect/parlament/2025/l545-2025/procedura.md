@@ -16,6 +16,7 @@ Initiator: Membri ai Parlamentului.
 - 2026-02-11: documents published: Raport comisie sesizată pe fond
 - 2026-02-16: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților
 - 2026-03-09: registered at the Chamber of Deputies
+- 2026-03-18: documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -29,3 +30,5 @@ Initiator: Membri ai Parlamentului.
 - 2026-02-11: Raport comisie sesizată pe fond (CR): [cr-866172e5.md](cr-866172e5.md); official file https://www.senat.ro/legis/PDF/2025/25L545CR.PDF
 - 2026-02-16: Forma adoptată de Senat (FS): [fs-c4d09186.md](fs-c4d09186.md); official file https://www.senat.ro/legis/PDF/2025/25L545FS.PDF
 - 2026-02-16: Adresă către Camera Deputaților (AM): [am-303875d0.md](am-303875d0.md); official file https://www.senat.ro/legis/PDF/2025/25L545AM.PDF
+- 2026-03-18: Document (CNA): [cna-fc2de0ec.md](cna-fc2de0ec.md); official file https://www.senat.ro/legis/PDF/2025/25L545CNA.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-03-18: Document (AG1): not held as text; official file https://www.senat.ro/legis/PDF/2025/25L545AG1.PDF (its day is not given by the bill file: shown from the last stage held)
