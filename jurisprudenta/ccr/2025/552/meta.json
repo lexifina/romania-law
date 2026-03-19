@@ -1,0 +1,242 @@
+{
+ "key": "dcc-552-2025",
+ "label": "Decizia CCR nr. 552/2025",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "552",
+ "date": "2025-11-04",
+ "year": "2025",
+ "heading": "DECIZIA nr. 552 din 4 noiembrie 2025",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 65 alin. (4) din Legea nr. 317/2004 privind Consiliul Superior al Magistraturii, astfel cum au fost modificate prin Legea nr. 234/2018 pentru modificarea și completarea Legii nr. 317/2004 privind Consiliul Superior al Magistraturii",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "214",
+  "bis": false,
+  "date": "2026-03-19",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "83/46/2021",
+  "1.411D/2021",
+  "380/33/2021",
+  "390/39/2021",
+  "793/46/2021",
+  "461/64/2021"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 317/2004",
+    "number": "317",
+    "year": "2004",
+    "path": "lege/2004/317"
+   },
+   "articles": [
+    {
+     "art": "65",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Bogdan Codreanu, de Alina Mihaela Gioroceanu, de Danileț Cristi, de Alexandru Cristian Balașanu și Ioan Fundătureanu și de Dragoș-Alin Călin în dosarele nr. 83/46/2021 și nr. 461/64/2021* ale Curții de Apel Brașov - Secția contencios administrativ și fiscal, în Dosarul nr. 380/33/2021 al Curții de Apel Cluj - Secția a III-a contencios administrativ și fiscal, în Dosarul nr. 390/39/2021 al Curții de Apel Suceava - Secția de contencios administrativ și fiscal și în Dosarul nr. 793/46/2021 al Curții de Apel Pitești - Secția a II-a civilă, de contencios administrativ și fiscal și constată că dispozițiile art. 65 alin. (4) din Legea nr. 317/2004 privind Consiliul Superior al Magistraturii, astfel cum au fost modificate prin Legea nr. 234/2018 pentru modificarea și completarea Legii nr. 317/2004 privind Consiliul Superior al Magistraturii, sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Curții de Apel Brașov - Secția contencios administrativ și fiscal, Curții de Apel Cluj - Secția a III-a contencios administrativ și fiscal, Curții de Apel Suceava - Secția de contencios administrativ și fiscal și Curții de Apel Pitești - Secția a II-a civilă, de contencios administrativ și fiscal și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 317/2004",
+    "number": "317",
+    "year": "2004",
+    "path": "lege/2004/317"
+   },
+   "articles": [
+    {
+     "art": "65",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 16
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "134",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "125",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "73",
+     "alin": [
+      "3",
+      "1"
+     ],
+     "lit": [
+      "l"
+     ]
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 305/2022",
+    "number": "305",
+    "year": "2022",
+    "path": "lege/2022/305"
+   },
+   "articles": [
+    {
+     "art": "66",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "96",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinului inspectorului-șef al Inspecției Judiciare nr. 136/2021",
+    "number": "136",
+    "year": "2021"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 234/2018",
+    "number": "234",
+    "year": "2018",
+    "path": "lege/2018/234"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 303/2004",
+    "number": "303",
+    "year": "2004",
+    "path": "lege/2004/303"
+   },
+   "articles": [],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2026-03-19",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/308324",
+  "text_sha256": "1156209df8f50a726744559025346e484085ee40b10f86a1b484848ac5884649",
+  "catalogue_sha256": "1156209df8f50a726744559025346e484085ee40b10f86a1b484848ac5884649",
+  "fetched": "2026-11-03T00:49:56Z",
+  "chars": 22893,
+  "portal_id": "308324",
+  "tip": "DECIZIE"
+ }
+}
