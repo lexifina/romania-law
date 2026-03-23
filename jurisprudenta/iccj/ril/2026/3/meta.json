@@ -1,0 +1,346 @@
+{
+ "key": "iccj-ril-3-2026",
+ "label": "Decizia ÎCCJ nr. 3/2026 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "3",
+ "date": "2026-02-23",
+ "year": "2026",
+ "heading": "DECIZIA nr. 3 din 23 februarie 2026",
+ "subtitle": "referitoare la interpretarea și aplicarea unitară a dispozițiilor art. 19 alin. (1) și (5) din Codul de procedură penală, coroborate cu cele ale art. 1.381, art. 1.385, art. 1.386, art. 1.523 alin. (2) lit. e) și art. 1.535 alin. (1) din Codul civil și ale art. 1 alin. (3) din Ordonanța Guvernului nr. 13/2011 privind dobânda legală remuneratorie și penalizatoare pentru obligații bănești, precum și pentru reglementarea unor măsuri financiar-fiscale în domeniul bancar",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU SOLUȚIONAREA RECURSULUI ÎN INTERESUL LEGII",
+ "mo": {
+  "number": "223",
+  "bis": false,
+  "date": "2026-03-23",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "2.319/1/2025"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "19",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "1381",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1385",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1386",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1523",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "e"
+     ]
+    },
+    {
+     "art": "1535",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 13/2011",
+    "number": "13",
+    "year": "2011",
+    "path": "og/2011/13"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite recursul în interesul legii formulat de Colegiul de conducere al Curții de Apel București.",
+  "În interpretarea și aplicarea unitară a dispozițiilor art. 19 alin. (1) și (5) din Codul de procedură penală, coroborate cu cele ale art. 1.381, art. 1.385, art. 1.386, art. 1.523 alin. (2) lit. e) și art. 1.535 alin. (1) din Codul civil și ale art. 1 alin. (3) din Ordonanța Guvernului nr. 13/2011 privind dobânda legală remuneratorie și penalizatoare pentru obligații bănești, precum și pentru reglementarea unor măsuri financiar-fiscale în domeniul bancar, stabilește că:",
+  "În cazul acordării unor despăgubiri materiale și/sau morale pentru acoperirea prejudiciului cauzat prin săvârșirea unei fapte ilicite, indiferent dacă este prevăzută sau nu ca infracțiune, data de la care curge dobânda legală penalizatoare aferentă despăgubirilor acordate este data producerii prejudiciului.",
+  "Obligatorie, potrivit dispozițiilor art. 474 alin. (4) din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "1381",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1385",
+     "alin": [
+      "2",
+      "1",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1386",
+     "alin": [
+      "4",
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1391",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1522",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1523",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "e"
+     ]
+    },
+    {
+     "art": "1530",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1531",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1535",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1357",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2528",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1387",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 39
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 13/2011",
+    "number": "13",
+    "year": "2011",
+    "path": "og/2011/13"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "3",
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 132/2017",
+    "number": "132",
+    "year": "2017",
+    "path": "lege/2017/132"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": [
+      "5",
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "192",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "196",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "O.U.G. nr. 54/2016",
+    "number": "54",
+    "year": "2016",
+    "path": "oug/2016/54"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "473",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "471",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "472",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "19",
+     "alin": [
+      "1",
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2026-03-23",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/308374",
+  "text_sha256": "d15d4e195fc0a0bf6b73742882275bcd96d1c13b763c2388e197b09b7eb35c42",
+  "catalogue_sha256": "d15d4e195fc0a0bf6b73742882275bcd96d1c13b763c2388e197b09b7eb35c42",
+  "fetched": "2026-11-06T03:56:49Z",
+  "chars": 66900,
+  "archive": {
+   "source": "wayback",
+   "url": "https://web.archive.org/web/20260620100723/https://legislatie.just.ro/Public/DetaliiDocumentAfis/308374",
+   "page": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/308374",
+   "timestamp": "20260620100723",
+   "sha256": "3d9ac2773b4c770bf767104fc6bf37cf8e922e91ac0d4e7839de1f882c0a451c"
+  },
+  "portal_id": "308374",
+  "tip": "DECIZIE"
+ }
+}
