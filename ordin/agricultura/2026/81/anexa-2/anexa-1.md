@@ -1,0 +1,19 @@
+# Anexa nr. 1 la procedură
+Declarație de opoziție motivată față de cererea de înregistrare a unei indicații geografice pentru băuturi spirtoase
+1.
+Denumirea băuturii spirtoase (astfel cum este menționat în cererea de înregistrare)......................
+2.
+Referința oficială (astfel cum este publicată pe site-ul oficial al Ministerului Agriculturii și Dezvoltării Rurale)................... Numărul de referință, data publicării pe site-ul Ministerului Agriculturii și Dezvoltării Rurale.........................
+3.
+Date de contact ale oponentului: Numele oponentului................................
+Funcția...................................
+Grup/Organizație/Persoană.........................
+Adresă....................., telefon/adresă de e-mail..................
+4.
+Motivul opoziției naționale: (Se bifează motivul relevant.) [] nerespectarea condițiilor menționate la art. 3 pct. 4 din Regulamentul (UE) 2019/787 al Parlamentului European și al Consiliului din 17 aprilie 2019 privind definirea, descrierea, prezentarea și etichetarea băuturilor spirtoase, utilizarea denumirilor băuturilor spirtoase în prezentarea și etichetarea altor produse alimentare, protecția indicațiilor geografice ale băuturilor spirtoase, utilizarea alcoolului etilic și a distilatelor de origine agricolă în băuturile alcoolice și de abrogare a Regulamentului (CE) nr. 110/2008, cu modificările și completările ulterioare; [] nerespectarea condițiilor menționate la art. 22 din Regulamentul (UE) 2019/787; [] înregistrarea denumirii propuse încalcă prevederile art. 24 din Regulamentul (UE) 2024/1.143 al Parlamentului European și al Consiliului din 11 aprilie 2024 privind indicațiile geografice pentru vin, băuturi spirtoase și produse agricole, precum și privind specialitățile tradiționale garantate și mențiunile facultative de calitate pentru produsele agricole, de modificare a Regulamentelor (UE) nr. 1.308/2013, (UE) 2019/787 și (UE) 2019/1.753 și de abrogare a Regulamentului (UE) nr. 1.151/2012; [] înregistrarea denumirii propuse încalcă prevederile art. 25 din Regulamentul (UE) 2024/1.143; [] înregistrarea denumirii propuse încalcă prevederile art. 28 alin. (1) din Regulamentul (UE) 2024/1.143; [] înregistrarea denumirii propuse încalcă prevederile art. 29 din Regulamentul (UE) 2024/1.143; [] înregistrarea denumirii propuse încalcă prevederile art. 30 din Regulamentul (UE) 2024/1.143; [] înregistrarea denumirii propuse încalcă prevederile art. 31 alin. (1)-(3) din Regulamentul (UE) 2024/1.143.
+5.
+Detalii privind opoziția (Declarația trebuie să fie însoțită de motivații și justificări pentru opoziție.) [Furnizați o declarație (semnată și datată) în care să justificați interesul legitim al opoziției.]
+6.
+Lista documentelor justificative................................................. (Furnizați lista documentelor transmise în sprijinul opoziției.)
+7.
+Data și semnătura
