@@ -1,0 +1,194 @@
+{
+ "key": "iccj-hp-7-2026",
+ "label": "Decizia ÎCCJ nr. 7/2026 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "7",
+ "date": "2026-01-26",
+ "year": "2026",
+ "heading": "DECIZIA nr. 7 din 26 ianuarie 2026",
+ "subtitle": "referitoare la art. 1 teza întâi și art. 3 din Legea nr. 125/2014 privind scutirea de la plată a unor debite provenite din pensii, cu modificările ulterioare",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "228",
+  "bis": false,
+  "date": "2026-03-24",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.381/1/2025",
+  "6.336/4/2024"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 125/2014",
+    "number": "125",
+    "year": "2014",
+    "path": "lege/2014/125"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Tribunalul Ilfov - Secția civilă în Dosarul nr. 6.336/4/2024, în vederea pronunțării unei hotărâri prealabile cu privire la următoarea chestiune de drept:",
+  "În interpretarea prevederilor art. 1 teza întâi și art. 3 din Legea nr. 125/2014 privind scutirea de la plată a unor debite provenite din pensii, cu modificările ulterioare, dispozițiile art. 1 din acest act normativ se aplică și în ipoteza beneficiarilor de pensie, în temeiul Legii nr. 223/2015 privind pensiile militare de stat, cu modificările și completările ulterioare?",
+  "Obligatorie, potrivit art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 62/2024",
+    "number": "62",
+    "year": "2024",
+    "path": "oug/2024/62"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 125/2014",
+    "number": "125",
+    "year": "2014",
+    "path": "lege/2014/125"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 360/2023",
+    "number": "360",
+    "year": "2023",
+    "path": "lege/2023/360"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "448",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "723",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 223/2015",
+    "number": "223",
+    "year": "2015",
+    "path": "lege/2015/223"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2026-03-24",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/308409",
+  "text_sha256": "9aa28b813701ed4add107dc4550355a8f005f24a708b5f8fbc44f0d691af3200",
+  "catalogue_sha256": "9aa28b813701ed4add107dc4550355a8f005f24a708b5f8fbc44f0d691af3200",
+  "fetched": "2026-11-03T00:49:51Z",
+  "chars": 27042,
+  "portal_id": "308409",
+  "tip": "DECIZIE"
+ }
+}
