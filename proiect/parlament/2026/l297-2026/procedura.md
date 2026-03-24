@@ -1,0 +1,17 @@
+# Propunere legislativă L297/2026
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Propunere legislativă pentru modificarea și completarea Legii nr.77/2016 privind darea în plată a unor bunuri imobile în vederea stingerii obligațiilor asumate prin credite
+
+Initiator: Membri ai Parlamentului.
+
+## Stages published so far
+
+- 2026-03-24: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
+
+## Documents
+
+- 2026-03-24: Adresă de înaintare a inițiativei (AD): [ad-b1e99a13.md](ad-b1e99a13.md); official file https://www.senat.ro/legis/PDF/2026/26L297AD.PDF
+- 2026-03-24: Forma inițiatorului (FG): [fg-5a858c75.md](fg-5a858c75.md); official file https://www.senat.ro/legis/PDF/2026/26L297FG.PDF
+- 2026-03-24: Expunere de motive (EM): [em-8b2bfb44.md](em-8b2bfb44.md); official file https://www.senat.ro/legis/PDF/2026/26L297EM.PDF
