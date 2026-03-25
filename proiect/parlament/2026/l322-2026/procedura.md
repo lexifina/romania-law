@@ -11,7 +11,8 @@ Initiator: Guvernul României.
 ## Stages published so far
 
 - 2026-03-02: registered at the Chamber of Deputies
+- 2026-03-25: documents published: Raport comisie sesizată pe fond
 
 ## Documents
 
-- none held as text
+- 2026-03-25: Raport comisie sesizată pe fond (CR): [cr-84d2ad91.md](cr-84d2ad91.md); official file https://www.senat.ro/legis/PDF/2026/26L322CR.PDF
