@@ -1,0 +1,222 @@
+{
+ "key": "dcc-283-2025",
+ "label": "Decizia CCR nr. 283/2025",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "283",
+ "date": "2025-05-29",
+ "year": "2025",
+ "heading": "DECIZIA nr. 283 din 29 mai 2025",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 14 alin. (3) coroborat cu art. 39 alin. (5) din Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, în interpretarea dată prin Decizia nr. 51 din 18 septembrie 2023 pronunțată de Înalta Curte de Casație și Justiție - Completul pentru dezlegarea unor chestiuni de drept",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "231",
+  "bis": false,
+  "date": "2026-03-25",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "1.281/112/2023",
+  "3.287D/2024",
+  "4.387/63/2022",
+  "3.079/117/2022",
+  "3.430D/2024",
+  "1.073D/2025"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "39",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Nath Grigore în Dosarul nr. 1.281/112/2023 al Curții de Apel Cluj - Secția a IV-a pentru litigii de muncă și asigurări sociale, de Băloi Florin-Marius în Dosarul nr. 4.387/63/2022 al Tribunalului Dolj - Secția conflicte de muncă și asigurări sociale și de Bălan Grigore-Dinu în Dosarul nr. 3.079/117/2022 al Tribunalului Cluj - Secția mixtă de contencios administrativ și fiscal, de conflicte de muncă și asigurări sociale și constată că prevederile art. 14 alin. (3) coroborat cu art. 39 alin. (5) din Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice în interpretarea dată prin Decizia nr. 51 din 18 septembrie 2023 pronunțată de Înalta Curte de Casație și Justiție - Completul pentru dezlegarea unor chestiuni de drept sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Curții de Apel Cluj - Secția a IV-a pentru litigii de muncă și asigurări sociale, Tribunalului Dolj - Secția conflicte de muncă și asigurări sociale și Tribunalului Cluj - Secția mixtă de contencios administrativ și fiscal, de conflicte de muncă și asigurări sociale și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "39",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 28
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "126",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul ministrului educației, cercetării, tineretului și sportului nr. 5.561/2011",
+    "number": "5561",
+    "year": "2011"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinului ministrului educației nr. 3.993/2021",
+    "number": "3993",
+    "year": "2021"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 1/2011",
+    "number": "1",
+    "year": "2011",
+    "path": "lege/2011/1"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2026-03-25",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/308430",
+  "text_sha256": "e3ec49819c1cf16067d1e0da7dfc6d7a15559515fff95ad954d875a75105e6b9",
+  "catalogue_sha256": "e3ec49819c1cf16067d1e0da7dfc6d7a15559515fff95ad954d875a75105e6b9",
+  "fetched": "2026-11-03T00:49:49Z",
+  "chars": 29102,
+  "portal_id": "308430",
+  "tip": "DECIZIE"
+ }
+}
