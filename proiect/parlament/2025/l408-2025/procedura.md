@@ -19,6 +19,7 @@ Initiator: Membri ai Parlamentului.
 - 2026-03-04: adopted by the Chamber of Deputies
 - 2026-03-09: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2026-03-14: sent for promulgation
+- 2026-03-25: promulgated, becomes Legea nr. 41/2026; published in the Monitorul Oficial; documents published: Document (day not given by the bill file), Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -33,3 +34,6 @@ Initiator: Membri ai Parlamentului.
 - 2025-11-10: Adresă către Camera Deputaților (AM): [am-1cef4691.md](am-1cef4691.md); official file https://www.senat.ro/legis/PDF/2025/25L408AM.PDF
 - 2026-03-09: Adresă privind sesizarea CCR (AXS): [axs-59c2e944.md](axs-59c2e944.md); official file https://www.senat.ro/legis/PDF/2025/25L408AXS.PDF
 - 2026-03-09: Forma trimisă la promulgare (LP): [lp-4afe95fe.md](lp-4afe95fe.md); official file https://www.senat.ro/legis/PDF/2025/25L408LP.PDF
+- 2026-03-25: Document (CC): [cc-112c34de.md](cc-112c34de.md); official file https://www.senat.ro/legis/PDF/2025/25L408CC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-03-25: Decret de promulgare (DP): [dp-822a356b.md](dp-822a356b.md); official file https://www.senat.ro/legis/PDF/2025/25L408DP.PDF
+- 2026-03-25: Forma promulgată (FP): [fp-5dfd72dc.md](fp-5dfd72dc.md); official file https://www.senat.ro/legis/PDF/2025/25L408FP.PDF
