@@ -12,6 +12,7 @@ Initiator: Membri ai Parlamentului.
 - 2025-12-16: documents published: Aviz Consiliul Economic și Social, Aviz Consiliul Legislativ, Punct de vedere
 - 2026-02-11: documents published: Aviz comisie
 - 2026-03-10: documents published: Raport comisie sesizată pe fond
+- 2026-03-25: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților
 
 ## Documents
 
@@ -23,3 +24,5 @@ Initiator: Membri ai Parlamentului.
 - 2025-12-16: Punct de vedere (PV): [pv-7f9a5399.md](pv-7f9a5399.md); official file https://www.senat.ro/legis/PDF/2026/26L025PV.PDF
 - 2026-02-11: Aviz comisie (CA8): [ca8-06605e10.md](ca8-06605e10.md); official file https://www.senat.ro/legis/PDF/2026/26L025CA8.PDF
 - 2026-03-10: Raport comisie sesizată pe fond (CR): [cr-cfad9f00.md](cr-cfad9f00.md); official file https://www.senat.ro/legis/PDF/2026/26L025CR.PDF
+- 2026-03-25: Forma adoptată de Senat (FS): [fs-2acd3da7.md](fs-2acd3da7.md); official file https://www.senat.ro/legis/PDF/2026/26L025FS.PDF
+- 2026-03-25: Adresă către Camera Deputaților (AM): [am-d4a1f86e.md](am-d4a1f86e.md); official file https://www.senat.ro/legis/PDF/2026/26L025AM.PDF
