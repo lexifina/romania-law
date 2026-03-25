@@ -1,0 +1,11 @@
+Sancțiune pentru încălcarea RGPD
+Autoritatea Națională de Supraveghere a Prelucrării Datelor cu Caracter Personal a finalizat, în luna martie 2026, o investigație la operatorul RENAULT COMMERCIAL ROUMANIE S.R.L. și a constatat încălcarea art. 32 alin. (1) lit. b), d) și alin. (2) coroborat cu art. 28 alin. (1) din Regulamentul (UE) 2016/679 .
+Ca atare, operatorul a fost sancționat cu :
+- amendă în cuantum de 637.262,50 lei, echivalentul sumei de 125.000 euro, pentru încălcarea dispozițiilor art. 32 alin. (1) lit. b), d) și alin. (2) coroborat cu art. 28 alin. (1) din Regulamentul (UE) 2016/679.
+Investigația a fost demarată ca urmare a transmiterii de către operatorul RENAULT COMMERCIAL ROUMANIE S.R.L. a unei notificări de încălcare a securității datelor cu caracter personal, potrivit dispozițiilor art. 33 din Regulamentul (UE) 2016/679.
+În cadrul investigației s-a constatat că, în urma unui atac cibernetic asupra unei aplicații a operatorului administrată prin împuternicit, au fost accesate și divulgate în mod neautorizat prin publicarea pe o platformă, o serie de categorii de date cu caracter personal aparținând unui număr foarte mare de persoane vizate.
+Astfel, au fost accesate și divulgate date cu caracter personal precum: nume, prenume, număr de telefon personal, număr de telefon profesional, adresa domiciliu, număr permis de conducere, adresă de e-mail, adresă poștală, cod numeric personal, seria de șasiu, data nașterii, serie și număr carte de identitate, funcția, angajatorul, număr personal de identificare pentru angajați.
+Ca atare, s-a constatat că operatorul nu a implementat măsuri tehnice și organizatorice adecvate în vederea asigurării unui nivel de securitate corespunzător riscului prezentat de prelucrare, incluzând printre altele capacitatea de a asigura confidențialitatea sistemelor și serviciilor de prelucrare, precum și introducerea unui proces pentru testarea, evaluarea și aprecierea periodică ale eficacității măsurilor tehnice și organizatorice pentru a garanta securitatea prelucrării.
+De asemenea, s-a constatat că operatorul nu s-a asigurat că recurge doar la persoane împuternicite care oferă garanții suficiente pentru punerea în aplicare a unor măsuri tehnice și organizatorice adecvate, raportat la prevederile art. 28 alin. (1) din RGPD.
+Direcția juridică și comunicare
+A.N.S.P.D.C.P
