@@ -19,6 +19,7 @@ Initiator: Membri ai Parlamentului.
 - 2026-02-25: adopted by the Chamber of Deputies
 - 2026-03-02: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2026-03-07: sent for promulgation
+- 2026-03-25: promulgated, becomes Legea nr. 37/2026; published in the Monitorul Oficial; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -33,3 +34,5 @@ Initiator: Membri ai Parlamentului.
 - 2025-09-29: Adresă către Camera Deputaților (AM): [am-2d7b5249.md](am-2d7b5249.md); official file https://www.senat.ro/legis/PDF/2025/25L271AM.PDF
 - 2026-03-02: Adresă privind sesizarea CCR (AXS): [axs-8a886d08.md](axs-8a886d08.md); official file https://www.senat.ro/legis/PDF/2025/25L271AXS.PDF
 - 2026-03-02: Forma trimisă la promulgare (LP): [lp-fce5fd34.md](lp-fce5fd34.md); official file https://www.senat.ro/legis/PDF/2025/25L271LP.PDF
+- 2026-03-25: Decret de promulgare (DP): [dp-bbd90db2.md](dp-bbd90db2.md); official file https://www.senat.ro/legis/PDF/2025/25L271DP.PDF
+- 2026-03-25: Forma promulgată (FP): [fp-aeec5883.md](fp-aeec5883.md); official file https://www.senat.ro/legis/PDF/2025/25L271FP.PDF
