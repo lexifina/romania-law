@@ -17,6 +17,7 @@ Initiator: Guvernul României.
 - 2026-02-25: adopted by the Senate; documents published: Forma adoptată de Senat
 - 2026-03-02: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2026-03-07: sent for promulgation
+- 2026-03-25: promulgated, becomes Legea nr. 39/2026; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -30,3 +31,5 @@ Initiator: Guvernul României.
 - 2026-02-25: Forma adoptată de Senat (FS): [fs-bc013456.md](fs-bc013456.md); official file https://www.senat.ro/legis/PDF/2026/26L114FS.PDF
 - 2026-03-02: Adresă privind sesizarea CCR (AXS): [axs-abb0ffad.md](axs-abb0ffad.md); official file https://www.senat.ro/legis/PDF/2026/26L114AXS.PDF
 - 2026-03-02: Forma trimisă la promulgare (LP): [lp-82796ff5.md](lp-82796ff5.md); official file https://www.senat.ro/legis/PDF/2026/26L114LP.PDF
+- 2026-03-25: Decret de promulgare (DP): [dp-4693c157.md](dp-4693c157.md); official file https://www.senat.ro/legis/PDF/2026/26L114DP.PDF
+- 2026-03-25: Forma promulgată (FP): [fp-5d73650e.md](fp-5d73650e.md); official file https://www.senat.ro/legis/PDF/2026/26L114FP.PDF
