@@ -1,0 +1,42 @@
+{
+ "key": "cjue-c-117-25-concluzii-2026-03-26",
+ "label": "CJUE, Concluziile avocatului general A. Biondi prezentate la 26 martie 2026, Cauza C-117/25.",
+ "court": "cjue",
+ "court_name": "Curtea de Justiție a Uniunii Europene",
+ "kind": "concluzii",
+ "act_type": "OPIN_AG",
+ "date": "2026-03-26",
+ "year": "2026",
+ "case": "Cauza C-117/25.",
+ "celex": "62025CC0117",
+ "ecli": "ECLI:EU:C:2026:269",
+ "heading": "Concluziile avocatului general A. Biondi prezentate la 26 martie 2026",
+ "formation": null,
+ "procedure": "REFER_PREL",
+ "romania_role": [
+  "originates"
+ ],
+ "referred_by": null,
+ "referral_text": "Cerere de decizie preliminară formulată de Înalta Curte de Casaţie şi Justiţie.",
+ "national_followup": null,
+ "parties": null,
+ "parties_withheld": true,
+ "keywords": "Trimitere preliminară – Ajutoare de stat – Regulamentul (UE) 2017/352 – Serviciu obligatoriu de pilotaj portuar al navelor – Reglementare națională care acordă unor entități publice dreptul exclusiv de a furniza acest serviciu – Noțiunea de „ajutor” – Activitate economică – Prerogativă de putere publică – Siguranță maritimă.",
+ "interprets": [],
+ "text": null,
+ "text_withheld": "personal_data",
+ "withheld_reason": "The full text names the parties' lawyers (and, in older cases, private parties); only the metadata and the operative part are published here, with the official link.",
+ "operative_missing": null,
+ "eurlex_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62025CC0117",
+ "curia_url": "https://curia.europa.eu/juris/liste.jsf?num=C-117/25&language=ro",
+ "source": {
+  "name": "CELLAR, Publications Office of the European Union",
+  "url": "http://publications.europa.eu/resource/cellar/26dd4ac3-2908-11f1-a7dd-01aa75ed71a1.0005.05/DOC_1",
+  "format": "xhtml",
+  "sha256": [
+   "e2b4215eab3b6f5562770f65b84c54450072c876fa9736aa90bec1df525f8f1f"
+  ]
+ },
+ "legal_basis": "Jurisprudența Curții de Justiție a Uniunii Europene (texte oficiale; reutilizare permisă cu menționarea sursei: Decizia Comisiei 2011/833/UE și condițiile CURIA; © Uniunea Europeană). Textele oficiale nu sunt protejate de dreptul de autor în România (Legea nr. 8/1996, art. 9 lit. b).",
+ "attribution": "© European Union, https://eur-lex.europa.eu (via the Publications Office CELLAR)"
+}
