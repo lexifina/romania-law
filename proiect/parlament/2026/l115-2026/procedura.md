@@ -17,6 +17,7 @@ Initiator: Guvernul României.
 - 2026-03-09: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2026-03-14: sent for promulgation
 - 2026-03-25: promulgated, becomes Legea nr. 40/2026; documents published: Decret de promulgare, Forma promulgată
+- 2026-03-26: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -31,3 +32,6 @@ Initiator: Guvernul României.
 - 2026-03-09: Forma trimisă la promulgare (LP): [lp-5274a9db.md](lp-5274a9db.md); official file https://www.senat.ro/legis/PDF/2026/26L115LP.PDF
 - 2026-03-25: Decret de promulgare (DP): [dp-50d19120.md](dp-50d19120.md); official file https://www.senat.ro/legis/PDF/2026/26L115DP.PDF
 - 2026-03-25: Forma promulgată (FP): [fp-73df779f.md](fp-73df779f.md); official file https://www.senat.ro/legis/PDF/2026/26L115FP.PDF
+- 2026-03-26: Document (TX): [tx-ee2042bd.md](tx-ee2042bd.md); official file https://www.senat.ro/legis/PDF/2026/26L115TX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-03-26: Document (AL): [al-f952f757.md](al-f952f757.md); official file https://www.senat.ro/legis/PDF/2026/26L115AL.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-03-26: Document (TC): [tc-4da88af0.md](tc-4da88af0.md); official file https://www.senat.ro/legis/PDF/2026/26L115TC.PDF (its day is not given by the bill file: shown from the last stage held)
