@@ -1,0 +1,20 @@
+# Proiect de lege L195/2026
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Proiect de lege pentru aprobarea Ordonanţei de urgenţã a Guvernului nr.19/2026 privind declararea situaţiei de criză pe piaţa ţiţeiului şi/sau a produselor petroliere, respectiv benzină şi motorină, şi pentru instituirea unor măsuri de protejare a economiei şi populaţiei pe durata situaţiei de criză, precum şi pentru modificarea Ordonanţei de urgenţă a Guvernului nr.12/2026 privind măsurile aplicabile clienţilor casnici din piaţa de gaze naturale în perioada 1 aprilie 2026-31 martie 2027
+
+Initiator: Guvernul României.
+
+## Stages published so far
+
+- 2026-03-26: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+
+## Documents
+
+- 2026-03-26: Adresă de înaintare a inițiativei (AD): [ad-0387bd6d.md](ad-0387bd6d.md); official file https://www.senat.ro/legis/PDF/2026/26L195AD.PDF
+- 2026-03-26: Forma inițiatorului (FG): [fg-6e086c7b.md](fg-6e086c7b.md); official file https://www.senat.ro/legis/PDF/2026/26L195FG.PDF
+- 2026-03-26: Expunere de motive (EM): [em-6e3d4b52.md](em-6e3d4b52.md); official file https://www.senat.ro/legis/PDF/2026/26L195EM.PDF
+- 2026-03-26: Aviz Consiliul Legislativ (LG): [lg-87a45e4d.md](lg-87a45e4d.md); official file https://www.senat.ro/legis/PDF/2026/26L195LG.PDF
+- 2026-03-26: Document (OG): [og-2a124d69.md](og-2a124d69.md); official file https://www.senat.ro/legis/PDF/2026/26L195OG.PDF
+- 2026-03-26: Document (HG): [hg-5af0ba83.md](hg-5af0ba83.md); official file https://www.senat.ro/legis/PDF/2026/26L195HG.PDF
