@@ -17,6 +17,7 @@ Initiator: Guvernul României.
 - 2026-03-20: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2026-03-23: sent for promulgation
 - 2026-03-26: published in the Monitorul Oficial
+- 2026-03-27: promulgated, becomes Legea nr. 43/2026; published in the Monitorul Oficial; documents published: Document (day not given by the bill file), Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -50,3 +51,7 @@ Initiator: Guvernul României.
 - 2026-03-19: Raport comisie sesizată pe fond (CR): [cr-558d77d1.md](cr-558d77d1.md); official file https://www.senat.ro/legis/PDF/2026/26L146CR.PDF
 - 2026-03-20: Adresă privind sesizarea CCR (AXS): [axs-fdfa78ad.md](axs-fdfa78ad.md); official file https://www.senat.ro/legis/PDF/2026/26L146AXS.PDF
 - 2026-03-20: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2026/26L146LP.PDF
+- 2026-03-27: Document (SC1): [sc1-007a3f70.md](sc1-007a3f70.md); official file https://www.senat.ro/legis/PDF/2026/26L146SC1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-03-27: Document (DC1): [dc1-4d4f14fa.md](dc1-4d4f14fa.md); official file https://www.senat.ro/legis/PDF/2026/26L146DC1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-03-27: Decret de promulgare (DP): [dp-90d6d13b.md](dp-90d6d13b.md); official file https://www.senat.ro/legis/PDF/2026/26L146DP.PDF
+- 2026-03-27: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2026/26L146FP.PDF
