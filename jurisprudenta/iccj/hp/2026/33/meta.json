@@ -1,0 +1,257 @@
+{
+ "key": "iccj-hp-33-2026",
+ "label": "Decizia ÎCCJ nr. 33/2026 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "33",
+ "date": "2026-02-23",
+ "year": "2026",
+ "heading": "DECIZIA nr. 33 din 23 februarie 2026",
+ "subtitle": "referitoare la interpretarea coroborată a art. 21 alin. (6) din Legea nr. 360/2002 privind statutul polițistului",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "243",
+  "bis": false,
+  "date": "2026-03-27",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "45/1/2026",
+  "2.083/40/2024"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 360/2002",
+    "number": "360",
+    "year": "2002",
+    "path": "lege/2002/360"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "9",
+     "alin": [
+      "2-1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul ministrului afacerilor interne nr. 140/2016",
+    "number": "140",
+    "year": "2016"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Curtea de Apel Suceava - Secția de contencios administrativ și fiscal în Dosarul nr. 2.083/40/2024, privind pronunțarea unei hotărâri prealabile cu privire la următoarea chestiune de drept:",
+  "Dacă, în interpretarea coroborată a art. 21 alin. (6) din Legea nr. 360/2002 privind statutul polițistului și art. 1 alin. (4) din anexa nr. 6 la Ordinul ministrului afacerilor interne nr. 140/2016 privind activitatea de management resurse umane în unitățile de poliție ale Ministerului Afacerilor Interne, vechimea în specialitatea corespunzătoare studiilor absolvite, raportate la cerințele postului, în vederea acordării gradelor personale la reîncadrare în condițiile art. 9 alin. (2^1) din Legea nr. 360/2002, se recunoaște: (i) numai când fișa postului, atât pentru postul deținut actualmente, cât și pentru postul deținut anterior, prevede expres o „specializare“ sau (ii) se poate recunoaște și atunci când, prin ansamblul verificărilor și documentelor ce caracterizează exercitarea funcției (atribuțiile efective din fișa postului, anunțul de concurs, acte administrative de stabilire a atribuțiilor efective etc.), rezultă în mod obiectiv corespondența dintre studiile absolvite și atribuțiile funcției, chiar dacă fișa postului nu menționează expres o „specializare“?",
+  "Obligatorie potrivit art. 521 alin. (3) Cod procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 62/2024",
+    "number": "62",
+    "year": "2024",
+    "path": "oug/2024/62"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 360/2002",
+    "number": "360",
+    "year": "2002",
+    "path": "lege/2002/360"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "9",
+     "alin": [
+      "2-1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 16
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul ministrului afacerilor interne nr. 140/2016",
+    "number": "140",
+    "year": "2016"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul nr. 140/2016",
+    "number": "140",
+    "year": "2016"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "4"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea contenciosului administrativ nr. 544/2004",
+    "number": "544",
+    "year": "2004",
+    "path": "lege/2004/544"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârii Guvernului nr. 498/2004",
+    "number": "498",
+    "year": "2004",
+    "path": "hg/2004/498"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 611/2008",
+    "number": "611",
+    "year": "2008",
+    "path": "hg/2008/611"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": [
+      "l"
+     ]
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2026-03-27",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/308871",
+  "text_sha256": "32d84015209b7e59189e37a6f756fe0f635a11cd9ea4c0d438f12098461a3339",
+  "catalogue_sha256": "32d84015209b7e59189e37a6f756fe0f635a11cd9ea4c0d438f12098461a3339",
+  "fetched": "2026-11-03T00:49:53Z",
+  "chars": 31841,
+  "portal_id": "308871",
+  "tip": "DECIZIE"
+ }
+}
