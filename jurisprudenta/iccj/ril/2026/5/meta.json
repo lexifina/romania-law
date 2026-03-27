@@ -1,0 +1,337 @@
+{
+ "key": "iccj-ril-5-2026",
+ "label": "Decizia ÎCCJ nr. 5/2026 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "5",
+ "date": "2026-02-23",
+ "year": "2026",
+ "heading": "DECIZIA nr. 5 din 23 februarie 2026",
+ "subtitle": "referitoare la interpretarea și aplicarea unitară a dispozițiilor art. 30 alin. (1) lit. i) și alin. (4^4) din Legea nr. 263/2010 privind sistemul unitar de pensii publice, cu modificările și completările ulterioare",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU SOLUȚIONAREA RECURSULUI ÎN INTERESUL LEGII",
+ "mo": {
+  "number": "242",
+  "bis": false,
+  "date": "2026-03-27",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "2.460/1/2025"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 263/2010",
+    "number": "263",
+    "year": "2010",
+    "path": "lege/2010/263"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1",
+      "4-4"
+     ],
+     "lit": [
+      "i"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite recursul în interesul legii formulat de Colegiul de conducere al Curții de Apel Alba Iulia și, în consecință, stabilește că:",
+  "În interpretarea și aplicarea unitară a dispozițiilor art. 30 alin. (1) lit. i) și alin. (4^4) din Legea nr. 263/2010 privind sistemul unitar de pensii publice, cu modificările și completările ulterioare, este asimilată condițiilor speciale de muncă exclusiv perioada în care un salariat și-a desfășurat activitatea în grupa I și/sau a II-a de muncă.",
+  "Obligatorie, conform art. 517 alin. (4) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 197/2021",
+    "number": "197",
+    "year": "2021",
+    "path": "lege/2021/197"
+   },
+   "articles": [],
+   "mentions": 27
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 263/2010",
+    "number": "263",
+    "year": "2010",
+    "path": "lege/2010/263"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1",
+      "4-4"
+     ],
+     "lit": [
+      "i",
+      "a",
+      "g",
+      "h"
+     ]
+    },
+    {
+     "art": "158",
+     "alin": [
+      "1",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "56-2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "100",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "107",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "56",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 84
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 74/2022",
+    "number": "74",
+    "year": "2022",
+    "path": "lege/2022/74"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 16
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 19/2000",
+    "number": "19",
+    "year": "2000",
+    "path": "lege/2000/19"
+   },
+   "articles": [],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretul nr. 292/1959",
+    "number": "292",
+    "year": "1959",
+    "path": "decret/1959/292"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 27/1966",
+    "number": "27",
+    "year": "1966",
+    "path": "lege/1966/27"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 3/1977",
+    "number": "3",
+    "year": "1977",
+    "path": "lege/1977/3"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 261/2001",
+    "number": "261",
+    "year": "2001",
+    "path": "hg/2001/261"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 59/2000",
+    "number": "59",
+    "year": "2000",
+    "path": "oug/2000/59"
+   },
+   "articles": [
+    {
+     "art": "20",
+     "alin": [
+      "2",
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 234/2019",
+    "number": "234",
+    "year": "2019",
+    "path": "lege/2019/234"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "514",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "515",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 10/2020",
+    "number": "10",
+    "year": "2020",
+    "path": "oug/2020/10"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 108/2020",
+    "number": "108",
+    "year": "2020",
+    "path": "oug/2020/108"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 188/2020",
+    "number": "188",
+    "year": "2020",
+    "path": "lege/2020/188"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 257/2011",
+    "number": "257",
+    "year": "2011",
+    "path": "hg/2011/257"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2026-03-27",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/308869",
+  "text_sha256": "c9938d0ce7164c0f55c630e5122d7c10bc778ed1c73b29bfe1c23e20fd8ddc06",
+  "catalogue_sha256": "c9938d0ce7164c0f55c630e5122d7c10bc778ed1c73b29bfe1c23e20fd8ddc06",
+  "fetched": "2026-11-03T22:46:42Z",
+  "chars": 77790,
+  "portal_id": "308869",
+  "tip": "DECIZIE"
+ }
+}
