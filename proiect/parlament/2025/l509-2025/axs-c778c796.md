@@ -1,0 +1,61 @@
+.
+.
+p.
+I 1..
+.~v„r.
+~
+ ~~
+( , 3 ,
+;
+3
+20.2j,
+~►
+~~-.~
+~..~ ~ ~ '~ ~ ~ A 30 .
+L,2.1?
+ROMANIA
+~1'arCamentuC R,omdniei
+Camera (DeputațiCor
+București,
+30 martie 2026
+Nr.
+PLx.365/2025, PLx.464/2025,
+PLx.315/2024, PLx.42/2026,
+PLx.28/2026
+Domnului,
+MARIO - OVIDIU OPREA
+Secretar general al Senatului
+În conformitate cu prevederile art. 15 alin.(2) din Legea nr.47/1992 privind
+organizarea și funct;ionarea Curtii Constitu~ionale, republicată, vă înaintăm
+alăturat, urmând a proceda în consecin~ă, urrnătoarele legi:
+1. Legea privind aprobarea Ordonan~ei Guvernului nr.11 /2025 pentru
+modificarea și completarea Legii nr.207/2015 privind Codul de procedură fiscală
+(PL-x 365/2025)
+procedură de drept corn un-
+2. Legea privind aprobarea Ordonan~ei de urgent;ă a Guvernului nr.55/2025
+Ll(~ ~71.?, pentru modificarea și completarea Ordonanței de urgență a Guvernului
+nr.115/2011 privind stabilirea cadrului instrtuțional și autorizarea Guvernului,
+prin Ministerul Finanțelor, de a scoate la licitație certificatele de emisii de gaze
+cu efect de seră atribuite României la nivelul Uniunii Europene (PL-x 464/2025)
+procedură de urgență-
+3. Legea privind aprobarea Ordonant;ei de urgen a Guvernului nr.38/2024
+pentru modificarea și completarea Legii nr.111/2022 privind reglementarea
+activită~ii prestatorului casnic (PL-x 315/2024)
+procedură de urgență-
+4. Legea pentru prevenirea și combaterea femicidului și a violențelor care îl
+preced, precum și pentru modificarea și completarea unor acte normative
+(PL-x 42/2026)
+procedură de drept comun-
+5.
+Legea privind aprobarea Ordonan~ei de urgen a Guvernului nr.1/2026
+/
+pentru modificarea și completarea unor acte normative din domeniul educat~iei
+u`~~ r
+(PL-x 28/2026)
+Cu considerație,
+p. SECRETAR GENERAL
+Ioana
+Secretar`ge
+Biroul pentru pregătirea lucrărilor plenului
+Șef birou, Diana-Mădălina Miroiu
+procedură de urgență-
