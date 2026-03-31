@@ -1,0 +1,22 @@
+# Proiect de lege L215/2026
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 105/2026 (`legea-105-2026`).
+
+Proiect de lege privind aprobarea Ordonanţei de urgenţã a Guvernului nr.22/2026 pentru modificarea Ordonanţei de urgenţă a Guvernului nr.67/2023 privind instituirea unei măsuri cu caracter temporar de combatere a creşterii excesive a preţurilor la unele produse agricole şi alimentare
+
+Initiator: Guvernul României.
+
+## Stages published so far
+
+- 2026-03-31: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+
+## Documents
+
+- 2026-03-31: Adresă de înaintare a inițiativei (AD): [ad-f265163b.md](ad-f265163b.md); official file https://www.senat.ro/legis/PDF/2026/26L215AD.PDF
+- 2026-03-31: Forma inițiatorului (FG): [fg-d098fa7b.md](fg-d098fa7b.md); official file https://www.senat.ro/legis/PDF/2026/26L215FG.PDF
+- 2026-03-31: Expunere de motive (EM): [em-f09da71c.md](em-f09da71c.md); official file https://www.senat.ro/legis/PDF/2026/26L215EM.PDF
+- 2026-03-31: Aviz Consiliul Legislativ (LG): [lg-ba0bca35.md](lg-ba0bca35.md); official file https://www.senat.ro/legis/PDF/2026/26L215LG.PDF
+- 2026-03-31: Document (OG): [og-dabff2af.md](og-dabff2af.md); official file https://www.senat.ro/legis/PDF/2026/26L215OG.PDF
+- 2026-03-31: Document (HG): [hg-01765ca4.md](hg-01765ca4.md); official file https://www.senat.ro/legis/PDF/2026/26L215HG.PDF
