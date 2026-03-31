@@ -1,0 +1,193 @@
+{
+ "key": "dcc-250-2025",
+ "label": "Decizia CCR nr. 250/2025",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "250",
+ "date": "2025-05-15",
+ "year": "2025",
+ "heading": "DECIZIA nr. 250 din 15 mai 2025",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 132 alin. (4) din Legea societăților nr. 31/1990",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "251",
+  "bis": false,
+  "date": "2026-03-31",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "959/93/2019",
+  "199D/2020",
+  "1.433D/2022",
+  "5.736/118/2020"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea societăților nr. 31/1990",
+    "number": "31",
+    "year": "1990",
+    "path": "lege/1990/31"
+   },
+   "articles": [
+    {
+     "art": "132",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepția de neconstituționalitate a prevederilor art. 132 alin. (4) din Legea societăților nr. 31/1990, excepție ridicată de Petrașcu Elena, Budeanu Georgeta, Ștefan Bogdan Cosmin și Țiclea Tiberiu în Dosarul nr. 959/93/2019 al Tribunalului Ilfov - Secția civilă și de Catană Claudiu Daniel în Dosarul nr. 5.736/118/2020 al Curții de Apel Constanța - Secția a II-a civilă, de contencios administrativ și fiscal.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului Ilfov - Secția civilă și Curții de Apel Constanța - Secția a II-a civilă, de contencios administrativ și fiscal și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea societăților nr. 31/1990",
+    "number": "31",
+    "year": "1990",
+    "path": "lege/1990/31"
+   },
+   "articles": [
+    {
+     "art": "132",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 109/2011",
+    "number": "109",
+    "year": "2011",
+    "path": "oug/2011/109"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "32",
+     "alin": [
+      "7"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituției",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "126",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2026-03-31",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/308922",
+  "text_sha256": "71fe0fee2c0f14598f3abd7e4965b639adcad22785de0d85c2ba7cbcac298f40",
+  "catalogue_sha256": "71fe0fee2c0f14598f3abd7e4965b639adcad22785de0d85c2ba7cbcac298f40",
+  "fetched": "2026-11-03T00:49:48Z",
+  "chars": 14042,
+  "portal_id": "308922",
+  "tip": "DECIZIE"
+ }
+}
