@@ -1,0 +1,9 @@
+Consiliul local al orașului Tăuții-Măgherăuș întrunit în ședință ordinară la data de 31.03.2026,
+Având în vedere:  referatul de aprobare al primarului orașului Tăuții Măgherăuș, înregistrat la nr. 3219 din
+17.03.2026;  raportul de specialitate al compartimentului juridic înregistrat la nr. 3220 din 17.03.2026;
+Ținând cont de:  necesitatea protejării interesului public local la nivelul Orașului Tăuții Măgherăuș;
+În conformitate cu:  prevederile art. 181 alin. (1) din O.U.G. nr. 77/2009 privind organizarea și exploatarea
+jocurilor de noroc, cu modificările și completarile ulterioare;  Ordonanța de Urgență a Guvernului nr. 7/2026, pentru modificarea și completarea unor acte
+normative, precum și pentru adoptarea unor măsuri pentru creștera capacității financiare a unităților administrativ-teritoriale;  prevederile art. 129 alin. (1) și alin. (2) lit. d), art. 136 alin. (1), art. 139 alin. (1) din O.U.G. nr.57/2019, privind Codul administrativ, cu modificările și completările ulterioare;  prevederile Legii nr.287/2009 privind Codul Civil, republicată;  prevederile Legii nr. 273/2006 privind finanțele publice locale, cu modificările și completările ulterioare ;  prevederile Legii nr.227/2015 privind Codul fiscal, cu modificarile și completarile ulterioare;  prevederile Legii nr.52/2003 privind transparenta decizionala în administratia publică, republicată;  prevederile Legii nr.24/2000 privind normele de tehnică legislativă, cu modificările și completarile ulterioare;  Avizul comisiilor de specialitate ale Consiliului Local al Orașului Tautii-Magheraus;  Avizul de legalitate al Secretarului general al Orașului Tăuții-Măgherăuș;
+În temeiul prevederilor art. 129 și art. 196 alin. (1) lit. a) din OUG nr. 57/2019 privind Codul administrativ, adoptă prezenta:
+H O T Ă R Â R E:
