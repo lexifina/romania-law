@@ -1,0 +1,229 @@
+{
+ "key": "dcc-251-2025",
+ "label": "Decizia CCR nr. 251/2025",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "251",
+ "date": "2025-05-15",
+ "year": "2025",
+ "heading": "DECIZIA nr. 251 din 15 mai 2025",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 123 alin. (3), ale art. 132 alin. (2) și ale art. 177 alin. (1) lit. a) și alin. (2) din Legea societăților nr. 31/1990",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "251",
+  "bis": false,
+  "date": "2026-03-31",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "3.254/95/2019",
+  "1.741D/2020",
+  "3.118/95/2019",
+  "502/95/2020",
+  "1.319/95/2020",
+  "14/95/2021",
+  "379/95/2020",
+  "2.278D/2020",
+  "136/95/2020",
+  "1.380D/2021"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea societăților nr. 31/1990",
+    "number": "31",
+    "year": "1990",
+    "path": "lege/1990/31"
+   },
+   "articles": [
+    {
+     "art": "123",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "132",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "177",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepția de neconstituționalitate a prevederilor art. 123 alin. (3), ale art. 132 alin. (2) și ale art. 177 alin. (1) lit. a) și alin. (2) din Legea societăților nr. 31/1990, excepție ridicată de Societatea Lotus - S.A. din Târgu-Jiu în dosarele nr. 3.254/95/2019, nr. 3.118/95/2019, nr. 502/95/2020, nr. 1.319/95/2020 și nr. 14/95/2021 ale Tribunalului Gorj - Secția a II-a civilă și dosarele nr. 379/95/2020 și nr. 136/95/2020 ale Curții de Apel Craiova - Secția a II-a civilă.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului Gorj - Secția a II-a civilă și Curții de Apel Craiova - Secția a II-a civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea societăților nr. 31/1990",
+    "number": "31",
+    "year": "1990",
+    "path": "lege/1990/31"
+   },
+   "articles": [
+    {
+     "art": "123",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "132",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "177",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2026-03-31",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/308923",
+  "text_sha256": "839c711c96798c5e40e04fe25ab9a0ae349a59037de179cdc56d544669e2376c",
+  "catalogue_sha256": "839c711c96798c5e40e04fe25ab9a0ae349a59037de179cdc56d544669e2376c",
+  "fetched": "2026-11-03T00:49:48Z",
+  "chars": 14309,
+  "portal_id": "308923",
+  "tip": "DECIZIE"
+ }
+}
