@@ -1,0 +1,19 @@
+# Anexa nr. 2
+MINISTERUL FINANȚELOR
+AUTORITATEA VAMALĂ ROMÂNĂ
+Direcția Regională Vamală...........................
+ATESTAT de exportator înregistrat de produse energetice nr............. din data de...........
+În baza prevederilor art. 385^4 din titlul VIII „Accize și alte taxe speciale” din Legea nr. 227/2015 privind Codul fiscal, cu modificările și completările ulterioare, se atestă funcționarea în calitate de exportator înregistrat de produse energetice prevăzute la art. 435 alin. (3) din Legea nr. 227/2015 privind Codul fiscal, cu modificările și completările ulterioare.
+Atestatul de exportator înregistrat este emis pentru societatea............, cu sediul social la adresa:...................
+Cod de identificare fiscală:..............., număr de înregistrare TVA:................., cod de accize:..............
+Acest atestat permite să fie exportate produsele energetice menționate mai jos:
+Nr. crt.
+Denumirea produselor
+Codul produselor
+Codul NC
+Condiții:
+Exportatorul înregistrat este îndreptățit să exporte produsele accizabile menționate în prezentul atestat cu respectarea prevederilor legale în vigoare referitoare la produsele accizabile armonizate, reglementate prin Legea nr. 227/2015 privind Codul fiscal, cu modificările și completările ulterioare, și a Hotărârii Guvernului nr. 1/2016 pentru aprobarea Normelor metodologice de aplicare a Legii nr. 227/2015 privind Codul fiscal, cu modificările și completările ulterioare.
+Director executiv,.............................. (numele și prenumele, semnătura și ștampila)
+Emis la data:..............................
+Valabil de la data:...................... până la data:...............................
+-------
