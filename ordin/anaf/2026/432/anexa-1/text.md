@@ -1,0 +1,2 @@
+# Anexa nr. 1
+CONDIȚII pentru obținerea atestatului de distribuție și comercializare angro de băuturi alcoolice, tutun prelucrat și produse energetice - benzine, motorine, petrol lampant, gaz petrolier lichefiat, păcură și biocombustibili și procedura de înregistrare a operatorilor economici care distribuie sau comercializează angro băuturi alcoolice, tutun prelucrat și produse energetice - benzine, motorine, petrol lampant, gaz petrolier lichefiat, păcură și biocombustibili
