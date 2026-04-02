@@ -1,0 +1,184 @@
+{
+ "key": "dcc-8-2025",
+ "label": "Decizia CCR nr. 8/2025",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "8",
+ "date": "2025-01-28",
+ "year": "2025",
+ "heading": "DECIZIA nr. 8 din 28 ianuarie 2025",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor capitolului I lit. B din anexa nr. V la Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "266",
+  "bis": false,
+  "date": "2026-04-02",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "405/84/2020",
+  "984D/2020",
+  "2.987/90/2020",
+  "208/90/2021",
+  "3.248/90/2020",
+  "3.004/90/2020",
+  "3.402/107/2020",
+  "3.652/107/2020",
+  "4.521/99/2021",
+  "1.839D/2021"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Moiș Corina și alții în Dosarul nr. 405/84/2020 al Tribunalului Sălaj - Secția civilă, de Călușaru Marin în Dosarul nr. 2.987/90/2020 al Tribunalului Vâlcea - Secția I civilă, conflicte de muncă și asigurări sociale, de Cioancă Ștefan Dan și alții în Dosarul nr. 208/90/2021 al Tribunalului Vâlcea - Secția I civilă, conflicte de muncă și asigurări sociale, de Lia Sorin Marian în Dosarul nr. 3.248/90/2020* al Tribunalului Vâlcea - Secția I civilă, de Spiridon IonuțCiprian și alții în Dosarul nr. 3.004/90/2020* al Tribunalului Vâlcea - Secția I civilă, conflicte de muncă și asigurări sociale, de Moșteanu Marian Eugen în Dosarul nr. 3.402/107/2020 al Tribunalului Alba - Secția I civilă, de Braic Florin și alții în Dosarul nr. 3.652/107/2020 al Curții de Apel Alba Iulia - Secția de contencios administrativ și fiscal, de Bosînceanu Constantin Daniel și alții în Dosarul nr. 4.521/99/2021 al Tribunalului Iași - Secția I civilă și constată că dispozițiile capitolului I lit. B din anexa nr. V la Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului Sălaj - Secția civilă, Tribunalului Vâlcea - Secția I civilă, conflicte de muncă și asigurări sociale, Tribunalului Vâlcea - Secția I civilă, Tribunalului Alba - Secția I civilă, Curții de Apel Alba Iulia - Secția de contencios administrativ și fiscal și Tribunalului Iași - Secția I civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 303/2004",
+    "number": "303",
+    "year": "2004",
+    "path": "lege/2004/303"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "42",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituției",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2026-04-02",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/309045",
+  "text_sha256": "7ddfa4439fd7a3a76bd742982e81e479b318b4213bdce3d141e94468c29be957",
+  "catalogue_sha256": "7ddfa4439fd7a3a76bd742982e81e479b318b4213bdce3d141e94468c29be957",
+  "fetched": "2026-11-03T00:49:34Z",
+  "chars": 21224,
+  "portal_id": "309045",
+  "tip": "DECIZIE"
+ }
+}
