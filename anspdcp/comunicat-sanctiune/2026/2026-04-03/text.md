@@ -1,0 +1,9 @@
+Amendă pentru încălcarea RGPD
+Autoritatea Națională de Supraveghere a Prelucrării Datelor cu Caracter Personal a finalizat, în luna martie 2026, o investigație la operatorul BLUE PROJECTS S.R.L. și a constatat încălcarea art. 32 alin. (1) lit. b) și d) și alin. (2) din Regulamentul (UE) 2016/679 .
+Ca atare, operatorul a fost sancționat cu amendă în cuantum de 12.734 lei, echivalentul sumei de 2.500 euro .
+Investigația a fost demarată ca urmare a transmiterii de către operatorul BLUE PROJECTS S.R.L. a unei notificări de încălcare a securității datelor cu caracter personal, potrivit dispozițiilor art. 33 din Regulamentul (UE) 2016/679.
+În cadrul investigației, s-a constatat că în urma unui atac informatic asupra infrastructurii IT a operatorului a fost afectată confidențialitatea și disponibilitatea datelor cu caracter personal conținute de aceasta, ceea ce a condus la accesul în mod neautorizat la datele cu caracter personal a unui număr semnificativ de persoane vizate (angajați, colaboratori și persoane din corespondență), respectiv: nume, prenume, cod numeric personal, adresa de domiciliu, date de contact, email-uri, funcție, curriculum vitae.
+Ca atare, s-a constatat că operatorul nu a implementat măsuri tehnice și organizatorice adecvate în vederea asigurării unui nivel de securitate corespunzător riscului prezentat de prelucrare, incluzând printre altele capacitatea de a asigura confidențialitatea sistemelor și serviciilor de prelucrare, precum și introducerea unui proces pentru testarea, evaluarea și aprecierea periodică ale eficacității măsurilor tehnice și organizatorice pentru a garanta securitatea prelucrării.
+Totodată, în temeiul art. 58 alin. (2) lit. d) din Regulament s-a dispus față de operator măsura corectivăde implementare la nivel tehnic și procedural a unui sistem de monitorizare a fluxurilor de date la nivelul operatorului investigat.
+Direcția juridică și comunicare
+A.N.S.P.D.C.P
