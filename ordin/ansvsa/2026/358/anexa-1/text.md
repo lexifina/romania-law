@@ -1,0 +1,2 @@
+# ANEXĂ
+NORME METODOLOGICE de aplicare a Programului acțiunilor de supraveghere, prevenire, control și eradicare a bolilor la animale, a celor transmisibile de la animale la om, protecția animalelor și protecția mediului, de imobilizare a animalelor care amenință viața sau integritatea corporală a persoanelor prin utilizarea și administrarea substanțelor din categoria stupefiante, psihotrope, de identificare și înregistrare a bovinelor, porcinelor, ovinelor, caprinelor și ecvideelor
