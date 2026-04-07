@@ -20,6 +20,7 @@ Initiator: Membri ai Parlamentului.
 - 2026-03-11: adopted by the Chamber of Deputies
 - 2026-03-19: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2026-03-24: sent for promulgation
+- 2026-04-07: promulgated, becomes Legea nr. 49/2026; published in the Monitorul Oficial; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -35,3 +36,5 @@ Initiator: Membri ai Parlamentului.
 - 2024-12-16: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L623AM.PDF
 - 2026-03-19: Adresă privind sesizarea CCR (AXS): [axs-46ed1243.md](axs-46ed1243.md); official file https://www.senat.ro/legis/PDF/2024/24L623AXS.PDF
 - 2026-03-19: Forma trimisă la promulgare (LP): [lp-ac7b02a2.md](lp-ac7b02a2.md); official file https://www.senat.ro/legis/PDF/2024/24L623LP.PDF
+- 2026-04-07: Decret de promulgare (DP): [dp-131cde80.md](dp-131cde80.md); official file https://www.senat.ro/legis/PDF/2024/24L623DP.PDF
+- 2026-04-07: Forma promulgată (FP): [fp-47f63bc0.md](fp-47f63bc0.md); official file https://www.senat.ro/legis/PDF/2024/24L623FP.PDF
