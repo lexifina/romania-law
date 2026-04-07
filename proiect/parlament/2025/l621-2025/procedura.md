@@ -14,6 +14,7 @@ Initiator: Membri ai Parlamentului.
 - 2026-03-11: registered at the Chamber of Deputies
 - 2026-03-30: legislative procedure ended
 - 2026-03-31: registered at the Senate
+- 2026-04-07: documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -26,3 +27,5 @@ Initiator: Membri ai Parlamentului.
 - 2025-11-17: Punct de vedere Guvern (SJ): [sj-03921d4b.md](sj-03921d4b.md); official file https://www.senat.ro/legis/PDF/2025/25L621SJ.PDF
 - 2026-02-17: Aviz comisie (CA3): [ca3-57499aa5.md](ca3-57499aa5.md); official file https://www.senat.ro/legis/PDF/2025/25L621CA3.PDF
 - 2026-02-17: Aviz comisie (CA41): [ca41-98cc740e.md](ca41-98cc740e.md); official file https://www.senat.ro/legis/PDF/2025/25L621CA41.PDF
+- 2026-04-07: Document (CF): [cf-5ff9aec0.md](cf-5ff9aec0.md); official file https://www.senat.ro/legis/PDF/2025/25L621CF.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-04-07: Document (SE1): [se1-2c963cd8.md](se1-2c963cd8.md); official file https://www.senat.ro/legis/PDF/2025/25L621SE1.PDF (its day is not given by the bill file: shown from the last stage held)
