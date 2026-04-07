@@ -12,6 +12,7 @@ Initiator: Membri ai Parlamentului.
 - 2025-09-16: documents published: Aviz Consiliul Legislativ, Aviz Consiliul Economic și Social
 - 2025-11-19: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților
 - 2025-11-26: registered at the Chamber of Deputies
+- 2026-04-07: documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -22,3 +23,6 @@ Initiator: Membri ai Parlamentului.
 - 2025-09-16: Aviz Consiliul Economic și Social (ES): [es-f1269a51.md](es-f1269a51.md); official file https://www.senat.ro/legis/PDF/2025/25L370ES.PDF
 - 2025-11-19: Forma adoptată de Senat (FS): [fs-066f2bda.md](fs-066f2bda.md); official file https://www.senat.ro/legis/PDF/2025/25L370FS.PDF
 - 2025-11-19: Adresă către Camera Deputaților (AM): [am-be8bb678.md](am-be8bb678.md); official file https://www.senat.ro/legis/PDF/2025/25L370AM.PDF
+- 2026-04-07: Document (CF): [cf-bfc49371.md](cf-bfc49371.md); official file https://www.senat.ro/legis/PDF/2025/25L370CF.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-04-07: Document (AG1): not held as text; official file https://www.senat.ro/legis/PDF/2025/25L370AG1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-04-07: Document (AG2): not held as text; official file https://www.senat.ro/legis/PDF/2025/25L370AG2.PDF (its day is not given by the bill file: shown from the last stage held)
