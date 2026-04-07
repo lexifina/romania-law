@@ -19,6 +19,7 @@ Initiator: Membri ai Parlamentului.
 - 2026-03-11: adopted by the Chamber of Deputies
 - 2026-03-19: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2026-03-24: sent for promulgation
+- 2026-04-07: promulgated, becomes Legea nr. 48/2026; published in the Monitorul Oficial; documents published: Document (day not given by the bill file), Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -33,3 +34,8 @@ Initiator: Membri ai Parlamentului.
 - 2025-12-22: Adresă către Camera Deputaților (AM): [am-79d2aee0.md](am-79d2aee0.md); official file https://www.senat.ro/legis/PDF/2025/25L452AM.PDF
 - 2026-03-19: Adresă privind sesizarea CCR (AXS): [axs-a328cc15.md](axs-a328cc15.md); official file https://www.senat.ro/legis/PDF/2025/25L452AXS.PDF
 - 2026-03-19: Forma trimisă la promulgare (LP): [lp-571bc6b7.md](lp-571bc6b7.md); official file https://www.senat.ro/legis/PDF/2025/25L452LP.PDF
+- 2026-04-07: Document (AG1): not held as text; official file https://www.senat.ro/legis/PDF/2025/25L452AG1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-04-07: Document (AT): [at-066ea4d1.md](at-066ea4d1.md); official file https://www.senat.ro/legis/PDF/2025/25L452AT.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-04-07: Document (S1): [s1-6a5160b9.md](s1-6a5160b9.md); official file https://www.senat.ro/legis/PDF/2025/25L452S1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-04-07: Decret de promulgare (DP): [dp-a3e6c7fc.md](dp-a3e6c7fc.md); official file https://www.senat.ro/legis/PDF/2025/25L452DP.PDF
+- 2026-04-07: Forma promulgată (FP): [fp-61ca4849.md](fp-61ca4849.md); official file https://www.senat.ro/legis/PDF/2025/25L452FP.PDF
