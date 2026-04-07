@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2026-03-11: adopted by the Chamber of Deputies
 - 2026-03-19: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2026-03-21: sent for promulgation
+- 2026-04-07: promulgated, becomes Legea nr. 46/2026; published in the Monitorul Oficial; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -35,3 +36,5 @@ Initiator: Guvernul României.
 - 2025-05-14: Adresă către Camera Deputaților (AM): [am-94bcb5f4.md](am-94bcb5f4.md); official file https://www.senat.ro/legis/PDF/2025/25L104AM.PDF
 - 2026-03-19: Adresă privind sesizarea CCR (AXS): [axs-54e5ddb5.md](axs-54e5ddb5.md); official file https://www.senat.ro/legis/PDF/2025/25L104AXS.PDF
 - 2026-03-19: Forma trimisă la promulgare (LP): [lp-fdb70333.md](lp-fdb70333.md); official file https://www.senat.ro/legis/PDF/2025/25L104LP.PDF
+- 2026-04-07: Decret de promulgare (DP): [dp-aa62d8a9.md](dp-aa62d8a9.md); official file https://www.senat.ro/legis/PDF/2025/25L104DP.PDF
+- 2026-04-07: Forma promulgată (FP): [fp-a6be4b6b.md](fp-a6be4b6b.md); official file https://www.senat.ro/legis/PDF/2025/25L104FP.PDF
