@@ -1,0 +1,8 @@
+# HCL Provița de Jos nr. 11/2026
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here. Its title names a private person or a private property, so it is not shown.
+
+- Council: Consiliul Local al Comunei Provița de Jos
+- Decision: nr. 11/2026
+- Adopted: 2026-04-07
+- Record: https://emol.ro/provitadejos-ph/registru-hcl/262390
