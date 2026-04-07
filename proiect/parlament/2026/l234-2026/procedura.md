@@ -1,0 +1,20 @@
+# Proiect de lege L234/2026
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Proiect de lege privind aprobarea Ordonanţei de urgenţã a Guvernului nr.25/2026 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr.57/2007 privind regimul ariilor naturale protejate, conservarea habitatelor naturale, a florei şi faunei sălbatice
+
+Initiator: Guvernul României.
+
+## Stages published so far
+
+- 2026-04-07: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+
+## Documents
+
+- 2026-04-07: Adresă de înaintare a inițiativei (AD): [ad-b7277398.md](ad-b7277398.md); official file https://www.senat.ro/legis/PDF/2026/26L234AD.PDF
+- 2026-04-07: Forma inițiatorului (FG): [fg-01b5fe3d.md](fg-01b5fe3d.md); official file https://www.senat.ro/legis/PDF/2026/26L234FG.PDF
+- 2026-04-07: Expunere de motive (EM): [em-1134c4e9.md](em-1134c4e9.md); official file https://www.senat.ro/legis/PDF/2026/26L234EM.PDF
+- 2026-04-07: Aviz Consiliul Legislativ (LG): [lg-f505dc2e.md](lg-f505dc2e.md); official file https://www.senat.ro/legis/PDF/2026/26L234LG.PDF
+- 2026-04-07: Document (OG): [og-a5ed8702.md](og-a5ed8702.md); official file https://www.senat.ro/legis/PDF/2026/26L234OG.PDF
+- 2026-04-07: Document (HG): [hg-95940594.md](hg-95940594.md); official file https://www.senat.ro/legis/PDF/2026/26L234HG.PDF
