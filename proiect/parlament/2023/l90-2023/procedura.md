@@ -16,6 +16,7 @@ Initiator: Membri ai Parlamentului.
 - 2023-02-08: adopted by the Chamber of Deputies
 - 2023-02-09: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 - 2026-03-25: documents published: Raport comisie sesizată pe fond
+- 2026-04-07: adopted by the Senate; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -28,3 +29,7 @@ Initiator: Membri ai Parlamentului.
 - 2023-02-09: Forma inițiatorului (FG): [fg-0036dec0.md](fg-0036dec0.md); official file https://www.senat.ro/legis/PDF/2023/23L090FG.PDF
 - 2023-02-09: Expunere de motive (EM): [em-75fb0bff.md](em-75fb0bff.md); official file https://www.senat.ro/legis/PDF/2023/23L090EM.PDF
 - 2026-03-25: Raport comisie sesizată pe fond (CR): [cr-f6aa5333.md](cr-f6aa5333.md); official file https://www.senat.ro/legis/PDF/2023/23L090CR.PDF
+- 2026-04-07: Document (CC): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L090CC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-04-07: Document (SM): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L090SM.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-04-07: Document (AJ): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L090AJ.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-04-07: Document (ARD): [ard-2f1e3d6d.md](ard-2f1e3d6d.md); official file https://www.senat.ro/legis/PDF/2023/23L090ARD.PDF (its day is not given by the bill file: shown from the last stage held)
