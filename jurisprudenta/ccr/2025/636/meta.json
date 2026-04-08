@@ -1,0 +1,235 @@
+{
+ "key": "dcc-636-2025",
+ "label": "Decizia CCR nr. 636/2025",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "636",
+ "date": "2025-11-20",
+ "year": "2025",
+ "heading": "DECIZIA nr. 636 din 20 noiembrie 2025",
+ "subtitle": "referitoare la excepția de neconstituționalitate a sintagmei \"prin încheiere definitivă\" din cuprinsul art. 837 alin. (1) din Codul de procedură civilă",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "285",
+  "bis": false,
+  "date": "2026-04-08",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "10.215/212/2021/a1",
+  "2.854D/2021"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "837",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Dorinel Turcu în Dosarul nr. 10.215/212/2021/a1 al Judecătoriei Constanța - Secția civilă și constată că sintagma „prin încheiere definitivă“ din cuprinsul art. 837 alin. (1) din Codul de procedură civilă este constituțională în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Judecătoriei Constanța - Secția civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "837",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "836",
+     "alin": [
+      "1",
+      "3",
+      "7"
+     ],
+     "lit": null
+    },
+    {
+     "art": "758",
+     "alin": [
+      "6",
+      "7",
+      "8"
+     ],
+     "lit": null
+    },
+    {
+     "art": "330",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "336",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "846",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 24
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "55",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituției",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 188/2000",
+    "number": "188",
+    "year": "2000",
+    "path": "lege/2000/188"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2026-04-08",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/309479",
+  "text_sha256": "a78af2d014fdfad52c4d3cae52cf2df6093bff1ebafdf871eeb6ff080b5bb060",
+  "catalogue_sha256": "a78af2d014fdfad52c4d3cae52cf2df6093bff1ebafdf871eeb6ff080b5bb060",
+  "fetched": "2026-11-03T00:49:24Z",
+  "chars": 19064,
+  "portal_id": "309479",
+  "tip": "DECIZIE"
+ }
+}
