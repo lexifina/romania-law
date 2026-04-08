@@ -1,0 +1,17 @@
+# Propunere legislativă L333/2026
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Propunere legislativă pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr.155/2001 privind aprobarea programului de gestionare a câinilor fără stăpân
+
+Initiator: Membri ai Parlamentului.
+
+## Stages published so far
+
+- 2026-04-08: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
+
+## Documents
+
+- 2026-04-08: Adresă de înaintare a inițiativei (AD): [ad-4f1122ae.md](ad-4f1122ae.md); official file https://www.senat.ro/legis/PDF/2026/26L333AD.PDF
+- 2026-04-08: Forma inițiatorului (FG): [fg-48e12bd7.md](fg-48e12bd7.md); official file https://www.senat.ro/legis/PDF/2026/26L333FG.PDF
+- 2026-04-08: Expunere de motive (EM): [em-68f471cd.md](em-68f471cd.md); official file https://www.senat.ro/legis/PDF/2026/26L333EM.PDF
