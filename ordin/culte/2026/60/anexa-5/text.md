@@ -1,0 +1,4 @@
+# Anexa nr. 5
+TABEL privind datele de identificare și semnăturile de adeziune ale asociaților
+"Noi, membrii asociați, declarăm că ne-am însușit statutul Asociației............(denumirea asociației)............, nu facem parte din alte culte sau asociații religioase și hotărâm să constituim/transformăm Asociația........(denumirea asociației)............. în asociația religioasă......(denumirea asociației).........., conform prevederilor Legii nr. 489/2006 privind libertatea religioasă și regimul general al cultelor, republicată, în scopul expres declarat al exercitării credinței formulate în Mărturisirea de credință...”.............................................................................................
+Nr. crt. Numele și prenumele Adresa CNP (codul numeric personal) Semnătura Data 0 1 2 3 4 5
