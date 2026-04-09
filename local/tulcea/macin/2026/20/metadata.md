@@ -1,0 +1,10 @@
+# HCL Măcin nr. 20/2026
+
+Text not yet included: no document of it is held. It will be added when it is.
+
+- Council: Consiliul Local al Orașului Măcin
+- Decision: nr. 20/2026
+- Adopted: 2026-03-31
+- Published: 2026-04-09
+- Title: privind aprobarea Statului de funcții al Spitalului Orășenesc Măcin pentru anul 2026
+- Record: https://emol.ro/macin-tl/registru-hcl/261163
