@@ -18,6 +18,7 @@ Initiator: Membri ai Parlamentului.
 - 2024-07-01: sent for promulgation
 - 2025-07-01: published in the Monitorul Oficial
 - 2026-02-11: returned for re-examination
+- 2026-04-14: rejected by the Senate
 
 ## Documents
 
