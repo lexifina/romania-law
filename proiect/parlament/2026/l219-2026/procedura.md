@@ -11,9 +11,11 @@ Initiator: Membri ai Parlamentului.
 - 2025-11-26: registered at the Chamber of Deputies
 - 2026-03-30: adopted by the Chamber of Deputies
 - 2026-04-01: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
+- 2026-04-14: documents published: Aviz comisie
 
 ## Documents
 
 - 2026-04-01: Adresă de înaintare a inițiativei (AD): [ad-6b1a2221.md](ad-6b1a2221.md); official file https://www.senat.ro/legis/PDF/2026/26L219AD.PDF
 - 2026-04-01: Forma inițiatorului (FG): [fg-aeb8ac86.md](fg-aeb8ac86.md); official file https://www.senat.ro/legis/PDF/2026/26L219FG.PDF
 - 2026-04-01: Expunere de motive (EM): [em-ce70c53c.md](em-ce70c53c.md); official file https://www.senat.ro/legis/PDF/2026/26L219EM.PDF
+- 2026-04-14: Aviz comisie (CA8): [ca8-a29e7faf.md](ca8-a29e7faf.md); official file https://www.senat.ro/legis/PDF/2026/26L219CA8.PDF
