@@ -11,6 +11,7 @@ Initiator: Membri ai Parlamentului.
 - 2025-12-10: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 - 2025-12-16: documents published: Aviz Consiliul Legislativ, Aviz Consiliul Economic și Social
 - 2026-04-03: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților
+- 2026-04-14: registered at the Chamber of Deputies; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -21,3 +22,8 @@ Initiator: Membri ai Parlamentului.
 - 2025-12-16: Aviz Consiliul Economic și Social (ES): [es-fbb62128.md](es-fbb62128.md); official file https://www.senat.ro/legis/PDF/2026/26L035ES.PDF
 - 2026-04-03: Forma adoptată de Senat (FS): [fs-c5e303da.md](fs-c5e303da.md); official file https://www.senat.ro/legis/PDF/2026/26L035FS.PDF
 - 2026-04-03: Adresă către Camera Deputaților (AM): [am-f8782011.md](am-f8782011.md); official file https://www.senat.ro/legis/PDF/2026/26L035AM.PDF
+- 2026-04-14: Document (CF): [cf-5cf0019a.md](cf-5cf0019a.md); official file https://www.senat.ro/legis/PDF/2026/26L035CF.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-04-14: Document (AG1): not held as text; official file https://www.senat.ro/legis/PDF/2026/26L035AG1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-04-14: Document (AH1): not held as text; official file https://www.senat.ro/legis/PDF/2026/26L035AH1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-04-14: Document (AH2): [ah2-f6fc4c2b.md](ah2-f6fc4c2b.md); official file https://www.senat.ro/legis/PDF/2026/26L035AH2.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-04-14: Document (AH3): [ah3-5ea415e4.md](ah3-5ea415e4.md); official file https://www.senat.ro/legis/PDF/2026/26L035AH3.PDF (its day is not given by the bill file: shown from the last stage held)
