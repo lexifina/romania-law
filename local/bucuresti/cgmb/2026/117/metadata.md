@@ -1,0 +1,12 @@
+# HCGMB nr. 117/2026
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+- Council: Consiliul General al Municipiului București
+- Decision: nr. 117/2026
+- Adopted: 2026-04-02
+- Published: 2026-04-14
+- Title: PENTRU MODIFICAREA HOTARARII CONSILIULUI GENERAL AL MUNICIPIULUI BUCURESTI NR. 138/30.06.2015 PRIVIND DECLANSAREA PROCEDURILOR DE EXPROPRIERE PENTRU IMOBILELE PROPRIETATE PRIVATA SITUATE PE AMPLASAMENTUL LUCRARII DE UTILITATE PUBLICA ”PENETRATIE PRELUNGIREA GHENCEA - DOMNESTI SI SUPRALARGIRE BULEVARDUL GHENCEA INTRE STR. BRASOV SI TERMINAL TRAMVAI 41” IN VEDEREA EFECTUARII LUCRARILOR DE INTERES PUBLIC LOCAL MODIFICA ANEXELE NR. 1 SI NR. 2 DIN HCGMB NR. 138/2015
+- Record: https://acteinterne.pmb.ro/legis/acteinterne/acte_int/47877
+- Document: https://doc.pmb.ro/legis/acteinterne/2026/47877/h117_26.pdf
+- Document sha256: a62f5b314df2b278d44c47224e2f97ec55cc0a05b2d3dea13c16158603a6854a
