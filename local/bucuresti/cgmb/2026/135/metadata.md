@@ -1,0 +1,12 @@
+# HCGMB nr. 135/2026
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+- Council: Consiliul General al Municipiului București
+- Decision: nr. 135/2026
+- Adopted: 2026-04-02
+- Published: 2026-04-14
+- Title: PRIVIND APROBAREA PROIECTULUI CU TITLUL “CONSOLIDARE, AMENAJARE IMOBIL EXISTENT CORP C1 MUZEUL LIGIA SI POMPILIU MACOVEI, REPARATII IMPREJMUIRE TEREN SI DESFIINTARE CORP C3” IN VEDEREA DEPUNERII PENTRU OBTINEREA FINANTARII IN CADRUL PROGRAMULUI REGIONAL BUCURESTI – ILFOV 2021-2027, APEL DE PROIECTE PR BI P7/7.2/1 /2025, A CHELTUIELILOR LEGATE DE ACESTA SI A PARTENERIATULUI INTRE ADMINISTRATIA MUNICIPALA PENTRU CONSOLIDAREA CLADIRILOR CU RISC SEISMIC SI MUZEUL MUNICIPIULUI BUCURESTI
+- Record: https://acteinterne.pmb.ro/legis/acteinterne/acte_int/47895
+- Document: https://doc.pmb.ro/legis/acteinterne/2026/47895/h135_26.pdf
+- Document sha256: 55f567f5d6b2c52a26885c6e42b9983b2dc447c4c685b6a1ab8639df5d641ae8
