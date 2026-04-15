@@ -11,6 +11,7 @@ Initiator: Guvernul României.
 ## Stages published so far
 
 - 2026-03-31: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+- 2026-04-15: documents published: Raport comisie sesizată pe fond
 
 ## Documents
 
@@ -20,3 +21,4 @@ Initiator: Guvernul României.
 - 2026-03-31: Aviz Consiliul Legislativ (LG): [lg-ba0bca35.md](lg-ba0bca35.md); official file https://www.senat.ro/legis/PDF/2026/26L215LG.PDF
 - 2026-03-31: Document (OG): [og-dabff2af.md](og-dabff2af.md); official file https://www.senat.ro/legis/PDF/2026/26L215OG.PDF
 - 2026-03-31: Document (HG): [hg-01765ca4.md](hg-01765ca4.md); official file https://www.senat.ro/legis/PDF/2026/26L215HG.PDF
+- 2026-04-15: Raport comisie sesizată pe fond (CR): [cr-7bf090d6.md](cr-7bf090d6.md); official file https://www.senat.ro/legis/PDF/2026/26L215CR.PDF
