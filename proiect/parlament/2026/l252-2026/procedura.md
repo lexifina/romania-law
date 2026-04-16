@@ -1,0 +1,20 @@
+# Proiect de lege L252/2026
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Proiect de lege privind aprobarea Ordonanţei de urgenţã a Guvernului nr.27/2026 pentru aprobarea unor măsuri în vederea asigurării îndeplinirii misiunilor specifice ce revin Serviciului de Protecţie şi Pază
+
+Initiator: Guvernul României.
+
+## Stages published so far
+
+- 2026-04-16: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+
+## Documents
+
+- 2026-04-16: Adresă de înaintare a inițiativei (AD): [ad-4c99dad8.md](ad-4c99dad8.md); official file https://www.senat.ro/legis/PDF/2026/26L252AD.PDF
+- 2026-04-16: Forma inițiatorului (FG): [fg-6aceea0f.md](fg-6aceea0f.md); official file https://www.senat.ro/legis/PDF/2026/26L252FG.PDF
+- 2026-04-16: Expunere de motive (EM): [em-9ff7444e.md](em-9ff7444e.md); official file https://www.senat.ro/legis/PDF/2026/26L252EM.PDF
+- 2026-04-16: Aviz Consiliul Legislativ (LG): [lg-3d99d3c3.md](lg-3d99d3c3.md); official file https://www.senat.ro/legis/PDF/2026/26L252LG.PDF
+- 2026-04-16: Document (OG): [og-06e0937b.md](og-06e0937b.md); official file https://www.senat.ro/legis/PDF/2026/26L252OG.PDF
+- 2026-04-16: Document (HG): [hg-3592b90e.md](hg-3592b90e.md); official file https://www.senat.ro/legis/PDF/2026/26L252HG.PDF
