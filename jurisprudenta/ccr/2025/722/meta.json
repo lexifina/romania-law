@@ -1,0 +1,248 @@
+{
+ "key": "dcc-722-2025",
+ "label": "Decizia CCR nr. 722/2025",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "722",
+ "date": "2025-12-09",
+ "year": "2025",
+ "heading": "DECIZIA nr. 722 din 9 decembrie 2025",
+ "subtitle": "referitoare la excepția de neconstituționalitate a sintagmei \"judecătorul de cameră preliminară de la instanța sesizată cu rechizitoriu\" din cuprinsul art. 348 alin. (2) din Codul de procedură penală, în redactarea anterioară intrării în vigoare a Legii nr. 201/2023 pentru modificarea și completarea Legii nr. 135/2010 privind Codul de procedură penală, precum și pentru modificarea altor acte normative",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "303",
+  "bis": false,
+  "date": "2026-04-16",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "7.592/109/2020/a4",
+  "2.066D/2021"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "348",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 201/2023",
+    "number": "201",
+    "year": "2023",
+    "path": "lege/2023/201"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Cătălin Costăchioaia în Dosarul nr. 7.592/109/2020/a4 al Tribunalului Argeș - Secția penală și constată că sintagma „judecătorul de cameră preliminară de la instanța sesizată cu rechizitoriu“ din cuprinsul art. 348 alin. (2) din Codul de procedură penală, în redactarea anterioară intrării în vigoare a Legii nr. 201/2023 pentru modificarea și completarea Legii nr. 135/2010 privind Codul de procedură penală, precum și pentru modificarea altor acte normative este constituțională în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului Argeș - Secția penală și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "348",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "342",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "347",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "101",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "102",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 75/2016",
+    "number": "75",
+    "year": "2016",
+    "path": "lege/2016/75"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 201/2023",
+    "number": "201",
+    "year": "2023",
+    "path": "lege/2023/201"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "189",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "31",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2026-04-16",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/309605",
+  "text_sha256": "f7fa09a228f53c616319d1a3de501c153fb967d0b6ee17d08e41954736b0e5d5",
+  "catalogue_sha256": "f7fa09a228f53c616319d1a3de501c153fb967d0b6ee17d08e41954736b0e5d5",
+  "fetched": "2026-11-03T00:49:14Z",
+  "chars": 23316,
+  "portal_id": "309605",
+  "tip": "DECIZIE"
+ }
+}
