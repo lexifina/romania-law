@@ -1,0 +1,509 @@
+{
+ "key": "dcc-666-2025",
+ "label": "Decizia CCR nr. 666/2025",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "666",
+ "date": "2025-11-25",
+ "year": "2025",
+ "heading": "DECIZIA nr. 666 din 25 noiembrie 2025",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 9 alin. (1) partea introductivă, coroborat cu art. 2 lit. e) din Legea nr. 241/2005 pentru prevenirea și combaterea evaziunii fiscale, a sintagmei \"legea penală\" din cuprinsul art. 15 alin. (1) din Codul penal și al art. 16 alin. (1) lit. b) din Codul de procedură penală, precum și a sintagmei \"în scopul comiterii uneia sau mai multor infracțiuni\" din cuprinsul art. 367 alin. (6) din Codul penal",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "308",
+  "bis": false,
+  "date": "2026-04-17",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "1.664/103/2016",
+  "1.978D/2021"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 241/2005",
+    "number": "241",
+    "year": "2005",
+    "path": "lege/2005/241"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": [
+      "e"
+     ]
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "367",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de George Trifan, Vasile Trifan, Gheorghe Dan Misăilă și Gheorghe Gheorghe Vlasie în Dosarul nr. 1.664/103/2016 al Tribunalului Neamț - Secția penală și constată că dispozițiile art. 9 alin. (1) partea introductivă, coroborat cu art. 2 lit. e) din Legea nr. 241/2005 pentru prevenirea și combaterea evaziunii fiscale, a sintagmei „legea penală“ din cuprinsul art. 15 alin. (1) din Codul penal și al art. 16 alin. (1) lit. b) din Codul de procedură penală, precum și a sintagmei „în scopul comiterii uneia sau mai multor infracțiuni“ din cuprinsul art. 367 alin. (6) din Codul penal sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului Neamț - Secția penală și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 241/2005",
+    "number": "241",
+    "year": "2005",
+    "path": "lege/2005/241"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": [
+      "e"
+     ]
+    },
+    {
+     "art": "8",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 33
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "367",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "173",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 32
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": [
+      "e"
+     ]
+    },
+    {
+     "art": "73",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "h"
+     ]
+    },
+    {
+     "art": "1",
+     "alin": [
+      "3",
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": [
+      "12"
+     ],
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "75",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "76",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "61",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "115",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 23
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură fiscală",
+    "path": "lege/2015/207",
+    "slug": "legea-207-2015"
+   },
+   "articles": [],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului fiscal",
+    "path": "lege/2003/571",
+    "slug": "codul-fiscal-2003"
+   },
+   "articles": [],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului de procedură fiscală",
+    "path": "og/2003/92",
+    "slug": "og-92-2003"
+   },
+   "articles": [],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul fiscal",
+    "path": "lege/2015/227",
+    "slug": "codul-fiscal"
+   },
+   "articles": [],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenție",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 565/2002",
+    "number": "565",
+    "year": "2002",
+    "path": "lege/2002/565"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 535/2004",
+    "number": "535",
+    "year": "2004",
+    "path": "lege/2004/535"
+   },
+   "articles": [
+    {
+     "art": "35",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 126/2024",
+    "number": "126",
+    "year": "2024",
+    "path": "lege/2024/126"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 87/1994",
+    "number": "87",
+    "year": "1994",
+    "path": "lege/1994/87"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 39/2003",
+    "number": "39",
+    "year": "2003",
+    "path": "lege/2003/39"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "323",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2026-04-17",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/309628",
+  "text_sha256": "7add669fa73374d484bab2703482d961ca90baaae325edd15a5196673c199666",
+  "catalogue_sha256": "7add669fa73374d484bab2703482d961ca90baaae325edd15a5196673c199666",
+  "fetched": "2026-11-03T00:49:12Z",
+  "chars": 35640,
+  "portal_id": "309628",
+  "tip": "DECIZIE"
+ }
+}
