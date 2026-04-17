@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2026-03-23: adopted by the Senate; documents published: Forma adoptată de Senat
 - 2026-03-30: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2026-04-01: sent for promulgation
+- 2026-04-17: promulgated, becomes Legea nr. 51/2026; published in the Monitorul Oficial; documents published: Document (day not given by the bill file), Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -35,3 +36,6 @@ Initiator: Guvernul României.
 - 2026-03-23: Forma adoptată de Senat (FS): [fs-f5442940.md](fs-f5442940.md); official file https://www.senat.ro/legis/PDF/2026/26L130FS.PDF
 - 2026-03-30: Adresă privind sesizarea CCR (AXS): [axs-d851a243.md](axs-d851a243.md); official file https://www.senat.ro/legis/PDF/2026/26L130AXS.PDF
 - 2026-03-30: Forma trimisă la promulgare (LP): [lp-5e4a753a.md](lp-5e4a753a.md); official file https://www.senat.ro/legis/PDF/2026/26L130LP.PDF
+- 2026-04-17: Document (AL): [al-296f09e7.md](al-296f09e7.md); official file https://www.senat.ro/legis/PDF/2026/26L130AL.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-04-17: Decret de promulgare (DP): [dp-1908bca8.md](dp-1908bca8.md); official file https://www.senat.ro/legis/PDF/2026/26L130DP.PDF
+- 2026-04-17: Forma promulgată (FP): [fp-a97a2810.md](fp-a97a2810.md); official file https://www.senat.ro/legis/PDF/2026/26L130FP.PDF
