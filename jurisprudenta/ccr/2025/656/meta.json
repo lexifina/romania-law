@@ -1,0 +1,196 @@
+{
+ "key": "dcc-656-2025",
+ "label": "Decizia CCR nr. 656/2025",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "656",
+ "date": "2025-11-25",
+ "year": "2025",
+ "heading": "DECIZIA nr. 656 din 25 noiembrie 2025",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 73 pct. 1 din Ordonanța Guvernului nr. 99/2000 privind comercializarea produselor și serviciilor de piață",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "308",
+  "bis": false,
+  "date": "2026-04-17",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "35.105/212/2017",
+  "2.551D/2021"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 99/2000",
+    "number": "99",
+    "year": "2000",
+    "path": "og/2000/99"
+   },
+   "articles": [
+    {
+     "art": "73",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Societatea Luv Team - S.R.L. din Constanța în Dosarul nr. 35.105/212/2017 al Curții de Apel Constanța - Secția a II-a civilă, de contencios administrativ și fiscal și constată că dispozițiile art. 73 pct. 1 din Ordonanța Guvernului nr. 99/2000 privind comercializarea produselor și serviciilor de piață sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Curții de Apel Constanța - Secția a II-a civilă, de contencios administrativ și fiscal și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 99/2000",
+    "number": "99",
+    "year": "2000",
+    "path": "og/2000/99"
+   },
+   "articles": [
+    {
+     "art": "73",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituției",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "108",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 333/2003",
+    "number": "333",
+    "year": "2003",
+    "path": "hg/2003/333"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 2/2001",
+    "number": "2",
+    "year": "2001",
+    "path": "og/2001/2"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2026-04-17",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/309627",
+  "text_sha256": "5f9d195bea90c21dbd320fef2523f4f132dc7d9e9c6dd403eb127a3d27ab8aa6",
+  "catalogue_sha256": "5f9d195bea90c21dbd320fef2523f4f132dc7d9e9c6dd403eb127a3d27ab8aa6",
+  "fetched": "2026-11-03T00:49:14Z",
+  "chars": 20668,
+  "portal_id": "309627",
+  "tip": "DECIZIE"
+ }
+}
