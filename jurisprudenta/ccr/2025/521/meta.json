@@ -1,0 +1,167 @@
+{
+ "key": "dcc-521-2025",
+ "label": "Decizia CCR nr. 521/2025",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "521",
+ "date": "2025-10-23",
+ "year": "2025",
+ "heading": "DECIZIA nr. 521 din 23 octombrie 2025",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor notei 2 a lit. c) de la pct. II lit. A cap. I din anexa nr. VIII la Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, în interpretarea dată prin Decizia nr. 82 din 26 noiembrie 2018, pronunțată de Înalta Curte de Casație și Justiție - Completul pentru dezlegarea unor chestiuni de drept",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "312",
+  "bis": false,
+  "date": "2026-04-20",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "4.150/117/2020",
+  "1.922D/2021"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Sindicatul Național Solidaritatea Cluj-Napoca, în numele membrilor de sindicat Camelia Turcitu și alții, în Dosarul nr. 4.150/117/2020 al Tribunalului Dolj - Secția contencios administrativ și fiscal și constată că dispozițiile notei 2 a lit. c) de la pct. II lit. A cap. I din anexa nr. VIII la Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, în interpretarea dată prin Decizia nr. 82 din 26 noiembrie 2018, pronunțată de Înalta Curte de Casație și Justiție - Completul pentru dezlegarea unor chestiuni de drept, sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului Dolj - Secția contencios administrativ și fiscal și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "38",
+     "alin": [
+      "1",
+      "2",
+      "3",
+      "4"
+     ],
+     "lit": [
+      "a",
+      "a"
+     ]
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "147",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "3",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "146",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2026-04-20",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/309661",
+  "text_sha256": "ec13d03f4409336e4f74a3cda2f5144b801fd0449ff72e6603639194c666d786",
+  "catalogue_sha256": "ec13d03f4409336e4f74a3cda2f5144b801fd0449ff72e6603639194c666d786",
+  "fetched": "2026-11-03T00:49:11Z",
+  "chars": 14537,
+  "portal_id": "309661",
+  "tip": "DECIZIE"
+ }
+}
