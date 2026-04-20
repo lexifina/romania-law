@@ -12,6 +12,7 @@ Initiator: Guvernul României.
 - 2026-03-24: documents published: Aviz comisie
 - 2026-04-01: documents published: Aviz comisie
 - 2026-04-07: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților
+- 2026-04-20: registered at the Chamber of Deputies
 
 ## Documents
 
