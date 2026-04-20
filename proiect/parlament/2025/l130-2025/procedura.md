@@ -19,6 +19,7 @@ Initiator: Membri ai Parlamentului.
 - 2026-02-11: published in the Monitorul Oficial
 - 2026-03-24: returned for re-examination
 - 2026-04-14: rejected by the Senate
+- 2026-04-20: documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -32,3 +33,7 @@ Initiator: Membri ai Parlamentului.
 - 2025-06-16: Adresă către Camera Deputaților (AM): [am-f4bac329.md](am-f4bac329.md); official file https://www.senat.ro/legis/PDF/2025/25L130AM.PDF
 - 2025-12-15: Adresă privind sesizarea CCR (AXS): [axs-f5523a52.md](axs-f5523a52.md); official file https://www.senat.ro/legis/PDF/2025/25L130AXS.PDF
 - 2025-12-15: Forma trimisă la promulgare (LP): [lp-ea746d19.md](lp-ea746d19.md); official file https://www.senat.ro/legis/PDF/2025/25L130LP.PDF
+- 2026-04-20: Document (SC1): [sc1-6ec11d46.md](sc1-6ec11d46.md); official file https://www.senat.ro/legis/PDF/2025/25L130SC1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-04-20: Document (DC1): [dc1-f2f158c9.md](dc1-f2f158c9.md); official file https://www.senat.ro/legis/PDF/2025/25L130DC1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-04-20: Document (RC1): [rc1-c111ca97.md](rc1-c111ca97.md); official file https://www.senat.ro/legis/PDF/2025/25L130RC1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-04-20: Document (XD1): [xd1-eac41a8e.md](xd1-eac41a8e.md); official file https://www.senat.ro/legis/PDF/2025/25L130XD1.PDF (its day is not given by the bill file: shown from the last stage held)
