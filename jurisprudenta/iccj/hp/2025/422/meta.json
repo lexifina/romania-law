@@ -1,0 +1,256 @@
+{
+ "key": "iccj-hp-422-2025",
+ "label": "Decizia ÎCCJ nr. 422/2025 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "422",
+ "date": "2025-11-24",
+ "year": "2025",
+ "heading": "DECIZIA nr. 422 din 24 noiembrie 2025",
+ "subtitle": "referitoare la sporul pentru condiții de muncă în cuantum de 15% din salariul de bază prevăzut de art. 3 din Regulamentul-cadru privind stabilirea locurilor de muncă, a categoriilor de personal, a mărimii concrete a sporurilor pentru condiții de muncă, precum și a condițiilor de acordare a acestora pentru familia ocupațională de funcții bugetare \"Cultură\", aprobat prin Hotărârea Guvernului nr. 360/2018",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "312",
+  "bis": false,
+  "date": "2026-04-20",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "622/1/2025",
+  "3.014/85/2023"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "39",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Tribunalul Sibiu - Secția I civilă în Dosarul nr. 3.014/85/2023, în vederea pronunțării unei hotărâri prealabile cu privire la următoarea chestiune de drept:",
+  "Dacă sporul pentru condiții de muncă în cuantum de 15% din salariul de bază prevăzut de art. 3 din Regulamentul-cadru privind stabilirea locurilor de muncă, a categoriilor de personal, a mărimii concrete a sporurilor pentru condiții de muncă, precum și a condițiilor de acordare a acestora pentru familia ocupațională de funcții bugetare „Cultură“, aprobat prin Hotărârea Guvernului nr. 360/2018, se acordă prin raportare la nivelul sporului aflat în plată în perioada decembrie 2018 (plafonat) sau se acordă la nivelul existent în momentul intervenirii unor modificări ale salariului de bază prin raportare la art. 39 din Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, cu modificările și completările ulterioare.",
+  "Obligatorie, potrivit art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 62/2024",
+    "number": "62",
+    "year": "2024",
+    "path": "oug/2024/62"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "39",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": [
+      "c",
+      "a"
+     ]
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 114/2018",
+    "number": "114",
+    "year": "2018",
+    "path": "oug/2018/114"
+   },
+   "articles": [
+    {
+     "art": "34",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 226/2020",
+    "number": "226",
+    "year": "2020",
+    "path": "oug/2020/226"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 168/2022",
+    "number": "168",
+    "year": "2022",
+    "path": "oug/2022/168"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 115/2023",
+    "number": "115",
+    "year": "2023",
+    "path": "oug/2023/115"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 1/2020",
+    "number": "1",
+    "year": "2020",
+    "path": "oug/2020/1"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 130/2021",
+    "number": "130",
+    "year": "2021",
+    "path": "oug/2021/130"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2026-04-20",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/309663",
+  "text_sha256": "36a6b42c81683273ef48d37b2d34fff70aa024c86e980faf1bca979cc6f5b93a",
+  "catalogue_sha256": "36a6b42c81683273ef48d37b2d34fff70aa024c86e980faf1bca979cc6f5b93a",
+  "fetched": "2026-11-03T00:49:11Z",
+  "chars": 43148,
+  "portal_id": "309663",
+  "tip": "DECIZIE"
+ }
+}
