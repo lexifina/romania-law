@@ -13,6 +13,7 @@ Initiator: Membri ai Parlamentului.
 - 2025-12-23: registered at the Senate
 - 2026-01-28: documents published: Aviz comisie
 - 2026-04-01: adopted by the Chamber of Deputies; documents published: Adresă către Camera Deputaților, Forma adoptată de Camera Deputaților
+- 2026-04-21: documents published: Aviz comisie
 
 ## Documents
 
@@ -25,3 +26,4 @@ Initiator: Membri ai Parlamentului.
 - 2026-01-28: Aviz comisie (CA21): [ca21-3d82c21b.md](ca21-3d82c21b.md); official file https://www.senat.ro/legis/PDF/2026/26L218CA21.PDF
 - 2026-04-01: Adresă către Camera Deputaților (AM): [am-cf7debce.md](am-cf7debce.md); official file https://www.senat.ro/legis/PDF/2026/26L218AM.PDF
 - 2026-04-01: Forma adoptată de Camera Deputaților (FC): [fc-4e492003.md](fc-4e492003.md); official file https://www.senat.ro/legis/PDF/2026/26L218FC.PDF
+- 2026-04-21: Aviz comisie (CA41): [ca41-2e36fb88.md](ca41-2e36fb88.md); official file https://www.senat.ro/legis/PDF/2026/26L218CA41.PDF
