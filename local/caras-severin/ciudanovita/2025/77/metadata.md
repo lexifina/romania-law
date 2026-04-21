@@ -1,0 +1,9 @@
+# HCL Ciudanovița nr. 77/2025
+
+Text not yet included: no document of it is held. It will be added when it is. Its title names a private person or a private property, so it is not shown.
+
+- Council: Consiliul Local al Comunei Ciudanovița
+- Decision: nr. 77/2025
+- Adopted: 2025-10-30
+- Published: 2026-04-21
+- Record: https://emol.ro/ciudanovita-cs/registru-hcl/253318
