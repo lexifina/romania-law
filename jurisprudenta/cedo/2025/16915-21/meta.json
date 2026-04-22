@@ -1,0 +1,221 @@
+{
+ "key": "cedo-16915-21-2025-12-15",
+ "label": "CEDO, Danileț c. României, 2025-12-15",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2025-12-15",
+ "year": "2025",
+ "heading": "HOTĂRÂREA din 15 decembrie 2025",
+ "subtitle": "în Cauza Danileț împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI - MAREA CAMERĂ",
+ "mo": {
+  "number": "317",
+  "bis": false,
+  "date": "2026-04-22",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation"
+ ],
+ "applications": [
+  "16915/21"
+ ],
+ "case_name": "Danileț",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenție",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "CURTEA:",
+  "1. hotărăște, cu zece voturi la șapte, că a fost încălcat art. 10 din Convenție;",
+  "2. hotărăște, cu zece voturi la șapte, a) că statul membru pârât trebuie să plătească reclamantului (în conturile bancare ale reprezentantelor sale), în termen de trei luni, suma de 9.705,44 EUR (nouă mii șapte sute cinci euro și patruzeci și patru de eurocenți), convertită în moneda statului pârât, la rata aplicabilă la data efectuării plății, la care se adaugă orice sumă care ar putea fi datorată de reclamant cu titlu de impozit, pentru cheltuieli de judecată;",
+  "b) că, de la expirarea termenului menționat și până la efectuarea plății, această sumă trebuie majorată cu o dobândă simplă, la o rată egală cu rata dobânzii facilității de împrumut marginal practicată de Banca Centrală Europeană, aplicabilă pe parcursul acestei perioade și majorată cu trei puncte."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "36",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 67
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "118",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 303/2004",
+    "number": "303",
+    "year": "2004",
+    "path": "lege/2004/303"
+   },
+   "articles": [
+    {
+     "art": "99",
+     "alin": null,
+     "lit": [
+      "a",
+      "d"
+     ]
+    },
+    {
+     "art": "90",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "100",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 32
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 303/2022",
+    "number": "303",
+    "year": "2022",
+    "path": "lege/2022/303"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "271",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 317/2004",
+    "number": "317",
+    "year": "2004",
+    "path": "lege/2004/317"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 305/2022",
+    "number": "305",
+    "year": "2022",
+    "path": "lege/2022/305"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/309707",
+  "text_sha256": "1fa76d0df10a5c9bf4cd2760ea061df146ba65259e67cd01e7b14ed5449a7550",
+  "catalogue_sha256": "1fa76d0df10a5c9bf4cd2760ea061df146ba65259e67cd01e7b14ed5449a7550",
+  "fetched": "2026-11-03T00:49:07Z",
+  "chars": 264029,
+  "portal_id": "309707",
+  "tip": "HOTĂRÂRE"
+ }
+}
