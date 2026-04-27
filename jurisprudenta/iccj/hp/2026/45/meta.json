@@ -1,0 +1,271 @@
+{
+ "key": "iccj-hp-45-2026",
+ "label": "Decizia ÎCCJ nr. 45/2026 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "45",
+ "date": "2026-03-23",
+ "year": "2026",
+ "heading": "DECIZIA nr. 45 din 23 martie 2026",
+ "subtitle": "referitoare la art. 201 alin. (7) din Legea învățământului superior nr. 199/2023, cu modificările și completările ulterioare",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "331",
+  "bis": false,
+  "date": "2026-04-27",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "133/1/2026",
+  "29.778/3/2023"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea învățământului superior nr. 199/2023",
+    "number": "199",
+    "year": "2023",
+    "path": "lege/2023/199"
+   },
+   "articles": [
+    {
+     "art": "201",
+     "alin": [
+      "7"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul muncii",
+    "path": "lege/2003/53",
+    "slug": "codul-muncii"
+   },
+   "articles": [
+    {
+     "art": "56",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Curtea de Apel București - Secția a VII-a pentru conflicte de muncă și asigurări sociale în Dosarul nr. 29.778/3/2023* privind pronunțarea unei hotărâri prealabile cu privire la următoarele chestiuni de drept:",
+  "a) interpretarea dispozițiilor art. 201 alin. (7) din Legea învățământului superior nr. 199/2023, cu modificările și completările ulterioare, în sensul de a se stabili dacă acestea reglementează un caz de încetare de drept a contractului individual de muncă, suplimentar celor prevăzute de art. 56 alin. (1) din Codul muncii;",
+  "b) interpretarea dispozițiilor art. 201 alin. (7) din Legea nr. 199/2023, în sensul de a se stabili dacă acestea se aplică și în cazul condamnărilor pentru infracțiunile vizate de norma legală, infracțiuni săvârșite anterior intrării în vigoare a dispozițiilor a căror interpretare se solicită;",
+  "c) interpretarea dispozițiilor art. 201 alin. (7) din Legea nr. 199/2023, în sensul de a se stabili dacă acestea vizează și cadrele didactice universitare având contracte de muncă pe durată nedeterminată, încheiate anterior intrării în vigoare a dispozițiilor menționate, a căror condamnare a intervenit, de asemenea, înainte de intrarea în vigoare a prevederilor analizate.",
+  "Obligatorie, potrivit art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 62/2024",
+    "number": "62",
+    "year": "2024",
+    "path": "oug/2024/62"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea învățământului superior nr. 199/2023",
+    "number": "199",
+    "year": "2023",
+    "path": "lege/2023/199"
+   },
+   "articles": [
+    {
+     "art": "201",
+     "alin": [
+      "7"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 20
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul muncii",
+    "path": "lege/2003/53",
+    "slug": "codul-muncii"
+   },
+   "articles": [
+    {
+     "art": "56",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "f",
+      "g"
+     ]
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 95/2006",
+    "number": "95",
+    "year": "2006",
+    "path": "lege/2006/95"
+   },
+   "articles": [
+    {
+     "art": "388",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "572",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituția României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 303/2004",
+    "number": "303",
+    "year": "2004",
+    "path": "lege/2004/303"
+   },
+   "articles": [
+    {
+     "art": "83-2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 118/2014",
+    "number": "118",
+    "year": "2014",
+    "path": "lege/2014/118"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2026-04-27",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/309817",
+  "text_sha256": "c9e197534e8154c3e5dc961cc6e7356c2af58d3814838970f1e7f0b23eb68d18",
+  "catalogue_sha256": "c9e197534e8154c3e5dc961cc6e7356c2af58d3814838970f1e7f0b23eb68d18",
+  "fetched": "2026-11-03T00:49:01Z",
+  "chars": 39441,
+  "portal_id": "309817",
+  "tip": "DECIZIE"
+ }
+}
