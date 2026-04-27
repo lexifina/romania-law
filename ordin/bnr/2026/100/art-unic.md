@@ -1,0 +1,2 @@
+# Articolul unic
+Se dispune publicarea efectuării radierii din Registrul general și Registrul special Instituții Financiare Nebancare, ținute de către Banca Națională a României, a Societății CREDIT MARKET IFN - S.A., cu sediul în București, str. Șura Mare nr. 1, bl. 1A, sc. A, ap. 1, sectorul 4, înregistrată la oficiul registrul comerțului cu nr. J40/2548/2009, cod unic de înregistrare 25190849, înscrisă în Registrul general cu nr. RG-PJR-41-110260 și în Registrul special cu nr. RS-PJR-41-110085 la secțiunea k) "Activități multiple de creditare".
