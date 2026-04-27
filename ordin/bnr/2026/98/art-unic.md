@@ -1,0 +1,2 @@
+# Articolul unic
+Se dispune publicarea efectuării radierii din Registrul general Instituții Financiare Nebancare, ținut de către Banca Națională a României, a Societății TBI MONEY IFN - S.A. (actualmente LENVIARSA MONEY SOLUTIONS IFN - S.A.), cu sediul în București, str. Puțul lui Zamfir nr. 8-12, et. P + 1, sectorul 1, înregistrată la oficiul registrul comerțului cu nr. J2003015329403, cod unic de înregistrare 15901855, înscrisă în Registrul general cu nr. RG-PJR-41-110014 din 3.03.2017 la secțiunea k) "Activități multiple de creditare".
