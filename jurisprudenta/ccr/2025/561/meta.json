@@ -1,0 +1,196 @@
+{
+ "key": "dcc-561-2025",
+ "label": "Decizia CCR nr. 561/2025",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "561",
+ "date": "2025-11-04",
+ "year": "2025",
+ "heading": "DECIZIA nr. 561 din 4 noiembrie 2025",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 8 alin. (1) și (2) din Ordonanța de urgență a Guvernului nr. 51/2008 privind ajutorul public judiciar în materie civilă, în redactarea anterioară intrării în vigoare a Legii nr. 31/2023 pentru modificarea Ordonanței de urgență a Guvernului nr. 51/2008 privind ajutorul public judiciar în materie civilă",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "337",
+  "bis": false,
+  "date": "2026-04-28",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "25.963/4/2020/a2",
+  "830D/2021",
+  "3.874D/2021",
+  "2.231/120/2021/a1"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 51/2008",
+    "number": "51",
+    "year": "2008",
+    "path": "oug/2008/51"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 31/2023",
+    "number": "31",
+    "year": "2023",
+    "path": "lege/2023/31"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Niculae Răduță în Dosarul nr. 25.963/4/2020/a2 al Judecătoriei Sectorului 4 București - Secția civilă și de Ovidiu Ionel Nicolescu în Dosarul nr. 2.231/120/2021/a1 al Tribunalului Dâmbovița - Secția I civilă și constată că dispozițiile art. 8 alin. (1) și (2) din Ordonanța de urgență a Guvernului nr. 51/2008 privind ajutorul public judiciar în materie civilă, în redactarea anterioară intrării în vigoare a Legii nr. 31/2023 pentru modificarea Ordonanței de urgență a Guvernului nr. 51/2008 privind ajutorul public judiciar în materie civilă, sunt constituționale în raport de criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Judecătoriei Sectorului 4 București - Secția civilă și Tribunalului Dâmbovița - Secția I civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 51/2008",
+    "number": "51",
+    "year": "2008",
+    "path": "oug/2008/51"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituției",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "47",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 31/2023",
+    "number": "31",
+    "year": "2023",
+    "path": "lege/2023/31"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2026-04-28",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/309838",
+  "text_sha256": "6d0b8a58048526c2c945b65ee4c0b539ea7a0368367f7fa30b157718509e0cbb",
+  "catalogue_sha256": "6d0b8a58048526c2c945b65ee4c0b539ea7a0368367f7fa30b157718509e0cbb",
+  "fetched": "2026-11-03T23:03:25Z",
+  "chars": 16100,
+  "portal_id": "309838",
+  "tip": "DECIZIE"
+ }
+}
