@@ -12,6 +12,7 @@ Initiator: Guvernul României.
 - 2026-02-11: documents published: Raport comisie sesizată pe fond
 - 2026-02-25: adopted by the Chamber of Deputies; registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
 - 2026-03-12: documents published: Aviz comisie
+- 2026-04-29: documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -23,3 +24,4 @@ Initiator: Guvernul României.
 - 2026-02-25: Document (OG): [og-601003d5.md](og-601003d5.md); official file https://www.senat.ro/legis/PDF/2026/26L129OG.PDF
 - 2026-02-25: Document (HG): [hg-f2a14079.md](hg-f2a14079.md); official file https://www.senat.ro/legis/PDF/2026/26L129HG.PDF
 - 2026-03-12: Aviz comisie (CA8): [ca8-7081a7c7.md](ca8-7081a7c7.md); official file https://www.senat.ro/legis/PDF/2026/26L129CA8.PDF
+- 2026-04-29: Document (AT): [at-d1e3def4.md](at-d1e3def4.md); official file https://www.senat.ro/legis/PDF/2026/26L129AT.PDF (its day is not given by the bill file: shown from the last stage held)
