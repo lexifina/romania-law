@@ -21,6 +21,7 @@ Initiator: Guvernul României.
 - 2026-04-08: adopted by the Chamber of Deputies
 - 2026-04-14: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2026-04-16: sent for promulgation
+- 2026-04-30: promulgated, becomes Legea nr. 58/2026; published in the Monitorul Oficial; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -45,3 +46,5 @@ Initiator: Guvernul României.
 - 2025-11-24: Adresă către Camera Deputaților (AM): [am-91090cf7.md](am-91090cf7.md); official file https://www.senat.ro/legis/PDF/2025/25L442AM.PDF
 - 2026-04-14: Adresă privind sesizarea CCR (AXS): [axs-10830a47.md](axs-10830a47.md); official file https://www.senat.ro/legis/PDF/2025/25L442AXS.PDF
 - 2026-04-14: Forma trimisă la promulgare (LP): [lp-06fde97d.md](lp-06fde97d.md); official file https://www.senat.ro/legis/PDF/2025/25L442LP.PDF
+- 2026-04-30: Decret de promulgare (DP): [dp-b9dfc2a0.md](dp-b9dfc2a0.md); official file https://www.senat.ro/legis/PDF/2025/25L442DP.PDF
+- 2026-04-30: Forma promulgată (FP): [fp-9470637c.md](fp-9470637c.md); official file https://www.senat.ro/legis/PDF/2025/25L442FP.PDF
