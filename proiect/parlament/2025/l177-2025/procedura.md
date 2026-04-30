@@ -18,6 +18,7 @@ Initiator: Membri ai Parlamentului.
 - 2026-04-01: adopted by the Chamber of Deputies
 - 2026-04-07: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2026-04-14: sent for promulgation
+- 2026-04-30: promulgated, becomes Legea nr. 56/2026; published in the Monitorul Oficial; documents published: Punct de vedere Guvern (day not given by the bill file), Document (day not given by the bill file), Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -30,3 +31,7 @@ Initiator: Membri ai Parlamentului.
 - 2025-09-22: Adresă către Camera Deputaților (AM): [am-34f980aa.md](am-34f980aa.md); official file https://www.senat.ro/legis/PDF/2025/25L177AM.PDF
 - 2026-04-07: Adresă privind sesizarea CCR (AXS): [axs-d8d402e2.md](axs-d8d402e2.md); official file https://www.senat.ro/legis/PDF/2025/25L177AXS.PDF
 - 2026-04-07: Forma trimisă la promulgare (LP): [lp-a33ee3e3.md](lp-a33ee3e3.md); official file https://www.senat.ro/legis/PDF/2025/25L177LP.PDF
+- 2026-04-30: Punct de vedere Guvern (SJ): [sj-31c232aa.md](sj-31c232aa.md); official file https://www.senat.ro/legis/PDF/2025/25L177SJ.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-04-30: Document (AJ): [aj-5d5f1b10.md](aj-5d5f1b10.md); official file https://www.senat.ro/legis/PDF/2025/25L177AJ.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-04-30: Decret de promulgare (DP): [dp-59d8a73a.md](dp-59d8a73a.md); official file https://www.senat.ro/legis/PDF/2025/25L177DP.PDF
+- 2026-04-30: Forma promulgată (FP): [fp-07803981.md](fp-07803981.md); official file https://www.senat.ro/legis/PDF/2025/25L177FP.PDF
