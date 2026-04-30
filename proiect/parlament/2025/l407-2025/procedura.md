@@ -20,6 +20,7 @@ Initiator: Membri ai Parlamentului.
 - 2026-04-08: adopted by the Chamber of Deputies
 - 2026-04-14: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2026-04-20: sent for promulgation
+- 2026-04-30: promulgated, becomes Legea nr. 59/2026; published in the Monitorul Oficial; documents published: Document (day not given by the bill file), Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -34,3 +35,6 @@ Initiator: Membri ai Parlamentului.
 - 2025-12-02: Adresă către Camera Deputaților (AM): [am-f1879e07.md](am-f1879e07.md); official file https://www.senat.ro/legis/PDF/2025/25L407AM.PDF
 - 2026-04-14: Adresă privind sesizarea CCR (AXS): [axs-2ae715b4.md](axs-2ae715b4.md); official file https://www.senat.ro/legis/PDF/2025/25L407AXS.PDF
 - 2026-04-14: Forma trimisă la promulgare (LP): [lp-f090501a.md](lp-f090501a.md); official file https://www.senat.ro/legis/PDF/2025/25L407LP.PDF
+- 2026-04-30: Document (CNA): [cna-24c8c2fe.md](cna-24c8c2fe.md); official file https://www.senat.ro/legis/PDF/2025/25L407CNA.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-04-30: Decret de promulgare (DP): [dp-45c093e5.md](dp-45c093e5.md); official file https://www.senat.ro/legis/PDF/2025/25L407DP.PDF
+- 2026-04-30: Forma promulgată (FP): [fp-0cb67cb9.md](fp-0cb67cb9.md); official file https://www.senat.ro/legis/PDF/2025/25L407FP.PDF
