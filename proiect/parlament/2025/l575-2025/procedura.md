@@ -19,6 +19,7 @@ Initiator: Membri ai Parlamentului.
 - 2026-04-08: adopted by the Chamber of Deputies
 - 2026-04-14: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2026-04-20: sent for promulgation
+- 2026-04-30: promulgated, becomes Legea nr. 61/2026; published in the Monitorul Oficial; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -32,3 +33,5 @@ Initiator: Membri ai Parlamentului.
 - 2025-12-22: Adresă către Camera Deputaților (AM): [am-46573dd0.md](am-46573dd0.md); official file https://www.senat.ro/legis/PDF/2025/25L575AM.PDF
 - 2026-04-14: Adresă privind sesizarea CCR (AXS): [axs-c5d0370d.md](axs-c5d0370d.md); official file https://www.senat.ro/legis/PDF/2025/25L575AXS.PDF
 - 2026-04-14: Forma trimisă la promulgare (LP): [lp-f301055c.md](lp-f301055c.md); official file https://www.senat.ro/legis/PDF/2025/25L575LP.PDF
+- 2026-04-30: Decret de promulgare (DP): [dp-8b1591f0.md](dp-8b1591f0.md); official file https://www.senat.ro/legis/PDF/2025/25L575DP.PDF
+- 2026-04-30: Forma promulgată (FP): [fp-c9720049.md](fp-c9720049.md); official file https://www.senat.ro/legis/PDF/2025/25L575FP.PDF
