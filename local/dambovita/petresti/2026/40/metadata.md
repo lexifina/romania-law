@@ -1,0 +1,9 @@
+# HCL Petrești nr. 40/2026
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+- Council: Consiliul Local al Comunei Petrești
+- Decision: nr. 40/2026
+- Adopted: 2026-04-30
+- Title: privind sustinerea financiara a Parohiei Petresti în anul 2026 cu suma de 15.000 lei
+- Record: https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#120851
