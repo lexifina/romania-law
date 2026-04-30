@@ -19,6 +19,7 @@ Initiator: Membri ai Parlamentului.
 - 2025-06-23: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-06-28: sent for promulgation
 - 2026-02-04: published in the Monitorul Oficial
+- 2026-04-30: promulgated, becomes Legea nr. 54/2026; published in the Monitorul Oficial; documents published: Document (day not given by the bill file), Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -32,3 +33,7 @@ Initiator: Membri ai Parlamentului.
 - 2025-05-26: Adresă către Camera Deputaților (AM): [am-9f277268.md](am-9f277268.md); official file https://www.senat.ro/legis/PDF/2025/25L118AM.PDF
 - 2025-06-23: Adresă privind sesizarea CCR (AXS): [axs-fa0be7e8.md](axs-fa0be7e8.md); official file https://www.senat.ro/legis/PDF/2025/25L118AXS.PDF
 - 2025-06-23: Forma trimisă la promulgare (LP): [lp-c46cb29b.md](lp-c46cb29b.md); official file https://www.senat.ro/legis/PDF/2025/25L118LP.PDF
+- 2026-04-30: Document (SC1): [sc1-02931a6b.md](sc1-02931a6b.md); official file https://www.senat.ro/legis/PDF/2025/25L118SC1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-04-30: Document (DC1): [dc1-ff516f01.md](dc1-ff516f01.md); official file https://www.senat.ro/legis/PDF/2025/25L118DC1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-04-30: Decret de promulgare (DP): [dp-a9a8a10e.md](dp-a9a8a10e.md); official file https://www.senat.ro/legis/PDF/2025/25L118DP.PDF
+- 2026-04-30: Forma promulgată (FP): [fp-03af7501.md](fp-03af7501.md); official file https://www.senat.ro/legis/PDF/2025/25L118FP.PDF
