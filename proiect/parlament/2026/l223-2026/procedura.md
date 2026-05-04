@@ -14,6 +14,7 @@ Initiator: Membri ai Parlamentului.
 - 2026-03-02: documents published: Aviz Consiliul Legislativ, Aviz Consiliul Economic și Social
 - 2026-04-21: documents published: Aviz comisie, Raport comisie sesizată pe fond
 - 2026-04-29: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților
+- 2026-05-04: registered at the Chamber of Deputies
 
 ## Documents
 
