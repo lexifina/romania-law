@@ -1,0 +1,197 @@
+{
+ "key": "dcc-567-2025",
+ "label": "Decizia CCR nr. 567/2025",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "567",
+ "date": "2025-11-06",
+ "year": "2025",
+ "heading": "DECIZIA nr. 567 din 6 noiembrie 2025",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 13 alin. (3) teza finală din Legea nr. 196/2018 privind înființarea, organizarea și funcționarea asociațiilor de proprietari și administrarea condominiilor",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "376",
+  "bis": false,
+  "date": "2026-05-05",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "7.237/189/2019",
+  "1.140D/2020",
+  "936D/2021",
+  "9.082/271/2020"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 196/2018",
+    "number": "196",
+    "year": "2018",
+    "path": "lege/2018/196"
+   },
+   "articles": [
+    {
+     "art": "13",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Asociația de proprietari Blocul A2 Scara A, Str. Republicii nr. 259 din Bârlad, județul Vaslui, în Dosarul nr. 7.237/189/2019 al Tribunalului Vaslui - Secția civilă și de Asociația de Proprietari Oneștilor din Oradea în Dosarul nr. 9.082/271/2020 al Judecătoriei Oradea - Secția civilă și constată că dispozițiile art. 13 alin. (3) teza finală din Legea nr. 196/2018 privind înființarea, organizarea și funcționarea asociațiilor de proprietari și administrarea condominiilor sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului Vaslui - Secția civilă și Judecătoriei Oradea - Secția civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 196/2018",
+    "number": "196",
+    "year": "2018",
+    "path": "lege/2018/196"
+   },
+   "articles": [
+    {
+     "art": "13",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "40",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "37",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretului nr. 387/1977",
+    "number": "387",
+    "year": "1977",
+    "path": "decret/1977/387"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2026-05-05",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/310252",
+  "text_sha256": "ce95cbad7c08155bb9aee0a6bc6e415f0d3ef14836ef248d75f0ebf13272bea2",
+  "catalogue_sha256": "ce95cbad7c08155bb9aee0a6bc6e415f0d3ef14836ef248d75f0ebf13272bea2",
+  "fetched": "2026-11-03T00:48:35Z",
+  "chars": 18879,
+  "portal_id": "310252",
+  "tip": "DECIZIE"
+ }
+}
