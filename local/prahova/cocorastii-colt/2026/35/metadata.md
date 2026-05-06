@@ -1,0 +1,9 @@
+# HCL Cocorăștii Colț nr. 35/2026
+
+Text not yet included: no document of it is held. It will be added when it is.
+
+- Council: Consiliul Local al Comunei Cocorăștii Colț
+- Decision: nr. 35/2026
+- Adopted: 2026-05-06
+- Title: privind aprobarea bugetului local al comunei Cocorăștii Colț pe anul 2026
+- Record: https://cocorastiicolt.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4398#121570
