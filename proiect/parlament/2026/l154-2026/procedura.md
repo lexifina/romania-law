@@ -17,6 +17,7 @@ Initiator: Guvernul României.
 - 2026-04-14: adopted by the Senate; documents published: Forma adoptată de Senat
 - 2026-04-20: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2026-04-27: sent for promulgation
+- 2026-05-06: promulgated, becomes Legea nr. 62/2026; published in the Monitorul Oficial; documents published: Document (day not given by the bill file), Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -29,3 +30,8 @@ Initiator: Guvernul României.
 - 2026-04-14: Forma adoptată de Senat (FS): [fs-eb52b1b7.md](fs-eb52b1b7.md); official file https://www.senat.ro/legis/PDF/2026/26L154FS.PDF
 - 2026-04-20: Adresă privind sesizarea CCR (AXS): [axs-f4fc51eb.md](axs-f4fc51eb.md); official file https://www.senat.ro/legis/PDF/2026/26L154AXS.PDF
 - 2026-04-20: Forma trimisă la promulgare (LP): [lp-327ed491.md](lp-327ed491.md); official file https://www.senat.ro/legis/PDF/2026/26L154LP.PDF
+- 2026-05-06: Document (DR): [dr-33cdf31b.md](dr-33cdf31b.md); official file https://www.senat.ro/legis/PDF/2026/26L154DR.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-05-06: Document (TX): [tx-b4b39a85.md](tx-b4b39a85.md); official file https://www.senat.ro/legis/PDF/2026/26L154TX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-05-06: Document (AL): [al-f27fdf42.md](al-f27fdf42.md); official file https://www.senat.ro/legis/PDF/2026/26L154AL.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-05-06: Decret de promulgare (DP): [dp-248cd8b4.md](dp-248cd8b4.md); official file https://www.senat.ro/legis/PDF/2026/26L154DP.PDF
+- 2026-05-06: Forma promulgată (FP): [fp-29e3c5c3.md](fp-29e3c5c3.md); official file https://www.senat.ro/legis/PDF/2026/26L154FP.PDF
