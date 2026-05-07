@@ -1,0 +1,12 @@
+# HCLS1 nr. 86/2026
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+- Council: Consiliul Local al Sectorului 1 al Municipiului București
+- Decision: nr. 86/2026
+- Adopted: 2026-03-19
+- Published: 2026-05-07
+- Title: privind solicitarea către Consiliul General al Municipiului București pentru transmiterea în administrarea Sectorului 1 al Municipiului București a imobilului în suprafață de 17.120 mp, înscris în cartea funciară 257933, în vederea realizării unor proiecte de amenajări urbane
+- Record: https://emol.ro/sectorul-1/registru-hcl/?an=2026
+- Document: https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/252794/86.2026-AN.pdf
+- Document sha256: 917044a89d2a3c9521cb99b28caf4cadf77d5950a4029b9c6e986da67724eaa4
