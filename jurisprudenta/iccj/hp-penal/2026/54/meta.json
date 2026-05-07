@@ -1,0 +1,275 @@
+{
+ "key": "iccj-hp-penal-54-2026",
+ "label": "Decizia ÎCCJ nr. 54/2026 (HP penal)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp-penal",
+ "number": "54",
+ "date": "2026-03-23",
+ "year": "2026",
+ "heading": "DECIZIA nr. 54 din 23 martie 2026",
+ "subtitle": "referitoare la interpretarea dispozițiilor art. 273 din Codul penal",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT ÎN MATERIE PENALĂ",
+ "mo": {
+  "number": "384",
+  "bis": false,
+  "date": "2026-05-07",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "2.540/1/2025",
+  "11.935/3/2024"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "273",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "116",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "117",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "118",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Admite sesizarea formulată de către Curtea de Apel București - Secția I penală în Dosarul nr. 11.935/3/2024, prin care se solicită pronunțarea unei hotărâri prealabile pentru dezlegarea următoarei chestiuni de drept: „În interpretarea dispozițiilor art. 273 din Codul penal, sunt întrunite elementele constitutive ale infracțiunii de mărturie mincinoasă în cazul în care o persoană citată în calitate de martor în procesul penal refuză, înainte sau după depunerea jurământului, să facă orice fel de declarații?“, și, în consecință, stabilește:",
+  "În interpretarea dispozițiilor art. 273 din Codul penal, sunt întrunite condițiile de tipicitate ale infracțiunii de mărturie mincinoasă în cazul în care persoana citată în calitate de martor în procesul penal, după ce i-au fost aduse la cunoștință faptele sau împrejurările de fapt pentru dovedirea cărora s-a dispus sau s-a încuviințat audierea sa, precum și obligațiile procesuale care îi revin, refuză, înainte sau după depunerea jurământului sau a declarației solemne, să dea declarații și nu se află într-unul dintre cazurile prevăzute de art. 116 alin. (3), art. 117 alin. (1) și art. 118 din Codul de procedură penală.",
+  "Obligatorie de la data publicării în Monitorul Oficial al României, Partea I, potrivit art. 477 alin. (3) din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "273",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "92",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "96",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "371",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "32",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "188",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "266",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "271",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "269",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 40
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "475",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "396",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "114",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "117",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a",
+      "b"
+     ]
+    },
+    {
+     "art": "118",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "476",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "473",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "116",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "120",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "d"
+     ]
+    },
+    {
+     "art": "119",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "121",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 43
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 201/2023",
+    "number": "201",
+    "year": "2023",
+    "path": "lege/2023/201"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2026-05-07",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/310315",
+  "text_sha256": "390f69988bcb4b1db422569dae706b3770449a0cd80d0f9c5eb2e5cd956186a8",
+  "catalogue_sha256": "390f69988bcb4b1db422569dae706b3770449a0cd80d0f9c5eb2e5cd956186a8",
+  "fetched": "2026-11-03T00:48:32Z",
+  "chars": 74564,
+  "portal_id": "310315",
+  "tip": "DECIZIE"
+ }
+}
