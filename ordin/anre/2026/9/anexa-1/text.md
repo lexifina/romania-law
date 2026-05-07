@@ -1,0 +1,2 @@
+# ANEXĂ
+REGULI privind participarea unei comunități de energie din surse regenerabile sau a unei comunități de energie a cetățenilor la piețele angro de energie electrică și a condițiilor utilizării capacităților de stocare aparținând unei comunități de energie din surse regenerabile sau unei comunități de energie a cetățenilor și/sau a celor aparținând membrilor acesteia, în vederea furnizării de servicii către operatorii de rețea
