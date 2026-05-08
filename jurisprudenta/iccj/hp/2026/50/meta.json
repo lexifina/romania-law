@@ -1,0 +1,235 @@
+{
+ "key": "iccj-hp-50-2026",
+ "label": "Decizia ÎCCJ nr. 50/2026 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "50",
+ "date": "2026-03-23",
+ "year": "2026",
+ "heading": "DECIZIA nr. 50 din 23 martie 2026",
+ "subtitle": "referitoare la interpretarea și aplicarea dispozițiilor art. 8 alin. (3) și (5), raportat la art. 1 alin. (3) și art. 38 din Legea nr. 126/1995 privind regimul materiilor explozive, republicată, cu modificările și completările ulterioare",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "390",
+  "bis": false,
+  "date": "2026-05-08",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "2.125/1/2025",
+  "996/180/2024"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 126/1995",
+    "number": "126",
+    "year": "1995",
+    "path": "lege/1995/126"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "38",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 197/2016",
+    "number": "197",
+    "year": "2016",
+    "path": "hg/2016/197"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 1.102/2014",
+    "number": "1102",
+    "year": "2014",
+    "path": "hg/2014/1102"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Admite sesizarea formulată de Tribunalul Bacău - Secția a II-a civilă și de contencios administrativ și fiscal.",
+  "Stabilește că, în interpretarea și aplicarea dispozițiilor art. 8 alin. (3) și (5), raportat la art. 1 alin. (3) și art. 38 din Legea nr. 126/1995 privind regimul materiilor explozive, republicată, cu modificările și completările ulterioare, aceste norme sunt incidente și în cazul articolelor pirotehnice ale căror condiții de punere la dispoziție pe piață sunt reglementate prin Hotărârea Guvernului nr. 197/2016 și Hotărârea Guvernului nr. 1.102/2014.",
+  "Stabilește că noțiunea de „transfer“ prevăzută de art. 8 alin. (3) din Legea nr. 126/1995 privind regimul materiilor explozive, republicată, cu modificările și completările ulterioare, include și activitatea de transport al articolelor pirotehnice, astfel încât persoanele care efectuează această activitate au obligația de a deține autorizația prevăzută de lege, iar realizarea transferului prin intermediari neautorizați este interzisă.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 126/1995",
+    "number": "126",
+    "year": "1995",
+    "path": "lege/1995/126"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": [
+      "3",
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "38",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 25
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "HG nr. 197/2016",
+    "number": "197",
+    "year": "2016",
+    "path": "hg/2016/197"
+   },
+   "articles": [
+    {
+     "art": "38",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "63",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 1.102/2014",
+    "number": "1102",
+    "year": "2014",
+    "path": "hg/2014/1102"
+   },
+   "articles": [],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 262/2005",
+    "number": "262",
+    "year": "2005",
+    "path": "lege/2005/262"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 207/2005",
+    "number": "207",
+    "year": "2005",
+    "path": "hg/2005/207"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 612/2010",
+    "number": "612",
+    "year": "2010",
+    "path": "hg/2010/612"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 536/2002",
+    "number": "536",
+    "year": "2002",
+    "path": "hg/2002/536"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2026-05-08",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/310362",
+  "text_sha256": "46c76d737e818d79f1422a679153d0d2ab51c2e18752246cd9e25abe22bb195c",
+  "catalogue_sha256": "46c76d737e818d79f1422a679153d0d2ab51c2e18752246cd9e25abe22bb195c",
+  "fetched": "2026-11-03T00:48:29Z",
+  "chars": 31551,
+  "portal_id": "310362",
+  "tip": "DECIZIE"
+ }
+}
