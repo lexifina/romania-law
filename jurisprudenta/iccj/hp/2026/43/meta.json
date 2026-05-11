@@ -1,0 +1,229 @@
+{
+ "key": "iccj-hp-43-2026",
+ "label": "Decizia ÎCCJ nr. 43/2026 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "43",
+ "date": "2026-03-23",
+ "year": "2026",
+ "heading": "DECIZIA nr. 43 din 23 martie 2026",
+ "subtitle": "referitoare la interpretarea și aplicarea dispozițiilor art. 24 alin. (3) din Legea fondului funciar nr. 18/1991, republicată, cu modificările și completările ulterioare",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "394",
+  "bis": false,
+  "date": "2026-05-11",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.976/1/2025",
+  "165/311/2024"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea fondului funciar nr. 18/1991",
+    "number": "18",
+    "year": "1991",
+    "path": "lege/1991/18"
+   },
+   "articles": [
+    {
+     "art": "24",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Tribunalul Olt - Secția I civilă în Dosarul nr. 165/311/2024, în vederea pronunțării unei hotărâri prealabile pentru dezlegarea următoarelor chestiuni de drept:",
+  "1. Dacă în interpretarea și aplicarea dispozițiilor art. 24 alin. (3) din Legea fondului funciar nr. 18/1991, republicată, cu modificările și completările ulterioare, terenul aferent construcțiilor la care se referă acest text, teren având categoria de curți-construcții, este obligatoriu să fie situat în intravilanul localității sau poate fi situat și în extravilanul localității?",
+  "2. Dacă în interpretarea și aplicarea dispozițiilor art. 24 alin. (3) lit. b) din Legea fondului funciar nr. 18/1991, republicată, cu modificările și completările ulterioare, condiția privind dovada înregistrării construcției în registrul agricol trebuie îndeplinită pe toată durata de existență a respectivei construcții sau doar la momentul formulării cererii de emitere a titlului de proprietate privind constituirea dreptului de proprietate pentru terenurile aferente acestor construcții?",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea fondului funciar nr. 18/1991",
+    "number": "18",
+    "year": "1991",
+    "path": "lege/1991/18"
+   },
+   "articles": [
+    {
+     "art": "24",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "b",
+      "a"
+     ]
+    }
+   ],
+   "mentions": 51
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 263/2022",
+    "number": "263",
+    "year": "2022",
+    "path": "lege/2022/263"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "634",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 213/2018",
+    "number": "213",
+    "year": "2018",
+    "path": "lege/2018/213"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 87/2020",
+    "number": "87",
+    "year": "2020",
+    "path": "lege/2020/87"
+   },
+   "articles": [],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 231/2018",
+    "number": "231",
+    "year": "2018",
+    "path": "lege/2018/231"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 28/2008",
+    "number": "28",
+    "year": "2008",
+    "path": "og/2008/28"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "d"
+     ]
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 247/2005",
+    "number": "247",
+    "year": "2005",
+    "path": "lege/2005/247"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 76/2012",
+    "number": "76",
+    "year": "2012",
+    "path": "lege/2012/76"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2026-05-11",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/310383",
+  "text_sha256": "cbe073807954dfaf8ce04a67406cb3f172e3c3a8cb5bb7f575e81719917f17e9",
+  "catalogue_sha256": "cbe073807954dfaf8ce04a67406cb3f172e3c3a8cb5bb7f575e81719917f17e9",
+  "fetched": "2026-11-03T00:48:28Z",
+  "chars": 74390,
+  "portal_id": "310383",
+  "tip": "DECIZIE"
+ }
+}
