@@ -1,0 +1,29 @@
+# Anexa nr. 2
+PARTEA A*
+* Se completează de către casa teritorială de pensii în evidența căreia s-a constituit dosarul de pensie.
+ROMÂNIA
+CASA JUDEȚEANĂ DE PENSII...............
+CASA DE PENSII A MUNICIPIULUI BUCUREȘTI
+Nr........... din.............
+NOTIFICARE
+Stimată doamnă/Stimate domnule....................,
+Având în vedere Decizia dumneavoastră privind acordarea drepturilor de pensie cuvenite din sistemul public de pensii din România, înregistrată cu nr........... din........., vă aducem la cunoștință că datorați, potrivit prevederilor legale din România, contribuția lunară pentru asigurările sociale de sănătate.
+În vederea reglementării situației dumneavoastră, vă rugăm să completați declarația pe propria răspundere prevăzută în partea B și să o transmiteți, în cel mai scurt timp posibil, casei de asigurări de sănătate competente ale cărei coordonate le regăsiți mai jos**. ** Declarația se transmite casei de asigurări de sănătate din România personal, prin reprezentant legal, poștă, e-mail, fax, la următoarele coordonate de contact:...............................
+Vă informăm că, în conformitate cu prevederile Ordinului președintelui Casei Naționale de Pensii Publice și al președintelui Casei Naționale de Asigurări de Sănătate nr. 64/751/2026 privind reținerea contribuțiilor la Fondul național unic de asigurări sociale de sănătate în cazul pensionarilor sistemului public de pensii din România având locul de ședere obișnuită sau domiciliul declarat pe teritoriul altui stat, până la notificarea de către casa de asigurări de sănătate competentă din România cu privire la exceptarea dumneavoastră, în baza declarației pe propria răspundere pe care urmează să o transmiteți, conform paragrafului anterior, de la plata contribuțiilor la Fondul național unic de asigurări sociale de sănătate, avem obligația de a calcula, de a reține și de a vira contribuțiile lunare de asigurări sociale de sănătate, în condițiile prevăzute de lege.
+Data....................
+Director executiv,........................
+Doamnei/Domnului...................
+Adresa.........................
+PARTEA B*
+* Se completează de către titularul drepturilor de pensie cuvenite din sistemul public de pensii din România cu locul de ședere obișnuită sau domiciliul declarat într-un stat cu care România nu aplică niciun instrument juridic cu caracter internațional în domeniul securității sociale cu prevederi pentru asigurarea de boală și maternitate.
+DECLARAȚIE PE PROPRIA RĂSPUNDERE în vederea reglementării statutului de asigurat în sistemul de asigurări sociale de sănătate în cazul pensionarilor sistemului public de pensii din România cu locul de ședere obișnuită/domiciliul declarat pe teritoriul altui stat
+1.
+Subsemnatul(a),................, codul numeric personal..............., având domiciliul în localitatea................, cod..........., str................ nr.........., bl........, sc......, et......, ap............, județul/provincia/departamentul/regiunea..............., țara......................., posesor (posesoare) al (a) actului de identitate (carte de identitate, pașaport etc.).......... seria............ nr............., eliberat de............... la data de.........., născut(ă) la data de............ în localitatea/județul/provincia/ departamentul/regiunea.............., fiul (fiica) lui............. și al (a)................, declar pe propria răspundere, sub sancțiunile prevăzute de Codul penal pentru declarații neadevărate, că nu am locul de ședere obișnuită sau domiciliul pe teritoriul României.
+2.
+Având în vedere că am locul de ședere obișnuită/domiciliul pe teritoriul.......(Se va indica statul respectiv.)........, solicit exceptarea de la plata contribuției lunare pentru asigurările sociale de sănătate în România.
+3.
+Mă oblig a anunța, în termen de 15 zile calendaristice, casa de asigurări de sănătate competentă din România cu privire la orice schimbare ce va surveni în cele declarate mai sus, în caz contrar fiind pe deplin responsabil(ă) de consecințele inacțiunii mele.
+Am completat și am citit cu atenție conținutul declarației de mai sus, după care am semnat.
+Data..........
+Semnătura.............
+----
