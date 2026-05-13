@@ -1,0 +1,17 @@
+# Propunere legislativă L404/2026
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Propunere legislativă pentru completarea Legii nr.95/2006 privind reforma în domeniul sănătății
+
+Initiator: Membri ai Parlamentului.
+
+## Stages published so far
+
+- 2026-05-13: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
+
+## Documents
+
+- 2026-05-13: Adresă de înaintare a inițiativei (AD): [ad-4a19033e.md](ad-4a19033e.md); official file https://www.senat.ro/legis/PDF/2026/26L404AD.PDF
+- 2026-05-13: Forma inițiatorului (FG): [fg-579c01e6.md](fg-579c01e6.md); official file https://www.senat.ro/legis/PDF/2026/26L404FG.PDF
+- 2026-05-13: Expunere de motive (EM): [em-c0f68d6b.md](em-c0f68d6b.md); official file https://www.senat.ro/legis/PDF/2026/26L404EM.PDF
