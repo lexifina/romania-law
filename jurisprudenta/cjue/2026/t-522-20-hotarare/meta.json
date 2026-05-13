@@ -1,0 +1,50 @@
+{
+ "key": "cjue-t-522-20-hotarare-2026-05-13",
+ "label": "CJUE, Hotărârea Tribunalului (Camera a doua, judecând în complet de cinci judecători) din 13 mai 2026, Cauza T-522/20 RENV",
+ "court": "cjue",
+ "court_name": "Curtea de Justiție a Uniunii Europene",
+ "kind": "hotarare",
+ "act_type": "JUDG",
+ "date": "2026-05-13",
+ "year": "2026",
+ "case": "Cauza T-522/20 RENV",
+ "celex": "62020TJ0522(01)",
+ "ecli": "ECLI:EU:T:2026:346",
+ "heading": "Hotărârea Tribunalului (Camera a doua, judecând în complet de cinci judecători) din 13 mai 2026",
+ "formation": "CHAMB_EXTD_02_T",
+ "procedure": "JUDG_REF_BACK",
+ "romania_role": [
+  "originates"
+ ],
+ "referred_by": null,
+ "referral_text": null,
+ "national_followup": null,
+ "parties": null,
+ "parties_withheld": true,
+ "keywords": "Ajutoare de stat – Sectorul aerian – Măsuri puse în aplicare de România în favoarea aeroportului Timișoara – Măsuri puse în aplicare de aeroportul din Timișoara în favoarea Wizz Air și a companiilor aeriene care îl utilizează – Decizie prin care se constată în parte inexistența unui ajutor de stat în favoarea aeroportului din Timișoara și a companiilor aeriene care îl utilizează – Tarife de aeroport – Acțiune în anulare – Calitate procesuală activă – Afectare individuală – Lipsa afectării substanțiale a poziției concurențiale – Inadmisibilitate parțială – Articolul 107 alineatul (1) TFUE – Eroare de drept – Caracter selectiv – Avantaje",
+ "interprets": [],
+ "text": "dispozitiv.md",
+ "text_withheld": "personal_data",
+ "withheld_reason": "The full text names the parties' lawyers (and, in older cases, private parties); only the metadata and the operative part are published here, with the official link.",
+ "operative_missing": false,
+ "eurlex_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62020TJ0522(01)",
+ "curia_url": "https://curia.europa.eu/juris/liste.jsf?num=T-522/20&language=ro",
+ "source": {
+  "name": "CELLAR, Publications Office of the European Union",
+  "url": "http://publications.europa.eu/resource/cellar/39c8b875-4ea2-11f1-b3e2-01aa75ed71a1.0020.05/DOC_1",
+  "format": "xhtml",
+  "sha256": [
+   "c17beb9a21f8b0224f320df249a993979016c62665f15171af7fcc81ef1c8280"
+  ]
+ },
+ "legal_basis": "Jurisprudența Curții de Justiție a Uniunii Europene (texte oficiale; reutilizare permisă cu menționarea sursei: Decizia Comisiei 2011/833/UE și condițiile CURIA; © Uniunea Europeană). Textele oficiale nu sunt protejate de dreptul de autor în România (Legea nr. 8/1996, art. 9 lit. b).",
+ "attribution": "© European Union, https://eur-lex.europa.eu (via the Publications Office CELLAR)",
+ "operative": [
+  "Pentru aceste motive,",
+  "TRIBUNALUL (Camera a doua, judecând în complet de cinci judecători)",
+  "declară și hotărăște:",
+  "1) Anulează articolul 2 din Decizia (UE) 2021/1428 a Comisiei din 24 februarie 2020 privind ajutorul de stat SA. 31662 – C/2011 (ex NN/2011) pus în aplicare de România în favoarea Aeroportului Internațional Timișoara – Wizz Air în măsura în care concluzionează că tarifele de aeroport prevăzute în publicația de informare aeronautică din 2010 nu constituie ajutor de stat.",
+  "2) Respinge acțiunea cu privire la restul motivelor.",
+  "3) Carpatair SA, Comisia Europeană, Wizz Air Hungary Légiközlekedési Zrt. (Wizz Air Hungary Zrt.) și Societatea Națională „Aeroportul Internațional Timișoara – Traian Vuia” SA (AITTV) vor suporta fiecare propriile cheltuieli de judecată aferente procedurilor în fața Tribunalului și a Curții."
+ ]
+}
