@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2026-04-22: adopted by the Chamber of Deputies
 - 2026-04-27: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2026-04-29: sent for promulgation
+- 2026-05-15: promulgated, becomes Legea nr. 69/2026; published in the Monitorul Oficial; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -36,3 +37,5 @@ Initiator: Guvernul României.
 - 2024-09-16: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L388AM.PDF
 - 2026-04-27: Adresă privind sesizarea CCR (AXS): [axs-13cd551c.md](axs-13cd551c.md); official file https://www.senat.ro/legis/PDF/2024/24L388AXS.PDF
 - 2026-04-27: Forma trimisă la promulgare (LP): [lp-9529bf47.md](lp-9529bf47.md); official file https://www.senat.ro/legis/PDF/2024/24L388LP.PDF
+- 2026-05-15: Decret de promulgare (DP): [dp-01b92693.md](dp-01b92693.md); official file https://www.senat.ro/legis/PDF/2024/24L388DP.PDF
+- 2026-05-15: Forma promulgată (FP): [fp-280413ec.md](fp-280413ec.md); official file https://www.senat.ro/legis/PDF/2024/24L388FP.PDF
