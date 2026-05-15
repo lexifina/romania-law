@@ -20,6 +20,7 @@ Initiator: Guvernul României.
 - 2026-04-22: adopted by the Chamber of Deputies
 - 2026-04-27: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2026-04-29: sent for promulgation
+- 2026-05-15: promulgated, becomes Legea nr. 70/2026; published in the Monitorul Oficial; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -39,3 +40,5 @@ Initiator: Guvernul României.
 - 2024-11-11: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L533AM.PDF
 - 2026-04-27: Adresă privind sesizarea CCR (AXS): [axs-3cd8545a.md](axs-3cd8545a.md); official file https://www.senat.ro/legis/PDF/2024/24L533AXS.PDF
 - 2026-04-27: Forma trimisă la promulgare (LP): [lp-6b34922e.md](lp-6b34922e.md); official file https://www.senat.ro/legis/PDF/2024/24L533LP.PDF
+- 2026-05-15: Decret de promulgare (DP): [dp-e6ff77ec.md](dp-e6ff77ec.md); official file https://www.senat.ro/legis/PDF/2024/24L533DP.PDF
+- 2026-05-15: Forma promulgată (FP): [fp-86a8a937.md](fp-86a8a937.md); official file https://www.senat.ro/legis/PDF/2024/24L533FP.PDF
