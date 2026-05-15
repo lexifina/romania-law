@@ -17,6 +17,7 @@ Initiator: Guvernul României.
 - 2026-04-22: adopted by the Chamber of Deputies
 - 2026-04-27: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2026-04-29: sent for promulgation
+- 2026-05-15: promulgated, becomes Legea nr. 65/2026; published in the Monitorul Oficial; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -31,3 +32,5 @@ Initiator: Guvernul României.
 - 2019-04-08: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L133AM.PDF
 - 2026-04-27: Adresă privind sesizarea CCR (AXS): [axs-818bb0d3.md](axs-818bb0d3.md); official file https://www.senat.ro/legis/PDF/2019/19L133AXS.PDF
 - 2026-04-27: Forma trimisă la promulgare (LP): [lp-184d5125.md](lp-184d5125.md); official file https://www.senat.ro/legis/PDF/2019/19L133LP.PDF
+- 2026-05-15: Decret de promulgare (DP): [dp-dd62972b.md](dp-dd62972b.md); official file https://www.senat.ro/legis/PDF/2019/19L133DP.PDF
+- 2026-05-15: Forma promulgată (FP): [fp-76c82ee8.md](fp-76c82ee8.md); official file https://www.senat.ro/legis/PDF/2019/19L133FP.PDF
