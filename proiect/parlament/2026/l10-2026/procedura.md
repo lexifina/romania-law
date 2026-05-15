@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2026-04-22: adopted by the Chamber of Deputies
 - 2026-04-27: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2026-04-29: sent for promulgation
+- 2026-05-15: promulgated, becomes Legea nr. 64/2026; published in the Monitorul Oficial; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -34,3 +35,5 @@ Initiator: Guvernul României.
 - 2026-03-02: Adresă către Camera Deputaților (AM): [am-4b741d2b.md](am-4b741d2b.md); official file https://www.senat.ro/legis/PDF/2026/26L010AM.PDF
 - 2026-04-27: Adresă privind sesizarea CCR (AXS): [axs-a7d80faf.md](axs-a7d80faf.md); official file https://www.senat.ro/legis/PDF/2026/26L010AXS.PDF
 - 2026-04-27: Forma trimisă la promulgare (LP): [lp-6ac18e28.md](lp-6ac18e28.md); official file https://www.senat.ro/legis/PDF/2026/26L010LP.PDF
+- 2026-05-15: Decret de promulgare (DP): [dp-22b939c4.md](dp-22b939c4.md); official file https://www.senat.ro/legis/PDF/2026/26L010DP.PDF
+- 2026-05-15: Forma promulgată (FP): [fp-34d58f65.md](fp-34d58f65.md); official file https://www.senat.ro/legis/PDF/2026/26L010FP.PDF
