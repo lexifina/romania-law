@@ -21,6 +21,7 @@ Initiator: Membri ai Parlamentului.
 - 2026-04-22: adopted by the Chamber of Deputies
 - 2026-04-27: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2026-05-04: sent for promulgation
+- 2026-05-15: promulgated, becomes Legea nr. 72/2026; published in the Monitorul Oficial; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -39,3 +40,5 @@ Initiator: Membri ai Parlamentului.
 - 2025-10-06: Adresă către Camera Deputaților (AM): [am-61938d83.md](am-61938d83.md); official file https://www.senat.ro/legis/PDF/2025/25L306AM.PDF
 - 2026-04-27: Adresă privind sesizarea CCR (AXS): [axs-00ea91b0.md](axs-00ea91b0.md); official file https://www.senat.ro/legis/PDF/2025/25L306AXS.PDF
 - 2026-04-27: Forma trimisă la promulgare (LP): [lp-a4ce5eec.md](lp-a4ce5eec.md); official file https://www.senat.ro/legis/PDF/2025/25L306LP.PDF
+- 2026-05-15: Decret de promulgare (DP): [dp-87bf2c02.md](dp-87bf2c02.md); official file https://www.senat.ro/legis/PDF/2025/25L306DP.PDF
+- 2026-05-15: Forma promulgată (FP): [fp-4e7b5d26.md](fp-4e7b5d26.md); official file https://www.senat.ro/legis/PDF/2025/25L306FP.PDF
