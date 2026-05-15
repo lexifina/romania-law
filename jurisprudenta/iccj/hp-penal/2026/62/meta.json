@@ -1,0 +1,269 @@
+{
+ "key": "iccj-hp-penal-62-2026",
+ "label": "Decizia ÎCCJ nr. 62/2026 (HP penal)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp-penal",
+ "number": "62",
+ "date": "2026-04-20",
+ "year": "2026",
+ "heading": "DECIZIA nr. 62 din 20 aprilie 2026",
+ "subtitle": "referitoare la interpretarea și aplicarea dispozițiilor art. 1.381 alin. (2) și (3) din Codul civil, art. 1.531 alin. (1), (2) și (3) din Codul civil, art. 1.535 alin. (1) din Codul civil și ale art. 25 raportat la art. 397 din Codul de procedură penală",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT ÎN MATERIE PENALĂ",
+ "mo": {
+  "number": "413",
+  "bis": false,
+  "date": "2026-05-15",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.555/1/2025",
+  "3.237/201/2023",
+  "2.319/1/2025"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "1381",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1531",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1535",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "397",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Curtea de Apel Craiova - Secția penală și pentru cauze cu minori în Dosarul nr. 3.237/201/2023, prin care se solicită pronunțarea unei hotărâri prealabile pentru dezlegarea chestiunii de drept: Dacă în interpretarea și aplicarea dispozițiilor art. 1.381 alin. (2) și (3) din Codul civil, art. 1.531 alin. (1), (2) și (3) din Codul civil, art. 1.535 alin. (1) din Codul civil și ale art. 25 raportat la art. 397 din Codul de procedură penală, în cazul răspunderii civile delictuale, repararea integrală a prejudiciilor materiale și morale produse prin accidente de circulație presupune stabilirea dobânzilor legale penalizatoare de la data producerii accidentului sau de la data rămânerii definitive a hotărârii.",
+  "Obligatorie de la data publicării în Monitorul Oficial al României, Partea I, potrivit art. 477 alin. (3) din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "1381",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1531",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1535",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1385",
+     "alin": [
+      "3",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1386",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1523",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "e"
+     ]
+    },
+    {
+     "art": "1357",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 35
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "397",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "475",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "19",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "476",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "473",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 17
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 13/2011",
+    "number": "13",
+    "year": "2011",
+    "path": "og/2011/13"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "3",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 132/2017",
+    "number": "132",
+    "year": "2017",
+    "path": "lege/2017/132"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2026-05-15",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/310517",
+  "text_sha256": "ad674870ca62910ee6e231f8a88576d8cc3f66845db2caa4282598ad0ab58331",
+  "catalogue_sha256": "ad674870ca62910ee6e231f8a88576d8cc3f66845db2caa4282598ad0ab58331",
+  "fetched": "2026-11-03T00:48:18Z",
+  "chars": 36985,
+  "portal_id": "310517",
+  "tip": "DECIZIE"
+ }
+}
