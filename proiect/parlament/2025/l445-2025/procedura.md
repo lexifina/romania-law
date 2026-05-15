@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2026-04-22: adopted by the Chamber of Deputies
 - 2026-04-27: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2026-05-04: sent for promulgation
+- 2026-05-15: promulgated, becomes Legea nr. 71/2026; published in the Monitorul Oficial; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -34,3 +35,5 @@ Initiator: Guvernul României.
 - 2025-11-19: Adresă către Camera Deputaților (AM): [am-0de23be5.md](am-0de23be5.md); official file https://www.senat.ro/legis/PDF/2025/25L445AM.PDF
 - 2026-04-27: Adresă privind sesizarea CCR (AXS): [axs-d7f61e88.md](axs-d7f61e88.md); official file https://www.senat.ro/legis/PDF/2025/25L445AXS.PDF
 - 2026-04-27: Forma trimisă la promulgare (LP): [lp-5cbfd154.md](lp-5cbfd154.md); official file https://www.senat.ro/legis/PDF/2025/25L445LP.PDF
+- 2026-05-15: Decret de promulgare (DP): [dp-10f2c403.md](dp-10f2c403.md); official file https://www.senat.ro/legis/PDF/2025/25L445DP.PDF
+- 2026-05-15: Forma promulgată (FP): [fp-90c49590.md](fp-90c49590.md); official file https://www.senat.ro/legis/PDF/2025/25L445FP.PDF
