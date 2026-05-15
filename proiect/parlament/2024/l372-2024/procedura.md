@@ -17,6 +17,7 @@ Initiator: Guvernul României.
 - 2026-04-22: adopted by the Chamber of Deputies
 - 2026-04-27: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2026-04-29: sent for promulgation
+- 2026-05-15: promulgated, becomes Legea nr. 68/2026; published in the Monitorul Oficial; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -32,3 +33,5 @@ Initiator: Guvernul României.
 - 2024-09-16: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L372AM.PDF
 - 2026-04-27: Adresă privind sesizarea CCR (AXS): [axs-9ea453eb.md](axs-9ea453eb.md); official file https://www.senat.ro/legis/PDF/2024/24L372AXS.PDF
 - 2026-04-27: Forma trimisă la promulgare (LP): [lp-b42d4e5a.md](lp-b42d4e5a.md); official file https://www.senat.ro/legis/PDF/2024/24L372LP.PDF
+- 2026-05-15: Decret de promulgare (DP): [dp-ca9f61f9.md](dp-ca9f61f9.md); official file https://www.senat.ro/legis/PDF/2024/24L372DP.PDF
+- 2026-05-15: Forma promulgată (FP): [fp-c59c0d73.md](fp-c59c0d73.md); official file https://www.senat.ro/legis/PDF/2024/24L372FP.PDF
