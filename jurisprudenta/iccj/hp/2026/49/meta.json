@@ -1,0 +1,254 @@
+{
+ "key": "iccj-hp-49-2026",
+ "label": "Decizia ÎCCJ nr. 49/2026 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "49",
+ "date": "2026-03-23",
+ "year": "2026",
+ "heading": "DECIZIA nr. 49 din 23 martie 2026",
+ "subtitle": "referitoare la interpretarea și aplicarea dispozițiilor art. 1 și ale art. 2 din Legea nr. 125/2014 privind scutirea de la plată a unor debite provenite din pensii",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "415",
+  "bis": false,
+  "date": "2026-05-15",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "408/1/2026",
+  "3.516/30/2022"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 125/2014",
+    "number": "125",
+    "year": "2014",
+    "path": "lege/2014/125"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 285/2024",
+    "number": "285",
+    "year": "2024",
+    "path": "lege/2024/285"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "III",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge ca inadmisibilă sesizarea formulată de Curtea de Apel Timișoara - Secția litigii de muncă și asigurări sociale, în Dosarul nr. 3.516/30/2022, privind lămurirea următoarei chestiuni de drept:",
+  "Dacă în interpretarea și aplicarea dispozițiilor art. 1 și ale art. 2 din Legea nr. 125/2014 privind scutirea de la plată a unor debite provenite din pensii, așa cum au fost modificate prin art. 1 din Legea nr. 285/2024, coroborat cu art. III din Legea nr. 285/2024, debitele reprezentând sume încasate cu titlu de pensie în baza unor hotărâri judecătorești desființate în căile de atac fac obiectul scutirii de plată",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 125/2014",
+    "number": "125",
+    "year": "2014",
+    "path": "lege/2014/125"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "III",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 285/2024",
+    "number": "285",
+    "year": "2024",
+    "path": "lege/2024/285"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "III",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 62/2024",
+    "number": "62",
+    "year": "2024",
+    "path": "oug/2024/62"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 360/2023",
+    "number": "360",
+    "year": "2023",
+    "path": "lege/2023/360"
+   },
+   "articles": [],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "448",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "637",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "633",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 130/2015",
+    "number": "130",
+    "year": "2015",
+    "path": "lege/2015/130"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituția României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "126",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2026-05-15",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/310530",
+  "text_sha256": "b0b24765a2798f91c68310bbfdd9e54ecb8f543312a68def1a1c6ec3d87a8fa2",
+  "catalogue_sha256": "b0b24765a2798f91c68310bbfdd9e54ecb8f543312a68def1a1c6ec3d87a8fa2",
+  "fetched": "2026-11-03T18:49:03Z",
+  "chars": 28579,
+  "portal_id": "310530",
+  "tip": "DECIZIE"
+ }
+}
