@@ -18,6 +18,7 @@ Initiator: Membri ai Parlamentului.
 - 2024-03-05: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților
 - 2024-03-11: registered at the Chamber of Deputies
 - 2026-05-13: adopted by the Chamber of Deputies
+- 2026-05-18: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 
 ## Documents
 
@@ -31,3 +32,5 @@ Initiator: Membri ai Parlamentului.
 - 2024-02-26: Raport comisie sesizată pe fond (CR): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L085CR.PDF
 - 2024-03-05: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L085FS.PDF
 - 2024-03-05: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L085AM.PDF
+- 2026-05-18: Adresă privind sesizarea CCR (AXS): [axs-f118bd50.md](axs-f118bd50.md); official file https://www.senat.ro/legis/PDF/2024/24L085AXS.PDF
+- 2026-05-18: Forma trimisă la promulgare (LP): [lp-80086df8.md](lp-80086df8.md); official file https://www.senat.ro/legis/PDF/2024/24L085LP.PDF
