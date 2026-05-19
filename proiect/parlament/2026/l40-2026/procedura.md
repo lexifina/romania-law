@@ -14,6 +14,7 @@ Initiator: Membri ai Parlamentului.
 - 2026-03-04: documents published: Raport comisie sesizată pe fond
 - 2026-03-11: rejected by the Senate; documents published: Adresă către Camera Deputaților
 - 2026-03-16: registered at the Chamber of Deputies
+- 2026-05-19: documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -25,3 +26,6 @@ Initiator: Membri ai Parlamentului.
 - 2026-02-17: Aviz comisie (CA58): [ca58-73bc617b.md](ca58-73bc617b.md); official file https://www.senat.ro/legis/PDF/2026/26L040CA58.PDF
 - 2026-03-04: Raport comisie sesizată pe fond (CR): [cr-f365fdec.md](cr-f365fdec.md); official file https://www.senat.ro/legis/PDF/2026/26L040CR.PDF
 - 2026-03-11: Adresă către Camera Deputaților (AM): [am-8fd244b1.md](am-8fd244b1.md); official file https://www.senat.ro/legis/PDF/2026/26L040AM.PDF
+- 2026-05-19: Document (CF): [cf-5540432e.md](cf-5540432e.md); official file https://www.senat.ro/legis/PDF/2026/26L040CF.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-05-19: Document (SM): [sm-c7af70bb.md](sm-c7af70bb.md); official file https://www.senat.ro/legis/PDF/2026/26L040SM.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-05-19: Document (BNR): [bnr-a5c23ab8.md](bnr-a5c23ab8.md); official file https://www.senat.ro/legis/PDF/2026/26L040BNR.PDF (its day is not given by the bill file: shown from the last stage held)
