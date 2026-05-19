@@ -1,0 +1,239 @@
+{
+ "key": "iccj-hp-46-2026",
+ "label": "Decizia ÎCCJ nr. 46/2026 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "46",
+ "date": "2026-03-23",
+ "year": "2026",
+ "heading": "DECIZIA nr. 46 din 23 martie 2026",
+ "subtitle": "referitoare la pensia de serviciu de care ar putea să beneficieze personalul auxiliar de specialitate al instanțelor judecătorești și al parchetelor de pe lângă acestea, cu o vechime în specialitate între 20 și 25 de ani",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "420",
+  "bis": false,
+  "date": "2026-05-19",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "265/1/2026",
+  "367/111/2024"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 567/2004",
+    "number": "567",
+    "year": "2004",
+    "path": "lege/2004/567"
+   },
+   "articles": [
+    {
+     "art": "68-5",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Respinge ca inadmisibilă sesizarea formulată de Curtea de Apel Oradea - Secția I civilă, în Dosarul nr. 367/111/2024, privind lămurirea următoarei chestiuni de drept: Dacă, în interpretarea dispozițiilor art. 68^5 alin. (2) din Legea nr. 567/2004, beneficiază de pensie de serviciu personalul auxiliar de specialitate al instanțelor judecătorești și al parchetelor de pe lângă acestea, cu o vechime în specialitate între 20 și 25 de ani, care, la data împlinirii vârstei standard de pensionare prevăzută de lege, se află într-o altă categorie de pensie din sistemul public (pensie anticipată parțială/pensie de invaliditate etc.).",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 567/2004",
+    "number": "567",
+    "year": "2004",
+    "path": "lege/2004/567"
+   },
+   "articles": [
+    {
+     "art": "68-5",
+     "alin": [
+      "2",
+      "1",
+      "7"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 25
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 62/2024",
+    "number": "62",
+    "year": "2024",
+    "path": "oug/2024/62"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 130/2015",
+    "number": "130",
+    "year": "2015",
+    "path": "lege/2015/130"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 282/2023",
+    "number": "282",
+    "year": "2023",
+    "path": "lege/2023/282"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 227/2015",
+    "number": "227",
+    "year": "2015",
+    "path": "lege/2015/227"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2026",
+    "number": "24",
+    "year": "2026",
+    "path": "lege/2026/24"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 303/2022",
+    "number": "303",
+    "year": "2022",
+    "path": "lege/2022/303"
+   },
+   "articles": [
+    {
+     "art": "V",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "211",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 361/2023",
+    "number": "361",
+    "year": "2023",
+    "path": "lege/2023/361"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2026-05-19",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/310592",
+  "text_sha256": "2ed24bc73130d231a9aa46b07bedd54a3cbef239aa8b68d0ce002ac076a0e8e2",
+  "catalogue_sha256": "2ed24bc73130d231a9aa46b07bedd54a3cbef239aa8b68d0ce002ac076a0e8e2",
+  "fetched": "2026-11-03T00:48:31Z",
+  "chars": 54800,
+  "portal_id": "310592",
+  "tip": "DECIZIE"
+ }
+}
