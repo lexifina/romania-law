@@ -17,6 +17,7 @@ Initiator: Guvernul României.
 - 2026-02-02: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților
 - 2026-05-13: adopted by the Chamber of Deputies; documents published: Forma adoptată de Camera Deputaților
 - 2026-05-18: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
+- 2026-05-20: sent for promulgation; promulgated, becomes Legea nr. 74/2026; published in the Monitorul Oficial; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -35,3 +36,5 @@ Initiator: Guvernul României.
 - 2026-05-13: Forma adoptată de Camera Deputaților (FC): [fc-b6f86e7f.md](fc-b6f86e7f.md); official file https://www.senat.ro/legis/PDF/2025/25L590FC.PDF
 - 2026-05-18: Adresă privind sesizarea CCR (AXS): [axs-ad5fcae0.md](axs-ad5fcae0.md); official file https://www.senat.ro/legis/PDF/2025/25L590AXS.PDF
 - 2026-05-18: Forma trimisă la promulgare (LP): [lp-b8eb109d.md](lp-b8eb109d.md); official file https://www.senat.ro/legis/PDF/2025/25L590LP.PDF
+- 2026-05-20: Decret de promulgare (DP): [dp-3e8c11b1.md](dp-3e8c11b1.md); official file https://www.senat.ro/legis/PDF/2025/25L590DP.PDF
+- 2026-05-20: Forma promulgată (FP): [fp-e229e3fe.md](fp-e229e3fe.md); official file https://www.senat.ro/legis/PDF/2025/25L590FP.PDF
