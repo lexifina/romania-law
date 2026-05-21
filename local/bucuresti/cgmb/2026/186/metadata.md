@@ -1,0 +1,12 @@
+# HCGMB nr. 186/2026
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+- Council: Consiliul General al Municipiului București
+- Decision: nr. 186/2026
+- Adopted: 2026-05-13
+- Published: 2026-05-21
+- Title: PRIVIND APROBAREA STUDIULUI DE FEZABILITATE, A INDICATORILOR TEHNICO-ECONOMICI SI A DEVIZULUI GENERAL PENTRU OBIECTIVUL DE INVESTITII “MODERNIZARE SI EXTINDEREA SISTEMULUI DE SEMAFORIZARE INTELIGENTA (MANAGERNENTUL TRAFICULUI BUCURESTI - ILFOV) SI PRIORITIZAREA VEHICULELOR DE TRANSPORT PUBLIC, IN VEDEREA CRESTERII SIGURANTEI RUTIERE, FLUIDIZARII TRAFICULUI SI REDUCERII POLUARII - ETAPA I - MODERNIZAREA SISTEMULUI DE SEMAFORIZARE AFERENTA” ANEXA NR. 1 MODIFICATA PRIN HCGMB NR. 242/2026
+- Record: https://acteinterne.pmb.ro/legis/acteinterne/acte_int/48044
+- Document: https://doc.pmb.ro/legis/acteinterne/2026/48044/h186_26.pdf
+- Document sha256: c7bec2f30d9b1d22731e014cf0a879f172440b9c522a89ec7aa45c048f7dbfb8
