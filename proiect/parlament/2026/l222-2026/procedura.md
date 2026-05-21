@@ -12,6 +12,7 @@ Initiator: Membri ai Parlamentului.
 - 2026-03-02: documents published: Aviz Consiliul Economic și Social, Aviz Consiliul Legislativ
 - 2026-04-14: documents published: Aviz comisie
 - 2026-04-15: documents published: Aviz comisie
+- 2026-05-21: adopted by the Senate; documents published: Document (day not given by the bill file), Forma adoptată de Senat, Adresă către Camera Deputaților
 
 ## Documents
 
@@ -22,3 +23,7 @@ Initiator: Membri ai Parlamentului.
 - 2026-03-02: Aviz Consiliul Legislativ (LG): [lg-c787f099.md](lg-c787f099.md); official file https://www.senat.ro/legis/PDF/2026/26L222LG.PDF
 - 2026-04-14: Aviz comisie (CA8): [ca8-97a170f9.md](ca8-97a170f9.md); official file https://www.senat.ro/legis/PDF/2026/26L222CA8.PDF
 - 2026-04-15: Aviz comisie (CA45): [ca45-c30a04b3.md](ca45-c30a04b3.md); official file https://www.senat.ro/legis/PDF/2026/26L222CA45.PDF
+- 2026-05-21: Document (AG1): [ag1-96b6c683.md](ag1-96b6c683.md); official file https://www.senat.ro/legis/PDF/2026/26L222AG1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-05-21: Document (CF): [cf-14fc9452.md](cf-14fc9452.md); official file https://www.senat.ro/legis/PDF/2026/26L222CF.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-05-21: Forma adoptată de Senat (FS): [fs-c05305e1.md](fs-c05305e1.md); official file https://www.senat.ro/legis/PDF/2026/26L222FS.PDF
+- 2026-05-21: Adresă către Camera Deputaților (AM): [am-ea996ec2.md](am-ea996ec2.md); official file https://www.senat.ro/legis/PDF/2026/26L222AM.PDF
