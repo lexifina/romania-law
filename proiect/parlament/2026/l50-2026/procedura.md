@@ -15,6 +15,7 @@ Initiator: Membri ai Parlamentului.
 - 2026-03-18: documents published: Raport comisie sesizată pe fond
 - 2026-03-30: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților
 - 2026-04-01: registered at the Chamber of Deputies
+- 2026-05-21: documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -28,3 +29,7 @@ Initiator: Membri ai Parlamentului.
 - 2026-03-18: Raport comisie sesizată pe fond (CR): [cr-8082e76d.md](cr-8082e76d.md); official file https://www.senat.ro/legis/PDF/2026/26L050CR.PDF
 - 2026-03-30: Forma adoptată de Senat (FS): [fs-6308c4f1.md](fs-6308c4f1.md); official file https://www.senat.ro/legis/PDF/2026/26L050FS.PDF
 - 2026-03-30: Adresă către Camera Deputaților (AM): [am-e38d1f52.md](am-e38d1f52.md); official file https://www.senat.ro/legis/PDF/2026/26L050AM.PDF
+- 2026-05-21: Document (CF): [cf-0e808bc1.md](cf-0e808bc1.md); official file https://www.senat.ro/legis/PDF/2026/26L050CF.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-05-21: Document (SM): [sm-d7ca07df.md](sm-d7ca07df.md); official file https://www.senat.ro/legis/PDF/2026/26L050SM.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-05-21: Document (AT): [at-d53e8489.md](at-d53e8489.md); official file https://www.senat.ro/legis/PDF/2026/26L050AT.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-05-21: Document (S1): [s1-8eb11f70.md](s1-8eb11f70.md); official file https://www.senat.ro/legis/PDF/2026/26L050S1.PDF (its day is not given by the bill file: shown from the last stage held)
