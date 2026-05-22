@@ -1,0 +1,12 @@
+# HCGMB nr. 205/2026
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+- Council: Consiliul General al Municipiului București
+- Decision: nr. 205/2026
+- Adopted: 2026-05-13
+- Published: 2026-05-22
+- Title: PENTRU MODIFICAREA HOTARARII CONSILIULUI GENERAL AL MUNICIPIULUI BUCURESTI NR. 145 / 03.04.2025 PRIVIND APROBAREA DOCUMENTATIEI DE AVIZARE A LUCRARILOR DE INTERVENTII, A INDICATORILOR TEHNICO - ECONOMICI SI A DEVIZULUI GENERAL AFERENT PROIECTULUI PNRR/2022/C5/1/A1/1, NR. C5-A1.10, PENTRU OBIECTIVUL DE INVESTITII „CONSOLIDARE SEISMICA SI RENOVARE ENERGETICA MODERATA CLADIRE REZIDENTIALA MULTIFAMILIALA SITUATA IN BD. CAROL I, NR. 21, SECTOR 3, BUCURESTI” MODIFICA TITLUL, ART. 1 SI ART. 4, ANEXELE NR. 1 SI NR. 2 DIN HCGMB NR. 145/2025
+- Record: https://acteinterne.pmb.ro/legis/acteinterne/acte_int/48063
+- Document: https://doc.pmb.ro/legis/acteinterne/2026/48063/h205_26.pdf
+- Document sha256: cff0a7ec9d866c1a21557e52a569c6a272107d4817df3e40611ff3f0301dd92d
