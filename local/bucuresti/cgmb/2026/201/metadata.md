@@ -1,0 +1,12 @@
+# HCGMB nr. 201/2026
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+- Council: Consiliul General al Municipiului București
+- Decision: nr. 201/2026
+- Adopted: 2026-05-13
+- Published: 2026-05-22
+- Title: PENTRU MODIFICAREA HOTARARII CONSILIULUI GENERAL AL MUNICIPIULUI BUCURESTI NR. 159/31.07.2024 PRIVIND APROBAREA DOCUMENTATIEI DE AVIZARE A LUCRARILOR DE INTERVENTII, A INDICATORILOR TEHNICO-ECONOMICI SI A DEVIZULUI GENERAL AFERENT PROIECTULUI PNRR/2022/C5/2/A1/1, NR. C5-AL-207, PENTRU OBIECTIVUL DE INVESTITII “CONSOLIDARE SEISMICA SI RENOVARE ENERGETICA MODERATA CLADIRE REZIDENTIALA MULTIFAMILIALA SITUATA IN PIATA PACHE PROTOPOPESCU, NR. 11, SECTOR 2, BUCURESTI MODIFICA TITLUL, ART. 1 SI ART. 4, ANEXELE NR. 1 SI NR. 2 DIN HCGMB NR. 159/2024
+- Record: https://acteinterne.pmb.ro/legis/acteinterne/acte_int/48059
+- Document: https://doc.pmb.ro/legis/acteinterne/2026/48059/h201_26.pdf
+- Document sha256: ebcddd86affd0194bc2ef377950d32fa5eddbe807950acafc55ee56b94ec172c
