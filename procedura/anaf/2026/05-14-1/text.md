@@ -1,0 +1,29 @@
+# Text
+Notă
+...
+Aprobată prin ORDINUL nr. 608 din 14 mai 2026 , publicat în Monitorul Oficial al României, Partea I, nr. 436 din 25 mai 2026.
+1.
+Verificările privind respectarea cerințelor de raportare și a procedurilor de diligență fiscală se efectuează pe baza informațiilor raportate de către Furnizorii de Servicii de Criptoactive Raportori prin formularul pus la dispoziție de Agenția Națională de Administrare Fiscală, în scopul identificării Furnizorilor de Servicii de Criptoactive Raportori care se află în următoarele situații: 1.1.
+nu au raportat la autoritatea competentă din România, în sensul secțiunii I , subsecțiunile A , B și C din secțiunea II a anexei nr. 6 la Legea nr. 207/2015 privind Codul de procedură fiscală , cu modificările și completările ulterioare ( Codul de procedură fiscal ), informațiile prevăzute la subsecțiunea B, încălcând astfel prevederile subsecțiunii A din secțiunea II a anexei nr. 6 la Codul de procedură fiscală ;
+1.2.
+nu au raportat informațiile aferente anului calendaristic precedent prevăzute la subsecțiunea B din anexa nr. 6 la Codul de procedură fiscală cel mai târziu până la data de 15 martie inclusiv a anului calendaristic curent, încălcând astfel prevederile pct. 2 al subsecțiunii D din secțiunea II a anexei nr. 6 la Codul de procedură fiscală ;
+1.3.
+nu au transmis informațiile cerute la subsecțiunea B referitoare la un Utilizator supus raportării sau la o persoană care exercită controlul, conform lit. a) , b) , c) sau d) de la pct. 2 subsecțiunea A secțiunea I din anexa nr. 6 la Codul de procedură fiscală , atunci când aceste informații nu au fost raportate într-o jurisdicție din afara Uniunii Europene care nu beneficiază de un acord efectiv privind stabilirea autorității competente, încheiat cu statul membru de rezidență al utilizatorului sau al persoanei care exercită controlul, încălcând astfel prevederile subsecțiunii E din secțiunea II a anexei nr. 6 la Codul de procedură fiscală ;
+1.4.
+nu au respectat procedurile de diligență fiscală pentru a stabili dacă persoana fizică ce este Utilizator de Criptoactive este un Utilizator care face obiectul raportării, încălcând astfel prevederile subsecțiunii A din secțiunea III a anexei nr. 6 la Codul de procedură fiscală ;
+1.5.
+nu au respectat procedurile de diligență fiscală pentru a stabili dacă entitatea care este Utilizator de Criptoactive reprezintă un Utilizator care face obiectul raportării sau o entitate, alta decât o Persoană Exclusă ori o Entitate Activă, având una sau mai multe Persoane care exercită controlul și care sunt Persoane ce fac obiectul raportării, conform subsecțiunii B din secțiunea III a anexei nr. 6 la Codul de procedură fiscală ;
+1.6.
+nu au îndeplinit cerințele privind valabilitatea declarației pe propria răspundere furnizate de o persoană fizică ce are calitatea de Utilizator de Criptoactive sau de o Persoană care exercită controlul, întrucât aceasta este valabilă numai dacă este semnată sau confirmată în alt mod de către persoana respectivă, este datată cel târziu la data primirii și conține informațiile referitoare la persoana fizică având calitatea de Utilizator de Criptoactive ori la Persoana care exercită controlul, încălcând astfel prevederile subsecțiunii C pct. 1 din secțiunea III a anexei nr. 6 la Codul de procedură fiscală ;
+1.7.
+nu au respectat cerințele privind valabilitatea declarației pe propria răspundere furnizate de o entitate care are calitatea de Utilizator de Criptoactive, întrucât aceasta este valabilă numai dacă este semnată sau confirmată în alt mod de către entitatea respectivă, este datată cel târziu la data primirii și conține informațiile referitoare la entitatea care are calitatea de Utilizator de Criptoactive, încălcând astfel prevederile subsecțiunii C pct. 2 din secțiunea III a anexei nr. 6 la Codul de procedură fiscală ;
+1.8.
+nu au respectat cerințele generale privind diligența fiscală, în situația în care un Furnizor de Servicii de Criptoactive Raportor, care este și instituție financiară, nu s-a bazat pe procedurile de diligență fiscală finalizate conform secțiunilor IV și VI din anexa nr. 1 la Codul de procedură fiscală sau pe o declarație pe propria răspundere conformă cu subsecțiunea C din anexa nr. 6 la Codul de procedură fiscală , încălcând astfel prevederile subsecțiunii D pct. 1 din secțiunea III a anexei nr. 6 la Codul de procedură fiscală ;
+1.9.
+nu au respectat cerințele generale privind diligența fiscală, în conformitate cu prevederile subsecțiunii D pct. 2 din secțiunea III a anexei nr. 6 la Codul de procedură fiscală , referitoare la: – încredințarea unui terț a obligațiilor de diligență fiscală, fără a respecta faptul că aceste obligații rămân în responsabilitatea exclusivă a Furnizorului de Servicii de Criptoactive Raportor;
+– utilizarea furnizorilor de servicii pentru îndeplinirea obligațiilor de diligență fiscală, inclusiv documentația (declarații pe propria răspundere) colectată de aceștia, fără respectarea obligațiilor legale ce revin Furnizorului de Servicii de Criptoactive Raportor;
+– achiziționarea companiei unui alt Furnizor de Servicii de Criptoactive Raportor și bazarea pe stabilirea statutului Utilizatorilor de Criptoactive de către predecesor, deși existau motive să suspecteze inexactitatea statutului sau schimbarea circumstanțelor;
+– neîndeplinirea obligației de desemnare a unui singur Furnizor de Servicii de Criptoactive Raportor pentru o Tranzacție Relevantă, ceea ce a condus la aplicarea repetată sau multiplă a procedurilor de diligență fiscală asupra aceluiași Utilizator de Criptoactive.
+2.
+În situațiile prevăzute la pct. 1 , Direcția generală de informații fiscale și organele de control din cadrul direcțiilor generale regionale ale finanțelor publice aplică în mod corespunzător prevederile art. 336 alin. (1) și (2) și ale art. 339 alin. (3) și (4) din Legea nr. 207/2015 privind Codul de procedură fiscală , cu modificările și completările ulterioare.
+-------
