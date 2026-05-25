@@ -1,0 +1,227 @@
+{
+ "key": "iccj-hp-58-2026",
+ "label": "Decizia ÎCCJ nr. 58/2026 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "58",
+ "date": "2026-04-20",
+ "year": "2026",
+ "heading": "DECIZIA nr. 58 din 20 aprilie 2026",
+ "subtitle": "referitoare la interpretarea dispozițiilor art. 4^1 lit. b) din Hotărârea Guvernului nr. 1.867/2005 și ale art. 20^1 din Legea nr. 80/1995",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "438",
+  "bis": false,
+  "date": "2026-05-25",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.511/1/2025",
+  "2.904/110/2024"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 1.867/2005",
+    "number": "1867",
+    "year": "2005",
+    "path": "hg/2005/1867"
+   },
+   "articles": [
+    {
+     "art": "4-1",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 80/1995",
+    "number": "80",
+    "year": "1995",
+    "path": "lege/1995/80"
+   },
+   "articles": [
+    {
+     "art": "20-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Curtea de Apel Bacău - Secția a II-a civilă, de contencios administrativ și fiscal în Dosarul nr. 2.904/110/2024, în vederea pronunțării unei hotărâri prealabile cu privire la următoarea chestiune de drept:",
+  "În interpretarea dispozițiilor art. 4^1 lit. b) din Hotărârea Guvernului nr. 1.867/2005 și ale art. 20^1 din Legea nr. 80/1995, beneficiază de compensația lunară pentru chirie cadrul militar care a achiziționat o locuință împreună cu soția sa, pentru care a încheiat un contract de credit ipotecar în care figurează în calitate de codebitor o terță persoană?",
+  "Obligatorie, potrivit art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 1.867/2005",
+    "number": "1867",
+    "year": "2005",
+    "path": "hg/2005/1867"
+   },
+   "articles": [
+    {
+     "art": "4-1",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 17
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 80/1995",
+    "number": "80",
+    "year": "1995",
+    "path": "lege/1995/80"
+   },
+   "articles": [
+    {
+     "art": "20-1",
+     "alin": [
+      "2-1",
+      "2-2",
+      "2-3",
+      "2-5",
+      "3",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "634",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "96",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "488",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 554/2004",
+    "number": "554",
+    "year": "2004",
+    "path": "lege/2004/554"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 288/2018",
+    "number": "288",
+    "year": "2018",
+    "path": "lege/2018/288"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 101/2019",
+    "number": "101",
+    "year": "2019",
+    "path": "lege/2019/101"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 1.867/2025",
+    "number": "1867",
+    "year": "2025",
+    "path": "hg/2025/1867"
+   },
+   "articles": [
+    {
+     "art": "4-1",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2026-05-25",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/310963",
+  "text_sha256": "8f68d73b02ece88fd078c7d7b3a8cdb767ca2473f7e78e3a3d4ae3640629bd40",
+  "catalogue_sha256": "8f68d73b02ece88fd078c7d7b3a8cdb767ca2473f7e78e3a3d4ae3640629bd40",
+  "fetched": "2026-11-03T00:48:05Z",
+  "chars": 47782,
+  "portal_id": "310963",
+  "tip": "DECIZIE"
+ }
+}
