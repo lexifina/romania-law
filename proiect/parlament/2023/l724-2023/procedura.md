@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2026-04-29: adopted by the Chamber of Deputies
 - 2026-05-06: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2026-05-08: sent for promulgation
+- 2026-05-26: promulgated, becomes Legea nr. 78/2026; published in the Monitorul Oficial; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -36,3 +37,5 @@ Initiator: Guvernul României.
 - 2024-02-12: Adresă către Camera Deputaților (AM): [am-cb8a20dd.md](am-cb8a20dd.md); official file https://www.senat.ro/legis/PDF/2023/23L724AM.PDF
 - 2026-05-06: Adresă privind sesizarea CCR (AXS): [axs-731f2c11.md](axs-731f2c11.md); official file https://www.senat.ro/legis/PDF/2023/23L724AXS.PDF
 - 2026-05-06: Forma trimisă la promulgare (LP): [lp-1781c25e.md](lp-1781c25e.md); official file https://www.senat.ro/legis/PDF/2023/23L724LP.PDF
+- 2026-05-26: Decret de promulgare (DP): [dp-5c36669f.md](dp-5c36669f.md); official file https://www.senat.ro/legis/PDF/2023/23L724DP.PDF
+- 2026-05-26: Forma promulgată (FP): [fp-cdb056ef.md](fp-cdb056ef.md); official file https://www.senat.ro/legis/PDF/2023/23L724FP.PDF
