@@ -11,6 +11,7 @@ Initiator: Guvernul României.
 - 2026-04-27: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
 - 2026-05-13: documents published: Aviz comisie
 - 2026-05-20: documents published: Aviz comisie, Raport comisie sesizată pe fond
+- 2026-05-26: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților
 
 ## Documents
 
@@ -23,3 +24,5 @@ Initiator: Guvernul României.
 - 2026-05-13: Aviz comisie (CA60): [ca60-d7b2cc49.md](ca60-d7b2cc49.md); official file https://www.senat.ro/legis/PDF/2026/26L290CA60.PDF
 - 2026-05-20: Aviz comisie (CA3): [ca3-697f0f84.md](ca3-697f0f84.md); official file https://www.senat.ro/legis/PDF/2026/26L290CA3.PDF
 - 2026-05-20: Raport comisie sesizată pe fond (CR): [cr-4eaf8080.md](cr-4eaf8080.md); official file https://www.senat.ro/legis/PDF/2026/26L290CR.PDF
+- 2026-05-26: Forma adoptată de Senat (FS): [fs-71e44e19.md](fs-71e44e19.md); official file https://www.senat.ro/legis/PDF/2026/26L290FS.PDF
+- 2026-05-26: Adresă către Camera Deputaților (AM): [am-37fc7f65.md](am-37fc7f65.md); official file https://www.senat.ro/legis/PDF/2026/26L290AM.PDF
