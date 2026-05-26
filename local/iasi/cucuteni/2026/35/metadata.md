@@ -1,0 +1,9 @@
+# HCL Cucuteni nr. 35/2026
+
+Text not yet included: no document of it is held. It will be added when it is.
+
+- Council: Consiliul Local al Comunei Cucuteni
+- Decision: nr. 35/2026
+- Adopted: 2026-05-26
+- Title: privind aprobarea Regulamentului de organizare și funcționare al bibliotecii comunale din comuna Cucuteni, județul Iași
+- Record: https://emol.ro/cucuteni-is/registru-hcl/274939
