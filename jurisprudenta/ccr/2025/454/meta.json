@@ -1,0 +1,172 @@
+{
+ "key": "dcc-454-2025",
+ "label": "Decizia CCR nr. 454/2025",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "454",
+ "date": "2025-10-16",
+ "year": "2025",
+ "heading": "DECIZIA nr. 454 din 16 octombrie 2025",
+ "subtitle": "referitoare la excepția de neconstituționalitate a Deciziei nr. 21 din 7 iulie 2020, pronunțată de Înalta Curte de Casație și Justiție - Completul pentru dezlegarea unor chestiuni de drept în materie penală",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "446",
+  "bis": false,
+  "date": "2026-05-27",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "3.648/111/2020/a1",
+  "2.741D/2021",
+  "3.562D/2021",
+  "5.440/271/2021/a2"
+ ],
+ "subjects": [],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepția de neconstituționalitate a Deciziei nr. 21 din 7 iulie 2020, pronunțată de Înalta Curte de Casație și Justiție - Completul pentru dezlegarea unor chestiuni de drept în materie penală, excepție ridicată de Vasile Sălăjan în Dosarul nr. 3.648/111/2020/a1 al Tribunalului Bihor - Secția penală și de Victor Micula în Dosarul nr. 5.440/271/2021/a2 al Judecătoriei Oradea - Secția penală.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului Bihor - Secția penală și Judecătoriei Oradea - Secția penală și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 120/2005",
+    "number": "120",
+    "year": "2005",
+    "path": "oug/2005/120"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 161/2005",
+    "number": "161",
+    "year": "2005",
+    "path": "lege/2005/161"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "324",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "475",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituției",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [
+  "subjects: none parsed"
+ ],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2026-05-27",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/311015",
+  "text_sha256": "fdda2ad06c6ca8a68123a522af66c7700d3ce386d4cf0ee1cad146c9c2d6244b",
+  "catalogue_sha256": "fdda2ad06c6ca8a68123a522af66c7700d3ce386d4cf0ee1cad146c9c2d6244b",
+  "fetched": "2026-11-03T00:48:02Z",
+  "chars": 23795,
+  "portal_id": "311015",
+  "tip": "DECIZIE"
+ }
+}
