@@ -1,0 +1,10 @@
+Având în vedere referatul de aprobare înregistrat la nr.4563 din 21.05.2026, raportul compartimentului de resort din cadrul compartimentului de specialitate al Primarului înregistrat la nr.4570 din 21.05.2026 și avizul comisiei pentru activitati economico financiare, administrație publica locala, juridica și de disciplina;
+Văzând adresa Societății Servicii Publice Orșova S.R.L. nr. 323 din data de 21.05.2026 înregistrată la Primăria municipiului Orșova la nr.4540 din data de 21.05.2026 cu nota de fundamentare și calculul economic estimativ însușite și aprobate prin Hotărârea Consiliului de Administrație nr.6/21.05.2026, Hotărârea Consiliului Local al municipiului Orșova nr. 15 privind înființarea Societății Servicii Publice Orșova SRL, adoptată la data de
+13.03.2025, cu modificările și completările ulterioare;
+În baza prevederilor art.196' din Legea nr.31/1990 (r2) privind societățile, republicată, cu modificările și completările ulterioare, ale Ordonanței de urgență nr.109/2011 privind guvernanța corporativă a întreprinderilor publice, aprobată prin Legea nr.111/2016, cu modificările și completările ulterioare și ale art.129 alin.(1) și alin.(2) lit. d) coroborat cu alin.(7) lit. n) și s) și alin.(2) lit. a) coroborat cu alin.(3) lit. d) din Ordonanța de urgență nr.57/2019, privind Codul administrativ, cu modific[rile și complei[rile ulterioare.
+În temeiul art.139 alin (1) și art.196 alin.(1) lit. a) din Ordonanța de urgență nr.57/2019 privind Codul administrativ, cu modificările și completările ulterioare.
+HOTĂRĂȘTE:
+Art.l. Se aproba tarifele pentru serviciile prestate de Societatea Servicii Publice Orșova S.R.L., conform anexei care face parte integrantă din prezenta hotărâre.
+Art.2. Societatea Servicii Publice Orșova S.R.L. va aplica tarifele aprobate în baza devizelor de lucrări și a comenzilor emise de beneficiari.
+Art. 3. Cu ducerea la îndeplinire a prezentei hotărâri se însărcinează Primarul municipiului Orșova și Societatea Servicii Publice Orșova S.R.L.
+Adoptată astăzi 27.05.2026, în municipiul Orșova, județul Mehedinți
