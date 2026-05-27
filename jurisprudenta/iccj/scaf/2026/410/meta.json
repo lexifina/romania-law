@@ -1,0 +1,315 @@
+{
+ "key": "iccj-scaf-410-2026",
+ "label": "Decizia ÎCCJ nr. 410/2026 (SCAF)",
+ "court": "iccj",
+ "kind": "alta",
+ "panel": "scaf",
+ "number": "410",
+ "date": "2026-01-27",
+ "year": "2026",
+ "heading": "DECIZIA nr. 410 din 27 ianuarie 2026",
+ "subtitle": "referitoare la anularea art. 3 alin. (1) lit. b) pct. (i) din Hotărârea Guvernului nr. 304/2014 pentru aprobarea Normelor metodologice privind asistența medicală transfrontalieră",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - SECȚIA DE CONTENCIOS ADMINISTRATIV ȘI FISCAL",
+ "mo": {
+  "number": "447",
+  "bis": false,
+  "date": "2026-05-27",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "subjects": [
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 304/2014",
+    "number": "304",
+    "year": "2014",
+    "path": "hg/2014/304"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite recursul declarat de recurentul-reclamant A împotriva Sentinței nr. 133 din data de 30 decembrie 2019 pronunțate de Curtea de Apel Târgu Mureș - Secția a II-a civilă, de contencios administrativ și fiscal.",
+  "Casează în parte sentința recurată și, rejudecând:",
+  "Admite în parte acțiunea formulată de reclamantul A în contradictoriu cu pârâții Guvernul României și Casa Județeană de Asigurări de Sănătate Mureș.",
+  "Admite în parte cererea de intervenție accesorie formulată de intervenientul Ministerul Sănătății în favoarea pârâtului Guvernul României.",
+  "Anulează art. 3 alin. (1) lit. b) pct. (i) din Hotărârea Guvernului nr. 304/2014 pentru aprobarea Normelor metodologice privind asistența medicală transfrontalieră.",
+  "Anulează adresele nr. 32.819 din 10.08.2018, nr. 38.636 din 1.10.2018 și nr. 45.059 din 21.11.2018 emise de pârâta Casa de Asigurări de Sănătate Mureș.",
+  "Admite în parte cererea de restituire a contravalorii serviciilor medicale achitate în străinătate.",
+  "Obligă pârâta Casa de Asigurări de Sănătate Mureș la calcularea și acordarea către reclamant a costurilor aferente intervenției clasice de prostatectomie radicală în regim de spitalizare continuă și tratamentului medicamentos administrat acestuia, raportat la durata efectivă a internării.",
+  "Menține în rest sentința recurată.",
+  "Definitivă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 304/2014",
+    "number": "304",
+    "year": "2014",
+    "path": "hg/2014/304"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": [
+      "1",
+      "4"
+     ],
+     "lit": [
+      "a",
+      "b"
+     ]
+    },
+    {
+     "art": "4",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "45",
+     "alin": [
+      "2",
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 17
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "488",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": [
+      "4",
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "425",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "22",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "478",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "494",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 33
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 95/2006",
+    "number": "95",
+    "year": "2006",
+    "path": "lege/2006/95"
+   },
+   "articles": [
+    {
+     "art": "912",
+     "alin": [
+      "4"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "221",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "j"
+     ]
+    },
+    {
+     "art": "248",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituția României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "148",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul nr. 592/2008",
+    "number": "592",
+    "year": "2008"
+   },
+   "articles": [
+    {
+     "art": "46",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "45",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 140/2018",
+    "number": "140",
+    "year": "2018",
+    "path": "hg/2018/140"
+   },
+   "articles": [
+    {
+     "art": "89",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 161/2016",
+    "number": "161",
+    "year": "2016",
+    "path": "hg/2016/161"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinului nr. 592/2008",
+    "number": "592",
+    "year": "2008"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul președintelui Casei Naționale de Asigurări de Sănătate nr. 729/2009",
+    "number": "729",
+    "year": "2009"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 554/2004",
+    "number": "554",
+    "year": "2004",
+    "path": "lege/2004/554"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2026-05-27",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/311027",
+  "text_sha256": "7b3ded702cf0a06265dcf63533d97efc8e5b3f08c3f84fcdb940eb61ae53261b",
+  "catalogue_sha256": "7b3ded702cf0a06265dcf63533d97efc8e5b3f08c3f84fcdb940eb61ae53261b",
+  "fetched": "2026-11-03T00:48:02Z",
+  "chars": 193293,
+  "portal_id": "311027",
+  "tip": "DECIZIE"
+ }
+}
