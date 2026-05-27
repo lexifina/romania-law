@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2026-04-29: adopted by the Chamber of Deputies
 - 2026-05-06: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2026-05-11: sent for promulgation
+- 2026-05-27: promulgated, becomes Legea nr. 82/2026; published in the Monitorul Oficial; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -33,3 +34,5 @@ Initiator: Guvernul României.
 - 2022-09-12: Adresă către Camera Deputaților (AM): [am-d03bf6e4.md](am-d03bf6e4.md); official file https://www.senat.ro/legis/PDF/2022/22L480AM.PDF
 - 2026-05-06: Adresă privind sesizarea CCR (AXS): [axs-9d550249.md](axs-9d550249.md); official file https://www.senat.ro/legis/PDF/2022/22L480AXS.PDF
 - 2026-05-06: Forma trimisă la promulgare (LP): [lp-9f2692f6.md](lp-9f2692f6.md); official file https://www.senat.ro/legis/PDF/2022/22L480LP.PDF
+- 2026-05-27: Decret de promulgare (DP): [dp-6720ec4c.md](dp-6720ec4c.md); official file https://www.senat.ro/legis/PDF/2022/22L480DP.PDF
+- 2026-05-27: Forma promulgată (FP): [fp-a3fa9457.md](fp-a3fa9457.md); official file https://www.senat.ro/legis/PDF/2022/22L480FP.PDF
