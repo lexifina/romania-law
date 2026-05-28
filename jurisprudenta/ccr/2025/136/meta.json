@@ -1,0 +1,284 @@
+{
+ "key": "dcc-136-2025",
+ "label": "Decizia CCR nr. 136/2025",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "136",
+ "date": "2025-03-27",
+ "year": "2025",
+ "heading": "DECIZIA nr. 136 din 27 martie 2025",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 11 alin. (8), coroborate cu cele ale art. 316 alin. (11) lit. b) din Legea nr. 227/2015 privind Codul fiscal, în redactarea anterioară modificărilor aduse prin Ordonanța de urgență a Guvernului nr. 84/2016 pentru modificarea și completarea unor acte normative din domeniul financiar-fiscal",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "455",
+  "bis": false,
+  "date": "2026-05-28",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "3.099/111/2019",
+  "928D/2020"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 227/2015",
+    "number": "227",
+    "year": "2015",
+    "path": "lege/2015/227"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": [
+      "8"
+     ],
+     "lit": null
+    },
+    {
+     "art": "316",
+     "alin": [
+      "11"
+     ],
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 84/2016",
+    "number": "84",
+    "year": "2016",
+    "path": "oug/2016/84"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Societatea Naga Construct - S.R.L. din Oradea în Dosarul nr. 3.099/111/2019 al Tribunalului Bihor - Secția a III-a contencios administrativ și fiscal și constată că dispozițiile art. 11 alin. (8), coroborate cu cele ale art. 316 alin. (11) lit. b) din Legea nr. 227/2015 privind Codul fiscal, în redactarea anterioară modificărilor aduse prin Ordonanța de urgență a Guvernului nr. 84/2016 pentru modificarea și completarea unor acte normative din domeniul financiar-fiscal, sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului Bihor - Secția a III-a contencios administrativ și fiscal și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 227/2015",
+    "number": "227",
+    "year": "2015",
+    "path": "lege/2015/227"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": [
+      "8",
+      "11",
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "316",
+     "alin": [
+      "11"
+     ],
+     "lit": [
+      "b",
+      "c",
+      "h"
+     ]
+    },
+    {
+     "art": "323",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "318",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "148",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "265",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 29
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 84/2016",
+    "number": "84",
+    "year": "2016",
+    "path": "oug/2016/84"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": [
+      "8"
+     ],
+     "lit": null
+    },
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituției",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "56",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "148",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 571/2003",
+    "number": "571",
+    "year": "2003",
+    "path": "lege/2003/571"
+   },
+   "articles": [
+    {
+     "art": "153",
+     "alin": [
+      "9"
+     ],
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 31/1990",
+    "number": "31",
+    "year": "1990",
+    "path": "lege/1990/31"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2026-05-28",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/311078",
+  "text_sha256": "1f055fe9e8f4be7f45f38bf9fc1e53b02f58af4083e10a6aea4680de8c070245",
+  "catalogue_sha256": "1f055fe9e8f4be7f45f38bf9fc1e53b02f58af4083e10a6aea4680de8c070245",
+  "fetched": "2026-11-03T00:48:17Z",
+  "chars": 36007,
+  "portal_id": "311078",
+  "tip": "DECIZIE"
+ }
+}
