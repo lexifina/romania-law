@@ -20,6 +20,7 @@ Initiator: Membri ai Parlamentului.
 - 2026-05-06: adopted by the Chamber of Deputies
 - 2026-05-11: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2026-05-18: sent for promulgation
+- 2026-05-28: promulgated, becomes Legea nr. 86/2026; published in the Monitorul Oficial; documents published: Document (day not given by the bill file), Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -35,3 +36,6 @@ Initiator: Membri ai Parlamentului.
 - 2025-09-08: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2025/25L164AM.PDF
 - 2026-05-11: Adresă privind sesizarea CCR (AXS): [axs-b1d832a1.md](axs-b1d832a1.md); official file https://www.senat.ro/legis/PDF/2025/25L164AXS.PDF
 - 2026-05-11: Forma trimisă la promulgare (LP): [lp-f882cc44.md](lp-f882cc44.md); official file https://www.senat.ro/legis/PDF/2025/25L164LP.PDF
+- 2026-05-28: Document (CF): [cf-cdafdb22.md](cf-cdafdb22.md); official file https://www.senat.ro/legis/PDF/2025/25L164CF.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-05-28: Decret de promulgare (DP): [dp-53b1ab4f.md](dp-53b1ab4f.md); official file https://www.senat.ro/legis/PDF/2025/25L164DP.PDF
+- 2026-05-28: Forma promulgată (FP): [fp-5cb8b47f.md](fp-5cb8b47f.md); official file https://www.senat.ro/legis/PDF/2025/25L164FP.PDF
