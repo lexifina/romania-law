@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2026-05-04: adopted by the Senate; documents published: Forma adoptată de Senat
 - 2026-05-11: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2026-05-18: sent for promulgation
+- 2026-05-28: promulgated, becomes Legea nr. 87/2026; published in the Monitorul Oficial; documents published: Document (day not given by the bill file), Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -33,3 +34,6 @@ Initiator: Guvernul României.
 - 2026-05-04: Forma adoptată de Senat (FS): [fs-9c01c3ce.md](fs-9c01c3ce.md); official file https://www.senat.ro/legis/PDF/2026/26L220FS.PDF
 - 2026-05-11: Adresă privind sesizarea CCR (AXS): [axs-496ab0b1.md](axs-496ab0b1.md); official file https://www.senat.ro/legis/PDF/2026/26L220AXS.PDF
 - 2026-05-11: Forma trimisă la promulgare (LP): [lp-a2f996b2.md](lp-a2f996b2.md); official file https://www.senat.ro/legis/PDF/2026/26L220LP.PDF
+- 2026-05-28: Document (AL): [al-a1f45ad9.md](al-a1f45ad9.md); official file https://www.senat.ro/legis/PDF/2026/26L220AL.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-05-28: Decret de promulgare (DP): [dp-ba1b7513.md](dp-ba1b7513.md); official file https://www.senat.ro/legis/PDF/2026/26L220DP.PDF
+- 2026-05-28: Forma promulgată (FP): [fp-4d4951c7.md](fp-4d4951c7.md); official file https://www.senat.ro/legis/PDF/2026/26L220FP.PDF
