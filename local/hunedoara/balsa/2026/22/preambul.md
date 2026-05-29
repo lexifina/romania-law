@@ -1,0 +1,9 @@
+Consiliul Local al comunei Balșa, județul Hunedoara, convocat în ședință ordinară, în data de 29 mai 2026;
+Având în vedere: a)-Referatul de aprobare al primarului comunei Balșa, nr. 7/111/06.05.2026, la proiectul de hotărâre nr. 25/2026 prin care se propune înregistrarea comunei Balșa, în Sistemul Național Electronic de Plată (SNEP) on-line a impozitelor și taxelor locale („Ghișeul.ro") utilizând cardul bancar, instalarea unui terminal de plată (POS) precum și stabilirea modului în care este suportat comisionul bancar; b)-Raportul Compartimentului financiar-contabil și resurse umane din aparatul de specialitate al primarului comunei Balșa, nr. 7/112/06.05.2026; c)-Avizul favorabil nr. 27/29.05.2026, al comisiei de specialitate lit. a): agricultură, activități economico – financiare, amenajarea teritoriului și urbanism, muncă, familie și protecție socială, din cadrul Consiliului Local al comunei Balșa;
+Analizând temeiurile juridice, respectiv:
+a) - art. 3, art. 5 alin. (1), art. 10 din Hotărârea Guvernului nr. 1235/2010 privind Sistemul național electronic de plată online, cu modificările și completările ulterioare;
+b) - Decizia Autorității pentru Digitalizarea României nr. 34/2021 pentru aprobarea normelor metodologice și tehnice de aplicare a Hotărârii Guvernului nr. 1.235/2010 privind Sistemul național electronic de plată online;
+c) - Ordonanța de urgență a Guvernului nr. 193/2002 privind introducerea sistemelor moderne de plata, cu modificările și completările ulterioare;
+d) - art. 7 alin. (4) și (13) din Legea 52/2003 privind transparența decizională în administrația publică, republicată, cu modificările ulterioare;
+În baza dispozițiilor art. 129, alin. (1), alin. (2), lit. d), alin. 7, lit. s), art. 139, alin. (1) și ale art. 196, alin. (1), lit. a) din Ordonanța de Urgență a Guvernului nr. 57/2019 privind Codul administrativ, cu modificările și completările ulterioare;
+Adoptă prezenta hotărâre:
