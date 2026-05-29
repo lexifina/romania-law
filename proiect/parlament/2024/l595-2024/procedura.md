@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2026-05-20: adopted by the Chamber of Deputies
 - 2026-05-26: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2026-05-28: sent for promulgation
+- 2026-05-29: promulgated, becomes Legea nr. 88/2026; published in the Monitorul Oficial; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -37,3 +38,5 @@ Initiator: Guvernul României.
 - 2024-12-03: Aviz comisie (CA53): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L595CA53.PDF
 - 2026-05-26: Adresă privind sesizarea CCR (AXS): [axs-c3540ac2.md](axs-c3540ac2.md); official file https://www.senat.ro/legis/PDF/2024/24L595AXS.PDF
 - 2026-05-26: Forma trimisă la promulgare (LP): [lp-c0b33283.md](lp-c0b33283.md); official file https://www.senat.ro/legis/PDF/2024/24L595LP.PDF
+- 2026-05-29: Decret de promulgare (DP): [dp-3ab3b630.md](dp-3ab3b630.md); official file https://www.senat.ro/legis/PDF/2024/24L595DP.PDF
+- 2026-05-29: Forma promulgată (FP): [fp-ffbb3dc6.md](fp-ffbb3dc6.md); official file https://www.senat.ro/legis/PDF/2024/24L595FP.PDF
