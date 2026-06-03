@@ -13,6 +13,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-02-12: documents published: Punct de vedere
 - 2019-05-29: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților
 - 2019-06-03: registered at the Chamber of Deputies
+- 2026-06-03: rejected by the Chamber of Deputies; legislative procedure ended
 
 ## Documents
 
