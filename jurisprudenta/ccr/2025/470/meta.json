@@ -1,0 +1,198 @@
+{
+ "key": "dcc-470-2025",
+ "label": "Decizia CCR nr. 470/2025",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "470",
+ "date": "2025-10-16",
+ "year": "2025",
+ "heading": "DECIZIA nr. 470 din 16 octombrie 2025",
+ "subtitle": "referitoare la excepția de neconstituționalitate a sintagmei \"stabilite în anexe\" din cuprinsul art. 7 lit. a) din Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, precum și a sintagmei \"se va stabili\" din cuprinsul art. 39 alin. (4) din Legea-cadru nr. 153/2017",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "466",
+  "bis": false,
+  "date": "2026-06-03",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "3.698/63/2020",
+  "3.615D/2021"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "39",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepția de neconstituționalitate a sintagmei „stabilite în anexe“ din cuprinsul art. 7 lit. a) din Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, precum și a sintagmei „se va stabili“ din cuprinsul art. 39 alin. (4) din Legea-cadru nr. 153/2017, excepție ridicată de Oficiul de Cadastru și Publicitate Imobiliară Dolj în dosarele nr. 3.698/63/2020, nr. 3.532/63/2020, nr. 8.759/63/2020, nr. 8.465/63/2020, nr. 3.537/63/2020, nr. 2.384/63/2021, nr. 3.530/63/2020, nr. 3.534/63/2020, nr. 8.488/63/2020, nr. 9.320/63/2020, nr. 3.536/63/2020, nr. 3.539/63/2020, nr. 8.756/63/2020 și nr. 9.321/63/2020 ale Curții de Apel Craiova - Secția de litigii de muncă și asigurări sociale.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Curții de Apel Craiova - Secția de litigii de muncă și asigurări sociale și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "39",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "124",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 917/2017",
+    "number": "917",
+    "year": "2017",
+    "path": "hg/2017/917"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2026-06-03",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/311158",
+  "text_sha256": "5c92825d4a508d973b17579a0c35ce57ace22d0213c1521b814ce220a1d5e28b",
+  "catalogue_sha256": "5c92825d4a508d973b17579a0c35ce57ace22d0213c1521b814ce220a1d5e28b",
+  "fetched": "2026-11-03T00:47:51Z",
+  "chars": 33935,
+  "portal_id": "311158",
+  "tip": "DECIZIE"
+ }
+}
