@@ -21,6 +21,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-06-09: sent for promulgation
 - 2020-09-07: returned for re-examination
 - 2021-03-22: rejected by the Senate
+- 2026-06-03: legislative procedure ended; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -37,3 +38,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-10-21: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L466AM.PDF
 - 2020-06-03: Adresă privind sesizarea CCR (AXS): [axs-c5b5c383.md](axs-c5b5c383.md); official file https://www.senat.ro/legis/PDF/2019/19L466AXS.PDF
 - 2020-06-03: Forma trimisă la promulgare (LP): [lp-a5a2b487.md](lp-a5a2b487.md); official file https://www.senat.ro/legis/PDF/2019/19L466LP.PDF
+- 2026-06-03: Document (SC1): [sc1-c02449a4.md](sc1-c02449a4.md); official file https://www.senat.ro/legis/PDF/2019/19L466SC1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-06-03: Document (DC1): [dc1-1cd01c64.md](dc1-1cd01c64.md); official file https://www.senat.ro/legis/PDF/2019/19L466DC1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-06-03: Document (RC1): [rc1-c0a74048.md](rc1-c0a74048.md); official file https://www.senat.ro/legis/PDF/2019/19L466RC1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-06-03: Document (XD1): [xd1-0e800216.md](xd1-0e800216.md); official file https://www.senat.ro/legis/PDF/2019/19L466XD1.PDF (its day is not given by the bill file: shown from the last stage held)
