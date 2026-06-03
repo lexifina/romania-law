@@ -1,0 +1,9 @@
+# HCL Rusca Montană nr. 122/2025
+
+Text not yet included: no document of it is held. It will be added when it is. Its title names a private person or a private property, so it is not shown.
+
+- Council: Consiliul Local al Comunei Rusca Montană
+- Decision: nr. 122/2025
+- Adopted: 2025-11-14
+- Published: 2026-06-03
+- Record: https://emol.ro/ruscamontana-cs/registru-hcl/272103
