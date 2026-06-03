@@ -20,6 +20,7 @@ Initiator: Membri ai Parlamentului.
 - 2021-07-23: promulgated, becomes Legea nr. 224/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 - 2021-07-27: published in the Monitorul Oficial
 - 2022-04-13: registered at the Chamber of Deputies
+- 2026-06-03: rejected by the Chamber of Deputies; legislative procedure ended
 
 ## Documents
 
