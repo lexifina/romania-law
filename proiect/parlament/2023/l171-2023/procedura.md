@@ -14,6 +14,7 @@ Initiator: Membri ai Parlamentului.
 - 2023-04-25: documents published: Raport comisie sesizată pe fond
 - 2023-05-08: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților
 - 2023-05-15: registered at the Chamber of Deputies
+- 2026-06-03: rejected by the Chamber of Deputies; legislative procedure ended; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -26,3 +27,4 @@ Initiator: Membri ai Parlamentului.
 - 2023-04-25: Raport comisie sesizată pe fond (CR): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L171CR.PDF
 - 2023-05-08: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L171FS.PDF
 - 2023-05-08: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L171AM.PDF
+- 2026-06-03: Document (SM): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L171SM.PDF (its day is not given by the bill file: shown from the last stage held)
