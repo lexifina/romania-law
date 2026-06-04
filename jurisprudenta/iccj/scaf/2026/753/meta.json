@@ -1,0 +1,389 @@
+{
+ "key": "iccj-scaf-753-2026",
+ "label": "Decizia ÎCCJ nr. 753/2026 (SCAF)",
+ "court": "iccj",
+ "kind": "alta",
+ "panel": "scaf",
+ "number": "753",
+ "date": "2026-02-11",
+ "year": "2026",
+ "heading": "DECIZIE nr. 753 din 11 februarie 2026",
+ "subtitle": "referitoare la acțiunea în contencios administrativ având ca obiect anulare act administrativ cu caracter normativ",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - SECȚIA DE CONTENCIOS ADMINISTRATIV ȘI FISCAL",
+ "mo": {
+  "number": "470",
+  "bis": false,
+  "date": "2026-06-04",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": true,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "302/35/2024"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul fiscal",
+    "path": "lege/2015/227",
+    "slug": "codul-fiscal"
+   },
+   "articles": [
+    {
+     "art": "60",
+     "alin": null,
+     "lit": [
+      "e"
+     ]
+    },
+    {
+     "art": "138-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "154",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "r"
+     ]
+    },
+    {
+     "art": "220-3",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "operative": [
+  "Admite recursurile formulate de pârâtul Ministerul Muncii, Familiei, Tineretului și Solidarității Sociale, de pârâtul Ministerul Finanțelor, reprezentat de DGRPF Cluj-Napoca, prin AJFP Bihor și pârâtul Ministerul Sănătății împotriva Sentinței nr. 228/CA/2024 - P.I. din data de 2 decembrie 2024 pronunțate de Curtea de Apel Oradea - Secția de contencios administrativ și fiscal.",
+  "Casează în parte sentința civilă recurată și, rejudecând:",
+  "Respinge ca lipsite de interes următoarele capete de cerere din acțiunea introductivă: 1. anularea Notei privind facilitățile fiscale pentru domeniul construcțiilor prevăzute la art. 60 pct. 5, art. 138^1, art. 154 alin. (1) lit. r) și art. 220^3 alin. (2) din Codul fiscal din anexa nr. 1.2 - Anexa asigurat din anexa nr. 6 - Instrucțiuni de completare a formularului 112 „Declarație privind obligațiile de plată a contribuțiilor sociale, impozitului pe venit și evidența nominală a persoanelor asigurate“ din Ordinul nr. 1.942/979/819/2020, respectiv mențiunea: „Facilitățile fiscale nu se acordă persoanelor fizice care sunt detașate în afara României.“;",
+  "2. anularea Notei privind facilitățile fiscale pentru domeniul construcțiilor prevăzute la art. 60 pct. 5, art. 138^1, art. 154 alin. (1) lit. r) și art. 220^3 alin. (2) din Codul fiscal din anexa nr. 1.2 - Anexa asigurat din anexa nr. 6 - Instrucțiuni de completare a formularului 112 „Declarație privind obligațiile de plată a contribuțiilor sociale, impozitului pe venit și evidența nominală a persoanelor asigurate“ din Ordinul nr. 2.814/1.536/1.806/2020, respectiv mențiunea: „Facilitățile fiscale nu se acordă persoanelor fizice care sunt detașate în afara României.“;",
+  "3. anularea notei din anexa nr. 1.1 - Anexa angajator, secțiunea A - Alte date de identificare a plătitorului din anexa nr. 6 - Instrucțiuni de completare a formularului 118 „Declarație privind obligațiile de plată a contribuțiilor sociale, impozitului pe venit și evidența nominală a persoanelor asigurate“ din Ordinul nr. 203/207/188/2021, respectiv mențiunile: „Potrivit prevederilor Ordinului președintelui Comisiei Naționale de Strategie și Prognoză dat în aplicarea art. 60 pct. 5 lit. e) din Codul fiscal, pentru determinarea ponderii de 80% din cifra de afaceri realizată efectiv din activitatea de construcții, entitățile vor avea în vedere numai veniturile din activitatea desfășurată pe teritoriul României. Veniturile realizate din activitatea de construcții prin sucursale externe se vor avea în vedere numai pentru calcului cifrei de afaceri totale, realizate din întreaga activitate. Prin activitatea desfășurată pe teritoriul României se înțelege activitatea desfășurată efectiv în România, în scopul realizării de produse și prestării de servicii, indiferent de statutul de rezidență al beneficiarilor.“;",
+  "4. anularea Notei privind facilitățile fiscale pentru domeniul construcțiilor prevăzute la art. 60 pct. 5, art. 138^1, art. 154 alin. (1) lit. r) și art. 220^3 alin. (2) din Codul fiscal din anexa nr. 1.2 - Anexa asigurat, secțiunea B, pct. B.1, din anexa nr. 6 - Instrucțiuni de completare a formularului 112 „Declarație privind obligațiile de plată a contribuțiilor sociale, impozitului pe venit și evidența nominală a persoanelor asigurate“ din Ordinul nr. 203/207/188/2021, respectiv mențiunea: „Facilitățile fiscale nu se acordă persoanelor fizice care sunt detașate în afara României.“",
+  "Menține în rest sentința civilă recurată raportat la anularea în parte a Ordinului comun nr. 152/153/375/2022 emis de pârâți, în ceea ce privește: – mențiunea „Facilitățile fiscale nu se acordă persoanelor fizice care sunt detașate în afara României“, cuprinsă în Nota privind facilitățile fiscale pentru domeniul construcțiilor din anexa nr. 6 - Instrucțiuni de completare a formularului 118 „Declarație privind obligațiile de plată a contribuțiilor sociale, impozitului pe venit și evidența nominală a persoanelor asigurate“ - anexa nr. 1.2 - Anexa asigurat - secțiunea B - pct. B.1;",
+  "–",
+  "Nota anexa nr. 6 - Instrucțiuni de completare a formularului 118 „Declarație privind obligațiile de plată a contribuțiilor sociale, impozitului pe venit și evidența nominală a persoanelor asigurate“ - anexa nr. 1.1 - Anexa angajator - secțiunea A - Alte date de identificare a plătitorului referitoare la modul de determinare a ponderii de 80% din cifra de afaceri realizată efectiv din activitatea de construcții.",
+  "Respinge recursul formulat de pârâtul Ministerul Sănătății împotriva Încheierii din data de 7 octombrie 2024, pronunțată de Curtea de Apel Oradea - Secția de contencios administrativ și fiscal, ca nefondat.",
+  "Definitivă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul fiscal",
+    "path": "lege/2015/227",
+    "slug": "codul-fiscal"
+   },
+   "articles": [
+    {
+     "art": "60",
+     "alin": null,
+     "lit": [
+      "e",
+      "d"
+     ]
+    },
+    {
+     "art": "138-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "154",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "r"
+     ]
+    },
+    {
+     "art": "220-3",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "147",
+     "alin": [
+      "17"
+     ],
+     "lit": null
+    },
+    {
+     "art": "138",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 48
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "77",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "78",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "488",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "431",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "425",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "22",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "435",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "430",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "496",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 17
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "HG nr. 34/2009",
+    "number": "34",
+    "year": "2009",
+    "path": "hg/2009/34"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "OUG nr. 114/2018",
+    "number": "114",
+    "year": "2018",
+    "path": "oug/2018/114"
+   },
+   "articles": [
+    {
+     "art": "66",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 554/2004",
+    "number": "554",
+    "year": "2004",
+    "path": "lege/2004/554"
+   },
+   "articles": [
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 69/2010",
+    "number": "69",
+    "year": "2010",
+    "path": "lege/2010/69"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "HG nr. 23/2022",
+    "number": "23",
+    "year": "2022",
+    "path": "hg/2022/23"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "OUG nr. 57/2019",
+    "number": "57",
+    "year": "2019",
+    "path": "oug/2019/57"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 554/2005",
+    "number": "554",
+    "year": "2005",
+    "path": "lege/2005/554"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul muncii",
+    "path": "lege/2003/53",
+    "slug": "codul-muncii"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 16/2017",
+    "number": "16",
+    "year": "2017",
+    "path": "lege/2017/16"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul nr. 239/2019",
+    "number": "239",
+    "year": "2019"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2026-06-04",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/311197",
+  "text_sha256": "ae5b9a03316e825932e7e8393a0646e8b890f6ec00d3519ec8e06e20cdae54fc",
+  "catalogue_sha256": "ae5b9a03316e825932e7e8393a0646e8b890f6ec00d3519ec8e06e20cdae54fc",
+  "fetched": "2026-11-03T00:47:51Z",
+  "chars": 85093,
+  "portal_id": "311197",
+  "tip": "DECIZIE"
+ }
+}
