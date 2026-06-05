@@ -1,0 +1,10 @@
+# HCL Cojocna nr. 29/2026
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+- Council: Consiliul Local al Comunei Cojocna
+- Decision: nr. 29/2026
+- Adopted: 2026-04-17
+- Published: 2026-06-05
+- Title: privind modificarea și completarea HCL Cojocna nr.16/2026 - privind aprobarea studiului de oportunitate întocmit de administratorul SC Bai Cojocna SRL privind contractarea unei linii de credit pentru SC Bai Cojocna SRL
+- Record: https://emol.ro/cojocna-cj/registru-hcl/263576
