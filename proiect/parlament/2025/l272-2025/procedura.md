@@ -20,6 +20,7 @@ Initiator: Membri ai Parlamentului.
 - 2026-01-15: returned for re-examination
 - 2026-02-23: adopted by the Senate
 - 2026-05-27: returned for re-examination
+- 2026-06-08: sent for promulgation
 
 ## Documents
 
