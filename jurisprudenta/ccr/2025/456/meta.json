@@ -1,0 +1,232 @@
+{
+ "key": "dcc-456-2025",
+ "label": "Decizia CCR nr. 456/2025",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "456",
+ "date": "2025-10-16",
+ "year": "2025",
+ "heading": "DECIZIA nr. 456 din 16 octombrie 2025",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 91 alin. (3) din Codul de procedură penală",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "475",
+  "bis": false,
+  "date": "2026-06-08",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.345/175/2021/a2",
+  "261D/2022",
+  "492/262/2022",
+  "2.544/235/2021",
+  "374/1372/2021",
+  "2.292/175/2021/a2",
+  "3.195/175/2021/a1",
+  "3.196/175/2021/a1"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "91",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepția de neconstituționalitate a dispozițiilor art. 91 alin. (3) din Codul de procedură penală, excepție ridicată de Alen-Valentin Moisin și Alen Daniel Moisin în dosarele nr. 2.345/175/2021/a2, nr. 2.292/175/2021/a2, nr. 3.195/175/2021/a1 și nr. 3.196/175/2021/a1 ale Tribunalului Alba - Secția penală, în Dosarul nr. 492/262/2022 al Tribunalului Dâmbovița - Secția penală, în Dosarul nr. 2.544/235/2021 al Tribunalului Cluj - Secția penală și în Dosarul nr. 374/1.372/2021 al Curții de Apel Brașov - Secția penală.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului Alba - Secția penală, Tribunalului Dâmbovița - Secția penală, Tribunalului Cluj - Secția penală și Curții de Apel Brașov - Secția penală și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "91",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "88",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "89",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "90",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituției",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "17",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 51/1995",
+    "number": "51",
+    "year": "1995",
+    "path": "lege/1995/51"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 5
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2026-06-08",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/311234",
+  "text_sha256": "f632235b5e2835465bbeb2b8eefc450fcc35bc54477fe0187075c8356db05d7d",
+  "catalogue_sha256": "f632235b5e2835465bbeb2b8eefc450fcc35bc54477fe0187075c8356db05d7d",
+  "fetched": "2026-11-03T00:47:48Z",
+  "chars": 18711,
+  "portal_id": "311234",
+  "tip": "DECIZIE"
+ }
+}
