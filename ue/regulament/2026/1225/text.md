@@ -1,0 +1,34 @@
+REGULAMENTUL DE PUNERE ÎN APLICARE (PESC) 2026/1225 AL CONSILIULUI
+din 8 iunie 2026
+privind punerea în aplicare a Regulamentului (UE) 2023/1529 privind măsuri restrictive având în vedere sprijinul militar acordat de Iran pentru războiul de agresiune al Rusiei împotriva Ucrainei și pentru grupuri și entități armate din Orientul Mijlociu și din regiunea Mării Roșii și având în vedere acțiunile Iranului de subminare a libertății de navigație în Orientul Mijlociu
+CONSILIUL UNIUNII EUROPENE,
+având în vedere Tratatul privind Funcționarea Uniunii Europene,
+având în vedere Regulamentul (UE) 2023/1529 al Consiliului din 20 iulie 2023 privind măsuri restrictive având în vedere sprijinul militar acordat de Iran pentru războiul de agresiune al Rusiei împotriva Ucrainei și pentru grupuri și entități armate din Orientul Mijlociu și din regiunea Mării Roșii, precum și acțiunile Iranului care subminează libertatea de navigație în Orientul Mijlociu (1), mai ales articolul 7 alineatul (1),
+având în vedere propunerea Înaltului Reprezentant al Uniunii pentru afaceri externe și politica de securitate,
+întrucât:
+(1) La 20 iulie 2023, Consiliul a adoptat Regulamentul (UE) 2023/1529.
+(2) La 22 mai 2026, Consiliul a adoptat Decizia (PESC) 2026/1157 (2) de modificare a Deciziei (PESC) 2023/1532, care permite impunerea de restricții de călătorie și măsuri de înghețare a activelor împotriva persoanelor și entităților care sunt responsabile de acțiunile sau politicile Iranului care subminează libertatea de navigație în Orientul Mijlociu, care sprijină sau pun în aplicare astfel de acțiuni sau politici ori care beneficiază de pe urma acestora.
+(3) Având în vedere gravitatea situației, două persoane fizice și o entitate ar trebui să fie incluse pe lista persoanelor fizice și juridice, a entităților și a organismelor cărora li se aplică măsurile restrictive care figurează în anexa III la Regulamentul (UE) 2023/1529.
+(4) Prin urmare, Regulamentul (UE) 2023/1529 ar trebui să fie modificat în consecință,
+ADOPTĂ PREZENTUL REGULAMENT:
+Articolul 1
+Anexa III la Regulamentul (UE) 2023/1529 se modifică în conformitate cu anexa la prezentul regulament.
+Articolul 2
+Prezentul regulament intră în vigoare la data publicării în Jurnalul Oficial al Uniunii Europene.
+Prezentul regulament este obligatoriu în toate elementele sale și se aplică direct în toate statele membre.
+Adoptat la Luxemburg, 8 iunie 2026.
+Pentru Consiliu
+Președintele
+A. VAFEADES
+(1) JO L 186, 25.7.2023, p. 1, ELI: http://data.europa.eu/eli/reg/2023/1529/oj.
+(2) Decizia (PESC) 2026/1157 a Consiliului din 22 mai 2026 de modificare a Deciziei (PESC) 2023/1532 privind măsuri restrictive având în vedere sprijinul militar acordat de Iran pentru războiul de agresiune al Rusiei împotriva Ucrainei și pentru grupuri și entități armate din Orientul Mijlociu și din regiunea Mării Roșii (JO L, 2026/1157, 26.5.2026, ELI: http://data.europa.eu/eli/dec/2026/1157/oj).
+ANEXĂ
+Anexa III la Regulamentul (UE) 2023/1529 se modifică după cum urmează:
+1. În secțiunea „A. Persoane fizice” se adaugă următoarele rubrici:
+| Nume (transcriere cu caractere latine) | Nume | Date de identificare | Motivele înscrierii pe listă | Data includerii pe listă
+„25. | Mohammad AKBARZADEH | محمد اکبرزاده (ortografia farsi) | Funcție: comandant adjunct pentru afaceri politice al Forțelor Navale ale Corpului Gardienilor Revoluției Islamice (IRGCN) Cetățenia: iraniană Sexul: masculin | Mohammad Akbarzadeh este comandant adjunct pentru afaceri politice al Forțelor Navale ale Corpului Gardienilor Revoluției Islamice (IRGCN) incluse pe lista UE și acționează în calitate de purtător de cuvânt al IRGCN. IRGCN pune în aplicare politicile Iranului care subminează libertatea de navigație în strâmtoarea Ormuz prin aplicarea unui sistem de taxare în strâmtoarea Ormuz și prin amenințarea, hărțuirea și atacarea mai multor nave comerciale în strâmtoarea Ormuz. În declarațiile sale, Akbarzadeh afirmă că Iranul deține controlul deplin asupra strâmtorii Ormuz și amenință să utilizeze rachete sau drone împotriva navelor care tranzitează strâmtoarea Ormuz. Prin urmare, Mohammad Akbarzadeh sprijină și pune în aplicare acțiunile și politicile Iranului care subminează libertatea de navigație în Orientul Mijlociu. | 8.6.2026
+26. | Hamid HOSSEINI | حمید حسینی (ortografia farsi) | Funcție: purtător de cuvânt al Uniunii Exportatorilor de Petrol, Gaze și Produse Petrochimice din Iran. Cetățenia: iraniană Sexul: masculin | Hamid Hosseini este purtător de cuvânt al Uniunii Exportatorilor de Petrol, Gaze și Produse Petrochimice din Iran și membru al Camerei de Comerț a Iranului. Uniunea Exportatorilor de Petrol, Gaze și Produse Petrochimice din Iran este o asociație industrială ai cărei membri sunt societăți implicate în producția și exportul de petrol, gaze și produse petrochimice. Guvernul iranian și Corpul Gardienilor Revoluției Islamice sunt puternic implicate în exporturile de petrol ale Iranului. Iranul a pus în aplicare o politică care impune navelor care tranzitează strâmtoarea Ormuz să transmită informații, să se supună evaluării și să plătească taxe de tranzit autorităților iraniene. În calitatea sa de purtător de cuvânt al Uniunii Exportatorilor de Petrol, Gaze și Produse Petrochimice din Iran, Hosseini explică și promovează această politică prin declarații în cadrul canalelor mass-media internaționale și iraniene. Prin urmare, Hamid Hosseini sprijină și pune în aplicare acțiunile și politicile Iranului care subminează libertatea de navigație în Orientul Mijlociu. | 8.6.2026”.
+2. În secțiunea „B. Persoane juridice, entități și organisme” se adaugă următoarea rubrică:
+| Nume (transcriere cu caractere latine) | Nume | Date de identificare | Motivele înscrierii pe listă | Data includerii pe listă
+„27. | Comandamentul Provincial Hormozgan al Forțelor Navale ale Corpului Gardienilor Revoluției Islamice IRGCN | | Locul înregistrării: Iran | Comandamentul Provincial Hormozgan al Forțelor Navale ale Corpului Gardienilor Revoluției Islamice (IRGCN) este o subdiviziune a IRGCN, incluse pe lista UE. IRGCN și-au asumat controlul asupra strâmtorii Ormuz și au pus în aplicare un sistem de taxare în strâmtoare, prin care navele sunt obligate să furnizeze documente de identificare, precum și informații privind încărcătura și destinația, unor intermediari care transmit apoi informațiile către Comandamentul Provincial Hormozgan. Pe baza acestor informații, Comandamentul Provincial Hormozgan examinează navele și stabilește care dintre acestea sunt autorizate să tranziteze strâmtoarea, uneori cu condiția plății unei taxe de trecere. Prin urmare, Comandamentul Provincial Hormozgan al Forțelor Navale ale IRGCN pune în aplicare acțiuni sau politici ale Iranului care subminează libertatea de navigație în Orientul Mijlociu. | 8.6.2026”.
+ELI: http://data.europa.eu/eli/reg_impl/2026/1225/oj
