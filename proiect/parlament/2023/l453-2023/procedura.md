@@ -20,6 +20,7 @@ Initiator: Guvernul României.
 - 2026-05-13: adopted by the Chamber of Deputies
 - 2026-05-18: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2026-05-20: sent for promulgation
+- 2026-06-08: promulgated, becomes Legea nr. 90/2026; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -37,3 +38,5 @@ Initiator: Guvernul României.
 - 2023-10-18: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L453AM.PDF
 - 2026-05-18: Adresă privind sesizarea CCR (AXS): [axs-f7cece94.md](axs-f7cece94.md); official file https://www.senat.ro/legis/PDF/2023/23L453AXS.PDF
 - 2026-05-18: Forma trimisă la promulgare (LP): [lp-44434818.md](lp-44434818.md); official file https://www.senat.ro/legis/PDF/2023/23L453LP.PDF
+- 2026-06-08: Decret de promulgare (DP): [dp-31807b79.md](dp-31807b79.md); official file https://www.senat.ro/legis/PDF/2023/23L453DP.PDF
+- 2026-06-08: Forma promulgată (FP): [fp-58488c57.md](fp-58488c57.md); official file https://www.senat.ro/legis/PDF/2023/23L453FP.PDF
