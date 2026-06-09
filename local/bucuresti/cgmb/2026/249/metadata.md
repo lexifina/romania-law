@@ -1,0 +1,12 @@
+# HCGMB nr. 249/2026
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+- Council: Consiliul General al Municipiului București
+- Decision: nr. 249/2026
+- Adopted: 2026-06-04
+- Published: 2026-06-09
+- Title: PENTRU MODIFICAREA SI COMPLETAREA HOTARARII CONSILIULUI GENERAL AL MUNICIPIULUI BUCURESTI NR. 369/29.08.2025 PRIVIND APROBAREA INDICATORILOR TEHNICO-ECONOMICI PENTRU OBIECTIVUL DE INVESTITII “SOLUTIE BAZATA PE INTELIGENTA ARTIFICIALA PENTRU MONITORIZAREA, TEHNOLOGIZAREA, COMPUTERIZAREA SI CRESTEREA PROCESELOR INTRAOPERATORII IN CHIRURGIA CU RISC RIDICAT, CARE VIZEAZA REDUCEREA INFECTIILOR NOSOCOMIALE” MODIFICA ART. 2 DIN HCGMB NR. 369/2025
+- Record: https://acteinterne.pmb.ro/legis/acteinterne/acte_int/48140
+- Document: https://doc.pmb.ro/legis/acteinterne/2026/48140/h249_26.pdf
+- Document sha256: a73252b19606440151d681e2b41226b1708d760a165ef261d8ddb8b07d3a54d6
