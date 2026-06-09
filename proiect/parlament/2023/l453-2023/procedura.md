@@ -21,6 +21,7 @@ Initiator: Guvernul României.
 - 2026-05-18: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2026-05-20: sent for promulgation
 - 2026-06-08: promulgated, becomes Legea nr. 90/2026; documents published: Decret de promulgare, Forma promulgată
+- 2026-06-09: published in the Monitorul Oficial
 
 ## Documents
 
