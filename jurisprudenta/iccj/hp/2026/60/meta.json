@@ -1,0 +1,124 @@
+{
+ "key": "iccj-hp-60-2026",
+ "label": "Decizia ÎCCJ nr. 60/2026 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "60",
+ "date": "2026-04-20",
+ "year": "2026",
+ "heading": "DECIZIA nr. 60 din 20 aprilie 2026",
+ "subtitle": "referitoare la interpretarea dispozițiilor art. 3 alin. (2), (3) și (6) din capitolul II al anexei nr. II la Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "479",
+  "bis": false,
+  "date": "2026-06-09",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "83/1/2026",
+  "276/95/2023"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [],
+   "mentions": 4
+  }
+ ],
+ "operative": [
+  "Admite sesizarea formulată de Curtea de Apel Craiova - Secția conflicte de muncă și asigurări sociale în Dosarul nr. 276/95/2023, privind pronunțarea unei hotărâri prealabile. În interpretarea dispozițiilor art. 3 alin. (2), (3) și (6) din capitolul II al anexei nr. II la Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, stabilește că:",
+  "Medicii care sunt nominalizați să asigure asistența medicală de urgență prin chemări de la domiciliu sunt salarizați pentru perioada în care asigură garda la domiciliu cu 40% din tariful orar aferent salariului de bază pentru numărul de ore în care asigură garda la domiciliu, fără ca la remunerația astfel calculată să fie adăugate sporurile reglementate de art. 3 alin. (2) ori, după caz, alin. (3) din capitolul II al anexei nr. II la Legea-cadru nr. 153/2017.",
+  "În măsura în care medicul care asigură garda la domiciliu este chemat la unitatea sanitară, orele de gardă astfel prestate vor fi remunerate în condițiile art. 3 alin. (1)-(3) din capitolul II al anexei nr. II la Legea-cadru nr. 153/2017.",
+  "Obligatorie, potrivit art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 62/2024",
+    "number": "62",
+    "year": "2024",
+    "path": "oug/2024/62"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 31
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2026-06-09",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/311272",
+  "text_sha256": "749bcec698557b023a57f69381faa340cd86079fa42f2961940743842b2f3a88",
+  "catalogue_sha256": "749bcec698557b023a57f69381faa340cd86079fa42f2961940743842b2f3a88",
+  "fetched": "2026-11-04T11:05:02Z",
+  "chars": 43373,
+  "portal_id": "311272",
+  "tip": "DECIZIE"
+ }
+}
