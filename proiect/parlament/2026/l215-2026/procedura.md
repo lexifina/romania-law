@@ -14,6 +14,7 @@ Initiator: Guvernul României.
 - 2026-04-15: documents published: Raport comisie sesizată pe fond
 - 2026-04-20: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților
 - 2026-04-22: registered at the Chamber of Deputies
+- 2026-06-10: adopted by the Chamber of Deputies
 
 ## Documents
 
