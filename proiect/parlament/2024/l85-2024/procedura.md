@@ -20,6 +20,7 @@ Initiator: Membri ai Parlamentului.
 - 2026-05-13: adopted by the Chamber of Deputies
 - 2026-05-18: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2026-05-25: sent for promulgation
+- 2026-06-10: promulgated, becomes Legea nr. 92/2026; published in the Monitorul Oficial; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -35,3 +36,5 @@ Initiator: Membri ai Parlamentului.
 - 2024-03-05: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L085AM.PDF
 - 2026-05-18: Adresă privind sesizarea CCR (AXS): [axs-f118bd50.md](axs-f118bd50.md); official file https://www.senat.ro/legis/PDF/2024/24L085AXS.PDF
 - 2026-05-18: Forma trimisă la promulgare (LP): [lp-80086df8.md](lp-80086df8.md); official file https://www.senat.ro/legis/PDF/2024/24L085LP.PDF
+- 2026-06-10: Decret de promulgare (DP): [dp-d4bc5de7.md](dp-d4bc5de7.md); official file https://www.senat.ro/legis/PDF/2024/24L085DP.PDF
+- 2026-06-10: Forma promulgată (FP): [fp-088a3050.md](fp-088a3050.md); official file https://www.senat.ro/legis/PDF/2024/24L085FP.PDF
