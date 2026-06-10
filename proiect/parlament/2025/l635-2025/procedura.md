@@ -20,6 +20,7 @@ Initiator: Membri ai Parlamentului.
 - 2026-05-13: adopted by the Chamber of Deputies
 - 2026-05-18: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2026-05-25: sent for promulgation
+- 2026-06-10: promulgated, becomes Legea nr. 93/2026; published in the Monitorul Oficial; documents published: Document (day not given by the bill file), Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -35,3 +36,7 @@ Initiator: Membri ai Parlamentului.
 - 2026-02-25: Adresă către Camera Deputaților (AM): [am-43b6497e.md](am-43b6497e.md); official file https://www.senat.ro/legis/PDF/2025/25L635AM.PDF
 - 2026-05-18: Adresă privind sesizarea CCR (AXS): [axs-da219786.md](axs-da219786.md); official file https://www.senat.ro/legis/PDF/2025/25L635AXS.PDF
 - 2026-05-18: Forma trimisă la promulgare (LP): [lp-3b6f7ed3.md](lp-3b6f7ed3.md); official file https://www.senat.ro/legis/PDF/2025/25L635LP.PDF
+- 2026-06-10: Document (CF): [cf-890a0bf2.md](cf-890a0bf2.md); official file https://www.senat.ro/legis/PDF/2025/25L635CF.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-06-10: Document (CNA): [cna-257a9a9e.md](cna-257a9a9e.md); official file https://www.senat.ro/legis/PDF/2025/25L635CNA.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-06-10: Decret de promulgare (DP): [dp-83b9b3e4.md](dp-83b9b3e4.md); official file https://www.senat.ro/legis/PDF/2025/25L635DP.PDF
+- 2026-06-10: Forma promulgată (FP): [fp-048636ec.md](fp-048636ec.md); official file https://www.senat.ro/legis/PDF/2025/25L635FP.PDF
