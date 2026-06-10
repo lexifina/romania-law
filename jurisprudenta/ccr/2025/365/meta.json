@@ -1,0 +1,425 @@
+{
+ "key": "dcc-365-2025",
+ "label": "Decizia CCR nr. 365/2025",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "365",
+ "date": "2025-09-16",
+ "year": "2025",
+ "heading": "DECIZIA nr. 365 din 16 septembrie 2025",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 16 alin. (5) și (6) din Legea energiei electrice nr. 13/2007 și ale art. 12 alin. (5) din Legea energiei electrice și a gazelor naturale nr. 123/2012, în interpretarea dată prin Decizia nr. 27 din 11 noiembrie 2019, pronunțată de Înalta Curte de Casație și Justiție - Completul pentru soluționarea recursului în interesul legii, precum și ale art. 12 alin. (4) din Legea nr. 123/2012, toate prin raportare la dispozițiile art. 230 lit. z) din Legea nr. 71/2011 pentru punerea în aplicare a Legii nr. 287/2009 privind Codul civil și ale art. 113 alin. (2) și (3) din Legea nr. 123/2012",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "481",
+  "bis": false,
+  "date": "2026-06-10",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "20.150/215/2013",
+  "23.847/299/2013",
+  "160D/2022",
+  "637D/2020"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea energiei electrice nr. 13/2007",
+    "number": "13",
+    "year": "2007",
+    "path": "lege/2007/13"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea energiei electrice și a gazelor naturale nr. 123/2012",
+    "number": "123",
+    "year": "2012",
+    "path": "lege/2012/123"
+   },
+   "articles": [
+    {
+     "art": "12",
+     "alin": [
+      "5",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "113",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 71/2011",
+    "number": "71",
+    "year": "2011",
+    "path": "lege/2011/71"
+   },
+   "articles": [
+    {
+     "art": "230",
+     "alin": null,
+     "lit": [
+      "z"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepția de neconstituționalitate a dispozițiilor art. 16 alin. (5) și (6) din Legea energiei electrice nr. 13/2007 și ale art. 12 alin. (5) din Legea energiei electrice și a gazelor naturale nr. 123/2012, în interpretarea dată prin Decizia nr. 27 din 11 noiembrie 2019, pronunțată de Înalta Curte de Casație și Justiție - Completul pentru soluționarea recursului în interesul legii, precum și ale art. 12 alin. (4) din Legea nr. 123/2012, toate prin raportare la dispozițiile art. 230 lit. z) din Legea nr. 71/2011 pentru punerea în aplicare a Legii nr. 287/2009 privind Codul civil și ale art. 113 alin. (2) și (3) din Legea nr. 123/2012, excepție ridicată de Arhiepiscopia Craiovei în Dosarul nr. 20.150/215/2013 al Tribunalului Dolj - Secția a II-a civilă și, respectiv, în Dosarul nr. 23.847/299/2013* al Tribunalului București - Secția a IV-a civilă.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului Dolj - Secția a II-a civilă și Tribunalului București - Secția a IV-a civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea energiei electrice nr. 13/2007",
+    "number": "13",
+    "year": "2007",
+    "path": "lege/2007/13"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "5",
+      "2",
+      "4",
+      "9"
+     ],
+     "lit": null
+    },
+    {
+     "art": "19",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 38
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea energiei electrice și a gazelor naturale nr. 123/2012",
+    "number": "123",
+    "year": "2012",
+    "path": "lege/2012/123"
+   },
+   "articles": [
+    {
+     "art": "12",
+     "alin": [
+      "4",
+      "5",
+      "2",
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "113",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "96",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "30",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": [
+      "4",
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 42
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 71/2011",
+    "number": "71",
+    "year": "2011",
+    "path": "lege/2011/71"
+   },
+   "articles": [
+    {
+     "art": "230",
+     "alin": null,
+     "lit": [
+      "z"
+     ]
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea energiei electrice nr. 318/2003",
+    "number": "318",
+    "year": "2003",
+    "path": "lege/2003/318"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea gazelor nr. 351/2004",
+    "number": "351",
+    "year": "2004",
+    "path": "lege/2004/351"
+   },
+   "articles": [
+    {
+     "art": "90",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 127/2014",
+    "number": "127",
+    "year": "2014",
+    "path": "lege/2014/127"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 1.240/2012",
+    "number": "1240",
+    "year": "2012",
+    "path": "hg/2012/1240"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii petrolului nr. 238/2004",
+    "number": "238",
+    "year": "2004",
+    "path": "lege/2004/238"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 63/1998",
+    "number": "63",
+    "year": "1998",
+    "path": "oug/1998/63"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2026-06-10",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/311284",
+  "text_sha256": "8cd4441561631cb2f3046faaf27c8ba3fe50e5efadcf7cebd3c61c2d5cba0894",
+  "catalogue_sha256": "8cd4441561631cb2f3046faaf27c8ba3fe50e5efadcf7cebd3c61c2d5cba0894",
+  "fetched": "2026-11-03T00:47:58Z",
+  "chars": 48706,
+  "portal_id": "311284",
+  "tip": "DECIZIE"
+ }
+}
