@@ -1,0 +1,14 @@
+Hotărârea a fost adoptată cu vot liber exprimat 21 voturi „pentru“ Hotărârea se adoptă cu majoritatea absolută
+pentru mamele protejate în centre maternale, precum și a nivelului minim al alocației zilnice de hrană pentru consumurile colective din instituțiile și unitățile publice și private de asistență socială destinate persoanelor adulte, persoanelor adulte cu dizabilități și persoanelor vârstnice, precum și pentru modificarea Hotărârii Guvernului nr. 426/2020 privind aprobarea standardelor de cost pentru serviciile sociale ale Legii nr. 197/2012 privind asigurarea calității în domeniul serviciilor sociale, cu modificările și completările ulterioare, ale Hotărârii Guvernului nr. 118/2014 pentru aprobarea Normelor metodologice de aplicare a prevederilor Legii nr. 197/2012 privind asigurarea calității în domeniul serviciilor sociale, cu modificările și completările ulterioare, precum și ale art. 4 lit. b) și art.
+7 din Legea nr. 52/2003 privind transparența decizională în administrația publică, republicată, cu modificările și completările ulterioare;În temeiul prevederilor art. 129 alin.
+(1), alin. (2), lit. a), lit. d), alin. (3), lit. c) și lit. e), alin.(7) lit. b), alin. (14) precum și ale art.
+139 coroborat cu art. 196 alin. (1) lit. a) din Ordonanța de Urgență a Guvernului nr. 57/2019 privind Codul administrativ, cu modificările și completările ulterioare.
+H O T Ă R Ă Ș T E:
+Art.1. - (1) Aprobă stabilirea contribuției lunare de întreținere a persoanelor vârstnice beneficiare ale serviciului social cu cazare Căminul pentru Persoane Vârstnice Hunedoara și a susținătorilor legali ai acestora, după cum urmează:
+a) pentru persoanele vârstnice încadrate în gradul I de dependență 3.850 lei/beneficiar;
+b) pentru persoanele vârstnice încadrate în gradul II de dependență 3.650 lei/beneficiar;
+c) pentru persoanele vârstnice încadrate în gradul III de dependență 3.000 lei/beneficiar.
+(2) Încadrarea persoanelor vârstnice în grade de dependență se va realiza de către serviciul social cu cazare Căminul pentru Persoane Vârstnice Hunedoara, prin personalul de specialitate.
+Art.2. – Prezenta hotărâre se poate contesta de cei interesați la instanța competentă, în termenul prevăzut de lege.
+Art.3. – Prezenta hotărâre se comunică Prefectului județului Hunedoara, Primarului, Direcției de Asistență Socială a municipiului Hunedoara, Direcției economice, Serviciului Juridic, Administrație Publică Locală și Autoritate Tutelară, Compartimentului Audit Intern, Serviciului Comunicare, Relații cu Investitorii, Serviciului Informatică Tehnică de Calcul, Încasări, Serviciului Informații pentru Cetățeni și Relații Publice, Monitorul Oficial Local, Relația cu Mediul Asociativ și se va publica pe site-ul Primăriei municipiului Hunedoara www.primariahunedoara.ro.
+Hunedoara, la 12.06.2026
