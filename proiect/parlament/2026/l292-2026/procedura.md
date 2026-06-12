@@ -20,6 +20,7 @@ Initiator: Guvernul României.
 - 2026-05-26: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2026-05-28: sent for promulgation
 - 2026-06-04: published in the Monitorul Oficial
+- 2026-06-12: promulgated, becomes Legea nr. 95/2026; published in the Monitorul Oficial; documents published: Document (day not given by the bill file), Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -36,3 +37,8 @@ Initiator: Guvernul României.
 - 2026-05-26: Forma adoptată de Senat (FS): [fs-535cd642.md](fs-535cd642.md); official file https://www.senat.ro/legis/PDF/2026/26L292FS.PDF
 - 2026-05-26: Adresă privind sesizarea CCR (AXS): [axs-0224548f.md](axs-0224548f.md); official file https://www.senat.ro/legis/PDF/2026/26L292AXS.PDF
 - 2026-05-26: Forma trimisă la promulgare (LP): [lp-24e5b088.md](lp-24e5b088.md); official file https://www.senat.ro/legis/PDF/2026/26L292LP.PDF
+- 2026-06-12: Document (AL): [al-2908d72f.md](al-2908d72f.md); official file https://www.senat.ro/legis/PDF/2026/26L292AL.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-06-12: Document (SC1): [sc1-fde2ef1b.md](sc1-fde2ef1b.md); official file https://www.senat.ro/legis/PDF/2026/26L292SC1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-06-12: Document (DC1): [dc1-d6b3062c.md](dc1-d6b3062c.md); official file https://www.senat.ro/legis/PDF/2026/26L292DC1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-06-12: Decret de promulgare (DP): [dp-3c8160e8.md](dp-3c8160e8.md); official file https://www.senat.ro/legis/PDF/2026/26L292DP.PDF
+- 2026-06-12: Forma promulgată (FP): [fp-1e75da95.md](fp-1e75da95.md); official file https://www.senat.ro/legis/PDF/2026/26L292FP.PDF
