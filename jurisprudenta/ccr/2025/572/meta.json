@@ -1,0 +1,230 @@
+{
+ "key": "dcc-572-2025",
+ "label": "Decizia CCR nr. 572/2025",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "572",
+ "date": "2025-11-06",
+ "year": "2025",
+ "heading": "DECIZIA nr. 572 din 6 noiembrie 2025",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 21 alin. (6) din Legea nr. 165/2013 privind măsurile pentru finalizarea procesului de restituire, în natură sau prin echivalent, a imobilelor preluate în mod abuziv în perioada regimului comunist în România, astfel cum au fost modificate prin Legea nr. 219/2020 pentru modificarea și completarea Legii nr. 165/2013 privind măsurile pentru finalizarea procesului de restituire, în natură sau prin echivalent, a imobilelor preluate în mod abuziv în perioada regimului comunist în România",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "491",
+  "bis": false,
+  "date": "2026-06-14",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "devenita-inadmisibila"
+ ],
+ "dossiers": [
+  "99/86/2020",
+  "2.359D/2020"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 165/2013",
+    "number": "165",
+    "year": "2013",
+    "path": "lege/2013/165"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca devenită inadmisibilă, excepția de neconstituționalitate a dispozițiilor art. 21 alin. (6) din Legea nr. 165/2013 privind măsurile pentru finalizarea procesului de restituire, în natură sau prin echivalent, a imobilelor preluate în mod abuziv în perioada regimului comunist în România, astfel cum au fost modificate prin Legea nr. 219/2020 pentru modificarea și completarea Legii nr. 165/2013 privind măsurile pentru finalizarea procesului de restituire, în natură sau prin echivalent, a imobilelor preluate în mod abuziv în perioada regimului comunist în România, excepție ridicată de Comisia Națională pentru Compensarea Imobilelor în Dosarul nr. 99/86/2020 al Curții de Apel Suceava - Secția I civilă.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Curții de Apel Suceava - Secția I civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 219/2020",
+    "number": "219",
+    "year": "2020",
+    "path": "lege/2020/219"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "147",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 165/2013",
+    "number": "165",
+    "year": "2013",
+    "path": "lege/2013/165"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "62",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii privind adoptarea Ordonanței de urgență a Guvernului nr. 72/2020",
+    "number": "72",
+    "year": "2020",
+    "path": "lege/2020/72"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 193/2021",
+    "number": "193",
+    "year": "2021",
+    "path": "lege/2021/193"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2026-06-14",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/311345",
+  "text_sha256": "bb14b2a34fb28f82b79b204981bc0ef0395603b591439dc543791e2b1aa00a68",
+  "catalogue_sha256": "bb14b2a34fb28f82b79b204981bc0ef0395603b591439dc543791e2b1aa00a68",
+  "fetched": "2026-11-03T00:47:56Z",
+  "chars": 17902,
+  "portal_id": "311345",
+  "tip": "DECIZIE"
+ }
+}
