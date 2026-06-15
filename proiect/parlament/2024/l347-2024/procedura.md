@@ -16,6 +16,7 @@ Initiator: Membri ai Parlamentului.
 - 2024-06-26: documents published: Aviz comisie
 - 2024-09-02: registered at the Chamber of Deputies
 - 2026-06-10: adopted by the Chamber of Deputies
+- 2026-06-15: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 
 ## Documents
 
@@ -28,3 +29,5 @@ Initiator: Membri ai Parlamentului.
 - 2024-06-25: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L347FS.PDF
 - 2024-06-25: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L347AM.PDF
 - 2024-06-26: Aviz comisie (CA45): [ca45-64053b11.md](ca45-64053b11.md); official file https://www.senat.ro/legis/PDF/2024/24L347CA45.PDF
+- 2026-06-15: Adresă privind sesizarea CCR (AXS): [axs-a0e41fd2.md](axs-a0e41fd2.md); official file https://www.senat.ro/legis/PDF/2024/24L347AXS.PDF
+- 2026-06-15: Forma trimisă la promulgare (LP): [lp-e41b11ea.md](lp-e41b11ea.md); official file https://www.senat.ro/legis/PDF/2024/24L347LP.PDF
