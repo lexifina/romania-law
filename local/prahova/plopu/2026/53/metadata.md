@@ -1,0 +1,9 @@
+# HCL Plopu nr. 53/2026
+
+Text not yet included: no document of it is held. It will be added when it is.
+
+- Council: Consiliul Local al Comunei Plopu
+- Decision: nr. 53/2026
+- Adopted: 2026-06-16
+- Title: privind APROBAREA ACTELOR ADITIONALE NR.6 SI NR.7 LA CONTRACTUL DE LUCRARI NR.7.470 DIN 08.08.2023 PRIVIND EXECUTIA LUCRARILOR DE EXTINDERE SI MODERNIZARE PENTRU OBIECTIVUL DE INVESTITII “REABILITARE SI MODERNIZARE DRUMURI LOCALE SI COMUNALE DIN SATELE PLOPU SI NISIPOASA, COMUNA PLOPU, JUDETUL PRAHOVA”
+- Record: https://emol.ro/plopu-ph/registru-hcl/274472
