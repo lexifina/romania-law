@@ -21,6 +21,7 @@ Initiator: Membri ai Parlamentului.
 - 2026-02-23: adopted by the Senate
 - 2026-05-27: returned for re-examination
 - 2026-06-08: sent for promulgation
+- 2026-06-16: promulgated, becomes Legea nr. 96/2026; published in the Monitorul Oficial; documents published: Document (day not given by the bill file), Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -35,3 +36,11 @@ Initiator: Membri ai Parlamentului.
 - 2025-10-15: Adresă către Camera Deputaților (AM): [am-4da93132.md](am-4da93132.md); official file https://www.senat.ro/legis/PDF/2025/25L272AM.PDF
 - 2025-12-23: Adresă privind sesizarea CCR (AXS): [axs-975b3ef6.md](axs-975b3ef6.md); official file https://www.senat.ro/legis/PDF/2025/25L272AXS.PDF
 - 2025-12-23: Forma trimisă la promulgare (LP): [lp-e42d0999.md](lp-e42d0999.md); official file https://www.senat.ro/legis/PDF/2025/25L272LP.PDF
+- 2026-06-16: Document (RX1): [rx1-cd7ef9e5.md](rx1-cd7ef9e5.md); official file https://www.senat.ro/legis/PDF/2025/25L272RX1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-06-16: Document (CX): [cx-218ea3a8.md](cx-218ea3a8.md); official file https://www.senat.ro/legis/PDF/2025/25L272CX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-06-16: Document (XD1): [xd1-c821c51d.md](xd1-c821c51d.md); official file https://www.senat.ro/legis/PDF/2025/25L272XD1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-06-16: Document (SX1): [sx1-f4d3482e.md](sx1-f4d3482e.md); official file https://www.senat.ro/legis/PDF/2025/25L272SX1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-06-16: Document (XXS): [xxs-c6ac8b3a.md](xxs-c6ac8b3a.md); official file https://www.senat.ro/legis/PDF/2025/25L272XXS.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-06-16: Document (PX): [px-48e63246.md](px-48e63246.md); official file https://www.senat.ro/legis/PDF/2025/25L272PX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-06-16: Decret de promulgare (DP): [dp-0a96f8d2.md](dp-0a96f8d2.md); official file https://www.senat.ro/legis/PDF/2025/25L272DP.PDF
+- 2026-06-16: Forma promulgată (FP): [fp-8ced912e.md](fp-8ced912e.md); official file https://www.senat.ro/legis/PDF/2025/25L272FP.PDF
