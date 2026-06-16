@@ -15,6 +15,7 @@ Initiator: Membri ai Parlamentului.
 - 2026-03-25: documents published: Aviz comisie
 - 2026-03-26: documents published: Aviz comisie
 - 2026-05-04: rejected by the Senate; documents published: Adresă către Camera Deputaților
+- 2026-06-16: documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -29,3 +30,11 @@ Initiator: Membri ai Parlamentului.
 - 2026-03-25: Aviz comisie (CA19): [ca19-89e781f5.md](ca19-89e781f5.md); official file https://www.senat.ro/legis/PDF/2026/26L143CA19.PDF
 - 2026-03-26: Aviz comisie (CA16): [ca16-cb01c92f.md](ca16-cb01c92f.md); official file https://www.senat.ro/legis/PDF/2026/26L143CA16.PDF
 - 2026-05-04: Adresă către Camera Deputaților (AM): [am-da54e279.md](am-da54e279.md); official file https://www.senat.ro/legis/PDF/2026/26L143AM.PDF
+- 2026-06-16: Document (CF): [cf-eab1067a.md](cf-eab1067a.md); official file https://www.senat.ro/legis/PDF/2026/26L143CF.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-06-16: Document (AG1): [ag1-b2bc8df5.md](ag1-b2bc8df5.md); official file https://www.senat.ro/legis/PDF/2026/26L143AG1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-06-16: Document (SM): [sm-bd236c1f.md](sm-bd236c1f.md); official file https://www.senat.ro/legis/PDF/2026/26L143SM.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-06-16: Document (AH1): [ah1-eff30cf3.md](ah1-eff30cf3.md); official file https://www.senat.ro/legis/PDF/2026/26L143AH1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-06-16: Document (AH2): [ah2-64991335.md](ah2-64991335.md); official file https://www.senat.ro/legis/PDF/2026/26L143AH2.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-06-16: Document (AH3): [ah3-3abe5512.md](ah3-3abe5512.md); official file https://www.senat.ro/legis/PDF/2026/26L143AH3.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-06-16: Document (AH4): [ah4-a709c812.md](ah4-a709c812.md); official file https://www.senat.ro/legis/PDF/2026/26L143AH4.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-06-16: Document (CC): [cc-8e7f7351.md](cc-8e7f7351.md); official file https://www.senat.ro/legis/PDF/2026/26L143CC.PDF (its day is not given by the bill file: shown from the last stage held)
