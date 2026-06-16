@@ -1,0 +1,392 @@
+{
+ "key": "iccj-hp-66-2026",
+ "label": "Decizia ÎCCJ nr. 66/2026 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "66",
+ "date": "2026-05-04",
+ "year": "2026",
+ "heading": "DECIZIA nr. 66 din 4 mai 2026",
+ "subtitle": "referitoare la beneficierea de către personalul silvic pensionat de o gratificație egală cu de minimum 5 ori salariul brut pe ultima lună de activitate",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "496",
+  "bis": false,
+  "date": "2026-06-16",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": true,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "422/1/2026",
+  "170/119/2025"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 59/2000",
+    "number": "59",
+    "year": "2000",
+    "path": "oug/2000/59"
+   },
+   "articles": [
+    {
+     "art": "46",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 234/2019",
+    "number": "234",
+    "year": "2019",
+    "path": "lege/2019/234"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 296/2023",
+    "number": "296",
+    "year": "2023",
+    "path": "lege/2023/296"
+   },
+   "articles": [
+    {
+     "art": "LXXI",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 4/2025",
+    "number": "4",
+    "year": "2025",
+    "path": "oug/2025/4"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 367/2022",
+    "number": "367",
+    "year": "2022",
+    "path": "lege/2022/367"
+   },
+   "articles": [
+    {
+     "art": "100",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Admite în parte sesizarea formulată de Curtea de Apel Brașov - Secția civilă în Dosarul nr. 170/119/2025, în vederea pronunțării unei hotărâri prealabile, și, în consecință, stabilește: Dispozițiile art. 46 alin. (4) din Ordonanța de urgență a Guvernului nr. 59/2000, în forma adoptată prin Legea nr. 234/2019, nu au fost modificate sau abrogate implicit prin dispozițiile art. LXXI alin. (3) din Legea nr. 296/2023, în forma anterioară modificării prin Ordonanța de urgență a Guvernului nr. 4/2025.",
+  "Respinge, ca inadmisibilă, cea de-a doua întrebare: dacă în interpretarea art. 100 alin. (1) din Legea nr. 367/2022, raportarea la „condițiile și limitările prevăzute de lege“ se face față de limita dreptului astfel reglementat de art. LXXI alin. (3) din Legea nr. 296/2023 sau față de dispozițiile art. 46 alin. (4) din Ordonanța de urgență a Guvernului nr. 59/2000, astfel cum a fost modificat prin Legea nr. 234/2019, ambele acte normative în forma în vigoare la data înregistrării la Inspectoratul Teritorial de Muncă București a Contractului colectiv de muncă al RNP ROMSILVA cu nr. 204 din 12 iunie 2024.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 296/2023",
+    "number": "296",
+    "year": "2023",
+    "path": "lege/2023/296"
+   },
+   "articles": [
+    {
+     "art": "LXXI",
+     "alin": [
+      "3",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "173",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 47
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 59/2000",
+    "number": "59",
+    "year": "2000",
+    "path": "oug/2000/59"
+   },
+   "articles": [
+    {
+     "art": "46",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "173",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 31
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 14/2025",
+    "number": "14",
+    "year": "2025",
+    "path": "oug/2025/14"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 367/2022",
+    "number": "367",
+    "year": "2022",
+    "path": "lege/2022/367"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "100",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "109",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 234/2019",
+    "number": "234",
+    "year": "2019",
+    "path": "lege/2019/234"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 156/2024",
+    "number": "156",
+    "year": "2024",
+    "path": "oug/2024/156"
+   },
+   "articles": [
+    {
+     "art": "XLI",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanței Guvernului nr. 26/2013",
+    "number": "26",
+    "year": "2013",
+    "path": "og/2013/26"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "37",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 63/2011",
+    "number": "63",
+    "year": "2011",
+    "path": "lege/2011/63"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 281/1993",
+    "number": "281",
+    "year": "1993",
+    "path": "hg/1993/281"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 53/2003",
+    "number": "53",
+    "year": "2003",
+    "path": "lege/2003/53"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 4/2025",
+    "number": "4",
+    "year": "2025",
+    "path": "oug/2025/4"
+   },
+   "articles": [],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 98/1999",
+    "number": "98",
+    "year": "1999",
+    "path": "oug/1999/98"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2026-06-16",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/311376",
+  "text_sha256": "6675e0b37b7e50f8f49f5f38610161771becd3e466a3a13f549d62d6ae259990",
+  "catalogue_sha256": "6675e0b37b7e50f8f49f5f38610161771becd3e466a3a13f549d62d6ae259990",
+  "fetched": "2026-11-03T00:47:39Z",
+  "chars": 62881,
+  "portal_id": "311376",
+  "tip": "DECIZIE"
+ }
+}
