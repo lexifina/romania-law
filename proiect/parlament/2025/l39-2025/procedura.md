@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2026-05-20: adopted by the Chamber of Deputies
 - 2026-05-26: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2026-05-28: sent for promulgation
+- 2026-06-16: promulgated, becomes Legea nr. 97/2026; published in the Monitorul Oficial; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -39,3 +40,5 @@ Initiator: Guvernul României.
 - 2025-03-29: Adresă către Camera Deputaților (AM): [am-198030e8.md](am-198030e8.md); official file https://www.senat.ro/legis/PDF/2025/25L039AM.PDF
 - 2026-05-26: Adresă privind sesizarea CCR (AXS): [axs-1849d43c.md](axs-1849d43c.md); official file https://www.senat.ro/legis/PDF/2025/25L039AXS.PDF
 - 2026-05-26: Forma trimisă la promulgare (LP): [lp-de68c786.md](lp-de68c786.md); official file https://www.senat.ro/legis/PDF/2025/25L039LP.PDF
+- 2026-06-16: Decret de promulgare (DP): [dp-5e28cfc8.md](dp-5e28cfc8.md); official file https://www.senat.ro/legis/PDF/2025/25L039DP.PDF
+- 2026-06-16: Forma promulgată (FP): [fp-9615472e.md](fp-9615472e.md); official file https://www.senat.ro/legis/PDF/2025/25L039FP.PDF
