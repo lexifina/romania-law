@@ -1,0 +1,19 @@
+# Propunere legislativă L417/2026
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 176/2026 (`legea-176-2026`).
+
+Propunere legislativă privind instituirea unei scheme de ajutor de stat pentru susținerea activității crescătorilor din sectorul bovin, în anul 2026, în contextul crizei din Orientul Mijlociu
+
+Initiator: Membri ai Parlamentului.
+
+## Stages published so far
+
+- 2026-06-16: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
+
+## Documents
+
+- 2026-06-16: Adresă de înaintare a inițiativei (AD): [ad-41e9509d.md](ad-41e9509d.md); official file https://www.senat.ro/legis/PDF/2026/26L417AD.PDF
+- 2026-06-16: Forma inițiatorului (FG): [fg-7d560e46.md](fg-7d560e46.md); official file https://www.senat.ro/legis/PDF/2026/26L417FG.PDF
+- 2026-06-16: Expunere de motive (EM): [em-b0f23e80.md](em-b0f23e80.md); official file https://www.senat.ro/legis/PDF/2026/26L417EM.PDF
