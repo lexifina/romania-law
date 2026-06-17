@@ -14,6 +14,7 @@ Initiator: Membri ai Parlamentului.
 - 2026-05-04: documents published: Aviz comisie
 - 2026-05-11: documents published: Raport comisie sesizată pe fond
 - 2026-05-12: documents published: Aviz comisie
+- 2026-06-17: adopted by the Senate; documents published: Document (day not given by the bill file), Forma adoptată de Senat, Adresă către Camera Deputaților
 
 ## Documents
 
@@ -27,3 +28,10 @@ Initiator: Membri ai Parlamentului.
 - 2026-05-11: Raport comisie sesizată pe fond (CR): [cr-88c8477c.md](cr-88c8477c.md); official file https://www.senat.ro/legis/PDF/2026/26L270CR.PDF
 - 2026-05-12: Aviz comisie (CA3): [ca3-0f54d95f.md](ca3-0f54d95f.md); official file https://www.senat.ro/legis/PDF/2026/26L270CA3.PDF
 - 2026-05-12: Aviz comisie (CA41): [ca41-cf2a008a.md](ca41-cf2a008a.md); official file https://www.senat.ro/legis/PDF/2026/26L270CA41.PDF
+- 2026-06-17: Document (CF): [cf-7bd5a539.md](cf-7bd5a539.md); official file https://www.senat.ro/legis/PDF/2026/26L270CF.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-06-17: Document (CC): [cc-a56ca0d0.md](cc-a56ca0d0.md); official file https://www.senat.ro/legis/PDF/2026/26L270CC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-06-17: Document (AG1): [ag1-9e5c8045.md](ag1-9e5c8045.md); official file https://www.senat.ro/legis/PDF/2026/26L270AG1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-06-17: Document (AH1): [ah1-d764a094.md](ah1-d764a094.md); official file https://www.senat.ro/legis/PDF/2026/26L270AH1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-06-17: Document (AG2): [ag2-cab7ce67.md](ag2-cab7ce67.md); official file https://www.senat.ro/legis/PDF/2026/26L270AG2.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-06-17: Forma adoptată de Senat (FS): [fs-a343bb7e.md](fs-a343bb7e.md); official file https://www.senat.ro/legis/PDF/2026/26L270FS.PDF
+- 2026-06-17: Adresă către Camera Deputaților (AM): [am-8ae332af.md](am-8ae332af.md); official file https://www.senat.ro/legis/PDF/2026/26L270AM.PDF
