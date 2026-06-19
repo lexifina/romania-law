@@ -18,6 +18,7 @@ Initiator: Membri ai Parlamentului.
 - 2026-05-20: adopted by the Chamber of Deputies
 - 2026-05-26: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2026-06-02: sent for promulgation
+- 2026-06-19: promulgated, becomes Legea nr. 98/2026; published in the Monitorul Oficial; documents published: Document (day not given by the bill file), Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -32,3 +33,6 @@ Initiator: Membri ai Parlamentului.
 - 2026-03-04: Adresă către Camera Deputaților (AM): [am-1007b371.md](am-1007b371.md); official file https://www.senat.ro/legis/PDF/2026/26L029AM.PDF
 - 2026-05-26: Adresă privind sesizarea CCR (AXS): [axs-fbdbd2ae.md](axs-fbdbd2ae.md); official file https://www.senat.ro/legis/PDF/2026/26L029AXS.PDF
 - 2026-05-26: Forma trimisă la promulgare (LP): [lp-36d8fd47.md](lp-36d8fd47.md); official file https://www.senat.ro/legis/PDF/2026/26L029LP.PDF
+- 2026-06-19: Document (AG1): not held as text; official file https://www.senat.ro/legis/PDF/2026/26L029AG1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-06-19: Decret de promulgare (DP): [dp-3772a1e9.md](dp-3772a1e9.md); official file https://www.senat.ro/legis/PDF/2026/26L029DP.PDF
+- 2026-06-19: Forma promulgată (FP): [fp-a1934d6e.md](fp-a1934d6e.md); official file https://www.senat.ro/legis/PDF/2026/26L029FP.PDF
