@@ -22,6 +22,7 @@ Initiator: Membri ai Parlamentului.
 - 2026-05-20: adopted by the Chamber of Deputies
 - 2026-05-26: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2026-06-02: sent for promulgation
+- 2026-06-19: promulgated, becomes Legea nr. 99/2026; published in the Monitorul Oficial; documents published: Document (day not given by the bill file), Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -39,3 +40,7 @@ Initiator: Membri ai Parlamentului.
 - 2025-12-17: Adresă către Camera Deputaților (AM): [am-75340340.md](am-75340340.md); official file https://www.senat.ro/legis/PDF/2025/25L410AM.PDF
 - 2026-05-26: Adresă privind sesizarea CCR (AXS): [axs-2eed1e6e.md](axs-2eed1e6e.md); official file https://www.senat.ro/legis/PDF/2025/25L410AXS.PDF
 - 2026-05-26: Forma trimisă la promulgare (LP): [lp-9838cb98.md](lp-9838cb98.md); official file https://www.senat.ro/legis/PDF/2025/25L410LP.PDF
+- 2026-06-19: Document (CC): [cc-ba4c2adc.md](cc-ba4c2adc.md); official file https://www.senat.ro/legis/PDF/2025/25L410CC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-06-19: Document (AG1): not held as text; official file https://www.senat.ro/legis/PDF/2025/25L410AG1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-06-19: Decret de promulgare (DP): [dp-cb5b149f.md](dp-cb5b149f.md); official file https://www.senat.ro/legis/PDF/2025/25L410DP.PDF
+- 2026-06-19: Forma promulgată (FP): [fp-e53108af.md](fp-e53108af.md); official file https://www.senat.ro/legis/PDF/2025/25L410FP.PDF
