@@ -1,0 +1,84 @@
+REGULAMENTUL DELEGAT (UE) 2026/392 AL COMISIEI
+din 20 februarie 2026
+de modificare a standardelor tehnice de reglementare prevăzute în Regulamentul delegat (UE) 2017/577 în ceea ce privește plafonul pentru volum și furnizarea de informații în scopul transparenței și al altor calcule
+(Text cu relevanță pentru SEE)
+COMISIA EUROPEANĂ,
+având în vedere Tratatul privind funcționarea Uniunii Europene,
+având în vedere Regulamentul (UE) nr. 600/2014 al Parlamentului European și al Consiliului din 15 mai 2014 privind piețele instrumentelor financiare și de modificare a Regulamentului (UE) nr. 648/2012 (1), în special articolul 5 alineatul (9) și articolul 22 alineatul (3),
+întrucât:
+(1) Directiva (UE) 2024/790 a Parlamentului European și a Consiliului (2) a modificat definiția „operatorului independent” prevăzută la articolul 4 alineatul (1) punctul 20 din Directiva 2014/65/UE a Parlamentului European și a Consiliului (3). Modificarea respectivă a înlocuit criteriile cantitative pentru a stabili ce înseamnă „în mod organizat, frecvent și sistematic” cu o evaluare calitativă și a limitat evaluarea respectivă numai la instrumentele de capitaluri proprii, lăsând în același timp firmelor de investiții posibilitatea de a alege să devină operatori independenți pentru alte instrumente decât cele de capitaluri proprii. Prin urmare, este necesar să se elimine din Regulamentul delegat (UE) 2017/577 al Comisiei (4) obligația locurilor de tranzacționare, a mecanismelor de publicare aprobate (APA) și a furnizorilor de sisteme centralizate de raportare (CTP) de a furniza autorităților lor competente datele necesare pentru efectuarea calculelor prevăzute la articolele 12-15 din Regulamentul delegat (UE) 2017/565 al Comisiei (5) care au fost utilizate pentru a evalua dacă au fost îndeplinite criteriile cantitative relevante.
+(2) În scopul transparenței și al altor calcule, datele sunt raportate în prezent utilizând formatul XML. Pentru a reflecta practica actuală în materie de supraveghere, Regulamentul delegat (UE) 2017/577 ar trebui modificat pentru a specifica faptul că formatul XML ar trebui utilizat pentru datele raportate pentru efectuarea calculelor care au loc la date prestabilite sau cu frecvențe predefinite.
+(3) Autoritatea Europeană pentru Valori Mobiliare și Piețe (ESMA) și autoritățile competente ar putea fi nevoite să solicite ad-hoc date de la locurile de tranzacționare, de la APA-uri și de la CTP-uri în cadrul evaluării lor privind transparența pretranzacționare și posttranzacționare și regimurile obligației de tranzacționare. Pentru a permite transmiterea eficientă a datelor și consolidarea cu date similare din alte surse, ESMA și autoritățile competente ar trebui, în cazul cererilor de date ad-hoc, să poată specifica formatul în care ar trebui transmise datele. Pentru a reduce la minimum sarcina pentru participanții la piață, ESMA și autoritățile competente ar trebui să se bazeze cât mai mult posibil pe seturile de date existente, inclusiv pe datele privind tranzacțiile raportate în conformitate cu articolul 26 din Regulamentul (UE) nr. 600/2014, și să recurgă la cereri de date ad-hoc numai dacă este necesar.
+(4) Regulamentul (UE) 2024/791 al Parlamentului European și al Consiliului (6) a modificat Regulamentul (UE) nr. 600/2014, prelungind la cinci ani obligația operatorilor locurilor de tranzacționare, a APA-urilor și a CTP-urilor de a ține evidența. Modificarea respectivă ar trebui să se reflecte în Regulamentul delegat (UE) 2017/577.
+(5) ESMA a evaluat dacă datele privind tranzacțiile raportate în conformitate cu articolul 26 din Regulamentul (UE) nr. 600/2014 pot fi utilizate pentru a calcula volumul total al tranzacțiilor cu un instrument financiar efectuate în Uniune și procentul tranzacțiilor cu un instrument financiar efectuate în Uniune care intră sub incidența derogării bazate pe prețul de referință, astfel cum se menționează la articolul 5 din regulamentul respectiv. Având în vedere rezultatele pozitive ale evaluării respective și necesitatea de a reduce sarcina de raportare pentru participanții la piață, ESMA a anunțat că datele privind tranzacțiile raportate în conformitate cu articolul 26 din Regulamentul (UE) nr. 600/2014 vor fi utilizate pentru a furniza o măsură exactă a volumului total al tranzacțiilor pentru fiecare instrument financiar și a procentajelor tranzacțiilor care intră sub incidența derogării bazate pe prețul de referință în întreaga Uniune, astfel cum se menționează la articolul 5 din regulamentul respectiv. Prin urmare, ar trebui eliminate articolul 6 din Regulamentul delegat (UE) 2017/577 privind cerințele de raportare pentru locurile de tranzacționare și CTP-uri în scopul mecanismului de plafonare a volumului, precum și cerințele prevăzute la articolul 7 ca autoritățile competente să raporteze către ESMA în scopul mecanismului de plafonare a volumului. Ar trebui eliminată, de asemenea, anexa la Regulamentul delegat (UE) 2017/577, care stabilește formatele raportului în scopul mecanismului de plafonare a volumului.
+(6) Articolul 7 din Regulamentul delegat (UE) 2017/577 impune autorităților competente să furnizeze ESMA datele pe care le-au primit de la un loc de tranzacționare, un APA sau un CTP în scopul obligației de tranzacționare pentru instrumentele financiare derivate. Pentru a reflecta practica actuală de supraveghere, conform căreia locurile de tranzacționare, APA-urile și CTP-urile transmit datele direct către ESMA, ar trebui să se impună, în locul acelei cerințe, raportarea directă a datelor către ESMA.
+(7) Articolul 5 din Regulamentul (UE) nr. 600/2014 privind plafonul pentru volum a fost modificat prin Regulamentul (UE) 2024/791, care a înlocuit dublul plafon pentru volum cu un plafon unic pentru volum la nivelul Uniunii, stabilit la 7 %. Regulamentul (UE) 2024/791 a eliminat, de asemenea, din domeniul de aplicare al tranzacțiilor care fac obiectul plafonului pentru volum tranzacțiile care intră sub incidența derogării menționate la articolul 4 alineatul (1) litera (b) punctul (i) din Regulamentul (UE) nr. 600/2014 (derogarea privind tranzacțiile negociate pentru instrumentele lichide) și a permis locurilor de tranzacționare să suspende utilizarea derogării menționate la articolul 4 alineatul (1) litera (a) din regulamentul respectiv (derogarea bazată pe prețul de referință) pe baza datelor de tranzacționare publicate trimestrial de ESMA. În plus, Directiva (UE) 2019/1024 a Parlamentului European și a Consiliului (7) a introdus o definiție armonizată a „formatului prelucrabil automat” aplicabilă organismelor din sectorul public. Prin urmare, articolul 8 din Regulamentul delegat (UE) 2017/577, privind cerințele de publicare aplicabile ESMA în scopul plafonului pentru volum, ar trebui modificat astfel încât să reflecte aceste modificări.
+(8) Regulamentul delegat (UE) 2017/577 ar trebui, așadar, modificat în consecință.
+(9) Prezentul regulament se bazează pe proiectul de standarde tehnice de reglementare transmis Comisiei de către ESMA.
+(10) ESMA a efectuat consultări publice deschise cu privire la proiectul de standarde tehnice de reglementare pe care se bazează prezentul regulament, a analizat costurile și beneficiile potențiale aferente și a solicitat opinia Grupului părților interesate din domeniul valorilor mobiliare și piețelor înființat în temeiul articolului 37 din Regulamentul (UE) nr. 1095/2010 al Parlamentului European și al Consiliului (8),
+ADOPTĂ PREZENTUL REGULAMENT:
+Articolul 1
+Modificări aduse Regulamentului delegat (UE) 2017/577
+Regulamentul delegat (UE) 2017/577 se modifică după cum urmează:
+1. La articolul 1, alineatul (1) se modifică după cum urmează:
+(a) litera (e) se elimină;
+(b) literele (f) și (g) se înlocuiesc cu următorul text:
+„(f) | mărimea standard de piață aplicabilă operatorilor independenți care tranzacționează instrumente de capitaluri proprii și instrumente asimilabile instrumentelor de capitaluri proprii;
+(g) pentru instrumentele de capitaluri proprii și instrumentele asimilabile instrumentelor de capitaluri proprii, volumul total al tranzacțiilor efectuate în Uniune cu fiecare instrument financiar în ultimele 12 luni și procentajele tranzacțiilor cu fiecare instrument financiar efectuate în întreaga Uniune în ultimele 12 luni care intră sub incidența derogării menționate la articolul 4 alineatul (1) litera (a) din Regulamentul (UE) nr. 600/2014;”.
+2. Articolul 2 se înlocuiește cu următorul text:
+„Articolul 2
+Conținutul solicitărilor de date și informațiile care trebuie raportate
+(1) Pentru calculele care au loc la date prestabilite sau cu frecvențe predefinite, locurile de tranzacționare, APA-urile și CTP-urile transmit ESMA și autorităților lor competente toate datele necesare pentru efectuarea calculelor prevăzute în următoarele regulamente:
+(a) Regulamentul delegat (UE) 2017/587;
+(b) Regulamentul delegat (UE) 2017/583;
+(c) Regulamentul delegat (UE) 2017/567.
+(2) Cererile de informații ad-hoc formulate de ESMA și de autoritățile competente în sensul articolului 22 alineatul (1) din Regulamentul (UE) nr. 600/2014 trebuie să conțină denumirea entității raportoare și orice detalii necesare în scopul cererii.
+(3) Locurile de tranzacționare, APA-urile și CTP-urile furnizează ESMA și autorităților lor competente, la cerere, toate datele pe care ESMA trebuie să le ia în considerare în temeiul Regulamentului delegat (UE) 2016/2020 pentru alte instrumente financiare decât cele de capitaluri proprii, inclusiv date privind următoarele:
+(a) frecvența medie a tranzacțiilor;
+(b) mărimea medie și distribuția tranzacțiilor;
+(c) numărul și tipul participanților la piață;
+(d) mărimea medie a spreadurilor.”
+3. La articolul 3, alineatul (3) se elimină.
+4. Articolele 4 și 5 se înlocuiesc cu următorul text:
+„Articolul 4
+Formatul solicitărilor de date
+(1) Locurile de tranzacționare, APA-urile și CTP-urile furnizează datele menționate la articolul 2 alineatul (1) într-un format XML obișnuit.
+(2) Locurile de tranzacționare, APA-urile și CTP-urile furnizează datele menționate la articolul 2 alineatele (2) și (3) în formatul specificat în cerere.
+Articolul 5
+Tipul de date care trebuie stocate și intervalul de timp pentru care locurile de tranzacționare, APA-urile și CTP-urile trebuie să stocheze datele
+(1) Locurile de tranzacționare, APA-urile și CTP-urile stochează timp de cinci ani toate datele necesare pentru efectuarea calculelor menționate la articolul 2 alineatul (1), indiferent dacă informațiile respective au fost sau nu făcute publice.
+(2) Locurile de tranzacționare, APA-urile și CTP-urile stochează timp de cinci ani toate datele pe care ESMA sau autoritățile competente le-ar putea solicita în conformitate cu articolul 2 alineatele (2) și (3), indiferent dacă informațiile respective au fost sau nu făcute publice.”
+5. Articolul 6 se elimină.
+6. Articolul 7 se modifică după cum urmează:
+(a) titlul se înlocuiește cu următorul text:
+„Articolul 7
+Cerințele de raportare către ESMA aplicabile locurilor de tranzacționare, APA-urilor și CTP-urilor în ceea ce privește obligația de tranzacționare pentru instrumentele financiare derivate”;
+(b) alineatul (1) se elimină;
+(c) alineatul (2) se înlocuiește cu următorul text:
+„(2) Locurile de tranzacționare, APA-urile și CTP-urile transmit ESMA, fără întârzieri nejustificate și în termen de cel mult trei zile lucrătoare de la primirea datelor în cauză, datele pentru a stabili dacă instrumentele financiare derivate sunt suficient de lichide, astfel cum se menționează la articolul 1 alineatul (1) litera (h).”
+7. Articolul 8 se înlocuiește cu următorul text:
+„Articolul 8
+Cerințele de publicare aplicabile ESMA în ceea ce privește plafonul pentru volum
+(1) ESMA publică măsurările volumului total al tranzacțiilor cu fiecare instrument financiar din ultimele 12 luni și ale procentajelor tranzacțiilor care intră sub incidența derogării bazate pe prețul de referință în întreaga Uniune în ultimele 12 luni, în conformitate cu articolul 5 alineatul (4) din Regulamentul (UE) nr. 600/2014, cel târziu la ora 22.00 CET în a șaptea zi lucrătoare după sfârșitul lunilor martie, iunie, septembrie și decembrie ale fiecărui an calendaristic.
+(2) Informațiile menționate la alineatul (1) sunt publicate gratuit și într-un format prelucrabil automat și care poate fi citit de om, astfel cum este definit la articolul 2 punctul 4 din Regulamentul (UE) 2023/2859 al Parlamentului European și al Consiliului(*1) și astfel cum este specificat la articolul 13 alineatul (5) din Regulamentul delegat (UE) 2017/567.
+(3) Atunci când un instrument financiar este tranzacționat în mai multe monede în întreaga Uniune, ESMA convertește toate volumele în euro folosind cursurile de schimb medii calculate pe baza ratelor de schimb de referință zilnice pentru moneda euro publicate de Banca Centrală Europeană pe site-ul său internet în ultimele 12 luni. ESMA utilizează volumele convertite respective pentru calcularea și publicarea volumului total al tranzacțiilor și a procentajelor tranzacțiilor care intră sub incidența derogării bazate pe prețul de referință în întreaga Uniune, astfel cum se menționează la alineatul (1).
+(*1) Regulamentul (UE) 2023/2859 al Parlamentului European și al Consiliului din 13 decembrie 2023 de înființare a unui punct unic de acces european care oferă acces centralizat la informațiile puse la dispoziția publicului relevante pentru serviciile financiare, pentru piețele de capital și pentru durabilitate (JO L, 2023/2859, 20.12.2023, ELI: http://data.europa.eu/eli/reg/2023/2859/oj).”"
+() Regulamentul (UE) 2023/2859 al Parlamentului European și al Consiliului din 13 decembrie 2023 de înființare a unui punct unic de acces european care oferă acces centralizat la informațiile puse la dispoziția publicului relevante pentru serviciile financiare, pentru piețele de capital și pentru durabilitate (JO L, 2023/2859, 20.12.2023, ELI: http://data.europa.eu/eli/reg/2023/2859/oj).”
+8. Anexa se elimină.
+Articolul 2
+Intrare în vigoare
+Prezentul regulament intră în vigoare în a douăzecea zi de la data publicării în Jurnalul Oficial al Uniunii Europene.
+Prezentul regulament este obligatoriu în toate elementele sale și se aplică direct în toate statele membre.
+Adoptat la Bruxelles, 20 februarie 2026.
+Pentru Comisie
+Președinta
+Ursula VON DER LEYEN
+(1) JO L 173, 12.6.2014, p. 84, ELI: http://data.europa.eu/eli/reg/2014/600/oj.
+(2) Directiva (UE) 2024/790 a Parlamentului European și a Consiliului din 28 februarie 2024 de modificare a Directivei 2014/65/UE privind piețele instrumentelor financiare (JO L, 2024/790, 8.3.2024, ELI: http://data.europa.eu/eli/dir/2024/790/oj).
+(3) Directiva 2014/65/UE a Parlamentului European și a Consiliului din 15 mai 2014 privind piețele instrumentelor financiare și de modificare a Directivei 2002/92/CE și a Directivei 2011/61/UE (JO L 173, 12.6.2014, p. 349, ELI: http://data.europa.eu/eli/dir/2014/65/oj).
+(4) Regulamentul delegat (UE) 2017/577 al Comisiei din 13 iunie 2016 de completare a Regulamentului (UE) nr. 600/2014 al Parlamentului European și al Consiliului privind piețele instrumentelor financiare în ceea ce privește standardele tehnice de reglementare referitoare la mecanismul de plafonare a volumului și la furnizarea de informații în scopul transparenței și al altor calcule (JO L 87, 31.3.2017, p. 174, ELI: http://data.europa.eu/eli/reg_del/2017/577/oj).
+(5) Regulamentul delegat (UE) 2017/565 al Comisiei din 25 aprilie 2016 de completare a Directivei 2014/65/UE a Parlamentului European și a Consiliului în ceea ce privește cerințele organizatorice și condițiile de funcționare aplicabile firmelor de investiții și termenii definiți în sensul directivei menționate (JO L 87, 31.3.2017, p. 1, ELI: http://data.europa.eu/eli/reg_del/2017/565/oj).
+(6) Regulamentul (UE) 2024/791 al Parlamentului European și al Consiliului din 28 februarie 2024 de modificare a Regulamentului (UE) nr. 600/2014 în ceea ce privește sporirea transparenței datelor, eliminarea obstacolelor din calea creării unor sisteme centralizate de raportare, optimizarea obligațiilor de tranzacționare și interzicerea primirii de plăți pentru fluxul de ordine (JO L, 2024/791, 8.3.2024, ELI: http://data.europa.eu/eli/reg/2024/791/oj).
+(7) Directiva (UE) 2019/1024 a Parlamentului European și a Consiliului din 20 iunie 2019 privind datele deschise și reutilizarea informațiilor din sectorul public (JO L 172, 26.6.2019, p. 56, ELI: http://data.europa.eu/eli/dir/2019/1024/oj).
+(8) Regulamentul (UE) nr. 1095/2010 al Parlamentului European și al Consiliului din 24 noiembrie 2010 de instituire a Autorității europene de supraveghere (Autoritatea europeană pentru valori mobiliare și piețe), de modificare a Deciziei nr. 716/2009/CE și de abrogare a Deciziei 2009/77/CE a Comisiei (JO L 331, 15.12.2010, p. 84, ELI: http://data.europa.eu/eli/reg/2010/1095/oj).
+ELI: http://data.europa.eu/eli/reg_del/2026/392/oj
