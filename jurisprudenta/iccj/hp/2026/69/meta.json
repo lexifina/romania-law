@@ -1,0 +1,176 @@
+{
+ "key": "iccj-hp-69-2026",
+ "label": "Decizia ÎCCJ nr. 69/2026 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "69",
+ "date": "2026-05-18",
+ "year": "2026",
+ "heading": "DECIZIA nr. 69 din 18 mai 2026",
+ "subtitle": "referitoare la stabilirea momentului procedural până la care se poate invoca excepția prescripției extinctive în procedura cu privire la cererile cu valoare redusă, față de prevederile art. 2.513 din Codul civil și cele ale art. 1.030 alin. (1) din Codul de procedură civilă",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "511",
+  "bis": false,
+  "date": "2026-06-22",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "488/1/2026",
+  "10.185/190/2024"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "2513",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "1030",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Tribunalul Bistrița-Năsăud - Secția a II-a civilă, de contencios administrativ și fiscal, în Dosarul nr. 10.185/190/2024, în vederea pronunțării unei hotărâri prealabile cu privire la următoarea chestiune de drept: Stabilirea momentului procedural până la care se poate invoca excepția prescripției extinctive în procedura cu privire la cererile cu valoare redusă, față de prevederile art. 2.513 din Codul civil și cele ale art. 1.030 alin. (1) din Codul de procedură civilă.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "2513",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1030",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "1030",
+     "alin": [
+      "1",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1026",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "477",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "478",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "483",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "201",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "208",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1025",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "130",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 20
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2026-06-22",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/311498",
+  "text_sha256": "3ea6eea5457308ef5e60f66647bf078172ed0970b38dd25a6b38fef57f85048d",
+  "catalogue_sha256": "3ea6eea5457308ef5e60f66647bf078172ed0970b38dd25a6b38fef57f85048d",
+  "fetched": "2026-11-03T00:47:46Z",
+  "chars": 34536,
+  "portal_id": "311498",
+  "tip": "DECIZIE"
+ }
+}
