@@ -13,6 +13,7 @@ Initiator: Membri ai Parlamentului.
 - 2026-05-26: documents published: Aviz comisie
 - 2026-05-27: documents published: Aviz comisie
 - 2026-06-10: documents published: Raport comisie sesizată pe fond
+- 2026-06-23: adopted by the Senate; documents published: Document (day not given by the bill file), Forma adoptată de Senat, Adresă către Camera Deputaților
 
 ## Documents
 
@@ -24,3 +25,8 @@ Initiator: Membri ai Parlamentului.
 - 2026-05-26: Aviz comisie (CA58): [ca58-32323ef4.md](ca58-32323ef4.md); official file https://www.senat.ro/legis/PDF/2026/26L331CA58.PDF
 - 2026-05-27: Aviz comisie (CA52): [ca52-81b07391.md](ca52-81b07391.md); official file https://www.senat.ro/legis/PDF/2026/26L331CA52.PDF
 - 2026-06-10: Raport comisie sesizată pe fond (CR): [cr-bd1627fd.md](cr-bd1627fd.md); official file https://www.senat.ro/legis/PDF/2026/26L331CR.PDF
+- 2026-06-23: Document (ANCO): [anco-a2409924.md](anco-a2409924.md); official file https://www.senat.ro/legis/PDF/2026/26L331ANCO.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-06-23: Document (AG1): [ag1-b8792387.md](ag1-b8792387.md); official file https://www.senat.ro/legis/PDF/2026/26L331AG1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-06-23: Document (AG2): not held as text; official file https://www.senat.ro/legis/PDF/2026/26L331AG2.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-06-23: Forma adoptată de Senat (FS): [fs-c6075ee6.md](fs-c6075ee6.md); official file https://www.senat.ro/legis/PDF/2026/26L331FS.PDF
+- 2026-06-23: Adresă către Camera Deputaților (AM): [am-aadcfe37.md](am-aadcfe37.md); official file https://www.senat.ro/legis/PDF/2026/26L331AM.PDF
