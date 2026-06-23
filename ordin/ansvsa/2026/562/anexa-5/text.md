@@ -1,0 +1,33 @@
+# Anexa nr. 5 (Anexa nr. 9 la procedură)
+DECONT JUSTIFICATIV cumulativ pentru consumul de produse medicinale veterinare biologice, produse parafarmaceutice pentru efectuarea acțiunilor sanitar-veterinare
+Cabinet medical-veterinar/
+Societatea Comercială................
+Județul...............
+Nr......./..........
+Direcția Sanitar-Veterinară și pentru Siguranța Alimentelor............
+Nr....../............
+Aprobat
+Director executiv adjunct,.................
+Avizat
+Structura cu atribuții în domeniul economic și administrativ,..............
+Verificat
+Structura cu atribuții de control oficial sănătate și bunăstare animală,...........
+Medic veterinar oficial al Circumscripției Sanitar-Veterinare și pentru Siguranța Alimentelor Oficială............,........... (numele, prenumele, semnătura și ștampila)
+Luna/Acțiunea sanitar-veterinară (perioada efectuării acesteia).............
+Cabinetul medical-veterinar/Societatea Comercială..............., concesionar al acțiunilor sanitar-veterinare/prestator al serviciilor sanitar-veterinare prevăzute în Programul acțiunilor de supraveghere, prevenire și control al bolilor la animale, al celor transmisibile de la animale la om, protecția animalelor și protecția mediului, de imobilizare a animalelor care amenință viața sau integritatea corporală a persoanelor prin utilizarea și administrarea substanțelor din categoria stupefiante, psihotrope, de identificare și înregistrare a bovinelor, suinelor, ovinelor, caprinelor și ecvideelor, pe raza Circumscripției Sanitar-Veterinare................., județul................, în temeiul Contractului nr..../..../......./în cadrul exploatației comerciale deținute de S.C................., în temeiul Contractului nr....../........./........, precum și al Documentului de împuternicire nr........../......./........, am consumat următoarele produse medicinale veterinare biologice, produse parafarmaceutice primite de la Direcția Sanitar-Veterinară și pentru Siguranța Alimentelor................., pentru efectuarea/prestarea următoarelor acțiuni/servicii sanitar-veterinare:
+Nr. crt.
+Acțiune sanitară veterinară
+Denumirea produselor/materialelor utilizate la efectuarea acțiunii
+UM
+Stoc
+Bon transfer
+Cantitatea
+Stoc
+Preț mediu (lei)
+Valoarea medie/ Cantitatea utilizată nr. data primită utilizată 0 1 2 3 4 5 6 7 8 9 10 11
+TOTAL
+Medic veterinar de liberă practică împuternicit,..................... (numele, prenumele, semnătura și parafa)
+Reprezentantul legal*,..................... (numele, prenumele și semnătura)
+Ștampila unității medicale.....................
+* În cazul în care este altul decât medicul veterinar titular.
+-----
