@@ -15,6 +15,7 @@ Initiator: Membri ai Parlamentului.
 - 2026-05-06: adopted by the Chamber of Deputies; documents published: Adresă către Camera Deputaților, Forma adoptată de Camera Deputaților
 - 2026-05-26: documents published: Aviz comisie
 - 2026-06-17: documents published: Raport comisie sesizată pe fond
+- 2026-06-23: adopted by the Senate; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -30,3 +31,7 @@ Initiator: Membri ai Parlamentului.
 - 2026-05-06: Forma adoptată de Camera Deputaților (FC): [fc-20ad3164.md](fc-20ad3164.md); official file https://www.senat.ro/legis/PDF/2026/26L309FC.PDF
 - 2026-05-26: Aviz comisie (CA61): [ca61-fe3bf676.md](ca61-fe3bf676.md); official file https://www.senat.ro/legis/PDF/2026/26L309CA61.PDF
 - 2026-06-17: Raport comisie sesizată pe fond (CR): [cr-024b8af5.md](cr-024b8af5.md); official file https://www.senat.ro/legis/PDF/2026/26L309CR.PDF
+- 2026-06-23: Document (CF): [cf-2d5f4cfc.md](cf-2d5f4cfc.md); official file https://www.senat.ro/legis/PDF/2026/26L309CF.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-06-23: Document (AJ): not held as text; official file https://www.senat.ro/legis/PDF/2026/26L309AJ.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-06-23: Document (SE1): [se1-5ed3187c.md](se1-5ed3187c.md); official file https://www.senat.ro/legis/PDF/2026/26L309SE1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-06-23: Document (ARD): [ard-2c1afcab.md](ard-2c1afcab.md); official file https://www.senat.ro/legis/PDF/2026/26L309ARD.PDF (its day is not given by the bill file: shown from the last stage held)
