@@ -17,6 +17,7 @@ Initiator: Guvernul României.
 - 2026-06-10: adopted by the Chamber of Deputies
 - 2026-06-15: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2026-06-17: sent for promulgation
+- 2026-06-24: promulgated, becomes Legea nr. 105/2026; published in the Monitorul Oficial; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -31,3 +32,5 @@ Initiator: Guvernul României.
 - 2026-04-20: Adresă către Camera Deputaților (AM): [am-aa2218c9.md](am-aa2218c9.md); official file https://www.senat.ro/legis/PDF/2026/26L215AM.PDF
 - 2026-06-15: Adresă privind sesizarea CCR (AXS): [axs-44d26f21.md](axs-44d26f21.md); official file https://www.senat.ro/legis/PDF/2026/26L215AXS.PDF
 - 2026-06-15: Forma trimisă la promulgare (LP): [lp-8a943fde.md](lp-8a943fde.md); official file https://www.senat.ro/legis/PDF/2026/26L215LP.PDF
+- 2026-06-24: Decret de promulgare (DP): [dp-3181f1ff.md](dp-3181f1ff.md); official file https://www.senat.ro/legis/PDF/2026/26L215DP.PDF
+- 2026-06-24: Forma promulgată (FP): [fp-7e2819f5.md](fp-7e2819f5.md); official file https://www.senat.ro/legis/PDF/2026/26L215FP.PDF
