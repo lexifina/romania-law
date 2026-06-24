@@ -20,6 +20,7 @@ Initiator: Guvernul României.
 - 2024-10-01: registered at the Chamber of Deputies
 - 2026-06-10: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2026-06-12: sent for promulgation
+- 2026-06-24: promulgated, becomes Legea nr. 104/2026; published in the Monitorul Oficial; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -39,3 +40,5 @@ Initiator: Guvernul României.
 - 2024-09-23: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L416AM.PDF
 - 2026-06-10: Adresă privind sesizarea CCR (AXS): [axs-a089d463.md](axs-a089d463.md); official file https://www.senat.ro/legis/PDF/2024/24L416AXS.PDF
 - 2026-06-10: Forma trimisă la promulgare (LP): [lp-24a702ec.md](lp-24a702ec.md); official file https://www.senat.ro/legis/PDF/2024/24L416LP.PDF
+- 2026-06-24: Decret de promulgare (DP): [dp-3192cd13.md](dp-3192cd13.md); official file https://www.senat.ro/legis/PDF/2024/24L416DP.PDF
+- 2026-06-24: Forma promulgată (FP): [fp-7136629d.md](fp-7136629d.md); official file https://www.senat.ro/legis/PDF/2024/24L416FP.PDF
