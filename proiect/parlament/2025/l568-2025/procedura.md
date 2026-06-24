@@ -19,6 +19,7 @@ Initiator: Membri ai Parlamentului.
 - 2026-05-26: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2026-06-02: sent for promulgation
 - 2026-06-19: returned for re-examination
+- 2026-06-24: documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -34,3 +35,6 @@ Initiator: Membri ai Parlamentului.
 - 2026-02-22: Adresă către Camera Deputaților (AM): [am-bb503bf7.md](am-bb503bf7.md); official file https://www.senat.ro/legis/PDF/2025/25L568AM.PDF
 - 2026-05-26: Adresă privind sesizarea CCR (AXS): [axs-2ed780d3.md](axs-2ed780d3.md); official file https://www.senat.ro/legis/PDF/2025/25L568AXS.PDF
 - 2026-05-26: Forma trimisă la promulgare (LP): [lp-deeafd13.md](lp-deeafd13.md); official file https://www.senat.ro/legis/PDF/2025/25L568LP.PDF
+- 2026-06-24: Document (CF): [cf-cebe2bd3.md](cf-cebe2bd3.md); official file https://www.senat.ro/legis/PDF/2025/25L568CF.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-06-24: Document (RX1): [rx1-e8b39ec1.md](rx1-e8b39ec1.md); official file https://www.senat.ro/legis/PDF/2025/25L568RX1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-06-24: Document (XA1): [xa1-8974c7d9.md](xa1-8974c7d9.md); official file https://www.senat.ro/legis/PDF/2025/25L568XA1.PDF (its day is not given by the bill file: shown from the last stage held)
