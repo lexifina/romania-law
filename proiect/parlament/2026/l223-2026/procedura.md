@@ -18,6 +18,7 @@ Initiator: Membri ai Parlamentului.
 - 2026-05-27: adopted by the Chamber of Deputies
 - 2026-06-02: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2026-06-08: sent for promulgation
+- 2026-06-24: promulgated, becomes Legea nr. 101/2026; published in the Monitorul Oficial; documents published: Document (day not given by the bill file), Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -32,3 +33,9 @@ Initiator: Membri ai Parlamentului.
 - 2026-04-29: Adresă către Camera Deputaților (AM): [am-da38fdff.md](am-da38fdff.md); official file https://www.senat.ro/legis/PDF/2026/26L223AM.PDF
 - 2026-06-02: Adresă privind sesizarea CCR (AXS): [axs-7ffb0404.md](axs-7ffb0404.md); official file https://www.senat.ro/legis/PDF/2026/26L223AXS.PDF
 - 2026-06-02: Forma trimisă la promulgare (LP): [lp-05187623.md](lp-05187623.md); official file https://www.senat.ro/legis/PDF/2026/26L223LP.PDF
+- 2026-06-24: Document (AG1): [ag1-6200c42b.md](ag1-6200c42b.md); official file https://www.senat.ro/legis/PDF/2026/26L223AG1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-06-24: Document (CF): [cf-73dae1be.md](cf-73dae1be.md); official file https://www.senat.ro/legis/PDF/2026/26L223CF.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-06-24: Document (CC): [cc-86d667ba.md](cc-86d667ba.md); official file https://www.senat.ro/legis/PDF/2026/26L223CC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-06-24: Document (AG2): [ag2-fe0ebcec.md](ag2-fe0ebcec.md); official file https://www.senat.ro/legis/PDF/2026/26L223AG2.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-06-24: Decret de promulgare (DP): [dp-a6dde180.md](dp-a6dde180.md); official file https://www.senat.ro/legis/PDF/2026/26L223DP.PDF
+- 2026-06-24: Forma promulgată (FP): [fp-7e6d3698.md](fp-7e6d3698.md); official file https://www.senat.ro/legis/PDF/2026/26L223FP.PDF
