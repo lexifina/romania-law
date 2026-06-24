@@ -20,6 +20,7 @@ Initiator: Membri ai Parlamentului.
 - 2026-05-27: adopted by the Chamber of Deputies
 - 2026-06-02: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2026-06-08: sent for promulgation
+- 2026-06-24: promulgated, becomes Legea nr. 102/2026; published in the Monitorul Oficial; documents published: Document (day not given by the bill file), Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -35,3 +36,7 @@ Initiator: Membri ai Parlamentului.
 - 2025-12-08: Adresă către Camera Deputaților (AM): [am-caeaaf65.md](am-caeaaf65.md); official file https://www.senat.ro/legis/PDF/2025/25L479AM.PDF
 - 2026-06-02: Adresă privind sesizarea CCR (AXS): [axs-5d8c96c1.md](axs-5d8c96c1.md); official file https://www.senat.ro/legis/PDF/2025/25L479AXS.PDF
 - 2026-06-02: Forma trimisă la promulgare (LP): [lp-8634e184.md](lp-8634e184.md); official file https://www.senat.ro/legis/PDF/2025/25L479LP.PDF
+- 2026-06-24: Document (CC): [cc-2fd73775.md](cc-2fd73775.md); official file https://www.senat.ro/legis/PDF/2025/25L479CC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-06-24: Document (AG1): not held as text; official file https://www.senat.ro/legis/PDF/2025/25L479AG1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-06-24: Decret de promulgare (DP): [dp-3bcc8513.md](dp-3bcc8513.md); official file https://www.senat.ro/legis/PDF/2025/25L479DP.PDF
+- 2026-06-24: Forma promulgată (FP): [fp-16071906.md](fp-16071906.md); official file https://www.senat.ro/legis/PDF/2025/25L479FP.PDF
