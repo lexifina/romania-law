@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2026-06-08: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2026-06-15: sent for promulgation
 - 2026-06-24: promulgated, becomes Legea nr. 106/2026; documents published: Decret de promulgare, Forma promulgată
+- 2026-06-25: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -34,3 +35,7 @@ Initiator: Guvernul României.
 - 2026-06-08: Forma trimisă la promulgare (LP): [lp-7f446079.md](lp-7f446079.md); official file https://www.senat.ro/legis/PDF/2026/26L322LP.PDF
 - 2026-06-24: Decret de promulgare (DP): [dp-e8190944.md](dp-e8190944.md); official file https://www.senat.ro/legis/PDF/2026/26L322DP.PDF
 - 2026-06-24: Forma promulgată (FP): [fp-7de9c7de.md](fp-7de9c7de.md); official file https://www.senat.ro/legis/PDF/2026/26L322FP.PDF
+- 2026-06-25: Document (DR): [dr-f525ff93.md](dr-f525ff93.md); official file https://www.senat.ro/legis/PDF/2026/26L322DR.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-06-25: Document (TX): not held as text; official file https://www.senat.ro/legis/PDF/2026/26L322TX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-06-25: Document (AL): [al-56a5103f.md](al-56a5103f.md); official file https://www.senat.ro/legis/PDF/2026/26L322AL.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-06-25: Document (TC): [tc-449b5e9f.md](tc-449b5e9f.md); official file https://www.senat.ro/legis/PDF/2026/26L322TC.PDF (its day is not given by the bill file: shown from the last stage held)
