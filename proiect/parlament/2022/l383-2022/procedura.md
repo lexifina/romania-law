@@ -16,6 +16,7 @@ Initiator: Membri ai Parlamentului.
 - 2022-06-29: documents published: Aviz comisie
 - 2022-09-26: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților
 - 2022-10-04: registered at the Chamber of Deputies
+- 2026-06-25: documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -30,3 +31,5 @@ Initiator: Membri ai Parlamentului.
 - 2022-06-29: Aviz comisie (CA1): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L383CA1.PDF
 - 2022-09-26: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L383FS.PDF
 - 2022-09-26: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L383AM.PDF
+- 2026-06-25: Document (CC): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L383CC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-06-25: Document (BNR): [bnr-90e84f23.md](bnr-90e84f23.md); official file https://www.senat.ro/legis/PDF/2022/22L383BNR.PDF (its day is not given by the bill file: shown from the last stage held)
