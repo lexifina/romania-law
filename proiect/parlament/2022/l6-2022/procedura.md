@@ -16,6 +16,7 @@ Initiator: Guvernul României.
 - 2022-02-07: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților
 - 2022-02-09: registered at the Chamber of Deputies
 - 2026-06-24: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
+- 2026-06-26: sent for promulgation; promulgated, becomes Legea nr. 107/2026; published in the Monitorul Oficial; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -31,3 +32,5 @@ Initiator: Guvernul României.
 - 2022-02-07: Adresă către Camera Deputaților (AM): [am-d3af0f4f.md](am-d3af0f4f.md); official file https://www.senat.ro/legis/PDF/2022/22L006AM.PDF
 - 2026-06-24: Adresă privind sesizarea CCR (AXS): [axs-85fc1869.md](axs-85fc1869.md); official file https://www.senat.ro/legis/PDF/2022/22L006AXS.PDF
 - 2026-06-24: Forma trimisă la promulgare (LP): [lp-5199e548.md](lp-5199e548.md); official file https://www.senat.ro/legis/PDF/2022/22L006LP.PDF
+- 2026-06-26: Decret de promulgare (DP): [dp-3a328a60.md](dp-3a328a60.md); official file https://www.senat.ro/legis/PDF/2022/22L006DP.PDF
+- 2026-06-26: Forma promulgată (FP): [fp-456ac64f.md](fp-456ac64f.md); official file https://www.senat.ro/legis/PDF/2022/22L006FP.PDF
