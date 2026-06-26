@@ -16,6 +16,7 @@ Initiator: Guvernul României.
 - 2026-06-02: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților
 - 2026-06-17: adopted by the Chamber of Deputies; documents published: Forma adoptată de Camera Deputaților
 - 2026-06-24: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
+- 2026-06-26: sent for promulgation; promulgated, becomes Legea nr. 109/2026; published in the Monitorul Oficial; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -32,3 +33,5 @@ Initiator: Guvernul României.
 - 2026-06-17: Forma adoptată de Camera Deputaților (FC): [fc-b2986988.md](fc-b2986988.md); official file https://www.senat.ro/legis/PDF/2026/26L303FC.PDF
 - 2026-06-24: Adresă privind sesizarea CCR (AXS): [axs-59502fe0.md](axs-59502fe0.md); official file https://www.senat.ro/legis/PDF/2026/26L303AXS.PDF
 - 2026-06-24: Forma trimisă la promulgare (LP): [lp-6ccc1362.md](lp-6ccc1362.md); official file https://www.senat.ro/legis/PDF/2026/26L303LP.PDF
+- 2026-06-26: Decret de promulgare (DP): [dp-0efeb788.md](dp-0efeb788.md); official file https://www.senat.ro/legis/PDF/2026/26L303DP.PDF
+- 2026-06-26: Forma promulgată (FP): [fp-c1617657.md](fp-c1617657.md); official file https://www.senat.ro/legis/PDF/2026/26L303FP.PDF
