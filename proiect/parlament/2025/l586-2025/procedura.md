@@ -20,6 +20,7 @@ Initiator: Guvernul României.
 - 2026-02-09: registered at the Chamber of Deputies
 - 2026-06-17: adopted by the Chamber of Deputies
 - 2026-06-24: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
+- 2026-06-26: sent for promulgation; promulgated, becomes Legea nr. 108/2026; published in the Monitorul Oficial; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -40,3 +41,5 @@ Initiator: Guvernul României.
 - 2026-02-03: Aviz comisie (CA43): [ca43-16e72a83.md](ca43-16e72a83.md); official file https://www.senat.ro/legis/PDF/2025/25L586CA43.PDF
 - 2026-06-24: Adresă privind sesizarea CCR (AXS): [axs-f9fdccfb.md](axs-f9fdccfb.md); official file https://www.senat.ro/legis/PDF/2025/25L586AXS.PDF
 - 2026-06-24: Forma trimisă la promulgare (LP): [lp-dfa67f1b.md](lp-dfa67f1b.md); official file https://www.senat.ro/legis/PDF/2025/25L586LP.PDF
+- 2026-06-26: Decret de promulgare (DP): [dp-b66573dd.md](dp-b66573dd.md); official file https://www.senat.ro/legis/PDF/2025/25L586DP.PDF
+- 2026-06-26: Forma promulgată (FP): [fp-bbc37d89.md](fp-bbc37d89.md); official file https://www.senat.ro/legis/PDF/2025/25L586FP.PDF
