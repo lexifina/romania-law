@@ -22,6 +22,7 @@ Initiator: Membri ai Parlamentului.
 - 2018-11-20: documents published: Forma trimisă la promulgare
 - 2020-06-17: adopted by the Chamber of Deputies
 - 2020-06-18: returned for re-examination
+- 2026-06-29: returned for re-examination; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -36,3 +37,9 @@ Initiator: Membri ai Parlamentului.
 - 2018-09-12: Aviz comisie (CA8): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L385CA8.PDF
 - 2018-11-12: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L385FS.PDF
 - 2018-11-20: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L385LP.PDF
+- 2026-06-29: Document (AL): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L385AL.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-06-29: Document (SC1): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L385SC1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-06-29: Document (DC1): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L385DC1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-06-29: Document (RC1): [rc1-f5897c3b.md](rc1-f5897c3b.md); official file https://www.senat.ro/legis/PDF/2018/18L385RC1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-06-29: Document (X1): [x1-640e1b6e.md](x1-640e1b6e.md); official file https://www.senat.ro/legis/PDF/2018/18L385X1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-06-29: Document (ARD): [ard-4d2898b0.md](ard-4d2898b0.md); official file https://www.senat.ro/legis/PDF/2018/18L385ARD.PDF (its day is not given by the bill file: shown from the last stage held)
