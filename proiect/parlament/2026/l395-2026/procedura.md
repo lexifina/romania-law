@@ -11,6 +11,7 @@ Initiator: Membri ai Parlamentului.
 - 2026-05-27: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 - 2026-06-02: documents published: Aviz Consiliul Legislativ, Punct de vedere Guvern
 - 2026-06-24: documents published: Aviz comisie
+- 2026-06-29: registered at the Senate
 
 ## Documents
 
