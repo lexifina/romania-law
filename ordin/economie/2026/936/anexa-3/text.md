@@ -1,0 +1,6 @@
+# Anexa nr. 3
+ACTIVITĂȚILE ȘI SUBACTIVITĂȚILE rămase de realizat din calendarul implementării reformelor, țintelor și jaloanelor din componenta 11 - Turism și cultură din Planul național de redresare și reziliență pentru care Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului are calitatea de coordonator de reforme și investiții
+Nr. crt. Jalonul/ Ținta Denumirea Activitățile rămase de realizat din calendarul de implementare a reformelor, jaloanelor, țintelor din Planul național de redresare și reziliență (PNRR), conform deciziei de punere în aplicare a Consiliului în vigoare Subactivități în concordanță cu atribuțiile din fișa postului Calendar
+Iunie Iulie August
+1. C11/ Reforma 1 Operaționalizarea organizațiilor de management al destinației Activități ce contribuie la atingerea scopului reformei Sprijinirea structurilor de implementare în vederea implementării reformei finanțate prin PNRR aferente Ministerului Economiei, Digitalizării, Antreprenoriatului și Turismului (MEDAT) X X X
+Asigurare suport operațional în derularea apelului de proiecte de investiții în procesul de evaluare-contractare, gestionare contestații, precum și în activitatea de implementare (monitorizare tehnică și financiară, verificare nereguli) X X X
