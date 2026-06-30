@@ -1,0 +1,17 @@
+# Propunere legislativă L535/2026
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Propunere legislativă pentru modificarea Ordonanței de urgență a Guvernului nr.80/2012 privind echivalarea titlurilor de medic specialist eliberate de Australia, Canada, Israel, Noua Zeelandă și Statele Unite ale Americii
+
+Initiator: Membri ai Parlamentului.
+
+## Stages published so far
+
+- 2026-06-30: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
+
+## Documents
+
+- 2026-06-30: Adresă de înaintare a inițiativei (AD): [ad-876c4325.md](ad-876c4325.md); official file https://www.senat.ro/legis/PDF/2026/26L535AD.PDF
+- 2026-06-30: Forma inițiatorului (FG): [fg-8d657ec9.md](fg-8d657ec9.md); official file https://www.senat.ro/legis/PDF/2026/26L535FG.PDF
+- 2026-06-30: Expunere de motive (EM): [em-6b5230d5.md](em-6b5230d5.md); official file https://www.senat.ro/legis/PDF/2026/26L535EM.PDF
