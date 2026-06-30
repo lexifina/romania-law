@@ -1,0 +1,3 @@
+# ANEXĂ
+PROTOCOL din 24 martie 2026 dintre Guvernul României și Guvernul Republicii Moldova, încheiat prin schimb de note verbale apostilate la București la 10 martie 2026, respectiv 24 martie 2026, de modificare a Acordului dintre Guvernul României și Guvernul Republicii
+Moldova cu privire la punctele de trecere a frontierei de stat dintre România și Republica Moldova, semnat la București la 13 noiembrie 2009
