@@ -23,6 +23,7 @@ Initiator: Guvernul României.
 - 2025-10-06: returned for re-examination
 - 2025-10-15: sent for promulgation
 - 2025-11-25: published in the Monitorul Oficial
+- 2026-06-30: documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -44,3 +45,15 @@ Initiator: Guvernul României.
 - 2025-03-31: Forma adoptată de Senat (FS): [fs-bab1b4bb.md](fs-bab1b4bb.md); official file https://www.senat.ro/legis/PDF/2025/25L045FS.PDF
 - 2025-04-07: Adresă privind sesizarea CCR (AXS): [axs-d2501c75.md](axs-d2501c75.md); official file https://www.senat.ro/legis/PDF/2025/25L045AXS.PDF
 - 2025-04-07: Forma trimisă la promulgare (LP): [lp-c5378f7f.md](lp-c5378f7f.md); official file https://www.senat.ro/legis/PDF/2025/25L045LP.PDF
+- 2026-06-30: Document (AL): [al-caa817e3.md](al-caa817e3.md); official file https://www.senat.ro/legis/PDF/2025/25L045AL.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-06-30: Document (RX): [rx-e06cf91a.md](rx-e06cf91a.md); official file https://www.senat.ro/legis/PDF/2025/25L045RX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-06-30: Document (XA1): [xa1-1bcab72e.md](xa1-1bcab72e.md); official file https://www.senat.ro/legis/PDF/2025/25L045XA1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-06-30: Document (CX1): [cx1-f24e1d77.md](cx1-f24e1d77.md); official file https://www.senat.ro/legis/PDF/2025/25L045CX1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-06-30: Document (AT): [at-1ac823d7.md](at-1ac823d7.md); official file https://www.senat.ro/legis/PDF/2025/25L045AT.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-06-30: Document (X2): [x2-8fdeb12c.md](x2-8fdeb12c.md); official file https://www.senat.ro/legis/PDF/2025/25L045X2.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-06-30: Document (SX): [sx-cea63ee3.md](sx-cea63ee3.md); official file https://www.senat.ro/legis/PDF/2025/25L045SX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-06-30: Document (LX): [lx-20d30973.md](lx-20d30973.md); official file https://www.senat.ro/legis/PDF/2025/25L045LX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-06-30: Document (XXS1): [xxs1-7c52529d.md](xxs1-7c52529d.md); official file https://www.senat.ro/legis/PDF/2025/25L045XXS1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-06-30: Document (PX1): [px1-4502ee84.md](px1-4502ee84.md); official file https://www.senat.ro/legis/PDF/2025/25L045PX1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-06-30: Document (SC1): [sc1-b0666246.md](sc1-b0666246.md); official file https://www.senat.ro/legis/PDF/2025/25L045SC1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-06-30: Document (DC1): [dc1-0ec4fafb.md](dc1-0ec4fafb.md); official file https://www.senat.ro/legis/PDF/2025/25L045DC1.PDF (its day is not given by the bill file: shown from the last stage held)
