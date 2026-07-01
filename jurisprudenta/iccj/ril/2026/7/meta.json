@@ -1,0 +1,184 @@
+{
+ "key": "iccj-ril-7-2026",
+ "label": "Decizia ÎCCJ nr. 7/2026 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "7",
+ "date": "2026-04-20",
+ "year": "2026",
+ "heading": "DECIZIA nr. 7 din 20 aprilie 2026",
+ "subtitle": "referitoare la interpretarea și aplicarea unitară a dispozițiilor art. 451 - 453 din Codul de procedură civilă",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU SOLUȚIONAREA RECURSULUI ÎN INTERESUL LEGII",
+ "mo": {
+  "number": "541",
+  "bis": false,
+  "date": "2026-07-01",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.541/1/2025"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "451",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "452",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "453",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibil, recursul în interesul legii formulat de procurorul general al Parchetului de pe lângă Înalta Curte de Casație și Justiție privind următoarea problemă de drept:",
+  "În interpretarea și aplicarea unitară a dispozițiilor art. 451-453 din Codul de procedură civilă, partea care a pierdut procesul poate să fie obligată, pe cale separată, la plata cheltuielilor de judecată constând în onorariul de succes cuvenit avocatului părții care a câștigat procesul?",
+  "Obligatorie, conform art. 517 alin. (4) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "451",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "452",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "453",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "514",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "515",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 20
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 51/1995",
+    "number": "51",
+    "year": "1995",
+    "path": "lege/1995/51"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul fiscal",
+    "path": "lege/2015/227",
+    "slug": "codul-fiscal"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 146/1997",
+    "number": "146",
+    "year": "1997",
+    "path": "lege/1997/146"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "p"
+     ]
+    },
+    {
+     "art": "15",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2026-07-01",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/311958",
+  "text_sha256": "7a335fd2a3bb13ac817d13aeb40710bfd865a484f7e74ba0b40963777f99e258",
+  "catalogue_sha256": "7a335fd2a3bb13ac817d13aeb40710bfd865a484f7e74ba0b40963777f99e258",
+  "fetched": "2026-11-03T00:47:32Z",
+  "chars": 37477,
+  "portal_id": "311958",
+  "tip": "DECIZIE"
+ }
+}
