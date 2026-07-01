@@ -1,0 +1,10 @@
+# HCL Băcia nr. 45/2026
+
+Text not yet included: no document of it is held. It will be added when it is.
+
+- Council: Consiliul Local al Comunei Băcia
+- Decision: nr. 45/2026
+- Adopted: 2026-04-28
+- Published: 2026-07-01
+- Title: privind actualizarea si modificarea HCL nr. 84/2022 modificata prin HCL nr. 12/2026 privind participarea Comunei Băcia la “Programul Național de Redresare și Reziliență, Componenta C10 - Fondul local – „Asigurarea infrastructurii pentru transportul verde – ITS/alte infrastructuri TIC (sisteme inteligente de management urban/local)”, aprobarea notei de fundamentare a investiției și aprobarea cheltuielilor legate de proiectul cu titlul “Digitalizarea Comunei Băcia, județul Hunedoara- Etapa II, prin dezvoltarea infrastructurii TIC“
+- Record: https://emol.ro/bacia-hd/registru-hcl/274960
