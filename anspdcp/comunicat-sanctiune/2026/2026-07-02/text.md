@@ -1,0 +1,11 @@
+Sancțiune pentru încălcarea RGPD
+Autoritatea Națională de Supraveghere a Prelucrării Datelor cu Caracter Personal a finalizat, în luna iunie 2026, o investigație la operatorul Banca Transilvania S.A . și a constatat încălcarea dispozițiilor art. 32 alin. (1), (2) și (4) din Regulamentul (UE) 2016/679 .
+Ca atare , operatorul a fost sancționat cu amendă în cuantum de 26.172 lei, echivalentul sumei de 5000 euro.
+Investigația a fost demarată ca urmare a unei plângeri a unei persoane fizice, persoană vizată, care a reclamat faptul că i-au fost prelucrate datele cu caracter personal asociate contului bancar fără să-și fi dat acordul.
+În cadrul investigației s-a constatat că un angajat al operatorului, la solicitarea unui terț, a accesat în mod neautorizat, în afara atribuțiilor de serviciu, extrase ale unor conturi ale persoanei vizate, fiind afectate următoarele categorii de date cu caracter personal: nume, prenume, număr cont bancar (IBAN), tip cont, cod client, date despre tranzacții și sold al conturilor.
+Ca atare, s-a constatat că operatorul nu a implementat măsuri tehnice și organizatorice în vederea asigurării unui nivel de securitate corespunzător riscului prezentat de prelucrare, pentru a se asigura că angajații care acționează sub autoritatea sa și care au acces la datele cu caracter personal ale clienților băncii nu le prelucrează decât la cererea sa, fapt care a condus la accesarea neautorizată, în scop personal, a datelor persoanei vizate.
+În consecință, raportat la criteriile de individualizare a sancțiunii prevăzute de art. 83 alin. (2) din Regulamentul (UE) 2016/679, operatorul Banca Transilvania S.A. a fost sancționat cu amendă pentru încălcarea prevederilor art. 32 alin. (1), (2) și (4) din Regulamentul (UE) 2016/679.
+Totodată, în temeiul dispozițiilor art. 58 alin. (2) lit. b) din Regulamentul (UE) 2016/679, s-a dispus față de operator măsura corectivă de a asigura conformitatea cu Regulamentul (UE) 2016/679 a operațiunilor de prelucrare a datelor personale, prin implementarea unor măsuri tehnice și organizatorice adecvate, astfel încât să se evite accesul ilegal, în interes personal al angajaților la datele personale ale persoanelor fizice ale căror date le prelucrează operatorul.
+Operatorul a achitat amenda contravențională aplicată de ANSPDCP.
+Direcția juridică și comunicare
+A.N.S.P.D.C.P
