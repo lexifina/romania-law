@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2026-06-10: adopted by the Chamber of Deputies
 - 2026-06-15: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2026-06-17: sent for promulgation
+- 2026-07-02: promulgated, becomes Legea nr. 113/2026; published in the Monitorul Oficial; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -34,3 +35,5 @@ Initiator: Guvernul României.
 - 2024-10-07: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L487AM.PDF
 - 2026-06-15: Adresă privind sesizarea CCR (AXS): [axs-e3ad2709.md](axs-e3ad2709.md); official file https://www.senat.ro/legis/PDF/2024/24L487AXS.PDF
 - 2026-06-15: Forma trimisă la promulgare (LP): [lp-efd8abcf.md](lp-efd8abcf.md); official file https://www.senat.ro/legis/PDF/2024/24L487LP.PDF
+- 2026-07-02: Decret de promulgare (DP): [dp-380d38be.md](dp-380d38be.md); official file https://www.senat.ro/legis/PDF/2024/24L487DP.PDF
+- 2026-07-02: Forma promulgată (FP): [fp-0957fb91.md](fp-0957fb91.md); official file https://www.senat.ro/legis/PDF/2024/24L487FP.PDF
