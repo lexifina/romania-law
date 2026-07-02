@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2024-07-18: returned for re-examination
 - 2024-09-23: adopted by the Senate
 - 2026-06-26: sent for promulgation
+- 2026-07-02: promulgated, becomes Legea nr. 110/2026; published in the Monitorul Oficial; documents published: Document (day not given by the bill file), Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -35,3 +36,13 @@ Initiator: Guvernul României.
 - 2023-02-03: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L779AM.PDF
 - 2024-06-26: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L779AXS.PDF
 - 2024-06-26: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L779LP.PDF
+- 2026-07-02: Document (TA): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L779TA.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-07-02: Document (RX1): [rx1-3638131d.md](rx1-3638131d.md); official file https://www.senat.ro/legis/PDF/2022/22L779RX1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-07-02: Document (XA1): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L779XA1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-07-02: Document (CX1): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L779CX1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-07-02: Document (XD1): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L779XD1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-07-02: Document (SX1): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L779SX1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-07-02: Document (XXS1): [xxs1-592275ce.md](xxs1-592275ce.md); official file https://www.senat.ro/legis/PDF/2022/22L779XXS1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-07-02: Document (PX1): [px1-8c337282.md](px1-8c337282.md); official file https://www.senat.ro/legis/PDF/2022/22L779PX1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-07-02: Decret de promulgare (DP): [dp-d890419c.md](dp-d890419c.md); official file https://www.senat.ro/legis/PDF/2022/22L779DP.PDF
+- 2026-07-02: Forma promulgată (FP): [fp-be2b0a24.md](fp-be2b0a24.md); official file https://www.senat.ro/legis/PDF/2022/22L779FP.PDF
