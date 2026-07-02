@@ -1,0 +1,37 @@
+REGULAMENTUL DE PUNERE ÎN APLICARE (UE) 2026/1234 AL COMISIEI
+din 11 iunie 2026
+privind autorizarea vermiculitei ca aditiv în hrana puilor pentru îngrășare, a puicuțelor crescute pentru ouat sau reproducere și a găinilor
+(Text cu relevanță pentru SEE)
+COMISIA EUROPEANĂ,
+având în vedere Tratatul privind funcționarea Uniunii Europene,
+având în vedere Regulamentul (CE) nr. 1831/2003 al Parlamentului European și al Consiliului din 22 septembrie 2003 privind aditivii din hrana animalelor (1), în special articolul 9 alineatul (2),
+întrucât:
+(1) Regulamentul (CE) nr. 1831/2003 prevede autorizarea aditivilor destinați hranei animalelor, precum și motivele și procedurile de acordare a unei astfel de autorizații.
+(2) În conformitate cu articolul 7 din Regulamentul (CE) nr. 1831/2003, a fost transmisă o cerere de autorizare a vermiculitei. Cererea respectivă a fost însoțită de informațiile și de documentele necesare în conformitate cu articolul 7 alineatul (3) din Regulamentul (CE) nr. 1831/2003.
+(3) Cererea vizează autorizarea vermiculitei ca aditiv în hrana tuturor păsărilor de curte și a păsărilor ornamentale, a tuturor speciilor de porcine, a ecvideelor, a leporidelor, a camelidelor, a animalelor de companie și a altor animale de la care nu se obțin alimente, solicitându-se ca aditivul respectiv să fie clasificat în categoria „aditivi tehnologici” și în grupa funcțională „agenți antiaglomeranți”.
+(4) În avizul ei din 20 martie 2025 (2), Autoritatea Europeană pentru Siguranța Alimentară („autoritatea”) a concluzionat că vermiculita este considerată sigură la concentrația de 10 000 mg/kg de hrană completă în cazul puilor pentru îngrășare, al puicuțelor crescute pentru ouat sau reproducere și al găinilor ouătoare și la concentrația de 5 000 mg/kg de hrană completă pentru animale în cazul purceilor de lapte, al purceilor înțărcați și al porcilor pentru îngrășare. Cu toate acestea, având în vedere limitările studiilor evaluate și lipsa unei marje substanțiale de siguranță, nu se poate ajunge la nicio concluzie cu privire la siguranța vermiculitei pentru alte specii de păsări de curte, păsări ornamentale, scroafe, alte specii de porcine, ecvine, leporide, camelide, animale de companie și alte animale de la care nu se obțin alimente. Ea a concluzionat, în plus, că aditivul este sigur pentru consumator și pentru mediu în condițiile de utilizare propuse. În ceea ce privește siguranța, autoritatea a concluzionat că aditivul ar trebui considerat sensibilizant pentru piele și căile respiratorii și că este necesar ca orice expunere prin piele și căile respiratorii să fie considerată un risc. Din cauza lipsei de date, autoritatea nu a putut concluziona cu privire la potențialul aditivului de a fi iritant pentru ochi. Ea a mai concluzionat că vermiculita este eficace ca agent antiaglomerant în hrana pentru animale atunci când este utilizată la concentrația de 10 000 mg/kg de hrană completă pentru animale, observând, în același timp, că concentrația demonstrată a fi eficace este mai mare decât nivelul maxim și sigur de utilizare pentru purceii înțărcați și porcii pentru îngrășare. Autoritatea a verificat inclusiv raportul modificat (3) privind metoda de analiză a aditivului în hrana pentru animale, transmis de laboratorul de referință înființat prin Regulamentul (CE) nr. 1831/2003.
+(5) Având în vedere cele de mai sus, Comisia consideră că vermiculita îndeplinește condițiile prevăzute la articolul 5 din Regulamentul (CE) nr. 1831/2003. În consecință, este necesar ca utilizarea substanței respective să fie autorizată la puii pentru îngrășare, la puicuțele crescute pentru ouat sau reproducere și la găini. În plus, Comisia consideră că este necesar să fie luate măsuri de protecție adecvate pentru a preveni efectele adverse asupra sănătății utilizatorilor aditivului.
+(6) Măsurile prevăzute în prezentul regulament sunt conforme cu avizul Comitetului permanent pentru plante, animale, produse alimentare și hrană pentru animale,
+ADOPTĂ PREZENTUL REGULAMENT:
+Articolul 1
+Autorizare
+Vermiculita specificată în anexă, aparținând categoriei „aditivi tehnologici” și grupei funcționale „agenți antiaglomeranți”, se autorizează ca aditiv în hrana animalelor, în condițiile stabilite în anexa respectivă.
+Articolul 2
+Intrare în vigoare
+Prezentul regulament intră în vigoare în a douăzecea zi de la data publicării în Jurnalul Oficial al Uniunii Europene.
+Prezentul regulament este obligatoriu în toate elementele sale și se aplică direct în toate statele membre.
+Adoptat la Bruxelles, 11 iunie 2026.
+Pentru Comisie
+Președinta
+Ursula VON DER LEYEN
+(1) JO L 268, 18.10.2003, p. 29. ELI: http://data.europa.eu/eli/reg/2003/1831/oj.
+(2) EFSA Journal. 2025;23:e9362. https://doi.org/10.2903/j.efsa.2025.9362.
+(3) https://www.efsa.europa.eu/en/events/185th-plenary-meeting-feedap-panel-open-observers.
+ANEXĂ
+Numărul de identificare al aditivului | Denumirea aditivului | Compoziția, formula chimică, descrierea, metoda analitică | Specie sau categorie de animale | Vârstă maximă | Conținut minim | Conținut maxim | Alte dispoziții | Sfârșitul perioadei de autorizare
+mg de aditiv/kg de furaj complet cu un conținut de umiditate de 12 %
+Categorie: aditivi tehnologici. Grupa funcțională: agenți antiaglomeranți.
+1i561 | Vermiculită | Compoziția aditivului Silicat de magneziu, aluminiu și fier (vermiculită) ≥ 87,0 % hidroxiapatită ≥ 1,0 % și diopzidă (cu conținut de Fe +2) ≥ 2,4 % Sub formă de pulbere. Caracterizarea substanței active Vermiculită (silicat de magneziu, aluminiu și fier): Obținută prin extracție minieră, urmată de dilatare termică (exfoliere) Formula chimică: (Mg,Fe2+,Al)3(Al,Si)4O10(OH)2·4(H2O)2. Nichel ≤ 148 mg/kg Silice cristalină ≤ 0,06 % Crom ≤ 199 mg/kg Lipsită de azbest(1) Metoda analitică (2) Pentru caracterizarea aditivului destinat hranei animale: — difracție a razelor X (XRD) (EN 13925) și — spectrometrie cu fluorescență cu raze X (XRF) (EN ISO 12677) | Pui pentru îngrășare Puicuțe crescute pentru ouat sau reproducere Găini | — | 10 000 | 10 000 | 1. În instrucțiunile de utilizare a aditivului și a preamestecurilor se precizează condițiile de depozitare. 2. În cazul în care aditivul este utilizat ca agent antiaglomerant direct într-o materie primă destinată hranei animale sau într-o hrană animală complementară, el trebuie utilizat la un nivel minim de 10 000 mg/kg de hrană animală. 3. Pentru utilizatorii aditivului și ai preamestecurilor operatorii din sectorul hranei pentru animale trebuie să stabilească proceduri operaționale și măsuri organizatorice cu scopul de a contracara riscurile potențiale care rezultă din utilizarea lor. În cazul în care respectivele riscuri nu pot fi eliminate prin astfel de proceduri și de măsuri, aditivul și preamestecurile se utilizează cu echipamente de protecție individuală, inclusiv cu echipamente de protecție pentru ochi, piele și căile respiratorii. Se acordă o atenție deosebită respectării legislației Uniunii privind protecția lucrătorilor împotriva riscurilor de inhalare determinate de expunerea la silice cristalină și nichel. | 2 iulie 2036
+(1) Microscopie optică polarizată (PLM) și microscopie cu colorare prin dispersie.
+(2) Detaliile metodelor analitice sunt disponibile la următoarea adresă a laboratorului de referință: https://joint-research-centre.ec.europa.eu/eurl-fa-eurl-feed-additives/eurl-fa-authorisation/eurl-fa-evaluation-reports_en?prefLang=ro.
+ELI: http://data.europa.eu/eli/reg_impl/2026/1234/oj
