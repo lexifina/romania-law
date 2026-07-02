@@ -21,6 +21,7 @@ Initiator: Guvernul României.
 - 2026-04-20: returned for re-examination
 - 2026-05-20: adopted by the Senate
 - 2026-06-26: sent for promulgation
+- 2026-07-02: promulgated, becomes Legea nr. 111/2026; published in the Monitorul Oficial; documents published: Document (day not given by the bill file), Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -38,3 +39,12 @@ Initiator: Guvernul României.
 - 2025-11-10: Adresă către Camera Deputaților (AM): [am-9ae45ecf.md](am-9ae45ecf.md); official file https://www.senat.ro/legis/PDF/2025/25L417AM.PDF
 - 2026-03-30: Adresă privind sesizarea CCR (AXS): [axs-a5010b62.md](axs-a5010b62.md); official file https://www.senat.ro/legis/PDF/2025/25L417AXS.PDF
 - 2026-03-30: Forma trimisă la promulgare (LP): [lp-8b29b120.md](lp-8b29b120.md); official file https://www.senat.ro/legis/PDF/2025/25L417LP.PDF
+- 2026-07-02: Document (RX1): [rx1-6349adc6.md](rx1-6349adc6.md); official file https://www.senat.ro/legis/PDF/2025/25L417RX1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-07-02: Document (XA1): [xa1-3535e519.md](xa1-3535e519.md); official file https://www.senat.ro/legis/PDF/2025/25L417XA1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-07-02: Document (CX): [cx-395c748e.md](cx-395c748e.md); official file https://www.senat.ro/legis/PDF/2025/25L417CX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-07-02: Document (XD1): [xd1-7c0caabd.md](xd1-7c0caabd.md); official file https://www.senat.ro/legis/PDF/2025/25L417XD1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-07-02: Document (SX1): [sx1-2f38ca55.md](sx1-2f38ca55.md); official file https://www.senat.ro/legis/PDF/2025/25L417SX1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-07-02: Document (XXS1): [xxs1-5fef6633.md](xxs1-5fef6633.md); official file https://www.senat.ro/legis/PDF/2025/25L417XXS1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-07-02: Document (PX1): [px1-d93bb8f0.md](px1-d93bb8f0.md); official file https://www.senat.ro/legis/PDF/2025/25L417PX1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-07-02: Decret de promulgare (DP): [dp-dc3bda7f.md](dp-dc3bda7f.md); official file https://www.senat.ro/legis/PDF/2025/25L417DP.PDF
+- 2026-07-02: Forma promulgată (FP): [fp-f00cfb60.md](fp-f00cfb60.md); official file https://www.senat.ro/legis/PDF/2025/25L417FP.PDF
