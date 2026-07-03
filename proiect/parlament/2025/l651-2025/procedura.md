@@ -21,6 +21,7 @@ Initiator: Membri ai Parlamentului.
 - 2026-06-10: adopted by the Chamber of Deputies
 - 2026-06-15: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2026-06-22: sent for promulgation
+- 2026-07-03: promulgated, becomes Legea nr. 119/2026; published in the Monitorul Oficial; documents published: Document (day not given by the bill file), Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -37,3 +38,8 @@ Initiator: Membri ai Parlamentului.
 - 2026-02-25: Adresă către Camera Deputaților (AM): [am-27bef6f8.md](am-27bef6f8.md); official file https://www.senat.ro/legis/PDF/2025/25L651AM.PDF
 - 2026-06-15: Adresă privind sesizarea CCR (AXS): [axs-68799a1b.md](axs-68799a1b.md); official file https://www.senat.ro/legis/PDF/2025/25L651AXS.PDF
 - 2026-06-15: Forma trimisă la promulgare (LP): [lp-90ecd6ef.md](lp-90ecd6ef.md); official file https://www.senat.ro/legis/PDF/2025/25L651LP.PDF
+- 2026-07-03: Document (CF): [cf-7c7c7b8b.md](cf-7c7c7b8b.md); official file https://www.senat.ro/legis/PDF/2025/25L651CF.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-07-03: Document (CC): [cc-884f3db1.md](cc-884f3db1.md); official file https://www.senat.ro/legis/PDF/2025/25L651CC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-07-03: Document (ANCO): [anco-0e128b6d.md](anco-0e128b6d.md); official file https://www.senat.ro/legis/PDF/2025/25L651ANCO.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-07-03: Decret de promulgare (DP): [dp-67062d31.md](dp-67062d31.md); official file https://www.senat.ro/legis/PDF/2025/25L651DP.PDF
+- 2026-07-03: Forma promulgată (FP): [fp-3c128500.md](fp-3c128500.md); official file https://www.senat.ro/legis/PDF/2025/25L651FP.PDF
