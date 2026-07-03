@@ -18,6 +18,7 @@ Initiator: Membri ai Parlamentului.
 - 2026-06-10: adopted by the Chamber of Deputies
 - 2026-06-15: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2026-06-22: sent for promulgation
+- 2026-07-03: promulgated, becomes Legea nr. 117/2026; published in the Monitorul Oficial; documents published: Document (day not given by the bill file), Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -32,3 +33,9 @@ Initiator: Membri ai Parlamentului.
 - 2026-02-11: Adresă către Camera Deputaților (AM): [am-1609ddff.md](am-1609ddff.md); official file https://www.senat.ro/legis/PDF/2025/25L559AM.PDF
 - 2026-06-15: Adresă privind sesizarea CCR (AXS): [axs-8f09a412.md](axs-8f09a412.md); official file https://www.senat.ro/legis/PDF/2025/25L559AXS.PDF
 - 2026-06-15: Forma trimisă la promulgare (LP): [lp-49e34743.md](lp-49e34743.md); official file https://www.senat.ro/legis/PDF/2025/25L559LP.PDF
+- 2026-07-03: Document (CF): [cf-5e3bcb66.md](cf-5e3bcb66.md); official file https://www.senat.ro/legis/PDF/2025/25L559CF.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-07-03: Document (AG1): not held as text; official file https://www.senat.ro/legis/PDF/2025/25L559AG1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-07-03: Document (AG2): [ag2-e6e0e9f5.md](ag2-e6e0e9f5.md); official file https://www.senat.ro/legis/PDF/2025/25L559AG2.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-07-03: Document (AG3): not held as text; official file https://www.senat.ro/legis/PDF/2025/25L559AG3.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-07-03: Decret de promulgare (DP): [dp-758e1033.md](dp-758e1033.md); official file https://www.senat.ro/legis/PDF/2025/25L559DP.PDF
+- 2026-07-03: Forma promulgată (FP): [fp-bb855f37.md](fp-bb855f37.md); official file https://www.senat.ro/legis/PDF/2025/25L559FP.PDF
