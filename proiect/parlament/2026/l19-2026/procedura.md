@@ -19,6 +19,7 @@ Initiator: Membri ai Parlamentului.
 - 2026-06-10: adopted by the Chamber of Deputies
 - 2026-06-15: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2026-06-22: sent for promulgation
+- 2026-07-03: promulgated, becomes Legea nr. 125/2026; published in the Monitorul Oficial; documents published: Document (day not given by the bill file), Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -34,3 +35,8 @@ Initiator: Membri ai Parlamentului.
 - 2026-03-16: Adresă către Camera Deputaților (AM): [am-480ac37c.md](am-480ac37c.md); official file https://www.senat.ro/legis/PDF/2026/26L019AM.PDF
 - 2026-06-15: Adresă privind sesizarea CCR (AXS): [axs-401c4a40.md](axs-401c4a40.md); official file https://www.senat.ro/legis/PDF/2026/26L019AXS.PDF
 - 2026-06-15: Forma trimisă la promulgare (LP): [lp-2da44296.md](lp-2da44296.md); official file https://www.senat.ro/legis/PDF/2026/26L019LP.PDF
+- 2026-07-03: Document (SM): [sm-12b20d34.md](sm-12b20d34.md); official file https://www.senat.ro/legis/PDF/2026/26L019SM.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-07-03: Document (AG1): [ag1-c85461e4.md](ag1-c85461e4.md); official file https://www.senat.ro/legis/PDF/2026/26L019AG1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-07-03: Document (AG2): [ag2-9f2c2e0f.md](ag2-9f2c2e0f.md); official file https://www.senat.ro/legis/PDF/2026/26L019AG2.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-07-03: Decret de promulgare (DP): [dp-6a2859f6.md](dp-6a2859f6.md); official file https://www.senat.ro/legis/PDF/2026/26L019DP.PDF
+- 2026-07-03: Forma promulgată (FP): [fp-b27284ce.md](fp-b27284ce.md); official file https://www.senat.ro/legis/PDF/2026/26L019FP.PDF
