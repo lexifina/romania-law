@@ -20,6 +20,7 @@ Initiator: Membri ai Parlamentului.
 - 2026-06-10: adopted by the Chamber of Deputies
 - 2026-06-15: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2026-06-22: sent for promulgation
+- 2026-07-03: promulgated, becomes Legea nr. 124/2026; published in the Monitorul Oficial; documents published: Document (day not given by the bill file), Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -35,3 +36,7 @@ Initiator: Membri ai Parlamentului.
 - 2025-12-17: Adresă către Camera Deputaților (AM): [am-b839a76d.md](am-b839a76d.md); official file https://www.senat.ro/legis/PDF/2025/25L510AM.PDF
 - 2026-06-15: Adresă privind sesizarea CCR (AXS): [axs-c0c1ac23.md](axs-c0c1ac23.md); official file https://www.senat.ro/legis/PDF/2025/25L510AXS.PDF
 - 2026-06-15: Forma trimisă la promulgare (LP): [lp-12e00312.md](lp-12e00312.md); official file https://www.senat.ro/legis/PDF/2025/25L510LP.PDF
+- 2026-07-03: Document (AG1): not held as text; official file https://www.senat.ro/legis/PDF/2025/25L510AG1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-07-03: Document (CF): [cf-d9081ba9.md](cf-d9081ba9.md); official file https://www.senat.ro/legis/PDF/2025/25L510CF.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-07-03: Decret de promulgare (DP): [dp-e433e731.md](dp-e433e731.md); official file https://www.senat.ro/legis/PDF/2025/25L510DP.PDF
+- 2026-07-03: Forma promulgată (FP): [fp-b459d56a.md](fp-b459d56a.md); official file https://www.senat.ro/legis/PDF/2025/25L510FP.PDF
