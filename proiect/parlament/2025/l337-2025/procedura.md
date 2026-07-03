@@ -18,6 +18,7 @@ Initiator: Membri ai Parlamentului.
 - 2026-06-10: adopted by the Chamber of Deputies
 - 2026-06-15: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2026-06-22: sent for promulgation
+- 2026-07-03: promulgated, becomes Legea nr. 118/2026; published in the Monitorul Oficial; documents published: Document (day not given by the bill file), Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -31,3 +32,7 @@ Initiator: Membri ai Parlamentului.
 - 2025-10-13: Adresă către Camera Deputaților (AM): [am-ebb8c61a.md](am-ebb8c61a.md); official file https://www.senat.ro/legis/PDF/2025/25L337AM.PDF
 - 2026-06-15: Adresă privind sesizarea CCR (AXS): [axs-bec61a6e.md](axs-bec61a6e.md); official file https://www.senat.ro/legis/PDF/2025/25L337AXS.PDF
 - 2026-06-15: Forma trimisă la promulgare (LP): [lp-7b38e082.md](lp-7b38e082.md); official file https://www.senat.ro/legis/PDF/2025/25L337LP.PDF
+- 2026-07-03: Document (AG1): [ag1-ce25bfb9.md](ag1-ce25bfb9.md); official file https://www.senat.ro/legis/PDF/2025/25L337AG1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-07-03: Document (AG2): not held as text; official file https://www.senat.ro/legis/PDF/2025/25L337AG2.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-07-03: Decret de promulgare (DP): [dp-7c7826a6.md](dp-7c7826a6.md); official file https://www.senat.ro/legis/PDF/2025/25L337DP.PDF
+- 2026-07-03: Forma promulgată (FP): [fp-51e93596.md](fp-51e93596.md); official file https://www.senat.ro/legis/PDF/2025/25L337FP.PDF
