@@ -18,6 +18,7 @@ Initiator: Membri ai Parlamentului.
 - 2026-06-10: adopted by the Chamber of Deputies
 - 2026-06-15: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2026-06-22: sent for promulgation
+- 2026-07-03: promulgated, becomes Legea nr. 123/2026; published in the Monitorul Oficial; documents published: Document (day not given by the bill file), Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -30,3 +31,6 @@ Initiator: Membri ai Parlamentului.
 - 2026-04-27: Adresă către Camera Deputaților (AM): [am-d4f71b94.md](am-d4f71b94.md); official file https://www.senat.ro/legis/PDF/2026/26L133AM.PDF
 - 2026-06-15: Adresă privind sesizarea CCR (AXS): [axs-0263683e.md](axs-0263683e.md); official file https://www.senat.ro/legis/PDF/2026/26L133AXS.PDF
 - 2026-06-15: Forma trimisă la promulgare (LP): [lp-90d84e74.md](lp-90d84e74.md); official file https://www.senat.ro/legis/PDF/2026/26L133LP.PDF
+- 2026-07-03: Document (SM): [sm-a3c1a3a2.md](sm-a3c1a3a2.md); official file https://www.senat.ro/legis/PDF/2026/26L133SM.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-07-03: Decret de promulgare (DP): [dp-477c0e64.md](dp-477c0e64.md); official file https://www.senat.ro/legis/PDF/2026/26L133DP.PDF
+- 2026-07-03: Forma promulgată (FP): [fp-e86b738a.md](fp-e86b738a.md); official file https://www.senat.ro/legis/PDF/2026/26L133FP.PDF
