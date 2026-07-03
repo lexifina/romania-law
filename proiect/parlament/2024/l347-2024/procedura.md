@@ -18,6 +18,7 @@ Initiator: Membri ai Parlamentului.
 - 2026-06-10: adopted by the Chamber of Deputies
 - 2026-06-15: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2026-06-22: sent for promulgation
+- 2026-07-03: promulgated, becomes Legea nr. 122/2026; published in the Monitorul Oficial; documents published: Document (day not given by the bill file), Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -32,3 +33,6 @@ Initiator: Membri ai Parlamentului.
 - 2024-06-26: Aviz comisie (CA45): [ca45-64053b11.md](ca45-64053b11.md); official file https://www.senat.ro/legis/PDF/2024/24L347CA45.PDF
 - 2026-06-15: Adresă privind sesizarea CCR (AXS): [axs-a0e41fd2.md](axs-a0e41fd2.md); official file https://www.senat.ro/legis/PDF/2024/24L347AXS.PDF
 - 2026-06-15: Forma trimisă la promulgare (LP): [lp-e41b11ea.md](lp-e41b11ea.md); official file https://www.senat.ro/legis/PDF/2024/24L347LP.PDF
+- 2026-07-03: Document (SM): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L347SM.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-07-03: Decret de promulgare (DP): [dp-7c4681e5.md](dp-7c4681e5.md); official file https://www.senat.ro/legis/PDF/2024/24L347DP.PDF
+- 2026-07-03: Forma promulgată (FP): [fp-b47270f2.md](fp-b47270f2.md); official file https://www.senat.ro/legis/PDF/2024/24L347FP.PDF
