@@ -20,6 +20,7 @@ Initiator: Guvernul României.
 - 2025-12-15: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2025-12-24: returned for re-examination
 - 2026-02-23: adopted by the Senate
+- 2026-07-06: sent for promulgation
 
 ## Documents
 
