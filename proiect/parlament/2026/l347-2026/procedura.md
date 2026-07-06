@@ -14,6 +14,7 @@ Initiator: Membri ai Parlamentului.
 - 2026-05-22: documents published: Aviz Consiliul Legislativ, Aviz Consiliul Economic și Social, Punct de vedere
 - 2026-06-02: adopted by the Senate; documents published: Aviz comisie, Raport comisie sesizată pe fond, Forma adoptată de Senat, Adresă către Camera Deputaților
 - 2026-06-30: adopted by the Chamber of Deputies; documents published: Forma adoptată de Camera Deputaților, Adresă privind sesizarea CCR, Forma trimisă la promulgare
+- 2026-07-06: sent for promulgation
 
 ## Documents
 
