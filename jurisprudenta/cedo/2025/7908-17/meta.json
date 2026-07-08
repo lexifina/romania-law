@@ -1,0 +1,151 @@
+{
+ "key": "cedo-7908-17-2025-06-03",
+ "label": "CEDO, Manolache c. României, 2025-06-03",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2025-06-03",
+ "year": "2025",
+ "heading": "HOTĂRÂRE din 3 iunie 2025",
+ "subtitle": "în Cauza Manolache împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI - SECȚIA A PATRA",
+ "mo": {
+  "number": "561",
+  "bis": false,
+  "date": "2026-07-08",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation"
+ ],
+ "applications": [
+  "7908/17"
+ ],
+ "case_name": "Manolache",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenție",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "În unanimitate,",
+  "CURTEA:",
+  "1. declară cererea admisibilă;",
+  "2. hotărăște că a fost încălcat art. 6 § 1 din Convenție;",
+  "3. hotărăște că o constatare a încălcării constituie, în sine, o reparație echitabilă suficientă pentru prejudiciul moral suferit de reclamant;",
+  "4. hotărăște a) că statul pârât trebuie să plătească reclamantului, în termen de trei luni de la data rămânerii definitive a hotărârii, în conformitate cu art. 44 § 2 din Convenție, suma de 1.750 EUR (o mie șapte sute cincizeci de euro) pentru cheltuielile de judecată, plus orice sumă ce poate fi datorată de reclamant, cu titlu de impozit, pentru acest cuantum, care trebuie convertită în moneda statului pârât la rata de schimb aplicabilă la data plății;",
+  "b) că, de la expirarea termenului menționat și până la efectuarea plății, această sumă trebuie majorată cu o dobândă simplă, la o rată egală cu rata dobânzii facilității de împrumut marginal practicată de Banca Centrală Europeană, aplicabilă pe parcursul acestei perioade și majorată cu trei puncte procentuale;",
+  "5. respinge cererea de acordare a unei reparații echitabile pentru celelalte capete de cerere."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenție",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "291",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 78/2000",
+    "number": "78",
+    "year": "2000",
+    "path": "lege/2000/78"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "OUG nr. 18/2016",
+    "number": "18",
+    "year": "2016",
+    "path": "oug/2016/18"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/312118",
+  "text_sha256": "a6ebf988daa65db05ba3c337bef6b2c01b3f77fc173f8e2444869f1ec8dedb39",
+  "catalogue_sha256": "a6ebf988daa65db05ba3c337bef6b2c01b3f77fc173f8e2444869f1ec8dedb39",
+  "fetched": "2026-11-03T12:45:24Z",
+  "chars": 34996,
+  "portal_id": "312118",
+  "tip": "HOTĂRÂRE"
+ }
+}
