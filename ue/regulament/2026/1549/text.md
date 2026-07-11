@@ -1,0 +1,30 @@
+REGULAMENTUL DE PUNERE ÎN APLICARE (UE) 2026/1549 AL COMISIEI
+din 6 iulie 2026
+de suspendare a măsurilor de politică comercială referitoare la anumite produse din Statele Unite ale Americii impuse prin Regulamentul de punere în aplicare (UE) 2020/1646 în urma soluționării unui litigiu comercial în conformitate cu Memorandumul de înțelegere privind soluționarea litigiilor al Organizației Mondiale a Comerțului
+COMISIA EUROPEANĂ,
+având în vedere Tratatul privind funcționarea Uniunii Europene,
+având în vedere Regulamentul (UE) nr. 654/2014 al Parlamentului European și al Consiliului din 15 mai 2014 privind exercitarea drepturilor Uniunii pentru aplicarea și respectarea normelor comerțului internațional și de modificare a Regulamentului (CE) nr. 3286/94 al Consiliului privind adoptarea procedurilor comunitare în domeniul politicii comerciale comune în vederea asigurării exercitării de către Comunitate a drepturilor care îi sunt conferite de normele comerțului internațional, în special de cele instituite sub egida Organizației Mondiale a Comerțului (1), în special articolul 7 alineatul (3),
+întrucât:
+(1) La 7 noiembrie 2020, Comisia a adoptat Regulamentul de punere în aplicare (UE) 2020/1646 (2), care prevede aplicarea de taxe vamale suplimentare asupra importurilor în Uniune a unui număr de produse originare din Statele Unite.
+(2) Considerentul 9 din Regulamentul de punere în aplicare (UE) 2020/1646 prevede că Comisia intenționează să suspende aplicarea regulamentului în cazul în cazul în care Statele Unite își suspendă contramăsurile împotriva importurilor anumitor produse din Uniunea Europeană, în legătură cu litigiile privind aeronavele civile de mari dimensiuni aduse în fața OMC.
+(3) La 9 martie 2021, în urma unei înțelegeri încheiate cu Statele Unite privind suspendarea reciprocă a tuturor măsurilor pentru o perioadă de patru luni, Comisia a adoptat Regulamentul de punere în aplicare (UE) 2021/425 (3) de suspendare a măsurilor de politică comercială referitoare la anumite produse din Statele Unite ale Americii impuse prin Regulamentul de punere în aplicare (UE) 2020/1646 în urma soluționării unui litigiu comercial în conformitate cu Memorandumul de înțelegere privind soluționarea litigiilor al Organizației Mondiale a Comerțului, care a suspendat aplicarea Regulamentului de punere în aplicare (UE) 2020/1646 până la 10 iulie 2021.
+(4) La 8 iulie 2021, în urma unei înțelegeri suplimentare la care s-a ajuns cu Statele Unite în ceea ce privește suspendarea reciprocă a tuturor măsurilor pentru o perioadă de cinci ani, Comisia a adoptat Regulamentul de punere în aplicare (UE) 2021/1123 (4), care a suspendat Regulamentul de punere în aplicare (UE) 2020/1646 de la 11 iulie 2021 până la 10 iulie 2026.
+(5) Având în vedere că Statele Unite nu au reinstituit măsuri de retorsiune și având în vedere absența oricărei modificări substanțiale a circumstanțelor de fapt și de drept care stau la baza litigiilor OMC privind aeronavele civile de mari dimensiuni, condițiile care au justificat suspendarea măsurilor Uniunii persistă. Prin urmare, este oportun să se prelungească perioada de suspendare a măsurilor stabilite prin Regulamentul (UE) 2020/1646.
+(6) Cu toate acestea, Comisia ar trebui să reexamineze suspendarea în lumina evoluțiilor ulterioare ale relațiilor comerciale cu Statele Unite și, în conformitate cu articolul 7 alineatul (3) din Regulamentul (UE) nr. 654/2014, poate lua măsuri suplimentare.
+(7) Măsurile prevăzute în prezentul regulament sunt conforme cu avizul Comitetului privind barierele în calea comerțului instituit prin Regulamentul (UE) 2015/1843 al Parlamentului European și al Consiliului (5),
+ADOPTĂ PREZENTUL REGULAMENT:
+Articolul 1
+Aplicarea Regulamentului de punere în aplicare (UE) 2020/1646 se suspendă.
+Articolul 2
+Prezentul regulament intră în vigoare la 11 iulie 2026.
+Prezentul regulament este obligatoriu în toate elementele sale și se aplică direct în toate statele membre.
+Adoptat la Bruxelles, 6 iulie 2026.
+Pentru Comisie
+Președinta
+Ursula VON DER LEYEN
+(1) JO L 189, 27.6.2014, p. 50, ELI: http://data.europa.eu/eli/reg/2014/654/oj.
+(2) Regulamentul de punere în aplicare (UE) 2020/1646 al Comisiei din 7 noiembrie 2020 privind măsurile de politică comercială referitoare la anumite produse din Statele Unite ale Americii în urma soluționării unui litigiu comercial în conformitate cu Memorandumul de înțelegere privind soluționarea litigiilor al Organizației Mondiale a Comerțului (JO L 373, 9.11.2020, p. 1, ELI: http://data.europa.eu/eli/reg_impl/2020/1646/oj).
+(3) Regulamentul de punere în aplicare (UE) 2021/425 al Comisiei din 9 martie 2021 de suspendare a măsurilor de politică comercială referitoare la anumite produse din Statele Unite ale Americii impuse prin Regulamentul de punere în aplicare (UE) 2020/1646 în urma soluționării unui litigiu comercial în conformitate cu Memorandumul de înțelegere privind soluționarea litigiilor al Organizației Mondiale a Comerțului (JO L 84, 11.3.2021, p. 16, ELI: http://data.europa.eu/eli/reg_impl/2021/425/oj).
+(4) Regulamentul de punere în aplicare (UE) 2021/1123 al Comisiei din 8 iulie 2021 de suspendare a măsurilor de politică comercială referitoare la anumite produse din Statele Unite ale Americii impuse prin Regulamentul de punere în aplicare (UE) 2020/1646 în urma soluționării unui litigiu comercial în conformitate cu Memorandumul de înțelegere privind soluționarea litigiilor al Organizației Mondiale a Comerțului (JO L 243, 9.7.2021, p. 43, ELI: http://data.europa.eu/eli/reg_impl/2021/1123/oj).
+(5) Regulamentul (UE) 2015/1843 al Parlamentului European și al Consiliului din 6 octombrie 2015 privind adoptarea procedurilor Uniunii în domeniul politicii comerciale comune în vederea asigurării exercitării de către Uniune a drepturilor care îi sunt conferite de normele comerțului internațional, în special de cele instituite sub egida Organizației Mondiale a Comerțului ( JO L 272, 16.10.2015, p. 1, ELI: http://data.europa.eu/eli/reg/2015/1843/oj).
+ELI: http://data.europa.eu/eli/reg_impl/2026/1549/oj
