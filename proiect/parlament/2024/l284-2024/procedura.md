@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2026-06-17: adopted by the Chamber of Deputies
 - 2026-06-24: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2026-06-26: sent for promulgation
+- 2026-07-13: promulgated, becomes Legea nr. 129/2026; published in the Monitorul Oficial; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -36,3 +37,5 @@ Initiator: Guvernul României.
 - 2024-06-12: Adresă către Camera Deputaților (AM): [am-bdf267cc.md](am-bdf267cc.md); official file https://www.senat.ro/legis/PDF/2024/24L284AM.PDF
 - 2026-06-24: Adresă privind sesizarea CCR (AXS): [axs-0032c061.md](axs-0032c061.md); official file https://www.senat.ro/legis/PDF/2024/24L284AXS.PDF
 - 2026-06-24: Forma trimisă la promulgare (LP): [lp-950f2a5a.md](lp-950f2a5a.md); official file https://www.senat.ro/legis/PDF/2024/24L284LP.PDF
+- 2026-07-13: Decret de promulgare (DP): [dp-f9b6bbcd.md](dp-f9b6bbcd.md); official file https://www.senat.ro/legis/PDF/2024/24L284DP.PDF
+- 2026-07-13: Forma promulgată (FP): [fp-8f92b738.md](fp-8f92b738.md); official file https://www.senat.ro/legis/PDF/2024/24L284FP.PDF
