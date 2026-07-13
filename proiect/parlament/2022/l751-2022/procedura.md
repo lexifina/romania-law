@@ -21,6 +21,7 @@ Initiator: Membri ai Parlamentului.
 - 2026-06-17: adopted by the Chamber of Deputies
 - 2026-06-24: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2026-06-29: sent for promulgation
+- 2026-07-13: promulgated, becomes Legea nr. 137/2026; published in the Monitorul Oficial; documents published: Document (day not given by the bill file), Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -39,3 +40,6 @@ Initiator: Membri ai Parlamentului.
 - 2023-02-11: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L751AM.PDF
 - 2026-06-24: Adresă privind sesizarea CCR (AXS): [axs-8b354a1e.md](axs-8b354a1e.md); official file https://www.senat.ro/legis/PDF/2022/22L751AXS.PDF
 - 2026-06-24: Forma trimisă la promulgare (LP): [lp-d9fb824a.md](lp-d9fb824a.md); official file https://www.senat.ro/legis/PDF/2022/22L751LP.PDF
+- 2026-07-13: Document (CF): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L751CF.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-07-13: Decret de promulgare (DP): [dp-e333ffef.md](dp-e333ffef.md); official file https://www.senat.ro/legis/PDF/2022/22L751DP.PDF
+- 2026-07-13: Forma promulgată (FP): [fp-ccd6965b.md](fp-ccd6965b.md); official file https://www.senat.ro/legis/PDF/2022/22L751FP.PDF
