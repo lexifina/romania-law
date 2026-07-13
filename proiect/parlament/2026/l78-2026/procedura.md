@@ -19,6 +19,7 @@ Initiator: Membri ai Parlamentului.
 - 2026-06-17: adopted by the Chamber of Deputies
 - 2026-06-24: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2026-06-29: sent for promulgation
+- 2026-07-13: promulgated, becomes Legea nr. 138/2026; published in the Monitorul Oficial; documents published: Document (day not given by the bill file), Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -33,3 +34,6 @@ Initiator: Membri ai Parlamentului.
 - 2026-03-04: Adresă către Camera Deputaților (AM): [am-8eb57c62.md](am-8eb57c62.md); official file https://www.senat.ro/legis/PDF/2026/26L078AM.PDF
 - 2026-06-24: Adresă privind sesizarea CCR (AXS): [axs-34c7a66f.md](axs-34c7a66f.md); official file https://www.senat.ro/legis/PDF/2026/26L078AXS.PDF
 - 2026-06-24: Forma trimisă la promulgare (LP): [lp-27955290.md](lp-27955290.md); official file https://www.senat.ro/legis/PDF/2026/26L078LP.PDF
+- 2026-07-13: Document (AG1): not held as text; official file https://www.senat.ro/legis/PDF/2026/26L078AG1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-07-13: Decret de promulgare (DP): [dp-dcc1f609.md](dp-dcc1f609.md); official file https://www.senat.ro/legis/PDF/2026/26L078DP.PDF
+- 2026-07-13: Forma promulgată (FP): [fp-79d2c8cd.md](fp-79d2c8cd.md); official file https://www.senat.ro/legis/PDF/2026/26L078FP.PDF
