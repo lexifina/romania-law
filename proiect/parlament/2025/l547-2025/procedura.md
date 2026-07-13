@@ -19,6 +19,7 @@ Initiator: Membri ai Parlamentului.
 - 2026-06-17: adopted by the Chamber of Deputies
 - 2026-06-24: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2026-06-29: sent for promulgation
+- 2026-07-13: promulgated, becomes Legea nr. 139/2026; published in the Monitorul Oficial; documents published: Document (day not given by the bill file), Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -33,3 +34,10 @@ Initiator: Membri ai Parlamentului.
 - 2026-02-23: Adresă către Camera Deputaților (AM): [am-707069b5.md](am-707069b5.md); official file https://www.senat.ro/legis/PDF/2025/25L547AM.PDF
 - 2026-06-24: Adresă privind sesizarea CCR (AXS): [axs-5dcd8457.md](axs-5dcd8457.md); official file https://www.senat.ro/legis/PDF/2025/25L547AXS.PDF
 - 2026-06-24: Forma trimisă la promulgare (LP): [lp-578ca342.md](lp-578ca342.md); official file https://www.senat.ro/legis/PDF/2025/25L547LP.PDF
+- 2026-07-13: Document (CF): [cf-227c5f13.md](cf-227c5f13.md); official file https://www.senat.ro/legis/PDF/2025/25L547CF.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-07-13: Document (AG1): not held as text; official file https://www.senat.ro/legis/PDF/2025/25L547AG1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-07-13: Document (AG2): not held as text; official file https://www.senat.ro/legis/PDF/2025/25L547AG2.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-07-13: Document (CC): [cc-3ffb4a87.md](cc-3ffb4a87.md); official file https://www.senat.ro/legis/PDF/2025/25L547CC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-07-13: Document (AG3): [ag3-1b488e94.md](ag3-1b488e94.md); official file https://www.senat.ro/legis/PDF/2025/25L547AG3.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-07-13: Decret de promulgare (DP): [dp-854053a1.md](dp-854053a1.md); official file https://www.senat.ro/legis/PDF/2025/25L547DP.PDF
+- 2026-07-13: Forma promulgată (FP): [fp-f128b864.md](fp-f128b864.md); official file https://www.senat.ro/legis/PDF/2025/25L547FP.PDF
