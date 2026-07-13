@@ -20,6 +20,7 @@ Initiator: Guvernul României.
 - 2026-06-17: adopted by the Chamber of Deputies
 - 2026-06-24: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2026-06-29: sent for promulgation
+- 2026-07-13: promulgated, becomes Legea nr. 136/2026; published in the Monitorul Oficial; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -37,3 +38,5 @@ Initiator: Guvernul României.
 - 2021-10-11: Adresă către Camera Deputaților (AM): [am-d5b56977.md](am-d5b56977.md); official file https://www.senat.ro/legis/PDF/2021/21L327AM.PDF
 - 2026-06-24: Adresă privind sesizarea CCR (AXS): [axs-506d1edb.md](axs-506d1edb.md); official file https://www.senat.ro/legis/PDF/2021/21L327AXS.PDF
 - 2026-06-24: Forma trimisă la promulgare (LP): [lp-a06b722f.md](lp-a06b722f.md); official file https://www.senat.ro/legis/PDF/2021/21L327LP.PDF
+- 2026-07-13: Decret de promulgare (DP): [dp-ce9863c0.md](dp-ce9863c0.md); official file https://www.senat.ro/legis/PDF/2021/21L327DP.PDF
+- 2026-07-13: Forma promulgată (FP): [fp-ebee9afc.md](fp-ebee9afc.md); official file https://www.senat.ro/legis/PDF/2021/21L327FP.PDF
