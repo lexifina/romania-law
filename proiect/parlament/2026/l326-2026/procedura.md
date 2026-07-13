@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2026-06-17: adopted by the Senate; documents published: Forma adoptată de Senat
 - 2026-06-24: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2026-06-26: sent for promulgation
+- 2026-07-13: promulgated, becomes Legea nr. 134/2026; published in the Monitorul Oficial; documents published: Document (day not given by the bill file), Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -32,3 +33,8 @@ Initiator: Guvernul României.
 - 2026-06-17: Forma adoptată de Senat (FS): [fs-b5d3a4b2.md](fs-b5d3a4b2.md); official file https://www.senat.ro/legis/PDF/2026/26L326FS.PDF
 - 2026-06-24: Adresă privind sesizarea CCR (AXS): [axs-81593c5b.md](axs-81593c5b.md); official file https://www.senat.ro/legis/PDF/2026/26L326AXS.PDF
 - 2026-06-24: Forma trimisă la promulgare (LP): [lp-16b57d7e.md](lp-16b57d7e.md); official file https://www.senat.ro/legis/PDF/2026/26L326LP.PDF
+- 2026-07-13: Document (TX): [tx-86c25644.md](tx-86c25644.md); official file https://www.senat.ro/legis/PDF/2026/26L326TX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-07-13: Document (AL): [al-182b6926.md](al-182b6926.md); official file https://www.senat.ro/legis/PDF/2026/26L326AL.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-07-13: Decret de promulgare (DP): [dp-c576c68d.md](dp-c576c68d.md); official file https://www.senat.ro/legis/PDF/2026/26L326DP.PDF
+- 2026-07-13: Forma promulgată (FP): [fp-0ec19e89.md](fp-0ec19e89.md); official file https://www.senat.ro/legis/PDF/2026/26L326FP.PDF
+- 2026-07-13: Document (TC): [tc-dc93a62f.md](tc-dc93a62f.md); official file https://www.senat.ro/legis/PDF/2026/26L326TC.PDF (its day is not given by the bill file: shown from the last stage held)
