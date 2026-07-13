@@ -24,6 +24,7 @@ Initiator: Guvernul României.
 - 2026-06-17: adopted by the Chamber of Deputies
 - 2026-06-24: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2026-06-26: sent for promulgation
+- 2026-07-13: promulgated, becomes Legea nr. 131/2026; published in the Monitorul Oficial; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -49,3 +50,5 @@ Initiator: Guvernul României.
 - 2022-02-12: Adresă către Camera Deputaților (AM): [am-33a9579c.md](am-33a9579c.md); official file https://www.senat.ro/legis/PDF/2021/21L548AM.PDF
 - 2026-06-24: Adresă privind sesizarea CCR (AXS): [axs-6a32c17f.md](axs-6a32c17f.md); official file https://www.senat.ro/legis/PDF/2021/21L548AXS.PDF
 - 2026-06-24: Forma trimisă la promulgare (LP): [lp-f36f17ee.md](lp-f36f17ee.md); official file https://www.senat.ro/legis/PDF/2021/21L548LP.PDF
+- 2026-07-13: Decret de promulgare (DP): [dp-54e64620.md](dp-54e64620.md); official file https://www.senat.ro/legis/PDF/2021/21L548DP.PDF
+- 2026-07-13: Forma promulgată (FP): [fp-0ac9a56a.md](fp-0ac9a56a.md); official file https://www.senat.ro/legis/PDF/2021/21L548FP.PDF
