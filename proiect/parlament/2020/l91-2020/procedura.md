@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2026-06-17: adopted by the Senate; documents published: Forma adoptată de Senat
 - 2026-06-24: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2026-06-26: sent for promulgation
+- 2026-07-13: promulgated, becomes Legea nr. 135/2026; published in the Monitorul Oficial; documents published: Document (day not given by the bill file), Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -33,3 +34,6 @@ Initiator: Guvernul României.
 - 2026-06-17: Forma adoptată de Senat (FS): [fs-078a76fd.md](fs-078a76fd.md); official file https://www.senat.ro/legis/PDF/2020/20L091FS.PDF
 - 2026-06-24: Adresă privind sesizarea CCR (AXS): [axs-99984949.md](axs-99984949.md); official file https://www.senat.ro/legis/PDF/2020/20L091AXS.PDF
 - 2026-06-24: Forma trimisă la promulgare (LP): [lp-954f50f7.md](lp-954f50f7.md); official file https://www.senat.ro/legis/PDF/2020/20L091LP.PDF
+- 2026-07-13: Document (AL): [al-cab93805.md](al-cab93805.md); official file https://www.senat.ro/legis/PDF/2020/20L091AL.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-07-13: Decret de promulgare (DP): [dp-7e42501f.md](dp-7e42501f.md); official file https://www.senat.ro/legis/PDF/2020/20L091DP.PDF
+- 2026-07-13: Forma promulgată (FP): [fp-08f85073.md](fp-08f85073.md); official file https://www.senat.ro/legis/PDF/2020/20L091FP.PDF
