@@ -1,0 +1,397 @@
+{
+ "key": "dcc-613-2025",
+ "label": "Decizia CCR nr. 613/2025",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "613",
+ "date": "2025-11-20",
+ "year": "2025",
+ "heading": "DECIZIA nr. 613 din 20 noiembrie 2025",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 494 alin. 3 din Codul civil din 1864",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "576",
+  "bis": false,
+  "date": "2026-07-14",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "775D/2021"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "cod/1864/civil",
+    "slug": "codul-civil-1864"
+   },
+   "articles": [
+    {
+     "art": "494",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Aurel Iuțu Ciurar în Dosarul nr. 357/1.285/2017/a3 al Înaltei Curți de Casație și Justiție - Secția a II-a civilă și constată că dispozițiile art. 494 alin. 3 din Codul civil din 1864 sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Înaltei Curți de Casație și Justiție - Secția a II-a civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "cod/1864/civil",
+    "slug": "codul-civil-1864"
+   },
+   "articles": [
+    {
+     "art": "494",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 287/2009",
+    "number": "287",
+    "year": "2009",
+    "path": "lege/2009/287"
+   },
+   "articles": [
+    {
+     "art": "582",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "57",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 71/2011",
+    "number": "71",
+    "year": "2011",
+    "path": "lege/2011/71"
+   },
+   "articles": [
+    {
+     "art": "1169",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1170",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1171",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1172",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1173",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1174",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1175",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1176",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1177",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1178",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1179",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1180",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1181",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1182",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1183",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1184",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1185",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1186",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1187",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1188",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1189",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1190",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1191",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1192",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1193",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1194",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1195",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1196",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1197",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1198",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1199",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1200",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1201",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1202",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1203",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1204",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1205",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1206",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "230",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "58",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2026-07-14",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/312243",
+  "text_sha256": "b749b6786afdb7706d8a70b1fad59e5702db418ba846950c374a2e10e2b6c6b6",
+  "catalogue_sha256": "b749b6786afdb7706d8a70b1fad59e5702db418ba846950c374a2e10e2b6c6b6",
+  "fetched": "2026-11-03T00:46:55Z",
+  "chars": 15790,
+  "portal_id": "312243",
+  "tip": "DECIZIE"
+ }
+}
