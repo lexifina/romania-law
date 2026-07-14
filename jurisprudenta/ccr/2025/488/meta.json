@@ -1,0 +1,256 @@
+{
+ "key": "dcc-488-2025",
+ "label": "Decizia CCR nr. 488/2025",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "488",
+ "date": "2025-10-21",
+ "year": "2025",
+ "heading": "DECIZIA nr. 488 din 21 octombrie 2025",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. I din Legea nr. 222/2020 pentru abrogarea Legii nr. 12/1990 privind protejarea populației împotriva unor activități de producție, comerț sau prestări de servicii ilicite și pentru modificarea și completarea Ordonanței Guvernului nr. 21/1992 privind protecția consumatorilor",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "576",
+  "bis": false,
+  "date": "2026-07-14",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "14.133/55/2020",
+  "520D/2021",
+  "10.922/55/2020",
+  "2.041/275/2019",
+  "3.453/55/2020",
+  "11.236/196/2020",
+  "9.103/314/2020",
+  "27.488/212/2019",
+  "14.134/55/2020",
+  "11.188/55/2020"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 222/2020",
+    "number": "222",
+    "year": "2020",
+    "path": "lege/2020/222"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Agenția Națională de Administrare Fiscală în dosarele nr. 14.133/55/2020 și nr. 10.922/55/2020 ale Judecătoriei Arad - Secția civilă, în Dosarul nr. 2.041/275/2019 al Tribunalului Vrancea - Secția a II-a civilă și de contencios administrativ și fiscal, în Dosarul nr. 3.453/55/2020 al Tribunalului Arad - Secția a III-a de contencios administrativ și fiscal, litigii de muncă și asigurări sociale, în dosarele nr. 14.134/55/2020 și nr. 11.188/55/2020 ale Judecătoriei Arad - Secția civilă, în Dosarul nr. 11.236/196/2020 al Tribunalului Brăila - Secția a II-a civilă, de contencios administrativ și fiscal, în Dosarul nr. 9.103/314/2020 al Judecătoriei Suceava - Secția civilă, în Dosarul nr. 27.488/212/2019 al Tribunalului Constanța - Secția contencios administrativ și fiscal, în dosarele nr. 10.375/55/2020 și nr. 10.592/55/2020 ale Tribunalului Arad - Secția a III-a de contencios administrativ și fiscal, litigii de muncă și asigurări sociale, în dosarele nr. 20.266/212/2020 și nr. 24.458/212/2020 ale Tribunalului Constanța - Secția contencios administrativ și fiscal și constată că dispozițiile art. I din Legea nr. 222/2020 pentru abrogarea Legii nr. 12/1990 privind protejarea populației împotriva unor activități de producție, comerț sau prestări de servicii ilicite și pentru modificarea și completarea Ordonanței Guvernului nr. 21/1992 privind protecția consumatorilor sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Judecătoriei Arad - Secția civilă, Tribunalului Vrancea - Secția a II-a civilă și de contencios administrativ și fiscal, Tribunalului Arad - Secția a III-a de contencios administrativ și fiscal, litigii de muncă și asigurări sociale, Tribunalului Brăila - Secția a II-a civilă, de contencios administrativ și fiscal, Judecătoriei Suceava - Secția civilă, Tribunalului Constanța - Secția contencios administrativ și fiscal și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 222/2020",
+    "number": "222",
+    "year": "2020",
+    "path": "lege/2020/222"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 12/1990",
+    "number": "12",
+    "year": "1990",
+    "path": "lege/1990/12"
+   },
+   "articles": [],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "31",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "30",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "32",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "33",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanței Guvernului nr. 21/1992",
+    "number": "21",
+    "year": "1992",
+    "path": "og/1992/21"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 73/1993",
+    "number": "73",
+    "year": "1993",
+    "path": "lege/1993/73"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2026-07-14",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/312242",
+  "text_sha256": "c6d3088f41be967793cb96a451ac2da01bf2c87445f0bad815b84f69d13aaa3b",
+  "catalogue_sha256": "c6d3088f41be967793cb96a451ac2da01bf2c87445f0bad815b84f69d13aaa3b",
+  "fetched": "2026-11-03T00:46:55Z",
+  "chars": 24082,
+  "portal_id": "312242",
+  "tip": "DECIZIE"
+ }
+}
