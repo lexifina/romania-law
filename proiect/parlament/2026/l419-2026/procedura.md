@@ -17,6 +17,7 @@ Initiator: Membri ai Parlamentului.
 - 2026-06-30: adopted by the Chamber of Deputies; documents published: Forma adoptată de Camera Deputaților, Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2026-07-06: sent for promulgation
 - 2026-07-13: promulgated, becomes Legea nr. 141/2026; published in the Monitorul Oficial; documents published: Decret de promulgare, Forma promulgată
+- 2026-07-15: documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -35,3 +36,6 @@ Initiator: Membri ai Parlamentului.
 - 2026-06-30: Forma trimisă la promulgare (LP): [lp-d0915d4c.md](lp-d0915d4c.md); official file https://www.senat.ro/legis/PDF/2026/26L419LP.PDF
 - 2026-07-13: Decret de promulgare (DP): [dp-a1070fec.md](dp-a1070fec.md); official file https://www.senat.ro/legis/PDF/2026/26L419DP.PDF
 - 2026-07-13: Forma promulgată (FP): [fp-580d5c65.md](fp-580d5c65.md); official file https://www.senat.ro/legis/PDF/2026/26L419FP.PDF
+- 2026-07-15: Document (CF): [cf-1befc158.md](cf-1befc158.md); official file https://www.senat.ro/legis/PDF/2026/26L419CF.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-07-15: Document (ASF): [asf-3d469516.md](asf-3d469516.md); official file https://www.senat.ro/legis/PDF/2026/26L419ASF.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-07-15: Document (CC): [cc-44ab9326.md](cc-44ab9326.md); official file https://www.senat.ro/legis/PDF/2026/26L419CC.PDF (its day is not given by the bill file: shown from the last stage held)
