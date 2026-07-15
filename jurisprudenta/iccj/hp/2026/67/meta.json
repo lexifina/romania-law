@@ -1,0 +1,289 @@
+{
+ "key": "iccj-hp-67-2026",
+ "label": "Decizia ÎCCJ nr. 67/2026 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "67",
+ "date": "2026-05-04",
+ "year": "2026",
+ "heading": "DECIZIA nr. 67 din 4 mai 2026",
+ "subtitle": "referitoare la interpretarea dispozițiilor art. 456 alin. (1) lit. h) din Legea nr. 227/2015 privind Codul fiscal, cu modificările și completările ulterioare, astfel cum a fost modificat prin Ordonanța de urgență a Guvernului nr. 168/2022 privind unele măsuri fiscal-bugetare, prorogarea unor termene, precum și pentru modificarea și completarea unor acte normative, cu modificările și completările ulterioare, și până la intrarea în vigoare a Legii nr. 239/2025 privind stabilirea unor măsuri de redresare și eficientizare a resurselor publice și pentru modificarea și completarea unor acte normative, cu modificările și completările ulterioare",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "580",
+  "bis": false,
+  "date": "2026-07-15",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "2.512/1/2025",
+  "819/103/2023"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 227/2015",
+    "number": "227",
+    "year": "2015",
+    "path": "lege/2015/227"
+   },
+   "articles": [
+    {
+     "art": "456",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "h"
+     ]
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 239/2025",
+    "number": "239",
+    "year": "2025",
+    "path": "lege/2025/239"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite sesizarea formulată de Curtea de Apel Bacău - Secția a II-a civilă, de contencios administrativ și fiscal în Dosarul nr. 819/103/2023, în vederea pronunțării unei hotărâri prealabile și, în consecință, stabilește că: În interpretarea dispozițiilor art. 456 alin. (1) lit. h) din Legea nr. 227/2015 privind Codul fiscal, cu modificările și completările ulterioare, astfel cum a fost modificat prin Ordonanța de urgență a Guvernului nr. 168/2022 privind unele măsuri fiscal-bugetare, prorogarea unor termene, precum și pentru modificarea și completarea unor acte normative, cu modificările și completările ulterioare, și până la intrarea în vigoare a Legii nr. 239/2025 privind stabilirea unor măsuri de redresare și eficientizare a resurselor publice și pentru modificarea și completarea unor acte normative, cu modificările și completările ulterioare, noțiunea de „activitate economică“ din cuprinsul sintagmei „cu excepția încăperilor folosite pentru activități economice“ nu se referă la toate activitățile prestate de unitățile sanitare private, ci vizează alte activități decât furnizarea de servicii medicale către populație.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul fiscal",
+    "path": "lege/2015/227",
+    "slug": "codul-fiscal"
+   },
+   "articles": [
+    {
+     "art": "456",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": [
+      "h",
+      "g"
+     ]
+    },
+    {
+     "art": "453",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 62
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 1/2016",
+    "number": "1",
+    "year": "2016",
+    "path": "hg/2016/1"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 239/2025",
+    "number": "239",
+    "year": "2025",
+    "path": "lege/2025/239"
+   },
+   "articles": [],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 500/2002",
+    "number": "500",
+    "year": "2002",
+    "path": "lege/2002/500"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 273/2006",
+    "number": "273",
+    "year": "2006",
+    "path": "lege/2006/273"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 134/2010",
+    "number": "134",
+    "year": "2010",
+    "path": "lege/2010/134"
+   },
+   "articles": [
+    {
+     "art": "488",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea contenciosului administrativ nr. 554/2004",
+    "number": "554",
+    "year": "2004",
+    "path": "lege/2004/554"
+   },
+   "articles": [
+    {
+     "art": "20",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 168/2022",
+    "number": "168",
+    "year": "2022",
+    "path": "oug/2022/168"
+   },
+   "articles": [],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 95/2006",
+    "number": "95",
+    "year": "2006",
+    "path": "lege/2006/95"
+   },
+   "articles": [
+    {
+     "art": "135",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "140",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 124/1998",
+    "number": "124",
+    "year": "1998",
+    "path": "og/1998/124"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 296/2020",
+    "number": "296",
+    "year": "2020",
+    "path": "lege/2020/296"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 571/2003",
+    "number": "571",
+    "year": "2003",
+    "path": "lege/2003/571"
+   },
+   "articles": [
+    {
+     "art": "250",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2026-07-15",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/312274",
+  "text_sha256": "c4607c2a3ecbefabf6f2ad4fd33e7818ddf62ae4d0b719cc35aee11a4ea4fc69",
+  "catalogue_sha256": "c4607c2a3ecbefabf6f2ad4fd33e7818ddf62ae4d0b719cc35aee11a4ea4fc69",
+  "fetched": "2026-11-03T00:46:51Z",
+  "chars": 58563,
+  "portal_id": "312274",
+  "tip": "DECIZIE"
+ }
+}
