@@ -15,6 +15,7 @@ Initiator: Membri ai Parlamentului.
 - 2026-06-02: adopted by the Senate; documents published: Aviz comisie, Raport comisie sesizată pe fond, Forma adoptată de Senat, Adresă către Camera Deputaților
 - 2026-06-30: adopted by the Chamber of Deputies; documents published: Forma adoptată de Camera Deputaților, Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2026-07-06: sent for promulgation
+- 2026-07-20: promulgated, becomes Legea nr. 159/2026; published in the Monitorul Oficial; documents published: Document (day not given by the bill file), Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -32,3 +33,6 @@ Initiator: Membri ai Parlamentului.
 - 2026-06-30: Forma adoptată de Camera Deputaților (FC): [fc-375f89ed.md](fc-375f89ed.md); official file https://www.senat.ro/legis/PDF/2026/26L347FC.PDF
 - 2026-06-30: Adresă privind sesizarea CCR (AXS): [axs-2b104c20.md](axs-2b104c20.md); official file https://www.senat.ro/legis/PDF/2026/26L347AXS.PDF
 - 2026-06-30: Forma trimisă la promulgare (LP): [lp-e28018c3.md](lp-e28018c3.md); official file https://www.senat.ro/legis/PDF/2026/26L347LP.PDF
+- 2026-07-20: Document (CC): [cc-ec8d757b.md](cc-ec8d757b.md); official file https://www.senat.ro/legis/PDF/2026/26L347CC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-07-20: Decret de promulgare (DP): [dp-6c46a053.md](dp-6c46a053.md); official file https://www.senat.ro/legis/PDF/2026/26L347DP.PDF
+- 2026-07-20: Forma promulgată (FP): [fp-d7221858.md](fp-d7221858.md); official file https://www.senat.ro/legis/PDF/2026/26L347FP.PDF
