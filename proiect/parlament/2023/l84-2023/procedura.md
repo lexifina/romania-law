@@ -18,6 +18,7 @@ Initiator: Membri ai Parlamentului.
 - 2023-03-27: registered at the Chamber of Deputies
 - 2026-06-30: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2026-07-06: sent for promulgation
+- 2026-07-20: promulgated, becomes Legea nr. 156/2026; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -32,3 +33,5 @@ Initiator: Membri ai Parlamentului.
 - 2023-03-20: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L084AM.PDF
 - 2026-06-30: Adresă privind sesizarea CCR (AXS): [axs-538a6e84.md](axs-538a6e84.md); official file https://www.senat.ro/legis/PDF/2023/23L084AXS.PDF
 - 2026-06-30: Forma trimisă la promulgare (LP): [lp-265af262.md](lp-265af262.md); official file https://www.senat.ro/legis/PDF/2023/23L084LP.PDF
+- 2026-07-20: Decret de promulgare (DP): [dp-fd78aa0a.md](dp-fd78aa0a.md); official file https://www.senat.ro/legis/PDF/2023/23L084DP.PDF
+- 2026-07-20: Forma promulgată (FP): [fp-cce7d5d0.md](fp-cce7d5d0.md); official file https://www.senat.ro/legis/PDF/2023/23L084FP.PDF
