@@ -15,6 +15,7 @@ Initiator: Membri ai Parlamentului.
 - 2026-06-24: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților
 - 2026-06-30: adopted by the Chamber of Deputies; documents published: Forma adoptată de Camera Deputaților, Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2026-07-06: sent for promulgation
+- 2026-07-20: promulgated, becomes Legea nr. 155/2026; published in the Monitorul Oficial; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -31,3 +32,5 @@ Initiator: Membri ai Parlamentului.
 - 2026-06-30: Forma adoptată de Camera Deputaților (FC): not held as text; official file https://www.senat.ro/legis/PDF/2026/26L418FC.PDF
 - 2026-06-30: Adresă privind sesizarea CCR (AXS): [axs-9ad6e235.md](axs-9ad6e235.md); official file https://www.senat.ro/legis/PDF/2026/26L418AXS.PDF
 - 2026-06-30: Forma trimisă la promulgare (LP): [lp-0b025c0e.md](lp-0b025c0e.md); official file https://www.senat.ro/legis/PDF/2026/26L418LP.PDF
+- 2026-07-20: Decret de promulgare (DP): [dp-769779a1.md](dp-769779a1.md); official file https://www.senat.ro/legis/PDF/2026/26L418DP.PDF
+- 2026-07-20: Forma promulgată (FP): [fp-dc9114be.md](fp-dc9114be.md); official file https://www.senat.ro/legis/PDF/2026/26L418FP.PDF
