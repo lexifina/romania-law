@@ -17,6 +17,7 @@ Initiator: Membri ai Parlamentului.
 - 2025-11-05: registered at the Chamber of Deputies
 - 2026-06-30: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2026-07-06: sent for promulgation
+- 2026-07-20: promulgated, becomes Legea nr. 154/2026; published in the Monitorul Oficial; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -31,3 +32,5 @@ Initiator: Membri ai Parlamentului.
 - 2025-10-31: Adresă către Camera Deputaților (AM): [am-5db73769.md](am-5db73769.md); official file https://www.senat.ro/legis/PDF/2025/25L294AM.PDF
 - 2026-06-30: Adresă privind sesizarea CCR (AXS): [axs-4cf1cc1e.md](axs-4cf1cc1e.md); official file https://www.senat.ro/legis/PDF/2025/25L294AXS.PDF
 - 2026-06-30: Forma trimisă la promulgare (LP): [lp-eeda1476.md](lp-eeda1476.md); official file https://www.senat.ro/legis/PDF/2025/25L294LP.PDF
+- 2026-07-20: Decret de promulgare (DP): [dp-b2e691e7.md](dp-b2e691e7.md); official file https://www.senat.ro/legis/PDF/2025/25L294DP.PDF
+- 2026-07-20: Forma promulgată (FP): [fp-41c43287.md](fp-41c43287.md); official file https://www.senat.ro/legis/PDF/2025/25L294FP.PDF
