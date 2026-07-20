@@ -19,6 +19,7 @@ Initiator: Membri ai Parlamentului.
 - 2025-12-22: registered at the Chamber of Deputies
 - 2026-06-30: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2026-07-06: sent for promulgation
+- 2026-07-20: promulgated, becomes Legea nr. 158/2026; published in the Monitorul Oficial; documents published: Document (day not given by the bill file), Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -32,3 +33,7 @@ Initiator: Membri ai Parlamentului.
 - 2025-12-17: Adresă către Camera Deputaților (AM): [am-cc109c13.md](am-cc109c13.md); official file https://www.senat.ro/legis/PDF/2025/25L460AM.PDF
 - 2026-06-30: Adresă privind sesizarea CCR (AXS): [axs-80cef31e.md](axs-80cef31e.md); official file https://www.senat.ro/legis/PDF/2025/25L460AXS.PDF
 - 2026-06-30: Forma trimisă la promulgare (LP): [lp-3684d3ee.md](lp-3684d3ee.md); official file https://www.senat.ro/legis/PDF/2025/25L460LP.PDF
+- 2026-07-20: Document (CF): [cf-3c13c81b.md](cf-3c13c81b.md); official file https://www.senat.ro/legis/PDF/2025/25L460CF.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-07-20: Document (SM): [sm-c8ed8d3b.md](sm-c8ed8d3b.md); official file https://www.senat.ro/legis/PDF/2025/25L460SM.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-07-20: Decret de promulgare (DP): [dp-944a9a2d.md](dp-944a9a2d.md); official file https://www.senat.ro/legis/PDF/2025/25L460DP.PDF
+- 2026-07-20: Forma promulgată (FP): [fp-0999afd8.md](fp-0999afd8.md); official file https://www.senat.ro/legis/PDF/2025/25L460FP.PDF
