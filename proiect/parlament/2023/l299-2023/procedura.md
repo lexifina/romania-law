@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2023-06-19: registered at the Chamber of Deputies
 - 2026-06-30: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2026-07-02: sent for promulgation
+- 2026-07-20: promulgated, becomes Legea nr. 142/2026; published in the Monitorul Oficial; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -43,3 +44,5 @@ Initiator: Guvernul României.
 - 2023-06-12: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L299AM.PDF
 - 2026-06-30: Adresă privind sesizarea CCR (AXS): [axs-4def5b66.md](axs-4def5b66.md); official file https://www.senat.ro/legis/PDF/2023/23L299AXS.PDF
 - 2026-06-30: Forma trimisă la promulgare (LP): [lp-e02f6c57.md](lp-e02f6c57.md); official file https://www.senat.ro/legis/PDF/2023/23L299LP.PDF
+- 2026-07-20: Decret de promulgare (DP): [dp-f010e333.md](dp-f010e333.md); official file https://www.senat.ro/legis/PDF/2023/23L299DP.PDF
+- 2026-07-20: Forma promulgată (FP): [fp-81ded848.md](fp-81ded848.md); official file https://www.senat.ro/legis/PDF/2023/23L299FP.PDF
