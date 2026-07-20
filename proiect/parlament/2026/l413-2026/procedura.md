@@ -16,6 +16,7 @@ Initiator: Membri ai Parlamentului.
 - 2026-06-24: adopted by the Senate; documents published: Aviz comisie, Forma adoptată de Senat, Adresă către Camera Deputaților
 - 2026-06-30: adopted by the Chamber of Deputies; documents published: Forma adoptată de Camera Deputaților, Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2026-07-06: sent for promulgation
+- 2026-07-20: promulgated, becomes Legea nr. 157/2026; published in the Monitorul Oficial; documents published: Document (day not given by the bill file), Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -33,3 +34,6 @@ Initiator: Membri ai Parlamentului.
 - 2026-06-30: Forma adoptată de Camera Deputaților (FC): [fc-701c837b.md](fc-701c837b.md); official file https://www.senat.ro/legis/PDF/2026/26L413FC.PDF
 - 2026-06-30: Adresă privind sesizarea CCR (AXS): [axs-024ba5ec.md](axs-024ba5ec.md); official file https://www.senat.ro/legis/PDF/2026/26L413AXS.PDF
 - 2026-06-30: Forma trimisă la promulgare (LP): [lp-66be2908.md](lp-66be2908.md); official file https://www.senat.ro/legis/PDF/2026/26L413LP.PDF
+- 2026-07-20: Document (CF): [cf-8c8a153d.md](cf-8c8a153d.md); official file https://www.senat.ro/legis/PDF/2026/26L413CF.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-07-20: Decret de promulgare (DP): [dp-bd0092e1.md](dp-bd0092e1.md); official file https://www.senat.ro/legis/PDF/2026/26L413DP.PDF
+- 2026-07-20: Forma promulgată (FP): [fp-0f12cda3.md](fp-0f12cda3.md); official file https://www.senat.ro/legis/PDF/2026/26L413FP.PDF
