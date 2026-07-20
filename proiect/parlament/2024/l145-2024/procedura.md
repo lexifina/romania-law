@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2024-04-15: registered at the Chamber of Deputies
 - 2026-06-30: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2026-07-02: sent for promulgation
+- 2026-07-20: promulgated, becomes Legea nr. 145/2026; published in the Monitorul Oficial; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -35,3 +36,5 @@ Initiator: Guvernul României.
 - 2024-04-06: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L145AM.PDF
 - 2026-06-30: Adresă privind sesizarea CCR (AXS): [axs-a9c33ba5.md](axs-a9c33ba5.md); official file https://www.senat.ro/legis/PDF/2024/24L145AXS.PDF
 - 2026-06-30: Forma trimisă la promulgare (LP): [lp-568c0020.md](lp-568c0020.md); official file https://www.senat.ro/legis/PDF/2024/24L145LP.PDF
+- 2026-07-20: Decret de promulgare (DP): [dp-d706a23f.md](dp-d706a23f.md); official file https://www.senat.ro/legis/PDF/2024/24L145DP.PDF
+- 2026-07-20: Forma promulgată (FP): [fp-a0e1bec7.md](fp-a0e1bec7.md); official file https://www.senat.ro/legis/PDF/2024/24L145FP.PDF
