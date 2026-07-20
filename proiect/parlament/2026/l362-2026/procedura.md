@@ -18,6 +18,7 @@ Initiator: Membri ai Parlamentului.
 - 2026-06-17: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților
 - 2026-06-30: adopted by the Chamber of Deputies; documents published: Forma adoptată de Camera Deputaților, Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2026-07-02: sent for promulgation
+- 2026-07-20: promulgated, becomes Legea nr. 144/2026; published in the Monitorul Oficial; documents published: Document (day not given by the bill file), Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -35,3 +36,8 @@ Initiator: Membri ai Parlamentului.
 - 2026-06-30: Forma adoptată de Camera Deputaților (FC): [fc-50ff6639.md](fc-50ff6639.md); official file https://www.senat.ro/legis/PDF/2026/26L362FC.PDF
 - 2026-06-30: Adresă privind sesizarea CCR (AXS): [axs-7a78442c.md](axs-7a78442c.md); official file https://www.senat.ro/legis/PDF/2026/26L362AXS.PDF
 - 2026-06-30: Forma trimisă la promulgare (LP): [lp-3751968c.md](lp-3751968c.md); official file https://www.senat.ro/legis/PDF/2026/26L362LP.PDF
+- 2026-07-20: Document (ANCO): [anco-1ae4e351.md](anco-1ae4e351.md); official file https://www.senat.ro/legis/PDF/2026/26L362ANCO.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-07-20: Document (CF): [cf-25206f5a.md](cf-25206f5a.md); official file https://www.senat.ro/legis/PDF/2026/26L362CF.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-07-20: Document (CC): [cc-e56ef0ea.md](cc-e56ef0ea.md); official file https://www.senat.ro/legis/PDF/2026/26L362CC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-07-20: Decret de promulgare (DP): [dp-61059e18.md](dp-61059e18.md); official file https://www.senat.ro/legis/PDF/2026/26L362DP.PDF
+- 2026-07-20: Forma promulgată (FP): [fp-bac503b2.md](fp-bac503b2.md); official file https://www.senat.ro/legis/PDF/2026/26L362FP.PDF
