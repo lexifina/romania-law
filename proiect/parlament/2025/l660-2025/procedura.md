@@ -18,6 +18,7 @@ Initiator: Membri ai Parlamentului.
 - 2026-03-30: registered at the Chamber of Deputies
 - 2026-06-30: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2026-07-06: sent for promulgation
+- 2026-07-20: promulgated, becomes Legea nr. 151/2026; published in the Monitorul Oficial; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -32,3 +33,5 @@ Initiator: Membri ai Parlamentului.
 - 2026-03-16: Adresă către Camera Deputaților (AM): [am-09e0b496.md](am-09e0b496.md); official file https://www.senat.ro/legis/PDF/2025/25L660AM.PDF
 - 2026-06-30: Adresă privind sesizarea CCR (AXS): [axs-f9bbe64c.md](axs-f9bbe64c.md); official file https://www.senat.ro/legis/PDF/2025/25L660AXS.PDF
 - 2026-06-30: Forma trimisă la promulgare (LP): [lp-8a1b7e6e.md](lp-8a1b7e6e.md); official file https://www.senat.ro/legis/PDF/2025/25L660LP.PDF
+- 2026-07-20: Decret de promulgare (DP): [dp-564661f2.md](dp-564661f2.md); official file https://www.senat.ro/legis/PDF/2025/25L660DP.PDF
+- 2026-07-20: Forma promulgată (FP): [fp-85844df0.md](fp-85844df0.md); official file https://www.senat.ro/legis/PDF/2025/25L660FP.PDF
