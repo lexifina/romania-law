@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2026-06-24: adopted by the Senate; documents published: Forma adoptată de Senat
 - 2026-06-29: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2026-07-06: sent for promulgation
+- 2026-07-20: promulgated, becomes Legea nr. 147/2026; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -34,3 +35,5 @@ Initiator: Guvernul României.
 - 2026-06-24: Forma adoptată de Senat (FS): [fs-041bb36c.md](fs-041bb36c.md); official file https://www.senat.ro/legis/PDF/2026/26L337FS.PDF
 - 2026-06-29: Adresă privind sesizarea CCR (AXS): [axs-349d9101.md](axs-349d9101.md); official file https://www.senat.ro/legis/PDF/2026/26L337AXS.PDF
 - 2026-06-29: Forma trimisă la promulgare (LP): [lp-aab3c64d.md](lp-aab3c64d.md); official file https://www.senat.ro/legis/PDF/2026/26L337LP.PDF
+- 2026-07-20: Decret de promulgare (DP): [dp-33c95a19.md](dp-33c95a19.md); official file https://www.senat.ro/legis/PDF/2026/26L337DP.PDF
+- 2026-07-20: Forma promulgată (FP): [fp-234fbc84.md](fp-234fbc84.md); official file https://www.senat.ro/legis/PDF/2026/26L337FP.PDF
