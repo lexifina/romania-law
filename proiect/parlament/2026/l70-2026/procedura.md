@@ -20,6 +20,7 @@ Initiator: Membri ai Parlamentului.
 - 2026-04-01: registered at the Chamber of Deputies
 - 2026-06-30: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2026-07-06: sent for promulgation
+- 2026-07-20: promulgated, becomes Legea nr. 153/2026; published in the Monitorul Oficial; documents published: Document (day not given by the bill file), Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -36,3 +37,8 @@ Initiator: Membri ai Parlamentului.
 - 2026-03-30: Adresă către Camera Deputaților (AM): [am-cb7b1872.md](am-cb7b1872.md); official file https://www.senat.ro/legis/PDF/2026/26L070AM.PDF
 - 2026-06-30: Adresă privind sesizarea CCR (AXS): [axs-35ffd869.md](axs-35ffd869.md); official file https://www.senat.ro/legis/PDF/2026/26L070AXS.PDF
 - 2026-06-30: Forma trimisă la promulgare (LP): [lp-44dd330c.md](lp-44dd330c.md); official file https://www.senat.ro/legis/PDF/2026/26L070LP.PDF
+- 2026-07-20: Document (CF): [cf-e6bf9ef4.md](cf-e6bf9ef4.md); official file https://www.senat.ro/legis/PDF/2026/26L070CF.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-07-20: Document (CC): [cc-a05afb5f.md](cc-a05afb5f.md); official file https://www.senat.ro/legis/PDF/2026/26L070CC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-07-20: Document (AG1): [ag1-caea30b9.md](ag1-caea30b9.md); official file https://www.senat.ro/legis/PDF/2026/26L070AG1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-07-20: Decret de promulgare (DP): [dp-f5396b23.md](dp-f5396b23.md); official file https://www.senat.ro/legis/PDF/2026/26L070DP.PDF
+- 2026-07-20: Forma promulgată (FP): [fp-f99c1f37.md](fp-f99c1f37.md); official file https://www.senat.ro/legis/PDF/2026/26L070FP.PDF
