@@ -19,6 +19,7 @@ Initiator: Membri ai Parlamentului.
 - 2026-06-30: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2026-07-06: sent for promulgation
 - 2026-07-20: promulgated, becomes Legea nr. 156/2026; documents published: Decret de promulgare, Forma promulgată
+- 2026-07-21: published in the Monitorul Oficial
 
 ## Documents
 
