@@ -18,6 +18,7 @@ Initiator: Membri ai Parlamentului.
 - 2026-06-30: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2026-07-06: sent for promulgation
 - 2026-07-20: promulgated, becomes Legea nr. 152/2026; documents published: Decret de promulgare, Forma promulgată
+- 2026-07-21: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -32,3 +33,4 @@ Initiator: Membri ai Parlamentului.
 - 2026-06-30: Forma trimisă la promulgare (LP): [lp-e846ca5e.md](lp-e846ca5e.md); official file https://www.senat.ro/legis/PDF/2026/26L073LP.PDF
 - 2026-07-20: Decret de promulgare (DP): [dp-a05033b2.md](dp-a05033b2.md); official file https://www.senat.ro/legis/PDF/2026/26L073DP.PDF
 - 2026-07-20: Forma promulgată (FP): [fp-17f3ee87.md](fp-17f3ee87.md); official file https://www.senat.ro/legis/PDF/2026/26L073FP.PDF
+- 2026-07-21: Document (CF): [cf-381127a9.md](cf-381127a9.md); official file https://www.senat.ro/legis/PDF/2026/26L073CF.PDF (its day is not given by the bill file: shown from the last stage held)
