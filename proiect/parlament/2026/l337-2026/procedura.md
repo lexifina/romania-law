@@ -20,6 +20,7 @@ Initiator: Guvernul României.
 - 2026-06-29: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2026-07-06: sent for promulgation
 - 2026-07-20: promulgated, becomes Legea nr. 147/2026; documents published: Decret de promulgare, Forma promulgată
+- 2026-07-21: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -37,3 +38,6 @@ Initiator: Guvernul României.
 - 2026-06-29: Forma trimisă la promulgare (LP): [lp-aab3c64d.md](lp-aab3c64d.md); official file https://www.senat.ro/legis/PDF/2026/26L337LP.PDF
 - 2026-07-20: Decret de promulgare (DP): [dp-33c95a19.md](dp-33c95a19.md); official file https://www.senat.ro/legis/PDF/2026/26L337DP.PDF
 - 2026-07-20: Forma promulgată (FP): [fp-234fbc84.md](fp-234fbc84.md); official file https://www.senat.ro/legis/PDF/2026/26L337FP.PDF
+- 2026-07-21: Document (TX): [tx-200fcabf.md](tx-200fcabf.md); official file https://www.senat.ro/legis/PDF/2026/26L337TX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-07-21: Document (AL): [al-e2aa6343.md](al-e2aa6343.md); official file https://www.senat.ro/legis/PDF/2026/26L337AL.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-07-21: Document (TC): [tc-66a0fa48.md](tc-66a0fa48.md); official file https://www.senat.ro/legis/PDF/2026/26L337TC.PDF (its day is not given by the bill file: shown from the last stage held)
