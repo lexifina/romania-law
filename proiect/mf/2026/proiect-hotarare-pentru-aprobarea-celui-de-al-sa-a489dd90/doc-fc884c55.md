@@ -1,0 +1,34 @@
+GUVERNUL ROMÂNIEI
+
+HOTĂRÂRE
+
+pentru aprobarea celui de-al șaselea Amendament convenit între Guvernul României și
+Banca Internațională pentru Reconstrucție și Dezvoltare, prin Scrisoarea semnată la
+Bruxelles, la 4 iunie 2026  și la București la 16 iunie 2026 la Acordul de împrumut
+(Program pe bază de rezultate în sectorul sanitar din România) dintre România și Banca
+Internațională pentru Reconstrucție și Dezvoltare, semnat la New York la 23 septembrie
+2019, amendat și actualizat prin Scrisoarea de amendament semnată între România și
+Banca Internațională pentru Reconstrucție și Dezvoltare,
+la București la 31 iulie 2020 și la 26 august 2020
+
+În temeiul art. 108 din Constituția României, republicată, și al art. 6 alin.(2) din Legea nr.
+1/2021 pentru ratificarea Acordului de împrumut (Program pe bază de rezultate în sectorul
+sanitar din România) dintre România și Banca Internațională pentru Reconstrucție și Dezvoltare,
+semnat la New York la 23 septembrie 2019, amendat și actualizat prin Scrisoarea de
+amendament semnată între România și Banca Internațională pentru Reconstrucție și Dezvoltare
+la București la 31 iulie 2020 și la 26 august 2020, cu completările ulterioare
+
+  Guvernul României adoptă prezenta hotărâre,
+
+Articol unic - Se aprobă cel de-al șaselea Amendament convenit între Guvernul României, prin
+Ministerul Finanțelor și Banca Internațională pentru Reconstrucție și Dezvoltare, prin Scrisoarea
+semnată la Bruxelles, la 4 iunie 2026  și la București la 16 iunie 2026,  la Acordul de împrumut
+(Program pe bază de rezultate în sectorul sanitar din România) dintre România și Banca
+Internațională pentru Reconstrucție și Dezvoltare, semnat la New York la 23 septembrie 2019,
+amendat și actualizat prin Scrisoarea de amendament semnată între România și Banca
+Internațională pentru Reconstrucție și Dezvoltare la București la 31 iulie 2020 și la 26 august
+2020,  ratificat prin Legea nr. 1/2021, cu completările ulterioare.
+
+Ilie-Gavril Bolojan
+
+Prim-ministru
