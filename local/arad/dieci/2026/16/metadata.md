@@ -1,0 +1,10 @@
+# HCL Dieci nr. 16/2026
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+- Council: Consiliul Local al Comunei Dieci
+- Decision: nr. 16/2026
+- Adopted: 2026-02-27
+- Published: 2026-07-22
+- Title: privind modificarea Planului de Analiza si Acoperire a Riscurilor la nivelul comunei Dieci, aprobat prin HCL nr.53/30.11.2007
+- Record: https://emol.ro/dieci-ar/registru-hcl/258466
