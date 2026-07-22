@@ -1,0 +1,180 @@
+{
+ "key": "dcc-449-2025",
+ "label": "Decizia CCR nr. 449/2025",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "449",
+ "date": "2025-10-16",
+ "year": "2025",
+ "heading": "DECIZIA nr. 449 din 16 octombrie 2025",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 257 alin. (1) teza întâi din Codul penal",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "598",
+  "bis": false,
+  "date": "2026-07-22",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "2.370/206/2020",
+  "1.340D/2021"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "257",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Daniel Corocea în Dosarul nr. 2.370/206/2020 al Judecătoriei Câmpulung Moldovenesc și constată că dispozițiile art. 257 alin. (1) teza întâi din Codul penal sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Judecătoriei Câmpulung Moldovenesc și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "257",
+     "alin": [
+      "1",
+      "2",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "206",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "279",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 22
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "26",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "61",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2026-07-22",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/312435",
+  "text_sha256": "eb2fc39190aaa3fa0ba430cce00372342050d48432ab6ac596c9bf5393498923",
+  "catalogue_sha256": "eb2fc39190aaa3fa0ba430cce00372342050d48432ab6ac596c9bf5393498923",
+  "fetched": "2026-11-03T00:46:42Z",
+  "chars": 18530,
+  "portal_id": "312435",
+  "tip": "DECIZIE"
+ }
+}
