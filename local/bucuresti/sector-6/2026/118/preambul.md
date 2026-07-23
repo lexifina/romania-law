@@ -1,0 +1,7 @@
+Având în vedere Referatul de aprobare al Primarului Sectorului 6, Nota de fundamentare a Direcției Generale pentru Administrarea Patrimoniului Imobiliar Sector 6 nr. S 04152/09.07.2026 și Raportul de specialitate al Direcției Generale Investiții Publice nr. 111297/16.07.2026, din cadrul aparatului de specialitate al Primarului Sectorului 6;
+Luând în considerare avizele Comisiilor de specialitate ale Consiliului Local al Sectorului 6 nr. 1 - Buget, Finanțe, Investiții și Fonduri Europene, nr. 4 - Educație, Sport, Sănătate, Cultură, Culte, Tineret și Probleme Sociale și nr. 5 - Juridică, Disciplină Urbană, de Ordine Publică și Situații de Urgență;
+Ținând cont de:
+- Ordonanța Guvernului nr. 13/2017 privind aprobarea participării României la Programul pentru școli al Uniunii Europene, cu modificările și completările ulterioare;
+- Legea nr. 55/2018 pentru aprobarea Ordonanței Guvernului nr. 13/2017 privind aprobarea participării României la Programul pentru școli al Uniunii Europene; -Anexa nr. 6 punctul 1.4 din Hotărârea Guvernului nr. 652/2023 pentru aprobarea Programului pentru școli al României în perioada 2023-2029 și pentru stabilirea bugetului pentru implementarea acestuia în anul școlar 2023-2024, cu modificările și completările ulterioare.
+În temeiul prevederilor art. 139 alin. (1), art. 166 alin. (4), art. 196 alin. (1) lit. a) și art. 197 din O.U.G. nr. 57/2019 privind Codul administrativ, cu modificările și completările ulterioare;
+Consiliul Local al Sectorului 6 HOTĂRĂȘTE:
