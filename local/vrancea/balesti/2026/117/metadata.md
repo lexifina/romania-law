@@ -1,0 +1,9 @@
+# HCL Bălești nr. 117/2026
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+- Council: Consiliul Local al Comunei Bălești
+- Decision: nr. 117/2026
+- Adopted: 2026-07-23
+- Title: privind aprobarea Studiului de Fezabilitate și a indicatorilor tehnico-economici pentru obiectivul de investiții: ”Înființare Parc Industrial în Municipiul Băilești, județul Dolj”;
+- Record: https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#130321
