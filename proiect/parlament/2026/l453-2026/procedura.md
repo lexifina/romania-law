@@ -1,0 +1,21 @@
+# Propunere legislativă L453/2026
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 181/2026 (`legea-181-2026`).
+
+Propunere legislativă pentru modificarea și completarea Legii nr.237/2023 privind integrarea hidrogenului din surse regenerabile și cu emisii reduse de carbon în sectoarele industriei și transporturilor, precum și a Ordonanței de urgență a Guvernului nr.163/2022 pentru completarea cadrului legal de promovare a utilizării energiei din surse regenerabile, precum și pentru modificarea și completarea unor acte normative
+
+Initiator: Membri ai Parlamentului.
+
+## Stages published so far
+
+- 2026-07-24: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Economic și Social, Aviz Consiliul Legislativ
+
+## Documents
+
+- 2026-07-24: Adresă de înaintare a inițiativei (AD): [ad-a357f65e.md](ad-a357f65e.md); official file https://www.senat.ro/legis/PDF/2026/26L453AD.PDF
+- 2026-07-24: Forma inițiatorului (FG): [fg-c6d57b16.md](fg-c6d57b16.md); official file https://www.senat.ro/legis/PDF/2026/26L453FG.PDF
+- 2026-07-24: Expunere de motive (EM): [em-9d03a9fc.md](em-9d03a9fc.md); official file https://www.senat.ro/legis/PDF/2026/26L453EM.PDF
+- 2026-07-24: Aviz Consiliul Economic și Social (ES): [es-fcb7e374.md](es-fcb7e374.md); official file https://www.senat.ro/legis/PDF/2026/26L453ES.PDF
+- 2026-07-24: Aviz Consiliul Legislativ (LG): [lg-1755cea0.md](lg-1755cea0.md); official file https://www.senat.ro/legis/PDF/2026/26L453LG.PDF
