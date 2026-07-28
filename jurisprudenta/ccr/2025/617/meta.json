@@ -1,0 +1,188 @@
+{
+ "key": "dcc-617-2025",
+ "label": "Decizia CCR nr. 617/2025",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "617",
+ "date": "2025-11-20",
+ "year": "2025",
+ "heading": "DECIZIA nr. 617 din 20 noiembrie 2025",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 14 alin. (3) din Legea nr. 132/2017 privind asigurarea obligatorie de răspundere civilă auto pentru prejudicii produse terților prin accidente de vehicule și tramvaie",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "621",
+  "bis": false,
+  "date": "2026-07-28",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "38.031/299/2019",
+  "1.208D/2021",
+  "1.837/298/2020",
+  "10.877/325/2021",
+  "7.020/325/2021",
+  "2.992D/2021",
+  "3.311D/2021",
+  "3.376D/2021"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 132/2017",
+    "number": "132",
+    "year": "2017",
+    "path": "lege/2017/132"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Societatea de Asigurare Reasigurare City Insurance - S.A. din București în Dosarul nr. 38.031/299/2019 al Judecătoriei Sectorului 1 București - Secția a II-a civilă, în Dosarul nr. 1.837/298/2020 al Tribunalului Alba - Secția a II-a civilă, de contencios administrativ, fiscal și de insolvență, în Dosarul nr. 10.877/325/2021 al Judecătoriei Timișoara - Secția a II-a civilă și în Dosarul nr. 7.020/325/2021 al Judecătoriei Timișoara - Secția I civilă și constată că dispozițiile art. 14 alin. (3) din Legea nr. 132/2017 privind asigurarea obligatorie de răspundere civilă auto pentru prejudicii produse terților prin accidente de vehicule și tramvaie sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Judecătoriei Sectorului 1 București - Secția a II-a civilă, Tribunalului Alba - Secția a II-a civilă, de contencios administrativ, fiscal și de insolvență, Judecătoriei Timișoara - Secția a II-a civilă și Judecătoriei Timișoara - Secția I civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 132/2017",
+    "number": "132",
+    "year": "2017",
+    "path": "lege/2017/132"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2026-07-28",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/313065",
+  "text_sha256": "73ff1c1da004d185f8b588db8a74b0fabd3208aa55fa4b87d9bab7ed8bc56b86",
+  "catalogue_sha256": "73ff1c1da004d185f8b588db8a74b0fabd3208aa55fa4b87d9bab7ed8bc56b86",
+  "fetched": "2026-11-03T00:46:29Z",
+  "chars": 17153,
+  "portal_id": "313065",
+  "tip": "DECIZIE"
+ }
+}
