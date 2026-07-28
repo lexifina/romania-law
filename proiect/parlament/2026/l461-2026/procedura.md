@@ -9,7 +9,8 @@ Initiator: Membri ai Parlamentului.
 ## Stages published so far
 
 - 2026-07-22: registered at the Chamber of Deputies
+- 2026-07-28: documents published: Raport comisie sesizată pe fond
 
 ## Documents
 
-- none held as text
+- 2026-07-28: Raport comisie sesizată pe fond (CR): [cr-0424f2fc.md](cr-0424f2fc.md); official file https://www.senat.ro/legis/PDF/2026/26L461CR.PDF
