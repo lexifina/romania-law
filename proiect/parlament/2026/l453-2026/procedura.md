@@ -12,6 +12,7 @@ Initiator: Membri ai Parlamentului.
 
 - 2026-07-24: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Economic și Social, Aviz Consiliul Legislativ
 - 2026-07-27: documents published: Aviz comisie, Raport comisie sesizată pe fond
+- 2026-07-28: documents published: Aviz comisie
 
 ## Documents
 
@@ -22,3 +23,5 @@ Initiator: Membri ai Parlamentului.
 - 2026-07-24: Aviz Consiliul Legislativ (LG): [lg-1755cea0.md](lg-1755cea0.md); official file https://www.senat.ro/legis/PDF/2026/26L453LG.PDF
 - 2026-07-27: Aviz comisie (CA42): [ca42-4be1cbd0.md](ca42-4be1cbd0.md); official file https://www.senat.ro/legis/PDF/2026/26L453CA42.PDF
 - 2026-07-27: Raport comisie sesizată pe fond (CR): [cr-4afefbda.md](cr-4afefbda.md); official file https://www.senat.ro/legis/PDF/2026/26L453CR.PDF
+- 2026-07-28: Aviz comisie (CA19): [ca19-87e337e2.md](ca19-87e337e2.md); official file https://www.senat.ro/legis/PDF/2026/26L453CA19.PDF
+- 2026-07-28: Aviz comisie (CA3): [ca3-8f514740.md](ca3-8f514740.md); official file https://www.senat.ro/legis/PDF/2026/26L453CA3.PDF
