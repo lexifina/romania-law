@@ -1,0 +1,33 @@
+GUVERNUL ROMÂNIEI
+
+H O T Ă R Â R E
+privind înscrierea a unor bunuri imobile în inventarul centralizat al bunurilor din domeniul
+public al statului și darea acestora în administrarea Inspectoratului Școlar Județean Suceava
+și a Casei Corpului Didactic „George Tofan” Suceava, instituții aflate în subordinea
+Ministerului Educației și Cercetării
+
+Având în vedere prevederile Ordinului ministrului educației și cercetării nr. 4118/16.07.2002
+privind transmiterea fără plată, a unei cote indivize din imobilul, proprietate publică a statului, de
+la Agenția Teritorială a taberelor și Turismului Școlar Suceava, la Inspectoratul Școlar al Județului
+Suceava,
+În temeiul art. 108 din Constituția României, republicată, al art. 288 alin. (1) și art. 299 din
+Ordonanța de Urgență a Guvernului nr. 57/2019 privind Codul administrativ, cu modificările și
+completările ulterioare, al art. 867 din Legea nr. 287/2009 privind Codul civil, republicată, cu
+modificările și completările ulterioare,
+
+Guvernul României adoptă prezenta hotărâre
+
+Art. 1 Se aprobă înscrierea în inventarul centralizat al bunurilor din domeniul public al statului
+și darea în administrarea Inspectoratului Școlar Județean Suceava și a Casei Corpului Didactic
+„George Tofan” Suceava, instituții aflate în subordinea Ministerului Educației și Cercetării, a unor
+bunuri imobile cu destinația de sediu al inspectoratului școlar, având datele de identificare prevăzute
+în anexa la prezenta hotărâre, trecute în administrarea Inspectoratului Școlar Județean Suceava prin
+Ordinul ministrului educației și cercetării nr. 4118/2002).
+Art. 2 Ministerul Educației și Cercetării își va actualiza în mod corespunzător datele din
+evidența cantitativ-valorică și, împreună cu Ministerul Finanțelor, va opera completările și
+modificările corespunzătoare în anexa nr. 8 la Hotărârea Guvernului nr. 1705/2006 pentru aprobarea
+inventarului centralizat al bunurilor din domeniul public al statului, cu modificările și completările
+ulterioare.
+
+PRIM-MINISTRU
+Ilie-Gavril BOLOJAN
