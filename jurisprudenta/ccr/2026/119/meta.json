@@ -1,0 +1,371 @@
+{
+ "key": "dcc-119-2026",
+ "label": "Decizia CCR nr. 119/2026",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "119",
+ "date": "2026-02-12",
+ "year": "2026",
+ "heading": "DECIZIA nr. 119 din 12 februarie 2026",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 14 alin. (1) cu referire la sintagma \"tragerea la răspundere penală\", ale art. 15 cu referire la sintagma \"cazuri care împiedică punerea în mișcare sau exercitarea acesteia\", ale art. 16 alin. (1) lit. a)- d), ale art. 17 alin. (1) cu referire la noțiunea \"clasare\" și alin. (2) cu referire la sintagma \"în cursul judecății\", ale art. 294 alin. (3) cu referire la sintagmele \"cazurile de împiedicare a exercitării acțiunii penale prevăzute de art. 16 alin. (1)\", respectiv \"propunerea de clasare\" și alin. (4) cu referire la sintagma \"dispune [...] clasarea\", ale art. 305 alin. (3) cu referire la sintagma \"cazurile prevăzute la art. 16 alin. (1)\", ale art. 309 alin. (1) cu referire la sintagma \"cazurile [...] prevăzute la art. 16 alin. (1) \", ale art. 314 alin. (1) lit. a) și ale art. 315 alin. (1) lit. b), cu referire la sintagma \"cazurile prevăzute la art. 16 alin. (1)\", ale art. 317 cu referire la sintagmele \"propunerea de clasare\" și \"dispune clasarea parțial\", ale art. 335 alin. (1) și (2), cu referire la sintagma \"se întemeia clasarea\", alin. (5) cu referire la sintagma \"s-a dispus clasarea\" și alin. (6) cu referire la sintagma \"soluția de netrimitere\", ale art. 339 alin. (4) cu referire la sintagma \"soluțiilor de clasare\", ale art. 340 alin. (1) cu referire la sintagma \"împotriva soluției de clasare\" și ale art. 341 alin. (6) și (7) din Codul de procedură penală",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "625",
+  "bis": false,
+  "date": "2026-07-29",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata",
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "228/42/2021",
+  "2.494D/2021"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "315",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "317",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "335",
+     "alin": [
+      "1",
+      "5",
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "339",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "340",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "341",
+     "alin": [
+      "6",
+      "7"
+     ],
+     "lit": null
+    },
+    {
+     "art": "305",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "309",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "314",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "1. Respinge, ca inadmisibilă, excepția de neconstituționalitate a dispozițiilor art. 335 alin. (1) și (2), cu referire la sintagma „se întemeia clasarea“, alin. (5) cu referire la sintagma „s-a dispus clasarea“ și alin. (6) cu referire la sintagma „soluția de netrimitere“, precum și a dispozițiilor art. 341 alin. (7) din Codul de procedură penală, excepție ridicată de Dragoș Pașc și Maria Magdalena Pașc în Dosarul nr. 228/42/2021 al Curții de Apel Ploiești - Secția penală și pentru cauze cu minori și de familie.",
+  "2. Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de aceiași autori în același dosar al aceleiași instanțe și constată că dispozițiile art. 14 alin. (1) cu referire la sintagma „tragerea la răspundere penală“, ale art. 15 cu referire la sintagma „cazuri care împiedică punerea în mișcare sau exercitarea acesteia“, ale art. 16 alin. (1) lit. a)- d), ale art. 17 alin. (1) cu referire la noțiunea „clasare“ și alin. (2) cu referire la sintagma „în cursul judecății“, ale art. 294 alin. (3) cu referire la sintagmele „cazurile de împiedicare a exercitării acțiunii penale prevăzute de art. 16 alin. (1)“, respectiv „propunerea de clasare“ și alin. (4) cu referire la sintagma „dispune [...] clasarea“, ale art. 305 alin. (3) cu referire la sintagma „cazurile prevăzute la art. 16 alin. (1)“, ale art. 309 alin. (1) cu referire la sintagma „cazurile [...] prevăzute la art. 16 alin. (1)“, ale art. 314 alin. (1) lit. a) și ale art. 315 alin. (1) lit. b), cu referire la sintagma „cazurile prevăzute la art. 16 alin. (1)“, ale art. 317 cu referire la sintagmele „propunerea de clasare“ și „dispune clasarea parțial“, ale art. 339 alin. (4) cu referire la sintagma „soluțiilor de clasare“, ale art. 340 alin. (1) cu referire la sintagma „împotriva soluției de clasare“ și ale art. 341 alin. (6) din Codul de procedură penală sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Curții de Apel Ploiești - Secția penală și pentru cauze cu minori și de familie și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "17",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "294",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "305",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "309",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "314",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "315",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "317",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "335",
+     "alin": [
+      "1",
+      "5",
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "339",
+     "alin": [
+      "4",
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "340",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "341",
+     "alin": [
+      "6",
+      "7"
+     ],
+     "lit": null
+    },
+    {
+     "art": "56",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 19
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 2/2001",
+    "number": "2",
+    "year": "2001",
+    "path": "og/2001/2"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituției",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "131",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "148",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2026-07-29",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/313085",
+  "text_sha256": "810a2fbcce045e50bd96a59c511018275cd57f03574bb1325b2720a088fbbff2",
+  "catalogue_sha256": "810a2fbcce045e50bd96a59c511018275cd57f03574bb1325b2720a088fbbff2",
+  "fetched": "2026-11-03T00:46:15Z",
+  "chars": 38176,
+  "portal_id": "313085",
+  "tip": "DECIZIE"
+ }
+}
