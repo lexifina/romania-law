@@ -11,6 +11,7 @@ Initiator: Membri ai Parlamentului.
 ## Stages published so far
 
 - 2026-07-28: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Punct de vedere Guvern, Aviz Consiliul Legislativ, Aviz Consiliul Economic și Social
+- 2026-07-29: registered at the Senate
 
 ## Documents
 
