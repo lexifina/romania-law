@@ -21,6 +21,7 @@ Initiator: Guvernul României.
 - 2023-06-09: adopted by the Senate; documents published: Forma adoptată de Senat
 - 2023-06-19: registered at the Chamber of Deputies
 - 2026-07-29: adopted by the Chamber of Deputies
+- 2026-07-30: registered at the Senate; adopted by the Senate
 
 ## Documents
 
