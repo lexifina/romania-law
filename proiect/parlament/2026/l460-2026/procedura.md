@@ -14,6 +14,7 @@ Initiator: Membri ai Parlamentului.
 - 2026-07-28: documents published: Raport comisie sesizată pe fond
 - 2026-07-29: adopted by the Chamber of Deputies; registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 - 2026-07-30: adopted by the Senate; documents published: Aviz comisie, Forma adoptată de Senat
+- 2026-07-31: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 
 ## Documents
 
@@ -23,3 +24,5 @@ Initiator: Membri ai Parlamentului.
 - 2026-07-29: Expunere de motive (EM): [em-a28d90c2.md](em-a28d90c2.md); official file https://www.senat.ro/legis/PDF/2026/26L460EM.PDF
 - 2026-07-30: Aviz comisie (CA12): [ca12-1c9daa59.md](ca12-1c9daa59.md); official file https://www.senat.ro/legis/PDF/2026/26L460CA12.PDF
 - 2026-07-30: Forma adoptată de Senat (FS): [fs-d94b036e.md](fs-d94b036e.md); official file https://www.senat.ro/legis/PDF/2026/26L460FS.PDF
+- 2026-07-31: Adresă privind sesizarea CCR (AXS): [axs-7591fbcc.md](axs-7591fbcc.md); official file https://www.senat.ro/legis/PDF/2026/26L460AXS.PDF
+- 2026-07-31: Forma trimisă la promulgare (LP): [lp-e78a6116.md](lp-e78a6116.md); official file https://www.senat.ro/legis/PDF/2026/26L460LP.PDF
