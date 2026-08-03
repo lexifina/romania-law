@@ -11,6 +11,7 @@ Initiator: Membri ai Parlamentului.
 ## Stages published so far
 
 - 2026-07-31: registered at the Chamber of Deputies; documents published: Raport comisie sesizată pe fond
+- 2026-08-03: adopted by the Chamber of Deputies
 
 ## Documents
 
