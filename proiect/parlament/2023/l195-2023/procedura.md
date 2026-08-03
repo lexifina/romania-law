@@ -23,6 +23,7 @@ Initiator: Guvernul României.
 - 2026-07-29: adopted by the Chamber of Deputies
 - 2026-07-30: registered at the Senate; adopted by the Senate
 - 2026-07-31: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
+- 2026-08-03: sent for promulgation
 
 ## Documents
 
