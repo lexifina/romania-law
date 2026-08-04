@@ -16,6 +16,7 @@ Initiator: Membri ai Parlamentului.
 - 2026-07-29: adopted by the Chamber of Deputies; documents published: Forma adoptată de Camera Deputaților
 - 2026-07-30: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2026-08-03: sent for promulgation
+- 2026-08-04: promulgated, becomes Legea nr. 162/2026; published in the Monitorul Oficial; documents published: Document (day not given by the bill file), Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -30,3 +31,8 @@ Initiator: Membri ai Parlamentului.
 - 2026-07-29: Forma adoptată de Camera Deputaților (FC): [fc-41a9876b.md](fc-41a9876b.md); official file https://www.senat.ro/legis/PDF/2026/26L452FC.PDF
 - 2026-07-30: Adresă privind sesizarea CCR (AXS): [axs-d9b87413.md](axs-d9b87413.md); official file https://www.senat.ro/legis/PDF/2026/26L452AXS.PDF
 - 2026-07-30: Forma trimisă la promulgare (LP): [lp-70b0af48.md](lp-70b0af48.md); official file https://www.senat.ro/legis/PDF/2026/26L452LP.PDF
+- 2026-08-04: Document (ANPC): [anpc-d5bd1b04.md](anpc-d5bd1b04.md); official file https://www.senat.ro/legis/PDF/2026/26L452ANPC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-08-04: Document (CF): [cf-ee12b8de.md](cf-ee12b8de.md); official file https://www.senat.ro/legis/PDF/2026/26L452CF.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-08-04: Document (CC): [cc-8c32fc24.md](cc-8c32fc24.md); official file https://www.senat.ro/legis/PDF/2026/26L452CC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-08-04: Decret de promulgare (DP): [dp-224929cb.md](dp-224929cb.md); official file https://www.senat.ro/legis/PDF/2026/26L452DP.PDF
+- 2026-08-04: Forma promulgată (FP): [fp-28a1fe81.md](fp-28a1fe81.md); official file https://www.senat.ro/legis/PDF/2026/26L452FP.PDF
