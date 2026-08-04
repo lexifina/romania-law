@@ -24,6 +24,7 @@ Initiator: Guvernul României.
 - 2026-07-30: registered at the Senate; adopted by the Senate
 - 2026-07-31: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2026-08-03: sent for promulgation
+- 2026-08-04: promulgated, becomes Legea nr. 169/2026; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -47,3 +48,5 @@ Initiator: Guvernul României.
 - 2023-06-09: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L195FS.PDF
 - 2026-07-31: Adresă privind sesizarea CCR (AXS): [axs-3ec51d7f.md](axs-3ec51d7f.md); official file https://www.senat.ro/legis/PDF/2023/23L195AXS.PDF
 - 2026-07-31: Forma trimisă la promulgare (LP): [lp-8d4fcf12.md](lp-8d4fcf12.md); official file https://www.senat.ro/legis/PDF/2023/23L195LP.PDF
+- 2026-08-04: Decret de promulgare (DP): [dp-02acb18c.md](dp-02acb18c.md); official file https://www.senat.ro/legis/PDF/2023/23L195DP.PDF
+- 2026-08-04: Forma promulgată (FP): [fp-171de6db.md](fp-171de6db.md); official file https://www.senat.ro/legis/PDF/2023/23L195FP.PDF
