@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2026-07-29: adopted by the Chamber of Deputies; documents published: Forma adoptată de Camera Deputaților
 - 2026-07-30: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2026-08-03: sent for promulgation
+- 2026-08-04: promulgated, becomes Legea nr. 163/2026; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -35,3 +36,5 @@ Initiator: Guvernul României.
 - 2026-07-29: Forma adoptată de Camera Deputaților (FC): [fc-7d646d4a.md](fc-7d646d4a.md); official file https://www.senat.ro/legis/PDF/2026/26L308FC.PDF
 - 2026-07-30: Adresă privind sesizarea CCR (AXS): [axs-c0c7817e.md](axs-c0c7817e.md); official file https://www.senat.ro/legis/PDF/2026/26L308AXS.PDF
 - 2026-07-30: Forma trimisă la promulgare (LP): [lp-f7b2b7fd.md](lp-f7b2b7fd.md); official file https://www.senat.ro/legis/PDF/2026/26L308LP.PDF
+- 2026-08-04: Decret de promulgare (DP): [dp-430e8c40.md](dp-430e8c40.md); official file https://www.senat.ro/legis/PDF/2026/26L308DP.PDF
+- 2026-08-04: Forma promulgată (FP): [fp-234b7d15.md](fp-234b7d15.md); official file https://www.senat.ro/legis/PDF/2026/26L308FP.PDF
