@@ -15,6 +15,7 @@ Initiator: Membri ai Parlamentului.
 - 2026-07-30: documents published: Aviz comisie
 - 2026-07-31: documents published: Aviz comisie
 - 2026-08-03: documents published: Aviz comisie
+- 2026-08-04: adopted by the Senate; documents published: Aviz comisie, Raport comisie sesizată pe fond, Forma adoptată de Senat, Adresă către Camera Deputaților
 
 ## Documents
 
@@ -28,3 +29,9 @@ Initiator: Membri ai Parlamentului.
 - 2026-07-31: Aviz comisie (CA53): [ca53-0807b07a.md](ca53-0807b07a.md); official file https://www.senat.ro/legis/PDF/2026/26L455CA53.PDF
 - 2026-08-03: Aviz comisie (CA47): [ca47-c793ed6b.md](ca47-c793ed6b.md); official file https://www.senat.ro/legis/PDF/2026/26L455CA47.PDF
 - 2026-08-03: Aviz comisie (CA39): [ca39-ad5def0e.md](ca39-ad5def0e.md); official file https://www.senat.ro/legis/PDF/2026/26L455CA39.PDF
+- 2026-08-04: Aviz comisie (CA42): [ca42-d125eae8.md](ca42-d125eae8.md); official file https://www.senat.ro/legis/PDF/2026/26L455CA42.PDF
+- 2026-08-04: Aviz comisie (CA43): [ca43-e057290c.md](ca43-e057290c.md); official file https://www.senat.ro/legis/PDF/2026/26L455CA43.PDF
+- 2026-08-04: Aviz comisie (CA60): [ca60-a35ea192.md](ca60-a35ea192.md); official file https://www.senat.ro/legis/PDF/2026/26L455CA60.PDF
+- 2026-08-04: Raport comisie sesizată pe fond (CR): [cr-68891234.md](cr-68891234.md); official file https://www.senat.ro/legis/PDF/2026/26L455CR.PDF
+- 2026-08-04: Forma adoptată de Senat (FS): [fs-dd24dfa7.md](fs-dd24dfa7.md); official file https://www.senat.ro/legis/PDF/2026/26L455FS.PDF
+- 2026-08-04: Adresă către Camera Deputaților (AM): [am-a06ebc95.md](am-a06ebc95.md); official file https://www.senat.ro/legis/PDF/2026/26L455AM.PDF
