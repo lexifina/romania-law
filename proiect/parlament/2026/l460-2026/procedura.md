@@ -16,6 +16,7 @@ Initiator: Membri ai Parlamentului.
 - 2026-07-30: adopted by the Senate; documents published: Aviz comisie, Forma adoptată de Senat
 - 2026-07-31: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2026-08-03: sent for promulgation
+- 2026-08-04: promulgated, becomes Legea nr. 167/2026; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -27,3 +28,5 @@ Initiator: Membri ai Parlamentului.
 - 2026-07-30: Forma adoptată de Senat (FS): [fs-d94b036e.md](fs-d94b036e.md); official file https://www.senat.ro/legis/PDF/2026/26L460FS.PDF
 - 2026-07-31: Adresă privind sesizarea CCR (AXS): [axs-7591fbcc.md](axs-7591fbcc.md); official file https://www.senat.ro/legis/PDF/2026/26L460AXS.PDF
 - 2026-07-31: Forma trimisă la promulgare (LP): [lp-e78a6116.md](lp-e78a6116.md); official file https://www.senat.ro/legis/PDF/2026/26L460LP.PDF
+- 2026-08-04: Decret de promulgare (DP): [dp-0b671e37.md](dp-0b671e37.md); official file https://www.senat.ro/legis/PDF/2026/26L460DP.PDF
+- 2026-08-04: Forma promulgată (FP): [fp-7e2f3e82.md](fp-7e2f3e82.md); official file https://www.senat.ro/legis/PDF/2026/26L460FP.PDF
