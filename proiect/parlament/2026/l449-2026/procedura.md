@@ -16,6 +16,7 @@ Initiator: Membri ai Parlamentului.
 - 2026-07-29: adopted by the Chamber of Deputies; documents published: Forma adoptată de Camera Deputaților
 - 2026-07-30: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2026-08-03: sent for promulgation
+- 2026-08-04: promulgated, becomes Legea nr. 165/2026; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -33,3 +34,5 @@ Initiator: Membri ai Parlamentului.
 - 2026-07-29: Forma adoptată de Camera Deputaților (FC): [fc-ab197f3e.md](fc-ab197f3e.md); official file https://www.senat.ro/legis/PDF/2026/26L449FC.PDF
 - 2026-07-30: Adresă privind sesizarea CCR (AXS): [axs-714a6f90.md](axs-714a6f90.md); official file https://www.senat.ro/legis/PDF/2026/26L449AXS.PDF
 - 2026-07-30: Forma trimisă la promulgare (LP): [lp-c62b501a.md](lp-c62b501a.md); official file https://www.senat.ro/legis/PDF/2026/26L449LP.PDF
+- 2026-08-04: Decret de promulgare (DP): [dp-cc564cd7.md](dp-cc564cd7.md); official file https://www.senat.ro/legis/PDF/2026/26L449DP.PDF
+- 2026-08-04: Forma promulgată (FP): [fp-556f140c.md](fp-556f140c.md); official file https://www.senat.ro/legis/PDF/2026/26L449FP.PDF
