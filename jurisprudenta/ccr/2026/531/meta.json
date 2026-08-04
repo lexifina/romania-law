@@ -1,0 +1,347 @@
+{
+ "key": "dcc-531-2026",
+ "label": "Decizia CCR nr. 531/2026",
+ "court": "ccr",
+ "kind": "a-priori",
+ "subkind": "lege-inainte-de-promulgare",
+ "number": "531",
+ "date": "2026-05-27",
+ "year": "2026",
+ "heading": "DECIZIA nr. 531 din 27 mai 2026",
+ "subtitle": "referitoare la obiecția de neconstituționalitate a Legii privind aprobarea Ordonanței de urgență a Guvernului nr. 73/2018 pentru completarea art. 1 din Ordonanța de urgență a Guvernului nr. 109/2011 privind guvernanța corporativă a întreprinderilor publice",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "642",
+  "bis": false,
+  "date": "2026-08-04",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "2.930A/2026"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii privind aprobarea Ordonanței de urgență a Guvernului nr. 73/2018",
+    "number": "73",
+    "year": "2018",
+    "path": "lege/2018/73"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 109/2011",
+    "number": "109",
+    "year": "2011",
+    "path": "oug/2011/109"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, obiecția de neconstituționalitate și constată că Legea privind aprobarea Ordonanței de urgență a Guvernului nr. 73/2018 pentru completarea art. 1 din Ordonanța de urgență a Guvernului nr. 109/2011 privind guvernanța corporativă a întreprinderilor publice este constituțională în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Președintelui României și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii privind aprobarea Ordonanței de urgență a Guvernului nr. 73/2018",
+    "number": "73",
+    "year": "2018",
+    "path": "lege/2018/73"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 109/2011",
+    "number": "109",
+    "year": "2011",
+    "path": "oug/2011/109"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "39",
+     "alin": [
+      "5",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "51",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "l"
+     ]
+    },
+    {
+     "art": "4-4",
+     "alin": [
+      "4"
+     ],
+     "lit": [
+      "h"
+     ]
+    }
+   ],
+   "mentions": 27
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "61",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "75",
+     "alin": [
+      "4",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "147",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "135",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "146",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "77",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.a"
+     ]
+    },
+    {
+     "art": "18",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 73/2018",
+    "number": "73",
+    "year": "2018",
+    "path": "oug/2018/73"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 111/2016",
+    "number": "111",
+    "year": "2016",
+    "path": "lege/2016/111"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 158/2025",
+    "number": "158",
+    "year": "2025",
+    "path": "lege/2025/158"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 617/2023",
+    "number": "617",
+    "year": "2023",
+    "path": "hg/2023/617"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 639/2023",
+    "number": "639",
+    "year": "2023",
+    "path": "hg/2023/639"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2026-08-04",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/313207",
+  "text_sha256": "bac09cad2aef7ba1fba9e05d4757302f411dee967385a3e30cbf001304e3113d",
+  "catalogue_sha256": "bac09cad2aef7ba1fba9e05d4757302f411dee967385a3e30cbf001304e3113d",
+  "fetched": "2026-11-03T00:46:08Z",
+  "chars": 51200,
+  "portal_id": "313207",
+  "tip": "DECIZIE"
+ }
+}
