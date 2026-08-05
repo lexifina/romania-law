@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2026-07-30: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2026-08-03: sent for promulgation
 - 2026-08-04: promulgated, becomes Legea nr. 163/2026; documents published: Decret de promulgare, Forma promulgată
+- 2026-08-05: published in the Monitorul Oficial
 
 ## Documents
 
