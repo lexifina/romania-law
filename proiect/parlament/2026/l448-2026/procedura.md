@@ -17,6 +17,7 @@ Initiator: Membri ai Parlamentului.
 - 2026-07-30: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2026-08-03: sent for promulgation
 - 2026-08-04: promulgated, becomes Legea nr. 164/2026; documents published: Decret de promulgare, Forma promulgată
+- 2026-08-05: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -36,3 +37,5 @@ Initiator: Membri ai Parlamentului.
 - 2026-07-30: Forma trimisă la promulgare (LP): [lp-e97e4088.md](lp-e97e4088.md); official file https://www.senat.ro/legis/PDF/2026/26L448LP.PDF
 - 2026-08-04: Decret de promulgare (DP): [dp-29f17dba.md](dp-29f17dba.md); official file https://www.senat.ro/legis/PDF/2026/26L448DP.PDF
 - 2026-08-04: Forma promulgată (FP): [fp-0ff17b5a.md](fp-0ff17b5a.md); official file https://www.senat.ro/legis/PDF/2026/26L448FP.PDF
+- 2026-08-05: Document (ANFP): [anfp-a53bcfdf.md](anfp-a53bcfdf.md); official file https://www.senat.ro/legis/PDF/2026/26L448ANFP.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-08-05: Document (CF): [cf-524391e9.md](cf-524391e9.md); official file https://www.senat.ro/legis/PDF/2026/26L448CF.PDF (its day is not given by the bill file: shown from the last stage held)
