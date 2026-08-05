@@ -22,6 +22,7 @@ Initiator: Membri ai Parlamentului.
 - 2026-07-07: returned for re-examination
 - 2026-07-30: registered at the Chamber of Deputies; adopted by the Senate
 - 2026-07-31: returned for re-examination
+- 2026-08-05: sent for promulgation
 
 ## Documents
 
