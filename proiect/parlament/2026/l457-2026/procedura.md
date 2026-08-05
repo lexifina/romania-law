@@ -14,6 +14,7 @@ Initiator: Membri ai Parlamentului.
 - 2026-07-30: adopted by the Senate; documents published: Aviz comisie, Raport comisie sesizată pe fond, Forma adoptată de Senat, Adresă către Camera Deputaților
 - 2026-07-31: adopted by the Chamber of Deputies; documents published: Forma adoptată de Camera Deputaților, Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2026-08-03: sent for promulgation
+- 2026-08-05: promulgated, becomes Legea nr. 171/2026; published in the Monitorul Oficial; documents published: Document (day not given by the bill file), Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -31,3 +32,7 @@ Initiator: Membri ai Parlamentului.
 - 2026-07-31: Forma adoptată de Camera Deputaților (FC): not held as text; official file https://www.senat.ro/legis/PDF/2026/26L457FC.PDF
 - 2026-07-31: Adresă privind sesizarea CCR (AXS): [axs-672420b8.md](axs-672420b8.md); official file https://www.senat.ro/legis/PDF/2026/26L457AXS.PDF
 - 2026-07-31: Forma trimisă la promulgare (LP): [lp-42d25079.md](lp-42d25079.md); official file https://www.senat.ro/legis/PDF/2026/26L457LP.PDF
+- 2026-08-05: Document (AG1): [ag1-e72b06f5.md](ag1-e72b06f5.md); official file https://www.senat.ro/legis/PDF/2026/26L457AG1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-08-05: Document (CF): [cf-dd45e033.md](cf-dd45e033.md); official file https://www.senat.ro/legis/PDF/2026/26L457CF.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-08-05: Decret de promulgare (DP): [dp-3631a0a6.md](dp-3631a0a6.md); official file https://www.senat.ro/legis/PDF/2026/26L457DP.PDF
+- 2026-08-05: Forma promulgată (FP): [fp-525d8de4.md](fp-525d8de4.md); official file https://www.senat.ro/legis/PDF/2026/26L457FP.PDF
