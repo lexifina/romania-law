@@ -1,0 +1,33 @@
+# Anexa 22
+Anexa nr. 22
+la Prescripția tehnică
+ANTET ISCIR
+Nr. ...../........*1)
+*1) Codul autorizației conform reglementărilor interne ISCIR și data emiterii acestuia.
+AUTORIZAȚIE
+În baza Legii nr. 64/2008 privind funcționarea în condiții de siguranță a instalațiilor sub presiune, instalațiilor de ridicat și a aparatelor consumatoare de combustibil, republicată, cu modificările și completările ulterioare, a prevederilor prescripției tehnice PT CR 6-2025 aprobată prin Ordinul ministrului economiei, digitalizării, antreprenoriatului și turismului nr. ........ și a procesului-verbal nr. ..... din ........
+1.
+Persoana juridică:
+Denumire ..............
+Adresa sediu social: ..............
+Nr. înreg. Reg. Com.: ..............
+CUI: ..............
+Tel./fax/e-mail: ..............
+Subdiviziunea (laboratorul) care desfășoară activitatea autorizată*):
+*) Se completează dacă este cazul.
+Denumire ..............
+Adresa: ..............
+Nr. înreg. Reg. Com. ..........*)
+*) Se completează dacă este cazul.
+Tel./ fax/e-mail: ..............
+2.
+Domeniul de autorizare:
+3.
+Responsabil tehnic pentru încercări distructive (RTED):
+4.
+Mențiuni: Orice modificare care conduce la neîndeplinirea cerințelor în baza cărora s-a acordat autorizația sau orice modificare a datelor înscrise în autorizație trebuie anunțată la ISCIR de către persoana juridică autorizată în termen de cel mult 15 zile de la data la care aceasta s-a produs, în caz contrar autorizația se consideră suspendată.
+Persoana juridică, prin reprezentanții săi legali împreună cu personalul nominalizat în autorizație răspunde de respectarea prevederilor legale în domeniu.
+Inspector de Stat Șef
+..............
+(numele și prenumele, semnătura și ștampila)
+Autorizația se eliberează pe suport de hârtie format A4, culoarea galbenă.
