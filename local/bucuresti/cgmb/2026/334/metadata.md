@@ -1,0 +1,12 @@
+# HCGMB nr. 334/2026
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+- Council: Consiliul General al Municipiului București
+- Decision: nr. 334/2026
+- Adopted: 2026-07-29
+- Published: 2026-08-07
+- Title: PENTRU IMPUTERNICIREA EXPRESA A CONSILIULUI LOCAL AL SECTORULUI 2 DE A HOTARI, IN CONDITIILE LEGII, CU PRIVIRE LA ASOCIEREA SECTORULUI 2 AL MUNICIPIULUI BUCURESTI, MUNICIPIUL BUCURESTI, JUDETUL ILFOV SI ORASUL VOLUNTARI, IN VEDEREA REALIZARII IN COMUN A PROIECTULUI DE INTERES PUBLIC – EDIFICAREA OBIECTIVULUI DE INVESTITII „CONSTRUIRE PASAJ SUBTERAN/SUPRATERAN PE SUB/PESTE CALEA FERATA”, INCLUSIV ALTE LUCRARI DE INFRASTRUCTURA AFERENTE, DENUMIT GENERIC „PASAJ PETRICANI”
+- Record: https://acteinterne.pmb.ro/legis/acteinterne/acte_int/48353
+- Document: https://doc.pmb.ro/legis/acteinterne/2026/48353/h334_26.pdf
+- Document sha256: 630e098da4cca88bed931f427f9e346a3de817b0ea92873c652e158386e8fb8a
