@@ -1,0 +1,219 @@
+{
+ "key": "iccj-hp-40-2026",
+ "label": "Decizia ÎCCJ nr. 40/2026 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "40",
+ "date": "2026-03-09",
+ "year": "2026",
+ "heading": "DECIZIA nr. 40 din 9 martie 2026",
+ "subtitle": "referitoare la art. 268 alin. (1) lit. c) raportat la prevederile art. 146 alin. (2) și (3) din Legea nr. 53/2003 - Codul muncii, republicată, cu modificările și completările ulterioare",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "665",
+  "bis": false,
+  "date": "2026-08-11",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "2.742/1/2024",
+  "20.893/3/2023"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 53/2003",
+    "number": "53",
+    "year": "2003",
+    "path": "lege/2003/53"
+   },
+   "articles": [
+    {
+     "art": "268",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "146",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "Admite sesizarea formulată de Curtea de Apel București - Secția a VII-a pentru cauze privind conflicte de muncă și asigurări sociale în Dosarul nr. 20.893/3/2023 și, în consecință, stabilește că: În interpretarea dispozițiilor art. 268 alin. (1) lit. c) raportat la prevederile art. 146 alin. (2) și (3) din Legea nr. 53/2003 - Codul muncii, republicată, cu modificările și completările ulterioare, termenul de prescripție de 3 ani, prevăzut de dispozițiile art. 268 alin. (1) lit. c) din același act normativ, în ipoteza pretențiilor pecuniare derivate din zilele de concediu neefectuate până la încetarea raporturilor de muncă/de serviciu, izvorâte dintr-un drept actual, începe să curgă de la momentul încetării raportului de muncă.",
+  "Pentru intervalul care depășește termenul de report de 18 luni prevăzut de art. 146 alin. (2) și (3) din Legea nr. 53/2003 - Codul muncii, republicată, cu modificările și completările ulterioare, dreptul de a obține compensarea în bani a zilelor de concediu de odihnă subzistă atunci când angajatorul nu a oferit în mod efectiv angajatului posibilitatea de a exercita acest drept și, respectiv, nu există atunci când angajatul s-a abținut să își efectueze concediul anual plătit, deși i s-a oferit această posibilitate.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul muncii",
+    "path": "lege/2003/53",
+    "slug": "codul-muncii"
+   },
+   "articles": [
+    {
+     "art": "268",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "146",
+     "alin": [
+      "3",
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "171",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "149",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 33
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 62/2024",
+    "number": "62",
+    "year": "2024",
+    "path": "oug/2024/62"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "22",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "2523",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2524",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 303/2022",
+    "number": "303",
+    "year": "2022",
+    "path": "lege/2022/303"
+   },
+   "articles": [
+    {
+     "art": "209",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 12/2015",
+    "number": "12",
+    "year": "2015",
+    "path": "lege/2015/12"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2026-08-11",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/313354",
+  "text_sha256": "42c6745d7f72034245d8ca48eb052fff261959c8131697672320596936b31882",
+  "catalogue_sha256": "42c6745d7f72034245d8ca48eb052fff261959c8131697672320596936b31882",
+  "fetched": "2026-11-03T00:45:55Z",
+  "chars": 45761,
+  "portal_id": "313354",
+  "tip": "DECIZIE"
+ }
+}
