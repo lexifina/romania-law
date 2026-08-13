@@ -14,6 +14,7 @@ Initiator: Membri ai Parlamentului.
 - 2026-08-04: adopted by the Senate; documents published: Raport comisie sesizată pe fond, Forma adoptată de Senat, Adresă către Camera Deputaților
 - 2026-08-05: adopted by the Chamber of Deputies; documents published: Forma adoptată de Camera Deputaților, Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2026-08-07: sent for promulgation
+- 2026-08-13: promulgated, becomes Legea nr. 173/2026; published in the Monitorul Oficial; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -28,3 +29,5 @@ Initiator: Membri ai Parlamentului.
 - 2026-08-05: Forma adoptată de Camera Deputaților (FC): [fc-72a3687c.md](fc-72a3687c.md); official file https://www.senat.ro/legis/PDF/2026/26L463FC.PDF
 - 2026-08-05: Adresă privind sesizarea CCR (AXS): [axs-3d8818b0.md](axs-3d8818b0.md); official file https://www.senat.ro/legis/PDF/2026/26L463AXS.PDF
 - 2026-08-05: Forma trimisă la promulgare (LP): [lp-c990fcd6.md](lp-c990fcd6.md); official file https://www.senat.ro/legis/PDF/2026/26L463LP.PDF
+- 2026-08-13: Decret de promulgare (DP): [dp-364007bb.md](dp-364007bb.md); official file https://www.senat.ro/legis/PDF/2026/26L463DP.PDF
+- 2026-08-13: Forma promulgată (FP): [fp-5349ad53.md](fp-5349ad53.md); official file https://www.senat.ro/legis/PDF/2026/26L463FP.PDF
