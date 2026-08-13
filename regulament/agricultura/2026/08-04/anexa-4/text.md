@@ -1,0 +1,29 @@
+# Anexa 4
+Anexa nr. 4
+la regulament
+PROCES-VERBAL
+de constatare la momentul recunoașterii
+- model -
+Încheiat astăzi, .../.../...
+Subsemnatul, ............................, având funcția de .......................... în cadrul*) .........................., verificând îndeplinirea de către**) ........................................., cu sediul în ...................................., la membrul ................................ din .........................., telefon .................................., cod fiscal .........................., reprezentată prin ........................................, domiciliat în localitatea ...................................., str. ......................... nr. ......., bl. .................., ap. ............, județul .................................., posesor al BI/CI ..... seria ................. nr. ............., eliberat/eliberată de ................................................... la data de ....................................., a criteriilor de recunoaștere în conformitate cu prevederile Ordinului ministrului agriculturii și dezvoltării rurale, interimar, nr. 212/2026 pentru aprobarea Regulamentului privind recunoașterea grupurilor de producători ai căror membri produc un produs desemnat printr-o indicație geografică sau care produc anumite categorii de produse desemnate prin indicații geografice,
+am constatat următoarele:
+1.
+Obiectul de activitate al solicitantului, la punctul conform statutului și situațiilor privind activitatea, (nu) corespunde prevederilor din Ordinul ministrului agriculturii și dezvoltării rurale, interimar, nr. 212/2026 , respectiv produsul/produsele ...................... pentru care se face înregistrare face/fac obiectul activității comerciale de bază.
+2.
+Conformitatea actului constitutiv cu prevederile Ordinului ministrului agriculturii și dezvoltării rurale, interimar, nr. 212/2026 (Se completează numai în cazul persoanelor juridice.)
+3.
+Informații privind infrastructura solicitantului (membru): ...............................................
+4.
+Informații privind mărimea capacității de producție***)
+5.
+Alte observații: ..........................................
+Întocmit: Numele și prenumele ........................
+Funcția ...........................
+Semnătura .....................
+Reprezentant solicitant
+Luat la cunoștință: Numele și prenumele .......................
+Funcția ...........................
+Semnătura .....................
+*) Structura de specialitate din cadrul Ministerului Agriculturii și Dezvoltării Rurale.
+**) Denumirea solicitantului prevăzut la art. 2 lit. c) din anexa la Ordinul ministrului agriculturii și dezvoltării rurale, interimar, nr. 212/2026 .
+***) Aceste informații sunt necesare persoanei responsabile cu verificarea conformității dosarelor depuse pentru a se asigura că grupul de producători care urmează să obțină recunoașterea poate să realizeze, începând cu anul al doilea de la recunoaștere, o valoare minimă a producției comercializate (VPC) conform prevederilor art. 7 alin. (1) din anexa la Ordinul ministrului agriculturii și dezvoltării rurale, interimar, nr. 212/2026 , după caz.
