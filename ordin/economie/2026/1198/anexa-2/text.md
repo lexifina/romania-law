@@ -1,0 +1,19 @@
+# Anexa nr. 2 (Anexa nr. 3^1 la normele metodologice)
+CERERE STANDARDIZATĂ pentru obținerea certificatului de clasificare de către operatorii economici persoane fizice
+În temeiul prevederilor art. 4 alin. (1) din Hotărârea Guvernului nr. 1.267/2010 privind eliberarea certificatelor de clasificare, a licențelor și brevetelor de turism, cu modificările și completările ulterioare,
+Subsemnatul(a),............................................................, CNP |_|_|_|_|_|_|_|_|_|_|_|_|_|, act de identitate......., seria........ nr................., în calitate de proprietar, solicit acordul pentru începerea activității, introducerea în circuitul turistic și eliberarea certificatului/certificatelor de clasificare pentru:
+Denumirea unității:............................................................................................... - tipul de unitate:.............. (de exemplu, apartamente/camere de închiriat).............;
+- categoria de clasificare:.........(stele).......;
+- adresa unității/unităților: localitatea..................................., str........................... nr......, județul.....................;
+- datele de contact ale unității/unităților: telefon................, fax..................., e-mail..........................., web...................
+Conducerea operativă este asigurată de:............................................, telefon mobil............................
+Atașez prezentei cereri următoarele documente (Se bifează cu x.): 1. copia actului de identitate al proprietarului |_|;
+2. fișa standardizată privind încadrarea spațiilor structurii de cazare |_|;
+3. document din care să rezulte dreptul de proprietate asupra imobilului |_|;
+4. copia actului de identitate și acordul coproprietarilor, după caz |_|;
+5. avizul scris al comitetului executiv al asociației de locatari și acordul scris al proprietarilor direct afectați cu care se învecinează, pe plan orizontal și vertical, spațiul pentru care se solicită clasificare, după caz, din care să rezulte activitățile ce urmează a fi desfășurate în structura de primire turistică respectivă |_|;
+6. document din care să reiasă legalitatea construcției |_|.
+Declar pe propria răspundere că am luat cunoștință de prevederile Hotărârii Guvernului nr. 1.267/2010 privind eliberarea certificatelor de clasificare, a licențelor și brevetelor de turism, cu modificările și completările ulterioare, precum și de prevederile normelor metodologice de aplicare a acesteia și consider că sunt îndeplinite în totalitate condițiile și criteriile prevăzute în Normele metodologice privind eliberarea certificatelor de clasificare a structurilor de primire turistice cu funcțiuni de cazare și alimentație publică, a licențelor și brevetelor de turism, aprobate prin Ordinul președintelui Autorității Naționale pentru Turism nr. 65/2013, cu modificările și completările ulterioare, pentru structura/structurile de primire turistică/e nominalizată/e mai sus, condiții și criterii pe care mă oblig să le respect pe toată durata funcționării pentru tipul și categoria de clasificare menționate în prezenta cerere și pentru structura înscrisă în formularele-tip ale fișei/fișelor privind încadrarea spațiilor de cazare/alimentație publică anexate acesteia. În cazul în care se constată contrariul celor declarate, voi suporta consecințele și înțeleg să îmi fie aplicate reglementările legale în vigoare.
+De asemenea, prin prezenta îmi exprim acordul cu privire la utilizarea și prelucrarea datelor cu caracter personal, conform Regulamentului (UE) 2016/679 al Parlamentului European și al Consiliului din 27 aprilie 2016 privind protecția persoanelor fizice în ceea ce privește prelucrarea datelor cu caracter personal și privind libera circulație a acestor date de către instituția publică centrală responsabilă în domeniul turismului.
+Data:.......................................
+Semnătura..........................
