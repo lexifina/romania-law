@@ -15,6 +15,7 @@ Initiator: Membri ai Parlamentului.
 - 2026-08-05: adopted by the Chamber of Deputies; documents published: Forma adoptată de Camera Deputaților, Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2026-08-07: sent for promulgation
 - 2026-08-13: promulgated, becomes Legea nr. 173/2026; published in the Monitorul Oficial; documents published: Decret de promulgare, Forma promulgată
+- 2026-08-18: documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -31,3 +32,7 @@ Initiator: Membri ai Parlamentului.
 - 2026-08-05: Forma trimisă la promulgare (LP): [lp-c990fcd6.md](lp-c990fcd6.md); official file https://www.senat.ro/legis/PDF/2026/26L463LP.PDF
 - 2026-08-13: Decret de promulgare (DP): [dp-364007bb.md](dp-364007bb.md); official file https://www.senat.ro/legis/PDF/2026/26L463DP.PDF
 - 2026-08-13: Forma promulgată (FP): [fp-5349ad53.md](fp-5349ad53.md); official file https://www.senat.ro/legis/PDF/2026/26L463FP.PDF
+- 2026-08-18: Document (CF): [cf-7f04fb6b.md](cf-7f04fb6b.md); official file https://www.senat.ro/legis/PDF/2026/26L463CF.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-08-18: Document (CT): [ct-125ac447.md](ct-125ac447.md); official file https://www.senat.ro/legis/PDF/2026/26L463CT.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-08-18: Document (CO): [co-bc3d6df8.md](co-bc3d6df8.md); official file https://www.senat.ro/legis/PDF/2026/26L463CO.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-08-18: Document (CC): [cc-6ef31c08.md](cc-6ef31c08.md); official file https://www.senat.ro/legis/PDF/2026/26L463CC.PDF (its day is not given by the bill file: shown from the last stage held)
