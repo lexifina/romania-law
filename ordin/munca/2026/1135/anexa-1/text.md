@@ -1,0 +1,3 @@
+# ANEXĂ
+PROCEDURĂ de evaluare medicală și de raportare a rezultatelor evaluării de către Institutul Național de Expertiză Medicală și Recuperare a Capacității de Muncă la solicitarea Autorității
+Naționale pentru Protecția Drepturilor Persoanelor cu Dizabilități, precum și cu privire la modalitatea de decontare a cheltuielilor
