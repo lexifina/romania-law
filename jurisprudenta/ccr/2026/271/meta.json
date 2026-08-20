@@ -1,0 +1,353 @@
+{
+ "key": "dcc-271-2026",
+ "label": "Decizia CCR nr. 271/2026",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "271",
+ "date": "2026-03-26",
+ "year": "2026",
+ "heading": "DECIZIA nr. 271 din 26 martie 2026",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 21 alin. (6), ale art. 31 alin. (3^1) și ale art. 33 alin. (4) din Legea nr. 165/2013 privind măsurile pentru finalizarea procesului de restituire, în natură sau prin echivalent, a imobilelor preluate în mod abuziv în perioada regimului comunist în România, astfel cum au fost modificate, respectiv introduse prin art. I pct. 2 și 3 din Legea nr. 219/2020 pentru modificarea și completarea Legii nr. 165/2013 privind măsurile pentru finalizarea procesului de restituire, în natură sau prin echivalent, a imobilelor preluate în mod abuziv în perioada regimului comunist în România",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "689",
+  "bis": false,
+  "date": "2026-08-20",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "devenita-inadmisibila"
+ ],
+ "dossiers": [
+  "37.150/3/2018",
+  "2.516D/2020",
+  "40.869/3/2018",
+  "195/119/2020",
+  "2.402/101/2019",
+  "2.405/114/2019",
+  "1.415/114/2019",
+  "2.974/111/2020",
+  "4.733/118/2020",
+  "1.770/122/2019"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 165/2013",
+    "number": "165",
+    "year": "2013",
+    "path": "lege/2013/165"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "31",
+     "alin": [
+      "3-1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "33",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 219/2020",
+    "number": "219",
+    "year": "2020",
+    "path": "lege/2020/219"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "1. Respinge, ca devenită inadmisibilă, excepția de neconstituționalitate a dispozițiilor art. 21 alin. (6) din Legea nr. 165/2013 privind măsurile pentru finalizarea procesului de restituire, în natură sau prin echivalent, a imobilelor preluate în mod abuziv în perioada regimului comunist în România, astfel cum au fost modificate prin art. I pct. 1 din Legea nr. 219/2020 pentru modificarea și completarea Legii nr. 165/2013 privind măsurile pentru finalizarea procesului de restituire, în natură sau prin echivalent, a imobilelor preluate în mod abuziv în perioada regimului comunist în România, excepție ridicată de Tribunalul București - Secția a III-a civilă, din oficiu, în dosarele nr. 37.150/3/2018 și nr. 40.869/3/2018, de Comisia Națională pentru Compensarea Imobilelor în dosarele nr. 36.368/3/2018, nr. 29.058/3/2018, nr. 20.564/3/2018, nr. 40.266/3/2018, nr. 25.698/3/2018 și nr. 26.804/3/2018 ale Curții de Apel București - Secția a IV-a civilă, în Dosarul nr. 195/119/2020 al Curții de Apel Brașov - Secția civilă, în dosarele nr. 35.875/3/2018, nr. 12.202/3/2018, nr. 11.932/3/2018, nr. 6.818/3/2019, nr. 38.790/3/2018, nr. 19.872/3/2018, nr. 26.974/3/2018, nr. 5.882/3/2019, nr. 18.357/3/2018 și nr. 15.127/3/2018 ale Curții de Apel București - Secția a III-a civilă și pentru cauze cu minori și familie, în Dosarul nr. 2.402/101/2019 al Curții de Apel Craiova - Secția I civilă, în dosarele nr. 2.023/90/2019 și nr. 136/90/2020 ale Tribunalului Vâlcea - Secția I civilă, în dosarele nr. 22.788/3/2020, nr. 9.607/3/2020 și nr. 7.582/3/2020 ale Tribunalului București - Secția a III-a civilă, în dosarele nr. 20.820/3/2020 și nr. 24.671/3/2020 ale Tribunalului București - Secția a IV-a civilă, în Dosarul nr. 2.405/114/2019 al Tribunalului Buzău - Secția I civilă, în Dosarul nr. 1.415/114/2019 al Curții de Apel Ploiești - Secția I civilă, în Dosarul nr. 2.974/111/2020 al Tribunalului Bihor - Secția I civilă, în Dosarul nr. 4.733/118/2020 al Tribunalului Constanța - Secția I civilă, în dosarele nr. 1.061/117/2020, nr. 114/117/2020 și nr. 1.566/117/2020 ale Curții de Apel Cluj - Secția I civilă, în Dosarul nr. 1.770/122/2019 al Tribunalului Giurgiu - Secția civilă, de Curtea de Apel București - Secția a IV-a civilă, din oficiu, în dosarele nr. 13.495/3/2018, nr. 39.500/3/2018, nr. 25.199/3/2018, nr. 41.312/3/2018, nr. 25.157/3/2018**, nr. 38.027/3/2018, nr. 22.010/3/2018, nr. 40.417/3/2018, nr. 44.414/3/2018, nr. 25.013/3/2018, nr. 41.592/3/2018 și nr. 3.723/3/2019 și de Kemenes Lidia Dora, Kemenes Gyorgy și Tartzal Krisztina Gyopar în Dosarul nr. 42.108/3/2018 al Tribunalului București - Secția a III-a civilă.",
+  "2. Respinge, ca inadmisibilă, excepția de neconstituționalitate a dispozițiilor art. 31 alin. (3^1) și ale art. 33 alin. (4) din Legea nr. 165/2013 privind măsurile pentru finalizarea procesului de restituire, în natură sau prin echivalent, a imobilelor preluate în mod abuziv în perioada regimului comunist în România, astfel cum au fost introduse, respectiv modificate prin art. I pct. 2 și 3 din Legea nr. 219/2020 pentru modificarea și completarea Legii nr. 165/2013 privind măsurile pentru finalizarea procesului de restituire, în natură sau prin echivalent, a imobilelor preluate în mod abuziv în perioada regimului comunist în România, excepție ridicată de Comisia Națională pentru Compensarea Imobilelor în dosarele nr. 35.875/3/2018, nr. 11.932/3/2018 și nr. 6.818/3/2019 ale Curții de Apel București - Secția a III-a civilă și pentru cauze cu minori și familie, nr. 29.058/3/2018 și nr. 20.564/3/2018 ale Curții de Apel București - Secția a IV-a civilă, nr. 2.402/101/2019 al Curții de Apel Craiova - Secția I civilă, nr. 2.405/114/2019 al Tribunalului Buzău - Secția I civilă, nr. 2.974/111/2020 al Tribunalului Bihor - Secția I civilă, nr. 24.671/3/2020 al Tribunalului București - Secția a IV-a civilă, nr. 4.733/118/2020 al Tribunalului Constanța - Secția I civilă, nr. 1.061/117/2020, nr. 114/117/2020 și nr. 1.566/117/2020 ale Curții de Apel Cluj - Secția I civilă și nr. 1.770/122/2019 al Tribunalului Giurgiu - Secția civilă.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Curții de Apel Brașov - Secția civilă, Curții de Apel București - Secția a III-a civilă și pentru cauze cu minori și familie, Curții de Apel București - Secția a IV-a civilă, Curții de Apel Cluj - Secția I civilă, Curții de Apel Craiova - Secția I civilă, Tribunalului Bihor - Secția I civilă, Tribunalului București - Secția a III-a civilă, Tribunalului București - Secția a IV-a civilă, Tribunalului Buzău - Secția I civilă, Curții de Apel Ploiești - Secția I civilă, Tribunalului Constanța - Secția I civilă, Tribunalului Giurgiu - Secția civilă și Tribunalului Vâlcea - Secția I civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 219/2020",
+    "number": "219",
+    "year": "2020",
+    "path": "lege/2020/219"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 37
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 165/2013",
+    "number": "165",
+    "year": "2013",
+    "path": "lege/2013/165"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "31",
+     "alin": [
+      "3-1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "33",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 28
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "3",
+      "1",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii privind adoptarea Ordonanței de urgență a Guvernului nr. 72/2020",
+    "number": "72",
+    "year": "2020",
+    "path": "lege/2020/72"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "147",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 205/2006",
+    "number": "205",
+    "year": "2006",
+    "path": "lege/2006/205"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "62",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 193/2021",
+    "number": "193",
+    "year": "2021",
+    "path": "lege/2021/193"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2026-08-20",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/313515",
+  "text_sha256": "2d23b80570e716b76471e92524060fbeaeed97e70e5e923eb94e19e38c72058b",
+  "catalogue_sha256": "2d23b80570e716b76471e92524060fbeaeed97e70e5e923eb94e19e38c72058b",
+  "fetched": "2026-11-03T00:45:45Z",
+  "chars": 44418,
+  "portal_id": "313515",
+  "tip": "DECIZIE"
+ }
+}
