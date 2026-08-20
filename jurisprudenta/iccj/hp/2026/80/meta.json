@@ -1,0 +1,145 @@
+{
+ "key": "iccj-hp-80-2026",
+ "label": "Decizia ÎCCJ nr. 80/2026 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "80",
+ "date": "2026-06-22",
+ "year": "2026",
+ "heading": "DECIZIA nr. 80 din 22 iunie 2026",
+ "subtitle": "referitoare la natura sporului de penitenciar de 20%, prevăzut de art. 13 din capitolul VIII, secțiunea a 2-a din anexa nr. V la Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, cu modificările și completările ulterioare, și de art. 1 alin. (1) și (2) din Ordinul ministrului justiției nr. 2.830/C/2017",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "690",
+  "bis": false,
+  "date": "2026-08-20",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "720/1/2026",
+  "1.490/107/2025"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Tribunalul Alba - Secția I civilă în Dosarul nr. 1.490/107/2025, în vederea pronunțării unei hotărâri prealabile cu privire la următoarea chestiune de drept:",
+  "Dacă sporul de penitenciar de 20%, prevăzut de art. 13 din capitolul VIII, secțiunea a 2-a din anexa nr. V la Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, cu modificările și completările ulterioare, și de art. 1 alin. (1) și (2) din Ordinul ministrului justiției nr. 2.830/C/2017, are natura unui spor permanent ce trebuie luat în considerare la calculul indemnizației concediului de odihnă, cuvenită pentru perioada aferentă duratei delegării, în condițiile art. 6 din Regulamentul privind concediile judecătorilor și procurorilor, aprobat prin Hotărârea Consiliului Superior al Magistraturii nr. 325/2005.",
+  "Obligatorie, potrivit art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 62/2024",
+    "number": "62",
+    "year": "2024",
+    "path": "oug/2024/62"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituția României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "126",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2026-08-20",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/313566",
+  "text_sha256": "dfbec5c01a1c0818a0bc5c39522812fa1d0becaee6ceced44b84ce2633602c0a",
+  "catalogue_sha256": "dfbec5c01a1c0818a0bc5c39522812fa1d0becaee6ceced44b84ce2633602c0a",
+  "fetched": "2026-11-03T00:45:45Z",
+  "chars": 25307,
+  "portal_id": "313566",
+  "tip": "DECIZIE"
+ }
+}
