@@ -1,0 +1,403 @@
+{
+ "key": "dcc-35-2026",
+ "label": "Decizia CCR nr. 35/2026",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "35",
+ "date": "2026-01-20",
+ "year": "2026",
+ "heading": "DECIZIA nr. 35 din 20 ianuarie 2026",
+ "subtitle": "referitoare la excepția de neconstituționalitate a Ordonanței de urgență a Guvernului nr. 59/2017 privind modificarea și completarea unor acte normative din domeniul pensiilor de serviciu, în ansamblul său, a dispozițiilor art. VII din această ordonanță de urgență, ale art. 84 din Ordonanța de urgență a Guvernului nr. 114/2018 privind instituirea unor măsuri în domeniul investițiilor publice și a unor măsuri fiscal-bugetare, modificarea și completarea unor acte normative și prorogarea unor termene, precum și excepția de neconstituționalitate a \"prevederilor dispozitivului Deciziei nr. 16 din 13 septembrie 2021, pronunțată de Înalta Curte de Casație și Justiție - Completul pentru soluționarea recursului în interesul legii, cu privire la interpretarea și aplicarea dispozițiilor art. 11 alin. 3 din Legea nr. 80/1995 privind statutul cadrelor militare, în raport cu prevederile art. 60 din Legea nr. 223/2015, cu sintagma fără însă ca prin aplicarea acestui spor pensia netă să poată fi mai mare decât media soldelor/salariilor lunare nete corespunzătoare soldelor/salariilor lunare brute cuprinse în baza de calcul al pensiei\"",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "692",
+  "bis": false,
+  "date": "2026-08-21",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata",
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.028/119/2021",
+  "995D/2022",
+  "2.571/99/2020",
+  "755/32/2022",
+  "1.076/63/2023",
+  "173/104/2023",
+  "52/43/2023",
+  "212/103/2023"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 59/2017",
+    "number": "59",
+    "year": "2017",
+    "path": "oug/2017/59"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 114/2018",
+    "number": "114",
+    "year": "2018",
+    "path": "oug/2018/114"
+   },
+   "articles": [
+    {
+     "art": "VII",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "84",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 80/1995",
+    "number": "80",
+    "year": "1995",
+    "path": "lege/1995/80"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 223/2015",
+    "number": "223",
+    "year": "2015",
+    "path": "lege/2015/223"
+   },
+   "articles": [
+    {
+     "art": "60",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "1. Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Veres Geza, de Valentin-Vasile Banciu, Cristian Aionesei, Vasile Chirvase, Eugen Deaconu și Remo Călianu în dosarele nr. 1.028/119/2021, nr. 1.200/119/2021, nr. 1.349/119/2021, nr. 210/119/2023, nr. 193/119/2023 și nr. 211/119/2023 ale Tribunalului Covasna - Secția civilă, de Cristinel Rotaru, de Gheorghe Mazdrag, de Sidorel Ungureanu și de Maria Todirașcu în dosarele nr. 1.113/99/2021, nr. 2.043/99/2020, nr. 4.691/99/2020 și nr. 4.741/99/2022 ale Tribunalului Iași - Secția I civilă, de Vasile Ionuț Zaharia în Dosarul nr. 2.571/99/2020* al Curții de Apel Iași - Secția litigii de muncă și asigurări sociale, de Cătălin Alin Uscatu și de Vasile Leonte în dosarele nr. 1.979/110/2020 și nr. 421/103/2023 ale Curții de Apel Bacău - Secția I civilă și de Vasile Docan în Dosarul nr. 755/32/2022 al Curții de Apel Bacău - Secția a II-a civilă, de contencios administrativ și fiscal, de Costel Știrbu în Dosarul nr. 1.076/63/2023 al Tribunalului Dolj - Secția conflicte de muncă și asigurări sociale, de Marian Patrichi în Dosarul nr. 173/104/2023 al Tribunalului Olt - Secția I civilă - Complet specializat conflicte de muncă și asigurări sociale, de Sorin Ovidiu Nour și Petru Sabo în dosarele nr. 760/108/2023 și nr. 671/108/2023 ale Tribunalului Arad - Secția a III-a contencios administrativ și fiscal, litigii de muncă și asigurări sociale, de Dumitru Drugă, Vasilica Gogan și Ion Răducan în dosarele nr. 286/54/2023, nr. 271/54/2023 și nr. 303/54/2023 ale Curții de Apel Craiova - Secția contencios administrativ și fiscal, de Sindicatul Național Pro Lex în numele membrilor George Bratu, Eugen Caraivan și Săndel Goliță, de Mihai Badea și alții, de Ovidiu Dumitrescu, de Mihai Sorin Brînduș, de Marcel-Liviu Tănăsie, de Mariana Vanina Miclea, de Bogdan-Augustin Dumitrescu, de Mirela-Daniela Neguț, de Dacia Netcu, de Florin Codău, de Elena Lefter, de Teodor Augustin Grîu, de Stelian Raicu, de Maria Neagu, de Mihai Anichitoae și Adrian-Dan Scurtu, de Gabriel Bularda, de Angela Bărbulescu în dosarele nr. 5.863/3/2023, nr. 5.438/3/2023, nr. 5.432/3/2023, nr. 5.624/3/2023, nr. 5.211/3/2023*, nr. 6.018/3/2023*, nr. 4.813/300/2023, nr. 12.210/3/2023, nr. 7.980/3/2023*, nr. 5.523/3/2023*, nr. 6.078/3/2023*, nr. 7.843/299/2023, nr. 212/59/2023, nr. 5.628/3/2023, nr. 4.901/3/2023*, nr. 7.104/3/2023*, nr. 6.076/3/2023*, nr. 34.154/3/2023 și nr. 19.983/3/2023* ale Tribunalului București - Secția a VIII-a conflicte de muncă și asigurări sociale, de Marian Dobrică, de Emil Dinel, de Mircea Pulpea, de Cornel Sava, de Gherasim Decu, de Radu Tudorache, de Ecaterina Gavrilescu, de Georgică Nemțeanu, de Rooby-Răzvan Ceaușu și Viorel Cotea, de Marius Emilian Vințeanu, de Petrișor Augustin Bratu, de Răduș Patentașu, de Paul Chiriac, de Adrian Bîrca, de Florin Sandu, de Elena Lefter, de Iuliana Barbu și de Liviu Buzică în dosarele nr. 633/2/2023, nr. 872/122/2023, nr. 5.886/3/2023, nr. 335/122/2023, nr. 410/122/2023, nr. 4.233/2/2023, nr. 11.114/3/2023, nr. 5.729/3/2023*, nr. 5.896/3/2023, nr. 5.730/3/2023**, nr. 257/122/2023, nr. 343/122/2023, nr. 6.509/3/2023*, nr. 17.558/3/2023**, nr. 510/122/2023, nr. 7.833/2/2024, nr. 443/93/2023* și nr. 281/122/2023* ale Curții de Apel București - Secția a IX-a contencios administrativ și fiscal, de Ioan Vînaga și de Traian Magdalina în dosarele nr. 276/96/2023 și nr. 250/96/2023 ale Tribunalului Harghita - Secția civilă, de Emilian Oltean în Dosarul nr. 52/43/2023 al Curții de Apel Târgu Mureș - Secția a II-a civilă, de contencios administrativ și fiscal, de Tatiana Lăcătușu în Dosarul nr. 212/103/2023 al Tribunalului Neamț – Secția I civilă și de contencios administrativ și fiscal, de Radu Marin, de Ionel Drăgănescu, de Gheorghe Burghelia, de Mărioara Militaru, de Marcel Mihai Stancu, de Ilie Ghiulea, de Marian Stoica, de Dinu Dumitru, de Mirel Niculae, de Dan Seracu, de Constantin Croitoru, de Viorel Văduva, de Maria Magdalena Seracu, de Ștefan Iancu, de Costel Ghidănac, de Valeriu Radu, de Niculae Ghiță, de Corneliu Ștefan Ionescu, de Gheorghe Gurban, de Mariea Breazu, de Gheorghe Petcu și de Lazăr Chiriac în dosarele nr. 4.235/2/2023, nr. 256/122/2023*, nr. 5.785/3/2023*, nr. 278/122/2023*, nr. 2/2/2024, nr. 661/122/2023, nr. 261/116/2023, nr. 262/122/2023, nr. 267/122/2023, nr. 1.504/2/2023*, nr. 4.734/3/2023, nr. 1.161/2/2023, nr. 1.506/2/2023, nr. 1.088/2/2023, nr. 309/122/2023*, nr. 3.105/2/2024*, nr. 269/122/2023*, nr. 274/122/2023*, nr. 397/122/2023, nr. 250/122/2023*, nr. 451/122/2023* și nr. 5.482/3/2023 ale Curții de Apel București - Secția a VIII-a contencios administrativ și fiscal și constată că Ordonanța de urgență a Guvernului nr. 59/2017 privind modificarea și completarea unor acte normative din domeniul pensiilor de serviciu, în ansamblul său, dispozițiile art. VII din această ordonanță de urgență, precum și dispozițiile art. 84 din Ordonanța de urgență a Guvernului nr. 114/2018 privind instituirea unor măsuri în domeniul investițiilor publice și a unor măsuri fiscal-bugetare, modificarea și completarea unor acte normative și prorogarea unor termene sunt constituționale în raport cu criticile formulate.",
+  "2. Respinge, ca inadmisibilă, excepția de neconstituționalitate a „prevederilor dispozitivului Deciziei nr. 16 din 13 septembrie 2021, pronunțată de Înalta Curte de Casație și Justiție - Completul pentru soluționarea recursului în interesul legii, cu privire la interpretarea și aplicarea dispozițiilor art. 11 alin. 3 din Legea nr. 80/1995 privind statutul cadrelor militare, în raport cu prevederile art. 60 din Legea nr. 223/2015, cu sintagma fără însă ca prin aplicarea acestui spor pensia netă să poată fi mai mare decât media soldelor/salariilor lunare nete corespunzătoare soldelor/salariilor lunare brute cuprinse în baza de calcul al pensiei“, excepție ridicată de Cătălin Alin Uscatu în Dosarul nr. 1.979/110/2020 al Curții de Apel Bacău - Secția I civilă.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului Covasna - Secția civilă, Tribunalului Olt - Secția I civilă - Completul specializat conflicte de muncă și asigurări sociale, Tribunalului Arad – Secția a III-a contencios administrativ și fiscal, litigii de muncă și asigurări sociale, Curții de Apel București - Secția a VIII-a contencios administrativ și fiscal și Curții de Apel București - Secția a IX-a contencios administrativ și fiscal, Tribunalului Neamț - Secția I civilă și de contencios administrativ și fiscal, Tribunalului Iași - Secția I civilă, Curții de Apel Iași - Secția litigii de muncă și asigurări sociale, Curții de Apel Bacău - Secția I civilă, Curții de Apel Bacău - Secția a II-a civilă, de contencios administrativ și fiscal, Curții de Apel Craiova - Secția contencios administrativ și fiscal, Tribunalului București - Secția a VIII-a conflicte de muncă și asigurări sociale, Tribunalului Harghita - Secția civilă, Curții de Apel Târgu Mureș - Secția a II-a civilă, de contencios administrativ și fiscal și Tribunalului Dolj - Secția conflicte de muncă și asigurări sociale și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 59/2017",
+    "number": "59",
+    "year": "2017",
+    "path": "oug/2017/59"
+   },
+   "articles": [
+    {
+     "art": "VII",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 38
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 73/1993",
+    "number": "73",
+    "year": "1993",
+    "path": "lege/1993/73"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 114/2018",
+    "number": "114",
+    "year": "2018",
+    "path": "oug/2018/114"
+   },
+   "articles": [
+    {
+     "art": "VII",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "84",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "60",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 80/1995",
+    "number": "80",
+    "year": "1995",
+    "path": "lege/1995/80"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 223/2015",
+    "number": "223",
+    "year": "2015",
+    "path": "lege/2015/223"
+   },
+   "articles": [
+    {
+     "art": "60",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "108",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "28",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "30",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "79",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "115",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "47",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2026-08-21",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/313575",
+  "text_sha256": "0ec03855734ed38e056f42a62ae1a486079c9bc827a593a77e3ae18272e5a8c9",
+  "catalogue_sha256": "0ec03855734ed38e056f42a62ae1a486079c9bc827a593a77e3ae18272e5a8c9",
+  "fetched": "2026-11-03T00:45:40Z",
+  "chars": 57012,
+  "portal_id": "313575",
+  "tip": "DECIZIE"
+ }
+}
