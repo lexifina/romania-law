@@ -1,0 +1,45 @@
+# DECIZIA nr. 102 din 5 februarie 2026
+referitoare la excepția de neconstituționalitate a dispozițiilor art. 102 alin. (3) lit. e) din Ordonanța de urgență a Guvernului nr. 195/2002 privind circulația pe drumurile publice
+Elena-Simina Tănăsescu - președinte
+Asztalos Csaba-Ferenc - judecător
+Mihai Busuioc - judecător
+Mihaela Ciochină - judecător
+Cristian Deliorga - judecător
+Dacian-Cosmin Dragoș - judecător
+Dimitrie-Bogdan Licu - judecător
+Laura-Iuliana Scântei - judecător
+Gheorghe Stan - judecător
+Claudia-Ilona Dascălu - magistrat-asistent
+Cu participarea reprezentantului Ministerului Public, procuror Ioan Laurențiu Sorescu.
+1. Pe rol se află soluționarea excepției de neconstituționalitate a dispozițiilor art. 102 alin. (3) lit. e) din Ordonanța de urgență a Guvernului nr. 195/2002 privind circulația pe drumurile publice, excepție ridicată de Ciprian Câmpian în Dosarul nr. 5.085/320/2021/a1 al Judecătoriei Târgu Mureș - Secția civilă și care formează obiectul Dosarului Curții Constituționale nr. 2.581D/2021.
+2. La apelul nominal se constată lipsa părților. Procedura de înștiințare este legal îndeplinită.
+3. Cauza fiind în stare de judecată, președintele Curții acordă cuvântul reprezentantului Ministerului Public, care pune concluzii de respingere, ca inadmisibilă, a excepției de neconstituționalitate, întrucât consideră că autorul acesteia susține critici ce țin de aplicarea și interpretarea legii de către instanța judecătorească. Consideră că nu există, în concret, un vid legislativ, în condițiile în care legea face referire la mijloace tehnice omologate și verificate metrologic, iar lipsa unor norme legale inferioare legii care să reglementeze în materia conexă legii nu atrage neconstituționalitatea acesteia.
+CURTEA, având în vedere actele și lucrările dosarului, constată următoarele:
+4. Prin Încheierea din 23 iulie 2021, pronunțată în Dosarul nr. 5.085/320/2021/a1, Judecătoria Târgu Mureș - Secția civilă a sesizat Curtea Constituțională cu excepția de neconstituționalitate a dispozițiilor art. 102 alin. (3) lit. e) din Ordonanța de urgență a Guvernului nr. 195/2002 privind circulația pe drumurile publice. Excepția de neconstituționalitate a fost ridicată de Ciprian Câmpian într-o cauză având ca obiect soluționarea unei plângeri contravenționale formulate împotriva unui proces-verbal de constatare și sancționare a contravenției la regimul circulației rutiere.
+5. În motivarea excepției de neconstituționalitate se susține, în esență, că dispozițiile de lege criticate sunt neconstituționale, întrucât nu există niciun text de lege care să reglementeze specializarea agenților constatatori de a opera cu aparatele tehnice omologate și verificate metrologic.
+6. Astfel, se susține că Ordinul nr. 301 din 23 noiembrie 2005 privind aprobarea Normei de metrologie legală NML 021-05 „Aparate pentru măsurarea vitezei de circulație a autovehiculelor (cinemometre)“, emis de directorul general al Biroului Român de Metrologie Legală, a fost abrogat prin Ordinul nr. 187 din 14 iulie 2009, emis de directorul general al Biroului Român de Metrologie Legală, ceea ce a creat un vid legislativ asupra specializării și calității prin pregătire și examinare a polițistului constatator care operează cu mijloace tehnice certificate și verificate. Această împrejurare, în opinia autorului excepției, creează prezumția rezonabilă că judecătorului îi este imposibil să verifice calificarea agentului constatator și specializarea sa în acest domeniu de a lucra cu aparate calibrate ce necesită condiții speciale de amplasare în strictă legătură cu măsurătorile de viteză.
+7. Se consideră, de asemenea, că se impune reglementarea unor norme care să califice ori să controleze activitatea agenților constatatori care operează cu mijloace tehnice omologate pentru a fi în concordanță cu Legea fundamentală.
+8. Judecătoria Târgu Mureș - Secția civilă consideră că excepția de neconstituționalitate este neîntemeiată, în acest sens invocând jurisprudența Curții Constituționale, respectiv Decizia nr. 125 din 28 februarie 2019 și Decizia nr. 280 din 23 aprilie 2019.
+9. Potrivit prevederilor art. 30 alin. (1) din Legea nr. 47/1992, încheierea de sesizare a fost comunicată președinților celor două Camere ale Parlamentului, Guvernului și Avocatului Poporului, pentru a-și exprima punctele de vedere asupra excepției de neconstituționalitate.
+10. Președinții celor două Camere ale Parlamentului, Guvernul și Avocatul Poporului nu au transmis punctele de vedere solicitate.
+CURTEA, examinând încheierea de sesizare, raportul întocmit de judecătorul-raportor, concluziile procurorului, dispozițiile legale criticate, raportate la prevederile Constituției, precum și Legea nr. 47/1992, reține următoarele:
+11. Curtea Constituțională a fost legal sesizată și este competentă, potrivit dispozițiilor art. 146 lit. d) din Constituție, precum și ale art. 1 alin. (2), ale art. 2, 3, 10 și 29 din Legea nr. 47/1992, să soluționeze excepția de neconstituționalitate.
+12. Obiectul excepției de neconstituționalitate îl constituie dispozițiile art. 102 alin. (3) lit. e) din Ordonanța de urgență a Guvernului nr. 195/2002 privind circulația pe drumurile publice, republicată în Monitorul Oficial al României, Partea I, nr. 670 din 3 august 2006, cu modificările și completările ulterioare.
+13. Textul de lege criticat are următorul cuprins: „(3) Constituie contravenție și se sancționează cu amenda prevăzută în clasa a IV-a de sancțiuni și cu aplicarea sancțiunii complementare a suspendării exercitării dreptului de a conduce pentru o perioadă de 90 de zile săvârșirea de către conducătorul de autovehicul, tractor agricol sau forestier ori tramvai a următoarelor fapte: (...) e) depășirea cu mai mult de 50 km/h a vitezei maxime admise pe sectorul de drum respectiv și pentru categoria din care face parte autovehiculul condus, constatată, potrivit legii, cu mijloace tehnice omologate și verificate metrologic.“
+14. În opinia autorului excepției de neconstituționalitate, textul legal criticat contravine dispozițiilor din Constituție cuprinse în: art. 1 alin. (5) privind obligația respectării Constituției, a supremației sale și a legilor, art. 16 privind egalitatea în drepturi, art. 20 referitor la tratatele internaționale privind drepturile omului și art. 124 alin. (3) potrivit cărora judecătorii sunt independenți și se supun numai legii.
+15. Examinând excepția de neconstituționalitate Curtea constată că autorul acesteia invocă, în realitate, o pretinsă lipsă de reglementare, fiind nemulțumit de faptul că nu există niciun text de lege care să reglementeze specializarea agenților constatatori de a opera cu aparatele tehnice omologate și verificate metrologic, astfel încât, din perspectiva criticii prezentate, acesta are în vedere, în realitate, o omisiune legislativă.
+16. În această situație, Curtea reține că aceste susțineri nu reprezintă veritabile critici de neconstituționalitate, ci mai degrabă vizează o eventuală omisiune de reglementare sau caracterul incomplet al unui text de lege, nemotivate, în concret, de autorul excepției. Or, instanța constituțională nu se poate substitui autorului excepției în ceea ce privește formularea unor motive de neconstituționalitate, ținând cont că, potrivit art. 10 alin. (2) coroborat cu art. 29 alin. (1) din Legea nr. 47/1992, sesizările adresate Curții Constituționale trebuie motivate.
+17. Distinct de cele de mai sus, având în vedere că se dorește modificarea și completarea textului legal criticat în sensul reglementării condițiilor referitoare la specializarea agenților constatatori în procedura de operare cu aparatele tehnice omologate și verificate metrologic, Curtea reține că soluționarea acestui aspect nu intră în competența sa, întrucât implică un act de legiferare, care ține de competența Parlamentului. Așadar, având în vedere art. 61 din Constituție și art. 2 alin. (3) din Legea nr. 47/1992, Curtea nu poate modifica sau completa un text de lege.
+18. Prin urmare, excepția de neconstituționalitate a dispozițiilor art. 102 alin. (3) lit. e) din Ordonanța de urgență a Guvernului nr. 195/2002 urmează să fie respinsă ca inadmisibilă.
+19. Pentru considerentele expuse mai sus, în temeiul art. 146 lit. d) și al art. 147 alin. (4) din Constituție, precum și al art. 1 - 3, al art. 11 alin. (1) lit. A. d) și al art. 29 din Legea nr. 47/1992, cu unanimitate de voturi,
+CURTEA CONSTITUȚIONALĂ
+În numele legii
+DECIDE:
+Respinge, ca inadmisibilă, excepția de neconstituționalitate a dispozițiilor art. 102 alin. (3) lit. e) din Ordonanța de urgență a Guvernului nr. 195/2002 privind circulația pe drumurile publice, excepție ridicată de Ciprian Câmpian în Dosarul nr. 5.085/320/2021/a1 al Judecătoriei Târgu Mureș - Secția civilă.
+Definitivă și general obligatorie.
+Decizia se comunică Judecătoriei Târgu Mureș - Secția civilă și se publică în Monitorul Oficial al României, Partea I.
+Pronunțată în ședința din data de 5 februarie 2026.
+PREȘEDINTELE CURȚII CONSTITUȚIONALE
+ELENA-SIMINA TĂNĂSESCU
+Magistrat-asistent,
+Claudia-Ilona Dascălu
