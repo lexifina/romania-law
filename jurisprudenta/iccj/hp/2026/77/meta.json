@@ -1,0 +1,237 @@
+{
+ "key": "iccj-hp-77-2026",
+ "label": "Decizia ÎCCJ nr. 77/2026 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "77",
+ "date": "2026-06-22",
+ "year": "2026",
+ "heading": "DECIZIA nr. 77 din 22 iunie 2026",
+ "subtitle": "referitoare la interpretarea și aplicarea dispozițiilor articolului unic lit. A pct. 1 al anexei nr. 2 la Regulamentul-cadru privind stabilirea locurilor de muncă, a categoriilor de personal, a mărimii concrete a sporului pentru condiții de muncă prevăzut în anexa nr. II la Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, precum și a condițiilor de acordare a acestuia, pentru familia ocupațională de funcții bugetare \"Sănătate și asistență socială\", aprobat prin Hotărârea Guvernului nr. 153/2018, cu modificările și completările ulterioare",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "695",
+  "bis": false,
+  "date": "2026-08-21",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "641/1/2026",
+  "1.638/98/2024"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul nr. 4.128/2023",
+    "number": "4128",
+    "year": "2023"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 136/2020",
+    "number": "136",
+    "year": "2020",
+    "path": "lege/2020/136"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Curtea de Apel București - Secția a VII-a pentru cauze privind conflicte de muncă și asigurări sociale în Dosarul nr. 1.638/98/2024, în vederea pronunțării unei hotărâri prealabile cu privire la următoarea chestiune de drept:",
+  "În interpretarea și aplicarea dispozițiilor articolului unic lit. A pct. 1 al anexei nr. 2 la Regulamentul-cadru privind stabilirea locurilor de muncă, a categoriilor de personal, a mărimii concrete a sporului pentru condiții de muncă prevăzut în anexa nr. II la Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, precum și a condițiilor de acordare a acestuia, pentru familia ocupațională de funcții bugetare „Sănătate și asistență socială“, aprobat prin Hotărârea Guvernului nr. 153/2018, cu modificările și completările ulterioare, să se stabilească dacă în noțiunea de „epidemii deosebit de grave și altele asemenea stabilite de Ministerul Sănătății și declarate prin ordin“ se include și noțiunea de epidemie la nivel național stabilită de Ministerul Sănătății prin ordin, prin raportare la art. 1 din Ordinul nr. 4.128/2023 privind declararea epidemiei de rujeolă pe teritoriul României și aprobarea măsurilor de limitare a răspândirii epidemiei și art. 6 lit. a) din Legea nr. 136/2020 privind instituirea unor măsuri în domeniul sănătății publice în situații de risc epidemiologic și biologic.",
+  "Obligatorie, potrivit art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 62/2024",
+    "number": "62",
+    "year": "2024",
+    "path": "oug/2024/62"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul nr. 4.128/2023",
+    "number": "4128",
+    "year": "2023"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 136/2020",
+    "number": "136",
+    "year": "2020",
+    "path": "lege/2020/136"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul ministrului sănătății nr. 4.128/2023",
+    "number": "4128",
+    "year": "2023"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 53/2003",
+    "number": "53",
+    "year": "2003",
+    "path": "lege/2003/53"
+   },
+   "articles": [
+    {
+     "art": "271",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2026-08-21",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/313591",
+  "text_sha256": "82138611374e12c5d47802df0702c1b4b05cae813df669b19a4a0001d2bfcc6f",
+  "catalogue_sha256": "82138611374e12c5d47802df0702c1b4b05cae813df669b19a4a0001d2bfcc6f",
+  "fetched": "2026-11-03T00:45:41Z",
+  "chars": 44340,
+  "portal_id": "313591",
+  "tip": "DECIZIE"
+ }
+}
