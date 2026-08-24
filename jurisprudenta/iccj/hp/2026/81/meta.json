@@ -1,0 +1,209 @@
+{
+ "key": "iccj-hp-81-2026",
+ "label": "Decizia ÎCCJ nr. 81/2026 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "81",
+ "date": "2026-06-22",
+ "year": "2026",
+ "heading": "DECIZIA nr. 81 din 22 iunie 2026",
+ "subtitle": "referitoare la interpretarea dispozițiilor art. 20^1 alin. 2^1 din Legea nr. 80/1995 privind statutul cadrelor militare și ale art. 4^1 lit. b) din Hotărârea Guvernului nr. 1.867/2005",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "701",
+  "bis": false,
+  "date": "2026-08-24",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "751/1/2026",
+  "11.094/3/2024"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 80/1995",
+    "number": "80",
+    "year": "1995",
+    "path": "lege/1995/80"
+   },
+   "articles": [
+    {
+     "art": "20-1",
+     "alin": [
+      "2-1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 1.867/2005",
+    "number": "1867",
+    "year": "2005",
+    "path": "hg/2005/1867"
+   },
+   "articles": [
+    {
+     "art": "4-1",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Curtea de Apel București - Secția a VII-a pentru cauze privind conflicte de muncă și asigurări sociale în Dosarul nr. 11.094/3/2024 în vederea pronunțării unei hotărâri prealabile cu privire la următoarele chestiuni de drept:",
+  "Dacă, în interpretarea și aplicarea dispozițiilor art. 20^1 alin. 2^1 din Legea nr. 80/1995 privind statutul cadrelor militare și ale art. 4^1 lit. b) din Hotărârea Guvernului nr. 1.867/2005 privind stabilirea cuantumului și condițiilor de acordare a compensației lunare pentru chirie cadrelor militare în activitate din Ministerul Apărării, cu modificările și completările ulterioare, destinația contractelor încheiate de cadrele militare vizează exclusiv achiziționarea unei locuințe sau se poate aplica și în cazul cumpărării unei părți din aceasta împreună cu un alt cumpărător, în cazul particular al prezentei cauze, dacă celălalt cumpărător este persoană cu care cadrul militar încheie ulterior căsătoria?",
+  "Dacă, în interpretarea și aplicarea dispozițiilor art. 20^1 alin. 2^1 din Legea nr. 80/1995 și ale art. 4^1 lit. b) din Hotărârea Guvernului nr. 1.867/2005, au dreptul de a beneficia de compensația pentru plata ratei sau a unei fracțiuni din rata aferentă unui credit ipotecar/imobiliar destinat achiziționării unei locuințe sau unui contract de vânzare-cumpărare cu plata în rate a locuinței doar cadrele militare care achiziționează imobilul locuință în integralitatea sa (cota de 1/1) sau și cadrele militare ce devin proprietare asupra respectivei locuințe într-o cotă inferioară celei de 1/1 (de exemplu, în cota de ½), ca urmare a achiziționării imobilului pe cote-părți împreună cu partenerul de viață (concubinaj)?",
+  "Obligatorie, potrivit art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 62/2024",
+    "number": "62",
+    "year": "2024",
+    "path": "oug/2024/62"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 19
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 80/1995",
+    "number": "80",
+    "year": "1995",
+    "path": "lege/1995/80"
+   },
+   "articles": [
+    {
+     "art": "20-1",
+     "alin": [
+      "2-1",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 1.867/2005",
+    "number": "1867",
+    "year": "2005",
+    "path": "hg/2005/1867"
+   },
+   "articles": [
+    {
+     "art": "4-1",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 227/2015",
+    "number": "227",
+    "year": "2015",
+    "path": "lege/2015/227"
+   },
+   "articles": [
+    {
+     "art": "76",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2026-08-24",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/313608",
+  "text_sha256": "bcdf0598385c1b025e2d94d0a795f16d0bb04333d7ca66d219ac5bf57009544e",
+  "catalogue_sha256": "bcdf0598385c1b025e2d94d0a795f16d0bb04333d7ca66d219ac5bf57009544e",
+  "fetched": "2026-11-03T00:45:39Z",
+  "chars": 41447,
+  "portal_id": "313608",
+  "tip": "DECIZIE"
+ }
+}
