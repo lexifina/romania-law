@@ -16,6 +16,7 @@ Initiator: Membri ai Parlamentului.
 - 2026-06-24: adopted by the Senate; documents published: Aviz comisie, Forma adoptată de Senat, Adresă către Camera Deputaților
 - 2026-07-31: adopted by the Chamber of Deputies; documents published: Forma adoptată de Camera Deputaților, Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2026-08-05: sent for promulgation
+- 2026-08-24: promulgated, becomes Legea nr. 175/2026; published in the Monitorul Oficial; documents published: Document (day not given by the bill file), Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -31,3 +32,9 @@ Initiator: Membri ai Parlamentului.
 - 2026-07-31: Forma adoptată de Camera Deputaților (FC): not held as text; official file https://www.senat.ro/legis/PDF/2026/26L414FC.PDF
 - 2026-07-31: Adresă privind sesizarea CCR (AXS): [axs-bce01fb9.md](axs-bce01fb9.md); official file https://www.senat.ro/legis/PDF/2026/26L414AXS.PDF
 - 2026-07-31: Forma trimisă la promulgare (LP): [lp-bc0aa483.md](lp-bc0aa483.md); official file https://www.senat.ro/legis/PDF/2026/26L414LP.PDF
+- 2026-08-24: Document (AG1): not held as text; official file https://www.senat.ro/legis/PDF/2026/26L414AG1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-08-24: Document (CF): [cf-9dcfa497.md](cf-9dcfa497.md); official file https://www.senat.ro/legis/PDF/2026/26L414CF.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-08-24: Document (AG2): not held as text; official file https://www.senat.ro/legis/PDF/2026/26L414AG2.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-08-24: Document (CC): [cc-f9aba95a.md](cc-f9aba95a.md); official file https://www.senat.ro/legis/PDF/2026/26L414CC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-08-24: Decret de promulgare (DP): [dp-666b987b.md](dp-666b987b.md); official file https://www.senat.ro/legis/PDF/2026/26L414DP.PDF
+- 2026-08-24: Forma promulgată (FP): [fp-00d569dc.md](fp-00d569dc.md); official file https://www.senat.ro/legis/PDF/2026/26L414FP.PDF
