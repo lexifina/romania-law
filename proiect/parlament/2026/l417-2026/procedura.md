@@ -16,6 +16,7 @@ Initiator: Membri ai Parlamentului.
 - 2026-06-24: adopted by the Senate; documents published: Aviz comisie, Forma adoptată de Senat, Adresă către Camera Deputaților
 - 2026-07-31: adopted by the Chamber of Deputies; documents published: Forma adoptată de Camera Deputaților, Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2026-08-05: sent for promulgation
+- 2026-08-24: promulgated, becomes Legea nr. 176/2026; published in the Monitorul Oficial; documents published: Document (day not given by the bill file), Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -31,3 +32,8 @@ Initiator: Membri ai Parlamentului.
 - 2026-07-31: Forma adoptată de Camera Deputaților (FC): not held as text; official file https://www.senat.ro/legis/PDF/2026/26L417FC.PDF
 - 2026-07-31: Adresă privind sesizarea CCR (AXS): [axs-16155dd4.md](axs-16155dd4.md); official file https://www.senat.ro/legis/PDF/2026/26L417AXS.PDF
 - 2026-07-31: Forma trimisă la promulgare (LP): [lp-173d4702.md](lp-173d4702.md); official file https://www.senat.ro/legis/PDF/2026/26L417LP.PDF
+- 2026-08-24: Document (AG1): not held as text; official file https://www.senat.ro/legis/PDF/2026/26L417AG1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-08-24: Document (CF): [cf-49917a2f.md](cf-49917a2f.md); official file https://www.senat.ro/legis/PDF/2026/26L417CF.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-08-24: Document (AG2): not held as text; official file https://www.senat.ro/legis/PDF/2026/26L417AG2.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-08-24: Decret de promulgare (DP): [dp-7b40f4f2.md](dp-7b40f4f2.md); official file https://www.senat.ro/legis/PDF/2026/26L417DP.PDF
+- 2026-08-24: Forma promulgată (FP): [fp-7124dbf1.md](fp-7124dbf1.md); official file https://www.senat.ro/legis/PDF/2026/26L417FP.PDF
