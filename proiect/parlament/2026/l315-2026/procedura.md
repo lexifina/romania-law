@@ -17,6 +17,7 @@ Initiator: Membri ai Parlamentului.
 - 2026-06-24: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților
 - 2026-07-31: adopted by the Chamber of Deputies; documents published: Forma adoptată de Camera Deputaților, Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2026-08-05: sent for promulgation
+- 2026-08-24: promulgated, becomes Legea nr. 177/2026; published in the Monitorul Oficial; documents published: Document (day not given by the bill file), Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -32,3 +33,11 @@ Initiator: Membri ai Parlamentului.
 - 2026-07-31: Forma adoptată de Camera Deputaților (FC): not held as text; official file https://www.senat.ro/legis/PDF/2026/26L315FC.PDF
 - 2026-07-31: Adresă privind sesizarea CCR (AXS): [axs-b8a417d5.md](axs-b8a417d5.md); official file https://www.senat.ro/legis/PDF/2026/26L315AXS.PDF
 - 2026-07-31: Forma trimisă la promulgare (LP): [lp-9e12be4d.md](lp-9e12be4d.md); official file https://www.senat.ro/legis/PDF/2026/26L315LP.PDF
+- 2026-08-24: Document (CF): [cf-298d014b.md](cf-298d014b.md); official file https://www.senat.ro/legis/PDF/2026/26L315CF.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-08-24: Document (AG1): [ag1-cab7ce67.md](ag1-cab7ce67.md); official file https://www.senat.ro/legis/PDF/2026/26L315AG1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-08-24: Document (AG2): not held as text; official file https://www.senat.ro/legis/PDF/2026/26L315AG2.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-08-24: Document (AG3): not held as text; official file https://www.senat.ro/legis/PDF/2026/26L315AG3.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-08-24: Document (AT): [at-78e40627.md](at-78e40627.md); official file https://www.senat.ro/legis/PDF/2026/26L315AT.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-08-24: Document (S1): [s1-9669410a.md](s1-9669410a.md); official file https://www.senat.ro/legis/PDF/2026/26L315S1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-08-24: Decret de promulgare (DP): [dp-2e2142aa.md](dp-2e2142aa.md); official file https://www.senat.ro/legis/PDF/2026/26L315DP.PDF
+- 2026-08-24: Forma promulgată (FP): [fp-e031c172.md](fp-e031c172.md); official file https://www.senat.ro/legis/PDF/2026/26L315FP.PDF
