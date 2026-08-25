@@ -12,7 +12,10 @@ Initiator: Membri ai Parlamentului.
 
 - 2026-08-21: registered at the Chamber of Deputies
 - 2026-08-24: adopted by the Chamber of Deputies
+- 2026-08-25: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 
 ## Documents
 
-- none held as text
+- 2026-08-25: Adresă de înaintare a inițiativei (AD): [ad-9ffdb186.md](ad-9ffdb186.md); official file https://www.senat.ro/legis/PDF/2026/26L470AD.PDF
+- 2026-08-25: Forma inițiatorului (FG): [fg-0d386249.md](fg-0d386249.md); official file https://www.senat.ro/legis/PDF/2026/26L470FG.PDF
+- 2026-08-25: Expunere de motive (EM): [em-add06205.md](em-add06205.md); official file https://www.senat.ro/legis/PDF/2026/26L470EM.PDF
