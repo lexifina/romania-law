@@ -1,0 +1,246 @@
+{
+ "key": "dcc-474-2025",
+ "label": "Decizia CCR nr. 474/2025",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "474",
+ "date": "2025-10-16",
+ "year": "2025",
+ "heading": "DECIZIA nr. 474 din 16 octombrie 2025",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 3 alin. (5) teza a doua din Ordonanța de urgență a Guvernului nr. 132/2020 privind măsuri de sprijin destinate salariaților și angajatorilor în contextul situației epidemiologice determinate de răspândirea coronavirusului SARS-CoV-2, precum și pentru stimularea creșterii ocupării forței de muncă",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "709",
+  "bis": false,
+  "date": "2026-08-26",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "96/57/2021",
+  "3.757D/2021",
+  "52/115/2023",
+  "498/39/2023/a1",
+  "1.098D/2023",
+  "3.544D/2024"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 132/2020",
+    "number": "132",
+    "year": "2020",
+    "path": "oug/2020/132"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de PFA Crafcic Paul Transporturi Taxiuri și alții în Dosarul nr. 96/57/2021 al Tribunalului Sibiu - Secția a II-a civilă, de contencios administrativ și fiscal, de Tribunalul Caraș-Severin - Secția a II-a civilă, de contencios administrativ și fiscal, din oficiu, în Dosarul nr. 52/115/2023, precum și de Axinte G. Liliana PFA în Dosarul nr. 498/39/2023/a1 al Înaltei Curți de Casație și Justiție - Secția de contencios administrativ și fiscal și constată că dispozițiile art. 3 alin. (5) teza a doua din Ordonanța de urgență a Guvernului nr. 132/2020 privind măsuri de sprijin destinate salariaților și angajatorilor în contextul situației epidemiologice determinate de răspândirea coronavirusului SARS-CoV-2, precum și pentru stimularea creșterii ocupării forței de muncă sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului Sibiu - Secția a II-a civilă, de contencios administrativ și fiscal, Tribunalului Caraș-Severin - Secția a II-a civilă, de contencios administrativ și fiscal și Înaltei Curți de Casație și Justiție - Secția de contencios administrativ și fiscal și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 132/2020",
+    "number": "132",
+    "year": "2020",
+    "path": "oug/2020/132"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 30/2020",
+    "number": "30",
+    "year": "2020",
+    "path": "oug/2020/30"
+   },
+   "articles": [
+    {
+     "art": "XV",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituției",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "1",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "31",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 1/2005",
+    "number": "1",
+    "year": "2005",
+    "path": "lege/2005/1"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2026-08-26",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/313665",
+  "text_sha256": "52bdf06fc1313be253a695dbe78959e123cdffc70cecc31ee1ad1fc80ebb072e",
+  "catalogue_sha256": "52bdf06fc1313be253a695dbe78959e123cdffc70cecc31ee1ad1fc80ebb072e",
+  "fetched": "2026-11-03T00:45:36Z",
+  "chars": 21113,
+  "portal_id": "313665",
+  "tip": "DECIZIE"
+ }
+}
