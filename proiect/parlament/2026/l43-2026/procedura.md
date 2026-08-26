@@ -21,6 +21,7 @@ Initiator: Membri ai Parlamentului.
 - 2026-04-27: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2026-06-24: published in the Monitorul Oficial
 - 2026-08-10: returned for re-examination
+- 2026-08-26: adopted by the Senate
 
 ## Documents
 
