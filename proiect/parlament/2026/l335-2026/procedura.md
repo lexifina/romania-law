@@ -12,6 +12,7 @@ Initiator: Membri ai Parlamentului.
 - 2026-04-14: documents published: Aviz Consiliul Economic și Social, Aviz Consiliul Legislativ, Punct de vedere
 - 2026-05-27: documents published: Aviz comisie
 - 2026-07-27: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților
+- 2026-08-27: documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -24,3 +25,7 @@ Initiator: Membri ai Parlamentului.
 - 2026-05-27: Aviz comisie (CA45): [ca45-810c8acb.md](ca45-810c8acb.md); official file https://www.senat.ro/legis/PDF/2026/26L335CA45.PDF
 - 2026-07-27: Forma adoptată de Senat (FS): [fs-7f775b00.md](fs-7f775b00.md); official file https://www.senat.ro/legis/PDF/2026/26L335FS.PDF
 - 2026-07-27: Adresă către Camera Deputaților (AM): [am-e004f6dc.md](am-e004f6dc.md); official file https://www.senat.ro/legis/PDF/2026/26L335AM.PDF
+- 2026-08-27: Document (AG1): [ag1-4be29424.md](ag1-4be29424.md); official file https://www.senat.ro/legis/PDF/2026/26L335AG1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-08-27: Document (CF): [cf-2ff09316.md](cf-2ff09316.md); official file https://www.senat.ro/legis/PDF/2026/26L335CF.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-08-27: Document (AG2): [ag2-cab7ce67.md](ag2-cab7ce67.md); official file https://www.senat.ro/legis/PDF/2026/26L335AG2.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-08-27: Document (AG3): not held as text; official file https://www.senat.ro/legis/PDF/2026/26L335AG3.PDF (its day is not given by the bill file: shown from the last stage held)
