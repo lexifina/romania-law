@@ -1,0 +1,3 @@
+# Anexa nr. 2
+PROCEDURĂ privind notificarea și emiterea acordului scris pentru executarea lucrărilor prevăzute la art. 284 alin. (4), în cazul construcțiilor monument istoric și al construcțiilor cu valoare arhitecturală sau istorică stabilită prin documentații de urbanism aprobate, din
+Legea nr. 169/2026 privind Codul amenajării teritoriului, urbanismului și construcțiilor

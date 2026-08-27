@@ -1,0 +1,2 @@
+# Anexa nr. 1
+PROCEDURĂ privind solicitarea și emiterea acordului scris al Ministerului Culturii sau al serviciilor publice deconcentrate ale acestuia, după caz, pentru emiterea autorizației de construire pentru lucrări de intervenție în primă urgență, în cazul construcțiilor monument istoric și al construcțiilor cu valoare arhitecturală sau istorică stabilită prin documentații de urbanism aprobate
