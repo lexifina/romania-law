@@ -15,6 +15,7 @@ Initiator: Membri ai Parlamentului.
 - 2026-08-05: adopted by the Senate; documents published: Aviz comisie, Raport comisie sesizată pe fond, Forma adoptată de Senat, Adresă către Camera Deputaților
 - 2026-08-12: adopted by the Chamber of Deputies; documents published: Forma adoptată de Camera Deputaților, Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2026-08-14: sent for promulgation
+- 2026-08-28: promulgated, becomes Legea nr. 178/2026; published in the Monitorul Oficial; documents published: Document (day not given by the bill file), Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -30,3 +31,6 @@ Initiator: Membri ai Parlamentului.
 - 2026-08-12: Forma adoptată de Camera Deputaților (FC): [fc-ddea2481.md](fc-ddea2481.md); official file https://www.senat.ro/legis/PDF/2026/26L465FC.PDF
 - 2026-08-12: Adresă privind sesizarea CCR (AXS): [axs-5d4cbefb.md](axs-5d4cbefb.md); official file https://www.senat.ro/legis/PDF/2026/26L465AXS.PDF
 - 2026-08-12: Forma trimisă la promulgare (LP): [lp-73b8c997.md](lp-73b8c997.md); official file https://www.senat.ro/legis/PDF/2026/26L465LP.PDF
+- 2026-08-28: Document (CF): [cf-6cf16e65.md](cf-6cf16e65.md); official file https://www.senat.ro/legis/PDF/2026/26L465CF.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-08-28: Decret de promulgare (DP): [dp-398fcf17.md](dp-398fcf17.md); official file https://www.senat.ro/legis/PDF/2026/26L465DP.PDF
+- 2026-08-28: Forma promulgată (FP): [fp-5796f3fd.md](fp-5796f3fd.md); official file https://www.senat.ro/legis/PDF/2026/26L465FP.PDF
