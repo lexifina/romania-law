@@ -15,6 +15,7 @@ Initiator: Membri ai Parlamentului.
 - 2026-07-28: documents published: Aviz comisie
 - 2026-08-24: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților
 - 2026-08-26: adopted by the Chamber of Deputies; documents published: Forma adoptată de Camera Deputaților, Adresă privind sesizarea CCR, Forma trimisă la promulgare
+- 2026-08-28: sent for promulgation; promulgated, becomes Legea nr. 181/2026; published in the Monitorul Oficial; documents published: Document (day not given by the bill file), Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -32,3 +33,10 @@ Initiator: Membri ai Parlamentului.
 - 2026-08-26: Forma adoptată de Camera Deputaților (FC): [fc-b2b4eaea.md](fc-b2b4eaea.md); official file https://www.senat.ro/legis/PDF/2026/26L453FC.PDF
 - 2026-08-26: Adresă privind sesizarea CCR (AXS): [axs-6fa1e06e.md](axs-6fa1e06e.md); official file https://www.senat.ro/legis/PDF/2026/26L453AXS.PDF
 - 2026-08-26: Forma trimisă la promulgare (LP): [lp-c1f4f0ab.md](lp-c1f4f0ab.md); official file https://www.senat.ro/legis/PDF/2026/26L453LP.PDF
+- 2026-08-28: Document (CF): [cf-60f94d9f.md](cf-60f94d9f.md); official file https://www.senat.ro/legis/PDF/2026/26L453CF.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-08-28: Document (AT): [at-a65c45dd.md](at-a65c45dd.md); official file https://www.senat.ro/legis/PDF/2026/26L453AT.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-08-28: Document (ANRE): [anre-1fbf2f9b.md](anre-1fbf2f9b.md); official file https://www.senat.ro/legis/PDF/2026/26L453ANRE.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-08-28: Document (CC): [cc-58c96503.md](cc-58c96503.md); official file https://www.senat.ro/legis/PDF/2026/26L453CC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-08-28: Document (S1): [s1-da613bab.md](s1-da613bab.md); official file https://www.senat.ro/legis/PDF/2026/26L453S1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-08-28: Decret de promulgare (DP): [dp-62d204da.md](dp-62d204da.md); official file https://www.senat.ro/legis/PDF/2026/26L453DP.PDF
+- 2026-08-28: Forma promulgată (FP): [fp-14633b29.md](fp-14633b29.md); official file https://www.senat.ro/legis/PDF/2026/26L453FP.PDF
