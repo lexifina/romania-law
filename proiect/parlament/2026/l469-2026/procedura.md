@@ -16,6 +16,7 @@ Initiator: Membri ai Parlamentului.
 - 2026-08-13: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 - 2026-08-25: documents published: Aviz comisie
 - 2026-08-26: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă privind sesizarea CCR, Forma trimisă la promulgare
+- 2026-08-28: sent for promulgation; promulgated, becomes Legea nr. 182/2026; published in the Monitorul Oficial; documents published: Document (day not given by the bill file), Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -27,3 +28,6 @@ Initiator: Membri ai Parlamentului.
 - 2026-08-26: Forma adoptată de Senat (FS): [fs-3ffc46e5.md](fs-3ffc46e5.md); official file https://www.senat.ro/legis/PDF/2026/26L469FS.PDF
 - 2026-08-26: Adresă privind sesizarea CCR (AXS): [axs-db72d8c6.md](axs-db72d8c6.md); official file https://www.senat.ro/legis/PDF/2026/26L469AXS.PDF
 - 2026-08-26: Forma trimisă la promulgare (LP): [lp-3d1e68f4.md](lp-3d1e68f4.md); official file https://www.senat.ro/legis/PDF/2026/26L469LP.PDF
+- 2026-08-28: Document (AL): [al-9340d602.md](al-9340d602.md); official file https://www.senat.ro/legis/PDF/2026/26L469AL.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-08-28: Decret de promulgare (DP): [dp-90e210f4.md](dp-90e210f4.md); official file https://www.senat.ro/legis/PDF/2026/26L469DP.PDF
+- 2026-08-28: Forma promulgată (FP): [fp-25d723cd.md](fp-25d723cd.md); official file https://www.senat.ro/legis/PDF/2026/26L469FP.PDF
