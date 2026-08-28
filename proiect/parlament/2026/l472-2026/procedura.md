@@ -11,6 +11,7 @@ Initiator: Membri ai Parlamentului.
 ## Stages published so far
 
 - 2026-08-26: adopted by the Chamber of Deputies; registered at the Senate; adopted by the Senate; documents published: Forma adoptată de Camera Deputaților, Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Economic și Social, Aviz Consiliul Legislativ, Raport comisie se…
+- 2026-08-28: sent for promulgation; promulgated, becomes Legea nr. 183/2026; published in the Monitorul Oficial; documents published: Document (day not given by the bill file), Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -25,3 +26,6 @@ Initiator: Membri ai Parlamentului.
 - 2026-08-26: Adresă către Camera Deputaților (AM): [am-f1cb2fed.md](am-f1cb2fed.md); official file https://www.senat.ro/legis/PDF/2026/26L472AM.PDF
 - 2026-08-26: Adresă privind sesizarea CCR (AXS): [axs-7702c726.md](axs-7702c726.md); official file https://www.senat.ro/legis/PDF/2026/26L472AXS.PDF
 - 2026-08-26: Forma trimisă la promulgare (LP): [lp-d6d5f6f7.md](lp-d6d5f6f7.md); official file https://www.senat.ro/legis/PDF/2026/26L472LP.PDF
+- 2026-08-28: Document (CF): [cf-4cbf428b.md](cf-4cbf428b.md); official file https://www.senat.ro/legis/PDF/2026/26L472CF.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-08-28: Decret de promulgare (DP): [dp-9f90ad38.md](dp-9f90ad38.md); official file https://www.senat.ro/legis/PDF/2026/26L472DP.PDF
+- 2026-08-28: Forma promulgată (FP): [fp-0cae41e7.md](fp-0cae41e7.md); official file https://www.senat.ro/legis/PDF/2026/26L472FP.PDF
