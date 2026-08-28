@@ -20,6 +20,7 @@ Initiator: Membri ai Parlamentului.
 - 2026-08-06: adopted by the Senate; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2026-08-08: sent for promulgation
 - 2026-08-17: published in the Monitorul Oficial
+- 2026-08-28: promulgated, becomes Legea nr. 184/2026; published in the Monitorul Oficial; documents published: Document (day not given by the bill file), Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -42,3 +43,11 @@ Initiator: Membri ai Parlamentului.
 - 2026-08-05: Forma adoptată de Camera Deputaților (FC): [fc-9577f9ea.md](fc-9577f9ea.md); official file https://www.senat.ro/legis/PDF/2026/26L455FC.PDF
 - 2026-08-06: Adresă privind sesizarea CCR (AXS): [axs-802e7242.md](axs-802e7242.md); official file https://www.senat.ro/legis/PDF/2026/26L455AXS.PDF
 - 2026-08-06: Forma trimisă la promulgare (LP): [lp-0e5104e6.md](lp-0e5104e6.md); official file https://www.senat.ro/legis/PDF/2026/26L455LP.PDF
+- 2026-08-28: Document (CF): [cf-3620ed67.md](cf-3620ed67.md); official file https://www.senat.ro/legis/PDF/2026/26L455CF.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-08-28: Document (AJ): [aj-dfcb4e10.md](aj-dfcb4e10.md); official file https://www.senat.ro/legis/PDF/2026/26L455AJ.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-08-28: Document (CD): [cd-16035852.md](cd-16035852.md); official file https://www.senat.ro/legis/PDF/2026/26L455CD.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-08-28: Document (SC1): [sc1-be39b1ea.md](sc1-be39b1ea.md); official file https://www.senat.ro/legis/PDF/2026/26L455SC1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-08-28: Document (DC1): [dc1-7e0ecda9.md](dc1-7e0ecda9.md); official file https://www.senat.ro/legis/PDF/2026/26L455DC1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-08-28: Document (CC): [cc-88ee77db.md](cc-88ee77db.md); official file https://www.senat.ro/legis/PDF/2026/26L455CC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-08-28: Decret de promulgare (DP): [dp-26633f32.md](dp-26633f32.md); official file https://www.senat.ro/legis/PDF/2026/26L455DP.PDF
+- 2026-08-28: Forma promulgată (FP): [fp-7f888a62.md](fp-7f888a62.md); official file https://www.senat.ro/legis/PDF/2026/26L455FP.PDF
