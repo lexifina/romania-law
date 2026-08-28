@@ -1,0 +1,9 @@
+Sancțiune pentru încălcarea RGPD
+Autoritatea Națională de Supraveghere a Prelucrării Datelor cu Caracter Personal a finalizat, în luna iulie 2026, o investigație la operatorul GEROCOSSEN S.R.L și a constatat încălcarea dispozițiilor art. 32 alin. (1) lit. b) și alin. (2) din Regulamentul (UE) 2016/679.
+Ca atare, operatorul a fost sancționat cu amendă în cuantum de 26.236,50 lei , echivalentul sumei de 5.000 euro.
+Investigația a fost demarată ca urmare a transmiterii de către operatorul GEROCOSSEN S.R.L. a unei notificări de încălcare a securității datelor cu caracter personal, potrivit dispozițiilor art. 33 din Regulamentul (UE) 2016/679.
+Încălcarea securității datelor s-a produs ca urmare a unui atac informatic asupra infrastructurii IT a operatorului, situație ce a condus la divulgarea neautorizată sau accesul neautorizat la datele cu caracter personal aparținând unor persoane vizate (date de identificare, date de contact).
+În cadrul investigației, s-a constatat că operatorul nu avea implementate măsuri tehnice și organizatorice adecvate în vederea asigurării unui nivel de securitate corespunzător riscului prezentat de prelucrare, incluzând capacitatea de a asigura confidențialitatea și integritatea sistemelor și serviciilor de prelucrare, fiind încălcate prevederile art. 32 alin. (1) lit. b) și alin. (2) din Regulamentul (UE) 2016/679.
+Totodată, în temeiul art. 58 alin. (2) lit. d) din Regulament s-a dispus față de operator măsura corectivă de implementare a unor sisteme de monitorizare/jurnalizare a accesului în infrastructura IT utilizată pentru prelucrarea datelor cu caracter personal care să includă o perioadă de retenție a log-urilor de acces de minim 30 zile, inclusiv introducerea unei proces de back-up asupra acestora.
+Direcția juridică și comunicare
+A.N.S.P.D.C.P
