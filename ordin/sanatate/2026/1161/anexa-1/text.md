@@ -1,0 +1,4 @@
+# ANEXĂ
+ANEXĂ privind modificarea și completarea anexelor nr. 1 și 2 la
+Ordinul ministrului sănătății nr. 5.994/2024 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în
+România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative
