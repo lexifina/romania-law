@@ -1,0 +1,57 @@
+{
+ "key": "cjue-c-598-24-hotarare-2026-09-03",
+ "label": "CJUE, Hotărârea Curții (Camera a doua) din 3 septembrie 2026, Cauza C-598/24",
+ "court": "cjue",
+ "court_name": "Curtea de Justiție a Uniunii Europene",
+ "kind": "hotarare",
+ "act_type": "JUDG",
+ "date": "2026-09-03",
+ "year": "2026",
+ "case": "Cauza C-598/24",
+ "celex": "62024CJ0598",
+ "ecli": "ECLI:EU:C:2026:682",
+ "heading": "Hotărârea Curții (Camera a doua) din 3 septembrie 2026",
+ "formation": "CHAMB_02_C",
+ "procedure": "REFER_PREL",
+ "romania_role": [
+  "originates"
+ ],
+ "referred_by": [
+  {
+   "court": "Înalta Curte de Casaţie şi Justiţie, Secția I civilă",
+   "date": "2024-05-14",
+   "national_file": "32698/3/2021/a1"
+  }
+ ],
+ "referral_text": "Cerere de decizie preliminară formulată de Înalta Curte de Casaţie şi Justiţie",
+ "national_followup": null,
+ "parties": "CY împotriva Gândul Media Network SRL și a lui HO",
+ "parties_withheld": false,
+ "keywords": "Trimitere preliminară – Apropierea legislațiilor – Directiva 2001/29/CE – Armonizarea anumitor aspecte ale dreptului de autor și ale drepturilor conexe în societatea informațională – Dreptul de reproducere – Articolul 2 litera (a) – Noțiunea de „operă” – Text de mică întindere făcut public pe o rețea de socializare și redat în presa online – Articolul 5 – Excepții și limitări – Articolul 5 alineatul (3) litera (c) – Difuzarea evenimentelor curente – Gradul de armonizare – Articolul 5 alineatul (5) – Testul în trei etape",
+ "interprets": [],
+ "text": "dispozitiv.md",
+ "text_withheld": "personal_data",
+ "withheld_reason": "The full text names the parties' lawyers (and, in older cases, private parties); only the metadata and the operative part are published here, with the official link.",
+ "operative_missing": false,
+ "eurlex_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62024CJ0598",
+ "curia_url": "https://curia.europa.eu/juris/liste.jsf?num=C-598/24&language=ro",
+ "source": {
+  "name": "CELLAR, Publications Office of the European Union",
+  "url": "http://publications.europa.eu/resource/cellar/931118a0-a771-11f1-b25c-01aa75ed71a1.0002.05/DOC_1",
+  "format": "xhtml",
+  "sha256": [
+   "c9ebd5022b10b1f3e837fcac6d43181705a277aad9f674ccaffe8a7ba1f8fc9a"
+  ]
+ },
+ "legal_basis": "Jurisprudența Curții de Justiție a Uniunii Europene (texte oficiale; reutilizare permisă cu menționarea sursei: Decizia Comisiei 2011/833/UE și condițiile CURIA; © Uniunea Europeană). Textele oficiale nu sunt protejate de dreptul de autor în România (Legea nr. 8/1996, art. 9 lit. b).",
+ "attribution": "© European Union, https://eur-lex.europa.eu (via the Publications Office CELLAR)",
+ "operative": [
+  "Pentru aceste motive, Curtea (Camera a doua) declară:",
+  "1) Articolul 2 litera (a) din Directiva 2001/29/CE a Parlamentului European și a Consiliului din 22 mai 2001 privind armonizarea anumitor aspecte ale dreptului de autor și drepturilor conexe în societatea informațională",
+  "trebuie interpretat în sensul că",
+  "un text postat pe o rețea de socializare și care exprimă o opinie cu privire la practici sociale apreciate ca fiind nepotrivite intră în sfera noțiunii de „operă”, în sensul acestei dispoziții, în măsura în care acest text constituie expresia unei creații intelectuale care reflectă personalitatea autorului său.",
+  "2) Articolul 5 alineatul (3) litera (c) a doua ipoteză din Directiva 2001/29",
+  "trebuie interpretat în sensul că",
+  "nu se opune unei reglementări naționale care restrânge excepția sau limitarea prevăzută de această dispoziție la preluarea unor scurte extrase dintr‑o operă protejată, dar se opune interzicerii obținerii unui avantaj direct sau indirect, comercial sau economic din această preluare."
+ ]
+}
