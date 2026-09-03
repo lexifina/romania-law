@@ -1,0 +1,54 @@
+{
+ "key": "cjue-c-606-24-hotarare-2026-09-03",
+ "label": "CJUE, Hotărârea Curții (Camera a patra) din 3 septembrie 2026, Cauza C-606/24",
+ "court": "cjue",
+ "court_name": "Curtea de Justiție a Uniunii Europene",
+ "kind": "hotarare",
+ "act_type": "JUDG",
+ "date": "2026-09-03",
+ "year": "2026",
+ "case": "Cauza C-606/24",
+ "celex": "62024CJ0606",
+ "ecli": "ECLI:EU:C:2026:686",
+ "heading": "Hotărârea Curții (Camera a patra) din 3 septembrie 2026",
+ "formation": "CHAMB_04_C",
+ "procedure": "REFER_PREL",
+ "romania_role": [
+  "originates"
+ ],
+ "referred_by": [
+  {
+   "court": "Tribunalul Bucureşti",
+   "date": "2024-09-12",
+   "national_file": "1304071"
+  }
+ ],
+ "referral_text": "Cerere de decizie preliminară formulată de Tribunalul Bucureşti",
+ "national_followup": null,
+ "parties": "XY ș.a. împotriva Ministerului Finanţelor",
+ "parties_withheld": false,
+ "keywords": "Trimitere preliminară – Articolul 19 alineatul (1) al doilea paragraf TUE – Articolul 47 din Carta drepturilor fundamentale – Protecție jurisdicțională efectivă – Independența judecătorilor – Instanță judecătorească constituită în prealabil prin lege – Obligație a instanțelor naționale de a sesiza instanța supremă cu o chestiune de drept prealabilă – Articolul 267 TFUE",
+ "interprets": [],
+ "text": "dispozitiv.md",
+ "text_withheld": "personal_data",
+ "withheld_reason": "The full text names the parties' lawyers (and, in older cases, private parties); only the metadata and the operative part are published here, with the official link.",
+ "operative_missing": false,
+ "eurlex_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62024CJ0606",
+ "curia_url": "https://curia.europa.eu/juris/liste.jsf?num=C-606/24&language=ro",
+ "source": {
+  "name": "CELLAR, Publications Office of the European Union",
+  "url": "http://publications.europa.eu/resource/cellar/4ab0f570-a771-11f1-b25c-01aa75ed71a1.0002.05/DOC_1",
+  "format": "xhtml",
+  "sha256": [
+   "c1512c06b97bcc48ae87dcd6c9d2e0e27bf9edb05ff2bd709205551c525ed8c6"
+  ]
+ },
+ "legal_basis": "Jurisprudența Curții de Justiție a Uniunii Europene (texte oficiale; reutilizare permisă cu menționarea sursei: Decizia Comisiei 2011/833/UE și condițiile CURIA; © Uniunea Europeană). Textele oficiale nu sunt protejate de dreptul de autor în România (Legea nr. 8/1996, art. 9 lit. b).",
+ "attribution": "© European Union, https://eur-lex.europa.eu (via the Publications Office CELLAR)",
+ "operative": [
+  "Pentru aceste motive, Curtea (Camera a patra) declară:",
+  "Articolul 19 alineatul (1) al doilea paragraf TUE citit în lumina articolului 47 din Carta drepturilor fundamentale a Uniunii Europene",
+  "trebuie interpretat în sensul că",
+  "nu se opune unei reglementări naționale care prevede că, atunci când o instanță națională este sesizată cu un litigiu care privește o materie determinată, în cadrul căruia constată că se ridică o chestiune de drept asupra căreia instanța supremă nu a statuat încă, această instanță este obligată să suspende judecata pendinte în fața sa și fie să sesizeze instanța supremă pentru ca aceasta să pronunțe o hotărâre prealabilă cu privire la această chestiune, fie, atunci când chestiunea menționată face deja obiectul unei sesizări introduse de o altă instanță, să aștepte decizia instanței supreme."
+ ]
+}
