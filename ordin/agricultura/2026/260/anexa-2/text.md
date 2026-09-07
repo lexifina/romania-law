@@ -1,0 +1,3 @@
+# Anexa nr. 2
+CRITERII DE ELIGIBILITATE
+Nr. crt. Criteriul de eligibilitate Da Nu 1 Asociația este legal constituită. 2 Asociația este afiliată pentru reprezentare la asociația/uniunea/federația națională de utilitate publică reprezentativă la nivel național și internațional 3 Certificate fiscale (din care să rezulte că nu înregistrează datorii la direcția generală regională a finanțelor publice) 4 Certificate fiscale (din care să rezulte că nu înregistrează datorii la consiliul local pe raza căruia activează asociația) 5 Asociația a deținut în trecut un contract pentru utilizarea resurselor acvatice vii în scop recreativ reziliat din motive imputabile acesteia. 6 Asociația este înregistrată în Registrul unic de evidență a asociațiilor de pescari recreativi.
