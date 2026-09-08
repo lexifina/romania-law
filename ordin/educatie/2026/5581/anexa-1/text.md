@@ -1,0 +1,2 @@
+# ANEXĂ
+ANEXĂ pentru aprobarea planului de învățământ și a programei școlare pentru cultura de specialitate și pregătirea practică din aria curriculară Tehnologii, precum și pentru stagiile de pregătire practică - curriculum în dezvoltare locală (CDL), pentru clasa a X-a învățământ profesional,inclusiv dual, pentru calificările profesionale de nivel 3 al Cadrului național al calificărilor: grădinar urban
