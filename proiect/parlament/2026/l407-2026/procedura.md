@@ -13,6 +13,7 @@ Initiator: Membri ai Parlamentului.
 - 2026-06-24: documents published: Aviz comisie
 - 2026-07-01: documents published: Aviz comisie
 - 2026-08-31: documents published: Aviz comisie
+- 2026-09-08: documents published: Aviz comisie
 
 ## Documents
 
@@ -24,3 +25,4 @@ Initiator: Membri ai Parlamentului.
 - 2026-06-24: Aviz comisie (CA49): [ca49-4df1608a.md](ca49-4df1608a.md); official file https://www.senat.ro/legis/PDF/2026/26L407CA49.PDF
 - 2026-07-01: Aviz comisie (CA61): [ca61-31fcc962.md](ca61-31fcc962.md); official file https://www.senat.ro/legis/PDF/2026/26L407CA61.PDF
 - 2026-08-31: Aviz comisie (CA5): [ca5-180482bc.md](ca5-180482bc.md); official file https://www.senat.ro/legis/PDF/2026/26L407CA5.PDF
+- 2026-09-08: Aviz comisie (CA3): [ca3-e41fa2f2.md](ca3-e41fa2f2.md); official file https://www.senat.ro/legis/PDF/2026/26L407CA3.PDF
