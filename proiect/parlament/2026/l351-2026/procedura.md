@@ -13,6 +13,7 @@ Initiator: Membri ai Parlamentului.
 - 2026-06-10: documents published: Aviz comisie
 - 2026-09-02: documents published: Aviz comisie
 - 2026-09-03: documents published: Raport comisie sesizată pe fond
+- 2026-09-08: rejected by the Senate; documents published: Document (day not given by the bill file), Adresă către Camera Deputaților
 
 ## Documents
 
@@ -25,3 +26,8 @@ Initiator: Membri ai Parlamentului.
 - 2026-06-10: Aviz comisie (CA45): [ca45-c6ed35e8.md](ca45-c6ed35e8.md); official file https://www.senat.ro/legis/PDF/2026/26L351CA45.PDF
 - 2026-09-02: Aviz comisie (CA12): [ca12-0ec9528c.md](ca12-0ec9528c.md); official file https://www.senat.ro/legis/PDF/2026/26L351CA12.PDF
 - 2026-09-03: Raport comisie sesizată pe fond (CR): [cr-478ee9a5.md](cr-478ee9a5.md); official file https://www.senat.ro/legis/PDF/2026/26L351CR.PDF
+- 2026-09-08: Document (SM): [sm-3b9c1fb1.md](sm-3b9c1fb1.md); official file https://www.senat.ro/legis/PDF/2026/26L351SM.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-09-08: Document (ANPC): [anpc-94737bbc.md](anpc-94737bbc.md); official file https://www.senat.ro/legis/PDF/2026/26L351ANPC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-09-08: Document (BNR): [bnr-b3030fb1.md](bnr-b3030fb1.md); official file https://www.senat.ro/legis/PDF/2026/26L351BNR.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-09-08: Document (CC): [cc-baf1680b.md](cc-baf1680b.md); official file https://www.senat.ro/legis/PDF/2026/26L351CC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-09-08: Adresă către Camera Deputaților (AM): [am-20f05de0.md](am-20f05de0.md); official file https://www.senat.ro/legis/PDF/2026/26L351AM.PDF
