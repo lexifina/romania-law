@@ -1,0 +1,34 @@
+# Anexa nr. 2
+Fișa de analiză a planurilor-cadru de învățământ*, în baza criteriilor/principiilor de calitate
+CRITERII/PRINCIPII
+DETALIERE CRITERIU
+INDICATORI DE REALIZARE
+Criteriul fundamentării teoretico-metodologice
+Principiul selecției și al ierarhizării domeniilor cunoașterii umane și ale culturii
+Decupajul domeniilor cunoașterii umane și ale culturii - în sens larg - și configurarea acestora ca domenii ale curriculumului școlar • Planurile-cadru de învățământ stabilesc un mod explicit de organizare pe domenii de studiu/discipline/module de pregătire
+Principiul compatibilizării cu tendințele naționale și europene din domeniul educației
+Planurile-cadru sunt compatibile cu paradigmele educaționale promovate la nivel european, cu liniile de politică educațională asumate de România • Planurile-cadru de învățământ sunt elaborate în concordanță cu prevederile Legii învățământului preuniversitar nr.198/2023, cu modificările și completările ulterioare • Planurile-cadru de învățământ susțin dezvoltarea progresivă a competențelor cheie europene (prin domenii de studiu/ discipline/ modulele de pregătire și prin ponderi relevante pentru formarea acestora) • Planurile-cadru de învățământ sunt corelate cu prevederile Cadrului național și european al calificărilor, corespunzător ciclului de școlaritate • Planurile-cadru de învățământ sunt corelate cu noile priorități ale UE privind cadrul european de cooperare în domeniul educației și formării profesionale
+Principiul corelării abordărilor disciplinare cu cele de tip multi-, pluri, inter-și transdisciplinar
+Planurile-cadru sunt organizate predominant disciplinar, dar promovează și susțin abordările de tip multi-, pluri-, inter- și transdisciplinar • Prin selecția și gruparea disciplinelor de studiu (discipline școlare sau module de studiu specifice, grupate în arii curriculare), planurile-cadru de învățământ depășesc abordările disciplinare, prin deschideri către multi-, pluri-, inter- și transdisciplinaritate
+Criteriul relevanței
+Principiul relevanței și racordării la social
+Planurile-cadru sunt adecvate în raport cu cerințele sociale, asigurând tipuri variate de ieșiri din sistem, precum și premisele unei inserții socio-profesionale optime • Planurile-cadru de învățământ susțin dezvoltarea profilului de formare specific ciclului de școlaritate respectiv • Planurile-cadru de învățământ includ domenii de studiu/ discipline/ modulele de pregătire, care sunt relevante din perspectiva contextului socio-cultural național și european/internațional • Planurile-cadru de învățământ favorizează tipuri variate de ieșiri din sistem (către învățământul postobligatoriu, către piața muncii)
+Principiul corelării la particularitățile de vârstă ale elevilor
+Curriculumul național respectă relația între învățare și dezvoltarea ființei umane, ținând cont de particularitățile de vârstă ale elevilor • Planurile-cadru de învățământ realizează o selecție a domeniilor de studiu/ disciplinelor/ modulelor de pregătire și o pondere a acestora relevante pentru vârsta elevilor și pentru caracteristicile psiho-sociale ale acestora, pentru profilul de formare corespunzător ciclului de școlaritate • Planurile-cadru de învățământ permit raționalizarea efortului intelectual prin distribuția echilibrată a orelor pe parcursul unei săptămâni de școală / unei zile de școală, corespunzător curbei capacității de efort școlar
+Principiul echilibrului
+Dezvoltarea tuturor dimensiunilor personalității umane și corelarea funcțională a componentelor planurilor-cadru • Planurile-cadru de învățământ includ domenii de studiu/ discipline/ modulele de pregătire relevante pentru dezvoltarea dimensiunilor personalității umane • Planurile-cadru de învățământ asigură o corelare funcțională între:
+- pregătirea obligatorie (TC) și cea opțională (CDEOȘ), pentru învățământul primar și gimnazial
+- pregătirea obligatorie (TC), pregătirea în profil, specializare (CS) și cea opțională (CDEOȘ), pentru liceu
+Principiul egalității șanselor
+Asigurarea unui sistem de condiții echivalente privind accesul, derularea și recunoașterea studiilor, precum și orientarea socio-profesională pentru fiecare elev • Planurile-cadru de învățământ stabilesc un trunchi comun relevant pentru pregătirea generală a tuturor elevilor care frecventează un nivel de studiu, în condițiile existenței unor componente obligatorii ale parcursului școlar • Planul-cadru de învățământ specific unei alternative educaționale oferă elemente de compatibilizare cu planul-cadru de învățământ valabil la nivel național • Planurile-cadru de învățământ răspund specificității formei de organizare a învățământului (învățământ cu frecvență și învățământ cu frecvență redusă)
+Criteriul funcționalității
+Principiul flexibilizării/ individualizării și descentralizării curriculumului
+Construirea unor parcursuri flexibile și individualizate de învățare, în acord cu nevoile, interesele elevilor • Structurarea planurilor-cadru de învățământ:
+- pe două componente: pregătire obligatorie (TC) și opțională (CDEOȘ), pentru învățământul primar și gimnazial
+- pe trei componente: pregătire obligatorie (TC), pregătirea în profil, specializare (CS) și opțională (CDEOȘ), pentru liceu • Existența plajei orare (numărul minim/maxim de ore) la nivelul disciplinelor de studiu/ modulelor de pregătire incluse în curriculumul la decizia elevului din oferta școlii
+Principiul coerenței pe verticală și pe orizontală
+Are în vedere gradul de integrare și vizează în esență raporturile procentuale - atât pe orizontală, cât și pe verticală - între ariile curriculare, iar în cadrul ariilor între discipline/ module de pregătire • La nivelul planurilor-cadru de învățământ, disciplinele de studiu/ modulele de pregătire și ponderile alocate acestora sunt corelate pe verticală, în succesiunea anilor de studiu • La nivelul planurilor-cadru de învățământ, disciplinele de studiu/ modulele de pregătire și ponderile alocate acestora sunt corelate pe orizontală, pe parcursul unui an de studiu (în vederea evitării suprapunerilor sau a contradicțiilor între discipline și în vederea asigurării complementarității acestora) • Planurile-cadru de învățământ asigură, din perspectiva numărului de ore, condiții pentru trecerea adecvată de la un nivel de învățământ la altul
+Condiții de implementare
+Principiul adecvării la contextul socio-economic, cultural și educațional
+Planurile-cadru de învățământ sunt realizabile din punctul de vedere al implementării • Planurile-cadru de învățământ asumă, prin propunerile formulate, un set de condiții de implementare, curente și viitoare (de exemplu, în raport cu resursele umane, materiale, financiare disponibile sau care pot fi mobilizate)
+* Adaptările specifice pentru nivelul educației timpurii sunt cuprinse în documentul de politică publică "Repere pentru proiectarea, actualizarea și evaluarea curriculumului național. Cadrul de referință al curriculumului național".

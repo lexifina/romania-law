@@ -1,0 +1,34 @@
+# Anexa nr. 4
+Fișa de analiză a programelor școlare, în baza criteriilor/principiilor ce stau la baza elaborării curriculumului
+CRITERII/PRINCIPII
+DETALIERE CRITERIU
+INDICATORI DE REALIZARE
+Fundamentare teoretico-metodologică
+Principiul selecției și al ierarhizării domeniilor cunoașterii umane și ale culturii
+Reflectarea, la nivelul componentelor programelor școlare, a profilului de formare al absolventului și a specificului domeniilor de cunoaștere din care sunt selectate disciplinele de studiu/modulele de pregătire • Programele școlare definesc clar statutul disciplinei și contribuția sa la formarea absolventului • Programele școlare includ competențe generale și specifice relevante pentru domeniul de cunoaștere abordat • Conținuturile propuse sunt selectate în raport cu domeniul de cunoaștere, evitând supraîncărcarea informațională
+Principiul compatibilizării cu tendințele naționale și europene din domeniul educației
+Programele școlare sunt compatibile cu paradigmele educaționale promovate la nivel european, cu liniile de politică educațională asumate de România • Programele școlare sunt corelate cu documente internaționale relevante (ex. Cadrul European al Calificărilor, documentele OECD, UNESCO) • Se asigură continuitatea în dezvoltarea competențelor-cheie europene • Programele școlare sunt aliniate la noile tendințe pedagogice internaționale (ex. abordări centrate pe competențe, evaluare formativă etc.)
+Principiul corelării abordărilor disciplinare cu cele de tip multi-, pluri, inter- și transdisciplinar
+Corelări între elementele componente ale programelor școlare:
+- corelarea competențelor specifice cu exemple de activități de învățare, din perspectiva formării competențelor la elevi
+- corelarea dintre competențele specifice și conținuturile învățării
+- corelarea competențelor specifice cu sugestiile metodologice, din perspectiva orientării profesorilor în formarea competențelor la elevi, și în proiectarea unui demers didactic adecvat elevilor și contextelor de învățare diferite • Programele școlare includ exemple de activități de învățare care stimulează abordări inter- și transdisciplinare • Se propun conținuturi corelate cu alte discipline din cadrul aceleiași arii curriculare • Se oferă recomandări metodologice privind integrarea conținuturilor din perspective multiple
+Relevanță
+Principiul relevanței și racordării la social
+Programele școlare să fie întemeiate pe documente actuale (de cercetare, de politici, de didactici etc.) și să fie structurate în raport cu intențiile formative ale disciplinei, din perspectiva profilului de formare • Se include o secțiune de justificare a disciplinei din perspectiva socială, culturală și profesională • Conținuturile propuse sunt relevante pentru dezvoltarea competențelor necesare societății actuale și viitoare • Se propun exemple de activități aplicate, conectate la realitatea socială
+Principiul corelării la particularitățile de vârstă ale elevilor
+Stabilirea unui număr rațional de competențe generale și de competențe specifice pentru fiecare competență generală, în raport cu numărul de ore alocat disciplinei de studiu
+Structurarea unor competențe specifice cu un grad de complexitate adecvat vârstei • Numărul competențelor specifice este adaptat la timpul alocat studiului disciplinei • Gradul de complexitate al competențelor specifice crește progresiv, respectând dezvoltarea cognitivă a elevilor • Activitățile de învățare și exemplele metodologice propuse sunt adecvate nivelului de dezvoltare intelectuală și emoțională al elevilor
+Principiul echilibrului
+Dezvoltarea tuturor dimensiunilor personalității umane • Programele școlare asigură un echilibru între dimensiunea cognitivă, socială, emoțională și fizică a dezvoltării elevilor • Se promovează un raport echilibrat între învățarea teoretică și aplicativă • Se oferă sugestii de activități care să stimuleze atât gândirea critică, cât și creativitatea și colaborarea
+Principiul egalității șanselor
+Asigurarea unui sistem de condiții echivalente privind accesul, derularea și recunoașterea studiilor, inclusiv același set de competențe la nivelul întregii cohorte școlare, pentru disciplinele obligatorii din trunchiul comun • Programele școlare includ aceleași competențe specifice pentru toți elevii din trunchiul comun • Se oferă recomandări pentru adaptarea activităților de învățare astfel încât să răspundă nevoilor diferite ale elevilor, inclusiv celor cu cerințe educaționale speciale • Se promovează strategii de evaluare echitabile, care să asigure acces egal la progres și succes școlar
+Funcționalitate
+Principiul flexibilizării/ individualizării și descentralizării curriculumului
+Asigurarea premiselor pentru aplicarea contextualizată a programelor școlare și pentru proiectarea unor parcursuri de învățare personalizate; acest lucru este legat și de posibilitatea dată cadrelor didactice de a utiliza activitățile de învățare recomandate de programele școlare, de a le modifica sau de a propune alte activități de învățare care vizează elevi cu niveluri diferite de performanță - elevi cu ritm înalt de învățare, elevi care au nevoie de învățare remedială, elevi cu risc de abandon etc.
+Vizează elaborarea programelor școlare pentru discipline opționale care susțin nevoi și interese specifice de învățare ale elevilor • Se propun sugestii metodologice care permit adaptarea curriculumului la nevoile elevilor • Se oferă exemple de activități diferențiate pentru elevi cu ritmuri diferite de învățare
+Principiul coerenței pe verticală și pe orizontală
+Corelarea pe verticală, care vizează, la nivelul fiecărei discipline de studiu, elaborarea competențelor generale și a celor specifice Acestea se raportează la profilul de formare al absolventului și constituie etape formative superioare de la un nivel de învățământ la altul; elaborarea competențelor specifice în progresie de la un an de studiu la altul; corelarea pe orizontală, care vizează: corelarea competențelor generale ale unei discipline cu cele ale altor discipline de studiu din aceeași arie curriculară; propunerea de competențe specifice distincte, care nu se repetă sub forme diferite • Programele școlare asigură continuitatea și progresia competențelor specifice de la un an de studiu la altul • Se evită suprapunerile și redundanțele în conținuturi printr-o repartizare coerentă în programele școlare • Se propun conexiuni între competențele generale ale unei discipline și cele ale altor discipline din aceeași arie curriculară
+Condiții de implementare
+Principiul adecvării la contextul socio-economic, cultural și educațional
+Sunt realizabile din punctul de vedere al implementării • Se iau în considerare resursele umane, materiale și financiare necesare implementării programelor (după caz) • Se propun strategii de implementare fezabile, inclusiv aspecte care privesc formarea profesorilor
