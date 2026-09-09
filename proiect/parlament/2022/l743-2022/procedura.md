@@ -24,6 +24,7 @@ Initiator: Membri ai Parlamentului.
 - 2026-08-24: adopted by the Senate
 - 2026-08-26: returned for re-examination
 - 2026-08-31: sent for promulgation
+- 2026-09-09: promulgated, becomes Legea nr. 185/2026; published in the Monitorul Oficial; documents published: Document (day not given by the bill file), Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -38,3 +39,15 @@ Initiator: Membri ai Parlamentului.
 - 2022-12-19: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L743AM.PDF
 - 2025-10-20: Adresă privind sesizarea CCR (AXS): [axs-fa4e0f37.md](axs-fa4e0f37.md); official file https://www.senat.ro/legis/PDF/2022/22L743AXS.PDF
 - 2025-10-20: Forma trimisă la promulgare (LP): [lp-fe13558e.md](lp-fe13558e.md); official file https://www.senat.ro/legis/PDF/2022/22L743LP.PDF
+- 2026-09-09: Document (CC): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L743CC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-09-09: Document (SC1): [sc1-915004b2.md](sc1-915004b2.md); official file https://www.senat.ro/legis/PDF/2022/22L743SC1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-09-09: Document (DC1): [dc1-8095e979.md](dc1-8095e979.md); official file https://www.senat.ro/legis/PDF/2022/22L743DC1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-09-09: Document (RX1): [rx1-850ccdf6.md](rx1-850ccdf6.md); official file https://www.senat.ro/legis/PDF/2022/22L743RX1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-09-09: Document (XA1): [xa1-1c4fcb7b.md](xa1-1c4fcb7b.md); official file https://www.senat.ro/legis/PDF/2022/22L743XA1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-09-09: Document (CX1): [cx1-0509429c.md](cx1-0509429c.md); official file https://www.senat.ro/legis/PDF/2022/22L743CX1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-09-09: Document (XD1): [xd1-818bd871.md](xd1-818bd871.md); official file https://www.senat.ro/legis/PDF/2022/22L743XD1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-09-09: Document (SX1): [sx1-e20a9489.md](sx1-e20a9489.md); official file https://www.senat.ro/legis/PDF/2022/22L743SX1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-09-09: Document (XXS1): [xxs1-7603c0b9.md](xxs1-7603c0b9.md); official file https://www.senat.ro/legis/PDF/2022/22L743XXS1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-09-09: Document (PX1): [px1-4f8d8890.md](px1-4f8d8890.md); official file https://www.senat.ro/legis/PDF/2022/22L743PX1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-09-09: Decret de promulgare (DP): [dp-f0382e68.md](dp-f0382e68.md); official file https://www.senat.ro/legis/PDF/2022/22L743DP.PDF
+- 2026-09-09: Forma promulgată (FP): [fp-d431326c.md](fp-d431326c.md); official file https://www.senat.ro/legis/PDF/2022/22L743FP.PDF
