@@ -13,6 +13,7 @@ Initiator: Membri ai Parlamentului.
 - 2026-04-03: registered at the Senate
 - 2026-04-14: documents published: Aviz comisie
 - 2026-06-29: adopted by the Chamber of Deputies; documents published: Adresă către Camera Deputaților, Forma adoptată de Camera Deputaților
+- 2026-09-10: documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -25,3 +26,6 @@ Initiator: Membri ai Parlamentului.
 - 2026-04-14: Aviz comisie (CA21): [ca21-7b7da916.md](ca21-7b7da916.md); official file https://www.senat.ro/legis/PDF/2026/26L474CA21.PDF
 - 2026-06-29: Adresă către Camera Deputaților (AM): [am-c0db55dd.md](am-c0db55dd.md); official file https://www.senat.ro/legis/PDF/2026/26L474AM.PDF
 - 2026-06-29: Forma adoptată de Camera Deputaților (FC): [fc-68dcd6cd.md](fc-68dcd6cd.md); official file https://www.senat.ro/legis/PDF/2026/26L474FC.PDF
+- 2026-09-10: Document (AJ): [aj-02dd8449.md](aj-02dd8449.md); official file https://www.senat.ro/legis/PDF/2026/26L474AJ.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-09-10: Document (SM): [sm-b9dc7122.md](sm-b9dc7122.md); official file https://www.senat.ro/legis/PDF/2026/26L474SM.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-09-10: Document (SE1): [se1-8ea8a344.md](se1-8ea8a344.md); official file https://www.senat.ro/legis/PDF/2026/26L474SE1.PDF (its day is not given by the bill file: shown from the last stage held)
