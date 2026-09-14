@@ -11,6 +11,7 @@ Initiator: Membri ai Parlamentului.
 ## Stages published so far
 
 - 2026-06-14: first record in the bill file
+- 2026-09-14: registered at the Chamber of Deputies
 
 ## Documents
 
