@@ -12,6 +12,7 @@ Initiator: Membri ai Parlamentului.
 - 2026-03-17: documents published: Aviz Consiliul Legislativ, Aviz Consiliul Economic și Social, Punct de vedere Guvern, Punct de vedere
 - 2026-04-06: registered at the Senate
 - 2026-09-08: adopted by the Chamber of Deputies; documents published: Adresă către Camera Deputaților, Forma adoptată de Camera Deputaților
+- 2026-09-14: documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -24,3 +25,6 @@ Initiator: Membri ai Parlamentului.
 - 2026-03-17: Punct de vedere (PV): [pv-4d62fd0a.md](pv-4d62fd0a.md); official file https://www.senat.ro/legis/PDF/2026/26L558PV.PDF
 - 2026-09-08: Adresă către Camera Deputaților (AM): [am-10b63881.md](am-10b63881.md); official file https://www.senat.ro/legis/PDF/2026/26L558AM.PDF
 - 2026-09-08: Forma adoptată de Camera Deputaților (FC): [fc-f4daf503.md](fc-f4daf503.md); official file https://www.senat.ro/legis/PDF/2026/26L558FC.PDF
+- 2026-09-14: Document (CF): [cf-5ca6a968.md](cf-5ca6a968.md); official file https://www.senat.ro/legis/PDF/2026/26L558CF.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-09-14: Document (AJ): [aj-37a6ab4a.md](aj-37a6ab4a.md); official file https://www.senat.ro/legis/PDF/2026/26L558AJ.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-09-14: Document (SE1): [se1-3208cd44.md](se1-3208cd44.md); official file https://www.senat.ro/legis/PDF/2026/26L558SE1.PDF (its day is not given by the bill file: shown from the last stage held)
