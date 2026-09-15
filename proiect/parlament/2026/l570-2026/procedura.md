@@ -12,7 +12,8 @@ Initiator: Membri ai Parlamentului.
 
 - 2026-06-14: first record in the bill file
 - 2026-09-14: registered at the Chamber of Deputies
+- 2026-09-15: documents published: Raport comisie sesizată pe fond
 
 ## Documents
 
-- none held as text
+- 2026-09-15: Raport comisie sesizată pe fond (CR): [cr-5401ff28.md](cr-5401ff28.md); official file https://www.senat.ro/legis/PDF/2026/26L570CR.PDF
