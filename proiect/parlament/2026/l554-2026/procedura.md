@@ -12,6 +12,7 @@ Initiator: Membri ai Parlamentului.
 - 2026-09-01: documents published: Raport comisie sesizată pe fond
 - 2026-09-02: rejected by the Chamber of Deputies
 - 2026-09-03: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
+- 2026-09-16: documents published: Aviz comisie
 
 ## Documents
 
@@ -19,3 +20,4 @@ Initiator: Membri ai Parlamentului.
 - 2026-09-03: Adresă de înaintare a inițiativei (AD): [ad-efe3e71a.md](ad-efe3e71a.md); official file https://www.senat.ro/legis/PDF/2026/26L554AD.PDF
 - 2026-09-03: Forma inițiatorului (FG): [fg-b1317d3c.md](fg-b1317d3c.md); official file https://www.senat.ro/legis/PDF/2026/26L554FG.PDF
 - 2026-09-03: Expunere de motive (EM): [em-84ca398b.md](em-84ca398b.md); official file https://www.senat.ro/legis/PDF/2026/26L554EM.PDF
+- 2026-09-16: Aviz comisie (CA45): [ca45-30c94493.md](ca45-30c94493.md); official file https://www.senat.ro/legis/PDF/2026/26L554CA45.PDF
