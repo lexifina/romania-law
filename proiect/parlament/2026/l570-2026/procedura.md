@@ -13,6 +13,7 @@ Initiator: Membri ai Parlamentului.
 - 2026-06-14: first record in the bill file
 - 2026-09-14: registered at the Chamber of Deputies
 - 2026-09-15: documents published: Raport comisie sesizată pe fond
+- 2026-09-16: adopted by the Chamber of Deputies
 
 ## Documents
 
