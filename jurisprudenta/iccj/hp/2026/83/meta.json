@@ -1,0 +1,202 @@
+{
+ "key": "iccj-hp-83-2026",
+ "label": "Decizia ÎCCJ nr. 83/2026 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "83",
+ "date": "2026-06-22",
+ "year": "2026",
+ "heading": "DECIZIA nr. 83 din 22 iunie 2026",
+ "subtitle": "referitoare la interpretarea art. 20 alin. (1) și alin. (2) lit. a) din Legea nr. 140/2022",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "791",
+  "bis": false,
+  "date": "2026-09-17",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "582/1/2026",
+  "3.256/279/2019/a1"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 140/2022",
+    "number": "140",
+    "year": "2022",
+    "path": "lege/2022/140"
+   },
+   "articles": [
+    {
+     "art": "20",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "168",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Tribunalul Neamț - Secția I civilă în Dosarul nr. 3.256/279/2019/a1 privind pronunțarea unei hotărâri prealabile cu privire la următoarea chestiune de drept: Dacă, în interpretarea art. 20 alin. (1) și alin. (2) lit. a) din Legea nr. 140/2022, măsura de ocrotire a tutelei speciale poate fi dispusă pentru o durată de 15 ani, respectiv pe durata maximă prevăzută de art. 168 alin. (3) teza finală din Codul civil pentru care se poate dispune prelungirea măsurii, având în vedere că persoanele puse sub interdicție anterior intrării în vigoare a Legii nr. 140/2022 sunt asimilate „de plin drept“ de către legiuitor ca fiind persoane cu privire la care a fost instituită tutela specială, respectiv dacă sintagma de înlocuire a măsurii punerii sub interdicție cu măsura tutelei speciale prevăzută de art. 20 alin. (2) lit. a) din Legea nr. 140/2022 este similară, prin efectele juridice pe care le produce, noțiunii de prelungire a măsurii tutelei speciale, prevăzută de art. 168 alin. (3) teza finală din Codul civil, situație în care durata maximă permisă de lege este de maximum 15 ani, dat fiind că, față de persoanele puse sub interdicție anterior intrării în vigoare a Legii nr. 140/2022, nu se ia pentru prima dată o măsură de ocrotire.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 140/2022",
+    "number": "140",
+    "year": "2022",
+    "path": "lege/2022/140"
+   },
+   "articles": [
+    {
+     "art": "20",
+     "alin": [
+      "1",
+      "2",
+      "3"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 32
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "168",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "164",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "440",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "441",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 33
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "94",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "634",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "939",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2026-09-17",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/314588",
+  "text_sha256": "758e2b953a448b80298d46ffc983fa222ff4c94a007321402a3f9f743ee68ca1",
+  "catalogue_sha256": "758e2b953a448b80298d46ffc983fa222ff4c94a007321402a3f9f743ee68ca1",
+  "fetched": "2026-11-03T00:44:46Z",
+  "chars": 64616,
+  "portal_id": "314588",
+  "tip": "DECIZIE"
+ }
+}
