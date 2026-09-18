@@ -1,0 +1,322 @@
+{
+ "key": "dcc-420-2026",
+ "label": "Decizia CCR nr. 420/2026",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "420",
+ "date": "2026-04-30",
+ "year": "2026",
+ "heading": "DECIZIA nr. 420 din 30 aprilie 2026",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. II din Ordonanța Guvernului nr. 8/2008 pentru modificarea și completarea Legii nr. 138/1999 privind salarizarea și alte drepturi ale personalului militar din instituțiile publice de apărare națională, ordine publică și siguranță națională, precum și acordarea unor drepturi salariale personalului civil din aceste instituții și pentru modificarea Ordonanței Guvernului nr. 38/2003 privind salarizarea și alte drepturi ale polițiștilor și a Ordonanței Guvernului nr. 64/2006 privind salarizarea și alte drepturi ale funcționarilor publici cu statut special din sistemul administrației penitenciare și ale art. 38 alin. (2) lit. a) din Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "795",
+  "bis": false,
+  "date": "2026-09-18",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "6.855/63/2020",
+  "3.918D/2021",
+  "2.342D/2023",
+  "1.316/63/2020"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 8/2008",
+    "number": "8",
+    "year": "2008",
+    "path": "og/2008/8"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanței Guvernului nr. 64/2006",
+    "number": "64",
+    "year": "2006",
+    "path": "og/2006/64"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "38",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Sindicatul Polițiștilor din România „Diamantul“, cu sediul în București, strada Corbita nr. 39, sectorul 5, pentru membrul său Bogdan-Florin Enea, în Dosarul nr. 6.855/63/2020 al Tribunalului Hunedoara - Secția a II-a civilă, de contencios administrativ și fiscal și, în numele și pentru membrii săi Mircea Costache și alții, în Dosarul nr. 1.316/63/2020 al Tribunalului Dolj - Secția contencios administrativ și fiscal și constată că dispozițiile art. II din Ordonanța Guvernului nr. 8/2008 pentru modificarea și completarea Legii nr. 138/1999 privind salarizarea și alte drepturi ale personalului militar din instituțiile publice de apărare națională, ordine publică și siguranță națională, precum și acordarea unor drepturi salariale personalului civil din aceste instituții și pentru modificarea Ordonanței Guvernului nr. 38/2003 privind salarizarea și alte drepturi ale polițiștilor și a Ordonanței Guvernului nr. 64/2006 privind salarizarea și alte drepturi ale funcționarilor publici cu statut special din sistemul administrației penitenciare și ale art. 38 alin. (2) lit. a) din Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului Hunedoara - Secția a II-a civilă, de contencios administrativ și fiscal și Tribunalului Dolj - Secția contencios administrativ și fiscal și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 8/2008",
+    "number": "8",
+    "year": "2008",
+    "path": "og/2008/8"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanței Guvernului nr. 64/2006",
+    "number": "64",
+    "year": "2006",
+    "path": "og/2006/64"
+   },
+   "articles": [],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "12",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "38",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "73",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "j"
+     ]
+    },
+    {
+     "art": "1",
+     "alin": [
+      "4",
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "115",
+     "alin": [
+      "1",
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "47",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 330/2009",
+    "number": "330",
+    "year": "2009",
+    "path": "lege/2009/330"
+   },
+   "articles": [
+    {
+     "art": "48",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 49/2012",
+    "number": "49",
+    "year": "2012",
+    "path": "lege/2012/49"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "64",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 360/2002",
+    "number": "360",
+    "year": "2002",
+    "path": "lege/2002/360"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanței Guvernului nr. 38/2003",
+    "number": "38",
+    "year": "2003",
+    "path": "og/2003/38"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2026-09-18",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/314640",
+  "text_sha256": "58f15d4be665eb9237821bedaf4efe5ccbc233bbb3cc5227df341539191b5578",
+  "catalogue_sha256": "58f15d4be665eb9237821bedaf4efe5ccbc233bbb3cc5227df341539191b5578",
+  "fetched": "2026-11-03T00:44:41Z",
+  "chars": 26800,
+  "portal_id": "314640",
+  "tip": "DECIZIE"
+ }
+}
