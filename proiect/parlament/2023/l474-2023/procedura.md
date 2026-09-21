@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2024-04-04: sent for promulgation
 - 2024-08-12: returned for re-examination
 - 2024-11-18: adopted by the Senate
+- 2026-09-21: documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -33,3 +34,10 @@ Initiator: Guvernul României.
 - 2023-10-02: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L474AM.PDF
 - 2024-04-02: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L474AXS.PDF
 - 2024-04-02: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L474LP.PDF
+- 2026-09-21: Document (SC1): [sc1-dffd6202.md](sc1-dffd6202.md); official file https://www.senat.ro/legis/PDF/2023/23L474SC1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-09-21: Document (DC1): [dc1-1c0d7a93.md](dc1-1c0d7a93.md); official file https://www.senat.ro/legis/PDF/2023/23L474DC1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-09-21: Document (RC1): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L474RC1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-09-21: Document (AT): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L474AT.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-09-21: Document (X1): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L474X1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-09-21: Document (XD1): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L474XD1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-09-21: Document (SX1): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L474SX1.PDF (its day is not given by the bill file: shown from the last stage held)
