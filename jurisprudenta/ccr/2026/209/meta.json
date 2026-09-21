@@ -1,0 +1,200 @@
+{
+ "key": "dcc-209-2026",
+ "label": "Decizia CCR nr. 209/2026",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "209",
+ "date": "2026-03-05",
+ "year": "2026",
+ "heading": "DECIZIA nr. 209 din 5 martie 2026",
+ "subtitle": "referitoare la excepția de neconstituționalitate a sintagmei \" dar nu mai târziu de 2 ani\" din cuprinsul art. 46 alin. (7) din Legea nr. 317/2004 privind Consiliul Superior al Magistraturii",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "798",
+  "bis": false,
+  "date": "2026-09-21",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "3.339/1/2017",
+  "380D/2021"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 317/2004",
+    "number": "317",
+    "year": "2004",
+    "path": "lege/2004/317"
+   },
+   "articles": [
+    {
+     "art": "46",
+     "alin": [
+      "7"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Florentina Gabriela Barbir în Dosarul nr. 3.339/1/2017 al Curții de Apel București - Secția a VIII-a contencios administrativ și fiscal și constată că sintagma „dar nu mai târziu de 2 ani“ din cuprinsul art. 46 alin. (7) din Legea nr. 317/2004 privind Consiliul Superior al Magistraturii este constituțională în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Curții de Apel București - Secția a VIII-a contencios administrativ și fiscal și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2012",
+    "number": "24",
+    "year": "2012",
+    "path": "lege/2012/24"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": [
+      "7"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 317/2004",
+    "number": "317",
+    "year": "2004",
+    "path": "lege/2004/317"
+   },
+   "articles": [
+    {
+     "art": "46",
+     "alin": [
+      "7"
+     ],
+     "lit": null
+    },
+    {
+     "art": "45-1",
+     "alin": [
+      "7"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 16
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituției",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 305/2022",
+    "number": "305",
+    "year": "2022",
+    "path": "lege/2022/305"
+   },
+   "articles": [
+    {
+     "art": "47",
+     "alin": [
+      "7"
+     ],
+     "lit": null
+    },
+    {
+     "art": "96",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2026-09-21",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/314697",
+  "text_sha256": "9fd819745de310b2445596f529f2210ab29547070bd7d13f1e2d58a4733cc7ef",
+  "catalogue_sha256": "9fd819745de310b2445596f529f2210ab29547070bd7d13f1e2d58a4733cc7ef",
+  "fetched": "2026-11-03T00:44:36Z",
+  "chars": 18870,
+  "portal_id": "314697",
+  "tip": "DECIZIE"
+ }
+}
