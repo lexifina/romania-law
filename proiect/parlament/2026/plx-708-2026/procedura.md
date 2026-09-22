@@ -12,6 +12,7 @@ Initiator: Guvernul României.
 - 2026-07-22: documents published: Aviz Consiliul Economic și Social, Aviz Consiliul Legislativ
 - 2026-09-10: documents published: Aviz comisie
 - 2026-09-17: documents published: Aviz comisie
+- 2026-09-22: documents published: Aviz comisie
 
 ## Documents
 
@@ -22,3 +23,4 @@ Initiator: Guvernul României.
 - 2026-07-22: Aviz Consiliul Legislativ (LG): [lg-72741d2b.md](lg-72741d2b.md); official file https://www.senat.ro/legis/PDF/2026/26L542LG.PDF
 - 2026-09-10: Aviz comisie (CA60): [ca60-9edc32a3.md](ca60-9edc32a3.md); official file https://www.senat.ro/legis/PDF/2026/26L542CA60.PDF
 - 2026-09-17: Aviz comisie (CA19): [ca19-ee043811.md](ca19-ee043811.md); official file https://www.senat.ro/legis/PDF/2026/26L542CA19.PDF
+- 2026-09-22: Aviz comisie (CA41): [ca41-ba256217.md](ca41-ba256217.md); official file https://www.senat.ro/legis/PDF/2026/26L542CA41.PDF
