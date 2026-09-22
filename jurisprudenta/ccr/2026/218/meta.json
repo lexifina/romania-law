@@ -1,0 +1,675 @@
+{
+ "key": "dcc-218-2026",
+ "label": "Decizia CCR nr. 218/2026",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "218",
+ "date": "2026-03-12",
+ "year": "2026",
+ "heading": "DECIZIA nr. 218 din 12 martie 2026",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 35, art. 205 și art. 411 alin. (2) din Codul de procedură civilă, ale art. 1, art. 2, art. 7 alin. (1), art. 8, art. 10 și art. 18 din Legea contenciosului administrativ nr. 554/2004, ale art. 27, art. 173, art. 183 și art. 268 din Codul de procedură fiscală, ale art. 7, art. 95, art. 96, art. 107 și art. 490 din Codul fiscal, ale art. 5, art. 129, art. 139 și art. 196 din Ordonanța de urgență a Guvernului nr. 57/2019 privind Codul administrativ și ale art. 32, art. 50, art. 54, art. 56 și art. 65 din Legea nr. 350/2001 privind amenajarea teritoriului și urbanismul",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "804",
+  "bis": false,
+  "date": "2026-09-22",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "8.717/3/2020",
+  "1.635D/2020"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "35",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "205",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "411",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea contenciosului administrativ nr. 554/2004",
+    "number": "554",
+    "year": "2004",
+    "path": "lege/2004/554"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "18",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură fiscală",
+    "path": "lege/2015/207",
+    "slug": "legea-207-2015"
+   },
+   "articles": [
+    {
+     "art": "27",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "173",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "183",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "268",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul fiscal",
+    "path": "lege/2015/227",
+    "slug": "codul-fiscal"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "95",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "96",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "107",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "490",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 57/2019",
+    "number": "57",
+    "year": "2019",
+    "path": "oug/2019/57"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "129",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "139",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "196",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 350/2001",
+    "number": "350",
+    "year": "2001",
+    "path": "lege/2001/350"
+   },
+   "articles": [
+    {
+     "art": "32",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "50",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "54",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "56",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "65",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepția de neconstituționalitate a dispozițiilor art. 35, art. 205 și art. 411 alin. (2) din Codul de procedură civilă, ale art. 1, art. 2, art. 7 alin. (1), art. 8, art. 10 și art. 18 din Legea contenciosului administrativ nr. 554/2004, ale art. 27, art. 173, art. 183 și art. 268 din Codul de procedură fiscală, ale art. 7, art. 95, art. 96, art. 107 și art. 490 din Codul fiscal, ale art. 5, art. 129, art. 139 și art. 196 din Ordonanța de urgență a Guvernului nr. 57/2019 privind Codul administrativ și ale art. 32, art. 50, art. 54, art. 56 și art. 65 din Legea nr. 350/2001 privind amenajarea teritoriului și urbanismul, excepție ridicată de Societatea Calor - S.R.L. din București în Dosarul nr. 8.717/3/2020 al Tribunalului București - Secția a II-a contencios administrativ și fiscal.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului București - Secția a II-a contencios administrativ și fiscal și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "35",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "205",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "411",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "36",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea contenciosului administrativ nr. 554/2004",
+    "number": "554",
+    "year": "2004",
+    "path": "lege/2004/554"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "18",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "205",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "411",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură fiscală",
+    "path": "lege/2015/207",
+    "slug": "legea-207-2015"
+   },
+   "articles": [
+    {
+     "art": "27",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "173",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "183",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "268",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "18",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul fiscal",
+    "path": "lege/2015/227",
+    "slug": "codul-fiscal"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "95",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "96",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "107",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "490",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "27",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "173",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "183",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "268",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 57/2019",
+    "number": "57",
+    "year": "2019",
+    "path": "oug/2019/57"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "129",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "139",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "196",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "95",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "96",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "107",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "490",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 350/2001",
+    "number": "350",
+    "year": "2001",
+    "path": "lege/2001/350"
+   },
+   "articles": [
+    {
+     "art": "32",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "50",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "54",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "56",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "65",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "129",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "139",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "196",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituția",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea contenciosului administrativ nr. 544/2004",
+    "number": "544",
+    "year": "2004",
+    "path": "lege/2004/544"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2026-09-22",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/314749",
+  "text_sha256": "a9442451eacb3ab635de442fa5f6abaca189dcae08b5f883465d06e5f35ee3ec",
+  "catalogue_sha256": "a9442451eacb3ab635de442fa5f6abaca189dcae08b5f883465d06e5f35ee3ec",
+  "fetched": "2026-11-03T00:44:36Z",
+  "chars": 28697,
+  "portal_id": "314749",
+  "tip": "DECIZIE"
+ }
+}
