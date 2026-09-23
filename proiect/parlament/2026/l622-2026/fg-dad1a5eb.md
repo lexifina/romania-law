@@ -1,0 +1,39 @@
+ROMANIA
+PR0IECT DE LEGE
+pentni declararea anului 2027 drept „Anul cultural lon Voicu"
+Parlamentul României adoptă prezenta lege.
+Art. 1
+Se declară anul 2027 drept „Anul cultural lon Voicu", pentru comemorarea a 30 de
+ani  de  la  dispariția  marelui  violonist  și  dirijor  român  lon  Voicu,  personalitate
+marcantă a culturii muzicale românești și universale.
+Art. 2
+(1) Autoritățile administrației publice centrale și locale, instituțiile publice de cultură
+din  țară  și   din  străinătate,   instituțiile   de  învățământ,   precum   și   organizațiile
+neguvemamentale pot organiza sau sprijini logistic și financiar manifestări culturale,
+artistice și educaționale dedicate vieții și operei lui lon voicu.
+(2) Manifestările prevăzute la alin. ( 1 ) pot include:
+a) concerte aniversare, recitalui și festivaluri muzicale;
+b) festivalui și concusui muzicale;
+c) expoziții documentare, conferințe, colocvii și simpozioane;
+d) programe educaționale dedicate tinerilor muzicieni;
+e) emisiuni, publicații și programe de promovare culturală;
+f) organizarea ediției a lI-a a Concusului lntemațional de Vioară „Ion Voicu".
+
+Art. 3
+Ministerul culturii, în colaborare cu instituțiile publice aflate ^m coordonarea sau
+sub autoritatea sa sau cu alte organizații neguvemamentale, poate elabora un
+program național de manifestări dedicate anului lon Voicu.
+Art.4
+Societatea Română de Radiodifiiziune și Societatea Română de Televiziune pot
+include în programele lor emisiuni, documentare și producții culturale dedicate
+vieții și activității lui lon Voicu.
+Art. 5
+Finanțarea cheltuielilor aferente manifestărilor prevăzute de prezenta lege se
+asigură din:
+a) bugetele autorităților și instituțiilor publice implicate, ^m limita fondurilor
+aprobate anual;
+b) venitui proprii;
+c) sponsorizări, donații, parteneriate și alte surse legal constituite, potrivit legii.
+Art. 6
+Prezenta lege intră ^m vigoare la data publicării ^m Monitorul Oficial al României,
+Partea 1.
