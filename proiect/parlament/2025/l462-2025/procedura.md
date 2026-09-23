@@ -15,6 +15,7 @@ Initiator: Membri ai Parlamentului.
 - 2025-11-13: documents published: Aviz comisie
 - 2026-02-02: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților
 - 2026-02-09: registered at the Chamber of Deputies
+- 2026-09-23: documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -28,3 +29,7 @@ Initiator: Membri ai Parlamentului.
 - 2025-11-13: Aviz comisie (CA16): [ca16-0a7350a5.md](ca16-0a7350a5.md); official file https://www.senat.ro/legis/PDF/2025/25L462CA16.PDF
 - 2026-02-02: Forma adoptată de Senat (FS): [fs-f3322b25.md](fs-f3322b25.md); official file https://www.senat.ro/legis/PDF/2025/25L462FS.PDF
 - 2026-02-02: Adresă către Camera Deputaților (AM): [am-c3c5e9a6.md](am-c3c5e9a6.md); official file https://www.senat.ro/legis/PDF/2025/25L462AM.PDF
+- 2026-09-23: Document (CF): [cf-83cd8e9c.md](cf-83cd8e9c.md); official file https://www.senat.ro/legis/PDF/2025/25L462CF.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-09-23: Document (CC): [cc-ebb7f101.md](cc-ebb7f101.md); official file https://www.senat.ro/legis/PDF/2025/25L462CC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-09-23: Document (CO): [co-f7380e6d.md](co-f7380e6d.md); official file https://www.senat.ro/legis/PDF/2025/25L462CO.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-09-23: Document (AG1): not held as text; official file https://www.senat.ro/legis/PDF/2025/25L462AG1.PDF (its day is not given by the bill file: shown from the last stage held)
