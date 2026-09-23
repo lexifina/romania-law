@@ -17,6 +17,7 @@ Initiator: Membri ai Parlamentului.
 - 2026-08-12: adopted by the Chamber of Deputies; documents published: Forma adoptată de Camera Deputaților, Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2026-08-14: sent for promulgation
 - 2026-08-28: promulgated, becomes Legea nr. 179/2026; published in the Monitorul Oficial; documents published: Decret de promulgare, Forma promulgată
+- 2026-09-23: documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -37,3 +38,6 @@ Initiator: Membri ai Parlamentului.
 - 2026-08-12: Forma trimisă la promulgare (LP): [lp-b53bf934.md](lp-b53bf934.md); official file https://www.senat.ro/legis/PDF/2026/26L456LP.PDF
 - 2026-08-28: Decret de promulgare (DP): [dp-8e48e0cf.md](dp-8e48e0cf.md); official file https://www.senat.ro/legis/PDF/2026/26L456DP.PDF
 - 2026-08-28: Forma promulgată (FP): [fp-5b0f033b.md](fp-5b0f033b.md); official file https://www.senat.ro/legis/PDF/2026/26L456FP.PDF
+- 2026-09-23: Document (AG1): [ag1-27b9bcd2.md](ag1-27b9bcd2.md); official file https://www.senat.ro/legis/PDF/2026/26L456AG1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-09-23: Document (CF): [cf-95e3764c.md](cf-95e3764c.md); official file https://www.senat.ro/legis/PDF/2026/26L456CF.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-09-23: Document (CC): [cc-0d3fce7f.md](cc-0d3fce7f.md); official file https://www.senat.ro/legis/PDF/2026/26L456CC.PDF (its day is not given by the bill file: shown from the last stage held)
