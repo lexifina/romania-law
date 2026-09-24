@@ -1,0 +1,6 @@
+# ANEXĂ la regulament
+DECLARAȚIE PE PROPRIA RĂSPUNDERE
+Subsemnatul(a),.............., având funcția de............, în cadrul.........., CNP..........., cu domiciliul în................., str.............. nr....., bl......., sc......, et....., ap......, județul/sectorul........................., cunoscând prevederile art. 326 - Falsul în declarații din Legea nr. 286/2009 privind Codul penal, cu modificările și completările ulterioare, declar următoarele: - optez pentru acordarea voucherelor de vacanță în cuantumul și condițiile prevăzute la art. 1 alin. (2) din Ordonanța de urgență a Guvernului nr. 8/2009 privind acordarea voucherelor de vacanță, aprobată cu modificări și completări prin Legea nr. 94/2014, cu modificările și completările ulterioare.
+Data........................
+Semnătura...................
+-----
