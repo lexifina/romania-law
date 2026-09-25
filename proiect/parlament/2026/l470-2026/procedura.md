@@ -17,6 +17,7 @@ Initiator: Membri ai Parlamentului.
 - 2026-09-08: adopted by the Senate; documents published: Forma adoptată de Senat
 - 2026-09-14: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2026-09-16: sent for promulgation
+- 2026-09-25: promulgated, becomes Legea nr. 189/2026; published in the Monitorul Oficial; documents published: Document (day not given by the bill file), Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -27,3 +28,8 @@ Initiator: Membri ai Parlamentului.
 - 2026-09-08: Forma adoptată de Senat (FS): [fs-2ed48e2c.md](fs-2ed48e2c.md); official file https://www.senat.ro/legis/PDF/2026/26L470FS.PDF
 - 2026-09-14: Adresă privind sesizarea CCR (AXS): [axs-67884d70.md](axs-67884d70.md); official file https://www.senat.ro/legis/PDF/2026/26L470AXS.PDF
 - 2026-09-14: Forma trimisă la promulgare (LP): [lp-ebcd1cec.md](lp-ebcd1cec.md); official file https://www.senat.ro/legis/PDF/2026/26L470LP.PDF
+- 2026-09-25: Document (AT): [at-2c8e7a81.md](at-2c8e7a81.md); official file https://www.senat.ro/legis/PDF/2026/26L470AT.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-09-25: Document (S1): [s1-10c4328e.md](s1-10c4328e.md); official file https://www.senat.ro/legis/PDF/2026/26L470S1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-09-25: Document (AL): [al-6ae12adb.md](al-6ae12adb.md); official file https://www.senat.ro/legis/PDF/2026/26L470AL.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-09-25: Decret de promulgare (DP): [dp-cf9c3393.md](dp-cf9c3393.md); official file https://www.senat.ro/legis/PDF/2026/26L470DP.PDF
+- 2026-09-25: Forma promulgată (FP): [fp-57fa01ff.md](fp-57fa01ff.md); official file https://www.senat.ro/legis/PDF/2026/26L470FP.PDF
