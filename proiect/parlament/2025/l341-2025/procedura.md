@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2026-09-16: adopted by the Chamber of Deputies
 - 2026-09-21: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2026-09-23: sent for promulgation
+- 2026-09-25: promulgated, becomes Legea nr. 188/2026; published in the Monitorul Oficial; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -36,3 +37,5 @@ Initiator: Guvernul României.
 - 2025-10-27: Adresă către Camera Deputaților (AM): [am-7636c2dd.md](am-7636c2dd.md); official file https://www.senat.ro/legis/PDF/2025/25L341AM.PDF
 - 2026-09-21: Adresă privind sesizarea CCR (AXS): [axs-99ba8e6a.md](axs-99ba8e6a.md); official file https://www.senat.ro/legis/PDF/2025/25L341AXS.PDF
 - 2026-09-21: Forma trimisă la promulgare (LP): [lp-f97927ce.md](lp-f97927ce.md); official file https://www.senat.ro/legis/PDF/2025/25L341LP.PDF
+- 2026-09-25: Decret de promulgare (DP): [dp-75d58f47.md](dp-75d58f47.md); official file https://www.senat.ro/legis/PDF/2025/25L341DP.PDF
+- 2026-09-25: Forma promulgată (FP): [fp-fc262526.md](fp-fc262526.md); official file https://www.senat.ro/legis/PDF/2025/25L341FP.PDF
