@@ -1,0 +1,8 @@
+# Anexa nr. 5 (Anexa nr. 7 la procedură)
+EVIDENȚA persoanelor impozabile radiate, ale căror deconturi cu sume negative de TVA cu opțiune de rambursare au rămas nesoluționate la data radierii
+CIF radiat Data radierii DNOR aflat în curs de soluționare la data radierii DNOR a fost încadrat pentru soluționare, fără efectuarea inspecției fiscale anticipate DNOR a fost încadrat pentru soluționare, cu efectuarea inspecției fiscale anticipate Stingere Referat prin care se propune încheierea procedurii de soluționare a DNOR
+Decizia de rambursare a TVA Adresa de transmitere la IF Suspendare Decizia de rambursare a TVA
+Nr. DNOR Data DNOR Suma negativă de TVA solicitată la rambursare Nr. Data
+Suma Nr. Data
+Data începerii Data încetării Nr. Data Suma Compensare Restituire Data efectuării operațiunii în trezorerie
+Nr. Data
