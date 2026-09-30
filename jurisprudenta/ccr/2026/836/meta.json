@@ -1,0 +1,266 @@
+{
+ "key": "dcc-836-2026",
+ "label": "Decizia CCR nr. 836/2026",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "836",
+ "date": "2026-07-09",
+ "year": "2026",
+ "heading": "DECIZIA nr. 836 din 9 iulie 2026",
+ "subtitle": "referitoare la excepția de neconstituționalitate a sintagmei \"nivelul veniturilor salariale\" din cuprinsul dispozițiilor art. 11 alin. (4) raportate la cele ale art. 22 din Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "830",
+  "bis": false,
+  "date": "2026-09-30",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "1.543/104/2023",
+  "1.745D/2024"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "22",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "Admite excepția de neconstituționalitate ridicată de Paul Claudiu Băiașu, prin Sindicatul din Administrația Publică Olt „Consilium“ din Slatina, în Dosarul nr. 1.543/104/2023* al Tribunalului Olt - Secția a II-a civilă, de contencios administrativ și fiscal și constată că dispozițiile art. 11 alin. (4) din Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice sunt neconstituționale în măsura în care sintagma „nivelul veniturilor salariale“ cuprinsă în acestea se referă și la sporul pentru persoanele cu handicap, prevăzut de art. 22 din Legea-cadru nr. 153/2017.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică celor două Camere ale Parlamentului, Guvernului și Tribunalului Olt - Secția a II-a civilă, de contencios administrativ și fiscal și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "22",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": null,
+     "lit": [
+      "m"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 21
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 751/2018",
+    "number": "751",
+    "year": "2018",
+    "path": "hg/2018/751"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenției",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 221/2010",
+    "number": "221",
+    "year": "2010",
+    "path": "lege/2010/221"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "50",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "22",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 448/2006",
+    "number": "448",
+    "year": "2006",
+    "path": "lege/2006/448"
+   },
+   "articles": [
+    {
+     "art": "86",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2026-09-30",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/314923",
+  "text_sha256": "3dc02db43e7818ead1aacbf16ca493aff579f3a0d4a23f3cb7c3ff080472e2d1",
+  "catalogue_sha256": "3dc02db43e7818ead1aacbf16ca493aff579f3a0d4a23f3cb7c3ff080472e2d1",
+  "fetched": "2026-11-03T00:44:25Z",
+  "chars": 31231,
+  "portal_id": "314923",
+  "tip": "DECIZIE"
+ }
+}
