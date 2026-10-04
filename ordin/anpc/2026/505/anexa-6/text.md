@@ -1,0 +1,1 @@
+# Anexa nr. 6 (Anexa nr. 2.5 la Ordinul nr. 72/2010)

@@ -1,0 +1,1 @@
+# Anexa nr. 23 (Anexa nr. 2.22 la Ordinul nr. 72/2010)
