@@ -1,0 +1,165 @@
+{
+ "key": "iccj-scaf-1413-2026",
+ "label": "Decizia ÎCCJ nr. 1413/2026 (SCAF)",
+ "court": "iccj",
+ "kind": "alta",
+ "panel": "scaf",
+ "number": "1413",
+ "date": "2026-03-19",
+ "year": "2026",
+ "heading": "DECIZIA nr. 1.413 din 19 martie 2026",
+ "subtitle": "referitoare la art. I pct. 9 din Ordinul ministrului transporturilor și infrastructurii nr. 132/2025",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - SECȚIA DE CONTENCIOS ADMINISTRATIV ȘI FISCAL",
+ "mo": {
+  "number": "843",
+  "bis": false,
+  "date": "2026-10-06",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "subjects": [
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul ministrului transporturilor și infrastructurii nr. 132/2025",
+    "number": "132",
+    "year": "2025"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 27/2011",
+    "number": "27",
+    "year": "2011",
+    "path": "og/2011/27"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Admite recursul formulat de recurentele-reclamante A SRL, B SRL, C SRL, D SRL, E SRL, F SRL, G SRL și H SRL împotriva Sentinței nr. 151 din 28 mai 2025 a Curții de Apel I. - Secția contencios administrativ și fiscal.",
+  "Casează sentința recurată și, în rejudecare: Admite acțiunea reclamantelor formulată în contradictoriu cu pârâtul Ministerul Transporturilor și Infrastructurii.",
+  "Anulează art. I pct. 9 din Ordinul ministrului transporturilor și infrastructurii nr. 132/2025, publicat în Monitorul Oficial al României, Partea I, nr. 190 din 5 martie 2025, în privința dispoziției prin care a fost introdus art. 55^1 alin. (10) în Normele metodologice privind aplicarea prevederilor referitoare la organizarea și efectuarea transporturilor rutiere și a activităților conexe acestora stabilite prin Ordonanța Guvernului nr. 27/2011 privind transporturile rutiere, aprobate prin Ordinul ministrului transporturilor și infrastructurii nr. 980/2011.",
+  "Definitivă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "488",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "394",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul ministrului transporturilor și infrastructurii nr. 132/2025",
+    "number": "132",
+    "year": "2025"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 27/2011",
+    "number": "27",
+    "year": "2011",
+    "path": "og/2011/27"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "36",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 448/2006",
+    "number": "448",
+    "year": "2006",
+    "path": "lege/2006/448"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea contenciosului administrativ nr. 554/2004",
+    "number": "554",
+    "year": "2004",
+    "path": "lege/2004/554"
+   },
+   "articles": [
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2026-10-06",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/315042",
+  "text_sha256": "c008d4ee6fd3edd74b1c2e17efb9b1080ac38b76e17fc7615ea733738752ba2b",
+  "catalogue_sha256": "c008d4ee6fd3edd74b1c2e17efb9b1080ac38b76e17fc7615ea733738752ba2b",
+  "fetched": "2026-11-03T00:44:16Z",
+  "chars": 17982,
+  "portal_id": "315042",
+  "tip": "DECIZIE"
+ }
+}
