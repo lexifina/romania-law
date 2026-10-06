@@ -1,0 +1,17 @@
+# Propunere legislativă L604/2026
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Propunere legislativă pentru modificarea art.7 alin.(1) din Ordonanța de urgență a Guvernului nr.111/2010 privind concediul și indemnizația lunară pentru creșterea copiilor
+
+Initiator: Membri ai Parlamentului.
+
+## Stages published so far
+
+- 2026-10-06: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
+
+## Documents
+
+- 2026-10-06: Adresă de înaintare a inițiativei (AD): [ad-a4ca7c91.md](ad-a4ca7c91.md); official file https://www.senat.ro/legis/PDF/2026/26L604AD.PDF
+- 2026-10-06: Forma inițiatorului (FG): [fg-72f120aa.md](fg-72f120aa.md); official file https://www.senat.ro/legis/PDF/2026/26L604FG.PDF
+- 2026-10-06: Expunere de motive (EM): [em-0bdd5fed.md](em-0bdd5fed.md); official file https://www.senat.ro/legis/PDF/2026/26L604EM.PDF
