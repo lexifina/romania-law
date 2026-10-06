@@ -1,0 +1,348 @@
+{
+ "key": "dcc-48-2026",
+ "label": "Decizia CCR nr. 48/2026",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "48",
+ "date": "2026-01-20",
+ "year": "2026",
+ "heading": "DECIZIA nr. 48 din 20 ianuarie 2026",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 101 din Legea nr. 227/2015 privind Codul fiscal, în redactarea anterioară intrării în vigoare a Ordonanței de urgență a Guvernului nr. 11/2025 pentru modificarea Legii nr. 227/2015 privind Codul fiscal",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "842",
+  "bis": false,
+  "date": "2026-10-06",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "devenita-inadmisibila"
+ ],
+ "dossiers": [
+  "265/91/2024",
+  "2.498D/2024",
+  "193/85/2024",
+  "111/88/2024",
+  "78/117/2024",
+  "4.822/3/2024",
+  "1.289/63/2024",
+  "1.371/85/2024",
+  "10.117/3/2024",
+  "422/120/2024"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 227/2015",
+    "number": "227",
+    "year": "2015",
+    "path": "lege/2015/227"
+   },
+   "articles": [
+    {
+     "art": "101",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 11/2025",
+    "number": "11",
+    "year": "2025",
+    "path": "oug/2025/11"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca devenită inadmisibilă, excepția de neconstituționalitate a dispozițiilor art. 101 din Legea nr. 227/2015 privind Codul fiscal, în redactarea anterioară intrării în vigoare a Ordonanței de urgență a Guvernului nr. 11/2025 pentru modificarea Legii nr. 227/2015 privind Codul fiscal, excepție ridicată de Ninel Bajanaru în Dosarul nr. 265/91/2024 al Tribunalului Vrancea - Secția I civilă, de Ion Andrei și alții în Dosarul nr. 193/85/2024 al Tribunalului Vâlcea - Secția I civilă, de Viorel Pop și alții, precum și de Pompilia-Dana Stana în dosarele nr. 128/84/2024 și nr. 143/84/2024 ale Tribunalului Sălaj - Secția civilă, de Melita Florut și alții, precum și de Maria Cecilia Rimili în dosarele nr. 80/83/2024 și nr. 155/83/2024 ale Tribunalului Satu Mare – Secția I civilă, de Nicoleta Stefanov, de Petre Nedelcu, de Marin Chelu, de Gheorghe Tatu, precum și de Alexa-Caterina Nuță, în dosarele nr. 678/3/2024, nr. 3.759/3/2024, nr. 4.418/3/2024, nr. 4.588/3/2024 și nr. 8.740/3/2024 ale Tribunalului București - Secția a VIII-a conflicte de muncă și asigurări sociale, de Daniela Bocăneală și alții în Dosarul nr. 111/88/2024 al Tribunalului Tulcea - Secția civilă, de contencios administrativ și fiscal, de Monica-Corina Sălăgean și alții, precum și de Viorica Maria Pop în dosarele nr. 200/83/2024 și nr. 296/83/2024 ale Tribunalului Satu Mare - Secția I civilă, de Claudiu Popescu-Elizeu, de Cezar Ciuchea, de Gheorghe Negrescu și alții, precum și de Florian Răpan în dosarele nr. 2.696/3/2023, nr. 4.650/3/2024, nr. 9.286/3/2024 și nr. 4.074/3/2024 ale Tribunalului București - Secția a VIII-a conflicte de muncă și asigurări sociale, de Claudia Mirela Idriceanu în Dosarul nr. 78/117/2024 al Tribunalului Cluj - Secția mixtă de contencios administrativ și fiscal, de conflicte de muncă și asigurări sociale, de Maricel-Gheorghe Stavarache și de Florentina Răducu în dosarele nr. 161/122/2024 și nr. 185/122/2024 ale Tribunalului Giurgiu - Secția civilă, de Cătălin Gabriel Bădoiu și alții în Dosarul nr. 4.822/3/2024 al Tribunalului București - Secția a VIII-a conflicte de muncă și asigurări sociale, de Gheorghe Vasilescu și de Grigore Ureche în dosarele nr. 581/87/2024 și nr. 580/87/2024 ale Tribunalului Teleorman - Secția conflicte de muncă, asigurări sociale și contencios administrativ și fiscal, de Marian Pomenea, precum și de Speranța-Elena Defta și Lucian Netejoru în dosarele nr. 192/122/2024 și nr. 164/122/2024 ale Tribunalului Giurgiu - Secția civilă, de Carmen Bancu, de Stelian Coscai, precum și de Constantin Brânzan și alții în dosarele nr. 4.757/3/2024, nr. 4.870/3/2024 și nr. 3.146/3/2024 ale Tribunalului București - Secția a VIII-a conflicte de muncă și asigurări sociale, de Vasile Goja, de Iuliana Colceriu și alții, precum și de Felicia Mircea și alții în dosarele nr. 86/117/2024, nr. 467/117/2024 și nr. 256/117/2024 ale Tribunalului Cluj - Secția mixtă de contencios administrativ și fiscal, de conflicte de muncă și asigurări sociale, de Dragoș Icleanu, de Mariean Florin Dumitrache, precum și de Dan Dumbrăveanu în dosarele nr. 3.751/3/2024, nr. 5.812/3/2024 și nr. 5.339/3/2024 ale Tribunalului București - Secția a VIII-a conflicte de muncă și asigurări sociale, de Alexandru Băloi în Dosarul nr. 1.289/63/2024 al Tribunalului Dolj - Secția conflicte de muncă și asigurări sociale, de Maria Dejugan și alții în Dosarul nr. 1.371/85/2024 al Tribunalului Sibiu - Secția I civilă, de Viorel-Adrian Pelin și alții în Dosarul nr. 10.117/3/2024 al Tribunalului București - Secția a VIII-a conflicte de muncă și asigurări sociale, de Octavian Drăgan în Dosarul nr. 422/120/2024 al Tribunalului Dâmbovița - Secția I civilă, de Tereza Burlacu și alții în Dosarul nr. 7.306/3/2024 al Tribunalului București - Secția a VIII-a conflicte de muncă și asigurări sociale, de Ileana Mihai-Coman și alții în Dosarul nr. 140/83/2024 al Tribunalului Satu Mare - Secția I civilă, de Daniela Pruteanu și alții în Dosarul nr. 182/99/2024 al Tribunalului Vaslui - Secția civilă, de Ana Aldea și alții în Dosarul nr. 160/117/2024 al Tribunalului Cluj - Secția mixtă de contencios administrativ și fiscal, de conflicte de muncă și asigurări sociale, de Anca Lavinia Filipescu, de Monica Cornea, precum și de Alina Irina Avram în dosarele nr. 118/122/2024, nr. 184/122/2024 și nr. 39/122/2024 ale Tribunalului Giurgiu - Secția civilă, de Aurel Dumbravă și alții, de Nelu Bîrlă, de Cornel-Adrian Ioniță, de Mihaela Alina Dragu, de Adriana Chioseaua, de Monica Boboc și alții, de Eduardo Resteanu, de Vasile Dănilă, de Mircea Marius Dană și de Constantin Batu în dosarele nr. 955/3/2024, nr. 4.416/3/2024, nr. 5.271/3/2024, nr. 11.011/3/2024, nr. 3.238/3/2024, nr. 3.533/3/2024, nr. 5.027/3/2024, nr. 5.112/3/2024, nr. 5.394/3/2024 și nr. 5.453/3/2024 ale Tribunalului București - Secția a VIII-a conflicte de muncă și asigurări sociale, de Cristina Ioana Kelemen în Dosarul nr. 91/117/2024 al Tribunalului Cluj - Secția mixtă de contencios administrativ și fiscal, de conflicte de muncă și asigurări sociale, de Corina Cornelia Mîndrilă în Dosarul nr. 7.908/3/2024 al Tribunalului București - Secția a VIII-a conflicte de muncă și asigurări sociale, de Gheorghe Negraia în Dosarul nr. 1.635/118/2024 al Tribunalului Constanța - Secția I civilă, de Aglaia Oancea în Dosarul nr. 471/99/2024 al Tribunalului Iași – Secția I civilă, de Mineta Băleanu și de Nastasia Cuculis în dosarele nr. 360/88/2024 și nr. 122/88/2024 ale Tribunalului Tulcea - Secția civilă, de contencios administrativ și fiscal, de Amalia Belu și alții în Dosarul nr. 3.188/63/2024 al Tribunalului Dolj - Secția conflicte de muncă și asigurări sociale, de Teodora Niță în Dosarul nr. 6.913/3/2024 al Tribunalului București - Secția a VIII-a conflicte de muncă și asigurări sociale, de Cristina Izabela Colceag și Lelia Marusciac în Dosarul nr. 2.287/63/2024 al Tribunalului Dolj - Secția conflicte de muncă și asigurări sociale, de Gheorghe-Marius Costache în Dosarul nr. 468/120/2024 al Tribunalului Dâmbovița - Secția I civilă, de Tatiana Marcu și alții în Dosarul nr. 247/85/2024 al Tribunalului Sibiu - Secția I civilă, de Carmen Maria Conț, de Livia Marcela Mango, de Ioana Cristina Morar, de Monica Nicola, de Marta Carmen Vitos, de Liviu Ungur, precum și de Corina Corovei în dosarele nr. 70/117/2024, nr. 80/117/2024, nr. 84/117/2024, nr. 85/117/2024, nr. 87/117/2024, nr. 88/117/2024 și nr. 199/117/2024 ale Tribunalului Cluj - Secția mixtă de contencios administrativ și fiscal, de conflicte de muncă și asigurări sociale, de Cezarian Buga în Dosarul nr. 8.312/3/2024 al Tribunalului București - Secția a VIII-a conflicte de muncă și asigurări sociale, de Elena Maria Tartler și alții în Dosarul nr. 864/119/2024 al Tribunalului Covasna - Secția civilă, de Delia Purice în Dosarul nr. 81/117/2024 al Tribunalului Cluj - Secția mixtă de contencios administrativ și fiscal, de conflicte de muncă și asigurări sociale, de Lucian Bunea și alții, precum și de Ion Tătaru în dosarele nr. 1.394/63/2024 și nr. 1.721/63/2024 ale Tribunalului Dolj - Secția conflicte de muncă și asigurări sociale, de Adina Nicoleta Stănoiu, de Nicu Jidovu, de Marius Dinu, precum și de Camelia Grațiela Costea în dosarele nr. 10.806/3/2024, nr. 12.738/3/2024, nr. 15.073/3/2024 și nr. 15.907/3/2024 ale Tribunalului București - Secția a VIII-a conflicte de muncă și asigurări sociale, de Alina Cristina Atomei, de Lăcrămioara Holca, de Florina Piloș, de Monica Calimandruc, de Titiana Ungureanu, de Dumitru Croitoru, de Vasile Viorel Porumb, de Maria Pălimaru, precum și de Aurel Simion în dosarele nr. 81/40/2024, nr. 536/40/2024, nr. 854/40/2024, nr. 855/40/2024, nr. 856/40/2024, nr. 857/40/2024, nr. 858/40/2024, nr. 859/40/2024 și nr. 860/40/2024 ale Tribunalului Botoșani - Secția I civilă, de Nadina Magdalena Spînu și de Rozalia Ana Lazăr în dosarele nr. 14.265/3/2024 și nr. 7.998/3/2024 ale Tribunalului București - Secția a VIII-a conflicte de muncă și asigurări sociale, de Anca Adriana Pop în Dosarul nr. 90/117/2024 al Tribunalului Cluj - Secția mixtă de contencios administrativ și fiscal, de conflicte de muncă și asigurări sociale, de Paraschiva Belulescu și Onița Dumitru, precum și de Leontina Putere și Claudia Carmen Măriuță în dosarele nr. 2.933/63/2024 și nr. 3.204/63/2024 ale Tribunalului Dolj - Secția conflicte de muncă și asigurări sociale, de Ștefania Petre și Maria-Sabina Oprescu, precum și de Anca Mădălina Alexandrescu în dosarele nr. 12.677/3/2024 și nr. 13.252/3/2024 ale Tribunalului București - Secția a VIII-a conflicte de muncă și asigurări sociale, de Veronica-Violeta Firan și alții în Dosarul nr. 2.531/63/2024 al Tribunalului Dolj - Secția conflicte de muncă și asigurări sociale, de Gelu Chiuzbaian în Dosarul nr. 2.867/108/2024 al Tribunalului Arad - Secția a III-a contencios administrativ și fiscal, litigii de muncă și asigurări sociale, de Ioan Ion, de Viorel G. Popa, precum și de Vasile Cocoșilă în dosarele nr. 346/115/2024, nr. 347/115/2024 și nr. 349/115/2024 ale Tribunalului Caraș-Severin - Secția I civilă, precum și de Claudia Doina Vinersar în Dosarul nr. 1.879/102/2024/a1 al Tribunalului Mureș - Secția civilă.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului Vrancea - Secția I civilă, Tribunalului Vâlcea - Secția I civilă, Tribunalului Sălaj - Secția civilă, Tribunalului Satu Mare - Secția I civilă, Tribunalului București - Secția a VIII-a conflicte de muncă și asigurări sociale, Tribunalului Tulcea - Secția civilă, de contencios administrativ și fiscal, Tribunalului Cluj - Secția mixtă de contencios administrativ și fiscal, de conflicte de muncă și asigurări sociale, Tribunalului Giurgiu - Secția civilă, Tribunalului Teleorman - Secția conflicte de muncă, asigurări sociale și contencios administrativ și fiscal, Tribunalului Dolj - Secția conflicte de muncă și asigurări sociale, Tribunalului Sibiu - Secția I civilă, Tribunalului Dâmbovița - Secția I civilă, Tribunalului Vaslui - Secția civilă, Tribunalului Constanța - Secția I civilă, Tribunalului Iași - Secția I civilă, Tribunalului Covasna - Secția civilă, Tribunalului Botoșani - Secția I civilă, Tribunalului Arad - Secția a III-a contencios administrativ și fiscal, litigii de muncă și asigurări sociale, Tribunalului Caraș-Severin - Secția I civilă și Tribunalului Mureș - Secția civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 227/2015",
+    "number": "227",
+    "year": "2015",
+    "path": "lege/2015/227"
+   },
+   "articles": [
+    {
+     "art": "101",
+     "alin": [
+      "2",
+      "3",
+      "8"
+     ],
+     "lit": [
+      "b",
+      "c",
+      "a"
+     ]
+    },
+    {
+     "art": "64",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "100",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 82
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 282/2023",
+    "number": "282",
+    "year": "2023",
+    "path": "lege/2023/282"
+   },
+   "articles": [
+    {
+     "art": "XVIII",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 115/2023",
+    "number": "115",
+    "year": "2023",
+    "path": "oug/2023/115"
+   },
+   "articles": [
+    {
+     "art": "LXXII",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "56",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "139",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "147",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legile nr. 303/2004",
+    "number": "303",
+    "year": "2004",
+    "path": "lege/2004/303"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "4",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "42",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 11/2025",
+    "number": "11",
+    "year": "2025",
+    "path": "oug/2025/11"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "38",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "61",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "62",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "63",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2026-10-06",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/315033",
+  "text_sha256": "b9d614790413301031c7ee2e29b54329ee09b267d0ff4e5f061c12ba750287a7",
+  "catalogue_sha256": "b9d614790413301031c7ee2e29b54329ee09b267d0ff4e5f061c12ba750287a7",
+  "fetched": "2026-11-03T00:44:16Z",
+  "chars": 99191,
+  "portal_id": "315033",
+  "tip": "DECIZIE"
+ }
+}
