@@ -17,6 +17,7 @@ Initiator: Membri ai Parlamentului.
 - 2026-09-08: adopted by the Senate; documents published: Forma adoptată de Senat
 - 2026-09-14: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2026-09-21: sent for promulgation
+- 2026-10-07: promulgated, becomes Legea nr. 194/2026; published in the Monitorul Oficial; documents published: Document (day not given by the bill file), Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -27,3 +28,6 @@ Initiator: Membri ai Parlamentului.
 - 2026-09-08: Forma adoptată de Senat (FS): [fs-69dcb770.md](fs-69dcb770.md); official file https://www.senat.ro/legis/PDF/2026/26L380FS.PDF
 - 2026-09-14: Adresă privind sesizarea CCR (AXS): [axs-a5d02dfa.md](axs-a5d02dfa.md); official file https://www.senat.ro/legis/PDF/2026/26L380AXS.PDF
 - 2026-09-14: Forma trimisă la promulgare (LP): [lp-06ce2eab.md](lp-06ce2eab.md); official file https://www.senat.ro/legis/PDF/2026/26L380LP.PDF
+- 2026-10-07: Document (AL): [al-fb4c8d72.md](al-fb4c8d72.md); official file https://www.senat.ro/legis/PDF/2026/26L380AL.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-10-07: Decret de promulgare (DP): [dp-c061dad2.md](dp-c061dad2.md); official file https://www.senat.ro/legis/PDF/2026/26L380DP.PDF
+- 2026-10-07: Forma promulgată (FP): [fp-737f9e2a.md](fp-737f9e2a.md); official file https://www.senat.ro/legis/PDF/2026/26L380FP.PDF
