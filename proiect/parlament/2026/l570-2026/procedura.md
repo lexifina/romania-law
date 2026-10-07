@@ -18,6 +18,7 @@ Initiator: Membri ai Parlamentului.
 - 2026-09-21: adopted by the Senate; documents published: Forma adoptată de Senat
 - 2026-09-23: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2026-09-25: sent for promulgation
+- 2026-10-07: promulgated, becomes Legea nr. 195/2026; published in the Monitorul Oficial; documents published: Document (day not given by the bill file), Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -28,3 +29,6 @@ Initiator: Membri ai Parlamentului.
 - 2026-09-21: Forma adoptată de Senat (FS): [fs-8ab98654.md](fs-8ab98654.md); official file https://www.senat.ro/legis/PDF/2026/26L570FS.PDF
 - 2026-09-23: Adresă privind sesizarea CCR (AXS): [axs-543c2561.md](axs-543c2561.md); official file https://www.senat.ro/legis/PDF/2026/26L570AXS.PDF
 - 2026-09-23: Forma trimisă la promulgare (LP): [lp-187eaa99.md](lp-187eaa99.md); official file https://www.senat.ro/legis/PDF/2026/26L570LP.PDF
+- 2026-10-07: Document (AL): [al-e0f63f5f.md](al-e0f63f5f.md); official file https://www.senat.ro/legis/PDF/2026/26L570AL.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-10-07: Decret de promulgare (DP): [dp-89d8219f.md](dp-89d8219f.md); official file https://www.senat.ro/legis/PDF/2026/26L570DP.PDF
+- 2026-10-07: Forma promulgată (FP): [fp-200201d1.md](fp-200201d1.md); official file https://www.senat.ro/legis/PDF/2026/26L570FP.PDF
