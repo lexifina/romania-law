@@ -1,0 +1,204 @@
+{
+ "key": "dcc-205-2026",
+ "label": "Decizia CCR nr. 205/2026",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "205",
+ "date": "2026-03-05",
+ "year": "2026",
+ "heading": "DECIZIA nr. 205 din 5 martie 2026",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 215 alin. (1) lit. c) din Codul de procedură penală",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "856",
+  "bis": false,
+  "date": "2026-10-12",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "9.885/231/2021/a3",
+  "734D/2022",
+  "1.709D/2024",
+  "18.906/3/2023/a1.10"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "215",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Valerică Țîmbău în Dosarul nr. 9.885/231/2021/a3 al Tribunalului Vrancea - Secția penală și de Georgiana Manuela Naghel în Dosarul nr. 18.906/3/2023/a1.10 al Tribunalului București - Secția I penală și constată că dispozițiile art. 215 alin. (1) lit. c) din Codul de procedură penală sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului Vrancea - Secția penală și Tribunalului București - Secția I penală și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "215",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": [
+      "c",
+      "a"
+     ]
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "126",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 253/2013",
+    "number": "253",
+    "year": "2013",
+    "path": "lege/2013/253"
+   },
+   "articles": [
+    {
+     "art": "82",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 360/2002",
+    "number": "360",
+    "year": "2002",
+    "path": "lege/2002/360"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2026-10-12",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/315149",
+  "text_sha256": "0451d365e727a1f5551e2cf7b2fabdec486780e83bdf0290ad6214cd63f94b0d",
+  "catalogue_sha256": "0451d365e727a1f5551e2cf7b2fabdec486780e83bdf0290ad6214cd63f94b0d",
+  "fetched": "2026-11-03T00:44:07Z",
+  "chars": 18725,
+  "portal_id": "315149",
+  "tip": "DECIZIE"
+ }
+}
