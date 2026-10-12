@@ -1,0 +1,4 @@
+# Anexa nr. 1
+PROCEDURĂ de aplicare a dispozițiilor art. V din
+Legea nr. 239/2025 privind stabilirea unor măsuri de redresare și eficientizare a resurselor publice și pentru modificarea și completarea unor acte normative, referitoare la opozabilitatea cesiunii părților sociale față de organul fiscal central și la stabilirea cadrului de colaborare dintre
+Agenția Națională de Administrare Fiscală și Oficiul Național al Registrului Comerțului
