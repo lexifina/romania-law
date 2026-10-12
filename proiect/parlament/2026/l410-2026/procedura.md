@@ -12,6 +12,7 @@ Initiator: Membri ai Parlamentului.
 - 2026-05-18: documents published: Aviz Consiliul Economic și Social, Aviz Consiliul Legislativ, Punct de vedere Guvern
 - 2026-06-29: registered at the Senate
 - 2026-06-30: documents published: Aviz comisie
+- 2026-10-12: documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -22,3 +23,5 @@ Initiator: Membri ai Parlamentului.
 - 2026-05-18: Aviz Consiliul Legislativ (LG): [lg-fbb5eac2.md](lg-fbb5eac2.md); official file https://www.senat.ro/legis/PDF/2026/26L410LG.PDF
 - 2026-05-18: Punct de vedere Guvern (SJ): [sj-c8ba4f89.md](sj-c8ba4f89.md); official file https://www.senat.ro/legis/PDF/2026/26L410SJ.PDF
 - 2026-06-30: Aviz comisie (CA8): [ca8-ab2791a0.md](ca8-ab2791a0.md); official file https://www.senat.ro/legis/PDF/2026/26L410CA8.PDF
+- 2026-10-12: Document (SE1): [se1-639ff075.md](se1-639ff075.md); official file https://www.senat.ro/legis/PDF/2026/26L410SE1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-10-12: Document (AJ): [aj-0f7023b3.md](aj-0f7023b3.md); official file https://www.senat.ro/legis/PDF/2026/26L410AJ.PDF (its day is not given by the bill file: shown from the last stage held)
