@@ -11,6 +11,7 @@ Initiator: Membri ai Parlamentului.
 - 2026-06-30: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 - 2026-07-22: documents published: Aviz Consiliul Economic și Social, Aviz Consiliul Legislativ
 - 2026-10-06: documents published: Aviz comisie, Raport comisie sesizată pe fond
+- 2026-10-12: rejected by the Senate; documents published: Document (day not given by the bill file), Adresă către Camera Deputaților
 
 ## Documents
 
@@ -21,3 +22,7 @@ Initiator: Membri ai Parlamentului.
 - 2026-07-22: Aviz Consiliul Legislativ (LG): [lg-53682ff0.md](lg-53682ff0.md); official file https://www.senat.ro/legis/PDF/2026/26L537LG.PDF
 - 2026-10-06: Aviz comisie (CA3): [ca3-479422f9.md](ca3-479422f9.md); official file https://www.senat.ro/legis/PDF/2026/26L537CA3.PDF
 - 2026-10-06: Raport comisie sesizată pe fond (CR): [cr-9344844e.md](cr-9344844e.md); official file https://www.senat.ro/legis/PDF/2026/26L537CR.PDF
+- 2026-10-12: Document (CF): [cf-60d18ef0.md](cf-60d18ef0.md); official file https://www.senat.ro/legis/PDF/2026/26L537CF.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-10-12: Document (CC): [cc-54db6318.md](cc-54db6318.md); official file https://www.senat.ro/legis/PDF/2026/26L537CC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-10-12: Document (ANCO): [anco-89958100.md](anco-89958100.md); official file https://www.senat.ro/legis/PDF/2026/26L537ANCO.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-10-12: Adresă către Camera Deputaților (AM): [am-8a20f3bc.md](am-8a20f3bc.md); official file https://www.senat.ro/legis/PDF/2026/26L537AM.PDF
