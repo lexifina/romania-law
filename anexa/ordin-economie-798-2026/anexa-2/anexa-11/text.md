@@ -1,0 +1,13 @@
+# Anexa 11
+Anexa nr. 11
+MODEL
+de cerere eliberare duplicat
+Cerere de eliberare a unui duplicat al atestatului de manager energetic nr....../...... al deciziei de prelungire nr......../ .........a valabilității atestatului de manager energetic nr.........../...... (se bifează cu semnul "X" căsuța corespunzătoare solicitării)
+Subsemnatul/a Numele........................................., inițiala tatălui...................., prenumele.........................., data nașterii....................., locul
+nașterii.........................., actul de identitate...........seria......nr......................., eliberat de....................................... la data de..........., codul
+numeric personal......................
+Domiciliul............................., telefon/fax/email ....................... Loc de muncă ................. Str...................... nr. ........... loc. .................... jud. ........... Telefon/fax/e-mail........................
+Vă rog să-mi aprobați eliberarea unui DUPLICAT, motivul pentru care solicit eliberarea duplicatului: .......................................
+.......................................
+Data: Semnătură:
+Către: Ministerul Energiei -Centrul de Pregătire pentru Personalul din Industrie - Bușteni
