@@ -1,0 +1,12 @@
+# HCGMB nr. 459/2026
+
+Text not yet included: its text is a scan that has not been read by OCR yet. It will be added when it is. The document is at the council's record.
+
+- Council: Consiliul General al Municipiului București
+- Decision: nr. 459/2026
+- Adopted: 2026-09-30
+- Published: 2026-10-13
+- Title: PRIVIND MODIFICAREA REGULAMENTULUI PRIVIND REGIMUL FINANTARILOR NERAMBURSABILE DE LA BUGETUL LOCAL AL MUNICIPIULUI BUCURESTI, PRIN BUGETUL DIRECTIEI GENERALE DE ASISTENTA SOCIALA A MUNICIPIULUI BUCURESTI, PENTRU ACTIVITATI NONPROFIT DE INTERES LOCAL, POTRIVIT LEGII NR. 350/2005, PREVAZUT IN ANEXA I A HOTARARII CONSILIULUI GENERAL AL MUNICIPIULUI BUCURESTI NR. 274/17.05.2018 MODIFICA SI COMPLETEAZA ANEXA 1 DIN HCGMB NR. 274/2018
+- Record: https://acteinterne.pmb.ro/legis/acteinterne/acte_int/48621
+- Document: https://doc.pmb.ro/legis/acteinterne/2026/48621/h459-26.pdf
+- Document sha256: 4679814d75adaf00196c8c71c69f22244c1ac47b0463086a19ea954710022e8d
