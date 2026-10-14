@@ -21,6 +21,7 @@ Initiator: Membri ai Parlamentului.
 - 2026-09-16: adopted by the Chamber of Deputies
 - 2026-09-21: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2026-09-26: sent for promulgation
+- 2026-10-14: promulgated, becomes Legea nr. 198/2026; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -40,3 +41,5 @@ Initiator: Membri ai Parlamentului.
 - 2026-02-04: Adresă către Camera Deputaților (AM): [am-2c543d30.md](am-2c543d30.md); official file https://www.senat.ro/legis/PDF/2025/25L501AM.PDF
 - 2026-09-21: Adresă privind sesizarea CCR (AXS): [axs-f305da6c.md](axs-f305da6c.md); official file https://www.senat.ro/legis/PDF/2025/25L501AXS.PDF
 - 2026-09-21: Forma trimisă la promulgare (LP): [lp-5d6b0a71.md](lp-5d6b0a71.md); official file https://www.senat.ro/legis/PDF/2025/25L501LP.PDF
+- 2026-10-14: Decret de promulgare (DP): [dp-d74c2ad8.md](dp-d74c2ad8.md); official file https://www.senat.ro/legis/PDF/2025/25L501DP.PDF
+- 2026-10-14: Forma promulgată (FP): [fp-27fae51a.md](fp-27fae51a.md); official file https://www.senat.ro/legis/PDF/2025/25L501FP.PDF
