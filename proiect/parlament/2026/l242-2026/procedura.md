@@ -18,6 +18,7 @@ Initiator: Membri ai Parlamentului.
 - 2026-09-16: adopted by the Chamber of Deputies; documents published: Forma adoptată de Camera Deputaților
 - 2026-09-21: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2026-09-26: sent for promulgation
+- 2026-10-14: promulgated, becomes Legea nr. 196/2026; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -33,3 +34,5 @@ Initiator: Membri ai Parlamentului.
 - 2026-09-16: Forma adoptată de Camera Deputaților (FC): [fc-0eba8f1c.md](fc-0eba8f1c.md); official file https://www.senat.ro/legis/PDF/2026/26L242FC.PDF
 - 2026-09-21: Adresă privind sesizarea CCR (AXS): [axs-103bf848.md](axs-103bf848.md); official file https://www.senat.ro/legis/PDF/2026/26L242AXS.PDF
 - 2026-09-21: Forma trimisă la promulgare (LP): [lp-8198a76e.md](lp-8198a76e.md); official file https://www.senat.ro/legis/PDF/2026/26L242LP.PDF
+- 2026-10-14: Decret de promulgare (DP): [dp-1a3ade97.md](dp-1a3ade97.md); official file https://www.senat.ro/legis/PDF/2026/26L242DP.PDF
+- 2026-10-14: Forma promulgată (FP): [fp-c5d38aa8.md](fp-c5d38aa8.md); official file https://www.senat.ro/legis/PDF/2026/26L242FP.PDF
