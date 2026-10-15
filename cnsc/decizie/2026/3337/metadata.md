@@ -1,0 +1,24 @@
+# Decizia CNSC nr. 3337/C5/2417 din 15.10.2026
+
+The record of this decision on the CNSC portal.
+
+- Body: Consiliul Național de Soluționare a Contestațiilor (CNSC)
+- Decision: 3337/C5/2417
+- Date: 2026-10-15
+- Panel: C5
+- Complainant: DRAEGER ROMANIA SRL
+- Complainant CUI: 2836925
+- Contracting authority: SPITALUL CLINIC DE URGENTA SF. PANTELIMON
+- Complaint registered at CNSC: 44533 / 2026-06-16
+- Resolution: Admite
+- Operative part: admite, obliga
+- Procedure: *Licitatie deschisa
+- Funds: Proprii
+- CPV: 33157400-9 - Aparate medicale respiratorii (Rev.2)
+- Criticisms: D8 (alte motive cu privire la documentația de atribuire)
+- Procedure law: Legea nr. 101/2016
+- Official Bulletin number: BO2026_3337
+- Decision as issued (PDF): http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YjNjYWExYjYtMTMwNS00Y2E5LWJhY2QtY2JiMzAxODg1ZGQx&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8zMzM3LnBkZg==&action=YXR0YWNobWVudA==
+- Reasoned decision (PDF): http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MmI4OGNmZTYtYTQxYS00NTIwLTk4NjctNmE3MjJkNWE3Yjk0&pdfa1=ZmFsc2U=&filename=Qk8yMDI2XzMzMzcucGRm&action=YXR0YWNobWVudA==
+- Copyright: Legea nr. 8/1996, art. 9 lit. b: texts of a legislative, administrative or judicial nature are not protected by copyright; CNSC decisions are administrative-jurisdictional acts.
+- Publication: Published on the official-text basis by the decision of Lexifina (2026-11-06), although the CNSC portal's terms bar reproduction for commercial purposes without written consent.
