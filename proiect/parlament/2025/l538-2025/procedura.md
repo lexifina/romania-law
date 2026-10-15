@@ -19,6 +19,7 @@ Initiator: Membri ai Parlamentului.
 - 2026-09-21: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2026-09-26: sent for promulgation
 - 2026-10-14: promulgated, becomes Legea nr. 199/2026; documents published: Decret de promulgare, Forma promulgată
+- 2026-10-15: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -35,3 +36,5 @@ Initiator: Membri ai Parlamentului.
 - 2026-09-21: Forma trimisă la promulgare (LP): [lp-e3becf57.md](lp-e3becf57.md); official file https://www.senat.ro/legis/PDF/2025/25L538LP.PDF
 - 2026-10-14: Decret de promulgare (DP): [dp-5fd68f6a.md](dp-5fd68f6a.md); official file https://www.senat.ro/legis/PDF/2025/25L538DP.PDF
 - 2026-10-14: Forma promulgată (FP): [fp-3accfdc5.md](fp-3accfdc5.md); official file https://www.senat.ro/legis/PDF/2025/25L538FP.PDF
+- 2026-10-15: Document (AG1): not held as text; official file https://www.senat.ro/legis/PDF/2025/25L538AG1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-10-15: Document (CF): [cf-b33e2a3a.md](cf-b33e2a3a.md); official file https://www.senat.ro/legis/PDF/2025/25L538CF.PDF (its day is not given by the bill file: shown from the last stage held)
