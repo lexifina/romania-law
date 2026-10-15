@@ -19,6 +19,7 @@ Initiator: Membri ai Parlamentului.
 - 2026-09-21: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2026-09-26: sent for promulgation
 - 2026-10-14: promulgated, becomes Legea nr. 202/2026; documents published: Decret de promulgare, Forma promulgată
+- 2026-10-15: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -38,3 +39,6 @@ Initiator: Membri ai Parlamentului.
 - 2026-09-21: Forma trimisă la promulgare (LP): [lp-c71ce107.md](lp-c71ce107.md); official file https://www.senat.ro/legis/PDF/2026/26L318LP.PDF
 - 2026-10-14: Decret de promulgare (DP): [dp-df6bd304.md](dp-df6bd304.md); official file https://www.senat.ro/legis/PDF/2026/26L318DP.PDF
 - 2026-10-14: Forma promulgată (FP): [fp-d97db6e9.md](fp-d97db6e9.md); official file https://www.senat.ro/legis/PDF/2026/26L318FP.PDF
+- 2026-10-15: Document (CF): [cf-47e1c70f.md](cf-47e1c70f.md); official file https://www.senat.ro/legis/PDF/2026/26L318CF.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-10-15: Document (ASF): [asf-b9b8e227.md](asf-b9b8e227.md); official file https://www.senat.ro/legis/PDF/2026/26L318ASF.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-10-15: Document (AG1): not held as text; official file https://www.senat.ro/legis/PDF/2026/26L318AG1.PDF (its day is not given by the bill file: shown from the last stage held)
