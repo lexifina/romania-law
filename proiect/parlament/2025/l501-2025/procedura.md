@@ -22,6 +22,7 @@ Initiator: Membri ai Parlamentului.
 - 2026-09-21: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2026-09-26: sent for promulgation
 - 2026-10-14: promulgated, becomes Legea nr. 198/2026; documents published: Decret de promulgare, Forma promulgată
+- 2026-10-15: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -43,3 +44,8 @@ Initiator: Membri ai Parlamentului.
 - 2026-09-21: Forma trimisă la promulgare (LP): [lp-5d6b0a71.md](lp-5d6b0a71.md); official file https://www.senat.ro/legis/PDF/2025/25L501LP.PDF
 - 2026-10-14: Decret de promulgare (DP): [dp-d74c2ad8.md](dp-d74c2ad8.md); official file https://www.senat.ro/legis/PDF/2025/25L501DP.PDF
 - 2026-10-14: Forma promulgată (FP): [fp-27fae51a.md](fp-27fae51a.md); official file https://www.senat.ro/legis/PDF/2025/25L501FP.PDF
+- 2026-10-15: Document (AG1): not held as text; official file https://www.senat.ro/legis/PDF/2025/25L501AG1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-10-15: Document (CF): [cf-8143c564.md](cf-8143c564.md); official file https://www.senat.ro/legis/PDF/2025/25L501CF.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-10-15: Document (CC): [cc-a106a210.md](cc-a106a210.md); official file https://www.senat.ro/legis/PDF/2025/25L501CC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-10-15: Document (ACD): [acd-71fd195c.md](acd-71fd195c.md); official file https://www.senat.ro/legis/PDF/2025/25L501ACD.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-10-15: Document (AG2): not held as text; official file https://www.senat.ro/legis/PDF/2025/25L501AG2.PDF (its day is not given by the bill file: shown from the last stage held)
