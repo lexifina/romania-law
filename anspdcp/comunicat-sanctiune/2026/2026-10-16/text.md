@@ -1,0 +1,10 @@
+Sancțiune pentru încălcarea RGPD
+Autoritatea Națională de Supraveghere a Prelucrării Datelor cu Caracter Personal a finalizat o investigație la MYCONNECTOR PLATFORM SRL și a constatat încălcarea dispozițiilor art. 32 alin. (1) lit. b) și alin. (2) din Regulamentul (UE) 2016/679.
+Ca atare, MYCONNECTOR PLATFORM SRL a fost sancționată contravențional cu amendă de 31.451 lei (echivalentul a 6.000 EURO).
+Investigația a fost demarată ca urmare a transmiterii de către operatorul MYCONNECTOR PLATFORM SRL a unei notificări cu privire la încălcarea securității datelor cu caracter personal, conform dispozițiilor art. 33 din Regulamentul (UE) 2016/679.
+În cadrul investigației efectuate s-a constatat faptul că încălcarea securității prelucrării datelor s-a produs ca urmare a unui atac informatic asupra serverului de testare al operatorului. Astfel, a rezultat că operatorul nu a implementat măsuri corespunzătoare pentru testarea aplicației MyConnector Platform, ceea ce a condus la obținerea de către un terț a accesului la anumite date cu caracter personal, precum: adresele de e-mail, numerele de telefon, numele și prenumele utilizatorilor, codurile numerice personale, seriile și numerele actelor de identitate.
+În același timp, s-a constatat că operatorul a utilizat pentru testarea aplicației sale date cu caracter personal reale (în loc de date fictive), ceea ce a condus la expunerea datelor personale ale unui număr semnificativ de persoane vizate, având ca efect agravarea impactului incidentului.
+Ca atare, s-a constatat că incidentul de securitate a fost cauzat de lipsa implementării unor măsuri tehnice și organizatorice adecvate în vederea asigurării unui nivel de securitate corespunzător riscului prelucrării, incluzând capacitatea de a asigura confidențialitatea și integritatea sistemelor și serviciilor de prelucrare.
+În același timp, în temeiul dispozițiilor art. 58 alin. (2) lit. d) din Regulamentul (UE) 2016/679 s-a dispus față de operator și măsura corectivă de instituire a unei proceduri interne care să prevadă utilizarea exclusivă, în mediile de dezvoltare și testare, a unor date fictive .
+Direcția juridică și comunicare
+A.N.S.P.D.C.P.
