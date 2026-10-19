@@ -15,6 +15,7 @@ Initiator: Membri ai Parlamentului.
 - 2026-09-15: documents published: Aviz comisie
 - 2026-10-12: documents published: Raport comisie sesizată pe fond
 - 2026-10-14: rejected by the Senate; documents published: Adresă către Camera Deputaților
+- 2026-10-19: documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -28,3 +29,12 @@ Initiator: Membri ai Parlamentului.
 - 2026-09-15: Aviz comisie (CA3): [ca3-f5796ad9.md](ca3-f5796ad9.md); official file https://www.senat.ro/legis/PDF/2026/26L445CA3.PDF
 - 2026-10-12: Raport comisie sesizată pe fond (CR): [cr-13f754ce.md](cr-13f754ce.md); official file https://www.senat.ro/legis/PDF/2026/26L445CR.PDF
 - 2026-10-14: Adresă către Camera Deputaților (AM): [am-6f92f471.md](am-6f92f471.md); official file https://www.senat.ro/legis/PDF/2026/26L445AM.PDF
+- 2026-10-19: Document (CNCD): [cncd-efddd73b.md](cncd-efddd73b.md); official file https://www.senat.ro/legis/PDF/2026/26L445CNCD.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-10-19: Document (CF): [cf-0e24df37.md](cf-0e24df37.md); official file https://www.senat.ro/legis/PDF/2026/26L445CF.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-10-19: Document (ANFP): [anfp-43dfda9f.md](anfp-43dfda9f.md); official file https://www.senat.ro/legis/PDF/2026/26L445ANFP.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-10-19: Document (CT): [ct-5c41799b.md](ct-5c41799b.md); official file https://www.senat.ro/legis/PDF/2026/26L445CT.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-10-19: Document (SM): [sm-f5562073.md](sm-f5562073.md); official file https://www.senat.ro/legis/PDF/2026/26L445SM.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-10-19: Document (AG1): [ag1-e1449d28.md](ag1-e1449d28.md); official file https://www.senat.ro/legis/PDF/2026/26L445AG1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-10-19: Document (AT): [at-e8e8a20d.md](at-e8e8a20d.md); official file https://www.senat.ro/legis/PDF/2026/26L445AT.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-10-19: Document (S1): [s1-931a5e8d.md](s1-931a5e8d.md); official file https://www.senat.ro/legis/PDF/2026/26L445S1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-10-19: Document (AG2): not held as text; official file https://www.senat.ro/legis/PDF/2026/26L445AG2.PDF (its day is not given by the bill file: shown from the last stage held)
