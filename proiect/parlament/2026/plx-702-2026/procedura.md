@@ -13,6 +13,7 @@ Initiator: Membri ai Parlamentului.
 - 2026-09-16: documents published: Aviz comisie
 - 2026-09-23: documents published: Aviz comisie
 - 2026-10-14: documents published: Raport comisie sesizată pe fond
+- 2026-10-20: rejected by the Senate
 
 ## Documents
 
