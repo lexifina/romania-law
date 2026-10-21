@@ -14,6 +14,7 @@ Initiator: Membri ai Parlamentului.
 - 2026-09-10: documents published: Aviz comisie
 - 2026-10-06: documents published: Aviz comisie
 - 2026-10-13: documents published: Raport comisie sesizată pe fond
+- 2026-10-21: adopted by the Senate; documents published: Document (day not given by the bill file), Forma adoptată de Senat, Adresă către Camera Deputaților
 
 ## Documents
 
@@ -27,3 +28,6 @@ Initiator: Membri ai Parlamentului.
 - 2026-09-10: Aviz comisie (CA60): [ca60-cb333320.md](ca60-cb333320.md); official file https://www.senat.ro/legis/PDF/2026/26L483CA60.PDF
 - 2026-10-06: Aviz comisie (CA3): [ca3-7af20460.md](ca3-7af20460.md); official file https://www.senat.ro/legis/PDF/2026/26L483CA3.PDF
 - 2026-10-13: Raport comisie sesizată pe fond (CR): [cr-f28cc531.md](cr-f28cc531.md); official file https://www.senat.ro/legis/PDF/2026/26L483CR.PDF
+- 2026-10-21: Document (CF): [cf-dba2ec10.md](cf-dba2ec10.md); official file https://www.senat.ro/legis/PDF/2026/26L483CF.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-10-21: Forma adoptată de Senat (FS): [fs-1efa80de.md](fs-1efa80de.md); official file https://www.senat.ro/legis/PDF/2026/26L483FS.PDF
+- 2026-10-21: Adresă către Camera Deputaților (AM): [am-73620cb6.md](am-73620cb6.md); official file https://www.senat.ro/legis/PDF/2026/26L483AM.PDF
