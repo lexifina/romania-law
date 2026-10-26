@@ -11,6 +11,7 @@ Initiator: Membri ai Parlamentului.
 - 2026-06-10: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 - 2026-06-15: documents published: Aviz Consiliul Legislativ, Aviz Consiliul Economic și Social, Punct de vedere
 - 2026-09-10: documents published: Aviz comisie
+- 2026-10-26: adopted by the Senate; documents published: Document (day not given by the bill file), Raport comisie sesizată pe fond, Forma adoptată de Senat, Adresă către Camera Deputaților
 
 ## Documents
 
@@ -21,3 +22,10 @@ Initiator: Membri ai Parlamentului.
 - 2026-06-15: Aviz Consiliul Economic și Social (ES): [es-3e5f7406.md](es-3e5f7406.md); official file https://www.senat.ro/legis/PDF/2026/26L498ES.PDF
 - 2026-06-15: Punct de vedere (PV): [pv-a49238c4.md](pv-a49238c4.md); official file https://www.senat.ro/legis/PDF/2026/26L498PV.PDF
 - 2026-09-10: Aviz comisie (CA60): [ca60-eac6eb80.md](ca60-eac6eb80.md); official file https://www.senat.ro/legis/PDF/2026/26L498CA60.PDF
+- 2026-10-26: Document (CC): [cc-ef22d020.md](cc-ef22d020.md); official file https://www.senat.ro/legis/PDF/2026/26L498CC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-10-26: Document (CF): [cf-1d070c2b.md](cf-1d070c2b.md); official file https://www.senat.ro/legis/PDF/2026/26L498CF.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-10-26: Document (AG1): [ag1-21a873c7.md](ag1-21a873c7.md); official file https://www.senat.ro/legis/PDF/2026/26L498AG1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-10-26: Document (AG2): [ag2-f91aa9cb.md](ag2-f91aa9cb.md); official file https://www.senat.ro/legis/PDF/2026/26L498AG2.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-10-26: Raport comisie sesizată pe fond (CR): [cr-3739e9d9.md](cr-3739e9d9.md); official file https://www.senat.ro/legis/PDF/2026/26L498CR.PDF
+- 2026-10-26: Forma adoptată de Senat (FS): [fs-fc32abfd.md](fs-fc32abfd.md); official file https://www.senat.ro/legis/PDF/2026/26L498FS.PDF
+- 2026-10-26: Adresă către Camera Deputaților (AM): [am-7f806cc7.md](am-7f806cc7.md); official file https://www.senat.ro/legis/PDF/2026/26L498AM.PDF
