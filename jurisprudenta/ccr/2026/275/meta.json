@@ -1,0 +1,353 @@
+{
+ "key": "dcc-275-2026",
+ "label": "Decizia CCR nr. 275/2026",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "275",
+ "date": "2026-03-26",
+ "year": "2026",
+ "heading": "DECIZIA nr. 275 din 26 martie 2026",
+ "subtitle": "referitoare la excepția de neconstituționalitate a Ordonanței de urgență a Guvernului nr. 59/2017 privind modificarea și completarea unor acte normative din domeniul pensiilor de serviciu, în ansamblul său, a dispozițiilor art. VII din această ordonanță de urgență și ale art. 84 din Ordonanța de urgență a Guvernului nr. 114/2018 privind instituirea unor măsuri în domeniul investițiilor publice și a unor măsuri fiscal-bugetare, modificarea și completarea unor acte normative și prorogarea unor termene",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "895",
+  "bis": false,
+  "date": "2026-10-26",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "142/44/2023",
+  "1.462D/2023"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 59/2017",
+    "number": "59",
+    "year": "2017",
+    "path": "oug/2017/59"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 114/2018",
+    "number": "114",
+    "year": "2018",
+    "path": "oug/2018/114"
+   },
+   "articles": [
+    {
+     "art": "VII",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "84",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Coman Daniel, Ciulei Niculae, Filipoiu Marian, Ungureanu Liviu Mihai, Podosu Neculae, Ciorăneanu Stelian, Morhan Călin Mihail, Maftei Ioan, Tofan Radu Andrei, Cerbu Dorel, Banciu Lucian Cosmin, Turcu Lucica, Catana Vasile, Sin Nicolae, Bica Ioan-Dănuț, Anghel Iosif, Maran Petru Iuliu, Moldoveanu Bogdan-Paul, Irimia Gheorghe, Mailat Victor, Lukacs Imre Ervin, Iordache Constantin, Morogan Vasilică, Drăghici Nicolae, Ancuța Sebastian Marius, Lache Ovidiu, Mușat Daniel, Popa Manuel Gabriel, Munteanu Mihail, Dorin Iordache, Antip Constantin, Ursu Ioan, Badu Adrian Vasile, Samson Emanuel, Sîrghie Niculae Sorin, Oprea Emil Dragoș, Sindicatul Național Pro Lex, în numele membrului Văsioiu Cristian Mihai, Spiridon Eugen, Debu Gheorghe, Asociația Cadrelor Militare în Rezervă și în Retragere din Administrația Națională a Penitenciarelor, Zamfiroiu Daniel, Deneanu Nicolae, Marin Constantin, Debu Gheorghe, Mîțu Carmen-Maria, Enache Dumitru, Dumitrescu Dan, Grigorescu Florinel, Smeu Adrian și Macsim Florin Cristian, Mureșan Florin, Dumitrescu Adrian-Laurențiu, Maneasa Aurel, Burcuță Ionel, Petcu Gabriel, Calancea Gheorghe, Debu Ioan, Beteringhe Mihăiță, Ciofîrdel Dumitru, Stoleru Maricica, Hodor Bela, Corodeanu Costel, Brînzea Alexandru Marian, Andrișan Dumitru-Dorel și Alexandru Florin, Gîfei Ioan, Stoleru Ionică și de Burlacu Daniel Mihăiță, Surdu Ștefan Dănuț, Trofin Ginel, Prelipcean Liviu, Mihalcea Grigore, Crăescu Marius, Mocanu Ștefan, Goliță Gheorghe, Balaban Fănel, Ifrim Melu, Pupu Haralampie Petre, Stavăr Vasile, Onofrei Iulian, Preda Nicu și Silișteanu Constantin, Negrea Nică, Bolea Ionica, Mergeanu Dumitru Daniel și Olteanu Florin Pachel, Rău Ioan, Ghelase Ștefan, Sava Grigore, Prioteasa Marian, Datcu Georgică, Brăileanu Ion, Mihordea Costel, Daniș Constantin, Petrache Marian, Prelipcean Liviu, Golăeș Cristin, Dumitrașcu Ionel, Abăseacă Marinel, Moldoveanu Ninel, Tănase Adrian, Ioniță Dumitru, Florea Aurel, Curtache Valentin, Munteanu Ispas-Viorel, Asociația Funcționarilor Publici din Vrancea, în numele membrului Manea Neculai, Serescu Nicușor, Bogoiu Ionel, Căpităneanu Marian, Vîlsan Dorel, Sindicatul Național Pro Lex în numele membrului Huian Florinel, Cilighidrian Olimpia, prin Sindicatul Național Pro Lex, Cilighidrian Vasile, prin Sindicatul Național Pro Lex, Postolache Ion, prin Sindicatul Național Pro Lex, Cristian Alexandru, Ilie Marinel, Radu Răduț, Țugui Valeriu, Asociația Cadrelor Militare în Rezervă și în Retragere din Administrația Națională a Penitenciarelor, prin președinte, pentru Agache Irina, Agache Adrian, Anghel Gabriela, Anghel Aurel, Gorea Gabriel, Paiu Stela, Paiu Gabriel și Tăbăcaru Adrian, Popovici Honda Dan, Constandache Aurel, prin Sindicatul Național Pro Lex, Cilichidreanu Andrei, prin Sindicatul Național Pro Lex, Sindicatul Național Pro Lex, în numele membrului Andrei Constantin, Sindicatul Național Pro Lex, în numele membrului Popa Viorel, Sindicatul Național Pro Lex, în numele membrului Irimia Ion, Vasilescu Constantin, Zafiu Viorel, Plopeanu Costel, Cazan Marian, Constantinescu Viorel, Matei Grama, Iordache Alexandru Viorel, Pâslaru Vasile-Eugen, Pană Petre, Alexandru Costel, Negoițescu Gheorghe, Chivoiu Ion, Tuvenia Costel, Popescu Ionel, Bordeanu Jănică, Rînciog Milică, Vechiu Gheorghe, Dumitrache Dumitru, Răduță Viorel, Lazăr Jenică, Corcoz Nicolae, Norocea Adrian, Asociația Funcționarilor Publici din Vrancea, în numele membrilor Bondrilă Constantin, Enache Alexandru, Enache Săndel-Sorinel, Micu Ovidiu, Mihăilă Mirel-Tudorel, Nistor Anișor și Smada Fani, Băjănaru Ninel, Bălescu Cristian, Ochean Vasile, Murgu Marian Octavian, Ilinoiu Gheorghe, Nazarie Georgel, Chiriac Marian, Ciorăscu Gabriel, Dumitrache Ion, Lăpădătescu Cezar-Valentin, Perișoară Liviu, Hoțoi Giiana-Maria, Cristian Virgil, Burs Pavel, Gogonel Robert Tiberius, Olaru Ionel, Enache Manolache, Matei Victor Cristian, Alexa Constantin, Borș Gheorghe, Stoica Marian, Asociația Funcționarilor Publici din Vrancea, în numele membrilor Iancu Toader și Chetreanu Vasilică, Tîrală Vasilică, Boeru Vasile și Zavati Iordache Petrișor, Gospodaru Virgil, Nicola Cristian, Borș Ioan, Andronic Vasile, Niculau Petru, Pintilie Mihai, Enache Costel, Cozma Tiberiu, Doroftei Vasile, Avram Ioan, Mateiu Daniel, Cojocaru Constantin, Porumb Costel, Sava Remus Marian, Liviță Adrian, Grigoraș Vasile, Palagheanu Ionel Stelian, Țuiu Liviu, Asociația Cadrelor Militare în Rezervă și în Retragere din Administrația Națională a Penitenciarelor, în numele membrului Ivănuță Vasile, Alexa Vasile, Asoltanei Costică, Comoniță Constantin-Bogdan, Dogaru Tiberiu-Vasile, Huian Vasile, Iftimia Constantin, Jilavu Ștefan, Marică Ștefan, Petianu Dumitru, Secrieru Romică și Simina Răducu-Ghiorghiță, Ioja Cristian, Ungureanu Constantin, Țapciuc Constantin, Condurache Constantin, Stanciu Vasile, Scripniciuc Ioan, Rancea Constantin, Lazăr Dan Marian, Ciubotariu Vasile, Livadaru Alina, Ciobanu Vasilică, Chișcăreanu Constantin, Bîșcă Valuță, Gabor Cristian, Ropotă Dumitru, Gabură Constantin, Burciu Romică, Tudurachi Sorin, Borș loan, Nastasiu Ion, Andrian Vasile, Bașa Gheorghe, Buțugan Gheorghe, Buzdugan Sorin, Coștiug Gheorghe, Crețu Grecu Gheorghiță, Dîrvariu Ghiocel, Dolianu Dumitru, Huțanu Mihai, Luchian Ionel, Malagiac Corneliu, Mehedin Gheorghe, Nichita Mihai, Onofrei Gheorghe și Pușcașu Gheorghe, Ciobanu Costel, Danalache Dorin, Encuță P. Eduard, Molocea Eugen, Adochiei Cristinel, Halapciuc Petrică Marius, Liță Cristian, Nica Liviu Ion, Mocanu Vasile Cristian, Străchinaru Gheorghe și Teleman Maricela, Chiriac Viorel, Lotis Ioan, Bandac Daniel, Lungu Mihai-Răducu, Nemțanu Ion, Corodeanu Constantin Daniel, Curcă Vasile, Ionescu Mihai, Cozma Tiberiu, Blanaru Cătălin, Bîrliga Dumitru, Carcea Vasile, Ciuciudău Stelică, Scriitoru Mihai, Zaharia Florin, Paveliuc Cristian-Ilie, Pădurariu Ștefan Claudiu, Dobreanu Constantin, Bujor Constantin, Bițic Fănică, Horlescu Mihai Valeriu, Ispir Mihai, Zbarnea Gheorghe, Chirilă Dorin, Nechifor Cristian, Halapciuc Petrică Marius, Nica Liviu-Ion și Liță Ioan-Cristian, Nanii Petrică, Țugui Dan, Dobrișan Doru-Cristian, Nastasă Gabriel, Atasiei Mihăiță, Zodieru Neculai, Tropan Brăduț-Gheorghe, Olteanu Grigore, Cobilița Costel, Matei Ion, Răileanu Marcel, Ciobotariu Gheorghe, Robu Viorel, Mucilianu Dorel, Rădășanu Dorina, Zărnescu Marinică, Burlacu Virgil, Chichirău Constantin, Enache Romeu, Apetroaei Emil, Jitaru Ion, Dănilă Liviu, Lupu Ștefan, Apostol Adrian-Mirel, Lăzărescu Liviu, Dănilă Neculai, Popa Cătălin, Baciu Costică, Șălaru Aurel, Sonea Constantin, Condrea Gheorghe, Moroșanu Ioan, Hotnog Aurel, Filip Corneliu, Bălan Dumitru, Rusu Jenică, Scurtu Ioan, Alistar Mihai, Cărărușă Florin, Țîrțîrău Ioan, Cucu Iulian-Daniel, Asociația Cadrelor Militare în Rezervă și în Retragere din Administrația Națională a Penitenciarelor, în numele membrului Poinescu Costel, Stancu Dan, Asociația Cadrelor Militare în Rezervă și în Retragere din Administrația Națională a Penitenciarelor, în numele membrului Țiplea Dorel, Lupu Dumitru, Văduva Constantin, Fandache Costel, Frij Emanuel-Ciprian, Alexăndroaie Gheorghe, Bulgărescu Simion, Pilă Ioan, Dîmbu Ioan, Focșa Iulian, Săcrieriu Petru, Luchian Romică, Bădărău Ioan, Alexandru Ioan Florin, Lupu Ioan, Danciug Mihai, Bobîrcă Daniel, Gavrilă Gheorghiță, Pășoiu I. Gheorghe, Baba Nicolaie, Oprișan Gavril, Pătrașcu Anton, Surdu Mihai, Crăcană Mihai, Diaconu Valeriu, Bosînceanu Florin Puiu, Popovici Ciprian Nicolae, Butuc Valentin, Pînzaru Constantin, Gănceanu Petrică, Scutaru Viorel, Tîrziman Sorinel Costică, Mazdrag Traian și de Florea Ioan în dosarele nr. 564/64/2023, nr. 228/64/2023, nr. 1.591/62/2023, nr. 882/62/2023, nr. 851/62/2023, nr. 820/62/2023, nr. 853/62/2023, nr. 821/62/2023, nr. 800/62/2023, nr. 849/62/2023, nr. 349/64/2023, nr. 709/62/2023, nr. 342/64/2023, nr. 356/64/2023, nr. 339/64/2023, nr. 338/64/2023, nr. 343/64/2023, nr. 337/64/2023, nr. 214/119/2023, nr. 335/64/2023, nr. 491/119/2023, nr. 321/64/2023, nr. 181/119/2023, nr. 880/62/2023, nr. 748/62/2023, nr. 818/62/2023, nr. 74/64/2023, nr. 817/62/2023, nr. 344/64/2023, nr. 751/62/2023, nr. 207/119/2023, nr. 776/62/2023, nr. 162/64/2023, nr. 783/62/2023, nr. 116/64/2023, nr. 829/62/2023, nr. 902/62/2023, nr. 762/62/2023, nr. 806/62/2023, nr. 3.027/62/2023, nr. 1.384/62/2023, nr. 782/62/2023, nr. 1.744/62/2023, nr. 767/62/2023, nr. 2.245/62/2023, nr. 1.392/62/2023, nr. 1.353/62/2023, nr. 1.090/62/2023, nr. 781/62/2023, nr. 2.877/62/2023, nr. 1.719/62/2023, nr. 1.073/62/2023, nr. 1.922/62/2023, nr. 1.227/62/2023, nr. 764/62/2023, nr. 769/62/2023, nr. 751/119/2023, nr. 477/119/2023, nr. 737/119/2023, nr. 523/119/2023, nr. 650/119/2023, nr. 197/119/2023, nr. 546/119/2023, nr. 476/119/2023, nr. 725/119/2023, nr. 627/119/2023, nr. 168/44/2023*, nr. 534/44/2024, nr. 703/121/2023*, nr. 273/113/2023*, nr. 908/121/2023, nr. 372/44/2024, nr. 341/44/2024, nr. 340/44/2024, nr. 738/121/2023**, nr. 411/44/2024, nr. 342/44/2024, nr. 1.238/121/2023, nr. 162/44/2023*, nr. 339/44/2024, nr. 528/44/2024, nr. 433/44/2024, nr. 249/91/2023**, nr. 491/91/2023**, nr. 274/44/2024, nr. 319/44/2024, nr. 719/121/2023, nr. 276/91/2023*, nr. 241/91/2023**, nr. 155/44/2023*, nr. 194/44/2023*, nr. 304/91/2023**, nr. 890/91/2023, nr. 248/91/2023*, nr. 306/91/2023**, nr. 169/44/2024, nr. 496/91/2023*, nr. 316/44/2023*, nr. 147/44/2023, nr. 142/44/2023, nr. 801/121/2023*, nr. 799/121/2023*, nr. 800/121/2023*, nr. 802/121/2023*, nr. 751/121/2023, nr. 680/121/2023*, nr. 773/121/2023**, nr. 1.053/121/2023**, nr. 818/121/2023*, nr. 804/121/2023*, nr. 820/121/2023*, nr. 821/121/2023*, nr. 822/121/2023*, nr. 238/44/2023, nr. 237/44/2023, nr. 247/44/2023, nr. 747/113/2023*, nr. 137/44/2024, nr. 342/113/2023**, nr. 314/91/2023, nr. 321/91/2023*, nr. 255/91/2023*, nr. 261/91/2023*, nr. 286/91/2023*, nr. 302/91/2023*, nr. 278/91/2023*, nr. 250/91/2023*, nr. 216/91/2023*, nr. 251/91/2023*, nr. 265/91/2023*, nr. 285/91/2023*, nr. 326/91/2023*, nr. 272/91/2023*, nr. 296/91/2023*, nr. 395/91/2023, nr. 467/91/2023*, nr. 215/91/2023*, nr. 219/91/2023*, nr. 242/91/2023*, nr. 252/91/2023*, nr. 253/91/2023*, nr. 256/91/2023*, nr. 260/91/2023*, nr. 263/91/2023*, nr. 264/91/2023*, nr. 277/91/2023*, nr. 279/91/2023*, nr. 282/91/2023*, nr. 284/91/2023*, nr. 287/91/2023*, nr. 299/91/2023*, nr. 300/91/2023*, nr. 301/91/2023*, nr. 311/91/2023*, nr. 341/91/2023*, nr. 427/91/2023*, nr. 308/91/2023*, nr. 1.452/91/2023, nr. 298/91/2023, nr. 315/91/2023, nr. 765/45/2023, nr. 792/45/2023, nr. 944/45/2023, nr. 192/45/2023*, nr. 11/45/2024, nr. 199/45/2023*, nr. 5.144/99/2020, nr. 299/45/2023*, nr. 213/45/2023*, nr. 152/45/2023*, nr. 198/45/2023*, nr. 130/45/2023*, nr. 127/45/2023*, nr. 184/89/2023/a1, nr. 2.645/99/2023, nr. 67/99/2023, nr. 2.902/99/2023, nr. 1.007/99/2023, nr. 1.500/99/2023, nr. 6.141/99/2022, nr. 1.130/99/2023, nr. 1.277/99/2023, nr. 950/99/2023, nr. 2.703/99/2023, nr. 2.704/99/2023, nr. 2.705/99/2023, nr. 1.289/99/2023, nr. 1.290/99/2023, nr. 1.992/99/2023, nr. 2.124/99/2023, nr. 2.702/99/2023, nr. 2.712/99/2023, nr. 2.788/99/2023, nr. 3.358/99/2023, nr. 3.083/99/2023, nr. 973/99/2023, nr. 990/99/2023, nr. 1.102/99/2023, nr. 1.383/99/2023, nr. 1.501/99/2023, nr. 1.311/99/2023, nr. 1.218/99/2023, nr. 1.285/99/2023, nr. 1.578/99/2023, nr. 1.667/99/2023, nr. 1.012/99/2023, nr. 1.033/99/2023, nr. 1.872/99/2023, nr. 2.633/99/2023, nr. 2.636/99/2023, nr. 2.126/99/2023, nr. 1.518/99/2023, nr. 2.186/99/2023, nr. 2.118/99/2023, nr. 2.913/99/2023, nr. 3.014/99/2023, nr. 3.656/99/2023, nr. 2.918/99/2023, nr. 2.919/99/2023, nr. 2.957/99/2023, nr. 3.658/99/2023, nr. 3.681/99/2023, nr. 3.707/99/2023, nr. 1.136/99/2023, nr. 1.268/99/2023, nr. 2.163/99/2023, nr. 3.450/99/2023, nr. 989/99/2023, nr. 1.191/99/2023, nr. 5.455/99/2023, nr. 1.614/99/2023, nr. 2.125/99/2023, nr. 4.950/99/2023, nr. 3.107/99/2023, nr. 5.199/99/2023, nr. 1.874/99/2023, nr. 4.587/99/2023, nr. 5.197/99/2023, nr. 1.278/99/2023, nr. 3.213/99/2023, nr. 1.126/99/2023, nr. 1.291/99/2023, nr. 278/89/2023, nr. 307/89/2023, nr. 316/89/2023, nr. 317/89/2023, nr. 318/89/2023, nr. 336/89/2023, nr. 355/89/2023, nr. 358/89/2023, nr. 364/89/2023, nr. 366/89/2023, nr. 370/89/2023, nr. 372/89/2023, nr. 375/89/2023, nr. 398/89/2023, nr. 402/89/2023, nr. 404/89/2023, nr. 409/89/2023, nr. 410/89/2023, nr. 413/89/2023, nr. 416/89/2023, nr. 418/89/2023, nr. 545/89/2023, nr. 570/89/2023, nr. 407/89/2023, nr. 352/89/2023, nr. 390/89/2023, nr. 396/89/2023, nr. 377/89/2023, nr. 379/89/2023, nr. 392/89/2023, nr. 429/89/2023, nr. 710/89/2023, nr. 1.038/89/2023, nr. 342/89/2023, nr. 343/89/2023, nr. 345/89/2023, nr. 354/89/2023, nr. 356/89/2023, nr. 357/89/2023, nr. 365/89/2023, nr. 367/89/2023, nr. 368/89/2023, nr. 371/89/2023, nr. 373/89/2023, nr. 374/89/2023, nr. 376/89/2023, nr. 389/89/2023, nr. 391/89/2023, nr. 395/89/2023, nr. 438/89/2023, nr. 461/89/2023, nr. 585/89/2023, nr. 399/89/2023, nr. 401/89/2023, nr. 405/89/2023, nr. 408/89/2023, nr. 411/89/2023, nr. 414/89/2023, nr. 415/89/2023, nr. 423/89/2023, nr. 426/89/2023, nr. 431/89/2023, nr. 468/89/2023, nr. 469/89/2023, nr. 406/89/2023 și nr. 1.764/89/2023 ale Curții de Apel Brașov - Secția contencios administrativ și fiscal, Tribunalului Brașov - Secția I civilă, Tribunalului Covasna - Secția civilă, Curții de Apel Galați - Secția contencios administrativ și fiscal și Secția conflicte de muncă și asigurări sociale - Dosarul nr. 998/91/2023, Tribunalului Galați - Secția I civilă, Tribunalului Brăila - Secția a II-a de contencios administrativ și fiscal, Tribunalului Vrancea - Secția I civilă, Curții de Apel Iași - Secția contencios administrativ și fiscal și Secția conflicte de muncă și asigurări sociale, Tribunalului Iași - Secția I civilă și ale Tribunalului Vaslui - Secția civilă și constată că Ordonanța de urgență a Guvernului nr. 59/2017 privind modificarea și completarea unor acte normative din domeniul pensiilor de serviciu, în ansamblul său, dispozițiile art. VII din această ordonanță de urgență și ale art. 84 din Ordonanța de urgență a Guvernului nr. 114/2018 privind instituirea unor măsuri în domeniul investițiilor publice și a unor măsuri fiscal-bugetare, modificarea și completarea unor acte normative și prorogarea unor termene sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Curții de Apel Brașov - Secția contencios administrativ și fiscal, Tribunalului Brașov - Secția I civilă, Tribunalului Covasna - Secția civilă, Curții de Apel Galați - Secția contencios administrativ și fiscal și Secția conflicte de muncă și asigurări sociale - Dosarul nr. 998/91/2023, Tribunalului Galați - Secția I civilă, Tribunalului Brăila - Secția a II-a de contencios administrativ și fiscal, Tribunalului Vrancea - Secția I civilă, Curții de Apel Iași - Secția contencios administrativ și fiscal și Secția conflicte de muncă și asigurări sociale, Tribunalului Iași - Secția I civilă și Tribunalului Vaslui - Secția civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 59/2017",
+    "number": "59",
+    "year": "2017",
+    "path": "oug/2017/59"
+   },
+   "articles": [
+    {
+     "art": "VII",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "59",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "60",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 42
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "141",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "79",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "147",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "115",
+     "alin": [
+      "4",
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "56",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "139",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 20
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 114/2018",
+    "number": "114",
+    "year": "2018",
+    "path": "oug/2018/114"
+   },
+   "articles": [
+    {
+     "art": "84",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "VII",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "60",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 16
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 73/1993",
+    "number": "73",
+    "year": "1993",
+    "path": "lege/1993/73"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 223/2015",
+    "number": "223",
+    "year": "2015",
+    "path": "lege/2015/223"
+   },
+   "articles": [],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "4"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul 12",
+    "path": null,
+    "slug": "conventia-edo-protocolul-12"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2026-10-26",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/315733",
+  "text_sha256": "17abbb39b5906d38805d23c57ac18d8106fd9358b0068b96dd8e03cfc2c5b21b",
+  "catalogue_sha256": "17abbb39b5906d38805d23c57ac18d8106fd9358b0068b96dd8e03cfc2c5b21b",
+  "fetched": "2026-11-03T00:43:42Z",
+  "chars": 99579,
+  "portal_id": "315733",
+  "tip": "DECIZIE"
+ }
+}
