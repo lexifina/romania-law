@@ -15,6 +15,7 @@ Initiator: Membri ai Parlamentului.
 - 2026-04-14: rejected by the Senate; documents published: Adresă către Camera Deputaților
 - 2026-04-20: registered at the Chamber of Deputies
 - 2026-10-20: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
+- 2026-10-26: sent for promulgation; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -28,3 +29,5 @@ Initiator: Membri ai Parlamentului.
 - 2026-04-14: Adresă către Camera Deputaților (AM): [am-de405915.md](am-de405915.md); official file https://www.senat.ro/legis/PDF/2026/26L182AM.PDF
 - 2026-10-20: Adresă privind sesizarea CCR (AXS): [axs-c7a74afe.md](axs-c7a74afe.md); official file https://www.senat.ro/legis/PDF/2026/26L182AXS.PDF
 - 2026-10-20: Forma trimisă la promulgare (LP): [lp-fcf3b312.md](lp-fcf3b312.md); official file https://www.senat.ro/legis/PDF/2026/26L182LP.PDF
+- 2026-10-26: Document (AG1): not held as text; official file https://www.senat.ro/legis/PDF/2026/26L182AG1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-10-26: Document (CF): [cf-ebeccf0e.md](cf-ebeccf0e.md); official file https://www.senat.ro/legis/PDF/2026/26L182CF.PDF (its day is not given by the bill file: shown from the last stage held)
