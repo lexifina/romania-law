@@ -1,0 +1,265 @@
+{
+ "key": "dcc-416-2026",
+ "label": "Decizia CCR nr. 416/2026",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "416",
+ "date": "2026-04-30",
+ "year": "2026",
+ "heading": "DECIZIA nr. 416 din 30 aprilie 2026",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor cuprinse în anexa nr. VIII cap. II lit. A secțiunea II pct. 6 subpct. 6.2 lit. a) pct. 1 la Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice și ale art. 38 alin. (3), (4) și (6) din același act normativ, în interpretarea dată prin Decizia nr. 27 din 26 octombrie 2020, pronunțată de Înalta Curte de Casație și Justiție - Completul pentru soluționarea recursului în interesul legii, precum și a dispozițiilor art. 23 și ale art. 38 alin. (1) și alin. (2) lit. a) din Legea-cadru nr. 153/2017",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "894",
+  "bis": false,
+  "date": "2026-10-26",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "744/88/2018",
+  "1.967D/2021",
+  "1.543/122/2018",
+  "3.243/3/2020",
+  "17.059/3/2020",
+  "31.844/3/2018",
+  "10.617/3/2020",
+  "25.285/3/2019",
+  "3.336D/2021"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "38",
+     "alin": [
+      "3",
+      "1",
+      "2"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Sindicatul Liber al Personalului Sanitar Veterinar Tulcea, cu sediul în municipiul Tulcea, în numele și pentru membrii săi Marian Arsene, Florin Eugen Pricop și Lorelay Gabriela Onofrei, în Dosarul nr. 744/88/2018 al Curții de Apel Constanța - Secția a II-a civilă, de contencios administrativ și fiscal, de Sindicatul Direcției Sanitare Veterinare și pentru Siguranța Alimentelor Giurgiu, în nume propriu și în calitate de reprezentant al membrilor săi Ion Adrian Badea și alții, în Dosarul nr. 811/122/2018 al Curții de Apel București - Secția a IX-a contencios administrativ și fiscal, de Sindicatul Direcției Sanitare Veterinare și pentru Siguranța Alimentelor Giurgiu, în nume propriu și în calitate de reprezentant al membrilor săi Niculae Alecu și alții, în Dosarul nr. 1.543/122/2018 al Tribunalului Giurgiu - Secția civilă, de Sindicatul Liber Independent din Institutul pentru Controlul Produselor Biologice și Medicamentelor de Uz Veterinar (ICBMV), în calitate de reprezentant al membrei sale Ramona Tacu, în Dosarul nr. 12.627/3/2018 al Curții de Apel București - Secția a IX-a contencios administrativ și fiscal, de Sindicatul Național APIA, în nume propriu și în calitate de reprezentant al membrilor săi Liliana Nicolescu și alții, în Dosarul nr. 3.243/3/2020 al Curții de Apel București - Secția a VIII-a contencios administrativ și fiscal, de Vasilica Lungu, prin Sindicatul Național A.P.I.A., în Dosarul nr. 17.059/3/2020 al Curții de Apel București - Secția a IX-a contencios administrativ și fiscal, de Sindicatul Liber Independent din Institutul de Diagnostic și Sănătate Animală (IDSA), în nume propriu și în calitate de reprezentant al membrilor săi Raluca Maria Bădulescu și alții, în Dosarul nr. 17.225/3/2018 al Curții de Apel București - Secția a IX-a contencios administrativ și fiscal, de Sindicatul Direcției Sanitare Veterinare și pentru Siguranța Alimentelor București, în nume propriu și în calitate de reprezentant al membrilor săi Mihai Sebastian Tudor și alții, în Dosarul nr. 31.844/3/2018* al Curții de Apel București - Secția a VII-a pentru cauze privind conflicte de muncă și asigurări sociale, de Sindicatul Liber Independent din Institutul de Diagnostic și Sănătate Animală (IDSA), în nume propriu și în calitate de reprezentant al membrei sale Mihaela-Florina Bărbuș, în Dosarul nr. 10.617/3/2020 al Tribunalului București - Secția a II-a contencios administrativ și fiscal, precum și, din oficiu, de Curtea de Apel București - Secția a VIII-a contencios administrativ și fiscal în Dosarul nr. 25.285/3/2019, și constată că dispozițiile cuprinse în anexa nr. VIII cap. II lit. A secțiunea II pct. 6 subpct. 6.2 lit. a) pct. 1 la Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice și ale art. 38 alin. (3), (4) și (6) din același act normativ, în interpretarea dată prin Decizia nr. 27 din 26 octombrie 2020, pronunțată de Înalta Curte de Casație și Justiție - Completul pentru soluționarea recursului în interesul legii, precum și dispozițiile art. 23 și ale art. 38 alin. (1) și alin. (2) lit. a) din Legea-cadru nr. 153/2017 sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Curții de Apel Constanța - Secția a II-a civilă, de contencios administrativ și fiscal, Tribunalului Giurgiu - Secția civilă, Curții de Apel București - Secția a VIII-a contencios administrativ și fiscal și Secția a IX-a contencios administrativ și fiscal, Curții de Apel București - Secția a VII-a pentru cauze privind conflicte de muncă și asigurări sociale și Tribunalului București - Secția a II-a contencios administrativ și fiscal și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "38",
+     "alin": [
+      "3",
+      "1",
+      "2",
+      "4"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 34
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 229/2020",
+    "number": "229",
+    "year": "2020",
+    "path": "lege/2020/229"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "148",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 12 la Convenție",
+    "path": null,
+    "slug": "conventia-edo-protocolul-12"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "4",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 7
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2026-10-26",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/315720",
+  "text_sha256": "d66a367b8b654ef0ae8710619f80dba18e98352d15bbe665947e9a5b415a0348",
+  "catalogue_sha256": "d66a367b8b654ef0ae8710619f80dba18e98352d15bbe665947e9a5b415a0348",
+  "fetched": "2026-11-03T00:43:39Z",
+  "chars": 57433,
+  "portal_id": "315720",
+  "tip": "DECIZIE"
+ }
+}
