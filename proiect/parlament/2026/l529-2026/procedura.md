@@ -15,6 +15,7 @@ Initiator: Membri ai Parlamentului.
 - 2026-09-10: documents published: Aviz comisie
 - 2026-09-22: documents published: Aviz comisie
 - 2026-10-22: documents published: Raport comisie sesizată pe fond
+- 2026-10-26: adopted by the Senate; documents published: Document (day not given by the bill file), Forma adoptată de Senat, Adresă către Camera Deputaților
 
 ## Documents
 
@@ -29,3 +30,10 @@ Initiator: Membri ai Parlamentului.
 - 2026-09-10: Aviz comisie (CA60): [ca60-f93f0793.md](ca60-f93f0793.md); official file https://www.senat.ro/legis/PDF/2026/26L529CA60.PDF
 - 2026-09-22: Aviz comisie (CA12): [ca12-127af264.md](ca12-127af264.md); official file https://www.senat.ro/legis/PDF/2026/26L529CA12.PDF
 - 2026-10-22: Raport comisie sesizată pe fond (CR): [cr-da7f7be5.md](cr-da7f7be5.md); official file https://www.senat.ro/legis/PDF/2026/26L529CR.PDF
+- 2026-10-26: Document (CF): [cf-a9234c06.md](cf-a9234c06.md); official file https://www.senat.ro/legis/PDF/2026/26L529CF.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-10-26: Document (CC): [cc-f6b54a97.md](cc-f6b54a97.md); official file https://www.senat.ro/legis/PDF/2026/26L529CC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-10-26: Document (BNR): [bnr-0636048c.md](bnr-0636048c.md); official file https://www.senat.ro/legis/PDF/2026/26L529BNR.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-10-26: Document (AG1): [ag1-110c3741.md](ag1-110c3741.md); official file https://www.senat.ro/legis/PDF/2026/26L529AG1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-10-26: Document (AG2): [ag2-e1a2a574.md](ag2-e1a2a574.md); official file https://www.senat.ro/legis/PDF/2026/26L529AG2.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-10-26: Forma adoptată de Senat (FS): [fs-d71c595a.md](fs-d71c595a.md); official file https://www.senat.ro/legis/PDF/2026/26L529FS.PDF
+- 2026-10-26: Adresă către Camera Deputaților (AM): [am-4ea092e3.md](am-4ea092e3.md); official file https://www.senat.ro/legis/PDF/2026/26L529AM.PDF
