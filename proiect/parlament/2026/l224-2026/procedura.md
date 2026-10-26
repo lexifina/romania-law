@@ -18,6 +18,7 @@ Initiator: Membri ai Parlamentului.
 - 2026-05-26: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților
 - 2026-10-14: adopted by the Chamber of Deputies; documents published: Forma adoptată de Camera Deputaților
 - 2026-10-20: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
+- 2026-10-26: sent for promulgation; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -36,3 +37,9 @@ Initiator: Membri ai Parlamentului.
 - 2026-10-14: Forma adoptată de Camera Deputaților (FC): [fc-2aa4f40d.md](fc-2aa4f40d.md); official file https://www.senat.ro/legis/PDF/2026/26L224FC.PDF
 - 2026-10-20: Adresă privind sesizarea CCR (AXS): [axs-3c15175a.md](axs-3c15175a.md); official file https://www.senat.ro/legis/PDF/2026/26L224AXS.PDF
 - 2026-10-20: Forma trimisă la promulgare (LP): [lp-cc6b1cee.md](lp-cc6b1cee.md); official file https://www.senat.ro/legis/PDF/2026/26L224LP.PDF
+- 2026-10-26: Document (AG1): [ag1-7b3d4a19.md](ag1-7b3d4a19.md); official file https://www.senat.ro/legis/PDF/2026/26L224AG1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-10-26: Document (CF): [cf-242e8c61.md](cf-242e8c61.md); official file https://www.senat.ro/legis/PDF/2026/26L224CF.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-10-26: Document (CC): [cc-6782208a.md](cc-6782208a.md); official file https://www.senat.ro/legis/PDF/2026/26L224CC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-10-26: Document (SM): [sm-7809ce4b.md](sm-7809ce4b.md); official file https://www.senat.ro/legis/PDF/2026/26L224SM.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-10-26: Document (AG2): [ag2-e6437233.md](ag2-e6437233.md); official file https://www.senat.ro/legis/PDF/2026/26L224AG2.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-10-26: Document (AG3): not held as text; official file https://www.senat.ro/legis/PDF/2026/26L224AG3.PDF (its day is not given by the bill file: shown from the last stage held)
