@@ -12,6 +12,7 @@ Initiator: Guvernul României.
 - 2026-06-22: documents published: Aviz Consiliul Economic și Social, Aviz Consiliul Legislativ, Punct de vedere
 - 2026-09-08: documents published: Aviz comisie
 - 2026-09-09: documents published: Aviz comisie
+- 2026-10-26: adopted by the Senate; documents published: Raport comisie sesizată pe fond, Forma adoptată de Senat, Adresă către Camera Deputaților, Expunere de motive
 
 ## Documents
 
@@ -23,3 +24,7 @@ Initiator: Guvernul României.
 - 2026-06-22: Punct de vedere (PV): [pv-8a0128a6.md](pv-8a0128a6.md); official file https://www.senat.ro/legis/PDF/2026/26L511PV.PDF
 - 2026-09-08: Aviz comisie (CA42): [ca42-2a62afd0.md](ca42-2a62afd0.md); official file https://www.senat.ro/legis/PDF/2026/26L511CA42.PDF
 - 2026-09-09: Aviz comisie (CA57): [ca57-742a591e.md](ca57-742a591e.md); official file https://www.senat.ro/legis/PDF/2026/26L511CA57.PDF
+- 2026-10-26: Raport comisie sesizată pe fond (CR): [cr-6fc6d6b3.md](cr-6fc6d6b3.md); official file https://www.senat.ro/legis/PDF/2026/26L511CR.PDF
+- 2026-10-26: Forma adoptată de Senat (FS): [fs-2d44e290.md](fs-2d44e290.md); official file https://www.senat.ro/legis/PDF/2026/26L511FS.PDF
+- 2026-10-26: Adresă către Camera Deputaților (AM): [am-721be621.md](am-721be621.md); official file https://www.senat.ro/legis/PDF/2026/26L511AM.PDF
+- 2026-10-26: Expunere de motive (EM): not held as text; official file https://www.cdep.ro/proiecte/2026/700/00/6/em799.pdf
