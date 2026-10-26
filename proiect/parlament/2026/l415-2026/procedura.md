@@ -16,6 +16,7 @@ Initiator: Membri ai Parlamentului.
 - 2026-08-24: returned for re-examination
 - 2026-09-16: adopted by the Senate
 - 2026-10-14: adopted by the Chamber of Deputies
+- 2026-10-26: sent for promulgation
 
 ## Documents
 
