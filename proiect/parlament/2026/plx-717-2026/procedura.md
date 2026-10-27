@@ -11,6 +11,7 @@ Initiator: Guvernul României.
 - 2026-06-29: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 - 2026-07-22: documents published: Aviz Consiliul Economic și Social, Aviz Consiliul Legislativ
 - 2026-10-07: documents published: Aviz comisie
+- 2026-10-27: documents published: Raport comisie sesizată pe fond
 
 ## Documents
 
@@ -20,3 +21,4 @@ Initiator: Guvernul României.
 - 2026-07-22: Aviz Consiliul Economic și Social (ES): [es-7d96b846.md](es-7d96b846.md); official file https://www.senat.ro/legis/PDF/2026/26L532ES.PDF
 - 2026-07-22: Aviz Consiliul Legislativ (LG): [lg-1bb90d84.md](lg-1bb90d84.md); official file https://www.senat.ro/legis/PDF/2026/26L532LG.PDF
 - 2026-10-07: Aviz comisie (CA12): [ca12-3b34a526.md](ca12-3b34a526.md); official file https://www.senat.ro/legis/PDF/2026/26L532CA12.PDF
+- 2026-10-27: Raport comisie sesizată pe fond (CR): [cr-34328216.md](cr-34328216.md); official file https://www.senat.ro/legis/PDF/2026/26L532CR.PDF
