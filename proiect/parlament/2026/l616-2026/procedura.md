@@ -9,6 +9,7 @@ Initiator: Membri ai Parlamentului.
 ## Stages published so far
 
 - 2026-06-17: registered at the Chamber of Deputies
+- 2026-10-28: rejected by the Chamber of Deputies
 
 ## Documents
 
