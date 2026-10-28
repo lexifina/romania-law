@@ -12,6 +12,7 @@ Initiator: Membri ai Parlamentului.
 - 2026-04-20: documents published: Aviz Consiliul Economic și Social, Aviz Consiliul Legislativ, Punct de vedere Guvern
 - 2026-06-02: registered at the Senate
 - 2026-06-24: registered at the Chamber of Deputies
+- 2026-10-28: rejected by the Chamber of Deputies
 
 ## Documents
 
