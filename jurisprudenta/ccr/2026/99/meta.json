@@ -1,0 +1,179 @@
+{
+ "key": "dcc-99-2026",
+ "label": "Decizia CCR nr. 99/2026",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "99",
+ "date": "2026-02-05",
+ "year": "2026",
+ "heading": "DECIZIE nr. 99 din 5 februarie 2026",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 87 pct. 4) și ale art. 88 alin. (1) lit. b) din Legea apelor nr. 107/1996",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "899",
+  "bis": false,
+  "date": "2026-10-28",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.374D/2020",
+  "2.762/252/2020"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea apelor nr. 107/1996",
+    "number": "107",
+    "year": "1996",
+    "path": "lege/1996/107"
+   },
+   "articles": [
+    {
+     "art": "87",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "88",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepția de neconstituționalitate a dispozițiilor art. 87 pct. 4) și ale art. 88 alin. (1) lit. b) din Legea apelor nr. 107/1996, excepție ridicată de Societatea Meridian 22 - S.A. din Lugoj în Dosarul nr. 2.762/252/2020 al Judecătoriei Lugoj.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Judecătoriei Lugoj și se publică în Monitorul Oficial al României, Partea I. Pronunțată în ședința din data de 5 februarie 2026."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea apelor nr. 107/1996",
+    "number": "107",
+    "year": "1996",
+    "path": "lege/1996/107"
+   },
+   "articles": [
+    {
+     "art": "87",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "88",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituției",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "148",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 68/2007",
+    "number": "68",
+    "year": "2007",
+    "path": "oug/2007/68"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2026-10-28",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/315762",
+  "text_sha256": "fdac4bf903c0f214bfef92c056127070a34186d0479c9127a137f01f472bc081",
+  "catalogue_sha256": "fdac4bf903c0f214bfef92c056127070a34186d0479c9127a137f01f472bc081",
+  "fetched": "2026-11-03T00:43:36Z",
+  "chars": 9862,
+  "portal_id": "315762",
+  "tip": "DECIZIE"
+ }
+}
