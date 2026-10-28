@@ -12,6 +12,7 @@ Initiator: Membri ai Parlamentului.
 - 2026-08-18: documents published: Aviz Consiliul Economic și Social, Aviz Consiliul Legislativ, Punct de vedere
 - 2026-10-22: documents published: Raport comisie sesizată pe fond
 - 2026-10-26: rejected by the Senate; documents published: Adresă către Camera Deputaților, Expunere de motive
+- 2026-10-28: documents published: Document (day not given by the bill file), Forma inițiatorului (day not given by the bill file), Document (opcfisc) (day not given by the bill file), Aviz Consiliul Economic și Social (day not given by the bill file), Aviz Consiliul Legislativ (day not given by the bill file), …
 
 ## Documents
 
@@ -24,3 +25,11 @@ Initiator: Membri ai Parlamentului.
 - 2026-10-22: Raport comisie sesizată pe fond (CR): [cr-a5fc8a24.md](cr-a5fc8a24.md); official file https://www.senat.ro/legis/PDF/2026/26L546CR.PDF
 - 2026-10-26: Adresă către Camera Deputaților (AM): [am-9b8121b7.md](am-9b8121b7.md); official file https://www.senat.ro/legis/PDF/2026/26L546AM.PDF
 - 2026-10-26: Expunere de motive (EM): not held as text; official file https://www.cdep.ro/proiecte/2026/700/10/5/em810.pdf
+- 2026-10-28: Document (CF): [cf-ada483e5.md](cf-ada483e5.md); official file https://www.senat.ro/legis/PDF/2026/26L546CF.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-10-28: Forma inițiatorului (FI): not held as text; official file https://www.cdep.ro/proiecte/2026/700/10/5/pl810.pdf (its day is not given by the bill file: shown from the last stage held)
+- 2026-10-28: Document (opcfisc) (DOC): not held as text; official file https://www.cdep.ro/proiecte/2026/700/10/5/opcfisc810.pdf (its day is not given by the bill file: shown from the last stage held)
+- 2026-10-28: Aviz Consiliul Economic și Social (CES): not held as text; official file https://www.cdep.ro/proiecte/2026/700/10/5/ces810.pdf (its day is not given by the bill file: shown from the last stage held)
+- 2026-10-28: Aviz Consiliul Legislativ (CL): not held as text; official file https://www.cdep.ro/proiecte/2026/700/10/5/cl810.pdf (its day is not given by the bill file: shown from the last stage held)
+- 2026-10-28: Document (pvg) (DOC): not held as text; official file https://www.cdep.ro/proiecte/2026/700/10/5/pvg810.pdf (its day is not given by the bill file: shown from the last stage held)
+- 2026-10-28: Forma adoptată (FA): not held as text; official file https://www.cdep.ro/proiecte/2026/700/10/5/as715.pdf (its day is not given by the bill file: shown from the last stage held)
+- 2026-10-28: Forma inițiatorului (FI): not held as text; official file https://www.cdep.ro/proiecte/2026/700/10/5/in810.pdf (its day is not given by the bill file: shown from the last stage held)
