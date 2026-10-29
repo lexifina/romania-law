@@ -1,0 +1,11 @@
+{
+  "path": "ro",
+  "code": "RO",
+  "name": "Romania",
+  "level": "country",
+  "repo": "https://github.com/lexifina/romania-law",
+  "build": "built: Constituția 1991-2003 (2 versions), Codul civil 2011-2026 (13), Codul penal 2014-2026 (45)",
+  "register": "https://claude.ai/artifact/DdS9F6yqpPZtV2i7FGQhYZ",
+  "register_date": "2026-10-28",
+  "sources": 2
+}
