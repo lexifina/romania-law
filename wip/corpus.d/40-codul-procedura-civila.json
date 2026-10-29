@@ -4,9 +4,9 @@
    "name": "Common Crawl (CC-MAIN-2025-18, CC-MAIN-2025-33, CC-MAIN-2025-38, CC-MAIN-2025-43, CC-MAIN-2025-47, CC-MAIN-2025-51, CC-MAIN-2026-04, CC-MAIN-2026-08, CC-MAIN-2026-25, CC-MAIN-2026-30): captures of legislatie.just.ro for the Codul de procedură civilă",
    "url": "https://commoncrawl.org/",
    "retrieved": "2026-10-29",
-   "requests": 39,
+   "requests": 40,
    "licence": "Common Crawl terms of use (https://commoncrawl.org/terms-of-use); the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției).",
-   "notes": "39 page captures, read by byte range from the WARC files (each version's source_url names the WARC file, offset, length and page URL). Found with one prefix query per crawl over the newest 40 crawls (gitlaw_common/wayback.py, reading the index files from the data host); a capture counts only when it is complete and shows the form its document id stands for."
+   "notes": "40 page captures, read by byte range from the WARC files (each version's source_url names the WARC file, offset, length and page URL). Found with one prefix query per crawl over the newest 40 crawls (gitlaw_common/wayback.py, reading the index files from the data host); a capture counts only when it is complete and shows the form its document id stands for."
   },
   {
    "name": "Internet Archive, Wayback Machine: id_ raw captures of legislatie.just.ro for the Codul de procedură civilă",
@@ -5893,11 +5893,6 @@
        "kind": "art",
        "text": "# Articolul 5\nÎndatoriri privind primirea și soluționarea cererilor\n(1) Judecătorii au îndatorirea să primească și să soluționeze orice cerere de competența instanțelor judecătorești, potrivit legii.\n(2) Niciun judecător nu poate refuza să judece pe motiv că legea nu prevede, este neclară sau incompletă.\n(3) În cazul în care o pricină nu poate fi soluționată nici în baza legii, nici a uzanțelor, iar în lipsa acestora din urmă, nici în baza dispozițiilor legale privitoare la situații asemănătoare, ea va trebui judecată în baza principiilor generale ale dreptului, având în vedere toate circumstanțele acesteia și ținând seama de cerințele echității.\n(4) Este interzis judecătorului să stabilească dispoziții general obligatorii prin hotărârile pe care le pronunță în cauzele ce îi sunt supuse judecății.\n"
       },
-      "art-0013": {
-       "label": "Art. 13",
-       "kind": "art",
-       "text": "# Articolul 13\nDreptul la apărare\n(1) Dreptul la apărare este garantat.\n(2) Părțile au dreptul, în tot cursul procesului, de a fi reprezentate sau, după caz, asistate în condițiile legii. În recurs, cererile și concluziile părților nu pot fi formulate și susținute decât prin avocat sau, după caz, consilier juridic, cu excepția situației în care partea sau mandatarul acesteia, soț ori rudă până la gradul al doilea inclusiv, este licențiată în drept.\n(3) Părților li se asigură posibilitatea de a participa la toate fazele de desfășurare a procesului. Ele pot să ia cunoștință de cuprinsul dosarului, să propună probe, să își facă apărări, să își prezinte susținerile în scris și oral și să exercite căile legale de atac, cu respectarea condițiilor prevăzute de lege.\n(4) Instanța poate dispune înfățișarea în persoană a părților, chiar atunci când acestea sunt reprezentate.\nConform art. XI, Secțiunea 1, Cap. II din LEGEA nr. 2 din 1 februarie 2013, publicată în MONITORUL OFICIAL nr. 89 din 12 februarie 2013, în aplicarea dispozițiilor art. 13 alin. (2) din Legea nr. 134/2010 privind Codul de procedură civilă, republicată, în cazul instanțelor judecătorești și parchetelor, în recurs, cererile și concluziile pot fi formulate și susținute de către președintele instanței sau de către conducătorul parchetului, de către consilierul juridic ori de către judecătorul sau procurorul desemnat, în acest scop, de președintele instanței ori de conducătorul parchetului.\n"
-      },
       "art-0018": {
        "label": "Art. 18",
        "kind": "art",
@@ -6981,7 +6976,7 @@
       "art-0244": {
        "label": "Art. 244",
        "kind": "art",
-       "text": "# Articolul 244\nTerminarea cercetării procesului\n(1) Când judecătorul se socotește lămurit, prin încheiere, declară cercetarea procesului încheiată și fixează termen pentru dezbaterea fondului în ședință publică.\n(2) Pentru dezbaterea fondului, judecătorul pune în vedere părților să redacteze note privind susținerile lor și să le depună la dosar cu cel puțin 5 zile înainte de termenul stabilit potrivit alin. (1), fără a aduce atingere dreptului acestora de a formula concluzii orale.\n(3) Părțile pot fi de acord ca dezbaterea fondului să urmeze în camera de consiliu, în aceeași zi sau la un alt termen.\n(4) Cererea de judecată în lipsă presupune că partea care a formulat-o a fost de acord și ca dezbaterea fondului să aibă loc în camera de consiliu, în afară de cazul în care partea a solicitat expres ca aceasta să aibă loc în ședință publică.\nConform art. XII, Secțiunea a-2-a, Cap. II din LEGEA nr. 2 din 1 februarie 2013, publicată în MONITORUL OFICIAL nr. 89 din 12 februarie 2013, dispozițiile Legii nr. 134/2010 privind odul de procedură civilă, republicată, privind cercetarea procesului și, după caz, dezbaterea fondului în camera de consiliu se aplică proceselor pornite începând cu data de 1 ianuarie 016.\nÎn procesele pornite începând cu data intrării în vigoare a prezentei legi și până la data de 31 decembrie 2015, cercetarea procesului și, după caz, dezbaterea fondului se desfășoară în ședință publică, dacă legea nu prevede altfel.\n"
+       "text": "# Articolul 244\nTerminarea cercetării procesului\n(1) Când judecătorul se socotește lămurit, prin încheiere, declară cercetarea procesului încheiată și fixează termen pentru dezbaterea fondului în ședință publică.\n(2) Pentru dezbaterea fondului, judecătorul pune în vedere părților să redacteze note privind susținerile lor și să le depună la dosar cu cel puțin 5 zile înainte de termenul stabilit potrivit alin. (1), fără a aduce atingere dreptului acestora de a formula concluzii orale.\n(3) Părțile pot fi de acord ca dezbaterea fondului să urmeze în camera de consiliu, în aceeași zi sau la un alt termen.\n(4) Cererea de judecată în lipsă presupune că partea care a formulat-o a fost de acord și ca dezbaterea fondului să aibă loc în camera de consiliu, în afară de cazul în care partea a solicitat expres ca aceasta să aibă loc în ședință publică.\n"
       },
       "art-0245": {
        "label": "Art. 245",
@@ -7731,7 +7726,7 @@
       "art-0394": {
        "label": "Art. 394",
        "kind": "art",
-       "text": "# Articolul 394\nÎnchiderea dezbaterilor în fond\n(1) Când consideră că au fost lămurite toate împrejurările de fapt și temeiurile de drept ale cauzei, președintele închide dezbaterile.\n(2) Dacă va considera necesar, instanța poate cere părților, la închiderea dezbaterilor, să depună completări la notele întocmite potrivit art. 244. Părțile pot depune aceste completări și în cazul în care acestea nu au fost cerute de instanță.\n(3) După închiderea dezbaterilor, părțile nu mai pot depune niciun înscris la dosarul cauzei, sub sancțiunea de a nu fi luat în seamă.\nConform art. XII, Secțiunea a-2-a, Cap. II din LEGEA nr. 2 din 1 februarie 2013, publicată în MONITORUL OFICIAL nr. 89 din 12 februarie 2013, dispozițiile Legii nr. 134/2010 privind odul de procedură civilă, republicată, privind cercetarea procesului și, după caz, dezbaterea fondului în camera de consiliu se aplică proceselor pornite începând cu data de 1 ianuarie 016.\nÎn procesele pornite începând cu data intrării în vigoare a prezentei legi și până la data de 31 decembrie 2015, cercetarea procesului și, după caz, dezbaterea fondului se desfășoară în ședință publică, dacă legea nu prevede altfel.\n"
+       "text": "# Articolul 394\nÎnchiderea dezbaterilor în fond\n(1) Când consideră că au fost lămurite toate împrejurările de fapt și temeiurile de drept ale cauzei, președintele închide dezbaterile.\n(2) Dacă va considera necesar, instanța poate cere părților, la închiderea dezbaterilor, să depună completări la notele întocmite potrivit art. 244. Părțile pot depune aceste completări și în cazul în care acestea nu au fost cerute de instanță.\n(3) După închiderea dezbaterilor, părțile nu mai pot depune niciun înscris la dosarul cauzei, sub sancțiunea de a nu fi luat în seamă.\n"
       },
       "art-0395": {
        "label": "Art. 395",
@@ -8171,7 +8166,7 @@
       "art-0482": {
        "label": "Art. 482",
        "kind": "art",
-       "text": "# Articolul 482\nCompletare cu alte norme\nDispozițiile de procedură privind judecata în primă instanță se aplică și în instanța de apel, în măsura în care nu sunt potrivnice celor cuprinse în prezentul capitol.\nConform art. XIII, Secțiunea a-2-a, Cap. II din LEGEA nr. 2 din 1 februarie 2013, publicată în MONITORUL OFICIAL nr. 89 din 12 februarie 2013, dispozițiile Legii nr. 134/2010 privind Codul de procedură civilă, republicată, privitoare la pregătirea dosarului de apel sau, după caz, de recurs de către instanța a cărei hotărâre se atacă se aplică în procesele pornite începând cu data de 1 ianuarie 2016. În procesele pornite începând cu data intrării în vigoare a prezentei legi și până la data de 31 decembrie 2015 se aplică dispozițiile art. XIV-XVII.\n"
+       "text": "# Articolul 482\nCompletare cu alte norme\nDispozițiile de procedură privind judecata în primă instanță se aplică și în instanța de apel, în măsura în care nu sunt potrivnice celor cuprinse în prezentul capitol.\n"
       },
       "art-0483": {
        "label": "Art. 483",
@@ -8271,7 +8266,7 @@
       "art-0502": {
        "label": "Art. 502",
        "kind": "art",
-       "text": "# Articolul 502\nNeînrăutățirea situației în propria cale de atac\nLa judecarea recursului, precum și la rejudecarea procesului după casarea hotărârii de către instanța de recurs, dispozițiile art. 481 sunt aplicabile în mod corespunzător.\nConform art. XIII, Secțiunea a-2-a, Cap. II din LEGEA nr. 2 din 1 februarie 2013, publicată în MONITORUL OFICIAL nr. 89 din 12 februarie 2013, dispozițiile Legii nr. 134/2010 privind Codul de procedură civilă, republicată, privitoare la pregătirea dosarului de apel sau, după caz, de recurs de către instanța a cărei hotărâre se atacă se aplică în procesele pornite începând cu data de 1 ianuarie 2016. În procesele pornite începând cu data intrării în vigoare a prezentei legi și până la data de 31 decembrie 2015 se aplică dispozițiile art. XIV-XVII.\n"
+       "text": "# Articolul 502\nNeînrăutățirea situației în propria cale de atac\nLa judecarea recursului, precum și la rejudecarea procesului după casarea hotărârii de către instanța de recurs, dispozițiile art. 481 sunt aplicabile în mod corespunzător.\n"
       },
       "art-0503": {
        "label": "Art. 503",
@@ -11437,9 +11432,6 @@
        "legea-76-2012"
       ],
       "art-0005": [
-       "legea-76-2012"
-      ],
-      "art-0013": [
        "legea-76-2012"
       ],
       "art-0018": [
@@ -15150,11 +15142,6 @@
        "kind": "art",
        "text": "# Articolul 234\nReguli aplicabile\n(1) Dispozițiile privitoare la deliberare, opinie separată, precum și orice alte dispoziții referitoare la hotărârile prin care instanța se dezinvestește de judecarea fondului cererii se aplică în mod corespunzător și încheierilor.\n(2) În cazul în care încheierile pronunțate de instanță pe parcursul judecății sunt supuse apelului sau, după caz, recursului separat de hotărârea de fond, dosarul se înaintează instanței superioare în copie certificată de grefa instanței a cărei încheiere se atacă.\n(3) În cazul în care se declară apel sau, după caz, recurs împotriva unei încheieri cu privire la care există o chestiune litigioasă asupra admisibilității atacării pe cale separată a încheierii, cererea de exercitare a căii de atac se înaintează instanței superioare împreună cu o copie de pe încheierea atacată, certificată de grefa instanței. Dacă instanța de control judiciar constată admisibilitatea căii de atac, va cere instanței care a pronunțat încheierea atacată să înainteze dosarul cauzei, în condițiile alin. (2).\n"
       },
-      "art-0244": {
-       "label": "Art. 244",
-       "kind": "art",
-       "text": "# Articolul 244\nTerminarea cercetării procesului\n(1) Când judecătorul se socotește lămurit, prin încheiere, declară cercetarea procesului încheiată și fixează termen pentru dezbaterea fondului în ședință publică.\n(2) Pentru dezbaterea fondului, judecătorul pune în vedere părților să redacteze note privind susținerile lor și să le depună la dosar cu cel puțin 5 zile înainte de termenul stabilit potrivit alin. (1), fără a aduce atingere dreptului acestora de a formula concluzii orale.\n(3) Părțile pot fi de acord ca dezbaterea fondului să urmeze în camera de consiliu, în aceeași zi sau la un alt termen.\n(4) Cererea de judecată în lipsă presupune că partea care a formulat-o a fost de acord și ca dezbaterea fondului să aibă loc în camera de consiliu, în afară de cazul în care partea a solicitat expres ca aceasta să aibă loc în ședință publică.\nConform art. XII, Secțiunea a-2-a, Cap. II din LEGEA nr. 2 din 1 februarie 2013, publicată în MONITORUL OFICIAL nr. 89 din 12 februarie 2013, dispozițiile Legii nr. 134/2010 privind Codul de procedură civilă, republicată, privind cercetarea procesului și, după caz, dezbaterea fondului în camera de consiliu se aplică proceselor pornite începând cu data de 1 ianuarie 2016.\nÎn procesele pornite începând cu data intrării în vigoare a prezentei legi și până la data de 31 decembrie 2015, cercetarea procesului și, după caz, dezbaterea fondului se desfășoară în ședință publică, dacă legea nu prevede altfel.\n"
-      },
       "art-0253": {
        "label": "Art. 253",
        "kind": "art",
@@ -15164,11 +15151,6 @@
        "label": "Art. 356",
        "kind": "art",
        "text": "# Articolul 356\nLuarea interogatoriului părții aflate în străinătate\n(1) Dacă prin tratate sau convenții internaționale la care România este parte ori prin acte normative speciale nu se prevede altfel, partea care se află în străinătate și este reprezentată în proces printr-un mandatar va putea fi interogată prin acesta.\n(2) În acest caz, interogatoriul va fi comunicat în scris mandatarului, care va depune răspunsul părții dat în cuprinsul unei procuri speciale și autentice. Dacă mandatarul este avocat, procura specială certificată de acesta este suficientă.\n"
-      },
-      "art-0394": {
-       "label": "Art. 394",
-       "kind": "art",
-       "text": "# Articolul 394\nÎnchiderea dezbaterilor în fond\n(1) Când consideră că au fost lămurite toate împrejurările de fapt și temeiurile de drept ale cauzei, președintele închide dezbaterile.\n(2) Dacă va considera necesar, instanța poate cere părților, la închiderea dezbaterilor, să depună completări la notele întocmite potrivit art. 244. Părțile pot depune aceste completări și în cazul în care acestea nu au fost cerute de instanță.\n(3) După închiderea dezbaterilor, părțile nu mai pot depune niciun înscris la dosarul cauzei, sub sancțiunea de a nu fi luat în seamă.\nConform art. XII, Secțiunea a-2-a, Cap. II din LEGEA nr. 2 din 1 februarie 2013, publicată în MONITORUL OFICIAL nr. 89 din 12 februarie 2013, dispozițiile Legii nr. 134/2010 privind Codul de procedură civilă, republicată, privind cercetarea procesului și, după caz, dezbaterea fondului în camera de consiliu se aplică proceselor pornite începând cu data de 1 ianuarie 2016.\nÎn procesele pornite începând cu data intrării în vigoare a prezentei legi și până la data de 31 decembrie 2015, cercetarea procesului și, după caz, dezbaterea fondului se desfășoară în ședință publică, dacă legea nu prevede altfel.\n"
       },
       "art-0404": {
        "label": "Art. 404",
@@ -15218,7 +15200,7 @@
       "art-0659": {
        "label": "Art. 659",
        "kind": "art",
-       "text": "# Articolul 659\nÎndatorirea terților de a da informații\n(1) La cererea executorului judecătoresc, cei care datorează sume de bani debitorului urmărit ori dețin bunuri ale acestuia supuse urmăririi, potrivit legii, au datoria să comunice în scris toate informațiile necesare pentru efectuarea executării. Ei sunt ținuți să declare întinderea obligațiilor lor față de debitorul urmărit, eventuale modalități care le-ar putea afecta, sechestre anterioare, cesiuni de creanță, subrogații, preluări de datorie, novații, precum și orice alte acte sau fapte de natură să modifice conținutul ori părțile raportului obligațional sau regimul juridic al bunului deținut. La cererea executorului judecătoresc sau a părții interesate, instanța de executare poate lua măsurile prevăzute la art. 187 alin. (1) pct. 2 lit. f) și la art. 189.\n(2) De asemenea, la cererea executorului judecătoresc, instituțiile publice, instituțiile de credit și orice alte persoane fizice sau juridice sunt obligate să îi comunice, de îndată, în scris, datele și informațiile apreciate de executorul judecătoresc ca fiind necesare realizării executării silite, chiar dacă prin legi speciale se dispune altfel. Tot astfel, organele fiscale sunt obligate să comunice, în aceleași condiții, datele și informațiile pe care le administrează potrivit legii. La cererea executorului judecătoresc sau a părții interesate, instanța de executare poate lua măsurile prevăzute la art. 187 alin. (1) pct. 2 lit. f) și la art. 189.\n(3) Dacă cei sesizați nu dispun de informațiile solicitate sau, după caz, refuză să le dea, Ministerul Public va întreprinde, la cererea executorului judecătoresc, diligențele necesare pentru aflarea informațiilor cerute, în special pentru identificarea entităților publice sau private la care debitorul are deschise conturi sau depozite bancare, plasamente de valori mobiliare, este acționar ori asociat sau, după caz, deține titluri de stat, bonuri de tezaur și alte titluri de valoare susceptibile de urmărire silită.\n(4) Executorul judecătoresc este obligat să asigure secretul informațiilor primite, dacă legea nu prevede altfel. Aceste informații nu pot fi utilizate decât în scopul pentru care au fost cerute, fiind interzisă cu desăvârșire, sub sancțiunile prevăzute de lege, divulgarea lor către terțe persoane sau utilizarea lor pentru crearea unei baze de date personale.\n(5) În vederea obținerii informațiilor necesare executării, executorul judecătoresc are acces liber la cartea funciară, la registrul comerțului și la alte registre publice care conțin date despre bunurile debitorului susceptibile de urmărire silită. Totodată, executorul judecătoresc poate solicita instanței de executare datele și informațiile la care se referă art. 154 alin. (8).\nPrin DECIZIA CURȚII CONSTITUȚIONALE nr. 473 din 21 noiembrie 2013, publicată în MONITORUL OFICIAL nr. 30 din 15 ianuarie 2014, s-a admis excepția de neconstituționalitate a dispozițiilor art. 659 alin. (3) din Codul de procedură civilă, constatându-se că acestea sunt neconstituționale.\nConform art. 147 alin. (1) din CONSTITUȚIA ROMÂNIEI republicată în MONITORUL OFICIAL nr. 767 din 31 octombrie 2003 dispozițiile din legile și ordonanțele în vigoare, precum și cele din regulamente, constatate ca fiind neconstituționale, își încetează efectele juridice la 45 de zile de la publicarea deciziei Curții Constituționale dacă, în acest interval, Parlamentul sau Guvernul, după caz, nu pun de acord prevederile neconstituționale cu dispozițiile Constituției. Pe durata acestui termen, dispozițiile constatate ca fiind neconstituționale sunt suspendate de drept.\nÎn concluzie, începând cu data de 15 ianuarie 2014, dispozițiile invocate mai sus sunt suspendate de drept, urmând să-și înceteze efectele juridice în data de 2 martie 2014, dacă legiuitorul nu intervine pentru modificarea prevederilor atacate.\n"
+       "text": "# Articolul 659\nÎndatorirea terților de a da informații\n(1) La cererea executorului judecătoresc, cei care datorează sume de bani debitorului urmărit ori dețin bunuri ale acestuia supuse urmăririi, potrivit legii, au datoria să comunice în scris toate informațiile necesare pentru efectuarea executării. Ei sunt ținuți să declare întinderea obligațiilor lor față de debitorul urmărit, eventuale modalități care le-ar putea afecta, sechestre anterioare, cesiuni de creanță, subrogații, preluări de datorie, novații, precum și orice alte acte sau fapte de natură să modifice conținutul ori părțile raportului obligațional sau regimul juridic al bunului deținut. La cererea executorului judecătoresc sau a părții interesate, instanța de executare poate lua măsurile prevăzute la art. 187 alin. (1) pct. 2 lit. f) și la art. 189.\n(2) De asemenea, la cererea executorului judecătoresc, instituțiile publice, instituțiile de credit și orice alte persoane fizice sau juridice sunt obligate să îi comunice, de îndată, în scris, datele și informațiile apreciate de executorul judecătoresc ca fiind necesare realizării executării silite, chiar dacă prin legi speciale se dispune altfel. Tot astfel, organele fiscale sunt obligate să comunice, în aceleași condiții, datele și informațiile pe care le administrează potrivit legii. La cererea executorului judecătoresc sau a părții interesate, instanța de executare poate lua măsurile prevăzute la art. 187 alin. (1) pct. 2 lit. f) și la art. 189.\n(3) Dacă cei sesizați nu dispun de informațiile solicitate sau, după caz, refuză să le dea, Ministerul Public va întreprinde, la cererea executorului judecătoresc, diligențele necesare pentru aflarea informațiilor cerute, în special pentru identificarea entităților publice sau private la care debitorul are deschise conturi sau depozite bancare, plasamente de valori mobiliare, este acționar ori asociat sau, după caz, deține titluri de stat, bonuri de tezaur și alte titluri de valoare susceptibile de urmărire silită.\n(4) Executorul judecătoresc este obligat să asigure secretul informațiilor primite, dacă legea nu prevede altfel. Aceste informații nu pot fi utilizate decât în scopul pentru care au fost cerute, fiind interzisă cu desăvârșire, sub sancțiunile prevăzute de lege, divulgarea lor către terțe persoane sau utilizarea lor pentru crearea unei baze de date personale.\n(5) În vederea obținerii informațiilor necesare executării, executorul judecătoresc are acces liber la cartea funciară, la registrul comerțului și la alte registre publice care conțin date despre bunurile debitorului susceptibile de urmărire silită. Totodată, executorul judecătoresc poate solicita instanței de executare datele și informațiile la care se referă art. 154 alin. (8).\nPrin DECIZIA CURȚII CONSTITUȚIONALE nr. 473 din 21 noiembrie 2013, publicată în MONITORUL OFICIAL nr. 30 din 15 ianuarie 2014, s-a admis excepția de neconstituționalitate a dispozițiilor art. 659 alin. (3) din Codul de procedură civilă, constatându-se că acestea sunt neconstituționale.\nÎn concluzie, începând cu data de 15 ianuarie 2014, dispozițiile invocate mai sus sunt suspendate de drept, urmând să-și înceteze efectele juridice în data de 2 martie 2014, dacă legiuitorul nu intervine pentru modificarea prevederilor atacate.\n"
       },
       "art-0739": {
        "label": "Art. 739",
@@ -15373,26 +15355,6 @@
      "source_url": "https://data.commoncrawl.org/crawl-data/CC-MAIN-2026-30/segments/1783663951689.35/warc/CC-MAIN-20260714030243-20260714060243-00659.warc.gz#offset=287909121&length=522462&url=https://legislatie.just.ro/Public/DetaliiDocument/154684",
      "sha256": "9e04349c95ed3db055761cc1701d4df8e54e0b9da6517addc03a09d6a5fc2b3b",
      "changes": {
-      "art-0013": {
-       "label": "Art. 13",
-       "kind": "art",
-       "text": "# Articolul 13\nDreptul la apărare\n(1) Dreptul la apărare este garantat.\n(2) Părțile au dreptul, în tot cursul procesului, de a fi reprezentate sau, după caz, asistate în condițiile legii. În recurs, cererile și concluziile părților nu pot fi formulate și susținute decât prin avocat sau, după caz, consilier juridic, cu excepția situației în care partea sau mandatarul acesteia, soț ori rudă până la gradul al doilea inclusiv, este licențiată în drept.\n(3) Părților li se asigură posibilitatea de a participa la toate fazele de desfășurare a procesului. Ele pot să ia cunoștință de cuprinsul dosarului, să propună probe, să își facă apărări, să își prezinte susținerile în scris și oral și să exercite căile legale de atac, cu respectarea condițiilor prevăzute de lege.\n(4) Instanța poate dispune înfățișarea în persoană a părților, chiar atunci când acestea sunt reprezentate.\n"
-      },
-      "art-0244": {
-       "label": "Art. 244",
-       "kind": "art",
-       "text": "# Articolul 244\nTerminarea cercetării procesului\n(1) Când judecătorul se socotește lămurit, prin încheiere, declară cercetarea procesului încheiată și fixează termen pentru dezbaterea fondului în ședință publică.\n(2) Pentru dezbaterea fondului, judecătorul pune în vedere părților să redacteze note privind susținerile lor și să le depună la dosar cu cel puțin 5 zile înainte de termenul stabilit potrivit alin. (1), fără a aduce atingere dreptului acestora de a formula concluzii orale.\n(3) Părțile pot fi de acord ca dezbaterea fondului să urmeze în camera de consiliu, în aceeași zi sau la un alt termen.\n(4) Cererea de judecată în lipsă presupune că partea care a formulat-o a fost de acord și ca dezbaterea fondului să aibă loc în camera de consiliu, în afară de cazul în care partea a solicitat expres ca aceasta să aibă loc în ședință publică.\n"
-      },
-      "art-0388": {
-       "label": "Art. 388",
-       "kind": "art",
-       "text": "# Articolul 388\nConsilierii juridici\nDispozițiile prezentei subsecțiuni sunt aplicabile în mod corespunzător și consilierilor juridici care, potrivit legii, reprezintă partea.\nÎn procesele pornite începând cu data intrării în vigoare a prezentei legi și până la data de 31 decembrie 2015, cercetarea procesului și, după caz, dezbaterea fondului se desfășoară în ședință publică, dacă legea nu prevede altfel.\n"
-      },
-      "art-0394": {
-       "label": "Art. 394",
-       "kind": "art",
-       "text": "# Articolul 394\nÎnchiderea dezbaterilor în fond\n(1) Când consideră că au fost lămurite toate împrejurările de fapt și temeiurile de drept ale cauzei, președintele închide dezbaterile.\n(2) Dacă va considera necesar, instanța poate cere părților, la închiderea dezbaterilor, să depună completări la notele întocmite potrivit art. 244. Părțile pot depune aceste completări și în cazul în care acestea nu au fost cerute de instanță.\n(3) După închiderea dezbaterilor, părțile nu mai pot depune niciun înscris la dosarul cauzei, sub sancțiunea de a nu fi luat în seamă.\n"
-      },
       "art-0471": {
        "label": "Art. 471",
        "kind": "art",
@@ -15402,11 +15364,6 @@
        "label": "Art. 472",
        "kind": "art",
        "text": "# Articolul 472\nApelul incident\n(1) Intimatul este în drept, după împlinirea termenului de apel, să formuleze apel în scris, în cadrul procesului în care se judecă apelul făcut de partea potrivnică, printr-o cerere proprie care să tindă la schimbarea hotărârii primei instanțe.\n(2) Dacă apelantul principal își retrage apelul sau dacă acesta este respins ca tardiv, ca inadmisibil ori pentru alte motive care nu implică cercetarea fondului, apelul incident prevăzut la alin. (1) rămâne fără efect.\n"
-      },
-      "art-0482": {
-       "label": "Art. 482",
-       "kind": "art",
-       "text": "# Articolul 482\nCompletare cu alte norme\nDispozițiile de procedură privind judecata în primă instanță se aplică și în instanța de apel, în măsura în care nu sunt potrivnice celor cuprinse în prezentul capitol.\n"
       },
       "art-0483": {
        "label": "Art. 483",
@@ -15418,11 +15375,6 @@
        "kind": "art",
        "text": "# Articolul 488\nMotivele de casare\n(1) Casarea unor hotărâri se poate cere numai pentru următoarele motive de nelegalitate:\n1. când instanța nu a fost alcătuită potrivit dispozițiilor legale;\n2. dacă hotărârea a fost pronunțată de alt judecător decât cel care a luat parte la dezbaterea pe fond a procesului sau de un alt complet de judecată decât cel stabilit aleatoriu pentru soluționarea cauzei ori a cărui compunere a fost schimbată, cu încălcarea legii;\n3. când hotărârea a fost dată cu încălcarea competenței de ordine publică a altei instanțe, invocată în condițiile legii;\n4. când instanța a depășit atribuțiile puterii judecătorești;\n5. când, prin hotărârea dată, instanța a încălcat regulile de procedură a căror nerespectare atrage sancțiunea nulității;\n6. când hotărârea nu cuprinde motivele pe care se întemeiază sau când cuprinde motive contradictorii ori numai motive străine de natura cauzei;\n7. când s-a încălcat autoritatea de lucru judecat;\n8. când hotărârea a fost dată cu încălcarea sau aplicarea greșită a normelor de drept material.\n(2) Motivele prevăzute la alin. (1) nu pot fi primite decât dacă ele nu au putut fi invocate pe calea apelului sau în cursul judecării apelului ori, deși au fost invocate în termen, au fost respinse sau instanța a omis să se pronunțe asupra lor.\n"
       },
-      "art-0502": {
-       "label": "Art. 502",
-       "kind": "art",
-       "text": "# Articolul 502\nNeînrăutățirea situației în propria cale de atac\nLa judecarea recursului, precum și la rejudecarea procesului după casarea hotărârii de către instanța de recurs, dispozițiile art. 481 sunt aplicabile în mod corespunzător.\n"
-      },
       "art-0520": {
        "label": "Art. 520",
        "kind": "art",
@@ -15431,7 +15383,7 @@
       "art-0659": {
        "label": "Art. 659",
        "kind": "art",
-       "text": "# Articolul 659\nÎndatorirea terților de a da informații\n(1) La cererea executorului judecătoresc, cei care datorează sume de bani debitorului urmărit ori dețin bunuri ale acestuia supuse urmăririi, potrivit legii, au datoria să comunice în scris toate informațiile necesare pentru efectuarea executării. Ei sunt ținuți să declare întinderea obligațiilor lor față de debitorul urmărit, eventuale modalități care le-ar putea afecta, sechestre anterioare, cesiuni de creanță, subrogații, preluări de datorie, novații, precum și orice alte acte sau fapte de natură să modifice conținutul ori părțile raportului obligațional sau regimul juridic al bunului deținut. La cererea executorului judecătoresc sau a părții interesate, instanța de executare poate lua măsurile prevăzute la art. 187 alin. (1) pct. 2 lit. f) și la art. 189.\n(2) De asemenea, la cererea executorului judecătoresc, instituțiile publice, instituțiile de credit și orice alte persoane fizice sau juridice sunt obligate să îi comunice, de îndată, în scris, datele și informațiile apreciate de executorul judecătoresc ca fiind necesare realizării executării silite, chiar dacă prin legi speciale se dispune altfel. Tot astfel, organele fiscale sunt obligate să comunice, în aceleași condiții, datele și informațiile pe care le administrează potrivit legii. La cererea executorului judecătoresc sau a părții interesate, instanța de executare poate lua măsurile prevăzute la art. 187 alin. (1) pct. 2 lit. f) și la art. 189.\n(3) Încetat efecte juridice.\n(4) Executorul judecătoresc este obligat să asigure secretul informațiilor primite, dacă legea nu prevede altfel. Aceste informații nu pot fi utilizate decât în scopul pentru care au fost cerute, fiind interzisă cu desăvârșire, sub sancțiunile prevăzute de lege, divulgarea lor către terțe persoane sau utilizarea lor pentru crearea unei baze de date personale.\n(5) În vederea obținerii informațiilor necesare executării, executorul judecătoresc are acces liber la cartea funciară, la registrul comerțului și la alte registre publice care conțin date despre bunurile debitorului susceptibile de urmărire silită. Totodată, executorul judecătoresc poate solicita instanței de executare datele și informațiile la care se referă art. 154 alin. (8).\nConform art. 147 alin. (1) din CONSTITUȚIA ROMÂNIEI republicată în MONITORUL OFICIAL nr. 767 din 31 octombrie 2003 dispozițiile din legile și ordonanțele în vigoare, precum și cele din regulamente, constatate ca fiind neconstituționale, își încetează efectele juridice la 45 de zile de la publicarea deciziei Curții Constituționale dacă, în acest interval, Parlamentul sau Guvernul, după caz, nu pun de acord prevederile neconstituționale cu dispozițiile Constituției. Pe durata acestui termen, dispozițiile constatate ca fiind neconstituționale sunt suspendate de drept.\nÎn concluzie, în intervalul 15 ianuarie 2014-1 martie 2014, dispozițiile invocate mai sus au fost suspendate de drept, încetându-și efectele juridice în data de 2 martie 2014, întrucât legiuitorul nu a intervenit pentru modificarea prevederilor atacate.\n"
+       "text": "# Articolul 659\nÎndatorirea terților de a da informații\n(1) La cererea executorului judecătoresc, cei care datorează sume de bani debitorului urmărit ori dețin bunuri ale acestuia supuse urmăririi, potrivit legii, au datoria să comunice în scris toate informațiile necesare pentru efectuarea executării. Ei sunt ținuți să declare întinderea obligațiilor lor față de debitorul urmărit, eventuale modalități care le-ar putea afecta, sechestre anterioare, cesiuni de creanță, subrogații, preluări de datorie, novații, precum și orice alte acte sau fapte de natură să modifice conținutul ori părțile raportului obligațional sau regimul juridic al bunului deținut. La cererea executorului judecătoresc sau a părții interesate, instanța de executare poate lua măsurile prevăzute la art. 187 alin. (1) pct. 2 lit. f) și la art. 189.\n(2) De asemenea, la cererea executorului judecătoresc, instituțiile publice, instituțiile de credit și orice alte persoane fizice sau juridice sunt obligate să îi comunice, de îndată, în scris, datele și informațiile apreciate de executorul judecătoresc ca fiind necesare realizării executării silite, chiar dacă prin legi speciale se dispune altfel. Tot astfel, organele fiscale sunt obligate să comunice, în aceleași condiții, datele și informațiile pe care le administrează potrivit legii. La cererea executorului judecătoresc sau a părții interesate, instanța de executare poate lua măsurile prevăzute la art. 187 alin. (1) pct. 2 lit. f) și la art. 189.\n(3) Încetat efecte juridice.\n(4) Executorul judecătoresc este obligat să asigure secretul informațiilor primite, dacă legea nu prevede altfel. Aceste informații nu pot fi utilizate decât în scopul pentru care au fost cerute, fiind interzisă cu desăvârșire, sub sancțiunile prevăzute de lege, divulgarea lor către terțe persoane sau utilizarea lor pentru crearea unei baze de date personale.\n(5) În vederea obținerii informațiilor necesare executării, executorul judecătoresc are acces liber la cartea funciară, la registrul comerțului și la alte registre publice care conțin date despre bunurile debitorului susceptibile de urmărire silită. Totodată, executorul judecătoresc poate solicita instanței de executare datele și informațiile la care se referă art. 154 alin. (8).\nÎn concluzie, în intervalul 15 ianuarie 2014-1 martie 2014, dispozițiile invocate mai sus au fost suspendate de drept, încetându-și efectele juridice în data de 2 martie 2014, întrucât legiuitorul nu a intervenit pentru modificarea prevederilor atacate.\n"
       }
      },
      "credits": {}
@@ -15545,11 +15497,6 @@
        "label": "Art. 383",
        "kind": "art",
        "text": "# Articolul 383\nConcluziile scrise\n(1) După administrarea tuturor probelor încuviințate de instanță reclamantul, prin avocatul său, va redacta concluziile scrise privind susținerea pretențiilor sale, pe care le va trimite, prin scrisoare recomandată cu confirmare de primire, sau le va înmâna în mod direct, sub luare de semnătură, celorlalte părți din proces și, când este cazul, Ministerului Public.\n(2) După primirea concluziilor scrise ale reclamantului fiecare parte, prin avocatul său, va redacta propriile concluzii scrise, pe care le va comunica, potrivit alin. (1), reclamantului, celorlalte părți, precum și, când este cazul, Ministerului Public.\n"
-      },
-      "art-0388": {
-       "label": "Art. 388",
-       "kind": "art",
-       "text": "# Articolul 388\nConsilierii juridici\nDispozițiile prezentei subsecțiuni sunt aplicabile în mod corespunzător și consilierilor juridici care, potrivit legii, reprezintă partea.\n"
       },
       "art-0424": {
        "label": "Art. 424",
@@ -15819,11 +15766,6 @@
        "kind": "art",
        "text": "# Articolul 248\nProcedura de soluționare\n(1) Instanța se va pronunța mai întâi asupra excepțiilor de procedură, precum și asupra celor de fond care fac inutilă, în tot sau în parte, administrarea de probe ori, după caz, cercetarea în fond a cauzei.\n(2) În cazul în care s-au invocat simultan mai multe excepții, instanța va determina ordinea de soluționare în funcție de efectele pe care acestea le produc.\n(3) Dacă instanța nu se poate pronunța de îndată asupra excepției invocate, va amâna judecata și va stabili un termen scurt în vederea soluționării excepției.\n(4) Excepțiile vor putea fi unite cu administrarea probelor, respectiv cu fondul cauzei numai dacă pentru judecarea lor este necesar să se administreze aceleași dovezi ca și pentru finalizarea etapei cercetării procesului sau, după caz, pentru soluționarea fondului.\n(5) Încheierea prin care s-a respins excepția, precum și cea prin care, după admiterea excepției, instanța a rămas în continuare învestită pot fi atacate numai odată cu fondul, dacă legea nu dispune altfel.\n"
       },
-      "art-0388": {
-       "label": "Art. 388",
-       "kind": "art",
-       "text": "# Articolul 388\nConsilierii juridici\nDispozițiile prezentei subsecțiuni sunt aplicabile în mod corespunzător și consilierilor juridici care, potrivit legii, reprezintă partea.\nÎn procesele pornite începând cu data intrării în vigoare a prezentei legi și până la data de 31 decembrie 2015, cercetarea procesului și, după caz, dezbaterea fondului se desfășoară în ședință publică, dacă legea nu prevede altfel.\n"
-      },
       "art-0650": {
        "label": "Art. 650",
        "kind": "art",
@@ -15861,11 +15803,6 @@
        "label": "Art. 231",
        "kind": "art",
        "text": "# Articolul 231\nNotele de ședință. Înregistrarea ședinței\n(1) Grefierul care participă la ședință este obligat să ia note în legătură cu desfășurarea procesului, care vor fi vizate de către președinte. Părțile pot cere citirea notelor și, dacă este cazul, corectarea lor.\n(2) După terminarea ședinței de judecată, participanții la proces primesc, la cerere, câte o copie de pe notele grefierului.\n(3) Notele grefierului pot fi contestate cel mai târziu la termenul următor.\n(4) Instanța va înregistra ședințele de judecată. În caz de contestare de către participanții la proces a notelor grefierului, acestea vor fi verificate și, eventual, completate ori rectificate pe baza înregistrărilor din ședința de judecată.\n(5) La cerere, părțile, pe cheltuiala acestora, pot obține o copie electronică a înregistrării ședinței de judecată în ceea ce privește cauza lor.\n(6) Înregistrările din ședința de judecată vor putea fi solicitate și de către instanțele de control judiciar.\n"
-      },
-      "art-0388": {
-       "label": "Art. 388",
-       "kind": "art",
-       "text": "# Articolul 388\nConsilierii juridici\nDispozițiile prezentei subsecțiuni sunt aplicabile în mod corespunzător și consilierilor juridici care, potrivit legii, reprezintă partea.\n"
       },
       "art-0450": {
        "label": "Art. 450",
@@ -16351,9 +16288,9 @@
      }
     },
     {
-     "from": "2015-07-20",
-     "source_url": "https://data.commoncrawl.org/crawl-data/CC-MAIN-2026-04/segments/1768220839236.80/warc/CC-MAIN-20260123221531-20260124011531-00890.warc.gz#offset=287308783&length=528164&url=https://legislatie.just.ro/Public/DetaliiDocument/169940",
-     "sha256": "3d495d5bd105910a508962dccee67595bad7c322a87818414d8fa998a23119c8",
+     "from": "2015-04-10",
+     "source_url": "https://data.commoncrawl.org/crawl-data/CC-MAIN-2025-51/segments/1764871306713.64/warc/CC-MAIN-20251204191828-20251204221828-00365.warc.gz#offset=283963317&length=477317&url=https://legislatie.just.ro/Public/DetaliiDocumentAfis/167140",
+     "sha256": "164efc98514d0c49351153c3e942d44bd2f7ffb9c7478adf0d0f4bb14228785c",
      "changes": {
       "art-0009": {
        "label": "Art. 9",
@@ -19058,7 +18995,1634 @@
        "text": "# Articolul 1134\nIntrare în vigoare\n(1) Prezentul cod de procedură civilă intră în vigoare la data care va fi prevăzută în legea pentru punerea în aplicare a acestuia.\n(2) În termen de 6 luni de la data publicării prezentului cod, Guvernul va supune Parlamentului spre adoptare proiectul de lege pentru punerea în aplicare a Codului de procedură civilă.\n"
       }
      },
-     "credits": {}
+     "credits": {
+      "art-0009": [
+       "legea-138-2014"
+      ],
+      "art-0010": [
+       "legea-138-2014"
+      ],
+      "art-0042": [
+       "legea-138-2014"
+      ],
+      "art-0071": [
+       "legea-138-2014"
+      ],
+      "art-0094": [
+       "legea-138-2014"
+      ],
+      "art-0145": [
+       "legea-138-2014"
+      ],
+      "art-0148": [
+       "legea-138-2014"
+      ],
+      "art-0151": [
+       "legea-138-2014"
+      ],
+      "art-0154": [
+       "legea-138-2014"
+      ],
+      "art-0156": [
+       "legea-138-2014"
+      ],
+      "art-0163": [
+       "legea-138-2014"
+      ],
+      "art-0170": [
+       "legea-138-2014"
+      ],
+      "art-0194": [
+       "legea-138-2014"
+      ],
+      "art-0200": [
+       "legea-138-2014"
+      ],
+      "art-0202": [
+       "legea-138-2014"
+      ],
+      "art-0203": [
+       "legea-138-2014"
+      ],
+      "art-0204": [
+       "legea-138-2014"
+      ],
+      "art-0211": [
+       "legea-138-2014"
+      ],
+      "art-0261": [
+       "legea-138-2014"
+      ],
+      "art-0275": [
+       "legea-138-2014"
+      ],
+      "art-0282": [
+       "legea-138-2014"
+      ],
+      "art-0283": [
+       "legea-138-2014"
+      ],
+      "art-0289": [
+       "legea-138-2014"
+      ],
+      "art-0319": [
+       "legea-138-2014"
+      ],
+      "art-0354": [
+       "legea-138-2014"
+      ],
+      "art-0397": [
+       "legea-138-2014"
+      ],
+      "art-0406": [
+       "legea-138-2014"
+      ],
+      "art-0424": [
+       "legea-138-2014"
+      ],
+      "art-0449": [
+       "legea-138-2014"
+      ],
+      "art-0450": [
+       "legea-138-2014"
+      ],
+      "art-0478": [
+       "legea-138-2014"
+      ],
+      "art-0480": [
+       "legea-138-2014"
+      ],
+      "art-0483": [
+       "legea-138-2014"
+      ],
+      "art-0484": [
+       "legea-138-2014"
+      ],
+      "art-0493": [
+       "legea-138-2014"
+      ],
+      "art-0516": [
+       "legea-138-2014"
+      ],
+      "art-0520": [
+       "legea-138-2014"
+      ],
+      "art-0522": [
+       "legea-138-2014"
+      ],
+      "art-0528": [
+       "legea-138-2014"
+      ],
+      "art-0539": [
+       "legea-138-2014"
+      ],
+      "art-0590": [
+       "legea-138-2014"
+      ],
+      "art-0592": [
+       "legea-138-2014"
+      ],
+      "art-0593": [
+       "legea-138-2014"
+      ],
+      "art-0615": [
+       "legea-138-2014"
+      ],
+      "art-0633": [
+       "legea-138-2014"
+      ],
+      "art-0638": [
+       "legea-138-2014"
+      ],
+      "art-0640-1": [
+       "legea-138-2014"
+      ],
+      "art-0641": [
+       "legea-138-2014"
+      ],
+      "art-0642": [
+       "legea-138-2014"
+      ],
+      "art-0643": [
+       "legea-138-2014"
+      ],
+      "art-0644": [
+       "legea-138-2014"
+      ],
+      "art-0645": [
+       "legea-138-2014"
+      ],
+      "art-0646": [
+       "legea-138-2014"
+      ],
+      "art-0647": [
+       "legea-138-2014"
+      ],
+      "art-0648": [
+       "legea-138-2014"
+      ],
+      "art-0649": [
+       "legea-138-2014"
+      ],
+      "art-0650": [
+       "legea-138-2014"
+      ],
+      "art-0651": [
+       "legea-138-2014"
+      ],
+      "art-0652": [
+       "legea-138-2014"
+      ],
+      "art-0653": [
+       "legea-138-2014"
+      ],
+      "art-0654": [
+       "legea-138-2014"
+      ],
+      "art-0655": [
+       "legea-138-2014"
+      ],
+      "art-0656": [
+       "legea-138-2014"
+      ],
+      "art-0657": [
+       "legea-138-2014"
+      ],
+      "art-0658": [
+       "legea-138-2014"
+      ],
+      "art-0659": [
+       "legea-138-2014"
+      ],
+      "art-0660": [
+       "legea-138-2014"
+      ],
+      "art-0661": [
+       "legea-138-2014"
+      ],
+      "art-0662": [
+       "legea-138-2014"
+      ],
+      "art-0663": [
+       "legea-138-2014"
+      ],
+      "art-0664": [
+       "legea-138-2014"
+      ],
+      "art-0665": [
+       "legea-138-2014"
+      ],
+      "art-0666": [
+       "legea-138-2014"
+      ],
+      "art-0667": [
+       "legea-138-2014"
+      ],
+      "art-0668": [
+       "legea-138-2014"
+      ],
+      "art-0669": [
+       "legea-138-2014"
+      ],
+      "art-0670": [
+       "legea-138-2014"
+      ],
+      "art-0671": [
+       "legea-138-2014"
+      ],
+      "art-0672": [
+       "legea-138-2014"
+      ],
+      "art-0673": [
+       "legea-138-2014"
+      ],
+      "art-0674": [
+       "legea-138-2014"
+      ],
+      "art-0675": [
+       "legea-138-2014"
+      ],
+      "art-0676": [
+       "legea-138-2014"
+      ],
+      "art-0677": [
+       "legea-138-2014"
+      ],
+      "art-0678": [
+       "legea-138-2014"
+      ],
+      "art-0679": [
+       "legea-138-2014"
+      ],
+      "art-0680": [
+       "legea-138-2014"
+      ],
+      "art-0681": [
+       "legea-138-2014"
+      ],
+      "art-0682": [
+       "legea-138-2014"
+      ],
+      "art-0683": [
+       "legea-138-2014"
+      ],
+      "art-0684": [
+       "legea-138-2014"
+      ],
+      "art-0685": [
+       "legea-138-2014"
+      ],
+      "art-0686": [
+       "legea-138-2014"
+      ],
+      "art-0687": [
+       "legea-138-2014"
+      ],
+      "art-0688": [
+       "legea-138-2014"
+      ],
+      "art-0689": [
+       "legea-138-2014"
+      ],
+      "art-0690": [
+       "legea-138-2014"
+      ],
+      "art-0691": [
+       "legea-138-2014"
+      ],
+      "art-0692": [
+       "legea-138-2014"
+      ],
+      "art-0693": [
+       "legea-138-2014"
+      ],
+      "art-0694": [
+       "legea-138-2014"
+      ],
+      "art-0695": [
+       "legea-138-2014"
+      ],
+      "art-0696": [
+       "legea-138-2014"
+      ],
+      "art-0697": [
+       "legea-138-2014"
+      ],
+      "art-0698": [
+       "legea-138-2014"
+      ],
+      "art-0699": [
+       "legea-138-2014"
+      ],
+      "art-0700": [
+       "legea-138-2014"
+      ],
+      "art-0701": [
+       "legea-138-2014"
+      ],
+      "art-0702": [
+       "legea-138-2014"
+      ],
+      "art-0703": [
+       "legea-138-2014"
+      ],
+      "art-0704": [
+       "legea-138-2014"
+      ],
+      "art-0705": [
+       "legea-138-2014"
+      ],
+      "art-0706": [
+       "legea-138-2014"
+      ],
+      "art-0707": [
+       "legea-138-2014"
+      ],
+      "art-0708": [
+       "legea-138-2014"
+      ],
+      "art-0709": [
+       "legea-138-2014"
+      ],
+      "art-0710": [
+       "legea-138-2014"
+      ],
+      "art-0711": [
+       "legea-138-2014"
+      ],
+      "art-0712": [
+       "legea-138-2014"
+      ],
+      "art-0713": [
+       "legea-138-2014"
+      ],
+      "art-0714": [
+       "legea-138-2014"
+      ],
+      "art-0715": [
+       "legea-138-2014"
+      ],
+      "art-0716": [
+       "legea-138-2014"
+      ],
+      "art-0717": [
+       "legea-138-2014"
+      ],
+      "art-0718": [
+       "legea-138-2014"
+      ],
+      "art-0719": [
+       "legea-138-2014"
+      ],
+      "art-0720": [
+       "legea-138-2014"
+      ],
+      "art-0721": [
+       "legea-138-2014"
+      ],
+      "art-0722": [
+       "legea-138-2014"
+      ],
+      "art-0723": [
+       "legea-138-2014"
+      ],
+      "art-0724": [
+       "legea-138-2014"
+      ],
+      "art-0725": [
+       "legea-138-2014"
+      ],
+      "art-0726": [
+       "legea-138-2014"
+      ],
+      "art-0727": [
+       "legea-138-2014"
+      ],
+      "art-0728": [
+       "legea-138-2014"
+      ],
+      "art-0729": [
+       "legea-138-2014"
+      ],
+      "art-0730": [
+       "legea-138-2014"
+      ],
+      "art-0731": [
+       "legea-138-2014"
+      ],
+      "art-0732": [
+       "legea-138-2014"
+      ],
+      "art-0733": [
+       "legea-138-2014"
+      ],
+      "art-0734": [
+       "legea-138-2014"
+      ],
+      "art-0735": [
+       "legea-138-2014"
+      ],
+      "art-0736": [
+       "legea-138-2014"
+      ],
+      "art-0737": [
+       "legea-138-2014"
+      ],
+      "art-0738": [
+       "legea-138-2014"
+      ],
+      "art-0739": [
+       "legea-138-2014"
+      ],
+      "art-0740": [
+       "legea-138-2014"
+      ],
+      "art-0741": [
+       "legea-138-2014"
+      ],
+      "art-0742": [
+       "legea-138-2014"
+      ],
+      "art-0743": [
+       "legea-138-2014"
+      ],
+      "art-0744": [
+       "legea-138-2014"
+      ],
+      "art-0745": [
+       "legea-138-2014"
+      ],
+      "art-0746": [
+       "legea-138-2014"
+      ],
+      "art-0747": [
+       "legea-138-2014"
+      ],
+      "art-0748": [
+       "legea-138-2014"
+      ],
+      "art-0749": [
+       "legea-138-2014"
+      ],
+      "art-0750": [
+       "legea-138-2014"
+      ],
+      "art-0751": [
+       "legea-138-2014"
+      ],
+      "art-0752": [
+       "legea-138-2014"
+      ],
+      "art-0753": [
+       "legea-138-2014"
+      ],
+      "art-0754": [
+       "legea-138-2014"
+      ],
+      "art-0755": [
+       "legea-138-2014"
+      ],
+      "art-0756": [
+       "legea-138-2014"
+      ],
+      "art-0757": [
+       "legea-138-2014"
+      ],
+      "art-0758": [
+       "legea-138-2014"
+      ],
+      "art-0759": [
+       "legea-138-2014"
+      ],
+      "art-0760": [
+       "legea-138-2014"
+      ],
+      "art-0761": [
+       "legea-138-2014"
+      ],
+      "art-0762": [
+       "legea-138-2014"
+      ],
+      "art-0763": [
+       "legea-138-2014"
+      ],
+      "art-0764": [
+       "legea-138-2014"
+      ],
+      "art-0765": [
+       "legea-138-2014"
+      ],
+      "art-0766": [
+       "legea-138-2014"
+      ],
+      "art-0767": [
+       "legea-138-2014"
+      ],
+      "art-0768": [
+       "legea-138-2014"
+      ],
+      "art-0769": [
+       "legea-138-2014"
+      ],
+      "art-0770": [
+       "legea-138-2014"
+      ],
+      "art-0771": [
+       "legea-138-2014"
+      ],
+      "art-0772": [
+       "legea-138-2014"
+      ],
+      "art-0773": [
+       "legea-138-2014"
+      ],
+      "art-0774": [
+       "legea-138-2014"
+      ],
+      "art-0775": [
+       "legea-138-2014"
+      ],
+      "art-0776": [
+       "legea-138-2014"
+      ],
+      "art-0777": [
+       "legea-138-2014"
+      ],
+      "art-0778": [
+       "legea-138-2014"
+      ],
+      "art-0779": [
+       "legea-138-2014"
+      ],
+      "art-0780": [
+       "legea-138-2014"
+      ],
+      "art-0781": [
+       "legea-138-2014"
+      ],
+      "art-0782": [
+       "legea-138-2014"
+      ],
+      "art-0783": [
+       "legea-138-2014"
+      ],
+      "art-0784": [
+       "legea-138-2014"
+      ],
+      "art-0785": [
+       "legea-138-2014"
+      ],
+      "art-0786": [
+       "legea-138-2014"
+      ],
+      "art-0787": [
+       "legea-138-2014"
+      ],
+      "art-0788": [
+       "legea-138-2014"
+      ],
+      "art-0789": [
+       "legea-138-2014"
+      ],
+      "art-0790": [
+       "legea-138-2014"
+      ],
+      "art-0791": [
+       "legea-138-2014"
+      ],
+      "art-0792": [
+       "legea-138-2014"
+      ],
+      "art-0793": [
+       "legea-138-2014"
+      ],
+      "art-0794": [
+       "legea-138-2014"
+      ],
+      "art-0795": [
+       "legea-138-2014"
+      ],
+      "art-0796": [
+       "legea-138-2014"
+      ],
+      "art-0797": [
+       "legea-138-2014"
+      ],
+      "art-0798": [
+       "legea-138-2014"
+      ],
+      "art-0799": [
+       "legea-138-2014"
+      ],
+      "art-0800": [
+       "legea-138-2014"
+      ],
+      "art-0801": [
+       "legea-138-2014"
+      ],
+      "art-0802": [
+       "legea-138-2014"
+      ],
+      "art-0803": [
+       "legea-138-2014"
+      ],
+      "art-0804": [
+       "legea-138-2014"
+      ],
+      "art-0805": [
+       "legea-138-2014"
+      ],
+      "art-0806": [
+       "legea-138-2014"
+      ],
+      "art-0807": [
+       "legea-138-2014"
+      ],
+      "art-0808": [
+       "legea-138-2014"
+      ],
+      "art-0809": [
+       "legea-138-2014"
+      ],
+      "art-0810": [
+       "legea-138-2014"
+      ],
+      "art-0811": [
+       "legea-138-2014"
+      ],
+      "art-0812": [
+       "legea-138-2014"
+      ],
+      "art-0813": [
+       "legea-138-2014"
+      ],
+      "art-0814": [
+       "legea-138-2014"
+      ],
+      "art-0815": [
+       "legea-138-2014"
+      ],
+      "art-0816": [
+       "legea-138-2014"
+      ],
+      "art-0817": [
+       "legea-138-2014"
+      ],
+      "art-0818": [
+       "legea-138-2014"
+      ],
+      "art-0819": [
+       "legea-138-2014"
+      ],
+      "art-0820": [
+       "legea-138-2014"
+      ],
+      "art-0821": [
+       "legea-138-2014"
+      ],
+      "art-0822": [
+       "legea-138-2014"
+      ],
+      "art-0823": [
+       "legea-138-2014"
+      ],
+      "art-0824": [
+       "legea-138-2014"
+      ],
+      "art-0825": [
+       "legea-138-2014"
+      ],
+      "art-0826": [
+       "legea-138-2014"
+      ],
+      "art-0827": [
+       "legea-138-2014"
+      ],
+      "art-0828": [
+       "legea-138-2014"
+      ],
+      "art-0829": [
+       "legea-138-2014"
+      ],
+      "art-0830": [
+       "legea-138-2014"
+      ],
+      "art-0831": [
+       "legea-138-2014"
+      ],
+      "art-0832": [
+       "legea-138-2014"
+      ],
+      "art-0833": [
+       "legea-138-2014"
+      ],
+      "art-0834": [
+       "legea-138-2014"
+      ],
+      "art-0835": [
+       "legea-138-2014"
+      ],
+      "art-0836": [
+       "legea-138-2014"
+      ],
+      "art-0837": [
+       "legea-138-2014"
+      ],
+      "art-0838": [
+       "legea-138-2014"
+      ],
+      "art-0839": [
+       "legea-138-2014"
+      ],
+      "art-0840": [
+       "legea-138-2014"
+      ],
+      "art-0841": [
+       "legea-138-2014"
+      ],
+      "art-0842": [
+       "legea-138-2014"
+      ],
+      "art-0843": [
+       "legea-138-2014"
+      ],
+      "art-0844": [
+       "legea-138-2014"
+      ],
+      "art-0845": [
+       "legea-138-2014"
+      ],
+      "art-0846": [
+       "legea-138-2014"
+      ],
+      "art-0847": [
+       "legea-138-2014"
+      ],
+      "art-0847-1": [
+       "legea-138-2014"
+      ],
+      "art-0848": [
+       "legea-138-2014"
+      ],
+      "art-0849": [
+       "legea-138-2014"
+      ],
+      "art-0850": [
+       "legea-138-2014"
+      ],
+      "art-0851": [
+       "legea-138-2014"
+      ],
+      "art-0852": [
+       "legea-138-2014"
+      ],
+      "art-0853": [
+       "legea-138-2014"
+      ],
+      "art-0854": [
+       "legea-138-2014"
+      ],
+      "art-0855": [
+       "legea-138-2014"
+      ],
+      "art-0856": [
+       "legea-138-2014"
+      ],
+      "art-0857": [
+       "legea-138-2014"
+      ],
+      "art-0858": [
+       "legea-138-2014"
+      ],
+      "art-0859": [
+       "legea-138-2014"
+      ],
+      "art-0860": [
+       "legea-138-2014"
+      ],
+      "art-0861": [
+       "legea-138-2014"
+      ],
+      "art-0862": [
+       "legea-138-2014"
+      ],
+      "art-0863": [
+       "legea-138-2014"
+      ],
+      "art-0864": [
+       "legea-138-2014"
+      ],
+      "art-0865": [
+       "legea-138-2014"
+      ],
+      "art-0866": [
+       "legea-138-2014"
+      ],
+      "art-0867": [
+       "legea-138-2014"
+      ],
+      "art-0868": [
+       "legea-138-2014"
+      ],
+      "art-0869": [
+       "legea-138-2014"
+      ],
+      "art-0870": [
+       "legea-138-2014"
+      ],
+      "art-0871": [
+       "legea-138-2014"
+      ],
+      "art-0872": [
+       "legea-138-2014"
+      ],
+      "art-0873": [
+       "legea-138-2014"
+      ],
+      "art-0874": [
+       "legea-138-2014"
+      ],
+      "art-0875": [
+       "legea-138-2014"
+      ],
+      "art-0876": [
+       "legea-138-2014"
+      ],
+      "art-0877": [
+       "legea-138-2014"
+      ],
+      "art-0878": [
+       "legea-138-2014"
+      ],
+      "art-0879": [
+       "legea-138-2014"
+      ],
+      "art-0880": [
+       "legea-138-2014"
+      ],
+      "art-0881": [
+       "legea-138-2014"
+      ],
+      "art-0882": [
+       "legea-138-2014"
+      ],
+      "art-0883": [
+       "legea-138-2014"
+      ],
+      "art-0884": [
+       "legea-138-2014"
+      ],
+      "art-0885": [
+       "legea-138-2014"
+      ],
+      "art-0886": [
+       "legea-138-2014"
+      ],
+      "art-0887": [
+       "legea-138-2014"
+      ],
+      "art-0888": [
+       "legea-138-2014"
+      ],
+      "art-0889": [
+       "legea-138-2014"
+      ],
+      "art-0890": [
+       "legea-138-2014"
+      ],
+      "art-0891": [
+       "legea-138-2014"
+      ],
+      "art-0892": [
+       "legea-138-2014"
+      ],
+      "art-0893": [
+       "legea-138-2014"
+      ],
+      "art-0894": [
+       "legea-138-2014"
+      ],
+      "art-0895": [
+       "legea-138-2014"
+      ],
+      "art-0896": [
+       "legea-138-2014"
+      ],
+      "art-0897": [
+       "legea-138-2014"
+      ],
+      "art-0898": [
+       "legea-138-2014"
+      ],
+      "art-0899": [
+       "legea-138-2014"
+      ],
+      "art-0900": [
+       "legea-138-2014"
+      ],
+      "art-0901": [
+       "legea-138-2014"
+      ],
+      "art-0902": [
+       "legea-138-2014"
+      ],
+      "art-0903": [
+       "legea-138-2014"
+      ],
+      "art-0904": [
+       "legea-138-2014"
+      ],
+      "art-0905": [
+       "legea-138-2014"
+      ],
+      "art-0906": [
+       "legea-138-2014"
+      ],
+      "art-0907": [
+       "legea-138-2014"
+      ],
+      "art-0908": [
+       "legea-138-2014"
+      ],
+      "art-0909": [
+       "legea-138-2014"
+      ],
+      "art-0910": [
+       "legea-138-2014"
+      ],
+      "art-0911": [
+       "legea-138-2014"
+      ],
+      "art-0912": [
+       "legea-138-2014"
+      ],
+      "art-0913": [
+       "legea-138-2014"
+      ],
+      "art-0914": [
+       "legea-138-2014"
+      ],
+      "art-0915": [
+       "legea-138-2014"
+      ],
+      "art-0916": [
+       "legea-138-2014"
+      ],
+      "art-0917": [
+       "legea-138-2014"
+      ],
+      "art-0918": [
+       "legea-138-2014"
+      ],
+      "art-0919": [
+       "legea-138-2014"
+      ],
+      "art-0920": [
+       "legea-138-2014"
+      ],
+      "art-0921": [
+       "legea-138-2014"
+      ],
+      "art-0922": [
+       "legea-138-2014"
+      ],
+      "art-0923": [
+       "legea-138-2014"
+      ],
+      "art-0924": [
+       "legea-138-2014"
+      ],
+      "art-0925": [
+       "legea-138-2014"
+      ],
+      "art-0926": [
+       "legea-138-2014"
+      ],
+      "art-0927": [
+       "legea-138-2014"
+      ],
+      "art-0928": [
+       "legea-138-2014"
+      ],
+      "art-0929": [
+       "legea-138-2014"
+      ],
+      "art-0930": [
+       "legea-138-2014"
+      ],
+      "art-0931": [
+       "legea-138-2014"
+      ],
+      "art-0932": [
+       "legea-138-2014"
+      ],
+      "art-0933": [
+       "legea-138-2014"
+      ],
+      "art-0934": [
+       "legea-138-2014"
+      ],
+      "art-0935": [
+       "legea-138-2014"
+      ],
+      "art-0936": [
+       "legea-138-2014"
+      ],
+      "art-0937": [
+       "legea-138-2014"
+      ],
+      "art-0938": [
+       "legea-138-2014"
+      ],
+      "art-0939": [
+       "legea-138-2014"
+      ],
+      "art-0940": [
+       "legea-138-2014"
+      ],
+      "art-0941": [
+       "legea-138-2014"
+      ],
+      "art-0942": [
+       "legea-138-2014"
+      ],
+      "art-0943": [
+       "legea-138-2014"
+      ],
+      "art-0944": [
+       "legea-138-2014"
+      ],
+      "art-0945": [
+       "legea-138-2014"
+      ],
+      "art-0946": [
+       "legea-138-2014"
+      ],
+      "art-0947": [
+       "legea-138-2014"
+      ],
+      "art-0948": [
+       "legea-138-2014"
+      ],
+      "art-0949": [
+       "legea-138-2014"
+      ],
+      "art-0950": [
+       "legea-138-2014"
+      ],
+      "art-0951": [
+       "legea-138-2014"
+      ],
+      "art-0952": [
+       "legea-138-2014"
+      ],
+      "art-0953": [
+       "legea-138-2014"
+      ],
+      "art-0954": [
+       "legea-138-2014"
+      ],
+      "art-0955": [
+       "legea-138-2014"
+      ],
+      "art-0956": [
+       "legea-138-2014"
+      ],
+      "art-0957": [
+       "legea-138-2014"
+      ],
+      "art-0958": [
+       "legea-138-2014"
+      ],
+      "art-0959": [
+       "legea-138-2014"
+      ],
+      "art-0960": [
+       "legea-138-2014"
+      ],
+      "art-0961": [
+       "legea-138-2014"
+      ],
+      "art-0962": [
+       "legea-138-2014"
+      ],
+      "art-0963": [
+       "legea-138-2014"
+      ],
+      "art-0964": [
+       "legea-138-2014"
+      ],
+      "art-0965": [
+       "legea-138-2014"
+      ],
+      "art-0966": [
+       "legea-138-2014"
+      ],
+      "art-0967": [
+       "legea-138-2014"
+      ],
+      "art-0968": [
+       "legea-138-2014"
+      ],
+      "art-0969": [
+       "legea-138-2014"
+      ],
+      "art-0970": [
+       "legea-138-2014"
+      ],
+      "art-0971": [
+       "legea-138-2014"
+      ],
+      "art-0972": [
+       "legea-138-2014"
+      ],
+      "art-0973": [
+       "legea-138-2014"
+      ],
+      "art-0974": [
+       "legea-138-2014"
+      ],
+      "art-0975": [
+       "legea-138-2014"
+      ],
+      "art-0976": [
+       "legea-138-2014"
+      ],
+      "art-0977": [
+       "legea-138-2014"
+      ],
+      "art-0978": [
+       "legea-138-2014"
+      ],
+      "art-0979": [
+       "legea-138-2014"
+      ],
+      "art-0980": [
+       "legea-138-2014"
+      ],
+      "art-0981": [
+       "legea-138-2014"
+      ],
+      "art-0982": [
+       "legea-138-2014"
+      ],
+      "art-0983": [
+       "legea-138-2014"
+      ],
+      "art-0984": [
+       "legea-138-2014"
+      ],
+      "art-0985": [
+       "legea-138-2014"
+      ],
+      "art-0986": [
+       "legea-138-2014"
+      ],
+      "art-0987": [
+       "legea-138-2014"
+      ],
+      "art-0988": [
+       "legea-138-2014"
+      ],
+      "art-0989": [
+       "legea-138-2014"
+      ],
+      "art-0990": [
+       "legea-138-2014"
+      ],
+      "art-0991": [
+       "legea-138-2014"
+      ],
+      "art-0992": [
+       "legea-138-2014"
+      ],
+      "art-0993": [
+       "legea-138-2014"
+      ],
+      "art-0994": [
+       "legea-138-2014"
+      ],
+      "art-0995": [
+       "legea-138-2014"
+      ],
+      "art-0996": [
+       "legea-138-2014"
+      ],
+      "art-0997": [
+       "legea-138-2014"
+      ],
+      "art-0998": [
+       "legea-138-2014"
+      ],
+      "art-0999": [
+       "legea-138-2014"
+      ],
+      "art-1000": [
+       "legea-138-2014"
+      ],
+      "art-1001": [
+       "legea-138-2014"
+      ],
+      "art-1002": [
+       "legea-138-2014"
+      ],
+      "art-1003": [
+       "legea-138-2014"
+      ],
+      "art-1004": [
+       "legea-138-2014"
+      ],
+      "art-1005": [
+       "legea-138-2014"
+      ],
+      "art-1006": [
+       "legea-138-2014"
+      ],
+      "art-1007": [
+       "legea-138-2014"
+      ],
+      "art-1008": [
+       "legea-138-2014"
+      ],
+      "art-1009": [
+       "legea-138-2014"
+      ],
+      "art-1010": [
+       "legea-138-2014"
+      ],
+      "art-1011": [
+       "legea-138-2014"
+      ],
+      "art-1012": [
+       "legea-138-2014"
+      ],
+      "art-1013": [
+       "legea-138-2014"
+      ],
+      "art-1014": [
+       "legea-138-2014"
+      ],
+      "art-1015": [
+       "legea-138-2014"
+      ],
+      "art-1016": [
+       "legea-138-2014"
+      ],
+      "art-1017": [
+       "legea-138-2014"
+      ],
+      "art-1018": [
+       "legea-138-2014"
+      ],
+      "art-1019": [
+       "legea-138-2014"
+      ],
+      "art-1020": [
+       "legea-138-2014"
+      ],
+      "art-1021": [
+       "legea-138-2014"
+      ],
+      "art-1022": [
+       "legea-138-2014"
+      ],
+      "art-1023": [
+       "legea-138-2014"
+      ],
+      "art-1024": [
+       "legea-138-2014"
+      ],
+      "art-1025": [
+       "legea-138-2014"
+      ],
+      "art-1026": [
+       "legea-138-2014"
+      ],
+      "art-1027": [
+       "legea-138-2014"
+      ],
+      "art-1028": [
+       "legea-138-2014"
+      ],
+      "art-1029": [
+       "legea-138-2014"
+      ],
+      "art-1030": [
+       "legea-138-2014"
+      ],
+      "art-1031": [
+       "legea-138-2014"
+      ],
+      "art-1032": [
+       "legea-138-2014"
+      ],
+      "art-1033": [
+       "legea-138-2014"
+      ],
+      "art-1034": [
+       "legea-138-2014"
+      ],
+      "art-1035": [
+       "legea-138-2014"
+      ],
+      "art-1036": [
+       "legea-138-2014"
+      ],
+      "art-1037": [
+       "legea-138-2014"
+      ],
+      "art-1038": [
+       "legea-138-2014"
+      ],
+      "art-1039": [
+       "legea-138-2014"
+      ],
+      "art-1040": [
+       "legea-138-2014"
+      ],
+      "art-1041": [
+       "legea-138-2014"
+      ],
+      "art-1042": [
+       "legea-138-2014"
+      ],
+      "art-1043": [
+       "legea-138-2014"
+      ],
+      "art-1044": [
+       "legea-138-2014"
+      ],
+      "art-1045": [
+       "legea-138-2014"
+      ],
+      "art-1046": [
+       "legea-138-2014"
+      ],
+      "art-1047": [
+       "legea-138-2014"
+      ],
+      "art-1048": [
+       "legea-138-2014"
+      ],
+      "art-1049": [
+       "legea-138-2014"
+      ],
+      "art-1050": [
+       "legea-138-2014"
+      ],
+      "art-1051": [
+       "legea-138-2014"
+      ],
+      "art-1052": [
+       "legea-138-2014"
+      ],
+      "art-1053": [
+       "legea-138-2014"
+      ],
+      "art-1054": [
+       "legea-138-2014"
+      ],
+      "art-1055": [
+       "legea-138-2014"
+      ],
+      "art-1056": [
+       "legea-138-2014"
+      ],
+      "art-1057": [
+       "legea-138-2014"
+      ],
+      "art-1058": [
+       "legea-138-2014"
+      ],
+      "art-1059": [
+       "legea-138-2014"
+      ],
+      "art-1060": [
+       "legea-138-2014"
+      ],
+      "art-1061": [
+       "legea-138-2014"
+      ],
+      "art-1062": [
+       "legea-138-2014"
+      ],
+      "art-1063": [
+       "legea-138-2014"
+      ],
+      "art-1064": [
+       "legea-138-2014"
+      ],
+      "art-1065": [
+       "legea-138-2014"
+      ],
+      "art-1066": [
+       "legea-138-2014"
+      ],
+      "art-1067": [
+       "legea-138-2014"
+      ],
+      "art-1068": [
+       "legea-138-2014"
+      ],
+      "art-1069": [
+       "legea-138-2014"
+      ],
+      "art-1070": [
+       "legea-138-2014"
+      ],
+      "art-1071": [
+       "legea-138-2014"
+      ],
+      "art-1072": [
+       "legea-138-2014"
+      ],
+      "art-1073": [
+       "legea-138-2014"
+      ],
+      "art-1074": [
+       "legea-138-2014"
+      ],
+      "art-1075": [
+       "legea-138-2014"
+      ],
+      "art-1076": [
+       "legea-138-2014"
+      ],
+      "art-1077": [
+       "legea-138-2014"
+      ],
+      "art-1078": [
+       "legea-138-2014"
+      ],
+      "art-1079": [
+       "legea-138-2014"
+      ],
+      "art-1080": [
+       "legea-138-2014"
+      ],
+      "art-1081": [
+       "legea-138-2014"
+      ],
+      "art-1082": [
+       "legea-138-2014"
+      ],
+      "art-1083": [
+       "legea-138-2014"
+      ],
+      "art-1084": [
+       "legea-138-2014"
+      ],
+      "art-1085": [
+       "legea-138-2014"
+      ],
+      "art-1086": [
+       "legea-138-2014"
+      ],
+      "art-1087": [
+       "legea-138-2014"
+      ],
+      "art-1088": [
+       "legea-138-2014"
+      ],
+      "art-1089": [
+       "legea-138-2014"
+      ],
+      "art-1090": [
+       "legea-138-2014"
+      ],
+      "art-1091": [
+       "legea-138-2014"
+      ],
+      "art-1092": [
+       "legea-138-2014"
+      ],
+      "art-1093": [
+       "legea-138-2014"
+      ],
+      "art-1094": [
+       "legea-138-2014"
+      ],
+      "art-1095": [
+       "legea-138-2014"
+      ],
+      "art-1096": [
+       "legea-138-2014"
+      ],
+      "art-1097": [
+       "legea-138-2014"
+      ],
+      "art-1098": [
+       "legea-138-2014"
+      ],
+      "art-1099": [
+       "legea-138-2014"
+      ],
+      "art-1100": [
+       "legea-138-2014"
+      ],
+      "art-1101": [
+       "legea-138-2014"
+      ],
+      "art-1102": [
+       "legea-138-2014"
+      ],
+      "art-1103": [
+       "legea-138-2014"
+      ],
+      "art-1104": [
+       "legea-138-2014"
+      ],
+      "art-1105": [
+       "legea-138-2014"
+      ],
+      "art-1106": [
+       "legea-138-2014"
+      ],
+      "art-1107": [
+       "legea-138-2014"
+      ],
+      "art-1108": [
+       "legea-138-2014"
+      ],
+      "art-1109": [
+       "legea-138-2014"
+      ],
+      "art-1110": [
+       "legea-138-2014"
+      ],
+      "art-1111": [
+       "legea-138-2014"
+      ],
+      "art-1112": [
+       "legea-138-2014"
+      ],
+      "art-1113": [
+       "legea-138-2014"
+      ],
+      "art-1114": [
+       "legea-138-2014"
+      ],
+      "art-1115": [
+       "legea-138-2014"
+      ],
+      "art-1116": [
+       "legea-138-2014"
+      ],
+      "art-1117": [
+       "legea-138-2014"
+      ],
+      "art-1118": [
+       "legea-138-2014"
+      ],
+      "art-1119": [
+       "legea-138-2014"
+      ],
+      "art-1120": [
+       "legea-138-2014"
+      ],
+      "art-1121": [
+       "legea-138-2014"
+      ],
+      "art-1122": [
+       "legea-138-2014"
+      ],
+      "art-1123": [
+       "legea-138-2014"
+      ],
+      "art-1124": [
+       "legea-138-2014"
+      ],
+      "art-1125": [
+       "legea-138-2014"
+      ],
+      "art-1126": [
+       "legea-138-2014"
+      ],
+      "art-1127": [
+       "legea-138-2014"
+      ],
+      "art-1128": [
+       "legea-138-2014"
+      ],
+      "art-1129": [
+       "legea-138-2014"
+      ],
+      "art-1130": [
+       "legea-138-2014"
+      ],
+      "art-1131": [
+       "legea-138-2014"
+      ],
+      "art-1132": [
+       "legea-138-2014"
+      ],
+      "art-1133": [
+       "legea-138-2014"
+      ],
+      "art-1134": [
+       "legea-138-2014"
+      ]
+     }
     },
     {
      "from": "2016-02-04",
@@ -20424,13 +21988,13 @@
  ],
  "applies": [],
  "decisions": [
-  "Codul de procedură civilă: Phase 2 act (gitlaw-RO-2, 2026-10-29), one of the Portalul legislativ's consolidated forms per version, as for the Phase 1 acts: 39 pages read from Common Crawl captures and 1 from Internet Archive captures, each pinned in forms.json and in its version's source_url. A capture was used only if it was complete and the page showed the form its document id stands for.",
+  "Codul de procedură civilă: Phase 2 act (gitlaw-RO-2, 2026-10-29), one of the Portalul legislativ's consolidated forms per version, as for the Phase 1 acts: 40 pages read from Common Crawl captures and 1 from Internet Archive captures, each pinned in forms.json and in its version's source_url. A capture was used only if it was complete and the page showed the form its document id stands for.",
   "Codul de procedură civilă: the newest form held is that of 14.12.2025 (the act page's capture 20260625171640 lists no later form); amendments in force after it may be missing.",
   "Codul de procedură civilă: the portal links its republicare of 15.02.2013 to the act page 140271, which shows the newest form, so that link is not read; the form of the same day with its own page is.",
-  "Codul de procedură civilă: forms listed by the portal but in neither archive, so not versions (their changes arrive with the next form held): 10.04.2015 (167140).",
+  "Codul de procedură civilă: the republication of 10.04.2015 (167140) has no page of its own that shows it (its DetaliiDocument page shows the newest form), so it is read from DetaliiDocumentAfis/167140, the republished text as printed in the Monitorul Oficial (capture 20251204203127); that page carries no amendment notes.",
   "Codul de procedură civilă: the first version is the code as published in 2010 (DetaliiDocumentAfis/120650), dated 15 February 2013, the day it took effect (the date of the portal's first in-force form and of its republication note), followed the same day by the text in force from that day (the portal's form of 15.02.2013, the text republished in Monitorul Oficial nr. 545 of 3 August 2012); changes no article note explains are credited to Legea nr. 76/2012, which amended the code and ordered the republication. Forms dated before 15 February 2013 are not used.",
-  "Codul de procedură civilă: 766 changed article(s) with no note naming a law, committed as the publisher's: 2013-04-05 art-0039, 2013-04-05 art-0053, 2013-04-05 art-0064, 2013-04-05 art-0087, 2013-04-05 art-0150, 2013-04-05 art-0155, 2013-04-05 art-0156, 2013-04-05 art-0186, 2013-04-05 art-0194, 2013-04-05 art-0201, 2013-04-05 art-0205, 2013-04-05 art-0229, 2013-04-05 art-0234, 2013-04-05 art-0253, 2013-04-05 art-0356, 2013-04-05 art-0377, 2013-04-05 art-0404, 2013-04-05 art-0425, 2013-04-05 art-0450, 2013-04-05 art-0451, 2013-04-05 art-0457, 2013-04-05 art-0460, 2013-04-05 art-0470, 2013-04-05 art-0486, 2013-04-05 art-0511, 2013-04-05 art-0516, 2013-04-05 art-0571, 2013-04-05 art-0719, 2013-04-05 art-0737, 2013-04-05 art-0739, 2013-04-05 art-0782, 2013-04-05 art-0789, 2013-04-05 art-0820, 2013-04-05 art-0840, 2013-04-05 art-0882, 2013-04-05 art-0920, 2013-04-05 art-0956, 2013-04-05 art-0963, 2013-04-05 art-0969, 2013-04-05 art-0975, 2013-04-05 art-0994, 2013-04-05 art-1001, 2013-04-05 art-1065, 2013-04-05 art-1067, 2013-04-05 art-1069, 2013-04-05 art-1075, 2013-04-05 art-1077, 2013-04-05 art-1078, 2013-04-05 art-1080, 2013-04-05 art-1084, 2013-04-05 art-1092, 2013-04-05 art-1096, 2013-04-05 art-1098, 2013-04-05 art-1099, 2013-04-05 art-1101, 2013-04-05 art-1105, 2013-04-05 art-1107, 2013-04-05 art-1108, 2013-04-05 art-1109, 2013-04-05 art-1123, 2013-04-05 art-1126, 2014-01-15 art-0039, 2014-01-15 art-0053, 2014-01-15 art-0064, 2014-01-15 art-0087, 2014-01-15 art-0150, 2014-01-15 art-0155, 2014-01-15 art-0156, 2014-01-15 art-0186, 2014-01-15 art-0194, 2014-01-15 art-0201, 2014-01-15 art-0205, 2014-01-15 art-0234, 2014-01-15 art-0244, 2014-01-15 art-0253, 2014-01-15 art-0356, 2014-01-15 art-0394, 2014-01-15 art-0404, 2014-01-15 art-0425, 2014-01-15 art-0450, 2014-01-15 art-0457, 2014-01-15 art-0460, 2014-01-15 art-0470, 2014-01-15 art-0486, 2014-01-15 art-0511, 2014-01-15 art-0571, 2014-01-15 art-0659, 2014-01-15 art-0739, 2014-01-15 art-0782, 2014-01-15 art-0840, 2014-01-15 art-0882, 2014-01-15 art-0920, 2014-01-15 art-0956, 2014-01-15 art-0963, 2014-01-15 art-0969, 2014-01-15 art-0975, 2014-01-15 art-0994, 2014-01-15 art-1065, 2014-01-15 art-1067, 2014-01-15 art-1069, 2014-01-15 art-1075, 2014-01-15 art-1077, 2014-01-15 art-1078, 2014-01-15 art-1080, 2014-01-15 art-1084, 2014-01-15 art-1092, 2014-01-15 art-1096, 2014-01-15 art-1098, 2014-01-15 art-1099, 2014-01-15 art-1101, 2014-01-15 art-1105, 2014-01-15 art-1107, 2014-01-15 art-1108, 2014-01-15 art-1109, 2014-01-15 art-1123, 2014-01-15 art-1126, 2014-03-02 art-0013, 2014-03-02 art-0244, 2014-03-02 art-0388, 2014-03-02 art-0394, 2014-03-02 art-0471, 2014-03-02 art-0472, 2014-03-02 art-0482, 2014-03-02 art-0483, 2014-03-02 art-0488, 2014-03-02 art-0502, 2014-03-02 art-0520, 2014-03-02 art-0659, 2014-07-16 art-0053, 2014-07-16 art-0064, 2014-07-16 art-0069, 2014-07-16 art-0071, 2014-07-16 art-0074, 2014-07-16 art-0079, 2014-07-16 art-0114, 2014-07-16 art-0154, 2014-07-16 art-0163, 2014-07-16 art-0166, 2014-07-16 art-0169, 2014-07-16 art-0187, 2014-07-16 art-0200, 2014-07-16 art-0202, 2014-07-16 art-0217, 2014-07-16 art-0234, 2014-07-16 art-0248, 2014-07-16 art-0339, 2014-07-16 art-0355, 2014-07-16 art-0360, 2014-07-16 art-0383, 2014-07-16 art-0388, 2014-07-16 art-0424, 2014-07-16 art-0427, 2014-07-16 art-0429, 2014-07-16 art-0450, 2014-07-16 art-0473, 2014-07-16 art-0474, 2014-07-16 art-0480, 2014-07-16 art-0498, 2014-07-16 art-0516, 2014-07-16 art-0522, 2014-07-16 art-0549, 2014-07-16 art-0558, 2014-07-16 art-0572, 2014-07-16 art-0600, 2014-07-16 art-0658, 2014-07-16 art-0659, 2014-07-16 art-0666, 2014-07-16 art-0669, 2014-07-16 art-0679, 2014-07-16 art-0692, 2014-07-16 art-0698, 2014-07-16 art-0719, 2014-07-16 art-0739, 2014-07-16 art-0754, 2014-07-16 art-0761, 2014-07-16 art-0782, 2014-07-16 art-0783, 2014-07-16 art-0820, 2014-07-16 art-0821, 2014-07-16 art-0822, 2014-07-16 art-0823, 2014-07-16 art-0835, 2014-07-16 art-0839, 2014-07-16 art-0856, 2014-07-16 art-0880, 2014-07-16 art-0882, 2014-07-16 art-0909, 2014-07-16 art-0912, 2014-07-16 art-0940, 2014-07-16 art-0956, 2014-07-16 art-0963, 2014-07-16 art-0969, 2014-07-16 art-0995, 2014-07-16 art-0998, 2014-07-16 art-1013, 2014-07-16 art-1014, 2014-07-16 art-1021, 2014-07-16 art-1029, 2014-07-16 art-1037, 2014-07-16 art-1039, 2014-07-16 art-1051, 2014-08-31 art-0248, 2014-08-31 art-0388, 2014-08-31 art-0650, 2014-10-19 art-0388, 2014-10-19 art-0650, 2014-10-24 art-0615, 2014-10-24 art-0659, 2015-07-20 art-0009, 2015-07-20 art-0010, 2015-07-20 art-0042, 2015-07-20 art-0071, 2015-07-20 art-0094, 2015-07-20 art-0145, 2015-07-20 art-0148, 2015-07-20 art-0151, 2015-07-20 art-0154, 2015-07-20 art-0156, 2015-07-20 art-0163, 2015-07-20 art-0170, 2015-07-20 art-0194, 2015-07-20 art-0200, 2015-07-20 art-0202, 2015-07-20 art-0203, 2015-07-20 art-0204, 2015-07-20 art-0211, 2015-07-20 art-0261, 2015-07-20 art-0275, 2015-07-20 art-0282, 2015-07-20 art-0283, 2015-07-20 art-0289, 2015-07-20 art-0319, 2015-07-20 art-0354, 2015-07-20 art-0397, 2015-07-20 art-0406, 2015-07-20 art-0424, 2015-07-20 art-0449, 2015-07-20 art-0450, 2015-07-20 art-0478, 2015-07-20 art-0480, 2015-07-20 art-0483, 2015-07-20 art-0484, 2015-07-20 art-0493, 2015-07-20 art-0516, 2015-07-20 art-0520, 2015-07-20 art-0522, 2015-07-20 art-0528, 2015-07-20 art-0539, 2015-07-20 art-0590, 2015-07-20 art-0592, 2015-07-20 art-0593, 2015-07-20 art-0615, 2015-07-20 art-0633, 2015-07-20 art-0638, 2015-07-20 art-0640-1, 2015-07-20 art-0641, 2015-07-20 art-0642, 2015-07-20 art-0643, 2015-07-20 art-0644, 2015-07-20 art-0645, 2015-07-20 art-0646, 2015-07-20 art-0647, 2015-07-20 art-0648, 2015-07-20 art-0649, 2015-07-20 art-0650, 2015-07-20 art-0651, 2015-07-20 art-0652, 2015-07-20 art-0653, 2015-07-20 art-0654, 2015-07-20 art-0655, 2015-07-20 art-0656, 2015-07-20 art-0657, 2015-07-20 art-0658, 2015-07-20 art-0659, 2015-07-20 art-0660, 2015-07-20 art-0661, 2015-07-20 art-0662, 2015-07-20 art-0663, 2015-07-20 art-0664, 2015-07-20 art-0665, 2015-07-20 art-0666, 2015-07-20 art-0667, 2015-07-20 art-0668, 2015-07-20 art-0669, 2015-07-20 art-0670, 2015-07-20 art-0671, 2015-07-20 art-0672, 2015-07-20 art-0673, 2015-07-20 art-0674, 2015-07-20 art-0675, 2015-07-20 art-0676, 2015-07-20 art-0677, 2015-07-20 art-0678, 2015-07-20 art-0679, 2015-07-20 art-0680, 2015-07-20 art-0681, 2015-07-20 art-0682, 2015-07-20 art-0683, 2015-07-20 art-0684, 2015-07-20 art-0685, 2015-07-20 art-0686, 2015-07-20 art-0687, 2015-07-20 art-0688, 2015-07-20 art-0689, 2015-07-20 art-0690, 2015-07-20 art-0691, 2015-07-20 art-0692, 2015-07-20 art-0693, 2015-07-20 art-0694, 2015-07-20 art-0695, 2015-07-20 art-0696, 2015-07-20 art-0697, 2015-07-20 art-0698, 2015-07-20 art-0699, 2015-07-20 art-0700, 2015-07-20 art-0701, 2015-07-20 art-0702, 2015-07-20 art-0703, 2015-07-20 art-0704, 2015-07-20 art-0705, 2015-07-20 art-0706, 2015-07-20 art-0707, 2015-07-20 art-0708, 2015-07-20 art-0709, 2015-07-20 art-0710, 2015-07-20 art-0711, 2015-07-20 art-0712, 2015-07-20 art-0713, 2015-07-20 art-0714, 2015-07-20 art-0715, 2015-07-20 art-0716, 2015-07-20 art-0717, 2015-07-20 art-0718, 2015-07-20 art-0719, 2015-07-20 art-0720, 2015-07-20 art-0721, 2015-07-20 art-0722, 2015-07-20 art-0723, 2015-07-20 art-0724, 2015-07-20 art-0725, 2015-07-20 art-0726, 2015-07-20 art-0727, 2015-07-20 art-0728, 2015-07-20 art-0729, 2015-07-20 art-0730, 2015-07-20 art-0731, 2015-07-20 art-0732, 2015-07-20 art-0733, 2015-07-20 art-0734, 2015-07-20 art-0735, 2015-07-20 art-0736, 2015-07-20 art-0737, 2015-07-20 art-0738, 2015-07-20 art-0739, 2015-07-20 art-0740, 2015-07-20 art-0741, 2015-07-20 art-0742, 2015-07-20 art-0743, 2015-07-20 art-0744, 2015-07-20 art-0745, 2015-07-20 art-0746, 2015-07-20 art-0747, 2015-07-20 art-0748, 2015-07-20 art-0749, 2015-07-20 art-0750, 2015-07-20 art-0751, 2015-07-20 art-0752, 2015-07-20 art-0753, 2015-07-20 art-0754, 2015-07-20 art-0755, 2015-07-20 art-0756, 2015-07-20 art-0757, 2015-07-20 art-0758, 2015-07-20 art-0759, 2015-07-20 art-0760, 2015-07-20 art-0761, 2015-07-20 art-0762, 2015-07-20 art-0763, 2015-07-20 art-0764, 2015-07-20 art-0765, 2015-07-20 art-0766, 2015-07-20 art-0767, 2015-07-20 art-0768, 2015-07-20 art-0769, 2015-07-20 art-0770, 2015-07-20 art-0771, 2015-07-20 art-0772, 2015-07-20 art-0773, 2015-07-20 art-0774, 2015-07-20 art-0775, 2015-07-20 art-0776, 2015-07-20 art-0777, 2015-07-20 art-0778, 2015-07-20 art-0779, 2015-07-20 art-0780, 2015-07-20 art-0781, 2015-07-20 art-0782, 2015-07-20 art-0783, 2015-07-20 art-0784, 2015-07-20 art-0785, 2015-07-20 art-0786, 2015-07-20 art-0787, 2015-07-20 art-0788, 2015-07-20 art-0789, 2015-07-20 art-0790, 2015-07-20 art-0791, 2015-07-20 art-0792, 2015-07-20 art-0793, 2015-07-20 art-0794, 2015-07-20 art-0795, 2015-07-20 art-0796, 2015-07-20 art-0797, 2015-07-20 art-0798, 2015-07-20 art-0799, 2015-07-20 art-0800, 2015-07-20 art-0801, 2015-07-20 art-0802, 2015-07-20 art-0803, 2015-07-20 art-0804, 2015-07-20 art-0805, 2015-07-20 art-0806, 2015-07-20 art-0807, 2015-07-20 art-0808, 2015-07-20 art-0809, 2015-07-20 art-0810, 2015-07-20 art-0811, 2015-07-20 art-0812, 2015-07-20 art-0813, 2015-07-20 art-0814, 2015-07-20 art-0815, 2015-07-20 art-0816, 2015-07-20 art-0817, 2015-07-20 art-0818, 2015-07-20 art-0819, 2015-07-20 art-0820, 2015-07-20 art-0821, 2015-07-20 art-0822, 2015-07-20 art-0823, 2015-07-20 art-0824, 2015-07-20 art-0825, 2015-07-20 art-0826, 2015-07-20 art-0827, 2015-07-20 art-0828, 2015-07-20 art-0829, 2015-07-20 art-0830, 2015-07-20 art-0831, 2015-07-20 art-0832, 2015-07-20 art-0833, 2015-07-20 art-0834, 2015-07-20 art-0835, 2015-07-20 art-0836, 2015-07-20 art-0837, 2015-07-20 art-0838, 2015-07-20 art-0839, 2015-07-20 art-0840, 2015-07-20 art-0841, 2015-07-20 art-0842, 2015-07-20 art-0843, 2015-07-20 art-0844, 2015-07-20 art-0845, 2015-07-20 art-0846, 2015-07-20 art-0847, 2015-07-20 art-0847-1, 2015-07-20 art-0848, 2015-07-20 art-0849, 2015-07-20 art-0850, 2015-07-20 art-0851, 2015-07-20 art-0852, 2015-07-20 art-0853, 2015-07-20 art-0854, 2015-07-20 art-0855, 2015-07-20 art-0856, 2015-07-20 art-0857, 2015-07-20 art-0858, 2015-07-20 art-0859, 2015-07-20 art-0860, 2015-07-20 art-0861, 2015-07-20 art-0862, 2015-07-20 art-0863, 2015-07-20 art-0864, 2015-07-20 art-0865, 2015-07-20 art-0866, 2015-07-20 art-0867, 2015-07-20 art-0868, 2015-07-20 art-0869, 2015-07-20 art-0870, 2015-07-20 art-0871, 2015-07-20 art-0872, 2015-07-20 art-0873, 2015-07-20 art-0874, 2015-07-20 art-0875, 2015-07-20 art-0876, 2015-07-20 art-0877, 2015-07-20 art-0878, 2015-07-20 art-0879, 2015-07-20 art-0880, 2015-07-20 art-0881, 2015-07-20 art-0882, 2015-07-20 art-0883, 2015-07-20 art-0884, 2015-07-20 art-0885, 2015-07-20 art-0886, 2015-07-20 art-0887, 2015-07-20 art-0888, 2015-07-20 art-0889, 2015-07-20 art-0890, 2015-07-20 art-0891, 2015-07-20 art-0892, 2015-07-20 art-0893, 2015-07-20 art-0894, 2015-07-20 art-0895, 2015-07-20 art-0896, 2015-07-20 art-0897, 2015-07-20 art-0898, 2015-07-20 art-0899, 2015-07-20 art-0900, 2015-07-20 art-0901, 2015-07-20 art-0902, 2015-07-20 art-0903, 2015-07-20 art-0904, 2015-07-20 art-0905, 2015-07-20 art-0906, 2015-07-20 art-0907, 2015-07-20 art-0908, 2015-07-20 art-0909, 2015-07-20 art-0910, 2015-07-20 art-0911, 2015-07-20 art-0912, 2015-07-20 art-0913, 2015-07-20 art-0914, 2015-07-20 art-0915, 2015-07-20 art-0916, 2015-07-20 art-0917, 2015-07-20 art-0918, 2015-07-20 art-0919, 2015-07-20 art-0920, 2015-07-20 art-0921, 2015-07-20 art-0922, 2015-07-20 art-0923, 2015-07-20 art-0924, 2015-07-20 art-0925, 2015-07-20 art-0926, 2015-07-20 art-0927, 2015-07-20 art-0928, 2015-07-20 art-0929, 2015-07-20 art-0930, 2015-07-20 art-0931, 2015-07-20 art-0932, 2015-07-20 art-0933, 2015-07-20 art-0934, 2015-07-20 art-0935, 2015-07-20 art-0936, 2015-07-20 art-0937, 2015-07-20 art-0938, 2015-07-20 art-0939, 2015-07-20 art-0940, 2015-07-20 art-0941, 2015-07-20 art-0942, 2015-07-20 art-0943, 2015-07-20 art-0944, 2015-07-20 art-0945, 2015-07-20 art-0946, 2015-07-20 art-0947, 2015-07-20 art-0948, 2015-07-20 art-0949, 2015-07-20 art-0950, 2015-07-20 art-0951, 2015-07-20 art-0952, 2015-07-20 art-0953, 2015-07-20 art-0954, 2015-07-20 art-0955, 2015-07-20 art-0956, 2015-07-20 art-0957, 2015-07-20 art-0958, 2015-07-20 art-0959, 2015-07-20 art-0960, 2015-07-20 art-0961, 2015-07-20 art-0962, 2015-07-20 art-0963, 2015-07-20 art-0964, 2015-07-20 art-0965, 2015-07-20 art-0966, 2015-07-20 art-0967, 2015-07-20 art-0968, 2015-07-20 art-0969, 2015-07-20 art-0970, 2015-07-20 art-0971, 2015-07-20 art-0972, 2015-07-20 art-0973, 2015-07-20 art-0974, 2015-07-20 art-0975, 2015-07-20 art-0976, 2015-07-20 art-0977, 2015-07-20 art-0978, 2015-07-20 art-0979, 2015-07-20 art-0980, 2015-07-20 art-0981, 2015-07-20 art-0982, 2015-07-20 art-0983, 2015-07-20 art-0984, 2015-07-20 art-0985, 2015-07-20 art-0986, 2015-07-20 art-0987, 2015-07-20 art-0988, 2015-07-20 art-0989, 2015-07-20 art-0990, 2015-07-20 art-0991, 2015-07-20 art-0992, 2015-07-20 art-0993, 2015-07-20 art-0994, 2015-07-20 art-0995, 2015-07-20 art-0996, 2015-07-20 art-0997, 2015-07-20 art-0998, 2015-07-20 art-0999, 2015-07-20 art-1000, 2015-07-20 art-1001, 2015-07-20 art-1002, 2015-07-20 art-1003, 2015-07-20 art-1004, 2015-07-20 art-1005, 2015-07-20 art-1006, 2015-07-20 art-1007, 2015-07-20 art-1008, 2015-07-20 art-1009, 2015-07-20 art-1010, 2015-07-20 art-1011, 2015-07-20 art-1012, 2015-07-20 art-1013, 2015-07-20 art-1014, 2015-07-20 art-1015, 2015-07-20 art-1016, 2015-07-20 art-1017, 2015-07-20 art-1018, 2015-07-20 art-1019, 2015-07-20 art-1020, 2015-07-20 art-1021, 2015-07-20 art-1022, 2015-07-20 art-1023, 2015-07-20 art-1024, 2015-07-20 art-1025, 2015-07-20 art-1026, 2015-07-20 art-1027, 2015-07-20 art-1028, 2015-07-20 art-1029, 2015-07-20 art-1030, 2015-07-20 art-1031, 2015-07-20 art-1032, 2015-07-20 art-1033, 2015-07-20 art-1034, 2015-07-20 art-1035, 2015-07-20 art-1036, 2015-07-20 art-1037, 2015-07-20 art-1038, 2015-07-20 art-1039, 2015-07-20 art-1040, 2015-07-20 art-1041, 2015-07-20 art-1042, 2015-07-20 art-1043, 2015-07-20 art-1044, 2015-07-20 art-1045, 2015-07-20 art-1046, 2015-07-20 art-1047, 2015-07-20 art-1048, 2015-07-20 art-1049, 2015-07-20 art-1050, 2015-07-20 art-1051, 2015-07-20 art-1052, 2015-07-20 art-1053, 2015-07-20 art-1054, 2015-07-20 art-1055, 2015-07-20 art-1056, 2015-07-20 art-1057, 2015-07-20 art-1058, 2015-07-20 art-1059, 2015-07-20 art-1060, 2015-07-20 art-1061, 2015-07-20 art-1062, 2015-07-20 art-1063, 2015-07-20 art-1064, 2015-07-20 art-1065, 2015-07-20 art-1066, 2015-07-20 art-1067, 2015-07-20 art-1068, 2015-07-20 art-1069, 2015-07-20 art-1070, 2015-07-20 art-1071, 2015-07-20 art-1072, 2015-07-20 art-1073, 2015-07-20 art-1074, 2015-07-20 art-1075, 2015-07-20 art-1076, 2015-07-20 art-1077, 2015-07-20 art-1078, 2015-07-20 art-1079, 2015-07-20 art-1080, 2015-07-20 art-1081, 2015-07-20 art-1082, 2015-07-20 art-1083, 2015-07-20 art-1084, 2015-07-20 art-1085, 2015-07-20 art-1086, 2015-07-20 art-1087, 2015-07-20 art-1088, 2015-07-20 art-1089, 2015-07-20 art-1090, 2015-07-20 art-1091, 2015-07-20 art-1092, 2015-07-20 art-1093, 2015-07-20 art-1094, 2015-07-20 art-1095, 2015-07-20 art-1096, 2015-07-20 art-1097, 2015-07-20 art-1098, 2015-07-20 art-1099, 2015-07-20 art-1100, 2015-07-20 art-1101, 2015-07-20 art-1102, 2015-07-20 art-1103, 2015-07-20 art-1104, 2015-07-20 art-1105, 2015-07-20 art-1106, 2015-07-20 art-1107, 2015-07-20 art-1108, 2015-07-20 art-1109, 2015-07-20 art-1110, 2015-07-20 art-1111, 2015-07-20 art-1112, 2015-07-20 art-1113, 2015-07-20 art-1114, 2015-07-20 art-1115, 2015-07-20 art-1116, 2015-07-20 art-1117, 2015-07-20 art-1118, 2015-07-20 art-1119, 2015-07-20 art-1120, 2015-07-20 art-1121, 2015-07-20 art-1122, 2015-07-20 art-1123, 2015-07-20 art-1124, 2015-07-20 art-1125, 2015-07-20 art-1126, 2015-07-20 art-1127, 2015-07-20 art-1128, 2015-07-20 art-1129, 2015-07-20 art-1130, 2015-07-20 art-1131, 2015-07-20 art-1132, 2015-07-20 art-1133, 2015-07-20 art-1134, 2016-12-15 art-0083, 2016-12-15 art-0483, 2016-12-15 art-0520, 2016-12-15 art-0590, 2016-12-15 art-0660, 2017-03-24 art-0083, 2017-03-24 art-0590, 2017-07-20 art-0317, 2017-07-20 art-0371, 2017-07-20 art-0415, 2017-07-20 art-0511, 2018-07-23 art-0415, 2018-12-21 art-0105, 2018-12-21 art-0475, 2018-12-21 art-0493, 2023-03-09 art-0511.",
-  "Codul de procedură civilă: forms with no change after normalisation, so no version: 2014-12-10 (163767), 2015-09-04 (175450), 2016-02-01 (175488), 2016-05-09 (178304), 2016-06-24 (183771), 2018-09-06 (206761), 2019-01-03 (209224), 2019-02-17 (231348), 2020-10-22 (231350), 2022-05-03 (254108)."
+  "Codul de procedură civilă: 213 changed article(s) with no note naming a law, committed as the publisher's: 2013-04-05 art-0039, 2013-04-05 art-0053, 2013-04-05 art-0064, 2013-04-05 art-0087, 2013-04-05 art-0150, 2013-04-05 art-0155, 2013-04-05 art-0156, 2013-04-05 art-0186, 2013-04-05 art-0194, 2013-04-05 art-0201, 2013-04-05 art-0205, 2013-04-05 art-0229, 2013-04-05 art-0234, 2013-04-05 art-0253, 2013-04-05 art-0356, 2013-04-05 art-0377, 2013-04-05 art-0404, 2013-04-05 art-0425, 2013-04-05 art-0450, 2013-04-05 art-0451, 2013-04-05 art-0457, 2013-04-05 art-0460, 2013-04-05 art-0470, 2013-04-05 art-0486, 2013-04-05 art-0511, 2013-04-05 art-0516, 2013-04-05 art-0571, 2013-04-05 art-0719, 2013-04-05 art-0737, 2013-04-05 art-0739, 2013-04-05 art-0782, 2013-04-05 art-0789, 2013-04-05 art-0820, 2013-04-05 art-0840, 2013-04-05 art-0882, 2013-04-05 art-0920, 2013-04-05 art-0956, 2013-04-05 art-0963, 2013-04-05 art-0969, 2013-04-05 art-0975, 2013-04-05 art-0994, 2013-04-05 art-1001, 2013-04-05 art-1065, 2013-04-05 art-1067, 2013-04-05 art-1069, 2013-04-05 art-1075, 2013-04-05 art-1077, 2013-04-05 art-1078, 2013-04-05 art-1080, 2013-04-05 art-1084, 2013-04-05 art-1092, 2013-04-05 art-1096, 2013-04-05 art-1098, 2013-04-05 art-1099, 2013-04-05 art-1101, 2013-04-05 art-1105, 2013-04-05 art-1107, 2013-04-05 art-1108, 2013-04-05 art-1109, 2013-04-05 art-1123, 2013-04-05 art-1126, 2014-01-15 art-0039, 2014-01-15 art-0053, 2014-01-15 art-0064, 2014-01-15 art-0087, 2014-01-15 art-0150, 2014-01-15 art-0155, 2014-01-15 art-0156, 2014-01-15 art-0186, 2014-01-15 art-0194, 2014-01-15 art-0201, 2014-01-15 art-0205, 2014-01-15 art-0234, 2014-01-15 art-0253, 2014-01-15 art-0356, 2014-01-15 art-0404, 2014-01-15 art-0425, 2014-01-15 art-0450, 2014-01-15 art-0457, 2014-01-15 art-0460, 2014-01-15 art-0470, 2014-01-15 art-0486, 2014-01-15 art-0511, 2014-01-15 art-0571, 2014-01-15 art-0659, 2014-01-15 art-0739, 2014-01-15 art-0782, 2014-01-15 art-0840, 2014-01-15 art-0882, 2014-01-15 art-0920, 2014-01-15 art-0956, 2014-01-15 art-0963, 2014-01-15 art-0969, 2014-01-15 art-0975, 2014-01-15 art-0994, 2014-01-15 art-1065, 2014-01-15 art-1067, 2014-01-15 art-1069, 2014-01-15 art-1075, 2014-01-15 art-1077, 2014-01-15 art-1078, 2014-01-15 art-1080, 2014-01-15 art-1084, 2014-01-15 art-1092, 2014-01-15 art-1096, 2014-01-15 art-1098, 2014-01-15 art-1099, 2014-01-15 art-1101, 2014-01-15 art-1105, 2014-01-15 art-1107, 2014-01-15 art-1108, 2014-01-15 art-1109, 2014-01-15 art-1123, 2014-01-15 art-1126, 2014-03-02 art-0471, 2014-03-02 art-0472, 2014-03-02 art-0483, 2014-03-02 art-0488, 2014-03-02 art-0520, 2014-03-02 art-0659, 2014-07-16 art-0053, 2014-07-16 art-0064, 2014-07-16 art-0069, 2014-07-16 art-0071, 2014-07-16 art-0074, 2014-07-16 art-0079, 2014-07-16 art-0114, 2014-07-16 art-0154, 2014-07-16 art-0163, 2014-07-16 art-0166, 2014-07-16 art-0169, 2014-07-16 art-0187, 2014-07-16 art-0200, 2014-07-16 art-0202, 2014-07-16 art-0217, 2014-07-16 art-0234, 2014-07-16 art-0248, 2014-07-16 art-0339, 2014-07-16 art-0355, 2014-07-16 art-0360, 2014-07-16 art-0383, 2014-07-16 art-0424, 2014-07-16 art-0427, 2014-07-16 art-0429, 2014-07-16 art-0450, 2014-07-16 art-0473, 2014-07-16 art-0474, 2014-07-16 art-0480, 2014-07-16 art-0498, 2014-07-16 art-0516, 2014-07-16 art-0522, 2014-07-16 art-0549, 2014-07-16 art-0558, 2014-07-16 art-0572, 2014-07-16 art-0600, 2014-07-16 art-0658, 2014-07-16 art-0659, 2014-07-16 art-0666, 2014-07-16 art-0669, 2014-07-16 art-0679, 2014-07-16 art-0692, 2014-07-16 art-0698, 2014-07-16 art-0719, 2014-07-16 art-0739, 2014-07-16 art-0754, 2014-07-16 art-0761, 2014-07-16 art-0782, 2014-07-16 art-0783, 2014-07-16 art-0820, 2014-07-16 art-0821, 2014-07-16 art-0822, 2014-07-16 art-0823, 2014-07-16 art-0835, 2014-07-16 art-0839, 2014-07-16 art-0856, 2014-07-16 art-0880, 2014-07-16 art-0882, 2014-07-16 art-0909, 2014-07-16 art-0912, 2014-07-16 art-0940, 2014-07-16 art-0956, 2014-07-16 art-0963, 2014-07-16 art-0969, 2014-07-16 art-0995, 2014-07-16 art-0998, 2014-07-16 art-1013, 2014-07-16 art-1014, 2014-07-16 art-1021, 2014-07-16 art-1029, 2014-07-16 art-1037, 2014-07-16 art-1039, 2014-07-16 art-1051, 2014-08-31 art-0248, 2014-08-31 art-0650, 2014-10-19 art-0650, 2014-10-24 art-0615, 2014-10-24 art-0659, 2016-12-15 art-0083, 2016-12-15 art-0483, 2016-12-15 art-0520, 2016-12-15 art-0590, 2016-12-15 art-0660, 2017-03-24 art-0083, 2017-03-24 art-0590, 2017-07-20 art-0317, 2017-07-20 art-0371, 2017-07-20 art-0415, 2017-07-20 art-0511, 2018-07-23 art-0415, 2018-12-21 art-0105, 2018-12-21 art-0475, 2018-12-21 art-0493, 2023-03-09 art-0511.",
+  "Codul de procedură civilă: forms with no change after normalisation, so no version: 2014-12-10 (163767), 2015-07-20 (169940), 2015-09-04 (175450), 2016-02-01 (175488), 2016-05-09 (178304), 2016-06-24 (183771), 2018-09-06 (206761), 2019-01-03 (209224), 2019-02-17 (231348), 2020-10-22 (231350), 2022-05-03 (254108)."
  ],
  "ai_use": [
   "Codul de procedură civilă: parsed by parse.py, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in parse.py."

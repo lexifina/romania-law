@@ -1114,6 +1114,7 @@
     "url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/167140"
    }
   },
+  "pins": {},
   "missing": []
  },
  "codul-procedura-penala": {
@@ -2906,10 +2907,18 @@
   },
   "base_capture": "20251117043802",
   "afis": {},
+  "pins": {
+   "310617": {
+    "page": "120611",
+    "capture": "20260604213746"
+   },
+   "309218": {
+    "page": "120611",
+    "capture": "20260504205806"
+   }
+  },
   "missing": [
-   "186645",
-   "309218",
-   "310617"
+   "186645"
   ]
  },
  "codul-muncii": {
@@ -3811,6 +3820,7 @@
     "url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/128647"
    }
   },
+  "pins": {},
   "missing": []
  },
  "legea-190-2018": {
