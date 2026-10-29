@@ -1104,9 +1104,17 @@
    "url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/120650"
   },
   "base_capture": "20251109033314",
-  "missing": [
-   "167140"
-  ]
+  "afis": {
+   "167140": {
+    "crawl": "CC-MAIN-2025-51",
+    "timestamp": "20251204203127",
+    "filename": "crawl-data/CC-MAIN-2025-51/segments/1764871306713.64/warc/CC-MAIN-20251204191828-20251204221828-00365.warc.gz",
+    "offset": "283963317",
+    "length": "477317",
+    "url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/167140"
+   }
+  },
+  "missing": []
  },
  "codul-procedura-penala": {
   "root": "120611",
@@ -1960,11 +1968,11 @@
     "url": "https://legislatie.just.ro/Public/DetaliiDocument/173156"
    },
    "174454": {
-    "crawl": "CC-MAIN-2025-38",
-    "timestamp": "20250914125958",
-    "filename": "crawl-data/CC-MAIN-2025-38/segments/1757047533819.35/warc/CC-MAIN-20250914104655-20250914134655-00686.warc.gz",
-    "offset": "275560578",
-    "length": "383821",
+    "crawl": "CC-MAIN-2026-08",
+    "timestamp": "20260217061801",
+    "filename": "crawl-data/CC-MAIN-2026-08/segments/1770395855041.70/warc/CC-MAIN-20260217043628-20260217073628-00686.warc.gz",
+    "offset": "260020804",
+    "length": "383831",
     "url": "https://legislatie.just.ro/Public/DetaliiDocument/174454"
    },
    "175384": {
@@ -2008,11 +2016,11 @@
     "url": "https://legislatie.just.ro/Public/DetaliiDocument/176558"
    },
    "176560": {
-    "crawl": "CC-MAIN-2025-47",
-    "timestamp": "20251117121430",
-    "filename": "crawl-data/CC-MAIN-2025-47/segments/1762439644414.56/warc/CC-MAIN-20251117114635-20251117144635-00256.warc.gz",
-    "offset": "285176408",
-    "length": "436393",
+    "crawl": "CC-MAIN-2026-25",
+    "timestamp": "20260607075547",
+    "filename": "crawl-data/CC-MAIN-2026-25/segments/1780687572288.22/warc/CC-MAIN-20260607070942-20260607100942-00256.warc.gz",
+    "offset": "277801905",
+    "length": "436403",
     "url": "https://legislatie.just.ro/Public/DetaliiDocument/176560"
    },
    "177062": {
@@ -2120,11 +2128,11 @@
     "url": "https://legislatie.just.ro/Public/DetaliiDocument/184492"
    },
    "185907": {
-    "crawl": "CC-MAIN-2025-33",
-    "timestamp": "20250812023259",
-    "filename": "crawl-data/CC-MAIN-2025-33/segments/1754151280906.43/warc/CC-MAIN-20250812014435-20250812044435-00651.warc.gz",
-    "offset": "310226029",
-    "length": "456722",
+    "crawl": "CC-MAIN-2026-04",
+    "timestamp": "20260116060725",
+    "filename": "crawl-data/CC-MAIN-2026-04/segments/1768220469276.68/warc/CC-MAIN-20260116050605-20260116080605-00651.warc.gz",
+    "offset": "286203187",
+    "length": "456728",
     "url": "https://legislatie.just.ro/Public/DetaliiDocument/185907"
    },
    "185909": {
@@ -2184,11 +2192,11 @@
     "url": "https://legislatie.just.ro/Public/DetaliiDocument/186651"
    },
    "187311": {
-    "crawl": "CC-MAIN-2025-18",
-    "timestamp": "20250420232957",
-    "filename": "crawl-data/CC-MAIN-2025-18/segments/1744889135758.4/warc/CC-MAIN-20250420212612-20250421002612-00492.warc.gz",
-    "offset": "363997268",
-    "length": "414483",
+    "crawl": "CC-MAIN-2025-43",
+    "timestamp": "20251018174842",
+    "filename": "crawl-data/CC-MAIN-2025-43/segments/1759648666538.84/warc/CC-MAIN-20251018154702-20251018184702-00492.warc.gz",
+    "offset": "321903334",
+    "length": "414502",
     "url": "https://legislatie.just.ro/Public/DetaliiDocument/187311"
    },
    "188146": {
@@ -2208,11 +2216,11 @@
     "url": "https://legislatie.just.ro/Public/DetaliiDocument/188164"
    },
    "188217": {
-    "crawl": "CC-MAIN-2025-38",
-    "timestamp": "20250912070913",
-    "filename": "crawl-data/CC-MAIN-2025-38/segments/1757047533205.30/warc/CC-MAIN-20250912054046-20250912084046-00328.warc.gz",
-    "offset": "306393839",
-    "length": "416207",
+    "crawl": "CC-MAIN-2026-08",
+    "timestamp": "20260208230438",
+    "filename": "crawl-data/CC-MAIN-2026-08/segments/1770395505909.67/warc/CC-MAIN-20260208220644-20260209010644-00328.warc.gz",
+    "offset": "268156064",
+    "length": "416225",
     "url": "https://legislatie.just.ro/Public/DetaliiDocument/188217"
    },
    "188276": {
@@ -2816,11 +2824,11 @@
     "url": "https://legislatie.just.ro/Public/DetaliiDocument/267886"
    },
    "268153": {
-    "crawl": "CC-MAIN-2025-13",
-    "timestamp": "20250328125529",
-    "filename": "crawl-data/CC-MAIN-2025-13/segments/1742004758964.89/warc/CC-MAIN-20250328111610-20250328141610-00596.warc.gz",
-    "offset": "317258465",
-    "length": "464636",
+    "crawl": "CC-MAIN-2025-43",
+    "timestamp": "20251009052648",
+    "filename": "crawl-data/CC-MAIN-2025-43/segments/1759648358356.7/warc/CC-MAIN-20251009035013-20251009065013-00596.warc.gz",
+    "offset": "339430377",
+    "length": "464685",
     "url": "https://legislatie.just.ro/Public/DetaliiDocument/268153"
    },
    "268195": {
@@ -2897,6 +2905,7 @@
    "url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/120611"
   },
   "base_capture": "20251117043802",
+  "afis": {},
   "missing": [
    "186645",
    "309218",
@@ -3792,9 +3801,17 @@
    "url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/41627"
   },
   "base_capture": "20260112181115",
-  "missing": [
-   "128647"
-  ]
+  "afis": {
+   "128647": {
+    "crawl": "CC-MAIN-2025-51",
+    "timestamp": "20251210145220",
+    "filename": "crawl-data/CC-MAIN-2025-51/segments/1764871307514.38/warc/CC-MAIN-20251210133206-20251210163206-00884.warc.gz",
+    "offset": "266994642",
+    "length": "130360",
+    "url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/128647"
+   }
+  },
+  "missing": []
  },
  "legea-190-2018": {
   "root": "203151",
