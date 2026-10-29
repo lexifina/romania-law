@@ -573,5 +573,39 @@
    "304554": "20260620102723"
   },
   "base_capture": "20260531132336"
+ },
+ "legea-190-2018": {
+  "root": "203151",
+  "root_capture": "20260202205510",
+  "root_source": "ia",
+  "base": "203151",
+  "forms": [
+   {
+    "date": "2019-12-01",
+    "id": "203151",
+    "kind": "consolidare"
+   }
+  ],
+  "captures": {},
+  "cc": {
+   "203151": {
+    "crawl": "CC-MAIN-2025-47",
+    "timestamp": "20251117194136",
+    "filename": "crawl-data/CC-MAIN-2025-47/segments/1762439646378.73/warc/CC-MAIN-20251117175408-20251117205408-00513.warc.gz",
+    "offset": "263336919",
+    "length": "23564",
+    "url": "https://legislatie.just.ro/Public/DetaliiDocument/203151"
+   }
+  },
+  "base_cc": {
+   "crawl": "CC-MAIN-2026-25",
+   "timestamp": "20260614192412",
+   "filename": "crawl-data/CC-MAIN-2026-25/segments/1780687573137.2/warc/CC-MAIN-20260614184557-20260614214557-00258.warc.gz",
+   "offset": "260738963",
+   "length": "23315",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/203151"
+  },
+  "base_capture": "20260614192412",
+  "missing": []
  }
 }
