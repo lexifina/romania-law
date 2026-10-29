@@ -161,7 +161,8 @@
  "applies": [],
  "decisions": [
   "Legea nr. 190/2018: Phase 2 act (gitlaw-RO-2, 2026-10-29), one of the Portalul legislativ's consolidated forms per version, as for the Phase 1 acts: 2 pages read from Common Crawl captures and 0 from Internet Archive captures, each pinned in forms.json and in its version's source_url. A capture was used only if it was complete and the page showed the form its document id stands for.",
-  "Legea nr. 190/2018: the newest form held is that of 01.12.2019 (the act page's capture 20260202205510 lists no later form); amendments in force after it may be missing."
+  "Legea nr. 190/2018: the newest form held is that of 01.12.2019 (the act page's capture 20260202205510 lists no later form); amendments in force after it may be missing.",
+  "Legea nr. 190/2018: the first version is the law as published in Monitorul Oficial nr. 651 of 26 July 2018 (DetaliiDocumentAfis/203151), in force on 31 July 2018: its art. 16 sets entry into force 5 days after publication. Its only consolidated form (01.12.2019) adds the change made by Legea nr. 233/2019."
  ],
  "ai_use": [
   "Legea nr. 190/2018: parsed by parse.py, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in parse.py."
