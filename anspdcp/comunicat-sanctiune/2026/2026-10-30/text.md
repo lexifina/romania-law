@@ -1,0 +1,12 @@
+Sancțiune pentru încălcarea RGPD
+Autoritatea Națională de Supraveghere a Prelucrării Datelor cu Caracter Personal a finalizat o investigație la operatorul Auchan România S.A. și a constatat încălcarea dispozițiilor art. 32 alin. (1) lit. b) și alin. (2) din Regulamentul (UE) 2016/679.
+Ca atare, operatorul a fost sancționat contravențional cu amendă în cuantum de 41.908 lei (echivalentul a 8.000 de EURO).
+Investigația a fost demarată ca urmare a transmiterii de către operatorul Auchan România S.A. a unei notificări cu privire la încălcarea securității datelor cu caracter personal, potrivit dispozițiilor art. 33 din Regulamentul (UE) 2016/679.
+În cadrul investigației efectuate s-a constatat faptul că încălcarea securității prelucrării datelor s-a produs ca urmare a unui atac informatic asupra unui cont de administrator al unuia dintre sistemele de securitate ale operatorului.
+Aceasta a condus la accesul și divulgarea nelegale la datele cu caracter personal ale unui număr semnificativ de persoane vizate (utilizatori interni), precum: user-ul, numele, prenumele, adresa de e-mail și parola.
+Totodată, în cursul investigației, a rezultat că operatorul nu avea implementate, la momentul atacului informatic, măsuri de securitate cu cerințe specifice privind accesul securizat la echipamentul de stocare de rețea care să diminueze riscul unui acces neautorizat la datele personale menționate.
+Ca urmare, s-a constatat faptul că Auchan România S.A. nu a implementat măsuri tehnice și organizatorice adecvate în vederea asigurării unui nivel de securitate corespunzător riscului prelucrării, incluzând capacitatea de a asigura confidențialitatea sistemelor și serviciilor de prelucrare.
+Această situație a condus la divulgarea neautorizată sau accesul neautorizat al unui terț la datele cu caracter personal deținute de operator, fiind astfel încălcate prevederile art. 32 alin. (1) lit. b) și alin. (2) din Regulamentul (UE) 2016/679.
+În temeiul art. 58 alin. (2) lit. d) din Regulamentul (UE) 2016/679, s-a dispus și măsura corectivă de implementare tehnică și organizatorică a regulilor de acces în toate echipamentele IT ale operatorului să se efectueze exclusiv din rețeaua internă a societății, iar în situația în care se considera necesar accesul din exterior, acesta să poată fi făcut cel puțin prin utilizarea concomitentă a unei retele VPN și a autentificării multifactor MFA.
+Direcția juridică și comunicare
+A.N.S.P.D.C.P
