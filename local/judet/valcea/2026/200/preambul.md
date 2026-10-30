@@ -1,0 +1,8 @@
+Consiliul Județean Vâlcea, întrunit în ședința ordinară din data de 30 octombrie 2026, la care participă un număr de 30 consilieri județeni, din totalul de 32 consilieri în funcție și Președintele Consiliului Județean Vâlcea;
+Având în vedere Propunerea Președintelui Consiliului Județean Vâlcea înregistrată sub nr.18466 din 7 septembrie 2026;
+Luând în considerare Referatul de aprobare al Președintelui Consiliului Județean Vâlcea, înregistrat sub nr.18467 din 7 septembrie 2026;
+Ținând cont de adresa Consiliului Județean Vâlcea nr.15380 din 28 iulie 2026, precum și de adresa nr.5180 din 12 august 2026, înregistrată la Consiliul Județean Vâlcea sub nr.17328 din 19 august 2026, prin care Direcția pentru Agricultură Județeană Vâlcea a transmis prețurile medii la produsele agricole, pentru anul 2027;
+Potrivit Raportului de specialitate al Direcției Generale Economice, înregistrat sub nr.18470 din 7 septembrie 2026, precum și avizelor comisiilor de specialitate;
+În conformitate cu prevederile art.173 alin.(1) lit.fy din Ordonanța de Urgență a Guvernului nr.57/2019 privind Codul administrativ, cu modificările și completările ulterioare, ale art.83 alin.(1) și art.84 alin.(1) și alin.(5) din Legea nr.227/2015 privind Codul fiscal, cu modificările și completările ulterioare, precum și ale Legii nr.52/2003 privind transparența decizională în administrația publică, republicată, cu modificările și completările ulterioare;
+În temeiul prevederilor art.196 alin.(1) lit.a) din Ordonanța de Urgență a Guvernului nr.57/2019 privind Codul administrativ, cu modificările și completările ulterioare MESEI
+HOTĂRĂȘTE:
