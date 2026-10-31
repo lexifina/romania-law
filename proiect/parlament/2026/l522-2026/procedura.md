@@ -13,6 +13,7 @@ Initiator: Membri ai Parlamentului.
 - 2026-09-10: documents published: Aviz comisie
 - 2026-09-16: documents published: Aviz comisie
 - 2026-10-06: documents published: Aviz comisie
+- 2026-10-31: adopted by the Senate; documents published: Document (day not given by the bill file), Forma adoptată de Senat, Adresă către Camera Deputaților
 
 ## Documents
 
@@ -24,3 +25,7 @@ Initiator: Membri ai Parlamentului.
 - 2026-09-10: Aviz comisie (CA23): [ca23-5cc24289.md](ca23-5cc24289.md); official file https://www.senat.ro/legis/PDF/2026/26L522CA23.PDF
 - 2026-09-16: Aviz comisie (CA45): [ca45-f68f2249.md](ca45-f68f2249.md); official file https://www.senat.ro/legis/PDF/2026/26L522CA45.PDF
 - 2026-10-06: Aviz comisie (CA3): [ca3-77573068.md](ca3-77573068.md); official file https://www.senat.ro/legis/PDF/2026/26L522CA3.PDF
+- 2026-10-31: Document (CF): [cf-c0839382.md](cf-c0839382.md); official file https://www.senat.ro/legis/PDF/2026/26L522CF.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-10-31: Document (CO): [co-981af09f.md](co-981af09f.md); official file https://www.senat.ro/legis/PDF/2026/26L522CO.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-10-31: Forma adoptată de Senat (FS): [fs-02d2c4d5.md](fs-02d2c4d5.md); official file https://www.senat.ro/legis/PDF/2026/26L522FS.PDF
+- 2026-10-31: Adresă către Camera Deputaților (AM): [am-c1ffcad5.md](am-c1ffcad5.md); official file https://www.senat.ro/legis/PDF/2026/26L522AM.PDF
