@@ -13,7 +13,16 @@ def register(P):
         'root_word': 'act page',
         'title': 'Ordonanța de urgență a Guvernului nr. 194/2002 privind regimul străinilor în România',
         'url': P.PORTAL + 'DetaliiDocument/93712',
-        'in_force': '2003-01-26', 'first_law': SLUG, 'hold': True,
+        'in_force': '2003-01-26', 'first_law': SLUG, 'hold': True, 'cte_notes': True,
+        # the consolidator's note in art. 31 quotes the wording Legea nr. 157/2011 art. III gives arts. 29-31 and 36
+        # from Romania's Schengen accession; the form of 24.12.2015 quotes art. 11's future wording the same way: each
+        # quoted article follows the article in force under the same title
+        'future_text': {
+            '130491': {'arts': ('Articolul 29', 'Articolul 30', 'Articolul 31', 'Articolul 36')},
+            '144566': {'arts': ('Articolul 29', 'Articolul 30', 'Articolul 31', 'Articolul 36')},
+            '148111': {'arts': ('Articolul 29', 'Articolul 30', 'Articolul 31')},
+            '174303': {'arts': ('Articolul 11',)},
+        },
         'base_note': 'The emergency ordinance as published in Monitorul Oficial nr. 955 of 27 December 2002, in force '
                      '30 days after publication (its art. 137 alin. (1)): 26 January 2003.',
         'form_note': {

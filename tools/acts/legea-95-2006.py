@@ -11,7 +11,7 @@ SLUG = 'legea-95-2006'
 def register(P):
     P.ACTS[SLUG] = {
         **P.P6, 'part': '9z-legea-95-2006', 'short': 'Legea nr. 95/2006', 'pad': 3, 'cc_forms': True,
-        'revert_credit': True, 'range_bare': True,
+        'revert_credit': True, 'range_bare': True, 'plain_ordonanta': True,
         # the forms of 01.01.2008 to 26.11.2008 print, after art. 258 (and, in the first, art. 257), the wording it takes later
         'future_text': {'88591': {'arts': ('Articolul 257', 'Articolul 258')},
                         **{k: {'arts': ('Articolul 258',)} for k in ('95186', '95966', '99744', '99745')}},
@@ -134,4 +134,33 @@ DECISIONS = [
     'articles, is read from its own page (DetaliiDocumentAfis/170974). Changes on that day that no note explains are '
     'credited to Legea nr. 184/2015, as the republication note says; files follow each text\'s own numbering, so many '
     'change that day.',
+    'Legea nr. 95/2006: the portal lists 205 forms (6 May 2006 to 2 February 2026, the republication among them). '
+    'Common Crawl holds only a cut-off copy of the pages of the larger forms, so 45 were read from Internet Archive '
+    'captures; each is pinned in forms.json and in its version\'s source_url.',
+    'Legea nr. 95/2006: art. 733 is left out from the form of 1 January 2007 with no note; the law\'s own art. 862 '
+    'repeals it on the date of Romania\'s accession to the European Union (1 January 2007), read as published. Arts. '
+    '126-140 (title V) are left out from the form of 1 January 2009 (the portal prints a range title "Articolul 126 - '
+    '140" in some forms); OUG nr. 162/2008 art. 26 repeals title V, in force 1 January 2009 (its art. 25). Art. 202 is '
+    'left out from the form of 10 June 2010; OUG nr. 48/2010 art. I pct. 42 repeals it, in force on publication, 10 '
+    'June 2010. Art. 26^1 is left out from the form of 7 April 2017; Legea nr. 45/2017 (in force 3 days after '
+    'publication, 7 April 2017) removed the point of OUG nr. 36/2016 that added it. Each repealing act was read as '
+    'published.',
+    'Legea nr. 95/2006: arts. 682, 684-687, 689 and 690 are left out from the form of 12 November 2009 with the '
+    'portal\'s note that Legea nr. 329/2009 art. 68 lit. k) repealed them, "from the day the Government decisions '
+    'setting up the new bodies take effect". The decision for the Școala Națională de Sănătate Publică și Management '
+    'Sanitar, HOTĂRÂREA nr. 1.421/2009 (DetaliiDocumentAfis/114247), has no in-force clause of its own and was '
+    'published in Monitorul Oficial nr. 848 of 8 December 2009, so the text stays through the form of 12 November 2009 '
+    'and the repeal is dated 8 December 2009.',
+    'Legea nr. 95/2006: the forms of 1 January 2008 to 26 November 2008 print, after arts. 257 and 258, a second copy '
+    'with the contribution rates that apply from a later day (the portal\'s note "Începând cu 1 iulie 2008, cotele '
+    '... vor fi următoarele"); the second copy is not the text in force and is left out.',
+    'Legea nr. 95/2006: the form of 13 October 2014 leaves out art. 11, with no note; the form of 4 November 2014 prints '
+    'it again with the same text, so the earlier text is carried through the form of 13 October 2014. From 4 November '
+    '2014 the portal prints, after art. 11, a note quoted from art. III of OUG nr. 93/2008; it is a note, not the '
+    'article\'s text, and is left out. Art. 819^16 (forms of 19 November 2012 to 27 December 2012, and 1 March 2013 to '
+    '23 May 2013) and art. 819^11 (8 June 2015) are left out and printed again unchanged, and are carried the same way.',
+    'Legea nr. 95/2006: many changes between forms carry no portal note and are kept as printed, credited to no act: '
+    'changes of diacritics or line breaks, and wording changes the notes of the forms do not attribute to a law '
+    '(for example the global replacement of "Ministerul Sănătății Publice" by "Ministerul Sănătății" printed in the form '
+    'of 5 January 2009).',
 ]

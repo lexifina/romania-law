@@ -1,8 +1,8 @@
 """OUG nr. 188/2022 pentru modificarea și completarea Legii nr. 207/2015 privind Codul de procedură fiscală (Lexifina,
 2026-11-02).
 
-Act page 263291, also its base text (DetaliiDocumentAfis/263291); one consolidated form, of 16 December 2023, held from
-Common Crawl (forms.d/oug-188-2022.json). Its art. III alin. (1) puts it in force on publication, save art. I pct. 43
+Act page 263291, also its base text (DetaliiDocumentAfis/263291); one consolidated form, of 16 December 2023
+(forms.d/oug-188-2022.json). Its art. III alin. (1) puts it in force on publication, save art. I pct. 43
 (10 days after publication) and pct. 4, 12, 13 (as to art. 118 alin. (2)), 14-17 and 32 (1 January 2026).
 """
 SLUG = 'oug-188-2022'

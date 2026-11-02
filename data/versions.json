@@ -8614,6 +8614,62 @@
    ]
   },
   {
+   "slug": "legea-115-1996",
+   "short": "Legea nr. 115/1996",
+   "title": "Legea nr. 115/1996 privind declararea și controlul averii demnitarilor, magistraților, funcționarilor publici și a unor persoane cu funcții de conducere",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/8602",
+   "versions": [
+    {
+     "from": "1996-10-28",
+     "units": 40,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/8602",
+     "sha256": "3d019dc2b442efad21f5907b2a05b1a0b3e6a638d48712221a7a311a7540e1ab"
+    },
+    {
+     "from": "2003-04-21",
+     "units": 39,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43962",
+     "sha256": "f784f243df9cbcca2013baaad76fba03cf68105ffcc3dd1b68983d091f10a6e3"
+    },
+    {
+     "from": "2004-04-27",
+     "units": 40,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53521",
+     "sha256": "4eea4c06d9d819ccff1dbc893fc4f870e50d1072e10f3d4d71edf572458723ae"
+    },
+    {
+     "from": "2007-05-28",
+     "units": 40,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/88424",
+     "sha256": "0623b272b8c0df9a53359cb7e4962daecd27ff478d6adbd2bf90c2524904a573"
+    },
+    {
+     "from": "2007-06-01",
+     "units": 40,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/88425",
+     "sha256": "d88325adc6d5d0e5fb6b427e00296dd0314dad7b64de9f11ebcbe3ba00c43ad1"
+    },
+    {
+     "from": "2007-11-25",
+     "units": 26,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/88426",
+     "sha256": "dfcab6d095ebbe3aee770d0735162aba81fc6eb52c94cc40a960b3ffb938f06f"
+    },
+    {
+     "from": "2008-04-21",
+     "units": 41,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/91680",
+     "sha256": "49c92b0dcfacd2664c64a47471c83d6bc0e220ed0e5bebd87f0e85c85d9344c2"
+    },
+    {
+     "from": "2010-09-05",
+     "units": 45,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/8602",
+     "sha256": "9a2a4a5662cb8cf771b6aabb21ca52420272679b2c904d55af607c368d31f89f"
+    }
+   ]
+  },
+  {
    "slug": "legea-122-2006",
    "short": "Legea nr. 122/2006",
    "title": "Legea nr. 122/2006 privind azilul în România",
@@ -8890,6 +8946,46 @@
    ]
   },
   {
+   "slug": "legea-138-2014",
+   "short": "Legea nr. 138/2014",
+   "title": "Legea nr. 138/2014 pentru modificarea și completarea Legii nr. 134/2010 privind Codul de procedură civilă, precum și pentru modificarea și completarea unor acte normative conexe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/162199",
+   "versions": [
+    {
+     "from": "2014-10-19",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/162199",
+     "sha256": "7fc62da74bb98f9ddc1ae597ec78f018e4d7cea5b00f395f64768aedd8d27132"
+    },
+    {
+     "from": "2016-02-04",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/183773",
+     "sha256": "8c4a308b1d705fc3849e26953c066cbad4b08bb1d885b45b696fe6cae8fd2c9f"
+    }
+   ]
+  },
+  {
+   "slug": "legea-140-2022",
+   "short": "Legea nr. 140/2022",
+   "title": "Legea nr. 140/2022 privind unele măsuri de ocrotire pentru persoanele cu dizabilități intelectuale și psihosociale și modificarea și completarea unor acte normative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/255575",
+   "versions": [
+    {
+     "from": "2022-05-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/255575",
+     "sha256": "e091a5bdc214fd0efa24437751019601967eb647f65920efccb583ca95ef473b"
+    },
+    {
+     "from": "2022-08-18",
+     "units": 29,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/255575",
+     "sha256": "e091a5bdc214fd0efa24437751019601967eb647f65920efccb583ca95ef473b"
+    }
+   ]
+  },
+  {
    "slug": "legea-143-2000",
    "short": "Legea nr. 143/2000",
    "title": "Legea nr. 143/2000 privind prevenirea și combaterea traficului și consumului ilicit de droguri",
@@ -8984,6 +9080,86 @@
      "units": 28,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/285027",
      "sha256": "d0bb8c94db3201478f25746495f8faccc49af54c06fe0915e24268aed099704c"
+    }
+   ]
+  },
+  {
+   "slug": "legea-144-2007",
+   "short": "Legea nr. 144/2007",
+   "title": "Legea nr. 144/2007 privind înființarea, organizarea și funcționarea Agenției Naționale de Integritate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/263394",
+   "versions": [
+    {
+     "from": "2007-05-28",
+     "units": 61,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/82317",
+     "sha256": "0954133ab737cb7064df2d8e95dd619ff8a78b7bb527a0ca2298d096be036b42"
+    },
+    {
+     "from": "2007-05-30",
+     "units": 61,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/82544",
+     "sha256": "ac1fb24505d9097728893270cb5c49db719d266647a9018801ecabe805c71ced"
+    },
+    {
+     "from": "2007-06-01",
+     "units": 62,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/82545",
+     "sha256": "f9b4a69b2d49bdeebe3a3e955dbe80f1123d2480d7b2f3ad0940fe0d824a661b"
+    },
+    {
+     "from": "2007-12-08",
+     "units": 62,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87679",
+     "sha256": "92a60334c7554e8671ca32fa9b83c53bbfc4afcd5307f719b55dcd57e3e8d242"
+    },
+    {
+     "from": "2008-04-21",
+     "units": 64,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/91679",
+     "sha256": "f6ecb90ba2572c5bc8694450a3e582af6b14db330927b07b2cc82e2bcc652002"
+    },
+    {
+     "from": "2009-08-03",
+     "units": 64,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/110133",
+     "sha256": "70177b709657363471394e189d25eaef32b90b079b3ce44340a95e91d2d60421"
+    },
+    {
+     "from": "2010-06-19",
+     "units": 58,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/122231",
+     "sha256": "5f561cbd1f0187eddd533e7aa13fd3790a6ecb0e4f4f3cc0693954d6eb2bc1ee"
+    },
+    {
+     "from": "2010-06-20",
+     "units": 58,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/122231",
+     "sha256": "5f561cbd1f0187eddd533e7aa13fd3790a6ecb0e4f4f3cc0693954d6eb2bc1ee"
+    },
+    {
+     "from": "2010-09-05",
+     "units": 35,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/122232",
+     "sha256": "93022f50ca2e5ba9192b23673d99025cb30b3cf18aa8f40d31c0f68b2b4f063a"
+    },
+    {
+     "from": "2013-02-04",
+     "units": 36,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/145205",
+     "sha256": "5121d2a3dd197ccb8e8384fb09c24ccc71d6cb1c45b5dbee651bdc0ac258c194"
+    },
+    {
+     "from": "2017-07-01",
+     "units": 36,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/190531",
+     "sha256": "fcea21affbb2ef68cb6f73ee46194cbf48b65152c632390e49697c9fbd833a94"
+    },
+    {
+     "from": "2023-01-06",
+     "units": 67,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/263394",
+     "sha256": "faecb8a2b6e871416166d332a0ded164bdb0047876bf4123168a9e701df53654"
     }
    ]
   },
@@ -9218,6 +9394,98 @@
      "units": 31,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/156290",
      "sha256": "a341aa298654969c3e66a3b42724138dfad4f4b7ce40461218ee376581c65674"
+    }
+   ]
+  },
+  {
+   "slug": "legea-176-2010",
+   "short": "Legea nr. 176/2010",
+   "title": "Legea nr. 176/2010 privind integritatea în exercitarea funcțiilor și demnităților publice, pentru modificarea și completarea Legii nr. 144/2007 privind înființarea, organizarea și funcționarea Agenției Naționale de Integritate, precum și pentru modificarea și completarea altor acte normative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/303284",
+   "versions": [
+    {
+     "from": "2010-09-05",
+     "units": 38,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/121924",
+     "sha256": "322d1a0541901e8256e07da54dfa83bd8632396092690f4be891bb054a9729d2"
+    },
+    {
+     "from": "2013-05-03",
+     "units": 38,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/147564",
+     "sha256": "5c36d0bc0a56e49a953b6e93519eb158b720f708b3fb94950a0a9f13057f2022"
+    },
+    {
+     "from": "2014-02-01",
+     "units": 38,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/147565",
+     "sha256": "a344e72f1bdc94eb3402b40c883d67b2c71d7adfeff3c8f453fe9a50b13a76a9"
+    },
+    {
+     "from": "2014-07-30",
+     "units": 38,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/160365",
+     "sha256": "2242983384ab5c0188841203fe88ea0248e6184694bd895113c286c27f292ac4"
+    },
+    {
+     "from": "2018-06-10",
+     "units": 39,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/201185",
+     "sha256": "3c0b8da1b63cd6e9f2a3fdc5ddd9a472a71e5f6dbd40519d4ee21f3de05dfb2c"
+    },
+    {
+     "from": "2019-03-24",
+     "units": 39,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/211546",
+     "sha256": "0f2a527ac37b4e0135a231d01dccc143795582691ebc2481ee012446ce4cd571"
+    },
+    {
+     "from": "2019-07-05",
+     "units": 39,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/215695",
+     "sha256": "b842dfab591c0c77eaad9e2a6c1cec0513ec13d3397d9862595293a5b2733d7a"
+    },
+    {
+     "from": "2020-07-09",
+     "units": 40,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/227245",
+     "sha256": "d3e33d0c08badd9d379bdef5ace350d2fa927ea39111343fab1585c4c1671b3f"
+    },
+    {
+     "from": "2021-12-15",
+     "units": 40,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/248216",
+     "sha256": "722c2f97c9cbe5a8cfaf884e4704d8ecbeefd5b14f7250dcb015b4c25e938e72"
+    },
+    {
+     "from": "2022-12-25",
+     "units": 40,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/262636",
+     "sha256": "4bd4ab2a33ee5cdef55f4bd608f5a0b058c81e5c4c2f6fc4b463f89dd24ff8df"
+    },
+    {
+     "from": "2022-12-28",
+     "units": 40,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/262743",
+     "sha256": "c40a7c2b6c3290af658ee0a1fa8d95b5b44071426b28e80db489e019e0cd0f01"
+    },
+    {
+     "from": "2023-12-22",
+     "units": 40,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/269573",
+     "sha256": "19516463d2c73589ae60e290927779c520c4dca0ffb692fbf3de2769385b3313"
+    },
+    {
+     "from": "2024-07-25",
+     "units": 40,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/285028",
+     "sha256": "018947b6de4dfe4a9003b54a547899ec231674b7f46be8ef57cc3ec69e4d88f9"
+    },
+    {
+     "from": "2025-11-22",
+     "units": 49,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/303284",
+     "sha256": "9922e351addf4fe5b57d1112d37e2bdebb57ebcb8ee2c5aa2204e5eb58688e17"
     }
    ]
   },
@@ -11162,6 +11430,20 @@
    ]
   },
   {
+   "slug": "legea-284-2020",
+   "short": "Legea nr. 284/2020",
+   "title": "Legea nr. 284/2020 pentru modificarea și completarea Legii nr. 135/2010 privind Codul de procedură penală",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/234457",
+   "versions": [
+    {
+     "from": "2020-12-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/234457",
+     "sha256": "e1e76ba0a57a31b071f65dab7fccc224cd82aaa4aa0225149fe05bc4a3db759c"
+    }
+   ]
+  },
+  {
    "slug": "legea-295-2004",
    "short": "Legea nr. 295/2004",
    "title": "Legea nr. 295/2004 privind regimul armelor și al munițiilor",
@@ -11298,6 +11580,26 @@
      "units": 141,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/303119",
      "sha256": "de51b19e058b25527dc79be64386e0fde9b6578594b400f9b0d224378459aae9"
+    }
+   ]
+  },
+  {
+   "slug": "legea-30-2019",
+   "short": "Legea nr. 30/2019",
+   "title": "Legea nr. 30/2019 pentru aprobarea Ordonanței de urgență a Guvernului nr. 25/2018 privind modificarea și completarea unor acte normative, precum și pentru aprobarea unor măsuri fiscal-bugetare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/210007",
+   "versions": [
+    {
+     "from": "2019-01-20",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/210007",
+     "sha256": "8896cfca87ae696d9bfadb526c2ea3cc8b43527839286fb6987e46440283f39a"
+    },
+    {
+     "from": "2019-04-01",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/210007",
+     "sha256": "8896cfca87ae696d9bfadb526c2ea3cc8b43527839286fb6987e46440283f39a"
     }
    ]
   },
@@ -11550,6 +11852,20 @@
      "units": 41,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/4066",
      "sha256": "7d064324a18c9d00a5605d20ba252b190436a312de3b3dcc6c87183ec10387a3"
+    }
+   ]
+  },
+  {
+   "slug": "legea-343-2006",
+   "short": "Legea nr. 343/2006",
+   "title": "Legea nr. 343/2006 pentru modificarea și completarea Legii nr. 571/2003 privind Codul fiscal",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73981",
+   "versions": [
+    {
+     "from": "2006-08-04",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20260302004114id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/73981",
+     "sha256": "842bc5f4798b83df8e9847c05f17bea3a8d31c5a186a69329a73a468d0efead8"
     }
    ]
   },
@@ -12012,6 +12328,26 @@
      "units": 34,
      "source_url": "https://web.archive.org/web/20250405195303id_/https://legislatie.just.ro/Public/DetaliiDocument/150851",
      "sha256": "a8182f8214a69f4c56c3e364ae8c98e8466861414d1ac37d918f5e3f69978f7c"
+    }
+   ]
+  },
+  {
+   "slug": "legea-441-2006",
+   "short": "Legea nr. 441/2006",
+   "title": "Legea nr. 441/2006 pentru modificarea și completarea Legii nr. 31/1990 privind societățile comerciale, republicată, și a Legii nr. 26/1990 privind registrul comerțului, republicată",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/77185",
+   "versions": [
+    {
+     "from": "2006-12-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/77185",
+     "sha256": "58b3b3ae9e51ab438c5a16c9790f41f1afb1f4ee32fb59d3acdfbc6fd280f227"
+    },
+    {
+     "from": "2007-01-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/77185",
+     "sha256": "58b3b3ae9e51ab438c5a16c9790f41f1afb1f4ee32fb59d3acdfbc6fd280f227"
     }
    ]
   },
@@ -13114,6 +13450,20 @@
    ]
   },
   {
+   "slug": "legea-75-2016",
+   "short": "Legea nr. 75/2016",
+   "title": "Legea nr. 75/2016 privind aprobarea Ordonanței de urgență a Guvernului nr. 82/2014 pentru modificarea și completarea Legii nr. 135/2010 privind Codul de procedură penală",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/178058",
+   "versions": [
+    {
+     "from": "2016-05-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/178058",
+     "sha256": "048ba60cfd6df2da53b07b4408e738af7ecd86d3d81f752e1354f646fcfb8419"
+    }
+   ]
+  },
+  {
    "slug": "legea-76-2012",
    "short": "Legea nr. 76/2012",
    "title": "Legea nr. 76/2012 pentru punerea în aplicare a Legii nr. 134/2010 privind Codul de procedură civilă",
@@ -13926,6 +14276,26 @@
    ]
   },
   {
+   "slug": "oug-1-2016",
+   "short": "OUG nr. 1/2016",
+   "title": "Ordonanța de urgență a Guvernului nr. 1/2016 pentru modificarea Legii nr. 134/2010 privind Codul de procedură civilă, precum și a unor acte normative conexe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/175561",
+   "versions": [
+    {
+     "from": "2016-02-04",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/175561",
+     "sha256": "c135bce37f16e8db1423759579f225ffacd5f84bfd8004b10a75e81ddf7948f4"
+    },
+    {
+     "from": "2017-03-24",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/187258",
+     "sha256": "50777b2b767b77640428810701333afd447f0cc2f0a836a42b8fc239755632b0"
+    }
+   ]
+  },
+  {
    "slug": "oug-109-2011",
    "short": "OUG nr. 109/2011",
    "title": "Ordonanța de urgență a Guvernului nr. 109/2011 privind guvernanța corporativă a întreprinderilor publice",
@@ -14176,6 +14546,58 @@
    ]
   },
   {
+   "slug": "oug-188-2022",
+   "short": "OUG nr. 188/2022",
+   "title": "Ordonanța de urgență a Guvernului nr. 188/2022 pentru modificarea și completarea Legii nr. 207/2015 privind Codul de procedură fiscală și pentru modificarea Ordonanței de urgență a Guvernului nr. 74/2013 privind unele măsuri pentru îmbunătățirea și reorganizarea activității Agenției Naționale de Administrare Fiscală, precum și pentru modificarea și completarea unor acte normative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/263291",
+   "versions": [
+    {
+     "from": "2022-12-29",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/263291",
+     "sha256": "86ae4f2d48dca69ac5ca8d6d14cdadffa82e6e9cf53735cb271621d42a496285"
+    },
+    {
+     "from": "2023-01-08",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/263291",
+     "sha256": "86ae4f2d48dca69ac5ca8d6d14cdadffa82e6e9cf53735cb271621d42a496285"
+    },
+    {
+     "from": "2023-12-16",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/263291",
+     "sha256": "d6267563ea776aed108bd501e049691ab23e11004232613f2b8b7524f7a3d472"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/263291",
+     "sha256": "d6267563ea776aed108bd501e049691ab23e11004232613f2b8b7524f7a3d472"
+    }
+   ]
+  },
+  {
+   "slug": "oug-3-2014",
+   "short": "OUG nr. 3/2014",
+   "title": "Ordonanța de urgență a Guvernului nr. 3/2014 pentru luarea unor măsuri de implementare necesare aplicării Legii nr. 135/2010 privind Codul de procedură penală și pentru implementarea altor acte normative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/155316",
+   "versions": [
+    {
+     "from": "2014-02-07",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/155316",
+     "sha256": "7673ae2d00941b9584a448eb3d78deead9d6079d78fd6d7698feb83762d0894d"
+    },
+    {
+     "from": "2016-04-17",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/178364",
+     "sha256": "b87e9a6d37c0d959e312288169699149aea2a860f5f8164eda2e4bdba355c536"
+    }
+   ]
+  },
+  {
    "slug": "oug-44-2008",
    "short": "OUG nr. 44/2008",
    "title": "Ordonanța de urgență a Guvernului nr. 44/2008 privind desfășurarea activităților economice de către persoanele fizice autorizate, întreprinderile individuale și întreprinderile familiale",
@@ -14282,6 +14704,26 @@
    ]
   },
   {
+   "slug": "oug-70-2016",
+   "short": "OUG nr. 70/2016",
+   "title": "Ordonanța de urgență a Guvernului nr. 70/2016 pentru modificarea și completarea Codului de procedură penală și a Legii nr. 304/2004 privind organizarea judiciară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/183142",
+   "versions": [
+    {
+     "from": "2016-10-31",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/183142",
+     "sha256": "9abaa97cea2077d79b3c02e03ef55a3716af12d30352fc3a9b55654b3354d06e"
+    },
+    {
+     "from": "2019-05-29",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/214247",
+     "sha256": "3d7dac1c331077bc30ef4642ac78703d4edffb0d1cdcf281a0870b6b1299ee97"
+    }
+   ]
+  },
+  {
    "slug": "oug-77-2014",
    "short": "OUG nr. 77/2014",
    "title": "Ordonanța de urgență a Guvernului nr. 77/2014 privind procedurile naționale în domeniul ajutorului de stat, precum și pentru modificarea și completarea Legii concurenței nr. 21/1996",
@@ -14334,6 +14776,26 @@
      "units": 65,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/285999",
      "sha256": "5986a794c51466596a91b2db90f0c65c6480d610d6697cea2d5393a9374d9000"
+    }
+   ]
+  },
+  {
+   "slug": "oug-84-2016",
+   "short": "OUG nr. 84/2016",
+   "title": "Ordonanța de urgență a Guvernului nr. 84/2016 pentru modificarea și completarea unor acte normative din domeniul financiar-fiscal",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/184310",
+   "versions": [
+    {
+     "from": "2016-12-06",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/184310",
+     "sha256": "9848c1be7170ff3cbb20967df6ecb0d88ac5735b71629ed9cf24fce79ad964f1"
+    },
+    {
+     "from": "2017-05-05",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/188272",
+     "sha256": "d1d43678d8db6d6c3913c436ae1261ca73b90afe30dd8a008450d932d0b44621"
     }
    ]
   },
