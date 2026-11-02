@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2025-10-18: sent for promulgation
 - 2026-02-11: published in the Monitorul Oficial
 - 2026-07-02: returned for re-examination
+- 2026-11-02: adopted by the Senate; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -34,3 +35,8 @@ Initiator: Guvernul României.
 - 2024-09-24: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L471AM.PDF
 - 2025-10-13: Adresă privind sesizarea CCR (AXS): [axs-cf409549.md](axs-cf409549.md); official file https://www.senat.ro/legis/PDF/2024/24L471AXS.PDF
 - 2025-10-13: Forma trimisă la promulgare (LP): [lp-4fadb4b4.md](lp-4fadb4b4.md); official file https://www.senat.ro/legis/PDF/2024/24L471LP.PDF
+- 2026-11-02: Document (SC1): [sc1-d4177e63.md](sc1-d4177e63.md); official file https://www.senat.ro/legis/PDF/2024/24L471SC1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-11-02: Document (DC1): [dc1-c7a8c2b5.md](dc1-c7a8c2b5.md); official file https://www.senat.ro/legis/PDF/2024/24L471DC1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-11-02: Document (RC): [rc-fd288e79.md](rc-fd288e79.md); official file https://www.senat.ro/legis/PDF/2024/24L471RC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-11-02: Document (XD1): [xd1-c4851206.md](xd1-c4851206.md); official file https://www.senat.ro/legis/PDF/2024/24L471XD1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-11-02: Document (SX1): [sx1-a33789bf.md](sx1-a33789bf.md); official file https://www.senat.ro/legis/PDF/2024/24L471SX1.PDF (its day is not given by the bill file: shown from the last stage held)
