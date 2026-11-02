@@ -1,6 +1,6 @@
 # Every act in this repository
 
-771 acts, 3,127 versions. Generated on every publish from the corpus; each folder's README.md lists its articles. Dates are in-force days.
+776 acts, 3,133 versions. Generated on every publish from the corpus; each folder's README.md lists its articles. Dates are in-force days.
 
 ## Codes and the Constitution (9)
 
@@ -16,7 +16,7 @@
 | [`codul-procedura-penala/`](codul-procedura-penala/) | Codul de procedură penală (Legea nr. 135/2010) | 61 | 2014-02-01 | 2026-06-13 |
 | [`constitutia/`](constitutia/) | Constituția României | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (428)
+## Laws (legi) (430)
 
 | Folder | Act | Versions | From | Latest |
 | --- | --- | ---: | --- | --- |
@@ -163,6 +163,7 @@
 | [`legea-214-2023/`](legea-214-2023/) | Legea nr. 214/2023 pentru modificarea și completarea Legii nr. 286/2009 privind Codul penal , a Legii nr. 135/2010 privind Codul de procedură penală , precum și pentru modificarea Legii nr. 318/2015 pentru înființarea, organizarea și funcționarea Agenției Naționale de Administrare a Bunurilor Indisponibilizate și pentru modificarea și completarea unor acte normative | 1 | 2023-07-14 | 2023-07-14 |
 | [`legea-214-2024/`](legea-214-2024/) | Legea nr. 214/2024 privind utilizarea semnăturii electronice, a mărcii temporale și prestarea serviciilor de încredere bazate pe acestea | 1 | 2024-10-08 | 2024-10-08 |
 | [`legea-215-2001/`](legea-215-2001/) | Legea administrației publice locale nr. 215/2001 | 40 | 2001-05-23 | 2019-07-20 |
+| [`legea-216-2022/`](legea-216-2022/) | Legea nr. 216/2022 pentru modificarea și completarea Legii nr. 85/2014 privind procedurile de prevenire a insolvenței și de insolvență și a altor acte normative | 1 | 2022-07-17 | 2022-07-17 |
 | [`legea-217-2020/`](legea-217-2020/) | Legea nr. 217/2020 pentru modificarea și completarea Legii nr. 286/2009 privind Codul penal , precum și pentru modificarea art. 223 alin. (2) din Legea nr. 135/2010 privind Codul de procedură penală | 1 | 2020-11-02 | 2020-11-02 |
 | [`legea-217-2023/`](legea-217-2023/) | Legea nr. 217/2023 pentru modificarea și completarea Legii nr. 286/2009 privind Codul penal , a Legii nr. 135/2010 privind Codul de procedură penală , precum și a Legii audiovizualului nr. 504/2002 | 2 | 2023-07-14 | 2024-01-01 |
 | [`legea-218-2002/`](legea-218-2002/) | Legea nr. 218/2002 privind organizarea și funcționarea Poliției Române | 15 | 2002-05-09 | 2022-08-25 |
@@ -242,6 +243,7 @@
 | [`legea-281-2022/`](legea-281-2022/) | Legea nr. 281/2022 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 18/2009 privind creșterea performanței energetice a blocurilor de locuințe | 1 | 2022-10-08 | 2022-10-08 |
 | [`legea-282-2022/`](legea-282-2022/) | Legea nr. 282/2022 pentru modificarea art. 75 din Legea nr. 95/2006 privind reforma în domeniul sănătății | 1 | 2022-10-13 | 2022-10-13 |
 | [`legea-283-2021/`](legea-283-2021/) | Legea nr. 283/2021 pentru modificarea și completarea Legii nr. 122/2011 privind regimul armelor, dispozitivelor militare și munițiilor deținute de Ministerul Apărării Naționale și de forțele armate străine pe teritoriul României | 1 | 2021-12-10 | 2021-12-10 |
+| [`legea-283-2022/`](legea-283-2022/) | Legea nr. 283/2022 pentru modificarea și completarea Legii nr. 53/2003 - Codul muncii , precum și a Ordonanței de urgență a Guvernului nr. 57/2019 privind Codul administrativ | 1 | 2022-10-22 | 2022-10-22 |
 | [`legea-283-2024/`](legea-283-2024/) | Legea nr. 283/2024 privind modificarea și completarea unor acte normative, pentru stabilirea salariilor minime adecvate | 1 | 2024-11-17 | 2024-11-17 |
 | [`legea-284-2020/`](legea-284-2020/) | Legea nr. 284/2020 pentru modificarea și completarea Legii nr. 135/2010 privind Codul de procedură penală | 1 | 2020-12-12 | 2020-12-12 |
 | [`legea-286-2022/`](legea-286-2022/) | Legea nr. 286/2022 privind aprobarea Ordonanței de urgență a Guvernului nr. 83/2022 pentru modificarea și completarea Ordonanței Guvernului nr. 51/1998 privind îmbunătățirea sistemului de finanțare a programelor, proiectelor și acțiunilor culturale, precum și pentru modificarea Ordonanței de urgență a Guvernului nr. 42/2019 privind stabilirea unor măsuri financiare pentru susținerea desfășurării Programului cultural național "Timișoara - Capitală Europeană a Culturii în anul 2023" | 1 | 2022-11-03 | 2022-11-03 |
@@ -449,7 +451,7 @@
 | [`legea-99-2014/`](legea-99-2014/) | Legea nr. 99/2014 pentru modificarea și completarea Legii serviciului de salubrizare a localităților nr. 101/2006 | 2 | 2014-07-11 | 2022-04-07 |
 | [`legea-99-2016/`](legea-99-2016/) | Legea nr. 99/2016 privind achizițiile sectoriale | 22 | 2016-05-26 | 2024-05-24 |
 
-## Emergency ordinances (OUG) (236)
+## Emergency ordinances (OUG) (239)
 
 | Folder | Act | Versions | From | Latest |
 | --- | --- | ---: | --- | --- |
@@ -495,6 +497,7 @@
 | [`oug-12-2023/`](oug-12-2023/) | Ordonanța de urgență a Guvernului nr. 12/2023 pentru stabilirea unor măsuri de protecție socială și modificarea unor acte normative în domeniul asistenței sociale | 1 | 2023-03-16 | 2023-03-16 |
 | [`oug-12-2025/`](oug-12-2025/) | Ordonanța de urgență a Guvernului nr. 12/2025 privind acordarea unui sprijin financiar pentru unele categorii de pensionari în anul 2025, precum și pentru completarea unor acte normative | 1 | 2025-03-13 | 2025-03-13 |
 | [`oug-120-2024/`](oug-120-2024/) | Ordonanța de urgență a Guvernului nr. 120/2024 privind instituirea unei scheme de ajutor de stat sub formă de grant acordat producătorilor agricoli pentru culturi agricole afectate de seceta pedologică din perioada septembrie 2023-august 2024 | 1 | 2024-10-15 | 2024-10-15 |
+| [`oug-121-2023/`](oug-121-2023/) | Ordonanța de urgență a Guvernului nr. 121/2023 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 57/2019 privind Codul administrativ, precum și pentru modificarea art. III din Ordonanța de urgență a Guvernului nr. 191/2022 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 57/2019 privind Codul administrativ | 1 | 2023-12-28 | 2023-12-28 |
 | [`oug-123-2022/`](oug-123-2022/) | Ordonanța de urgență a Guvernului nr. 123/2022 privind modificarea Legii nr. 129/2019 pentru prevenirea și combaterea spălării banilor și finanțării terorismului, precum și pentru modificarea și completarea unor acte normative | 2 | 2022-09-14 | 2025-10-26 |
 | [`oug-124-2022/`](oug-124-2022/) | Ordonanța de urgență a Guvernului nr. 124/2022 pentru modificarea Ordonanței de urgență a Guvernului nr. 105/2022 privind aprobarea continuării Programului-pilot de acordare a unui suport alimentar pentru preșcolarii și elevii din 300 de unități de învățământ preuniversitar de stat, precum și pentru modificarea art. 97 din Legea nr. 196/2016 privind venitul minim de incluziune | 1 | 2022-09-15 | 2022-09-15 |
 | [`oug-124-2023/`](oug-124-2023/) | Ordonanța de urgență a Guvernului nr. 124/2023 privind derularea operațiunilor de cooperare tehnologică și industrială în domeniile apărării și securității, înființarea, organizarea și funcționarea Agenției Române de Cooperare Tehnologică și Industrială pentru Securitate și Apărare și pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 57/2015 privind salarizarea personalului plătit din fonduri publice în anul 2016, prorogarea unor termene, precum și unele măsuri fiscal-bugetare | 1 | 2023-12-29 | 2023-12-29 |
@@ -552,6 +555,7 @@
 | [`oug-195-2002/`](oug-195-2002/) | Ordonanța de urgență a Guvernului nr. 195/2002 privind circulația pe drumurile publice | 81 | 2004-07-12 | 2026-03-27 |
 | [`oug-2-2022/`](oug-2-2022/) | Ordonanța de urgență a Guvernului nr. 2/2022 privind stabilirea unor măsuri de protecție socială a angajaților și a altor categorii profesionale în contextul interzicerii, suspendării ori limitării activităților economice, determinate de situația epidemiologică generată de răspândirea coronavirusului SARS-CoV-2, precum și pentru modificarea și completarea unor acte normative | 2 | 2022-01-20 | 2022-02-01 |
 | [`oug-2-2025/`](oug-2-2025/) | Ordonanța de urgență a Guvernului nr. 2/2025 pentru modificarea Ordonanței de urgență a Guvernului nr. 52/2016 privind contractele de credit oferite consumatorilor pentru bunuri imobile, precum și pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 50/2010 privind contractele de credit pentru consumatori | 2 | 2025-02-17 | 2025-03-13 |
+| [`oug-20-2023/`](oug-20-2023/) | Ordonanța de urgență a Guvernului nr. 20/2023 pentru modificarea și completarea Legii nr. 207/2015 privind Codul de procedură fiscală , precum și pentru modificarea Ordonanței Guvernului nr. 6/2019 privind instituirea unor facilități fiscale | 1 | 2023-04-06 | 2023-04-06 |
 | [`oug-210-2020/`](oug-210-2020/) | Ordonanța de urgență a Guvernului nr. 210/2020 pentru modificarea Ordonanței Guvernului nr. 99/2000 privind comercializarea produselor și serviciilor de piață | 2 | 2020-12-08 | 2022-12-08 |
 | [`oug-22-2022/`](oug-22-2022/) | Ordonanța de urgență a Guvernului nr. 22/2022 pentru abrogarea Ordonanței de urgență a Guvernului nr. 129/2021 privind implementarea formularului digital de intrare în România | 1 | 2022-03-11 | 2022-03-11 |
 | [`oug-22-2023/`](oug-22-2023/) | Ordonanța de urgență a Guvernului nr. 22/2023 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 15/2022 privind acordarea de sprijin și asistență umanitară de către statul român cetățenilor străini sau apatrizilor aflați în situații deosebite, proveniți din zona conflictului armat din Ucraina | 1 | 2023-04-13 | 2023-04-13 |
@@ -628,6 +632,7 @@
 | [`oug-63-2023/`](oug-63-2023/) | Ordonanța de urgență a Guvernului nr. 63/2023 pentru stabilirea unor măsuri la nivelul structurii organizatorice aferente unităților sanitare, precum și stabilirea unor măsuri privind salarizarea personalului din sistemul sanitar public și pentru completarea unor acte normative în domeniul sănătății și în domeniul fiscal | 1 | 2023-06-30 | 2023-06-30 |
 | [`oug-64-2023/`](oug-64-2023/) | Ordonanța de urgență a Guvernului nr. 64/2023 pentru stabilirea unor măsuri în vederea realizării rețelei transeuropene de transport (TEN-T), precum și pentru prorogarea unui termen | 2 | 2023-06-30 | 2025-04-10 |
 | [`oug-64-2024/`](oug-64-2024/) | Ordonanța de urgență a Guvernului nr. 64/2024 pentru modificarea și completarea Ordonanței Guvernului nr. 19/2002 privind unele măsuri pentru constituirea și utilizarea fondului locativ de protocol și bunuri mobile din domeniul public al statului, aflate în administrarea Regiei Autonome :Administrația Patrimoniului Protocolului de Stat", precum și pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 173/2020 privind reglementarea condițiilor pentru atribuirea și închirierea unor imobile, proprietate publică și privată a statului, aflate în administrarea Regiei Autonome "Administrația Patrimoniului Protocolului de Stat" și a altor măsuri economico-financiare | 1 | 2024-06-14 | 2024-06-14 |
+| [`oug-65-2005/`](oug-65-2005/) | Ordonanța de urgență a Guvernului nr. 65/2005 | 2 | 2005-07-05 | 2005-12-22 |
 | [`oug-66-2022/`](oug-66-2022/) | Ordonanța de urgență a Guvernului nr. 66/2022 pentru completarea Legii nr. 16/2017 privind detașarea salariaților în cadrul prestării de servicii transnaționale | 1 | 2022-05-12 | 2022-05-12 |
 | [`oug-66-2024/`](oug-66-2024/) | Ordonanța de urgență a Guvernului nr. 66/2024 pentru modificarea și completarea Legii nr. 95/2006 privind reforma în domeniul sănătății și pentru modificarea și completarea unor acte normative în domeniul sănătății | 2 | 2024-06-17 | 2025-04-18 |
 | [`oug-67-2022/`](oug-67-2022/) | Ordonanța de urgență a Guvernului nr. 67/2022 privind unele măsuri fiscale, precum și pentru modificarea și completarea art. 59 din Legea nr. 207/2015 privind Codul de procedură fiscală | 1 | 2022-05-18 | 2022-05-18 |

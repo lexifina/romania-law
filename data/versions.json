@@ -10476,6 +10476,20 @@
    ]
   },
   {
+   "slug": "legea-216-2022",
+   "short": "Legea nr. 216/2022",
+   "title": "Legea nr. 216/2022 pentru modificarea și completarea Legii nr. 85/2014 privind procedurile de prevenire a insolvenței și de insolvență și a altor acte normative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/257536",
+   "versions": [
+    {
+     "from": "2022-07-17",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/257536",
+     "sha256": "c08d5afa6f7c5aa336ae5ac4c6882172f405ae02bf20839799897320e2f42d13"
+    }
+   ]
+  },
+  {
    "slug": "legea-218-2002",
    "short": "Legea nr. 218/2002",
    "title": "Legea nr. 218/2002 privind organizarea și funcționarea Poliției Române",
@@ -11536,6 +11550,20 @@
      "units": 143,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/268266",
      "sha256": "baee163dac79453a39dccf040c0584b487c51daab88723a6f0db9be394c55f66"
+    }
+   ]
+  },
+  {
+   "slug": "legea-283-2022",
+   "short": "Legea nr. 283/2022",
+   "title": "Legea nr. 283/2022 pentru modificarea și completarea Legii nr. 53/2003 - Codul muncii , precum și a Ordonanței de urgență a Guvernului nr. 57/2019 privind Codul administrativ",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/260561",
+   "versions": [
+    {
+     "from": "2022-10-22",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/260561",
+     "sha256": "bc0cf5759f6050d3b6f69006161fcd86d9f35e11ae2b0fe516476abcd5d0e249"
     }
    ]
   },
@@ -14656,6 +14684,20 @@
    ]
   },
   {
+   "slug": "oug-121-2023",
+   "short": "OUG nr. 121/2023",
+   "title": "Ordonanța de urgență a Guvernului nr. 121/2023 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 57/2019 privind Codul administrativ, precum și pentru modificarea art. III din Ordonanța de urgență a Guvernului nr. 191/2022 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 57/2019 privind Codul administrativ",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/277767",
+   "versions": [
+    {
+     "from": "2023-12-28",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/277767",
+     "sha256": "8efc4e9672a0f758dd405bf29cc929d94537a87b19cbf01d5b759699069269a4"
+    }
+   ]
+  },
+  {
    "slug": "oug-188-2022",
    "short": "OUG nr. 188/2022",
    "title": "Ordonanța de urgență a Guvernului nr. 188/2022 pentru modificarea și completarea Legii nr. 207/2015 privind Codul de procedură fiscală și pentru modificarea Ordonanței de urgență a Guvernului nr. 74/2013 privind unele măsuri pentru îmbunătățirea și reorganizarea activității Agenției Naționale de Administrare Fiscală, precum și pentru modificarea și completarea unor acte normative",
@@ -14684,6 +14726,20 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/263291",
      "sha256": "d6267563ea776aed108bd501e049691ab23e11004232613f2b8b7524f7a3d472"
+    }
+   ]
+  },
+  {
+   "slug": "oug-20-2023",
+   "short": "OUG nr. 20/2023",
+   "title": "Ordonanța de urgență a Guvernului nr. 20/2023 pentru modificarea și completarea Legii nr. 207/2015 privind Codul de procedură fiscală , precum și pentru modificarea Ordonanței Guvernului nr. 6/2019 privind instituirea unor facilități fiscale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/266651",
+   "versions": [
+    {
+     "from": "2023-04-06",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/266651",
+     "sha256": "1b30f791081f6e2a465c2d63dc4e37483cd31d8ca723ab27edc9aee4259860ac"
     }
    ]
   },
@@ -14810,6 +14866,26 @@
      "units": 103,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119472",
      "sha256": "144510f20492a1bbbbbb0b9f09a930c4ccc878d9e1d04661040a4e0a7b1ff09d"
+    }
+   ]
+  },
+  {
+   "slug": "oug-65-2005",
+   "short": "OUG nr. 65/2005",
+   "title": "Ordonanța de urgență a Guvernului nr. 65/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/62888",
+   "versions": [
+    {
+     "from": "2005-07-05",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/62888",
+     "sha256": "1493b92ba3b02886f96d1d84a73841a78c7df283a7fd7869c18d7143afbd0f6b"
+    },
+    {
+     "from": "2005-12-22",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/204933",
+     "sha256": "aafe6a132c8c8db77cda417c8e0f8434afa6b0d159a67d6070c3778924768a77"
     }
    ]
   },
