@@ -74,6 +74,7 @@ This file is written by the build on 2026-11-02, the day the source data was ret
 | Internet Archive, Wayback Machine | <https://web.archive.org/> | 2026-11-02 | Internet Archive terms of use; the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
 | captures of legislatie.just.ro for the Legea nr. 199/2023 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
 | Internet Archive, Wayback Machine | <https://web.archive.org/> | 2026-11-02 | Internet Archive terms of use; the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
+| captures of legislatie.just.ro for the Legea nr. 21/1991 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
 | captures of legislatie.just.ro for the Legea nr. 21/1996 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
 | captures of legislatie.just.ro for the Legea nr. 218/2002 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
 | Internet Archive, Wayback Machine | <https://web.archive.org/> | 2026-11-02 | Internet Archive terms of use; the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
@@ -844,6 +845,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `legea-196-2018` | Legea nr. 196/2018 privind înființarea, organizarea și funcționarea asociațiilor de proprietari și administrarea condominiilor | 2 | 2018-09-28 to 2025-12-19 |
 | `legea-198-2023` | Legea nr. 198/2023 a învățământului preuniversitar | 15 | 2023-09-03 to 2026-04-20 |
 | `legea-199-2023` | Legea nr. 199/2023 a învățământului superior | 14 | 2023-09-03 to 2026-01-30 |
+| `legea-21-1991` | Legea cetățeniei române nr. 21/1991 | 24 | 1991-04-05 to 2025-03-15 |
 | `legea-21-1996` | Legea concurenței nr. 21/1996 | 42 | 1997-01-30 to 2025-06-26 |
 | `legea-218-2002` | Legea nr. 218/2002 privind organizarea și funcționarea Poliției Române | 15 | 2002-05-09 to 2022-08-25 |
 | `legea-237-2015` | Legea nr. 237/2015 privind autorizarea și supravegherea activității de asigurare și reasigurare | 11 | 2016-01-01 to 2025-12-19 |
@@ -1545,19 +1547,19 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `oug-99-2021` | Ordonanța de urgență a Guvernului nr. 99/2021 privind modificarea unor acte normative din domeniul învățământului, precum și pentru modificarea și completarea Legii nr. 55/2020 privind unele măsuri pentru prevenirea și combaterea efectelor pandemiei de COVID-19 | 1 | 2021-09-13 to 2021-09-13 |
 | `oug-99-2023` | Ordonanța de urgență a Guvernului nr. 99/2023 privind unele măsuri pentru raportarea arieratelor de către instituțiile publice | 2 | 2023-11-16 to 2024-05-24 |
 
-The build made 3724 commits:
+The build made 3759 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 754 | first version of an act |
-| 2300 | one law on its in-force day |
-| 670 | changes no amendment note explains, credited to the publisher |
+| 755 | first version of an act |
+| 2325 | one law on its in-force day |
+| 679 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `viitor`: laws not yet in force on 2026-11-02.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 2116 laws in the record.
-- 5009 tags.
+- 2136 laws in the record.
+- 5053 tags.
 
 ## Dates
 
@@ -1569,7 +1571,7 @@ When a law gives no date of its own, the default rule applies: Constituția Rom�
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `ac7bb6fa716df793e785797a402fa4bf3b8a6a9202ce25ef95f4e1a5b27101a6` (108558330 bytes).
+- Corpus: sha256 `27a9549ece1e810f12508748009651de779fecb381955bfad1010ad6a3a333fc` (108948728 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `c833c9cd52cb073d1e5a70252aaaa1bcc04f9d5f`, `check.py` `3d00541d258745461ab52b1b0cb4e1716a27a95d`, `on.py` `644a6c0857fbcc72562032b58d57aa113fee0641`.
 - Python 3.14.0; git version 2.52.0.windows.1.
 
@@ -2128,6 +2130,18 @@ No second build of this corpus has been compared yet.
 - Legea nr. 199/2023: the first version is the law as published in Monitorul Oficial nr. 614 of 5 July 2023 (DetaliiDocumentAfis/271898), in force 60 days after publication (its art. 260 alin. (1)): 3 September 2023.
 - Legea nr. 199/2023: the form the portal lists under 4 September 2023 (274194) is read at 3 September 2023, the day the law took effect: its only new notes date the changes made by OUG nr. 72/2023 (arts. 57, 98 and 128) "la 03-09-2023". It is a version of its own on that day, after the law as published.
 - Legea nr. 199/2023: art. 260 puts off the application of some provisions to later academic years (for example short-cycle studies and dual higher education from 2024-2025); the text of every article is shown from its form's date as the portal prints it, and no article is given a later day.
+- Legea nr. 21/1991: added 2026-11-02, one of the Portalul legislativ's consolidated forms per version, as for the other acts. A capture was used only if it was complete and the page showed the form its document id stands for. The forms are those listed by DetaliiDocument/288590 as captured on 2026-07-11, the newest capture of any of the act's pages: 22 forms, 22 held.
+- Legea nr. 21/1991: the newest form held is that of 15.03.2025; amendments in force after it may be missing.
+- Legea nr. 21/1991: the first version is the law as published in Monitorul Oficial nr. 44 of 6 March 1991 (DetaliiDocumentAfis/1464), in force 30 days after publication (its art. 42): 5 April 1991. The portal's first form is the republication of 6 March 2000, so the changes made up to then arrive together that day.
+- Legea nr. 21/1991: the texts republished in Monitorul Oficial nr. 98 of 6 March 2000 (under art. III of Legea nr. 192/1999) and nr. 576 of 13 August 2010 (under art. 21 of OUG nr. 5/2010) renumber the articles; each is read from its own DetaliiDocumentAfis page (21269, 121439), changes on those days that no note explains are credited to the republishing act, as each republication note says, and files follow each text's own numbering.
+- Legea nr. 21/1991: the portal's form of 29 July 2024 (286000) prints art. 34^2, inserted by OUG nr. 100/2024 art. I pct. 11, as an article. OUG nr. 100/2024 as published (Monitorul Oficial nr. 740 of 29 July 2024, DetaliiDocumentAfis/286306), art. XVI alin. (1), puts pct. 11 in force, as to art. 34^2, on 30 June 2026; the forms of 8 October 2024 and 15 March 2025 print art. 34^2 only inside notes saying so (the latter after Legea nr. 14/2025, whose art. XIX gives the same day for its art. I pct. 38, DetaliiDocumentAfis/295342). Under the rule for text printed before its law, art. 34^2 is left out of the form of 29 July 2024. Its day comes after the newest form held (15 March 2025), so the record does not show it; no text is taken from the notes.
+- Legea nr. 21/1991: the form of 29 July 2024 dates the notes on arts. 34^3 and 36^1 (OUG nr. 100/2024 art. I pct. 11 and 12) "la 30-06-2026". Art. XVI alin. (1) of the OUG as published defers only art. 34^2, so both articles took effect on publication, 29 July 2024, the day the portal's next form gives their notes; the two notes are read at that day.
+- Legea nr. 21/1991: changes a form prints before the in-force day its own notes give are dated by the notes (the earlier text stands until then): 2024-09-01 (art-013-2; printed in the form of 29.07.2024).
+- Legea nr. 21/1991: the portal editorial notes printed as paragraphs of an article (on a Constitutional Court ruling, a rectification, a provision put back in force) are not text: 8 such paragraphs across all forms, for example «Art. II din ORDONANȚA DE URGENȚĂ nr. 87 din 5 septembrie 200», «Art. II^1 din ORDONANȚA DE URGENȚĂ nr. 87 din 5 septembrie 2», «Articolul unic din ORDONANȚA DE URGENTA nr. 160 din 20 noiem».
+- Legea nr. 21/1991: articles a form leaves out are shown repealed on the day the repealing act took effect (on publication for an emergency ordinance, 3 days after for a law, unless the act sets its own day), credited to that act as its repeal note names it: art. 35, left out from the form of 04.10.2002: repealed by OUG nr. 68/2002, in force 18.06.2002 (an emergency ordinance with no day of its own, in force on publication in Monitorul Oficial nr. 424 of 18 June 2002); art. 15, left out from the form of 14.09.2007: repealed by OUG nr. 87/2007, in force 14.09.2007 (an emergency ordinance with no day of its own, in force on publication in Monitorul Oficial nr. 634 of 14 September 2007); art. 32, left out from the form of 14.09.2007: repealed by OUG nr. 87/2007, in force 14.09.2007 (an emergency ordinance with no day of its own, in force on publication in Monitorul Oficial nr. 634 of 14 September 2007); art. 33, left out from the form of 14.09.2007: repealed by OUG nr. 87/2007, in force 14.09.2007 (an emergency ordinance with no day of its own, in force on publication in Monitorul Oficial nr. 634 of 14 September 2007); art. 37^1, left out from the form of 14.09.2007: repealed by OUG nr. 87/2007, in force 14.09.2007 (an emergency ordinance with no day of its own, in force on publication in Monitorul Oficial nr. 634 of 14 September 2007); art. 10^2, left out from the form of 10.02.2010: repealed by OUG nr. 5/2010, in force 10.02.2010 (an emergency ordinance with no day of its own, in force on publication in Monitorul Oficial nr. 93 of 10 February 2010).
+- Legea nr. 21/1991: repeals dated before the form that first leaves the article out: 2002-06-18 (art-035; form 04.10.2002).
+- Legea nr. 21/1991: 28 changed article(s) with no note naming a law, committed as the publisher's: 2002-10-04 art-001, 2002-10-04 art-014, 2002-10-04 art-015, 2002-10-04 art-017, 2002-10-04 art-021, 2002-10-04 art-030, 2007-09-14 art-036, 2007-09-14 art-041, 2008-04-14 art-036, 2008-04-14 art-041, 2008-11-13 art-036, 2008-11-13 art-041, 2009-04-21 art-036, 2009-04-21 art-041, 2013-03-23 art-005, 2013-03-23 art-006, 2013-03-23 art-008, 2013-03-23 art-025, 2013-03-23 art-027, 2013-03-23 art-029, 2015-09-15 art-005, 2015-09-15 art-006, 2015-09-15 art-008, 2015-09-15 art-034, 2017-02-01 art-005, 2017-02-01 art-006, 2017-02-01 art-008, 2017-09-25 art-008.
+- Legea nr. 21/1991: forms with no change after normalisation, so no version: 2024-10-08 (288590).
 - Legea nr. 21/1996: added 2026-11-02, one of the Portalul legislativ's consolidated forms per version, as for the other acts. A capture was used only if it was complete and the page showed the form its document id stands for. The forms are those listed by DetaliiDocumentAfis/157060 as captured on 2026-06-06, the newest capture of any of the act's pages: 42 forms, 41 held.
 - Legea nr. 21/1996: the newest form held is that of 26.06.2025; the portal lists a later form, of 13.03.2026 (307731), which neither archive holds (no capture of its own page, and no capture of the act page 8005 made while it was the newest form), so the record ends at the newest form held and amendments in force from that day are missing.
 - Legea nr. 21/1996: the first version is the law as published in Monitorul Oficial nr. 88 of 30 April 1996 (DetaliiDocumentAfis/8005), in force 9 months after publication (its art. 73 alin. (1)): 30 January 1997. The provisions setting up and organising the Consiliul Concurenței and the Oficiul Concurenței took effect on publication (the same article); they are shown from 30 January 1997 with the rest. The portal's first form is of 17 December 2002, so the changes made up to then arrive together that day.
@@ -5775,6 +5789,7 @@ Model use at data-build time:
 - Legea nr. 196/2018: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - Legea nr. 198/2023: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - Legea nr. 199/2023: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
+- Legea nr. 21/1991: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - Legea nr. 21/1996: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - Legea nr. 218/2002: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - Legea nr. 237/2015: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.

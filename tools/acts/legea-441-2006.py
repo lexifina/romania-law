@@ -12,7 +12,7 @@ TITLE = ('Legea nr. 441/2006 pentru modificarea și completarea Legii nr. 31/199
 def register(P):
     P.ACTS[SLUG] = {
         **P.P6, 'part': '9z-legea-441-2006', 'short': 'Legea nr. 441/2006', 'pad': 3, 'cc_forms': True,
-        'hg_notes': True, 'trailing_notes': True, 'sign_tail': True, 'quoted_articles': True, 'titles': False,
+        'hg_notes': True, 'trailing_notes': True, 'sign_tail': True, 'quoted_articles': True, 'quoted_heads': True, 'titles': False,
         'roman_articles': True, 'root_word': 'act page',
         'title': TITLE,
         'url': P.PORTAL + 'DetaliiDocument/77185',

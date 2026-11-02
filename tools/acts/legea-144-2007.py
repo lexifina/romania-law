@@ -47,6 +47,20 @@ def register(P):
             'Ordonanța de urgență a Guvernului nr. 138/2007, with renumbered articles) is read from its own page '
             '(DetaliiDocumentAfis/110133); changes on that day that no note explains are credited to the act that '
             'ordered the republication, as the republication note says; files follow each text\'s own numbering.',
+            'Legea nr. 144/2007: the portal\'s form of 30 May 2007 differs from the law as published mostly in its '
+            'diacritics (several words are printed without them); those changes, and the same printing of art. 39 '
+            'alin. (1) pct. 35 in the form of 21 April 2008, are the publisher\'s and are committed uncredited.',
+            'Legea nr. 144/2007: Decizia Curții Constituționale nr. 415/2010 (read as published, '
+            'DetaliiDocumentAfis/118456; Monitorul Oficial nr. 294 of 5 May 2010) finds art. 14 lit. c)-f) and '
+            'chapter VI (arts. 45-50 of the republished text) unconstitutional and chapter I (arts. 1-9) in so far as '
+            'it gives the Agency the power to investigate and draw up findings on assets. Under the Constitution art. '
+            '147 alin. (1) the provisions found unconstitutional cease to have effect 45 days after publication, on 19 '
+            'June 2010: arts. 45-50 are removed that day by a version between the portal\'s forms (credited to the '
+            'decision). The form of 20.06.2010 also leaves out art. 14 lit. c)-f) with no note; that is committed as '
+            'the publisher\'s. Chapter I stays as printed (the portal\'s notes of 5 May 2010 mark it suspended).',
+            'Legea nr. 144/2007: Legea nr. 176/2010 art. 33 (in force 5 September 2010) repeals arts. 1-12, 14, 17 and '
+            '41-57 and the form of 05.09.2010 leaves them out. The form of 06.01.2023 prints them again as "Abrogat." '
+            'stubs; those reprints, and art. 62 and 64 in the forms of 2013 and 2017, are the publisher\'s.',
         ],
         # a Constitutional Court decision's effect (arts. 45-50 of the 2009 text) comes before the law that later
         # repealed the same articles formally (Legea nr. 176/2010 art. 33): the repeal entry names the form it applies to

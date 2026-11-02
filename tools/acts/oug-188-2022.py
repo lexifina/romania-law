@@ -15,7 +15,7 @@ TITLE = ('Ordonanța de urgență a Guvernului nr. 188/2022 pentru modificarea �
 def register(P):
     P.ACTS[SLUG] = {
         **P.P6, 'part': '9z-oug-188-2022', 'short': 'OUG nr. 188/2022', 'pad': 3, 'cc_forms': True,
-        'hg_notes': True, 'trailing_notes': True, 'sign_tail': True, 'quoted_articles': True, 'titles': False,
+        'hg_notes': True, 'trailing_notes': True, 'sign_tail': True, 'quoted_articles': True, 'quoted_heads': True, 'titles': False,
         'roman_articles': True, 'root_word': 'act page',
         'title': TITLE,
         'url': P.PORTAL + 'DetaliiDocument/263291',

@@ -27,6 +27,10 @@ def register(P):
             'changes made up to then arrive together that day.',
             'Legea nr. 176/2010: the articles of other acts that the amending provisions quote (S_ART inside the '
             'amending article) are kept as part of the amending article\'s text, as printed.',
+            'Legea nr. 176/2010: the portal prints the quoted provisions of arts. 33 and 35 (title III) now between '
+            'quotation marks as "Art. N. - ..." and now as nested articles titled "Articolul N"; the changes between '
+            'those two printings (2013, 2014, 2018, 2019) alter no provision and are committed as the publisher\'s, '
+            'uncredited.',
         ],
         'repeal_acts': {},
         'root_word': 'act page',

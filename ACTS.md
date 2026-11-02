@@ -1,6 +1,6 @@
 # Every act in this repository
 
-754 acts, 3,029 versions. Generated on every publish from the corpus; each folder's README.md lists its articles. Dates are in-force days.
+755 acts, 3,053 versions. Generated on every publish from the corpus; each folder's README.md lists its articles. Dates are in-force days.
 
 ## Codes and the Constitution (9)
 
@@ -16,7 +16,7 @@
 | [`codul-procedura-penala/`](codul-procedura-penala/) | Codul de procedură penală (Legea nr. 135/2010) | 61 | 2014-02-01 | 2026-06-13 |
 | [`constitutia/`](constitutia/) | Constituția României | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (416)
+## Laws (legi) (417)
 
 | Folder | Act | Versions | From | Latest |
 | --- | --- | ---: | --- | --- |
@@ -147,6 +147,7 @@
 | [`legea-207-2025/`](legea-207-2025/) | Legea nr. 207/2025 pentru modificarea art. 22 din Legea nr. 10/1995 privind calitatea în construcții, precum și pentru completarea art. 26 din Legea cadastrului și a publicității imobiliare nr. 7/1996 | 1 | 2025-12-11 | 2025-12-11 |
 | [`legea-208-2022/`](legea-208-2022/) | Legea nr. 208/2022 pentru modificarea și completarea Legii nr. 98/2016 privind achizițiile publice, Legii nr. 99/2016 privind achizițiile sectoriale, Legii nr. 100/2016 privind concesiunile de lucrări și concesiunile de servicii, precum și a Legii nr. 101/2016 privind remediile și căile de atac în materie de atribuire a contractelor de achiziție publică, a contractelor sectoriale și a contractelor de concesiune de lucrări și concesiune de servicii, precum și pentru organizarea și funcționarea Consiliului Național de Soluționare a Contestațiilor | 2 | 2022-09-10 | 2024-05-24 |
 | [`legea-209-2025/`](legea-209-2025/) | Legea nr. 209/2025 pentru modificarea și completarea Legii nr. 176/2018 privind internshipul | 1 | 2025-12-11 | 2025-12-11 |
+| [`legea-21-1991/`](legea-21-1991/) | Legea cetățeniei române nr. 21/1991 | 24 | 1991-04-05 | 2025-03-15 |
 | [`legea-21-1996/`](legea-21-1996/) | Legea concurenței nr. 21/1996 | 42 | 1997-01-30 | 2025-06-26 |
 | [`legea-21-2022/`](legea-21-2022/) | Legea nr. 21/2022 privind instituirea zilei de 15 februarie ca Ziua națională a lecturii | 1 | 2022-01-17 | 2022-01-17 |
 | [`legea-210-2019/`](legea-210-2019/) | Legea nr. 210/2019 privind activitatea de emitere de monedă electronică | 2 | 2019-12-13 | 2025-03-20 |

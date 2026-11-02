@@ -9686,6 +9686,158 @@
    ]
   },
   {
+   "slug": "legea-21-1991",
+   "short": "Legea nr. 21/1991",
+   "title": "Legea cetățeniei române nr. 21/1991",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1464",
+   "versions": [
+    {
+     "from": "1991-04-05",
+     "units": 43,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/1464",
+     "sha256": "d988cdeca19c469fe7f05992504fd1543045d14360a6f4c7ce612df0783311d4"
+    },
+    {
+     "from": "2000-03-06",
+     "units": 41,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/21269",
+     "sha256": "c07f68e8944445b32e8cb169a0fb0d0fb6ee72da4af568999fb1c4f5d30f31ba"
+    },
+    {
+     "from": "2002-06-18",
+     "units": 40,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/41161",
+     "sha256": "0f7f221c2a6353737b7329ea95900a9a9be09fbf605e4285a28964766cf601ce"
+    },
+    {
+     "from": "2002-10-04",
+     "units": 40,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/41161",
+     "sha256": "0f7f221c2a6353737b7329ea95900a9a9be09fbf605e4285a28964766cf601ce"
+    },
+    {
+     "from": "2003-06-13",
+     "units": 43,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/45253",
+     "sha256": "476c08af3d870f622083659932316f391d868ed137adcd556ffa32092112da02"
+    },
+    {
+     "from": "2003-10-15",
+     "units": 43,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/47417",
+     "sha256": "86e676ec4ad31a936d5fc9f5fce449e22b6e3071eea9690a2c72fc5bce5c8a2f"
+    },
+    {
+     "from": "2007-09-14",
+     "units": 39,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85458",
+     "sha256": "dadc6ec8e95fec5553df4e23af9bef0eb4339eacbffc80d02ddec0e9c5986fab"
+    },
+    {
+     "from": "2008-04-14",
+     "units": 39,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/91441",
+     "sha256": "04901e420a4f1f8fde7da346876b386ddad869452e62e154e80d202b7f3b00c2"
+    },
+    {
+     "from": "2008-11-13",
+     "units": 39,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/99420",
+     "sha256": "801fbeb58c306e060043ea1162b1e83cb19edba871a52e162248070dab204d5e"
+    },
+    {
+     "from": "2009-04-21",
+     "units": 40,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/105460",
+     "sha256": "2650c1eca9b69b0fb4783701a548924b6c8f835faaf0eb4912d3f36fad82fc19"
+    },
+    {
+     "from": "2009-05-17",
+     "units": 40,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/106286",
+     "sha256": "749efe1b1e6ac24675c0124c4ae64addbac2a5b3f4efeeb94b8101c58b206af0"
+    },
+    {
+     "from": "2009-11-19",
+     "units": 40,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/113749",
+     "sha256": "f9d1c0d5adacb1f179d372df16f2e736184680649674fdfa528cc3db68814c88"
+    },
+    {
+     "from": "2010-02-10",
+     "units": 39,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119695",
+     "sha256": "a035d3bf7a54307d83655cb47a80511e22570b60771e3c86d2d17d2331c071e5"
+    },
+    {
+     "from": "2010-06-20",
+     "units": 39,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119696",
+     "sha256": "d55eb642d5f3582350b74382afd2b5bc6383f7a57e4a9d4f70129a38497cf4dc"
+    },
+    {
+     "from": "2010-08-13",
+     "units": 39,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/121439",
+     "sha256": "ade80cb3b8f64ed32072559e4d814857fbb0afc8b0c98d84f799d91f2ee73fc8"
+    },
+    {
+     "from": "2013-02-15",
+     "units": 40,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/145498",
+     "sha256": "254bb1da5e4fe90829f69522eddc68ed90506fdd800a06d0b1b6491ce2085498"
+    },
+    {
+     "from": "2013-03-23",
+     "units": 40,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/146287",
+     "sha256": "3cfc11ab4e8e4b8d57cb7e612ff8ca7ea79807d2f55fb006af63889bc1a17a46"
+    },
+    {
+     "from": "2015-09-15",
+     "units": 44,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171390",
+     "sha256": "0ab61919adf2c9076041036b5417d4c39a574c602af0c25b4dcabb21363fbd05"
+    },
+    {
+     "from": "2017-02-01",
+     "units": 44,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/185275",
+     "sha256": "29a8500e96c39f84d577e1fc46ef6f9dcc0cb11c3002a4c5bb4e5ecbf8380f73"
+    },
+    {
+     "from": "2017-09-25",
+     "units": 44,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/193050",
+     "sha256": "2877a3ec75f0a0fd47a9d9079fc2c23f10a064ec622b2eccd43a4b450c7db30a"
+    },
+    {
+     "from": "2021-07-26",
+     "units": 46,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/244579",
+     "sha256": "f77c39225daa62e597095d5de586b27b24aa19aa2c39ce59c8752c9cc75d2189"
+    },
+    {
+     "from": "2024-07-29",
+     "units": 49,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/286000",
+     "sha256": "776b8155a64ca86dcf657a67a7b2090644192bcf443883ac5651d28a62d85f76"
+    },
+    {
+     "from": "2024-09-01",
+     "units": 50,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/286000",
+     "sha256": "776b8155a64ca86dcf657a67a7b2090644192bcf443883ac5651d28a62d85f76"
+    },
+    {
+     "from": "2025-03-15",
+     "units": 53,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/294550",
+     "sha256": "a5e310565ffb2a33e0b9ea50e0475f21ba09e99f1c1eb4783be7864ef95bb1d2"
+    }
+   ]
+  },
+  {
    "slug": "legea-21-1996",
    "short": "Legea nr. 21/1996",
    "title": "Legea concurenței nr. 21/1996",

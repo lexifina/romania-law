@@ -13,7 +13,7 @@ TITLE = ('Legea nr. 138/2014 pentru modificarea și completarea Legii nr. 134/20
 
 def register(P):
     P.ACTS[SLUG] = {
-        **P.P6, 'part': '9z-legea-138-2014', 'short': 'Legea nr. 138/2014', 'pad': 4, 'cc_forms': True,
+        **P.P6, 'part': '9z-legea-138-2014', 'short': 'Legea nr. 138/2014', 'pad': 3, 'cc_forms': True,
         'hg_notes': True, 'trailing_notes': True, 'sign_tail': True, 'quoted_articles': True, 'titles': False,
         'roman_articles': True, 'quoted_roman': True, 'quoted_lines': True, 'point_tail': True,
         'root_word': 'act page',
