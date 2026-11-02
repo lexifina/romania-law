@@ -77,6 +77,7 @@ This file is written by the build on 2026-11-02, the day the source data was ret
 | captures of legislatie.just.ro for the Legea nr. 129/1992 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
 | captures of legislatie.just.ro for the Legea nr. 132/2017 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
 | Internet Archive, Wayback Machine | <https://web.archive.org/> | 2026-11-02 | Internet Archive terms of use; the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
+| captures of legislatie.just.ro for the Legea nr. 135/2007 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
 | captures of legislatie.just.ro for the Legea nr. 138/2014 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
 | captures of legislatie.just.ro for the Legea nr. 14/2003 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
 | captures of legislatie.just.ro for the Legea nr. 140/2022 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
@@ -104,6 +105,7 @@ This file is written by the build on 2026-11-02, the day the source data was ret
 | captures of legislatie.just.ro for the Legea nr. 199/2023 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
 | Internet Archive, Wayback Machine | <https://web.archive.org/> | 2026-11-02 | Internet Archive terms of use; the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
 | captures of legislatie.just.ro for the Legea nr. 202/2002 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
+| captures of legislatie.just.ro for the Legea nr. 204/2021 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
 | captures of legislatie.just.ro for the Legea nr. 208/2015 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
 | captures of legislatie.just.ro for the Legea nr. 209/2019 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
 | captures of legislatie.just.ro for the Legea nr. 21/1991 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
@@ -173,6 +175,7 @@ This file is written by the build on 2026-11-02, the day the source data was ret
 | Internet Archive, Wayback Machine | <https://web.archive.org/> | 2026-11-02 | Internet Archive terms of use; the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
 | captures of legislatie.just.ro for the Legea nr. 51/2006 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
 | captures of legislatie.just.ro for the Legea nr. 52/2003 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
+| captures of legislatie.just.ro for the Legea nr. 535/2004 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
 | captures of legislatie.just.ro for the Legea nr. 60/1991 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
 | captures of legislatie.just.ro for the Legea nr. 61/1991 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
 | captures of legislatie.just.ro for the Legea nr. 64/1991 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
@@ -196,6 +199,7 @@ This file is written by the build on 2026-11-02, the day the source data was ret
 | Internet Archive, Wayback Machine | <https://web.archive.org/> | 2026-11-02 | Internet Archive terms of use; the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
 | captures of legislatie.just.ro for the Legea nr. 98/2016 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
 | captures of legislatie.just.ro for the Legea nr. 99/2016 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
+| captures of legislatie.just.ro for the OG nr. 12/2022 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
 | captures of legislatie.just.ro for the OG nr. 13/2011 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
 | captures of legislatie.just.ro for the OG nr. 137/2000 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
 | captures of legislatie.just.ro for the OG nr. 21/1992 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
@@ -205,6 +209,7 @@ This file is written by the build on 2026-11-02, the day the source data was ret
 | captures of legislatie.just.ro for the OG nr. 29/2014 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
 | captures of legislatie.just.ro for the OG nr. 43/1997 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
 | captures of legislatie.just.ro for the OUG nr. 1/2016 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
+| captures of legislatie.just.ro for the OUG nr. 108/2023 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
 | captures of legislatie.just.ro for the OUG nr. 109/2009 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
 | captures of legislatie.just.ro for the OUG nr. 109/2011 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
 | captures of legislatie.just.ro for the OUG nr. 111/2011 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
@@ -229,6 +234,7 @@ This file is written by the build on 2026-11-02, the day the source data was ret
 | Internet Archive, Wayback Machine | <https://web.archive.org/> | 2026-11-02 | Internet Archive terms of use; the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
 | captures of legislatie.just.ro for the HG nr. 1005/2022 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
 | captures of legislatie.just.ro for the HG nr. 1006/2022 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
+| captures of legislatie.just.ro for the HG nr. 1007/2022 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
 | captures of legislatie.just.ro for the HG nr. 1011/2022 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
 | captures of legislatie.just.ro for the HG nr. 1031/2022 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
 | captures of legislatie.just.ro for the HG nr. 1032/2022 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
@@ -253,22 +259,59 @@ This file is written by the build on 2026-11-02, the day the source data was ret
 | captures of legislatie.just.ro for the HG nr. 1138/2022 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
 | captures of legislatie.just.ro for the HG nr. 1139/2022 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
 | captures of legislatie.just.ro for the HG nr. 1144/2022 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
+| captures of legislatie.just.ro for the HG nr. 1149/2022 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
+| captures of legislatie.just.ro for the HG nr. 1160/2022 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
 | captures of legislatie.just.ro for the HG nr. 1161/2021 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
 | captures of legislatie.just.ro for the HG nr. 1161/2022 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
+| captures of legislatie.just.ro for the HG nr. 1172/2022 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
 | captures of legislatie.just.ro for the HG nr. 1173/2022 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
 | captures of legislatie.just.ro for the HG nr. 1179/2022 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
+| captures of legislatie.just.ro for the HG nr. 1180/2022 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
+| captures of legislatie.just.ro for the HG nr. 1181/2022 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
 | captures of legislatie.just.ro for the HG nr. 1194/2022 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
+| captures of legislatie.just.ro for the HG nr. 1200/2022 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
+| captures of legislatie.just.ro for the HG nr. 1201/2022 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
+| captures of legislatie.just.ro for the HG nr. 1202/2022 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
+| captures of legislatie.just.ro for the HG nr. 1203/2022 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
+| captures of legislatie.just.ro for the HG nr. 1209/2022 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
 | captures of legislatie.just.ro for the HG nr. 1215/2021 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
 | captures of legislatie.just.ro for the HG nr. 1217/2006 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
 | captures of legislatie.just.ro for the HG nr. 1218/2021 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
+| captures of legislatie.just.ro for the HG nr. 1227/2022 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
+| captures of legislatie.just.ro for the HG nr. 1237/2022 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
 | captures of legislatie.just.ro for the HG nr. 1242/2021 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
+| captures of legislatie.just.ro for the HG nr. 1245/2022 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
+| captures of legislatie.just.ro for the HG nr. 1253/2022 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
 | captures of legislatie.just.ro for the HG nr. 1254/2021 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
 | captures of legislatie.just.ro for the HG nr. 1269/2021 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
+| captures of legislatie.just.ro for the HG nr. 1270/2022 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
 | captures of legislatie.just.ro for the HG nr. 1276/2021 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
+| captures of legislatie.just.ro for the HG nr. 1280/2022 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
+| captures of legislatie.just.ro for the HG nr. 1282/2022 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
 | captures of legislatie.just.ro for the HG nr. 1288/2021 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
 | captures of legislatie.just.ro for the HG nr. 1302/2021 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
 | captures of legislatie.just.ro for the HG nr. 1312/2021 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
 | captures of legislatie.just.ro for the HG nr. 1315/2021 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
+| captures of legislatie.just.ro for the HG nr. 1319/2022 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
+| captures of legislatie.just.ro for the HG nr. 1322/2022 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
+| captures of legislatie.just.ro for the HG nr. 1340/2022 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
+| captures of legislatie.just.ro for the HG nr. 1373/2022 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
+| captures of legislatie.just.ro for the HG nr. 1389/2022 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
+| captures of legislatie.just.ro for the HG nr. 1397/2022 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
+| captures of legislatie.just.ro for the HG nr. 1398/2022 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
+| captures of legislatie.just.ro for the HG nr. 1401/2022 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
+| captures of legislatie.just.ro for the HG nr. 1411/2022 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
+| captures of legislatie.just.ro for the HG nr. 1417/2022 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
+| captures of legislatie.just.ro for the HG nr. 1432/2022 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
+| captures of legislatie.just.ro for the HG nr. 1434/2022 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
+| captures of legislatie.just.ro for the HG nr. 1435/2022 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
+| captures of legislatie.just.ro for the HG nr. 1441/2022 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
+| captures of legislatie.just.ro for the HG nr. 1442/2022 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
+| captures of legislatie.just.ro for the HG nr. 1447/2022 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
+| captures of legislatie.just.ro for the HG nr. 1448/2022 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
+| captures of legislatie.just.ro for the HG nr. 1457/2022 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
+| captures of legislatie.just.ro for the HG nr. 1465/2022 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
+| captures of legislatie.just.ro for the HG nr. 1473/2022 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
 | captures of legislatie.just.ro for the HG nr. 155/2022 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
 | captures of legislatie.just.ro for the HG nr. 17/2021 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
 | captures of legislatie.just.ro for the HG nr. 171/2022 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
@@ -306,6 +349,7 @@ This file is written by the build on 2026-11-02, the day the source data was ret
 | captures of legislatie.just.ro for the HG nr. 423/2021 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
 | captures of legislatie.just.ro for the HG nr. 424/2022 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
 | captures of legislatie.just.ro for the HG nr. 425/2022 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
+| captures of legislatie.just.ro for the HG nr. 426/2020 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
 | captures of legislatie.just.ro for the HG nr. 427/2022 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
 | captures of legislatie.just.ro for the HG nr. 432/2017 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
 | captures of legislatie.just.ro for the HG nr. 432/2021 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
@@ -398,6 +442,7 @@ This file is written by the build on 2026-11-02, the day the source data was ret
 | captures of legislatie.just.ro for the HG nr. 890/2005 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
 | captures of legislatie.just.ro for the HG nr. 893/2022 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
 | captures of legislatie.just.ro for the HG nr. 896/2003 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
+| captures of legislatie.just.ro for the HG nr. 90/2010 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
 | captures of legislatie.just.ro for the HG nr. 900/2023 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
 | captures of legislatie.just.ro for the HG nr. 902/2022 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
 | captures of legislatie.just.ro for the HG nr. 906/2021 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
@@ -1225,21 +1270,21 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 
 | Act | Title | Versions | Span |
 | --- | --- | ---: | --- |
-| 1177 acts | every act, with its kind, number, status and span, is listed in [ACTS.md](ACTS.md) | 4818 | |
+| 1222 acts | every act, with its kind, number, status and span, is listed in [ACTS.md](ACTS.md) | 4899 | |
 
-The build made 6146 commits:
+The build made 6228 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 1210 | first version of an act |
-| 3792 | one law on its in-force day |
-| 1144 | changes no amendment note explains, credited to the publisher |
+| 1255 | first version of an act |
+| 3828 | one law on its in-force day |
+| 1145 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `viitor`: laws not yet in force on 2026-11-02.
 - 10 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 3268 laws in the record.
-- 8001 tags.
+- 3334 laws in the record.
+- 8148 tags.
 
 ## Dates
 
@@ -1251,7 +1296,7 @@ When a law gives no date of its own, the default rule applies: Constituția Rom�
 
 `tools/build/build.py` (and, for later publishes, `tools/build/append.py`) turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/build/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/build/SCHEMA.md`.
 
-- Corpus: sha256 `0637bd08a3d760618b58c4031db0222fcd96922bdee1ca9d04492413d5b06e5a` (172841429 bytes).
+- Corpus: sha256 `6b912d71b0ee7e7e99c13d323c0d24ad5a8bab5544c2f5780ef7c5d80e5256a4` (174063970 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `aa1dc171edc70634707bb882ad120cf467739294`, `check.py` `ac7555f3f3746e325d043ce89405d43a617ba3f8`, `on.py` `a4d099e560b4a65735a86646c3ac346ecdb7c77c`.
 - Python 3.14.0; git version 2.52.0.windows.1.
 
@@ -1263,7 +1308,7 @@ No second build of this corpus has been compared yet.
 
 ## Decisions made by hand
 
-- Every act's decisions made by hand (6472 in all) are listed in that act's own README.md, under "Decisions made by hand".
+- Every act's decisions made by hand (6690 in all) are listed in that act's own README.md, under "Decisions made by hand".
 
 ## What AI did and did not do
 
@@ -1330,6 +1375,7 @@ Model use at data-build time:
 - Legea nr. 126/2018: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - Legea nr. 129/1992: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - Legea nr. 132/2017: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
+- Legea nr. 135/2007: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - Legea nr. 138/2014: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - Legea nr. 14/2003: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - Legea nr. 140/2022: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
@@ -1351,6 +1397,7 @@ Model use at data-build time:
 - Legea nr. 198/2023: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - Legea nr. 199/2023: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - Legea nr. 202/2002: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
+- Legea nr. 204/2021: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - Legea nr. 208/2015: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - Legea nr. 209/2019: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - Legea nr. 21/1991: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
@@ -1413,6 +1460,7 @@ Model use at data-build time:
 - Legea nr. 51/1995: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - Legea nr. 51/2006: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - Legea nr. 52/2003: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
+- Legea nr. 535/2004: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - Legea nr. 60/1991: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - Legea nr. 61/1991: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - Legea nr. 64/1991: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
@@ -1433,6 +1481,7 @@ Model use at data-build time:
 - Legea nr. 96/2006: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - Legea nr. 98/2016: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - Legea nr. 99/2016: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
+- OG nr. 12/2022: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - OG nr. 13/2011: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - OG nr. 137/2000: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - OG nr. 21/1992: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
@@ -1442,6 +1491,7 @@ Model use at data-build time:
 - OG nr. 29/2014: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - OG nr. 43/1997: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - OUG nr. 1/2016: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
+- OUG nr. 108/2023: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - OUG nr. 109/2009: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - OUG nr. 109/2011: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - OUG nr. 111/2011: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
@@ -1465,6 +1515,7 @@ Model use at data-build time:
 - OUG nr. 99/2006: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1005/2022: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1006/2022: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
+- HG nr. 1007/2022: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1011/2022: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1031/2022: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1032/2022: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
@@ -1489,22 +1540,59 @@ Model use at data-build time:
 - HG nr. 1138/2022: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1139/2022: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1144/2022: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
+- HG nr. 1149/2022: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
+- HG nr. 1160/2022: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1161/2021: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1161/2022: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
+- HG nr. 1172/2022: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1173/2022: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1179/2022: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
+- HG nr. 1180/2022: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
+- HG nr. 1181/2022: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1194/2022: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
+- HG nr. 1200/2022: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
+- HG nr. 1201/2022: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
+- HG nr. 1202/2022: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
+- HG nr. 1203/2022: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
+- HG nr. 1209/2022: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1215/2021: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1217/2006: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1218/2021: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
+- HG nr. 1227/2022: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
+- HG nr. 1237/2022: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1242/2021: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
+- HG nr. 1245/2022: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
+- HG nr. 1253/2022: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1254/2021: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1269/2021: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
+- HG nr. 1270/2022: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1276/2021: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
+- HG nr. 1280/2022: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
+- HG nr. 1282/2022: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1288/2021: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1302/2021: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1312/2021: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1315/2021: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
+- HG nr. 1319/2022: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
+- HG nr. 1322/2022: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
+- HG nr. 1340/2022: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
+- HG nr. 1373/2022: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
+- HG nr. 1389/2022: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
+- HG nr. 1397/2022: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
+- HG nr. 1398/2022: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
+- HG nr. 1401/2022: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
+- HG nr. 1411/2022: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
+- HG nr. 1417/2022: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
+- HG nr. 1432/2022: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
+- HG nr. 1434/2022: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
+- HG nr. 1435/2022: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
+- HG nr. 1441/2022: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
+- HG nr. 1442/2022: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
+- HG nr. 1447/2022: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
+- HG nr. 1448/2022: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
+- HG nr. 1457/2022: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
+- HG nr. 1465/2022: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
+- HG nr. 1473/2022: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 155/2022: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 17/2021: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 171/2022: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
@@ -1542,6 +1630,7 @@ Model use at data-build time:
 - HG nr. 423/2021: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 424/2022: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 425/2022: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
+- HG nr. 426/2020: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 427/2022: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 432/2017: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 432/2021: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
@@ -1634,6 +1723,7 @@ Model use at data-build time:
 - HG nr. 890/2005: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 893/2022: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 896/2003: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
+- HG nr. 90/2010: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 900/2023: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 902/2022: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 906/2021: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
