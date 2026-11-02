@@ -1,6 +1,6 @@
 # Every act in this repository
 
-1376 acts, 6,355 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+1377 acts, 6,363 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -30,7 +30,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (654, of which 372 amending acts)
+## Laws (legi) (655, of which 372 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -233,6 +233,7 @@
 | Legea nr. 232/2016 privind industria națională de apărare, precum și pentru modificarea și completarea unor acte normative | [`lege/2016/232/`](lege/2016/232/) | amending act | 5 | 2017-01-04 | 2022-07-30 |
 | Legea nr. 24/2017 privind emitenții de instrumente financiare și operațiuni de piață | [`lege/2017/24/`](lege/2017/24/) | in force | 12 | 2017-04-01 | 2026-01-16 |
 | Legea nr. 132/2017 privind asigurarea obligatorie de răspundere civilă auto pentru prejudicii produse terților prin accidente de vehicule și tramvaie | [`lege/2017/132/`](lege/2017/132/) | in force | 5 | 2017-06-15 | 2025-12-13 |
+| Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice | [`lege/2017/153/`](lege/2017/153/) | in force | 26 | 2017-07-01 | 2026-01-01 |
 | Legea nr. 231/2017 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 18/2009 privind creșterea performanței energetice a blocurilor de locuințe | [`lege/2017/231/`](lege/2017/231/) | amending act | 2 | 2017-12-08 | 2024-07-25 |
 | Legea nr. 258/2017 privind comparabilitatea comisioanelor aferente conturilor de plăți, schimbarea conturilor de plăți și accesul la conturile de plăți cu servicii de bază | [`lege/2017/258/`](lege/2017/258/) | in force | 2 | 2018-01-27 | 2024-06-16 |
 | Legea nr. 62/2018 privind combaterea buruienii ambrozia | [`lege/2018/62/`](lege/2018/62/) | in force | 3 | 2018-03-17 | 2023-10-14 |
@@ -689,7 +690,7 @@
 | Legea nr. 241/2025 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 31/2002 privind interzicerea organizațiilor, simbolurilor și faptelor cu caracter fascist, legionar, rasist sau xenofob și a promovării cultului persoanelor vinovate de săvârșirea unor infracțiuni de genocid contra umanității și de crime de război, precum și pentru modificarea Legii nr. 157/2018 privind unele măsuri pentru prevenirea și combaterea antisemitismului | [`lege/2025/241/`](lege/2025/241/) | amending act | 1 | 2025-12-27 | 2025-12-27 |
 | Legea nr. 245/2025 pentru modificarea art. 32 alin. (7) din Legea nr. 273/2006 privind finanțele publice locale | [`lege/2025/245/`](lege/2025/245/) | amending act | 1 | 2026-01-01 | 2026-01-01 |
 
-## Emergency ordinances (OUG) (380, of which 268 amending acts)
+## Emergency ordinances (OUG) (381, of which 269 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -925,6 +926,7 @@
 | Ordonanța de urgență a Guvernului nr. 159/2022 pentru modificarea și completarea art. 84 din Legea educației naționale nr. 1/2011 | [`oug/2022/159/`](oug/2022/159/) | amending act | 1 | 2022-11-17 | 2022-11-17 |
 | Ordonanța de urgență a Guvernului nr. 164/2022 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 111/2010 privind concediul și indemnizația lunară pentru creșterea copiilor | [`oug/2022/164/`](oug/2022/164/) | amending act | 1 | 2022-12-07 | 2022-12-07 |
 | Ordonanța de urgență a Guvernului nr. 165/2022 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 63/2022 privind unele măsuri temporare pentru acordarea de sprijin material categoriilor de persoane aflate în situații de risc de deprivare materială și/sau risc de sărăcie extremă, suportate parțial din fonduri externe nerambursabile, precum și unele măsuri de distribuire a acestuia | [`oug/2022/165/`](oug/2022/165/) | amending act | 1 | 2022-12-08 | 2022-12-08 |
+| Ordonanța de urgență a Guvernului nr. 168/2022 privind unele măsuri fiscal-bugetare, prorogarea unor termene, precum și pentru modificarea și completarea unor acte normative | [`oug/2022/168/`](oug/2022/168/) | amending act | 8 | 2022-12-09 | 2023-11-01 |
 | Ordonanța de urgență a Guvernului nr. 170/2022 privind aprobarea unor măsuri pentru consolidarea capacității administrative a Ministerului Investițiilor și Proiectelor Europene de gestionare a programelor operaționale pentru perioada de programare 2021-2027 | [`oug/2022/170/`](oug/2022/170/) | amending act | 1 | 2022-12-12 | 2022-12-12 |
 | Ordonanța de urgență a Guvernului nr. 171/2022 pentru accelerarea implementării proiectelor de infrastructură finanțate din fonduri externe nerambursabile, precum și pentru modificarea și completarea unor acte normative | [`oug/2022/171/`](oug/2022/171/) | amending act | 3 | 2022-12-12 | 2023-10-27 |
 | Ordonanța de urgență a Guvernului nr. 172/2022 privind dezvoltarea sistemului informatic MySMIS2021/SMIS2021+ și a aplicațiilor informatice MySMIS2021 și SMIS2021 pentru gestionarea fondurilor europene aferente perioadei de programare 2021-2027 și pentru completarea Legii-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice | [`oug/2022/172/`](oug/2022/172/) | amending act | 1 | 2022-12-12 | 2022-12-12 |
@@ -1428,11 +1430,3 @@
 | --- | --- | --- | ---: | --- | --- |
 | Codul civil din 26 noiembrie 1864 | [`cod/1864/civil/`](cod/1864/civil/) | repealed 2013-02-15 | 8 | 1865-12-01 | 2013-02-15 |
 | Codul comercial din 10 mai 1887 | [`cod/1887/comercial/`](cod/1887/comercial/) | in force | 17 | 1887-09-01 | 2013-02-15 |
-
-## Withdrawn from the record (1)
-
-Acts published here and later found not to belong (for example, titled as Government decisions but issued by another body). Their folders were removed by a correction commit; the commits that added them stay in the history. Their ids are retired: a later act with the same number gets the id with `-2` appended.
-
-| Act id | Reason | Removed by |
-| --- | --- | --- |
-| `legea-153-2017` | not in the current record |  |
