@@ -12157,6 +12157,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/172600"
 },
 {
+"slug": "oug-57-2015",
+"path": "oug/2015/57",
+"kind": "oug",
+"year": "2015",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 57/2015",
+"short": "OUG nr. 57/2015",
+"code": null,
+"status": "in force",
+"versions": 21,
+"from": "2015-12-11",
+"latest": "2024-05-16",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/173855"
+},
+{
 "slug": "oug-1-2016",
 "path": "oug/2016/1",
 "kind": "oug",
@@ -13107,6 +13124,23 @@
 "from": "2021-02-05",
 "latest": "2022-01-02",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/237118"
+},
+{
+"slug": "oug-8-2021",
+"path": "oug/2021/8",
+"kind": "oug",
+"year": "2021",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 8/2021 privind unele măsuri fiscal-bugetare, precum și pentru modificarea și completarea unor acte normative",
+"short": "OUG nr. 8/2021",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2021-02-18",
+"latest": "2021-02-18",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/238021"
 },
 {
 "slug": "oug-9-2021",

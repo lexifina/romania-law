@@ -1,6 +1,6 @@
 # Every act in this repository
 
-1389 acts, 6,424 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+1391 acts, 6,446 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -696,7 +696,7 @@
 | Legea nr. 241/2025 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 31/2002 privind interzicerea organizațiilor, simbolurilor și faptelor cu caracter fascist, legionar, rasist sau xenofob și a promovării cultului persoanelor vinovate de săvârșirea unor infracțiuni de genocid contra umanității și de crime de război, precum și pentru modificarea Legii nr. 157/2018 privind unele măsuri pentru prevenirea și combaterea antisemitismului | [`lege/2025/241/`](lege/2025/241/) | amending act | 1 | 2025-12-27 | 2025-12-27 |
 | Legea nr. 245/2025 pentru modificarea art. 32 alin. (7) din Legea nr. 273/2006 privind finanțele publice locale | [`lege/2025/245/`](lege/2025/245/) | amending act | 1 | 2026-01-01 | 2026-01-01 |
 
-## Emergency ordinances (OUG) (387, of which 272 amending acts)
+## Emergency ordinances (OUG) (389, of which 273 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -753,6 +753,7 @@
 | Ordonanța de urgență a Guvernului nr. 82/2014 pentru modificarea și completarea Legii nr. 135/2010 privind Codul de procedură penală | [`oug/2014/82/`](oug/2014/82/) | amending act | 2 | 2014-12-15 | 2016-05-02 |
 | Ordonanța de urgență a Guvernului nr. 40/2015 | [`oug/2015/40/`](oug/2015/40/) | in force | 30 | 2015-10-06 | 2024-03-29 |
 | Ordonanța de urgență a Guvernului nr. 50/2015 | [`oug/2015/50/`](oug/2015/50/) | in force | 2 | 2016-01-01 | 2016-01-03 |
+| Ordonanța de urgență a Guvernului nr. 57/2015 | [`oug/2015/57/`](oug/2015/57/) | in force | 21 | 2015-12-11 | 2024-05-16 |
 | Ordonanța de urgență a Guvernului nr. 1/2016 pentru modificarea Legii nr. 134/2010 privind Codul de procedură civilă, precum și a unor acte normative conexe | [`oug/2016/1/`](oug/2016/1/) | amending act | 2 | 2016-02-04 | 2017-03-24 |
 | Ordonanța de urgență a Guvernului nr. 6/2016 | [`oug/2016/6/`](oug/2016/6/) | in force | 1 | 2016-03-14 | 2016-03-14 |
 | Ordonanța de urgență a Guvernului nr. 18/2016 pentru modificarea și completarea Legii nr. 286/2009 privind Codul penal, Legii nr. 135/2010 privind Codul de procedură penală, precum și pentru completarea art. 31 alin. (1) din Legea nr. 304/2004 privind organizarea judiciară | [`oug/2016/18/`](oug/2016/18/) | amending act | 2 | 2016-05-23 | 2024-05-10 |
@@ -809,6 +810,7 @@
 | Ordonanța de urgență a Guvernului nr. 227/2020 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 37/2020 privind acordarea unor facilități pentru creditele acordate de instituții de credit și instituții financiare nebancare anumitor categorii de debitori | [`oug/2020/227/`](oug/2020/227/) | amending act | 1 | 2021-01-01 | 2021-01-01 |
 | Ordonanța de urgență a Guvernului nr. 2/2021 pentru completarea art. 38 din Legea nr. 55/2020 privind unele măsuri pentru prevenirea și combaterea efectelor pandemiei de COVID-19 | [`oug/2021/2/`](oug/2021/2/) | amending act | 1 | 2021-01-07 | 2021-01-07 |
 | Ordonanța de urgență a Guvernului nr. 6/2021 pentru modificarea și completarea unor acte normative | [`oug/2021/6/`](oug/2021/6/) | amending act | 2 | 2021-02-05 | 2022-01-02 |
+| Ordonanța de urgență a Guvernului nr. 8/2021 privind unele măsuri fiscal-bugetare, precum și pentru modificarea și completarea unor acte normative | [`oug/2021/8/`](oug/2021/8/) | amending act | 1 | 2021-02-18 | 2021-02-18 |
 | Ordonanța de urgență a Guvernului nr. 9/2021 pentru modificarea Legii nr. 200/2006 privind constituirea și utilizarea Fondului de garantare pentru plata creanțelor salariale | [`oug/2021/9/`](oug/2021/9/) | amending act | 1 | 2021-02-19 | 2021-02-19 |
 | Ordonanța de urgență a Guvernului nr. 10/2021 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 224/2020 privind unele măsuri pentru acordarea de sprijin financiar pentru întreprinderile din domeniul turismului, structuri de cazare, structuri de alimentație și agenții de turism, a căror activitate a fost afectată în contextul pandemiei de COVID-19, precum și privind unele măsuri fiscale | [`oug/2021/10/`](oug/2021/10/) | amending act | 2 | 2021-02-24 | 2021-06-14 |
 | Ordonanța de urgență a Guvernului nr. 11/2021 pentru aprobarea schemelor de plăți și a unor instrumente de garantare care se aplică în agricultură în anii 2021 și 2022 | [`oug/2021/11/`](oug/2021/11/) | amending act | 2 | 2021-02-25 | 2022-03-11 |

@@ -30827,6 +30827,141 @@
    ]
   },
   {
+   "slug": "oug-57-2015",
+   "path": "oug/2015/57",
+   "short": "OUG nr. 57/2015",
+   "title": "Ordonanța de urgență a Guvernului nr. 57/2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/173855",
+   "versions": [
+    {
+     "from": "2015-12-11",
+     "units": 45,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/173855",
+     "sha256": "829d3eba927cfcb333278ba535ffb91b6099a4e37bf1af8c0f9cebe26489e39e"
+    },
+    {
+     "from": "2015-12-29",
+     "units": 45,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174607",
+     "sha256": "933816e85a17827ef6c5de317ffac85a6c637c6ef65f6efed1c74396bd94a7ad"
+    },
+    {
+     "from": "2016-06-09",
+     "units": 52,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/179147",
+     "sha256": "67071fe448aac774863f993036d4b511befbc76c81a5bdc85cfe5d04703346b3"
+    },
+    {
+     "from": "2016-08-31",
+     "units": 52,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181380",
+     "sha256": "c3761abf6fb802a223390bce048ba9a4b8d3d1141e51a3c46b4da14c2d4c274b"
+    },
+    {
+     "from": "2016-11-05",
+     "units": 52,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/183309",
+     "sha256": "1ad4fd371e7f43e81c564b44dce800c5a5eaa57ffdd22ff679a71656c96cdc6e"
+    },
+    {
+     "from": "2016-12-21",
+     "units": 52,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/184722",
+     "sha256": "f7e9a08f2364ab1751f79e445332aedd06d7bca8fc562fe1f888f924b1534f68"
+    },
+    {
+     "from": "2016-12-24",
+     "units": 52,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/184723",
+     "sha256": "767ed5116e31b804005039d86c1f7f1da74d1f11951ab04fdb0365e528696241"
+    },
+    {
+     "from": "2017-01-06",
+     "units": 52,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/185295",
+     "sha256": "aa8a3670a3e227dfd48ea1ebe4476560bfbdf14f9fb013f1557b0cbbdcf0d328"
+    },
+    {
+     "from": "2017-01-30",
+     "units": 52,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/185899",
+     "sha256": "81a2621d92ce4eede4638bc1bc1c58039664eddd53ebe01a1374daf421d14e1e"
+    },
+    {
+     "from": "2017-01-31",
+     "units": 52,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/185931",
+     "sha256": "9f7498b0cebc55614b20771410bd7ba7b54bcc4951fdda5f8374d4ef290585ef"
+    },
+    {
+     "from": "2017-02-23",
+     "units": 52,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/186578",
+     "sha256": "ffdc229560bf3019e1dcb913dd7f720084c6d0f2eef86c24f7acef10d9734432"
+    },
+    {
+     "from": "2017-02-27",
+     "units": 52,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/186606",
+     "sha256": "3778b7af207ff26bcf5be17d619bc1b36d6c1fd9e111db2853788c9f16b29fe1"
+    },
+    {
+     "from": "2017-04-03",
+     "units": 52,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/187402",
+     "sha256": "6dab4c1c44aa3c5de92db9b9bf248cefd8cc2837e61bdf4d3ea54374145a9c5d"
+    },
+    {
+     "from": "2017-06-30",
+     "units": 52,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/190501",
+     "sha256": "f683d28258dd5b2923fb023c312bfdf35269f8684bfc419cfcea1d0d795d6ba3"
+    },
+    {
+     "from": "2017-07-01",
+     "units": 51,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/190529",
+     "sha256": "47e5779748d5356c7d2ae22ead3ed2a0da8ce6ae058817764331134b4abf4c92"
+    },
+    {
+     "from": "2022-06-29",
+     "units": 51,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/256301",
+     "sha256": "04b5831f4a0eeb912bbabc39f090c2cacf7b2f1f2a8b801b846bc56f33e4f8ab"
+    },
+    {
+     "from": "2022-09-03",
+     "units": 51,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/258166",
+     "sha256": "9e743ed3ef4810a4a8866f19ad69b18544965d4cc2f75f8592ca88f418954dbb"
+    },
+    {
+     "from": "2023-03-23",
+     "units": 51,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/265760",
+     "sha256": "2a4fd43def0319954946d3d22d8c87a87502b238ee4bd534ed46dfe8e967f092"
+    },
+    {
+     "from": "2023-11-10",
+     "units": 51,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/269215",
+     "sha256": "4a23364941da3e47bc93022ff570d8f5c8ca46d2cc49834e1701a52da5e2e263"
+    },
+    {
+     "from": "2023-12-29",
+     "units": 52,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/269729",
+     "sha256": "ef35663a45bebb61450d6e1b608a7db16c9dc846ac79f4a3fae0fc1507374715"
+    },
+    {
+     "from": "2024-05-16",
+     "units": 52,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/282728",
+     "sha256": "7c0fbe011c4a65654fe66a6400e46b526d8b3ad861419ccdabb25179ef93b190"
+    }
+   ]
+  },
+  {
    "slug": "oug-63-2010",
    "path": "oug/2010/63",
    "short": "OUG nr. 63/2010",
@@ -31669,6 +31804,21 @@
      "units": 65,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/285999",
      "sha256": "5986a794c51466596a91b2db90f0c65c6480d610d6697cea2d5393a9374d9000"
+    }
+   ]
+  },
+  {
+   "slug": "oug-8-2021",
+   "path": "oug/2021/8",
+   "short": "OUG nr. 8/2021",
+   "title": "Ordonanța de urgență a Guvernului nr. 8/2021 privind unele măsuri fiscal-bugetare, precum și pentru modificarea și completarea unor acte normative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/238021",
+   "versions": [
+    {
+     "from": "2021-02-18",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/238021",
+     "sha256": "dd53746e0c137abab6b59d625b67d255d9890dfc6e9a777ae08f60c658b0b1ad"
     }
    ]
   },
