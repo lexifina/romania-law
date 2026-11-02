@@ -1,0 +1,18 @@
+The legal texts come from the Portalul legislativ of the Romanian Ministry of Justice:
+
+  Sursa: Portalul legislativ al Ministerului Justiției, https://legislatie.just.ro,
+  read through Internet Archive captures (https://web.archive.org), retrieved 28-29 October 2026.
+
+They are official texts of normative acts of Romania. Romanian copyright law excludes official texts of a
+legislative, administrative and judicial nature, and their official translations, from protection (Legea nr. 8/1996
+privind dreptul de autor și drepturile conexe, art. 9 lit. b).
+
+Changes made by Lexifina: each consolidated form was converted to one Markdown file per article, one paragraph per
+line; typography (cedilla and comma-below letters, spaces, quotes, dashes, footnote markers) was normalised; the
+portal's amendment notes and editorial notes were removed from the text and used only to credit the amending act;
+and the forms were arranged as git commits credited to the acts that made each change. The wording of the law was
+not changed. The Ministry of Justice does not endorse this repository.
+
+Lexifina's own contributions (the arrangement of the history, the commit messages, the tables and the tools) are
+dedicated to the public domain under CC0 1.0 Universal:
+https://creativecommons.org/publicdomain/zero/1.0/legalcode
