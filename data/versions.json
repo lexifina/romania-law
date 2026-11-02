@@ -39359,6 +39359,69 @@
    ]
   },
   {
+   "slug": "legea-212-2022",
+   "path": "lege/2022/212",
+   "short": "Legea nr. 212/2022",
+   "title": "Legea nr. 212/2022 privind unele măsuri pentru reducerea riscului seismic al clădirilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/257526",
+   "versions": [
+    {
+     "from": "2022-07-29",
+     "units": 38,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/257526",
+     "sha256": "d5217b292fddf8869002e3c8eb9976a0aff76502d74eeabcb8e4ce5fcc63b313"
+    },
+    {
+     "from": "2023-01-22",
+     "units": 38,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/263593",
+     "sha256": "db329e9716b7fa7a1ce45f5a31356cdb1d2bccc09a14fb025a6d38ed4f39f640"
+    },
+    {
+     "from": "2023-07-24",
+     "units": 38,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/268302",
+     "sha256": "7a06bfaa5a56babed6608388f08daed024dc64c340076247bf4ad862a91d3e7a"
+    },
+    {
+     "from": "2023-08-01",
+     "units": 38,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/269755",
+     "sha256": "ec69279b4adc15cb45c15803f70ebf43591a4c1425d519291ee9b9039c6a9de0"
+    },
+    {
+     "from": "2024-01-06",
+     "units": 38,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/269755",
+     "sha256": "ec69279b4adc15cb45c15803f70ebf43591a4c1425d519291ee9b9039c6a9de0"
+    },
+    {
+     "from": "2024-02-02",
+     "units": 38,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/269756",
+     "sha256": "9b9e926b0aca34141927f8a1cfe1d878666975f813b98a22106224be56fba265"
+    },
+    {
+     "from": "2025-05-15",
+     "units": 40,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/297188",
+     "sha256": "02028767aa83624794aeb8c90181c6e7f00b83f7dc5d441abc57b84a530db66f"
+    },
+    {
+     "from": "2025-10-02",
+     "units": 40,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/302187",
+     "sha256": "f7e073b5128437e5bb7bbe5323815c21dee7248bf35e77ba68919de1b0d74da2"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 43,
+     "source_url": "https://legislatie.just.ro/public/DetaliiDocument/257526",
+     "sha256": "0b6f5264ef51ae2db3e25b1b4da1b2193de918c54c482c6d2a6d6f690d7e34cf"
+    }
+   ]
+  },
+  {
    "slug": "legea-213-2023",
    "path": "lege/2023/213",
    "short": "Legea nr. 213/2023",
@@ -45905,6 +45968,39 @@
    ]
   },
   {
+   "slug": "oug-115-2020",
+   "path": "oug/2020/115",
+   "short": "OUG nr. 115/2020",
+   "title": "Ordonanța de urgență a Guvernului nr. 115/2020 privind unele măsuri pentru sprijinirea categoriilor de persoane cele mai defavorizate care beneficiază de mese calde pe bază de tichete sociale pe suport electronic pentru mese calde, acordate din fonduri externe nerambursabile, precum și unele măsuri de distribuire a acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/241374",
+   "versions": [
+    {
+     "from": "2020-07-17",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/227945",
+     "sha256": "ccb5e7e469b2c1bcaf4bad91385c781b0222c2c9b35a366cc8f7f2db9ffa654a"
+    },
+    {
+     "from": "2020-08-01",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/227945",
+     "sha256": "ccb5e7e469b2c1bcaf4bad91385c781b0222c2c9b35a366cc8f7f2db9ffa654a"
+    },
+    {
+     "from": "2020-10-16",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/230782",
+     "sha256": "728d0874e0ac3aa29a556f8ae39d8043abe30dae9ef86806060794380f09a010"
+    },
+    {
+     "from": "2021-05-02",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/241374",
+     "sha256": "31d8c60d8d4f48475e9d23c076c36f91ec8eed36cae43a917102b2272a337dc1"
+    }
+   ]
+  },
+  {
    "slug": "oug-115-2021",
    "path": "oug/2021/115",
    "short": "OUG nr. 115/2021",
@@ -46640,6 +46736,33 @@
    ]
   },
   {
+   "slug": "oug-133-2020",
+   "path": "oug/2020/133",
+   "short": "OUG nr. 133/2020",
+   "title": "Ordonanța de urgență a Guvernului nr. 133/2020 privind unele măsuri pentru sprijinirea categoriilor de elevi cei mai defavorizați care beneficiază de sprijin educațional pe bază de tichete sociale pe suport electronic pentru sprijin educațional acordate din fonduri externe nerambursabile, precum și unele măsuri de distribuire a acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/229056",
+   "versions": [
+    {
+     "from": "2020-08-12",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/229056",
+     "sha256": "f0655bb9a6f382cfed40298edc31cff521197ee3ca9fe2e9ec260852d65e0585"
+    },
+    {
+     "from": "2020-08-27",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/229056",
+     "sha256": "f0655bb9a6f382cfed40298edc31cff521197ee3ca9fe2e9ec260852d65e0585"
+    },
+    {
+     "from": "2021-06-30",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/229056",
+     "sha256": "d93f0605eb8b2451acc57a953abd7f40bdd44b572169316ce58510919234374c"
+    }
+   ]
+  },
+  {
    "slug": "oug-134-2022",
    "path": "oug/2022/134",
    "short": "OUG nr. 134/2022",
@@ -46687,6 +46810,33 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/255241",
      "sha256": "740763a69b26beb51e95363da0f82b85b6e7d28a208652a144747655920390b7"
+    }
+   ]
+  },
+  {
+   "slug": "oug-139-2020",
+   "path": "oug/2020/139",
+   "short": "OUG nr. 139/2020",
+   "title": "Ordonanța de urgență a Guvernului nr. 139/2020 privind instituirea cadrului legal pentru acordarea unor ajutoare de stat Societății \"Compania națională de transporturi aeriene române - TAROM\"- S.A. și Societății Blue Air Aviation - S.A. pentru compensarea pierderilor economice suferite în contextul pandemiei de COVID-19",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/229289",
+   "versions": [
+    {
+     "from": "2020-08-20",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/229289",
+     "sha256": "a1b6bb300df971efb99c8670d20fe83bd999df4c309a8dd06d90ff95a7d84827"
+    },
+    {
+     "from": "2020-10-02",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/230256",
+     "sha256": "5a7119d94909ef831a7b5cc8ef1b7bd9dc1d56ddb27ef5d37d3d1dd0abc96408"
+    },
+    {
+     "from": "2022-06-03",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/229289",
+     "sha256": "9c705f2524e51f558fcddb5fe2cf83c1a25027f674bd39cccdf603f773c4b1ff"
     }
    ]
   },
@@ -47020,6 +47170,27 @@
      "units": 68,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/293121",
      "sha256": "9e01de7aedfc619ecb879cf430eb5293ee40ed5e5e323b2ce30f76c253f332d4"
+    }
+   ]
+  },
+  {
+   "slug": "oug-159-2020",
+   "path": "oug/2020/159",
+   "short": "OUG nr. 159/2020",
+   "title": "Ordonanța de urgență a Guvernului nr. 159/2020 privind finanțarea întreprinderilor mici și mijlocii și domeniului HORECA pentru instalarea sistemelor de panouri fotovoltaice pentru producerea de energie electrică cu o putere instalată cuprinsă între 27 kWp și 100 kWp necesară consumului propriu și livrarea surplusului în Sistemul energetic național, precum și a stațiilor de reîncărcare de 22 kW pentru vehicule electrice și electrice hibrid plug-in, prin Programul de finanțare \"ELECTRIC UP\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/229836",
+   "versions": [
+    {
+     "from": "2020-09-08",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/229836",
+     "sha256": "cb8ffad3b4e681241c0c545d94a360fd637edcf1190b0eaf858a71027c993541"
+    },
+    {
+     "from": "2022-01-10",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/249609",
+     "sha256": "5d6acc58e968ff36c93eec85b2be8c83eacd63bf77729b134efa018b7b8d09f7"
     }
    ]
   },
@@ -48659,6 +48830,33 @@
    ]
   },
   {
+   "slug": "oug-38-2019",
+   "path": "oug/2019/38",
+   "short": "OUG nr. 38/2019",
+   "title": "Ordonanța de urgență a Guvernului nr. 38/2019 privind modificarea Ordonanței de urgență a Guvernului nr. 28/2013 pentru aprobarea Programului național de dezvoltare locală și pentru modificarea și completarea Legii nr. 411/2004 privind fondurile de pensii administrate privat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/246963",
+   "versions": [
+    {
+     "from": "2019-05-31",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/214620",
+     "sha256": "a631550301f99260f1ea20085ce1ebf0cdf0c7180cc2e3762fb77659389d61b2"
+    },
+    {
+     "from": "2020-01-09",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/221492",
+     "sha256": "a22f6d0da2661c130b976ab2da442e539f5aa0e4f50240d71023bcc5cb300e39"
+    },
+    {
+     "from": "2021-10-15",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/246963",
+     "sha256": "3a5389b47fb4dc4ef367ff16b9ae34173c00b7cd40affa3a92daeeea53bfaada"
+    }
+   ]
+  },
+  {
    "slug": "oug-38-2023",
    "path": "oug/2023/38",
    "short": "OUG nr. 38/2023",
@@ -48731,6 +48929,27 @@
    ]
   },
   {
+   "slug": "oug-39-2023",
+   "path": "oug/2023/39",
+   "short": "OUG nr. 39/2023",
+   "title": "Ordonanța de urgență a Guvernului nr. 39/2023 privind înființarea Oficiului de Film și Investiții Culturale, precum și pentru stabilirea unor măsuri instituționale referitoare la gestionarea schemei de ajutor de stat pentru sprijinirea culturii de film și producției de film în România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/270713",
+   "versions": [
+    {
+     "from": "2023-05-25",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/270713",
+     "sha256": "785f3c842122bcd1c1d454f69a27d3ad3a6faa4af2e45795e8cab45279512e45"
+    },
+    {
+     "from": "2024-03-29",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270713",
+     "sha256": "d781942394479a5d5194b6cc15fc757855f18c871e302bdf5607f6f0ab2699a8"
+    }
+   ]
+  },
+  {
    "slug": "oug-4-2025",
    "path": "oug/2025/4",
    "short": "OUG nr. 4/2025",
@@ -48772,6 +48991,33 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/301385",
      "sha256": "e723bb5aa95bbebbef7ff893c276fe10b3614561c5988790d726a61590faf988"
+    }
+   ]
+  },
+  {
+   "slug": "oug-41-2010",
+   "path": "oug/2010/41",
+   "short": "OUG nr. 41/2010",
+   "title": "Ordonanța de urgență a Guvernului nr. 41/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/118274",
+   "versions": [
+    {
+     "from": "2010-04-28",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/118274",
+     "sha256": "c83e1a521aa36bf95fda53f289114e827767cb7102a1090024e8864554b823f3"
+    },
+    {
+     "from": "2011-03-07",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/126746",
+     "sha256": "c2e2771ab198a84fd8c47cc7dec275b4a90dbf9ebdb10261611e002c93a42eea"
+    },
+    {
+     "from": "2023-01-22",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/118274",
+     "sha256": "1937d3cac0de4f25c49eb2326ff9e623bcab8d836810b66c218b3911fb71e97b"
     }
    ]
   },
@@ -50036,6 +50282,33 @@
    ]
   },
   {
+   "slug": "oug-7-2024",
+   "path": "oug/2024/7",
+   "short": "OUG nr. 7/2024",
+   "title": "Ordonanța de urgență a Guvernului nr. 7/2024 privind aprobarea schemei de ajutor de stat \"Creditul fermierului\", în contextul crizei provocate de agresiunea Rusiei împotriva Ucrainei, precum și pentru modificarea art. 12 alin. (1) din Legea nr. 218/2005 privind stimularea absorbției fondurilor alocate României pentru agricultură, dezvoltare rurală, pescuit și afaceri maritime, gestionate de Ministerul Agriculturii și Dezvoltării Rurale, prin instrumente financiare de garantare și creditare, precum și pentru susținerea obiectivelor naționale de politică agricolă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/289464",
+   "versions": [
+    {
+     "from": "2024-02-09",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/278935",
+     "sha256": "4bbac82584310a59fe66b67f9a61f63cec073721091d279806da6301077c50de"
+    },
+    {
+     "from": "2024-06-25",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/284269",
+     "sha256": "e39a0fe53c639e0405e28e212ea25a17af1c0091823c2873d842debe1b2798db"
+    },
+    {
+     "from": "2024-10-16",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/289464",
+     "sha256": "0c054da49d10de95506735a44e19fe6163c91de835ab921ca46d48ceca0bd87c"
+    }
+   ]
+  },
+  {
    "slug": "oug-7-2025",
    "path": "oug/2025/7",
    "short": "OUG nr. 7/2025",
@@ -50863,6 +51136,45 @@
      "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/284692",
      "sha256": "f114f752d9116bdb3c68fde9697d4e2e79613706eab48b709f88d0b5cfdd761a"
+    }
+   ]
+  },
+  {
+   "slug": "oug-9-2001",
+   "path": "oug/2001/9",
+   "short": "OUG nr. 9/2001",
+   "title": "Ordonanța de urgență a Guvernului nr. 9/2001",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/26233",
+   "versions": [
+    {
+     "from": "2001-01-19",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/26233",
+     "sha256": "52a34d602c20a38f2703f981f97014b58f32aa9f866181c81e42aec76be8c43f"
+    },
+    {
+     "from": "2001-10-30",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/244772",
+     "sha256": "ef89f937393de6b9a06de885a4494a9a501452810157e033d1b073bce6d0460d"
+    },
+    {
+     "from": "2002-04-22",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/244772",
+     "sha256": "ef89f937393de6b9a06de885a4494a9a501452810157e033d1b073bce6d0460d"
+    },
+    {
+     "from": "2002-12-09",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/244772",
+     "sha256": "ef89f937393de6b9a06de885a4494a9a501452810157e033d1b073bce6d0460d"
+    },
+    {
+     "from": "2011-02-15",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/244772",
+     "sha256": "ef89f937393de6b9a06de885a4494a9a501452810157e033d1b073bce6d0460d"
     }
    ]
   },

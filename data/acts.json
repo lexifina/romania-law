@@ -6275,6 +6275,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/257468"
 },
 {
+"slug": "legea-212-2022",
+"path": "lege/2022/212",
+"kind": "lege",
+"year": "2022",
+"number": "212",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 212/2022 privind unele măsuri pentru reducerea riscului seismic al clădirilor",
+"short": "Legea nr. 212/2022",
+"code": null,
+"status": "in force",
+"versions": 9,
+"from": "2022-07-29",
+"latest": "2026-01-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/257526"
+},
+{
 "slug": "legea-216-2022",
 "path": "lege/2022/216",
 "kind": "lege",
@@ -11307,6 +11324,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/244742"
 },
 {
+"slug": "oug-9-2001",
+"path": "oug/2001/9",
+"kind": "oug",
+"year": "2001",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 9/2001",
+"short": "OUG nr. 9/2001",
+"code": null,
+"status": "in force",
+"versions": 5,
+"from": "2001-01-19",
+"latest": "2011-02-15",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/26233"
+},
+{
 "slug": "oug-99-2001",
 "path": "oug/2001/99",
 "kind": "oug",
@@ -11730,6 +11764,23 @@
 "from": "2010-01-14",
 "latest": "2022-11-26",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/115004"
+},
+{
+"slug": "oug-41-2010",
+"path": "oug/2010/41",
+"kind": "oug",
+"year": "2010",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 41/2010",
+"short": "OUG nr. 41/2010",
+"code": null,
+"status": "in force",
+"versions": 3,
+"from": "2010-04-28",
+"latest": "2023-01-22",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/118274"
 },
 {
 "slug": "oug-50-2010",
@@ -12565,6 +12616,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/261101"
 },
 {
+"slug": "oug-38-2019",
+"path": "oug/2019/38",
+"kind": "oug",
+"year": "2019",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 38/2019 privind modificarea Ordonanței de urgență a Guvernului nr. 28/2013 pentru aprobarea Programului național de dezvoltare locală și pentru modificarea și completarea Legii nr. 411/2004 privind fondurile de pensii administrate privat",
+"short": "OUG nr. 38/2019",
+"code": null,
+"status": "amending act",
+"versions": 3,
+"from": "2019-05-31",
+"latest": "2021-10-15",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/246963"
+},
+{
 "slug": "oug-55-2019",
 "path": "oug/2019/55",
 "kind": "oug",
@@ -12769,6 +12837,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/253957"
 },
 {
+"slug": "oug-115-2020",
+"path": "oug/2020/115",
+"kind": "oug",
+"year": "2020",
+"number": "115",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 115/2020 privind unele măsuri pentru sprijinirea categoriilor de persoane cele mai defavorizate care beneficiază de mese calde pe bază de tichete sociale pe suport electronic pentru mese calde, acordate din fonduri externe nerambursabile, precum și unele măsuri de distribuire a acestora",
+"short": "OUG nr. 115/2020",
+"code": null,
+"status": "in force",
+"versions": 4,
+"from": "2020-07-17",
+"latest": "2021-05-02",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/241374"
+},
+{
 "slug": "oug-116-2020",
 "path": "oug/2020/116",
 "kind": "oug",
@@ -12803,6 +12888,40 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/229025"
 },
 {
+"slug": "oug-133-2020",
+"path": "oug/2020/133",
+"kind": "oug",
+"year": "2020",
+"number": "133",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 133/2020 privind unele măsuri pentru sprijinirea categoriilor de elevi cei mai defavorizați care beneficiază de sprijin educațional pe bază de tichete sociale pe suport electronic pentru sprijin educațional acordate din fonduri externe nerambursabile, precum și unele măsuri de distribuire a acestora",
+"short": "OUG nr. 133/2020",
+"code": null,
+"status": "in force",
+"versions": 3,
+"from": "2020-08-12",
+"latest": "2021-06-30",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/229056"
+},
+{
+"slug": "oug-139-2020",
+"path": "oug/2020/139",
+"kind": "oug",
+"year": "2020",
+"number": "139",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 139/2020 privind instituirea cadrului legal pentru acordarea unor ajutoare de stat Societății \"Compania națională de transporturi aeriene române - TAROM\"- S.A. și Societății Blue Air Aviation - S.A. pentru compensarea pierderilor economice suferite în contextul pandemiei de COVID-19",
+"short": "OUG nr. 139/2020",
+"code": null,
+"status": "in force",
+"versions": 3,
+"from": "2020-08-20",
+"latest": "2022-06-03",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/229289"
+},
+{
 "slug": "oug-141-2020",
 "path": "oug/2020/141",
 "kind": "oug",
@@ -12835,6 +12954,23 @@
 "from": "2020-09-02",
 "latest": "2021-03-15",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/237952"
+},
+{
+"slug": "oug-159-2020",
+"path": "oug/2020/159",
+"kind": "oug",
+"year": "2020",
+"number": "159",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 159/2020 privind finanțarea întreprinderilor mici și mijlocii și domeniului HORECA pentru instalarea sistemelor de panouri fotovoltaice pentru producerea de energie electrică cu o putere instalată cuprinsă între 27 kWp și 100 kWp necesară consumului propriu și livrarea surplusului în Sistemul energetic național, precum și a stațiilor de reîncărcare de 22 kW pentru vehicule electrice și electrice hibrid plug-in, prin Programul de finanțare \"ELECTRIC UP\"",
+"short": "OUG nr. 159/2020",
+"code": null,
+"status": "in force",
+"versions": 2,
+"from": "2020-09-08",
+"latest": "2022-01-10",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/229836"
 },
 {
 "slug": "oug-167-2020",
@@ -15744,6 +15880,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/270712"
 },
 {
+"slug": "oug-39-2023",
+"path": "oug/2023/39",
+"kind": "oug",
+"year": "2023",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 39/2023 privind înființarea Oficiului de Film și Investiții Culturale, precum și pentru stabilirea unor măsuri instituționale referitoare la gestionarea schemei de ajutor de stat pentru sprijinirea culturii de film și producției de film în România",
+"short": "OUG nr. 39/2023",
+"code": null,
+"status": "in force",
+"versions": 2,
+"from": "2023-05-25",
+"latest": "2024-03-29",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/270713"
+},
+{
 "slug": "oug-40-2023",
 "path": "oug/2023/40",
 "kind": "oug",
@@ -16405,6 +16558,23 @@
 "from": "2024-01-31",
 "latest": "2024-03-31",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/278746"
+},
+{
+"slug": "oug-7-2024",
+"path": "oug/2024/7",
+"kind": "oug",
+"year": "2024",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 7/2024 privind aprobarea schemei de ajutor de stat \"Creditul fermierului\", în contextul crizei provocate de agresiunea Rusiei împotriva Ucrainei, precum și pentru modificarea art. 12 alin. (1) din Legea nr. 218/2005 privind stimularea absorbției fondurilor alocate României pentru agricultură, dezvoltare rurală, pescuit și afaceri maritime, gestionate de Ministerul Agriculturii și Dezvoltării Rurale, prin instrumente financiare de garantare și creditare, precum și pentru susținerea obiectivelor naționale de politică agricolă",
+"short": "OUG nr. 7/2024",
+"code": null,
+"status": "amending act",
+"versions": 3,
+"from": "2024-02-09",
+"latest": "2024-10-16",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/289464"
 },
 {
 "slug": "oug-10-2024",
