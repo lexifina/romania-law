@@ -174,3 +174,13 @@ Legea nr. 360/2023 · 1 versions, from 2024-09-01 (latest in force: 2024-09-01) 
 | Art. 168 | [art-168.md](art-168.md) | 0 |  |
 | Art. 169 | [art-169.md](art-169.md) | 0 |  |
 | Art. 170 | [art-170.md](art-170.md) | 0 |  |
+
+Act id: `legea-360-2023` (tags `legea-360-2023/<day>`; `python tools/on.py <day> legea-360-2023`).
+
+## Decisions made by hand
+
+- Legea nr. 360/2023: added 2026-11-02, one of the Portalul legislativ's consolidated forms per version, as for the other acts. A capture was used only if it was complete and the page showed the form its document id stands for. The forms are those listed by DetaliiDocument/276927 as captured on 2026-02-10, the newest capture of any of the act's pages: 2 forms, 2 held.
+- Legea nr. 360/2023: the newest form held is that of 28.07.2025; amendments in force after it may be missing.
+- Legea nr. 360/2023: the first version is the law as published in Monitorul Oficial nr. 1089 of 4 December 2023 (DetaliiDocumentAfis/276927), in force on 1 September 2024 (its art. 167), save art. 46 alin. (2), art. 84 alin. (6), art. 127, art. 168 alin. (2) and art. 169, which took effect on 1 January 2024; they are shown from 1 September 2024 with the rest of the law. The portal's first form is of 31 December 2024, so the changes made up to then would arrive together that day.
+- Legea nr. 360/2023: the forms of 31 December 2024 and 28 July 2025 print every article as published and add only the portal's notes: OUG nr. 156/2024 art. XVII (the reference point of art. 83 alin. (1) kept at 81 lei in 2025, art. 84 alin. (3)-(5), (7) and (8) applied from 2026) and Legea nr. 141/2025 art. XXXI (the same for 2026 and from 2027), Legea nr. 10/2025 art. 22 (death grant amounts), the reference to HG nr. 48/2025, and the "Decizie de respingere" notes naming Hotărârile Parlamentului nr. 307/2025, 319/2025, 370/2025, 382/2025 and 396/2025. No article text changes, so neither form adds a version; the annexes are not articles and are not read.
+- Legea nr. 360/2023: forms with no change after normalisation, so no version: 2024-12-31 (292700), 2025-07-28 (300070).

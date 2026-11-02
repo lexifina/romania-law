@@ -69,3 +69,14 @@ OUG nr. 77/2014 · 8 versions, from 2015-01-01 (latest in force: 2024-07-29) · 
 | Art. 49 | [art-049.md](art-049.md) | 1 | 2015-03-09 |
 | Art. 50 | [art-050.md](art-050.md) | 2 | 2015-03-13 |
 | Art. 51 | [art-051.md](art-051.md) | 2 | 2015-03-13 |
+
+Act id: `oug-77-2014` (tags `oug-77-2014/<day>`; `python tools/on.py <day> oug-77-2014`).
+
+## Decisions made by hand
+
+- OUG nr. 77/2014: added 2026-11-02, one of the Portalul legislativ's consolidated forms per version, as for the other acts. A capture was used only if it was complete and the page showed the form its document id stands for. The forms are those listed by DetaliiDocumentAfis/163659 as captured on 2026-01-18, the newest capture of any of the act's pages: 7 forms, 7 held.
+- OUG nr. 77/2014: the newest form held is that of 29.07.2024; amendments in force after it may be missing.
+- OUG nr. 77/2014: the first version is the emergency ordinance as published in Monitorul Oficial nr. 893 of 9 December 2014 (DetaliiDocumentAfis/163659), dated 1 January 2015, when its arts. 1-49 take effect (its art. 51 alin. (1)). Arts. 50 (which amends Legea concurenței nr. 21/1996) and 51 took effect on publication, 9 December 2014; they are shown from 1 January 2015 with the rest.
+- OUG nr. 77/2014: the portal's form of 29 December 2014 is the text as rectified in Monitorul Oficial nr. 954 of 29 December 2014, published before arts. 1-49 took effect. It is read as of 1 January 2015, the same day as the text as published and after it, so the rectified text is the one in force from that day; its changes are credited to the rectification, as the portal's notes say.
+- OUG nr. 77/2014: art. 50 quotes the articles of Legea nr. 21/1996 it rewrites; the quoted articles are kept as art. 50's text.
+- OUG nr. 77/2014: 6 changed article(s) with no note naming a law, committed as the publisher's: 2015-01-01 art-050, 2015-01-01 art-051, 2015-03-09 art-030, 2015-03-13 art-030, 2015-03-13 art-050, 2015-03-13 art-051.

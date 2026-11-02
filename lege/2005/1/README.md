@@ -127,3 +127,15 @@ Legea nr. 1/2005 · 7 versions, from 2005-03-03 (latest in force: 2018-07-15) ·
 | Art. 121 | [art-121.md](art-121.md) | 1 | 2014-05-20 |
 | Art. 122 | [art-122.md](art-122.md) | 0 |  |
 | Art. 123 | [art-123.md](art-123.md) | 2 | 2018-07-15 |
+
+Act id: `legea-1-2005` (tags `legea-1-2005/<day>`; `python tools/on.py <day> legea-1-2005`).
+
+## Decisions made by hand
+
+- Legea nr. 1/2005: added 2026-11-02, one of the Portalul legislativ's consolidated forms per version, as for the other acts. A capture was used only if it was complete and the page showed the form its document id stands for. The forms are those listed by DetaliiDocumentAfis/59553 as captured on 2026-02-10, the newest capture of any of the act's pages: 8 forms, 8 held.
+- Legea nr. 1/2005: the newest form held is that of 15.07.2018; amendments in force after it may be missing.
+- Legea nr. 1/2005: the first version is the law as published in Monitorul Oficial nr. 172 of 28 February 2005 (DetaliiDocumentAfis/59553), dated 3 March 2005: it sets no in-force day of its own, so 3 days after publication (Constituția art. 78). The portal's first consolidated form is of 22 July 2009, so the changes made up to then arrive together that day.
+- Legea nr. 1/2005: the republication of 20 May 2014 (art. 248 of Legea nr. 187/2012), read from its own page (DetaliiDocumentAfis/158338), is a version of its own; changes on that day that no note explains are credited to the act that ordered the republication, as its note says.
+- Legea nr. 1/2005: the portal editorial notes printed as paragraphs of an article (on a Constitutional Court ruling, a rectification, a provision put back in force) are not text: 10 such paragraphs across all forms, for example «* A se vedea Hotărârea Guvernului nr. 430/2013 privind organ», «* Curtea Constituțională, prin Decizia nr. 913/2009, publica», «Conform art. 147 alin. (1) din CONSTITUȚIA ROMÂNIEI republic».
+- Legea nr. 1/2005: 2 changed article(s) with no note naming a law, committed as the publisher's: 2018-07-15 art-110, 2018-07-15 art-123.
+- Legea nr. 1/2005: forms with no change after normalisation, so no version: 2009-07-22 (110318), 2009-09-06 (128628).

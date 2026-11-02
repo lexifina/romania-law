@@ -203,3 +203,15 @@ Legea nr. 237/2015 · 11 versions, from 2016-01-01 (latest in force: 2025-12-19)
 | Art. 180 | [art-180.md](art-180.md) | 0 |  |
 | Art. 181 | [art-181.md](art-181.md) | 0 |  |
 | Art. 182 | [art-182.md](art-182.md) | 0 |  |
+
+Act id: `legea-237-2015` (tags `legea-237-2015/<day>`; `python tools/on.py <day> legea-237-2015`).
+
+## Decisions made by hand
+
+- Legea nr. 237/2015: added 2026-11-02, one of the Portalul legislativ's consolidated forms per version, as for the other acts. A capture was used only if it was complete and the page showed the form its document id stands for. The forms are those listed by DetaliiDocumentAfis/305297 as captured on 2026-02-18, the newest capture of any of the act's pages: 11 forms, 10 held.
+- Legea nr. 237/2015: the newest form held is that of 19.12.2025; amendments in force after it may be missing.
+- Legea nr. 237/2015: forms listed by the portal that could not be read (in neither archive), so not versions; their changes arrive with the next form held and take its date, though their notes give the earlier day: 22.11.2025 (303283).
+- Legea nr. 237/2015: the first version is the law as published in Monitorul Oficial nr. 800 of 28 October 2015 (DetaliiDocumentAfis/172402), dated 1 January 2016, when it takes effect (its art. 182). Art. 166 alin. (1)-(3) took effect 3 days after publication (31 October 2015); it is shown from 1 January 2016 with the rest of the law. Its annexes are not articles and are not read.
+- Legea nr. 237/2015: the law as published prints its EU-transposition note ("*", "Prezenta lege transpune: 1. ... 3. ...") as the last lines of art. 182; it is not an article's text and is left out, as in the portal's forms.
+- Legea nr. 237/2015: art. 180 quotes the articles of Legea nr. 32/2000 it rewrites; the quoted articles are kept as art. 180's text.
+- Legea nr. 237/2015: the portal's form of 19 January 2024 (269869) prints art. 110^1, inserted by Legea nr. 17/2024 art. I pct. 16, as an article, though its own note in that form says the insertion applies from 15 February 2024 (art. V alin. (1) of that law). Under the rule for text printed before its law, art. 110^1 is left out of that form; it arrives with the form of 15 February 2024, credited to Legea nr. 17/2024 by that form's note.

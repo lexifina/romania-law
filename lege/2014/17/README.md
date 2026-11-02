@@ -35,3 +35,14 @@ Legea nr. 17/2014 Â· 7 versions, from 2014-04-11 (latest in force: 2024-05-03) Â
 | Art. 25 | [art-025.md](art-025.md) | 2 | 2020-10-13 |
 | Art. 26 | [art-026.md](art-026.md) | 2 | 2020-10-13 |
 | Art. 27 | [art-027.md](art-027.md) | 2 | 2020-10-13 |
+
+Act id: `legea-17-2014` (tags `legea-17-2014/<day>`; `python tools/on.py <day> legea-17-2014`).
+
+## Decisions made by hand
+
+- Legea nr. 17/2014: added 2026-11-02, one of the Portalul legislativ's consolidated forms per version, as for the other acts. A capture was used only if it was complete and the page showed the form its document id stands for. The forms are those listed by DetaliiDocument/156290 as captured on 2026-01-15, the newest capture of any of the act's pages: 7 forms, 7 held.
+- Legea nr. 17/2014: the newest form held is that of 03.05.2024; amendments in force after it may be missing.
+- Legea nr. 17/2014: the first version is the law as published in Monitorul Oficial nr. 178 of 12 March 2014 (DetaliiDocumentAfis/156290), in force 30 days after publication (its art. 21 alin. (2)): 11 April 2014.
+- Legea nr. 17/2014: articles already shown repealed that a later form prints again as "Abrogat" are typesetting, committed as the publisher's: 13.10.2020 art-023, 13.10.2020 art-024, 13.10.2020 art-025, 13.10.2020 art-026, 13.10.2020 art-027.
+- Legea nr. 17/2014: 2 changed article(s) with no note naming a law, committed as the publisher's: 2017-06-11 art-005, 2020-10-13 art-022.
+- Legea nr. 17/2014: forms with no change after normalisation, so no version: 2015-02-09 (165647).

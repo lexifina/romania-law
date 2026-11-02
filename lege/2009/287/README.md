@@ -2678,3 +2678,14 @@ Codul civil · 13 versions, from 2011-10-01 (latest in force: 2026-05-03) · <ht
 | Art. 2662 | [art-2662.md](art-2662.md) | 1 | 2011-10-01 |
 | Art. 2663 | [art-2663.md](art-2663.md) | 0 |  |
 | Art. 2664 | [art-2664.md](art-2664.md) | 1 | 2011-10-01 |
+
+Act id: `codul-civil` (tags `codul-civil/<day>`; `python tools/on.py <day> codul-civil`).
+
+## Decisions made by hand
+
+- Codul civil: the first version is the code as published in 2009 (DetaliiDocumentAfis/109884), dated 1 October 2011, followed the same day by the republished text in force from that day (form 01.10.2011); changes no article note explains are credited to Legea nr. 71/2011, which ordered the republication, as the portal's own note on the code does.
+- Codul civil, 2009 text: the portal prints arts. 1.251, 2.367 and 2.374 as plain paragraphs inside the article before them ("ART.1.251", "Art. 2.367") and art. 2.655 as bare paragraphs ("ART 2.655"); each is given its own file. Art. 2.448 is run into the last paragraph of art. 2.447 mid-line, and is left as the portal prints it, so art-2448 first appears on 1 October 2011.
+- Codul civil: the newest capture of the 2009 text (20251206132336) is cut off at 5 MiB, so the newest complete one (20250413082055) is used. The newest form (03.05.2026, id 309285) has no capture of its own; the act's page 109884 shows that form and was captured on 25 June 2026 (20260625171643). Page 130143 (listed as the 2011 republication) also shows the 03.05.2026 form in its capture of 7 July 2026; the two are checked to agree article by article.
+- Codul civil: 1 changed article(s) with no note naming a law, committed as the publisher's: 2018-10-03 art-0253.
+- Codul civil: forms with no change after normalisation, so no version: 2016-07-04 (179824), 2018-11-17 (210104), 2021-01-27 (236336), 2024-05-10 (282147), 2024-10-07 (288566).
+- Codul civil: cross-check passed, the 03.05.2026 form read from two captures (109884@20260625171643 and 130143@20260707145226) is identical in all 2674 articles.

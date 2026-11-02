@@ -72,3 +72,16 @@ Legea nr. 218/2002 · 15 versions, from 2002-05-09 (latest in force: 2022-08-25)
 | Art. 66 | [art-066.md](art-066.md) | 1 | 2020-03-02 |
 | Art. 67 | [art-067.md](art-067.md) | 1 | 2020-03-02 |
 | Art. 68 | [art-068.md](art-068.md) | 1 | 2020-03-02 |
+
+Act id: `legea-218-2002` (tags `legea-218-2002/<day>`; `python tools/on.py <day> legea-218-2002`).
+
+## Decisions made by hand
+
+- Legea nr. 218/2002: added 2026-11-02, one of the Portalul legislativ's consolidated forms per version, as for the other acts. A capture was used only if it was complete and the page showed the form its document id stands for. The forms are those listed by DetaliiDocument/35841 as captured on 2026-02-14 (Internet Archive), the newest capture of any of the act's pages: 14 forms, 14 held.
+- Legea nr. 218/2002: the newest form held is that of 25.08.2022; amendments in force after it may be missing.
+- Legea nr. 218/2002: the first version is the law as published in Monitorul Oficial nr. 305 of 9 May 2002 (DetaliiDocumentAfis/35841), dated that day: the law sets no day of its own, so it took effect on publication.
+- Legea nr. 218/2002: the portal holds no consolidated form before 1 July 2003, so the changes made between the law as published and that form arrive together that day.
+- Legea nr. 218/2002: the republications of 25 April 2014 (art. 107 alin. (3) of Legea nr. 255/2013, enacted 19 July 2013, published in Monitorul Oficial nr. 515 of 14 August 2013) and 2 March 2020 (art. V of Legea nr. 192/2019, published in Monitorul Oficial nr. 868 of 28 October 2019), each with renumbered articles, are read from their own pages (DetaliiDocumentAfis/157719 and 223421); changes on those days that no note explains are credited to the law that ordered the republication, as each republication note says.
+- Legea nr. 218/2002: the forms of 1 July 2003 and 5 March 2018 differ from the form before them in spelling, diacritics and list layout (for example "îndrumă" / "îndruma", "inlaturare" / "înlăturare") that no note explains; those changes are the publisher's, labelled unexplained.
+- Legea nr. 218/2002: the portal editorial notes printed as paragraphs of an article (on a Constitutional Court ruling, a rectification, a provision put back in force) are not text: 15 such paragraphs across all forms, for example «* A se vedea Hotărârea Guvernului nr. 1.061/2002 privind sta», «* A se vedea Legea nr. 360/2002 privind Statutul polițistulu», «* Prezenta lege a fost publicată în Monitorul Oficial al Rom».
+- Legea nr. 218/2002: 16 changed article(s) with no note naming a law, committed as the publisher's: 2003-07-01 art-007, 2003-07-01 art-018, 2003-07-01 art-022, 2003-07-01 art-026, 2003-07-01 art-028, 2003-07-01 art-031, 2003-07-01 art-034, 2003-07-01 art-035, 2003-07-01 art-037, 2003-07-01 art-039, 2003-07-01 art-040, 2003-07-01 art-041, 2003-07-01 art-042, 2003-07-01 art-043, 2003-07-01 art-047, 2018-03-05 art-005.

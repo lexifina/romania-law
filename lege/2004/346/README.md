@@ -47,3 +47,14 @@ Legea nr. 346/2004 · 20 versions, from 2004-08-01 (latest in force: 2025-12-12)
 | Art. 32 | [art-032.md](art-032.md) | 3 | 2009-11-30 |
 | Art. 33 | [art-033.md](art-033.md) | 2 | 2009-11-30 |
 | Art. 34 | [art-034.md](art-034.md) | 0 |  |
+
+Act id: `legea-346-2004` (tags `legea-346-2004/<day>`; `python tools/on.py <day> legea-346-2004`).
+
+## Decisions made by hand
+
+- Legea nr. 346/2004: added 2026-11-02, one of the Portalul legislativ's consolidated forms per version, as for the other acts. A capture was used only if it was complete and the page showed the form its document id stands for. The forms are those listed by DetaliiDocument/146609 as captured on 2026-02-19, the newest capture of any of the act's pages: 19 forms, 19 held.
+- Legea nr. 346/2004: the newest form held is that of 12.12.2025; amendments in force after it may be missing.
+- Legea nr. 346/2004: the first version is the law as published in Monitorul Oficial nr. 681 of 29 July 2004 (DetaliiDocumentAfis/53946), dated 1 August 2004: it sets no in-force day of its own, so 3 days after publication (Constituția art. 78). The portal's first consolidated form is of 27 August 2004, so the changes made up to then arrive together that day.
+- Legea nr. 346/2004: changes whose notes give an in-force day between two forms the portal holds are dated by the note, with the later form's text for those articles: 2019-06-28 (art-025-1, art-031; form 17.02.2022).
+- Legea nr. 346/2004: the portal editorial notes printed as paragraphs of an article (on a Constitutional Court ruling, a rectification, a provision put back in force) are not text: 4 such paragraphs across all forms, for example «Alin. (3) al art. 25 a fost modificat de pct. 6 al articolul», «Alin. (5) al art. 26 a fost abrogat de pct. 1 al art. XXIX d».
+- Legea nr. 346/2004: 7 changed article(s) with no note naming a law, committed as the publisher's: 2007-12-10 art-026-1, 2009-05-23 art-026-1, 2012-12-22 art-018, 2012-12-22 art-026-1, 2014-05-09 art-012, 2016-09-22 art-003, 2016-09-22 art-026.

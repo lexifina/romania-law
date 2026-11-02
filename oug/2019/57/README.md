@@ -698,3 +698,18 @@ Codul administrativ · 46 versions, from 2019-07-05 (latest in force: 2026-03-30
 | Art. 636 | [art-636.md](art-636.md) | 0 |  |
 | Art. 637 | [art-637.md](art-637.md) | 0 |  |
 | Art. 638 | [art-638.md](art-638.md) | 0 |  |
+
+Act id: `codul-administrativ` (tags `codul-administrativ/<day>`; `python tools/on.py <day> codul-administrativ`).
+
+## Decisions made by hand
+
+- Codul administrativ: Phase 3 act, one of the Portalul legislativ's consolidated forms per version, as for the Phase 1 acts. A capture was used only if it was complete and the page showed the form its document id stands for.
+- Codul administrativ: the newest form held is that of 30.03.2026 (the act page's capture 20260509074734 lists no later form); amendments in force after it may be missing.
+- Codul administrativ: forms never captured under their own id, read instead from a capture of the act page 215925 made while each was the newest form (the page marks the form it shows): 14.03.2026 (307702) at 20260314102748.
+- Codul administrativ: the first version is the code as published in Monitorul Oficial nr. 555 of 5 July 2019 (DetaliiDocumentAfis/215925), in force that day under its art. 597 alin. (1); the provisions that article puts in force later (30 or 60 days after, 1 January 2020, 1 January 2022, the 2020 local elections, 180 days after for annex 1) are shown from 5 July 2019 too.
+- Codul administrativ: its annexes (including methodologies and rules with articles of their own) are not included; the units are the code's articles.
+- Codul administrativ: changes a form prints before the in-force day its own notes give are dated by the notes (the earlier text stands until then): 2023-11-01 (art-063, art-390; printed in the form of 30.10.2023).
+- Codul administrativ: the portal editorial notes printed as paragraphs of an article (on a Constitutional Court ruling, a rectification, a provision put back in force) are not text: 1 such paragraphs across all forms, for example «Articolul II din LEGEA nr. 375 din 23 decembrie 2022, public».
+- Codul administrativ: notes dated before their form while every other note on the same amending law in that form gives the form's date (a slip on the portal); the change takes the form's date: art-529 (2022-10-22, form 2022-11-11).
+- Codul administrativ: 10 changed article(s) with no note naming a law, committed as the publisher's: 2019-09-12 art-171, 2019-09-12 art-383, 2020-04-08 art-046, 2020-04-08 art-173, 2020-05-12 art-383, 2021-12-29 art-510, 2021-12-29 art-571, 2023-04-06 art-091-1, 2023-05-15 art-510, 2026-02-25 art-398.
+- Codul administrativ: forms with no change after normalisation, so no version: 2020-01-09 (221496), 2021-01-01 (234870), 2021-04-07 (240486), 2021-05-22 (242561), 2021-12-18 (249393), 2022-12-09 (262028), 2024-03-18 (279849), 2024-06-25 (284280), 2024-12-31 (292657), 2025-07-28 (300038).

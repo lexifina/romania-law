@@ -263,3 +263,21 @@ OUG nr. 111/2011 · 21 versions, from 2011-12-27 (latest in force: 2024-12-31) �
 | Art. 158 | [art-158.md](art-158.md) | 2 | 2016-07-28 |
 | Art. 159 | [art-159.md](art-159.md) | 1 | 2016-07-28 |
 | Art. 160 | [art-160.md](art-160.md) | 1 | 2012-07-26 |
+
+Act id: `oug-111-2011` (tags `oug-111-2011/<day>`; `python tools/on.py <day> oug-111-2011`).
+
+## Decisions made by hand
+
+- OUG nr. 111/2011: added 2026-11-02, one of the Portalul legislativ's consolidated forms per version, as for the other acts. A capture was used only if it was complete and the page showed the form its document id stands for. The forms are those listed by DetaliiDocumentAfis/134098 as captured on 2026-02-08, the newest capture of any of the act's pages: 19 forms, 19 held.
+- OUG nr. 111/2011: the newest form held is that of 31.12.2024; amendments in force after it may be missing.
+- OUG nr. 111/2011: the first version is the emergency ordinance as published in Monitorul Oficial nr. 925 of 27 December 2011 (DetaliiDocumentAfis/134098), dated 27 December 2011: it sets no in-force day of its own for the whole, so in force on publication. Its art. 160 alin. (1) puts art. 50 alin. (1)-(3), art. 51 alin. (1)-(5), arts. 53-58 and art. 60 alin. (1)-(4) in force 60 days after publication; they are shown from the first day with the rest of the text.
+- OUG nr. 111/2011: the portal's first consolidated form is of 26 July 2012, so the changes made up to then arrive together that day.
+- OUG nr. 111/2011: its annexes (Anexele nr. 1 and 2, art. 157) are not articles and are not read.
+- OUG nr. 111/2011: the base text prints the Government's signature block ("PRIM-MINISTRU", the countersigning ministers) inside art. 160, and the forms from 2016 print the law's mention of the directives it transposes (a "*" line and a list of "prevederile art. ...") after it; neither is the article's text, and both are left out.
+- OUG nr. 111/2011: the form of 28 May 2022 prints "bunuri" ("bun") for "produse" ("produs") in arts. 4, 51, 53, 55, 56, 59^1, 59^2, 59^4, 59^8, 92, 126 and 142 with no note naming the act that made the change (in art. 126 the word is "produsul dintre procentul ...", which becomes "bunul dintre procentul ..."); those changes are the publisher's and are kept as printed.
+- OUG nr. 111/2011: the forms of 26 July 2012 and 13 June 2014 print the headings of paragraphs ("PARAGRAFUL 1", "Cadrul general", "Încheierea contractelor la distanță", "Asigurarea accesului și interconectării" and the like) as lines of the article next to them (arts. 50-52 and 99-105); they are headings, not article text, and are left out.
+- OUG nr. 111/2011: changes a form prints before the in-force day its own notes give are dated by the notes (the earlier text stands until then): 2022-08-09 (art-142; printed in the form of 10.07.2022).
+- OUG nr. 111/2011: changes whose notes give an in-force day between two forms the portal holds are dated by the note, with the later form's text for those articles: 2022-08-09 (art-142; form 27.07.2023).
+- OUG nr. 111/2011: the portal editorial notes printed as paragraphs of an article (on a Constitutional Court ruling, a rectification, a provision put back in force) are not text: 1 such paragraphs across all forms, for example «Conform alin. (5) al art. 29, Cap. VII din ORDONANȚA DE URGE».
+- OUG nr. 111/2011: 26 changed article(s) with no note naming a law, committed as the publisher's: 2014-06-13 art-028, 2014-06-13 art-031, 2014-06-13 art-061, 2014-06-13 art-092, 2014-06-13 art-096, 2014-06-13 art-106, 2014-06-13 art-108, 2014-06-13 art-134, 2014-06-13 art-135, 2016-07-28 art-096, 2016-07-28 art-103, 2016-07-28 art-141, 2016-07-28 art-158, 2016-07-28 art-159, 2022-05-28 art-004, 2022-05-28 art-051, 2022-05-28 art-053, 2022-05-28 art-055, 2022-05-28 art-056, 2022-05-28 art-059-1, 2022-05-28 art-059-2, 2022-05-28 art-059-4, 2022-05-28 art-059-8, 2022-05-28 art-092, 2022-05-28 art-126, 2022-05-28 art-142.
+- OUG nr. 111/2011: forms with no change after normalisation, so no version: 2020-03-13 (223570).

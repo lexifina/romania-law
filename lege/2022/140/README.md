@@ -33,3 +33,12 @@ Legea nr. 140/2022 · 2 versions, from 2022-05-23 (latest in force: 2022-08-18) 
 | Art. 27 | [art-027.md](art-027.md) | 1 | 2022-08-18 |
 | Art. 28 | [art-028.md](art-028.md) | 1 | 2022-08-18 |
 | Art. 29 | [art-029.md](art-029.md) | 1 | 2022-08-18 |
+
+Act id: `legea-140-2022` (tags `legea-140-2022/<day>`; `python tools/on.py <day> legea-140-2022`).
+
+## Decisions made by hand
+
+- Legea nr. 140/2022: added 2026-11-02, one of the Portalul legislativ's consolidated forms per version, as for the other acts. A capture was used only if it was complete and the page showed the form its document id stands for. The forms are those listed by DetaliiDocumentAfis/255575 as captured on 2026-02-15, the newest capture of any of the act's pages: 0 forms, 0 held.
+- Legea nr. 140/2022: the newest form held is that of 18.08.2022; amendments in force after it may be missing.
+- Legea nr. 140/2022: the law as published in Monitorul Oficial nr. 500 of 20 May 2022 (DetaliiDocumentAfis/255575). Its art. 26 alin. (1) puts it in force 90 days after publication, on 18 August 2022, except art. 20 alin. (6) teza a III-a and art. 23, in force 3 days after publication, on 23 May 2022. So the first version, of 23 May 2022, holds only those provisions (of art. 20 alin. (6), the third sentence, under the alineat number); on 18 August 2022 the rest of the law as published is added, credited to Legea nr. 140/2022. The portal lists no consolidated form of it, so the text as published is the only text.
+- Legea nr. 140/2022: art. 26 alin. (2) puts art. 118 alin. (2) and art. 170 alin. (3) of the Civil Code, as the law regulates or amends them, in force on a day the special law on the personal representative will set. The law sets no such day itself, so the two provisions stay in the text of the amending article as published and no version is made for them.

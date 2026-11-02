@@ -16,3 +16,14 @@ Legea nr. 77/2016 Â· 2 versions, from 2016-05-13 (latest in force: 2020-05-16) Â
 | Art. 10 | [art-010.md](art-010.md) | 0 |  |
 | Art. 11 | [art-011.md](art-011.md) | 0 |  |
 | Art. 12 | [art-012.md](art-012.md) | 0 |  |
+
+Act id: `legea-77-2016` (tags `legea-77-2016/<day>`; `python tools/on.py <day> legea-77-2016`).
+
+## Decisions made by hand
+
+- Legea nr. 77/2016: added 2026-11-02, one of the Portalul legislativ's consolidated forms per version, as for the other acts. A capture was used only if it was complete and the page showed the form its document id stands for. The forms are those listed by DetaliiDocument/178032 as captured on 2026-02-15, the newest capture of any of the act's pages: 4 forms, 4 held.
+- Legea nr. 77/2016: the newest form held is that of 21.09.2021; amendments in force after it may be missing.
+- Legea nr. 77/2016: the first version is the law as published in Monitorul Oficial nr. 330 of 28 April 2016 (DetaliiDocumentAfis/178032), dated 13 May 2016: in force 15 days after publication (its art. 12). The portal's consolidated forms start on 18 January 2017, so the changes made before that day arrive together with that form.
+- Legea nr. 77/2016: the portal prints repeal and change notes just after the article they concern; they are read as that article's notes. The signature block printed after the last article is not part of the article.
+- Legea nr. 77/2016: the portal prints, under arts. 3, 4, 5, 8 and 11, notes of Constitutional Court decisions (Decizia nr. 623/2016, MO nr. 53 of 18 January 2017, on a phrase of art. 11; Decizia nr. 432/2021, MO nr. 905 of 21 September 2021, on the second and third sentences of art. 8 alin. (5)) and of decisions of the High Court (Decizie de respingere / de admitere, HP nr. ...). Its text of every article stays as published in all its forms, so no version is made for those decisions and the notes are not part of the article text. The only amendment is Legea nr. 52/2020 (Monitorul Oficial nr. 386 of 13 May 2020), in the form of 16 May 2020.
+- Legea nr. 77/2016: forms with no change after normalisation, so no version: 2017-01-18 (185369), 2017-03-04 (225233), 2021-09-21 (178032).

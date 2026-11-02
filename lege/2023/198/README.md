@@ -256,3 +256,13 @@ Legea nr. 198/2023 · 15 versions, from 2023-09-03 (latest in force: 2026-04-20)
 | Art. 249 | [art-249.md](art-249.md) | 1 | 2024-06-29 |
 | Art. 250 | [art-250.md](art-250.md) | 0 |  |
 | Art. 251 | [art-251.md](art-251.md) | 0 |  |
+
+Act id: `legea-198-2023` (tags `legea-198-2023/<day>`; `python tools/on.py <day> legea-198-2023`).
+
+## Decisions made by hand
+
+- Legea nr. 198/2023: added 2026-11-02, one of the Portalul legislativ's consolidated forms per version, as for the other acts. A capture was used only if it was complete and the page showed the form its document id stands for. The forms are those listed by DetaliiDocument/306827 as captured on 2026-05-19, the newest capture of any of the act's pages: 14 forms, 14 held.
+- Legea nr. 198/2023: the newest form held is that of 20.04.2026; amendments in force after it may be missing.
+- Legea nr. 198/2023: the form the portal lists under 4 September 2023 (274195) is read at 3 September 2023, the day the law took effect: its only new notes date the changes made by OUG nr. 72/2023 (art. 85 alin. (1)) "la 03-09-2023". It is a version of its own on that day, after the law as published.
+- Legea nr. 198/2023: the first version is the law as published in Monitorul Oficial nr. 613 of 5 July 2023 (DetaliiDocumentAfis/271896), in force 60 days after publication (its art. 248 alin. (1)): 3 September 2023. The portal's first form is of 4 September 2023, so the changes made on that day arrive together with it.
+- Legea nr. 198/2023: art. 248 puts off the application of many provisions to later school years or later periods (for example arts. 69, 83, 86, 108, 139 and 140); the text of every article is shown from its form's date as the portal prints it, and no article is given a later day.

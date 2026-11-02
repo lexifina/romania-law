@@ -90,3 +90,16 @@ Legea nr. 76/2012 · 6 versions, from 2012-06-02 (latest in force: 2014-10-19) �
 | Art. 81 | [art-081.md](art-081.md) | 2 | 2013-02-15 |
 | Art. 82 | [art-082.md](art-082.md) | 3 | 2013-07-01 |
 | Art. 83 | [art-083.md](art-083.md) | 1 | 2013-02-15 |
+
+Act id: `legea-76-2012` (tags `legea-76-2012/<day>`; `python tools/on.py <day> legea-76-2012`).
+
+## Decisions made by hand
+
+- Legea nr. 76/2012: added 2026-11-02, one of the Portalul legislativ's consolidated forms per version, as for the other acts. A capture was used only if it was complete and the page showed the form its document id stands for. The forms are those listed by DetaliiDocument/138484 as captured on 2025-12-13, the newest capture of any of the act's pages: 4 forms, 4 held.
+- Legea nr. 76/2012: the newest form held is that of 19.10.2014; amendments in force after it may be missing.
+- Legea nr. 76/2012: the law as published in Monitorul Oficial nr. 365 of 30 May 2012 (DetaliiDocumentAfis/138484). Its art. 82 puts it in force on the day its art. 81 alin. (1) gives the Code of Civil Procedure, except art. 80, in force 3 days after publication. That day was 1 September 2012 as published; OUG nr. 44/2012 moved it to 1 February 2013 and OUG nr. 4/2013 to 15 February 2013, each before the earlier day came. So the first version, of 2 June 2012, holds only art. 80; on 15 February 2013 the rest of the law as published is added, credited to Legea nr. 76/2012, and the same day the portal's form of 15.02.2013 gives the text in force (OUG nr. 44/2012, OUG nr. 4/2013, and Legea nr. 2/2013, which repealed arts. 39 and 60 from that day).
+- Legea nr. 76/2012: the portal's form of 14 February 2013 comes before the day the law took effect (save art. 80, which it does not change) and is not used; its changes (OUG nr. 44/2012, to art. 81) arrive with the form of 15 February 2013.
+- Legea nr. 76/2012: art. 82 as amended by OUG nr. 4/2013 put art. 38 pct. 1 and 2 (the new arts. 12 and 13 of Legea nr. 193/2000) in force on 1 July 2013, and Legea nr. 214/2013 moved that to 1 October 2013. Under the rule for text printed before its day, those two points are absent until 1 October 2013 and are added that day, credited to Legea nr. 76/2012.
+- Legea nr. 76/2012: most of its articles amend other acts and quote the text they insert or rewrite. The quoted text is kept inside the amending article, as printed. The law as published prints art. 13's quoted arts. 964^1 and 964^2 of the Code of Civil Procedure as paragraphs ("Art. 964^1"), and the forms print them as articles placed after art. 13, the rest of art. 13 inside the second; both are read as text of art. 13, in the printed order.
+- Legea nr. 76/2012: the forms print in art. 13 the portal's line "Legea nr. 134/2010 privind Codul de procedură civilă a fost republicată în MONITORUL OFICIAL nr. 545 din 3 august 2012."; it is editorial matter, not the law's text, and is left out.
+- Legea nr. 76/2012: 6 changed article(s) with no note naming a law, committed as the publisher's: 2013-02-15 art-013, 2014-10-19 art-013, 2014-10-19 art-032, 2014-10-19 art-037, 2014-10-19 art-056, 2014-10-19 art-065.

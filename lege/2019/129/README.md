@@ -80,3 +80,13 @@ Legea nr. 129/2019 · 14 versions, from 2019-07-21 (latest in force: 2025-10-26)
 | Art. 63 | [art-063.md](art-063.md) | 0 |  |
 | Art. 64 | [art-064.md](art-064.md) | 0 |  |
 | Art. 65 | [art-065.md](art-065.md) | 0 |  |
+
+Act id: `legea-129-2019` (tags `legea-129-2019/<day>`; `python tools/on.py <day> legea-129-2019`).
+
+## Decisions made by hand
+
+- Legea nr. 129/2019: added 2026-11-02, one of the Portalul legislativ's consolidated forms per version, as for the other acts: 20 pages read from Internet Archive captures, each pinned in forms.json and in its version's source_url. A capture was used only if it was complete and the page showed the form its document id stands for.
+- Legea nr. 129/2019: the newest form held is that of 19.12.2025 (the act page's capture 20260227231956 lists no later form); amendments in force after it may be missing.
+- Legea nr. 129/2019: the first version is the law as published in Monitorul Oficial nr. 589 of 18 July 2019 (DetaliiDocumentAfis/216157), dated 21 July 2019: it sets no in-force day of its own, so it takes effect 3 days after publication.
+- Legea nr. 129/2019: arts. 53, 54 and 55 amend OG nr. 26/2000, Legea nr. 31/1990 and Legea nr. 207/2015 and quote the articles they insert or rewrite ("Articolul 27^3", "Articolul 62^1" ...). The quoted text is kept inside the amending article, as printed, and is not filed as articles of this law.
+- Legea nr. 129/2019: forms with no change after normalisation, so no version: 2020-03-21 (223652), 2020-05-14 (225614), 2020-08-24 (228928), 2020-10-30 (231451), 2021-05-31 (242521), 2025-12-19 (216157).

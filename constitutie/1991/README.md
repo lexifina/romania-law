@@ -160,3 +160,19 @@ Constituția · 2 versions, from 1991-12-08 (latest in force: 2003-10-29) · <ht
 | Art. 154 | [art-154.md](art-154.md) | 1 | 2003-10-29 |
 | Art. 155 | [art-155.md](art-155.md) | 1 | 2003-10-29 |
 | Art. 156 | [art-156.md](art-156.md) | 1 | 2003-10-29 |
+
+Act id: `constitutia` (tags `constitutia/<day>`; `python tools/on.py <day> constitutia`).
+
+## Decisions made by hand
+
+- Romania's Phase 1: the Constitution, the Civil Code and the Penal Code, each from the Portalul legislativ, the only official source of consolidated texts with every past consolidated form and a note on each amended provision naming the amending act and the day the change took effect.
+- Every page was read from Internet Archive captures; each form's capture timestamp is pinned in its version's source_url.
+- One file per article (art-NNN, Civil Code art-NNNN; Articolul 112^1 is art-112-1), one line per paragraph, alineat, letter, point or indent, the first line "# Articolul N"; the marginal title is the next line. Chapter and section headings, editorial notes (Notă), the publisher's footnotes, signatures and the amendment notes themselves are not text.
+- Where a form nests an article's marginal title at the end of the article before it, or prints it between two articles, it is moved back to its own article; the Civil Code's paragraph headings ("§3. ...") and their sub-headings ("I. ...") are dropped wherever a form nests them.
+- Typesetting is normalised before comparing forms: cedilla ş/ţ become comma-below ș/ț (older forms use the cedilla), no-break spaces become spaces, runs of spaces collapse, “ becomes ”, « » become „ ”, en and em dashes become hyphens, footnote markers ("*)") and a leaked link marker (<LLNK ...>) are dropped.
+- Credits come only from the portal's amendment notes on the changed article: from about 2017 they read "(la DD-MM-YYYY, ... a fost modificat de ... LEGEA nr. N din ...)"; older forms print the same note, undated, after a rule of dashes. A dated note counts when its date falls after the previous version and on or before this one; an undated note counts when it is new on that article. Every dated note that explains a change carries the date of the form that first shows the change, and no note is dated after its form.
+- A changed article with no such note is credited to a Constitutional Court decision only when the article's own editorial note names the decision (DECIZIA nr. N ... publicată în Monitorul Oficial ...) and its effect on the text falls in the version's interval: the day the note states, or 45 days after publication (Constituția art. 147 alin. (1)). Otherwise it stays uncredited and the builder commits it as the publisher's.
+- Each version takes effect on the date of its consolidated form, which is the in-force date the notes give for the changes it carries. Forms identical to the version before them (after normalisation) add no version.
+- The newest captures are from June and July 2026, so amendments in force after the newest form of each act (Civil Code 03.05.2026, Penal Code 26.04.2026) may be missing.
+- Constituția: the 1991 text (DetaliiDocumentAfis/1413, in force on its approval by referendum on 8 December 1991) and the text republished on 31 October 2003 (DetaliiDocument/47355), dated 29 October 2003, the day the revision took effect. The portal holds no later form: the Constitution has not been amended since.
+- Constituția 2003: the republication renumbered the articles (152 became 156), so files are keyed by each text's own numbering and many change on 29 October 2003; every change that day is credited to Legea nr. 429/2003, as the portal's note on the republished text does.

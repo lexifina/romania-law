@@ -199,3 +199,16 @@ Legea nr. 254/2013 · 15 versions, from 2014-02-01 (latest in force: 2024-03-24)
 | Art. 189 | [art-189.md](art-189.md) | 0 |  |
 | Art. 190 | [art-190.md](art-190.md) | 0 |  |
 | Art. 191 | [art-191.md](art-191.md) | 0 |  |
+
+Act id: `legea-254-2013` (tags `legea-254-2013/<day>`; `python tools/on.py <day> legea-254-2013`).
+
+## Decisions made by hand
+
+- Legea nr. 254/2013: added 2026-11-02, one of the Portalul legislativ's consolidated forms per version, as for the other acts. A capture was used only if it was complete and the page showed the form its document id stands for. The forms are those listed by DetaliiDocumentAfis/150699 as captured on 2026-01-21, the newest capture of any of the act's pages: 16 forms, 16 held.
+- Legea nr. 254/2013: the newest form held is that of 10.05.2024; amendments in force after it may be missing.
+- Legea nr. 254/2013: the first version is the law as published in Monitorul Oficial nr. 514 of 14 August 2013 (DetaliiDocumentAfis/150699), dated 1 February 2014, the day its art. 187 alin. (1) puts it in force with Legea nr. 286/2009 (Codul penal) and Legea nr. 135/2010 (Codul de procedură penală). Art. 187 alin. (2) alone took effect earlier, 5 days after publication; the record has no version before 1 February 2014, so that provision is shown from that day with the rest of the text. The portal's first form is of 7 February 2014, so the changes made up to then arrive together that day.
+- Legea nr. 254/2013: the portal's act page as captured on 9 August 2025 shows the form of 10 May 2024 as the newest, and the Afis page captured on 21 January 2026 lists no later form; the record ends there and no repeal is made up.
+- Legea nr. 254/2013: Decizia Curții Constituționale nr. 222/2015 (Monitorul Oficial nr. 380 of 2 June 2015) found art. 69 alin. (1) lit. b) and art. 110 alin. (1) lit. b) unconstitutional; the provisions were suspended from 2 June 2015 and ceased to have effect on 18 July 2015, the day the portal's editorial note gives. The form of 18 July 2015 prints both as "incetat efecte juridice" and the change is credited to the decision. That form also prints, in art. 110, the items c)-f) and alin. (2)-(4) that the form of 2 June 2015 leaves out; the portal gives them no note, and the change to the article is credited to the decision as a whole.
+- Legea nr. 254/2013: the portal editorial notes printed as paragraphs of an article (on a Constitutional Court ruling, a rectification, a provision put back in force) are not text: 20 such paragraphs across all forms, for example «Lit. b) a alin. (1) al art. 110 si-a încetat efectele juridi», «Lit. b) a alin. (1) al art. 110 și-a încetat efectele juridi», «Lit. b) a alin. (1) al art. 69 și-a încetat efectele juridic».
+- Legea nr. 254/2013: 11 changed article(s) with no note naming a law, committed as the publisher's: 2015-06-02 art-053, 2015-06-02 art-061, 2015-06-02 art-068, 2015-06-02 art-110, 2015-06-02 art-132, 2015-06-02 art-133, 2016-02-09 art-069, 2016-02-09 art-110, 2017-07-21 art-110, 2019-12-23 art-110, 2019-12-23 art-128.
+- Legea nr. 254/2013: forms with no change after normalisation, so no version: 2022-06-28 (256285), 2024-05-10 (282153).

@@ -28,3 +28,14 @@ Legea nr. 72/2013 · 3 versions, from 2013-04-05 (latest in force: 2016-02-01) �
 | Art. 22 | [art-022.md](art-022.md) | 0 |  |
 | Art. 23 | [art-023.md](art-023.md) | 0 |  |
 | Art. 24 | [art-024.md](art-024.md) | 1 | 2015-12-18 |
+
+Act id: `legea-72-2013` (tags `legea-72-2013/<day>`; `python tools/on.py <day> legea-72-2013`).
+
+## Decisions made by hand
+
+- Legea nr. 72/2013: added 2026-11-02, one of the Portalul legislativ's consolidated forms per version, as for the other acts. A capture was used only if it was complete and the page showed the form its document id stands for. The forms are those listed by DetaliiDocument/174101 as captured on 2026-01-17, the newest capture of any of the act's pages: 2 forms, 2 held.
+- Legea nr. 72/2013: the newest form held is that of 01.02.2016; amendments in force after it may be missing.
+- Legea nr. 72/2013: the first version is the law as published in Monitorul Oficial nr. 182 of 2 April 2013 (DetaliiDocumentAfis/146555), dated 5 April 2013: it sets no in-force day of its own, so 3 days after publication (Constituția art. 78). The portal's consolidated forms start on 18 December 2015, so the changes made before that day arrive together with that form.
+- Legea nr. 72/2013: the portal prints repeal and change notes just after the article they concern; they are read as that article's notes. The signature block printed after the last article is not part of the article.
+- Legea nr. 72/2013: the portal's first consolidated form (18 December 2015) differs from the law as published only in printing: typing errors of the published text are corrected, and the transposition footnote printed after art. 24 ("Prezenta lege transpune Directiva 2011/7/UE ...") is no longer printed; the next form (1 February 2016) prints art. 20's quoted paragraph (2^1) without its quotation marks. No note names a law for these, so they are committed as the publisher's, not credited to any law.
+- Legea nr. 72/2013: 5 changed article(s) with no note naming a law, committed as the publisher's: 2015-12-18 art-002, 2015-12-18 art-003, 2015-12-18 art-005, 2015-12-18 art-024, 2016-02-01 art-020.

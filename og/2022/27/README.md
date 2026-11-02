@@ -36,3 +36,13 @@ OG nr. 27/2022 · 1 versions, from 2022-09-25 (latest in force: 2022-09-25) · <
 | Art. 30 | [art-030.md](art-030.md) | 0 |  |
 | Art. 31 | [art-031.md](art-031.md) | 0 |  |
 | Art. 32 | [art-032.md](art-032.md) | 0 |  |
+
+Act id: `og-27-2022` (tags `og-27-2022/<day>`; `python tools/on.py <day> og-27-2022`).
+
+## Decisions made by hand
+
+- OG nr. 27/2022: added 2026-11-02, one of the Portalul legislativ's consolidated forms per version, as for the other acts. A capture was used only if it was complete and the page showed the form its document id stands for. The forms are those listed by DetaliiDocument/258656 as captured on 2025-10-08, the newest capture of any of the act's pages: 1 forms, 1 held.
+- OG nr. 27/2022: the newest form held is that of 08.07.2023; amendments in force after it may be missing.
+- OG nr. 27/2022: added by Lexifina's automatic pass with the default rules: the forms are those the portal lists, each version is dated by its form or by the notes it prints, and no rule or ruling made for this act alone was applied. It was published only because every automatic check passed: two parses identical, the newest form read afresh equal to the latest version article by article, every article a form leaves out settled by the standing rules, every version dated by a rule or a stated in-force day, and no unexplained change other than diacritics or spacing.
+- OG nr. 27/2022: the first version is the ordinance as published in Monitorul Oficial nr. 839 of 26 August 2022 (DetaliiDocumentAfis/258656), dated 25 September 2022: its art. 32 puts it in force 30 days after publication. The portal holds no consolidated form before 8 July 2023, so the changes made up to then arrive together that day.
+- OG nr. 27/2022: forms with no change after normalisation, so no version: 2023-07-08 (258656).

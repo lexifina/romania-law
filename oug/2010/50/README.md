@@ -107,3 +107,15 @@ OUG nr. 50/2010 · 8 versions, from 2010-06-21 (latest in force: 2024-03-17) · 
 | Art. 95 | [art-095.md](art-095.md) | 1 | 2011-01-02 |
 | Art. 95^1 | [art-095-1.md](art-095-1.md) | 3 | 2023-05-26 |
 | Art. 96 | [art-096.md](art-096.md) | 1 | 2016-09-30 |
+
+Act id: `oug-50-2010` (tags `oug-50-2010/<day>`; `python tools/on.py <day> oug-50-2010`).
+
+## Decisions made by hand
+
+- OUG nr. 50/2010: added 2026-11-02, one of the Portalul legislativ's consolidated forms per version, as for the other acts. A capture was used only if it was complete and the page showed the form its document id stands for. The forms are those listed by DetaliiDocument/124969 as captured on 2026-01-25, the newest capture of any of the act's pages: 8 forms, 8 held.
+- OUG nr. 50/2010: the newest form held is that of 17.03.2024; amendments in force after it may be missing.
+- OUG nr. 50/2010: the first version is the emergency ordinance as published in Monitorul Oficial nr. 389 of 11 June 2010 (DetaliiDocumentAfis/119472), dated 21 June 2010: in force within 10 days of publication (its art. 94). The portal's consolidated forms start on 2 January 2011, so the changes made before that day arrive together with that form.
+- OUG nr. 50/2010: the portal prints repeal and change notes just after the article they concern; they are read as that article's notes. The signature block printed after the last article is not part of the article.
+- OUG nr. 50/2010: art. 92 amends Legea nr. 190/1999 and quotes the articles it rewrites; the quoted articles are read as part of art. 92. The portal prints some of those quotations differently from one form to the next (with or without quotation marks, "Articolul 8" repeated as a heading), and the text of arts. 41, 49, 53, 66, 70, 92, 95^1 and 96 differs between forms in typing corrections, a dropped transposition footnote (art. 96) and joined words ("art. 7pct. 5"): no note names a law for them, so they are committed as the publisher's. Its annexes (Anexele nr. 1-3, the information forms) are not articles and are not read.
+- OUG nr. 50/2010: 8 changed article(s) with no note naming a law, committed as the publisher's: 2016-09-30 art-041, 2016-09-30 art-053, 2016-09-30 art-066, 2016-09-30 art-096, 2019-05-02 art-049, 2019-05-02 art-070, 2019-05-02 art-092, 2019-05-02 art-095-1.
+- OUG nr. 50/2010: forms with no change after normalisation, so no version: 2013-01-01 (143372).

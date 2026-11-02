@@ -53,3 +53,16 @@ Legea nr. 176/2010 · 14 versions, from 2010-09-05 (latest in force: 2025-11-22)
 | Art. 36 | [art-036.md](art-036.md) | 0 |  |
 | Art. 37 | [art-037.md](art-037.md) | 0 |  |
 | Art. 38 | [art-038.md](art-038.md) | 1 | 2025-11-22 |
+
+Act id: `legea-176-2010` (tags `legea-176-2010/<day>`; `python tools/on.py <day> legea-176-2010`).
+
+## Decisions made by hand
+
+- Legea nr. 176/2010: added 2026-11-02, one of the Portalul legislativ's consolidated forms per version, as for the other acts. A capture was used only if it was complete and the page showed the form its document id stands for. The forms are those listed by DetaliiDocument/303284 as captured on 2026-01-15, the newest capture of any of the act's pages: 16 forms, 16 held.
+- Legea nr. 176/2010: the newest form held is that of 22.11.2025; amendments in force after it may be missing.
+- Legea nr. 176/2010: the first version is the law as published in Monitorul Oficial nr. 621 of 2 September 2010 (DetaliiDocumentAfis/121924), dated 5 September 2010: it sets no day of its own, so 3 days after publication (Constituția art. 78). The portal's first form is of 3 May 2013, so the changes made up to then arrive together that day.
+- Legea nr. 176/2010: the articles of other acts that the amending provisions quote (S_ART inside the amending article) are kept as part of the amending article's text, as printed.
+- Legea nr. 176/2010: the portal prints the quoted provisions of arts. 33 and 35 (title III) now between quotation marks as "Art. N. - ..." and now as nested articles titled "Articolul N"; the changes between those two printings (2013, 2014, 2018, 2019) alter no provision and are committed as the publisher's, uncredited.
+- Legea nr. 176/2010: the portal editorial notes printed as paragraphs of an article (on a Constitutional Court ruling, a rectification, a provision put back in force) are not text: 5 such paragraphs across all forms, for example «Conform art. 147 alin. (1) din CONSTITUȚIA ROMÂNIEI republic», «Prin DECIZIA CURȚII CONSTITUȚIONALE nr. 418 din 3 iulie 2014», «În concluzie, începând cu data de 30 iulie 2014, dispozițiil».
+- Legea nr. 176/2010: 8 changed article(s) with no note naming a law, committed as the publisher's: 2013-05-03 art-033, 2013-05-03 art-035, 2014-07-30 art-026, 2014-07-30 art-033, 2018-06-10 art-033, 2018-06-10 art-035, 2019-03-24 art-033, 2019-03-24 art-035.
+- Legea nr. 176/2010: forms with no change after normalisation, so no version: 2014-08-13 (160640), 2025-06-12 (298573), 2025-07-27 (300182).

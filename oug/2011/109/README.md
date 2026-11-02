@@ -108,3 +108,15 @@ OUG nr. 109/2011 Â· 18 versions, from 2011-12-14 (latest in force: 2025-12-09) Â
 | Art. 64^3 | [art-064-3.md](art-064-3.md) | 3 | 2023-07-02 |
 | Art. 64^4 | [art-064-4.md](art-064-4.md) | 2 | 2023-07-02 |
 | Art. 65 | [art-065.md](art-065.md) | 0 |  |
+
+Act id: `oug-109-2011` (tags `oug-109-2011/<day>`; `python tools/on.py <day> oug-109-2011`).
+
+## Decisions made by hand
+
+- OUG nr. 109/2011: added 2026-11-02, one of the Portalul legislativ's consolidated forms per version, as for the other acts. A capture was used only if it was complete and the page showed the form its document id stands for. The forms are those listed by DetaliiDocument/268345 as captured on 2026-02-08, the newest capture of any of the act's pages: 17 forms, 17 held.
+- OUG nr. 109/2011: the newest form held is that of 09.12.2025; amendments in force after it may be missing.
+- OUG nr. 109/2011: the first version is the emergency ordinance as published in Monitorul Oficial nr. 883 of 14 December 2011 (DetaliiDocumentAfis/133685), dated 14 December 2011: it sets no in-force day of its own, so in force on publication. The portal's first consolidated form is of 4 June 2013, so the changes made up to then arrive together that day.
+- OUG nr. 109/2011: approved with amendments by Legea nr. 111/2016; the portal's notes date its changes with the form that carries them, and each change is credited to the act the note names.
+- OUG nr. 109/2011: the form of 4 June 2013 prints art. 65 with an empty body element and its two paragraphs just after it, so the paragraphs are read as the article's text.
+- OUG nr. 109/2011: the signature block printed after the last article ("PRIM-MINISTRU ...") is not part of the article.
+- OUG nr. 109/2011: 15 changed article(s) with no note naming a law, committed as the publisher's: 2013-06-04 art-003, 2015-05-15 art-003, 2017-03-23 art-001, 2017-03-23 art-002, 2017-03-23 art-003, 2017-03-23 art-005, 2017-03-23 art-006, 2017-03-23 art-010, 2017-03-23 art-025, 2017-03-23 art-027, 2017-03-23 art-028, 2017-03-23 art-045, 2017-03-23 art-060, 2017-03-23 art-064-3, 2019-01-13 art-024.

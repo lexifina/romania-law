@@ -45,3 +45,14 @@ Legea nr. 33/1994 · 3 versions, from 1994-06-02 (latest in force: 2020-11-16) �
 | Art. 39 | [art-039.md](art-039.md) | 1 | 2011-10-01 |
 | Art. 40 | [art-040.md](art-040.md) | 1 | 2011-10-01 |
 | Art. 41 | [art-041.md](art-041.md) | 1 | 2011-10-01 |
+
+Act id: `legea-33-1994` (tags `legea-33-1994/<day>`; `python tools/on.py <day> legea-33-1994`).
+
+## Decisions made by hand
+
+- Legea nr. 33/1994: added 2026-11-02, one of the Portalul legislativ's consolidated forms per version, as for the other acts. A capture was used only if it was complete and the page showed the form its document id stands for. The forms are those listed by DetaliiDocument/4066 as captured on 2025-11-14, the newest capture of any of the act's pages: 4 forms, 4 held.
+- Legea nr. 33/1994: the newest form held is that of 16.11.2020; amendments in force after it may be missing.
+- Legea nr. 33/1994: the first version is the law as published in Monitorul Oficial nr. 139 of 2 June 1994 (DetaliiDocumentAfis/4066); it sets no day of its own, so it took effect on publication (Constituția art. 78 as it then stood).
+- Legea nr. 33/1994: the portal holds no form between the law as published and the text republished in Monitorul Oficial nr. 472 of 5 July 2011 under art. 218 of Legea nr. 71/2011 (read from its own page, DetaliiDocumentAfis/129800); the republication note names no other amending act. The republished text prints the new wording of arts. 35-37 given by art. 84 of Legea nr. 71/2011 (read as published, DetaliiDocumentAfis/129268), which takes effect with the Civil Code on 1 October 2011 (its arts. 220 alin. (1) and 221), so the republished text is dated 1 October 2011: the act as published wins over the day of the republication. Changes on that day are credited to Legea nr. 71/2011, which ordered the republication (the rest are the republication's spelling, numbering of paragraphs and updated names of institutions and acts).
+- Legea nr. 33/1994: the portal editorial notes printed as paragraphs of an article (on a Constitutional Court ruling, a rectification, a provision put back in force) are not text: 3 such paragraphs across all forms, for example «* A se vedea Hotărârea Guvernului nr. 583/1994 de aprobare a».
+- Legea nr. 33/1994: forms with no change after normalisation, so no version: 2015-07-15 (171870), 2015-08-30 (171871).

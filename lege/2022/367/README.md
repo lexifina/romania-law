@@ -193,3 +193,15 @@ Legea nr. 367/2022 · 4 versions, from 2022-12-25 (latest in force: 2023-12-02) 
 | Art. 187 | [art-187.md](art-187.md) | 0 |  |
 | Art. 188 | [art-188.md](art-188.md) | 0 |  |
 | Art. 189 | [art-189.md](art-189.md) | 0 |  |
+
+Act id: `legea-367-2022` (tags `legea-367-2022/<day>`; `python tools/on.py <day> legea-367-2022`).
+
+## Decisions made by hand
+
+- Legea nr. 367/2022: added 2026-11-02, one of the Portalul legislativ's consolidated forms per version, as for the other acts. A capture was used only if it was complete and the page showed the form its document id stands for. The forms are those listed by DetaliiDocument/262989 as captured on 2025-11-19, the newest capture of any of the act's pages: 3 forms, 3 held.
+- Legea nr. 367/2022: the newest form held is that of 17.11.2024; amendments in force after it may be missing.
+- Legea nr. 367/2022: the first version is the law as published in Monitorul Oficial nr. 1238 of 22 December 2022 (DetaliiDocumentAfis/262989), dated 25 December 2022: it sets no in-force day of its own, so 3 days after publication (Constituția art. 78).
+- Legea nr. 367/2022: OUG nr. 42/2023 (Monitorul Oficial nr. 459 of 25 May 2023; read as published, DetaliiDocumentAfis/270729) puts its art. I pct. 65-66 (art. 175 alin. (1)) in force 30 days after publication (its art. V) and the rest on publication; the portal's form of 25.05.2023 prints both, and its notes date pct. 65-66 25 June 2023. That day is kept, so those changes have a version of their own.
+- Legea nr. 367/2022: the newest form (17.11.2024) adds only a note on the EU directive the law partly transposes (Legea nr. 283/2024, art. V), printed after the articles, so it changes no article.
+- Legea nr. 367/2022: changes a form prints before the in-force day its own notes give are dated by the notes (the earlier text stands until then): 2023-06-25 (art-175; printed in the form of 25.05.2023).
+- Legea nr. 367/2022: forms with no change after normalisation, so no version: 2024-11-17 (262989).

@@ -20,3 +20,11 @@ Legea nr. 190/2018 · 2 versions, from 2018-07-31 (latest in force: 2019-12-01) 
 | Art. 14 | [art-014.md](art-014.md) | 0 |  |
 | Art. 15 | [art-015.md](art-015.md) | 0 |  |
 | Art. 16 | [art-016.md](art-016.md) | 0 |  |
+
+Act id: `legea-190-2018` (tags `legea-190-2018/<day>`; `python tools/on.py <day> legea-190-2018`).
+
+## Decisions made by hand
+
+- Legea nr. 190/2018: Phase 2 act, one of the Portalul legislativ's consolidated forms per version, as for the Phase 1 acts: each page read from a dated web-archive capture, pinned in its version's source_url. A capture was used only if it was complete and the page showed the form its document id stands for.
+- Legea nr. 190/2018: the newest form held is that of 01.12.2019 (the act page's capture 20260202205510 lists no later form); amendments in force after it may be missing.
+- Legea nr. 190/2018: the first version is the law as published in Monitorul Oficial nr. 651 of 26 July 2018 (DetaliiDocumentAfis/203151), in force on 31 July 2018: its art. 16 sets entry into force 5 days after publication. Its only consolidated form (01.12.2019) adds the change made by Legea nr. 233/2019.

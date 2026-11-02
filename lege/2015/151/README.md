@@ -97,3 +97,14 @@ Legea nr. 151/2015 · 2 versions, from 2015-06-29 (latest in force: 2018-01-01) 
 | Art. 91 | [art-091.md](art-091.md) | 1 | 2018-01-01 |
 | Art. 92 | [art-092.md](art-092.md) | 0 |  |
 | Art. 93 | [art-093.md](art-093.md) | 1 | 2018-01-01 |
+
+Act id: `legea-151-2015` (tags `legea-151-2015/<day>`; `python tools/on.py <day> legea-151-2015`).
+
+## Decisions made by hand
+
+- Legea nr. 151/2015: added 2026-11-02, one of the Portalul legislativ's consolidated forms per version, as for the other acts. A capture was used only if it was complete and the page showed the form its document id stands for. The forms are those listed by DetaliiDocumentAfis/169194 as captured on 2025-10-15, the newest capture of any of the act's pages: 4 forms, 4 held.
+- Legea nr. 151/2015: the newest form held is that of 01.01.2018; amendments in force after it may be missing.
+- Legea nr. 151/2015: the law as published in Monitorul Oficial nr. 464 of 26 June 2015 (DetaliiDocumentAfis/169194). Its art. 93 puts it in force 6 months after publication, except art. 92 (setting up the insolvency commissions and the implementing rules), in force 3 days after publication. So the first version, of 29 June 2015, holds only art. 92; the rest of the law as published is added on the day it took effect, credited to Legea nr. 151/2015.
+- Legea nr. 151/2015: that day was put off three times before it came, as the portal's notes on the law say: to 31 December 2016 by the single article of OUG nr. 61/2015 (Monitorul Oficial nr. 962 of 24 December 2015), to 1 August 2017 by art. IX of OUG nr. 98/2016 (Monitorul Oficial nr. 1.030 of 21 December 2016) and to 1 January 2018 by the single article of OG nr. 6/2017 (Monitorul Oficial nr. 614 of 28 July 2017). None of these acts changes the law's text; the rest of the law is shown from 1 January 2018.
+- Legea nr. 151/2015: the portal's forms of 24 December 2015, 21 December 2016 and 31 July 2017 come before the law took effect and are not used. No act changed the text before then: the forms of 2015 and 2016 differ from the text as published only in one word of art. 22 alin. (1) ("le-ar" where the text as published and the later forms print "lear"), and the form of 2017 not at all. The form of 1 January 2018, the newest the portal lists, prints the law as published.
+- Legea nr. 151/2015: forms with no change after normalisation, so no version: 2018-01-01 (191397).

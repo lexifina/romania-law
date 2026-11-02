@@ -302,3 +302,16 @@ Legea nr. 126/2018 · 11 versions, from 2018-07-06 (latest in force: 2026-01-16)
 | Art. 284 | [art-284.md](art-284.md) | 0 |  |
 | Art. 285 | [art-285.md](art-285.md) | 0 |  |
 | Art. 286 | [art-286.md](art-286.md) | 0 |  |
+
+Act id: `legea-126-2018` (tags `legea-126-2018/<day>`; `python tools/on.py <day> legea-126-2018`).
+
+## Decisions made by hand
+
+- Legea nr. 126/2018: added 2026-11-02, one of the Portalul legislativ's consolidated forms per version, as for the other acts. A capture was used only if it was complete and the page showed the form its document id stands for. The forms are those listed by DetaliiDocument/305317 as captured on 2026-02-13, the newest capture of any of the act's pages: 10 forms, 10 held.
+- Legea nr. 126/2018: the newest form held is that of 16.01.2026; amendments in force after it may be missing.
+- Legea nr. 126/2018: the first version is the law as published in Monitorul Oficial nr. 521 of 26 June 2018 (DetaliiDocumentAfis/201860), in force 10 days after publication (its art. 284): 6 July 2018. Art. 169 alin. (5)-(7), which apply from 3 September 2019 (the same article), are shown from 6 July 2018 with the rest of the law.
+- Legea nr. 126/2018: Legea nr. 158/2020 (read as published, DetaliiDocumentAfis/228486; Monitorul Oficial nr. 673 of 29 July 2020) is in force 30 days after publication, on 28 August 2020, save its art. VIII pct. 16, in force on 3 September 2020 (its art. XXVIII). Art. VIII pct. 16 rewrites art. 177 alin. (3) and (5); the portal prints the new wording from its form of 28 August 2020. Under the rule for text printed before its law, the earlier wording of both alineate, as the previous forms print it, stands until 3 September 2020, when the new wording takes effect, credited to Legea nr. 158/2020.
+- Legea nr. 126/2018: Legea nr. 188/2022 (read as published, DetaliiDocumentAfis/256681; Monitorul Oficial nr. 617 of 23 June 2022) is in force 10 days after publication, 3 July 2022, the form's date; its art. V defers art. I pct. 53 (art. 261 alin. (4) partea introductivă and lit. d)) to 1 January 2023 only as to the environmental objectives of art. 9 lit. c)-f) of Regulamentul (UE) 2020/852, a limit on what the provision covers, not on its wording; the new wording is shown from 3 July 2022, as the portal dates it.
+- Legea nr. 126/2018: the dates of the forms of 25 June and 5 July 2024 follow OUG nr. 71/2024 (read as published, DetaliiDocumentAfis/284542; Monitorul Oficial nr. 591 of 25 June 2024), in force on publication save art. V pct. 12-22, 10 days after publication (its art. XIV).
+- Legea nr. 126/2018: 2 changed article(s) with no note naming a law, committed as the publisher's: 2022-07-03 art-104, 2022-08-01 art-003.
+- Legea nr. 126/2018: forms with no change after normalisation, so no version: 2022-07-13 (257110).

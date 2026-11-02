@@ -115,3 +115,12 @@ Legea nr. 196/2018 · 2 versions, from 2018-09-28 (latest in force: 2025-12-19) 
 | Art. 108 | [art-108.md](art-108.md) | 0 |  |
 | Art. 109 | [art-109.md](art-109.md) | 0 |  |
 | Art. 110 | [art-110.md](art-110.md) | 0 |  |
+
+Act id: `legea-196-2018` (tags `legea-196-2018/<day>`; `python tools/on.py <day> legea-196-2018`).
+
+## Decisions made by hand
+
+- Legea nr. 196/2018: added 2026-11-02, one of the Portalul legislativ's consolidated forms per version, as for the other acts. A capture was used only if it was complete and the page showed the form its document id stands for. The forms are those listed by DetaliiDocument/203233 as captured on 2026-05-15 (Internet Archive), the newest capture of any of the act's pages: 3 forms, 3 held.
+- Legea nr. 196/2018: the newest form held is that of 19.12.2025; amendments in force after it may be missing.
+- Legea nr. 196/2018: the first version is the law as published in Monitorul Oficial nr. 660 of 30 July 2018 (DetaliiDocumentAfis/203233), in force 60 days after publication (its art. 109): 28 September 2018.
+- Legea nr. 196/2018: forms with no change after normalisation, so no version: 2019-08-31 (217390), 2020-12-24 (234654).

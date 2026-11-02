@@ -462,3 +462,12 @@ Codul penal · 45 versions, from 2014-02-01 (latest in force: 2026-04-26) · <ht
 | Art. 444 | [art-444.md](art-444.md) | 0 |  |
 | Art. 445 | [art-445.md](art-445.md) | 0 |  |
 | Art. 446 | [art-446.md](art-446.md) | 0 |  |
+
+Act id: `codul-penal` (tags `codul-penal/<day>`; `python tools/on.py <day> codul-penal`).
+
+## Decisions made by hand
+
+- Codul penal: the first version is the code as published in 2009 (DetaliiDocumentAfis/109855), dated 1 February 2014, followed the same day by the first in-force form (01.02.2014); its changes are credited from the article notes (Legea nr. 27/2012, 63/2012, 187/2012 and others). The forms of 01 and 02.01.2013 predate the code's entry into force and are not used.
+- Codul penal: from the form of 03.02.2019 on, the portal prints two holdings of High Court preliminary rulings on art. 6 as paragraphs of art. 183; they are dropped as editorial matter.
+- Codul penal: 12 changed article(s) with no note naming a law, committed as the publisher's: 2014-05-20 art-006, 2014-05-20 art-019, 2014-05-20 art-036, 2014-05-20 art-061, 2014-05-20 art-066, 2014-05-20 art-137, 2014-05-20 art-224, 2014-05-20 art-226, 2014-05-20 art-233, 2014-05-20 art-394, 2018-12-20 art-194, 2023-06-09 art-378.
+- Codul penal: forms with no change after normalisation, so no version: 2014-07-04 (163138), 2014-11-19 (163645), 2015-01-03 (165639), 2015-01-27 (173058), 2015-02-09 (178653), 2015-03-26 (178655), 2015-11-13 (178656), 2016-07-08 (180004), 2016-08-22 (185903), 2017-02-05 (185905), 2017-02-27 (186587), 2017-06-09 (189724), 2017-07-17 (191050), 2017-07-24 (191357), 2017-08-31 (192632), 2017-09-26 (193086), 2018-06-25 (201632), 2018-08-09 (203488), 2018-12-13 (208497), 2019-01-27 (210140), 2019-02-03 (210277), 2020-12-12 (232457), 2021-12-07 (248140), 2023-05-22 (267695), 2024-05-10 (282149).

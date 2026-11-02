@@ -25,3 +25,12 @@ OUG nr. 120/2024 · 1 versions, from 2024-10-15 (latest in force: 2024-10-15) ·
 | Art. 19 | [art-019.md](art-019.md) | 0 |  |
 | Art. 20 | [art-020.md](art-020.md) | 0 |  |
 | Art. 21 | [art-021.md](art-021.md) | 0 |  |
+
+Act id: `oug-120-2024` (tags `oug-120-2024/<day>`; `python tools/on.py <day> oug-120-2024`).
+
+## Decisions made by hand
+
+- OUG nr. 120/2024: added 2026-11-02, one of the Portalul legislativ's consolidated forms per version, as for the other acts. A capture was used only if it was complete and the page showed the form its document id stands for. The forms are those listed by DetaliiDocument/289748 as captured on 2026-02-19, the newest capture of any of the act's pages: 0 forms, 0 held.
+- OUG nr. 120/2024: the newest form held is that of 15.10.2024; amendments in force after it may be missing.
+- OUG nr. 120/2024: added by Lexifina's automatic pass with the default rules: the forms are those the portal lists, each version is dated by its form or by the notes it prints, and no rule or ruling made for this act alone was applied. It was published only because every automatic check passed: two parses identical, the newest form read afresh equal to the latest version article by article, every article a form leaves out settled by the standing rules, every version dated by a rule or a stated in-force day, and no unexplained change other than diacritics or spacing.
+- OUG nr. 120/2024: the first version is the emergency ordinance as published in Monitorul Oficial nr. 1034 of 15 October 2024 (DetaliiDocument/289748), dated 15 October 2024: an emergency ordinance with no day of its own, in force on publication. The portal lists no consolidated form of it, so the text as published is its only version.

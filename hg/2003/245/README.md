@@ -138,3 +138,12 @@ HG nr. 245/2003 · 2 versions, from 2003-03-25 (latest in force: 2022-04-28) · 
 | Art. 132 | [art-132.md](art-132.md) | 0 |  |
 | Art. 133 | [art-133.md](art-133.md) | 0 |  |
 | Art. 134 | [art-134.md](art-134.md) | 0 |  |
+
+Act id: `hg-245-2003` (tags `hg-245-2003/<day>`; `python tools/on.py <day> hg-245-2003`).
+
+## Decisions made by hand
+
+- HG nr. 245/2003: added 2026-11-02, one of the Portalul legislativ's consolidated forms per version, as for the other acts. A capture was used only if it was complete and the page showed the form its document id stands for. The forms are those listed by DetaliiDocumentAfis/42524 as captured on 2026-02-14, the newest capture of any of the act's pages: 1 forms, 1 held.
+- HG nr. 245/2003: the newest form held is that of 28.04.2022; amendments in force after it may be missing.
+- HG nr. 245/2003: added by Lexifina's automatic pass with the default rules: the forms are those the portal lists, each version is dated by its form or by the notes it prints, and no rule or ruling made for this act alone was applied. It was published only because every automatic check passed: two parses identical, the newest form read afresh equal to the latest version article by article, every article a form leaves out settled by the standing rules, every version dated by a rule or a stated in-force day, and no unexplained change other than diacritics or spacing.
+- HG nr. 245/2003: the first version is the Government decision as published in Monitorul Oficial nr. 185 of 25 March 2003 (DetaliiDocumentAfis/42524), dated 25 March 2003: a Government decision with no day of its own, in force on publication. The portal holds no consolidated form before 28 April 2022, so the changes made up to then arrive together that day.

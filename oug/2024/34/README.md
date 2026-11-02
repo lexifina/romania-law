@@ -22,3 +22,12 @@ OUG nr. 34/2024 · 2 versions, from 2024-04-12 (latest in force: 2025-04-24) · 
 | Art. 16 | [art-016.md](art-016.md) | 0 |  |
 | Art. 17 | [art-017.md](art-017.md) | 0 |  |
 | Art. 18 | [art-018.md](art-018.md) | 0 |  |
+
+Act id: `oug-34-2024` (tags `oug-34-2024/<day>`; `python tools/on.py <day> oug-34-2024`).
+
+## Decisions made by hand
+
+- OUG nr. 34/2024: added 2026-11-02, one of the Portalul legislativ's consolidated forms per version, as for the other acts. A capture was used only if it was complete and the page showed the form its document id stands for. The forms are those listed by DetaliiDocumentAfis/281764 as captured on 2026-01-14, the newest capture of any of the act's pages: 1 forms, 1 held.
+- OUG nr. 34/2024: the newest form held is that of 24.04.2025; amendments in force after it may be missing.
+- OUG nr. 34/2024: added by Lexifina's automatic pass with the default rules: the forms are those the portal lists, each version is dated by its form or by the notes it prints, and no rule or ruling made for this act alone was applied. It was published only because every automatic check passed: two parses identical, the newest form read afresh equal to the latest version article by article, every article a form leaves out settled by the standing rules, every version dated by a rule or a stated in-force day, and no unexplained change other than diacritics or spacing.
+- OUG nr. 34/2024: the first version is the emergency ordinance as published in Monitorul Oficial nr. 347 of 12 April 2024 (DetaliiDocumentAfis/281764), dated 12 April 2024: its art. 17 puts it in force on publication. The portal holds no consolidated form before 24 April 2025, so the changes made up to then arrive together that day.

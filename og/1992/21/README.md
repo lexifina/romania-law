@@ -86,3 +86,15 @@ OG nr. 21/1992 · 11 versions, from 1992-08-28 (latest in force: 2023-11-11) · 
 | Art. 67 | [art-067.md](art-067.md) | 1 | 2007-03-28 |
 | Art. 68 | [art-068.md](art-068.md) | 2 | 2007-12-31 |
 | Art. 69 | [art-069.md](art-069.md) | 1 | 2007-03-28 |
+
+Act id: `og-21-1992` (tags `og-21-1992/<day>`; `python tools/on.py <day> og-21-1992`).
+
+## Decisions made by hand
+
+- OG nr. 21/1992: added 2026-11-02, one of the Portalul legislativ's consolidated forms per version, as for the other acts. A capture was used only if it was complete and the page showed the form its document id stands for. The forms are those listed by DetaliiDocumentAfis/2175 as captured on 2025-09-16, the newest capture of any of the act's pages: 10 forms, 10 held.
+- OG nr. 21/1992: the newest form held is that of 11.11.2023; amendments in force after it may be missing.
+- OG nr. 21/1992: the first version is the ordinance as published in Monitorul Oficial nr. 212 of 28 August 1992 (DetaliiDocumentAfis/2175). It sets no in-force day of its own, so it took effect on publication. The Government's signature block printed inside its last article (art. 61) is not text and is left out.
+- OG nr. 21/1992: the portal holds no form between the ordinance as published and its republication of 28 March 2007 (Monitorul Oficial nr. 208, under art. V of Legea nr. 476/2006; read from DetaliiDocumentAfis/80603). The republication note lists what came between: the republication of 23 March 1994 (Monitorul Oficial nr. 75), Legea nr. 178/1998, OG nr. 58/2000 (approved by Legea nr. 37/2002), Hotărârea Guvernului nr. 752/2001 (fine amounts), OUG nr. 146/2001 (approved by Legea nr. 322/2002), OUG nr. 84/2002 (approved by Legea nr. 37/2003), Legea nr. 449/2003, Legea nr. 240/2004, Legea nr. 363/2005 and Legea nr. 476/2006. Their changes arrive together on 28 March 2007, with renumbered articles, and are credited to Legea nr. 476/2006, which ordered the republication, as the republication note says; files follow each text's own numbering.
+- OG nr. 21/1992: the older forms print their notes after a rule line, as plain paragraphs; a paragraph after such a note that opens like a provision ("18^1. data-limită de consum ...", art. 2, forms of 2008 to 2015) is the ordinance's text, even though its wording ("au fost respectate condițiile de ...") reads like a note.
+- OG nr. 21/1992: the forms of 13 June 2014 and 7 September 2015 print repealed letters and indents again as "abrogată" stubs (arts. 7, 37 and 66) and fix diacritics; no act made these changes, and they are the publisher's.
+- OG nr. 21/1992: 6 changed article(s) with no note naming a law, committed as the publisher's: 2014-06-13 art-009-3, 2014-06-13 art-009-7, 2014-06-13 art-010, 2014-06-13 art-037, 2015-09-07 art-007, 2015-09-07 art-066.

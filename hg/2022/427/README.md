@@ -24,3 +24,12 @@ HG nr. 427/2022 · 1 versions, from 2022-03-29 (latest in force: 2022-03-29) · 
 | Art. 18 | [art-018.md](art-018.md) | 0 |  |
 | Art. 19 | [art-019.md](art-019.md) | 0 |  |
 | Art. 20 | [art-020.md](art-020.md) | 0 |  |
+
+Act id: `hg-427-2022` (tags `hg-427-2022/<day>`; `python tools/on.py <day> hg-427-2022`).
+
+## Decisions made by hand
+
+- HG nr. 427/2022: added 2026-11-02, one of the Portalul legislativ's consolidated forms per version, as for the other acts. A capture was used only if it was complete and the page showed the form its document id stands for. The forms are those listed by DetaliiDocument/253280 as captured on 2024-08-11, the newest capture of any of the act's pages: 0 forms, 0 held.
+- HG nr. 427/2022: the newest form held is that of 29.03.2022; amendments in force after it may be missing.
+- HG nr. 427/2022: added by Lexifina's automatic pass with the default rules: the forms are those the portal lists, each version is dated by its form or by the notes it prints, and no rule or ruling made for this act alone was applied. It was published only because every automatic check passed: two parses identical, the newest form read afresh equal to the latest version article by article, every article a form leaves out settled by the standing rules, every version dated by a rule or a stated in-force day, and no unexplained change other than diacritics or spacing.
+- HG nr. 427/2022: the first version is the Government decision as published in Monitorul Oficial nr. 301 of 29 March 2022 (DetaliiDocument/253280), dated 29 March 2022: a Government decision with no day of its own, in force on publication. The portal lists no consolidated form of it, so the text as published is its only version.

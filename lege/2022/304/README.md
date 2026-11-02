@@ -172,3 +172,14 @@ Legea nr. 304/2022 · 3 versions, from 2022-12-16 (latest in force: 2025-12-31) 
 | Art. 166 | [art-166.md](art-166.md) | 0 |  |
 | Art. 167 | [art-167.md](art-167.md) | 0 |  |
 | Art. 168 | [art-168.md](art-168.md) | 1 | 2025-12-31 |
+
+Act id: `legea-304-2022` (tags `legea-304-2022/<day>`; `python tools/on.py <day> legea-304-2022`).
+
+## Decisions made by hand
+
+- Legea nr. 304/2022: added 2026-11-02, one of the Portalul legislativ's consolidated forms per version, as for the other acts. A capture was used only if it was complete and the page showed the form its document id stands for. The forms are those listed by DetaliiDocument/261410 as captured on 2026-01-18, the newest capture of any of the act's pages: 5 forms, 5 held.
+- Legea nr. 304/2022: the newest form held is that of 31.12.2025; amendments in force after it may be missing.
+- Legea nr. 304/2022: the first version is the law as published in Monitorul Oficial nr. 1104 of 16 November 2022 (DetaliiDocumentAfis/261410), in force 30 days after publication (its art. 168 alin. (1)): 16 December 2022. The portal's first form is of 15 May 2023, so the changes made up to then arrive together that day.
+- Legea nr. 304/2022: art. 168 alin. (2) puts off to a later day (1 January 2026 as published; 1 January 2027 from 31 December 2025, as OUG nr. 93/2025 amended it) only the rule on counting service without the time spent as a trainee prosecutor (auditor de justiție); it names no provision of its own, so no article is given a later day.
+- Legea nr. 304/2022: the forms of 15 May 2023, 29 December 2023 and 17 July 2025 change no article and add no version (the first two add only the portal's notes on other acts; the third changes Anexa nr. 1, which is not read as an article).
+- Legea nr. 304/2022: forms with no change after normalisation, so no version: 2023-05-15 (267074), 2023-12-29 (269731), 2025-07-17 (298773).

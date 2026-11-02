@@ -32,3 +32,12 @@ Legea nr. 294/2024 · 1 versions, from 2024-12-02 (latest in force: 2024-12-02) 
 | Art. 26 | [art-026.md](art-026.md) | 0 |  |
 | Art. 27 | [art-027.md](art-027.md) | 0 |  |
 | Art. 28 | [art-028.md](art-028.md) | 0 |  |
+
+Act id: `legea-294-2024` (tags `legea-294-2024/<day>`; `python tools/on.py <day> legea-294-2024`).
+
+## Decisions made by hand
+
+- Legea nr. 294/2024: added 2026-11-02, one of the Portalul legislativ's consolidated forms per version, as for the other acts. A capture was used only if it was complete and the page showed the form its document id stands for. The forms are those listed by DetaliiDocument/291491 as captured on 2026-01-15, the newest capture of any of the act's pages: 0 forms, 0 held.
+- Legea nr. 294/2024: the newest form held is that of 02.12.2024; amendments in force after it may be missing.
+- Legea nr. 294/2024: added by Lexifina's automatic pass with the default rules: the forms are those the portal lists, each version is dated by its form or by the notes it prints, and no rule or ruling made for this act alone was applied. It was published only because every automatic check passed: two parses identical, the newest form read afresh equal to the latest version article by article, every article a form leaves out settled by the standing rules, every version dated by a rule or a stated in-force day, and no unexplained change other than diacritics or spacing.
+- Legea nr. 294/2024: the first version is the law as published in Monitorul Oficial nr. 1189 of 29 November 2024 (DetaliiDocument/291491), dated 2 December 2024: its art. 25 puts it in force 3 days after publication. The same provision puts some provisions in force on later days («prezentei legi (1) Prezenta lege intră în vigoare la 3 zile de la data publicării în Monitorul Oficial al României, Partea I, cu excepția prevederilor art în Monitorul Oficial al României, Partea I, cu excepția prevederilor art. 22 și 23, care intră în vigoare la 10 zile de la data publicării acesteia în Monitorul Oficial al României, Partea I. (2) Referirile la noțiunea de infrastructură critică europeană (ICE) din cuprinsul actelor normative în vigoare sunt considerate ca referiri la noțiunea »); they are shown as published from 2 December 2024, and no version is made for those days. The portal lists no consolidated form of it, so the text as published is its only version.

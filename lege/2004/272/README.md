@@ -169,3 +169,16 @@ Legea nr. 272/2004 · 32 versions, from 2005-01-01 (latest in force: 2026-04-10)
 | Art. 153 | [art-153.md](art-153.md) | 1 | 2014-03-05 |
 | Art. 154 | [art-154.md](art-154.md) | 1 | 2014-03-05 |
 | Art. 155 | [art-155.md](art-155.md) | 1 | 2014-03-05 |
+
+Act id: `legea-272-2004` (tags `legea-272-2004/<day>`; `python tools/on.py <day> legea-272-2004`).
+
+## Decisions made by hand
+
+- Legea nr. 272/2004: added 2026-11-02, one of the Portalul legislativ's consolidated forms per version, as for the other acts: 32 pages read from Internet Archive captures, each pinned in forms.json and in its version's source_url. A capture was used only if it was complete and the page showed the form its document id stands for.
+- Legea nr. 272/2004: the newest form held is that of 10.04.2026 (the act page's capture 20260412075706 lists no later form); amendments in force after it may be missing.
+- Legea nr. 272/2004: the republication of 05.03.2014 (156097) has no captured page of its own that shows it, so it is read from DetaliiDocumentAfis/156097, the republished text as printed in the Monitorul Oficial (capture 20260221045937); that page carries no amendment notes.
+- Legea nr. 272/2004: the first version is the law as published in Monitorul Oficial nr. 557 of 23 June 2004 (DetaliiDocumentAfis/52909), dated 1 January 2005, the day its art. 148 alin. (1) puts it in force; the few provisions that article starts 3 days after publication (art. 17 alin. (2), art. 19 alin. (3), art. 84 alin. (2), art. 104 alin. (2), art. 105 alin. (5), art. 107 alin. (2) and art. 117) are shown from 1 January 2005 too.
+- Legea nr. 272/2004: the text republished in Monitorul Oficial nr. 159 of 5 March 2014 under art. V of Legea nr. 257/2013, with renumbered articles, is read from its own page (DetaliiDocumentAfis/156097). Changes on that day that no note explains are credited to Legea nr. 257/2013, as the republication note says; files follow each text's own numbering, so many change that day.
+- Legea nr. 272/2004: the portal editorial notes printed as paragraphs of an article (on a Constitutional Court ruling, a rectification, a provision put back in force) are not text: 27 such paragraphs across all forms, for example «* A se vedea Hotărârea Guvernului nr. 1.438/2004 pentru apro», «* Art. 115 alin. (2), fost art. 104 alin. (2).», «* Art. 116 alin. (5), fost art. 105 alin. (5).».
+- Legea nr. 272/2004: older forms print some amendment notes as plain paragraphs, with no rule line before them ("Alin. (1) al art. 119 a fost modificat de ..."); they are not text, and are read as the article's notes naming the amending act: 16.12.2008 art-119.
+- Legea nr. 272/2004: 16 changed article(s) with no note naming a law, committed as the publisher's: 2008-12-16 art-048, 2008-12-16 art-078, 2008-12-16 art-098, 2008-12-16 art-100, 2008-12-16 art-105, 2008-12-16 art-143, 2008-12-16 art-148, 2013-10-03 art-005, 2013-10-03 art-073, 2013-10-03 art-105, 2014-02-01 art-086, 2014-10-20 art-044, 2014-10-20 art-083, 2014-10-20 art-105, 2016-08-12 art-020, 2019-01-01 art-129.

@@ -38,3 +38,16 @@ Legea nr. 39/2003 Â· 4 versions, from 2003-02-28 (latest in force: 2014-02-01) Â
 | Art. 32 | [art-032.md](art-032.md) | 0 |  |
 | Art. 33 | [art-033.md](art-033.md) | 0 |  |
 | Art. 34 | [art-034.md](art-034.md) | 0 |  |
+
+Act id: `legea-39-2003` (tags `legea-39-2003/<day>`; `python tools/on.py <day> legea-39-2003`).
+
+## Decisions made by hand
+
+- Legea nr. 39/2003: added 2026-11-02, one of the Portalul legislativ's consolidated forms per version, as for the other acts. A capture was used only if it was complete and the page showed the form its document id stands for. The forms are those listed by DetaliiDocumentAfis/41478 as captured on 2025-12-05, the newest capture of any of the act's pages: 3 forms, 3 held.
+- Legea nr. 39/2003: the newest form held is that of 01.02.2014; amendments in force after it may be missing.
+- Legea nr. 39/2003: the first version is the law as published in Monitorul Oficial nr. 50 of 29 January 2003 (DetaliiDocumentAfis/41478), in force 30 days after publication (its art. 33): 28 February 2003. The portal's first form is of 27 July 2006, so the changes made up to then arrive together that day.
+- Legea nr. 39/2003: no capture of the act page itself (DetaliiDocument/41478) is held; its forms are those listed by its base text's page (DetaliiDocumentAfis/41478), each read from its own page.
+- Legea nr. 39/2003: the form of 27 July 2006 prints no amendment note; its changes (arts. 6, 18, 19, 20, 23, 24) are diacritics and spelling only, the publisher's.
+- Legea nr. 39/2003: the changes of 1 February 2014, the day the 2009 Penal Code and Code of Criminal Procedure took effect, are credited as the portal's notes name them: Legea nr. 187/2012, art. 126 (art. 2 lit. a) and b); arts. 7-10 and 13 repealed), and Legea nr. 255/2013, art. 60 (arts. 11, 14-19 and 23 repealed).
+- Legea nr. 39/2003: arts. 27-30 amend other acts. The form of 1 February 2014 prints each article they quote as an article nested in the amending one ("Articolul 17" for "Art. 17. -"), without the quotation marks; the quoted article is kept as the amending article's text, on its own lines. That change of layout is the publisher's.
+- Legea nr. 39/2003: 10 changed article(s) with no note naming a law, committed as the publisher's: 2006-07-27 art-006, 2006-07-27 art-018, 2006-07-27 art-019, 2006-07-27 art-020, 2006-07-27 art-023, 2006-07-27 art-024, 2014-02-01 art-027, 2014-02-01 art-028, 2014-02-01 art-029, 2014-02-01 art-030.

@@ -36,3 +36,12 @@ OG nr. 27/2024 · 2 versions, from 2024-08-12 (latest in force: 2024-12-26) · <
 | Art. 30 | [art-030.md](art-030.md) | 1 | 2024-12-26 |
 | Art. 30^1 | [art-030-1.md](art-030-1.md) | 1 | 2024-12-26 |
 | Art. 31 | [art-031.md](art-031.md) | 0 |  |
+
+Act id: `og-27-2024` (tags `og-27-2024/<day>`; `python tools/on.py <day> og-27-2024`).
+
+## Decisions made by hand
+
+- OG nr. 27/2024: added 2026-11-02, one of the Portalul legislativ's consolidated forms per version, as for the other acts. A capture was used only if it was complete and the page showed the form its document id stands for. The forms are those listed by DetaliiDocument/286772 as captured on 2026-05-18, the newest capture of any of the act's pages: 1 forms, 1 held.
+- OG nr. 27/2024: the newest form held is that of 26.12.2024; amendments in force after it may be missing.
+- OG nr. 27/2024: added by Lexifina's automatic pass with the default rules: the forms are those the portal lists, each version is dated by its form or by the notes it prints, and no rule or ruling made for this act alone was applied. It was published only because every automatic check passed: two parses identical, the newest form read afresh equal to the latest version article by article, every article a form leaves out settled by the standing rules, every version dated by a rule or a stated in-force day, and no unexplained change other than diacritics or spacing.
+- OG nr. 27/2024: the first version is the ordinance as published in Monitorul Oficial nr. 789 of 9 August 2024 (DetaliiDocumentAfis/286772), dated 12 August 2024: it sets no day of its own, so in force 3 days after publication (Constituția art. 78 and the rule for ordinances, as for laws). The portal holds no consolidated form before 26 December 2024, so the changes made up to then arrive together that day.

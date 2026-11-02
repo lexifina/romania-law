@@ -34,3 +34,14 @@ Legea nr. 60/1991 · 5 versions, from 1991-09-25 (latest in force: 2021-10-11) �
 | Art. 28 | [art-028.md](art-028.md) | 2 | 2014-03-14 |
 | Art. 29 | [art-029.md](art-029.md) | 3 | 2014-03-14 |
 | Art. 30 | [art-030.md](art-030.md) | 2 | 2014-03-14 |
+
+Act id: `legea-60-1991` (tags `legea-60-1991/<day>`; `python tools/on.py <day> legea-60-1991`).
+
+## Decisions made by hand
+
+- Legea nr. 60/1991: added 2026-11-02, one of the Portalul legislativ's consolidated forms per version, as for the other acts. A capture was used only if it was complete and the page showed the form its document id stands for. The forms are those listed by DetaliiDocument/1532 as captured on 2026-02-10, the newest capture of any of the act's pages: 4 forms, 4 held.
+- Legea nr. 60/1991: the newest form held is that of 11.10.2021; amendments in force after it may be missing.
+- Legea nr. 60/1991: the first version is the law as published in Monitorul Oficial nr. 192 of 25 September 1991 (DetaliiDocumentAfis/1532), dated 25 September 1991: its art. 29 puts it in force on publication. The portal holds no consolidated form before 29 September 2004, so the changes made up to then arrive together that day.
+- Legea nr. 60/1991: the republication of 29 September 2004 (55480) is credited, for the changes no note explains, to Legea nr. 31/2004, under whose art. II it was republished, as its own note says.
+- Legea nr. 60/1991: the republication of 14 March 2014 (156395) is credited, for the changes no note explains, to Legea nr. 187/2012, under whose art. 248 it was republished, as its own note says.
+- Legea nr. 60/1991: the portal editorial notes printed as paragraphs of an article (on a Constitutional Court ruling, a rectification, a provision put back in force) are not text: 1 such paragraphs across all forms, for example «* De la data intrării în vigoare a Legii de revizuire a Cons».

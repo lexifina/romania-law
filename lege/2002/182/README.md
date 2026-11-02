@@ -48,3 +48,16 @@ Legea nr. 182/2002 · 6 versions, from 2002-06-11 (latest in force: 2015-07-03) 
 | Art. 42 | [art-042.md](art-042.md) | 1 | 2015-06-30 |
 | Art. 43 | [art-043.md](art-043.md) | 1 | 2005-03-10 |
 | Art. 44 | [art-044.md](art-044.md) | 1 | 2015-06-30 |
+
+Act id: `legea-182-2002` (tags `legea-182-2002/<day>`; `python tools/on.py <day> legea-182-2002`).
+
+## Decisions made by hand
+
+- Legea nr. 182/2002: added 2026-11-02, one of the Portalul legislativ's consolidated forms per version, as for the other acts. A capture was used only if it was complete and the page showed the form its document id stands for. The forms are those listed by DetaliiDocument/35209 as captured on 2026-02-23 (Internet Archive), the newest capture of any of the act's pages: 4 forms, 4 held.
+- Legea nr. 182/2002: the newest form held is that of 30.06.2015; amendments in force after it may be missing.
+- Legea nr. 182/2002: the first version is the law as published in Monitorul Oficial nr. 248 of 12 April 2002 (DetaliiDocumentAfis/35209), dated 11 June 2002: its art. 43 puts it in force 60 days after publication.
+- Legea nr. 182/2002: the portal holds no consolidated form before 10 March 2005, so the changes made between the law as published and that form arrive together that day.
+- Legea nr. 182/2002: the portal dates its newest form 30 June 2015, the day Legea nr. 167/2015 was published, but the notes of that form date the law's changes (arts. 15 and 17) 3 July 2015, the day the law took effect; those changes are therefore a version of 3 July 2015, and the rest of that form (only typesetting) keeps the form's date.
+- Legea nr. 182/2002: the forms of 10 March 2005 and 30 June 2015 differ from the form before them in spelling and diacritics (for example "alterarii" / "alterării", "sa" / "să") that no note explains; those changes are the publisher's, labelled unexplained.
+- Legea nr. 182/2002: changes a form prints before the in-force day its own notes give are dated by the notes (the earlier text stands until then): 2015-07-03 (art-015, art-017; printed in the form of 30.06.2015).
+- Legea nr. 182/2002: 34 changed article(s) with no note naming a law, committed as the publisher's: 2005-03-10 art-004, 2005-03-10 art-010, 2005-03-10 art-015, 2005-03-10 art-024, 2005-03-10 art-043, 2015-06-30 art-003, 2015-06-30 art-005, 2015-06-30 art-006, 2015-06-30 art-007, 2015-06-30 art-010, 2015-06-30 art-016, 2015-06-30 art-018, 2015-06-30 art-019, 2015-06-30 art-020, 2015-06-30 art-021, 2015-06-30 art-022, 2015-06-30 art-023, 2015-06-30 art-024, 2015-06-30 art-025, 2015-06-30 art-026, 2015-06-30 art-027, 2015-06-30 art-028, 2015-06-30 art-030, 2015-06-30 art-031, 2015-06-30 art-032, 2015-06-30 art-033, 2015-06-30 art-034, 2015-06-30 art-035, 2015-06-30 art-036, 2015-06-30 art-038, 2015-06-30 art-039, 2015-06-30 art-041, 2015-06-30 art-042, 2015-06-30 art-044.

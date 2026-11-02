@@ -52,3 +52,14 @@ OUG nr. 44/2008 · 7 versions, from 2008-04-25 (latest in force: 2022-11-26) · 
 | Art. 42 | [art-042.md](art-042.md) | 2 | 2022-05-09 |
 | Art. 43 | [art-043.md](art-043.md) | 1 | 2017-01-17 |
 | Art. 44 | [art-044.md](art-044.md) | 0 |  |
+
+Act id: `oug-44-2008` (tags `oug-44-2008/<day>`; `python tools/on.py <day> oug-44-2008`).
+
+## Decisions made by hand
+
+- OUG nr. 44/2008: added 2026-11-02, one of the Portalul legislativ's consolidated forms per version, as for the other acts. A capture was used only if it was complete and the page showed the form its document id stands for. The forms are those listed by DetaliiDocument/254138 as captured on 2026-05-20, the newest capture of any of the act's pages: 6 forms, 6 held.
+- OUG nr. 44/2008: the newest form held is that of 26.11.2022; amendments in force after it may be missing.
+- OUG nr. 44/2008: the first version is the emergency ordinance as published in Monitorul Oficial nr. 328 of 25 April 2008 (DetaliiDocumentAfis/91808), dated 25 April 2008: it sets no in-force day of its own, so in force on publication. Its annex (Anexa 1, the documents supporting an application for registration) is not an article and is not read; the portal's consolidated forms do not print it.
+- OUG nr. 44/2008: approved with amendments by Legea nr. 182/2016 (Monitorul Oficial nr. 828 of 19 October 2016); the portal's notes date its changes 17 January 2017, the date of the form that carries them, and each change is credited to it from those notes.
+- OUG nr. 44/2008: the portal prints the repeal notes of arts. 34 and 42 just after the article ("Articolul 34 ... a fost abrogat de Punctul 27, Articolul I din LEGEA nr. 182 ..."); they are read as that article's notes. The signature block printed after art. 44 ("PRIM-MINISTRU ...") is not part of the article.
+- OUG nr. 44/2008: 4 changed article(s) with no note naming a law, committed as the publisher's: 2017-01-17 art-043, 2022-05-09 art-003, 2022-05-09 art-042, 2022-11-26 art-034.

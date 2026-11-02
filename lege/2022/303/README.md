@@ -298,3 +298,14 @@ Legea nr. 303/2022 · 4 versions, from 2022-12-16 (latest in force: 2026-03-02) 
 | Art. 292 | [art-292.md](art-292.md) | 0 |  |
 | Art. 293 | [art-293.md](art-293.md) | 0 |  |
 | Art. 294 | [art-294.md](art-294.md) | 1 | 2025-12-31 |
+
+Act id: `legea-303-2022` (tags `legea-303-2022/<day>`; `python tools/on.py <day> legea-303-2022`).
+
+## Decisions made by hand
+
+- Legea nr. 303/2022: added 2026-11-02, one of the Portalul legislativ's consolidated forms per version, as for the other acts. A capture was used only if it was complete and the page showed the form its document id stands for. The forms are those listed by DetaliiDocument/261399 as captured on 2026-06-30 (Internet Archive), the newest capture of any of the act's pages: 6 forms, 6 held.
+- Legea nr. 303/2022: the newest form held is that of 02.03.2026; amendments in force after it may be missing.
+- Legea nr. 303/2022: the first version is the law as published in Monitorul Oficial nr. 1102 of 16 November 2022 (DetaliiDocumentAfis/261399), in force 30 days after publication (its art. 294 alin. (1)): 16 December 2022. The portal's first form is of 1 January 2024, so the changes made up to then arrive together that day.
+- Legea nr. 303/2022: art. 294 alin. (2) puts off to a later day (1 January 2026 as published; 1 January 2027 from 31 December 2025, as OUG nr. 93/2025 amended it) only the rule on counting service without the time spent as a trainee judge or prosecutor (auditor de justiție); it names no provision of its own, so no article is given a later day.
+- Legea nr. 303/2022: the forms of 30 June and 14 August 2025 add the portal's note on Decizia Curții Constituționale nr. 203/2025 (Monitorul Oficial nr. 611 of 30 June 2025), which holds the phrase "care au făcut parte din serviciile de informații" in arts. 108 alin. (6), 142 alin. (4), 144 alin. (2) and 150 alin. (4) constitutional only as far as it means the intelligence services before 1990; the note says that phrase ceased to have effect from 14 August 2025, but every later form prints the articles unchanged, so the text is kept as printed. Those forms, and the form of 1 January 2025, change no article and add no version.
+- Legea nr. 303/2022: forms with no change after normalisation, so no version: 2025-01-01 (292629), 2025-06-30 (298716), 2025-08-14 (302074).

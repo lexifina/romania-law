@@ -124,3 +124,18 @@ Legea nr. 100/2016 · 14 versions, from 2016-05-26 (latest in force: 2024-11-17)
 | Art. 116 | [art-116.md](art-116.md) | 0 |  |
 | Art. 117 | [art-117.md](art-117.md) | 0 |  |
 | Art. 118 | [art-118.md](art-118.md) | 0 |  |
+
+Act id: `legea-100-2016` (tags `legea-100-2016/<day>`; `python tools/on.py <day> legea-100-2016`).
+
+## Decisions made by hand
+
+- Legea nr. 100/2016: added 2026-11-02, one of the Portalul legislativ's consolidated forms per version, as for the other acts. A capture was used only if it was complete and the page showed the form its document id stands for. The forms are those listed by DetaliiDocument/178689 as captured on 2025-11-17, the newest capture of any of the act's pages: 12 forms, 12 held.
+- Legea nr. 100/2016: the newest form held is that of 17.11.2024; amendments in force after it may be missing.
+- Legea nr. 100/2016: the first version is the law as published in Monitorul Oficial nr. 392 of 23 May 2016 (DetaliiDocumentAfis/178689), dated 26 May 2016: it sets no in-force day of its own, so 3 days after publication (Constituția art. 78). The portal holds no consolidated form before 7 December 2016, so the changes made up to then arrive together that day.
+- Legea nr. 100/2016: the value threshold of art. 11 alin. (1) is not amended by a Romanian act: the portal rewrites the amount when EU delegated regulations change it, with an editorial note giving the new amount and the day it applies from (1 January 2020, 2022 and 2024). Those changes are dated by the editorial note, the earlier amount standing until then: 1 January 2020 (form of 12.02.2020), 1 January 2022 (form of 30.08.2021) and 1 January 2024 (form of 06.10.2022). No note names a law for them, so they are the publisher's. The form of 17.11.2024 carries a note for a further change from 1 January 2026 but prints the unchanged amount, so no change is made for it.
+- Legea nr. 100/2016: the form of 12 February 2020 loses the space in art. 10 ("și nr. 1.107/70" printed as "șinr."); no note explains it. This change is the publisher's, labelled unexplained.
+- Legea nr. 100/2016: the portal prints some repeal notes just after the article they concern; they are read as that article's notes.
+- Legea nr. 100/2016: changes a form prints before the in-force day its own notes give are dated by the notes (the earlier text stands until then): 2022-01-01 (art-011; printed in the form of 30.08.2021); 2024-01-01 (art-011; printed in the form of 06.10.2022).
+- Legea nr. 100/2016: changes whose notes give an in-force day between two forms the portal holds are dated by the note, with the later form's text for those articles: 2020-01-01 (art-011; form 12.02.2020).
+- Legea nr. 100/2016: 4 changed article(s) with no note naming a law, committed as the publisher's: 2020-02-12 art-010, 2020-02-12 art-011, 2021-08-30 art-011, 2022-10-06 art-011.
+- Legea nr. 100/2016: forms with no change after normalisation, so no version: 2016-12-07 (184797), 2020-07-07 (227289).

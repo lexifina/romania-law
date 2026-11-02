@@ -21,3 +21,13 @@ Legea nr. 337/2018 · 2 versions, from 2018-12-31 (latest in force: 2024-11-17) 
 | Art. 15 | [art-015.md](art-015.md) | 0 |  |
 | Art. 16 | [art-016.md](art-016.md) | 0 |  |
 | Art. 17 | [art-017.md](art-017.md) | 0 |  |
+
+Act id: `legea-337-2018` (tags `legea-337-2018/<day>`; `python tools/on.py <day> legea-337-2018`).
+
+## Decisions made by hand
+
+- Legea nr. 337/2018: added 2026-11-02, one of the Portalul legislativ's consolidated forms per version, as for the other acts. A capture was used only if it was complete and the page showed the form its document id stands for. The forms are those listed by DetaliiDocument/290671 as captured on 2025-10-13, the newest capture of any of the act's pages: 1 forms, 1 held.
+- Legea nr. 337/2018: the newest form held is that of 17.11.2024; amendments in force after it may be missing.
+- Legea nr. 337/2018: added by Lexifina's automatic pass with the default rules: the forms are those the portal lists, each version is dated by its form or by the notes it prints, and no rule or ruling made for this act alone was applied. It was published only because every automatic check passed: two parses identical, the newest form read afresh equal to the latest version article by article, every article a form leaves out settled by the standing rules, every version dated by a rule or a stated in-force day, and no unexplained change other than diacritics or spacing.
+- Legea nr. 337/2018: the first version is the law as published in Monitorul Oficial nr. 1107 of 28 December 2018 (DetaliiDocumentAfis/209436), dated 31 December 2018: it sets no day of its own, so in force 3 days after publication (Constituția art. 78). The portal holds no consolidated form before 17 November 2024, so the changes made up to then arrive together that day.
+- Legea nr. 337/2018: 1 changed article(s) with no note naming a law, committed as the publisher's: 2024-11-17 art-007.

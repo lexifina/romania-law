@@ -304,3 +304,15 @@ Codul vamal (Legea nr. 86/2006) · 13 versions, from 2006-06-18 (latest in force
 | Art. 286 | [art-286.md](art-286.md) | 0 |  |
 | Art. 287 | [art-287.md](art-287.md) | 0 |  |
 | Art. 288 | [art-288.md](art-288.md) | 0 |  |
+
+Act id: `legea-86-2006` (tags `legea-86-2006/<day>`; `python tools/on.py <day> legea-86-2006`).
+
+## Decisions made by hand
+
+- Codul vamal (Legea nr. 86/2006): added 2026-11-02, one of the Portalul legislativ's consolidated forms per version, as for the other acts. A capture was used only if it was complete and the page showed the form its document id stands for. The forms are those listed by DetaliiDocument/269540 as captured on 2026-02-08, the newest capture of any of the act's pages: 13 forms, 13 held.
+- Codul vamal (Legea nr. 86/2006): the newest form held is that of 18.12.2025; amendments in force after it may be missing.
+- Codul vamal (Legea nr. 86/2006): the first version is the law as published in Monitorul Oficial nr. 350 of 19 April 2006 (DetaliiDocumentAfis/70964), in force 60 days after publication (its art. 288 alin. (1)): 18 June 2006. Art. 288 alin. (4) puts art. 245 alin. (2) and (3), art. 247, art. 252 and art. 255 alin. (2) and (3) in force on Romania's accession to the European Union (1 January 2007); they are shown from 18 June 2006, as the law prints them. The portal's first form is of 7 April 2009, so the changes made up to then arrive together that day.
+- Codul vamal (Legea nr. 86/2006): the portal keeps the code as its own document (DetaliiDocument/70955, "CODUL VAMAL"); the pages of the law (DetaliiDocument/70964 and its form pages) only frame the code's forms, so the forms are read from the code's pages. The form of 18 December 2025 (304529) is read from its DetaliiDocumentAfis page as captured on 10 February 2026 (Internet Archive 20260210135951), which shows that form as the newest and lists every earlier one.
+- Codul vamal (Legea nr. 86/2006): the law as published and the forms to 29 June 2013 print, after art. 288 alin. (4), the note "* Prezenta lege asigură aplicarea Regulamentului Consiliului (CEE) nr. 2.913/92 de instituire a Codului vamal comunitar ..."; it says which EU act the law implements and is not an article's text, so it is left out.
+- Codul vamal (Legea nr. 86/2006): 4 changed article(s) with no note naming a law, committed as the publisher's: 2014-02-01 art-003, 2014-02-01 art-135, 2014-02-01 art-239, 2014-02-01 art-245.
+- Codul vamal (Legea nr. 86/2006): forms with no change after normalisation, so no version: 2022-05-05 (254137).

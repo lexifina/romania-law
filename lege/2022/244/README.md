@@ -34,3 +34,12 @@ Legea nr. 244/2022 · 2 versions, from 2022-08-06 (latest in force: 2024-06-25) 
 | Art. 28 | [art-028.md](art-028.md) | 0 |  |
 | Art. 29 | [art-029.md](art-029.md) | 0 |  |
 | Art. 30 | [art-030.md](art-030.md) | 0 |  |
+
+Act id: `legea-244-2022` (tags `legea-244-2022/<day>`; `python tools/on.py <day> legea-244-2022`).
+
+## Decisions made by hand
+
+- Legea nr. 244/2022: added 2026-11-02, one of the Portalul legislativ's consolidated forms per version, as for the other acts. A capture was used only if it was complete and the page showed the form its document id stands for. The forms are those listed by DetaliiDocumentAfis/257861 as captured on 2026-02-15, the newest capture of any of the act's pages: 1 forms, 1 held.
+- Legea nr. 244/2022: the newest form held is that of 25.06.2024; amendments in force after it may be missing.
+- Legea nr. 244/2022: added by Lexifina's automatic pass with the default rules: the forms are those the portal lists, each version is dated by its form or by the notes it prints, and no rule or ruling made for this act alone was applied. It was published only because every automatic check passed: two parses identical, the newest form read afresh equal to the latest version article by article, every article a form leaves out settled by the standing rules, every version dated by a rule or a stated in-force day, and no unexplained change other than diacritics or spacing.
+- Legea nr. 244/2022: the first version is the law as published in Monitorul Oficial nr. 754 of 27 July 2022 (DetaliiDocumentAfis/257861), dated 6 August 2022: its art. 30 puts it in force 10 days after publication. The portal holds no consolidated form before 25 June 2024, so the changes made up to then arrive together that day.

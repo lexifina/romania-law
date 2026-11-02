@@ -13,3 +13,12 @@ Legea nr. 174/2019 · 2 versions, from 2019-10-12 (latest in force: 2021-11-28) 
 | Art. 6^1 | [art-006-1.md](art-006-1.md) | 1 | 2021-11-28 |
 | Art. 7 | [art-007.md](art-007.md) | 0 |  |
 | Art. 8 | [art-008.md](art-008.md) | 0 |  |
+
+Act id: `legea-174-2019` (tags `legea-174-2019/<day>`; `python tools/on.py <day> legea-174-2019`).
+
+## Decisions made by hand
+
+- Legea nr. 174/2019: added 2026-11-02, one of the Portalul legislativ's consolidated forms per version, as for the other acts. A capture was used only if it was complete and the page showed the form its document id stands for. The forms are those listed by DetaliiDocumentAfis/218772 as captured on 2025-10-07, the newest capture of any of the act's pages: 1 forms, 1 held.
+- Legea nr. 174/2019: the newest form held is that of 28.11.2021; amendments in force after it may be missing.
+- Legea nr. 174/2019: added by Lexifina's automatic pass with the default rules: the forms are those the portal lists, each version is dated by its form or by the notes it prints, and no rule or ruling made for this act alone was applied. It was published only because every automatic check passed: two parses identical, the newest form read afresh equal to the latest version article by article, every article a form leaves out settled by the standing rules, every version dated by a rule or a stated in-force day, and no unexplained change other than diacritics or spacing.
+- Legea nr. 174/2019: the first version is the law as published in Monitorul Oficial nr. 820 of 9 October 2019 (DetaliiDocumentAfis/218772), dated 12 October 2019: it sets no day of its own, so in force 3 days after publication (Constituția art. 78). The portal holds no consolidated form before 28 November 2021, so the changes made up to then arrive together that day.

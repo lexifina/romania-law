@@ -147,3 +147,12 @@ Legea nr. 265/2022 · 2 versions, from 2022-11-26 (latest in force: 2023-07-23) 
 | Art. 140 | [art-140.md](art-140.md) | 0 |  |
 | Art. 141 | [art-141.md](art-141.md) | 0 |  |
 | Art. 142 | [art-142.md](art-142.md) | 0 |  |
+
+Act id: `legea-265-2022` (tags `legea-265-2022/<day>`; `python tools/on.py <day> legea-265-2022`).
+
+## Decisions made by hand
+
+- Legea nr. 265/2022: added 2026-11-02, one of the Portalul legislativ's consolidated forms per version, as for the other acts. A capture was used only if it was complete and the page showed the form its document id stands for. The forms are those listed by DetaliiDocument/257835 as captured on 2025-11-18, the newest capture of any of the act's pages: 2 forms, 2 held.
+- Legea nr. 265/2022: the newest form held is that of 12.09.2024; amendments in force after it may be missing.
+- Legea nr. 265/2022: the first version is the law as published in Monitorul Oficial nr. 750 of 26 July 2022 (DetaliiDocumentAfis/257835), in force 4 months after publication (its art. 141 alin. (1)): 26 November 2022. Arts. 133, 134, 137 and 138 took effect 3 days after publication (29 July 2022), and art. 8 alin. (2) applies from 1 August 2023 (art. 141 alin. (2)); they are shown from 26 November 2022 with the rest of the law.
+- Legea nr. 265/2022: forms with no change after normalisation, so no version: 2024-09-12 (257835).

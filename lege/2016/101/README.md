@@ -84,3 +84,14 @@ Legea nr. 101/2016 · 10 versions, from 2016-05-26 (latest in force: 2023-04-06)
 | Art. 69 | [art-069.md](art-069.md) | 0 |  |
 | Art. 70 | [art-070.md](art-070.md) | 0 |  |
 | Art. 71 | [art-071.md](art-071.md) | 0 |  |
+
+Act id: `legea-101-2016` (tags `legea-101-2016/<day>`; `python tools/on.py <day> legea-101-2016`).
+
+## Decisions made by hand
+
+- Legea nr. 101/2016: added 2026-11-02, one of the Portalul legislativ's consolidated forms per version, as for the other acts. A capture was used only if it was complete and the page showed the form its document id stands for. The forms are those listed by DetaliiDocument/178680 as captured on 2026-02-10, the newest capture of any of the act's pages: 10 forms, 10 held.
+- Legea nr. 101/2016: the newest form held is that of 06.04.2023; amendments in force after it may be missing.
+- Legea nr. 101/2016: the first version is the law as published in Monitorul Oficial nr. 393 of 23 May 2016 (DetaliiDocumentAfis/178680), dated 26 May 2016: it sets no in-force day of its own, so 3 days after publication (Constituția art. 78). The portal holds no consolidated form before 22 December 2017, so the changes made up to then arrive together that day.
+- Legea nr. 101/2016: the portal prints some repeal notes just after the article they concern ("Articolul 61^2 ... a fost abrogat de Punctul 25, Articolul IV din ORDONANȚA DE URGENȚĂ nr. 23 ..."); they are read as that article's notes.
+- Legea nr. 101/2016: 1 changed article(s) with no note naming a law, committed as the publisher's: 2023-04-06 art-027.
+- Legea nr. 101/2016: forms with no change after normalisation, so no version: 2020-07-07 (228257).

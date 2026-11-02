@@ -271,3 +271,14 @@ Legea nr. 199/2023 · 14 versions, from 2023-09-03 (latest in force: 2026-01-30)
 | Art. 264 | [art-264.md](art-264.md) | 2 | 2026-01-30 |
 | Art. 265 | [art-265.md](art-265.md) | 0 |  |
 | Art. 266 | [art-266.md](art-266.md) | 0 |  |
+
+Act id: `legea-199-2023` (tags `legea-199-2023/<day>`; `python tools/on.py <day> legea-199-2023`).
+
+## Decisions made by hand
+
+- Legea nr. 199/2023: added 2026-11-02, one of the Portalul legislativ's consolidated forms per version, as for the other acts. A capture was used only if it was complete and the page showed the form its document id stands for. The forms are those listed by DetaliiDocument/288438 as captured on 2026-06-07, the newest capture of any of the act's pages: 15 forms, 13 held.
+- Legea nr. 199/2023: the newest form held is that of 30.01.2026; the portal lists a later form, of 27.02.2026 (307060), 20.04.2026 (309186), which neither archive holds (no capture of its own page, and no capture of the act page 271898 made while it was the newest form), so the record ends at the newest form held and amendments in force from that day are missing.
+- Legea nr. 199/2023: three forms are read from Internet Archive captures: those of 19.12.2025 (304546) and 19.01.2026 (306016) from the act page 271898 as captured on 5 and 20 January 2026, while each was the newest form, and that of 30.01.2026 (306815) from DetaliiDocumentAfis/306815 as captured on 2 April 2026, which shows it.
+- Legea nr. 199/2023: the first version is the law as published in Monitorul Oficial nr. 614 of 5 July 2023 (DetaliiDocumentAfis/271898), in force 60 days after publication (its art. 260 alin. (1)): 3 September 2023.
+- Legea nr. 199/2023: the form the portal lists under 4 September 2023 (274194) is read at 3 September 2023, the day the law took effect: its only new notes date the changes made by OUG nr. 72/2023 (arts. 57, 98 and 128) "la 03-09-2023". It is a version of its own on that day, after the law as published.
+- Legea nr. 199/2023: art. 260 puts off the application of some provisions to later academic years (for example short-cycle studies and dual higher education from 2024-2025); the text of every article is shown from its form's date as the portal prints it, and no article is given a later day.

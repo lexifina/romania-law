@@ -36,3 +36,14 @@ Legea contenciosului administrativ nr. 554/2004 · 20 versions, from 2005-01-06 
 | Art. 29 | [art-029.md](art-029.md) | 0 |  |
 | Art. 30 | [art-030.md](art-030.md) | 0 |  |
 | Art. 31 | [art-031.md](art-031.md) | 0 |  |
+
+Act id: `legea-554-2004` (tags `legea-554-2004/<day>`; `python tools/on.py <day> legea-554-2004`).
+
+## Decisions made by hand
+
+- Legea contenciosului administrativ nr. 554/2004: Phase 3 act, one of the Portalul legislativ's consolidated forms per version, as for the Phase 1 acts. A capture was used only if it was complete and the page showed the form its document id stands for.
+- Legea contenciosului administrativ nr. 554/2004: the newest form held is that of 10.07.2025 (the act page's capture 20260627201003 lists no later form); amendments in force after it may be missing.
+- Legea nr. 554/2004: the first version is the law as published in Monitorul Oficial nr. 1.154 of 7 December 2004 (DetaliiDocumentAfis/57426), dated 6 January 2005: its art. 31 alin. (1) puts it in force 30 days after publication.
+- Legea contenciosului administrativ nr. 554/2004: the portal editorial notes printed as paragraphs of an article (on a Constitutional Court ruling, a rectification, a provision put back in force) are not text: 131 such paragraphs across all forms, for example «Alin. (1) al art. 20 și-a încetat efectele juridice începând», «Alin. (2) al art. 21 a fost repus în vigoare ca urmare a dec», «Alin. (2) al art. 21 este repus în vigoare în forma avută an».
+- Legea contenciosului administrativ nr. 554/2004: 7 changed article(s) with no note naming a law, committed as the publisher's: 2006-05-21 art-020, 2006-12-30 art-004, 2013-01-29 art-005, 2013-01-29 art-007, 2013-01-29 art-021, 2013-01-29 art-023, 2016-04-12 art-021.
+- Legea contenciosului administrativ nr. 554/2004: forms with no change after normalisation, so no version: 2006-04-05 (70656), 2006-11-14 (76842), 2007-02-13 (79787), 2007-09-17 (86295), 2007-10-19 (86296), 2007-12-04 (86838), 2011-01-27 (125688), 2011-03-14 (134065), 2011-05-09 (134066), 2011-06-24 (134067), 2013-03-16 (145076), 2014-09-30 (161789), 2014-11-15 (170645), 2016-02-26 (176189), 2020-03-11 (223558), 2020-04-25 (224247), 2025-07-10 (57426).

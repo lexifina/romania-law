@@ -35,3 +35,12 @@ Legea nr. 232/2022 · 1 versions, from 2025-06-28 (latest in force: 2025-06-28) 
 | Art. 29 | [art-029.md](art-029.md) | 0 |  |
 | Art. 30 | [art-030.md](art-030.md) | 0 |  |
 | Art. 31 | [art-031.md](art-031.md) | 0 |  |
+
+Act id: `legea-232-2022` (tags `legea-232-2022/<day>`; `python tools/on.py <day> legea-232-2022`).
+
+## Decisions made by hand
+
+- Legea nr. 232/2022: added 2026-11-02, one of the Portalul legislativ's consolidated forms per version, as for the other acts. A capture was used only if it was complete and the page showed the form its document id stands for. The forms are those listed by DetaliiDocument/257778 as captured on 2026-02-11, the newest capture of any of the act's pages: 0 forms, 0 held.
+- Legea nr. 232/2022: the newest form held is that of 28.06.2025; amendments in force after it may be missing.
+- Legea nr. 232/2022: added by Lexifina's automatic pass with the default rules: the forms are those the portal lists, each version is dated by its form or by the notes it prints, and no rule or ruling made for this act alone was applied. It was published only because every automatic check passed: two parses identical, the newest form read afresh equal to the latest version article by article, every article a form leaves out settled by the standing rules, every version dated by a rule or a stated in-force day, and no unexplained change other than diacritics or spacing.
+- Legea nr. 232/2022: the first version is the law as published in Monitorul Oficial nr. 743 of 25 July 2022 (DetaliiDocumentAfis/257778), dated 28 June 2025: its art. 30 puts it in force on 28 June 2025. The same provision puts some provisions in force on later days («Prezenta lege intră în vigoare la data de 28 iunie 2025, cu excepția prevederilor art, cu excepția prevederilor art. 4 alin. (8), care intră în vigoare la data de 28 iunie 2027. +»); they are shown as published from 28 June 2025, and no version is made for those days. The portal lists no consolidated form of it, so the text as published is its only version; the act page (DetaliiDocument/257778) prints the same text.

@@ -78,3 +78,16 @@ Legea nr. 188/2000 · 14 versions, from 2000-11-10 (latest in force: 2022-07-17)
 | Art. 71 | [art-071.md](art-071.md) | 1 | 2011-10-20 |
 | Art. 72 | [art-072.md](art-072.md) | 1 | 2011-10-20 |
 | Art. 73 | [art-073.md](art-073.md) | 2 | 2014-10-19 |
+
+Act id: `legea-188-2000` (tags `legea-188-2000/<day>`; `python tools/on.py <day> legea-188-2000`).
+
+## Decisions made by hand
+
+- Legea nr. 188/2000: added 2026-11-02, one of the Portalul legislativ's consolidated forms per version, as for the other acts. A capture was used only if it was complete and the page showed the form its document id stands for. The forms are those listed by DetaliiDocument/24928 as captured on 2025-11-17, the newest capture of any of the act's pages: 12 forms, 12 held.
+- Legea nr. 188/2000: the newest form held is that of 17.07.2022; amendments in force after it may be missing.
+- Legea nr. 188/2000: the first version is the law as published in Monitorul Oficial nr. 559 of 10 November 2000 (DetaliiDocumentAfis/24928), in force on publication (its art. 66 alin. (1), which puts it into application 90 days after that day; no article is given a later day). The portal's first form is of 25 July 2002, so the changes made up to then arrive together that day.
+- Legea nr. 188/2000: the text republished in Monitorul Oficial nr. 738 of 20 October 2011 under art. II of Legea nr. 151/2011, with renumbered articles, is read from its own page (DetaliiDocumentAfis/132311); changes on that day that no note explains are credited to Legea nr. 151/2011, as the republication note says; files follow each text's own numbering.
+- Legea nr. 188/2000: the portal editorial notes printed as paragraphs of an article (on a Constitutional Court ruling, a rectification, a provision put back in force) are not text: 8 such paragraphs across all forms, for example «* A se vedea asteriscul corespunzător art. 21 alin. (2).», «* Abrogată ulterior prin Ordonanța Guvernului nr. 8/2007 pri».
+- Legea nr. 188/2000: articles a form leaves out are shown repealed on the day the repealing act took effect (on publication for an emergency ordinance, 3 days after for a law, unless the act sets its own day), credited to that act as its repeal note names it: art. 64, left out from the form of 25.07.2002: repealed by OG nr. 7/2001, in force 01.01.2002 (its own clause: in force on 1 January 2002 (published in Monitorul Oficial nr. 435 of 3 August 2001)); art. 36, left out from the form of 28.12.2005: repealed by OUG nr. 190/2005, in force 28.12.2005 (an emergency ordinance with no day of its own, in force on publication in Monitorul Oficial nr. 1.179 of 28 December 2005).
+- Legea nr. 188/2000: repeals dated before the form that first leaves the article out: 2002-01-01 (art-064; form 25.07.2002).
+- Legea nr. 188/2000: 12 changed article(s) with no note naming a law, committed as the publisher's: 2002-07-25 art-002, 2002-07-25 art-007, 2002-07-25 art-017, 2002-07-25 art-029, 2002-07-25 art-035, 2002-07-25 art-048, 2002-07-25 art-055, 2014-10-19 art-010, 2014-10-19 art-018, 2014-10-19 art-039, 2014-10-19 art-069, 2014-10-19 art-073.

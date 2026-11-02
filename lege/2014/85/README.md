@@ -406,3 +406,13 @@ Legea nr. 85/2014 · 14 versions, from 2014-06-28 (latest in force: 2025-12-18) 
 | Art. 342 | [art-342.md](art-342.md) | 0 |  |
 | Art. 343 | [art-343.md](art-343.md) | 0 |  |
 | Art. 344 | [art-344.md](art-344.md) | 0 |  |
+
+Act id: `legea-85-2014` (tags `legea-85-2014/<day>`; `python tools/on.py <day> legea-85-2014`).
+
+## Decisions made by hand
+
+- Legea nr. 85/2014: added 2026-11-02, one of the Portalul legislativ's consolidated forms per version, as for the other acts: 17 pages read from Internet Archive captures, each pinned in forms.json and in its version's source_url. A capture was used only if it was complete and the page showed the form its document id stands for.
+- Legea nr. 85/2014: the newest form held is that of 18.12.2025 (the act page's capture 20260311164331 lists no later form); amendments in force after it may be missing.
+- Legea nr. 85/2014: the first version is the law as published in Monitorul Oficial nr. 466 of 25 June 2014 (DetaliiDocumentAfis/159286), dated 28 June 2014: the law sets no day of its own, so it took effect 3 days after publication (Constituția art. 78).
+- Legea nr. 85/2014: 3 changed article(s) with no note naming a law, committed as the publisher's: 2015-12-14 art-042, 2015-12-14 art-131, 2017-02-01 art-131.
+- Legea nr. 85/2014: forms with no change after normalisation, so no version: 2020-05-18 (225775), 2023-09-01 (268565), 2025-12-06 (304383).

@@ -43,3 +43,12 @@ Legea nr. 88/2021 Â· 2 versions, from 2021-06-20 (latest in force: 2024-06-25) Â
 | Art. 37 | [art-037.md](art-037.md) | 0 |  |
 | Art. 38 | [art-038.md](art-038.md) | 0 |  |
 | Art. 39 | [art-039.md](art-039.md) | 0 |  |
+
+Act id: `legea-88-2021` (tags `legea-88-2021/<day>`; `python tools/on.py <day> legea-88-2021`).
+
+## Decisions made by hand
+
+- Legea nr. 88/2021: added 2026-11-02, one of the Portalul legislativ's consolidated forms per version, as for the other acts. A capture was used only if it was complete and the page showed the form its document id stands for. The forms are those listed by DetaliiDocument/284293 as captured on 2026-01-14, the newest capture of any of the act's pages: 1 forms, 1 held.
+- Legea nr. 88/2021: the newest form held is that of 25.06.2024; amendments in force after it may be missing.
+- Legea nr. 88/2021: added by Lexifina's automatic pass with the default rules: the forms are those the portal lists, each version is dated by its form or by the notes it prints, and no rule or ruling made for this act alone was applied. It was published only because every automatic check passed: two parses identical, the newest form read afresh equal to the latest version article by article, every article a form leaves out settled by the standing rules, every version dated by a rule or a stated in-force day, and no unexplained change other than diacritics or spacing.
+- Legea nr. 88/2021: the first version is the law as published in Monitorul Oficial nr. 420 of 21 April 2021 (DetaliiDocumentAfis/241219), dated 20 June 2021: its art. 38 puts it in force 60 days after publication. The portal holds no consolidated form before 25 June 2024, so the changes made up to then arrive together that day.
