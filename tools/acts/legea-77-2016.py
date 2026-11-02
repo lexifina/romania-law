@@ -17,10 +17,16 @@ def register(P):
         'form_note': {}, 'republished': {},
         'decisions': [
             'Legea nr. 77/2016: the first version is the law as published in Monitorul Oficial nr. 330 of 28 April 2016 '
-            '(DetaliiDocumentAfis/178032), dated 13 May 2016: in force 15 days after publication (its art. 12). The portal's consolidated forms start on 18 January 2017, so '
+            '(DetaliiDocumentAfis/178032), dated 13 May 2016: in force 15 days after publication (its art. 12). The portal\'s consolidated forms start on 18 January 2017, so '
             'the changes made before that day arrive together with that form.',
             'Legea nr. 77/2016: the portal prints repeal and change notes just after the article they concern; they are read as '
-            'that article's notes. The signature block printed after the last article is not part of the article.',
+            'that article\'s notes. The signature block printed after the last article is not part of the article.',
+            'Legea nr. 77/2016: the portal prints, under arts. 3, 4, 5, 8 and 11, notes of Constitutional Court decisions '
+            '(Decizia nr. 623/2016, MO nr. 53 of 18 January 2017, on a phrase of art. 11; Decizia nr. '
+            '432/2021, MO nr. 905 of 21 September 2021, on the second and third sentences of art. 8 alin. (5)) and of decisions of the High Court '
+            '(Decizie de respingere / de admitere, HP nr. ...). Its text of every article stays as published in all '
+            'its forms, so no version is made for those decisions and the notes are not part of the article text. '
+            'The only amendment is Legea nr. 52/2020 (Monitorul Oficial nr. 386 of 13 May 2020), in the form of 16 May 2020.',
         ],
         'repeal_acts': {},
     }

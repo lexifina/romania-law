@@ -2104,3 +2104,109 @@ day,kind,law,acts,files,branch
 2025-12-06,law,legea-187-2025,legea-237-2015,3,main
 2025-12-06,law,legea-203-2025,legea-237-2015,3,main
 2025-12-19,law,legea-187-2025,legea-237-2015,1,main
+1992-08-28,start,og-21-1992,og-21-1992,61,main
+2000-12-10,start,legea-193-2000,legea-193-2000,17,main
+2002-01-25,law,legea-65-2002,legea-193-2000,5,main
+2002-01-25,unexplained,,legea-193-2000,11,main
+2006-12-20,law,legea-65-2002,legea-193-2000,16,main
+2007-03-28,law,legea-476-2006,og-21-1992,67,main
+2007-12-31,law,legea-363-2007,legea-193-2000 og-21-1992,29,main
+2008-04-18,law,legea-363-2007,legea-193-2000,5,main
+2008-12-27,law,oug-174-2008,og-21-1992,29,main
+2011-06-13,start,legea-71-2011,legea-71-2011,8,main
+2011-10-01,law,legea-71-2011,legea-71-2011,223,main
+2011-10-01,law,rectificare-mo-489-2011,legea-71-2011,5,main
+2011-10-01,law,oug-79-2011,legea-71-2011,3,main
+2012-01-01,law,oug-71-2011,og-21-1992,1,main
+2012-04-20,law,legea-60-2012,legea-71-2011,31,main
+2012-06-02,start,legea-76-2012,legea-76-2012,1,main
+2012-11-15,start,legea-187-2012,legea-187-2012,3,main
+2013-01-31,law,oug-4-2013,legea-193-2000,1,main
+2013-02-15,law,legea-76-2012,legea-193-2000 legea-71-2011 legea-76-2012,89,main
+2013-02-15,law,oug-4-2013,legea-76-2012,2,main
+2013-02-15,law,legea-2-2013,legea-76-2012,2,main
+2013-02-15,unexplained,,legea-76-2012,1,main
+2013-03-22,law,legea-54-2013,legea-71-2011,1,main
+2013-03-22,unexplained,,legea-71-2011,8,main
+2013-07-01,law,legea-76-2012,legea-193-2000,2,main
+2013-07-01,law,legea-214-2013,legea-71-2011 legea-76-2012,2,main
+2013-07-01,unexplained,,legea-193-2000,3,main
+2013-07-01,unexplained,,legea-71-2011,8,main
+2013-10-01,law,legea-76-2012,legea-76-2012,1,main
+2014-02-01,start,legea-255-2013,legea-255-2013,109,main
+2014-02-01,law,legea-187-2012,legea-187-2012,248,main
+2014-02-01,law,rectificare-mo-117-2013,legea-187-2012,1,main
+2014-02-01,law,legea-255-2013,legea-187-2012,1,main
+2014-02-01,law,oug-116-2013,legea-255-2013,2,main
+2014-02-01,unexplained,,legea-187-2012,16,main
+2014-02-01,unexplained,,legea-255-2013,71,main
+2014-06-13,law,oug-34-2014,legea-193-2000 og-21-1992,2,main
+2014-06-13,unexplained,,legea-193-2000,1,main
+2014-06-13,unexplained,,og-21-1992,4,main
+2014-06-28,law,legea-85-2014,legea-187-2012,1,main
+2014-06-28,law,oug-49-2014,legea-187-2012,1,main
+2014-06-28,unexplained,,legea-187-2012,1,main
+2014-10-19,law,legea-138-2014,legea-71-2011 legea-76-2012,5,main
+2014-10-19,unexplained,,legea-71-2011,13,main
+2014-10-19,unexplained,,legea-76-2012,5,main
+2014-12-30,law,oug-95-2014,legea-71-2011,1,main
+2015-01-12,law,og-21-2014,legea-187-2012,1,main
+2015-01-12,law,og-25-2014,legea-187-2012,1,main
+2015-01-12,unexplained,,legea-187-2012,1,main
+2015-06-29,start,legea-151-2015,legea-151-2015,1,main
+2015-09-07,law,og-37-2015,og-21-1992,3,main
+2015-09-07,unexplained,,og-21-1992,2,main
+2016-02-04,law,oug-1-2016,legea-71-2011,1,main
+2016-02-04,unexplained,,legea-71-2011,46,main
+2016-04-09,law,legea-51-2016,og-21-1992,1,main
+2017-04-01,start,legea-24-2017,legea-24-2017,156,main
+2018-01-01,law,legea-151-2015,legea-151-2015,92,main
+2018-03-30,law,legea-258-2013,legea-187-2012,1,main
+2018-03-30,law,oug-117-2013,legea-187-2012,1,main
+2018-03-30,law,oug-3-2014,legea-187-2012,1,main
+2018-03-30,law,oug-8-2014,legea-187-2012,1,main
+2018-03-30,law,legea-128-2014,legea-187-2012,1,main
+2018-03-30,law,legea-29-2015,legea-187-2012,1,main
+2018-03-30,law,legea-133-2015,legea-187-2012,1,main
+2018-03-30,law,legea-217-2015,legea-187-2012,1,main
+2018-03-30,law,legea-237-2015,legea-187-2012,1,main
+2018-03-30,law,legea-311-2015,legea-187-2012,1,main
+2018-03-30,law,og-8-2016,legea-187-2012,1,main
+2018-03-30,law,oug-85-2016,legea-187-2012,1,main
+2018-03-30,law,legea-242-2016,legea-187-2012,1,main
+2018-03-30,law,legea-25-2017,legea-187-2012,1,main
+2018-03-30,law,legea-24-2017,legea-187-2012,1,main
+2018-03-30,law,legea-54-2017,legea-187-2012,1,main
+2018-03-30,law,legea-193-2017,legea-187-2012,1,main
+2018-03-30,law,oug-53-2017,legea-187-2012,1,main
+2018-03-30,law,legea-49-2018,legea-187-2012,1,main
+2018-03-30,law,legea-63-2018,legea-187-2012,1,main
+2018-03-30,law,legea-74-2018,legea-187-2012,1,main
+2018-03-30,unexplained,,legea-187-2012,132,main
+2018-07-06,start,legea-126-2018,legea-126-2018,286,main
+2018-08-02,law,rectificare-mo-675-2018,legea-126-2018,3,main
+2020-08-28,law,legea-158-2020,legea-126-2018 legea-24-2017,88,main
+2020-08-28,unexplained,,legea-24-2017,2,main
+2020-09-03,law,legea-158-2020,legea-126-2018 legea-24-2017,4,main
+2020-11-05,law,legea-222-2020,og-21-1992,2,main
+2021-02-11,law,dcc-795-2020,legea-71-2011,1,main
+2021-08-10,law,legea-158-2020,legea-24-2017,201,main
+2022-05-28,law,oug-58-2022,legea-193-2000,4,main
+2022-07-03,law,legea-188-2022,legea-126-2018,44,main
+2022-07-03,unexplained,,legea-126-2018,1,main
+2022-07-20,law,oug-84-2022,og-21-1992,3,main
+2022-08-01,law,legea-236-2022,legea-126-2018,9,main
+2022-08-01,law,legea-237-2022,legea-24-2017,3,main
+2022-08-01,unexplained,,legea-126-2018,1,main
+2022-08-18,law,legea-140-2022,legea-71-2011,2,main
+2023-07-07,law,legea-181-2023,legea-126-2018 legea-24-2017,6,main
+2023-07-09,law,legea-200-2023,legea-187-2012,2,main
+2023-11-11,law,legea-296-2023,og-21-1992,2,main
+2024-06-25,law,oug-71-2024,legea-126-2018 legea-24-2017,15,main
+2024-07-05,law,oug-71-2024,legea-126-2018 legea-24-2017,11,main
+2024-10-08,law,legea-214-2024,legea-24-2017,1,main
+2024-12-21,law,oug-71-2024,legea-24-2017,11,main
+2025-01-17,law,legea-306-2024,legea-126-2018,6,main
+2025-03-15,law,legea-11-2025,legea-24-2017,51,main
+2025-07-16,unexplained,,legea-71-2011,1,main
+2026-01-16,law,legea-238-2025,legea-126-2018 legea-24-2017,21,main

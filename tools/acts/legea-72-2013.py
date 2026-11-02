@@ -17,10 +17,15 @@ def register(P):
         'form_note': {}, 'republished': {},
         'decisions': [
             'Legea nr. 72/2013: the first version is the law as published in Monitorul Oficial nr. 182 of 2 April 2013 '
-            '(DetaliiDocumentAfis/146555), dated 5 April 2013: it sets no in-force day of its own, so 3 days after publication (Constituția art. 78). The portal's consolidated forms start on 18 December 2015, so '
+            '(DetaliiDocumentAfis/146555), dated 5 April 2013: it sets no in-force day of its own, so 3 days after publication (Constituția art. 78). The portal\'s consolidated forms start on 18 December 2015, so '
             'the changes made before that day arrive together with that form.',
             'Legea nr. 72/2013: the portal prints repeal and change notes just after the article they concern; they are read as '
-            'that article's notes. The signature block printed after the last article is not part of the article.',
+            'that article\'s notes. The signature block printed after the last article is not part of the article.',
+            'Legea nr. 72/2013: the portal\'s first consolidated form (18 December 2015) differs from the law as published '
+            'only in printing: typing errors of the published text are corrected, and the transposition footnote '
+            'printed after art. 24 ("Prezenta lege transpune Directiva 2011/7/UE ...") is no longer printed; the next '
+            'form (1 February 2016) prints art. 20\'s quoted paragraph (2^1) without its quotation marks. No note names '
+            'a law for these, so they are committed as the publisher\'s, not credited to any law.',
         ],
         'repeal_acts': {},
     }

@@ -12,7 +12,7 @@ EARLY = ('art-214', 'art-216', 'art-217', 'art-218', 'art-224', 'art-225', 'art-
 def register(P):
     P.ACTS[SLUG] = {
         **P.P6, 'part': '9z-legea-71-2011', 'short': 'Legea nr. 71/2011', 'pad': 3, 'cc_forms': True,
-        'quoted_articles': True, 'trailing_notes': True, 'reprint_law': True,
+        'quoted_articles': True, 'trailing_notes': True, 'reprint_law': True, 'rect_after': True,
         'title': 'Legea nr. 71/2011 pentru punerea în aplicare a Legii nr. 287/2009 privind Codul civil',
         'url': P.PORTAL + 'DetaliiDocument/129268',
         'in_force': '2011-10-01', 'first_law': SLUG,

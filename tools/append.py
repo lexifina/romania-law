@@ -146,7 +146,7 @@ class Appender:
             raise B.CorpusError('git fast-import failed')
 
 
-def append(folder: Path, repo: Path, docs_date: str, dry_run: bool = False) -> dict:
+def append(folder: Path, repo: Path, docs_date: str, dry_run: bool = False, committer_time: int | None = None) -> dict:
     c, raw = B.load(folder)
     errs = B.validate(c)
     if errs:
@@ -174,7 +174,12 @@ def append(folder: Path, repo: Path, docs_date: str, dry_run: bool = False) -> d
     if dry_run or not commits:
         summary['main'] = head
         return summary
-    w = Appender(repo, head, head_ct, head_tz)
+    # Committer time: the publish time when given (so the host shows when the law was added), never earlier than the
+    # published head; each appended commit one second after the last. The batch log (data/appends.csv) records it, so
+    # a rebuild replays the same times and the same hashes.
+    # The batch ends at the publish time, not after it: check_repo rejects commits dated in the future.
+    start_ct = max(head_ct, (committer_time - len(commits) - 2) if committer_time else 0)
+    w = Appender(repo, head, start_ct, '+0000' if committer_time else head_tz)
     tags: dict[str, int] = {}
     log = []
     for x in commits:
@@ -205,6 +210,12 @@ def append(folder: Path, repo: Path, docs_date: str, dry_run: bool = False) -> d
     docs = B.docs_files(c, folder, raw, full_log, all_tags, docs_date)
     # Ship this script beside build.py, so the repository says how its appended commits were made.
     docs['tools/append.py'] = Path(__file__).read_text(encoding='utf-8').replace('\r\n', '\n')
+    # One row per append batch: which head it started from, its first committer time, its commit count and its acts.
+    prev_log = subprocess.run(['git', 'show', f'{head}:data/appends.csv'], cwd=repo, capture_output=True,
+                              text=True, encoding='utf-8').stdout or 'batch,base,committer_start,commits,acts\n'
+    n_batch = max(len(prev_log.strip().splitlines()) - 1, 0) + 1
+    new_acts = ' '.join(sorted({a['slug'] for a in sub['acts']}))
+    docs['data/appends.csv'] = prev_log + f'{n_batch},{head},{start_ct + 1},{len(log) + 1},{new_acts}\n'
     w.commit(committer, clock.stamp(docs_date), committer,
              f'Documentation, tables, tools and REPRODUCE.md\n\nAppended {len(log)} commits to {head[:12]}; corpus '
              f'sha256 {B.hashlib.sha256(raw).hexdigest()}, data retrieved {docs_date}.\n', docs)
@@ -226,8 +237,9 @@ def main():
     ap.add_argument('--repo', required=True)
     ap.add_argument('--docs-date', required=True)
     ap.add_argument('--dry-run', action='store_true')
+    ap.add_argument('--committer-time', type=int, help='epoch seconds to date the appended commits from (the publish time)')
     a = ap.parse_args()
-    print(append(Path(a.folder), Path(a.repo), a.docs_date, a.dry_run))
+    print(append(Path(a.folder), Path(a.repo), a.docs_date, a.dry_run, a.committer_time))
 
 
 if __name__ == '__main__':
