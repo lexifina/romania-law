@@ -21,7 +21,8 @@ from pathlib import Path
 
 KINDS = {'legea': 'lege', 'oug': 'oug', 'og': 'og', 'hg': 'hg', 'decret': 'decret', 'decret-lege': 'decret-lege'}
 KIND_NAMES = {'constitutie': 'Constituția', 'lege': 'Laws (legi)', 'oug': 'Emergency ordinances (OUG)',
-              'og': 'Ordinances (OG)', 'hg': 'Government decisions (HG)', 'decret': 'Decrees', 'decret-lege': 'Decree-laws'}
+              'og': 'Ordinances (OG)', 'hg': 'Government decisions (HG)', 'decret': 'Decrees', 'decret-lege': 'Decree-laws',
+              'cod': 'Historical codes', 'alte': 'Other acts'}
 KIND_ORDER = list(KIND_NAMES)
 # An optional "-2", "-3" ... marks a second act under the same number after an earlier id was withdrawn (ids are never
 # reused, so their tags never clash); the folder is still the official identifier.
@@ -32,6 +33,8 @@ TITLE_RE = [(re.compile(r'Ordonan[țţ]a de urgen[țţ][ăa] a Guvernului nr\.\s
             (re.compile(r'Ordonan[țţ]a Guvernului nr\.\s*(\d+)/(\d{4})'), 'og'),
             (re.compile(r'\bLegea nr\.\s*(\d+)/(\d{4})'), 'lege')]
 FIXED = {'constitutia': 'constitutie/1991'}
+# A historical code with no law number of its own: codul-civil-1864, codul-procedura-civila-1865.
+CODE_SLUG = re.compile(r'^codul-([a-z0-9-]+?)-(\d{4})$')
 AMENDING = re.compile(r'\b(?:pentru|privind)\s+(?:modificarea|completarea|aprobarea|abrogarea|prorogarea|'
                       r'suspendarea|respingerea)\b|\bde modificare\b', re.I)
 # A code is an act that IS a code: "Codul civil (Legea nr. 287/2009)", "Legea nr. 46/2008 - Codul silvic",
@@ -51,7 +54,12 @@ def act_path(slug: str, title: str = '') -> str:
         t = rx.search(title or '')
         if t:
             return f'{kind}/{t.group(2)}/{int(t.group(1))}'
-    raise SystemExit(f'no official identifier for act {slug!r} ({title!r}): add it to layout.FIXED')
+    m = CODE_SLUG.match(slug)
+    if m:  # a code older than numbered laws (Codul civil of 1864): cod/<year>/<name>
+        return f'cod/{m.group(2)}/{m.group(1)}'
+    # Never stop a publish for want of an identifier: the act goes under alte/ until FIXED names its folder.
+    print(f'layout: no official identifier for act {slug!r} ({title!r}); filed under alte/{slug}', file=sys.stderr)
+    return f'alte/{slug}'
 
 
 def parts_of(path: str) -> tuple[str, str, str]:
@@ -74,7 +82,9 @@ def assign(c: dict, known: dict[str, str]) -> None:
     for a in c['acts']:
         p = known.get(a['slug']) or act_path(a['slug'], a.get('title', ''))
         if p in seen and seen[p] != a['slug']:
-            raise SystemExit(f'{a["slug"]} and {seen[p]} would share the folder {p}')
+            # Two corpus acts claim one identifier (a duplicate entry): keep publishing, the later one under alte/.
+            print(f'layout: {a["slug"]} and {seen[p]} both claim {p}; {a["slug"]} filed under alte/', file=sys.stderr)
+            p = f'alte/{a["slug"]}'
         seen[p] = a['slug']
         a['path'] = p
 
