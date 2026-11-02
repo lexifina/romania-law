@@ -1,6 +1,6 @@
 # Every act in this repository
 
-1034 acts, 3,818 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+1044 acts, 3,982 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -25,7 +25,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (526, of which 352 amending acts)
+## Laws (legi) (535, of which 352 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -52,6 +52,7 @@
 | Legea nr. 213/1998 privind proprietatea publică și regimul juridic al acesteia | [`lege/1998/213/`](lege/1998/213/) | in force | 6 | 1999-01-23 | 2019-07-05 |
 | Legea nr. 188/1999 privind Statutul funcționarilor publici | [`lege/1999/188/`](lege/1999/188/) | in force | 46 | 2000-01-07 | 2019-08-02 |
 | Legea nr. 210/1999 privind concediul paternal | [`lege/1999/210/`](lege/1999/210/) | in force | 3 | 2000-02-14 | 2022-08-29 |
+| Legea nr. 17/2000 privind asistența socială a persoanelor vârstnice | [`lege/2000/17/`](lege/2000/17/) | in force | 13 | 2000-06-07 | 2025-12-09 |
 | Legea nr. 24/2000 privind normele de tehnică legislativă pentru elaborarea actelor normative | [`lege/2000/24/`](lege/2000/24/) | in force | 11 | 2000-03-31 | 2022-12-15 |
 | Legea nr. 78/2000 pentru prevenirea, descoperirea și sancționarea faptelor de corupție | [`lege/2000/78/`](lege/2000/78/) | in force | 13 | 2000-05-18 | 2022-07-23 |
 | Legea nr. 143/2000 privind prevenirea și combaterea traficului și consumului ilicit de droguri | [`lege/2000/143/`](lege/2000/143/) | in force | 15 | 2000-08-03 | 2024-07-25 |
@@ -62,14 +63,20 @@
 | Legea nr. 350/2001 privind amenajarea teritoriului și urbanismul | [`lege/2001/350/`](lege/2001/350/) | in force | 33 | 2001-07-10 | 2026-02-25 |
 | Legea nr. 544/2001 privind liberul acces la informațiile de interes public | [`lege/2001/544/`](lege/2001/544/) | in force | 6 | 2001-12-22 | 2016-07-17 |
 | Legea nr. 677/2001 pentru protecția persoanelor cu privire la prelucrarea datelor cu caracter personal și libera circulație a acestor date | [`lege/2001/677/`](lege/2001/677/) | repealed 2018-06-24 | 4 | 2001-12-12 | 2018-06-24 |
+| Legea nr. 76/2002 privind sistemul asigurărilor pentru șomaj și stimularea ocupării forței de muncă | [`lege/2002/76/`](lege/2002/76/) | in force | 35 | 2002-03-01 | 2025-04-11 |
 | Legea nr. 182/2002 privind protecția informațiilor clasificate | [`lege/2002/182/`](lege/2002/182/) | in force | 6 | 2002-06-11 | 2015-07-03 |
+| Legea nr. 202/2002 privind egalitatea de șanse și de tratament între femei și bărbați | [`lege/2002/202/`](lege/2002/202/) | in force | 16 | 2002-06-07 | 2022-05-03 |
 | Legea nr. 218/2002 privind organizarea și funcționarea Poliției Române | [`lege/2002/218/`](lege/2002/218/) | in force | 15 | 2002-05-09 | 2022-08-25 |
 | Legea nr. 365/2002 privind comerțul electronic | [`lege/2002/365/`](lege/2002/365/) | in force | 7 | 2002-07-05 | 2024-10-08 |
+| Legea sănătății mintale și a protecției persoanelor cu tulburări psihice nr. 487/2002 | [`lege/2002/487/`](lege/2002/487/) | in force | 10 | 2002-08-08 | 2024-12-13 |
 | Legea nr. 500/2002 privind finanțele publice | [`lege/2002/500/`](lege/2002/500/) | in force | 28 | 2003-01-01 | 2023-10-05 |
 | Legea nr. 39/2003 privind prevenirea și combaterea criminalității organizate | [`lege/2003/39/`](lege/2003/39/) | in force | 4 | 2003-02-28 | 2014-02-01 |
+| Legea drepturilor pacientului nr. 46/2003 | [`lege/2003/46/`](lege/2003/46/) | in force | 12 | 2003-02-28 | 2025-04-14 |
 | Legea nr. 52/2003 privind transparența decizională în administrația publică | [`lege/2003/52/`](lege/2003/52/) | in force | 4 | 2003-04-04 | 2022-03-02 |
 | Codul muncii (Legea nr. 53/2003) | [`lege/2003/53/`](lege/2003/53/) | in force | 61 | 2003-03-01 | 2025-12-18 |
+| Legea nr. 217/2003 pentru prevenirea și combaterea violenței domestice | [`lege/2003/217/`](lege/2003/217/) | in force | 22 | 2003-08-27 | 2025-01-17 |
 | Codul fiscal (Legea nr. 571/2003) | [`lege/2003/571/`](lege/2003/571/) | in force | 61 | 2004-01-01 | 2015-11-04 |
+| Legea nr. 211/2004 privind unele măsuri pentru asigurarea protecției victimelor infracțiunilor | [`lege/2004/211/`](lege/2004/211/) | in force | 8 | 2005-01-01 | 2024-11-08 |
 | Legea nr. 272/2004 privind protecția și promovarea drepturilor copilului | [`lege/2004/272/`](lege/2004/272/) | in force | 32 | 2005-01-01 | 2026-04-10 |
 | Legea nr. 295/2004 privind regimul armelor și al munițiilor | [`lege/2004/295/`](lege/2004/295/) | in force | 22 | 2004-12-30 | 2025-11-02 |
 | Legea nr. 297/2004 privind piața de capital | [`lege/2004/297/`](lege/2004/297/) | in force | 18 | 2004-07-29 | 2021-06-20 |
@@ -93,6 +100,7 @@
 | Legea nr. 448/2006 privind protecția și promovarea drepturilor persoanelor cu handicap | [`lege/2006/448/`](lege/2006/448/) | in force | 57 | 2007-01-01 | 2025-03-30 |
 | Legea nr. 144/2007 privind înființarea, organizarea și funcționarea Agenției Naționale de Integritate | [`lege/2007/144/`](lege/2007/144/) | in force | 12 | 2007-05-28 | 2023-01-06 |
 | Legea nr. 46/2008 - Codul silvic | [`lege/2008/46/`](lege/2008/46/) | in force | 22 | 2008-12-08 | 2024-04-13 |
+| Legea farmaciei nr. 266/2008 | [`lege/2008/266/`](lege/2008/266/) | in force | 16 | 2009-01-12 | 2024-10-26 |
 | Legea nr. 93/2009 | [`lege/2009/93/`](lege/2009/93/) | in force | 5 | 2009-04-24 | 2016-09-30 |
 | Codul penal (Legea nr. 286/2009) | [`lege/2009/286/`](lege/2009/286/) | in force | 45 | 2014-02-01 | 2026-04-26 |
 | Codul civil (Legea nr. 287/2009) | [`lege/2009/287/`](lege/2009/287/) | in force | 13 | 2011-10-01 | 2026-05-03 |
@@ -101,6 +109,7 @@
 | Legea nr. 176/2010 privind integritatea în exercitarea funcțiilor și demnităților publice, pentru modificarea și completarea Legii nr. 144/2007 privind înființarea, organizarea și funcționarea Agenției Naționale de Integritate, precum și pentru modificarea și completarea altor acte normative | [`lege/2010/176/`](lege/2010/176/) | amending act | 14 | 2010-09-05 | 2025-11-22 |
 | Legea nr. 263/2010 privind sistemul unitar de pensii publice | [`lege/2010/263/`](lege/2010/263/) | repealed 2024-09-01 | 60 | 2011-01-01 | 2024-09-01 |
 | Legea nr. 71/2011 pentru punerea în aplicare a Legii nr. 287/2009 privind Codul civil | [`lege/2011/71/`](lege/2011/71/) | in force | 13 | 2011-06-13 | 2025-07-16 |
+| Legea asistenței sociale nr. 292/2011 | [`lege/2011/292/`](lege/2011/292/) | in force | 10 | 2011-12-23 | 2025-12-31 |
 | Legea nr. 76/2012 pentru punerea în aplicare a Legii nr. 134/2010 privind Codul de procedură civilă | [`lege/2012/76/`](lege/2012/76/) | in force | 6 | 2012-06-02 | 2014-10-19 |
 | Legea nr. 187/2012 pentru punerea în aplicare a Legii nr. 286/2009 privind Codul penal | [`lege/2012/187/`](lege/2012/187/) | in force | 7 | 2012-11-15 | 2023-07-09 |
 | Legea nr. 72/2013 privind măsurile pentru combaterea întârzierii în executarea obligațiilor de plată a unor sume de bani rezultând din contracte încheiate între profesioniști și între aceștia și autorități contractante | [`lege/2013/72/`](lege/2013/72/) | in force | 3 | 2013-04-05 | 2016-02-01 |
@@ -881,12 +890,13 @@
 | Ordonanța de urgență a Guvernului nr. 78/2025 pentru modificarea Legii nr. 239/2025 privind stabilirea unor măsuri de redresare și eficientizare a resurselor publice și pentru modificarea și completarea unor acte normative | [`oug/2025/78/`](oug/2025/78/) | amending act | 1 | 2025-12-17 | 2025-12-17 |
 | Ordonanța de urgență a Guvernului nr. 87/2025 pentru stabilirea unor măsuri bugetare privind implementarea programelor naționale din domeniul lucrărilor publice | [`oug/2025/87/`](oug/2025/87/) | in force | 1 | 2025-12-24 | 2025-12-24 |
 
-## Ordinances (OG) (60, of which 46 amending acts)
+## Ordinances (OG) (61, of which 46 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
 | Ordonanța Guvernului nr. 21/1992 privind protecția consumatorilor | [`og/1992/21/`](og/1992/21/) | in force | 11 | 1992-08-28 | 2023-11-11 |
 | Ordonanța Guvernului nr. 26/2000 cu privire la asociații și fundații | [`og/2000/26/`](og/2000/26/) | in force | 15 | 2000-04-30 | 2024-10-08 |
+| Ordonanța Guvernului nr. 137/2000 privind prevenirea și sancționarea tuturor formelor de discriminare | [`og/2000/137/`](og/2000/137/) | in force | 22 | 2000-11-01 | 2022-07-02 |
 | Ordonanța Guvernului nr. 2/2001 privind regimul juridic al contravențiilor | [`og/2001/2/`](og/2001/2/) | in force | 23 | 2001-08-24 | 2026-03-27 |
 | Ordonanța Guvernului nr. 22/2002 | [`og/2002/22/`](og/2002/22/) | in force | 5 | 2002-02-01 | 2011-06-11 |
 | Ordonanța Guvernului nr. 13/2011 privind dobânda legală remuneratorie și penalizatoare pentru obligații bănești, precum și pentru reglementarea unor măsuri financiar-fiscale în domeniul bancar | [`og/2011/13/`](og/2011/13/) | in force | 5 | 2011-09-01 | 2014-06-28 |
