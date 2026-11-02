@@ -18482,6 +18482,69 @@
    ]
   },
   {
+   "slug": "legea-74-2015",
+   "path": "lege/2015/74",
+   "short": "Legea nr. 74/2015",
+   "title": "Legea nr. 74/2015 privind administratorii de fonduri de investiții alternative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167383",
+   "versions": [
+    {
+     "from": "2015-05-23",
+     "units": 65,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/167383",
+     "sha256": "96f5c52207be74cd7c408cf20f9727e3b290e6f97c9d0bc8be4b56fae6329548"
+    },
+    {
+     "from": "2015-11-21",
+     "units": 66,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/173151",
+     "sha256": "260cf5a9adf7ce57bb3fb53db2209780e5e3ba1b80a761f8fee51db178cbb15b"
+    },
+    {
+     "from": "2020-01-23",
+     "units": 68,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/221397",
+     "sha256": "b359b74b8ecdd9b38121806fb0e6f3ddf719cdfbc963ab1b1166efc2316d68ff"
+    },
+    {
+     "from": "2020-08-28",
+     "units": 70,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/228144",
+     "sha256": "ea13eb0c62035528446fccc47c25c9f2807cc4eb67287edae3b2548df4162580"
+    },
+    {
+     "from": "2022-08-01",
+     "units": 78,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/257210",
+     "sha256": "ae946c79b5c678cd241f0da19ec36a85c14abb03a29973e5ed7861f865c2c078"
+    },
+    {
+     "from": "2024-06-25",
+     "units": 80,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/284289",
+     "sha256": "098177f4fad7a6de65ee7fe78296ec3d9659d86b7a950aff182870ec2fa0dec9"
+    },
+    {
+     "from": "2024-07-05",
+     "units": 80,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/284864",
+     "sha256": "b7434e99a51c8ba6fad379e89e49f5fa17a37342884b173834a20d5abe2d8d13"
+    },
+    {
+     "from": "2025-01-17",
+     "units": 80,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/291579",
+     "sha256": "4bc66b41efcdff6d259872cec3e7ec0d4a34c6787c5f62b29cc3a93db1292323"
+    },
+    {
+     "from": "2026-01-16",
+     "units": 81,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305315",
+     "sha256": "5ae602f583362d6261cd4e48e0625fe757a17c72da4e20d44b56402e5f00bc3d"
+    }
+   ]
+  },
+  {
    "slug": "legea-75-2016",
    "path": "lege/2016/75",
    "short": "Legea nr. 75/2016",

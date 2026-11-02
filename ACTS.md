@@ -1,6 +1,6 @@
 # Every act in this repository
 
-1232 acts, 4,964 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+1233 acts, 4,973 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -31,7 +31,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (580, of which 357 amending acts)
+## Laws (legi) (581, of which 357 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -161,6 +161,7 @@
 | Legea nr. 85/2014 privind procedurile de prevenire a insolvenței și de insolvență | [`lege/2014/85/`](lege/2014/85/) | in force | 14 | 2014-06-28 | 2025-12-18 |
 | Legea nr. 99/2014 pentru modificarea și completarea Legii serviciului de salubrizare a localităților nr. 101/2006 | [`lege/2014/99/`](lege/2014/99/) | amending act | 2 | 2014-07-11 | 2022-04-07 |
 | Legea nr. 138/2014 pentru modificarea și completarea Legii nr. 134/2010 privind Codul de procedură civilă, precum și pentru modificarea și completarea unor acte normative conexe | [`lege/2014/138/`](lege/2014/138/) | amending act | 2 | 2014-10-19 | 2016-02-04 |
+| Legea nr. 74/2015 privind administratorii de fonduri de investiții alternative | [`lege/2015/74/`](lege/2015/74/) | in force | 9 | 2015-05-23 | 2026-01-16 |
 | Legea nr. 115/2015 pentru alegerea autorităților administrației publice locale, pentru modificarea Legii administrației publice locale nr. 215/2001, precum și pentru modificarea și completarea Legii nr. 393/2004 privind Statutul aleșilor locali | [`lege/2015/115/`](lege/2015/115/) | amending act | 7 | 2015-05-23 | 2023-07-27 |
 | Legea nr. 136/2015 | [`lege/2015/136/`](lege/2015/136/) | in force | 2 | 2015-06-13 | 2024-03-29 |
 | Legea nr. 151/2015 privind procedura insolvenței persoanelor fizice | [`lege/2015/151/`](lege/2015/151/) | in force | 2 | 2015-06-29 | 2018-01-01 |
