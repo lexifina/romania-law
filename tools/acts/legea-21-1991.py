@@ -40,9 +40,9 @@ def register(P):
         # art. XVI alin. (1) defers only art. 34^2, so both took effect on publication (29.07.2024), as the form of
         # 08.10.2024 dates them
         'note_date_fix': [
-            ('2026-06-30', '2024-07-29', 'Capitolul VII a fost completat de Punctul 11. , Articolul I din ORDONANȚA DE '
+            ('2026-06-30', '2024-07-29', 'Capitolul VII a fost completat de Punctul 11., Articolul I din ORDONANȚA DE '
                                          'URGENȚĂ nr. 100 din 25 iulie 2024'),
-            ('2026-06-30', '2024-07-29', 'Capitolul VII a fost completat de Punctul 12. , Articolul I din ORDONANȚA DE '
+            ('2026-06-30', '2024-07-29', 'Capitolul VII a fost completat de Punctul 12., Articolul I din ORDONANȚA DE '
                                          'URGENȚĂ nr. 100 din 25 iulie 2024')],
         'base_note': 'The law as published in Monitorul Oficial nr. 44 of 6 March 1991, in force 30 days after '
                      'publication (its art. 42): 5 April 1991.',
@@ -95,6 +95,18 @@ def register(P):
             'articles; each is read from its own DetaliiDocumentAfis page (21269, 121439), changes on those days that '
             'no note explains are credited to the republishing act, as each republication note says, and files '
             'follow each text\'s own numbering.',
+            'Legea nr. 21/1991: the portal\'s form of 29 July 2024 (286000) prints art. 34^2, inserted by OUG nr. '
+            '100/2024 art. I pct. 11, as an article. OUG nr. 100/2024 as published (Monitorul Oficial nr. 740 of 29 '
+            'July 2024, DetaliiDocumentAfis/286306), art. XVI alin. (1), puts pct. 11 in force, as to art. 34^2, on 30 '
+            'June 2026; the forms of 8 October 2024 and 15 March 2025 print art. 34^2 only inside notes saying so (the '
+            'latter after Legea nr. 14/2025, whose art. XIX gives the same day for its art. I pct. 38, '
+            'DetaliiDocumentAfis/295342). Under the rule for text printed before its law, art. 34^2 is left out of '
+            'the form of 29 July 2024. Its day comes after the newest form held (15 March 2025), so the record does not '
+            'show it; no text is taken from the notes.',
+            'Legea nr. 21/1991: the form of 29 July 2024 dates the notes on arts. 34^3 and 36^1 (OUG nr. 100/2024 art. '
+            'I pct. 11 and 12) "la 30-06-2026". Art. XVI alin. (1) of the OUG as published defers only art. 34^2, so '
+            'both articles took effect on publication, 29 July 2024, the day the portal\'s next form gives their notes; '
+            'the two notes are read at that day.',
         ],
     }
     P.BASE_LAWS[SLUG] = {  # read from the act as published (DetaliiDocumentAfis/1464)

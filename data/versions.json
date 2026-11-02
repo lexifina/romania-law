@@ -11010,6 +11010,146 @@
    ]
   },
   {
+   "slug": "legea-295-2004",
+   "short": "Legea nr. 295/2004",
+   "title": "Legea nr. 295/2004 privind regimul armelor și al munițiilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53150",
+   "versions": [
+    {
+     "from": "2004-12-30",
+     "units": 145,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/53150",
+     "sha256": "5d481439acc1921be5429a9117f86ede44f866a50056e150a61f0d88c417ba76"
+    },
+    {
+     "from": "2004-12-30",
+     "units": 145,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/83900",
+     "sha256": "696c6b791706129161a7048c792b23dc297f1e0e53b440487518fe527cfe669b"
+    },
+    {
+     "from": "2007-07-26",
+     "units": 145,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/83902",
+     "sha256": "d2739dc3482368fa24d9080eecd64d2c46d5a02f0f1d2ab99d99a4929778cbc2"
+    },
+    {
+     "from": "2008-03-17",
+     "units": 150,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/90521",
+     "sha256": "2f920f34fd81d07b50644b22fa4a6e03427ddbc6496f946b549ef4be522cd96a"
+    },
+    {
+     "from": "2008-07-21",
+     "units": 150,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95811",
+     "sha256": "e2211e0bcc276049445b95d1999e69d91d9966ca8241073e679b070de834c274"
+    },
+    {
+     "from": "2008-11-17",
+     "units": 150,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/99312",
+     "sha256": "6d267fcbdc3dde2c89f7be127784c462b80b6e5d599da3f28f7ca8eff75af3ae"
+    },
+    {
+     "from": "2010-05-30",
+     "units": 150,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119200",
+     "sha256": "fb893b91ca1c083b8063b7f3b6e5ebd8bbb920712c812cd4d069e0536ab4d2ad"
+    },
+    {
+     "from": "2011-07-27",
+     "units": 146,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/129867",
+     "sha256": "3b43624aa684c3059692f2423f2abdc2f63eb039bfebde74de725ef1550fedbe"
+    },
+    {
+     "from": "2011-11-17",
+     "units": 146,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/132994",
+     "sha256": "b2ed97698a196eb22f54386460bdc354f2c35293cc9bfa2616cf2c711a60b523"
+    },
+    {
+     "from": "2011-12-19",
+     "units": 146,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133919",
+     "sha256": "35db151a1e38b1c5bb9bfaa3a0910e05e7aae4e5a64bc793f14b2e08f1e0af01"
+    },
+    {
+     "from": "2014-02-01",
+     "units": 146,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/153509",
+     "sha256": "ebb1e7de936ac8d0606c82c66bb415f7289ed022000796822ed42412ba756bfe"
+    },
+    {
+     "from": "2014-06-10",
+     "units": 137,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/158882",
+     "sha256": "d66e8d2f0b172ea5b68a467ee4c8ae2a5c87d205addecea4c842e49119c389ee"
+    },
+    {
+     "from": "2016-01-14",
+     "units": 137,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174026",
+     "sha256": "0bd9241b48abc1d3732b47a4da6e8f4fb7983c60d94bee5f532cad102f73c82a"
+    },
+    {
+     "from": "2017-03-26",
+     "units": 137,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/187287",
+     "sha256": "1076cac095e0aa743129a196f596b5791aa7bc6eb18db36f07d549ab91af631d"
+    },
+    {
+     "from": "2019-11-04",
+     "units": 137,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/219212",
+     "sha256": "b8f7dc4cab46c7ccac2a2ee193bdce91bfab1522be2302d484065cea07c8571f"
+    },
+    {
+     "from": "2021-07-26",
+     "units": 137,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/244581",
+     "sha256": "18580b23f8772748d8d6d5a4e1007a61b4d1c9123d0949e49479cb383f7f1dd1"
+    },
+    {
+     "from": "2021-11-15",
+     "units": 139,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/248015",
+     "sha256": "77dd8c460fdadac820b063443771e1e2822fb42da9cf530675e8dc55578adffb"
+    },
+    {
+     "from": "2023-05-28",
+     "units": 139,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/267736",
+     "sha256": "26dccdd9639d060964048316864723edcf318853a45aded8c1f8d6ced32db637"
+    },
+    {
+     "from": "2024-05-10",
+     "units": 139,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/282203",
+     "sha256": "e02bede0b063ffe02f1a4630323825b7105b15f5ccdf7e3201cd03d7d16b2fcf"
+    },
+    {
+     "from": "2024-06-23",
+     "units": 139,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/283698",
+     "sha256": "44b59fa165c5ccc1433a55dbb54ec940cee423a0899740562d76a0c6de061178"
+    },
+    {
+     "from": "2024-09-01",
+     "units": 141,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/287219",
+     "sha256": "517f4400b17323a753dcaac4f486410cb0ebb1f80dd47e6bd28e293d0b6ab797"
+    },
+    {
+     "from": "2025-11-02",
+     "units": 141,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/303119",
+     "sha256": "de51b19e058b25527dc79be64386e0fde9b6578594b400f9b0d224378459aae9"
+    }
+   ]
+  },
+  {
    "slug": "legea-302-2004",
    "short": "Legea nr. 302/2004",
    "title": "Legea nr. 302/2004 privind cooperarea judiciară internațională în materie penală",
@@ -15216,6 +15356,20 @@
    ]
   },
   {
+   "slug": "legea-123-2024",
+   "short": "Legea nr. 123/2024",
+   "title": "Legea nr. 123/2024 pentru modificarea și completarea Legii nr. 272/2004 privind protecția și promovarea drepturilor copilului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/282460",
+   "versions": [
+    {
+     "from": "2024-05-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/282460",
+     "sha256": "08edfe169450605ce90acd61a69b4501f1fc98c8448e94f8db802e2641814b02"
+    }
+   ]
+  },
+  {
    "slug": "legea-125-2022",
    "short": "Legea nr. 125/2022",
    "title": "Legea nr. 125/2022 pentru completarea Ordonanței de urgență a Guvernului nr. 44/2008 privind desfășurarea activităților economice de către persoanele fizice autorizate, întreprinderile individuale și întreprinderile familiale",
@@ -15438,6 +15592,20 @@
    ]
   },
   {
+   "slug": "legea-135-2025",
+   "short": "Legea nr. 135/2025",
+   "title": "Legea nr. 135/2025 pentru modificarea Legii educației fizice și sportului nr. 69/2000",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/299892",
+   "versions": [
+    {
+     "from": "2025-07-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/299892",
+     "sha256": "dccd827eab78e4c916a14189724cbc2afb479c1801571b1176253495f3fd85b9"
+    }
+   ]
+  },
+  {
    "slug": "legea-136-2015",
    "short": "Legea nr. 136/2015",
    "title": "Legea nr. 136/2015",
@@ -15632,6 +15800,20 @@
    ]
   },
   {
+   "slug": "legea-142-2025",
+   "short": "Legea nr. 142/2025",
+   "title": "Legea nr. 142/2025 pentru modificarea art. 351 din Legea nr. 286/2009 privind Codul penal",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/302606",
+   "versions": [
+    {
+     "from": "2025-10-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/302606",
+     "sha256": "ca19a0525188d58889695c9e3c0d0993c4afe6c8a527025fdef70dfa6674404f"
+    }
+   ]
+  },
+  {
    "slug": "legea-144-2022",
    "short": "Legea nr. 144/2022",
    "title": "Legea nr. 144/2022 pentru modificarea și completarea art. 34 din Legea nr. 53/2003 - Codul muncii",
@@ -15660,6 +15842,34 @@
    ]
   },
   {
+   "slug": "legea-146-2025",
+   "short": "Legea nr. 146/2025",
+   "title": "Legea nr. 146/2025 privind aprobarea Ordonanței de urgență a Guvernului nr. 1/2024 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 195/2002 privind circulația pe drumurile publice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/302770",
+   "versions": [
+    {
+     "from": "2025-10-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/302770",
+     "sha256": "2a872cb8f13889ec62a6b325561494e79865ae62fca6cf41db489e49190d80f7"
+    }
+   ]
+  },
+  {
+   "slug": "legea-149-2025",
+   "short": "Legea nr. 149/2025",
+   "title": "Legea nr. 149/2025 pentru completarea art. 118^1 din Legea nr. 53/2003 - Codul muncii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/302930",
+   "versions": [
+    {
+     "from": "2025-10-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/302930",
+     "sha256": "193542abc629f354e449a25a18351952e70c9caec63f1c4e197fb8900f3b1982"
+    }
+   ]
+  },
+  {
    "slug": "legea-15-2024",
    "short": "Legea nr. 15/2024",
    "title": "Legea nr. 15/2024 pentru modificarea și completarea Legii cadastrului și a publicității imobiliare nr. 7/1996",
@@ -15670,6 +15880,20 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/278086",
      "sha256": "145a9c9c199763faa1b52992125b9a955564e3fe0f167aa607f8de035a9f5e24"
+    }
+   ]
+  },
+  {
+   "slug": "legea-152-2025",
+   "short": "Legea nr. 152/2025",
+   "title": "Legea nr. 152/2025 privind aprobarea Ordonanței de urgență a Guvernului nr. 61/2024 pentru modificarea și completarea Legii nr. 146/2021 privind monitorizarea electronică în cadrul unor proceduri judiciare și execuțional penale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/303313",
+   "versions": [
+    {
+     "from": "2025-10-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/303313",
+     "sha256": "4cb5f418823aebea1526785dd1a010372003afcfdfb5890ac73454737b23ab3b"
     }
    ]
   },
@@ -15908,6 +16132,26 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/271465",
      "sha256": "9c13fa9d1285924c7b2443ad6cbd53f34521f5ab9b8d148fcce0dbaf396b4864"
+    }
+   ]
+  },
+  {
+   "slug": "legea-174-2019",
+   "short": "Legea nr. 174/2019",
+   "title": "Legea nr. 174/2019 privind înființarea Muzeului Național de Istorie a Evreilor și al Holocaustului din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/218772",
+   "versions": [
+    {
+     "from": "2019-10-12",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/218772",
+     "sha256": "9ef337e38a47ec887ecada51355b96f207a8f6bc55035276c7f96bf19bb5cea9"
+    },
+    {
+     "from": "2021-11-28",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/248101",
+     "sha256": "d6ae3f52e496292e811da76b241f6771f0c6040a013309ac7b88ebdc5865c802"
     }
    ]
   },
@@ -16190,6 +16434,20 @@
    ]
   },
   {
+   "slug": "legea-199-2025",
+   "short": "Legea nr. 199/2025",
+   "title": "Legea nr. 199/2025 pentru completarea art. 29 din Ordonanța de urgență a Guvernului nr. 80/2013 privind taxele judiciare de timbru",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/304836",
+   "versions": [
+    {
+     "from": "2025-12-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/304836",
+     "sha256": "c5a2ec88c03e8a12f2ac60369d60aba4965f228eb58a8c542d87de823a19666e"
+    }
+   ]
+  },
+  {
    "slug": "legea-200-2023",
    "short": "Legea nr. 200/2023",
    "title": "Legea nr. 200/2023 pentru modificarea și completarea Legii nr. 286/2009 privind Codul penal , precum și a altor acte normative",
@@ -16294,6 +16552,20 @@
    ]
   },
   {
+   "slug": "legea-209-2025",
+   "short": "Legea nr. 209/2025",
+   "title": "Legea nr. 209/2025 pentru modificarea și completarea Legii nr. 176/2018 privind internshipul",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/305022",
+   "versions": [
+    {
+     "from": "2025-12-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305022",
+     "sha256": "4cafaa3f0c6da83c3bc1e6b196eec2e042ced805435973b83aa0eedfceb60689"
+    }
+   ]
+  },
+  {
    "slug": "legea-21-2022",
    "short": "Legea nr. 21/2022",
    "title": "Legea nr. 21/2022 privind instituirea zilei de 15 februarie ca Ziua națională a lecturii",
@@ -16308,6 +16580,26 @@
    ]
   },
   {
+   "slug": "legea-210-2019",
+   "short": "Legea nr. 210/2019",
+   "title": "Legea nr. 210/2019 privind activitatea de emitere de monedă electronică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/219752",
+   "versions": [
+    {
+     "from": "2019-12-13",
+     "units": 118,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/219752",
+     "sha256": "33c8620e02820dec74c9578dc97a2b86d65633b1b136d74dc24c5d9984c8290d"
+    },
+    {
+     "from": "2025-03-20",
+     "units": 118,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/295423",
+     "sha256": "4ce8acfd56584b4265906c47c80d9daf1a2e55d52c6971bf36288f67ccd7e209"
+    }
+   ]
+  },
+  {
    "slug": "legea-213-2023",
    "short": "Legea nr. 213/2023",
    "title": "Legea nr. 213/2023 pentru completarea art. 91 din Legea nr. 286/2009 privind Codul penal",
@@ -16318,6 +16610,20 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/271991",
      "sha256": "0fc3c7efd54ca288dab91c83bccbbf408de99567ccde44d0f399cb4bbd8db92e"
+    }
+   ]
+  },
+  {
+   "slug": "legea-213-2024",
+   "short": "Legea nr. 213/2024",
+   "title": "Legea nr. 213/2024 pentru modificarea Legii nr. 49/2022 privind desființarea Secției pentru investigarea infracțiunilor din justiție, precum și pentru modificarea Legii nr. 135/2010 privind Codul de procedură penală",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/285135",
+   "versions": [
+    {
+     "from": "2024-07-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/285135",
+     "sha256": "9bb70f803c6760a1aabd1fb76e7ee8fd02223c5b5c0ff3ccb9f32266d34e24a6"
     }
    ]
   },
@@ -16478,6 +16784,20 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/257704",
      "sha256": "c61a6bd29acee940605dc511998b596a878d102ff09ed357e0af22644dd10a8d"
+    }
+   ]
+  },
+  {
+   "slug": "legea-230-2025",
+   "short": "Legea nr. 230/2025",
+   "title": "Legea nr. 230/2025 pentru completarea art. 11^5 alin. (1) din Ordonanța Guvernului nr. 83/2001 privind înființarea, organizarea și funcționarea Direcției generale de pașapoarte, serviciilor publice comunitare de pașapoarte, Direcției generale permise de conducere și înmatriculări și serviciilor publice comunitare regim permise de conducere și înmatriculare a vehiculelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/305263",
+   "versions": [
+    {
+     "from": "2025-12-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305263",
+     "sha256": "7b11a46f73ccf6c30bc5ef03111850f9d4a3bda1e74709c56132b7cec846478c"
     }
    ]
   },
@@ -16848,6 +17168,20 @@
    ]
   },
   {
+   "slug": "legea-249-2024",
+   "short": "Legea nr. 249/2024",
+   "title": "Legea nr. 249/2024 privind aprobarea Ordonanței de urgență a Guvernului nr. 87/2023 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 58/2023 privind unele măsuri pentru acordarea unei prime de carieră didactică pentru personalul didactic și didactic auxiliar, precum și unei prime de carieră profesională pentru personalul nedidactic din învățământul de stat, suportate din fonduri externe nerambursabile, și pentru modificarea unor acte normative în domeniul educației",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/289180",
+   "versions": [
+    {
+     "from": "2024-10-07",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/289180",
+     "sha256": "5bbd513be94d07f34ba206b7ea176fbead2b77b88989c26830ba0b3ae32dc5c6"
+    }
+   ]
+  },
+  {
    "slug": "legea-253-2022",
    "short": "Legea nr. 253/2022",
    "title": "Legea nr. 253/2022 pentru modificarea și completarea Legii locuinței nr. 114/1996",
@@ -16886,6 +17220,34 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/289218",
      "sha256": "3653f84797fe5109c981cc5ea2f26b53c3362d9c7e19753e0629edbd2ad5b585"
+    }
+   ]
+  },
+  {
+   "slug": "legea-255-2024",
+   "short": "Legea nr. 255/2024",
+   "title": "Legea nr. 255/2024 pentru modificarea Legii nr. 95/2006 privind reforma în domeniul sănătății",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/289220",
+   "versions": [
+    {
+     "from": "2024-10-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/289220",
+     "sha256": "edb35f4482b172d1a50196bbce2b0192d9f03930eb28e9e81b1dcd7a5b74e3e6"
+    }
+   ]
+  },
+  {
+   "slug": "legea-256-2024",
+   "short": "Legea nr. 256/2024",
+   "title": "Legea nr. 256/2024 privind aprobarea Ordonanței de urgență a Guvernului nr. 117/2021 pentru modificarea și completarea Legii nr. 53/2003 - Codul muncii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/289222",
+   "versions": [
+    {
+     "from": "2024-10-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/289222",
+     "sha256": "2ba86f664749c8fa175cd78eaae344f9a656f1c0586c6a8d79a7ff18423bfcde"
     }
    ]
   },
@@ -17014,6 +17376,26 @@
    ]
   },
   {
+   "slug": "legea-268-2021",
+   "short": "Legea nr. 268/2021",
+   "title": "Legea nr. 268/2021 pentru înființarea Autorității Vamale Române și pentru modificarea unor acte normative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/248350",
+   "versions": [
+    {
+     "from": "2021-12-10",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/248350",
+     "sha256": "1124457e07c4053c28527630b0a5c3141aea3ce026980e43de9a9ef82381ecd4"
+    },
+    {
+     "from": "2024-06-26",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/248350",
+     "sha256": "107463b69732ba60c712e27614f75b26a2b621bfb89fbb3e5c38d2a26159ec09"
+    }
+   ]
+  },
+  {
    "slug": "legea-269-2023",
    "short": "Legea nr. 269/2023",
    "title": "Legea nr. 269/2023 pentru modificarea și completarea Legii nr. 95/2006 privind reforma în domeniul sănătății",
@@ -17024,6 +17406,34 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/275200",
      "sha256": "8ef10d6da9a9ec89b6d8fc02eb07142b23172af800ef29c283ddb0e9811d4481"
+    }
+   ]
+  },
+  {
+   "slug": "legea-27-2025",
+   "short": "Legea nr. 27/2025",
+   "title": "Legea nr. 27/2025 pentru modificarea și completarea Legii audiovizualului nr. 504/2002",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/295825",
+   "versions": [
+    {
+     "from": "2025-03-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/295825",
+     "sha256": "b1cd9f8fd1ec0d6eb9ef3e45ba2f105cc571b4949c2fc0c3ba998a296934ff47"
+    }
+   ]
+  },
+  {
+   "slug": "legea-270-2021",
+   "short": "Legea nr. 270/2021",
+   "title": "Legea nr. 270/2021 pentru completarea art. 109 din Legea nr. 263/2010 privind sistemul unitar de pensii publice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/248402",
+   "versions": [
+    {
+     "from": "2021-11-15",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/248402",
+     "sha256": "c19fe47fda27471406afbf53044e15d854b9abb2f4033dec86bbd74ca562749d"
     }
    ]
   },
@@ -17070,6 +17480,20 @@
    ]
   },
   {
+   "slug": "legea-273-2021",
+   "short": "Legea nr. 273/2021",
+   "title": "Legea nr. 273/2021 pentru modificarea Legii educației naționale nr. 1/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/248496",
+   "versions": [
+    {
+     "from": "2021-11-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/248496",
+     "sha256": "8bce3458ee0b0f9406071fdc81e2480d0dc766f4dd6bd2f50ee1619fb7f146ce"
+    }
+   ]
+  },
+  {
    "slug": "legea-275-2020",
    "short": "Legea nr. 275/2020",
    "title": "Legea nr. 275/2020 pentru modificarea și completarea Legii minelor nr. 85/2003",
@@ -17100,6 +17524,34 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/259819",
      "sha256": "1b700737d0b9dd44ff36f8d5027a4122e71d936023e9b7592234194a6b71497e"
+    }
+   ]
+  },
+  {
+   "slug": "legea-275-2024",
+   "short": "Legea nr. 275/2024",
+   "title": "Legea nr. 275/2024 pentru modificarea și completarea Legii nr. 226/2023 privind aplicarea unor tarife rutiere pe rețeaua de drumuri naționale din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/290429",
+   "versions": [
+    {
+     "from": "2024-11-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/290429",
+     "sha256": "9e050ae573dc796b31128d169b3c191a6bfd983a7b0bc0f18555aed5e77c2f8d"
+    }
+   ]
+  },
+  {
+   "slug": "legea-278-2024",
+   "short": "Legea nr. 278/2024",
+   "title": "Legea nr. 278/2024 privind modificarea art. 3 din Legea nr. 307/2013 pentru ratificarea Convenției cu privire la construirea și exploatarea unui Centru de cercetare în domeniul antiprotonilor și al ionilor în Europa, semnată la Wiesbaden la 4 octombrie 2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/290548",
+   "versions": [
+    {
+     "from": "2024-11-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/290548",
+     "sha256": "0a58288801556bcc589223558404ddee3e7e44d77b75c478c54b8b758e33ceea"
     }
    ]
   },
@@ -17418,6 +17870,20 @@
    ]
   },
   {
+   "slug": "legea-299-2024",
+   "short": "Legea nr. 299/2024",
+   "title": "Legea nr. 299/2024 pentru modificarea și completarea Legii societăților nr. 31/1990",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/291959",
+   "versions": [
+    {
+     "from": "2024-12-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/291959",
+     "sha256": "8641c341b1974effcb5516e0b4cae4a2e0fc3d5daf4b26f17bb09f1ff166f790"
+    }
+   ]
+  },
+  {
    "slug": "legea-3-2023",
    "short": "Legea nr. 3/2023",
    "title": "Legea nr. 3/2023 pentru completarea art. 28 din Legea nr. 290/2004 privind cazierul judiciar",
@@ -17428,6 +17894,20 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/263619",
      "sha256": "7d16cc20a88706b36dcc11d612820e6ce38aef40fb05b5af628a84b4a068ab1b"
+    }
+   ]
+  },
+  {
+   "slug": "legea-30-2025",
+   "short": "Legea nr. 30/2025",
+   "title": "Legea nr. 30/2025 pentru completarea tabelelor-anexă nr. I - III la Legea nr. 143/2000 privind prevenirea și combaterea traficului și consumului ilicit de droguri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/295870",
+   "versions": [
+    {
+     "from": "2025-03-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/295870",
+     "sha256": "bd13eadcc2697de240cf76f446243ccb93e84a9deae1c0255f47a8f7094f4302"
     }
    ]
   },
@@ -17456,6 +17936,20 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/261428",
      "sha256": "0cf2f076b7d87fe7d797f9475774161861d1ed04dc01d22972a2430c84c17e00"
+    }
+   ]
+  },
+  {
+   "slug": "legea-305-2024",
+   "short": "Legea nr. 305/2024",
+   "title": "Legea nr. 305/2024 pentru completarea Legii nr. 44/1994 privind veteranii de război, precum și unele drepturi ale invalizilor și văduvelor de război",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/292076",
+   "versions": [
+    {
+     "from": "2024-12-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/292076",
+     "sha256": "2c37bdaffad3478b13c47505c6d008f0240d5c5b64b30a49424b3ad9e9b00e8f"
     }
    ]
   },
@@ -18388,6 +18882,48 @@
    ]
   },
   {
+   "slug": "legea-46-2025",
+   "short": "Legea nr. 46/2025",
+   "title": "Legea nr. 46/2025 pentru modificarea alineatului (2) al articolului 34 din Legea drepturilor pacientului nr. 46/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/296579",
+   "versions": [
+    {
+     "from": "2025-04-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/296579",
+     "sha256": "f28b55bb615a05458c985930fb573aedae8abeed0bf11c9bc24abb8bec02a1fe"
+    }
+   ]
+  },
+  {
+   "slug": "legea-47-2025",
+   "short": "Legea nr. 47/2025",
+   "title": "Legea nr. 47/2025 privind aprobarea Ordonanței de urgență a Guvernului nr. 66/2024 pentru modificarea și completarea Legii nr. 95/2006 privind reforma în domeniul sănătății și pentru modificarea și completarea unor acte normative în domeniul sănătății",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/296641",
+   "versions": [
+    {
+     "from": "2025-04-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/296641",
+     "sha256": "5b0c1910be8a536d3ec55bca646fe5f73d0a32dfe4959b7ba7f9e7628557ada0"
+    }
+   ]
+  },
+  {
+   "slug": "legea-48-2025",
+   "short": "Legea nr. 48/2025",
+   "title": "Legea nr. 48/2025 privind aprobarea Politicii publice de proprietate privată a statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/296685",
+   "versions": [
+    {
+     "from": "2025-04-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/public/DetaliiDocument/296685",
+     "sha256": "013f81908921d58ca892439b57d534d2d5c7cbcc8321a1ef585c989947c33df3"
+    }
+   ]
+  },
+  {
    "slug": "legea-49-2023",
    "short": "Legea nr. 49/2023",
    "title": "Legea nr. 49/2023 privind aprobarea Ordonanței de urgență a Guvernului nr. 62/2022 pentru modificarea art. 262 alin. (3^2) din Legea nr. 85/2014 privind procedurile de prevenire a insolvenței și de insolvență și a Ordonanței de urgență a Guvernului nr. 19/2022 privind unele măsuri referitoare la garanțiile de bună execuție constituite în cadrul contractelor de achiziție publică și al contractelor sectoriale",
@@ -18426,6 +18962,20 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/296660",
      "sha256": "cd718cb391485c3afe27d71933d78a752f76df292f1f4fe0dc5d136ee687fbd5"
+    }
+   ]
+  },
+  {
+   "slug": "legea-50-2025",
+   "short": "Legea nr. 50/2025",
+   "title": "Legea nr. 50/2025 pentru modificarea art. 29^3 alin. (2) din Legea îmbunătățirilor funciare nr. 138/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/296643",
+   "versions": [
+    {
+     "from": "2025-04-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/296643",
+     "sha256": "829fba875874253db62fe7b6d11c876e6f6e090c69c3e17ddb446c3610cc72d5"
     }
    ]
   },
@@ -18510,6 +19060,20 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/280180",
      "sha256": "7e2a5f7843e0558676d2b18966d42b666d73a5e5330e0ac1a96e74c94813e247"
+    }
+   ]
+  },
+  {
+   "slug": "legea-59-2025",
+   "short": "Legea nr. 59/2025",
+   "title": "Legea nr. 59/2025 privind completarea Ordonanței de urgență a Guvernului nr. 28/2013 pentru aprobarea Programului național de dezvoltare locală",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/297929",
+   "versions": [
+    {
+     "from": "2025-05-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/297929",
+     "sha256": "2840779e2b09bb5121f3f79b8e4380787e78907ecbcbe08d7adb235145d17c9e"
     }
    ]
   },
@@ -18828,6 +19392,20 @@
    ]
   },
   {
+   "slug": "legea-74-2025",
+   "short": "Legea nr. 74/2025",
+   "title": "Legea nr. 74/2025 privind aprobarea Ordonanței de urgență a Guvernului nr. 213/2020 pentru participarea României la majorarea asimetrică de capital a Băncii Europene de Investiții în conformitate cu Decizia (UE) 2019/1.255 a Consiliului din 18 iulie 2019 de modificare a Protocolului nr. 5 privind Statutul Băncii Europene de Investiții",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/298157",
+   "versions": [
+    {
+     "from": "2025-05-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/298157",
+     "sha256": "27e5eb34ec74dd5eb77d78fa2895da4db426fc3148f00e28a25d8ec8b981cd07"
+    }
+   ]
+  },
+  {
    "slug": "legea-75-2023",
    "short": "Legea nr. 75/2023",
    "title": "Legea nr. 75/2023 privind aprobarea Ordonanței de urgență a Guvernului nr. 26/2022 pentru modificarea și completarea unor acte normative în domeniul investițiilor publice",
@@ -18842,6 +19420,20 @@
    ]
   },
   {
+   "slug": "legea-75-2025",
+   "short": "Legea nr. 75/2025",
+   "title": "Legea nr. 75/2025 pentru aprobarea Ordonanței de urgență a Guvernului nr. 135/2021 privind unele măsuri pentru susținerea activității aeroporturilor regionale pentru care consiliile județene au calitatea de autoritate publică tutelară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/298159",
+   "versions": [
+    {
+     "from": "2025-05-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/298159",
+     "sha256": "a9500ac3a69acb01e3ed8fe3331ddde716673aa82d8b9a9c4ecaf7817a7dbfd5"
+    }
+   ]
+  },
+  {
    "slug": "legea-76-2022",
    "short": "Legea nr. 76/2022",
    "title": "Legea nr. 76/2022 pentru completarea art. 106 din Legea nr. 263/2010 privind sistemul unitar de pensii publice",
@@ -18852,6 +19444,48 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/253642",
      "sha256": "62c1504590dcfbcc91733f93abd06493e70c5cfa9e53936e0a4a71866d531e67"
+    }
+   ]
+  },
+  {
+   "slug": "legea-76-2025",
+   "short": "Legea nr. 76/2025",
+   "title": "Legea nr. 76/2025 privind aprobarea Ordonanței de urgență a Guvernului nr. 31/2023 pentru modificarea și completarea Ordonanței Guvernului nr. 13/2017 privind aprobarea participării României la Programul pentru școli al Uniunii Europene",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/298161",
+   "versions": [
+    {
+     "from": "2025-05-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/298161",
+     "sha256": "388ee2da624a8418cb1ff0cdf4d8c783d323fb09a82d732ed33677838e65c5db"
+    }
+   ]
+  },
+  {
+   "slug": "legea-77-2025",
+   "short": "Legea nr. 77/2025",
+   "title": "Legea nr. 77/2025 privind aprobarea Ordonanței de urgență a Guvernului nr. 24/2024 pentru modificarea și completarea Ordonanței Guvernului nr. 15/2013 privind reglementarea unor măsuri fiscal-bugetare pentru suportarea de la bugetul de stat a sumelor aferente reducerilor procentuale și corecțiilor financiare aplicate pentru abaterile de la conformitatea cu legislația din domeniul achizițiilor publice pentru Programul operațional sectorial Mediu 2007-2013 și pentru Programul operațional Infrastructură mare 2014-2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/298163",
+   "versions": [
+    {
+     "from": "2025-05-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/298163",
+     "sha256": "ddc2ce49a4b5bf053db42f6bfd0a28202175e20abf90d3b2bdc6e88734f7e0b2"
+    }
+   ]
+  },
+  {
+   "slug": "legea-78-2025",
+   "short": "Legea nr. 78/2025",
+   "title": "Legea nr. 78/2025 privind aprobarea Ordonanței Guvernului nr. 9/2025 pentru modificarea Ordonanței Guvernului nr. 124/1998 privind organizarea și funcționarea cabinetelor medicale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/298165",
+   "versions": [
+    {
+     "from": "2025-05-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/298165",
+     "sha256": "bf759126bb8f4c3206677dbeb4deb3c1c84a2df999de4a30861a968ba9e34727"
     }
    ]
   },
@@ -18956,6 +19590,20 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/253836",
      "sha256": "756ccc41f879a8d463dd9b54d6fea31d003fa0ade58d7345bba1aba11ae8c203"
+    }
+   ]
+  },
+  {
+   "slug": "legea-86-2025",
+   "short": "Legea nr. 86/2025",
+   "title": "Legea nr. 86/2025 privind modificarea și completarea Legii nr. 129/2019 pentru prevenirea și combaterea spălării banilor și finanțării terorismului, precum și pentru modificarea și completarea unor acte normative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/298293",
+   "versions": [
+    {
+     "from": "2025-05-26",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/298293",
+     "sha256": "309ec1ca1f8b13930727ccb2d447e7b7fc241eed5db57d504286896cc31db2e5"
     }
    ]
   },
@@ -19074,6 +19722,34 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/281667",
      "sha256": "fac77a125669b19d136765e1b7a65a63d0351c31335625f1b8237c8ea419c542"
+    }
+   ]
+  },
+  {
+   "slug": "legea-91-2025",
+   "short": "Legea nr. 91/2025",
+   "title": "Legea nr. 91/2025 pentru completarea art. 3 din Legea nr. 79/2019 privind instituirea Zilei naționale a gastronomiei și a vinului românesc",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/298930",
+   "versions": [
+    {
+     "from": "2025-06-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/298930",
+     "sha256": "4c1c13e68c701e10bf177601afffdb435cc824dbd3134b3fd011bfd92153c3ba"
+    }
+   ]
+  },
+  {
+   "slug": "legea-92-2025",
+   "short": "Legea nr. 92/2025",
+   "title": "Legea nr. 92/2025 pentru modificarea și completarea Legii nr. 126/1995 privind regimul materiilor explozive",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/298932",
+   "versions": [
+    {
+     "from": "2025-08-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/298932",
+     "sha256": "f94a8ecea96a695764b8d92b96b2c42279c78bdd170be7ac711efd04d12a8273"
     }
    ]
   },
@@ -19878,6 +20554,26 @@
    ]
   },
   {
+   "slug": "oug-10-2022",
+   "short": "OUG nr. 10/2022",
+   "title": "Ordonanța de urgență a Guvernului nr. 10/2022 pentru modificarea și completarea Legii nr. 346/2004 privind stimularea înființării și dezvoltării întreprinderilor mici și mijlocii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/251735",
+   "versions": [
+    {
+     "from": "2022-02-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/251735",
+     "sha256": "dec98d3029cd2abb13d22a7654e7a90bbc39da703729e3adc9312c0d151fbda0"
+    },
+    {
+     "from": "2023-03-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/251735",
+     "sha256": "e5140185f90087c2acdcc578385439cea46755c08a98b2266162f14153c3be7e"
+    }
+   ]
+  },
+  {
    "slug": "oug-10-2023",
    "short": "OUG nr. 10/2023",
    "title": "Ordonanța de urgență a Guvernului nr. 10/2023 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 158/2005 privind concediile și indemnizațiile de asigurări sociale de sănătate",
@@ -19950,6 +20646,26 @@
      "units": 12,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/256915",
      "sha256": "09ac697a2b0688d724ed928fdb13d8bbc38a35c63a8f8ef4a81cfb744e18ba07"
+    }
+   ]
+  },
+  {
+   "slug": "oug-101-2023",
+   "short": "OUG nr. 101/2023",
+   "title": "Ordonanța de urgență a Guvernului nr. 101/2023 privind modificarea și completarea unor acte normative în domeniul fondurilor europene nerambursabile",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/276445",
+   "versions": [
+    {
+     "from": "2023-11-17",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/276445",
+     "sha256": "a38df25b2c033a1c0c5b6c2f103f40dafd6cdc21d8fd446c94deea94259826d4"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/277906",
+     "sha256": "5550793e00241cb44db4a0608996459b8c7ecc1f076fca69519cd0dd458476a4"
     }
    ]
   },
@@ -20062,6 +20778,20 @@
    ]
   },
   {
+   "slug": "oug-111-2022",
+   "short": "OUG nr. 111/2022",
+   "title": "Ordonanța de urgență a Guvernului nr. 111/2022 pentru completarea Ordonanței de urgență a Guvernului nr. 80/2022 privind reglementarea unor măsuri în domeniul ocupării posturilor în sectorul bugetar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/257579",
+   "versions": [
+    {
+     "from": "2022-07-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/257579",
+     "sha256": "2a6adcf922c66576770cba97e4b7310a49cd7848514704ab7c77d42669e11b9e"
+    }
+   ]
+  },
+  {
    "slug": "oug-114-2017",
    "short": "OUG nr. 114/2017",
    "title": "Ordonanța de urgență a Guvernului nr. 114/2017 privind reglementarea unor măsuri fiscal-bugetare pentru personalul încadrat în unitățile sanitare",
@@ -20072,6 +20802,20 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/196303",
      "sha256": "6190cf2b0610227f0042de5b0acf7353116a0b682963306fd871454aa9d63a59"
+    }
+   ]
+  },
+  {
+   "slug": "oug-114-2023",
+   "short": "OUG nr. 114/2023",
+   "title": "Ordonanța de urgență a Guvernului nr. 114/2023 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 92/2021 privind regimul deșeurilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/277397",
+   "versions": [
+    {
+     "from": "2023-12-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/277397",
+     "sha256": "ccce68088a5e65140b667243e44d46e164a86751327756f6367335b8b5dcb5ab"
     }
    ]
   },
@@ -20154,6 +20898,20 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/258699",
      "sha256": "eb5cb1743994f2176a33ce65002ce0f08bab7a8496499d4b0be5dab267c681ef"
+    }
+   ]
+  },
+  {
+   "slug": "oug-117-2023",
+   "short": "OUG nr. 117/2023",
+   "title": "Ordonanța de urgență a Guvernului nr. 117/2023 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 109/2011 privind guvernanța corporativă a întreprinderilor publice, precum și pentru modificarea și completarea Legii nr. 187/2023 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 109/2011 privind guvernanța corporativă a întreprinderilor publice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/277405",
+   "versions": [
+    {
+     "from": "2023-12-15",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/277405",
+     "sha256": "10ab590facfdfddb1a6a68ba529aa23ec9b7d8697eac596920a1413a6502d64e"
     }
    ]
   },
@@ -20380,6 +21138,26 @@
    ]
   },
   {
+   "slug": "oug-128-2022",
+   "short": "OUG nr. 128/2022",
+   "title": "Ordonanța de urgență a Guvernului nr. 128/2022 pentru modificarea și completarea Legii educației naționale nr. 1/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/262604",
+   "versions": [
+    {
+     "from": "2022-09-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/259642",
+     "sha256": "2c18868f53283aa9571e7a178f9e67b903bf6b633ed8265f31f57b35600885f4"
+    },
+    {
+     "from": "2022-12-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/262604",
+     "sha256": "134fcf44e51022295df294fd6769dec2cdf2352b03077432887dd43113447645"
+    }
+   ]
+  },
+  {
    "slug": "oug-128-2024",
    "short": "OUG nr. 128/2024",
    "title": "Ordonanța de urgență a Guvernului nr. 128/2024 pentru modificarea și completarea Legii nr. 227/2015 privind Codul fiscal și măsuri specifice pentru digitalizare, precum și pentru modificarea și completarea unor acte normative",
@@ -20390,6 +21168,20 @@
      "units": 12,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/290536",
      "sha256": "acbd0468f1d59a81d8ea4b258a35df47bb75f3ad06c1efdb3600e6b488b5ed04"
+    }
+   ]
+  },
+  {
+   "slug": "oug-129-2022",
+   "short": "OUG nr. 129/2022",
+   "title": "Ordonanța de urgență a Guvernului nr. 129/2022 pentru modificarea art. IV din Ordonanța de urgență a Guvernului nr. 44/2022 privind stabilirea unor măsuri în cadrul sistemului de sănătate, precum și pentru interpretarea, modificarea și completarea unor acte normative, pentru prelungirea unor termene, precum și pentru stabilirea unor măsuri în domeniul sănătății",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/259782",
+   "versions": [
+    {
+     "from": "2022-09-30",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/259782",
+     "sha256": "f8d1f68a7b42a62c808d2bb20dca089b3e2622208ccf10a777f6b296fcc9e2cf"
     }
    ]
   },
@@ -20430,6 +21222,20 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/263496",
      "sha256": "5a324876fc0e3ecdd9b5f9f2dbcceff9117a02145177ea32df3ba9f63c0cb76d"
+    }
+   ]
+  },
+  {
+   "slug": "oug-131-2022",
+   "short": "OUG nr. 131/2022",
+   "title": "Ordonanța de urgență a Guvernului nr. 131/2022 privind modificarea și completarea Ordonanței de urgență a Guvernului nr. 106/2022 pentru susținerea acordării de reduceri ale prețurilor la benzină și motorină și pentru modificarea art. 18 din Ordonanța de urgență a Guvernului nr. 41/2022 pentru instituirea Sistemului național privind monitorizarea transporturilor rutiere de bunuri cu risc fiscal ridicat RO e-Transport și de abrogare a art. XXVIII din Ordonanța de urgență a Guvernului nr. 130/2021 privind unele măsuri fiscal-bugetare, prorogarea unor termene, precum și pentru modificarea și completarea unor acte normative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/259777",
+   "versions": [
+    {
+     "from": "2022-09-30",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/259777",
+     "sha256": "8f79df621c8080a95bb3212cb7f9345ce8afa70c973f4e1ebcd2e679380e5018"
     }
    ]
   },
@@ -20522,6 +21328,20 @@
    ]
   },
   {
+   "slug": "oug-14-2022",
+   "short": "OUG nr. 14/2022",
+   "title": "Ordonanța de urgență a Guvernului nr. 14/2022 pentru modificarea Legii nr. 146/2021 privind monitorizarea electronică în cadrul unor proceduri judiciare și execuțional penale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/251898",
+   "versions": [
+    {
+     "from": "2022-02-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/251898",
+     "sha256": "befea185ef066c876cd5af4435d7bb9ff22d10d2ca410c7be8f8fb975c10a7f5"
+    }
+   ]
+  },
+  {
    "slug": "oug-141-2021",
    "short": "OUG nr. 141/2021",
    "title": "Ordonanța de urgență a Guvernului nr. 141/2021 privind anumite aspecte referitoare la contractele de furnizare de conținut digital și de servicii digitale",
@@ -20532,6 +21352,34 @@
      "units": 26,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/250054",
      "sha256": "efcee852342b7e88d99233b03d53532aa9a3a660cc0d5c3bb05344098f88e3cb"
+    }
+   ]
+  },
+  {
+   "slug": "oug-142-2022",
+   "short": "OUG nr. 142/2022",
+   "title": "Ordonanța de urgență a Guvernului nr. 142/2022 pentru modificarea și completarea Legii nr. 360/2002 privind Statutul polițistului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/260844",
+   "versions": [
+    {
+     "from": "2022-10-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/260844",
+     "sha256": "b3b20867608c03adcd6c606e2b602ea29a56fae37489bb02261906a06c8953a6"
+    }
+   ]
+  },
+  {
+   "slug": "oug-143-2022",
+   "short": "OUG nr. 143/2022",
+   "title": "Ordonanța de urgență a Guvernului nr. 143/2022 pentru modificarea art. 17 din Ordonanța Guvernului nr. 25/2014 privind încadrarea în muncă și detașarea străinilor pe teritoriul României și pentru modificarea și completarea unor acte normative privind regimul străinilor în România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/260845",
+   "versions": [
+    {
+     "from": "2022-10-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/260845",
+     "sha256": "70f565a0ae3958728a600c25294f1602afd2351e45f8126ae30e9735ab9fdd33"
     }
    ]
   },
@@ -20592,6 +21440,26 @@
    ]
   },
   {
+   "slug": "oug-153-2022",
+   "short": "OUG nr. 153/2022",
+   "title": "Ordonanța de urgență a Guvernului nr. 153/2022 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 27/2022 privind măsurile aplicabile clienților finali din piața de energie electrică și gaze naturale în perioada 1 aprilie 2022-31 martie 2023, precum și pentru modificarea și completarea unor acte normative din domeniul energiei și modificarea Ordonanței de urgență a Guvernului nr. 119/2022 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 27/2022 privind măsurile aplicabile clienților finali din piața de energie electrică și gaze naturale în perioada 1 aprilie 2022-31 martie 2023, precum și pentru modificarea și completarea unor acte normative din domeniul energiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/261327",
+   "versions": [
+    {
+     "from": "2022-11-11",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/261327",
+     "sha256": "89d2f7e9a6522c0c766e1bb41c51948f0cc8cd99ff2e21f73ebdd3e563cea02c"
+    },
+    {
+     "from": "2023-07-14",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/268200",
+     "sha256": "5c48d5a0055dd0d07e6dc72a8dae841e88b1a87bca2e206ca16429f7b23a2dc8"
+    }
+   ]
+  },
+  {
    "slug": "oug-154-2022",
    "short": "OUG nr. 154/2022",
    "title": "Ordonanța de urgență a Guvernului nr. 154/2022 privind instituirea unei scheme de ajutor de stat pentru sprijinirea operatorilor din industria de fabricare a produselor de morărit, a uleiurilor și grăsimilor, a produselor lactate și a preparatelor pentru hrana animalelor de fermă",
@@ -20628,6 +21496,20 @@
      "units": 68,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/293121",
      "sha256": "9e01de7aedfc619ecb879cf430eb5293ee40ed5e5e323b2ce30f76c253f332d4"
+    }
+   ]
+  },
+  {
+   "slug": "oug-159-2022",
+   "short": "OUG nr. 159/2022",
+   "title": "Ordonanța de urgență a Guvernului nr. 159/2022 pentru modificarea și completarea art. 84 din Legea educației naționale nr. 1/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/261468",
+   "versions": [
+    {
+     "from": "2022-11-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/261468",
+     "sha256": "57157d0c7324e5efa0dce061e9afe80edc60dc719ac2211ec58a4d36a2131a84"
     }
    ]
   },
@@ -20690,6 +21572,20 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/255284",
      "sha256": "774f085eacb1d03bae94950438c6ea7a8a5c32a7d4da086336c72eb012f72bcc"
+    }
+   ]
+  },
+  {
+   "slug": "oug-17-2023",
+   "short": "OUG nr. 17/2023",
+   "title": "Ordonanța de urgență a Guvernului nr. 17/2023 pentru modificarea art. 34 alin. (1) din Ordonanța de urgență a Guvernului nr. 57/2015 privind salarizarea personalului plătit din fonduri publice în anul 2016, prorogarea unor termene, precum și unele măsuri fiscal-bugetare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/266232",
+   "versions": [
+    {
+     "from": "2023-03-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/266232",
+     "sha256": "d742f24f5d45d7b2f436b0baf6dce4ae7260da21d4270190d4d1d4a65949e309"
     }
    ]
   },
@@ -20804,6 +21700,40 @@
    ]
   },
   {
+   "slug": "oug-185-2022",
+   "short": "OUG nr. 185/2022",
+   "title": "Ordonanța de urgență a Guvernului nr. 185/2022 pentru modificarea art. 2 alin. (3) din Legea nr. 255/2010 privind exproprierea pentru cauză de utilitate publică, necesară realizării unor obiective de interes național, județean și local",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/263229",
+   "versions": [
+    {
+     "from": "2022-12-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/263229",
+     "sha256": "656384572c4cd2883746935356398ebc35b67ae2ee3f35013bbaceac89a7712b"
+    },
+    {
+     "from": "2023-06-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/263229",
+     "sha256": "e7aa1e8fa87ef3afce876c6ee18e1ff6890e331dddf6126fd62c12c5c94caef0"
+    }
+   ]
+  },
+  {
+   "slug": "oug-190-2022",
+   "short": "OUG nr. 190/2022",
+   "title": "Ordonanța de urgență a Guvernului nr. 190/2022 pentru completarea anexei nr. 5^1 la Ordonanța de urgență a Guvernului nr. 57/2019 privind Codul administrativ",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/263282",
+   "versions": [
+    {
+     "from": "2022-12-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/263282",
+     "sha256": "e9e11cf6707e7c2d135d9159e5062c8278a87ced57e93afd0f9fd40bbd32b22d"
+    }
+   ]
+  },
+  {
    "slug": "oug-2-2022",
    "short": "OUG nr. 2/2022",
    "title": "Ordonanța de urgență a Guvernului nr. 2/2022 privind stabilirea unor măsuri de protecție socială a angajaților și a altor categorii profesionale în contextul interzicerii, suspendării ori limitării activităților economice, determinate de situația epidemiologică generată de răspândirea coronavirusului SARS-CoV-2, precum și pentru modificarea și completarea unor acte normative",
@@ -20844,6 +21774,26 @@
    ]
   },
   {
+   "slug": "oug-210-2020",
+   "short": "OUG nr. 210/2020",
+   "title": "Ordonanța de urgență a Guvernului nr. 210/2020 pentru modificarea Ordonanței Guvernului nr. 99/2000 privind comercializarea produselor și serviciilor de piață",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/261958",
+   "versions": [
+    {
+     "from": "2020-12-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/234340",
+     "sha256": "9c3a39edccba07d9762ddc89ecf9a290fa045c660ea53398d86b01da615a2c95"
+    },
+    {
+     "from": "2022-12-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/261958",
+     "sha256": "00ff715d5f5602445f57dee716e5e3fe9eda299be72799f9bb5e1171d2c5cec1"
+    }
+   ]
+  },
+  {
    "slug": "oug-22-2022",
    "short": "OUG nr. 22/2022",
    "title": "Ordonanța de urgență a Guvernului nr. 22/2022 pentru abrogarea Ordonanței de urgență a Guvernului nr. 129/2021 privind implementarea formularului digital de intrare în România",
@@ -20872,6 +21822,34 @@
    ]
   },
   {
+   "slug": "oug-23-2022",
+   "short": "OUG nr. 23/2022",
+   "title": "Ordonanța de urgență a Guvernului nr. 23/2022 pentru completarea art. 43 din Legea nr. 411/2004 privind fondurile de pensii administrate privat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/252657",
+   "versions": [
+    {
+     "from": "2022-03-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/252657",
+     "sha256": "b3881446ec13e3f74d23ab63c5204ed8080f752e73bf86288be899d1b19472e1"
+    }
+   ]
+  },
+  {
+   "slug": "oug-25-2022",
+   "short": "OUG nr. 25/2022",
+   "title": "Ordonanța de urgență a Guvernului nr. 25/2022 privind unele măsuri în domeniul fondurilor europene",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/252770",
+   "versions": [
+    {
+     "from": "2022-03-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/252770",
+     "sha256": "dd6a5f2c6c0736e43380d64653aa1339919c77c8e6bb8527811e2517cc316a33"
+    }
+   ]
+  },
+  {
    "slug": "oug-25-2024",
    "short": "OUG nr. 25/2024",
    "title": "Ordonanța de urgență a Guvernului nr. 25/2024 pentru modificarea și completarea unor acte normative în domeniul străinilor și al frontierei",
@@ -20892,6 +21870,20 @@
    ]
   },
   {
+   "slug": "oug-26-2023",
+   "short": "OUG nr. 26/2023",
+   "title": "Ordonanța de urgență a Guvernului nr. 26/2023 pentru modificarea și completarea art. 12 din Legea nr. 137/2002 privind unele măsuri pentru accelerarea privatizării",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/267314",
+   "versions": [
+    {
+     "from": "2023-04-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/267314",
+     "sha256": "7ea34c7a1f35a53ff2490212d2c35c42a1ccd0d53166901364ff90be18231924"
+    }
+   ]
+  },
+  {
    "slug": "oug-26-2024",
    "short": "OUG nr. 26/2024",
    "title": "Ordonanța de urgență a Guvernului nr. 26/2024 privind stabilirea unor drepturi specifice personalului Ministerului Apărării Naționale și a unor cheltuieli determinate de pregătirea și executarea unor misiuni în afara teritoriului național, în vederea realizării și menținerii capabilității aferente achiziției sistemelor de aeronave fără echipaj uman la bord Bayraktar TB2 și a altor programe de înzestrare, pentru modificarea și completarea unor acte normative în domeniul apărării, ordinii publice și securității naționale, precum și pentru adoptarea unor măsuri privind retenția și atragerea personalului în aceste domenii",
@@ -20908,6 +21900,20 @@
      "units": 16,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/280456",
      "sha256": "65059db36e8bbf8e982167b9e82620d3d16c2d8b51acc023bf50bde75aefdbc2"
+    }
+   ]
+  },
+  {
+   "slug": "oug-27-2024",
+   "short": "OUG nr. 27/2024",
+   "title": "Ordonanța de urgență a Guvernului nr. 27/2024 pentru modificarea art. 1 alin. (10) și (11) din Ordonanța de urgență a Guvernului nr. 15/2022 privind acordarea de sprijin și asistență umanitară de către statul român cetățenilor străini sau apatrizilor aflați în situații deosebite, proveniți din zona conflictului armat din Ucraina",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/280577",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/280577",
+     "sha256": "f1d0c6ca1a0e1677f793230fe6db479df29a9603b8d7c5008ee514f294666643"
     }
    ]
   },
@@ -20960,6 +21966,26 @@
    ]
   },
   {
+   "slug": "oug-30-2024",
+   "short": "OUG nr. 30/2024",
+   "title": "Ordonanța de urgență a Guvernului nr. 30/2024 pentru modificarea și completarea Legii nr. 227/2015 privind Codul fiscal și a art. LIX din Legea nr. 296/2023 privind unele măsuri fiscal-bugetare pentru asigurarea sustenabilității financiare a României pe termen lung",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/280607",
+   "versions": [
+    {
+     "from": "2024-03-29",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/280607",
+     "sha256": "d95b3712f3dea63242193fa5cd4dfdfd88168334221cfcb839c05d1784637252"
+    },
+    {
+     "from": "2025-07-25",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/280607",
+     "sha256": "954265be54da5e1f35d7ab4c41c9af828d9e92ea16e5ae99fd8a1fa15a056a4f"
+    }
+   ]
+  },
+  {
    "slug": "oug-31-2019",
    "short": "OUG nr. 31/2019",
    "title": "Ordonanța de urgență a Guvernului nr. 31/2019 privind acordarea unor facilități fiscale și pentru modificarea și completarea Legii nr. 227/2015 privind Codul fiscal , pentru completarea Ordonanței de urgență a Guvernului nr. 11/2018 pentru adoptarea unor măsuri bugetare și pentru modificarea Legii-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice",
@@ -20996,6 +22022,20 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/261029",
      "sha256": "ade975f7ac40868dee0841fb6bcf0283471cf64a3c815e84e42578c968428214"
+    }
+   ]
+  },
+  {
+   "slug": "oug-32-2023",
+   "short": "OUG nr. 32/2023",
+   "title": "Ordonanța de urgență a Guvernului nr. 32/2023 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 166/2022 privind unele măsuri pentru acordarea unui sprijin categoriilor de persoane vulnerabile pentru compensarea prețului la energie, suportat parțial din fonduri externe nerambursabile",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/270113",
+   "versions": [
+    {
+     "from": "2023-05-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/270113",
+     "sha256": "1e2322b0730315cbc8f8d6aaa9d02b6cfa8356205ca604f13116dfb75d840553"
     }
    ]
   },
@@ -21108,6 +22148,20 @@
    ]
   },
   {
+   "slug": "oug-37-2023",
+   "short": "OUG nr. 37/2023",
+   "title": "Ordonanța de urgență a Guvernului nr. 37/2023 pentru prorogarea termenului prevăzut la art. 2 alin. (1) din Ordonanța de urgență a Guvernului nr. 18/2015 privind stabilirea unor măsuri necesare pentru asigurarea tranziției de la televiziunea analogică terestră la televiziunea digitală terestră și implementarea serviciilor multimedia la nivel național",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/270695",
+   "versions": [
+    {
+     "from": "2023-05-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270695",
+     "sha256": "084349ffbcc26660ad460a0440279104c50a4d3ce1470011b48970f661c7b9be"
+    }
+   ]
+  },
+  {
    "slug": "oug-38-2023",
    "short": "OUG nr. 38/2023",
    "title": "Ordonanța de urgență a Guvernului nr. 38/2023 pentru modificarea și completarea unor acte normative în scopul furnizării de servicii publice electronice aferente înmatriculării vehiculelor în România",
@@ -21152,6 +22206,20 @@
      "units": 9,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/253722",
      "sha256": "bc9ebeb97158ae0978ebe8373c8cb4a76ca4738f6805fa45d1eed245a5833e5a"
+    }
+   ]
+  },
+  {
+   "slug": "oug-40-2023",
+   "short": "OUG nr. 40/2023",
+   "title": "Ordonanța de urgență a Guvernului nr. 40/2023 pentru modificarea și completarea Ordonanței Guvernului nr. 43/1997 privind regimul drumurilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/270721",
+   "versions": [
+    {
+     "from": "2023-05-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/270721",
+     "sha256": "1fbffce5fdc5796b66508be5a78af7ddf0248dbf3aaedf01e3b0cc422b756e21"
     }
    ]
   },
@@ -21224,6 +22292,20 @@
    ]
   },
   {
+   "slug": "oug-43-2024",
+   "short": "OUG nr. 43/2024",
+   "title": "Ordonanța de urgență a Guvernului nr. 43/2024 pentru modificarea și completarea unor acte normative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/282407",
+   "versions": [
+    {
+     "from": "2024-04-30",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/282407",
+     "sha256": "65122eb6e9baced225d19e0d1b64b2d19b3d0c3dbe4a99c8fd3af65a5ae81919"
+    }
+   ]
+  },
+  {
    "slug": "oug-45-2022",
    "short": "OUG nr. 45/2022",
    "title": "Ordonanța de urgență a Guvernului nr. 45/2022 privind unele măsuri pentru diminuarea arieratelor bugetare ale unor operatori economici din industria națională de apărare",
@@ -21290,6 +22372,20 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/302566",
      "sha256": "246657e9c9dc37c7484cd9a54e2c26e3f7a338c22ce47788b0e0e7d6e2c9155d"
+    }
+   ]
+  },
+  {
+   "slug": "oug-5-2023",
+   "short": "OUG nr. 5/2023",
+   "title": "Ordonanța de urgență a Guvernului nr. 5/2023 pentru modificarea Ordonanței de urgență a Guvernului nr. 20/2014 privind stabilirea unor măsuri de eficientizare a activității de privatizare pentru dezvoltarea în condiții de profitabilitate a activității operatorilor economici cu capital de stat, pentru exercitarea drepturilor și îndeplinirea obligațiilor ce decurg din calitatea de acționar a statului la anumiți operatori economici, precum și pentru modificarea și completarea unor acte normative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/265285",
+   "versions": [
+    {
+     "from": "2023-02-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/265285",
+     "sha256": "1ecdf4c67494fc70c8fecf04faf4d9a11a1e37da0e0528e2df97383f66f5db9d"
     }
    ]
   },
@@ -21450,6 +22546,20 @@
    ]
   },
   {
+   "slug": "oug-53-2024",
+   "short": "OUG nr. 53/2024",
+   "title": "Ordonanța de urgență a Guvernului nr. 53/2024 privind măsuri referitoare la salarizarea personalului din unele sectoare de activitate bugetară, precum și reglementarea unor aspecte organizatorice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/283237",
+   "versions": [
+    {
+     "from": "2024-05-24",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/283237",
+     "sha256": "2e0153bbc09eddf265738306a2134e8085ba6ffb4e94b7ab48c7f24f972783ba"
+    }
+   ]
+  },
+  {
    "slug": "oug-53-2025",
    "short": "OUG nr. 53/2025",
    "title": "Ordonanța de urgență a Guvernului nr. 53/2025 privind fabricarea, ambalarea, etichetarea, reambalarea, depozitarea, comercializarea, importul, exportul, utilizarea și prestarea de servicii cu produse de protecție a plantelor pe teritoriul României",
@@ -21558,6 +22668,40 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/176546",
      "sha256": "e55f6fa0a71f94a325918298ce928b86be509cf13b0a8cbf32e2effc8b21b57c"
+    }
+   ]
+  },
+  {
+   "slug": "oug-6-2022",
+   "short": "OUG nr. 6/2022",
+   "title": "Ordonanța de urgență a Guvernului nr. 6/2022 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 68/2021 privind adoptarea unor măsuri pentru punerea în aplicare a cadrului european pentru eliberarea, verificarea și acceptarea certificatului digital al Uniunii Europene privind COVID pentru a facilita libera circulație pe durata pandemiei de COVID-19",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/251415",
+   "versions": [
+    {
+     "from": "2022-02-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/251415",
+     "sha256": "05668245bf237d3280f2d76d904ba1d266615c1e31faf0e5a266a9a5252ff801"
+    }
+   ]
+  },
+  {
+   "slug": "oug-6-2023",
+   "short": "OUG nr. 6/2023",
+   "title": "Ordonanța de urgență a Guvernului nr. 6/2023 pentru completarea art. 24 din Legea drepturilor pacienților nr. 46/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/265420",
+   "versions": [
+    {
+     "from": "2023-03-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/265420",
+     "sha256": "a5e4205053b19e876cf444d41af293912444b51c4e8bbac2b7b0d5e997e4d459"
+    },
+    {
+     "from": "2023-11-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/265420",
+     "sha256": "7d17f8454e1cd7bc6fb477d78cae190fea9163af7fd06df6db8456def2df0ac6"
     }
    ]
   },
@@ -21720,6 +22864,20 @@
    ]
   },
   {
+   "slug": "oug-68-2024",
+   "short": "OUG nr. 68/2024",
+   "title": "Ordonanța de urgență a Guvernului nr. 68/2024 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 166/2022 privind unele măsuri pentru acordarea unui sprijin categoriilor de persoane vulnerabile pentru compensarea prețului la energie, suportat parțial din fonduri externe nerambursabile",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/284212",
+   "versions": [
+    {
+     "from": "2024-06-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/284212",
+     "sha256": "e7339cb3b3ec4b56545dd1b5a2e93ada05393602063cc7d037b8bc4925ba3d63"
+    }
+   ]
+  },
+  {
    "slug": "oug-69-2022",
    "short": "OUG nr. 69/2022",
    "title": "Ordonanța de urgență a Guvernului nr. 69/2022 pentru modificarea și completarea Legii educației naționale nr. 1/2011 și prorogarea unor termene",
@@ -21778,6 +22936,34 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305057",
      "sha256": "5a618470ad92984727daee9c7294de326b7bccc10f61a0f177faca1b1930157d"
+    }
+   ]
+  },
+  {
+   "slug": "oug-71-2022",
+   "short": "OUG nr. 71/2022",
+   "title": "Ordonanța de urgență a Guvernului nr. 71/2022 pentru modificarea art. 155 alin. (1) din Legea nr. 286/2009 privind Codul penal",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/255795",
+   "versions": [
+    {
+     "from": "2022-05-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/255795",
+     "sha256": "edb37130926b62e7281b9a17a46a521cbf5e99f2011dc47fb07683309ca2c15e"
+    }
+   ]
+  },
+  {
+   "slug": "oug-71-2023",
+   "short": "OUG nr. 71/2023",
+   "title": "Ordonanța de urgență a Guvernului nr. 71/2023 pentru instituirea unei prelungiri a termenelor prevăzute la art. 262 alin. (3^2) din Legea nr. 85/2014 privind procedurile de prevenire a insolvenței și de insolvență",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/274179",
+   "versions": [
+    {
+     "from": "2023-09-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/274179",
+     "sha256": "db527eca06bacb7f6e631f9dfadadcd8752d876ffad02021eff7d480c38e9ddb"
     }
    ]
   },
@@ -21892,6 +23078,20 @@
    ]
   },
   {
+   "slug": "oug-79-2022",
+   "short": "OUG nr. 79/2022",
+   "title": "Ordonanța de urgență a Guvernului nr. 79/2022 pentru completarea Ordonanței de urgență a Guvernului nr. 202/2008 privind punerea în aplicare a sancțiunilor internaționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/256079",
+   "versions": [
+    {
+     "from": "2022-06-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/256079",
+     "sha256": "2b0be7fcac96a913df885126150025c14063e549b7d48e68809029ce5c025991"
+    }
+   ]
+  },
+  {
    "slug": "oug-79-2023",
    "short": "OUG nr. 79/2023",
    "title": "Ordonanța de urgență a Guvernului nr. 79/2023 privind acordarea unui ajutor de stat Complexului Energetic \"Valea Jiului\" - S.A. pentru închiderea și punerea în siguranță a extracției de huilă din cadrul exploatărilor miniere Lonea, Lupeni, Livezeni și Vulcan",
@@ -21902,6 +23102,20 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/274952",
      "sha256": "a7781f2043daef4cfdcc4d68787275c42e8f85594af5f1921c6df0cd400aa342"
+    }
+   ]
+  },
+  {
+   "slug": "oug-79-2024",
+   "short": "OUG nr. 79/2024",
+   "title": "Ordonanța de urgență a Guvernului nr. 79/2024 pentru modificarea Ordonanței de urgență a Guvernului nr. 57/2019 privind Codul administrativ",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/284635",
+   "versions": [
+    {
+     "from": "2024-06-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/284635",
+     "sha256": "3197adb57708d6d2b2d1c4756d9457a69c48e5075b1b1eef02f10afce863f076"
     }
    ]
   },
@@ -21926,6 +23140,94 @@
    ]
   },
   {
+   "slug": "oug-8-2022",
+   "short": "OUG nr. 8/2022",
+   "title": "Ordonanța de urgență a Guvernului nr. 8/2022 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 130/2020 privind unele măsuri pentru acordarea de sprijin financiar din fonduri externe nerambursabile, aferente Programului operațional Competitivitate 2014-2020, în contextul crizei provocate de COVID-19, precum și alte măsuri în domeniul fondurilor europene",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/251733",
+   "versions": [
+    {
+     "from": "2022-02-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/251733",
+     "sha256": "c2518289d0d7e3b589174492c175cdf2463f017b7fd054a261ec5b6e96bb8b91"
+    },
+    {
+     "from": "2022-04-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/251733",
+     "sha256": "0822f63dc6a1f84cf0d091417b7e558192459ac138c1e7d21f7a4e9cd8ca5506"
+    }
+   ]
+  },
+  {
+   "slug": "oug-80-2023",
+   "short": "OUG nr. 80/2023",
+   "title": "Ordonanța de urgență a Guvernului nr. 80/2023 pentru modificarea art. 1 alin. (11) din Ordonanța de urgență a Guvernului nr. 15/2022 privind acordarea de sprijin și asistență umanitară de către statul român cetățenilor străini sau apatrizilor aflați în situații deosebite, proveniți din zona conflictului armat din Ucraina",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/275086",
+   "versions": [
+    {
+     "from": "2023-10-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/275086",
+     "sha256": "6654d00c61ab1dc56ff374cc18bb9628da0d47841c85be4edab36ff944e98e20"
+    }
+   ]
+  },
+  {
+   "slug": "oug-81-2022",
+   "short": "OUG nr. 81/2022",
+   "title": "Ordonanța de urgență a Guvernului nr. 81/2022 pentru modificarea art. 9 din Ordonanța Guvernului nr. 122/1998 privind acumularea, scoaterea și împrospătarea produselor din rezervele proprii ale forțelor destinate apărării naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/256514",
+   "versions": [
+    {
+     "from": "2022-06-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/256514",
+     "sha256": "26052b8eb85e4e4a506d27f116ceb5a4042b89bad6b83cb4755f4dbd87d5f997"
+    }
+   ]
+  },
+  {
+   "slug": "oug-81-2023",
+   "short": "OUG nr. 81/2023",
+   "title": "Ordonanța de urgență a Guvernului nr. 81/2023 privind consolidarea capacității instituționale a Ministerului Finanțelor, exercitarea controlului financiar de specialitate al statului, pentru unele reglementări specifice, precum și pentru modificarea și completarea unor acte normative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/275119",
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/275119",
+     "sha256": "3f71208d14535791295b2a6ffc84e3233775727b4da458a563959dec0cd038f1"
+    },
+    {
+     "from": "2023-12-15",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/275119",
+     "sha256": "849f8e7cbeaa61112d180a01365528eb9812e146c97a653cf477b97c061065ea"
+    }
+   ]
+  },
+  {
+   "slug": "oug-82-2019",
+   "short": "OUG nr. 82/2019",
+   "title": "Ordonanța de urgență a Guvernului nr. 82/2019 privind prorogarea termenului prevăzut la art. III din Legea nr. 352/2015 pentru modificarea și completarea Ordonanței Guvernului nr. 26/2011 privind înființarea Inspectoratului de Stat pentru Controlul în Transportul Rutier",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/249441",
+   "versions": [
+    {
+     "from": "2019-12-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/221735",
+     "sha256": "aa039565f1412cef5b9fe8c21702368993871ca492ae193f924a4b5644c05a22"
+    },
+    {
+     "from": "2021-12-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/249441",
+     "sha256": "445adbef97bdbb98e81af5805959b8d71068ee6e5d478ce8b0ba9b35c79eb1ff"
+    }
+   ]
+  },
+  {
    "slug": "oug-82-2024",
    "short": "OUG nr. 82/2024",
    "title": "Ordonanța de urgență a Guvernului nr. 82/2024 pentru modificarea și completarea Legii nr. 360/2002 privind Statutul polițistului",
@@ -21936,6 +23238,26 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/284677",
      "sha256": "a604dedb5a7e0c66996fe6f2ea2320922996ce54b884c3aeeb15cd7d59a97aed"
+    }
+   ]
+  },
+  {
+   "slug": "oug-84-2021",
+   "short": "OUG nr. 84/2021",
+   "title": "Ordonanța de urgență a Guvernului nr. 84/2021 pentru abrogarea art. 72 alin. (1) din Ordonanța de urgență a Guvernului nr. 70/2020 privind reglementarea unor măsuri, începând cu data de 15 mai 2020, în contextul situației epidemiologice determinate de răspândirea coronavirusului SARS-CoV-2, pentru prelungirea unor termene, pentru modificarea și completarea Legii nr. 227/2015 privind Codul fiscal , a Legii educației naționale nr. 1/2011 , precum și a altor acte normative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/245220",
+   "versions": [
+    {
+     "from": "2021-08-06",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/245220",
+     "sha256": "39d1af295fc785f3cf9df18214887676dbb93d7f5314b0407907103a9c7321f6"
+    },
+    {
+     "from": "2022-12-15",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/262040",
+     "sha256": "5f8d413faa06003e2a067df01ded621f5f7eb9ffcf99c191de5ea22c6569dbb6"
     }
    ]
   },
@@ -22004,6 +23326,20 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/275520",
      "sha256": "f0af8bd99c61ad4d840d16dd0df445fcbea98ed4ab5a86ee0149938053ffe32a"
+    }
+   ]
+  },
+  {
+   "slug": "oug-87-2024",
+   "short": "OUG nr. 87/2024",
+   "title": "Ordonanța de urgență a Guvernului nr. 87/2024 privind modificarea unor acte normative în domeniul e-Transport, e-TVA și e-Factura, precum și pentru reglementarea unor măsuri fiscal-bugetare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/284679",
+   "versions": [
+    {
+     "from": "2024-06-28",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/284679",
+     "sha256": "0c22db82d2afc6646cb7f0eb99408109971412a85bd8c0efe83ca6a54a1442da"
     }
    ]
   },
@@ -22142,6 +23478,26 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/253957",
      "sha256": "ac70ae3ccd002c17529b56880ac6b03790df4f5dbc5fcc35a698f32a3b8819ce"
+    }
+   ]
+  },
+  {
+   "slug": "oug-94-2022",
+   "short": "OUG nr. 94/2022",
+   "title": "Ordonanța de urgență a Guvernului nr. 94/2022 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 57/2019 privind Codul administrativ",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/269010",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/256881",
+     "sha256": "b2b212910cc18d1c3bf8799d2c2d45158b72f61cb4f5e4cc72bfe68a01bd283c"
+    },
+    {
+     "from": "2023-10-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/269010",
+     "sha256": "128ddedecef1d896d02cfdd9c1b74bc89243b2bab13fc718800c149ef3cb0396"
     }
    ]
   },
