@@ -47,6 +47,11 @@ def register(P):
             '148111': {'arts': ('Articolul 29', 'Articolul 30', 'Articolul 31')},
             '174303': {'arts': ('Articolul 11',)},
         },
+        # the same note's quotation of Legea nr. 157/2011 art. III, point by point ("8. Articolul 27 se modifică ...:"
+        # and the new wording), is printed inside the articles it amends in the forms of 2011-2016
+        'quoted_amendment': {'act': 'legea-157-2011', 'start': 'Articolul III', 'end': 'Articolul IV',
+                             'forms': ('130491', '144566', '148111', '154329', '161147', '174303', '181399'),
+                             'before': '116732', 'after': '198370'},
         # arts. 28^1 and 33^1 are inserted by Legea nr. 157/2011 art. III pct. 10 and 23 only from Romania's full
         # application of the Schengen acquis (the later forms' notes: 31.03.2024); the forms of 2011-2016 print them
         # before that day
@@ -61,6 +66,10 @@ def register(P):
             # (its art. II: 4.4.2024), after the next form's day too (22.03.2024): the earlier text stands here
             '279226': {'absent': (), 'placeholder': (), 'carry': ('art-135',)},
         },
+        # OG nr. 25/2014 art. 41 pct. 71 replaces chapter V (arts. 81-106^6) in full from 28.11.2014 (art. 44 alin.
+        # (1)); the form of that day gives the chapter no note of its own
+        'form_credits': {'161147': {k: 'og-25-2014' for k in (
+            [f'art-{n:03d}' for n in range(81, 107)] + [f'art-106-{s}' for s in range(1, 6)])}},
         'repeal_acts': {
             'legea-56-2007': {
                 'label': 'Legea nr. 56/2007', 'page': '80555', 'capture': CC['legea-56-2007']['timestamp'],
@@ -120,6 +129,22 @@ def register(P):
         'title': 'Ordonanța de urgență a Guvernului nr. 194 din 12 decembrie 2002 privind regimul străinilor în '
                  'România, publicată în Monitorul Oficial al României, Partea I, nr. 955 din 27 decembrie 2002',
         'enacted': '2002-12-12', 'published': '2002-12-27', 'url': P.PORTAL + 'DetaliiDocumentAfis/41005',
+    }
+    # printed as text lines: the sub-section names of chapter III section 3 ("1. Prelungirea dreptului de ședere
+    # temporară pentru ..."), at the end of the article before; the EU-transposition note after art. 152; and two lines
+    # of the consolidator's Legea nr. 157/2011 art. III quotation that the portal reworded (ministry name, "ori"), so
+    # not word for word in the act (art. 39 alin. (1), form of 26.12.2013; art. 33 alin. (4^1) in quotation marks,
+    # 2015-2016)
+    P.EDITORIAL_LINES[SLUG] = {
+        'art-052': ('1. Prelungirea dreptului de ședere temporară pentru',),
+        'art-055': ('2. Prelungirea dreptului de ședere temporară pentru',),
+        'art-057': ('3. Prelungirea dreptului de ședere temporară pentru',),
+        'art-061': ('4. Prelungirea dreptului de ședere temporară pentru',),
+        'art-065': ('5. Prelungirea dreptului de ședere temporară pentru',),
+        'art-152': ('* Prezenta ordonanță de urgență transpune',),
+        'art-039': ('(1) Forma, conținutul și elementele de siguranță ale formularului invitației prevăzute de prezenta '
+                    'secțiune se stabilesc de către Ministerul Afacerilor Interne, cu avizul',),
+        'art-033': ('„(4^1) Decizia de anulare',),
     }
     P.PHASE11 = P.PHASE11 + (SLUG,)
     P.PHASE6 = P.PHASE6 + (SLUG,)

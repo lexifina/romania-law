@@ -1,6 +1,6 @@
 # Every act in this repository
 
-776 acts, 3,133 versions. Generated on every publish from the corpus; each folder's README.md lists its articles. Dates are in-force days.
+780 acts, 3,339 versions. Generated on every publish from the corpus; each folder's README.md lists its articles. Dates are in-force days.
 
 ## Codes and the Constitution (9)
 
@@ -16,7 +16,7 @@
 | [`codul-procedura-penala/`](codul-procedura-penala/) | Codul de procedură penală (Legea nr. 135/2010) | 61 | 2014-02-01 | 2026-06-13 |
 | [`constitutia/`](constitutia/) | Constituția României | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (430)
+## Laws (legi) (431)
 
 | Folder | Act | Versions | From | Latest |
 | --- | --- | ---: | --- | --- |
@@ -443,6 +443,7 @@
 | [`legea-92-2025/`](legea-92-2025/) | Legea nr. 92/2025 pentru modificarea și completarea Legii nr. 126/1995 privind regimul materiilor explozive | 1 | 2025-08-09 | 2025-08-09 |
 | [`legea-93-2023/`](legea-93-2023/) | Legea nr. 93/2023 pentru completarea Legii nr. 207/2015 privind Codul de procedură fiscală | 1 | 2023-04-21 | 2023-04-21 |
 | [`legea-94-2023/`](legea-94-2023/) | Legea nr. 94/2023 pentru aprobarea Ordonanței de urgență a Guvernului nr. 109/2022 privind unele măsuri pentru proiectele de infrastructură de apă și apă uzată finanțate din fonduri europene și pentru modificarea unor acte normative | 1 | 2023-04-21 | 2023-04-21 |
+| [`legea-95-2006/`](legea-95-2006/) | Legea nr. 95/2006 privind reforma în domeniul sănătății | 201 | 2006-05-01 | 2026-02-02 |
 | [`legea-95-2022/`](legea-95-2022/) | Legea nr. 95/2022 privind aprobarea Ordonanței de urgență a Guvernului nr. 174/2008 pentru modificarea și completarea unor acte normative privind protecția consumatorilor | 1 | 2022-04-17 | 2022-04-17 |
 | [`legea-96-2023/`](legea-96-2023/) | Legea nr. 96/2023 pentru modificarea și completarea Legii nr. 448/2006 privind protecția și promovarea drepturilor persoanelor cu handicap | 1 | 2023-05-18 | 2023-05-18 |
 | [`legea-96-2024/`](legea-96-2024/) | Legea nr. 96/2024 pentru aprobarea Ordonanței Guvernului nr. 7/2023 privind calitatea apei destinate consumului uman | 1 | 2024-04-18 | 2024-04-18 |
@@ -451,7 +452,7 @@
 | [`legea-99-2014/`](legea-99-2014/) | Legea nr. 99/2014 pentru modificarea și completarea Legii serviciului de salubrizare a localităților nr. 101/2006 | 2 | 2014-07-11 | 2022-04-07 |
 | [`legea-99-2016/`](legea-99-2016/) | Legea nr. 99/2016 privind achizițiile sectoriale | 22 | 2016-05-26 | 2024-05-24 |
 
-## Emergency ordinances (OUG) (239)
+## Emergency ordinances (OUG) (242)
 
 | Folder | Act | Versions | From | Latest |
 | --- | --- | ---: | --- | --- |
@@ -473,6 +474,7 @@
 | [`oug-105-2021/`](oug-105-2021/) | Ordonanța de urgență a Guvernului nr. 105/2021 privind aprobarea și implementarea Programului național de suport pentru copii, în contextul pandemiei de COVID-19 - "Din grijă pentru copii" | 1 | 2021-09-24 | 2021-09-24 |
 | [`oug-107-2021/`](oug-107-2021/) | Ordonanța de urgență a Guvernului nr. 107/2021 pentru modificarea articolului unic din Ordonanța de urgență a Guvernului nr. 51/2021 privind prorogarea termenelor prevăzute la art. II pct. 9 și art. III din Legea nr. 295/2020 pentru modificarea și completarea Legii nr. 207/2015 privind Codul de procedură fiscală , precum și aprobarea unor măsuri fiscal-bugetare | 1 | 2021-09-30 | 2021-09-30 |
 | [`oug-108-2024/`](oug-108-2024/) | Ordonanța de urgență a Guvernului nr. 108/2024 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 109/2011 privind guvernanța corporativă a întreprinderilor publice | 1 | 2024-09-09 | 2024-09-09 |
+| [`oug-109-2009/`](oug-109-2009/) | Ordonanța de urgență a Guvernului nr. 109/2009 pentru modificarea și completarea Legii nr. 571/2003 privind Codul fiscal | 1 | 2009-10-13 | 2009-10-13 |
 | [`oug-109-2011/`](oug-109-2011/) | Ordonanța de urgență a Guvernului nr. 109/2011 privind guvernanța corporativă a întreprinderilor publice | 18 | 2011-12-14 | 2025-12-09 |
 | [`oug-11-2021/`](oug-11-2021/) | Ordonanța de urgență a Guvernului nr. 11/2021 pentru aprobarea schemelor de plăți și a unor instrumente de garantare care se aplică în agricultură în anii 2021 și 2022 | 2 | 2021-02-25 | 2022-03-11 |
 | [`oug-11-2022/`](oug-11-2022/) | Ordonanța de urgență a Guvernului nr. 11/2022 privind modificarea și completarea Legii nr. 259/2021 pentru aprobarea Ordonanței de urgență a Guvernului nr. 118/2021 privind stabilirea unei scheme de compensare pentru consumul de energie electrică și gaze naturale pentru sezonul rece 2021-2022, precum și pentru completarea Ordonanței Guvernului nr. 27/1996 privind acordarea de facilități persoanelor care domiciliază sau lucrează în unele localități din Munții Apuseni și în Rezervația Biosferei „Delta Dunării“ | 2 | 2022-02-17 | 2022-03-22 |
@@ -548,6 +550,7 @@
 | [`oug-175-2022/`](oug-175-2022/) | Ordonanța de urgență a Guvernului nr. 175/2022 pentru stabilirea unor măsuri privind obiectivele de investiții pentru realizarea de amenajări hidroenergetice în curs de execuție, precum și a altor proiecte de interes public major care utilizează energie regenerabilă, precum și pentru modificarea și completarea unor acte normative | 1 | 2022-12-14 | 2022-12-14 |
 | [`oug-177-2022/`](oug-177-2022/) | Ordonanța de urgență a Guvernului nr. 177/2022 pentru modificarea și completarea Legii nr. 46/2008 - Codul silvic , precum și privind stabilirea unor măsuri în domeniul silviculturii | 2 | 2022-12-16 | 2023-11-16 |
 | [`oug-179-2022/`](oug-179-2022/) | Ordonanța de urgență a Guvernului nr. 179/2022 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 18/2009 privind creșterea performanței energetice a blocurilor de locuințe | 1 | 2022-12-20 | 2022-12-20 |
+| [`oug-18-2016/`](oug-18-2016/) | Ordonanța de urgență a Guvernului nr. 18/2016 pentru modificarea și completarea Legii nr. 286/2009 privind Codul penal, Legii nr. 135/2010 privind Codul de procedură penală, precum și pentru completarea art. 31 alin. (1) din Legea nr. 304/2004 privind organizarea judiciară | 2 | 2016-05-23 | 2024-05-10 |
 | [`oug-184-2020/`](oug-184-2020/) | Ordonanța de urgență a Guvernului nr. 184/2020 pentru modificarea și completarea Legii nr. 121/2014 privind eficiența energetică | 2 | 2020-11-02 | 2022-01-01 |
 | [`oug-185-2022/`](oug-185-2022/) | Ordonanța de urgență a Guvernului nr. 185/2022 pentru modificarea art. 2 alin. (3) din Legea nr. 255/2010 privind exproprierea pentru cauză de utilitate publică, necesară realizării unor obiective de interes național, județean și local | 2 | 2022-12-28 | 2023-06-23 |
 | [`oug-188-2022/`](oug-188-2022/) | Ordonanța de urgență a Guvernului nr. 188/2022 pentru modificarea și completarea Legii nr. 207/2015 privind Codul de procedură fiscală și pentru modificarea Ordonanței de urgență a Guvernului nr. 74/2013 privind unele măsuri pentru îmbunătățirea și reorganizarea activității Agenției Naționale de Administrare Fiscală, precum și pentru modificarea și completarea unor acte normative | 4 | 2022-12-29 | 2026-01-01 |
@@ -666,6 +669,7 @@
 | [`oug-80-2023/`](oug-80-2023/) | Ordonanța de urgență a Guvernului nr. 80/2023 pentru modificarea art. 1 alin. (11) din Ordonanța de urgență a Guvernului nr. 15/2022 privind acordarea de sprijin și asistență umanitară de către statul român cetățenilor străini sau apatrizilor aflați în situații deosebite, proveniți din zona conflictului armat din Ucraina | 1 | 2023-10-05 | 2023-10-05 |
 | [`oug-81-2022/`](oug-81-2022/) | Ordonanța de urgență a Guvernului nr. 81/2022 pentru modificarea art. 9 din Ordonanța Guvernului nr. 122/1998 privind acumularea, scoaterea și împrospătarea produselor din rezervele proprii ale forțelor destinate apărării naționale | 1 | 2022-06-17 | 2022-06-17 |
 | [`oug-81-2023/`](oug-81-2023/) | Ordonanța de urgență a Guvernului nr. 81/2023 privind consolidarea capacității instituționale a Ministerului Finanțelor, exercitarea controlului financiar de specialitate al statului, pentru unele reglementări specifice, precum și pentru modificarea și completarea unor acte normative | 2 | 2023-10-06 | 2023-12-15 |
+| [`oug-82-2014/`](oug-82-2014/) | Ordonanța de urgență a Guvernului nr. 82/2014 pentru modificarea și completarea Legii nr. 135/2010 privind Codul de procedură penală | 2 | 2014-12-15 | 2016-05-02 |
 | [`oug-82-2019/`](oug-82-2019/) | Ordonanța de urgență a Guvernului nr. 82/2019 privind prorogarea termenului prevăzut la art. III din Legea nr. 352/2015 pentru modificarea și completarea Ordonanței Guvernului nr. 26/2011 privind înființarea Inspectoratului de Stat pentru Controlul în Transportul Rutier | 2 | 2019-12-30 | 2021-12-27 |
 | [`oug-82-2024/`](oug-82-2024/) | Ordonanța de urgență a Guvernului nr. 82/2024 pentru modificarea și completarea Legii nr. 360/2002 privind Statutul polițistului | 1 | 2024-06-28 | 2024-06-28 |
 | [`oug-84-2016/`](oug-84-2016/) | Ordonanța de urgență a Guvernului nr. 84/2016 pentru modificarea și completarea unor acte normative din domeniul financiar-fiscal | 2 | 2016-12-06 | 2017-05-05 |
