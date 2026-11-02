@@ -1,6 +1,6 @@
 # Every act in this repository
 
-1078 acts, 4,604 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+1079 acts, 4,611 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -993,7 +993,7 @@
 | Ordonanța Guvernului nr. 13/2025 pentru modificarea art. 6 din Ordonanța de urgență a Guvernului nr. 77/2021 privind înființarea Gărzii Forestiere Naționale | [`og/2025/13/`](og/2025/13/) | amending act | 1 | 2025-08-22 | 2025-08-22 |
 | Ordonanța Guvernului nr. 22/2025 pentru modificarea și completarea Legii nr. 227/2015 privind Codul fiscal | [`og/2025/22/`](og/2025/22/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 
-## Government decisions (HG) (127, of which 82 amending acts)
+## Government decisions (HG) (128, of which 82 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -1008,6 +1008,7 @@
 | Hotărârea Guvernului nr. 741/2008 | [`hg/2008/741/`](hg/2008/741/) | in force | 2 | 2008-08-13 | 2022-01-25 |
 | Hotărârea Guvernului nr. 776/2010 privind organizarea și funcționarea direcțiilor județene pentru sport și tineret, respectiv a Direcției pentru Sport și Tineret a Municipiului București | [`hg/2010/776/`](hg/2010/776/) | in force | 1 | 2010-08-09 | 2010-08-09 |
 | Hotărârea Guvernului nr. 64/2011 | [`hg/2011/64/`](hg/2011/64/) | in force | 1 | 2011-03-02 | 2011-03-02 |
+| Normele metodologice de aplicare a prevederilor referitoare la atribuirea contractului de achiziție publică/acordului-cadru din Legea nr. 98/2016 privind achizițiile publice, aprobate prin Hotărârea Guvernului nr. 395/2016 | [`hg/2016/395/`](hg/2016/395/) | in force | 7 | 2016-06-09 | 2024-05-24 |
 | Hotărârea Guvernului nr. 907/2016 privind etapele de elaborare și conținutul-cadru al documentațiilor tehnico-economice aferente obiectivelor/proiectelor de investiții finanțate din fonduri publice | [`hg/2016/907/`](hg/2016/907/) | in force | 3 | 2017-02-27 | 2023-11-23 |
 | Hotărârea Guvernului nr. 432/2017 privind echipamentele maritime | [`hg/2017/432/`](hg/2017/432/) | in force | 1 | 2017-07-03 | 2017-07-03 |
 | Hotărârea Guvernului nr. 877/2018 privind adoptarea Strategiei naționale pentru dezvoltarea durabilă a României 2030 | [`hg/2018/877/`](hg/2018/877/) | in force | 2 | 2018-11-21 | 2022-06-21 |

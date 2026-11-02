@@ -8696,6 +8696,57 @@
    ]
   },
   {
+   "slug": "hg-395-2016",
+   "path": "hg/2016/395",
+   "short": "HG nr. 395/2016",
+   "title": "Normele metodologice de aplicare a prevederilor referitoare la atribuirea contractului de achiziție publică/acordului-cadru din Legea nr. 98/2016 privind achizițiile publice, aprobate prin Hotărârea Guvernului nr. 395/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/282823",
+   "versions": [
+    {
+     "from": "2016-06-09",
+     "units": 171,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/179161",
+     "sha256": "c7fb531843dca5beb33b199462b1aec8b07378e869cc383322f7a476a2bedf07"
+    },
+    {
+     "from": "2016-12-05",
+     "units": 171,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/184285",
+     "sha256": "1fdf69fba1a56742685ccfb912879e2e92416fadc5489ebcdcf07c3985c2d243"
+    },
+    {
+     "from": "2018-06-18",
+     "units": 172,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/201281",
+     "sha256": "de1cc9a9815c0380cf7c66ac55cecdb3327dfc48a380a296d2114a2f2f3f68c1"
+    },
+    {
+     "from": "2020-06-29",
+     "units": 172,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/227145",
+     "sha256": "aa832ea00c5fd42fe0230aa554d128b8d2d5617d90a251333028ff22ba7f4a3f"
+    },
+    {
+     "from": "2022-03-22",
+     "units": 172,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/252198",
+     "sha256": "2ef36c02b1c38d42fc10a151d5c9afa369ba85e09c64d120c432cc598a5655c4"
+    },
+    {
+     "from": "2023-04-19",
+     "units": 177,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/266862",
+     "sha256": "dd4cab683d8a4061d7598195e9dfb14a5def5eb764d1ed3552767beb8575c0f4"
+    },
+    {
+     "from": "2024-05-24",
+     "units": 177,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/282823",
+     "sha256": "2f467f3519287ec997691a5e22784a848bf6cd95ea1dd659be6820c95b5d1ad9"
+    }
+   ]
+  },
+  {
    "slug": "legea-1-2005",
    "path": "lege/2005/1",
    "short": "Legea nr. 1/2005",

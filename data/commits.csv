@@ -5851,3 +5851,10 @@ day,kind,law,acts,files,branch
 2019-01-07,law,legea-358-2018,og-29-1997,1,main
 2011-07-28,start,legea-104-2011,legea-104-2011,87,main
 2015-05-22,unexplained,,legea-104-2011,6,main
+2016-06-09,start,,hg-395-2016,171,main
+2016-12-05,law,hg-866-2016,hg-395-2016,5,main
+2018-06-18,law,hg-419-2018,hg-395-2016,74,main
+2020-06-29,law,hg-485-2020,hg-395-2016,1,main
+2022-03-22,law,hg-375-2022,hg-395-2016,9,main
+2023-04-19,law,hg-336-2023,hg-395-2016,41,main
+2024-05-24,law,oug-52-2024,hg-395-2016,2,main
