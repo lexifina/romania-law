@@ -20,6 +20,7 @@ Initiator: Guvernul României.
 - 2026-04-09: sent for promulgation
 - 2026-07-15: published in the Monitorul Oficial
 - 2026-10-30: returned for re-examination
+- 2026-11-02: documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -38,3 +39,7 @@ Initiator: Guvernul României.
 - 2025-09-24: Adresă către Camera Deputaților (AM): [am-e9d8f554.md](am-e9d8f554.md); official file https://www.senat.ro/legis/PDF/2025/25L222AM.PDF
 - 2026-04-07: Adresă privind sesizarea CCR (AXS): [axs-ac110657.md](axs-ac110657.md); official file https://www.senat.ro/legis/PDF/2025/25L222AXS.PDF
 - 2026-04-07: Forma trimisă la promulgare (LP): [lp-8ec005fc.md](lp-8ec005fc.md); official file https://www.senat.ro/legis/PDF/2025/25L222LP.PDF
+- 2026-11-02: Document (TA): [ta-f2b2c376.md](ta-f2b2c376.md); official file https://www.senat.ro/legis/PDF/2025/25L222TA.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-11-02: Document (SC1): [sc1-10278b8d.md](sc1-10278b8d.md); official file https://www.senat.ro/legis/PDF/2025/25L222SC1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-11-02: Document (DC1): [dc1-22c14c0a.md](dc1-22c14c0a.md); official file https://www.senat.ro/legis/PDF/2025/25L222DC1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-11-02: Document (RX1): [rx1-3ca20d66.md](rx1-3ca20d66.md); official file https://www.senat.ro/legis/PDF/2025/25L222RX1.PDF (its day is not given by the bill file: shown from the last stage held)
