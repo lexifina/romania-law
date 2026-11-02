@@ -1787,6 +1787,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/129268"
 },
 {
+"slug": "legea-104-2011",
+"path": "lege/2011/104",
+"kind": "lege",
+"year": "2011",
+"number": "104",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 104/2011 privind calitatea aerului înconjurător",
+"short": "Legea nr. 104/2011",
+"code": null,
+"status": "in force",
+"versions": 2,
+"from": "2011-07-28",
+"latest": "2015-05-22",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/129642"
+},
+{
 "slug": "legea-292-2011",
 "path": "lege/2011/292",
 "kind": "lege",

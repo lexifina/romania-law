@@ -1,6 +1,6 @@
 # Every act in this repository
 
-1077 acts, 4,602 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+1078 acts, 4,604 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -29,7 +29,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (562, of which 353 amending acts)
+## Laws (legi) (563, of which 353 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -137,6 +137,7 @@
 | Legea nr. 255/2010 privind exproprierea pentru cauză de utilitate publică, necesară realizării unor obiective de interes național, județean și local | [`lege/2010/255/`](lege/2010/255/) | in force | 32 | 2010-12-23 | 2025-04-18 |
 | Legea nr. 263/2010 privind sistemul unitar de pensii publice | [`lege/2010/263/`](lege/2010/263/) | repealed 2024-09-01 | 60 | 2011-01-01 | 2024-09-01 |
 | Legea nr. 71/2011 pentru punerea în aplicare a Legii nr. 287/2009 privind Codul civil | [`lege/2011/71/`](lege/2011/71/) | in force | 13 | 2011-06-13 | 2025-07-16 |
+| Legea nr. 104/2011 privind calitatea aerului înconjurător | [`lege/2011/104/`](lege/2011/104/) | in force | 2 | 2011-07-28 | 2015-05-22 |
 | Legea asistenței sociale nr. 292/2011 | [`lege/2011/292/`](lege/2011/292/) | in force | 10 | 2011-12-23 | 2025-12-31 |
 | Legea nr. 76/2012 pentru punerea în aplicare a Legii nr. 134/2010 privind Codul de procedură civilă | [`lege/2012/76/`](lege/2012/76/) | in force | 6 | 2012-06-02 | 2014-10-19 |
 | Legea energiei electrice și a gazelor naturale nr. 123/2012 | [`lege/2012/123/`](lege/2012/123/) | in force | 48 | 2012-07-19 | 2025-12-19 |

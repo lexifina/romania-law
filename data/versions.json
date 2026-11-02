@@ -9068,6 +9068,27 @@
    ]
   },
   {
+   "slug": "legea-104-2011",
+   "path": "lege/2011/104",
+   "short": "Legea nr. 104/2011",
+   "title": "Legea nr. 104/2011 privind calitatea aerului înconjurător",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/129642",
+   "versions": [
+    {
+     "from": "2011-07-28",
+     "units": 87,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/129642",
+     "sha256": "4cee0ea68fa5600cffa66833a8e0f05290cd73ec2d6a4ad4ffa8079fd5f6dba6"
+    },
+    {
+     "from": "2015-05-22",
+     "units": 87,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168108",
+     "sha256": "8aabf549b193fa2192dd74e55bbdabbeb22c01ea836d3f7075cff95c5d0af078"
+    }
+   ]
+  },
+  {
    "slug": "legea-107-1996",
    "path": "lege/1996/107",
    "short": "Legea nr. 107/1996",
