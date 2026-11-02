@@ -10,7 +10,7 @@ TITLE = 'Ordonanța de urgență a Guvernului nr. 109/2011 privind guvernanța c
 def register(P):
     P.ACTS[SLUG] = {
         **P.P6, 'part': '9z-oug-109-2011', 'short': 'OUG nr. 109/2011', 'pad': 3, 'cc_forms': True, 'trailing_notes': True,
-        'sign_tail': True,
+        'sign_tail': True, 'selfclosed_body': True,
         'title': TITLE,
         'url': P.PORTAL + 'DetaliiDocument/304455',
         'in_force': '2011-12-14', 'first_law': SLUG,
@@ -24,6 +24,8 @@ def register(P):
             'made up to then arrive together that day.',
             'OUG nr. 109/2011: approved with amendments by Legea nr. 111/2016; the portal\'s notes date its changes '
             'with the form that carries them, and each change is credited to the act the note names.',
+            'OUG nr. 109/2011: the form of 4 June 2013 prints art. 65 with an empty body element and its two '
+            'paragraphs just after it, so the paragraphs are read as the article\'s text.',
             'OUG nr. 109/2011: the signature block printed after the last article ("PRIM-MINISTRU ...") is not part of '
             'the article.',
         ],

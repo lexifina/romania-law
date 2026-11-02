@@ -27,7 +27,24 @@ def register(P):
             '2004. The portal\'s first form is of 24 June 2006, so the changes made up to then arrive together that '
             'day.',
         ],
-        'repeal_acts': {},
+        'repeal_acts': {
+            'legea-224-2006': {
+                'label': 'Legea nr. 224/2006', 'page': '72813', 'capture': '20251109164015',
+                'cc': {'crawl': 'CC-MAIN-2025-47', 'timestamp': '20251109164015',
+                       'filename': 'crawl-data/CC-MAIN-2025-47/segments/1762439342726.15/warc/'
+                                   'CC-MAIN-20251109151024-20251109181024-00885.warc.gz',
+                       'offset': '293201422', 'length': '83298',
+                       'url': 'https://legislatie.just.ro/Public/DetaliiDocumentAfis/72813'},
+                'in_force': '2006-06-24',
+                'why': 'it sets no in-force day of its own: 3 days after publication in Monitorul Oficial nr. 534 of '
+                       '21 June 2006 (Constituția art. 78)',
+                'read': 'art. I pct. 5 (art. 8), 6 (art. 9), 8 (art. 11), 15 (art. 19), 66 (art. 107), 87 (art. 126) '
+                        'and 89 (art. 131): "Articolul ... se abrogă."; the form of 24.06.2006 leaves them out with no '
+                        'note.',
+                'repeals': {'73127': ('art-008', 'art-009', 'art-011', 'art-019', 'art-107', 'art-126', 'art-131')},
+                'cite': 'Abrogat de LEGEA nr. 224 din 1 iunie 2006, publicată în MONITORUL OFICIAL nr. 534 din 21 '
+                        'iunie 2006'},
+        },
     }
     P.PHASE11 = P.PHASE11 + (SLUG,)
     P.PHASE6 = P.PHASE6 + (SLUG,)

@@ -33,7 +33,7 @@ def register(P):
         **P.P6, 'part': '9z-oug-99-2006', 'short': 'OUG nr. 99/2006', 'pad': 3, 'cc_forms': True, 'sign_tail': True,
         'ell_digit': True,  # "Articolul l58" (lowercase l for 1) in the forms of 2007-2022
         # the form of 01.02.2014 prints arts. 240^33-240^37 inside art. 240^32
-        'nested_own': True, 'return_rule': True, 'staged_dating': True, 'reprint_notes': True,
+        'nested_own': True, 'return_rule': True, 'staged_dating': True, 'reprint_notes': True, 'range_plain': True,
         'root_word': 'act page',
         # the forms of 01.04.2010 and 13.12.2010 quote, after a C.T.C.E. note "... urmează să fie modificat ...
         # începând cu data de 30 aprilie 2011 (31 octombrie 2010) ... având următorul conținut:", the wording OUG nr.
@@ -72,6 +72,37 @@ def register(P):
             'OUG nr. 99/2006: approved with amendments by Legea nr. 227/2007 (Monitorul Oficial nr. 480 of 18 July '
             '2007); the portal\'s first consolidated form (21 July 2007) carries its changes, each credited to it from '
             'the portal\'s notes.',
+            'OUG nr. 99/2006: the newest form, of 5 March 2026 (307661), has no captured page of its own; it is read '
+            'from the act page DetaliiDocument/78313 as captured on 2026-07-07 (Internet Archive), which shows that '
+            'form and lists all 26.',
+            'OUG nr. 99/2006: the portal\'s forms of 1 April 2010 and 13 December 2010 print, after notes "... urmează '
+            'să fie modificat de pct. N al art. I din ORDONANȚA DE URGENȚĂ nr. 26 ... începând cu data de 30 aprilie '
+            '2011 (31 octombrie 2010) ... având următorul conținut:", the wording OUG nr. 26/2010 gives those '
+            'provisions from that later day (arts. 36 and 181 as a second copy of the article; provisions of arts. 5, '
+            '6, 7, 183 and 222 as a second copy of the provision). Those notes and the quoted wording are not the text '
+            'in force on the form\'s day and are left out; the earlier text stands.',
+            'OUG nr. 99/2006: OUG nr. 26/2010 (DetaliiDocumentAfis/117587, read as published) took effect on '
+            'publication, 1 April 2010, save art. I pct. 4, 16-18, 20-23 and 25-28 (31 October 2010) and pct. 1-3, 5, '
+            '6, 10, 12, 15 and 38 (30 April 2011) (its art. VII). Changes made by those points are dated by those days, '
+            'as the portal\'s notes on them say ("... începând cu data de 30 aprilie 2011, conform literei b) a art. VII '
+            '..."), even where a note carries another date ("la 01-04-2010") or none.',
+            'OUG nr. 99/2006: the portal\'s form of 1 January 2022 prints all the changes of Legea nr. 319/2021 '
+            '(Monitorul Oficial nr. 1247 of 30 December 2021). Its art. II puts in force on 1 January 2022 only arts. '
+            '126^3, 126^4 alin. (2), 126^6 and 126^8 alin. (2); the rest took effect 3 days after publication, 2 '
+            'January 2022. So arts. 126^5 and 126^7 (whose notes in that form give 2 January 2022) are left out of '
+            'that form, and alin. (1) of arts. 126^4 and 126^8 is added on 2 January 2022 (DetaliiDocumentAfis/250050, '
+            'read as published).',
+            'OUG nr. 99/2006: the portal\'s notes printed as paragraphs of an article are not text: the note on a '
+            'renamed ministry (arts. 314, 316, 317, forms of 2009-2014); the notes on the transitional articles of OUG '
+            'nr. 25/2009, OUG nr. 26/2010, Legea nr. 270/2009 and Legea nr. 231/2010 ("Conform ..."), with the '
+            'articles they quote (art. 422, forms of 2009-2014; arts. 126^1 and 164^1, art. X of OUG nr. 113/2013, '
+            'forms of 2014-2015); the wording Legea nr. 231/2010 gives art. 159 alin. (2) from 31 December 2011, '
+            'quoted in the forms of 13 December 2010 to 19 December 2011; and art. 2 lit. f) of Legea nr. 656/2002 as '
+            'OUG nr. 26/2010 art. IV rewrote it, quoted in art. 18 (forms of 2010-2014). The EU-transposition mention '
+            'after art. 422, which amending laws change, is kept as the forms print it.',
+            'OUG nr. 99/2006: some forms print article titles with a lowercase "l" for the digit 1 ("Articolul l58", '
+            '"l64", "l79"); they are read as arts. 158, 164 and 179. The form of 1 February 2014 prints arts. 240^33-'
+            '240^37 inside art. 240^32; each is read as its own article.',
         ],
         'repeal_acts': {
             'oug-25-2009': {
@@ -114,6 +145,10 @@ def register(P):
         **{k: ('Înlocuirea denumirii acestui minister s-a realizat direct în textul formei actualizate.',)
            for k in ('art-314', 'art-316', 'art-317')},
         'art-367': ('Conform alin. (4) al art. III din ORDONANȚA DE URGENȚĂ nr. 25 din 18 martie 2009',),
+        # art. X of OUG nr. 113/2013 quoted after arts. 126^1 and 164^1 (forms of 2014-2015)
+        **{k: ('Reproducem mai jos prevederile art. X din ORDONANȚA DE URGENȚĂ nr. 113 din 18 decembrie 2013', '"Art. X',
+               'În aplicarea prevederilor art. 126^1 și 164^1 din Ordonanța de urgență a Guvernului nr. 99/2006')
+           for k in ('art-126-1', 'art-164-1')},
         'art-108': ('Conform art. II din LEGEA nr. 270 din 7 iulie 2009',),
         'art-018': ('Conform literei c) a art. VII din ORDONANȚA DE URGENȚĂ nr. 26 din 31 martie 2010',
                     'Art. IV din ordonanța de urgență menționată mai sus modifică litera f) a art. 2 din Legea nr. 656/2002',

@@ -8566,6 +8566,56 @@
    ]
   },
   {
+   "slug": "legea-17-2014",
+   "short": "Legea nr. 17/2014",
+   "title": "Legea nr. 17/2014 privind unele măsuri de reglementare a vânzării-cumpărării terenurilor agricole situate în extravilan și de modificare a Legii nr. 268/2001 privind privatizarea societăților comerciale ce dețin în administrare terenuri proprietate publică și privată a statului cu destinație agricolă și înființarea Agenției Domeniilor Statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/156290",
+   "versions": [
+    {
+     "from": "2014-04-11",
+     "units": 27,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/156290",
+     "sha256": "5ec5697d3f97e7ccd50d2553a9e95285ff8d159ea927ac037521b01e7f224d2c"
+    },
+    {
+     "from": "2014-05-16",
+     "units": 27,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/158178",
+     "sha256": "7d7452af42cd1e02ac73ae5d0fb742cfe534696ab83c41e526b9e80ff1565440"
+    },
+    {
+     "from": "2014-10-19",
+     "units": 27,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/162273",
+     "sha256": "c5d8e42efa91a49d97cf6cd3021a09c4abf440ea7c5146626a42c0010d4d8d13"
+    },
+    {
+     "from": "2017-06-11",
+     "units": 27,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/189708",
+     "sha256": "cdf81b3c5d5cca210e652624c613e824b969056e0a3fe403bd5e3b6ebdd188aa"
+    },
+    {
+     "from": "2020-10-13",
+     "units": 30,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/228844",
+     "sha256": "bbd7d39c15d723f77b5bfd4971f84d0e7aa595522a9f740e2f41390a1594ed0b"
+    },
+    {
+     "from": "2022-06-30",
+     "units": 31,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/256343",
+     "sha256": "b67b6a0092448ced7dd38f4f5d84c1191945b8f29328a60e849bf7252cb17a28"
+    },
+    {
+     "from": "2024-05-03",
+     "units": 31,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/156290",
+     "sha256": "a341aa298654969c3e66a3b42724138dfad4f4b7ce40461218ee376581c65674"
+    }
+   ]
+  },
+  {
    "slug": "legea-187-2012",
    "short": "Legea nr. 187/2012",
    "title": "Legea nr. 187/2012 pentru punerea în aplicare a Legii nr. 286/2009 privind Codul penal",
@@ -8680,6 +8730,26 @@
      "units": 19,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/254145",
      "sha256": "20719b5c634d0f0f16090614ae5229ddf1de0e36eb591e20978c75be41360b51"
+    }
+   ]
+  },
+  {
+   "slug": "legea-196-2018",
+   "short": "Legea nr. 196/2018",
+   "title": "Legea nr. 196/2018 privind înființarea, organizarea și funcționarea asociațiilor de proprietari și administrarea condominiilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/203233",
+   "versions": [
+    {
+     "from": "2018-09-28",
+     "units": 110,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/203233",
+     "sha256": "b63179a09baf8f03ace1fa7c3141facc0e340d3bc9442792cec6579bd949533b"
+    },
+    {
+     "from": "2025-12-19",
+     "units": 111,
+     "source_url": "https://web.archive.org/web/20260515080430id_/https://legislatie.just.ro/Public/DetaliiDocument/203233",
+     "sha256": "7ce22fe6ede5d28f298a3d25ff4544f522aebb4a0f115681113e6a2693167f96"
     }
    ]
   },
@@ -9424,6 +9494,238 @@
      "units": 168,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/261410",
      "sha256": "71c734f5409f14660134488519985622f1704ff17e1f22893714e7c74d134ffa"
+    }
+   ]
+  },
+  {
+   "slug": "legea-33-1994",
+   "short": "Legea nr. 33/1994",
+   "title": "Legea nr. 33/1994 privind exproprierea pentru cauză de utilitate publică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/4066",
+   "versions": [
+    {
+     "from": "1994-06-02",
+     "units": 41,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/4066",
+     "sha256": "862bb5a6f2a64e0377656b5fb8a68061f2db50e9fac6dd12d6bff782efc67be4"
+    },
+    {
+     "from": "2011-10-01",
+     "units": 41,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/129800",
+     "sha256": "385e851097dee93b5467b5bdc56038e4a242438b244953c74c26addae0e974e2"
+    },
+    {
+     "from": "2020-11-16",
+     "units": 41,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/4066",
+     "sha256": "7d064324a18c9d00a5605d20ba252b190436a312de3b3dcc6c87183ec10387a3"
+    }
+   ]
+  },
+  {
+   "slug": "legea-350-2001",
+   "short": "Legea nr. 350/2001",
+   "title": "Legea nr. 350/2001 privind amenajarea teritoriului și urbanismul",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/29453",
+   "versions": [
+    {
+     "from": "2001-07-10",
+     "units": 68,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/29453",
+     "sha256": "6cefa20d082fbe2e83aa11bf3ffb7a3f407ae5c15cf9061ea7d83c337e01c25f"
+    },
+    {
+     "from": "2004-08-27",
+     "units": 68,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73652",
+     "sha256": "fbe04c28ac54f5d14e053b56426d7e8caf614c567146df6dcd7267f7ee586621"
+    },
+    {
+     "from": "2006-07-16",
+     "units": 70,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73653",
+     "sha256": "a1fa6482f143d381dfbf185d09ab319429e0056e2270f4c322ee53198ecfb7cd"
+    },
+    {
+     "from": "2007-02-04",
+     "units": 70,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/79385",
+     "sha256": "09e7526aaaed7f43d218555789137ab34ff3ddb031d3ac7e0b5819c30ede59f3"
+    },
+    {
+     "from": "2007-06-21",
+     "units": 70,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/83018",
+     "sha256": "ba5208037d3ce2e594609ca5f8c24d725e25a2c9276566126b41bdca483945a3"
+    },
+    {
+     "from": "2008-09-01",
+     "units": 75,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97199",
+     "sha256": "a324a2c20ea4ccc4e4df3c018ab8967b6cff2486f9785990bd28e56d992f301c"
+    },
+    {
+     "from": "2009-07-06",
+     "units": 75,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/115434",
+     "sha256": "5d340acd2a66609840b2ede71afe46d9444bace6774f10be5368c318a8da4f1c"
+    },
+    {
+     "from": "2009-11-16",
+     "units": 75,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/115435",
+     "sha256": "844dce0a40a4b55ff2488d19621fb7817f8f109e9a286aac2bd63ec353ab8d16"
+    },
+    {
+     "from": "2011-02-11",
+     "units": 83,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/126200",
+     "sha256": "442b74495f40124093c3c060a6378607e7d1bb04c63b49c0a6607fe232d1bcd0"
+    },
+    {
+     "from": "2011-07-17",
+     "units": 83,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/130346",
+     "sha256": "33342a294aa3e850f0d06cc5116c2618d17b8e9b19f53a6ed05576294137471e"
+    },
+    {
+     "from": "2011-12-05",
+     "units": 83,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133516",
+     "sha256": "0943af2bf49195886e850ad376c2c0cc6f8fb00001178744e341713f19aea9bd"
+    },
+    {
+     "from": "2012-11-26",
+     "units": 84,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/143306",
+     "sha256": "07d4af74e9270ce56f7655595c89b7345bdb75456139dd870b0d3ab07968e067"
+    },
+    {
+     "from": "2012-12-13",
+     "units": 84,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/143818",
+     "sha256": "9c0a91cf007ee0051a7043b03601c77f4a7bc28a1dcc5402cdb19d43b0fc2ab0"
+    },
+    {
+     "from": "2013-07-13",
+     "units": 84,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/149747",
+     "sha256": "e4836a967a70c33c9afd7d9b6c51e39c3afa87dbcba3d8abb62024b1eaadb54c"
+    },
+    {
+     "from": "2013-07-21",
+     "units": 84,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/149951",
+     "sha256": "bc4e8ebaeace378ac471bc0fa38537133b0a8c9338408f7f0992928254d38901"
+    },
+    {
+     "from": "2015-12-06",
+     "units": 84,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/173600",
+     "sha256": "bd84da2e7f56cbfdb1e012f939384d06aa35427a7dc3d4156e795ea71664ae11"
+    },
+    {
+     "from": "2015-12-21",
+     "units": 84,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174091",
+     "sha256": "e03dd3b1127fb7e6ba3fa365b0e030f60f52a1dd69f0e2a8824d82dea6ca498c"
+    },
+    {
+     "from": "2016-03-18",
+     "units": 84,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176712",
+     "sha256": "f14a91480be5a35301826eca6adb17f26984b1ca611957475a638966bfa965d0"
+    },
+    {
+     "from": "2016-11-04",
+     "units": 84,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/183278",
+     "sha256": "9a48a2c6a7d9d8acef2cd1f47e1086b9a9dc462df14288070192c0a434ab5aaf"
+    },
+    {
+     "from": "2016-12-27",
+     "units": 85,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/184772",
+     "sha256": "d1f5ad8e2df25e2abe204be35dfbb264931e4a0e7c550eb7af3137f38f91ba4a"
+    },
+    {
+     "from": "2017-05-05",
+     "units": 85,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/188277",
+     "sha256": "ecc05fc184ecfb858a6216ea91b9167fb897ab99dee8da347da3bf83dffa39b2"
+    },
+    {
+     "from": "2017-06-30",
+     "units": 85,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/190510",
+     "sha256": "9d7a35b59f4bf41c3afa924adf1781d60c2f1164e3e88ea16c1aec6f90456477"
+    },
+    {
+     "from": "2018-06-25",
+     "units": 85,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/201635",
+     "sha256": "cdde022ef00c5c1143d1a672057a7abd36e3da79ce4c65aa5b5c6899ff82f38f"
+    },
+    {
+     "from": "2019-07-29",
+     "units": 87,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/216298",
+     "sha256": "a10c091d5ca6bf93ab117405f0d9cc025535251aafcaa5470a0b164bf7e11ae4"
+    },
+    {
+     "from": "2021-06-30",
+     "units": 87,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/243505",
+     "sha256": "857d344c3c80e56c38fa133b916ae7ffdb28302148eb4c69944d964db0c3bf94"
+    },
+    {
+     "from": "2022-01-10",
+     "units": 87,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/249614",
+     "sha256": "544051d1ae96b7fcf4d1050f517a35b972bb9f740d24ae789a9deda984a0803c"
+    },
+    {
+     "from": "2022-03-13",
+     "units": 88,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/252083",
+     "sha256": "c41f4d043abf093022f3db6f72c80f86ecac567547321c76f7a422509a0e6287"
+    },
+    {
+     "from": "2022-07-28",
+     "units": 88,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/257230",
+     "sha256": "e5f6725f267e85cd7a505bd0604e839cf689cf290ec83fad36007c18ac0d77ab"
+    },
+    {
+     "from": "2023-04-21",
+     "units": 88,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/266833",
+     "sha256": "f278712dc8a09e7fe1171ac829a10b8bf490b5efec718ad8241408f58241b1bf"
+    },
+    {
+     "from": "2023-06-10",
+     "units": 88,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/267873",
+     "sha256": "2da4fa6ab4c903f0a762a29d484b433e3586e706d180b3f7283ad6915bee1993"
+    },
+    {
+     "from": "2025-04-30",
+     "units": 88,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/296273",
+     "sha256": "2acf57312b6ddb57a8b89e0ea356cf62540cdaccea78ebce676fcb814e0862ba"
+    },
+    {
+     "from": "2025-05-30",
+     "units": 88,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/297322",
+     "sha256": "7753c3700f76416f4db67ea5d62001b0d17a4ad41be2eb7745bf13da620fb47d"
+    },
+    {
+     "from": "2026-02-25",
+     "units": 88,
+     "source_url": "https://web.archive.org/web/20260312031022id_/https://legislatie.just.ro/Public/DetaliiDocument/29453",
+     "sha256": "55a033a721ca25da37ca6023174f5096cda4f5475981f23e4a04ea8cc854b6c9"
     }
    ]
   },
