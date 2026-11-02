@@ -11096,6 +11096,147 @@
    ]
   },
   {
+   "slug": "legea-161-2003",
+   "path": "lege/2003/161",
+   "short": "Legea nr. 161/2003",
+   "title": "Legea nr. 161/2003 privind unele măsuri pentru asigurarea transparenței în exercitarea demnităților publice, a funcțiilor publice și în mediul de afaceri, prevenirea și sancționarea corupției",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43323",
+   "versions": [
+    {
+     "from": "2003-04-21",
+     "units": 89,
+     "source_url": "https://web.archive.org/web/20260504205954id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/43323",
+     "sha256": "d2b77050a984db1bbae47b1d995da9e88c8e1127f0c3e94327eaca84117f7dec"
+    },
+    {
+     "from": "2003-05-21",
+     "units": 117,
+     "source_url": "https://web.archive.org/web/20260504205954id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/43323",
+     "sha256": "d2b77050a984db1bbae47b1d995da9e88c8e1127f0c3e94327eaca84117f7dec"
+    },
+    {
+     "from": "2003-06-02",
+     "units": 118,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/71822",
+     "sha256": "d387c51aff9fea85932abb69d4e893b96cd4d1c27e0cc4174d8a4d2f1f3f68bc"
+    },
+    {
+     "from": "2003-07-20",
+     "units": 239,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/71822",
+     "sha256": "d387c51aff9fea85932abb69d4e893b96cd4d1c27e0cc4174d8a4d2f1f3f68bc"
+    },
+    {
+     "from": "2004-04-19",
+     "units": 239,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/71823",
+     "sha256": "96f536394a5dd8b160db8a995b9c9bc04d61cb0ef7d10e3989194a59ae2aa503"
+    },
+    {
+     "from": "2004-05-23",
+     "units": 239,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/71824",
+     "sha256": "b98af02892e23a84c73b6a5ebd0b1654fcea57a6ba6e8b1c53bdaa65b4979d55"
+    },
+    {
+     "from": "2004-07-02",
+     "units": 240,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/71825",
+     "sha256": "76a61df49b439d6a0a4175ae74e734dbaae0c58144a3b0495efbdc40ff7de462"
+    },
+    {
+     "from": "2004-10-13",
+     "units": 240,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/71826",
+     "sha256": "7dbe2e35a4133a3e47ba49bb629441d25125e47cc165776988c41b45bf6e9f08"
+    },
+    {
+     "from": "2005-03-09",
+     "units": 240,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/71828",
+     "sha256": "eacd31a2aa96195fb532bf5fdf147a6edc0fb4b54acdec8f88b6867ed9233bfa"
+    },
+    {
+     "from": "2006-05-06",
+     "units": 240,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/71830",
+     "sha256": "7a794077a736af8d50f21b289150553c01ba5482523e6b5910c8ca6cd409c58e"
+    },
+    {
+     "from": "2006-12-28",
+     "units": 250,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/80258",
+     "sha256": "53e51a925d70ecb759bb6ac52828fa6e88d734e40642730f867d1d274c37f4be"
+    },
+    {
+     "from": "2007-11-25",
+     "units": 247,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85593",
+     "sha256": "d2bf211cf7b565140fb39bb52fd75ff51f157f10e7adb58323b433798175f158"
+    },
+    {
+     "from": "2009-11-12",
+     "units": 247,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/115815",
+     "sha256": "29969d8f3017bd1584debc842c17c184466e8b289367a3c5c5ea4216485c4b7e"
+    },
+    {
+     "from": "2011-01-01",
+     "units": 247,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/125298",
+     "sha256": "e747cbf38a14b548eb375e0bd6069f4a8701377ca1aa28fb1bc10c5d6251acba"
+    },
+    {
+     "from": "2011-04-22",
+     "units": 247,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/128630",
+     "sha256": "8c97c4d6c3dd8ff2fe5e4d32ee89c7db5f906f9d71f5d53a1da464030d6a8281"
+    },
+    {
+     "from": "2011-07-10",
+     "units": 251,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/129978",
+     "sha256": "a887ede41d677e4cf5fdaba0ffb1a3d6dfea366b2fca42e3e89f54a771e0bb72"
+    },
+    {
+     "from": "2014-02-01",
+     "units": 251,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/143776",
+     "sha256": "68217c46083a7db0a9abef72f559003db3d771177370788905e7bd869ee2e2a2"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 251,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/173524",
+     "sha256": "fd9105aa6e5a121eebf4d6e6c5e6b96db8834831d51187abbb21161ba2b04f7a"
+    },
+    {
+     "from": "2017-05-05",
+     "units": 251,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/188287",
+     "sha256": "e5bddfeb642cd0665129afe6d5ddeaefa9c5331b3c956ecda6dd0fa3d82ea960"
+    },
+    {
+     "from": "2017-06-10",
+     "units": 251,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/189694",
+     "sha256": "d4c4ba9eb168ce1477a002256585c1ffeb73f0d100b007a1507c302ceab2e1d0"
+    },
+    {
+     "from": "2019-04-12",
+     "units": 251,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/212446",
+     "sha256": "aee914c3ab395520be7d072b2781bf5582c36267a9e5eb3688b1d8736a8fe1ce"
+    },
+    {
+     "from": "2023-05-29",
+     "units": 251,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/267752",
+     "sha256": "6eb250a16302e5ff19e9f3e306dd14a2ab314b1e6d637303ac0e31c5fd7e3756"
+    }
+   ]
+  },
+  {
    "slug": "legea-17-2000",
    "path": "lege/2000/17",
    "short": "Legea nr. 17/2000",

@@ -1022,6 +1022,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/41627"
 },
 {
+"slug": "legea-161-2003",
+"path": "lege/2003/161",
+"kind": "lege",
+"year": "2003",
+"number": "161",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 161/2003 privind unele măsuri pentru asigurarea transparenței în exercitarea demnităților publice, a funcțiilor publice și în mediul de afaceri, prevenirea și sancționarea corupției",
+"short": "Legea nr. 161/2003",
+"code": null,
+"status": "in force",
+"versions": 22,
+"from": "2003-04-21",
+"latest": "2023-05-29",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/43323"
+},
+{
 "slug": "legea-217-2003",
 "path": "lege/2003/217",
 "kind": "lege",

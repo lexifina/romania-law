@@ -1,6 +1,6 @@
 # Every act in this repository
 
-1081 acts, 4,667 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+1082 acts, 4,689 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -30,7 +30,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (565, of which 353 amending acts)
+## Laws (legi) (566, of which 353 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -93,6 +93,7 @@
 | Legea drepturilor pacientului nr. 46/2003 | [`lege/2003/46/`](lege/2003/46/) | in force | 12 | 2003-02-28 | 2025-04-14 |
 | Legea nr. 52/2003 privind transparența decizională în administrația publică | [`lege/2003/52/`](lege/2003/52/) | in force | 4 | 2003-04-04 | 2022-03-02 |
 | Codul muncii (Legea nr. 53/2003) | [`lege/2003/53/`](lege/2003/53/) | in force | 61 | 2003-03-01 | 2025-12-18 |
+| Legea nr. 161/2003 privind unele măsuri pentru asigurarea transparenței în exercitarea demnităților publice, a funcțiilor publice și în mediul de afaceri, prevenirea și sancționarea corupției | [`lege/2003/161/`](lege/2003/161/) | in force | 22 | 2003-04-21 | 2023-05-29 |
 | Legea nr. 217/2003 pentru prevenirea și combaterea violenței domestice | [`lege/2003/217/`](lege/2003/217/) | in force | 22 | 2003-08-27 | 2025-01-17 |
 | Codul fiscal (Legea nr. 571/2003) | [`lege/2003/571/`](lege/2003/571/) | in force | 61 | 2004-01-01 | 2015-11-04 |
 | Legea nr. 211/2004 privind unele măsuri pentru asigurarea protecției victimelor infracțiunilor | [`lege/2004/211/`](lege/2004/211/) | in force | 8 | 2005-01-01 | 2024-11-08 |
