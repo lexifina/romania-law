@@ -14,6 +14,7 @@ Initiator: Membri ai Parlamentului.
 - 2026-05-28: documents published: Raport comisie sesizată pe fond
 - 2026-06-02: rejected by the Senate; documents published: Adresă către Camera Deputaților
 - 2026-10-28: adopted by the Chamber of Deputies; documents published: Forma adoptată de Camera Deputaților
+- 2026-11-02: documents published: Document (day not given by the bill file), Adresă privind sesizarea CCR, Forma trimisă la promulgare
 
 ## Documents
 
@@ -27,3 +28,8 @@ Initiator: Membri ai Parlamentului.
 - 2026-05-28: Raport comisie sesizată pe fond (CR): [cr-5d53a311.md](cr-5d53a311.md); official file https://www.senat.ro/legis/PDF/2026/26L256CR.PDF
 - 2026-06-02: Adresă către Camera Deputaților (AM): [am-3394c312.md](am-3394c312.md); official file https://www.senat.ro/legis/PDF/2026/26L256AM.PDF
 - 2026-10-28: Forma adoptată de Camera Deputaților (FC): [fc-efc028fb.md](fc-efc028fb.md); official file https://www.senat.ro/legis/PDF/2026/26L256FC.PDF
+- 2026-11-02: Document (ANCO): [anco-83644373.md](anco-83644373.md); official file https://www.senat.ro/legis/PDF/2026/26L256ANCO.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-11-02: Document (CF): [cf-a1aee55b.md](cf-a1aee55b.md); official file https://www.senat.ro/legis/PDF/2026/26L256CF.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-11-02: Document (AG1): not held as text; official file https://www.senat.ro/legis/PDF/2026/26L256AG1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-11-02: Adresă privind sesizarea CCR (AXS): [axs-294aa291.md](axs-294aa291.md); official file https://www.senat.ro/legis/PDF/2026/26L256AXS.PDF
+- 2026-11-02: Forma trimisă la promulgare (LP): [lp-afa3b6eb.md](lp-afa3b6eb.md); official file https://www.senat.ro/legis/PDF/2026/26L256LP.PDF
