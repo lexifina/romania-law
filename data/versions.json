@@ -8990,6 +8990,45 @@
    ]
   },
   {
+   "slug": "legea-132-2017",
+   "path": "lege/2017/132",
+   "short": "Legea nr. 132/2017",
+   "title": "Legea nr. 132/2017 privind asigurarea obligatorie de răspundere civilă auto pentru prejudicii produse terților prin accidente de vehicule și tramvaie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/190029",
+   "versions": [
+    {
+     "from": "2017-06-15",
+     "units": 47,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/190029",
+     "sha256": "7083ad297d3052ddde18ef1712fce90b5cc81f716ab6c597738a78bacce5c71d"
+    },
+    {
+     "from": "2022-07-14",
+     "units": 47,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/257068",
+     "sha256": "9696628dcb10196da2beb2f65fdb1ad169b7b43e32569275ff0dbb43cb325d63"
+    },
+    {
+     "from": "2022-07-21",
+     "units": 47,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/257069",
+     "sha256": "84c58bb1ce73c6a9ed16f188addff8f042e4f194411ade9e25fb435fafd19c82"
+    },
+    {
+     "from": "2025-11-16",
+     "units": 47,
+     "source_url": "https://web.archive.org/web/20251212171243id_/https://legislatie.just.ro/Public/DetaliiDocument/303238",
+     "sha256": "0c4595b65c247307e48ab1678842897ef95c1a715900f1d938f6eef5e0004bc9"
+    },
+    {
+     "from": "2025-12-13",
+     "units": 47,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/304493",
+     "sha256": "077a2db5457e971ef50c12497ec56be69793aa33752aed677f8702f03879f4a7"
+    }
+   ]
+  },
+  {
    "slug": "legea-138-2014",
    "path": "lege/2014/138",
    "short": "Legea nr. 138/2014",
@@ -10124,6 +10163,27 @@
    ]
   },
   {
+   "slug": "legea-209-2019",
+   "path": "lege/2019/209",
+   "short": "Legea nr. 209/2019",
+   "title": "Legea nr. 209/2019 privind serviciile de plată și pentru modificarea unor acte normative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/219736",
+   "versions": [
+    {
+     "from": "2019-12-13",
+     "units": 249,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/219736",
+     "sha256": "85fd484e1eef59754281e2b62b7c1739256e1a12c2f85270db5c97c2454b4028"
+    },
+    {
+     "from": "2025-03-20",
+     "units": 249,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/219736",
+     "sha256": "40176f9f38a6c0ebb2f48e04f84b61394461195315b9e2fdd3b19d703631991c"
+    }
+   ]
+  },
+  {
    "slug": "legea-21-1991",
    "path": "lege/1991/21",
    "short": "Legea nr. 21/1991",
@@ -10648,6 +10708,45 @@
      "units": 68,
      "source_url": "https://web.archive.org/web/20260214202120id_/https://legislatie.just.ro/Public/DetaliiDocument/35841",
      "sha256": "c1f1e091ec5b293a4f2d59c2f716258bcf3fb6365c2adb8624234594ccfedd93"
+    }
+   ]
+  },
+  {
+   "slug": "legea-236-2018",
+   "path": "lege/2018/236",
+   "short": "Legea nr. 236/2018",
+   "title": "Legea nr. 236/2018 privind distribuția de asigurări",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/304381",
+   "versions": [
+    {
+     "from": "2018-10-11",
+     "units": 39,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/205851",
+     "sha256": "d01066d023e0a0d0196475c043ea84027802d5dcbcda58f949557acbd340a2b4"
+    },
+    {
+     "from": "2019-04-27",
+     "units": 39,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/213053",
+     "sha256": "b1ce158bf34a7b2640f47f5b1a25f6b14b00da51f0ec50a247cdfff1f8643676"
+    },
+    {
+     "from": "2020-08-28",
+     "units": 39,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/228146",
+     "sha256": "c2c09a70cac083be3e17601dbb3f77d0a1e98dd486cd34d1fa049c3a1d67910b"
+    },
+    {
+     "from": "2022-07-15",
+     "units": 39,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/257093",
+     "sha256": "a73d913658a5ad6e843077fe72070ac04f0d7aaf1aa9267440df1206a715dc29"
+    },
+    {
+     "from": "2025-12-06",
+     "units": 39,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/304381",
+     "sha256": "03a6025c75d7508b571480b6bb5efdd9abca7b947f858b5069cbcdb7659a1de5"
     }
    ]
   },
@@ -14027,6 +14126,45 @@
    ]
   },
   {
+   "slug": "legea-93-2009",
+   "path": "lege/2009/93",
+   "short": "Legea nr. 93/2009",
+   "title": "Legea nr. 93/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/104905",
+   "versions": [
+    {
+     "from": "2009-04-24",
+     "units": 75,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/104905",
+     "sha256": "64a12e2059f048fbdeaa10ffe54d3b6564902a2b4bc5f4afb193831666fe2ed7"
+    },
+    {
+     "from": "2011-05-03",
+     "units": 75,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/136204",
+     "sha256": "24b298ce2b6989c94436c66b4b17846e9aa7e57233af5c379aef8d419f760e2d"
+    },
+    {
+     "from": "2011-12-19",
+     "units": 75,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/136205",
+     "sha256": "b6b80b645ae1e1feeeb3c56214adde2bf2e8bf93a078d86ac5fe78ef2004263b"
+    },
+    {
+     "from": "2014-02-01",
+     "units": 75,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/155267",
+     "sha256": "d1c3459dafc1bac536c922c5d17e32cabfb6a4f0bb47318bb34e96e2d4b9c2a7"
+    },
+    {
+     "from": "2016-09-30",
+     "units": 75,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/104905",
+     "sha256": "5d4a797a962f5349cb94cc241b79b7258dcdf6bf46617a572831c2659beb0d63"
+    }
+   ]
+  },
+  {
    "slug": "legea-95-2006",
    "path": "lege/2006/95",
    "short": "Legea nr. 95/2006",
@@ -15640,6 +15778,45 @@
      "units": 82,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/269119",
      "sha256": "6f867d1720a1a5822ae28538c3185d39c17a2cca33d140c82a01dfef479d60d5"
+    }
+   ]
+  },
+  {
+   "slug": "og-22-2002",
+   "path": "og/2002/22",
+   "short": "OG nr. 22/2002",
+   "title": "Ordonanța Guvernului nr. 22/2002",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/33814",
+   "versions": [
+    {
+     "from": "2002-02-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/33814",
+     "sha256": "f550a872f0334a228fdac17c31cd5bc6f9ee47b25015ab6fabdb1799202fbb18"
+    },
+    {
+     "from": "2002-05-23",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/88941",
+     "sha256": "723452e0b0d111010de58eedcb213aecbae3759fc54529efe3637b6e7e194f50"
+    },
+    {
+     "from": "2007-05-08",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/88942",
+     "sha256": "e024bdbb11c33e2fc11201b452e52224f386245c2c7f229956e0e5982335116a"
+    },
+    {
+     "from": "2011-02-04",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/126632",
+     "sha256": "2071d0ca2c4a4f7dadbc414795476d3970063bb5857418b231712ebf5221d09a"
+    },
+    {
+     "from": "2011-06-11",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/129565",
+     "sha256": "1daf91a295f313f3a42d017c591b5cd41ac8ffe9f6cceb262c24870654064086"
     }
    ]
   },

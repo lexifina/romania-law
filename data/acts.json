@@ -1107,6 +1107,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/280837"
 },
 {
+"slug": "legea-93-2009",
+"path": "lege/2009/93",
+"kind": "lege",
+"year": "2009",
+"number": "93",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 93/2009",
+"short": "Legea nr. 93/2009",
+"code": null,
+"status": "in force",
+"versions": 5,
+"from": "2009-04-24",
+"latest": "2016-09-30",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/104905"
+},
+{
 "slug": "codul-penal",
 "path": "lege/2009/286",
 "kind": "lege",
@@ -1668,6 +1685,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/187788"
 },
 {
+"slug": "legea-132-2017",
+"path": "lege/2017/132",
+"kind": "lege",
+"year": "2017",
+"number": "132",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 132/2017 privind asigurarea obligatorie de răspundere civilă auto pentru prejudicii produse terților prin accidente de vehicule și tramvaie",
+"short": "Legea nr. 132/2017",
+"code": null,
+"status": "in force",
+"versions": 5,
+"from": "2017-06-15",
+"latest": "2025-12-13",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/190029"
+},
+{
 "slug": "legea-153-2017",
 "path": "lege/2017/153",
 "kind": "lege",
@@ -1821,6 +1855,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/203052"
 },
 {
+"slug": "legea-236-2018",
+"path": "lege/2018/236",
+"kind": "lege",
+"year": "2018",
+"number": "236",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 236/2018 privind distribuția de asigurări",
+"short": "Legea nr. 236/2018",
+"code": null,
+"status": "in force",
+"versions": 5,
+"from": "2018-10-11",
+"latest": "2025-12-06",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/304381"
+},
+{
 "slug": "legea-247-2018",
 "path": "lege/2018/247",
 "kind": "lege",
@@ -1972,6 +2023,23 @@
 "from": "2019-10-12",
 "latest": "2021-11-28",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/218772"
+},
+{
+"slug": "legea-209-2019",
+"path": "lege/2019/209",
+"kind": "lege",
+"year": "2019",
+"number": "209",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 209/2019 privind serviciile de plată și pentru modificarea unor acte normative",
+"short": "Legea nr. 209/2019",
+"code": null,
+"status": "amending act",
+"versions": 2,
+"from": "2019-12-13",
+"latest": "2025-03-20",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/219736"
 },
 {
 "slug": "legea-210-2019",
@@ -14382,6 +14450,23 @@
 "from": "2001-08-24",
 "latest": "2026-03-27",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/29779"
+},
+{
+"slug": "og-22-2002",
+"path": "og/2002/22",
+"kind": "og",
+"year": "2002",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța Guvernului nr. 22/2002",
+"short": "OG nr. 22/2002",
+"code": null,
+"status": "in force",
+"versions": 5,
+"from": "2002-02-01",
+"latest": "2011-06-11",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/33814"
 },
 {
 "slug": "og-13-2011",
