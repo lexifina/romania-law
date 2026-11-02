@@ -25,6 +25,21 @@ def register(P):
         'form_note': {'170974': 'The law as republished in Monitorul Oficial nr. 652 of 28 August 2015 under art. VI of '
                                 'Legea nr. 184/2015, with renumbered articles.'},
         'republished': {'170974': 'legea-184-2015'},
+        'repeal_acts': {
+            SLUG: {  # the law's own art. 862, read as published
+                'label': 'Legea nr. 95/2006', 'page': '71139', 'capture': '20260114191857',
+                'cc': {'crawl': 'CC-MAIN-2026-04', 'timestamp': '20260114191857',
+                       'filename': 'crawl-data/CC-MAIN-2026-04/segments/1768220469150.51/warc/'
+                                   'CC-MAIN-20260114184901-20260114214901-00435.warc.gz',
+                       'offset': '279210058', 'length': '443262',
+                       'url': 'https://legislatie.just.ro/Public/DetaliiDocumentAfis/71139'},
+                'in_force': '2007-01-01',
+                'why': 'its art. 862: the provisions it names are repealed on the date of Romania\'s accession to the '
+                       'European Union, 1 January 2007',
+                'read': 'art. 862: "Următoarele prevederi ale prezentului titlu se abrogă la data aderării României la '
+                        'Uniunea Europeană: - art. 700 alin. (2); - art. 730 alin. (3); - art. 733; - art. 735 alin. '
+                        '(2); - art. 787 alin. (1)."; the form of 01.01.2007 leaves art. 733 out.'},
+        },
         'decisions': DECISIONS,
     }
     P.BASE_LAWS.update({

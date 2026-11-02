@@ -48,7 +48,27 @@ def register(P):
                 'cite': 'Art. 7 a fost abrogat de pct. 7 al art. I din LEGEA nr. 280 din 17 octombrie 2007, publicată '
                         'în MONITORUL OFICIAL nr. 729 din 26 octombrie 2007'},
         },
-        'decisions': [],
+        'decisions': [
+            'Legea nr. 129/1992: the base text is missing. The law as first published (Monitorul Oficial nr. 1 of 8 '
+            'January 1993) is not held: the portal lists no form before 6 January 2003, and its base form '
+            '(DetaliiDocumentAfis/42608) is the republication of 2003, not the 1993 text. The record starts at the '
+            'oldest form held, the portal\'s consolidated form of 6 January 2003, credited to the publisher as the '
+            'oldest version available; any change made before that day is already in it. No enacted version is made '
+            'up; the law\'s enactment (29 December 1992) and first publication (8 January 1993) are kept in its '
+            'metadata.',
+            'Legea nr. 129/1992: the republications of 26 March 2003 (art. III of Legea nr. 585/2002), 20 December '
+            '2007 (art. IV of Legea nr. 280/2007), 4 April 2014 (art. 248 of Legea nr. 187/2012) and 9 May 2024 '
+            '(art. VI alin. (2) of Legea nr. 30/2024) are read from their own pages (DetaliiDocumentAfis/42608, '
+            '88088, 157069, 282567); changes on those days that no note explains are credited to the act that '
+            'ordered the republication, as each republication note says; the texts of 2003, 2007 and 2024 carry '
+            'renumbered articles, and files follow each text\'s own numbering. The act page the portal lists '
+            'with the newest form is DetaliiDocument/282567; the form of 7 March 2024 (279214) is read from its own '
+            'page.',
+            'Legea nr. 129/1992: the form of 25 November 2007 leaves out arts. 4, 6 and 7. Legea nr. 280/2007 (art. I '
+            'pct. 5 and 7), read as published (DetaliiDocumentAfis/86411), repeals them and takes effect 30 days '
+            'after its publication of 26 October 2007 (its art. III alin. (1)), on 25 November 2007, the form\'s day. '
+            'The form prints repeal notes for arts. 4 and 6 only; art. 7 is credited to the same act from its text.',
+        ],
         'root_word': 'act page',
     }
     P.BASE_LAWS.setdefault(SLUG, {  # from the heading of the republication of 2003 (DetaliiDocumentAfis/42608)

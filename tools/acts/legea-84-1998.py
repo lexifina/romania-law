@@ -43,7 +43,28 @@ def register(P):
                         '"Articolul 18 se abrogă."; pct. 21: "Articolele 23-25 se abrogă."; pct. 37: "Articolele 46 '
                         'și 47 se abrogă."; pct. 61: "Articolele 86-88 se abrogă."; art. V orders the republication.'},
         },
-        'decisions': [],
+        'decisions': [
+            'Legea nr. 84/1998: the base text is missing. The law as first published (Monitorul Oficial nr. 161 of 23 '
+            'April 1998) is not held: the portal lists no form before 28 December 2005, and its base form '
+            '(DetaliiDocumentAfis/119052) is the republication of 2010, not the 1998 text. The record starts at the '
+            'oldest form held, the portal\'s consolidated form of 28 December 2005, credited to the publisher as the '
+            'oldest version available; any change made before that day is already in it. No enacted version is made '
+            'up; the law\'s enactment (15 April 1998) and first publication (23 April 1998) are kept in its '
+            'metadata.',
+            'Legea nr. 84/1998: the republications of 27 May 2010 (art. V of Legea nr. 66/2010), 8 May 2014 (art. 248 '
+            'of Legea nr. 187/2012) and 18 September 2020 (art. IV of Legea nr. 112/2020), each with renumbered '
+            'articles, are read from their own pages (DetaliiDocumentAfis/119052, 158000, 230312); changes on those '
+            'days that no note explains are credited to the act that ordered the republication, as each republication '
+            'note says; files follow each text\'s own numbering.',
+            'Legea nr. 84/1998: the form of 9 May 2010 leaves out arts. 2, 7, 18, 23-25, 46-47 and 86-88 '
+            'with the portal\'s repeal notes; Legea nr. 66/2010 (art. I pct. 2, 10, 16, 21, 37, 61), read as published '
+            '(DetaliiDocumentAfis/117786), repeals them and takes effect 30 days after its publication of 9 April '
+            '2010 (its art. IV alin. (1)), on 9 May 2010, the form\'s day.',
+            'Legea nr. 84/1998: the form of 9 May 2010 prints 24 articles that differ from the form of 28 December '
+            '2005 only in diacritics and spelling ("Inventii și Marci" for "Invenții și Mărci"); the form of 26 May 2014 '
+            'changes the cited article of the Paris Convention in art. 5 lit. n) without a note. These changes name no '
+            'law and are committed as the publisher\'s, not credited.',
+        ],
         'root_word': 'act page',
     }
     P.BASE_LAWS.setdefault(SLUG, {  # from the heading of the republication of 2010 (DetaliiDocumentAfis/119052)
