@@ -28,6 +28,9 @@ def register(P):
             'Legea nr. 121/2006), with renumbered articles, has no DetaliiDocument capture of its own and is read from '
             'its DetaliiDocumentAfis page (77218); changes on that day that no note explains are credited to the act '
             'that ordered the republication, as the republication note says; files follow each text\'s own numbering.',
+            'Legea nr. 365/2002: the republication of 2006 and the forms up to 2014 print the law\'s mention of the '
+            'directive it transposes (Directiva 2000/31/CE, with a "*" line) as the last lines of art. 32; the later '
+            'forms print it after the articles. It is a note and is left out of the article.',
         ],
         'repeal_acts': {},
     }
@@ -37,6 +40,10 @@ def register(P):
                  'Partea I, nr. 483 din 5 iulie 2002',
         'enacted': '2002-06-07', 'published': '2002-07-05', 'url': P.PORTAL + 'DetaliiDocumentAfis/37075',
     }
+    # the republication of 29.11.2006 and the forms to 2014 print the law's EU-transposition mention (a "*" line and
+    # "Prezenta lege transpune Directiva 2000/31/CE ...") as the last lines of art. 32; the later forms print it after
+    # the articles. It is a note, not the article's text.
+    P.EDITORIAL_LINES[SLUG] = {'art-032': ('*', 'Prezenta lege transpune Directiva 2000/31/CE')}
     P.PHASE11 = P.PHASE11 + (SLUG,)
     P.PHASE6 = P.PHASE6 + (SLUG,)
     P.PHASE2 = P.PHASE2 + (SLUG,)

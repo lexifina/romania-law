@@ -13,6 +13,16 @@ CC = {
                     'filename': 'crawl-data/CC-MAIN-2026-04/segments/1768220469354.41/warc/'
                                 'CC-MAIN-20260117151209-20260117181209-00976.warc.gz',
                     'offset': '309237875', 'length': '11924', 'digest': 'SMNU7WF44TADLPNVDPH4BKBNI77H4ARQ'},
+    'oug-5-2010': {'url': 'https://legislatie.just.ro/Public/DetaliiDocumentAfis/115987',
+                   'timestamp': '20251008110731', 'crawl': 'CC-MAIN-2025-43',
+                   'filename': 'crawl-data/CC-MAIN-2025-43/segments/1759648358322.61/warc/'
+                               'CC-MAIN-20251008085453-20251008115453-00997.warc.gz',
+                   'offset': '359743880', 'length': '23489', 'digest': 'WAV4XQ77SNOAP54NFJHIKO6X5LT2ZY2I'},
+    'oug-87-2007': {'url': 'https://legislatie.just.ro/Public/DetaliiDocumentAfis/85351',
+                    'timestamp': '20260118101022', 'crawl': 'CC-MAIN-2026-04',
+                    'filename': 'crawl-data/CC-MAIN-2026-04/segments/1768220469408.36/warc/'
+                                'CC-MAIN-20260118094130-20260118124130-00096.warc.gz',
+                    'offset': '289463896', 'length': '17581', 'digest': '5CE6INDPTH7PJ764CAH4GJ365EWPMY6I'},
 }
 
 
@@ -22,7 +32,7 @@ def register(P):
         'root_word': 'act page',
         'title': 'Legea cetățeniei române nr. 21/1991',
         'url': P.PORTAL + 'DetaliiDocument/1464',
-        'in_force': '1991-04-05', 'first_law': SLUG,
+        'in_force': '1991-04-05', 'first_law': SLUG, 'hold': True,
         'base_note': 'The law as published in Monitorul Oficial nr. 44 of 6 March 1991, in force 30 days after '
                      'publication (its art. 42): 5 April 1991.',
         'form_note': {
@@ -43,6 +53,26 @@ def register(P):
                 'repeals': {'41161': ('art-035',)},
                 'cite': 'Art. 35 a fost abrogat de pct. 4 al art. I din ORDONANȚA DE URGENȚĂ nr. 68 din 13 iunie '
                         '2002, publicată în MONITORUL OFICIAL nr. 424 din 18 iunie 2002'},
+            'oug-5-2010': {
+                'label': 'OUG nr. 5/2010', 'page': '115987', 'capture': CC['oug-5-2010']['timestamp'],
+                'cc': CC['oug-5-2010'], 'in_force': '2010-02-10',
+                'why': 'an emergency ordinance with no day of its own, in force on publication in Monitorul Oficial '
+                       'nr. 93 of 10 February 2010',
+                'read': 'art. 14 pct. 1: "Articolul 10^2 se abrogă."; the form of 10.02.2010 leaves art. 10^2 out '
+                        'with no note.',
+                'repeals': {'119695': ('art-010-2',)},
+                'cite': 'Art. 10^2 a fost abrogat de pct. 1 al art. 14 din ORDONANȚA DE URGENȚĂ nr. 5 din 5 februarie '
+                        '2010, publicată în MONITORUL OFICIAL nr. 93 din 10 februarie 2010'},
+            'oug-87-2007': {
+                'label': 'OUG nr. 87/2007', 'page': '85351', 'capture': CC['oug-87-2007']['timestamp'],
+                'cc': CC['oug-87-2007'], 'in_force': '2007-09-14',
+                'why': 'an emergency ordinance with no day of its own, in force on publication in Monitorul Oficial '
+                       'nr. 634 of 14 September 2007',
+                'read': 'art. I pct. 5 and 14: "Articolul 15 se abrogă." and "Articolele 32, 33 şi 37^1 se abrogă."; '
+                        'the form of 14.09.2007 prints notes for them.',
+                'repeals': {'85458': ('art-015', 'art-032', 'art-033', 'art-037-1')},
+                'cite': 'Art. 15 a fost abrogat de pct. 5 al art. I din ORDONANŢA DE URGENŢĂ nr. 87 din 5 septembrie '
+                        '2007, publicată în MONITORUL OFICIAL nr. 634 din 14 septembrie 2007'},
         },
         'decisions': [
             'Legea nr. 21/1991: the first version is the law as published in Monitorul Oficial nr. 44 of 6 March '

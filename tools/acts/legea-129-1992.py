@@ -11,7 +11,7 @@ def register(P):
     P.ACTS[SLUG] = {
         **P.P6, 'part': '9z-legea-129-1992', 'short': 'Legea nr. 129/1992', 'pad': 3, 'cc_forms': True,
         'title': 'Legea nr. 129/1992 privind protecția desenelor și modelelor industriale',
-        'url': P.PORTAL + 'DetaliiDocument/279214',
+        'url': P.PORTAL + 'DetaliiDocument/282567',
         'no_base': True, 'in_force': '2003-01-06', 'first_law': None, 'revert_credit': True,
         'earlier_laws': [SLUG],
         'base_note': 'Oldest version available: the portal\'s consolidated form of 6 January 2003. The law was enacted '

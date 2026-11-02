@@ -28,12 +28,12 @@ def register(P):
                  'Monitorul Oficial al României, Partea I, nr. 70 din 3 februarie 2003',
         'enacted': '2003-01-21', 'published': '2003-02-03', 'url': P.PORTAL + 'DetaliiDocumentAfis/41571',
     }
-    P.BASE_LAWS.setdefault('legea-281-2013', {  # republication law
+    P.BASE_LAWS.setdefault('legea-281-2013', {  # read as published (DetaliiDocumentAfis/152367, Common Crawl 20250914081246)
         'label': 'Legea nr. 281/2013', 'kind': 'law',
         'title': 'Legea nr. 281/2013 pentru modificarea și completarea Legii nr. 52/2003 privind transparența '
                  'decizională în administrația publică, publicată în Monitorul Oficial al României, Partea I, nr. 679 '
                  'din 5 noiembrie 2013',
-        'enacted': '2013-10-23', 'published': '2013-11-05', 'url': P.PORTAL + 'DetaliiDocumentAfis/152367',
+        'enacted': '2013-10-31', 'published': '2013-11-05', 'url': P.PORTAL + 'DetaliiDocumentAfis/152367',
     })
     # parsed as the Phase 6 acts (repeal rule, sources and decisions)
     P.PHASE11 = P.PHASE11 + (SLUG,)
