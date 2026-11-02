@@ -21,6 +21,7 @@ Initiator: Membri ai Parlamentului.
 - 2026-05-25: sent for promulgation
 - 2026-07-15: published in the Monitorul Oficial
 - 2026-08-27: returned for re-examination
+- 2026-11-02: adopted by the Senate; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -38,3 +39,11 @@ Initiator: Membri ai Parlamentului.
 - 2026-03-16: Adresă către Camera Deputaților (AM): [am-88fc287e.md](am-88fc287e.md); official file https://www.senat.ro/legis/PDF/2025/25L620AM.PDF
 - 2026-05-18: Adresă privind sesizarea CCR (AXS): [axs-607f9cf7.md](axs-607f9cf7.md); official file https://www.senat.ro/legis/PDF/2025/25L620AXS.PDF
 - 2026-05-18: Forma trimisă la promulgare (LP): [lp-6096898b.md](lp-6096898b.md); official file https://www.senat.ro/legis/PDF/2025/25L620LP.PDF
+- 2026-11-02: Document (SM): [sm-86bcb6c9.md](sm-86bcb6c9.md); official file https://www.senat.ro/legis/PDF/2025/25L620SM.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-11-02: Document (AG1): not held as text; official file https://www.senat.ro/legis/PDF/2025/25L620AG1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-11-02: Document (AG2): [ag2-38ac8086.md](ag2-38ac8086.md); official file https://www.senat.ro/legis/PDF/2025/25L620AG2.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-11-02: Document (SC1): [sc1-71178b67.md](sc1-71178b67.md); official file https://www.senat.ro/legis/PDF/2025/25L620SC1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-11-02: Document (DC1): [dc1-3854fe22.md](dc1-3854fe22.md); official file https://www.senat.ro/legis/PDF/2025/25L620DC1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-11-02: Document (RC1): [rc1-520018ad.md](rc1-520018ad.md); official file https://www.senat.ro/legis/PDF/2025/25L620RC1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-11-02: Document (XD1): [xd1-ce840c76.md](xd1-ce840c76.md); official file https://www.senat.ro/legis/PDF/2025/25L620XD1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-11-02: Document (SX1): [sx1-b96199f1.md](sx1-b96199f1.md); official file https://www.senat.ro/legis/PDF/2025/25L620SX1.PDF (its day is not given by the bill file: shown from the last stage held)
