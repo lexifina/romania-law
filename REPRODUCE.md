@@ -51,6 +51,9 @@ This file is written by the build on 2026-11-02, the day the source data was ret
 | Internet Archive, Wayback Machine | <https://web.archive.org/> | 2026-11-02 | Internet Archive terms of use; the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
 | captures of legislatie.just.ro for the Codul de procedură fiscală | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
 | Internet Archive, Wayback Machine | <https://web.archive.org/> | 2026-11-02 | Internet Archive terms of use; the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
+| captures of legislatie.just.ro for the Codul civil din 1864 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
+| Internet Archive, Wayback Machine | <https://web.archive.org/> | 2026-11-02 | Internet Archive terms of use; the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
+| captures of legislatie.just.ro for the Codul penal din 1969 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
 | captures of legislatie.just.ro for the Legea nr. 1/2005 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
 | Internet Archive, Wayback Machine | <https://web.archive.org/> | 2026-11-02 | Internet Archive terms of use; the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
 | captures of legislatie.just.ro for the Legea nr. 10/1995 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
@@ -1112,21 +1115,21 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 
 | Act | Title | Versions | Span |
 | --- | --- | ---: | --- |
-| 1073 acts | every act, with its kind, number, status and span, is listed in [ACTS.md](ACTS.md) | 4557 | |
+| 1075 acts | every act, with its kind, number, status and span, is listed in [ACTS.md](ACTS.md) | 4587 | |
 
-The build made 5761 commits:
+The build made 5826 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 1106 | first version of an act |
-| 3601 | one law on its in-force day |
-| 1054 | changes no amendment note explains, credited to the publisher |
+| 1108 | first version of an act |
+| 3641 | one law on its in-force day |
+| 1077 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `viitor`: laws not yet in force on 2026-11-02.
-- 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 3078 laws in the record.
-- 7558 tags.
+- 2 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
+- 3099 laws in the record.
+- 7607 tags.
 
 ## Dates
 
@@ -1138,7 +1141,7 @@ When a law gives no date of its own, the default rule applies: Constituția Rom�
 
 `tools/build/build.py` (and, for later publishes, `tools/build/append.py`) turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/build/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/build/SCHEMA.md`.
 
-- Corpus: sha256 `18b31589bbc9db0e5e7f1dc99585c73839961926ace2bb5099c308b7b20d9861` (158233425 bytes).
+- Corpus: sha256 `2cba96af78cdfd829fe2f26869ae0904f95f5d4dc4fcfcdf4fadb3622101df14` (161692701 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `aa1dc171edc70634707bb882ad120cf467739294`, `check.py` `ac7555f3f3746e325d043ce89405d43a617ba3f8`, `on.py` `a4d099e560b4a65735a86646c3ac346ecdb7c77c`.
 - Python 3.14.0; git version 2.52.0.windows.1.
 
@@ -1150,7 +1153,7 @@ No second build of this corpus has been compared yet.
 
 ## Decisions made by hand
 
-- Every act's decisions made by hand (5921 in all) are listed in that act's own README.md, under "Decisions made by hand".
+- Every act's decisions made by hand (5945 in all) are listed in that act's own README.md, under "Decisions made by hand".
 
 ## What AI did and did not do
 
@@ -1196,6 +1199,8 @@ Model use at data-build time:
 - Legea nr. 303/2004: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - Legea nr. 304/2004: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - Codul de procedură fiscală: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
+- Codul civil din 1864: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
+- Codul penal din 1969: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - Legea nr. 1/2005: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - Legea nr. 10/1995: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - Legea nr. 100/2016: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.

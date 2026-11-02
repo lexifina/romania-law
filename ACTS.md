@@ -1,6 +1,6 @@
 # Every act in this repository
 
-1073 acts, 4,557 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+1075 acts, 4,587 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -8,6 +8,7 @@
 | --- | --- | --- | ---: | --- |
 | Codul administrativ | Codul administrativ | [`oug/2019/57/`](oug/2019/57/) | 46 | 2026-03-30 |
 | Codul civil | Codul civil | [`lege/2009/287/`](lege/2009/287/) | 13 | 2026-05-03 |
+| Codul civil din 26 noiembrie 1864 | Codul civil din 1864 | [`cod/1864/civil/`](cod/1864/civil/) | 8 | 2013-02-15 |
 | Codul consumului | Legea nr. 296/2004 | [`lege/2004/296/`](lege/2004/296/) | 4 | 2010-07-22 |
 | Codul de procedură civilă | Codul de procedură civilă | [`lege/2010/134/`](lege/2010/134/) | 28 | 2025-12-14 |
 | Codul de procedură fiscală | Codul de procedură fiscală | [`lege/2015/207/`](lege/2015/207/) | 62 | 2026-02-25 |
@@ -16,6 +17,7 @@
 | Codul fiscal | Codul fiscal | [`lege/2015/227/`](lege/2015/227/) | 149 | 2026-08-08 |
 | Codul muncii | Codul muncii | [`lege/2003/53/`](lege/2003/53/) | 61 | 2025-12-18 |
 | Codul penal | Codul penal | [`lege/2009/286/`](lege/2009/286/) | 45 | 2026-04-26 |
+| Codul penal din 21 iunie 1968 | Codul penal din 1969 | [`lege/1968/15/`](lege/1968/15/) | 22 | 2014-02-01 |
 | Codul silvic | Legea nr. 46/2008 | [`lege/2008/46/`](lege/2008/46/) | 22 | 2024-04-13 |
 | Codul vamal al României | Codul vamal (Legea nr. 86/2006) | [`lege/2006/86/`](lege/2006/86/) | 13 | 2025-12-18 |
 | Constituția României | Constituția | [`constitutie/1991/`](constitutie/1991/) | 2 | 2003-10-29 |
@@ -26,10 +28,11 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (560, of which 353 amending acts)
+## Laws (legi) (561, of which 353 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
+| Codul penal din 21 iunie 1968 (Legea nr. 15/1968) | [`lege/1968/15/`](lege/1968/15/) | repealed 2014-02-01 | 22 | 1969-01-01 | 2014-02-01 |
 | Legea nr. 26/1990 privind registrul comerțului | [`lege/1990/26/`](lege/1990/26/) | repealed 2022-11-26 | 27 | 1990-12-07 | 2022-11-26 |
 | Legea societăților nr. 31/1990 | [`lege/1990/31/`](lege/1990/31/) | in force | 43 | 1990-12-17 | 2025-12-18 |
 | Legea fondului funciar nr. 18/1991 | [`lege/1991/18/`](lege/1991/18/) | in force | 37 | 1991-02-20 | 2025-07-20 |
@@ -1117,3 +1120,9 @@
 | Hotărârea Guvernului nr. 795/2022 privind actualizarea valorii de inventar a unui imobil aflat în domeniul public al statului și administrarea Ministerului Afacerilor Interne - Inspectoratul de Jandarmi Județean Timiș (U.M. 0520 Timișoara) | [`hg/2022/795/`](hg/2022/795/) | in force | 1 | 2022-06-27 | 2022-06-27 |
 | Hotărârea Guvernului nr. 900/2023 pentru stabilirea salariului de bază minim brut pe țară garantat în plată | [`hg/2023/900/`](hg/2023/900/) | in force | 2 | 2023-09-28 | 2023-11-01 |
 | Hotărârea Guvernului nr. 298/2025 privind aprobarea Planului de recrutare a funcționarilor publici și a Planului de promovare în funcții publice de conducere, pentru perioada 2025-2026 | [`hg/2025/298/`](hg/2025/298/) | amending act | 1 | 2025-04-08 | 2025-04-08 |
+
+## Historical codes (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Codul civil din 26 noiembrie 1864 | [`cod/1864/civil/`](cod/1864/civil/) | repealed 2013-02-15 | 8 | 1865-12-01 | 2013-02-15 |

@@ -19,6 +19,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/47355"
 },
 {
+"slug": "codul-penal-1969",
+"path": "lege/1968/15",
+"kind": "lege",
+"year": "1968",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Codul penal din 21 iunie 1968 (Legea nr. 15/1968)",
+"short": "Codul penal din 1969",
+"code": "Codul penal din 21 iunie 1968",
+"status": "repealed 2014-02-01",
+"versions": 22,
+"from": "1969-01-01",
+"latest": "2014-02-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/38070"
+},
+{
 "slug": "legea-26-1990",
 "path": "lege/1990/26",
 "kind": "lege",
@@ -18241,6 +18258,23 @@
 "from": "2025-04-08",
 "latest": "2025-04-08",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/296483"
+},
+{
+"slug": "codul-civil-1864",
+"path": "cod/1864/civil",
+"kind": "cod",
+"year": "1864",
+"number": "civil",
+"withdrawn_by": null,
+"reason": null,
+"title": "Codul civil din 26 noiembrie 1864",
+"short": "Codul civil din 1864",
+"code": "Codul civil din 26 noiembrie 1864",
+"status": "repealed 2013-02-15",
+"versions": 8,
+"from": "1865-12-01",
+"latest": "2013-02-15",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/1"
 }
 ]
 }
