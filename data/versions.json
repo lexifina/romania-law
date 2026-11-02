@@ -10037,6 +10037,27 @@
    ]
   },
   {
+   "slug": "legea-122-2011",
+   "path": "lege/2011/122",
+   "short": "Legea nr. 122/2011",
+   "title": "Legea nr. 122/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/129400",
+   "versions": [
+    {
+     "from": "2011-07-17",
+     "units": 35,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/129400",
+     "sha256": "c58291d55349f0a5e43e81356f98c7c5b027c31fa1d27c33b073f24e47ee5a9d"
+    },
+    {
+     "from": "2021-12-10",
+     "units": 36,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/129400",
+     "sha256": "9221b4b6a2da833935b576d145eb1a701b963b6a73c88107d2f290bb1b463480"
+    }
+   ]
+  },
+  {
    "slug": "legea-123-2012",
    "path": "lege/2012/123",
    "short": "Legea nr. 123/2012",
@@ -15647,6 +15668,27 @@
    ]
   },
   {
+   "slug": "legea-344-2005",
+   "path": "lege/2005/344",
+   "short": "Legea nr. 344/2005",
+   "title": "Legea nr. 344/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/269120",
+   "versions": [
+    {
+     "from": "2006-02-03",
+     "units": 25,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/66425",
+     "sha256": "900f05a52912f2cdf69d17a094aff7c35165b6d429dd2c39afe76bacfdc6c54f"
+    },
+    {
+     "from": "2023-11-11",
+     "units": 25,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/269120",
+     "sha256": "fffc4b4b7e28ae71d114b8c556995be1894523bf9de8d4f18d15fe7daffbbee5"
+    }
+   ]
+  },
+  {
    "slug": "legea-346-2004",
    "path": "lege/2004/346",
    "short": "Legea nr. 346/2004",
@@ -21193,6 +21235,27 @@
      "units": 124,
      "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/209228",
      "sha256": "79dca758b6d257d5d86ac006d797569d9fc0c0756cfd05f44b002b895cfbf34b"
+    }
+   ]
+  },
+  {
+   "slug": "og-29-2014",
+   "path": "og/2014/29",
+   "short": "OG nr. 29/2014",
+   "title": "Ordonanța Guvernului nr. 29/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/280936",
+   "versions": [
+    {
+     "from": "2014-09-29",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/160944",
+     "sha256": "989075749e451cd6acbd060177e0d1583dc7e72f25b6439d5c686b5f2dcd622e"
+    },
+    {
+     "from": "2023-02-03",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/280936",
+     "sha256": "fbcf62a1758136a8a84098472db686295ab5eb46838d0a9eb701e1ef2b6516c6"
     }
    ]
   },
@@ -30931,6 +30994,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/262939",
      "sha256": "f5497b61ce967871c8391ec5021d5cbc788da7c01c9ad648c02b6c85845f8302"
+    }
+   ]
+  },
+  {
+   "slug": "legea-369-2022",
+   "path": "lege/2022/369",
+   "short": "Legea nr. 369/2022",
+   "title": "Legea nr. 369/2022 bugetului asigurărilor sociale de stat pe anul 2023",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/262870",
+   "versions": [
+    {
+     "from": "2022-12-22",
+     "units": 24,
+     "source_url": "https://web.archive.org/web/20250406041047id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/262870",
+     "sha256": "f3a284adaa2fa0129c92fc4786f9e092851bc724e41ea4aaa2349e57b3115f77"
     }
    ]
   },
