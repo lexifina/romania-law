@@ -1,6 +1,6 @@
 # Every act in this repository
 
-1257 acts, 5,105 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+1258 acts, 5,108 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -31,7 +31,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (593, of which 361 amending acts)
+## Laws (legi) (594, of which 362 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -296,6 +296,7 @@
 | Legea nr. 49/2022 privind desființarea Secției pentru investigarea infracțiunilor din justiție, precum și pentru modificarea Legii nr. 135/2010 privind Codul de procedură penală | [`lege/2022/49/`](lege/2022/49/) | amending act | 2 | 2022-03-14 | 2024-07-08 |
 | Legea nr. 64/2022 privind modificarea și completarea Legii nr. 349/2002 pentru prevenirea și combaterea efectelor consumului produselor din tutun, precum și modificarea Legii nr. 61/1991 pentru sancționarea faptelor de încălcare a unor norme de conviețuire socială, a ordinii și liniștii publice | [`lege/2022/64/`](lege/2022/64/) | amending act | 1 | 2022-03-26 | 2022-03-26 |
 | Legea nr. 65/2022 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătății | [`lege/2022/65/`](lege/2022/65/) | amending act | 1 | 2022-03-26 | 2022-03-26 |
+| Legea nr. 69/2022 pentru modificarea și completarea Legii nr. 8/1996 privind dreptul de autor și drepturile conexe | [`lege/2022/69/`](lege/2022/69/) | amending act | 3 | 2022-04-04 | 2022-10-01 |
 | Legea nr. 70/2022 privind reglementarea statutului personalului care, în perioada stării de alertă sau a situațiilor de risc epidemiologic și biologic, determinate de pandemia de COVID-19, a fost încadrat pe perioadă determinată, precum și pentru modificarea și completarea unor acte normative | [`lege/2022/70/`](lege/2022/70/) | amending act | 1 | 2022-04-01 | 2022-04-01 |
 | Legea nr. 72/2022 pentru anularea unor obligații fiscale și pentru modificarea unor acte normative | [`lege/2022/72/`](lege/2022/72/) | amending act | 1 | 2022-04-03 | 2022-04-03 |
 | Legea nr. 73/2022 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 158/2005 privind concediile și indemnizațiile de asigurări sociale de sănătate | [`lege/2022/73/`](lege/2022/73/) | amending act | 1 | 2022-04-03 | 2022-04-03 |

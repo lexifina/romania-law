@@ -4456,6 +4456,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/253114"
 },
 {
+"slug": "legea-69-2022",
+"path": "lege/2022/69",
+"kind": "lege",
+"year": "2022",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 69/2022 pentru modificarea și completarea Legii nr. 8/1996 privind dreptul de autor și drepturile conexe",
+"short": "Legea nr. 69/2022",
+"code": null,
+"status": "amending act",
+"versions": 3,
+"from": "2022-04-04",
+"latest": "2022-10-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/253526"
+},
+{
 "slug": "legea-70-2022",
 "path": "lege/2022/70",
 "kind": "lege",

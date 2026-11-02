@@ -18749,6 +18749,33 @@
    ]
   },
   {
+   "slug": "legea-69-2022",
+   "path": "lege/2022/69",
+   "short": "Legea nr. 69/2022",
+   "title": "Legea nr. 69/2022 pentru modificarea și completarea Legii nr. 8/1996 privind dreptul de autor și drepturile conexe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/253526",
+   "versions": [
+    {
+     "from": "2022-04-04",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/253526",
+     "sha256": "059ae8979e8070380abfe5583cba47acb715ad9d2886a29d81fb3d19bbb50293"
+    },
+    {
+     "from": "2022-05-01",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/253526",
+     "sha256": "059ae8979e8070380abfe5583cba47acb715ad9d2886a29d81fb3d19bbb50293"
+    },
+    {
+     "from": "2022-10-01",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/253526",
+     "sha256": "059ae8979e8070380abfe5583cba47acb715ad9d2886a29d81fb3d19bbb50293"
+    }
+   ]
+  },
+  {
    "slug": "legea-70-2015",
    "path": "lege/2015/70",
    "short": "Legea nr. 70/2015",
