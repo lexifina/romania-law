@@ -37,7 +37,7 @@ def register(P):
         'root_word': 'act page',
         'title': 'Ordonanța de urgență a Guvernului nr. 194/2002 privind regimul străinilor în România',
         'url': P.PORTAL + 'DetaliiDocument/93712',
-        'in_force': '2003-01-26', 'first_law': SLUG, 'hold': True, 'cte_notes': True,
+        'in_force': '2003-01-26', 'first_law': SLUG, 'cte_notes': True,
         # the consolidator's note in art. 31 quotes the wording Legea nr. 157/2011 art. III gives arts. 29-31 and 36
         # from Romania's Schengen accession; the form of 24.12.2015 quotes art. 11's future wording the same way: each
         # quoted article follows the article in force under the same title
@@ -122,6 +122,38 @@ def register(P):
             'each is read from its own DetaliiDocumentAfis page (50236, 93712), changes on those days that no note '
             'explains are credited to the republishing act, as each republication note says, and files follow each '
             'text\'s own numbering.',
+            'OUG nr. 194/2002: the act page (93712) is both the republication of 5 June 2008 and the page of the newest '
+            'form; the republication is read from its DetaliiDocumentAfis text. The newest form the portal lists, of '
+            '27 April 2026 (309238), is held by no archive, so the record ends with the form of 10 July 2025.',
+            'OUG nr. 194/2002: Legea nr. 157/2011 (Monitorul Oficial nr. 533 of 28 July 2011, read as published, '
+            'DetaliiDocumentAfis/130383) amends the ordinance by its art. I from 31 July 2011 and, by its art. III, '
+            'again only "de la data aplicării în totalitate de către România a dispozițiilor acquis-ului Schengen", '
+            'which the portal\'s notes date 31 March 2024. The forms of 2011-2016 print the consolidator\'s quotation '
+            'of art. III in three ways, none of them text then in force: (1) the new wording of arts. 29, 30, 31 and 36 '
+            '(and, in the form of 24 December 2015, of art. 11) as a second article under the same title, which is '
+            'left out; (2) arts. 28^1 and 33^1, which art. III pct. 10 and 23 insert, as articles, which are left out of '
+            'those forms under the rule for text printed before its law (both arrive with their notes on 31 March '
+            '2024); (3) art. III\'s points, line by line, inside the articles they amend ("8. Articolul 27 se modifică '
+            'și va avea următorul cuprins:" and the new wording). A line of (3) is left out when it is word for word a '
+            'line of art. III as published and is not in the article\'s text in the forms of 1 March 2010 and 12 March '
+            '2018, which print no quotation (226 lines in the forms of 31.07.2011-03.09.2016); two quoted lines the '
+            'portal reworded (art. 39 alin. (1) in the form of 26 December 2013, art. 33 alin. (4^1) in quotation marks, '
+            '2015-2016) are left out by name. The form of 26 June 2007 prints the whole ordinance twice; one copy is '
+            'kept.',
+            'OUG nr. 194/2002: arts. 92^1 and 97^1 (Legea nr. 157/2011), left out by the form of 28 November 2014 with '
+            'no note, are taken as repealed on that day by OG nr. 25/2014 (Monitorul Oficial nr. 640 of 30 August '
+            '2014, read as published, DetaliiDocumentAfis/160962), whose art. 41 pct. 71 replaces chapter V in full '
+            'with a text that has no such articles, in force 90 days after publication (its art. 44 alin. (1)): 28 '
+            'November 2014. The new chapter V (arts. 81-106^6), which the form prints with no note of its own, is '
+            'credited to OG nr. 25/2014.',
+            'OUG nr. 194/2002: the form of 8 March 2024 already prints art. 135 lit. a) as reworded by Legea nr. '
+            '28/2024 art. I pct. 38, which its art. II puts in force 30 days after publication (Monitorul Oficial nr. '
+            '176 of 5 March 2024): 4 April 2024, after the next form (22 March 2024) too. In that form the earlier text '
+            'stands; the change is dated 4 April 2024 from the next form\'s note (DetaliiDocumentAfis/279587).',
+            'OUG nr. 194/2002: the forms of 2011-2016 print the sub-section names of chapter III section 3 ("1. '
+            'Prelungirea dreptului de ședere temporară pentru ...") as the last line of the article before, and the '
+            'forms of 2014-2015 print the EU-transposition notes after art. 152; neither is an article\'s text and both '
+            'are left out.',
         ],
     }
     P.BASE_LAWS[SLUG] = {  # read from the act as published (DetaliiDocumentAfis/41005)
@@ -131,7 +163,7 @@ def register(P):
         'enacted': '2002-12-12', 'published': '2002-12-27', 'url': P.PORTAL + 'DetaliiDocumentAfis/41005',
     }
     # printed as text lines: the sub-section names of chapter III section 3 ("1. Prelungirea dreptului de ședere
-    # temporară pentru ..."), at the end of the article before; the EU-transposition note after art. 152; and two lines
+    # temporară pentru ..."), at the end of the article before; and two lines
     # of the consolidator's Legea nr. 157/2011 art. III quotation that the portal reworded (ministry name, "ori"), so
     # not word for word in the act (art. 39 alin. (1), form of 26.12.2013; art. 33 alin. (4^1) in quotation marks,
     # 2015-2016)
@@ -141,11 +173,13 @@ def register(P):
         'art-057': ('3. Prelungirea dreptului de ședere temporară pentru',),
         'art-061': ('4. Prelungirea dreptului de ședere temporară pentru',),
         'art-065': ('5. Prelungirea dreptului de ședere temporară pentru',),
-        'art-152': ('* Prezenta ordonanță de urgență transpune',),
         'art-039': ('(1) Forma, conținutul și elementele de siguranță ale formularului invitației prevăzute de prezenta '
                     'secțiune se stabilesc de către Ministerul Afacerilor Interne, cu avizul',),
         'art-033': ('„(4^1) Decizia de anulare',),
     }
+    # the forms of 2014-2015 print, after art. 152, the EU-transposition notes of the ordinance and of acts that
+    # amended it ("*" / "Prezenta ordonanță de urgență transpune:" / "1. Directiva ..."): not the article's text
+    P.EDITORIAL_TAILS[SLUG] = {'art-152': '*'}
     P.PHASE11 = P.PHASE11 + (SLUG,)
     P.PHASE6 = P.PHASE6 + (SLUG,)
     P.PHASE2 = P.PHASE2 + (SLUG,)

@@ -24,6 +24,7 @@ as a full build does.
 import argparse
 import csv
 import io
+import os
 import subprocess
 import sys
 from pathlib import Path
@@ -46,6 +47,10 @@ def published_state(repo: Path, c: dict) -> dict[str, str]:
     trees: dict = {}
     state = {}
     problems = []
+    # Acts whose part file is unchanged since the last verified publish (listed by the caller) need no re-reading:
+    # main only grows, so their published text can't have moved. Everything else is read back in full.
+    trusted_path = os.environ.get('GITLAW_TRUSTED_ACTS')
+    trusted = set(Path(trusted_path).read_text(encoding='utf-8').split()) if trusted_path and Path(trusted_path).exists() else set()
     try:
         for act in c['acts']:
             r = rows[act['slug']]
@@ -53,6 +58,8 @@ def published_state(repo: Path, c: dict) -> dict[str, str]:
                 continue
             last = max(d for _, d in r)
             state[act['slug']] = last
+            if act['slug'] in trusted:
+                continue
             # Every corpus version on or before `last` must read back from main exactly (else: correction or back-fill).
             for i, v in enumerate(act['versions']):
                 if v['from'] > last:
