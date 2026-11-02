@@ -146,7 +146,8 @@ class Appender:
             raise B.CorpusError('git fast-import failed')
 
 
-def append(folder: Path, repo: Path, docs_date: str, dry_run: bool = False, committer_time: int | None = None) -> dict:
+def append(folder: Path, repo: Path, docs_date: str, dry_run: bool = False, committer_time: int | None = None,
+           refresh_docs: bool = False) -> dict:
     c, raw = B.load(folder)
     errs = B.validate(c)
     if errs:
@@ -171,7 +172,7 @@ def append(folder: Path, repo: Path, docs_date: str, dry_run: bool = False, comm
     clock = B.Clock(co['tz'])
     summary = {'head': head, 'new_acts': sorted(a['slug'] for a in sub['acts'] if a['slug'] not in based),
                'extended_acts': sorted(based), 'commits': len(commits)}
-    if dry_run or not commits:
+    if dry_run or (not commits and not refresh_docs):
         summary['main'] = head
         return summary
     # Committer time: the publish time when given (so the host shows when the law was added), never earlier than the
@@ -216,7 +217,10 @@ def append(folder: Path, repo: Path, docs_date: str, dry_run: bool = False, comm
     n_batch = max(len(prev_log.strip().splitlines()) - 1, 0) + 1
     new_acts = ' '.join(sorted({a['slug'] for a in sub['acts']}))
     docs['data/appends.csv'] = prev_log + f'{n_batch},{head},{start_ct + 1},{len(log) + 1},{new_acts}\n'
-    w.commit(committer, clock.stamp(docs_date), committer,
+    # The documentation commit is ours, made at publish time: its author date is the publish time too (the host shows
+    # the head commit's author date as "updated N minutes ago"). Law commits keep their in-force day as author date.
+    docs_when = f'{w.ct + 1} +0000' if committer_time else clock.stamp(docs_date)
+    w.commit(committer, docs_when, committer,
              f'Documentation, tables, tools and REPRODUCE.md\n\nAppended {len(log)} commits to {head[:12]}; corpus '
              f'sha256 {B.hashlib.sha256(raw).hexdigest()}, data retrieved {docs_date}.\n', docs)
     for name, mark in sorted(tags.items()):
@@ -237,9 +241,10 @@ def main():
     ap.add_argument('--repo', required=True)
     ap.add_argument('--docs-date', required=True)
     ap.add_argument('--dry-run', action='store_true')
+    ap.add_argument('--refresh-docs', action='store_true', help='append a documentation commit even with no new law commit')
     ap.add_argument('--committer-time', type=int, help='epoch seconds to date the appended commits from (the publish time)')
     a = ap.parse_args()
-    print(append(Path(a.folder), Path(a.repo), a.docs_date, a.dry_run, a.committer_time))
+    print(append(Path(a.folder), Path(a.repo), a.docs_date, a.dry_run, a.committer_time, a.refresh_docs))
 
 
 if __name__ == '__main__':

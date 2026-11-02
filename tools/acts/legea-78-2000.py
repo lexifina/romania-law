@@ -39,6 +39,24 @@ def register(P):
             '(DetaliiDocumentAfis/22361), dated 18 May 2000: it sets no in-force day of its own, so it took effect on '
             'publication (Constituția of 1991, art. 78). The portal\'s first form is of 21 April 2003, so the changes '
             'made up to then arrive together that day.',
+            'Legea nr. 78/2000: art. 28 was repealed by art. 34 of OUG nr. 43/2002 "pe data de 1 septembrie 2002" '
+            '(read as published: DetaliiDocumentAfis/35165, Common Crawl 20251114124449). The portal\'s later notes '
+            'date that repeal 11.04.2002, the ordinance\'s publication day; the act as published wins, so the repeal is '
+            'a version of its own on 1 September 2002, between the base text and the first form.',
+            'Legea nr. 78/2000: art. 32 was repealed by Legea nr. 161/2003, book II, title I, art. I pct. 25 (read as '
+            'published: DetaliiDocumentAfis/43323, Common Crawl 20251118020051), in force on publication, 21 April '
+            '2003, the day of the portal\'s first form.',
+            'Legea nr. 78/2000: the form of 1 April 2007 reprints the older undated notes without diacritics ("a fost '
+            'modificata de ..."). A reworded note naming a law already noted on that article is the same note, so the '
+            'typesetting changes that day are not credited to it; only art. 10 (Legea nr. 69/2007) changes in law.',
+            'Legea nr. 78/2000: the changes of 1 February 2014, the day the 2009 Penal Code and Code of Criminal '
+            'Procedure took effect, are credited as the portal\'s notes name them: Legea nr. 187/2012, art. 79 (arts. '
+            '5-11, 13^1, 13^2, 14, 17, 18, 18^1-18^3, 18^5, 19 and 25), and Legea nr. 255/2013, art. 41 (arts. 21, 26, '
+            '26^1, 27, 30, 31).',
+            'Legea nr. 78/2000: the other changes no note explains are the publisher\'s: diacritics and spelling (1 '
+            'April 2007, 13 November 2017, 28 December 2017, 1 August 2019; art. 12\'s misprint "săvâarșite" of 13 '
+            'November 2017, corrected 23 July 2022), and art. 25 alin. (3) and art. 29 alin. (2) printed again as '
+            '"Abrogat." on 28 December 2017.',
         ],
         'repeal_acts': {
             'oug-43-2002': {

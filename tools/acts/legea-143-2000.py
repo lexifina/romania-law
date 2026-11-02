@@ -22,6 +22,19 @@ def register(P):
     P.ACTS[SLUG] = {
         **P.P6, 'part': '9z-legea-143-2000', 'short': 'Legea nr. 143/2000', 'pad': 3,
         'cc_forms': True, 'root_word': 'act page',
+        # forms 01.01.2007 .. 15.02.2010 print "*) NOTA C.T.C.E. SA Piatra Neamt: Potrivit art. II din LEGEA nr. 522
+        # ..." inside arts. 19^1 and 19^2: the consolidator's note, not text
+        'cte_notes': True,
+        # the form of 15.02.2010 reprints older undated notes in new wording ("Lit. h) a art. 1 ...")
+        'reprint_law': True,
+        # Legea nr. 522/2004 art. II: arts. 19^1 and 19^2 take effect with the new Penal Code (1 February 2014); the
+        # portal prints them from its form of 07.03.2005
+        'later_provisions': (
+            {'day': '2014-02-01', 'law': 'legea-522-2004', 'lines': (), 'units': ('art-019-1', 'art-019-2'),
+             'note': 'Arts. 19^1 and 19^2, inserted by Legea nr. 522/2004 (art. I pct. 12), take effect on the day the '
+                     'new Penal Code takes effect (its art. II): 1 February 2014; the portal prints them from its form '
+                     'of 07.03.2005.'},
+        ),
         'title': TITLE,
         'url': P.PORTAL + 'DetaliiDocument/23629',
         'in_force': '2000-08-03', 'first_law': SLUG,
@@ -39,6 +52,28 @@ def register(P):
             'alin. (3) of Legea nr. 255/2013 has no DetaliiDocument capture; it is read from its text as printed '
             '(DetaliiDocumentAfis/156116), credited to Legea nr. 255/2013 as the republication note says. It renumbers '
             'the articles, so numbers it leaves out are not repeals.',
+            'Legea nr. 143/2000: arts. 19^1 and 19^2 were inserted by Legea nr. 522/2004 (art. I pct. 12), whose art. II '
+            '(read as published: DetaliiDocumentAfis/57376, Common Crawl 20260212031050) puts the law in force 3 months '
+            'after publication "cu excepția art. 19^1 și 19^2 din Legea nr. 143/2000, care intră în vigoare la data '
+            'intrării în vigoare a noului Cod penal". The Penal Code of 2004 (Legea nr. 301/2004) never took effect '
+            '(repealed by art. 446 alin. (2) of Legea nr. 286/2009); the Penal Code of 2009 took effect on 1 February '
+            '2014, the day Legea nr. 187/2012 (art. 81 pct. 11 and 12) reworded both articles. The portal prints them '
+            'from its form of 7 March 2005. Under the rule for text printed before its law, both are absent until 1 '
+            'February 2014, when they appear in Legea nr. 522/2004\'s wording, credited to it, and the same day in '
+            'Legea nr. 187/2012\'s. (Art. 19^2 on 15 February 2010 in the list of uncredited changes below is a '
+            'spelling change in the text as printed then, not shown.)',
+            'Legea nr. 143/2000: the text republished on 6 March 2014 and the form of 8 May 2014 print the annex\'s '
+            'tables of substances (from "TABELUL Nr. I") at the end of art. 27, with no annex markup; every other form '
+            'prints them as the annex. Those lines are the annex, not art. 27\'s text, and are left out.',
+            'Legea nr. 143/2000: the form of 15 February 2010 reprints older undated notes in new wording; a reworded '
+            'note naming a law already noted on that article is the same note, so a typesetting change that day is not '
+            'credited to it.',
+            'Legea nr. 143/2000: the changes of 1 February 2014, the day the 2009 Penal Code and Code of Criminal '
+            'Procedure took effect, are credited as the portal\'s notes name them: Legea nr. 187/2012 (art. 81) and '
+            'Legea nr. 255/2013 (art. 43). The other changes no note explains (15 February 2010, 1 February 2014) are '
+            'diacritics and spelling only, the publisher\'s.',
+            'Legea nr. 143/2000: art. 12 was amended by art. 28 of Legea nr. 39/2003, in force 28 February 2003 (its '
+            'art. 33); the change arrives with the portal\'s first form, of 1 March 2003, credited to that law.',
         ],
         'repeal_acts': {
             'oug-121-2006': {
@@ -54,6 +89,9 @@ def register(P):
                  'Monitorul Oficial al României, Partea I, nr. 362 din 3 august 2000',
         'enacted': '2000-07-26', 'published': '2000-08-03', 'url': P.PORTAL + 'DetaliiDocumentAfis/23629',
     }
+    # the republished text (06.03.2014) and the form of 08.05.2014 print the annex's tables of substances at the end of
+    # art. 27, with no annex markup; the other forms print them as the annex
+    P.EDITORIAL_TAILS[SLUG] = {'art-027': 'TABELUL Nr. I'}
     # parsed as the Phase 6 acts (repeal rule, sources and decisions)
     P.PHASE11 = P.PHASE11 + (SLUG,)
     P.PHASE6 = P.PHASE6 + (SLUG,)

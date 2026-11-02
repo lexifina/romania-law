@@ -52,6 +52,12 @@ def register(P):
                      'day, 3 days after its publication (its art. II gives 1 January 2022 only for alin. (2) of both); '
                      'the portal prints them from its form of 01.01.2022.'},
         ),
+        # the notes on the points of OUG nr. 26/2010 that took effect later (its art. VII lit. a), b)) give that day
+        # ("... a fost modificat de pct. 10 ... din 1 aprilie 2010 începând cu data de 30 aprilie 2011, conform ..."):
+        # those changes are dated by it, not by the form that prints them ("la 01-04-2010" or undated)
+        'note_days': r'a fost (?:modificat|modificată|abrogat|abrogată|introdus|introdusă) de pct\. \d+ al art\. I din '
+                     r'ORDONANȚA DE URGENȚĂ nr\. 26 din 31 martie 2010, publicată în MONITORUL OFICIAL nr\. 208 din 1 '
+                     r'aprilie 2010,? începând cu data de (\d{1,2}) (\w+) (\d{4})',
         'title': TITLE,
         'url': P.PORTAL + 'DetaliiDocument/78313',
         'in_force': '2007-01-01', 'first_law': SLUG,
@@ -99,6 +105,38 @@ def register(P):
         'label': 'OUG nr. 99/2006', 'kind': 'decree',
         'title': TITLE + ', publicată în Monitorul Oficial al României, Partea I, nr. 1.027 din 27 decembrie 2006',
         'enacted': '2006-12-06', 'published': '2006-12-27', 'url': P.PORTAL + 'DetaliiDocumentAfis/78313',
+    }
+    # the portal's notes printed as paragraphs of the articles (forms of 2009-2014): a renamed ministry; the
+    # transitional articles of OUG nr. 25/2009, OUG nr. 26/2010 and Legea nr. 270/2009 and 231/2010 ("Conform ...",
+    # "Art. II-IV din ... prevăd:" with the quoted articles); the wording Legea nr. 231/2010 gives art. 159 alin. (2)
+    # from 31.12.2011 and the art. 2 lit. f) of Legea nr. 656/2002 that OUG nr. 26/2010 art. IV rewrites
+    P.EDITORIAL_LINES[SLUG] = {
+        **{k: ('Înlocuirea denumirii acestui minister s-a realizat direct în textul formei actualizate.',)
+           for k in ('art-314', 'art-316', 'art-317')},
+        'art-367': ('Conform alin. (4) al art. III din ORDONANȚA DE URGENȚĂ nr. 25 din 18 martie 2009',),
+        'art-108': ('Conform art. II din LEGEA nr. 270 din 7 iulie 2009',),
+        'art-018': ('Conform literei c) a art. VII din ORDONANȚA DE URGENȚĂ nr. 26 din 31 martie 2010',
+                    'Art. IV din ordonanța de urgență menționată mai sus modifică litera f) a art. 2 din Legea nr. 656/2002',
+                    '"f) prin instituție financiară se înțelege orice entitate, cu sau fără personalitate juridică',
+                    'f) prin instituție financiară se înțelege orice entitate, cu sau fără personalitate juridică'),
+        **{k: ('Conform pct. 13 al art. I din LEGEA nr. 231 din 7 decembrie 2010',) for k in ('art-182-2', 'art-182-3')},
+        'art-159': ('Începând cu data de 31 decembrie 2011, în conformitate cu litera b) a art. III din LEGEA nr. 231',
+                    '”(2) Instituțiile de credit trebuie să adopte politici formale pentru a se conforma',
+                    '"(2) Instituțiile de credit trebuie să adopte politici formale pentru a se conforma'),
+        'art-422': ('Art. II-IV din ORDONANȚA DE URGENȚĂ nr. 25 din 18 martie 2009', '"Art. II', 'Art. III', 'Art. IV',
+                    '(1) Banca Națională a României asigură emiterea reglementărilor necesa',
+                    '(2) Cererile de autorizare și notificările de achiziții propuse, nesolu',
+                    '(1) Banca Națională a României evaluează calitatea persoanelor care asi',
+                    '(2) Pentru motive justificate, Banca Națională a României poate prelungi',
+                    '(3) Persoanele prevăzute la alin. (1) care nu au obținut aprobarea Bănci',
+                    '(4) Pentru cooperativele de credit, evaluarea persoanelor prevăzute la art',
+                    'Persoanele care la data intrării în vigoare a prezentei ordonanțe de urg',
+                    'Art. II și III din ORDONANȚA DE URGENȚĂ nr. 26 din 31 martie 2010', '"ART. II',
+                    'Rezervele existente în sold, reprezentând rezerva generală pentru riscul',
+                    '(1) Cererile de aprobare a transformării unei entități în instituție d',
+                    'a) cererea va fi respinsă dacă Banca Națională a României nu s-a pronu',
+                    'b) cererea va fi evaluată în baza reglementărilor aplicabile în ceea ce',
+                    '(2) Pentru cazurile prevăzute la alin. (1) lit. b) rămân aplicabile regl'),
     }
     # parsed as the Phase 6 acts (repeal rule, sources and decisions)
     P.PHASE11 = P.PHASE11 + (SLUG,)

@@ -9958,6 +9958,32 @@
    ]
   },
   {
+   "slug": "legea-72-2013",
+   "short": "Legea nr. 72/2013",
+   "title": "Legea nr. 72/2013 privind măsurile pentru combaterea întârzierii în executarea obligațiilor de plată a unor sume de bani rezultând din contracte încheiate între profesioniști și între aceștia și autorități contractante",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/146555",
+   "versions": [
+    {
+     "from": "2013-04-05",
+     "units": 24,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/146555",
+     "sha256": "cdb014bef677e19b4163d33c59b381aef0afeb1d161b5d886794d2b8aa9fca2f"
+    },
+    {
+     "from": "2015-12-18",
+     "units": 24,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174101",
+     "sha256": "04e2af1be4aae0e37c0ab1a7560d90697884974a2a1eba4b4ba01fef43f24298"
+    },
+    {
+     "from": "2016-02-01",
+     "units": 24,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/146555",
+     "sha256": "f6db102d34397f3d2ed0aa9baaa66cc60c6e0b9607e4b114f4b0be472f6bb181"
+    }
+   ]
+  },
+  {
    "slug": "legea-76-2012",
    "short": "Legea nr. 76/2012",
    "title": "Legea nr. 76/2012 pentru punerea în aplicare a Legii nr. 134/2010 privind Codul de procedură civilă",
@@ -9998,6 +10024,26 @@
      "units": 86,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/138484",
      "sha256": "23cb0e8d1528f68f8ba75796e8d19a0bf95ae3b45cea88af10008c1aa75a8315"
+    }
+   ]
+  },
+  {
+   "slug": "legea-77-2016",
+   "short": "Legea nr. 77/2016",
+   "title": "Legea nr. 77/2016 privind darea în plată a unor bunuri imobile în vederea stingerii obligațiilor asumate prin credite",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/178032",
+   "versions": [
+    {
+     "from": "2016-05-13",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/178032",
+     "sha256": "73a1e120bbc362a91ab15084bfaaf13a8da4d195d99559898a835cdeda15ce8a"
+    },
+    {
+     "from": "2020-05-16",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/225234",
+     "sha256": "fb6af0f35104f253b7d3f04480909d0e841448b9a798c5300790d9afed6394b8"
     }
    ]
   },
@@ -10392,6 +10438,62 @@
      "units": 48,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/91808",
      "sha256": "37f7b06efda7287f6ed7d31b3d15f063e9dd2e13c73f02e3af3b8fe0a3a43b19"
+    }
+   ]
+  },
+  {
+   "slug": "oug-50-2010",
+   "short": "OUG nr. 50/2010",
+   "title": "Ordonanța de urgență a Guvernului nr. 50/2010 privind contractele de credit pentru consumatori",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/119472",
+   "versions": [
+    {
+     "from": "2010-06-21",
+     "units": 96,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/119472",
+     "sha256": "4c494790d1ea0dab48e997277294c53245eae7c6f9dcf4b0004cce8cf7645001"
+    },
+    {
+     "from": "2011-01-02",
+     "units": 97,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/124969",
+     "sha256": "c038481bc463d5f0394586b330328ab8a6c8fbac7bb75e5d1c3f05f6d7fb7a80"
+    },
+    {
+     "from": "2013-05-03",
+     "units": 97,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/147649",
+     "sha256": "2ba6a1a06e6415c931656656e8031f53e7a19acfc41935e26b460139b1cd0755"
+    },
+    {
+     "from": "2016-09-30",
+     "units": 101,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181854",
+     "sha256": "7944061435441a6ba7aa35aaad8bb6dc30c3616007df75695b8ae3d1f43b5d4d"
+    },
+    {
+     "from": "2019-05-02",
+     "units": 101,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/212089",
+     "sha256": "581e6aa2ee5c09f313ee8888a0ac30b201ffc9587d81fc43841a4bd89bc4d3c4"
+    },
+    {
+     "from": "2021-07-09",
+     "units": 101,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/243565",
+     "sha256": "3c25e346893b49bf86f5ec304b01d821ff325ba97133c28e2a0c95898bcbfc5f"
+    },
+    {
+     "from": "2023-05-26",
+     "units": 101,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/267703",
+     "sha256": "9b585d34c01a61f33e9f4784723736674b509cc5bd1304da514bf614fee216b3"
+    },
+    {
+     "from": "2024-03-17",
+     "units": 103,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119472",
+     "sha256": "144510f20492a1bbbbbb0b9f09a930c4ccc878d9e1d04661040a4e0a7b1ff09d"
     }
    ]
   },

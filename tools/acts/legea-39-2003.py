@@ -28,6 +28,16 @@ def register(P):
             'The portal\'s first form is of 27 July 2006, so the changes made up to then arrive together that day.',
             'Legea nr. 39/2003: no capture of the act page itself (DetaliiDocument/41478) is held; its forms are those '
             'listed by its base text\'s page (DetaliiDocumentAfis/41478), each read from its own page.',
+            'Legea nr. 39/2003: the form of 27 July 2006 prints no amendment note; its changes (arts. 6, 18, 19, 20, 23, '
+            '24) are diacritics and spelling only, the publisher\'s.',
+            'Legea nr. 39/2003: the changes of 1 February 2014, the day the 2009 Penal Code and Code of Criminal '
+            'Procedure took effect, are credited as the portal\'s notes name them: Legea nr. 187/2012, art. 126 (art. 2 '
+            'lit. a) and b); arts. 7-10 and 13 repealed), and Legea nr. 255/2013, art. 60 (arts. 11, 14-19 and 23 '
+            'repealed).',
+            'Legea nr. 39/2003: arts. 27-30 amend other acts. The form of 1 February 2014 prints each article they '
+            'quote as an article nested in the amending one ("Articolul 17" for "Art. 17. -"), without the quotation '
+            'marks; the quoted article is kept as the amending article\'s text, on its own lines. That change of '
+            'layout is the publisher\'s.',
         ],
         'repeal_acts': {},
     }

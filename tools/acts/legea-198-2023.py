@@ -15,7 +15,11 @@ def register(P):
         'base_note': 'The law as published in Monitorul Oficial nr. 613 of 5 July 2023, in force 60 days after '
                      'publication (its art. 248 alin. (1)): 3 September 2023.',
         'form_note': {}, 'republished': {},
+        'form_date': {'274195': '2023-09-03'},
         'decisions': [
+            'Legea nr. 198/2023: the form the portal lists under 4 September 2023 (274195) is read at 3 September '
+            '2023, the day the law took effect: its only new notes date the changes made by OUG nr. 72/2023 (art. 85 '
+            'alin. (1)) "la 03-09-2023". It is a version of its own on that day, after the law as published.',
             'Legea nr. 198/2023: the first version is the law as published in Monitorul Oficial nr. 613 of 5 July '
             '2023 (DetaliiDocumentAfis/271896), in force 60 days after publication (its art. 248 alin. (1)): 3 '
             'September 2023. The portal\'s first form is of 4 September 2023, so the changes made on that day arrive '

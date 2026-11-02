@@ -10,7 +10,7 @@ SLUG = 'legea-254-2013'
 def register(P):
     P.ACTS[SLUG] = {
         **P.P6, 'part': '9z-legea-254-2013', 'short': 'Legea nr. 254/2013', 'pad': 3, 'cc_forms': True,
-        'trailing_notes': True,
+        'trailing_notes': True, 'ccr_cease': True,
         'title': 'Legea nr. 254/2013 privind executarea pedepselor și a măsurilor privative de libertate dispuse de '
                  'organele judiciare în cursul procesului penal',
         'url': P.PORTAL + 'DetaliiDocument/150699',
@@ -28,6 +28,13 @@ def register(P):
             'Legea nr. 254/2013: the portal\'s act page as captured on 9 August 2025 '
             'shows the form of 10 May 2024 as the newest, and the Afis page captured on 21 January 2026 lists no '
             'later form; the record ends there and no repeal is made up.',
+            'Legea nr. 254/2013: Decizia Curții Constituționale nr. 222/2015 (Monitorul Oficial nr. 380 of 2 June '
+            '2015) found art. 69 alin. (1) lit. b) and art. 110 alin. (1) lit. b) unconstitutional; the provisions '
+            'were suspended from 2 June 2015 and ceased to have effect on 18 July 2015, the day the portal\'s '
+            'editorial note gives. The form of 18 July 2015 prints both as "incetat efecte juridice" and the change is '
+            'credited to the decision. That form also prints, in art. 110, the items c)-f) and alin. (2)-(4) that the '
+            'form of 2 June 2015 leaves out; the portal gives them no note, and the change to the article is '
+            'credited to the decision as a whole.',
         ],
         'repeal_acts': {},
     }
