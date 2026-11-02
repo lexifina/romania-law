@@ -5952,6 +5952,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/262870"
 },
 {
+"slug": "legea-370-2022",
+"path": "lege/2022/370",
+"kind": "lege",
+"year": "2022",
+"number": "370",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 370/2022 privind aprobarea Ordonanței Guvernului nr. 16/2022 pentru modificarea și completarea Legii nr. 227/2015 privind Codul fiscal , abrogarea unor acte normative și alte măsuri financiar-fiscale",
+"short": "Legea nr. 370/2022",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2022-12-23",
+"latest": "2022-12-23",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/262918"
+},
+{
 "slug": "legea-375-2022",
 "path": "lege/2022/375",
 "kind": "lege",

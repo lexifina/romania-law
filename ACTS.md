@@ -1,6 +1,6 @@
 # Every act in this repository
 
-1248 acts, 5,024 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+1249 acts, 5,025 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -31,7 +31,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (588, of which 360 amending acts)
+## Laws (legi) (589, of which 361 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -384,6 +384,7 @@
 | Legea nr. 365/2022 privind abilitarea Guvernului de a emite ordonanțe | [`lege/2022/365/`](lege/2022/365/) | in force | 1 | 2022-12-24 | 2022-12-24 |
 | Legea nr. 367/2022 privind dialogul social | [`lege/2022/367/`](lege/2022/367/) | in force | 4 | 2022-12-25 | 2023-12-02 |
 | Legea nr. 369/2022 bugetului asigurărilor sociale de stat pe anul 2023 | [`lege/2022/369/`](lege/2022/369/) | in force | 1 | 2022-12-22 | 2022-12-22 |
+| Legea nr. 370/2022 privind aprobarea Ordonanței Guvernului nr. 16/2022 pentru modificarea și completarea Legii nr. 227/2015 privind Codul fiscal , abrogarea unor acte normative și alte măsuri financiar-fiscale | [`lege/2022/370/`](lege/2022/370/) | amending act | 1 | 2022-12-23 | 2022-12-23 |
 | Legea nr. 375/2022 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 57/2019 privind Codul administrativ | [`lege/2022/375/`](lege/2022/375/) | amending act | 1 | 2022-12-30 | 2022-12-30 |
 | Legea nr. 376/2022 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 28/1999 privind obligația operatorilor economici de a utiliza aparate de marcat electronice fiscale | [`lege/2022/376/`](lege/2022/376/) | amending act | 1 | 2023-01-01 | 2023-01-01 |
 | Legea nr. 378/2022 pentru modificarea și completarea Legii-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice | [`lege/2022/378/`](lege/2022/378/) | amending act | 2 | 2022-12-31 | 2024-03-08 |
