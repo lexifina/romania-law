@@ -1,6 +1,6 @@
 # Every act in this repository
 
-1079 acts, 4,611 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+1080 acts, 4,632 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -29,7 +29,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (563, of which 353 amending acts)
+## Laws (legi) (564, of which 353 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -56,6 +56,7 @@
 | Legea nr. 8/1996 privind dreptul de autor și drepturile conexe | [`lege/1996/8/`](lege/1996/8/) | in force | 21 | 1996-06-24 | 2022-05-01 |
 | Legea concurenței nr. 21/1996 | [`lege/1996/21/`](lege/1996/21/) | in force | 42 | 1997-01-30 | 2025-06-26 |
 | Legea apelor nr. 107/1996 | [`lege/1996/107/`](lege/1996/107/) | in force | 30 | 1996-12-07 | 2024-07-08 |
+| Legea locuinței nr. 114/1996 | [`lege/1996/114/`](lege/1996/114/) | in force | 21 | 1996-10-21 | 2022-07-30 |
 | Legea nr. 115/1996 privind declararea și controlul averii demnitarilor, magistraților, funcționarilor publici și a unor persoane cu funcții de conducere | [`lege/1996/115/`](lege/1996/115/) | in force | 8 | 1996-10-28 | 2010-09-05 |
 | Legea nr. 35/1997 privind organizarea și funcționarea instituției Avocatul Poporului | [`lege/1997/35/`](lege/1997/35/) | in force | 12 | 1997-03-20 | 2018-02-27 |
 | Legea nr. 84/1998 privind mărcile și indicațiile geografice | [`lege/1998/84/`](lege/1998/84/) | in force | 12 | 2005-12-28 | 2024-03-07 |

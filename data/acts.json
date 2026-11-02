@@ -410,6 +410,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/8565"
 },
 {
+"slug": "legea-114-1996",
+"path": "lege/1996/114",
+"kind": "lege",
+"year": "1996",
+"number": "114",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea locuinței nr. 114/1996",
+"short": "Legea nr. 114/1996",
+"code": null,
+"status": "in force",
+"versions": 21,
+"from": "1996-10-21",
+"latest": "2022-07-30",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/8597"
+},
+{
 "slug": "legea-115-1996",
 "path": "lege/1996/115",
 "kind": "lege",
