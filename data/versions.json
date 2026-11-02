@@ -8498,6 +8498,63 @@
    ]
   },
   {
+   "slug": "codul-familiei-1953",
+   "path": "lege/1953/4",
+   "short": "Codul familiei",
+   "title": "Codul familiei din 1953 (Legea nr. 4/1953)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/39247",
+   "versions": [
+    {
+     "from": "1956-04-18",
+     "units": 161,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/39247",
+     "sha256": "4209e97e095803d727b63a76f517e85e86552823020bc011237bd084548d4f05"
+    },
+    {
+     "from": "1974-08-01",
+     "units": 161,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/81",
+     "sha256": "cbff50b9f5b3f8062b5142cc6e379422733137b918d3d2afdbba950c0fca32dc"
+    },
+    {
+     "from": "1999-04-28",
+     "units": 162,
+     "source_url": "https://web.archive.org/web/20250405230032id_/https://legislatie.just.ro/Public/DetaliiDocument/95848",
+     "sha256": "43c4ce23960e6a90e77c7573096674594a4be27e74885e8ab829c31a5d4f321a"
+    },
+    {
+     "from": "2005-01-01",
+     "units": 162,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/68615",
+     "sha256": "fb5a212b5a4f4b7850160b303764a0cd07db6001675ec150d1a58dfe7c53ca2e"
+    },
+    {
+     "from": "2007-11-08",
+     "units": 162,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86721",
+     "sha256": "5e5ddca5b6c1ec158a44e28060855fbc57b1f6cff61bfa81f62ab6e64e740414"
+    },
+    {
+     "from": "2008-07-16",
+     "units": 162,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95808",
+     "sha256": "3841d4341c1dde4a52b4a81bab350aa29b3743b136089041c321e6ff43ec99e1"
+    },
+    {
+     "from": "2010-11-25",
+     "units": 166,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/123082",
+     "sha256": "0b78e23e6afd540f50eff1385baa6b03a0ee421926815ae35c94bad4cf377672"
+    },
+    {
+     "from": "2011-10-01",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/129268",
+     "sha256": "fb6975e112e1a07d061a78fb3b158c6cd67f42da53a9a8da6bf5dd3da758fe93"
+    }
+   ]
+  },
+  {
    "slug": "codul-penal-1969",
    "path": "lege/1968/15",
    "short": "Codul penal din 1969",
@@ -20407,6 +20464,57 @@
      "units": 101,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/288594",
      "sha256": "15e7ff262ddb11e4c84cb74880f6275352964a3b535cf7ed9e4e75b842923772"
+    }
+   ]
+  },
+  {
+   "slug": "og-29-1997",
+   "path": "og/1997/29",
+   "short": "OG nr. 29/1997",
+   "title": "Ordonanța Guvernului nr. 29/1997 privind Codul aerian civil",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/131183",
+   "versions": [
+    {
+     "from": "1998-01-01",
+     "units": 100,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/11154",
+     "sha256": "3118dcd58b9384128b72c09e1f34030fc27e53f063e2ef6059f8256cb901cf5c"
+    },
+    {
+     "from": "2001-01-26",
+     "units": 116,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocumentAfis/26339",
+     "sha256": "3e7de92a646e6ad0003646eb49b21b3e0dfd6325db75f12a4f523dd78b9d1875"
+    },
+    {
+     "from": "2006-07-10",
+     "units": 100,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/131183",
+     "sha256": "b1a8950f794988cb51d6c97d0ca60a17adbe09bc15206e96b04fb841f9adadb3"
+    },
+    {
+     "from": "2011-09-01",
+     "units": 107,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/131183",
+     "sha256": "b1a8950f794988cb51d6c97d0ca60a17adbe09bc15206e96b04fb841f9adadb3"
+    },
+    {
+     "from": "2014-02-01",
+     "units": 123,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/155189",
+     "sha256": "5c77fa7ca44191b45ae428d0210e94973d5154de4aa2bcdbe04b46e5e426a09e"
+    },
+    {
+     "from": "2014-07-11",
+     "units": 124,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/159747",
+     "sha256": "a0f873105ad416088fa950c6382c50eca113f6cfd1cf8419e29f05e6a0c50f0b"
+    },
+    {
+     "from": "2019-01-07",
+     "units": 124,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/209228",
+     "sha256": "79dca758b6d257d5d86ac006d797569d9fc0c0756cfd05f44b002b895cfbf34b"
     }
    ]
   },

@@ -19,6 +19,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/47355"
 },
 {
+"slug": "codul-familiei-1953",
+"path": "lege/1953/4",
+"kind": "lege",
+"year": "1953",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Codul familiei din 1953 (Legea nr. 4/1953)",
+"short": "Codul familiei",
+"code": "Codul familiei din 1953",
+"status": "repealed 2011-10-01",
+"versions": 8,
+"from": "1956-04-18",
+"latest": "2011-10-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/39247"
+},
+{
 "slug": "codul-penal-1969",
 "path": "lege/1968/15",
 "kind": "lege",
@@ -15062,6 +15079,23 @@
 "from": "1992-08-28",
 "latest": "2023-11-11",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/2175"
+},
+{
+"slug": "og-29-1997",
+"path": "og/1997/29",
+"kind": "og",
+"year": "1997",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța Guvernului nr. 29/1997 privind Codul aerian civil",
+"short": "OG nr. 29/1997",
+"code": null,
+"status": "in force",
+"versions": 7,
+"from": "1998-01-01",
+"latest": "2019-01-07",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/131183"
 },
 {
 "slug": "og-43-1997",

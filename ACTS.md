@@ -1,6 +1,6 @@
 # Every act in this repository
 
-1075 acts, 4,587 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+1077 acts, 4,602 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -13,6 +13,7 @@
 | Codul de procedură civilă | Codul de procedură civilă | [`lege/2010/134/`](lege/2010/134/) | 28 | 2025-12-14 |
 | Codul de procedură fiscală | Codul de procedură fiscală | [`lege/2015/207/`](lege/2015/207/) | 62 | 2026-02-25 |
 | Codul de procedură penală | Codul de procedură penală | [`lege/2010/135/`](lege/2010/135/) | 61 | 2026-06-13 |
+| Codul familiei din 1953 | Codul familiei | [`lege/1953/4/`](lege/1953/4/) | 8 | 2011-10-01 |
 | Codul fiscal | Codul fiscal 2003 | [`lege/2003/571/`](lege/2003/571/) | 61 | 2015-11-04 |
 | Codul fiscal | Codul fiscal | [`lege/2015/227/`](lege/2015/227/) | 149 | 2026-08-08 |
 | Codul muncii | Codul muncii | [`lege/2003/53/`](lege/2003/53/) | 61 | 2025-12-18 |
@@ -28,10 +29,11 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (561, of which 353 amending acts)
+## Laws (legi) (562, of which 353 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
+| Codul familiei din 1953 (Legea nr. 4/1953) | [`lege/1953/4/`](lege/1953/4/) | repealed 2011-10-01 | 8 | 1956-04-18 | 2011-10-01 |
 | Codul penal din 21 iunie 1968 (Legea nr. 15/1968) | [`lege/1968/15/`](lege/1968/15/) | repealed 2014-02-01 | 22 | 1969-01-01 | 2014-02-01 |
 | Legea nr. 26/1990 privind registrul comerțului | [`lege/1990/26/`](lege/1990/26/) | repealed 2022-11-26 | 27 | 1990-12-07 | 2022-11-26 |
 | Legea societăților nr. 31/1990 | [`lege/1990/31/`](lege/1990/31/) | in force | 43 | 1990-12-17 | 2025-12-18 |
@@ -922,11 +924,12 @@
 | Ordonanța de urgență a Guvernului nr. 78/2025 pentru modificarea Legii nr. 239/2025 privind stabilirea unor măsuri de redresare și eficientizare a resurselor publice și pentru modificarea și completarea unor acte normative | [`oug/2025/78/`](oug/2025/78/) | amending act | 1 | 2025-12-17 | 2025-12-17 |
 | Ordonanța de urgență a Guvernului nr. 87/2025 pentru stabilirea unor măsuri bugetare privind implementarea programelor naționale din domeniul lucrărilor publice | [`oug/2025/87/`](oug/2025/87/) | in force | 1 | 2025-12-24 | 2025-12-24 |
 
-## Ordinances (OG) (62, of which 46 amending acts)
+## Ordinances (OG) (63, of which 46 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
 | Ordonanța Guvernului nr. 21/1992 privind protecția consumatorilor | [`og/1992/21/`](og/1992/21/) | in force | 11 | 1992-08-28 | 2023-11-11 |
+| Ordonanța Guvernului nr. 29/1997 privind Codul aerian civil | [`og/1997/29/`](og/1997/29/) | in force | 7 | 1998-01-01 | 2019-01-07 |
 | Ordonanța Guvernului nr. 43/1997 privind regimul drumurilor | [`og/1997/43/`](og/1997/43/) | in force | 37 | 1998-01-01 | 2025-08-25 |
 | Ordonanța Guvernului nr. 26/2000 cu privire la asociații și fundații | [`og/2000/26/`](og/2000/26/) | in force | 15 | 2000-04-30 | 2024-10-08 |
 | Ordonanța Guvernului nr. 137/2000 privind prevenirea și sancționarea tuturor formelor de discriminare | [`og/2000/137/`](og/2000/137/) | in force | 22 | 2000-11-01 | 2022-07-02 |
