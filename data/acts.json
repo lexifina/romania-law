@@ -1838,6 +1838,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/63590"
 },
 {
+"slug": "legea-248-2005",
+"path": "lege/2005/248",
+"kind": "lege",
+"year": "2005",
+"number": "248",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 248/2005",
+"short": "Legea nr. 248/2005",
+"code": null,
+"status": "in force",
+"versions": 31,
+"from": "2006-01-29",
+"latest": "2025-03-15",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/63704"
+},
+{
 "slug": "legea-339-2005",
 "path": "lege/2005/339",
 "kind": "lege",
@@ -17901,6 +17918,23 @@
 "from": "2024-07-29",
 "latest": "2024-07-29",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/286301"
+},
+{
+"slug": "oug-100-2024",
+"path": "oug/2024/100",
+"kind": "oug",
+"year": "2024",
+"number": "100",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 100/2024 privind modificarea și completarea Legii cetățeniei române nr. 21/1991 , precum și pentru modificarea și completarea altor acte normative",
+"short": "OUG nr. 100/2024",
+"code": null,
+"status": "amending act",
+"versions": 3,
+"from": "2024-07-29",
+"latest": "2026-06-30",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/286306"
 },
 {
 "slug": "oug-101-2024",

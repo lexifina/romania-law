@@ -1,6 +1,6 @@
 # Every act in this repository
 
-1445 acts, 6,635 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+1447 acts, 6,669 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -30,7 +30,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (664, of which 376 amending acts)
+## Laws (legi) (665, of which 376 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -141,6 +141,7 @@
 | Legea nr. 1/2005 privind organizarea și funcționarea cooperației | [`lege/2005/1/`](lege/2005/1/) | in force | 7 | 2005-03-03 | 2018-07-15 |
 | Legea nr. 109/2005 | [`lege/2005/109/`](lege/2005/109/) | in force | 6 | 2005-05-15 | 2009-06-05 |
 | Legea nr. 241/2005 pentru prevenirea și combaterea evaziunii fiscale | [`lege/2005/241/`](lege/2005/241/) | in force | 9 | 2005-08-26 | 2024-05-16 |
+| Legea nr. 248/2005 | [`lege/2005/248/`](lege/2005/248/) | in force | 31 | 2006-01-29 | 2025-03-15 |
 | Legea nr. 339/2005 | [`lege/2005/339/`](lege/2005/339/) | in force | 9 | 2005-12-05 | 2024-09-29 |
 | Legea nr. 344/2005 | [`lege/2005/344/`](lege/2005/344/) | in force | 2 | 2006-02-03 | 2023-11-11 |
 | Legea nr. 372/2005 | [`lege/2005/372/`](lege/2005/372/) | in force | 14 | 2007-01-01 | 2024-07-25 |
@@ -699,7 +700,7 @@
 | Legea nr. 241/2025 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 31/2002 privind interzicerea organizațiilor, simbolurilor și faptelor cu caracter fascist, legionar, rasist sau xenofob și a promovării cultului persoanelor vinovate de săvârșirea unor infracțiuni de genocid contra umanității și de crime de război, precum și pentru modificarea Legii nr. 157/2018 privind unele măsuri pentru prevenirea și combaterea antisemitismului | [`lege/2025/241/`](lege/2025/241/) | amending act | 1 | 2025-12-27 | 2025-12-27 |
 | Legea nr. 245/2025 pentru modificarea art. 32 alin. (7) din Legea nr. 273/2006 privind finanțele publice locale | [`lege/2025/245/`](lege/2025/245/) | amending act | 1 | 2026-01-01 | 2026-01-01 |
 
-## Emergency ordinances (OUG) (438, of which 293 amending acts)
+## Emergency ordinances (OUG) (439, of which 294 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -1091,6 +1092,7 @@
 | Ordonanța de urgență a Guvernului nr. 96/2024 privind acordarea de sprijin și asistență umanitară de către statul român cetățenilor străini sau apatrizilor aflați în situații deosebite, proveniți din zona conflictului armat din Ucraina | [`oug/2024/96/`](oug/2024/96/) | in force | 4 | 2024-06-29 | 2025-03-20 |
 | Ordonanța de urgență a Guvernului nr. 97/2024 pentru stabilirea unor măsuri în domeniul siguranței rutiere | [`oug/2024/97/`](oug/2024/97/) | in force | 1 | 2024-07-15 | 2024-07-15 |
 | Ordonanța de urgență a Guvernului nr. 98/2024 privind unele măsuri pentru organizarea și desfășurarea alegerilor pentru Președintele României din anul 2024 și a alegerilor pentru Senat și Camera Deputaților din anul 2024 | [`oug/2024/98/`](oug/2024/98/) | in force | 1 | 2024-07-29 | 2024-07-29 |
+| Ordonanța de urgență a Guvernului nr. 100/2024 privind modificarea și completarea Legii cetățeniei române nr. 21/1991 , precum și pentru modificarea și completarea altor acte normative | [`oug/2024/100/`](oug/2024/100/) | amending act | 3 | 2024-07-29 | 2026-06-30 |
 | Ordonanța de urgență a Guvernului nr. 101/2024 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 64/2007 privind datoria publică | [`oug/2024/101/`](oug/2024/101/) | amending act | 1 | 2024-08-23 | 2024-08-23 |
 | Ordonanța de urgență a Guvernului nr. 107/2024 pentru reglementarea unor măsuri fiscal-bugetare în domeniul gestionării creanțelor bugetare și a deficitului bugetar pentru bugetul general consolidat al României în anul 2024, precum și pentru modificarea și completarea unor acte normative | [`oug/2024/107/`](oug/2024/107/) | amending act | 12 | 2024-09-06 | 2025-04-04 |
 | Ordonanța de urgență a Guvernului nr. 108/2024 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 109/2011 privind guvernanța corporativă a întreprinderilor publice | [`oug/2024/108/`](oug/2024/108/) | amending act | 1 | 2024-09-09 | 2024-09-09 |
