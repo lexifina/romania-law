@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2026-05-26: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2026-05-28: sent for promulgation
 - 2026-06-16: returned for re-examination
+- 2026-11-02: returned for re-examination; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -35,3 +36,8 @@ Initiator: Guvernul României.
 - 2024-09-23: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L377AM.PDF
 - 2026-05-26: Adresă privind sesizarea CCR (AXS): [axs-6790a4e3.md](axs-6790a4e3.md); official file https://www.senat.ro/legis/PDF/2024/24L377AXS.PDF
 - 2026-05-26: Forma trimisă la promulgare (LP): [lp-784e8155.md](lp-784e8155.md); official file https://www.senat.ro/legis/PDF/2024/24L377LP.PDF
+- 2026-11-02: Document (RX1): [rx1-e0b344c3.md](rx1-e0b344c3.md); official file https://www.senat.ro/legis/PDF/2024/24L377RX1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-11-02: Document (XA1): [xa1-88ceef40.md](xa1-88ceef40.md); official file https://www.senat.ro/legis/PDF/2024/24L377XA1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-11-02: Document (CX): [cx-be6fc644.md](cx-be6fc644.md); official file https://www.senat.ro/legis/PDF/2024/24L377CX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-11-02: Document (XD1): [xd1-87242006.md](xd1-87242006.md); official file https://www.senat.ro/legis/PDF/2024/24L377XD1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-11-02: Document (SX1): [sx1-7a040ca5.md](sx1-7a040ca5.md); official file https://www.senat.ro/legis/PDF/2024/24L377SX1.PDF (its day is not given by the bill file: shown from the last stage held)
