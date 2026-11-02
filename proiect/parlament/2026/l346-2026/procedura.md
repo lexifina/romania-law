@@ -13,6 +13,7 @@ Initiator: Membri ai Parlamentului.
 - 2026-06-02: registered at the Senate
 - 2026-06-24: registered at the Chamber of Deputies
 - 2026-10-28: rejected by the Chamber of Deputies
+- 2026-11-02: documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -22,3 +23,6 @@ Initiator: Membri ai Parlamentului.
 - 2026-04-20: Aviz Consiliul Economic și Social (ES): [es-655ddd83.md](es-655ddd83.md); official file https://www.senat.ro/legis/PDF/2026/26L346ES.PDF
 - 2026-04-20: Aviz Consiliul Legislativ (LG): [lg-6aae2a0b.md](lg-6aae2a0b.md); official file https://www.senat.ro/legis/PDF/2026/26L346LG.PDF
 - 2026-04-20: Punct de vedere Guvern (SJ): [sj-b7e5b95e.md](sj-b7e5b95e.md); official file https://www.senat.ro/legis/PDF/2026/26L346SJ.PDF
+- 2026-11-02: Document (CF): [cf-5ed26a56.md](cf-5ed26a56.md); official file https://www.senat.ro/legis/PDF/2026/26L346CF.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-11-02: Document (AJ): not held as text; official file https://www.senat.ro/legis/PDF/2026/26L346AJ.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-11-02: Document (SE1): [se1-013d1917.md](se1-013d1917.md); official file https://www.senat.ro/legis/PDF/2026/26L346SE1.PDF (its day is not given by the bill file: shown from the last stage held)
