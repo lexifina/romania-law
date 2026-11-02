@@ -29,6 +29,14 @@ def register(P):
             'its Roman title and filed by its value (art-001 for Articolul I), so the files sort in order. The '
             'articles of other acts it quotes stay in the text of the article that quotes them.',
         ],
+        # art. III alin. (4): art. II pct. 4 and pct. 11 (with the text each one quotes) in force on 1 January 2007
+        'later_provisions': (
+            {'day': '2007-01-01', 'law': SLUG, 'lines': (), 'keys': ('art-002',),
+             'spans': (('4. La articolul 4, după alineatul (3)', '5. La articolul 10'),
+                       ('11. La articolul 51 se introduc', None)),
+             'note': 'Art. II pct. 4 and 11, which add alin. (4) and (5) to art. 4 and alin. (2)-(4) to art. 51 of '
+                     'Legea nr. 26/1990, take effect on this day (art. III alin. (4)).'},
+        ),
         'repeal_acts': {},
     }
     P.BASE_LAWS[SLUG] = {

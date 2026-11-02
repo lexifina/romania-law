@@ -26,6 +26,8 @@ TITLE = 'Legea nr. 144/2007 privind înființarea, organizarea și funcționarea
 def register(P):
     P.ACTS[SLUG] = {
         **P.P6, 'part': '9z-legea-144-2007', 'short': 'Legea nr. 144/2007', 'pad': 3, 'cc_forms': True,
+        # art. 64 rewrites articles of Legea nr. 115/1996 and the 2013 forms quote them (S_ART inside S_ART)
+        'quoted_articles': True,
         'title': TITLE,
         'url': P.PORTAL + 'DetaliiDocument/263394',
         'in_force': '2007-05-28', 'first_law': SLUG,

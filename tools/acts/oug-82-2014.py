@@ -11,7 +11,7 @@ def register(P):
     P.ACTS[SLUG] = {
         **P.P6, 'part': '9z-oug-82-2014', 'short': 'OUG nr. 82/2014', 'pad': 3, 'cc_forms': True,
         'hg_notes': True, 'trailing_notes': True, 'sign_tail': True, 'quoted_articles': True, 'titles': False,
-        'roman_articles': True, 'quoted_roman': True, 'quoted_lines': True, 'point_tail': True,
+        'roman_articles': True, 'quoted_roman': True, 'quoted_lines': True, 'point_tail': True, 'quoted_heads': True,
         'root_word': 'act page',
         'title': 'Ordonanța de urgență a Guvernului nr. 82/2014 pentru modificarea și completarea Legii nr. 135/2010 '
                  'privind Codul de procedură penală',

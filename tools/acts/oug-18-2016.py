@@ -11,7 +11,7 @@ def register(P):
     P.ACTS[SLUG] = {
         **P.P6, 'part': '9z-oug-18-2016', 'short': 'OUG nr. 18/2016', 'pad': 3, 'cc_forms': True,
         'hg_notes': True, 'trailing_notes': True, 'sign_tail': True, 'quoted_articles': True, 'titles': False,
-        'roman_articles': True, 'quoted_roman': True, 'quoted_lines': True, 'point_tail': True,
+        'roman_articles': True, 'quoted_roman': True, 'quoted_lines': True, 'point_tail': True, 'quoted_heads': True,
         'root_word': 'act page',
         'title': 'Ordonanța de urgență a Guvernului nr. 18/2016 pentru modificarea și completarea Legii nr. 286/2009 '
                  'privind Codul penal, Legii nr. 135/2010 privind Codul de procedură penală, precum și pentru '

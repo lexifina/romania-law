@@ -10,7 +10,7 @@ def register(P):
     P.ACTS[SLUG] = {
         **P.P6, 'part': '9z-oug-109-2009', 'short': 'OUG nr. 109/2009', 'pad': 3, 'cc_forms': True,
         'hg_notes': True, 'trailing_notes': True, 'sign_tail': True, 'quoted_articles': True, 'titles': False,
-        'roman_articles': True, 'quoted_roman': True, 'quoted_lines': True, 'point_tail': True,
+        'roman_articles': True, 'quoted_roman': True, 'quoted_lines': True, 'point_tail': True, 'quoted_heads': True,
         'root_word': 'act page',
         'title': 'Ordonanța de urgență a Guvernului nr. 109/2009 pentru modificarea și completarea Legii nr. '
                  '571/2003 privind Codul fiscal',
