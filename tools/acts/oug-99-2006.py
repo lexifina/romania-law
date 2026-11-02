@@ -58,6 +58,10 @@ def register(P):
         'note_days': r'a fost (?:modificat|modificată|abrogat|abrogată|introdus|introdusă) de pct\. \d+ al art\. I din '
                      r'ORDONANȚA DE URGENȚĂ nr\. 26 din 31 martie 2010, publicată în MONITORUL OFICIAL nr\. 208 din 1 '
                      r'aprilie 2010,? începând cu data de (\d{1,2}) (\w+) (\d{4})',
+        # arts. 321-332 (title IV of part II): repealed by OUG nr. 26/2010 art. I pct. 38 from 30.04.2011; the form of
+        # 01.09.2011 prints them as one range "Abrogate." whose note (on the title, not the articles) names that point
+        'editorial_days': {'131439': {f'art-{n}': '2011-04-30' for n in range(321, 333)}},
+        'form_credits': {'131439': {f'art-{n}': 'oug-26-2010' for n in range(321, 333)}},
         'title': TITLE,
         'url': P.PORTAL + 'DetaliiDocument/78313',
         'in_force': '2007-01-01', 'first_law': SLUG,
@@ -91,7 +95,7 @@ def register(P):
             '126^3, 126^4 alin. (2), 126^6 and 126^8 alin. (2); the rest took effect 3 days after publication, 2 '
             'January 2022. So arts. 126^5 and 126^7 (whose notes in that form give 2 January 2022) are left out of '
             'that form, and alin. (1) of arts. 126^4 and 126^8 is added on 2 January 2022 (DetaliiDocumentAfis/250050, '
-            'read as published).',
+            'read as published, Common Crawl capture 20250807184854).',
             'OUG nr. 99/2006: the portal\'s notes printed as paragraphs of an article are not text: the note on a '
             'renamed ministry (arts. 314, 316, 317, forms of 2009-2014); the notes on the transitional articles of OUG '
             'nr. 25/2009, OUG nr. 26/2010, Legea nr. 270/2009 and Legea nr. 231/2010 ("Conform ..."), with the '
@@ -100,6 +104,10 @@ def register(P):
             'quoted in the forms of 13 December 2010 to 19 December 2011; and art. 2 lit. f) of Legea nr. 656/2002 as '
             'OUG nr. 26/2010 art. IV rewrote it, quoted in art. 18 (forms of 2010-2014). The EU-transposition mention '
             'after art. 422, which amending laws change, is kept as the forms print it.',
+            'OUG nr. 99/2006: arts. 321-332 (title IV of part II, electronic money institutions) were repealed by OUG '
+            'nr. 26/2010 art. I pct. 38 ("Titlul IV ... din partea a II-a ..., cuprinzând articolele 321-332, se abrogă.") from 30 April 2011 (its art. VII lit. '
+            'b)). The form of 1 September 2011 prints them as one range, "Abrogate.", with the portal\'s note on the '
+            'title naming that point and day; the repeal is dated 30 April 2011 and credited to OUG nr. 26/2010.',
             'OUG nr. 99/2006: some forms print article titles with a lowercase "l" for the digit 1 ("Articolul l58", '
             '"l64", "l79"); they are read as arts. 158, 164 and 179. The form of 1 February 2014 prints arts. 240^33-'
             '240^37 inside art. 240^32; each is read as its own article.',

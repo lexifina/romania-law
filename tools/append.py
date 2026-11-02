@@ -106,10 +106,13 @@ def published_log(repo: Path) -> list[dict]:
 class Appender:
     """`git fast-import` onto an existing main; separate author and committer dates."""
 
-    def __init__(self, repo: Path, head: str, head_ct: int, head_tz: str):
+    def __init__(self, repo: Path, head: str, head_ct: int, head_tz: str, cap: int | None = None):
         self.p = subprocess.Popen(['git', 'fast-import', '--quiet', '--done', '--date-format=raw'], cwd=repo,
                                   stdin=subprocess.PIPE)
         self.mark, self.parent, self.ct, self.tz = 0, head, head_ct, head_tz
+        # Never date a commit after `cap` (the publish time): once the batch reaches it, commits share that second
+        # (git and check_repo allow equal times; only a time going backwards or into the future is an error).
+        self.cap = cap
 
     def _w(self, b: bytes):
         self.p.stdin.write(b)
@@ -121,7 +124,7 @@ class Appender:
     def commit(self, author: tuple[str, str], when: str, committer: tuple[str, str], message: str,
                files: dict[str, str | None]) -> int:
         self.mark += 1
-        self.ct += 1
+        self.ct = self.ct + 1 if self.cap is None else max(self.ct, min(self.ct + 1, self.cap))
         self._w(f'commit refs/heads/main\nmark :{self.mark}\n'.encode())
         self._w(f'author {author[0]} <{author[1]}> {when}\n'.encode('utf-8'))
         self._w(f'committer {committer[0]} <{committer[1]}> {self.ct} {self.tz}\n'.encode('utf-8'))
@@ -180,7 +183,7 @@ def append(folder: Path, repo: Path, docs_date: str, dry_run: bool = False, comm
     # a rebuild replays the same times and the same hashes.
     # The batch ends at the publish time, not after it: check_repo rejects commits dated in the future.
     start_ct = max(head_ct, (committer_time - len(commits) - 2) if committer_time else 0)
-    w = Appender(repo, head, start_ct, '+0000' if committer_time else head_tz)
+    w = Appender(repo, head, start_ct, '+0000' if committer_time else head_tz, cap=committer_time)
     tags: dict[str, int] = {}
     log = []
     for x in commits:
@@ -216,10 +219,10 @@ def append(folder: Path, repo: Path, docs_date: str, dry_run: bool = False, comm
                               text=True, encoding='utf-8').stdout or 'batch,base,committer_start,commits,acts\n'
     n_batch = max(len(prev_log.strip().splitlines()) - 1, 0) + 1
     new_acts = ' '.join(sorted({a['slug'] for a in sub['acts']}))
-    docs['data/appends.csv'] = prev_log + f'{n_batch},{head},{start_ct + 1},{len(log) + 1},{new_acts}\n'
+    docs['data/appends.csv'] = prev_log + f'{n_batch},{head},{start_ct + 1}{f'..{committer_time}' if committer_time else ''},{len(log) + 1},{new_acts}\n'
     # The documentation commit is ours, made at publish time: its author date is the publish time too (the host shows
     # the head commit's author date as "updated N minutes ago"). Law commits keep their in-force day as author date.
-    docs_when = f'{w.ct + 1} +0000' if committer_time else clock.stamp(docs_date)
+    docs_when = f'{max(w.ct, min(w.ct + 1, committer_time))} +0000' if committer_time else clock.stamp(docs_date)
     w.commit(committer, docs_when, committer,
              f'Documentation, tables, tools and REPRODUCE.md\n\nAppended {len(log)} commits to {head[:12]}; corpus '
              f'sha256 {B.hashlib.sha256(raw).hexdigest()}, data retrieved {docs_date}.\n', docs)

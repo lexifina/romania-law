@@ -16,7 +16,12 @@ def register(P):
                      'publication (its art. 260 alin. (1)): 3 September 2023.',
         'form_note': {}, 'republished': {},
         'form_date': {'274194': '2023-09-03'},
+        'root_word': 'act page',
         'decisions': [
+            'Legea nr. 199/2023: three forms are read from Internet Archive captures: those of 19.12.2025 (304546) '
+            'and 19.01.2026 (306016) from the act page 271898 as captured on 5 and 20 January 2026, while each was '
+            'the newest form, and that of 30.01.2026 (306815) from DetaliiDocumentAfis/306815 as captured on 2 April '
+            '2026, which shows it; the other ten consolidated forms come from Common Crawl.',
             'Legea nr. 199/2023: the first version is the law as published in Monitorul Oficial nr. 614 of 5 July '
             '2023 (DetaliiDocumentAfis/271898), in force 60 days after publication (its art. 260 alin. (1)): 3 '
             'September 2023.',
