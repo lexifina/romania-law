@@ -20,10 +20,17 @@ def register(P):
         'form_note': {'77879': 'The law as republished in Monitorul Oficial nr. 1.014 of 20 December 2006 under art. '
                                'III of Legea nr. 65/2002, with renumbered articles.',
                       '91502': 'The law as republished in Monitorul Oficial nr. 305 of 18 April 2008 under art. V lit. '
-                               'm) of title III of Legea nr. 363/2007, with renumbered articles.',
-                      '140214': 'The law as republished in Monitorul Oficial nr. 543 of 3 August 2012 under art. 80 of '
-                                'Legea nr. 76/2012, with renumbered articles.'},
-        'republished': {'77879': 'legea-65-2002', '91502': 'legea-363-2007', '140214': 'legea-76-2012'},
+                               'm) of title III of Legea nr. 363/2007, with renumbered articles.'},
+        'republished': {'77879': 'legea-65-2002', '91502': 'legea-363-2007'},
+        # the republication of 03.08.2012 prints the law as Legea nr. 76/2012 art. 38 amends it from 15.02.2013 and
+        # 01.07.2013; the in-force text of 03.08.2012-30.01.2013 is the form of 22.07.2010 (decision line)
+        'skip': {'140214'},
+        # the form of 15.12.2003 prints only Legea nr. 65/2002, in force on its publication (MO 52/25.01.2002)
+        'form_day': {'48642': '2002-01-25'},
+        'form_credits': {
+            '48642': {'art-004': 'legea-65-2002'},  # art. 2 of Legea nr. 65/2002 ("contract standard preformulat")
+            '149436': {'art-012': 'legea-76-2012', 'art-013': 'legea-76-2012'},  # art. 38 pct. 1, 2 of Legea 76/2012
+        },
         'repeal_acts': {},
         'decisions': [],
         'root_word': 'act page',

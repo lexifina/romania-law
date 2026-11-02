@@ -8984,6 +8984,64 @@
    ]
   },
   {
+   "slug": "legea-303-2022",
+   "short": "Legea nr. 303/2022",
+   "title": "Legea nr. 303/2022 privind statutul judecătorilor și procurorilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/261399",
+   "versions": [
+    {
+     "from": "2022-12-16",
+     "units": 294,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/261399",
+     "sha256": "eb7b92a058cf27edef492f3ae691aa4a3a776447c8a205ee6b9ca904c8155917"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 294,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/269781",
+     "sha256": "79ec768aec1acc13d928c7f94867d9b1d8411268f87d0c6d659a7fcaff02d755"
+    },
+    {
+     "from": "2025-12-31",
+     "units": 294,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305933",
+     "sha256": "e07258ec40174048429ede085f41f60538164930c65062233f08de8b9b9d3c9d"
+    },
+    {
+     "from": "2026-03-02",
+     "units": 294,
+     "source_url": "https://web.archive.org/web/20260514220727id_/https://legislatie.just.ro/Public/DetaliiDocument/307048",
+     "sha256": "ac4c00bae64471d8aff87b524c59075fc123be46ffa09976d85b9b0d055113ce"
+    }
+   ]
+  },
+  {
+   "slug": "legea-304-2022",
+   "short": "Legea nr. 304/2022",
+   "title": "Legea nr. 304/2022 privind organizarea judiciară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/261410",
+   "versions": [
+    {
+     "from": "2022-12-16",
+     "units": 168,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/261410",
+     "sha256": "3ab1f14a91396c9240873af1fc661654fa25e0bb34bd254df5878b5a096781c2"
+    },
+    {
+     "from": "2024-10-08",
+     "units": 168,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/288614",
+     "sha256": "0fe2dfef39430f8dc74213e078ecec60c435ce05d31bc8c13befe0725854cc6b"
+    },
+    {
+     "from": "2025-12-31",
+     "units": 168,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/261410",
+     "sha256": "71c734f5409f14660134488519985622f1704ff17e1f22893714e7c74d134ffa"
+    }
+   ]
+  },
+  {
    "slug": "legea-47-1992",
    "short": "Legea nr. 47/1992",
    "title": "Legea nr. 47/1992 privind organizarea și funcționarea Curții Constituționale",

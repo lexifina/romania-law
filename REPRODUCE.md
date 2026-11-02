@@ -56,6 +56,9 @@ This file is written by the build on 2026-11-02, the day the source data was ret
 | captures of legislatie.just.ro for the Legea nr. 241/2005 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
 | captures of legislatie.just.ro for the Legea nr. 26/1990 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
 | captures of legislatie.just.ro for the Legea nr. 265/2022 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
+| captures of legislatie.just.ro for the Legea nr. 303/2022 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
+| Internet Archive, Wayback Machine | <https://web.archive.org/> | 2026-11-02 | Internet Archive terms of use; the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
+| captures of legislatie.just.ro for the Legea nr. 304/2022 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
 | captures of legislatie.just.ro for the Legea nr. 47/1992 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
 | captures of legislatie.just.ro for the Legea nr. 500/2002 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
 | captures of legislatie.just.ro for the Legea nr. 51/1995 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
@@ -115,6 +118,8 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `legea-241-2005` | Legea nr. 241/2005 pentru prevenirea și combaterea evaziunii fiscale | 9 | 2005-08-26 to 2024-05-16 |
 | `legea-26-1990` | Legea nr. 26/1990 privind registrul comerțului | 27 | 1990-12-07 to 2022-11-26 |
 | `legea-265-2022` | Legea nr. 265/2022 privind registrul comerțului și pentru modificarea și completarea altor acte normative cu incidență asupra înregistrării în registrul comerțului | 2 | 2022-11-26 to 2023-07-23 |
+| `legea-303-2022` | Legea nr. 303/2022 privind statutul judecătorilor și procurorilor | 4 | 2022-12-16 to 2026-03-02 |
+| `legea-304-2022` | Legea nr. 304/2022 privind organizarea judiciară | 3 | 2022-12-16 to 2025-12-31 |
 | `legea-47-1992` | Legea nr. 47/1992 privind organizarea și funcționarea Curții Constituționale | 11 | 1992-05-22 to 2023-12-08 |
 | `legea-500-2002` | Legea nr. 500/2002 privind finanțele publice | 28 | 2003-01-01 to 2023-10-05 |
 | `legea-51-1995` | Legea nr. 51/1995 pentru organizarea și exercitarea profesiei de avocat | 31 | 2001-03-06 to 2023-04-15 |
@@ -124,19 +129,19 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `oug-44-2008` | Ordonanța de urgență a Guvernului nr. 44/2008 privind desfășurarea activităților economice de către persoanele fizice autorizate, întreprinderile individuale și întreprinderile familiale | 7 | 2008-04-25 to 2022-11-26 |
 | `oug-77-2014` | Ordonanța de urgență a Guvernului nr. 77/2014 privind procedurile naționale în domeniul ajutorului de stat, precum și pentru modificarea și completarea Legii concurenței nr. 21/1996 | 8 | 2015-01-01 to 2024-07-29 |
 
-The build made 2087 commits:
+The build made 2093 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 50 | first version of an act |
-| 1542 | one law on its in-force day |
+| 52 | first version of an act |
+| 1546 | one law on its in-force day |
 | 495 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `viitor`: laws not yet in force on 2026-11-02.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 1176 laws in the record.
-- 2698 tags.
+- 1179 laws in the record.
+- 2709 tags.
 
 ## Dates
 
@@ -148,7 +153,7 @@ When a law gives no date of its own, the default rule applies: Constituția Rom�
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `50b49dca79edda793a33ac8e7ec43b4767a83fb9732487e9e686c528d194d9e4` (65299757 bytes).
+- Corpus: sha256 `a7708400e5bb702748da00941e5ce73f45c50011705feb2ea6cdffe5c3d5897f` (65953830 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `3fa29d18e75f2ec35d37d87b5147fea1f2e4afdf`, `check.py` `3d00541d258745461ab52b1b0cb4e1716a27a95d`, `on.py` `644a6c0857fbcc72562032b58d57aa113fee0641`.
 - Python 3.14.0; git version 2.52.0.windows.1.
 
@@ -630,6 +635,18 @@ No second build of this corpus has been compared yet.
 - Legea nr. 265/2022: the newest form held is that of 12.09.2024; amendments in force after it may be missing.
 - Legea nr. 265/2022: the first version is the law as published in Monitorul Oficial nr. 750 of 26 July 2022 (DetaliiDocumentAfis/257835), in force 4 months after publication (its art. 141 alin. (1)): 26 November 2022. Arts. 133, 134, 137 and 138 took effect 3 days after publication (29 July 2022), and art. 8 alin. (2) applies from 1 August 2023 (art. 141 alin. (2)); they are shown from 26 November 2022 with the rest of the law.
 - Legea nr. 265/2022: forms with no change after normalisation, so no version: 2024-09-12 (257835).
+- Legea nr. 303/2022: added 2026-11-02, one of the Portalul legislativ's consolidated forms per version, as for the other acts. A capture was used only if it was complete and the page showed the form its document id stands for. The forms are those listed by DetaliiDocument/261399 as captured on 2026-06-30 (Internet Archive), the newest capture of any of the act's pages: 6 forms, 6 held.
+- Legea nr. 303/2022: the newest form held is that of 02.03.2026; amendments in force after it may be missing.
+- Legea nr. 303/2022: the first version is the law as published in Monitorul Oficial nr. 1102 of 16 November 2022 (DetaliiDocumentAfis/261399), in force 30 days after publication (its art. 294 alin. (1)): 16 December 2022. The portal's first form is of 1 January 2024, so the changes made up to then arrive together that day.
+- Legea nr. 303/2022: art. 294 alin. (2) puts off to a later day (1 January 2026 as published; 1 January 2027 from 31 December 2025, as OUG nr. 93/2025 amended it) only the rule on counting service without the time spent as a trainee judge or prosecutor (auditor de justiție); it names no provision of its own, so no article is given a later day.
+- Legea nr. 303/2022: the forms of 30 June and 14 August 2025 add the portal's note on Decizia Curții Constituționale nr. 203/2025 (Monitorul Oficial nr. 611 of 30 June 2025), which holds the phrase "care au făcut parte din serviciile de informații" in arts. 108 alin. (6), 142 alin. (4), 144 alin. (2) and 150 alin. (4) constitutional only as far as it means the intelligence services before 1990; the note says that phrase ceased to have effect from 14 August 2025, but every later form prints the articles unchanged, so the text is kept as printed. Those forms, and the form of 1 January 2025, change no article and add no version.
+- Legea nr. 303/2022: forms with no change after normalisation, so no version: 2025-01-01 (292629), 2025-06-30 (298716), 2025-08-14 (302074).
+- Legea nr. 304/2022: added 2026-11-02, one of the Portalul legislativ's consolidated forms per version, as for the other acts. A capture was used only if it was complete and the page showed the form its document id stands for. The forms are those listed by DetaliiDocument/261410 as captured on 2026-01-18, the newest capture of any of the act's pages: 5 forms, 5 held.
+- Legea nr. 304/2022: the newest form held is that of 31.12.2025; amendments in force after it may be missing.
+- Legea nr. 304/2022: the first version is the law as published in Monitorul Oficial nr. 1104 of 16 November 2022 (DetaliiDocumentAfis/261410), in force 30 days after publication (its art. 168 alin. (1)): 16 December 2022. The portal's first form is of 15 May 2023, so the changes made up to then arrive together that day.
+- Legea nr. 304/2022: art. 168 alin. (2) puts off to a later day (1 January 2026 as published; 1 January 2027 from 31 December 2025, as OUG nr. 93/2025 amended it) only the rule on counting service without the time spent as a trainee prosecutor (auditor de justiție); it names no provision of its own, so no article is given a later day.
+- Legea nr. 304/2022: the forms of 15 May 2023, 29 December 2023 and 17 July 2025 change no article and add no version (the first two add only the portal's notes on other acts; the third changes Anexa nr. 1, which is not read as an article).
+- Legea nr. 304/2022: forms with no change after normalisation, so no version: 2023-05-15 (267074), 2023-12-29 (269731), 2025-07-17 (298773).
 - Legea nr. 47/1992: added 2026-11-02, one of the Portalul legislativ's consolidated forms per version, as for the other acts. A capture was used only if it was complete and the page showed the form its document id stands for. The forms are those listed by DetaliiDocument/124149 as captured on 2025-09-14, the newest capture of any of the act's pages: 10 forms, 10 held.
 - Legea nr. 47/1992: the newest form held is that of 08.12.2023; amendments in force after it may be missing.
 - Legea nr. 47/1992: the first version is the law as published in Monitorul Oficial nr. 101 of 22 May 1992 (DetaliiDocumentAfis/2248), in force that day: it sets no day of its own (Constituția art. 78 as it then stood). The portal holds no form between the base text and the republication of 7 August 1997, none between that and the republication of 16 July 2004, and none between that and the form of 1 January 2010, so the changes made in those years arrive with the next text held.
@@ -770,6 +787,8 @@ Model use at data-build time:
 - Legea nr. 241/2005: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - Legea nr. 26/1990: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - Legea nr. 265/2022: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
+- Legea nr. 303/2022: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
+- Legea nr. 304/2022: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - Legea nr. 47/1992: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - Legea nr. 500/2002: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - Legea nr. 51/1995: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
