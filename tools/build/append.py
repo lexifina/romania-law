@@ -46,13 +46,21 @@ def published_state(repo: Path, c: dict) -> tuple[dict[str, str], dict[str, tupl
     """{act slug: newest In-force day on main} for every act main holds, and the acts whose published text differs
     from the corpus on some day main covers: {slug: (first such day, messages)}. Also the per-act commit rows and
     folders, for a correction."""
-    slugs = [a['slug'] for a in c['acts']]
-    dirs = K.act_dirs(repo, slugs)  # each act's folder now, then its folder before the layout move
+    # Each act's folder now (assigned from data/paths.json or its official identifier, so an act missing from
+    # paths.json is still found), then its folder before the layout move.
+    dirs = {a['slug']: list(dict.fromkeys([a.get('path') or a['slug'], a['slug']])) for a in c['acts']}
     rows = K.all_commits_by_act(repo, 'main', dirs)
     cat = K.Cat(repo)
     trees: dict = {}
     state = {}
     problems: dict[str, tuple[str, list[str]]] = {}
+    for act in c['acts']:
+        # No history found, yet files in its folder: appending it as new would write its first version over a later
+        # text. Never; hold it (or refuse) for a look by hand.
+        if not rows[act['slug']] and act.get('path') and act['versions'] and cat.read(f'main:{act["path"]}') is not None:
+            problems[act['slug']] = (act['versions'][0]['from'], [
+                f'{act["slug"]}: its folder {act["path"]} is on main but no commit with In-force touches it '
+                '(an index lost the act?); not appended as new'])
     # Acts whose part file is unchanged since the last verified publish (listed by the caller) need no re-reading:
     # main only grows, so their published text can't have moved. Everything else is read back in full.
     trusted_path = os.environ.get('GITLAW_TRUSTED_ACTS')
@@ -83,6 +91,64 @@ def published_state(repo: Path, c: dict) -> tuple[dict[str, str], dict[str, tupl
     finally:
         cat.close()
     return state, problems, rows, dirs
+
+
+def absent_acts(repo: Path, head: str, listed: set[str], known_paths: dict[str, str], c: dict):
+    """Acts main holds that this publish's corpus does not: withdrawn ones (a "Withdraws: <id>" trailer) and ones whose
+    part is held back this cycle. Returns (index entries, their versions.json rows, recovered {id: folder})."""
+    def versions_at(ref: str) -> dict[str, dict]:
+        out = subprocess.run(['git', 'show', f'{ref}:data/versions.json'], cwd=repo, capture_output=True, text=True,
+                             encoding='utf-8')
+        try:
+            return {a['slug']: a for a in json.loads(out.stdout).get('acts', [])} if not out.returncode else {}
+        except ValueError:
+            return {}
+    rows_for = {s: a for s, a in versions_at(head).items() if s not in listed}
+    # Withdrawn: the trailer names the act; the "- <id>: <reason>" lines of the same commit give the reason.
+    withdrawn: dict[str, tuple[str, str]] = {}
+    for rec in git(repo, 'log', '--format=%x1e%h%x1f%B', '--grep=^Withdraws:', head).split('\x1e')[1:]:
+        h, _, body = rec.partition('\x1f')
+        lines = [ln.strip() for ln in body.splitlines()]
+        reasons = {m.group(1): m.group(2) for m in (re.match(r'^- ([a-z0-9-]+): (.+)$', ln) for ln in lines) if m}
+        for m in (re.match(r'^Withdraws:\s*([a-z0-9-]+)\s*$', ln) for ln in lines):
+            if m and m.group(1) not in withdrawn:
+                withdrawn[m.group(1)] = (h.strip(), reasons.get(m.group(1), ''))
+                if m.group(1) not in rows_for and m.group(1) not in listed:  # its row from just before the withdrawal
+                    row = versions_at(f'{h.strip()}^').get(m.group(1))
+                    if row:
+                        rows_for[m.group(1)] = row
+    # Folders on main that no index names (an earlier publish dropped them): the act is recovered from the last
+    # paths.json that had the folder, and its row from the versions.json of the same commit.
+    path_for: dict[str, str] = {}
+    have = set(known_paths.values()) | {a['path'] for a in c['acts'] if a.get('path')}
+    folders = {f[:-len('/README.md')] for f in git(repo, 'ls-tree', '-r', '--name-only', head).splitlines()
+               if f.endswith('/README.md') and f.split('/')[0] not in ('tools', 'data')}
+    for f in sorted(folders - have):
+        if '/' not in f and f in rows_for:  # a folder still named by its id (an act from before the layout move)
+            continue
+        hits = git(repo, 'log', '--format=%H', f'-S"{f}"', head, '--', 'data/paths.json').split()
+        for h in hits:  # newest first: the commit that dropped it; its parent still names it
+            old = L.paths_at(repo, f'{h}^')
+            s = next((k for k, v in old.items() if v == f), None)
+            if s:
+                path_for[s] = f
+                if s not in listed and s not in rows_for:
+                    row = versions_at(f'{h}^').get(s)
+                    if row:
+                        rows_for[s] = row
+                break
+        else:
+            print(f'append: folder {f} on main is in no index, and no paths.json ever named it', file=sys.stderr)
+    extra = []
+    for s, a in sorted(rows_for.items()):
+        if s in withdrawn:
+            extra.append({**a, '_withdrawn': True, 'path': None, '_withdrawn_by': withdrawn[s][0],
+                          '_reason': withdrawn[s][1] or 'not in the current record'})
+        else:  # held back from this publish: listed as it stands on main
+            p = known_paths.get(s) or path_for.get(s) or a.get('path')
+            extra.append({**a, 'path': p})
+            rows_for[s] = {**a, 'path': p}
+    return extra, rows_for, path_for
 
 
 def approved_corrections() -> dict[str, str]:
@@ -281,13 +347,14 @@ def append(folder: Path, repo: Path, docs_date: str, dry_run: bool = False, comm
     # other stops the run as before, or with GITLAW_HOLD_MISMATCHED=1 is left out of this append (its part is
     # reported in held_parts, for the caller to leave out of its check too) so one act can't stop every publish.
     approved = approved_corrections()
-    unapproved = {s: p for s, p in problems.items() if s not in approved}
+    # A correction needs the act's published history; an act with none (its folder found without it) is never one.
+    unapproved = {s: p for s, p in problems.items() if s not in approved or s not in state}
     if unapproved and os.environ.get('GITLAW_HOLD_MISMATCHED') != '1':
         msgs = [m for _, ms in unapproved.values() for m in ms]
         raise B.CorpusError('main does not match the corpus for versions it already holds:\n  ' + '\n  '.join(msgs[:40]))
     by_slug = {a['slug']: a for a in c['acts']}
     corrections = []
-    for s in sorted(set(problems) & set(approved)):
+    for s in sorted(set(problems) - set(unapproved)):
         corrections += correction_block(repo, c, by_slug[s], problems[s][0], state[s], rows[s],
                                         B.public_note(approved[s]) or '')
     sub, based = to_append({**c, 'acts': [a for a in c['acts'] if a['slug'] not in unapproved]}, state, docs_date)
@@ -350,34 +417,27 @@ def append(folder: Path, repo: Path, docs_date: str, dry_run: bool = False, comm
     # Ship this script beside build.py, so the repository says how its appended commits were made.
     for name in ('append.py', 'layout.py'):
         docs[f'tools/build/{name}'] = (HERE / name).read_text(encoding='utf-8').replace('\r\n', '\n')
-    # Acts main holds that the corpus no longer has (a part withdrawn after it was published): their folders stay on
-    # main (main only grows), so the indexes keep them, marked withdrawn, and paths.json never drops a folder.
+    # The indexes (ACTS.md, data/acts.json, data/versions.json, data/paths.json) list every act main holds, not only the
+    # acts in this publish's corpus: a part held back for a cycle must not drop its acts from them, and only a
+    # correction commit's "Withdraws: <id>" trailer marks an act withdrawn. Rows for acts not in this corpus come from
+    # main: head's versions.json, else the last one that had them.
     listed = {a['slug'] for a in c['acts']}
-    try:
-        head_acts = json.loads(git(repo, 'show', 'main:data/versions.json')).get('acts', [])
-    except Exception:
-        head_acts = []
-    # Why and by which commit each was withdrawn: a correction commit's "Withdraws: <id>" trailers and its
-    # "- <id>: <reason>" lines.
-    why: dict[str, tuple[str, str]] = {}
-    for rec in git(repo, 'log', '--format=%x1e%h%x1f%B', '--grep=^Withdraws:', 'main').split('\x1e')[1:]:
-        h, _, body = rec.partition('\x1f')
-        for ln in body.splitlines():
-            m = re.match(r'^- ([a-z0-9-]+): (.+)$', ln.strip())
-            if m:
-                why.setdefault(m.group(1), (h.strip(), m.group(2)))
-            m = re.match(r'^Withdraws:\s*([a-z0-9-]+)', ln.strip())
-            if m:
-                why.setdefault(m.group(1), (h.strip(), ''))
-    gone = [{**a, '_withdrawn': True, 'path': None, '_withdrawn_by': why.get(a['slug'], ('', ''))[0],
-             '_reason': why.get(a['slug'], ('', ''))[1] or 'not in the current record'}
-            for a in head_acts if a['slug'] not in listed]
-    index = {**c, 'acts': c['acts'] + gone}
+    extra, rows_for, path_for = absent_acts(repo, head, listed, known_paths, c)
+    index = {**c, 'acts': c['acts'] + extra}
     docs['ACTS.md'] = L.acts_md(index) if known_paths else acts_index(c)
     docs['data/acts.json'] = L.acts_json(index)
+    vj = json.loads(docs['data/versions.json'])
+    vj['acts'] += [rows_for[a['slug']] for a in extra]  # kept, so the next publish still knows them
+    docs['data/versions.json'] = json.dumps(vj, ensure_ascii=False, indent=1) + '\n'
     if known_paths:
         since = json.loads(git(repo, 'show', 'main:data/paths.json')).get('since', docs_date)
-        docs['data/paths.json'] = L.paths_json(index, since)
+        pj = json.loads(L.paths_json(index, since))
+        # paths.json never drops a folder: an entry main has stays, whatever this corpus holds.
+        for s, p in {**known_paths, **path_for}.items():
+            if not any(a['slug'] == s and a.get('_withdrawn') for a in extra):
+                pj['paths'].setdefault(s, p)
+        pj['paths'] = dict(sorted(pj['paths'].items()))
+        docs['data/paths.json'] = json.dumps(pj, ensure_ascii=False, indent=0) + '\n'
     # Tools that moved or are no longer shipped (the old flat tools/ layout, tools/acts/) are removed, not left stale.
     shipped_tools = {p for p in git(repo, 'ls-tree', '-r', '--name-only', 'main', 'tools/').splitlines() if p}
     for p in shipped_tools - set(docs):
