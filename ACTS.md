@@ -1,6 +1,6 @@
 # Every act in this repository
 
-1048 acts, 4,026 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+1053 acts, 4,115 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -25,7 +25,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (539, of which 353 amending acts)
+## Laws (legi) (544, of which 353 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -40,6 +40,7 @@
 | Legea nr. 64/1991 privind brevetele de invenție | [`lege/1991/64/`](lege/1991/64/) | in force | 14 | 2002-10-15 | 2024-06-27 |
 | Legea contabilității nr. 82/1991 | [`lege/1991/82/`](lege/1991/82/) | in force | 25 | 1992-01-01 | 2025-02-04 |
 | Legea nr. 47/1992 privind organizarea și funcționarea Curții Constituționale | [`lege/1992/47/`](lege/1992/47/) | in force | 11 | 1992-05-22 | 2023-12-08 |
+| Legea nr. 94/1992 privind organizarea și funcționarea Curții de Conturi | [`lege/1992/94/`](lege/1992/94/) | in force | 17 | 1992-09-09 | 2024-01-01 |
 | Legea nr. 129/1992 privind protecția desenelor și modelelor industriale | [`lege/1992/129/`](lege/1992/129/) | in force | 10 | 2003-01-06 | 2024-05-09 |
 | Legea nr. 33/1994 privind exproprierea pentru cauză de utilitate publică | [`lege/1994/33/`](lege/1994/33/) | in force | 3 | 1994-06-02 | 2020-11-16 |
 | Legea notarilor publici și a activității notariale nr. 36/1995 | [`lege/1995/36/`](lege/1995/36/) | in force | 29 | 1995-05-16 | 2024-12-06 |
@@ -48,6 +49,7 @@
 | Legea nr. 8/1996 privind dreptul de autor și drepturile conexe | [`lege/1996/8/`](lege/1996/8/) | in force | 21 | 1996-06-24 | 2022-05-01 |
 | Legea concurenței nr. 21/1996 | [`lege/1996/21/`](lege/1996/21/) | in force | 42 | 1997-01-30 | 2025-06-26 |
 | Legea nr. 115/1996 privind declararea și controlul averii demnitarilor, magistraților, funcționarilor publici și a unor persoane cu funcții de conducere | [`lege/1996/115/`](lege/1996/115/) | in force | 8 | 1996-10-28 | 2010-09-05 |
+| Legea nr. 35/1997 privind organizarea și funcționarea instituției Avocatul Poporului | [`lege/1997/35/`](lege/1997/35/) | in force | 12 | 1997-03-20 | 2018-02-27 |
 | Legea nr. 84/1998 privind mărcile și indicațiile geografice | [`lege/1998/84/`](lege/1998/84/) | in force | 12 | 2005-12-28 | 2024-03-07 |
 | Legea nr. 213/1998 privind proprietatea publică și regimul juridic al acesteia | [`lege/1998/213/`](lege/1998/213/) | in force | 6 | 1999-01-23 | 2019-07-05 |
 | Legea nr. 188/1999 privind Statutul funcționarilor publici | [`lege/1999/188/`](lege/1999/188/) | in force | 46 | 2000-01-07 | 2019-08-02 |
@@ -59,6 +61,7 @@
 | Legea nr. 188/2000 privind executorii judecătorești | [`lege/2000/188/`](lege/2000/188/) | in force | 14 | 2000-11-10 | 2022-07-17 |
 | Legea nr. 193/2000 privind clauzele abuzive din contractele încheiate între profesioniști și consumatori | [`lege/2000/193/`](lege/2000/193/) | in force | 10 | 2000-12-10 | 2022-05-28 |
 | Legea nr. 10/2001 privind regimul juridic al unor imobile preluate în mod abuziv în perioada 6 martie 1945 - 22 decembrie 1989 | [`lege/2001/10/`](lege/2001/10/) | in force | 24 | 2001-08-13 | 2024-07-20 |
+| Legea nr. 90/2001 privind organizarea și funcționarea Guvernului României și a ministerelor | [`lege/2001/90/`](lege/2001/90/) | in force | 28 | 2001-04-02 | 2019-03-01 |
 | Legea administrației publice locale nr. 215/2001 | [`lege/2001/215/`](lege/2001/215/) | in force | 40 | 2001-05-23 | 2019-07-20 |
 | Legea nr. 350/2001 privind amenajarea teritoriului și urbanismul | [`lege/2001/350/`](lege/2001/350/) | in force | 33 | 2001-07-10 | 2026-02-25 |
 | Legea nr. 544/2001 privind liberul acces la informațiile de interes public | [`lege/2001/544/`](lege/2001/544/) | in force | 6 | 2001-12-22 | 2016-07-17 |
@@ -93,6 +96,7 @@
 | Legea nr. 85/2006 privind procedura insolvenței | [`lege/2006/85/`](lege/2006/85/) | in force | 11 | 2006-07-20 | 2014-02-01 |
 | Legea nr. 86/2006 privind Codul vamal al României | [`lege/2006/86/`](lege/2006/86/) | in force | 13 | 2006-06-18 | 2025-12-18 |
 | Legea nr. 95/2006 privind reforma în domeniul sănătății | [`lege/2006/95/`](lege/2006/95/) | in force | 201 | 2006-05-01 | 2026-02-02 |
+| Legea nr. 96/2006 privind Statutul deputaților și al senatorilor | [`lege/2006/96/`](lege/2006/96/) | in force | 24 | 2006-05-06 | 2025-07-27 |
 | Legea nr. 122/2006 privind azilul în România | [`lege/2006/122/`](lege/2006/122/) | in force | 21 | 2006-08-16 | 2025-05-26 |
 | Legea nr. 192/2006 privind medierea și organizarea profesiei de mediator | [`lege/2006/192/`](lege/2006/192/) | in force | 17 | 2006-05-25 | 2019-07-29 |
 | Legea nr. 273/2006 privind finanțele publice locale | [`lege/2006/273/`](lege/2006/273/) | in force | 48 | 2007-01-01 | 2026-02-25 |
@@ -106,6 +110,7 @@
 | Legea nr. 93/2009 | [`lege/2009/93/`](lege/2009/93/) | in force | 5 | 2009-04-24 | 2016-09-30 |
 | Codul penal (Legea nr. 286/2009) | [`lege/2009/286/`](lege/2009/286/) | in force | 45 | 2014-02-01 | 2026-04-26 |
 | Codul civil (Legea nr. 287/2009) | [`lege/2009/287/`](lege/2009/287/) | in force | 13 | 2011-10-01 | 2026-05-03 |
+| Legea responsabilității fiscal-bugetare nr. 69/2010 | [`lege/2010/69/`](lege/2010/69/) | in force | 8 | 2010-04-23 | 2025-07-28 |
 | Codul de procedură civilă (Legea nr. 134/2010) | [`lege/2010/134/`](lege/2010/134/) | in force | 28 | 2013-02-15 | 2025-12-14 |
 | Codul de procedură penală (Legea nr. 135/2010) | [`lege/2010/135/`](lege/2010/135/) | in force | 61 | 2014-02-01 | 2026-06-13 |
 | Legea nr. 176/2010 privind integritatea în exercitarea funcțiilor și demnităților publice, pentru modificarea și completarea Legii nr. 144/2007 privind înființarea, organizarea și funcționarea Agenției Naționale de Integritate, precum și pentru modificarea și completarea altor acte normative | [`lege/2010/176/`](lege/2010/176/) | amending act | 14 | 2010-09-05 | 2025-11-22 |

@@ -206,6 +206,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/124149"
 },
 {
+"slug": "legea-94-1992",
+"path": "lege/1992/94",
+"kind": "lege",
+"year": "1992",
+"number": "94",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 94/1992 privind organizarea și funcționarea Curții de Conturi",
+"short": "Legea nr. 94/1992",
+"code": null,
+"status": "in force",
+"versions": 17,
+"from": "1992-09-09",
+"latest": "2024-01-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/2364"
+},
+{
 "slug": "legea-129-1992",
 "path": "lege/1992/129",
 "kind": "lege",
@@ -340,6 +357,23 @@
 "from": "1996-10-28",
 "latest": "2010-09-05",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/8602"
+},
+{
+"slug": "legea-35-1997",
+"path": "lege/1997/35",
+"kind": "lege",
+"year": "1997",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 35/1997 privind organizarea și funcționarea instituției Avocatul Poporului",
+"short": "Legea nr. 35/1997",
+"code": null,
+"status": "in force",
+"versions": 12,
+"from": "1997-03-20",
+"latest": "2018-02-27",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/11200"
 },
 {
 "slug": "legea-84-1998",
@@ -527,6 +561,23 @@
 "from": "2001-08-13",
 "latest": "2024-07-20",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/64733"
+},
+{
+"slug": "legea-90-2001",
+"path": "lege/2001/90",
+"kind": "lege",
+"year": "2001",
+"number": "90",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 90/2001 privind organizarea și funcționarea Guvernului României și a ministerelor",
+"short": "Legea nr. 90/2001",
+"code": null,
+"status": "in force",
+"versions": 28,
+"from": "2001-04-02",
+"latest": "2019-03-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/210887"
 },
 {
 "slug": "legea-215-2001",
@@ -1107,6 +1158,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/306816"
 },
 {
+"slug": "legea-96-2006",
+"path": "lege/2006/96",
+"kind": "lege",
+"year": "2006",
+"number": "96",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 96/2006 privind Statutul deputaților și al senatorilor",
+"short": "Legea nr. 96/2006",
+"code": null,
+"status": "in force",
+"versions": 24,
+"from": "2006-05-06",
+"latest": "2025-07-27",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/187309"
+},
+{
 "slug": "legea-122-2006",
 "path": "lege/2006/122",
 "kind": "lege",
@@ -1326,6 +1394,23 @@
 "from": "2011-10-01",
 "latest": "2026-05-03",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/109884"
+},
+{
+"slug": "legea-69-2010",
+"path": "lege/2010/69",
+"kind": "lege",
+"year": "2010",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea responsabilității fiscal-bugetare nr. 69/2010",
+"short": "Legea nr. 69/2010",
+"code": null,
+"status": "in force",
+"versions": 8,
+"from": "2010-04-23",
+"latest": "2025-07-28",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/118059"
 },
 {
 "slug": "codul-procedura-civila",
