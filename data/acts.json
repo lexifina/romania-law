@@ -733,6 +733,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/21698"
 },
 {
+"slug": "legea-69-2000",
+"path": "lege/2000/69",
+"kind": "lege",
+"year": "2000",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 69/2000",
+"short": "Legea nr. 69/2000",
+"code": null,
+"status": "in force",
+"versions": 57,
+"from": "2000-08-07",
+"latest": "2026-01-15",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/22262"
+},
+{
 "slug": "legea-78-2000",
 "path": "lege/2000/78",
 "kind": "lege",
