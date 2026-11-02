@@ -15846,6 +15846,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/270113"
 },
 {
+"slug": "oug-34-2023",
+"path": "oug/2023/34",
+"kind": "oug",
+"year": "2023",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 34/2023 privind unele măsuri fiscal-bugetare, prorogarea unor termene, precum și pentru modificarea și completarea unor acte normative",
+"short": "OUG nr. 34/2023",
+"code": null,
+"status": "amending act",
+"versions": 9,
+"from": "2023-05-15",
+"latest": "2024-09-25",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/270188"
+},
+{
 "slug": "oug-37-2023",
 "path": "oug/2023/37",
 "kind": "oug",
@@ -18989,6 +19006,23 @@
 "from": "2022-09-03",
 "latest": "2022-09-03",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/258756"
+},
+{
+"slug": "og-37-2022",
+"path": "og/2022/37",
+"kind": "og",
+"year": "2022",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța Guvernului nr. 37/2022 pentru modificarea și completarea Legii nr. 95/2006 privind reforma în domeniul sănătății și a Legii nr. 227/2015 privind Codul fiscal , precum și stabilirea unor alte măsuri în domeniul sănătății",
+"short": "OG nr. 37/2022",
+"code": null,
+"status": "amending act",
+"versions": 4,
+"from": "2022-09-03",
+"latest": "2022-12-02",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/258758"
 },
 {
 "slug": "og-3-2023",

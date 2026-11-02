@@ -26123,6 +26123,39 @@
    ]
   },
   {
+   "slug": "og-37-2022",
+   "path": "og/2022/37",
+   "short": "OG nr. 37/2022",
+   "title": "Ordonanța Guvernului nr. 37/2022 pentru modificarea și completarea Legii nr. 95/2006 privind reforma în domeniul sănătății și a Legii nr. 227/2015 privind Codul fiscal , precum și stabilirea unor alte măsuri în domeniul sănătății",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/258758",
+   "versions": [
+    {
+     "from": "2022-09-03",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/258758",
+     "sha256": "a5537769d232768b59ab629526345611760bd6a8382d700887201c8a07f8df46"
+    },
+    {
+     "from": "2022-09-10",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/258758",
+     "sha256": "a5537769d232768b59ab629526345611760bd6a8382d700887201c8a07f8df46"
+    },
+    {
+     "from": "2022-09-15",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/258758",
+     "sha256": "a5537769d232768b59ab629526345611760bd6a8382d700887201c8a07f8df46"
+    },
+    {
+     "from": "2022-12-02",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/258758",
+     "sha256": "dd14547fab5d837cbf636f0f8e8a4fb9426a477277d4a55fe7bbce5e38a7f9ea"
+    }
+   ]
+  },
+  {
    "slug": "og-4-2013",
    "path": "og/2013/4",
    "short": "OG nr. 4/2013",
@@ -30334,6 +30367,69 @@
      "units": 0,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/178667",
      "sha256": "a8d58b9422a5ddeb2245979fd7acd231dfe9c2b1282f8d9d79a606f364725272"
+    }
+   ]
+  },
+  {
+   "slug": "oug-34-2023",
+   "path": "oug/2023/34",
+   "short": "OUG nr. 34/2023",
+   "title": "Ordonanța de urgență a Guvernului nr. 34/2023 privind unele măsuri fiscal-bugetare, prorogarea unor termene, precum și pentru modificarea și completarea unor acte normative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/270188",
+   "versions": [
+    {
+     "from": "2023-05-15",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/270188",
+     "sha256": "2766241a031938c4425097b4c1819eb29cfbebb07c8aaf9ceece4864257ac466"
+    },
+    {
+     "from": "2023-07-20",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/272214",
+     "sha256": "f6296c387fd30be9f2b49e9eff85fe35063ec7281b3717cb7ace9250517cb156"
+    },
+    {
+     "from": "2023-09-29",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/274926",
+     "sha256": "fd7331f07b024c4e6de82c664ab8d806f7700a71e36ba4c754139c14ff4a2fff"
+    },
+    {
+     "from": "2023-10-06",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/275124",
+     "sha256": "cd9ac5739fe4439dcb49a2cfad59ca06c0c48d25d4e8f065cb7182522f192c29"
+    },
+    {
+     "from": "2023-10-27",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/275784",
+     "sha256": "9dc1f001cad4cdb5ab17f8a1bfaa87159e42726e1e06fdd7c2036375102bda98"
+    },
+    {
+     "from": "2023-12-29",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/277795",
+     "sha256": "5ffe88e216552ae0aad91a6c125c1e80e42eb0e5e8a2ec451b1c8a5c0ad76ae0"
+    },
+    {
+     "from": "2024-05-24",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/282820",
+     "sha256": "8b6fff7dc13491dffbcd6d6d3b317871bd2a719cd71f17926ef91be66271c11f"
+    },
+    {
+     "from": "2024-09-06",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/287317",
+     "sha256": "c40a9e5535ebb7dfc62c5bee9c999ead575f513d86f5a3a2fb3cdca980d7a622"
+    },
+    {
+     "from": "2024-09-25",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/288441",
+     "sha256": "f44f38176c18174255c511d0d3467a96c4e7dac2f180aa520e9387934e76a2b6"
     }
    ]
   },

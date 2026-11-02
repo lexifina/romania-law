@@ -1,6 +1,6 @@
 # Every act in this repository
 
-1401 acts, 6,483 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+1403 acts, 6,496 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -697,7 +697,7 @@
 | Legea nr. 241/2025 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 31/2002 privind interzicerea organizațiilor, simbolurilor și faptelor cu caracter fascist, legionar, rasist sau xenofob și a promovării cultului persoanelor vinovate de săvârșirea unor infracțiuni de genocid contra umanității și de crime de război, precum și pentru modificarea Legii nr. 157/2018 privind unele măsuri pentru prevenirea și combaterea antisemitismului | [`lege/2025/241/`](lege/2025/241/) | amending act | 1 | 2025-12-27 | 2025-12-27 |
 | Legea nr. 245/2025 pentru modificarea art. 32 alin. (7) din Legea nr. 273/2006 privind finanțele publice locale | [`lege/2025/245/`](lege/2025/245/) | amending act | 1 | 2026-01-01 | 2026-01-01 |
 
-## Emergency ordinances (OUG) (398, of which 275 amending acts)
+## Emergency ordinances (OUG) (399, of which 276 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -970,6 +970,7 @@
 | Ordonanța de urgență a Guvernului nr. 26/2023 pentru modificarea și completarea art. 12 din Legea nr. 137/2002 privind unele măsuri pentru accelerarea privatizării | [`oug/2023/26/`](oug/2023/26/) | amending act | 1 | 2023-04-21 | 2023-04-21 |
 | Ordonanța de urgență a Guvernului nr. 27/2023 pentru modificarea și completarea unor acte normative în domeniul energetic, precum și pentru instituirea unor derogări | [`oug/2023/27/`](oug/2023/27/) | amending act | 2 | 2023-04-24 | 2023-07-20 |
 | Ordonanța de urgență a Guvernului nr. 32/2023 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 166/2022 privind unele măsuri pentru acordarea unui sprijin categoriilor de persoane vulnerabile pentru compensarea prețului la energie, suportat parțial din fonduri externe nerambursabile | [`oug/2023/32/`](oug/2023/32/) | amending act | 1 | 2023-05-11 | 2023-05-11 |
+| Ordonanța de urgență a Guvernului nr. 34/2023 privind unele măsuri fiscal-bugetare, prorogarea unor termene, precum și pentru modificarea și completarea unor acte normative | [`oug/2023/34/`](oug/2023/34/) | amending act | 9 | 2023-05-15 | 2024-09-25 |
 | Ordonanța de urgență a Guvernului nr. 37/2023 pentru prorogarea termenului prevăzut la art. 2 alin. (1) din Ordonanța de urgență a Guvernului nr. 18/2015 privind stabilirea unor măsuri necesare pentru asigurarea tranziției de la televiziunea analogică terestră la televiziunea digitală terestră și implementarea serviciilor multimedia la nivel național | [`oug/2023/37/`](oug/2023/37/) | amending act | 1 | 2023-05-25 | 2023-05-25 |
 | Ordonanța de urgență a Guvernului nr. 38/2023 pentru modificarea și completarea unor acte normative în scopul furnizării de servicii publice electronice aferente înmatriculării vehiculelor în România | [`oug/2023/38/`](oug/2023/38/) | amending act | 1 | 2023-05-25 | 2023-05-25 |
 | Ordonanța de urgență a Guvernului nr. 39/2023 privind înființarea Oficiului de Film și Investiții Culturale, precum și pentru stabilirea unor măsuri instituționale referitoare la gestionarea schemei de ajutor de stat pentru sprijinirea culturii de film și producției de film în România | [`oug/2023/39/`](oug/2023/39/) | in force | 2 | 2023-05-25 | 2024-03-29 |
@@ -1100,7 +1101,7 @@
 | Ordonanța de urgență a Guvernului nr. 78/2025 pentru modificarea Legii nr. 239/2025 privind stabilirea unor măsuri de redresare și eficientizare a resurselor publice și pentru modificarea și completarea unor acte normative | [`oug/2025/78/`](oug/2025/78/) | amending act | 1 | 2025-12-17 | 2025-12-17 |
 | Ordonanța de urgență a Guvernului nr. 87/2025 pentru stabilirea unor măsuri bugetare privind implementarea programelor naționale din domeniul lucrărilor publice | [`oug/2025/87/`](oug/2025/87/) | in force | 1 | 2025-12-24 | 2025-12-24 |
 
-## Ordinances (OG) (91, of which 51 amending acts)
+## Ordinances (OG) (92, of which 52 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -1160,6 +1161,7 @@
 | Ordonanța Guvernului nr. 26/2022 pentru modificarea și completarea Legii nr. 119/1996 cu privire la actele de stare civilă | [`og/2022/26/`](og/2022/26/) | amending act | 1 | 2022-08-29 | 2022-08-29 |
 | Ordonanța Guvernului nr. 27/2022 privind reglementarea unor măsuri financiare prin instituirea schemei de ajutor de minimis în vederea tranziției către economia circulară | [`og/2022/27/`](og/2022/27/) | in force | 1 | 2022-09-25 | 2022-09-25 |
 | Ordonanța Guvernului nr. 31/2022 pentru modificarea și completarea Legii nr. 207/2015 privind Codul de procedură fiscală | [`og/2022/31/`](og/2022/31/) | amending act | 1 | 2022-09-03 | 2022-09-03 |
+| Ordonanța Guvernului nr. 37/2022 pentru modificarea și completarea Legii nr. 95/2006 privind reforma în domeniul sănătății și a Legii nr. 227/2015 privind Codul fiscal , precum și stabilirea unor alte măsuri în domeniul sănătății | [`og/2022/37/`](og/2022/37/) | amending act | 4 | 2022-09-03 | 2022-12-02 |
 | Ordonanța Guvernului nr. 3/2023 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 166/2022 privind unele măsuri pentru acordarea unui sprijin categoriilor de persoane vulnerabile pentru compensarea prețului la energie, suportat parțial din fonduri externe nerambursabile | [`og/2023/3/`](og/2023/3/) | amending act | 1 | 2023-01-15 | 2023-01-15 |
 | Ordonanța Guvernului nr. 5/2023 pentru modificarea Ordonanței de urgență a Guvernului nr. 41/2010 privind unele măsuri pentru întărirea disciplinei în construcții | [`og/2023/5/`](og/2023/5/) | amending act | 1 | 2023-01-22 | 2023-01-22 |
 | Ordonanța Guvernului nr. 6/2023 pentru modificarea Legii nr. 212/2022 privind unele măsuri pentru reducerea riscului seismic al clădirilor | [`og/2023/6/`](og/2023/6/) | amending act | 3 | 2023-01-22 | 2023-08-01 |
