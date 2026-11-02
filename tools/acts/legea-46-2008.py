@@ -58,7 +58,14 @@ DECISIONS = [
     'credited to Legea nr. 133/2015, as the republication note says; files follow each text\'s own numbering, so many '
     'change that day. The act page 170527 stands, in the portal\'s list of forms, for that republication; the newest '
     'form (13 April 2024) has its own page, 280837.',
-    'Legea nr. 46/2008: the portal lists no form between 8 December 2008 and 4 June 2009, and none between 4 June '
-    '2009 and 5 March 2010 (nor between other days far apart), so the changes made in those periods arrive with the '
-    'next form held. Legea nr. 331/2024 (the new Codul silvic) replaces this law; no repeal version is made up.',
+    'Legea nr. 46/2008: the portal lists 22 forms (8 December 2008 to 13 April 2024, the republication of 12 August '
+    '2015 among them), so the changes made between two forms arrive with the later one.',
+    'Legea nr. 46/2008: seven changes between forms carry no portal note and are the publisher\'s printing, so they '
+    'are kept as printed and credited to no act: a line break in art. 62 alin. (3^1) (form of 20 April 2012); "(2) '
+    'Abrogat." and "(3) Abrogat." printed in art. 34 (1 February 2014), after Legea nr. 54/2010 had removed them in '
+    '2010; "ocoalele silvice private" printed as "ocoalele silvice de regim" in art. 81 alin. (4) and art. 131 alin. '
+    '(3) (13 June 2015, the day Legea nr. 133/2015 took effect; its art. II turns every reference to private forest '
+    'districts into one to "ocoalele silvice de regim"); the lettered paragraphs of arts. 18 and 107 alin. (1), left '
+    'out of the form of 21 July 2017 and printed again on 21 May 2018; and "b) '
+    'abrogată." printed in art. 11 alin. (2) (11 August 2018).',
 ]

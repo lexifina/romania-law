@@ -6,6 +6,15 @@ other forms from their own pages. Parsed as the Phase 6 acts.
 """
 SLUG = 'legea-21-1991'
 
+# acts read as published (Common Crawl captures of their DetaliiDocumentAfis pages)
+CC = {
+    'oug-68-2002': {'url': 'https://legislatie.just.ro/Public/DetaliiDocumentAfis/36706',
+                    'timestamp': '20260117163617', 'crawl': 'CC-MAIN-2026-04',
+                    'filename': 'crawl-data/CC-MAIN-2026-04/segments/1768220469354.41/warc/'
+                                'CC-MAIN-20260117151209-20260117181209-00976.warc.gz',
+                    'offset': '309237875', 'length': '11924', 'digest': 'SMNU7WF44TADLPNVDPH4BKBNI77H4ARQ'},
+}
+
 
 def register(P):
     P.ACTS[SLUG] = {
@@ -23,6 +32,18 @@ def register(P):
                       '5/2010, with renumbered articles.',
         },
         'republished': {'21269': 'legea-192-1999', '121439': 'oug-5-2010'},
+        'repeal_acts': {
+            'oug-68-2002': {
+                'label': 'OUG nr. 68/2002', 'page': '36706', 'capture': CC['oug-68-2002']['timestamp'],
+                'cc': CC['oug-68-2002'], 'in_force': '2002-06-18',
+                'why': 'an emergency ordinance with no day of its own, in force on publication in Monitorul Oficial '
+                       'nr. 424 of 18 June 2002',
+                'read': 'art. I pct. 4: "Articolul 35 se abrogă."; the form of 04.10.2002 leaves art. 35 out with no '
+                        'note.',
+                'repeals': {'41161': ('art-035',)},
+                'cite': 'Art. 35 a fost abrogat de pct. 4 al art. I din ORDONANȚA DE URGENȚĂ nr. 68 din 13 iunie '
+                        '2002, publicată în MONITORUL OFICIAL nr. 424 din 18 iunie 2002'},
+        },
         'decisions': [
             'Legea nr. 21/1991: the first version is the law as published in Monitorul Oficial nr. 44 of 6 March '
             '1991 (DetaliiDocumentAfis/1464), in force 30 days after publication (its art. 42): 5 April 1991. The '

@@ -12426,6 +12426,202 @@
      "sha256": "3865f44bdfa19b3b15bc0f216c341e528c9303e05589492a01ede0afa0357cc3"
     }
    ]
+  },
+  {
+   "slug": "legea-130-2021",
+   "short": "Legea nr. 130/2021",
+   "title": "Legea nr. 130/2021 pentru modificarea și completarea Legii nr. 135/2010 privind Codul de procedură penală",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/242187",
+   "versions": [
+    {
+     "from": "2021-05-15",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/242187",
+     "sha256": "fe94f409681dcab47fa6cdea11d2f41f0c90755da32f2b0fd820d32b7a1dbeb2"
+    }
+   ]
+  },
+  {
+   "slug": "legea-241-2019",
+   "short": "Legea nr. 241/2019",
+   "title": "Legea nr. 241/2019 privind aprobarea Ordonanței Guvernului nr. 14/2017 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 195/2002 privind circulația pe drumurile publice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/264140",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/221177",
+     "sha256": "45448506443155c686f1b71105f715296d3a75d8dd460423ec29f2275ee8bb3a"
+    },
+    {
+     "from": "2023-03-02",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/264140",
+     "sha256": "cee98b18705a13a2d0d12b63e25bfdab0bde061c9f26a3051de196138678bfb9"
+    }
+   ]
+  },
+  {
+   "slug": "legea-295-2020",
+   "short": "Legea nr. 295/2020",
+   "title": "Legea nr. 295/2020 pentru modificarea și completarea Legii nr. 207/2015 privind Codul de procedură fiscală , precum și aprobarea unor măsuri fiscal-bugetare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/235501",
+   "versions": [
+    {
+     "from": "2020-12-24",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/235501",
+     "sha256": "4ee932b8844a3c012adc63e51704bec6f746aecba51aaac764dc3e489b68d87f"
+    }
+   ]
+  },
+  {
+   "slug": "og-11-2021",
+   "short": "OG nr. 11/2021",
+   "title": "Ordonanța Guvernului nr. 11/2021 pentru modificarea și completarea Legii nr. 207/2015 privind Codul de procedură fiscală și reglementarea unor măsuri fiscale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/245928",
+   "versions": [
+    {
+     "from": "2021-09-03",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/245928",
+     "sha256": "5a99adb3e71db1a4226367ab9322e50c305568bb7eaa282ad2feaee12b825a29"
+    },
+    {
+     "from": "2021-12-18",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/249399",
+     "sha256": "d769abf6a70d280c3da0e4d9069128fdb25e936016f6dcf56c28f139e0b3c662"
+    }
+   ]
+  },
+  {
+   "slug": "og-11-2022",
+   "short": "OG nr. 11/2022",
+   "title": "Ordonanța Guvernului nr. 11/2022 pentru modificarea și completarea unor acte normative, precum și pentru modificarea unor termene",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/251253",
+   "versions": [
+    {
+     "from": "2022-02-03",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/251253",
+     "sha256": "7adffb04b31e51653d5346187f7a19950df229e463c52ea7cc370449efa70705"
+    },
+    {
+     "from": "2022-12-09",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/251253",
+     "sha256": "a3b1fb3207f498c3df77979daae830c7ef948614ee522d30ab73fcd6775439f2"
+    }
+   ]
+  },
+  {
+   "slug": "og-19-2019",
+   "short": "OG nr. 19/2019",
+   "title": "Ordonanța Guvernului nr. 19/2019 pentru modificarea și completarea Legii nr. 207/2015 privind Codul de procedură fiscală",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/217293",
+   "versions": [
+    {
+     "from": "2019-08-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/217293",
+     "sha256": "4713ae4584d454e9d77bd17bfa2c29ca99b0b6b5762be6262b653913a9aa07da"
+    },
+    {
+     "from": "2021-05-10",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/217293",
+     "sha256": "9265106e6dbc856e73c1aa84409c98ed27ac23c6fb702c4cb3a4ca615ac42c7d"
+    }
+   ]
+  },
+  {
+   "slug": "og-21-2014",
+   "short": "OG nr. 21/2014",
+   "title": "Ordonanța Guvernului nr. 21/2014 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 195/2002 privind circulația pe drumurile publice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/160955",
+   "versions": [
+    {
+     "from": "2014-09-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/160955",
+     "sha256": "6ea89f4da5f46619d93c4903826c051fb049c1f21e2ffa584884579d5abe4383"
+    },
+    {
+     "from": "2019-07-29",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/216311",
+     "sha256": "5ccd47682d61d97c63a4647ccc99f3d79192e98601eb7ddb5f0eff4f935ecf2a"
+    }
+   ]
+  },
+  {
+   "slug": "og-30-2017",
+   "short": "OG nr. 30/2017",
+   "title": "Ordonanța Guvernului nr. 30/2017 pentru modificarea și completarea Legii nr. 207/2015 privind Codul de procedură fiscală",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/192772",
+   "versions": [
+    {
+     "from": "2017-09-03",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/192772",
+     "sha256": "62a3e5a24916ffe5cc9738cfdff0b34797d24e59cd6f7ff667e35c2a3e373473"
+    },
+    {
+     "from": "2018-06-29",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/201645",
+     "sha256": "e0d855961d3bb3d695d05fa81a6d5a2b585529ed8d4149cf18141b5dc8dcc32e"
+    }
+   ]
+  },
+  {
+   "slug": "oug-42-2017",
+   "short": "OUG nr. 42/2017",
+   "title": "Ordonanța de urgență a Guvernului nr. 42/2017 pentru modificarea și completarea Legii nr. 207/2015 privind Codul de procedură fiscală",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/190063",
+   "versions": [
+    {
+     "from": "2017-06-13",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/190063",
+     "sha256": "8b14785500ad12139518fbbc5a8b823eac88999a80e756841a87edc96f6d4a9a"
+    }
+   ]
+  },
+  {
+   "slug": "oug-50-2015",
+   "short": "OUG nr. 50/2015",
+   "title": "Ordonanța de urgență a Guvernului nr. 50/2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/172600",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/172600",
+     "sha256": "fd61cc9f416957eccf897a16c79c54408f617663489acb52e555f85ea9b31378"
+    },
+    {
+     "from": "2016-01-03",
+     "units": 5,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/174583",
+     "sha256": "9ccc9915f336a0aaff4392117b431c0810406f830c9f009df56f62cb4e5c6f36"
+    }
+   ]
+  },
+  {
+   "slug": "oug-71-2025",
+   "short": "OUG nr. 71/2025",
+   "title": "Ordonanța de urgență a Guvernului nr. 71/2025 pentru modificarea și completarea Legii nr. 207/2015 privind Codul de procedură fiscală",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/305122",
+   "versions": [
+    {
+     "from": "2025-12-10",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/305122",
+     "sha256": "8986ed16202e4d7267cb185ccc0999b989a037b4c658ccad2918fbcce6482d72"
+    }
+   ]
   }
  ]
 }
