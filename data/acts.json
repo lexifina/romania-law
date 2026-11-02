@@ -10729,6 +10729,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/294641"
 },
 {
+"slug": "legea-14-2025",
+"path": "lege/2025/14",
+"kind": "lege",
+"year": "2025",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 14/2025 pentru modificarea și completarea Legii cetățeniei române nr. 21/1991 , precum și pentru modificarea și completarea altor acte normative",
+"short": "Legea nr. 14/2025",
+"code": null,
+"status": "amending act",
+"versions": 2,
+"from": "2025-03-15",
+"latest": "2026-06-30",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/295342"
+},
+{
 "slug": "legea-27-2025",
 "path": "lege/2025/27",
 "kind": "lege",

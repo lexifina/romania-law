@@ -1,6 +1,6 @@
 # Every act in this repository
 
-1447 acts, 6,669 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+1448 acts, 6,671 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -30,7 +30,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (665, of which 376 amending acts)
+## Laws (legi) (666, of which 377 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -664,6 +664,7 @@
 | Legea nr. 319/2024 privind stabilirea unor măsuri pentru punerea în aplicare a Convenției privind combaterea coruperii funcționarilor publici străini în cadrul operațiunilor economice internaționale, adoptată la Paris la 21 noiembrie 1997 | [`lege/2024/319/`](lege/2024/319/) | in force | 2 | 2024-12-26 | 2025-10-19 |
 | Legea nr. 324/2024 pentru completarea art. 40 din Ordonanța de urgență a Guvernului nr. 80/2013 privind taxele judiciare de timbru | [`lege/2024/324/`](lege/2024/324/) | amending act | 1 | 2025-02-21 | 2025-02-21 |
 | Legea nr. 10/2025 bugetului asigurărilor sociale de stat pe anul 2025 | [`lege/2025/10/`](lege/2025/10/) | in force | 1 | 2025-02-13 | 2025-02-13 |
+| Legea nr. 14/2025 pentru modificarea și completarea Legii cetățeniei române nr. 21/1991 , precum și pentru modificarea și completarea altor acte normative | [`lege/2025/14/`](lege/2025/14/) | amending act | 2 | 2025-03-15 | 2026-06-30 |
 | Legea nr. 27/2025 pentru modificarea și completarea Legii audiovizualului nr. 504/2002 | [`lege/2025/27/`](lege/2025/27/) | amending act | 1 | 2025-03-28 | 2025-03-28 |
 | Legea nr. 30/2025 pentru completarea tabelelor-anexă nr. I - III la Legea nr. 143/2000 privind prevenirea și combaterea traficului și consumului ilicit de droguri | [`lege/2025/30/`](lege/2025/30/) | amending act | 1 | 2025-03-29 | 2025-03-29 |
 | Legea nr. 46/2025 pentru modificarea alineatului (2) al articolului 34 din Legea drepturilor pacientului nr. 46/2003 | [`lege/2025/46/`](lege/2025/46/) | amending act | 1 | 2025-04-14 | 2025-04-14 |

@@ -11555,6 +11555,27 @@
    ]
   },
   {
+   "slug": "legea-14-2025",
+   "path": "lege/2025/14",
+   "short": "Legea nr. 14/2025",
+   "title": "Legea nr. 14/2025 pentru modificarea și completarea Legii cetățeniei române nr. 21/1991 , precum și pentru modificarea și completarea altor acte normative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/295342",
+   "versions": [
+    {
+     "from": "2025-03-15",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/295342",
+     "sha256": "33438c0271a26331ca9cb1bedcd51145b4378758ec60eccb99bb2f50b8dc9576"
+    },
+    {
+     "from": "2026-06-30",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/295342",
+     "sha256": "33438c0271a26331ca9cb1bedcd51145b4378758ec60eccb99bb2f50b8dc9576"
+    }
+   ]
+  },
+  {
    "slug": "legea-140-2022",
    "path": "lege/2022/140",
    "short": "Legea nr. 140/2022",
