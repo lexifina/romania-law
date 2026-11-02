@@ -1,6 +1,6 @@
 # Every act in this repository
 
-1080 acts, 4,632 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+1081 acts, 4,667 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -13,6 +13,7 @@
 | Codul de procedură civilă | Codul de procedură civilă | [`lege/2010/134/`](lege/2010/134/) | 28 | 2025-12-14 |
 | Codul de procedură fiscală | Codul de procedură fiscală | [`lege/2015/207/`](lege/2015/207/) | 62 | 2026-02-25 |
 | Codul de procedură penală | Codul de procedură penală | [`lege/2010/135/`](lege/2010/135/) | 61 | 2026-06-13 |
+| Codul de procedură penală din 12 noiembrie 1968 | Codul de procedură penală din 1968 | [`lege/1968/29/`](lege/1968/29/) | 35 | 2014-02-01 |
 | Codul familiei din 1953 | Codul familiei | [`lege/1953/4/`](lege/1953/4/) | 8 | 2011-10-01 |
 | Codul fiscal | Codul fiscal 2003 | [`lege/2003/571/`](lege/2003/571/) | 61 | 2015-11-04 |
 | Codul fiscal | Codul fiscal | [`lege/2015/227/`](lege/2015/227/) | 149 | 2026-08-08 |
@@ -29,12 +30,13 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (564, of which 353 amending acts)
+## Laws (legi) (565, of which 353 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
 | Codul familiei din 1953 (Legea nr. 4/1953) | [`lege/1953/4/`](lege/1953/4/) | repealed 2011-10-01 | 8 | 1956-04-18 | 2011-10-01 |
 | Codul penal din 21 iunie 1968 (Legea nr. 15/1968) | [`lege/1968/15/`](lege/1968/15/) | repealed 2014-02-01 | 22 | 1969-01-01 | 2014-02-01 |
+| Codul de procedură penală din 12 noiembrie 1968 (Legea nr. 29/1968) | [`lege/1968/29/`](lege/1968/29/) | repealed 2014-02-01 | 35 | 1969-01-01 | 2014-02-01 |
 | Legea nr. 26/1990 privind registrul comerțului | [`lege/1990/26/`](lege/1990/26/) | repealed 2022-11-26 | 27 | 1990-12-07 | 2022-11-26 |
 | Legea societăților nr. 31/1990 | [`lege/1990/31/`](lege/1990/31/) | in force | 43 | 1990-12-17 | 2025-12-18 |
 | Legea fondului funciar nr. 18/1991 | [`lege/1991/18/`](lege/1991/18/) | in force | 37 | 1991-02-20 | 2025-07-20 |

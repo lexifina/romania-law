@@ -53,6 +53,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/38070"
 },
 {
+"slug": "codul-procedura-penala-1968",
+"path": "lege/1968/29",
+"kind": "lege",
+"year": "1968",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Codul de procedură penală din 12 noiembrie 1968 (Legea nr. 29/1968)",
+"short": "Codul de procedură penală din 1968",
+"code": "Codul de procedură penală din 12 noiembrie 1968",
+"status": "repealed 2014-02-01",
+"versions": 35,
+"from": "1969-01-01",
+"latest": "2014-02-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/38111"
+},
+{
 "slug": "legea-26-1990",
 "path": "lege/1990/26",
 "kind": "lege",
