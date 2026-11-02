@@ -1107,6 +1107,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/64951"
 },
 {
+"slug": "legea-312-2004",
+"path": "lege/2004/312",
+"kind": "lege",
+"year": "2004",
+"number": "312",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 312/2004",
+"short": "Legea nr. 312/2004",
+"code": null,
+"status": "in force",
+"versions": 3,
+"from": "2004-07-30",
+"latest": "2005-01-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/53133"
+},
+{
 "slug": "legea-346-2004",
 "path": "lege/2004/346",
 "kind": "lege",
@@ -1139,6 +1156,23 @@
 "from": "2004-10-02",
 "latest": "2024-05-10",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/55481"
+},
+{
+"slug": "legea-411-2004",
+"path": "lege/2004/411",
+"kind": "lege",
+"year": "2004",
+"number": "411",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 411/2004",
+"short": "Legea nr. 411/2004",
+"code": null,
+"status": "in force",
+"versions": 26,
+"from": "2006-07-01",
+"latest": "2025-04-17",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/56510"
 },
 {
 "slug": "legea-506-2004",
