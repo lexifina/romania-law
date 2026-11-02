@@ -13,6 +13,7 @@ Initiator: Guvernul României.
 - 2026-10-07: documents published: Aviz comisie
 - 2026-10-27: documents published: Raport comisie sesizată pe fond
 - 2026-10-28: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților, Expunere de motive
+- 2026-11-02: documents published: Document (day not given by the bill file), Document (cconc) (day not given by the bill file), Aviz Consiliul Economic și Social (day not given by the bill file), Aviz Consiliul Legislativ (day not given by the bill file), Document (se) (day not given by the bill file), Forma ad…
 
 ## Documents
 
@@ -26,3 +27,9 @@ Initiator: Guvernul României.
 - 2026-10-28: Forma adoptată de Senat (FS): [fs-b2b8b5da.md](fs-b2b8b5da.md); official file https://www.senat.ro/legis/PDF/2026/26L532FS.PDF
 - 2026-10-28: Adresă către Camera Deputaților (AM): [am-69c06196.md](am-69c06196.md); official file https://www.senat.ro/legis/PDF/2026/26L532AM.PDF
 - 2026-10-28: Expunere de motive (EM): not held as text; official file https://www.cdep.ro/proiecte/2026/700/10/7/em815.pdf
+- 2026-11-02: Document (CC): [cc-e179fccb.md](cc-e179fccb.md); official file https://www.senat.ro/legis/PDF/2026/26L532CC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2026-11-02: Document (cconc) (DOC): not held as text; official file https://www.cdep.ro/proiecte/2026/700/10/7/cconc815.pdf (its day is not given by the bill file: shown from the last stage held)
+- 2026-11-02: Aviz Consiliul Economic și Social (CES): not held as text; official file https://www.cdep.ro/proiecte/2026/700/10/7/ces815.pdf (its day is not given by the bill file: shown from the last stage held)
+- 2026-11-02: Aviz Consiliul Legislativ (CL): not held as text; official file https://www.cdep.ro/proiecte/2026/700/10/7/cl815.pdf (its day is not given by the bill file: shown from the last stage held)
+- 2026-11-02: Document (se) (DOC): not held as text; official file https://www.cdep.ro/proiecte/2026/700/10/7/se815.pdf (its day is not given by the bill file: shown from the last stage held)
+- 2026-11-02: Forma adoptată (FA): not held as text; official file https://www.cdep.ro/proiecte/2026/700/10/7/as717.pdf (its day is not given by the bill file: shown from the last stage held)
