@@ -10124,6 +10124,104 @@
    ]
   },
   {
+   "slug": "legea-254-2013",
+   "short": "Legea nr. 254/2013",
+   "title": "Legea nr. 254/2013 privind executarea pedepselor și a măsurilor privative de libertate dispuse de organele judiciare în cursul procesului penal",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/150699",
+   "versions": [
+    {
+     "from": "2014-02-01",
+     "units": 191,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/150699",
+     "sha256": "ef694189d05a7b660322094a6f00cd614df477b1a9763d05cde6bb431e2e5a8e"
+    },
+    {
+     "from": "2014-02-07",
+     "units": 191,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/155349",
+     "sha256": "25b24277595b803c981ad8d1ddb824b37199646ea7a7e27b89f46f5a98a7c84d"
+    },
+    {
+     "from": "2015-06-02",
+     "units": 191,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168584",
+     "sha256": "e376146ca5156a5a15a505aa2c8e408ced59a5a2435aed8ff197efe2f99d299f"
+    },
+    {
+     "from": "2015-07-18",
+     "units": 191,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/175760",
+     "sha256": "28e58b8eeeca75d16c997a5f3bc73c8e967593fba5274a85eb585f0ebdb8174e"
+    },
+    {
+     "from": "2016-02-09",
+     "units": 191,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/175759",
+     "sha256": "53981cbda82721311a4237eb3e770ab3ff214e4bcb77faea6f287e134c3a8fac"
+    },
+    {
+     "from": "2016-07-23",
+     "units": 191,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/179578",
+     "sha256": "f92444857087317c466fb3aec7a3d01df3ba449bad5cc60fc90408be01540e7e"
+    },
+    {
+     "from": "2016-08-31",
+     "units": 192,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180258",
+     "sha256": "39355789631b35ba7c9b6127f020aae8f1cd0420b328debdef471bdf6ed88955"
+    },
+    {
+     "from": "2017-07-21",
+     "units": 193,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/191042",
+     "sha256": "67374c21d0dd49c38e67c977f7819b69ec75b4525c34f4c98b3c5919554a5b5e"
+    },
+    {
+     "from": "2018-05-21",
+     "units": 193,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/200500",
+     "sha256": "807948c44c1b93c0c2f7415fdb9feab665e445439a45decb8b42d4fe353eddf9"
+    },
+    {
+     "from": "2019-04-10",
+     "units": 193,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/212468",
+     "sha256": "7c896f1da49d8500d9713144ff26b29782de64bab072ef934b3fe45cd2e13111"
+    },
+    {
+     "from": "2019-12-23",
+     "units": 193,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/220250",
+     "sha256": "d872bce7f23c6e820493ce51f7c6e543c554339d8696a01ff5d7a1dc9217cb30"
+    },
+    {
+     "from": "2021-05-21",
+     "units": 194,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/241573",
+     "sha256": "19d331fac7ada45a48047922615405b445c8c7b271eeb8d24eb14a39e688d7ac"
+    },
+    {
+     "from": "2023-07-09",
+     "units": 195,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/268158",
+     "sha256": "d4ad193b0efdd5541d3451b87d530d01fa2f909b12cc46cf8abc2d628d4d7919"
+    },
+    {
+     "from": "2023-12-09",
+     "units": 195,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/269415",
+     "sha256": "18396d5676ac96a882ad88353d71c747088266024b3deefa02fd21ed7c802a3b"
+    },
+    {
+     "from": "2024-03-24",
+     "units": 195,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/279893",
+     "sha256": "69ed8bb96096367736771498149a603b1949906b57f2a1ea8cdd9bb442a57e64"
+    }
+   ]
+  },
+  {
    "slug": "legea-255-2013",
    "short": "Legea nr. 255/2013",
    "title": "Legea nr. 255/2013 pentru punerea în aplicare a Legii nr. 135/2010 privind Codul de procedură penală și pentru modificarea și completarea unor acte normative care cuprind dispoziții procesual penale",
@@ -10698,6 +10796,104 @@
      "units": 143,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/268266",
      "sha256": "baee163dac79453a39dccf040c0584b487c51daab88723a6f0db9be394c55f66"
+    }
+   ]
+  },
+  {
+   "slug": "legea-302-2004",
+   "short": "Legea nr. 302/2004",
+   "title": "Legea nr. 302/2004 privind cooperarea judiciară internațională în materie penală",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53158",
+   "versions": [
+    {
+     "from": "2004-08-30",
+     "units": 157,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/53158",
+     "sha256": "d9e803e44447154c6551c7d09b302845e9a6927f7b4fc6c379157b4081066803"
+    },
+    {
+     "from": "2006-06-24",
+     "units": 164,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73127",
+     "sha256": "dd72aa274b47fc5fd228db4c69c621bf5cfab4bcef5954d311ae40377ead563d"
+    },
+    {
+     "from": "2007-01-01",
+     "units": 216,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73127",
+     "sha256": "dd72aa274b47fc5fd228db4c69c621bf5cfab4bcef5954d311ae40377ead563d"
+    },
+    {
+     "from": "2008-11-13",
+     "units": 281,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/99419",
+     "sha256": "5ce60f09b6812bd17e093fa1c6915188a8a43d3f1c91b28ff367929f3e2dbed0"
+    },
+    {
+     "from": "2011-05-31",
+     "units": 270,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/128922",
+     "sha256": "66b9e7c7d7eb4753debdd6a72557d25791ed41a71010073c4a90006b96ad099e"
+    },
+    {
+     "from": "2013-12-26",
+     "units": 328,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/153660",
+     "sha256": "89ac7c7198fbbf40ae38b336a94094d81eb3b7d7060ded28b37179742ec23f84"
+    },
+    {
+     "from": "2014-02-01",
+     "units": 328,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/153661",
+     "sha256": "fb89592c2eea9dfa6f81d2c0a4d00838eb166cf7eee4e9d43d985e3b736dde6f"
+    },
+    {
+     "from": "2015-12-27",
+     "units": 328,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174459",
+     "sha256": "eb4e21d63bd6ee06ea5ef7e0eff6ec1c7c75069ea52e8207bcaf1348f59d303e"
+    },
+    {
+     "from": "2017-12-17",
+     "units": 356,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/195321",
+     "sha256": "b93abc842ed9a900c39941bb58b0f17b133adcb7e110649c641697b83251ec78"
+    },
+    {
+     "from": "2019-05-27",
+     "units": 355,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/214172",
+     "sha256": "6deca16f4c936b8b35b159c1f8575c8f08871cc257894bc0cedb78cfc3832f6e"
+    },
+    {
+     "from": "2021-03-29",
+     "units": 361,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/239494",
+     "sha256": "1cd3d1489c69a70f368af6aadc5dae7f3445b163c42e6a896fd83d638b4548f1"
+    },
+    {
+     "from": "2022-11-20",
+     "units": 362,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/261113",
+     "sha256": "c4cdc6793dc1a66fb1e92d263bd4d1708bad3d1df455625cd017f0281cfdad8d"
+    },
+    {
+     "from": "2024-05-10",
+     "units": 362,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/282144",
+     "sha256": "e2e66173269d77ed8e40b476e9160e58ba58d4f159ef980956dc81774f4bf448"
+    },
+    {
+     "from": "2024-06-07",
+     "units": 362,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/283488",
+     "sha256": "8f72a9357b69cffbfc374a2c7342723beb7ef8b8d060abcf17d8ffdedd36c820"
+    },
+    {
+     "from": "2025-10-19",
+     "units": 363,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/303015",
+     "sha256": "d5c2ca7804870103a4fceab23edb8ace2feab9ee2c7cf6a4de484b4dd127d9f8"
     }
    ]
   },
@@ -13446,6 +13642,690 @@
    ]
   },
   {
+   "slug": "hg-1242-2021",
+   "short": "HG nr. 1242/2021",
+   "title": "Hotărârea Guvernului nr. 1242/2021 privind prelungirea stării de alertă pe teritoriul României începând cu data de 9 decembrie 2021, precum și stabilirea măsurilor care se aplică pe durata acesteia pentru prevenirea și combaterea efectelor pandemiei de COVID-19",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/249083",
+   "versions": [
+    {
+     "from": "2021-12-08",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/249083",
+     "sha256": "0f9f04cd60d63ec16d6fbb4daaa4987fb382d0ee024309bff5866754b53b76cf"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1254-2021",
+   "short": "HG nr. 1254/2021",
+   "title": "Hotărârea Guvernului nr. 1254/2021 privind repartizarea sumelor corespunzătoare cotei prevăzute la art. 6 alin. (1) lit. e) din Legea bugetului de stat pe anul 2021 nr. 15/2021 pentru finanțarea instituțiilor publice de spectacole din subordinea autorităților administrației publice locale ale unităților administrativ-teritoriale din județe, respectiv teatre, opere și filarmonici",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/249278",
+   "versions": [
+    {
+     "from": "2021-12-16",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/249278",
+     "sha256": "b7e0b3d93f78e8cb340ec204d5b10d02eedb19e47285c078e25d62fa24c834da"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1276-2021",
+   "short": "HG nr. 1276/2021",
+   "title": "Hotărârea Guvernului nr. 1276/2021 privind modificarea anexei la Hotărârea Guvernului nr. 2.139/2004 pentru aprobarea Catalogului privind clasificarea și duratele normale de funcționare a mijloacelor fixe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/249896",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/249896",
+     "sha256": "77820ebddb233429b968af6257791fbd33c24538beb45671da68a5cec64ebaca"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1288-2021",
+   "short": "HG nr. 1288/2021",
+   "title": "Hotărârea Guvernului nr. 1288/2021 pentru aprobarea indicatorilor tehnico-economici aferenți obiectivului de investiții \"Tren metropolitan Gilău-Florești-Cluj-Napoca-Baciu-Apahida-Jucu-Bonțida - etapa I a sistemului de transport metropolitan rapid Cluj: Magistrala I de metrou și tren metropolitan, inclusiv legătura dintre acestea. Componenta 1. Magistrala I de metrou Cluj\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/249985",
+   "versions": [
+    {
+     "from": "2021-12-28",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/249985",
+     "sha256": "abb63ab8535df130b610e2062119392e6e452d5898404cb00941aa1395a055f1"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1315-2021",
+   "short": "HG nr. 1315/2021",
+   "title": "Hotărârea Guvernului nr. 1315/2021 pentru modificarea și completarea Hotărârii Guvernului nr. 1.048/2006 privind cerințele minime de securitate și sănătate pentru utilizarea de către lucrători a echipamentelor individuale de protecție la locul de muncă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/250374",
+   "versions": [
+    {
+     "from": "2022-01-11",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/250374",
+     "sha256": "097ae4e9ae9b486b2cccd2387894cf9ff8f1ee0ea137ee609bda265022be40e3"
+    }
+   ]
+  },
+  {
+   "slug": "hg-155-2022",
+   "short": "HG nr. 155/2022",
+   "title": "Hotărârea Guvernului nr. 155/2022 privind aprobarea Regulamentului de organizare și funcționare al Agenției Române de Asigurare a Calității în Învățământul Preuniversitar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/251407",
+   "versions": [
+    {
+     "from": "2022-02-04",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/251407",
+     "sha256": "f15f2fed81787012916808fdeb1ba0a76d1c5843ec1f3bf137c0de4255140ad9"
+    }
+   ]
+  },
+  {
+   "slug": "hg-16-2022",
+   "short": "HG nr. 16/2022",
+   "title": "Hotărârea Guvernului nr. 16/2022 pentru abrogarea Hotărârii Comitetului Național pentru Situații de Urgență nr. 6/2022 privind procedura de aprobare a regulilor de aplicare a măsurii carantinei asupra persoanelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/252468",
+   "versions": [
+    {
+     "from": "2022-03-08",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/252468",
+     "sha256": "9cad9576da607b0cddcfc3c60a37d7588802f0068dce68c4d12748ae3d9f2efd"
+    }
+   ]
+  },
+  {
+   "slug": "hg-171-2022",
+   "short": "HG nr. 171/2022",
+   "title": "Hotărârea Guvernului nr. 171/2022 privind prelungirea stării de alertă pe teritoriul României începând cu data de 7 februarie 2022, precum și stabilirea măsurilor care se aplică pe durata acesteia pentru prevenirea și combaterea efectelor pandemiei de COVID-19",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/251380",
+   "versions": [
+    {
+     "from": "2022-02-04",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/251380",
+     "sha256": "b31d1e38b9a5e40f6e34ede8a540647ab4564200444042c88a87dafbd644ec70"
+    }
+   ]
+  },
+  {
+   "slug": "hg-195-2022",
+   "short": "HG nr. 195/2022",
+   "title": "Hotărârea Guvernului nr. 195/2022 pentru aprobarea Schemei de ajutor de stat privind sprijinirea investițiilor destinate promovării producției de energie din surse regenerabile mai puțin exploatate, respectiv biomasă, biogaz, energie geotermală, și a Schemei de ajutor de stat privind sprijinirea investițiilor în cogenerare de înaltă eficiență",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/251619",
+   "versions": [
+    {
+     "from": "2022-02-14",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/251619",
+     "sha256": "18466f1fc1682e81d389e7d8931894b9847e2438e8d7cab1eee5656f90e260a3"
+    }
+   ]
+  },
+  {
+   "slug": "hg-198-2022",
+   "short": "HG nr. 198/2022",
+   "title": "Hotărârea Guvernului nr. 198/2022 privind organizarea și funcționarea direcțiilor județene de sport, respectiv a Direcției pentru Sport a Municipiului București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/251625",
+   "versions": [
+    {
+     "from": "2022-02-14",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/251625",
+     "sha256": "6d4e34fff5d9a94c78bfbfc8767b5a822357ae26a2c34a6801f0108c98be7c61"
+    }
+   ]
+  },
+  {
+   "slug": "hg-206-2022",
+   "short": "HG nr. 206/2022",
+   "title": "Hotărârea Guvernului nr. 206/2022 privind modificarea și completarea Hotărârii Guvernului nr. 282/2020 pentru aprobarea Normelor metodologice de aplicare a Ordonanței de urgență a Guvernului nr. 110/2017 privind Programul de susținere a întreprinderilor mici și mijlocii și a întreprinderilor mici cu capitalizare de piață medie - IMM INVEST ROMÂNIA",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/251667",
+   "versions": [
+    {
+     "from": "2022-02-15",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/251667",
+     "sha256": "05db7e21c95225c90400d962cb3e78eecef58ebed02c2f022aee1afe58f299d7"
+    }
+   ]
+  },
+  {
+   "slug": "hg-23-2022",
+   "short": "HG nr. 23/2022",
+   "title": "Hotărârea Guvernului nr. 23/2022 privind modificarea Hotărârii Consiliului național al Colegiului Fizioterapeuților din România nr. 93/2020 pentru aprobarea taxelor de acreditare și reacreditare a furnizorilor de educație medicală continuă și a taxelor de creditare a formelor de educație medicală continuă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/252766",
+   "versions": [
+    {
+     "from": "2022-03-21",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/252766",
+     "sha256": "26db98dde52e61ca5c01d6e27207f0a397ff0ead267b091b51ccc74d9b3d2976"
+    }
+   ]
+  },
+  {
+   "slug": "hg-245-2003",
+   "short": "HG nr. 245/2003",
+   "title": "Hotărârea Guvernului nr. 245/2003 pentru aprobarea Regulamentului de aplicare a Ordonanței Guvernului nr. 42/1997 privind transportul naval",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/252899",
+   "versions": [
+    {
+     "from": "2003-03-25",
+     "units": 134,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/42524",
+     "sha256": "5337b1378f0e1e74f0347d2d54d2cab7d5585d367303c5a6d3c2e5984b402ad8"
+    },
+    {
+     "from": "2022-04-28",
+     "units": 134,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/252899",
+     "sha256": "7872bab8effa253bc6298b3db0d5d10c4236c367722aaa4dbf56a3fd99abd4c4"
+    }
+   ]
+  },
+  {
+   "slug": "hg-256-2022",
+   "short": "HG nr. 256/2022",
+   "title": "Hotărârea Guvernului nr. 256/2022 privind modificarea unor acte normative în domeniul agriculturii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/251901",
+   "versions": [
+    {
+     "from": "2022-02-24",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/251901",
+     "sha256": "e3b1b0d237c29042cc17b0bf941cd41d19bbb19acabc1a9849c0b4d24258424f"
+    }
+   ]
+  },
+  {
+   "slug": "hg-257-2022",
+   "short": "HG nr. 257/2022",
+   "title": "Hotărârea Guvernului nr. 257/2022 pentru suplimentarea pe anul 2022 a sumei prevăzute ca justă despăgubire, aprobată prin Hotărârea Guvernului nr. 67/2016 privind declanșarea procedurilor de expropriere a imobilelor proprietate privată care constituie coridorul de expropriere al lucrării de utilitate publică de interes național \"Secțiunea 2A Ogra-Câmpia Turzii pe teritoriul localităților Bogata, Chețani, Cucerdea, Cuci, Iernut, Luduș și Ogra din județul Mureș și pe teritoriul localității Luna din județul Cluj din cadrul obiectivului de investiții de interes național «Autostrada Brașov- Târgu Mureș-Cluj-Oradea»\", precum și pentru modificarea și completarea anexei nr. 2 la Hotărârea Guvernului nr. 67/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/251963",
+   "versions": [
+    {
+     "from": "2022-02-28",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/251963",
+     "sha256": "486fa8f6ac75f4ab0a90a9eb7a7afd5d476a1e5904862f0ef7e71df0546bdcd5"
+    }
+   ]
+  },
+  {
+   "slug": "hg-259-2022",
+   "short": "HG nr. 259/2022",
+   "title": "Hotărârea Guvernului nr. 259/2022 pentru modificarea și completarea Normelor metodologice de aplicare a prevederilor Legii securității și sănătății în muncă nr. 319/2006 , aprobate prin Hotărârea Guvernului nr. 1.425/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/252418",
+   "versions": [
+    {
+     "from": "2022-03-07",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/252418",
+     "sha256": "10a9e8f389fa814022dc044ad773481c69f3150825e70c4149a3be2120af631e"
+    }
+   ]
+  },
+  {
+   "slug": "hg-26-2022",
+   "short": "HG nr. 26/2022",
+   "title": "Hotărârea Guvernului nr. 26/2022 pentru aprobarea Normelor privind procedura de alegeri, prin vot la distanță, a membrilor Comisiei de disciplină a Camerei Auditorilor Financiari din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/254279",
+   "versions": [
+    {
+     "from": "2022-04-20",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/254279",
+     "sha256": "98c068f9ef10e977cdb1dd013c58b3c51f9b824b6d2c6d74b77e00e5336e0689"
+    }
+   ]
+  },
+  {
+   "slug": "hg-292-2022",
+   "short": "HG nr. 292/2022",
+   "title": "Hotărârea Guvernului nr. 292/2022 pentru modificarea și completarea Hotărârii Guvernului nr. 717/2009 privind aprobarea normelor de implementare a programului \"Noua casă\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/252345",
+   "versions": [
+    {
+     "from": "2022-03-03",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/252345",
+     "sha256": "b626c2c17333b75eb785512e893ed3c0a35842d5cd1cf0867eb5f6e4b5c6742e"
+    }
+   ]
+  },
+  {
+   "slug": "hg-304-2022",
+   "short": "HG nr. 304/2022",
+   "title": "Hotărârea Guvernului nr. 304/2022 privind acordarea prestațiilor sub forma biletelor de tratament balnear, pentru anul 2022, prin sistemul organizat și administrat de Casa Națională de Pensii Publice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/252392",
+   "versions": [
+    {
+     "from": "2022-03-04",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/252392",
+     "sha256": "86df101d4c265c11c1fe168e733325ddb25128da6bdd084589b8fce24c8f20a7"
+    }
+   ]
+  },
+  {
+   "slug": "hg-337-2022",
+   "short": "HG nr. 337/2022",
+   "title": "Hotărârea Guvernului nr. 337/2022 privind acordarea de gratuități și facilități pentru transportul cetățenilor străini sau apatrizilor aflați în situații deosebite, proveniți din zona conflictului armat din Ucraina",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/252572",
+   "versions": [
+    {
+     "from": "2022-03-12",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/252572",
+     "sha256": "bf7b4ba3324962af6cb8a05fcb84298eeb8e1b30e6dd5ff5dbd5b8311e805ac9"
+    }
+   ]
+  },
+  {
+   "slug": "hg-34-2022",
+   "short": "HG nr. 34/2022",
+   "title": "Hotărârea Guvernului nr. 34/2022 privind prelungirea stării de alertă pe teritoriul României începând cu data de 8 ianuarie 2022, precum și stabilirea măsurilor care se aplică pe durata acesteia pentru prevenirea și combaterea efectelor pandemiei de COVID-19",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/250265",
+   "versions": [
+    {
+     "from": "2022-01-06",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/250265",
+     "sha256": "29e2e6b044fa8a044273db438039c343a951163ee6bc55ebc360ff93c1963b6b"
+    }
+   ]
+  },
+  {
+   "slug": "hg-364-2022",
+   "short": "HG nr. 364/2022",
+   "title": "Hotărârea Guvernului nr. 364/2022 privind modificarea descrierii tehnice și actualizarea valorii de inventar a unui bun imobil aflat în domeniul public al statului și în administrarea Oficiului de Cadastru și Publicitate Imobiliară Galați",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/253364",
+   "versions": [
+    {
+     "from": "2022-03-30",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/253364",
+     "sha256": "b850e61d96aa820a308466bb03b4b98ecf55ae5603bd52101258d013458e94af"
+    }
+   ]
+  },
+  {
+   "slug": "hg-379-2022",
+   "short": "HG nr. 379/2022",
+   "title": "Hotărârea Guvernului nr. 379/2022 privind aprobarea Metodologiei de elaborare, implementare, monitorizare, evaluare și actualizare a strategiilor guvernamentale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/253158",
+   "versions": [
+    {
+     "from": "2022-03-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/253158",
+     "sha256": "f96b6ae2ea47d6015e719b8e9195c90798f3ba62dd8dddcd88b8e8c88d587ed0"
+    }
+   ]
+  },
+  {
+   "slug": "hg-384-2022",
+   "short": "HG nr. 384/2022",
+   "title": "Hotărârea Guvernului nr. 384/2022 pentru aprobarea modului de repartizare și de utilizare a sumelor prevăzute la lit. a) și b) din anexa nr. 3/13/02a la bugetul Secretariatului General al Guvernului, aprobat prin Legea bugetului de stat pe anul 2022 nr. 317/2021",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/253238",
+   "versions": [
+    {
+     "from": "2022-03-28",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/253238",
+     "sha256": "00e41cb7966b6ceedde75b4ed39c89eea9b97d6fc11edf86f9c520a3e51c9c7a"
+    },
+    {
+     "from": "2022-11-03",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/253238",
+     "sha256": "69c1c969c19f8cb526d05855616475b933d221548b7f18cba940a2614a7f3583"
+    }
+   ]
+  },
+  {
+   "slug": "hg-4-2022",
+   "short": "HG nr. 4/2022",
+   "title": "Hotărârea Guvernului nr. 4/2022 privind radierea Societății PROCAPITAL ALLIANCE IFN - S.A. din Registrul general și din Registrul special Instituții Financiare Nebancare și, implicit, interzicerea desfășurării activității de creditare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/253938",
+   "versions": [
+    {
+     "from": "2022-04-14",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/253938",
+     "sha256": "d339c446dae38b285d4e70c16a576f0b2ba4c657de1d0f99deb51db4744b21da"
+    }
+   ]
+  },
+  {
+   "slug": "hg-425-2022",
+   "short": "HG nr. 425/2022",
+   "title": "Hotărârea Guvernului nr. 425/2022 privind transmiterea, fără plată, în proprietatea unității de cult deținătoare, a unui teren aflat în domeniul public al statului și administrarea Secretariatului de Stat pentru Culte",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/253366",
+   "versions": [
+    {
+     "from": "2022-03-30",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/253366",
+     "sha256": "673ff347c5083773c76590444827025fa8b912c9ad4ec931a87db83ae88d7a05"
+    }
+   ]
+  },
+  {
+   "slug": "hg-427-2022",
+   "short": "HG nr. 427/2022",
+   "title": "Hotărârea Guvernului nr. 427/2022 pentru aprobarea Metodologiei de elaborare, monitorizare, raportare și revizuire a planurilor strategice instituționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/253280",
+   "versions": [
+    {
+     "from": "2022-03-29",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/253280",
+     "sha256": "20dc8f5dfa8d31fb80c693d1ccd25d0ff2dfe1665874d2d133f47c8ce6796959"
+    }
+   ]
+  },
+  {
+   "slug": "hg-432-2017",
+   "short": "HG nr. 432/2017",
+   "title": "Hotărârea Guvernului nr. 432/2017 privind echipamentele maritime",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/252085",
+   "versions": [
+    {
+     "from": "2017-07-03",
+     "units": 39,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/190325",
+     "sha256": "fab372b15dc0eaebdafd5760531e00ada97908aec1fa2f6345067dcf210fea45"
+    }
+   ]
+  },
+  {
+   "slug": "hg-44-2022",
+   "short": "HG nr. 44/2022",
+   "title": "Hotărârea Guvernului nr. 44/2022 privind modificarea și completarea anexei la Hotărârea Consiliului național al Colegiului Fizioterapeuților din România nr. 92/2020 pentru aprobarea Procedurilor și criteriilor de evaluare a activităților de educație medicală continuă, precum și a criteriilor și normelor de acreditare, respectiv creditare a furnizorilor și formelor de educație medicală continuă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/255413",
+   "versions": [
+    {
+     "from": "2022-05-13",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/255413",
+     "sha256": "c39b60ff27133684a7e5cd328fe8d018ede9595519931fff55da8458e96e2cbc"
+    }
+   ]
+  },
+  {
+   "slug": "hg-441-2022",
+   "short": "HG nr. 441/2022",
+   "title": "Hotărârea Guvernului nr. 441/2022 pentru aprobarea normelor metodologice privind crearea, amenajarea și omologarea traseelor de cicloturism",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/253521",
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/253521",
+     "sha256": "61518a8976546a38556c411ecdacbc3dbd410e39a6044e95f5a3acf577f4619c"
+    }
+   ]
+  },
+  {
+   "slug": "hg-494-2022",
+   "short": "HG nr. 494/2022",
+   "title": "Hotărârea Guvernului nr. 494/2022 pentru modificarea Hotărârii Guvernului nr. 336/2022 privind stabilirea mecanismului de decontare din bugetul inspectoratelor județene pentru situații de urgență/Inspectoratului pentru Situații de Urgență București-Ilfov a cheltuielilor cu hrana cetățenilor străini sau apatrizilor aflați în situații deosebite, proveniți din zona conflictului armat din Ucraina, găzduiți de persoane fizice, precum și pentru alocarea unei sume din Fondul de rezervă bugetară la dispoziția Guvernului, prevăzut în bugetul de stat pe anul 2022, pentru suplimentarea bugetului Ministerului Afacerilor Interne",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/253758",
+   "versions": [
+    {
+     "from": "2022-04-08",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/253758",
+     "sha256": "4a38895a0beec2da531cf2fea85adb55efc21d7522075d7c9b9342db5dc72e2e"
+    }
+   ]
+  },
+  {
+   "slug": "hg-512-2022",
+   "short": "HG nr. 512/2022",
+   "title": "Hotărârea Guvernului nr. 512/2022 pentru modificarea și completarea Normelor referitoare la proveniența, circulația și comercializarea materialelor lemnoase, la regimul spațiilor de depozitare a materialelor lemnoase și al instalațiilor de prelucrat lemn rotund, precum și a celor privind proveniența și circulația materialelor lemnoase destinate consumului propriu al proprietarului și a unor măsuri de aplicare a prevederilor Regulamentului (UE) nr. 995/2010 al Parlamentului European și al Consiliului din 20 octombrie 2010 de stabilire a obligațiilor care revin operatorilor care introduc pe piață lemn și produse din lemn, aprobate prin Hotărârea Guvernului nr. 497/2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/254287",
+   "versions": [
+    {
+     "from": "2022-04-20",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/254287",
+     "sha256": "3af0b18efcb2c013124964e1eef5ac62e0bd59f022fb70c38606224f930af848"
+    }
+   ]
+  },
+  {
+   "slug": "hg-566-2022",
+   "short": "HG nr. 566/2022",
+   "title": "Hotărârea Guvernului nr. 566/2022 privind aprobarea Metodologiei de organizare și funcționare a creșelor și a altor unități de educație timpurie antepreșcolară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/254657",
+   "versions": [
+    {
+     "from": "2022-05-04",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/254657",
+     "sha256": "74253408eb632f266c665967756d76a93dc68653a9599c4fcf8c3d9c6064beed"
+    }
+   ]
+  },
+  {
+   "slug": "hg-578-2022",
+   "short": "HG nr. 578/2022",
+   "title": "Hotărârea Guvernului nr. 578/2022 privind modificarea și completarea Hotărârii Guvernului nr. 1.153/2001 pentru aprobarea Normelor metodologice de aplicare a prevederilor Legii nr. 34/1998 privind acordarea unor subvenții asociațiilor și fundațiilor române cu personalitate juridică, care înființează și administrează unități de asistență socială",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/254635",
+   "versions": [
+    {
+     "from": "2022-05-04",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/254635",
+     "sha256": "019d7f66ad6d4b774d30ba043d4450df8058f2f01314320f6c71be667478e08a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-61-2021",
+   "short": "HG nr. 61/2021",
+   "title": "Hotărârea Guvernului nr. 61/2021 pentru aprobarea Procedurii de înscriere în Registrul furnizorilor de servicii psihologice privind desfășurarea activității profesionale de intervenție psihologică pentru persoanele diagnosticate cu tulburări din spectrul autist",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/249025",
+   "versions": [
+    {
+     "from": "2021-12-07",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/249025",
+     "sha256": "c2c70fd5b30060213ae7098e4737a80f47e6c60d1156810b0b269ea98a66f371"
+    }
+   ]
+  },
+  {
+   "slug": "hg-635-2022",
+   "short": "HG nr. 635/2022",
+   "title": "Hotărârea Guvernului nr. 635/2022 privind procedura de consultare a structurilor asociative ale autorităților administrației publice locale la elaborarea proiectelor de acte normative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/255487",
+   "versions": [
+    {
+     "from": "2022-05-17",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/255487",
+     "sha256": "4e4c9d51a5bcc762f70156b904604edccde48e11dd1f3d65ecf238c497e9c886"
+    }
+   ]
+  },
+  {
+   "slug": "hg-642-2022",
+   "short": "HG nr. 642/2022",
+   "title": "Hotărârea Guvernului nr. 642/2022 privind actualizarea valorii de inventar a unui bun imobil aflat în anexa nr. 10 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului, aflat în domeniul public al statului și administrarea Autorității Naționale de Reglementare pentru Serviciile Comunitare de Utilități Publice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/255589",
+   "versions": [
+    {
+     "from": "2022-05-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/255589",
+     "sha256": "370c9b14b35592f0fccfffca0e0c06c29c0f40964b83966263b2c9839c2ab61f"
+    }
+   ]
+  },
+  {
+   "slug": "hg-650-2022",
+   "short": "HG nr. 650/2022",
+   "title": "Hotărârea Guvernului nr. 650/2022 privind modificarea descrierii tehnice și actualizarea valorii de inventar a bunurilor imobile aflate în domeniul public al statului și în administrarea Oficiului de Cadastru și Publicitate Imobiliară Gorj",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/255590",
+   "versions": [
+    {
+     "from": "2022-05-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/255590",
+     "sha256": "0ee0a5de176e427e504d058eacfe6f0d6655a2401e0d06d8fccf3e0f4c8c7f60"
+    }
+   ]
+  },
+  {
+   "slug": "hg-654-2022",
+   "short": "HG nr. 654/2022",
+   "title": "Hotărârea Guvernului nr. 654/2022 privind înscrierea în inventarul centralizat al bunurilor din domeniul public al statului a unor bunuri și darea acestora în administrarea Regiei Autonome \"Administrația Fluvială a Dunării de Jos\" Galați, unitate aflată sub autoritatea Ministerului Transporturilor și Infrastructurii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/255591",
+   "versions": [
+    {
+     "from": "2022-05-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/255591",
+     "sha256": "7844a5fdf50ac2ed0be853d306d149f21097d9e7a3162c3d297021d5a3b86b30"
+    }
+   ]
+  },
+  {
+   "slug": "hg-685-2022",
+   "short": "HG nr. 685/2022",
+   "title": "Hotărârea Guvernului nr. 685/2022 privind instituirea regimului de arie naturală protejată și declararea ariilor speciale de conservare ca parte integrantă a rețelei ecologice europene Natura 2000 în România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/255751",
+   "versions": [
+    {
+     "from": "2022-05-27",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/255751",
+     "sha256": "76f389ad54b505ee5785de8b18a38058839e569b69cb0506a8bb0d208f3eb03a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-69-2022",
+   "short": "HG nr. 69/2022",
+   "title": "Hotărârea Guvernului nr. 69/2022 pentru aprobarea Notei de fundamentare privind necesitatea și oportunitatea efectuării cheltuielilor aferente proiectului de investiții \"Operaționalizarea Sistemului informatic de monitorizare electronică\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/250459",
+   "versions": [
+    {
+     "from": "2022-01-13",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/250459",
+     "sha256": "7c50a21debc0e5c628044593350bdcf301a9ce109c2c1bc85b64d5eff2d6f569"
+    }
+   ]
+  },
+  {
+   "slug": "hg-694-2022",
+   "short": "HG nr. 694/2022",
+   "title": "Hotărârea Guvernului nr. 694/2022 privind aprobarea scoaterii din rezervele de stat și acordarea de către România a unui ajutor umanitar extern de urgență, cu titlu gratuit, pentru Republica Ucraina, pentru protecția populației refugiate în contextul escaladării conflictului de pe teritoriul ucrainean",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/255740",
+   "versions": [
+    {
+     "from": "2022-05-26",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/255740",
+     "sha256": "f4dcc49214359bf4ce2638ca5f0b9f13c1ef37ded75531385791ac4eee3ddb7b"
+    }
+   ]
+  },
+  {
+   "slug": "hg-7-2022",
+   "short": "HG nr. 7/2022",
+   "title": "Hotărârea Guvernului nr. 7/2022 privind alegerea președintelui, prim-vicepreședintelui și a vicepreședinților Consiliului superior al Camerei Consultanților Fiscali",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/254539",
+   "versions": [
+    {
+     "from": "2022-04-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/254539",
+     "sha256": "0c2450d0b35fb42c750b4f650a144efb90b989120bf0e31b735b2cc4421947ee"
+    }
+   ]
+  },
+  {
+   "slug": "hg-72-2021",
+   "short": "HG nr. 72/2021",
+   "title": "Hotărârea Guvernului nr. 72/2021 privind conținutul și forma diplomelor și certificatelor de absolvire a programelor de formare profesională ale psihologilor cu drept de liberă practică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/250561",
+   "versions": [
+    {
+     "from": "2022-01-18",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/250561",
+     "sha256": "e035dce3efe2ffdd2acf562fe4f3136b4493c96b2aadd4cab088c686cec31389"
+    }
+   ]
+  },
+  {
+   "slug": "hg-776-2010",
+   "short": "HG nr. 776/2010",
+   "title": "Hotărârea Guvernului nr. 776/2010 privind organizarea și funcționarea direcțiilor județene pentru sport și tineret, respectiv a Direcției pentru Sport și Tineret a Municipiului București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/121289",
+   "versions": [
+    {
+     "from": "2010-08-09",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/121289",
+     "sha256": "96c00483cc7229d5cc5d925e2e0cc5117abcbe2349efca8705a68836d8d74f7f"
+    }
+   ]
+  },
+  {
+   "slug": "hg-870-2006",
+   "short": "HG nr. 870/2006",
+   "title": "Hotărârea Guvernului nr. 870/2006 privind aprobarea Strategiei pentru îmbunătățirea sistemului de elaborare, coordonare și planificare a politicilor publice la nivelul administrației publice centrale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73751",
+   "versions": [
+    {
+     "from": "2006-07-24",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/73751",
+     "sha256": "41d4c5faed64da77b9be1c4b0504ee6c8ff34bb1304d416a145a77ad45767c21"
+    }
+   ]
+  },
+  {
+   "slug": "hg-91-2022",
+   "short": "HG nr. 91/2022",
+   "title": "Hotărârea Guvernului nr. 91/2022 referitoare la propunerea de Regulament al Parlamentului European și al Consiliului de modificare și rectificare a Regulamentului (UE) nr. 508/2014 în ceea ce privește anumite măsuri specifice pentru atenuarea consecințelor agresiunii militare a Rusiei împotriva Ucrainei asupra activităților de pescuit și pentru diminuarea efectelor perturbării pieței cauzate de respectiva agresiune militară asupra lanțului de aprovizionare cu produse pescărești și din acvacultură - COM(2022) 179 final",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/256601",
+   "versions": [
+    {
+     "from": "2022-06-21",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/256601",
+     "sha256": "070207f918eb994d60234c6273351e8485b46799fe069f0e384ead46864d1a32"
+    }
+   ]
+  },
+  {
+   "slug": "hg-92-2022",
+   "short": "HG nr. 92/2022",
+   "title": "Hotărârea Guvernului nr. 92/2022 referitoare la propunerea de Directivă a Parlamentului European și a Consiliului privind diligența necesară în materie de durabilitate a întreprinderilor și de modificare a Directivei (UE) 2019/1.937 - COM(2022) 71 final",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/256602",
+   "versions": [
+    {
+     "from": "2022-06-21",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/256602",
+     "sha256": "e9bd62fe76247395ee5dd4eff35c4f6c245af2374f232e0a11cff7724115f159"
+    }
+   ]
+  },
+  {
    "slug": "legea-100-2024",
    "short": "Legea nr. 100/2024",
    "title": "Legea nr. 100/2024 pentru modificarea și completarea unor acte normative în domeniul asistenței sociale, precum și pentru completarea Legii nr. 78/2014 privind reglementarea activității de voluntariat în România și pentru modificarea Legii nr. 272/2004 privind protecția și promovarea drepturilor copilului",
@@ -16086,6 +16966,34 @@
    ]
   },
   {
+   "slug": "og-14-2024",
+   "short": "OG nr. 14/2024",
+   "title": "Ordonanța Guvernului nr. 14/2024 pentru modificarea și completarea Ordonanței Guvernului nr. 15/2002 privind aplicarea tarifului de utilizare și a tarifului de trecere pe rețeaua de drumuri naționale din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/278498",
+   "versions": [
+    {
+     "from": "2024-03-11",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/278498",
+     "sha256": "2a27d74c046b6305bc0513509d2085368cb8f1921427d0215f4a5deae8e9c0a5"
+    }
+   ]
+  },
+  {
+   "slug": "og-15-2022",
+   "short": "OG nr. 15/2022",
+   "title": "Ordonanța Guvernului nr. 15/2022 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 77/2009 privind organizarea și exploatarea jocurilor de noroc",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/257588",
+   "versions": [
+    {
+     "from": "2022-07-18",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/257588",
+     "sha256": "7d5e35181b07323906ebaacec9e117b0408dc0f98c9eac83d25c8d692d687cfd"
+    }
+   ]
+  },
+  {
    "slug": "og-15-2023",
    "short": "OG nr. 15/2023",
    "title": "Ordonanța Guvernului nr. 15/2023 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 166/2022 privind unele măsuri pentru acordarea unui sprijin categoriilor de persoane vulnerabile pentru compensarea prețului la energie, suportat parțial din fonduri externe nerambursabile",
@@ -16114,6 +17022,54 @@
    ]
   },
   {
+   "slug": "og-17-2022",
+   "short": "OG nr. 17/2022",
+   "title": "Ordonanța Guvernului nr. 17/2022 pentru modificarea și completarea Legii nr. 263/2004 privind asigurarea continuității asistenței medicale primare prin centrele de permanență",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/258275",
+   "versions": [
+    {
+     "from": "2022-08-07",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/258275",
+     "sha256": "1261cecdc61b32942b57b0cb45d038ecfa16a92a290851b3804358850b082410"
+    }
+   ]
+  },
+  {
+   "slug": "og-18-2022",
+   "short": "OG nr. 18/2022",
+   "title": "Ordonanța Guvernului nr. 18/2022 privind autorizarea și funcționarea în România a reprezentanțelor societăților și organizațiilor economice străine",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/258281",
+   "versions": [
+    {
+     "from": "2022-08-07",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/258281",
+     "sha256": "fdfefa09f0eb2cbd5339e37f96ad4c31b3c627db5eef4d4d7adb6e0cd4572c49"
+    }
+   ]
+  },
+  {
+   "slug": "og-18-2023",
+   "short": "OG nr. 18/2023",
+   "title": "Ordonanța Guvernului nr. 18/2023 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 47/2022 privind ajustarea prețurilor contractelor de achiziție publică/contractelor sectoriale/ contractelor de concesiune/acordurilor-cadru",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/268320",
+   "versions": [
+    {
+     "from": "2023-02-03",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/264510",
+     "sha256": "7a605ff5db3901c7684a420e91fe7a7713a6271c68ff6a000b6f8808ef863955"
+    },
+    {
+     "from": "2023-07-27",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/268320",
+     "sha256": "818d652cd8327cd16cd01ebe627b29b2794ebd0e3a9b7600ed151e69c692daa7"
+    }
+   ]
+  },
+  {
    "slug": "og-19-2019",
    "short": "OG nr. 19/2019",
    "title": "Ordonanța Guvernului nr. 19/2019 pentru modificarea și completarea Legii nr. 207/2015 privind Codul de procedură fiscală",
@@ -16130,6 +17086,40 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/217293",
      "sha256": "9265106e6dbc856e73c1aa84409c98ed27ac23c6fb702c4cb3a4ca615ac42c7d"
+    }
+   ]
+  },
+  {
+   "slug": "og-19-2023",
+   "short": "OG nr. 19/2023",
+   "title": "Ordonanța Guvernului nr. 19/2023 pentru modificarea art. 16 din Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, precum și pentru completarea art. 5 din Ordonanța de urgență a Guvernului nr. 155/2020 privind unele măsuri pentru elaborarea Planului național de redresare și reziliență necesar României pentru accesarea de fonduri externe rambursabile și nerambursabile în cadrul Mecanismului de redresare și reziliență",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/264511",
+   "versions": [
+    {
+     "from": "2023-02-03",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/264511",
+     "sha256": "bf3f8240a8e4df92b977fa22675dbcc16541c2631f749ec9446699d2700b53e8"
+    }
+   ]
+  },
+  {
+   "slug": "og-2-2021",
+   "short": "OG nr. 2/2021",
+   "title": "Ordonanța Guvernului nr. 2/2021 privind depozitarea deșeurilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/245381",
+   "versions": [
+    {
+     "from": "2021-08-21",
+     "units": 41,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/245381",
+     "sha256": "bf74464447334f9b0dbd6dd42ada3aee8ba8b5aca102d0bc9eac42f1eb446986"
+    },
+    {
+     "from": "2023-11-03",
+     "units": 41,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/269183",
+     "sha256": "c90a8ab073e50da622dd9a5e940a7e033a93be40176731c16561c3202731750c"
     }
    ]
   },
@@ -16154,6 +17144,142 @@
    ]
   },
   {
+   "slug": "og-22-2023",
+   "short": "OG nr. 22/2023",
+   "title": "Ordonanța Guvernului nr. 22/2023 pentru modificarea și completarea art. I din Ordonanța de urgență a Guvernului nr. 109/2022 privind unele măsuri pentru proiectele de infrastructură de apă și apă uzată finanțate din fonduri europene și pentru modificarea unor acte normative, precum și pentru modificarea art. 9 din Ordonanța de urgență a Guvernului nr. 40/2015 privind gestionarea financiară a fondurilor europene pentru perioada de programare 2014-2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/272422",
+   "versions": [
+    {
+     "from": "2023-07-16",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/272125",
+     "sha256": "8c0aff51f42306d42074618d685b056ef4051901b0bc1915031f2c77765f12a5"
+    },
+    {
+     "from": "2023-07-25",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/272422",
+     "sha256": "735bdb5471907ec7207137fbfe146696792991e923332a5a723fbc6d4b3480d8"
+    }
+   ]
+  },
+  {
+   "slug": "og-22-2025",
+   "short": "OG nr. 22/2025",
+   "title": "Ordonanța Guvernului nr. 22/2025 pentru modificarea și completarea Legii nr. 227/2015 privind Codul fiscal",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/301801",
+   "versions": [
+    {
+     "from": "2025-09-01",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/301801",
+     "sha256": "e6fe75237524ecf9a21c61b6c9a653bc5307bff7e7a68e0113259ac62531cab1"
+    }
+   ]
+  },
+  {
+   "slug": "og-26-2023",
+   "short": "OG nr. 26/2023",
+   "title": "Ordonanța Guvernului nr. 26/2023 pentru modificarea art. 942 din Legea nr. 95/2006 privind reforma în domeniul sănătății și pentru modificarea și completarea Legii nr. 293/2022 pentru prevenirea și combaterea cancerului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273359",
+   "versions": [
+    {
+     "from": "2023-07-30",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/273359",
+     "sha256": "920855f846d4866751828b50810de40a8e04559c58608ffc1d81688f8e19a524"
+    }
+   ]
+  },
+  {
+   "slug": "og-27-2022",
+   "short": "OG nr. 27/2022",
+   "title": "Ordonanța Guvernului nr. 27/2022 privind reglementarea unor măsuri financiare prin instituirea schemei de ajutor de minimis în vederea tranziției către economia circulară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/258656",
+   "versions": [
+    {
+     "from": "2022-09-25",
+     "units": 32,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/258656",
+     "sha256": "bce171bebe3f69e682d6fd501dd6b90b12a35098eb83ad068fc3444831dd1733"
+    }
+   ]
+  },
+  {
+   "slug": "og-27-2024",
+   "short": "OG nr. 27/2024",
+   "title": "Ordonanța Guvernului nr. 27/2024 privind condițiile de obținere a atestatului, procedura de atestare și statutul asistentului maternal",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/286772",
+   "versions": [
+    {
+     "from": "2024-08-12",
+     "units": 31,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/286772",
+     "sha256": "7fbba44ebed93eb28a6233f99f90ee8cf5431239076f88b2273f8e2a6ef63e17"
+    },
+    {
+     "from": "2024-12-26",
+     "units": 32,
+     "source_url": "https://legislatie.just.ro/public/DetaliiDocument/286772",
+     "sha256": "938d9cb3abb4fb1bc91b7230e819dd3f73053b402abe76063c852f78e4c319db"
+    }
+   ]
+  },
+  {
+   "slug": "og-29-2023",
+   "short": "OG nr. 29/2023",
+   "title": "Ordonanța Guvernului nr. 29/2023 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 195/2002 privind circulația pe drumurile publice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273662",
+   "versions": [
+    {
+     "from": "2023-08-13",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/273662",
+     "sha256": "e357fd4655f1349956c78f143441acfd4cf25cc9dead8076b464d7fdac291703"
+    }
+   ]
+  },
+  {
+   "slug": "og-3-2021",
+   "short": "OG nr. 3/2021",
+   "title": "Ordonanța Guvernului nr. 3/2021 pentru modificarea și completarea unor acte normative în domeniul achizițiilor publice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/245872",
+   "versions": [
+    {
+     "from": "2021-08-30",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/245872",
+     "sha256": "481b4d93b1de67355faf593f10f763ccdaaf120a2d73c496ac96a88e38b06639"
+    },
+    {
+     "from": "2022-11-06",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/260196",
+     "sha256": "d5bc819e6d56fd0277f82fe77dfd68b417de1b224e499deeae86b137fd8d6821"
+    }
+   ]
+  },
+  {
+   "slug": "og-3-2022",
+   "short": "OG nr. 3/2022",
+   "title": "Ordonanța Guvernului nr. 3/2022 pentru modificarea și completarea Legii nr. 265/2008 privind gestionarea siguranței circulației pe infrastructura rutieră",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/282208",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/251230",
+     "sha256": "acc6530df1b69974180eb5f248a9c4288c091213d4c0a82aca014582da3312ab"
+    },
+    {
+     "from": "2024-05-16",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/282208",
+     "sha256": "401da4b4a0f98c4bf08b7e1f071494cd3b219975e94c6ad05ac67b87b3e37cc7"
+    }
+   ]
+  },
+  {
    "slug": "og-30-2017",
    "short": "OG nr. 30/2017",
    "title": "Ordonanța Guvernului nr. 30/2017 pentru modificarea și completarea Legii nr. 207/2015 privind Codul de procedură fiscală",
@@ -16174,6 +17300,20 @@
    ]
   },
   {
+   "slug": "og-30-2024",
+   "short": "OG nr. 30/2024",
+   "title": "Ordonanța Guvernului nr. 30/2024 privind autorizarea operatorilor economici din domeniul feroviar, al transportului cu metroul, metroul ușor, monorai și al transportului urban, suburban și regional pe șine, pe linii ferate industriale și pe căile ferate cu caracter de patrimoniu, de muzeu sau turistic",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/287385",
+   "versions": [
+    {
+     "from": "2024-08-17",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/287385",
+     "sha256": "befa02a332eae62f37d8864122c55b6a062b8ae40bb3cc737f339bc9b8cc7e3d"
+    }
+   ]
+  },
+  {
    "slug": "og-31-2022",
    "short": "OG nr. 31/2022",
    "title": "Ordonanța Guvernului nr. 31/2022 pentru modificarea și completarea Legii nr. 207/2015 privind Codul de procedură fiscală",
@@ -16184,6 +17324,102 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/258756",
      "sha256": "ee5d2428037c2f0d044990c21fd58f3b366e6dfd9c60bab18d76c707e7f546f3"
+    }
+   ]
+  },
+  {
+   "slug": "og-35-2023",
+   "short": "OG nr. 35/2023",
+   "title": "Ordonanța Guvernului nr. 35/2023 pentru modificarea Legii monumentelor de for public nr. 120/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/274119",
+   "versions": [
+    {
+     "from": "2023-09-03",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/274119",
+     "sha256": "0d9dfab21baa0bfd3d7342499b2aad7cb14820b39daa8d995f43ab23025d0d76"
+    }
+   ]
+  },
+  {
+   "slug": "og-38-2023",
+   "short": "OG nr. 38/2023",
+   "title": "Ordonanța Guvernului nr. 38/2023 pentru modificarea și completarea Legii nr. 119/1996 cu privire la actele de stare civilă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/274157",
+   "versions": [
+    {
+     "from": "2023-09-04",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/274157",
+     "sha256": "aa8c85a7eaf9caf6048898fcafd766576b136f7a718aca3dcf30d6339f8fdbb1"
+    }
+   ]
+  },
+  {
+   "slug": "og-39-2023",
+   "short": "OG nr. 39/2023",
+   "title": "Ordonanța Guvernului nr. 39/2023 pentru modificarea și completarea Legii nr. 249/2020 privind prevenția și depistarea precoce a diabetului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/274176",
+   "versions": [
+    {
+     "from": "2023-09-04",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/274176",
+     "sha256": "13ddead7ea2a126da4d222c35dff01460b4bc6f900d85fd8fe6333550ac7775e"
+    },
+    {
+     "from": "2024-04-14",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/274176",
+     "sha256": "755f6337b99931c0ecf83b164566f22a992b9a5db0697b915d9275f6d5655718"
+    }
+   ]
+  },
+  {
+   "slug": "og-4-2024",
+   "short": "OG nr. 4/2024",
+   "title": "Ordonanța Guvernului nr. 4/2024 pentru modificarea și completarea Ordonanței Guvernului nr. 43/1997 privind regimul drumurilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/278296",
+   "versions": [
+    {
+     "from": "2024-01-22",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/278296",
+     "sha256": "efc1546b92e63f02679b8b5bfe2d7a953e5501cf2474d42b73f1afc515ce1d76"
+    },
+    {
+     "from": "2024-06-03",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/public/DetaliiDocument/278296",
+     "sha256": "3d339be47f3392dc0c3e78ff81480daea5e4e1f3d62c2854d0ac28b54c544129"
+    }
+   ]
+  },
+  {
+   "slug": "og-40-2023",
+   "short": "OG nr. 40/2023",
+   "title": "Ordonanța Guvernului nr. 40/2023 pentru modificarea Legii nr. 152/2020 privind organizarea și finanțarea serviciilor de promovare a sănătății și prevenire a îmbolnăvirilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/274177",
+   "versions": [
+    {
+     "from": "2023-09-04",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/274177",
+     "sha256": "2257e4c23ea18e0113e66dcfa314e0cf6091abf67588da0432d525b8b20ca6a5"
+    }
+   ]
+  },
+  {
+   "slug": "og-44-2024",
+   "short": "OG nr. 44/2024",
+   "title": "Ordonanța Guvernului nr. 44/2024 pentru modificarea și completarea unor acte normative și stabilirea unor măsuri în domeniul sănătății",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/287881",
+   "versions": [
+    {
+     "from": "2024-09-02",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/287881",
+     "sha256": "5d27622f9aaee247392c11f1bf35b12ad4cadf260e65e66a12296a2f0a0bc266"
     }
    ]
   },
@@ -16224,6 +17460,108 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/264044",
      "sha256": "b88bf3a387af81c077a0c50aa30286dc59dd09a7ace81681e3ae0e02a9e146a3"
+    }
+   ]
+  },
+  {
+   "slug": "og-6-2025",
+   "short": "OG nr. 6/2025",
+   "title": "Ordonanța Guvernului nr. 6/2025 privind stabilirea unor măsuri pentru implementarea programelor naționale din domeniul lucrărilor publice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/297187",
+   "versions": [
+    {
+     "from": "2025-02-03",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/294174",
+     "sha256": "9d8ba6d7a2c960b0eefe1d03c625cc130cebb18cc120fc5f39cc74017efd58fa"
+    },
+    {
+     "from": "2025-05-15",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/297187",
+     "sha256": "1150b30fb9373962a8841b6a377c0e65e08e7c99b85cba34592573206764e39f"
+    }
+   ]
+  },
+  {
+   "slug": "og-7-2022",
+   "short": "OG nr. 7/2022",
+   "title": "Ordonanța Guvernului nr. 7/2022 pentru modificarea și completarea Ordonanței Guvernului nr. 25/2001 privind înființarea Companiei Naționale de Investiții \"C.N.I.\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/257225",
+   "versions": [
+    {
+     "from": "2022-02-03",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/251249",
+     "sha256": "8979ed8b77d44997ffc02d1a2b690bc6eb07666b9770a733c9870a30969694cb"
+    },
+    {
+     "from": "2022-07-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/257225",
+     "sha256": "a4c23d90c354edc98aee290fc590460e2adb8daf6e2138a519b3ee8b0aa11a1f"
+    }
+   ]
+  },
+  {
+   "slug": "og-8-2022",
+   "short": "OG nr. 8/2022",
+   "title": "Ordonanța Guvernului nr. 8/2022 privind interoperabilitatea sistemelor de tarifare rutieră electronică și facilitarea schimbului transfrontalier de informații cu privire la neplata tarifelor rutiere",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/258124",
+   "versions": [
+    {
+     "from": "2022-02-03",
+     "units": 25,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/251250",
+     "sha256": "3ac65bd081aaf85266e7d9c3b363d4669b7f10835244582a13be048972933f8a"
+    }
+   ]
+  },
+  {
+   "slug": "og-8-2023",
+   "short": "OG nr. 8/2023",
+   "title": "Ordonanța Guvernului nr. 8/2023 pentru modificarea și completarea Legii nr. 422/2001 privind protejarea monumentelor istorice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/264385",
+   "versions": [
+    {
+     "from": "2023-01-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/264385",
+     "sha256": "4182a6c5a7610882fd3ae1642c5a76a0f52a78523db8734adf98a2ea4dd7ee6f"
+    },
+    {
+     "from": "2024-04-14",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/280855",
+     "sha256": "b802fe8a660f2b143e59e9707d2d071131acc0038ccd3f041fbd8280cffe0a50"
+    }
+   ]
+  },
+  {
+   "slug": "og-8-2025",
+   "short": "OG nr. 8/2025",
+   "title": "Ordonanța Guvernului nr. 8/2025 pentru modificarea și completarea Legii nr. 152/1998 privind înființarea Agenției Naționale pentru Locuințe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/294175",
+   "versions": [
+    {
+     "from": "2025-02-03",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/294175",
+     "sha256": "598d363839cc6eb190eed7275f5d03f3066f53bdf6e8ee1c379854fc627d9a74"
+    }
+   ]
+  },
+  {
+   "slug": "og-9-2024",
+   "short": "OG nr. 9/2024",
+   "title": "Ordonanța Guvernului nr. 9/2024 pentru modificarea Ordonanței de urgență a Guvernului nr. 97/2005 privind evidența, domiciliul, reședința și actele de identitate ale cetățenilor români",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/278445",
+   "versions": [
+    {
+     "from": "2024-01-28",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/278445",
+     "sha256": "5d91393c6876c375a531be8702422701e5d7b46a7f9f4320cdea6325deb8eaaa"
     }
    ]
   },

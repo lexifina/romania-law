@@ -38,7 +38,10 @@ def register(P):
                        'European Union, 1 January 2007',
                 'read': 'art. 862: "Următoarele prevederi ale prezentului titlu se abrogă la data aderării României la '
                         'Uniunea Europeană: - art. 700 alin. (2); - art. 730 alin. (3); - art. 733; - art. 735 alin. '
-                        '(2); - art. 787 alin. (1)."; the form of 01.01.2007 leaves art. 733 out.'},
+                        '(2); - art. 787 alin. (1)."; the form of 01.01.2007 leaves art. 733 out.',
+                'repeals': {'78339': ('art-733',)},
+                'cite': 'Art. 733 a fost abrogat de art. 862 din LEGEA nr. 95 din 14 aprilie 2006, publicată în '
+                        'MONITORUL OFICIAL nr. 372 din 28 aprilie 2006'},
         },
         'decisions': DECISIONS,
     }

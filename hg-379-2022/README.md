@@ -1,0 +1,8 @@
+# Hotărârea Guvernului nr. 379/2022 privind aprobarea Metodologiei de elaborare, implementare, monitorizare, evaluare și actualizare a strategiilor guvernamentale
+
+HG nr. 379/2022 · 1 versions, from 2022-03-24 (latest in force: 2022-03-24) · <https://legislatie.just.ro/Public/DetaliiDocument/253158>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Art. 1 | [art-001.md](art-001.md) | 0 |  |
+| Art. 2 | [art-002.md](art-002.md) | 0 |  |
