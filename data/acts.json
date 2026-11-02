@@ -11154,6 +11154,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/303488"
 },
 {
+"slug": "legea-159-2025",
+"path": "lege/2025/159",
+"kind": "lege",
+"year": "2025",
+"number": "159",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 159/2025 pentru modificarea și completarea Legii nr. 95/2006 privind reforma în domeniul sănătății",
+"short": "Legea nr. 159/2025",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2026-04-22",
+"latest": "2026-04-22",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/303616"
+},
+{
 "slug": "legea-199-2025",
 "path": "lege/2025/199",
 "kind": "lege",

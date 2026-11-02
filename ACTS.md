@@ -1,6 +1,6 @@
 # Every act in this repository
 
-1444 acts, 6,634 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+1445 acts, 6,635 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -30,7 +30,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (663, of which 375 amending acts)
+## Laws (legi) (664, of which 376 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -689,6 +689,7 @@
 | Legea nr. 149/2025 pentru completarea art. 118^1 din Legea nr. 53/2003 - Codul muncii | [`lege/2025/149/`](lege/2025/149/) | amending act | 1 | 2025-10-12 | 2025-10-12 |
 | Legea nr. 152/2025 privind aprobarea Ordonanței de urgență a Guvernului nr. 61/2024 pentru modificarea și completarea Legii nr. 146/2021 privind monitorizarea electronică în cadrul unor proceduri judiciare și execuțional penale | [`lege/2025/152/`](lege/2025/152/) | amending act | 1 | 2025-10-16 | 2025-10-16 |
 | Legea nr. 156/2025 pentru modificarea și completarea Legii nr. 319/2024 privind stabilirea unor măsuri pentru punerea în aplicare a Convenției privind combaterea coruperii funcționarilor publici străini în cadrul operațiunilor economice internaționale, adoptată la Paris la 21 noiembrie 1997, precum și pentru completarea Legii nr. 302/2004 privind cooperarea judiciară internațională în materie penală | [`lege/2025/156/`](lege/2025/156/) | amending act | 1 | 2025-10-19 | 2025-10-19 |
+| Legea nr. 159/2025 pentru modificarea și completarea Legii nr. 95/2006 privind reforma în domeniul sănătății | [`lege/2025/159/`](lege/2025/159/) | amending act | 1 | 2026-04-22 | 2026-04-22 |
 | Legea nr. 199/2025 pentru completarea art. 29 din Ordonanța de urgență a Guvernului nr. 80/2013 privind taxele judiciare de timbru | [`lege/2025/199/`](lege/2025/199/) | amending act | 1 | 2025-12-01 | 2025-12-01 |
 | Legea nr. 206/2025 acvaculturii | [`lege/2025/206/`](lege/2025/206/) | in force | 1 | 2025-12-07 | 2025-12-07 |
 | Legea nr. 207/2025 pentru modificarea art. 22 din Legea nr. 10/1995 privind calitatea în construcții, precum și pentru completarea art. 26 din Legea cadastrului și a publicității imobiliare nr. 7/1996 | [`lege/2025/207/`](lege/2025/207/) | amending act | 1 | 2025-12-11 | 2025-12-11 |
