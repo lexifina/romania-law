@@ -11,7 +11,7 @@ TITLE = 'Legea nr. 1/2005 privind organizarea și funcționarea cooperației'
 def register(P):
     P.ACTS[SLUG] = {
         **P.P6, 'part': '9z-legea-1-2005', 'short': 'Legea nr. 1/2005', 'pad': 3, 'cc_forms': True,
-        'trailing_notes': True,
+        'trailing_notes': True, 'count_afis_ia': True,
         'title': TITLE,
         'url': P.PORTAL + 'DetaliiDocument/59553',
         'in_force': '2005-03-03', 'first_law': SLUG,
