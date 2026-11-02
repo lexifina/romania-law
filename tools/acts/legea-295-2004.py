@@ -10,6 +10,7 @@ def register(P):
     P.ACTS[SLUG] = {
         **P.P6, 'part': '9z-legea-295-2004', 'short': 'Legea nr. 295/2004', 'pad': 3, 'cc_forms': True,
         'hg_notes': True, 'trailing_notes': True, 'sign_tail': True, 'quoted_articles': True, 'titles': False,
+        'typeset_notes': True,
         'root_word': 'act page',
         'title': 'Legea nr. 295/2004 privind regimul armelor și al munițiilor',
         'url': P.PORTAL + 'DetaliiDocument/53150',
