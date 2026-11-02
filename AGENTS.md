@@ -27,7 +27,9 @@ The tools choose each version by the commit's `In-force:` trailer, never by comm
 - Commit trailers (all ASCII, parse with `git interpret-trailers --parse`):
   - `In-force:`, the day the change took effect;
   - `Kind:`: `law` (a law), `decree` (an ordinance or Government decision), `court` (a Constitutional Court
-    decision), `publisher` (a change no amendment note explains) or `layout` (the folder move);
+    decision), `publisher` (a change no amendment note explains), `layout` (the folder move) or `correction`
+    (see below);
+  - `Corrects:` and `Re-asserts:`, on a correction, the earlier commit it replaces for its day;
   - `Law:`, the act's key, as in `law/<key>` tags;
   - `Enacted:` and `Published:`;
   - `Act:` and `Provisions:` (or `Affecting:`), the act and provisions changed;
@@ -46,6 +48,14 @@ One commit labelled `Kind: layout` renamed every act folder from its id (`codul-
 ## Withdrawn acts and retired ids
 
 An act that turns out not to belong here (for example, an act titled as a Government decision but issued by another body) is removed by a correction commit (`Kind: correction`, one `Withdraws: <id>` trailer per act). The commits that added it stay in the history, and so do its tags, which are never moved or deleted. ACTS.md and `data/acts.json` list it under "Withdrawn", with the reason and the removing commit. Its id is retired: a later act with the same official number gets the id with `-2` appended (`hg-10-2021-2`, tags `hg-10-2021-2/<day>`). Its folder is still the official identifier (`hg/2021/10/`).
+
+## Corrected text
+
+History is never rewritten. When a version was published with the wrong text (for example, a republished text dated as the act as enacted), the fix is appended as a block of `Kind: correction` commits for that act:
+- The first carries the official text, with `In-force:` set to the day it took effect and `Corrects: <commit>` naming the commit that served the wrong text.
+- Each later version follows again, oldest first. It is marked `Corrects: <commit>` if its text was wrong too, or `Re-asserts: <commit>` if it was right but must be restated.
+
+The rule for reading a day stays the same: take the newest commit that touches the act's folder with `In-force:` on or before the day. Every day from the corrected one on then reads the corrected history, and earlier days read the original commits. `tools/on.py` and `tools/build/check_repo.py` follow this rule. The `<act id>/<day>` tags made before a correction are never moved, so they still show the text as first published.
 
 ## What is not here
 

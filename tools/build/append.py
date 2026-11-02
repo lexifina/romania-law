@@ -42,15 +42,17 @@ def git(repo: Path, *args: str) -> str:
     return B.git(repo, *args)
 
 
-def published_state(repo: Path, c: dict) -> dict[str, str]:
-    """{act slug: newest In-force day on main} for every act main holds; checks that day's text equals the corpus."""
+def published_state(repo: Path, c: dict) -> tuple[dict[str, str], dict[str, tuple[str, list[str]]], dict, dict]:
+    """{act slug: newest In-force day on main} for every act main holds, and the acts whose published text differs
+    from the corpus on some day main covers: {slug: (first such day, messages)}. Also the per-act commit rows and
+    folders, for a correction."""
     slugs = [a['slug'] for a in c['acts']]
     dirs = K.act_dirs(repo, slugs)  # each act's folder now, then its folder before the layout move
     rows = K.all_commits_by_act(repo, 'main', dirs)
     cat = K.Cat(repo)
     trees: dict = {}
     state = {}
-    problems = []
+    problems: dict[str, tuple[str, list[str]]] = {}
     # Acts whose part file is unchanged since the last verified publish (listed by the caller) need no re-reading:
     # main only grows, so their published text can't have moved. Everything else is read back in full.
     trusted_path = os.environ.get('GITLAW_TRUSTED_ACTS')
@@ -75,13 +77,75 @@ def published_state(repo: Path, c: dict) -> dict[str, str]:
                 want = {f'{k}.md': K.blob_oid(u['text']) for k, u in v['units'].items()}
                 if files != want:
                     bad = sorted(f for f in set(files) | set(want) if files.get(f) != want.get(f))
-                    problems.append(f'{act["slug"]} {v["from"]}: main differs from the corpus in {len(bad)} file(s), '
-                                    f'e.g. {bad[:3]} (a correction or a back-filled form: decide by hand)')
+                    day, msgs = problems.setdefault(act['slug'], (v['from'], []))  # versions run oldest first
+                    msgs.append(f'{act["slug"]} {v["from"]}: main differs from the corpus in {len(bad)} file(s), '
+                                f'e.g. {bad[:3]} (a correction or a back-filled form: decide by hand)')
     finally:
         cat.close()
-    if problems:
-        raise B.CorpusError('main does not match the corpus for versions it already holds:\n  ' + '\n  '.join(problems[:40]))
-    return state
+    return state, problems, rows, dirs
+
+
+def approved_corrections() -> dict[str, str]:
+    """{act slug: public reason} from the file GITLAW_CORRECTIONS names (JSON). Only these acts are corrected; a
+    listed act whose published text already matches the corpus needs nothing, so the list can stay in place."""
+    p = os.environ.get('GITLAW_CORRECTIONS')
+    if not p or not Path(p).exists():
+        return {}
+    return {k: str(v) for k, v in json.loads(Path(p).read_text(encoding='utf-8')).items()}
+
+
+def correction_block(repo: Path, c: dict, act: dict, first_day: str, last: str, rows: list, reason: str) -> list[dict]:
+    """The commits that correct one act append-only, from `first_day` (the first day main's text differs) to `last`
+    (main's newest day for the act). Readers take the newest commit, in log order, that touches the act's folder with
+    In-force on or before their day. So the block restates every version from `first_day` on, oldest first: the
+    corrected one, then each later one again, so every day from `first_day` reads the corrected history; days before
+    it still read the original commits. Nothing published is rewritten."""
+    vs = act['versions']
+    days = [v for i, v in enumerate(vs) if first_day <= v['from'] <= last
+            and not (i + 1 < len(vs) and vs[i + 1]['from'] == v['from'])]  # a day's last version is its text
+    path = act.get('path') or act['slug']
+    cat = K.Cat(repo)
+    try:
+        head = git(repo, 'rev-parse', 'main').strip()
+        have = K.tree_oids(cat, head, path, {})  # the act's files on main now: {name: blob}
+        served = []
+        trees: dict = {}
+        for v in days:
+            h = K.state_on(rows, v['from'])
+            want = {f'{k}.md': K.blob_oid(u['text']) for k, u in v['units'].items()}
+            served.append((h, bool(h) and K.tree_oids(cat, h, [path, act['slug']], trees) == want))
+    finally:
+        cat.close()
+    first = days[0]
+    if {f'{k}.md': K.blob_oid(u['text']) for k, u in first['units'].items()} == have:
+        # A commit that changes no file under the folder is invisible to the reader rule: the original commits would
+        # still be served for the days it should correct.
+        raise B.CorpusError(f'correction of {act["slug"]}: the text in force from {first_day} equals the text on main '
+                            'now, so no commit can correct it by touching the folder; decide by hand')
+    out, prev = [], None
+    for v, (h, same) in zip(days, served):
+        if prev is None:
+            files = {f'{path}/{k}.md': u['text'] for k, u in v['units'].items()}
+            files.update({f'{path}/{n}': None for n in have if n[:-3] not in v['units']})
+        else:
+            files = B.act_files(act, v['units'], prev['units'])
+        label = act.get('short') or act.get('title') or act['slug']
+        if prev is None:
+            msg = [f'Correction: {label} as in force from {v["from"]}', '',
+                   f'{reason}'.rstrip() + (' ' if reason else '') +
+                   f'The text served for this day {"was" if h else "was missing"} '
+                   f'{"in commit " + h[:12] if h else "from main"}; this commit carries the official text.']
+        else:
+            msg = [f'Correction: {label} as in force from {v["from"]}, restated', '',
+                   f'Restates the text in force from {v["from"]} after the correction of {first_day}, so that every '
+                   'later day reads the corrected history.' + ('' if same else ' The text served for this day '
+                                                                  'differed from the official one as well.')]
+        trailers = ['Kind: correction', f'Act: {act["slug"]}', f'In-force: {v["from"]}']
+        if h:
+            trailers.append(f'{"Re-asserts" if same and prev is not None else "Corrects"}: {h}')
+        out.append({'day': v['from'], 'act': act, 'files': files, 'message': msg, 'trailers': trailers})
+        prev = v
+    return out
 
 
 def to_append(c: dict, state: dict[str, str], docs_date: str) -> tuple[dict, set[str]]:
@@ -212,8 +276,21 @@ def append(folder: Path, repo: Path, docs_date: str, dry_run: bool = False, comm
             raise B.CorpusError(f'main {head[:12]} is not origin/main {origin[:12]}: fetch and reset to the published head first')
     head_ct, head_tz = git(repo, 'log', '-1', '--format=%ct %ci', 'main').split()[0::3]
     head_ct = int(head_ct)
-    state = published_state(repo, c)
-    sub, based = to_append(c, state, docs_date)
+    state, problems, rows, dirs = published_state(repo, c)
+    # An act whose published text differs from the corpus is corrected only when listed in GITLAW_CORRECTIONS. Any
+    # other stops the run as before, or with GITLAW_HOLD_MISMATCHED=1 is left out of this append (its part is
+    # reported in held_parts, for the caller to leave out of its check too) so one act can't stop every publish.
+    approved = approved_corrections()
+    unapproved = {s: p for s, p in problems.items() if s not in approved}
+    if unapproved and os.environ.get('GITLAW_HOLD_MISMATCHED') != '1':
+        msgs = [m for _, ms in unapproved.values() for m in ms]
+        raise B.CorpusError('main does not match the corpus for versions it already holds:\n  ' + '\n  '.join(msgs[:40]))
+    by_slug = {a['slug']: a for a in c['acts']}
+    corrections = []
+    for s in sorted(set(problems) & set(approved)):
+        corrections += correction_block(repo, c, by_slug[s], problems[s][0], state[s], rows[s],
+                                        B.public_note(approved[s]) or '')
+    sub, based = to_append({**c, 'acts': [a for a in c['acts'] if a['slug'] not in unapproved]}, state, docs_date)
     commits = B.plan(sub) if sub['acts'] else []
     commits = [x for x in commits if not (x['kind'] == 'start' and x['act']['slug'] in based)]
     existing_tags = set(git(repo, 'tag', '--list').split())
@@ -221,18 +298,29 @@ def append(folder: Path, repo: Path, docs_date: str, dry_run: bool = False, comm
     committer = ('Lexifina', f'{co["slug"]}-law@lexifina.com')
     clock = B.Clock(co['tz'])
     summary = {'head': head, 'new_acts': sorted(a['slug'] for a in sub['acts'] if a['slug'] not in based),
-               'extended_acts': sorted(based), 'commits': len(commits)}
-    if dry_run or (not commits and not refresh_docs):
+               'extended_acts': sorted(based), 'commits': len(commits) + len(corrections),
+               'corrected_acts': sorted({x['act']['slug'] for x in corrections}),
+               'held_acts': sorted(unapproved),
+               'held_parts': sorted({by_slug[s].get('_part') for s in unapproved} - {None})}
+    if dry_run or (not commits and not corrections and not refresh_docs):
         summary['main'] = head
         return summary
     # Committer time: the publish time when given (so the host shows when the law was added), never earlier than the
     # published head; each appended commit one second after the last. The batch log (data/appends.csv) records it, so
     # a rebuild replays the same times and the same hashes.
     # The batch ends at the publish time, not after it: check_repo rejects commits dated in the future.
-    start_ct = max(head_ct, (committer_time - len(commits) - 2) if committer_time else 0)
+    start_ct = max(head_ct, (committer_time - len(commits) - len(corrections) - 2) if committer_time else 0)
     w = Appender(repo, head, start_ct, '+0000' if committer_time else head_tz, cap=committer_time)
     tags: dict[str, int] = {}
     log = []
+    # Corrections go first, so the extensions planned from the corrected text follow them.
+    fixed_when = f'{committer_time} +0000' if committer_time else clock.stamp(docs_date)
+    for x in corrections:
+        B.check_trailers(x['trailers'])
+        text = '\n'.join(x['message']).rstrip('\n') + '\n\n' + '\n'.join(x['trailers']) + '\n'
+        w.commit(committer, fixed_when, committer, text, x['files'])
+        log.append({'day': x['day'], 'kind': 'correction', 'law': None, 'acts': [x['act']['slug']],
+                    'units': len(x['files']), 'branch': 'main', 'clamped': x['day'] < '1970-01-01'})
     for x in commits:
         if x['kind'] == 'start':
             author, msg, trailers = B.start_message(c, x)
