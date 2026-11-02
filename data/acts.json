@@ -359,6 +359,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/8005"
 },
 {
+"slug": "legea-107-1996",
+"path": "lege/1996/107",
+"kind": "lege",
+"year": "1996",
+"number": "107",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea apelor nr. 107/1996",
+"short": "Legea nr. 107/1996",
+"code": null,
+"status": "in force",
+"versions": 30,
+"from": "1996-12-07",
+"latest": "2024-07-08",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/8565"
+},
+{
 "slug": "legea-115-1996",
 "path": "lege/1996/115",
 "kind": "lege",
@@ -988,6 +1005,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/52468"
 },
 {
+"slug": "legea-238-2004",
+"path": "lege/2004/238",
+"kind": "lege",
+"year": "2004",
+"number": "238",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea petrolului nr. 238/2004",
+"short": "Legea nr. 238/2004",
+"code": null,
+"status": "in force",
+"versions": 16,
+"from": "2004-09-13",
+"latest": "2024-06-29",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/52681"
+},
+{
 "slug": "legea-272-2004",
 "path": "lege/2004/272",
 "kind": "lege",
@@ -1515,6 +1549,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/280837"
 },
 {
+"slug": "legea-220-2008",
+"path": "lege/2008/220",
+"kind": "lege",
+"year": "2008",
+"number": "220",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 220/2008 pentru stabilirea sistemului de promovare a producerii energiei din surse regenerabile de energie",
+"short": "Legea nr. 220/2008",
+"code": null,
+"status": "in force",
+"versions": 25,
+"from": "2008-11-06",
+"latest": "2025-11-07",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/98742"
+},
+{
 "slug": "legea-266-2008",
 "path": "lege/2008/266",
 "kind": "lege",
@@ -1734,6 +1785,23 @@
 "from": "2012-06-02",
 "latest": "2014-10-19",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/138484"
+},
+{
+"slug": "legea-123-2012",
+"path": "lege/2012/123",
+"kind": "lege",
+"year": "2012",
+"number": "123",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea energiei electrice și a gazelor naturale nr. 123/2012",
+"short": "Legea nr. 123/2012",
+"code": null,
+"status": "in force",
+"versions": 48,
+"from": "2012-07-19",
+"latest": "2025-12-19",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/139677"
 },
 {
 "slug": "legea-187-2012",
