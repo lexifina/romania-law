@@ -478,6 +478,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/20488"
 },
 {
+"slug": "legea-3-2000",
+"path": "lege/2000/3",
+"kind": "lege",
+"year": "2000",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 3/2000 privind organizarea și desfășurarea referendumului",
+"short": "Legea nr. 3/2000",
+"code": null,
+"status": "in force",
+"versions": 25,
+"from": "2000-03-25",
+"latest": "2024-11-08",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/21139"
+},
+{
 "slug": "legea-17-2000",
 "path": "lege/2000/17",
 "kind": "lege",
@@ -646,6 +663,23 @@
 "from": "2001-07-10",
 "latest": "2026-02-25",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/29453"
+},
+{
+"slug": "legea-416-2001",
+"path": "lege/2001/416",
+"kind": "lege",
+"year": "2001",
+"number": "416",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 416/2001 privind venitul minim garantat",
+"short": "Legea nr. 416/2001",
+"code": null,
+"status": "in force",
+"versions": 31,
+"from": "2002-01-01",
+"latest": "2021-09-16",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/29731"
 },
 {
 "slug": "legea-544-2001",
@@ -1326,6 +1360,23 @@
 "from": "2006-10-01",
 "latest": "2021-07-25",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/73772"
+},
+{
+"slug": "legea-334-2006",
+"path": "lege/2006/334",
+"kind": "lege",
+"year": "2006",
+"number": "334",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 334/2006 privind finanțarea activității partidelor politice și a campaniilor electorale",
+"short": "Legea nr. 334/2006",
+"code": null,
+"status": "in force",
+"versions": 21,
+"from": "2006-08-20",
+"latest": "2020-09-19",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/73672"
 },
 {
 "slug": "legea-343-2006",

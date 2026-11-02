@@ -1,6 +1,6 @@
 # Every act in this repository
 
-1064 acts, 4,332 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+1067 acts, 4,409 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -26,7 +26,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (551, of which 353 amending acts)
+## Laws (legi) (554, of which 353 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -57,6 +57,7 @@
 | Legea nr. 213/1998 privind proprietatea publică și regimul juridic al acesteia | [`lege/1998/213/`](lege/1998/213/) | in force | 6 | 1999-01-23 | 2019-07-05 |
 | Legea nr. 188/1999 privind Statutul funcționarilor publici | [`lege/1999/188/`](lege/1999/188/) | in force | 46 | 2000-01-07 | 2019-08-02 |
 | Legea nr. 210/1999 privind concediul paternal | [`lege/1999/210/`](lege/1999/210/) | in force | 3 | 2000-02-14 | 2022-08-29 |
+| Legea nr. 3/2000 privind organizarea și desfășurarea referendumului | [`lege/2000/3/`](lege/2000/3/) | in force | 25 | 2000-03-25 | 2024-11-08 |
 | Legea nr. 17/2000 privind asistența socială a persoanelor vârstnice | [`lege/2000/17/`](lege/2000/17/) | in force | 13 | 2000-06-07 | 2025-12-09 |
 | Legea nr. 24/2000 privind normele de tehnică legislativă pentru elaborarea actelor normative | [`lege/2000/24/`](lege/2000/24/) | in force | 11 | 2000-03-31 | 2022-12-15 |
 | Legea nr. 78/2000 pentru prevenirea, descoperirea și sancționarea faptelor de corupție | [`lege/2000/78/`](lege/2000/78/) | in force | 13 | 2000-05-18 | 2022-07-23 |
@@ -67,6 +68,7 @@
 | Legea nr. 90/2001 privind organizarea și funcționarea Guvernului României și a ministerelor | [`lege/2001/90/`](lege/2001/90/) | in force | 28 | 2001-04-02 | 2019-03-01 |
 | Legea administrației publice locale nr. 215/2001 | [`lege/2001/215/`](lege/2001/215/) | in force | 40 | 2001-05-23 | 2019-07-20 |
 | Legea nr. 350/2001 privind amenajarea teritoriului și urbanismul | [`lege/2001/350/`](lege/2001/350/) | in force | 33 | 2001-07-10 | 2026-02-25 |
+| Legea nr. 416/2001 privind venitul minim garantat | [`lege/2001/416/`](lege/2001/416/) | in force | 31 | 2002-01-01 | 2021-09-16 |
 | Legea nr. 544/2001 privind liberul acces la informațiile de interes public | [`lege/2001/544/`](lege/2001/544/) | in force | 6 | 2001-12-22 | 2016-07-17 |
 | Legea nr. 677/2001 pentru protecția persoanelor cu privire la prelucrarea datelor cu caracter personal și libera circulație a acestor date | [`lege/2001/677/`](lege/2001/677/) | repealed 2018-06-24 | 4 | 2001-12-12 | 2018-06-24 |
 | Legea nr. 76/2002 privind sistemul asigurărilor pentru șomaj și stimularea ocupării forței de muncă | [`lege/2002/76/`](lege/2002/76/) | in force | 35 | 2002-03-01 | 2025-04-11 |
@@ -107,6 +109,7 @@
 | Legea nr. 192/2006 privind medierea și organizarea profesiei de mediator | [`lege/2006/192/`](lege/2006/192/) | in force | 17 | 2006-05-25 | 2019-07-29 |
 | Legea nr. 273/2006 privind finanțele publice locale | [`lege/2006/273/`](lege/2006/273/) | in force | 48 | 2007-01-01 | 2026-02-25 |
 | Legea nr. 319/2006 a securității și sănătății în muncă | [`lege/2006/319/`](lege/2006/319/) | in force | 7 | 2006-10-01 | 2021-07-25 |
+| Legea nr. 334/2006 privind finanțarea activității partidelor politice și a campaniilor electorale | [`lege/2006/334/`](lege/2006/334/) | in force | 21 | 2006-08-20 | 2020-09-19 |
 | Legea nr. 343/2006 pentru modificarea și completarea Legii nr. 571/2003 privind Codul fiscal | [`lege/2006/343/`](lege/2006/343/) | amending act | 1 | 2006-08-04 | 2006-08-04 |
 | Legea nr. 441/2006 pentru modificarea și completarea Legii nr. 31/1990 privind societățile comerciale, republicată, și a Legii nr. 26/1990 privind registrul comerțului, republicată | [`lege/2006/441/`](lege/2006/441/) | amending act | 2 | 2006-12-01 | 2007-01-01 |
 | Legea nr. 448/2006 privind protecția și promovarea drepturilor persoanelor cu handicap | [`lege/2006/448/`](lege/2006/448/) | in force | 57 | 2007-01-01 | 2025-03-30 |
