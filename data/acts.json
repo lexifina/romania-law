@@ -36,23 +36,6 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/39247"
 },
 {
-"slug": "codul-penal-1969",
-"path": null,
-"kind": "lege",
-"year": "1968",
-"number": "15",
-"withdrawn_by": "",
-"reason": "not in the current record",
-"title": "Codul penal din 21 iunie 1968 (Legea nr. 15/1968)",
-"short": "Codul penal din 1969",
-"code": "Codul penal din 21 iunie 1968",
-"status": "withdrawn",
-"versions": 22,
-"from": "1969-01-01",
-"latest": "2014-02-01",
-"portal": "https://legislatie.just.ro/Public/DetaliiDocument/38070"
-},
-{
 "slug": "codul-procedura-penala-1968",
 "path": "lege/1968/29",
 "kind": "lege",
@@ -2025,6 +2008,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/129400"
 },
 {
+"slug": "legea-153-2011",
+"path": "lege/2011/153",
+"kind": "lege",
+"year": "2011",
+"number": "153",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 153/2011",
+"short": "Legea nr. 153/2011",
+"code": null,
+"status": "in force",
+"versions": 6,
+"from": "2011-08-10",
+"latest": "2023-01-06",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/130008"
+},
+{
 "slug": "legea-292-2011",
 "path": "lege/2011/292",
 "kind": "lege",
@@ -2348,6 +2348,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/170037"
 },
 {
+"slug": "legea-213-2015",
+"path": "lege/2015/213",
+"kind": "lege",
+"year": "2015",
+"number": "213",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 213/2015 privind Fondul de garantare a asiguraților",
+"short": "Legea nr. 213/2015",
+"code": null,
+"status": "in force",
+"versions": 8,
+"from": "2015-07-27",
+"latest": "2026-01-02",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/170033"
+},
+{
 "slug": "legea-223-2015",
 "path": "lege/2015/223",
 "kind": "lege",
@@ -2414,6 +2431,23 @@
 "from": "2015-11-05",
 "latest": "2024-01-19",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/269878"
+},
+{
+"slug": "legea-318-2015",
+"path": "lege/2015/318",
+"kind": "lege",
+"year": "2015",
+"number": "318",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 318/2015 pentru înființarea, organizarea și funcționarea Agenției Naționale de Administrare a Bunurilor Indisponibilizate și pentru modificarea și completarea unor acte normative",
+"short": "Legea nr. 318/2015",
+"code": null,
+"status": "amending act",
+"versions": 4,
+"from": "2015-12-27",
+"latest": "2023-07-14",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/174284"
 },
 {
 "slug": "legea-72-2016",
@@ -10287,6 +10321,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/78313"
 },
 {
+"slug": "oug-64-2007",
+"path": "oug/2007/64",
+"kind": "oug",
+"year": "2007",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 64/2007",
+"short": "OUG nr. 64/2007",
+"code": null,
+"status": "in force",
+"versions": 17,
+"from": "2007-06-28",
+"latest": "2024-08-23",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/83212"
+},
+{
 "slug": "oug-69-2007",
 "path": "oug/2007/69",
 "kind": "oug",
@@ -10474,6 +10525,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/143696"
 },
 {
+"slug": "oug-93-2012",
+"path": "oug/2012/93",
+"kind": "oug",
+"year": "2012",
+"number": "93",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 93/2012 privind înființarea, organizarea și funcționarea Autorității de Supraveghere Financiară",
+"short": "OUG nr. 93/2012",
+"code": null,
+"status": "in force",
+"versions": 10,
+"from": "2012-12-21",
+"latest": "2021-05-24",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/144011"
+},
+{
 "slug": "oug-34-2013",
 "path": "oug/2013/34",
 "kind": "oug",
@@ -10489,6 +10557,23 @@
 "from": "2013-05-13",
 "latest": "2026-01-01",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/147761"
+},
+{
+"slug": "oug-74-2013",
+"path": "oug/2013/74",
+"kind": "oug",
+"year": "2013",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 74/2013",
+"short": "OUG nr. 74/2013",
+"code": null,
+"status": "in force",
+"versions": 12,
+"from": "2013-06-29",
+"latest": "2025-06-30",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/149334"
 },
 {
 "slug": "oug-80-2013",
@@ -12053,6 +12138,23 @@
 "from": "2021-09-16",
 "latest": "2021-09-16",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/246420"
+},
+{
+"slug": "oug-102-2021",
+"path": "oug/2021/102",
+"kind": "oug",
+"year": "2021",
+"number": "102",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 102/2021 pentru modificarea și completarea Legii nr. 213/2015 privind Fondul de garantare a asiguraților și pentru modificarea altor acte normative",
+"short": "OUG nr. 102/2021",
+"code": null,
+"status": "amending act",
+"versions": 3,
+"from": "2021-09-24",
+"latest": "2023-05-12",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/267006"
 },
 {
 "slug": "oug-105-2021",
@@ -15421,6 +15523,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/290536"
 },
 {
+"slug": "oug-129-2024",
+"path": "oug/2024/129",
+"kind": "oug",
+"year": "2024",
+"number": "129",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 129/2024 privind modificarea și completarea Ordonanței de urgență a Guvernului nr. 41/2022 pentru instituirea Sistemului național privind monitorizarea transporturilor rutiere de bunuri RO e-Transport și de abrogare a art. XXVIII din Ordonanța de urgență a Guvernului nr. 130/2021 privind unele măsuri fiscal-bugetare, prorogarea unor termene, precum și pentru modificarea și completarea unor acte normative",
+"short": "OUG nr. 129/2024",
+"code": null,
+"status": "amending act",
+"versions": 2,
+"from": "2024-11-11",
+"latest": "2024-11-21",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/290533"
+},
+{
 "slug": "oug-132-2024",
 "path": "oug/2024/132",
 "kind": "oug",
@@ -16016,6 +16135,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/2175"
 },
 {
+"slug": "og-27-1996",
+"path": "og/1996/27",
+"kind": "og",
+"year": "1996",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța Guvernului nr. 27/1996",
+"short": "OG nr. 27/1996",
+"code": null,
+"status": "in force",
+"versions": 9,
+"from": "1996-08-08",
+"latest": "2021-11-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/245669"
+},
+{
 "slug": "og-29-1997",
 "path": "og/1997/29",
 "kind": "og",
@@ -16135,6 +16271,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/33817"
 },
 {
+"slug": "og-8-2011",
+"path": "og/2011/8",
+"kind": "og",
+"year": "2011",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța Guvernului nr. 8/2011",
+"short": "OG nr. 8/2011",
+"code": null,
+"status": "in force",
+"versions": 7,
+"from": "2011-02-03",
+"latest": "2021-11-27",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/291682"
+},
+{
 "slug": "og-13-2011",
 "path": "og/2011/13",
 "kind": "og",
@@ -16150,6 +16303,57 @@
 "from": "2011-09-01",
 "latest": "2014-06-28",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/131085"
+},
+{
+"slug": "og-4-2013",
+"path": "og/2013/4",
+"kind": "og",
+"year": "2013",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța Guvernului nr. 4/2013",
+"short": "OG nr. 4/2013",
+"code": null,
+"status": "in force",
+"versions": 8,
+"from": "2013-01-22",
+"latest": "2024-12-17",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/291683"
+},
+{
+"slug": "og-5-2013",
+"path": "og/2013/5",
+"kind": "og",
+"year": "2013",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța Guvernului nr. 5/2013",
+"short": "OG nr. 5/2013",
+"code": null,
+"status": "in force",
+"versions": 6,
+"from": "2013-01-26",
+"latest": "2021-12-18",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/249581"
+},
+{
+"slug": "og-6-2013",
+"path": "og/2013/6",
+"kind": "og",
+"year": "2013",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța Guvernului nr. 6/2013",
+"short": "OG nr. 6/2013",
+"code": null,
+"status": "in force",
+"versions": 7,
+"from": "2013-01-26",
+"latest": "2021-12-18",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/144896"
 },
 {
 "slug": "og-21-2014",
@@ -16815,6 +17019,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/264511"
 },
 {
+"slug": "og-21-2023",
+"path": "og/2023/21",
+"kind": "og",
+"year": "2023",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța Guvernului nr. 21/2023 pentru modificarea și completarea Legii nr. 95/2006 privind reforma în domeniul sănătății, precum și pentru modificarea și completarea unor acte normative cu impact în domeniul sănătății",
+"short": "OG nr. 21/2023",
+"code": null,
+"status": "amending act",
+"versions": 3,
+"from": "2023-02-03",
+"latest": "2023-12-11",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/264512"
+},
+{
 "slug": "og-22-2023",
 "path": "og/2023/22",
 "kind": "og",
@@ -17085,6 +17306,23 @@
 "from": "2024-09-01",
 "latest": "2024-09-01",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/287828"
+},
+{
+"slug": "og-42-2024",
+"path": "og/2024/42",
+"kind": "og",
+"year": "2024",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța Guvernului nr. 42/2024 pentru modificarea și completarea Legii nr. 339/2005 privind regimul juridic al plantelor, substanțelor și preparatelor stupefiante și psihotrope",
+"short": "OG nr. 42/2024",
+"code": null,
+"status": "amending act",
+"versions": 2,
+"from": "2024-09-02",
+"latest": "2024-09-29",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/287862"
 },
 {
 "slug": "og-44-2024",
