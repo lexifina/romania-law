@@ -1,0 +1,7 @@
+# Hotărârea Guvernului nr. 645/2022 privind aprobarea stemei comunei Săcel, județul Maramureș
+
+HG nr. 645/2022 · 1 versions, from 2022-05-18 (latest in force: 2022-05-18) · <https://legislatie.just.ro/Public/DetaliiDocument/255513>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| ARTICOL UNIC | [art-001.md](art-001.md) | 0 |  |
