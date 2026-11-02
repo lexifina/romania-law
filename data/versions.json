@@ -8732,6 +8732,80 @@
    ]
   },
   {
+   "slug": "legea-237-2015",
+   "short": "Legea nr. 237/2015",
+   "title": "Legea nr. 237/2015 privind autorizarea și supravegherea activității de asigurare și reasigurare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/172402",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 182,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/172402",
+     "sha256": "e0b0a0f8081092d2270727bf6a1f1a3c02571c885af86e8b8d380c33ec0ffcbb"
+    },
+    {
+     "from": "2016-09-19",
+     "units": 182,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181799",
+     "sha256": "1e976364626d4c01e87e80c913b7f32fbb05527666d0e5cdfc10ca053cdd332e"
+    },
+    {
+     "from": "2018-10-01",
+     "units": 182,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/205502",
+     "sha256": "217296cf30740ddb5156ba8cf3e4a75c6b4f2224ef612a265b997b4dec8f566d"
+    },
+    {
+     "from": "2020-07-15",
+     "units": 182,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/227329",
+     "sha256": "3add5918ce9e84232fd1127fe1bf10460320d6b8bffdb12ed14eb5640cc0bffc"
+    },
+    {
+     "from": "2020-08-28",
+     "units": 182,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/228145",
+     "sha256": "cfd51f7bcd4a1c1b4ed1fab6a164f2d6ec89dcc4f5c4a8c20298026cba3a0763"
+    },
+    {
+     "from": "2020-09-03",
+     "units": 182,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/229374",
+     "sha256": "56af5d4e015a0ffd7cf0fe84ab1720e1d419dff2355b7a4f3a94438d690d8f44"
+    },
+    {
+     "from": "2022-07-15",
+     "units": 182,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/257088",
+     "sha256": "404754540514c7cc567929aab29559951e87a96ea9ed87343fa9f3703568d5dd"
+    },
+    {
+     "from": "2024-01-19",
+     "units": 198,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/269869",
+     "sha256": "0cf319a669cd66814720ee9a83f60e521430b5513e6f254246d70eaa49b78c3f"
+    },
+    {
+     "from": "2024-02-15",
+     "units": 199,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/279125",
+     "sha256": "775f07f9d5b889f7af51ac3cae61bae846aa1f4952fae500334aab71a716c881"
+    },
+    {
+     "from": "2025-12-06",
+     "units": 199,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/304380",
+     "sha256": "3e5e63d188ee5ad80f67d4c2a9cb2f9f914ae917ff85a84c6c74eef150b6e309"
+    },
+    {
+     "from": "2025-12-19",
+     "units": 199,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305297",
+     "sha256": "eb87288f80703ade8427c32d5e08e35d087a4ef15b96be3e51bf3b9c9e999d99"
+    }
+   ]
+  },
+  {
    "slug": "legea-241-2005",
    "short": "Legea nr. 241/2005",
    "title": "Legea nr. 241/2005 pentru prevenirea și combaterea evaziunii fiscale",

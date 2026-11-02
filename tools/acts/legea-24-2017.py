@@ -32,7 +32,35 @@ def register(P):
             'renumbered articles, is read from its own page (DetaliiDocumentAfis/245244); changes on that day that no '
             'note explains are credited to the act that ordered the republication, as the republication note says; '
             'files follow each text\'s own numbering.',
+            'Legea nr. 24/2017: Legea nr. 158/2020 (read as published, DetaliiDocumentAfis/228486; Monitorul Oficial '
+            'nr. 673 of 29 July 2020) is in force 30 days after publication, on 28 August 2020, save its art. I pct. '
+            '46 as to arts. 91^3-91^5 and the provisions of pct. 53 sanctioning them, in force on 3 September 2020 '
+            '(its art. XXVIII). The portal prints arts. 91^3, 91^4 and 91^5 from its form of 28 August 2020. Under '
+            'the rule for text printed before its law, the three articles are absent until 3 September 2020, when a '
+            'version adds them, credited to Legea nr. 158/2020. Pct. 53 rewrites art. 126 alin. (1) lit. a) pct. '
+            '1-5 as a whole, its pct. 3 naming arts. 91^3-91^5 among many others; that wording stands from 28 August '
+            '2020, the references to the three articles taking effect with them.',
+            'Legea nr. 24/2017: the portal\'s notes give arts. 91^2 and 92^1, inserted by Legea nr. 158/2020 (art. I '
+            'pct. 46 and 48) in the form of 28 August 2020, no note of their own; they are committed as the '
+            'publisher\'s with the rest of that day\'s changes.',
+            'Legea nr. 24/2017: the dates of the forms of 25 June, 5 July and 21 December 2024 follow OUG nr. 71/2024 '
+            '(read as published, DetaliiDocumentAfis/284542; Monitorul Oficial nr. 591 of 25 June 2024), in force on '
+            'publication save art. IV pct. 8-11, 13 and 14 (10 days after publication) and art. IV pct. 6, 7 and 12 '
+            '(21 December 2024) (its art. XIV). The form of 16 January 2026 (Legea nr. 238/2025, in force 30 days '
+            'after publication in Monitorul Oficial nr. 1171 of 17 December 2025) prints the changes its art. XIII '
+            'puts in force 90 days after publication (art. IV pct. 11-15 and pct. 16 as to art. 108 alin. (13), from '
+            '17 March 2026) only as the portal\'s notes, which are not text; no form of 17 March 2026 is held, so '
+            'those changes are not in this record.',
         ],
+        # Legea nr. 158/2020 art. XXVIII: in force 30 days after publication (28.08.2020), save art. I pct. 46 as to
+        # arts. 91^3-91^5 (and the sanctions for them in pct. 53), from 3 September 2020; the form of 28.08.2020
+        # prints them
+        'later_provisions': (
+            {'day': '2020-09-03', 'law': 'legea-158-2020', 'lines': (),
+             'units': ('art-091-3', 'art-091-4', 'art-091-5'),
+             'note': 'Arts. 91^3, 91^4 and 91^5, inserted by Legea nr. 158/2020 (art. I pct. 46), take effect on this '
+                     'day (its art. XXVIII); the portal prints them from its form of 28.08.2020.'},
+        ),
         'repeal_acts': {},
         'root_word': 'act page',
     }

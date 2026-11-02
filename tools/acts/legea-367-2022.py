@@ -20,6 +20,13 @@ def register(P):
             'Legea nr. 367/2022: the first version is the law as published in Monitorul Oficial nr. 1238 of 22 '
             'December 2022 (DetaliiDocumentAfis/262989), dated 25 December 2022: it sets no in-force day of its own, '
             'so 3 days after publication (Constituția art. 78).',
+            'Legea nr. 367/2022: OUG nr. 42/2023 (Monitorul Oficial nr. 459 of 25 May 2023; read as published, '
+            'DetaliiDocumentAfis/270729) puts its art. I pct. 65-66 '
+            '(art. 175 alin. (1)) in force 30 days after publication (its art. V) and the rest on publication; the '
+            'portal\'s form of 25.05.2023 prints both, and its notes date pct. 65-66 25 June 2023. That day is kept, so '
+            'those changes have a version of their own.',
+            'Legea nr. 367/2022: the newest form (17.11.2024) adds only a note on the EU directive the law partly '
+            'transposes (Legea nr. 283/2024, art. V), printed after the articles, so it changes no article.',
         ],
         'repeal_acts': {},
     }

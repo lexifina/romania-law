@@ -12,6 +12,7 @@ TITLE = 'Ordonanța de urgență a Guvernului nr. 99/2006 privind instituțiile 
 def register(P):
     P.ACTS[SLUG] = {
         **P.P6, 'part': '9z-oug-99-2006', 'short': 'OUG nr. 99/2006', 'pad': 3, 'cc_forms': True, 'sign_tail': True,
+        'ell_digit': True,  # "Articolul l58" (lowercase l for 1) in the forms of 2007-2022
         'root_word': 'act page',
         'title': TITLE,
         'url': P.PORTAL + 'DetaliiDocument/78313',

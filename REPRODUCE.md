@@ -53,6 +53,7 @@ This file is written by the build on 2026-11-02, the day the source data was ret
 | Internet Archive, Wayback Machine | <https://web.archive.org/> | 2026-11-02 | Internet Archive terms of use; the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
 | captures of legislatie.just.ro for the Legea nr. 101/2016 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
 | captures of legislatie.just.ro for the Legea nr. 21/1996 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
+| captures of legislatie.just.ro for the Legea nr. 237/2015 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
 | captures of legislatie.just.ro for the Legea nr. 241/2005 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
 | captures of legislatie.just.ro for the Legea nr. 26/1990 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
 | captures of legislatie.just.ro for the Legea nr. 265/2022 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
@@ -115,6 +116,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `legea-207-2015` | Codul de procedură fiscală (Legea nr. 207/2015) | 62 | 2016-01-01 to 2026-02-25 |
 | `legea-101-2016` | Legea nr. 101/2016 privind remediile și căile de atac în materie de atribuire a contractelor de achiziție publică, a contractelor sectoriale și a contractelor de concesiune de lucrări și concesiune de servicii, precum și pentru organizarea și funcționarea Consiliului Național de Soluționare a Contestațiilor | 10 | 2016-05-26 to 2023-04-06 |
 | `legea-21-1996` | Legea concurenței nr. 21/1996 | 42 | 1997-01-30 to 2025-06-26 |
+| `legea-237-2015` | Legea nr. 237/2015 privind autorizarea și supravegherea activității de asigurare și reasigurare | 11 | 2016-01-01 to 2025-12-19 |
 | `legea-241-2005` | Legea nr. 241/2005 pentru prevenirea și combaterea evaziunii fiscale | 9 | 2005-08-26 to 2024-05-16 |
 | `legea-26-1990` | Legea nr. 26/1990 privind registrul comerțului | 27 | 1990-12-07 to 2022-11-26 |
 | `legea-265-2022` | Legea nr. 265/2022 privind registrul comerțului și pentru modificarea și completarea altor acte normative cu incidență asupra înregistrării în registrul comerțului | 2 | 2022-11-26 to 2023-07-23 |
@@ -129,19 +131,19 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `oug-44-2008` | Ordonanța de urgență a Guvernului nr. 44/2008 privind desfășurarea activităților economice de către persoanele fizice autorizate, întreprinderile individuale și întreprinderile familiale | 7 | 2008-04-25 to 2022-11-26 |
 | `oug-77-2014` | Ordonanța de urgență a Guvernului nr. 77/2014 privind procedurile naționale în domeniul ajutorului de stat, precum și pentru modificarea și completarea Legii concurenței nr. 21/1996 | 8 | 2015-01-01 to 2024-07-29 |
 
-The build made 2093 commits:
+The build made 2105 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 52 | first version of an act |
-| 1546 | one law on its in-force day |
+| 53 | first version of an act |
+| 1557 | one law on its in-force day |
 | 495 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `viitor`: laws not yet in force on 2026-11-02.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 1179 laws in the record.
-- 2709 tags.
+- 1186 laws in the record.
+- 2727 tags.
 
 ## Dates
 
@@ -153,7 +155,7 @@ When a law gives no date of its own, the default rule applies: Constituția Rom�
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `a7708400e5bb702748da00941e5ce73f45c50011705feb2ea6cdffe5c3d5897f` (65953830 bytes).
+- Corpus: sha256 `c98f00225eba4c03f6cb40da09104a3c09efe123a2ad1d47693b10aa644a9244` (66818813 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `3fa29d18e75f2ec35d37d87b5147fea1f2e4afdf`, `check.py` `3d00541d258745461ab52b1b0cb4e1716a27a95d`, `on.py` `644a6c0857fbcc72562032b58d57aa113fee0641`.
 - Python 3.14.0; git version 2.52.0.windows.1.
 
@@ -609,6 +611,13 @@ No second build of this corpus has been compared yet.
 - Legea nr. 21/1996: articles already shown repealed that a later form prints again as "Abrogat" are typesetting, committed as the publisher's: 01.02.2014 art-007, 01.02.2014 art-013, 01.02.2014 art-039, 01.02.2014 art-063, 01.02.2014 art-067.
 - Legea nr. 21/1996: 125 changed article(s) with no note naming a law, committed as the publisher's: 2002-12-17 art-015, 2004-12-03 art-001, 2004-12-03 art-002, 2004-12-03 art-003, 2004-12-03 art-008, 2004-12-03 art-009, 2004-12-03 art-011, 2004-12-03 art-013, 2004-12-03 art-014, 2004-12-03 art-015, 2004-12-03 art-016, 2004-12-03 art-017, 2004-12-03 art-019, 2004-12-03 art-022, 2004-12-03 art-023, 2004-12-03 art-024, 2004-12-03 art-025, 2004-12-03 art-026, 2004-12-03 art-029, 2004-12-03 art-031, 2004-12-03 art-032, 2004-12-03 art-033, 2004-12-03 art-039, 2004-12-03 art-040, 2004-12-03 art-043, 2004-12-03 art-047, 2004-12-03 art-047-1, 2004-12-03 art-048, 2004-12-03 art-049, 2004-12-03 art-050, 2004-12-03 art-053, 2004-12-03 art-054, 2004-12-03 art-055, 2004-12-03 art-056, 2004-12-03 art-057, 2004-12-03 art-058, 2004-12-03 art-059, 2004-12-03 art-061, 2004-12-03 art-062-1, 2004-12-03 art-062-2, 2004-12-03 art-063, 2004-12-03 art-064, 2004-12-03 art-065, 2004-12-03 art-066, 2004-12-03 art-067, 2004-12-03 art-068, 2004-12-03 art-069, 2004-12-03 art-070, 2005-12-23 art-001, 2005-12-23 art-002, 2005-12-23 art-003, 2005-12-23 art-004, 2005-12-23 art-005, 2005-12-23 art-006, 2005-12-23 art-007, 2005-12-23 art-008, 2005-12-23 art-009, 2005-12-23 art-010, 2005-12-23 art-011, 2005-12-23 art-012, 2005-12-23 art-013, 2005-12-23 art-014, 2005-12-23 art-015, 2005-12-23 art-016, 2005-12-23 art-017, 2005-12-23 art-018, 2005-12-23 art-019, 2005-12-23 art-020, 2005-12-23 art-021, 2005-12-23 art-022, 2005-12-23 art-023, 2005-12-23 art-024, 2005-12-23 art-025, 2005-12-23 art-026, 2005-12-23 art-027, 2005-12-23 art-028, 2005-12-23 art-029, 2005-12-23 art-030, 2005-12-23 art-031, 2005-12-23 art-032, 2005-12-23 art-033, 2005-12-23 art-034, 2005-12-23 art-035, 2005-12-23 art-036, 2005-12-23 art-037, 2005-12-23 art-038, 2005-12-23 art-039, 2005-12-23 art-040, 2005-12-23 art-041, 2005-12-23 art-042, 2005-12-23 art-043, 2005-12-23 art-044, 2005-12-23 art-045, 2005-12-23 art-046, 2005-12-23 art-047, 2005-12-23 art-048, 2005-12-23 art-049, 2005-12-23 art-050, 2005-12-23 art-051, 2005-12-23 art-052, 2005-12-23 art-053, 2005-12-23 art-054, 2005-12-23 art-055, 2005-12-23 art-056, 2005-12-23 art-057, 2005-12-23 art-058, 2005-12-23 art-059, 2005-12-23 art-060, 2005-12-23 art-061, 2005-12-23 art-062, 2005-12-23 art-063, 2005-12-23 art-064, 2005-12-23 art-065, 2005-12-23 art-066, 2005-12-23 art-067, 2011-08-08 art-026, 2011-08-08 art-028, 2011-08-08 art-036, 2011-08-08 art-051-1, 2011-08-08 art-056, 2014-02-01 art-030, 2017-06-08 art-007, 2017-06-08 art-017, 2017-06-08 art-031, 2017-07-08 art-066.
 - Legea nr. 21/1996: forms with no change after normalisation, so no version: 2004-12-29 (61930), 2009-07-21 (120343), 2020-07-23 (228058).
+- Legea nr. 237/2015: added 2026-11-02, one of the Portalul legislativ's consolidated forms per version, as for the other acts. A capture was used only if it was complete and the page showed the form its document id stands for. The forms are those listed by DetaliiDocumentAfis/305297 as captured on 2026-02-18, the newest capture of any of the act's pages: 11 forms, 10 held.
+- Legea nr. 237/2015: the newest form held is that of 19.12.2025; amendments in force after it may be missing.
+- Legea nr. 237/2015: forms listed by the portal that could not be read (in neither archive), so not versions; their changes arrive with the next form held and take its date, though their notes give the earlier day: 22.11.2025 (303283).
+- Legea nr. 237/2015: the first version is the law as published in Monitorul Oficial nr. 800 of 28 October 2015 (DetaliiDocumentAfis/172402), dated 1 January 2016, when it takes effect (its art. 182). Art. 166 alin. (1)-(3) took effect 3 days after publication (31 October 2015); it is shown from 1 January 2016 with the rest of the law. Its annexes are not articles and are not read.
+- Legea nr. 237/2015: the law as published prints its EU-transposition note ("*", "Prezenta lege transpune: 1. ... 3. ...") as the last lines of art. 182; it is not an article's text and is left out, as in the portal's forms.
+- Legea nr. 237/2015: art. 180 quotes the articles of Legea nr. 32/2000 it rewrites; the quoted articles are kept as art. 180's text.
+- Legea nr. 237/2015: the portal's form of 19 January 2024 (269869) prints art. 110^1, inserted by Legea nr. 17/2024 art. I pct. 16, as an article, though its own note in that form says the insertion applies from 15 February 2024 (art. V alin. (1) of that law). Under the rule for text printed before its law, art. 110^1 is left out of that form; it arrives with the form of 15 February 2024, credited to Legea nr. 17/2024 by that form's note.
 - Legea nr. 241/2005: added 2026-11-02, one of the Portalul legislativ's consolidated forms per version, as for the other acts. A capture was used only if it was complete and the page showed the form its document id stands for. The forms are those listed by DetaliiDocument/248247 as captured on 2025-12-06, the newest capture of any of the act's pages: 9 forms, 9 held.
 - Legea nr. 241/2005: the newest form held is that of 16.05.2024; amendments in force after it may be missing.
 - Legea nr. 241/2005: the first version is the law as published in Monitorul Oficial nr. 672 of 27 July 2005 (DetaliiDocumentAfis/63590), in force 30 days after publication (its art. 15): 26 August 2005. The portal's first form is of 23 June 2010, so the changes made up to then arrive together that day.
@@ -784,6 +793,7 @@ Model use at data-build time:
 - Codul de procedură fiscală: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - Legea nr. 101/2016: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - Legea nr. 21/1996: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
+- Legea nr. 237/2015: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - Legea nr. 241/2005: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - Legea nr. 26/1990: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - Legea nr. 265/2022: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
