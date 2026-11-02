@@ -920,6 +920,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/37954"
 },
 {
+"slug": "legea-9-2003",
+"path": "lege/2003/9",
+"kind": "lege",
+"year": "2003",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 9/2003 privind Ordinul Meritul Sportiv și Medalia Meritul Sportiv",
+"short": "Legea nr. 9/2003",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2003-02-05",
+"latest": "2003-02-05",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/302214"
+},
+{
 "slug": "legea-14-2003",
 "path": "lege/2003/14",
 "kind": "lege",
@@ -2805,6 +2822,23 @@
 "from": "2020-07-09",
 "latest": "2020-07-09",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/227609"
+},
+{
+"slug": "legea-152-2020",
+"path": "lege/2020/152",
+"kind": "lege",
+"year": "2020",
+"number": "152",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 152/2020 privind organizarea și finanțarea serviciilor de promovare a sănătății și prevenire a îmbolnăvirilor",
+"short": "Legea nr. 152/2020",
+"code": null,
+"status": "in force",
+"versions": 2,
+"from": "2020-08-23",
+"latest": "2023-09-04",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/228373"
 },
 {
 "slug": "legea-217-2020",
@@ -10967,6 +11001,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/240192"
 },
 {
+"slug": "oug-21-2021",
+"path": "oug/2021/21",
+"kind": "oug",
+"year": "2021",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 21/2021 pentru aprobarea acordării unui ajutor de stat de restructurare Societății \"Complexul Energetic Oltenia\" - S.A.",
+"short": "OUG nr. 21/2021",
+"code": null,
+"status": "amending act",
+"versions": 2,
+"from": "2021-04-02",
+"latest": "2021-04-15",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/240384"
+},
+{
 "slug": "oug-24-2021",
 "path": "oug/2021/24",
 "kind": "oug",
@@ -12427,6 +12478,23 @@
 "from": "2022-06-29",
 "latest": "2023-07-20",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/256883"
+},
+{
+"slug": "oug-96-2022",
+"path": "oug/2022/96",
+"kind": "oug",
+"year": "2022",
+"number": "96",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 96/2022 privind gestionarea financiară a fondurilor europene dedicate Afacerilor interne alocate României pentru perioada de programare 2021-2027",
+"short": "OUG nr. 96/2022",
+"code": null,
+"status": "in force",
+"versions": 2,
+"from": "2022-06-29",
+"latest": "2023-06-09",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/256884"
 },
 {
 "slug": "oug-100-2022",
@@ -14824,6 +14892,23 @@
 "from": "2025-02-17",
 "latest": "2025-03-13",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/295385"
+},
+{
+"slug": "oug-3-2025",
+"path": "oug/2025/3",
+"kind": "oug",
+"year": "2025",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 3/2025 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 147/2024 privind înființarea, organizarea și funcționarea Agenției Naționale pentru Politici și Coordonare în Domeniul Drogurilor și al Adicțiilor, a centrelor de sănătate mintală și pentru prevenirea adicțiilor, precum și pentru modificarea unor acte normative",
+"short": "OUG nr. 3/2025",
+"code": null,
+"status": "amending act",
+"versions": 2,
+"from": "2025-02-20",
+"latest": "2025-12-06",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/304386"
 },
 {
 "slug": "oug-4-2025",
