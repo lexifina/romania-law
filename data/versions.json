@@ -30827,6 +30827,111 @@
    ]
   },
   {
+   "slug": "oug-63-2010",
+   "path": "oug/2010/63",
+   "short": "OUG nr. 63/2010",
+   "title": "Ordonanța de urgență a Guvernului nr. 63/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/120026",
+   "versions": [
+    {
+     "from": "2010-07-05",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20260604204538id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/120026",
+     "sha256": "61ed72f735e3ab9c37d8d2ad8425b3b6edcb968227130705e67264dc68808f27"
+    },
+    {
+     "from": "2010-08-04",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20260604204538id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/120026",
+     "sha256": "61ed72f735e3ab9c37d8d2ad8425b3b6edcb968227130705e67264dc68808f27"
+    },
+    {
+     "from": "2011-01-01",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20260604204538id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/120026",
+     "sha256": "61ed72f735e3ab9c37d8d2ad8425b3b6edcb968227130705e67264dc68808f27"
+    },
+    {
+     "from": "2011-03-17",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133269",
+     "sha256": "f2044127e070956006a6cd487f23ae6664e1f0b5676cb295914222a28cbc62c4"
+    },
+    {
+     "from": "2012-04-04",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/139737",
+     "sha256": "4ab5c508c84c55bdc81d2d24b7dea75ebbbe74f023737dc61d5bf6939d685d93"
+    },
+    {
+     "from": "2014-02-14",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/155642",
+     "sha256": "4bea64afff6aebc0cf11345752fa67350b7fe5e9baabc3bcf70ba6638123438a"
+    },
+    {
+     "from": "2014-09-29",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/161753",
+     "sha256": "8630b997d503fe4de0c34faca0cdef0f0c50e501ae2b72b61561df467ee2a054"
+    },
+    {
+     "from": "2015-09-30",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171733",
+     "sha256": "23ac2478d099a884d44f245565de292c006499ea5a62d4b20146284e20bc8ce2"
+    },
+    {
+     "from": "2015-12-11",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/173925",
+     "sha256": "5702211a785ffe5728b5e300154f60912af4313544766f01c569a6ba7c4c540d"
+    },
+    {
+     "from": "2016-09-02",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181339",
+     "sha256": "994c9af49afee95243569873a99aaac8e138b3d26a1b56bbec6dab99039d6f5f"
+    },
+    {
+     "from": "2017-01-06",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/185293",
+     "sha256": "24ce29255047bf6c76ae31174092c95f5663174a88a7ed6beb9eb78d9091fa73"
+    },
+    {
+     "from": "2017-03-23",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/187280",
+     "sha256": "6fc5c3b0a7b9d68d88e7472d09eb805634c67c688c26e649446ad7a49e6ed578"
+    },
+    {
+     "from": "2018-04-24",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/199913",
+     "sha256": "d9d7b9da1b07a50fe4feab45c76597205d9d542779dad42411dc5a9d6554dc99"
+    },
+    {
+     "from": "2018-08-03",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/202974",
+     "sha256": "23c664e3116ea473eeea851606228e32f6bfc2f1c2cade5989379db4986a6808"
+    },
+    {
+     "from": "2019-03-27",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/212072",
+     "sha256": "d2635d2650c16a9d601e6268f20b7f209c7e656ef6975ac909e6434eec601c1d"
+    },
+    {
+     "from": "2022-04-16",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/253076",
+     "sha256": "09a48585013231433e41c914a5688269f40ea87ec3e90117ec798305787fa4a5"
+    }
+   ]
+  },
+  {
    "slug": "oug-64-2007",
    "path": "oug/2007/64",
    "short": "OUG nr. 64/2007",
@@ -31378,6 +31483,33 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/214247",
      "sha256": "3d7dac1c331077bc30ef4642ac78703d4edffb0d1cdcf281a0870b6b1299ee97"
+    }
+   ]
+  },
+  {
+   "slug": "oug-71-2024",
+   "path": "oug/2024/71",
+   "short": "OUG nr. 71/2024",
+   "title": "Ordonanța de urgență a Guvernului nr. 71/2024 pentru modificarea și completarea unor acte normative, precum și pentru stabilirea unor măsuri de prevenire și combatere a publicității și a tehnicilor agresive de comunicare practicate de entitățile care nu sunt înscrise în Registrul Autorității de Supraveghere Financiară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/284542",
+   "versions": [
+    {
+     "from": "2024-06-25",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/284542",
+     "sha256": "31e412825d75b1003ae62288c0c44949aa193ebd9c1e155ebdfc5b430fd3b8b5"
+    },
+    {
+     "from": "2024-07-05",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/284542",
+     "sha256": "31e412825d75b1003ae62288c0c44949aa193ebd9c1e155ebdfc5b430fd3b8b5"
+    },
+    {
+     "from": "2024-12-21",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/284542",
+     "sha256": "31e412825d75b1003ae62288c0c44949aa193ebd9c1e155ebdfc5b430fd3b8b5"
     }
    ]
   },
@@ -36284,6 +36416,27 @@
    ]
   },
   {
+   "slug": "legea-1-2020",
+   "path": "lege/2020/1",
+   "short": "Legea nr. 1/2020",
+   "title": "Legea nr. 1/2020 privind pensiile ocupaționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/298772",
+   "versions": [
+    {
+     "from": "2020-02-07",
+     "units": 160,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/221917",
+     "sha256": "68250e95ce4ded7821d1b9b6daa64b07a830f73aa750fdd7b84b9c8c74760722"
+    },
+    {
+     "from": "2023-04-07",
+     "units": 160,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/265826",
+     "sha256": "5c3d11ac467ea9385ef602ecae08eeaaea8cae7619ea3bf70d8d7bd42b5648a6"
+    }
+   ]
+  },
+  {
    "slug": "legea-10-2025",
    "path": "lege/2025/10",
    "short": "Legea nr. 10/2025",
@@ -37024,6 +37177,57 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270603",
      "sha256": "f862603cc9bea945a884bae77648c4237cdc4d8e769be667d20c5e5a814ea8ab"
+    }
+   ]
+  },
+  {
+   "slug": "legea-134-2019",
+   "path": "lege/2019/134",
+   "short": "Legea nr. 134/2019",
+   "title": "Legea nr. 134/2019 privind reorganizarea Agenției Naționale a Medicamentului și a Dispozitivelor Medicale, precum și pentru modificarea unor acte normative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/287315",
+   "versions": [
+    {
+     "from": "2019-07-20",
+     "units": 21,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/216129",
+     "sha256": "67366a2635f9e8366967c1af88ddf35de253c98505af2914bc10bc75218d2f49"
+    },
+    {
+     "from": "2021-09-03",
+     "units": 21,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/245560",
+     "sha256": "b9e8350368a7e8f06ccadabd9558e29d91c79dddd469e631445f4a7b2b018744"
+    },
+    {
+     "from": "2022-03-24",
+     "units": 21,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/252832",
+     "sha256": "e121ebac2e7106fae51a9385fc49920328c25762b97a67482cfc5747aff0bcf4"
+    },
+    {
+     "from": "2022-07-25",
+     "units": 21,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/257199",
+     "sha256": "d976a45b6c582d8ba34e484b82b94bb64309d6fe68dcfc920a910ab4d977fbdf"
+    },
+    {
+     "from": "2023-02-27",
+     "units": 21,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/264946",
+     "sha256": "a6891f7205f12bf00e7e3868e420efad0e62df5dd684ded98661c9c203075b62"
+    },
+    {
+     "from": "2024-09-02",
+     "units": 21,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/287246",
+     "sha256": "56f6a4531fc4e4efca6575987ad04624c8e27859fc98b795df7b2ed29560e1ba"
+    },
+    {
+     "from": "2024-09-06",
+     "units": 21,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/287315",
+     "sha256": "10776de0afe009a0029e5b998a98c72285f9a29c4b14ee0d7a1cca3a6d3dbab8"
     }
    ]
   },
@@ -37799,6 +38003,45 @@
    ]
   },
   {
+   "slug": "legea-168-2020",
+   "path": "lege/2020/168",
+   "short": "Legea nr. 168/2020",
+   "title": "Legea nr. 168/2020 pentru recunoașterea meritelor personalului participant la acțiuni militare, misiuni și operații pe teritoriul sau în afara teritoriului statului român și acordarea unor drepturi acestuia, familiei acestuia și urmașilor celui decedat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/228752",
+   "versions": [
+    {
+     "from": "2021-02-04",
+     "units": 27,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/228752",
+     "sha256": "f89dd03e240a0ed2e18476e0446a1ee3797cbf2fcadf9f92e5b0739868248ea8"
+    },
+    {
+     "from": "2021-04-28",
+     "units": 27,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/241364",
+     "sha256": "c81b6e113803ddde04d158a4b6f1830d28e2531654a524996383ab3c792e7148"
+    },
+    {
+     "from": "2021-12-05",
+     "units": 27,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/248126",
+     "sha256": "31774ce672bc8d0f6e6e3317f3e1929dc7efedd978b80ae69095eabc4da9dbff"
+    },
+    {
+     "from": "2024-03-29",
+     "units": 27,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/280334",
+     "sha256": "fe793da7bd8fd540dc3ef1898ff0b17d84ffb8693d91b5f62622690659684141"
+    },
+    {
+     "from": "2024-06-30",
+     "units": 27,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/228752",
+     "sha256": "f5137a8a503f40857322bdb1ee8660ec738e17ae749ded78fe21efce7f4a0efc"
+    }
+   ]
+  },
+  {
    "slug": "legea-168-2021",
    "path": "lege/2021/168",
    "short": "Legea nr. 168/2021",
@@ -38194,6 +38437,63 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/244051",
      "sha256": "84ca53efe80f32cf5ab6e766f2abc87a48b2f7d2cc975acb5867385893951c2e"
+    }
+   ]
+  },
+  {
+   "slug": "legea-185-2017",
+   "path": "lege/2017/185",
+   "short": "Legea nr. 185/2017",
+   "title": "Legea nr. 185/2017 privind asigurarea calității în sistemul de sănătate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/191668",
+   "versions": [
+    {
+     "from": "2017-07-29",
+     "units": 22,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/191668",
+     "sha256": "02f917c0c2ce7a819fa20690fc36cd77b834461d15a54330817b07027722fac9"
+    },
+    {
+     "from": "2018-12-30",
+     "units": 22,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/209137",
+     "sha256": "578fd819e6b0e8603f899589d581ad6ed5ddd40033bda7efbcd8325051596954"
+    },
+    {
+     "from": "2019-09-01",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/217410",
+     "sha256": "927d23f880d7284d93fae1f680ec5e9b727808ce9eb388c0761b93d6e10a16e1"
+    },
+    {
+     "from": "2020-05-26",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/225750",
+     "sha256": "717d6bda9adeaddf00ede9b6d8e461c3b8bdceb078eb17e0b15b250d0c11d958"
+    },
+    {
+     "from": "2021-04-16",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/240610",
+     "sha256": "df82aae2cb168f1e9d38acc783af391031ef7af5725fa11cd6f99790bfe67c63"
+    },
+    {
+     "from": "2021-08-30",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/245515",
+     "sha256": "fecc129561a3a8df9d65c65c199d60dd592472a97513f92e95fd1bb6393fa2a2"
+    },
+    {
+     "from": "2022-07-18",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/257133",
+     "sha256": "dacf90dab3b5cbd785ce0a1b211967faa17951841543f7ae2b22a497418abcf3"
+    },
+    {
+     "from": "2025-02-03",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/293365",
+     "sha256": "a3f244e06a64833fcc2661c3da97f9aa27ae5502f837616e0fb9bdc815694694"
     }
    ]
   },
@@ -39229,6 +39529,57 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/257721",
      "sha256": "5ffbb3e0b7656b2028775af58634e2018ea0c194c7631247678068408cfdef73"
+    }
+   ]
+  },
+  {
+   "slug": "legea-227-2018",
+   "path": "lege/2018/227",
+   "short": "Legea nr. 227/2018",
+   "title": "Legea nr. 227/2018 privind aprobarea Programului de susținere pentru activitatea de reproducție, incubație și de creștere în sectorul avicol",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/203530",
+   "versions": [
+    {
+     "from": "2018-08-06",
+     "units": 22,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/203530",
+     "sha256": "70436763b5f52f58de70ac514cbecf9a3c215299a370785f53ad22930e981936"
+    },
+    {
+     "from": "2019-02-01",
+     "units": 22,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/210238",
+     "sha256": "362065e9e6d9dbc0910a028deba796b9ad4e4b32cf5de1ff958a99b3e2efd859"
+    },
+    {
+     "from": "2019-07-22",
+     "units": 22,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/215870",
+     "sha256": "dcb1e6e55acaf8b914261409c074c6eb3f2892573f931acfbbe96436ae533f9a"
+    },
+    {
+     "from": "2020-06-29",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/225177",
+     "sha256": "c130c6649f1f61b0449a9384fadca6dffa98773f09bba7d81133fb8d64251c7e"
+    },
+    {
+     "from": "2022-12-17",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/262070",
+     "sha256": "38fa87c7a07cd4297332ef9febc167431edb7ebe24bd1fc917f4d797165589f0"
+    },
+    {
+     "from": "2023-12-29",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/269722",
+     "sha256": "5a037feb0455f4870c24af8c7bf3b7b2b6f9d09c204819f1ff31ca3140f1d681"
+    },
+    {
+     "from": "2024-12-13",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/291646",
+     "sha256": "35d1e768a8295d276a7dfbcebbd79707919346229d5a5145d90a653dee42bf48"
     }
    ]
   },
@@ -42415,6 +42766,27 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/296660",
      "sha256": "cd718cb391485c3afe27d71933d78a752f76df292f1f4fe0dc5d136ee687fbd5"
+    }
+   ]
+  },
+  {
+   "slug": "legea-5-2021",
+   "path": "lege/2021/5",
+   "short": "Legea nr. 5/2021",
+   "title": "Legea nr. 5/2021 privind Statutul personalului profesionist operativ de intervenție din cadrul serviciilor civile care asigură asistență publică medicală de urgență și prim ajutor calificat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/236029",
+   "versions": [
+    {
+     "from": "2021-01-14",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/236029",
+     "sha256": "af3c3157a3863f859024b85b327ae322f7108f174868ebd30396dc2e01ba9266"
+    },
+    {
+     "from": "2024-09-01",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/288578",
+     "sha256": "89036194a0dcacb43b9678297390135a286451af905ed87c86ff50cfeb0298aa"
     }
    ]
   },
@@ -46199,6 +46571,33 @@
    ]
   },
   {
+   "slug": "oug-141-2020",
+   "path": "oug/2020/141",
+   "short": "OUG nr. 141/2020",
+   "title": "Ordonanța de urgență a Guvernului nr. 141/2020 privind instituirea unor măsuri pentru buna funcționare a sistemului de învățământ și pentru modificarea și completarea Legii educației naționale nr. 1/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/229309",
+   "versions": [
+    {
+     "from": "2020-08-21",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/229309",
+     "sha256": "0c186b50ac75e383f256a61e2679cf7566b42a200087d01a0fc5e88901237ef7"
+    },
+    {
+     "from": "2021-04-19",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/240616",
+     "sha256": "a0b77957d547afe48f9795b8cc65139a04a0660d3411678bc974ad016ee0f89f"
+    },
+    {
+     "from": "2021-09-13",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/245635",
+     "sha256": "a0fe3c14b3fc1955ec5151c7edcb1897738615597e92986e9d7fa753e6872dd9"
+    }
+   ]
+  },
+  {
    "slug": "oug-141-2021",
    "path": "oug/2021/141",
    "short": "OUG nr. 141/2021",
@@ -46849,6 +47248,27 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/263229",
      "sha256": "e7aa1e8fa87ef3afce876c6ee18e1ff6890e331dddf6126fd62c12c5c94caef0"
+    }
+   ]
+  },
+  {
+   "slug": "oug-188-2020",
+   "path": "oug/2020/188",
+   "short": "OUG nr. 188/2020",
+   "title": "Ordonanța de urgență a Guvernului nr. 188/2020 privind unele măsuri temporare necesare pentru exercitarea funcției de conducător al compartimentului financiar-contabil din administrația publică centrală",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/249365",
+   "versions": [
+    {
+     "from": "2020-10-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/231899",
+     "sha256": "a5bd053d7d7adb1849d7be355232ae4d3ef50b51864e94d753c2c9ff9eba25d8"
+    },
+    {
+     "from": "2021-12-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/249365",
+     "sha256": "1da45b433c4ac41314653c81d1631e1b5bb81ae78b27c239ed3fbd12118459f4"
     }
    ]
   },
@@ -49577,6 +49997,33 @@
    ]
   },
   {
+   "slug": "oug-72-2020",
+   "path": "oug/2020/72",
+   "short": "OUG nr. 72/2020",
+   "title": "Ordonanța de urgență a Guvernului nr. 72/2020 pentru suspendarea aplicării prevederilor art. 21 alin. (6) din Legea nr. 165/2013 privind măsurile pentru finalizarea procesului de restituire, în natură sau prin echivalent, a imobilelor preluate în mod abuziv în perioada regimului comunist în România și instituirea unor măsuri tranzitorii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/243597",
+   "versions": [
+    {
+     "from": "2020-05-19",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/225891",
+     "sha256": "592d8f62ea6766b512266a54c6bdc16ccf97e021d66ae959ad58280e0182bc48"
+    },
+    {
+     "from": "2020-11-02",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/231441",
+     "sha256": "7f76eda5ecbcb894bfc229f5d85fe06467709ed7398cdc74d16601e580217bfc"
+    },
+    {
+     "from": "2021-07-12",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/243597",
+     "sha256": "9356add3d0a2a1d8f885a8eb4c73c2104ecccfcfdd2f88ae049dba1e533522b8"
+    }
+   ]
+  },
+  {
    "slug": "oug-72-2021",
    "path": "oug/2021/72",
    "short": "OUG nr. 72/2021",
@@ -50041,6 +50488,33 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/284677",
      "sha256": "a604dedb5a7e0c66996fe6f2ea2320922996ce54b884c3aeeb15cd7d59a97aed"
+    }
+   ]
+  },
+  {
+   "slug": "oug-84-2020",
+   "path": "oug/2020/84",
+   "short": "OUG nr. 84/2020",
+   "title": "Ordonanța de urgență a Guvernului nr. 84/2020 pentru stabilirea unor măsuri necesare în vederea implementării Programului operațional Ajutorarea persoanelor defavorizate - POAD",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/226161",
+   "versions": [
+    {
+     "from": "2020-05-29",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/226161",
+     "sha256": "1e06cbe9d98dd1e18e73c9538b46ebb68497a6e1a197054eb646accb6712d6b2"
+    },
+    {
+     "from": "2020-10-16",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/230776",
+     "sha256": "fc9492694e3aacf193791dac207fd10a0c225e0d1e6d8d61e4e84bcde606c2b8"
+    },
+    {
+     "from": "2021-03-18",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/226161",
+     "sha256": "2170033f0ce8dd5ca2d1ede3b8f07a013f3b385a063889e371b2afecf3e6c614"
     }
    ]
   },

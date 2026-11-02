@@ -3419,6 +3419,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/190446"
 },
 {
+"slug": "legea-185-2017",
+"path": "lege/2017/185",
+"kind": "lege",
+"year": "2017",
+"number": "185",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 185/2017 privind asigurarea calității în sistemul de sănătate",
+"short": "Legea nr. 185/2017",
+"code": null,
+"status": "in force",
+"versions": 8,
+"from": "2017-07-29",
+"latest": "2025-02-03",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/191668"
+},
+{
 "slug": "legea-231-2017",
 "path": "lege/2017/231",
 "kind": "lege",
@@ -3587,6 +3604,23 @@
 "from": "2018-07-23",
 "latest": "2022-03-14",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/203052"
+},
+{
+"slug": "legea-227-2018",
+"path": "lege/2018/227",
+"kind": "lege",
+"year": "2018",
+"number": "227",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 227/2018 privind aprobarea Programului de susținere pentru activitatea de reproducție, incubație și de creștere în sectorul avicol",
+"short": "Legea nr. 227/2018",
+"code": null,
+"status": "amending act",
+"versions": 7,
+"from": "2018-08-06",
+"latest": "2024-12-13",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/203530"
 },
 {
 "slug": "legea-236-2018",
@@ -3759,6 +3793,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/216157"
 },
 {
+"slug": "legea-134-2019",
+"path": "lege/2019/134",
+"kind": "lege",
+"year": "2019",
+"number": "134",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 134/2019 privind reorganizarea Agenției Naționale a Medicamentului și a Dispozitivelor Medicale, precum și pentru modificarea unor acte normative",
+"short": "Legea nr. 134/2019",
+"code": null,
+"status": "amending act",
+"versions": 7,
+"from": "2019-07-20",
+"latest": "2024-09-06",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/287315"
+},
+{
 "slug": "legea-136-2019",
 "path": "lege/2019/136",
 "kind": "lege",
@@ -3878,6 +3929,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/221321"
 },
 {
+"slug": "legea-1-2020",
+"path": "lege/2020/1",
+"kind": "lege",
+"year": "2020",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 1/2020 privind pensiile ocupaționale",
+"short": "Legea nr. 1/2020",
+"code": null,
+"status": "in force",
+"versions": 2,
+"from": "2020-02-07",
+"latest": "2023-04-07",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/298772"
+},
+{
 "slug": "legea-105-2020",
 "path": "lege/2020/105",
 "kind": "lege",
@@ -3927,6 +3995,23 @@
 "from": "2020-08-23",
 "latest": "2023-09-04",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/228373"
+},
+{
+"slug": "legea-168-2020",
+"path": "lege/2020/168",
+"kind": "lege",
+"year": "2020",
+"number": "168",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 168/2020 pentru recunoașterea meritelor personalului participant la acțiuni militare, misiuni și operații pe teritoriul sau în afara teritoriului statului român și acordarea unor drepturi acestuia, familiei acestuia și urmașilor celui decedat",
+"short": "Legea nr. 168/2020",
+"code": null,
+"status": "in force",
+"versions": 5,
+"from": "2021-02-04",
+"latest": "2024-06-30",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/228752"
 },
 {
 "slug": "legea-209-2020",
@@ -4131,6 +4216,23 @@
 "from": "2021-01-11",
 "latest": "2025-08-16",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/235999"
+},
+{
+"slug": "legea-5-2021",
+"path": "lege/2021/5",
+"kind": "lege",
+"year": "2021",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 5/2021 privind Statutul personalului profesionist operativ de intervenție din cadrul serviciilor civile care asigură asistență publică medicală de urgență și prim ajutor calificat",
+"short": "Legea nr. 5/2021",
+"code": null,
+"status": "in force",
+"versions": 2,
+"from": "2021-01-14",
+"latest": "2024-09-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/236029"
 },
 {
 "slug": "legea-19-2021",
@@ -11647,6 +11749,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/119472"
 },
 {
+"slug": "oug-63-2010",
+"path": "oug/2010/63",
+"kind": "oug",
+"year": "2010",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 63/2010",
+"short": "OUG nr. 63/2010",
+"code": null,
+"status": "in force",
+"versions": 16,
+"from": "2010-07-05",
+"latest": "2022-04-16",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/120026"
+},
+{
 "slug": "oug-74-2010",
 "path": "oug/2010/74",
 "kind": "oug",
@@ -12582,6 +12701,40 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/225588"
 },
 {
+"slug": "oug-72-2020",
+"path": "oug/2020/72",
+"kind": "oug",
+"year": "2020",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 72/2020 pentru suspendarea aplicării prevederilor art. 21 alin. (6) din Legea nr. 165/2013 privind măsurile pentru finalizarea procesului de restituire, în natură sau prin echivalent, a imobilelor preluate în mod abuziv în perioada regimului comunist în România și instituirea unor măsuri tranzitorii",
+"short": "OUG nr. 72/2020",
+"code": null,
+"status": "amending act",
+"versions": 3,
+"from": "2020-05-19",
+"latest": "2021-07-12",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/243597"
+},
+{
+"slug": "oug-84-2020",
+"path": "oug/2020/84",
+"kind": "oug",
+"year": "2020",
+"number": "84",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 84/2020 pentru stabilirea unor măsuri necesare în vederea implementării Programului operațional Ajutorarea persoanelor defavorizate - POAD",
+"short": "OUG nr. 84/2020",
+"code": null,
+"status": "in force",
+"versions": 3,
+"from": "2020-05-29",
+"latest": "2021-03-18",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/226161"
+},
+{
 "slug": "oug-94-2020",
 "path": "oug/2020/94",
 "kind": "oug",
@@ -12631,6 +12784,23 @@
 "from": "2020-08-10",
 "latest": "2021-02-18",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/229025"
+},
+{
+"slug": "oug-141-2020",
+"path": "oug/2020/141",
+"kind": "oug",
+"year": "2020",
+"number": "141",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 141/2020 privind instituirea unor măsuri pentru buna funcționare a sistemului de învățământ și pentru modificarea și completarea Legii educației naționale nr. 1/2011",
+"short": "OUG nr. 141/2020",
+"code": null,
+"status": "amending act",
+"versions": 3,
+"from": "2020-08-21",
+"latest": "2021-09-13",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/229309"
 },
 {
 "slug": "oug-151-2020",
@@ -12750,6 +12920,23 @@
 "from": "2020-11-02",
 "latest": "2022-01-01",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/249499"
+},
+{
+"slug": "oug-188-2020",
+"path": "oug/2020/188",
+"kind": "oug",
+"year": "2020",
+"number": "188",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 188/2020 privind unele măsuri temporare necesare pentru exercitarea funcției de conducător al compartimentului financiar-contabil din administrația publică centrală",
+"short": "OUG nr. 188/2020",
+"code": null,
+"status": "in force",
+"versions": 2,
+"from": "2020-10-29",
+"latest": "2021-12-18",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/249365"
 },
 {
 "slug": "oug-210-2020",
@@ -16609,6 +16796,23 @@
 "from": "2024-06-21",
 "latest": "2024-07-01",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/284213"
+},
+{
+"slug": "oug-71-2024",
+"path": "oug/2024/71",
+"kind": "oug",
+"year": "2024",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 71/2024 pentru modificarea și completarea unor acte normative, precum și pentru stabilirea unor măsuri de prevenire și combatere a publicității și a tehnicilor agresive de comunicare practicate de entitățile care nu sunt înscrise în Registrul Autorității de Supraveghere Financiară",
+"short": "OUG nr. 71/2024",
+"code": null,
+"status": "amending act",
+"versions": 3,
+"from": "2024-06-25",
+"latest": "2024-12-21",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/284542"
 },
 {
 "slug": "oug-73-2024",
