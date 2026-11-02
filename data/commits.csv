@@ -4971,3 +4971,50 @@ day,kind,law,acts,files,branch
 2025-04-14,law,legea-46-2025,legea-46-2003,1,main
 2025-12-09,law,oug-70-2025,legea-17-2000 legea-292-2011,6,main
 2025-12-31,law,oug-90-2025,legea-292-2011,1,main
+2003-01-17,start,legea-14-2003,legea-14-2003,56,main
+2004-10-02,start,legea-370-2004,legea-370-2004,31,main
+2004-10-09,law,oug-77-2004,legea-370-2004,4,main
+2004-10-09,unexplained,,legea-370-2004,27,main
+2008-03-07,law,oug-20-2008,legea-14-2003,1,main
+2008-03-07,unexplained,,legea-14-2003,7,main
+2009-09-03,law,oug-95-2009,legea-370-2004,70,main
+2009-10-03,law,rectificare-mo-658-2009,legea-370-2004,1,main
+2011-06-23,law,legea-98-2011,legea-370-2004,13,main
+2011-09-12,law,oug-95-2009,legea-370-2004,116,main
+2012-08-06,law,legea-76-2012,legea-14-2003,48,main
+2013-02-01,law,legea-76-2012,legea-370-2004,4,main
+2013-02-01,unexplained,,legea-370-2004,1,main
+2014-02-01,law,legea-187-2012,legea-14-2003 legea-370-2004,5,main
+2014-02-13,law,oug-4-2014,legea-370-2004,5,main
+2014-02-13,unexplained,,legea-370-2004,2,main
+2014-02-23,law,oug-4-2014,legea-370-2004,1,main
+2014-05-12,law,legea-187-2012,legea-14-2003,4,main
+2014-06-27,law,oug-45-2014,legea-370-2004,18,main
+2015-05-23,start,legea-115-2015,legea-115-2015,140,main
+2015-05-23,law,legea-114-2015,legea-14-2003,16,main
+2015-06-10,law,legea-114-2015,legea-14-2003,34,main
+2015-07-27,start,legea-208-2015,legea-208-2015,123,main
+2015-11-22,law,legea-288-2015,legea-208-2015,7,main
+2016-04-25,law,rectificare-mo-316-2016,legea-115-2015,1,main
+2016-09-05,law,oug-47-2016,legea-208-2015,1,main
+2017-07-01,law,legea-153-2017,legea-208-2015,1,main
+2018-03-10,law,legea-51-2018,legea-208-2015,3,main
+2019-05-08,law,oug-29-2019,legea-208-2015,1,main
+2019-05-08,unexplained,,legea-208-2015,2,main
+2019-06-04,law,oug-40-2019,legea-115-2015,31,main
+2019-06-04,unexplained,,legea-115-2015,2,main
+2019-07-05,law,oug-57-2019,legea-115-2015,6,main
+2019-07-28,law,legea-148-2019,legea-208-2015 legea-370-2004,49,main
+2019-07-28,unexplained,,legea-208-2015,1,main
+2019-09-12,law,oug-64-2019,legea-208-2015 legea-370-2004,6,main
+2020-02-14,law,oug-26-2020,legea-208-2015,47,main
+2020-05-01,law,dcc-150-2020,legea-208-2015,47,main
+2020-06-28,law,legea-91-2020,legea-115-2015 legea-208-2015,10,main
+2020-09-19,law,legea-202-2020,legea-208-2015,26,main
+2022-05-28,law,legea-156-2022,legea-208-2015,1,main
+2022-07-07,law,legea-196-2022,legea-370-2004,1,main
+2022-11-10,law,legea-294-2022,legea-115-2015,1,main
+2022-11-10,law,legea-295-2022,legea-208-2015,1,main
+2023-07-27,law,legea-256-2023,legea-115-2015,1,main
+2024-05-10,law,legea-125-2024,legea-370-2004,1,main
+2024-10-08,law,legea-214-2024,legea-208-2015,1,main

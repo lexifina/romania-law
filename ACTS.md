@@ -1,6 +1,6 @@
 # Every act in this repository
 
-1044 acts, 3,982 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+1048 acts, 4,026 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -25,7 +25,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (535, of which 352 amending acts)
+## Laws (legi) (539, of which 353 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -70,6 +70,7 @@
 | Legea nr. 365/2002 privind comerțul electronic | [`lege/2002/365/`](lege/2002/365/) | in force | 7 | 2002-07-05 | 2024-10-08 |
 | Legea sănătății mintale și a protecției persoanelor cu tulburări psihice nr. 487/2002 | [`lege/2002/487/`](lege/2002/487/) | in force | 10 | 2002-08-08 | 2024-12-13 |
 | Legea nr. 500/2002 privind finanțele publice | [`lege/2002/500/`](lege/2002/500/) | in force | 28 | 2003-01-01 | 2023-10-05 |
+| Legea partidelor politice nr. 14/2003 | [`lege/2003/14/`](lege/2003/14/) | in force | 7 | 2003-01-17 | 2015-06-10 |
 | Legea nr. 39/2003 privind prevenirea și combaterea criminalității organizate | [`lege/2003/39/`](lege/2003/39/) | in force | 4 | 2003-02-28 | 2014-02-01 |
 | Legea drepturilor pacientului nr. 46/2003 | [`lege/2003/46/`](lege/2003/46/) | in force | 12 | 2003-02-28 | 2025-04-14 |
 | Legea nr. 52/2003 privind transparența decizională în administrația publică | [`lege/2003/52/`](lege/2003/52/) | in force | 4 | 2003-04-04 | 2022-03-02 |
@@ -84,6 +85,7 @@
 | Legea nr. 303/2004 privind statutul judecătorilor și procurorilor | [`lege/2004/303/`](lege/2004/303/) | in force | 38 | 2004-09-27 | 2021-12-31 |
 | Legea nr. 304/2004 privind organizarea judiciară | [`lege/2004/304/`](lege/2004/304/) | in force | 45 | 2004-09-27 | 2022-12-16 |
 | Legea nr. 346/2004 privind stimularea înființării și dezvoltării întreprinderilor mici și mijlocii | [`lege/2004/346/`](lege/2004/346/) | in force | 20 | 2004-08-01 | 2025-12-12 |
+| Legea nr. 370/2004 pentru alegerea Președintelui României | [`lege/2004/370/`](lege/2004/370/) | in force | 15 | 2004-10-02 | 2024-05-10 |
 | Legea nr. 506/2004 privind prelucrarea datelor cu caracter personal și protecția vieții private în sectorul comunicațiilor electronice | [`lege/2004/506/`](lege/2004/506/) | in force | 9 | 2004-11-28 | 2024-10-08 |
 | Legea contenciosului administrativ nr. 554/2004 | [`lege/2004/554/`](lege/2004/554/) | in force | 20 | 2005-01-06 | 2023-04-27 |
 | Legea nr. 1/2005 privind organizarea și funcționarea cooperației | [`lege/2005/1/`](lege/2005/1/) | in force | 7 | 2005-03-03 | 2018-07-15 |
@@ -120,9 +122,11 @@
 | Legea nr. 85/2014 privind procedurile de prevenire a insolvenței și de insolvență | [`lege/2014/85/`](lege/2014/85/) | in force | 14 | 2014-06-28 | 2025-12-18 |
 | Legea nr. 99/2014 pentru modificarea și completarea Legii serviciului de salubrizare a localităților nr. 101/2006 | [`lege/2014/99/`](lege/2014/99/) | amending act | 2 | 2014-07-11 | 2022-04-07 |
 | Legea nr. 138/2014 pentru modificarea și completarea Legii nr. 134/2010 privind Codul de procedură civilă, precum și pentru modificarea și completarea unor acte normative conexe | [`lege/2014/138/`](lege/2014/138/) | amending act | 2 | 2014-10-19 | 2016-02-04 |
+| Legea nr. 115/2015 pentru alegerea autorităților administrației publice locale, pentru modificarea Legii administrației publice locale nr. 215/2001, precum și pentru modificarea și completarea Legii nr. 393/2004 privind Statutul aleșilor locali | [`lege/2015/115/`](lege/2015/115/) | amending act | 7 | 2015-05-23 | 2023-07-27 |
 | Legea nr. 136/2015 | [`lege/2015/136/`](lege/2015/136/) | in force | 2 | 2015-06-13 | 2024-03-29 |
 | Legea nr. 151/2015 privind procedura insolvenței persoanelor fizice | [`lege/2015/151/`](lege/2015/151/) | in force | 2 | 2015-06-29 | 2018-01-01 |
 | Codul de procedură fiscală (Legea nr. 207/2015) | [`lege/2015/207/`](lege/2015/207/) | in force | 62 | 2016-01-01 | 2026-02-25 |
+| Legea nr. 208/2015 privind alegerea Senatului și a Camerei Deputaților, precum și pentru organizarea și funcționarea Autorității Electorale Permanente | [`lege/2015/208/`](lege/2015/208/) | in force | 15 | 2015-07-27 | 2024-10-08 |
 | Codul fiscal (Legea nr. 227/2015) | [`lege/2015/227/`](lege/2015/227/) | in force | 149 | 2016-01-01 | 2026-08-08 |
 | Legea nr. 237/2015 privind autorizarea și supravegherea activității de asigurare și reasigurare | [`lege/2015/237/`](lege/2015/237/) | in force | 11 | 2016-01-01 | 2025-12-19 |
 | Legea nr. 246/2015 | [`lege/2015/246/`](lege/2015/246/) | in force | 3 | 2015-11-05 | 2024-01-19 |

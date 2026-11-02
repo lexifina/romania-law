@@ -8711,6 +8711,57 @@
    ]
   },
   {
+   "slug": "legea-115-2015",
+   "path": "lege/2015/115",
+   "short": "Legea nr. 115/2015",
+   "title": "Legea nr. 115/2015 pentru alegerea autorităților administrației publice locale, pentru modificarea Legii administrației publice locale nr. 215/2001, precum și pentru modificarea și completarea Legii nr. 393/2004 privind Statutul aleșilor locali",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/168136",
+   "versions": [
+    {
+     "from": "2015-05-23",
+     "units": 140,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/168136",
+     "sha256": "e7d805906f30e3b7a6d47f99f9af1a07983c234a9d56c79274b54349677a754d"
+    },
+    {
+     "from": "2016-04-25",
+     "units": 140,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/177937",
+     "sha256": "1ebe76ab28910bf8368ac75312c39aefeb6f9a5b1cda68e3d8f6aa02847e46be"
+    },
+    {
+     "from": "2019-06-04",
+     "units": 141,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/214332",
+     "sha256": "0c139b2d419a1796bf548e1bc79220801de0e055f38e76b1054cacb3e031ccd2"
+    },
+    {
+     "from": "2019-07-05",
+     "units": 141,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/215696",
+     "sha256": "c3992651cd2e379f6b86b96f2a3fdb72ec3d857b0bf511fe66bfcc9d944ef8ed"
+    },
+    {
+     "from": "2020-06-28",
+     "units": 141,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/226474",
+     "sha256": "30e96f0001f353198c608f40cde4c7c92370adec4738685e851efef3d7fb1b56"
+    },
+    {
+     "from": "2022-11-10",
+     "units": 141,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/261027",
+     "sha256": "3fef7cf34bdbaec255750dd41465f47d925ccb8951b9e857db86c3dc87c82b85"
+    },
+    {
+     "from": "2023-07-27",
+     "units": 141,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168136",
+     "sha256": "74fd8d89bdeaaf0f50c7d60756c01b51a2f076518ab23040ff8c2734795c1877"
+    }
+   ]
+  },
+  {
    "slug": "legea-122-2006",
    "path": "lege/2006/122",
    "short": "Legea nr. 122/2006",
@@ -9046,6 +9097,57 @@
      "units": 14,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/183773",
      "sha256": "8c4a308b1d705fc3849e26953c066cbad4b08bb1d885b45b696fe6cae8fd2c9f"
+    }
+   ]
+  },
+  {
+   "slug": "legea-14-2003",
+   "path": "lege/2003/14",
+   "short": "Legea nr. 14/2003",
+   "title": "Legea partidelor politice nr. 14/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/41241",
+   "versions": [
+    {
+     "from": "2003-01-17",
+     "units": 56,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/41241",
+     "sha256": "5aa79eaefc321e2b92c4598090d236da06044c4403404af4ddfba54596596e8b"
+    },
+    {
+     "from": "2008-03-07",
+     "units": 57,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/90220",
+     "sha256": "3eb66bd617e2253a051195dc44d24160299fe7e344bae32b8fe9745a9d98074a"
+    },
+    {
+     "from": "2012-08-06",
+     "units": 57,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/140284",
+     "sha256": "aaf0edc756debb8ce72a72c4921424976600a14a0f117d4342ea358553cc3027"
+    },
+    {
+     "from": "2014-02-01",
+     "units": 57,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142779",
+     "sha256": "5044fad5e49ded3e4da91e031284d3258905fd208baf0a1b5c33f00bbbb5e81a"
+    },
+    {
+     "from": "2014-05-12",
+     "units": 57,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/158095",
+     "sha256": "79ae52c7f5b751fde7f168ebdb566cd2355a1ae73af47cabb773c5b1826f3988"
+    },
+    {
+     "from": "2015-05-23",
+     "units": 57,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167390",
+     "sha256": "08d51fd8a1c4d8f8038de288f5f6011c48c3547d0c9d90ad4ffa335fb8ed8529"
+    },
+    {
+     "from": "2015-06-10",
+     "units": 55,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168687",
+     "sha256": "3832afefa6769d2f9df0ba89b8204b6a965d0c63b28c3c4c903f0648d8e64db5"
     }
    ]
   },
@@ -10351,6 +10453,105 @@
      "units": 47,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35778",
      "sha256": "f87bb78c06e85640b0333ec9044ddcc51798d0d47d75227d972d84a5f877917a"
+    }
+   ]
+  },
+  {
+   "slug": "legea-208-2015",
+   "path": "lege/2015/208",
+   "short": "Legea nr. 208/2015",
+   "title": "Legea nr. 208/2015 privind alegerea Senatului și a Camerei Deputaților, precum și pentru organizarea și funcționarea Autorității Electorale Permanente",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170037",
+   "versions": [
+    {
+     "from": "2015-07-27",
+     "units": 123,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/170037",
+     "sha256": "42f95134677ce3df8ac24a97d9a03cc1e50b3a43909f60c891a56cf66188ebb4"
+    },
+    {
+     "from": "2015-11-22",
+     "units": 123,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/173238",
+     "sha256": "d1ad74ba6d5600926a3276a987c12506f01d65828a47bf7f258f665937959c27"
+    },
+    {
+     "from": "2016-09-05",
+     "units": 123,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181496",
+     "sha256": "f306ea2744ef6584578d9239dd7edb637b0150bcb3909b33c4d97a9ac04c9b5a"
+    },
+    {
+     "from": "2017-07-01",
+     "units": 123,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/190485",
+     "sha256": "9846ca5f8a2c14d2b3d7ee466efe91c598028f8963e2b46c28a033f247b52024"
+    },
+    {
+     "from": "2018-03-10",
+     "units": 123,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/198333",
+     "sha256": "6d73c082800cbb004b883cabedb314441915cbc8a990add26b410db42d8b1c83"
+    },
+    {
+     "from": "2019-05-08",
+     "units": 124,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/213163",
+     "sha256": "43e30c36ee7f0b51336cdb23a9aaaf2b410603b3e3557c15f4bcbfd18bdda8c6"
+    },
+    {
+     "from": "2019-07-28",
+     "units": 127,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/216284",
+     "sha256": "f515c4bf6e82b8506533566f04d80c60fe091812101ead8b5c3a800124352870"
+    },
+    {
+     "from": "2019-09-12",
+     "units": 127,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/217754",
+     "sha256": "282d9f60448058914f1c0a142fc9a3cac55aa7770bd4701f28b46ac8b5f21407"
+    },
+    {
+     "from": "2020-02-14",
+     "units": 136,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/222887",
+     "sha256": "51a8eeeb33dd8bb6f44071df7df7260d1d170dced7d45eff894a07b4d8893645"
+    },
+    {
+     "from": "2020-05-01",
+     "units": 136,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/226475",
+     "sha256": "bcc1f043dab65a74c52034ab67f51228b9550e2877fd720f13595c2021330826"
+    },
+    {
+     "from": "2020-06-28",
+     "units": 136,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/226476",
+     "sha256": "90810c9ef5702160c063f65ada71dfc14d285e79664a3c807ee96f9ce1f93b12"
+    },
+    {
+     "from": "2020-09-19",
+     "units": 139,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/229495",
+     "sha256": "496cba4900fc734634dc232adb28086edae394aad94417305f9421672ec6b804"
+    },
+    {
+     "from": "2022-05-28",
+     "units": 139,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/255246",
+     "sha256": "65736711b44c4784337225c9b87354f28a2aa741c630bbde9991361c00339772"
+    },
+    {
+     "from": "2022-11-10",
+     "units": 139,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/261028",
+     "sha256": "de8f342d103cebf13ac11f07770e80b1dd1f653b37089302e2128be7ead13528"
+    },
+    {
+     "from": "2024-10-08",
+     "units": 139,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/288608",
+     "sha256": "9e18526f23a00c46be885346f520fab9756d5d55d9501a4cc0b764b137ddf293"
     }
    ]
   },
@@ -13186,6 +13387,105 @@
      "units": 189,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/269380",
      "sha256": "99e025917e15d6b9b10b0d4f370ab7cb16616b56351c3200dfaa36befbfd5c7b"
+    }
+   ]
+  },
+  {
+   "slug": "legea-370-2004",
+   "path": "lege/2004/370",
+   "short": "Legea nr. 370/2004",
+   "title": "Legea nr. 370/2004 pentru alegerea Președintelui României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/55481",
+   "versions": [
+    {
+     "from": "2004-10-02",
+     "units": 31,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/55481",
+     "sha256": "e739c9b78dd958b7189b718f0394e98e8a7ba3f5059e8f9d1073913db36b07d7"
+    },
+    {
+     "from": "2004-10-09",
+     "units": 32,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/82024",
+     "sha256": "de34d44a35176eddd42a76afb871ef574d4c831e1f588d8d1e1e314a688b538b"
+    },
+    {
+     "from": "2009-09-03",
+     "units": 73,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/111008",
+     "sha256": "d542b78ee2cbbd3134a50c8e757431b524322d42b906999dadfaa6b75ddd4e95"
+    },
+    {
+     "from": "2009-10-03",
+     "units": 73,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/111875",
+     "sha256": "18182c5c2f7ca0a12d91904c0a29fcc29e248cae9403f6d13142d470d923492a"
+    },
+    {
+     "from": "2011-06-23",
+     "units": 73,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/130026",
+     "sha256": "af797af8879fc4c73a45cb9fd8b8a825d3c44832957d21d25c1ece6563ad86cc"
+    },
+    {
+     "from": "2011-09-12",
+     "units": 73,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/131385",
+     "sha256": "e7b6057a261e75829d26b341079cce8023248c356a06150812e1597daccc7804"
+    },
+    {
+     "from": "2013-02-01",
+     "units": 73,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/140231",
+     "sha256": "3ff6151a2d8a7da4242f8f15171b77ec810eb57021ff71c268a32fc2fc25d834"
+    },
+    {
+     "from": "2014-02-01",
+     "units": 73,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/154597",
+     "sha256": "04183e693aaabe32a3867e218ba5c1c5fcebf0e2f4db81882a379a37e069da3e"
+    },
+    {
+     "from": "2014-02-13",
+     "units": 73,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/155591",
+     "sha256": "b319361943738cd8e0a0ab4a409ccc773b8292a9d1324e2a498cb1f7a6159b6d"
+    },
+    {
+     "from": "2014-02-23",
+     "units": 73,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/155592",
+     "sha256": "74461e145491ce9de9a7b2b5654553d95ac62b9dfeb18419c41de0fc4af282e8"
+    },
+    {
+     "from": "2014-06-27",
+     "units": 73,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/159600",
+     "sha256": "422245b9e5d5378eebac335f7dc8155b2cc19a6a391329046f3d51cb053f72ac"
+    },
+    {
+     "from": "2019-07-28",
+     "units": 76,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/216285",
+     "sha256": "8e9e9e7f792e5d7d9ef5043b992a7cdf549a1c5f12b85a0dcad5291d8a3ce2bb"
+    },
+    {
+     "from": "2019-09-12",
+     "units": 76,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/217753",
+     "sha256": "00af5537b06ce15c4b51da0e4c2f5d976eb46b7ac9b7e5dc1af43b77a6af55e9"
+    },
+    {
+     "from": "2022-07-07",
+     "units": 76,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/256377",
+     "sha256": "392f3888c313a13b03a1e99ef17ff8c1b2509fe5bc8c308d16a32ee5b003929e"
+    },
+    {
+     "from": "2024-05-10",
+     "units": 76,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/282136",
+     "sha256": "439fc6ac786b63f9983dbe601211a84848d9499f15a9a89098a4b749173c00e0"
     }
    ]
   },
