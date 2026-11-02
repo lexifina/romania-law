@@ -103,6 +103,32 @@ def published_log(repo: Path) -> list[dict]:
     return log
 
 
+def acts_index(c: dict) -> str:
+    """ACTS.md: every act in the corpus, grouped by kind, with its version count and span (generated each publish)."""
+    groups = [('Codes and the Constitution', lambda s: s.startswith(('codul-', 'constitutia'))),
+              ('Laws (legi)', lambda s: s.startswith('legea-')),
+              ('Emergency ordinances (OUG)', lambda s: s.startswith('oug-')),
+              ('Ordinances (OG)', lambda s: s.startswith('og-')),
+              ('Government decisions (HG)', lambda s: s.startswith('hg-'))]
+    acts = sorted(c['acts'], key=lambda a: a['slug'])
+    seen: set[str] = set()
+    out = ['# Every act in this repository', '',
+           f'{len(acts)} acts, {sum(len(a["versions"]) for a in acts):,} versions. Generated on every publish from the '
+           'corpus; each folder\'s README.md lists its articles. Dates are in-force days.', '']
+    for name, test in groups + [('Other acts', lambda s: True)]:
+        rows = [a for a in acts if a['slug'] not in seen and test(a['slug'])]
+        if not rows:
+            continue
+        seen |= {a['slug'] for a in rows}
+        out += [f'## {name} ({len(rows)})', '', '| Folder | Act | Versions | From | Latest |', '| --- | --- | ---: | --- | --- |']
+        for a in rows:
+            vs = a['versions']
+            title = a.get('title', a['slug']).replace('|', '/')
+            out.append(f'| [`{a["slug"]}/`]({a["slug"]}/) | {title} | {len(vs)} | {vs[0]["from"]} | {vs[-1]["from"]} |')
+        out.append('')
+    return '\n'.join(out)
+
+
 class Appender:
     """`git fast-import` onto an existing main; separate author and committer dates."""
 
@@ -214,6 +240,7 @@ def append(folder: Path, repo: Path, docs_date: str, dry_run: bool = False, comm
     docs = B.docs_files(c, folder, raw, full_log, all_tags, docs_date)
     # Ship this script beside build.py, so the repository says how its appended commits were made.
     docs['tools/append.py'] = Path(__file__).read_text(encoding='utf-8').replace('\r\n', '\n')
+    docs['ACTS.md'] = acts_index(c)
     # One row per append batch: which head it started from, its first committer time, its commit count and its acts.
     prev_log = subprocess.run(['git', 'show', f'{head}:data/appends.csv'], cwd=repo, capture_output=True,
                               text=True, encoding='utf-8').stdout or 'batch,base,committer_start,commits,acts\n'

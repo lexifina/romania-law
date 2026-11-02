@@ -55,6 +55,10 @@ def register(P):
             '153/2010 (Monitorul Oficial nr. 496 of 19 July 2010, read as published, DetaliiDocumentAfis/120675) '
             'repeals them in art. I pct. 2 and 4; it sets no day of its own, so it took effect 3 days after '
             'publication (Constituția art. 78), on 22 July 2010, the day of the form; the repeal is dated by the act.',
+            'Legea nr. 61/1991: four changes carry no note and name no act, and are left as the portal prints them, '
+            'credited to no law: arts. 4, 7 and 17 in the form of 29 September 2002 (the portal prints the paragraph '
+            'numbers (1) and (2) that the form before it leaves out) and art. 8 alin. (2) in the form of 16 July 2013 '
+            '(printed as "Încetat efectele juridice." in place of its text, with no note).',
         ],
         'repeal_acts': {
             'og-55-2002': {

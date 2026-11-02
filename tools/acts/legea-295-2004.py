@@ -28,8 +28,32 @@ def register(P):
             'explains, to Legea nr. 117/2011, under whose art. VII it was republished, as its own note says.',
             'Legea nr. 295/2004: the republication of 10 June 2014 (158882) is credited, for the changes no note '
             'explains, to Legea nr. 187/2012, under whose art. 248 it was republished, as its own note says.',
+            'Legea nr. 295/2004: arts. 4, 19, 58^3, 92, 93, 98, 99, 100, 102, 123, 127, 128, 139 and 140 are left out '
+            'of the form of 27 July 2011. Legea nr. 117/2011 (Monitorul Oficial nr. 446 of 27 June 2011, read as '
+            'published, DetaliiDocumentAfis/129609) repeals them in art. I pct. 13, 25, 60, 90, 95, 117, 122 and 128 '
+            'and takes effect 30 days after publication (its art. III), on 27 July 2011, the day of the form; the '
+            'repeal is dated by the act.',
         ],
-        'repeal_acts': {},
+        'repeal_acts': {
+            'legea-117-2011': {
+                'label': 'Legea nr. 117/2011', 'page': '129609', 'capture': '20260120025647',
+                'cc': {'crawl': 'CC-MAIN-2026-04', 'timestamp': '20260120025647',
+                       'filename': 'crawl-data/CC-MAIN-2026-04/segments/1768220469512.27/warc/'
+                                   'CC-MAIN-20260120014810-20260120044810-00553.warc.gz',
+                       'offset': '259897088', 'length': '74383',
+                       'url': 'https://legislatie.just.ro/Public/DetaliiDocumentAfis/129609'},
+                'in_force': '2011-07-27',
+                'why': 'its art. III: in force 30 days after publication in Monitorul Oficial nr. 446 of 27 June '
+                       '2011',
+                'read': 'art. I pct. 13 (art. 4), 25 (art. 19), 60 (art. 58^3), 90 (arts. 92 and 93), 95 (arts. 98, '
+                        '99, 100 and 102), 117 (art. 123), 122 (arts. 127 and 128) and 128 (arts. 139 and 140): '
+                        '"Articolul ... se abrogă."',
+                'repeals': {'129867': ('art-004', 'art-019', 'art-058-3', 'art-092', 'art-093', 'art-098',
+                                       'art-099', 'art-100', 'art-102', 'art-123', 'art-127', 'art-128', 'art-139',
+                                       'art-140')},
+                'cite': 'Abrogat de LEGEA nr. 117 din 15 iunie 2011, publicată în MONITORUL OFICIAL nr. 446 din 27 '
+                        'iunie 2011'},
+        },
     }
     P.PHASE11 = P.PHASE11 + (SLUG,)
     P.PHASE6 = P.PHASE6 + (SLUG,)

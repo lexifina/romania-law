@@ -72,7 +72,10 @@ def register(P):
             'Oficial nr. 638 of 18 September 2007, that art. 74 of the text republished on 8 August 2007 is removed (it '
             'had been repealed expressly by art. 298 alin. (1) pct. 1 of Legea nr. 571/2003, which the forms of 2004-2007 '
             'nevertheless go on printing). The article is shown repealed on 18 September 2007, the rectification\'s '
-            'day and the form\'s, credited to the rectification; the form itself is the text read.',
+            'day and the form\'s, credited to the rectification; the form itself is the text read. The forms of 2007 and later also print, '
+            'under art. 70, a note that art. 70 of the law as first numbered (art. 74 in the republication of 2002) '
+            'was repealed by art. I pct. 70 of Legea nr. 28/2007; it concerns the earlier numbering and is not read '
+            'as a repeal here.',
             'Legea nr. 64/1991: the form of 1 January 2004 prints most articles with the diacritics of the text '
             'republished in 2002 stripped in places ("inventia", "industriala"), and a few later forms differ from the '
             'one before only in a diacritic or a line break; these changes name no law and are committed as the '

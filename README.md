@@ -6,6 +6,8 @@ It follows the shared design of [lexifina/global-law](https://github.com/lexifin
 
 **What is in it now**
 
+**Every act** is listed in [ACTS.md](ACTS.md), grouped by kind (codes, laws, emergency ordinances, ordinances, Government decisions), with its versions and the span they cover. It is generated afresh on every publish. The main codes and laws, with a note on each history:
+
 | Folder | Act | Versions | History |
 | --- | --- | ---: | --- |
 | `constitutia/` | Constituția României | 2 | The 1991 text (in force on its approval by referendum, 8 December 1991) and the text revised by Legea nr. 429/2003 (in force 29 October 2003). It has not been amended since. |
