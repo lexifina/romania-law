@@ -13,6 +13,7 @@ Initiator: Membri ai Parlamentului.
 - 2026-09-02: rejected by the Chamber of Deputies
 - 2026-09-03: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 - 2026-09-16: documents published: Aviz comisie
+- 2026-11-02: rejected by the Senate; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -21,3 +22,4 @@ Initiator: Membri ai Parlamentului.
 - 2026-09-03: Forma inițiatorului (FG): [fg-b1317d3c.md](fg-b1317d3c.md); official file https://www.senat.ro/legis/PDF/2026/26L554FG.PDF
 - 2026-09-03: Expunere de motive (EM): [em-84ca398b.md](em-84ca398b.md); official file https://www.senat.ro/legis/PDF/2026/26L554EM.PDF
 - 2026-09-16: Aviz comisie (CA45): [ca45-30c94493.md](ca45-30c94493.md); official file https://www.senat.ro/legis/PDF/2026/26L554CA45.PDF
+- 2026-11-02: Document (ARD): [ard-dc43e3f7.md](ard-dc43e3f7.md); official file https://www.senat.ro/legis/PDF/2026/26L554ARD.PDF (its day is not given by the bill file: shown from the last stage held)
