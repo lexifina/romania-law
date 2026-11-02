@@ -11267,6 +11267,57 @@
    ]
   },
   {
+   "slug": "legea-159-2016",
+   "path": "lege/2016/159",
+   "short": "Legea nr. 159/2016",
+   "title": "Legea nr. 159/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/180378",
+   "versions": [
+    {
+     "from": "2016-07-28",
+     "units": 48,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/180378",
+     "sha256": "c34daca24c48e4acbd7cf8916f0321fbb091570bac168e958bd1e28d16b303e7"
+    },
+    {
+     "from": "2016-08-24",
+     "units": 52,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/180378",
+     "sha256": "c34daca24c48e4acbd7cf8916f0321fbb091570bac168e958bd1e28d16b303e7"
+    },
+    {
+     "from": "2018-12-29",
+     "units": 52,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/209206",
+     "sha256": "9ff9c1c5b3b7549b9ee1824755befb88db10dc906c6ec3bbf4ccd53869151688"
+    },
+    {
+     "from": "2019-05-31",
+     "units": 52,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/214215",
+     "sha256": "b90884d0936c640ff0936fdbb15ab9605e8333a3eeaa293913309c447561d366"
+    },
+    {
+     "from": "2020-01-09",
+     "units": 52,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/221482",
+     "sha256": "d30413ed27729c69cc63d3ccded7486e65c76fe785fc8d737f148f0fca616858"
+    },
+    {
+     "from": "2022-07-10",
+     "units": 53,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/257050",
+     "sha256": "da93424600b48e4c7552b05652380a7dbae51da38516a5294796fd098aed742a"
+    },
+    {
+     "from": "2024-10-08",
+     "units": 53,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/288609",
+     "sha256": "5e6260b43d054ec9ec092dc7a5f6170ee8315b405cf2c5bae7ec5c10ea6a14ba"
+    }
+   ]
+  },
+  {
    "slug": "legea-161-2003",
    "path": "lege/2003/161",
    "short": "Legea nr. 161/2003",
@@ -12052,6 +12103,39 @@
      "units": 111,
      "source_url": "https://web.archive.org/web/20260515080430id_/https://legislatie.just.ro/Public/DetaliiDocument/203233",
      "sha256": "7ce22fe6ede5d28f298a3d25ff4544f522aebb4a0f115681113e6a2693167f96"
+    }
+   ]
+  },
+  {
+   "slug": "legea-198-2022",
+   "path": "lege/2022/198",
+   "short": "Legea nr. 198/2022",
+   "title": "Legea nr. 198/2022 pentru modificarea și completarea unor acte normative în domeniul comunicațiilor electronice și pentru stabilirea unor măsuri de facilitare a dezvoltării rețelelor de comunicații electronice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/257364",
+   "versions": [
+    {
+     "from": "2022-07-10",
+     "units": 59,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/257364",
+     "sha256": "432c235338289a03ee48cab1d17b4a129a083ad3d4d2cbdd864f846aa161d93f"
+    },
+    {
+     "from": "2022-07-17",
+     "units": 60,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/257364",
+     "sha256": "432c235338289a03ee48cab1d17b4a129a083ad3d4d2cbdd864f846aa161d93f"
+    },
+    {
+     "from": "2022-08-06",
+     "units": 61,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/257364",
+     "sha256": "432c235338289a03ee48cab1d17b4a129a083ad3d4d2cbdd864f846aa161d93f"
+    },
+    {
+     "from": "2023-09-12",
+     "units": 61,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/257364",
+     "sha256": "d9ba53060b4a0839b711d1012812c558a6480a6eeace1fd0b81da05deeed67eb"
     }
    ]
   },
@@ -18416,6 +18500,63 @@
    ]
   },
   {
+   "slug": "legea-70-2015",
+   "path": "lege/2015/70",
+   "short": "Legea nr. 70/2015",
+   "title": "Legea nr. 70/2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167088",
+   "versions": [
+    {
+     "from": "2015-04-12",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/167088",
+     "sha256": "e756b2c43922bd8be2f9b63a779f5a2da4d1ba109d8fb1eb2b9522a6bfc66c89"
+    },
+    {
+     "from": "2016-08-01",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/179669",
+     "sha256": "efa483f05bc8623bb167662ade26bed0e4b8140b59c8aee6e9d65e499e05650e"
+    },
+    {
+     "from": "2019-01-06",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/209207",
+     "sha256": "9bd6acfff48e5ad3d1f7807fd5789c835faa218ef8c59cdb5ea5cbd501182dea"
+    },
+    {
+     "from": "2023-11-11",
+     "units": 21,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/269122",
+     "sha256": "d09a3dba3d49cb087c177a5f5f3ba33993b3139b68b47559b6da3560bd541ac7"
+    },
+    {
+     "from": "2023-12-15",
+     "units": 21,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/269531",
+     "sha256": "1777d026741d3ddfc39c0baa4b0be20d4eada314d352b2257388b72ec115a60c"
+    },
+    {
+     "from": "2023-12-25",
+     "units": 21,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/269531",
+     "sha256": "1777d026741d3ddfc39c0baa4b0be20d4eada314d352b2257388b72ec115a60c"
+    },
+    {
+     "from": "2024-06-16",
+     "units": 21,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/283695",
+     "sha256": "6c1eca12a7a019e4c7220b0975da5a9afcf4027fe7dca3914062f49e0c31bdd5"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 21,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/304521",
+     "sha256": "03a5467afd8fb265ca439de063a958cf5f5b0e01afcbe25bc2a45925e6b12af0"
+    }
+   ]
+  },
+  {
    "slug": "legea-71-2011",
    "path": "lege/2011/71",
    "short": "Legea nr. 71/2011",
@@ -21566,6 +21707,45 @@
    ]
   },
   {
+   "slug": "og-27-2002",
+   "path": "og/2002/27",
+   "short": "OG nr. 27/2002",
+   "title": "Ordonanța Guvernului nr. 27/2002 privind reglementarea activității de soluționare a petitiilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/33817",
+   "versions": [
+    {
+     "from": "2002-02-01",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/33817",
+     "sha256": "1310047545d7cd5cdc8b5e38b6ed98aebca17d0a7107de5449c523859dee12f8"
+    },
+    {
+     "from": "2002-04-30",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35033",
+     "sha256": "dea9aaabc491156fadb3d3cb2aebe685a781b8bf6cac7033feb6b99215a02eae"
+    },
+    {
+     "from": "2002-08-20",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35034",
+     "sha256": "e5753f26da8ad5289f4e9d871d6331e45bd2de35cc29651e9635806e7dee03d1"
+    },
+    {
+     "from": "2018-01-21",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/196568",
+     "sha256": "fd2449b1bc8ca3b755c49a65cbdf3b849218be4d1fac076809e926f60ee37670"
+    },
+    {
+     "from": "2024-12-01",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33817",
+     "sha256": "09f76f06d66f37e7df436bc626d881492d913b56182d5b1cfa07b3df3b3148f2"
+    }
+   ]
+  },
+  {
    "slug": "og-29-1997",
    "path": "og/1997/29",
    "short": "OG nr. 29/1997",
@@ -21886,6 +22066,33 @@
      "units": 11,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/187258",
      "sha256": "50777b2b767b77640428810701333afd447f0cc2f0a836a42b8fc239755632b0"
+    }
+   ]
+  },
+  {
+   "slug": "oug-1-2020",
+   "path": "oug/2020/1",
+   "short": "OUG nr. 1/2020",
+   "title": "Ordonanța de urgență a Guvernului nr. 1/2020 privind unele măsuri fiscal-bugetare și pentru modificarea și completarea unor acte normative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/221921",
+   "versions": [
+    {
+     "from": "2020-01-09",
+     "units": 33,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/221921",
+     "sha256": "afad1fc7df8ba5ca4a18d68ddb6455eb36f4bcde207881b747d055297d77e8c0"
+    },
+    {
+     "from": "2020-05-29",
+     "units": 33,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/225800",
+     "sha256": "0d399a4df8005345131fc83266546bdb0733d7b909731d75cc4e4fa089e9d59a"
+    },
+    {
+     "from": "2025-08-21",
+     "units": 33,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/221921",
+     "sha256": "5cb7a061a33b8cec627426dcb7646630a0a45fe662a19b05a8a9e3b6c1b6e871"
     }
    ]
   },
@@ -22637,6 +22844,27 @@
    ]
   },
   {
+   "slug": "oug-21-2024",
+   "path": "oug/2024/21",
+   "short": "OUG nr. 21/2024",
+   "title": "Ordonanța de urgență a Guvernului nr. 21/2024 privind unele măsuri pentru organizarea și desfășurarea alegerilor pentru membrii din România în Parlamentul European din anul 2024 și a alegerilor pentru autoritățile administrației publice locale din anul 2024",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/279730",
+   "versions": [
+    {
+     "from": "2024-03-08",
+     "units": 37,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/279730",
+     "sha256": "5be027c23d2a13c77be13d83fef8dbd2fdf42544c1a5bf2c24c5b78e3f9c87e1"
+    },
+    {
+     "from": "2024-05-14",
+     "units": 37,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/279730",
+     "sha256": "fe63455b930ae2cec4f3fa03f7c01596b3d4c3a1e22a3d99d51dfeb5c9bbda7b"
+    }
+   ]
+  },
+  {
    "slug": "oug-3-2014",
    "path": "oug/2014/3",
    "short": "OUG nr. 3/2014",
@@ -22921,6 +23149,27 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/159362",
      "sha256": "35886e208f2a92e60db9ca3d0bfd8d0b16c5c98d70609e07a5459da5f3893abb"
+    }
+   ]
+  },
+  {
+   "slug": "oug-5-2025",
+   "path": "oug/2025/5",
+   "short": "OUG nr. 5/2025",
+   "title": "Ordonanța de urgență a Guvernului nr. 5/2025 privind unele măsuri din domeniul social și pentru modificarea și completarea unor acte normative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/295098",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/295098",
+     "sha256": "9ba4fa4e995464b35a6be79c609d2fa4800746051fc0e23fc2f893f09c12e05a"
+    },
+    {
+     "from": "2025-03-30",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/295098",
+     "sha256": "9ba4fa4e995464b35a6be79c609d2fa4800746051fc0e23fc2f893f09c12e05a"
     }
    ]
   },
@@ -27959,6 +28208,27 @@
    ]
   },
   {
+   "slug": "legea-121-2019",
+   "path": "lege/2019/121",
+   "short": "Legea nr. 121/2019",
+   "title": "Legea nr. 121/2019 privind evaluarea și gestionarea zgomotului ambiant",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/216510",
+   "versions": [
+    {
+     "from": "2019-07-26",
+     "units": 94,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/216510",
+     "sha256": "ae6d661e7856cfbf3751081cabe4a694e7f15c11e9096f62982e19a17f6d3b1d"
+    },
+    {
+     "from": "2022-06-18",
+     "units": 94,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/216510",
+     "sha256": "062ab01f027782fc1534d86d1f92c7dc15a2d2d27c419170c3ff84acb08d81cf"
+    }
+   ]
+  },
+  {
    "slug": "legea-121-2024",
    "path": "lege/2024/121",
    "short": "Legea nr. 121/2024",
@@ -32510,6 +32780,27 @@
    ]
   },
   {
+   "slug": "legea-361-2022",
+   "path": "lege/2022/361",
+   "short": "Legea nr. 361/2022",
+   "title": "Legea nr. 361/2022 privind protecția avertizorilor în interes public",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/262872",
+   "versions": [
+    {
+     "from": "2022-12-22",
+     "units": 38,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/262872",
+     "sha256": "f4adcdd286b3df3fd1415814121464df9c1406925013de185a6209d37171b08e"
+    },
+    {
+     "from": "2023-03-31",
+     "units": 38,
+     "source_url": "https://legislatie.just.ro/public/DetaliiDocument/262872",
+     "sha256": "b7ce252d808864cef276d86c85039f46a6106654858071494f4f927e8fff9716"
+    }
+   ]
+  },
+  {
    "slug": "legea-361-2023",
    "path": "lege/2023/361",
    "short": "Legea nr. 361/2023",
@@ -35299,6 +35590,27 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/294175",
      "sha256": "598d363839cc6eb190eed7275f5d03f3066f53bdf6e8ee1c379854fc627d9a74"
+    }
+   ]
+  },
+  {
+   "slug": "og-9-2021",
+   "path": "og/2021/9",
+   "short": "OG nr. 9/2021",
+   "title": "Ordonanța Guvernului nr. 9/2021 privind stabilirea unor măsuri de facilitare a utilizării informațiilor financiare și a analizelor financiare în scopul prevenirii, depistării, investigării sau urmăririi penale a anumitor infracțiuni",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/245921",
+   "versions": [
+    {
+     "from": "2021-09-03",
+     "units": 20,
+     "source_url": "https://web.archive.org/web/20250406205525id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/245921",
+     "sha256": "5e971d7dde77beb3b6572afae468ca460e998ee054414dc6a3c8f6007c347f26"
+    },
+    {
+     "from": "2022-06-09",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/245921",
+     "sha256": "a331325f2da2bb2a3c40ce700c15accca152a8debab68dc8b2b0f8ae5f1917c2"
     }
    ]
   },

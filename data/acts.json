@@ -2161,6 +2161,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/162199"
 },
 {
+"slug": "legea-70-2015",
+"path": "lege/2015/70",
+"kind": "lege",
+"year": "2015",
+"number": "70",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 70/2015",
+"short": "Legea nr. 70/2015",
+"code": null,
+"status": "in force",
+"versions": 8,
+"from": "2015-04-12",
+"latest": "2026-01-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/167088"
+},
+{
 "slug": "legea-74-2015",
 "path": "lege/2015/74",
 "kind": "lege",
@@ -2465,6 +2482,23 @@
 "from": "2016-06-22",
 "latest": "2024-01-01",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/178659"
+},
+{
+"slug": "legea-159-2016",
+"path": "lege/2016/159",
+"kind": "lege",
+"year": "2016",
+"number": "159",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 159/2016",
+"short": "Legea nr. 159/2016",
+"code": null,
+"status": "in force",
+"versions": 7,
+"from": "2016-07-28",
+"latest": "2024-10-08",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/180378"
 },
 {
 "slug": "legea-170-2016",
@@ -2788,6 +2822,23 @@
 "from": "2019-05-06",
 "latest": "2019-05-06",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/213403"
+},
+{
+"slug": "legea-121-2019",
+"path": "lege/2019/121",
+"kind": "lege",
+"year": "2019",
+"number": "121",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 121/2019 privind evaluarea și gestionarea zgomotului ambiant",
+"short": "Legea nr. 121/2019",
+"code": null,
+"status": "in force",
+"versions": 2,
+"from": "2019-07-26",
+"latest": "2022-06-18",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/216510"
 },
 {
 "slug": "legea-129-2019",
@@ -5017,6 +5068,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/257330"
 },
 {
+"slug": "legea-198-2022",
+"path": "lege/2022/198",
+"kind": "lege",
+"year": "2022",
+"number": "198",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 198/2022 pentru modificarea și completarea unor acte normative în domeniul comunicațiilor electronice și pentru stabilirea unor măsuri de facilitare a dezvoltării rețelelor de comunicații electronice",
+"short": "Legea nr. 198/2022",
+"code": null,
+"status": "amending act",
+"versions": 4,
+"from": "2022-07-10",
+"latest": "2023-09-12",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/257364"
+},
+{
 "slug": "legea-208-2022",
 "path": "lege/2022/208",
 "kind": "lege",
@@ -5814,6 +5882,23 @@
 "from": "2022-12-16",
 "latest": "2022-12-16",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/262447"
+},
+{
+"slug": "legea-361-2022",
+"path": "lege/2022/361",
+"kind": "lege",
+"year": "2022",
+"number": "361",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 361/2022 privind protecția avertizorilor în interes public",
+"short": "Legea nr. 361/2022",
+"code": null,
+"status": "in force",
+"versions": 2,
+"from": "2022-12-22",
+"latest": "2023-03-31",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/262872"
 },
 {
 "slug": "legea-365-2022",
@@ -10865,6 +10950,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/249441"
 },
 {
+"slug": "oug-1-2020",
+"path": "oug/2020/1",
+"kind": "oug",
+"year": "2020",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 1/2020 privind unele măsuri fiscal-bugetare și pentru modificarea și completarea unor acte normative",
+"short": "OUG nr. 1/2020",
+"code": null,
+"status": "amending act",
+"versions": 3,
+"from": "2020-01-09",
+"latest": "2025-08-21",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/221921"
+},
+{
 "slug": "oug-36-2020",
 "path": "oug/2020/36",
 "kind": "oug",
@@ -14367,6 +14469,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/279473"
 },
 {
+"slug": "oug-21-2024",
+"path": "oug/2024/21",
+"kind": "oug",
+"year": "2024",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 21/2024 privind unele măsuri pentru organizarea și desfășurarea alegerilor pentru membrii din România în Parlamentul European din anul 2024 și a alegerilor pentru autoritățile administrației publice locale din anul 2024",
+"short": "OUG nr. 21/2024",
+"code": null,
+"status": "in force",
+"versions": 2,
+"from": "2024-03-08",
+"latest": "2024-05-14",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/279730"
+},
+{
 "slug": "oug-22-2024",
 "path": "oug/2024/22",
 "kind": "oug",
@@ -15302,6 +15421,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/294886"
 },
 {
+"slug": "oug-5-2025",
+"path": "oug/2025/5",
+"kind": "oug",
+"year": "2025",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 5/2025 privind unele măsuri din domeniul social și pentru modificarea și completarea unor acte normative",
+"short": "OUG nr. 5/2025",
+"code": null,
+"status": "amending act",
+"versions": 2,
+"from": "2025-02-28",
+"latest": "2025-03-30",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/295098"
+},
+{
 "slug": "oug-6-2025",
 "path": "oug/2025/6",
 "kind": "oug",
@@ -15812,6 +15948,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/33814"
 },
 {
+"slug": "og-27-2002",
+"path": "og/2002/27",
+"kind": "og",
+"year": "2002",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța Guvernului nr. 27/2002 privind reglementarea activității de soluționare a petitiilor",
+"short": "OG nr. 27/2002",
+"code": null,
+"status": "in force",
+"versions": 5,
+"from": "2002-02-01",
+"latest": "2024-12-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/33817"
+},
+{
 "slug": "og-13-2011",
 "path": "og/2011/13",
 "kind": "og",
@@ -15997,6 +16150,23 @@
 "from": "2021-08-30",
 "latest": "2022-07-18",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/257132"
+},
+{
+"slug": "og-9-2021",
+"path": "og/2021/9",
+"kind": "og",
+"year": "2021",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța Guvernului nr. 9/2021 privind stabilirea unor măsuri de facilitare a utilizării informațiilor financiare și a analizelor financiare în scopul prevenirii, depistării, investigării sau urmăririi penale a anumitor infracțiuni",
+"short": "OG nr. 9/2021",
+"code": null,
+"status": "in force",
+"versions": 2,
+"from": "2021-09-03",
+"latest": "2022-06-09",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/245921"
 },
 {
 "slug": "og-10-2021",
