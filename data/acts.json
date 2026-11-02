@@ -2722,6 +2722,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/142722"
 },
 {
+"slug": "legea-197-2012",
+"path": "lege/2012/197",
+"kind": "lege",
+"year": "2012",
+"number": "197",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 197/2012 privind asigurarea calității în domeniul serviciilor sociale",
+"short": "Legea nr. 197/2012",
+"code": null,
+"status": "in force",
+"versions": 11,
+"from": "2012-11-12",
+"latest": "2024-12-17",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/142677"
+},
+{
 "slug": "legea-72-2013",
 "path": "lege/2013/72",
 "kind": "lege",
@@ -19499,6 +19516,23 @@
 "from": "2002-08-30",
 "latest": "2023-11-11",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/38222"
+},
+{
+"slug": "og-86-2003",
+"path": "og/2003/86",
+"kind": "og",
+"year": "2003",
+"number": "86",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța Guvernului nr. 86/2003",
+"short": "OG nr. 86/2003",
+"code": null,
+"status": "in force",
+"versions": 20,
+"from": "2003-08-31",
+"latest": "2025-12-18",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/304531"
 },
 {
 "slug": "og-42-2004",
