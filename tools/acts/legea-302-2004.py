@@ -13,7 +13,7 @@ def register(P):
     P.ACTS[SLUG] = {
         **P.P6, 'part': '9z-legea-302-2004', 'short': 'Legea nr. 302/2004', 'pad': 3, 'cc_forms': True,
         'trailing_notes': True, 'plain_ordonanta': True,
-        'typeset_notes': True,
+        'typeset_notes': True, 'footnote_nested': True,
         'title': 'Legea nr. 302/2004 privind cooperarea judiciară internațională în materie penală',
         'url': P.PORTAL + 'DetaliiDocument/53158',
         'in_force': '2004-08-30', 'first_law': SLUG,
@@ -29,7 +29,7 @@ def register(P):
             '2004 (DetaliiDocumentAfis/53158), in force 60 days after publication (its art. 189 alin. (1)): 30 August '
             '2004. The portal\'s first form is of 24 June 2006, so the changes made up to then arrive together that '
             'day.',
-            'Legea nr. 302/2004: the portal's list of forms ends with a form of 19 December 2025 (listed on the pages '
+            'Legea nr. 302/2004: the portal\'s list of forms ends with a form of 19 December 2025 (listed on the pages '
             'of the act captured in January 2026) that its pages as captured do not hold; the act page captured on 14 '
             'December 2025 shows the form of 19 October 2025 as the newest. The record ends with the form of 19 '
             'October 2025 and no repeal is made up.',
@@ -48,27 +48,27 @@ def register(P):
             'ch. II of title VII) was repealed by art. 27 of OUG nr. 103/2006 (Monitorul Oficial nr. 1.019 of 21 '
             'December 2006, read as published, DetaliiDocumentAfis/77941) on the same day, 1 January 2007, the day '
             'Romania joined the European Union; it took effect and was repealed that day, so it never appears. The '
-            'form of 13 November 2008 prints it as "Abrogat." with the portal's note.',
+            'form of 13 November 2008 prints it as "Abrogat." with the portal\'s note.',
             'Legea nr. 302/2004: Legea nr. 224/2006 repealed arts. 8, 9, 11, 19, 107, 126 and 131 (art. I pct. 5, 6, '
             '8, 15, 66, 87 and 89). It sets no in-force day of its own, so it took effect 3 days after publication, on '
-            '24 June 2006 (Constituția art. 78), the day of the portal's first form, which leaves them out with no '
+            '24 June 2006 (Constituția art. 78), the day of the portal\'s first form, which leaves them out with no '
             'note; the change is credited to Legea nr. 224/2006. The form of 13 November 2008 prints them again as '
-            '"Abrogat.", which is the publisher's typesetting, not a change.',
+            '"Abrogat.", which is the publisher\'s typesetting, not a change.',
             'Legea nr. 302/2004: the forms of 24 June 2006 and 13 November 2008 print the text without diacritics, '
             'and the form of 13 November 2008 reprints the earlier notes in new wording; a change that differs from '
-            'the text before it only in diacritics or spacing is the publisher's typesetting and is credited to no '
+            'the text before it only in diacritics or spacing is the publisher\'s typesetting and is credited to no '
             'law, whatever notes the form reprints. The same goes for the typing errors the forms of 27 December '
             '2015 and 17 December 2017 correct.',
             'Legea nr. 302/2004: the republications of 31 May 2011 (art. III of Legea nr. 222/2008) and 27 May 2019 '
             '(art. II of Legea nr. 236/2017), each with renumbered articles, are read from their own pages '
             '(DetaliiDocumentAfis/128922, 214172); changes on those days that no note explains are credited to the '
-            'act that ordered the republication, as each republication note says; files follow each text's own '
+            'act that ordered the republication, as each republication note says; files follow each text\'s own '
             'numbering.',
             'Legea nr. 302/2004: the forms of 26 December 2013 to 27 December 2015 print the headings "PARAGRAFUL 2" '
             'and "PARAGRAFUL 3" and their titles as the last lines of arts. 223, 224, 234^1, 238, 252 and 257, and the '
-            'forms of 31 May 2011 to 27 December 2015 print, after the last article, the "*" and the law's mention '
+            'forms of 31 May 2011 to 27 December 2015 print, after the last article, the "*" and the law\'s mention '
             'that it transposes framework decisions (from 2019 to 2024-05-10 the mention is printed without the "*"). '
-            'Neither is an article's text, and both are left out.',
+            'Neither is an article\'s text, and both are left out.',
         ],
         # art. 189 alin. (1) (as Legea nr. 224/2006 restates it): ch. III^1 of title II (arts. 76^1-76^6), title III
         # (arts. 77-108), ch. II^1 of title IV (art. 114^1) and ch. II of title VII (arts. 187^4-187^18) take effect on

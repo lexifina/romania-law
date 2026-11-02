@@ -8404,6 +8404,98 @@
    ]
   },
   {
+   "slug": "legea-100-2016",
+   "short": "Legea nr. 100/2016",
+   "title": "Legea nr. 100/2016 privind concesiunile de lucrări și concesiunile de servicii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/178689",
+   "versions": [
+    {
+     "from": "2016-05-26",
+     "units": 118,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/178689",
+     "sha256": "36453bfafb894fea565e00db1844ed0051bc89877ec31b5468ed972594c9b998"
+    },
+    {
+     "from": "2017-12-22",
+     "units": 119,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/195862",
+     "sha256": "7e94dbcfafc3573152ddb95c687567a6ad09b9cc5cec72fe31ed08b02da9e88c"
+    },
+    {
+     "from": "2018-06-04",
+     "units": 120,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/200899",
+     "sha256": "8f0f7bd861c38b7490298b1780475b65df852baa0cf9e09591ecabb7c75341f0"
+    },
+    {
+     "from": "2020-01-01",
+     "units": 120,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/222869",
+     "sha256": "36122c4f9252933c66cf8ec05e3f14b6fbd40265c277c61c910a7918f856a7a7"
+    },
+    {
+     "from": "2020-02-12",
+     "units": 120,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/222869",
+     "sha256": "36122c4f9252933c66cf8ec05e3f14b6fbd40265c277c61c910a7918f856a7a7"
+    },
+    {
+     "from": "2020-07-13",
+     "units": 120,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/227319",
+     "sha256": "a1f27a80f972d8a343b7370c06027ab2a396434bfb6fb4e4056444afb8f9328b"
+    },
+    {
+     "from": "2021-04-05",
+     "units": 120,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/239600",
+     "sha256": "ff89e5cd63b6a7cfbac64911b2bbfe31ed2d1d0e4e3e078b30e715b88c317c61"
+    },
+    {
+     "from": "2021-08-30",
+     "units": 120,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/245518",
+     "sha256": "46664c1b1c234730e255472c7488ac111038cf06ce47fe7a4b46900ca8db13ac"
+    },
+    {
+     "from": "2022-01-01",
+     "units": 120,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/245518",
+     "sha256": "46664c1b1c234730e255472c7488ac111038cf06ce47fe7a4b46900ca8db13ac"
+    },
+    {
+     "from": "2022-07-28",
+     "units": 120,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/257091",
+     "sha256": "4924486bd5b83dbd563b4508753e9014c494e91955517567517b215f8384d5a6"
+    },
+    {
+     "from": "2022-09-10",
+     "units": 120,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/257215",
+     "sha256": "9c637454ac606ce28936bf5b037942387065c7c5858e2c2c79e3432ee53b96d4"
+    },
+    {
+     "from": "2022-10-06",
+     "units": 120,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/259945",
+     "sha256": "8f73e5923d1e31a9b7861fc34d66ec1444e494d66940e4d0979b785c74f50f79"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 120,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/259945",
+     "sha256": "8f73e5923d1e31a9b7861fc34d66ec1444e494d66940e4d0979b785c74f50f79"
+    },
+    {
+     "from": "2024-11-17",
+     "units": 120,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/178689",
+     "sha256": "6bc24eed069121a708a23cacf58dfb843b684552cf4e85d3d9c1f666f1f831ca"
+    }
+   ]
+  },
+  {
    "slug": "legea-101-2016",
    "short": "Legea nr. 101/2016",
    "title": "Legea nr. 101/2016 privind remediile și căile de atac în materie de atribuire a contractelor de achiziție publică, a contractelor sectoriale și a contractelor de concesiune de lucrări și concesiune de servicii, precum și pentru organizarea și funcționarea Consiliului Național de Soluționare a Contestațiilor",
@@ -11724,6 +11816,146 @@
      "units": 246,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/178667",
      "sha256": "09b7d405e54e19aa5f5367c48ff339e405d9d83d5577ffb43296fd947d49ca56"
+    }
+   ]
+  },
+  {
+   "slug": "legea-99-2016",
+   "short": "Legea nr. 99/2016",
+   "title": "Legea nr. 99/2016 privind achizițiile sectoriale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/178661",
+   "versions": [
+    {
+     "from": "2016-05-26",
+     "units": 257,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/178661",
+     "sha256": "645fd15e5d8016cc043a746cc33fb0dd47406aa7bed3c0dea1507102e8f30110"
+    },
+    {
+     "from": "2016-06-09",
+     "units": 257,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/179157",
+     "sha256": "85969edfef00efd01cfab0980e766ad15494fb2bff5ab1b3c26ba5788e2912d5"
+    },
+    {
+     "from": "2017-01-11",
+     "units": 257,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/185332",
+     "sha256": "ef66496120ebbb922cb46e2e98fad0051ccae10f2bea5baf99b8c9ac3a5f9712"
+    },
+    {
+     "from": "2017-12-22",
+     "units": 257,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/195861",
+     "sha256": "317750bf67c384953a1eea5f16dbf208922d226c8fcca9ba01cc00e3cd1a0836"
+    },
+    {
+     "from": "2018-06-04",
+     "units": 257,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/200898",
+     "sha256": "aeeda50132140821e2dcc073cffffd46c3ecbcb81209704b88040a6a73ceee4a"
+    },
+    {
+     "from": "2018-10-18",
+     "units": 257,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/200898",
+     "sha256": "aeeda50132140821e2dcc073cffffd46c3ecbcb81209704b88040a6a73ceee4a"
+    },
+    {
+     "from": "2020-01-01",
+     "units": 257,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/222868",
+     "sha256": "793dfe9cd8bdcb58aa3cc939945ab58938c4c7ec71e4380986e6b194c19c2818"
+    },
+    {
+     "from": "2020-02-12",
+     "units": 257,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/222868",
+     "sha256": "793dfe9cd8bdcb58aa3cc939945ab58938c4c7ec71e4380986e6b194c19c2818"
+    },
+    {
+     "from": "2020-07-07",
+     "units": 257,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/227288",
+     "sha256": "1a93a998036d515597514f2cbedbfb6ce2aa1c7b4f93d3de6a1779b0b3991ae1"
+    },
+    {
+     "from": "2020-07-13",
+     "units": 260,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/227314",
+     "sha256": "aacdb8a8ba3264a9d7129e81f0ca8c66244fe9f3163d7f3097e5304a8a51c34f"
+    },
+    {
+     "from": "2021-04-05",
+     "units": 260,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/239599",
+     "sha256": "bc3694234c58c30f9a89a43ce13239f46018656e9a3db7299cd531e873e7536a"
+    },
+    {
+     "from": "2021-08-30",
+     "units": 260,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/245517",
+     "sha256": "93f50b4fe51c3f944f123e5255462b18b9f5f915edb7a7c4e9f5c4f76ecc9293"
+    },
+    {
+     "from": "2022-01-01",
+     "units": 260,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/245517",
+     "sha256": "93f50b4fe51c3f944f123e5255462b18b9f5f915edb7a7c4e9f5c4f76ecc9293"
+    },
+    {
+     "from": "2022-03-21",
+     "units": 260,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/252179",
+     "sha256": "7a2fdea4bf361f74454b46ac4d5717294d458628c3b15936f47891292abe00f4"
+    },
+    {
+     "from": "2022-04-16",
+     "units": 260,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/253081",
+     "sha256": "b5bcb8b6640d13d135c29218e6333a09a550e6352cb401f96338071689ed8588"
+    },
+    {
+     "from": "2022-04-21",
+     "units": 261,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/254021",
+     "sha256": "52bc6cd351ca14bb17088d337f9a9053c183b5afd1ac70f63375468fa5f40390"
+    },
+    {
+     "from": "2022-07-28",
+     "units": 261,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/257090",
+     "sha256": "e4899336ff2d2452607f411640f8941d763a14b9839e6d0d8a21ea75090e0d4a"
+    },
+    {
+     "from": "2022-09-10",
+     "units": 264,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/257214",
+     "sha256": "46efb7c279477369c37e1c82ccacd6ea577098075360b794f81b88a9d63f90a6"
+    },
+    {
+     "from": "2022-10-06",
+     "units": 264,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/259944",
+     "sha256": "3207975b61e0b40749339a6408f192f581a47d1d3b50de64767e5ffae81d5978"
+    },
+    {
+     "from": "2023-04-21",
+     "units": 264,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/266840",
+     "sha256": "db24e43b3acdd045e4ca759841a6bd2daac57af79b90ef6495f5182da72c7059"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 264,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/266840",
+     "sha256": "db24e43b3acdd045e4ca759841a6bd2daac57af79b90ef6495f5182da72c7059"
+    },
+    {
+     "from": "2024-05-24",
+     "units": 264,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/282818",
+     "sha256": "fe104da6f68126b2e3b11b70d7ba9307d38ad71366017bfae30fc24cae079047"
     }
    ]
   },

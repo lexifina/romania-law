@@ -51,6 +51,7 @@ This file is written by the build on 2026-11-02, the day the source data was ret
 | Internet Archive, Wayback Machine | <https://web.archive.org/> | 2026-11-02 | Internet Archive terms of use; the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
 | captures of legislatie.just.ro for the Codul de procedură fiscală | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
 | Internet Archive, Wayback Machine | <https://web.archive.org/> | 2026-11-02 | Internet Archive terms of use; the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
+| captures of legislatie.just.ro for the Legea nr. 100/2016 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
 | captures of legislatie.just.ro for the Legea nr. 101/2016 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
 | captures of legislatie.just.ro for the Legea nr. 126/2018 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
 | captures of legislatie.just.ro for the Legea nr. 143/2000 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
@@ -99,6 +100,7 @@ This file is written by the build on 2026-11-02, the day the source data was ret
 | captures of legislatie.just.ro for the Codul vamal (Legea nr. 86/2006) | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
 | Internet Archive, Wayback Machine | <https://web.archive.org/> | 2026-11-02 | Internet Archive terms of use; the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
 | captures of legislatie.just.ro for the Legea nr. 98/2016 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
+| captures of legislatie.just.ro for the Legea nr. 99/2016 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
 | captures of legislatie.just.ro for the OG nr. 13/2011 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
 | captures of legislatie.just.ro for the OG nr. 21/1992 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
 | captures of legislatie.just.ro for the OUG nr. 44/2008 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
@@ -150,6 +152,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `legea-303-2004` | Legea nr. 303/2004 privind statutul judecătorilor și procurorilor | 38 | 2004-09-27 to 2021-12-31 |
 | `legea-304-2004` | Legea nr. 304/2004 privind organizarea judiciară | 45 | 2004-09-27 to 2022-12-16 |
 | `legea-207-2015` | Codul de procedură fiscală (Legea nr. 207/2015) | 62 | 2016-01-01 to 2026-02-25 |
+| `legea-100-2016` | Legea nr. 100/2016 privind concesiunile de lucrări și concesiunile de servicii | 14 | 2016-05-26 to 2024-11-17 |
 | `legea-101-2016` | Legea nr. 101/2016 privind remediile și căile de atac în materie de atribuire a contractelor de achiziție publică, a contractelor sectoriale și a contractelor de concesiune de lucrări și concesiune de servicii, precum și pentru organizarea și funcționarea Consiliului Național de Soluționare a Contestațiilor | 10 | 2016-05-26 to 2023-04-06 |
 | `legea-126-2018` | Legea nr. 126/2018 privind piețele de instrumente financiare | 11 | 2018-07-06 to 2026-01-16 |
 | `legea-143-2000` | Legea nr. 143/2000 privind prevenirea și combaterea traficului și consumului ilicit de droguri | 15 | 2000-08-03 to 2024-07-25 |
@@ -189,6 +192,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `legea-78-2000` | Legea nr. 78/2000 pentru prevenirea, descoperirea și sancționarea faptelor de corupție | 13 | 2000-05-18 to 2022-07-23 |
 | `legea-86-2006` | Legea nr. 86/2006 privind Codul vamal al României | 13 | 2006-06-18 to 2025-12-18 |
 | `legea-98-2016` | Legea nr. 98/2016 privind achizițiile publice | 23 | 2016-05-26 to 2026-01-01 |
+| `legea-99-2016` | Legea nr. 99/2016 privind achizițiile sectoriale | 22 | 2016-05-26 to 2024-05-24 |
 | `og-13-2011` | Ordonanța Guvernului nr. 13/2011 privind dobânda legală remuneratorie și penalizatoare pentru obligații bănești, precum și pentru reglementarea unor măsuri financiar-fiscale în domeniul bancar | 5 | 2011-09-01 to 2014-06-28 |
 | `og-21-1992` | Ordonanța Guvernului nr. 21/1992 privind protecția consumatorilor | 11 | 1992-08-28 to 2023-11-11 |
 | `oug-44-2008` | Ordonanța de urgență a Guvernului nr. 44/2008 privind desfășurarea activităților economice de către persoanele fizice autorizate, întreprinderile individuale și întreprinderile familiale | 7 | 2008-04-25 to 2022-11-26 |
@@ -196,19 +200,19 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `oug-77-2014` | Ordonanța de urgență a Guvernului nr. 77/2014 privind procedurile naționale în domeniul ajutorului de stat, precum și pentru modificarea și completarea Legii concurenței nr. 21/1996 | 8 | 2015-01-01 to 2024-07-29 |
 | `oug-99-2006` | Ordonanța de urgență a Guvernului nr. 99/2006 privind instituțiile de credit și adecvarea capitalului | 31 | 2007-01-01 to 2026-03-05 |
 
-The build made 2560 commits:
+The build made 2591 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 82 | first version of an act |
-| 1897 | one law on its in-force day |
-| 581 | changes no amendment note explains, credited to the publisher |
+| 84 | first version of an act |
+| 1913 | one law on its in-force day |
+| 594 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `viitor`: laws not yet in force on 2026-11-02.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 1409 laws in the record.
-- 3199 tags.
+- 1413 laws in the record.
+- 3239 tags.
 
 ## Dates
 
@@ -220,7 +224,7 @@ When a law gives no date of its own, the default rule applies: Constituția Rom�
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `19c162c67c021fc18799b362b0b7fc7641d1c606db7da5c688600bf3322a246d` (81868994 bytes).
+- Corpus: sha256 `2030691befd80316f2ec792c1909425f292bcef29822fd94f294aee1b47096d9` (83119102 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `d38217034d1957d74835862e3253f569d12f319f`, `check.py` `3d00541d258745461ab52b1b0cb4e1716a27a95d`, `on.py` `644a6c0857fbcc72562032b58d57aa113fee0641`.
 - Python 3.14.0; git version 2.52.0.windows.1.
 
@@ -652,6 +656,16 @@ No second build of this corpus has been compared yet.
 - Codul de procedură fiscală: the portal editorial notes printed as paragraphs of an article (on a Constitutional Court ruling, a rectification, a provision put back in force) are not text: 168 such paragraphs across all forms, for example «(la 01-01-2018 Alineatul (8), Articolul 163 din Capitolul II», «(la 01-01-2018 Articolul 336 din Titlul XI a fost completat », «(la 01-01-2018 Articolul 80 din Capitolul VII, Titlul III a ».
 - Codul de procedură fiscală: 14 changed article(s) with no note naming a law, committed as the publisher's: 2017-05-05 art-247, 2017-05-05 art-250, 2017-05-05 art-291, 2017-05-05 art-306, 2017-09-03 art-135, 2017-09-03 art-291-1, 2018-01-21 art-080, 2018-01-21 art-083, 2018-01-21 art-163, 2018-01-21 art-247, 2018-01-21 art-250, 2018-01-21 art-291, 2018-01-21 art-306, 2022-02-03 art-080.
 - Codul de procedură fiscală: forms with no change after normalisation, so no version: 2016-05-12 (178457), 2017-12-29 (195930), 2018-07-19 (202482), 2019-05-02 (213082), 2020-01-21 (222153), 2021-05-20 (241600), 2021-06-17 (242665), 2025-03-18 (295429).
+- Legea nr. 100/2016: added 2026-11-02, one of the Portalul legislativ's consolidated forms per version, as for the other acts. A capture was used only if it was complete and the page showed the form its document id stands for. The forms are those listed by DetaliiDocument/178689 as captured on 2025-11-17, the newest capture of any of the act's pages: 12 forms, 12 held.
+- Legea nr. 100/2016: the newest form held is that of 17.11.2024; amendments in force after it may be missing.
+- Legea nr. 100/2016: the first version is the law as published in Monitorul Oficial nr. 392 of 23 May 2016 (DetaliiDocumentAfis/178689), dated 26 May 2016: it sets no in-force day of its own, so 3 days after publication (Constituția art. 78). The portal holds no consolidated form before 7 December 2016, so the changes made up to then arrive together that day.
+- Legea nr. 100/2016: the value threshold of art. 11 alin. (1) is not amended by a Romanian act: the portal rewrites the amount when EU delegated regulations change it, with an editorial note giving the new amount and the day it applies from (1 January 2020, 2022 and 2024). Those changes are dated by the editorial note, the earlier amount standing until then: 1 January 2020 (form of 12.02.2020), 1 January 2022 (form of 30.08.2021) and 1 January 2024 (form of 06.10.2022). No note names a law for them, so they are the publisher's. The form of 17.11.2024 carries a note for a further change from 1 January 2026 but prints the unchanged amount, so no change is made for it.
+- Legea nr. 100/2016: the form of 12 February 2020 loses the space in art. 10 ("și nr. 1.107/70" printed as "șinr."); no note explains it. This change is the publisher's, labelled unexplained.
+- Legea nr. 100/2016: the portal prints some repeal notes just after the article they concern; they are read as that article's notes.
+- Legea nr. 100/2016: changes a form prints before the in-force day its own notes give are dated by the notes (the earlier text stands until then): 2022-01-01 (art-011; printed in the form of 30.08.2021); 2024-01-01 (art-011; printed in the form of 06.10.2022).
+- Legea nr. 100/2016: changes whose notes give an in-force day between two forms the portal holds are dated by the note, with the later form's text for those articles: 2020-01-01 (art-011; form 12.02.2020).
+- Legea nr. 100/2016: 4 changed article(s) with no note naming a law, committed as the publisher's: 2020-02-12 art-010, 2020-02-12 art-011, 2021-08-30 art-011, 2022-10-06 art-011.
+- Legea nr. 100/2016: forms with no change after normalisation, so no version: 2016-12-07 (184797), 2020-07-07 (227289).
 - Legea nr. 101/2016: added 2026-11-02, one of the Portalul legislativ's consolidated forms per version, as for the other acts. A capture was used only if it was complete and the page showed the form its document id stands for. The forms are those listed by DetaliiDocument/178680 as captured on 2026-02-10, the newest capture of any of the act's pages: 10 forms, 10 held.
 - Legea nr. 101/2016: the newest form held is that of 06.04.2023; amendments in force after it may be missing.
 - Legea nr. 101/2016: the first version is the law as published in Monitorul Oficial nr. 393 of 23 May 2016 (DetaliiDocumentAfis/178680), dated 26 May 2016: it sets no in-force day of its own, so 3 days after publication (Constituția art. 78). The portal holds no consolidated form before 22 December 2017, so the changes made up to then arrive together that day.
@@ -989,6 +1003,16 @@ No second build of this corpus has been compared yet.
 - Legea nr. 98/2016: changes whose notes give an in-force day between two forms the portal holds are dated by the note, with the later form's text for those articles: 2020-01-01 (art-007; form 12.02.2020).
 - Legea nr. 98/2016: 19 changed article(s) with no note naming a law, committed as the publisher's: 2016-06-06 art-167, 2016-06-06 art-187, 2016-06-06 art-237, 2016-11-22 art-104, 2016-11-22 art-167, 2016-11-22 art-237, 2017-05-05 art-070, 2018-06-04 art-167, 2018-06-04 art-182, 2018-06-04 art-225, 2018-06-04 art-237, 2020-02-12 art-007, 2020-02-12 art-019, 2021-08-30 art-007, 2021-08-30 art-019, 2022-10-06 art-007, 2022-10-06 art-019, 2024-11-17 art-007, 2024-11-17 art-019.
 - Legea nr. 98/2016: forms with no change after normalisation, so no version: 2016-06-09 (179156), 2016-08-12 (180903), 2020-07-07 (227263).
+- Legea nr. 99/2016: added 2026-11-02, one of the Portalul legislativ's consolidated forms per version, as for the other acts. A capture was used only if it was complete and the page showed the form its document id stands for. The forms are those listed by DetaliiDocument/178661 as captured on 2025-05-23, the newest capture of any of the act's pages: 19 forms, 19 held.
+- Legea nr. 99/2016: the newest form held is that of 17.11.2024; amendments in force after it may be missing.
+- Legea nr. 99/2016: the first version is the law as published in Monitorul Oficial nr. 391 of 23 May 2016 (DetaliiDocumentAfis/178661), dated 26 May 2016: its art. 257 alin. (1) puts it in force 3 days after publication. Its art. 257 alin. (2) puts art. 208 alin. (2) in force on 18 October 2018; under the rule for text printed before its day, that provision is absent until then and is added that day, credited to Legea nr. 99/2016.
+- Legea nr. 99/2016: the value thresholds of art. 12 alin. (1) and art. 24 alin. (1) lit. a) are not amended by a Romanian act: the portal rewrites the amounts when EU delegated regulations change them, with an editorial note giving the new amounts and the day they apply from (1 January 2020, 2022 and 2024). Those changes are dated by the editorial note, the earlier amounts standing until then: art. 12 on 1 January 2020 (form of 12.02.2020), arts. 12 and 24 on 1 January 2022 (form of 30.08.2021) and 1 January 2024 (form of 21.04.2023). No note names a law for them, so they are the publisher's. The form of 12.02.2020 also changes the amounts in art. 24, which that note does not cover; that change keeps the form's date.
+- Legea nr. 99/2016: the law as published and the form of 6 June 2016 print two misprints (art. 149 "i^n" for "în", art. 179 "l77" for "177"); the form of 9 June 2016 prints them corrected, the form of 11 January 2017 misprints them again, and the form of 22 December 2017 corrects them for good; the form of 4 June 2018 prints a stub "Abrogat." for art. 246 with a full stop; the form of 12 February 2020 prints art. 196 alin. (5) as "Abrogat."; the form of 7 July 2020 prints art. 4 alin. (1) lit. d) as "abrogată." and art. 6 alin. (3) as "Abrogat." No note explains them. These changes are the publisher's, labelled unexplained.
+- Legea nr. 99/2016: the portal prints some repeal notes just after the article they concern; they are read as that article's notes.
+- Legea nr. 99/2016: changes a form prints before the in-force day its own notes give are dated by the notes (the earlier text stands until then): 2022-01-01 (art-012, art-024; printed in the form of 30.08.2021); 2024-01-01 (art-012, art-024; printed in the form of 21.04.2023).
+- Legea nr. 99/2016: changes whose notes give an in-force day between two forms the portal holds are dated by the note, with the later form's text for those articles: 2020-01-01 (art-012; form 12.02.2020).
+- Legea nr. 99/2016: 16 changed article(s) with no note naming a law, committed as the publisher's: 2016-06-09 art-149, 2016-06-09 art-179, 2017-01-11 art-149, 2017-01-11 art-179, 2017-12-22 art-149, 2017-12-22 art-179, 2018-06-04 art-246, 2020-02-12 art-012, 2020-02-12 art-024, 2020-02-12 art-196, 2020-07-07 art-004, 2020-07-07 art-006, 2021-08-30 art-012, 2021-08-30 art-024, 2023-04-21 art-012, 2023-04-21 art-024.
+- Legea nr. 99/2016: forms with no change after normalisation, so no version: 2016-06-06 (179077), 2024-11-17 (178661).
 - OG nr. 13/2011: added 2026-11-02, one of the Portalul legislativ's consolidated forms per version, as for the other acts. A capture was used only if it was complete and the page showed the form its document id stands for. The forms are those listed by DetaliiDocument/284919 as captured on 2026-06-07, the newest capture of any of the act's pages: 18 forms, 18 held.
 - OG nr. 13/2011: the newest form held is that of 07.08.2024; amendments in force after it may be missing.
 - OG nr. 13/2011: the first version is the ordinance as published in Monitorul Oficial nr. 607 of 29 August 2011 (DetaliiDocumentAfis/131085), dated 1 September 2011: its art. 19 puts it in force 3 days after publication. The provisions that article puts in force later (art. 8 alin. (3) and art. 10 on 1 October 2011; art. 15 pct. 1-29 on 31 December 2011), and art. 8 alin. (2), which art. 18 alin. (4) applies only until 1 October 2011, are shown as published from 1 September 2011; no version is made for those days.
@@ -1091,6 +1115,7 @@ Model use at data-build time:
 - Legea nr. 303/2004: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - Legea nr. 304/2004: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - Codul de procedură fiscală: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
+- Legea nr. 100/2016: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - Legea nr. 101/2016: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - Legea nr. 126/2018: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - Legea nr. 143/2000: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
@@ -1130,6 +1155,7 @@ Model use at data-build time:
 - Legea nr. 78/2000: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - Codul vamal (Legea nr. 86/2006): parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - Legea nr. 98/2016: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
+- Legea nr. 99/2016: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - OG nr. 13/2011: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - OG nr. 21/1992: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - OUG nr. 44/2008: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
