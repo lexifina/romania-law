@@ -1,6 +1,6 @@
 # Every act in this repository
 
-1249 acts, 5,025 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+1257 acts, 5,105 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -31,7 +31,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (589, of which 361 amending acts)
+## Laws (legi) (593, of which 361 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -78,6 +78,7 @@
 | Legea nr. 90/2001 privind organizarea și funcționarea Guvernului României și a ministerelor | [`lege/2001/90/`](lege/2001/90/) | in force | 28 | 2001-04-02 | 2019-03-01 |
 | Legea administrației publice locale nr. 215/2001 | [`lege/2001/215/`](lege/2001/215/) | in force | 40 | 2001-05-23 | 2019-07-20 |
 | Legea nr. 350/2001 privind amenajarea teritoriului și urbanismul | [`lege/2001/350/`](lege/2001/350/) | in force | 33 | 2001-07-10 | 2026-02-25 |
+| Legea nr. 406/2001 | [`lege/2001/406/`](lege/2001/406/) | in force | 5 | 2001-07-16 | 2025-09-15 |
 | Legea nr. 416/2001 privind venitul minim garantat | [`lege/2001/416/`](lege/2001/416/) | in force | 31 | 2002-01-01 | 2021-09-16 |
 | Legea nr. 544/2001 privind liberul acces la informațiile de interes public | [`lege/2001/544/`](lege/2001/544/) | in force | 6 | 2001-12-22 | 2016-07-17 |
 | Legea nr. 677/2001 pentru protecția persoanelor cu privire la prelucrarea datelor cu caracter personal și libera circulație a acestor date | [`lege/2001/677/`](lege/2001/677/) | repealed 2018-06-24 | 4 | 2001-12-12 | 2018-06-24 |
@@ -97,6 +98,7 @@
 | Codul muncii (Legea nr. 53/2003) | [`lege/2003/53/`](lege/2003/53/) | in force | 61 | 2003-03-01 | 2025-12-18 |
 | Legea nr. 161/2003 privind unele măsuri pentru asigurarea transparenței în exercitarea demnităților publice, a funcțiilor publice și în mediul de afaceri, prevenirea și sancționarea corupției | [`lege/2003/161/`](lege/2003/161/) | in force | 22 | 2003-04-21 | 2023-05-29 |
 | Legea nr. 217/2003 pentru prevenirea și combaterea violenței domestice | [`lege/2003/217/`](lege/2003/217/) | in force | 22 | 2003-08-27 | 2025-01-17 |
+| Legea nr. 356/2003 | [`lege/2003/356/`](lege/2003/356/) | in force | 12 | 2003-07-23 | 2021-07-12 |
 | Codul fiscal (Legea nr. 571/2003) | [`lege/2003/571/`](lege/2003/571/) | in force | 61 | 2004-01-01 | 2015-11-04 |
 | Legea nr. 211/2004 privind unele măsuri pentru asigurarea protecției victimelor infracțiunilor | [`lege/2004/211/`](lege/2004/211/) | in force | 8 | 2005-01-01 | 2024-11-08 |
 | Legea petrolului nr. 238/2004 | [`lege/2004/238/`](lege/2004/238/) | in force | 16 | 2004-09-13 | 2024-06-29 |
@@ -130,6 +132,7 @@
 | Legea nr. 343/2006 pentru modificarea și completarea Legii nr. 571/2003 privind Codul fiscal | [`lege/2006/343/`](lege/2006/343/) | amending act | 1 | 2006-08-04 | 2006-08-04 |
 | Legea nr. 441/2006 pentru modificarea și completarea Legii nr. 31/1990 privind societățile comerciale, republicată, și a Legii nr. 26/1990 privind registrul comerțului, republicată | [`lege/2006/441/`](lege/2006/441/) | amending act | 2 | 2006-12-01 | 2007-01-01 |
 | Legea nr. 448/2006 privind protecția și promovarea drepturilor persoanelor cu handicap | [`lege/2006/448/`](lege/2006/448/) | in force | 57 | 2007-01-01 | 2025-03-30 |
+| Legea nr. 509/2006 | [`lege/2006/509/`](lege/2006/509/) | in force | 2 | 2007-01-14 | 2019-01-01 |
 | Legea nr. 135/2007 | [`lege/2007/135/`](lege/2007/135/) | in force | 5 | 2007-05-25 | 2024-10-08 |
 | Legea nr. 144/2007 privind înființarea, organizarea și funcționarea Agenției Naționale de Integritate | [`lege/2007/144/`](lege/2007/144/) | in force | 12 | 2007-05-28 | 2023-01-06 |
 | Legea nr. 230/2007 privind înființarea, organizarea și funcționarea asociațiilor de proprietari | [`lege/2007/230/`](lege/2007/230/) | repealed 2018-09-28 | 9 | 2007-08-22 | 2018-09-28 |
@@ -189,6 +192,7 @@
 | Legea nr. 258/2017 privind comparabilitatea comisioanelor aferente conturilor de plăți, schimbarea conturilor de plăți și accesul la conturile de plăți cu servicii de bază | [`lege/2017/258/`](lege/2017/258/) | in force | 2 | 2018-01-27 | 2024-06-16 |
 | Legea nr. 81/2018 privind reglementarea activității de telemuncă | [`lege/2018/81/`](lege/2018/81/) | in force | 4 | 2018-04-05 | 2021-07-25 |
 | Legea nr. 126/2018 privind piețele de instrumente financiare | [`lege/2018/126/`](lege/2018/126/) | in force | 11 | 2018-07-06 | 2026-01-16 |
+| Legea nr. 165/2018 privind acordarea biletelor de valoare | [`lege/2018/165/`](lege/2018/165/) | in force | 14 | 2018-07-16 | 2025-12-01 |
 | Legea nr. 190/2018 privind măsuri de punere în aplicare a Regulamentului (UE) 2016/679 (Regulamentul general privind protecția datelor) | [`lege/2018/190/`](lege/2018/190/) | in force | 2 | 2018-07-31 | 2019-12-01 |
 | Legea nr. 196/2018 privind înființarea, organizarea și funcționarea asociațiilor de proprietari și administrarea condominiilor | [`lege/2018/196/`](lege/2018/196/) | in force | 2 | 2018-09-28 | 2025-12-19 |
 | Legea nr. 203/2018 privind măsuri de eficientizare a achitării amenzilor contravenționale | [`lege/2018/203/`](lege/2018/203/) | in force | 4 | 2018-08-24 | 2021-12-05 |
@@ -625,7 +629,7 @@
 | Legea nr. 241/2025 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 31/2002 privind interzicerea organizațiilor, simbolurilor și faptelor cu caracter fascist, legionar, rasist sau xenofob și a promovării cultului persoanelor vinovate de săvârșirea unor infracțiuni de genocid contra umanității și de crime de război, precum și pentru modificarea Legii nr. 157/2018 privind unele măsuri pentru prevenirea și combaterea antisemitismului | [`lege/2025/241/`](lege/2025/241/) | amending act | 1 | 2025-12-27 | 2025-12-27 |
 | Legea nr. 245/2025 pentru modificarea art. 32 alin. (7) din Legea nr. 273/2006 privind finanțele publice locale | [`lege/2025/245/`](lege/2025/245/) | amending act | 1 | 2026-01-01 | 2026-01-01 |
 
-## Emergency ordinances (OUG) (342, of which 255 amending acts)
+## Emergency ordinances (OUG) (345, of which 256 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -658,6 +662,7 @@
 | Ordonanța de urgență a Guvernului nr. 65/2014 pentru modificarea și completarea unor acte normative | [`oug/2014/65/`](oug/2014/65/) | amending act | 4 | 2014-10-20 | 2022-05-26 |
 | Ordonanța de urgență a Guvernului nr. 77/2014 privind procedurile naționale în domeniul ajutorului de stat, precum și pentru modificarea și completarea Legii concurenței nr. 21/1996 | [`oug/2014/77/`](oug/2014/77/) | amending act | 8 | 2015-01-01 | 2024-07-29 |
 | Ordonanța de urgență a Guvernului nr. 82/2014 pentru modificarea și completarea Legii nr. 135/2010 privind Codul de procedură penală | [`oug/2014/82/`](oug/2014/82/) | amending act | 2 | 2014-12-15 | 2016-05-02 |
+| Ordonanța de urgență a Guvernului nr. 40/2015 | [`oug/2015/40/`](oug/2015/40/) | in force | 30 | 2015-10-06 | 2024-03-29 |
 | Ordonanța de urgență a Guvernului nr. 50/2015 | [`oug/2015/50/`](oug/2015/50/) | in force | 2 | 2016-01-01 | 2016-01-03 |
 | Ordonanța de urgență a Guvernului nr. 1/2016 pentru modificarea Legii nr. 134/2010 privind Codul de procedură civilă, precum și a unor acte normative conexe | [`oug/2016/1/`](oug/2016/1/) | amending act | 2 | 2016-02-04 | 2017-03-24 |
 | Ordonanța de urgență a Guvernului nr. 6/2016 | [`oug/2016/6/`](oug/2016/6/) | in force | 1 | 2016-03-14 | 2016-03-14 |
@@ -674,6 +679,7 @@
 | Ordonanța de urgență a Guvernului nr. 74/2017 privind desemnarea Inspectoratului General pentru Situații de Urgență ca unitate de achiziții centralizată pentru achiziția centralizată de autospeciale/ambulanțe pentru Serviciul Mobil de Urgență, Reanimare și Descarcerare din cadrul Inspectoratului General pentru Situații de Urgență, pentru serviciile de ambulanță județene și pentru Serviciul de Ambulanță București-Ilfov | [`oug/2017/74/`](oug/2017/74/) | in force | 2 | 2017-10-16 | 2024-11-22 |
 | Ordonanța de urgență a Guvernului nr. 114/2017 privind reglementarea unor măsuri fiscal-bugetare pentru personalul încadrat în unitățile sanitare | [`oug/2017/114/`](oug/2017/114/) | in force | 1 | 2017-12-29 | 2017-12-29 |
 | Ordonanța de urgență a Guvernului nr. 8/2018 privind reglementarea unor măsuri în domeniul sănătății | [`oug/2018/8/`](oug/2018/8/) | in force | 2 | 2018-03-01 | 2022-04-24 |
+| Ordonanța de urgență a Guvernului nr. 39/2018 privind parteneriatul public-privat | [`oug/2018/39/`](oug/2018/39/) | in force | 6 | 2018-05-18 | 2024-03-29 |
 | Ordonanța de urgență a Guvernului nr. 51/2018 pentru modificarea Legii nr. 350/2001 privind amenajarea teritoriului și urbanismul și pentru prorogarea unor termene | [`oug/2018/51/`](oug/2018/51/) | amending act | 2 | 2018-06-25 | 2023-08-27 |
 | Ordonanța de urgență a Guvernului nr. 105/2018 pentru modificarea și completarea unor acte normative din domeniul fondurilor europene nerambursabile | [`oug/2018/105/`](oug/2018/105/) | amending act | 2 | 2018-12-12 | 2024-03-29 |
 | Ordonanța de urgență a Guvernului nr. 25/2019 privind protecția know-how-ului și a informațiilor de afaceri nedivulgate care constituie secrete comerciale împotriva dobândirii, utilizării și divulgării ilegale, precum și pentru modificarea și completarea unor acte normative | [`oug/2019/25/`](oug/2019/25/) | amending act | 2 | 2019-04-19 | 2024-07-21 |
@@ -803,6 +809,7 @@
 | Ordonanța de urgență a Guvernului nr. 100/2022 privind aprobarea și implementarea Planului național de măsuri cu privire la protecția și incluziunea persoanelor strămutate din Ucraina, beneficiare de protecție temporară în România, precum și pentru modificarea și completarea unor acte normative | [`oug/2022/100/`](oug/2022/100/) | amending act | 1 | 2022-06-30 | 2022-06-30 |
 | Ordonanța de urgență a Guvernului nr. 102/2022 pentru modificarea și completarea Legii nr. 207/2015 privind Codul de procedură fiscală | [`oug/2022/102/`](oug/2022/102/) | amending act | 1 | 2022-06-30 | 2022-06-30 |
 | Ordonanța de urgență a Guvernului nr. 104/2022 pentru modificarea și completarea Legii nr. 17/2014 privind unele măsuri de reglementare a vânzării terenurilor agricole situate în extravilan și de modificare a Legii nr. 268/2001 privind privatizarea societăților ce dețin în administrare terenuri proprietate publică și privată a statului cu destinație agricolă și înființarea Agenției Domeniilor Statului | [`oug/2022/104/`](oug/2022/104/) | amending act | 2 | 2022-06-30 | 2024-05-03 |
+| Ordonanța de urgență a Guvernului nr. 109/2022 privind unele măsuri pentru proiectele de infrastructură de apă și apă uzată finanțate din fonduri europene și pentru modificarea unor acte normative | [`oug/2022/109/`](oug/2022/109/) | amending act | 7 | 2022-07-14 | 2023-07-25 |
 | Ordonanța de urgență a Guvernului nr. 111/2022 pentru completarea Ordonanței de urgență a Guvernului nr. 80/2022 privind reglementarea unor măsuri în domeniul ocupării posturilor în sectorul bugetar | [`oug/2022/111/`](oug/2022/111/) | amending act | 1 | 2022-07-15 | 2022-07-15 |
 | Ordonanța de urgență a Guvernului nr. 114/2022 pentru modificarea și completarea Legii nr. 196/2016 privind venitul minim de incluziune | [`oug/2022/114/`](oug/2022/114/) | amending act | 2 | 2022-08-29 | 2023-04-01 |
 | Ordonanța de urgență a Guvernului nr. 115/2022 pentru completarea art. I din Ordonanța de urgență a Guvernului nr. 130/2021 privind unele măsuri fiscal-bugetare, prorogarea unor termene, precum și pentru modificarea și completarea unor acte normative | [`oug/2022/115/`](oug/2022/115/) | amending act | 2 | 2022-08-29 | 2023-04-21 |
@@ -972,7 +979,7 @@
 | Ordonanța de urgență a Guvernului nr. 78/2025 pentru modificarea Legii nr. 239/2025 privind stabilirea unor măsuri de redresare și eficientizare a resurselor publice și pentru modificarea și completarea unor acte normative | [`oug/2025/78/`](oug/2025/78/) | amending act | 1 | 2025-12-17 | 2025-12-17 |
 | Ordonanța de urgență a Guvernului nr. 87/2025 pentru stabilirea unor măsuri bugetare privind implementarea programelor naționale din domeniul lucrărilor publice | [`oug/2025/87/`](oug/2025/87/) | in force | 1 | 2025-12-24 | 2025-12-24 |
 
-## Ordinances (OG) (68, of which 48 amending acts)
+## Ordinances (OG) (69, of which 48 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -987,6 +994,7 @@
 | Ordonanța Guvernului nr. 13/2011 privind dobânda legală remuneratorie și penalizatoare pentru obligații bănești, precum și pentru reglementarea unor măsuri financiar-fiscale în domeniul bancar | [`og/2011/13/`](og/2011/13/) | in force | 5 | 2011-09-01 | 2014-06-28 |
 | Ordonanța Guvernului nr. 21/2014 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 195/2002 privind circulația pe drumurile publice | [`og/2014/21/`](og/2014/21/) | amending act | 2 | 2014-09-01 | 2019-07-29 |
 | Ordonanța Guvernului nr. 29/2014 | [`og/2014/29/`](og/2014/29/) | in force | 2 | 2014-09-29 | 2023-02-03 |
+| Ordonanța Guvernului nr. 10/2015 | [`og/2015/10/`](og/2015/10/) | in force | 4 | 2015-02-02 | 2022-06-17 |
 | Ordonanța Guvernului nr. 30/2017 pentru modificarea și completarea Legii nr. 207/2015 privind Codul de procedură fiscală | [`og/2017/30/`](og/2017/30/) | amending act | 2 | 2017-09-03 | 2018-06-29 |
 | Ordonanța Guvernului nr. 18/2019 privind prorogarea termenului prevăzut la art. II din Legea nr. 163/2016 pentru modificarea și completarea Legii nr. 10/1995 privind calitatea în construcții | [`og/2019/18/`](og/2019/18/) | amending act | 2 | 2019-08-25 | 2021-07-12 |
 | Ordonanța Guvernului nr. 19/2019 pentru modificarea și completarea Legii nr. 207/2015 privind Codul de procedură fiscală | [`og/2019/19/`](og/2019/19/) | amending act | 2 | 2019-08-25 | 2021-05-10 |

@@ -750,6 +750,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/29453"
 },
 {
+"slug": "legea-406-2001",
+"path": "lege/2001/406",
+"kind": "lege",
+"year": "2001",
+"number": "406",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 406/2001",
+"short": "Legea nr. 406/2001",
+"code": null,
+"status": "in force",
+"versions": 5,
+"from": "2001-07-16",
+"latest": "2025-09-15",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/302117"
+},
+{
 "slug": "legea-416-2001",
 "path": "lege/2001/416",
 "kind": "lege",
@@ -1071,6 +1088,23 @@
 "from": "2003-08-27",
 "latest": "2025-01-17",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/44014"
+},
+{
+"slug": "legea-356-2003",
+"path": "lege/2003/356",
+"kind": "lege",
+"year": "2003",
+"number": "356",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 356/2003",
+"short": "Legea nr. 356/2003",
+"code": null,
+"status": "in force",
+"versions": 12,
+"from": "2003-07-23",
+"latest": "2021-07-12",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/243596"
 },
 {
 "slug": "codul-fiscal-2003",
@@ -1632,6 +1666,23 @@
 "from": "2007-01-01",
 "latest": "2025-03-30",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/88315"
+},
+{
+"slug": "legea-509-2006",
+"path": "lege/2006/509",
+"kind": "lege",
+"year": "2006",
+"number": "509",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 509/2006",
+"short": "Legea nr. 509/2006",
+"code": null,
+"status": "in force",
+"versions": 2,
+"from": "2007-01-14",
+"latest": "2019-01-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/300073"
 },
 {
 "slug": "legea-135-2007",
@@ -2635,6 +2686,23 @@
 "from": "2018-07-06",
 "latest": "2026-01-16",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/201860"
+},
+{
+"slug": "legea-165-2018",
+"path": "lege/2018/165",
+"kind": "lege",
+"year": "2018",
+"number": "165",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 165/2018 privind acordarea biletelor de valoare",
+"short": "Legea nr. 165/2018",
+"code": null,
+"status": "in force",
+"versions": 14,
+"from": "2018-07-16",
+"latest": "2025-12-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/202623"
 },
 {
 "slug": "legea-190-2018",
@@ -10525,6 +10593,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/163828"
 },
 {
+"slug": "oug-40-2015",
+"path": "oug/2015/40",
+"kind": "oug",
+"year": "2015",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 40/2015",
+"short": "OUG nr. 40/2015",
+"code": null,
+"status": "in force",
+"versions": 30,
+"from": "2015-10-06",
+"latest": "2024-03-29",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/171816"
+},
+{
 "slug": "oug-50-2015",
 "path": "oug/2015/50",
 "kind": "oug",
@@ -10795,6 +10880,23 @@
 "from": "2018-03-01",
 "latest": "2022-04-24",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/198225"
+},
+{
+"slug": "oug-39-2018",
+"path": "oug/2018/39",
+"kind": "oug",
+"year": "2018",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 39/2018 privind parteneriatul public-privat",
+"short": "OUG nr. 39/2018",
+"code": null,
+"status": "in force",
+"versions": 6,
+"from": "2018-05-18",
+"latest": "2024-03-29",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/200770"
 },
 {
 "slug": "oug-51-2018",
@@ -12988,6 +13090,23 @@
 "from": "2022-06-30",
 "latest": "2024-05-03",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/256924"
+},
+{
+"slug": "oug-109-2022",
+"path": "oug/2022/109",
+"kind": "oug",
+"year": "2022",
+"number": "109",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 109/2022 privind unele măsuri pentru proiectele de infrastructură de apă și apă uzată finanțate din fonduri europene și pentru modificarea unor acte normative",
+"short": "OUG nr. 109/2022",
+"code": null,
+"status": "amending act",
+"versions": 7,
+"from": "2022-07-14",
+"latest": "2023-07-25",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/268328"
 },
 {
 "slug": "oug-111-2022",
@@ -16031,6 +16150,23 @@
 "from": "2014-09-29",
 "latest": "2023-02-03",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/280936"
+},
+{
+"slug": "og-10-2015",
+"path": "og/2015/10",
+"kind": "og",
+"year": "2015",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța Guvernului nr. 10/2015",
+"short": "OG nr. 10/2015",
+"code": null,
+"status": "in force",
+"versions": 4,
+"from": "2015-02-02",
+"latest": "2022-06-17",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/165224"
 },
 {
 "slug": "og-30-2017",
