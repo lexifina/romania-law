@@ -8666,147 +8666,6 @@
    ]
   },
   {
-   "slug": "codul-penal-1969",
-   "path": "lege/1968/15",
-   "short": "Codul penal din 1969",
-   "title": "Codul penal din 21 iunie 1968 (Legea nr. 15/1968)",
-   "url": "https://legislatie.just.ro/Public/DetaliiDocument/38070",
-   "versions": [
-    {
-     "from": "1969-01-01",
-     "units": 363,
-     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/38070",
-     "sha256": "2d1ba894dcf3d1175b54208ed136f08c84a2d1057b4ecb0ffe9d56e449bfdfe8"
-    },
-    {
-     "from": "1997-04-16",
-     "units": 393,
-     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/191",
-     "sha256": "b43a964e211f344571965c0bc1cbf552f1a7545ff64fb17b54bf3f30efc0b396"
-    },
-    {
-     "from": "2001-10-01",
-     "units": 395,
-     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/31993",
-     "sha256": "f4aefcafcc19b540b23e5ab617958fa34e57d482c07904d51adfe26410939246"
-    },
-    {
-     "from": "2002-11-05",
-     "units": 396,
-     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/44824",
-     "sha256": "1eef59af2aa40d68527637854f015f2df9708ab05e7dac1d9fe3aefba07a5abc"
-    },
-    {
-     "from": "2004-11-27",
-     "units": 397,
-     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/63659",
-     "sha256": "7ec35ac74d2d6ad165eb48cd45cb8afcf6ad81a389ae94d5e17003fbcecec2f1"
-    },
-    {
-     "from": "2005-04-15",
-     "units": 397,
-     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/63660",
-     "sha256": "b025bca86c6614f24fa14c31989dfe87fd507445999a883939bbe385fd9f29a0"
-    },
-    {
-     "from": "2005-06-05",
-     "units": 397,
-     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/63661",
-     "sha256": "717fa5621f3dfd43c83ccd8cd798c55698542a1b8bd727e88fdd60d234ee4b82"
-    },
-    {
-     "from": "2005-07-25",
-     "units": 397,
-     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/63662",
-     "sha256": "540827e49efac64598a94fbeec7696263313b7bf1ce175fd480b84888f2b314f"
-    },
-    {
-     "from": "2006-08-11",
-     "units": 414,
-     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73500",
-     "sha256": "11f560e02ee7fd2f49d1a06728ff86c9a7b04e5ddd7db49b427a249fb73b91be"
-    },
-    {
-     "from": "2006-09-07",
-     "units": 414,
-     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/75129",
-     "sha256": "db139ac0aef5d57f5add848653bf449839d7fd11dd8b123bef85e06f8e353b12"
-    },
-    {
-     "from": "2007-02-12",
-     "units": 414,
-     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/79491",
-     "sha256": "b37012e0a88fb85c0084aa4ec0700dc7591296e38fe4405a7db60e0216222a0f"
-    },
-    {
-     "from": "2007-12-11",
-     "units": 414,
-     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87918",
-     "sha256": "ad332fcfd6d820e359afd5cfd971a9c911c00b4b77d1a305f340da535d64eda9"
-    },
-    {
-     "from": "2008-03-28",
-     "units": 414,
-     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/90728",
-     "sha256": "dc51d3df22db97c400c0e2f2d9416a5b83ba8e4d9a844c5a2260e85cb7e63488"
-    },
-    {
-     "from": "2008-12-08",
-     "units": 415,
-     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/100123",
-     "sha256": "6fffcdc4bacd28e8b0913fad282734df5f1656522394b42ab876de8e2b40b5b0"
-    },
-    {
-     "from": "2010-05-30",
-     "units": 415,
-     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119397",
-     "sha256": "654f17aece3e758b90b94f27a6570cb7762a5ac444781c054ed2dd91516021af"
-    },
-    {
-     "from": "2010-11-25",
-     "units": 416,
-     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/123150",
-     "sha256": "77dfe26e37a8b644d011dcb1dad655554877959478d53de14ad98d5cd1a5a326"
-    },
-    {
-     "from": "2011-05-25",
-     "units": 416,
-     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/130588",
-     "sha256": "86f79698b9321d86b3bfe28f89d33356f538fbc76dbdfa673e65949dc139bfe0"
-    },
-    {
-     "from": "2011-06-14",
-     "units": 416,
-     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/135345",
-     "sha256": "34fe6cad83a407437a084c4521fe2d6fbf0c4957565170b9d2cff855804fac5d"
-    },
-    {
-     "from": "2011-07-10",
-     "units": 416,
-     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/135346",
-     "sha256": "fcaafecff94e6094ab13da780ecc7eecd9184544a6c1761a0120c4e7548a238e"
-    },
-    {
-     "from": "2012-03-23",
-     "units": 416,
-     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/136377",
-     "sha256": "83e7c574d32751b438f7b3a4bafa08240f3bd6b13175f44fe4a9d34f06a3973b"
-    },
-    {
-     "from": "2012-04-22",
-     "units": 417,
-     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38070",
-     "sha256": "9658faf0eb2fcac53e2ca4861b401cd7e9037a95a5bfbfe5dcf899192da0a266"
-    },
-    {
-     "from": "2014-02-01",
-     "units": 0,
-     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/142722",
-     "sha256": "335b53be5ae3f71415e5c450259e89fc17917826820eb730fab2c282bba08e7c"
-    }
-   ]
-  },
-  {
    "slug": "codul-procedura-penala-1968",
    "path": "lege/1968/29",
    "short": "Codul de procedură penală din 1968",
@@ -18337,6 +18196,33 @@
      "units": 58,
      "source_url": "https://legislatie.just.ro/public/detaliidocument/70015",
      "sha256": "bad58b026eb0668fd7c4c928a83d3f1bb1f8957a03645da263b1355bd2a0efbd"
+    }
+   ]
+  },
+  {
+   "slug": "legea-514-2003",
+   "path": "lege/2003/514",
+   "short": "Legea nr. 514/2003",
+   "title": "Legea nr. 514/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/48194",
+   "versions": [
+    {
+     "from": "2003-12-08",
+     "units": 27,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/48194",
+     "sha256": "2ce96357a1a1d0dab0dff87bf54fe8512700d92b6a29f363ad7994efd441f9fb"
+    },
+    {
+     "from": "2006-06-30",
+     "units": 28,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73130",
+     "sha256": "0be97f8b55339bcbfde3759617216e1e33b4ec933f956a9eef82a65f6b9a69c0"
+    },
+    {
+     "from": "2023-06-10",
+     "units": 28,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/48194",
+     "sha256": "a3b78d0d2b6b3d80fccca278f59a7fefebaa3bf4f7271a192baeab3bf6579185"
     }
    ]
   },

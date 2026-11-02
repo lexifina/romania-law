@@ -1,6 +1,6 @@
 # Every act in this repository
 
-1258 acts, 5,108 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+1259 acts, 5,111 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -20,7 +20,7 @@
 | Codul fiscal | Codul fiscal | [`lege/2015/227/`](lege/2015/227/) | 149 | 2026-08-08 |
 | Codul muncii | Codul muncii | [`lege/2003/53/`](lege/2003/53/) | 61 | 2025-12-18 |
 | Codul penal | Codul penal | [`lege/2009/286/`](lege/2009/286/) | 45 | 2026-04-26 |
-| Codul penal din 21 iunie 1968 | Codul penal din 1969 | [`lege/1968/15/`](lege/1968/15/) | 22 | 2014-02-01 |
+| Codul penal din 21 iunie 1968 | Codul penal din 1969 | [`None/`](None/) | 22 | 2014-02-01 |
 | Codul silvic | Legea nr. 46/2008 | [`lege/2008/46/`](lege/2008/46/) | 22 | 2024-04-13 |
 | Codul vamal al României | Codul vamal (Legea nr. 86/2006) | [`lege/2006/86/`](lege/2006/86/) | 13 | 2025-12-18 |
 | Constituția României | Constituția | [`constitutie/1991/`](constitutie/1991/) | 2 | 2003-10-29 |
@@ -36,7 +36,6 @@
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
 | Codul familiei din 1953 (Legea nr. 4/1953) | [`lege/1953/4/`](lege/1953/4/) | repealed 2011-10-01 | 8 | 1956-04-18 | 2011-10-01 |
-| Codul penal din 21 iunie 1968 (Legea nr. 15/1968) | [`lege/1968/15/`](lege/1968/15/) | repealed 2014-02-01 | 22 | 1969-01-01 | 2014-02-01 |
 | Codul de procedură penală din 12 noiembrie 1968 (Legea nr. 29/1968) | [`lege/1968/29/`](lege/1968/29/) | repealed 2014-02-01 | 35 | 1969-01-01 | 2014-02-01 |
 | Legea nr. 26/1990 privind registrul comerțului | [`lege/1990/26/`](lege/1990/26/) | repealed 2022-11-26 | 27 | 1990-12-07 | 2022-11-26 |
 | Legea societăților nr. 31/1990 | [`lege/1990/31/`](lege/1990/31/) | in force | 43 | 1990-12-17 | 2025-12-18 |
@@ -99,6 +98,7 @@
 | Legea nr. 161/2003 privind unele măsuri pentru asigurarea transparenței în exercitarea demnităților publice, a funcțiilor publice și în mediul de afaceri, prevenirea și sancționarea corupției | [`lege/2003/161/`](lege/2003/161/) | in force | 22 | 2003-04-21 | 2023-05-29 |
 | Legea nr. 217/2003 pentru prevenirea și combaterea violenței domestice | [`lege/2003/217/`](lege/2003/217/) | in force | 22 | 2003-08-27 | 2025-01-17 |
 | Legea nr. 356/2003 | [`lege/2003/356/`](lege/2003/356/) | in force | 12 | 2003-07-23 | 2021-07-12 |
+| Legea nr. 514/2003 | [`lege/2003/514/`](lege/2003/514/) | in force | 3 | 2003-12-08 | 2023-06-10 |
 | Codul fiscal (Legea nr. 571/2003) | [`lege/2003/571/`](lege/2003/571/) | in force | 61 | 2004-01-01 | 2015-11-04 |
 | Legea nr. 211/2004 privind unele măsuri pentru asigurarea protecției victimelor infracțiunilor | [`lege/2004/211/`](lege/2004/211/) | in force | 8 | 2005-01-01 | 2024-11-08 |
 | Legea petrolului nr. 238/2004 | [`lege/2004/238/`](lege/2004/238/) | in force | 16 | 2004-09-13 | 2024-06-29 |
@@ -1312,3 +1312,11 @@
 | --- | --- | --- | ---: | --- | --- |
 | Codul civil din 26 noiembrie 1864 | [`cod/1864/civil/`](cod/1864/civil/) | repealed 2013-02-15 | 8 | 1865-12-01 | 2013-02-15 |
 | Codul comercial din 10 mai 1887 | [`cod/1887/comercial/`](cod/1887/comercial/) | in force | 17 | 1887-09-01 | 2013-02-15 |
+
+## Withdrawn from the record (1)
+
+Acts published here and later found not to belong (for example, titled as Government decisions but issued by another body). Their folders were removed by a correction commit; the commits that added them stay in the history. Their ids are retired: a later act with the same number gets the id with `-2` appended.
+
+| Act id | Reason | Removed by |
+| --- | --- | --- |
+| `codul-penal-1969` | not in the current record |  |
