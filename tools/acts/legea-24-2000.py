@@ -21,7 +21,26 @@ def register(P):
                                 'Legea nr. 60/2010, with renumbered articles.'},
         'republished': {'54722': 'legea-189-2004', '118116': 'legea-60-2010'},
         'repeal_acts': {},
-        'decisions': [],
+        'decisions': [
+            'Legea nr. 24/2000: the first version is the law as published in Monitorul Oficial nr. 139 of 31 March '
+            '2000 (DetaliiDocumentAfis/21698). It sets no in-force day of its own, so it took effect on publication.',
+            'Legea nr. 24/2000: the portal\'s first consolidated form is of 31 May 2004, so the changes made up to then '
+            '(OUG nr. 6/2003, rejected by Legea nr. 268/2004, and Legea nr. 189/2004, published in Monitorul Oficial '
+            'nr. 463 of 24 May 2004) arrive together that day. The form prints no note for the changes to arts. 29 '
+            'and 43, which are committed as the publisher\'s.',
+            'Legea nr. 24/2000: the republications of 25 August 2004 (Monitorul Oficial nr. 777, under art. II of Legea '
+            'nr. 189/2004, enacted 20 May 2004; read from DetaliiDocumentAfis/54722) and 21 April 2010 (Monitorul '
+            'Oficial nr. 260, under art. II of Legea nr. 60/2010, enacted 31 March 2010, which approved OUG nr. '
+            '61/2009; read from DetaliiDocumentAfis/118116) renumber the articles. Changes on those days that no note '
+            'explains are credited to the law that ordered the republication, as each republication note says; files '
+            'follow each text\'s own numbering.',
+            'Legea nr. 24/2000: the marginal titles are read as the first line of each article. The title of art. 1 '
+            '("Activitatea de legiferare") follows the chapter heading in the base text and is read only from the '
+            'forms that print it inside the article (25 August 2004 to 7 July 2007).',
+            'Legea nr. 24/2000: the forms of 24 March 2007 to 9 April 2010 print many words without their diacritics '
+            '("relatiilor", "dispozitii", "ordonantelor") and the republication of 21 April 2010 prints them again; '
+            'those changes are the publisher\'s.',
+        ],
         'root_word': 'act page',
     }
     P.BASE_LAWS[SLUG] = {  # read from the act as published (DetaliiDocumentAfis/21698, Common Crawl 20251015014842)

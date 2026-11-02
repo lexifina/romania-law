@@ -36,7 +36,26 @@ def register(P):
                         'MONITORUL OFICIAL nr. 62 din 1 februarie 2003 de către LEGEA nr. 213 din 5 iulie 2005, '
                         'publicată în MONITORUL OFICIAL nr. 597 din 11 iulie 2005'},
         },
-        'decisions': [],
+        'sign_tail': True, 'revert_prin': True,
+        'decisions': [
+            'OG nr. 26/2000: the first version is the ordinance as published in Monitorul Oficial nr. 39 of 31 January '
+            '2000 (DetaliiDocumentAfis/20740), in force 3 months after publication (its art. 78): counted from 31 '
+            'January, the term ends on 30 April 2000 (there is no 31 April), the day it took effect. The Government\'s '
+            'signature block printed inside its last article (art. 86) is not text and is left out.',
+            'OG nr. 26/2000: the portal\'s first consolidated form is of 3 March 2003, which, as its heading says, '
+            'holds the changes of OG nr. 37/2003 (Monitorul Oficial nr. 62 of 1 February 2003); they arrive together '
+            'that day.',
+            'OG nr. 26/2000: OG nr. 37/2003 was rejected by Legea nr. 213/2005 (enacted 5 July 2005, published in '
+            'Monitorul Oficial nr. 597 of 11 July 2005; its single article: "Se respinge Ordonanța Guvernului nr. '
+            '37 din 30 ianuarie 2003 ...", read as published: DetaliiDocumentAfis/63026), which sets no in-force day '
+            'of its own, so it took effect 3 days after publication, on 14 July 2005, the day of the portal\'s form. '
+            'That form prints the wording the ordinance had changed as it was before and leaves out the articles the '
+            'ordinance inserted (arts. 1^1, 38^1, 40^1, 41^1, 41^2), each removed by the rejecting law that day. Each '
+            'provision for which the form prints the portal\'s note that it returned to its first wording through '
+            'the rejection, whether as a note or as a paragraph of the article (not text, left out), is credited to '
+            'Legea nr. 213/2005; art. 40, whose note is misworded ("a fost revenit la forma inițială"), is committed as '
+            'the publisher\'s.',
+        ],
         'root_word': 'act page',
     }
     P.BASE_LAWS[SLUG] = {  # read from the act as published (DetaliiDocumentAfis/20740, Common Crawl 20250916100015)

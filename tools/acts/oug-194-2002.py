@@ -13,7 +13,7 @@ def register(P):
         'root_word': 'act page',
         'title': 'Ordonanța de urgență a Guvernului nr. 194/2002 privind regimul străinilor în România',
         'url': P.PORTAL + 'DetaliiDocument/93712',
-        'in_force': '2003-01-26', 'first_law': SLUG,
+        'in_force': '2003-01-26', 'first_law': SLUG, 'hold': True,
         'base_note': 'The emergency ordinance as published in Monitorul Oficial nr. 955 of 27 December 2002, in force '
                      '30 days after publication (its art. 137 alin. (1)): 26 January 2003.',
         'form_note': {

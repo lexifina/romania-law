@@ -19,7 +19,23 @@ def register(P):
                                 'of Legea nr. 281/2013, with renumbered articles.'},
         'republished': {'153210': 'legea-281-2013'},
         'repeal_acts': {},
-        'decisions': [],
+        # the form of 13.12.2010 prints the note on art. 11 alin. (3) as a paragraph, with a misprint ("a fot introdus")
+        'mod_lines': True, 'mod_typos': ((' a fot introdus', ' a fost introdus'),),
+        'decisions': [
+            'Legea nr. 52/2003: the first version is the law as published in Monitorul Oficial nr. 70 of 3 February '
+            '2003 (DetaliiDocumentAfis/41571), in force 60 days after publication (its art. 16 alin. (1)): 4 April '
+            '2003. The portal\'s first consolidated form is of 13 December 2010; the only change made before it, '
+            'Legea nr. 242/2010 (Monitorul Oficial nr. 828 of 10 December 2010), arrives with it.',
+            'Legea nr. 52/2003: the form of 13 December 2010 prints the portal\'s note on art. 11 alin. (3) as a '
+            'paragraph of the article, with a misprint ("a fot introdus de pct. 3 al art. unic din LEGEA nr. 242 ..."); '
+            'it is not text and is left out, and is read as the article\'s note naming Legea nr. 242/2010, whose art. '
+            'unic pct. 3 (read as published: DetaliiDocumentAfis/124325) inserts that paragraph.',
+            'Legea nr. 52/2003: the republication of 3 December 2013 (Monitorul Oficial nr. 749, under art. II of '
+            'Legea nr. 281/2013, enacted 31 October 2013 and published in Monitorul Oficial nr. 679 of 5 November 2013; '
+            'read from DetaliiDocumentAfis/153210) renumbers the articles. The portal holds no form between 13 '
+            'December 2010 and that republication, so the changes of Legea nr. 281/2013 arrive together on 3 December '
+            '2013 and are credited to it, as the republication note says; files follow each text\'s own numbering.',
+        ],
         'root_word': 'act page',
     }
     P.BASE_LAWS[SLUG] = {  # read from the act as published (DetaliiDocumentAfis/41571, Common Crawl 20260210191054)

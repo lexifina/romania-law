@@ -6,6 +6,15 @@ record starts at its oldest form, the republication of 2002 (no_base).
 """
 SLUG = 'legea-64-1991'
 
+# the form of 18.09.2007 prints the rectification it applies (its own page is the text read)
+CC = {
+    'form-85523': {'url': 'https://legislatie.just.ro/Public/DetaliiDocument/85523', 'timestamp': '20260215054604',
+                   'crawl': 'CC-MAIN-2026-08',
+                   'filename': 'crawl-data/CC-MAIN-2026-08/segments/1770395506505.5/warc/'
+                               'CC-MAIN-20260215035505-20260215065505-00808.warc.gz',
+                   'offset': '246571227', 'length': '60115'},
+}
+
 
 def register(P):
     P.ACTS[SLUG] = {
@@ -25,6 +34,20 @@ def register(P):
                       '284606': 'The law as republished in Monitorul Oficial nr. 600 of 27 June 2024 under art. VI '
                                 'alin. (3) of Legea nr. 30/2024, with renumbered articles.'},
         'republished': {'84262': 'legea-28-2007', '160717': 'legea-83-2014', '284606': 'legea-30-2024'},
+        'repeal_acts': {
+            'rectificare-mo-638-2007': {
+                'label': 'Rectificare MO nr. 638/2007', 'page': '85523', 'capture': CC['form-85523']['timestamp'],
+                'cc': CC['form-85523'], 'in_force': '2007-09-18',
+                'why': 'an official correction in force on publication in Monitorul Oficial nr. 638 of 18 September '
+                       '2007',
+                'read': 'the form of 18.09.2007 prints it: "La forma republicată a Legii nr. 64/1991 ..., tipărită în '
+                        'Monitorul Oficial al României, Partea I, nr. 541 din 8 august 2007, art. 74 se elimină", with '
+                        'the note that art. 74 had been expressly repealed by art. 298 alin. (1) pct. 1 of Legea nr. '
+                        '571/2003.',
+                'repeals': {'85523': ('art-074',)},
+                'cite': 'Art. 74 a fost eliminat prin RECTIFICAREA nr. 64 din 11 octombrie 1991, publicată în '
+                        'MONITORUL OFICIAL nr. 638 din 18 septembrie 2007'},
+        },
         'decisions': [],
         'root_word': 'act page',
     }

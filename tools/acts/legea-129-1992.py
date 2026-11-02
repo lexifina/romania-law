@@ -6,6 +6,15 @@ form (no_base).
 """
 SLUG = 'legea-129-1992'
 
+# acts read as published (Common Crawl captures of their DetaliiDocumentAfis pages)
+CC = {
+    'legea-280-2007': {'url': 'https://legislatie.just.ro/Public/DetaliiDocumentAfis/86411',
+                       'timestamp': '20230202135318', 'crawl': 'CC-MAIN-2023-06',
+                       'filename': 'crawl-data/CC-MAIN-2023-06/segments/1674764500028.12/warc/'
+                                   'CC-MAIN-20230202133541-20230202163541-00564.warc.gz',
+                       'offset': '374156496', 'length': '25675', 'digest': 'UVMBEDLH3NBDF6WLLSFE6MQBLD64DZ2R'},
+}
+
 
 def register(P):
     P.ACTS[SLUG] = {
@@ -27,6 +36,18 @@ def register(P):
                                 'alin. (2) of Legea nr. 30/2024, with renumbered articles.'},
         'republished': {'42608': 'legea-585-2002', '88088': 'legea-280-2007', '157069': 'legea-187-2012',
                         '282567': 'legea-30-2024'},
+        'repeal_acts': {
+            'legea-280-2007': {
+                'label': 'Legea nr. 280/2007', 'page': '86411', 'capture': CC['legea-280-2007']['timestamp'],
+                'cc': CC['legea-280-2007'], 'in_force': '2007-11-25',
+                'why': 'its art. III alin. (1): in force 30 days after publication in Monitorul Oficial nr. 729 of 26 '
+                       'October 2007',
+                'read': 'art. I pct. 5: "Articolul 4 se abrogă."; pct. 7: "Articolele 6 și 7 se abrogă."; art. IV '
+                        'orders the republication.',
+                'repeals': {'86471': ('art-007',)},
+                'cite': 'Art. 7 a fost abrogat de pct. 7 al art. I din LEGEA nr. 280 din 17 octombrie 2007, publicată '
+                        'în MONITORUL OFICIAL nr. 729 din 26 octombrie 2007'},
+        },
         'decisions': [],
         'root_word': 'act page',
     }
