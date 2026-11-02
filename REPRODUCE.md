@@ -72,6 +72,7 @@ This file is written by the build on 2026-11-02, the day the source data was ret
 | Internet Archive, Wayback Machine | <https://web.archive.org/> | 2026-11-02 | Internet Archive terms of use; the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
 | captures of legislatie.just.ro for the Legea nr. 187/2012 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
 | captures of legislatie.just.ro for the Legea nr. 188/2000 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
+| captures of legislatie.just.ro for the Legea nr. 192/2006 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
 | captures of legislatie.just.ro for the Legea nr. 193/2000 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
 | captures of legislatie.just.ro for the Legea nr. 196/2018 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
 | Internet Archive, Wayback Machine | <https://web.archive.org/> | 2026-11-02 | Internet Archive terms of use; the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
@@ -861,6 +862,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `legea-182-2002` | Legea nr. 182/2002 privind protecția informațiilor clasificate | 6 | 2002-06-11 to 2015-07-03 |
 | `legea-187-2012` | Legea nr. 187/2012 pentru punerea în aplicare a Legii nr. 286/2009 privind Codul penal | 7 | 2012-11-15 to 2023-07-09 |
 | `legea-188-2000` | Legea nr. 188/2000 privind executorii judecătorești | 14 | 2000-11-10 to 2022-07-17 |
+| `legea-192-2006` | Legea nr. 192/2006 privind medierea și organizarea profesiei de mediator | 17 | 2006-05-25 to 2019-07-29 |
 | `legea-193-2000` | Legea nr. 193/2000 privind clauzele abuzive din contractele încheiate între profesioniști și consumatori | 10 | 2000-12-10 to 2022-05-28 |
 | `legea-196-2018` | Legea nr. 196/2018 privind înființarea, organizarea și funcționarea asociațiilor de proprietari și administrarea condominiilor | 2 | 2018-09-28 to 2025-12-19 |
 | `legea-198-2023` | Legea nr. 198/2023 a învățământului preuniversitar | 15 | 2023-09-03 to 2026-04-20 |
@@ -1577,19 +1579,19 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `oug-99-2021` | Ordonanța de urgență a Guvernului nr. 99/2021 privind modificarea unor acte normative din domeniul învățământului, precum și pentru modificarea și completarea Legii nr. 55/2020 privind unele măsuri pentru prevenirea și combaterea efectelor pandemiei de COVID-19 | 1 | 2021-09-13 to 2021-09-13 |
 | `oug-99-2023` | Ordonanța de urgență a Guvernului nr. 99/2023 privind unele măsuri pentru raportarea arieratelor de către instituțiile publice | 2 | 2023-11-16 to 2024-05-24 |
 
-The build made 3827 commits:
+The build made 3848 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 770 | first version of an act |
-| 2361 | one law on its in-force day |
-| 696 | changes no amendment note explains, credited to the publisher |
+| 771 | first version of an act |
+| 2378 | one law on its in-force day |
+| 699 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `viitor`: laws not yet in force on 2026-11-02.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 2155 laws in the record.
-- 5129 tags.
+- 2163 laws in the record.
+- 5154 tags.
 
 ## Dates
 
@@ -1601,7 +1603,7 @@ When a law gives no date of its own, the default rule applies: Constituția Rom�
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `9ddac0d646cffc095ac8b1d9955ffcc4e62081be93eefdadf89180968a17b651` (111054042 bytes).
+- Corpus: sha256 `28328ff990f79c7c01be72cdcf4d4a4e98b23788ee7bb5cef27643baea71d321` (111256700 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `c833c9cd52cb073d1e5a70252aaaa1bcc04f9d5f`, `check.py` `3d00541d258745461ab52b1b0cb4e1716a27a95d`, `on.py` `644a6c0857fbcc72562032b58d57aa113fee0641`.
 - Python 3.14.0; git version 2.52.0.windows.1.
 
@@ -2170,6 +2172,19 @@ No second build of this corpus has been compared yet.
 - Legea nr. 188/2000: articles a form leaves out are shown repealed on the day the repealing act took effect (on publication for an emergency ordinance, 3 days after for a law, unless the act sets its own day), credited to that act as its repeal note names it: art. 64, left out from the form of 25.07.2002: repealed by OG nr. 7/2001, in force 01.01.2002 (its own clause: in force on 1 January 2002 (published in Monitorul Oficial nr. 435 of 3 August 2001)); art. 36, left out from the form of 28.12.2005: repealed by OUG nr. 190/2005, in force 28.12.2005 (an emergency ordinance with no day of its own, in force on publication in Monitorul Oficial nr. 1.179 of 28 December 2005).
 - Legea nr. 188/2000: repeals dated before the form that first leaves the article out: 2002-01-01 (art-064; form 25.07.2002).
 - Legea nr. 188/2000: 12 changed article(s) with no note naming a law, committed as the publisher's: 2002-07-25 art-002, 2002-07-25 art-007, 2002-07-25 art-017, 2002-07-25 art-029, 2002-07-25 art-035, 2002-07-25 art-048, 2002-07-25 art-055, 2014-10-19 art-010, 2014-10-19 art-018, 2014-10-19 art-039, 2014-10-19 art-069, 2014-10-19 art-073.
+- Legea nr. 192/2006: added 2026-11-02, one of the Portalul legislativ's consolidated forms per version, as for the other acts. A capture was used only if it was complete and the page showed the form its document id stands for. The forms are those listed by DetaliiDocument/71928 as captured on 2026-01-20, the newest capture of any of the act's pages: 15 forms, 15 held.
+- Legea nr. 192/2006: the newest form held is that of 29.07.2019; amendments in force after it may be missing.
+- Legea nr. 192/2006: the first version is the law as published in Monitorul Oficial nr. 441 of 22 May 2006 (DetaliiDocumentAfis/71928). It sets no in-force day of its own, so it took effect 3 days after publication (Constituția of 1991 as republished, art. 78): 25 May 2006. Its art. 74 alin. (2) makes the opinion of art. 9 applicable from the publication of the training standards; no article is given a later day. The portal's first form is of 6 December 2009, so the changes made up to then arrive together that day.
+- Legea nr. 192/2006: art. 60^1 was inserted by Legea nr. 115/2012 (art. I pct. 13), whose art. II put it in force 6 months after publication; OUG nr. 90/2012 art. II put that off to 1 February 2013, and OUG nr. 4/2013 art. VIII (Monitorul Oficial nr. 68 of 31 January 2013, in force on publication) put lit. a)-f) off to the day the Code of Civil Procedure took effect (15 February 2013, by art. I of the same OUG) and lit. g) to the day the Code of Criminal Procedure took effect (1 February 2014). Each act was read as published (DetaliiDocumentAfis/139488, 144035, 145075). The portal's forms of 21 December 2012 and 31 January 2013 print art. 60^1 before its day; under the rule for text printed before its law it is left out of both, and arrives with the form of 15 February 2013 (lit. a)-f)). Lit. g), printed by the form of 1 July 2013, was due to take effect on 1 February 2014, the day the form of that day prints it repealed ("g) abrogată;", Legea nr. 255/2013): it never took effect and no version shows it.
+- Legea nr. 192/2006: art. 2 alin. (1^2), inserted by OUG nr. 90/2012 art. I pct. 2 (in force on publication, 21 December 2012), is put in force on 1 August 2013 by OUG nr. 4/2013 art. VI, in force on publication on 31 January 2013; the portal's forms print it throughout. It is shown from 21 December 2012, left out from 31 January 2013 by a version credited to OUG nr. 4/2013 (the text otherwise that of the form before), and shown again from 1 August 2013. No wording is changed.
+- Legea nr. 192/2006: Decizia Curții Constituționale nr. 266/2014 (Monitorul Oficial nr. 464 of 25 June 2014, read as published, DetaliiDocumentAfis/159260) finds art. 2 alin. (1) and (1^2) unconstitutional. The portal's form of 25 June 2014 marks both "(Alineat suspendat)"; that print is kept as the portal gives it and credited to the decision. Under Constituția art. 147 alin. (1) the two provisions ceased to have effect 45 days after publication, on 9 August 2014; the change to "Încetat efecte juridice.", first printed by the form of 15 July 2016, is dated that day, credited to the decision.
+- Legea nr. 192/2006: changes whose notes give an in-force day between two forms the portal holds are dated by the note, with the later form's text for those articles: 2014-08-09 (art-002; form 15.07.2016).
+- Legea nr. 192/2006: the portal editorial notes printed as paragraphs of an article (on a Constitutional Court ruling, a rectification, a provision put back in force) are not text: 23 such paragraphs across all forms, for example «Alin. (1) al art. 2 și-a încetat efectele juridice, ca urmar», «Alin. (1^2) al art. 2 și-a încetat efectele juridice, ca urm», «Alin. (1^3) al art. 2 a fost introdus de pct. 4 al art. unic».
+- Legea nr. 192/2006: an article a form leaves out with no repealing act to be found, printed again unchanged in a later form, keeps its text through the forms that leave it out: art. 75 through the form(s) of 01.02.2014 (no repealing act found; the form of 25.06.2014 prints it again unchanged).
+- Legea nr. 192/2006: older forms print some amendment notes as plain paragraphs, with no rule line before them ("Alin. (1) al art. 119 a fost modificat de ..."); they are not text, and are read as the article's notes naming the amending act: 01.07.2013 art-002, 01.07.2013 art-017, 01.07.2013 art-018, 01.07.2013 art-060-1, 01.07.2013 art-063.
+- Legea nr. 192/2006: the consolidator's notes printed inside an article ("*) NOTA C.T.C.E. S.A. Piatra-Neamţ:", quoting another act, with that act's lettered list) are not the act's text and are left out: 89 paragraphs and items across all forms.
+- Legea nr. 192/2006: 12 changed article(s) with no note naming a law, committed as the publisher's: 2013-07-01 art-060-1, 2013-07-01 art-060-2, 2014-02-01 art-019, 2014-02-01 art-063, 2014-06-25 art-008, 2014-06-25 art-008-1, 2014-06-25 art-016-1, 2014-06-25 art-059, 2014-06-25 art-060-1, 2014-06-25 art-060-2, 2014-06-25 art-063, 2014-06-25 art-071.
+- Legea nr. 192/2006: forms with no change after normalisation, so no version: 2013-01-31 (139563).
 - Legea nr. 193/2000: added 2026-11-02, one of the Portalul legislativ's consolidated forms per version, as for the other acts. A capture was used only if it was complete and the page showed the form its document id stands for. The forms are those listed by DetaliiDocumentAfis/91502 as captured on 2026-01-17, the newest capture of any of the act's pages: 12 forms, 12 held.
 - Legea nr. 193/2000: the newest form held is that of 28.05.2022; amendments in force after it may be missing.
 - Legea nr. 193/2000: the first version is the law as published in Monitorul Oficial nr. 560 of 10 November 2000 (DetaliiDocumentAfis/24922), in force 30 days after publication (its art. 17): 10 December 2000.
@@ -5908,6 +5923,7 @@ Model use at data-build time:
 - Legea nr. 182/2002: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - Legea nr. 187/2012: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - Legea nr. 188/2000: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
+- Legea nr. 192/2006: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - Legea nr. 193/2000: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - Legea nr. 196/2018: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - Legea nr. 198/2023: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.

@@ -1,6 +1,6 @@
 # Every act in this repository
 
-770 acts, 3,110 versions. Generated on every publish from the corpus; each folder's README.md lists its articles. Dates are in-force days.
+771 acts, 3,127 versions. Generated on every publish from the corpus; each folder's README.md lists its articles. Dates are in-force days.
 
 ## Codes and the Constitution (9)
 
@@ -16,7 +16,7 @@
 | [`codul-procedura-penala/`](codul-procedura-penala/) | Codul de procedură penală (Legea nr. 135/2010) | 61 | 2014-02-01 | 2026-06-13 |
 | [`constitutia/`](constitutia/) | Constituția României | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (427)
+## Laws (legi) (428)
 
 | Folder | Act | Versions | From | Latest |
 | --- | --- | ---: | --- | --- |
@@ -135,6 +135,7 @@
 | [`legea-188-2022/`](legea-188-2022/) | Legea nr. 188/2022 pentru modificarea și completarea Legii nr. 126/2018 privind piețele de instrumente financiare | 2 | 2022-07-03 | 2022-07-13 |
 | [`legea-190-2018/`](legea-190-2018/) | Legea nr. 190/2018 privind măsuri de punere în aplicare a Regulamentului (UE) 2016/679 (Regulamentul general privind protecția datelor) | 2 | 2018-07-31 | 2019-12-01 |
 | [`legea-190-2022/`](legea-190-2022/) | Legea nr. 190/2022 pentru modificarea și completarea Legii audiovizualului nr. 504/2002 , pentru modificarea și completarea Ordonanței Guvernului nr. 39/2005 privind cinematografia, precum și pentru modificarea Legii nr. 41/1994 privind organizarea și funcționarea Societății Române de Radiodifuziune și Societății Române de Televiziune | 1 | 2022-07-03 | 2022-07-03 |
+| [`legea-192-2006/`](legea-192-2006/) | Legea nr. 192/2006 privind medierea și organizarea profesiei de mediator | 17 | 2006-05-25 | 2019-07-29 |
 | [`legea-193-2000/`](legea-193-2000/) | Legea nr. 193/2000 privind clauzele abuzive din contractele încheiate între profesioniști și consumatori | 10 | 2000-12-10 | 2022-05-28 |
 | [`legea-195-2022/`](legea-195-2022/) | Legea nr. 195/2022 pentru completarea art. 25 din Legea contabilității nr. 82/1991 | 1 | 2022-07-07 | 2022-07-07 |
 | [`legea-196-2018/`](legea-196-2018/) | Legea nr. 196/2018 privind înființarea, organizarea și funcționarea asociațiilor de proprietari și administrarea condominiilor | 2 | 2018-09-28 | 2025-12-19 |
