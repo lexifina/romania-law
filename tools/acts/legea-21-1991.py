@@ -32,7 +32,18 @@ def register(P):
         'root_word': 'act page',
         'title': 'Legea cetățeniei române nr. 21/1991',
         'url': P.PORTAL + 'DetaliiDocument/1464',
-        'in_force': '1991-04-05', 'first_law': SLUG, 'hold': True,
+        'in_force': '1991-04-05', 'first_law': SLUG,
+        # the form of 29.07.2024 prints art. 34^2, inserted by OUG nr. 100/2024 art. I pct. 11, which that OUG's art.
+        # XVI alin. (1) puts in force on 30.06.2026; the later forms print it only inside notes
+        'early_text': {'286000': {'absent': ('art-034-2',), 'placeholder': ()}},
+        # the same form dates the notes on arts. 34^3 and 36^1 (art. I pct. 11 and 12 of that OUG) "la 30-06-2026";
+        # art. XVI alin. (1) defers only art. 34^2, so both took effect on publication (29.07.2024), as the form of
+        # 08.10.2024 dates them
+        'note_date_fix': [
+            ('2026-06-30', '2024-07-29', 'Capitolul VII a fost completat de Punctul 11. , Articolul I din ORDONANȚA DE '
+                                         'URGENȚĂ nr. 100 din 25 iulie 2024'),
+            ('2026-06-30', '2024-07-29', 'Capitolul VII a fost completat de Punctul 12. , Articolul I din ORDONANȚA DE '
+                                         'URGENȚĂ nr. 100 din 25 iulie 2024')],
         'base_note': 'The law as published in Monitorul Oficial nr. 44 of 6 March 1991, in force 30 days after '
                      'publication (its art. 42): 5 April 1991.',
         'form_note': {
@@ -92,6 +103,13 @@ def register(P):
                  'Partea I, nr. 44 din 6 martie 1991',
         'enacted': '1991-03-01', 'published': '1991-03-06', 'url': P.PORTAL + 'DetaliiDocumentAfis/1464',
     }
+    if 'legea-192-1999' not in P.BASE_LAWS:  # read from the act as published (DetaliiDocumentAfis/20225)
+        P.BASE_LAWS['legea-192-1999'] = {
+            'label': 'Legea nr. 192/1999', 'kind': 'law',
+            'title': 'Legea nr. 192 din 10 decembrie 1999 pentru modificarea și completarea Legii cetățeniei române nr. '
+                     '21/1991, publicată în Monitorul Oficial al României, Partea I, nr. 611 din 14 decembrie 1999',
+            'enacted': '1999-12-10', 'published': '1999-12-14', 'url': P.PORTAL + 'DetaliiDocumentAfis/20225',
+        }
     P.PHASE11 = P.PHASE11 + (SLUG,)
     P.PHASE6 = P.PHASE6 + (SLUG,)
     P.PHASE2 = P.PHASE2 + (SLUG,)

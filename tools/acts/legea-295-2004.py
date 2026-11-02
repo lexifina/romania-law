@@ -34,7 +34,29 @@ def register(P):
             'published, DetaliiDocumentAfis/129609) repeals them in art. I pct. 13, 25, 60, 90, 95, 117, 122 and 128 '
             'and takes effect 30 days after publication (its art. III), on 27 July 2011, the day of the form; the '
             'repeal is dated by the act.',
+            'Legea nr. 295/2004: the form of 4 November 2019 (219212) prints, in a note, that under art. I pct. 56 of '
+            'Legea nr. 196/2019 (Monitorul Oficial nr. 880 of 1 November 2019) the phrase "arme și muniții" is '
+            'replaced throughout the law by "arme, componente esențiale și muniții" and that the replacement was made '
+            'directly in the text of the form. The 30 articles that this changes and that carry no note of their own '
+            'are credited to Legea nr. 196/2019.',
+            'Legea nr. 295/2004: the form of 30 December 2004 (the first form, in force the day the law takes '
+            'effect) prints the text with the diacritics partly missing and a few typing errors ("Oblibațiile" for '
+            '"Obligațiile" in arts. 77, 110, 111 and 112), so its version differs from the text as published only in '
+            'typesetting and is credited to no law; so is the space the form of 17 November 2008 prints in "243/2002 ," '
+            'in art. 15.',
+            'Legea nr. 295/2004: the form of 17 November 2011 (the republication) prints arts. 21 and 138 without '
+            'their marginal titles, which the form of 19 December 2011 prints again; the change is the publisher\'s '
+            'and credited to no law.',
+            'Legea nr. 295/2004: the headings of subsections ("2. Regimul dreptului de deținere a armelor letale", '
+            '"2. Procurarea, deținerea și folosirea armelor și munițiilor de către ..." and the like), which some '
+            'forms print as the last line of the article before them, and the sentence that closes the law in its '
+            '2004 text and some forms ("Prezenta lege transpune Directiva nr. 91/477/CEE ..."), are left out of the '
+            'articles; the form of 17 November 2008 also prints, under art. 61, the quoted art. IV of the ordinance '
+            'that changed it, which is left out.',
         ],
+        'form_credits': {'219212': {f'art-{n:03d}': 'legea-196-2019' for n in (
+            7, 8, 26, 28, 44, 47, 48, 51, 53, 68, 70, 73, 75, 76, 77, 78, 79, 80, 83, 86, 87, 88, 92, 93, 112, 113,
+            114, 126, 127, 133)}},
         'repeal_acts': {
             'legea-117-2011': {
                 'label': 'Legea nr. 117/2011', 'page': '129609', 'capture': '20260120025647',
@@ -65,3 +87,14 @@ def register(P):
                  'României, Partea I, nr. 583 din 30 iunie 2004',
         'enacted': '2004-06-28', 'published': '2004-06-30', 'url': P.PORTAL + 'DetaliiDocumentAfis/53150',
     })
+    # the headings of subsections (printed as the last line of the article before them in some forms, apart in
+    # others) and the mention of the directive the law transposes (art. 145 of the 2004 numbering)
+    headings = ('2. Regimul dreptului de', '3. Regimul dreptului de', '4. Regimul procur', '5. Suspendarea, revocarea',
+                '6. Regimul c', '7. Furtul, pierderea', '2. Procurarea,', '3. Procurarea,', '4. Procurarea,',
+                '5. Regimul func')
+    P.EDITORIAL_LINES[SLUG] = {k: headings for k in (
+        'art-027', 'art-032', 'art-043', 'art-045', 'art-047', 'art-047-1', 'art-050', 'art-078', 'art-079', 'art-081',
+        'art-082', 'art-083', 'art-084', 'art-085')}
+    P.EDITORIAL_LINES[SLUG]['art-145'] = ('Prezenta lege transpune Directiva',)
+    # the form of 17 November 2008 prints the quoted art. IV of the ordinance that amended art. 61 under it
+    P.EDITORIAL_TAILS[SLUG] = {'art-061': '"Art. IV'}
