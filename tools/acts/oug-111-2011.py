@@ -29,6 +29,10 @@ def register(P):
             'ministers) inside art. 160, and the forms from 2016 print the law\'s mention of the directives it transposes '
             '(a "*" line and a list of "prevederile art. ...") after it; neither is the article\'s text, and both are '
             'left out.',
+            'OUG nr. 111/2011: the form of 28 May 2022 prints "bunuri" ("bun") for "produse" ("produs") in arts. 4, '
+            '51, 53, 55, 56, 59^1, 59^2, 59^4, 59^8, 92, 126 and 142 with no note naming the act that made the '
+            'change (in art. 126 the word is "produsul dintre procentul ...", which becomes "bunul dintre procentul '
+            '..."); those changes are the publisher\'s and are kept as printed.',
             'OUG nr. 111/2011: the forms of 26 July 2012 and 13 June 2014 print the headings of '
             'paragraphs ("PARAGRAFUL 1", "Cadrul general", "Încheierea contractelor la distanță", "Asigurarea '
             'accesului și interconectării" and the like) as lines of the article next to them (arts. 50-52 and '

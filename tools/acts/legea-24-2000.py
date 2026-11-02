@@ -9,7 +9,7 @@ SLUG = 'legea-24-2000'
 
 def register(P):
     P.ACTS[SLUG] = {
-        **P.P6, 'part': '9z-legea-24-2000', 'short': 'Legea nr. 24/2000', 'pad': 3, 'cc_forms': True,
+        **P.P6, 'part': '9z-legea-24-2000', 'short': 'Legea nr. 24/2000', 'pad': 3, 'cc_forms': True, 'titles': True,
         'title': 'Legea nr. 24/2000 privind normele de tehnică legislativă pentru elaborarea actelor normative',
         'url': P.PORTAL + 'DetaliiDocument/21698',
         'in_force': '2000-03-31', 'first_law': SLUG,
