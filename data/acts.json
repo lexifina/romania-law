@@ -257,6 +257,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/4066"
 },
 {
+"slug": "legea-10-1995",
+"path": "lege/1995/10",
+"kind": "lege",
+"year": "1995",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 10/1995 privind calitatea în construcții",
+"short": "Legea nr. 10/1995",
+"code": null,
+"status": "in force",
+"versions": 25,
+"from": "1995-01-24",
+"latest": "2025-12-24",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/5729"
+},
+{
 "slug": "legea-36-1995",
 "path": "lege/1995/36",
 "kind": "lege",
@@ -391,6 +408,23 @@
 "from": "2005-12-28",
 "latest": "2024-03-07",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/119052"
+},
+{
+"slug": "legea-152-1998",
+"path": "lege/1998/152",
+"kind": "lege",
+"year": "1998",
+"number": "152",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 152/1998 privind înființarea Agenției Naționale pentru Locuințe",
+"short": "Legea nr. 152/1998",
+"code": null,
+"status": "in force",
+"versions": 37,
+"from": "1998-07-16",
+"latest": "2025-02-03",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/15222"
 },
 {
 "slug": "legea-213-1998",
@@ -784,6 +818,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/41241"
 },
 {
+"slug": "legea-38-2003",
+"path": "lege/2003/38",
+"kind": "lege",
+"year": "2003",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 38/2003 privind transportul în regim de taxi și în regim de închiriere",
+"short": "Legea nr. 38/2003",
+"code": null,
+"status": "in force",
+"versions": 15,
+"from": "2003-04-28",
+"latest": "2022-03-27",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/41461"
+},
+{
 "slug": "legea-39-2003",
 "path": "lege/2003/39",
 "kind": "lege",
@@ -935,6 +986,23 @@
 "from": "2004-12-30",
 "latest": "2025-11-02",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/53150"
+},
+{
+"slug": "legea-296-2004",
+"path": "lege/2004/296",
+"kind": "lege",
+"year": "2004",
+"number": "296",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 296/2004 privind Codul consumului",
+"short": "Legea nr. 296/2004",
+"code": "Codul consumului",
+"status": "in force",
+"versions": 4,
+"from": "2007-01-01",
+"latest": "2010-07-22",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/53220"
 },
 {
 "slug": "legea-297-2004",
@@ -1105,6 +1173,23 @@
 "from": "2005-08-26",
 "latest": "2024-05-16",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/63590"
+},
+{
+"slug": "legea-51-2006",
+"path": "lege/2006/51",
+"kind": "lege",
+"year": "2006",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea serviciilor comunitare de utilități publice nr. 51/2006",
+"short": "Legea nr. 51/2006",
+"code": null,
+"status": "in force",
+"versions": 19,
+"from": "2006-03-24",
+"latest": "2026-02-25",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/70015"
 },
 {
 "slug": "legea-85-2006",
@@ -1311,6 +1396,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/263394"
 },
 {
+"slug": "legea-230-2007",
+"path": "lege/2007/230",
+"kind": "lege",
+"year": "2007",
+"number": "230",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 230/2007 privind înființarea, organizarea și funcționarea asociațiilor de proprietari",
+"short": "Legea nr. 230/2007",
+"code": null,
+"status": "repealed 2018-09-28",
+"versions": 9,
+"from": "2007-08-22",
+"latest": "2018-09-28",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/83753"
+},
+{
 "slug": "legea-46-2008",
 "path": "lege/2008/46",
 "kind": "lege",
@@ -1462,6 +1564,23 @@
 "from": "2010-09-05",
 "latest": "2025-11-22",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/303284"
+},
+{
+"slug": "legea-255-2010",
+"path": "lege/2010/255",
+"kind": "lege",
+"year": "2010",
+"number": "255",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 255/2010 privind exproprierea pentru cauză de utilitate publică, necesară realizării unor obiective de interes național, județean și local",
+"short": "Legea nr. 255/2010",
+"code": null,
+"status": "in force",
+"versions": 32,
+"from": "2010-12-23",
+"latest": "2025-04-18",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/124540"
 },
 {
 "slug": "legea-263-2010",
@@ -9369,6 +9488,40 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/62888"
 },
 {
+"slug": "oug-34-2006",
+"path": "oug/2006/34",
+"kind": "oug",
+"year": "2006",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 34/2006 privind atribuirea contractelor de achiziție publică, a contractelor de concesiune de lucrări publice și a contractelor de concesiune de servicii",
+"short": "OUG nr. 34/2006",
+"code": null,
+"status": "repealed 2016-05-26",
+"versions": 29,
+"from": "2006-05-15",
+"latest": "2016-05-26",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/71663"
+},
+{
+"slug": "oug-54-2006",
+"path": "oug/2006/54",
+"kind": "oug",
+"year": "2006",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 54/2006 privind regimul contractelor de concesiune de bunuri proprietate publică",
+"short": "OUG nr. 54/2006",
+"code": null,
+"status": "repealed 2019-07-05",
+"versions": 3,
+"from": "2006-06-30",
+"latest": "2019-07-05",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/73070"
+},
+{
 "slug": "oug-99-2006",
 "path": "oug/2006/99",
 "kind": "oug",
@@ -10829,6 +10982,23 @@
 "from": "2021-08-13",
 "latest": "2021-08-13",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/245336"
+},
+{
+"slug": "oug-92-2021",
+"path": "oug/2021/92",
+"kind": "oug",
+"year": "2021",
+"number": "92",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 92/2021 privind regimul deșeurilor",
+"short": "OUG nr. 92/2021",
+"code": null,
+"status": "in force",
+"versions": 7,
+"from": "2021-08-26",
+"latest": "2025-05-15",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/245846"
 },
 {
 "slug": "oug-94-2021",
@@ -14722,6 +14892,23 @@
 "from": "1992-08-28",
 "latest": "2023-11-11",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/2175"
+},
+{
+"slug": "og-43-1997",
+"path": "og/1997/43",
+"kind": "og",
+"year": "1997",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța Guvernului nr. 43/1997 privind regimul drumurilor",
+"short": "OG nr. 43/1997",
+"code": null,
+"status": "in force",
+"versions": 37,
+"from": "1998-01-01",
+"latest": "2025-08-25",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/11269"
 },
 {
 "slug": "og-26-2000",
