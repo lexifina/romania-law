@@ -3878,6 +3878,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/244879"
 },
 {
+"slug": "legea-219-2021",
+"path": "lege/2021/219",
+"kind": "lege",
+"year": "2021",
+"number": "219",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 219/2021 pentru modificarea și completarea Legii nr. 104/2008 privind prevenirea și combaterea producerii și traficului ilicit de substanțe dopante cu grad mare de risc",
+"short": "Legea nr. 219/2021",
+"code": null,
+"status": "amending act",
+"versions": 2,
+"from": "2021-07-31",
+"latest": "2021-08-27",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/245003"
+},
+{
 "slug": "legea-221-2021",
 "path": "lege/2021/221",
 "kind": "lege",
@@ -4930,6 +4947,23 @@
 "from": "2022-07-03",
 "latest": "2022-07-03",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/256901"
+},
+{
+"slug": "legea-191-2022",
+"path": "lege/2022/191",
+"kind": "lege",
+"year": "2022",
+"number": "191",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 191/2022 pentru modificarea și completarea Legii nr. 272/2004 privind protecția și promovarea drepturilor copilului",
+"short": "Legea nr. 191/2022",
+"code": null,
+"status": "amending act",
+"versions": 3,
+"from": "2022-07-03",
+"latest": "2022-09-28",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/256905"
 },
 {
 "slug": "legea-195-2022",
@@ -10338,6 +10372,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/159362"
 },
 {
+"slug": "oug-65-2014",
+"path": "oug/2014/65",
+"kind": "oug",
+"year": "2014",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 65/2014 pentru modificarea și completarea unor acte normative",
+"short": "OUG nr. 65/2014",
+"code": null,
+"status": "amending act",
+"versions": 4,
+"from": "2014-10-20",
+"latest": "2022-05-26",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/162275"
+},
+{
 "slug": "oug-77-2014",
 "path": "oug/2014/77",
 "kind": "oug",
@@ -13126,6 +13177,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/260845"
 },
 {
+"slug": "oug-150-2022",
+"path": "oug/2022/150",
+"kind": "oug",
+"year": "2022",
+"number": "150",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 150/2022 pentru modificarea și completarea Legii nr. 95/2006 privind reforma în domeniul sănătății și a Legii nr. 151/2010 privind serviciile specializate integrate de sănătate, educație și sociale adresate persoanelor cu tulburări din spectrul autist și cu tulburări de sănătate mintală asociate, precum și pentru stabilirea unor măsuri în domeniul sănătății",
+"short": "OUG nr. 150/2022",
+"code": null,
+"status": "amending act",
+"versions": 2,
+"from": "2022-11-10",
+"latest": "2024-12-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/261293"
+},
+{
 "slug": "oug-152-2022",
 "path": "oug/2022/152",
 "kind": "oug",
@@ -14722,6 +14790,23 @@
 "from": "2024-06-28",
 "latest": "2024-06-28",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/284677"
+},
+{
+"slug": "oug-84-2024",
+"path": "oug/2024/84",
+"kind": "oug",
+"year": "2024",
+"number": "84",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 84/2024 pentru modificarea și completarea unor acte normative în scopul creșterii siguranței rutiere",
+"short": "OUG nr. 84/2024",
+"code": null,
+"status": "amending act",
+"versions": 3,
+"from": "2024-06-29",
+"latest": "2024-10-27",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/284688"
 },
 {
 "slug": "oug-87-2024",

@@ -11828,6 +11828,33 @@
    ]
   },
   {
+   "slug": "legea-191-2022",
+   "path": "lege/2022/191",
+   "short": "Legea nr. 191/2022",
+   "title": "Legea nr. 191/2022 pentru modificarea și completarea Legii nr. 272/2004 privind protecția și promovarea drepturilor copilului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/256905",
+   "versions": [
+    {
+     "from": "2022-07-03",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/256905",
+     "sha256": "5f82cf12f2f201d45b13f4d3fe8e16013fb89909802fc174c3e295a7b7e6de77"
+    },
+    {
+     "from": "2022-07-30",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/256905",
+     "sha256": "5f82cf12f2f201d45b13f4d3fe8e16013fb89909802fc174c3e295a7b7e6de77"
+    },
+    {
+     "from": "2022-09-28",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/256905",
+     "sha256": "5f82cf12f2f201d45b13f4d3fe8e16013fb89909802fc174c3e295a7b7e6de77"
+    }
+   ]
+  },
+  {
    "slug": "legea-192-2006",
    "path": "lege/2006/192",
    "short": "Legea nr. 192/2006",
@@ -13189,6 +13216,27 @@
      "units": 68,
      "source_url": "https://web.archive.org/web/20260214202120id_/https://legislatie.just.ro/Public/DetaliiDocument/35841",
      "sha256": "c1f1e091ec5b293a4f2d59c2f716258bcf3fb6365c2adb8624234594ccfedd93"
+    }
+   ]
+  },
+  {
+   "slug": "legea-219-2021",
+   "path": "lege/2021/219",
+   "short": "Legea nr. 219/2021",
+   "title": "Legea nr. 219/2021 pentru modificarea și completarea Legii nr. 104/2008 privind prevenirea și combaterea producerii și traficului ilicit de substanțe dopante cu grad mare de risc",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/245003",
+   "versions": [
+    {
+     "from": "2021-07-31",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/245003",
+     "sha256": "9e73b022e24800cdc2d74205258905107469648f0cb911cb72be815066ab17f0"
+    },
+    {
+     "from": "2021-08-27",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/245003",
+     "sha256": "9e73b022e24800cdc2d74205258905107469648f0cb911cb72be815066ab17f0"
     }
    ]
   },
@@ -22982,6 +23030,39 @@
    ]
   },
   {
+   "slug": "oug-65-2014",
+   "path": "oug/2014/65",
+   "short": "OUG nr. 65/2014",
+   "title": "Ordonanța de urgență a Guvernului nr. 65/2014 pentru modificarea și completarea unor acte normative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/162275",
+   "versions": [
+    {
+     "from": "2014-10-20",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/162275",
+     "sha256": "cf9dc26af363dec14d5f107187b15b3f5bac96ed19c35d82f6f3d153367f3465"
+    },
+    {
+     "from": "2014-11-17",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/163057",
+     "sha256": "e02a9d6d5f776a23d70815c9d74d7f0cd242e38a6c9279ec7c05373379019d84"
+    },
+    {
+     "from": "2015-06-05",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168553",
+     "sha256": "8b94596b01cc086b0a7078257731f3a1502c49149ce91a94c504b78bd26a5ff6"
+    },
+    {
+     "from": "2022-05-26",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/255218",
+     "sha256": "38d4183c1edff698ab2bc3c47b0c1e4e6c88a4f7f70e47b3b9cc53d96ec76572"
+    }
+   ]
+  },
+  {
    "slug": "oug-69-2007",
    "path": "oug/2007/69",
    "short": "OUG nr. 69/2007",
@@ -23293,6 +23374,33 @@
      "units": 9,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/188272",
      "sha256": "d1d43678d8db6d6c3913c436ae1261ca73b90afe30dd8a008450d932d0b44621"
+    }
+   ]
+  },
+  {
+   "slug": "oug-84-2024",
+   "path": "oug/2024/84",
+   "short": "OUG nr. 84/2024",
+   "title": "Ordonanța de urgență a Guvernului nr. 84/2024 pentru modificarea și completarea unor acte normative în scopul creșterii siguranței rutiere",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/284688",
+   "versions": [
+    {
+     "from": "2024-06-29",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/284688",
+     "sha256": "4360ecaa5476c6e33663bfdedecd5ea40874c1d76342a4ca61ad7e1f42b75625"
+    },
+    {
+     "from": "2024-07-09",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/284688",
+     "sha256": "4360ecaa5476c6e33663bfdedecd5ea40874c1d76342a4ca61ad7e1f42b75625"
+    },
+    {
+     "from": "2024-10-27",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/284688",
+     "sha256": "4360ecaa5476c6e33663bfdedecd5ea40874c1d76342a4ca61ad7e1f42b75625"
     }
    ]
   },
@@ -36706,6 +36814,27 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/239069",
      "sha256": "3e4cf10a1710724680a6cdb9300cb7a90f760aeb2051f61102421ebcf7bcbd46"
+    }
+   ]
+  },
+  {
+   "slug": "oug-150-2022",
+   "path": "oug/2022/150",
+   "short": "OUG nr. 150/2022",
+   "title": "Ordonanța de urgență a Guvernului nr. 150/2022 pentru modificarea și completarea Legii nr. 95/2006 privind reforma în domeniul sănătății și a Legii nr. 151/2010 privind serviciile specializate integrate de sănătate, educație și sociale adresate persoanelor cu tulburări din spectrul autist și cu tulburări de sănătate mintală asociate, precum și pentru stabilirea unor măsuri în domeniul sănătății",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/261293",
+   "versions": [
+    {
+     "from": "2022-11-10",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/261293",
+     "sha256": "8d3064a6b68b2023efc0a497839873b9d4f4bf74adb0058d4860ee948d3202d4"
+    },
+    {
+     "from": "2024-12-01",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20250406044559id_/https://legislatie.just.ro/Public/DetaliiDocument/290831",
+     "sha256": "63fd2589b760792043754843afd03e557e9081d39d6f6e994ea7e61d9fcab7fb"
     }
    ]
   },

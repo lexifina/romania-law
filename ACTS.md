@@ -1,6 +1,6 @@
 # Every act in this repository
 
-1233 acts, 4,973 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+1238 acts, 4,987 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -31,7 +31,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (581, of which 357 amending acts)
+## Laws (legi) (583, of which 359 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -262,6 +262,7 @@
 | Legea nr. 208/2021 pentru aprobarea Ordonanței de urgență a Guvernului nr. 36/2021 privind utilizarea semnăturii electronice avansate sau semnăturii electronice calificate, însoțite de marca temporală electronică sau marca temporală electronică calificată și sigiliul electronic calificat al angajatorului în domeniul relațiilor de muncă, și pentru modificarea și completarea unor acte normative | [`lege/2021/208/`](lege/2021/208/) | amending act | 1 | 2021-07-25 | 2021-07-25 |
 | Legea nr. 214/2021 privind aprobarea Ordonanței de urgență a Guvernului nr. 53/2020 pentru modificarea și completarea unor acte normative privind măsuri de protecție socială determinate de răspândirea coronavirusului SARS-CoV-2 | [`lege/2021/214/`](lege/2021/214/) | amending act | 1 | 2021-07-25 | 2021-07-25 |
 | Legea nr. 215/2021 pentru declararea zilei de 15 noiembrie ca Ziua Revoltei Anticomuniste de la Brașov din 1987 | [`lege/2021/215/`](lege/2021/215/) | in force | 1 | 2021-07-26 | 2021-07-26 |
+| Legea nr. 219/2021 pentru modificarea și completarea Legii nr. 104/2008 privind prevenirea și combaterea producerii și traficului ilicit de substanțe dopante cu grad mare de risc | [`lege/2021/219/`](lege/2021/219/) | amending act | 2 | 2021-07-31 | 2021-08-27 |
 | Legea nr. 221/2021 pentru completarea Legii nr. 55/2020 privind unele măsuri pentru prevenirea și combaterea efectelor pandemiei de COVID-19 | [`lege/2021/221/`](lege/2021/221/) | amending act | 1 | 2021-07-29 | 2021-07-29 |
 | Legea nr. 243/2021 pentru modificarea art. 1 alin. (3) din Legea nr. 406/2001 privind acordarea unor drepturi persoanelor care au avut calitatea de șef al statului român | [`lege/2021/243/`](lege/2021/243/) | amending act | 1 | 2021-10-11 | 2021-10-11 |
 | Legea nr. 267/2021 pentru completarea Ordonanței de urgență a Guvernului nr. 41/2016 privind stabilirea unor măsuri de simplificare la nivelul administrației publice centrale și pentru modificarea și completarea unor acte normative | [`lege/2021/267/`](lege/2021/267/) | amending act | 1 | 2022-01-01 | 2022-01-01 |
@@ -324,6 +325,7 @@
 | Legea nr. 187/2022 pentru modificarea și completarea Legii nr. 165/2018 privind acordarea biletelor de valoare | [`lege/2022/187/`](lege/2022/187/) | amending act | 1 | 2022-06-25 | 2022-06-25 |
 | Legea nr. 188/2022 pentru modificarea și completarea Legii nr. 126/2018 privind piețele de instrumente financiare | [`lege/2022/188/`](lege/2022/188/) | amending act | 2 | 2022-07-03 | 2022-07-13 |
 | Legea nr. 190/2022 pentru modificarea și completarea Legii audiovizualului nr. 504/2002 , pentru modificarea și completarea Ordonanței Guvernului nr. 39/2005 privind cinematografia, precum și pentru modificarea Legii nr. 41/1994 privind organizarea și funcționarea Societății Române de Radiodifuziune și Societății Române de Televiziune | [`lege/2022/190/`](lege/2022/190/) | amending act | 1 | 2022-07-03 | 2022-07-03 |
+| Legea nr. 191/2022 pentru modificarea și completarea Legii nr. 272/2004 privind protecția și promovarea drepturilor copilului | [`lege/2022/191/`](lege/2022/191/) | amending act | 3 | 2022-07-03 | 2022-09-28 |
 | Legea nr. 195/2022 pentru completarea art. 25 din Legea contabilității nr. 82/1991 | [`lege/2022/195/`](lege/2022/195/) | amending act | 1 | 2022-07-07 | 2022-07-07 |
 | Legea nr. 196/2022 privind completarea art. 28 din Legea nr. 370/2004 pentru alegerea Președintelui României | [`lege/2022/196/`](lege/2022/196/) | amending act | 1 | 2022-07-07 | 2022-07-07 |
 | Legea nr. 197/2022 pentru aprobarea Ordonanței de urgență a Guvernului nr. 81/2021 privind aprobarea metodelor de intervenție imediată pentru prevenirea și combaterea atacurilor exemplarelor de urs brun asupra persoanelor și bunurilor acestora, în intravilanul localităților, precum și pentru modificarea și completarea unor acte normative | [`lege/2022/197/`](lege/2022/197/) | amending act | 1 | 2022-07-09 | 2022-07-09 |
@@ -617,7 +619,7 @@
 | Legea nr. 241/2025 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 31/2002 privind interzicerea organizațiilor, simbolurilor și faptelor cu caracter fascist, legionar, rasist sau xenofob și a promovării cultului persoanelor vinovate de săvârșirea unor infracțiuni de genocid contra umanității și de crime de război, precum și pentru modificarea Legii nr. 157/2018 privind unele măsuri pentru prevenirea și combaterea antisemitismului | [`lege/2025/241/`](lege/2025/241/) | amending act | 1 | 2025-12-27 | 2025-12-27 |
 | Legea nr. 245/2025 pentru modificarea art. 32 alin. (7) din Legea nr. 273/2006 privind finanțele publice locale | [`lege/2025/245/`](lege/2025/245/) | amending act | 1 | 2026-01-01 | 2026-01-01 |
 
-## Emergency ordinances (OUG) (336, of which 250 amending acts)
+## Emergency ordinances (OUG) (339, of which 253 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -647,6 +649,7 @@
 | Ordonanța de urgență a Guvernului nr. 3/2014 pentru luarea unor măsuri de implementare necesare aplicării Legii nr. 135/2010 privind Codul de procedură penală și pentru implementarea altor acte normative | [`oug/2014/3/`](oug/2014/3/) | in force | 2 | 2014-02-07 | 2016-04-17 |
 | Ordonanța de urgență a Guvernului nr. 18/2014 | [`oug/2014/18/`](oug/2014/18/) | in force | 3 | 2014-04-24 | 2022-06-30 |
 | Ordonanța de urgență a Guvernului nr. 44/2014 | [`oug/2014/44/`](oug/2014/44/) | in force | 4 | 2014-06-27 | 2023-03-16 |
+| Ordonanța de urgență a Guvernului nr. 65/2014 pentru modificarea și completarea unor acte normative | [`oug/2014/65/`](oug/2014/65/) | amending act | 4 | 2014-10-20 | 2022-05-26 |
 | Ordonanța de urgență a Guvernului nr. 77/2014 privind procedurile naționale în domeniul ajutorului de stat, precum și pentru modificarea și completarea Legii concurenței nr. 21/1996 | [`oug/2014/77/`](oug/2014/77/) | amending act | 8 | 2015-01-01 | 2024-07-29 |
 | Ordonanța de urgență a Guvernului nr. 82/2014 pentru modificarea și completarea Legii nr. 135/2010 privind Codul de procedură penală | [`oug/2014/82/`](oug/2014/82/) | amending act | 2 | 2014-12-15 | 2016-05-02 |
 | Ordonanța de urgență a Guvernului nr. 50/2015 | [`oug/2015/50/`](oug/2015/50/) | in force | 2 | 2016-01-01 | 2016-01-03 |
@@ -811,6 +814,7 @@
 | Ordonanța de urgență a Guvernului nr. 137/2022 privind stabilirea cadrului instituțional, precum și a măsurilor necesare pentru punerea în aplicare a prevederilor Regulamentului (UE) 2017/746 al Parlamentului European și al Consiliului din 5 aprilie 2017 privind dispozitivele medicale pentru diagnostic in vitro și de abrogare a Directivei 98/79/CE și a Deciziei 2010/227/UE a Comisiei | [`oug/2022/137/`](oug/2022/137/) | in force | 1 | 2022-10-13 | 2022-10-13 |
 | Ordonanța de urgență a Guvernului nr. 142/2022 pentru modificarea și completarea Legii nr. 360/2002 privind Statutul polițistului | [`oug/2022/142/`](oug/2022/142/) | amending act | 1 | 2022-10-28 | 2022-10-28 |
 | Ordonanța de urgență a Guvernului nr. 143/2022 pentru modificarea art. 17 din Ordonanța Guvernului nr. 25/2014 privind încadrarea în muncă și detașarea străinilor pe teritoriul României și pentru modificarea și completarea unor acte normative privind regimul străinilor în România | [`oug/2022/143/`](oug/2022/143/) | amending act | 1 | 2022-10-28 | 2022-10-28 |
+| Ordonanța de urgență a Guvernului nr. 150/2022 pentru modificarea și completarea Legii nr. 95/2006 privind reforma în domeniul sănătății și a Legii nr. 151/2010 privind serviciile specializate integrate de sănătate, educație și sociale adresate persoanelor cu tulburări din spectrul autist și cu tulburări de sănătate mintală asociate, precum și pentru stabilirea unor măsuri în domeniul sănătății | [`oug/2022/150/`](oug/2022/150/) | amending act | 2 | 2022-11-10 | 2024-12-01 |
 | Ordonanța de urgență a Guvernului nr. 152/2022 pentru modificarea și completarea Legii-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice | [`oug/2022/152/`](oug/2022/152/) | amending act | 1 | 2022-11-11 | 2022-11-11 |
 | Ordonanța de urgență a Guvernului nr. 153/2022 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 27/2022 privind măsurile aplicabile clienților finali din piața de energie electrică și gaze naturale în perioada 1 aprilie 2022-31 martie 2023, precum și pentru modificarea și completarea unor acte normative din domeniul energiei și modificarea Ordonanței de urgență a Guvernului nr. 119/2022 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 27/2022 privind măsurile aplicabile clienților finali din piața de energie electrică și gaze naturale în perioada 1 aprilie 2022-31 martie 2023, precum și pentru modificarea și completarea unor acte normative din domeniul energiei | [`oug/2022/153/`](oug/2022/153/) | amending act | 2 | 2022-11-11 | 2023-07-14 |
 | Ordonanța de urgență a Guvernului nr. 154/2022 privind instituirea unei scheme de ajutor de stat pentru sprijinirea operatorilor din industria de fabricare a produselor de morărit, a uleiurilor și grăsimilor, a produselor lactate și a preparatelor pentru hrana animalelor de fermă | [`oug/2022/154/`](oug/2022/154/) | in force | 2 | 2022-11-16 | 2023-12-07 |
@@ -905,6 +909,7 @@
 | Ordonanța de urgență a Guvernului nr. 78/2024 pentru modificarea și completarea Legii nr. 227/2015 privind Codul fiscal , precum și pentru reglementarea unor măsuri fiscal-bugetare | [`oug/2024/78/`](oug/2024/78/) | amending act | 2 | 2024-06-26 | 2024-12-20 |
 | Ordonanța de urgență a Guvernului nr. 79/2024 pentru modificarea Ordonanței de urgență a Guvernului nr. 57/2019 privind Codul administrativ | [`oug/2024/79/`](oug/2024/79/) | amending act | 1 | 2024-06-28 | 2024-06-28 |
 | Ordonanța de urgență a Guvernului nr. 82/2024 pentru modificarea și completarea Legii nr. 360/2002 privind Statutul polițistului | [`oug/2024/82/`](oug/2024/82/) | amending act | 1 | 2024-06-28 | 2024-06-28 |
+| Ordonanța de urgență a Guvernului nr. 84/2024 pentru modificarea și completarea unor acte normative în scopul creșterii siguranței rutiere | [`oug/2024/84/`](oug/2024/84/) | amending act | 3 | 2024-06-29 | 2024-10-27 |
 | Ordonanța de urgență a Guvernului nr. 87/2024 privind modificarea unor acte normative în domeniul e-Transport, e-TVA și e-Factura, precum și pentru reglementarea unor măsuri fiscal-bugetare | [`oug/2024/87/`](oug/2024/87/) | amending act | 1 | 2024-06-28 | 2024-06-28 |
 | Ordonanța de urgență a Guvernului nr. 89/2024 privind unele măsuri pentru desfășurarea activităților integrate aferente emiterii și transmiterii deciziilor privind recalcularea pensiilor din sistemul public de pensii | [`oug/2024/89/`](oug/2024/89/) | in force | 1 | 2024-06-29 | 2024-06-29 |
 | Ordonanța de urgență a Guvernului nr. 92/2024 privind înființarea rețelei naționale de ghișee unice de eficiență energetică | [`oug/2024/92/`](oug/2024/92/) | in force | 1 | 2024-06-29 | 2024-06-29 |
