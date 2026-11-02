@@ -19178,6 +19178,57 @@
    ]
   },
   {
+   "slug": "legea-363-2007",
+   "path": "lege/2007/363",
+   "short": "Legea nr. 363/2007",
+   "title": "Legea nr. 363/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/88290",
+   "versions": [
+    {
+     "from": "2007-12-31",
+     "units": 36,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/88290",
+     "sha256": "e94370994a6ab20a2c7e656c266cfddf0cdf430e5b6f0b7f217365295d2f7538"
+    },
+    {
+     "from": "2010-07-05",
+     "units": 36,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/162454",
+     "sha256": "88b93ea03f64f9289b13685b552215b0958eb593d9bb7406f2c38b7a8005dc7d"
+    },
+    {
+     "from": "2015-03-14",
+     "units": 36,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166372",
+     "sha256": "be79cc915a4a9a5c5008e3699847e7f115e64258d47606491b594026834ad5d9"
+    },
+    {
+     "from": "2015-09-07",
+     "units": 36,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171003",
+     "sha256": "6808a5d355b6fa32b74e107fee2461488c70d1240ac1358fce57105ba1febf99"
+    },
+    {
+     "from": "2016-04-09",
+     "units": 40,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/177338",
+     "sha256": "dfd5307a2b2c912962f99533306aa16af27889bdee775d2362ac3aea61cec62f"
+    },
+    {
+     "from": "2018-09-02",
+     "units": 40,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/204059",
+     "sha256": "8e94479d04072553aba9cd62a0eedad96fd66907f956bb507704383733374b2e"
+    },
+    {
+     "from": "2022-05-28",
+     "units": 45,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/254146",
+     "sha256": "dd653cd95f6143bfa6fe3f8f672bf64b36b35fa7bb5cec08021686348b82326e"
+    }
+   ]
+  },
+  {
    "slug": "legea-365-2002",
    "path": "lege/2002/365",
    "short": "Legea nr. 365/2002",
