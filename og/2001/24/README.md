@@ -27,3 +27,12 @@ Act id: `og-24-2001` (tags `og-24-2001/<day>`; `python tools/on.py <day> og-24-2
 - OG nr. 24/2001: the newest form held is that of 31.05.2003; amendments in force after it may be missing.
 - OG nr. 24/2001: added by Lexifina's automatic pass with the default rules: the forms are those the portal lists, each version is dated by its form or by the notes it prints, and no rule or ruling made for this act alone was applied. It was published only because every automatic check passed: two parses identical, the newest form read afresh equal to the latest version article by article, every article a form leaves out settled by the standing rules, every version dated by a rule or a stated in-force day, and no unexplained change other than diacritics or spacing.
 - OG nr. 24/2001: the first version is the ordinance as published in Monitorul Oficial nr. 472 of 17 August 2001 (DetaliiDocumentAfis/30159), dated 1 September 2001: its art. 13 puts it in force on the first day of the month after publication. The portal holds no consolidated form before 30 May 2003, so the changes made up to then arrive together that day.
+
+## Credits corrected
+
+These changes were first published credited to another law. The words are unchanged; `git blame` still names the commit that wrote them, and `data/credits.csv` lists every corrected credit.
+
+- `art-001.md`, in force from 2003-05-30: Legea nr. 111/2003 (first published as no law named).
+- `art-008.md`, in force from 2003-05-30: Legea nr. 111/2003 (first published as no law named).
+- `art-001.md`, in force from 2003-05-31: Legea nr. 232/2003 (first published as no law named).
+- `art-003.md`, in force from 2003-05-31: Legea nr. 232/2003 (first published as no law named).
