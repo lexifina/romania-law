@@ -38633,6 +38633,93 @@
    ]
   },
   {
+   "slug": "oug-158-1999",
+   "path": "oug/1999/158",
+   "short": "OUG nr. 158/1999",
+   "title": "Ordonanța de urgență a Guvernului nr. 158/1999",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19683",
+   "versions": [
+    {
+     "from": "1999-11-10",
+     "units": 43,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/19683",
+     "sha256": "dda68e08789919e9ed779349a8ed1db6ff8f9f7f5a5e1ef74d601b48b0ec4cdc"
+    },
+    {
+     "from": "2000-02-15",
+     "units": 43,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/122855",
+     "sha256": "36062d087593ce2fe90b22e4f2ded87c9a3f0338d179a9ebded6ce0a57085522"
+    },
+    {
+     "from": "2000-04-25",
+     "units": 43,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/122856",
+     "sha256": "c7b35257942c6d77995dbf65c3dc4eb1b23015f82f4581f132cb9a7baaf1a053"
+    },
+    {
+     "from": "2003-12-27",
+     "units": 43,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/122858",
+     "sha256": "145481557dedde13e8a4852122f32299c655030d485a2f6157fb60d54c59a5ae"
+    },
+    {
+     "from": "2004-12-25",
+     "units": 43,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/122859",
+     "sha256": "4fb7eee256e5095ac1db66ecb53ebe19ae9e377235a819c1b28592fd37245a94"
+    },
+    {
+     "from": "2010-01-14",
+     "units": 43,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/122860",
+     "sha256": "7ebe9203d00de65777e74967e6abd0036a7affc209a3a049e5f7aede92b84aac"
+    },
+    {
+     "from": "2012-10-12",
+     "units": 48,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/141999",
+     "sha256": "9a1d0d1bdc3c695fa3662e6b479be221775c7889e4a9c1d58b351fbc3fd6086c"
+    },
+    {
+     "from": "2012-10-30",
+     "units": 48,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142000",
+     "sha256": "019792b14b6b5f5b3795dc697bc1f27910cf21fff18313632b39aa611374f841"
+    },
+    {
+     "from": "2012-11-11",
+     "units": 49,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142462",
+     "sha256": "7008301dec40c9ba0c2d79af75b55af5500a4616ede4eca3fdba9d0f0df8395f"
+    },
+    {
+     "from": "2013-04-21",
+     "units": 49,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/147226",
+     "sha256": "f60ad56dd0b6fcce27b94e4365b76daa0bf3da62713fb4a47424172ff266e8a7"
+    },
+    {
+     "from": "2013-09-26",
+     "units": 43,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/151573",
+     "sha256": "09729891144960a87c71a19ab318895335b70cd4abeada0b846d32bc2033c4f0"
+    },
+    {
+     "from": "2021-04-16",
+     "units": 44,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/240571",
+     "sha256": "89586ca0a028cd427fc93fab08907f79d46f8a1b434b8c6a9cd700f2776a278e"
+    },
+    {
+     "from": "2021-08-02",
+     "units": 43,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/245094",
+     "sha256": "0e4ea8062a42b1267fb2bb8c409819e9a925e6a63fa8292f1783afe02fba6060"
+    }
+   ]
+  },
+  {
    "slug": "oug-158-2005",
    "path": "oug/2005/158",
    "short": "OUG nr. 158/2005",

@@ -26284,6 +26284,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/214446"
 },
 {
+"slug": "oug-158-1999",
+"path": "oug/1999/158",
+"kind": "oug",
+"year": "1999",
+"number": "158",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 158/1999",
+"short": "OUG nr. 158/1999",
+"code": null,
+"status": "in force",
+"versions": 13,
+"from": "1999-11-10",
+"latest": "2021-08-02",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/19683"
+},
+{
 "slug": "oug-182-1999",
 "path": "oug/1999/182",
 "kind": "oug",
