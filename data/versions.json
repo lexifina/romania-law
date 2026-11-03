@@ -232253,6 +232253,21 @@
    ]
   },
   {
+   "slug": "hg-873-2018",
+   "path": "hg/2018/873",
+   "short": "HG nr. 873/2018",
+   "title": "Hotărârea Guvernului nr. 873/2018 privind revocarea dreptului de folosinţă gratuită al Muftiatului Cultului Musulman din România asupra unui imobil-teren şi pentru trecerea acestuia din domeniul public al statului şi administrarea Secretariatului de Stat pentru Culte în proprietatea privată a statului şi în administrarea Regiei Autonome \"Administraţia Patrimoniului Protocolului de Stat\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/206718",
+   "versions": [
+    {
+     "from": "2018-11-13",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/206718",
+     "sha256": "5eb7b760f443e6b6c8b13dc0b665ed94a7076eb017cffd6b3a9aa0e010a5cd56"
+    }
+   ]
+  },
+  {
    "slug": "hg-873-2020",
    "path": "hg/2020/873",
    "short": "HG nr. 873/2020",
@@ -233338,6 +233353,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/303633",
      "sha256": "98100ff8076b4a9d0173895506a159ecea2f7c8aeea1f04b6265d28a96220e6d"
+    }
+   ]
+  },
+  {
+   "slug": "hg-881-2018",
+   "path": "hg/2018/881",
+   "short": "HG nr. 881/2018",
+   "title": "Hotărârea Guvernului nr. 881/2018 pentru aprobarea bugetului rectificat de venituri şi cheltuieli pe anul 2018 al Agenţiei Naţionale pentru Locuinţe, instituţie publică aflată sub autoritatea Ministerului Dezvoltării Regionale şi Administraţiei Publice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/206922",
+   "versions": [
+    {
+     "from": "2018-11-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/206922",
+     "sha256": "439613c66c42e7650e96496411b786c776aa695d426ed251cb2378007c7ae4f3"
     }
    ]
   },
@@ -265411,6 +265441,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/98967",
      "sha256": "cea19c2b01309f78c78a5c6cdd3e500b93b8cea1f196e9f1f26e00224255958b"
+    }
+   ]
+  },
+  {
+   "slug": "legea-255-2018",
+   "path": "lege/2018/255",
+   "short": "Legea nr. 255/2018",
+   "title": "Legea nr. 255/2018 pentru ratificarea Acordului de parteneriat cuprinzător şi consolidat dintre Uniunea Europeană şi Comunitatea Europeană a Energiei Atomice şi statele membre ale acestora, pe de o parte, şi Republica Armenia, pe de altă parte, semnat la Bruxelles la 24 noiembrie 2017",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/208568",
+   "versions": [
+    {
+     "from": "2018-12-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/208568",
+     "sha256": "90b3df79126e0dffdf196880914e7135683e5b63b5e7ab30c3ac6c846b4f6277"
     }
    ]
   },

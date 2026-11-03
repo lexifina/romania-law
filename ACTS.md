@@ -1,6 +1,6 @@
 # Every act in this repository
 
-15351 acts, 28,971 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+15354 acts, 28,974 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (2700, of which 1339 amending acts)
+## Laws (legi) (2701, of which 1339 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -1379,6 +1379,7 @@
 | Legea nr. 245/2018 privind aprobarea Ordonanței de urgență a Guvernului nr. 33/2017 pentru modificarea și completarea art. 11 din Ordonanța de urgență a Guvernului nr. 22/2009 privind înființarea Autorității Naționale pentru Administrare și Reglementare în Comunicații | [`lege/2018/245/`](lege/2018/245/) | amending act | 1 | 2018-11-08 | 2018-11-08 |
 | Legea nr. 247/2018 pentru modificarea și completarea unor acte normative privind regimul străinilor în România | [`lege/2018/247/`](lege/2018/247/) | amending act | 2 | 2018-11-10 | 2024-03-22 |
 | Legea nr. 252/2018 pentru modificarea și completarea Legii nr. 374/2006 privind suspendarea serviciului public cu specific silvic pentru proprietarii terenurilor forestiere pentru care au fost emise documentele prevăzute la art. III alin. (1) din Legea nr. 169/1997 pentru modificarea și completarea Legii fondului funciar nr. 18/1991 | [`lege/2018/252/`](lege/2018/252/) | amending act | 1 | 2018-11-12 | 2018-11-12 |
+| Legea nr. 255/2018 pentru ratificarea Acordului de parteneriat cuprinzător şi consolidat dintre Uniunea Europeană şi Comunitatea Europeană a Energiei Atomice şi statele membre ale acestora, pe de o parte, şi Republica Armenia, pe de altă parte, semnat la Bruxelles la 24 noiembrie 2017 | [`lege/2018/255/`](lege/2018/255/) | in force | 1 | 2018-12-10 | 2018-12-10 |
 | Legea nr. 256/2018 privind unele măsuri necesare pentru implementarea operațiunilor petroliere de către titularii de acorduri petroliere referitoare la perimetre petroliere offshore | [`lege/2018/256/`](lege/2018/256/) | in force | 3 | 2018-11-17 | 2024-06-07 |
 | Legea nr. 257/2018 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 68/2017 pentru completarea Ordonanţei de urgenţă a Guvernului nr. 52/2017 privind restituirea sumelor reprezentând taxa specială pentru autoturisme şi autovehicule, taxa pe poluare pentru autovehicule, taxa pentru emisiile poluante provenite de la autovehicule şi timbrul de mediu pentru autovehicule | [`lege/2018/257/`](lege/2018/257/) | amending act | 1 | 2018-11-17 | 2018-11-17 |
 | Legea nr. 261/2018 pentru ratificarea Acordului dintre Guvernul României şi Organizaţia Naţiunilor Unite privind protecţia reciprocă a informaţiilor clasificate schimbate cu Biroul mediatorului stabilit în baza Rezoluţiei Consiliului de Securitate nr. 1.904(2009), semnat la New York la 15 iunie 2017 | [`lege/2018/261/`](lege/2018/261/) | in force | 1 | 2018-12-02 | 2018-12-02 |
@@ -4919,7 +4920,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (10441, of which 4895 amending acts)
+## Government decisions (HG) (10443, of which 4896 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -8815,9 +8816,11 @@
 | Hotărârea Guvernului nr. 845/2018 pentru aprobarea Regulamentului privind recepția construcțiilor din domeniul infrastructurii rutiere și feroviare de interes național | [`hg/2018/845/`](hg/2018/845/) | amending act | 2 | 2018-11-06 | 2024-03-05 |
 | Hotărârea Guvernului nr. 853/2018 pentru modificarea și completarea Hotărârii Guvernului nr. 784/2013 privind aprobarea Strategiei naționale antidrog 2013-2020 și a Planului de acțiune în perioada 2013-2016 pentru implementarea Strategiei naționale antidrog 2013-2020 | [`hg/2018/853/`](hg/2018/853/) | amending act | 1 | 2018-11-12 | 2018-11-12 |
 | Hotărârea Guvernului nr. 861/2018 pentru aprobarea Strategiei naționale împotriva traficului de persoane pentru perioada 2018-2022 și a Planului național de acțiune 2018-2020 pentru implementarea Strategiei naționale împotriva traficului de persoane pentru perioada 2018-2022 | [`hg/2018/861/`](hg/2018/861/) | amending act | 2 | 2018-11-09 | 2021-10-25 |
+| Hotărârea Guvernului nr. 873/2018 privind revocarea dreptului de folosinţă gratuită al Muftiatului Cultului Musulman din România asupra unui imobil-teren şi pentru trecerea acestuia din domeniul public al statului şi administrarea Secretariatului de Stat pentru Culte în proprietatea privată a statului şi în administrarea Regiei Autonome "Administraţia Patrimoniului Protocolului de Stat" | [`hg/2018/873/`](hg/2018/873/) | in force | 1 | 2018-11-13 | 2018-11-13 |
 | Hotărârea Guvernului nr. 875/2018 privind trecerea unui imobil din domeniul privat al statului și administrarea Regiei Autonome "Administrația Patrimoniului Protocolului de Stat" în domeniul public al statului și administrarea Secretariatului de Stat pentru Culte și în folosința gratuită a Bisericii Unitariene Maghiare | [`hg/2018/875/`](hg/2018/875/) | in force | 1 | 2018-11-13 | 2018-11-13 |
 | Hotărârea Guvernului nr. 877/2018 privind adoptarea Strategiei naționale pentru dezvoltarea durabilă a României 2030 | [`hg/2018/877/`](hg/2018/877/) | in force | 2 | 2018-11-21 | 2022-06-21 |
 | Hotărârea Guvernului nr. 878/2018 privind actualizarea valorii de inventar a unui imobil aflat în domeniul public al statului şi administrarea Ministerului Sănătăţii prin Serviciul de Ambulanţă Judeţean Satu Mare, precum şi trecerea parţială a acestuia din domeniul public în domeniul privat al statului, în vederea scoaterii din funcţiune, casării şi demolării | [`hg/2018/878/`](hg/2018/878/) | in force | 1 | 2018-11-16 | 2018-11-16 |
+| Hotărârea Guvernului nr. 881/2018 pentru aprobarea bugetului rectificat de venituri şi cheltuieli pe anul 2018 al Agenţiei Naţionale pentru Locuinţe, instituţie publică aflată sub autoritatea Ministerului Dezvoltării Regionale şi Administraţiei Publice | [`hg/2018/881/`](hg/2018/881/) | amending act | 1 | 2018-11-14 | 2018-11-14 |
 | Hotărârea Guvernului nr. 883/2018 privind modificarea şi completarea Metodologiei-cadru de concurs pentru ocuparea posturilor didactice şi de cercetare vacante din învăţământul superior, aprobată prin Hotărârea Guvernului nr. 457/2011 | [`hg/2018/883/`](hg/2018/883/) | amending act | 1 | 2018-11-15 | 2018-11-15 |
 | Hotărârea Guvernului nr. 885/2018 privind actualizarea inventarului centralizat al bunurilor din domeniul public al statului, ca urmare a modificării valorii de inventar şi schimbării unităţii de administrare pentru un imobil aflat în administrarea Ministerului Afacerilor Interne - Unitatea Specială de Aviaţie Bucureşti | [`hg/2018/885/`](hg/2018/885/) | in force | 1 | 2018-11-16 | 2018-11-16 |
 | Hotărârea Guvernului nr. 887/2018 privind declanşarea procedurilor de expropriere a imobilelor proprietate privată situate pe amplasamentul suplimentar, care fac parte din coridorul de expropriere al lucrării de utilitate publică de interes naţional "Varianta ocolitoare Săcueni km 0 + 000 - km 7 + 623", pe raza localităţilor Săcueni şi Cherechiu din judeţul Bihor | [`hg/2018/887/`](hg/2018/887/) | in force | 1 | 2018-11-20 | 2018-11-20 |
