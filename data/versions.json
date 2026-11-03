@@ -164207,6 +164207,21 @@
    ]
   },
   {
+   "slug": "hg-306-2018",
+   "path": "hg/2018/306",
+   "short": "HG nr. 306/2018",
+   "title": "Hotărârea Guvernului nr. 306/2018 privind reorganizarea Institutului de Cercetare-Dezvoltare pentru Creşterea Bovinelor Baloteşti, prin fuziune prin absorbţie cu Staţiunea de Cercetare-Dezvoltare pentru Creşterea Bovinelor Dulbanu, şi modificarea anexei nr. 3 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/200780",
+   "versions": [
+    {
+     "from": "2018-05-21",
+     "units": 21,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/200780",
+     "sha256": "c87fce01785e75055555b800f8e08a4796d5c891ba9ca994b9a4cc1885b87953"
+    }
+   ]
+  },
+  {
    "slug": "hg-306-2019",
    "path": "hg/2019/306",
    "short": "HG nr. 306/2019",
@@ -164432,6 +164447,21 @@
    ]
   },
   {
+   "slug": "hg-308-2018",
+   "path": "hg/2018/308",
+   "short": "HG nr. 308/2018",
+   "title": "Hotărârea Guvernului nr. 308/2018 privind suplimentarea bugetului Înaltei Curţi de Casaţie şi Justiţie din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/200587",
+   "versions": [
+    {
+     "from": "2018-05-10",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/200587",
+     "sha256": "a869d3a570a399d565d6524c103f86e9da25eef46829bca1b8d746fa61a4d8b0"
+    }
+   ]
+  },
+  {
    "slug": "hg-308-2019",
    "path": "hg/2019/308",
    "short": "HG nr. 308/2019",
@@ -164563,6 +164593,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/148720",
      "sha256": "cd6b6ac97973519f5dff01c545096e69c0c4283779e99f569959dcc21e470ebf"
+    }
+   ]
+  },
+  {
+   "slug": "hg-309-2018",
+   "path": "hg/2018/309",
+   "short": "HG nr. 309/2018",
+   "title": "Hotărârea Guvernului nr. 309/2018 pentru aprobarea Programului manifestărilor prilejuite de Ziua Eroilor - 17 mai 2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/200588",
+   "versions": [
+    {
+     "from": "2018-05-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/200588",
+     "sha256": "7eb921f3cc7bf9379d4b4b1e37776a949fe385dcebcbd787c9843f585343c71c"
     }
    ]
   },
@@ -164923,6 +164968,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/103703",
      "sha256": "e27c9ae92902ae1c53fe38a61862142ab2e3e850a8e05f2dc3bf75cb72455408"
+    }
+   ]
+  },
+  {
+   "slug": "hg-312-2018",
+   "path": "hg/2018/312",
+   "short": "HG nr. 312/2018",
+   "title": "Hotărârea Guvernului nr. 312/2018 privind aprobarea bugetului de venituri şi cheltuieli aferent activităţii de privatizare al Departamentului pentru Privatizare şi Administrarea Participaţiilor Statului pe anul 2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/200642",
+   "versions": [
+    {
+     "from": "2018-05-14",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/200642",
+     "sha256": "dfeade37fa5b0035332ebff6d4cdc7dd7b8b527852eefe4fc5db70744b67a013"
     }
    ]
   },
@@ -165479,6 +165539,21 @@
    ]
   },
   {
+   "slug": "hg-316-2018",
+   "path": "hg/2018/316",
+   "short": "HG nr. 316/2018",
+   "title": "Hotărârea Guvernului nr. 316/2018 pentru modificarea şi completarea Hotărârii Guvernului nr. 144/2010 privind organizarea şi funcţionarea Ministerului Sănătăţii, precum şi a altor acte normative în domeniul sănătăţii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/200656",
+   "versions": [
+    {
+     "from": "2018-05-15",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/200656",
+     "sha256": "190d96611fa6238b859ded4734811b8a03f26a785cab0e90880cbf1841446482"
+    }
+   ]
+  },
+  {
    "slug": "hg-316-2019",
    "path": "hg/2019/316",
    "short": "HG nr. 316/2019",
@@ -165584,6 +165659,21 @@
    ]
   },
   {
+   "slug": "hg-317-2018",
+   "path": "hg/2018/317",
+   "short": "HG nr. 317/2018",
+   "title": "Hotărârea Guvernului nr. 317/2018 privind înscrierea unor bunuri în inventarul centralizat al bunurilor din domeniul public al statului şi darea acestora în administrarea Administraţiei Naţionale \"Apele Române\", instituţie publică aflată în coordonarea Ministerului Apelor şi Pădurilor, pentru administraţiile bazinale de apă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/200917",
+   "versions": [
+    {
+     "from": "2018-05-22",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/200917",
+     "sha256": "284004a8637873bbc81f496a26cfe14c37266350eb2d0b0379b04e4afad27499"
+    }
+   ]
+  },
+  {
    "slug": "hg-317-2019",
    "path": "hg/2019/317",
    "short": "HG nr. 317/2019",
@@ -165685,6 +165775,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/103977",
      "sha256": "faedcd62cfb0f60d9b2ea9c4c36a294c039b6b8f4e1ca95879b023880b3fd63e"
+    }
+   ]
+  },
+  {
+   "slug": "hg-318-2018",
+   "path": "hg/2018/318",
+   "short": "HG nr. 318/2018",
+   "title": "Hotărârea Guvernului nr. 318/2018 privind înscrierea unui imobil în inventarul centralizat al bunurilor din domeniul public al statului şi darea acestuia în administrarea Ministerului Justiţiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/200657",
+   "versions": [
+    {
+     "from": "2018-05-15",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/200657",
+     "sha256": "3f85c766d5b5ec301c587dade4f53c4bf42cbe6720484a6de68441bbf2e4372b"
     }
    ]
   },
@@ -165901,6 +166006,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/104019",
      "sha256": "d69ee1dc3cdc34de60ec30d849716a870d8b0271f54b1b32e78458b802a5fe93"
+    }
+   ]
+  },
+  {
+   "slug": "hg-320-2018",
+   "path": "hg/2018/320",
+   "short": "HG nr. 320/2018",
+   "title": "Hotărârea Guvernului nr. 320/2018 pentru modificarea şi completarea Hotărârii Guvernului nr. 172/2003 privind adaptări instituţionale în perspectiva aderării României la NATO, inclusiv organizarea şi funcţionarea reprezentării României la Cartierul general al NATO şi la Comandamentul Suprem al Forţelor Aliate din Europa - SHAPE",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/200659",
+   "versions": [
+    {
+     "from": "2018-05-15",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/200659",
+     "sha256": "e4c0e52cca6f6495f3b68961ec969753a904881cf4331d7ab72d7d9455a6129d"
     }
    ]
   },
@@ -166130,6 +166250,21 @@
    ]
   },
   {
+   "slug": "hg-322-2018",
+   "path": "hg/2018/322",
+   "short": "HG nr. 322/2018",
+   "title": "Hotărârea Guvernului nr. 322/2018 pentru modificarea şi completarea Hotărârii Guvernului nr. 873/2017 privind organizarea şi funcţionarea Institutului Naţional de Cercetare-Dezvoltare Medico-Militară \"Cantacuzino\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/200701",
+   "versions": [
+    {
+     "from": "2018-05-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/200701",
+     "sha256": "39d7439ee859e52d01618cebeaf35f8ccab270737533541c96dd7695256372c1"
+    }
+   ]
+  },
+  {
    "slug": "hg-322-2019",
    "path": "hg/2019/322",
    "short": "HG nr. 322/2019",
@@ -166231,6 +166366,21 @@
      "units": 19,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/118275",
      "sha256": "34f67f45da8875b053c13ce14bb3fd6b85b78bde1c5e0fadbfd9f579cef2873b"
+    }
+   ]
+  },
+  {
+   "slug": "hg-323-2018",
+   "path": "hg/2018/323",
+   "short": "HG nr. 323/2018",
+   "title": "Hotărârea Guvernului nr. 323/2018 privind reorganizarea Staţiunii de Cercetare-Dezvoltare pentru Pajişti Vaslui şi modificarea anexei nr. 3 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/200771",
+   "versions": [
+    {
+     "from": "2018-05-18",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/200771",
+     "sha256": "048341f83df8db5174ad08df85437dac5fb83bcf76332a3113a1e45e108e2a60"
     }
    ]
   },
@@ -166565,6 +166715,21 @@
    ]
   },
   {
+   "slug": "hg-326-2018",
+   "path": "hg/2018/326",
+   "short": "HG nr. 326/2018",
+   "title": "Hotărârea Guvernului nr. 326/2018 privind abrogarea Hotărârii Guvernului nr. 1.043/2004 pentru aprobarea Regulamentului privind accesul la Sistemul naţional de transport al gazelor naturale, a Regulamentului privind accesul la sistemele de distribuţie a gazelor naturale şi a Regulamentului privind accesul la conductele de alimentare din amonte",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/200660",
+   "versions": [
+    {
+     "from": "2018-05-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/200660",
+     "sha256": "f8db3fc48b5f78790dada901ec1ace08019a3dfbac77bcf8985a3a34504dfd0b"
+    }
+   ]
+  },
+  {
    "slug": "hg-326-2019",
    "path": "hg/2019/326",
    "short": "HG nr. 326/2019",
@@ -166702,6 +166867,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/104022",
      "sha256": "7dd8e1e44b5ef8b02df55a1e1808a0869c4b62aa87353d04c5e68f2c3d5273e2"
+    }
+   ]
+  },
+  {
+   "slug": "hg-327-2018",
+   "path": "hg/2018/327",
+   "short": "HG nr. 327/2018",
+   "title": "Hotărârea Guvernului nr. 327/2018 pentru completarea anexei la Hotărârea Guvernului nr. 1.093/2013 privind declararea de interes public şi de importanţă naţională a Campionatului European de Fotbal 2020, precum şi a candidaturii României pentru organizarea la Bucureşti a unor meciuri din cadrul Turneului final",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/200661",
+   "versions": [
+    {
+     "from": "2018-05-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/200661",
+     "sha256": "e5db38b77df5b6ca37c877b37c48ee4286af243b29b1db811129f76b63be102b"
     }
    ]
   },
@@ -166927,6 +167107,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/178474",
      "sha256": "da346977936391fb96a10fd3c5cac5e8732821821c583fe0386e7d3e9a873570"
+    }
+   ]
+  },
+  {
+   "slug": "hg-329-2018",
+   "path": "hg/2018/329",
+   "short": "HG nr. 329/2018",
+   "title": "Hotărârea Guvernului nr. 329/2018 pentru aprobarea modificării datelor de identificare ale unui imobil aflat în domeniul public al statului şi pentru trecerea acestuia din administrarea Ministerului Finanţelor Publice prin Agenţia Naţională de Administrare Fiscală - Direcţia Generală Regională a Finanţelor Publice Craiova în administrarea Secretariatului de Stat pentru Culte şi în folosinţa gratuită a Arhiepiscopiei Craiovei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/200730",
+   "versions": [
+    {
+     "from": "2018-05-17",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/200730",
+     "sha256": "9ae6f323371b68818cf258b4b7bdbfbee37fa7f22a05e7ba3feb8fbffed637c8"
     }
    ]
   },
@@ -167183,6 +167378,21 @@
    ]
   },
   {
+   "slug": "hg-330-2018",
+   "path": "hg/2018/330",
+   "short": "HG nr. 330/2018",
+   "title": "Hotărârea Guvernului nr. 330/2018 pentru suplimentarea bugetului Ministerului Economiei din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2018, precum şi aplicarea prevederilor Legii nr. 255/2010 în cazul procedurilor de expropriere aflate în curs de desfăşurare având ca obiect imobilele proprietate privată care constituie coridorul de expropriere al lucrării de utilitate publică de interes naţional \"LEA 400 kv Oradea-Békéscsaba. Montarea unei bobine de compensare 100 MVAr în staţia 400 kv Oradea Sud. Echipamente de telecomunicaţii şi teletransmisii pentru LEA 400 kV Oradea-Békéscsaba\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/200746",
+   "versions": [
+    {
+     "from": "2018-05-18",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/200746",
+     "sha256": "c560eeb38a492afa55f9d6051c15b3e39303d4e7ea58f9b8c096cb383782bc56"
+    }
+   ]
+  },
+  {
    "slug": "hg-330-2019",
    "path": "hg/2019/330",
    "short": "HG nr. 330/2019",
@@ -167284,6 +167494,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/90850",
      "sha256": "42e92e548a7382275fde51e3d9d618b0e74a9e5fdc8a538bcc22a103472fc205"
+    }
+   ]
+  },
+  {
+   "slug": "hg-331-2018",
+   "path": "hg/2018/331",
+   "short": "HG nr. 331/2018",
+   "title": "Hotărârea Guvernului nr. 331/2018 privind aprobarea modelului steagului comunei Ariniş, judeţul Maramureş",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/201438",
+   "versions": [
+    {
+     "from": "2018-06-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/201438",
+     "sha256": "56e42a2d320c80c054903d25b4920ada09ece2e18e3cc0a3b550e103608041c8"
     }
    ]
   },
@@ -167573,6 +167798,21 @@
    ]
   },
   {
+   "slug": "hg-334-2018",
+   "path": "hg/2018/334",
+   "short": "HG nr. 334/2018",
+   "title": "Hotărârea Guvernului nr. 334/2018 privind suplimentarea bugetului Secretariatului General al Guvernului pe anul 2018 din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2018, pentru Institutul Naţional pentru Studierea Holocaustului din România \"Elie Wiesel\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/200705",
+   "versions": [
+    {
+     "from": "2018-05-16",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/200705",
+     "sha256": "737d19928063a1e60b6b42ef02b76d50fd99a098e17185b02a3fdaa4cde28804"
+    }
+   ]
+  },
+  {
    "slug": "hg-334-2019",
    "path": "hg/2019/334",
    "short": "HG nr. 334/2019",
@@ -167693,6 +167933,21 @@
    ]
   },
   {
+   "slug": "hg-335-2018",
+   "path": "hg/2018/335",
+   "short": "HG nr. 335/2018",
+   "title": "Hotărârea Guvernului nr. 335/2018 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2018, pentru unele unităţi administrativ-teritoriale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/200706",
+   "versions": [
+    {
+     "from": "2018-05-16",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/200706",
+     "sha256": "c1c25072bbde61c52dc980825461da582b0e8b8e41a9329c537ed01feac7e9e1"
+    }
+   ]
+  },
+  {
    "slug": "hg-335-2021",
    "path": "hg/2021/335",
    "short": "HG nr. 335/2021",
@@ -167764,6 +168019,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/103849",
      "sha256": "187df9a466d8a78155b17eedc4375825b930c1534b5fd16e9864aff6a59d532a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-336-2018",
+   "path": "hg/2018/336",
+   "short": "HG nr. 336/2018",
+   "title": "Hotărârea Guvernului nr. 336/2018 privind alocarea unei sume din Fondul de intervenţie la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2018, pentru unele unităţi administrativ-teritoriale afectate de calamităţi naturale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/200731",
+   "versions": [
+    {
+     "from": "2018-05-17",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/200731",
+     "sha256": "3a81dffbe54c6694416f446c3d9bf38be2b2711f807df67a866d17743b52cf00"
     }
    ]
   },
@@ -256766,6 +257036,21 @@
    ]
   },
   {
+   "slug": "legea-101-2018",
+   "path": "lege/2018/101",
+   "short": "Legea nr. 101/2018",
+   "title": "Legea nr. 101/2018 pentru modificarea alin. (3) al art. 20 din Legea nr. 202/1998 privind organizarea Monitorului Oficial al României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/200333",
+   "versions": [
+    {
+     "from": "2018-05-10",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/200333",
+     "sha256": "4f9696537c1bc85a33b3b63b16cc99ec5d88b50f7afe438a3ff347aa9549f021"
+    }
+   ]
+  },
+  {
    "slug": "legea-101-2021",
    "path": "lege/2021/101",
    "short": "Legea nr. 101/2021",
@@ -256885,6 +257170,21 @@
      "units": 24,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/269717",
      "sha256": "42d420d764b4008e86e648b81d74bc019a366ddb7a416c284cfecd5a31f99c15"
+    }
+   ]
+  },
+  {
+   "slug": "legea-102-2018",
+   "path": "lege/2018/102",
+   "short": "Legea nr. 102/2018",
+   "title": "Legea nr. 102/2018 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 87/2017 pentru completarea art. 5 din Ordonanţa Guvernului nr. 70/2002 privind administrarea unităţilor sanitare publice de interes judeţean şi local",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/200569",
+   "versions": [
+    {
+     "from": "2018-05-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/200569",
+     "sha256": "a7e6ef180127b5191c26a6fd92ed7a267162f2e73cea6ebff16efd57381bfff3"
     }
    ]
   },
@@ -308515,6 +308815,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/189585",
      "sha256": "4bd2fb42747f3c06f5500b5b1135528c1accd957c52962d114a66c072c163405"
+    }
+   ]
+  },
+  {
+   "slug": "oug-38-2018",
+   "path": "oug/2018/38",
+   "short": "OUG nr. 38/2018",
+   "title": "Ordonanța de urgență a Guvernului nr. 38/2018 privind transmiterea unor imobile aflate în domeniul public al statului din administrarea Ministerului Afacerilor Externe şi din folosinţa exclusivă a Institutului \"Eudoxiu Hurmuzachi\" în administrarea Ministerului Afacerilor Interne pentru Inspectoratul General pentru Imigrări",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/200636",
+   "versions": [
+    {
+     "from": "2018-05-14",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/200636",
+     "sha256": "8ec25128d8c31d8b9ced6ccb39024066f063f81b413a28ec39fc897e2da86959"
     }
    ]
   },
