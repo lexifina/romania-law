@@ -1,6 +1,6 @@
 # Every act in this repository
 
-12623 acts, 26,205 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+12663 acts, 26,245 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (2406, of which 1098 amending acts)
+## Laws (legi) (2411, of which 1102 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -765,8 +765,13 @@
 | Legea nr. 46/2008 - Codul silvic | [`lege/2008/46/`](lege/2008/46/) | in force | 22 | 2008-12-08 | 2024-04-13 |
 | Legea nr. 54/2008 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 120/2007 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 67/2006 privind gestionarea fondurilor nerambursabile destinate finanţării politicii agricole comune alocate de la Comunitatea Europeană, precum şi a fondurilor de cofinanţare şi prefinanţare alocate de la bugetul de stat | [`lege/2008/54/`](lege/2008/54/) | amending act | 1 | 2008-03-28 | 2008-03-28 |
 | Legea nr. 64/2008 | [`lege/2008/64/`](lege/2008/64/) | in force | 12 | 2008-06-25 | 2023-12-23 |
+| Legea nr. 72/2008 pentru modificarea alin. (1^1) al art. 3 din Ordonanţa Guvernului nr. 75/2001 privind organizarea şi funcţionarea cazierului fiscal | [`lege/2008/72/`](lege/2008/72/) | amending act | 1 | 2008-04-14 | 2008-04-14 |
+| Legea nr. 73/2008 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 79/2006 privind majorarea tarifelor în transportul feroviar de călători pe teritoriul României | [`lege/2008/73/`](lege/2008/73/) | amending act | 1 | 2008-04-14 | 2008-04-14 |
 | Legea nr. 76/2008 | [`lege/2008/76/`](lege/2008/76/) | in force | 5 | 2008-10-14 | 2024-03-29 |
+| Legea nr. 78/2008 privind respingerea Ordonanţei de urgenţă a Guvernului nr. 95/2007 pentru modificarea Legii nr. 115/1999 privind responsabilitatea ministerială | [`lege/2008/78/`](lege/2008/78/) | amending act | 1 | 2008-04-17 | 2008-04-17 |
+| Legea nr. 82/2008 pentru ratificarea Acordului realizat prin schimbul de scrisori efectuat la Paris la 26 ianuarie 2006, respectiv la 3 iulie 2006, privind participarea României în calitate de membru cu drepturi depline la Comitetul Oţelului din cadrul Organizaţiei pentru Cooperare şi Dezvoltare Economică (OCDE) | [`lege/2008/82/`](lege/2008/82/) | in force | 1 | 2008-04-21 | 2008-04-21 |
 | Legea nr. 84/2008 | [`lege/2008/84/`](lege/2008/84/) | in force | 1 | 2008-04-18 | 2008-04-18 |
+| Legea nr. 87/2008 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 121/2007 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 5/2003 privind acordarea de ajutoare pentru încălzirea locuinţei, precum şi a unor facilităţi populaţiei pentru plata energiei termice | [`lege/2008/87/`](lege/2008/87/) | amending act | 1 | 2008-04-18 | 2008-04-18 |
 | Legea nr. 95/2008 | [`lege/2008/95/`](lege/2008/95/) | in force | 2 | 2008-04-21 | 2011-01-01 |
 | Legea nr. 100/2008 | [`lege/2008/100/`](lege/2008/100/) | in force | 1 | 2008-05-19 | 2008-05-19 |
 | Legea nr. 104/2008 | [`lege/2008/104/`](lege/2008/104/) | in force | 7 | 2008-05-19 | 2021-08-27 |
@@ -2444,7 +2449,7 @@
 | Legea nr. 194/2026 pentru modificarea anexei la Legea nr. 2/1968 privind organizarea administrativă a teritoriului României | [`lege/2026/194/`](lege/2026/194/) | amending act | 1 | 2026-10-10 | 2026-10-10 |
 | Legea nr. 205/2026 pentru completarea Ordonanţei Guvernului nr. 22/2002 privind executarea obligaţiilor de plată ale instituţiilor publice, stabilite prin titluri executorii | [`lege/2026/205/`](lege/2026/205/) | amending act | 1 | 2026-11-02 | 2026-11-02 |
 
-## Emergency ordinances (OUG) (1610, of which 559 amending acts)
+## Emergency ordinances (OUG) (1611, of which 559 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -2870,6 +2875,7 @@
 | Ordonanța de urgență a Guvernului nr. 38/2008 | [`oug/2008/38/`](oug/2008/38/) | in force | 2 | 2008-05-11 | 2009-05-09 |
 | Ordonanța de urgență a Guvernului nr. 39/2008 | [`oug/2008/39/`](oug/2008/39/) | in force | 2 | 2008-05-11 | 2009-05-17 |
 | Ordonanța de urgență a Guvernului nr. 40/2008 | [`oug/2008/40/`](oug/2008/40/) | in force | 1 | 2008-04-09 | 2008-04-09 |
+| Ordonanța de urgență a Guvernului nr. 41/2008 privind sprijinul financiar pentru pierderi cauzate de îngheţul târziu de primăvară în pomicultură | [`oug/2008/41/`](oug/2008/41/) | in force | 1 | 2008-04-11 | 2008-04-11 |
 | Ordonanța de urgență a Guvernului nr. 44/2008 privind desfășurarea activităților economice de către persoanele fizice autorizate, întreprinderile individuale și întreprinderile familiale | [`oug/2008/44/`](oug/2008/44/) | in force | 7 | 2008-04-25 | 2022-11-26 |
 | Ordonanța de urgență a Guvernului nr. 45/2008 privind unele măsuri pentru întărirea capacităţii administrative a României în vederea îndeplinirii obligaţiilor ce îi revin în calitatea sa de stat membru al Uniunii Europene | [`oug/2008/45/`](oug/2008/45/) | in force | 2 | 2008-04-23 | 2008-11-06 |
 | Ordonanța de urgență a Guvernului nr. 48/2008 | [`oug/2008/48/`](oug/2008/48/) | in force | 2 | 2008-04-25 | 2008-10-31 |
@@ -4571,7 +4577,7 @@
 | Ordonanța Guvernului nr. 21/2025 pentru modificarea și completarea Legii nr. 431/2023 privind asigurarea unui nivel minim global de impozitare a grupurilor de întreprinderi multinaționale și a grupurilor naționale de mari dimensiuni | [`og/2025/21/`](og/2025/21/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 | Ordonanța Guvernului nr. 22/2025 pentru modificarea și completarea Legii nr. 227/2015 privind Codul fiscal | [`og/2025/22/`](og/2025/22/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 
-## Government decisions (HG) (8061, of which 3450 amending acts)
+## Government decisions (HG) (8095, of which 3460 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -5572,16 +5578,50 @@
 | Hotărârea Guvernului nr. 350/2008 privind transmiterea unui imobil, aflat în domeniul public al statului, din administrarea Ministerului Apărării în administrarea Ministerului Justiţiei, pentru Administraţia Naţională a Penitenciarelor - Penitenciarul cu Regim de Maximă Siguranţă Aiud | [`hg/2008/350/`](hg/2008/350/) | in force | 1 | 2008-03-31 | 2008-03-31 |
 | Hotărârea Guvernului nr. 351/2008 pentru aprobarea Acordului dintre Guvernul României şi Cabinetul de Miniştri al Ucrainei cu privire la cooperarea economică, industrială şi tehnico-ştiinţifică, semnat la Bucureşti la 30 octombrie 2007 | [`hg/2008/351/`](hg/2008/351/) | amending act | 1 | 2008-04-02 | 2008-04-02 |
 | Hotărârea Guvernului nr. 357/2008 | [`hg/2008/357/`](hg/2008/357/) | in force | 3 | 2008-04-01 | 2008-08-13 |
+| Hotărârea Guvernului nr. 365/2008 privind modificarea anexei nr. 44 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului | [`hg/2008/365/`](hg/2008/365/) | amending act | 1 | 2008-04-10 | 2008-04-10 |
 | Hotărârea Guvernului nr. 366/2008 privind exercitarea, cu caracter temporar, a funcţiei publice de subprefect al judeţului Gorj de către domnul Arjoca Sorin-Gabriel | [`hg/2008/366/`](hg/2008/366/) | in force | 1 | 2008-04-01 | 2008-04-01 |
 | Hotărârea Guvernului nr. 367/2008 privind încetarea raportului de serviciu al subprefectului judeţului Hunedoara, domnul Vladu Cristian-Marius, prin acordul părţilor | [`hg/2008/367/`](hg/2008/367/) | in force | 1 | 2008-04-01 | 2008-04-01 |
 | Hotărârea Guvernului nr. 368/2008 privind exercitarea, cu caracter temporar, a funcţiei publice de prefect al judeţului Bacău de către domnul Şerban Claudiu Octavian | [`hg/2008/368/`](hg/2008/368/) | in force | 1 | 2008-04-01 | 2008-04-01 |
 | Hotărârea Guvernului nr. 369/2008 privind exercitarea, cu caracter temporar, a funcţiei publice de prefect al judeţului Alba de către domnul Simedru Dan-Coriolan | [`hg/2008/369/`](hg/2008/369/) | in force | 1 | 2008-04-01 | 2008-04-01 |
 | Hotărârea Guvernului nr. 374/2008 pentru modificarea Normelor metodologice de aplicare a Legii nr. 334/2006 privind finanţarea activităţii partidelor politice şi a campaniilor electorale, aprobate prin Hotărârea Guvernului nr. 749/2007 | [`hg/2008/374/`](hg/2008/374/) | amending act | 1 | 2008-04-10 | 2008-04-10 |
+| Hotărârea Guvernului nr. 377/2008 privind abrogarea unei poziţii din anexa nr. 20 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului | [`hg/2008/377/`](hg/2008/377/) | amending act | 1 | 2008-04-11 | 2008-04-11 |
 | Hotărârea Guvernului nr. 379/2008 privind stabilirea unor măsuri pentru evaluarea performanţelor profesionale individuale ale înalţilor funcţionari publici pentru anul 2007 | [`hg/2008/379/`](hg/2008/379/) | in force | 1 | 2008-04-10 | 2008-04-10 |
+| Hotărârea Guvernului nr. 380/2008 pentru modificarea şi completarea art. 3 din Hotărârea Guvernului nr. 534/2007 privind înfiinţarea, atribuţiile, competenţele şi modul de funcţionare ale Comitetului Interministerial de Finanţări, Garanţii şi Asigurări şi reglementarea operaţiunilor de finanţare, garantare şi asigurare efectuate de Banca de Export-Import a României EXIMBANK - S.A. în numele şi contul statului | [`hg/2008/380/`](hg/2008/380/) | amending act | 1 | 2008-04-14 | 2008-04-14 |
+| Hotărârea Guvernului nr. 383/2008 privind încetarea raportului de serviciu al prefectului judeţului Botoşani, domnul Sorescu Gheorghe, prin acordul părţilor | [`hg/2008/383/`](hg/2008/383/) | in force | 1 | 2008-04-10 | 2008-04-10 |
 | Hotărârea Guvernului nr. 384/2008 privind încetarea raportului de serviciu al prefectului judeţului Prahova, domnul Alexandri Nicolae, prin acordul părţilor | [`hg/2008/384/`](hg/2008/384/) | in force | 1 | 2008-04-10 | 2008-04-10 |
 | Hotărârea Guvernului nr. 385/2008 privind încetarea raportului de serviciu al prefectului judeţului Mureş, domnul Dobre Ciprian Minodor, prin acordul părţilor | [`hg/2008/385/`](hg/2008/385/) | in force | 1 | 2008-04-10 | 2008-04-10 |
+| Hotărârea Guvernului nr. 386/2008 privind încetarea raportului de serviciu al subprefectului judeţului Braşov, domnul Danu Aurelian-Leonard, prin acordul părţilor | [`hg/2008/386/`](hg/2008/386/) | in force | 1 | 2008-04-10 | 2008-04-10 |
 | Hotărârea Guvernului nr. 387/2008 privind exercitarea, cu caracter temporar, a funcţiei publice de prefect al judeţului Mureş de către doamna Pop Felicia | [`hg/2008/387/`](hg/2008/387/) | in force | 1 | 2008-04-10 | 2008-04-10 |
+| Hotărârea Guvernului nr. 388/2008 privind trecerea domnului Onofrei Orest din funcţia publică de prefect al judeţului Suceava în funcţia publică de subprefect al judeţului Suceava | [`hg/2008/388/`](hg/2008/388/) | in force | 1 | 2008-04-14 | 2008-04-14 |
+| Hotărârea Guvernului nr. 389/2008 privind trecerea domnului Băişanu Ştefan Alexandru din funcţia publică de subprefect al judeţului Suceava în funcţia publică de prefect al judeţului Suceava | [`hg/2008/389/`](hg/2008/389/) | in force | 1 | 2008-04-14 | 2008-04-14 |
+| Hotărârea Guvernului nr. 390/2008 privind exercitarea, cu caracter temporar, a funcţiei publice de subprefect al judeţului Teleorman de către domnul Bîţă Ionuţ Adrian | [`hg/2008/390/`](hg/2008/390/) | in force | 1 | 2008-04-14 | 2008-04-14 |
+| Hotărârea Guvernului nr. 391/2008 privind exercitarea, cu caracter temporar, a funcţiei publice de subprefect al judeţului Teleorman de către domnul Trifu Lucică | [`hg/2008/391/`](hg/2008/391/) | in force | 1 | 2008-04-14 | 2008-04-14 |
+| Hotărârea Guvernului nr. 392/2008 privind redobândirea cetăţeniei române de către unele persoane | [`hg/2008/392/`](hg/2008/392/) | in force | 1 | 2008-04-15 | 2008-04-15 |
+| Hotărârea Guvernului nr. 393/2008 privind acordarea cetăţeniei române unor persoane | [`hg/2008/393/`](hg/2008/393/) | in force | 1 | 2008-04-16 | 2008-04-16 |
+| Hotărârea Guvernului nr. 394/2008 pentru modificarea Hotărârii Guvernului nr. 156/1993 privind instituirea Zonei libere Sulina şi înfiinţarea Administraţiei Zonei Libere Sulina | [`hg/2008/394/`](hg/2008/394/) | amending act | 1 | 2008-04-16 | 2008-04-16 |
+| Hotărârea Guvernului nr. 397/2008 privind încetarea raportului de serviciu al prefectului judeţului Tulcea, domnul Chirică Lefter, prin acordul părţilor | [`hg/2008/397/`](hg/2008/397/) | in force | 1 | 2008-04-10 | 2008-04-10 |
+| Hotărârea Guvernului nr. 402/2008 pentru modificarea Hotărârii Guvernului nr. 344/2004 privind stabilirea condiţiilor de introducere pe piaţă şi/sau de punere în funcţiune a dispozitivelor medicale implantabile active | [`hg/2008/402/`](hg/2008/402/) | amending act | 1 | 2008-04-16 | 2008-04-16 |
+| Hotărârea Guvernului nr. 403/2008 privind acordarea unor ajutoare de urgenţă | [`hg/2008/403/`](hg/2008/403/) | in force | 1 | 2008-04-17 | 2008-04-17 |
+| Hotărârea Guvernului nr. 404/2008 privind încetarea raportului de serviciu al subprefectului judeţului Mehedinţi, domnul Săceanu Constantin, prin acordul părţilor | [`hg/2008/404/`](hg/2008/404/) | in force | 1 | 2008-04-17 | 2008-04-17 |
+| Hotărârea Guvernului nr. 405/2008 privind numirea domnului Simion Lucian-Eduard în funcţia publică de subprefect al judeţului Tulcea | [`hg/2008/405/`](hg/2008/405/) | in force | 1 | 2008-04-17 | 2008-04-17 |
+| Hotărârea Guvernului nr. 406/2008 privind acordarea unui ajutor | [`hg/2008/406/`](hg/2008/406/) | in force | 1 | 2008-04-17 | 2008-04-17 |
+| Hotărârea Guvernului nr. 408/2008 privind transmiterea unui imobil din domeniul privat al statului şi din administrarea Regiei Autonome "Administraţia Patrimoniului Protocolului de Stat" în domeniul public al statului şi în administrarea Autorităţii Naţionale Sanitare Veterinare şi pentru Siguranţa Alimentelor | [`hg/2008/408/`](hg/2008/408/) | in force | 1 | 2008-04-23 | 2008-04-23 |
+| Hotărârea Guvernului nr. 413/2008 pentru abrogarea Hotărârii Guvernului nr. 1.883/2004 privind achiziţia de servicii şi produse "Suport logistic pe termen lung pentru fregatele T 22 R, Regele Ferdinand şi Regina Maria" | [`hg/2008/413/`](hg/2008/413/) | amending act | 1 | 2008-04-18 | 2008-04-18 |
+| Hotărârea Guvernului nr. 414/2008 privind transmiterea parţială a unui imobil, aflat în domeniul public al statului, din administrarea Ministerului Apărării în administrarea Ministerului Culturii şi Cultelor, pentru Arhiepiscopia Ortodoxă Română Alba Iulia | [`hg/2008/414/`](hg/2008/414/) | in force | 1 | 2008-04-22 | 2008-04-22 |
+| Hotărârea Guvernului nr. 415/2008 pentru aprobarea Protocolului de cooperare dintre Ministerul Justiţiei din România şi Ministerul Justiţiei şi Aplicării Legii din Republica Ungară, semnat la Sibiu la 14 noiembrie 2007 | [`hg/2008/415/`](hg/2008/415/) | amending act | 1 | 2008-04-22 | 2008-04-22 |
+| Hotărârea Guvernului nr. 416/2008 privind darea în administrarea Instituţiei Prefectului Judeţului Hunedoara a unui imobil aflat în proprietatea publică a statului | [`hg/2008/416/`](hg/2008/416/) | in force | 1 | 2008-04-22 | 2008-04-22 |
+| Hotărârea Guvernului nr. 418/2008 privind transmiterea pasarelei pietonale care traversează fasciculul de linii din Staţia C.F. Bucureşti Nord, zona Gării Basarab, din domeniul public al statului şi din administrarea Ministerului Transporturilor în domeniul privat al municipiului Bucureşti şi în administrarea Consiliului General al Municipiului Bucureşti, pentru scoaterea din funcţiune în vederea valorificării şi, după caz, a casării | [`hg/2008/418/`](hg/2008/418/) | in force | 1 | 2008-04-22 | 2008-04-22 |
+| Hotărârea Guvernului nr. 420/2008 privind aprobarea activităţilor pentru care se acordă sprijin financiar producătorilor agricoli din sectorul de îmbunătăţiri funciare în anul 2008, a cuantumului acestuia şi a sumei totale alocate fiecărei activităţi | [`hg/2008/420/`](hg/2008/420/) | amending act | 1 | 2008-04-22 | 2008-04-22 |
+| Hotărârea Guvernului nr. 422/2008 pentru completarea anexei nr. 1 la Hotărârea Guvernului nr. 270/2008 privind stabilirea măsurilor pentru organizarea şi desfăşurarea alegerilor pentru autorităţile administraţiei publice locale din anul 2008 | [`hg/2008/422/`](hg/2008/422/) | amending act | 1 | 2008-04-18 | 2008-04-18 |
 | Hotărârea Guvernului nr. 430/2008 | [`hg/2008/430/`](hg/2008/430/) | in force | 1 | 2008-05-01 | 2008-05-01 |
+| Hotărârea Guvernului nr. 435/2008 privind exercitarea, cu caracter temporar, a funcţiei publice de prefect al judeţului Prahova de către domnul Nechiţi Doru Marius | [`hg/2008/435/`](hg/2008/435/) | in force | 1 | 2008-04-22 | 2008-04-22 |
+| Hotărârea Guvernului nr. 436/2008 privind trecerea domnului Simion Lucian-Eduard din funcţia publică de subprefect al judeţului Tulcea în funcţia publică de prefect al judeţului Tulcea | [`hg/2008/436/`](hg/2008/436/) | in force | 1 | 2008-04-22 | 2008-04-22 |
+| Hotărârea Guvernului nr. 437/2008 privind exercitarea, cu caracter temporar, a funcţiei publice de prefect al judeţului Giurgiu de către domnul Mustăţea Vasile | [`hg/2008/437/`](hg/2008/437/) | in force | 1 | 2008-04-22 | 2008-04-22 |
+| Hotărârea Guvernului nr. 438/2008 privind exercitarea, cu caracter temporar, a funcţiei publice de subprefect al judeţului Giurgiu de către doamna Crăiţă Silvia | [`hg/2008/438/`](hg/2008/438/) | in force | 1 | 2008-04-22 | 2008-04-22 |
+| Hotărârea Guvernului nr. 439/2008 privind exercitarea, cu caracter temporar, a funcţiei publice de subprefect al judeţului Constanţa de către domnul Andrei Cosmin | [`hg/2008/439/`](hg/2008/439/) | in force | 1 | 2008-04-22 | 2008-04-22 |
+| Hotărârea Guvernului nr. 440/2008 privind suplimentarea bugetului Ministerului Culturii şi Cultelor pe anul 2008 din Fondul de rezervă bugetară la dispoziţia Guvernului | [`hg/2008/440/`](hg/2008/440/) | in force | 1 | 2008-04-22 | 2008-04-22 |
+| Hotărârea Guvernului nr. 441/2008 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii "Refuncţionalizarea obiectivului de investiţii Biblioteca Naţională a României prin integrarea corpului AULA în ansamblu" | [`hg/2008/441/`](hg/2008/441/) | amending act | 1 | 2008-04-22 | 2008-04-22 |
+| Hotărârea Guvernului nr. 442/2008 privind finanţarea din bugetul Ministerului Afacerilor Externe a unor manifestări culturale şi de diplomaţie publică organizate la misiunile României în vederea celebrării Sărbătorilor Pascale şi a Zilei Europei | [`hg/2008/442/`](hg/2008/442/) | in force | 1 | 2008-04-22 | 2008-04-22 |
 | Hotărârea Guvernului nr. 507/2008 | [`hg/2008/507/`](hg/2008/507/) | in force | 1 | 2008-05-21 | 2008-05-21 |
 | Hotărârea Guvernului nr. 546/2008 | [`hg/2008/546/`](hg/2008/546/) | in force | 3 | 2008-06-01 | 2011-04-26 |
 | Hotărârea Guvernului nr. 548/2008 | [`hg/2008/548/`](hg/2008/548/) | in force | 1 | 2008-06-06 | 2008-06-06 |
