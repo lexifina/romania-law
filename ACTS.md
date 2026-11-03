@@ -1,6 +1,6 @@
 # Every act in this repository
 
-14380 acts, 27,969 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+14394 acts, 27,983 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (2585, of which 1254 amending acts)
+## Laws (legi) (2590, of which 1258 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -734,12 +734,17 @@
 | Legea nr. 179/2007 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 90/2006 cu privire la rectificarea bugetului asigurărilor sociale de stat pe anul 2006 | [`lege/2007/179/`](lege/2007/179/) | amending act | 1 | 2007-06-23 | 2007-06-23 |
 | Legea nr. 180/2007 pentru abrogarea dispoziţiilor cap. III^1 din Legea nr. 136/1995 privind asigurările şi reasigurările în România | [`lege/2007/180/`](lege/2007/180/) | amending act | 1 | 2007-06-23 | 2007-06-23 |
 | Legea nr. 181/2007 | [`lege/2007/181/`](lege/2007/181/) | repealed 2010-07-12 | 3 | 2008-01-01 | 2010-07-12 |
+| Legea nr. 185/2007 pentru aderarea României la Acordul dintre Regatul Belgiei, Regatul Danemarcei, Republica Federala Germania, Irlanda, Republica Italiana, Marele Ducat al Luxemburgului, Regatul Olandei, Comunitatea Europeană a Energiei Atomice şi Agenţia Internaţională pentru Energie Atomica, cu privire la aplicarea art. III alin. 1 şi alin. 4 din Tratatul cu privire la neproliferarea armelor nucleare (78/164/EURATOM), adoptat la Bruxelles la 5 aprilie 1973, cu amendamentele ulterioare, şi la Protocolul adiţional la Acordul dintre Republica Austria, Regatul Belgiei, Regatul Danemarcei, Republica Finlanda, Republica Federala Germania, Republica Elena, Irlanda, Republica Italiana, Marele Ducat al Luxemburgului, Regatul Olandei, Republica Portugheza, Regatul Spaniei, Regatul Suediei, Comunitatea Europeană a Energiei Atomice şi Agenţia Internaţională pentru Energie Atomica, cu privire la aplicarea art. III alin. 1 şi alin. 4 din Tratatul cu privire la neproliferarea armelor nucleare, semnat la Viena la 22 septembrie 1998 | [`lege/2007/185/`](lege/2007/185/) | in force | 1 | 2007-07-14 | 2007-07-14 |
 | Legea nr. 188/2007 | [`lege/2007/188/`](lege/2007/188/) | in force | 1 | 2007-06-29 | 2007-06-29 |
 | Legea nr. 189/2007 privind retragerea unor rezerve formulate de România cu prilejul aderării sau ratificării unor convenţii internaţionale | [`lege/2007/189/`](lege/2007/189/) | in force | 1 | 2007-06-29 | 2007-06-29 |
 | Legea nr. 190/2007 pentru aderarea României la Protocolul opţional la Convenţia de la Viena cu privire la relaţiile consulare, referitor la soluţionarea obligatorie a diferendelor, adoptat la Viena la 24 aprilie 1963 | [`lege/2007/190/`](lege/2007/190/) | in force | 1 | 2007-06-29 | 2007-06-29 |
 | Legea nr. 191/2007 | [`lege/2007/191/`](lege/2007/191/) | in force | 1 | 2007-06-29 | 2007-06-29 |
 | Legea nr. 192/2007 pentru aderarea României la Protocolul opţional la Convenţia de la Viena cu privire la relaţiile diplomatice, referitor la soluţionarea obligatorie a diferendelor, adoptat la Viena la 18 aprilie 1961 | [`lege/2007/192/`](lege/2007/192/) | in force | 1 | 2007-06-29 | 2007-06-29 |
 | Legea nr. 196/2007 pentru modificarea art. 2 din Legea nr. 93/1997 privind declararea ca erou-martir a lui Liviu Cornel Babeş | [`lege/2007/196/`](lege/2007/196/) | amending act | 1 | 2007-07-07 | 2007-07-07 |
+| Legea nr. 203/2007 privind aprobarea Ordonanţei Guvernului nr. 15/2007 pentru modificarea şi completarea Legii nr. 138/1999 privind salarizarea şi alte drepturi ale personalului militar din instituţiile publice de apărare naţională, ordine publică şi siguranţa naţională, precum şi acordarea unor drepturi salariale personalului civil din aceste instituţii | [`lege/2007/203/`](lege/2007/203/) | amending act | 1 | 2007-07-08 | 2007-07-08 |
+| Legea nr. 206/2007 pentru aprobarea Ordonanţei Guvernului nr. 24/2007 privind reglementarea unor măsuri financiar-fiscale în domeniul social şi al locuinţelor de serviciu | [`lege/2007/206/`](lege/2007/206/) | amending act | 1 | 2007-07-13 | 2007-07-13 |
+| Legea nr. 207/2007 pentru aprobarea Ordonanţei Guvernului nr. 9/2007 privind reglementarea unor măsuri financiare în domeniul programării cheltuielilor publice | [`lege/2007/207/`](lege/2007/207/) | amending act | 1 | 2007-07-13 | 2007-07-13 |
+| Legea nr. 208/2007 privind aprobarea Ordonanţei Guvernului nr. 13/2007 pentru completarea art. 5 din Ordonanţa Guvernului nr. 43/2000 privind protecţia patrimoniului arheologic şi declararea unor situri arheologice ca zone de interes naţional | [`lege/2007/208/`](lege/2007/208/) | amending act | 1 | 2007-07-13 | 2007-07-13 |
 | Legea nr. 214/2007 | [`lege/2007/214/`](lege/2007/214/) | in force | 1 | 2007-07-19 | 2007-07-19 |
 | Legea nr. 218/2007 pentru aprobarea Ordonanţei Guvernului nr. 16/2007 privind creşterile salariale ce se vor acorda în anul 2007 personalului salarizat potrivit Legii nr. 495/2004 privind salarizarea şi alte drepturi băneşti ale personalului din administraţia centrala a Ministerului Afacerilor Externe şi de la misiunile diplomatice, oficiile consulare şi institutele culturale româneşti din străinătate | [`lege/2007/218/`](lege/2007/218/) | amending act | 1 | 2007-07-07 | 2007-07-07 |
 | Legea nr. 223/2007 | [`lege/2007/223/`](lege/2007/223/) | in force | 6 | 2007-09-01 | 2024-01-01 |
@@ -4794,7 +4799,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (9595, of which 4399 amending acts)
+## Government decisions (HG) (9604, of which 4404 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -5833,14 +5838,23 @@
 | Hotărârea Guvernului nr. 639/2007 | [`hg/2007/639/`](hg/2007/639/) | in force | 5 | 2007-06-26 | 2024-07-22 |
 | Hotărârea Guvernului nr. 640/2007 privind stabilirea unor măsuri în aplicarea prevederilor art. II din Ordonanţa de urgenţă a Guvernului nr. 28/2007 pentru completarea Legii nr. 202/2006 privind organizarea şi funcţionarea Agenţiei Naţionale pentru Ocuparea Forţei de Muncă, precum şi pentru stabilirea unor măsuri de reorganizare instituţională | [`hg/2007/640/`](hg/2007/640/) | amending act | 1 | 2007-06-27 | 2007-06-27 |
 | Hotărârea Guvernului nr. 642/2007 pentru modificarea art. 11 şi 12 din Regulamentul privind organizarea şi funcţionarea Regiei Naţionale a Pădurilor - Romsilva, prevăzut în anexa nr. 1 la Hotărârea Guvernului nr. 1.105/2003 privind reorganizarea Regiei Naţionale a Pădurilor - Romsilva | [`hg/2007/642/`](hg/2007/642/) | amending act | 1 | 2007-07-03 | 2007-07-03 |
+| Hotărârea Guvernului nr. 651/2007 privind aprobarea stemei judeţului Gorj | [`hg/2007/651/`](hg/2007/651/) | amending act | 1 | 2007-07-11 | 2007-07-11 |
+| Hotărârea Guvernului nr. 654/2007 privind transmiterea unor bunuri mobile şi imobile din domeniul public al statului şi din administrarea Ministerului Culturii şi Cultelor în domeniul public al judeţului Sibiu şi în administrarea Consiliului Judeţean Sibiu, pentru Complexul Naţional Muzeal "Astra" din Sibiu | [`hg/2007/654/`](hg/2007/654/) | in force | 1 | 2007-07-10 | 2007-07-10 |
+| Hotărârea Guvernului nr. 656/2007 privind transmiterea unui imobil aflat în domeniul public al statului din administrarea Ministerului Internelor şi Reformei Administrative - Inspectoratul General al Jandarmeriei Române în administrarea Ministerului Justiţiei - Administraţia Naţională a Penitenciarelor - Penitenciarul de Maximă Siguranţă Craiova | [`hg/2007/656/`](hg/2007/656/) | in force | 1 | 2007-07-10 | 2007-07-10 |
 | Hotărârea Guvernului nr. 657/2007 privind transmiterea unei suprafeţe de teren aflate în proprietatea publică a statului din administrarea Serviciului de Informaţii Externe în administrarea Ministerului Transporturilor, în vederea realizării activităţilor de interes naţional de către Compania Naţională de Autostrăzi şi Drumuri Naţionale din România - S.A | [`hg/2007/657/`](hg/2007/657/) | in force | 1 | 2007-07-03 | 2007-07-03 |
 | Hotărârea Guvernului nr. 665/2007 privind alocarea unei sume din Fondul de intervenţie la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2007, pentru realizarea în regim de urgenţă a lucrărilor de decolmatare a principalelor canale şi gârle pescăreşti din Delta Dunării | [`hg/2007/665/`](hg/2007/665/) | in force | 1 | 2007-07-02 | 2007-07-02 |
 | Hotărârea Guvernului nr. 666/2007 privind suplimentarea bugetului Cancelariei Primului-Ministru din Fondul de rezerva bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2007, pentru Agenţia Naţionala pentru Sport | [`hg/2007/666/`](hg/2007/666/) | in force | 1 | 2007-07-04 | 2007-07-04 |
 | Hotărârea Guvernului nr. 667/2007 privind structura accizei totale exprimată în echivalent euro pentru 1.000 de ţigarete | [`hg/2007/667/`](hg/2007/667/) | in force | 1 | 2007-06-29 | 2007-06-29 |
 | Hotărârea Guvernului nr. 671/2007 | [`hg/2007/671/`](hg/2007/671/) | in force | 1 | 2007-07-05 | 2007-07-05 |
+| Hotărârea Guvernului nr. 672/2007 pentru completarea Hotărârii Guvernului nr. 1.882/2005 privind înfiinţarea unor institute naţionale de cercetare-dezvoltare agricolă prin reorganizarea unor institute de cercetare din agricultură | [`hg/2007/672/`](hg/2007/672/) | amending act | 1 | 2007-07-05 | 2007-07-05 |
+| Hotărârea Guvernului nr. 678/2007 pentru completarea art. 1 din Hotărârea Guvernului nr. 77/2006 privind trecerea unui imobil, proprietate privată a statului, din administrarea Regiei Autonome "Administraţia Patrimoniului Protocolului de Stat" în administrarea Ministerului Afacerilor Externe | [`hg/2007/678/`](hg/2007/678/) | amending act | 1 | 2007-07-05 | 2007-07-05 |
 | Hotărârea Guvernului nr. 680/2007 | [`hg/2007/680/`](hg/2007/680/) | in force | 1 | 2007-07-20 | 2007-07-20 |
 | Hotărârea Guvernului nr. 686/2007 | [`hg/2007/686/`](hg/2007/686/) | in force | 1 | 2007-07-24 | 2007-07-24 |
+| Hotărârea Guvernului nr. 701/2007 privind exercitarea, cu caracter temporar, a funcţiei publice de subprefect al judeţului Ialomiţa de către domnul Dumitru Ion | [`hg/2007/701/`](hg/2007/701/) | in force | 1 | 2007-07-09 | 2007-07-09 |
+| Hotărârea Guvernului nr. 702/2007 privind aprobarea stemei judeţului Dâmboviţa | [`hg/2007/702/`](hg/2007/702/) | amending act | 1 | 2007-07-11 | 2007-07-11 |
 | Hotărârea Guvernului nr. 715/2007 | [`hg/2007/715/`](hg/2007/715/) | in force | 1 | 2007-07-17 | 2007-07-17 |
+| Hotărârea Guvernului nr. 721/2007 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2007, pentru judeţul Ialomiţa | [`hg/2007/721/`](hg/2007/721/) | in force | 1 | 2007-07-06 | 2007-07-06 |
+| Hotărârea Guvernului nr. 725/2007 privind modificarea anexelor nr. 11, 12, 13 şi 14 la Hotărârea Guvernului nr. 759/2006 pentru aprobarea fişelor tehnice ale măsurilor 1.1 "Îmbunătăţirea prelucrării şi marketingului produselor agricole şi piscicole", 1.2 "Îmbunătăţirea structurilor în vederea realizării controlului de calitate, veterinar şi fitosanitar, pentru calitatea produselor alimentare şi pentru protecţia consumatorilor", 2.1 "Dezvoltarea şi îmbunătăţirea infrastructurii rurale", 3.1 "Investiţii în exploataţiile agricole", 3.2 "Constituirea grupurilor de producători", 3.3 "Metode agricole de producţie destinate să protejeze mediul şi să menţină peisajul rural", 3.4 "Dezvoltarea şi diversificarea activităţilor economice care generează activităţi multiple şi venituri alternative", 3.5 "Silvicultură", 4.1 "Îmbunătăţirea pregătirii profesionale" şi 4.2 "Asistenţa tehnică" din Programul naţional pentru agricultură şi dezvoltare rurală finanţat din fonduri SAPARD | [`hg/2007/725/`](hg/2007/725/) | amending act | 1 | 2007-07-11 | 2007-07-11 |
 | Hotărârea Guvernului nr. 731/2007 | [`hg/2007/731/`](hg/2007/731/) | in force | 1 | 2007-08-07 | 2007-08-07 |
 | Hotărârea Guvernului nr. 745/2007 | [`hg/2007/745/`](hg/2007/745/) | in force | 1 | 2007-08-06 | 2007-08-06 |
 | Hotărârea Guvernului nr. 749/2007 | [`hg/2007/749/`](hg/2007/749/) | in force | 1 | 2007-07-24 | 2007-07-24 |
