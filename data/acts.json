@@ -16696,6 +16696,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/83244"
 },
 {
+"slug": "oug-55-2007",
+"path": "oug/2007/55",
+"kind": "oug",
+"year": "2007",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 55/2007",
+"short": "OUG nr. 55/2007",
+"code": null,
+"status": "in force",
+"versions": 6,
+"from": "2007-06-26",
+"latest": "2025-10-25",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/83150"
+},
+{
 "slug": "oug-64-2007",
 "path": "oug/2007/64",
 "kind": "oug",
@@ -27166,6 +27183,23 @@
 "from": "1998-07-31",
 "latest": "2022-08-28",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/15331"
+},
+{
+"slug": "og-51-1998",
+"path": "og/1998/51",
+"kind": "og",
+"year": "1998",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța Guvernului nr. 51/1998",
+"short": "OG nr. 51/1998",
+"code": null,
+"status": "in force",
+"versions": 17,
+"from": "1998-08-13",
+"latest": "2024-09-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/15449"
 },
 {
 "slug": "og-95-1998",
