@@ -1,6 +1,6 @@
 # Every act in this repository
 
-19207 acts, 32,836 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+19220 acts, 32,849 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -5312,7 +5312,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (13904, of which 6995 amending acts)
+## Government decisions (HG) (13917, of which 7002 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -8699,7 +8699,20 @@
 | Hotărârea Guvernului nr. 572/2013 | [`hg/2013/572/`](hg/2013/572/) | in force | 6 | 2013-08-08 | 2024-06-14 |
 | Hotărârea Guvernului nr. 583/2013 | [`hg/2013/583/`](hg/2013/583/) | in force | 1 | 2013-08-08 | 2013-08-08 |
 | Hotărârea Guvernului nr. 587/2013 | [`hg/2013/587/`](hg/2013/587/) | in force | 1 | 2013-08-12 | 2013-08-12 |
+| Hotărârea Guvernului nr. 661/2013 privind transmiterea unui sector de drum de interes judeţean din domeniul public al judeţului Ilfov şi din administrarea Consiliului Judeţean Ilfov în domeniul public al statului şi în administrarea Departamentului pentru proiecte de infrastructură şi investiţii străine, în vederea realizării de către Compania Naţională de Autostrăzi şi Drumuri Naţionale din România - S.A. a obiectivului de investiţii de interes naţional "Pasaj suprateran pe DJ 602 - Centura Bucureşti - Domneşti", precum şi declasarea acestuia din categoria drumurilor de interes judeţean şi încadrarea în categoria funcţională a drumurilor de interes naţional | [`hg/2013/661/`](hg/2013/661/) | in force | 1 | 2013-09-03 | 2013-09-03 |
+| Hotărârea Guvernului nr. 662/2013 privind suplimentarea numărului maxim de posturi al Inspecţiei Judiciare | [`hg/2013/662/`](hg/2013/662/) | in force | 1 | 2013-09-03 | 2013-09-03 |
 | Hotărârea Guvernului nr. 663/2013 privind modificarea Hotărârii Guvernului nr. 447/2003 pentru aprobarea normelor metodologice privind modul de elaborare și conținutul hărților de risc natural la alunecări de teren și inundații | [`hg/2013/663/`](hg/2013/663/) | amending act | 1 | 2013-09-05 | 2013-09-05 |
+| Hotărârea Guvernului nr. 664/2013 privind încetarea exercitării, cu caracter temporar, a funcţiei publice de prefect al judeţului Olt de către domnul Ionică Eugen | [`hg/2013/664/`](hg/2013/664/) | in force | 1 | 2013-09-04 | 2013-09-04 |
+| Hotărârea Guvernului nr. 665/2013 privind exercitarea, cu caracter temporar, prin detaşare în condiţiile legii, a funcţiei publice de prefect al judeţului Olt de către domnul Rotea Cătălin Ştefan | [`hg/2013/665/`](hg/2013/665/) | in force | 1 | 2013-09-04 | 2013-09-04 |
+| Hotărârea Guvernului nr. 666/2013 privind modificarea şi completarea anexei nr. 43 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului | [`hg/2013/666/`](hg/2013/666/) | amending act | 1 | 2013-09-10 | 2013-09-10 |
+| Hotărârea Guvernului nr. 667/2013 privind acordarea unor ajutoare de urgenţă | [`hg/2013/667/`](hg/2013/667/) | in force | 1 | 2013-09-05 | 2013-09-05 |
+| Hotărârea Guvernului nr. 670/2013 pentru modificarea Hotărârii Guvernului nr. 26/2002 privind stabilirea condiţiilor de etichetare a materialelor utilizate la producerea principalelor componente ale articolelor de încălţăminte destinate vânzării către consumatori | [`hg/2013/670/`](hg/2013/670/) | amending act | 1 | 2013-09-12 | 2013-09-12 |
+| Hotărârea Guvernului nr. 671/2013 privind aprobarea unor modificări şi completări în inventarul bunurilor din domeniul public al statului aflate în administrarea Ministerului Apărării Naţionale | [`hg/2013/671/`](hg/2013/671/) | amending act | 1 | 2013-09-10 | 2013-09-10 |
+| Hotărârea Guvernului nr. 672/2013 privind modificarea şi completarea Hotărârii Guvernului nr. 606/2009 pentru aplicarea Legii nr. 490/2004 privind stimularea financiară a personalului care gestionează fonduri comunitare şi a Legii nr. 1/2004 privind înfiinţarea, organizarea şi funcţionarea Agenţiei de Plăţi şi Intervenţie pentru Agricultură | [`hg/2013/672/`](hg/2013/672/) | amending act | 1 | 2013-09-09 | 2013-09-09 |
+| Hotărârea Guvernului nr. 673/2013 pentru aprobarea indicatorilor tehnico-economici şi declanşarea procedurilor de expropriere a imobilelor proprietate privată care constituie coridorul de expropriere al obiectivului de investiţii "Podul de la Giurgiu, peste Dunăre, pe DN 5, km 64 + 884 - (inclusiv drumul de acces de la ieşirea din vamă până la intrarea pe pod)" | [`hg/2013/673/`](hg/2013/673/) | amending act | 1 | 2013-09-10 | 2013-09-10 |
+| Hotărârea Guvernului nr. 676/2013 pentru aprobarea amendamentelor convenite între Guvernul României şi Banca de Dezvoltare a Consiliului Europei, prin scrisorile semnate la Bucureşti la 20 iunie 2013 şi la Paris la 26 iunie 2013, la Acordul-cadru de împrumut dintre România şi Banca de Dezvoltare a Consiliului Europei pentru finanţarea Proiectului privind reabilitarea infrastructurii şcolare din România, semnat la Bucureşti la 11 iulie 2003 | [`hg/2013/676/`](hg/2013/676/) | amending act | 1 | 2013-09-10 | 2013-09-10 |
+| Hotărârea Guvernului nr. 678/2013 privind reglementarea unor măsuri financiare temporare pentru stimularea gradului de absorbţie a fondurilor alocate pentru agricultură aferente schemelor de plăţi directe şi pentru măsuri de piaţă în agricultură | [`hg/2013/678/`](hg/2013/678/) | in force | 1 | 2013-09-09 | 2013-09-09 |
+| Hotărârea Guvernului nr. 685/2013 pentru modificarea şi completarea Hotărârii Guvernului nr. 803/2001 privind constituirea Grupului de lucru pentru elaborarea şi monitorizarea Planului de acţiuni referitor la îmbunătăţirea mediului de afaceri | [`hg/2013/685/`](hg/2013/685/) | amending act | 1 | 2013-09-16 | 2013-09-16 |
 | Hotărârea Guvernului nr. 687/2013 privind încetarea exercitării, cu caracter temporar, a funcţiei publice de prefect al judeţului Timiş de către domnul Dogariu Eugen | [`hg/2013/687/`](hg/2013/687/) | in force | 1 | 2013-09-12 | 2013-09-12 |
 | Hotărârea Guvernului nr. 689/2013 privind aplicarea mobilităţii pentru domnul Dogariu Eugen din funcţia publică de subprefect al judeţului Timiş în funcţia publică de prefect al judeţului Timiş | [`hg/2013/689/`](hg/2013/689/) | in force | 1 | 2013-09-12 | 2013-09-12 |
 | Hotărârea Guvernului nr. 690/2013 pentru aprobarea indicatorilor tehnico-economici ai obiectivului de investiţie publică "Podul rutier la Argineşti peste Jiu, pe DN 6 km 268+371", judeţul Mehedinţi | [`hg/2013/690/`](hg/2013/690/) | amending act | 1 | 2013-09-17 | 2013-09-17 |
