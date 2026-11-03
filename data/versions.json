@@ -101009,6 +101009,21 @@
    ]
   },
   {
+   "slug": "hg-1019-2008",
+   "path": "hg/2008/1019",
+   "short": "HG nr. 1019/2008",
+   "title": "Hotărârea Guvernului nr. 1019/2008 privind modificarea anexei nr. 16 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97782",
+   "versions": [
+    {
+     "from": "2008-10-02",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97782",
+     "sha256": "5d38646eef62ad73595f4b83ef8ccd81a2febde566b59886d36ad57873b70a58"
+    }
+   ]
+  },
+  {
    "slug": "hg-1019-2015",
    "path": "hg/2015/1019",
    "short": "HG nr. 1019/2015",
@@ -109802,6 +109817,21 @@
    ]
   },
   {
+   "slug": "hg-1127-2008",
+   "path": "hg/2008/1127",
+   "short": "HG nr. 1127/2008",
+   "title": "Hotărârea Guvernului nr. 1127/2008 pentru modificarea şi completarea Hotărârii Guvernului nr. 895/2007 privind stabilirea cadrului instituţional pentru planificarea financiară, coordonarea, implementarea şi auditarea utilizării fondurilor acordate României prin Facilitatea Schengen",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97687",
+   "versions": [
+    {
+     "from": "2008-09-30",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97687",
+     "sha256": "59912d86acf4bef79c904fb081d512ffbd4479db8844db141e24fa8b808818a0"
+    }
+   ]
+  },
+  {
    "slug": "hg-1127-2020",
    "path": "hg/2020/1127",
    "short": "HG nr. 1127/2020",
@@ -110420,6 +110450,21 @@
    ]
   },
   {
+   "slug": "hg-1135-2008",
+   "path": "hg/2008/1135",
+   "short": "HG nr. 1135/2008",
+   "title": "Hotărârea Guvernului nr. 1135/2008 privind aprobarea Programului de iarnă în domeniul energetic pentru asigurarea funcţionării în condiţii de siguranţă şi stabilitate a Sistemului electroenergetic naţional în perioada 1 octombrie 2008 - 31 martie 2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97799",
+   "versions": [
+    {
+     "from": "2008-10-03",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97799",
+     "sha256": "856e265d5822e3f5b2626f427f9ed82106a10c0598da0b3546019bff23729972"
+    }
+   ]
+  },
+  {
    "slug": "hg-1135-2020",
    "path": "hg/2020/1135",
    "short": "HG nr. 1135/2020",
@@ -110645,6 +110690,21 @@
    ]
   },
   {
+   "slug": "hg-1138-2008",
+   "path": "hg/2008/1138",
+   "short": "HG nr. 1138/2008",
+   "title": "Hotărârea Guvernului nr. 1138/2008 pentru aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Variantă ocolitoare Timişoara DN 6 km 549+076 şi DN 69 km 6+430\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97773",
+   "versions": [
+    {
+     "from": "2008-10-03",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97773",
+     "sha256": "d64f5f33f515054539746481001fb6f977dd03fe6fcc8189b8754670ad0038ea"
+    }
+   ]
+  },
+  {
    "slug": "hg-1138-2020",
    "path": "hg/2020/1138",
    "short": "HG nr. 1138/2020",
@@ -110716,6 +110776,21 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/288755",
      "sha256": "2c16922f3e22b5312edad29f87f82fcade6cbf129cec1673b3fa5e0691e7205e"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1139-2008",
+   "path": "hg/2008/1139",
+   "short": "HG nr. 1139/2008",
+   "title": "Hotărârea Guvernului nr. 1139/2008 pentru aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Modernizare DN 74 Brad-Alba Iulia, km 4+460-km 99+870\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97774",
+   "versions": [
+    {
+     "from": "2008-10-02",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97774",
+     "sha256": "da93f9290483f0fb524b90041ec2549718634acb06ecc71ca38c0ceab57577e6"
     }
    ]
   },
@@ -110840,6 +110915,21 @@
    ]
   },
   {
+   "slug": "hg-1140-2008",
+   "path": "hg/2008/1140",
+   "short": "HG nr. 1140/2008",
+   "title": "Hotărârea Guvernului nr. 1140/2008 pentru aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Modernizare DN 75 Ştei-Turda, km 0+000-km 160+870\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97775",
+   "versions": [
+    {
+     "from": "2008-10-02",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97775",
+     "sha256": "47e5aee3601c90894595cca69e14d2dd6793c9e5be713561ecb30aef7a21925b"
+    }
+   ]
+  },
+  {
    "slug": "hg-1140-2010",
    "path": "hg/2010/1140",
    "short": "HG nr. 1140/2010",
@@ -110936,6 +111026,21 @@
    ]
   },
   {
+   "slug": "hg-1142-2008",
+   "path": "hg/2008/1142",
+   "short": "HG nr. 1142/2008",
+   "title": "Hotărârea Guvernului nr. 1142/2008 pentru aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Modernizare DN 73 Piteşti-Câmpulung-Braşov, km 13+800-km 42+850; km 54+050-km 128+250\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97778",
+   "versions": [
+    {
+     "from": "2008-10-02",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97778",
+     "sha256": "777a0bb7a82bd7fe72683e91df18ddaa850e73463a317d72083342900d161c6e"
+    }
+   ]
+  },
+  {
    "slug": "hg-1142-2024",
    "path": "hg/2024/1142",
    "short": "HG nr. 1142/2024",
@@ -110966,6 +111071,21 @@
    ]
   },
   {
+   "slug": "hg-1143-2008",
+   "path": "hg/2008/1143",
+   "short": "HG nr. 1143/2008",
+   "title": "Hotărârea Guvernului nr. 1143/2008 pentru aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Reabilitare DN 1C/DN 19; DN 1C Baia Mare-Livada, km 155+125-200+170; DN 19 Satu Mare-Livada, km 135+000-150+000; reabilitare DN 1C Livada-Halmeu, km 200+170-216+630\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97779",
+   "versions": [
+    {
+     "from": "2008-10-02",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97779",
+     "sha256": "df444a4a9ef2c3376ca5b4bb80ac4f5f1794f8c5a965fff3d620bd14c0f8b8c4"
+    }
+   ]
+  },
+  {
    "slug": "hg-1143-2021",
    "path": "hg/2021/1143",
    "short": "HG nr. 1143/2021",
@@ -110992,6 +111112,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/288402",
      "sha256": "680441abd54bfe85ea88b232110bca421288b19da80dfc0620fb8ddbadfd0f26"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1144-2008",
+   "path": "hg/2008/1144",
+   "short": "HG nr. 1144/2008",
+   "title": "Hotărârea Guvernului nr. 1144/2008 pentru aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Reabilitare DN 1C Dej-Baia Mare km 61+500-km 147+990\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97780",
+   "versions": [
+    {
+     "from": "2008-10-02",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97780",
+     "sha256": "b97fd5e4c2ffac7959247f41364e86da2bcaab91c77e51849f1432da587a16b6"
     }
    ]
   },
@@ -111037,6 +111172,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/288358",
      "sha256": "b381534face5cabdb536da704436c6c529972af7cd54c3c2ecf4c3f43f268b6a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1145-2008",
+   "path": "hg/2008/1145",
+   "short": "HG nr. 1145/2008",
+   "title": "Hotărârea Guvernului nr. 1145/2008 pentru aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Drum expres Brăila-Galaţi\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97781",
+   "versions": [
+    {
+     "from": "2008-10-02",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97781",
+     "sha256": "f090b0a9a9939917b4fdd185ac6be541b953a0292444d3c8f470bd33a52f726d"
     }
    ]
   },
@@ -111092,6 +111242,21 @@
    ]
   },
   {
+   "slug": "hg-1146-2008",
+   "path": "hg/2008/1146",
+   "short": "HG nr. 1146/2008",
+   "title": "Hotărârea Guvernului nr. 1146/2008 pentru aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Programul VI de reabilitare a drumurilor, Lot C Reabilitare DN 1H, km 75+446-km 128+823, Zalău-Răstoci\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97784",
+   "versions": [
+    {
+     "from": "2008-10-02",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97784",
+     "sha256": "d6d2a2bbcdca1eb7a260b7b857b863fb0c454c759f17075abe9f58d60117e5fe"
+    }
+   ]
+  },
+  {
    "slug": "hg-1147-2000",
    "path": "hg/2000/1147",
    "short": "HG nr. 1147/2000",
@@ -111103,6 +111268,21 @@
      "units": 8,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/25080",
      "sha256": "252efe0d45d6d5c493bc3fea1cbb2af7158d04d608fd2a74acd274f16be7bfd0"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1147-2008",
+   "path": "hg/2008/1147",
+   "short": "HG nr. 1147/2008",
+   "title": "Hotărârea Guvernului nr. 1147/2008 privind indexarea unor indemnizaţii acordate în baza unor legi speciale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97785",
+   "versions": [
+    {
+     "from": "2008-10-02",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97785",
+     "sha256": "f8d2b3d78dce2d10842d1cf029a28e29451f8323c22c09d3de3aeae3eb204033"
     }
    ]
   },
@@ -111640,6 +111820,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85770",
      "sha256": "0cb294bf293dabf31f1437aee7dfafa4819c10fec6f5ff981cf41326880b047a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1154-2008",
+   "path": "hg/2008/1154",
+   "short": "HG nr. 1154/2008",
+   "title": "Hotărârea Guvernului nr. 1154/2008 pentru modificarea Hotărârii Guvernului nr. 277/2008 privind aprobarea activităţii pentru care se acordă sprijin financiar producătorilor agricoli din sectorul vegetal în anul 2008, a cuantumului sprijinului financiar şi a sumei totale alocate acestei activităţi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97803",
+   "versions": [
+    {
+     "from": "2008-10-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97803",
+     "sha256": "1e4fca5e41d5d455d1308abb6c0c92c4b8427bbb79d1037c6f8a5ab999a47b04"
     }
    ]
   },
@@ -112499,6 +112694,21 @@
    ]
   },
   {
+   "slug": "hg-1168-2008",
+   "path": "hg/2008/1168",
+   "short": "HG nr. 1168/2008",
+   "title": "Hotărârea Guvernului nr. 1168/2008 privind numirea domnului Merchea Manole în funcţia publică de subprefect al judeţului Vrancea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97667",
+   "versions": [
+    {
+     "from": "2008-09-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97667",
+     "sha256": "5b3f41c300c482e8a94e2c9edaa3201f4b2a82077d54cc5819a20a514af5cd27"
+    }
+   ]
+  },
+  {
    "slug": "hg-1168-2021",
    "path": "hg/2021/1168",
    "short": "HG nr. 1168/2021",
@@ -112724,6 +112934,21 @@
    ]
   },
   {
+   "slug": "hg-1171-2008",
+   "path": "hg/2008/1171",
+   "short": "HG nr. 1171/2008",
+   "title": "Hotărârea Guvernului nr. 1171/2008 privind darea în administrarea Ministerului Transporturilor a unor terenuri trecute în domeniul public al statului în vederea realizării de către Compania Naţională de Căi Ferate \"C.F.R.\" - S.A. a obiectivului de interes naţional \"Reabilitarea liniei de cale ferată Bucureşti - Constanţa, secţiunea Feteşti-Constanţa, componentă a Coridorului IV Paneuropean\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97691",
+   "versions": [
+    {
+     "from": "2008-09-30",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97691",
+     "sha256": "aad6335bc191f07e6449d0295b061f011eae861c3e55e421b7b41a839e49c416"
+    }
+   ]
+  },
+  {
    "slug": "hg-1171-2022",
    "path": "hg/2022/1171",
    "short": "HG nr. 1171/2022",
@@ -112790,6 +113015,21 @@
    ]
   },
   {
+   "slug": "hg-1172-2008",
+   "path": "hg/2008/1172",
+   "short": "HG nr. 1172/2008",
+   "title": "Hotărârea Guvernului nr. 1172/2008 privind trecerea unor construcţii aflate în administrarea Ministerului Internelor şi Reformei Administrative din domeniul public al statului în domeniul privat al statului, în vederea scoaterii din funcţiune şi demolării acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97694",
+   "versions": [
+    {
+     "from": "2008-09-30",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97694",
+     "sha256": "eeb49f36256ff72fc70a190007e9229c95b2fed38291b5a7ddc60f90378c4d8c"
+    }
+   ]
+  },
+  {
    "slug": "hg-1172-2022",
    "path": "hg/2022/1172",
    "short": "HG nr. 1172/2022",
@@ -112852,6 +113092,21 @@
      "units": 34,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/47013",
      "sha256": "571acc0863466be3a06d6566c1bb62c2fd005ccc0ab7853f5259b74563066268"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1173-2008",
+   "path": "hg/2008/1173",
+   "short": "HG nr. 1173/2008",
+   "title": "Hotărârea Guvernului nr. 1173/2008 privind modificarea şi completarea Hotărârii Guvernului nr. 611/2008 pentru aprobarea normelor privind organizarea şi dezvoltarea carierei funcţionarilor publici",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97753",
+   "versions": [
+    {
+     "from": "2008-10-02",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97753",
+     "sha256": "fd7adfec86721a1e2f4fdb1dd8e91aec74d10f00ef4f5c7cad1db2a903bf8d54"
     }
    ]
   },
@@ -112931,6 +113186,21 @@
    ]
   },
   {
+   "slug": "hg-1174-2008",
+   "path": "hg/2008/1174",
+   "short": "HG nr. 1174/2008",
+   "title": "Hotărârea Guvernului nr. 1174/2008 pentru aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Sediul Inspectoratului de Poliţie al Judeţului Covasna\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97696",
+   "versions": [
+    {
+     "from": "2008-09-30",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97696",
+     "sha256": "f0ab3ca10a26d2b576ed66ec3ba9595356e9bf12768a5af42e3a24206a1a1ac6"
+    }
+   ]
+  },
+  {
    "slug": "hg-1174-2021",
    "path": "hg/2021/1174",
    "short": "HG nr. 1174/2021",
@@ -113002,6 +113272,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/86120",
      "sha256": "375ccd28247c34f211c0b29577b42f715d8abf2b4f5eb066ac15591b0166e3fc"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1175-2008",
+   "path": "hg/2008/1175",
+   "short": "HG nr. 1175/2008",
+   "title": "Hotărârea Guvernului nr. 1175/2008 privind trecerea unor construcţii din domeniul public al statului în domeniul privat al statului, în vederea scoaterii din funcţiune şi demolării acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97697",
+   "versions": [
+    {
+     "from": "2008-09-30",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97697",
+     "sha256": "2a7e29987ce5ad1c6a501c3c646142fcc88841109464cfafb6e27abf500c7f37"
     }
    ]
   },
@@ -113081,6 +113366,21 @@
    ]
   },
   {
+   "slug": "hg-1176-2008",
+   "path": "hg/2008/1176",
+   "short": "HG nr. 1176/2008",
+   "title": "Hotărârea Guvernului nr. 1176/2008 privind trecerea unor construcţii aflate în administrarea Ministerului Internelor şi Reformei Administrative din domeniul public al statului în domeniul privat al statului, în vederea scoaterii din funcţiune şi demolării acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97698",
+   "versions": [
+    {
+     "from": "2008-09-30",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97698",
+     "sha256": "03334922c02c3a244be1faaddb4692fbb7b7ab07a3cda3a23fe3132757679492"
+    }
+   ]
+  },
+  {
    "slug": "hg-1176-2012",
    "path": "hg/2012/1176",
    "short": "HG nr. 1176/2012",
@@ -113111,6 +113411,21 @@
    ]
   },
   {
+   "slug": "hg-1177-2008",
+   "path": "hg/2008/1177",
+   "short": "HG nr. 1177/2008",
+   "title": "Hotărârea Guvernului nr. 1177/2008 privind aprobarea modificării valorii de inventar a unor imobile şi actualizării inventarului centralizat al bunurilor din domeniul public al statului prin schimbarea unităţii de administrare pentru două imobile aflate în domeniul public al statului şi în administrarea Ministerului Internelor şi Reformei Administrative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97808",
+   "versions": [
+    {
+     "from": "2008-10-06",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97808",
+     "sha256": "8828fe811aec18415d2d0030950e5e5be76fefc91bac3211a4a5f516d74f26f4"
+    }
+   ]
+  },
+  {
    "slug": "hg-1178-2022",
    "path": "hg/2022/1178",
    "short": "HG nr. 1178/2022",
@@ -113137,6 +113452,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/276615",
      "sha256": "578898ef8cf866c8eac567b3aa3b12efc66f3729c3620e5bd3f6249dbe7a5427"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1179-2008",
+   "path": "hg/2008/1179",
+   "short": "HG nr. 1179/2008",
+   "title": "Hotărârea Guvernului nr. 1179/2008 privind transmiterea unei părţi dintr-un imobil, proprietate publică a statului, din administrarea Ministerului Muncii, Familiei şi Egalităţii de Şanse - Inspectoratul Teritorial de Muncă Suceava în administrarea Ministerului Internelor şi Reformei Administrative, pentru Inspectoratul de Jandarmi Judeţean Suceava",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97786",
+   "versions": [
+    {
+     "from": "2008-10-02",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97786",
+     "sha256": "0b7eaca9cfe29259a48829db7caa7e0ee94e3f8ae7e7b40794ff1be0b294e05c"
     }
    ]
   },
@@ -113342,6 +113672,21 @@
    ]
   },
   {
+   "slug": "hg-1180-2008",
+   "path": "hg/2008/1180",
+   "short": "HG nr. 1180/2008",
+   "title": "Hotărârea Guvernului nr. 1180/2008 privind schimbarea titularului dreptului de administrare a unui imobil",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97787",
+   "versions": [
+    {
+     "from": "2008-10-02",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97787",
+     "sha256": "fb6948a6f85e3afa2dabab6788acf57e82ac8ef864e39df50b2e0c0222d20372"
+    }
+   ]
+  },
+  {
    "slug": "hg-1180-2022",
    "path": "hg/2022/1180",
    "short": "HG nr. 1180/2022",
@@ -113383,6 +113728,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/289006",
      "sha256": "7a65ab9b05f63fe1f0d8d65fbafe288ee3cae26d7fca4cca93bc9702fbc0a698"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1181-2008",
+   "path": "hg/2008/1181",
+   "short": "HG nr. 1181/2008",
+   "title": "Hotărârea Guvernului nr. 1181/2008 privind transmiterea unui imobil aflat în domeniul public al statului din administrarea Ministerului Agriculturii şi Dezvoltării Rurale - Agenţia de Plăţi şi Intervenţie pentru Agricultură în administrarea Ministerului Agriculturii şi Dezvoltării Rurale - Inspectoratul Teritorial de Regim Silvic şi de Vânătoare Focşani",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97700",
+   "versions": [
+    {
+     "from": "2008-09-30",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97700",
+     "sha256": "077de137be02456bab7e6c0202b828cab97d6d4e7e64c0e6b936867dd3f890da"
     }
    ]
   },
@@ -113564,6 +113924,21 @@
    ]
   },
   {
+   "slug": "hg-1185-2008",
+   "path": "hg/2008/1185",
+   "short": "HG nr. 1185/2008",
+   "title": "Hotărârea Guvernului nr. 1185/2008 pentru completarea Hotărârii Guvernului nr. 743/2005 privind declanşarea procedurilor de expropriere a imobilelor proprietate privată situate pe amplasamentul lucrării \"Centura de ocolire a municipiului Craiova - varianta de Nord\" din cadrul obiectivului de investiţii \"Centura de ocolire a municipiului Craiova - varianta de Nord\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97756",
+   "versions": [
+    {
+     "from": "2008-10-02",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97756",
+     "sha256": "629c5bb0bd658fd584f6f1cf7f1394e395e3b973bff34e37cecfa61ba2a58899"
+    }
+   ]
+  },
+  {
    "slug": "hg-1185-2021",
    "path": "hg/2021/1185",
    "short": "HG nr. 1185/2021",
@@ -113654,6 +114029,21 @@
    ]
   },
   {
+   "slug": "hg-1187-2008",
+   "path": "hg/2008/1187",
+   "short": "HG nr. 1187/2008",
+   "title": "Hotărârea Guvernului nr. 1187/2008 privind declanşarea procedurilor de expropriere a imobilului proprietate privată situat pe amplasamentul lucrării de utilitate publică de interes naţional \"Autostrada Bucureşti-Cernavodă, Secţiunea 4 Drajna-Feteşti şi Secţiunea 5 Feteşti-Cernavodă\" pe teritoriul localităţii Cernavodă din judeţul Constanţa",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97760",
+   "versions": [
+    {
+     "from": "2008-10-02",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97760",
+     "sha256": "70d89245546a806289b604d58680309ff603cc9c8142171eddca2cb8fde8fc6f"
+    }
+   ]
+  },
+  {
    "slug": "hg-1187-2023",
    "path": "hg/2023/1187",
    "short": "HG nr. 1187/2023",
@@ -113680,6 +114070,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/289215",
      "sha256": "30a1997dee538d910777a7e61218330c87ffb4a37f3547e1f954a9815bc0c07c"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1188-2008",
+   "path": "hg/2008/1188",
+   "short": "HG nr. 1188/2008",
+   "title": "Hotărârea Guvernului nr. 1188/2008 pentru aprobarea Acordului dintre Guvernul României şi Guvernul Republicii Tunisiene privind cooperarea economică şi tehnico-ştiinţifică, semnat la Bucureşti la 2 iunie 2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97793",
+   "versions": [
+    {
+     "from": "2008-10-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97793",
+     "sha256": "c0756d33ad627afdd2d0ad648e550645cb828b5114426c66166b32e98b3f51e5"
     }
    ]
   },
@@ -114014,6 +114419,21 @@
    ]
   },
   {
+   "slug": "hg-1191-2008",
+   "path": "hg/2008/1191",
+   "short": "HG nr. 1191/2008",
+   "title": "Hotărârea Guvernului nr. 1191/2008 privind aprobarea amendamentului convenit prin scrisoarea semnată la Bucureşti la 13 martie 2008 şi 9 mai 2008 între Guvernul României şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare, la Acordul de împrumut dintre România şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare, semnat la Bucureşti la 26 august 2003, pentru finanţarea Proiectului privind reabilitarea şi reforma sectorului de irigaţii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97730",
+   "versions": [
+    {
+     "from": "2008-10-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97730",
+     "sha256": "60c8342c29f305e9d54dc46c4d4ad83f0c1e6909bae11f0bb9c846269c06480f"
+    }
+   ]
+  },
+  {
    "slug": "hg-1191-2021",
    "path": "hg/2021/1191",
    "short": "HG nr. 1191/2021",
@@ -114070,6 +114490,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/47076",
      "sha256": "b047063535d0e29735c994502a6e6b2eca827e2547fa99c35e394d6201da3391"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1192-2008",
+   "path": "hg/2008/1192",
+   "short": "HG nr. 1192/2008",
+   "title": "Hotărârea Guvernului nr. 1192/2008 privind aprobarea bugetului de venituri şi cheltuieli rectificat pe anul 2008 al Societăţii Comerciale \"Complexul Energetic Turceni\" - S.A., aflată în portofoliul Autorităţii pentru Valorificarea Activelor Statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97788",
+   "versions": [
+    {
+     "from": "2008-10-02",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97788",
+     "sha256": "bf695d3c73f01a1b77399dc6c70b5ded55c4bb7cd03163378ee51446553b00ff"
     }
    ]
   },
@@ -114755,6 +115190,21 @@
    ]
   },
   {
+   "slug": "hg-1201-2008",
+   "path": "hg/2008/1201",
+   "short": "HG nr. 1201/2008",
+   "title": "Hotărârea Guvernului nr. 1201/2008 privind încetarea raportului de serviciu al prefectului judeţului Giurgiu, domnul Mustăţea Vasile, prin acordul părţilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97733",
+   "versions": [
+    {
+     "from": "2008-10-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97733",
+     "sha256": "997c9346cd03b0dde3a6400d3cfd5c49985fdc680508711a1c6e3c953e252350"
+    }
+   ]
+  },
+  {
    "slug": "hg-1201-2021",
    "path": "hg/2021/1201",
    "short": "HG nr. 1201/2021",
@@ -114815,6 +115265,21 @@
    ]
   },
   {
+   "slug": "hg-1202-2008",
+   "path": "hg/2008/1202",
+   "short": "HG nr. 1202/2008",
+   "title": "Hotărârea Guvernului nr. 1202/2008 privind exercitarea, cu caracter temporar, a funcţiei publice de prefect al judeţului Giurgiu de către domnul Roşu Petre",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97736",
+   "versions": [
+    {
+     "from": "2008-10-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97736",
+     "sha256": "4beb5b699179b6fa1832524bed9b3cffc113edcac6f5a93f779314945f6a00ce"
+    }
+   ]
+  },
+  {
    "slug": "hg-1202-2021",
    "path": "hg/2021/1202",
    "short": "HG nr. 1202/2021",
@@ -114856,6 +115321,21 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/277013",
      "sha256": "bd7cf9dfdae3db963d45e3b192226cb4945f22cd68e697c93710433991d56b81"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1203-2008",
+   "path": "hg/2008/1203",
+   "short": "HG nr. 1203/2008",
+   "title": "Hotărârea Guvernului nr. 1203/2008 privind încetarea raportului de serviciu al subprefectului judeţului Giurgiu, domnul Păsat Dan, prin acordul părţilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97739",
+   "versions": [
+    {
+     "from": "2008-10-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97739",
+     "sha256": "ee14592700db5f7219a363fa7288d512ab19a315452821b3aee2fefc0e681180"
     }
    ]
   },
@@ -114950,6 +115430,21 @@
    ]
   },
   {
+   "slug": "hg-1205-2008",
+   "path": "hg/2008/1205",
+   "short": "HG nr. 1205/2008",
+   "title": "Hotărârea Guvernului nr. 1205/2008 privind exercitarea, cu caracter temporar, a funcţiei publice de prefect al judeţului Braşov de către domnul Niţă Emil",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97769",
+   "versions": [
+    {
+     "from": "2008-10-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97769",
+     "sha256": "f0d75be80c7894fbb27771f7a5297bcf1d0c9c15a6ea006e90872476dcd4d607"
+    }
+   ]
+  },
+  {
    "slug": "hg-1205-2021",
    "path": "hg/2021/1205",
    "short": "HG nr. 1205/2021",
@@ -115006,6 +115501,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/32583",
      "sha256": "5136458b1ecc64afa1e529244f648426f2f921b3615df51221c40a45b5dd912f"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1206-2008",
+   "path": "hg/2008/1206",
+   "short": "HG nr. 1206/2008",
+   "title": "Hotărârea Guvernului nr. 1206/2008 privind exercitarea, cu caracter temporar, a funcţiei publice de subprefect al judeţului Botoşani de către domnul Mihai Corneliu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97770",
+   "versions": [
+    {
+     "from": "2008-10-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97770",
+     "sha256": "9432d61ee5e8dfd342509abe8d22178638117ca5abab61561e3cd906447c1b38"
     }
    ]
   },
@@ -116153,6 +116663,21 @@
    ]
   },
   {
+   "slug": "hg-1225-2008",
+   "path": "hg/2008/1225",
+   "short": "HG nr. 1225/2008",
+   "title": "Hotărârea Guvernului nr. 1225/2008 pentru modificarea Contractului-cadru privind condiţiile acordării asistenţei medicale în cadrul sistemului de asigurări sociale de sănătate pentru anul 2008, aprobat prin Hotărârea Guvernului nr. 324/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97796",
+   "versions": [
+    {
+     "from": "2008-10-03",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97796",
+     "sha256": "26f1276f0f73c7d6271b162cae3f35e4189a78a3a8d65ad902d4b0e00e7b3738"
+    }
+   ]
+  },
+  {
    "slug": "hg-1225-2011",
    "path": "hg/2011/1225",
    "short": "HG nr. 1225/2011",
@@ -116179,6 +116704,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/289192",
      "sha256": "55d1ad2f903be0b1768c96bb8325d58e362ffd5b1b0a9278e7433117e7522744"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1227-2008",
+   "path": "hg/2008/1227",
+   "short": "HG nr. 1227/2008",
+   "title": "Hotărârea Guvernului nr. 1227/2008 privind completarea art. 8 din Hotărârea Guvernului nr. 996/2008 pentru aprobarea Normelor referitoare la provenienţa, circulaţia şi comercializarea materialelor lemnoase, la regimul spaţiilor de depozitare a materialelor lemnoase şi al instalaţiilor de prelucrat lemn rotund",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97859",
+   "versions": [
+    {
+     "from": "2008-10-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97859",
+     "sha256": "f95a5b80c2c73a4a11c45b1f1fb7d0c45b2479fb39a44f04ab4650c4f6981d00"
     }
    ]
   },
@@ -265840,6 +266380,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/205692",
      "sha256": "613d762b0ba690b567e27924109c511713d5f200e716441f16f36aab07bd3b10"
+    }
+   ]
+  },
+  {
+   "slug": "oug-120-2008",
+   "path": "oug/2008/120",
+   "short": "OUG nr. 120/2008",
+   "title": "Ordonanța de urgență a Guvernului nr. 120/2008 privind transmiterea unei părţi dintr-un imobil, aflat în domeniul public al statului, din administrarea Ministerului Apărării în administrarea Academiei Române",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97810",
+   "versions": [
+    {
+     "from": "2008-10-06",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97810",
+     "sha256": "10bdbc74f58a9dabf4efbdd31a94d98a0bdb44289404a79ea4c0837d33ecdbdc"
     }
    ]
   },
