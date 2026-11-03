@@ -107660,6 +107660,21 @@
    ]
   },
   {
+   "slug": "hg-1053-2012",
+   "path": "hg/2012/1053",
+   "short": "HG nr. 1053/2012",
+   "title": "Hotărârea Guvernului nr. 1053/2012 pentru modificarea Hotărârii Guvernului nr. 975/2012 privind acordarea unor ajutoare de urgenţă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/142381",
+   "versions": [
+    {
+     "from": "2012-10-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142381",
+     "sha256": "f48dcbb15d89e9a43a6790c7debf5b4742c83929655725cacf21ed44c7f528bd"
+    }
+   ]
+  },
+  {
    "slug": "hg-1053-2013",
    "path": "hg/2013/1053",
    "short": "HG nr. 1053/2013",
@@ -108691,6 +108706,21 @@
      "units": 29,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/97706",
      "sha256": "8d1ed3a75ec752172ee8db9456e6303198ef3fe1dd43c5c6ce7515c1fb8e8c6e"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1061-2012",
+   "path": "hg/2012/1061",
+   "short": "HG nr. 1061/2012",
+   "title": "Hotărârea Guvernului nr. 1061/2012 pentru modificarea anexei nr. 2.4 la Hotărârea Guvernului nr. 363/2010 privind aprobarea standardelor de cost pentru obiective de investiţii finanţate din fonduri publice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/142803",
+   "versions": [
+    {
+     "from": "2012-11-14",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142803",
+     "sha256": "b83f74126c3e8425fc9a6586f242c602b215f45a90c430f6beb77a9005629a2f"
     }
    ]
   },
@@ -115165,6 +115195,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97546",
      "sha256": "8d700647b63aa587bea3f5a9e74b090ba8936919dbc74579361206cd9f7c8cbc"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1110-2012",
+   "path": "hg/2012/1110",
+   "short": "HG nr. 1110/2012",
+   "title": "Hotărârea Guvernului nr. 1110/2012 privind încadrarea unui drum judeţean, trecut în domeniul public al statului, în categoria funcţională a drumurilor de interes naţional, precum şi darea unui sector din acesta în administrarea Ministerului Transporturilor şi Infrastructurii, în vederea realizării de către Compania Naţională de Autostrăzi şi Drumuri Naţionale din România - S.A. a activităţilor de interes naţional în domeniul administrării drumurilor naţionale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/142949",
+   "versions": [
+    {
+     "from": "2012-11-20",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142949",
+     "sha256": "df38f227d8766e51fe076e36b4ad96e2594dac63028fbf7086ca631b8f9d2ffc"
     }
    ]
   },
@@ -135112,6 +135157,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/98368",
      "sha256": "07b9a76520d469d08d040febdc9f547725a5f7672c8709e50daa8bde3fa69b62"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1307-2012",
+   "path": "hg/2012/1307",
+   "short": "HG nr. 1307/2012",
+   "title": "Hotărârea Guvernului nr. 1307/2012 pentru abrogarea Hotărârii Guvernului nr. 975/2012 privind acordarea unor ajutoare de urgenţă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/144186",
+   "versions": [
+    {
+     "from": "2012-12-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/144186",
+     "sha256": "437542e0103a09e7ec7975bd0102aaa7b62d51b7431d9751bcd9e187d0bcb428"
     }
    ]
   },
@@ -187241,6 +187301,21 @@
    ]
   },
   {
+   "slug": "hg-33-2013",
+   "path": "hg/2013/33",
+   "short": "HG nr. 33/2013",
+   "title": "Hotărârea Guvernului nr. 33/2013 pentru modificarea şi completarea Hotărârii Guvernului nr. 2.408/2004 privind metodologia de acordare de la bugetul de stat şi/sau de la bugetele locale a diferenţei dintre tarife şi costuri în transportul feroviar public de călători",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/145103",
+   "versions": [
+    {
+     "from": "2013-02-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/145103",
+     "sha256": "4dec9f6e1cca8647c0b120dab4308973abf0af002de7c107e3aaf710ac5c6715"
+    }
+   ]
+  },
+  {
    "slug": "hg-33-2015",
    "path": "hg/2015/33",
    "short": "HG nr. 33/2015",
@@ -235616,6 +235691,21 @@
    ]
   },
   {
+   "slug": "hg-575-2012",
+   "path": "hg/2012/575",
+   "short": "HG nr. 575/2012",
+   "title": "Hotărârea Guvernului nr. 575/2012 privind numirea unui consul general",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/138646",
+   "versions": [
+    {
+     "from": "2012-06-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/138646",
+     "sha256": "9237794568c191169dc9b9927019e41e6a2a6f17ba7d4b3634535cea924e9d2d"
+    }
+   ]
+  },
+  {
    "slug": "hg-575-2016",
    "path": "hg/2016/575",
    "short": "HG nr. 575/2016",
@@ -265060,6 +265150,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95790",
      "sha256": "b2ef3f946f47d5f20300795882932c03a902738f59fdc86b3337e49fc40f5f9a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-728-2012",
+   "path": "hg/2012/728",
+   "short": "HG nr. 728/2012",
+   "title": "Hotărârea Guvernului nr. 728/2012 pentru modificarea anexei la Hotărârea Guvernului nr. 683/2012 privind aprobarea programului calendaristic pentru realizarea acţiunilor necesare desfăşurării referendumului naţional din data de 29 iulie 2012 pentru demiterea Preşedintelui României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/140018",
+   "versions": [
+    {
+     "from": "2012-07-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/140018",
+     "sha256": "5123717930eadd595d20782197b97447a7e2ab67a524142ea702f8d0130e917c"
     }
    ]
   },
