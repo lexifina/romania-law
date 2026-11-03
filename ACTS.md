@@ -1,6 +1,6 @@
 # Every act in this repository
 
-6415 acts, 18,348 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+6425 acts, 18,377 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -3313,7 +3313,7 @@
 | Ordonanța de urgență a Guvernului nr. 78/2025 pentru modificarea Legii nr. 239/2025 privind stabilirea unor măsuri de redresare și eficientizare a resurselor publice și pentru modificarea și completarea unor acte normative | [`oug/2025/78/`](oug/2025/78/) | amending act | 1 | 2025-12-17 | 2025-12-17 |
 | Ordonanța de urgență a Guvernului nr. 87/2025 pentru stabilirea unor măsuri bugetare privind implementarea programelor naționale din domeniul lucrărilor publice | [`oug/2025/87/`](oug/2025/87/) | in force | 1 | 2025-12-24 | 2025-12-24 |
 
-## Ordinances (OG) (450, of which 87 amending acts)
+## Ordinances (OG) (451, of which 87 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -3409,6 +3409,7 @@
 | Ordonanța Guvernului nr. 80/2000 | [`og/2000/80/`](og/2000/80/) | in force | 7 | 2000-08-30 | 2021-04-16 |
 | Ordonanța Guvernului nr. 81/2000 | [`og/2000/81/`](og/2000/81/) | in force | 11 | 2000-08-30 | 2024-02-17 |
 | Ordonanța Guvernului nr. 82/2000 | [`og/2000/82/`](og/2000/82/) | in force | 5 | 2000-08-30 | 2013-06-19 |
+| Ordonanța Guvernului nr. 83/2000 | [`og/2000/83/`](og/2000/83/) | in force | 2 | 2000-09-01 | 2001-01-01 |
 | Ordonanța Guvernului nr. 89/2000 | [`og/2000/89/`](og/2000/89/) | in force | 8 | 2000-09-01 | 2018-10-02 |
 | Ordonanța Guvernului nr. 101/2000 | [`og/2000/101/`](og/2000/101/) | in force | 1 | 2000-09-03 | 2000-09-03 |
 | Ordonanța Guvernului nr. 109/2000 | [`og/2000/109/`](og/2000/109/) | in force | 3 | 2000-09-02 | 2006-11-26 |
@@ -3768,7 +3769,7 @@
 | Ordonanța Guvernului nr. 21/2025 pentru modificarea și completarea Legii nr. 431/2023 privind asigurarea unui nivel minim global de impozitare a grupurilor de întreprinderi multinaționale și a grupurilor naționale de mari dimensiuni | [`og/2025/21/`](og/2025/21/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 | Ordonanța Guvernului nr. 22/2025 pentru modificarea și completarea Legii nr. 227/2015 privind Codul fiscal | [`og/2025/22/`](og/2025/22/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 
-## Government decisions (HG) (2655, of which 908 amending acts)
+## Government decisions (HG) (2664, of which 909 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -3862,6 +3863,7 @@
 | Hotărârea Guvernului nr. 523/1999 privind interdicţia de a intra pe teritoriul României a unor persoane provenind din Republica Federala Iugoslavia | [`hg/1999/523/`](hg/1999/523/) | in force | 1 | 1999-07-09 | 1999-07-09 |
 | Hotărârea Guvernului nr. 535/1999 | [`hg/1999/535/`](hg/1999/535/) | in force | 1 | 1999-07-07 | 1999-07-07 |
 | Hotărârea Guvernului nr. 625/1999 | [`hg/1999/625/`](hg/1999/625/) | in force | 3 | 1999-08-19 | 2004-01-08 |
+| Hotărârea Guvernului nr. 685/1999 | [`hg/1999/685/`](hg/1999/685/) | in force | 3 | 1999-08-30 | 1999-11-26 |
 | Hotărârea Guvernului nr. 716/1999 privind reorganizarea şi funcţionarea inspectoratelor pentru calitatea seminţelor şi materialului săditor şi a Laboratorului Central pentru Controlul Calităţii Seminţelor, precum şi actualizarea limitelor amenzilor prevăzute de Legea nr. 75/1995 | [`hg/1999/716/`](hg/1999/716/) | in force | 3 | 1999-09-15 | 2002-09-12 |
 | Hotărârea Guvernului nr. 720/1999 | [`hg/1999/720/`](hg/1999/720/) | in force | 1 | 1999-09-13 | 1999-09-13 |
 | Hotărârea Guvernului nr. 767/1999 | [`hg/1999/767/`](hg/1999/767/) | in force | 2 | 1999-09-24 | 2004-07-12 |
@@ -3954,6 +3956,7 @@
 | Hotărârea Guvernului nr. 167/2002 | [`hg/2002/167/`](hg/2002/167/) | in force | 1 | 2002-03-01 | 2002-03-01 |
 | Hotărârea Guvernului nr. 174/2002 | [`hg/2002/174/`](hg/2002/174/) | in force | 2 | 2002-03-18 | 2014-03-20 |
 | Hotărârea Guvernului nr. 181/2002 | [`hg/2002/181/`](hg/2002/181/) | in force | 1 | 2002-03-05 | 2002-03-05 |
+| Hotărârea Guvernului nr. 182/2002 | [`hg/2002/182/`](hg/2002/182/) | in force | 3 | 2002-03-05 | 2005-07-06 |
 | Hotărârea Guvernului nr. 188/2002 | [`hg/2002/188/`](hg/2002/188/) | in force | 3 | 2002-03-20 | 2007-03-19 |
 | Hotărârea Guvernului nr. 201/2002 | [`hg/2002/201/`](hg/2002/201/) | in force | 2 | 2002-03-22 | 2007-08-07 |
 | Hotărârea Guvernului nr. 202/2002 | [`hg/2002/202/`](hg/2002/202/) | in force | 2 | 2002-03-22 | 2006-05-10 |
@@ -4093,6 +4096,7 @@
 | Hotărârea Guvernului nr. 1203/2003 | [`hg/2003/1203/`](hg/2003/1203/) | in force | 1 | 2003-10-20 | 2003-10-20 |
 | Hotărârea Guvernului nr. 1204/2003 | [`hg/2003/1204/`](hg/2003/1204/) | in force | 1 | 2003-10-20 | 2003-10-20 |
 | Hotărârea Guvernului nr. 1205/2003 | [`hg/2003/1205/`](hg/2003/1205/) | in force | 1 | 2003-10-20 | 2003-10-20 |
+| Hotărârea Guvernului nr. 1208/2003 privind aprobarea Normelor pentru aplicarea Legii minelor nr. 85/2003 | [`hg/2003/1208/`](hg/2003/1208/) | amending act | 1 | 2003-11-04 | 2003-11-04 |
 | Hotărârea Guvernului nr. 1212/2003 privind unele drepturi acordate personalului trimis în misiune permanenta sau temporară în Irak | [`hg/2003/1212/`](hg/2003/1212/) | in force | 2 | 2003-10-27 | 2005-03-28 |
 | Hotărârea Guvernului nr. 1217/2003 | [`hg/2003/1217/`](hg/2003/1217/) | in force | 2 | 2004-01-01 | 2004-08-20 |
 | Hotărârea Guvernului nr. 1290/2003 | [`hg/2003/1290/`](hg/2003/1290/) | in force | 1 | 2003-12-04 | 2003-12-04 |
@@ -4251,6 +4255,7 @@
 | Hotărârea Guvernului nr. 924/2005 | [`hg/2005/924/`](hg/2005/924/) | in force | 1 | 2006-10-01 | 2006-10-01 |
 | Hotărârea Guvernului nr. 930/2005 | [`hg/2005/930/`](hg/2005/930/) | in force | 1 | 2005-10-02 | 2005-10-02 |
 | Hotărârea Guvernului nr. 957/2005 | [`hg/2005/957/`](hg/2005/957/) | in force | 13 | 2005-09-17 | 2025-04-25 |
+| Hotărârea Guvernului nr. 984/2005 | [`hg/2005/984/`](hg/2005/984/) | in force | 6 | 2005-09-18 | 2019-07-28 |
 | Hotărârea Guvernului nr. 991/2005 pentru aprobarea Codului de etică și deontologie al polițistului | [`hg/2005/991/`](hg/2005/991/) | amending act | 1 | 2005-09-07 | 2005-09-07 |
 | Hotărârea Guvernului nr. 1049/2005 | [`hg/2005/1049/`](hg/2005/1049/) | in force | 1 | 2005-09-14 | 2005-09-14 |
 | Hotărârea Guvernului nr. 1063/2005 | [`hg/2005/1063/`](hg/2005/1063/) | in force | 3 | 2005-10-10 | 2024-03-27 |
@@ -4266,6 +4271,7 @@
 | Hotărârea Guvernului nr. 1436/2005 | [`hg/2005/1436/`](hg/2005/1436/) | in force | 1 | 2005-11-25 | 2005-11-25 |
 | Hotărârea Guvernului nr. 1449/2005 | [`hg/2005/1449/`](hg/2005/1449/) | in force | 7 | 2005-12-07 | 2012-12-11 |
 | Hotărârea Guvernului nr. 1469/2005 | [`hg/2005/1469/`](hg/2005/1469/) | in force | 1 | 2005-12-08 | 2005-12-08 |
+| Hotărârea Guvernului nr. 1481/2005 | [`hg/2005/1481/`](hg/2005/1481/) | in force | 2 | 2005-12-05 | 2008-01-11 |
 | Hotărârea Guvernului nr. 1514/2005 | [`hg/2005/1514/`](hg/2005/1514/) | in force | 1 | 2005-12-09 | 2005-12-09 |
 | Hotărârea Guvernului nr. 1579/2005 | [`hg/2005/1579/`](hg/2005/1579/) | in force | 1 | 2006-02-09 | 2006-02-09 |
 | Hotărârea Guvernului nr. 1581/2005 | [`hg/2005/1581/`](hg/2005/1581/) | in force | 1 | 2006-01-11 | 2006-01-11 |
@@ -4273,6 +4279,7 @@
 | Hotărârea Guvernului nr. 1825/2005 | [`hg/2005/1825/`](hg/2005/1825/) | in force | 2 | 2006-01-04 | 2006-01-20 |
 | Hotărârea Guvernului nr. 1826/2005 | [`hg/2005/1826/`](hg/2005/1826/) | in force | 1 | 2006-01-06 | 2006-01-06 |
 | Hotărârea Guvernului nr. 1844/2005 | [`hg/2005/1844/`](hg/2005/1844/) | in force | 2 | 2006-01-18 | 2010-10-24 |
+| Hotărârea Guvernului nr. 1850/2005 | [`hg/2005/1850/`](hg/2005/1850/) | in force | 3 | 2006-01-30 | 2021-10-15 |
 | Hotărârea Guvernului nr. 1854/2005 | [`hg/2005/1854/`](hg/2005/1854/) | in force | 1 | 2006-01-26 | 2006-01-26 |
 | Hotărârea Guvernului nr. 1856/2005 | [`hg/2005/1856/`](hg/2005/1856/) | in force | 2 | 2006-01-11 | 2017-05-05 |
 | Hotărârea Guvernului nr. 1872/2005 | [`hg/2005/1872/`](hg/2005/1872/) | in force | 1 | 2006-02-06 | 2006-02-06 |
@@ -4462,6 +4469,7 @@
 | Hotărârea Guvernului nr. 1155/2007 | [`hg/2007/1155/`](hg/2007/1155/) | in force | 1 | 2007-10-01 | 2007-10-01 |
 | Hotărârea Guvernului nr. 1156/2007 | [`hg/2007/1156/`](hg/2007/1156/) | in force | 1 | 2007-10-01 | 2007-10-01 |
 | Hotărârea Guvernului nr. 1157/2007 | [`hg/2007/1157/`](hg/2007/1157/) | in force | 1 | 2007-10-01 | 2007-10-01 |
+| Hotărârea Guvernului nr. 1165/2007 | [`hg/2007/1165/`](hg/2007/1165/) | in force | 2 | 2007-10-10 | 2009-01-01 |
 | Hotărârea Guvernului nr. 1175/2007 pentru aprobarea Normelor de efectuare a activității de transport rutier de mărfuri periculoase în România | [`hg/2007/1175/`](hg/2007/1175/) | amending act | 1 | 2007-10-15 | 2007-10-15 |
 | Hotărârea Guvernului nr. 1198/2007 privind suplimentarea bugetului Cancelariei Primului-Ministru din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2007, pentru Agenţia Naţională pentru Sport | [`hg/2007/1198/`](hg/2007/1198/) | in force | 2 | 2007-10-11 | 2007-11-20 |
 | Hotărârea Guvernului nr. 1204/2007 | [`hg/2007/1204/`](hg/2007/1204/) | in force | 2 | 2007-12-16 | 2012-10-11 |
@@ -4572,6 +4580,7 @@
 | Hotărârea Guvernului nr. 56/2009 | [`hg/2009/56/`](hg/2009/56/) | in force | 1 | 2009-02-16 | 2009-02-16 |
 | Hotărârea Guvernului nr. 57/2009 | [`hg/2009/57/`](hg/2009/57/) | in force | 2 | 2009-02-09 | 2009-12-09 |
 | Hotărârea Guvernului nr. 76/2009 | [`hg/2009/76/`](hg/2009/76/) | in force | 6 | 2009-02-13 | 2012-07-13 |
+| Hotărârea Guvernului nr. 110/2009 | [`hg/2009/110/`](hg/2009/110/) | in force | 3 | 2009-03-02 | 2012-08-21 |
 | Hotărârea Guvernului nr. 112/2009 | [`hg/2009/112/`](hg/2009/112/) | in force | 4 | 2009-03-02 | 2010-03-26 |
 | Hotărârea Guvernului nr. 186/2009 | [`hg/2009/186/`](hg/2009/186/) | in force | 11 | 2009-02-27 | 2024-01-01 |
 | Hotărârea Guvernului nr. 215/2009 | [`hg/2009/215/`](hg/2009/215/) | in force | 2 | 2009-03-09 | 2018-01-26 |
@@ -4740,6 +4749,7 @@
 | Hotărârea Guvernului nr. 461/2011 | [`hg/2011/461/`](hg/2011/461/) | in force | 2 | 2011-05-12 | 2015-07-21 |
 | Hotărârea Guvernului nr. 494/2011 | [`hg/2011/494/`](hg/2011/494/) | repealed 2021-09-24 | 5 | 2011-06-02 | 2021-09-24 |
 | Hotărârea Guvernului nr. 500/2011 | [`hg/2011/500/`](hg/2011/500/) | in force | 4 | 2011-08-01 | 2017-08-07 |
+| Hotărârea Guvernului nr. 556/2011 | [`hg/2011/556/`](hg/2011/556/) | in force | 4 | 2011-06-22 | 2017-10-20 |
 | Hotărârea Guvernului nr. 593/2011 | [`hg/2011/593/`](hg/2011/593/) | in force | 6 | 2011-06-20 | 2019-12-03 |
 | Hotărârea Guvernului nr. 620/2011 | [`hg/2011/620/`](hg/2011/620/) | in force | 1 | 2011-06-28 | 2011-06-28 |
 | Hotărârea Guvernului nr. 629/2011 | [`hg/2011/629/`](hg/2011/629/) | in force | 1 | 2011-06-28 | 2011-06-28 |
