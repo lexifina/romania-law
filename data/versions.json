@@ -9497,6 +9497,21 @@
    ]
   },
   {
+   "slug": "hg-1183-2021",
+   "path": "hg/2021/1183",
+   "short": "HG nr. 1183/2021",
+   "title": "Hotărârea Guvernului nr. 1183/2021 privind prelungirea stării de alertă pe teritoriul României începând cu data de 9 noiembrie 2021, precum şi stabilirea măsurilor care se aplică pe durata acesteia pentru prevenirea şi combaterea efectelor pandemiei de COVID-19",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/248311",
+   "versions": [
+    {
+     "from": "2021-11-09",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/248311",
+     "sha256": "99f0a74625a0099edee54ffef2f31dc392135af3cafffbbf66b07fac874cbfb5"
+    }
+   ]
+  },
+  {
    "slug": "hg-12-2021",
    "path": "hg/2021/12",
    "short": "HG nr. 12/2021",
@@ -9698,6 +9713,21 @@
    ]
   },
   {
+   "slug": "hg-1883-2006",
+   "path": "hg/2006/1883",
+   "short": "HG nr. 1883/2006",
+   "title": "Hotărârea Guvernului nr. 1883/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/78476",
+   "versions": [
+    {
+     "from": "2007-01-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/78476",
+     "sha256": "fc833a9501876b69c4feba133b2e3c4c4701927e64502c0f7c2996fd5f8f68d1"
+    }
+   ]
+  },
+  {
    "slug": "hg-1915-2006",
    "path": "hg/2006/1915",
    "short": "HG nr. 1915/2006",
@@ -9824,6 +9854,21 @@
    ]
   },
   {
+   "slug": "hg-256-2006",
+   "path": "hg/2006/256",
+   "short": "HG nr. 256/2006",
+   "title": "Hotărârea Guvernului nr. 256/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/69536",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/69536",
+     "sha256": "24c4bfde124e1a54a5b427af0fae2209dcb901d0b9070e7a64b0168a06bb2d96"
+    }
+   ]
+  },
+  {
    "slug": "hg-28-2008",
    "path": "hg/2008/28",
    "short": "HG nr. 28/2008",
@@ -9929,6 +9974,33 @@
    ]
   },
   {
+   "slug": "hg-367-2022",
+   "path": "hg/2022/367",
+   "short": "HG nr. 367/2022",
+   "title": "Hotărârea Guvernului nr. 367/2022 privind stabilirea unor condiții de asigurare a protecției temporare, precum și pentru modificarea și completarea unor acte normative în domeniul străinilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/252745",
+   "versions": [
+    {
+     "from": "2022-03-18",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/252745",
+     "sha256": "576d057f076f257aba4df8f24c43814c9d051cf957157b1c31020fa5443d7a02"
+    },
+    {
+     "from": "2022-09-02",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/258181",
+     "sha256": "2673892866df4b066c0a996da4ca8c39f025327345bbf9187b9ceac709abd503"
+    },
+    {
+     "from": "2024-05-17",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/282745",
+     "sha256": "433eab56d332130ddd6b036d344c623302594121a7bffd7b72c593b2fdcf2bc0"
+    }
+   ]
+  },
+  {
    "slug": "hg-395-2016",
    "path": "hg/2016/395",
    "short": "HG nr. 395/2016",
@@ -9980,6 +10052,171 @@
    ]
   },
   {
+   "slug": "hg-399-2015",
+   "path": "hg/2015/399",
+   "short": "HG nr. 399/2015",
+   "title": "Hotărârea Guvernului nr. 399/2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/168748",
+   "versions": [
+    {
+     "from": "2015-06-11",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/168748",
+     "sha256": "45b116687a5027d6286c8edae06dde694c713f631fe294f1dfd4c5ef9b0f5b1c"
+    },
+    {
+     "from": "2018-07-11",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/202349",
+     "sha256": "b5f3676f713534f3b460a146d0374cc2c7c8898aaf345e327bc58006f5649ed7"
+    },
+    {
+     "from": "2020-10-26",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/231376",
+     "sha256": "e9b8afede88d41d1fd8222b454983c8473c7396f59c88d4aafb37c4c861ad6a5"
+    },
+    {
+     "from": "2022-06-27",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168748",
+     "sha256": "17585c1af0886b7fe4a465290a9ab859743f5dfd27611840543681367a04681b"
+    }
+   ]
+  },
+  {
+   "slug": "hg-4-2021",
+   "path": "hg/2021/4",
+   "short": "HG nr. 4/2021",
+   "title": "Hotărârea Guvernului nr. 4/2021 pentru stabilirea salariului de bază minim brut pe țară garantat în plată",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/236118",
+   "versions": [
+    {
+     "from": "2021-01-13",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/236118",
+     "sha256": "1aca19fe0e3150e7ca93fee6a845be507cc82ae63f04a5462c2c3d66a3ca15b7"
+    }
+   ]
+  },
+  {
+   "slug": "hg-42-2017",
+   "path": "hg/2017/42",
+   "short": "HG nr. 42/2017",
+   "title": "Hotărârea Guvernului nr. 42/2017",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/226244",
+   "versions": [
+    {
+     "from": "2017-02-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/186336",
+     "sha256": "f8adb75d8c3aafca4b2ae2a74bdffd0a7f288a3b0380c905fa677b6852d15c82"
+    }
+   ]
+  },
+  {
+   "slug": "hg-433-2022",
+   "path": "hg/2022/433",
+   "short": "HG nr. 433/2022",
+   "title": "Hotărârea Guvernului nr. 433/2022 privind aprobarea Nomenclatorului domeniilor și al specializărilor/programelor de studii universitare și a structurii instituțiilor de învățământ superior pentru anul universitar 2022-2023",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/253607",
+   "versions": [
+    {
+     "from": "2022-04-04",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/253607",
+     "sha256": "5df77e708775d034418df038eebfcb6ade14f32224617f9555e556420b7a3c5e"
+    }
+   ]
+  },
+  {
+   "slug": "hg-460-2011",
+   "path": "hg/2011/460",
+   "short": "HG nr. 460/2011",
+   "title": "Hotărârea Guvernului nr. 460/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/198365",
+   "versions": [
+    {
+     "from": "2011-05-12",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/128444",
+     "sha256": "b970cf6fdd2b1423c7f8e024c2d5ff1851cd01faa5c23d9da5020080ac7f88cf"
+    },
+    {
+     "from": "2018-03-12",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/254098",
+     "sha256": "f5890f94961fa7090b071802c6d0194ec435c4ee0f123fd91e42d98298c0c3b4"
+    },
+    {
+     "from": "2022-05-03",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/254098",
+     "sha256": "f5890f94961fa7090b071802c6d0194ec435c4ee0f123fd91e42d98298c0c3b4"
+    }
+   ]
+  },
+  {
+   "slug": "hg-519-1998",
+   "path": "hg/1998/519",
+   "short": "HG nr. 519/1998",
+   "title": "Hotărârea Guvernului nr. 519/1998",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15585",
+   "versions": [
+    {
+     "from": "1998-10-03",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/15585",
+     "sha256": "ecdeef6bac5013b1b394e7655da455cb2c0d146258ce06e42302f29832318ff8"
+    },
+    {
+     "from": "2003-04-12",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/108083",
+     "sha256": "79645a357a040b3408ea218f0300542aa619fdd28cea14e0aa98ba6d17e7d935"
+    },
+    {
+     "from": "2009-06-05",
+     "units": 16,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/108085",
+     "sha256": "3ac5977419ed5cdd43eff38c341dcc81ee0d47ac883aa97fde949e254cf5ae61"
+    }
+   ]
+  },
+  {
+   "slug": "hg-521-1998",
+   "path": "hg/1998/521",
+   "short": "HG nr. 521/1998",
+   "title": "Hotărârea Guvernului nr. 521/1998 privind înființarea Societății Naționale \"Aeroportul Internațional Timișoara\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15582",
+   "versions": [
+    {
+     "from": "1998-10-07",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/15582",
+     "sha256": "0f273c234b0b217d99147202b232dbf5b0c30a1f799be524a6e107aa0c72fe72"
+    },
+    {
+     "from": "2003-02-14",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/230667",
+     "sha256": "d60cc4d22e6905116281a6cee6f4a539cd46314b2f99cd7ff334534f0130f41b"
+    },
+    {
+     "from": "2008-10-15",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/230669",
+     "sha256": "fc74d2b7a8e14f98e82f399cb6f8b00192f1a1f90038b162ac6349062062261e"
+    },
+    {
+     "from": "2020-10-06",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/230671",
+     "sha256": "ae3bd266c6f433dfaf678a566fb12cfaa65cbb7e714530e8ce00e687f58ffd97"
+    }
+   ]
+  },
+  {
    "slug": "hg-523-1998",
    "path": "hg/1998/523",
    "short": "HG nr. 523/1998",
@@ -10013,6 +10250,21 @@
    ]
   },
   {
+   "slug": "hg-531-2021",
+   "path": "hg/2021/531",
+   "short": "HG nr. 531/2021",
+   "title": "Hotărârea Guvernului nr. 531/2021 privind prelungirea stării de alertă pe teritoriul României începând cu data de 13 mai 2021, precum și stabilirea măsurilor care se aplică pe durata acesteia pentru prevenirea și combaterea efectelor pandemiei de COVID-19",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/242170",
+   "versions": [
+    {
+     "from": "2021-05-11",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/242170",
+     "sha256": "3019337578137f62c3baee7d728e1b3a0e7385b668e612ef0fc9f4a05452aa93"
+    }
+   ]
+  },
+  {
    "slug": "hg-547-2005",
    "path": "hg/2005/547",
    "short": "HG nr. 547/2005",
@@ -10024,6 +10276,36 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/63110",
      "sha256": "5d7d51acac55329fe0ed723fd39254f7bf4d1d42f14548e84e3f9b31b9f391ad"
+    }
+   ]
+  },
+  {
+   "slug": "hg-581-2001",
+   "path": "hg/2001/581",
+   "short": "HG nr. 581/2001",
+   "title": "Hotărârea Guvernului nr. 581/2001",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/29358",
+   "versions": [
+    {
+     "from": "2001-07-06",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/29358",
+     "sha256": "1008e20f5a0b4d3c9eab383eaf6ee0edfacacfd0faa8d5926a81f98e99580b4a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-583-2001",
+   "path": "hg/2001/583",
+   "short": "HG nr. 583/2001",
+   "title": "Hotărârea Guvernului nr. 583/2001",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/29294",
+   "versions": [
+    {
+     "from": "2001-06-29",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/29294",
+     "sha256": "05e546bd2cd4c5c2b0880c0f1a4f65010a5ea13b2041885f96751024f4f0f037"
     }
    ]
   },
@@ -10049,6 +10331,36 @@
    ]
   },
   {
+   "slug": "hg-77-2003",
+   "path": "hg/2003/77",
+   "short": "HG nr. 77/2003",
+   "title": "Hotărârea Guvernului nr. 77/2003 privind instituirea unor măsuri pentru prevenirea accidentelor montane și organizarea activității de salvare în munți",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/41760",
+   "versions": [
+    {
+     "from": "2003-05-14",
+     "units": 44,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/41760",
+     "sha256": "7363c7acb47dcdc72be89bcd5cdd62a311a6d8a3d3d311d1d8010fc327a1f96e"
+    }
+   ]
+  },
+  {
+   "slug": "hg-775-2005",
+   "path": "hg/2005/775",
+   "short": "HG nr. 775/2005",
+   "title": "Hotărârea Guvernului nr. 775/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/63743",
+   "versions": [
+    {
+     "from": "2005-07-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/63743",
+     "sha256": "2107a19f59a5216625f36679004037ec53c34cda79eedebf7195224324107c1a"
+    }
+   ]
+  },
+  {
    "slug": "hg-864-2003",
    "path": "hg/2003/864",
    "short": "HG nr. 864/2003",
@@ -10066,6 +10378,27 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/45330",
      "sha256": "2dcc75e66cd698c23c00b4fbc92b85dcdf148b91d14858e3ea0749cf01930b13"
+    }
+   ]
+  },
+  {
+   "slug": "hg-971-2006",
+   "path": "hg/2006/971",
+   "short": "HG nr. 971/2006",
+   "title": "Hotărârea Guvernului nr. 971/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/74127",
+   "versions": [
+    {
+     "from": "2006-10-01",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/74127",
+     "sha256": "ed9ba697fac8849fe648e321dfce6cc9820bb475a2eef4664ddc8e59de498bfb"
+    },
+    {
+     "from": "2015-06-01",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168528",
+     "sha256": "1e0ccfd159df4a3aed8f8a0e07bc0df47ae9f837b00a4c531c821f66272c1b20"
     }
    ]
   },
@@ -138875,27 +139208,6 @@
    ]
   },
   {
-   "slug": "oug-11-2009",
-   "path": "oug/2009/11",
-   "short": "OUG nr. 11/2009",
-   "title": "Ordonanța de urgență a Guvernului nr. 11/2009",
-   "url": "https://legislatie.just.ro/Public/DetaliiDocument/202016",
-   "versions": [
-    {
-     "from": "2009-03-04",
-     "units": 1,
-     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/103009",
-     "sha256": "8c3de619a6c65f1051baf76684ed2de14c781e43813e72f58ccc004a527f65ad"
-    },
-    {
-     "from": "2009-10-11",
-     "units": 1,
-     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/202016",
-     "sha256": "9a7c2bc00a576be56323771d57ee98687eab1360f927d105c71da91bbbe765ee"
-    }
-   ]
-  },
-  {
    "slug": "oug-11-2012",
    "path": "oug/2012/11",
    "short": "OUG nr. 11/2012",
@@ -160063,6 +160375,27 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/282761",
      "sha256": "fd3428a521d22894b8a963cf07141e84536f5052eac9e7c68904d5024c4cb0b7"
+    }
+   ]
+  },
+  {
+   "slug": "oug-11-2009",
+   "path": "oug/2009/11",
+   "short": "OUG nr. 11/2009",
+   "title": "Ordonanța de urgență a Guvernului nr. 11/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/202016",
+   "versions": [
+    {
+     "from": "2009-03-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/103009",
+     "sha256": "8c3de619a6c65f1051baf76684ed2de14c781e43813e72f58ccc004a527f65ad"
+    },
+    {
+     "from": "2009-10-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/202016",
+     "sha256": "9a7c2bc00a576be56323771d57ee98687eab1360f927d105c71da91bbbe765ee"
     }
    ]
   }

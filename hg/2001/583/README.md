@@ -1,0 +1,22 @@
+# Hotărârea Guvernului nr. 583/2001
+
+HG nr. 583/2001 · 1 versions, from 2001-06-29 (latest in force: 2001-06-29) · <https://legislatie.just.ro/Public/DetaliiDocument/29294>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Art. 1 | [art-001.md](art-001.md) | 0 |  |
+| Art. 2 | [art-002.md](art-002.md) | 0 |  |
+| Art. 3 | [art-003.md](art-003.md) | 0 |  |
+| Art. 4 | [art-004.md](art-004.md) | 0 |  |
+| Art. 5 | [art-005.md](art-005.md) | 0 |  |
+
+Act id: `hg-583-2001` (tags `hg-583-2001/<day>`; `python tools/on.py <day> hg-583-2001`).
+
+## Decisions made by hand
+
+- HG nr. 583/2001: added 2026-11-02, one of the Portalul legislativ's consolidated forms per version, as for the other acts. A capture was used only if it was complete and the page showed the form its document id stands for. The forms are those listed by DetaliiDocumentAfis/29294 as captured on 2026-02-08, the newest capture of any of the act's pages: 0 forms, 0 held.
+- HG nr. 583/2001: the newest form held is that of 29.06.2001; amendments in force after it may be missing.
+- HG nr. 583/2001: built by Lexifina with the default rules: the forms are those the portal lists, each version is dated by its form or by the notes it prints, and no rule or ruling made for this act alone was applied. Two parses are identical, the newest form read afresh equals the latest version article by article, and every article a form leaves out is settled by the standing rules.
+- HG nr. 583/2001: the first version is the Government decision as published in Monitorul Oficial nr. 349 of 29 June 2001 (DetaliiDocumentAfis/29294), dated 29 June 2001: a Government decision with no day of its own, in force on publication (Legea nr. 24/2000 art. 12 alin. (3)). The portal lists no consolidated form of it, so the text as published is its only version; the act page (DetaliiDocument/29294) prints the same text.
+- HG nr. 583/2001: the signature block after the last article (the signatories, the place, the date and the number) is not part of an article and is left out, as in every act of this record.
+- HG nr. 583/2001: art. 5 applies the decision's provisions from June 2001 ("se aplică începând cu luna iunie 2001"), read as 1 June 2001, before its publication on 29 June 2001; those provisions are shown from the decision's own day, its publication, as for Legea nr. 30/2019 and Legea nr. 129/2018. The web service's 2001-06-01 (its id 29294) is that earlier day and is not followed.
