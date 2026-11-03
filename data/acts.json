@@ -64959,6 +64959,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/20767"
 },
 {
+"slug": "hg-173-2000",
+"path": "hg/2000/173",
+"kind": "hg",
+"year": "2000",
+"number": "173",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 173/2000",
+"short": "HG nr. 173/2000",
+"code": null,
+"status": "in force",
+"versions": 4,
+"from": "2000-03-28",
+"latest": "2007-08-30",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/121580"
+},
+{
 "slug": "hg-227-2000",
 "path": "hg/2000/227",
 "kind": "hg",
@@ -67458,6 +67475,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/65818"
 },
 {
+"slug": "hg-90-2003",
+"path": "hg/2003/90",
+"kind": "hg",
+"year": "2003",
+"number": "90",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 90/2003",
+"short": "HG nr. 90/2003",
+"code": null,
+"status": "repealed 2017-11-23",
+"versions": 3,
+"from": "2003-02-07",
+"latest": "2017-11-23",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/60912"
+},
+{
 "slug": "hg-92-2003",
 "path": "hg/2003/92",
 "kind": "hg",
@@ -67983,6 +68017,23 @@
 "from": "2003-05-12",
 "latest": "2005-04-25",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/43674"
+},
+{
+"slug": "hg-492-2003",
+"path": "hg/2003/492",
+"kind": "hg",
+"year": "2003",
+"number": "492",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 492/2003 privind organizarea şi funcţionarea Regiei Autonome \"Administraţia Fluviala a Dunării de Jos\" Galaţi",
+"short": "HG nr. 492/2003",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2003-05-12",
+"latest": "2003-05-12",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/43635"
 },
 {
 "slug": "hg-506-2003",
@@ -70127,6 +70178,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/232111"
 },
 {
+"slug": "hg-1666-2004",
+"path": "hg/2004/1666",
+"kind": "hg",
+"year": "2004",
+"number": "1666",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 1666/2004 pentru aprobarea Normelor de aplicare a Legii nr. 329/2003 privind exercitarea profesiei de detectiv particular",
+"short": "HG nr. 1666/2004",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2004-10-27",
+"latest": "2004-10-27",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/56151"
+},
+{
 "slug": "hg-1693-2004",
 "path": "hg/2004/1693",
 "kind": "hg",
@@ -70363,6 +70431,23 @@
 "from": "2004-12-20",
 "latest": "2004-12-20",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/57936"
+},
+{
+"slug": "hg-2104-2004",
+"path": "hg/2004/2104",
+"kind": "hg",
+"year": "2004",
+"number": "2104",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 2104/2004 pentru aprobarea Metodologiei privind criteriile de dimensionare a numărului de funcţii din aparatul serviciilor publice comunitare de evidenţă a persoanelor, constituirea patrimoniului şi managementul resurselor umane, financiare şi materiale",
+"short": "HG nr. 2104/2004",
+"code": null,
+"status": "amending act",
+"versions": 2,
+"from": "2004-12-03",
+"latest": "2005-03-02",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/57331"
 },
 {
 "slug": "hg-2108-2004",
@@ -70907,6 +70992,23 @@
 "from": "2005-04-19",
 "latest": "2005-04-19",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/60956"
+},
+{
+"slug": "hg-349-2005",
+"path": "hg/2005/349",
+"kind": "hg",
+"year": "2005",
+"number": "349",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 349/2005",
+"short": "HG nr. 349/2005",
+"code": null,
+"status": "repealed 2021-08-21",
+"versions": 4,
+"from": "2005-06-09",
+"latest": "2021-08-21",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/61498"
 },
 {
 "slug": "hg-361-2005",
@@ -71961,6 +72063,23 @@
 "from": "2006-02-06",
 "latest": "2006-02-06",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/68694"
+},
+{
+"slug": "hg-1876-2005",
+"path": "hg/2005/1876",
+"kind": "hg",
+"year": "2005",
+"number": "1876",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 1876/2005",
+"short": "HG nr. 1876/2005",
+"code": null,
+"status": "in force",
+"versions": 2,
+"from": "2006-09-01",
+"latest": "2007-07-12",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/68307"
 },
 {
 "slug": "hg-1-2006",
@@ -86921,6 +87040,40 @@
 "from": "2017-01-17",
 "latest": "2020-01-28",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/185767"
+},
+{
+"slug": "hg-20-2017",
+"path": "hg/2017/20",
+"kind": "hg",
+"year": "2017",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 20/2017",
+"short": "HG nr. 20/2017",
+"code": null,
+"status": "repealed 2020-01-28",
+"versions": 4,
+"from": "2017-01-17",
+"latest": "2020-01-28",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/195378"
+},
+{
+"slug": "hg-21-2017",
+"path": "hg/2017/21",
+"kind": "hg",
+"year": "2017",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 21/2017",
+"short": "HG nr. 21/2017",
+"code": null,
+"status": "repealed 2020-02-17",
+"versions": 7,
+"from": "2017-01-20",
+"latest": "2020-02-17",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/185820"
 },
 {
 "slug": "hg-22-2017",

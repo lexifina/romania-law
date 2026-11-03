@@ -1,6 +1,6 @@
 # Every act in this repository
 
-6425 acts, 18,377 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+6434 acts, 18,405 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -3769,7 +3769,7 @@
 | Ordonanța Guvernului nr. 21/2025 pentru modificarea și completarea Legii nr. 431/2023 privind asigurarea unui nivel minim global de impozitare a grupurilor de întreprinderi multinaționale și a grupurilor naționale de mari dimensiuni | [`og/2025/21/`](og/2025/21/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 | Ordonanța Guvernului nr. 22/2025 pentru modificarea și completarea Legii nr. 227/2015 privind Codul fiscal | [`og/2025/22/`](og/2025/22/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 
-## Government decisions (HG) (2664, of which 909 amending acts)
+## Government decisions (HG) (2673, of which 911 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -3871,6 +3871,7 @@
 | Hotărârea Guvernului nr. 1024/1999 | [`hg/1999/1024/`](hg/1999/1024/) | in force | 1 | 1999-12-16 | 1999-12-16 |
 | Hotărârea Guvernului nr. 1031/1999 | [`hg/1999/1031/`](hg/1999/1031/) | in force | 1 | 1999-12-17 | 1999-12-17 |
 | Hotărârea Guvernului nr. 73/2000 | [`hg/2000/73/`](hg/2000/73/) | in force | 1 | 2000-02-01 | 2000-02-01 |
+| Hotărârea Guvernului nr. 173/2000 | [`hg/2000/173/`](hg/2000/173/) | in force | 4 | 2000-03-28 | 2007-08-30 |
 | Hotărârea Guvernului nr. 227/2000 | [`hg/2000/227/`](hg/2000/227/) | in force | 2 | 2000-04-05 | 2016-08-01 |
 | Hotărârea Guvernului nr. 244/2000 pentru aprobarea Normelor metodologice de aplicare a Legii concediului paternal nr. 210/1999 | [`hg/2000/244/`](hg/2000/244/) | amending act | 1 | 2000-04-11 | 2000-04-11 |
 | Hotărârea Guvernului nr. 332/2000 | [`hg/2000/332/`](hg/2000/332/) | in force | 1 | 2000-04-27 | 2000-04-27 |
@@ -4018,6 +4019,7 @@
 | Hotărârea Guvernului nr. 59/2003 | [`hg/2003/59/`](hg/2003/59/) | in force | 2 | 2003-02-06 | 2004-05-26 |
 | Hotărârea Guvernului nr. 77/2003 privind instituirea unor măsuri pentru prevenirea accidentelor montane și organizarea activității de salvare în munți | [`hg/2003/77/`](hg/2003/77/) | in force | 1 | 2003-05-14 | 2003-05-14 |
 | Hotărârea Guvernului nr. 85/2003 | [`hg/2003/85/`](hg/2003/85/) | in force | 2 | 2003-02-01 | 2004-07-12 |
+| Hotărârea Guvernului nr. 90/2003 | [`hg/2003/90/`](hg/2003/90/) | repealed 2017-11-23 | 3 | 2003-02-07 | 2017-11-23 |
 | Hotărârea Guvernului nr. 92/2003 | [`hg/2003/92/`](hg/2003/92/) | in force | 1 | 2003-02-25 | 2003-02-25 |
 | Hotărârea Guvernului nr. 133/2003 pentru modificarea Hotărârii Guvernului nr. 521/1998 privind înființarea Societății Naționale "Aeroportul Internațional Timișoara" - S.A. | [`hg/2003/133/`](hg/2003/133/) | amending act | 1 | 2003-02-14 | 2003-02-14 |
 | Hotărârea Guvernului nr. 146/2003 | [`hg/2003/146/`](hg/2003/146/) | in force | 1 | 2003-02-20 | 2003-02-20 |
@@ -4049,6 +4051,7 @@
 | Hotărârea Guvernului nr. 449/2003 | [`hg/2003/449/`](hg/2003/449/) | in force | 2 | 2003-05-07 | 2011-08-16 |
 | Hotărârea Guvernului nr. 452/2003 privind desfășurarea activității de agrement nautic | [`hg/2003/452/`](hg/2003/452/) | in force | 2 | 2003-04-23 | 2020-09-29 |
 | Hotărârea Guvernului nr. 479/2003 | [`hg/2003/479/`](hg/2003/479/) | in force | 2 | 2003-05-12 | 2005-04-25 |
+| Hotărârea Guvernului nr. 492/2003 privind organizarea şi funcţionarea Regiei Autonome "Administraţia Fluviala a Dunării de Jos" Galaţi | [`hg/2003/492/`](hg/2003/492/) | in force | 1 | 2003-05-12 | 2003-05-12 |
 | Hotărârea Guvernului nr. 506/2003 | [`hg/2003/506/`](hg/2003/506/) | in force | 1 | 2003-04-25 | 2003-04-25 |
 | Hotărârea Guvernului nr. 522/2003 | [`hg/2003/522/`](hg/2003/522/) | in force | 1 | 2003-05-21 | 2003-05-21 |
 | Hotărârea Guvernului nr. 556/2003 | [`hg/2003/556/`](hg/2003/556/) | in force | 1 | 2003-05-30 | 2003-05-30 |
@@ -4175,6 +4178,7 @@
 | Hotărârea Guvernului nr. 1550/2004 | [`hg/2004/1550/`](hg/2004/1550/) | in force | 2 | 2004-10-01 | 2005-02-28 |
 | Hotărârea Guvernului nr. 1603/2004 | [`hg/2004/1603/`](hg/2004/1603/) | in force | 2 | 2004-10-18 | 2005-05-03 |
 | Hotărârea Guvernului nr. 1640/2004 privind stabilirea unor măsuri pentru organizarea și funcționarea Muzeului Costumelor Populare din România | [`hg/2004/1640/`](hg/2004/1640/) | in force | 4 | 2004-10-20 | 2005-07-19 |
+| Hotărârea Guvernului nr. 1666/2004 pentru aprobarea Normelor de aplicare a Legii nr. 329/2003 privind exercitarea profesiei de detectiv particular | [`hg/2004/1666/`](hg/2004/1666/) | amending act | 1 | 2004-10-27 | 2004-10-27 |
 | Hotărârea Guvernului nr. 1693/2004 | [`hg/2004/1693/`](hg/2004/1693/) | in force | 4 | 2004-10-21 | 2022-02-14 |
 | Hotărârea Guvernului nr. 1697/2004 | [`hg/2004/1697/`](hg/2004/1697/) | in force | 1 | 2004-10-28 | 2004-10-28 |
 | Hotărârea Guvernului nr. 1723/2004 | [`hg/2004/1723/`](hg/2004/1723/) | in force | 2 | 2004-11-02 | 2005-12-09 |
@@ -4189,6 +4193,7 @@
 | Hotărârea Guvernului nr. 1997/2004 | [`hg/2004/1997/`](hg/2004/1997/) | in force | 2 | 2004-12-22 | 2010-04-30 |
 | Hotărârea Guvernului nr. 2074/2004 | [`hg/2004/2074/`](hg/2004/2074/) | in force | 1 | 2004-12-20 | 2004-12-20 |
 | Hotărârea Guvernului nr. 2082/2004 pentru aprobarea Regulamentului de organizare și funcționare a Institutului Național de Cercetare-Dezvoltare pentru Științe Biologice București | [`hg/2004/2082/`](hg/2004/2082/) | amending act | 1 | 2004-12-20 | 2004-12-20 |
+| Hotărârea Guvernului nr. 2104/2004 pentru aprobarea Metodologiei privind criteriile de dimensionare a numărului de funcţii din aparatul serviciilor publice comunitare de evidenţă a persoanelor, constituirea patrimoniului şi managementul resurselor umane, financiare şi materiale | [`hg/2004/2104/`](hg/2004/2104/) | amending act | 2 | 2004-12-03 | 2005-03-02 |
 | Hotărârea Guvernului nr. 2108/2004 | [`hg/2004/2108/`](hg/2004/2108/) | in force | 1 | 2004-12-10 | 2004-12-10 |
 | Hotărârea Guvernului nr. 2151/2004 | [`hg/2004/2151/`](hg/2004/2151/) | in force | 1 | 2005-01-12 | 2005-01-12 |
 | Hotărârea Guvernului nr. 2155/2004 | [`hg/2004/2155/`](hg/2004/2155/) | in force | 1 | 2004-12-20 | 2004-12-20 |
@@ -4221,6 +4226,7 @@
 | Hotărârea Guvernului nr. 269/2005 | [`hg/2005/269/`](hg/2005/269/) | in force | 1 | 2005-04-13 | 2005-04-13 |
 | Hotărârea Guvernului nr. 284/2005 privind stabilirea cuantumului şi condiţiilor de acordare a compensaţiei lunare pentru chirie cuvenite poliţiştilor | [`hg/2005/284/`](hg/2005/284/) | in force | 2 | 2005-04-19 | 2023-10-23 |
 | Hotărârea Guvernului nr. 293/2005 | [`hg/2005/293/`](hg/2005/293/) | in force | 1 | 2005-04-19 | 2005-04-19 |
+| Hotărârea Guvernului nr. 349/2005 | [`hg/2005/349/`](hg/2005/349/) | repealed 2021-08-21 | 4 | 2005-06-09 | 2021-08-21 |
 | Hotărârea Guvernului nr. 361/2005 | [`hg/2005/361/`](hg/2005/361/) | in force | 4 | 2005-04-29 | 2013-08-08 |
 | Hotărârea Guvernului nr. 401/2005 | [`hg/2005/401/`](hg/2005/401/) | in force | 2 | 2005-05-16 | 2006-02-09 |
 | Hotărârea Guvernului nr. 448/2005 | [`hg/2005/448/`](hg/2005/448/) | in force | 2 | 2005-07-10 | 2009-12-11 |
@@ -4283,6 +4289,7 @@
 | Hotărârea Guvernului nr. 1854/2005 | [`hg/2005/1854/`](hg/2005/1854/) | in force | 1 | 2006-01-26 | 2006-01-26 |
 | Hotărârea Guvernului nr. 1856/2005 | [`hg/2005/1856/`](hg/2005/1856/) | in force | 2 | 2006-01-11 | 2017-05-05 |
 | Hotărârea Guvernului nr. 1872/2005 | [`hg/2005/1872/`](hg/2005/1872/) | in force | 1 | 2006-02-06 | 2006-02-06 |
+| Hotărârea Guvernului nr. 1876/2005 | [`hg/2005/1876/`](hg/2005/1876/) | in force | 2 | 2006-09-01 | 2007-07-12 |
 | Hotărârea Guvernului nr. 1/2006 | [`hg/2006/1/`](hg/2006/1/) | in force | 1 | 2006-01-06 | 2006-01-06 |
 | Hotărârea Guvernului nr. 37/2006 | [`hg/2006/37/`](hg/2006/37/) | in force | 1 | 2006-01-19 | 2006-01-19 |
 | Hotărârea Guvernului nr. 94/2006 | [`hg/2006/94/`](hg/2006/94/) | in force | 1 | 2006-01-29 | 2006-01-29 |
@@ -5163,6 +5170,8 @@
 | Hotărârea Guvernului nr. 13/2017 | [`hg/2017/13/`](hg/2017/13/) | in force | 2 | 2017-01-16 | 2018-05-02 |
 | Hotărârea Guvernului nr. 16/2017 privind organizarea și funcționarea Ministerului Afacerilor Externe | [`hg/2017/16/`](hg/2017/16/) | in force | 13 | 2017-01-16 | 2025-04-07 |
 | Hotărârea Guvernului nr. 19/2017 privind organizarea și funcționarea Ministerului Mediului și pentru modificarea unor acte normative | [`hg/2017/19/`](hg/2017/19/) | amending act | 3 | 2017-01-17 | 2020-01-28 |
+| Hotărârea Guvernului nr. 20/2017 | [`hg/2017/20/`](hg/2017/20/) | repealed 2020-01-28 | 4 | 2017-01-17 | 2020-01-28 |
+| Hotărârea Guvernului nr. 21/2017 | [`hg/2017/21/`](hg/2017/21/) | repealed 2020-02-17 | 7 | 2017-01-20 | 2020-02-17 |
 | Hotărârea Guvernului nr. 22/2017 privind organizarea și funcționarea Ministerului pentru Relația cu Parlamentul | [`hg/2017/22/`](hg/2017/22/) | repealed 2020-02-17 | 4 | 2017-01-17 | 2020-02-17 |
 | Hotărârea Guvernului nr. 24/2017 privind organizarea și funcționarea Ministerului Turismului | [`hg/2017/24/`](hg/2017/24/) | in force | 3 | 2017-01-17 | 2018-09-21 |
 | Hotărârea Guvernului nr. 26/2017 | [`hg/2017/26/`](hg/2017/26/) | in force | 3 | 2017-01-18 | 2018-09-20 |

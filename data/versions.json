@@ -12080,6 +12080,21 @@
    ]
   },
   {
+   "slug": "hg-1666-2004",
+   "path": "hg/2004/1666",
+   "short": "HG nr. 1666/2004",
+   "title": "Hotărârea Guvernului nr. 1666/2004 pentru aprobarea Normelor de aplicare a Legii nr. 329/2003 privind exercitarea profesiei de detectiv particular",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/56151",
+   "versions": [
+    {
+     "from": "2004-10-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/56151",
+     "sha256": "0e27d3ef47247d2ec5c632aa76385e8305546004f66fba7fd4477842168b0b9d"
+    }
+   ]
+  },
+  {
    "slug": "hg-1678-2008",
    "path": "hg/2008/1678",
    "short": "HG nr. 1678/2008",
@@ -12229,6 +12244,39 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/56316",
      "sha256": "d70cd268a3de5702bd10b1d642f0beb09091f3d8fc778d241686d850a116a8d2"
+    }
+   ]
+  },
+  {
+   "slug": "hg-173-2000",
+   "path": "hg/2000/173",
+   "short": "HG nr. 173/2000",
+   "title": "Hotărârea Guvernului nr. 173/2000",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/121580",
+   "versions": [
+    {
+     "from": "2000-03-28",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/21689",
+     "sha256": "db11ea1112135ead18325306652659d31a9014812be6b40e5491ea31ebd84a3c"
+    },
+    {
+     "from": "2005-04-19",
+     "units": 22,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121578",
+     "sha256": "d57127e88088fc19b888b606250cfd03cc83be5ef3b276102f02f0398fc6e7ee"
+    },
+    {
+     "from": "2007-03-19",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121579",
+     "sha256": "dc70edca369a2f018604fe11bb6e0987e24afd2e9b9dcf883df0944eaeee2ac8"
+    },
+    {
+     "from": "2007-08-30",
+     "units": 25,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121580",
+     "sha256": "15b7c1166f3366ecec825f19c2d0d283b62fc8c2ff974e03e89e5dab05239fd7"
     }
    ]
   },
@@ -12437,6 +12485,27 @@
    ]
   },
   {
+   "slug": "hg-1876-2005",
+   "path": "hg/2005/1876",
+   "short": "HG nr. 1876/2005",
+   "title": "Hotărârea Guvernului nr. 1876/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/68307",
+   "versions": [
+    {
+     "from": "2006-09-01",
+     "units": 30,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/68307",
+     "sha256": "a04c2b1d78da2de3bcadcae56be988d2a359ef7dcff7bd9c275c23ed0e38d625"
+    },
+    {
+     "from": "2007-07-12",
+     "units": 27,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/68307",
+     "sha256": "491522e1dcfff505ef6aa4b7d6b98b1653ac73cad6ac5ad6e145db5eeec0e6dd"
+    }
+   ]
+  },
+  {
    "slug": "hg-1883-2006",
    "path": "hg/2006/1883",
    "short": "HG nr. 1883/2006",
@@ -12463,6 +12532,39 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/78500",
      "sha256": "479716454ec9d2908160dac74c72e46d12d9f88ff03b5a178a3c04df11995a77"
+    }
+   ]
+  },
+  {
+   "slug": "hg-20-2017",
+   "path": "hg/2017/20",
+   "short": "HG nr. 20/2017",
+   "title": "Hotărârea Guvernului nr. 20/2017",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/195378",
+   "versions": [
+    {
+     "from": "2017-01-17",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/185769",
+     "sha256": "41740294e3070104b138682927418d6269c768c5563deba0766ac83a2832db68"
+    },
+    {
+     "from": "2017-07-31",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/191403",
+     "sha256": "b7ca928316dfd32f02a5955de99e936824fc6b60db92e7d422726ce3a31dc5eb"
+    },
+    {
+     "from": "2017-12-19",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/195378",
+     "sha256": "89f33ec0b6ae92a2f77a8f54f96e7f44f82a4b615910fd15eaf7e422ffe3fd07"
+    },
+    {
+     "from": "2020-01-28",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/296098",
+     "sha256": "b4e1193305da34df0b602390d5eaa50548e329e6c734ef2d6389d627d0854889"
     }
    ]
   },
@@ -12604,6 +12706,78 @@
      "units": 20,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/201210",
      "sha256": "3bc825a63f0c78c5092d1a281ff60bd8d46f036609a936bba268aa5cd20aa816"
+    }
+   ]
+  },
+  {
+   "slug": "hg-21-2017",
+   "path": "hg/2017/21",
+   "short": "HG nr. 21/2017",
+   "title": "Hotărârea Guvernului nr. 21/2017",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/185820",
+   "versions": [
+    {
+     "from": "2017-01-20",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/185820",
+     "sha256": "67485ff33924b5006095fa46057f15c1864907107baa9cbfa35bf5de4dcd29eb"
+    },
+    {
+     "from": "2017-08-24",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/192272",
+     "sha256": "a695d9ff2fe0ef64b3b79369d559dbe09122f8097e8d3c6d1d796b32e867a9c0"
+    },
+    {
+     "from": "2018-03-29",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/198972",
+     "sha256": "eebfb0c072243cae006c703549f9e0d55652fa62cbffb4ee3f5c78c7918b5eb8"
+    },
+    {
+     "from": "2018-07-17",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/202423",
+     "sha256": "bc6a0f1949eb1908f6eae3b672c001ce7e2383e9021b780dbdcb48d3817de404"
+    },
+    {
+     "from": "2019-03-08",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/211381",
+     "sha256": "3235999740b5318e4d6b0befd0b600dc1fd93a30ae4b6484f135184382c3ec02"
+    },
+    {
+     "from": "2019-09-09",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/217715",
+     "sha256": "60ff861c964e2aa8c8b78db0baa924405a6eee41791195c102cb7f36fd764e76"
+    },
+    {
+     "from": "2020-02-17",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/244649",
+     "sha256": "449744a34e8c6859b2c17bfc9f3a33cc7f08c69e0f24d2bc6400ef4de231043d"
+    }
+   ]
+  },
+  {
+   "slug": "hg-2104-2004",
+   "path": "hg/2004/2104",
+   "short": "HG nr. 2104/2004",
+   "title": "Hotărârea Guvernului nr. 2104/2004 pentru aprobarea Metodologiei privind criteriile de dimensionare a numărului de funcţii din aparatul serviciilor publice comunitare de evidenţă a persoanelor, constituirea patrimoniului şi managementul resurselor umane, financiare şi materiale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/57331",
+   "versions": [
+    {
+     "from": "2004-12-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/57331",
+     "sha256": "665f454201624e4ba709a36d53275375792a149b18ff338cf4530863a144c8b4"
+    },
+    {
+     "from": "2005-03-02",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/65814",
+     "sha256": "f0cf34168a77fdb9387d02583d98af13b00fd7c4890f6dca7ade95da9efb3cdd"
     }
    ]
   },
@@ -13639,6 +13813,39 @@
      "units": 24,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/267696",
      "sha256": "ffde2c2f60cc131f4795758c1fbcdfd9effef152949dde8d9231aae693e994a3"
+    }
+   ]
+  },
+  {
+   "slug": "hg-349-2005",
+   "path": "hg/2005/349",
+   "short": "HG nr. 349/2005",
+   "title": "Hotărârea Guvernului nr. 349/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/61498",
+   "versions": [
+    {
+     "from": "2005-06-09",
+     "units": 38,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/61498",
+     "sha256": "1a27223b7e18c7810124709dcc1f2aeebb2ee69aed4fc6f0699805a2aacb2e91"
+    },
+    {
+     "from": "2007-03-19",
+     "units": 38,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121325",
+     "sha256": "06c8d7b2b6a1d8b2037d6d0f259c3b4ee4bd2a72f2943a0f50a358ec4c815863"
+    },
+    {
+     "from": "2010-12-22",
+     "units": 38,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/143549",
+     "sha256": "f399fc69cad3af602d28b16d49035494033c15840c948828d7350e43b3294dbb"
+    },
+    {
+     "from": "2021-08-21",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/245381",
+     "sha256": "bf74464447334f9b0dbd6dd42ada3aee8ba8b5aca102d0bc9eac42f1eb446986"
     }
    ]
   },
@@ -14692,6 +14899,21 @@
      "units": 8,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/16884",
      "sha256": "b0238143cc5afcac561236bdae35b7ecfbcd506dc30eaa9308919596c117b8a6"
+    }
+   ]
+  },
+  {
+   "slug": "hg-492-2003",
+   "path": "hg/2003/492",
+   "short": "HG nr. 492/2003",
+   "title": "Hotărârea Guvernului nr. 492/2003 privind organizarea şi funcţionarea Regiei Autonome \"Administraţia Fluviala a Dunării de Jos\" Galaţi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43635",
+   "versions": [
+    {
+     "from": "2003-05-12",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43635",
+     "sha256": "137871f11bcf05150c3ad1df6c5ee1f86e036818849c944828c861c0454dfc17"
     }
    ]
   },
@@ -17461,6 +17683,33 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/286381",
      "sha256": "d3cf395d0e3eb6e5764ab45ba43c12c4aaf31fc46529da78d4d486b25a0edd99"
+    }
+   ]
+  },
+  {
+   "slug": "hg-90-2003",
+   "path": "hg/2003/90",
+   "short": "HG nr. 90/2003",
+   "title": "Hotărârea Guvernului nr. 90/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/60912",
+   "versions": [
+    {
+     "from": "2003-02-07",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/41677",
+     "sha256": "8cd6cfb3bd80f7e56b59c79286b525ff186119c3cb5c12ab75c4d5f5724796a8"
+    },
+    {
+     "from": "2005-01-01",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/60913",
+     "sha256": "15e910a822b54ce449eba1d951685f37f014fb8198f04ca26e9e674826cb2e23"
+    },
+    {
+     "from": "2017-11-23",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/194962",
+     "sha256": "6609a8c01bd954c49ed0b3d093e88f7a10cd43b8f88985874c86392c330a3afc"
     }
    ]
   },
