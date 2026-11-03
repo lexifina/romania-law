@@ -1,6 +1,6 @@
 # Every act in this repository
 
-9810 acts, 23,203 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+9811 acts, 23,209 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -2213,7 +2213,7 @@
 | Legea nr. 190/2026 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 81/2021 privind aprobarea metodelor de intervenţie imediată pentru prevenirea şi combaterea atacurilor exemplarelor de urs brun asupra persoanelor şi bunurilor acestora, precum şi pentru modificarea şi completarea unor acte normative | [`lege/2026/190/`](lege/2026/190/) | amending act | 1 | 2026-10-08 | 2026-10-08 |
 | Legea nr. 205/2026 pentru completarea Ordonanţei Guvernului nr. 22/2002 privind executarea obligaţiilor de plată ale instituţiilor publice, stabilite prin titluri executorii | [`lege/2026/205/`](lege/2026/205/) | amending act | 1 | 2026-11-02 | 2026-11-02 |
 
-## Emergency ordinances (OUG) (1563, of which 539 amending acts)
+## Emergency ordinances (OUG) (1564, of which 539 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -3038,6 +3038,7 @@
 | Ordonanța de urgență a Guvernului nr. 36/2016 | [`oug/2016/36/`](oug/2016/36/) | in force | 2 | 2016-06-30 | 2017-04-07 |
 | Ordonanța de urgență a Guvernului nr. 38/2016 | [`oug/2016/38/`](oug/2016/38/) | in force | 1 | 2016-06-30 | 2016-06-30 |
 | Ordonanța de urgență a Guvernului nr. 39/2016 | [`oug/2016/39/`](oug/2016/39/) | in force | 2 | 2016-06-30 | 2017-01-01 |
+| Ordonanța de urgență a Guvernului nr. 40/2016 | [`oug/2016/40/`](oug/2016/40/) | in force | 6 | 2016-06-30 | 2019-03-01 |
 | Ordonanța de urgență a Guvernului nr. 41/2016 | [`oug/2016/41/`](oug/2016/41/) | in force | 6 | 2016-06-30 | 2023-07-04 |
 | Ordonanța de urgență a Guvernului nr. 42/2016 | [`oug/2016/42/`](oug/2016/42/) | in force | 2 | 2016-06-30 | 2017-04-09 |
 | Ordonanța de urgență a Guvernului nr. 43/2016 | [`oug/2016/43/`](oug/2016/43/) | in force | 2 | 2016-08-31 | 2017-07-01 |

@@ -85175,6 +85175,51 @@
    ]
   },
   {
+   "slug": "oug-40-2016",
+   "path": "oug/2016/40",
+   "short": "OUG nr. 40/2016",
+   "title": "Ordonanța de urgență a Guvernului nr. 40/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/210895",
+   "versions": [
+    {
+     "from": "2016-06-30",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/179585",
+     "sha256": "effa5cf0d9f4206325c5e607cbe9eac6dc66cfe42ef68515404988ac77e002de"
+    },
+    {
+     "from": "2016-08-08",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180736",
+     "sha256": "55309b03b8176d5a1bdcad8ed504c0f94d5060f982c5a44a9a999b7752d9c5fd"
+    },
+    {
+     "from": "2017-01-05",
+     "units": 11,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/185260",
+     "sha256": "35603c3b1464275e0fb1f856c058f2e0bc099a88b74cb9cd05b2ceec9dfa14d4"
+    },
+    {
+     "from": "2018-01-31",
+     "units": 10,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/196991",
+     "sha256": "e5acf74fb4767c6702e0d208500e2397648fdc77f55360ef6b190c1e56b58355"
+    },
+    {
+     "from": "2018-05-14",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/200430",
+     "sha256": "e5d3daa3ff501629bff6562974e433816f519cf742bfde3b26a92327e93e6d9a"
+    },
+    {
+     "from": "2019-03-01",
+     "units": 11,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/210895",
+     "sha256": "832a1f9fb2cd82a14d114d1c411ff0cef9e708ce05c3692ac8d752365b16fecc"
+    }
+   ]
+  },
+  {
    "slug": "oug-41-2014",
    "path": "oug/2014/41",
    "short": "OUG nr. 41/2014",
