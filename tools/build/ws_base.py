@@ -162,7 +162,8 @@ def base_units(text: str, pad: int = 3, norm=None, quoted: bool = False) -> dict
         body_start = t.index('\n') + 1
         m = WU.EU_NOTE.search(t, body_start)
         if m and m.start() > body_start and len(t[m.start():].split()) <= 120:
-            out[last]['text'] = t[:m.start()].rstrip() + '\n'
+            # with the note's own marker ("*** Prezenta hotărâre transpune ..."), not left as a line of its own
+            out[last]['text'] = re.sub(r'\n\*{1,4}$', '', t[:m.start()].rstrip()) + '\n'
     return out
 
 

@@ -30161,6 +30161,45 @@
    ]
   },
   {
+   "slug": "legea-137-1995",
+   "path": "lege/1995/137",
+   "short": "Legea nr. 137/1995",
+   "title": "Legea nr. 137/1995",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/6385",
+   "versions": [
+    {
+     "from": "1995-12-30",
+     "units": 89,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/6385",
+     "sha256": "ac9a2a2705b93723a1d4a8ff2daf11c1ed29c6052fef46601287df3db01a5115"
+    },
+    {
+     "from": "2000-02-17",
+     "units": 90,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/21008",
+     "sha256": "88630168927bfc944a9acaba083f881787bab0d396d4d39bdc569846a5cbaaff"
+    },
+    {
+     "from": "2002-09-10",
+     "units": 104,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38377",
+     "sha256": "50fdcfde72e73d4f7edd542d1e390acfb50276307e4b328042ad1bd9c9a37dfb"
+    },
+    {
+     "from": "2003-07-24",
+     "units": 106,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/6385",
+     "sha256": "370624eec3dab1f738a3287d6c043902dc48a85ca931a787f728eb02c7dd1323"
+    },
+    {
+     "from": "2006-01-29",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/67634",
+     "sha256": "7032bfcfe93024e27a592613927380987b0f083f9d5d77b3e156a6a97b1d6306"
+    }
+   ]
+  },
+  {
    "slug": "legea-137-2002",
    "path": "lege/2002/137",
    "short": "Legea nr. 137/2002",

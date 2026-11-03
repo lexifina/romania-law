@@ -1,6 +1,6 @@
 # Every act in this repository
 
-8245 acts, 21,102 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+8246 acts, 21,107 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -32,7 +32,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (1954, of which 762 amending acts)
+## Laws (legi) (1955, of which 762 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -165,6 +165,7 @@
 | Legea nr. 126/1995 | [`lege/1995/126/`](lege/1995/126/) | in force | 13 | 1996-01-27 | 2025-12-31 |
 | Legea nr. 134/1995 | [`lege/1995/134/`](lege/1995/134/) | in force | 3 | 1996-03-28 | 2004-02-11 |
 | Legea nr. 136/1995 | [`lege/1995/136/`](lege/1995/136/) | repealed 2017-07-12 | 12 | 1996-02-01 | 2017-07-12 |
+| Legea nr. 137/1995 | [`lege/1995/137/`](lege/1995/137/) | repealed 2006-01-29 | 5 | 1995-12-30 | 2006-01-29 |
 | Legea cadastrului și a publicității imobiliare nr. 7/1996 | [`lege/1996/7/`](lege/1996/7/) | in force | 51 | 1996-06-24 | 2026-03-13 |
 | Legea nr. 8/1996 privind dreptul de autor și drepturile conexe | [`lege/1996/8/`](lege/1996/8/) | in force | 21 | 1996-06-24 | 2022-05-01 |
 | Legea nr. 16/1996 | [`lege/1996/16/`](lege/1996/16/) | in force | 11 | 1996-04-09 | 2024-07-25 |

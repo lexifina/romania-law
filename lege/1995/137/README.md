@@ -1,0 +1,21 @@
+# Legea nr. 137/1995
+
+Legea nr. 137/1995 · 5 versions, from 1995-12-30 (latest in force: 2006-01-29) · <https://legislatie.just.ro/Public/DetaliiDocument/6385>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+
+Act id: `legea-137-1995` (tags `legea-137-1995/<day>`; `python tools/on.py <day> legea-137-1995`).
+
+## Decisions made by hand
+
+- Legea nr. 137/1995: added 2026-11-02, one of the Portalul legislativ's consolidated forms per version, as for the other acts. A capture was used only if it was complete and the page showed the form its document id stands for. The forms are those listed by DetaliiDocument/6385 as captured on 2025-12-13, the newest capture of any of the act's pages: 3 forms, 3 held.
+- Legea nr. 137/1995: the newest form held is that of 24.07.2003; amendments in force after it may be missing.
+- Legea nr. 137/1995: the first version is the law as published in Monitorul Oficial nr. 304 of 30 December 1995 (DetaliiDocumentAfis/6385), dated 30 December 1995: it sets no day of its own, so in force on publication (Constituția of 1991, art. 78, which applied until 29 October 2003). The portal holds no consolidated form before 17 February 2000, so the changes made up to then arrive together that day.
+- Legea nr. 137/1995: the republication of 17 February 2000 (21008) is credited, for the changes no note explains, to Legea nr. 159/1999, under whose art. II it was republished, as its own note says.
+- Legea nr. 137/1995: repealed in full by art. 105 lit. a) of OUG nr. 195/2005 (enacted 22 December 2005, published in Monitorul Oficial nr. 1.196 of 30 December 2005), read as published (DetaliiDocumentAfis/67634), which names the whole act with no exception, on the day that ordinance took effect, 30 days after its publication (its art. 104; art. 105 is not among its exceptions): 29 January 2006. The record ends with a version that removes every article, credited to OUG nr. 195/2005. The newest text the portal holds is that of 24 July 2003, so any amendment between that day and the repeal is missing.
+- Legea nr. 137/1995: the republication of 17 February 2000 (Monitorul Oficial nr. 70) names the law that ordered it, art. II of Legea nr. 159/1999, which no note links; its entry is read from the official web service's record of that law as published (document 19626: Monitorul Oficial nr. 512 of 22 October 1999).
+- Legea nr. 137/1995: the forms of 10 September 2002 and 24 July 2003 print, under arts. 7^2, 8, 11, 12, 13 and 17^2, the sentences of arts. 2 and 3 of Ordonanța de urgență nr. 91/2002 that set deadlines for the Government decisions and ministerial orders implementing them ("Se aprobă prin hotărâre a Guvernului: ... c) prevederile cuprinse la art. 13 alin. 3, în termen de 180 de zile ..."), introduced by a note naming that ordinance; they are another act's text reproduced by the publisher and are left out (EDITORIAL_LINES).
+- Legea nr. 137/1995: the form of 10 September 2002 prints arts. 7^1-7^3 with no note; the next form's notes say Ordonanța de urgență nr. 91/2002 (Monitorul Oficial nr. 465 of 28 June 2002) inserted them, and they are credited to it (flag form_credits). The form of 24 July 2003 rewords arts. 8, 13 alin. (2) and 17^2 under notes naming only that ordinance or none; Legea nr. 294/2003 (Monitorul Oficial nr. 505 of 14 July 2003), which approved it with amendments, makes these changes in its text as published (official web service, document 44933: art. I pct. on art. 8 "inclusiv pentru proiecte de dezafectare", art. 13 alin. 2 "Taxele prevăzute la alin. 1 se fac venit la Fondul pentru mediu.", art. 17^2), and they are credited to it (flag form_credits).
+- Legea nr. 137/1995: the portal editorial notes printed as paragraphs of an article (on a Constitutional Court ruling, a rectification, a provision put back in force) are not text: 17 such paragraphs across all forms, for example «Alin. (2) al art. 13 a fost modificat de LEGEA nr. 294 din 2», «Alin. (3), (5) și (7) ale art. 8 au fost modificate de LEGEA», «Art. 17^2 a fost modificat de LEGEA nr. 294 din 27 iunie 200».
+- Legea nr. 137/1995: 1 changed article(s) with no note naming a law, committed as the publisher's: 2003-07-24 art-023-1.

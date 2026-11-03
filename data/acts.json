@@ -2212,6 +2212,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/6381"
 },
 {
+"slug": "legea-137-1995",
+"path": "lege/1995/137",
+"kind": "lege",
+"year": "1995",
+"number": "137",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 137/1995",
+"short": "Legea nr. 137/1995",
+"code": null,
+"status": "repealed 2006-01-29",
+"versions": 5,
+"from": "1995-12-30",
+"latest": "2006-01-29",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/6385"
+},
+{
 "slug": "legea-7-1996",
 "path": "lege/1996/7",
 "kind": "lege",
