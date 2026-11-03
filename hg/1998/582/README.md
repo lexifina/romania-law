@@ -33,3 +33,10 @@ Act id: `hg-582-1998` (tags `hg-582-1998/<day>`; `python tools/on.py <day> hg-58
 - HG nr. 582/1998: forms listed by the portal that could not be read (in neither archive), so not versions; their changes arrive with the next form held and take its date, though their notes give the earlier day: 20.01.2007 (177330).
 - HG nr. 582/1998: added by Lexifina's automatic pass with the default rules: the forms are those the portal lists, each version is dated by its form or by the notes it prints, and no rule or ruling made for this act alone was applied. It was published only because every automatic check passed: two parses identical, the newest form read afresh equal to the latest version article by article, every article a form leaves out settled by the standing rules, every version dated by a rule or a stated in-force day, and no unexplained change other than diacritics or spacing.
 - HG nr. 582/1998: the first version is the Government decision as published in Monitorul Oficial nr. 350 of 15 September 1998 (DetaliiDocumentAfis/15668), dated 15 September 1998: a Government decision with no day of its own, in force on publication (Legea nr. 24/2000 art. 12 alin. (3)). The portal holds no consolidated form before 1 November 2002, so the changes made up to then arrive together that day.
+
+## Credits corrected
+
+These changes were first published credited to another law. The words are unchanged; `git blame` still names the commit that wrote them, and `data/credits.csv` lists every corrected credit.
+
+- `art-011.md`, in force from 2002-11-01: HG nr. 1199/2002 (first published as no law named).
+- `art-013.md`, in force from 2010-11-17: OUG nr. 37/2008 (first published as no law named).
