@@ -135725,6 +135725,21 @@
    ]
   },
   {
+   "slug": "hg-230-2009",
+   "path": "hg/2009/230",
+   "short": "HG nr. 230/2009",
+   "title": "Hotărârea Guvernului nr. 230/2009 pentru completarea anexei la Hotărârea Guvernului nr. 437/2005 privind aprobarea Listei cu substanţele active autorizate pentru utilizare în produse de protecţie a plantelor pe teritoriul României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/103839",
+   "versions": [
+    {
+     "from": "2009-03-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/103839",
+     "sha256": "d04c4e7829a074cc2eab2b01c3c0447e99f46b3d6e35d6fa7a978a9a1324a8a1"
+    }
+   ]
+  },
+  {
    "slug": "hg-230-2017",
    "path": "hg/2017/230",
    "short": "HG nr. 230/2017",
@@ -140774,6 +140789,21 @@
    ]
   },
   {
+   "slug": "hg-282-2009",
+   "path": "hg/2009/282",
+   "short": "HG nr. 282/2009",
+   "title": "Hotărârea Guvernului nr. 282/2009 pentru modificarea art. 13 din Hotărârea Guvernului nr. 546/2005 privind aprobarea Strategiei de privatizare a Societăţii Comerciale Filiala de Distribuţie şi Furnizare a Energiei Electrice ”Electrica Muntenia Sud” - S.A., a unor măsuri pentru punerea în aplicare a strategiei, precum şi privind constituirea Comisiei pentru coordonarea privatizării acestei societăţi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/103829",
+   "versions": [
+    {
+     "from": "2009-03-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/103829",
+     "sha256": "06d27216dea547f75d895fca726aaf0e424e8561c56641296df0aa45ac7bd69e"
+    }
+   ]
+  },
+  {
    "slug": "hg-282-2016",
    "path": "hg/2016/282",
    "short": "HG nr. 282/2016",
@@ -143894,6 +143924,21 @@
    ]
   },
   {
+   "slug": "hg-314-2009",
+   "path": "hg/2009/314",
+   "short": "HG nr. 314/2009",
+   "title": "Hotărârea Guvernului nr. 314/2009 privind aprobarea Programului anual de marketing şi promovare şi a Programului anual de dezvoltare a produselor turistice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/103903",
+   "versions": [
+    {
+     "from": "2009-03-27",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/103903",
+     "sha256": "0df5f7dd6f68d54b1d5974259678e9520a1c0ac8958df19ea17993dec5b9ae55"
+    }
+   ]
+  },
+  {
    "slug": "hg-314-2018",
    "path": "hg/2018/314",
    "short": "HG nr. 314/2018",
@@ -144178,6 +144223,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/296408",
      "sha256": "5cad738be3b063ca95ebd7405795e65da54638bb2113fcac3e2fae9a99fcc6af"
+    }
+   ]
+  },
+  {
+   "slug": "hg-318-2009",
+   "path": "hg/2009/318",
+   "short": "HG nr. 318/2009",
+   "title": "Hotărârea Guvernului nr. 318/2009 privind trecerea unui imobil din proprietatea privată a statului şi din administrarea Serviciului de Informaţii Externe în proprietatea publică a statului şi în administrarea Ministerului Educaţiei, Cercetării şi Inovării, pentru Universitatea \"Alexandru Ioan Cuza\" din Iaşi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/103977",
+   "versions": [
+    {
+     "from": "2009-03-30",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/103977",
+     "sha256": "faedcd62cfb0f60d9b2ea9c4c36a294c039b6b8f4e1ca95879b023880b3fd63e"
     }
    ]
   },
@@ -144709,6 +144769,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/281695",
      "sha256": "b5358e17ec56c8628c68113e576cf3d849886962bc289aa5e3e9adca6e05a922"
+    }
+   ]
+  },
+  {
+   "slug": "hg-326-2009",
+   "path": "hg/2009/326",
+   "short": "HG nr. 326/2009",
+   "title": "Hotărârea Guvernului nr. 326/2009 privind transmiterea unei părţi dintr-un imobil, aflat în domeniul public al statului şi administrarea Secretariatului General al Guvernului, în administrarea Ministerului Educaţiei, Cercetării şi Inovării",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/103981",
+   "versions": [
+    {
+     "from": "2009-03-30",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/103981",
+     "sha256": "38ad92ba8ef0c66ac1c22ad950d464d9ea0b00ed7acea535162bae70e3bd281b"
     }
    ]
   },
@@ -146639,6 +146714,21 @@
    ]
   },
   {
+   "slug": "hg-345-2009",
+   "path": "hg/2009/345",
+   "short": "HG nr. 345/2009",
+   "title": "Hotărârea Guvernului nr. 345/2009 privind exercitarea, cu caracter temporar, a funcţiei publice de subprefect al judeţului Brăila de către domnul Cîrligea Florin-Eugen",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/103863",
+   "versions": [
+    {
+     "from": "2009-03-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/103863",
+     "sha256": "4243f31c23a25701a370d9ffcc31169a6e584b86a351c031d098e5ce429e11b0"
+    }
+   ]
+  },
+  {
    "slug": "hg-345-2011",
    "path": "hg/2011/345",
    "short": "HG nr. 345/2011",
@@ -146725,6 +146815,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/281715",
      "sha256": "5ff8ba28a0fd47670a6ceb1eb5e502b453c0cf6d689c350b57b06235cf7b5c6a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-346-2009",
+   "path": "hg/2009/346",
+   "short": "HG nr. 346/2009",
+   "title": "Hotărârea Guvernului nr. 346/2009 privind aplicarea mobilităţii pentru domnul Arjoca Sorin-Gabriel din funcţia publică de subprefect al judeţului Gorj în funcţia publică de inspector guvernamental",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/103864",
+   "versions": [
+    {
+     "from": "2009-03-26",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/103864",
+     "sha256": "927eb26b92c6028133aa62c706b813720ba3a81d20b4e74cc1fcfa20bd1e4ad9"
     }
    ]
   },
