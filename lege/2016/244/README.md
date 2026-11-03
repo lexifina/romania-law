@@ -1,0 +1,17 @@
+# Legea nr. 244/2016 pentru ratificarea Protocolului de modificare a Acordului privind înfiinţarea Băncii Internaţionale de Investiţii şi a Statutului acesteia, semnate la 10 iulie 1970 la Moscova, deschis spre semnare la 8 mai 2014 la Havana şi semnat de România la 1 iulie 2015 la Moscova
+
+Legea nr. 244/2016 · 1 versions, from 2016-12-10 (latest in force: 2016-12-10) · <https://legislatie.just.ro/Public/DetaliiDocument/184348>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Articolul UNIC | [art-001.md](art-001.md) | 0 |  |
+
+Act id: `legea-244-2016` (tags `legea-244-2016/<day>`; `python tools/on.py <day> legea-244-2016`).
+
+## Decisions made by hand
+
+- Legea nr. 244/2016: added from the official web service of the Portalul legislativ (FreeWebService): its only version is the act as published (document 184348, retrieved 2026-11-03). No consolidated form exists: a full-text search of the official web service on 2026-11-03 finds no act changing it (nr. 244/2016 and nr. 244 din 29 noiembrie 2016).
+- Legea nr. 244/2016: added by Lexifina's automatic pass with the default rules, and no rule or ruling made for this act alone was applied. It was published only because every automatic check that applies to an act known from the official web service alone passed: two parses identical, issuer, number and in-force day confirmed by the service, and no act changing it found by the full-text search.
+- Legea nr. 244/2016: the first version is the law as published in Monitorul Oficial nr. 984 of 7 December 2016 (document 184348 of the official web service), dated 10 December 2016: it sets no day of its own, so in force 3 days after publication (Constituția art. 78). No consolidated form of it exists, so the text as published is its only version; no page of the act is held.
+- Legea nr. 244/2016: the law has a single article ("Articol unic"), filed as art-001.
+- Legea nr. 244/2016: no page of the act is captured, so its text is the one the Portalul legislativ returns through its official web service (FreeWebService, http://legislatie.just.ro/apiws/FreeWebService.svc), document 184348, retrieved 2026-11-03, the act as published. No consolidated form exists: a full-text search of the official web service on 2026-11-03 finds no act changing it (nr. 244/2016 and nr. 244 din 29 noiembrie 2016), so the act as published is its only version.
