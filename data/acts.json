@@ -4014,6 +4014,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/29202"
 },
 {
+"slug": "legea-326-2001",
+"path": "lege/2001/326",
+"kind": "lege",
+"year": "2001",
+"number": "326",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 326/2001",
+"short": "Legea nr. 326/2001",
+"code": null,
+"status": "in force",
+"versions": 4,
+"from": "2001-07-04",
+"latest": "2003-09-18",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/46357"
+},
+{
 "slug": "legea-332-2001",
 "path": "lege/2001/332",
 "kind": "lege",
@@ -7873,6 +7890,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/245741"
 },
 {
+"slug": "legea-504-2004",
+"path": "lege/2004/504",
+"kind": "lege",
+"year": "2004",
+"number": "504",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 504/2004",
+"short": "Legea nr. 504/2004",
+"code": null,
+"status": "in force",
+"versions": 2,
+"from": "2004-12-29",
+"latest": "2006-05-15",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/72123"
+},
+{
 "slug": "legea-506-2004",
 "path": "lege/2004/506",
 "kind": "lege",
@@ -8279,6 +8313,23 @@
 "from": "2007-01-01",
 "latest": "2018-06-17",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/63291"
+},
+{
+"slug": "legea-231-2005",
+"path": "lege/2005/231",
+"kind": "lege",
+"year": "2005",
+"number": "231",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 231/2005",
+"short": "Legea nr. 231/2005",
+"code": null,
+"status": "repealed 2010-02-02",
+"versions": 6,
+"from": "2005-07-16",
+"latest": "2010-02-02",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/84283"
 },
 {
 "slug": "legea-239-2005",
@@ -12631,6 +12682,23 @@
 "from": "2011-07-17",
 "latest": "2021-12-10",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/129400"
+},
+{
+"slug": "legea-127-2011",
+"path": "lege/2011/127",
+"kind": "lege",
+"year": "2011",
+"number": "127",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 127/2011",
+"short": "Legea nr. 127/2011",
+"code": null,
+"status": "repealed 2019-12-13",
+"versions": 4,
+"from": "2011-06-25",
+"latest": "2019-12-13",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/139297"
 },
 {
 "slug": "legea-130-2011",
@@ -32965,6 +33033,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/51595"
 },
 {
+"slug": "oug-26-2004",
+"path": "oug/2004/26",
+"kind": "oug",
+"year": "2004",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 26/2004",
+"short": "OUG nr. 26/2004",
+"code": null,
+"status": "in force",
+"versions": 6,
+"from": "2004-04-30",
+"latest": "2005-11-20",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/96149"
+},
+{
 "slug": "oug-31-2004",
 "path": "oug/2004/31",
 "kind": "oug",
@@ -34510,6 +34595,23 @@
 "from": "2006-10-09",
 "latest": "2007-11-19",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/210730"
+},
+{
+"slug": "oug-85-2006",
+"path": "oug/2006/85",
+"kind": "oug",
+"year": "2006",
+"number": "85",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 85/2006",
+"short": "OUG nr. 85/2006",
+"code": null,
+"status": "repealed 2025-01-12",
+"versions": 3,
+"from": "2006-11-15",
+"latest": "2025-01-12",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/76819"
 },
 {
 "slug": "oug-86-2006",
@@ -36431,6 +36533,23 @@
 "from": "2008-11-24",
 "latest": "2025-08-16",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/99454"
+},
+{
+"slug": "oug-147-2008",
+"path": "oug/2008/147",
+"kind": "oug",
+"year": "2008",
+"number": "147",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 147/2008 pentru modificarea și completarea Legii cetățeniei române nr. 21/1991",
+"short": "OUG nr. 147/2008",
+"code": null,
+"status": "amending act",
+"versions": 2,
+"from": "2008-11-13",
+"latest": "2009-05-17",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/202402"
 },
 {
 "slug": "oug-150-2008",
@@ -42500,6 +42619,23 @@
 "from": "2016-09-05",
 "latest": "2018-03-10",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/181450"
+},
+{
+"slug": "oug-50-2016",
+"path": "oug/2016/50",
+"kind": "oug",
+"year": "2016",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 50/2016",
+"short": "OUG nr. 50/2016",
+"code": null,
+"status": "in force",
+"versions": 2,
+"from": "2016-09-06",
+"latest": "2017-07-03",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/190502"
 },
 {
 "slug": "oug-51-2016",
@@ -54419,6 +54555,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/103563"
 },
 {
+"slug": "og-51-1994",
+"path": "og/1994/51",
+"kind": "og",
+"year": "1994",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța Guvernului nr. 51/1994 privind drepturile de echipament și materiale de resortul echipamentului, în timp de pace, ale personalului din sectorul de apărare naționala, ordine publică și siguranța naționala",
+"short": "OG nr. 51/1994",
+"code": null,
+"status": "in force",
+"versions": 2,
+"from": "1994-08-29",
+"latest": "1994-12-31",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/4179"
+},
+{
 "slug": "og-65-1994",
 "path": "og/1994/65",
 "kind": "og",
@@ -56935,6 +57088,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/45655"
 },
 {
+"slug": "og-59-2003",
+"path": "og/2003/59",
+"kind": "og",
+"year": "2003",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța Guvernului nr. 59/2003",
+"short": "OG nr. 59/2003",
+"code": null,
+"status": "repealed 2007-07-27",
+"versions": 4,
+"from": "2003-11-27",
+"latest": "2007-07-27",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/54998"
+},
+{
 "slug": "og-79-2003",
 "path": "og/2003/79",
 "kind": "og",
@@ -57698,6 +57868,23 @@
 "from": "2005-09-05",
 "latest": "2006-01-20",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/209892"
+},
+{
+"slug": "og-2-2006",
+"path": "og/2006/2",
+"kind": "og",
+"year": "2006",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța Guvernului nr. 2/2006",
+"short": "OG nr. 2/2006",
+"code": null,
+"status": "in force",
+"versions": 2,
+"from": "2006-01-23",
+"latest": "2006-11-27",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/78172"
 },
 {
 "slug": "og-5-2006",
