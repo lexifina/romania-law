@@ -1,6 +1,6 @@
 # Every act in this repository
 
-12089 acts, 25,663 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+12093 acts, 25,667 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -4545,7 +4545,7 @@
 | Ordonanța Guvernului nr. 21/2025 pentru modificarea și completarea Legii nr. 431/2023 privind asigurarea unui nivel minim global de impozitare a grupurilor de întreprinderi multinaționale și a grupurilor naționale de mari dimensiuni | [`og/2025/21/`](og/2025/21/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 | Ordonanța Guvernului nr. 22/2025 pentru modificarea și completarea Legii nr. 227/2015 privind Codul fiscal | [`og/2025/22/`](og/2025/22/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 
-## Government decisions (HG) (7552, of which 3258 amending acts)
+## Government decisions (HG) (7556, of which 3260 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -6487,9 +6487,13 @@
 | Hotărârea Guvernului nr. 554/2019 privind aprobarea stemei comunei Valea Chioarului, județul Maramureș | [`hg/2019/554/`](hg/2019/554/) | amending act | 1 | 2019-08-13 | 2019-08-13 |
 | Hotărârea Guvernului nr. 555/2019 privind aprobarea stemei comunei Poșaga, județul Alba | [`hg/2019/555/`](hg/2019/555/) | amending act | 1 | 2019-08-13 | 2019-08-13 |
 | Hotărârea Guvernului nr. 556/2019 privind aprobarea stemei comunei Chiliile, județul Buzău | [`hg/2019/556/`](hg/2019/556/) | amending act | 1 | 2019-08-13 | 2019-08-13 |
+| Hotărârea Guvernului nr. 562/2019 pentru aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii "Construire Sală Polivalentă municipiul Tulcea" | [`hg/2019/562/`](hg/2019/562/) | amending act | 1 | 2019-08-08 | 2019-08-08 |
 | Hotărârea Guvernului nr. 563/2019 privind aprobarea stemei comunei Cămărzana, județul Satu Mare | [`hg/2019/563/`](hg/2019/563/) | amending act | 1 | 2019-08-13 | 2019-08-13 |
+| Hotărârea Guvernului nr. 564/2019 privind exercitarea, cu caracter temporar, în condiţiile legii, a funcţiei publice de subprefect al judeţului Olt de către domnul Dumitru Florin | [`hg/2019/564/`](hg/2019/564/) | in force | 1 | 2019-08-08 | 2019-08-08 |
+| Hotărârea Guvernului nr. 565/2019 privind rechemarea şi numirea unui consul general | [`hg/2019/565/`](hg/2019/565/) | in force | 1 | 2019-08-09 | 2019-08-09 |
 | Hotărârea Guvernului nr. 568/2019 privind aprobarea bugetului de venituri şi cheltuieli pe anul 2019 pentru Societatea CONVERSMIN - S.A. Bucureşti, aflată sub autoritatea Ministerului Economiei | [`hg/2019/568/`](hg/2019/568/) | amending act | 1 | 2019-08-12 | 2019-08-12 |
 | Hotărârea Guvernului nr. 569/2019 privind aprobarea bugetului de venituri şi cheltuieli pe anul 2019 al Regiei Autonome "Autoritatea Aeronautică Civilă Română", aflată sub autoritatea Ministerului Transporturilor | [`hg/2019/569/`](hg/2019/569/) | amending act | 1 | 2019-08-12 | 2019-08-12 |
+| Hotărârea Guvernului nr. 570/2019 privind aprobarea bugetului de venituri şi cheltuieli pe anul 2019 al Companiei Naţionale "Aeroporturi - Bucureşti" - S.A., aflată sub autoritatea Ministerului Transporturilor | [`hg/2019/570/`](hg/2019/570/) | amending act | 1 | 2019-08-12 | 2019-08-12 |
 | Hotărârea Guvernului nr. 571/2019 privind aprobarea Strategiei pentru dezvoltarea turismului balnear | [`hg/2019/571/`](hg/2019/571/) | amending act | 1 | 2019-08-27 | 2019-08-27 |
 | Hotărârea Guvernului nr. 573/2019 privind actualizarea caracteristicilor tehnice şi a valorii de inventar ale unui bun imobil aflat în domeniul public al statului şi în administrarea Agenţiei Naţionale de Administrare Fiscală şi transmiterea acestuia în administrarea Direcţiei Generale de Administrare a Marilor Contribuabili | [`hg/2019/573/`](hg/2019/573/) | in force | 1 | 2019-08-13 | 2019-08-13 |
 | Hotărârea Guvernului nr. 574/2019 privind scoaterea unor bunuri din inventarul centralizat al bunurilor din domeniul public al statului aflate în administrarea Regiei Autonome "Administraţia Patrimoniului Protocolului de Stat", prevăzute în anexa nr. 40 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului, ca urmare a restituirii acestora către persoanele îndreptăţite | [`hg/2019/574/`](hg/2019/574/) | amending act | 1 | 2019-08-13 | 2019-08-13 |
