@@ -1,6 +1,6 @@
 # Every act in this repository
 
-11780 acts, 25,354 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+11781 acts, 25,355 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -4516,7 +4516,7 @@
 | Ordonanța Guvernului nr. 21/2025 pentru modificarea și completarea Legii nr. 431/2023 privind asigurarea unui nivel minim global de impozitare a grupurilor de întreprinderi multinaționale și a grupurilor naționale de mari dimensiuni | [`og/2025/21/`](og/2025/21/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 | Ordonanța Guvernului nr. 22/2025 pentru modificarea și completarea Legii nr. 227/2015 privind Codul fiscal | [`og/2025/22/`](og/2025/22/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 
-## Government decisions (HG) (7272, of which 3155 amending acts)
+## Government decisions (HG) (7273, of which 3155 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -6532,6 +6532,7 @@
 | Hotărârea Guvernului nr. 46/2020 pentru stabilirea drepturilor de diurnă, cazare, hrană, facilitarea legăturii cu familia, recreere și transport ale personalului militar și civil participant la misiuni și operații în afara teritoriului statului român | [`hg/2020/46/`](hg/2020/46/) | in force | 1 | 2020-01-27 | 2020-01-27 |
 | Hotărârea Guvernului nr. 48/2020 privind încetarea exercitării, cu caracter temporar, în condiţiile legii, a funcţiei publice de prefect al judeţului Caraş-Severin de către doamna Albu Florenţa-Maria | [`hg/2020/48/`](hg/2020/48/) | in force | 1 | 2020-01-29 | 2020-01-29 |
 | Hotărârea Guvernului nr. 49/2020 privind încetarea exercitării, cu caracter temporar, în condiţiile legii, a funcţiei publice de subprefect al judeţului Olt de către domnul Dumitru Florin | [`hg/2020/49/`](hg/2020/49/) | in force | 1 | 2020-01-29 | 2020-01-29 |
+| Hotărârea Guvernului nr. 50/2020 privind exercitarea, cu caracter temporar, în condiţiile legii, a funcţiei publice de prefect al judeţului Caraş-Severin de către domnul Gâfu Cristian | [`hg/2020/50/`](hg/2020/50/) | in force | 1 | 2020-01-29 | 2020-01-29 |
 | Hotărârea Guvernului nr. 76/2020 pentru completarea art. 10 din Hotărârea Guvernului nr. 1.174/2014 privind instituirea unei scheme de ajutor de stat pentru reducerea accizei la motorina utilizată în agricultură | [`hg/2020/76/`](hg/2020/76/) | amending act | 1 | 2020-01-30 | 2020-01-30 |
 | Hotărârea Guvernului nr. 78/2020 pentru aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii "Clădiri administrative şi bază sportivă în cazarma 914 Bucureşti" | [`hg/2020/78/`](hg/2020/78/) | amending act | 1 | 2020-02-03 | 2020-02-03 |
 | Hotărârea Guvernului nr. 79/2020 pentru aprobarea plăţii contribuţiei financiare voluntare a României, pentru anul 2018, necesare funcţionării Secretariatului Organismului de coordonare al Acordului multilateral al autorităţilor competente privind schimbul de rapoarte pentru fiecare ţară în parte | [`hg/2020/79/`](hg/2020/79/) | amending act | 1 | 2020-01-31 | 2020-01-31 |
