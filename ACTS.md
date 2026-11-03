@@ -1,6 +1,6 @@
 # Every act in this repository
 
-19689 acts, 33,319 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+19700 acts, 33,330 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -5381,7 +5381,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (14317, of which 7284 amending acts)
+## Government decisions (HG) (14328, of which 7288 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -8681,6 +8681,17 @@
 | Hotărârea Guvernului nr. 1018/2012 | [`hg/2012/1018/`](hg/2012/1018/) | in force | 2 | 2012-10-29 | 2019-06-21 |
 | Hotărârea Guvernului nr. 1055/2012 | [`hg/2012/1055/`](hg/2012/1055/) | in force | 1 | 2012-11-01 | 2012-11-01 |
 | Hotărârea Guvernului nr. 1080/2012 | [`hg/2012/1080/`](hg/2012/1080/) | in force | 1 | 2012-11-16 | 2012-11-16 |
+| Hotărârea Guvernului nr. 1127/2012 privind suplimentarea bugetului Ministerului Administraţiei şi Internelor pe anul 2012 din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2012 | [`hg/2012/1127/`](hg/2012/1127/) | in force | 1 | 2012-11-28 | 2012-11-28 |
+| Hotărârea Guvernului nr. 1128/2012 privind alocarea unor sume defalcate din taxa pe valoarea adăugată unităţilor de învăţământ preuniversitar de stat finanţate din bugetele locale | [`hg/2012/1128/`](hg/2012/1128/) | in force | 1 | 2012-11-28 | 2012-11-28 |
+| Hotărârea Guvernului nr. 1129/2012 privind suplimentarea bugetului Ministerului Educaţiei, Cercetării, Tineretului şi Sportului pentru plata titlurilor executorii prevăzute de Ordonanţa de urgenţă a Guvernului nr. 71/2009 privind plata unor sume prevăzute în titluri executorii având ca obiect acordarea de drepturi salariale personalului din sectorul bugetar | [`hg/2012/1129/`](hg/2012/1129/) | in force | 1 | 2012-11-28 | 2012-11-28 |
+| Hotărârea Guvernului nr. 1130/2012 privind suplimentarea bugetului Ministerului Transporturilor şi Infrastructurii din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2012, pentru plata arieratelor | [`hg/2012/1130/`](hg/2012/1130/) | in force | 1 | 2012-11-28 | 2012-11-28 |
+| Hotărârea Guvernului nr. 1131/2012 pentru modificarea Hotărârii Guvernului nr. 975/2011 privind aprobarea ajutoarelor de stat care se acordă producătorilor agricoli pentru perioada 2011-2012 şi a sumei totale alocate acestor ajutoare de stat | [`hg/2012/1131/`](hg/2012/1131/) | amending act | 1 | 2012-11-28 | 2012-11-28 |
+| Hotărârea Guvernului nr. 1132/2012 privind desfiinţarea unor unităţi sanitare publice cu paturi pentru care managementul asistenţei medicale a fost transferat către autorităţile administraţiei publice locale din judeţul Mehedinţi | [`hg/2012/1132/`](hg/2012/1132/) | in force | 1 | 2012-11-28 | 2012-11-28 |
+| Hotărârea Guvernului nr. 1133/2012 pentru aprobarea indicatorilor tehnico-economici aferenţi obiectivului de investiţii "Reabilitare DN 66 Filiaşi-Petroşani km 0 + 000 - km 131 + 000, sector km 48 + 900 - km 93 + 500, Rovinari-Bumbeşti-Jiu", judeţul Gorj | [`hg/2012/1133/`](hg/2012/1133/) | amending act | 1 | 2012-12-03 | 2012-12-03 |
+| Hotărârea Guvernului nr. 1136/2012 pentru aprobarea indicatorilor tehnico-economici aferenţi lucrărilor de intervenţii "Consolidare şi refacere sistem rutier DN 2A km 183 + 500 - km 190 + 750 şi km 192 + 750 - km 205 + 300", judeţul Constanţa | [`hg/2012/1136/`](hg/2012/1136/) | amending act | 1 | 2012-12-03 | 2012-12-03 |
+| Hotărârea Guvernului nr. 1137/2012 privind înscrierea unui imobil în inventarul centralizat al bunurilor din domeniul public al statului şi în administrarea Ministerului Justiţiei - Tribunalul Caraş-Severin şi trecerea acestuia în domeniul public al judeţului Caraş-Severin şi în administrarea Consiliului Judeţean Caraş-Severin | [`hg/2012/1137/`](hg/2012/1137/) | in force | 1 | 2012-12-03 | 2012-12-03 |
+| Hotărârea Guvernului nr. 1138/2012 privind recunoaşterea Asociaţiei DIAKONIEWERK INTERNATIONAL ca fiind de utilitate publică | [`hg/2012/1138/`](hg/2012/1138/) | in force | 1 | 2012-12-03 | 2012-12-03 |
+| Hotărârea Guvernului nr. 1139/2012 pentru abrogarea Hotărârii Guvernului nr. 909/2012 privind finanţarea din bugetul Ministerului Educaţiei, Cercetării, Tineretului şi Sportului pe anul 2012 a unor cheltuieli de capital pentru unităţile de învăţământ preuniversitar de stat | [`hg/2012/1139/`](hg/2012/1139/) | amending act | 1 | 2012-12-03 | 2012-12-03 |
 | Hotărârea Guvernului nr. 1140/2012 privind desfiinţarea Muzeului Cinegetic al Carpaţilor "Posada", secţie din cadrul Muzeului Naţional Peleş | [`hg/2012/1140/`](hg/2012/1140/) | in force | 1 | 2012-12-03 | 2012-12-03 |
 | Hotărârea Guvernului nr. 1141/2012 | [`hg/2012/1141/`](hg/2012/1141/) | in force | 1 | 2012-12-03 | 2012-12-03 |
 | Hotărârea Guvernului nr. 1143/2012 privind ocuparea în anul 2012 a unui număr de 172 de posturi vacante necesare funcţionării serviciilor sociale din judeţele Neamţ, Mureş, Iaşi şi Brăila | [`hg/2012/1143/`](hg/2012/1143/) | in force | 1 | 2012-12-03 | 2012-12-03 |
