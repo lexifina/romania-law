@@ -12,6 +12,7 @@ from __future__ import annotations
 import json
 import os
 import sys
+import time
 from pathlib import Path
 
 
@@ -41,7 +42,14 @@ def main(args: list[str]) -> None:
     else:
         tmp = out.with_suffix('.json.tmp')
         tmp.write_text(text, encoding='utf-8', newline='\n')
-        os.replace(tmp, out)
+        for i in range(20):  # a parse.py reading the file at that moment makes the rename fail on Windows
+            try:
+                os.replace(tmp, out)
+                break
+            except PermissionError:
+                if i == 19:
+                    raise
+                time.sleep(0.5)
         print(f'{out.name}: {len(labels)} keys written')
     for k, labs in sorted(clash.items()):
         print(f'two labels for {k}: {sorted(labs)} (kept {labels[k]!r})', file=sys.stderr)

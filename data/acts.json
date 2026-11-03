@@ -682,6 +682,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/11200"
 },
 {
+"slug": "legea-56-1997",
+"path": "lege/1997/56",
+"kind": "lege",
+"year": "1997",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 56/1997",
+"short": "Legea nr. 56/1997",
+"code": null,
+"status": "in force",
+"versions": 6,
+"from": "1997-04-17",
+"latest": "2022-08-14",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/257145"
+},
+{
 "slug": "legea-215-1997",
 "path": "lege/1997/215",
 "kind": "lege",
@@ -16288,6 +16305,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/241481"
 },
 {
+"slug": "oug-115-2004",
+"path": "oug/2004/115",
+"kind": "oug",
+"year": "2004",
+"number": "115",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 115/2004",
+"short": "OUG nr. 115/2004",
+"code": null,
+"status": "in force",
+"versions": 9,
+"from": "2005-01-01",
+"latest": "2023-06-30",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/268120"
+},
+{
 "slug": "oug-65-2005",
 "path": "oug/2005/65",
 "kind": "oug",
@@ -17748,6 +17782,23 @@
 "from": "2014-06-13",
 "latest": "2022-07-20",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/158913"
+},
+{
+"slug": "oug-41-2014",
+"path": "oug/2014/41",
+"kind": "oug",
+"year": "2014",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 41/2014",
+"short": "OUG nr. 41/2014",
+"code": null,
+"status": "in force",
+"versions": 5,
+"from": "2014-06-26",
+"latest": "2024-12-19",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/291727"
 },
 {
 "slug": "oug-44-2014",
@@ -20140,10 +20191,10 @@
 "title": "Ordonanța de urgență a Guvernului nr. 163/2020 pentru completarea art. 159 din Legea nr. 263/2010 privind sistemul unitar de pensii publice, precum și pentru adoptarea unor măsuri în domeniul asigurării unor persoane în sistemul public de pensii",
 "short": "OUG nr. 163/2020",
 "code": null,
-"status": "amending act",
-"versions": 3,
+"status": "repealed 2024-09-01",
+"versions": 4,
 "from": "2020-09-28",
-"latest": "2023-08-31",
+"latest": "2024-09-01",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/230486"
 },
 {
@@ -22044,10 +22095,10 @@
 "title": "Ordonanța de urgență a Guvernului nr. 15/2022 privind acordarea de sprijin și asistență umanitară de către statul român cetățenilor străini sau apatrizilor aflați în situații deosebite, proveniți din zona conflictului armat din Ucraina",
 "short": "OUG nr. 15/2022",
 "code": null,
-"status": "in force",
-"versions": 7,
+"status": "repealed 2024-06-29",
+"versions": 8,
 "from": "2022-02-27",
-"latest": "2024-03-28",
+"latest": "2024-06-29",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/251954"
 },
 {
