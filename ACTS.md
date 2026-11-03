@@ -1,6 +1,6 @@
 # Every act in this repository
 
-1792 acts, 8,097 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+1794 acts, 8,106 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -32,7 +32,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (719, of which 381 amending acts)
+## Laws (legi) (721, of which 381 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -219,6 +219,7 @@
 | Legea nr. 104/2011 privind calitatea aerului înconjurător | [`lege/2011/104/`](lege/2011/104/) | in force | 2 | 2011-07-28 | 2015-05-22 |
 | Legea nr. 122/2011 | [`lege/2011/122/`](lege/2011/122/) | in force | 2 | 2011-07-17 | 2021-12-10 |
 | Legea nr. 153/2011 | [`lege/2011/153/`](lege/2011/153/) | in force | 6 | 2011-08-10 | 2023-01-06 |
+| Legea nr. 157/2011 | [`lege/2011/157/`](lege/2011/157/) | in force | 4 | 2011-07-31 | 2024-03-22 |
 | Legea nr. 187/2011 | [`lege/2011/187/`](lege/2011/187/) | in force | 2 | 2011-11-03 | 2022-12-14 |
 | Legea nr. 191/2011 | [`lege/2011/191/`](lege/2011/191/) | in force | 3 | 2011-11-06 | 2024-08-24 |
 | Legea nr. 194/2011 privind combaterea operațiunilor cu produse susceptibile de a avea efecte psihoactive, altele decât cele prevăzute de acte normative în vigoare | [`lege/2011/194/`](lege/2011/194/) | in force | 7 | 2011-11-13 | 2024-06-03 |
@@ -302,6 +303,7 @@
 | Legea nr. 297/2018 privind Registrul Național de Publicitate Mobiliară și pentru abrogarea Ordonanței Guvernului nr. 89/2000 privind unele măsuri pentru autorizarea operatorilor și efectuarea înscrierilor în Arhiva Electronică de Garanții Reale Mobiliare | [`lege/2018/297/`](lege/2018/297/) | amending act | 5 | 2018-12-10 | 2022-04-02 |
 | Legea nr. 310/2018 pentru modificarea și completarea Legii nr. 134/2010 privind Codul de procedură civilă , precum și pentru modificarea și completarea altor acte normative | [`lege/2018/310/`](lege/2018/310/) | amending act | 1 | 2018-12-21 | 2018-12-21 |
 | Legea nr. 337/2018 privind statutul inspectorului de muncă | [`lege/2018/337/`](lege/2018/337/) | in force | 2 | 2018-12-31 | 2024-11-17 |
+| Legea nr. 362/2018 privind asigurarea unui nivel comun ridicat de securitate a rețelelor și sistemelor informatice | [`lege/2018/362/`](lege/2018/362/) | in force | 5 | 2019-02-03 | 2024-12-31 |
 | Legea nr. 30/2019 pentru aprobarea Ordonanței de urgență a Guvernului nr. 25/2018 privind modificarea și completarea unor acte normative, precum și pentru aprobarea unor măsuri fiscal-bugetare | [`lege/2019/30/`](lege/2019/30/) | amending act | 2 | 2019-01-20 | 2019-04-01 |
 | Legea nr. 32/2019 | [`lege/2019/32/`](lege/2019/32/) | in force | 3 | 2019-01-24 | 2023-07-24 |
 | Legea nr. 79/2019 privind instituirea Zilei naționale a gastronomiei și a vinului românesc | [`lege/2019/79/`](lege/2019/79/) | in force | 2 | 2019-05-05 | 2025-06-13 |

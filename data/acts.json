@@ -3130,6 +3130,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/130008"
 },
 {
+"slug": "legea-157-2011",
+"path": "lege/2011/157",
+"kind": "lege",
+"year": "2011",
+"number": "157",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 157/2011",
+"short": "Legea nr. 157/2011",
+"code": null,
+"status": "in force",
+"versions": 4,
+"from": "2011-07-31",
+"latest": "2024-03-22",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/130383"
+},
+{
 "slug": "legea-187-2011",
 "path": "lege/2011/187",
 "kind": "lege",
@@ -4539,6 +4556,23 @@
 "from": "2018-12-31",
 "latest": "2024-11-17",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/209436"
+},
+{
+"slug": "legea-362-2018",
+"path": "lege/2018/362",
+"kind": "lege",
+"year": "2018",
+"number": "362",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 362/2018 privind asigurarea unui nivel comun ridicat de securitate a rețelelor și sistemelor informatice",
+"short": "Legea nr. 362/2018",
+"code": null,
+"status": "in force",
+"versions": 5,
+"from": "2019-02-03",
+"latest": "2024-12-31",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/209670"
 },
 {
 "slug": "legea-30-2019",

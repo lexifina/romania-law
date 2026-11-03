@@ -12794,6 +12794,39 @@
    ]
   },
   {
+   "slug": "legea-157-2011",
+   "path": "lege/2011/157",
+   "short": "Legea nr. 157/2011",
+   "title": "Legea nr. 157/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/130383",
+   "versions": [
+    {
+     "from": "2011-07-31",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/130383",
+     "sha256": "0abf29994cdd548eba70ed9b0034954ffdfd9264651db04e9489916e4924db5f"
+    },
+    {
+     "from": "2014-11-28",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/161130",
+     "sha256": "8abcdc1339f9253126cec809f9e0f02122bd9b40384918ff2c117e16d8f80f54"
+    },
+    {
+     "from": "2018-11-10",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/206484",
+     "sha256": "56b3e6e592e3133f1679ca1d125ec5dfd5655059b8d5084af028d0c15e51fa94"
+    },
+    {
+     "from": "2024-03-22",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/280205",
+     "sha256": "f110ab56461a0a26661e3b572d7659944a2298215ce001564d28c6c5a8c9f28a"
+    }
+   ]
+  },
+  {
    "slug": "legea-159-2016",
    "path": "lege/2016/159",
    "short": "Legea nr. 159/2016",
@@ -20560,6 +20593,45 @@
      "units": 170,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/276927",
      "sha256": "26670bbeae73afb4e23d939dc7ed2d25092fb71c37bbec95d5eb6126b7cc834d"
+    }
+   ]
+  },
+  {
+   "slug": "legea-362-2018",
+   "path": "lege/2018/362",
+   "short": "Legea nr. 362/2018",
+   "title": "Legea nr. 362/2018 privind asigurarea unui nivel comun ridicat de securitate a rețelelor și sistemelor informatice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/209670",
+   "versions": [
+    {
+     "from": "2019-02-03",
+     "units": 50,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/210229",
+     "sha256": "596efe0c16cca1bc633d20b4bfe050befb95b52b6b2b3c8829e6bc581797f282"
+    },
+    {
+     "from": "2020-01-20",
+     "units": 50,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/222145",
+     "sha256": "3489f30fc68ac4d6adf7a9413a1966a3a32abe71e20dada997ca7b849a8a40d3"
+    },
+    {
+     "from": "2020-07-24",
+     "units": 50,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/228070",
+     "sha256": "54c5d98bb4f6500db729569dc9bf152e344f74898dd7f048afdccd4e8ab993b1"
+    },
+    {
+     "from": "2021-09-24",
+     "units": 50,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/245744",
+     "sha256": "5d0cfc3c88a5ff21398ffcb754cdf9db901b2e1a08c5e6130a3d0a4c63ed8309"
+    },
+    {
+     "from": "2024-12-31",
+     "units": 50,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/209670",
+     "sha256": "ccf08468960b31410d2cc1d79b321d786e5bb6b7c56fb7b0c30f7d1ee5b2bb8d"
     }
    ]
   },

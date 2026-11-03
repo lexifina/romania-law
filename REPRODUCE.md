@@ -101,6 +101,7 @@ This file is written by the build on 2026-11-02, the day the source data was ret
 | captures of legislatie.just.ro for the Legea-cadru nr. 153/2017 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
 | Internet Archive, Wayback Machine | <https://web.archive.org/> | 2026-11-02 | Internet Archive terms of use; the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
 | captures of legislatie.just.ro for the Legea nr. 155/2010 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
+| captures of legislatie.just.ro for the Legea nr. 157/2011 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
 | captures of legislatie.just.ro for the Legea nr. 159/2016 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
 | captures of legislatie.just.ro for the Legea nr. 159/2025 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
 | captures of legislatie.just.ro for the Legea nr. 16/1996 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
@@ -221,6 +222,7 @@ This file is written by the build on 2026-11-02, the day the source data was ret
 | captures of legislatie.just.ro for the Legea nr. 356/2003 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
 | captures of legislatie.just.ro for the Legea nr. 359/2004 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
 | captures of legislatie.just.ro for the Legea nr. 360/2023 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
+| captures of legislatie.just.ro for the Legea nr. 362/2018 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
 | captures of legislatie.just.ro for the Legea nr. 363/2007 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
 | captures of legislatie.just.ro for the Legea nr. 365/2002 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
 | Internet Archive, Wayback Machine | <https://web.archive.org/> | 2026-11-02 | Internet Archive terms of use; the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
@@ -1821,21 +1823,21 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 
 | Act | Title | Versions | Span |
 | --- | --- | ---: | --- |
-| 1759 acts | every act, with its kind, number, status and span, is listed in [ACTS.md](ACTS.md) | 8064 | |
+| 1761 acts | every act, with its kind, number, status and span, is listed in [ACTS.md](ACTS.md) | 8073 | |
 
-The build made 10043 commits:
+The build made 10054 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 1792 | first version of an act |
-| 6432 | one law on its in-force day |
-| 1763 | changes no amendment note explains, credited to the publisher |
+| 1794 | first version of an act |
+| 6439 | one law on its in-force day |
+| 1765 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `viitor`: laws not yet in force on 2026-11-02.
 - 18 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 5024 laws in the record.
-- 13050 tags.
+- 5026 laws in the record.
+- 13061 tags.
 
 ## Dates
 
@@ -1847,7 +1849,7 @@ When a law gives no date of its own, the default rule applies: Constituția Rom�
 
 `tools/build/build.py` (and, for later publishes, `tools/build/append.py`) turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/build/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/build/SCHEMA.md`.
 
-- Corpus: sha256 `e0962e30d62821210e53615217cb2600f14f1dffcb83971d3c99e6d775cb09f7` (239750202 bytes).
+- Corpus: sha256 `409aada9e5ba0d77ab76f04bf2bac3cd3452e4777e7bbbd5addfa52428f6ed2f` (240527202 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `451fb608f9dd5e26b52fbb742f1867cabf89f2d2`, `check.py` `ac7555f3f3746e325d043ce89405d43a617ba3f8`, `on.py` `a4d099e560b4a65735a86646c3ac346ecdb7c77c`.
 - Python 3.14.0; git version 2.52.0.windows.1.
 
@@ -1859,7 +1861,7 @@ No second build of this corpus has been compared yet.
 
 ## Decisions made by hand
 
-- Every act's decisions made by hand (9919 in all) are listed in that act's own README.md, under "Decisions made by hand".
+- Every act's decisions made by hand (9934 in all) are listed in that act's own README.md, under "Decisions made by hand".
 
 ## What AI did and did not do
 
@@ -1946,6 +1948,7 @@ Model use at data-build time:
 - Legea nr. 153/2011: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - Legea-cadru nr. 153/2017: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - Legea nr. 155/2010: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
+- Legea nr. 157/2011: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - Legea nr. 159/2016: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - Legea nr. 159/2025: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - Legea nr. 16/1996: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
@@ -2056,6 +2059,7 @@ Model use at data-build time:
 - Legea nr. 356/2003: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - Legea nr. 359/2004: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - Legea nr. 360/2023: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
+- Legea nr. 362/2018: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - Legea nr. 363/2007: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - Legea nr. 365/2002: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - Legea nr. 367/2022: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
