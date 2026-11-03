@@ -1,6 +1,6 @@
 # Every act in this repository
 
-12350 acts, 25,932 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+12356 acts, 25,938 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -4566,7 +4566,7 @@
 | Ordonanța Guvernului nr. 21/2025 pentru modificarea și completarea Legii nr. 431/2023 privind asigurarea unui nivel minim global de impozitare a grupurilor de întreprinderi multinaționale și a grupurilor naționale de mari dimensiuni | [`og/2025/21/`](og/2025/21/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 | Ordonanța Guvernului nr. 22/2025 pentru modificarea și completarea Legii nr. 227/2015 privind Codul fiscal | [`og/2025/22/`](og/2025/22/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 
-## Government decisions (HG) (7793, of which 3364 amending acts)
+## Government decisions (HG) (7799, of which 3365 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -5603,6 +5603,8 @@
 | Hotărârea Guvernului nr. 173/2009 pentru modificarea art. 2 din Hotărârea Guvernului nr. 1.719/2008 privind organizarea şi funcţionarea Ministerului Turismului | [`hg/2009/173/`](hg/2009/173/) | amending act | 1 | 2009-02-26 | 2009-02-26 |
 | Hotărârea Guvernului nr. 176/2009 privind stabilirea datei alegerilor locale parţiale pentru alegerea unui consiliu local şi a unui primar | [`hg/2009/176/`](hg/2009/176/) | in force | 1 | 2009-02-27 | 2009-02-27 |
 | Hotărârea Guvernului nr. 177/2009 pentru aprobarea programelor calendaristice privind realizarea acţiunilor referitoare la organizarea şi desfăşurarea alegerilor locale parţiale pentru un primar şi un consiliu local din data de 5 aprilie 2009 | [`hg/2009/177/`](hg/2009/177/) | amending act | 1 | 2009-02-27 | 2009-02-27 |
+| Hotărârea Guvernului nr. 178/2009 privind plata sumelor aprobate ca justă despăgubire şi neachitate în anii 2007-2008 pentru obiectivul de investiţie "Autostrada Braşov-Cluj-Borş" - secţiunea 2B | [`hg/2009/178/`](hg/2009/178/) | in force | 1 | 2009-03-05 | 2009-03-05 |
+| Hotărârea Guvernului nr. 179/2009 pentru plata sumelor aprobate ca justă despăgubire şi neachitate în anii 2006-2008 | [`hg/2009/179/`](hg/2009/179/) | in force | 1 | 2009-03-05 | 2009-03-05 |
 | Hotărârea Guvernului nr. 180/2009 pentru realocarea sumei prevăzute în Hotărârea Guvernului nr. 1.692/2008 privind suplimentarea sumei prevăzute ca justă despăgubire pentru imobilele ce constituie amplasamentul lucrării de utilitate publică aprobat prin Hotărârea Guvernului nr. 1.124/2007 privind declanşarea procedurilor de expropriere a imobilelor proprietate privată situate pe amplasamentul lucrării de utilitate publică "Fluidizare trafic pe DN 1 km 8 + 100 - km 17+100 şi Centura rutieră în zona de nord a municipiului Bucureşti obiect 5B - Extindere la patru benzi a Centurii Rutiere a Municipiului Bucureşti pe sectorul cuprins între km 2+400 şi intersecţia cu DN2" | [`hg/2009/180/`](hg/2009/180/) | in force | 1 | 2009-03-02 | 2009-03-02 |
 | Hotărârea Guvernului nr. 183/2009 privind aprobarea bugetelor de venituri şi cheltuieli rectificate pe anul 2008 ale unor operatori economici aflaţi sub autoritatea Ministerului Transporturilor şi Infrastructurii | [`hg/2009/183/`](hg/2009/183/) | amending act | 1 | 2009-03-03 | 2009-03-03 |
 | Hotărârea Guvernului nr. 184/2009 pentru aprobarea organizării de către Colegiul Naţional de Apărare din România a Cursului de orientare pe probleme de Politică europeană de securitate şi apărare, în cadrul Colegiului European de Securitate şi Apărare | [`hg/2009/184/`](hg/2009/184/) | amending act | 1 | 2009-02-27 | 2009-02-27 |
@@ -5617,12 +5619,16 @@
 | Hotărârea Guvernului nr. 200/2009 privind exercitarea, cu caracter temporar, a funcţiei publice de subprefect al judeţului Bacău de către doamna Lungu Tudoriţa | [`hg/2009/200/`](hg/2009/200/) | in force | 1 | 2009-03-05 | 2009-03-05 |
 | Hotărârea Guvernului nr. 201/2009 privind aplicarea mobilităţii pentru doamna Romfeld Maria-Magdolna din funcţia publică de subprefect al judeţului Harghita în funcţia publică de inspector guvernamental | [`hg/2009/201/`](hg/2009/201/) | in force | 1 | 2009-03-05 | 2009-03-05 |
 | Hotărârea Guvernului nr. 202/2009 privind exercitarea, cu caracter temporar, a funcţiei publice de subprefect al judeţului Harghita de către domnul Andrei Jean-Adrian | [`hg/2009/202/`](hg/2009/202/) | in force | 1 | 2009-03-05 | 2009-03-05 |
+| Hotărârea Guvernului nr. 204/2009 privind exercitarea, cu caracter temporar, a funcţiei publice de subprefect al judeţului Iaşi de către domnul Tomaşeschi Sava-Dragomir | [`hg/2009/204/`](hg/2009/204/) | in force | 1 | 2009-03-05 | 2009-03-05 |
+| Hotărârea Guvernului nr. 205/2009 privind aplicarea mobilităţii pentru domnul Vegh Alexandru din funcţia publică de subprefect al judeţului Sălaj în funcţia publică de inspector guvernamental | [`hg/2009/205/`](hg/2009/205/) | in force | 1 | 2009-03-05 | 2009-03-05 |
 | Hotărârea Guvernului nr. 206/2009 privind exercitarea, cu caracter temporar, a funcţiei publice de subprefect al judeţului Sălaj de către domnul Bîrsan Cristian Claudiu | [`hg/2009/206/`](hg/2009/206/) | in force | 1 | 2009-03-05 | 2009-03-05 |
 | Hotărârea Guvernului nr. 207/2009 privind încetarea exercitării funcţiei publice de subprefect al judeţului Suceava de către doamna Zarojanu Angela | [`hg/2009/207/`](hg/2009/207/) | in force | 1 | 2009-03-05 | 2009-03-05 |
 | Hotărârea Guvernului nr. 208/2009 privind exercitarea, cu caracter temporar, a funcţiei publice de subprefect al judeţului Suceava de către domnul Girigan Eugen | [`hg/2009/208/`](hg/2009/208/) | in force | 1 | 2009-03-05 | 2009-03-05 |
 | Hotărârea Guvernului nr. 215/2009 | [`hg/2009/215/`](hg/2009/215/) | in force | 2 | 2009-03-09 | 2018-01-26 |
 | Hotărârea Guvernului nr. 218/2009 | [`hg/2009/218/`](hg/2009/218/) | in force | 2 | 2009-03-12 | 2009-07-10 |
 | Hotărârea Guvernului nr. 220/2009 | [`hg/2009/220/`](hg/2009/220/) | in force | 1 | 2009-03-09 | 2009-03-09 |
+| Hotărârea Guvernului nr. 224/2009 privind modelul timbrului autocolant, condiţiile de tipărire, de gestionare şi de utilizare a acestuia la alegerile pentru membrii din România în Parlamentul European din anul 2009 | [`hg/2009/224/`](hg/2009/224/) | in force | 1 | 2009-03-09 | 2009-03-09 |
+| Hotărârea Guvernului nr. 225/2009 privind aprobarea modelului buletinului de vot care va fi folosit la alegerile pentru membrii din România în Parlamentul European din anul 2009 | [`hg/2009/225/`](hg/2009/225/) | amending act | 1 | 2009-03-09 | 2009-03-09 |
 | Hotărârea Guvernului nr. 229/2009 | [`hg/2009/229/`](hg/2009/229/) | in force | 3 | 2009-03-16 | 2020-04-29 |
 | Hotărârea Guvernului nr. 266/2009 pentru modificarea Hotărârii Guvernului nr. 416/2007 privind structura organizatorică și efectivele Ministerului Administrației și Internelor și a Hotărârii Guvernului nr. 1.678/2008 privind înființarea Institutului de Studii pentru Ordine Publică în subordinea Ministerului Administrației și Internelor și pentru completarea anexei nr. 1 la Hotărârea Guvernului nr. 416/2007 privind structura organizatorică și efectivele Ministerului Administrației și Internelor | [`hg/2009/266/`](hg/2009/266/) | amending act | 2 | 2009-03-15 | 2023-10-01 |
 | Hotărârea Guvernului nr. 284/2009 | [`hg/2009/284/`](hg/2009/284/) | repealed 2010-08-30 | 3 | 2009-03-24 | 2010-08-30 |
