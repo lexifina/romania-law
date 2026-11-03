@@ -10001,6 +10001,51 @@
    ]
   },
   {
+   "slug": "hg-1085-2003",
+   "path": "hg/2003/1085",
+   "short": "HG nr. 1085/2003",
+   "title": "Hotărârea Guvernului nr. 1085/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/46410",
+   "versions": [
+    {
+     "from": "2003-09-24",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/46410",
+     "sha256": "b70a202b71832a795068cc47c6783b189cf83a8b1cc20a997e4371ba1cc2f869"
+    },
+    {
+     "from": "2004-04-27",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/80259",
+     "sha256": "05737d71b5926dc837af248319aa9dc7775eec6dd1cc01e71b5bd02b4ec5d420"
+    },
+    {
+     "from": "2007-06-29",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/110484",
+     "sha256": "838ebd9316f09a0d6ba89ee14df74874d98ec7cbcf46621e0e9e86a7095b5ae3"
+    },
+    {
+     "from": "2009-08-07",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/110485",
+     "sha256": "0a48740c8cf2e4c75d90f1d6e874d7eef3568794298c7956788b6952c25341ab"
+    },
+    {
+     "from": "2010-03-03",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/116817",
+     "sha256": "5656c6acc3067a33136ae57a4cf0901a995589f766111d9ac096a9ae304f8e12"
+    },
+    {
+     "from": "2014-05-27",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/158587",
+     "sha256": "ee497a00e660f2bf5d4f276187ee1e8c605df2b0c1491197efaba0fe9f86850e"
+    }
+   ]
+  },
+  {
    "slug": "hg-1086-2021",
    "path": "hg/2021/1086",
    "short": "HG nr. 1086/2021",

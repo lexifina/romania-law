@@ -1,6 +1,6 @@
 # Every act in this repository
 
-6600 acts, 19,152 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+6601 acts, 19,158 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -3783,7 +3783,7 @@
 | Ordonanța Guvernului nr. 21/2025 pentru modificarea și completarea Legii nr. 431/2023 privind asigurarea unui nivel minim global de impozitare a grupurilor de întreprinderi multinaționale și a grupurilor naționale de mari dimensiuni | [`og/2025/21/`](og/2025/21/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 | Ordonanța Guvernului nr. 22/2025 pentru modificarea și completarea Legii nr. 227/2015 privind Codul fiscal | [`og/2025/22/`](og/2025/22/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 
-## Government decisions (HG) (2825, of which 929 amending acts)
+## Government decisions (HG) (2826, of which 929 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -4134,6 +4134,7 @@
 | Hotărârea Guvernului nr. 1072/2003 | [`hg/2003/1072/`](hg/2003/1072/) | in force | 2 | 2003-09-16 | 2007-08-23 |
 | Hotărârea Guvernului nr. 1078/2003 privind modificarea și completarea Hotărârii Guvernului nr. 773/2003 pentru aprobarea strategiilor de privatizare ale societăților comerciale cu capital majoritar de stat, incluse în cadrul Programului pentru ajustarea sectorului privat (PSAL II) | [`hg/2003/1078/`](hg/2003/1078/) | amending act | 1 | 2003-09-23 | 2003-09-23 |
 | Hotărârea Guvernului nr. 1084/2003 | [`hg/2003/1084/`](hg/2003/1084/) | in force | 1 | 2003-09-23 | 2003-09-23 |
+| Hotărârea Guvernului nr. 1085/2003 | [`hg/2003/1085/`](hg/2003/1085/) | in force | 6 | 2003-09-24 | 2014-05-27 |
 | Hotărârea Guvernului nr. 1086/2003 | [`hg/2003/1086/`](hg/2003/1086/) | in force | 1 | 2003-09-23 | 2003-09-23 |
 | Hotărârea Guvernului nr. 1088/2003 privind acordarea cetățeniei române unor persoane | [`hg/2003/1088/`](hg/2003/1088/) | in force | 1 | 2003-09-23 | 2003-09-23 |
 | Hotărârea Guvernului nr. 1090/2003 pentru modificarea art. 1 din Hotărârea Guvernului nr. 661/2003 privind alocarea unei sume din Fondul de rezerva bugetară la dispoziția Guvernului, prevăzut în bugetul de stat pe anul 2003, pentru proiectarea și demararea lucrărilor de construire a Memorialului Eroilor Martiri ai Revoluției din Decembrie 1989 | [`hg/2003/1090/`](hg/2003/1090/) | amending act | 1 | 2003-09-23 | 2003-09-23 |

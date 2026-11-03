@@ -69430,6 +69430,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/46383"
 },
 {
+"slug": "hg-1085-2003",
+"path": "hg/2003/1085",
+"kind": "hg",
+"year": "2003",
+"number": "1085",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 1085/2003",
+"short": "HG nr. 1085/2003",
+"code": null,
+"status": "in force",
+"versions": 6,
+"from": "2003-09-24",
+"latest": "2014-05-27",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/46410"
+},
+{
 "slug": "hg-1086-2003",
 "path": "hg/2003/1086",
 "kind": "hg",
