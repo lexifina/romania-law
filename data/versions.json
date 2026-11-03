@@ -196196,6 +196196,21 @@
    ]
   },
   {
+   "slug": "hg-376-2015",
+   "path": "hg/2015/376",
+   "short": "HG nr. 376/2015",
+   "title": "Hotărârea Guvernului nr. 376/2015 privind aprobarea bugetului de venituri şi cheltuieli pe anul 2015 pentru Compania Naţională pentru Controlul Cazanelor, Instalaţiilor de Ridicat şi Recipientelor sub Presiune \"CNCIR\" - S.A., aflată sub autoritatea Ministerului Economiei, Comerţului şi Turismului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/168488",
+   "versions": [
+    {
+     "from": "2015-06-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168488",
+     "sha256": "f6cf2b7224d6b9ffd565bc0405388d22b6d278571241e933436656cb1d5efea4"
+    }
+   ]
+  },
+  {
    "slug": "hg-376-2016",
    "path": "hg/2016/376",
    "short": "HG nr. 376/2016",
@@ -216415,6 +216430,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/159042",
      "sha256": "7220988a868ea52ba7bd82b12e05e6c358f237b311244bfe67634092180e3e0b"
+    }
+   ]
+  },
+  {
+   "slug": "hg-481-2015",
+   "path": "hg/2015/481",
+   "short": "HG nr. 481/2015",
+   "title": "Hotărârea Guvernului nr. 481/2015 pentru modificarea şi completarea Normelor metodologice de aplicare a prevederilor Ordonanţei Guvernului nr. 129/2000 privind formarea profesională a adulţilor, aprobate prin Hotărârea Guvernului nr. 522/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/169851",
+   "versions": [
+    {
+     "from": "2015-07-17",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/169851",
+     "sha256": "b8d1e74835747906447769551b944ecd5bcfe4274f3c04e549b33ac31e778be1"
     }
    ]
   },
@@ -253255,6 +253285,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/160568",
      "sha256": "40d74f70c2bad742795e82be93014fa4eb8991e5e3b64b82145cd8417a2e982b"
+    }
+   ]
+  },
+  {
+   "slug": "hg-665-2015",
+   "path": "hg/2015/665",
+   "short": "HG nr. 665/2015",
+   "title": "Hotărârea Guvernului nr. 665/2015 pentru modificarea şi completarea unor anexe la Hotărârea Guvernului nr. 1.357/2001 privind atestarea domeniului public al judeţului Suceava, precum şi al municipiilor, oraşelor şi comunelor din judeţul Suceava",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171186",
+   "versions": [
+    {
+     "from": "2015-09-08",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171186",
+     "sha256": "ed27406ab54f5df92fe2bc82c8a84e45f2956d8984cd3d30f23eed98a2bf4426"
     }
    ]
   },
@@ -331694,6 +331739,21 @@
    ]
   },
   {
+   "slug": "legea-193-2015",
+   "path": "lege/2015/193",
+   "short": "Legea nr. 193/2015",
+   "title": "Legea nr. 193/2015 pentru modificarea Legii nr. 448/2006 privind protecţia şi promovarea drepturilor persoanelor cu handicap",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/169664",
+   "versions": [
+    {
+     "from": "2015-07-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/169664",
+     "sha256": "11d531ce798c2fae64cef37e9e114ba9d2b2d4294c1281aeb6679d85ed562c5c"
+    }
+   ]
+  },
+  {
    "slug": "legea-193-2018",
    "path": "lege/2018/193",
    "short": "Legea nr. 193/2018",
@@ -362353,6 +362413,21 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/287385",
      "sha256": "befa02a332eae62f37d8864122c55b6a062b8ae40bb3cc737f339bc9b8cc7e3d"
+    }
+   ]
+  },
+  {
+   "slug": "og-31-2015",
+   "path": "og/2015/31",
+   "short": "OG nr. 31/2015",
+   "title": "Ordonanța Guvernului nr. 31/2015 pentru modificarea art. 37 alin. (3) lit. e) din Legea asistenţei sociale nr. 292/2011 , precum şi pentru abrogarea art. 11 alin. (5) din Ordonanţa Guvernului nr. 68/2003 privind serviciile sociale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170925",
+   "versions": [
+    {
+     "from": "2015-08-30",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170925",
+     "sha256": "5c112940820bbba17d14b6645fc060a2ae5c6f07f890424b89c80792a76d090d"
     }
    ]
   },

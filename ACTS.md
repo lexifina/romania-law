@@ -1,6 +1,6 @@
 # Every act in this repository
 
-20570 acts, 34,203 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+20575 acts, 34,208 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (3265, of which 1793 amending acts)
+## Laws (legi) (3266, of which 1794 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -1398,6 +1398,7 @@
 | Legea nr. 189/2015 pentru modificarea şi completarea Legii nr. 291/2007 privind intrarea, staţionarea, desfăşurarea de operaţiuni sau tranzitul forţelor armate străine pe teritoriul României | [`lege/2015/189/`](lege/2015/189/) | amending act | 1 | 2015-07-09 | 2015-07-09 |
 | Legea nr. 190/2015 privind modificarea şi completarea Legii nr. 240/2013 pentru realizarea capabilităţii operaţionale aeriene cuprinse în Faza 1 a Etapei de tranziţie iniţială a Concepţiei de realizare graduală a capabilităţii de apărare aeriană în cadrul programului "Avion multirol al Forţelor Aeriene" | [`lege/2015/190/`](lege/2015/190/) | amending act | 1 | 2015-07-09 | 2015-07-09 |
 | Legea nr. 191/2015 | [`lege/2015/191/`](lege/2015/191/) | in force | 1 | 2015-07-09 | 2015-07-09 |
+| Legea nr. 193/2015 pentru modificarea Legii nr. 448/2006 privind protecţia şi promovarea drepturilor persoanelor cu handicap | [`lege/2015/193/`](lege/2015/193/) | amending act | 1 | 2015-07-16 | 2015-07-16 |
 | Legea nr. 194/2015 pentru modificarea şi completarea Legii educaţiei fizice şi sportului nr. 69/2000 | [`lege/2015/194/`](lege/2015/194/) | amending act | 1 | 2015-07-12 | 2015-07-12 |
 | Legea nr. 195/2015 pentru completarea Legii nr. 76/2002 privind sistemul asigurărilor pentru şomaj şi stimularea ocupării forţei de muncă | [`lege/2015/195/`](lege/2015/195/) | amending act | 1 | 2015-07-11 | 2015-07-11 |
 | Legea nr. 196/2015 pentru modificarea şi completarea Legii apelor nr. 107/1996 | [`lege/2015/196/`](lege/2015/196/) | amending act | 1 | 2015-07-17 | 2015-07-17 |
@@ -5007,7 +5008,7 @@
 | Ordonanța de urgență a Guvernului nr. 33/2026 pentru modificarea şi completarea Legii educaţiei fizice şi sportului nr. 69/2000 | [`oug/2026/33/`](oug/2026/33/) | amending act | 1 | 2026-04-27 | 2026-04-27 |
 | Ordonanța de urgență a Guvernului nr. 37/2026 pentru modificarea şi completarea Legii nr. 333/2003 privind paza obiectivelor, bunurilor, valorilor şi protecţia persoanelor | [`oug/2026/37/`](oug/2026/37/) | amending act | 2 | 2026-05-06 | 2026-06-05 |
 
-## Ordinances (OG) (526, of which 106 amending acts)
+## Ordinances (OG) (527, of which 107 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -5383,6 +5384,7 @@
 | Ordonanța Guvernului nr. 20/2015 | [`og/2015/20/`](og/2015/20/) | in force | 2 | 2015-08-03 | 2015-10-29 |
 | Ordonanța Guvernului nr. 29/2015 | [`og/2015/29/`](og/2015/29/) | in force | 4 | 2015-08-29 | 2019-08-17 |
 | Ordonanța Guvernului nr. 30/2015 | [`og/2015/30/`](og/2015/30/) | in force | 2 | 2015-08-30 | 2016-03-10 |
+| Ordonanța Guvernului nr. 31/2015 pentru modificarea art. 37 alin. (3) lit. e) din Legea asistenţei sociale nr. 292/2011 , precum şi pentru abrogarea art. 11 alin. (5) din Ordonanţa Guvernului nr. 68/2003 privind serviciile sociale | [`og/2015/31/`](og/2015/31/) | amending act | 1 | 2015-08-30 | 2015-08-30 |
 | Ordonanța Guvernului nr. 37/2015 | [`og/2015/37/`](og/2015/37/) | in force | 2 | 2015-09-07 | 2016-04-09 |
 | Ordonanța Guvernului nr. 38/2015 | [`og/2015/38/`](og/2015/38/) | in force | 3 | 2015-08-31 | 2020-12-29 |
 | Ordonanța Guvernului nr. 39/2015 | [`og/2015/39/`](og/2015/39/) | in force | 6 | 2015-09-03 | 2025-11-08 |
@@ -5538,7 +5540,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (15041, of which 7641 amending acts)
+## Government decisions (HG) (15044, of which 7644 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -11270,6 +11272,7 @@
 | Hotărârea Guvernului nr. 373/2015 privind alocarea temporară, pentru luna iunie a anului 2015, a unor sume din venituri din privatizare ordonatorilor principali de credite cu rol de autoritate de management şi pentru modificarea Hotărârii Guvernului nr. 239/2015 privind alocarea temporară, pentru luna aprilie a anului 2015, a unor sume din venituri din privatizare ordonatorului principal de credite cu rol de Autoritate de management pentru Programul operaţional Creşterea competitivităţii economice (POS CCE) | [`hg/2015/373/`](hg/2015/373/) | amending act | 1 | 2015-06-02 | 2015-06-02 |
 | Hotărârea Guvernului nr. 374/2015 privind suplimentarea bugetului Ministerului Transporturilor din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2015, pentru finanţarea unor cheltuieli ale Şcolii Superioare de Aviaţie Civilă | [`hg/2015/374/`](hg/2015/374/) | in force | 1 | 2015-06-02 | 2015-06-02 |
 | Hotărârea Guvernului nr. 375/2015 privind aprobarea bugetului de venituri şi cheltuieli pe anul 2015 pentru Societatea Comercială "ROMAERO" - S.A., aflată sub autoritatea Ministerului Economiei, Comerţului şi Turismului | [`hg/2015/375/`](hg/2015/375/) | amending act | 1 | 2015-06-03 | 2015-06-03 |
+| Hotărârea Guvernului nr. 376/2015 privind aprobarea bugetului de venituri şi cheltuieli pe anul 2015 pentru Compania Naţională pentru Controlul Cazanelor, Instalaţiilor de Ridicat şi Recipientelor sub Presiune "CNCIR" - S.A., aflată sub autoritatea Ministerului Economiei, Comerţului şi Turismului | [`hg/2015/376/`](hg/2015/376/) | amending act | 1 | 2015-06-03 | 2015-06-03 |
 | Hotărârea Guvernului nr. 377/2015 privind aprobarea bugetului de venituri şi cheltuieli pe anul 2015 pentru Societatea Comercială "IAR" - S.A. Braşov, aflată sub autoritatea Ministerului Economiei, Comerţului şi Turismului | [`hg/2015/377/`](hg/2015/377/) | amending act | 1 | 2015-06-05 | 2015-06-05 |
 | Hotărârea Guvernului nr. 378/2015 privind aprobarea bugetului de venituri şi cheltuieli pe anul 2015 pentru Societatea "Uzina Mecanică Orăştie" - S.A., aflată sub autoritatea Ministerului Economiei, Comerţului şi Turismului | [`hg/2015/378/`](hg/2015/378/) | amending act | 1 | 2015-06-04 | 2015-06-04 |
 | Hotărârea Guvernului nr. 379/2015 privind aprobarea bugetului de venituri şi cheltuieli pe anul 2015 al Regiei Autonome "Editura Didactică şi Pedagogică", regie aflată în coordonarea Ministerului Educaţiei şi Cercetării Ştiinţifice | [`hg/2015/379/`](hg/2015/379/) | amending act | 1 | 2015-06-04 | 2015-06-04 |
@@ -11361,6 +11364,7 @@
 | Hotărârea Guvernului nr. 478/2015 privind actualizarea valorilor de inventar ale unor bunuri din domeniul public al statului aflate în administrarea Ministerului Mediului, Apelor şi Pădurilor - Regia Naţională a Pădurilor - ROMSILVA, ca urmare a reevaluării | [`hg/2015/478/`](hg/2015/478/) | in force | 1 | 2015-07-07 | 2015-07-07 |
 | Hotărârea Guvernului nr. 479/2015 privind rechemarea unui consul general | [`hg/2015/479/`](hg/2015/479/) | in force | 1 | 2015-07-02 | 2015-07-02 |
 | Hotărârea Guvernului nr. 480/2015 privind transmiterea, fără plată, în proprietatea Parohiei Herăşti, judeţul Giurgiu, a unui imobil aflat în domeniul public al statului şi în administrarea Secretariatului de Stat pentru Culte | [`hg/2015/480/`](hg/2015/480/) | in force | 1 | 2015-07-02 | 2015-07-02 |
+| Hotărârea Guvernului nr. 481/2015 pentru modificarea şi completarea Normelor metodologice de aplicare a prevederilor Ordonanţei Guvernului nr. 129/2000 privind formarea profesională a adulţilor, aprobate prin Hotărârea Guvernului nr. 522/2003 | [`hg/2015/481/`](hg/2015/481/) | amending act | 1 | 2015-07-17 | 2015-07-17 |
 | Hotărârea Guvernului nr. 484/2015 pentru aprobarea Amendamentului convenit prin schimbul de scrisori semnate la Bucureşti la 12 decembrie 2014 şi la Londra la 5 martie 2015 între Guvernul României şi Banca Europeană pentru Reconstrucţie şi Dezvoltare la Acordul de împrumut dintre România şi Banca Europeană pentru Reconstrucţie şi Dezvoltare pentru finanţarea Proiectului de construcţie a variantei de ocolire a municipiului Constanţa, semnat la Bucureşti la 7 decembrie 2005 | [`hg/2015/484/`](hg/2015/484/) | amending act | 1 | 2015-07-17 | 2015-07-17 |
 | Hotărârea Guvernului nr. 485/2015 privind aprobarea stemei comunei Bucşani, judeţul Dâmboviţa | [`hg/2015/485/`](hg/2015/485/) | amending act | 1 | 2015-07-16 | 2015-07-16 |
 | Hotărârea Guvernului nr. 487/2015 pentru modificarea alin. (5) al art. 8 din Normele metodologice de aplicare a Ordonanţei de urgenţă a Guvernului nr. 9/2013 privind timbrul de mediu pentru autovehicule, aprobate prin Hotărârea Guvernului nr. 88/2013 | [`hg/2015/487/`](hg/2015/487/) | amending act | 1 | 2015-07-07 | 2015-07-07 |
@@ -11508,6 +11512,7 @@
 | Hotărârea Guvernului nr. 662/2015 privind stabilirea nivelului stocurilor minime şi aprobarea modului de transpunere a obligaţiilor de constituire şi menţinere a stocurilor de urgenţă pentru ţiţei şi/sau produse petroliere pe operatori economici în anul 2015 | [`hg/2015/662/`](hg/2015/662/) | in force | 1 | 2015-09-02 | 2015-09-02 |
 | Hotărârea Guvernului nr. 663/2015 pentru aprobarea Acordului dintre Guvernul României şi Guvernul Statului Kuwait cu privire la înfiinţarea unei comisii mixte pentru cooperare, semnat la Kuwait City la 4 mai 2015 | [`hg/2015/663/`](hg/2015/663/) | amending act | 1 | 2015-08-27 | 2015-08-27 |
 | Hotărârea Guvernului nr. 664/2015 privind scoaterea din baza materială destinată activităţii de reprezentare şi protocol a unui imobil aflat în proprietatea publică a statului şi în administrarea Regiei Autonome "Administraţia Patrimoniului Protocolului de Stat" şi darea acestuia în folosinţa gratuită a Patriarhiei Române | [`hg/2015/664/`](hg/2015/664/) | in force | 1 | 2015-08-26 | 2015-08-26 |
+| Hotărârea Guvernului nr. 665/2015 pentru modificarea şi completarea unor anexe la Hotărârea Guvernului nr. 1.357/2001 privind atestarea domeniului public al judeţului Suceava, precum şi al municipiilor, oraşelor şi comunelor din judeţul Suceava | [`hg/2015/665/`](hg/2015/665/) | amending act | 1 | 2015-09-08 | 2015-09-08 |
 | Hotărârea Guvernului nr. 667/2015 privind aprobarea stemei comunei Vâlcele, judeţul Covasna | [`hg/2015/667/`](hg/2015/667/) | amending act | 1 | 2015-09-02 | 2015-09-02 |
 | Hotărârea Guvernului nr. 668/2015 privind aprobarea stemei comunei Vâlcelele, judeţul Buzău | [`hg/2015/668/`](hg/2015/668/) | amending act | 1 | 2015-09-02 | 2015-09-02 |
 | Hotărârea Guvernului nr. 669/2015 privind aprobarea stemei comunei Ciorogârla, judeţul Ilfov | [`hg/2015/669/`](hg/2015/669/) | amending act | 1 | 2015-09-02 | 2015-09-02 |
