@@ -1,6 +1,6 @@
 # Every act in this repository
 
-15355 acts, 28,977 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+15356 acts, 28,978 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (2701, of which 1339 amending acts)
+## Laws (legi) (2702, of which 1339 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -1379,6 +1379,7 @@
 | Legea nr. 245/2018 privind aprobarea Ordonanței de urgență a Guvernului nr. 33/2017 pentru modificarea și completarea art. 11 din Ordonanța de urgență a Guvernului nr. 22/2009 privind înființarea Autorității Naționale pentru Administrare și Reglementare în Comunicații | [`lege/2018/245/`](lege/2018/245/) | amending act | 1 | 2018-11-08 | 2018-11-08 |
 | Legea nr. 247/2018 pentru modificarea și completarea unor acte normative privind regimul străinilor în România | [`lege/2018/247/`](lege/2018/247/) | amending act | 2 | 2018-11-10 | 2024-03-22 |
 | Legea nr. 252/2018 pentru modificarea și completarea Legii nr. 374/2006 privind suspendarea serviciului public cu specific silvic pentru proprietarii terenurilor forestiere pentru care au fost emise documentele prevăzute la art. III alin. (1) din Legea nr. 169/1997 pentru modificarea și completarea Legii fondului funciar nr. 18/1991 | [`lege/2018/252/`](lege/2018/252/) | amending act | 1 | 2018-11-12 | 2018-11-12 |
+| Legea nr. 253/2018 pentru ratificarea Acordului dintre Guvernul României şi Guvernul Republicii Serbia privind cooperarea în domeniul apărării, semnat la Belgrad la 4 decembrie 2017 | [`lege/2018/253/`](lege/2018/253/) | in force | 1 | 2018-11-16 | 2018-11-16 |
 | Legea nr. 255/2018 pentru ratificarea Acordului de parteneriat cuprinzător şi consolidat dintre Uniunea Europeană şi Comunitatea Europeană a Energiei Atomice şi statele membre ale acestora, pe de o parte, şi Republica Armenia, pe de altă parte, semnat la Bruxelles la 24 noiembrie 2017 | [`lege/2018/255/`](lege/2018/255/) | in force | 1 | 2018-12-10 | 2018-12-10 |
 | Legea nr. 256/2018 privind unele măsuri necesare pentru implementarea operațiunilor petroliere de către titularii de acorduri petroliere referitoare la perimetre petroliere offshore | [`lege/2018/256/`](lege/2018/256/) | in force | 3 | 2018-11-17 | 2024-06-07 |
 | Legea nr. 257/2018 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 68/2017 pentru completarea Ordonanţei de urgenţă a Guvernului nr. 52/2017 privind restituirea sumelor reprezentând taxa specială pentru autoturisme şi autovehicule, taxa pe poluare pentru autovehicule, taxa pentru emisiile poluante provenite de la autovehicule şi timbrul de mediu pentru autovehicule | [`lege/2018/257/`](lege/2018/257/) | amending act | 1 | 2018-11-17 | 2018-11-17 |
