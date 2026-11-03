@@ -62579,6 +62579,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/204585"
 },
 {
+"slug": "og-41-1998",
+"path": "og/1998/41",
+"kind": "og",
+"year": "1998",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța Guvernului nr. 41/1998",
+"short": "OG nr. 41/1998",
+"code": null,
+"status": "in force",
+"versions": 7,
+"from": "1998-01-30",
+"latest": "2011-11-20",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/14176"
+},
+{
 "slug": "og-46-1998",
 "path": "og/1998/46",
 "kind": "og",

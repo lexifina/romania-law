@@ -65801,6 +65801,57 @@
    ]
   },
   {
+   "slug": "og-41-1998",
+   "path": "og/1998/41",
+   "short": "OG nr. 41/1998",
+   "title": "Ordonanța Guvernului nr. 41/1998",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14176",
+   "versions": [
+    {
+     "from": "1998-01-30",
+     "units": 34,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/14176",
+     "sha256": "490252b3b3436bb6abf552f9d86dd1e83bac251595c8ca3cdfe9c1dddaa2eca9"
+    },
+    {
+     "from": "1998-02-26",
+     "units": 34,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/67734",
+     "sha256": "75e45b1de9ff0d5be4969b12d0f679f1008673129e7164d2c33220417d20ec36"
+    },
+    {
+     "from": "2002-07-02",
+     "units": 34,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/67735",
+     "sha256": "9e588b21241a9e6301b795105acffb50767e40c83d9b5ee2a9e3666c6b158efc"
+    },
+    {
+     "from": "2002-09-20",
+     "units": 34,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/67736",
+     "sha256": "d1862529a04ffd404bb1e6a3da11a53d2a52041d67c749d8ea0baf25af5327a6"
+    },
+    {
+     "from": "2006-12-29",
+     "units": 42,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/77228",
+     "sha256": "1340d1d88834663765769b59f34b582335e109d904f9d45fe2b2b163ad1fdefb"
+    },
+    {
+     "from": "2008-03-11",
+     "units": 42,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/100413",
+     "sha256": "89af7f145700ee17669dc96080417c4d57db8358ccee702f007574e3c193318e"
+    },
+    {
+     "from": "2011-11-20",
+     "units": 42,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/135651",
+     "sha256": "c423c8c9304983b97c4b9eedf6f0d50af2e437ebe91c166a64f336b30bb4e497"
+    }
+   ]
+  },
+  {
    "slug": "og-41-2007",
    "path": "og/2007/41",
    "short": "OG nr. 41/2007",

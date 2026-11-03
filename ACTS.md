@@ -1,6 +1,6 @@
 # Every act in this repository
 
-9158 acts, 22,324 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+9159 acts, 22,331 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -3680,7 +3680,7 @@
 | Ordonanța de urgență a Guvernului nr. 30/2026 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 23/2004 privind stabilirea unor măsuri de reorganizare a Autorităţii pentru Valorificarea Activelor Bancare prin comasarea prin absorbţie cu Autoritatea pentru Privatizare şi Administrarea Participaţiilor Statului | [`oug/2026/30/`](oug/2026/30/) | amending act | 1 | 2026-04-21 | 2026-04-21 |
 | Ordonanța de urgență a Guvernului nr. 33/2026 pentru modificarea şi completarea Legii educaţiei fizice şi sportului nr. 69/2000 | [`oug/2026/33/`](oug/2026/33/) | amending act | 1 | 2026-04-27 | 2026-04-27 |
 
-## Ordinances (OG) (472, of which 92 amending acts)
+## Ordinances (OG) (473, of which 92 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -3726,6 +3726,7 @@
 | Ordonanța Guvernului nr. 16/1998 | [`og/1998/16/`](og/1998/16/) | in force | 2 | 1998-03-01 | 2003-03-21 |
 | Ordonanța Guvernului nr. 32/1998 | [`og/1998/32/`](og/1998/32/) | in force | 14 | 1998-03-01 | 2019-03-01 |
 | Ordonanța Guvernului nr. 36/1998 | [`og/1998/36/`](og/1998/36/) | in force | 3 | 1998-02-01 | 2001-10-26 |
+| Ordonanța Guvernului nr. 41/1998 | [`og/1998/41/`](og/1998/41/) | in force | 7 | 1998-01-30 | 2011-11-20 |
 | Ordonanța Guvernului nr. 46/1998 | [`og/1998/46/`](og/1998/46/) | in force | 8 | 1998-07-31 | 2022-08-28 |
 | Ordonanța Guvernului nr. 47/1998 | [`og/1998/47/`](og/1998/47/) | in force | 2 | 1998-09-29 | 2001-04-26 |
 | Ordonanța Guvernului nr. 51/1998 | [`og/1998/51/`](og/1998/51/) | in force | 17 | 1998-08-13 | 2024-09-01 |
