@@ -2382,6 +2382,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/263394"
 },
 {
+"slug": "legea-224-2007",
+"path": "lege/2007/224",
+"kind": "lege",
+"year": "2007",
+"number": "224",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 224/2007",
+"short": "Legea nr. 224/2007",
+"code": null,
+"status": "in force",
+"versions": 2,
+"from": "2007-07-29",
+"latest": "2008-11-28",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/284971"
+},
+{
 "slug": "legea-230-2007",
 "path": "lege/2007/230",
 "kind": "lege",
@@ -3179,6 +3196,23 @@
 "from": "2014-07-11",
 "latest": "2022-04-07",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/159710"
+},
+{
+"slug": "legea-121-2014",
+"path": "lege/2014/121",
+"kind": "lege",
+"year": "2014",
+"number": "121",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 121/2014",
+"short": "Legea nr. 121/2014",
+"code": null,
+"status": "in force",
+"versions": 14,
+"from": "2014-08-04",
+"latest": "2024-07-12",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/160331"
 },
 {
 "slug": "legea-138-2014",
@@ -13126,6 +13160,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/268507"
 },
 {
+"slug": "oug-80-2018",
+"path": "oug/2018/80",
+"kind": "oug",
+"year": "2018",
+"number": "80",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 80/2018 pentru stabilirea condițiilor de introducere pe piață a benzinei și motorinei, de introducere a unui mecanism de monitorizare și reducere a emisiilor de gaze cu efect de seră și de stabilire a metodelor de calcul și de raportare a reducerii emisiilor de gaze cu efect de seră și pentru modificarea și completarea Legii nr. 220/2008 pentru stabilirea sistemului de promovare a producerii energiei din surse regenerabile de energie",
+"short": "OUG nr. 80/2018",
+"code": null,
+"status": "amending act",
+"versions": 8,
+"from": "2018-09-19",
+"latest": "2025-11-07",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/303198"
+},
+{
 "slug": "oug-105-2018",
 "path": "oug/2018/105",
 "kind": "oug",
@@ -13634,6 +13685,23 @@
 "from": "2020-07-31",
 "latest": "2022-12-12",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/228570"
+},
+{
+"slug": "oug-130-2020",
+"path": "oug/2020/130",
+"kind": "oug",
+"year": "2020",
+"number": "130",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 130/2020 privind unele măsuri pentru acordarea de sprijin financiar din fonduri externe nerambursabile, aferente Programului operațional Competitivitate 2014-2020, în contextul crizei provocate de COVID-19, precum și alte măsuri în domeniul fondurilor europene",
+"short": "OUG nr. 130/2020",
+"code": null,
+"status": "in force",
+"versions": 10,
+"from": "2020-08-06",
+"latest": "2023-05-26",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/228699"
 },
 {
 "slug": "oug-131-2020",
@@ -16849,6 +16917,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/261468"
 },
 {
+"slug": "oug-163-2022",
+"path": "oug/2022/163",
+"kind": "oug",
+"year": "2022",
+"number": "163",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 163/2022 pentru completarea cadrului legal de promovare a utilizării energiei din surse regenerabile, precum și pentru modificarea și completarea unor acte normative",
+"short": "OUG nr. 163/2022",
+"code": null,
+"status": "amending act",
+"versions": 4,
+"from": "2022-12-06",
+"latest": "2026-02-27",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/262191"
+},
+{
 "slug": "oug-164-2022",
 "path": "oug/2022/164",
 "kind": "oug",
@@ -16881,6 +16966,23 @@
 "from": "2022-12-08",
 "latest": "2022-12-08",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/262292"
+},
+{
+"slug": "oug-166-2022",
+"path": "oug/2022/166",
+"kind": "oug",
+"year": "2022",
+"number": "166",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 166/2022 privind unele măsuri pentru acordarea unui sprijin categoriilor de persoane vulnerabile pentru compensarea prețului la energie, suportat parțial din fonduri externe nerambursabile",
+"short": "OUG nr. 166/2022",
+"code": null,
+"status": "in force",
+"versions": 11,
+"from": "2022-12-08",
+"latest": "2024-06-21",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/262296"
 },
 {
 "slug": "oug-168-2022",
@@ -19994,6 +20096,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/24015"
 },
 {
+"slug": "og-81-2000",
+"path": "og/2000/81",
+"kind": "og",
+"year": "2000",
+"number": "81",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța Guvernului nr. 81/2000",
+"short": "OG nr. 81/2000",
+"code": null,
+"status": "in force",
+"versions": 11,
+"from": "2000-08-30",
+"latest": "2024-02-17",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/24006"
+},
+{
 "slug": "og-137-2000",
 "path": "og/2000/137",
 "kind": "og",
@@ -20026,6 +20145,23 @@
 "from": "2001-08-24",
 "latest": "2026-03-27",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/29779"
+},
+{
+"slug": "og-82-2001",
+"path": "og/2001/82",
+"kind": "og",
+"year": "2001",
+"number": "82",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța Guvernului nr. 82/2001",
+"short": "OG nr. 82/2001",
+"code": null,
+"status": "in force",
+"versions": 8,
+"from": "2002-01-01",
+"latest": "2024-06-29",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/30418"
 },
 {
 "slug": "og-83-2001",
@@ -20130,6 +20266,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/38222"
 },
 {
+"slug": "og-81-2003",
+"path": "og/2003/81",
+"kind": "og",
+"year": "2003",
+"number": "81",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța Guvernului nr. 81/2003",
+"short": "OG nr. 81/2003",
+"code": null,
+"status": "in force",
+"versions": 6,
+"from": "2003-08-31",
+"latest": "2021-05-07",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/45943"
+},
+{
 "slug": "og-86-2003",
 "path": "og/2003/86",
 "kind": "og",
@@ -20179,6 +20332,23 @@
 "from": "2007-05-03",
 "latest": "2022-08-25",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/79171"
+},
+{
+"slug": "og-20-2010",
+"path": "og/2010/20",
+"kind": "og",
+"year": "2010",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța Guvernului nr. 20/2010",
+"short": "OG nr. 20/2010",
+"code": null,
+"status": "in force",
+"versions": 5,
+"from": "2010-08-29",
+"latest": "2023-02-03",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/121761"
 },
 {
 "slug": "og-24-2010",
@@ -20300,6 +20470,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/144896"
 },
 {
+"slug": "og-15-2013",
+"path": "og/2013/15",
+"kind": "og",
+"year": "2013",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța Guvernului nr. 15/2013",
+"short": "OG nr. 15/2013",
+"code": null,
+"status": "in force",
+"versions": 9,
+"from": "2013-08-10",
+"latest": "2024-03-22",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/280204"
+},
+{
 "slug": "og-20-2013",
 "path": "og/2013/20",
 "kind": "og",
@@ -20400,6 +20587,23 @@
 "from": "2015-08-31",
 "latest": "2020-12-29",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/234807"
+},
+{
+"slug": "og-24-2016",
+"path": "og/2016/24",
+"kind": "og",
+"year": "2016",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța Guvernului nr. 24/2016",
+"short": "OG nr. 24/2016",
+"code": null,
+"status": "in force",
+"versions": 6,
+"from": "2016-09-02",
+"latest": "2024-02-16",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/181284"
 },
 {
 "slug": "og-30-2017",
@@ -21575,6 +21779,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/268484"
 },
 {
+"slug": "hg-878-2005",
+"path": "hg/2005/878",
+"kind": "hg",
+"year": "2005",
+"number": "878",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 878/2005 privind accesul publicului la informația privind mediul",
+"short": "HG nr. 878/2005",
+"code": null,
+"status": "in force",
+"versions": 3,
+"from": "2005-11-22",
+"latest": "2024-04-08",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/64373"
+},
+{
 "slug": "hg-890-2005",
 "path": "hg/2005/890",
 "kind": "hg",
@@ -21624,6 +21845,23 @@
 "from": "2006-08-08",
 "latest": "2006-08-08",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/74112"
+},
+{
+"slug": "hg-1092-2006",
+"path": "hg/2006/1092",
+"kind": "hg",
+"year": "2006",
+"number": "1092",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 1092/2006 privind protecția lucrătorilor împotriva riscurilor legate de expunerea la agenți biologici în munca",
+"short": "HG nr. 1092/2006",
+"code": null,
+"status": "in force",
+"versions": 2,
+"from": "2006-10-01",
+"latest": "2020-12-28",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/74917"
 },
 {
 "slug": "hg-1217-2006",
@@ -22185,6 +22423,23 @@
 "from": "2021-10-20",
 "latest": "2021-10-20",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/247534"
+},
+{
+"slug": "hg-53-2021",
+"path": "hg/2021/53",
+"kind": "hg",
+"year": "2021",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 53/2021 pentru modificarea Hotărârii Guvernului nr. 1.218/2006 privind stabilirea cerințelor minime de securitate și sănătate în muncă pentru asigurarea protecției lucrătorilor împotriva riscurilor legate de prezența agenților chimici, precum și pentru modificarea și completarea Hotărârii Guvernului nr. 1.093/2006 privind stabilirea cerințelor minime de securitate și sănătate pentru protecția lucrătorilor împotriva riscurilor legate de expunerea la agenți cancerigeni sau mutageni la locul de muncă",
+"short": "HG nr. 53/2021",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2021-03-02",
+"latest": "2021-03-02",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/238491"
 },
 {
 "slug": "hg-60-2021",
@@ -24295,6 +24550,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/255751"
 },
 {
+"slug": "hg-686-2022",
+"path": "hg/2022/686",
+"kind": "hg",
+"year": "2022",
+"number": "686",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 686/2022 pentru modificarea și completarea Hotărârii Guvernului nr. 947/2000 privind modalitatea de indicare a prețurilor produselor oferite consumatorilor spre vânzare",
+"short": "HG nr. 686/2022",
+"code": null,
+"status": "amending act",
+"versions": 2,
+"from": "2022-05-28",
+"latest": "2022-06-05",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/255732"
+},
+{
 "slug": "hg-694-2022",
 "path": "hg/2022/694",
 "kind": "hg",
@@ -26248,6 +26520,74 @@
 "from": "2022-12-14",
 "latest": "2022-12-14",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/262513"
+},
+{
+"slug": "hg-1484-2022",
+"path": "hg/2022/1484",
+"kind": "hg",
+"year": "2022",
+"number": "1484",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 1484/2022 pentru modificarea și completarea anexei nr. 2 la Hotărârea Guvernului nr. 960/2015 privind aprobarea amplasamentului și declanșarea procedurilor de expropriere a tuturor imobilelor proprietate privată situate în coridorul de expropriere al lucrării de utilitate publică de interes național „Deschiderea și punerea în exploatare a carierei Jilț Nord la o capacitate de 4,5 milioane tone/an lignit“",
+"short": "HG nr. 1484/2022",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2022-12-21",
+"latest": "2022-12-21",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/262964"
+},
+{
+"slug": "hg-1491-2022",
+"path": "hg/2022/1491",
+"kind": "hg",
+"year": "2022",
+"number": "1491",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 1491/2022 pentru aprobarea Strategiei naționale privind incluziunea socială a persoanelor fără adăpost pentru perioada 2022-2027 și a Planului de acțiune pentru perioada 2022-2027",
+"short": "HG nr. 1491/2022",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2022-12-23",
+"latest": "2022-12-23",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/263081"
+},
+{
+"slug": "hg-1540-2022",
+"path": "hg/2022/1540",
+"kind": "hg",
+"year": "2022",
+"number": "1540",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 1540/2022 privind modificarea și completarea Hotărârii Guvernului nr. 696/2021 pentru aprobarea pachetelor de servicii și a Contractului-cadru care reglementează condițiile acordării asistenței medicale, a medicamentelor și a dispozitivelor medicale, în cadrul sistemului de asigurări sociale de sănătate pentru anii 2021-2022, prelungirea termenului de aplicare a prevederilor acesteia, precum și stabilirea unor măsuri în domeniul sănătății",
+"short": "HG nr. 1540/2022",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2022-12-21",
+"latest": "2022-12-21",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/262978"
+},
+{
+"slug": "hg-1547-2022",
+"path": "hg/2022/1547",
+"kind": "hg",
+"year": "2022",
+"number": "1547",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 1547/2022 pentru aprobarea Strategiei naționale privind promovarea egalității de șanse și de tratament între femei și bărbați și prevenirea și combaterea violenței domestice pentru perioada 2022-2027",
+"short": "HG nr. 1547/2022",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2022-12-22",
+"latest": "2022-12-22",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/262994"
 },
 {
 "slug": "hg-900-2023",
