@@ -1,6 +1,6 @@
 # Every act in this repository
 
-9411 acts, 22,726 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+9416 acts, 22,742 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -32,7 +32,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (2147, of which 888 amending acts)
+## Laws (legi) (2150, of which 888 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -100,6 +100,7 @@
 | Legea nr. 80/1992 | [`lege/1992/80/`](lege/1992/80/) | in force | 3 | 1992-07-29 | 2000-05-23 |
 | Legea nr. 84/1992 | [`lege/1992/84/`](lege/1992/84/) | in force | 5 | 1992-07-30 | 2020-10-23 |
 | Legea nr. 85/1992 | [`lege/1992/85/`](lege/1992/85/) | in force | 5 | 1992-07-29 | 2011-12-17 |
+| Legea nr. 92/1992 | [`lege/1992/92/`](lege/1992/92/) | in force | 7 | 1992-08-13 | 2005-07-01 |
 | Legea nr. 94/1992 privind organizarea și funcționarea Curții de Conturi | [`lege/1992/94/`](lege/1992/94/) | in force | 17 | 1992-09-09 | 2024-01-01 |
 | Legea nr. 95/1992 | [`lege/1992/95/`](lege/1992/95/) | in force | 1 | 1992-09-24 | 1992-09-24 |
 | Legea nr. 102/1992 | [`lege/1992/102/`](lege/1992/102/) | in force | 2 | 1992-09-24 | 2016-07-22 |
@@ -224,6 +225,7 @@
 | Legea nr. 1/1998 | [`lege/1998/1/`](lege/1998/1/) | in force | 8 | 1998-01-12 | 2017-04-22 |
 | Legea nr. 9/1998 | [`lege/1998/9/`](lege/1998/9/) | in force | 13 | 1998-03-14 | 2023-07-03 |
 | Legea nr. 13/1998 | [`lege/1998/13/`](lege/1998/13/) | in force | 1 | 1998-01-26 | 1998-01-26 |
+| Legea nr. 34/1998 | [`lege/1998/34/`](lege/1998/34/) | in force | 3 | 1998-01-27 | 2017-05-01 |
 | Legea nr. 84/1998 privind mărcile și indicațiile geografice | [`lege/1998/84/`](lege/1998/84/) | in force | 12 | 2005-12-28 | 2024-03-07 |
 | Legea nr. 129/1998 | [`lege/1998/129/`](lege/1998/129/) | in force | 12 | 1998-06-30 | 2017-01-30 |
 | Legea nr. 135/1998 privind aprobarea Ordonanței de urgență a Guvernului nr. 81/1997 pentru reglementarea plății premiilor anuale, a celui de-al 13-lea salariu sau a altor sume de această natură, suportate din fondul de salarii, care, de regulă, se acordă la finele anului | [`lege/1998/135/`](lege/1998/135/) | amending act | 1 | 1998-07-02 | 1998-07-02 |
@@ -1431,6 +1433,7 @@
 | Legea nr. 298/2020 pentru completarea Legii nr. 53/2003 - Codul muncii | [`lege/2020/298/`](lege/2020/298/) | amending act | 1 | 2020-12-27 | 2020-12-27 |
 | Legea nr. 2/2021 privind unele măsuri pentru prevenirea și combaterea antițigănismului | [`lege/2021/2/`](lege/2021/2/) | in force | 1 | 2021-01-08 | 2021-01-08 |
 | Legea nr. 3/2021 privind prevenirea, diagnosticarea și tratamentul infecțiilor asociate asistenței medicale din unitățile medicale și din centrele rezidențiale pentru persoanele adulte aflate în dificultate din România | [`lege/2021/3/`](lege/2021/3/) | in force | 4 | 2021-01-11 | 2025-08-16 |
+| Legea nr. 4/2021 privind protecţia drepturilor persoanelor diagnosticate sau suspectate a fi diagnosticate cu boli sau afecţiuni alergice | [`lege/2021/4/`](lege/2021/4/) | in force | 2 | 2021-02-07 | 2023-07-24 |
 | Legea nr. 5/2021 privind Statutul personalului profesionist operativ de intervenție din cadrul serviciilor civile care asigură asistență publică medicală de urgență și prim ajutor calificat | [`lege/2021/5/`](lege/2021/5/) | in force | 2 | 2021-01-14 | 2024-09-01 |
 | Legea nr. 19/2021 pentru aprobarea Ordonanței de urgență a Guvernului nr. 149/2020 privind instituirea unei scheme de ajutor de stat pentru susținerea activității crescătorilor din sectorul bovin în contextul crizei economice generate de pandemia de COVID-19 | [`lege/2021/19/`](lege/2021/19/) | amending act | 1 | 2021-03-15 | 2021-03-15 |
 | Legea nr. 20/2021 pentru aprobarea Ordonanței de urgență a Guvernului nr. 150/2020 privind aprobarea Schemei de ajutor de stat pentru susținerea activității crescătorilor din sectorul suin în contextul crizei economice generate de pandemia de COVID-19 | [`lege/2021/20/`](lege/2021/20/) | amending act | 1 | 2021-03-15 | 2021-03-15 |
@@ -2184,7 +2187,7 @@
 | Legea nr. 190/2026 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 81/2021 privind aprobarea metodelor de intervenţie imediată pentru prevenirea şi combaterea atacurilor exemplarelor de urs brun asupra persoanelor şi bunurilor acestora, precum şi pentru modificarea şi completarea unor acte normative | [`lege/2026/190/`](lege/2026/190/) | amending act | 1 | 2026-10-08 | 2026-10-08 |
 | Legea nr. 205/2026 pentru completarea Ordonanţei Guvernului nr. 22/2002 privind executarea obligaţiilor de plată ale instituţiilor publice, stabilite prin titluri executorii | [`lege/2026/205/`](lege/2026/205/) | amending act | 1 | 2026-11-02 | 2026-11-02 |
 
-## Emergency ordinances (OUG) (1547, of which 535 amending acts)
+## Emergency ordinances (OUG) (1549, of which 535 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -3368,6 +3371,7 @@
 | Ordonanța de urgență a Guvernului nr. 71/2021 privind promovarea vehiculelor de transport rutier nepoluante, în sprijinul unei mobilități cu emisii scăzute, pentru abrogarea Ordonanței de urgență a Guvernului nr. 40/2011 privind promovarea vehiculelor de transport rutier nepoluante și eficiente din punct de vedere energetic și a Legii nr. 37/2018 privind promovarea transportului ecologic | [`oug/2021/71/`](oug/2021/71/) | amending act | 1 | 2021-06-30 | 2021-06-30 |
 | Ordonanța de urgență a Guvernului nr. 72/2021 pentru modificarea Ordonanței de urgență a Guvernului nr. 133/2020 privind unele măsuri pentru sprijinirea categoriilor de elevi cei mai defavorizați care beneficiază de sprijin educațional pe bază de tichete sociale pe suport electronic pentru sprijin educațional acordate din fonduri externe nerambursabile, precum și unele măsuri de distribuire a acestora | [`oug/2021/72/`](oug/2021/72/) | amending act | 1 | 2021-06-30 | 2021-06-30 |
 | Ordonanța de urgență a Guvernului nr. 74/2021 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 158/2005 privind concediile și indemnizațiile de asigurări sociale de sănătate, pentru modificarea art. 299 alin. (4) din Legea nr. 95/2006 privind reforma în domeniul sănătății, precum și pentru stabilirea unor măsuri cu privire la acordarea concediilor medicale | [`oug/2021/74/`](oug/2021/74/) | amending act | 2 | 2021-06-30 | 2021-08-01 |
+| Ordonanța de urgență a Guvernului nr. 75/2021 privind executarea serviciilor de aerofotogrammetrie şi de realizare a ortofotoplanurilor pe teritoriul României şi executarea serviciilor de digitizare şi actualizare a Sistemului de identificare a parcelelor agricole pentru Ministerul Agriculturii şi Dezvoltării Rurale în perioada 2021-2030 | [`oug/2021/75/`](oug/2021/75/) | in force | 2 | 2021-06-30 | 2022-03-21 |
 | Ordonanța de urgență a Guvernului nr. 77/2021 privind înființarea Gărzii Forestiere Naționale | [`oug/2021/77/`](oug/2021/77/) | in force | 4 | 2021-06-30 | 2025-08-22 |
 | Ordonanța de urgență a Guvernului nr. 79/2021 pentru modificarea Legii nr. 350/2001 privind amenajarea teritoriului și urbanismul | [`oug/2021/79/`](oug/2021/79/) | amending act | 2 | 2021-06-30 | 2022-01-10 |
 | Ordonanța de urgență a Guvernului nr. 81/2021 privind aprobarea metodelor de intervenție imediată pentru prevenirea și combaterea atacurilor exemplarelor de urs brun asupra persoanelor și bunurilor acestora, în intravilanul localităților, precum și pentru modificarea și completarea unor acte normative | [`oug/2021/81/`](oug/2021/81/) | amending act | 5 | 2021-07-26 | 2025-11-07 |
@@ -3531,6 +3535,7 @@
 | Ordonanța de urgență a Guvernului nr. 190/2022 pentru completarea anexei nr. 5^1 la Ordonanța de urgență a Guvernului nr. 57/2019 privind Codul administrativ | [`oug/2022/190/`](oug/2022/190/) | amending act | 1 | 2022-12-29 | 2022-12-29 |
 | Ordonanța de urgență a Guvernului nr. 191/2022 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 57/2019 privind Codul administrativ | [`oug/2022/191/`](oug/2022/191/) | amending act | 3 | 2022-12-30 | 2023-12-28 |
 | Ordonanța de urgență a Guvernului nr. 3/2023 privind instituirea unei scheme de ajutor de stat pentru susţinerea activităţii crescătorilor din sectorul bovin, în anul 2022, în contextul crizei provocate de agresiunea Rusiei împotriva Ucrainei | [`oug/2023/3/`](oug/2023/3/) | in force | 2 | 2023-02-09 | 2023-05-12 |
+| Ordonanța de urgență a Guvernului nr. 4/2023 privind stabilirea unor măsuri de restituire a unor contribuţii de asigurări sociale de sănătate | [`oug/2023/4/`](oug/2023/4/) | in force | 2 | 2023-02-17 | 2023-12-16 |
 | Ordonanța de urgență a Guvernului nr. 5/2023 pentru modificarea Ordonanței de urgență a Guvernului nr. 20/2014 privind stabilirea unor măsuri de eficientizare a activității de privatizare pentru dezvoltarea în condiții de profitabilitate a activității operatorilor economici cu capital de stat, pentru exercitarea drepturilor și îndeplinirea obligațiilor ce decurg din calitatea de acționar a statului la anumiți operatori economici, precum și pentru modificarea și completarea unor acte normative | [`oug/2023/5/`](oug/2023/5/) | amending act | 1 | 2023-02-23 | 2023-02-23 |
 | Ordonanța de urgență a Guvernului nr. 6/2023 pentru completarea art. 24 din Legea drepturilor pacienților nr. 46/2003 | [`oug/2023/6/`](oug/2023/6/) | amending act | 2 | 2023-03-02 | 2023-11-11 |
 | Ordonanța de urgență a Guvernului nr. 7/2023 pentru aprobarea Programului național de investiții "Școli sigure și sănătoase" | [`oug/2023/7/`](oug/2023/7/) | amending act | 2 | 2023-03-06 | 2025-10-02 |

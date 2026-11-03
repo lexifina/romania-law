@@ -47366,6 +47366,33 @@
    ]
   },
   {
+   "slug": "legea-34-1998",
+   "path": "lege/1998/34",
+   "short": "Legea nr. 34/1998",
+   "title": "Legea nr. 34/1998",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14145",
+   "versions": [
+    {
+     "from": "1998-01-27",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/14145",
+     "sha256": "4cd0f741b0b405d167d723495557f79f13211b8121120775effe0987aee39153"
+    },
+    {
+     "from": "2016-10-07",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182526",
+     "sha256": "439c217841dff01d404f9e4ffbc042a4cdb19175da21213f0785d4b558b536f0"
+    },
+    {
+     "from": "2017-05-01",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/188240",
+     "sha256": "374ebf73b088be9e65e98e20ff351c20ed1cf6ce2528392608c3d633eac9ab4e"
+    }
+   ]
+  },
+  {
    "slug": "legea-341-2004",
    "path": "lege/2004/341",
    "short": "Legea nr. 341/2004",
@@ -50038,6 +50065,27 @@
      "units": 1,
      "source_url": "http://legislatie.just.ro/Public/DetaliiDocumentAfis/196649",
      "sha256": "19ba62b21b7df121d604185c12a62299d906e9eabbf05671ab58cd5664173d6f"
+    }
+   ]
+  },
+  {
+   "slug": "legea-4-2021",
+   "path": "lege/2021/4",
+   "short": "Legea nr. 4/2021",
+   "title": "Legea nr. 4/2021 privind protecţia drepturilor persoanelor diagnosticate sau suspectate a fi diagnosticate cu boli sau afecţiuni alergice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/236001",
+   "versions": [
+    {
+     "from": "2021-02-07",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/236001",
+     "sha256": "7238ae6eab794e29f3588113dd0a481b3b1a09febf158dad1a78be46907b2957"
+    },
+    {
+     "from": "2023-07-24",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/236001",
+     "sha256": "3f336d55dc90a7950dc81cc8552fcacbdbd86286ee18df624e8f99593cdbcb12"
     }
    ]
   },
@@ -58447,6 +58495,57 @@
      "units": 0,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/215925",
      "sha256": "4a2a724d250e80a8189847fb921b69cf007b23f874d763331a9597167d1dd997"
+    }
+   ]
+  },
+  {
+   "slug": "legea-92-1992",
+   "path": "lege/1992/92",
+   "short": "Legea nr. 92/1992",
+   "title": "Legea nr. 92/1992",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/69783",
+   "versions": [
+    {
+     "from": "1992-08-13",
+     "units": 131,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/2359",
+     "sha256": "4dc026a7cb59df506e4ac04e432af2aa4d56acdacde9b85ff7cc5ed5cda8bc54"
+    },
+    {
+     "from": "1997-09-30",
+     "units": 160,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/2361",
+     "sha256": "dd563555c1b61ab666e5e7851932732af7d8eab1d20fa838d97564f5f897c0ce"
+    },
+    {
+     "from": "2001-03-29",
+     "units": 166,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/32163",
+     "sha256": "3b37dc407a22960d4a94e3b4fab4a76f976f873bce40087f56a6ba4474a86c50"
+    },
+    {
+     "from": "2002-02-28",
+     "units": 171,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36430",
+     "sha256": "867d92f705ae1929f8d74b3be8151ba3d038e3da4208038986f304576423cbd5"
+    },
+    {
+     "from": "2002-12-12",
+     "units": 171,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42468",
+     "sha256": "4cf88892f3635040afff034016e74e02b23cfb38c376abe38e5caa1846ceacce"
+    },
+    {
+     "from": "2003-07-01",
+     "units": 171,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/52320",
+     "sha256": "4d11ce79afe9714f659031323c8f3e9bb83baf718d20b083e4cdcffa8f5d974d"
+    },
+    {
+     "from": "2005-07-01",
+     "units": 171,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/69786",
+     "sha256": "517de268fd9d8b61cb01280670fdeaca4860b641e71a130acaa0214c5b91be6d"
     }
    ]
   },
@@ -84149,6 +84248,27 @@
    ]
   },
   {
+   "slug": "oug-4-2023",
+   "path": "oug/2023/4",
+   "short": "OUG nr. 4/2023",
+   "title": "Ordonanța de urgență a Guvernului nr. 4/2023 privind stabilirea unor măsuri de restituire a unor contribuţii de asigurări sociale de sănătate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/265160",
+   "versions": [
+    {
+     "from": "2023-02-17",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/265160",
+     "sha256": "f90620a4d8f1d3c3a105690ff3cb9dc02d7a78377e50b4c13d59e78b4eba7a43"
+    },
+    {
+     "from": "2023-12-16",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/265160",
+     "sha256": "c4f95642878067febb17f402628b54d94cebca94abec4261f5176491b05027ee"
+    }
+   ]
+  },
+  {
    "slug": "oug-40-1999",
    "path": "oug/1999/40",
    "short": "OUG nr. 40/1999",
@@ -89068,6 +89188,27 @@
      "units": 47,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/262602",
      "sha256": "31953e089f1be2e1f4ef3943c5d4dda3af29f28567c22a76532d351fb5e524f8"
+    }
+   ]
+  },
+  {
+   "slug": "oug-75-2021",
+   "path": "oug/2021/75",
+   "short": "OUG nr. 75/2021",
+   "title": "Ordonanța de urgență a Guvernului nr. 75/2021 privind executarea serviciilor de aerofotogrammetrie şi de realizare a ortofotoplanurilor pe teritoriul României şi executarea serviciilor de digitizare şi actualizare a Sistemului de identificare a parcelelor agricole pentru Ministerul Agriculturii şi Dezvoltării Rurale în perioada 2021-2030",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/243945",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/243945",
+     "sha256": "bbd8cf13f7b7b0a3ff66decca87145b6e776060cf88a6311c8204aee5010f6bb"
+    },
+    {
+     "from": "2022-03-21",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/243945",
+     "sha256": "b16557b211b0ecfacef5fb3ab2f951bbc3e491ce57ad7a5483336062541ba3bc"
     }
    ]
   },
