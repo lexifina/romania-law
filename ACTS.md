@@ -1,6 +1,6 @@
 # Every act in this repository
 
-17421 acts, 31,046 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+17436 acts, 31,061 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (2921, of which 1511 amending acts)
+## Laws (legi) (2924, of which 1512 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -1178,7 +1178,10 @@
 | Legea nr. 235/2015 | [`lege/2015/235/`](lege/2015/235/) | in force | 1 | 2015-10-17 | 2015-10-17 |
 | Legea nr. 237/2015 privind autorizarea și supravegherea activității de asigurare și reasigurare | [`lege/2015/237/`](lege/2015/237/) | in force | 11 | 2016-01-01 | 2025-12-19 |
 | Legea nr. 246/2015 | [`lege/2015/246/`](lege/2015/246/) | in force | 3 | 2015-11-05 | 2024-01-19 |
+| Legea nr. 247/2015 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 108/2013 pentru prorogarea termenului prevăzut la alin. (1) al art. 56 din Legea nr. 185/2013 privind amplasarea şi autorizarea mijloacelor de publicitate | [`lege/2015/247/`](lege/2015/247/) | amending act | 1 | 2015-11-02 | 2015-11-02 |
 | Legea nr. 249/2015 | [`lege/2015/249/`](lege/2015/249/) | in force | 9 | 2015-11-02 | 2023-11-03 |
+| Legea nr. 250/2015 privind declararea zilei de 28 noiembrie Ziua Bucovinei | [`lege/2015/250/`](lege/2015/250/) | in force | 1 | 2015-11-02 | 2015-11-02 |
+| Legea nr. 251/2015 pentru acceptarea Amendamentului de la Doha, adoptat la Doha la 8 decembrie 2012, la Protocolul de la Kyoto la Convenţia-cadru a Organizaţiei Naţiunilor Unite asupra schimbărilor climatice, adoptat la 11 decembrie 1997 | [`lege/2015/251/`](lege/2015/251/) | in force | 1 | 2015-11-16 | 2015-11-16 |
 | Legea nr. 252/2015 pentru modificarea art. 31 din Legea nr. 153/2011 privind măsuri de creştere a calităţii arhitectural-ambientale a clădirilor | [`lege/2015/252/`](lege/2015/252/) | amending act | 1 | 2015-11-06 | 2015-11-06 |
 | Legea nr. 253/2015 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 19/2015 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 36/2013 privind aplicarea în perioada 2013-2018 a unor măsuri de protecţie socială acordată persoanelor disponibilizate prin concedieri colective efectuate în baza planurilor de disponibilizare | [`lege/2015/253/`](lege/2015/253/) | amending act | 1 | 2015-11-06 | 2015-11-06 |
 | Legea nr. 255/2015 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 11/2015 privind acordarea unui împrumut Societăţii "Complexul Energetic Hunedoara" - S.A. din venituri rezultate din privatizare | [`lege/2015/255/`](lege/2015/255/) | amending act | 1 | 2015-11-06 | 2015-11-06 |
@@ -5156,7 +5159,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (12274, of which 5997 amending acts)
+## Government decisions (HG) (12286, of which 6004 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -8704,7 +8707,19 @@
 | Hotărârea Guvernului nr. 844/2015 | [`hg/2015/844/`](hg/2015/844/) | in force | 1 | 2015-10-15 | 2015-10-15 |
 | Hotărârea Guvernului nr. 845/2015 privind stabilirea unor obligaţii şi sancţiuni ce revin operatorilor care introduc pentru prima dată pe piaţă produse din lemn, în conformitate cu Regulamentul (UE) nr. 995/2010 al Parlamentului European şi al Consiliului din 20 octombrie 2010 de stabilire a obligaţiilor ce revin operatorilor care introduc pe piaţă lemn şi produse din lemn | [`hg/2015/845/`](hg/2015/845/) | in force | 2 | 2015-10-15 | 2017-11-09 |
 | Hotărârea Guvernului nr. 867/2015 | [`hg/2015/867/`](hg/2015/867/) | in force | 2 | 2015-11-09 | 2016-08-19 |
+| Hotărârea Guvernului nr. 890/2015 privind trecerea din domeniul public al statului în domeniul privat al statului a unor construcţii aflate în administrarea Ministerului Afacerilor Interne şi Serviciului Român de Informaţii şi pentru scoaterea din inventarul centralizat al bunurilor din domeniul public al statului a unui imobil aflat în administrarea Ministerului Afacerilor Interne şi Serviciului Român de Informaţii | [`hg/2015/890/`](hg/2015/890/) | in force | 1 | 2015-10-30 | 2015-10-30 |
+| Hotărârea Guvernului nr. 892/2015 privind actualizarea valorii de inventar a unui imobil aflat în domeniul public al statului şi în administrarea Ministerului Apărării Naţionale şi pentru transmiterea acestuia în domeniul public al judeţului Timiş | [`hg/2015/892/`](hg/2015/892/) | in force | 1 | 2015-11-02 | 2015-11-02 |
+| Hotărârea Guvernului nr. 893/2015 privind transmiterea unui imobil din domeniul public al statului şi din administrarea Ministerului Apărării Naţionale în domeniul public al comunei Rociu, judeţul Argeş | [`hg/2015/893/`](hg/2015/893/) | in force | 1 | 2015-11-02 | 2015-11-02 |
+| Hotărârea Guvernului nr. 894/2015 privind actualizarea anexei nr. 31 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului | [`hg/2015/894/`](hg/2015/894/) | amending act | 1 | 2015-11-03 | 2015-11-03 |
+| Hotărârea Guvernului nr. 897/2015 pentru modificarea Hotărârii Guvernului nr. 1.848/2004 privind stabilirea drepturilor de hrană, în timp de pace, ale personalului din sistemul administraţiei penitenciare | [`hg/2015/897/`](hg/2015/897/) | amending act | 1 | 2015-11-03 | 2015-11-03 |
+| Hotărârea Guvernului nr. 898/2015 pentru modificarea şi completarea Hotărârii Guvernului nr. 274/2013 privind acordarea ajutoarelor de minimis pentru investiţiile realizate de întreprinderile mici şi mijlocii | [`hg/2015/898/`](hg/2015/898/) | amending act | 1 | 2015-10-30 | 2015-10-30 |
+| Hotărârea Guvernului nr. 899/2015 privind alocarea temporară, pentru luna noiembrie a anului 2015, a unor sume din venituri rezultate din privatizare ordonatorilor principali de credite cu rol de autoritate de management, precum şi pentru modificarea art. 2 din Hotărârea Guvernului nr. 811/2015 privind alocarea temporară, pentru luna octombrie a anului 2015, a unor sume din venituri din privatizare ordonatorilor principali de credite cu rol de autoritate de management | [`hg/2015/899/`](hg/2015/899/) | amending act | 1 | 2015-10-30 | 2015-10-30 |
+| Hotărârea Guvernului nr. 900/2015 privind reglementarea unor măsuri financiare temporare pentru stimularea gradului de absorbţie a fondurilor alocate pentru agricultură aferente schemelor de plăţi directe şi pentru măsuri de piaţă în agricultură, precum şi a ajutoarelor specifice care se finanţează din Fondul european de garantare agricolă | [`hg/2015/900/`](hg/2015/900/) | in force | 1 | 2015-11-03 | 2015-11-03 |
 | Hotărârea Guvernului nr. 901/2015 privind aprobarea Strategiei naționale în domeniul achizițiilor publice | [`hg/2015/901/`](hg/2015/901/) | amending act | 1 | 2015-11-25 | 2015-11-25 |
+| Hotărârea Guvernului nr. 902/2015 pentru aprobarea Amendamentului convenit prin schimbul de scrisori semnate la Bucureşti la 7 aprilie 2015 şi 30 iulie 2015 şi la Bruxelles la 7 septembrie 2015 între Guvernul României şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare, la Acordul de împrumut (Proiect privind controlul integrat al poluării cu nutrienţi) dintre România şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare şi la Acordul de asistenţă financiară nerambursabilă acordată din Fondul Global de Mediu (Proiect privind controlul integrat al poluării cu nutrienţi) dintre România şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare, semnate la Bucureşti la 28 decembrie 2007 | [`hg/2015/902/`](hg/2015/902/) | amending act | 1 | 2015-11-16 | 2015-11-16 |
+| Hotărârea Guvernului nr. 903/2015 pentru modificarea anexei nr. 1 la Hotărârea Guvernului nr. 1.486/2005 privind asigurarea pazei şi protecţiei obiectivelor, bunurilor şi valorilor cu efective de jandarmi | [`hg/2015/903/`](hg/2015/903/) | amending act | 1 | 2015-11-04 | 2015-11-04 |
+| Hotărârea Guvernului nr. 904/2015 pentru modificarea Hotărârii Guvernului nr. 973/2012 privind aprobarea procedurii de acordare a sumelor din bugetul de stat, prin bugetul Ministerului Muncii, Familiei şi Protecţiei Sociale, pentru finanţarea unor cheltuieli de investiţii şi reparaţii capitale pentru centrele de zi şi rezidenţiale | [`hg/2015/904/`](hg/2015/904/) | amending act | 1 | 2015-11-09 | 2015-11-09 |
+| Hotărârea Guvernului nr. 905/2015 pentru indexarea indemnizaţiilor acordate în baza Legii nr. 109/2005 privind instituirea indemnizaţiei pentru activitatea de liber-profesionist a artiştilor interpreţi sau executanţi din România | [`hg/2015/905/`](hg/2015/905/) | in force | 1 | 2015-11-12 | 2015-11-12 |
 | Hotărârea Guvernului nr. 906/2015 pentru declararea zilelor de 31 octombrie, 1 şi 2 noiembrie 2015 zile de doliu naţional pe teritoriul României | [`hg/2015/906/`](hg/2015/906/) | in force | 1 | 2015-10-31 | 2015-10-31 |
 | Hotărârea Guvernului nr. 907/2015 privind acordarea unor ajutoare de urgenţă familiilor persoanelor decedate în urma tragicului eveniment din data de 30 octombrie 2015 | [`hg/2015/907/`](hg/2015/907/) | in force | 1 | 2015-11-03 | 2015-11-03 |
 | Hotărârea Guvernului nr. 908/2015 privind acordarea unui ajutor de urgenţă | [`hg/2015/908/`](hg/2015/908/) | in force | 1 | 2015-11-03 | 2015-11-03 |
