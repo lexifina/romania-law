@@ -3946,6 +3946,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/24449"
 },
 {
+"slug": "legea-176-2000",
+"path": "lege/2000/176",
+"kind": "lege",
+"year": "2000",
+"number": "176",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 176/2000",
+"short": "Legea nr. 176/2000",
+"code": null,
+"status": "in force",
+"versions": 6,
+"from": "2001-02-02",
+"latest": "2010-07-02",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/24854"
+},
+{
 "slug": "legea-188-2000",
 "path": "lege/2000/188",
 "kind": "lege",
@@ -35768,6 +35785,23 @@
 "from": "2002-11-14",
 "latest": "2024-06-16",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/39860"
+},
+{
+"slug": "oug-150-2002",
+"path": "oug/2002/150",
+"kind": "oug",
+"year": "2002",
+"number": "150",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 150/2002",
+"short": "OUG nr. 150/2002",
+"code": null,
+"status": "repealed 2006-05-28",
+"versions": 11,
+"from": "2002-11-20",
+"latest": "2006-05-28",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/40001"
 },
 {
 "slug": "oug-152-2002",
@@ -85427,6 +85461,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/144719"
 },
 {
+"slug": "hg-1259-2010",
+"path": "hg/2010/1259",
+"kind": "hg",
+"year": "2010",
+"number": "1259",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 1259/2010 privind stabilirea unor măsuri pentru aplicarea Regulamentului (CE) nr. 924/2009 al Parlamentului European şi al Consiliului din 16 septembrie 2009 privind plăţile transfrontaliere în Comunitate şi de abrogare a Regulamentului (CE) nr. 2.560/2001",
+"short": "HG nr. 1259/2010",
+"code": null,
+"status": "in force",
+"versions": 2,
+"from": "2011-01-16",
+"latest": "2012-09-24",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/124498"
+},
+{
 "slug": "hg-1267-2010",
 "path": "hg/2010/1267",
 "kind": "hg",
@@ -86022,6 +86073,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/127242"
 },
 {
+"slug": "hg-414-2011",
+"path": "hg/2011/414",
+"kind": "hg",
+"year": "2011",
+"number": "414",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 414/2011 privind aprobarea cifrelor de şcolarizare pentru învăţământul preuniversitar şi superior de stat în anul şcolar/universitar 2011-2012",
+"short": "HG nr. 414/2011",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2011-04-29",
+"latest": "2011-04-29",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/128038"
+},
+{
 "slug": "hg-431-2011",
 "path": "hg/2011/431",
 "kind": "hg",
@@ -86345,6 +86413,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/130513"
 },
 {
+"slug": "hg-738-2011",
+"path": "hg/2011/738",
+"kind": "hg",
+"year": "2011",
+"number": "738",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 738/2011 pentru aprobarea Regulamentului de organizare şi funcţionare al Departamentului pentru lupta antifraudă - DLAF",
+"short": "HG nr. 738/2011",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2011-08-04",
+"latest": "2011-08-04",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/130571"
+},
+{
 "slug": "hg-762-2011",
 "path": "hg/2011/762",
 "kind": "hg",
@@ -86530,6 +86615,23 @@
 "from": "2011-11-10",
 "latest": "2018-09-19",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/195890"
+},
+{
+"slug": "hg-966-2011",
+"path": "hg/2011/966",
+"kind": "hg",
+"year": "2011",
+"number": "966",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 966/2011 pentru aprobarea Nomenclatorului domeniilor şi al specializărilor/programelor de studii universitare, a structurii instituţiilor de învăţământ superior, a domeniilor şi programelor de studii universitare acreditate sau autorizate să funcţioneze provizoriu, a locaţiilor geografice de desfăşurare, a numărului de credite de studii transferabile pentru fiecare program de studii universitare, formă de învăţământ sau limbă de predare, precum şi a numărului maxim de studenţi care pot fi şcolarizaţi",
+"short": "HG nr. 966/2011",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2011-10-01",
+"latest": "2011-10-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/131899"
 },
 {
 "slug": "hg-967-2011",

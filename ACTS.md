@@ -1,6 +1,6 @@
 # Every act in this repository
 
-8316 acts, 21,195 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+8322 acts, 21,217 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -32,7 +32,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (1962, of which 764 amending acts)
+## Laws (legi) (1963, of which 764 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -267,6 +267,7 @@
 | Legea nr. 148/2000 | [`lege/2000/148/`](lege/2000/148/) | in force | 7 | 2000-10-31 | 2024-07-25 |
 | Legea nr. 156/2000 | [`lege/2000/156/`](lege/2000/156/) | in force | 10 | 2000-08-04 | 2022-02-23 |
 | Legea nr. 159/2000 | [`lege/2000/159/`](lege/2000/159/) | in force | 1 | 2000-10-05 | 2000-10-05 |
+| Legea nr. 176/2000 | [`lege/2000/176/`](lege/2000/176/) | in force | 6 | 2001-02-02 | 2010-07-02 |
 | Legea nr. 188/2000 privind executorii judecătorești | [`lege/2000/188/`](lege/2000/188/) | in force | 14 | 2000-11-10 | 2022-07-17 |
 | Legea nr. 189/2000 | [`lege/2000/189/`](lege/2000/189/) | in force | 19 | 2000-11-08 | 2013-02-15 |
 | Legea nr. 193/2000 privind clauzele abuzive din contractele încheiate între profesioniști și consumatori | [`lege/2000/193/`](lege/2000/193/) | in force | 10 | 2000-12-10 | 2022-05-28 |
@@ -1999,7 +2000,7 @@
 | Legea nr. 241/2025 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 31/2002 privind interzicerea organizațiilor, simbolurilor și faptelor cu caracter fascist, legionar, rasist sau xenofob și a promovării cultului persoanelor vinovate de săvârșirea unor infracțiuni de genocid contra umanității și de crime de război, precum și pentru modificarea Legii nr. 157/2018 privind unele măsuri pentru prevenirea și combaterea antisemitismului | [`lege/2025/241/`](lege/2025/241/) | amending act | 1 | 2025-12-27 | 2025-12-27 |
 | Legea nr. 245/2025 pentru modificarea art. 32 alin. (7) din Legea nr. 273/2006 privind finanțele publice locale | [`lege/2025/245/`](lege/2025/245/) | amending act | 1 | 2026-01-01 | 2026-01-01 |
 
-## Emergency ordinances (OUG) (1513, of which 526 amending acts)
+## Emergency ordinances (OUG) (1514, of which 526 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -2144,6 +2145,7 @@
 | Ordonanța de urgență a Guvernului nr. 139/2002 | [`oug/2002/139/`](oug/2002/139/) | in force | 3 | 2002-10-29 | 2019-05-13 |
 | Ordonanța de urgență a Guvernului nr. 141/2002 | [`oug/2002/141/`](oug/2002/141/) | repealed 2014-07-13 | 7 | 2002-12-18 | 2014-07-13 |
 | Ordonanța de urgență a Guvernului nr. 146/2002 | [`oug/2002/146/`](oug/2002/146/) | in force | 24 | 2002-11-14 | 2024-06-16 |
+| Ordonanța de urgență a Guvernului nr. 150/2002 | [`oug/2002/150/`](oug/2002/150/) | repealed 2006-05-28 | 11 | 2002-11-20 | 2006-05-28 |
 | Ordonanța de urgență a Guvernului nr. 152/2002 | [`oug/2002/152/`](oug/2002/152/) | in force | 2 | 2002-11-15 | 2003-04-22 |
 | Ordonanța de urgență a Guvernului nr. 153/2002 | [`oug/2002/153/`](oug/2002/153/) | in force | 3 | 2002-11-15 | 2017-07-01 |
 | Ordonanța de urgență a Guvernului nr. 155/2002 privind aprobarea scoaterii din rezervele de stat a unor cantităţi de combustibili pentru Societatea Comercială de Producere a Energiei Electrice şi Termice "Termoelectrica" - S.A., Societatea Comercială "Electrocentrale" Deva - S.A. şi centralele termice şi electrice de termoficare aflate în administrarea consiliilor judeţene şi locale | [`oug/2002/155/`](oug/2002/155/) | amending act | 2 | 2002-11-15 | 2003-04-23 |
@@ -3984,7 +3986,7 @@
 | Ordonanța Guvernului nr. 21/2025 pentru modificarea și completarea Legii nr. 431/2023 privind asigurarea unui nivel minim global de impozitare a grupurilor de întreprinderi multinaționale și a grupurilor naționale de mari dimensiuni | [`og/2025/21/`](og/2025/21/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 | Ordonanța Guvernului nr. 22/2025 pentru modificarea și completarea Legii nr. 227/2015 privind Codul fiscal | [`og/2025/22/`](og/2025/22/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 
-## Government decisions (HG) (4340, of which 1652 amending acts)
+## Government decisions (HG) (4344, of which 1655 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -5075,6 +5077,7 @@
 | Hotărârea Guvernului nr. 1217/2010 | [`hg/2010/1217/`](hg/2010/1217/) | in force | 1 | 2010-12-15 | 2010-12-15 |
 | Hotărârea Guvernului nr. 1235/2010 | [`hg/2010/1235/`](hg/2010/1235/) | in force | 4 | 2010-12-14 | 2020-08-21 |
 | Hotărârea Guvernului nr. 1239/2010 | [`hg/2010/1239/`](hg/2010/1239/) | in force | 3 | 2010-12-13 | 2013-01-15 |
+| Hotărârea Guvernului nr. 1259/2010 privind stabilirea unor măsuri pentru aplicarea Regulamentului (CE) nr. 924/2009 al Parlamentului European şi al Consiliului din 16 septembrie 2009 privind plăţile transfrontaliere în Comunitate şi de abrogare a Regulamentului (CE) nr. 2.560/2001 | [`hg/2010/1259/`](hg/2010/1259/) | in force | 2 | 2011-01-16 | 2012-09-24 |
 | Hotărârea Guvernului nr. 1267/2010 | [`hg/2010/1267/`](hg/2010/1267/) | in force | 4 | 2011-01-22 | 2025-08-18 |
 | Hotărârea Guvernului nr. 1304/2010 pentru modificarea și completarea unor acte normative din domeniul patrimoniului cultural național | [`hg/2010/1304/`](hg/2010/1304/) | amending act | 1 | 2011-01-14 | 2011-01-14 |
 | Hotărârea Guvernului nr. 1332/2010 | [`hg/2010/1332/`](hg/2010/1332/) | in force | 2 | 2010-12-29 | 2011-01-01 |
@@ -5110,6 +5113,7 @@
 | Hotărârea Guvernului nr. 341/2011 | [`hg/2011/341/`](hg/2011/341/) | in force | 1 | 2011-04-06 | 2011-04-06 |
 | Hotărârea Guvernului nr. 343/2011 privind aprobarea Statutului antrenorului | [`hg/2011/343/`](hg/2011/343/) | amending act | 1 | 2011-05-02 | 2011-05-02 |
 | Hotărârea Guvernului nr. 345/2011 | [`hg/2011/345/`](hg/2011/345/) | in force | 1 | 2011-03-31 | 2011-03-31 |
+| Hotărârea Guvernului nr. 414/2011 privind aprobarea cifrelor de şcolarizare pentru învăţământul preuniversitar şi superior de stat în anul şcolar/universitar 2011-2012 | [`hg/2011/414/`](hg/2011/414/) | amending act | 1 | 2011-04-29 | 2011-04-29 |
 | Hotărârea Guvernului nr. 431/2011 privind aprobarea indicatorilor tehnico-economici pentru 10 obiective de investiții prioritare din infrastructura de mediu și gospodărirea apelor | [`hg/2011/431/`](hg/2011/431/) | amending act | 1 | 2011-05-05 | 2011-05-05 |
 | Hotărârea Guvernului nr. 435/2011 | [`hg/2011/435/`](hg/2011/435/) | in force | 1 | 2011-05-20 | 2011-05-20 |
 | Hotărârea Guvernului nr. 455/2011 | [`hg/2011/455/`](hg/2011/455/) | in force | 1 | 2011-05-18 | 2011-05-18 |
@@ -5129,6 +5133,7 @@
 | Hotărârea Guvernului nr. 681/2011 | [`hg/2011/681/`](hg/2011/681/) | in force | 1 | 2011-08-03 | 2011-08-03 |
 | Hotărârea Guvernului nr. 718/2011 | [`hg/2011/718/`](hg/2011/718/) | in force | 1 | 2011-08-04 | 2011-08-04 |
 | Hotărârea Guvernului nr. 723/2011 | [`hg/2011/723/`](hg/2011/723/) | in force | 1 | 2011-09-01 | 2011-09-01 |
+| Hotărârea Guvernului nr. 738/2011 pentru aprobarea Regulamentului de organizare şi funcţionare al Departamentului pentru lupta antifraudă - DLAF | [`hg/2011/738/`](hg/2011/738/) | amending act | 1 | 2011-08-04 | 2011-08-04 |
 | Hotărârea Guvernului nr. 762/2011 | [`hg/2011/762/`](hg/2011/762/) | in force | 1 | 2011-08-04 | 2011-08-04 |
 | Hotărârea Guvernului nr. 789/2011 | [`hg/2011/789/`](hg/2011/789/) | in force | 1 | 2011-08-10 | 2011-08-10 |
 | Hotărârea Guvernului nr. 835/2011 | [`hg/2011/835/`](hg/2011/835/) | in force | 1 | 2011-08-23 | 2011-08-23 |
@@ -5140,6 +5145,7 @@
 | Hotărârea Guvernului nr. 920/2011 | [`hg/2011/920/`](hg/2011/920/) | in force | 1 | 2011-09-23 | 2011-09-23 |
 | Hotărârea Guvernului nr. 925/2011 | [`hg/2011/925/`](hg/2011/925/) | in force | 1 | 2011-09-23 | 2011-09-23 |
 | Hotărârea Guvernului nr. 935/2011 | [`hg/2011/935/`](hg/2011/935/) | repealed 2018-09-19 | 6 | 2011-11-10 | 2018-09-19 |
+| Hotărârea Guvernului nr. 966/2011 pentru aprobarea Nomenclatorului domeniilor şi al specializărilor/programelor de studii universitare, a structurii instituţiilor de învăţământ superior, a domeniilor şi programelor de studii universitare acreditate sau autorizate să funcţioneze provizoriu, a locaţiilor geografice de desfăşurare, a numărului de credite de studii transferabile pentru fiecare program de studii universitare, formă de învăţământ sau limbă de predare, precum şi a numărului maxim de studenţi care pot fi şcolarizaţi | [`hg/2011/966/`](hg/2011/966/) | amending act | 1 | 2011-10-01 | 2011-10-01 |
 | Hotărârea Guvernului nr. 967/2011 | [`hg/2011/967/`](hg/2011/967/) | in force | 2 | 2011-10-07 | 2011-12-09 |
 | Hotărârea Guvernului nr. 980/2011 | [`hg/2011/980/`](hg/2011/980/) | in force | 1 | 2011-10-25 | 2011-10-25 |
 | Hotărârea Guvernului nr. 1016/2011 | [`hg/2011/1016/`](hg/2011/1016/) | in force | 2 | 2011-10-24 | 2022-07-15 |
