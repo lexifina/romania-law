@@ -1,6 +1,6 @@
 # Every act in this repository
 
-18818 acts, 32,446 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+18825 acts, 32,453 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -5254,7 +5254,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (13573, of which 6781 amending acts)
+## Government decisions (HG) (13580, of which 6787 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -8668,9 +8668,16 @@
 | Hotărârea Guvernului nr. 6/2014 privind înființarea, organizarea și funcționarea Comitetului Tehnic de Securitate Aeronautică | [`hg/2014/6/`](hg/2014/6/) | in force | 2 | 2014-01-13 | 2015-08-25 |
 | Hotărârea Guvernului nr. 19/2014 | [`hg/2014/19/`](hg/2014/19/) | in force | 1 | 2014-02-19 | 2014-02-19 |
 | Hotărârea Guvernului nr. 32/2014 | [`hg/2014/32/`](hg/2014/32/) | in force | 1 | 2014-01-27 | 2014-01-27 |
+| Hotărârea Guvernului nr. 60/2014 pentru completarea unor anexe la Hotărârea Guvernului nr. 1.361/2001 privind atestarea domeniului public al judeţului Vaslui, precum şi al municipiilor, oraşelor şi comunelor din judeţul Vaslui | [`hg/2014/60/`](hg/2014/60/) | amending act | 1 | 2014-02-11 | 2014-02-11 |
+| Hotărârea Guvernului nr. 71/2014 privind aprobarea unor normative de cheltuieli pentru acţiunea de protocol cu caracter deosebit "Reuniunea Comitetului Executiv al Asociaţiei Oficialilor Electorali Europeni şi Conferinţa internaţională Participarea femeilor la alegeri", organizată în perioada 7-8 martie 2014 | [`hg/2014/71/`](hg/2014/71/) | amending act | 1 | 2014-02-11 | 2014-02-11 |
+| Hotărârea Guvernului nr. 72/2014 privind stabilirea valorii de intrare a activelor fixe la instituţiile publice | [`hg/2014/72/`](hg/2014/72/) | in force | 1 | 2014-02-12 | 2014-02-12 |
 | Hotărârea Guvernului nr. 75/2014 | [`hg/2014/75/`](hg/2014/75/) | in force | 2 | 2014-02-13 | 2016-07-01 |
 | Hotărârea Guvernului nr. 76/2014 | [`hg/2014/76/`](hg/2014/76/) | in force | 1 | 2014-02-24 | 2014-02-24 |
+| Hotărârea Guvernului nr. 87/2014 pentru modificarea şi completarea unor anexe la Hotărârea Guvernului nr. 1.359/2001 privind atestarea domeniului public al judeţului Prahova, precum şi al municipiilor, oraşelor şi comunelor din judeţul Prahova | [`hg/2014/87/`](hg/2014/87/) | amending act | 1 | 2014-02-18 | 2014-02-18 |
+| Hotărârea Guvernului nr. 90/2014 pentru completarea Hotărârii Guvernului nr. 1.486/2005 privind asigurarea pazei şi protecţiei obiectivelor, bunurilor şi valorilor cu efective de jandarmi şi pentru modificarea Hotărârii Guvernului nr. 7/2013 privind organizarea şi funcţionarea Departamentului pentru proiecte de infrastructură şi investiţii străine | [`hg/2014/90/`](hg/2014/90/) | amending act | 1 | 2014-02-17 | 2014-02-17 |
+| Hotărârea Guvernului nr. 93/2014 pentru aprobarea Acordului de cooperare în domeniile educaţiei, ştiinţei, culturii, mass-mediei, tineretului şi sportului dintre Guvernul României şi Guvernul Republicii Macedonia, semnat la Skopje la 3 iulie 2013 | [`hg/2014/93/`](hg/2014/93/) | amending act | 1 | 2014-02-20 | 2014-02-20 |
 | Hotărârea Guvernului nr. 94/2014 | [`hg/2014/94/`](hg/2014/94/) | in force | 2 | 2014-02-23 | 2014-12-30 |
+| Hotărârea Guvernului nr. 97/2014 privind aprobarea prealabilă în vederea recunoaşterii prin hotărâre judecătorească a Asociaţiei Internaţionale a Apei din Londra, Regatul Unit al Marii Britanii şi Irlandei de Nord | [`hg/2014/97/`](hg/2014/97/) | amending act | 1 | 2014-02-28 | 2014-02-28 |
 | Hotărârea Guvernului nr. 98/2014 privind aprobarea stemelor comunelor Farcaşa, Ruginoasa şi Taşca, judeţul Neamţ | [`hg/2014/98/`](hg/2014/98/) | amending act | 1 | 2014-03-20 | 2014-03-20 |
 | Hotărârea Guvernului nr. 99/2014 pentru aprobarea amendamentului convenit prin schimbul de scrisori semnate la Bucureşti la 20 iunie 2013 şi la Paris la 18 octombrie 2013 între Guvernul României şi Banca de Dezvoltare a Consiliului Europei la Acordul-cadru de împrumut dintre România şi Banca de Dezvoltare a Consiliului Europei, semnat la 12 iulie 2007 la Bucureşti şi la 26 iulie 2007 la Paris, pentru finanţarea proiectului "Reforma educaţiei timpurii în România" | [`hg/2014/99/`](hg/2014/99/) | amending act | 1 | 2014-02-24 | 2014-02-24 |
 | Hotărârea Guvernului nr. 100/2014 pentru aprobarea amendamentelor convenite între Guvernul României şi KfW, prin scrisoarea semnată la Frankfurt am Main la 12 noiembrie 2012 şi la Bucureşti la 3 decembrie 2012, la Acordul de împrumut dintre KfW, Frankfurt am Main, (KfW) şi România, semnat la Frankfurt am Main la 26 septembrie 2007, respectiv la Bucureşti la 28 decembrie 2007, pentru finanţarea Programului privind infrastructura municipală | [`hg/2014/100/`](hg/2014/100/) | amending act | 1 | 2014-02-24 | 2014-02-24 |
