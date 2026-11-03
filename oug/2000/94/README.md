@@ -33,3 +33,40 @@ Act id: `oug-94-2000` (tags `oug-94-2000/<day>`; `python tools/on.py <day> oug-9
 - OUG nr. 94/2000: the form of 21 March 2020 prints "10^1" for "10 1" in art. 10 (portal typesetting: not an amendment; the printed text is kept and no law is credited).
 - OUG nr. 94/2000: the portal editorial notes printed as paragraphs of an article (on a Constitutional Court ruling, a rectification, a provision put back in force) are not text: 9 such paragraphs across all forms, for example «* Legea nr. 247/2005 privind reforma în domeniile proprietăț», «Art. 5^1 a fost renumerotat, devenind art. 5^4 potrivit pct.».
 - OUG nr. 94/2000: 4 changed article(s) with no note naming a law, committed as the publisher's: 2002-07-31 art-006, 2005-12-30 art-013, 2006-07-06 art-013, 2020-03-21 art-010.
+
+## Credits corrected
+
+These changes were first published credited to another law. The words are unchanged; `git blame` still names the commit that wrote them, and `data/credits.csv` lists every corrected credit.
+
+- `art-001.md`, in force from 2005-09-01: Legea nr. 247/2005 (first published as no law named).
+- `art-001-1.md`, in force from 2005-09-01: Legea nr. 247/2005 (first published as no law named).
+- `art-002.md`, in force from 2005-09-01: Legea nr. 247/2005 (first published as no law named).
+- `art-003.md`, in force from 2005-09-01: Legea nr. 247/2005 (first published as no law named).
+- `art-004.md`, in force from 2005-09-01: Legea nr. 247/2005 (first published as no law named).
+- `art-004-1.md`, in force from 2005-09-01: Legea nr. 247/2005 (first published as no law named).
+- `art-004-2.md`, in force from 2005-09-01: Legea nr. 247/2005 (first published as no law named).
+- `art-005.md`, in force from 2005-09-01: Legea nr. 247/2005 (first published as no law named).
+- `art-005-1.md`, in force from 2005-09-01: Legea nr. 247/2005 (first published as no law named).
+- `art-005-2.md`, in force from 2005-09-01: Legea nr. 247/2005 (first published as no law named).
+- `art-005-3.md`, in force from 2005-09-01: Legea nr. 247/2005 (first published as no law named).
+- `art-005-4.md`, in force from 2005-09-01: Legea nr. 247/2005 (first published as no law named).
+- `art-006.md`, in force from 2005-09-01: Legea nr. 247/2005 (first published as no law named).
+- `art-007.md`, in force from 2005-09-01: Legea nr. 247/2005 (first published as no law named).
+- `art-008.md`, in force from 2005-09-01: Legea nr. 247/2005 (first published as no law named).
+- `art-009.md`, in force from 2005-09-01: Legea nr. 247/2005 (first published as no law named).
+- `art-010.md`, in force from 2005-09-01: Legea nr. 247/2005 (first published as no law named).
+- `art-011.md`, in force from 2005-09-01: Legea nr. 247/2005 (first published as no law named).
+- `art-012.md`, in force from 2005-09-01: Legea nr. 247/2005 (first published as no law named).
+- `art-013.md`, in force from 2005-09-01: Legea nr. 247/2005 (first published as no law named).
+- `art-001.md`, in force from 2005-10-27: Rectificare MO nr. 955/2005 (first published as no law named).
+- `art-009.md`, in force from 2005-12-30: OUG nr. 209/2005 (first published as no law named).
+- `art-010.md`, in force from 2005-12-30: OUG nr. 209/2005 (first published as no law named).
+- `art-010-1.md`, in force from 2005-12-30: OUG nr. 209/2005 (first published as no law named).
+- `art-009.md`, in force from 2006-07-06: Legea nr. 263/2006 (first published as no law named).
+- `art-010.md`, in force from 2006-07-06: Legea nr. 263/2006 (first published as no law named).
+- `art-010-1.md`, in force from 2006-07-06: Legea nr. 263/2006 (first published as no law named).
+- `art-003.md`, in force from 2009-04-14: OUG nr. 35/2009 (first published as no law named).
+- `art-003.md`, in force from 2015-06-29: OUG nr. 21/2015 (first published as no law named).
+- `art-001.md`, in force from 2016-05-27: Legea nr. 103/2016 (first published as no law named).
+- `art-003.md`, in force from 2016-05-27: Legea nr. 103/2016 (first published as no law named).
+- `art-004.md`, in force from 2020-03-21: Legea nr. 22/2020 (first published as no law named).
