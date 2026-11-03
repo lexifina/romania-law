@@ -1,6 +1,6 @@
 # Every act in this repository
 
-6577 acts, 19,045 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+6580 acts, 19,065 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -3781,7 +3781,7 @@
 | Ordonanța Guvernului nr. 21/2025 pentru modificarea și completarea Legii nr. 431/2023 privind asigurarea unui nivel minim global de impozitare a grupurilor de întreprinderi multinaționale și a grupurilor naționale de mari dimensiuni | [`og/2025/21/`](og/2025/21/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 | Ordonanța Guvernului nr. 22/2025 pentru modificarea și completarea Legii nr. 227/2015 privind Codul fiscal | [`og/2025/22/`](og/2025/22/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 
-## Government decisions (HG) (2804, of which 928 amending acts)
+## Government decisions (HG) (2807, of which 928 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -3864,6 +3864,7 @@
 | Hotărârea Guvernului nr. 581/1998 | [`hg/1998/581/`](hg/1998/581/) | in force | 5 | 1998-09-15 | 2007-01-20 |
 | Hotărârea Guvernului nr. 582/1998 | [`hg/1998/582/`](hg/1998/582/) | in force | 3 | 1998-09-15 | 2010-11-17 |
 | Hotărârea Guvernului nr. 585/1998 | [`hg/1998/585/`](hg/1998/585/) | in force | 3 | 1998-09-15 | 2007-01-20 |
+| Hotărârea Guvernului nr. 625/1998 | [`hg/1998/625/`](hg/1998/625/) | in force | 7 | 1998-10-01 | 2012-01-12 |
 | Hotărârea Guvernului nr. 626/1998 privind organizarea și funcționarea Autorității Feroviare Române - AFER | [`hg/1998/626/`](hg/1998/626/) | in force | 5 | 1998-10-01 | 2023-04-11 |
 | Hotărârea Guvernului nr. 725/1998 | [`hg/1998/725/`](hg/1998/725/) | in force | 2 | 1998-10-23 | 2013-08-02 |
 | Hotărârea Guvernului nr. 753/1998 | [`hg/1998/753/`](hg/1998/753/) | in force | 1 | 1998-11-30 | 1998-11-30 |
@@ -4694,6 +4695,7 @@
 | Hotărârea Guvernului nr. 519/2009 | [`hg/2009/519/`](hg/2009/519/) | in force | 2 | 2009-05-18 | 2012-10-05 |
 | Hotărârea Guvernului nr. 561/2009 | [`hg/2009/561/`](hg/2009/561/) | in force | 1 | 2009-05-14 | 2009-05-14 |
 | Hotărârea Guvernului nr. 583/2009 | [`hg/2009/583/`](hg/2009/583/) | in force | 1 | 2009-05-22 | 2009-05-22 |
+| Hotărârea Guvernului nr. 595/2009 | [`hg/2009/595/`](hg/2009/595/) | repealed 2018-01-30 | 10 | 2009-05-27 | 2018-01-30 |
 | Hotărârea Guvernului nr. 600/2009 | [`hg/2009/600/`](hg/2009/600/) | in force | 2 | 2009-06-03 | 2012-09-28 |
 | Hotărârea Guvernului nr. 606/2009 | [`hg/2009/606/`](hg/2009/606/) | repealed 2018-01-30 | 3 | 2009-06-12 | 2018-01-30 |
 | Hotărârea Guvernului nr. 609/2009 | [`hg/2009/609/`](hg/2009/609/) | in force | 2 | 2009-06-03 | 2010-11-30 |
@@ -4864,6 +4866,7 @@
 | Hotărârea Guvernului nr. 461/2011 | [`hg/2011/461/`](hg/2011/461/) | in force | 2 | 2011-05-12 | 2015-07-21 |
 | Hotărârea Guvernului nr. 494/2011 | [`hg/2011/494/`](hg/2011/494/) | repealed 2021-09-24 | 5 | 2011-06-02 | 2021-09-24 |
 | Hotărârea Guvernului nr. 500/2011 | [`hg/2011/500/`](hg/2011/500/) | in force | 4 | 2011-08-01 | 2017-08-07 |
+| Hotărârea Guvernului nr. 536/2011 | [`hg/2011/536/`](hg/2011/536/) | repealed 2013-04-30 | 3 | 2011-06-20 | 2013-04-30 |
 | Hotărârea Guvernului nr. 556/2011 | [`hg/2011/556/`](hg/2011/556/) | in force | 4 | 2011-06-22 | 2017-10-20 |
 | Hotărârea Guvernului nr. 593/2011 | [`hg/2011/593/`](hg/2011/593/) | in force | 6 | 2011-06-20 | 2019-12-03 |
 | Hotărârea Guvernului nr. 620/2011 | [`hg/2011/620/`](hg/2011/620/) | in force | 1 | 2011-06-28 | 2011-06-28 |

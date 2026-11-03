@@ -18251,6 +18251,33 @@
    ]
   },
   {
+   "slug": "hg-536-2011",
+   "path": "hg/2011/536",
+   "short": "HG nr. 536/2011",
+   "title": "Hotărârea Guvernului nr. 536/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/142429",
+   "versions": [
+    {
+     "from": "2011-06-20",
+     "units": 34,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/129421",
+     "sha256": "33e674e95a7bff14852b92c20f975e4e59526018265db584309bdcfe93bbfc50"
+    },
+    {
+     "from": "2012-03-08",
+     "units": 34,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/136115",
+     "sha256": "95424a7327dde33fc869c8e9add1d43170e29c55fcc57a63e1dc8606d677c74e"
+    },
+    {
+     "from": "2013-04-30",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/147507",
+     "sha256": "e67244cb43ca86d84f81b45d7cb1a5b3e11814a5e5d1a9ffa7a9000cd0b60fa0"
+    }
+   ]
+  },
+  {
    "slug": "hg-54-2009",
    "path": "hg/2009/54",
    "short": "HG nr. 54/2009",
@@ -18962,6 +18989,75 @@
    ]
   },
   {
+   "slug": "hg-595-2009",
+   "path": "hg/2009/595",
+   "short": "HG nr. 595/2009",
+   "title": "Hotărârea Guvernului nr. 595/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/106277",
+   "versions": [
+    {
+     "from": "2009-05-27",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/106277",
+     "sha256": "578d6e88ef95f1fb781ef1e848ddfb4e39aa0c90c6c2ebc12372eebae0d73b72"
+    },
+    {
+     "from": "2009-05-27",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/128100",
+     "sha256": "23d8bda0d4e23d3c546d32fbdde6d5a639b64cb15736223f37bccab9b7e60a79"
+    },
+    {
+     "from": "2011-11-23",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/149166",
+     "sha256": "abc1ecb08ef1e776637bbf88a50392d61c0e26e2f20466e1b48fc0a7e54a3660"
+    },
+    {
+     "from": "2013-06-26",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/149167",
+     "sha256": "e1a38f3cc408d09eb6b2ec3d43527b467efa897bd24f918afae257cd20a11c1a"
+    },
+    {
+     "from": "2014-12-30",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/164517",
+     "sha256": "3add488e4f0657d41be414d2cf5cde59c7fda4d50ab39f840ecd2580aa25a60a"
+    },
+    {
+     "from": "2015-01-14",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/164726",
+     "sha256": "f30cbb0e2f59f7c9f63e3011b48217d769c5761e945f28ec84f1aacbbcc02aaa"
+    },
+    {
+     "from": "2016-01-27",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/175367",
+     "sha256": "d0dbdd38c16ef7a156384f1d5413fd30af095c648f59737a3a4e0e1b6f35e3bd"
+    },
+    {
+     "from": "2016-03-28",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/176932",
+     "sha256": "6ee94e770d19e1d82ca6a032c050728e7d56fcf4b3797c38b14a4755aee5d19d"
+    },
+    {
+     "from": "2017-02-02",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/185946",
+     "sha256": "0584fdf202a614a69adc04dd4c57101b39b04ec96e1e9a98cdaba477e2c61693"
+    },
+    {
+     "from": "2018-01-30",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/262589",
+     "sha256": "53aa340fcc61bfd0fbc06137f54d2e29c9b294988097cf567d951c7350084a95"
+    }
+   ]
+  },
+  {
    "slug": "hg-595-2015",
    "path": "hg/2015/595",
    "short": "HG nr. 595/2015",
@@ -19159,6 +19255,57 @@
      "units": 0,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/193282",
      "sha256": "0c7b1ff063110f6289e4b629a5b0730239315a02d6d6e563bda37ef9ad397086"
+    }
+   ]
+  },
+  {
+   "slug": "hg-625-1998",
+   "path": "hg/1998/625",
+   "short": "HG nr. 625/1998",
+   "title": "Hotărârea Guvernului nr. 625/1998",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15752",
+   "versions": [
+    {
+     "from": "1998-10-01",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/15752",
+     "sha256": "9e6a09e83e0bec46b29c760721662dfa8dd4abf52ae0966eb2589faeae53d5d0"
+    },
+    {
+     "from": "2003-02-07",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/123863",
+     "sha256": "3196b68744b0a32c21c99e681856a112bf3102d88f340e4f39850ce861a7290a"
+    },
+    {
+     "from": "2005-01-03",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/123865",
+     "sha256": "1acf0366c41eace74f26deb407426536f87d1895386d98a603a856c83b7d0e8c"
+    },
+    {
+     "from": "2006-01-31",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/123867",
+     "sha256": "ff8fc40d41a5454bcb08c77b012d9449a3f355fa2b66f8dbd4496a103b144a12"
+    },
+    {
+     "from": "2006-10-18",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/123869",
+     "sha256": "0d887fc9b9277829b1b5de5d4b4461034f994f1249e3ec47e34a3aeed420819f"
+    },
+    {
+     "from": "2010-11-17",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/123871",
+     "sha256": "e9702cdc1a55c54c6425ca4a1980257e71362ce2293a915082dcec8087da9e6f"
+    },
+    {
+     "from": "2012-01-12",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/136147",
+     "sha256": "f15ce9bb47e45836c2cd7ed8b9d011e46cfcbe7937d23967e76541f4d4578e40"
     }
    ]
   },

@@ -64840,6 +64840,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/177450"
 },
 {
+"slug": "hg-625-1998",
+"path": "hg/1998/625",
+"kind": "hg",
+"year": "1998",
+"number": "625",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 625/1998",
+"short": "HG nr. 625/1998",
+"code": null,
+"status": "in force",
+"versions": 7,
+"from": "1998-10-01",
+"latest": "2012-01-12",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/15752"
+},
+{
 "slug": "hg-626-1998",
 "path": "hg/1998/626",
 "kind": "hg",
@@ -78950,6 +78967,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/106107"
 },
 {
+"slug": "hg-595-2009",
+"path": "hg/2009/595",
+"kind": "hg",
+"year": "2009",
+"number": "595",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 595/2009",
+"short": "HG nr. 595/2009",
+"code": null,
+"status": "repealed 2018-01-30",
+"versions": 10,
+"from": "2009-05-27",
+"latest": "2018-01-30",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/106277"
+},
+{
 "slug": "hg-600-2009",
 "path": "hg/2009/600",
 "kind": "hg",
@@ -81838,6 +81872,23 @@
 "from": "2011-08-01",
 "latest": "2017-08-07",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/128873"
+},
+{
+"slug": "hg-536-2011",
+"path": "hg/2011/536",
+"kind": "hg",
+"year": "2011",
+"number": "536",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 536/2011",
+"short": "HG nr. 536/2011",
+"code": null,
+"status": "repealed 2013-04-30",
+"versions": 3,
+"from": "2011-06-20",
+"latest": "2013-04-30",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/142429"
 },
 {
 "slug": "hg-556-2011",
