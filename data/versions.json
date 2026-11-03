@@ -80510,6 +80510,141 @@
    ]
   },
   {
+   "slug": "oug-195-2005",
+   "path": "oug/2005/195",
+   "short": "OUG nr. 195/2005",
+   "title": "Ordonanța de urgență a Guvernului nr. 195/2005 privind protecția mediului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/67634",
+   "versions": [
+    {
+     "from": "2006-01-29",
+     "units": 105,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/67634",
+     "sha256": "7032bfcfe93024e27a592613927380987b0f083f9d5d77b3e156a6a97b1d6306"
+    },
+    {
+     "from": "2006-01-31",
+     "units": 105,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73250",
+     "sha256": "1dc41f922c0204e8cc08b155c1bd91e3748b9663a95975e81e1f1d8995031bb0"
+    },
+    {
+     "from": "2006-07-09",
+     "units": 105,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73251",
+     "sha256": "c70b740519968719ef61d7bad452bb0f70998470469b77d1d70fb8d06aba4a5b"
+    },
+    {
+     "from": "2007-01-01",
+     "units": 105,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73251",
+     "sha256": "c70b740519968719ef61d7bad452bb0f70998470469b77d1d70fb8d06aba4a5b"
+    },
+    {
+     "from": "2007-01-01",
+     "units": 105,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73251",
+     "sha256": "c70b740519968719ef61d7bad452bb0f70998470469b77d1d70fb8d06aba4a5b"
+    },
+    {
+     "from": "2007-06-29",
+     "units": 103,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84800",
+     "sha256": "291ac28075d9b6cce5bd707b6b2dfe2269651b7880f91f4ab7abe6396968b53a"
+    },
+    {
+     "from": "2007-10-22",
+     "units": 103,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86399",
+     "sha256": "c0da875e2c5257e60024ebab386630cfe17ed7f3085b8818923019aa48082985"
+    },
+    {
+     "from": "2008-12-03",
+     "units": 102,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/101000",
+     "sha256": "5b0086d99d45c2d272440c00a4175bcc43d6394e442be52df6faacdc38ea7d59"
+    },
+    {
+     "from": "2012-01-01",
+     "units": 102,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/138044",
+     "sha256": "fdf0e0d192e88ab2ebefa6fae51c6d46bc53eb79b100a7e344c424e1b9036ede"
+    },
+    {
+     "from": "2012-10-16",
+     "units": 102,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142094",
+     "sha256": "3d54e26578b59ac3addecb42f670db5cb672b1151659d4b498bb664831cb5c09"
+    },
+    {
+     "from": "2013-04-28",
+     "units": 102,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/147521",
+     "sha256": "71aae897ba8072a5bc613a65a6e9b854e4d6fb2577563214e2c131d83cb8ddeb"
+    },
+    {
+     "from": "2013-07-21",
+     "units": 105,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/147522",
+     "sha256": "74ce4da4a2f63a0614b5745aa46e2738e85a54e82780e94cf8d297d735b57096"
+    },
+    {
+     "from": "2015-02-01",
+     "units": 105,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/149964",
+     "sha256": "5d5b01c38c88117c3a03faf0a418f44b6f5adb955c3d6c64587bd99419ab4bcd"
+    },
+    {
+     "from": "2016-04-06",
+     "units": 105,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/177309",
+     "sha256": "70040eb80d3596bb9b7787b9803721fa463f95bd43812cf63bf867ba55e8f5c6"
+    },
+    {
+     "from": "2018-07-19",
+     "units": 105,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/202495",
+     "sha256": "0693e922e8af9e1714bf9b12a60122ebb6b7f45c93f122e61ca5ae59bade9b7b"
+    },
+    {
+     "from": "2019-01-09",
+     "units": 105,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/208427",
+     "sha256": "a0cddfcfb0646b4a85bf19eee1360299c1da2ddf7c7042eb7ca35f72fd757128"
+    },
+    {
+     "from": "2019-11-18",
+     "units": 105,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/219338",
+     "sha256": "06b950cbfa5540b9531accff2aa4d4059f484536f4fa8fce97c094c48593a5b7"
+    },
+    {
+     "from": "2020-07-16",
+     "units": 111,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/227310",
+     "sha256": "32529820b7e0eab890e0541ead4cebffd294c4d0fede3705ddb49b252a30f4a2"
+    },
+    {
+     "from": "2020-07-25",
+     "units": 111,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/227391",
+     "sha256": "244ec118f4bfd57172c6ba548aafa996ae72985fa2114b4946eae43218169295"
+    },
+    {
+     "from": "2021-04-23",
+     "units": 111,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/240648",
+     "sha256": "03a1533af92213e1275f9756130f849faf1967d91067c67e75102ede21cee219"
+    },
+    {
+     "from": "2022-04-07",
+     "units": 111,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/253015",
+     "sha256": "27b6f70401cb77653affa91ea167115708367b375c32b239345e5067c69205cb"
+    }
+   ]
+  },
+  {
    "slug": "oug-196-2005",
    "path": "oug/2005/196",
    "short": "OUG nr. 196/2005",
@@ -98876,6 +99011,21 @@
    ]
   },
   {
+   "slug": "hg-1063-2021",
+   "path": "hg/2021/1063",
+   "short": "HG nr. 1063/2021",
+   "title": "Hotărârea Guvernului nr. 1063/2021 privind aprobarea stemei comunei Mânăstirea, judeţul Călăraşi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/247843",
+   "versions": [
+    {
+     "from": "2021-11-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/247843",
+     "sha256": "ecd2f393619d9f63884bb8e1fd1d372c3b2b62dcbd9ddf5ac2de362ce123ec05"
+    }
+   ]
+  },
+  {
    "slug": "hg-1063-2023",
    "path": "hg/2023/1063",
    "short": "HG nr. 1063/2023",
@@ -99169,6 +99319,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85617",
      "sha256": "4a5e135ddac39f24bd1883401039878d52652a6c5b3d57b5d467799b0e9415a3"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1067-2021",
+   "path": "hg/2021/1067",
+   "short": "HG nr. 1067/2021",
+   "title": "Hotărârea Guvernului nr. 1067/2021 privind înscrierea unor imobile situate în comuna Luna, judeţul Cluj, în inventarul centralizat al bunurilor din domeniul public al statului, darea acestora în administrarea Ministerului Apărării Naţionale, modificarea valorii de inventar a imobilului 1833, aflat în domeniul public al statului şi în administrarea Ministerului Apărării Naţionale, şi a anexei nr. 4 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/247550",
+   "versions": [
+    {
+     "from": "2021-10-20",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/247550",
+     "sha256": "b996beacd51244a27d6565f48f6fe9522a596b3ba59eef6bd5350bf2a5fcda18"
     }
    ]
   },
@@ -99890,6 +100055,21 @@
    ]
   },
   {
+   "slug": "hg-1079-2021",
+   "path": "hg/2021/1079",
+   "short": "HG nr. 1079/2021",
+   "title": "Hotărârea Guvernului nr. 1079/2021 privind înscrierea unor imobile situate în oraşul Lipova, judeţul Arad, în inventarul centralizat al bunurilor din domeniul public al statului, darea acestora în administrarea Ministerului Apărării Naţionale, modificarea valorii de inventar a imobilului 2315 aflat în domeniul public al statului şi în administrarea Ministerului Apărării Naţionale şi a anexei nr. 4 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/247712",
+   "versions": [
+    {
+     "from": "2021-10-27",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/247712",
+     "sha256": "755e1d30d8835445de1efba86a965255358c5d579cb91a71fe412bf024eba12d"
+    }
+   ]
+  },
+  {
    "slug": "hg-1079-2024",
    "path": "hg/2024/1079",
    "short": "HG nr. 1079/2024",
@@ -100066,6 +100246,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/142891",
      "sha256": "edcc630e2b24af565a672d04f6128b0863a33e6bca266a24825c3892c2b63801"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1080-2021",
+   "path": "hg/2021/1080",
+   "short": "HG nr. 1080/2021",
+   "title": "Hotărârea Guvernului nr. 1080/2021 privind actualizarea valorii de inventar a imobilului 2795 aflat în domeniul public al statului şi în administrarea Ministerului Apărării Naţionale, darea în folosinţa gratuită a Asociaţiei Naţionale Cultul Eroilor \"Regina Maria\", pe o perioadă de 20 de ani, a unor părţi din imobilele 768, 2344, 2795 şi 2829, aflate în domeniul public al statului şi în administrarea Ministerului Apărării Naţionale, şi modificarea anexei nr. 4 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/247721",
+   "versions": [
+    {
+     "from": "2021-10-27",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/247721",
+     "sha256": "7b54f607e717768346c318f77d73e379daa234f866f07f8e09decdf4c30a9bfe"
     }
    ]
   },
@@ -100889,6 +101084,21 @@
    ]
   },
   {
+   "slug": "hg-1096-2021",
+   "path": "hg/2021/1096",
+   "short": "HG nr. 1096/2021",
+   "title": "Hotărârea Guvernului nr. 1096/2021 pentru aprobarea amendamentului convenit prin schimbul de scrisori semnate la Bucureşti la 22 iulie 2021 şi la Paris la 23 august 2021 între Guvernul României şi Banca de Dezvoltare a Consiliului Europei la Acordul-cadru de împrumut dintre România şi Banca de Dezvoltare a Consiliului Europei, semnat la 2 februarie 2007 la Bucureşti şi la 9 februarie 2007 la Paris, pentru finanţarea primei faze a Proiectului \"Sistem integrat de reabilitare a sistemelor de alimentare cu apă şi canalizare, a staţiilor de tratare a apei potabile şi staţiilor de epurare a apelor uzate în localităţile cu o populaţie de până la 50.000 de locuitori\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/247551",
+   "versions": [
+    {
+     "from": "2021-10-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/247551",
+     "sha256": "0b5608f6638041c65cbf9862e4962ae68400d2cd87a4c9bd957efcbf1b3d155f"
+    }
+   ]
+  },
+  {
    "slug": "hg-1096-2023",
    "path": "hg/2023/1096",
    "short": "HG nr. 1096/2023",
@@ -100915,6 +101125,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/288347",
      "sha256": "d2ff827819fdcf4c1c517589afdb4a639fbfb3d962d5c0bf2b2a0bf7d016cb21"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1097-2021",
+   "path": "hg/2021/1097",
+   "short": "HG nr. 1097/2021",
+   "title": "Hotărârea Guvernului nr. 1097/2021 privind actualizarea anexei la Hotărârea Guvernului nr. 847/2020 pentru aprobarea Listei cuprinzând categoriile de informaţii secrete de stat, pe niveluri de secretizare, elaborate sau deţinute de Ministerul Finanţelor Publice şi de instituţiile aflate în subordinea acestuia şi termenele de clasificare aferente",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/247601",
+   "versions": [
+    {
+     "from": "2021-10-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/247601",
+     "sha256": "9d32f7241267899792021a7821686fff709682c030fa2f6aaa8b1648aaf63e7a"
     }
    ]
   },
@@ -101225,6 +101450,21 @@
    ]
   },
   {
+   "slug": "hg-1100-2021",
+   "path": "hg/2021/1100",
+   "short": "HG nr. 1100/2021",
+   "title": "Hotărârea Guvernului nr. 1100/2021 privind modificarea datelor de identificare şi actualizarea valorilor de inventar ale unor imobile aflate în domeniul public al statului şi în administrarea unor unităţi din subordinea Ministerului Agriculturii şi Dezvoltării Rurale, precum şi transmiterea unei părţi dintr-un imobil aflat în domeniul public al statului din administrarea Direcţiei pentru Agricultură Judeţene Olt în administrarea Agenţiei pentru Finanţarea Investiţiilor Rurale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/247602",
+   "versions": [
+    {
+     "from": "2021-10-21",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/247602",
+     "sha256": "c1dc282b0c975ec534eb13049cc789456d791395d59fe0c98607cb9bfdb52dd0"
+    }
+   ]
+  },
+  {
    "slug": "hg-1100-2022",
    "path": "hg/2022/1100",
    "short": "HG nr. 1100/2022",
@@ -101251,6 +101491,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/288365",
      "sha256": "2f3e6869bc54e0920ee4f196db2eedcf435d6f7a7830fa78bc137024aeb56f4d"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1101-2021",
+   "path": "hg/2021/1101",
+   "short": "HG nr. 1101/2021",
+   "title": "Hotărârea Guvernului nr. 1101/2021 privind actualizarea datelor de identificare şi scoaterea unor bunuri mobile din inventarul centralizat al bunurilor din domeniul public al statului, aflate în administrarea Ministerului Mediului, Apelor şi Pădurilor - Regia Naţională a Pădurilor - Romsilva, ca urmare a decesului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/247603",
+   "versions": [
+    {
+     "from": "2021-10-21",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/247603",
+     "sha256": "b81967882f745690fa91261186e3f685b32539ba8df1a6ab4e6947c5be6e9fac"
     }
    ]
   },
@@ -101317,6 +101572,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/288165",
      "sha256": "5ee19bacd3eb33d5ba9e975afca339720b39271920cf2548166dc5cae0d8c2b8"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1103-2021",
+   "path": "hg/2021/1103",
+   "short": "HG nr. 1103/2021",
+   "title": "Hotărârea Guvernului nr. 1103/2021 privind aprobarea stemei comunei Valea Mare, judeţul Covasna",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/247844",
+   "versions": [
+    {
+     "from": "2021-11-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/247844",
+     "sha256": "d7bf729016fe2a4760a424adc265bad1b7660fed1b526168a7be1eb7beb5ac42"
     }
    ]
   },
@@ -102293,6 +102563,21 @@
    ]
   },
   {
+   "slug": "hg-1128-2021",
+   "path": "hg/2021/1128",
+   "short": "HG nr. 1128/2021",
+   "title": "Hotărârea Guvernului nr. 1128/2021 privind aprobarea stemei comunei Ighiu, judeţul Alba",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/247845",
+   "versions": [
+    {
+     "from": "2021-11-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/247845",
+     "sha256": "11c9878cbdf0ad9f3c38901fdb64db0e98597be88cfc40bb3341d0476613f69b"
+    }
+   ]
+  },
+  {
    "slug": "hg-1128-2023",
    "path": "hg/2023/1128",
    "short": "HG nr. 1128/2023",
@@ -102304,6 +102589,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/276477",
      "sha256": "1e599e5f573245f0694af5d76c76fc85edb9500b9cccce64642c64ed79828347"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1129-2021",
+   "path": "hg/2021/1129",
+   "short": "HG nr. 1129/2021",
+   "title": "Hotărârea Guvernului nr. 1129/2021 privind aprobarea modelului de steag al judeţului Timiş",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/247846",
+   "versions": [
+    {
+     "from": "2021-11-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/247846",
+     "sha256": "3f6ad3e2e2b3412b3266493c24e36be0b24f48e836205829cbde311bc168076f"
     }
    ]
   },
@@ -102503,6 +102803,21 @@
    ]
   },
   {
+   "slug": "hg-1132-2021",
+   "path": "hg/2021/1132",
+   "short": "HG nr. 1132/2021",
+   "title": "Hotărârea Guvernului nr. 1132/2021 privind numirea domnului Perianu Radu-Valeriu în funcţia de prefect al judeţului Argeş",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/247630",
+   "versions": [
+    {
+     "from": "2021-10-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/247630",
+     "sha256": "05b88256ab13cad2a47346bba8b65bf60b456523200b3636d51aa483cdee7583"
+    }
+   ]
+  },
+  {
    "slug": "hg-1132-2023",
    "path": "hg/2023/1132",
    "short": "HG nr. 1132/2023",
@@ -102551,6 +102866,21 @@
    ]
   },
   {
+   "slug": "hg-1133-2021",
+   "path": "hg/2021/1133",
+   "short": "HG nr. 1133/2021",
+   "title": "Hotărârea Guvernului nr. 1133/2021 privind numirea domnului Ţiclea Daniel-Marian în funcţia de prefect al judeţului Buzău",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/247631",
+   "versions": [
+    {
+     "from": "2021-10-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/247631",
+     "sha256": "ab6ffee16dbbc2af865fb2f790f5ae506291cb141e40fcead0d429a3c29e9d60"
+    }
+   ]
+  },
+  {
    "slug": "hg-1133-2022",
    "path": "hg/2022/1133",
    "short": "HG nr. 1133/2022",
@@ -102592,6 +102922,21 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/288371",
      "sha256": "212432155b338790307e42672adf9bf47a17e30a92e3b918f3dd0411627edd6f"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1134-2021",
+   "path": "hg/2021/1134",
+   "short": "HG nr. 1134/2021",
+   "title": "Hotărârea Guvernului nr. 1134/2021 privind numirea domnului Moldovan Gheorghe-Alexandru în funcţia de prefect al judeţului Suceava",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/247632",
+   "versions": [
+    {
+     "from": "2021-10-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/247632",
+     "sha256": "b6888045414d19e1c605a59b7826567e96da18874c8f9231f1817f47e320b7c0"
     }
    ]
   },
@@ -102881,6 +103226,21 @@
    ]
   },
   {
+   "slug": "hg-1139-2021",
+   "path": "hg/2021/1139",
+   "short": "HG nr. 1139/2021",
+   "title": "Hotărârea Guvernului nr. 1139/2021 pentru aprobarea plăţii contribuţiei financiare voluntare a României, pentru anul 2020, necesare funcţionării Secretariatului Organismului de Coordonare al Acordului multilateral al autorităţilor competente privind schimbul de rapoarte pentru fiecare ţară în parte",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/247746",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/247746",
+     "sha256": "831acf2fa49de9bb276121f38ea7c2d97b35b498563febcff813d4b836746c67"
+    }
+   ]
+  },
+  {
    "slug": "hg-1139-2022",
    "path": "hg/2022/1139",
    "short": "HG nr. 1139/2022",
@@ -103037,6 +103397,21 @@
    ]
   },
   {
+   "slug": "hg-1141-2021",
+   "path": "hg/2021/1141",
+   "short": "HG nr. 1141/2021",
+   "title": "Hotărârea Guvernului nr. 1141/2021 pentru aprobarea măsurilor privind nivelul de siguranţă şi securitate în funcţionare a Sistemului electroenergetic naţional, precum şi a măsurilor în legătură cu realizarea stocurilor de siguranţă ale Sistemului electroenergetic naţional în ceea ce priveşte combustibilii şi volumul de apă din lacurile de acumulare pentru perioada 1 noiembrie 2021-31 martie 2022",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/247691",
+   "versions": [
+    {
+     "from": "2021-10-26",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/247691",
+     "sha256": "c664bb599485155d087a0eef058a49c9bba1b4e719c2ab5dbab108e8c7f88dcc"
+    }
+   ]
+  },
+  {
    "slug": "hg-1141-2024",
    "path": "hg/2024/1141",
    "short": "HG nr. 1141/2024",
@@ -103082,6 +103457,21 @@
    ]
   },
   {
+   "slug": "hg-1143-2021",
+   "path": "hg/2021/1143",
+   "short": "HG nr. 1143/2021",
+   "title": "Hotărârea Guvernului nr. 1143/2021 privind desfiinţarea Spitalului de Obstetrică-Ginecologie Ploieşti şi reorganizarea acestuia ca structură fără personalitate juridică în cadrul Spitalului Judeţean de Urgenţă Ploieşti",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/247786",
+   "versions": [
+    {
+     "from": "2021-10-29",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/247786",
+     "sha256": "0e07ef21c107df104c20721b399696d224d6ce16f71badc5ecb7276018cc6cd2"
+    }
+   ]
+  },
+  {
    "slug": "hg-1143-2024",
    "path": "hg/2024/1143",
    "short": "HG nr. 1143/2024",
@@ -103093,6 +103483,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/288402",
      "sha256": "680441abd54bfe85ea88b232110bca421288b19da80dfc0620fb8ddbadfd0f26"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1144-2021",
+   "path": "hg/2021/1144",
+   "short": "HG nr. 1144/2021",
+   "title": "Hotărârea Guvernului nr. 1144/2021 pentru actualizarea valorii de inventar a unui imobil aflat în domeniul public al statului şi administrarea Ministerului Afacerilor Interne - Inspectoratul de Jandarmi Judeţean Constanţa (UM 0406 Constanţa) ca urmare a reevaluării şi schimbării unităţii de administrare pentru o parte din acesta, precum şi pentru actualizarea anexei nr. 1 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/247864",
+   "versions": [
+    {
+     "from": "2021-11-02",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/247864",
+     "sha256": "df530cde4ed790e6c7445ef08ac40bed35697de0c88f81c5f90a0c44067809af"
     }
    ]
   },
@@ -103274,6 +103679,21 @@
    ]
   },
   {
+   "slug": "hg-1149-2021",
+   "path": "hg/2021/1149",
+   "short": "HG nr. 1149/2021",
+   "title": "Hotărârea Guvernului nr. 1149/2021 privind plata unei contribuţii financiare voluntare a României la bugetul Comunităţii Democraţiilor (CoD)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/247747",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/247747",
+     "sha256": "6b064d5000f53e261bd82d32496a317307d41dc42a0c713276fb6dd6c636d662"
+    }
+   ]
+  },
+  {
    "slug": "hg-1149-2022",
    "path": "hg/2022/1149",
    "short": "HG nr. 1149/2022",
@@ -103394,6 +103814,21 @@
    ]
   },
   {
+   "slug": "hg-1150-2021",
+   "path": "hg/2021/1150",
+   "short": "HG nr. 1150/2021",
+   "title": "Hotărârea Guvernului nr. 1150/2021 privind plata contribuţiei financiare restante pentru anul 2018 şi plata parţială a primei tranşe a facturii pentru anul 2019 a României la programele opţionale ale Agenţiei Spaţiale Europene (ESA)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/247748",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/247748",
+     "sha256": "5afc8742bfa7f40bde6a46c462b12c7d5bfaced1b2631f7e3c786665713723e2"
+    }
+   ]
+  },
+  {
    "slug": "hg-1150-2022",
    "path": "hg/2022/1150",
    "short": "HG nr. 1150/2022",
@@ -103454,6 +103889,21 @@
    ]
   },
   {
+   "slug": "hg-1151-2021",
+   "path": "hg/2021/1151",
+   "short": "HG nr. 1151/2021",
+   "title": "Hotărârea Guvernului nr. 1151/2021 privind scoaterea bunului cu nr. MF 26944 din inventarul centralizat al bunurilor din domeniul public al statului şi din administrarea Institutului Naţional de Cercetare-Dezvoltare pentru Fizică şi Inginerie Nucleară \"Horia Hulubei\" - IFIN-HH Bucureşti, ca urmare a finalizării dezafectării reactorului nuclear VVR-S",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/248251",
+   "versions": [
+    {
+     "from": "2021-11-05",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/248251",
+     "sha256": "518ec2149aab5b82cc194a3a78d74af8c8daa949c5b60d3514cd19e1f6ea0bfe"
+    }
+   ]
+  },
+  {
    "slug": "hg-1151-2022",
    "path": "hg/2022/1151",
    "short": "HG nr. 1151/2022",
@@ -103495,6 +103945,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/288667",
      "sha256": "e4353c54a9a4b5cc8d820a84c4b6bc2fac68bf8f75684de4a02cdd1702bd25dd"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1152-2021",
+   "path": "hg/2021/1152",
+   "short": "HG nr. 1152/2021",
+   "title": "Hotărârea Guvernului nr. 1152/2021 privind aprobarea stemei comunei Rucăr, judeţul Argeş",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/247847",
+   "versions": [
+    {
+     "from": "2021-11-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/247847",
+     "sha256": "f700554971cb046ccccf66111afe6d81e73a233ef8c95c940f4a7e13cd6940fb"
     }
    ]
   },
@@ -103775,6 +104240,21 @@
    ]
   },
   {
+   "slug": "hg-1156-2021",
+   "path": "hg/2021/1156",
+   "short": "HG nr. 1156/2021",
+   "title": "Hotărârea Guvernului nr. 1156/2021 privind scăderea din inventarul centralizat al bunurilor din domeniul public al statului a unor imobile aflate în domeniul public al statului şi în administrarea Ministerului Afacerilor Interne - Inspectoratul Judeţean de Poliţie Prahova, ca urmare a înscrierii eronate, precum şi a retrocedării, în condiţiile legii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/247830",
+   "versions": [
+    {
+     "from": "2021-11-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/247830",
+     "sha256": "496d3b19d11e98bd774fdaa6e6e9c026369b7cef6660ca6f29b4425e026abcba"
+    }
+   ]
+  },
+  {
    "slug": "hg-1156-2023",
    "path": "hg/2023/1156",
    "short": "HG nr. 1156/2023",
@@ -103850,6 +104330,21 @@
    ]
   },
   {
+   "slug": "hg-1157-2021",
+   "path": "hg/2021/1157",
+   "short": "HG nr. 1157/2021",
+   "title": "Hotărârea Guvernului nr. 1157/2021 privind autorizarea Serviciului de Telecomunicaţii Speciale pentru a accepta o donaţie în favoarea statului român",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/247861",
+   "versions": [
+    {
+     "from": "2021-11-02",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/247861",
+     "sha256": "79341d53d913fbb1048bd8c667b9881514709054d99711ada74b95030e662d15"
+    }
+   ]
+  },
+  {
    "slug": "hg-1157-2022",
    "path": "hg/2022/1157",
    "short": "HG nr. 1157/2022",
@@ -103921,6 +104416,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/288691",
      "sha256": "da1b598064b66b6897b320d46bf2cd5cb76aa63d835aeaca05749b5b8de8102e"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1159-2021",
+   "path": "hg/2021/1159",
+   "short": "HG nr. 1159/2021",
+   "title": "Hotărârea Guvernului nr. 1159/2021 privind actualizarea datelor de identificare şi a valorilor de inventar ale imobilelor aflate în domeniul public al statului şi în administrarea Curţii de Conturi, precum şi darea în administrarea Curţii de Conturi a unui imobil-construcţie cu destinaţia sediu administrativ situat în judeţul Timiş, aflat în domeniul public al statului, şi înscrierea în anexa nr. 33 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/248291",
+   "versions": [
+    {
+     "from": "2021-11-08",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/248291",
+     "sha256": "ebcf23f96adbfba3292d722d8cedb35bcef5405c09b72855b18bf2016611c0e7"
     }
    ]
   },
@@ -104105,6 +104615,21 @@
    ]
   },
   {
+   "slug": "hg-1164-2021",
+   "path": "hg/2021/1164",
+   "short": "HG nr. 1164/2021",
+   "title": "Hotărârea Guvernului nr. 1164/2021 privind numirea doamnei Lungu Tudoriţa în funcţia de prefect al judeţului Bacău",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/247763",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/247763",
+     "sha256": "dfc25157efe202cbb298b7cf805f191a7a80a3ead3fef5593a9af3eb526fc2eb"
+    }
+   ]
+  },
+  {
    "slug": "hg-1164-2023",
    "path": "hg/2023/1164",
    "short": "HG nr. 1164/2023",
@@ -104116,6 +104641,21 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/276628",
      "sha256": "7ad29dcbd5dc16a5f36cd3d0da41501ccc6cca7d83d47a47d048e20e20f0ddaf"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1165-2021",
+   "path": "hg/2021/1165",
+   "short": "HG nr. 1165/2021",
+   "title": "Hotărârea Guvernului nr. 1165/2021 privind numirea domnului Dobrescu Florin-Sergiu în funcţia de prefect al judeţului Brăila",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/247764",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/247764",
+     "sha256": "0bc6917890a9f50f61bfc0ddfe6760606587cc15ac3b72760e88dcd3be63c71c"
     }
    ]
   },
@@ -104150,6 +104690,21 @@
    ]
   },
   {
+   "slug": "hg-1166-2021",
+   "path": "hg/2021/1166",
+   "short": "HG nr. 1166/2021",
+   "title": "Hotărârea Guvernului nr. 1166/2021 privind numirea domnului Predescu Lucian-Dragoş în funcţia de subprefect al judeţului Argeş",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/247765",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/247765",
+     "sha256": "07e390bee36c944dda38a19d1d5ba60eabbc8aa91dca738ebce6540ec107a85d"
+    }
+   ]
+  },
+  {
    "slug": "hg-1166-2023",
    "path": "hg/2023/1166",
    "short": "HG nr. 1166/2023",
@@ -104180,6 +104735,21 @@
    ]
   },
   {
+   "slug": "hg-1167-2021",
+   "path": "hg/2021/1167",
+   "short": "HG nr. 1167/2021",
+   "title": "Hotărârea Guvernului nr. 1167/2021 privind acceptarea de către statul român, prin Ministerul Sănătăţii, a unei donaţii de medicamente şi darea în administrare a acestora, în scopul repartizării către unităţile sanitare care tratează bolnavi de COVID-19",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/247766",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/247766",
+     "sha256": "4c5dd6e21a9ebf91b087f972a55f4ea20fba8f366bbb17a4837a70b7db5c3c21"
+    }
+   ]
+  },
+  {
    "slug": "hg-1167-2023",
    "path": "hg/2023/1167",
    "short": "HG nr. 1167/2023",
@@ -104191,6 +104761,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/276638",
      "sha256": "8222d34adfd0a86df1f95c66d129f6631d52913badec686ee42da335cca6ce70"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1168-2021",
+   "path": "hg/2021/1168",
+   "short": "HG nr. 1168/2021",
+   "title": "Hotărârea Guvernului nr. 1168/2021 privind aprobarea bugetului de venituri şi cheltuieli rectificat pe anul 2021 al Administraţiei Naţionale de Meteorologie, care funcţionează sub autoritatea Ministerului Mediului, Apelor şi Pădurilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/247848",
+   "versions": [
+    {
+     "from": "2021-11-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/247848",
+     "sha256": "b5f1c3813a24a2f0b28a488644072197dfde5caa64654c370f0483f0657a138c"
     }
    ]
   },
@@ -104221,6 +104806,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/133571",
      "sha256": "5a0baed71931b8c47d1241bee729b1c915587742d16c77bfdfacda09908a2026"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1169-2021",
+   "path": "hg/2021/1169",
+   "short": "HG nr. 1169/2021",
+   "title": "Hotărârea Guvernului nr. 1169/2021 pentru aprobarea bugetului de venituri şi cheltuieli rectificat pe anul 2021 pentru Administraţia Naţională „Apele Române“, aflată în coordonarea Ministerului Mediului, Apelor şi Pădurilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/247862",
+   "versions": [
+    {
+     "from": "2021-11-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/247862",
+     "sha256": "c71df5a373ff49312faec369e62853a487dd329d158ad3d9c69f029b08ea0be8"
     }
    ]
   },
@@ -104281,6 +104881,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/295032",
      "sha256": "24d538248ffab8128aeccef392455d758db5586cfcd9967c36b9c0b049033657"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1170-2021",
+   "path": "hg/2021/1170",
+   "short": "HG nr. 1170/2021",
+   "title": "Hotărârea Guvernului nr. 1170/2021 privind declanşarea procedurilor de expropriere a imobilului proprietate privată situat pe amplasamentul suplimentar, necesar pentru relocarea utilităţilor, care face parte din coridorul de expropriere al lucrării de utilitate publică \"Modernizarea centurii rutiere a municipiului Bucureşti între A1-DN 7 şi DN 2-A2\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/247851",
+   "versions": [
+    {
+     "from": "2021-11-02",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/247851",
+     "sha256": "8e94e4ca0450f09233076a6a690b07a42df4080fb517a30860d835b8e7e088c8"
     }
    ]
   },
@@ -104593,6 +105208,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/143605",
      "sha256": "e3485e03dba34d6d4f4c8786dca222f5f3cbc28bafce0e20e58d19c5105ddb73"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1175-2021",
+   "path": "hg/2021/1175",
+   "short": "HG nr. 1175/2021",
+   "title": "Hotărârea Guvernului nr. 1175/2021 privind aprobarea închirierii unei părţi din imobilul 307 aflat în domeniul public al statului şi în administrarea Ministerului Apărării Naţionale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/248252",
+   "versions": [
+    {
+     "from": "2021-11-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/248252",
+     "sha256": "1e39a1f398c5f0338cb59c00048c59434d517ef6e710d6df815bad7b9dfb3a66"
     }
    ]
   },
@@ -104978,6 +105608,21 @@
    ]
   },
   {
+   "slug": "hg-1182-2021",
+   "path": "hg/2021/1182",
+   "short": "HG nr. 1182/2021",
+   "title": "Hotărârea Guvernului nr. 1182/2021 privind actualizarea valorii de inventar a unor bunuri imobile aflate în domeniul public al statului şi în administrarea Oficiului de Cadastru şi Publicitate Imobiliară Mehedinţi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/248353",
+   "versions": [
+    {
+     "from": "2021-11-10",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/248353",
+     "sha256": "11cc71df3ebaf81bd32cb93685d6e51e54f4c93ee4720630fd61ec10d995ae06"
+    }
+   ]
+  },
+  {
    "slug": "hg-1182-2022",
    "path": "hg/2022/1182",
    "short": "HG nr. 1182/2022",
@@ -105095,6 +105740,21 @@
    ]
   },
   {
+   "slug": "hg-1185-2021",
+   "path": "hg/2021/1185",
+   "short": "HG nr. 1185/2021",
+   "title": "Hotărârea Guvernului nr. 1185/2021 privind aprobarea Amendamentelor nr. 1 convenite prin scrisoarea semnată între Guvernul României şi Banca Europeană de Investiţii, la Bucureşti la 9 februarie 2021 şi la Luxemburg la 28 ianuarie 2021, la Contractul-cadru de finanţare dintre România şi Banca Europeană de Investiţii (România UE cofinanţare pentru creştere 2014-2020), semnat la Bucureşti la 15 iulie 2016, la Contractul-cadru de finanţare dintre România şi Banca Europeană de Investiţii (România UE cofinanţare pentru transport 2014-2020), semnat la Luxemburg la 18 iulie 2017, şi la Contractul de finanţare dintre România şi Banca Europeană de Investiţii (România - Cofinanţare UE pentru dezvoltare rurală 2014-2020), semnat la Bucureşti la 17 septembrie 2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/248400",
+   "versions": [
+    {
+     "from": "2021-11-12",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/248400",
+     "sha256": "e4e17233bbb4379370f85ffb67486e05650bb91f3cee907d9a6d6ddcc5dba8f7"
+    }
+   ]
+  },
+  {
    "slug": "hg-1185-2022",
    "path": "hg/2022/1185",
    "short": "HG nr. 1185/2022",
@@ -105200,6 +105860,21 @@
    ]
   },
   {
+   "slug": "hg-1188-2021",
+   "path": "hg/2021/1188",
+   "short": "HG nr. 1188/2021",
+   "title": "Hotărârea Guvernului nr. 1188/2021 privind repartizarea unor sume din transferuri din bugetul de stat către bugete locale, prevăzute în bugetul Ministerului Educaţiei, pentru finanţarea în anul 2021 a unor cheltuieli de capital ale unităţilor de învăţământ preuniversitar de stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/248367",
+   "versions": [
+    {
+     "from": "2021-11-10",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/248367",
+     "sha256": "2866cedaeea1a1415d5edad004f35e10041e903eb37c9bc6845d43acf91fc837"
+    }
+   ]
+  },
+  {
    "slug": "hg-1188-2023",
    "path": "hg/2023/1188",
    "short": "HG nr. 1188/2023",
@@ -105241,6 +105916,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/47070",
      "sha256": "7f7fa79b17da1dc5e1addcb7cf51fe504c9a8737a363acf5e419c88d8c2d73ef"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1189-2021",
+   "path": "hg/2021/1189",
+   "short": "HG nr. 1189/2021",
+   "title": "Hotărârea Guvernului nr. 1189/2021 privind acordarea unor ajutoare de urgenţă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/248388",
+   "versions": [
+    {
+     "from": "2021-11-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/248388",
+     "sha256": "244886f6af270157f3f7695e506f8f7ff142835ed959e9035c293ad8de1d02e7"
     }
    ]
   },
@@ -105380,6 +106070,21 @@
    ]
   },
   {
+   "slug": "hg-1190-2021",
+   "path": "hg/2021/1190",
+   "short": "HG nr. 1190/2021",
+   "title": "Hotărârea Guvernului nr. 1190/2021 privind alocarea de sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2021, pentru suplimentarea bugetului Ministerului Sănătăţii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/248382",
+   "versions": [
+    {
+     "from": "2021-11-11",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/248382",
+     "sha256": "af63d218963ad2219ccd37f7ddb551416cc007b0099377e576d52ed6ac3f9b39"
+    }
+   ]
+  },
+  {
    "slug": "hg-1190-2024",
    "path": "hg/2024/1190",
    "short": "HG nr. 1190/2024",
@@ -105406,6 +106111,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/47073",
      "sha256": "867c65d5c1bf3226449c02a60e54e724cf800e01f2b7130f3a4db54198613f90"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1191-2021",
+   "path": "hg/2021/1191",
+   "short": "HG nr. 1191/2021",
+   "title": "Hotărârea Guvernului nr. 1191/2021 privind aprobarea scoaterii definitive din fondul forestier naţional, fără compensare, de către Compania Naţională de Administrare a Infrastructurii Rutiere - S.A. a terenului forestier în suprafaţă de 17,8464 ha, în vederea realizării obiectivului de interes naţional şi utilitate publică \"Drum expres Craiova-Piteşti şi legăturile la drumurile existente\", tronsonul 4, aflat pe raza localităţilor Lunca Corbului, Albota, Costeşti, Bradu, Suseni şi Oarja din judeţul Argeş",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/248422",
+   "versions": [
+    {
+     "from": "2021-11-15",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/248422",
+     "sha256": "f8b1a1773c907763acae7bd01aecf16e2622eed5c2187ef560e8a6391d9ae973"
     }
    ]
   },
@@ -105451,6 +106171,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/47076",
      "sha256": "b047063535d0e29735c994502a6e6b2eca827e2547fa99c35e394d6201da3391"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1192-2021",
+   "path": "hg/2021/1192",
+   "short": "HG nr. 1192/2021",
+   "title": "Hotărârea Guvernului nr. 1192/2021 pentru aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Recompartimentare clădire existentă şi extindere cu un corp nou - Secţia clinică neurochirurgie - Centru de patologie vasculo-cerebrală şi neurochirurgie la Spitalul Clinic Judeţean de Urgenţă Cluj-Napoca\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/248390",
+   "versions": [
+    {
+     "from": "2021-11-11",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/248390",
+     "sha256": "cf1dfd044436e125cd87ca0c8094746e39ff232dd18cf40414a01b0e45598a3b"
     }
    ]
   },
@@ -105515,6 +106250,21 @@
    ]
   },
   {
+   "slug": "hg-1194-2021",
+   "path": "hg/2021/1194",
+   "short": "HG nr. 1194/2021",
+   "title": "Hotărârea Guvernului nr. 1194/2021 privind declanşarea procedurilor de expropriere a tuturor imobilelor proprietate privată situate pe amplasamentul suplimentar, necesar pentru relocarea utilităţilor, care fac parte din coridorul de expropriere al lucrării de utilitate publică de interes naţional \"Drum expres Craiova-Piteşti şi legăturile la drumurile existente\", tronsonul 2",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/248430",
+   "versions": [
+    {
+     "from": "2021-11-15",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/248430",
+     "sha256": "2fa760f4ca8f6f89a2323eee39a3856764ef74b0cf2803092ed65072a21d2bba"
+    }
+   ]
+  },
+  {
    "slug": "hg-1194-2022",
    "path": "hg/2022/1194",
    "short": "HG nr. 1194/2022",
@@ -105560,6 +106310,21 @@
    ]
   },
   {
+   "slug": "hg-1195-2021",
+   "path": "hg/2021/1195",
+   "short": "HG nr. 1195/2021",
+   "title": "Hotărârea Guvernului nr. 1195/2021 pentru aprobarea deciziei de închidere a Minei Uricani din cadrul Societăţii Naţionale de Închideri Mine Valea Jiului - S.A., aflată sub autoritatea Ministerului Energiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/248511",
+   "versions": [
+    {
+     "from": "2021-11-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/248511",
+     "sha256": "fcc1fc981ced5bc00c72e31b23a2ca877c6a1a743690bdc70af517694a2aa8ce"
+    }
+   ]
+  },
+  {
    "slug": "hg-1195-2023",
    "path": "hg/2023/1195",
    "short": "HG nr. 1195/2023",
@@ -105586,6 +106351,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/289064",
      "sha256": "aa4291e18a1c48af0962c9ff9b666d8e60965167b37ff2f7416baaaf4e0ba098"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1196-2021",
+   "path": "hg/2021/1196",
+   "short": "HG nr. 1196/2021",
+   "title": "Hotărârea Guvernului nr. 1196/2021 pentru aprobarea deciziei de închidere a Minei Paroşeni din cadrul Societăţii Naţionale de Închideri Mine Valea Jiului - S.A., aflată sub autoritatea Ministerului Energiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/248512",
+   "versions": [
+    {
+     "from": "2021-11-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/248512",
+     "sha256": "60b19d151ab76c99ef9986f671ae3d74ed3621c447bf53def37b666600ddb43e"
     }
    ]
   },
@@ -105686,6 +106466,21 @@
    ]
   },
   {
+   "slug": "hg-1198-2021",
+   "path": "hg/2021/1198",
+   "short": "HG nr. 1198/2021",
+   "title": "Hotărârea Guvernului nr. 1198/2021 privind modificarea codului de clasificaţie al unui bun mobil, aflat în domeniul public al statului şi în administrarea Regiei Autonome \"Administraţia Patrimoniului Protocolului de Stat\", precum şi pentru schimbarea titularului dreptului de administrare al acestuia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/248453",
+   "versions": [
+    {
+     "from": "2021-11-16",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/248453",
+     "sha256": "7f4eca847d19a28313e758c69ceb2dba3a309db0fdaf5d94b56dd880b1b529e6"
+    }
+   ]
+  },
+  {
    "slug": "hg-1198-2023",
    "path": "hg/2023/1198",
    "short": "HG nr. 1198/2023",
@@ -105712,6 +106507,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/289067",
      "sha256": "5160248b652f9162b1ea3d2e188299258a616d6ee808f6c982ec362b62dc09b2"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1199-2021",
+   "path": "hg/2021/1199",
+   "short": "HG nr. 1199/2021",
+   "title": "Hotărârea Guvernului nr. 1199/2021 pentru aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Bazin de înot, municipiul Vatra Dornei, zona Lunca Dornei, judeţul Suceava\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/248431",
+   "versions": [
+    {
+     "from": "2021-11-15",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/248431",
+     "sha256": "4bde40c03ea8d04ddfd09d22d5a2eb04d85dd56334e4a7b4ab7fc48d0f303b02"
     }
    ]
   },
@@ -105956,6 +106766,21 @@
    ]
   },
   {
+   "slug": "hg-1200-2021",
+   "path": "hg/2021/1200",
+   "short": "HG nr. 1200/2021",
+   "title": "Hotărârea Guvernului nr. 1200/2021 pentru reaprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Sală sport polivalentă 5.000 locuri\", municipiul Constanţa, judeţul Constanţa",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/248467",
+   "versions": [
+    {
+     "from": "2021-11-16",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/248467",
+     "sha256": "7698495a46031b3d6296901c0fff3a16c2c5188cf433da20537733669be8ceb1"
+    }
+   ]
+  },
+  {
    "slug": "hg-1200-2022",
    "path": "hg/2022/1200",
    "short": "HG nr. 1200/2022",
@@ -106001,6 +106826,21 @@
    ]
   },
   {
+   "slug": "hg-1201-2021",
+   "path": "hg/2021/1201",
+   "short": "HG nr. 1201/2021",
+   "title": "Hotărârea Guvernului nr. 1201/2021 pentru aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Sediu unităţi de parchet din municipiul Iaşi\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/248468",
+   "versions": [
+    {
+     "from": "2021-11-16",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/248468",
+     "sha256": "1973deedc32c73c6d98e82204379a1c91112142dfd07132a194842317f2b8fad"
+    }
+   ]
+  },
+  {
    "slug": "hg-1201-2022",
    "path": "hg/2022/1201",
    "short": "HG nr. 1201/2022",
@@ -106042,6 +106882,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/289070",
      "sha256": "e2e72b582dcdb32affd1cf6569ede571e246127162796ee1a39cafe3bd894516"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1202-2021",
+   "path": "hg/2021/1202",
+   "short": "HG nr. 1202/2021",
+   "title": "Hotărârea Guvernului nr. 1202/2021 privind aprobarea nivelului cotizaţiei pentru realizarea interconectării cu instituţii similare internaţionale şi/sau cu organizaţii internaţionale de schimb de organe, în anul 2021",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/248424",
+   "versions": [
+    {
+     "from": "2021-11-15",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/248424",
+     "sha256": "73766396c88ce61c2dd3ef27fc6e472b6dba44a137899cef7d94c17945364124"
     }
    ]
   },
@@ -106151,6 +107006,36 @@
    ]
   },
   {
+   "slug": "hg-1204-2021",
+   "path": "hg/2021/1204",
+   "short": "HG nr. 1204/2021",
+   "title": "Hotărârea Guvernului nr. 1204/2021 privind aprobarea stemei comunei Guşoeni, judeţul Vâlcea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/248598",
+   "versions": [
+    {
+     "from": "2021-11-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/248598",
+     "sha256": "dd2978832b9dba3b38e8cab9b316e456c38ed8899c5350eacf780ff18c169dbd"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1205-2021",
+   "path": "hg/2021/1205",
+   "short": "HG nr. 1205/2021",
+   "title": "Hotărârea Guvernului nr. 1205/2021 privind aprobarea stemei comunei Sântămăria-Orlea, judeţul Hunedoara",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/248599",
+   "versions": [
+    {
+     "from": "2021-11-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/248599",
+     "sha256": "ef150ffba79026547d6cc191fcb6bf871c9983529a09617f842ef71488fc789d"
+    }
+   ]
+  },
+  {
    "slug": "hg-1205-2023",
    "path": "hg/2023/1205",
    "short": "HG nr. 1205/2023",
@@ -106192,6 +107077,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/143750",
      "sha256": "8d592c740c9fd61c999564baba11687d00aa54c6b0b0380ebd92afd6f235c7c3"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1206-2021",
+   "path": "hg/2021/1206",
+   "short": "HG nr. 1206/2021",
+   "title": "Hotărârea Guvernului nr. 1206/2021 privind aprobarea modelului de steag al comunei Recea, judeţul Maramureş",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/248600",
+   "versions": [
+    {
+     "from": "2021-11-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/248600",
+     "sha256": "6153b32e069ef53ba94572ab41fd2b06eb1627a328a851ad6b0b0ccc6114f20f"
     }
    ]
   },
@@ -106241,6 +107141,21 @@
    ]
   },
   {
+   "slug": "hg-1207-2021",
+   "path": "hg/2021/1207",
+   "short": "HG nr. 1207/2021",
+   "title": "Hotărârea Guvernului nr. 1207/2021 privind aprobarea stemei comunei Petreşti, judeţul Satu Mare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/248601",
+   "versions": [
+    {
+     "from": "2021-11-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/248601",
+     "sha256": "1e44ce41dce00eaf91eb8ebed3b2e2fc37c5682adc9054d2633f6f343d51e5e6"
+    }
+   ]
+  },
+  {
    "slug": "hg-1207-2022",
    "path": "hg/2022/1207",
    "short": "HG nr. 1207/2022",
@@ -106286,6 +107201,21 @@
    ]
   },
   {
+   "slug": "hg-1208-2021",
+   "path": "hg/2021/1208",
+   "short": "HG nr. 1208/2021",
+   "title": "Hotărârea Guvernului nr. 1208/2021 privind aprobarea stemei comunei Strâmtura, judeţul Maramureş",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/248602",
+   "versions": [
+    {
+     "from": "2021-11-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/248602",
+     "sha256": "769117b72d50aeeec717711b2670405ad852f1a363e2c62841d478fcede74cfc"
+    }
+   ]
+  },
+  {
    "slug": "hg-1208-2022",
    "path": "hg/2022/1208",
    "short": "HG nr. 1208/2022",
@@ -106327,6 +107257,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/143891",
      "sha256": "f135a81096e535e5fb220e60e5390e1179434732da08949d584df98f2ce1f742"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1209-2021",
+   "path": "hg/2021/1209",
+   "short": "HG nr. 1209/2021",
+   "title": "Hotărârea Guvernului nr. 1209/2021 privind aprobarea stemei comunei Bordei Verde, judeţul Brăila",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/248603",
+   "versions": [
+    {
+     "from": "2021-11-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/248603",
+     "sha256": "8c4c6e721f3c02d56e3fbe715fe2d6e122934e46ca396c560f9f40ff956be347"
     }
    ]
   },
@@ -106436,6 +107381,21 @@
    ]
   },
   {
+   "slug": "hg-1210-2021",
+   "path": "hg/2021/1210",
+   "short": "HG nr. 1210/2021",
+   "title": "Hotărârea Guvernului nr. 1210/2021 privind aprobarea modelului steagului municipiului Satu Mare, judeţul Satu Mare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/248604",
+   "versions": [
+    {
+     "from": "2021-11-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/248604",
+     "sha256": "cb4af8aa31a9f309c1d0590f1f8b5baff8d41189a5d4d35170cd1d690ffa067d"
+    }
+   ]
+  },
+  {
    "slug": "hg-1210-2023",
    "path": "hg/2023/1210",
    "short": "HG nr. 1210/2023",
@@ -106487,6 +107447,21 @@
    ]
   },
   {
+   "slug": "hg-1212-2021",
+   "path": "hg/2021/1212",
+   "short": "HG nr. 1212/2021",
+   "title": "Hotărârea Guvernului nr. 1212/2021 privind recunoaşterea Asociaţiei \"Casa Faenza\" ca fiind de utilitate publică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/248454",
+   "versions": [
+    {
+     "from": "2021-11-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/248454",
+     "sha256": "b5d4e77b8e263f1456271f7521d8371a0a0b1cd3694e4a32e2416e39fe3a4e05"
+    }
+   ]
+  },
+  {
    "slug": "hg-1212-2022",
    "path": "hg/2022/1212",
    "short": "HG nr. 1212/2022",
@@ -106532,6 +107507,21 @@
    ]
   },
   {
+   "slug": "hg-1213-2021",
+   "path": "hg/2021/1213",
+   "short": "HG nr. 1213/2021",
+   "title": "Hotărârea Guvernului nr. 1213/2021 pentru retragerea statutului de utilitate publică recunoscut Fundaţiei ÎMPREUNĂ",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/248455",
+   "versions": [
+    {
+     "from": "2021-11-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/248455",
+     "sha256": "f56a13b1a157611a75523f0041437f1154d7c5da046d03e125396d3e893ee2a6"
+    }
+   ]
+  },
+  {
    "slug": "hg-1213-2022",
    "path": "hg/2022/1213",
    "short": "HG nr. 1213/2022",
@@ -106558,6 +107548,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/289082",
      "sha256": "d0c657c2d562d76abacfbacdae2768f693744f7f281e0faec78446f4b6dad156"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1214-2021",
+   "path": "hg/2021/1214",
+   "short": "HG nr. 1214/2021",
+   "title": "Hotărârea Guvernului nr. 1214/2021 privind înscrierea unui imobil în inventarul centralizat al bunurilor din domeniul public al statului şi darea acestuia în administrarea Ministerului Afacerilor Interne - Inspectoratul pentru Situaţii de Urgenţă \"Cpt. Dumitru Croitoru\" al Judeţului Sibiu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/248456",
+   "versions": [
+    {
+     "from": "2021-11-16",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/248456",
+     "sha256": "047bac7740adb7087b4d979ea56bed365202a1a77f9602659154a60b4597f203"
     }
    ]
   },
@@ -106618,6 +107623,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/289117",
      "sha256": "4f00a377e122ff688ff2c7b47e66807439c4f599186128bb8b24ecef10a2ae6a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1216-2021",
+   "path": "hg/2021/1216",
+   "short": "HG nr. 1216/2021",
+   "title": "Hotărârea Guvernului nr. 1216/2021 privind înscrierea unui teren în inventarul centralizat al bunurilor din domeniul public al statului şi darea acestuia în administrarea Oficiului de Cadastru şi Publicitate Imobiliară Galaţi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/248643",
+   "versions": [
+    {
+     "from": "2021-11-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/248643",
+     "sha256": "292deddc3342a849acf25cefeafec6294387893daad5614d8c0996d8c02af010"
     }
    ]
   },
@@ -106844,6 +107864,21 @@
    ]
   },
   {
+   "slug": "hg-1219-2021",
+   "path": "hg/2021/1219",
+   "short": "HG nr. 1219/2021",
+   "title": "Hotărârea Guvernului nr. 1219/2021 privind aprobarea schemei \"Ajutor de minimis pentru compensarea efectelor fenomenelor hidrometeorologice nefavorabile manifestate în perioada martie-mai 2021 asupra sectorului apicol\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/248499",
+   "versions": [
+    {
+     "from": "2021-11-17",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/248499",
+     "sha256": "6e4f54b2b2d878672daa76a11d1b7fb9aece9356634ebcb3f9f0dd72c8e10dbb"
+    }
+   ]
+  },
+  {
    "slug": "hg-1219-2022",
    "path": "hg/2022/1219",
    "short": "HG nr. 1219/2022",
@@ -106919,6 +107954,21 @@
    ]
   },
   {
+   "slug": "hg-1220-2021",
+   "path": "hg/2021/1220",
+   "short": "HG nr. 1220/2021",
+   "title": "Hotărârea Guvernului nr. 1220/2021 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2021, pentru municipiul Rădăuţi, judeţul Suceava",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/248500",
+   "versions": [
+    {
+     "from": "2021-11-17",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/248500",
+     "sha256": "036fc3c38f6e704b639691a4e2f00901b274929e037d185d954e5eac961a1ac4"
+    }
+   ]
+  },
+  {
    "slug": "hg-1220-2022",
    "path": "hg/2022/1220",
    "short": "HG nr. 1220/2022",
@@ -106979,6 +108029,21 @@
    ]
   },
   {
+   "slug": "hg-1221-2021",
+   "path": "hg/2021/1221",
+   "short": "HG nr. 1221/2021",
+   "title": "Hotărârea Guvernului nr. 1221/2021 privind alocarea de sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2021, pentru suplimentarea bugetului Ministerului Sănătăţii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/248501",
+   "versions": [
+    {
+     "from": "2021-11-17",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/248501",
+     "sha256": "99a437056c995d07894d2c09728d04638b33680c163ea82264bc6c8d507820cb"
+    }
+   ]
+  },
+  {
    "slug": "hg-1222-2005",
    "path": "hg/2005/1222",
    "short": "HG nr. 1222/2005",
@@ -107024,6 +108089,21 @@
    ]
   },
   {
+   "slug": "hg-1223-2021",
+   "path": "hg/2021/1223",
+   "short": "HG nr. 1223/2021",
+   "title": "Hotărârea Guvernului nr. 1223/2021 privind revocarea şi numirea unor membri în Consiliul director al Fondului Român de Dezvoltare Socială şi pentru modificarea anexei la Hotărârea Guvernului nr. 715/2021 privind numirea membrilor Consiliului director al Fondului Român de Dezvoltare Socială",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/248578",
+   "versions": [
+    {
+     "from": "2021-11-19",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/248578",
+     "sha256": "38a7e7ac459d51c315c1583643fdbd0c37ea7ac745395d81d1f08a5721a931e1"
+    }
+   ]
+  },
+  {
    "slug": "hg-1223-2024",
    "path": "hg/2024/1223",
    "short": "HG nr. 1223/2024",
@@ -107035,6 +108115,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/289127",
      "sha256": "1afd47205633afc085818110f6e6123989bde0620d66bfe99ecf9cc51068cce0"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1224-2021",
+   "path": "hg/2021/1224",
+   "short": "HG nr. 1224/2021",
+   "title": "Hotărârea Guvernului nr. 1224/2021 pentru aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Consolidare şi reabilitare ansamblu de clădiri ale Mănăstirii «Sfântul Ioan cel Nou de la Suceava»\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/248579",
+   "versions": [
+    {
+     "from": "2021-11-19",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/248579",
+     "sha256": "c458b12fb94800ed75df4478184c12d96fcba742cb0da82cf20d8fc920dfa208"
     }
    ]
   },
@@ -107155,6 +108250,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/34938",
      "sha256": "1dbbe2145be58f5f8152b33fcbba9c16f8536841181edbfaa31f0b76d82fed3f"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1229-2021",
+   "path": "hg/2021/1229",
+   "short": "HG nr. 1229/2021",
+   "title": "Hotărârea Guvernului nr. 1229/2021 privind actualizarea valorii de inventar a unor imobile aflate în domeniul public al statului şi administrarea Ministerului Sănătăţii prin Sanatoriul Balneoclimateric de Copii Buşteni",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/248644",
+   "versions": [
+    {
+     "from": "2021-11-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/248644",
+     "sha256": "9cf15efbf08805965e3d04360f8926426119707057a1955c04a514498ece2bd3"
     }
    ]
   },
@@ -107378,6 +108488,21 @@
    ]
   },
   {
+   "slug": "hg-1235-2021",
+   "path": "hg/2021/1235",
+   "short": "HG nr. 1235/2021",
+   "title": "Hotărârea Guvernului nr. 1235/2021 privind modificarea datelor de identificare şi a valorii de inventar a unui bun imobil aflat în domeniul public al statului şi în administrarea Centrului Naţional al Cinematografiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/248645",
+   "versions": [
+    {
+     "from": "2021-11-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/248645",
+     "sha256": "62a7f22e0414facba87451aa99cfd895cf6204cc91c04cab9d020c36ce3f88f4"
+    }
+   ]
+  },
+  {
    "slug": "hg-1235-2023",
    "path": "hg/2023/1235",
    "short": "HG nr. 1235/2023",
@@ -107410,6 +108535,21 @@
      "units": 13,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/184475",
      "sha256": "75c5266ec807432ac3a5534b30470e298876a434b6c21851de56269fdd9566cf"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1236-2021",
+   "path": "hg/2021/1236",
+   "short": "HG nr. 1236/2021",
+   "title": "Hotărârea Guvernului nr. 1236/2021 privind modificarea datelor de identificare şi pentru actualizarea valorii de inventar a imobilului \"Casa Barbu Gănescu\", înscris în inventarul centralizat al bunurilor din domeniul public al statului şi aflat în administrarea Muzeului Naţional \"Constantin Brâncuşi\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/248677",
+   "versions": [
+    {
+     "from": "2021-11-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/248677",
+     "sha256": "4c2d5b360001e5e77b9c4f6c6b103bcd80a01828768372e66eba65a976679118"
     }
    ]
   },
@@ -107627,6 +108767,21 @@
    ]
   },
   {
+   "slug": "hg-1240-2021",
+   "path": "hg/2021/1240",
+   "short": "HG nr. 1240/2021",
+   "title": "Hotărârea Guvernului nr. 1240/2021 privind acordarea unor ajutoare de urgenţă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/248979",
+   "versions": [
+    {
+     "from": "2021-12-03",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/248979",
+     "sha256": "a8de0e31b68e899afe0fdbdc15c2a19a170ae502b43b36f56828a234b912ddc8"
+    }
+   ]
+  },
+  {
    "slug": "hg-1240-2022",
    "path": "hg/2022/1240",
    "short": "HG nr. 1240/2022",
@@ -107638,6 +108793,21 @@
      "units": 21,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/260524",
      "sha256": "879b564a678c3ec65baeb1a65271e921d089cac3346497da2475f1de7711e8d2"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1241-2021",
+   "path": "hg/2021/1241",
+   "short": "HG nr. 1241/2021",
+   "title": "Hotărârea Guvernului nr. 1241/2021 pentru modificarea art. 6 alin. (2) din anexa nr. 2 la Hotărârea Guvernului nr. 859/2003 privind aprobarea Normelor de aplicare a Legii nr. 118/2002 pentru instituirea indemnizaţiei de merit şi a Regulamentului de funcţionare a Comisiei naţionale pentru acordarea indemnizaţiei de merit",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/248978",
+   "versions": [
+    {
+     "from": "2021-12-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/248978",
+     "sha256": "9f353a690537e833e425a67db0f891ddd5e42dcc3de1538140e2e1f7d2b7c948"
     }
    ]
   },
@@ -107672,6 +108842,21 @@
    ]
   },
   {
+   "slug": "hg-1243-2021",
+   "path": "hg/2021/1243",
+   "short": "HG nr. 1243/2021",
+   "title": "Hotărârea Guvernului nr. 1243/2021 privind aprobarea bugetului de venituri şi cheltuieli pe anul 2021 pentru Compania Naţională a Uraniului - S.A., aflată sub autoritatea Ministerului Energiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/249089",
+   "versions": [
+    {
+     "from": "2021-12-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/249089",
+     "sha256": "28fb02821b822e143b53d43378ea15e0a56c30e71be5c5981ada862d9177a61e"
+    }
+   ]
+  },
+  {
    "slug": "hg-1243-2023",
    "path": "hg/2023/1243",
    "short": "HG nr. 1243/2023",
@@ -107698,6 +108883,21 @@
      "units": 2,
      "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/98029",
      "sha256": "68466b40a01b7d970d15c3d9ebd52ff4d8f70925588f693df008dc648ada69e4"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1244-2021",
+   "path": "hg/2021/1244",
+   "short": "HG nr. 1244/2021",
+   "title": "Hotărârea Guvernului nr. 1244/2021 privind aprobarea alocării unei sume din bugetul asigurărilor pentru şomaj pentru plata venitului lunar de completare de care beneficiază persoanele disponibilizate de la Societatea Naţională de Închideri Mine - Valea Jiului - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/249072",
+   "versions": [
+    {
+     "from": "2021-12-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/249072",
+     "sha256": "6f481a893aa40ac31248dac226f830e8cb0c21a0bcf1182e897f416612ac36bd"
     }
    ]
   },
@@ -107792,6 +108992,21 @@
    ]
   },
   {
+   "slug": "hg-1247-2021",
+   "path": "hg/2021/1247",
+   "short": "HG nr. 1247/2021",
+   "title": "Hotărârea Guvernului nr. 1247/2021 pentru aprobarea plafoanelor alocate schemelor de sprijin cuplat în sectorul zootehnic, precum şi pentru stabilirea cuantumului acestora pentru anul de cerere 2021",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/249127",
+   "versions": [
+    {
+     "from": "2021-12-10",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/249127",
+     "sha256": "61af95db8437c1fc85d5e62faa33d6ffbe835a750788e21c66ceac9a2fa9bea8"
+    }
+   ]
+  },
+  {
    "slug": "hg-1247-2023",
    "path": "hg/2023/1247",
    "short": "HG nr. 1247/2023",
@@ -107822,6 +109037,21 @@
    ]
   },
   {
+   "slug": "hg-1248-2021",
+   "path": "hg/2021/1248",
+   "short": "HG nr. 1248/2021",
+   "title": "Hotărârea Guvernului nr. 1248/2021 privind rectificarea bugetului Trezoreriei Statului pe anul 2021",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/249128",
+   "versions": [
+    {
+     "from": "2021-12-10",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/249128",
+     "sha256": "5f103fb79a8e265535950c94ec3ae488c6a952bac5c36070c3cd7d8008f3975c"
+    }
+   ]
+  },
+  {
    "slug": "hg-1248-2022",
    "path": "hg/2022/1248",
    "short": "HG nr. 1248/2022",
@@ -107848,6 +109078,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/289272",
      "sha256": "1a34f758641d25fbe6b37266b65fcae04a6ac5ffe1d8827232b6a18e64cfadd4"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1249-2021",
+   "path": "hg/2021/1249",
+   "short": "HG nr. 1249/2021",
+   "title": "Hotărârea Guvernului nr. 1249/2021 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2021, pentru unele unităţi administrativ-teritoriale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/249129",
+   "versions": [
+    {
+     "from": "2021-12-10",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/249129",
+     "sha256": "0df4d9d764fc82ea97f68e82f401ca7705d061f99127e2856c29701c227b290e"
     }
    ]
   },
@@ -192716,6 +193961,21 @@
    ]
   },
   {
+   "slug": "legea-260-2021",
+   "path": "lege/2021/260",
+   "short": "Legea nr. 260/2021",
+   "title": "Legea nr. 260/2021 privind respingerea Ordonanţei de urgenţă a Guvernului nr. 95/2016 pentru prorogarea unor termene, precum şi pentru instituirea unor măsuri necesare pregătirii punerii în aplicare a unor dispoziţii din Legea nr. 134/2010 privind Codul de procedură civilă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/247795",
+   "versions": [
+    {
+     "from": "2021-11-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/247795",
+     "sha256": "62e3a8de12d9500bdc40bb33b8bf121973ac7d45c3c04e3455a49c61b245be91"
+    }
+   ]
+  },
+  {
    "slug": "legea-260-2023",
    "path": "lege/2023/260",
    "short": "Legea nr. 260/2023",
@@ -192866,6 +194126,21 @@
    ]
   },
   {
+   "slug": "legea-263-2021",
+   "path": "lege/2021/263",
+   "short": "Legea nr. 263/2021",
+   "title": "Legea nr. 263/2021 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 4/2014 privind operaţionalizarea Registrului electoral şi pentru modificarea Legii nr. 33/2007 privind organizarea şi desfăşurarea alegerilor pentru Parlamentul European, precum şi unele măsuri pentru buna organizare şi desfăşurare a alegerilor pentru Parlamentul European din anul 2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/247937",
+   "versions": [
+    {
+     "from": "2021-11-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/247937",
+     "sha256": "6cd03520a849979b4aa5d8c7f5cf86279eefcfe13fd76c63db6c0b21a30ff335"
+    }
+   ]
+  },
+  {
    "slug": "legea-263-2022",
    "path": "lege/2022/263",
    "short": "Legea nr. 263/2022",
@@ -192973,6 +194248,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/73168",
      "sha256": "f852d4c7375ed5c73f7c4c9e627ce170e58fb66143637e5271f0af559bcfa381"
+    }
+   ]
+  },
+  {
+   "slug": "legea-266-2021",
+   "path": "lege/2021/266",
+   "short": "Legea nr. 266/2021",
+   "title": "Legea nr. 266/2021 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 52/2021 privind stabilirea unor măsuri la nivelul administraţiei publice centrale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/248298",
+   "versions": [
+    {
+     "from": "2021-11-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/248298",
+     "sha256": "e3dd5ee942d7712e3816e1e934257ef50480e042cd04958d4b6bb4d815f449a1"
     }
    ]
   },
@@ -194507,6 +195797,21 @@
    ]
   },
   {
+   "slug": "legea-289-2021",
+   "path": "lege/2021/289",
+   "short": "Legea nr. 289/2021",
+   "title": "Legea nr. 289/2021 pentru declararea zilei de 15 mai ca Ziua naţională a pictorului Nicolae Grigorescu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/249102",
+   "versions": [
+    {
+     "from": "2021-12-12",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/249102",
+     "sha256": "7e88d8b8b76860f34e85a64ba3433b10f0076a847d903c3ea8d89a661226b8e0"
+    }
+   ]
+  },
+  {
    "slug": "legea-289-2022",
    "path": "lege/2022/289",
    "short": "Legea nr. 289/2022",
@@ -194569,6 +195874,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/236468",
      "sha256": "682d5c26f2436c353d472d95f5941255d9b969f280a4845fb1dc75b42b374c11"
+    }
+   ]
+  },
+  {
+   "slug": "legea-290-2021",
+   "path": "lege/2021/290",
+   "short": "Legea nr. 290/2021",
+   "title": "Legea nr. 290/2021 pentru ratificarea Protocolului , adoptat la Strasbourg la 10 octombrie 2018, semnat de România la 26 iunie 2020, de amendare a Convenţiei pentru protejarea persoanelor faţă de prelucrarea automatizată a datelor cu caracter personal, adoptată la Strasbourg la 28 ianuarie 1981",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/249113",
+   "versions": [
+    {
+     "from": "2021-12-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/249113",
+     "sha256": "54746dae9f7a022b86666639671a9260b734210b6279ead7e340edd754eee560"
     }
    ]
   },
@@ -194737,6 +196057,21 @@
      "units": 34,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/208590",
      "sha256": "85123792bbce5dd0b18ccc77cc34b12ba3abbc5cfc24abb53896fb58a38176f4"
+    }
+   ]
+  },
+  {
+   "slug": "legea-292-2021",
+   "path": "lege/2021/292",
+   "short": "Legea nr. 292/2021",
+   "title": "Legea nr. 292/2021 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 31/2021 privind derogarea de la prevederile art. 47 alin. (6) din Legea nr. 500/2002 privind finanţele publice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/249121",
+   "versions": [
+    {
+     "from": "2021-12-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/249121",
+     "sha256": "c5b0fa0aa303c71c8005ed30c7760942615d22cf08b91d0fd124a0f29d98532e"
     }
    ]
   },
