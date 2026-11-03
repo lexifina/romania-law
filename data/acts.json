@@ -63412,6 +63412,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/38222"
 },
 {
+"slug": "og-61-2002",
+"path": "og/2002/61",
+"kind": "og",
+"year": "2002",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța Guvernului nr. 61/2002",
+"short": "OG nr. 61/2002",
+"code": null,
+"status": "repealed 2004-01-01",
+"versions": 6,
+"from": "2003-01-01",
+"latest": "2004-01-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/47536"
+},
+{
 "slug": "og-63-2002",
 "path": "og/2002/63",
 "kind": "og",

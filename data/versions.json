@@ -66761,6 +66761,51 @@
    ]
   },
   {
+   "slug": "og-61-2002",
+   "path": "og/2002/61",
+   "short": "OG nr. 61/2002",
+   "title": "Ordonanța Guvernului nr. 61/2002",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/47536",
+   "versions": [
+    {
+     "from": "2003-01-01",
+     "units": 170,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/38219",
+     "sha256": "7c00540fd9485280a30e72063f19634b60d06a51eaacab7c712b64faf79ad094"
+    },
+    {
+     "from": "2003-03-26",
+     "units": 172,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43316",
+     "sha256": "c623e92fed469090a20bda5662e98fd00b79d06eb5b84d62c199a717e17b7a82"
+    },
+    {
+     "from": "2003-05-31",
+     "units": 172,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/44688",
+     "sha256": "a210254a246a7b0d3e5073a34c2f6ca57802147a7aa467d8438dc5c9710cf4d4"
+    },
+    {
+     "from": "2003-08-14",
+     "units": 172,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/45645",
+     "sha256": "7f0e51624ef6087446de3d7156d2aefa95f1d68864cdc1727746757bef80a4ae"
+    },
+    {
+     "from": "2003-11-07",
+     "units": 172,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/47536",
+     "sha256": "17aa927f9025e195d7f85b8af09fd4500d5b8f52c545632eb6df18e1dda082c0"
+    },
+    {
+     "from": "2004-01-01",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/48752",
+     "sha256": "0423718853abf8bee9814cb3cc73c2085789538f3f2590d89650c932b705cfaf"
+    }
+   ]
+  },
+  {
    "slug": "og-62-1999",
    "path": "og/1999/62",
    "short": "OG nr. 62/1999",

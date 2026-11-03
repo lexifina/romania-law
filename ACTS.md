@@ -1,6 +1,6 @@
 # Every act in this repository
 
-8734 acts, 21,725 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+8735 acts, 21,731 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -3619,7 +3619,7 @@
 | Ordonanța de urgență a Guvernului nr. 30/2026 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 23/2004 privind stabilirea unor măsuri de reorganizare a Autorităţii pentru Valorificarea Activelor Bancare prin comasarea prin absorbţie cu Autoritatea pentru Privatizare şi Administrarea Participaţiilor Statului | [`oug/2026/30/`](oug/2026/30/) | amending act | 1 | 2026-04-21 | 2026-04-21 |
 | Ordonanța de urgență a Guvernului nr. 33/2026 pentru modificarea şi completarea Legii educaţiei fizice şi sportului nr. 69/2000 | [`oug/2026/33/`](oug/2026/33/) | amending act | 1 | 2026-04-27 | 2026-04-27 |
 
-## Ordinances (OG) (462, of which 91 amending acts)
+## Ordinances (OG) (463, of which 91 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -3775,6 +3775,7 @@
 | Ordonanța Guvernului nr. 55/2002 | [`og/2002/55/`](og/2002/55/) | in force | 3 | 2002-09-29 | 2009-10-04 |
 | Ordonanța Guvernului nr. 56/2002 | [`og/2002/56/`](og/2002/56/) | in force | 2 | 2002-08-30 | 2003-02-03 |
 | Ordonanța Guvernului nr. 57/2002 | [`og/2002/57/`](og/2002/57/) | in force | 24 | 2002-08-30 | 2023-11-11 |
+| Ordonanța Guvernului nr. 61/2002 | [`og/2002/61/`](og/2002/61/) | repealed 2004-01-01 | 6 | 2003-01-01 | 2004-01-01 |
 | Ordonanța Guvernului nr. 63/2002 | [`og/2002/63/`](og/2002/63/) | in force | 4 | 2002-08-30 | 2007-10-26 |
 | Ordonanța Guvernului nr. 67/2002 | [`og/2002/67/`](og/2002/67/) | in force | 3 | 2002-08-31 | 2003-01-23 |
 | Ordonanța Guvernului nr. 70/2002 | [`og/2002/70/`](og/2002/70/) | in force | 15 | 2002-10-01 | 2017-12-06 |
