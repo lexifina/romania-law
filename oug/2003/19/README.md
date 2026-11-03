@@ -21,3 +21,10 @@ Act id: `oug-19-2003` (tags `oug-19-2003/<day>`; `python tools/on.py <day> oug-1
 - OUG nr. 19/2003: the portal editorial notes printed as paragraphs of an article (on a Constitutional Court ruling, a rectification, a provision put back in force) are not text: 3 such paragraphs across all forms, for example «A se vedea și Cap. I din ORDONANȚA nr. 10 din 30 ianuarie 20», «Art. III din ORDONANȚA DE URGENȚĂ nr. 81 din 24 iunie 2008, ».
 - OUG nr. 19/2003: articles a form leaves out are shown repealed on the day the repealing act took effect (on publication for an emergency ordinance, 3 days after for a law, unless the act sets its own day), credited to that act as its repeal note names it: art. 4, left out from the form of 27.12.2006: repealed by OUG nr. 106/2006, in force 27.12.2006 (an emergency ordinance with no in-force clause of its own: in force on publication in Monitorul Oficial nr. 1.028 of 27 December 2006 (Constituția art. 115 alin. (5))); art. 5, left out from the form of 27.12.2006: repealed by OUG nr. 106/2006, in force 27.12.2006 (an emergency ordinance with no in-force clause of its own: in force on publication in Monitorul Oficial nr. 1.028 of 27 December 2006 (Constituția art. 115 alin. (5))).
 - OUG nr. 19/2003: 1 changed article(s) with no note naming a law, committed as the publisher's: 2003-06-25 art-005.
+
+## Credits corrected
+
+These changes were first published credited to another law. The words are unchanged; `git blame` still names the commit that wrote them, and `data/credits.csv` lists every corrected credit.
+
+- `art-003.md`, in force from 2008-06-26: OUG nr. 81/2008 (first published as no law named).
+- `art-003-1.md`, in force from 2008-06-26: OUG nr. 81/2008 (first published as no law named).
