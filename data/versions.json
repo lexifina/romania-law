@@ -93839,6 +93839,39 @@
    ]
   },
   {
+   "slug": "oug-92-2018",
+   "path": "oug/2018/92",
+   "short": "OUG nr. 92/2018",
+   "title": "Ordonanța de urgență a Guvernului nr. 92/2018 pentru modificarea și completarea unor acte normative în domeniul justiției",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/206033",
+   "versions": [
+    {
+     "from": "2018-10-16",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/206033",
+     "sha256": "bcfdd6d91ac0f76b6ded8b6f862d236cd85a9f4e590583c05d22314c6fc0baf4"
+    },
+    {
+     "from": "2018-10-18",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/206033",
+     "sha256": "bcfdd6d91ac0f76b6ded8b6f862d236cd85a9f4e590583c05d22314c6fc0baf4"
+    },
+    {
+     "from": "2019-12-22",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/220245",
+     "sha256": "f43d3aab225391ba9e5b7c518dad0ff30dccb897952b5e26045ebcfbfb6d9a11"
+    },
+    {
+     "from": "2022-01-01",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/240614",
+     "sha256": "b26ee46665afd9c1f36bc0ec18fe4430e7ccc104378c14db70a7c088c6f0b0a6"
+    }
+   ]
+  },
+  {
    "slug": "oug-92-2021",
    "path": "oug/2021/92",
    "short": "OUG nr. 92/2021",

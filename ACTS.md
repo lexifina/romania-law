@@ -1,6 +1,6 @@
 # Every act in this repository
 
-10012 acts, 23,520 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+10013 acts, 23,524 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -2226,7 +2226,7 @@
 | Legea nr. 190/2026 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 81/2021 privind aprobarea metodelor de intervenţie imediată pentru prevenirea şi combaterea atacurilor exemplarelor de urs brun asupra persoanelor şi bunurilor acestora, precum şi pentru modificarea şi completarea unor acte normative | [`lege/2026/190/`](lege/2026/190/) | amending act | 1 | 2026-10-08 | 2026-10-08 |
 | Legea nr. 205/2026 pentru completarea Ordonanţei Guvernului nr. 22/2002 privind executarea obligaţiilor de plată ale instituţiilor publice, stabilite prin titluri executorii | [`lege/2026/205/`](lege/2026/205/) | amending act | 1 | 2026-11-02 | 2026-11-02 |
 
-## Emergency ordinances (OUG) (1574, of which 540 amending acts)
+## Emergency ordinances (OUG) (1575, of which 541 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -3202,6 +3202,7 @@
 | Ordonanța de urgență a Guvernului nr. 86/2018 pentru modificarea și completarea Legii nr. 3/2000 privind organizarea și desfășurarea referendumului, precum și pentru unele măsuri pentru buna organizare și desfășurare a referendumului național pentru revizuirea Constituției | [`oug/2018/86/`](oug/2018/86/) | amending act | 2 | 2018-09-18 | 2021-09-19 |
 | Ordonanța de urgență a Guvernului nr. 88/2018 pentru modificarea și completarea unor acte normative în domeniul insolvenței și a altor acte normative | [`oug/2018/88/`](oug/2018/88/) | amending act | 2 | 2018-10-02 | 2020-07-11 |
 | Ordonanța de urgență a Guvernului nr. 90/2018 privind unele măsuri pentru operaționalizarea Secției pentru investigarea infracțiunilor din justiție | [`oug/2018/90/`](oug/2018/90/) | in force | 1 | 2018-10-10 | 2018-10-10 |
+| Ordonanța de urgență a Guvernului nr. 92/2018 pentru modificarea și completarea unor acte normative în domeniul justiției | [`oug/2018/92/`](oug/2018/92/) | amending act | 4 | 2018-10-16 | 2022-01-01 |
 | Ordonanța de urgență a Guvernului nr. 96/2018 privind prorogarea unor termene, precum și pentru modificarea și completarea unor acte normative | [`oug/2018/96/`](oug/2018/96/) | amending act | 2 | 2018-11-14 | 2019-05-11 |
 | Ordonanța de urgență a Guvernului nr. 104/2018 privind implementarea Programului guvernamental "gROwth - Contul individual de economii Junior Centenar" | [`oug/2018/104/`](oug/2018/104/) | in force | 1 | 2018-12-04 | 2018-12-04 |
 | Ordonanța de urgență a Guvernului nr. 105/2018 pentru modificarea și completarea unor acte normative din domeniul fondurilor europene nerambursabile | [`oug/2018/105/`](oug/2018/105/) | amending act | 2 | 2018-12-12 | 2024-03-29 |

@@ -53756,6 +53756,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/205909"
 },
 {
+"slug": "oug-92-2018",
+"path": "oug/2018/92",
+"kind": "oug",
+"year": "2018",
+"number": "92",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 92/2018 pentru modificarea și completarea unor acte normative în domeniul justiției",
+"short": "OUG nr. 92/2018",
+"code": null,
+"status": "amending act",
+"versions": 4,
+"from": "2018-10-16",
+"latest": "2022-01-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/206033"
+},
+{
 "slug": "oug-96-2018",
 "path": "oug/2018/96",
 "kind": "oug",
