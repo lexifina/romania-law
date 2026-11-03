@@ -1,6 +1,6 @@
 # Every act in this repository
 
-14661 acts, 28,250 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+14702 acts, 28,291 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (2599, of which 1263 amending acts)
+## Laws (legi) (2601, of which 1265 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -775,6 +775,8 @@
 | Legea nr. 263/2007 | [`lege/2007/263/`](lege/2007/263/) | in force | 4 | 2007-08-29 | 2018-08-02 |
 | Legea nr. 264/2007 | [`lege/2007/264/`](lege/2007/264/) | in force | 1 | 2007-07-30 | 2007-07-30 |
 | Legea nr. 265/2007 | [`lege/2007/265/`](lege/2007/265/) | in force | 6 | 2007-08-06 | 2018-12-31 |
+| Legea nr. 267/2007 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 23/2007 privind transmiterea unui teren din domeniul public al statului şi din administrarea Institutului Naţional de Cercetare-Dezvoltare pentru Cartof şi Sfeclă de Zahăr Braşov, judeţul Braşov, în domeniul public al municipiului Braşov şi în administrarea Consiliului Local al Municipiului Braşov, judeţul Braşov | [`lege/2007/267/`](lege/2007/267/) | amending act | 1 | 2007-09-29 | 2007-09-29 |
+| Legea nr. 272/2007 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 94/2006 pentru modificarea alin. (2) al art. 23 din Legea nr. 191/1998 privind organizarea şi funcţionarea Serviciului de Protecţie şi Pază | [`lege/2007/272/`](lege/2007/272/) | amending act | 1 | 2007-10-11 | 2007-10-11 |
 | Legea nr. 275/2007 privind aprobarea Ordonanței de urgență a Guvernului nr. 14/2007 pentru modificarea și completarea Legii nr. 448/2006 privind protecția și promovarea drepturilor persoanelor cu handicap | [`lege/2007/275/`](lege/2007/275/) | amending act | 1 | 2007-10-20 | 2007-10-20 |
 | Legea nr. 282/2007 | [`lege/2007/282/`](lege/2007/282/) | in force | 1 | 2007-11-09 | 2007-11-09 |
 | Legea nr. 288/2007 | [`lege/2007/288/`](lege/2007/288/) | in force | 3 | 2007-11-08 | 2009-02-06 |
@@ -2637,7 +2639,7 @@
 | Legea nr. 204/2026 privind aprobarea Ordonanţei Guvernului nr. 22/2025 pentru modificarea şi completarea Legii nr. 227/2015 privind Codul fiscal şi pentru completarea articolului 342 din Legea nr. 227/2015 privind Codul fiscal | [`lege/2026/204/`](lege/2026/204/) | amending act | 1 | 2026-10-25 | 2026-10-25 |
 | Legea nr. 205/2026 pentru completarea Ordonanţei Guvernului nr. 22/2002 privind executarea obligaţiilor de plată ale instituţiilor publice, stabilite prin titluri executorii | [`lege/2026/205/`](lege/2026/205/) | amending act | 1 | 2026-11-02 | 2026-11-02 |
 
-## Emergency ordinances (OUG) (1644, of which 580 amending acts)
+## Emergency ordinances (OUG) (1646, of which 580 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -3025,11 +3027,13 @@
 | Ordonanța de urgență a Guvernului nr. 91/2007 | [`oug/2007/91/`](oug/2007/91/) | in force | 3 | 2007-10-01 | 2008-10-30 |
 | Ordonanța de urgență a Guvernului nr. 92/2007 | [`oug/2007/92/`](oug/2007/92/) | in force | 2 | 2007-10-01 | 2008-11-06 |
 | Ordonanța de urgență a Guvernului nr. 93/2007 | [`oug/2007/93/`](oug/2007/93/) | in force | 1 | 2007-10-01 | 2007-10-01 |
+| Ordonanța de urgență a Guvernului nr. 96/2007 privind adoptarea unor măsuri referitoare la alegerile pentru Parlamentul European din anul 2007 | [`oug/2007/96/`](oug/2007/96/) | in force | 1 | 2007-10-05 | 2007-10-05 |
 | Ordonanța de urgență a Guvernului nr. 97/2007 | [`oug/2007/97/`](oug/2007/97/) | in force | 3 | 2007-10-08 | 2008-10-24 |
 | Ordonanța de urgență a Guvernului nr. 100/2007 | [`oug/2007/100/`](oug/2007/100/) | in force | 2 | 2007-10-08 | 2008-04-18 |
 | Ordonanța de urgență a Guvernului nr. 101/2007 | [`oug/2007/101/`](oug/2007/101/) | in force | 2 | 2007-10-08 | 2009-07-16 |
 | Ordonanța de urgență a Guvernului nr. 102/2007 | [`oug/2007/102/`](oug/2007/102/) | in force | 2 | 2007-10-10 | 2008-04-18 |
 | Ordonanța de urgență a Guvernului nr. 103/2007 | [`oug/2007/103/`](oug/2007/103/) | in force | 2 | 2007-10-10 | 2008-04-18 |
+| Ordonanța de urgență a Guvernului nr. 104/2007 privind înfiinţarea Fondului pentru dezvoltarea satului românesc | [`oug/2007/104/`](oug/2007/104/) | in force | 1 | 2007-10-09 | 2007-10-09 |
 | Ordonanța de urgență a Guvernului nr. 112/2007 | [`oug/2007/112/`](oug/2007/112/) | in force | 2 | 2007-10-22 | 2008-10-31 |
 | Ordonanța de urgență a Guvernului nr. 113/2007 | [`oug/2007/113/`](oug/2007/113/) | in force | 1 | 2007-10-26 | 2007-10-26 |
 | Ordonanța de urgență a Guvernului nr. 114/2007 | [`oug/2007/114/`](oug/2007/114/) | in force | 1 | 2007-10-22 | 2007-10-22 |
@@ -4808,7 +4812,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (9862, of which 4542 amending acts)
+## Government decisions (HG) (9899, of which 4560 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -6126,6 +6130,7 @@
 | Hotărârea Guvernului nr. 1076/2007 privind trecerea Institutului de Cercetări în Chimie "Raluca Ripan" Cluj-Napoca ca unitate de cercetare fără personalitate juridică în structura Universităţii "Babeş Bolyai" din Cluj-Napoca | [`hg/2007/1076/`](hg/2007/1076/) | in force | 1 | 2007-09-13 | 2007-09-13 |
 | Hotărârea Guvernului nr. 1080/2007 | [`hg/2007/1080/`](hg/2007/1080/) | in force | 2 | 2007-09-17 | 2025-08-05 |
 | Hotărârea Guvernului nr. 1081/2007 | [`hg/2007/1081/`](hg/2007/1081/) | in force | 1 | 2007-09-17 | 2007-09-17 |
+| Hotărârea Guvernului nr. 1082/2007 privind aprobarea Programului de iarnă în domeniul energetic pentru asigurarea funcţionării în condiţii de siguranţă şi stabilitate a Sistemului Electroenergetic Naţional în perioada 1 octombrie 2007 - 31 martie 2008 | [`hg/2007/1082/`](hg/2007/1082/) | amending act | 1 | 2007-09-27 | 2007-09-27 |
 | Hotărârea Guvernului nr. 1083/2007 pentru modificarea şi completarea Normelor de aplicare a Ordonanţei de urgenţă a Guvernului nr. 30/2006 privind funcţia de verificare a aspectelor procedurale aferente procesului de atribuire a contractelor de achiziţie publică, aprobate prin Hotărârea Guvernului nr. 942/2006 | [`hg/2007/1083/`](hg/2007/1083/) | amending act | 1 | 2007-09-12 | 2007-09-12 |
 | Hotărârea Guvernului nr. 1084/2007 | [`hg/2007/1084/`](hg/2007/1084/) | in force | 2 | 2007-09-25 | 2015-05-20 |
 | Hotărârea Guvernului nr. 1085/2007 privind acordarea unui ajutor de urgenţă | [`hg/2007/1085/`](hg/2007/1085/) | in force | 1 | 2007-09-12 | 2007-09-12 |
@@ -6147,22 +6152,58 @@
 | Hotărârea Guvernului nr. 1119/2007 privind repartizarea unei sume din Fondul naţional de dezvoltare Ministerului Culturii şi Cultelor, în vederea finanţării obiectivului de finalizare a lucrărilor de construcţie a aşezămintelor culturale din mediul rural şi mic urban | [`hg/2007/1119/`](hg/2007/1119/) | in force | 1 | 2007-09-21 | 2007-09-21 |
 | Hotărârea Guvernului nr. 1120/2007 privind alocarea unei sume din Fondul naţional de dezvoltare la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2007, pentru municipiul Bucureşti | [`hg/2007/1120/`](hg/2007/1120/) | in force | 1 | 2007-09-21 | 2007-09-21 |
 | Hotărârea Guvernului nr. 1121/2007 privind acordarea unui ajutor umanitar de urgenţă pentru populaţia din judeţul Galaţi | [`hg/2007/1121/`](hg/2007/1121/) | in force | 1 | 2007-09-20 | 2007-09-20 |
+| Hotărârea Guvernului nr. 1122/2007 pentru aprobarea Strategiei naţionale privind imigraţia pentru perioada 2007-2010 | [`hg/2007/1122/`](hg/2007/1122/) | amending act | 1 | 2007-10-03 | 2007-10-03 |
+| Hotărârea Guvernului nr. 1123/2007 pentru completarea Hotărârii Guvernului nr. 742/2005 privind declanşarea procedurilor de expropriere a imobilelor proprietate privată situate pe amplasamentul lucrării "Secţiunea 2B pe teritoriul localităţilor Câmpia Turzii, Gilău, Floreşti, Săvădisla, Petreştii de Jos, Luna şi Sănduleşti din judeţul Cluj şi Secţiunea 3C pe teritoriul localităţilor Abram, Suplacu de Barcău, Balc, Chişlaz, Tăuteu, Sârbi şi Biharia din judeţul Bihor" din cadrul obiectivului de investiţie "Autostrada Braşov-Cluj-Borş" şi a Hotărârii Guvernului nr. 689/2007 privind declanşarea procedurilor de expropriere a imobilelor proprietate privată situate pe amplasamentul lucrării de utilitate publică "Secţiunea 3C pe teritoriul localităţilor Ip şi Marca din judeţul Sălaj şi al localităţilor Spinuş, Ciuhoiu, Sălard şi Tămăşeu din judeţul Bihor" din cadrul obiectivului de investiţii Autostrada Braşov-Cluj-Borş | [`hg/2007/1123/`](hg/2007/1123/) | amending act | 1 | 2007-09-26 | 2007-09-26 |
+| Hotărârea Guvernului nr. 1125/2007 privind declanşarea procedurilor de expropriere a imobilului proprietate privată situat pe amplasamentul lucrării de utilitate publică "Consolidare terasamente pe DN 7 km 138+935 - km 138+982" | [`hg/2007/1125/`](hg/2007/1125/) | in force | 1 | 2007-09-27 | 2007-09-27 |
+| Hotărârea Guvernului nr. 1126/2007 privind declanşarea procedurilor de expropriere a imobilelor proprietate privată situate pe amplasamentul lucrării "Construirea de platforme de inspecţie rutieră în vederea asigurării unei monitorizări efective a traficului, inspecţia siguranţei autovehiculelor şi cântărirea vehiculelor de transport greu de mărfuri" de pe DN 65 km 112+265 - dreapta, localitatea Albota, judeţul Argeş | [`hg/2007/1126/`](hg/2007/1126/) | in force | 1 | 2007-09-27 | 2007-09-27 |
+| Hotărârea Guvernului nr. 1127/2007 pentru completarea Hotărârii Guvernului nr. 1.733/2006 privind declanşarea procedurilor de expropriere a imobilelor proprietate privată situate pe amplasamentul lucrării de utilitate publică "Varianta de ocolire Cluj Est" | [`hg/2007/1127/`](hg/2007/1127/) | amending act | 1 | 2007-09-26 | 2007-09-26 |
+| Hotărârea Guvernului nr. 1128/2007 privind indexarea limitelor minime de cheltuieli aferente drepturilor de care beneficiază copiii şi tinerii ocrotiţi de serviciile publice specializate pentru protecţia copilului, mamele protejate în centre maternale, precum şi copiii încredinţaţi sau daţi în plasament la asistenţi maternali profesionişti şi a sumelor de bani pentru nevoi personale prevăzute de Legea nr. 326/2003 | [`hg/2007/1128/`](hg/2007/1128/) | in force | 1 | 2008-01-01 | 2008-01-01 |
+| Hotărârea Guvernului nr. 1129/2007 pentru aprobarea Normelor metodologice de aplicare a Legii nr. 85/2007 privind unele măsuri prealabile lucrărilor de dezvoltare a infrastructurii aeroportuare la "Aeroportul Internaţional Henri Coandă - Bucureşti" | [`hg/2007/1129/`](hg/2007/1129/) | amending act | 1 | 2007-10-04 | 2007-10-04 |
+| Hotărârea Guvernului nr. 1130/2007 pentru modificarea art. 1 din Hotărârea Guvernului nr. 1.577/2004 privind desemnarea reprezentanţilor părţii române în Comisia mixtă de frontieră româno-ucraineană | [`hg/2007/1130/`](hg/2007/1130/) | amending act | 1 | 2007-09-25 | 2007-09-25 |
 | Hotărârea Guvernului nr. 1131/2007 privind darea în administrarea Ministerului Internelor şi Reformei Administrative a unui teren trecut în proprietatea publică a statului | [`hg/2007/1131/`](hg/2007/1131/) | in force | 1 | 2007-09-25 | 2007-09-25 |
+| Hotărârea Guvernului nr. 1134/2007 privind transmiterea unor imobile aflate în domeniul public al statului din administrarea Academiei de Ştiinţe Agricole şi Silvice "Gheorghe Ionescu-Şişeşti" - Staţiunea de Cercetare şi Producţie Pomicolă Mureş în administrarea Direcţiei pentru Agricultură şi Dezvoltare Rurală Mureş | [`hg/2007/1134/`](hg/2007/1134/) | in force | 1 | 2007-09-25 | 2007-09-25 |
+| Hotărârea Guvernului nr. 1135/2007 privind modificarea şi completarea anexelor nr. II, IV şi V la Hotărârea Guvernului nr. 563/2007 pentru aprobarea normelor metodologice de aplicare a Ordonanţei Guvernului nr. 136/2000 privind măsurile de protecţie împotriva introducerii şi răspândirii organismelor de carantină dăunătoare plantelor sau produselor vegetale în România | [`hg/2007/1135/`](hg/2007/1135/) | amending act | 1 | 2007-11-01 | 2007-11-01 |
 | Hotărârea Guvernului nr. 1136/2007 | [`hg/2007/1136/`](hg/2007/1136/) | in force | 1 | 2007-11-03 | 2007-11-03 |
 | Hotărârea Guvernului nr. 1137/2007 pentru trecerea din domeniul public al statului în domeniul privat al acestuia a unei construcţii aflate în administrarea Ministerului Public | [`hg/2007/1137/`](hg/2007/1137/) | in force | 1 | 2007-09-21 | 2007-09-21 |
 | Hotărârea Guvernului nr. 1138/2007 privind alocarea unei sume din Fondul de intervenţie la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2007, în vederea decontării unor lucrări operative executate pentru înlăturarea efectelor calamităţilor naturale produse în municipiul Tecuci, judeţul Galaţi | [`hg/2007/1138/`](hg/2007/1138/) | in force | 1 | 2007-09-20 | 2007-09-20 |
 | Hotărârea Guvernului nr. 1139/2007 privind alocarea unei sume din Fondul de intervenţie la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2007, pentru refacerea infrastructurii afectate de calamităţile naturale produse în judeţul Braşov | [`hg/2007/1139/`](hg/2007/1139/) | in force | 1 | 2007-09-24 | 2007-09-24 |
 | Hotărârea Guvernului nr. 1140/2007 privind alocarea unei sume din Fondul de intervenţie la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2007, pentru înlăturarea efectelor calamităţilor naturale produse în judeţul Suceava | [`hg/2007/1140/`](hg/2007/1140/) | in force | 1 | 2007-09-20 | 2007-09-20 |
+| Hotărârea Guvernului nr. 1141/2007 privind aprobarea acordurilor de concesiune pentru dezvoltare-exploatare petrolieră în perimetrele P VII - 18 Izvoru, P VII - 19 Mârşa şi P VII - 24 Vânători, încheiate între Agenţia Naţională pentru Resurse Minerale şi TransAtlantic Worldwide Ltd | [`hg/2007/1141/`](hg/2007/1141/) | amending act | 1 | 2007-09-27 | 2007-09-27 |
 | Hotărârea Guvernului nr. 1143/2007 | [`hg/2007/1143/`](hg/2007/1143/) | in force | 1 | 2007-10-11 | 2007-10-11 |
+| Hotărârea Guvernului nr. 1145/2007 privind aprobarea renunţării la cetăţenia română unor persoane | [`hg/2007/1145/`](hg/2007/1145/) | amending act | 1 | 2007-09-28 | 2007-09-28 |
 | Hotărârea Guvernului nr. 1149/2007 pentru modificarea Hotărârii Guvernului nr. 408/2007 privind utilizarea în anul 2007 a surselor proprii aprobate în bugetul Ministerului Sănătății Publice, destinate dotărilor independente | [`hg/2007/1149/`](hg/2007/1149/) | amending act | 1 | 2007-10-01 | 2007-10-01 |
 | Hotărârea Guvernului nr. 1150/2007 | [`hg/2007/1150/`](hg/2007/1150/) | in force | 1 | 2007-10-01 | 2007-10-01 |
+| Hotărârea Guvernului nr. 1152/2007 privind suplimentarea bugetului Ministerului Dezvoltării, Lucrărilor Publice şi Locuinţelor din Fondul de intervenţie la dispoziţia Guvernului, pentru înlăturarea efectelor calamităţilor naturale produse în judeţele Bacău, Galaţi, Vaslui şi Vrancea în luna septembrie 2007 | [`hg/2007/1152/`](hg/2007/1152/) | in force | 1 | 2007-09-28 | 2007-09-28 |
+| Hotărârea Guvernului nr. 1153/2007 pentru modificarea art. 2 din Hotărârea Guvernului nr. 567/2007 privind repartizarea unei sume din Fondul naţional de dezvoltare Ministerului Dezvoltării, Lucrărilor Publice şi Locuinţelor | [`hg/2007/1153/`](hg/2007/1153/) | amending act | 1 | 2007-09-28 | 2007-09-28 |
 | Hotărârea Guvernului nr. 1154/2007 | [`hg/2007/1154/`](hg/2007/1154/) | in force | 1 | 2007-10-01 | 2007-10-01 |
 | Hotărârea Guvernului nr. 1155/2007 | [`hg/2007/1155/`](hg/2007/1155/) | in force | 1 | 2007-10-01 | 2007-10-01 |
 | Hotărârea Guvernului nr. 1156/2007 | [`hg/2007/1156/`](hg/2007/1156/) | in force | 1 | 2007-10-01 | 2007-10-01 |
 | Hotărârea Guvernului nr. 1157/2007 | [`hg/2007/1157/`](hg/2007/1157/) | in force | 1 | 2007-10-01 | 2007-10-01 |
+| Hotărârea Guvernului nr. 1160/2007 privind modificarea anexei nr. 1 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului | [`hg/2007/1160/`](hg/2007/1160/) | amending act | 1 | 2007-10-03 | 2007-10-03 |
+| Hotărârea Guvernului nr. 1163/2007 privind transmiterea unei suprafeţe de teren din domeniul public al statului şi din administrarea Ministerului Agriculturii şi Dezvoltării Rurale - Agenţia Domeniilor Statului în domeniul public al comunei Strejeşti şi în administrarea Consiliului Local al Comunei Strejeşti, judeţul Olt | [`hg/2007/1163/`](hg/2007/1163/) | in force | 1 | 2007-10-03 | 2007-10-03 |
 | Hotărârea Guvernului nr. 1165/2007 | [`hg/2007/1165/`](hg/2007/1165/) | in force | 2 | 2007-10-10 | 2009-01-01 |
+| Hotărârea Guvernului nr. 1166/2007 privind transmiterea unui imobil, aflat în domeniul public al statului, din administrarea Ministerului Agriculturii şi Dezvoltării Rurale - Direcţia pentru Agricultură şi Dezvoltare Rurală Tulcea în administrarea Agenţiei Domeniilor Statului | [`hg/2007/1166/`](hg/2007/1166/) | in force | 1 | 2007-10-04 | 2007-10-04 |
+| Hotărârea Guvernului nr. 1168/2007 pentru modificarea şi completarea Hotărârii Guvernului nr. 1.432/2004 privind atribuţiile, organizarea şi funcţionarea Autorităţii Naţionale pentru Protecţia Drepturilor Copilului | [`hg/2007/1168/`](hg/2007/1168/) | amending act | 1 | 2007-10-02 | 2007-10-02 |
+| Hotărârea Guvernului nr. 1169/2007 pentru aprobarea Protocolului adiţional dintre Guvernul României şi Guvernul Republicii Azerbaidjan, semnat la Baku la 11 octombrie 2006, de amendare a Acordului dintre Guvernul României şi Guvernul Republicii Azerbaidjan cu privire la relaţiile comercial-economice şi colaborarea tehnico-ştiinţifică, semnat la Bucureşti la 2 iulie 1995 | [`hg/2007/1169/`](hg/2007/1169/) | amending act | 1 | 2007-10-04 | 2007-10-04 |
+| Hotărârea Guvernului nr. 1172/2007 privind modificarea şi completarea Normelor metodologice pentru aplicarea prevederilor Legii nr. 231/2005 privind stimularea investiţiilor în agricultură, aprobate prin Hotărârea Guvernului nr. 934/2005 | [`hg/2007/1172/`](hg/2007/1172/) | amending act | 1 | 2007-10-05 | 2007-10-05 |
+| Hotărârea Guvernului nr. 1173/2007 privind alocarea unei sume din Fondul de contrapartidă pentru Liga Asociaţiilor de Proprietari Habitat | [`hg/2007/1173/`](hg/2007/1173/) | in force | 1 | 2007-10-09 | 2007-10-09 |
 | Hotărârea Guvernului nr. 1175/2007 pentru aprobarea Normelor de efectuare a activității de transport rutier de mărfuri periculoase în România | [`hg/2007/1175/`](hg/2007/1175/) | amending act | 1 | 2007-10-15 | 2007-10-15 |
+| Hotărârea Guvernului nr. 1176/2007 privind transmiterea unor bunuri proprietate publică a statului din administrarea Ministerului Transporturilor şi din concesiunea Companiei Naţionale "Administraţia Porturilor Dunării Maritime" - S.A. Galaţi în administrarea Centrului Român pentru Pregătirea şi Perfecţionarea Personalului din Transporturi Navale - CERONAV | [`hg/2007/1176/`](hg/2007/1176/) | in force | 1 | 2007-10-09 | 2007-10-09 |
+| Hotărârea Guvernului nr. 1178/2007 privind acordarea unui ajutor | [`hg/2007/1178/`](hg/2007/1178/) | in force | 1 | 2007-10-05 | 2007-10-05 |
+| Hotărârea Guvernului nr. 1179/2007 privind acordarea unui ajutor | [`hg/2007/1179/`](hg/2007/1179/) | in force | 1 | 2007-10-05 | 2007-10-05 |
+| Hotărârea Guvernului nr. 1180/2007 pentru suplimentarea numărului personalului Consiliului Naţional de Soluţionare a Contestaţiilor | [`hg/2007/1180/`](hg/2007/1180/) | in force | 1 | 2007-10-09 | 2007-10-09 |
+| Hotărârea Guvernului nr. 1181/2007 pentru modificarea anexei nr. 4 la Hotărârea Guvernului nr. 60/2005 privind organizarea şi funcţionarea Regiei Autonome "Administraţia Patrimoniului Protocolului de Stat" şi pentru trecerea unei părţi dintr-un imobil din domeniul privat al statului şi din administrarea Regiei Autonome "Administraţia Patrimoniului Protocolului de Stat" în domeniul public al statului şi în administrarea Ministerului Sănătăţii Publice | [`hg/2007/1181/`](hg/2007/1181/) | amending act | 1 | 2007-10-08 | 2007-10-08 |
+| Hotărârea Guvernului nr. 1183/2007 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii "Spital Judeţean de Urgenţă", judeţul Galaţi | [`hg/2007/1183/`](hg/2007/1183/) | amending act | 1 | 2007-10-10 | 2007-10-10 |
+| Hotărârea Guvernului nr. 1184/2007 privind organizarea la Bucureşti, în perioada 15-19 octombrie 2007, a Reuniunii Grupului NATO pentru Capabilităţi Terestre (LCG-1) şi Subgrupului LCG-1/SG-1 | [`hg/2007/1184/`](hg/2007/1184/) | in force | 1 | 2007-10-10 | 2007-10-10 |
+| Hotărârea Guvernului nr. 1186/2007 privind participarea Ministerului Apărării la organizarea la Bucureşti, în perioada 18-21 octombrie 2007, a celei de-a V-a ediţii a Expoziţiei Internaţionale de Tehnică Militară EXPOMIL - 2007 şi a Seminarului Internaţional ICOMIL - 2007 | [`hg/2007/1186/`](hg/2007/1186/) | in force | 1 | 2007-10-09 | 2007-10-09 |
+| Hotărârea Guvernului nr. 1187/2007 pentru abrogarea art. 2 din Hotărârea Guvernului nr. 709/2005 privind recunoaşterea înfiinţării Camerei de Comerţ şi Industrie a Municipiului Bucureşti | [`hg/2007/1187/`](hg/2007/1187/) | amending act | 1 | 2007-10-10 | 2007-10-10 |
+| Hotărârea Guvernului nr. 1189/2007 privind constituirea Comisiei pentru soluţionarea întâmpinărilor persoanelor fizice în vederea exproprierii pentru cauză de utilitate publică pentru lucrarea de interes naţional "Deschiderea şi punerea în exploatare a carierei Roşiuţa, judeţul Gorj, la o capacitate de 3.000.000 tone lignit/an" | [`hg/2007/1189/`](hg/2007/1189/) | in force | 1 | 2007-10-10 | 2007-10-10 |
+| Hotărârea Guvernului nr. 1197/2007 privind corectarea limitelor de venituri pentru acordarea ajutorului pentru încălzirea locuinţei şi a nivelurilor acestuia în perioada sezonului rece noiembrie 2007-martie 2008 | [`hg/2007/1197/`](hg/2007/1197/) | in force | 1 | 2007-10-09 | 2007-10-09 |
 | Hotărârea Guvernului nr. 1198/2007 privind suplimentarea bugetului Cancelariei Primului-Ministru din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2007, pentru Agenţia Naţională pentru Sport | [`hg/2007/1198/`](hg/2007/1198/) | in force | 2 | 2007-10-11 | 2007-11-20 |
+| Hotărârea Guvernului nr. 1199/2007 privind acordarea unui ajutor umanitar de urgenţă pentru populaţia din judeţul Galaţi | [`hg/2007/1199/`](hg/2007/1199/) | in force | 1 | 2007-10-09 | 2007-10-09 |
+| Hotărârea Guvernului nr. 1200/2007 privind suplimentarea bugetului Ministerului Sănătăţii Publice din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2007, pentru achiziţionarea unui spital modular | [`hg/2007/1200/`](hg/2007/1200/) | in force | 1 | 2007-10-09 | 2007-10-09 |
+| Hotărârea Guvernului nr. 1201/2007 privind alocarea unor sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2007, pentru judeţele Constanţa şi Maramureş | [`hg/2007/1201/`](hg/2007/1201/) | in force | 1 | 2007-10-09 | 2007-10-09 |
+| Hotărârea Guvernului nr. 1202/2007 pentru modificarea şi completarea Hotărârii Guvernului nr. 636/2007 privind declararea stării de calamitate naturală în agricultură pentru culturile însămânţate în toamna anului 2006 şi în primăvara anului 2007, precum şi pentru stabilirea nivelului maxim al sumei ce poate fi acordată ca despăgubire | [`hg/2007/1202/`](hg/2007/1202/) | amending act | 1 | 2007-10-09 | 2007-10-09 |
 | Hotărârea Guvernului nr. 1204/2007 | [`hg/2007/1204/`](hg/2007/1204/) | in force | 2 | 2007-12-16 | 2012-10-11 |
 | Hotărârea Guvernului nr. 1282/2007 pentru aprobarea normelor privind recunoașterea diplomelor, certificatelor și titlurilor de medic, de medic dentist, de farmacist, de asistent medical generalist și de moașă, eliberate de un stat membru al Uniunii Europene, de un stat aparținând Spațiului Economic European sau de Confederația Elvețiană | [`hg/2007/1282/`](hg/2007/1282/) | amending act | 2 | 2007-10-30 | 2016-03-22 |
 | Hotărârea Guvernului nr. 1284/2007 | [`hg/2007/1284/`](hg/2007/1284/) | in force | 2 | 2007-10-31 | 2011-10-11 |
