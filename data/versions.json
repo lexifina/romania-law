@@ -234566,6 +234566,21 @@
    ]
   },
   {
+   "slug": "hg-575-2022",
+   "path": "hg/2022/575",
+   "short": "HG nr. 575/2022",
+   "title": "Hotărârea Guvernului nr. 575/2022 privind trecerea unui imobil din domeniul privat în domeniul public al statului şi darea lui în administrarea Ministerului Sportului, prin Direcţia Judeţeană de Sport Argeş, înscrierea unor imobile în inventarul centralizat al bunurilor din domeniul public al statului şi darea lor în administrarea Ministerului Sportului, prin Direcţia Judeţeană de Sport Argeş, respectiv actualizarea valorii de inventar şi a datelor de identificare a unor imobile aflate în domeniul public al statului şi în administrarea Ministerului Sportului, prin Direcţia Judeţeană de Sport Argeş, comasarea lor, trecerea unui imobil din domeniul public al statului şi din administrarea Ministerului Sportului, prin Direcţia Judeţeană de Sport Argeş, în domeniul public al municipiului Piteşti, judeţul Argeş, şi modificarea anexei nr. 30 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/254570",
+   "versions": [
+    {
+     "from": "2022-05-02",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/254570",
+     "sha256": "66ded92ba2480f76bcf08ab7654354c447159c62130c6038edb06bf8143feb1d"
+    }
+   ]
+  },
+  {
    "slug": "hg-575-2023",
    "path": "hg/2023/575",
    "short": "HG nr. 575/2023",
@@ -300269,6 +300284,21 @@
    ]
   },
   {
+   "slug": "hg-915-2022",
+   "path": "hg/2022/915",
+   "short": "HG nr. 915/2022",
+   "title": "Hotărârea Guvernului nr. 915/2022 privind aprobarea unor modificări în inventarul centralizat al bunurilor din domeniul public al statului aflate în administrarea Ministerului Apărării Naţionale, situate în judeţele Argeş, Braşov, Constanţa, Iaşi, Mureş, Sibiu, Prahova, Bihor, Ilfov şi municipiul Bucureşti, şi modificarea anexei nr. 4 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/257879",
+   "versions": [
+    {
+     "from": "2022-07-28",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/257879",
+     "sha256": "f173b46c020a5543d014a14fcf3f85f84911b08a15b045bee1cc79d9b03986bf"
+    }
+   ]
+  },
+  {
    "slug": "hg-915-2023",
    "path": "hg/2023/915",
    "short": "HG nr. 915/2023",
@@ -318953,6 +318983,21 @@
    ]
   },
   {
+   "slug": "legea-121-2022",
+   "path": "lege/2022/121",
+   "short": "Legea nr. 121/2022",
+   "title": "Legea nr. 121/2022 pentru completarea Ordonanţei Guvernului nr. 46/2000 privind declararea Complexului \"Memorialul Revoluţiei - Decembrie 1989\" din municipiul Timişoara ansamblu de interes naţional",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/254610",
+   "versions": [
+    {
+     "from": "2022-05-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/254610",
+     "sha256": "d8515dec6fc8f755aa670194591335913df481da9bbcb976125c9ba8be18d964"
+    }
+   ]
+  },
+  {
    "slug": "legea-121-2024",
    "path": "lege/2024/121",
    "short": "Legea nr. 121/2024",
@@ -319651,6 +319696,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/201476",
      "sha256": "4a6da6e37b05426b224fb2d06235030558284419c6a26343cc277630ad489d4f"
+    }
+   ]
+  },
+  {
+   "slug": "legea-127-2022",
+   "path": "lege/2022/127",
+   "short": "Legea nr. 127/2022",
+   "title": "Legea nr. 127/2022 pentru modificarea art. 12 alin. (8^1) din Legea educaţiei naţionale nr. 1/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/254941",
+   "versions": [
+    {
+     "from": "2022-05-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/254941",
+     "sha256": "a602c218616f3bd8e05bb4951e9bc3dff041d3b03cf2ddc1f3910c384dc481a7"
     }
    ]
   },
@@ -329885,6 +329945,21 @@
    ]
   },
   {
+   "slug": "legea-194-2022",
+   "path": "lege/2022/194",
+   "short": "Legea nr. 194/2022",
+   "title": "Legea nr. 194/2022 pentru modificarea şi completarea Legii educaţiei fizice şi sportului nr. 69/2000",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/257000",
+   "versions": [
+    {
+     "from": "2022-08-03",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/257000",
+     "sha256": "dd0146b48c89912125f033dc7f31edcec5a0ae32c029e043b6cb4dfd38a32fb7"
+    }
+   ]
+  },
+  {
    "slug": "legea-195-2015",
    "path": "lege/2015/195",
    "short": "Legea nr. 195/2015",
@@ -333364,6 +333439,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/244930",
      "sha256": "65d2acb85b705e8a908a762781c323ac6e6b249f5d8a33ca42ba98b942e01496"
+    }
+   ]
+  },
+  {
+   "slug": "legea-221-2022",
+   "path": "lege/2022/221",
+   "short": "Legea nr. 221/2022",
+   "title": "Legea nr. 221/2022 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 33/2007 privind organizarea şi funcţionarea Autorităţii Naţionale de Reglementare în Domeniul Energiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/257635",
+   "versions": [
+    {
+     "from": "2022-07-22",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/257635",
+     "sha256": "7afcda7fa8cf15eb83f9207879556e5dac5033087d64f17223314483887f968f"
     }
    ]
   },
@@ -337927,6 +338017,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/247460",
      "sha256": "9746ead60683055417fa2e178efacc9ab0cea90e825867a91642e9ba8b9b16cd"
+    }
+   ]
+  },
+  {
+   "slug": "legea-255-2022",
+   "path": "lege/2022/255",
+   "short": "Legea nr. 255/2022",
+   "title": "Legea nr. 255/2022 pentru modificarea şi completarea Legii educaţiei naţionale nr. 1/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/257780",
+   "versions": [
+    {
+     "from": "2022-07-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/257780",
+     "sha256": "e3b8bf74fb59154b77351c0a36503a2cf3950eea3a2ec20a1a5c2888df0e71cd"
     }
    ]
   },
@@ -360278,6 +360383,21 @@
    ]
   },
   {
+   "slug": "og-33-2022",
+   "path": "og/2022/33",
+   "short": "OG nr. 33/2022",
+   "title": "Ordonanța Guvernului nr. 33/2022 privind reglementarea unor măsuri financiar-fiscale şi bugetare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/258757",
+   "versions": [
+    {
+     "from": "2022-09-03",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/258757",
+     "sha256": "332dadf94af22d4b377d1c84e77b2d81271fa05bd26aa05b791f092fdaf397a1"
+    }
+   ]
+  },
+  {
    "slug": "og-33-2023",
    "path": "og/2023/33",
    "short": "OG nr. 33/2023",
@@ -379519,6 +379639,21 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/225053",
      "sha256": "711ca2e971c60dab9f1048e079a551aca6dc23d6c8037f2f69309b77084412c4"
+    }
+   ]
+  },
+  {
+   "slug": "oug-56-2022",
+   "path": "oug/2022/56",
+   "short": "OUG nr. 56/2022",
+   "title": "Ordonanța de urgență a Guvernului nr. 56/2022 privind unele măsuri de eficientizare a activităţii turistice aferente sezonului turistic estival 2022 pe litoralul românesc al Mării Negre",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/254521",
+   "versions": [
+    {
+     "from": "2022-04-29",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/254521",
+     "sha256": "f16b645f7c1e5740bde580b4e84cd427924cb2b4785626757a89965b06b00e3b"
     }
    ]
   },

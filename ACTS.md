@@ -1,6 +1,6 @@
 # Every act in this repository
 
-20408 acts, 34,041 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+20417 acts, 34,050 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (3215, of which 1748 amending acts)
+## Laws (legi) (3220, of which 1753 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -2409,8 +2409,10 @@
 | Legea nr. 104/2022 pentru modificarea art. 13 alin. (1) lit. i) din Legea nr. 52/2011 privind exercitarea unor activități cu caracter ocazional desfășurate de zilieri | [`lege/2022/104/`](lege/2022/104/) | amending act | 1 | 2022-04-24 | 2022-04-24 |
 | Legea nr. 105/2022 pentru modificarea și completarea Legii nr. 119/1996 cu privire la actele de stare civilă, precum și pentru abrogarea Ordonanței Guvernului nr. 41/2003 privind dobândirea și schimbarea pe cale administrativă a numelor persoanelor fizice | [`lege/2022/105/`](lege/2022/105/) | amending act | 1 | 2022-07-28 | 2022-07-28 |
 | Legea nr. 111/2022 privind reglementarea activității prestatorului casnic | [`lege/2022/111/`](lege/2022/111/) | in force | 3 | 2022-04-30 | 2024-04-25 |
+| Legea nr. 121/2022 pentru completarea Ordonanţei Guvernului nr. 46/2000 privind declararea Complexului "Memorialul Revoluţiei - Decembrie 1989" din municipiul Timişoara ansamblu de interes naţional | [`lege/2022/121/`](lege/2022/121/) | amending act | 1 | 2022-05-06 | 2022-05-06 |
 | Legea nr. 122/2022 pentru modificarea și completarea art. 36 din Legea nr. 218/2002 privind organizarea și funcționarea Poliției Române | [`lege/2022/122/`](lege/2022/122/) | amending act | 1 | 2022-05-06 | 2022-05-06 |
 | Legea nr. 125/2022 pentru completarea Ordonanței de urgență a Guvernului nr. 44/2008 privind desfășurarea activităților economice de către persoanele fizice autorizate, întreprinderile individuale și întreprinderile familiale | [`lege/2022/125/`](lege/2022/125/) | amending act | 1 | 2022-05-09 | 2022-05-09 |
+| Legea nr. 127/2022 pentru modificarea art. 12 alin. (8^1) din Legea educaţiei naţionale nr. 1/2011 | [`lege/2022/127/`](lege/2022/127/) | amending act | 1 | 2022-05-09 | 2022-05-09 |
 | Legea nr. 128/2022 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 193/2002 privind introducerea sistemelor moderne de plată | [`lege/2022/128/`](lege/2022/128/) | amending act | 1 | 2022-05-09 | 2022-05-09 |
 | Legea nr. 133/2022 pentru modificarea și completarea Legii nr. 95/2006 privind reforma în domeniul sănătății | [`lege/2022/133/`](lege/2022/133/) | amending act | 1 | 2022-06-01 | 2022-06-01 |
 | Legea nr. 134/2022 pentru modificarea Ordonanței de urgență a Guvernului nr. 195/2002 privind circulația pe drumurile publice | [`lege/2022/134/`](lege/2022/134/) | amending act | 1 | 2022-05-16 | 2022-05-16 |
@@ -2451,6 +2453,7 @@
 | Legea nr. 188/2022 pentru modificarea și completarea Legii nr. 126/2018 privind piețele de instrumente financiare | [`lege/2022/188/`](lege/2022/188/) | amending act | 2 | 2022-07-03 | 2022-07-13 |
 | Legea nr. 190/2022 pentru modificarea și completarea Legii audiovizualului nr. 504/2002 , pentru modificarea și completarea Ordonanței Guvernului nr. 39/2005 privind cinematografia, precum și pentru modificarea Legii nr. 41/1994 privind organizarea și funcționarea Societății Române de Radiodifuziune și Societății Române de Televiziune | [`lege/2022/190/`](lege/2022/190/) | amending act | 1 | 2022-07-03 | 2022-07-03 |
 | Legea nr. 191/2022 pentru modificarea și completarea Legii nr. 272/2004 privind protecția și promovarea drepturilor copilului | [`lege/2022/191/`](lege/2022/191/) | amending act | 3 | 2022-07-03 | 2022-09-28 |
+| Legea nr. 194/2022 pentru modificarea şi completarea Legii educaţiei fizice şi sportului nr. 69/2000 | [`lege/2022/194/`](lege/2022/194/) | amending act | 1 | 2022-08-03 | 2022-08-03 |
 | Legea nr. 195/2022 pentru completarea art. 25 din Legea contabilității nr. 82/1991 | [`lege/2022/195/`](lege/2022/195/) | amending act | 1 | 2022-07-07 | 2022-07-07 |
 | Legea nr. 196/2022 privind completarea art. 28 din Legea nr. 370/2004 pentru alegerea Președintelui României | [`lege/2022/196/`](lege/2022/196/) | amending act | 1 | 2022-07-07 | 2022-07-07 |
 | Legea nr. 197/2022 pentru aprobarea Ordonanței de urgență a Guvernului nr. 81/2021 privind aprobarea metodelor de intervenție imediată pentru prevenirea și combaterea atacurilor exemplarelor de urs brun asupra persoanelor și bunurilor acestora, în intravilanul localităților, precum și pentru modificarea și completarea unor acte normative | [`lege/2022/197/`](lege/2022/197/) | amending act | 1 | 2022-07-09 | 2022-07-09 |
@@ -2470,6 +2473,7 @@
 | Legea nr. 218/2022 privind aprobarea Ordonanței de urgență a Guvernului nr. 34/2021 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 3/2021 privind unele măsuri pentru recrutarea și plata personalului implicat în procesul de vaccinare împotriva COVID-19 și stabilirea unor măsuri în domeniul sănătății | [`lege/2022/218/`](lege/2022/218/) | amending act | 1 | 2022-07-22 | 2022-07-22 |
 | Legea nr. 219/2022 privind aprobarea Ordonanței de urgență a Guvernului nr. 115/2021 pentru completarea Legii nr. 136/2020 privind instituirea unor măsuri în domeniul sănătății publice în situații de risc epidemiologic și biologic | [`lege/2022/219/`](lege/2022/219/) | amending act | 1 | 2022-07-22 | 2022-07-22 |
 | Legea nr. 220/2022 privind valorificarea adaptată a unor măsuri dovedite benefice pentru instituțiile din domeniul justiției instituite pe perioada stării de alertă declarate în vederea prevenirii și combaterii efectelor pandemiei de COVID-19 | [`lege/2022/220/`](lege/2022/220/) | in force | 1 | 2022-07-22 | 2022-07-22 |
+| Legea nr. 221/2022 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 33/2007 privind organizarea şi funcţionarea Autorităţii Naţionale de Reglementare în Domeniul Energiei | [`lege/2022/221/`](lege/2022/221/) | amending act | 1 | 2022-07-22 | 2022-07-22 |
 | Legea nr. 222/2022 pentru completarea art. 12 din Ordonanţa de urgenţă a Guvernului nr. 30/2007 privind organizarea şi funcţionarea Ministerului Afacerilor Interne | [`lege/2022/222/`](lege/2022/222/) | amending act | 1 | 2022-07-22 | 2022-07-22 |
 | Legea nr. 223/2022 pentru ratificarea Protocolului semnat de partea română la Bucureşti, la 5 martie 2020, la Acordul dintre Guvernul României, Guvernul Republicii Slovace, Cabinetul de Miniştri al Ucrainei şi Guvernul Republicii Ungare privind înfiinţarea Batalionului multinaţional de geniu, semnat la Budapesta la 18 ianuarie 2002 | [`lege/2022/223/`](lege/2022/223/) | in force | 1 | 2022-07-22 | 2022-07-22 |
 | Legea nr. 224/2022 pentru completarea art. 110 din Legea educaţiei naţionale nr. 1/2011 | [`lege/2022/224/`](lege/2022/224/) | amending act | 1 | 2022-07-23 | 2022-07-23 |
@@ -2494,6 +2498,7 @@
 | Legea nr. 247/2022 pentru modificarea și completarea unor acte normative privind documentele de ședere eliberate cetățenilor Uniunii Europene și membrilor de familie ai acestora, precum și în domeniul străinilor | [`lege/2022/247/`](lege/2022/247/) | amending act | 2 | 2022-07-28 | 2022-09-26 |
 | Legea nr. 251/2022 privind aprobarea Ordonanţei Guvernului nr. 7/2022 pentru modificarea şi completarea Ordonanţei Guvernului nr. 25/2001 privind înfiinţarea Companiei Naţionale de Investiţii "C.N.I." - S.A | [`lege/2022/251/`](lege/2022/251/) | amending act | 1 | 2022-07-25 | 2022-07-25 |
 | Legea nr. 253/2022 pentru modificarea și completarea Legii locuinței nr. 114/1996 | [`lege/2022/253/`](lege/2022/253/) | amending act | 1 | 2022-07-30 | 2022-07-30 |
+| Legea nr. 255/2022 pentru modificarea şi completarea Legii educaţiei naţionale nr. 1/2011 | [`lege/2022/255/`](lege/2022/255/) | amending act | 1 | 2022-07-28 | 2022-07-28 |
 | Legea nr. 257/2022 privind stabilirea unor măsuri referitoare la executarea sancțiunilor contravenționale aplicate în temeiul art. 4 alin. (1) din Ordonanța de urgență a Guvernului nr. 129/2021 privind implementarea formularului digital de intrare în România, abrogată prin Ordonanța de urgență a Guvernului nr. 22/2022 pentru abrogarea Ordonanței de urgență a Guvernului nr. 129/2021 privind implementarea formularului digital de intrare în România | [`lege/2022/257/`](lege/2022/257/) | amending act | 1 | 2022-07-30 | 2022-07-30 |
 | Legea nr. 258/2022 pentru modificarea art. 65 alin. (5) din Legea nr. 263/2010 privind sistemul unitar de pensii publice | [`lege/2022/258/`](lege/2022/258/) | amending act | 1 | 2022-07-28 | 2022-07-28 |
 | Legea nr. 259/2022 privind înfiinţarea Muzeului Naţional al Revoluţiei Anticomuniste din Decembrie 1989 | [`lege/2022/259/`](lege/2022/259/) | in force | 1 | 2022-07-28 | 2022-07-28 |
@@ -3253,7 +3258,7 @@
 | Legea nr. 204/2026 privind aprobarea Ordonanţei Guvernului nr. 22/2025 pentru modificarea şi completarea Legii nr. 227/2015 privind Codul fiscal şi pentru completarea articolului 342 din Legea nr. 227/2015 privind Codul fiscal | [`lege/2026/204/`](lege/2026/204/) | amending act | 1 | 2026-10-25 | 2026-10-25 |
 | Legea nr. 205/2026 pentru completarea Ordonanţei Guvernului nr. 22/2002 privind executarea obligaţiilor de plată ale instituţiilor publice, stabilite prin titluri executorii | [`lege/2026/205/`](lege/2026/205/) | amending act | 1 | 2026-11-02 | 2026-11-02 |
 
-## Emergency ordinances (OUG) (1696, of which 600 amending acts)
+## Emergency ordinances (OUG) (1697, of which 600 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -4624,6 +4629,7 @@
 | Ordonanța de urgență a Guvernului nr. 51/2022 privind instituirea unei scheme de ajutor de stat pentru susținerea activității crescătorilor din sectoarele bovine, suine și avicol în contextul crizei economice generate de pandemia de COVID-19 | [`oug/2022/51/`](oug/2022/51/) | in force | 1 | 2022-04-22 | 2022-04-22 |
 | Ordonanța de urgență a Guvernului nr. 52/2022 privind unele măsuri bugetare destinate organizării şi desfăşurării celei de-a 21-a ediţii a Conferinţei Plenipotenţiarilor Uniunii Internaţionale a Telecomunicaţiilor la Bucureşti, în perioada 26 septembrie-14 octombrie 2022 | [`oug/2022/52/`](oug/2022/52/) | in force | 1 | 2022-04-21 | 2022-04-21 |
 | Ordonanța de urgență a Guvernului nr. 53/2022 privind modificarea și completarea Legii nr. 129/2019 pentru prevenirea și combaterea spălării banilor și finanțării terorismului, precum și pentru modificarea și completarea unor acte normative | [`oug/2022/53/`](oug/2022/53/) | amending act | 1 | 2022-04-21 | 2022-04-21 |
+| Ordonanța de urgență a Guvernului nr. 56/2022 privind unele măsuri de eficientizare a activităţii turistice aferente sezonului turistic estival 2022 pe litoralul românesc al Mării Negre | [`oug/2022/56/`](oug/2022/56/) | in force | 1 | 2022-04-29 | 2022-04-29 |
 | Ordonanța de urgență a Guvernului nr. 57/2022 pentru modificarea și completarea Legii nr. 202/2002 privind egalitatea de șanse și de tratament între femei și bărbați și pentru modificarea art. 3 alin. (2^1) din Ordonanța de urgență a Guvernului nr. 121/2021 privind stabilirea unor măsuri la nivelul administrației publice centrale și pentru modificarea și completarea unor acte normative | [`oug/2022/57/`](oug/2022/57/) | amending act | 1 | 2022-05-03 | 2022-05-03 |
 | Ordonanța de urgență a Guvernului nr. 58/2022 pentru modificarea și completarea unor acte normative din domeniul protecției consumatorilor | [`oug/2022/58/`](oug/2022/58/) | amending act | 2 | 2022-05-28 | 2022-07-20 |
 | Ordonanța de urgență a Guvernului nr. 59/2022 pentru modificarea unor acte normative în domeniul străinilor | [`oug/2022/59/`](oug/2022/59/) | amending act | 1 | 2022-05-05 | 2022-05-05 |
@@ -4954,7 +4960,7 @@
 | Ordonanța de urgență a Guvernului nr. 33/2026 pentru modificarea şi completarea Legii educaţiei fizice şi sportului nr. 69/2000 | [`oug/2026/33/`](oug/2026/33/) | amending act | 1 | 2026-04-27 | 2026-04-27 |
 | Ordonanța de urgență a Guvernului nr. 37/2026 pentru modificarea şi completarea Legii nr. 333/2003 privind paza obiectivelor, bunurilor, valorilor şi protecţia persoanelor | [`oug/2026/37/`](oug/2026/37/) | amending act | 2 | 2026-05-06 | 2026-06-05 |
 
-## Ordinances (OG) (525, of which 106 amending acts)
+## Ordinances (OG) (526, of which 106 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -5420,6 +5426,7 @@
 | Ordonanța Guvernului nr. 30/2022 privind reglementarea unor măsuri financiar-fiscale şi bugetare | [`og/2022/30/`](og/2022/30/) | in force | 1 | 2022-09-02 | 2022-09-02 |
 | Ordonanța Guvernului nr. 31/2022 pentru modificarea și completarea Legii nr. 207/2015 privind Codul de procedură fiscală | [`og/2022/31/`](og/2022/31/) | amending act | 1 | 2022-09-03 | 2022-09-03 |
 | Ordonanța Guvernului nr. 32/2022 privind reglementarea unei măsuri financiar-fiscale şi bugetare | [`og/2022/32/`](og/2022/32/) | in force | 1 | 2022-09-03 | 2022-09-03 |
+| Ordonanța Guvernului nr. 33/2022 privind reglementarea unor măsuri financiar-fiscale şi bugetare | [`og/2022/33/`](og/2022/33/) | in force | 1 | 2022-09-03 | 2022-09-03 |
 | Ordonanța Guvernului nr. 37/2022 pentru modificarea și completarea Legii nr. 95/2006 privind reforma în domeniul sănătății și a Legii nr. 227/2015 privind Codul fiscal , precum și stabilirea unor alte măsuri în domeniul sănătății | [`og/2022/37/`](og/2022/37/) | amending act | 4 | 2022-09-03 | 2022-12-02 |
 | Ordonanța Guvernului nr. 3/2023 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 166/2022 privind unele măsuri pentru acordarea unui sprijin categoriilor de persoane vulnerabile pentru compensarea prețului la energie, suportat parțial din fonduri externe nerambursabile | [`og/2023/3/`](og/2023/3/) | amending act | 1 | 2023-01-15 | 2023-01-15 |
 | Ordonanța Guvernului nr. 4/2023 privind stabilirea destinaţiei unor sume restituite în contul Fondului de Dezvoltare şi Investiţii | [`og/2023/4/`](og/2023/4/) | in force | 1 | 2023-01-22 | 2023-01-22 |
@@ -5484,7 +5491,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (14933, of which 7569 amending acts)
+## Government decisions (HG) (14935, of which 7571 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -16648,6 +16655,7 @@
 | Hotărârea Guvernului nr. 569/2022 pentru modificarea Hotărârii Guvernului nr. 460/2011 privind organizarea și funcționarea Agenției Naționale împotriva Traficului de Persoane | [`hg/2022/569/`](hg/2022/569/) | amending act | 1 | 2022-05-03 | 2022-05-03 |
 | Hotărârea Guvernului nr. 570/2022 pentru aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii "Ambulatoriu de specialitate şi spitalizare de zi la Spitalul Judeţean de Urgenţă Mavromati, municipiul Botoşani, judeţul Botoşani" | [`hg/2022/570/`](hg/2022/570/) | amending act | 1 | 2022-04-29 | 2022-04-29 |
 | Hotărârea Guvernului nr. 571/2022 pentru aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii "Lucrări de intervenţie la Pavilionul «C» din Cazarma 734 Bucureşti, sectorul 1, Calea Plevnei nr. 134, municipiul Bucureşti" | [`hg/2022/571/`](hg/2022/571/) | amending act | 1 | 2022-05-06 | 2022-05-06 |
+| Hotărârea Guvernului nr. 575/2022 privind trecerea unui imobil din domeniul privat în domeniul public al statului şi darea lui în administrarea Ministerului Sportului, prin Direcţia Judeţeană de Sport Argeş, înscrierea unor imobile în inventarul centralizat al bunurilor din domeniul public al statului şi darea lor în administrarea Ministerului Sportului, prin Direcţia Judeţeană de Sport Argeş, respectiv actualizarea valorii de inventar şi a datelor de identificare a unor imobile aflate în domeniul public al statului şi în administrarea Ministerului Sportului, prin Direcţia Judeţeană de Sport Argeş, comasarea lor, trecerea unui imobil din domeniul public al statului şi din administrarea Ministerului Sportului, prin Direcţia Judeţeană de Sport Argeş, în domeniul public al municipiului Piteşti, judeţul Argeş, şi modificarea anexei nr. 30 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului | [`hg/2022/575/`](hg/2022/575/) | amending act | 1 | 2022-05-02 | 2022-05-02 |
 | Hotărârea Guvernului nr. 577/2022 privind acceptarea de către statul român a donaţiei unui bun mobil, ca operaţiune compensatorie, din partea Harris Global Communications Inc şi darea în administrarea Ministerului Apărării Naţionale a acestui bun | [`hg/2022/577/`](hg/2022/577/) | in force | 1 | 2022-05-02 | 2022-05-02 |
 | Hotărârea Guvernului nr. 578/2022 privind modificarea și completarea Hotărârii Guvernului nr. 1.153/2001 pentru aprobarea Normelor metodologice de aplicare a prevederilor Legii nr. 34/1998 privind acordarea unor subvenții asociațiilor și fundațiilor române cu personalitate juridică, care înființează și administrează unități de asistență socială | [`hg/2022/578/`](hg/2022/578/) | amending act | 1 | 2022-05-04 | 2022-05-04 |
 | Hotărârea Guvernului nr. 579/2022 privind recunoaşterea Asociaţiei pentru Promovarea Turismului din Oradea şi Regiune ca fiind de utilitate publică | [`hg/2022/579/`](hg/2022/579/) | in force | 1 | 2022-05-03 | 2022-05-03 |
@@ -16902,6 +16910,7 @@
 | Hotărârea Guvernului nr. 912/2022 pentru reaprobarea indicatorilor tehnico-economici ai obiectivului de investiţii "Consolidare, reabilitare şi dotare Ansamblu Mănăstiresc Tismana (C1, C2, C3), oraş Tismana, judeţul Gorj" | [`hg/2022/912/`](hg/2022/912/) | in force | 1 | 2022-07-21 | 2022-07-21 |
 | Hotărârea Guvernului nr. 913/2022 privind aprobarea Programului statistic naţional anual 2022 | [`hg/2022/913/`](hg/2022/913/) | amending act | 1 | 2022-07-21 | 2022-07-21 |
 | Hotărârea Guvernului nr. 914/2022 privind actualizarea valorii de inventar a imobilului 2706 aflat în domeniul public al statului şi în administrarea Ministerului Apărării Naţionale, trecerea acestuia în domeniul public al comunei Herăşti, judeţul Giurgiu, şi modificarea anexei nr. 4 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului | [`hg/2022/914/`](hg/2022/914/) | amending act | 1 | 2022-07-28 | 2022-07-28 |
+| Hotărârea Guvernului nr. 915/2022 privind aprobarea unor modificări în inventarul centralizat al bunurilor din domeniul public al statului aflate în administrarea Ministerului Apărării Naţionale, situate în judeţele Argeş, Braşov, Constanţa, Iaşi, Mureş, Sibiu, Prahova, Bihor, Ilfov şi municipiul Bucureşti, şi modificarea anexei nr. 4 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului | [`hg/2022/915/`](hg/2022/915/) | amending act | 1 | 2022-07-28 | 2022-07-28 |
 | Hotărârea Guvernului nr. 916/2022 privind aprobarea unor modificări în inventarul centralizat al bunurilor din domeniul public al statului aflate în administrarea Ministerului Apărării Naţionale, trecerea unor părţi de imobile aflate în administrarea Ministerului Apărării Naţionale, constituite din construcţii şi amenajări la terenuri, situate în judeţele Constanţa, Sibiu, Ilfov, Mehedinţi, Olt, Vrancea, Tulcea şi municipiul Bucureşti din domeniul public al statului în domeniul privat al acestuia, în vederea scoaterii din funcţiune şi casării, şi modificarea anexei nr. 4 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului | [`hg/2022/916/`](hg/2022/916/) | amending act | 1 | 2022-07-21 | 2022-07-21 |
 | Hotărârea Guvernului nr. 917/2022 pentru modificarea poziţiei nr. 29 din anexa la Hotărârea Guvernului nr. 706/1994 privind trecerea palatelor administrative din municipiile reşedinţe de judeţe în administrarea instituţiilor prefectului şi pentru actualizarea valorii de inventar şi a datelor de identificare ale unor imobile aflate în domeniul public al statului şi administrarea Instituţiei Prefectului - Judeţul Olt din subordinea Ministerului Afacerilor Interne | [`hg/2022/917/`](hg/2022/917/) | amending act | 1 | 2022-07-26 | 2022-07-26 |
 | Hotărârea Guvernului nr. 918/2022 privind actualizarea valorii de inventar a unui imobil aflat în domeniul public al statului şi în administrarea Ministerului Afacerilor Interne - Academia de Poliţie "Alexandru Ioan Cuza" | [`hg/2022/918/`](hg/2022/918/) | in force | 1 | 2022-07-20 | 2022-07-20 |
