@@ -1,6 +1,6 @@
 # Every act in this repository
 
-16091 acts, 29,715 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+16092 acts, 29,716 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -4981,7 +4981,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (11119, of which 5309 amending acts)
+## Government decisions (HG) (11120, of which 5310 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -8785,6 +8785,7 @@
 | Hotărârea Guvernului nr. 959/2017 pentru modificarea Hotărârii Guvernului nr. 136/2016 privind aprobarea normelor metodologice pentru determinarea costului standard per elev/preșcolar și stabilirea finanțării de bază de la bugetul de stat, din sume defalcate din T.V.A. prin bugetele locale, pe baza costului standard per elev/preșcolar, pentru toți preșcolarii și elevii din învățământul general obligatoriu particular și confesional acreditat, precum și pentru cei din învățământul profesional și liceal acreditat, particular și confesional | [`hg/2017/959/`](hg/2017/959/) | amending act | 1 | 2018-01-08 | 2018-01-08 |
 | Hotărârea Guvernului nr. 961/2017 privind aprobarea modelului steagului comunei Cornu, județul Prahova | [`hg/2017/961/`](hg/2017/961/) | amending act | 1 | 2018-01-18 | 2018-01-18 |
 | Hotărârea Guvernului nr. 962/2017 privind aprobarea tarifului pentru unele operațiuni efectuate de Oficiul Național al Registrului Comerțului și oficiile registrului comerțului de pe lângă tribunale | [`hg/2017/962/`](hg/2017/962/) | amending act | 1 | 2018-01-15 | 2018-01-15 |
+| Hotărârea Guvernului nr. 963/2017 pentru aprobarea indicatorilor tehnico-economici aferenţi obiectivului de investiţii "Drum de legătură DN 5 - Şoseaua de Centură - Pod Prieteniei km 61+400", judeţul Giurgiu | [`hg/2017/963/`](hg/2017/963/) | amending act | 1 | 2018-01-05 | 2018-01-05 |
 | Hotărârea Guvernului nr. 1/2018 pentru aprobarea condițiilor generale și specifice pentru anumite categorii de contracte de achiziție aferente obiectivelor de investiții finanțate din fonduri publice | [`hg/2018/1/`](hg/2018/1/) | amending act | 1 | 2018-01-11 | 2018-01-11 |
 | Hotărârea Guvernului nr. 7/2018 pentru aprobarea plafoanelor alocate ajutoarelor naţionale tranzitorii în sectorul vegetal pentru anul de cerere 2017 | [`hg/2018/7/`](hg/2018/7/) | amending act | 1 | 2018-01-15 | 2018-01-15 |
 | Hotărârea Guvernului nr. 9/2018 privind aprobarea schemei "Ajutor de minimis pentru aplicarea programului de susținere a crescătorilor de porci din rasele Bazna și/sau Mangalița în vederea producerii cărnii de porc" | [`hg/2018/9/`](hg/2018/9/) | repealed 2020-05-11 | 4 | 2018-01-16 | 2020-05-11 |
