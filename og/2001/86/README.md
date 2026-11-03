@@ -54,3 +54,13 @@ Act id: `og-86-2001` (tags `og-86-2001/<day>`; `python tools/on.py <day> og-86-2
 - OG nr. 86/2001: the form of 3 June 2002 differs from the earlier form in diacritics and punctuation (portal typesetting: not an amendment; the printed text is kept and no law is credited, as for the other portal typesetting in this record).
 - OG nr. 86/2001: the portal editorial notes printed as paragraphs of an article (on a Constitutional Court ruling, a rectification, a provision put back in force) are not text: 10 such paragraphs across all forms, for example «Art. 13 fost modificat de pct. 17 al art. 1 din LEGEA nr. 28», «Art. 14 fost modificat de pct. 18 al art. 1 din LEGEA nr. 28», «Art. 15 fost modificat de pct. 19 al art. 1 din LEGEA nr. 28».
 - OG nr. 86/2001: 3 changed article(s) with no note naming a law, committed as the publisher's: 2002-06-03 art-029, 2002-06-03 art-034, 2002-06-03 art-035.
+
+## Credits corrected
+
+These changes were first published credited to another law. The words are unchanged; `git blame` still names the commit that wrote them, and `data/credits.csv` lists every corrected credit.
+
+- `art-013.md`, in force from 2002-06-03: Legea nr. 284/2002 (first published as no law named).
+- `art-014.md`, in force from 2002-06-03: Legea nr. 284/2002 (first published as no law named).
+- `art-015.md`, in force from 2002-06-03: Legea nr. 284/2002 (first published as no law named).
+- `art-016.md`, in force from 2002-06-03: Legea nr. 284/2002 (first published as no law named).
+- `art-017.md`, in force from 2002-06-03: Legea nr. 284/2002 (first published as no law named).
