@@ -1,6 +1,6 @@
 # Every act in this repository
 
-17436 acts, 31,061 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+17455 acts, 31,080 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (2924, of which 1512 amending acts)
+## Laws (legi) (2927, of which 1515 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -1177,6 +1177,9 @@
 | Legea nr. 234/2015 | [`lege/2015/234/`](lege/2015/234/) | in force | 3 | 2015-10-15 | 2024-11-22 |
 | Legea nr. 235/2015 | [`lege/2015/235/`](lege/2015/235/) | in force | 1 | 2015-10-17 | 2015-10-17 |
 | Legea nr. 237/2015 privind autorizarea și supravegherea activității de asigurare și reasigurare | [`lege/2015/237/`](lege/2015/237/) | in force | 11 | 2016-01-01 | 2025-12-19 |
+| Legea nr. 240/2015 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 9/2015 pentru modificarea Legii nr. 44/1994 privind veteranii de război, precum şi unele drepturi ale invalizilor şi văduvelor de război şi a Legii nr. 49/1991 privind acordarea de indemnizaţii şi sporuri invalizilor, veteranilor şi văduvelor de război | [`lege/2015/240/`](lege/2015/240/) | amending act | 1 | 2015-10-24 | 2015-10-24 |
+| Legea nr. 241/2015 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 17/2015 privind aprobarea plăţii contribuţiei României pentru construirea sediului permanent al Curţii Penale Internaţionale | [`lege/2015/241/`](lege/2015/241/) | amending act | 1 | 2015-10-25 | 2015-10-25 |
+| Legea nr. 245/2015 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 20/2015 privind stabilirea nivelului maxim al produsului apă grea destinat unităţilor 1-4 de la Centrala Nuclearo-Electrică Cernavodă pentru întreaga perioadă de exploatare a acestora, precum şi pentru gestionarea apei grele | [`lege/2015/245/`](lege/2015/245/) | amending act | 1 | 2015-10-30 | 2015-10-30 |
 | Legea nr. 246/2015 | [`lege/2015/246/`](lege/2015/246/) | in force | 3 | 2015-11-05 | 2024-01-19 |
 | Legea nr. 247/2015 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 108/2013 pentru prorogarea termenului prevăzut la alin. (1) al art. 56 din Legea nr. 185/2013 privind amplasarea şi autorizarea mijloacelor de publicitate | [`lege/2015/247/`](lege/2015/247/) | amending act | 1 | 2015-11-02 | 2015-11-02 |
 | Legea nr. 249/2015 | [`lege/2015/249/`](lege/2015/249/) | in force | 9 | 2015-11-02 | 2023-11-03 |
@@ -5159,7 +5162,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (12286, of which 6004 amending acts)
+## Government decisions (HG) (12302, of which 6017 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -8707,6 +8710,22 @@
 | Hotărârea Guvernului nr. 844/2015 | [`hg/2015/844/`](hg/2015/844/) | in force | 1 | 2015-10-15 | 2015-10-15 |
 | Hotărârea Guvernului nr. 845/2015 privind stabilirea unor obligaţii şi sancţiuni ce revin operatorilor care introduc pentru prima dată pe piaţă produse din lemn, în conformitate cu Regulamentul (UE) nr. 995/2010 al Parlamentului European şi al Consiliului din 20 octombrie 2010 de stabilire a obligaţiilor ce revin operatorilor care introduc pe piaţă lemn şi produse din lemn | [`hg/2015/845/`](hg/2015/845/) | in force | 2 | 2015-10-15 | 2017-11-09 |
 | Hotărârea Guvernului nr. 867/2015 | [`hg/2015/867/`](hg/2015/867/) | in force | 2 | 2015-11-09 | 2016-08-19 |
+| Hotărârea Guvernului nr. 870/2015 privind aprobarea unor măsuri în vederea dizolvării şi lichidării Societăţii Comerciale "COMICEX" - S.A. şi pentru trecerea unui imobil, aflat în administrarea Ministerului Afacerilor Interne, din domeniul privat al statului în domeniul public al acestuia | [`hg/2015/870/`](hg/2015/870/) | amending act | 1 | 2015-10-22 | 2015-10-22 |
+| Hotărârea Guvernului nr. 871/2015 privind aprobarea normativelor de cheltuieli pentru acţiunea de protocol cu caracter deosebit referitoare la cea de a 10-a reuniune plenară a Comitetului de experţi pentru problematica romilor (CAHROM) al Consiliului Europei, organizată de Ministerul Muncii, Familiei, Protecţiei Sociale şi Persoanelor Vârstnice în perioada 27-30 octombrie 2015 | [`hg/2015/871/`](hg/2015/871/) | amending act | 1 | 2015-10-22 | 2015-10-22 |
+| Hotărârea Guvernului nr. 872/2015 privind aprobarea Memorandumului de înţelegere pentru cooperare în domeniul ştiinţei şi educaţiei între Ministerul Educaţiei şi Cercetării Ştiinţifice din România şi Ministerul Educaţiei din Regatul Arabiei Saudite, semnat la Riad la 30 aprilie 2015 | [`hg/2015/872/`](hg/2015/872/) | amending act | 1 | 2015-10-28 | 2015-10-28 |
+| Hotărârea Guvernului nr. 873/2015 privind modificarea datelor de identificare, actualizarea valorilor de inventar şi schimbarea unităţilor de administrare ale unor bunuri aflate în domeniul public al statului şi în administrarea Ministerului Agriculturii şi Dezvoltării Rurale pentru unele unităţi din subordine, precum şi trecerea din domeniul public al statului în domeniul privat al acestuia a unor bunuri, în vederea scoaterii din funcţiune şi casării, în condiţiile legii | [`hg/2015/873/`](hg/2015/873/) | amending act | 1 | 2015-10-28 | 2015-10-28 |
+| Hotărârea Guvernului nr. 874/2015 privind aprobarea bugetului de venituri şi cheltuieli pe anul 2015 pentru Societatea AVIOANE CRAIOVA - S.A., aflată sub autoritatea Ministerului Economiei, Comerţului şi Turismului | [`hg/2015/874/`](hg/2015/874/) | amending act | 1 | 2015-10-26 | 2015-10-26 |
+| Hotărârea Guvernului nr. 875/2015 privind aprobarea bugetului de venituri şi cheltuieli pe anul 2015 pentru Societatea Naţională a Sării - S.A., aflată sub autoritatea Ministerului Economiei, Comerţului şi Turismului | [`hg/2015/875/`](hg/2015/875/) | amending act | 1 | 2015-10-26 | 2015-10-26 |
+| Hotărârea Guvernului nr. 876/2015 privind modificarea datelor de identificare şi actualizarea valorii de inventar a unui imobil aflat în domeniul public al statului, precum şi transmiterea unei părţi a acestuia din domeniul public al statului şi din administrarea Ministerului Public - Parchetul de pe lângă Tribunalul Vrancea în domeniul public al municipiului Focşani, judeţul Vrancea | [`hg/2015/876/`](hg/2015/876/) | amending act | 1 | 2015-10-27 | 2015-10-27 |
+| Hotărârea Guvernului nr. 878/2015 privind modificarea alin. (4) al art. 7 din Hotărârea Guvernului nr. 470/2014 pentru aprobarea Normelor referitoare la provenienţa, circulaţia şi comercializarea materialelor lemnoase, la regimul spaţiilor de depozitare a materialelor lemnoase şi al instalaţiilor de prelucrat lemn rotund, precum şi a unor măsuri de aplicare a Regulamentului (UE) nr. 995/2010 al Parlamentului European şi al Consiliului din 20 octombrie 2010 de stabilire a obligaţiilor ce revin operatorilor care introduc pe piaţă lemn şi produse din lemn | [`hg/2015/878/`](hg/2015/878/) | amending act | 1 | 2015-10-28 | 2015-10-28 |
+| Hotărârea Guvernului nr. 879/2015 pentru modificarea şi completarea Hotărârii Guvernului nr. 1.185/2014 privind organizarea şi funcţionarea Ministerului Agriculturii şi Dezvoltării Rurale | [`hg/2015/879/`](hg/2015/879/) | amending act | 1 | 2015-10-28 | 2015-10-28 |
+| Hotărârea Guvernului nr. 880/2015 pentru modificarea şi completarea unor acte normative privind scheme de ajutor de stat care se acordă în agricultură | [`hg/2015/880/`](hg/2015/880/) | amending act | 1 | 2015-10-26 | 2015-10-26 |
+| Hotărârea Guvernului nr. 881/2015 privind reorganizarea Staţiunii de Cercetare şi Producţie Pomicolă Cluj prin preluarea şi integrarea acesteia în cadrul Universităţii de Ştiinţe Agricole şi Medicină Veterinară din Cluj-Napoca sub denumirea de Staţiunea de Cercetare Horticolă Cluj-Napoca | [`hg/2015/881/`](hg/2015/881/) | in force | 1 | 2015-11-04 | 2015-11-04 |
+| Hotărârea Guvernului nr. 882/2015 pentru modificarea Hotărârii Guvernului nr. 862/2008 privind constituirea Comisiei interministeriale de evaluare la nivel naţional a programelor de înzestrare de importanţă strategică ale Ministerului Apărării Naţionale | [`hg/2015/882/`](hg/2015/882/) | amending act | 1 | 2015-10-28 | 2015-10-28 |
+| Hotărârea Guvernului nr. 884/2015 pentru modificarea şi completarea unor acte normative | [`hg/2015/884/`](hg/2015/884/) | amending act | 1 | 2015-10-29 | 2015-10-29 |
+| Hotărârea Guvernului nr. 885/2015 pentru modificarea şi completarea unor acte normative referitoare la activitatea Administraţiei Naţionale a Rezervelor de Stat şi Probleme Speciale | [`hg/2015/885/`](hg/2015/885/) | amending act | 1 | 2016-01-01 | 2016-01-01 |
+| Hotărârea Guvernului nr. 886/2015 privind încetarea exercitării, cu caracter temporar, prin detaşare în condiţiile legii, a funcţiei publice de subprefect al judeţului Botoşani de către domnul Ţigănucă Gelu | [`hg/2015/886/`](hg/2015/886/) | in force | 1 | 2015-10-28 | 2015-10-28 |
+| Hotărârea Guvernului nr. 887/2015 privind exercitarea, cu caracter temporar, prin detaşare în condiţiile legii, a funcţiei publice de subprefect al judeţului Botoşani de către doamna Coşman Elena | [`hg/2015/887/`](hg/2015/887/) | in force | 1 | 2015-10-28 | 2015-10-28 |
 | Hotărârea Guvernului nr. 890/2015 privind trecerea din domeniul public al statului în domeniul privat al statului a unor construcţii aflate în administrarea Ministerului Afacerilor Interne şi Serviciului Român de Informaţii şi pentru scoaterea din inventarul centralizat al bunurilor din domeniul public al statului a unui imobil aflat în administrarea Ministerului Afacerilor Interne şi Serviciului Român de Informaţii | [`hg/2015/890/`](hg/2015/890/) | in force | 1 | 2015-10-30 | 2015-10-30 |
 | Hotărârea Guvernului nr. 892/2015 privind actualizarea valorii de inventar a unui imobil aflat în domeniul public al statului şi în administrarea Ministerului Apărării Naţionale şi pentru transmiterea acestuia în domeniul public al judeţului Timiş | [`hg/2015/892/`](hg/2015/892/) | in force | 1 | 2015-11-02 | 2015-11-02 |
 | Hotărârea Guvernului nr. 893/2015 privind transmiterea unui imobil din domeniul public al statului şi din administrarea Ministerului Apărării Naţionale în domeniul public al comunei Rociu, judeţul Argeş | [`hg/2015/893/`](hg/2015/893/) | in force | 1 | 2015-11-02 | 2015-11-02 |
