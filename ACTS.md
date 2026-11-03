@@ -1,6 +1,6 @@
 # Every act in this repository
 
-10562 acts, 24,128 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+10562 acts, 24,129 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -422,7 +422,7 @@
 | Legea nr. 52/2003 privind transparența decizională în administrația publică | [`lege/2003/52/`](lege/2003/52/) | in force | 4 | 2003-04-04 | 2022-03-02 |
 | Codul muncii (Legea nr. 53/2003) | [`lege/2003/53/`](lege/2003/53/) | in force | 61 | 2003-03-01 | 2025-12-18 |
 | Legea nr. 54/2003 | [`lege/2003/54/`](lege/2003/54/) | in force | 2 | 2003-02-05 | 2010-11-09 |
-| Legea minelor nr. 85/2003 | [`lege/2003/85/`](lege/2003/85/) | in force | 25 | 2004-06-25 | 2025-06-12 |
+| Legea minelor nr. 85/2003 | [`lege/2003/85/`](lege/2003/85/) | in force | 26 | 2003-03-27 | 2025-06-12 |
 | Legea nr. 90/2003 | [`lege/2003/90/`](lege/2003/90/) | in force | 3 | 2003-03-27 | 2013-03-23 |
 | Legea nr. 91/2003 | [`lege/2003/91/`](lege/2003/91/) | in force | 1 | 2003-03-27 | 2003-03-27 |
 | Legea nr. 104/2003 | [`lege/2003/104/`](lege/2003/104/) | in force | 8 | 2003-04-03 | 2024-09-01 |
