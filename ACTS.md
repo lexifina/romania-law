@@ -1,6 +1,6 @@
 # Every act in this repository
 
-17912 acts, 31,538 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+17927 acts, 31,553 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (2978, of which 1560 amending acts)
+## Laws (legi) (2980, of which 1561 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -1136,6 +1136,8 @@
 | Legea nr. 74/2015 privind administratorii de fonduri de investiții alternative | [`lege/2015/74/`](lege/2015/74/) | in force | 9 | 2015-05-23 | 2026-01-16 |
 | Legea nr. 83/2015 | [`lege/2015/83/`](lege/2015/83/) | in force | 1 | 2015-05-22 | 2015-05-22 |
 | Legea nr. 91/2015 | [`lege/2015/91/`](lege/2015/91/) | in force | 2 | 2015-04-30 | 2015-12-31 |
+| Legea nr. 94/2015 pentru ratificarea Acordului dintre Guvernul României şi Organizaţia Internaţională de Poliţie Criminală - INTERPOL privind privilegiile şi imunităţile participanţilor la cea de-a 43-a Conferinţă Regională Europeană a Organizaţiei Internaţionale de Poliţie Criminală - INTERPOL de la Bucureşti, încheiat prin schimb de scrisori semnate la 30 ianuarie 2015 la Bucureşti şi la 25 februarie 2015 la Lyon | [`lege/2015/94/`](lege/2015/94/) | in force | 1 | 2015-05-08 | 2015-05-08 |
+| Legea nr. 95/2015 privind modificarea art. 96 din Legea educaţiei naţionale nr. 1/2011 | [`lege/2015/95/`](lege/2015/95/) | amending act | 1 | 2015-05-08 | 2015-05-08 |
 | Legea nr. 96/2015 pentru modificarea anexei nr. 3 la Legea nr. 43/2014 privind protecţia animalelor utilizate în scopuri ştiinţifice | [`lege/2015/96/`](lege/2015/96/) | amending act | 1 | 2015-05-11 | 2015-05-11 |
 | Legea nr. 97/2015 pentru modificarea art. 137 alin. (1) din Legea nr. 53/2003 - Codul muncii | [`lege/2015/97/`](lege/2015/97/) | amending act | 1 | 2015-05-11 | 2015-05-11 |
 | Legea nr. 99/2015 pentru modificarea şi completarea Legii nr. 192/2010 privind trecerea unor drumuri forestiere din domeniul public al statului şi din administrarea Regiei Naţionale a Pădurilor - Romsilva în domeniul public al unor unităţi administrativ-teritoriale şi în administrarea consiliilor locale ale acestora | [`lege/2015/99/`](lege/2015/99/) | amending act | 1 | 2015-05-11 | 2015-05-11 |
@@ -5213,7 +5215,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (12708, of which 6278 amending acts)
+## Government decisions (HG) (12721, of which 6284 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -8716,7 +8718,20 @@
 | Hotărârea Guvernului nr. 257/2015 privind aprobarea Metodologiei de elaborare a planurilor de calitate a aerului, a planurilor de acțiune pe termen scurt și a planurilor de menținere a calității aerului | [`hg/2015/257/`](hg/2015/257/) | amending act | 1 | 2015-04-27 | 2015-04-27 |
 | Hotărârea Guvernului nr. 274/2015 | [`hg/2015/274/`](hg/2015/274/) | in force | 1 | 2015-04-29 | 2015-04-29 |
 | Hotărârea Guvernului nr. 294/2015 | [`hg/2015/294/`](hg/2015/294/) | in force | 4 | 2015-05-06 | 2022-07-05 |
+| Hotărârea Guvernului nr. 295/2015 privind plata contribuţiei României la bugetul Misiunii Speciale de Monitorizare a Organizaţiei pentru Securitate şi Cooperare în Europa (OSCE) în Ucraina | [`hg/2015/295/`](hg/2015/295/) | in force | 1 | 2015-05-06 | 2015-05-06 |
+| Hotărârea Guvernului nr. 296/2015 privind actualizarea valorii de inventar a imobilului aflat în domeniul public al statului şi în administrarea Academiei Oamenilor de Ştiinţă din România | [`hg/2015/296/`](hg/2015/296/) | in force | 1 | 2015-05-07 | 2015-05-07 |
+| Hotărârea Guvernului nr. 297/2015 privind schimbarea regimului juridic al unei părţi dintr-un imobil, constituită din construcţii şi amenajări la terenuri, situată în municipiul Bistriţa, judeţul Bistriţa-Năsăud, şi pentru actualizarea anexei nr. 4 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului | [`hg/2015/297/`](hg/2015/297/) | amending act | 1 | 2015-05-07 | 2015-05-07 |
+| Hotărârea Guvernului nr. 298/2015 privind aprobarea bugetului de venituri şi cheltuieli pe anul 2015 al Companiei Naţionale "Administraţia Porturilor Maritime" - S.A. Constanţa, aflată sub autoritatea Ministerului Transporturilor | [`hg/2015/298/`](hg/2015/298/) | amending act | 1 | 2015-05-07 | 2015-05-07 |
+| Hotărârea Guvernului nr. 300/2015 privind modificarea anexei nr. 41 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului | [`hg/2015/300/`](hg/2015/300/) | amending act | 1 | 2015-05-15 | 2015-05-15 |
+| Hotărârea Guvernului nr. 302/2015 pentru modificarea anexei la Hotărârea Guvernului nr. 299/2014 privind organizarea şi funcţionarea Autorităţii Naţionale pentru Protecţia Drepturilor Copilului şi Adopţie | [`hg/2015/302/`](hg/2015/302/) | amending act | 1 | 2015-05-08 | 2015-05-08 |
+| Hotărârea Guvernului nr. 303/2015 privind aprobarea stemei municipiului Satu Mare, judeţul Satu Mare | [`hg/2015/303/`](hg/2015/303/) | amending act | 1 | 2015-05-27 | 2015-05-27 |
+| Hotărârea Guvernului nr. 304/2015 privind încetarea exercitării, cu caracter temporar, prin detaşare în condiţiile legii, a funcţiei publice de subprefect al judeţului Hunedoara de către domnul Samoilescu Ioan Gabriel | [`hg/2015/304/`](hg/2015/304/) | in force | 1 | 2015-05-07 | 2015-05-07 |
+| Hotărârea Guvernului nr. 305/2015 privind constatarea încetării exercitării, cu caracter temporar, prin detaşare în condiţiile legii, a funcţiei publice de subprefect al judeţului Argeş de către domnul Burnei Ion | [`hg/2015/305/`](hg/2015/305/) | in force | 1 | 2015-05-07 | 2015-05-07 |
+| Hotărârea Guvernului nr. 306/2015 privind constatarea încetării de drept a raportului de serviciu al doamnei Câmpurean Mariana, subprefect al municipiului Bucureşti | [`hg/2015/306/`](hg/2015/306/) | in force | 1 | 2015-05-11 | 2015-05-11 |
+| Hotărârea Guvernului nr. 307/2015 privind acordarea de stimulente financiare elevilor care au obţinut premii, individual sau în cadrul unei echipe, la competiţia NASA Ames Space Settlement Contest desfăşurată în anul 2015 | [`hg/2015/307/`](hg/2015/307/) | in force | 1 | 2015-05-11 | 2015-05-11 |
 | Hotărârea Guvernului nr. 308/2015 | [`hg/2015/308/`](hg/2015/308/) | in force | 1 | 2015-05-11 | 2015-05-11 |
+| Hotărârea Guvernului nr. 309/2015 pentru aprobarea Programului manifestărilor prilejuite de Ziua Eroilor - 21 mai 2015 | [`hg/2015/309/`](hg/2015/309/) | amending act | 1 | 2015-05-11 | 2015-05-11 |
+| Hotărârea Guvernului nr. 310/2015 privind suplimentarea bugetului Secretariatului General al Guvernului pe anul 2015 pentru Institutul Naţional de Statistică pentru plata titlurilor executorii prevăzute de Ordonanţa de urgenţă a Guvernului nr. 71/2009 privind plata unor sume prevăzute în titluri executorii având ca obiect acordarea de drepturi salariale personalului din sectorul bugetar şi de Ordonanţa de urgenţă a Guvernului nr. 92/2012 privind luarea unor măsuri în domeniul învăţământului şi cercetării, precum şi în ceea ce priveşte plata sumelor prevăzute în hotărâri judecătoreşti devenite executorii în perioada 1 ianuarie-31 decembrie 2013, în conformitate cu prevederile Ordonanţei de urgenţă a Guvernului nr. 83/2014 privind salarizarea personalului plătit din fonduri publice în anul 2015, precum şi alte măsuri în domeniul cheltuielilor publice | [`hg/2015/310/`](hg/2015/310/) | in force | 1 | 2015-05-11 | 2015-05-11 |
 | Hotărârea Guvernului nr. 314/2015 pentru aprobarea Protocolului dintre Ministerul Apărării Naţionale din România şi Ministerul Apărării din Republica Armenia privind cooperarea în domeniul pregătirii personalului militar şi civil, semnat la Bucureşti la 26 noiembrie 2014 | [`hg/2015/314/`](hg/2015/314/) | amending act | 1 | 2015-05-13 | 2015-05-13 |
 | Hotărârea Guvernului nr. 315/2015 privind recunoaşterea Asociaţiei "LUMINA" ca fiind de utilitate publică | [`hg/2015/315/`](hg/2015/315/) | in force | 1 | 2015-05-11 | 2015-05-11 |
 | Hotărârea Guvernului nr. 317/2015 privind modificarea valorii de inventar şi/sau completarea şi corectarea datelor de identificare a unor imobile, precum şi scăderea acestora sau a unor părţi ale lor din inventarul centralizat al bunurilor din domeniul public al statului şi din administrarea unităţilor subordonate Ministerului Sănătăţii, ca urmare a retrocedării în condiţiile legii | [`hg/2015/317/`](hg/2015/317/) | amending act | 1 | 2015-05-12 | 2015-05-12 |
