@@ -1,6 +1,6 @@
 # Every act in this repository
 
-14394 acts, 27,983 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+14395 acts, 27,984 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -4799,7 +4799,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (9604, of which 4404 amending acts)
+## Government decisions (HG) (9605, of which 4404 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -8256,6 +8256,7 @@
 | Hotărârea Guvernului nr. 389/2019 privind trecerea unor construcţii, aflate în administrarea Ministerului Afacerilor Interne - Inspectoratul Teritorial al Poliţiei de Frontieră Sighetu Marmaţiei, din domeniul public al statului în domeniul privat al acestuia, în vederea scoaterii din funcţiune, casării şi valorificării, precum şi actualizarea anexei nr. 1 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului | [`hg/2019/389/`](hg/2019/389/) | amending act | 1 | 2019-06-20 | 2019-06-20 |
 | Hotărârea Guvernului nr. 390/2019 pentru aprobarea Notei de fundamentare privind necesitatea şi oportunitatea efectuării cheltuielilor aferente proiectului de investiţii "Achiziţie sediu pentru Autoritatea Naţională pentru Administrare şi Reglementare în Comunicaţii" | [`hg/2019/390/`](hg/2019/390/) | amending act | 1 | 2019-06-19 | 2019-06-19 |
 | Hotărârea Guvernului nr. 391/2019 privind aprobarea bugetului de venituri şi cheltuieli pe anul 2019 al Administraţiei Naţionale de Meteorologie, care funcţionează sub autoritatea Ministerului Mediului | [`hg/2019/391/`](hg/2019/391/) | amending act | 1 | 2019-06-14 | 2019-06-14 |
+| Hotărârea Guvernului nr. 392/2019 pentru reaprobarea indicatorilor tehnico-economici ai obiectivului de investiţii "Consolidare, restaurare şi extindere imobil ASE Bucureşti - Spaţii de educaţie şi cercetare ASE Bucureşti, Piaţa Romană nr. 7" | [`hg/2019/392/`](hg/2019/392/) | in force | 1 | 2019-06-14 | 2019-06-14 |
 | Hotărârea Guvernului nr. 394/2019 privind aprobarea plăţii contribuţiei financiare voluntare a României la Organizaţia pentru Cooperare şi Dezvoltare Economică (OCDE) în vederea finanţării participării României, prin Ministerul Justiţiei, într-un proiect de asistenţă tehnică privind conformitatea legislaţiei naţionale cu prevederile Convenţiei OCDE privind combaterea mituirii funcţionarilor publici în cadrul tranzacţiilor comerciale internaţionale | [`hg/2019/394/`](hg/2019/394/) | amending act | 1 | 2019-06-18 | 2019-06-18 |
 | Hotărârea Guvernului nr. 395/2019 pentru aprobarea Notei de fundamentare privind necesitatea şi oportunitatea efectuării cheltuielilor aferente proiectului de investiţii "Dragă fluvială autopropulsată cu magazie proprie pentru transportul materialului dragat" | [`hg/2019/395/`](hg/2019/395/) | amending act | 1 | 2019-06-25 | 2019-06-25 |
 | Hotărârea Guvernului nr. 396/2019 pentru aprobarea deciziei de închidere a Minei Petrila din cadrul Societăţii Naţionale de Închideri Mine Valea Jiului - S.A., aflată sub autoritatea Ministerului Energiei | [`hg/2019/396/`](hg/2019/396/) | amending act | 1 | 2019-06-18 | 2019-06-18 |
