@@ -39,3 +39,14 @@ Act id: `legea-75-1994` (tags `legea-75-1994/<day>`; `python tools/on.py <day> l
 - Legea nr. 75/1994: added by Lexifina's automatic pass with the default rules: the forms are those the portal lists, each version is dated by its form or by the notes it prints, and no rule or ruling made for this act alone was applied (apart from the correction recorded below). It was published only because every automatic check passed: two parses identical, the newest form read afresh equal to the latest version article by article, every article a form leaves out settled by the standing rules, every version dated by a rule or a stated in-force day, and no unexplained change other than diacritics or spacing.
 - Legea nr. 75/1994: the first version is the law as published in Monitorul Oficial nr. 237 of 26 August 1994 (DetaliiDocumentAfis/4303), dated 26 August 1994: it sets no day of its own, so in force on publication (Constituția of 1991, art. 78, which applied until 29 October 2003). The portal holds no consolidated form before 5 May 2017, so the changes made up to then arrive together that day.
 - Legea nr. 75/1994: art. 7 ends with the sentence «În locurile în care se arborează drapelul României poate fi arborat și drapelul Consiliului Europei», printed without a closing period; it is text of art. 7, not a marginal title of art. 8, so it stays in art. 7 (flag keep_last_line; corrected after publication, when the record had printed it at the start of art. 8, and so showed art. 8 as changed with no note in the form of 23 June 2023, when Legea nr. 176/2023 gave art. 7 its new wording).
+
+## Credits corrected
+
+These changes were first published credited to another law. The words are unchanged; `git blame` still names the commit that wrote them, and `data/credits.csv` lists every corrected credit.
+
+- `art-010.md`, in force from 2017-05-05: Legea nr. 91/2017 (first published as no law named).
+- `art-001.md`, in force from 2023-06-23: Legea nr. 176/2023 (first published as no law named).
+- `art-007.md`, in force from 2023-06-23: Legea nr. 176/2023 (first published as no law named).
+- `art-021.md`, in force from 2023-06-23: Legea nr. 176/2023 (first published as no law named).
+- `art-020.md`, in force from 2024-01-12: Legea nr. 12/2024 (first published as no law named).
+- `art-010.md`, in force from 2024-02-26: Legea nr. 20/2024 (first published as no law named).
