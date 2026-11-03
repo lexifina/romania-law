@@ -195881,6 +195881,21 @@
    ]
   },
   {
+   "slug": "hg-376-2019",
+   "path": "hg/2019/376",
+   "short": "HG nr. 376/2019",
+   "title": "Hotărârea Guvernului nr. 376/2019 privind aplicarea mobilităţii pentru domnul Bangu Corvin-Laurenţiu din funcţia publică de subprefect al judeţului Tulcea în funcţia publică de inspector guvernamental",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/215006",
+   "versions": [
+    {
+     "from": "2019-06-14",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/215006",
+     "sha256": "9d283a085ad0ace6e49dd6427c192ac41968c15eed77889da53970ea5beb80a4"
+    }
+   ]
+  },
+  {
    "slug": "hg-376-2021",
    "path": "hg/2021/376",
    "short": "HG nr. 376/2021",
@@ -204970,6 +204985,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/201725",
      "sha256": "a9d660acc3da50a9477df89ce4fa354006535d5e44c2c814ec621bac28e89f5d"
+    }
+   ]
+  },
+  {
+   "slug": "hg-426-2019",
+   "path": "hg/2019/426",
+   "short": "HG nr. 426/2019",
+   "title": "Hotărârea Guvernului nr. 426/2019 pentru rectificarea anexei nr. 2 la Hotărârea Guvernului nr. 172/2012 privind declanşarea procedurilor de expropriere a imobilelor proprietate privată care constituie coridorul de expropriere al lucrării de utilitate publică \"Varianta de ocolire Mihăileşti\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/215544",
+   "versions": [
+    {
+     "from": "2019-06-27",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/215544",
+     "sha256": "4231236a043c1b0024ebcf16d2131b25195f989a38723812f43c89fcf877d74d"
     }
    ]
   },
@@ -317876,6 +317906,21 @@
    ]
   },
   {
+   "slug": "legea-109-2019",
+   "path": "lege/2019/109",
+   "short": "Legea nr. 109/2019",
+   "title": "Legea nr. 109/2019 privind modificarea şi completarea unor acte normative în domeniul comunicaţiilor electronice, serviciilor poştale şi supravegherii pieţei echipamentelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/214509",
+   "versions": [
+    {
+     "from": "2019-05-31",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/214509",
+     "sha256": "a568ecfcda6ac86eec5c2f256451416642c24354e9dc0e477d10fdb9b0f00c0e"
+    }
+   ]
+  },
+  {
    "slug": "legea-109-2020",
    "path": "lege/2020/109",
    "short": "Legea nr. 109/2020",
@@ -318997,6 +319042,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/189616",
      "sha256": "2a751a505de109911ace09b5e77b04715d1c977e983a6f5479d6fee18d603e4a"
+    }
+   ]
+  },
+  {
+   "slug": "legea-119-2019",
+   "path": "lege/2019/119",
+   "short": "Legea nr. 119/2019",
+   "title": "Legea nr. 119/2019 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 18/2017 privind asistenţa medicală comunitară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/215357",
+   "versions": [
+    {
+     "from": "2019-06-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/215357",
+     "sha256": "2f80c45bd02718366b358544cd6309d5de66194039f4b150cd2317dc86a1f25a"
     }
    ]
   },
@@ -323540,6 +323600,21 @@
    ]
   },
   {
+   "slug": "legea-149-2019",
+   "path": "lege/2019/149",
+   "short": "Legea nr. 149/2019",
+   "title": "Legea nr. 149/2019 pentru modificarea Legii nr. 43/2014 privind protecţia animalelor utilizate în scopuri ştiinţifice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/216591",
+   "versions": [
+    {
+     "from": "2019-07-28",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/216591",
+     "sha256": "e1188b31049ff406466c80f13473b7d1511539d5ba33c00ac98e2dc52b22965d"
+    }
+   ]
+  },
+  {
    "slug": "legea-149-2020",
    "path": "lege/2020/149",
    "short": "Legea nr. 149/2020",
@@ -326138,6 +326213,21 @@
    ]
   },
   {
+   "slug": "legea-166-2019",
+   "path": "lege/2019/166",
+   "short": "Legea nr. 166/2019",
+   "title": "Legea nr. 166/2019 privind modificarea şi completarea Legii nr. 145/2014 pentru stabilirea unor măsuri de reglementare a pieţei produselor din sectorul agricol",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/218699",
+   "versions": [
+    {
+     "from": "2019-10-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/218699",
+     "sha256": "d748ca9da4861c438978ff988a77ee81af34f7dcea486f2b0c27ce3eff0543b5"
+    }
+   ]
+  },
+  {
    "slug": "legea-166-2023",
    "path": "lege/2023/166",
    "short": "Legea nr. 166/2023",
@@ -327851,6 +327941,21 @@
    ]
   },
   {
+   "slug": "legea-176-2019",
+   "path": "lege/2019/176",
+   "short": "Legea nr. 176/2019",
+   "title": "Legea nr. 176/2019 pentru modificarea şi completarea Legii nr. 36/1991 privind societăţile agricole şi alte forme de asociere în agricultură",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/218843",
+   "versions": [
+    {
+     "from": "2019-10-14",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/218843",
+     "sha256": "23cf1aa730f91b97d2b5a7ffe8e7b76cdd5786c4e02dc5ba04867766c1081bd0"
+    }
+   ]
+  },
+  {
    "slug": "legea-176-2022",
    "path": "lege/2022/176",
    "short": "Legea nr. 176/2022",
@@ -328723,6 +328828,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/191452",
      "sha256": "9c4ae8ab9cf28f0b04caae438a63500ffdb60c608dcdd78b1c20490f852ca117"
+    }
+   ]
+  },
+  {
+   "slug": "legea-182-2019",
+   "path": "lege/2019/182",
+   "short": "Legea nr. 182/2019",
+   "title": "Legea nr. 182/2019 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 58/2017 pentru modificarea şi completarea Legii farmaciei nr. 266/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/218917",
+   "versions": [
+    {
+     "from": "2019-10-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/218917",
+     "sha256": "1941584b5087a1a167de40b63223a7f47c4a3acae331c4eb8252b27a64057321"
     }
    ]
   },

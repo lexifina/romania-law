@@ -1,6 +1,6 @@
 # Every act in this repository
 
-20460 acts, 34,093 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+20468 acts, 34,101 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (3236, of which 1767 amending acts)
+## Laws (legi) (3242, of which 1773 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -1963,12 +1963,14 @@
 | Legea nr. 106/2019 pentru modificarea art. 3 din Legea nr. 363/2006 privind aprobarea Planului de amenajare a teritoriului naţional - Secţiunea I - Reţele de transport | [`lege/2019/106/`](lege/2019/106/) | amending act | 1 | 2019-06-01 | 2019-06-01 |
 | Legea nr. 107/2019 privind modificarea Legii nr. 526/2003 pentru aprobarea Programului naţional de dezvoltare a turismului "Schi în România" | [`lege/2019/107/`](lege/2019/107/) | amending act | 1 | 2019-06-01 | 2019-06-01 |
 | Legea nr. 108/2019 pentru modificarea şi completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii | [`lege/2019/108/`](lege/2019/108/) | amending act | 1 | 2019-06-01 | 2019-06-01 |
+| Legea nr. 109/2019 privind modificarea şi completarea unor acte normative în domeniul comunicaţiilor electronice, serviciilor poştale şi supravegherii pieţei echipamentelor | [`lege/2019/109/`](lege/2019/109/) | amending act | 1 | 2019-05-31 | 2019-05-31 |
 | Legea nr. 110/2019 pentru modificarea lit. a) a alin. (2) al art. 45 din Ordonanţa Guvernului nr. 42/1997 privind transportul maritim şi pe căile navigabile interioare | [`lege/2019/110/`](lege/2019/110/) | amending act | 1 | 2019-06-01 | 2019-06-01 |
 | Legea nr. 112/2019 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 16/2014 privind modificarea şi completarea Legii educaţiei naţionale nr. 1/2011 | [`lege/2019/112/`](lege/2019/112/) | amending act | 1 | 2019-06-10 | 2019-06-10 |
 | Legea nr. 113/2019 pentru acceptarea Deciziei Consiliului (UE, Euratom) 2018/994, adoptată la Bruxelles la 13 iulie 2018, de modificare a Actului privind alegerea membrilor Parlamentului European prin vot universal direct, anexat la Decizia 76/787/CECO, CEE, Euratom a Consiliului din 20 septembrie 1976 | [`lege/2019/113/`](lege/2019/113/) | amending act | 1 | 2019-06-13 | 2019-06-13 |
 | Legea nr. 114/2019 pentru modificarea art. 262 alin. (4) din Legea educației naționale nr. 1/2011 | [`lege/2019/114/`](lege/2019/114/) | amending act | 1 | 2019-06-13 | 2019-06-13 |
 | Legea nr. 117/2019 pentru modificarea și completarea Legii nr. 50/1991 privind autorizarea executării lucrărilor de construcții | [`lege/2019/117/`](lege/2019/117/) | amending act | 1 | 2019-06-27 | 2019-06-27 |
 | Legea nr. 118/2019 privind Registrul național automatizat cu privire la persoanele care au comis infracțiuni sexuale, de exploatare a unor persoane sau asupra minorilor, precum și pentru completarea Legii nr. 76/2008 privind organizarea și funcționarea Sistemului Național de Date Genetice Judiciare | [`lege/2019/118/`](lege/2019/118/) | amending act | 3 | 2019-06-29 | 2020-12-03 |
+| Legea nr. 119/2019 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 18/2017 privind asistenţa medicală comunitară | [`lege/2019/119/`](lege/2019/119/) | amending act | 1 | 2019-06-27 | 2019-06-27 |
 | Legea nr. 120/2019 privind unele măsuri necesare pentru realizarea lucrărilor și implementarea proiectelor de importanță națională privind rețeaua electrică de transport | [`lege/2019/120/`](lege/2019/120/) | in force | 1 | 2019-06-28 | 2019-06-28 |
 | Legea nr. 121/2019 privind evaluarea și gestionarea zgomotului ambiant | [`lege/2019/121/`](lege/2019/121/) | in force | 2 | 2019-07-26 | 2022-06-18 |
 | Legea nr. 122/2019 pentru respingerea Ordonanţei de urgenţă a Guvernului nr. 54/2016 privind asigurarea obligatorie de răspundere civilă auto pentru prejudicii produse terţelor persoane prin accidente de vehicule şi de tramvaie | [`lege/2019/122/`](lege/2019/122/) | amending act | 1 | 2019-07-08 | 2019-07-08 |
@@ -1990,6 +1992,7 @@
 | Legea nr. 145/2019 privind statutul polițiștilor de penitenciare | [`lege/2019/145/`](lege/2019/145/) | in force | 4 | 2019-08-02 | 2023-06-16 |
 | Legea nr. 146/2019 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 51/2016 pentru modificarea şi completarea Legii nr. 171/2010 privind stabilirea şi sancţionarea contravenţiilor silvice | [`lege/2019/146/`](lege/2019/146/) | amending act | 1 | 2019-07-28 | 2019-07-28 |
 | Legea nr. 148/2019 pentru modificarea și completarea unor acte normative în materie electorală | [`lege/2019/148/`](lege/2019/148/) | amending act | 1 | 2019-07-28 | 2019-07-28 |
+| Legea nr. 149/2019 pentru modificarea Legii nr. 43/2014 privind protecţia animalelor utilizate în scopuri ştiinţifice | [`lege/2019/149/`](lege/2019/149/) | amending act | 1 | 2019-07-28 | 2019-07-28 |
 | Legea nr. 150/2019 pentru completarea art. 1 din Legea drepturilor pacientului nr. 46/2003 | [`lege/2019/150/`](lege/2019/150/) | amending act | 1 | 2019-07-28 | 2019-07-28 |
 | Legea nr. 153/2019 pentru completarea art. 139 din Legea nr. 53/2003 - Codul muncii | [`lege/2019/153/`](lege/2019/153/) | amending act | 1 | 2019-07-29 | 2019-07-29 |
 | Legea nr. 154/2019 pentru modificarea și completarea Legii nr. 192/2006 privind medierea și organizarea profesiei de mediator | [`lege/2019/154/`](lege/2019/154/) | amending act | 1 | 2019-07-29 | 2019-07-29 |
@@ -1997,6 +2000,7 @@
 | Legea nr. 161/2019 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 24/2008 privind accesul la propriul dosar și deconspirarea Securității | [`lege/2019/161/`](lege/2019/161/) | amending act | 1 | 2019-08-01 | 2019-08-01 |
 | Legea nr. 162/2019 pentru modificarea alin. (2) al art. 6 din Legea societăţilor nr. 31/1990 | [`lege/2019/162/`](lege/2019/162/) | amending act | 1 | 2019-08-05 | 2019-08-05 |
 | Legea nr. 163/2019 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 103/2018 pentru modificarea art. 1 din Legea nr. 49/1991 privind acordarea de indemnizaţii şi sporuri invalizilor, veteranilor şi văduvelor de război şi pentru modificarea alin. 2 al art. 11 din Legea nr. 44/1994 privind veteranii de război, precum şi unele drepturi ale invalizilor şi văduvelor de război | [`lege/2019/163/`](lege/2019/163/) | amending act | 1 | 2019-10-05 | 2019-10-05 |
+| Legea nr. 166/2019 privind modificarea şi completarea Legii nr. 145/2014 pentru stabilirea unor măsuri de reglementare a pieţei produselor din sectorul agricol | [`lege/2019/166/`](lege/2019/166/) | amending act | 1 | 2019-10-10 | 2019-10-10 |
 | Legea nr. 168/2019 privind respingerea Ordonanţei de urgenţă a Guvernului nr. 86/2017 pentru modificarea art. 8 alin. (1) din Legea nr. 360/2013 privind constituirea şi menţinerea unui nivel minim de rezerve de ţiţei şi de produse petroliere | [`lege/2019/168/`](lege/2019/168/) | amending act | 1 | 2019-10-11 | 2019-10-11 |
 | Legea nr. 169/2019 pentru modificarea şi completarea art. V din Ordonanţa Guvernului nr. 17/2015 privind reglementarea unor măsuri fiscal-bugetare şi modificarea şi completarea unor acte normative | [`lege/2019/169/`](lege/2019/169/) | amending act | 1 | 2019-10-11 | 2019-10-11 |
 | Legea nr. 170/2019 pentru modificarea şi completarea Ordonanţei Guvernului nr. 20/1994 privind măsuri pentru reducerea riscului seismic al construcţiilor existente | [`lege/2019/170/`](lege/2019/170/) | amending act | 1 | 2019-10-11 | 2019-10-11 |
@@ -2004,8 +2008,10 @@
 | Legea nr. 172/2019 pentru modificarea Legii nr. 227/2015 privind Codul fiscal | [`lege/2019/172/`](lege/2019/172/) | amending act | 1 | 2019-10-11 | 2019-10-11 |
 | Legea nr. 174/2019 privind înființarea Muzeului Național de Istorie a Evreilor și al Holocaustului din România | [`lege/2019/174/`](lege/2019/174/) | in force | 2 | 2019-10-12 | 2021-11-28 |
 | Legea nr. 175/2019 pentru aprobarea Ordonanţei Guvernului nr. 7/2018 privind aderarea Secretariatului General al Guvernului la Consiliul Internaţional pentru Tehnologia Informaţiei în Administraţia Guvernamentală (ICA) şi aprobarea unor măsuri de natură financiară ce decurg din calitatea de membru, precum şi completarea Ordonanţei Guvernului nr. 41/1994 privind autorizarea plăţii cotizaţiilor la organizaţiile internaţionale interguvernamentale la care România este parte | [`lege/2019/175/`](lege/2019/175/) | amending act | 1 | 2019-10-14 | 2019-10-14 |
+| Legea nr. 176/2019 pentru modificarea şi completarea Legii nr. 36/1991 privind societăţile agricole şi alte forme de asociere în agricultură | [`lege/2019/176/`](lege/2019/176/) | amending act | 1 | 2019-10-14 | 2019-10-14 |
 | Legea nr. 180/2019 pentru declararea zilei de 30 octombrie - Ziua pacientului cu arsuri | [`lege/2019/180/`](lege/2019/180/) | in force | 1 | 2019-10-14 | 2019-10-14 |
 | Legea nr. 181/2019 privind instituirea zilei de 12 octombrie - Ziua limbii, alfabetului și culturii armene | [`lege/2019/181/`](lege/2019/181/) | in force | 1 | 2019-10-14 | 2019-10-14 |
+| Legea nr. 182/2019 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 58/2017 pentru modificarea şi completarea Legii farmaciei nr. 266/2008 | [`lege/2019/182/`](lege/2019/182/) | amending act | 1 | 2019-10-18 | 2019-10-18 |
 | Legea nr. 184/2019 pentru modificarea Ordonanţei de urgenţă a Guvernului nr. 22/2009 privind înfiinţarea Autorităţii Naţionale pentru Administrare şi Reglementare în Comunicaţii | [`lege/2019/184/`](lege/2019/184/) | amending act | 1 | 2019-10-21 | 2019-10-21 |
 | Legea nr. 187/2019 privind respingerea Ordonanţei de urgenţă a Guvernului nr. 80/2017 pentru modificarea art. 8 alin. (1) din Legea nr. 360/2013 privind constituirea şi menţinerea unui nivel minim de rezerve de ţiţei şi de produse petroliere | [`lege/2019/187/`](lege/2019/187/) | amending act | 1 | 2019-10-27 | 2019-10-27 |
 | Legea nr. 188/2019 pentru modificarea şi completarea Legii nr. 211/2011 privind regimul deşeurilor | [`lege/2019/188/`](lege/2019/188/) | amending act | 1 | 2019-10-31 | 2019-10-31 |
@@ -5507,7 +5513,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (14962, of which 7586 amending acts)
+## Government decisions (HG) (14964, of which 7586 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -14020,6 +14026,7 @@
 | Hotărârea Guvernului nr. 372/2019 privind aprobarea bugetului de venituri şi cheltuieli pe anul 2019 pentru Regia Autonomă Tehnologii pentru Energia Nucleară, aflată sub autoritatea Ministerului Energiei | [`hg/2019/372/`](hg/2019/372/) | amending act | 1 | 2019-06-05 | 2019-06-05 |
 | Hotărârea Guvernului nr. 373/2019 pentru aprobarea indicatorilor tehnico-economici aferenţi obiectivului de investiţii "Modernizare DN 2 km 7 + 848-km 18 + 330", judeţul Ilfov | [`hg/2019/373/`](hg/2019/373/) | amending act | 1 | 2019-06-05 | 2019-06-05 |
 | Hotărârea Guvernului nr. 374/2019 pentru reaprobarea indicatorilor tehnico-economici ai obiectivului de investiţii "Magistrala 5 Drumul Taberei-Pantelimon" | [`hg/2019/374/`](hg/2019/374/) | in force | 1 | 2019-06-05 | 2019-06-05 |
+| Hotărârea Guvernului nr. 376/2019 privind aplicarea mobilităţii pentru domnul Bangu Corvin-Laurenţiu din funcţia publică de subprefect al judeţului Tulcea în funcţia publică de inspector guvernamental | [`hg/2019/376/`](hg/2019/376/) | in force | 1 | 2019-06-14 | 2019-06-14 |
 | Hotărârea Guvernului nr. 377/2019 privind aprobarea scoaterii din rezervele de stat a unor cantităţi de produse şi acordarea acestora ca ajutoare umanitare interne de urgenţă, cu titlu gratuit, pentru protecţia populaţiei afectate de fenomenele hidrometeorologice periculoase din judeţul Alba | [`hg/2019/377/`](hg/2019/377/) | amending act | 1 | 2019-06-13 | 2019-06-13 |
 | Hotărârea Guvernului nr. 379/2019 privind aprobarea bugetului de venituri şi cheltuieli pentru anul 2019 al Regiei Autonome "Imprimeria Băncii Naţionale a României", aflată în subordinea Băncii Naţionale a României | [`hg/2019/379/`](hg/2019/379/) | amending act | 1 | 2019-06-19 | 2019-06-19 |
 | Hotărârea Guvernului nr. 381/2019 privind aprobarea bugetului de venituri şi cheltuieli pe anul 2019 al Societăţii Naţionale de Transport Feroviar de Marfă "C.F.R. Marfă" - S.A., aflată sub autoritatea Ministerului Transporturilor | [`hg/2019/381/`](hg/2019/381/) | amending act | 1 | 2019-06-18 | 2019-06-18 |
@@ -14058,6 +14065,7 @@
 | Hotărârea Guvernului nr. 422/2019 pentru aprobarea Acordului dintre Guvernul României şi Guvernul Republicii Moldova privind cooperarea în domeniul turismului, semnat la Bucureşti la 22 noiembrie 2018 | [`hg/2019/422/`](hg/2019/422/) | amending act | 1 | 2019-06-27 | 2019-06-27 |
 | Hotărârea Guvernului nr. 423/2019 pentru modificarea şi completarea Normelor metodologice de aplicare a prevederilor Legii nr. 279/2005 privind ucenicia la locul de muncă, aprobate prin Hotărârea Guvernului nr. 855/2013 | [`hg/2019/423/`](hg/2019/423/) | amending act | 1 | 2019-06-28 | 2019-06-28 |
 | Hotărârea Guvernului nr. 424/2019 pentru modificarea Hotărârii Guvernului nr. 563/2014 privind organizarea şi funcţionarea Secretariatului de stat pentru recunoaşterea meritelor luptătorilor împotriva regimului comunist instaurat în România în perioada 1945-1989 | [`hg/2019/424/`](hg/2019/424/) | amending act | 1 | 2019-06-28 | 2019-06-28 |
+| Hotărârea Guvernului nr. 426/2019 pentru rectificarea anexei nr. 2 la Hotărârea Guvernului nr. 172/2012 privind declanşarea procedurilor de expropriere a imobilelor proprietate privată care constituie coridorul de expropriere al lucrării de utilitate publică "Varianta de ocolire Mihăileşti" | [`hg/2019/426/`](hg/2019/426/) | in force | 1 | 2019-06-27 | 2019-06-27 |
 | Hotărârea Guvernului nr. 429/2019 pentru aprobarea Strategiei 5G pentru România | [`hg/2019/429/`](hg/2019/429/) | amending act | 1 | 2019-07-04 | 2019-07-04 |
 | Hotărârea Guvernului nr. 430/2019 privind aprobarea bugetului de venituri şi cheltuieli pe anul 2019 al Societăţii de Transport cu Metroul Bucureşti "Metrorex" - S.A., aflată sub autoritatea Ministerului Transporturilor | [`hg/2019/430/`](hg/2019/430/) | amending act | 1 | 2019-07-02 | 2019-07-02 |
 | Hotărârea Guvernului nr. 431/2019 pentru modificarea şi completarea Hotărârii Guvernului nr. 487/2016 privind compatibilitatea electromagnetică şi a Hotărârii Guvernului nr. 740/2016 privind punerea la dispoziţie pe piaţă a echipamentelor radio | [`hg/2019/431/`](hg/2019/431/) | amending act | 1 | 2019-08-08 | 2019-08-08 |
