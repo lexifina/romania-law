@@ -1,6 +1,6 @@
 # Every act in this repository
 
-17804 acts, 31,430 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+17842 acts, 31,468 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (2957, of which 1541 amending acts)
+## Laws (legi) (2964, of which 1546 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -1144,8 +1144,15 @@
 | Legea nr. 115/2015 pentru alegerea autorităților administrației publice locale, pentru modificarea Legii administrației publice locale nr. 215/2001, precum și pentru modificarea și completarea Legii nr. 393/2004 privind Statutul aleșilor locali | [`lege/2015/115/`](lege/2015/115/) | amending act | 7 | 2015-05-23 | 2023-07-27 |
 | Legea nr. 120/2015 | [`lege/2015/120/`](lege/2015/120/) | in force | 1 | 2015-07-17 | 2015-07-17 |
 | Legea nr. 122/2015 | [`lege/2015/122/`](lege/2015/122/) | in force | 2 | 2015-06-06 | 2017-03-31 |
+| Legea nr. 127/2015 pentru completarea art. 5 din Ordonanţa de urgenţă a Guvernului nr. 63/1999 cu privire la gestionarea fondurilor nerambursabile alocate României de către Comunitatea Europeană, precum şi a fondurilor de cofinanţare aferente acestora | [`lege/2015/127/`](lege/2015/127/) | amending act | 1 | 2015-06-11 | 2015-06-11 |
+| Legea nr. 128/2015 privind aprobarea Ordonanţei Guvernului nr. 7/2015 pentru completarea art. 35^1 din Legea poliţiei locale nr. 155/2010 | [`lege/2015/128/`](lege/2015/128/) | amending act | 1 | 2015-06-08 | 2015-06-08 |
+| Legea nr. 131/2015 pentru modificarea şi completarea Legii pomiculturii nr. 348/2003 | [`lege/2015/131/`](lege/2015/131/) | amending act | 1 | 2015-06-12 | 2015-06-12 |
+| Legea nr. 132/2015 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 34/2008 privind organizarea şi funcţionarea Sistemului naţional unic pentru apeluri de urgenţă | [`lege/2015/132/`](lege/2015/132/) | amending act | 1 | 2015-06-11 | 2015-06-11 |
 | Legea nr. 133/2015 | [`lege/2015/133/`](lege/2015/133/) | in force | 2 | 2015-06-13 | 2018-08-11 |
 | Legea nr. 136/2015 | [`lege/2015/136/`](lege/2015/136/) | in force | 2 | 2015-06-13 | 2024-03-29 |
+| Legea nr. 137/2015 pentru acceptarea jurisdicţiei obligatorii a Curţii Internaţionale de Justiţie | [`lege/2015/137/`](lege/2015/137/) | in force | 1 | 2015-06-13 | 2015-06-13 |
+| Legea nr. 138/2015 privind completarea Legii poliţiei locale nr. 155/2010 | [`lege/2015/138/`](lege/2015/138/) | amending act | 1 | 2015-06-13 | 2015-06-13 |
+| Legea nr. 139/2015 privind înfiinţarea, organizarea şi funcţionarea Academiei de Ştiinţe Juridice din România | [`lege/2015/139/`](lege/2015/139/) | in force | 1 | 2015-06-14 | 2015-06-14 |
 | Legea nr. 140/2015 | [`lege/2015/140/`](lege/2015/140/) | in force | 1 | 2015-06-14 | 2015-06-14 |
 | Legea nr. 141/2015 | [`lege/2015/141/`](lege/2015/141/) | in force | 1 | 2015-06-14 | 2015-06-14 |
 | Legea nr. 143/2015 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 132/2010 pentru modificarea şi completarea Legii nr. 132/1999 privind înfiinţarea, organizarea şi funcţionarea Consiliului Naţional de Formare Profesională a Adulţilor | [`lege/2015/143/`](lege/2015/143/) | amending act | 1 | 2015-06-22 | 2015-06-22 |
@@ -5192,7 +5199,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (12621, of which 6220 amending acts)
+## Government decisions (HG) (12652, of which 6239 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -8698,12 +8705,43 @@
 | Hotărârea Guvernului nr. 308/2015 | [`hg/2015/308/`](hg/2015/308/) | in force | 1 | 2015-05-11 | 2015-05-11 |
 | Hotărârea Guvernului nr. 372/2015 | [`hg/2015/372/`](hg/2015/372/) | in force | 1 | 2015-05-29 | 2015-05-29 |
 | Hotărârea Guvernului nr. 383/2015 | [`hg/2015/383/`](hg/2015/383/) | in force | 1 | 2015-06-26 | 2015-06-26 |
+| Hotărârea Guvernului nr. 386/2015 pentru modificarea şi completarea unor anexe la Hotărârea Guvernului nr. 1.357/2001 privind atestarea domeniului public al judeţului Suceava, precum şi al municipiilor, oraşelor şi comunelor din judeţul Suceava | [`hg/2015/386/`](hg/2015/386/) | amending act | 1 | 2015-06-08 | 2015-06-08 |
+| Hotărârea Guvernului nr. 387/2015 privind actualizarea valorilor de inventar ale unor bunuri imobile aflate în domeniul public al statului şi în administrarea Ministerului Agriculturii şi Dezvoltării Rurale, pentru unele unităţi din subordine | [`hg/2015/387/`](hg/2015/387/) | in force | 1 | 2015-06-08 | 2015-06-08 |
+| Hotărârea Guvernului nr. 388/2015 pentru modificarea şi completarea Hotărârii Guvernului nr. 717/2009 privind aprobarea normelor de implementare a programului "Prima casă" | [`hg/2015/388/`](hg/2015/388/) | amending act | 1 | 2015-06-03 | 2015-06-03 |
 | Hotărârea Guvernului nr. 389/2015 | [`hg/2015/389/`](hg/2015/389/) | in force | 1 | 2015-07-16 | 2015-07-16 |
+| Hotărârea Guvernului nr. 390/2015 privind modificarea şi completarea Regulamentului de desfăşurare a concursului sau examenului pentru ocuparea funcţiei publice specifice de inspector antifraudă în cadrul Agenţiei Naţionale de Administrare Fiscală, aprobat prin Hotărârea Guvernului nr. 677/2013 | [`hg/2015/390/`](hg/2015/390/) | amending act | 1 | 2015-06-05 | 2015-06-05 |
+| Hotărârea Guvernului nr. 391/2015 privind transmiterea unui imobil din domeniul public al statului şi din administrarea Ministerului Mediului, Apelor şi Pădurilor - Regia Naţională a Pădurilor - ROMSILVA în domeniul public al comunei Spanţov, judeţul Călăraşi | [`hg/2015/391/`](hg/2015/391/) | in force | 1 | 2015-06-11 | 2015-06-11 |
+| Hotărârea Guvernului nr. 392/2015 privind trecerea unor construcţii, aflate în administrarea Ministerului Afacerilor Interne - Inspectoratul de Jandarmi Judeţean Timiş, din domeniul public al statului în domeniul privat al acestuia, în vederea scoaterii din funcţiune şi casării şi pentru actualizarea anexei nr. 1 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului | [`hg/2015/392/`](hg/2015/392/) | amending act | 1 | 2015-06-09 | 2015-06-09 |
+| Hotărârea Guvernului nr. 393/2015 privind actualizarea inventarului centralizat al bunurilor din domeniul public al statului, ca urmare a modificării valorii de inventar şi schimbarea unităţii de administrare pentru un imobil aflat în administrarea Ministerului Afacerilor Interne - Inspectoratul de Jandarmi Judeţean Cluj | [`hg/2015/393/`](hg/2015/393/) | in force | 1 | 2015-06-08 | 2015-06-08 |
+| Hotărârea Guvernului nr. 394/2015 privind modificarea anexei nr. 8 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului | [`hg/2015/394/`](hg/2015/394/) | amending act | 1 | 2015-06-08 | 2015-06-08 |
+| Hotărârea Guvernului nr. 395/2015 privind reglementarea situaţiei juridice a unor imobile, trecute în domeniul public al statului, situate în municipiul Braşov, judeţul Braşov | [`hg/2015/395/`](hg/2015/395/) | in force | 1 | 2015-06-08 | 2015-06-08 |
+| Hotărârea Guvernului nr. 396/2015 pentru modificarea Normelor metodologice de aplicare a prevederilor Legii nr. 339/2005 privind regimul juridic al plantelor, substanţelor şi preparatelor stupefiante şi psihotrope, aprobate prin Hotărârea Guvernului nr. 1.915/2006 | [`hg/2015/396/`](hg/2015/396/) | amending act | 1 | 2015-06-05 | 2015-06-05 |
+| Hotărârea Guvernului nr. 397/2015 privind schimbarea denumirii Institutului de Ştiinţe Politice şi Relaţii Internaţionale al Academiei Române | [`hg/2015/397/`](hg/2015/397/) | in force | 1 | 2015-06-09 | 2015-06-09 |
 | Hotărârea Guvernului nr. 398/2015 | [`hg/2015/398/`](hg/2015/398/) | in force | 4 | 2015-07-03 | 2023-03-14 |
 | Hotărârea Guvernului nr. 399/2015 | [`hg/2015/399/`](hg/2015/399/) | in force | 4 | 2015-06-11 | 2022-06-27 |
+| Hotărârea Guvernului nr. 401/2015 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii "Centrul Român de Cercetare Biomoleculară Aplicată Bolilor Infecţioase" | [`hg/2015/401/`](hg/2015/401/) | amending act | 1 | 2015-06-04 | 2015-06-04 |
+| Hotărârea Guvernului nr. 402/2015 privind încetarea exercitării, cu caracter temporar, prin detaşare în condiţiile legii, a funcţiei publice de subprefect al judeţului Giurgiu de către domnul Dumitru Lucian | [`hg/2015/402/`](hg/2015/402/) | in force | 1 | 2015-06-04 | 2015-06-04 |
+| Hotărârea Guvernului nr. 403/2015 privind modificarea datelor de identificare şi actualizarea valorilor de inventar ale bunurilor din domeniul public al statului aflate în administrarea Spitalului de Psihiatrie şi pentru Măsuri de Siguranţă Ştei şi a Spitalului de Psihiatrie Poiana Mare din subordinea Ministerului Sănătăţii | [`hg/2015/403/`](hg/2015/403/) | amending act | 1 | 2015-06-09 | 2015-06-09 |
+| Hotărârea Guvernului nr. 404/2015 privind modificarea datelor de identificare şi actualizarea valorilor de inventar ale bunurilor din domeniul public al statului aflate în administrarea Spitalului Clinic de Recuperare, Medicină Fizică şi Balneologie Eforie Nord, Spitalului de Psihiatrie şi pentru Măsuri de Siguranţă Pădureni, Grajduri şi Institutului Oncologic "Prof. Dr. Alexandru Trestioreanu", din subordinea Ministerului Sănătăţii | [`hg/2015/404/`](hg/2015/404/) | amending act | 1 | 2015-06-09 | 2015-06-09 |
+| Hotărârea Guvernului nr. 405/2015 privind recunoaşterea Asociaţiei Administratorilor de Păduri ca fiind de utilitate publică | [`hg/2015/405/`](hg/2015/405/) | in force | 1 | 2015-06-05 | 2015-06-05 |
+| Hotărârea Guvernului nr. 408/2015 privind schimbarea titularilor dreptului de proprietate şi de administrare asupra unor imobile situate în municipiul Baia Mare, judeţul Maramureş | [`hg/2015/408/`](hg/2015/408/) | in force | 1 | 2015-06-09 | 2015-06-09 |
+| Hotărârea Guvernului nr. 409/2015 privind trecerea din domeniul public în domeniul privat al statului a unor construcţii şi amenajări la terenuri din cadrul unor imobile aflate în administrarea Ministerului Apărării Naţionale, situate în judeţele Constanţa, Alba, Prahova, Braşov şi municipiul Bucureşti, în vederea scoaterii din funcţiune şi casării acestora, şi pentru actualizarea anexei nr. 4 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului | [`hg/2015/409/`](hg/2015/409/) | amending act | 1 | 2015-06-10 | 2015-06-10 |
+| Hotărârea Guvernului nr. 410/2015 privind aprobarea stemei comunei Daia, judeţul Giurgiu | [`hg/2015/410/`](hg/2015/410/) | amending act | 1 | 2015-06-10 | 2015-06-10 |
+| Hotărârea Guvernului nr. 411/2015 privind aprobarea stemelor comunelor Densuş şi Vălişoara, judeţul Hunedoara | [`hg/2015/411/`](hg/2015/411/) | amending act | 1 | 2015-06-10 | 2015-06-10 |
+| Hotărârea Guvernului nr. 412/2015 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2015, pentru municipiul Satu Mare, judeţul Satu Mare | [`hg/2015/412/`](hg/2015/412/) | in force | 1 | 2015-06-05 | 2015-06-05 |
+| Hotărârea Guvernului nr. 413/2015 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2015, pentru unele unităţi administrativ-teritoriale | [`hg/2015/413/`](hg/2015/413/) | in force | 1 | 2015-06-09 | 2015-06-09 |
 | Hotărârea Guvernului nr. 414/2015 | [`hg/2015/414/`](hg/2015/414/) | in force | 1 | 2015-06-19 | 2015-06-19 |
+| Hotărârea Guvernului nr. 415/2015 pentru aprobarea Acordului dintre Guvernul României şi Guvernul Statului Israel privind cooperarea în domeniul cercetării şi dezvoltării tehnologice şi industriale, semnat la Ierusalim la 24 iunie 2014 | [`hg/2015/415/`](hg/2015/415/) | amending act | 1 | 2015-06-11 | 2015-06-11 |
+| Hotărârea Guvernului nr. 416/2015 privind modificarea şi completarea Hotărârii Guvernului nr. 150/2010 pentru înfiinţarea, organizarea şi funcţionarea Consiliului Interministerial de Avizare Lucrări Publice de Interes Naţional şi Locuinţe | [`hg/2015/416/`](hg/2015/416/) | amending act | 1 | 2015-06-11 | 2015-06-11 |
 | Hotărârea Guvernului nr. 417/2015 | [`hg/2015/417/`](hg/2015/417/) | in force | 1 | 2015-06-19 | 2015-06-19 |
 | Hotărârea Guvernului nr. 418/2015 | [`hg/2015/418/`](hg/2015/418/) | in force | 1 | 2015-06-23 | 2015-06-23 |
+| Hotărârea Guvernului nr. 419/2015 privind aprobarea stemei comunei Glodeni, judeţul Mureş | [`hg/2015/419/`](hg/2015/419/) | amending act | 1 | 2015-07-16 | 2015-07-16 |
+| Hotărârea Guvernului nr. 421/2015 privind suplimentarea bugetului Ministerului Apărării Naţionale din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2015, pentru finanţarea proiectului de investiţie imobiliară "Cimitirul Militarilor Români din Complexul Comemorativ Rossoşka, regiunea Volgograd - fostă Stalingrad, Federaţia Rusă" | [`hg/2015/421/`](hg/2015/421/) | in force | 1 | 2015-06-15 | 2015-06-15 |
+| Hotărârea Guvernului nr. 422/2015 privind aprobarea sumei din bugetul asigurărilor pentru şomaj pe anul 2015 ce se va aloca pentru plata venitului lunar de completare pentru persoanele disponibilizate de la Compania Naţională Poşta Română - S.A | [`hg/2015/422/`](hg/2015/422/) | amending act | 1 | 2015-06-15 | 2015-06-15 |
+| Hotărârea Guvernului nr. 423/2015 pentru completarea anexei nr. 2 la Hotărârea Guvernului nr. 1.486/2005 privind asigurarea pazei şi protecţiei obiectivelor, bunurilor şi valorilor cu efective de jandarmi | [`hg/2015/423/`](hg/2015/423/) | amending act | 1 | 2015-06-16 | 2015-06-16 |
+| Hotărârea Guvernului nr. 425/2015 privind aprobarea bugetului de venituri şi cheltuieli pe anul 2015 pentru Compania Naţională a Uraniului - S.A. Bucureşti, aflată sub autoritatea Ministerului Energiei, Întreprinderilor Mici şi Mijlocii şi Mediului de Afaceri | [`hg/2015/425/`](hg/2015/425/) | amending act | 1 | 2015-06-16 | 2015-06-16 |
+| Hotărârea Guvernului nr. 426/2015 privind suplimentarea bugetului Ministerului Sănătăţii pe anul 2015 pentru plata unor sume prevăzute în titluri executorii având ca obiect acordarea de drepturi salariale | [`hg/2015/426/`](hg/2015/426/) | in force | 1 | 2015-06-16 | 2015-06-16 |
+| Hotărârea Guvernului nr. 427/2015 pentru completarea Regulamentului-cadru privind stabilirea principiilor generale de ocupare a unui post vacant sau temporar vacant corespunzător funcţiilor contractuale şi a criteriilor de promovare în grade sau trepte profesionale imediat superioare a personalului contractual din sectorul bugetar plătit din fonduri publice, aprobat prin Hotărârea Guvernului nr. 286/2011 | [`hg/2015/427/`](hg/2015/427/) | amending act | 1 | 2015-06-17 | 2015-06-17 |
 | Hotărârea Guvernului nr. 428/2015 privind modificarea valorii de inventar a unor imobile aflate în domeniul public al statului şi în administrarea Senatului României | [`hg/2015/428/`](hg/2015/428/) | amending act | 1 | 2015-06-19 | 2015-06-19 |
 | Hotărârea Guvernului nr. 429/2015 privind suplimentarea bugetului Ministerului Mediului, Apelor şi Pădurilor pe anul 2015 pentru plata unor sume prevăzute în titluri executorii având ca obiect acordarea de drepturi salariale | [`hg/2015/429/`](hg/2015/429/) | in force | 1 | 2015-06-16 | 2015-06-16 |
 | Hotărârea Guvernului nr. 430/2015 privind aprobarea bugetului de venituri şi cheltuieli pe anul 2015 al Societăţii Comerciale "Institutul de Cercetare-Proiectare Rulmenţi şi Organe de Asamblare" - ICPROA - S.A. Braşov, aflată sub autoritatea Autorităţii Naţionale pentru Cercetare Ştiinţifică şi Inovare | [`hg/2015/430/`](hg/2015/430/) | amending act | 1 | 2015-06-19 | 2015-06-19 |
