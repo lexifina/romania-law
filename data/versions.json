@@ -101690,6 +101690,21 @@
    ]
   },
   {
+   "slug": "hg-1018-2025",
+   "path": "hg/2025/1018",
+   "short": "HG nr. 1018/2025",
+   "title": "Hotărârea Guvernului nr. 1018/2025 privind eliberarea domnului Babagianu Gheorghe din funcţia de subprefect al judeţului Ialomiţa",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/304767",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/304767",
+     "sha256": "c8c6302f3024beda1a105d5c2deb200eb5bf2e55fae8ebbe1e1f1a4b1464eaca"
+    }
+   ]
+  },
+  {
    "slug": "hg-1019-2007",
    "path": "hg/2007/1019",
    "short": "HG nr. 1019/2007",
@@ -101911,6 +101926,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/287606",
      "sha256": "258cb7a701ca14cee0b395ad18aaa348644ccf0d2c3398ac7b203ff9d87f7ea7"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1020-2025",
+   "path": "hg/2025/1020",
+   "short": "HG nr. 1020/2025",
+   "title": "Hotărârea Guvernului nr. 1020/2025 privind eliberarea domnului Benedek Zacharie din funcţia de subprefect al judeţului Sibiu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/304769",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/304769",
+     "sha256": "6d784ce06be3205a6401c843487b7cd0a5422e915fe687c78ed12312d1d59bd9"
     }
    ]
   },
@@ -102695,6 +102725,21 @@
    ]
   },
   {
+   "slug": "hg-1027-2025",
+   "path": "hg/2025/1027",
+   "short": "HG nr. 1027/2025",
+   "title": "Hotărârea Guvernului nr. 1027/2025 privind numirea domnului Stamate Cristian în funcţia de subprefect al judeţului Ilfov",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/304776",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/304776",
+     "sha256": "bfc7783d0614a504f9bb2b4fda3454633e44442802b423909eb5eb240f0b596c"
+    }
+   ]
+  },
+  {
    "slug": "hg-1028-2003",
    "path": "hg/2003/1028",
    "short": "HG nr. 1028/2003",
@@ -102860,6 +102905,21 @@
    ]
   },
   {
+   "slug": "hg-1029-2025",
+   "path": "hg/2025/1029",
+   "short": "HG nr. 1029/2025",
+   "title": "Hotărârea Guvernului nr. 1029/2025 privind numirea domnului Terente Eugen în funcţia de subprefect al judeţului Tulcea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/304778",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/304778",
+     "sha256": "c89a8c5473ae5ace83eb392535dd5b50ee7df53e9c02852fd5c463293753c49c"
+    }
+   ]
+  },
+  {
    "slug": "hg-103-2019",
    "path": "hg/2019/103",
    "short": "HG nr. 103/2019",
@@ -102991,6 +103051,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/275869",
      "sha256": "7abbd44a6487679622f5c4c5c4b4f526cc27e495161489762d572dd64721fb94"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1030-2025",
+   "path": "hg/2025/1030",
+   "short": "HG nr. 1030/2025",
+   "title": "Hotărârea Guvernului nr. 1030/2025 privind numirea domnului Şerban Andrei în funcţia de subprefect al judeţului Vaslui",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/304779",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/304779",
+     "sha256": "dbb67dc7222c19467e6bf17d78b3639eee93dfa949482bd0b746b4003188c94d"
     }
    ]
   },
@@ -110152,6 +110227,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/288391",
      "sha256": "864fa84fd1144a501e686623a9e5cc847ea12eb8c657442f820b28d76b9e4cc8"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1105-2025",
+   "path": "hg/2025/1105",
+   "short": "HG nr. 1105/2025",
+   "title": "Hotărârea Guvernului nr. 1105/2025 privind acordarea unor ajutoare de urgenţă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/305655",
+   "versions": [
+    {
+     "from": "2025-12-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305655",
+     "sha256": "a6daad0b4c893bca8eb024f8ec2828dd3c325f96eb01b53fe349195d65a68b73"
     }
    ]
   },
@@ -118027,6 +118117,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/295035",
      "sha256": "163f1a389106192e38556a76b250f2cad8278c81760d614de6ca1c88045d0883"
+    }
+   ]
+  },
+  {
+   "slug": "hg-120-2026",
+   "path": "hg/2026/120",
+   "short": "HG nr. 120/2026",
+   "title": "Hotărârea Guvernului nr. 120/2026 privind aprobarea modelului de steag al comunei Suseni, judeţul Harghita",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/308347",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/308347",
+     "sha256": "f0c0dd817c9340487f22f25b5405ba911003ed18ba516a31c7c5f4bb8dad30ce"
     }
    ]
   },
@@ -135323,6 +135428,21 @@
    ]
   },
   {
+   "slug": "hg-146-2026",
+   "path": "hg/2026/146",
+   "short": "HG nr. 146/2026",
+   "title": "Hotărârea Guvernului nr. 146/2026 pentru stabilirea salariului de bază minim brut pe ţară garantat în plată",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/308231",
+   "versions": [
+    {
+     "from": "2026-03-13",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/308231",
+     "sha256": "e6ba0f9b274ee58739716163a162f130d356bd5ba96b6f1fd46e425060c45df4"
+    }
+   ]
+  },
+  {
    "slug": "hg-1460-2007",
    "path": "hg/2007/1460",
    "short": "HG nr. 1460/2007",
@@ -144290,6 +144410,21 @@
    ]
   },
   {
+   "slug": "hg-166-2026",
+   "path": "hg/2026/166",
+   "short": "HG nr. 166/2026",
+   "title": "Hotărârea Guvernului nr. 166/2026 privind rechemarea unui consul general",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/308857",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/308857",
+     "sha256": "9cf401b82c9384d21aad32fd5d7f89b8f63638ec6e97917a2b5e81ad76bcc1aa"
+    }
+   ]
+  },
+  {
    "slug": "hg-1660-2006",
    "path": "hg/2006/1660",
    "short": "HG nr. 1660/2006",
@@ -144514,6 +144649,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/295082",
      "sha256": "795fce72a9a1b6b66c3728966635d062fdea274fdb65cb10419efc6b33a11d8c"
+    }
+   ]
+  },
+  {
+   "slug": "hg-167-2026",
+   "path": "hg/2026/167",
+   "short": "HG nr. 167/2026",
+   "title": "Hotărârea Guvernului nr. 167/2026 privind numirea unui consul general",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/308858",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/308858",
+     "sha256": "b74974d3956faa97ba626d5737b45764b737eead20d5909a71ac6ca6c919916a"
     }
    ]
   },
@@ -149042,6 +149192,21 @@
    ]
   },
   {
+   "slug": "hg-194-2026",
+   "path": "hg/2026/194",
+   "short": "HG nr. 194/2026",
+   "title": "Hotărârea Guvernului nr. 194/2026 privind aprobarea Strategiei naţionale a rezervelor de stat pentru perioada 2026-2030",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/309529",
+   "versions": [
+    {
+     "from": "2026-04-14",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/309529",
+     "sha256": "eb3cf7bf54ac185c80cdc39153031328c6635d605ec6829d527f71409f278a93"
+    }
+   ]
+  },
+  {
    "slug": "hg-1946-2004",
    "path": "hg/2004/1946",
    "short": "HG nr. 1946/2004",
@@ -152507,6 +152672,21 @@
    ]
   },
   {
+   "slug": "hg-223-2025",
+   "path": "hg/2025/223",
+   "short": "HG nr. 223/2025",
+   "title": "Hotărârea Guvernului nr. 223/2025 privind numirea domnului Paşca Mihai în funcţia de prefect al judeţului Arad",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/295392",
+   "versions": [
+    {
+     "from": "2025-03-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/295392",
+     "sha256": "1e57312df1b84c983bd0129c3517a2b3516beadeac0ad611b54e9cb904e72209"
+    }
+   ]
+  },
+  {
    "slug": "hg-224-2009",
    "path": "hg/2009/224",
    "short": "HG nr. 224/2009",
@@ -152578,6 +152758,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/265700",
      "sha256": "d33d34be9262ea130fac0089bb582714015f7c1bce020ab0fd46ba5433666a53"
+    }
+   ]
+  },
+  {
+   "slug": "hg-224-2025",
+   "path": "hg/2025/224",
+   "short": "HG nr. 224/2025",
+   "title": "Hotărârea Guvernului nr. 224/2025 privind numirea domnului Andronachi Traian în funcţia de prefect al judeţului Suceava",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/295393",
+   "versions": [
+    {
+     "from": "2025-03-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/295393",
+     "sha256": "3f9201ca5a4fde4e0f1f91abfc6bb0205b4166234839c657ea744fa16e434834"
     }
    ]
   },
@@ -152693,6 +152888,21 @@
    ]
   },
   {
+   "slug": "hg-225-2025",
+   "path": "hg/2025/225",
+   "short": "HG nr. 225/2025",
+   "title": "Hotărârea Guvernului nr. 225/2025 privind numirea domnului Toth Csaba în funcţia de subprefect al judeţului Arad",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/295394",
+   "versions": [
+    {
+     "from": "2025-03-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/295394",
+     "sha256": "d556439a061ba0c17a5922fe745b8261907b1a9d53f087d9df2bde7926c36630"
+    }
+   ]
+  },
+  {
    "slug": "hg-226-2007",
    "path": "hg/2007/226",
    "short": "HG nr. 226/2007",
@@ -152764,6 +152974,21 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/280131",
      "sha256": "46dd48596e3111f5cedd7dfaedbd96b363c36a6bc0761a79ed9fd251e4c0f5fe"
+    }
+   ]
+  },
+  {
+   "slug": "hg-226-2025",
+   "path": "hg/2025/226",
+   "short": "HG nr. 226/2025",
+   "title": "Hotărârea Guvernului nr. 226/2025 privind numirea domnului Galan Gabriel în funcţia de subprefect al judeţului Botoşani",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/295395",
+   "versions": [
+    {
+     "from": "2025-03-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/295395",
+     "sha256": "1cefb99ee383168e49bb6633634818b34aedf32ba38922b49981b82ead75f7bd"
     }
    ]
   },
@@ -161249,6 +161474,21 @@
    ]
   },
   {
+   "slug": "hg-292-2026",
+   "path": "hg/2026/292",
+   "short": "HG nr. 292/2026",
+   "title": "Hotărârea Guvernului nr. 292/2026 privind eliberarea domnului Oprea Mihai din funcţia de prefect al judeţului Vâlcea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/310072",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/310072",
+     "sha256": "d2bd211c41e28952872c1a0d1ad18fad636fdde736e0093bae64555d63cfd631"
+    }
+   ]
+  },
+  {
    "slug": "hg-293-2005",
    "path": "hg/2005/293",
    "short": "HG nr. 293/2005",
@@ -161500,6 +161740,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/295972",
      "sha256": "e8c6c9a5e3506db6c1b4780eb47df22b38ecc448f614e1b8f011fdb0343dddd0"
+    }
+   ]
+  },
+  {
+   "slug": "hg-294-2026",
+   "path": "hg/2026/294",
+   "short": "HG nr. 294/2026",
+   "title": "Hotărârea Guvernului nr. 294/2026 privind eliberarea domnului Heler Sandu din funcţia de subprefect al judeţului Alba",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/310074",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/310074",
+     "sha256": "698d205aa18ed9c827688c4df7932719df9c548deaecb8a2696db935539e974e"
     }
    ]
   },
@@ -161870,6 +162125,21 @@
    ]
   },
   {
+   "slug": "hg-297-2026",
+   "path": "hg/2026/297",
+   "short": "HG nr. 297/2026",
+   "title": "Hotărârea Guvernului nr. 297/2026 privind eliberarea domnului Ivancea Valentin din funcţia de subprefect al judeţului Bacău",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/310077",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/310077",
+     "sha256": "da9f58cb3b6b721cecd0947bccda5ecd38f7ef025c09543ce3f41c5019815f0b"
+    }
+   ]
+  },
+  {
    "slug": "hg-298-2008",
    "path": "hg/2008/298",
    "short": "HG nr. 298/2008",
@@ -162166,6 +162436,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/295973",
      "sha256": "528ce31f07bd11efee5bd2de9529c6db740c901385c1940d59b41d86356818b6"
+    }
+   ]
+  },
+  {
+   "slug": "hg-299-2026",
+   "path": "hg/2026/299",
+   "short": "HG nr. 299/2026",
+   "title": "Hotărârea Guvernului nr. 299/2026 privind eliberarea domnului Pavel Emilian din funcţia de subprefect al judeţului Bihor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/310079",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/310079",
+     "sha256": "72fd0e5e27dc792b344166760a12884db5853d03ea0a1c5ff09de39fa747158c"
     }
    ]
   },
@@ -164215,6 +164500,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/266742",
      "sha256": "554d8b9e4d5123f2e91ca746810019a4d174cb95ff9f6af073b5cb3a746e19fc"
+    }
+   ]
+  },
+  {
+   "slug": "hg-315-2025",
+   "path": "hg/2025/315",
+   "short": "HG nr. 315/2025",
+   "title": "Hotărârea Guvernului nr. 315/2025 privind acordarea unor ajutoare de urgenţă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/296416",
+   "versions": [
+    {
+     "from": "2025-04-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/296416",
+     "sha256": "a19d65deb7a0a6404889a11cc194c0776fc10ef4daaa7e026457e10710df2b1d"
     }
    ]
   },
@@ -167528,6 +167828,21 @@
    ]
   },
   {
+   "slug": "hg-342-2026",
+   "path": "hg/2026/342",
+   "short": "HG nr. 342/2026",
+   "title": "Hotărârea Guvernului nr. 342/2026 privind numirea domnului Stauder Rudolf în funcţia de prefect al judeţului Maramureş",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/310122",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/310122",
+     "sha256": "ecade09c714156149ad251c93f798d1909d6151f8783cdf2c4e9862d5fe962e6"
+    }
+   ]
+  },
+  {
    "slug": "hg-343-2008",
    "path": "hg/2008/343",
    "short": "HG nr. 343/2008",
@@ -167644,6 +167959,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/281713",
      "sha256": "e012d1615fca2e234487068f359a2463056b53b86516ce678f0ec3eb1f9c8be9"
+    }
+   ]
+  },
+  {
+   "slug": "hg-343-2026",
+   "path": "hg/2026/343",
+   "short": "HG nr. 343/2026",
+   "title": "Hotărârea Guvernului nr. 343/2026 privind numirea domnului Pavel Cristinel în funcţia de prefect al judeţului Mehedinţi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/310123",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/310123",
+     "sha256": "d03244164a1de714906a8134920a26af863352ffa3959eb36a16f103e30f4ed1"
     }
    ]
   },
@@ -167786,6 +168116,21 @@
    ]
   },
   {
+   "slug": "hg-344-2026",
+   "path": "hg/2026/344",
+   "short": "HG nr. 344/2026",
+   "title": "Hotărârea Guvernului nr. 344/2026 privind numirea doamnei Apostol Maria în funcţia de prefect al judeţului Neamţ",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/310124",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/310124",
+     "sha256": "162bab349080efec73e1b5ddcdb5079c059228dbd8d0ac9d27e40e1bbcaa2c8a"
+    }
+   ]
+  },
+  {
    "slug": "hg-345-2007",
    "path": "hg/2007/345",
    "short": "HG nr. 345/2007",
@@ -167917,6 +168262,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/281715",
      "sha256": "5ff8ba28a0fd47670a6ceb1eb5e502b453c0cf6d689c350b57b06235cf7b5c6a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-345-2026",
+   "path": "hg/2026/345",
+   "short": "HG nr. 345/2026",
+   "title": "Hotărârea Guvernului nr. 345/2026 privind numirea domnului Nicolae Ştefan în funcţia de prefect al judeţului Olt",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/310125",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/310125",
+     "sha256": "e78f94facba13096f54d38179a963fbc4ee6591f613199a889e3b1cab5e59b69"
     }
    ]
   },
@@ -168314,6 +168674,21 @@
    ]
   },
   {
+   "slug": "hg-348-2026",
+   "path": "hg/2026/348",
+   "short": "HG nr. 348/2026",
+   "title": "Hotărârea Guvernului nr. 348/2026 privind numirea domnului Terente Eugen în funcţia de prefect al judeţului Tulcea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/310128",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/310128",
+     "sha256": "0f81e85d4bb30afb52aef665e139df24083edbf59f4e26dcb2b9141e6ca5e548"
+    }
+   ]
+  },
+  {
    "slug": "hg-349-2002",
    "path": "hg/2002/349",
    "short": "HG nr. 349/2002",
@@ -168475,6 +168850,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/296602",
      "sha256": "3c89164e277823a9ed316d99d6ec62a58a8079159e0e98c1d0a052a694b34b0f"
+    }
+   ]
+  },
+  {
+   "slug": "hg-349-2026",
+   "path": "hg/2026/349",
+   "short": "HG nr. 349/2026",
+   "title": "Hotărârea Guvernului nr. 349/2026 privind numirea domnului Şerban Andrei în funcţia de prefect al judeţului Vaslui",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/310129",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/310129",
+     "sha256": "ca176cf90f11d4be4464cc2fec6e7416caf05ba8a8dd3cd254d74d6d640b464e"
     }
    ]
   },
@@ -169909,6 +170299,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/296582",
      "sha256": "be7c9240cfdf1059ec132469e659c36fdf565a217eb4df4bbb08d1afa1a4203f"
+    }
+   ]
+  },
+  {
+   "slug": "hg-360-2026",
+   "path": "hg/2026/360",
+   "short": "HG nr. 360/2026",
+   "title": "Hotărârea Guvernului nr. 360/2026 privind aprobarea Planului naţional de paturi pentru perioada 2026-2028",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/310161",
+   "versions": [
+    {
+     "from": "2026-05-01",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/310161",
+     "sha256": "ac73fb402f24a01b235cc51e2e06ccd27fbb0515040587973b1d51eaacd01caa"
     }
    ]
   },
@@ -189650,6 +190055,21 @@
    ]
   },
   {
+   "slug": "hg-520-2026",
+   "path": "hg/2026/520",
+   "short": "HG nr. 520/2026",
+   "title": "Hotărârea Guvernului nr. 520/2026 privind aprobarea modelului steagului comunei Pănet, judeţul Mureş",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/312171",
+   "versions": [
+    {
+     "from": "2026-07-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/312171",
+     "sha256": "8fcf4047b672e2588eedc6f9df4f1770bec0cc061d711686d4683ff56e9349d2"
+    }
+   ]
+  },
+  {
    "slug": "hg-521-1997",
    "path": "hg/1997/521",
    "short": "HG nr. 521/1997",
@@ -189815,6 +190235,21 @@
    ]
   },
   {
+   "slug": "hg-521-2026",
+   "path": "hg/2026/521",
+   "short": "HG nr. 521/2026",
+   "title": "Hotărârea Guvernului nr. 521/2026 privind aprobarea modelului steagului comunei Ghergheasa, judeţul Buzău",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/312172",
+   "versions": [
+    {
+     "from": "2026-07-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/312172",
+     "sha256": "b1f0224b2d8fd0f76e8d7c2b9debf20b451a99b213c06c9c6357ab7834a90786"
+    }
+   ]
+  },
+  {
    "slug": "hg-522-2003",
    "path": "hg/2003/522",
    "short": "HG nr. 522/2003",
@@ -189931,6 +190366,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/298529",
      "sha256": "03e8479918324e7e416e57f91febfefffcebf20854f64030f74a8ce70b993ab6"
+    }
+   ]
+  },
+  {
+   "slug": "hg-522-2026",
+   "path": "hg/2026/522",
+   "short": "HG nr. 522/2026",
+   "title": "Hotărârea Guvernului nr. 522/2026 privind aprobarea stemei comunei Cupşeni, judeţul Maramureş",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/312173",
+   "versions": [
+    {
+     "from": "2026-07-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/312173",
+     "sha256": "437567110178e96095fd8d8a599a5b356b63731d91cbfa48eef35c498b2c7412"
     }
    ]
   },
@@ -193934,6 +194384,21 @@
    ]
   },
   {
+   "slug": "hg-555-2026",
+   "path": "hg/2026/555",
+   "short": "HG nr. 555/2026",
+   "title": "Hotărârea Guvernului nr. 555/2026 privind rechemarea unui consul general",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/312488",
+   "versions": [
+    {
+     "from": "2026-07-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/312488",
+     "sha256": "a6221ff5c94fa27dd62a92858ba0b3687a80090c15323815b18598010851fe26"
+    }
+   ]
+  },
+  {
    "slug": "hg-556-2007",
    "path": "hg/2007/556",
    "short": "HG nr. 556/2007",
@@ -194035,6 +194500,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/299042",
      "sha256": "75cbada32d11e4947def884cba418fecece592426caa618fcc20d4427440d5ff"
+    }
+   ]
+  },
+  {
+   "slug": "hg-556-2026",
+   "path": "hg/2026/556",
+   "short": "HG nr. 556/2026",
+   "title": "Hotărârea Guvernului nr. 556/2026 privind rechemarea unui consul general",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/312489",
+   "versions": [
+    {
+     "from": "2026-07-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/312489",
+     "sha256": "55b92c39f0b4a017e90a5e6fd0607473803e89879e7b57bb05e48f567e602003"
     }
    ]
   },
@@ -194236,6 +194716,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/283362",
      "sha256": "ce0f4e49ff50c86f82effe75880230e6fe4eb3de03d620d643550995799eca0d"
+    }
+   ]
+  },
+  {
+   "slug": "hg-557-2026",
+   "path": "hg/2026/557",
+   "short": "HG nr. 557/2026",
+   "title": "Hotărârea Guvernului nr. 557/2026 privind rechemarea unui consul general",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/312490",
+   "versions": [
+    {
+     "from": "2026-07-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/312490",
+     "sha256": "fd30a4a483855ff7383a037c5ba9c95675b0535a89ab2aa252b3ff9ed42b5a8b"
     }
    ]
   },
@@ -194452,6 +194947,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/283243",
      "sha256": "4f22a25bd8e3bc41d894bdac7cbe8ae150ff502cae3d70456e747544c09af71f"
+    }
+   ]
+  },
+  {
+   "slug": "hg-559-2026",
+   "path": "hg/2026/559",
+   "short": "HG nr. 559/2026",
+   "title": "Hotărârea Guvernului nr. 559/2026 privind aprobarea Strategiei pentru o mai bună reglementare 2026-2034",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/313091",
+   "versions": [
+    {
+     "from": "2026-07-29",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/313091",
+     "sha256": "ed91cf5a44445465b2bc10bc287d54ed27fbe9cb845bad413eda2029f8592b3f"
     }
    ]
   },
@@ -199900,6 +200410,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/300408",
      "sha256": "c92f0c39510176e3bf69816ae4c111d266be730b8aaafa16a336f361169a4546"
+    }
+   ]
+  },
+  {
+   "slug": "hg-603-2026",
+   "path": "hg/2026/603",
+   "short": "HG nr. 603/2026",
+   "title": "Hotărârea Guvernului nr. 603/2026 privind adoptarea unor măsuri de siguranţă pe piaţa de energie electrică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/313295",
+   "versions": [
+    {
+     "from": "2026-08-07",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/313295",
+     "sha256": "08a3d271ecab12e6cc57f30c7d9366e21667931c4f7c3e0450ec2d52fab14d05"
     }
    ]
   },
@@ -208118,6 +208643,21 @@
    ]
   },
   {
+   "slug": "hg-67-2026",
+   "path": "hg/2026/67",
+   "short": "HG nr. 67/2026",
+   "title": "Hotărârea Guvernului nr. 67/2026 privind eliberarea domnului Diaconu Dan din funcţia de prefect al judeţului Dolj",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/307367",
+   "versions": [
+    {
+     "from": "2026-02-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/307367",
+     "sha256": "b4df1440c3d10051006c3ae6f429d2637633c9b8a370d5d49ae78ce66e0eeb1f"
+    }
+   ]
+  },
+  {
    "slug": "hg-670-2008",
    "path": "hg/2008/670",
    "short": "HG nr. 670/2008",
@@ -210445,6 +210985,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/301662",
      "sha256": "922c5b2bdadbd53e127d77ef7bb52daa38908b94815367b595b7fb9ef2caef62"
+    }
+   ]
+  },
+  {
+   "slug": "hg-692-2026",
+   "path": "hg/2026/692",
+   "short": "HG nr. 692/2026",
+   "title": "Hotărârea Guvernului nr. 692/2026 privind acordarea unor ajutoare de urgenţă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/313997",
+   "versions": [
+    {
+     "from": "2026-09-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/313997",
+     "sha256": "b53643ccb9710dac91c35a2c69c19ecd29a54c7d1a666322f54248d9fc5397ba"
     }
    ]
   },
@@ -242150,6 +242705,21 @@
    ]
   },
   {
+   "slug": "hg-944-2025",
+   "path": "hg/2025/944",
+   "short": "HG nr. 944/2025",
+   "title": "Hotărârea Guvernului nr. 944/2025 privind aprobarea stemei comunei Mădăraş, judeţul Harghita",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/304227",
+   "versions": [
+    {
+     "from": "2025-11-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/304227",
+     "sha256": "6deed8c7b0b1ad37a8f2feaf28b948ef86b9d0d5571a41760444dbdcbdfc91c4"
+    }
+   ]
+  },
+  {
    "slug": "hg-945-2007",
    "path": "hg/2007/945",
    "short": "HG nr. 945/2007",
@@ -246368,6 +246938,21 @@
    ]
   },
   {
+   "slug": "hg-976-2025",
+   "path": "hg/2025/976",
+   "short": "HG nr. 976/2025",
+   "title": "Hotărârea Guvernului nr. 976/2025 privind rechemarea unui consul general",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/304606",
+   "versions": [
+    {
+     "from": "2025-11-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/304606",
+     "sha256": "9975c5d3405288d49bf51d228dbdac8df1156269dbb33119b266bfa7f8bd8d11"
+    }
+   ]
+  },
+  {
    "slug": "hg-977-2007",
    "path": "hg/2007/977",
    "short": "HG nr. 977/2007",
@@ -246488,6 +247073,21 @@
    ]
   },
   {
+   "slug": "hg-977-2025",
+   "path": "hg/2025/977",
+   "short": "HG nr. 977/2025",
+   "title": "Hotărârea Guvernului nr. 977/2025 privind rechemarea unui consul general",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/304607",
+   "versions": [
+    {
+     "from": "2025-11-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/304607",
+     "sha256": "e996bd00b736fc437b6e9e587448e61d5bc73ed29b663b99b671d754618a3a21"
+    }
+   ]
+  },
+  {
    "slug": "hg-978-2007",
    "path": "hg/2007/978",
    "short": "HG nr. 978/2007",
@@ -246574,6 +247174,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/258284",
      "sha256": "c30cdfc5cd5683f2e91c54210a45b8dfe08268efbdb8f1112309492430cfe501"
+    }
+   ]
+  },
+  {
+   "slug": "hg-978-2025",
+   "path": "hg/2025/978",
+   "short": "HG nr. 978/2025",
+   "title": "Hotărârea Guvernului nr. 978/2025 privind rechemarea unui consul general",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/304608",
+   "versions": [
+    {
+     "from": "2025-11-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/304608",
+     "sha256": "678e12ecf464b0f3fa7bbd95f4d10a8eb8fd61289ff462188cc6372cdb9b07dd"
     }
    ]
   },
