@@ -1,6 +1,6 @@
 # Every act in this repository
 
-16626 acts, 30,250 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+16627 acts, 30,251 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -5047,7 +5047,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (11588, of which 5592 amending acts)
+## Government decisions (HG) (11589, of which 5593 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -8708,6 +8708,7 @@
 | Hotărârea Guvernului nr. 1000/2016 | [`hg/2016/1000/`](hg/2016/1000/) | in force | 1 | 2016-12-29 | 2016-12-29 |
 | Hotărârea Guvernului nr. 1004/2016 pentru aprobarea Normelor referitoare la proveniența, circulația și comercializarea materialelor lemnoase, la regimul spațiilor de depozitare a materialelor lemnoase și al instalațiilor de prelucrat lemn rotund, precum și a unor măsuri de aplicare a Regulamentului (UE) nr. 995/2010 al Parlamentului European și al Consiliului din 20 octombrie 2010 de stabilire a obligațiilor ce revin operatorilor care introduc pe piață lemn și produse din lemn | [`hg/2016/1004/`](hg/2016/1004/) | repealed 2020-10-29 | 2 | 2017-04-22 | 2020-10-29 |
 | Hotărârea Guvernului nr. 1008/2016 | [`hg/2016/1008/`](hg/2016/1008/) | in force | 1 | 2016-12-29 | 2016-12-29 |
+| Hotărârea Guvernului nr. 1013/2016 pentru prorogarea termenului prevăzut la art. 2 lit. i) din Hotărârea Guvernului nr. 678/2015 privind închiderea programelor operaţionale finanţate în perioada 2007-2013 prin Fondul European de Dezvoltare Regională, Fondul Social European, Fondul de Coeziune şi Fondul European pentru Pescuit | [`hg/2016/1013/`](hg/2016/1013/) | amending act | 1 | 2016-12-29 | 2016-12-29 |
 | Hotărârea Guvernului nr. 1014/2016 pentru aprobarea cotei anuale obligatorii de energie electrică produsă din surse regenerabile de energie, care beneficiază de sistemul de promovare prin certificate verzi, pentru anul 2017 | [`hg/2016/1014/`](hg/2016/1014/) | amending act | 1 | 2016-12-29 | 2016-12-29 |
 | Hotărârea Guvernului nr. 1015/2016 pentru modificarea Hotărârii Guvernului nr. 588/2016 privind aprobarea alocării unei sume din bugetul asigurărilor pentru şomaj pe anul 2016 pentru plata venitului lunar de completare de care beneficiază persoanele disponibilizate de la Societatea Complexul Energetic Oltenia - S.A | [`hg/2016/1015/`](hg/2016/1015/) | amending act | 1 | 2016-12-29 | 2016-12-29 |
 | Hotărârea Guvernului nr. 1018/2016 privind înscrierea unor terenuri aflate în administrarea Ministerului Energiei în inventarul centralizat al bunurilor din domeniul public al statului | [`hg/2016/1018/`](hg/2016/1018/) | in force | 1 | 2017-01-06 | 2017-01-06 |
