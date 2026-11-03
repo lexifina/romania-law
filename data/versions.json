@@ -16970,6 +16970,45 @@
    ]
   },
   {
+   "slug": "hg-428-2013",
+   "path": "hg/2013/428",
+   "short": "HG nr. 428/2013",
+   "title": "Hotărârea Guvernului nr. 428/2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/163683",
+   "versions": [
+    {
+     "from": "2013-07-24",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/150105",
+     "sha256": "f5873be034f507d4bfae14caef69113a630db235f06474534732d1c9eb120e50"
+    },
+    {
+     "from": "2013-08-07",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/150581",
+     "sha256": "38abcbec9b2883df5f5038b6a1f9a5011af529a9d69f4dc10127793d10d47574"
+    },
+    {
+     "from": "2014-05-07",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/158016",
+     "sha256": "53a9325367bc3cd46665d5445661df24a26aa3aae6c6dabaa35df6e1930d05a3"
+    },
+    {
+     "from": "2014-12-05",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/163683",
+     "sha256": "fe101fe30309523b55adc6a6f843f2ffa15e4d1f9c18628e8fc4f796dff3ee03"
+    },
+    {
+     "from": "2015-01-23",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/164921",
+     "sha256": "f4a7c4143e91c0b8fbe848251cc599d398e354e5cccf154a284c8f02190def83"
+    }
+   ]
+  },
+  {
    "slug": "hg-431-2017",
    "path": "hg/2017/431",
    "short": "HG nr. 431/2017",
@@ -17305,6 +17344,45 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/169303",
      "sha256": "28a4f4c217d11276f02ec6ace8795a07a566263402ebfad69b33b319db03662e"
+    }
+   ]
+  },
+  {
+   "slug": "hg-48-2013",
+   "path": "hg/2013/48",
+   "short": "HG nr. 48/2013",
+   "title": "Hotărârea Guvernului nr. 48/2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/158497",
+   "versions": [
+    {
+     "from": "2013-02-20",
+     "units": 25,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/145655",
+     "sha256": "ce18ada46a70807aa6342fb19ce7fc9810d2c24af343d3bfb5ec27ff0dea5288"
+    },
+    {
+     "from": "2013-07-24",
+     "units": 25,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/150174",
+     "sha256": "b63c7c5d99b0e72c9965871e4020b7d2b7fc684ba5e22f3476a3d5d83277b5c6"
+    },
+    {
+     "from": "2013-08-07",
+     "units": 25,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/150582",
+     "sha256": "e9d1858bc2c7508e011f5b18db9bed186c8a5f2ae64ca70ea70d58a14efcc8e0"
+    },
+    {
+     "from": "2014-05-22",
+     "units": 25,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/158497",
+     "sha256": "4658c0a40a2e00a4ec721ea17a35c1e2a9a97bf2d46fd81cbd90e1ece6b2704f"
+    },
+    {
+     "from": "2015-01-23",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/164921",
+     "sha256": "f4a7c4143e91c0b8fbe848251cc599d398e354e5cccf154a284c8f02190def83"
     }
    ]
   },

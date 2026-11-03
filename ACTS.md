@@ -1,6 +1,6 @@
 # Every act in this repository
 
-6595 acts, 19,128 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+6597 acts, 19,138 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -3783,7 +3783,7 @@
 | Ordonanța Guvernului nr. 21/2025 pentru modificarea și completarea Legii nr. 431/2023 privind asigurarea unui nivel minim global de impozitare a grupurilor de întreprinderi multinaționale și a grupurilor naționale de mari dimensiuni | [`og/2025/21/`](og/2025/21/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 | Ordonanța Guvernului nr. 22/2025 pentru modificarea și completarea Legii nr. 227/2015 privind Codul fiscal | [`og/2025/22/`](og/2025/22/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 
-## Government decisions (HG) (2820, of which 929 amending acts)
+## Government decisions (HG) (2822, of which 929 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -5002,6 +5002,7 @@
 | Hotărârea Guvernului nr. 24/2013 | [`hg/2013/24/`](hg/2013/24/) | in force | 3 | 2013-01-29 | 2014-05-08 |
 | Hotărârea Guvernului nr. 44/2013 | [`hg/2013/44/`](hg/2013/44/) | in force | 3 | 2013-02-15 | 2019-11-06 |
 | Hotărârea Guvernului nr. 47/2013 | [`hg/2013/47/`](hg/2013/47/) | in force | 5 | 2013-02-20 | 2015-01-28 |
+| Hotărârea Guvernului nr. 48/2013 | [`hg/2013/48/`](hg/2013/48/) | repealed 2015-01-23 | 5 | 2013-02-20 | 2015-01-23 |
 | Hotărârea Guvernului nr. 52/2013 | [`hg/2013/52/`](hg/2013/52/) | in force | 1 | 2013-02-21 | 2013-02-21 |
 | Hotărârea Guvernului nr. 72/2013 | [`hg/2013/72/`](hg/2013/72/) | in force | 13 | 2013-03-13 | 2023-01-19 |
 | Hotărârea Guvernului nr. 81/2013 | [`hg/2013/81/`](hg/2013/81/) | in force | 1 | 2013-03-18 | 2013-03-18 |
@@ -5041,6 +5042,7 @@
 | Hotărârea Guvernului nr. 404/2013 | [`hg/2013/404/`](hg/2013/404/) | in force | 1 | 2013-07-04 | 2013-07-04 |
 | Hotărârea Guvernului nr. 417/2013 | [`hg/2013/417/`](hg/2013/417/) | in force | 1 | 2013-07-04 | 2013-07-04 |
 | Hotărârea Guvernului nr. 425/2013 | [`hg/2013/425/`](hg/2013/425/) | in force | 2 | 2013-07-03 | 2013-07-13 |
+| Hotărârea Guvernului nr. 428/2013 | [`hg/2013/428/`](hg/2013/428/) | repealed 2015-01-23 | 5 | 2013-07-24 | 2015-01-23 |
 | Hotărârea Guvernului nr. 430/2013 | [`hg/2013/430/`](hg/2013/430/) | in force | 4 | 2013-07-10 | 2014-10-07 |
 | Hotărârea Guvernului nr. 494/2013 | [`hg/2013/494/`](hg/2013/494/) | in force | 1 | 2013-07-26 | 2013-07-26 |
 | Hotărârea Guvernului nr. 495/2013 | [`hg/2013/495/`](hg/2013/495/) | in force | 1 | 2013-07-26 | 2013-07-26 |

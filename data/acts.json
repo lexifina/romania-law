@@ -84186,6 +84186,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/145656"
 },
 {
+"slug": "hg-48-2013",
+"path": "hg/2013/48",
+"kind": "hg",
+"year": "2013",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 48/2013",
+"short": "HG nr. 48/2013",
+"code": null,
+"status": "repealed 2015-01-23",
+"versions": 5,
+"from": "2013-02-20",
+"latest": "2015-01-23",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/158497"
+},
+{
 "slug": "hg-52-2013",
 "path": "hg/2013/52",
 "kind": "hg",
@@ -84847,6 +84864,23 @@
 "from": "2013-07-03",
 "latest": "2013-07-13",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/149472"
+},
+{
+"slug": "hg-428-2013",
+"path": "hg/2013/428",
+"kind": "hg",
+"year": "2013",
+"number": "428",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 428/2013",
+"short": "HG nr. 428/2013",
+"code": null,
+"status": "repealed 2015-01-23",
+"versions": 5,
+"from": "2013-07-24",
+"latest": "2015-01-23",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/163683"
 },
 {
 "slug": "hg-430-2013",
