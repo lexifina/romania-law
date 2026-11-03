@@ -9374,6 +9374,129 @@
    ]
   },
   {
+   "slug": "hg-100-2004",
+   "path": "hg/2004/100",
+   "short": "HG nr. 100/2004",
+   "title": "Hotărârea Guvernului nr. 100/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49738",
+   "versions": [
+    {
+     "from": "2004-02-12",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/49738",
+     "sha256": "4a81f3f0576a4c694ba53ccc5467034f1d534eba89f800fe0727874e65f0dd2d"
+    },
+    {
+     "from": "2004-05-26",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/31760",
+     "sha256": "f0376b8fd36548ca3eaf424c7617514d8e559af93db9e1e34ac39cc171b4d404"
+    },
+    {
+     "from": "2005-05-17",
+     "units": 25,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/31762",
+     "sha256": "b6ffc592cb18dc43fbb9f9c9b379f7cce5a60993a4f1058814d329dad4e90026"
+    },
+    {
+     "from": "2005-07-22",
+     "units": 25,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/31763",
+     "sha256": "41e4eb0c9a6cd7915dd8f5eb3cc6af03b1468053db40aa8675c9d49c661565d1"
+    },
+    {
+     "from": "2005-09-16",
+     "units": 25,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/31764",
+     "sha256": "efe06e140e484b6d315a31d1d347847d724c934e228da34c77ade62c07d08e49"
+    },
+    {
+     "from": "2006-02-15",
+     "units": 25,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/69208",
+     "sha256": "d9e550ec51c14abf0383644e78986863926bd1c0bae43c978ee22a198f056b41"
+    },
+    {
+     "from": "2006-05-30",
+     "units": 24,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/72690",
+     "sha256": "3b2320b965e57d83bbf43777a7e6ee25da3f7b527ed116484b2bbe21f84321ba"
+    },
+    {
+     "from": "2006-09-08",
+     "units": 24,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/77539",
+     "sha256": "d1d6a6269f2a243e712578bff7cff221e40726269dc8c73da95a5b5a447da4e6"
+    },
+    {
+     "from": "2006-11-29",
+     "units": 24,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/77540",
+     "sha256": "edb47abac555bedbab868ba30bb2d3794a4c85484d6adeef1f5550a80a807350"
+    },
+    {
+     "from": "2007-02-12",
+     "units": 24,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/90407",
+     "sha256": "cd9bfff7116e1e02fb473731e84019b7577fdec3bb945674721422c2025d5d82"
+    },
+    {
+     "from": "2007-03-07",
+     "units": 24,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/90408",
+     "sha256": "80ebe223d6846f336cd7a487880d9b164b6138d62b46bd00e47a9114165bf534"
+    },
+    {
+     "from": "2007-05-31",
+     "units": 24,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/90409",
+     "sha256": "224468e2628a6c889f2f945ed87111347578d03a12859932aba7fab364176bcb"
+    },
+    {
+     "from": "2007-10-12",
+     "units": 24,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/90411",
+     "sha256": "df994ecc2cfee21401479a7c0091cc249a5db4cab3a0d3b0bf67d786f33dfc76"
+    },
+    {
+     "from": "2007-11-20",
+     "units": 24,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/90412",
+     "sha256": "9a6f713c5d6818021677f3948aa3e75cbbca7e62af9eee86c80d0d919e18d760"
+    },
+    {
+     "from": "2008-05-30",
+     "units": 24,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/93608",
+     "sha256": "efb0bb10be677f96c7680497718a63112ac1db0ef4818219c3a41b11100fb442"
+    },
+    {
+     "from": "2008-08-25",
+     "units": 24,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/101777",
+     "sha256": "076fc1a9e2f3c563d33f9087c19ad6ae1418a4345cfe8656f90e7352c5d142b2"
+    },
+    {
+     "from": "2009-01-23",
+     "units": 25,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/101778",
+     "sha256": "b0df0539b39235305b7309330a88c9090c9ae0541c6eba22ed6d7b40cb88eb40"
+    },
+    {
+     "from": "2009-12-08",
+     "units": 24,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/115193",
+     "sha256": "15404798b77cb4fe81cdeea726b8f30c8f31eea7dfd0688a069b23776121d22a"
+    },
+    {
+     "from": "2010-08-02",
+     "units": 24,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121258",
+     "sha256": "763806951e845722c68f94e23b256029b0cc04730f9ae23a019e115906f1b523"
+    }
+   ]
+  },
+  {
    "slug": "hg-1000-2006",
    "path": "hg/2006/1000",
    "short": "HG nr. 1000/2006",
@@ -131651,6 +131774,21 @@
    ]
   },
   {
+   "slug": "hg-1414-2007",
+   "path": "hg/2007/1414",
+   "short": "HG nr. 1414/2007",
+   "title": "Hotărârea Guvernului nr. 1414/2007 pentru aprobarea Memorandumului de înţelegere dintre Ministerul Apărării din România şi Ministerul Apărării din Regatul Unit al Marii Britanii şi Irlandei de Nord privind cooperarea în domeniile hidrografiei şi oceanografiei, semnat la Bucureşti la 23 iulie 2007 şi la Londra la 28 august 2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87444",
+   "versions": [
+    {
+     "from": "2007-11-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87444",
+     "sha256": "82a595f4b224153b9467fd785d514e572438379b59ce69e9d918ffcbaa1b8806"
+    }
+   ]
+  },
+  {
    "slug": "hg-1414-2008",
    "path": "hg/2008/1414",
    "short": "HG nr. 1414/2008",
@@ -131903,6 +132041,21 @@
    ]
   },
   {
+   "slug": "hg-1418-2007",
+   "path": "hg/2007/1418",
+   "short": "HG nr. 1418/2007",
+   "title": "Hotărârea Guvernului nr. 1418/2007 privind acordarea unor ajutoare financiare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87480",
+   "versions": [
+    {
+     "from": "2007-12-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87480",
+     "sha256": "69a3d10586ea247713129902269fa88bd72df0d08681d18335d1a80dfc0abc0d"
+    }
+   ]
+  },
+  {
    "slug": "hg-1418-2008",
    "path": "hg/2008/1418",
    "short": "HG nr. 1418/2008",
@@ -131944,6 +132097,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/291154",
      "sha256": "9d0c20f74f5184a694aac6a591c3790568a214a330e12c81bdc1b767dc725e1d"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1419-2007",
+   "path": "hg/2007/1419",
+   "short": "HG nr. 1419/2007",
+   "title": "Hotărârea Guvernului nr. 1419/2007 privind acordarea unor ajutoare de urgenţă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87439",
+   "versions": [
+    {
+     "from": "2007-11-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87439",
+     "sha256": "dfea0f9f42a2d89f8916c2477e8fdcbb9ab6ee6cca4e2a356eb33c15ce2b5eb7"
     }
    ]
   },
@@ -132185,6 +132353,21 @@
    ]
   },
   {
+   "slug": "hg-1421-2007",
+   "path": "hg/2007/1421",
+   "short": "HG nr. 1421/2007",
+   "title": "Hotărârea Guvernului nr. 1421/2007 privind modificarea Hotărârii Guvernului nr. 1.505/2004 pentru aprobarea Listei cuprinzând 345 de obiective de investiţii din cadrul programului \"38.000 de locuinţe pentru tineri, destinate închirierii\", derulat prin intermediul Agenţiei Naţionale pentru Locuinţe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87496",
+   "versions": [
+    {
+     "from": "2007-12-04",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87496",
+     "sha256": "168ce72929685643172f36b5cb653d981cfa3a18a953460a197df7a44caafeff"
+    }
+   ]
+  },
+  {
    "slug": "hg-1421-2008",
    "path": "hg/2008/1421",
    "short": "HG nr. 1421/2008",
@@ -132287,6 +132470,21 @@
    ]
   },
   {
+   "slug": "hg-1423-2007",
+   "path": "hg/2007/1423",
+   "short": "HG nr. 1423/2007",
+   "title": "Hotărârea Guvernului nr. 1423/2007 pentru înscrierea în domeniul public al statului a unui imobil aflat în domeniul privat al statului şi trecerea acestuia în administrarea Ministerului Apărării şi pentru transmiterea unei părţi dintr-un imobil, proprietate publică a statului, din administrarea Ministerului Apărării în administrarea Ministerului Public, pentru Parchetul de pe lângă Tribunalul Sibiu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87497",
+   "versions": [
+    {
+     "from": "2007-12-04",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87497",
+     "sha256": "1a6ab196465325bd1ea83d80f1334f2cb385ed673a301131908b382d57a2df36"
+    }
+   ]
+  },
+  {
    "slug": "hg-1423-2008",
    "path": "hg/2008/1423",
    "short": "HG nr. 1423/2008",
@@ -132365,6 +132563,21 @@
    ]
   },
   {
+   "slug": "hg-1425-2007",
+   "path": "hg/2007/1425",
+   "short": "HG nr. 1425/2007",
+   "title": "Hotărârea Guvernului nr. 1425/2007 privind acordarea unui ajutor umanitar de urgenţă pentru populaţia din judeţul Vrancea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87498",
+   "versions": [
+    {
+     "from": "2007-12-04",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87498",
+     "sha256": "211d33486c076eda2cbd11dd54ea475ebdc39cacff8507700226fce9ef18cc0c"
+    }
+   ]
+  },
+  {
    "slug": "hg-1425-2008",
    "path": "hg/2008/1425",
    "short": "HG nr. 1425/2008",
@@ -132395,6 +132608,21 @@
    ]
   },
   {
+   "slug": "hg-1427-2007",
+   "path": "hg/2007/1427",
+   "short": "HG nr. 1427/2007",
+   "title": "Hotărârea Guvernului nr. 1427/2007 privind aprobarea renunţării la cetăţenia română unor persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87546",
+   "versions": [
+    {
+     "from": "2007-12-05",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87546",
+     "sha256": "7540db91c9f9bb2405df05badaff976ca2bde841d595e3f2b66d3a71576d87ad"
+    }
+   ]
+  },
+  {
    "slug": "hg-1427-2008",
    "path": "hg/2008/1427",
    "short": "HG nr. 1427/2008",
@@ -132406,6 +132634,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/99098",
      "sha256": "2690b747d992f743a3f37fb217f0acbf08034a8d9ebb976c24640f27e489e97c"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1429-2007",
+   "path": "hg/2007/1429",
+   "short": "HG nr. 1429/2007",
+   "title": "Hotărârea Guvernului nr. 1429/2007 privind redobândirea cetăţeniei române de către unele persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87507",
+   "versions": [
+    {
+     "from": "2007-12-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87507",
+     "sha256": "d6b90d209b418ecaf9d0ac9bf8d00fa400e2a7409620be81118dcbda90045abf"
     }
    ]
   },
@@ -132620,6 +132863,21 @@
    ]
   },
   {
+   "slug": "hg-1431-2007",
+   "path": "hg/2007/1431",
+   "short": "HG nr. 1431/2007",
+   "title": "Hotărârea Guvernului nr. 1431/2007 privind aprobarea stemei judeţului Neamţ",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87751",
+   "versions": [
+    {
+     "from": "2007-12-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87751",
+     "sha256": "d6c9ca7b566dcf754e8689d238c87892c587e96cf58fe03eb87f4ee5f092dfc1"
+    }
+   ]
+  },
+  {
    "slug": "hg-1431-2008",
    "path": "hg/2008/1431",
    "short": "HG nr. 1431/2008",
@@ -132755,6 +133013,21 @@
    ]
   },
   {
+   "slug": "hg-1433-2007",
+   "path": "hg/2007/1433",
+   "short": "HG nr. 1433/2007",
+   "title": "Hotărârea Guvernului nr. 1433/2007 privind aprobarea stemei comunei Tăureni, judeţul Mureş",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87753",
+   "versions": [
+    {
+     "from": "2007-12-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87753",
+     "sha256": "7d6b88bc5ca98eeffddaf36726805d79a769e9a5d37c7cfd59f2fc6d173a7fbc"
+    }
+   ]
+  },
+  {
    "slug": "hg-1433-2008",
    "path": "hg/2008/1433",
    "short": "HG nr. 1433/2008",
@@ -132791,6 +133064,21 @@
    ]
   },
   {
+   "slug": "hg-1434-2007",
+   "path": "hg/2007/1434",
+   "short": "HG nr. 1434/2007",
+   "title": "Hotărârea Guvernului nr. 1434/2007 privind aprobarea stemei oraşului Iernut, judeţul Mureş",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87754",
+   "versions": [
+    {
+     "from": "2007-12-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87754",
+     "sha256": "7f2544c35d4e86921c4e2fc73a1b0644d12ff6ddf28e125caabef08cbc8a9be6"
+    }
+   ]
+  },
+  {
    "slug": "hg-1434-2008",
    "path": "hg/2008/1434",
    "short": "HG nr. 1434/2008",
@@ -132817,6 +133105,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/262286",
      "sha256": "d72b13e80c58c54e7e7844c192a88644785c85a15b7df54c61cb9b58650208d9"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1435-2007",
+   "path": "hg/2007/1435",
+   "short": "HG nr. 1435/2007",
+   "title": "Hotărârea Guvernului nr. 1435/2007 privind aprobarea stemei oraşului Târgu Cărbuneşti, judeţul Gorj",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87755",
+   "versions": [
+    {
+     "from": "2007-12-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87755",
+     "sha256": "ab6e084ccf101296c057c0d6baefe2df1e1412d4b1967f76209e4211ecf606e1"
     }
    ]
   },
@@ -132866,6 +133169,21 @@
    ]
   },
   {
+   "slug": "hg-1436-2007",
+   "path": "hg/2007/1436",
+   "short": "HG nr. 1436/2007",
+   "title": "Hotărârea Guvernului nr. 1436/2007 privind schimbarea titularului dreptului de administrare asupra unui teren situat în comuna Obrejiţa, judeţul Vrancea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87508",
+   "versions": [
+    {
+     "from": "2007-12-04",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87508",
+     "sha256": "ddb1b72c063e6841fb4a4a92b7825cb14509e30a565fe002d83539526f2fa377"
+    }
+   ]
+  },
+  {
    "slug": "hg-1436-2008",
    "path": "hg/2008/1436",
    "short": "HG nr. 1436/2008",
@@ -132877,6 +133195,36 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/99402",
      "sha256": "15d9426249171e61a24a9dc3ee6a6c44e95e5f52c1f96c52ab238ab3b33e7236"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1437-2007",
+   "path": "hg/2007/1437",
+   "short": "HG nr. 1437/2007",
+   "title": "Hotărârea Guvernului nr. 1437/2007 privind modificarea şi completarea anexei nr. 12 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87757",
+   "versions": [
+    {
+     "from": "2007-12-10",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87757",
+     "sha256": "47913fd104fbbd1b1d94ebed1187b859223072169d7486f8cd0bd2b931a7f62d"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1438-2007",
+   "path": "hg/2007/1438",
+   "short": "HG nr. 1438/2007",
+   "title": "Hotărârea Guvernului nr. 1438/2007 privind aprobarea închirierii unor imobile şi a bunurilor mobile din dotarea acestora, aflate în domeniul public al statului şi în administrarea Agenţiei Naţionale pentru Protecţia Mediului - Agenţia pentru Protecţia Mediului Sibiu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87556",
+   "versions": [
+    {
+     "from": "2007-12-06",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87556",
+     "sha256": "83b7167dca50943fc7fd8534ab49375f3304dd6a1395d659e61ea436fdc649e7"
     }
    ]
   },
@@ -132907,6 +133255,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/55381",
      "sha256": "ad10531867b26840ab87576bff21b266e890dcd4513bb4cc5d538ee7e4168ae8"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1439-2007",
+   "path": "hg/2007/1439",
+   "short": "HG nr. 1439/2007",
+   "title": "Hotărârea Guvernului nr. 1439/2007 privind înscrierea în domeniul public al statului şi darea în administrarea Ministerului Mediului şi Dezvoltării Durabile - Agenţia Naţională pentru Protecţia Mediului - Agenţia pentru Protecţia Mediului Ialomiţa a unui teren situat în judeţul Ialomiţa, municipiul Slobozia, str. Mihail Sadoveanu nr. 6",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87722",
+   "versions": [
+    {
+     "from": "2007-12-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87722",
+     "sha256": "865e2042bbb0a2bcf27093c0e568a88cd1b60c32f4b91dbc52714cdb280fae71"
     }
    ]
   },
@@ -133334,6 +133697,21 @@
    ]
   },
   {
+   "slug": "hg-1443-2007",
+   "path": "hg/2007/1443",
+   "short": "HG nr. 1443/2007",
+   "title": "Hotărârea Guvernului nr. 1443/2007 privind transmiterea unui imobil din domeniul public al statului şi din administrarea Ministerului Internelor şi Reformei Administrative în domeniul public al municipiului Tulcea şi în administrarea Consiliului Local al Municipiului Tulcea, judeţul Tulcea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87514",
+   "versions": [
+    {
+     "from": "2007-12-04",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87514",
+     "sha256": "886823083f5044fc6661a4a5cd140155fea69c33f339a02b2fc9913baf3cb710"
+    }
+   ]
+  },
+  {
    "slug": "hg-1443-2022",
    "path": "hg/2022/1443",
    "short": "HG nr. 1443/2022",
@@ -133349,6 +133727,21 @@
    ]
   },
   {
+   "slug": "hg-1444-2007",
+   "path": "hg/2007/1444",
+   "short": "HG nr. 1444/2007",
+   "title": "Hotărârea Guvernului nr. 1444/2007 privind înscrierea unui imobil în inventarul centralizat al bunurilor care alcătuiesc domeniul public al statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87515",
+   "versions": [
+    {
+     "from": "2007-12-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87515",
+     "sha256": "de480a9bb5556e80a9293283928759fc42fda85c55e0d3506f2f7057ffab0b94"
+    }
+   ]
+  },
+  {
    "slug": "hg-1445-2008",
    "path": "hg/2008/1445",
    "short": "HG nr. 1445/2008",
@@ -133360,6 +133753,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/99424",
      "sha256": "f09cd3676ce2a43a05e48d6e36837655407f4da1225f8e60eee4c3cb48818ac9"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1446-2007",
+   "path": "hg/2007/1446",
+   "short": "HG nr. 1446/2007",
+   "title": "Hotărârea Guvernului nr. 1446/2007 privind schimbarea titularului dreptului de administrare asupra unui teren situat în comuna Vârteşcoiu, judeţul Vrancea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87510",
+   "versions": [
+    {
+     "from": "2007-12-04",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87510",
+     "sha256": "e6a4afc31d83b5764c006ae396294fceb44f73c5f9d7aa1156c7bdef9f2c65c9"
     }
    ]
   },
@@ -133634,6 +134042,21 @@
    ]
   },
   {
+   "slug": "hg-1450-2007",
+   "path": "hg/2007/1450",
+   "short": "HG nr. 1450/2007",
+   "title": "Hotărârea Guvernului nr. 1450/2007 privind darea în administrarea Ministerului Educaţiei, Cercetării şi Tineretului, pentru Casa Corpului Didactic Ilfov, a unui imobil, trecut în proprietatea publică a statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87462",
+   "versions": [
+    {
+     "from": "2007-12-03",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87462",
+     "sha256": "cb690d7174de0b3a27990f19b22496a9657c17302601d95a064a3a4047737162"
+    }
+   ]
+  },
+  {
    "slug": "hg-1450-2024",
    "path": "hg/2024/1450",
    "short": "HG nr. 1450/2024",
@@ -133645,6 +134068,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/291345",
      "sha256": "5b4014d09fe0d980ae1b7002f459730b97627f857da1f9c6c4c95f47f6d00d78"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1451-2007",
+   "path": "hg/2007/1451",
+   "short": "HG nr. 1451/2007",
+   "title": "Hotărârea Guvernului nr. 1451/2007 pentru modificarea Hotărârii Guvernului nr. 1.411/2004 privind aprobarea înfiinţării, pe lângă Serviciul Român de Informaţii, a unor activităţi finanţate integral din venituri proprii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87636",
+   "versions": [
+    {
+     "from": "2007-12-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87636",
+     "sha256": "cb7c2f1cf5da0cc8244a5cddcdeeec7c82c2effcda4a2fd070a2b05a87fe4fa9"
     }
    ]
   },
@@ -133675,6 +134113,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/291293",
      "sha256": "df73e1910734ec1ce57a1b572099d3eacc590727cfee52a2218cf1560682e15a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1452-2007",
+   "path": "hg/2007/1452",
+   "short": "HG nr. 1452/2007",
+   "title": "Hotărârea Guvernului nr. 1452/2007 pentru modificarea valorii de inventar a unui imobil înscris în domeniul public al statului şi în administrarea Serviciului de Informaţii Externe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87690",
+   "versions": [
+    {
+     "from": "2007-12-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87690",
+     "sha256": "d7d09540c278863097fc6130e49fb5066a7ed80baad988b32b166d00687d4048"
     }
    ]
   },
@@ -133769,6 +134222,21 @@
    ]
   },
   {
+   "slug": "hg-1455-2007",
+   "path": "hg/2007/1455",
+   "short": "HG nr. 1455/2007",
+   "title": "Hotărârea Guvernului nr. 1455/2007 pentru aprobarea Acordului dintre Ministerul Justiţiei din România şi Ministerul Justiţiei din Republica Italiană privind schimbul magistraţilor de legătură, semnat la Benevento la 17 noiembrie 2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87720",
+   "versions": [
+    {
+     "from": "2007-12-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87720",
+     "sha256": "a2d589cf177ef11bdc47a01f0e2a928b2e3dfe69b377ecaecc0d196f53bc1e1d"
+    }
+   ]
+  },
+  {
    "slug": "hg-1455-2008",
    "path": "hg/2008/1455",
    "short": "HG nr. 1455/2008",
@@ -133799,6 +134267,21 @@
    ]
   },
   {
+   "slug": "hg-1456-2007",
+   "path": "hg/2007/1456",
+   "short": "HG nr. 1456/2007",
+   "title": "Hotărârea Guvernului nr. 1456/2007 privind transmiterea unor imobile din domeniul public al statului şi din administrarea Ministerului Culturii şi Cultelor în domeniul public al judeţului Alba şi în administrarea Consiliului Judeţean Alba, judeţul Alba",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87845",
+   "versions": [
+    {
+     "from": "2007-12-13",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87845",
+     "sha256": "644a2a47cb6e536f1d27a1e6febdbd98affed19153412d5da9ccda81fd857615"
+    }
+   ]
+  },
+  {
    "slug": "hg-1456-2008",
    "path": "hg/2008/1456",
    "short": "HG nr. 1456/2008",
@@ -133825,6 +134308,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/262807",
      "sha256": "7fa91c7355037093592bc908d720864dc6af4617fd70f3987c2e184c85281f23"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1457-2007",
+   "path": "hg/2007/1457",
+   "short": "HG nr. 1457/2007",
+   "title": "Hotărârea Guvernului nr. 1457/2007 privind repartizarea pe proiecte a sumelor defalcate din taxa pe valoarea adăugată pentru finanţarea Programului de dezvoltare a infrastructurii şi a unor baze sportive din spaţiul rural",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87651",
+   "versions": [
+    {
+     "from": "2007-12-07",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87651",
+     "sha256": "4da81d6c56f08ad94b46af0fc61c71c5866d2499a8534b604613f55898152ad4"
     }
    ]
   },
@@ -133870,6 +134368,21 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/291338",
      "sha256": "143fec9e54dd098a1ecc72ed19dab5c2ad342b01aa4b28eba4d09b540a6fc7c3"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1458-2007",
+   "path": "hg/2007/1458",
+   "short": "HG nr. 1458/2007",
+   "title": "Hotărârea Guvernului nr. 1458/2007 privind alocarea unei sume din Fondul de intervenţie la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2007, pentru înlăturarea efectelor calamităţilor naturale produse în judeţele Braşov, Galaţi, Maramureş, Olt, Tulcea şi Vrancea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87707",
+   "versions": [
+    {
+     "from": "2007-12-10",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87707",
+     "sha256": "835ad9eea50889086fd3dd74658aa17e5f6694db0bddef9031f48dbf701cefa9"
     }
    ]
   },
@@ -134015,6 +134528,21 @@
    ]
   },
   {
+   "slug": "hg-1460-2007",
+   "path": "hg/2007/1460",
+   "short": "HG nr. 1460/2007",
+   "title": "Hotărârea Guvernului nr. 1460/2007 privind trecerea domnului Renga Radu din funcţia publică de subprefect al judeţului Vâlcea în funcţia publică de prefect al judeţului Vâlcea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87664",
+   "versions": [
+    {
+     "from": "2007-12-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87664",
+     "sha256": "22c964ccb1a182ee9a4fd0c3fe78878eae62e3315254e59e90362ed30870bda8"
+    }
+   ]
+  },
+  {
    "slug": "hg-1460-2022",
    "path": "hg/2022/1460",
    "short": "HG nr. 1460/2022",
@@ -134111,6 +134639,21 @@
    ]
   },
   {
+   "slug": "hg-1463-2007",
+   "path": "hg/2007/1463",
+   "short": "HG nr. 1463/2007",
+   "title": "Hotărârea Guvernului nr. 1463/2007 pentru modificarea şi completarea Hotărârii Guvernului nr. 826/2007 pentru repartizarea pe destinaţii a sumelor aprobate Ministerului Sănătăţii Publice prin Ordonanţa de urgenţă a Guvernului nr. 78/2007 cu privire la rectificarea bugetului de stat pe anul 2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87624",
+   "versions": [
+    {
+     "from": "2007-12-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87624",
+     "sha256": "38bcd85fbd5472a02a675af96b3c89c42eab1080faf212377d388ecfa365a55d"
+    }
+   ]
+  },
+  {
    "slug": "hg-1463-2008",
    "path": "hg/2008/1463",
    "short": "HG nr. 1463/2008",
@@ -134137,6 +134680,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/262890",
      "sha256": "6911c58fe8a5cc4ebbcc4861fe5b4515ec0d789b430fee4f41c22b4c1fc2ef39"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1464-2007",
+   "path": "hg/2007/1464",
+   "short": "HG nr. 1464/2007",
+   "title": "Hotărârea Guvernului nr. 1464/2007 privind modificarea Hotărârii Guvernului nr. 292/2007 pentru aprobarea programelor naţionale de sănătate în anul 2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87714",
+   "versions": [
+    {
+     "from": "2007-12-10",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87714",
+     "sha256": "c2219c2f23a83a98b2ef26d2fcbca071b62c3f6baaaeb1a828348c06496a008f"
     }
    ]
   },
@@ -134171,6 +134729,21 @@
    ]
   },
   {
+   "slug": "hg-1465-2007",
+   "path": "hg/2007/1465",
+   "short": "HG nr. 1465/2007",
+   "title": "Hotărârea Guvernului nr. 1465/2007 pentru abrogarea art. 4 din Hotărârea Guvernului nr. 1.354/2007 privind suplimentarea bugetului Consiliului Naţional pentru Studierea Arhivelor Securităţii din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2007, în vederea finanţării unor cheltuieli de capital",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87674",
+   "versions": [
+    {
+     "from": "2007-12-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87674",
+     "sha256": "a9ac0aaf0508d15e33ec3056e980f0bb820858d5f6cb965eef7707f41b282878"
+    }
+   ]
+  },
+  {
    "slug": "hg-1465-2008",
    "path": "hg/2008/1465",
    "short": "HG nr. 1465/2008",
@@ -134197,6 +134770,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/262403",
      "sha256": "211d05c844f69bb462ddcc4145f4e931bf6c2355f4d9d241a7e25bc9a0223cd2"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1466-2007",
+   "path": "hg/2007/1466",
+   "short": "HG nr. 1466/2007",
+   "title": "Hotărârea Guvernului nr. 1466/2007 pentru modificarea anexei la Hotărârea Guvernului nr. 763/2007 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2007, pentru judeţul Tulcea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87750",
+   "versions": [
+    {
+     "from": "2007-12-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87750",
+     "sha256": "c4ec8078d1d9594a202477828300b2226a1c15f74846bfade71716a160dc4782"
     }
    ]
   },
@@ -134293,6 +134881,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/66654",
      "sha256": "5109aa3a0eb4f7291be1682cfc6c3ecaa07764c34338548be052f8fc0e6c130d"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1469-2007",
+   "path": "hg/2007/1469",
+   "short": "HG nr. 1469/2007",
+   "title": "Hotărârea Guvernului nr. 1469/2007 privind suplimentarea bugetului Ministerului Transporturilor din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87716",
+   "versions": [
+    {
+     "from": "2007-12-10",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87716",
+     "sha256": "6258e0f2285b807e7d1a97491eb8a72c5c87cae2f1d4d37dd1640ad868a24069"
     }
    ]
   },
@@ -134570,6 +135173,21 @@
    ]
   },
   {
+   "slug": "hg-1471-2007",
+   "path": "hg/2007/1471",
+   "short": "HG nr. 1471/2007",
+   "title": "Hotărârea Guvernului nr. 1471/2007 pentru modificarea art. 1 din Hotărârea Guvernului nr. 1.320/2007 privind preluarea instrumentelor de comunicare ale Delegaţiei Comisiei Europene în România de către Departamentul pentru Afaceri Europene",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87760",
+   "versions": [
+    {
+     "from": "2007-12-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87760",
+     "sha256": "77dadbd234e2b9274b2d78e068511282860fc9d0ad479ad63a1106126b31b08b"
+    }
+   ]
+  },
+  {
    "slug": "hg-1471-2008",
    "path": "hg/2008/1471",
    "short": "HG nr. 1471/2008",
@@ -134596,6 +135214,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/262883",
      "sha256": "a4dcc2f9d29fb2707e8d7f2a6b35f42fe97305eddaf407deb755a64b41497edc"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1472-2007",
+   "path": "hg/2007/1472",
+   "short": "HG nr. 1472/2007",
+   "title": "Hotărârea Guvernului nr. 1472/2007 privind rechemarea şi numirea unui consul general",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87761",
+   "versions": [
+    {
+     "from": "2007-12-12",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87761",
+     "sha256": "93cbe177ddf650eb6a93c338d5afc583a8c0c7b2caab48fcb682855660e627be"
     }
    ]
   },
@@ -134630,6 +135263,21 @@
    ]
   },
   {
+   "slug": "hg-1473-2007",
+   "path": "hg/2007/1473",
+   "short": "HG nr. 1473/2007",
+   "title": "Hotărârea Guvernului nr. 1473/2007 privind rechemarea şi numirea unui consul general",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87762",
+   "versions": [
+    {
+     "from": "2007-12-12",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87762",
+     "sha256": "0db30b5f1cc7ff887a172c56f1589432af9ac39db35db520458b5c048b119f21"
+    }
+   ]
+  },
+  {
    "slug": "hg-1473-2008",
    "path": "hg/2008/1473",
    "short": "HG nr. 1473/2008",
@@ -134660,6 +135308,21 @@
    ]
   },
   {
+   "slug": "hg-1474-2007",
+   "path": "hg/2007/1474",
+   "short": "HG nr. 1474/2007",
+   "title": "Hotărârea Guvernului nr. 1474/2007 privind rechemarea şi numirea unui consul general",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87764",
+   "versions": [
+    {
+     "from": "2007-12-12",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87764",
+     "sha256": "a654aa089eb0ca6073ca0c239e39e6e7c65431f727dfda7103d5a10505ffa73f"
+    }
+   ]
+  },
+  {
    "slug": "hg-1474-2008",
    "path": "hg/2008/1474",
    "short": "HG nr. 1474/2008",
@@ -134686,6 +135349,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/262514",
      "sha256": "800c32c209c99374b003ca37516e82edac601a47f337ee9758af0b152ea70327"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1475-2007",
+   "path": "hg/2007/1475",
+   "short": "HG nr. 1475/2007",
+   "title": "Hotărârea Guvernului nr. 1475/2007 pentru abrogarea Hotărârii Guvernului nr. 174/2007 privind numirea unui consul general",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87765",
+   "versions": [
+    {
+     "from": "2007-12-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87765",
+     "sha256": "30eade5d7279f1676530cc594850a832ce1e70f70e7fc2fb0e7fd3203641252d"
     }
    ]
   },
@@ -134750,6 +135428,21 @@
    ]
   },
   {
+   "slug": "hg-1476-2007",
+   "path": "hg/2007/1476",
+   "short": "HG nr. 1476/2007",
+   "title": "Hotărârea Guvernului nr. 1476/2007 privind constatarea încetării de drept a raportului de serviciu al doamnei Deaconu Lelioara, subprefect al judeţului Gorj",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87718",
+   "versions": [
+    {
+     "from": "2007-12-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87718",
+     "sha256": "d5d15bbb3fb8828ba0a512004721786e40e74cebb4d2b247a2d3e3f23a0e03bd"
+    }
+   ]
+  },
+  {
    "slug": "hg-1476-2008",
    "path": "hg/2008/1476",
    "short": "HG nr. 1476/2008",
@@ -134804,6 +135497,21 @@
    ]
   },
   {
+   "slug": "hg-1478-2007",
+   "path": "hg/2007/1478",
+   "short": "HG nr. 1478/2007",
+   "title": "Hotărârea Guvernului nr. 1478/2007 privind darea în administrarea Ministerului Transporturilor a unor terenuri proprietate publică a statului, în vederea realizării de către Compania Naţională de Autostrăzi şi Drumuri Naţionale - S.A. a obiectivului de interes naţional \"Sporirea capacităţii de circulaţie pe Centura Ploieşti Vest km 0+000 - km 12+850\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87806",
+   "versions": [
+    {
+     "from": "2007-12-12",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87806",
+     "sha256": "5fff920e0214fd450bbddfba1698405c1cd1f051d4e7c712e8ff35121394fdc7"
+    }
+   ]
+  },
+  {
    "slug": "hg-1478-2008",
    "path": "hg/2008/1478",
    "short": "HG nr. 1478/2008",
@@ -134815,6 +135523,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/99650",
      "sha256": "57821eddf7ba2f41da10f59cb654c6c470fe56f84395117e55212bf97411bb41"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1479-2007",
+   "path": "hg/2007/1479",
+   "short": "HG nr. 1479/2007",
+   "title": "Hotărârea Guvernului nr. 1479/2007 privind completarea Hotărârii Guvernului nr. 1.097/2007 pentru aprobarea participării Ministerului Apărării la Organizaţia NATO de Management al Transportului Aerian şi oferirea spre utilizare a Aeroportului Internaţional Mihail Kogălniceanu ca bază operaţională principală pentru Capabilitatea de transport strategic aerian",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87798",
+   "versions": [
+    {
+     "from": "2007-12-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87798",
+     "sha256": "fd12511549c7bb2ad023fb2565c53f9deea287db67e2f08fe3c0b4b3abe34380"
     }
    ]
   },
@@ -134981,6 +135704,21 @@
    ]
   },
   {
+   "slug": "hg-1480-2007",
+   "path": "hg/2007/1480",
+   "short": "HG nr. 1480/2007",
+   "title": "Hotărârea Guvernului nr. 1480/2007 privind transmiterea unor terenuri în suprafaţă totală de 64.517,564 mp, aflate în proprietatea publică a statului, din administrarea Regiei Naţionale a Pădurilor - Romsilva în administrarea Ministerului Transporturilor, în vederea realizării activităţilor de interes naţional de către Compania Naţională de Autostrăzi şi Drumuri Naţionale din România - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87807",
+   "versions": [
+    {
+     "from": "2007-12-12",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87807",
+     "sha256": "6d006c3d56e22ef78157925a97aa9f9e32a60556f60fcde11d1979566380a2c9"
+    }
+   ]
+  },
+  {
    "slug": "hg-1480-2008",
    "path": "hg/2008/1480",
    "short": "HG nr. 1480/2008",
@@ -135026,6 +135764,21 @@
    ]
   },
   {
+   "slug": "hg-1482-2007",
+   "path": "hg/2007/1482",
+   "short": "HG nr. 1482/2007",
+   "title": "Hotărârea Guvernului nr. 1482/2007 privind preluarea unui sector de drum naţional, proprietate publică a statului, din administrarea Consiliului Local al Municipiului Bistriţa, judeţul Bistriţa-Năsăud, în administrarea Ministerului Transporturilor, în vederea realizării de către Compania Naţională de Autostrăzi şi Drumuri Naţionale din România - S.A. a activităţilor de interes naţional în domeniul administrării drumurilor naţionale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87800",
+   "versions": [
+    {
+     "from": "2007-12-12",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87800",
+     "sha256": "73aa229f8d733d223e769343c0208279a58b6827ce8cb725c9cacd94ea51e900"
+    }
+   ]
+  },
+  {
    "slug": "hg-1482-2008",
    "path": "hg/2008/1482",
    "short": "HG nr. 1482/2008",
@@ -135052,6 +135805,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/291424",
      "sha256": "2de0402d53a176cdeffdc6815289350256a067beb3f38ad1d5200dfcd4b43835"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1483-2007",
+   "path": "hg/2007/1483",
+   "short": "HG nr. 1483/2007",
+   "title": "Hotărârea Guvernului nr. 1483/2007 pentru modificarea Hotărârii Guvernului nr. 1.211/2001 privind înfiinţarea Fondului Naţional de Garantare a Creditelor pentru Întreprinderile Mici şi Mijlocii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87931",
+   "versions": [
+    {
+     "from": "2007-12-17",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87931",
+     "sha256": "4f559939101f795d70908d0511489ec03ba560c46a063e59e7a6957be7c03a1c"
     }
    ]
   },
@@ -135161,6 +135929,21 @@
    ]
   },
   {
+   "slug": "hg-1487-2007",
+   "path": "hg/2007/1487",
+   "short": "HG nr. 1487/2007",
+   "title": "Hotărârea Guvernului nr. 1487/2007 pentru modificarea art. 15 lit. a) din Hotărârea Guvernului nr. 284/2005 privind stabilirea cuantumului şi condiţiilor de acordare a compensaţiei lunare pentru chirie cuvenite poliţiştilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87836",
+   "versions": [
+    {
+     "from": "2007-12-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87836",
+     "sha256": "fd0d37da21cd22618bc9138c914e097c929c7f3671de4123b494c782c60b27c0"
+    }
+   ]
+  },
+  {
    "slug": "hg-1487-2008",
    "path": "hg/2008/1487",
    "short": "HG nr. 1487/2008",
@@ -135215,6 +135998,21 @@
    ]
   },
   {
+   "slug": "hg-1488-2007",
+   "path": "hg/2007/1488",
+   "short": "HG nr. 1488/2007",
+   "title": "Hotărârea Guvernului nr. 1488/2007 privind modificarea anexelor nr. 1 şi 2 la Hotărârea Guvernului nr. 831/2007 pentru aprobarea declasificării unor documente aflate în arhiva Agenţiei Naţionale de Cadastru şi Publicitate Imobiliară şi a instituţiilor sale subordonate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87936",
+   "versions": [
+    {
+     "from": "2007-12-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87936",
+     "sha256": "8d57b4b69bdbf5aa9d67c417012ee6046d631347114525b21f3e69539278a5a9"
+    }
+   ]
+  },
+  {
    "slug": "hg-1488-2022",
    "path": "hg/2022/1488",
    "short": "HG nr. 1488/2022",
@@ -135256,6 +136054,21 @@
      "units": 12,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/55468",
      "sha256": "57ed5544a71f8384bced2e31e068beeed705c0764f9559eeb90cca3c51042aeb"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1489-2007",
+   "path": "hg/2007/1489",
+   "short": "HG nr. 1489/2007",
+   "title": "Hotărârea Guvernului nr. 1489/2007 privind modificarea anexei nr. 3 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87766",
+   "versions": [
+    {
+     "from": "2007-12-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87766",
+     "sha256": "43165e109bd084f692ab0fddc9dfb5b4d04aea631ea655f72a0b9fb7edf46661"
     }
    ]
   },
@@ -135461,6 +136274,21 @@
    ]
   },
   {
+   "slug": "hg-1492-2007",
+   "path": "hg/2007/1492",
+   "short": "HG nr. 1492/2007",
+   "title": "Hotărârea Guvernului nr. 1492/2007 privind transmiterea unui teren din domeniul public al statului şi din administrarea Agenţiei Domeniilor Statului în domeniul public al municipiului Giurgiu şi în administrarea Consiliului Local al Municipiului Giurgiu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87850",
+   "versions": [
+    {
+     "from": "2007-12-13",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87850",
+     "sha256": "3c1c821da2f545c372505f75e1eed3658a8509ebc166d1c8c08468a6b0ef5f43"
+    }
+   ]
+  },
+  {
    "slug": "hg-1492-2022",
    "path": "hg/2022/1492",
    "short": "HG nr. 1492/2022",
@@ -135536,6 +136364,21 @@
    ]
   },
   {
+   "slug": "hg-1494-2007",
+   "path": "hg/2007/1494",
+   "short": "HG nr. 1494/2007",
+   "title": "Hotărârea Guvernului nr. 1494/2007 privind transmiterea unui imobil din domeniul privat al statului şi din administrarea Ministerului Internelor şi Reformei Administrative în domeniul privat al comunei Truşeşti şi în administrarea Consiliului Local al Comunei Truşeşti, judeţul Botoşani",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87851",
+   "versions": [
+    {
+     "from": "2007-12-13",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87851",
+     "sha256": "4afd47628026cc2f53563f18ed6659bd3fac92e8f8c959376c827d58c538ea0f"
+    }
+   ]
+  },
+  {
    "slug": "hg-1494-2008",
    "path": "hg/2008/1494",
    "short": "HG nr. 1494/2008",
@@ -135577,6 +136420,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/291409",
      "sha256": "5ceec372a8e39e3ae3d06b29a4b31480901192a9ded449a1d9c77f5257b2959d"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1495-2007",
+   "path": "hg/2007/1495",
+   "short": "HG nr. 1495/2007",
+   "title": "Hotărârea Guvernului nr. 1495/2007 privind aprobarea încadrării în categoria funcţională a drumurilor comunale şi judeţene a unor drumuri de interes local, precum şi modificarea lungimii unor drumuri comunale existente, situate în judeţul Argeş",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87882",
+   "versions": [
+    {
+     "from": "2007-12-13",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87882",
+     "sha256": "aa5b4a4c5914345b9318eb7c47978031604742de9c4f51074666d0c0fff7a0e2"
     }
    ]
   },
@@ -135701,6 +136559,21 @@
    ]
   },
   {
+   "slug": "hg-1498-2007",
+   "path": "hg/2007/1498",
+   "short": "HG nr. 1498/2007",
+   "title": "Hotărârea Guvernului nr. 1498/2007 privind darea în administrarea Ministerului Muncii, Familiei şi Egalităţii de Şanse - Agenţia Judeţeană pentru Ocuparea Forţei de Muncă Mureş a unor bunuri imobile proprietate publică a statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87849",
+   "versions": [
+    {
+     "from": "2007-12-13",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87849",
+     "sha256": "011e61ef55af431f2ad9bee32d4a4acb752fd155f37ae3efaaa64aea7874f5a8"
+    }
+   ]
+  },
+  {
    "slug": "hg-1498-2008",
    "path": "hg/2008/1498",
    "short": "HG nr. 1498/2008",
@@ -135742,6 +136615,21 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/291413",
      "sha256": "d82de06bb3d83ab740c56d0e24a5ced1764ebcaac4a2ebec907d4667268162ba"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1499-2007",
+   "path": "hg/2007/1499",
+   "short": "HG nr. 1499/2007",
+   "title": "Hotărârea Guvernului nr. 1499/2007 pentru modificarea Hotărârii Guvernului nr. 1.002/2003 privind constituirea Comisiei pentru coordonarea privatizării societăţilor comerciale de distribuţie a gazelor naturale \"Distrigaz Sud\" - S.A. Bucureşti şi \"Distrigaz Nord\" - S.A. Târgu Mureş",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87929",
+   "versions": [
+    {
+     "from": "2007-12-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87929",
+     "sha256": "6e7d762aa3e8406c8c8e53b0f170baecd1ae9c729da3baa7c0b804f6479474a2"
     }
    ]
   },
@@ -135917,6 +136805,21 @@
    ]
   },
   {
+   "slug": "hg-1500-2007",
+   "path": "hg/2007/1500",
+   "short": "HG nr. 1500/2007",
+   "title": "Hotărârea Guvernului nr. 1500/2007 privind unele măsuri pentru realizarea programelor multianuale prioritare de mediu şi gospodărire a apelor, ce conţin obiective de investiţii în infrastructura de mediu, pentru realizarea proiectelor de investiţii în vederea atingerii standardelor necesare autorizării grădinilor zoologice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87932",
+   "versions": [
+    {
+     "from": "2007-12-17",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87932",
+     "sha256": "a7eb48879c77e67ded63b1883f29957b2feab6edffb468f0b7c29b2e2c7e6432"
+    }
+   ]
+  },
+  {
    "slug": "hg-1500-2008",
    "path": "hg/2008/1500",
    "short": "HG nr. 1500/2008",
@@ -135992,6 +136895,21 @@
    ]
   },
   {
+   "slug": "hg-1503-2007",
+   "path": "hg/2007/1503",
+   "short": "HG nr. 1503/2007",
+   "title": "Hotărârea Guvernului nr. 1503/2007 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2007, pentru acordarea de daruri cu ocazia sărbătorii Crăciunului şi a Anului Nou",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87837",
+   "versions": [
+    {
+     "from": "2007-12-13",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87837",
+     "sha256": "c3fb857e4cdbce6d3d101455e8c8a0ab9544f58ccdeb23fedb012ca233cf4593"
+    }
+   ]
+  },
+  {
    "slug": "hg-1503-2008",
    "path": "hg/2008/1503",
    "short": "HG nr. 1503/2008",
@@ -136022,6 +136940,36 @@
    ]
   },
   {
+   "slug": "hg-1504-2007",
+   "path": "hg/2007/1504",
+   "short": "HG nr. 1504/2007",
+   "title": "Hotărârea Guvernului nr. 1504/2007 privind exercitarea, cu caracter temporar, a funcţiei publice de subprefect al judeţului Cluj de către domnul Hegedus Ludovic-Andrei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87838",
+   "versions": [
+    {
+     "from": "2007-12-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87838",
+     "sha256": "e1078187f481ea30907ad755e8663a525b532a068418304a853a3a1b01448111"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1505-2007",
+   "path": "hg/2007/1505",
+   "short": "HG nr. 1505/2007",
+   "title": "Hotărârea Guvernului nr. 1505/2007 pentru modificarea art. 1 alin. (2) din Hotărârea Guvernului nr. 557/2006 privind stabilirea datei de la care se pun în circulaţie paşapoartele electronice, precum şi a formei şi conţinutului acestora şi pentru modificarea art. 2^1 alin. (3) din Hotărârea Guvernului nr. 1.016/2003 privind stabilirea formei şi conţinutului permiselor de şedere şi ale documentelor de călătorie care se eliberează străinilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87839",
+   "versions": [
+    {
+     "from": "2007-12-13",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87839",
+     "sha256": "77e04a458104fdf8deea273c4a1092a128ecd615331ddb3b7b743ead9c0c133c"
+    }
+   ]
+  },
+  {
    "slug": "hg-1505-2024",
    "path": "hg/2024/1505",
    "short": "HG nr. 1505/2024",
@@ -136033,6 +136981,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/291937",
      "sha256": "d9f27799051205083a9d59eada553fd2a58bc661c0656899154c5aa02cc41f16"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1506-2007",
+   "path": "hg/2007/1506",
+   "short": "HG nr. 1506/2007",
+   "title": "Hotărârea Guvernului nr. 1506/2007 privind abilitarea Ministerului Internelor şi Reformei Administrative de a gestiona fondurile acordate României prin Programul general \"Solidaritatea şi gestionarea fluxurilor migratorii\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87977",
+   "versions": [
+    {
+     "from": "2007-12-18",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87977",
+     "sha256": "506b66bdd78ffc75bf6242d707abcb193addf7beaedf79293b516ead40563174"
     }
    ]
   },
@@ -136067,6 +137030,21 @@
    ]
   },
   {
+   "slug": "hg-1508-2007",
+   "path": "hg/2007/1508",
+   "short": "HG nr. 1508/2007",
+   "title": "Hotărârea Guvernului nr. 1508/2007 privind suplimentarea bugetului Ministerului Culturii şi Cultelor pe anul 2007, din Fondul de rezervă bugetară la dispoziţia Guvernului, pentru Arhiepiscopia Ortodoxă Română din Alba Iulia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87841",
+   "versions": [
+    {
+     "from": "2007-12-13",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87841",
+     "sha256": "d7e0e61dfa46f9c865ea3cc7760ed6c5c213c9130b188db9f0b9613259f7fadf"
+    }
+   ]
+  },
+  {
    "slug": "hg-1508-2022",
    "path": "hg/2022/1508",
    "short": "HG nr. 1508/2022",
@@ -136093,6 +137071,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/292030",
      "sha256": "41f7c99821c7f783b3c8681229e2c216d58ec0315748e784956a0206c2a3de5a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1509-2007",
+   "path": "hg/2007/1509",
+   "short": "HG nr. 1509/2007",
+   "title": "Hotărârea Guvernului nr. 1509/2007 pentru modificarea Hotărârii Guvernului nr. 985/2007 privind aprobarea cuantumului plăţilor naţionale directe complementare în sectorul zootehnic pentru anul 2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87954",
+   "versions": [
+    {
+     "from": "2007-12-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87954",
+     "sha256": "572a3c16cfdc97a725c03f39148530ea63868c7eeae4fe2286548664585b6c64"
     }
    ]
   },
@@ -136249,6 +137242,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/292061",
      "sha256": "96098d06988f1696a241f89e114608b81485b5a5586f097189bd32dc962d1854"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1511-2007",
+   "path": "hg/2007/1511",
+   "short": "HG nr. 1511/2007",
+   "title": "Hotărârea Guvernului nr. 1511/2007 pentru stabilirea zilei de 24 decembrie 2007 ca zi liberă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87840",
+   "versions": [
+    {
+     "from": "2007-12-13",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87840",
+     "sha256": "29709da957e2d90e3ad59c36c8c39fd1a899065950c17302e2705998b919aa24"
     }
    ]
   },
@@ -136439,6 +137447,21 @@
    ]
   },
   {
+   "slug": "hg-1515-2007",
+   "path": "hg/2007/1515",
+   "short": "HG nr. 1515/2007",
+   "title": "Hotărârea Guvernului nr. 1515/2007 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Reabilitarea staţiei de repompare SRP Fântânele din sistemul de irigaţii Fântânele Şagu, judeţul Arad\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/88000",
+   "versions": [
+    {
+     "from": "2007-12-19",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/88000",
+     "sha256": "b0113d241b6592bad374b4da330b4a38d628ad7af5d729161faea76a5d1462f9"
+    }
+   ]
+  },
+  {
    "slug": "hg-1515-2024",
    "path": "hg/2024/1515",
    "short": "HG nr. 1515/2024",
@@ -136495,6 +137518,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/291466",
      "sha256": "e00c6e12a27b010bf30e5af8490dfbd6c396058d0f66b6ec4c5173b34dc8ca8a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1517-2007",
+   "path": "hg/2007/1517",
+   "short": "HG nr. 1517/2007",
+   "title": "Hotărârea Guvernului nr. 1517/2007 privind trecerea din domeniul public al statului în domeniul privat al acestuia a unor construcţii aflate în administrarea Ministerului Agriculturii şi Dezvoltării Rurale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87981",
+   "versions": [
+    {
+     "from": "2007-12-18",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87981",
+     "sha256": "4f0a97de6cfeddfde30f2be26d32e1becb9c81592cff2ff5cc08ed31d30621af"
     }
    ]
   },
@@ -136679,6 +137717,21 @@
    ]
   },
   {
+   "slug": "hg-1520-2007",
+   "path": "hg/2007/1520",
+   "short": "HG nr. 1520/2007",
+   "title": "Hotărârea Guvernului nr. 1520/2007 privind transmiterea unui teren, situat în municipiul Bucureşti, proprietate privată a statului, din administrarea Ministerului Dezvoltării, Lucrărilor Publice şi Locuinţelor în administrarea Companiei de Proiect, Societatea Comercială \"Dâmboviţa Center\" - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/88003",
+   "versions": [
+    {
+     "from": "2007-12-19",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/88003",
+     "sha256": "b77bce1e6373f5bb37fedae230fbdc8b3e5df377410c9f8cece89a10d5f15530"
+    }
+   ]
+  },
+  {
    "slug": "hg-1520-2008",
    "path": "hg/2008/1520",
    "short": "HG nr. 1520/2008",
@@ -136720,6 +137773,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/291972",
      "sha256": "f2d26c2bf9ce97b608c696244f3b7cd97d7c6b5e0aaafae554aec6fecfc0ff74"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1521-2007",
+   "path": "hg/2007/1521",
+   "short": "HG nr. 1521/2007",
+   "title": "Hotărârea Guvernului nr. 1521/2007 pentru aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Sală de sport 1.500 locuri\", municipiul Călăraşi, str. Alexandru Sahia nr. 1, judeţul Călăraşi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/88004",
+   "versions": [
+    {
+     "from": "2007-12-19",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/88004",
+     "sha256": "7b416df233f19db944507a9fd8285b33226f9b9802204b66b87008746c48985b"
     }
    ]
   },
@@ -136861,6 +137929,21 @@
      "units": 11,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/41108",
      "sha256": "3af544b169f811bf0ee5343a64493784cf827fefe9f13aadce8091c967edcbe8"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1525-2007",
+   "path": "hg/2007/1525",
+   "short": "HG nr. 1525/2007",
+   "title": "Hotărârea Guvernului nr. 1525/2007 privind transmiterea unui imobil din domeniul privat al statului şi din administrarea Regiei Autonome \"Administraţia Patrimoniului Protocolului de Stat\" în domeniul public al statului şi în administrarea Ministerului Muncii, Familiei şi Egalităţii de Şanse",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87988",
+   "versions": [
+    {
+     "from": "2007-12-18",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87988",
+     "sha256": "9516298f291e649696d2ab6c60fe84188ea6b6aa8ba72e9276d0ed579ac28563"
     }
    ]
   },
@@ -137135,6 +138218,21 @@
    ]
   },
   {
+   "slug": "hg-1530-2007",
+   "path": "hg/2007/1530",
+   "short": "HG nr. 1530/2007",
+   "title": "Hotărârea Guvernului nr. 1530/2007 pentru aprobarea normelor metodologice de aplicare a Legii nr. 312/2003 privind producerea şi valorificarea legumelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/88044",
+   "versions": [
+    {
+     "from": "2008-01-19",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/88044",
+     "sha256": "a293ffd97f40acc64a3ca7e6fb933a5b84b672b2dc1ac2ecd74e788ed0af0050"
+    }
+   ]
+  },
+  {
    "slug": "hg-1530-2008",
    "path": "hg/2008/1530",
    "short": "HG nr. 1530/2008",
@@ -137161,6 +138259,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/262926",
      "sha256": "643c0f6ed5723ccd7154c0b38f275fcbf0001b93d3272c6cd7c392bf2454f0f5"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1531-2007",
+   "path": "hg/2007/1531",
+   "short": "HG nr. 1531/2007",
+   "title": "Hotărârea Guvernului nr. 1531/2007 privind trecerea din domeniul public al statului în domeniul privat al acestuia a unor construcţii aflate în administrarea Serviciului Român de Informaţii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/88053",
+   "versions": [
+    {
+     "from": "2007-12-20",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/88053",
+     "sha256": "462564380a43c71752e266d608266471f9de84b4f9786f2a99e47e765b07a555"
     }
    ]
   },
@@ -137210,6 +138323,21 @@
    ]
   },
   {
+   "slug": "hg-1533-2007",
+   "path": "hg/2007/1533",
+   "short": "HG nr. 1533/2007",
+   "title": "Hotărârea Guvernului nr. 1533/2007 privind trecerea unui imobil din domeniul public al statului şi din administrarea Serviciului Român de Informaţii în domeniul privat al statului şi punerea acestuia la dispoziţia Serviciului Român de Informaţii, în scopul restituirii către persoanele îndreptăţite",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/88082",
+   "versions": [
+    {
+     "from": "2007-12-20",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/88082",
+     "sha256": "4ab96d02a331d9d0ba242665cb160f23c26d33ffd9e1dd074cc10dd41c9e89d1"
+    }
+   ]
+  },
+  {
    "slug": "hg-1533-2008",
    "path": "hg/2008/1533",
    "short": "HG nr. 1533/2008",
@@ -137236,6 +138364,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/262929",
      "sha256": "94e0a8268124dea763be7cf17e990d06d66489e2cbe412d649b397d88b1e28e8"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1534-2007",
+   "path": "hg/2007/1534",
+   "short": "HG nr. 1534/2007",
+   "title": "Hotărârea Guvernului nr. 1534/2007 privind modificarea şi completarea Hotărârii Guvernului nr. 1.842/2006 pentru aprobarea Contractului-cadru privind condiţiile acordării asistenţei medicale în cadrul sistemului de asigurări sociale de sănătate pentru anul 2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/88045",
+   "versions": [
+    {
+     "from": "2007-12-20",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/88045",
+     "sha256": "552b311d04ffb9f5d170bb4ce6a80075af2fd632e7f9df44bb84bec5c512d1e0"
     }
    ]
   },
@@ -137540,6 +138683,21 @@
    ]
   },
   {
+   "slug": "hg-1541-2007",
+   "path": "hg/2007/1541",
+   "short": "HG nr. 1541/2007",
+   "title": "Hotărârea Guvernului nr. 1541/2007 pentru modificarea art. 2 din Hotărârea Guvernului nr. 835/2007 privind autorizarea Ministerului Sănătăţii Publice de a finanţa achiziţionarea unui sistem informatic de înaltă performanţă, din venituri proprii, şi pentru abrogarea unor dispoziţii ale Hotărârii Guvernului nr. 1.079/2000 privind autorizarea Ministerului Finanţelor de a garanta un credit extern pentru Ministerul Sănătăţii, în vederea finanţării achiziţionării de sisteme informatice de înaltă performanţă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/88065",
+   "versions": [
+    {
+     "from": "2007-12-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/88065",
+     "sha256": "9620f4c49ce93385a60a8d40dd186425f391ba18a88278aec5d0e75bef71dba5"
+    }
+   ]
+  },
+  {
    "slug": "hg-1541-2008",
    "path": "hg/2008/1541",
    "short": "HG nr. 1541/2008",
@@ -137630,6 +138788,21 @@
    ]
   },
   {
+   "slug": "hg-1544-2007",
+   "path": "hg/2007/1544",
+   "short": "HG nr. 1544/2007",
+   "title": "Hotărârea Guvernului nr. 1544/2007 pentru modificarea anexei la Hotărârea Guvernului nr. 1.393/2007 privind alocarea unor sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2007, pentru asigurarea unor cheltuieli curente şi de capital ale autorităţilor administraţiei publice locale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/88081",
+   "versions": [
+    {
+     "from": "2007-12-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/88081",
+     "sha256": "5cd75125f40c97032708c2418846a598328f13dfa8e4b0545c615fd358721e1e"
+    }
+   ]
+  },
+  {
    "slug": "hg-1544-2008",
    "path": "hg/2008/1544",
    "short": "HG nr. 1544/2008",
@@ -137690,6 +138863,21 @@
    ]
   },
   {
+   "slug": "hg-1546-2007",
+   "path": "hg/2007/1546",
+   "short": "HG nr. 1546/2007",
+   "title": "Hotărârea Guvernului nr. 1546/2007 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2007, pentru judeţul Călăraşi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/88069",
+   "versions": [
+    {
+     "from": "2007-12-20",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/88069",
+     "sha256": "5a1cc6d1c6b38e79579e923db10f24aab7b89ce78620327b0835de12d5d8fb32"
+    }
+   ]
+  },
+  {
    "slug": "hg-1546-2008",
    "path": "hg/2008/1546",
    "short": "HG nr. 1546/2008",
@@ -137731,6 +138919,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/55777",
      "sha256": "82b14acafceedeb6cbbc9b0f0edb934a2bdc2b4e013782f922c51acca35d2bbb"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1547-2007",
+   "path": "hg/2007/1547",
+   "short": "HG nr. 1547/2007",
+   "title": "Hotărârea Guvernului nr. 1547/2007 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2007, pentru judeţul Suceava",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/88070",
+   "versions": [
+    {
+     "from": "2007-12-20",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/88070",
+     "sha256": "4e014351f4ee11c6b5c4001f3159415aa12fa826f571d626f6fb8d8988ac05dd"
     }
    ]
   },
@@ -137806,6 +139009,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/292095",
      "sha256": "13d0e34dff6ac112bd7321d194cedefc34f62f2ed6dae070ec490abfd12bb12b"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1549-2007",
+   "path": "hg/2007/1549",
+   "short": "HG nr. 1549/2007",
+   "title": "Hotărârea Guvernului nr. 1549/2007 pentru modificarea Hotărârii Guvernului nr. 141/2007 privind aprobarea activităţilor pentru care se acordă sprijin financiar producătorilor agricoli din sectorul zootehnic, în anul 2007, a cuantumului acestuia, precum şi a sumei totale alocate fiecărei activităţi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/88085",
+   "versions": [
+    {
+     "from": "2007-12-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/88085",
+     "sha256": "85af14bacda52954ba9e9b994a124ec53ee188ca0099780231f9b14b152aaeb3"
     }
    ]
   },
@@ -138124,6 +139342,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/292168",
      "sha256": "ad8176f64a3d071b975cf85a3884d353070c37f8e1caf83985df09385a129cce"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1557-2007",
+   "path": "hg/2007/1557",
+   "short": "HG nr. 1557/2007",
+   "title": "Hotărârea Guvernului nr. 1557/2007 privind aprobarea numărului de personal disponibilizat prin concedieri colective ce vor fi efectuate de Societatea Comercială \"ORLATEX\" - S.A. Orlat, aflată în portofoliul Autorităţii pentru Valorificarea Activelor Statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/88078",
+   "versions": [
+    {
+     "from": "2007-12-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/88078",
+     "sha256": "77ef2eaa7c0d667cff8acd494941cbd01bb8f8400350b8b07ec44c239324fccc"
     }
    ]
   },
@@ -138649,6 +139882,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/263294",
      "sha256": "9891231ea188a70af88f1a5e89d15d2809648053617daba31314f18415143942"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1575-2007",
+   "path": "hg/2007/1575",
+   "short": "HG nr. 1575/2007",
+   "title": "Hotărârea Guvernului nr. 1575/2007 privind suplimentarea bugetului Ministerului Culturii şi Cultelor pe anul 2007, din Fondul de rezervă bugetară la dispoziţia Guvernului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/88074",
+   "versions": [
+    {
+     "from": "2007-12-20",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/88074",
+     "sha256": "1be6f58ff8d8ef5f4711d85a33d4cdfa8b42b9b8c71f2a6fdf832541c5e1ad40"
     }
    ]
   },
@@ -264689,6 +265937,21 @@
    ]
   },
   {
+   "slug": "legea-327-2007",
+   "path": "lege/2007/327",
+   "short": "Legea nr. 327/2007",
+   "title": "Legea nr. 327/2007 pentru ratificarea Acordului dintre România şi Republica Portugheză în domeniul securităţii sociale, semnat la Bucureşti la 1 august 2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87436",
+   "versions": [
+    {
+     "from": "2007-12-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87436",
+     "sha256": "1ac248a5dfc599f0fbbd29cb60df84e05dd0414a875b7c94ee5b48564d3d4694"
+    }
+   ]
+  },
+  {
    "slug": "legea-327-2009",
    "path": "lege/2009/327",
    "short": "Legea nr. 327/2009",
@@ -264944,6 +266207,21 @@
    ]
   },
   {
+   "slug": "legea-331-2007",
+   "path": "lege/2007/331",
+   "short": "Legea nr. 331/2007",
+   "title": "Legea nr. 331/2007 pentru ratificarea Memorandumului de înţelegere dintre Guvernul României şi Guvernul Republicii Elene privind asigurarea sprijinului naţiunii gazdă pentru executarea de operaţiuni şi exerciţii NATO, semnat la Atena la 10 octombrie 2006 şi la Bucureşti la 14 decembrie 2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87543",
+   "versions": [
+    {
+     "from": "2007-12-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87543",
+     "sha256": "6ff27b440d54f892f2d762c95c4c6929fc38634f7eee85d87c4559be2915b116"
+    }
+   ]
+  },
+  {
    "slug": "legea-331-2022",
    "path": "lege/2022/331",
    "short": "Legea nr. 331/2022",
@@ -265124,6 +266402,21 @@
    ]
   },
   {
+   "slug": "legea-336-2007",
+   "path": "lege/2007/336",
+   "short": "Legea nr. 336/2007",
+   "title": "Legea nr. 336/2007 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 189/2002 privind operaţiunile compensatorii referitoare la contractele de achiziţii pentru nevoi de apărare, ordine publică şi siguranţă naţională",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87630",
+   "versions": [
+    {
+     "from": "2007-12-10",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87630",
+     "sha256": "46788dbba49a6cb92b2c1ad9e6bc5724b381dd495058ea4e8f4673e070613e5b"
+    }
+   ]
+  },
+  {
    "slug": "legea-336-2015",
    "path": "lege/2015/336",
    "short": "Legea nr. 336/2015",
@@ -265222,6 +266515,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/36844",
      "sha256": "6510b65b123ea67ec7bc2506add28dd353596502a7a31f9dbf411ff64309658c"
+    }
+   ]
+  },
+  {
+   "slug": "legea-338-2007",
+   "path": "lege/2007/338",
+   "short": "Legea nr. 338/2007",
+   "title": "Legea nr. 338/2007 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 54/2007 privind trecerea obiectivului de investiţii \"Spitalul Municipal Bacău\" din subordinea Autorităţii de Sănătate Publică a Judeţului Bacău în subordinea Consiliului Local al Municipiului Bacău şi continuarea investiţiei la obiectivul \"Spitalul Municipal Bacău\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87652",
+   "versions": [
+    {
+     "from": "2007-12-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87652",
+     "sha256": "1a15b8abcc69310c285384166dab93a413639cc4e15294e3567c438abdbb7407"
     }
    ]
   },
@@ -265343,6 +266651,21 @@
    ]
   },
   {
+   "slug": "legea-340-2007",
+   "path": "lege/2007/340",
+   "short": "Legea nr. 340/2007",
+   "title": "Legea nr. 340/2007 pentru modificarea alin. (6) al art. 92 din Legea fondului funciar nr. 18/1991",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87693",
+   "versions": [
+    {
+     "from": "2007-12-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87693",
+     "sha256": "ffc77de3fabb73d0c7714e773b12dfe336b7d1ff1fa3b0b7f3eafd9c402fc9e3"
+    }
+   ]
+  },
+  {
    "slug": "legea-340-2009",
    "path": "lege/2009/340",
    "short": "Legea nr. 340/2009",
@@ -265459,6 +266782,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/276254",
      "sha256": "a9679e8e6b88636f96a453fe0f2b8fc59bd21ed623b8829c02f4dc1f95666639"
+    }
+   ]
+  },
+  {
+   "slug": "legea-344-2007",
+   "path": "lege/2007/344",
+   "short": "Legea nr. 344/2007",
+   "title": "Legea nr. 344/2007 privind aprobarea Ordonanţei Guvernului nr. 33/2007 pentru modificarea şi completarea Ordonanţei Guvernului nr. 41/2005 privind reglementarea unor măsuri financiare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87701",
+   "versions": [
+    {
+     "from": "2007-12-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87701",
+     "sha256": "d5fedab0e37716481ddd65c4841a0aa852519d52bb8545b062ff8f466641f445"
     }
    ]
   },
@@ -265591,6 +266929,21 @@
      "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53757",
      "sha256": "b9ac7a2e9067d27eaef8347f529617c2bb5f51a0ffd49b5672e5a298a06e864b"
+    }
+   ]
+  },
+  {
+   "slug": "legea-348-2007",
+   "path": "lege/2007/348",
+   "short": "Legea nr. 348/2007",
+   "title": "Legea nr. 348/2007 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 76/2007 privind procedura specială de înregistrare fiscală şi de plată a contribuţiilor sociale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87614",
+   "versions": [
+    {
+     "from": "2007-12-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87614",
+     "sha256": "7b24e495a96c57ccbf1cc8988dc7ec6d80c0de112771dfbd3ebd722fed3f3a27"
     }
    ]
   },
@@ -265898,6 +267251,21 @@
    ]
   },
   {
+   "slug": "legea-352-2007",
+   "path": "lege/2007/352",
+   "short": "Legea nr. 352/2007",
+   "title": "Legea nr. 352/2007 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 53/2007 pentru modificarea şi completarea Ordonanţei Guvernului nr. 71/2001 privind organizarea şi exercitarea activităţii de consultanţă fiscală",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87625",
+   "versions": [
+    {
+     "from": "2007-12-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87625",
+     "sha256": "d307df522e0ca63a54f6944b8f23000ee0e3e3d68125b75b45abda0ae6c7aa62"
+    }
+   ]
+  },
+  {
    "slug": "legea-352-2013",
    "path": "lege/2013/352",
    "short": "Legea nr. 352/2013",
@@ -266105,6 +267473,21 @@
    ]
   },
   {
+   "slug": "legea-357-2007",
+   "path": "lege/2007/357",
+   "short": "Legea nr. 357/2007",
+   "title": "Legea nr. 357/2007 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 65/2007 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 118/2006 privind înfiinţarea, organizarea şi desfăşurarea activităţii aşezămintelor culturale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87627",
+   "versions": [
+    {
+     "from": "2007-12-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87627",
+     "sha256": "97b411589194258eb13c43c11d65c941cf3557d1767217fe028f69bcc3dd8743"
+    }
+   ]
+  },
+  {
    "slug": "legea-357-2018",
    "path": "lege/2018/357",
    "short": "Legea nr. 357/2018",
@@ -266150,6 +267533,21 @@
    ]
   },
   {
+   "slug": "legea-358-2007",
+   "path": "lege/2007/358",
+   "short": "Legea nr. 358/2007",
+   "title": "Legea nr. 358/2007 privind aprobarea Ordonanţei Guvernului nr. 43/2007 pentru reglementarea unor aspecte financiar-contabile aplicabile în implementarea programelor PHARE prevăzute în acordurile de finanţare încheiate între Guvernul României şi Comisia Europeană referitoare la Programul naţional PHARE 2005 pentru România, la Programul 2005 pentru sprijin comunitar în domeniul securităţii nucleare pentru România, la Programul de sprijin comunitar PHARE 2005 privind măsurile de reabilitare a pagubelor produse de inundaţii şi de prevenire a unor astfel de evenimente, la Programul naţional PHARE 2005 - Subprogramul 6 - Programe şi agenţii comunitare şi sprijin pentru beneficiarii finali şi la programele 2005 de cooperare transfrontalieră a României cu Ungaria, Bulgaria, Serbia şi Muntenegru, Moldova şi Ucraina",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87634",
+   "versions": [
+    {
+     "from": "2007-12-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87634",
+     "sha256": "504727ab73ecfecae1bf89320afa86c213715e5c577d2f2922af5e8e0e204f54"
+    }
+   ]
+  },
+  {
    "slug": "legea-358-2023",
    "path": "lege/2023/358",
    "short": "Legea nr. 358/2023",
@@ -266161,6 +267559,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/276874",
      "sha256": "0132786bfcd665836819efdb5a5bf8bb38efc87e8c87ca3b6fa672713a177b10"
+    }
+   ]
+  },
+  {
+   "slug": "legea-359-2007",
+   "path": "lege/2007/359",
+   "short": "Legea nr. 359/2007",
+   "title": "Legea nr. 359/2007 privind aprobarea Ordonanţei Guvernului nr. 44/2007 pentru reglementarea unor aspecte financiare aplicabile în implementarea programelor PHARE prevăzute în acordurile de finanţare încheiate între Guvernul României şi Comisia Europeană referitoare la Programul naţional PHARE 2006 pentru România, la Programul 2006 pentru sprijin comunitar în domeniul securităţii nucleare pentru România şi la programele 2006 de cooperare transfrontalieră a României cu Ungaria, Bulgaria, Serbia, Moldova şi Ucraina",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87654",
+   "versions": [
+    {
+     "from": "2007-12-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87654",
+     "sha256": "bdb1fb0a1bf941c9cc64bf7d2c47d7bb0318a81a2876ee52a31188425539fb39"
     }
    ]
   },
@@ -285475,6 +286888,21 @@
      "units": 26,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/250054",
      "sha256": "efcee852342b7e88d99233b03d53532aa9a3a660cc0d5c3bb05344098f88e3cb"
+    }
+   ]
+  },
+  {
+   "slug": "oug-142-2007",
+   "path": "oug/2007/142",
+   "short": "OUG nr. 142/2007",
+   "title": "Ordonanța de urgență a Guvernului nr. 142/2007 privind indemnizaţia acordată membrilor din România în Parlamentul European",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87835",
+   "versions": [
+    {
+     "from": "2007-12-13",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87835",
+     "sha256": "b115ee1f6a7d766ca8776adf1a540622dd372b707a5314d00afd7a1b864756d8"
     }
    ]
   },
