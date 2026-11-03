@@ -1,6 +1,6 @@
 # Every act in this repository
 
-15090 acts, 28,710 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+15091 acts, 28,711 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -4866,7 +4866,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (10233, of which 4750 amending acts)
+## Government decisions (HG) (10234, of which 4751 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -8820,6 +8820,7 @@
 | Hotărârea Guvernului nr. 223/2019 privind aprobarea acordării ajutorului de stat pentru facilitarea închiderii minelor de cărbune necompetitive din cadrul Societății Complexul Energetic Hunedoara - S.A. pentru anul 2019 | [`hg/2019/223/`](hg/2019/223/) | amending act | 1 | 2019-04-12 | 2019-04-12 |
 | Hotărârea Guvernului nr. 224/2019 privind aprobarea acordării ajutorului de stat pentru facilitarea închiderii minelor de cărbune necompetitive din cadrul Societății Naționale de Închideri Mine Valea Jiului - S.A. pentru anul 2019 | [`hg/2019/224/`](hg/2019/224/) | amending act | 1 | 2019-04-12 | 2019-04-12 |
 | Hotărârea Guvernului nr. 226/2019 privind stabilirea modelului proceselor-verbale de consemnare și centralizare a rezultatelor votării la alegerile pentru membrii din România în Parlamentul European din anul 2019 | [`hg/2019/226/`](hg/2019/226/) | in force | 1 | 2019-04-18 | 2019-04-18 |
+| Hotărârea Guvernului nr. 228/2019 privind aprobarea bugetului de venituri şi cheltuieli pe anul 2019 al Regiei Autonome "Monitorul Oficial", aflată sub autoritatea Camerei Deputaţilor, exercitată prin secretarul general al Camerei Deputaţilor | [`hg/2019/228/`](hg/2019/228/) | amending act | 1 | 2019-04-19 | 2019-04-19 |
 | Hotărârea Guvernului nr. 231/2019 privind trecerea unor drumuri forestiere şi a terenurilor aferente acestora din domeniul public al statului şi din administrarea Regiei Naţionale a Pădurilor - Romsilva în domeniul public al oraşului Petrila, judeţul Hunedoara | [`hg/2019/231/`](hg/2019/231/) | in force | 1 | 2019-05-08 | 2019-05-08 |
 | Hotărârea Guvernului nr. 232/2019 pentru aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii "Sală Polivalentă Municipiul Piteşti" | [`hg/2019/232/`](hg/2019/232/) | amending act | 1 | 2019-04-22 | 2019-04-22 |
 | Hotărârea Guvernului nr. 233/2019 pentru aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii "Drum de legătură DN 66A km 47+600-km 66+204, Câmpu lui Neag - Cerna", judeţul Gorj | [`hg/2019/233/`](hg/2019/233/) | amending act | 1 | 2019-04-22 | 2019-04-22 |
