@@ -44033,6 +44033,105 @@
    ]
   },
   {
+   "slug": "legea-293-2004",
+   "path": "lege/2004/293",
+   "short": "Legea nr. 293/2004",
+   "title": "Legea nr. 293/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53094",
+   "versions": [
+    {
+     "from": "2004-09-28",
+     "units": 83,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/53094",
+     "sha256": "3dadafed3dd881aac708240c6adfa8e42d1c11f34bffa2e7df76bc186a18c097"
+    },
+    {
+     "from": "2006-06-29",
+     "units": 87,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73131",
+     "sha256": "ab4408c00a9ab655267dafbcfc44b184c41906353e862d896957677e81b5ceab"
+    },
+    {
+     "from": "2007-03-22",
+     "units": 87,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/80590",
+     "sha256": "4766283c96003c204d2d4b94d54ed230e3032bf131122c74f7eed6d58752cea6"
+    },
+    {
+     "from": "2008-02-11",
+     "units": 95,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/89604",
+     "sha256": "22a0d88f1fd637b023612b7cf9695fb4f59325dd68295a4a58f8dc774ac04e35"
+    },
+    {
+     "from": "2008-12-09",
+     "units": 95,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/100192",
+     "sha256": "88e81c5b9c11fce9f00085b1a37ba23794e11aa279beabf7d07c99140b9e3a5c"
+    },
+    {
+     "from": "2009-05-23",
+     "units": 95,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/106159",
+     "sha256": "fb2ada219936d5346023ac4bfb2e701cfd775f2f79cf582728299805e0d4c3a1"
+    },
+    {
+     "from": "2009-06-29",
+     "units": 95,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/109245",
+     "sha256": "ead3304f493b510883c6789b53751f86e2ca9bef3a1251add8b0c7a389f92343"
+    },
+    {
+     "from": "2009-09-22",
+     "units": 91,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/111336",
+     "sha256": "6e7d8b15876ef8d4bf2cf571e823c623a35ed3007ec2ba54d9813a3990773345"
+    },
+    {
+     "from": "2011-01-01",
+     "units": 91,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/150962",
+     "sha256": "ca3025b52cf61e5fc79105c8875e29eb757fc4ceddadb71fa7c48908742c67dc"
+    },
+    {
+     "from": "2014-02-01",
+     "units": 91,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/150963",
+     "sha256": "064ff90afda2164a4df3d824e78816079d1bf2a42022328151ad8daa051be876"
+    },
+    {
+     "from": "2014-04-10",
+     "units": 91,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/157329",
+     "sha256": "1bfe5969e81b654a13119d5e0177d66943b4dbd8382cfb6615eaa5107fec3311"
+    },
+    {
+     "from": "2016-03-05",
+     "units": 91,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/190455",
+     "sha256": "ca690544882cf8e4e0fecc8db60c1bead3643e2ae407d2bd13828d122820a04f"
+    },
+    {
+     "from": "2017-07-01",
+     "units": 91,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/190465",
+     "sha256": "585ea9a5d0d51081c56820569ed30fc4fe0e8c3f98ff9c33b9bd974bd8718e01"
+    },
+    {
+     "from": "2018-05-23",
+     "units": 91,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/200810",
+     "sha256": "9faa401c3fb490cbcb86d979341cdd7c200f5c88b2d176abcefbf2c9c73d4644"
+    },
+    {
+     "from": "2018-07-28",
+     "units": 92,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/202878",
+     "sha256": "cc2ff4213d73c3bfe91701a608cdfba73f6a5d79c66f1e1f6cc2a62f1c85b765"
+    }
+   ]
+  },
+  {
    "slug": "legea-293-2024",
    "path": "lege/2024/293",
    "short": "Legea nr. 293/2024",
@@ -44548,6 +44647,33 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/210007",
      "sha256": "8896cfca87ae696d9bfadb526c2ea3cc8b43527839286fb6987e46440283f39a"
+    }
+   ]
+  },
+  {
+   "slug": "legea-300-2002",
+   "path": "lege/2002/300",
+   "short": "Legea nr. 300/2002",
+   "title": "Legea nr. 300/2002",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/65069",
+   "versions": [
+    {
+     "from": "2002-08-12",
+     "units": 38,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/36636",
+     "sha256": "4adbf5c039015e1414289455c1aa42c39d7b3c96c5a65863ba4843a15287ec08"
+    },
+    {
+     "from": "2005-02-01",
+     "units": 39,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/65069",
+     "sha256": "ca5c5f057310fe124acfb650b5c4964bf115c8dff07a39bd2e8359c6f03affa8"
+    },
+    {
+     "from": "2007-01-01",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/78033",
+     "sha256": "abdd60d0da0fbe278f66808155beb04e16e04b198e25f808f008014bfe87fa27"
     }
    ]
   },
@@ -114023,6 +114149,27 @@
    ]
   },
   {
+   "slug": "hg-246-2010",
+   "path": "hg/2010/246",
+   "short": "HG nr. 246/2010",
+   "title": "Hotărârea Guvernului nr. 246/2010 privind numirea guvernatorului şi a viceguvernatorului României în Consiliul Guvernatorilor Băncii pentru Comerţ şi Dezvoltare a Mării Negre",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/220086",
+   "versions": [
+    {
+     "from": "2010-04-07",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/117689",
+     "sha256": "5f4ab5a4e16aee8c5df0af9b776c29c988e5061cefce887f8db058a2b176d65d"
+    },
+    {
+     "from": "2019-12-03",
+     "units": 2,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/220086",
+     "sha256": "150bf17bc5e1180dc501f3ef7fc4483d1ec15ea7567bc9ec671e59660c1e8f91"
+    }
+   ]
+  },
+  {
    "slug": "hg-246-2013",
    "path": "hg/2013/246",
    "short": "HG nr. 246/2013",
@@ -150653,6 +150800,21 @@
    ]
   },
   {
+   "slug": "hg-946-2023",
+   "path": "hg/2023/946",
+   "short": "HG nr. 946/2023",
+   "title": "Hotărârea Guvernului nr. 946/2023 privind aprobarea Tezelor prealabile ale proiectului Codului de procedură administrativă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/275266",
+   "versions": [
+    {
+     "from": "2023-10-13",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/275266",
+     "sha256": "4cad3a9d4418710a67418791c1911933ff05024b8c8edfe472e3f391b518f986"
+    }
+   ]
+  },
+  {
    "slug": "hg-946-2024",
    "path": "hg/2024/946",
    "short": "HG nr. 946/2024",
@@ -151130,6 +151292,21 @@
    ]
   },
   {
+   "slug": "hg-954-2023",
+   "path": "hg/2023/954",
+   "short": "HG nr. 954/2023",
+   "title": "Hotărârea Guvernului nr. 954/2023 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2023, pentru suplimentarea bugetului Serviciului de Telecomunicaţii Speciale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/275259",
+   "versions": [
+    {
+     "from": "2023-10-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/275259",
+     "sha256": "9ff11c458f94d4a26c4af3d844c652ed7acb7243f3d48ac4e7ea716d0d4d7517"
+    }
+   ]
+  },
+  {
    "slug": "hg-954-2025",
    "path": "hg/2025/954",
    "short": "HG nr. 954/2025",
@@ -151211,6 +151388,21 @@
    ]
   },
   {
+   "slug": "hg-955-2023",
+   "path": "hg/2023/955",
+   "short": "HG nr. 955/2023",
+   "title": "Hotărârea Guvernului nr. 955/2023 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2023, pentru suplimentarea bugetului Ministerului Justiţiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/275260",
+   "versions": [
+    {
+     "from": "2023-10-12",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/275260",
+     "sha256": "2a435c19d52aeecf73a7b03c1e7111722bc64c2bceccd1f412253cb2255a0e10"
+    }
+   ]
+  },
+  {
    "slug": "hg-955-2025",
    "path": "hg/2025/955",
    "short": "HG nr. 955/2025",
@@ -151241,6 +151433,21 @@
    ]
   },
   {
+   "slug": "hg-956-2023",
+   "path": "hg/2023/956",
+   "short": "HG nr. 956/2023",
+   "title": "Hotărârea Guvernului nr. 956/2023 privind suplimentarea bugetului Ministerului Culturii din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2023, pentru finanţarea unor cheltuieli curente şi de capital",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/275261",
+   "versions": [
+    {
+     "from": "2023-10-12",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/275261",
+     "sha256": "7f101099c9e8c3473ba7ca4719688c695a66f460d697e6b5486f89e23b24ff1e"
+    }
+   ]
+  },
+  {
    "slug": "hg-957-2015",
    "path": "hg/2015/957",
    "short": "HG nr. 957/2015",
@@ -151264,6 +151471,21 @@
      "units": 18,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/179473",
      "sha256": "50afa65ed9aa595537426f3473b88e141fc2cf1d625b179914c11e71aea85506"
+    }
+   ]
+  },
+  {
+   "slug": "hg-957-2023",
+   "path": "hg/2023/957",
+   "short": "HG nr. 957/2023",
+   "title": "Hotărârea Guvernului nr. 957/2023 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2023, pentru suplimentarea bugetului Ministerului Transporturilor şi Infrastructurii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/275262",
+   "versions": [
+    {
+     "from": "2023-10-12",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/275262",
+     "sha256": "8183d2a45c6bbef2b4a190f691e27cf925f4cce6a8429e01e446d78fa7253946"
     }
    ]
   },
@@ -151364,6 +151586,21 @@
    ]
   },
   {
+   "slug": "hg-960-2023",
+   "path": "hg/2023/960",
+   "short": "HG nr. 960/2023",
+   "title": "Hotărârea Guvernului nr. 960/2023 privind eliberarea domnului Badea Jean din funcţia de subprefect al municipiului Bucureşti",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/275265",
+   "versions": [
+    {
+     "from": "2023-10-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/275265",
+     "sha256": "a93317e4eb0f31db25261e2e59479d9f885e66e8f6197b4e8fe26ed246f9352f"
+    }
+   ]
+  },
+  {
    "slug": "hg-961-2014",
    "path": "hg/2014/961",
    "short": "HG nr. 961/2014",
@@ -151390,6 +151627,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/196791",
      "sha256": "b26b7cb9a504e07ad6145ed9555a7d6db96c9f9eefd789599afaf2b471b79238"
+    }
+   ]
+  },
+  {
+   "slug": "hg-961-2023",
+   "path": "hg/2023/961",
+   "short": "HG nr. 961/2023",
+   "title": "Hotărârea Guvernului nr. 961/2023 privind suplimentarea numărului maxim de posturi pentru Direcţia de Investigare a Infracţiunilor de Criminalitate Organizată şi Terorism",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/275312",
+   "versions": [
+    {
+     "from": "2023-10-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/275312",
+     "sha256": "7817a528fbb139745f45a3ed21a8e02b8124be3a58583d731487d10fd67d6df8"
     }
    ]
   },
@@ -166846,6 +167098,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/248402",
      "sha256": "c19fe47fda27471406afbf53044e15d854b9abb2f4033dec86bbd74ca562749d"
+    }
+   ]
+  },
+  {
+   "slug": "legea-270-2023",
+   "path": "lege/2023/270",
+   "short": "Legea nr. 270/2023",
+   "title": "Legea nr. 270/2023 pentru aprobarea Ordonanţei Guvernului nr. 32/2022 privind reglementarea unei măsuri financiar-fiscale şi bugetare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/275202",
+   "versions": [
+    {
+     "from": "2023-10-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/275202",
+     "sha256": "0f04a80068535b99e6304824ab0dd0a1b4be7b51df9cd9d55aa6685541d27c30"
     }
    ]
   },

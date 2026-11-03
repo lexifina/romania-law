@@ -1,6 +1,6 @@
 # Every act in this repository
 
-8632 acts, 21,567 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+8643 acts, 21,595 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -32,7 +32,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (2043, of which 831 amending acts)
+## Laws (legi) (2046, of which 832 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -355,6 +355,7 @@
 | Legea nr. 289/2002 | [`lege/2002/289/`](lege/2002/289/) | in force | 11 | 2002-07-20 | 2022-09-03 |
 | Legea nr. 290/2002 | [`lege/2002/290/`](lege/2002/290/) | in force | 12 | 2002-05-29 | 2009-04-02 |
 | Legea nr. 296/2002 | [`lege/2002/296/`](lege/2002/296/) | in force | 2 | 2002-05-30 | 2004-08-22 |
+| Legea nr. 300/2002 | [`lege/2002/300/`](lege/2002/300/) | repealed 2007-01-01 | 3 | 2002-08-12 | 2007-01-01 |
 | Legea nr. 309/2002 | [`lege/2002/309/`](lege/2002/309/) | in force | 6 | 2002-08-05 | 2016-11-28 |
 | Legea nr. 334/2002 | [`lege/2002/334/`](lege/2002/334/) | in force | 13 | 2002-06-18 | 2013-12-30 |
 | Legea nr. 338/2002 | [`lege/2002/338/`](lege/2002/338/) | in force | 1 | 2002-06-25 | 2002-06-25 |
@@ -507,6 +508,7 @@
 | Legea nr. 288/2004 | [`lege/2004/288/`](lege/2004/288/) | in force | 6 | 2004-07-10 | 2018-08-31 |
 | Legea nr. 289/2004 | [`lege/2004/289/`](lege/2004/289/) | in force | 4 | 2005-01-06 | 2008-12-27 |
 | Legea nr. 290/2004 privind cazierul judiciar | [`lege/2004/290/`](lege/2004/290/) | in force | 16 | 2004-07-30 | 2025-12-06 |
+| Legea nr. 293/2004 | [`lege/2004/293/`](lege/2004/293/) | in force | 15 | 2004-09-28 | 2018-07-28 |
 | Legea nr. 295/2004 privind regimul armelor și al munițiilor | [`lege/2004/295/`](lege/2004/295/) | in force | 22 | 2004-12-30 | 2025-11-02 |
 | Legea nr. 296/2004 privind Codul consumului | [`lege/2004/296/`](lege/2004/296/) | in force | 4 | 2007-01-01 | 2010-07-22 |
 | Legea nr. 297/2004 privind piața de capital | [`lege/2004/297/`](lege/2004/297/) | in force | 18 | 2004-07-29 | 2021-06-20 |
@@ -1694,6 +1696,7 @@
 | Legea nr. 247/2023 pentru completarea Legii nr. 248/2005 privind regimul liberei circulații a cetățenilor români în străinătate | [`lege/2023/247/`](lege/2023/247/) | amending act | 1 | 2023-08-20 | 2023-08-20 |
 | Legea nr. 254/2023 pentru modificarea art. 118 alin. (1) din Ordonanța de urgență a Guvernului nr. 195/2002 privind circulația pe drumurile publice | [`lege/2023/254/`](lege/2023/254/) | amending act | 1 | 2023-07-27 | 2023-07-27 |
 | Legea nr. 269/2023 pentru modificarea și completarea Legii nr. 95/2006 privind reforma în domeniul sănătății | [`lege/2023/269/`](lege/2023/269/) | amending act | 1 | 2024-01-01 | 2024-01-01 |
+| Legea nr. 270/2023 pentru aprobarea Ordonanţei Guvernului nr. 32/2022 privind reglementarea unei măsuri financiar-fiscale şi bugetare | [`lege/2023/270/`](lege/2023/270/) | amending act | 1 | 2023-10-14 | 2023-10-14 |
 | Legea nr. 272/2023 pentru modificarea și completarea art. 1 din Legea nr. 62/2018 privind combaterea buruienii ambrozia | [`lege/2023/272/`](lege/2023/272/) | amending act | 1 | 2023-10-14 | 2023-10-14 |
 | Legea nr. 274/2023 pentru ratificarea Acordului dintre Guvernul României şi Guvernul Statului Kuweit privind cooperarea în domeniul militar, semnat la Bucureşti la 7 decembrie 2022 | [`lege/2023/274/`](lege/2023/274/) | in force | 1 | 2023-10-20 | 2023-10-20 |
 | Legea nr. 277/2023 privind respingerea Ordonanţei de urgenţă a Guvernului nr. 12/2019 pentru modificarea şi completarea unor acte normative în domeniul justiţiei | [`lege/2023/277/`](lege/2023/277/) | amending act | 1 | 2023-10-21 | 2023-10-21 |
@@ -4074,7 +4077,7 @@
 | Ordonanța Guvernului nr. 21/2025 pentru modificarea și completarea Legii nr. 431/2023 privind asigurarea unui nivel minim global de impozitare a grupurilor de întreprinderi multinaționale și a grupurilor naționale de mari dimensiuni | [`og/2025/21/`](og/2025/21/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 | Ordonanța Guvernului nr. 22/2025 pentru modificarea și completarea Legii nr. 227/2015 privind Codul fiscal | [`og/2025/22/`](og/2025/22/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 
-## Government decisions (HG) (4566, of which 1753 amending acts)
+## Government decisions (HG) (4574, of which 1754 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -5109,6 +5112,7 @@
 | Hotărârea Guvernului nr. 193/2010 | [`hg/2010/193/`](hg/2010/193/) | in force | 1 | 2010-03-24 | 2010-03-24 |
 | Hotărârea Guvernului nr. 201/2010 | [`hg/2010/201/`](hg/2010/201/) | in force | 1 | 2010-03-25 | 2010-03-25 |
 | Hotărârea Guvernului nr. 216/2010 | [`hg/2010/216/`](hg/2010/216/) | in force | 1 | 2010-03-25 | 2010-03-25 |
+| Hotărârea Guvernului nr. 246/2010 privind numirea guvernatorului şi a viceguvernatorului României în Consiliul Guvernatorilor Băncii pentru Comerţ şi Dezvoltare a Mării Negre | [`hg/2010/246/`](hg/2010/246/) | in force | 2 | 2010-04-07 | 2019-12-03 |
 | Hotărârea Guvernului nr. 256/2010 | [`hg/2010/256/`](hg/2010/256/) | in force | 1 | 2010-04-09 | 2010-04-09 |
 | Hotărârea Guvernului nr. 261/2010 | [`hg/2010/261/`](hg/2010/261/) | in force | 2 | 2010-04-01 | 2010-10-26 |
 | Hotărârea Guvernului nr. 262/2010 | [`hg/2010/262/`](hg/2010/262/) | in force | 1 | 2010-04-01 | 2010-04-01 |
@@ -6685,6 +6689,7 @@
 | Hotărârea Guvernului nr. 936/2023 privind schimbarea denumirii Muzeului de Artă Eneolitică Cucuteni Piatra-Neamț în Muzeul de Artă Eneolitică Cucuteni "Gheorghe Dumitroaia" Piatra-Neamț | [`hg/2023/936/`](hg/2023/936/) | in force | 1 | 2023-10-12 | 2023-10-12 |
 | Hotărârea Guvernului nr. 944/2023 privind modificarea anexei nr. 9 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului prin actualizarea valorii de inventar, codului de clasificație și elementelor de descriere tehnică ale imobilelor aflate în domeniul public al statului și în administrarea Direcției Generale Regionale a Finanțelor Publice București din subordinea Agenției Naționale de Administrare Fiscală | [`hg/2023/944/`](hg/2023/944/) | amending act | 1 | 2023-10-12 | 2023-10-12 |
 | Hotărârea Guvernului nr. 945/2023 privind actualizarea denumirii, datelor de identificare, codului de clasificație și a valorii de inventar ale unui bun imobil, aflat în domeniul public al statului și în administrarea Direcției Generale Regionale a Finanțelor Publice București din subordinea Agenției Naționale de Administrare Fiscală, și modificarea anexei nr. 9 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului | [`hg/2023/945/`](hg/2023/945/) | amending act | 1 | 2023-10-12 | 2023-10-12 |
+| Hotărârea Guvernului nr. 946/2023 privind aprobarea Tezelor prealabile ale proiectului Codului de procedură administrativă | [`hg/2023/946/`](hg/2023/946/) | amending act | 1 | 2023-10-13 | 2023-10-13 |
 | Hotărârea Guvernului nr. 947/2023 privind aprobarea modelului de steag al comunei Crăieşti, judeţul Mureş | [`hg/2023/947/`](hg/2023/947/) | amending act | 1 | 2023-10-26 | 2023-10-26 |
 | Hotărârea Guvernului nr. 948/2023 privind aprobarea modelului de steag al comunei Fântânele, judeţul Mureş | [`hg/2023/948/`](hg/2023/948/) | amending act | 1 | 2023-10-26 | 2023-10-26 |
 | Hotărârea Guvernului nr. 949/2023 privind aprobarea stemei comunei Sânmartin, judeţul Bihor | [`hg/2023/949/`](hg/2023/949/) | amending act | 1 | 2023-10-26 | 2023-10-26 |
@@ -6692,6 +6697,12 @@
 | Hotărârea Guvernului nr. 951/2023 privind înscrierea unui imobil în inventarul centralizat al bunurilor din domeniul public al statului și darea acestuia în administrarea Serviciului de Telecomunicații Speciale | [`hg/2023/951/`](hg/2023/951/) | in force | 1 | 2023-10-12 | 2023-10-12 |
 | Hotărârea Guvernului nr. 952/2023 privind înscrierea unui bun imobil în inventarul centralizat al bunurilor din domeniul public al statului şi darea în administrarea Ministerului Mediului, Apelor şi Pădurilor, prin Regia Naţională a Pădurilor - Romsilva, ca urmare a donaţiei | [`hg/2023/952/`](hg/2023/952/) | in force | 1 | 2023-10-19 | 2023-10-19 |
 | Hotărârea Guvernului nr. 953/2023 privind modificarea descrierii tehnice, precum şi actualizarea valorii de inventar a unor bunuri imobile aflate în domeniul public al statului şi în administrarea Oficiului de Cadastru şi Publicitate Imobiliară Brăila | [`hg/2023/953/`](hg/2023/953/) | amending act | 1 | 2023-10-17 | 2023-10-17 |
+| Hotărârea Guvernului nr. 954/2023 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2023, pentru suplimentarea bugetului Serviciului de Telecomunicaţii Speciale | [`hg/2023/954/`](hg/2023/954/) | in force | 1 | 2023-10-12 | 2023-10-12 |
+| Hotărârea Guvernului nr. 955/2023 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2023, pentru suplimentarea bugetului Ministerului Justiţiei | [`hg/2023/955/`](hg/2023/955/) | in force | 1 | 2023-10-12 | 2023-10-12 |
+| Hotărârea Guvernului nr. 956/2023 privind suplimentarea bugetului Ministerului Culturii din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2023, pentru finanţarea unor cheltuieli curente şi de capital | [`hg/2023/956/`](hg/2023/956/) | in force | 1 | 2023-10-12 | 2023-10-12 |
+| Hotărârea Guvernului nr. 957/2023 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2023, pentru suplimentarea bugetului Ministerului Transporturilor şi Infrastructurii | [`hg/2023/957/`](hg/2023/957/) | in force | 1 | 2023-10-12 | 2023-10-12 |
+| Hotărârea Guvernului nr. 960/2023 privind eliberarea domnului Badea Jean din funcţia de subprefect al municipiului Bucureşti | [`hg/2023/960/`](hg/2023/960/) | in force | 1 | 2023-10-12 | 2023-10-12 |
+| Hotărârea Guvernului nr. 961/2023 privind suplimentarea numărului maxim de posturi pentru Direcţia de Investigare a Infracţiunilor de Criminalitate Organizată şi Terorism | [`hg/2023/961/`](hg/2023/961/) | in force | 1 | 2023-10-13 | 2023-10-13 |
 | Hotărârea Guvernului nr. 964/2023 pentru abrogarea Hotărârii Guvernului nr. 104/1992 privind unele măsuri pentru impulsionarea încasării tarifelor de transport în trenurile de călători | [`hg/2023/964/`](hg/2023/964/) | amending act | 1 | 2023-10-17 | 2023-10-17 |
 | Hotărârea Guvernului nr. 966/2023 privind trecerea unor imobile aflate în domeniul public al statului şi în administrarea Penitenciarului Focşani din subordinea Administraţiei Naţionale a Penitenciarelor, din domeniul public în domeniul privat al statului, în vederea scoaterii din funcţiune şi demolării | [`hg/2023/966/`](hg/2023/966/) | in force | 1 | 2023-10-19 | 2023-10-19 |
 | Hotărârea Guvernului nr. 967/2023 privind actualizarea descrierii tehnice a unei construcţii aflate în domeniul public al statului şi în administrarea Agenţiei de Plăţi şi Intervenţie pentru Agricultură - Centrul Judeţean Dâmboviţa şi trecerea acesteia din domeniul public al statului în domeniul privat al acestuia, în vederea scoaterii din funcţiune şi demolării | [`hg/2023/967/`](hg/2023/967/) | in force | 1 | 2023-10-19 | 2023-10-19 |
