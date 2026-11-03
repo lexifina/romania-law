@@ -73238,6 +73238,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/68826"
 },
 {
+"slug": "hg-130-2006",
+"path": "hg/2006/130",
+"kind": "hg",
+"year": "2006",
+"number": "130",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 130/2006",
+"short": "HG nr. 130/2006",
+"code": null,
+"status": "in force",
+"versions": 3,
+"from": "2006-01-31",
+"latest": "2009-03-24",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/104197"
+},
+{
 "slug": "hg-161-2006",
 "path": "hg/2006/161",
 "kind": "hg",
@@ -75157,6 +75174,23 @@
 "from": "2007-05-02",
 "latest": "2008-10-21",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/98739"
+},
+{
+"slug": "hg-386-2007",
+"path": "hg/2007/386",
+"kind": "hg",
+"year": "2007",
+"number": "386",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 386/2007",
+"short": "HG nr. 386/2007",
+"code": null,
+"status": "in force",
+"versions": 3,
+"from": "2007-05-08",
+"latest": "2007-11-21",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/87579"
 },
 {
 "slug": "hg-387-2007",
@@ -77996,6 +78030,23 @@
 "from": "2008-10-27",
 "latest": "2008-10-27",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/98503"
+},
+{
+"slug": "hg-1373-2008",
+"path": "hg/2008/1373",
+"kind": "hg",
+"year": "2008",
+"number": "1373",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 1373/2008",
+"short": "HG nr. 1373/2008",
+"code": null,
+"status": "in force",
+"versions": 7,
+"from": "2009-02-06",
+"latest": "2019-05-05",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/98945"
 },
 {
 "slug": "hg-1395-2008",
@@ -100028,6 +100079,23 @@
 "from": "2021-10-12",
 "latest": "2021-10-12",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/247358"
+},
+{
+"slug": "hg-1095-2021",
+"path": "hg/2021/1095",
+"kind": "hg",
+"year": "2021",
+"number": "1095",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 1095/2021 pentru aprobarea Acordului dintre Ministerul Educației și Cercetării din România și Ministerul Educației din Republica Populară Chineză privind recunoașterea reciprocă a diplomelor și certificatelor din învățământul superior, semnat la Beijing la 30 decembrie 2020",
+"short": "HG nr. 1095/2021",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2021-10-26",
+"latest": "2021-10-26",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/247681"
 },
 {
 "slug": "hg-1098-2021",

@@ -1,6 +1,6 @@
 # Every act in this repository
 
-6571 acts, 19,027 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+6575 acts, 19,041 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -3781,7 +3781,7 @@
 | Ordonanța Guvernului nr. 21/2025 pentru modificarea și completarea Legii nr. 431/2023 privind asigurarea unui nivel minim global de impozitare a grupurilor de întreprinderi multinaționale și a grupurilor naționale de mari dimensiuni | [`og/2025/21/`](og/2025/21/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 | Ordonanța Guvernului nr. 22/2025 pentru modificarea și completarea Legii nr. 227/2015 privind Codul fiscal | [`og/2025/22/`](og/2025/22/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 
-## Government decisions (HG) (2798, of which 927 amending acts)
+## Government decisions (HG) (2802, of which 928 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -4358,6 +4358,7 @@
 | Hotărârea Guvernului nr. 94/2006 | [`hg/2006/94/`](hg/2006/94/) | in force | 1 | 2006-01-29 | 2006-01-29 |
 | Hotărârea Guvernului nr. 123/2006 pentru modificarea Hotărârii Guvernului nr. 523/1998 privind înființarea Societății Naționale "Aeroportul Internațional Constanța" - S.A. | [`hg/2006/123/`](hg/2006/123/) | amending act | 1 | 2006-02-09 | 2006-02-09 |
 | Hotărârea Guvernului nr. 127/2006 | [`hg/2006/127/`](hg/2006/127/) | in force | 1 | 2006-02-09 | 2006-02-09 |
+| Hotărârea Guvernului nr. 130/2006 | [`hg/2006/130/`](hg/2006/130/) | in force | 3 | 2006-01-31 | 2009-03-24 |
 | Hotărârea Guvernului nr. 161/2006 | [`hg/2006/161/`](hg/2006/161/) | in force | 4 | 2006-09-01 | 2010-01-20 |
 | Hotărârea Guvernului nr. 170/2006 | [`hg/2006/170/`](hg/2006/170/) | in force | 1 | 2006-02-27 | 2006-02-27 |
 | Hotărârea Guvernului nr. 173/2006 | [`hg/2006/173/`](hg/2006/173/) | in force | 1 | 2006-06-30 | 2006-06-30 |
@@ -4471,6 +4472,7 @@
 | Hotărârea Guvernului nr. 368/2007 | [`hg/2007/368/`](hg/2007/368/) | repealed 2009-02-09 | 3 | 2007-04-27 | 2009-02-09 |
 | Hotărârea Guvernului nr. 379/2007 | [`hg/2007/379/`](hg/2007/379/) | in force | 1 | 2007-05-04 | 2007-05-04 |
 | Hotărârea Guvernului nr. 381/2007 | [`hg/2007/381/`](hg/2007/381/) | in force | 4 | 2007-05-02 | 2008-10-21 |
+| Hotărârea Guvernului nr. 386/2007 | [`hg/2007/386/`](hg/2007/386/) | in force | 3 | 2007-05-08 | 2007-11-21 |
 | Hotărârea Guvernului nr. 387/2007 | [`hg/2007/387/`](hg/2007/387/) | in force | 2 | 2007-05-02 | 2007-07-20 |
 | Hotărârea Guvernului nr. 405/2007 | [`hg/2007/405/`](hg/2007/405/) | in force | 9 | 2007-05-07 | 2013-01-16 |
 | Hotărârea Guvernului nr. 416/2007 | [`hg/2007/416/`](hg/2007/416/) | in force | 14 | 2007-05-10 | 2025-05-15 |
@@ -4638,6 +4640,7 @@
 | Hotărârea Guvernului nr. 1289/2008 pentru aprobarea limitei pe anul 2008 a finanţărilor rambursabile ce pot fi contractate şi a tragerilor din finanţările rambursabile contractate sau care urmează a fi contractate de unităţile administrativ-teritoriale | [`hg/2008/1289/`](hg/2008/1289/) | amending act | 2 | 2008-10-28 | 2008-12-16 |
 | Hotărârea Guvernului nr. 1314/2008 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2008, pentru finanţarea lucrărilor de forare şi de echipare a forajelor destinate alimentării cu apă a locuinţelor reconstruite/strămutate ca urmare a calamităţilor naturale produse în comuna Mogoşeşti-Siret, judeţul Iaşi | [`hg/2008/1314/`](hg/2008/1314/) | in force | 2 | 2008-10-20 | 2008-11-28 |
 | Hotărârea Guvernului nr. 1319/2008 | [`hg/2008/1319/`](hg/2008/1319/) | in force | 1 | 2008-10-27 | 2008-10-27 |
+| Hotărârea Guvernului nr. 1373/2008 | [`hg/2008/1373/`](hg/2008/1373/) | in force | 7 | 2009-02-06 | 2019-05-05 |
 | Hotărârea Guvernului nr. 1395/2008 | [`hg/2008/1395/`](hg/2008/1395/) | in force | 1 | 2008-11-07 | 2008-11-07 |
 | Hotărârea Guvernului nr. 1421/2008 | [`hg/2008/1421/`](hg/2008/1421/) | in force | 1 | 2008-11-21 | 2008-11-21 |
 | Hotărârea Guvernului nr. 1451/2008 | [`hg/2008/1451/`](hg/2008/1451/) | in force | 1 | 2008-11-25 | 2008-11-25 |
@@ -5915,6 +5918,7 @@
 | Hotărârea Guvernului nr. 1090/2021 privind prelungirea stării de alertă pe teritoriul României începând cu data de 10 octombrie 2021, precum și stabilirea măsurilor care se aplică pe durata acesteia pentru prevenirea și combaterea efectelor pandemiei de COVID-19 | [`hg/2021/1090/`](hg/2021/1090/) | in force | 1 | 2021-10-07 | 2021-10-07 |
 | Hotărârea Guvernului nr. 1093/2021 privind repartizarea sumelor corespunzătoare cotei prevăzute la art. 6 alin. (1) lit. e) din Legea bugetului de stat pe anul 2021 nr. 15/2021 , pentru finanțarea instituțiilor publice de spectacole din subordinea autorităților administrației publice locale ale unităților administrativ-teritoriale din județe, respectiv teatre, opere și filarmonici | [`hg/2021/1093/`](hg/2021/1093/) | in force | 1 | 2021-10-12 | 2021-10-12 |
 | Hotărârea Guvernului nr. 1094/2021 pentru aprobarea cuantumului minim al burselor de performanță, de merit, de studiu și de ajutor social pentru elevii din învățământul preuniversitar de stat, cu frecvență, care se acordă în anul școlar 2021-2022 | [`hg/2021/1094/`](hg/2021/1094/) | amending act | 1 | 2021-10-12 | 2021-10-12 |
+| Hotărârea Guvernului nr. 1095/2021 pentru aprobarea Acordului dintre Ministerul Educației și Cercetării din România și Ministerul Educației din Republica Populară Chineză privind recunoașterea reciprocă a diplomelor și certificatelor din învățământul superior, semnat la Beijing la 30 decembrie 2020 | [`hg/2021/1095/`](hg/2021/1095/) | amending act | 1 | 2021-10-26 | 2021-10-26 |
 | Hotărârea Guvernului nr. 1098/2021 privind aprobarea bugetului de venituri și cheltuieli pentru anul 2021 al Regiei Autonome "Monetăria Statului", aflată în subordinea Băncii Naționale a României | [`hg/2021/1098/`](hg/2021/1098/) | amending act | 1 | 2021-10-13 | 2021-10-13 |
 | Hotărârea Guvernului nr. 1099/2021 privind aprobarea bugetului de venituri și cheltuieli pentru anul 2021 al Regiei Autonome "Imprimeria Băncii Naționale a României", aflată în subordinea Băncii Naționale a României | [`hg/2021/1099/`](hg/2021/1099/) | amending act | 1 | 2021-10-13 | 2021-10-13 |
 | Hotărârea Guvernului nr. 1120/2021 privind modificarea anexei nr. 31 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului | [`hg/2021/1120/`](hg/2021/1120/) | amending act | 1 | 2021-10-28 | 2021-10-28 |

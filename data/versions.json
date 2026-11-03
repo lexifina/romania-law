@@ -10151,6 +10151,21 @@
    ]
   },
   {
+   "slug": "hg-1095-2021",
+   "path": "hg/2021/1095",
+   "short": "HG nr. 1095/2021",
+   "title": "Hotărârea Guvernului nr. 1095/2021 pentru aprobarea Acordului dintre Ministerul Educației și Cercetării din România și Ministerul Educației din Republica Populară Chineză privind recunoașterea reciprocă a diplomelor și certificatelor din învățământul superior, semnat la Beijing la 30 decembrie 2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/247681",
+   "versions": [
+    {
+     "from": "2021-10-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/247681",
+     "sha256": "008014914b80dcfad2729c6093da82daeeb1d53ab95bb7a4d10e90545d59888a"
+    }
+   ]
+  },
+  {
    "slug": "hg-11-2009",
    "path": "hg/2009/11",
    "short": "HG nr. 11/2009",
@@ -11636,6 +11651,33 @@
    ]
   },
   {
+   "slug": "hg-130-2006",
+   "path": "hg/2006/130",
+   "short": "HG nr. 130/2006",
+   "title": "Hotărârea Guvernului nr. 130/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/104197",
+   "versions": [
+    {
+     "from": "2006-01-31",
+     "units": 22,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/68417",
+     "sha256": "64d345e6c5a7e69c7e21b6adf241d62fad15f73247d69d846be05807260af9da"
+    },
+    {
+     "from": "2007-02-14",
+     "units": 22,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/83903",
+     "sha256": "6e46ee34b012109c808d9f6e029086c75d4300282037e3fc1f01ba9ae4fb6792"
+    },
+    {
+     "from": "2009-03-24",
+     "units": 21,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/104197",
+     "sha256": "0f30306f923bc2579e45664df858ebdeb0050a7d9f09b178336e21d85e967d88"
+    }
+   ]
+  },
+  {
    "slug": "hg-1304-2010",
    "path": "hg/2010/1304",
    "short": "HG nr. 1304/2010",
@@ -12118,6 +12160,57 @@
      "units": 12,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/113708",
      "sha256": "39424298d00b3da5af66044cd316f5f9fd25519f6e6529bc67da1f88a38f29ea"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1373-2008",
+   "path": "hg/2008/1373",
+   "short": "HG nr. 1373/2008",
+   "title": "Hotărârea Guvernului nr. 1373/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/98945",
+   "versions": [
+    {
+     "from": "2009-02-06",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/98945",
+     "sha256": "b5f0c97bf58f37c00705cbd275c07f636eef761df851310bda38b1058b11c8b8"
+    },
+    {
+     "from": "2009-07-21",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/128891",
+     "sha256": "0b42524598a0a24ec64f7b5e685959d559675d744d95e5660a2458b99a6a739a"
+    },
+    {
+     "from": "2011-05-20",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/128892",
+     "sha256": "9f70c9c7569fe4229b4bb816f449a66ce73f1b5030b2082c0fc4fde7e03dabc6"
+    },
+    {
+     "from": "2012-01-16",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/136200",
+     "sha256": "435ff379abbdd7219507ce3fbc9a499430d7e508fdedec176dad59b0633e8ac6"
+    },
+    {
+     "from": "2014-07-14",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/159906",
+     "sha256": "bd83a444c4f1beb55dc752fc3e5e122eb54d55e15e77d542eab9d786933bafe5"
+    },
+    {
+     "from": "2014-07-17",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/213088",
+     "sha256": "607fccc8f2867b19df6963286e93ccc73417ccd05ea40af68aaa321106cd4361"
+    },
+    {
+     "from": "2019-05-05",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/213088",
+     "sha256": "607fccc8f2867b19df6963286e93ccc73417ccd05ea40af68aaa321106cd4361"
     }
    ]
   },
@@ -16216,6 +16309,33 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/241542",
      "sha256": "95a43c1fa6ae79b6250d05eb660b49ac77263dd19df50f80691005d30dd8b98c"
+    }
+   ]
+  },
+  {
+   "slug": "hg-386-2007",
+   "path": "hg/2007/386",
+   "short": "HG nr. 386/2007",
+   "title": "Hotărârea Guvernului nr. 386/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87579",
+   "versions": [
+    {
+     "from": "2007-05-08",
+     "units": 29,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/81788",
+     "sha256": "9bcd6816780f9cf25467ea6f07ad5356f2b9870d58a102880a5ce872f01f0107"
+    },
+    {
+     "from": "2007-10-02",
+     "units": 28,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87580",
+     "sha256": "476e2e626411e57088a4d5246dcdc9f0842b5804958980c9410e18b51d74d878"
+    },
+    {
+     "from": "2007-11-21",
+     "units": 28,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87580",
+     "sha256": "476e2e626411e57088a4d5246dcdc9f0842b5804958980c9410e18b51d74d878"
     }
    ]
   },
