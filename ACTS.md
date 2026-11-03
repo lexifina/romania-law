@@ -1,6 +1,6 @@
 # Every act in this repository
 
-8646 acts, 21,605 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+8650 acts, 21,612 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -4080,7 +4080,7 @@
 | Ordonanța Guvernului nr. 21/2025 pentru modificarea și completarea Legii nr. 431/2023 privind asigurarea unui nivel minim global de impozitare a grupurilor de întreprinderi multinaționale și a grupurilor naționale de mari dimensiuni | [`og/2025/21/`](og/2025/21/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 | Ordonanța Guvernului nr. 22/2025 pentru modificarea și completarea Legii nr. 227/2015 privind Codul fiscal | [`og/2025/22/`](og/2025/22/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 
-## Government decisions (HG) (4574, of which 1754 amending acts)
+## Government decisions (HG) (4578, of which 1756 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -5085,8 +5085,11 @@
 | Hotărârea Guvernului nr. 1634/2009 | [`hg/2009/1634/`](hg/2009/1634/) | in force | 3 | 2010-01-04 | 2012-05-30 |
 | Hotărârea Guvernului nr. 1635/2009 | [`hg/2009/1635/`](hg/2009/1635/) | in force | 3 | 2010-01-12 | 2012-03-02 |
 | Hotărârea Guvernului nr. 22/2010 | [`hg/2010/22/`](hg/2010/22/) | in force | 2 | 2010-01-11 | 2012-07-16 |
+| Hotărârea Guvernului nr. 26/2010 privind organizarea şi funcţionarea Departamentului pentru Relaţia cu Parlamentul | [`hg/2010/26/`](hg/2010/26/) | in force | 3 | 2010-01-12 | 2013-01-19 |
+| Hotărârea Guvernului nr. 56/2010 privind stabilirea unor măsuri pentru reorganizarea producătorilor de energie electrică şi termică de sub autoritatea Ministerului Economiei, Comerţului şi Mediului de Afaceri, prin înfiinţarea Companiei Naţionale Electra - S.A. şi Companiei Naţionale Hidroenergetica - S.A | [`hg/2010/56/`](hg/2010/56/) | in force | 2 | 2010-02-05 | 2010-04-20 |
 | Hotărârea Guvernului nr. 77/2010 | [`hg/2010/77/`](hg/2010/77/) | in force | 1 | 2010-02-05 | 2010-02-05 |
 | Hotărârea Guvernului nr. 81/2010 | [`hg/2010/81/`](hg/2010/81/) | in force | 3 | 2010-02-09 | 2011-03-29 |
+| Hotărârea Guvernului nr. 82/2010 privind aprobarea bugetului de venituri şi cheltuieli pe anul 2010 al Fondului pentru mediu şi al Administraţiei Fondului pentru Mediu, precum şi a Listei programelor finanţate din Fondul pentru mediu în anul 2010 | [`hg/2010/82/`](hg/2010/82/) | amending act | 1 | 2010-02-09 | 2010-02-09 |
 | Hotărârea Guvernului nr. 86/2010 | [`hg/2010/86/`](hg/2010/86/) | in force | 1 | 2010-02-17 | 2010-02-17 |
 | Hotărârea Guvernului nr. 89/2010 | [`hg/2010/89/`](hg/2010/89/) | in force | 1 | 2010-02-15 | 2010-02-15 |
 | Hotărârea Guvernului nr. 90/2010 | [`hg/2010/90/`](hg/2010/90/) | in force | 19 | 2010-02-22 | 2025-04-17 |
@@ -5094,6 +5097,7 @@
 | Hotărârea Guvernului nr. 99/2010 | [`hg/2010/99/`](hg/2010/99/) | in force | 1 | 2010-02-17 | 2010-02-17 |
 | Hotărârea Guvernului nr. 104/2010 | [`hg/2010/104/`](hg/2010/104/) | in force | 1 | 2010-03-03 | 2010-03-03 |
 | Hotărârea Guvernului nr. 113/2010 | [`hg/2010/113/`](hg/2010/113/) | in force | 1 | 2010-02-25 | 2010-02-25 |
+| Hotărârea Guvernului nr. 117/2010 pentru aprobarea Regulamentului de investigare a accidentelor şi a incidentelor, de dezvoltare şi îmbunătăţire a siguranţei feroviare pe căile ferate şi pe reţeaua de transport cu metroul din România | [`hg/2010/117/`](hg/2010/117/) | amending act | 1 | 2010-05-01 | 2010-05-01 |
 | Hotărârea Guvernului nr. 118/2010 pentru aprobarea Metodologiei de achiziționare prin cumpărare, schimb sau donație de către stat, prin Regia Națională a Pădurilor - Romsilva și ceilalți administratori, a terenurilor ce pot fi incluse în fondul forestier proprietate publică a statului | [`hg/2010/118/`](hg/2010/118/) | amending act | 2 | 2010-03-01 | 2010-03-31 |
 | Hotărârea Guvernului nr. 120/2010 | [`hg/2010/120/`](hg/2010/120/) | in force | 3 | 2010-02-24 | 2016-08-18 |
 | Hotărârea Guvernului nr. 126/2010 | [`hg/2010/126/`](hg/2010/126/) | in force | 1 | 2010-02-25 | 2010-02-25 |

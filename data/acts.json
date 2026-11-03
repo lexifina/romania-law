@@ -85597,6 +85597,40 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/140087"
 },
 {
+"slug": "hg-26-2010",
+"path": "hg/2010/26",
+"kind": "hg",
+"year": "2010",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 26/2010 privind organizarea şi funcţionarea Departamentului pentru Relaţia cu Parlamentul",
+"short": "HG nr. 26/2010",
+"code": null,
+"status": "in force",
+"versions": 3,
+"from": "2010-01-12",
+"latest": "2013-01-19",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/144822"
+},
+{
+"slug": "hg-56-2010",
+"path": "hg/2010/56",
+"kind": "hg",
+"year": "2010",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 56/2010 privind stabilirea unor măsuri pentru reorganizarea producătorilor de energie electrică şi termică de sub autoritatea Ministerului Economiei, Comerţului şi Mediului de Afaceri, prin înfiinţarea Companiei Naţionale Electra - S.A. şi Companiei Naţionale Hidroenergetica - S.A",
+"short": "HG nr. 56/2010",
+"code": null,
+"status": "in force",
+"versions": 2,
+"from": "2010-02-05",
+"latest": "2010-04-20",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/115848"
+},
+{
 "slug": "hg-77-2010",
 "path": "hg/2010/77",
 "kind": "hg",
@@ -85629,6 +85663,23 @@
 "from": "2010-02-09",
 "latest": "2011-03-29",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/142583"
+},
+{
+"slug": "hg-82-2010",
+"path": "hg/2010/82",
+"kind": "hg",
+"year": "2010",
+"number": "82",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 82/2010 privind aprobarea bugetului de venituri şi cheltuieli pe anul 2010 al Fondului pentru mediu şi al Administraţiei Fondului pentru Mediu, precum şi a Listei programelor finanţate din Fondul pentru mediu în anul 2010",
+"short": "HG nr. 82/2010",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2010-02-09",
+"latest": "2010-02-09",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/115966"
 },
 {
 "slug": "hg-86-2010",
@@ -85748,6 +85799,23 @@
 "from": "2010-02-25",
 "latest": "2010-02-25",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/116605"
+},
+{
+"slug": "hg-117-2010",
+"path": "hg/2010/117",
+"kind": "hg",
+"year": "2010",
+"number": "117",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 117/2010 pentru aprobarea Regulamentului de investigare a accidentelor şi a incidentelor, de dezvoltare şi îmbunătăţire a siguranţei feroviare pe căile ferate şi pe reţeaua de transport cu metroul din România",
+"short": "HG nr. 117/2010",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2010-05-01",
+"latest": "2010-05-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/116693"
 },
 {
 "slug": "hg-118-2010",
