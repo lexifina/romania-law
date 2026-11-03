@@ -22598,6 +22598,69 @@
    ]
   },
   {
+   "slug": "hg-925-2006",
+   "path": "hg/2006/925",
+   "short": "HG nr. 925/2006",
+   "title": "Hotărârea Guvernului nr. 925/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73667",
+   "versions": [
+    {
+     "from": "2006-07-20",
+     "units": 107,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/73667",
+     "sha256": "f882e7f05294937cda15b19c99318a5ecc0ffe63c73872f6cdf08143ec5fe8c7"
+    },
+    {
+     "from": "2006-08-25",
+     "units": 107,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/75983",
+     "sha256": "0cdcee8c81127e83f8b0086a638fc5feec42b02a9582db5b75e0bcf49a5ac2e4"
+    },
+    {
+     "from": "2006-10-04",
+     "units": 108,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/75984",
+     "sha256": "abd2c96bc8543ef9389a75a1b53c2b086710a0d7440dc6485b165ea43e3c65cf"
+    },
+    {
+     "from": "2009-07-27",
+     "units": 109,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/109934",
+     "sha256": "b7850811aa072bf261a72868db3d444b99808ec5559176179d0e8b0926719b67"
+    },
+    {
+     "from": "2011-10-27",
+     "units": 109,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132908",
+     "sha256": "f0c436f9fecdb11dd861b62e89dfdb67b2b90f2ce8ec92e48cd1ede1e820f1fc"
+    },
+    {
+     "from": "2012-04-05",
+     "units": 109,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/136582",
+     "sha256": "c0fc20c5c75b18252dc46e8bab9d9e1eaee483c07b11c42adfe61fb918774918"
+    },
+    {
+     "from": "2013-04-19",
+     "units": 113,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/147219",
+     "sha256": "362e389263c093bbb5278e2abcd11f52e11adbebd0b38939aca856a89b8bf333"
+    },
+    {
+     "from": "2016-02-25",
+     "units": 113,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/175890",
+     "sha256": "267c223cdc14f90e38fd2ed674b58f4a54c1c794a442ce96d621af98eb1bd5a4"
+    },
+    {
+     "from": "2016-06-06",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/179009",
+     "sha256": "515d33153dabd6628921d3c8228b95802df945c965d8cdf59a8e7eedf70d9ab1"
+    }
+   ]
+  },
+  {
    "slug": "hg-928-2012",
    "path": "hg/2012/928",
    "short": "HG nr. 928/2012",

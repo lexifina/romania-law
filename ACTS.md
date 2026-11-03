@@ -1,6 +1,6 @@
 # Every act in this repository
 
-6597 acts, 19,138 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+6598 acts, 19,147 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -3783,7 +3783,7 @@
 | Ordonanța Guvernului nr. 21/2025 pentru modificarea și completarea Legii nr. 431/2023 privind asigurarea unui nivel minim global de impozitare a grupurilor de întreprinderi multinaționale și a grupurilor naționale de mari dimensiuni | [`og/2025/21/`](og/2025/21/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 | Ordonanța Guvernului nr. 22/2025 pentru modificarea și completarea Legii nr. 227/2015 privind Codul fiscal | [`og/2025/22/`](og/2025/22/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 
-## Government decisions (HG) (2822, of which 929 amending acts)
+## Government decisions (HG) (2823, of which 929 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -4403,6 +4403,7 @@
 | Hotărârea Guvernului nr. 870/2006 privind aprobarea Strategiei pentru îmbunătățirea sistemului de elaborare, coordonare și planificare a politicilor publice la nivelul administrației publice centrale | [`hg/2006/870/`](hg/2006/870/) | amending act | 1 | 2006-07-24 | 2006-07-24 |
 | Hotărârea Guvernului nr. 876/2006 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2006, pentru asigurarea unor cheltuieli curente şi de capital ale autorităţilor administraţiei publice locale | [`hg/2006/876/`](hg/2006/876/) | in force | 1 | 2006-07-07 | 2006-07-07 |
 | Hotărârea Guvernului nr. 882/2006 | [`hg/2006/882/`](hg/2006/882/) | in force | 3 | 2006-07-13 | 2007-11-06 |
+| Hotărârea Guvernului nr. 925/2006 | [`hg/2006/925/`](hg/2006/925/) | repealed 2016-06-06 | 9 | 2006-07-20 | 2016-06-06 |
 | Hotărârea Guvernului nr. 971/2006 | [`hg/2006/971/`](hg/2006/971/) | in force | 2 | 2006-10-01 | 2015-06-01 |
 | Hotărârea Guvernului nr. 972/2006 | [`hg/2006/972/`](hg/2006/972/) | in force | 1 | 2006-08-08 | 2006-08-08 |
 | Hotărârea Guvernului nr. 976/2006 | [`hg/2006/976/`](hg/2006/976/) | in force | 1 | 2006-08-14 | 2006-08-14 |

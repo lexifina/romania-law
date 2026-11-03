@@ -74003,6 +74003,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/214396"
 },
 {
+"slug": "hg-925-2006",
+"path": "hg/2006/925",
+"kind": "hg",
+"year": "2006",
+"number": "925",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 925/2006",
+"short": "HG nr. 925/2006",
+"code": null,
+"status": "repealed 2016-06-06",
+"versions": 9,
+"from": "2006-07-20",
+"latest": "2016-06-06",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/73667"
+},
+{
 "slug": "hg-971-2006",
 "path": "hg/2006/971",
 "kind": "hg",
