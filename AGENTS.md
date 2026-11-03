@@ -66,6 +66,7 @@ When only the credit was wrong (the words are right, but a change was credited t
 ## What is not here
 
 - Annexes, chapter and section headings.
+- Figures, signs, pictograms and annexes that the Monitorul Oficial printed as facsimiles or in a separate issue; an article that refers to one keeps that reference.
 - The portal's editorial notes.
 - Interpretive rulings that left the wording unchanged.
 - Forms newer than the newest archived capture.
