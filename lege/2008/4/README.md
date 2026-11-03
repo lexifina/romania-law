@@ -81,3 +81,10 @@ Act id: `legea-4-2008` (tags `legea-4-2008/<day>`; `python tools/on.py <day> leg
 - Legea nr. 4/2008: the form of 23 December 2016 differs from the earlier form in diacritics and punctuation and prints misprints (portal typesetting: not an amendment; the printed text is kept and no law is credited, as for the other portal typesetting in this record).
 - Legea nr. 4/2008: the portal editorial notes printed as paragraphs of an article (on a Constitutional Court ruling, a rectification, a provision put back in force) are not text: 5 such paragraphs across all forms, for example «Conform pct. 6 al art. 200 din LEGEA nr. 187 din 24 octombri».
 - Legea nr. 4/2008: 4 changed article(s) with no note naming a law, committed as the publisher's: 2016-12-23 art-010, 2016-12-23 art-019, 2016-12-23 art-048, 2016-12-23 art-053-2.
+
+## Credits corrected
+
+These changes were first published credited to another law. The words are unchanged; `git blame` still names the commit that wrote them, and `data/credits.csv` lists every corrected credit.
+
+- `art-057.md`, in force from 2012-02-10: Legea nr. 10/2012 (first published as no law named).
+- `art-058.md`, in force from 2012-02-10: Legea nr. 10/2012 (first published as no law named).
