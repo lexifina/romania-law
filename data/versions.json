@@ -16034,6 +16034,27 @@
    ]
   },
   {
+   "slug": "hg-185-2018",
+   "path": "hg/2018/185",
+   "short": "HG nr. 185/2018",
+   "title": "Hotărârea Guvernului nr. 185/2018 privind domeniile și programele de studii universitare de master acreditate și numărul maxim de studenți ce pot fi școlarizați în anul universitar 2018-2019",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/199704",
+   "versions": [
+    {
+     "from": "2018-04-12",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/199704",
+     "sha256": "53bd50e688089311b0305f66a9aea5bc9a9793cda9ca89834e53d92561545c22"
+    },
+    {
+     "from": "2018-09-12",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/204755",
+     "sha256": "239111fefa76681ae863083cd333759e75110b86dfaa34c5821c51ff598ce30c"
+    }
+   ]
+  },
+  {
    "slug": "hg-1850-2005",
    "path": "hg/2005/1850",
    "short": "HG nr. 1850/2005",
@@ -19454,6 +19475,21 @@
    ]
   },
   {
+   "slug": "hg-402-2016",
+   "path": "hg/2016/402",
+   "short": "HG nr. 402/2016",
+   "title": "Hotărârea Guvernului nr. 402/2016 privind domeniile și programele de studii universitare de master acreditate și numărul maxim de studenți ce pot fi școlarizați în anul universitar 2016-2017",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/179281",
+   "versions": [
+    {
+     "from": "2016-06-16",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/179281",
+     "sha256": "fcb1978920bdc50c8c957f8eaa7ccd0d0fb72d2fefc234e55655c1590cebca2e"
+    }
+   ]
+  },
+  {
    "slug": "hg-405-2007",
    "path": "hg/2007/405",
    "short": "HG nr. 405/2007",
@@ -22583,6 +22619,21 @@
    ]
   },
   {
+   "slug": "hg-581-2019",
+   "path": "hg/2019/581",
+   "short": "HG nr. 581/2019",
+   "title": "Hotărârea Guvernului nr. 581/2019 privind declanșarea procedurilor de expropriere a imobilelor proprietate privată care constituie coridorul de expropriere al lucrării de utilitate publică de interes național „Autostrada Sibiu-Pitești” - secțiunea 1 Sibiu-Boița",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/217123",
+   "versions": [
+    {
+     "from": "2019-08-12",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/217123",
+     "sha256": "b8367795848557879884083f6b53bcb3354be7d049e9daf22354ccb2fba202f0"
+    }
+   ]
+  },
+  {
    "slug": "hg-582-2015",
    "path": "hg/2015/582",
    "short": "HG nr. 582/2015",
@@ -25393,6 +25444,33 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/256044",
      "sha256": "ef61513987391f788ee0aaecec3e6ab64c111a47dc01da91ff988ea0b435aecc"
+    }
+   ]
+  },
+  {
+   "slug": "hg-749-2009",
+   "path": "hg/2009/749",
+   "short": "HG nr. 749/2009",
+   "title": "Hotărârea Guvernului nr. 749/2009 pentru aprobarea Nomenclatorului domeniilor, a structurilor instituțiilor de învățământ superior și a specializărilor/programelor de studii universitare de licență acreditate sau autorizate să funcționeze provizoriu organizate de acestea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/109324",
+   "versions": [
+    {
+     "from": "2009-07-06",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/109324",
+     "sha256": "d3b4f457a7fd09b04236b4e7d02107acdc5c529eecb2d26d4e508362e8c55bbc"
+    },
+    {
+     "from": "2009-10-12",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/112206",
+     "sha256": "b1815f0c92c5a5ceebaf537650094c2bed0c77e14c0234f93f9312c4961b446e"
+    },
+    {
+     "from": "2011-10-01",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/131899",
+     "sha256": "83a29276ac4fdf116844cc8203a2ef1ea6689756a2e024672c12abc90706b5db"
     }
    ]
   },
@@ -41348,6 +41426,27 @@
    ]
   },
   {
+   "slug": "legea-21-2020",
+   "path": "lege/2020/21",
+   "short": "Legea nr. 21/2020",
+   "title": "Legea nr. 21/2020 privind Codul aerian",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/223897",
+   "versions": [
+    {
+     "from": "2020-06-19",
+     "units": 136,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/223897",
+     "sha256": "0edd6feb511a93f6add2e5f674895fb1e51dee831b5000f01200840661d5ad53"
+    },
+    {
+     "from": "2022-03-02",
+     "units": 136,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/251990",
+     "sha256": "13d4cbe7fa5548a0e6939144392767b11321e61af47d1521a9ce25a37361c4b5"
+    }
+   ]
+  },
+  {
    "slug": "legea-210-2022",
    "path": "lege/2022/210",
    "short": "Legea nr. 210/2022",
@@ -47636,6 +47735,21 @@
    ]
   },
   {
+   "slug": "legea-290-2018",
+   "path": "lege/2018/290",
+   "short": "Legea nr. 290/2018",
+   "title": "Legea nr. 290/2018 pentru modificarea și completarea Legii nr. 2/1968 privind organizarea administrativă a teritoriului României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/208652",
+   "versions": [
+    {
+     "from": "2018-12-15",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/208652",
+     "sha256": "295af600e5760d085557302788fcbe4994ab3f76ab22550e722c57ebe910a548"
+    }
+   ]
+  },
+  {
    "slug": "legea-292-2011",
    "path": "lege/2011/292",
    "short": "Legea nr. 292/2011",
@@ -50566,6 +50680,27 @@
      "units": 58,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66456",
      "sha256": "4c8dcc58e19a9a3e5339486d0ed19734a19df1aafc58efbcc40cb8e5dd27ec0f"
+    }
+   ]
+  },
+  {
+   "slug": "legea-339-2015",
+   "path": "lege/2015/339",
+   "short": "Legea nr. 339/2015",
+   "title": "Legea bugetului de stat pe anul 2016 nr. 339/2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/174117",
+   "versions": [
+    {
+     "from": "2015-12-22",
+     "units": 63,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174117",
+     "sha256": "9b717c8c5b3101ef8334f7d0d2e020620e2ad7b3b8f9fa8e2c4af29bf215606c"
+    },
+    {
+     "from": "2016-08-19",
+     "units": 63,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/180932",
+     "sha256": "aeb4e3f9a9d10dbf85d11a0a81e3b4bf33169795dfadd9152cc0baefcc1cb77f"
     }
    ]
   },
@@ -55855,6 +55990,39 @@
      "units": 13,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/232305",
      "sha256": "1eda180850358d08da4a5f803282911e581f780d92b8eb855621975c70db3514"
+    }
+   ]
+  },
+  {
+   "slug": "legea-5-2014",
+   "path": "lege/2014/5",
+   "short": "Legea nr. 5/2014",
+   "title": "Legea nr. 5/2014 privind unele măsuri pentru facilitarea schimbului transfrontalier de informaţii referitoare la încălcările normelor de circulaţie care afectează siguranţa rutieră şi pentru facilitarea executării sancţiunilor aplicate acestor încălcări",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/154518",
+   "versions": [
+    {
+     "from": "2014-01-18",
+     "units": 24,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/154518",
+     "sha256": "afd842d300b356cc387dc2431a9d45351ae979bd05c82bde432d0c0744dfc92a"
+    },
+    {
+     "from": "2016-04-29",
+     "units": 24,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/177542",
+     "sha256": "e068f6ba83ab371528cd0eb7e1ba5bea5d6e13305671e39d76473ee5019e4e1a"
+    },
+    {
+     "from": "2016-06-13",
+     "units": 24,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/179168",
+     "sha256": "c1aad0f3248294cb3486b701161f50060c9bc45c25ce7085223ff36b7a9f014d"
+    },
+    {
+     "from": "2022-11-03",
+     "units": 24,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/154518",
+     "sha256": "e6b91889808246533cf164a9e7d8333fb4bc1c77e2c1860bbeec486ed7643684"
     }
    ]
   },

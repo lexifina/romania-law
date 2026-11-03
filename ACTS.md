@@ -1,12 +1,13 @@
 # Every act in this repository
 
-12093 acts, 25,667 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+12101 acts, 25,683 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
 | Code | Act | Folder | Versions | Latest |
 | --- | --- | --- | ---: | --- |
 | Codul administrativ | Codul administrativ | [`oug/2019/57/`](oug/2019/57/) | 46 | 2026-03-30 |
+| Codul aerian | Legea nr. 21/2020 | [`lege/2020/21/`](lege/2020/21/) | 2 | 2022-03-02 |
 | Codul civil | Codul civil | [`lege/2009/287/`](lege/2009/287/) | 13 | 2026-05-03 |
 | Codul civil din 26 noiembrie 1864 | Codul civil din 1864 | [`cod/1864/civil/`](cod/1864/civil/) | 8 | 2013-02-15 |
 | Codul comercial din 10 mai 1887 | Codul comercial din 1887 | [`cod/1887/comercial/`](cod/1887/comercial/) | 17 | 2013-02-15 |
@@ -32,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (2382, of which 1081 amending acts)
+## Laws (legi) (2386, of which 1082 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -966,6 +967,7 @@
 | Legea nr. 352/2013 | [`lege/2013/352/`](lege/2013/352/) | in force | 2 | 2013-12-22 | 2015-03-13 |
 | Legea nr. 361/2013 | [`lege/2013/361/`](lege/2013/361/) | in force | 1 | 2014-01-19 | 2014-01-19 |
 | Legea nr. 383/2013 | [`lege/2013/383/`](lege/2013/383/) | in force | 4 | 2014-01-12 | 2020-06-18 |
+| Legea nr. 5/2014 privind unele măsuri pentru facilitarea schimbului transfrontalier de informaţii referitoare la încălcările normelor de circulaţie care afectează siguranţa rutieră şi pentru facilitarea executării sancţiunilor aplicate acestor încălcări | [`lege/2014/5/`](lege/2014/5/) | in force | 4 | 2014-01-18 | 2022-11-03 |
 | Legea nr. 17/2014 privind unele măsuri de reglementare a vânzării-cumpărării terenurilor agricole situate în extravilan și de modificare a Legii nr. 268/2001 privind privatizarea societăților comerciale ce dețin în administrare terenuri proprietate publică și privată a statului cu destinație agricolă și înființarea Agenției Domeniilor Statului | [`lege/2014/17/`](lege/2014/17/) | amending act | 7 | 2014-04-11 | 2024-05-03 |
 | Legea nr. 18/2014 | [`lege/2014/18/`](lege/2014/18/) | in force | 2 | 2014-06-17 | 2014-06-17 |
 | Legea nr. 43/2014 | [`lege/2014/43/`](lege/2014/43/) | in force | 3 | 2014-05-09 | 2019-07-28 |
@@ -1061,6 +1063,7 @@
 | Legea nr. 312/2015 privind redresarea și rezoluția instituțiilor de credit și a firmelor de investiții, precum și pentru modificarea și completarea unor acte normative în domeniul financiar | [`lege/2015/312/`](lege/2015/312/) | amending act | 9 | 2015-12-14 | 2025-04-10 |
 | Legea nr. 318/2015 pentru înființarea, organizarea și funcționarea Agenției Naționale de Administrare a Bunurilor Indisponibilizate și pentru modificarea și completarea unor acte normative | [`lege/2015/318/`](lege/2015/318/) | amending act | 4 | 2015-12-27 | 2023-07-14 |
 | Legea nr. 336/2015 | [`lege/2015/336/`](lege/2015/336/) | in force | 1 | 2015-12-26 | 2015-12-26 |
+| Legea bugetului de stat pe anul 2016 nr. 339/2015 | [`lege/2015/339/`](lege/2015/339/) | in force | 2 | 2015-12-22 | 2016-08-19 |
 | Legea nr. 340/2015 bugetului asigurărilor sociale de stat pe anul 2016 | [`lege/2015/340/`](lege/2015/340/) | in force | 1 | 2015-12-22 | 2015-12-22 |
 | Legea nr. 344/2015 | [`lege/2015/344/`](lege/2015/344/) | in force | 1 | 2015-12-31 | 2015-12-31 |
 | Legea nr. 352/2015 pentru modificarea și completarea Ordonanței Guvernului nr. 26/2011 privind înființarea Inspectoratului de Stat pentru Controlul în Transportul Rutier | [`lege/2015/352/`](lege/2015/352/) | repealed 2023-03-30 | 2 | 2023-01-01 | 2023-03-30 |
@@ -1251,6 +1254,7 @@
 | Legea nr. 252/2018 pentru modificarea și completarea Legii nr. 374/2006 privind suspendarea serviciului public cu specific silvic pentru proprietarii terenurilor forestiere pentru care au fost emise documentele prevăzute la art. III alin. (1) din Legea nr. 169/1997 pentru modificarea și completarea Legii fondului funciar nr. 18/1991 | [`lege/2018/252/`](lege/2018/252/) | amending act | 1 | 2018-11-12 | 2018-11-12 |
 | Legea nr. 256/2018 privind unele măsuri necesare pentru implementarea operațiunilor petroliere de către titularii de acorduri petroliere referitoare la perimetre petroliere offshore | [`lege/2018/256/`](lege/2018/256/) | in force | 3 | 2018-11-17 | 2024-06-07 |
 | Legea nr. 288/2018 pentru modificarea și completarea unor acte normative | [`lege/2018/288/`](lege/2018/288/) | amending act | 1 | 2018-12-09 | 2018-12-09 |
+| Legea nr. 290/2018 pentru modificarea și completarea Legii nr. 2/1968 privind organizarea administrativă a teritoriului României | [`lege/2018/290/`](lege/2018/290/) | amending act | 1 | 2018-12-15 | 2018-12-15 |
 | Legea nr. 292/2018 privind evaluarea impactului anumitor proiecte publice și private asupra mediului | [`lege/2018/292/`](lege/2018/292/) | in force | 1 | 2019-01-09 | 2019-01-09 |
 | Legea nr. 294/2018 privind aprobarea Ordonanței de urgență a Guvernului nr. 93/2017 pentru stabilirea unor măsuri privind organizarea, funcționarea și atribuțiile oficiilor teritoriale ale Autorității Naționale de Management al Calității în Sănătate | [`lege/2018/294/`](lege/2018/294/) | amending act | 1 | 2018-12-08 | 2018-12-08 |
 | Legea nr. 295/2018 privind aprobarea Ordonanței de urgență a Guvernului nr. 57/2018 pentru asigurarea continuității și decontării asistenței medicale primare prin centrele de permanență | [`lege/2018/295/`](lege/2018/295/) | amending act | 1 | 2018-12-08 | 2018-12-08 |
@@ -1357,6 +1361,7 @@
 | Legea nr. 15/2020 pentru înfiinţarea Muzeului Naţional "Brătianu" | [`lege/2020/15/`](lege/2020/15/) | in force | 1 | 2020-02-01 | 2020-02-01 |
 | Legea nr. 16/2020 privind respingerea Ordonanţei de urgenţă a Guvernului nr. 131/2006 pentru modificarea şi completarea Legii nr. 508/2004 privind înfiinţarea, organizarea şi funcţionarea în cadrul Ministerului Public a Direcţiei de Investigare a Infracţiunilor de Criminalitate Organizată şi Terorism | [`lege/2020/16/`](lege/2020/16/) | amending act | 1 | 2020-02-23 | 2020-02-23 |
 | Legea nr. 19/2020 privind acordarea unor zile libere părinților pentru supravegherea copiilor, în situația închiderii temporare a unităților de învățământ | [`lege/2020/19/`](lege/2020/19/) | in force | 4 | 2020-03-17 | 2020-05-22 |
+| Legea nr. 21/2020 privind Codul aerian | [`lege/2020/21/`](lege/2020/21/) | in force | 2 | 2020-06-19 | 2022-03-02 |
 | Legea nr. 25/2020 pentru ratificarea Acordului dintre Guvernul României și Guvernul Republicii Singapore cu privire la serviciile aeriene, semnat la Singapore la 31 mai 2018 | [`lege/2020/25/`](lege/2020/25/) | in force | 1 | 2020-03-27 | 2020-03-27 |
 | Legea nr. 26/2020 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 33/2007 privind organizarea şi funcţionarea Autorităţii Naţionale de Reglementare în Domeniul Energiei | [`lege/2020/26/`](lege/2020/26/) | amending act | 1 | 2020-03-27 | 2020-03-27 |
 | Legea nr. 27/2020 privind limba semnelor române | [`lege/2020/27/`](lege/2020/27/) | in force | 1 | 2020-04-02 | 2020-04-02 |
@@ -4545,7 +4550,7 @@
 | Ordonanța Guvernului nr. 21/2025 pentru modificarea și completarea Legii nr. 431/2023 privind asigurarea unui nivel minim global de impozitare a grupurilor de întreprinderi multinaționale și a grupurilor naționale de mari dimensiuni | [`og/2025/21/`](og/2025/21/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 | Ordonanța Guvernului nr. 22/2025 pentru modificarea și completarea Legii nr. 227/2015 privind Codul fiscal | [`og/2025/22/`](og/2025/22/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 
-## Government decisions (HG) (7556, of which 3260 amending acts)
+## Government decisions (HG) (7560, of which 3260 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -5512,6 +5517,7 @@
 | Hotărârea Guvernului nr. 609/2009 | [`hg/2009/609/`](hg/2009/609/) | in force | 2 | 2009-06-03 | 2010-11-30 |
 | Hotărârea Guvernului nr. 652/2009 | [`hg/2009/652/`](hg/2009/652/) | in force | 23 | 2009-06-29 | 2024-06-05 |
 | Hotărârea Guvernului nr. 717/2009 | [`hg/2009/717/`](hg/2009/717/) | in force | 11 | 2009-06-18 | 2020-08-21 |
+| Hotărârea Guvernului nr. 749/2009 pentru aprobarea Nomenclatorului domeniilor, a structurilor instituțiilor de învățământ superior și a specializărilor/programelor de studii universitare de licență acreditate sau autorizate să funcționeze provizoriu organizate de acestea | [`hg/2009/749/`](hg/2009/749/) | repealed 2011-10-01 | 3 | 2009-07-06 | 2011-10-01 |
 | Hotărârea Guvernului nr. 760/2009 | [`hg/2009/760/`](hg/2009/760/) | in force | 4 | 2009-09-09 | 2018-05-15 |
 | Hotărârea Guvernului nr. 791/2009 | [`hg/2009/791/`](hg/2009/791/) | in force | 2 | 2009-07-29 | 2016-11-03 |
 | Hotărârea Guvernului nr. 810/2009 | [`hg/2009/810/`](hg/2009/810/) | in force | 2 | 2009-11-02 | 2011-12-27 |
@@ -6094,6 +6100,7 @@
 | Hotărârea Guvernului nr. 376/2016 | [`hg/2016/376/`](hg/2016/376/) | in force | 1 | 2016-06-01 | 2016-06-01 |
 | Hotărârea Guvernului nr. 394/2016 | [`hg/2016/394/`](hg/2016/394/) | in force | 1 | 2016-06-06 | 2016-06-06 |
 | Normele metodologice de aplicare a prevederilor referitoare la atribuirea contractului de achiziție publică/acordului-cadru din Legea nr. 98/2016 privind achizițiile publice, aprobate prin Hotărârea Guvernului nr. 395/2016 | [`hg/2016/395/`](hg/2016/395/) | in force | 7 | 2016-06-09 | 2024-05-24 |
+| Hotărârea Guvernului nr. 402/2016 privind domeniile și programele de studii universitare de master acreditate și numărul maxim de studenți ce pot fi școlarizați în anul universitar 2016-2017 | [`hg/2016/402/`](hg/2016/402/) | in force | 1 | 2016-06-16 | 2016-06-16 |
 | Hotărârea Guvernului nr. 409/2016 | [`hg/2016/409/`](hg/2016/409/) | in force | 1 | 2016-06-15 | 2016-06-15 |
 | Hotărârea Guvernului nr. 431/2016 | [`hg/2016/431/`](hg/2016/431/) | in force | 1 | 2016-06-28 | 2016-06-28 |
 | Hotărârea Guvernului nr. 449/2016 | [`hg/2016/449/`](hg/2016/449/) | in force | 1 | 2016-07-01 | 2016-07-01 |
@@ -6323,6 +6330,7 @@
 | Hotărârea Guvernului nr. 140/2018 pentru aprobarea pachetelor de servicii și a Contractului-cadru care reglementează condițiile acordării asistenței medicale, a medicamentelor și a dispozitivelor medicale în cadrul sistemului de asigurări sociale de sănătate pentru anii 2018-2019 | [`hg/2018/140/`](hg/2018/140/) | amending act | 1 | 2018-04-01 | 2018-04-01 |
 | Hotărârea Guvernului nr. 153/2018 pentru aprobarea Regulamentului-cadru privind stabilirea locurilor de muncă, a categoriilor de personal, a mărimii concrete a sporului pentru condiții de muncă prevăzut în anexa nr. II la Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, precum și a condițiilor de acordare a acestuia, pentru familia ocupațională de funcții bugetare "Sănătate și asistență socială" | [`hg/2018/153/`](hg/2018/153/) | amending act | 1 | 2018-03-30 | 2018-03-30 |
 | Hotărârea Guvernului nr. 158/2018 privind aprobarea Nomenclatorului domeniilor şi al specializărilor/programelor de studii universitare şi a structurii instituţiilor de învăţământ superior pentru anul universitar 2018-2019 | [`hg/2018/158/`](hg/2018/158/) | amending act | 2 | 2018-04-10 | 2018-11-15 |
+| Hotărârea Guvernului nr. 185/2018 privind domeniile și programele de studii universitare de master acreditate și numărul maxim de studenți ce pot fi școlarizați în anul universitar 2018-2019 | [`hg/2018/185/`](hg/2018/185/) | in force | 2 | 2018-04-12 | 2018-09-12 |
 | Hotărârea Guvernului nr. 209/2018 pentru modificarea Hotărârii Guvernului nr. 957/2005 privind organizarea și funcționarea Institutului Național de Statistică | [`hg/2018/209/`](hg/2018/209/) | amending act | 1 | 2018-04-16 | 2018-04-16 |
 | Hotărârea Guvernului nr. 210/2018 privind modificarea datelor de identificare și transmiterea unui bun imobil aflat în domeniul public al statului din administrarea Agenției Naționale de Cadastru și Publicitate Imobiliară, pentru Oficiul de Cadastru și Publicitate Imobiliară Vrancea, în administrarea Agenției de Plăți și Intervenție pentru Agricultură - Centrul Județean Vrancea | [`hg/2018/210/`](hg/2018/210/) | amending act | 1 | 2018-04-16 | 2018-04-16 |
 | Hotărârea Guvernului nr. 211/2018 privind transmiterea imobilului 3282 din domeniul public al statului și din administrarea Ministerului Apărării Naționale în domeniul public al municipiului Constanța, județul Constanța | [`hg/2018/211/`](hg/2018/211/) | in force | 1 | 2018-04-16 | 2018-04-16 |
@@ -6503,6 +6511,7 @@
 | Hotărârea Guvernului nr. 578/2019 privind actualizarea valorii de inventar a imobilului 1771 aflat în domeniul public al statului, pentru transmiterea unei părţi din acesta din administrarea Ministerului Apărării Naţionale în administrarea Ministerului Transporturilor, pentru Compania Naţională de Administrare a Infrastructurii Rutiere - S.A., şi modificarea anexelor nr. 4 şi 16 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului | [`hg/2019/578/`](hg/2019/578/) | amending act | 1 | 2019-08-20 | 2019-08-20 |
 | Hotărârea Guvernului nr. 579/2019 pentru stabilirea regimului juridic al unor blocuri de locuinţe din municipiul Ploieşti, judeţul Prahova, construite prin Programul de construcţii locuinţe pentru tineri, destinate închirierii, aflate în administrarea Consiliului Local al Municipiului Ploieşti, precum şi a măsurilor necesare în vederea aplicării prevederilor Legii nr. 152/1998 privind înfiinţarea Agenţiei Naţionale pentru Locuinţe, referitoare la vânzarea acestora | [`hg/2019/579/`](hg/2019/579/) | in force | 1 | 2019-08-20 | 2019-08-20 |
 | Hotărârea Guvernului nr. 580/2019 pentru modificarea anexei nr. 1 la Hotărârea Guvernului nr. 534/2007 privind înființarea, atribuțiile, competențele și modul de funcționare ale Comitetului Interministerial de Finanțări, Garanții și Asigurări și reglementarea operațiunilor de finanțare, garantare și asigurare efectuate de Banca de Export-Import a României EXIMBANK - S.A. în numele și în contul statului | [`hg/2019/580/`](hg/2019/580/) | amending act | 1 | 2019-08-12 | 2019-08-12 |
+| Hotărârea Guvernului nr. 581/2019 privind declanșarea procedurilor de expropriere a imobilelor proprietate privată care constituie coridorul de expropriere al lucrării de utilitate publică de interes național „Autostrada Sibiu-Pitești” - secțiunea 1 Sibiu-Boița | [`hg/2019/581/`](hg/2019/581/) | in force | 1 | 2019-08-12 | 2019-08-12 |
 | Hotărârea Guvernului nr. 582/2019 privind aprobarea bugetului de venituri și cheltuieli pe anul 2019 al Fondului pentru mediu și al Administrației Fondului pentru Mediu, rectificat | [`hg/2019/582/`](hg/2019/582/) | amending act | 1 | 2019-08-12 | 2019-08-12 |
 | Hotărârea Guvernului nr. 583/2019 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziția Guvernului, prevăzut în bugetul de stat pe anul 2019, pentru județul Maramureș | [`hg/2019/583/`](hg/2019/583/) | in force | 1 | 2019-08-12 | 2019-08-12 |
 | Hotărârea Guvernului nr. 584/2019 pentru modificarea şi completarea Hotărârii Guvernului nr. 494/2011 privind înfiinţarea Centrului Naţional de Răspuns la Incidente de Securitate Cibernetică - CERT-RO | [`hg/2019/584/`](hg/2019/584/) | amending act | 1 | 2019-08-13 | 2019-08-13 |
