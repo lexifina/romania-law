@@ -665,6 +665,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/1517"
 },
 {
+"slug": "legea-53-1991",
+"path": "lege/1991/53",
+"kind": "lege",
+"year": "1991",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 53/1991",
+"short": "Legea nr. 53/1991",
+"code": null,
+"status": "in force",
+"versions": 11,
+"from": "1991-08-08",
+"latest": "2010-01-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/222211"
+},
+{
 "slug": "legea-60-1991",
 "path": "lege/1991/60",
 "kind": "lege",
@@ -884,6 +901,23 @@
 "from": "1992-04-13",
 "latest": "1992-04-13",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/2216"
+},
+{
+"slug": "legea-45-1992",
+"path": "lege/1992/45",
+"kind": "lege",
+"year": "1992",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 45/1992 privind stabilirea nivelului unor taxe în sume fixe datorate statului, în lei, de persoanele fizice și juridice și introducerea plății taxei asupra mijloacelor de transport cu tracțiune mecanică și a mijloacelor de transport pe apă, deținute de regiile autonome, societățile comerciale și de ceilalți agenți economici organizați ca persoane juridice",
+"short": "Legea nr. 45/1992",
+"code": null,
+"status": "in force",
+"versions": 2,
+"from": "1992-05-21",
+"latest": "1994-06-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/2243"
 },
 {
 "slug": "legea-47-1992",

@@ -51080,6 +51080,27 @@
    ]
   },
   {
+   "slug": "legea-45-1992",
+   "path": "lege/1992/45",
+   "short": "Legea nr. 45/1992",
+   "title": "Legea nr. 45/1992 privind stabilirea nivelului unor taxe în sume fixe datorate statului, în lei, de persoanele fizice și juridice și introducerea plății taxei asupra mijloacelor de transport cu tracțiune mecanică și a mijloacelor de transport pe apă, deținute de regiile autonome, societățile comerciale și de ceilalți agenți economici organizați ca persoane juridice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2243",
+   "versions": [
+    {
+     "from": "1992-05-21",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/2243",
+     "sha256": "d747815bd01b52ee1173aa2c765c18c5b90fd868f342198115de263d471e5373"
+    },
+    {
+     "from": "1994-06-01",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/222175",
+     "sha256": "d567ebe1e4d27cfd6a096d37d58d26a0f324df8be2a9f946831cfe8f9ec657c6"
+    }
+   ]
+  },
+  {
    "slug": "legea-45-1994",
    "path": "lege/1994/45",
    "short": "Legea nr. 45/1994",
@@ -53248,6 +53269,81 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/37912",
      "sha256": "a7229162447d06086513460989478971d5c3344e7bfcbf34b1f61aff63785aaa"
+    }
+   ]
+  },
+  {
+   "slug": "legea-53-1991",
+   "path": "lege/1991/53",
+   "short": "Legea nr. 53/1991",
+   "title": "Legea nr. 53/1991",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/222211",
+   "versions": [
+    {
+     "from": "1991-08-08",
+     "units": 30,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/1521",
+     "sha256": "e755e41854bde68c8ffb6b93554e3aa3bf2b3ca2c55b70470daf346f8517ee61"
+    },
+    {
+     "from": "1993-09-08",
+     "units": 33,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/1522",
+     "sha256": "429f01e272e02d7336630f07600e6a379bd7429ffaae2d3da93cdfc01b91f2d0"
+    },
+    {
+     "from": "1996-01-31",
+     "units": 39,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/1523",
+     "sha256": "4a4e3f76bf27bf528e52cc90c25edf14af9d1578f8c19ec1c2c9282980969872"
+    },
+    {
+     "from": "1997-06-26",
+     "units": 39,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/222177",
+     "sha256": "af6b4f9ccc5d9eb5b41b16a86292304e82c5f120c8350f592bb3bb3e030314d3"
+    },
+    {
+     "from": "1997-07-10",
+     "units": 41,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/222186",
+     "sha256": "f0cfb0fb9c7b189734208d1e739e1a4f8e5adc4e54ac5e3c82f38c897b6db832"
+    },
+    {
+     "from": "1998-07-16",
+     "units": 41,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/222188",
+     "sha256": "4f7edf9e4948a2ce32b0c2d443705023337b26003b04e41a42bf700813ff779e"
+    },
+    {
+     "from": "1998-08-03",
+     "units": 41,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/222207",
+     "sha256": "a766cbd4cd6af2720fe0a0f350d723c527ea65bca65d3bf49bddd69575785a3e"
+    },
+    {
+     "from": "2002-04-16",
+     "units": 41,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/222208",
+     "sha256": "bdee2aa56c11721b4c23249a6d8bf70a4e1abf83c7372e2197aa3b26e900cdd5"
+    },
+    {
+     "from": "2003-12-18",
+     "units": 41,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/222209",
+     "sha256": "cc2e844b9c2582366d5d21bc0a35c9d9c4ef9aba38a8eaa222cf1984783e4718"
+    },
+    {
+     "from": "2006-05-06",
+     "units": 41,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/222210",
+     "sha256": "e4dab6074a143a9ca7801cd48d7ca7bd8bfd0e94915981d6f2483bab636abc13"
+    },
+    {
+     "from": "2010-01-01",
+     "units": 41,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/222216",
+     "sha256": "d802d6fb37acbefeea39cd0093de791fcbdc92a6176fb0a09dc64441826ff450"
     }
    ]
   },

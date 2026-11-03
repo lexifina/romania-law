@@ -1,6 +1,6 @@
 # Every act in this repository
 
-8927 acts, 22,045 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+8929 acts, 22,058 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -32,7 +32,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (2082, of which 847 amending acts)
+## Laws (legi) (2084, of which 847 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -74,6 +74,7 @@
 | Legea nr. 49/1991 | [`lege/1991/49/`](lege/1991/49/) | in force | 16 | 1991-08-01 | 2022-12-09 |
 | Legea nr. 50/1991 privind autorizarea executării lucrărilor de construcții | [`lege/1991/50/`](lege/1991/50/) | in force | 63 | 1997-01-13 | 2026-03-27 |
 | Legea nr. 51/1991 privind securitatea națională a României | [`lege/1991/51/`](lege/1991/51/) | in force | 6 | 1991-08-07 | 2023-03-18 |
+| Legea nr. 53/1991 | [`lege/1991/53/`](lege/1991/53/) | in force | 11 | 1991-08-08 | 2010-01-01 |
 | Legea nr. 60/1991 privind organizarea și desfășurarea adunărilor publice | [`lege/1991/60/`](lege/1991/60/) | in force | 5 | 1991-09-25 | 2021-10-11 |
 | Legea nr. 61/1991 pentru sancționarea faptelor de încălcare a unor norme de conviețuire socială, a ordinii și liniștii publice | [`lege/1991/61/`](lege/1991/61/) | in force | 21 | 1991-09-27 | 2026-06-13 |
 | Legea nr. 64/1991 privind brevetele de invenție | [`lege/1991/64/`](lege/1991/64/) | in force | 14 | 2002-10-15 | 2024-06-27 |
@@ -87,6 +88,7 @@
 | Legea nr. 19/1992 | [`lege/1992/19/`](lege/1992/19/) | in force | 1 | 1992-03-16 | 1992-03-16 |
 | Legea nr. 34/1992 | [`lege/1992/34/`](lege/1992/34/) | in force | 1 | 1992-04-13 | 1992-04-13 |
 | Legea nr. 35/1992 | [`lege/1992/35/`](lege/1992/35/) | in force | 1 | 1992-04-13 | 1992-04-13 |
+| Legea nr. 45/1992 privind stabilirea nivelului unor taxe în sume fixe datorate statului, în lei, de persoanele fizice și juridice și introducerea plății taxei asupra mijloacelor de transport cu tracțiune mecanică și a mijloacelor de transport pe apă, deținute de regiile autonome, societățile comerciale și de ceilalți agenți economici organizați ca persoane juridice | [`lege/1992/45/`](lege/1992/45/) | in force | 2 | 1992-05-21 | 1994-06-01 |
 | Legea nr. 47/1992 privind organizarea și funcționarea Curții Constituționale | [`lege/1992/47/`](lege/1992/47/) | in force | 11 | 1992-05-22 | 2023-12-08 |
 | Legea nr. 48/1992 | [`lege/1992/48/`](lege/1992/48/) | in force | 2 | 1992-05-25 | 2002-06-03 |
 | Legea nr. 54/1992 privind impozitul pe sumele obținute din vînzarea activelor societăților comerciale cu capital de stat | [`lege/1992/54/`](lege/1992/54/) | in force | 2 | 1992-06-04 | 1995-01-01 |
