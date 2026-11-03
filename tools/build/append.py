@@ -65,6 +65,9 @@ def published_state(repo: Path, c: dict) -> tuple[dict[str, str], dict[str, tupl
     # main only grows, so their published text can't have moved. Everything else is read back in full.
     trusted_path = os.environ.get('GITLAW_TRUSTED_ACTS')
     trusted = set(Path(trusted_path).read_text(encoding='utf-8').split()) if trusted_path and Path(trusted_path).exists() else set()
+    # An act listed for correction is always read back: trust from a stale record would skip the very difference the
+    # correction is for (codul-procedura-civila-1865, 2026-11-02).
+    trusted -= set(approved_corrections())
     try:
         for act in c['acts']:
             r = rows[act['slug']]
