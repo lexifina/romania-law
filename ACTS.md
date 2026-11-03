@@ -1,6 +1,6 @@
 # Every act in this repository
 
-11744 acts, 25,318 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+11748 acts, 25,322 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -4515,7 +4515,7 @@
 | Ordonanța Guvernului nr. 21/2025 pentru modificarea și completarea Legii nr. 431/2023 privind asigurarea unui nivel minim global de impozitare a grupurilor de întreprinderi multinaționale și a grupurilor naționale de mari dimensiuni | [`og/2025/21/`](og/2025/21/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 | Ordonanța Guvernului nr. 22/2025 pentru modificarea și completarea Legii nr. 227/2015 privind Codul fiscal | [`og/2025/22/`](og/2025/22/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 
-## Government decisions (HG) (7237, of which 3135 amending acts)
+## Government decisions (HG) (7241, of which 3139 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -6538,10 +6538,14 @@
 | Hotărârea Guvernului nr. 107/2020 pentru modificarea Hotărârii Guvernului nr. 72/2013 privind aprobarea normelor metodologice pentru determinarea costului standard per elev/preșcolar și stabilirea finanțării de bază a unităților de învățământ preuniversitar de stat, care se asigură din bugetul de stat, din sume defalcate din T.V.A. prin bugetele locale, pe baza costului standard per elev/preșcolar | [`hg/2020/107/`](hg/2020/107/) | amending act | 1 | 2020-02-10 | 2020-02-10 |
 | Hotărârea Guvernului nr. 108/2020 privind interoperabilitatea sistemului feroviar | [`hg/2020/108/`](hg/2020/108/) | in force | 1 | 2020-02-13 | 2020-02-13 |
 | Hotărârea Guvernului nr. 115/2020 privind schimbarea denumirii Muzeului Bucovinei în Muzeul Național al Bucovinei | [`hg/2020/115/`](hg/2020/115/) | in force | 1 | 2020-02-14 | 2020-02-14 |
+| Hotărârea Guvernului nr. 119/2020 privind aprobarea stemei comunei Şelimbăr, judeţul Sibiu | [`hg/2020/119/`](hg/2020/119/) | amending act | 1 | 2020-02-28 | 2020-02-28 |
 | Hotărârea Guvernului nr. 125/2020 pentru aprobarea modului de repartizare și de utilizare a sumelor prevăzute la lit. c) și d) din anexa nr. 3/13/02a la Legea bugetului de stat pe anul 2020 nr. 5/2020 | [`hg/2020/125/`](hg/2020/125/) | amending act | 2 | 2020-02-14 | 2020-06-29 |
 | Hotărârea Guvernului nr. 132/2020 privind radierea din inventarul centralizat al bunurilor din domeniul public al statului a unor bunuri imobile aflate în administrarea Ministerului Transporturilor, Infrastructurii și Comunicațiilor și în concesiunea Companiei Naționale "Administrația Porturilor Dunării Maritime" - S.A. Galați din Portul Comercial Galați, ca urmare a dublei înregistrări | [`hg/2020/132/`](hg/2020/132/) | in force | 1 | 2020-02-17 | 2020-02-17 |
 | Hotărârea Guvernului nr. 137/2020 privind organizarea, funcționarea și atribuțiile unor structuri din cadrul aparatului de lucru al Guvernului | [`hg/2020/137/`](hg/2020/137/) | in force | 5 | 2020-02-17 | 2022-12-12 |
 | Hotărârea Guvernului nr. 138/2020 pentru aprobarea modului de repartizare și de utilizare a sumelor prevăzute la lit. a) și b) din anexa nr. 3/13/02a la bugetul Secretariatului General al Guvernului, aprobat prin Legea bugetului de stat pe anul 2020 nr. 5/2020 | [`hg/2020/138/`](hg/2020/138/) | amending act | 1 | 2020-02-18 | 2020-02-18 |
+| Hotărârea Guvernului nr. 140/2020 privind aprobarea modelului steagului comunei Mociu, judeţul Cluj | [`hg/2020/140/`](hg/2020/140/) | amending act | 1 | 2020-02-28 | 2020-02-28 |
+| Hotărârea Guvernului nr. 143/2020 pentru aprobarea indicatorilor tehnico-economici aferenţi obiectivului de investiţii "Pod peste râul Dâmboviţa pe DN 73 km 78 + 519", judeţul Argeş | [`hg/2020/143/`](hg/2020/143/) | amending act | 1 | 2020-02-24 | 2020-02-24 |
+| Hotărârea Guvernului nr. 148/2020 privind aprobarea modului de determinare şi de calcul al debitului ecologic | [`hg/2020/148/`](hg/2020/148/) | amending act | 1 | 2020-02-26 | 2020-02-26 |
 | Hotărârea Guvernului nr. 153/2020 pentru aprobarea Notei de fundamentare privind necesitatea şi oportunitatea efectuării cheltuielilor aferente proiectului de investiţii "Achiziţie autospeciale de supraveghere cu termoviziune" | [`hg/2020/153/`](hg/2020/153/) | amending act | 1 | 2020-03-04 | 2020-03-04 |
 | Hotărârea Guvernului nr. 154/2020 pentru aprobarea Notei de fundamentare privind necesitatea şi oportunitatea efectuării cheltuielilor aferente proiectului de investiţii "Achiziţie de mijloace de mobilitate navală necesare FRONTEX - Şalupe de intervenţie" | [`hg/2020/154/`](hg/2020/154/) | amending act | 1 | 2020-03-04 | 2020-03-04 |
 | Hotărârea Guvernului nr. 159/2020 privind înscrierea în inventarul centralizat al bunurilor din domeniul public al statului şi darea în administrarea Agenţiei Naţionale pentru Resurse Minerale a zăcământului de apă minerală naturală (necarbogazoasă), perimetrul Barnar Vest, judeţul Suceava | [`hg/2020/159/`](hg/2020/159/) | in force | 1 | 2020-03-19 | 2020-03-19 |

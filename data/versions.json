@@ -111236,6 +111236,21 @@
    ]
   },
   {
+   "slug": "hg-119-2020",
+   "path": "hg/2020/119",
+   "short": "HG nr. 119/2020",
+   "title": "Hotărârea Guvernului nr. 119/2020 privind aprobarea stemei comunei Şelimbăr, judeţul Sibiu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/223369",
+   "versions": [
+    {
+     "from": "2020-02-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/223369",
+     "sha256": "12ba9c072f96b4391a95470d7b2fa773ac88439e5ed8ee495992d2be64c18cb5"
+    }
+   ]
+  },
+  {
    "slug": "hg-119-2022",
    "path": "hg/2022/119",
    "short": "HG nr. 119/2022",
@@ -120761,6 +120776,21 @@
    ]
   },
   {
+   "slug": "hg-140-2020",
+   "path": "hg/2020/140",
+   "short": "HG nr. 140/2020",
+   "title": "Hotărârea Guvernului nr. 140/2020 privind aprobarea modelului steagului comunei Mociu, judeţul Cluj",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/223370",
+   "versions": [
+    {
+     "from": "2020-02-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/223370",
+     "sha256": "8ca3d7af497ccf50f3241bb4fbb92c63125c89bfedc61cd67c080be9889850c6"
+    }
+   ]
+  },
+  {
    "slug": "hg-140-2021",
    "path": "hg/2021/140",
    "short": "HG nr. 140/2021",
@@ -121744,6 +121774,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/187798",
      "sha256": "0357208d0051c4bd479add42157b6b33cfe7d32d4100fea874eb1678e82fa80a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-143-2020",
+   "path": "hg/2020/143",
+   "short": "HG nr. 143/2020",
+   "title": "Hotărârea Guvernului nr. 143/2020 pentru aprobarea indicatorilor tehnico-economici aferenţi obiectivului de investiţii \"Pod peste râul Dâmboviţa pe DN 73 km 78 + 519\", judeţul Argeş",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/223237",
+   "versions": [
+    {
+     "from": "2020-02-24",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/223237",
+     "sha256": "fd51684adc3e3fff6ac5a201d5d648cc2ad18de3618f126f75d05da1cb7113c5"
     }
    ]
   },
@@ -123379,6 +123424,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/264300",
      "sha256": "f25f1aaeb2d3b507a26c1670cdb456b70d6cb8b3a6a7a088e1eb974543cd996b"
+    }
+   ]
+  },
+  {
+   "slug": "hg-148-2020",
+   "path": "hg/2020/148",
+   "short": "HG nr. 148/2020",
+   "title": "Hotărârea Guvernului nr. 148/2020 privind aprobarea modului de determinare şi de calcul al debitului ecologic",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/223324",
+   "versions": [
+    {
+     "from": "2020-02-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/223324",
+     "sha256": "fd1478827c79f084f6a9b344053e322e585aab2790487ff1651eb5a1a98b1174"
     }
    ]
   },
