@@ -1,6 +1,6 @@
 # Every act in this repository
 
-17389 acts, 31,014 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+17421 acts, 31,046 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (2910, of which 1504 amending acts)
+## Laws (legi) (2921, of which 1511 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -1179,8 +1179,19 @@
 | Legea nr. 237/2015 privind autorizarea și supravegherea activității de asigurare și reasigurare | [`lege/2015/237/`](lege/2015/237/) | in force | 11 | 2016-01-01 | 2025-12-19 |
 | Legea nr. 246/2015 | [`lege/2015/246/`](lege/2015/246/) | in force | 3 | 2015-11-05 | 2024-01-19 |
 | Legea nr. 249/2015 | [`lege/2015/249/`](lege/2015/249/) | in force | 9 | 2015-11-02 | 2023-11-03 |
+| Legea nr. 252/2015 pentru modificarea art. 31 din Legea nr. 153/2011 privind măsuri de creştere a calităţii arhitectural-ambientale a clădirilor | [`lege/2015/252/`](lege/2015/252/) | amending act | 1 | 2015-11-06 | 2015-11-06 |
+| Legea nr. 253/2015 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 19/2015 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 36/2013 privind aplicarea în perioada 2013-2018 a unor măsuri de protecţie socială acordată persoanelor disponibilizate prin concedieri colective efectuate în baza planurilor de disponibilizare | [`lege/2015/253/`](lege/2015/253/) | amending act | 1 | 2015-11-06 | 2015-11-06 |
+| Legea nr. 255/2015 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 11/2015 privind acordarea unui împrumut Societăţii "Complexul Energetic Hunedoara" - S.A. din venituri rezultate din privatizare | [`lege/2015/255/`](lege/2015/255/) | amending act | 1 | 2015-11-06 | 2015-11-06 |
+| Legea nr. 259/2015 pentru modificarea art. 16 lit. a) din Legea nr. 44/1994 privind veteranii de război, precum şi unele drepturi ale invalizilor şi văduvelor de război | [`lege/2015/259/`](lege/2015/259/) | amending act | 1 | 2015-11-08 | 2015-11-08 |
+| Legea nr. 260/2015 privind modificarea alin. (5) al art. 529 din Legea nr. 95/2006 privind reforma în domeniul sănătăţii | [`lege/2015/260/`](lege/2015/260/) | amending act | 1 | 2015-11-08 | 2015-11-08 |
+| Legea nr. 263/2015 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 85/2014 pentru aprobarea unor măsuri de eficientizare a sistemului de gestionare a instrumentelor structurale | [`lege/2015/263/`](lege/2015/263/) | amending act | 1 | 2015-11-12 | 2015-11-12 |
+| Legea nr. 264/2015 pentru ratificarea Acordului dintre Uniunea Europeană şi statele membre ale acesteia, pe de o parte, şi Islanda, pe de la altă parte, cu privire la participarea Islandei la îndeplinirea în comun a angajamentelor Uniunii Europene, ale statelor membre ale acesteia şi ale Islandei pentru cea de-a doua perioadă de angajament din cadrul Protocolului de la Kyoto la Convenţia-cadru a Organizaţiei Naţiunilor Unite asupra schimbărilor climatice, semnat la Bruxelles la 1 aprilie 2015 | [`lege/2015/264/`](lege/2015/264/) | in force | 1 | 2015-11-13 | 2015-11-13 |
 | Legea nr. 269/2015 privind aprobarea Ordonanței de urgență a Guvernului nr. 4/2015 pentru modificarea Ordonanței de urgență a Guvernului nr. 82/2011 privind unele măsuri de organizare a activității de îmbunătățiri funciare | [`lege/2015/269/`](lege/2015/269/) | amending act | 5 | 2015-11-15 | 2022-05-19 |
 | Legea nr. 270/2015 privind Statutul rezerviștilor voluntari | [`lege/2015/270/`](lege/2015/270/) | in force | 4 | 2017-01-01 | 2024-03-25 |
+| Legea nr. 271/2015 pentru stabilirea unor măsuri privind asigurarea funcţionalităţii instituţiilor şi autorităţilor publice centrale şi locale | [`lege/2015/271/`](lege/2015/271/) | in force | 1 | 2015-11-15 | 2015-11-15 |
+| Legea nr. 273/2015 pentru declararea zilei de 1 octombrie Ziua luptei împotriva cancerului de sân | [`lege/2015/273/`](lege/2015/273/) | in force | 1 | 2015-11-16 | 2015-11-16 |
+| Legea nr. 274/2015 privind declararea zilei de 4 februarie Ziua luptei împotriva cancerului | [`lege/2015/274/`](lege/2015/274/) | in force | 1 | 2015-11-16 | 2015-11-16 |
+| Legea nr. 275/2015 privind aprobarea Ordonanţei Guvernului nr. 15/2014 pentru modificarea şi completarea Legii nr. 202/2006 privind organizarea şi funcţionarea Agenţiei Naţionale pentru Ocuparea Forţei de Muncă | [`lege/2015/275/`](lege/2015/275/) | amending act | 1 | 2015-11-16 | 2015-11-16 |
 | Legea nr. 276/2015 privind stabilirea unor măsuri de punere în aplicare a Regulamentului (UE) nr. 236/2012 al Parlamentului European şi al Consiliului privind vânzarea în lipsă şi anumite aspecte ale swapurilor pe riscul de credit | [`lege/2015/276/`](lege/2015/276/) | in force | 1 | 2015-11-18 | 2015-11-18 |
 | Legea nr. 277/2015 pentru completarea art. 10 din Legea nr. 230/2007 privind înfiinţarea, organizarea şi funcţionarea asociaţiilor de proprietari | [`lege/2015/277/`](lege/2015/277/) | amending act | 1 | 2015-11-18 | 2015-11-18 |
 | Legea nr. 279/2015 | [`lege/2015/279/`](lege/2015/279/) | in force | 1 | 2015-11-20 | 2015-11-20 |
@@ -5145,7 +5156,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (12253, of which 5987 amending acts)
+## Government decisions (HG) (12274, of which 5997 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -8694,8 +8705,29 @@
 | Hotărârea Guvernului nr. 845/2015 privind stabilirea unor obligaţii şi sancţiuni ce revin operatorilor care introduc pentru prima dată pe piaţă produse din lemn, în conformitate cu Regulamentul (UE) nr. 995/2010 al Parlamentului European şi al Consiliului din 20 octombrie 2010 de stabilire a obligaţiilor ce revin operatorilor care introduc pe piaţă lemn şi produse din lemn | [`hg/2015/845/`](hg/2015/845/) | in force | 2 | 2015-10-15 | 2017-11-09 |
 | Hotărârea Guvernului nr. 867/2015 | [`hg/2015/867/`](hg/2015/867/) | in force | 2 | 2015-11-09 | 2016-08-19 |
 | Hotărârea Guvernului nr. 901/2015 privind aprobarea Strategiei naționale în domeniul achizițiilor publice | [`hg/2015/901/`](hg/2015/901/) | amending act | 1 | 2015-11-25 | 2015-11-25 |
+| Hotărârea Guvernului nr. 906/2015 pentru declararea zilelor de 31 octombrie, 1 şi 2 noiembrie 2015 zile de doliu naţional pe teritoriul României | [`hg/2015/906/`](hg/2015/906/) | in force | 1 | 2015-10-31 | 2015-10-31 |
+| Hotărârea Guvernului nr. 907/2015 privind acordarea unor ajutoare de urgenţă familiilor persoanelor decedate în urma tragicului eveniment din data de 30 octombrie 2015 | [`hg/2015/907/`](hg/2015/907/) | in force | 1 | 2015-11-03 | 2015-11-03 |
+| Hotărârea Guvernului nr. 908/2015 privind acordarea unui ajutor de urgenţă | [`hg/2015/908/`](hg/2015/908/) | in force | 1 | 2015-11-03 | 2015-11-03 |
+| Hotărârea Guvernului nr. 909/2015 pentru modificarea şi completarea Regulamentului de organizare şi funcţionare a Colegiului Consultativ al Consiliului Concurenţei, aprobat prin Hotărârea Guvernului nr. 390/2012 | [`hg/2015/909/`](hg/2015/909/) | amending act | 1 | 2015-11-11 | 2015-11-11 |
+| Hotărârea Guvernului nr. 910/2015 pentru stabilirea parcului auto al Consiliului Concurenţei, în vederea desfăşurării activităţilor specifice | [`hg/2015/910/`](hg/2015/910/) | in force | 1 | 2015-11-10 | 2015-11-10 |
+| Hotărârea Guvernului nr. 911/2015 privind repartizarea pe judeţe a sumelor necesare pentru finanţarea cheltuielilor privind drumurile judeţene şi comunale | [`hg/2015/911/`](hg/2015/911/) | in force | 1 | 2015-11-04 | 2015-11-04 |
+| Hotărârea Guvernului nr. 912/2015 privind actualizarea anexei nr. 15 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului | [`hg/2015/912/`](hg/2015/912/) | amending act | 1 | 2015-11-09 | 2015-11-09 |
+| Hotărârea Guvernului nr. 913/2015 privind modificarea anexei nr. 8 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului | [`hg/2015/913/`](hg/2015/913/) | amending act | 1 | 2015-11-09 | 2015-11-09 |
+| Hotărârea Guvernului nr. 914/2015 privind participarea României la Programul Internaţional PIAAC "Programul pentru Evaluarea Internaţională a Competenţelor Adulţilor", 2015-2018 | [`hg/2015/914/`](hg/2015/914/) | in force | 1 | 2015-11-10 | 2015-11-10 |
 | Hotărârea Guvernului nr. 915/2015 | [`hg/2015/915/`](hg/2015/915/) | in force | 1 | 2015-11-04 | 2015-11-04 |
+| Hotărârea Guvernului nr. 916/2015 pentru modificarea Hotărârii Guvernului nr. 462/2015 privind aprobarea plăţii cotizaţiilor şi taxelor pentru realizarea interconectării cu instituţii similare internaţionale în domeniul donatorilor voluntari de celule stem hematopoietice, precum şi pentru acreditarea laboratoarelor de imunogenetică şi histocompatibilitate, în anul 2015 | [`hg/2015/916/`](hg/2015/916/) | amending act | 1 | 2015-11-09 | 2015-11-09 |
+| Hotărârea Guvernului nr. 917/2015 pentru modificarea Hotărârii Guvernului nr. 1.188/2014 privind organizarea şi funcţionarea Agenţiei Naţionale pentru Zootehnie "Prof. dr. G. K. Constantinescu" | [`hg/2015/917/`](hg/2015/917/) | amending act | 1 | 2015-11-09 | 2015-11-09 |
+| Hotărârea Guvernului nr. 918/2015 privind aprobarea bugetului de venituri şi cheltuieli pe anul 2015 pentru Societatea EUROTEST - S.A., aflată sub autoritatea Ministerului Economiei, Comerţului şi Turismului | [`hg/2015/918/`](hg/2015/918/) | amending act | 1 | 2015-11-09 | 2015-11-09 |
+| Hotărârea Guvernului nr. 919/2015 privind aprobarea bugetului de venituri şi cheltuieli pe anul 2015 pentru Societatea IOR - S.A., aflată sub autoritatea Ministerului Economiei, Comerţului şi Turismului | [`hg/2015/919/`](hg/2015/919/) | amending act | 1 | 2015-11-06 | 2015-11-06 |
+| Hotărârea Guvernului nr. 920/2015 privind aprobarea bugetului de venituri şi cheltuieli pe anul 2015 pentru Societatea CONPET - S.A., aflată sub autoritatea Ministerului Energiei, Întreprinderilor Mici şi Mijlocii şi Mediului de Afaceri | [`hg/2015/920/`](hg/2015/920/) | amending act | 1 | 2015-11-06 | 2015-11-06 |
+| Hotărârea Guvernului nr. 921/2015 privind retransmiterea unui sector de drum naţional din domeniul public al statului şi din administrarea Ministerului Transporturilor în domeniul public al municipiului Sebeş şi declasarea acestuia din categoria funcţională a drumurilor de interes naţional, precum şi încadrarea acestuia în categoria funcţională a drumurilor de interes local | [`hg/2015/921/`](hg/2015/921/) | in force | 1 | 2015-11-12 | 2015-11-12 |
+| Hotărârea Guvernului nr. 922/2015 privind trecerea din domeniul public al statului în domeniul privat al statului a unor mijloace fixe concesionate Companiei Naţionale de Transport al Energiei Electrice "Transelectrica" - S.A., Sucursala de Transport Bucureşti, Sucursala de Transport Constanţa, Sucursala de Transport Sibiu şi Sucursala de Transport Timişoara | [`hg/2015/922/`](hg/2015/922/) | in force | 1 | 2015-11-15 | 2015-11-15 |
+| Hotărârea Guvernului nr. 923/2015 privind aprobarea stemei comunei Mihai Eminescu, judeţul Botoşani | [`hg/2015/923/`](hg/2015/923/) | amending act | 1 | 2015-12-28 | 2015-12-28 |
 | Hotărârea Guvernului nr. 924/2015 pentru aprobarea Regulamentului de valorificare a masei lemnoase din fondul forestier proprietate publică | [`hg/2015/924/`](hg/2015/924/) | amending act | 1 | 2015-11-11 | 2015-11-11 |
+| Hotărârea Guvernului nr. 926/2015 privind acordarea unui ajutor de urgenţă | [`hg/2015/926/`](hg/2015/926/) | in force | 1 | 2015-11-12 | 2015-11-12 |
+| Hotărârea Guvernului nr. 927/2015 privind acordarea unor ajutoare de urgenţă | [`hg/2015/927/`](hg/2015/927/) | in force | 1 | 2015-11-12 | 2015-11-12 |
+| Hotărârea Guvernului nr. 928/2015 privind suplimentarea bugetului Ministerului Sănătăţii pe anul 2015 din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2015 | [`hg/2015/928/`](hg/2015/928/) | in force | 1 | 2015-11-11 | 2015-11-11 |
+| Hotărârea Guvernului nr. 930/2015 privind aprobarea scoaterii din rezervele de stat a unor materiale de construcţii şi acordarea acestora ca ajutoare umanitare interne de urgenţă, cu titlu gratuit, pentru populaţia afectată de alunecările de teren înregistrate în anul 2015 în judeţul Buzău | [`hg/2015/930/`](hg/2015/930/) | amending act | 1 | 2015-11-16 | 2015-11-16 |
 | Hotărârea Guvernului nr. 931/2015 privind transmiterea unui imobil aflat în domeniul public al statului din administrarea Serviciului Român de Informaţii în administrarea Direcţiei Naţionale Anticorupţie din cadrul Ministerului Public | [`hg/2015/931/`](hg/2015/931/) | in force | 1 | 2015-11-16 | 2015-11-16 |
 | Hotărârea Guvernului nr. 933/2015 privind actualizarea inventarului centralizat al bunurilor din domeniul public al statului, ca urmare a reevaluării şi retrocedării unei părţi dintr-un imobil aflat în administrarea Ministerului Afacerilor Interne - Unitatea Militară 0406 Constanţa | [`hg/2015/933/`](hg/2015/933/) | in force | 1 | 2015-11-16 | 2015-11-16 |
 | Hotărârea Guvernului nr. 935/2015 pentru modificarea anexei nr. 1 la Hotărârea Guvernului nr. 1.172/2014 privind aprobarea componenţei, atribuţiilor şi modului de funcţionare ale Comitetului de privatizare, concesionare şi arendare al Agenţiei Domeniilor Statului | [`hg/2015/935/`](hg/2015/935/) | amending act | 1 | 2015-11-18 | 2015-11-18 |
