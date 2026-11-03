@@ -1,6 +1,6 @@
 # Every act in this repository
 
-5953 acts, 16,851 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+5956 acts, 16,866 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -32,7 +32,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (1740, of which 642 amending acts)
+## Laws (legi) (1742, of which 642 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -521,6 +521,7 @@
 | Legea nr. 161/2005 privind stabilirea unor măsuri pentru prevenirea și combaterea corupției în cadrul Ministerului Administrației și Internelor | [`lege/2005/161/`](lege/2005/161/) | in force | 1 | 2005-06-09 | 2005-06-09 |
 | Legea nr. 179/2005 | [`lege/2005/179/`](lege/2005/179/) | in force | 1 | 2005-06-17 | 2005-06-17 |
 | Legea nr. 217/2005 | [`lege/2005/217/`](lege/2005/217/) | in force | 5 | 2007-01-01 | 2018-06-17 |
+| Legea nr. 239/2005 | [`lege/2005/239/`](lege/2005/239/) | in force | 2 | 2005-07-29 | 2005-12-31 |
 | Legea nr. 240/2005 | [`lege/2005/240/`](lege/2005/240/) | repealed 2009-04-24 | 2 | 2005-07-29 | 2009-04-24 |
 | Legea nr. 241/2005 pentru prevenirea și combaterea evaziunii fiscale | [`lege/2005/241/`](lege/2005/241/) | in force | 9 | 2005-08-26 | 2024-05-16 |
 | Legea nr. 246/2005 | [`lege/2005/246/`](lege/2005/246/) | in force | 1 | 2005-07-28 | 2005-07-28 |
@@ -621,6 +622,7 @@
 | Legea nr. 87/2007 | [`lege/2007/87/`](lege/2007/87/) | in force | 1 | 2007-04-20 | 2007-04-20 |
 | Legea nr. 92/2007 | [`lege/2007/92/`](lege/2007/92/) | in force | 14 | 2007-04-22 | 2022-02-03 |
 | Legea nr. 99/2007 | [`lege/2007/99/`](lege/2007/99/) | in force | 1 | 2007-04-28 | 2007-04-28 |
+| Legea nr. 109/2007 | [`lege/2007/109/`](lege/2007/109/) | in force | 3 | 2007-07-04 | 2015-12-06 |
 | Legea nr. 118/2007 | [`lege/2007/118/`](lege/2007/118/) | in force | 1 | 2007-08-08 | 2007-08-08 |
 | Legea nr. 125/2007 | [`lege/2007/125/`](lege/2007/125/) | in force | 1 | 2007-05-12 | 2007-05-12 |
 | Legea nr. 133/2007 pentru aprobarea Ordonanței de urgență a Guvernului nr. 70/2006 privind modificarea și completarea unor acte normative din domeniul comunicațiilor electronice și al serviciilor poștale | [`lege/2007/133/`](lege/2007/133/) | amending act | 1 | 2007-05-27 | 2007-05-27 |
@@ -1777,7 +1779,7 @@
 | Legea nr. 241/2025 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 31/2002 privind interzicerea organizațiilor, simbolurilor și faptelor cu caracter fascist, legionar, rasist sau xenofob și a promovării cultului persoanelor vinovate de săvârșirea unor infracțiuni de genocid contra umanității și de crime de război, precum și pentru modificarea Legii nr. 157/2018 privind unele măsuri pentru prevenirea și combaterea antisemitismului | [`lege/2025/241/`](lege/2025/241/) | amending act | 1 | 2025-12-27 | 2025-12-27 |
 | Legea nr. 245/2025 pentru modificarea art. 32 alin. (7) din Legea nr. 273/2006 privind finanțele publice locale | [`lege/2025/245/`](lege/2025/245/) | amending act | 1 | 2026-01-01 | 2026-01-01 |
 
-## Emergency ordinances (OUG) (1443, of which 520 amending acts)
+## Emergency ordinances (OUG) (1444, of which 520 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -1812,6 +1814,7 @@
 | Ordonanța de urgență a Guvernului nr. 83/1999 | [`oug/1999/83/`](oug/1999/83/) | in force | 6 | 1999-06-10 | 2016-05-27 |
 | Ordonanța de urgență a Guvernului nr. 89/1999 privind unele măsuri de restructurare financiară a Băncii Române de Comerț Exterior - Bancorex - S.A. | [`oug/1999/89/`](oug/1999/89/) | in force | 3 | 1999-06-14 | 2002-01-31 |
 | Ordonanța de urgență a Guvernului nr. 95/1999 | [`oug/1999/95/`](oug/1999/95/) | in force | 6 | 1999-06-22 | 2019-08-25 |
+| Ordonanța de urgență a Guvernului nr. 98/1999 | [`oug/1999/98/`](oug/1999/98/) | in force | 10 | 1999-06-29 | 2002-04-30 |
 | Ordonanța de urgență a Guvernului nr. 119/1999 | [`oug/1999/119/`](oug/1999/119/) | in force | 1 | 1999-06-30 | 1999-06-30 |
 | Ordonanța de urgență a Guvernului nr. 133/1999 | [`oug/1999/133/`](oug/1999/133/) | in force | 2 | 1999-09-20 | 2001-07-25 |
 | Ordonanța de urgență a Guvernului nr. 137/1999 privind modificarea și completarea Legii nr. 108/1999 pentru înființarea și organizarea Inspecției Muncii | [`oug/1999/137/`](oug/1999/137/) | amending act | 2 | 1999-09-23 | 2001-06-28 |

@@ -8264,6 +8264,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/63291"
 },
 {
+"slug": "legea-239-2005",
+"path": "lege/2005/239",
+"kind": "lege",
+"year": "2005",
+"number": "239",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 239/2005",
+"short": "Legea nr. 239/2005",
+"code": null,
+"status": "in force",
+"versions": 2,
+"from": "2005-07-29",
+"latest": "2005-12-31",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/63586"
+},
+{
 "slug": "legea-240-2005",
 "path": "lege/2005/240",
 "kind": "lege",
@@ -9962,6 +9979,23 @@
 "from": "2007-04-28",
 "latest": "2007-04-28",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/81416"
+},
+{
+"slug": "legea-109-2007",
+"path": "lege/2007/109",
+"kind": "lege",
+"year": "2007",
+"number": "109",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 109/2007",
+"short": "Legea nr. 109/2007",
+"code": null,
+"status": "in force",
+"versions": 3,
+"from": "2007-07-04",
+"latest": "2015-12-06",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/81689"
 },
 {
 "slug": "legea-118-2007",
@@ -30124,6 +30158,23 @@
 "from": "1999-06-22",
 "latest": "2019-08-25",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/217044"
+},
+{
+"slug": "oug-98-1999",
+"path": "oug/1999/98",
+"kind": "oug",
+"year": "1999",
+"number": "98",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 98/1999",
+"short": "OUG nr. 98/1999",
+"code": null,
+"status": "in force",
+"versions": 10,
+"from": "1999-06-29",
+"latest": "2002-04-30",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/142056"
 },
 {
 "slug": "oug-119-1999",
