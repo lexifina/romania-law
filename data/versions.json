@@ -9374,6 +9374,60 @@
    ]
   },
   {
+   "slug": "hg-1031-2020",
+   "path": "hg/2020/1031",
+   "short": "HG nr. 1031/2020",
+   "title": "Hotărârea Guvernului nr. 1031/2020 privind aprobarea Strategiei de vaccinare împotriva COVID-19 în România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/234094",
+   "versions": [
+    {
+     "from": "2020-12-03",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/234094",
+     "sha256": "28d866061b45f922ae8cc5c466b9a0a072fd03f33208b7e24c7186a1fd0b88cf"
+    },
+    {
+     "from": "2020-12-17",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/234623",
+     "sha256": "4f9bd0e04bfe4b14d8bb0196f583819a14270f1a42cd2ae5b5a0965e127e980a"
+    },
+    {
+     "from": "2021-01-21",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/236277",
+     "sha256": "72e2392d5a988350319696d43c583daa0686d0c5cbab7156cd1c7f100b9f979d"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1110-2010",
+   "path": "hg/2010/1110",
+   "short": "HG nr. 1110/2010",
+   "title": "Hotărârea Guvernului nr. 1110/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/123549",
+   "versions": [
+    {
+     "from": "2010-11-12",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/123549",
+     "sha256": "414fbe53f54190504becb275da155e7457e9943ebf5cae5ac6f5b39067f0bc33"
+    },
+    {
+     "from": "2013-04-15",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/147083",
+     "sha256": "f635e43e9489f5761d0d0d089691e97972880fd9e381822ea067e67f35ec512c"
+    },
+    {
+     "from": "2022-07-21",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/123549",
+     "sha256": "4ca4e8ff3f6a92adfddc4c1e49d89a16d7c8e1c54d8288ba92f2579246e096ae"
+    }
+   ]
+  },
+  {
    "slug": "hg-395-2016",
    "path": "hg/2016/395",
    "short": "HG nr. 395/2016",

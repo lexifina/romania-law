@@ -1,6 +1,6 @@
 # Every act in this repository
 
-6077 acts, 17,460 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+6079 acts, 17,466 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -3767,7 +3767,7 @@
 | Ordonanța Guvernului nr. 21/2025 pentru modificarea și completarea Legii nr. 431/2023 privind asigurarea unui nivel minim global de impozitare a grupurilor de întreprinderi multinaționale și a grupurilor naționale de mari dimensiuni | [`og/2025/21/`](og/2025/21/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 | Ordonanța Guvernului nr. 22/2025 pentru modificarea și completarea Legii nr. 227/2015 privind Codul fiscal | [`og/2025/22/`](og/2025/22/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 
-## Government decisions (HG) (2318, of which 840 amending acts)
+## Government decisions (HG) (2320, of which 841 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -4534,6 +4534,7 @@
 | Hotărârea Guvernului nr. 962/2010 | [`hg/2010/962/`](hg/2010/962/) | in force | 1 | 2010-09-16 | 2010-09-16 |
 | Hotărârea Guvernului nr. 966/2010 | [`hg/2010/966/`](hg/2010/966/) | in force | 2 | 2010-09-21 | 2016-12-20 |
 | Hotărârea Guvernului nr. 1013/2010 | [`hg/2010/1013/`](hg/2010/1013/) | in force | 1 | 2010-10-28 | 2010-10-28 |
+| Hotărârea Guvernului nr. 1110/2010 | [`hg/2010/1110/`](hg/2010/1110/) | in force | 3 | 2010-11-12 | 2022-07-21 |
 | Hotărârea Guvernului nr. 1140/2010 privind transmiterea unei părți dintr-un imobil aflat în domeniul public al statului din administrarea Ministerului Administrației și Internelor - Administrația Națională a Rezervelor de Stat și Probleme Speciale - Unitatea Teritorială 350 în administrarea Societății Române de Radiodifuziune | [`hg/2010/1140/`](hg/2010/1140/) | in force | 2 | 2010-11-24 | 2020-03-20 |
 | Hotărârea Guvernului nr. 1193/2010 | [`hg/2010/1193/`](hg/2010/1193/) | in force | 1 | 2010-12-09 | 2010-12-09 |
 | Hotărârea Guvernului nr. 1217/2010 | [`hg/2010/1217/`](hg/2010/1217/) | in force | 1 | 2010-12-15 | 2010-12-15 |
@@ -5383,6 +5384,7 @@
 | Hotărârea Guvernului nr. 1000/2020 privind aprobarea scoaterii din rezervele de stat a 8 construcții ușoare din elemente modulate și acordarea acestora ca ajutoare umanitare interne de urgență, cu titlu gratuit, pentru protecția populației împotriva COVID-19, prin amenajarea a două puncte de triaj epidemiologic pentru unitățile spitalicești din județul Cluj | [`hg/2020/1000/`](hg/2020/1000/) | amending act | 1 | 2020-12-04 | 2020-12-04 |
 | Hotărârea Guvernului nr. 1017/2020 pentru modificarea și completarea Hotărârii Guvernului nr. 1.198/2012 privind desemnarea infrastructurilor critice naționale | [`hg/2020/1017/`](hg/2020/1017/) | amending act | 1 | 2020-12-08 | 2020-12-08 |
 | Hotărârea Guvernului nr. 1027/2020 pentru modificarea pct. 39 și 42 din anexa nr. 1 la Hotărârea Guvernului nr. 33/2018 privind stabilirea contravențiilor care intră sub incidența Legii prevenirii nr. 270/2017 , precum și a modelului planului de remediere | [`hg/2020/1027/`](hg/2020/1027/) | amending act | 1 | 2021-01-08 | 2021-01-08 |
+| Hotărârea Guvernului nr. 1031/2020 privind aprobarea Strategiei de vaccinare împotriva COVID-19 în România | [`hg/2020/1031/`](hg/2020/1031/) | amending act | 3 | 2020-12-03 | 2021-01-21 |
 | Hotărârea Guvernului nr. 1034/2020 pentru aprobarea Strategiei naționale de renovare pe termen lung pentru sprijinirea renovării parcului național de clădiri rezidențiale și nerezidențiale, atât publice, cât și private, și transformarea sa treptată într-un parc imobiliar cu un nivel ridicat de eficiență energetică și decarbonat până în 2050 | [`hg/2020/1034/`](hg/2020/1034/) | amending act | 1 | 2020-12-17 | 2020-12-17 |
 | Hotărârea Guvernului nr. 1035/2020 privind modificarea și completarea anexei la Hotărârea Guvernului nr. 153/2018 pentru aprobarea Regulamentului-cadru privind stabilirea locurilor de muncă, a categoriilor de personal, a mărimii concrete a sporului pentru condiții de muncă prevăzut în anexa nr. II la Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, precum și a condițiilor de acordare a acestuia, pentru familia ocupațională de funcții bugetare "Sănătate și asistență socială" | [`hg/2020/1035/`](hg/2020/1035/) | amending act | 1 | 2020-12-04 | 2020-12-04 |
 | Hotărârea Guvernului nr. 1038/2020 pentru modificarea și completarea anexei nr. 3 la Hotărârea Guvernului nr. 967/2020 privind prelungirea stării de alertă pe teritoriul României începând cu data de 14 noiembrie 2020, precum și stabilirea măsurilor care se aplică pe durata acesteia pentru prevenirea și combaterea efectelor pandemiei de COVID-19 | [`hg/2020/1038/`](hg/2020/1038/) | amending act | 1 | 2020-12-04 | 2020-12-04 |

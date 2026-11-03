@@ -76230,6 +76230,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/123091"
 },
 {
+"slug": "hg-1110-2010",
+"path": "hg/2010/1110",
+"kind": "hg",
+"year": "2010",
+"number": "1110",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 1110/2010",
+"short": "HG nr. 1110/2010",
+"code": null,
+"status": "in force",
+"versions": 3,
+"from": "2010-11-12",
+"latest": "2022-07-21",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/123549"
+},
+{
 "slug": "hg-1140-2010",
 "path": "hg/2010/1140",
 "kind": "hg",
@@ -90678,6 +90695,23 @@
 "from": "2021-01-08",
 "latest": "2021-01-08",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/234365"
+},
+{
+"slug": "hg-1031-2020",
+"path": "hg/2020/1031",
+"kind": "hg",
+"year": "2020",
+"number": "1031",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 1031/2020 privind aprobarea Strategiei de vaccinare împotriva COVID-19 în România",
+"short": "HG nr. 1031/2020",
+"code": null,
+"status": "amending act",
+"versions": 3,
+"from": "2020-12-03",
+"latest": "2021-01-21",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/234094"
 },
 {
 "slug": "hg-1034-2020",
