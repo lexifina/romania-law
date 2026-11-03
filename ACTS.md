@@ -1,6 +1,6 @@
 # Every act in this repository
 
-12206 acts, 25,788 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+12207 acts, 25,789 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -4565,7 +4565,7 @@
 | Ordonanța Guvernului nr. 21/2025 pentru modificarea și completarea Legii nr. 431/2023 privind asigurarea unui nivel minim global de impozitare a grupurilor de întreprinderi multinaționale și a grupurilor naționale de mari dimensiuni | [`og/2025/21/`](og/2025/21/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 | Ordonanța Guvernului nr. 22/2025 pentru modificarea și completarea Legii nr. 227/2015 privind Codul fiscal | [`og/2025/22/`](og/2025/22/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 
-## Government decisions (HG) (7650, of which 3323 amending acts)
+## Government decisions (HG) (7651, of which 3324 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -6492,6 +6492,7 @@
 | Hotărârea Guvernului nr. 383/2019 privind reaprobarea indicatorilor tehnico-economici ai obiectivului de investiţii "Modernizarea centurii rutiere a municipiului Bucureşti între A1-DN7 şi DN2-A2" | [`hg/2019/383/`](hg/2019/383/) | in force | 1 | 2019-06-18 | 2019-06-18 |
 | Hotărârea Guvernului nr. 389/2019 privind trecerea unor construcţii, aflate în administrarea Ministerului Afacerilor Interne - Inspectoratul Teritorial al Poliţiei de Frontieră Sighetu Marmaţiei, din domeniul public al statului în domeniul privat al acestuia, în vederea scoaterii din funcţiune, casării şi valorificării, precum şi actualizarea anexei nr. 1 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului | [`hg/2019/389/`](hg/2019/389/) | amending act | 1 | 2019-06-20 | 2019-06-20 |
 | Hotărârea Guvernului nr. 390/2019 pentru aprobarea Notei de fundamentare privind necesitatea şi oportunitatea efectuării cheltuielilor aferente proiectului de investiţii "Achiziţie sediu pentru Autoritatea Naţională pentru Administrare şi Reglementare în Comunicaţii" | [`hg/2019/390/`](hg/2019/390/) | amending act | 1 | 2019-06-19 | 2019-06-19 |
+| Hotărârea Guvernului nr. 394/2019 privind aprobarea plăţii contribuţiei financiare voluntare a României la Organizaţia pentru Cooperare şi Dezvoltare Economică (OCDE) în vederea finanţării participării României, prin Ministerul Justiţiei, într-un proiect de asistenţă tehnică privind conformitatea legislaţiei naţionale cu prevederile Convenţiei OCDE privind combaterea mituirii funcţionarilor publici în cadrul tranzacţiilor comerciale internaţionale | [`hg/2019/394/`](hg/2019/394/) | amending act | 1 | 2019-06-18 | 2019-06-18 |
 | Hotărârea Guvernului nr. 395/2019 pentru aprobarea Notei de fundamentare privind necesitatea şi oportunitatea efectuării cheltuielilor aferente proiectului de investiţii "Dragă fluvială autopropulsată cu magazie proprie pentru transportul materialului dragat" | [`hg/2019/395/`](hg/2019/395/) | amending act | 1 | 2019-06-25 | 2019-06-25 |
 | Hotărârea Guvernului nr. 397/2019 pentru sistarea definitivă a lucrărilor din cadrul obiectivului de investiţii "Spital materno-infantil cu 180 de paturi în municipiul Focşani", aprobat prin Hotărârea Guvernului nr. 861/1994 privind aprobarea studiului de fezabilitate a obiectivului de investiţii "Spital materno-infantil cu 180 de paturi în municipiul Focşani", judeţul Vrancea | [`hg/2019/397/`](hg/2019/397/) | amending act | 1 | 2019-06-19 | 2019-06-19 |
 | Hotărârea Guvernului nr. 398/2019 privind actualizarea valorilor de inventar şi modificarea datelor tehnice ale unui imobil aflat în domeniul public al statului şi în administrarea Ministerului Tineretului şi Sportului prin Clubul Sportiv "Muscel" Câmpulung şi scoaterea din domeniul public al statului şi din administrarea Ministerului Tineretului şi Sportului - Clubul Sportiv "Muscel" Câmpulung a unei părţi dintr-un imobil, ca urmare a restituirii acestuia persoanelor îndreptăţite | [`hg/2019/398/`](hg/2019/398/) | in force | 1 | 2019-06-26 | 2019-06-26 |
