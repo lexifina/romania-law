@@ -1,6 +1,6 @@
 # Every act in this repository
 
-16929 acts, 30,554 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+16937 acts, 30,562 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -5076,7 +5076,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (11862, of which 5743 amending acts)
+## Government decisions (HG) (11870, of which 5749 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -8687,7 +8687,15 @@
 | Hotărârea Guvernului nr. 521/2016 | [`hg/2016/521/`](hg/2016/521/) | in force | 2 | 2016-08-01 | 2017-12-22 |
 | Hotărârea Guvernului nr. 536/2016 privind stimularea performanței școlare înalte din învățământul preuniversitar | [`hg/2016/536/`](hg/2016/536/) | in force | 1 | 2016-08-10 | 2016-08-10 |
 | Hotărârea Guvernului nr. 546/2016 | [`hg/2016/546/`](hg/2016/546/) | in force | 1 | 2016-08-10 | 2016-08-10 |
+| Hotărârea Guvernului nr. 551/2016 privind acordarea titulaturii de muzeu de importanţă naţională Muzeului Agriculturii Slobozia, precum şi pentru aprobarea schimbării denumirii acestuia | [`hg/2016/551/`](hg/2016/551/) | amending act | 1 | 2016-08-03 | 2016-08-03 |
+| Hotărârea Guvernului nr. 553/2016 privind suplimentarea bugetului Secretariatului General al Guvernului pe anul 2016 din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2016, precum şi pentru aprobarea plăţii contribuţiei voluntare a României la Organizaţia pentru Cooperare şi Dezvoltare Economică (OCDE), în vederea finanţării participării României, prin Cancelaria Prim-Ministrului, într-un proiect de analiză specifică a cinci sectoare-cheie ale domeniului guvernanţei publice | [`hg/2016/553/`](hg/2016/553/) | amending act | 1 | 2016-08-04 | 2016-08-04 |
+| Hotărârea Guvernului nr. 554/2016 privind aprobarea amendamentului convenit prin schimbul de scrisori dintre România, prin Ministerul Finanţelor Publice, şi Republica Moldova, prin Ministerul Finanţelor, semnate la Chişinău la 19 iulie 2016 şi la Bucureşti la 22 iulie 2016, la Acordul privind asistenţa financiară rambursabilă dintre România şi Republica Moldova, semnat la Chişinău la 7 octombrie 2015, şi a schimbului de scrisori dintre prim-miniştrii României şi Republicii Moldova, semnate la Chişinău la 18 iulie 2016 şi la 29 iulie 2016 şi la Bucureşti la 21 iulie 2016 | [`hg/2016/554/`](hg/2016/554/) | amending act | 1 | 2016-08-05 | 2016-08-05 |
+| Hotărârea Guvernului nr. 555/2016 pentru declararea zilei de 13 august 2016 zi de doliu naţional pe teritoriul României | [`hg/2016/555/`](hg/2016/555/) | in force | 1 | 2016-08-04 | 2016-08-04 |
+| Hotărârea Guvernului nr. 556/2016 privind aprobarea stemei oraşului Ungheni, judeţul Mureş | [`hg/2016/556/`](hg/2016/556/) | amending act | 1 | 2016-08-10 | 2016-08-10 |
 | Hotărârea Guvernului nr. 557/2016 privind managementul tipurilor de risc | [`hg/2016/557/`](hg/2016/557/) | in force | 3 | 2016-08-26 | 2023-02-24 |
+| Hotărârea Guvernului nr. 559/2016 privind actualizarea valorilor de inventar şi modificarea datelor de identificare ale unor bunuri imobile aflate în domeniul public al statului şi în administrarea unor unităţi din subordinea Ministerului Agriculturii şi Dezvoltării Rurale, precum şi radierea din inventarul centralizat al bunurilor din domeniul public al statului a unui bun imobil aflat în administrarea Direcţiei pentru Agricultură a Judeţului Vaslui | [`hg/2016/559/`](hg/2016/559/) | in force | 1 | 2016-08-10 | 2016-08-10 |
+| Hotărârea Guvernului nr. 560/2016 pentru aprobarea Programului de cooperare dintre Guvernul României şi Guvernul Republicii Portugheze în domeniile limbii, educaţiei, ştiinţei, tehnologiei şi învăţământului superior, al culturii, sportului, tineretului, mass-mediei şi turismului, semnat la Bucureşti la 17 iunie 2015 | [`hg/2016/560/`](hg/2016/560/) | amending act | 1 | 2016-08-10 | 2016-08-10 |
+| Hotărârea Guvernului nr. 562/2016 pentru modificarea Hotărârii Guvernului nr. 1.052/2011 privind reglementarea acţiunilor specifice aferente finanţării asistenţei din cadrul politicii naţionale de cooperare internaţională pentru dezvoltare | [`hg/2016/562/`](hg/2016/562/) | amending act | 1 | 2016-08-10 | 2016-08-10 |
 | Hotărârea Guvernului nr. 563/2016 pentru acordarea unor ajutoare de urgenţă suplimentare în cazul persoanelor rănite în tragicul eveniment din 30 octombrie 2015 | [`hg/2016/563/`](hg/2016/563/) | in force | 1 | 2016-08-11 | 2016-08-11 |
 | Hotărârea Guvernului nr. 564/2016 pentru aprobarea modului de repartizare şi de utilizare parţială a sumelor prevăzute la lit. c) şi d) din anexa nr. 3/13/02a la Legea bugetului de stat pe anul 2016 nr. 339/2015 | [`hg/2016/564/`](hg/2016/564/) | amending act | 1 | 2016-08-11 | 2016-08-11 |
 | Hotărârea Guvernului nr. 565/2016 privind stabilirea nivelului stocurilor de urgenţă şi aprobarea modului de transpunere a obligaţiilor de constituire şi menţinere a stocurilor de urgenţă pentru ţiţei şi/sau produse petroliere de către operatorii economici în anul 2016 | [`hg/2016/565/`](hg/2016/565/) | in force | 1 | 2016-08-12 | 2016-08-12 |
