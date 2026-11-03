@@ -954,6 +954,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/2319"
 },
 {
+"slug": "legea-80-1992",
+"path": "lege/1992/80",
+"kind": "lege",
+"year": "1992",
+"number": "80",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 80/1992",
+"short": "Legea nr. 80/1992",
+"code": null,
+"status": "in force",
+"versions": 3,
+"from": "1992-07-29",
+"latest": "2000-05-23",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/2325"
+},
+{
 "slug": "legea-84-1992",
 "path": "lege/1992/84",
 "kind": "lege",
@@ -2295,6 +2312,23 @@
 "from": "1996-06-11",
 "latest": "2004-07-02",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/8254"
+},
+{
+"slug": "legea-50-1996",
+"path": "lege/1996/50",
+"kind": "lege",
+"year": "1996",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 50/1996",
+"short": "Legea nr. 50/1996",
+"code": null,
+"status": "repealed 2007-02-03",
+"versions": 6,
+"from": "1996-06-24",
+"latest": "2007-02-03",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/102091"
 },
 {
 "slug": "legea-61-1996",
@@ -64007,6 +64041,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/4929"
 },
 {
+"slug": "hg-449-1994",
+"path": "hg/1994/449",
+"kind": "hg",
+"year": "1994",
+"number": "449",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 449/1994",
+"short": "HG nr. 449/1994",
+"code": null,
+"status": "in force",
+"versions": 2,
+"from": "1994-08-16",
+"latest": "1995-04-27",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/5015"
+},
+{
 "slug": "hg-200-1995",
 "path": "hg/1995/200",
 "kind": "hg",
@@ -64056,6 +64107,23 @@
 "from": "1995-04-14",
 "latest": "1995-04-14",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/6533"
+},
+{
+"slug": "hg-234-1995",
+"path": "hg/1995/234",
+"kind": "hg",
+"year": "1995",
+"number": "234",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 234/1995 cu privire la indicatorii specifici pe baza cărora se va calcula creşterea productivităţii muncii, respectiv a eficientei economice în anul 1995 fata de anul 1994, în funcţie de care se determina creşterea justificată a salariului mediu în anul 1995 fata de cel aferent lunii noiembrie 1994",
+"short": "HG nr. 234/1995",
+"code": null,
+"status": "in force",
+"versions": 2,
+"from": "1995-04-25",
+"latest": "1995-06-14",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/6566"
 },
 {
 "slug": "hg-244-1995",
@@ -68223,6 +68291,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/42720"
 },
 {
+"slug": "hg-311-2003",
+"path": "hg/2003/311",
+"kind": "hg",
+"year": "2003",
+"number": "311",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 311/2003",
+"short": "HG nr. 311/2003",
+"code": null,
+"status": "in force",
+"versions": 5,
+"from": "2003-03-31",
+"latest": "2017-04-07",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/42713"
+},
+{
 "slug": "hg-327-2003",
 "path": "hg/2003/327",
 "kind": "hg",
@@ -68410,6 +68495,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/43366"
 },
 {
+"slug": "hg-457-2003",
+"path": "hg/2003/457",
+"kind": "hg",
+"year": "2003",
+"number": "457",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 457/2003",
+"short": "HG nr. 457/2003",
+"code": null,
+"status": "in force",
+"versions": 5,
+"from": "2003-06-07",
+"latest": "2009-11-13",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/43599"
+},
+{
 "slug": "hg-479-2003",
 "path": "hg/2003/479",
 "kind": "hg",
@@ -68442,6 +68544,23 @@
 "from": "2003-05-12",
 "latest": "2003-05-12",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/43635"
+},
+{
+"slug": "hg-498-2003",
+"path": "hg/2003/498",
+"kind": "hg",
+"year": "2003",
+"number": "498",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 498/2003 pentru aprobarea Normelor metodologice de aplicare unitară a Legii nr. 10/2001 privind regimul juridic al unor imobile preluate în mod abuziv în perioada 6 martie 1945-22 decembrie 1989",
+"short": "HG nr. 498/2003",
+"code": null,
+"status": "amending act",
+"versions": 3,
+"from": "2003-05-14",
+"latest": "2005-10-27",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/69784"
 },
 {
 "slug": "hg-506-2003",
@@ -69785,6 +69904,23 @@
 "from": "2004-04-01",
 "latest": "2004-08-10",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/54589"
+},
+{
+"slug": "hg-412-2004",
+"path": "hg/2004/412",
+"kind": "hg",
+"year": "2004",
+"number": "412",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 412/2004",
+"short": "HG nr. 412/2004",
+"code": null,
+"status": "in force",
+"versions": 8,
+"from": "2004-03-30",
+"latest": "2006-09-08",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/79717"
 },
 {
 "slug": "hg-427-2004",
@@ -71640,6 +71776,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/61498"
 },
 {
+"slug": "hg-351-2005",
+"path": "hg/2005/351",
+"kind": "hg",
+"year": "2005",
+"number": "351",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 351/2005",
+"short": "HG nr. 351/2005",
+"code": null,
+"status": "in force",
+"versions": 7,
+"from": "2005-05-20",
+"latest": "2015-07-17",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/169812"
+},
+{
 "slug": "hg-361-2005",
 "path": "hg/2005/361",
 "kind": "hg",
@@ -73017,6 +73170,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/69995"
 },
 {
+"slug": "hg-401-2006",
+"path": "hg/2006/401",
+"kind": "hg",
+"year": "2006",
+"number": "401",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 401/2006",
+"short": "HG nr. 401/2006",
+"code": null,
+"status": "in force",
+"versions": 5,
+"from": "2006-03-31",
+"latest": "2011-10-04",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/70395"
+},
+{
 "slug": "hg-420-2006",
 "path": "hg/2006/420",
 "kind": "hg",
@@ -73117,6 +73287,23 @@
 "from": "2006-04-20",
 "latest": "2006-04-20",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/70984"
+},
+{
+"slug": "hg-493-2006",
+"path": "hg/2006/493",
+"kind": "hg",
+"year": "2006",
+"number": "493",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 493/2006",
+"short": "HG nr. 493/2006",
+"code": null,
+"status": "in force",
+"versions": 2,
+"from": "2006-09-01",
+"latest": "2007-07-12",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/71198"
 },
 {
 "slug": "hg-522-2006",
@@ -74649,6 +74836,40 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/98739"
 },
 {
+"slug": "hg-387-2007",
+"path": "hg/2007/387",
+"kind": "hg",
+"year": "2007",
+"number": "387",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 387/2007",
+"short": "HG nr. 387/2007",
+"code": null,
+"status": "in force",
+"versions": 2,
+"from": "2007-05-02",
+"latest": "2007-07-20",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/83779"
+},
+{
+"slug": "hg-405-2007",
+"path": "hg/2007/405",
+"kind": "hg",
+"year": "2007",
+"number": "405",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 405/2007",
+"short": "HG nr. 405/2007",
+"code": null,
+"status": "in force",
+"versions": 9,
+"from": "2007-05-07",
+"latest": "2013-01-16",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/151138"
+},
+{
 "slug": "hg-416-2007",
 "path": "hg/2007/416",
 "kind": "hg",
@@ -74902,6 +75123,23 @@
 "from": "2007-06-08",
 "latest": "2007-06-08",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/82679"
+},
+{
+"slug": "hg-532-2007",
+"path": "hg/2007/532",
+"kind": "hg",
+"year": "2007",
+"number": "532",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 532/2007",
+"short": "HG nr. 532/2007",
+"code": null,
+"status": "in force",
+"versions": 3,
+"from": "2007-06-18",
+"latest": "2007-10-17",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/90019"
 },
 {
 "slug": "hg-534-2007",
@@ -78185,6 +78423,40 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/114295"
 },
 {
+"slug": "hg-367-2009",
+"path": "hg/2009/367",
+"kind": "hg",
+"year": "2009",
+"number": "367",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 367/2009",
+"short": "HG nr. 367/2009",
+"code": null,
+"status": "in force",
+"versions": 2,
+"from": "2009-04-01",
+"latest": "2009-12-17",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/104085"
+},
+{
+"slug": "hg-445-2009",
+"path": "hg/2009/445",
+"kind": "hg",
+"year": "2009",
+"number": "445",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 445/2009",
+"short": "HG nr. 445/2009",
+"code": null,
+"status": "repealed 2019-01-09",
+"versions": 3,
+"from": "2009-09-11",
+"latest": "2019-01-09",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/109452"
+},
+{
 "slug": "hg-458-2009",
 "path": "hg/2009/458",
 "kind": "hg",
@@ -78200,6 +78472,23 @@
 "from": "2009-04-28",
 "latest": "2009-04-28",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/105123"
+},
+{
+"slug": "hg-519-2009",
+"path": "hg/2009/519",
+"kind": "hg",
+"year": "2009",
+"number": "519",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 519/2009",
+"short": "HG nr. 519/2009",
+"code": null,
+"status": "in force",
+"versions": 2,
+"from": "2009-05-18",
+"latest": "2012-10-05",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/105869"
 },
 {
 "slug": "hg-561-2009",
@@ -83557,6 +83846,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/148720"
 },
 {
+"slug": "hg-322-2013",
+"path": "hg/2013/322",
+"kind": "hg",
+"year": "2013",
+"number": "322",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 322/2013",
+"short": "HG nr. 322/2013",
+"code": null,
+"status": "in force",
+"versions": 2,
+"from": "2013-06-13",
+"latest": "2019-06-12",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/213042"
+},
+{
 "slug": "hg-332-2013",
 "path": "hg/2013/332",
 "kind": "hg",
@@ -84592,6 +84898,23 @@
 "from": "2014-04-30",
 "latest": "2017-08-10",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/192207"
+},
+{
+"slug": "hg-332-2014",
+"path": "hg/2014/332",
+"kind": "hg",
+"year": "2014",
+"number": "332",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 332/2014",
+"short": "HG nr. 332/2014",
+"code": null,
+"status": "in force",
+"versions": 6,
+"from": "2014-05-08",
+"latest": "2022-11-14",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/158031"
 },
 {
 "slug": "hg-344-2014",
@@ -86090,6 +86413,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/170042"
 },
 {
+"slug": "hg-582-2015",
+"path": "hg/2015/582",
+"kind": "hg",
+"year": "2015",
+"number": "582",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 582/2015",
+"short": "HG nr. 582/2015",
+"code": null,
+"status": "in force",
+"versions": 3,
+"from": "2015-07-27",
+"latest": "2015-09-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/170520"
+},
+{
 "slug": "hg-595-2015",
 "path": "hg/2015/595",
 "kind": "hg",
@@ -87552,6 +87892,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/182143"
 },
 {
+"slug": "hg-683-2016",
+"path": "hg/2016/683",
+"kind": "hg",
+"year": "2016",
+"number": "683",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 683/2016",
+"short": "HG nr. 683/2016",
+"code": null,
+"status": "in force",
+"versions": 2,
+"from": "2016-09-30",
+"latest": "2024-12-02",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/182110"
+},
+{
 "slug": "hg-722-2016",
 "path": "hg/2016/722",
 "kind": "hg",
@@ -88230,6 +88587,23 @@
 "from": "2017-01-18",
 "latest": "2018-09-20",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/185778"
+},
+{
+"slug": "hg-27-2017",
+"path": "hg/2017/27",
+"kind": "hg",
+"year": "2017",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 27/2017 privind organizarea și funcționarea Ministerului Economiei",
+"short": "HG nr. 27/2017",
+"code": null,
+"status": "in force",
+"versions": 7,
+"from": "2017-01-18",
+"latest": "2019-07-31",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/217745"
 },
 {
 "slug": "hg-30-2017",
@@ -89983,6 +90357,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/195159"
 },
 {
+"slug": "hg-850-2017",
+"path": "hg/2017/850",
+"kind": "hg",
+"year": "2017",
+"number": "850",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 850/2017 pentru modificarea Hotărârii Guvernului nr. 30/2017 privind organizarea și funcționarea Ministerului Agriculturii și Dezvoltării Rurale, precum și pentru modificarea art. 6 alin. (6) din Hotărârea Guvernului nr. 1.186/2014 privind organizarea și funcționarea Autorității pentru Administrarea Sistemului Național Antigrindină și de Creștere a Precipitațiilor",
+"short": "HG nr. 850/2017",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2017-12-06",
+"latest": "2017-12-06",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/195459"
+},
+{
 "slug": "hg-851-2017",
 "path": "hg/2017/851",
 "kind": "hg",
@@ -90593,6 +90984,23 @@
 "from": "2018-03-19",
 "latest": "2018-03-19",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/198818"
+},
+{
+"slug": "hg-112-2018",
+"path": "hg/2018/112",
+"kind": "hg",
+"year": "2018",
+"number": "112",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 112/2018 privind reorganizarea Băncii de Resurse Genetice Vegetale \"Mihai Cristea\" Suceava, prin divizarea parțială a Laboratorului Central pentru Calitatea Semințelor și a Materialului Săditor, și privind modificarea anexei nr. 3 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului, precum și pentru modificarea unor acte normative conexe",
+"short": "HG nr. 112/2018",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2018-03-22",
+"latest": "2018-03-22",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/199003"
 },
 {
 "slug": "hg-118-2018",
@@ -103972,6 +104380,23 @@
 "from": "2023-04-24",
 "latest": "2023-04-24",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/267343"
+},
+{
+"slug": "hg-356-2023",
+"path": "hg/2023/356",
+"kind": "hg",
+"year": "2023",
+"number": "356",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 356/2023 privind aprobarea domeniilor şi programelor de studii universitare de master acreditate şi a numărului maxim de studenţi ce pot fi şcolarizaţi în anul universitar 2023-2024",
+"short": "HG nr. 356/2023",
+"code": null,
+"status": "amending act",
+"versions": 2,
+"from": "2023-04-25",
+"latest": "2023-08-04",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/267355"
 },
 {
 "slug": "hg-367-2023",
