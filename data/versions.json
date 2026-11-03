@@ -198752,6 +198752,21 @@
    ]
   },
   {
+   "slug": "hg-578-2018",
+   "path": "hg/2018/578",
+   "short": "HG nr. 578/2018",
+   "title": "Hotărârea Guvernului nr. 578/2018 privind încetarea exercitării, cu caracter temporar, prin detaşare în condiţiile legii, a funcţiei publice de prefect al judeţului Giurgiu de către doamna Crişu Nina-Carmen",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/203502",
+   "versions": [
+    {
+     "from": "2018-08-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/203502",
+     "sha256": "b6b24ff8d3d2d401697e718eb2b112faeb39dc4671ee23635793d1ddd1c87e7e"
+    }
+   ]
+  },
+  {
    "slug": "hg-578-2019",
    "path": "hg/2019/578",
    "short": "HG nr. 578/2019",
@@ -268391,6 +268406,21 @@
    ]
   },
   {
+   "slug": "legea-229-2018",
+   "path": "lege/2018/229",
+   "short": "Legea nr. 229/2018",
+   "title": "Legea nr. 229/2018 privind emiterea cărţilor de identitate speciale membrilor misiunilor diplomatice, oficiilor consulare şi reprezentanţelor organizaţiilor internaţionale acreditate în România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/203549",
+   "versions": [
+    {
+     "from": "2018-08-09",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/203549",
+     "sha256": "4327d9429b801a3e01d3a61bb22dfa9b7f01d9b63249dc8b3eded1aad91f275b"
+    }
+   ]
+  },
+  {
    "slug": "legea-229-2019",
    "path": "lege/2019/229",
    "short": "Legea nr. 229/2019",
@@ -268594,6 +268624,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171846",
      "sha256": "e535219d86dad79ac5a99f302f052a42370373c8e8cb3014027d3ea20585d8ce"
+    }
+   ]
+  },
+  {
+   "slug": "legea-230-2018",
+   "path": "lege/2018/230",
+   "short": "Legea nr. 230/2018",
+   "title": "Legea nr. 230/2018 pentru modificarea şi completarea Legii nr. 46/2008 - Codul silvic",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/203696",
+   "versions": [
+    {
+     "from": "2018-08-11",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/203696",
+     "sha256": "1fb54582c222be0b4c0b195a0f64753aed2f7b0aadd9bbd75719b2b5762f299f"
     }
    ]
   },

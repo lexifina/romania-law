@@ -1,6 +1,6 @@
 # Every act in this repository
 
-15757 acts, 29,381 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+15760 acts, 29,384 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (2710, of which 1346 amending acts)
+## Laws (legi) (2712, of which 1347 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -1371,6 +1371,8 @@
 | Legea nr. 221/2018 pentru modificarea și completarea Legii nr. 263/2010 privind sistemul unitar de pensii publice | [`lege/2018/221/`](lege/2018/221/) | amending act | 1 | 2018-08-02 | 2018-08-02 |
 | Legea nr. 225/2018 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 98/2010 privind identificarea, desemnarea și protecția infrastructurilor critice | [`lege/2018/225/`](lege/2018/225/) | amending act | 2 | 2018-09-02 | 2018-12-01 |
 | Legea nr. 227/2018 privind aprobarea Programului de susținere pentru activitatea de reproducție, incubație și de creștere în sectorul avicol | [`lege/2018/227/`](lege/2018/227/) | amending act | 7 | 2018-08-06 | 2024-12-13 |
+| Legea nr. 229/2018 privind emiterea cărţilor de identitate speciale membrilor misiunilor diplomatice, oficiilor consulare şi reprezentanţelor organizaţiilor internaţionale acreditate în România | [`lege/2018/229/`](lege/2018/229/) | in force | 1 | 2018-08-09 | 2018-08-09 |
+| Legea nr. 230/2018 pentru modificarea şi completarea Legii nr. 46/2008 - Codul silvic | [`lege/2018/230/`](lege/2018/230/) | amending act | 1 | 2018-08-11 | 2018-08-11 |
 | Legea nr. 231/2018 pentru modificarea și completarea Legii fondului funciar nr. 18/1991 | [`lege/2018/231/`](lege/2018/231/) | amending act | 2 | 2018-08-09 | 2019-06-27 |
 | Legea nr. 234/2018 pentru modificarea și completarea Legii nr. 317/2004 privind Consiliul Superior al Magistraturii | [`lege/2018/234/`](lege/2018/234/) | amending act | 1 | 2018-10-11 | 2018-10-11 |
 | Legea nr. 235/2018 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 61/2015 pentru prorogarea termenului de intrare în vigoare a Legii nr. 151/2015 privind procedura insolvenţei persoanelor fizice | [`lege/2018/235/`](lege/2018/235/) | amending act | 1 | 2018-10-11 | 2018-10-11 |
@@ -4931,7 +4933,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (10835, of which 5106 amending acts)
+## Government decisions (HG) (10836, of which 5106 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -8797,6 +8799,7 @@
 | Hotărârea Guvernului nr. 551/2018 pentru aprobarea Normelor metodologice de aplicare a prevederilor Ordonanței Guvernului nr. 24/2016 privind organizarea și desfășurarea activității de neutralizare a subproduselor de origine animală care nu sunt destinate consumului uman | [`hg/2018/551/`](hg/2018/551/) | amending act | 1 | 2018-07-31 | 2018-07-31 |
 | Hotărârea Guvernului nr. 572/2018 pentru completarea anexei nr. 32 la Hotărârea Guvernului nr. 1.347/2001 privind atestarea domeniului public al județului Bacău, precum și al municipiilor, orașelor și comunelor din județul Bacău | [`hg/2018/572/`](hg/2018/572/) | amending act | 1 | 2018-08-10 | 2018-08-10 |
 | Hotărârea Guvernului nr. 574/2018 privind actualizarea anexei nr. 30 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului și transmiterea unui imobil aflat în domeniul public al statului și în administrarea Ministerului Tineretului și Sportului - Direcția Județeană pentru Sport și Tineret Constanța în domeniul public al municipiului Constanța | [`hg/2018/574/`](hg/2018/574/) | amending act | 1 | 2018-08-10 | 2018-08-10 |
+| Hotărârea Guvernului nr. 578/2018 privind încetarea exercitării, cu caracter temporar, prin detaşare în condiţiile legii, a funcţiei publice de prefect al judeţului Giurgiu de către doamna Crişu Nina-Carmen | [`hg/2018/578/`](hg/2018/578/) | in force | 1 | 2018-08-02 | 2018-08-02 |
 | Hotărârea Guvernului nr. 579/2018 privind încetarea exercitării, cu caracter temporar, prin detaşare în condiţiile legii, a funcţiei publice de subprefect al judeţului Constanţa de către domnul Jeacă Dumitru | [`hg/2018/579/`](hg/2018/579/) | in force | 1 | 2018-08-02 | 2018-08-02 |
 | Hotărârea Guvernului nr. 580/2018 privind exercitarea, cu caracter temporar, prin detaşare în condiţiile legii, a funcţiei publice de prefect al judeţului Constanţa de către domnul Jeacă Dumitru | [`hg/2018/580/`](hg/2018/580/) | in force | 1 | 2018-08-02 | 2018-08-02 |
 | Hotărârea Guvernului nr. 582/2018 privind suplimentarea bugetului Ministerului Apelor şi Pădurilor din Fondul de intervenţie la dispoziţia Guvernului pentru realizarea în regim de urgenţă a unor lucrări de investiţii de prevenire şi înlăturare a efectelor calamităţilor naturale produse de inundaţii în perioada iunie-iulie 2018 pe cursurile de apă din judeţele Alba, Argeş, Bacău, Braşov, Caraş-Severin, Covasna, Gorj, Harghita, Ialomiţa, Maramureş, Neamţ, Suceava, Vâlcea | [`hg/2018/582/`](hg/2018/582/) | in force | 1 | 2018-08-07 | 2018-08-07 |
