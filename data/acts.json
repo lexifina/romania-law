@@ -70994,6 +70994,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/49074"
 },
 {
+"slug": "hg-744-2003",
+"path": "hg/2003/744",
+"kind": "hg",
+"year": "2003",
+"number": "744",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 744/2003",
+"short": "HG nr. 744/2003",
+"code": null,
+"status": "in force",
+"versions": 14,
+"from": "2003-07-09",
+"latest": "2008-10-20",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/98738"
+},
+{
 "slug": "hg-759-2003",
 "path": "hg/2003/759",
 "kind": "hg",
@@ -92293,6 +92310,23 @@
 "from": "2017-01-16",
 "latest": "2018-05-02",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/218114"
+},
+{
+"slug": "hg-15-2017",
+"path": "hg/2017/15",
+"kind": "hg",
+"year": "2017",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 15/2017 privind organizarea și funcționarea Ministerului Dezvoltării Regionale, Administrației Publice și Fondurilor Europene",
+"short": "HG nr. 15/2017",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2017-01-16",
+"latest": "2017-01-16",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/185716"
 },
 {
 "slug": "hg-16-2017",

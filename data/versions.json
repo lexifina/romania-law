@@ -13322,6 +13322,21 @@
    ]
   },
   {
+   "slug": "hg-15-2017",
+   "path": "hg/2017/15",
+   "short": "HG nr. 15/2017",
+   "title": "Hotărârea Guvernului nr. 15/2017 privind organizarea și funcționarea Ministerului Dezvoltării Regionale, Administrației Publice și Fondurilor Europene",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/185716",
+   "versions": [
+    {
+     "from": "2017-01-16",
+     "units": 25,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/185716",
+     "sha256": "b566420d84fdf56347c19ef0d633927696bddce3088c740617964f61830a8c38"
+    }
+   ]
+  },
+  {
    "slug": "hg-1505-2004",
    "path": "hg/2004/1505",
    "short": "HG nr. 1505/2004",
@@ -22381,6 +22396,99 @@
      "units": 14,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49074",
      "sha256": "fa095dc65f317940512d1336964599b703f864c44509742f5922abf8ab3a871b"
+    }
+   ]
+  },
+  {
+   "slug": "hg-744-2003",
+   "path": "hg/2003/744",
+   "short": "HG nr. 744/2003",
+   "title": "Hotărârea Guvernului nr. 744/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/98738",
+   "versions": [
+    {
+     "from": "2003-07-09",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/44884",
+     "sha256": "ee709a5b51f47906bf83b6e5b6c14cc82b4dfa8dbeb67914ff7ef0c44f82b344"
+    },
+    {
+     "from": "2004-07-14",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53434",
+     "sha256": "2683745b3db7b2af29de037d54697645242bb321fbc71b4eb2d4d9945742a3e7"
+    },
+    {
+     "from": "2004-10-27",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66145",
+     "sha256": "ae9c196065a3964e110451ba68e39a1900f51ac9fbb13d67c83b68e651af6f87"
+    },
+    {
+     "from": "2004-11-17",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66146",
+     "sha256": "79c7e7b887c8ff5187defb3596685187e81dd99f6557bd2ca29e345cc3e8c96b"
+    },
+    {
+     "from": "2005-03-18",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66148",
+     "sha256": "d5eeb47aaaf9d9b8d16e53361ae15368c49c4db4d4bdbde075997acf0f81b277"
+    },
+    {
+     "from": "2005-04-15",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66149",
+     "sha256": "bda50b428b591161353510c54fb8efc5570e027b4c7593d8ad836a4e96421307"
+    },
+    {
+     "from": "2005-11-09",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66150",
+     "sha256": "96fb9092dd6c099ca4444d267c4cb9e2797e608fc9b24124fe7bea12d5452245"
+    },
+    {
+     "from": "2006-02-01",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/74305",
+     "sha256": "a77f0ab62fd250cfad529eebdb2c98891f694137a0540115dd8d56b6d46c9cb1"
+    },
+    {
+     "from": "2007-01-09",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/79898",
+     "sha256": "903c1fbcfa821fab321534c8dc309af74d4de408944637f3ce3cbd3b45066ff5"
+    },
+    {
+     "from": "2007-02-21",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/79899",
+     "sha256": "9b8780c8bdb96734ff07e0b811e137739668ac33a9b66a80b624f709941587e5"
+    },
+    {
+     "from": "2007-05-25",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/93105",
+     "sha256": "450b12643705ddb867a8963a2c94a13865784d13fb4fac0eea7ca50c55bacb98"
+    },
+    {
+     "from": "2007-06-29",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/93106",
+     "sha256": "4d7a4ec1b3afb2effe75805e89dc3b76164cbd8a71ce1e98f75234fa0987a463"
+    },
+    {
+     "from": "2008-05-21",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/93107",
+     "sha256": "b98b0dea065ea193fb5bd813809a4af00d5813aba0a4c3e1744a62ff6c1404f7"
+    },
+    {
+     "from": "2008-10-20",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/98738",
+     "sha256": "d3d509be1b11dc10a370625a78109bd015ee419d46a823df7fabf2a01b59f6c2"
     }
    ]
   },

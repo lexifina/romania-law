@@ -1,6 +1,6 @@
 # Every act in this repository
 
-7769 acts, 20,490 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+7771 acts, 20,505 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -3893,7 +3893,7 @@
 | Ordonanța Guvernului nr. 21/2025 pentru modificarea și completarea Legii nr. 431/2023 privind asigurarea unui nivel minim global de impozitare a grupurilor de întreprinderi multinaționale și a grupurilor naționale de mari dimensiuni | [`og/2025/21/`](og/2025/21/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 | Ordonanța Guvernului nr. 22/2025 pentru modificarea și completarea Legii nr. 227/2015 privind Codul fiscal | [`og/2025/22/`](og/2025/22/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 
-## Government decisions (HG) (3884, of which 1418 amending acts)
+## Government decisions (HG) (3886, of which 1418 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -4226,6 +4226,7 @@
 | Hotărârea Guvernului nr. 737/2003 | [`hg/2003/737/`](hg/2003/737/) | in force | 1 | 2003-07-07 | 2003-07-07 |
 | Hotărârea Guvernului nr. 738/2003 | [`hg/2003/738/`](hg/2003/738/) | in force | 6 | 2003-07-07 | 2006-11-08 |
 | Hotărârea Guvernului nr. 743/2003 | [`hg/2003/743/`](hg/2003/743/) | in force | 2 | 2003-07-08 | 2003-12-14 |
+| Hotărârea Guvernului nr. 744/2003 | [`hg/2003/744/`](hg/2003/744/) | in force | 14 | 2003-07-09 | 2008-10-20 |
 | Hotărârea Guvernului nr. 759/2003 | [`hg/2003/759/`](hg/2003/759/) | in force | 1 | 2003-07-09 | 2003-07-09 |
 | Hotărârea Guvernului nr. 768/2003 | [`hg/2003/768/`](hg/2003/768/) | in force | 2 | 2003-07-07 | 2003-07-24 |
 | Hotărârea Guvernului nr. 771/2003 | [`hg/2003/771/`](hg/2003/771/) | repealed 2004-01-23 | 2 | 2003-07-08 | 2004-01-23 |
@@ -5479,6 +5480,7 @@
 | Hotărârea Guvernului nr. 1/2017 | [`hg/2017/1/`](hg/2017/1/) | in force | 1 | 2017-01-06 | 2017-01-06 |
 | Hotărârea Guvernului nr. 12/2017 privind organizarea și funcționarea Ministerului Muncii și Justiției Sociale | [`hg/2017/12/`](hg/2017/12/) | in force | 4 | 2017-01-16 | 2019-06-26 |
 | Hotărârea Guvernului nr. 13/2017 | [`hg/2017/13/`](hg/2017/13/) | in force | 2 | 2017-01-16 | 2018-05-02 |
+| Hotărârea Guvernului nr. 15/2017 privind organizarea și funcționarea Ministerului Dezvoltării Regionale, Administrației Publice și Fondurilor Europene | [`hg/2017/15/`](hg/2017/15/) | in force | 1 | 2017-01-16 | 2017-01-16 |
 | Hotărârea Guvernului nr. 16/2017 privind organizarea și funcționarea Ministerului Afacerilor Externe | [`hg/2017/16/`](hg/2017/16/) | in force | 13 | 2017-01-16 | 2025-04-07 |
 | Hotărârea Guvernului nr. 19/2017 privind organizarea și funcționarea Ministerului Mediului și pentru modificarea unor acte normative | [`hg/2017/19/`](hg/2017/19/) | amending act | 3 | 2017-01-17 | 2020-01-28 |
 | Hotărârea Guvernului nr. 20/2017 | [`hg/2017/20/`](hg/2017/20/) | repealed 2020-01-28 | 4 | 2017-01-17 | 2020-01-28 |
