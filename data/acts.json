@@ -19654,6 +19654,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/298772"
 },
 {
+"slug": "legea-7-2020",
+"path": "lege/2020/7",
+"kind": "lege",
+"year": "2020",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 7/2020 pentru modificarea și completarea Legii nr. 10/1995 privind calitatea în construcții și pentru modificarea și completarea Legii nr. 50/1991 privind autorizarea executării lucrărilor de construcții",
+"short": "Legea nr. 7/2020",
+"code": null,
+"status": "amending act",
+"versions": 2,
+"from": "2020-01-11",
+"latest": "2020-02-07",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/221908"
+},
+{
 "slug": "legea-14-2020",
 "path": "lege/2020/14",
 "kind": "lege",
@@ -19975,6 +19992,23 @@
 "from": "2020-06-29",
 "latest": "2020-06-29",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/227135"
+},
+{
+"slug": "legea-101-2020",
+"path": "lege/2020/101",
+"kind": "lege",
+"year": "2020",
+"number": "101",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 101/2020 pentru modificarea și completarea Legii nr. 372/2005 privind performanța energetică a clădirilor",
+"short": "Legea nr. 101/2020",
+"code": null,
+"status": "amending act",
+"versions": 2,
+"from": "2020-07-04",
+"latest": "2020-08-03",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/227538"
 },
 {
 "slug": "legea-102-2020",
@@ -44336,6 +44370,23 @@
 "from": "2019-04-19",
 "latest": "2024-07-21",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/212998"
+},
+{
+"slug": "oug-26-2019",
+"path": "oug/2019/26",
+"kind": "oug",
+"year": "2019",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 26/2019 pentru modificarea și completarea unor acte normative",
+"short": "OUG nr. 26/2019",
+"code": null,
+"status": "amending act",
+"versions": 3,
+"from": "2019-04-19",
+"latest": "2019-07-12",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/212999"
 },
 {
 "slug": "oug-29-2019",

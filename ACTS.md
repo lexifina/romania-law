@@ -1,6 +1,6 @@
 # Every act in this repository
 
-5897 acts, 16,604 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+5900 acts, 16,611 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -32,7 +32,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (1716, of which 637 amending acts)
+## Laws (legi) (1718, of which 639 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -1191,6 +1191,7 @@
 | Legea nr. 255/2019 privind instituirea zilei de 1 noiembrie ca Ziua Națională a Radioului | [`lege/2019/255/`](lege/2019/255/) | in force | 1 | 2020-01-02 | 2020-01-02 |
 | Legea nr. 261/2019 pentru ratificarea Scrisorii de înțelegere privind avansul pentru pregătirea Proiectului de dezvoltare propus, "Cartierul pentru justiție", dintre România și Banca Internațională pentru Reconstrucție și Dezvoltare, semnată la Bruxelles la 30 mai 2019 și la București la 6 iunie 2019 | [`lege/2019/261/`](lege/2019/261/) | in force | 1 | 2020-01-03 | 2020-01-03 |
 | Legea nr. 1/2020 privind pensiile ocupaționale | [`lege/2020/1/`](lege/2020/1/) | in force | 2 | 2020-02-07 | 2023-04-07 |
+| Legea nr. 7/2020 pentru modificarea și completarea Legii nr. 10/1995 privind calitatea în construcții și pentru modificarea și completarea Legii nr. 50/1991 privind autorizarea executării lucrărilor de construcții | [`lege/2020/7/`](lege/2020/7/) | amending act | 2 | 2020-01-11 | 2020-02-07 |
 | Legea nr. 14/2020 privind aprobarea Ordonanței de urgență a Guvernului nr. 9/2019 pentru modificarea și completarea Legii nr. 61/1993 privind alocația de stat pentru copii, precum și pentru modificarea art. 58 alin. (1) din Legea nr. 448/2006 privind protecția și promovarea drepturilor persoanelor cu handicap | [`lege/2020/14/`](lege/2020/14/) | amending act | 1 | 2020-02-01 | 2020-02-01 |
 | Legea nr. 19/2020 privind acordarea unor zile libere părinților pentru supravegherea copiilor, în situația închiderii temporare a unităților de învățământ | [`lege/2020/19/`](lege/2020/19/) | in force | 4 | 2020-03-17 | 2020-05-22 |
 | Legea nr. 25/2020 pentru ratificarea Acordului dintre Guvernul României și Guvernul Republicii Singapore cu privire la serviciile aeriene, semnat la Singapore la 31 mai 2018 | [`lege/2020/25/`](lege/2020/25/) | in force | 1 | 2020-03-27 | 2020-03-27 |
@@ -1210,6 +1211,7 @@
 | Legea nr. 87/2020 pentru modificarea Legii fondului funciar nr. 18/1991 | [`lege/2020/87/`](lege/2020/87/) | amending act | 1 | 2020-06-28 | 2020-06-28 |
 | Legea nr. 91/2020 privind modificarea Legii nr. 115/2015 pentru alegerea autorităților administrației publice locale, pentru modificarea Legii administrației publice locale nr. 215/2001 , precum și pentru modificarea și completarea Legii nr. 393/2004 privind Statutul aleșilor locali, precum și pentru modificarea Legii nr. 208/2015 privind alegerea Senatului și a Camerei Deputaților, precum și pentru organizarea și funcționarea Autorității Electorale Permanente | [`lege/2020/91/`](lege/2020/91/) | amending act | 1 | 2020-06-28 | 2020-06-28 |
 | Legea nr. 97/2020 pentru modificarea și completarea Legii nr. 421/2002 privind regimul juridic al vehiculelor fără stăpân sau abandonate pe terenuri aparținând domeniului public sau privat al statului ori al unităților administrativ-teritoriale | [`lege/2020/97/`](lege/2020/97/) | amending act | 1 | 2020-06-29 | 2020-06-29 |
+| Legea nr. 101/2020 pentru modificarea și completarea Legii nr. 372/2005 privind performanța energetică a clădirilor | [`lege/2020/101/`](lege/2020/101/) | amending act | 2 | 2020-07-04 | 2020-08-03 |
 | Legea nr. 102/2020 pentru modificarea și completarea Legii societăților nr. 31/1990 | [`lege/2020/102/`](lege/2020/102/) | amending act | 1 | 2020-07-05 | 2020-07-05 |
 | Legea nr. 105/2020 pentru completarea Legii nr. 176/2010 privind integritatea în exercitarea funcțiilor și demnităților publice, pentru modificarea și completarea Legii nr. 144/2007 privind înființarea, organizarea și funcționarea Agenției Naționale de Integritate, precum și pentru modificarea și completarea altor acte normative | [`lege/2020/105/`](lege/2020/105/) | amending act | 1 | 2020-07-09 | 2020-07-09 |
 | Legea nr. 106/2020 privind modificarea și completarea Legii nr. 217/2003 pentru prevenirea și combaterea violenței domestice | [`lege/2020/106/`](lege/2020/106/) | amending act | 1 | 2020-07-09 | 2020-07-09 |
@@ -1753,7 +1755,7 @@
 | Legea nr. 241/2025 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 31/2002 privind interzicerea organizațiilor, simbolurilor și faptelor cu caracter fascist, legionar, rasist sau xenofob și a promovării cultului persoanelor vinovate de săvârșirea unor infracțiuni de genocid contra umanității și de crime de război, precum și pentru modificarea Legii nr. 157/2018 privind unele măsuri pentru prevenirea și combaterea antisemitismului | [`lege/2025/241/`](lege/2025/241/) | amending act | 1 | 2025-12-27 | 2025-12-27 |
 | Legea nr. 245/2025 pentru modificarea art. 32 alin. (7) din Legea nr. 273/2006 privind finanțele publice locale | [`lege/2025/245/`](lege/2025/245/) | amending act | 1 | 2026-01-01 | 2026-01-01 |
 
-## Emergency ordinances (OUG) (1428, of which 516 amending acts)
+## Emergency ordinances (OUG) (1429, of which 517 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -2648,6 +2650,7 @@
 | Ordonanța de urgență a Guvernului nr. 23/2019 pentru completarea Legii educației naționale nr. 1/2011 , instituirea unor derogări și prorogarea unor termene | [`oug/2019/23/`](oug/2019/23/) | amending act | 2 | 2019-04-10 | 2019-11-29 |
 | Ordonanța de urgență a Guvernului nr. 24/2019 pentru modificarea și completarea Legii nr. 211/2004 privind unele măsuri pentru asigurarea protecției victimelor infracțiunilor, precum și a altor acte normative | [`oug/2019/24/`](oug/2019/24/) | amending act | 1 | 2019-04-10 | 2019-04-10 |
 | Ordonanța de urgență a Guvernului nr. 25/2019 privind protecția know-how-ului și a informațiilor de afaceri nedivulgate care constituie secrete comerciale împotriva dobândirii, utilizării și divulgării ilegale, precum și pentru modificarea și completarea unor acte normative | [`oug/2019/25/`](oug/2019/25/) | amending act | 2 | 2019-04-19 | 2024-07-21 |
+| Ordonanța de urgență a Guvernului nr. 26/2019 pentru modificarea și completarea unor acte normative | [`oug/2019/26/`](oug/2019/26/) | amending act | 3 | 2019-04-19 | 2019-07-12 |
 | Ordonanța de urgență a Guvernului nr. 29/2019 privind modificarea și completarea unor acte normative în materie electorală, precum și pentru unele măsuri pentru organizarea alegerilor pentru membrii din România în Parlamentul European și a referendumului național din 26 mai 2019 | [`oug/2019/29/`](oug/2019/29/) | amending act | 2 | 2019-05-08 | 2024-11-08 |
 | Ordonanța de urgență a Guvernului nr. 30/2019 privind reorganizarea Ministerului Economiei în scopul exercitării drepturilor și îndeplinirii obligațiilor ce decurg din calitatea de acționar a statului la anumiți operatori economici, precum și pentru modificarea unor acte normative | [`oug/2019/30/`](oug/2019/30/) | amending act | 1 | 2019-05-23 | 2019-05-23 |
 | Ordonanța de urgență a Guvernului nr. 31/2019 privind acordarea unor facilități fiscale și pentru modificarea și completarea Legii nr. 227/2015 privind Codul fiscal , pentru completarea Ordonanței de urgență a Guvernului nr. 11/2018 pentru adoptarea unor măsuri bugetare și pentru modificarea Legii-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice | [`oug/2019/31/`](oug/2019/31/) | amending act | 2 | 2019-05-23 | 2022-11-20 |
