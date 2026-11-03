@@ -1,6 +1,6 @@
 # Every act in this repository
 
-6599 acts, 19,150 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+6600 acts, 19,152 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -3783,7 +3783,7 @@
 | Ordonanța Guvernului nr. 21/2025 pentru modificarea și completarea Legii nr. 431/2023 privind asigurarea unui nivel minim global de impozitare a grupurilor de întreprinderi multinaționale și a grupurilor naționale de mari dimensiuni | [`og/2025/21/`](og/2025/21/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 | Ordonanța Guvernului nr. 22/2025 pentru modificarea și completarea Legii nr. 227/2015 privind Codul fiscal | [`og/2025/22/`](og/2025/22/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 
-## Government decisions (HG) (2824, of which 929 amending acts)
+## Government decisions (HG) (2825, of which 929 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -4863,6 +4863,7 @@
 | Hotărârea Guvernului nr. 203/2011 | [`hg/2011/203/`](hg/2011/203/) | in force | 1 | 2011-03-14 | 2011-03-14 |
 | Hotărârea Guvernului nr. 212/2011 | [`hg/2011/212/`](hg/2011/212/) | in force | 4 | 2011-03-11 | 2014-09-11 |
 | Hotărârea Guvernului nr. 245/2011 | [`hg/2011/245/`](hg/2011/245/) | in force | 1 | 2011-03-28 | 2011-03-28 |
+| Hotărârea Guvernului nr. 257/2011 | [`hg/2011/257/`](hg/2011/257/) | repealed 2024-09-01 | 2 | 2011-03-28 | 2024-09-01 |
 | Hotărârea Guvernului nr. 286/2011 | [`hg/2011/286/`](hg/2011/286/) | in force | 2 | 2011-03-31 | 2016-04-20 |
 | Hotărârea Guvernului nr. 307/2011 | [`hg/2011/307/`](hg/2011/307/) | in force | 1 | 2011-03-31 | 2011-03-31 |
 | Hotărârea Guvernului nr. 340/2011 | [`hg/2011/340/`](hg/2011/340/) | in force | 1 | 2011-05-09 | 2011-05-09 |

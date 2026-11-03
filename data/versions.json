@@ -14861,6 +14861,27 @@
    ]
   },
   {
+   "slug": "hg-257-2011",
+   "path": "hg/2011/257",
+   "short": "HG nr. 257/2011",
+   "title": "Hotărârea Guvernului nr. 257/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/127153",
+   "versions": [
+    {
+     "from": "2011-03-28",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/127153",
+     "sha256": "198619af368a32b2f68227065de4532a38c03b9263ae2fdee91a40f4bd927bf9"
+    },
+    {
+     "from": "2024-09-01",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/276927",
+     "sha256": "26670bbeae73afb4e23d939dc7ed2d25092fb71c37bbec95d5eb6126b7cc834d"
+    }
+   ]
+  },
+  {
    "slug": "hg-26-2002",
    "path": "hg/2002/26",
    "short": "HG nr. 26/2002",

@@ -81823,6 +81823,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/205715"
 },
 {
+"slug": "hg-257-2011",
+"path": "hg/2011/257",
+"kind": "hg",
+"year": "2011",
+"number": "257",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 257/2011",
+"short": "HG nr. 257/2011",
+"code": null,
+"status": "repealed 2024-09-01",
+"versions": 2,
+"from": "2011-03-28",
+"latest": "2024-09-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/127153"
+},
+{
 "slug": "hg-286-2011",
 "path": "hg/2011/286",
 "kind": "hg",
