@@ -1,6 +1,6 @@
 # Every act in this repository
 
-5867 acts, 16,470 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+5873 acts, 16,494 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -32,7 +32,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (1704, of which 636 amending acts)
+## Laws (legi) (1707, of which 637 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -182,6 +182,7 @@
 | Legea nr. 157/1997 | [`lege/1997/157/`](lege/1997/157/) | in force | 1 | 1997-10-13 | 1997-10-13 |
 | Legea nr. 169/1997 | [`lege/1997/169/`](lege/1997/169/) | in force | 2 | 1997-11-04 | 2005-07-25 |
 | Legea nr. 171/1997 | [`lege/1997/171/`](lege/1997/171/) | in force | 1 | 1997-11-24 | 1997-11-24 |
+| Legea nr. 178/1997 | [`lege/1997/178/`](lege/1997/178/) | in force | 9 | 1997-11-10 | 2016-05-02 |
 | Legea nr. 197/1997 | [`lege/1997/197/`](lege/1997/197/) | in force | 1 | 1997-11-26 | 1997-11-26 |
 | Legea nr. 208/1997 | [`lege/1997/208/`](lege/1997/208/) | in force | 1 | 1997-12-17 | 1997-12-17 |
 | Legea nr. 215/1997 | [`lege/1997/215/`](lege/1997/215/) | in force | 4 | 1997-12-22 | 2024-04-13 |
@@ -363,6 +364,7 @@
 | Legea nr. 186/2003 | [`lege/2003/186/`](lege/2003/186/) | in force | 6 | 2003-05-19 | 2021-07-04 |
 | Legea nr. 189/2003 | [`lege/2003/189/`](lege/2003/189/) | in force | 7 | 2003-07-18 | 2026-03-03 |
 | Legea nr. 191/2003 | [`lege/2003/191/`](lege/2003/191/) | in force | 2 | 2003-06-15 | 2014-02-01 |
+| Legea nr. 196/2003 | [`lege/2003/196/`](lege/2003/196/) | in force | 7 | 2003-06-19 | 2014-03-20 |
 | Legea nr. 210/2003 | [`lege/2003/210/`](lege/2003/210/) | in force | 1 | 2003-05-22 | 2003-05-22 |
 | Legea nr. 217/2003 pentru prevenirea și combaterea violenței domestice | [`lege/2003/217/`](lege/2003/217/) | in force | 22 | 2003-08-27 | 2025-01-17 |
 | Legea nr. 252/2003 | [`lege/2003/252/`](lege/2003/252/) | in force | 1 | 2003-07-18 | 2003-07-18 |
@@ -759,6 +761,7 @@
 | Legea nr. 226/2011 | [`lege/2011/226/`](lege/2011/226/) | in force | 3 | 2011-12-05 | 2015-04-23 |
 | Legea nr. 230/2011 | [`lege/2011/230/`](lege/2011/230/) | in force | 1 | 2011-12-11 | 2011-12-11 |
 | Legea nr. 247/2011 | [`lege/2011/247/`](lege/2011/247/) | in force | 1 | 2011-12-11 | 2011-12-11 |
+| Legea nr. 283/2011 privind aprobarea Ordonanței de urgență a Guvernului nr. 80/2010 pentru completarea art. 11 din Ordonanța de urgență a Guvernului nr. 37/2008 privind reglementarea unor măsuri financiare în domeniul bugetar | [`lege/2011/283/`](lege/2011/283/) | amending act | 2 | 2011-12-17 | 2012-01-18 |
 | Legea asistenței sociale nr. 292/2011 | [`lege/2011/292/`](lege/2011/292/) | in force | 10 | 2011-12-23 | 2025-12-31 |
 | Legea nr. 9/2012 | [`lege/2012/9/`](lege/2012/9/) | repealed 2013-03-15 | 2 | 2012-01-13 | 2013-03-15 |
 | Legea nr. 48/2012 | [`lege/2012/48/`](lege/2012/48/) | in force | 1 | 2012-03-25 | 2012-03-25 |
@@ -1741,7 +1744,7 @@
 | Legea nr. 241/2025 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 31/2002 privind interzicerea organizațiilor, simbolurilor și faptelor cu caracter fascist, legionar, rasist sau xenofob și a promovării cultului persoanelor vinovate de săvârșirea unor infracțiuni de genocid contra umanității și de crime de război, precum și pentru modificarea Legii nr. 157/2018 privind unele măsuri pentru prevenirea și combaterea antisemitismului | [`lege/2025/241/`](lege/2025/241/) | amending act | 1 | 2025-12-27 | 2025-12-27 |
 | Legea nr. 245/2025 pentru modificarea art. 32 alin. (7) din Legea nr. 273/2006 privind finanțele publice locale | [`lege/2025/245/`](lege/2025/245/) | amending act | 1 | 2026-01-01 | 2026-01-01 |
 
-## Emergency ordinances (OUG) (1412, of which 512 amending acts)
+## Emergency ordinances (OUG) (1414, of which 512 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -1842,6 +1845,7 @@
 | Ordonanța de urgență a Guvernului nr. 175/2001 | [`oug/2001/175/`](oug/2001/175/) | in force | 2 | 2001-12-21 | 2002-07-10 |
 | Ordonanța de urgență a Guvernului nr. 184/2001 | [`oug/2001/184/`](oug/2001/184/) | in force | 2 | 2001-12-29 | 2002-07-18 |
 | Ordonanța de urgență a Guvernului nr. 195/2001 | [`oug/2001/195/`](oug/2001/195/) | in force | 3 | 2001-12-29 | 2012-08-27 |
+| Ordonanța de urgență a Guvernului nr. 1/2002 | [`oug/2002/1/`](oug/2002/1/) | in force | 2 | 2002-01-22 | 2002-04-24 |
 | Ordonanța de urgență a Guvernului nr. 16/2002 | [`oug/2002/16/`](oug/2002/16/) | in force | 2 | 2002-02-26 | 2003-01-01 |
 | Ordonanța de urgență a Guvernului nr. 34/2002 | [`oug/2002/34/`](oug/2002/34/) | in force | 2 | 2002-04-03 | 2004-01-23 |
 | Ordonanța de urgență a Guvernului nr. 36/2002 | [`oug/2002/36/`](oug/2002/36/) | in force | 3 | 2002-04-03 | 2014-02-01 |
@@ -2296,6 +2300,7 @@
 | Ordonanța de urgență a Guvernului nr. 120/2011 | [`oug/2011/120/`](oug/2011/120/) | in force | 2 | 2011-12-28 | 2013-03-22 |
 | Ordonanța de urgență a Guvernului nr. 121/2011 | [`oug/2011/121/`](oug/2011/121/) | in force | 2 | 2011-12-29 | 2013-05-02 |
 | Ordonanța de urgență a Guvernului nr. 122/2011 | [`oug/2011/122/`](oug/2011/122/) | in force | 1 | 2011-12-29 | 2011-12-29 |
+| Ordonanța de urgență a Guvernului nr. 124/2011 | [`oug/2011/124/`](oug/2011/124/) | in force | 2 | 2012-01-01 | 2012-10-14 |
 | Ordonanța de urgență a Guvernului nr. 8/2012 | [`oug/2012/8/`](oug/2012/8/) | in force | 1 | 2012-04-04 | 2012-04-04 |
 | Ordonanța de urgență a Guvernului nr. 11/2012 | [`oug/2012/11/`](oug/2012/11/) | in force | 2 | 2012-04-18 | 2013-06-25 |
 | Ordonanța de urgență a Guvernului nr. 15/2012 | [`oug/2012/15/`](oug/2012/15/) | in force | 2 | 2012-05-08 | 2012-05-10 |
@@ -3158,7 +3163,7 @@
 | Ordonanța de urgență a Guvernului nr. 78/2025 pentru modificarea Legii nr. 239/2025 privind stabilirea unor măsuri de redresare și eficientizare a resurselor publice și pentru modificarea și completarea unor acte normative | [`oug/2025/78/`](oug/2025/78/) | amending act | 1 | 2025-12-17 | 2025-12-17 |
 | Ordonanța de urgență a Guvernului nr. 87/2025 pentru stabilirea unor măsuri bugetare privind implementarea programelor naționale din domeniul lucrărilor publice | [`oug/2025/87/`](oug/2025/87/) | in force | 1 | 2025-12-24 | 2025-12-24 |
 
-## Ordinances (OG) (404, of which 87 amending acts)
+## Ordinances (OG) (405, of which 87 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -3241,6 +3246,7 @@
 | Ordonanța Guvernului nr. 109/2000 | [`og/2000/109/`](og/2000/109/) | in force | 3 | 2000-09-02 | 2006-11-26 |
 | Ordonanța Guvernului nr. 112/2000 | [`og/2000/112/`](og/2000/112/) | in force | 1 | 2000-09-01 | 2000-09-01 |
 | Ordonanța Guvernului nr. 118/2000 | [`og/2000/118/`](og/2000/118/) | in force | 1 | 2000-09-03 | 2000-09-03 |
+| Ordonanța Guvernului nr. 120/2000 | [`og/2000/120/`](og/2000/120/) | in force | 2 | 2000-09-03 | 2001-11-13 |
 | Ordonanța Guvernului nr. 121/2000 privind înfiinţarea Institutului pentru Studierea Problemelor Minorităţilor Naţionale | [`og/2000/121/`](og/2000/121/) | in force | 2 | 2000-09-03 | 2001-07-20 |
 | Ordonanța Guvernului nr. 122/2000 pentru acceptarea amendamentelor la anexa la Convenția internațională privind standardele de pregătire a navigatorilor, brevetare/atestare și efectuare a serviciului de cart, adoptată la Londra la 7 iulie 1978 (STCW 1978), și a Codului privind pregătirea, brevetarea/atestarea și efectuarea serviciului de cart (Codul STCW), adoptate prin Actul final al Conferintei părților la aceasta convenție la Londra la 7 iulie 1995, precum și a amendamentelor ulterioare, adoptate prin rezoluții ale Comitetului Securității Maritime al Organizației Maritime Internaționale | [`og/2000/122/`](og/2000/122/) | in force | 1 | 2000-09-02 | 2000-09-02 |
 | Ordonanța Guvernului nr. 127/2000 | [`og/2000/127/`](og/2000/127/) | in force | 1 | 2000-09-02 | 2000-09-02 |
