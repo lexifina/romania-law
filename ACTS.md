@@ -1,6 +1,6 @@
 # Every act in this repository
 
-16198 acts, 29,822 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+16199 acts, 29,823 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -5005,7 +5005,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (11202, of which 5361 amending acts)
+## Government decisions (HG) (11203, of which 5362 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -8775,6 +8775,7 @@
 | Hotărârea Guvernului nr. 734/2017 privind suplimentarea pe anul 2017 a sumei prevăzute ca justă despăgubire, aprobată prin Hotărârea Guvernului nr. 67/2016 privind declanșarea procedurilor de expropriere a imobilelor proprietate privată care constituie coridorul de expropriere al lucrării de utilitate publică de interes național "Secțiunea 2A Ogra-Câmpia Turzii pe teritoriul localităților Bogata, Chețani, Cucerdea, Cuci, Iernut, Luduș și Ogra din județul Mureș și pe teritoriul localității Luna din județul Cluj din cadrul obiectivului de investiții de interes național «Autostrada Brașov-Târgu Mureș- Cluj-Oradea»", precum și modificarea anexei nr. 2 la Hotărârea Guvernului nr. 67/2016 | [`hg/2017/734/`](hg/2017/734/) | in force | 1 | 2017-10-11 | 2017-10-11 |
 | Hotărârea Guvernului nr. 742/2017 privind acordarea unor ajutoare de urgență familiilor afectate de evenimentul care a avut loc în data de 5 octombrie 2017 la Exploatarea Minieră Lupeni, județul Hunedoara | [`hg/2017/742/`](hg/2017/742/) | in force | 1 | 2017-10-11 | 2017-10-11 |
 | Hotărârea Guvernului nr. 750/2017 pentru modificarea anexei nr. 5 - Regulamentul privind agrementul tehnic pentru produse, procedee și echipamente noi în construcții - la Hotărârea Guvernului nr. 766/1997 pentru aprobarea unor regulamente privind calitatea în construcții | [`hg/2017/750/`](hg/2017/750/) | amending act | 1 | 2017-10-19 | 2017-10-19 |
+| Hotărârea Guvernului nr. 794/2017 pentru aprobarea cuantumului şi a plăţii cotizaţiei voluntare de participare a Ministerului Justiţiei la Academia Internaţională Anticorupţie, pentru anul 2017 | [`hg/2017/794/`](hg/2017/794/) | amending act | 1 | 2017-11-07 | 2017-11-07 |
 | Hotărârea Guvernului nr. 795/2017 privind înscrierea unui imobil în inventarul centralizat al bunurilor din domeniul public al statului şi darea acestuia în administrarea Ministerului Sănătăţii | [`hg/2017/795/`](hg/2017/795/) | in force | 1 | 2017-11-07 | 2017-11-07 |
 | Hotărârea Guvernului nr. 796/2017 pentru modificarea anexei nr. 1 la Hotărârea Guvernului nr. 1.362/2001 privind atestarea domeniului public al judeţului Vâlcea, precum şi al municipiilor, oraşelor şi comunelor din judeţul Vâlcea | [`hg/2017/796/`](hg/2017/796/) | amending act | 1 | 2017-11-07 | 2017-11-07 |
 | Hotărârea Guvernului nr. 797/2017 pentru aprobarea regulamentelor-cadru de organizare și funcționare ale serviciilor publice de asistență socială și a structurii orientative de personal | [`hg/2017/797/`](hg/2017/797/) | amending act | 2 | 2017-11-23 | 2024-10-10 |
