@@ -58499,6 +58499,27 @@
    ]
   },
   {
+   "slug": "legea-90-2004",
+   "path": "lege/2004/90",
+   "short": "Legea nr. 90/2004",
+   "title": "Legea nr. 90/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/102124",
+   "versions": [
+    {
+     "from": "2004-12-31",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/51291",
+     "sha256": "3c32b971b89fe9aa5a0a5c9c8748578205c1afc429c3736f68004e2690de1d8d"
+    },
+    {
+     "from": "2004-12-31",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/102124",
+     "sha256": "a243a4e6c9e7fca784b95aa764437fb85828a85bff19709264e659c139d600af"
+    }
+   ]
+  },
+  {
    "slug": "legea-92-1992",
    "path": "lege/1992/92",
    "short": "Legea nr. 92/1992",

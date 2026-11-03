@@ -1,6 +1,6 @@
 # Every act in this repository
 
-9611 acts, 22,983 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+9612 acts, 22,985 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -32,7 +32,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (2156, of which 891 amending acts)
+## Laws (legi) (2157, of which 891 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -488,6 +488,7 @@
 | Legea nr. 67/2004 | [`lege/2004/67/`](lege/2004/67/) | in force | 14 | 2004-04-01 | 2014-02-23 |
 | Legea nr. 83/2004 | [`lege/2004/83/`](lege/2004/83/) | in force | 1 | 2004-04-10 | 2004-04-10 |
 | Legea nr. 84/2004 | [`lege/2004/84/`](lege/2004/84/) | in force | 1 | 2004-04-10 | 2004-04-10 |
+| Legea nr. 90/2004 | [`lege/2004/90/`](lege/2004/90/) | in force | 2 | 2004-12-31 | 2004-12-31 |
 | Legea nr. 105/2004 | [`lege/2004/105/`](lege/2004/105/) | in force | 1 | 2004-04-16 | 2004-04-16 |
 | Legea nr. 126/2004 privind aprobarea Ordonanței Guvernului nr. 24/2004 pentru modificarea și completarea Ordonanței Guvernului nr. 69/2002 privind regimul juridic al cărții electronice de identitate | [`lege/2004/126/`](lege/2004/126/) | amending act | 1 | 2004-04-25 | 2004-04-25 |
 | Legea nr. 138/2004 | [`lege/2004/138/`](lege/2004/138/) | in force | 24 | 2004-05-01 | 2025-04-18 |

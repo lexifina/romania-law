@@ -7703,6 +7703,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/51038"
 },
 {
+"slug": "legea-90-2004",
+"path": "lege/2004/90",
+"kind": "lege",
+"year": "2004",
+"number": "90",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 90/2004",
+"short": "Legea nr. 90/2004",
+"code": null,
+"status": "in force",
+"versions": 2,
+"from": "2004-12-31",
+"latest": "2004-12-31",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/102124"
+},
+{
 "slug": "legea-105-2004",
 "path": "lege/2004/105",
 "kind": "lege",
