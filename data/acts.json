@@ -1022,6 +1022,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/3861"
 },
 {
+"slug": "legea-15-1994",
+"path": "lege/1994/15",
+"kind": "lege",
+"year": "1994",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 15/1994",
+"short": "Legea nr. 15/1994",
+"code": null,
+"status": "in force",
+"versions": 5,
+"from": "1994-03-29",
+"latest": "2003-08-31",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/3915"
+},
+{
 "slug": "legea-33-1994",
 "path": "lege/1994/33",
 "kind": "lege",
@@ -2210,6 +2227,23 @@
 "from": "2000-01-07",
 "latest": "2019-08-02",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/20173"
+},
+{
+"slug": "legea-190-1999",
+"path": "lege/1999/190",
+"kind": "lege",
+"year": "1999",
+"number": "190",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 190/1999",
+"short": "Legea nr. 190/1999",
+"code": null,
+"status": "in force",
+"versions": 7,
+"from": "1999-12-14",
+"latest": "2016-03-03",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/20221"
 },
 {
 "slug": "legea-210-1999",
@@ -28373,6 +28407,23 @@
 "from": "2005-03-10",
 "latest": "2005-05-28",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/205316"
+},
+{
+"slug": "oug-19-2005",
+"path": "oug/2005/19",
+"kind": "oug",
+"year": "2005",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 19/2005 privind realizarea Ansamblului Arhitectural Catedrala Mantuirii Neamului",
+"short": "OUG nr. 19/2005",
+"code": null,
+"status": "in force",
+"versions": 3,
+"from": "2005-03-21",
+"latest": "2007-12-31",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/60149"
 },
 {
 "slug": "oug-22-2005",

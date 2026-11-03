@@ -13232,6 +13232,45 @@
    ]
   },
   {
+   "slug": "legea-15-1994",
+   "path": "lege/1994/15",
+   "short": "Legea nr. 15/1994",
+   "title": "Legea nr. 15/1994",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/3915",
+   "versions": [
+    {
+     "from": "1994-03-29",
+     "units": 34,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/3915",
+     "sha256": "fa248f3c64f157d5e1cf776572a546567085464eea46a1821b8ac62eb20fea20"
+    },
+    {
+     "from": "1999-05-31",
+     "units": 29,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/18324",
+     "sha256": "5e7eb28ae27de2914919a2eac76784bbff13a5434bb8894d40148d04e69d8771"
+    },
+    {
+     "from": "2000-01-25",
+     "units": 29,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18324",
+     "sha256": "e4dd1b89c50288dba3371a7626ff29ad7e3340211e25a84d8561ce6772867385"
+    },
+    {
+     "from": "2000-07-28",
+     "units": 29,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18324",
+     "sha256": "e4dd1b89c50288dba3371a7626ff29ad7e3340211e25a84d8561ce6772867385"
+    },
+    {
+     "from": "2003-08-31",
+     "units": 29,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18324",
+     "sha256": "e4dd1b89c50288dba3371a7626ff29ad7e3340211e25a84d8561ce6772867385"
+    }
+   ]
+  },
+  {
    "slug": "legea-151-2015",
    "path": "lege/2015/151",
    "short": "Legea nr. 151/2015",
@@ -14860,6 +14899,57 @@
      "units": 74,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/24928",
      "sha256": "487d0ded89fca88ca5ab2fcdd27bac6dc512a75b8a61cf25fc0b38d3dbecd112"
+    }
+   ]
+  },
+  {
+   "slug": "legea-190-1999",
+   "path": "lege/1999/190",
+   "short": "Legea nr. 190/1999",
+   "title": "Legea nr. 190/1999",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20221",
+   "versions": [
+    {
+     "from": "1999-12-14",
+     "units": 34,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/20221",
+     "sha256": "448072c9438159a8bb7a954dc50dbd3216715f41354c0b39afdff3ddf1466bed"
+    },
+    {
+     "from": "2002-12-27",
+     "units": 34,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/47686",
+     "sha256": "74f1b7bb6a8f9f9978c737d58bf885bac737c11be3403b507d143d0f4daddbb4"
+    },
+    {
+     "from": "2006-03-06",
+     "units": 31,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/69623",
+     "sha256": "c30b531c5e4fa36445f3c5d9783091d21b2450de32b5972471478d5f0df5416a"
+    },
+    {
+     "from": "2008-12-27",
+     "units": 32,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/100728",
+     "sha256": "478687ba4a9938adbacf3f7cb11d5d0ae3d6dd745832453eaf137dd20979fc25"
+    },
+    {
+     "from": "2010-06-21",
+     "units": 32,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119667",
+     "sha256": "a8755d493d11247ef4b757b2b58c640ad80e868eeb56502a99938d3543ed51b7"
+    },
+    {
+     "from": "2011-10-01",
+     "units": 38,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132343",
+     "sha256": "6b926759fbb1c53a643c5dd204a32b8688b0df71ee7ca1038d50beebe3122548"
+    },
+    {
+     "from": "2016-03-03",
+     "units": 38,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20221",
+     "sha256": "55ee65abb848bce7e368837d281d00619bceb3e59e1e2cf3ca13f37045eb0ed4"
     }
    ]
   },
@@ -39466,6 +39556,33 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/263291",
      "sha256": "d6267563ea776aed108bd501e049691ab23e11004232613f2b8b7524f7a3d472"
+    }
+   ]
+  },
+  {
+   "slug": "oug-19-2005",
+   "path": "oug/2005/19",
+   "short": "OUG nr. 19/2005",
+   "title": "Ordonanța de urgență a Guvernului nr. 19/2005 privind realizarea Ansamblului Arhitectural Catedrala Mantuirii Neamului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/60149",
+   "versions": [
+    {
+     "from": "2005-03-21",
+     "units": 4,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocumentAfis/60149",
+     "sha256": "dbc57fb95b0e9a97bcde223fa26e16a220a00775287baabd94f4a62c6cb490f5"
+    },
+    {
+     "from": "2005-10-13",
+     "units": 4,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/210248",
+     "sha256": "4c1414f13dc6ef8b3c293a45729505ebfa8ac0167a9bb4310cd5e6e864d82713"
+    },
+    {
+     "from": "2007-12-31",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/public/DetaliiDocument/60149",
+     "sha256": "36f793e4303533f76a7618c52cf0f5d690b901f35d59144107b764c8583450d0"
     }
    ]
   },

@@ -1,6 +1,6 @@
 # Every act in this repository
 
-5333 acts, 14,355 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+5336 acts, 14,370 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -32,7 +32,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (1521, of which 608 amending acts)
+## Laws (legi) (1523, of which 608 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -95,6 +95,7 @@
 | Legea nr. 82/1993 privind constituirea Rezervatiei Biosferei "Delta Dunării" | [`lege/1993/82/`](lege/1993/82/) | in force | 9 | 1994-01-06 | 2023-05-25 |
 | Legea nr. 84/1993 | [`lege/1993/84/`](lege/1993/84/) | in force | 1 | 1993-12-15 | 1993-12-15 |
 | Legea nr. 10/1994 | [`lege/1994/10/`](lege/1994/10/) | in force | 1 | 1994-03-11 | 1994-03-11 |
+| Legea nr. 15/1994 | [`lege/1994/15/`](lege/1994/15/) | in force | 5 | 1994-03-29 | 2003-08-31 |
 | Legea nr. 33/1994 privind exproprierea pentru cauză de utilitate publică | [`lege/1994/33/`](lege/1994/33/) | in force | 3 | 1994-06-02 | 2020-11-16 |
 | Legea nr. 41/1994 | [`lege/1994/41/`](lege/1994/41/) | in force | 10 | 1994-06-18 | 2022-07-03 |
 | Legea nr. 44/1994 | [`lege/1994/44/`](lege/1994/44/) | in force | 20 | 1994-07-07 | 2024-12-09 |
@@ -165,6 +166,7 @@
 | Legea nr. 138/1999 | [`lege/1999/138/`](lege/1999/138/) | in force | 5 | 1999-08-01 | 2010-01-01 |
 | Legea nr. 187/1999 | [`lege/1999/187/`](lege/1999/187/) | in force | 3 | 1999-12-09 | 2006-03-22 |
 | Legea nr. 188/1999 privind Statutul funcționarilor publici | [`lege/1999/188/`](lege/1999/188/) | in force | 46 | 2000-01-07 | 2019-08-02 |
+| Legea nr. 190/1999 | [`lege/1999/190/`](lege/1999/190/) | in force | 7 | 1999-12-14 | 2016-03-03 |
 | Legea nr. 210/1999 privind concediul paternal | [`lege/1999/210/`](lege/1999/210/) | in force | 3 | 2000-02-14 | 2022-08-29 |
 | Legea nr. 1/2000 | [`lege/2000/1/`](lege/2000/1/) | in force | 18 | 2000-01-12 | 2022-05-19 |
 | Legea nr. 3/2000 privind organizarea și desfășurarea referendumului | [`lege/2000/3/`](lege/2000/3/) | in force | 25 | 2000-03-25 | 2024-11-08 |
@@ -1558,7 +1560,7 @@
 | Legea nr. 241/2025 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 31/2002 privind interzicerea organizațiilor, simbolurilor și faptelor cu caracter fascist, legionar, rasist sau xenofob și a promovării cultului persoanelor vinovate de săvârșirea unor infracțiuni de genocid contra umanității și de crime de război, precum și pentru modificarea Legii nr. 157/2018 privind unele măsuri pentru prevenirea și combaterea antisemitismului | [`lege/2025/241/`](lege/2025/241/) | amending act | 1 | 2025-12-27 | 2025-12-27 |
 | Legea nr. 245/2025 pentru modificarea art. 32 alin. (7) din Legea nr. 273/2006 privind finanțele publice locale | [`lege/2025/245/`](lege/2025/245/) | amending act | 1 | 2026-01-01 | 2026-01-01 |
 
-## Emergency ordinances (OUG) (1195, of which 480 amending acts)
+## Emergency ordinances (OUG) (1196, of which 480 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -1709,6 +1711,7 @@
 | Ordonanța de urgență a Guvernului nr. 3/2005 | [`oug/2005/3/`](oug/2005/3/) | in force | 2 | 2005-02-04 | 2005-04-18 |
 | Ordonanța de urgență a Guvernului nr. 15/2005 | [`oug/2005/15/`](oug/2005/15/) | in force | 2 | 2005-03-10 | 2005-05-21 |
 | Ordonanța de urgență a Guvernului nr. 16/2005 | [`oug/2005/16/`](oug/2005/16/) | in force | 2 | 2005-03-10 | 2005-05-28 |
+| Ordonanța de urgență a Guvernului nr. 19/2005 privind realizarea Ansamblului Arhitectural Catedrala Mantuirii Neamului | [`oug/2005/19/`](oug/2005/19/) | in force | 3 | 2005-03-21 | 2007-12-31 |
 | Ordonanța de urgență a Guvernului nr. 22/2005 | [`oug/2005/22/`](oug/2005/22/) | in force | 2 | 2005-03-25 | 2005-07-01 |
 | Ordonanța de urgență a Guvernului nr. 23/2005 | [`oug/2005/23/`](oug/2005/23/) | in force | 2 | 2005-03-28 | 2005-06-17 |
 | Ordonanța de urgență a Guvernului nr. 26/2005 | [`oug/2005/26/`](oug/2005/26/) | in force | 2 | 2005-04-08 | 2005-07-23 |
