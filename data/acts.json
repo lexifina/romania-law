@@ -563,6 +563,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/11200"
 },
 {
+"slug": "legea-215-1997",
+"path": "lege/1997/215",
+"kind": "lege",
+"year": "1997",
+"number": "215",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 215/1997",
+"short": "Legea nr. 215/1997",
+"code": null,
+"status": "in force",
+"versions": 4,
+"from": "1997-12-22",
+"latest": "2024-04-13",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/280835"
+},
+{
 "slug": "legea-84-1998",
 "path": "lege/1998/84",
 "kind": "lege",
@@ -2943,6 +2960,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/262085"
 },
 {
+"slug": "legea-191-2011",
+"path": "lege/2011/191",
+"kind": "lege",
+"year": "2011",
+"number": "191",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 191/2011",
+"short": "Legea nr. 191/2011",
+"code": null,
+"status": "in force",
+"versions": 3,
+"from": "2011-11-06",
+"latest": "2024-08-24",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/287144"
+},
+{
 "slug": "legea-194-2011",
 "path": "lege/2011/194",
 "kind": "lege",
@@ -3128,6 +3162,40 @@
 "from": "2013-07-27",
 "latest": "2017-03-29",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/150073"
+},
+{
+"slug": "legea-252-2013",
+"path": "lege/2013/252",
+"kind": "lege",
+"year": "2013",
+"number": "252",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 252/2013 privind organizarea și funcționarea sistemului de probațiune",
+"short": "Legea nr. 252/2013",
+"code": null,
+"status": "in force",
+"versions": 4,
+"from": "2013-09-23",
+"latest": "2018-03-16",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/150667"
+},
+{
+"slug": "legea-253-2013",
+"path": "lege/2013/253",
+"kind": "lege",
+"year": "2013",
+"number": "253",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 253/2013 privind executarea pedepselor, a măsurilor educative și a altor măsuri neprivative de libertate dispuse de organele judiciare în cursul procesului penal",
+"short": "Legea nr. 253/2013",
+"code": null,
+"status": "in force",
+"versions": 4,
+"from": "2014-02-01",
+"latest": "2021-05-21",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/150678"
 },
 {
 "slug": "legea-254-2013",
@@ -3555,6 +3623,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/172506"
 },
 {
+"slug": "legea-269-2015",
+"path": "lege/2015/269",
+"kind": "lege",
+"year": "2015",
+"number": "269",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 269/2015 privind aprobarea Ordonanței de urgență a Guvernului nr. 4/2015 pentru modificarea Ordonanței de urgență a Guvernului nr. 82/2011 privind unele măsuri de organizare a activității de îmbunătățiri funciare",
+"short": "Legea nr. 269/2015",
+"code": null,
+"status": "amending act",
+"versions": 5,
+"from": "2015-11-15",
+"latest": "2022-05-19",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/255131"
+},
+{
 "slug": "legea-312-2015",
 "path": "lege/2015/312",
 "kind": "lege",
@@ -3757,6 +3842,23 @@
 "from": "2016-07-28",
 "latest": "2024-10-08",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/180378"
+},
+{
+"slug": "legea-163-2016",
+"path": "lege/2016/163",
+"kind": "lege",
+"year": "2016",
+"number": "163",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 163/2016",
+"short": "Legea nr. 163/2016",
+"code": null,
+"status": "in force",
+"versions": 2,
+"from": "2016-08-24",
+"latest": "2018-02-23",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/268508"
 },
 {
 "slug": "legea-170-2016",
@@ -6749,6 +6851,23 @@
 "from": "2022-07-10",
 "latest": "2023-09-12",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/257364"
+},
+{
+"slug": "legea-207-2022",
+"path": "lege/2022/207",
+"kind": "lege",
+"year": "2022",
+"number": "207",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 207/2022 pentru reglementarea unor măsuri privind cadrul general aplicabil constituirii și funcționării băncilor de dezvoltare din România",
+"short": "Legea nr. 207/2022",
+"code": null,
+"status": "in force",
+"versions": 4,
+"from": "2022-07-15",
+"latest": "2023-05-26",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/257459"
 },
 {
 "slug": "legea-208-2022",
@@ -11936,6 +12055,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/22975"
 },
 {
+"slug": "oug-199-2000",
+"path": "oug/2000/199",
+"kind": "oug",
+"year": "2000",
+"number": "199",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 199/2000",
+"short": "OUG nr. 199/2000",
+"code": null,
+"status": "in force",
+"versions": 13,
+"from": "2000-11-20",
+"latest": "2024-07-29",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/25068"
+},
+{
 "slug": "oug-9-2001",
 "path": "oug/2001/9",
 "kind": "oug",
@@ -12155,6 +12291,23 @@
 "from": "2006-01-01",
 "latest": "2025-12-31",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/66305"
+},
+{
+"slug": "oug-179-2005",
+"path": "oug/2005/179",
+"kind": "oug",
+"year": "2005",
+"number": "179",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 179/2005",
+"short": "OUG nr. 179/2005",
+"code": null,
+"status": "in force",
+"versions": 3,
+"from": "2005-12-16",
+"latest": "2006-05-27",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/240639"
 },
 {
 "slug": "oug-19-2006",
@@ -12378,6 +12531,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/303228"
 },
 {
+"slug": "oug-202-2008",
+"path": "oug/2008/202",
+"kind": "oug",
+"year": "2008",
+"number": "202",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 202/2008 privind punerea în aplicare a sancțiunilor internaționale",
+"short": "OUG nr. 202/2008",
+"code": null,
+"status": "in force",
+"versions": 10,
+"from": "2008-12-08",
+"latest": "2025-12-05",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/100041"
+},
+{
 "slug": "oug-18-2009",
 "path": "oug/2009/18",
 "kind": "oug",
@@ -12582,6 +12752,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/129701"
 },
 {
+"slug": "oug-84-2011",
+"path": "oug/2011/84",
+"kind": "oug",
+"year": "2011",
+"number": "84",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 84/2011",
+"short": "OUG nr. 84/2011",
+"code": null,
+"status": "in force",
+"versions": 3,
+"from": "2011-10-04",
+"latest": "2024-06-23",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/283703"
+},
+{
 "slug": "oug-109-2011",
 "path": "oug/2011/109",
 "kind": "oug",
@@ -12631,6 +12818,23 @@
 "from": "2012-01-01",
 "latest": "2024-04-21",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/134044"
+},
+{
+"slug": "oug-115-2011",
+"path": "oug/2011/115",
+"kind": "oug",
+"year": "2011",
+"number": "115",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 115/2011",
+"short": "OUG nr. 115/2011",
+"code": null,
+"status": "in force",
+"versions": 25,
+"from": "2011-12-28",
+"latest": "2025-10-28",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/134109"
 },
 {
 "slug": "oug-26-2012",
@@ -12716,6 +12920,40 @@
 "from": "2012-12-21",
 "latest": "2021-05-24",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/144011"
+},
+{
+"slug": "oug-20-2013",
+"path": "oug/2013/20",
+"kind": "oug",
+"year": "2013",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 20/2013",
+"short": "OUG nr. 20/2013",
+"code": null,
+"status": "in force",
+"versions": 8,
+"from": "2013-04-03",
+"latest": "2025-12-18",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/146617"
+},
+{
+"slug": "oug-24-2013",
+"path": "oug/2013/24",
+"kind": "oug",
+"year": "2013",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 24/2013",
+"short": "OUG nr. 24/2013",
+"code": null,
+"status": "in force",
+"versions": 4,
+"from": "2013-04-12",
+"latest": "2016-02-12",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/248025"
 },
 {
 "slug": "oug-28-2013",
@@ -12937,6 +13175,23 @@
 "from": "2015-10-06",
 "latest": "2024-03-29",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/171816"
+},
+{
+"slug": "oug-49-2015",
+"path": "oug/2015/49",
+"kind": "oug",
+"year": "2015",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 49/2015",
+"short": "OUG nr. 49/2015",
+"code": null,
+"status": "in force",
+"versions": 9,
+"from": "2015-11-03",
+"latest": "2024-12-19",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/301700"
 },
 {
 "slug": "oug-50-2015",
@@ -20300,6 +20555,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/15571"
 },
 {
+"slug": "og-62-1999",
+"path": "og/1999/62",
+"kind": "og",
+"year": "1999",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța Guvernului nr. 62/1999",
+"short": "OG nr. 62/1999",
+"code": null,
+"status": "in force",
+"versions": 7,
+"from": "1999-10-01",
+"latest": "2023-02-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/264161"
+},
+{
 "slug": "og-105-1999",
 "path": "og/1999/105",
 "kind": "og",
@@ -20570,6 +20842,23 @@
 "from": "2004-02-03",
 "latest": "2026-01-01",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/49511"
+},
+{
+"slug": "og-40-2006",
+"path": "og/2006/40",
+"kind": "og",
+"year": "2006",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța Guvernului nr. 40/2006",
+"short": "OG nr. 40/2006",
+"code": null,
+"status": "in force",
+"versions": 8,
+"from": "2006-08-20",
+"latest": "2021-09-03",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/268510"
 },
 {
 "slug": "og-14-2007",
