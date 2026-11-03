@@ -1,6 +1,6 @@
 # Every act in this repository
 
-12586 acts, 26,168 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+12618 acts, 26,200 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (2405, of which 1097 amending acts)
+## Laws (legi) (2406, of which 1098 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -763,6 +763,7 @@
 | Legea nr. 30/2008 pentru ratificarea Acordului privind transportul aerian dintre Comunitatea Europeană şi statele sale membre, pe de o parte, şi Statele Unite ale Americii, pe de altă parte, semnat la Bruxelles la 25 aprilie 2007 şi la Washington la 30 aprilie 2007 | [`lege/2008/30/`](lege/2008/30/) | in force | 1 | 2008-03-14 | 2008-03-14 |
 | Legea nr. 35/2008 | [`lege/2008/35/`](lege/2008/35/) | in force | 12 | 2008-03-16 | 2014-03-24 |
 | Legea nr. 46/2008 - Codul silvic | [`lege/2008/46/`](lege/2008/46/) | in force | 22 | 2008-12-08 | 2024-04-13 |
+| Legea nr. 54/2008 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 120/2007 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 67/2006 privind gestionarea fondurilor nerambursabile destinate finanţării politicii agricole comune alocate de la Comunitatea Europeană, precum şi a fondurilor de cofinanţare şi prefinanţare alocate de la bugetul de stat | [`lege/2008/54/`](lege/2008/54/) | amending act | 1 | 2008-03-28 | 2008-03-28 |
 | Legea nr. 64/2008 | [`lege/2008/64/`](lege/2008/64/) | in force | 12 | 2008-06-25 | 2023-12-23 |
 | Legea nr. 76/2008 | [`lege/2008/76/`](lege/2008/76/) | in force | 5 | 2008-10-14 | 2024-03-29 |
 | Legea nr. 84/2008 | [`lege/2008/84/`](lege/2008/84/) | in force | 1 | 2008-04-18 | 2008-04-18 |
@@ -4570,7 +4571,7 @@
 | Ordonanța Guvernului nr. 21/2025 pentru modificarea și completarea Legii nr. 431/2023 privind asigurarea unui nivel minim global de impozitare a grupurilor de întreprinderi multinaționale și a grupurilor naționale de mari dimensiuni | [`og/2025/21/`](og/2025/21/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 | Ordonanța Guvernului nr. 22/2025 pentru modificarea și completarea Legii nr. 227/2015 privind Codul fiscal | [`og/2025/22/`](og/2025/22/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 
-## Government decisions (HG) (8025, of which 3440 amending acts)
+## Government decisions (HG) (8056, of which 3449 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -5532,18 +5533,49 @@
 | Hotărârea Guvernului nr. 290/2008 privind aprobarea Licenţei de concesiune a activităţii miniere de exploatare a argilei comune nr. 2.530/2001, încheiată între Agenţia Naţională pentru Resurse Minerale şi Societatea Comercială "SOMACO" - S.A | [`hg/2008/290/`](hg/2008/290/) | amending act | 1 | 2008-03-17 | 2008-03-17 |
 | Hotărârea Guvernului nr. 291/2008 privind aprobarea acordurilor de concesiune de explorare, dezvoltare şi exploatare petrolieră în perimetrele E VII-1 Maramureş, E VII-4 Giurgiu şi E VII-5 Roşiori, încheiate între Agenţia Naţională pentru Resurse Minerale şi Societatea Comercială "Petrom" - S.A | [`hg/2008/291/`](hg/2008/291/) | amending act | 1 | 2008-03-17 | 2008-03-17 |
 | Hotărârea Guvernului nr. 293/2008 | [`hg/2008/293/`](hg/2008/293/) | in force | 1 | 2008-03-26 | 2008-03-26 |
+| Hotărârea Guvernului nr. 296/2008 privind analiza cantitativă a amestecurilor ternare de fibre textile | [`hg/2008/296/`](hg/2008/296/) | in force | 1 | 2008-04-01 | 2008-04-01 |
 | Hotărârea Guvernului nr. 297/2008 privind stabilirea unor măsuri pentru desfăşurarea, în bune condiţii, a Summitului NATO organizat la Bucureşti în perioada 2-4 aprilie 2008 | [`hg/2008/297/`](hg/2008/297/) | in force | 1 | 2008-03-20 | 2008-03-20 |
 | Hotărârea Guvernului nr. 298/2008 privind numirea doamnei Marcu Mihaela în funcţia publică de prefect al judeţului Brăila | [`hg/2008/298/`](hg/2008/298/) | in force | 1 | 2008-03-24 | 2008-03-24 |
 | Hotărârea Guvernului nr. 299/2008 privind numirea domnului Bâzoi Sevastian în funcţia publică de prefect al judeţului Mehedinţi | [`hg/2008/299/`](hg/2008/299/) | in force | 1 | 2008-03-24 | 2008-03-24 |
 | Hotărârea Guvernului nr. 301/2008 privind constatarea încetării de drept a raportului de serviciu al domnului Riedl Rudolf, subprefect al judeţului Satu Mare | [`hg/2008/301/`](hg/2008/301/) | in force | 1 | 2008-03-24 | 2008-03-24 |
 | Hotărârea Guvernului nr. 302/2008 privind exercitarea, cu caracter temporar, a funcţiei publice de subprefect al judeţului Satu Mare de către domnul Pataki Csaba | [`hg/2008/302/`](hg/2008/302/) | in force | 1 | 2008-03-24 | 2008-03-24 |
+| Hotărârea Guvernului nr. 306/2008 pentru aprobarea plăţii contribuţiei României la Organizaţia pentru Cooperare şi Dezvoltare Economică, Comitetul pentru Turism şi Grupul de lucru pentru întreprinderi mici şi mijlocii şi antreprenoriat din cadrul Comitetului pentru Industrie, Inovaţie şi Antreprenoriat | [`hg/2008/306/`](hg/2008/306/) | amending act | 1 | 2008-03-26 | 2008-03-26 |
+| Hotărârea Guvernului nr. 307/2008 privind modificarea art. 2 alin. (1) lit. b) şi c) din Hotărârea Guvernului nr. 230/2006 pentru aprobarea plăţii contribuţiei României la programul Life Mediu, conform contractului LIFE05 ENV/RO/000106 "Dezvoltarea unui sistem de supraveghere şi avertizare a impactului poluării aerului asupra mediului urban - AIR AWARE" | [`hg/2008/307/`](hg/2008/307/) | amending act | 1 | 2008-03-25 | 2008-03-25 |
 | Hotărârea Guvernului nr. 309/2008 pentru aprobarea fuziunii prin absorbţie a Societăţii Comerciale "Turism şi Agrement C.F.R." - S.A. de către Compania Naţională de Căi Ferate "C.F.R." - S.A | [`hg/2008/309/`](hg/2008/309/) | amending act | 1 | 2008-03-21 | 2008-03-21 |
+| Hotărârea Guvernului nr. 310/2008 privind aprobarea prealabilă, în vederea recunoaşterii prin hotărâre judecătorească, a Asociaţiei "International Road Safety Academy Association" din Olanda | [`hg/2008/310/`](hg/2008/310/) | amending act | 1 | 2008-03-26 | 2008-03-26 |
 | Hotărârea Guvernului nr. 311/2008 privind schimbarea titularului dreptului de proprietate şi de administrare asupra unor părţi dintr-un imobil aflat în domeniul public al statului şi în administrarea Ministerului Apărării | [`hg/2008/311/`](hg/2008/311/) | in force | 1 | 2008-03-25 | 2008-03-25 |
+| Hotărârea Guvernului nr. 312/2008 privind transmiterea unor părţi din imobile aflate în domeniul public al statului din administrarea Ministerului Apărării în administrarea Ministerului Transporturilor, în vederea realizării de către Compania Naţională de Autostrăzi şi Drumuri Naţionale din România - S.A. a activităţilor de interes public naţional în domeniul administrării drumurilor naţionale | [`hg/2008/312/`](hg/2008/312/) | in force | 1 | 2008-03-25 | 2008-03-25 |
 | Hotărârea Guvernului nr. 313/2008 privind transmiterea unui imobil din domeniul public al statului şi din administrarea Ministerului Apărării în domeniul public al judeţului Hunedoara şi în administrarea Consiliului Judeţean Hunedoara | [`hg/2008/313/`](hg/2008/313/) | in force | 1 | 2008-03-25 | 2008-03-25 |
 | Hotărârea Guvernului nr. 314/2008 pentru modificarea art. 3 alin. (1) din Hotărârea Guvernului nr. 706/1994 privind trecerea palatelor administrative din municipiile reşedinţe de judeţe în administrarea prefecturilor | [`hg/2008/314/`](hg/2008/314/) | amending act | 1 | 2008-03-25 | 2008-03-25 |
+| Hotărârea Guvernului nr. 315/2008 privind schimbarea titularului dreptului de administrare asupra unei suprafeţe de teren situate în comuna Folteşti, judeţul Galaţi | [`hg/2008/315/`](hg/2008/315/) | in force | 1 | 2008-03-27 | 2008-03-27 |
+| Hotărârea Guvernului nr. 317/2008 privind transmiterea unor bunuri imobile din proprietatea publică a statului în proprietatea publică a municipiului Piteşti şi în administrarea Consiliului Local al Municipiului Piteşti, judeţul Argeş | [`hg/2008/317/`](hg/2008/317/) | in force | 1 | 2008-03-27 | 2008-03-27 |
+| Hotărârea Guvernului nr. 318/2008 privind transmiterea unor imobile din proprietatea publică a statului şi din administrarea Ministerului Internelor şi Reformei Administrative în proprietatea publică a municipiului Călăraşi şi în administrarea Consiliului Local al Municipiului Călăraşi, judeţul Călăraşi | [`hg/2008/318/`](hg/2008/318/) | in force | 1 | 2008-03-27 | 2008-03-27 |
 | Hotărârea Guvernului nr. 320/2008 pentru modificarea şi completarea Hotărârii Guvernului nr. 272/2008 privind stabilirea modelelor proceselor-verbale pentru consemnarea rezultatelor votării la alegerile locale din anul 2008 | [`hg/2008/320/`](hg/2008/320/) | amending act | 1 | 2008-03-21 | 2008-03-21 |
 | Hotărârea Guvernului nr. 324/2008 | [`hg/2008/324/`](hg/2008/324/) | in force | 1 | 2008-04-01 | 2008-04-01 |
+| Hotărârea Guvernului nr. 325/2008 privind transmiterea unui imobil din domeniul public al statului şi din administrarea Ministerului Apărării în domeniul public al municipiului Brăila şi în administrarea Consiliului Local al Municipiului Brăila | [`hg/2008/325/`](hg/2008/325/) | in force | 1 | 2008-03-27 | 2008-03-27 |
+| Hotărârea Guvernului nr. 326/2008 privind transmiterea unui imobil, aflat în domeniul public al statului, din administrarea Ministerului Apărării în administrarea Ministerului Internelor şi Reformei Administrative, pentru Instituţia Prefectului Judeţului Alba | [`hg/2008/326/`](hg/2008/326/) | in force | 1 | 2008-03-27 | 2008-03-27 |
+| Hotărârea Guvernului nr. 327/2008 privind încetarea raportului de serviciu al domnului Ilie Gavril Bolojan ca urmare a demisiei din funcţia publică de secretar general al Guvernului | [`hg/2008/327/`](hg/2008/327/) | in force | 1 | 2008-03-31 | 2008-03-31 |
+| Hotărârea Guvernului nr. 328/2008 privind trecerea domnului Berca Gabriel din funcţia publică de prefect al judeţului Bacău în funcţia publică de secretar general al Guvernului | [`hg/2008/328/`](hg/2008/328/) | in force | 1 | 2008-03-31 | 2008-03-31 |
+| Hotărârea Guvernului nr. 329/2008 privind exercitarea, cu caracter temporar, a funcţiei publice de prefect al judeţului Gorj de către domnul Banţa Victor | [`hg/2008/329/`](hg/2008/329/) | in force | 1 | 2008-03-31 | 2008-03-31 |
+| Hotărârea Guvernului nr. 330/2008 privind exercitarea, cu caracter temporar, a funcţiei publice de subprefect al judeţului Ialomiţa de către domnul Mocănescu Georgian | [`hg/2008/330/`](hg/2008/330/) | in force | 1 | 2008-03-27 | 2008-03-27 |
+| Hotărârea Guvernului nr. 331/2008 privind încetarea raportului de serviciu al prefectului judeţului Alba, domnul Covaciu Cosmin Adrian, prin acordul părţilor | [`hg/2008/331/`](hg/2008/331/) | in force | 1 | 2008-03-31 | 2008-03-31 |
+| Hotărârea Guvernului nr. 334/2008 privind acordarea unor ajutoare financiare | [`hg/2008/334/`](hg/2008/334/) | in force | 1 | 2008-04-03 | 2008-04-03 |
+| Hotărârea Guvernului nr. 335/2008 privind suplimentarea bugetului Ministerului Agriculturii şi Dezvoltării Rurale pe anul 2008 din Fondul de intervenţie la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2008 | [`hg/2008/335/`](hg/2008/335/) | in force | 1 | 2008-03-28 | 2008-03-28 |
+| Hotărârea Guvernului nr. 336/2008 pentru aprobarea organizării expoziţiei "agRO - România. Tradiţii şi recunoaştere" la Bruxelles, în perioada 31 martie-2 aprilie 2008 | [`hg/2008/336/`](hg/2008/336/) | amending act | 1 | 2008-03-28 | 2008-03-28 |
+| Hotărârea Guvernului nr. 337/2008 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2008, pentru judeţul Călăraşi | [`hg/2008/337/`](hg/2008/337/) | in force | 1 | 2008-03-31 | 2008-03-31 |
+| Hotărârea Guvernului nr. 339/2008 pentru aprobarea Normelor de administrare a locuinţelor construite de Agenţia Naţională pentru Locuinţe de care pot beneficia medicii rezidenţi şi alţi tineri specialişti din sistemul de sănătate | [`hg/2008/339/`](hg/2008/339/) | amending act | 1 | 2008-04-02 | 2008-04-02 |
+| Hotărârea Guvernului nr. 340/2008 privind transmiterea unui teren din domeniul privat al statului şi din administrarea Agenţiei Domeniilor Statului în domeniul public al municipiului Râmnicu Vâlcea şi în administrarea Consiliului Local al Municipiului Râmnicu Vâlcea, judeţul Vâlcea | [`hg/2008/340/`](hg/2008/340/) | in force | 1 | 2008-04-02 | 2008-04-02 |
+| Hotărârea Guvernului nr. 341/2008 privind repartizarea pe proiecte a sumelor defalcate din taxa pe valoarea adăugată pentru finanţarea Programului de dezvoltare a infrastructurii şi a unor baze sportive din spaţiul rural | [`hg/2008/341/`](hg/2008/341/) | in force | 1 | 2008-03-28 | 2008-03-28 |
+| Hotărârea Guvernului nr. 343/2008 pentru aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii "Modernizare DN 67B, Scoarţa-Piteşti, km 0+000 - km 188+200" | [`hg/2008/343/`](hg/2008/343/) | amending act | 1 | 2008-04-02 | 2008-04-02 |
+| Hotărârea Guvernului nr. 345/2008 pentru modificarea şi completarea Hotărârii Guvernului nr. 22/2004 privind trimiterea în misiune permanentă în străinătate a personalului din Ministerul Apărării Naţionale | [`hg/2008/345/`](hg/2008/345/) | amending act | 1 | 2008-04-02 | 2008-04-02 |
+| Hotărârea Guvernului nr. 348/2008 pentru aprobarea Protocolului de cooperare dintre Ministerul Muncii, Familiei şi Egalităţii de Şanse din România şi Ministerul Afacerilor Sociale şi Muncii din Republica Ungară, semnat la Sibiu la 14 noiembrie 2007 | [`hg/2008/348/`](hg/2008/348/) | amending act | 1 | 2008-04-01 | 2008-04-01 |
+| Hotărârea Guvernului nr. 350/2008 privind transmiterea unui imobil, aflat în domeniul public al statului, din administrarea Ministerului Apărării în administrarea Ministerului Justiţiei, pentru Administraţia Naţională a Penitenciarelor - Penitenciarul cu Regim de Maximă Siguranţă Aiud | [`hg/2008/350/`](hg/2008/350/) | in force | 1 | 2008-03-31 | 2008-03-31 |
+| Hotărârea Guvernului nr. 351/2008 pentru aprobarea Acordului dintre Guvernul României şi Cabinetul de Miniştri al Ucrainei cu privire la cooperarea economică, industrială şi tehnico-ştiinţifică, semnat la Bucureşti la 30 octombrie 2007 | [`hg/2008/351/`](hg/2008/351/) | amending act | 1 | 2008-04-02 | 2008-04-02 |
 | Hotărârea Guvernului nr. 357/2008 | [`hg/2008/357/`](hg/2008/357/) | in force | 3 | 2008-04-01 | 2008-08-13 |
+| Hotărârea Guvernului nr. 366/2008 privind exercitarea, cu caracter temporar, a funcţiei publice de subprefect al judeţului Gorj de către domnul Arjoca Sorin-Gabriel | [`hg/2008/366/`](hg/2008/366/) | in force | 1 | 2008-04-01 | 2008-04-01 |
+| Hotărârea Guvernului nr. 367/2008 privind încetarea raportului de serviciu al subprefectului judeţului Hunedoara, domnul Vladu Cristian-Marius, prin acordul părţilor | [`hg/2008/367/`](hg/2008/367/) | in force | 1 | 2008-04-01 | 2008-04-01 |
+| Hotărârea Guvernului nr. 368/2008 privind exercitarea, cu caracter temporar, a funcţiei publice de prefect al judeţului Bacău de către domnul Şerban Claudiu Octavian | [`hg/2008/368/`](hg/2008/368/) | in force | 1 | 2008-04-01 | 2008-04-01 |
+| Hotărârea Guvernului nr. 369/2008 privind exercitarea, cu caracter temporar, a funcţiei publice de prefect al judeţului Alba de către domnul Simedru Dan-Coriolan | [`hg/2008/369/`](hg/2008/369/) | in force | 1 | 2008-04-01 | 2008-04-01 |
 | Hotărârea Guvernului nr. 430/2008 | [`hg/2008/430/`](hg/2008/430/) | in force | 1 | 2008-05-01 | 2008-05-01 |
 | Hotărârea Guvernului nr. 507/2008 | [`hg/2008/507/`](hg/2008/507/) | in force | 1 | 2008-05-21 | 2008-05-21 |
 | Hotărârea Guvernului nr. 546/2008 | [`hg/2008/546/`](hg/2008/546/) | in force | 3 | 2008-06-01 | 2011-04-26 |

@@ -52,20 +52,27 @@ def _roman_units(blocks: list, pad: int) -> dict:
     the quoted annexes "Anexa nr. 2 la Hotărârea ..."), not an article or heading of the act's own."""
     units: dict = {}
     cur = None
+    last_own = 0  # the act's own series: I, II, III ... in order
+    prev_end = ''  # the last line of the block before ("... va avea următorul cuprins:" introduces a quotation)
     for b in blocks[1:]:
         lines = [norm(x) for x in b.split('\n') if norm(x)]
         if not lines:
             continue
         m = ART.match(lines[0])
-        if m and _is_roman(m.group(1)):
-            num, sup, rest = m.group(1).upper(), m.group(2), m.group(3)
-            key = f'art-{roman_value(num):0{pad}d}' + (f'-{int(sup)}' if sup else '')
-            label = f'Articolul {num}' + (f'^{sup}' if sup else '')
-            if key in units:
-                cur = None  # a later print of the same number is a quotation: skipped, as for Arabic articles
-                continue
-            cur = key
-            units[key] = {'label': label, 'lines': []}
+        own = False
+        if m and _is_roman(m.group(1)) and not m.group(2):
+            v = roman_value(m.group(1).upper())
+            # an own article is the next number of the act's series, unless the block before introduces a quotation
+            # ("... va avea următorul cuprins:"; a plain "după cum urmează:" opens the act's own list, legea-71-2024);
+            # any other Roman heading is an article the act quotes from another act (legea-17-2022 quotes
+            # "Articolul VI"), kept in the text of the article quoting it, as for Arabic quoted articles
+            own = v == last_own + 1 and not re.search(r'cuprins\s*:$', prev_end)
+        prev_end = lines[-1]
+        if own:
+            num, rest = m.group(1).upper(), m.group(3)
+            last_own = roman_value(num)
+            cur = f'art-{last_own:0{pad}d}'
+            units[cur] = {'label': f'Articolul {num}', 'lines': []}
             lines = ([rest] if rest else []) + lines[1:]
         elif cur is None:
             continue  # before the first article (headings), after a repeated number, or after the signatures
