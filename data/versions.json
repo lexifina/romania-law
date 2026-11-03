@@ -21416,6 +21416,33 @@
    ]
   },
   {
+   "slug": "hg-621-2005",
+   "path": "hg/2005/621",
+   "short": "HG nr. 621/2005",
+   "title": "Hotărârea Guvernului nr. 621/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/63348",
+   "versions": [
+    {
+     "from": "2005-07-20",
+     "units": 32,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/63348",
+     "sha256": "5433206315385c51d439f6195147abbb7363c7e9f2a59ac6d2569c21eccd8fa9"
+    },
+    {
+     "from": "2007-01-10",
+     "units": 32,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/89738",
+     "sha256": "b168ca0876ef34354dbe39402e1b1cd6c0f2fb2b66e38685d4393c646d4d1b3c"
+    },
+    {
+     "from": "2011-04-14",
+     "units": 31,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/63348",
+     "sha256": "f16a189d2f28cd94baf9ba85ed89ea20832118ec0d3402bfd183892a5a3694e8"
+    }
+   ]
+  },
+  {
    "slug": "hg-622-2004",
    "path": "hg/2004/622",
    "short": "HG nr. 622/2004",

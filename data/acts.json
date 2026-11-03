@@ -81857,6 +81857,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/62729"
 },
 {
+"slug": "hg-621-2005",
+"path": "hg/2005/621",
+"kind": "hg",
+"year": "2005",
+"number": "621",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 621/2005",
+"short": "HG nr. 621/2005",
+"code": null,
+"status": "in force",
+"versions": 3,
+"from": "2005-07-20",
+"latest": "2011-04-14",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/63348"
+},
+{
 "slug": "hg-719-2005",
 "path": "hg/2005/719",
 "kind": "hg",

@@ -28410,3 +28410,8 @@ day,kind,law,acts,files,branch
 2022-01-27,start,hg-127-2022,hg-127-2022,1,main
 2023-09-01,start,hg-781-2023,hg-781-2023,2,main
 2023-12-01,law,hg-781-2023,hg-781-2023,1,main
+2005-07-20,start,hg-621-2005,hg-621-2005,32,main
+2007-01-10,law,hg-1872-2006,hg-621-2005,9,main
+2007-01-10,unexplained,,hg-621-2005,21,main
+2011-04-14,law,hg-247-2011,hg-621-2005,10,main
+2011-04-14,unexplained,,hg-621-2005,1,main

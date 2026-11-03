@@ -1,6 +1,6 @@
 # Every act in this repository
 
-10113 acts, 23,632 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+10114 acts, 23,635 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -4317,7 +4317,7 @@
 | Ordonanța Guvernului nr. 21/2025 pentru modificarea și completarea Legii nr. 431/2023 privind asigurarea unui nivel minim global de impozitare a grupurilor de întreprinderi multinaționale și a grupurilor naționale de mari dimensiuni | [`og/2025/21/`](og/2025/21/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 | Ordonanța Guvernului nr. 22/2025 pentru modificarea și completarea Legii nr. 227/2015 privind Codul fiscal | [`og/2025/22/`](og/2025/22/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 
-## Government decisions (HG) (5804, of which 2376 amending acts)
+## Government decisions (HG) (5805, of which 2376 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -4865,6 +4865,7 @@
 | Hotărârea Guvernului nr. 560/2005 | [`hg/2005/560/`](hg/2005/560/) | in force | 1 | 2005-06-21 | 2005-06-21 |
 | Hotărârea Guvernului nr. 567/2005 | [`hg/2005/567/`](hg/2005/567/) | in force | 2 | 2005-06-24 | 2009-01-06 |
 | Hotărârea Guvernului nr. 584/2005 | [`hg/2005/584/`](hg/2005/584/) | in force | 2 | 2005-06-29 | 2014-01-11 |
+| Hotărârea Guvernului nr. 621/2005 | [`hg/2005/621/`](hg/2005/621/) | in force | 3 | 2005-07-20 | 2011-04-14 |
 | Hotărârea Guvernului nr. 719/2005 privind paza sediilor instanţelor judecătoreşti, parchetelor şi Consiliului Superior al Magistraturii, a bunurilor şi valorilor aparţinând acestora, supravegherea accesului şi menţinerea ordinii interioare necesare desfăşurării normale a activităţii în aceste sedii, precum şi protecţia magistraţilor | [`hg/2005/719/`](hg/2005/719/) | in force | 2 | 2005-07-21 | 2025-12-09 |
 | Hotărârea Guvernului nr. 750/2005 | [`hg/2005/750/`](hg/2005/750/) | in force | 9 | 2005-07-28 | 2017-10-23 |
 | Hotărârea Guvernului nr. 769/2005 | [`hg/2005/769/`](hg/2005/769/) | in force | 1 | 2005-07-27 | 2005-07-27 |
