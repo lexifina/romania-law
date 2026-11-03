@@ -100553,21 +100553,6 @@
    ]
   },
   {
-   "slug": "hg-1017-2020",
-   "path": "hg/2020/1017",
-   "short": "HG nr. 1017/2020",
-   "title": "Hotărârea Guvernului nr. 1017/2020 pentru modificarea și completarea Hotărârii Guvernului nr. 1.198/2012 privind desemnarea infrastructurilor critice naționale",
-   "url": "https://legislatie.just.ro/Public/DetaliiDocument/234344",
-   "versions": [
-    {
-     "from": "2020-12-08",
-     "units": 2,
-     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/234344",
-     "sha256": "07e6c8eb9f64acfbc1a38ea66c69ea18ba3b83ffbd50f0cd5a21a9da9bcf0cf7"
-    }
-   ]
-  },
-  {
    "slug": "hg-1017-2022",
    "path": "hg/2022/1017",
    "short": "HG nr. 1017/2022",
@@ -102613,6 +102598,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/287791",
      "sha256": "9541572b0587ec6a7b9faba2d45cb8c00e79ff7981e348d59d10860c57e944f0"
+    }
+   ]
+  },
+  {
+   "slug": "hg-105-2009",
+   "path": "hg/2009/105",
+   "short": "HG nr. 105/2009",
+   "title": "Hotărârea Guvernului nr. 105/2009 privind abrogarea Hotărârii Guvernului nr. 831/1997 pentru aprobarea modelelor formularelor comune privind activitatea financiară şi contabilă şi a normelor metodologice privind întocmirea şi utilizarea acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/102575",
+   "versions": [
+    {
+     "from": "2009-02-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/102575",
+     "sha256": "c329c1d139220745fb195bce27aa185395528fc2877cbb3edc0ba0122c72f3e0"
     }
    ]
   },
@@ -121199,6 +121199,21 @@
    ]
   },
   {
+   "slug": "hg-140-2009",
+   "path": "hg/2009/140",
+   "short": "HG nr. 140/2009",
+   "title": "Hotărârea Guvernului nr. 140/2009 privind exercitarea, cu caracter temporar, a funcţiei publice de subprefect al judeţului Vâlcea de către domnul Ungureanu Petre",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/102784",
+   "versions": [
+    {
+     "from": "2009-02-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/102784",
+     "sha256": "710b3a9591bf1c4d76985876fe9870ffb8b383e3b36a27cd7cbb68f15c0407d6"
+    }
+   ]
+  },
+  {
    "slug": "hg-140-2018",
    "path": "hg/2018/140",
    "short": "HG nr. 140/2018",
@@ -121486,6 +121501,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/261766",
      "sha256": "79a4cb8ac262752f0243ec04e852dbd663afcda538e8094552454e2e33aa74df"
+    }
+   ]
+  },
+  {
+   "slug": "hg-141-2009",
+   "path": "hg/2009/141",
+   "short": "HG nr. 141/2009",
+   "title": "Hotărârea Guvernului nr. 141/2009 privind aplicarea mobilităţii pentru domnul Merchea Manole din funcţia publică de subprefect al judeţului Vrancea în funcţia publică de inspector guvernamental",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/102785",
+   "versions": [
+    {
+     "from": "2009-02-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/102785",
+     "sha256": "139a26b1b716179af405526686ed96422bb7d079c9919ec66aa1bfdff6edec0c"
     }
    ]
   },
@@ -121916,6 +121946,21 @@
    ]
   },
   {
+   "slug": "hg-142-2009",
+   "path": "hg/2009/142",
+   "short": "HG nr. 142/2009",
+   "title": "Hotărârea Guvernului nr. 142/2009 privind exercitarea, cu caracter temporar, a funcţiei publice de subprefect al judeţului Vrancea de către domnul Hornea Sorin-Ionel-Florin",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/102786",
+   "versions": [
+    {
+     "from": "2009-02-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/102786",
+     "sha256": "baa076cc62749dcb68fdcba0fde8a8b226cbbb8e9ada9fc62422e4fdb35f912e"
+    }
+   ]
+  },
+  {
    "slug": "hg-142-2021",
    "path": "hg/2021/142",
    "short": "HG nr. 142/2021",
@@ -122197,6 +122242,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/79683",
      "sha256": "ca32d0ace9402747ab844aba265a7e76b9159c5e7bffc93d065fa404c66192ab"
+    }
+   ]
+  },
+  {
+   "slug": "hg-143-2009",
+   "path": "hg/2009/143",
+   "short": "HG nr. 143/2009",
+   "title": "Hotărârea Guvernului nr. 143/2009 privind aplicarea mobilităţii pentru doamna Donţu Adriana din funcţia publică de subprefect al judeţului Braşov în funcţia publică de inspector guvernamental",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/102787",
+   "versions": [
+    {
+     "from": "2009-02-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/102787",
+     "sha256": "8cf56a8d2fad82bdab80edf0503d5c7491e2bebd1a52b744ff3f0f200bb4be38"
     }
    ]
   },
@@ -122548,6 +122608,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/89655",
      "sha256": "318a742e2e0d99fded3459f32fde348f55aaf5a9c36255af3462157d0ce6e159"
+    }
+   ]
+  },
+  {
+   "slug": "hg-144-2009",
+   "path": "hg/2009/144",
+   "short": "HG nr. 144/2009",
+   "title": "Hotărârea Guvernului nr. 144/2009 privind exercitarea, cu caracter temporar, a funcţiei publice de subprefect al judeţului Braşov de către doamna Mînzatu Roxana",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/102788",
+   "versions": [
+    {
+     "from": "2009-02-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/102788",
+     "sha256": "8e3de92563b6950f2f8df999c98821b6e5dddc3e7301b58d7745cf6c0388e640"
     }
    ]
   },
@@ -122956,6 +123031,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/291292",
      "sha256": "56485bf8018dc2c7e9ef9dc70013bc24d783cdd9b4700c601427c100e0d80f23"
+    }
+   ]
+  },
+  {
+   "slug": "hg-145-2009",
+   "path": "hg/2009/145",
+   "short": "HG nr. 145/2009",
+   "title": "Hotărârea Guvernului nr. 145/2009 privind aplicarea mobilităţii pentru domnul Vasile Alecu din funcţia publică de subprefect al judeţului Buzău în funcţia publică de inspector guvernamental",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/102789",
+   "versions": [
+    {
+     "from": "2009-02-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/102789",
+     "sha256": "851b34b4530fd43503cffe19356509f42bf98359441f214b3d4915e21258c17f"
     }
    ]
   },
@@ -138565,21 +138655,6 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/295783",
      "sha256": "cdea23762efbe12d497c2e6b2adf3d656d90944e84db5db56b6db4a00630a48e"
-    }
-   ]
-  },
-  {
-   "slug": "hg-276-2018",
-   "path": "hg/2018/276",
-   "short": "HG nr. 276/2018",
-   "title": "Hotărârea Guvernului nr. 276/2018 pentru modificarea și completarea Hotărârii Guvernului nr. 1.198/2012 privind desemnarea infrastructurilor critice naționale",
-   "url": "https://legislatie.just.ro/Public/DetaliiDocument/200565",
-   "versions": [
-    {
-     "from": "2018-05-10",
-     "units": 2,
-     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/200565",
-     "sha256": "ed705a1037ada750e5b1775f28a2acb4caa5aa6cd5bf94b2b97181514236151c"
     }
    ]
   },
@@ -198038,6 +198113,21 @@
    ]
   },
   {
+   "slug": "hg-90-2009",
+   "path": "hg/2009/90",
+   "short": "HG nr. 90/2009",
+   "title": "Hotărârea Guvernului nr. 90/2009 privind aplicarea mobilităţii pentru domnul Panaitescu Gabriel-Aurelian din funcţia publică de prefect al judeţului Galaţi în funcţia publică de inspector guvernamental",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/102485",
+   "versions": [
+    {
+     "from": "2009-02-18",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/102485",
+     "sha256": "ba556cfff3e6158cb12d29bb904a9a4135894d1d5ae1008412bd296545d550b3"
+    }
+   ]
+  },
+  {
    "slug": "hg-90-2010",
    "path": "hg/2010/90",
    "short": "HG nr. 90/2010",
@@ -202148,6 +202238,21 @@
    ]
   },
   {
+   "slug": "hg-94-2009",
+   "path": "hg/2009/94",
+   "short": "HG nr. 94/2009",
+   "title": "Hotărârea Guvernului nr. 94/2009 privind constatarea încetării de drept a raportului de serviciu al domnului G\\'f6nczi Ştefan, subprefect al judeţului Maramureş",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/102486",
+   "versions": [
+    {
+     "from": "2009-02-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/102486",
+     "sha256": "f1d5edbead6d7f6ed0ddf2046e5ec85330ec09199bba92455396e8b8ce540063"
+    }
+   ]
+  },
+  {
    "slug": "hg-94-2014",
    "path": "hg/2014/94",
    "short": "HG nr. 94/2014",
@@ -203201,6 +203306,21 @@
    ]
   },
   {
+   "slug": "hg-95-2009",
+   "path": "hg/2009/95",
+   "short": "HG nr. 95/2009",
+   "title": "Hotărârea Guvernului nr. 95/2009 privind aplicarea mobilităţii pentru doamna Dobrilă Niculina din funcţia publică de subprefect al judeţului Neamţ în funcţia publică de inspector guvernamental",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/102487",
+   "versions": [
+    {
+     "from": "2009-02-18",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/102487",
+     "sha256": "9226f873379516248332a787185a877dc0ada1530c1a77bbc4acf3b377d1b8f3"
+    }
+   ]
+  },
+  {
    "slug": "hg-95-2011",
    "path": "hg/2011/95",
    "short": "HG nr. 95/2011",
@@ -204176,6 +204296,21 @@
    ]
   },
   {
+   "slug": "hg-96-2009",
+   "path": "hg/2009/96",
+   "short": "HG nr. 96/2009",
+   "title": "Hotărârea Guvernului nr. 96/2009 privind exercitarea, cu caracter temporar, a funcţiei publice de subprefect al judeţului Neamţ de către domnul Rotaru Romică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/102488",
+   "versions": [
+    {
+     "from": "2009-02-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/102488",
+     "sha256": "279e51e301b03b3e715fff58c3154d3d81345f50b05a80d2dce92f2761dab915"
+    }
+   ]
+  },
+  {
    "slug": "hg-96-2011",
    "path": "hg/2011/96",
    "short": "HG nr. 96/2011",
@@ -205060,6 +205195,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/275402",
      "sha256": "452a149b865e39c200d8e685bb06a2f5cdce72fcc502ec6e2c84571ac2764f12"
+    }
+   ]
+  },
+  {
+   "slug": "hg-97-2009",
+   "path": "hg/2009/97",
+   "short": "HG nr. 97/2009",
+   "title": "Hotărârea Guvernului nr. 97/2009 privind aplicarea mobilităţii pentru domnul Ghica Ioan din funcţia publică de subprefect al judeţului Neamţ în funcţia publică de inspector guvernamental",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/102489",
+   "versions": [
+    {
+     "from": "2009-02-18",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/102489",
+     "sha256": "aed9a26622392edea77ed0a4e0fde42c69e17b339032f71a58daa86eb9e3dc1c"
     }
    ]
   },
@@ -206009,6 +206159,21 @@
    ]
   },
   {
+   "slug": "hg-98-2009",
+   "path": "hg/2009/98",
+   "short": "HG nr. 98/2009",
+   "title": "Hotărârea Guvernului nr. 98/2009 privind exercitarea, cu caracter temporar, a funcţiei publice de subprefect al judeţului Neamţ de către domnul Ţocu Iulian Costel",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/102490",
+   "versions": [
+    {
+     "from": "2009-02-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/102490",
+     "sha256": "03853ff3a51db815672e552cf91799cd89682cd6532f369326e7db8f545fda60"
+    }
+   ]
+  },
+  {
    "slug": "hg-98-2010",
    "path": "hg/2010/98",
    "short": "HG nr. 98/2010",
@@ -206836,6 +207001,21 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/304666",
      "sha256": "4f644de2229a30de61afaf9859a9562beb36a63e9b79db76fd4185b2fcbe271a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-99-2009",
+   "path": "hg/2009/99",
+   "short": "HG nr. 99/2009",
+   "title": "Hotărârea Guvernului nr. 99/2009 privind schimbarea denumirii Institutului Naţional de Cercetări Economice din subordinea Academiei Române",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/102605",
+   "versions": [
+    {
+     "from": "2009-02-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/102605",
+     "sha256": "36c9907a8c9256f2901132c74d68e2ee165803f5eb82bc695699a65c7f39b806"
     }
    ]
   },
@@ -264969,6 +265149,21 @@
    ]
   },
   {
+   "slug": "hg-1017-2020",
+   "path": "hg/2020/1017",
+   "short": "HG nr. 1017/2020",
+   "title": "Hotărârea Guvernului nr. 1017/2020 pentru modificarea și completarea Hotărârii Guvernului nr. 1.198/2012 privind desemnarea infrastructurilor critice naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/234344",
+   "versions": [
+    {
+     "from": "2020-12-08",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/234344",
+     "sha256": "07e6c8eb9f64acfbc1a38ea66c69ea18ba3b83ffbd50f0cd5a21a9da9bcf0cf7"
+    }
+   ]
+  },
+  {
    "slug": "hg-103-2021",
    "short": "HG nr. 103/2021",
    "title": "Hotărârea Guvernului nr. 103/2021 referitoare la Comunicarea Comisiei către Parlamentul European, Consiliu, Comitetul Economic și Social European și Comitetul Regiunilor - O Uniune a egalității: Strategia privind drepturile persoanelor cu handicap 2021-2030 - COM(2021) 101 final",
@@ -265161,6 +265356,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/254279",
      "sha256": "98c068f9ef10e977cdb1dd013c58b3c51f9b824b6d2c6d74b77e00e5336e0689"
+    }
+   ]
+  },
+  {
+   "slug": "hg-276-2018",
+   "path": "hg/2018/276",
+   "short": "HG nr. 276/2018",
+   "title": "Hotărârea Guvernului nr. 276/2018 pentru modificarea și completarea Hotărârii Guvernului nr. 1.198/2012 privind desemnarea infrastructurilor critice naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/200565",
+   "versions": [
+    {
+     "from": "2018-05-10",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/200565",
+     "sha256": "ed705a1037ada750e5b1775f28a2acb4caa5aa6cd5bf94b2b97181514236151c"
     }
    ]
   },
