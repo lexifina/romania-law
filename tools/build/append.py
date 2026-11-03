@@ -560,6 +560,7 @@ def append(folder: Path, repo: Path, docs_date: str, dry_run: bool = False, comm
     # Ship this script beside build.py, so the repository says how its appended commits were made.
     for name in ('append.py', 'layout.py'):
         docs[f'tools/build/{name}'] = (HERE / name).read_text(encoding='utf-8').replace('\r\n', '\n')
+    B.check_published_tools(docs)  # every published .py compiles, no tool lost its line breaks
     # The indexes (ACTS.md, data/acts.json, data/versions.json, data/paths.json) list every act main holds, not only the
     # acts in this publish's corpus: a part held back for a cycle must not drop its acts from them, and only a
     # correction commit's "Withdraws: <id>" trailer marks an act withdrawn. Rows for acts not in this corpus come from
