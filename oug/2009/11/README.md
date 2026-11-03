@@ -5,6 +5,9 @@ OUG nr. 11/2009 · 2 versions, from 2009-03-04 (latest in force: 2009-10-11) · 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. I | [art-001.md](art-001.md) | 1 | 2009-10-11 |
+| Art. II | [art-002.md](art-002.md) | 0 |  |
+| Art. III | [art-003.md](art-003.md) | 0 |  |
+| Art. IV | [art-004.md](art-004.md) | 0 |  |
 
 Act id: `oug-11-2009` (tags `oug-11-2009/<day>`; `python tools/on.py <day> oug-11-2009`).
 
