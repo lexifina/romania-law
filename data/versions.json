@@ -81710,6 +81710,33 @@
    ]
   },
   {
+   "slug": "oug-25-1997",
+   "path": "oug/1997/25",
+   "short": "OUG nr. 25/1997",
+   "title": "Ordonanța de urgență a Guvernului nr. 25/1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11122",
+   "versions": [
+    {
+     "from": "1997-06-12",
+     "units": 27,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/11122",
+     "sha256": "1312100dc66873c534e8cb952850f924c66db7832a6d42f7fbe7bb76a7a1af6e"
+    },
+    {
+     "from": "2003-10-16",
+     "units": 26,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/47127",
+     "sha256": "b5210cc9587e9378b9690cd7c64463f53a30c9800100a6d6163d04753bf5ee8e"
+    },
+    {
+     "from": "2005-01-01",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/52896",
+     "sha256": "3a4399160f51216c63574fb601b15325369f85d9ddc49fafaa3fcc55df5a6d9c"
+    }
+   ]
+  },
+  {
    "slug": "oug-25-2011",
    "path": "oug/2011/25",
    "short": "OUG nr. 25/2011",
@@ -166864,6 +166891,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/232966",
      "sha256": "966332972e121b1bbf978ab5233fc2d9cec38256525668058db11bfdae73325d"
+    }
+   ]
+  },
+  {
+   "slug": "hg-943-2022",
+   "path": "hg/2022/943",
+   "short": "HG nr. 943/2022",
+   "title": "Hotărârea Guvernului nr. 943/2022 privind modificarea denumirii, descrierii tehnice şi a valorii de inventar ale unor imobile aflate în domeniul public al statului şi în administrarea Penitenciarului Focşani, din subordinea Administraţiei Naţionale a Penitenciarelor, precum şi trecerea acestora din domeniul public în domeniul privat al statului, în vederea scoaterii din funcţiune şi demolării",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/257898",
+   "versions": [
+    {
+     "from": "2022-07-28",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/257898",
+     "sha256": "4b76e8988fd8dc35388d851e1c10cc10d75a899c73342b2882b74dae72eb468f"
     }
    ]
   },

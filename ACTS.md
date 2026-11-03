@@ -1,6 +1,6 @@
 # Every act in this repository
 
-9615 acts, 22,999 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+9617 acts, 23,003 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -2194,11 +2194,12 @@
 | Legea nr. 190/2026 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 81/2021 privind aprobarea metodelor de intervenţie imediată pentru prevenirea şi combaterea atacurilor exemplarelor de urs brun asupra persoanelor şi bunurilor acestora, precum şi pentru modificarea şi completarea unor acte normative | [`lege/2026/190/`](lege/2026/190/) | amending act | 1 | 2026-10-08 | 2026-10-08 |
 | Legea nr. 205/2026 pentru completarea Ordonanţei Guvernului nr. 22/2002 privind executarea obligaţiilor de plată ale instituţiilor publice, stabilite prin titluri executorii | [`lege/2026/205/`](lege/2026/205/) | amending act | 1 | 2026-11-02 | 2026-11-02 |
 
-## Emergency ordinances (OUG) (1557, of which 538 amending acts)
+## Emergency ordinances (OUG) (1558, of which 538 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
 | Ordonanța de urgență a Guvernului nr. 16/1997 | [`oug/1997/16/`](oug/1997/16/) | in force | 2 | 1997-05-15 | 1998-01-27 |
+| Ordonanța de urgență a Guvernului nr. 25/1997 | [`oug/1997/25/`](oug/1997/25/) | repealed 2005-01-01 | 3 | 1997-06-12 | 2005-01-01 |
 | Ordonanța de urgență a Guvernului nr. 28/1997 | [`oug/1997/28/`](oug/1997/28/) | in force | 2 | 1997-06-10 | 1997-12-10 |
 | Ordonanța de urgență a Guvernului nr. 40/1997 pentru modificarea și completarea Legii locuinței nr. 114/1996 | [`oug/1997/40/`](oug/1997/40/) | amending act | 2 | 1997-07-14 | 1997-11-26 |
 | Ordonanța de urgență a Guvernului nr. 41/1997 pentru modificarea și completarea Decretului-lege nr. 118/1990 privind acordarea unor drepturi persoanelor persecutate din motive politice de dictatura instaurată cu începere de la 6 martie 1945, precum și celor deportate în străinătate ori constituite în prizonieri | [`oug/1997/41/`](oug/1997/41/) | amending act | 2 | 1997-07-14 | 1998-03-09 |
@@ -4260,7 +4261,7 @@
 | Ordonanța Guvernului nr. 21/2025 pentru modificarea și completarea Legii nr. 431/2023 privind asigurarea unui nivel minim global de impozitare a grupurilor de întreprinderi multinaționale și a grupurilor naționale de mari dimensiuni | [`og/2025/21/`](og/2025/21/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 | Ordonanța Guvernului nr. 22/2025 pentru modificarea și completarea Legii nr. 227/2015 privind Codul fiscal | [`og/2025/22/`](og/2025/22/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 
-## Government decisions (HG) (5363, of which 2154 amending acts)
+## Government decisions (HG) (5364, of which 2155 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -6671,6 +6672,7 @@
 | Hotărârea Guvernului nr. 938/2022 privind modificarea datelor de identificare şi actualizarea valorilor de inventar ale unui bun imobil aflat în domeniul public al statului şi în administrarea Ministerului Finanţelor - Agenţia Naţională de Administrare Fiscală, prin Direcţia Generală Regională a Finanţelor Publice Cluj-Napoca, şi transmiterea acestuia în domeniul public al oraşului Ştei | [`hg/2022/938/`](hg/2022/938/) | amending act | 1 | 2022-07-28 | 2022-07-28 |
 | Hotărârea Guvernului nr. 939/2022 privind actualizarea anexei nr. 1 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului şi pentru trecerea unei construcţii aflate în administrarea Ministerului Afacerilor Interne - UM 0827 Cluj-Napoca (Gruparea de Jandarmi Mobilă Cluj-Napoca) din domeniul public al statului în domeniul privat al acestuia, în vederea scoaterii din funcţiune, casării şi demolării | [`hg/2022/939/`](hg/2022/939/) | amending act | 1 | 2022-07-28 | 2022-07-28 |
 | Hotărârea Guvernului nr. 940/2022 privind recunoaşterea Asociaţiei Festivalul de Film Transilvania ca fiind de utilitate publică | [`hg/2022/940/`](hg/2022/940/) | in force | 1 | 2022-07-28 | 2022-07-28 |
+| Hotărârea Guvernului nr. 943/2022 privind modificarea denumirii, descrierii tehnice şi a valorii de inventar ale unor imobile aflate în domeniul public al statului şi în administrarea Penitenciarului Focşani, din subordinea Administraţiei Naţionale a Penitenciarelor, precum şi trecerea acestora din domeniul public în domeniul privat al statului, în vederea scoaterii din funcţiune şi demolării | [`hg/2022/943/`](hg/2022/943/) | amending act | 1 | 2022-07-28 | 2022-07-28 |
 | Hotărârea Guvernului nr. 945/2022 privind înscrierea în inventarul centralizat al bunurilor din domeniul public al statului a unui bun mobil şi darea în administrarea Ministerului Mediului, Apelor şi Pădurilor - Administraţia Naţională de Meteorologie | [`hg/2022/945/`](hg/2022/945/) | in force | 1 | 2022-07-28 | 2022-07-28 |
 | Hotărârea Guvernului nr. 946/2022 privind înscrierea în inventarul centralizat al bunurilor din domeniul public al statului a unui bun imobil şi darea acestuia în administrarea Oficiului de Cadastru şi Publicitate Imobiliară Bacău | [`hg/2022/946/`](hg/2022/946/) | in force | 1 | 2022-07-28 | 2022-07-28 |
 | Hotărârea Guvernului nr. 949/2022 privind stabilirea aeroporturilor principale și urbane aflate în interiorul aglomerărilor sau care au o activitate aeroportuară ce influențează nivelurile de zgomot din interiorul aglomerărilor | [`hg/2022/949/`](hg/2022/949/) | in force | 1 | 2022-07-28 | 2022-07-28 |

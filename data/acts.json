@@ -36705,6 +36705,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/218027"
 },
 {
+"slug": "oug-25-1997",
+"path": "oug/1997/25",
+"kind": "oug",
+"year": "1997",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 25/1997",
+"short": "OUG nr. 25/1997",
+"code": null,
+"status": "repealed 2005-01-01",
+"versions": 3,
+"from": "1997-06-12",
+"latest": "2005-01-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/11122"
+},
+{
 "slug": "oug-28-1997",
 "path": "oug/1997/28",
 "kind": "oug",
@@ -113118,6 +113135,23 @@
 "from": "2022-07-28",
 "latest": "2022-07-28",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/257888"
+},
+{
+"slug": "hg-943-2022",
+"path": "hg/2022/943",
+"kind": "hg",
+"year": "2022",
+"number": "943",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 943/2022 privind modificarea denumirii, descrierii tehnice şi a valorii de inventar ale unor imobile aflate în domeniul public al statului şi în administrarea Penitenciarului Focşani, din subordinea Administraţiei Naţionale a Penitenciarelor, precum şi trecerea acestora din domeniul public în domeniul privat al statului, în vederea scoaterii din funcţiune şi demolării",
+"short": "HG nr. 943/2022",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2022-07-28",
+"latest": "2022-07-28",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/257898"
 },
 {
 "slug": "hg-945-2022",
