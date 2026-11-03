@@ -36314,6 +36314,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/194408"
 },
 {
+"slug": "oug-79-2017",
+"path": "oug/2017/79",
+"kind": "oug",
+"year": "2017",
+"number": "79",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 79/2017 pentru modificarea și completarea Legii nr. 227/2015 privind Codul fiscal",
+"short": "OUG nr. 79/2017",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2018-01-01",
+"latest": "2018-01-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/194621"
+},
+{
 "slug": "oug-85-2017",
 "path": "oug/2017/85",
 "kind": "oug",

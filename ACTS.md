@@ -1,6 +1,6 @@
 # Every act in this repository
 
-5327 acts, 14,328 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+5328 acts, 14,329 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -1557,7 +1557,7 @@
 | Legea nr. 241/2025 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 31/2002 privind interzicerea organizațiilor, simbolurilor și faptelor cu caracter fascist, legionar, rasist sau xenofob și a promovării cultului persoanelor vinovate de săvârșirea unor infracțiuni de genocid contra umanității și de crime de război, precum și pentru modificarea Legii nr. 157/2018 privind unele măsuri pentru prevenirea și combaterea antisemitismului | [`lege/2025/241/`](lege/2025/241/) | amending act | 1 | 2025-12-27 | 2025-12-27 |
 | Legea nr. 245/2025 pentru modificarea art. 32 alin. (7) din Legea nr. 273/2006 privind finanțele publice locale | [`lege/2025/245/`](lege/2025/245/) | amending act | 1 | 2026-01-01 | 2026-01-01 |
 
-## Emergency ordinances (OUG) (1190, of which 478 amending acts)
+## Emergency ordinances (OUG) (1191, of which 479 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -2176,6 +2176,7 @@
 | Ordonanța de urgență a Guvernului nr. 72/2017 privind implementarea Sistemului de avertizare a populației în situații de urgență "RO-ALERT" | [`oug/2017/72/`](oug/2017/72/) | in force | 1 | 2017-10-12 | 2017-10-12 |
 | Ordonanța de urgență a Guvernului nr. 74/2017 privind desemnarea Inspectoratului General pentru Situații de Urgență ca unitate de achiziții centralizată pentru achiziția centralizată de autospeciale/ambulanțe pentru Serviciul Mobil de Urgență, Reanimare și Descarcerare din cadrul Inspectoratului General pentru Situații de Urgență, pentru serviciile de ambulanță județene și pentru Serviciul de Ambulanță București-Ilfov | [`oug/2017/74/`](oug/2017/74/) | in force | 2 | 2017-10-16 | 2024-11-22 |
 | Ordonanța de urgență a Guvernului nr. 77/2017 privind înființarea Centrului Național pentru Informații Financiare | [`oug/2017/77/`](oug/2017/77/) | in force | 3 | 2017-10-30 | 2018-12-13 |
+| Ordonanța de urgență a Guvernului nr. 79/2017 pentru modificarea și completarea Legii nr. 227/2015 privind Codul fiscal | [`oug/2017/79/`](oug/2017/79/) | amending act | 1 | 2018-01-01 | 2018-01-01 |
 | Ordonanța de urgență a Guvernului nr. 85/2017 pentru modificarea art. 5 din Legea nr. 299/2007 privind sprijinul acordat românilor de pretutindeni, precum și pentru acordarea unor burse de studii etnicilor români cu domiciliul stabil în Ucraina | [`oug/2017/85/`](oug/2017/85/) | amending act | 2 | 2017-11-27 | 2018-06-10 |
 | Ordonanța de urgență a Guvernului nr. 87/2017 pentru completarea art. 5 din Ordonanța Guvernului nr. 70/2002 privind administrarea unităților sanitare publice de interes județean și local | [`oug/2017/87/`](oug/2017/87/) | amending act | 1 | 2017-12-06 | 2017-12-06 |
 | Ordonanța de urgență a Guvernului nr. 90/2017 privind unele măsuri fiscal-bugetare, modificarea și completarea unor acte normative și prorogarea unor termene | [`oug/2017/90/`](oug/2017/90/) | in force | 12 | 2017-12-07 | 2020-04-04 |
