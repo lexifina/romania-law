@@ -102455,6 +102455,21 @@
    ]
   },
   {
+   "slug": "hg-1017-2016",
+   "path": "hg/2016/1017",
+   "short": "HG nr. 1017/2016",
+   "title": "Hotărârea Guvernului nr. 1017/2016 pentru aprobarea amendamentului convenit între Guvernul României şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare, prin scrisorile semnate la 31 august 2016 şi la 2 noiembrie 2016 la Bucureşti, la Acordul de împrumut (Proiectul de modernizare a administraţiei fiscale) dintre România şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare, semnat la Bucureşti la 8 mai 2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/185515",
+   "versions": [
+    {
+     "from": "2017-01-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/185515",
+     "sha256": "0ff7cc66ab33e45c015b1ce3b2221f76d5bbc15bf4ccb9fe19ffc2f17c9eb50b"
+    }
+   ]
+  },
+  {
    "slug": "hg-1017-2018",
    "path": "hg/2018/1017",
    "short": "HG nr. 1017/2018",
@@ -154889,6 +154904,21 @@
    ]
   },
   {
+   "slug": "hg-165-2017",
+   "path": "hg/2017/165",
+   "short": "HG nr. 165/2017",
+   "title": "Hotărârea Guvernului nr. 165/2017 privind exercitarea, cu caracter temporar, prin detaşare în condiţiile legii, a funcţiei publice de prefect al judeţului Alba de către domnul Hălălai Dănuţ-Emil",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/187885",
+   "versions": [
+    {
+     "from": "2017-04-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/187885",
+     "sha256": "51806e0ea49da73071a2065e4a22c11bd05cbe53361c5f79b77df1c63c6d1cf5"
+    }
+   ]
+  },
+  {
    "slug": "hg-165-2019",
    "path": "hg/2019/165",
    "short": "HG nr. 165/2019",
@@ -163535,6 +163565,21 @@
    ]
   },
   {
+   "slug": "hg-205-2017",
+   "path": "hg/2017/205",
+   "short": "HG nr. 205/2017",
+   "title": "Hotărârea Guvernului nr. 205/2017 privind aprobarea plăţii contribuţiei României la bugetul Secretariatului Consiliului Cooperării Regionale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/188042",
+   "versions": [
+    {
+     "from": "2017-04-07",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/188042",
+     "sha256": "6751ba9315148d916000a03ff67255efbaea863cb922bf5fd31cebcac0c20391"
+    }
+   ]
+  },
+  {
    "slug": "hg-205-2018",
    "path": "hg/2018/205",
    "short": "HG nr. 205/2018",
@@ -165772,6 +165817,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/177162",
      "sha256": "39ac572782345a3dbd708cb8014fdd8bb625e29813bc48781fe3b436b2614898"
+    }
+   ]
+  },
+  {
+   "slug": "hg-218-2017",
+   "path": "hg/2017/218",
+   "short": "HG nr. 218/2017",
+   "title": "Hotărârea Guvernului nr. 218/2017 privind revocarea şi numirea unui membru în Consiliul director al Fondului Român de Dezvoltare Socială şi pentru modificarea anexei la Hotărârea Guvernului nr. 350/2013 privind numirea membrilor Consiliului director al Fondului Român de Dezvoltare Socială",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/188339",
+   "versions": [
+    {
+     "from": "2017-04-13",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/188339",
+     "sha256": "ae285fd1e8e1c77f0e4f43630f9cabaa8034cd5afc5039bde7909905f5dd851f"
     }
    ]
   },
@@ -173618,6 +173678,21 @@
    ]
   },
   {
+   "slug": "hg-260-2017",
+   "path": "hg/2017/260",
+   "short": "HG nr. 260/2017",
+   "title": "Hotărârea Guvernului nr. 260/2017 privind trecerea unui imobil, aflat în administrarea Regiei Autonome ”Administraţia Patrimoniului Protocolului de Stat”, din domeniul privat al statului în domeniul public al statului, atribuirea destinaţiei de reşedinţă oficială pentru acest imobil şi pentru modificarea şi completarea unor acte normative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/188656",
+   "versions": [
+    {
+     "from": "2017-04-28",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/188656",
+     "sha256": "8e2baca964b9d938050c0ea91868bdf7b9ec3b618f0245d421f6e4eafac9f082"
+    }
+   ]
+  },
+  {
    "slug": "hg-260-2018",
    "path": "hg/2018/260",
    "short": "HG nr. 260/2018",
@@ -178109,6 +178184,21 @@
    ]
   },
   {
+   "slug": "hg-285-2017",
+   "path": "hg/2017/285",
+   "short": "HG nr. 285/2017",
+   "title": "Hotărârea Guvernului nr. 285/2017 pentru aprobarea Tezelor prealabile ale proiectului Codului finanţelor publice locale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/189153",
+   "versions": [
+    {
+     "from": "2017-05-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/189153",
+     "sha256": "eed12c82d70d2908526b100d52371313159919a3500f81e668a14d34a4447e54"
+    }
+   ]
+  },
+  {
    "slug": "hg-285-2018",
    "path": "hg/2018/285",
    "short": "HG nr. 285/2018",
@@ -181336,6 +181426,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/177860",
      "sha256": "ffa30e021c908b7a3bcaaa695026c3c305918ae5278791e299aad9429a510cd0"
+    }
+   ]
+  },
+  {
+   "slug": "hg-301-2017",
+   "path": "hg/2017/301",
+   "short": "HG nr. 301/2017",
+   "title": "Hotărârea Guvernului nr. 301/2017 privind înscrierea în inventarul centralizat al bunurilor din domeniul public al statului şi darea în administrarea Ministerului Apărării Naţionale a imobilului 641, situat în municipiul Timişoara, judeţul Timiş",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/189195",
+   "versions": [
+    {
+     "from": "2017-05-11",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/189195",
+     "sha256": "d4a746474134e60a91e8d87e6052583706846c85b64f0e1f0966f433ddf9b071"
     }
    ]
   },
@@ -187157,6 +187262,21 @@
    ]
   },
   {
+   "slug": "hg-330-2017",
+   "path": "hg/2017/330",
+   "short": "HG nr. 330/2017",
+   "title": "Hotărârea Guvernului nr. 330/2017 privind reorganizarea Staţiunii de Cercetare-Dezvoltare pentru Viticultură şi Vinificaţie Bujoru şi modificarea anexei nr. 3 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/189935",
+   "versions": [
+    {
+     "from": "2017-06-06",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/189935",
+     "sha256": "22a2d450151261a0eae961a0f4b3a44a788d482983b2710692d556bd51bf4c72"
+    }
+   ]
+  },
+  {
    "slug": "hg-330-2018",
    "path": "hg/2018/330",
    "short": "HG nr. 330/2018",
@@ -187948,6 +188068,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/157832",
      "sha256": "76fd978e8200a246732e9d1fca716d90aa95c02ecaaa2db8603fb55d65f8a6b0"
+    }
+   ]
+  },
+  {
+   "slug": "hg-335-2017",
+   "path": "hg/2017/335",
+   "short": "HG nr. 335/2017",
+   "title": "Hotărârea Guvernului nr. 335/2017 privind desfiinţarea Centrului de Sănătate Bălţeşti, judeţul Prahova",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/189491",
+   "versions": [
+    {
+     "from": "2017-05-24",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/189491",
+     "sha256": "a924c4a1890f28d8521fe2ea0e8084962dc9d9608bac208dcf03168d590cbc08"
     }
    ]
   },
@@ -190265,6 +190400,21 @@
    ]
   },
   {
+   "slug": "hg-346-2017",
+   "path": "hg/2017/346",
+   "short": "HG nr. 346/2017",
+   "title": "Hotărârea Guvernului nr. 346/2017 privind înscrierea unui imobil situat în comuna Moroeni, judeţul Dâmboviţa, în inventarul centralizat al bunurilor din domeniul public al statului şi darea acestuia în administrarea Ministerului Apărării Naţionale, pentru actualizarea valorii de inventar a imobilului 1169 aflat în domeniul public al statului şi în administrarea Ministerului Apărării Naţionale şi pentru trecerea unei părţi din acesta, constituită din construcţii, din domeniul public în domeniul privat al statului, în vederea scoaterii din funcţiune şi casării acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/189954",
+   "versions": [
+    {
+     "from": "2017-06-07",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/189954",
+     "sha256": "869ffb5983a1e2131c1f97d2ea4af07b0cf7fa2d586be0c4b71e4e7e6e62e548"
+    }
+   ]
+  },
+  {
    "slug": "hg-346-2019",
    "path": "hg/2019/346",
    "short": "HG nr. 346/2019",
@@ -191674,6 +191824,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/178464",
      "sha256": "0d29a4be5f7ec6e569a69df1386380787bdd565345503af674d19906aa1654f9"
+    }
+   ]
+  },
+  {
+   "slug": "hg-353-2017",
+   "path": "hg/2017/353",
+   "short": "HG nr. 353/2017",
+   "title": "Hotărârea Guvernului nr. 353/2017 pentru modificarea şi completarea Hotărârii Guvernului nr. 700/2012 privind organizarea şi funcţionarea Autorităţii Naţionale pentru Protecţia Consumatorilor şi pentru modificarea Hotărârii Guvernului nr. 27/2017 privind organizarea şi funcţionarea Ministerului Economiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/189590",
+   "versions": [
+    {
+     "from": "2017-05-30",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/189590",
+     "sha256": "cd5b981845d2a8a7aac8f54848d0df8995b616e49b9fba7c9dbe52356c32b531"
     }
    ]
   },
@@ -197221,6 +197386,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168453",
      "sha256": "b53a98b19142a2000cf5b8ffb2623e4f682059780cf4d445735a24b9e2929b1b"
+    }
+   ]
+  },
+  {
+   "slug": "hg-381-2017",
+   "path": "hg/2017/381",
+   "short": "HG nr. 381/2017",
+   "title": "Hotărârea Guvernului nr. 381/2017 privind aprobarea plăţii cotizaţiei anuale de participare a României în calitate de membru afiliat la Asociaţia Internaţională a Securităţii Sociale (ISSA) pentru anul 2017",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/189671",
+   "versions": [
+    {
+     "from": "2017-05-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/189671",
+     "sha256": "8fd9ee17809785819318a031d449f9fb7b3e646eaa922ae513b2207757bacd7a"
     }
    ]
   },
@@ -204595,6 +204775,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/179363",
      "sha256": "b29d590cb350829cffabd2e0cfb8e3f6b254baadb4bee7932dd9a078a068cc8f"
+    }
+   ]
+  },
+  {
+   "slug": "hg-423-2017",
+   "path": "hg/2017/423",
+   "short": "HG nr. 423/2017",
+   "title": "Hotărârea Guvernului nr. 423/2017 privind reorganizarea Staţiunii de Cercetare-Dezvoltare pentru Combaterea Eroziunii Solului „Mircea Moţoc“ Perieni, prin desfiinţarea Centrului de Cercetare-Dezvoltare pentru Combaterea Eroziunii Solului Perieni, şi modificarea anexei nr. 3 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/190297",
+   "versions": [
+    {
+     "from": "2017-06-22",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/190297",
+     "sha256": "6e24097c1ce55b19b155881e84a4ee248466c2deda729be16e2b8c424dd70172"
     }
    ]
   },
@@ -247136,6 +247331,21 @@
    ]
   },
   {
+   "slug": "hg-635-2016",
+   "path": "hg/2016/635",
+   "short": "HG nr. 635/2016",
+   "title": "Hotărârea Guvernului nr. 635/2016 pentru aprobarea calendarului acţiunilor din cuprinsul perioadei electorale a alegerilor pentru Senat şi Camera Deputaţilor din anul 2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/181521",
+   "versions": [
+    {
+     "from": "2016-09-12",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181521",
+     "sha256": "73c80d14bebab3e3256d93c12f1e8e2bb73bca0cff6de427ccb226224631d589"
+    }
+   ]
+  },
+  {
    "slug": "hg-635-2018",
    "path": "hg/2018/635",
    "short": "HG nr. 635/2018",
@@ -258977,6 +259187,21 @@
    ]
   },
   {
+   "slug": "hg-698-2016",
+   "path": "hg/2016/698",
+   "short": "HG nr. 698/2016",
+   "title": "Hotărârea Guvernului nr. 698/2016 privind numirea unui consul general",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182084",
+   "versions": [
+    {
+     "from": "2016-09-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182084",
+     "sha256": "c3a77ec916218101235b3bcab48cc05adf4e9018ea373dfd05b7cf67d22406d3"
+    }
+   ]
+  },
+  {
    "slug": "hg-698-2017",
    "path": "hg/2017/698",
    "short": "HG nr. 698/2017",
@@ -262216,6 +262441,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/160939",
      "sha256": "218afc3d89467fc88ef2328c520179f153a67a361882ce30fcfc19bda6b56a43"
+    }
+   ]
+  },
+  {
+   "slug": "hg-716-2016",
+   "path": "hg/2016/716",
+   "short": "HG nr. 716/2016",
+   "title": "Hotărârea Guvernului nr. 716/2016 pentru modificarea Normelor metodologice de aplicare a Legii îmbunătăţirilor funciare nr. 138/2004 , aprobate prin Hotărârea Guvernului nr. 1.872/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182364",
+   "versions": [
+    {
+     "from": "2016-10-07",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182364",
+     "sha256": "fe5319e743ade14e02e3f23246a7287cd5961a149a42273d548267afd774e8bb"
     }
    ]
   },
@@ -269944,6 +270184,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171478",
      "sha256": "9fb10f89dff719e8cdfc248f2464aad24d6275446dc8ab31a6e4562c39433b89"
+    }
+   ]
+  },
+  {
+   "slug": "hg-757-2016",
+   "path": "hg/2016/757",
+   "short": "HG nr. 757/2016",
+   "title": "Hotărârea Guvernului nr. 757/2016 privind aprobarea sumei din bugetul asigurărilor pentru şomaj pe anul 2016 ce se va aloca pentru plata venitului lunar de completare pentru persoanele disponibilizate de la Societatea \"Romaero\" - S.A. Bucureşti",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182929",
+   "versions": [
+    {
+     "from": "2016-10-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182929",
+     "sha256": "ab6851f85c2cbe6d6ca47b76be6091626e5f796e9077ae21a994d2b001ddac1a"
     }
    ]
   },
@@ -288785,6 +289040,21 @@
    ]
   },
   {
+   "slug": "hg-853-2016",
+   "path": "hg/2016/853",
+   "short": "HG nr. 853/2016",
+   "title": "Hotărârea Guvernului nr. 853/2016 pentru modificarea Normelor metodologice privind asistenţa medicală transfrontalieră, aprobate prin Hotărârea Guvernului nr. 304/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/183870",
+   "versions": [
+    {
+     "from": "2016-11-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/183870",
+     "sha256": "46e037c2398d7f1318b463639fbead81d9d01b7bc886441c6f395b1b14219572"
+    }
+   ]
+  },
+  {
    "slug": "hg-853-2017",
    "path": "hg/2017/853",
    "short": "HG nr. 853/2017",
@@ -291757,6 +292027,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/162528",
      "sha256": "56a748ae54233293907ecdadbe1ab4510948d19a6e36ed969a8346abcb5a9ab4"
+    }
+   ]
+  },
+  {
+   "slug": "hg-868-2016",
+   "path": "hg/2016/868",
+   "short": "HG nr. 868/2016",
+   "title": "Hotărârea Guvernului nr. 868/2016 privind înscrierea în inventarul centralizat al bunurilor din domeniul public al statului şi darea în administrare Regiei Autonome Tehnologii pentru Energia Nucleară - RATEN, aflată sub autoritatea Ministerului Energiei, a unor bunuri aflate în domeniul public al statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/184371",
+   "versions": [
+    {
+     "from": "2016-12-06",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/184371",
+     "sha256": "b829f2ca54ef3827c3d5d58e256ff9fdd987ebc8ada04f3a31dda8ecc6d1df6d"
     }
    ]
   },
@@ -298994,6 +299279,21 @@
    ]
   },
   {
+   "slug": "hg-902-2016",
+   "path": "hg/2016/902",
+   "short": "HG nr. 902/2016",
+   "title": "Hotărârea Guvernului nr. 902/2016 pentru modificarea Regulamentului de organizare şi funcţionare a Agenţiei Naţionale pentru Locuinţe, aprobat prin Hotărârea Guvernului nr. 620/2001",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/184812",
+   "versions": [
+    {
+     "from": "2016-12-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/184812",
+     "sha256": "a0bdfa6cb9316f662493c17a9942d360a737b542f84259dc429c5dd43f730fb2"
+    }
+   ]
+  },
+  {
    "slug": "hg-902-2017",
    "path": "hg/2017/902",
    "short": "HG nr. 902/2017",
@@ -301690,6 +301990,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172751",
      "sha256": "0a8840464d4a3a85e585ae265eb0bdfb33dec0b69b40699b3f64e04882f0c3ca"
+    }
+   ]
+  },
+  {
+   "slug": "hg-917-2016",
+   "path": "hg/2016/917",
+   "short": "HG nr. 917/2016",
+   "title": "Hotărârea Guvernului nr. 917/2016 pentru aprobarea amplasamentului şi declanşarea procedurii de expropriere a imobilelor proprietate privată care constituie coridorul de expropriere al obiectivului de investiţii \"Trecerea la tensiunea de 400 kV a axului Porţile de Fier - Reşiţa - Timişoara - Săcălaz - Arad/LEA 400 kV Porţile de Fier - (Anina) - Reşiţa\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/184927",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/184927",
+     "sha256": "1dc75968c3e1d767dab9c075fba54795239d3fabbc1bea9bdcb5c1cdc7e1b01d"
     }
    ]
   },
@@ -304459,6 +304774,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172976",
      "sha256": "ffb6bf001d1ec408c957edf7011e472910d6659a20a1f7193aad84394029b37f"
+    }
+   ]
+  },
+  {
+   "slug": "hg-930-2016",
+   "path": "hg/2016/930",
+   "short": "HG nr. 930/2016",
+   "title": "Hotărârea Guvernului nr. 930/2016 privind modificarea Hotărârii Guvernului nr. 1.030/2009 pentru aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Legătura reţelei de metrou cu Aeroportul Internaţional Henri Coandă - Otopeni\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/184644",
+   "versions": [
+    {
+     "from": "2016-12-15",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/184644",
+     "sha256": "e97217d17ce698c880d14e455d4835e6b1db82ce155c4b4f4bffc30ef7dfd572"
     }
    ]
   },
@@ -320594,6 +320924,21 @@
    ]
   },
   {
+   "slug": "legea-124-2017",
+   "path": "lege/2017/124",
+   "short": "Legea nr. 124/2017",
+   "title": "Legea nr. 124/2017 privind aprobarea participării României ca membru asociat la Proiectul BEPS - Erodarea bazei de impozitare şi transferul profiturilor - iniţiat de Organizaţia pentru Cooperare şi Dezvoltare Economică - OCDE, precum şi pentru completarea anexei nr. 1 la Ordonanţa Guvernului nr. 41/1994 privind autorizarea plăţii cotizaţiilor la organizaţiile internaţionale interguvernamentale la care România este parte",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/189904",
+   "versions": [
+    {
+     "from": "2017-06-09",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/189904",
+     "sha256": "a48e5bab86b71273f78fe91340783eb542a9efe08dfe0f76536132672aaaf552"
+    }
+   ]
+  },
+  {
    "slug": "legea-124-2018",
    "path": "lege/2018/124",
    "short": "Legea nr. 124/2018",
@@ -328922,6 +329267,21 @@
    ]
   },
   {
+   "slug": "legea-178-2016",
+   "path": "lege/2016/178",
+   "short": "Legea nr. 178/2016",
+   "title": "Legea nr. 178/2016 privind aprobarea Ordonanţei Guvernului nr. 2/2016 pentru modificarea Legii nr. 206/2004 privind buna conduită în cercetarea ştiinţifică, dezvoltarea tehnologică şi inovare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182616",
+   "versions": [
+    {
+     "from": "2016-10-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182616",
+     "sha256": "2063486abe143fdd22a740f6f0e8b50fbe897d48c5e534e1ce17d0d9f3ebb2e1"
+    }
+   ]
+  },
+  {
    "slug": "legea-178-2018",
    "path": "lege/2018/178",
    "short": "Legea nr. 178/2018",
@@ -329053,6 +329413,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/169311",
      "sha256": "9839e6d9bad22b37ad3e242e6af4f010ec7d0921244ba06d828908ce7b32c332"
+    }
+   ]
+  },
+  {
+   "slug": "legea-179-2016",
+   "path": "lege/2016/179",
+   "short": "Legea nr. 179/2016",
+   "title": "Legea nr. 179/2016 privind aprobarea Ordonanţei Guvernului nr. 5/2016 pentru completarea Ordonanţei de urgenţă a Guvernului nr. 34/2000 privind produsele agroalimentare ecologice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182618",
+   "versions": [
+    {
+     "from": "2016-10-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182618",
+     "sha256": "4b7ced153bb0c8a7ee41a36d242d0febe44dfb436947c8caa366f80fa4fa5c1b"
     }
    ]
   },
@@ -349528,6 +349903,21 @@
      "units": 8,
      "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/206506",
      "sha256": "2b33ba584338f73a2daa78c17411128b1f6c6e59e1b4fb61c065ebc32e6d73ff"
+    }
+   ]
+  },
+  {
+   "slug": "legea-37-2017",
+   "path": "lege/2017/37",
+   "short": "Legea nr. 37/2017",
+   "title": "Legea nr. 37/2017 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 73/2016 privind unele măsuri pentru sprijinirea persoanelor afectate de distrugerea parţială a blocului situat în municipiul Bistriţa, Str. Arţarilor nr. 20, ca urmare a exploziei produse în data de 19 octombrie 2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/187832",
+   "versions": [
+    {
+     "from": "2017-04-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/187832",
+     "sha256": "995b6a229b957cc28e79982d7bacf5595d5a78b5b1f2c2a74be7352cbb69385b"
     }
    ]
   },

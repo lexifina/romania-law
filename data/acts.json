@@ -26131,6 +26131,40 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/182614"
 },
 {
+"slug": "legea-178-2016",
+"path": "lege/2016/178",
+"kind": "lege",
+"year": "2016",
+"number": "178",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 178/2016 privind aprobarea Ordonanţei Guvernului nr. 2/2016 pentru modificarea Legii nr. 206/2004 privind buna conduită în cercetarea ştiinţifică, dezvoltarea tehnologică şi inovare",
+"short": "Legea nr. 178/2016",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2016-10-17",
+"latest": "2016-10-17",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/182616"
+},
+{
+"slug": "legea-179-2016",
+"path": "lege/2016/179",
+"kind": "lege",
+"year": "2016",
+"number": "179",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 179/2016 privind aprobarea Ordonanţei Guvernului nr. 5/2016 pentru completarea Ordonanţei de urgenţă a Guvernului nr. 34/2000 privind produsele agroalimentare ecologice",
+"short": "Legea nr. 179/2016",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2016-10-17",
+"latest": "2016-10-17",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/182618"
+},
+{
 "slug": "legea-181-2016",
 "path": "lege/2016/181",
 "kind": "lege",
@@ -27049,6 +27083,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/187781"
 },
 {
+"slug": "legea-37-2017",
+"path": "lege/2017/37",
+"kind": "lege",
+"year": "2017",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 37/2017 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 73/2016 privind unele măsuri pentru sprijinirea persoanelor afectate de distrugerea parţială a blocului situat în municipiul Bistriţa, Str. Arţarilor nr. 20, ca urmare a exploziei produse în data de 19 octombrie 2016",
+"short": "Legea nr. 37/2017",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2017-04-02",
+"latest": "2017-04-02",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/187832"
+},
+{
 "slug": "legea-41-2017",
 "path": "lege/2017/41",
 "kind": "lege",
@@ -27506,6 +27557,23 @@
 "from": "2017-06-09",
 "latest": "2017-06-09",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/189902"
+},
+{
+"slug": "legea-124-2017",
+"path": "lege/2017/124",
+"kind": "lege",
+"year": "2017",
+"number": "124",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 124/2017 privind aprobarea participării României ca membru asociat la Proiectul BEPS - Erodarea bazei de impozitare şi transferul profiturilor - iniţiat de Organizaţia pentru Cooperare şi Dezvoltare Economică - OCDE, precum şi pentru completarea anexei nr. 1 la Ordonanţa Guvernului nr. 41/1994 privind autorizarea plăţii cotizaţiilor la organizaţiile internaţionale interguvernamentale la care România este parte",
+"short": "Legea nr. 124/2017",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2017-06-09",
+"latest": "2017-06-09",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/189904"
 },
 {
 "slug": "legea-126-2017",
@@ -206977,6 +207045,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/181494"
 },
 {
+"slug": "hg-635-2016",
+"path": "hg/2016/635",
+"kind": "hg",
+"year": "2016",
+"number": "635",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 635/2016 pentru aprobarea calendarului acţiunilor din cuprinsul perioadei electorale a alegerilor pentru Senat şi Camera Deputaţilor din anul 2016",
+"short": "HG nr. 635/2016",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2016-09-12",
+"latest": "2016-09-12",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/181521"
+},
+{
 "slug": "hg-637-2016",
 "path": "hg/2016/637",
 "kind": "hg",
@@ -207742,6 +207827,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/182083"
 },
 {
+"slug": "hg-698-2016",
+"path": "hg/2016/698",
+"kind": "hg",
+"year": "2016",
+"number": "698",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 698/2016 privind numirea unui consul general",
+"short": "HG nr. 698/2016",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2016-09-29",
+"latest": "2016-09-29",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/182084"
+},
+{
 "slug": "hg-705-2016",
 "path": "hg/2016/705",
 "kind": "hg",
@@ -207842,6 +207944,23 @@
 "from": "2016-10-04",
 "latest": "2016-10-04",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/182230"
+},
+{
+"slug": "hg-716-2016",
+"path": "hg/2016/716",
+"kind": "hg",
+"year": "2016",
+"number": "716",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 716/2016 pentru modificarea Normelor metodologice de aplicare a Legii îmbunătăţirilor funciare nr. 138/2004 , aprobate prin Hotărârea Guvernului nr. 1.872/2005",
+"short": "HG nr. 716/2016",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2016-10-07",
+"latest": "2016-10-07",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/182364"
 },
 {
 "slug": "hg-717-2016",
@@ -208420,6 +208539,23 @@
 "from": "2016-10-26",
 "latest": "2016-11-26",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/183003"
+},
+{
+"slug": "hg-757-2016",
+"path": "hg/2016/757",
+"kind": "hg",
+"year": "2016",
+"number": "757",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 757/2016 privind aprobarea sumei din bugetul asigurărilor pentru şomaj pe anul 2016 ce se va aloca pentru plata venitului lunar de completare pentru persoanele disponibilizate de la Societatea \"Romaero\" - S.A. Bucureşti",
+"short": "HG nr. 757/2016",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2016-10-25",
+"latest": "2016-10-25",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/182929"
 },
 {
 "slug": "hg-758-2016",
@@ -209561,6 +209697,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/183786"
 },
 {
+"slug": "hg-853-2016",
+"path": "hg/2016/853",
+"kind": "hg",
+"year": "2016",
+"number": "853",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 853/2016 pentru modificarea Normelor metodologice privind asistenţa medicală transfrontalieră, aprobate prin Hotărârea Guvernului nr. 304/2014",
+"short": "HG nr. 853/2016",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2016-11-23",
+"latest": "2016-11-23",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/183870"
+},
+{
 "slug": "hg-855-2016",
 "path": "hg/2016/855",
 "kind": "hg",
@@ -209729,6 +209882,23 @@
 "from": "2016-12-07",
 "latest": "2018-06-18",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/184355"
+},
+{
+"slug": "hg-868-2016",
+"path": "hg/2016/868",
+"kind": "hg",
+"year": "2016",
+"number": "868",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 868/2016 privind înscrierea în inventarul centralizat al bunurilor din domeniul public al statului şi darea în administrare Regiei Autonome Tehnologii pentru Energia Nucleară - RATEN, aflată sub autoritatea Ministerului Energiei, a unor bunuri aflate în domeniul public al statului",
+"short": "HG nr. 868/2016",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2016-12-06",
+"latest": "2016-12-06",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/184371"
 },
 {
 "slug": "hg-869-2016",
@@ -210139,6 +210309,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/184584"
 },
 {
+"slug": "hg-902-2016",
+"path": "hg/2016/902",
+"kind": "hg",
+"year": "2016",
+"number": "902",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 902/2016 pentru modificarea Regulamentului de organizare şi funcţionare a Agenţiei Naţionale pentru Locuinţe, aprobat prin Hotărârea Guvernului nr. 620/2001",
+"short": "HG nr. 902/2016",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2016-12-16",
+"latest": "2016-12-16",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/184812"
+},
+{
 "slug": "hg-903-2016",
 "path": "hg/2016/903",
 "kind": "hg",
@@ -210343,6 +210530,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/184814"
 },
 {
+"slug": "hg-917-2016",
+"path": "hg/2016/917",
+"kind": "hg",
+"year": "2016",
+"number": "917",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 917/2016 pentru aprobarea amplasamentului şi declanşarea procedurii de expropriere a imobilelor proprietate privată care constituie coridorul de expropriere al obiectivului de investiţii \"Trecerea la tensiunea de 400 kV a axului Porţile de Fier - Reşiţa - Timişoara - Săcălaz - Arad/LEA 400 kV Porţile de Fier - (Anina) - Reşiţa\"",
+"short": "HG nr. 917/2016",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2016-12-20",
+"latest": "2016-12-20",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/184927"
+},
+{
 "slug": "hg-918-2016",
 "path": "hg/2016/918",
 "kind": "hg",
@@ -210477,6 +210681,23 @@
 "from": "2016-12-15",
 "latest": "2016-12-15",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/184642"
+},
+{
+"slug": "hg-930-2016",
+"path": "hg/2016/930",
+"kind": "hg",
+"year": "2016",
+"number": "930",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 930/2016 privind modificarea Hotărârii Guvernului nr. 1.030/2009 pentru aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Legătura reţelei de metrou cu Aeroportul Internaţional Henri Coandă - Otopeni\"",
+"short": "HG nr. 930/2016",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2016-12-15",
+"latest": "2016-12-15",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/184644"
 },
 {
 "slug": "hg-932-2016",
@@ -211480,6 +211701,23 @@
 "from": "2016-12-29",
 "latest": "2016-12-29",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/185187"
+},
+{
+"slug": "hg-1017-2016",
+"path": "hg/2016/1017",
+"kind": "hg",
+"year": "2016",
+"number": "1017",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 1017/2016 pentru aprobarea amendamentului convenit între Guvernul României şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare, prin scrisorile semnate la 31 august 2016 şi la 2 noiembrie 2016 la Bucureşti, la Acordul de împrumut (Proiectul de modernizare a administraţiei fiscale) dintre România şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare, semnat la Bucureşti la 8 mai 2013",
+"short": "HG nr. 1017/2016",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2017-01-06",
+"latest": "2017-01-06",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/185515"
 },
 {
 "slug": "hg-1018-2016",
@@ -213080,6 +213318,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/187856"
 },
 {
+"slug": "hg-165-2017",
+"path": "hg/2017/165",
+"kind": "hg",
+"year": "2017",
+"number": "165",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 165/2017 privind exercitarea, cu caracter temporar, prin detaşare în condiţiile legii, a funcţiei publice de prefect al judeţului Alba de către domnul Hălălai Dănuţ-Emil",
+"short": "HG nr. 165/2017",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2017-04-03",
+"latest": "2017-04-03",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/187885"
+},
+{
 "slug": "hg-167-2017",
 "path": "hg/2017/167",
 "kind": "hg",
@@ -213403,6 +213658,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/188041"
 },
 {
+"slug": "hg-205-2017",
+"path": "hg/2017/205",
+"kind": "hg",
+"year": "2017",
+"number": "205",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 205/2017 privind aprobarea plăţii contribuţiei României la bugetul Secretariatului Consiliului Cooperării Regionale",
+"short": "HG nr. 205/2017",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2017-04-07",
+"latest": "2017-04-07",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/188042"
+},
+{
 "slug": "hg-214-2017",
 "path": "hg/2017/214",
 "kind": "hg",
@@ -213469,6 +213741,23 @@
 "from": "2017-04-13",
 "latest": "2017-04-13",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/188321"
+},
+{
+"slug": "hg-218-2017",
+"path": "hg/2017/218",
+"kind": "hg",
+"year": "2017",
+"number": "218",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 218/2017 privind revocarea şi numirea unui membru în Consiliul director al Fondului Român de Dezvoltare Socială şi pentru modificarea anexei la Hotărârea Guvernului nr. 350/2013 privind numirea membrilor Consiliului director al Fondului Român de Dezvoltare Socială",
+"short": "HG nr. 218/2017",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2017-04-13",
+"latest": "2017-04-13",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/188339"
 },
 {
 "slug": "hg-219-2017",
@@ -213896,6 +214185,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/189124"
 },
 {
+"slug": "hg-260-2017",
+"path": "hg/2017/260",
+"kind": "hg",
+"year": "2017",
+"number": "260",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 260/2017 privind trecerea unui imobil, aflat în administrarea Regiei Autonome ”Administraţia Patrimoniului Protocolului de Stat”, din domeniul privat al statului în domeniul public al statului, atribuirea destinaţiei de reşedinţă oficială pentru acest imobil şi pentru modificarea şi completarea unor acte normative",
+"short": "HG nr. 260/2017",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2017-04-28",
+"latest": "2017-04-28",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/188656"
+},
+{
 "slug": "hg-261-2017",
 "path": "hg/2017/261",
 "kind": "hg",
@@ -214151,6 +214457,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/188759"
 },
 {
+"slug": "hg-285-2017",
+"path": "hg/2017/285",
+"kind": "hg",
+"year": "2017",
+"number": "285",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 285/2017 pentru aprobarea Tezelor prealabile ale proiectului Codului finanţelor publice locale",
+"short": "HG nr. 285/2017",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2017-05-10",
+"latest": "2017-05-10",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/189153"
+},
+{
 "slug": "hg-286-2017",
 "path": "hg/2017/286",
 "kind": "hg",
@@ -214268,6 +214591,23 @@
 "from": "2017-05-11",
 "latest": "2017-05-11",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/189187"
+},
+{
+"slug": "hg-301-2017",
+"path": "hg/2017/301",
+"kind": "hg",
+"year": "2017",
+"number": "301",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 301/2017 privind înscrierea în inventarul centralizat al bunurilor din domeniul public al statului şi darea în administrarea Ministerului Apărării Naţionale a imobilului 641, situat în municipiul Timişoara, judeţul Timiş",
+"short": "HG nr. 301/2017",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2017-05-11",
+"latest": "2017-05-11",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/189195"
 },
 {
 "slug": "hg-303-2017",
@@ -214593,6 +214933,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/189497"
 },
 {
+"slug": "hg-330-2017",
+"path": "hg/2017/330",
+"kind": "hg",
+"year": "2017",
+"number": "330",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 330/2017 privind reorganizarea Staţiunii de Cercetare-Dezvoltare pentru Viticultură şi Vinificaţie Bujoru şi modificarea anexei nr. 3 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului",
+"short": "HG nr. 330/2017",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2017-06-06",
+"latest": "2017-06-06",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/189935"
+},
+{
 "slug": "hg-333-2017",
 "path": "hg/2017/333",
 "kind": "hg",
@@ -214608,6 +214965,23 @@
 "from": "2017-05-19",
 "latest": "2017-05-19",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/189410"
+},
+{
+"slug": "hg-335-2017",
+"path": "hg/2017/335",
+"kind": "hg",
+"year": "2017",
+"number": "335",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 335/2017 privind desfiinţarea Centrului de Sănătate Bălţeşti, judeţul Prahova",
+"short": "HG nr. 335/2017",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2017-05-24",
+"latest": "2017-05-24",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/189491"
 },
 {
 "slug": "hg-336-2017",
@@ -214780,6 +215154,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/189963"
 },
 {
+"slug": "hg-346-2017",
+"path": "hg/2017/346",
+"kind": "hg",
+"year": "2017",
+"number": "346",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 346/2017 privind înscrierea unui imobil situat în comuna Moroeni, judeţul Dâmboviţa, în inventarul centralizat al bunurilor din domeniul public al statului şi darea acestuia în administrarea Ministerului Apărării Naţionale, pentru actualizarea valorii de inventar a imobilului 1169 aflat în domeniul public al statului şi în administrarea Ministerului Apărării Naţionale şi pentru trecerea unei părţi din acesta, constituită din construcţii, din domeniul public în domeniul privat al statului, în vederea scoaterii din funcţiune şi casării acestora",
+"short": "HG nr. 346/2017",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2017-06-07",
+"latest": "2017-06-07",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/189954"
+},
+{
 "slug": "hg-347-2017",
 "path": "hg/2017/347",
 "kind": "hg",
@@ -214829,6 +215220,23 @@
 "from": "2017-05-22",
 "latest": "2017-05-22",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/279225"
+},
+{
+"slug": "hg-353-2017",
+"path": "hg/2017/353",
+"kind": "hg",
+"year": "2017",
+"number": "353",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 353/2017 pentru modificarea şi completarea Hotărârii Guvernului nr. 700/2012 privind organizarea şi funcţionarea Autorităţii Naţionale pentru Protecţia Consumatorilor şi pentru modificarea Hotărârii Guvernului nr. 27/2017 privind organizarea şi funcţionarea Ministerului Economiei",
+"short": "HG nr. 353/2017",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2017-05-30",
+"latest": "2017-05-30",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/189590"
 },
 {
 "slug": "hg-357-2017",
@@ -215067,6 +215475,23 @@
 "from": "2017-06-09",
 "latest": "2017-06-09",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/190018"
+},
+{
+"slug": "hg-381-2017",
+"path": "hg/2017/381",
+"kind": "hg",
+"year": "2017",
+"number": "381",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 381/2017 privind aprobarea plăţii cotizaţiei anuale de participare a României în calitate de membru afiliat la Asociaţia Internaţională a Securităţii Sociale (ISSA) pentru anul 2017",
+"short": "HG nr. 381/2017",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2017-05-31",
+"latest": "2017-05-31",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/189671"
 },
 {
 "slug": "hg-382-2017",
@@ -215577,6 +216002,23 @@
 "from": "2017-06-21",
 "latest": "2017-06-21",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/190275"
+},
+{
+"slug": "hg-423-2017",
+"path": "hg/2017/423",
+"kind": "hg",
+"year": "2017",
+"number": "423",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 423/2017 privind reorganizarea Staţiunii de Cercetare-Dezvoltare pentru Combaterea Eroziunii Solului „Mircea Moţoc“ Perieni, prin desfiinţarea Centrului de Cercetare-Dezvoltare pentru Combaterea Eroziunii Solului Perieni, şi modificarea anexei nr. 3 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului",
+"short": "HG nr. 423/2017",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2017-06-22",
+"latest": "2017-06-22",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/190297"
 },
 {
 "slug": "hg-424-2017",
