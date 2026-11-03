@@ -53294,6 +53294,69 @@
    ]
   },
   {
+   "slug": "oug-120-2002",
+   "path": "oug/2002/120",
+   "short": "OUG nr. 120/2002",
+   "title": "Ordonanța de urgență a Guvernului nr. 120/2002",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/250987",
+   "versions": [
+    {
+     "from": "2002-10-04",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/38749",
+     "sha256": "0621e80b70eba9d0435d9d9a94ba638f44dcb2877dfedabfb55d82b0784bc26a"
+    },
+    {
+     "from": "2003-12-11",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/48426",
+     "sha256": "4b05fac2279e3f5da7006b26027c8c86a3b39c1044539b9ac49b6ddc4c35a8e9"
+    },
+    {
+     "from": "2004-08-27",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54724",
+     "sha256": "ba48ed23e5cfdadfe3bc32396ecf1235d83869e675e8a3c8136f4d39e33e968b"
+    },
+    {
+     "from": "2005-01-25",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/58817",
+     "sha256": "929c167d6c1464e698f44bb438c2cb8a3cb9dea9df7f16c9b05f393a966bfd46"
+    },
+    {
+     "from": "2005-07-22",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/64110",
+     "sha256": "8943aa7d7abbac7c537e069833f0501dd65457fbf095e26874ec4c6290e51dfa"
+    },
+    {
+     "from": "2007-07-28",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84018",
+     "sha256": "b43a4ab4693a063e707f414ac392ae68edb2b0afc42a0522b17fc7c5cafb80bc"
+    },
+    {
+     "from": "2007-08-07",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181856",
+     "sha256": "7b4bc02937765cf070c083618567125992bfda803b198371d0ce71dba3314f33"
+    },
+    {
+     "from": "2008-01-29",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/89146",
+     "sha256": "9e287c719d9fd74c33ee2cbd6ed0f59fdeacf725f3bbb27315979e2403a38d76"
+    },
+    {
+     "from": "2016-09-20",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181857",
+     "sha256": "b0ea5f89920ef7a6ecd68c0ec3d1f005d70b2624407cc596862680a122027faa"
+    }
+   ]
+  },
+  {
    "slug": "oug-120-2005",
    "path": "oug/2005/120",
    "short": "OUG nr. 120/2005",

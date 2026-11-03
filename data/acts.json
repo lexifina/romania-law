@@ -32574,6 +32574,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/220190"
 },
 {
+"slug": "oug-120-2002",
+"path": "oug/2002/120",
+"kind": "oug",
+"year": "2002",
+"number": "120",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 120/2002",
+"short": "OUG nr. 120/2002",
+"code": null,
+"status": "in force",
+"versions": 9,
+"from": "2002-10-04",
+"latest": "2016-09-20",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/250987"
+},
+{
 "slug": "oug-121-2002",
 "path": "oug/2002/121",
 "kind": "oug",

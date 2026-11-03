@@ -1,6 +1,6 @@
 # Every act in this repository
 
-6075 acts, 17,448 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+6076 acts, 17,457 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -1822,7 +1822,7 @@
 | Legea nr. 241/2025 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 31/2002 privind interzicerea organizațiilor, simbolurilor și faptelor cu caracter fascist, legionar, rasist sau xenofob și a promovării cultului persoanelor vinovate de săvârșirea unor infracțiuni de genocid contra umanității și de crime de război, precum și pentru modificarea Legii nr. 157/2018 privind unele măsuri pentru prevenirea și combaterea antisemitismului | [`lege/2025/241/`](lege/2025/241/) | amending act | 1 | 2025-12-27 | 2025-12-27 |
 | Legea nr. 245/2025 pentru modificarea art. 32 alin. (7) din Legea nr. 273/2006 privind finanțele publice locale | [`lege/2025/245/`](lege/2025/245/) | amending act | 1 | 2026-01-01 | 2026-01-01 |
 
-## Emergency ordinances (OUG) (1483, of which 521 amending acts)
+## Emergency ordinances (OUG) (1484, of which 521 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -1956,6 +1956,7 @@
 | Ordonanța de urgență a Guvernului nr. 104/2002 | [`oug/2002/104/`](oug/2002/104/) | in force | 5 | 2002-09-11 | 2014-02-01 |
 | Ordonanța de urgență a Guvernului nr. 107/2002 privind înființarea Administrației Naționale "Apele Române" | [`oug/2002/107/`](oug/2002/107/) | in force | 17 | 2002-09-20 | 2024-10-25 |
 | Ordonanța de urgență a Guvernului nr. 113/2002 | [`oug/2002/113/`](oug/2002/113/) | in force | 10 | 2002-10-28 | 2019-12-16 |
+| Ordonanța de urgență a Guvernului nr. 120/2002 | [`oug/2002/120/`](oug/2002/120/) | in force | 9 | 2002-10-04 | 2016-09-20 |
 | Ordonanța de urgență a Guvernului nr. 121/2002 pentru modificarea Legii nr. 416/2001 privind venitul minim garantat | [`oug/2002/121/`](oug/2002/121/) | amending act | 2 | 2002-10-03 | 2003-01-20 |
 | Ordonanța de urgență a Guvernului nr. 124/2002 | [`oug/2002/124/`](oug/2002/124/) | in force | 2 | 2002-10-10 | 2003-01-20 |
 | Ordonanța de urgență a Guvernului nr. 139/2002 | [`oug/2002/139/`](oug/2002/139/) | in force | 3 | 2002-10-29 | 2019-05-13 |
