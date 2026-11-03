@@ -43811,6 +43811,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/265498"
 },
 {
+"slug": "legea-53-2023",
+"path": "lege/2023/53",
+"kind": "lege",
+"year": "2023",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 53/2023 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 10/2022 pentru modificarea şi completarea Legii nr. 346/2004 privind stimularea înfiinţării şi dezvoltării întreprinderilor mici şi mijlocii",
+"short": "Legea nr. 53/2023",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2023-03-09",
+"latest": "2023-03-09",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/265500"
+},
+{
 "slug": "legea-54-2023",
 "path": "lege/2023/54",
 "kind": "lege",
@@ -292827,6 +292844,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/261470"
 },
 {
+"slug": "hg-1405-2022",
+"path": "hg/2022/1405",
+"kind": "hg",
+"year": "2022",
+"number": "1405",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 1405/2022 pentru aprobarea Normelor metodologice privind evaluarea, contractarea, finanţarea şi monitorizarea programelor-nucleu de cercetare-dezvoltare",
+"short": "HG nr. 1405/2022",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2022-11-22",
+"latest": "2022-11-22",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/261594"
+},
+{
 "slug": "hg-1407-2022",
 "path": "hg/2022/1407",
 "kind": "hg",
@@ -293080,6 +293114,23 @@
 "from": "2022-12-14",
 "latest": "2022-12-14",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/262449"
+},
+{
+"slug": "hg-1423-2022",
+"path": "hg/2022/1423",
+"kind": "hg",
+"year": "2022",
+"number": "1423",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 1423/2022 pentru stabilirea datei până la care se aplică prevederile Hotărârii Guvernului nr. 1.179/2014 privind instituirea unei scheme de ajutor de stat în sectorul creşterii animalelor, precum şi pentru stabilirea unor măsuri de aplicare a acesteia",
+"short": "HG nr. 1423/2022",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2022-11-29",
+"latest": "2022-11-29",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/261937"
 },
 {
 "slug": "hg-1429-2022",
@@ -294559,6 +294610,23 @@
 "from": "2022-12-28",
 "latest": "2022-12-28",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/263234"
+},
+{
+"slug": "hg-1553-2022",
+"path": "hg/2022/1553",
+"kind": "hg",
+"year": "2022",
+"number": "1553",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 1553/2022 pentru modificarea şi completarea Hotărârii Guvernului nr. 423/2022 privind aprobarea programelor naţionale de sănătate",
+"short": "HG nr. 1553/2022",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2022-12-29",
+"latest": "2022-12-29",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/263274"
 },
 {
 "slug": "hg-1554-2022",
@@ -296616,6 +296684,23 @@
 "from": "2023-03-02",
 "latest": "2023-03-02",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/265415"
+},
+{
+"slug": "hg-165-2023",
+"path": "hg/2023/165",
+"kind": "hg",
+"year": "2023",
+"number": "165",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 165/2023 pentru alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2023, pentru suplimentarea bugetului Ministerului Afacerilor Interne, în scopul instruirii personalului de specialitate din Ucraina pe linia acordării primului ajutor calificat",
+"short": "HG nr. 165/2023",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2023-03-01",
+"latest": "2023-03-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/265406"
 },
 {
 "slug": "hg-166-2023",

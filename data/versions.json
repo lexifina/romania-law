@@ -141374,6 +141374,21 @@
    ]
   },
   {
+   "slug": "hg-1405-2022",
+   "path": "hg/2022/1405",
+   "short": "HG nr. 1405/2022",
+   "title": "Hotărârea Guvernului nr. 1405/2022 pentru aprobarea Normelor metodologice privind evaluarea, contractarea, finanţarea şi monitorizarea programelor-nucleu de cercetare-dezvoltare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/261594",
+   "versions": [
+    {
+     "from": "2022-11-22",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/261594",
+     "sha256": "a88d5cd24e65ff66aed028adcb37c8d228911d5949294d8194c6b5c8a5a5f113"
+    }
+   ]
+  },
+  {
    "slug": "hg-1405-2024",
    "path": "hg/2024/1405",
    "short": "HG nr. 1405/2024",
@@ -142690,6 +142705,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/99691",
      "sha256": "91dc9809f1fb95dc2591d82f4fce9490fe8f34ff8ea4e5f0bd952ffcb4ee2ab5"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1423-2022",
+   "path": "hg/2022/1423",
+   "short": "HG nr. 1423/2022",
+   "title": "Hotărârea Guvernului nr. 1423/2022 pentru stabilirea datei până la care se aplică prevederile Hotărârii Guvernului nr. 1.179/2014 privind instituirea unei scheme de ajutor de stat în sectorul creşterii animalelor, precum şi pentru stabilirea unor măsuri de aplicare a acesteia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/261937",
+   "versions": [
+    {
+     "from": "2022-11-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/261937",
+     "sha256": "7d8856f9dd0b424d88c626bc37275450445ae27a8c34a20ebcd0ff67fa7462db"
     }
    ]
   },
@@ -150515,6 +150545,21 @@
    ]
   },
   {
+   "slug": "hg-1553-2022",
+   "path": "hg/2022/1553",
+   "short": "HG nr. 1553/2022",
+   "title": "Hotărârea Guvernului nr. 1553/2022 pentru modificarea şi completarea Hotărârii Guvernului nr. 423/2022 privind aprobarea programelor naţionale de sănătate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/263274",
+   "versions": [
+    {
+     "from": "2022-12-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/263274",
+     "sha256": "80489c8b234d3d0457607c25628ba583acc4e134bb2db073cd63291d9f2d83b9"
+    }
+   ]
+  },
+  {
    "slug": "hg-1554-2022",
    "path": "hg/2022/1554",
    "short": "HG nr. 1554/2022",
@@ -154690,6 +154735,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/238665",
      "sha256": "2bd93facf6b7f382f4474327da06c8146596ea302f0763f8bc3b47458fe50883"
+    }
+   ]
+  },
+  {
+   "slug": "hg-165-2023",
+   "path": "hg/2023/165",
+   "short": "HG nr. 165/2023",
+   "title": "Hotărârea Guvernului nr. 165/2023 pentru alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2023, pentru suplimentarea bugetului Ministerului Afacerilor Interne, în scopul instruirii personalului de specialitate din Ucraina pe linia acordării primului ajutor calificat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/265406",
+   "versions": [
+    {
+     "from": "2023-03-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/265406",
+     "sha256": "acb9a820f8d1fe8f8c7f11a7867f941fe33adae01992a0698eba30c94dfb5886"
     }
    ]
   },
@@ -350683,6 +350743,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/146164",
      "sha256": "5561b603b6f08718619377845bfab6da86143a0693dd02196a2da8e0f52e486d"
+    }
+   ]
+  },
+  {
+   "slug": "legea-53-2023",
+   "path": "lege/2023/53",
+   "short": "Legea nr. 53/2023",
+   "title": "Legea nr. 53/2023 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 10/2022 pentru modificarea şi completarea Legii nr. 346/2004 privind stimularea înfiinţării şi dezvoltării întreprinderilor mici şi mijlocii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/265500",
+   "versions": [
+    {
+     "from": "2023-03-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/265500",
+     "sha256": "e9df6628b6f34f4a656736b25e4b8c0f428e690c54111919422db972184c6645"
     }
    ]
   },
