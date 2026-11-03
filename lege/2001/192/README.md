@@ -168,3 +168,33 @@ Act id: `legea-192-2001` (tags `legea-192-2001/<day>`; `python tools/on.py <day>
 - Legea nr. 192/2001: the form of 4 July 2004 prints art. 19, art. 27, art. 33, art. 35, art. 36, art. 37 and art. 85 with changed wording (for example "animale" as "vietuitoare"), with no note on those articles; Legea nr. 298/2004, read as published (it prints "viețuitoare" and amends this law throughout, and the notes of the same form name it for the other articles), is credited.
 - Legea nr. 192/2001: the portal editorial notes printed as paragraphs of an article (on a Constitutional Court ruling, a rectification, a provision put back in force) are not text: 51 such paragraphs across all forms, for example «* Conform art. 1 alin. (1) din Ordonanța de urgenta a Guvern», «* Potrivit art. 1^7 din Ordonanța Guvernului nr. 42/1997 pri», «*) Conform art. II din LEGEA nr. 298 din 28 iunie 2004, publ».
 - Legea nr. 192/2001: 80 changed article(s) with no note naming a law, committed as the publisher's: 2003-11-28 art-001, 2003-11-28 art-002, 2003-11-28 art-003, 2003-11-28 art-004, 2003-11-28 art-006, 2003-11-28 art-007, 2003-11-28 art-008, 2003-11-28 art-009, 2003-11-28 art-010, 2003-11-28 art-011, 2003-11-28 art-012, 2003-11-28 art-013, 2003-11-28 art-014, 2003-11-28 art-015, 2003-11-28 art-016, 2003-11-28 art-017, 2003-11-28 art-018, 2003-11-28 art-020, 2003-11-28 art-021, 2003-11-28 art-022, 2003-11-28 art-024, 2003-11-28 art-025, 2003-11-28 art-026, 2003-11-28 art-027, 2003-11-28 art-029, 2003-11-28 art-030, 2003-11-28 art-031, 2003-11-28 art-032, 2003-11-28 art-033, 2003-11-28 art-034, 2003-11-28 art-035, 2003-11-28 art-036, 2003-11-28 art-037, 2003-11-28 art-038, 2003-11-28 art-039, 2003-11-28 art-040, 2003-11-28 art-041, 2003-11-28 art-042, 2003-11-28 art-043, 2003-11-28 art-044, 2003-11-28 art-045, 2003-11-28 art-046, 2003-11-28 art-047, 2003-11-28 art-048, 2003-11-28 art-049, 2003-11-28 art-050, 2003-11-28 art-051, 2003-11-28 art-052, 2003-11-28 art-053, 2003-11-28 art-054, 2003-11-28 art-055, 2003-11-28 art-056, 2003-11-28 art-057, 2003-11-28 art-058, 2003-11-28 art-059, 2003-11-28 art-060, 2003-11-28 art-061, 2003-11-28 art-063, 2003-11-28 art-064, 2003-11-28 art-065, 2003-11-28 art-066, 2003-11-28 art-067, 2003-11-28 art-068, 2003-11-28 art-069, 2003-11-28 art-070, 2003-11-28 art-071, 2003-11-28 art-072, 2003-11-28 art-073, 2003-11-28 art-074, 2003-11-28 art-076, 2003-11-28 art-077, 2003-11-28 art-078, 2003-11-28 art-079, 2003-11-28 art-080, 2003-11-28 art-081, 2003-11-28 art-082, 2003-11-28 art-083, 2003-11-28 art-084, 2003-11-28 art-085, 2003-11-28 art-086.
+
+## Credits corrected
+
+These changes were first published credited to another law. The words are unchanged; `git blame` still names the commit that wrote them, and `data/credits.csv` lists every corrected credit.
+
+- `art-008.md`, in force from 2003-09-02: OUG nr. 76/2002 (first published as no law named).
+- `art-009.md`, in force from 2003-09-02: OUG nr. 76/2002 (first published as no law named).
+- `art-010.md`, in force from 2003-09-02: OUG nr. 76/2002 (first published as no law named).
+- `art-011.md`, in force from 2003-09-02: OUG nr. 76/2002 (first published as no law named).
+- `art-012.md`, in force from 2003-09-02: OUG nr. 76/2002 (first published as no law named).
+- `art-013.md`, in force from 2003-09-02: OUG nr. 76/2002 (first published as no law named).
+- `art-042.md`, in force from 2003-09-02: OUG nr. 76/2002 (first published as no law named).
+- `art-060.md`, in force from 2003-09-02: OUG nr. 76/2002 (first published as no law named).
+- `art-061.md`, in force from 2003-09-02: OUG nr. 76/2002 (first published as no law named).
+- `art-062.md`, in force from 2003-09-02: OUG nr. 76/2002 (first published as no law named).
+- `art-069.md`, in force from 2003-09-02: OUG nr. 76/2002 (first published as no law named).
+- `art-080.md`, in force from 2003-09-02: OUG nr. 76/2002 (first published as no law named).
+- `art-081.md`, in force from 2003-09-02: OUG nr. 76/2002 (first published as no law named).
+- `art-082.md`, in force from 2003-09-02: OUG nr. 76/2002 (first published as no law named).
+- `art-083.md`, in force from 2003-09-02: OUG nr. 76/2002 (first published as no law named).
+- `art-084.md`, in force from 2003-09-02: OUG nr. 76/2002 (first published as no law named).
+- `art-085.md`, in force from 2003-09-02: OUG nr. 76/2002 (first published as no law named).
+- `art-086.md`, in force from 2003-09-02: OUG nr. 76/2002 (first published as no law named).
+- `art-019.md`, in force from 2004-07-04: Legea nr. 298/2004 (first published as no law named).
+- `art-027.md`, in force from 2004-07-04: Legea nr. 298/2004 (first published as no law named).
+- `art-033.md`, in force from 2004-07-04: Legea nr. 298/2004 (first published as no law named).
+- `art-035.md`, in force from 2004-07-04: Legea nr. 298/2004 (first published as no law named).
+- `art-036.md`, in force from 2004-07-04: Legea nr. 298/2004 (first published as no law named).
+- `art-037.md`, in force from 2004-07-04: Legea nr. 298/2004 (first published as no law named).
+- `art-085.md`, in force from 2004-07-04: Legea nr. 298/2004 (first published as no law named).
