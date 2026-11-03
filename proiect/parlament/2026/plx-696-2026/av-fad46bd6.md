@@ -1,0 +1,45 @@
+7c-6/813/3 noiembrie 2026
+
+PARLAMENTUL ROMÂNIEI
+CAMERA DEPUTAȚILOR
+
+Comisia pentru drepturile omului, culte                                                      București, 3 noiembrie 2026
+și problemele minorităților naționale                                                                                    PLx.696/2026
+
+Domnului deputat
+
+Adrian SOLOMON,
+Președintele Comisiei pentru muncă și protecție socială
+
+Domnului deputat
+
+Liviu-Bogdan CIUCĂ,
+Președintele Comisiei juridice, de disciplină și imunități
+
+AVIZ
+
+asupra Proiectului de Lege pentru modificarea și completarea Legii nr.265/2022 privind registrul
+comerțului și pentru modificarea și completarea altor acte normative cu incidență asupra înregistrării
+în registrul comerțului
+
+În  conformitate  cu  prevederile  art.95 din Regulamentul Camerei Deputaților, Biroul Permanent
+a trimis Comisiei pentru drepturile omului, culte și problemele minorităților  naționale, cu adresa nr.
+PLx.696/2026 din 26 octombrie, spre dezbatere și avizare, Proiectul de Lege pentru modificarea și
+completarea Legii nr.265/2022 privind registrul comerțului și pentru modificarea și completarea altor
+acte normative cu incidență asupra înregistrării în registrul comerțului, înregistrat cu nr.7c-6/813 din 26
+octombrie 2026.
+
+Camera Deputaților este Cameră decizională.
+
+În ședința din 3 noiembrie 2026, membrii comisiei au examinat inițiativa legislativă, în
+conformitate cu prevederile art.62 din Regulamentul Camerei Deputaților, și în urma  dezbaterilor  au
+hotărât, cu majoritate de voturi, să  îi acorde aviz favorabil.
+
+În raport de obiectul și conținutul său, proiectul de lege face parte din categoria legilor ordinare.
+
+PREȘEDINTE,
+
+Deputat
+Nicolae PĂUN
+
+Întocmit: Expert parlamentar Adriana Câmpeanu
