@@ -1,6 +1,6 @@
 # Every act in this repository
 
-13424 acts, 27,011 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+13431 acts, 27,018 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -4716,7 +4716,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (8717, of which 3930 amending acts)
+## Government decisions (HG) (8724, of which 3934 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -5877,6 +5877,7 @@
 | Hotărârea Guvernului nr. 575/2008 privind transmiterea unui imobil din domeniul public al statului şi din administrarea Ministerului Internelor şi Reformei Administrative în domeniul public al comunei Urziceni şi în administrarea Consiliului Local al Comunei Urziceni, judeţul Satu Mare | [`hg/2008/575/`](hg/2008/575/) | in force | 1 | 2008-06-05 | 2008-06-05 |
 | Hotărârea Guvernului nr. 576/2008 privind încadrarea în categoria funcţională a drumurilor judeţene a unor drumuri şi sectoare de drumuri locale, completarea traseului şi lungimii unor drumuri judeţene clasate, precum şi modificarea lungimii unor drumuri judeţene şi comunale situate în judeţul Braşov | [`hg/2008/576/`](hg/2008/576/) | in force | 1 | 2008-06-04 | 2008-06-04 |
 | Hotărârea Guvernului nr. 577/2008 | [`hg/2008/577/`](hg/2008/577/) | in force | 1 | 2008-06-12 | 2008-06-12 |
+| Hotărârea Guvernului nr. 580/2008 pentru aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii "Reabilitare DN 79 Arad-Oradea km 4+150 - km 115+923" | [`hg/2008/580/`](hg/2008/580/) | amending act | 1 | 2008-07-10 | 2008-07-10 |
 | Hotărârea Guvernului nr. 583/2008 privind unele măsuri de utilizare a Fondului elveţian de contrapartidă constituit în temeiul Acordului dintre Guvernul României şi Guvernul Confederaţiei Elveţiene privind acordarea asistenţei financiare, semnat la Bucureşti la 26 noiembrie 1992, modificat prin Acordul dintre Guvernul României şi Guvernul Confederaţiei Elveţiene, semnat la Bucureşti la 14 decembrie 2001 | [`hg/2008/583/`](hg/2008/583/) | in force | 1 | 2008-06-20 | 2008-06-20 |
 | Hotărârea Guvernului nr. 584/2008 privind suplimentarea bugetului Ministerului Economiei şi Finanţelor din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2008 | [`hg/2008/584/`](hg/2008/584/) | in force | 1 | 2008-06-04 | 2008-06-04 |
 | Hotărârea Guvernului nr. 585/2008 privind suplimentarea bugetului Ministerului Sănătăţii Publice din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2008 | [`hg/2008/585/`](hg/2008/585/) | in force | 1 | 2008-06-05 | 2008-06-05 |
@@ -5953,14 +5954,20 @@
 | Hotărârea Guvernului nr. 695/2008 pentru completarea Hotărârii Guvernului nr. 1.733/2006 privind declanşarea procedurilor de expropriere a imobilelor proprietate privată situate pe amplasamentul lucrării de utilitate publică "Varianta de ocolire Cluj Est" | [`hg/2008/695/`](hg/2008/695/) | amending act | 1 | 2008-07-07 | 2008-07-07 |
 | Hotărârea Guvernului nr. 696/2008 pentru aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii "Drum expres Arad-Oradea" | [`hg/2008/696/`](hg/2008/696/) | amending act | 1 | 2008-07-09 | 2008-07-09 |
 | Hotărârea Guvernului nr. 697/2008 pentru aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii "Drum expres Legătură rapidă la Drumul Nordului" | [`hg/2008/697/`](hg/2008/697/) | amending act | 1 | 2008-07-09 | 2008-07-09 |
+| Hotărârea Guvernului nr. 700/2008 privind aprobarea bilanţului general al Trezoreriei Statului şi a contului de execuţie al bugetului Trezoreriei Statului pe anul 2007 | [`hg/2008/700/`](hg/2008/700/) | amending act | 1 | 2008-07-10 | 2008-07-10 |
+| Hotărârea Guvernului nr. 702/2008 privind încadrarea în categoria funcţională a drumurilor judeţene a unor drumuri şi sectoare de drumuri locale, completarea traseului şi lungimii unor drumuri judeţene clasate, încadrarea în categoria funcţională a drumurilor comunale a unor drumuri locale, precum şi modificarea lungimii unor drumuri judeţene şi comunale, situate în judeţul Braşov | [`hg/2008/702/`](hg/2008/702/) | in force | 1 | 2008-07-10 | 2008-07-10 |
+| Hotărârea Guvernului nr. 704/2008 privind transmiterea unui imobil din domeniul public al statului şi din administrarea Ministerului Internelor şi Reformei Administrative - Inspectoratul de Poliţie al Judeţului Dolj în domeniul public al comunei Cetate şi în administrarea Consiliului Local al Comunei Cetate, judeţul Dolj | [`hg/2008/704/`](hg/2008/704/) | in force | 1 | 2008-07-10 | 2008-07-10 |
+| Hotărârea Guvernului nr. 705/2008 pentru modificarea art. 7 lit. a) din Hotărârea Guvernului nr. 475/2007 privind aprobarea Planului naţional de cercetare-dezvoltare şi inovare II, pentru perioada 2007-2013 | [`hg/2008/705/`](hg/2008/705/) | amending act | 1 | 2008-07-10 | 2008-07-10 |
 | Hotărârea Guvernului nr. 708/2008 privind suplimentarea bugetului Ministerului Internelor şi Reformei Administrative din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2008 | [`hg/2008/708/`](hg/2008/708/) | in force | 1 | 2008-07-09 | 2008-07-09 |
 | Hotărârea Guvernului nr. 709/2008 privind recunoaşterea Fundaţiei "Institutul Social Democrat Ovidiu Şincai" ca fiind de utilitate publică | [`hg/2008/709/`](hg/2008/709/) | in force | 1 | 2008-07-09 | 2008-07-09 |
 | Hotărârea Guvernului nr. 711/2008 pentru aprobarea unor norme speciale privind caracterul şi mărimea zonelor de protecţie sanitară şi hidrogeologică în cazul obiectivului de investiţii "Pasaj pe şoseaua Pipera Tunari", finanţat în cadrul Programului naţional PHARE 2004 "Coeziune economică şi socială" | [`hg/2008/711/`](hg/2008/711/) | amending act | 1 | 2008-07-08 | 2008-07-08 |
+| Hotărârea Guvernului nr. 712/2008 pentru aprobarea Regulamentului privind înfiinţarea şi funcţionarea centrelor de consultanţă şi informare a consumatorilor, precum şi modul de constituire a surselor de finanţare a acestora | [`hg/2008/712/`](hg/2008/712/) | amending act | 1 | 2008-07-10 | 2008-07-10 |
 | Hotărârea Guvernului nr. 713/2008 pentru aprobarea cofinanţării proiectului ROE/011/07 "Sistem de management de date pentru situri contaminate - Botoşani, România", aprobat în cadrul Programului de cooperare dintre Guvernul Flandrei şi Europa Centrală şi de Est - etapa 2007 | [`hg/2008/713/`](hg/2008/713/) | amending act | 1 | 2008-07-10 | 2008-07-10 |
 | Hotărârea Guvernului nr. 714/2008 | [`hg/2008/714/`](hg/2008/714/) | in force | 1 | 2008-07-08 | 2008-07-08 |
 | Hotărârea Guvernului nr. 715/2008 | [`hg/2008/715/`](hg/2008/715/) | in force | 1 | 2008-08-07 | 2008-08-07 |
 | Hotărârea Guvernului nr. 720/2008 | [`hg/2008/720/`](hg/2008/720/) | in force | 16 | 2008-07-15 | 2024-09-02 |
 | Hotărârea Guvernului nr. 738/2008 | [`hg/2008/738/`](hg/2008/738/) | in force | 1 | 2008-07-18 | 2008-07-18 |
+| Hotărârea Guvernului nr. 740/2008 privind acordarea de către România a unui ajutor umanitar de urgenţă, cu titlu gratuit, pentru Republica Populară Chineză | [`hg/2008/740/`](hg/2008/740/) | in force | 1 | 2008-07-11 | 2008-07-11 |
 | Hotărârea Guvernului nr. 741/2008 | [`hg/2008/741/`](hg/2008/741/) | in force | 2 | 2008-08-13 | 2022-01-25 |
 | Hotărârea Guvernului nr. 748/2008 | [`hg/2008/748/`](hg/2008/748/) | in force | 1 | 2008-08-19 | 2008-08-19 |
 | Hotărârea Guvernului nr. 757/2008 | [`hg/2008/757/`](hg/2008/757/) | in force | 1 | 2008-07-22 | 2008-07-22 |
