@@ -1,6 +1,6 @@
 # Every act in this repository
 
-19767 acts, 33,398 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+19792 acts, 33,423 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (3142, of which 1693 amending acts)
+## Laws (legi) (3149, of which 1699 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -1047,6 +1047,13 @@
 | Legea nr. 160/2012 | [`lege/2012/160/`](lege/2012/160/) | in force | 1 | 2012-10-06 | 2012-10-06 |
 | Legea nr. 166/2012 | [`lege/2012/166/`](lege/2012/166/) | in force | 1 | 2012-10-14 | 2012-10-14 |
 | Legea nr. 173/2012 | [`lege/2012/173/`](lege/2012/173/) | in force | 1 | 2012-10-19 | 2012-10-19 |
+| Legea nr. 178/2012 privind completarea Legii recunoştinţei faţă de eroii-martiri şi luptătorii care au contribuit la victoria Revoluţiei române din decembrie 1989, precum şi faţă de persoanele care şi-au jertfit viaţa sau au avut de suferit în urma revoltei muncitoreşti anticomuniste de la Braşov din noiembrie 1987 nr. 341/2004 | [`lege/2012/178/`](lege/2012/178/) | amending act | 1 | 2012-10-22 | 2012-10-22 |
+| Legea nr. 179/2012 pentru modificarea şi completarea Legii nr. 339/2005 privind regimul juridic al plantelor, substanţelor şi preparatelor stupefiante şi psihotrope | [`lege/2012/179/`](lege/2012/179/) | amending act | 1 | 2012-10-22 | 2012-10-22 |
+| Legea nr. 180/2012 privind modificarea Ordonanţei Guvernului nr. 41/2007 pentru comercializarea produselor de protecţie a plantelor, precum şi pentru modificarea şi abrogarea unor acte normative din domeniul fitosanitar | [`lege/2012/180/`](lege/2012/180/) | amending act | 1 | 2012-10-22 | 2012-10-22 |
+| Legea nr. 181/2012 pentru ratificarea Protocolului de modificare a Convenţiei dintre România şi Marele Ducat de Luxemburg pentru evitarea dublei impuneri şi prevenirea evaziunii fiscale cu privire la impozitele pe venit şi avere, semnată la Luxemburg la 14 decembrie 1993, şi a Protocolului adiţional la acesta, semnate la Luxemburg la 4 octombrie 2011 | [`lege/2012/181/`](lege/2012/181/) | amending act | 1 | 2012-10-25 | 2012-10-25 |
+| Legea nr. 183/2012 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 98/2006 privind supravegherea suplimentară a instituţiilor de credit, a societăţilor de asigurare şi/sau de reasigurare, a societăţilor de servicii de investiţii financiare şi a societăţilor de administrare a investiţiilor dintr-un conglomerat financiar | [`lege/2012/183/`](lege/2012/183/) | amending act | 1 | 2012-10-29 | 2012-10-29 |
+| Legea nr. 184/2012 pentru retragerea declaraţiei prevăzute prin Legea nr. 309/2007 privind declararea neaplicării Regulilor uniforme privind Contractul de utilizare a infrastructurii în traficul internaţional feroviar (CUI), a Regulilor uniforme privind validarea normelor tehnice şi adoptarea prescripţiilor tehnice uniforme aplicabile materialului feroviar destinat a fi utilizat în trafic internaţional (APTU) şi a Regulilor uniforme privind admiterea tehnică a materialului feroviar destinat a fi utilizat în trafic internaţional (ATMF), cuprinse în apendicele E, F şi, respectiv, G la Convenţia privind transporturile internaţionale feroviare (COTIF), semnată la Berna la 9 mai 1980, şi pentru ratificarea acestor anexe, astfel cum au fost ele aprobate la cea de-a 24-a sesiune a Comitetului de Revizuire (Berna 2009) | [`lege/2012/184/`](lege/2012/184/) | in force | 1 | 2012-11-10 | 2012-11-10 |
+| Legea nr. 185/2012 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 1/2012 pentru suspendarea aplicării unor dispoziţii ale Legii nr. 9/2012 privind taxa pentru emisiile poluante provenite de la autovehicule, precum şi pentru restituirea taxei achitate în conformitate cu prevederile art. 4 alin. (2) din lege | [`lege/2012/185/`](lege/2012/185/) | amending act | 1 | 2012-10-28 | 2012-10-28 |
 | Legea nr. 187/2012 pentru punerea în aplicare a Legii nr. 286/2009 privind Codul penal | [`lege/2012/187/`](lege/2012/187/) | in force | 7 | 2012-11-15 | 2023-07-09 |
 | Legea nr. 188/2012 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 21/2011 privind unele măsuri pentru organizarea şi funcţionarea Consiliului de supraveghere | [`lege/2012/188/`](lege/2012/188/) | amending act | 1 | 2012-11-04 | 2012-11-04 |
 | Legea nr. 189/2012 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 13/2012 pentru modificarea şi completarea Legii nr. 506/2004 privind prelucrarea datelor cu caracter personal şi protecţia vieţii private în sectorul comunicaţiilor electronice | [`lege/2012/189/`](lege/2012/189/) | amending act | 1 | 2012-11-03 | 2012-11-03 |
@@ -5395,7 +5402,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (14381, of which 7315 amending acts)
+## Government decisions (HG) (14399, of which 7323 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -8693,6 +8700,24 @@
 | Hotărârea Guvernului nr. 987/2012 | [`hg/2012/987/`](hg/2012/987/) | in force | 1 | 2012-10-17 | 2012-10-17 |
 | Hotărârea Guvernului nr. 1000/2012 | [`hg/2012/1000/`](hg/2012/1000/) | in force | 5 | 2012-10-29 | 2022-12-20 |
 | Hotărârea Guvernului nr. 1018/2012 | [`hg/2012/1018/`](hg/2012/1018/) | in force | 2 | 2012-10-29 | 2019-06-21 |
+| Hotărârea Guvernului nr. 1020/2012 privind încetarea, prin acordul părţilor, a exercitării cu caracter temporar a funcţiei publice de prefect al judeţului Alba de către domnul Simedru Dan-Coriolan | [`hg/2012/1020/`](hg/2012/1020/) | in force | 1 | 2012-10-24 | 2012-10-24 |
+| Hotărârea Guvernului nr. 1021/2012 privind încetarea exercitării, cu caracter temporar, a funcţiei publice de prefect al judeţului Dâmboviţa de către domnul Rusu Emilian | [`hg/2012/1021/`](hg/2012/1021/) | in force | 1 | 2012-10-26 | 2012-10-26 |
+| Hotărârea Guvernului nr. 1022/2012 privind exercitarea, cu caracter temporar, prin detaşare în condiţiile legii, a funcţiei publice de prefect al judeţului Dâmboviţa de către domnul Sanda Victor | [`hg/2012/1022/`](hg/2012/1022/) | in force | 1 | 2012-10-26 | 2012-10-26 |
+| Hotărârea Guvernului nr. 1023/2012 privind încetarea, prin acordul părţilor, a exercitării cu caracter temporar a funcţiei publice de prefect al judeţului Mureş de către domnul Frătean Petru-Alexandru | [`hg/2012/1023/`](hg/2012/1023/) | in force | 1 | 2012-10-24 | 2012-10-24 |
+| Hotărârea Guvernului nr. 1026/2012 privind încetarea, prin acordul părţilor, a exercitării cu caracter temporar a funcţiei publice de subprefect al judeţului Argeş de către domnul Marin Gheorghe | [`hg/2012/1026/`](hg/2012/1026/) | in force | 1 | 2012-10-24 | 2012-10-24 |
+| Hotărârea Guvernului nr. 1027/2012 privind încetarea, prin acordul părţilor, a exercitării cu caracter temporar a funcţiei publice de subprefect al judeţului Olt de către domnul Delureanu Virgil | [`hg/2012/1027/`](hg/2012/1027/) | in force | 1 | 2012-10-24 | 2012-10-24 |
+| Hotărârea Guvernului nr. 1029/2012 pentru modificarea şi completarea Hotărârii Guvernului nr. 796/2012 privind schema de ajutor specific acordat producătorilor de lapte şi de carne de vită din zonele defavorizate | [`hg/2012/1029/`](hg/2012/1029/) | amending act | 1 | 2012-10-26 | 2012-10-26 |
+| Hotărârea Guvernului nr. 1030/2012 privind numirea unui consul general | [`hg/2012/1030/`](hg/2012/1030/) | in force | 1 | 2012-10-26 | 2012-10-26 |
+| Hotărârea Guvernului nr. 1031/2012 privind acordarea unor ajutoare de urgenţă | [`hg/2012/1031/`](hg/2012/1031/) | in force | 1 | 2012-10-26 | 2012-10-26 |
+| Hotărârea Guvernului nr. 1032/2012 pentru aprobarea modului de repartizare şi de utilizare parţială a sumelor prevăzute la lit. c) şi d) din anexa nr. 3/13/02a la Legea bugetului de stat pe anul 2012 nr. 293/2011 | [`hg/2012/1032/`](hg/2012/1032/) | amending act | 1 | 2012-10-26 | 2012-10-26 |
+| Hotărârea Guvernului nr. 1033/2012 pentru modificarea Hotărârii Guvernului nr. 566/2012 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii "Conductă de interconectare a Sistemului naţional de transport gaze din România cu Sistemul de transport gaze din Republica Moldova pe direcţia Iaşi-Ungheni" | [`hg/2012/1033/`](hg/2012/1033/) | amending act | 1 | 2012-10-29 | 2012-10-29 |
+| Hotărârea Guvernului nr. 1034/2012 privind exercitarea, cu caracter temporar, prin detaşare în condiţiile legii, a funcţiei publice de prefect al judeţului Alba de către domnul Cozuc Flaviu-Mircea | [`hg/2012/1034/`](hg/2012/1034/) | in force | 1 | 2012-10-29 | 2012-10-29 |
+| Hotărârea Guvernului nr. 1035/2012 pentru modificarea art. 1 alin. (1) din Hotărârea Guvernului nr. 11/2012 privind reglementarea unor măsuri financiare temporare pentru stimularea gradului de absorbţie a fondurilor alocate pentru agricultură aferente schemelor de plăţi directe şi pentru măsuri de piaţă în agricultură | [`hg/2012/1035/`](hg/2012/1035/) | amending act | 1 | 2012-10-29 | 2012-10-29 |
+| Hotărârea Guvernului nr. 1037/2012 privind acordarea unui sprijin financiar producătorilor pentru depozitarea privată a untului sărat sau nesărat | [`hg/2012/1037/`](hg/2012/1037/) | in force | 1 | 2012-10-31 | 2012-10-31 |
+| Hotărârea Guvernului nr. 1040/2012 pentru modificarea art. 3 alin. (7) din anexa nr. 1 la Hotărârea Guvernului nr. 717/2009 privind aprobarea normelor de implementare a programului "Prima casă" | [`hg/2012/1040/`](hg/2012/1040/) | amending act | 1 | 2012-11-01 | 2012-11-01 |
+| Hotărârea Guvernului nr. 1041/2012 pentru modificarea Hotărârii Guvernului nr. 1.132/2011 privind modificarea anexei nr. 11 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului şi transmiterea unor imobile proprietate publică a statului din administrarea Ministerului Justiţiei - Administraţia Naţională a Penitenciarelor Penitenciarul Slobozia în administrarea Ministerului Dezvoltării Regionale şi Turismului | [`hg/2012/1041/`](hg/2012/1041/) | amending act | 1 | 2012-10-31 | 2012-10-31 |
+| Hotărârea Guvernului nr. 1045/2012 privind aprobarea Planului de acţiune pe anul 2012 pentru implementarea Strategiei naţionale privind imigraţia pentru perioada 2011-2014, aprobată prin Hotărârea Guvernului nr. 498/2011 | [`hg/2012/1045/`](hg/2012/1045/) | amending act | 1 | 2012-11-02 | 2012-11-02 |
+| Hotărârea Guvernului nr. 1046/2012 privind actualizarea anexei nr. 1 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului | [`hg/2012/1046/`](hg/2012/1046/) | amending act | 1 | 2012-10-31 | 2012-10-31 |
 | Hotărârea Guvernului nr. 1048/2012 privind transmiterea, fără plată, a unor bunuri mobile, proprietate privată a statului, din administrarea Ministerului Apărării Naţionale în administrarea Ministerului Administraţiei şi Internelor | [`hg/2012/1048/`](hg/2012/1048/) | in force | 1 | 2012-10-30 | 2012-10-30 |
 | Hotărârea Guvernului nr. 1049/2012 privind aprobarea Normelor metodologice pentru aplicarea prevederilor Legii nr. 226/2011 privind reparaţiile morale şi materiale pentru fostele cadre militare active, îndepărtate abuziv din armată în perioada 23 august 1944 - 31 decembrie 1961 | [`hg/2012/1049/`](hg/2012/1049/) | amending act | 1 | 2012-11-14 | 2012-11-14 |
 | Hotărârea Guvernului nr. 1050/2012 privind trecerea Centrului pentru Artele Spectacolului "Sala Palatului" din subordinea Ministerului Culturii şi Patrimoniului Naţional în subordinea Secretariatului General al Guvernului, precum şi pentru modificarea unor acte normative | [`hg/2012/1050/`](hg/2012/1050/) | amending act | 1 | 2012-11-02 | 2012-11-02 |
