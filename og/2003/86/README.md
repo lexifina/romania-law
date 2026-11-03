@@ -77,3 +77,24 @@ Act id: `og-86-2003` (tags `og-86-2003/<day>`; `python tools/on.py <day> og-86-2
 - OG nr. 86/2003: the portal editorial notes printed as paragraphs of an article (on a Constitutional Court ruling, a rectification, a provision put back in force) are not text: 149 such paragraphs across all forms, for example «* Alin. (2) al art. 73 din Ordonanța Guvernului nr. 57/2002 », «* NOTA C.T.C.E. S.A. Piatra-Neamț:», «Art. 1 a fost repus în vigoare, ca urmare a respingerii ORDO».
 - OG nr. 86/2003: 59 changed article(s) with no note naming a law, committed as the publisher's: 2003-11-11 art-003, 2003-11-11 art-004, 2003-11-11 art-012, 2003-11-11 art-017, 2003-11-11 art-026, 2003-11-11 art-037, 2003-11-11 art-i, 2003-11-11 art-ii, 2003-11-11 art-v, 2003-11-11 art-xiii, 2005-02-03 art-xi, 2005-07-31 art-vi, 2013-06-29 art-001, 2013-06-29 art-006, 2013-06-29 art-009, 2016-06-30 art-001, 2016-06-30 art-002, 2016-06-30 art-003, 2016-06-30 art-004, 2016-06-30 art-005, 2016-06-30 art-006, 2016-06-30 art-008, 2016-06-30 art-009, 2016-06-30 art-019, 2016-06-30 art-023, 2016-06-30 art-026, 2016-06-30 art-027, 2016-06-30 art-028, 2016-06-30 art-030, 2016-06-30 art-031, 2016-06-30 art-032, 2016-06-30 art-034, 2016-06-30 art-037, 2016-06-30 art-038, 2016-06-30 art-039, 2016-06-30 art-040, 2016-06-30 art-045, 2016-06-30 art-i, 2016-06-30 art-ii, 2016-06-30 art-iii, 2016-06-30 art-iv, 2016-06-30 art-vi, 2016-06-30 art-vii, 2016-06-30 art-viii, 2016-06-30 art-xii, 2016-06-30 art-xiv, 2020-02-12 art-001, 2020-02-12 art-006, 2020-02-12 art-009, 2020-02-12 art-021, 2020-02-12 art-i, 2020-02-12 art-ii, 2020-02-12 art-iii, 2020-02-12 art-ix, 2020-02-12 art-vi, 2020-02-12 art-vii, 2020-02-12 art-viii, 2020-02-12 art-x, 2020-02-12 art-xi.
 - OG nr. 86/2003: forms with no change after normalisation, so no version: 2004-05-28 (57320), 2004-09-03 (57321).
+
+## Credits corrected
+
+These changes were first published credited to another law. The words are unchanged; `git blame` still names the commit that wrote them, and `data/credits.csv` lists every corrected credit.
+
+- `art-019.md`, in force from 2011-03-24: OUG nr. 30/2011 (first published as no law named).
+- `art-018.md`, in force from 2013-01-18: OG nr. 2/2013 (first published as no law named).
+- `art-018.md`, in force from 2013-06-29: OUG nr. 74/2013 (first published as no law named).
+- `art-021.md`, in force from 2013-06-29: OUG nr. 74/2013 (first published as no law named).
+- `art-xi.md`, in force from 2013-06-29: Legea nr. 507/2004 (first published as no law named).
+- `art-018.md`, in force from 2016-06-30: OUG nr. 40/2016 (first published as no law named).
+- `art-x.md`, in force from 2016-06-30: HG nr. 1256/2003 (first published as no law named).
+- `art-xi.md`, in force from 2016-06-30: Legea nr. 609/2003 (first published as no law named).
+- `art-018.md`, in force from 2020-02-12: OUG nr. 24/2020 (first published as no law named).
+- `art-004.md`, in force from 2021-07-30: Legea nr. 223/2021 (first published as no law named).
+- `art-009.md`, in force from 2021-12-10: Legea nr. 268/2021 (first published as no law named).
+- `art-018.md`, in force from 2021-12-10: Legea nr. 268/2021 (first published as no law named).
+- `art-021.md`, in force from 2021-12-10: Legea nr. 268/2021 (first published as no law named).
+- `art-018.md`, in force from 2024-03-18: OUG nr. 23/2024 (first published as no law named).
+- `art-021.md`, in force from 2024-03-18: OUG nr. 23/2024 (first published as no law named).
+- `art-020.md`, in force from 2025-12-18: Legea nr. 239/2025 (first published as no law named).
