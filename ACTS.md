@@ -1,6 +1,6 @@
 # Every act in this repository
 
-5956 acts, 16,866 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+5962 acts, 16,897 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -32,7 +32,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (1742, of which 642 amending acts)
+## Laws (legi) (1743, of which 642 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -630,6 +630,7 @@
 | Legea nr. 144/2007 privind înființarea, organizarea și funcționarea Agenției Naționale de Integritate | [`lege/2007/144/`](lege/2007/144/) | in force | 12 | 2007-05-28 | 2023-01-06 |
 | Legea nr. 159/2007 | [`lege/2007/159/`](lege/2007/159/) | in force | 1 | 2007-06-15 | 2007-06-15 |
 | Legea nr. 164/2007 | [`lege/2007/164/`](lege/2007/164/) | in force | 1 | 2007-06-23 | 2007-06-23 |
+| Legea nr. 181/2007 | [`lege/2007/181/`](lege/2007/181/) | repealed 2010-07-12 | 3 | 2008-01-01 | 2010-07-12 |
 | Legea nr. 188/2007 | [`lege/2007/188/`](lege/2007/188/) | in force | 1 | 2007-06-29 | 2007-06-29 |
 | Legea nr. 191/2007 | [`lege/2007/191/`](lege/2007/191/) | in force | 1 | 2007-06-29 | 2007-06-29 |
 | Legea nr. 223/2007 | [`lege/2007/223/`](lege/2007/223/) | in force | 6 | 2007-09-01 | 2024-01-01 |
@@ -1779,7 +1780,7 @@
 | Legea nr. 241/2025 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 31/2002 privind interzicerea organizațiilor, simbolurilor și faptelor cu caracter fascist, legionar, rasist sau xenofob și a promovării cultului persoanelor vinovate de săvârșirea unor infracțiuni de genocid contra umanității și de crime de război, precum și pentru modificarea Legii nr. 157/2018 privind unele măsuri pentru prevenirea și combaterea antisemitismului | [`lege/2025/241/`](lege/2025/241/) | amending act | 1 | 2025-12-27 | 2025-12-27 |
 | Legea nr. 245/2025 pentru modificarea art. 32 alin. (7) din Legea nr. 273/2006 privind finanțele publice locale | [`lege/2025/245/`](lege/2025/245/) | amending act | 1 | 2026-01-01 | 2026-01-01 |
 
-## Emergency ordinances (OUG) (1444, of which 520 amending acts)
+## Emergency ordinances (OUG) (1446, of which 520 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -1908,6 +1909,7 @@
 | Ordonanța de urgență a Guvernului nr. 121/2002 pentru modificarea Legii nr. 416/2001 privind venitul minim garantat | [`oug/2002/121/`](oug/2002/121/) | amending act | 2 | 2002-10-03 | 2003-01-20 |
 | Ordonanța de urgență a Guvernului nr. 124/2002 | [`oug/2002/124/`](oug/2002/124/) | in force | 2 | 2002-10-10 | 2003-01-20 |
 | Ordonanța de urgență a Guvernului nr. 139/2002 | [`oug/2002/139/`](oug/2002/139/) | in force | 3 | 2002-10-29 | 2019-05-13 |
+| Ordonanța de urgență a Guvernului nr. 141/2002 | [`oug/2002/141/`](oug/2002/141/) | repealed 2014-07-13 | 7 | 2002-12-18 | 2014-07-13 |
 | Ordonanța de urgență a Guvernului nr. 146/2002 | [`oug/2002/146/`](oug/2002/146/) | in force | 24 | 2002-11-14 | 2024-06-16 |
 | Ordonanța de urgență a Guvernului nr. 152/2002 | [`oug/2002/152/`](oug/2002/152/) | in force | 2 | 2002-11-15 | 2003-04-22 |
 | Ordonanța de urgență a Guvernului nr. 153/2002 | [`oug/2002/153/`](oug/2002/153/) | in force | 3 | 2002-11-15 | 2017-07-01 |
@@ -2061,6 +2063,7 @@
 | Ordonanța de urgență a Guvernului nr. 56/2006 | [`oug/2006/56/`](oug/2006/56/) | in force | 2 | 2006-09-08 | 2007-01-11 |
 | Ordonanța de urgență a Guvernului nr. 62/2006 | [`oug/2006/62/`](oug/2006/62/) | in force | 2 | 2006-09-18 | 2007-01-13 |
 | Ordonanța de urgență a Guvernului nr. 63/2006 | [`oug/2006/63/`](oug/2006/63/) | in force | 3 | 2006-09-20 | 2007-01-20 |
+| Ordonanța de urgență a Guvernului nr. 67/2006 | [`oug/2006/67/`](oug/2006/67/) | repealed 2009-06-25 | 6 | 2006-09-18 | 2009-06-25 |
 | Ordonanța de urgență a Guvernului nr. 68/2006 | [`oug/2006/68/`](oug/2006/68/) | in force | 1 | 2006-09-18 | 2006-09-18 |
 | Ordonanța de urgență a Guvernului nr. 71/2006 | [`oug/2006/71/`](oug/2006/71/) | in force | 2 | 2006-09-22 | 2006-12-24 |
 | Ordonanța de urgență a Guvernului nr. 72/2006 | [`oug/2006/72/`](oug/2006/72/) | in force | 2 | 2006-09-25 | 2007-01-21 |
@@ -3228,7 +3231,7 @@
 | Ordonanța de urgență a Guvernului nr. 78/2025 pentru modificarea Legii nr. 239/2025 privind stabilirea unor măsuri de redresare și eficientizare a resurselor publice și pentru modificarea și completarea unor acte normative | [`oug/2025/78/`](oug/2025/78/) | amending act | 1 | 2025-12-17 | 2025-12-17 |
 | Ordonanța de urgență a Guvernului nr. 87/2025 pentru stabilirea unor măsuri bugetare privind implementarea programelor naționale din domeniul lucrărilor publice | [`oug/2025/87/`](oug/2025/87/) | in force | 1 | 2025-12-24 | 2025-12-24 |
 
-## Ordinances (OG) (423, of which 87 amending acts)
+## Ordinances (OG) (426, of which 87 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -3329,6 +3332,7 @@
 | Ordonanța Guvernului nr. 136/2000 | [`og/2000/136/`](og/2000/136/) | in force | 3 | 2000-10-02 | 2010-07-02 |
 | Ordonanța Guvernului nr. 137/2000 privind prevenirea și sancționarea tuturor formelor de discriminare | [`og/2000/137/`](og/2000/137/) | in force | 22 | 2000-11-01 | 2022-07-02 |
 | Ordonanța Guvernului nr. 2/2001 privind regimul juridic al contravențiilor | [`og/2001/2/`](og/2001/2/) | in force | 23 | 2001-08-24 | 2026-03-27 |
+| Ordonanța Guvernului nr. 5/2001 | [`og/2001/5/`](og/2001/5/) | repealed 2013-02-15 | 5 | 2001-08-15 | 2013-02-15 |
 | Ordonanța Guvernului nr. 13/2001 | [`og/2001/13/`](og/2001/13/) | in force | 2 | 2001-08-13 | 2003-09-30 |
 | Ordonanța Guvernului nr. 24/2001 | [`og/2001/24/`](og/2001/24/) | in force | 3 | 2001-09-01 | 2003-05-31 |
 | Ordonanța Guvernului nr. 25/2001 | [`og/2001/25/`](og/2001/25/) | in force | 19 | 2001-08-17 | 2024-04-26 |
@@ -3362,6 +3366,7 @@
 | Ordonanța Guvernului nr. 27/2002 privind reglementarea activității de soluționare a petitiilor | [`og/2002/27/`](og/2002/27/) | in force | 5 | 2002-02-01 | 2024-12-01 |
 | Ordonanța Guvernului nr. 29/2002 | [`og/2002/29/`](og/2002/29/) | in force | 2 | 2002-02-01 | 2002-06-10 |
 | Ordonanța Guvernului nr. 33/2002 | [`og/2002/33/`](og/2002/33/) | in force | 2 | 2002-02-02 | 2002-04-29 |
+| Ordonanța Guvernului nr. 34/2002 | [`og/2002/34/`](og/2002/34/) | repealed 2011-12-27 | 6 | 2002-02-02 | 2011-12-27 |
 | Ordonanța Guvernului nr. 35/2002 | [`og/2002/35/`](og/2002/35/) | in force | 2 | 2002-02-02 | 2002-12-24 |
 | Ordonanța Guvernului nr. 37/2002 | [`og/2002/37/`](og/2002/37/) | in force | 2 | 2002-02-02 | 2007-03-02 |
 | Ordonanța Guvernului nr. 53/2002 | [`og/2002/53/`](og/2002/53/) | in force | 2 | 2002-08-27 | 2003-03-26 |
@@ -3444,6 +3449,7 @@
 | Ordonanța Guvernului nr. 36/2006 | [`og/2006/36/`](og/2006/36/) | in force | 9 | 2006-09-01 | 2022-11-17 |
 | Ordonanța Guvernului nr. 38/2006 | [`og/2006/38/`](og/2006/38/) | in force | 2 | 2006-08-17 | 2007-01-19 |
 | Ordonanța Guvernului nr. 40/2006 | [`og/2006/40/`](og/2006/40/) | in force | 8 | 2006-08-20 | 2021-09-03 |
+| Ordonanța Guvernului nr. 1/2007 | [`og/2007/1/`](og/2007/1/) | repealed 2008-04-08 | 4 | 2007-01-20 | 2008-04-08 |
 | Ordonanța Guvernului nr. 3/2007 | [`og/2007/3/`](og/2007/3/) | in force | 6 | 2007-02-01 | 2010-07-03 |
 | Ordonanța Guvernului nr. 13/2007 | [`og/2007/13/`](og/2007/13/) | in force | 2 | 2007-02-04 | 2007-07-13 |
 | Ordonanța Guvernului nr. 14/2007 pentru reglementarea modului și condițiilor de valorificare a bunurilor intrate, potrivit legii, în proprietatea privată a statului | [`og/2007/14/`](og/2007/14/) | in force | 16 | 2007-05-03 | 2022-08-25 |

@@ -1,0 +1,16 @@
+# Legea nr. 181/2007
+
+Legea nr. 181/2007 · 3 versions, from 2008-01-01 (latest in force: 2010-07-12) · <https://legislatie.just.ro/Public/DetaliiDocument/113620>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+
+Act id: `legea-181-2007` (tags `legea-181-2007/<day>`; `python tools/on.py <day> legea-181-2007`).
+
+## Decisions made by hand
+
+- Legea nr. 181/2007: added 2026-11-02, one of the Portalul legislativ's consolidated forms per version, as for the other acts. A capture was used only if it was complete and the page showed the form its document id stands for. The forms are those listed by DetaliiDocumentAfis/82986 as captured on 2025-10-18, the newest capture of any of the act's pages: 1 forms, 1 held.
+- Legea nr. 181/2007: the newest form held is that of 12.11.2009; amendments in force after it may be missing.
+- Legea nr. 181/2007: the first version is the law as published in Monitorul Oficial nr. 412 of 20 June 2007 (DetaliiDocumentAfis/82986), dated 1 January 2008: its art. 15 puts it in force on 1 January 2008. The portal holds no consolidated form before 12 November 2009, so the changes made up to then arrive together that day.
+- Legea nr. 181/2007: repealed in full by art. 19 alin. (1) lit. c) of OUG nr. 70/2010 (enacted 30 June 2010, published in Monitorul Oficial nr. 451 of 2 July 2010), read as published (DetaliiDocumentAfis/120040), which names the whole act with no exception, on the end of the 10-day term its art. 19 alin. (1) sets from its own entry into force («În termen de 10 zile de la data intrării în vigoare a prezentei ordonanțe de urgență, se abrogă»), the ordinance itself in force on its publication, as it sets no day of its own (Constituția art. 115 alin. (5)): 12 July 2010. The record ends with a version that removes every article, credited to OUG nr. 70/2010. The newest text the portal holds is that of 12 November 2009, so any amendment between that day and the repeal is missing.
+- Legea nr. 181/2007: articles a form leaves out are shown repealed on the day the repealing act took effect (on publication for an emergency ordinance, 3 days after for a law, unless the act sets its own day), credited to that act as its repeal note names it: art. 6, left out from the form of 12.11.2009: repealed by Legea nr. 329/2009, in force 12.11.2009 (it sets no day of its own, so in force 3 days after publication (Constituția art. 78) (published in Monitorul Oficial nr. 761 of 9 November 2009)); art. 10, left out from the form of 12.11.2009: repealed by Legea nr. 329/2009, in force 12.11.2009 (it sets no day of its own, so in force 3 days after publication (Constituția art. 78) (published in Monitorul Oficial nr. 761 of 9 November 2009)); art. 12, left out from the form of 12.11.2009: repealed by Legea nr. 329/2009, in force 12.11.2009 (it sets no day of its own, so in force 3 days after publication (Constituția art. 78) (published in Monitorul Oficial nr. 761 of 9 November 2009)); art. 14, left out from the form of 12.11.2009: repealed by Legea nr. 329/2009, in force 12.11.2009 (it sets no day of its own, so in force 3 days after publication (Constituția art. 78) (published in Monitorul Oficial nr. 761 of 9 November 2009)).
