@@ -34688,6 +34688,21 @@
    ]
   },
   {
+   "slug": "hg-118-2023",
+   "path": "hg/2023/118",
+   "short": "HG nr. 118/2023",
+   "title": "Hotărârea Guvernului nr. 118/2023 privind acordarea burselor în străinătate pentru stagii de studii universitare de masterat și de doctorat, pentru stagii postdoctorale și de cercetare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/264732",
+   "versions": [
+    {
+     "from": "2023-02-10",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/264732",
+     "sha256": "ff6f6d26430cd6b7747ab8a8dc0efada15ab2caa4280d49946fb59786cfd54f1"
+    }
+   ]
+  },
+  {
    "slug": "hg-1180-2022",
    "path": "hg/2022/1180",
    "short": "HG nr. 1180/2022",
@@ -35285,6 +35300,21 @@
    ]
   },
   {
+   "slug": "hg-144-2023",
+   "path": "hg/2023/144",
+   "short": "HG nr. 144/2023",
+   "title": "Hotărârea Guvernului nr. 144/2023 pentru modificarea anexelor nr. 1 și 2 la Strategia națională privind siguranța rutieră pentru perioada 2022-2030, aprobată prin Hotărârea Guvernului nr. 682/2022",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/265297",
+   "versions": [
+    {
+     "from": "2023-02-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/265297",
+     "sha256": "d3499c34d9e893826d95d7f167583a57f60a02f62bfc836499c7a613691d8482"
+    }
+   ]
+  },
+  {
    "slug": "hg-1441-2022",
    "path": "hg/2022/1441",
    "short": "HG nr. 1441/2022",
@@ -35345,6 +35375,21 @@
    ]
   },
   {
+   "slug": "hg-1456-2022",
+   "path": "hg/2022/1456",
+   "short": "HG nr. 1456/2022",
+   "title": "Hotărârea Guvernului nr. 1456/2022 privind aprobarea Strategiei de dezvoltare a Sistemului statistic național 2022-2027",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/262807",
+   "versions": [
+    {
+     "from": "2022-12-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/262807",
+     "sha256": "7fa91c7355037093592bc908d720864dc6af4617fd70f3987c2e184c85281f23"
+    }
+   ]
+  },
+  {
    "slug": "hg-1457-2022",
    "path": "hg/2022/1457",
    "short": "HG nr. 1457/2022",
@@ -35386,6 +35431,27 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/262513",
      "sha256": "090ae97078ba3bccd99baabbeb366dfa1ca2eeabf3c2bb6369c0a55f658a856d"
+    }
+   ]
+  },
+  {
+   "slug": "hg-148-2015",
+   "path": "hg/2015/148",
+   "short": "HG nr. 148/2015",
+   "title": "Hotărârea Guvernului nr. 148/2015 privind actualizarea valorii de inventar și a datelor de identificare, precum și aprobarea închirierii unor imobile sau părți din acestea aflate în domeniul public al statului și în administrarea unităților subordonate Ministerului Sănătății",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/264300",
+   "versions": [
+    {
+     "from": "2015-03-16",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/166388",
+     "sha256": "b29c2a8398931179c18d6ccc212a5ba13fd0d3ffe08c0d43063e63dfc3e0ce59"
+    },
+    {
+     "from": "2023-02-15",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/264300",
+     "sha256": "f25f1aaeb2d3b507a26c1670cdb456b70d6cb8b3a6a7a088e1eb974543cd996b"
     }
    ]
   },
@@ -35435,6 +35501,51 @@
    ]
   },
   {
+   "slug": "hg-1542-2022",
+   "path": "hg/2022/1542",
+   "short": "HG nr. 1542/2022",
+   "title": "Hotărârea Guvernului nr. 1542/2022 pentru aprobarea criteriilor și normelor de diagnostic clinic, diagnostic funcțional și de evaluare a capacității de muncă pe baza cărora se face încadrarea în gradele I, II și III de invaliditate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/263041",
+   "versions": [
+    {
+     "from": "2022-12-22",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/263041",
+     "sha256": "795cc89f12ddc5aadae0f1521ff254e92e84be662e76bb48819c9a84c04d4572"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1543-2022",
+   "path": "hg/2022/1543",
+   "short": "HG nr. 1543/2022",
+   "title": "Hotărârea Guvernului nr. 1543/2022 pentru aprobarea Strategiei naționale privind prevenirea instituționalizării persoanelor adulte cu dizabilități și accelerarea procesului de dezinstituționalizare, pentru perioada 2022-2030",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/263087",
+   "versions": [
+    {
+     "from": "2022-12-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/263087",
+     "sha256": "165d6b856162039c680d9a519e087ba12d4121d3e21c372c8e9d77fc4ac2c6ac"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1544-2022",
+   "path": "hg/2022/1544",
+   "short": "HG nr. 1544/2022",
+   "title": "Hotărârea Guvernului nr. 1544/2022 pentru modificarea Hotărârii Guvernului nr. 879/2018 privind înființarea Comitetului Național pentru Limitarea Rezistenței la Antimicrobiene",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/263021",
+   "versions": [
+    {
+     "from": "2022-12-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/263021",
+     "sha256": "dd34d12f8c47db9fd8f86ae69ff8c5e9127b8b32463576327290b9dee55830fc"
+    }
+   ]
+  },
+  {
    "slug": "hg-1547-2022",
    "path": "hg/2022/1547",
    "short": "HG nr. 1547/2022",
@@ -35450,6 +35561,21 @@
    ]
   },
   {
+   "slug": "hg-1549-2022",
+   "path": "hg/2022/1549",
+   "short": "HG nr. 1549/2022",
+   "title": "Hotărârea Guvernului nr. 1549/2022 pentru aprobarea bugetului rectificat de venituri și cheltuieli pe anul 2022 al Societății Compania Națională de Investiții \"C.N.I.\" - S.A., aflată sub autoritatea Ministerului Dezvoltării, Lucrărilor Publice și Administrației",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/263231",
+   "versions": [
+    {
+     "from": "2022-12-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/263231",
+     "sha256": "4a2a0a2d4fc434d6692e0192f52e0b9dfe9d89046142a4599bac17cfa29ee84e"
+    }
+   ]
+  },
+  {
    "slug": "hg-155-2022",
    "path": "hg/2022/155",
    "short": "HG nr. 155/2022",
@@ -35461,6 +35587,81 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/251407",
      "sha256": "f15f2fed81787012916808fdeb1ba0a76d1c5843ec1f3bf137c0de4255140ad9"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1555-2022",
+   "path": "hg/2022/1555",
+   "short": "HG nr. 1555/2022",
+   "title": "Hotărârea Guvernului nr. 1555/2022 privind stabilirea zilelor lucrătoare pentru care se acordă zile libere, altele decât zilele de sărbătoare legală, pentru anul 2023",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/263268",
+   "versions": [
+    {
+     "from": "2022-12-29",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/263268",
+     "sha256": "f22dbc9ab0148d862f25fc03effa90bdd40461ea012532912bbfe83e5c20aae3"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1568-2022",
+   "path": "hg/2022/1568",
+   "short": "HG nr. 1568/2022",
+   "title": "Hotărârea Guvernului nr. 1568/2022 pentru modificarea anexei la Hotărârea Guvernului nr. 1.000/2015 privind faptele pentru care se înscriu informații în cazierul fiscal al contribuabililor, potrivit legislației în vigoare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/263373",
+   "versions": [
+    {
+     "from": "2023-01-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/263373",
+     "sha256": "ad9fc3f97cfcae4b2e918da483e27bae65ea66d326bc5d56196711912d3d1576"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1573-2022",
+   "path": "hg/2022/1573",
+   "short": "HG nr. 1573/2022",
+   "title": "Hotărârea Guvernului nr. 1573/2022 privind aprobarea amânării închiderii unor capacități energetice cu funcționare pe lignit și a exploatărilor miniere aferente acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/263294",
+   "versions": [
+    {
+     "from": "2022-12-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/263294",
+     "sha256": "9891231ea188a70af88f1a5e89d15d2809648053617daba31314f18415143942"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1577-2022",
+   "path": "hg/2022/1577",
+   "short": "HG nr. 1577/2022",
+   "title": "Hotărârea Guvernului nr. 1577/2022 pentru modificarea Normelor metodologice de aplicare a Legii concediului paternal nr. 210/1999 , aprobate prin Hotărârea Guvernului nr. 244/2000",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/263648",
+   "versions": [
+    {
+     "from": "2023-01-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/263648",
+     "sha256": "e906f1e177e42caf053a64cc99346cf0df6bc0b0f0cb3423508ce4f51a5cf364"
+    }
+   ]
+  },
+  {
+   "slug": "hg-161-2023",
+   "path": "hg/2023/161",
+   "short": "HG nr. 161/2023",
+   "title": "Hotărârea Guvernului nr. 161/2023 privind aprobarea Programului statistic național anual 2023",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/265412",
+   "versions": [
+    {
+     "from": "2023-03-02",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/265412",
+     "sha256": "5a30928c917be5fa52f47d6c4b07f032246d2a37bae642bd33613719a9e341a8"
     }
    ]
   },
@@ -35506,6 +35707,27 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/251619",
      "sha256": "18466f1fc1682e81d389e7d8931894b9847e2438e8d7cab1eee5656f90e260a3"
+    }
+   ]
+  },
+  {
+   "slug": "hg-197-2022",
+   "path": "hg/2022/197",
+   "short": "HG nr. 197/2022",
+   "title": "Hotărârea Guvernului nr. 197/2022 privind organizarea și funcționarea direcțiilor județene pentru familie și tineret, respectiv a Direcției pentru Familie și Tineret a Municipiului București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/251623",
+   "versions": [
+    {
+     "from": "2022-02-14",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/251623",
+     "sha256": "ffd9954ac11328f3d6395b36e11432e9884712d35ff2203e8a82a4a8224f2a1c"
+    },
+    {
+     "from": "2023-02-17",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/251623",
+     "sha256": "e21f8d11c53e4ee0b836576fb0164aadc9c1eebf0b72fb371bc62dce496c729c"
     }
    ]
   },
@@ -35617,6 +35839,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/252418",
      "sha256": "10a9e8f389fa814022dc044ad773481c69f3150825e70c4149a3be2120af631e"
+    }
+   ]
+  },
+  {
+   "slug": "hg-28-2023",
+   "path": "hg/2023/28",
+   "short": "HG nr. 28/2023",
+   "title": "Hotărârea Guvernului nr. 28/2023 pentru actualizarea cuantumului soldei de grad/salariului gradului profesional deținut de personalul militar, respectiv de polițiștii și polițiștii de penitenciare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/263935",
+   "versions": [
+    {
+     "from": "2023-01-13",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/263935",
+     "sha256": "049c4cd129801a3e025f03f10448022df30ab72e57c1306e23f42de695026e22"
     }
    ]
   },
@@ -36109,6 +36346,27 @@
      "units": 16,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/253521",
      "sha256": "61518a8976546a38556c411ecdacbc3dbd410e39a6044e95f5a3acf577f4619c"
+    }
+   ]
+  },
+  {
+   "slug": "hg-443-2022",
+   "path": "hg/2022/443",
+   "short": "HG nr. 443/2022",
+   "title": "Hotărârea Guvernului nr. 443/2022 pentru aprobarea conținutului instrumentului de prezentare și motivare, a structurii raportului privind implementarea actelor normative, a instrucțiunilor metodologice pentru realizarea evaluării impactului, precum și pentru înființarea Consiliului consultativ pentru evaluarea impactului actelor normative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/253645",
+   "versions": [
+    {
+     "from": "2022-04-20",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/253645",
+     "sha256": "9829f0b3449998ddea4e29ae83fac819461a61247e670eb5d85725326156d75d"
+    },
+    {
+     "from": "2022-12-12",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/262055",
+     "sha256": "cfec39e64bfb274a410ff421ecb098c94dd60fdccdf55256148e3b50c11f8bcf"
     }
    ]
   },
@@ -36707,6 +36965,21 @@
    ]
   },
   {
+   "slug": "hg-682-2022",
+   "path": "hg/2022/682",
+   "short": "HG nr. 682/2022",
+   "title": "Hotărârea Guvernului nr. 682/2022 pentru aprobarea Strategiei naționale privind siguranța rutieră pentru perioada 2022-2030",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/255841",
+   "versions": [
+    {
+     "from": "2022-05-31",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/255841",
+     "sha256": "f9f0f5f35ded44d959d5b6aee0a5f7e93acbd39d2dadaa501e487d92ec072c8f"
+    }
+   ]
+  },
+  {
    "slug": "hg-685-2022",
    "path": "hg/2022/685",
    "short": "HG nr. 685/2022",
@@ -37105,6 +37378,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/245057",
      "sha256": "e9ecda0b2c75f218e9e054404655a6f6b2f6e5887e878ecd15619f4d7b9751ff"
+    }
+   ]
+  },
+  {
+   "slug": "hg-80-2023",
+   "path": "hg/2023/80",
+   "short": "HG nr. 80/2023",
+   "title": "Hotărârea Guvernului nr. 80/2023 pentru completarea art. 3 din anexa nr. 1 la Hotărârea Guvernului nr. 717/2009 privind aprobarea normelor de implementare a programului \"Noua casă\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/264442",
+   "versions": [
+    {
+     "from": "2023-01-30",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/264442",
+     "sha256": "a0d738ce50dd91eb812be5435b2dd1bc778cb9be9defffaaec53e406103ff7db"
     }
    ]
   },
@@ -37529,6 +37817,21 @@
    ]
   },
   {
+   "slug": "hg-9-2023",
+   "path": "hg/2023/9",
+   "short": "HG nr. 9/2023",
+   "title": "Hotărârea Guvernului nr. 9/2023 pentru modificarea anexei nr. 3 la Hotărârea Guvernului nr. 652/2009 privind organizarea și funcționarea Ministerului Justiției și a anexelor nr. 1 și 2 la Hotărârea Guvernului nr. 358/2016 privind aprobarea Regulamentului de organizare și funcționare a Agenției Naționale de Administrare a Bunurilor Indisponibilizate, a organigramei, a parcului auto și a modului de utilizare a acestuia, precum și pentru completarea Hotărârii Guvernului nr. 652/2009 privind organizarea și funcționarea Ministerului Justiției",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/263902",
+   "versions": [
+    {
+     "from": "2023-01-12",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/263902",
+     "sha256": "600f6ea29a79a260d1cfd42c10cc11d8e7590767a04514d60f950cecca0ac212"
+    }
+   ]
+  },
+  {
    "slug": "hg-90-2010",
    "path": "hg/2010/90",
    "short": "HG nr. 90/2010",
@@ -37786,6 +38089,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/257819",
      "sha256": "debce3502056e38d02bcb5896c9a01870a11d16c6e5aa92ca7bc08050bb67ffa"
+    }
+   ]
+  },
+  {
+   "slug": "hg-94-2023",
+   "path": "hg/2023/94",
+   "short": "HG nr. 94/2023",
+   "title": "Hotărârea Guvernului nr. 94/2023 privind trecerea unui imobil din domeniul privat al statului și din administrarea Regiei Autonome \"Administrația Patrimoniului Protocolului de Stat\" în domeniul public al statului și în administrarea Universității de Medicină și Farmacie \"Carol Davila\" București, precum și pentru modificarea Hotărârii Guvernului nr. 60/2005 privind organizarea și funcționarea Regiei Autonome \"Administrația Patrimoniului Protocolului de Stat\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/264630",
+   "versions": [
+    {
+     "from": "2023-02-07",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/264630",
+     "sha256": "b7c6590ce50e54c748a6ba79124a46d8d5946c1bcbcd772900e2cc1d26250009"
     }
    ]
   },
