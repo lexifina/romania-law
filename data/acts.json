@@ -4201,6 +4201,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/210007"
 },
 {
+"slug": "legea-32-2019",
+"path": "lege/2019/32",
+"kind": "lege",
+"year": "2019",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 32/2019",
+"short": "Legea nr. 32/2019",
+"code": null,
+"status": "in force",
+"versions": 3,
+"from": "2019-01-24",
+"latest": "2023-07-24",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/210055"
+},
+{
 "slug": "legea-79-2019",
 "path": "lege/2019/79",
 "kind": "lege",
@@ -13415,6 +13432,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/246963"
 },
 {
+"slug": "oug-42-2019",
+"path": "oug/2019/42",
+"kind": "oug",
+"year": "2019",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 42/2019 privind stabilirea unor măsuri financiare pentru susținerea desfășurării Programului cultural național \"Timișoara - Capitală Europeană a Culturii în anul 2021\"",
+"short": "OUG nr. 42/2019",
+"code": null,
+"status": "in force",
+"versions": 9,
+"from": "2019-06-18",
+"latest": "2024-12-05",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/215050"
+},
+{
 "slug": "oug-53-2019",
 "path": "oug/2019/53",
 "kind": "oug",
@@ -15404,6 +15438,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/249344"
 },
 {
+"slug": "oug-133-2021",
+"path": "oug/2021/133",
+"kind": "oug",
+"year": "2021",
+"number": "133",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 133/2021 privind gestionarea financiară a fondurilor europene pentru perioada de programare 2021-2027 alocate României din Fondul european de dezvoltare regională, Fondul de coeziune, Fondul social european Plus, Fondul pentru o tranziție justă",
+"short": "OUG nr. 133/2021",
+"code": null,
+"status": "in force",
+"versions": 11,
+"from": "2021-12-20",
+"latest": "2025-12-11",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/249731"
+},
+{
 "slug": "oug-138-2021",
 "path": "oug/2021/138",
 "kind": "oug",
@@ -16218,6 +16269,23 @@
 "from": "2022-06-02",
 "latest": "2022-06-02",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/255886"
+},
+{
+"slug": "oug-76-2022",
+"path": "oug/2022/76",
+"kind": "oug",
+"year": "2022",
+"number": "76",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 76/2022 privind înființarea, organizarea și funcționarea Agenției Naționale pentru Dezvoltarea Infrastructurii în Sănătate",
+"short": "OUG nr. 76/2022",
+"code": null,
+"status": "in force",
+"versions": 2,
+"from": "2022-06-03",
+"latest": "2023-03-31",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/265817"
 },
 {
 "slug": "oug-79-2022",
@@ -17376,6 +17444,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/265420"
 },
 {
+"slug": "oug-7-2023",
+"path": "oug/2023/7",
+"kind": "oug",
+"year": "2023",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 7/2023 pentru aprobarea Programului național de investiții \"Școli sigure și sănătoase\"",
+"short": "OUG nr. 7/2023",
+"code": null,
+"status": "amending act",
+"versions": 2,
+"from": "2023-03-06",
+"latest": "2025-10-02",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/302188"
+},
+{
 "slug": "oug-10-2023",
 "path": "oug/2023/10",
 "kind": "oug",
@@ -18020,6 +18105,23 @@
 "from": "2023-10-13",
 "latest": "2025-09-12",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/275311"
+},
+{
+"slug": "oug-84-2023",
+"path": "oug/2023/84",
+"kind": "oug",
+"year": "2023",
+"number": "84",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 84/2023 privind instituirea unui mecanism de consultare și reacție coordonată în contextul implementării sistemului de autorizare la export introdus de Ucraina pentru produsele agricole",
+"short": "OUG nr. 84/2023",
+"code": null,
+"status": "in force",
+"versions": 6,
+"from": "2023-10-13",
+"latest": "2025-06-27",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/275321"
 },
 {
 "slug": "oug-87-2023",
@@ -18972,6 +19074,23 @@
 "from": "2024-06-28",
 "latest": "2024-06-28",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/284635"
+},
+{
+"slug": "oug-81-2024",
+"path": "oug/2024/81",
+"kind": "oug",
+"year": "2024",
+"number": "81",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 81/2024 pentru înființarea Autorității Naționale de Reglementare în Domeniul Minier, Petrolier și al Stocării Geologice a Dioxidului de Carbon, precum și pentru modificarea și completarea unor acte normative din domeniul resurselor minerale, petrolului și stocării geologice a dioxidului de carbon",
+"short": "OUG nr. 81/2024",
+"code": null,
+"status": "amending act",
+"versions": 3,
+"from": "2024-06-29",
+"latest": "2024-07-29",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/294393"
 },
 {
 "slug": "oug-82-2024",

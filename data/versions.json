@@ -18641,6 +18641,33 @@
    ]
   },
   {
+   "slug": "legea-32-2019",
+   "path": "lege/2019/32",
+   "short": "Legea nr. 32/2019",
+   "title": "Legea nr. 32/2019",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/210055",
+   "versions": [
+    {
+     "from": "2019-01-24",
+     "units": 45,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/210055",
+     "sha256": "16cd7f258298c42c6df5874ce92f45b8f2d1128446e5c30e3e71131f564aa220"
+    },
+    {
+     "from": "2020-12-20",
+     "units": 45,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/234622",
+     "sha256": "647312b436702e9ab9bff71e5dbd23bdff5bc4c0db0b5a8216b4ff9d890dc47c"
+    },
+    {
+     "from": "2023-07-24",
+     "units": 45,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/210055",
+     "sha256": "4d25279611a94e160d4e7ff37a977c5206fe3f65682b9ea409c54ff9ab1ca896"
+    }
+   ]
+  },
+  {
    "slug": "legea-325-2006",
    "path": "lege/2006/325",
    "short": "Legea nr. 325/2006",
@@ -30164,6 +30191,81 @@
    ]
   },
   {
+   "slug": "oug-133-2021",
+   "path": "oug/2021/133",
+   "short": "OUG nr. 133/2021",
+   "title": "Ordonanța de urgență a Guvernului nr. 133/2021 privind gestionarea financiară a fondurilor europene pentru perioada de programare 2021-2027 alocate României din Fondul european de dezvoltare regională, Fondul de coeziune, Fondul social european Plus, Fondul pentru o tranziție justă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/249731",
+   "versions": [
+    {
+     "from": "2021-12-20",
+     "units": 40,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/249731",
+     "sha256": "11f377adb151532d81b9c0ff045d48dec664f264543849a233b67ad9774054fd"
+    },
+    {
+     "from": "2023-05-26",
+     "units": 43,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/267775",
+     "sha256": "31dc8b19b29d4c03e380271e116352578bb2ab04780d550846467c1bbce2ed1c"
+    },
+    {
+     "from": "2023-07-20",
+     "units": 43,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/268250",
+     "sha256": "35c25bdfc10ea3c15dd134a6da632bff1c427b9069fa6eb846310e7876fb697c"
+    },
+    {
+     "from": "2023-12-29",
+     "units": 43,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/269730",
+     "sha256": "23d7bf84d4c2d8676f3de64ec0cd905dc02265eb5151e24dbdb5693602e0d8f0"
+    },
+    {
+     "from": "2024-07-22",
+     "units": 43,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/285002",
+     "sha256": "7d5985b3db57d744ce86e4b1148735c18bc360e9e9efa58282504653999b651a"
+    },
+    {
+     "from": "2024-09-06",
+     "units": 43,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/287320",
+     "sha256": "aaa2b5566b89df217343bdf78c1906a946dcdd58df8ab9eb40e8bbea3de9f273"
+    },
+    {
+     "from": "2024-09-25",
+     "units": 44,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/288434",
+     "sha256": "1e7f4236a92bf0745ee2cebc3c9a844ef873f0a7b8bbc7daed045408ce373b6e"
+    },
+    {
+     "from": "2025-03-07",
+     "units": 44,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/294506",
+     "sha256": "9af26ca3183b6c66778afea71900ad66a161748b7df8b2a9d408e531a66903eb"
+    },
+    {
+     "from": "2025-09-12",
+     "units": 44,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/301786",
+     "sha256": "a9cadedf130f2d383efab70c66b8e1472c9dba4b25bfd2483ac3e3a2ed30149f"
+    },
+    {
+     "from": "2025-10-26",
+     "units": 44,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/303050",
+     "sha256": "c595796becc496c9f046f4a7e9c6d242534d05a85de348183ecae6ccf7e6863e"
+    },
+    {
+     "from": "2025-12-11",
+     "units": 44,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/304491",
+     "sha256": "b4673d08054c1e3f6dac54ac40c1b3fc68370244ff9b426789829fdec73d999f"
+    }
+   ]
+  },
+  {
    "slug": "oug-146-2002",
    "path": "oug/2002/146",
    "short": "OUG nr. 146/2002",
@@ -32441,6 +32543,69 @@
    ]
   },
   {
+   "slug": "oug-42-2019",
+   "path": "oug/2019/42",
+   "short": "OUG nr. 42/2019",
+   "title": "Ordonanța de urgență a Guvernului nr. 42/2019 privind stabilirea unor măsuri financiare pentru susținerea desfășurării Programului cultural național \"Timișoara - Capitală Europeană a Culturii în anul 2021\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/215050",
+   "versions": [
+    {
+     "from": "2019-06-18",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/215050",
+     "sha256": "b3c4ebe0dfc2e057e274f8d56da1bd9be18e69549d3d5ba589044dd820097239"
+    },
+    {
+     "from": "2019-11-10",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/219256",
+     "sha256": "3b7eb0d70c4665abdd84ed057e9d9479d0500ccc5f223622f449072da7a610fd"
+    },
+    {
+     "from": "2021-12-29",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/249508",
+     "sha256": "541ccb35c002b02ebfb6fcc9e759ba313e92c07d996675726afa1100043806cb"
+    },
+    {
+     "from": "2022-06-20",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/256202",
+     "sha256": "cb17761e3fcc7c3727defd41f171a953483608deaec16f9e691bb7c9c7be9abb"
+    },
+    {
+     "from": "2022-11-03",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/260164",
+     "sha256": "09df7a36e871b1d302920ca2787ced1abd369a85e92d873b1a9cda46739fc37f"
+    },
+    {
+     "from": "2023-09-03",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/268547",
+     "sha256": "0b63bfc511b215a5d97813118e88c1e8b5d78890700a2fd5f5ca829226e32629"
+    },
+    {
+     "from": "2023-11-10",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/269211",
+     "sha256": "fe3f0161b28eb252b61a8a623f2f777db1abf07ab1d466b20f1ec2d5d0f7f10a"
+    },
+    {
+     "from": "2024-06-10",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/283556",
+     "sha256": "45a862ada7aa054829c32a5c890fe43c5e461ab1939d4183737386e711f5db0c"
+    },
+    {
+     "from": "2024-12-05",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/291561",
+     "sha256": "9af28f67c1c5918feed7c24de582d3c393fa9e822fe445b2ad5105e9bfa2398b"
+    }
+   ]
+  },
+  {
    "slug": "oug-44-2008",
    "path": "oug/2008/44",
    "short": "OUG nr. 44/2008",
@@ -33425,6 +33590,27 @@
    ]
   },
   {
+   "slug": "oug-7-2023",
+   "path": "oug/2023/7",
+   "short": "OUG nr. 7/2023",
+   "title": "Ordonanța de urgență a Guvernului nr. 7/2023 pentru aprobarea Programului național de investiții \"Școli sigure și sănătoase\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/302188",
+   "versions": [
+    {
+     "from": "2023-03-06",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/265523",
+     "sha256": "cba02783edf230ec223b2605164cc09c39ba6eb0e3f1648f629be3e9d12e9ef1"
+    },
+    {
+     "from": "2025-10-02",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/302188",
+     "sha256": "aa64422022f11b07caadd0f588ac7f5a943825dce2e0c86af9a77165e3d4cd67"
+    }
+   ]
+  },
+  {
    "slug": "oug-70-2016",
    "path": "oug/2016/70",
    "short": "OUG nr. 70/2016",
@@ -33650,6 +33836,27 @@
    ]
   },
   {
+   "slug": "oug-76-2022",
+   "path": "oug/2022/76",
+   "short": "OUG nr. 76/2022",
+   "title": "Ordonanța de urgență a Guvernului nr. 76/2022 privind înființarea, organizarea și funcționarea Agenției Naționale pentru Dezvoltarea Infrastructurii în Sănătate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/265817",
+   "versions": [
+    {
+     "from": "2022-06-03",
+     "units": 28,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/255924",
+     "sha256": "6f5e5ae1b3d56d4a6b001233b61e6ab05f92f760d9a81ef3efc6e79f1d9a9c6a"
+    },
+    {
+     "from": "2023-03-31",
+     "units": 28,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/265817",
+     "sha256": "4fd5b9ab0859fd8a908ae1d42d38f91da2c691b43bafd286a0dbe7dc74eb0467"
+    }
+   ]
+  },
+  {
    "slug": "oug-77-2014",
    "path": "oug/2014/77",
    "short": "OUG nr. 77/2014",
@@ -33797,6 +34004,33 @@
    ]
   },
   {
+   "slug": "oug-81-2024",
+   "path": "oug/2024/81",
+   "short": "OUG nr. 81/2024",
+   "title": "Ordonanța de urgență a Guvernului nr. 81/2024 pentru înființarea Autorității Naționale de Reglementare în Domeniul Minier, Petrolier și al Stocării Geologice a Dioxidului de Carbon, precum și pentru modificarea și completarea unor acte normative din domeniul resurselor minerale, petrolului și stocării geologice a dioxidului de carbon",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/294393",
+   "versions": [
+    {
+     "from": "2024-06-29",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/284699",
+     "sha256": "607633995d4502c47e3a04d21ad418405da0f7546424437af915e08db8937f04"
+    },
+    {
+     "from": "2024-07-12",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/284939",
+     "sha256": "3cdc738d33bb6152ff7b29ede2e467ebd3a96f461d909ee0681a1e46b00aba59"
+    },
+    {
+     "from": "2024-07-29",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/286007",
+     "sha256": "39edf0078df23e22d9de1936df6e256de36558982cfb1767c484e537854706e1"
+    }
+   ]
+  },
+  {
    "slug": "oug-82-2012",
    "path": "oug/2012/82",
    "short": "OUG nr. 82/2012",
@@ -33940,6 +34174,51 @@
      "units": 9,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/188272",
      "sha256": "d1d43678d8db6d6c3913c436ae1261ca73b90afe30dd8a008450d932d0b44621"
+    }
+   ]
+  },
+  {
+   "slug": "oug-84-2023",
+   "path": "oug/2023/84",
+   "short": "OUG nr. 84/2023",
+   "title": "Ordonanța de urgență a Guvernului nr. 84/2023 privind instituirea unui mecanism de consultare și reacție coordonată în contextul implementării sistemului de autorizare la export introdus de Ucraina pentru produsele agricole",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/275321",
+   "versions": [
+    {
+     "from": "2023-10-13",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/275321",
+     "sha256": "25e3fee7b0676acc805789bd3951088e2d163885353594cec96657c5389bee2b"
+    },
+    {
+     "from": "2023-12-29",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/277682",
+     "sha256": "70b560425d65c8fcac97f96dd6f31a9396c762b1df62bb998feaa22844ef04de"
+    },
+    {
+     "from": "2024-06-25",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/284270",
+     "sha256": "0bbce7b2add67ee00c8666c891908ac8434e9949fa816cc07f8a718670370bee"
+    },
+    {
+     "from": "2024-10-16",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/275321",
+     "sha256": "8160acf5b49bc9bb3a1370332e6954d9bad8a80f7ac848276b14fbdae6c076b8"
+    },
+    {
+     "from": "2024-12-20",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/292525",
+     "sha256": "885a7ecc8eee347816cce1480c3c7f96db68bb2faaa49a3e21d80a6d2f2c2491"
+    },
+    {
+     "from": "2025-06-27",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/275321",
+     "sha256": "0a12ef9bf3f719d02bae5285f0eca6312f3c579d9c201b4cf746a178e7bf36f5"
     }
    ]
   },
