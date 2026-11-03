@@ -108462,6 +108462,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/99004"
 },
 {
+"slug": "hg-1379-2008",
+"path": "hg/2008/1379",
+"kind": "hg",
+"year": "2008",
+"number": "1379",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 1379/2008 pentru modificarea şi completarea Hotărârii Guvernului nr. 1.362/2001 privind atestarea domeniului public al judeţului Vâlcea, precum şi al municipiilor, oraşelor şi comunelor din judeţul Vâlcea",
+"short": "HG nr. 1379/2008",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2008-11-17",
+"latest": "2008-11-17",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/99220"
+},
+{
 "slug": "hg-1380-2008",
 "path": "hg/2008/1380",
 "kind": "hg",
@@ -108953,6 +108970,23 @@
 "from": "2008-11-12",
 "latest": "2008-11-12",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/99098"
+},
+{
+"slug": "hg-1430-2008",
+"path": "hg/2008/1430",
+"kind": "hg",
+"year": "2008",
+"number": "1430",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 1430/2008 privind numirea domnului Banu Gheorghe Dorel în funcţia publică de subprefect al judeţului Covasna",
+"short": "HG nr. 1430/2008",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2008-11-17",
+"latest": "2008-11-17",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/99191"
 },
 {
 "slug": "hg-1451-2008",

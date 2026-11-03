@@ -1,6 +1,6 @@
 # Every act in this repository
 
-13887 acts, 27,476 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+13889 acts, 27,478 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -4753,7 +4753,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (9143, of which 4142 amending acts)
+## Government decisions (HG) (9145, of which 4143 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -6431,6 +6431,7 @@
 | Hotărârea Guvernului nr. 1375/2008 privind aprobarea bugetului de venituri şi cheltuieli pe anul 2008 rectificat al Agenţiei Naţionale pentru Deşeuri Radioactive, aflată în subordinea Ministerului Economiei şi Finanţelor | [`hg/2008/1375/`](hg/2008/1375/) | amending act | 1 | 2008-11-07 | 2008-11-07 |
 | Hotărârea Guvernului nr. 1376/2008 privind transmiterea unui teren din domeniul public al statului şi din administrarea Ministerului Mediului şi Dezvoltării Durabile în domeniul public al judeţului Bihor şi în administrarea Regiei Autonome "Aeroportul Oradea" | [`hg/2008/1376/`](hg/2008/1376/) | in force | 1 | 2008-11-10 | 2008-11-10 |
 | Hotărârea Guvernului nr. 1377/2008 privind transmiterea unei părţi dintr-o clădire, aflată în domeniul public al statului şi în administrarea Ministerului Educaţiei, Cercetării şi Tineretului - Institutul Naţional de Cercetare şi Dezvoltare în Domeniul Geologiei, Geofizicii, Geochimiei şi Teledetecţiei "Institutul Geologic al României" Bucureşti, aflat în coordonarea Autorităţii Naţionale pentru Cercetare Ştiinţifică, în administrarea Ministerului Educaţiei, Cercetării şi Tineretului, pentru unele instituţii din subordinea acestuia | [`hg/2008/1377/`](hg/2008/1377/) | in force | 1 | 2008-11-10 | 2008-11-10 |
+| Hotărârea Guvernului nr. 1379/2008 pentru modificarea şi completarea Hotărârii Guvernului nr. 1.362/2001 privind atestarea domeniului public al judeţului Vâlcea, precum şi al municipiilor, oraşelor şi comunelor din judeţul Vâlcea | [`hg/2008/1379/`](hg/2008/1379/) | amending act | 1 | 2008-11-17 | 2008-11-17 |
 | Hotărârea Guvernului nr. 1380/2008 privind aprobarea activităţilor pentru care se acordă sprijin financiar producătorilor agricoli din sectorul vegetal, în anul 2008, a cuantumului sprijinului şi a sumei alocate fiecărei activităţi, precum şi pentru modificarea art. 1 alin. (2) lit. b) din Hotărârea Guvernului nr. 1.611/2006 privind stabilirea speciilor şi a valorii ajutorului financiar pentru producţia internă de seminţe şi material săditor, certificată oficial, în anii 2006 şi 2007, destinată pentru însămânţare sau plantare în campaniile agricole din anii de vânzare 2006/2007 şi 2007/2008, şi pentru aprobarea Normelor metodologice privind acordarea, verificarea şi plata ajutorului financiar | [`hg/2008/1380/`](hg/2008/1380/) | amending act | 1 | 2008-11-07 | 2008-11-07 |
 | Hotărârea Guvernului nr. 1382/2008 pentru modificarea anexelor nr. 1 şi 2 la Hotărârea Guvernului nr. 617/2008 privind aprobarea programelor de interes naţional în domeniul protecţiei drepturilor copilului pentru perioada 2008-2009 | [`hg/2008/1382/`](hg/2008/1382/) | amending act | 1 | 2008-11-05 | 2008-11-05 |
 | Hotărârea Guvernului nr. 1383/2008 privind modificarea Hotărârii Guvernului nr. 764/2007 pentru aprobarea constituirii comitetelor regionale de evaluare strategică şi corelare şi a Regulamentului-cadru de organizare şi funcţionare a acestora | [`hg/2008/1383/`](hg/2008/1383/) | amending act | 1 | 2008-11-11 | 2008-11-11 |
@@ -6460,6 +6461,7 @@
 | Hotărârea Guvernului nr. 1415/2008 privind recunoaşterea Asociaţiei "Uniunea Armenilor din România" ca fiind de utilitate publică | [`hg/2008/1415/`](hg/2008/1415/) | in force | 1 | 2008-11-14 | 2008-11-14 |
 | Hotărârea Guvernului nr. 1421/2008 | [`hg/2008/1421/`](hg/2008/1421/) | in force | 1 | 2008-11-21 | 2008-11-21 |
 | Hotărârea Guvernului nr. 1427/2008 privind declasificarea pct. nr. 9 din stenograma şedinţei Guvernului din data de 29 decembrie 2004 | [`hg/2008/1427/`](hg/2008/1427/) | in force | 1 | 2008-11-12 | 2008-11-12 |
+| Hotărârea Guvernului nr. 1430/2008 privind numirea domnului Banu Gheorghe Dorel în funcţia publică de subprefect al judeţului Covasna | [`hg/2008/1430/`](hg/2008/1430/) | in force | 1 | 2008-11-17 | 2008-11-17 |
 | Hotărârea Guvernului nr. 1451/2008 | [`hg/2008/1451/`](hg/2008/1451/) | in force | 1 | 2008-11-25 | 2008-11-25 |
 | Hotărârea Guvernului nr. 1467/2008 privind acordarea unor măsuri de sprijin familiilor afectate de explozia care a avut loc în data de 15 noiembrie 2008 la Exploatarea Minieră Petrila, judeţul Hunedoara | [`hg/2008/1467/`](hg/2008/1467/) | in force | 2 | 2008-11-21 | 2013-02-04 |
 | Hotărârea Guvernului nr. 1480/2008 | [`hg/2008/1480/`](hg/2008/1480/) | in force | 1 | 2008-11-27 | 2008-11-27 |
