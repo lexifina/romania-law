@@ -1,0 +1,19 @@
+# Hotărârea Guvernului nr. 488/2017 privind aprobarea Regulamentului de organizare și funcționare a Inspecției Muncii
+
+HG nr. 488/2017 · 2 versions, from 2017-09-23 (latest in force: 2021-09-26) · <https://legislatie.just.ro/Public/DetaliiDocument/191630>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Art. 1 | [art-001.md](art-001.md) | 1 | 2021-09-26 |
+| Art. 2 | [art-002.md](art-002.md) | 0 |  |
+| Art. 3 | [art-003.md](art-003.md) | 0 |  |
+
+Act id: `hg-488-2017` (tags `hg-488-2017/<day>`; `python tools/on.py <day> hg-488-2017`).
+
+## Decisions made by hand
+
+- HG nr. 488/2017: added 2026-11-02, one of the Portalul legislativ's consolidated forms per version, as for the other acts. A capture was used only if it was complete and the page showed the form its document id stands for. The forms are those listed by DetaliiDocument/191630 as captured on 2025-12-13, the newest capture of any of the act's pages: 6 forms, 6 held.
+- HG nr. 488/2017: the newest form held is that of 05.07.2024; amendments in force after it may be missing.
+- HG nr. 488/2017: added by Lexifina's automatic pass with the default rules: the forms are those the portal lists, each version is dated by its form or by the notes it prints, and no rule or ruling made for this act alone was applied. It was published only because every automatic check passed: two parses identical, the newest form read afresh equal to the latest version article by article, every article a form leaves out settled by the standing rules, every version dated by a rule or a stated in-force day, and no unexplained change other than diacritics or spacing.
+- HG nr. 488/2017: the first version is the Government decision as published in Monitorul Oficial nr. 594 of 25 July 2017 (DetaliiDocumentAfis/191630), dated 23 September 2017: its art. 3 puts it in force 60 days after publication. The portal holds no consolidated form before 1 January 2018, so the changes made up to then arrive together that day.
+- HG nr. 488/2017: forms with no change after normalisation, so no version: 2018-01-01 (194383), 2019-09-05 (217678), 2022-09-09 (258920), 2022-12-12 (262031), 2024-07-05 (191630).
