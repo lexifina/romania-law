@@ -1,6 +1,6 @@
 # Every act in this repository
 
-12101 acts, 25,683 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+12102 acts, 25,684 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -4550,7 +4550,7 @@
 | Ordonanța Guvernului nr. 21/2025 pentru modificarea și completarea Legii nr. 431/2023 privind asigurarea unui nivel minim global de impozitare a grupurilor de întreprinderi multinaționale și a grupurilor naționale de mari dimensiuni | [`og/2025/21/`](og/2025/21/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 | Ordonanța Guvernului nr. 22/2025 pentru modificarea și completarea Legii nr. 227/2015 privind Codul fiscal | [`og/2025/22/`](og/2025/22/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 
-## Government decisions (HG) (7560, of which 3260 amending acts)
+## Government decisions (HG) (7561, of which 3261 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -6487,6 +6487,7 @@
 | Hotărârea Guvernului nr. 495/2019 pentru modificarea și completarea Normelor metodologice de aplicare a prevederilor Ordonanței de urgență a Guvernului nr. 98/2017 privind funcția de control ex ante al procesului de atribuire a contractelor/acordurilor-cadru de achiziție publică, a contractelor/acordurilor-cadru sectoriale și a contractelor de concesiune de lucrări și concesiune de servicii, prevăzute în anexa nr. 1 la Hotărârea Guvernului nr. 419/2018 | [`hg/2019/495/`](hg/2019/495/) | amending act | 1 | 2019-07-24 | 2019-07-24 |
 | Hotărârea Guvernului nr. 506/2019 privind trecerea unor construcții, aflate în administrarea Ministerului Afacerilor Interne - Inspectoratul Teritorial al Poliției de Frontieră Sighetu Marmației, din domeniul public al statului în domeniul privat al acestuia, în vederea scoaterii din funcțiune, casării și valorificării, precum și actualizarea anexei nr. 1 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului | [`hg/2019/506/`](hg/2019/506/) | amending act | 1 | 2019-07-23 | 2019-07-23 |
 | Hotărârea Guvernului nr. 509/2019 pentru aprobarea Protocolului Sesiunii a XXX-a a Comisiei hidrotehnice româno-ungare, semnat la Gyula la 17 mai 2019, pentru aplicarea Acordului dintre Guvernul României și Guvernul Republicii Ungare privind colaborarea pentru protecția și utilizarea durabilă a apelor de frontieră, semnat la Budapesta la 15 septembrie 2003 | [`hg/2019/509/`](hg/2019/509/) | amending act | 1 | 2019-08-13 | 2019-08-13 |
+| Hotărârea Guvernului nr. 535/2019 privind actualizarea anexei nr. 30 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului, prin scăderea din inventarul centralizat al bunurilor din domeniul public al statului şi din administrarea unităţilor subordonate Ministerului Tineretului şi Sportului a unor imobile restituite persoanelor îndreptăţite, în baza unor decizii ale unităţii deţinătoare şi a unor hotărâri judecătoreşti | [`hg/2019/535/`](hg/2019/535/) | amending act | 1 | 2019-08-06 | 2019-08-06 |
 | Hotărârea Guvernului nr. 536/2019 privind constatarea încetării, prin efectul legii, a mandatului membrilor Plenului Oficiului Național de Prevenire și Combatere a Spălării Banilor | [`hg/2019/536/`](hg/2019/536/) | in force | 1 | 2019-07-29 | 2019-07-29 |
 | Hotărârea Guvernului nr. 550/2019 privind aprobarea modelului steagului comunei Vama, județul Satu Mare | [`hg/2019/550/`](hg/2019/550/) | amending act | 1 | 2019-08-13 | 2019-08-13 |
 | Hotărârea Guvernului nr. 551/2019 privind aprobarea modelului steagului comunei Cristian, județul Sibiu | [`hg/2019/551/`](hg/2019/551/) | amending act | 1 | 2019-08-13 | 2019-08-13 |
