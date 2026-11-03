@@ -1,6 +1,6 @@
 # Every act in this repository
 
-15422 acts, 29,044 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+15423 acts, 29,045 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -4924,7 +4924,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (10507, of which 4914 amending acts)
+## Government decisions (HG) (10508, of which 4915 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -14247,6 +14247,7 @@
 | Hotărârea Guvernului nr. 1156/2024 privind aprobarea Actului adiţional nr. 7/2024 la Licenţa de concesiune pentru exploatare nr. 1.513/2000 | [`hg/2024/1156/`](hg/2024/1156/) | amending act | 1 | 2024-09-19 | 2024-09-19 |
 | Hotărârea Guvernului nr. 1157/2024 privind aprobarea Actului adiţional nr. 6/2024 la Licenţa de concesiune pentru exploatare nr. 163/1999 | [`hg/2024/1157/`](hg/2024/1157/) | amending act | 1 | 2024-09-19 | 2024-09-19 |
 | Hotărârea Guvernului nr. 1158/2024 privind aprobarea Actului adiţional nr. 8/2024 la Licenţa de concesiune pentru exploatare nr. 161/1999 | [`hg/2024/1158/`](hg/2024/1158/) | amending act | 1 | 2024-09-19 | 2024-09-19 |
+| Hotărârea Guvernului nr. 1163/2024 privind aprobarea stemei comunei Sânsimion, judeţul Harghita | [`hg/2024/1163/`](hg/2024/1163/) | amending act | 1 | 2024-09-25 | 2024-09-25 |
 | Hotărârea Guvernului nr. 1164/2024 privind aprobarea stemei comunei Suseni, judeţul Harghita | [`hg/2024/1164/`](hg/2024/1164/) | amending act | 1 | 2024-09-25 | 2024-09-25 |
 | Hotărârea Guvernului nr. 1165/2024 pentru stabilirea categoriilor de cheltuieli ocazionate de aducerea în ţară a persoanei solicitate, extrădate sau extrădabile care s-a sustras de la executarea pedepsei | [`hg/2024/1165/`](hg/2024/1165/) | in force | 1 | 2024-09-20 | 2024-09-20 |
 | Hotărârea Guvernului nr. 1166/2024 privind aprobarea Strategiei naţionale pentru dezvoltarea şi susţinerea digitalizării prin intermediul centrelor de inovare digitală din România 2024-2027 | [`hg/2024/1166/`](hg/2024/1166/) | amending act | 1 | 2024-09-30 | 2024-09-30 |
