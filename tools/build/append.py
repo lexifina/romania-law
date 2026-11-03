@@ -57,7 +57,8 @@ def published_state(repo: Path, c: dict) -> tuple[dict[str, str], dict[str, tupl
     for act in c['acts']:
         # No history found, yet files in its folder: appending it as new would write its first version over a later
         # text. Never; hold it (or refuse) for a look by hand.
-        if not rows[act['slug']] and act.get('path') and act['versions'] and cat.read(f'main:{act["path"]}') is not None:
+        # (A folder holding only a README.md, which a documentation commit wrote, has no text: it doesn't count.)
+        if not rows[act['slug']] and act.get('path') and act['versions'] and K.tree_oids(cat, 'main', act['path'], {}):
             problems[act['slug']] = (act['versions'][0]['from'], [
                 f'{act["slug"]}: its folder {act["path"]} is on main but no commit with In-force touches it '
                 '(an index lost the act?); not appended as new'])
@@ -549,7 +550,13 @@ def append(folder: Path, repo: Path, docs_date: str, dry_run: bool = False, comm
                     'acts': touched, 'units': len(files), 'branch': 'main', 'clamped': x['day'] < '1970-01-01'})
     full_log = published_log(repo) + log
     all_tags = {t: 0 for t in existing_tags} | {t: m for t, m in tags.items()}
-    docs = B.docs_files(c, folder, raw, full_log, all_tags, docs_date)
+    # Documentation covers acts with text history on main after this append: those main held before it and those it
+    # appends. An act in the corpus that is not appended (it takes effect later, or is held back) gets no README and
+    # no index row yet; a README-only folder would otherwise read as a published act with no text.
+    on_main = set(state) | {a['slug'] for a in sub['acts']}
+    tagged = {t.split('/', 1)[0] for t in existing_tags if '/' in t and not t.startswith('law/')}  # <id>/<day> tags
+    c_pub = {**c, 'acts': [a for a in c['acts'] if a['slug'] in on_main]}
+    docs = B.docs_files(c_pub, folder, raw, full_log, all_tags, docs_date)
     # Ship this script beside build.py, so the repository says how its appended commits were made.
     for name in ('append.py', 'layout.py'):
         docs[f'tools/build/{name}'] = (HERE / name).read_text(encoding='utf-8').replace('\r\n', '\n')
@@ -559,8 +566,18 @@ def append(folder: Path, repo: Path, docs_date: str, dry_run: bool = False, comm
     # main: head's versions.json, else the last one that had them.
     listed = {a['slug'] for a in c['acts']}
     extra, rows_for, path_for = absent_acts(repo, head, listed, known_paths, c)
-    index = {**c, 'acts': c['acts'] + extra}
-    docs['ACTS.md'] = L.acts_md(index) if known_paths else acts_index(c)
+    # Of the acts this corpus doesn't have, keep the withdrawn and those with history (held back this cycle).
+    no_text = [a for a in extra if not a.get('_withdrawn') and a['slug'] not in tagged]
+    extra = [a for a in extra if a not in no_text]
+    index = {**c, 'acts': c_pub['acts'] + extra}
+    # READMEs that earlier documentation commits wrote into folders with no text are removed (documentation, not
+    # history: each documentation commit regenerates it).
+    readmes = {f for f in git(repo, 'ls-tree', '-r', '--name-only', 'main').splitlines() if f.endswith('/README.md')}
+    for a in [a for a in c['acts'] if a['slug'] not in on_main and a['slug'] not in tagged] + no_text:
+        p = f'{a.get("path") or known_paths.get(a["slug"]) or a["slug"]}/README.md'
+        if p in readmes:
+            docs[p] = None
+    docs['ACTS.md'] = L.acts_md(index) if known_paths else acts_index(c_pub)
     docs['data/acts.json'] = L.acts_json(index)
     vj = json.loads(docs['data/versions.json'])
     vj['acts'] += [rows_for[a['slug']] for a in extra]  # kept, so the next publish still knows them
@@ -570,7 +587,7 @@ def append(folder: Path, repo: Path, docs_date: str, dry_run: bool = False, comm
         pj = json.loads(L.paths_json(index, since))
         # paths.json never drops a folder: an entry main has stays, whatever this corpus holds.
         for s, p in {**known_paths, **path_for}.items():
-            if not any(a['slug'] == s and a.get('_withdrawn') for a in extra):
+            if (s in on_main or s in tagged) and not any(a['slug'] == s and a.get('_withdrawn') for a in extra):
                 pj['paths'].setdefault(s, p)
         pj['paths'] = dict(sorted(pj['paths'].items()))
         docs['data/paths.json'] = json.dumps(pj, ensure_ascii=False, indent=0) + '\n'
