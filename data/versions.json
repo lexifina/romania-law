@@ -112319,6 +112319,21 @@
    ]
   },
   {
+   "slug": "hg-1165-2008",
+   "path": "hg/2008/1165",
+   "short": "HG nr. 1165/2008",
+   "title": "Hotărârea Guvernului nr. 1165/2008 privind numirea domnului Andrei Cosmin în funcţia publică de subprefect al judeţului Constanţa",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97665",
+   "versions": [
+    {
+     "from": "2008-09-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97665",
+     "sha256": "a6d7bef9730c5cbc263f9d64dfa386e8aedf6a01f43b377de5645b7d83e19b75"
+    }
+   ]
+  },
+  {
    "slug": "hg-1165-2021",
    "path": "hg/2021/1165",
    "short": "HG nr. 1165/2021",
@@ -112420,6 +112435,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/288969",
      "sha256": "0b7b6e8dac11bf25adce1a7796e0518d845b7128bd4c9e520dfa43e9b4d02aae"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1167-2008",
+   "path": "hg/2008/1167",
+   "short": "HG nr. 1167/2008",
+   "title": "Hotărârea Guvernului nr. 1167/2008 privind încetarea exercitării funcţiei publice de subprefect al judeţului Vrancea de către doamna Flenchea Mioara",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97666",
+   "versions": [
+    {
+     "from": "2008-09-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97666",
+     "sha256": "37048b1f29a4bd910552303a8f4106466d986f632db803b285f561f79878aeed"
     }
    ]
   },

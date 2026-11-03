@@ -1,6 +1,6 @@
 # Every act in this repository
 
-13686 acts, 27,275 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+13688 acts, 27,277 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -4722,7 +4722,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (8973, of which 4045 amending acts)
+## Government decisions (HG) (8975, of which 4045 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -6248,7 +6248,9 @@
 | Hotărârea Guvernului nr. 1162/2008 privind numirea domnului Didilescu Silviu-George în funcţia publică de subprefect al judeţului Hunedoara | [`hg/2008/1162/`](hg/2008/1162/) | in force | 1 | 2008-09-29 | 2008-09-29 |
 | Hotărârea Guvernului nr. 1163/2008 privind numirea domnului Arjoca Sorin în funcţia publică de subprefect al judeţului Gorj | [`hg/2008/1163/`](hg/2008/1163/) | in force | 1 | 2008-09-29 | 2008-09-29 |
 | Hotărârea Guvernului nr. 1164/2008 privind numirea doamnei Crăiţă Silvia în funcţia publică de subprefect al judeţului Giurgiu | [`hg/2008/1164/`](hg/2008/1164/) | in force | 1 | 2008-09-29 | 2008-09-29 |
+| Hotărârea Guvernului nr. 1165/2008 privind numirea domnului Andrei Cosmin în funcţia publică de subprefect al judeţului Constanţa | [`hg/2008/1165/`](hg/2008/1165/) | in force | 1 | 2008-09-29 | 2008-09-29 |
 | Hotărârea Guvernului nr. 1166/2008 privind trecerea domnului Clăbescu Doru Eduard din funcţia publică de inspector guvernamental în funcţia publică de subprefect al municipiului Bucureşti | [`hg/2008/1166/`](hg/2008/1166/) | in force | 1 | 2008-09-26 | 2008-09-26 |
+| Hotărârea Guvernului nr. 1167/2008 privind încetarea exercitării funcţiei publice de subprefect al judeţului Vrancea de către doamna Flenchea Mioara | [`hg/2008/1167/`](hg/2008/1167/) | in force | 1 | 2008-09-29 | 2008-09-29 |
 | Hotărârea Guvernului nr. 1190/2008 privind organizarea la Bucureşti, în data de 13 octombrie 2008, a evenimentului "OPEN DAYS - Ziua Regiunilor" | [`hg/2008/1190/`](hg/2008/1190/) | in force | 1 | 2008-09-29 | 2008-09-29 |
 | Hotărârea Guvernului nr. 1193/2008 | [`hg/2008/1193/`](hg/2008/1193/) | in force | 1 | 2008-10-01 | 2008-10-01 |
 | Hotărârea Guvernului nr. 1244/2008 | [`hg/2008/1244/`](hg/2008/1244/) | in force | 1 | 2008-10-14 | 2008-10-14 |
