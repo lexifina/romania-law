@@ -1,6 +1,6 @@
 # Every act in this repository
 
-8762 acts, 21,764 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+8768 acts, 21,826 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -32,7 +32,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (2055, of which 835 amending acts)
+## Laws (legi) (2060, of which 835 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -223,6 +223,7 @@
 | Legea nr. 129/1998 | [`lege/1998/129/`](lege/1998/129/) | in force | 12 | 1998-06-30 | 2017-01-30 |
 | Legea nr. 135/1998 privind aprobarea Ordonanței de urgență a Guvernului nr. 81/1997 pentru reglementarea plății premiilor anuale, a celui de-al 13-lea salariu sau a altor sume de această natură, suportate din fondul de salarii, care, de regulă, se acordă la finele anului | [`lege/1998/135/`](lege/1998/135/) | amending act | 1 | 1998-07-02 | 1998-07-02 |
 | Legea nr. 142/1998 | [`lege/1998/142/`](lege/1998/142/) | in force | 29 | 1998-07-13 | 2017-11-27 |
+| Legea nr. 145/1998 | [`lege/1998/145/`](lege/1998/145/) | repealed 2006-07-24 | 3 | 1998-07-13 | 2006-07-24 |
 | Legea nr. 151/1998 | [`lege/1998/151/`](lege/1998/151/) | in force | 3 | 1998-07-16 | 2003-07-16 |
 | Legea nr. 152/1998 privind înființarea Agenției Naționale pentru Locuințe | [`lege/1998/152/`](lege/1998/152/) | in force | 37 | 1998-07-16 | 2025-02-03 |
 | Legea nr. 154/1998 privind sistemul de stabilire a salariilor de bază în sectorul bugetar și a indemnizațiilor pentru persoane care ocupă funcții de demnitate publică | [`lege/1998/154/`](lege/1998/154/) | in force | 2 | 1998-07-16 | 2008-12-05 |
@@ -271,6 +272,7 @@
 | Legea nr. 156/2000 | [`lege/2000/156/`](lege/2000/156/) | in force | 10 | 2000-08-04 | 2022-02-23 |
 | Legea nr. 159/2000 | [`lege/2000/159/`](lege/2000/159/) | in force | 1 | 2000-10-05 | 2000-10-05 |
 | Legea nr. 176/2000 | [`lege/2000/176/`](lege/2000/176/) | in force | 6 | 2001-02-02 | 2010-07-02 |
+| Legea nr. 178/2000 | [`lege/2000/178/`](lege/2000/178/) | in force | 10 | 2000-12-24 | 2011-02-17 |
 | Legea nr. 188/2000 privind executorii judecătorești | [`lege/2000/188/`](lege/2000/188/) | in force | 14 | 2000-11-10 | 2022-07-17 |
 | Legea nr. 189/2000 | [`lege/2000/189/`](lege/2000/189/) | in force | 19 | 2000-11-08 | 2013-02-15 |
 | Legea nr. 193/2000 privind clauzele abuzive din contractele încheiate între profesioniști și consumatori | [`lege/2000/193/`](lege/2000/193/) | in force | 10 | 2000-12-10 | 2022-05-28 |
@@ -524,6 +526,7 @@
 | Legea nr. 311/2004 | [`lege/2004/311/`](lege/2004/311/) | in force | 1 | 2004-07-03 | 2004-07-03 |
 | Legea nr. 312/2004 | [`lege/2004/312/`](lege/2004/312/) | in force | 3 | 2004-07-30 | 2005-01-01 |
 | Legea nr. 315/2004 | [`lege/2004/315/`](lege/2004/315/) | in force | 6 | 2004-08-28 | 2024-03-29 |
+| Legea nr. 317/2004 | [`lege/2004/317/`](lege/2004/317/) | repealed 2022-12-16 | 21 | 2004-07-05 | 2022-12-16 |
 | Legea nr. 329/2004 | [`lege/2004/329/`](lege/2004/329/) | in force | 1 | 2004-07-23 | 2004-07-23 |
 | Legea nr. 341/2004 | [`lege/2004/341/`](lege/2004/341/) | in force | 20 | 2004-07-23 | 2021-10-11 |
 | Legea nr. 346/2004 privind stimularea înființării și dezvoltării întreprinderilor mici și mijlocii | [`lege/2004/346/`](lege/2004/346/) | in force | 20 | 2004-08-01 | 2025-12-12 |
@@ -624,6 +627,7 @@
 | Legea nr. 183/2006 | [`lege/2006/183/`](lege/2006/183/) | in force | 1 | 2007-05-23 | 2007-05-23 |
 | Legea nr. 186/2006 privind aprobarea Ordonanței de urgență a Guvernului nr. 171/2005 pentru modificarea și completarea Legii nr. 346/2002 privind asigurarea pentru accidente de muncă și boli profesionale | [`lege/2006/186/`](lege/2006/186/) | amending act | 1 | 2006-05-25 | 2006-05-25 |
 | Legea nr. 192/2006 privind medierea și organizarea profesiei de mediator | [`lege/2006/192/`](lege/2006/192/) | in force | 17 | 2006-05-25 | 2019-07-29 |
+| Legea nr. 193/2006 | [`lege/2006/193/`](lege/2006/193/) | in force | 15 | 2006-05-26 | 2018-11-14 |
 | Legea nr. 200/2006 | [`lege/2006/200/`](lege/2006/200/) | in force | 12 | 2007-01-01 | 2024-11-11 |
 | Legea nr. 202/2006 | [`lege/2006/202/`](lege/2006/202/) | in force | 9 | 2006-07-24 | 2024-02-03 |
 | Legea nr. 204/2006 | [`lege/2006/204/`](lege/2006/204/) | in force | 12 | 2006-06-03 | 2025-04-17 |
@@ -912,6 +916,7 @@
 | Legea nr. 165/2013 privind măsurile pentru finalizarea procesului de restituire, în natură sau prin echivalent, a imobilelor preluate în mod abuziv în perioada regimului comunist în România | [`lege/2013/165/`](lege/2013/165/) | in force | 25 | 2013-05-20 | 2025-08-08 |
 | Legea nr. 167/2013 | [`lege/2013/167/`](lege/2013/167/) | in force | 2 | 2013-06-06 | 2014-01-29 |
 | Legea nr. 176/2013 | [`lege/2013/176/`](lege/2013/176/) | in force | 1 | 2013-06-14 | 2013-06-14 |
+| Legea nr. 185/2013 | [`lege/2013/185/`](lege/2013/185/) | in force | 4 | 2013-07-08 | 2018-02-15 |
 | Legea nr. 186/2013 | [`lege/2013/186/`](lege/2013/186/) | in force | 3 | 2013-07-14 | 2022-06-05 |
 | Legea nr. 187/2013 | [`lege/2013/187/`](lege/2013/187/) | in force | 1 | 2013-07-04 | 2013-07-04 |
 | Legea nr. 191/2013 privind aprobarea Ordonanței de urgență a Guvernului nr. 133/2010 pentru modificarea și completarea Legii nr. 95/2006 privind reforma în domeniul sănătății, în vederea eficientizării unor instituții și activități în acest domeniu | [`lege/2013/191/`](lege/2013/191/) | amending act | 1 | 2013-07-05 | 2013-07-05 |
@@ -3619,7 +3624,7 @@
 | Ordonanța de urgență a Guvernului nr. 30/2026 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 23/2004 privind stabilirea unor măsuri de reorganizare a Autorităţii pentru Valorificarea Activelor Bancare prin comasarea prin absorbţie cu Autoritatea pentru Privatizare şi Administrarea Participaţiilor Statului | [`oug/2026/30/`](oug/2026/30/) | amending act | 1 | 2026-04-21 | 2026-04-21 |
 | Ordonanța de urgență a Guvernului nr. 33/2026 pentru modificarea şi completarea Legii educaţiei fizice şi sportului nr. 69/2000 | [`oug/2026/33/`](oug/2026/33/) | amending act | 1 | 2026-04-27 | 2026-04-27 |
 
-## Ordinances (OG) (465, of which 91 amending acts)
+## Ordinances (OG) (466, of which 91 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -3728,6 +3733,7 @@
 | Ordonanța Guvernului nr. 127/2000 | [`og/2000/127/`](og/2000/127/) | in force | 1 | 2000-09-02 | 2000-09-02 |
 | Ordonanța Guvernului nr. 128/2000 | [`og/2000/128/`](og/2000/128/) | in force | 6 | 2000-09-02 | 2017-02-01 |
 | Ordonanța Guvernului nr. 129/2000 | [`og/2000/129/`](og/2000/129/) | in force | 13 | 2001-01-01 | 2017-10-12 |
+| Ordonanța Guvernului nr. 130/2000 | [`og/2000/130/`](og/2000/130/) | repealed 2014-06-13 | 9 | 2000-10-02 | 2014-06-13 |
 | Ordonanța Guvernului nr. 136/2000 | [`og/2000/136/`](og/2000/136/) | in force | 3 | 2000-10-02 | 2010-07-02 |
 | Ordonanța Guvernului nr. 137/2000 privind prevenirea și sancționarea tuturor formelor de discriminare | [`og/2000/137/`](og/2000/137/) | in force | 22 | 2000-11-01 | 2022-07-02 |
 | Ordonanța Guvernului nr. 2/2001 privind regimul juridic al contravențiilor | [`og/2001/2/`](og/2001/2/) | in force | 23 | 2001-08-24 | 2026-03-27 |
