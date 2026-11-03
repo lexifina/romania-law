@@ -1,6 +1,6 @@
 # Every act in this repository
 
-6598 acts, 19,147 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+6599 acts, 19,150 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -3783,7 +3783,7 @@
 | Ordonanța Guvernului nr. 21/2025 pentru modificarea și completarea Legii nr. 431/2023 privind asigurarea unui nivel minim global de impozitare a grupurilor de întreprinderi multinaționale și a grupurilor naționale de mari dimensiuni | [`og/2025/21/`](og/2025/21/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 | Ordonanța Guvernului nr. 22/2025 pentru modificarea și completarea Legii nr. 227/2015 privind Codul fiscal | [`og/2025/22/`](og/2025/22/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 
-## Government decisions (HG) (2823, of which 929 amending acts)
+## Government decisions (HG) (2824, of which 929 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -4169,6 +4169,7 @@
 | Hotărârea Guvernului nr. 13/2004 | [`hg/2004/13/`](hg/2004/13/) | in force | 1 | 2004-01-23 | 2004-01-23 |
 | Hotărârea Guvernului nr. 44/2004 | [`hg/2004/44/`](hg/2004/44/) | in force | 2 | 2004-02-06 | 2015-06-01 |
 | Hotărârea Guvernului nr. 79/2004 | [`hg/2004/79/`](hg/2004/79/) | in force | 1 | 2004-02-12 | 2004-02-12 |
+| Hotărârea Guvernului nr. 85/2004 | [`hg/2004/85/`](hg/2004/85/) | repealed 2015-06-13 | 3 | 2004-04-10 | 2015-06-13 |
 | Hotărârea Guvernului nr. 88/2004 | [`hg/2004/88/`](hg/2004/88/) | in force | 1 | 2004-03-14 | 2004-03-14 |
 | Hotărârea Guvernului nr. 115/2004 | [`hg/2004/115/`](hg/2004/115/) | in force | 2 | 2004-06-25 | 2005-08-10 |
 | Hotărârea Guvernului nr. 215/2004 | [`hg/2004/215/`](hg/2004/215/) | in force | 1 | 2004-02-27 | 2004-02-27 |

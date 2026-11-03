@@ -70025,6 +70025,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/49707"
 },
 {
+"slug": "hg-85-2004",
+"path": "hg/2004/85",
+"kind": "hg",
+"year": "2004",
+"number": "85",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 85/2004",
+"short": "HG nr. 85/2004",
+"code": null,
+"status": "repealed 2015-06-13",
+"versions": 3,
+"from": "2004-04-10",
+"latest": "2015-06-13",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/76083"
+},
+{
 "slug": "hg-88-2004",
 "path": "hg/2004/88",
 "kind": "hg",

@@ -21668,6 +21668,33 @@
    ]
   },
   {
+   "slug": "hg-85-2004",
+   "path": "hg/2004/85",
+   "short": "HG nr. 85/2004",
+   "title": "Hotărârea Guvernului nr. 85/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/76083",
+   "versions": [
+    {
+     "from": "2004-04-10",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/49653",
+     "sha256": "d0bd45fbbc2f50e44b235f00a4d49dbbc5824e6490e59094b041a63b602ee902"
+    },
+    {
+     "from": "2004-04-10",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/76083",
+     "sha256": "c716285bfca5a986d64d20d4f6b1be192642c4d957d6f2e502cc56bb793d3153"
+    },
+    {
+     "from": "2015-06-13",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/203418",
+     "sha256": "7da94e03daa8b13f114358c257454ba9bd9ccd47f7d8c5dd8caaff620475ee20"
+    }
+   ]
+  },
+  {
    "slug": "hg-850-2017",
    "path": "hg/2017/850",
    "short": "HG nr. 850/2017",
