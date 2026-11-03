@@ -1,6 +1,6 @@
 # Every act in this repository
 
-6079 acts, 17,466 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+6080 acts, 17,469 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -3767,7 +3767,7 @@
 | Ordonanța Guvernului nr. 21/2025 pentru modificarea și completarea Legii nr. 431/2023 privind asigurarea unui nivel minim global de impozitare a grupurilor de întreprinderi multinaționale și a grupurilor naționale de mari dimensiuni | [`og/2025/21/`](og/2025/21/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 | Ordonanța Guvernului nr. 22/2025 pentru modificarea și completarea Legii nr. 227/2015 privind Codul fiscal | [`og/2025/22/`](og/2025/22/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 
-## Government decisions (HG) (2320, of which 841 amending acts)
+## Government decisions (HG) (2321, of which 841 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -3809,6 +3809,7 @@
 | Hotărârea Guvernului nr. 315/1996 privind instituirea regimului special de supraveghere economico-financiară la unele societăţi comerciale cu capital majoritar de stat | [`hg/1996/315/`](hg/1996/315/) | in force | 2 | 1996-05-13 | 1996-10-31 |
 | Hotărârea Guvernului nr. 738/1996 | [`hg/1996/738/`](hg/1996/738/) | in force | 1 | 1996-09-03 | 1996-09-03 |
 | Hotărârea Guvernului nr. 1312/1996 | [`hg/1996/1312/`](hg/1996/1312/) | in force | 2 | 1996-12-09 | 2016-01-06 |
+| Hotărârea Guvernului nr. 1313/1996 | [`hg/1996/1313/`](hg/1996/1313/) | in force | 3 | 1996-12-09 | 2005-01-02 |
 | Hotărârea Guvernului nr. 361/1997 | [`hg/1997/361/`](hg/1997/361/) | in force | 1 | 1997-07-23 | 1997-07-23 |
 | Hotărârea Guvernului nr. 398/1997 | [`hg/1997/398/`](hg/1997/398/) | in force | 1 | 1997-08-06 | 1997-08-06 |
 | Hotărârea Guvernului nr. 458/1997 | [`hg/1997/458/`](hg/1997/458/) | in force | 2 | 1997-08-25 | 2005-12-29 |

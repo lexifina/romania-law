@@ -9428,6 +9428,33 @@
    ]
   },
   {
+   "slug": "hg-1313-1996",
+   "path": "hg/1996/1313",
+   "short": "HG nr. 1313/1996",
+   "title": "Hotărârea Guvernului nr. 1313/1996",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/237978",
+   "versions": [
+    {
+     "from": "1996-12-09",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/10377",
+     "sha256": "065ccfca49c81023988c489b7eedb1d56f8031e51bdf8b23ffbe677b5f6a7840"
+    },
+    {
+     "from": "2001-08-08",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/237973",
+     "sha256": "36355411a4baf7331482285f85089b974a6f24c1b1229c3a599f0b337bcca05c"
+    },
+    {
+     "from": "2005-01-02",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/237978",
+     "sha256": "663ef5947eb195a5891803779b265a6e847422b15f56ffb8b5968f9221ed1b97"
+    }
+   ]
+  },
+  {
    "slug": "hg-395-2016",
    "path": "hg/2016/395",
    "short": "HG nr. 395/2016",
