@@ -1,6 +1,6 @@
 # Every act in this repository
 
-15676 acts, 29,300 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+15677 acts, 29,301 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -4930,7 +4930,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (10755, of which 5048 amending acts)
+## Government decisions (HG) (10756, of which 5049 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -8807,6 +8807,7 @@
 | Hotărârea Guvernului nr. 692/2018 pentru modificarea şi completarea Hotărârii Guvernului nr. 158/2018 privind aprobarea Nomenclatorului domeniilor şi al specializărilor/programelor de studii universitare şi a structurii instituţiilor de învăţământ superior pentru anul universitar 2018-2019 | [`hg/2018/692/`](hg/2018/692/) | amending act | 1 | 2018-09-13 | 2018-09-13 |
 | Hotărârea Guvernului nr. 693/2018 pentru modificarea Hotărârii Guvernului nr. 899/2003 privind stabilirea condițiilor referitoare la aprobarea de model pentru aparatul de control în transporturile rutiere, la omologarea de tip a limitatoarelor de viteză, precum și a condițiilor de montare, reparare, reglare și verificare a aparatelor de control în transporturile rutiere și a limitatoarelor de viteză | [`hg/2018/693/`](hg/2018/693/) | amending act | 4 | 2018-09-11 | 2020-01-01 |
 | Hotărârea Guvernului nr. 697/2018 pentru completarea Hotărârii Guvernului nr. 742/2010 privind declanșarea procedurilor de expropriere a imobilelor proprietate privată situate pe amplasamentul lucrării de utilitate publică "Reabilitare DN 1 (E 68), Brașov-Sibiu, km 173 + 800 și km 296 + 293" din cadrul Proiectului de reabilitare a drumurilor, etapa a V-a | [`hg/2018/697/`](hg/2018/697/) | amending act | 1 | 2018-09-13 | 2018-09-13 |
+| Hotărârea Guvernului nr. 704/2018 privind aprobarea stemei comunei Gilău, judeţul Cluj | [`hg/2018/704/`](hg/2018/704/) | amending act | 1 | 2018-10-02 | 2018-10-02 |
 | Hotărârea Guvernului nr. 706/2018 privind modificarea datelor de identificare a unor imobile aflate în domeniul public al statului și în administrarea Ministerului Justiției și transmiterea unor imobile din domeniul public al statului și din administrarea Ministerului Justiției în administrarea curților de apel și a tribunalelor | [`hg/2018/706/`](hg/2018/706/) | amending act | 1 | 2018-09-13 | 2018-09-13 |
 | Hotărârea Guvernului nr. 707/2018 pentru aprobarea Normelor metodologice de aplicare a Legii nr. 62/2018 privind combaterea buruienii ambrozia | [`hg/2018/707/`](hg/2018/707/) | amending act | 1 | 2019-01-01 | 2019-01-01 |
 | Hotărârea Guvernului nr. 708/2018 privind trecerea unor imobile, aflate în administrarea Regiei Autonome "Administraţia Patrimoniului Protocolului de Stat", din domeniul privat al statului în domeniul public al statului, atribuirea destinaţiei de reşedinţă oficială pentru aceste imobile şi pentru modificarea şi completarea unor acte normative | [`hg/2018/708/`](hg/2018/708/) | amending act | 1 | 2018-09-10 | 2018-09-10 |
