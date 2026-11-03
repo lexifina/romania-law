@@ -1,6 +1,6 @@
 # Every act in this repository
 
-6545 acts, 18,886 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+6562 acts, 18,984 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -3780,7 +3780,7 @@
 | Ordonanța Guvernului nr. 21/2025 pentru modificarea și completarea Legii nr. 431/2023 privind asigurarea unui nivel minim global de impozitare a grupurilor de întreprinderi multinaționale și a grupurilor naționale de mari dimensiuni | [`og/2025/21/`](og/2025/21/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 | Ordonanța Guvernului nr. 22/2025 pentru modificarea și completarea Legii nr. 227/2015 privind Codul fiscal | [`og/2025/22/`](og/2025/22/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 
-## Government decisions (HG) (2773, of which 923 amending acts)
+## Government decisions (HG) (2790, of which 925 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -3947,9 +3947,11 @@
 | Hotărârea Guvernului nr. 728/2001 | [`hg/2001/728/`](hg/2001/728/) | in force | 1 | 2001-08-15 | 2001-08-15 |
 | Hotărârea Guvernului nr. 767/2001 | [`hg/2001/767/`](hg/2001/767/) | in force | 1 | 2001-09-02 | 2001-09-02 |
 | Hotărârea Guvernului nr. 863/2001 | [`hg/2001/863/`](hg/2001/863/) | in force | 2 | 2001-09-17 | 2002-11-01 |
+| Hotărârea Guvernului nr. 869/2001 | [`hg/2001/869/`](hg/2001/869/) | in force | 9 | 2001-09-17 | 2013-08-07 |
 | Hotărârea Guvernului nr. 884/2001 pentru aprobarea Regulamentului de punere în aplicare a dispozițiilor Legii educației fizice și sportului nr. 69/2000 | [`hg/2001/884/`](hg/2001/884/) | amending act | 1 | 2001-09-14 | 2001-09-14 |
 | Hotărârea Guvernului nr. 938/2001 | [`hg/2001/938/`](hg/2001/938/) | in force | 1 | 2001-10-03 | 2001-10-03 |
 | Hotărârea Guvernului nr. 952/2001 | [`hg/2001/952/`](hg/2001/952/) | in force | 1 | 2001-10-09 | 2001-10-09 |
+| Hotărârea Guvernului nr. 962/2001 | [`hg/2001/962/`](hg/2001/962/) | in force | 3 | 2001-10-04 | 2014-04-08 |
 | Hotărârea Guvernului nr. 974/2001 | [`hg/2001/974/`](hg/2001/974/) | in force | 1 | 2001-10-18 | 2001-10-18 |
 | Hotărârea Guvernului nr. 1087/2001 | [`hg/2001/1087/`](hg/2001/1087/) | in force | 1 | 2001-12-07 | 2001-12-07 |
 | Hotărârea Guvernului nr. 1090/2001 | [`hg/2001/1090/`](hg/2001/1090/) | in force | 2 | 2001-11-13 | 2002-02-01 |
@@ -4097,6 +4099,7 @@
 | Hotărârea Guvernului nr. 735/2003 | [`hg/2003/735/`](hg/2003/735/) | in force | 2 | 2003-07-04 | 2003-10-31 |
 | Hotărârea Guvernului nr. 737/2003 | [`hg/2003/737/`](hg/2003/737/) | in force | 1 | 2003-07-07 | 2003-07-07 |
 | Hotărârea Guvernului nr. 738/2003 | [`hg/2003/738/`](hg/2003/738/) | in force | 6 | 2003-07-07 | 2006-11-08 |
+| Hotărârea Guvernului nr. 743/2003 | [`hg/2003/743/`](hg/2003/743/) | in force | 2 | 2003-07-08 | 2003-12-14 |
 | Hotărârea Guvernului nr. 759/2003 | [`hg/2003/759/`](hg/2003/759/) | in force | 1 | 2003-07-09 | 2003-07-09 |
 | Hotărârea Guvernului nr. 768/2003 | [`hg/2003/768/`](hg/2003/768/) | in force | 2 | 2003-07-07 | 2003-07-24 |
 | Hotărârea Guvernului nr. 771/2003 | [`hg/2003/771/`](hg/2003/771/) | repealed 2004-01-23 | 2 | 2003-07-08 | 2004-01-23 |
@@ -4110,6 +4113,7 @@
 | Hotărârea Guvernului nr. 927/2003 | [`hg/2003/927/`](hg/2003/927/) | in force | 2 | 2003-08-22 | 2013-09-10 |
 | Hotărârea Guvernului nr. 952/2003 | [`hg/2003/952/`](hg/2003/952/) | in force | 1 | 2003-09-03 | 2003-09-03 |
 | Hotărârea Guvernului nr. 977/2003 | [`hg/2003/977/`](hg/2003/977/) | in force | 4 | 2003-08-27 | 2016-04-22 |
+| Hotărârea Guvernului nr. 978/2003 | [`hg/2003/978/`](hg/2003/978/) | in force | 3 | 2003-08-27 | 2011-05-09 |
 | Hotărârea Guvernului nr. 1016/2003 | [`hg/2003/1016/`](hg/2003/1016/) | in force | 8 | 2003-09-08 | 2008-12-15 |
 | Hotărârea Guvernului nr. 1025/2003 privind metodologia și criteriile de încadrare a persoanelor în locuri de muncă în condiții speciale | [`hg/2003/1025/`](hg/2003/1025/) | in force | 2 | 2003-09-10 | 2004-12-24 |
 | Hotărârea Guvernului nr. 1028/2003 | [`hg/2003/1028/`](hg/2003/1028/) | in force | 1 | 2003-09-11 | 2003-09-11 |
@@ -4276,6 +4280,7 @@
 | Hotărârea Guvernului nr. 269/2005 | [`hg/2005/269/`](hg/2005/269/) | in force | 1 | 2005-04-13 | 2005-04-13 |
 | Hotărârea Guvernului nr. 284/2005 privind stabilirea cuantumului şi condiţiilor de acordare a compensaţiei lunare pentru chirie cuvenite poliţiştilor | [`hg/2005/284/`](hg/2005/284/) | in force | 2 | 2005-04-19 | 2023-10-23 |
 | Hotărârea Guvernului nr. 293/2005 | [`hg/2005/293/`](hg/2005/293/) | in force | 1 | 2005-04-19 | 2005-04-19 |
+| Hotărârea Guvernului nr. 321/2005 | [`hg/2005/321/`](hg/2005/321/) | repealed 2019-07-26 | 6 | 2005-04-27 | 2019-07-26 |
 | Hotărârea Guvernului nr. 349/2005 | [`hg/2005/349/`](hg/2005/349/) | repealed 2021-08-21 | 4 | 2005-06-09 | 2021-08-21 |
 | Hotărârea Guvernului nr. 351/2005 | [`hg/2005/351/`](hg/2005/351/) | in force | 7 | 2005-05-20 | 2015-07-17 |
 | Hotărârea Guvernului nr. 361/2005 | [`hg/2005/361/`](hg/2005/361/) | in force | 4 | 2005-04-29 | 2013-08-08 |
@@ -4309,6 +4314,7 @@
 | Hotărârea Guvernului nr. 878/2005 privind accesul publicului la informația privind mediul | [`hg/2005/878/`](hg/2005/878/) | in force | 3 | 2005-11-22 | 2024-04-08 |
 | Hotărârea Guvernului nr. 880/2005 | [`hg/2005/880/`](hg/2005/880/) | in force | 6 | 2005-09-16 | 2024-06-11 |
 | Hotărârea Guvernului nr. 890/2005 | [`hg/2005/890/`](hg/2005/890/) | in force | 2 | 2005-08-11 | 2005-10-04 |
+| Hotărârea Guvernului nr. 902/2005 | [`hg/2005/902/`](hg/2005/902/) | in force | 10 | 2005-08-19 | 2024-08-22 |
 | Hotărârea Guvernului nr. 924/2005 | [`hg/2005/924/`](hg/2005/924/) | in force | 1 | 2006-10-01 | 2006-10-01 |
 | Hotărârea Guvernului nr. 930/2005 | [`hg/2005/930/`](hg/2005/930/) | in force | 1 | 2005-10-02 | 2005-10-02 |
 | Hotărârea Guvernului nr. 957/2005 | [`hg/2005/957/`](hg/2005/957/) | in force | 13 | 2005-09-17 | 2025-04-25 |
@@ -4421,6 +4427,7 @@
 | Hotărârea Guvernului nr. 1648/2006 | [`hg/2006/1648/`](hg/2006/1648/) | in force | 1 | 2006-12-04 | 2006-12-04 |
 | Hotărârea Guvernului nr. 1650/2006 | [`hg/2006/1650/`](hg/2006/1650/) | in force | 1 | 2007-01-01 | 2007-01-01 |
 | Hotărârea Guvernului nr. 1660/2006 | [`hg/2006/1660/`](hg/2006/1660/) | in force | 1 | 2006-12-07 | 2006-12-07 |
+| Hotărârea Guvernului nr. 1705/2006 | [`hg/2006/1705/`](hg/2006/1705/) | in force | 4 | 2006-12-21 | 2024-10-07 |
 | Hotărârea Guvernului nr. 1739/2006 | [`hg/2006/1739/`](hg/2006/1739/) | in force | 2 | 2006-12-13 | 2014-02-19 |
 | Hotărârea Guvernului nr. 1850/2006 | [`hg/2006/1850/`](hg/2006/1850/) | in force | 1 | 2007-01-01 | 2007-01-01 |
 | Hotărârea Guvernului nr. 1860/2006 | [`hg/2006/1860/`](hg/2006/1860/) | in force | 2 | 2007-01-01 | 2008-12-19 |
@@ -4685,6 +4692,7 @@
 | Hotărârea Guvernului nr. 810/2009 | [`hg/2009/810/`](hg/2009/810/) | in force | 2 | 2009-11-02 | 2011-12-27 |
 | Hotărârea Guvernului nr. 861/2009 | [`hg/2009/861/`](hg/2009/861/) | in force | 1 | 2009-08-18 | 2009-08-18 |
 | Hotărârea Guvernului nr. 867/2009 | [`hg/2009/867/`](hg/2009/867/) | in force | 1 | 2009-08-14 | 2009-08-14 |
+| Hotărârea Guvernului nr. 870/2009 | [`hg/2009/870/`](hg/2009/870/) | in force | 5 | 2009-07-30 | 2013-08-28 |
 | Hotărârea Guvernului nr. 955/2009 privind modificarea art. 1 din Hotărârea Guvernului nr. 1.510/2007 pentru aprobarea plății contribuției financiare anuale a României la bugetul Școlii internaționale de la Comandamentul Suprem al Forțelor Aliate din Europa (SHAPE), aferentă școlarizării copiilor personalului din Ministerul Apărării trimis în misiune permanentă în străinătate | [`hg/2009/955/`](hg/2009/955/) | amending act | 1 | 2009-09-15 | 2009-09-15 |
 | Hotărârea Guvernului nr. 956/2009 | [`hg/2009/956/`](hg/2009/956/) | in force | 1 | 2009-09-24 | 2009-09-24 |
 | Hotărârea Guvernului nr. 1076/2009 | [`hg/2009/1076/`](hg/2009/1076/) | in force | 1 | 2010-01-24 | 2010-01-24 |
@@ -4782,11 +4790,14 @@
 | Hotărârea Guvernului nr. 725/2010 privind reorganizarea și funcționarea Ministerului Agriculturii și Dezvoltării Rurale, precum și a unor structuri aflate în subordinea acestuia | [`hg/2010/725/`](hg/2010/725/) | in force | 8 | 2010-08-04 | 2014-07-03 |
 | Hotărârea Guvernului nr. 751/2010 | [`hg/2010/751/`](hg/2010/751/) | in force | 6 | 2010-08-05 | 2016-11-22 |
 | Hotărârea Guvernului nr. 753/2010 | [`hg/2010/753/`](hg/2010/753/) | in force | 2 | 2010-08-03 | 2013-08-12 |
+| Hotărârea Guvernului nr. 759/2010 | [`hg/2010/759/`](hg/2010/759/) | in force | 11 | 2010-08-05 | 2014-09-10 |
 | Hotărârea Guvernului nr. 763/2010 | [`hg/2010/763/`](hg/2010/763/) | in force | 1 | 2010-08-23 | 2010-08-23 |
 | Hotărârea Guvernului nr. 769/2010 | [`hg/2010/769/`](hg/2010/769/) | in force | 1 | 2010-08-23 | 2010-08-23 |
 | Hotărârea Guvernului nr. 776/2010 privind organizarea și funcționarea direcțiilor județene pentru sport și tineret, respectiv a Direcției pentru Sport și Tineret a Municipiului București | [`hg/2010/776/`](hg/2010/776/) | in force | 1 | 2010-08-09 | 2010-08-09 |
+| Hotărârea Guvernului nr. 791/2010 | [`hg/2010/791/`](hg/2010/791/) | in force | 3 | 2010-08-03 | 2010-09-10 |
 | Hotărârea Guvernului nr. 811/2010 privind controlul statului portului | [`hg/2010/811/`](hg/2010/811/) | in force | 6 | 2010-09-01 | 2025-01-29 |
 | Hotărârea Guvernului nr. 827/2010 | [`hg/2010/827/`](hg/2010/827/) | in force | 3 | 2010-08-27 | 2013-04-03 |
+| Hotărârea Guvernului nr. 877/2010 | [`hg/2010/877/`](hg/2010/877/) | in force | 5 | 2010-09-28 | 2020-02-13 |
 | Hotărârea Guvernului nr. 885/2010 | [`hg/2010/885/`](hg/2010/885/) | in force | 2 | 2010-09-06 | 2011-01-13 |
 | Hotărârea Guvernului nr. 918/2010 | [`hg/2010/918/`](hg/2010/918/) | in force | 2 | 2010-09-15 | 2012-03-02 |
 | Hotărârea Guvernului nr. 932/2010 | [`hg/2010/932/`](hg/2010/932/) | in force | 1 | 2010-09-16 | 2010-09-16 |
@@ -4901,6 +4912,7 @@
 | Hotărârea Guvernului nr. 544/2012 | [`hg/2012/544/`](hg/2012/544/) | in force | 1 | 2012-05-31 | 2012-05-31 |
 | Hotărârea Guvernului nr. 549/2012 | [`hg/2012/549/`](hg/2012/549/) | in force | 1 | 2012-05-30 | 2012-05-30 |
 | Hotărârea Guvernului nr. 647/2012 | [`hg/2012/647/`](hg/2012/647/) | in force | 2 | 2012-07-11 | 2018-05-16 |
+| Hotărârea Guvernului nr. 700/2012 | [`hg/2012/700/`](hg/2012/700/) | in force | 14 | 2012-07-18 | 2024-07-01 |
 | Hotărârea Guvernului nr. 703/2012 | [`hg/2012/703/`](hg/2012/703/) | in force | 1 | 2012-08-07 | 2012-08-07 |
 | Hotărârea Guvernului nr. 707/2012 | [`hg/2012/707/`](hg/2012/707/) | in force | 1 | 2012-07-30 | 2012-07-30 |
 | Hotărârea Guvernului nr. 785/2012 | [`hg/2012/785/`](hg/2012/785/) | in force | 1 | 2012-08-24 | 2012-08-24 |
@@ -4957,6 +4969,7 @@
 | Hotărârea Guvernului nr. 1288/2012 | [`hg/2012/1288/`](hg/2012/1288/) | in force | 1 | 2012-12-28 | 2012-12-28 |
 | Hotărârea Guvernului nr. 1/2013 | [`hg/2013/1/`](hg/2013/1/) | in force | 4 | 2013-01-08 | 2015-02-18 |
 | Hotărârea Guvernului nr. 7/2013 | [`hg/2013/7/`](hg/2013/7/) | in force | 3 | 2013-01-15 | 2014-02-17 |
+| Hotărârea Guvernului nr. 8/2013 | [`hg/2013/8/`](hg/2013/8/) | in force | 8 | 2013-01-15 | 2017-01-29 |
 | Hotărârea Guvernului nr. 9/2013 | [`hg/2013/9/`](hg/2013/9/) | in force | 3 | 2013-01-18 | 2016-06-24 |
 | Hotărârea Guvernului nr. 10/2013 | [`hg/2013/10/`](hg/2013/10/) | in force | 3 | 2013-01-22 | 2013-08-02 |
 | Hotărârea Guvernului nr. 11/2013 | [`hg/2013/11/`](hg/2013/11/) | in force | 6 | 2013-01-19 | 2020-07-24 |
@@ -5069,6 +5082,7 @@
 | Hotărârea Guvernului nr. 766/2014 | [`hg/2014/766/`](hg/2014/766/) | repealed 2022-02-03 | 2 | 2014-09-10 | 2022-02-03 |
 | Hotărârea Guvernului nr. 786/2014 | [`hg/2014/786/`](hg/2014/786/) | in force | 4 | 2014-09-22 | 2023-07-31 |
 | Hotărârea Guvernului nr. 799/2014 | [`hg/2014/799/`](hg/2014/799/) | in force | 4 | 2014-09-19 | 2016-12-08 |
+| Hotărârea Guvernului nr. 807/2014 | [`hg/2014/807/`](hg/2014/807/) | in force | 11 | 2014-09-30 | 2023-05-25 |
 | Hotărârea Guvernului nr. 835/2014 | [`hg/2014/835/`](hg/2014/835/) | in force | 1 | 2014-10-07 | 2014-10-07 |
 | Hotărârea Guvernului nr. 903/2014 | [`hg/2014/903/`](hg/2014/903/) | in force | 1 | 2015-01-01 | 2015-01-01 |
 | Hotărârea Guvernului nr. 909/2014 | [`hg/2014/909/`](hg/2014/909/) | in force | 1 | 2014-11-17 | 2014-11-17 |
@@ -5245,6 +5259,7 @@
 | Hotărârea Guvernului nr. 826/2016 | [`hg/2016/826/`](hg/2016/826/) | in force | 1 | 2016-11-18 | 2016-11-18 |
 | Hotărârea Guvernului nr. 830/2016 | [`hg/2016/830/`](hg/2016/830/) | in force | 2 | 2016-11-26 | 2017-08-25 |
 | Hotărârea Guvernului nr. 831/2016 | [`hg/2016/831/`](hg/2016/831/) | in force | 1 | 2016-11-11 | 2016-11-11 |
+| Hotărârea Guvernului nr. 832/2016 | [`hg/2016/832/`](hg/2016/832/) | in force | 2 | 2016-11-15 | 2024-06-29 |
 | Hotărârea Guvernului nr. 859/2016 | [`hg/2016/859/`](hg/2016/859/) | in force | 1 | 2016-12-14 | 2016-12-14 |
 | Hotărârea Guvernului nr. 860/2016 | [`hg/2016/860/`](hg/2016/860/) | in force | 1 | 2016-11-22 | 2016-11-22 |
 | Hotărârea Guvernului nr. 862/2016 | [`hg/2016/862/`](hg/2016/862/) | in force | 1 | 2016-11-25 | 2016-11-25 |
@@ -5864,6 +5879,7 @@
 | Hotărârea Guvernului nr. 857/2021 pentru aprobarea Regulamentului-cadru și a componenței comitetelor de organizare UNESCO | [`hg/2021/857/`](hg/2021/857/) | amending act | 2 | 2021-08-26 | 2024-02-03 |
 | Hotărârea Guvernului nr. 859/2021 pentru aprobarea procedurii de autorizare a zborurilor cu aeronave în spaţiul aerian naţional | [`hg/2021/859/`](hg/2021/859/) | amending act | 3 | 2021-08-19 | 2023-01-26 |
 | Hotărârea Guvernului nr. 863/2021 pentru aprobarea Strategiei de dezvoltare a sistemului național de probațiune din România pentru perioada 2021-2025 , precum și a Planului general de acțiune pentru implementarea Strategiei de dezvoltare a sistemului național de probațiune din România pentru perioada 2021-2025 | [`hg/2021/863/`](hg/2021/863/) | amending act | 1 | 2021-08-24 | 2021-08-24 |
+| Hotărârea Guvernului nr. 866/2021 pentru aprobarea indicatorilor tehnico-economici ai obiectivului de investiții "Construire cămin studențesc - Universitatea Politehnică din București, Splaiul Independenței nr. 290, sectorul 6, București" | [`hg/2021/866/`](hg/2021/866/) | amending act | 1 | 2021-08-26 | 2021-08-26 |
 | Hotărârea Guvernului nr. 883/2021 pentru modificarea anexelor nr. 1-6 la Hotărârea Guvernului nr. 403/2021 privind aprobarea Nomenclatorului domeniilor și al specializărilor/programelor de studii universitare și a structurii instituțiilor de învățământ superior pentru anul universitar 2021-2022 | [`hg/2021/883/`](hg/2021/883/) | amending act | 1 | 2021-08-27 | 2021-08-27 |
 | Hotărârea Guvernului nr. 900/2021 pentru modificarea Hotărârii Guvernului nr. 72/2013 privind aprobarea normelor metodologice pentru determinarea costului standard per elev/preșcolar și stabilirea finanțării de bază a unităților de învățământ preuniversitar de stat, care se asigură din bugetul de stat, din sume defalcate din T.V.A. prin bugetele locale, pe baza costului standard per elev/preșcolar | [`hg/2021/900/`](hg/2021/900/) | amending act | 1 | 2021-08-24 | 2021-08-24 |
 | Hotărârea Guvernului nr. 906/2021 pentru modificarea anexelor nr. 1 și 2 la Hotărârea Guvernului nr. 385/2021 privind domeniile și programele de studii universitare de master acreditate și numărul maxim de studenți ce pot fi școlarizați în anul universitar 2021-2022 | [`hg/2021/906/`](hg/2021/906/) | amending act | 1 | 2021-08-27 | 2021-08-27 |
@@ -5872,6 +5888,7 @@
 | Hotărârea Guvernului nr. 927/2021 privind atribuțiile, organizarea și funcționarea Departamentului pentru Românii de Pretutindeni | [`hg/2021/927/`](hg/2021/927/) | in force | 2 | 2021-09-07 | 2024-07-12 |
 | Hotărârea Guvernului nr. 928/2021 pentru modificarea și completarea titlului VII din Normele metodologice de aplicare a Legii nr. 227/2015 privind Codul fiscal , aprobate prin Hotărârea Guvernului nr. 1/2016 | [`hg/2021/928/`](hg/2021/928/) | amending act | 1 | 2021-09-14 | 2021-09-14 |
 | Hotărârea Guvernului nr. 929/2021 privind aprobarea bugetului de venituri și cheltuieli pe anul 2021 al Societății Naționale de Transport Feroviar de Călători "C.F.R. - Călători" - S.A., aflată sub autoritatea Ministerului Transporturilor și Infrastructurii | [`hg/2021/929/`](hg/2021/929/) | amending act | 1 | 2021-09-14 | 2021-09-14 |
+| Hotărârea Guvernului nr. 931/2021 privind procedura de desemnare, atribuțiile, modalitatea de organizare a activității și procedura de evaluare a performanțelor profesionale individuale ale consilierului de etică, precum și pentru aprobarea modalității de raportare a instituțiilor și autorităților în scopul asigurării implementării, monitorizării și controlului respectării principiilor și normelor privind conduita funcționarilor publici | [`hg/2021/931/`](hg/2021/931/) | amending act | 1 | 2021-09-17 | 2021-09-17 |
 | Hotărârea Guvernului nr. 978/2021 privind aprobarea bugetului de venituri și cheltuieli pe anul 2021 al Companiei Naționale „Administrația Porturilor Dunării Maritime“ - S.A. Galați, aflată sub autoritatea Ministerului Transporturilor și Infrastructurii | [`hg/2021/978/`](hg/2021/978/) | amending act | 1 | 2021-09-15 | 2021-09-15 |
 | Hotărârea Guvernului nr. 979/2021 privind aprobarea bugetului de venituri și cheltuieli pe anul 2021 pentru Societatea CUPRU MIN - S.A. Abrud, aflată sub autoritatea Ministerului Economiei, Antreprenoriatului și Turismului | [`hg/2021/979/`](hg/2021/979/) | amending act | 1 | 2021-09-15 | 2021-09-15 |
 | Hotărârea Guvernului nr. 1000/2021 privind actualizarea valorii de inventar a unui imobil aflat în domeniul public al statului și administrarea Ministerului Afacerilor Interne - Inspectoratul Teritorial al Poliției de Frontieră Iași, precum și trecerea unor construcții și amenajări la teren din domeniul public al statului în domeniul privat al acestuia pentru scoaterea din funcțiune, în vederea valorificării și, după caz, casării | [`hg/2021/1000/`](hg/2021/1000/) | in force | 1 | 2021-09-29 | 2021-09-29 |
