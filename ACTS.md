@@ -1,6 +1,6 @@
 # Every act in this repository
 
-14176 acts, 27,765 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+14191 acts, 27,780 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (2567, of which 1240 amending acts)
+## Laws (legi) (2570, of which 1243 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -707,8 +707,11 @@
 | Legea nr. 27/2007 | [`lege/2007/27/`](lege/2007/27/) | in force | 1 | 2007-01-21 | 2007-01-21 |
 | Legea nr. 35/2007 | [`lege/2007/35/`](lege/2007/35/) | in force | 2 | 2007-03-11 | 2010-03-07 |
 | Legea nr. 48/2007 pentru modificarea şi completarea Legii nr. 418/2004 privind statutul profesional specific al medicului de medicină a muncii | [`lege/2007/48/`](lege/2007/48/) | amending act | 1 | 2007-03-24 | 2007-03-24 |
+| Legea nr. 51/2007 pentru modificarea anexelor nr. 1 şi 2 la Ordonanţa Guvernului nr. 51/1994 privind drepturile de echipament şi materiale de resortul echipamentului, în timp de pace, ale personalului din sectorul de apărare naţională, ordine publică şi siguranţă naţională | [`lege/2007/51/`](lege/2007/51/) | amending act | 1 | 2007-03-24 | 2007-03-24 |
 | Legea nr. 57/2007 | [`lege/2007/57/`](lege/2007/57/) | in force | 3 | 2007-03-19 | 2011-01-12 |
 | Legea nr. 72/2007 | [`lege/2007/72/`](lege/2007/72/) | in force | 2 | 2007-04-29 | 2008-10-14 |
+| Legea nr. 73/2007 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 87/2006 pentru modificarea şi completarea Legii nr. 32/2000 privind activitatea de asigurare şi supravegherea asigurărilor | [`lege/2007/73/`](lege/2007/73/) | amending act | 1 | 2007-04-02 | 2007-04-02 |
+| Legea nr. 75/2007 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 93/2006 pentru modificarea Ordonanţei de urgenţă a Guvernului nr. 8/2003 privind stimularea procesului de restructurare, reorganizare şi privatizare a unor societăţi naţionale, companii naţionale şi societăţi comerciale cu capital majoritar de stat, precum şi a societăţilor comerciale şi regiilor autonome subordonate autorităţilor administraţiei publice locale | [`lege/2007/75/`](lege/2007/75/) | amending act | 1 | 2007-04-01 | 2007-04-01 |
 | Legea nr. 87/2007 | [`lege/2007/87/`](lege/2007/87/) | in force | 1 | 2007-04-20 | 2007-04-20 |
 | Legea nr. 92/2007 | [`lege/2007/92/`](lege/2007/92/) | in force | 14 | 2007-04-22 | 2022-02-03 |
 | Legea nr. 99/2007 | [`lege/2007/99/`](lege/2007/99/) | in force | 1 | 2007-04-28 | 2007-04-28 |
@@ -4776,7 +4779,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (9409, of which 4301 amending acts)
+## Government decisions (HG) (9421, of which 4307 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -5554,6 +5557,7 @@
 | Hotărârea Guvernului nr. 211/2007 privind aprobarea numărului mediu maxim de personal pe anul 2007 pentru operatorii economici din industria de apărare, care desfăşoară activităţi conform prevederilor art. 10 din Ordonanţa de urgenţă a Guvernului nr. 95/2002 privind industria de apărare | [`hg/2007/211/`](hg/2007/211/) | amending act | 1 | 2007-03-07 | 2007-03-07 |
 | Hotărârea Guvernului nr. 215/2007 pentru aprobarea Înţelegerii adiţionale la Protocolul de înţelegere privind cooperarea în domeniul securităţii nucleare dintre Comisia Naţională pentru Controlul Activităţilor Nucleare din România şi Institutul de Securitate Nucleară din Republica Coreea, semnată la Daejeon la 1 decembrie 2006 | [`hg/2007/215/`](hg/2007/215/) | amending act | 1 | 2007-03-09 | 2007-03-09 |
 | Hotărârea Guvernului nr. 216/2007 pentru aprobarea amendamentului convenit între Guvernul României şi Banca Europeană de Investiţii prin scrisoarea semnată la Luxemburg la 6 decembrie 2006 şi la Bucureşti la 21 decembrie 2006, la Contractul de finanţare dintre România şi Banca Europeană de Investiţii pentru finanţarea Proiectului de reabilitare a infrastructurii şcolare din România, semnat la Bucureşti la 11 iulie 2003 | [`hg/2007/216/`](hg/2007/216/) | amending act | 1 | 2007-03-14 | 2007-03-14 |
+| Hotărârea Guvernului nr. 217/2007 privind aprobarea Strategiei naţionale în domeniul cercetării-dezvoltării şi inovării pentru perioada 2007-2013 | [`hg/2007/217/`](hg/2007/217/) | amending act | 1 | 2007-03-29 | 2007-03-29 |
 | Hotărârea Guvernului nr. 218/2007 privind transmiterea unui imobil din domeniul public al statului şi din administrarea Băncii Naţionale a României în domeniul public al oraşului Agnita şi în administrarea Consiliului Local al Oraşului Agnita, judeţul Sibiu | [`hg/2007/218/`](hg/2007/218/) | in force | 1 | 2007-03-13 | 2007-03-13 |
 | Hotărârea Guvernului nr. 219/2007 | [`hg/2007/219/`](hg/2007/219/) | in force | 2 | 2007-03-23 | 2015-10-19 |
 | Hotărârea Guvernului nr. 220/2007 pentru modificarea şi completarea Hotărârii Guvernului nr. 100/2004 privind organizarea şi funcţionarea Ministerului Afacerilor Externe | [`hg/2007/220/`](hg/2007/220/) | amending act | 1 | 2007-03-07 | 2007-03-07 |
@@ -5571,6 +5575,7 @@
 | Hotărârea Guvernului nr. 246/2007 | [`hg/2007/246/`](hg/2007/246/) | in force | 8 | 2007-03-09 | 2015-01-01 |
 | Hotărârea Guvernului nr. 248/2007 privind plata contribuţiei către fondul de finanţare extrabugetară al Centrului pentru Incidente şi Urgenţe al Agenţiei Internaţionale pentru Energia Atomică (A.I.E.A.) | [`hg/2007/248/`](hg/2007/248/) | in force | 1 | 2007-03-19 | 2007-03-19 |
 | Hotărârea Guvernului nr. 250/2007 pentru aprobarea Normelor metodologice de aplicare unitară a Legii nr. 10/2001 privind regimul juridic al unor imobile preluate în mod abuziv în perioada 6 martie 1945-22 decembrie 1989 | [`hg/2007/250/`](hg/2007/250/) | amending act | 1 | 2007-04-03 | 2007-04-03 |
+| Hotărârea Guvernului nr. 252/2007 pentru modificarea Regulamentului de organizare şi funcţionare a Oficiului Naţional pentru Cultul Eroilor, aprobat prin Hotărârea Guvernului nr. 635/2004 | [`hg/2007/252/`](hg/2007/252/) | amending act | 1 | 2007-03-21 | 2007-03-21 |
 | Hotărârea Guvernului nr. 255/2007 privind suspendarea, la cerere, din funcţia publică de subprefect al judeţului Mehedinţi | [`hg/2007/255/`](hg/2007/255/) | amending act | 1 | 2007-03-19 | 2007-03-19 |
 | Hotărârea Guvernului nr. 256/2007 privind transmiterea unui imobil din domeniul public al statului şi din administrarea Ministerului Finanţelor Publice - Agenţia Naţională de Administrare Fiscală - Autoritatea Naţională a Vămilor Direcţia Regională Vamală Craiova în domeniul public al municipiului Craiova şi în administrarea Consiliului Local al Municipiului Craiova, judeţul Dolj | [`hg/2007/256/`](hg/2007/256/) | in force | 1 | 2007-03-19 | 2007-03-19 |
 | Hotărârea Guvernului nr. 258/2007 privind declanşarea procedurilor de expropriere a imobilelor proprietate privată situate pe amplasamentul lucrării de utilitate publică de interes naţional "Reabilitare DN 17 Sadova - Suceava, între km 183+000 şi km 255+000, din cadrul etapei a IV-a de reabilitare a drumurilor naţionale, pe teritoriul judeţului Suceava" | [`hg/2007/258/`](hg/2007/258/) | in force | 1 | 2007-03-21 | 2007-03-21 |
@@ -5578,6 +5583,16 @@
 | Hotărârea Guvernului nr. 261/2007 privind transmiterea unui imobil din domeniul public al statului şi din administrarea Ministerului Administraţiei şi Internelor în domeniul public al comunei Păltiniş şi în administrarea Consiliului Local al Comunei Păltiniş, judeţul Botoşani | [`hg/2007/261/`](hg/2007/261/) | in force | 1 | 2007-03-21 | 2007-03-21 |
 | Hotărârea Guvernului nr. 264/2007 privind organizarea şi funcţionarea Academiei Tehnice Militare | [`hg/2007/264/`](hg/2007/264/) | in force | 1 | 2007-03-21 | 2007-03-21 |
 | Hotărârea Guvernului nr. 268/2007 | [`hg/2007/268/`](hg/2007/268/) | in force | 1 | 2007-04-04 | 2007-04-04 |
+| Hotărârea Guvernului nr. 270/2007 privind acordarea unui ajutor | [`hg/2007/270/`](hg/2007/270/) | in force | 1 | 2007-03-22 | 2007-03-22 |
+| Hotărârea Guvernului nr. 271/2007 privind suplimentarea bugetului Ministerului Integrării Europene din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2007 | [`hg/2007/271/`](hg/2007/271/) | in force | 1 | 2007-03-22 | 2007-03-22 |
+| Hotărârea Guvernului nr. 274/2007 privind desemnarea semnatarului Acordului de exploatare al Organizaţiei Internaţionale de Comunicaţii Spaţiale "Intersputnik" | [`hg/2007/274/`](hg/2007/274/) | in force | 1 | 2007-03-26 | 2007-03-26 |
+| Hotărârea Guvernului nr. 278/2007 pentru modificarea art. 2 din Hotărârea Guvernului nr. 900/2005 privind înfiinţarea Societăţii Comerciale "Zirom" - S.A. prin reorganizarea Regiei Autonome "Zirom" | [`hg/2007/278/`](hg/2007/278/) | amending act | 1 | 2007-03-29 | 2007-03-29 |
+| Hotărârea Guvernului nr. 280/2007 pentru aprobarea Programului de reabilitare a unor blocuri de locuinţe amplasate în localităţi din zone defavorizate, pentru anul 2007 | [`hg/2007/280/`](hg/2007/280/) | amending act | 1 | 2007-03-27 | 2007-03-27 |
+| Hotărârea Guvernului nr. 282/2007 privind transmiterea unor imobile sau a unor părţi din acestea, aflate în domeniul public al statului, din administrarea Ministerului Agriculturii, Pădurilor şi Dezvoltării Rurale, pentru unele unităţi din subordine, în administrarea Agenţiei de Plăţi şi Intervenţie pentru Agricultură | [`hg/2007/282/`](hg/2007/282/) | in force | 1 | 2007-03-29 | 2007-03-29 |
+| Hotărârea Guvernului nr. 283/2007 privind modificarea anexei nr. 6 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului şi includerea unui imobil aflat în administrarea Ministerului Culturii şi Cultelor în inventarul bunurilor din domeniul public al statului | [`hg/2007/283/`](hg/2007/283/) | amending act | 1 | 2007-03-27 | 2007-03-27 |
+| Hotărârea Guvernului nr. 284/2007 privind modificarea valorii de inventar a unui imobil aflat în domeniul public al statului şi în administrarea Ministerului Agriculturii, Pădurilor şi Dezvoltării Rurale - Oficiul de Studii Pedologice şi Agrochimice Mureş | [`hg/2007/284/`](hg/2007/284/) | amending act | 1 | 2007-03-27 | 2007-03-27 |
+| Hotărârea Guvernului nr. 285/2007 pentru trecerea din domeniul public al statului în domeniul privat al acestuia a unor construcţii aflate în administrarea Ministerului Apărării | [`hg/2007/285/`](hg/2007/285/) | in force | 1 | 2007-03-29 | 2007-03-29 |
+| Hotărârea Guvernului nr. 286/2007 privind transmiterea unui imobil, proprietate publică a statului, din administrarea Ministerului Muncii, Solidarităţii Sociale şi Familiei - Inspectoratul Teritorial de Muncă Ialomiţa în administrarea Agenţiei Naţionale pentru Ocuparea Forţei de Muncă, pentru Agenţia Judeţeană pentru Ocuparea Forţei de Muncă Ialomiţa | [`hg/2007/286/`](hg/2007/286/) | in force | 1 | 2007-03-26 | 2007-03-26 |
 | Hotărârea Guvernului nr. 288/2007 | [`hg/2007/288/`](hg/2007/288/) | in force | 2 | 2007-03-29 | 2010-11-30 |
 | Hotărârea Guvernului nr. 294/2007 | [`hg/2007/294/`](hg/2007/294/) | in force | 6 | 2007-04-03 | 2023-10-01 |
 | Hotărârea Guvernului nr. 310/2007 | [`hg/2007/310/`](hg/2007/310/) | in force | 1 | 2007-03-30 | 2007-03-30 |
