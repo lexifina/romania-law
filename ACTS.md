@@ -1,6 +1,6 @@
 # Every act in this repository
 
-17953 acts, 31,579 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+17965 acts, 31,591 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (2984, of which 1565 amending acts)
+## Laws (legi) (2987, of which 1568 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -1134,7 +1134,10 @@
 | Legea nr. 70/2015 | [`lege/2015/70/`](lege/2015/70/) | in force | 8 | 2015-04-12 | 2026-01-01 |
 | Legea nr. 71/2015 | [`lege/2015/71/`](lege/2015/71/) | in force | 2 | 2015-04-09 | 2017-07-01 |
 | Legea nr. 74/2015 privind administratorii de fonduri de investiții alternative | [`lege/2015/74/`](lege/2015/74/) | in force | 9 | 2015-05-23 | 2026-01-16 |
+| Legea nr. 75/2015 privind aprobarea Ordonanţei Guvernului nr. 14/2014 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 88/1997 privind privatizarea societăţilor | [`lege/2015/75/`](lege/2015/75/) | amending act | 1 | 2015-04-18 | 2015-04-18 |
+| Legea nr. 80/2015 pentru modificarea art. 4 alin. (2) din Legea nr. 226/2011 privind reparaţiile morale şi materiale pentru fostele cadre militare active, îndepărtate abuziv din armată în perioada 23 august 1944-31 decembrie 1961 | [`lege/2015/80/`](lege/2015/80/) | amending act | 1 | 2015-04-23 | 2015-04-23 |
 | Legea nr. 83/2015 | [`lege/2015/83/`](lege/2015/83/) | in force | 1 | 2015-05-22 | 2015-05-22 |
+| Legea nr. 84/2015 pentru modificarea şi completarea Ordonanţei Guvernului nr. 20/1994 privind măsuri pentru reducerea riscului seismic al construcţiilor existente | [`lege/2015/84/`](lege/2015/84/) | amending act | 1 | 2015-04-25 | 2015-04-25 |
 | Legea nr. 86/2015 privind aprobarea Ordonanţei Guvernului nr. 17/2014 pentru modificarea art. 9 alin. (3) din Ordonanţa Guvernului nr. 2/2001 privind regimul juridic al contravenţiilor | [`lege/2015/86/`](lege/2015/86/) | amending act | 1 | 2015-04-30 | 2015-04-30 |
 | Legea nr. 87/2015 pentru completarea art. 84 din Legea nr. 204/2006 privind pensiile facultative şi a art. 23 alin. (1) din Legea nr. 411/2004 privind fondurile de pensii administrate privat | [`lege/2015/87/`](lege/2015/87/) | amending act | 1 | 2015-04-30 | 2015-04-30 |
 | Legea nr. 91/2015 | [`lege/2015/91/`](lege/2015/91/) | in force | 2 | 2015-04-30 | 2015-12-31 |
@@ -5219,7 +5222,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (12743, of which 6297 amending acts)
+## Government decisions (HG) (12752, of which 6306 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -8718,7 +8721,16 @@
 | Hotărârea Guvernului nr. 218/2015 | [`hg/2015/218/`](hg/2015/218/) | in force | 1 | 2015-04-09 | 2015-04-09 |
 | Hotărârea Guvernului nr. 226/2015 | [`hg/2015/226/`](hg/2015/226/) | in force | 9 | 2015-04-06 | 2024-05-28 |
 | Hotărârea Guvernului nr. 234/2015 | [`hg/2015/234/`](hg/2015/234/) | in force | 1 | 2015-04-14 | 2015-04-14 |
+| Hotărârea Guvernului nr. 241/2015 privind aprobarea bugetului de venituri şi cheltuieli pe anul 2015 pentru Societatea Naţională de Închideri Mine Valea Jiului - S.A., aflată sub autoritatea Ministerului Energiei, Întreprinderilor Mici şi Mijlocii şi Mediului de Afaceri | [`hg/2015/241/`](hg/2015/241/) | amending act | 1 | 2015-04-10 | 2015-04-10 |
+| Hotărârea Guvernului nr. 242/2015 pentru aprobarea amendamentului convenit între Guvernul României şi Banca de Dezvoltare a Consiliului Europei prin schimb de scrisori semnate la Bucureşti la 12 decembrie 2014 şi la Paris la 15 decembrie 2014 la Acordul-cadru de împrumut dintre România şi Banca de Dezvoltare a Consiliului Europei, semnat la Bucureşti la 27 decembrie 2005 şi la Paris la 10 ianuarie 2006 | [`hg/2015/242/`](hg/2015/242/) | amending act | 1 | 2015-04-14 | 2015-04-14 |
+| Hotărârea Guvernului nr. 243/2015 pentru modificarea şi completarea anexei nr. 64 la Hotărârea Guvernului nr. 934/2002 privind atestarea domeniului public al judeţului Maramureş, precum şi al municipiilor, oraşelor şi comunelor din judeţul Maramureş | [`hg/2015/243/`](hg/2015/243/) | amending act | 1 | 2015-04-17 | 2015-04-17 |
 | Hotărârea Guvernului nr. 245/2015 | [`hg/2015/245/`](hg/2015/245/) | in force | 1 | 2015-05-19 | 2015-05-19 |
+| Hotărârea Guvernului nr. 247/2015 privind aprobarea bugetului de venituri şi cheltuieli pe anul 2015 al Companiei Naţionale de Radiocomunicaţii Navale "Radionav" - S.A., aflată sub autoritatea Ministerului Transporturilor | [`hg/2015/247/`](hg/2015/247/) | amending act | 1 | 2015-04-20 | 2015-04-20 |
+| Hotărârea Guvernului nr. 250/2015 privind aprobarea limitelor anuale, aferente anilor 2015, 2016 şi 2017, pentru finanţările rambursabile care pot fi contractate şi pentru tragerile din finanţările rambursabile contractate sau care urmează a fi contractate de unităţile/subdiviziunile administrativ-teritoriale | [`hg/2015/250/`](hg/2015/250/) | amending act | 1 | 2015-04-17 | 2015-04-17 |
+| Hotărârea Guvernului nr. 252/2015 pentru modificarea Hotărârii Guvernului nr. 475/2007 privind aprobarea Planului naţional de cercetare-dezvoltare şi inovare II, pentru perioada 2007-30 iunie 2014 | [`hg/2015/252/`](hg/2015/252/) | amending act | 1 | 2015-04-22 | 2015-04-22 |
+| Hotărârea Guvernului nr. 254/2015 privind aprobarea bugetului de venituri şi cheltuieli pe anul 2015 pentru Societatea Comercială "Uzina Termoelectrică Midia" - S.A., aflată sub autoritatea Ministerului Energiei, Întreprinderilor Mici şi Mijlocii şi Mediului de Afaceri | [`hg/2015/254/`](hg/2015/254/) | amending act | 1 | 2015-04-21 | 2015-04-21 |
+| Hotărârea Guvernului nr. 255/2015 privind aprobarea bugetului de venituri şi cheltuieli pe anul 2015 pentru Societatea Comercială "Şantierul Naval 2 Mai" - S.A., aflată sub autoritatea Ministerului Economiei, Comerţului şi Turismului | [`hg/2015/255/`](hg/2015/255/) | amending act | 1 | 2015-04-21 | 2015-04-21 |
+| Hotărârea Guvernului nr. 256/2015 privind aprobarea bugetului de venituri şi cheltuieli pe anul 2015 pentru Societatea Comercială "Şantierul Naval Mangalia" - S.A., aflată sub autoritatea Ministerului Economiei, Comerţului şi Turismului | [`hg/2015/256/`](hg/2015/256/) | amending act | 1 | 2015-04-21 | 2015-04-21 |
 | Hotărârea Guvernului nr. 257/2015 privind aprobarea Metodologiei de elaborare a planurilor de calitate a aerului, a planurilor de acțiune pe termen scurt și a planurilor de menținere a calității aerului | [`hg/2015/257/`](hg/2015/257/) | amending act | 1 | 2015-04-27 | 2015-04-27 |
 | Hotărârea Guvernului nr. 258/2015 privind încetarea exercitării, cu caracter temporar, prin detaşare în condiţiile legii, a funcţiei publice de prefect al judeţului Buzău de către doamna Buleandră Maria | [`hg/2015/258/`](hg/2015/258/) | in force | 1 | 2015-04-23 | 2015-04-23 |
 | Hotărârea Guvernului nr. 259/2015 privind încetarea exercitării, cu caracter temporar, prin detaşare în condiţiile legii, a funcţiei publice de subprefect al judeţului Buzău de către domnul Sava George | [`hg/2015/259/`](hg/2015/259/) | in force | 1 | 2015-04-23 | 2015-04-23 |
