@@ -1,6 +1,6 @@
 # Every act in this repository
 
-19152 acts, 32,781 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+19167 acts, 32,796 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (3067, of which 1627 amending acts)
+## Laws (legi) (3068, of which 1628 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -1082,6 +1082,7 @@
 | Legea nr. 255/2013 pentru punerea în aplicare a Legii nr. 135/2010 privind Codul de procedură penală și pentru modificarea și completarea unor acte normative care cuprind dispoziții procesual penale | [`lege/2013/255/`](lege/2013/255/) | amending act | 2 | 2014-02-01 | 2014-02-01 |
 | Legea nr. 257/2013 | [`lege/2013/257/`](lege/2013/257/) | in force | 1 | 2013-10-03 | 2013-10-03 |
 | Legea nr. 258/2013 | [`lege/2013/258/`](lege/2013/258/) | in force | 1 | 2013-09-29 | 2013-09-29 |
+| Legea nr. 262/2013 pentru completarea art. 286 din Legea nr. 571/2003 privind Codul fiscal | [`lege/2013/262/`](lege/2013/262/) | amending act | 1 | 2014-01-01 | 2014-01-01 |
 | Legea nr. 264/2013 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 32/2013 pentru reglementarea unor măsuri financiar-fiscale | [`lege/2013/264/`](lege/2013/264/) | amending act | 1 | 2013-10-17 | 2013-10-17 |
 | Legea nr. 265/2013 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 48/2013 pentru completarea art. 53 din Legea nr. 303/2004 privind statutul judecătorilor şi procurorilor | [`lege/2013/265/`](lege/2013/265/) | amending act | 1 | 2013-10-17 | 2013-10-17 |
 | Legea nr. 270/2013 | [`lege/2013/270/`](lege/2013/270/) | in force | 3 | 2013-10-21 | 2015-09-30 |
@@ -5309,7 +5310,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (13852, of which 6961 amending acts)
+## Government decisions (HG) (13866, of which 6973 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -8699,6 +8700,20 @@
 | Hotărârea Guvernului nr. 663/2013 privind modificarea Hotărârii Guvernului nr. 447/2003 pentru aprobarea normelor metodologice privind modul de elaborare și conținutul hărților de risc natural la alunecări de teren și inundații | [`hg/2013/663/`](hg/2013/663/) | amending act | 1 | 2013-09-05 | 2013-09-05 |
 | Hotărârea Guvernului nr. 727/2013 | [`hg/2013/727/`](hg/2013/727/) | in force | 1 | 2013-10-30 | 2013-10-30 |
 | Hotărârea Guvernului nr. 730/2013 | [`hg/2013/730/`](hg/2013/730/) | in force | 1 | 2013-09-27 | 2013-09-27 |
+| Hotărârea Guvernului nr. 741/2013 pentru modificarea şi completarea Hotărârii Guvernului nr. 1.089/2006 privind stabilirea unor măsuri pentru reorganizarea şi funcţionarea Operei Naţionale din Bucureşti | [`hg/2013/741/`](hg/2013/741/) | amending act | 1 | 2013-10-09 | 2013-10-09 |
+| Hotărârea Guvernului nr. 743/2013 privind trecerea unor construcţii, aflate în administrarea Ministerului Afacerilor Interne, prin Inspectoratul de Poliţie al Judeţului Maramureş, din domeniul public al statului în domeniul privat al acestuia, în vederea scoaterii din funcţiune şi casării şi pentru actualizarea anexei nr. 1 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului | [`hg/2013/743/`](hg/2013/743/) | amending act | 1 | 2013-10-08 | 2013-10-08 |
+| Hotărârea Guvernului nr. 744/2013 pentru aprobarea indicatorilor tehnico-economici aferenţi lucrărilor de intervenţie "Consolidare DN 66A km 0 + 000-km 3 + 847", judeţul Hunedoara | [`hg/2013/744/`](hg/2013/744/) | amending act | 1 | 2013-10-08 | 2013-10-08 |
+| Hotărârea Guvernului nr. 746/2013 privind modificarea şi completarea, după caz, a denumirii, descrierii tehnice şi/sau adresei unor bunuri imobile aparţinând domeniului public al statului aflate în administrarea Ministerului Mediului şi Schimbărilor Climatice prin Administraţia Naţională "Apele Române" - administraţiile bazinale de apă Banat, Crişuri, Dobrogea-Litoral şi Someş-Tisa, prevăzute în anexa nr. 12 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului, ca urmare a executării lucrărilor de cadastru şi publicitate imobiliară | [`hg/2013/746/`](hg/2013/746/) | amending act | 1 | 2013-10-08 | 2013-10-08 |
+| Hotărârea Guvernului nr. 747/2013 pentru modificarea Hotărârii Guvernului nr. 612/2010 privind stabilirea cerinţelor esenţiale de securitate ale articolelor pirotehnice şi a condiţiilor pentru introducerea lor pe piaţă | [`hg/2013/747/`](hg/2013/747/) | amending act | 1 | 2013-10-07 | 2013-10-07 |
+| Hotărârea Guvernului nr. 750/2013 pentru completarea Hotărârii Guvernului nr. 327/2003 privind plafoanele pe baza cărora se calculează costurile salariale directe la contractele de finanţare încheiate din fonduri bugetare, precum şi pentru modificarea şi completarea Hotărârii Guvernului nr. 475/2007 privind aprobarea Planului naţional de cercetare-dezvoltare şi inovare II, pentru perioada 2007-2013 | [`hg/2013/750/`](hg/2013/750/) | amending act | 1 | 2013-10-09 | 2013-10-09 |
+| Hotărârea Guvernului nr. 751/2013 pentru aprobarea indicatorilor tehnico-economici aferenţi lucrărilor de intervenţie "Consolidare DN 66A km 16+624-km 23+800", judeţul Hunedoara | [`hg/2013/751/`](hg/2013/751/) | amending act | 1 | 2013-10-09 | 2013-10-09 |
+| Hotărârea Guvernului nr. 752/2013 privind aprobarea Programului de iarnă în domeniul energetic pentru asigurarea funcţionării în condiţii de siguranţă şi stabilitate a Sistemului electroenergetic naţional în perioada octombrie 2013-martie 2014 | [`hg/2013/752/`](hg/2013/752/) | amending act | 1 | 2013-10-09 | 2013-10-09 |
+| Hotărârea Guvernului nr. 753/2013 pentru aprobarea indicatorilor tehnico-economici aferenţi lucrării de intervenţie "Consolidare viaduct pe DN 7 km 200+615 peste Malul Lacului la Cozia", judeţul Vâlcea | [`hg/2013/753/`](hg/2013/753/) | amending act | 1 | 2013-10-09 | 2013-10-09 |
+| Hotărârea Guvernului nr. 754/2013 privind trecerea imobilului "Palatul Administrativ", proprietate publică a statului, situat în municipiul Brăila, judeţul Brăila, din administrarea Instituţiei Prefectului Judeţului Brăila în administrarea Consiliului Judeţean Brăila | [`hg/2013/754/`](hg/2013/754/) | in force | 1 | 2013-10-08 | 2013-10-08 |
+| Hotărârea Guvernului nr. 755/2013 privind trecerea imobilului "Palatul Administrativ", proprietate publică a statului, situat în municipiul Constanţa, judeţul Constanţa, din administrarea Instituţiei Prefectului Judeţului Constanţa în administrarea Consiliului Judeţean Constanţa | [`hg/2013/755/`](hg/2013/755/) | in force | 1 | 2013-10-08 | 2013-10-08 |
+| Hotărârea Guvernului nr. 756/2013 pentru aprobarea indicatorilor tehnico-economici aferenţi lucrării de intervenţie "Consolidare DN 16 km 72+200-74+000", judeţul Mureş | [`hg/2013/756/`](hg/2013/756/) | amending act | 1 | 2013-10-09 | 2013-10-09 |
+| Hotărârea Guvernului nr. 757/2013 privind aprobarea bugetului de venituri şi cheltuieli pe anul 2013 pentru Societatea Comercială Ceprohart - S.A., aflată în portofoliul Autorităţii pentru Administrarea Activelor Statului | [`hg/2013/757/`](hg/2013/757/) | amending act | 1 | 2013-10-09 | 2013-10-09 |
+| Hotărârea Guvernului nr. 758/2013 privind aprobarea bugetului de venituri şi cheltuieli pe anul 2013 pentru Societatea Comercială Comalex - S.A., aflată în portofoliul Autorităţii pentru Administrarea Activelor Statului | [`hg/2013/758/`](hg/2013/758/) | amending act | 1 | 2013-10-09 | 2013-10-09 |
 | Hotărârea Guvernului nr. 761/2013 pentru aprobarea cuantumului plăţilor naţionale directe complementare, care se acordă pentru anul 2013 în sectorul vegetal | [`hg/2013/761/`](hg/2013/761/) | amending act | 1 | 2013-10-10 | 2013-10-10 |
 | Hotărârea Guvernului nr. 762/2013 privind stabilirea pentru anul 2013 a cuantumului plăţilor directe unice pe suprafaţă, plăţilor separate pentru zahăr şi plăţilor specifice pentru orez, care se acordă în agricultură în sectorul vegetal | [`hg/2013/762/`](hg/2013/762/) | in force | 1 | 2013-10-10 | 2013-10-10 |
 | Hotărârea Guvernului nr. 764/2013 pentru aprobarea cuantumului plăţii naţionale directe complementare în sectorul zootehnic, pentru specia ovine/caprine, în anul 2013 | [`hg/2013/764/`](hg/2013/764/) | amending act | 1 | 2013-10-10 | 2013-10-10 |
