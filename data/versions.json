@@ -33263,6 +33263,57 @@
    ]
   },
   {
+   "slug": "legea-17-1990",
+   "path": "lege/1990/17",
+   "short": "Legea nr. 17/1990",
+   "title": "Legea nr. 17/1990",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/759",
+   "versions": [
+    {
+     "from": "1990-11-07",
+     "units": 46,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/759",
+     "sha256": "309682b13a79ae629c4aa88fb43e4dd2e79c6351f4ee6a08b68d223ee019c4b2"
+    },
+    {
+     "from": "2002-10-21",
+     "units": 60,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/39191",
+     "sha256": "71cf04ea8142476c27b8e688d3b9e6ae9608c9c0edf0ff71211a87ef929d65bf"
+    },
+    {
+     "from": "2007-11-16",
+     "units": 68,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87392",
+     "sha256": "eddfca8b1417fd8a070ec9953975b75b286157c0527bd701541acc7ad8a36357"
+    },
+    {
+     "from": "2011-06-10",
+     "units": 68,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/136131",
+     "sha256": "c613fe7fdfd8675857d5896f2bc56c05e04fd7faa27ee46ab221631f2d1c22a2"
+    },
+    {
+     "from": "2014-02-01",
+     "units": 68,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/143106",
+     "sha256": "f87f76abeba8c6316c454bc1af53f0b15d2a95691985146f322dff1ab1371eaa"
+    },
+    {
+     "from": "2014-04-08",
+     "units": 68,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/157199",
+     "sha256": "96b3627f5a3de114626750e893d066cc1967495557f9203273b1eea52904075b"
+    },
+    {
+     "from": "2021-04-23",
+     "units": 68,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/240646",
+     "sha256": "75697aa3a5e3717f78a4fd9112483b46d01b777ba424a99da9d78c8c9e733bae"
+    }
+   ]
+  },
+  {
    "slug": "legea-17-2000",
    "path": "lege/2000/17",
    "short": "Legea nr. 17/2000",

@@ -291,6 +291,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/755"
 },
 {
+"slug": "legea-17-1990",
+"path": "lege/1990/17",
+"kind": "lege",
+"year": "1990",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 17/1990",
+"short": "Legea nr. 17/1990",
+"code": null,
+"status": "in force",
+"versions": 7,
+"from": "1990-11-07",
+"latest": "2021-04-23",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/759"
+},
+{
 "slug": "legea-26-1990",
 "path": "lege/1990/26",
 "kind": "lege",

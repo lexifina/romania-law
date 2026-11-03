@@ -1,6 +1,6 @@
 # Every act in this repository
 
-8244 acts, 21,095 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+8245 acts, 21,102 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -32,7 +32,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (1953, of which 762 amending acts)
+## Laws (legi) (1954, of which 762 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -52,6 +52,7 @@
 | Codul penal din 21 iunie 1968 (Legea nr. 15/1968) | [`lege/1968/15/`](lege/1968/15/) | repealed 2014-02-01 | 22 | 1969-01-01 | 2014-02-01 |
 | Codul de procedură penală din 12 noiembrie 1968 (Legea nr. 29/1968) | [`lege/1968/29/`](lege/1968/29/) | repealed 2014-02-01 | 35 | 1969-01-01 | 2014-02-01 |
 | Legea nr. 15/1990 | [`lege/1990/15/`](lege/1990/15/) | in force | 12 | 1990-09-07 | 2019-11-02 |
+| Legea nr. 17/1990 | [`lege/1990/17/`](lege/1990/17/) | in force | 7 | 1990-11-07 | 2021-04-23 |
 | Legea nr. 26/1990 privind registrul comerțului | [`lege/1990/26/`](lege/1990/26/) | repealed 2022-11-26 | 27 | 1990-12-07 | 2022-11-26 |
 | Legea societăților nr. 31/1990 | [`lege/1990/31/`](lege/1990/31/) | in force | 43 | 1990-12-17 | 2025-12-18 |
 | Legea nr. 1/1991 | [`lege/1991/1/`](lege/1991/1/) | repealed 2002-03-01 | 6 | 1991-02-07 | 2002-03-01 |
