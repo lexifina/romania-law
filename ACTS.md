@@ -1,6 +1,6 @@
 # Every act in this repository
 
-16470 acts, 30,094 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+16471 acts, 30,095 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (2805, of which 1425 amending acts)
+## Laws (legi) (2806, of which 1426 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -1273,6 +1273,7 @@
 | Legea nr. 92/2017 pentru aprobarea Ordonanței de urgență a Guvernului nr. 72/2016 privind aprobarea Programului-pilot de acordare a unui suport alimentar pentru preșcolarii și elevii din 50 de unități de învățământ preuniversitar de stat | [`lege/2017/92/`](lege/2017/92/) | amending act | 1 | 2017-05-08 | 2017-05-08 |
 | Legea nr. 93/2017 privind aprobarea Ordonanței de urgență a Guvernului nr. 23/2016 pentru aprobarea unor măsuri de eficientizare a sistemului de gestionare a fondurilor structurale și de investiții europene | [`lege/2017/93/`](lege/2017/93/) | amending act | 1 | 2017-05-08 | 2017-05-08 |
 | Legea nr. 106/2017 privind unele măsuri pentru îmbunătățirea exercitării pe teritoriul României a drepturilor conferite în contextul liberei circulații a lucrătorilor în cadrul Uniunii Europene | [`lege/2017/106/`](lege/2017/106/) | in force | 1 | 2017-05-25 | 2017-05-25 |
+| Legea nr. 114/2017 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 5/2017 pentru modificarea Ordonanţei de urgenţă a Guvernului nr. 63/2015 privind prelungirea valabilităţii licenţelor de traseu şi a programului de transport în baza cărora se efectuează serviciile regulate de transport de persoane între municipiul Bucureşti şi localităţile judeţului Ilfov, precum şi pentru prelungirea valabilităţii licenţelor de traseu şi a programului de transport public judeţean sau a programului de transport public local de persoane, în cazul în care procedura de atribuire a acestora a fost suspendată prin hotărâri ale instanţelor de judecată | [`lege/2017/114/`](lege/2017/114/) | amending act | 1 | 2017-05-28 | 2017-05-28 |
 | Legea nr. 119/2017 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 53/2016 pentru modificarea şi completarea art. 14 din Ordonanţa Guvernului nr. 26/2013 privind întărirea disciplinei financiare la nivelul unor operatori economici la care statul sau unităţile administrativ-teritoriale sunt acţionari unici ori majoritari sau deţin direct ori indirect o participaţie majoritară | [`lege/2017/119/`](lege/2017/119/) | amending act | 1 | 2017-06-02 | 2017-06-02 |
 | Legea nr. 120/2017 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 56/2016 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 120/2002 privind aprobarea Sistemului de susţinere şi promovare a exportului cu finanţare de la bugetul de stat | [`lege/2017/120/`](lege/2017/120/) | amending act | 1 | 2017-06-02 | 2017-06-02 |
 | Legea nr. 121/2017 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 66/2016 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 24/2010 privind implementarea programului de încurajare a consumului de fructe proaspete în şcoli | [`lege/2017/121/`](lege/2017/121/) | amending act | 1 | 2017-06-02 | 2017-06-02 |
