@@ -84305,6 +84305,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/32782"
 },
 {
+"slug": "hg-1258-2001",
+"path": "hg/2001/1258",
+"kind": "hg",
+"year": "2001",
+"number": "1258",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 1258/2001",
+"short": "HG nr. 1258/2001",
+"code": null,
+"status": "in force",
+"versions": 2,
+"from": "2001-12-20",
+"latest": "2009-12-04",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/119000"
+},
+{
 "slug": "hg-1259-2001",
 "path": "hg/2001/1259",
 "kind": "hg",
@@ -91273,6 +91290,23 @@
 "from": "2006-09-01",
 "latest": "2007-07-12",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/68307"
+},
+{
+"slug": "hg-1878-2005",
+"path": "hg/2005/1878",
+"kind": "hg",
+"year": "2005",
+"number": "1878",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 1878/2005",
+"short": "HG nr. 1878/2005",
+"code": null,
+"status": "in force",
+"versions": 2,
+"from": "2006-01-17",
+"latest": "2009-12-04",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/119199"
 },
 {
 "slug": "hg-1-2006",

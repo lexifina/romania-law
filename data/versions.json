@@ -12722,6 +12722,27 @@
    ]
   },
   {
+   "slug": "hg-1258-2001",
+   "path": "hg/2001/1258",
+   "short": "HG nr. 1258/2001",
+   "title": "Hotărârea Guvernului nr. 1258/2001",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/119000",
+   "versions": [
+    {
+     "from": "2001-12-20",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/32916",
+     "sha256": "2aa934dc918d437bc9dd6c5db1f0190271ed49aa6085358c45687dec0fe9f64d"
+    },
+    {
+     "from": "2009-12-04",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119001",
+     "sha256": "eaa3641268a0ffb53a18d25991988811a8cfbd3652c1c1e9af9158234af9e7fd"
+    }
+   ]
+  },
+  {
    "slug": "hg-1258-2021",
    "path": "hg/2021/1258",
    "short": "HG nr. 1258/2021",
@@ -16210,6 +16231,27 @@
      "units": 27,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/68307",
      "sha256": "491522e1dcfff505ef6aa4b7d6b98b1653ac73cad6ac5ad6e145db5eeec0e6dd"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1878-2005",
+   "path": "hg/2005/1878",
+   "short": "HG nr. 1878/2005",
+   "title": "Hotărârea Guvernului nr. 1878/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/119199",
+   "versions": [
+    {
+     "from": "2006-01-17",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/67933",
+     "sha256": "76804a6d09192a9287827ec08def7485ea416c2c94b1a6da9acc72208ed29673"
+    },
+    {
+     "from": "2009-12-04",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119199",
+     "sha256": "59ede83652671bb72822754c95317ed16f61243e4fb2cf5050084037ed98d169"
     }
    ]
   },

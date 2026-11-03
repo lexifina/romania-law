@@ -1,6 +1,6 @@
 # Every act in this repository
 
-14770 acts, 28,359 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+14772 acts, 28,363 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -4816,7 +4816,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (9963, of which 4596 amending acts)
+## Government decisions (HG) (9965, of which 4596 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -5010,6 +5010,7 @@
 | Hotărârea Guvernului nr. 1211/2001 | [`hg/2001/1211/`](hg/2001/1211/) | in force | 8 | 2001-12-11 | 2017-06-12 |
 | Hotărârea Guvernului nr. 1217/2001 | [`hg/2001/1217/`](hg/2001/1217/) | in force | 1 | 2001-12-17 | 2001-12-17 |
 | Hotărârea Guvernului nr. 1219/2001 | [`hg/2001/1219/`](hg/2001/1219/) | in force | 1 | 2001-12-11 | 2001-12-11 |
+| Hotărârea Guvernului nr. 1258/2001 | [`hg/2001/1258/`](hg/2001/1258/) | in force | 2 | 2001-12-20 | 2009-12-04 |
 | Hotărârea Guvernului nr. 1259/2001 | [`hg/2001/1259/`](hg/2001/1259/) | in force | 2 | 2001-12-28 | 2004-12-30 |
 | Hotărârea Guvernului nr. 1340/2001 | [`hg/2001/1340/`](hg/2001/1340/) | in force | 10 | 2002-01-21 | 2024-07-05 |
 | Hotărârea Guvernului nr. 1349/2001 | [`hg/2001/1349/`](hg/2001/1349/) | in force | 1 | 2002-08-26 | 2002-08-26 |
@@ -5420,6 +5421,7 @@
 | Hotărârea Guvernului nr. 1856/2005 | [`hg/2005/1856/`](hg/2005/1856/) | in force | 2 | 2006-01-11 | 2017-05-05 |
 | Hotărârea Guvernului nr. 1872/2005 | [`hg/2005/1872/`](hg/2005/1872/) | in force | 1 | 2006-02-06 | 2006-02-06 |
 | Hotărârea Guvernului nr. 1876/2005 | [`hg/2005/1876/`](hg/2005/1876/) | in force | 2 | 2006-09-01 | 2007-07-12 |
+| Hotărârea Guvernului nr. 1878/2005 | [`hg/2005/1878/`](hg/2005/1878/) | in force | 2 | 2006-01-17 | 2009-12-04 |
 | Hotărârea Guvernului nr. 1/2006 | [`hg/2006/1/`](hg/2006/1/) | in force | 1 | 2006-01-06 | 2006-01-06 |
 | Hotărârea Guvernului nr. 37/2006 | [`hg/2006/37/`](hg/2006/37/) | in force | 1 | 2006-01-19 | 2006-01-19 |
 | Hotărârea Guvernului nr. 94/2006 | [`hg/2006/94/`](hg/2006/94/) | in force | 1 | 2006-01-29 | 2006-01-29 |
