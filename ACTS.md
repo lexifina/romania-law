@@ -1,6 +1,6 @@
 # Every act in this repository
 
-17941 acts, 31,567 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+17953 acts, 31,579 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -5219,7 +5219,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (12731, of which 6291 amending acts)
+## Government decisions (HG) (12743, of which 6297 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -8720,7 +8720,19 @@
 | Hotărârea Guvernului nr. 234/2015 | [`hg/2015/234/`](hg/2015/234/) | in force | 1 | 2015-04-14 | 2015-04-14 |
 | Hotărârea Guvernului nr. 245/2015 | [`hg/2015/245/`](hg/2015/245/) | in force | 1 | 2015-05-19 | 2015-05-19 |
 | Hotărârea Guvernului nr. 257/2015 privind aprobarea Metodologiei de elaborare a planurilor de calitate a aerului, a planurilor de acțiune pe termen scurt și a planurilor de menținere a calității aerului | [`hg/2015/257/`](hg/2015/257/) | amending act | 1 | 2015-04-27 | 2015-04-27 |
+| Hotărârea Guvernului nr. 258/2015 privind încetarea exercitării, cu caracter temporar, prin detaşare în condiţiile legii, a funcţiei publice de prefect al judeţului Buzău de către doamna Buleandră Maria | [`hg/2015/258/`](hg/2015/258/) | in force | 1 | 2015-04-23 | 2015-04-23 |
+| Hotărârea Guvernului nr. 259/2015 privind încetarea exercitării, cu caracter temporar, prin detaşare în condiţiile legii, a funcţiei publice de subprefect al judeţului Buzău de către domnul Sava George | [`hg/2015/259/`](hg/2015/259/) | in force | 1 | 2015-04-23 | 2015-04-23 |
+| Hotărârea Guvernului nr. 260/2015 privind exercitarea, cu caracter temporar, prin detaşare în condiţiile legii, a funcţiei publice de prefect al judeţului Buzău de către domnul Sava George | [`hg/2015/260/`](hg/2015/260/) | in force | 1 | 2015-04-23 | 2015-04-23 |
+| Hotărârea Guvernului nr. 261/2015 privind încetarea exercitării, cu caracter temporar, prin detaşare în condiţiile legii, a funcţiei publice de prefect al judeţului Ilfov de către domnul Răşică Daniel Mihai | [`hg/2015/261/`](hg/2015/261/) | in force | 1 | 2015-04-23 | 2015-04-23 |
+| Hotărârea Guvernului nr. 262/2015 privind exercitarea, cu caracter temporar, prin detaşare în condiţiile legii, a funcţiei publice de prefect al judeţului Ilfov de către domnul Petcu Adrian | [`hg/2015/262/`](hg/2015/262/) | in force | 1 | 2015-04-23 | 2015-04-23 |
+| Hotărârea Guvernului nr. 265/2015 privind aprobarea bugetului de venituri şi cheltuieli pe anul 2015 pentru Compania Naţională a Cuprului, Aurului şi Fierului "MINVEST" - S.A. Deva, aflată sub autoritatea Ministerului Economiei, Comerţului şi Turismului | [`hg/2015/265/`](hg/2015/265/) | amending act | 1 | 2015-04-27 | 2015-04-27 |
+| Hotărârea Guvernului nr. 267/2015 privind aprobarea bugetului de venituri şi cheltuieli pe anul 2015 pentru Compania Naţională "ROMARM" - S.A., aflată sub autoritatea Ministerului Economiei, Comerţului şi Turismului | [`hg/2015/267/`](hg/2015/267/) | amending act | 1 | 2015-04-27 | 2015-04-27 |
+| Hotărârea Guvernului nr. 269/2015 privind aprobarea bugetului de venituri şi cheltuieli pe anul 2015 pentru Societatea Comercială "BĂIŢA" - S.A. Ştei, aflată sub autoritatea Ministerului Economiei, Comerţului şi Turismului | [`hg/2015/269/`](hg/2015/269/) | amending act | 1 | 2015-04-29 | 2015-04-29 |
+| Hotărârea Guvernului nr. 271/2015 privind suplimentarea bugetului Curţii de Conturi pe anul 2015 pentru plata unor sume prevăzute în titluri executorii având ca obiect acordarea de drepturi salariale corespunzătoare primelor două tranşe aferente anului 2016 | [`hg/2015/271/`](hg/2015/271/) | in force | 1 | 2015-04-28 | 2015-04-28 |
+| Hotărârea Guvernului nr. 273/2015 pentru modificarea Hotărârii Guvernului nr. 43/2013 privind organizarea şi funcţionarea Ministerului Fondurilor Europene | [`hg/2015/273/`](hg/2015/273/) | amending act | 1 | 2015-04-28 | 2015-04-28 |
 | Hotărârea Guvernului nr. 274/2015 | [`hg/2015/274/`](hg/2015/274/) | in force | 1 | 2015-04-29 | 2015-04-29 |
+| Hotărârea Guvernului nr. 277/2015 privind aprobarea normativelor de cheltuieli pentru acţiunea de protocol cu caracter deosebit Forumul Emitenţilor Suverani, organizată de Ministerul Finanţelor Publice în colaborare cu Banca Mondială, în perioada 11-14 mai 2015 | [`hg/2015/277/`](hg/2015/277/) | amending act | 1 | 2015-04-28 | 2015-04-28 |
+| Hotărârea Guvernului nr. 278/2015 pentru modificarea şi completarea Hotărârii Guvernului nr. 74/2011 privind siguranţa jucăriilor | [`hg/2015/278/`](hg/2015/278/) | amending act | 1 | 2015-04-30 | 2015-04-30 |
 | Hotărârea Guvernului nr. 280/2015 privind numirea unui consul general | [`hg/2015/280/`](hg/2015/280/) | in force | 1 | 2015-04-30 | 2015-04-30 |
 | Hotărârea Guvernului nr. 281/2015 privind numirea unui consul general | [`hg/2015/281/`](hg/2015/281/) | in force | 1 | 2015-04-30 | 2015-04-30 |
 | Hotărârea Guvernului nr. 282/2015 privind rechemarea şi numirea unui consul general | [`hg/2015/282/`](hg/2015/282/) | in force | 1 | 2015-04-30 | 2015-04-30 |
