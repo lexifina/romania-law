@@ -1,6 +1,6 @@
 # Every act in this repository
 
-12525 acts, 26,107 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+12544 acts, 26,126 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -4568,7 +4568,7 @@
 | Ordonanța Guvernului nr. 21/2025 pentru modificarea și completarea Legii nr. 431/2023 privind asigurarea unui nivel minim global de impozitare a grupurilor de întreprinderi multinaționale și a grupurilor naționale de mari dimensiuni | [`og/2025/21/`](og/2025/21/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 | Ordonanța Guvernului nr. 22/2025 pentru modificarea și completarea Legii nr. 227/2015 privind Codul fiscal | [`og/2025/22/`](og/2025/22/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 
-## Government decisions (HG) (7966, of which 3415 amending acts)
+## Government decisions (HG) (7985, of which 3422 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -5475,11 +5475,30 @@
 | Hotărârea Guvernului nr. 169/2008 privind exercitarea, cu caracter temporar, a funcţiei publice de prefect al judeţului Iaşi de către domnul Bodea Marius | [`hg/2008/169/`](hg/2008/169/) | in force | 1 | 2008-02-21 | 2008-02-21 |
 | Hotărârea Guvernului nr. 170/2008 | [`hg/2008/170/`](hg/2008/170/) | in force | 1 | 2008-02-22 | 2008-02-22 |
 | Hotărârea Guvernului nr. 171/2008 privind suplimentarea bugetului Ministerului Afacerilor Externe din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2008, pentru finanţarea cheltuielilor aferente organizării la Bucureşti, în perioada 2-4 aprilie 2008, a Summitului NATO | [`hg/2008/171/`](hg/2008/171/) | in force | 1 | 2008-02-22 | 2008-02-22 |
+| Hotărârea Guvernului nr. 174/2008 privind schimbarea titularului dreptului de administrare a unui imobil situat în municipiul Târgu Mureş, judeţul Mureş | [`hg/2008/174/`](hg/2008/174/) | in force | 1 | 2008-02-25 | 2008-02-25 |
 | Hotărârea Guvernului nr. 175/2008 | [`hg/2008/175/`](hg/2008/175/) | in force | 1 | 2008-02-22 | 2008-02-22 |
 | Hotărârea Guvernului nr. 176/2008 privind elaborarea Rezumatului anual pentru fondurile structurale şi de coeziune şi pentru Fondul European pentru Pescuit | [`hg/2008/176/`](hg/2008/176/) | in force | 1 | 2008-02-22 | 2008-02-22 |
 | Hotărârea Guvernului nr. 177/2008 | [`hg/2008/177/`](hg/2008/177/) | in force | 1 | 2008-02-22 | 2008-02-22 |
+| Hotărârea Guvernului nr. 182/2008 pentru aprobarea Înţelegerii dintre Ministerul Internelor şi Reformei Administrative din România şi Ministerul de Interne din Republica Italiană, semnată la Bucureşti la 22 noiembrie 2007, privind aplicarea Protocolului de cooperare dintre Ministerul Administraţiei şi Internelor din România şi Ministerul de Interne din Republica Italiană, semnat la Bucureşti la 19 decembrie 2006 | [`hg/2008/182/`](hg/2008/182/) | amending act | 1 | 2008-02-25 | 2008-02-25 |
+| Hotărârea Guvernului nr. 183/2008 privind transmiterea unor drumuri forestiere şi a terenurilor aferente acestora din domeniul public al statului şi din administrarea Regiei Naţionale a Pădurilor - Romsilva în domeniul public al comunei Atid, judeţul Harghita, şi în administrarea Consiliului Local al Comunei Atid, judeţul Harghita | [`hg/2008/183/`](hg/2008/183/) | in force | 1 | 2008-02-26 | 2008-02-26 |
+| Hotărârea Guvernului nr. 187/2008 privind aprobarea Planului de măsuri pentru revenirea în ţară a cetăţenilor români care lucrează în străinătate | [`hg/2008/187/`](hg/2008/187/) | amending act | 1 | 2008-03-03 | 2008-03-03 |
 | Hotărârea Guvernului nr. 189/2008 privind recunoaşterea Statutului Cultului Creştin Penticostal - Biserica lui Dumnezeu Apostolică din România | [`hg/2008/189/`](hg/2008/189/) | in force | 1 | 2008-03-20 | 2008-03-20 |
+| Hotărârea Guvernului nr. 192/2008 privind acordarea unui ajutor | [`hg/2008/192/`](hg/2008/192/) | in force | 1 | 2008-02-28 | 2008-02-28 |
+| Hotărârea Guvernului nr. 194/2008 privind suplimentarea bugetului Camerei Deputaţilor din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2008, pentru finanţarea cheltuielilor aferente organizării la Bucureşti, în perioada 2-4 aprilie 2008, a Summitului NATO | [`hg/2008/194/`](hg/2008/194/) | in force | 1 | 2008-02-28 | 2008-02-28 |
+| Hotărârea Guvernului nr. 196/2008 privind plata contribuţiei României la bugetul Iniţiativei de Cooperare în Sud-Estul Europei (SECI) | [`hg/2008/196/`](hg/2008/196/) | in force | 1 | 2008-02-29 | 2008-02-29 |
 | Hotărârea Guvernului nr. 199/2008 | [`hg/2008/199/`](hg/2008/199/) | in force | 1 | 2008-02-28 | 2008-02-28 |
+| Hotărârea Guvernului nr. 201/2008 pentru modificarea şi completarea Hotărârii Guvernului nr. 727/2005 privind unele măsuri pentru finalizarea privatizării Societăţii Comerciale "Romtelecom" - S.A | [`hg/2008/201/`](hg/2008/201/) | amending act | 1 | 2008-03-05 | 2008-03-05 |
+| Hotărârea Guvernului nr. 203/2008 pentru aprobarea Memorandumului de înţelegere între Ministerul Apărării din Republica Bulgaria, Ministerul Apărării din Republica Croaţia, Ministerul Apărării din Georgia şi Ministerul Apărării din România privind înfiinţarea şi sprijinul unei unităţi multinaţionale logistice integrate cu specific de geniu pentru infrastructură de logistică (IEL MILU), semnat la Bruxelles la 7 noiembrie 2007 | [`hg/2008/203/`](hg/2008/203/) | amending act | 1 | 2008-03-06 | 2008-03-06 |
+| Hotărârea Guvernului nr. 204/2008 privind constituirea comisiilor pentru soluţionarea întâmpinărilor unor persoane fizice şi juridice în vederea exproprierii terenurilor pentru realizarea lucrării de interes naţional "LEA 400 kV simplu circuit Arad-Nădab" | [`hg/2008/204/`](hg/2008/204/) | in force | 1 | 2008-03-04 | 2008-03-04 |
+| Hotărârea Guvernului nr. 205/2008 privind constituirea Comisiei pentru soluţionarea întâmpinării unei persoane fizice în vederea exproprierii pentru cauză de utilitate publică pentru realizarea lucrării de interes naţional "Deschiderea şi punerea în exploatare a carierei Roşiuţa, judeţul Gorj, la o capacitate de 3.000.000 tone lignit/an" | [`hg/2008/205/`](hg/2008/205/) | in force | 1 | 2008-03-05 | 2008-03-05 |
+| Hotărârea Guvernului nr. 206/2008 privind schimbarea titularului dreptului de administrare a unui imobil situat în municipiul Drobeta-Turnu Severin, judeţul Mehedinţi | [`hg/2008/206/`](hg/2008/206/) | in force | 1 | 2008-03-05 | 2008-03-05 |
+| Hotărârea Guvernului nr. 207/2008 privind încadrarea în categoria funcţională a drumurilor comunale a unui sector de drum judeţean situat în judeţul Dolj | [`hg/2008/207/`](hg/2008/207/) | in force | 1 | 2008-03-05 | 2008-03-05 |
+| Hotărârea Guvernului nr. 210/2008 privind aprobarea prealabilă, în vederea recunoaşterii prin hotărâre judecătorească, a Fundaţiei "Kinderen în Nood" din Olanda | [`hg/2008/210/`](hg/2008/210/) | amending act | 1 | 2008-03-05 | 2008-03-05 |
+| Hotărârea Guvernului nr. 219/2008 privind suplimentarea bugetului Ministerului Culturii şi Cultelor pe anul 2008 din Fondul de rezervă bugetară la dispoziţia Guvernului | [`hg/2008/219/`](hg/2008/219/) | in force | 1 | 2008-03-06 | 2008-03-06 |
+| Hotărârea Guvernului nr. 226/2008 privind transmiterea unui imobil din domeniul privat al statului şi din administrarea Regiei Autonome "Administraţia Patrimoniului Protocolului de Stat" în domeniul public al statului şi în administrarea Ministerului Culturii şi Cultelor - Direcţia Judeţeană pentru Cultură, Culte şi Patrimoniu Cultural Naţional Cluj | [`hg/2008/226/`](hg/2008/226/) | in force | 1 | 2008-03-10 | 2008-03-10 |
+| Hotărârea Guvernului nr. 229/2008 privind aprobarea încadrării în categoria funcţională a drumurilor comunale a unor sectoare de drumuri, precum şi modificarea lungimii unor drumuri judeţene şi comunale existente, situate în judeţul Hunedoara | [`hg/2008/229/`](hg/2008/229/) | amending act | 1 | 2008-03-10 | 2008-03-10 |
+| Hotărârea Guvernului nr. 230/2008 pentru modificarea anexei nr. 16 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului | [`hg/2008/230/`](hg/2008/230/) | amending act | 1 | 2008-03-10 | 2008-03-10 |
+| Hotărârea Guvernului nr. 243/2008 privind unele măsuri referitoare la desfăşurarea activităţilor de zbor în spaţiul aerian al României pe durata Summitului NATO 2008 | [`hg/2008/243/`](hg/2008/243/) | in force | 1 | 2008-03-10 | 2008-03-10 |
 | Hotărârea Guvernului nr. 293/2008 | [`hg/2008/293/`](hg/2008/293/) | in force | 1 | 2008-03-26 | 2008-03-26 |
 | Hotărârea Guvernului nr. 324/2008 | [`hg/2008/324/`](hg/2008/324/) | in force | 1 | 2008-04-01 | 2008-04-01 |
 | Hotărârea Guvernului nr. 357/2008 | [`hg/2008/357/`](hg/2008/357/) | in force | 3 | 2008-04-01 | 2008-08-13 |
