@@ -54785,6 +54785,69 @@
    ]
   },
   {
+   "slug": "legea-64-1995",
+   "path": "lege/1995/64",
+   "short": "Legea nr. 64/1995",
+   "title": "Legea nr. 64/1995",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/63868",
+   "versions": [
+    {
+     "from": "1995-06-29",
+     "units": 131,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/6080",
+     "sha256": "ab96e5c265bc86c1e8afbc08b947e38931f93f860823cead7f58c1d88755c18e"
+    },
+    {
+     "from": "1999-12-13",
+     "units": 132,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/20216",
+     "sha256": "cd0c4498b820917d3e7c9aef8b0d27937d83295292df82442be4d7ecade58a10"
+    },
+    {
+     "from": "2002-08-01",
+     "units": 169,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36455",
+     "sha256": "0c8fb3318cf657872834194a2959ba93fd867c4b2d68330e5029bf2eca98fe20"
+    },
+    {
+     "from": "2003-03-26",
+     "units": 174,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/44029",
+     "sha256": "4f063c5be46ca85bb96888ae105e80d8561a59bd214d3843158dfe1d34489dcd"
+    },
+    {
+     "from": "2004-05-15",
+     "units": 179,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/51849",
+     "sha256": "618aace3547e280fdd0daad7cb5d8ebcc6c953579a541d9d27d31345cf7952e3"
+    },
+    {
+     "from": "2004-11-17",
+     "units": 151,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/56703",
+     "sha256": "45f48563e1fcb73a3ede6dbd94447196e9f30a33c5d08b5006dcb76abe17ee5f"
+    },
+    {
+     "from": "2005-03-25",
+     "units": 151,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/63867",
+     "sha256": "677303cfeb89fe1c15928f3362d0d1211a9071daf34e9d50dd76e664be45d485"
+    },
+    {
+     "from": "2005-07-31",
+     "units": 151,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/63868",
+     "sha256": "bda2756e009ae81e9acdaab74599dda837d2977f5bc21fabba7cfee5b54fff40"
+    },
+    {
+     "from": "2006-07-20",
+     "units": 0,
+     "source_url": "https://web.archive.org/web/20260604092347id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/71011",
+     "sha256": "d3d82af22d6c5ed2a9f7e841e3fa3ffc33bae2ef42a44d8d28c7779a1520a9c1"
+    }
+   ]
+  },
+  {
    "slug": "legea-65-2012",
    "path": "lege/2012/65",
    "short": "Legea nr. 65/2012",
@@ -76810,6 +76873,45 @@
      "units": 2,
      "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/109292",
      "sha256": "d728a1c0525e36155d9d1cdf77fb06080538b4a0e744cb90910ab2f36aa5100d"
+    }
+   ]
+  },
+  {
+   "slug": "oug-177-2002",
+   "path": "oug/2002/177",
+   "short": "OUG nr. 177/2002",
+   "title": "Ordonanța de urgență a Guvernului nr. 177/2002",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/65067",
+   "versions": [
+    {
+     "from": "2003-01-01",
+     "units": 50,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/40769",
+     "sha256": "682c28214757661d11bbc92a73c886b7de420d350fef859ea337400903b4951b"
+    },
+    {
+     "from": "2003-07-22",
+     "units": 51,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/45505",
+     "sha256": "7ffbdb69d405eb5ab70a231b30b42f0570fcbdaeed35a6b7265d396800e8aafc"
+    },
+    {
+     "from": "2004-01-01",
+     "units": 51,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/65065",
+     "sha256": "e3b6625a0332e2e0a0185b3bc14115fb1c1933f655a4a5221bbcc458dea2b7eb"
+    },
+    {
+     "from": "2004-12-23",
+     "units": 51,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/65066",
+     "sha256": "e8bd83ddaa4a1bd5c8bf8ab70c73b92622e4091a36ee672e419cd5530297ccb3"
+    },
+    {
+     "from": "2006-04-07",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/70594",
+     "sha256": "3f47c40183d1ab7f840140566014f9bc99edfbd6aa1e02ebda3354447792e762"
     }
    ]
   },

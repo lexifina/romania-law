@@ -2161,6 +2161,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/126008"
 },
 {
+"slug": "legea-64-1995",
+"path": "lege/1995/64",
+"kind": "lege",
+"year": "1995",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 64/1995",
+"short": "Legea nr. 64/1995",
+"code": null,
+"status": "repealed 2006-07-20",
+"versions": 9,
+"from": "1995-06-29",
+"latest": "2006-07-20",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/63868"
+},
+{
 "slug": "legea-74-1995",
 "path": "lege/1995/74",
 "kind": "lege",
@@ -38182,6 +38199,23 @@
 "from": "2002-12-09",
 "latest": "2009-03-12",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/101647"
+},
+{
+"slug": "oug-177-2002",
+"path": "oug/2002/177",
+"kind": "oug",
+"year": "2002",
+"number": "177",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 177/2002",
+"short": "OUG nr. 177/2002",
+"code": null,
+"status": "repealed 2006-04-07",
+"versions": 5,
+"from": "2003-01-01",
+"latest": "2006-04-07",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/65067"
 },
 {
 "slug": "oug-179-2002",

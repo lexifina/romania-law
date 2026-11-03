@@ -1,6 +1,6 @@
 # Every act in this repository
 
-9070 acts, 22,220 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+9072 acts, 22,234 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -32,7 +32,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (2099, of which 859 amending acts)
+## Laws (legi) (2100, of which 859 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -162,6 +162,7 @@
 | Legea nr. 41/1995 | [`lege/1995/41/`](lege/1995/41/) | in force | 1 | 1995-05-30 | 1995-05-30 |
 | Legea nr. 50/1995 | [`lege/1995/50/`](lege/1995/50/) | in force | 3 | 1995-05-31 | 2010-01-01 |
 | Legea nr. 51/1995 pentru organizarea și exercitarea profesiei de avocat | [`lege/1995/51/`](lege/1995/51/) | in force | 31 | 2001-03-06 | 2023-04-15 |
+| Legea nr. 64/1995 | [`lege/1995/64/`](lege/1995/64/) | repealed 2006-07-20 | 9 | 1995-06-29 | 2006-07-20 |
 | Legea nr. 74/1995 | [`lege/1995/74/`](lege/1995/74/) | repealed 2004-07-30 | 4 | 1995-08-13 | 2004-07-30 |
 | Legea nr. 80/1995 | [`lege/1995/80/`](lege/1995/80/) | in force | 30 | 1995-09-18 | 2024-03-28 |
 | Legea nr. 111/1995 | [`lege/1995/111/`](lege/1995/111/) | in force | 4 | 1996-01-29 | 2007-11-07 |
@@ -2136,7 +2137,7 @@
 | Legea nr. 190/2026 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 81/2021 privind aprobarea metodelor de intervenţie imediată pentru prevenirea şi combaterea atacurilor exemplarelor de urs brun asupra persoanelor şi bunurilor acestora, precum şi pentru modificarea şi completarea unor acte normative | [`lege/2026/190/`](lege/2026/190/) | amending act | 1 | 2026-10-08 | 2026-10-08 |
 | Legea nr. 205/2026 pentru completarea Ordonanţei Guvernului nr. 22/2002 privind executarea obligaţiilor de plată ale instituţiilor publice, stabilite prin titluri executorii | [`lege/2026/205/`](lege/2026/205/) | amending act | 1 | 2026-11-02 | 2026-11-02 |
 
-## Emergency ordinances (OUG) (1530, of which 534 amending acts)
+## Emergency ordinances (OUG) (1531, of which 534 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -2286,6 +2287,7 @@
 | Ordonanța de urgență a Guvernului nr. 153/2002 | [`oug/2002/153/`](oug/2002/153/) | in force | 3 | 2002-11-15 | 2017-07-01 |
 | Ordonanța de urgență a Guvernului nr. 155/2002 privind aprobarea scoaterii din rezervele de stat a unor cantităţi de combustibili pentru Societatea Comercială de Producere a Energiei Electrice şi Termice "Termoelectrica" - S.A., Societatea Comercială "Electrocentrale" Deva - S.A. şi centralele termice şi electrice de termoficare aflate în administrarea consiliilor judeţene şi locale | [`oug/2002/155/`](oug/2002/155/) | amending act | 2 | 2002-11-15 | 2003-04-23 |
 | Ordonanța de urgență a Guvernului nr. 174/2002 | [`oug/2002/174/`](oug/2002/174/) | repealed 2009-03-12 | 6 | 2002-12-09 | 2009-03-12 |
+| Ordonanța de urgență a Guvernului nr. 177/2002 | [`oug/2002/177/`](oug/2002/177/) | repealed 2006-04-07 | 5 | 2003-01-01 | 2006-04-07 |
 | Ordonanța de urgență a Guvernului nr. 179/2002 | [`oug/2002/179/`](oug/2002/179/) | in force | 4 | 2003-01-01 | 2019-10-31 |
 | Ordonanța de urgență a Guvernului nr. 184/2002 | [`oug/2002/184/`](oug/2002/184/) | in force | 7 | 2002-12-18 | 2006-12-24 |
 | Ordonanța de urgență a Guvernului nr. 187/2002 | [`oug/2002/187/`](oug/2002/187/) | in force | 4 | 2002-12-23 | 2009-01-01 |
