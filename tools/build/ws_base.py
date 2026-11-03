@@ -41,6 +41,7 @@ def tidy(line: str, norm=None) -> str:
 BLOCK_SEP = re.compile(r'(\n\s*\xa0?\+\xa0?\s*\n)')  # ws_units' block split, separators kept
 QUOTE_INTRO = re.compile(r':\s*["„«]?$')  # "... va avea următorul cuprins:" ends the block before a quoted article
 QMARK = '\x00Q{}\x00'
+QHEAD = re.compile(r'^\s*((?i:art(?:icol(?:ul)?|\.))\s+\d+(?:\s*\^\s*\d+)?[a-z]?)(?=\s|\.|-|$)\.?')
 
 
 def fold_quoted(raw: str) -> tuple:
@@ -92,9 +93,10 @@ def fold_quoted(raw: str) -> tuple:
                     continue
             body = lines
             if m:  # "Articolul 4  Localitățile ...": the quoted article's heading on a line of its own
-                rest = m.group(3)
-                body = [lines[0][:len(lines[0]) - len(rest)].strip().rstrip('-').strip()] + (
-                    [rest] if rest else []) + lines[1:]
+                h = QHEAD.match(lines[0])  # with a letter as printed ("Articolul 295^28a")
+                head = h.group(1) if h else lines[0][:len(lines[0]) - len(m.group(3))].strip().rstrip('-').strip()
+                rest = lines[0][len(h.group(0)):].strip().lstrip('-').strip() if h else m.group(3)
+                body = [head] + ([rest] if rest else []) + lines[1:]
             keep, end = [], False
             for ln in body:
                 mid = WU.TAIL_MID.search(ln)
