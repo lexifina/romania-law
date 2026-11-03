@@ -83829,6 +83829,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/135664"
 },
 {
+"slug": "hg-1352-2010",
+"path": "hg/2010/1352",
+"kind": "hg",
+"year": "2010",
+"number": "1352",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 1352/2010",
+"short": "HG nr. 1352/2010",
+"code": null,
+"status": "in force",
+"versions": 4,
+"from": "2011-01-01",
+"latest": "2018-03-16",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/124911"
+},
+{
 "slug": "hg-1359-2010",
 "path": "hg/2010/1359",
 "kind": "hg",
@@ -113084,6 +113101,23 @@
 "from": "2024-07-26",
 "latest": "2024-07-26",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/286245"
+},
+{
+"slug": "hg-892-2024",
+"path": "hg/2024/892",
+"kind": "hg",
+"year": "2024",
+"number": "892",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 892/2024 privind stabilirea numărului maxim de posturi pentru Şcoala Naţională de Grefieri",
+"short": "HG nr. 892/2024",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2024-07-26",
+"latest": "2024-07-26",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/286248"
 },
 {
 "slug": "hg-893-2024",

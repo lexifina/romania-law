@@ -12611,6 +12611,39 @@
    ]
   },
   {
+   "slug": "hg-1352-2010",
+   "path": "hg/2010/1352",
+   "short": "HG nr. 1352/2010",
+   "title": "Hotărârea Guvernului nr. 1352/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/124911",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/124911",
+     "sha256": "d1de10e76d853a556bfab59a221096c06874a2d0c2503649f71c0ed3146c3693"
+    },
+    {
+     "from": "2014-02-22",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/154361",
+     "sha256": "85950d805ef2591c8dbaae4c508fe4135f728d284170296a284172afcb9b72f8"
+    },
+    {
+     "from": "2014-04-24",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/157607",
+     "sha256": "64410d965d166cae17267b836ef28344f82bec80cc006ec18b1671207ab3328b"
+    },
+    {
+     "from": "2018-03-16",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/198622",
+     "sha256": "1aeb53b7b5386261278f0cc434e598053fdb2c33bcf0e0613b8604c33c1f61e0"
+    }
+   ]
+  },
+  {
    "slug": "hg-1359-2001",
    "path": "hg/2001/1359",
    "short": "HG nr. 1359/2001",
@@ -136117,6 +136150,21 @@
      "units": 36,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/207078",
      "sha256": "90af4955f7fcb0bef37d0e66aa83581f1fc6eef0edd3d76cf833ad4ee8f009b6"
+    }
+   ]
+  },
+  {
+   "slug": "hg-892-2024",
+   "path": "hg/2024/892",
+   "short": "HG nr. 892/2024",
+   "title": "Hotărârea Guvernului nr. 892/2024 privind stabilirea numărului maxim de posturi pentru Şcoala Naţională de Grefieri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/286248",
+   "versions": [
+    {
+     "from": "2024-07-26",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/286248",
+     "sha256": "f7c926cc8d25b9073b2a97434ab95cdd53d9b0301ac6660b540d44effb92f03e"
     }
    ]
   },

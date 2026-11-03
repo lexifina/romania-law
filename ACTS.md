@@ -1,6 +1,6 @@
 # Every act in this repository
 
-7771 acts, 20,505 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+7773 acts, 20,510 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -3893,7 +3893,7 @@
 | Ordonanța Guvernului nr. 21/2025 pentru modificarea și completarea Legii nr. 431/2023 privind asigurarea unui nivel minim global de impozitare a grupurilor de întreprinderi multinaționale și a grupurilor naționale de mari dimensiuni | [`og/2025/21/`](og/2025/21/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 | Ordonanța Guvernului nr. 22/2025 pentru modificarea și completarea Legii nr. 227/2015 privind Codul fiscal | [`og/2025/22/`](og/2025/22/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 
-## Government decisions (HG) (3886, of which 1418 amending acts)
+## Government decisions (HG) (3888, of which 1418 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -4981,6 +4981,7 @@
 | Hotărârea Guvernului nr. 1304/2010 pentru modificarea și completarea unor acte normative din domeniul patrimoniului cultural național | [`hg/2010/1304/`](hg/2010/1304/) | amending act | 1 | 2011-01-14 | 2011-01-14 |
 | Hotărârea Guvernului nr. 1332/2010 | [`hg/2010/1332/`](hg/2010/1332/) | in force | 2 | 2010-12-29 | 2011-01-01 |
 | Hotărârea Guvernului nr. 1335/2010 | [`hg/2010/1335/`](hg/2010/1335/) | in force | 2 | 2010-12-29 | 2011-11-28 |
+| Hotărârea Guvernului nr. 1352/2010 | [`hg/2010/1352/`](hg/2010/1352/) | in force | 4 | 2011-01-01 | 2018-03-16 |
 | Hotărârea Guvernului nr. 1359/2010 | [`hg/2010/1359/`](hg/2010/1359/) | in force | 1 | 2011-01-25 | 2011-01-25 |
 | Hotărârea Guvernului nr. 1370/2010 | [`hg/2010/1370/`](hg/2010/1370/) | in force | 1 | 2011-01-13 | 2011-01-13 |
 | Hotărârea Guvernului nr. 1388/2010 | [`hg/2010/1388/`](hg/2010/1388/) | in force | 3 | 2011-01-01 | 2012-12-22 |
@@ -6669,6 +6670,7 @@
 | Hotărârea Guvernului nr. 887/2024 privind acceptarea de către statul român a donaţiei de echipamente şi materiale consumabile şi darea acestora în administrarea Ministerului Afacerilor Interne - Inspectoratul General al Poliţiei de Frontieră | [`hg/2024/887/`](hg/2024/887/) | in force | 1 | 2024-07-26 | 2024-07-26 |
 | Hotărârea Guvernului nr. 888/2024 privind acceptarea de către statul român a unei donaţii cuprinzând echipamente IT şi darea acestora în administrarea Ministerului Afacerilor Interne - Inspectoratul General pentru Imigrări | [`hg/2024/888/`](hg/2024/888/) | in force | 1 | 2024-07-26 | 2024-07-26 |
 | Hotărârea Guvernului nr. 889/2024 pentru aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii "Lucrări de reabilitare poduri, podeţe şi tuneluri de cale ferată - etapa II - Lot SRCF Braşov" - Lotul 3, lucrare de utilitate publică de interes naţional | [`hg/2024/889/`](hg/2024/889/) | amending act | 1 | 2024-07-26 | 2024-07-26 |
+| Hotărârea Guvernului nr. 892/2024 privind stabilirea numărului maxim de posturi pentru Şcoala Naţională de Grefieri | [`hg/2024/892/`](hg/2024/892/) | in force | 1 | 2024-07-26 | 2024-07-26 |
 | Hotărârea Guvernului nr. 893/2024 pentru aprobarea Acordului dintre Guvernul României și Guvernul Republicii Turcia privind cooperarea în domeniul urbanizării, semnat la Ankara la 21 mai 2024 | [`hg/2024/893/`](hg/2024/893/) | amending act | 1 | 2024-07-31 | 2024-07-31 |
 | Hotărârea Guvernului nr. 896/2024 pentru aprobarea Strategiei naţionale privind implementarea Rezoluţiei 1325 (2000) a Consiliului de Securitate al Organizaţiei Naţiunilor Unite - Femeile, pacea şi securitatea, pentru perioada 2024-2028 | [`hg/2024/896/`](hg/2024/896/) | amending act | 1 | 2024-08-05 | 2024-08-05 |
 | Hotărârea Guvernului nr. 897/2024 privind modificarea denumirii, caracteristicilor tehnice şi a valorii de inventar ale unui bun imobil aflat în domeniul public al statului şi în administrarea Ministerului Muncii şi Solidarităţii Sociale - Agenţia Judeţeană pentru Plăţi şi Inspecţie Socială Hunedoara | [`hg/2024/897/`](hg/2024/897/) | amending act | 1 | 2024-07-31 | 2024-07-31 |
