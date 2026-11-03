@@ -58,3 +58,82 @@ Act id: `legea-268-2001` (tags `legea-268-2001/<day>`; `python tools/on.py <day>
 - Legea nr. 268/2001: some forms print a wrong article number that repeats an earlier article's, between the two articles it sits between; Lexifina's code files it under the number in sequence: "Articolul 2" read as art. 24.
 - Legea nr. 268/2001: 50 changed article(s) with no note naming a law, committed as the publisher's: 2002-01-22 art-003, 2002-01-22 art-007, 2002-01-22 art-009, 2002-01-22 art-013, 2002-01-22 art-018, 2002-01-22 art-021, 2002-01-22 art-027, 2002-01-22 art-029, 2002-02-18 art-001, 2002-02-18 art-003, 2002-02-18 art-006, 2002-02-18 art-007, 2002-02-18 art-009, 2002-02-18 art-011, 2002-02-18 art-013, 2002-02-18 art-018, 2002-02-18 art-019, 2002-02-18 art-021, 2002-02-18 art-022, 2002-02-18 art-029, 2002-04-24 art-001, 2002-04-24 art-018, 2002-04-24 art-019, 2002-04-24 art-021, 2002-04-24 art-022, 2002-09-09 art-011, 2002-09-09 art-019, 2002-09-09 art-021, 2002-09-09 art-027, 2002-10-23 art-011, 2002-10-23 art-023, 2002-10-29 art-023, 2002-11-16 art-001, 2003-01-27 art-001, 2004-02-03 art-021-1, 2009-10-04 art-005, 2012-11-15 art-001, 2014-03-15 art-001, 2014-03-15 art-011, 2014-03-15 art-014, 2014-03-15 art-019, 2014-03-15 art-026, 2016-11-25 art-019, 2016-11-25 art-021-1, 2017-06-11 art-003, 2017-06-11 art-007, 2017-06-11 art-014, 2017-06-11 art-021-1, 2017-06-11 art-021-4, 2017-06-11 art-029.
 - Legea nr. 268/2001: forms with no change after normalisation, so no version: 2006-05-21 (110632).
+
+## Credits corrected
+
+These changes were first published credited to another law. The words are unchanged; `git blame` still names the commit that wrote them, and `data/credits.csv` lists every corrected credit.
+
+- `art-006.md`, in force from 2002-04-24: Legea nr. 215/2002 (first published as no law named).
+- `art-006.md`, in force from 2002-09-09: OUG nr. 101/2002 (first published as no law named).
+- `art-006.md`, in force from 2002-10-23: OUG nr. 134/2002 (first published as no law named).
+- `art-003.md`, in force from 2002-11-16: Legea nr. 549/2002 (first published as no law named).
+- `art-004.md`, in force from 2002-11-16: Legea nr. 549/2002 (first published as no law named).
+- `art-006.md`, in force from 2002-11-16: Legea nr. 549/2002 (first published as no law named).
+- `art-007.md`, in force from 2002-11-16: Legea nr. 549/2002 (first published as no law named).
+- `art-014.md`, in force from 2002-11-16: Legea nr. 549/2002 (first published as no law named).
+- `art-018.md`, in force from 2002-11-16: Legea nr. 549/2002 (first published as no law named).
+- `art-023.md`, in force from 2002-11-16: Legea nr. 549/2002 (first published as no law named).
+- `art-029.md`, in force from 2002-11-16: Legea nr. 549/2002 (first published as no law named).
+- `art-006.md`, in force from 2003-01-27: Legea nr. 32/2003 (first published as no law named).
+- `art-021-1.md`, in force from 2003-06-13: Legea nr. 249/2003 (first published as no law named).
+- `art-021-2.md`, in force from 2003-06-13: Legea nr. 249/2003 (first published as no law named).
+- `art-021-3.md`, in force from 2003-06-13: Legea nr. 249/2003 (first published as no law named).
+- `art-004.md`, in force from 2006-02-14: OUG nr. 4/2006 (first published as no law named).
+- `art-005.md`, in force from 2006-02-14: OUG nr. 4/2006 (first published as no law named).
+- `art-004.md`, in force from 2006-05-27: Legea nr. 199/2006 (first published as no law named).
+- `art-005.md`, in force from 2006-05-27: Legea nr. 199/2006 (first published as no law named).
+- `art-006.md`, in force from 2006-05-27: Legea nr. 199/2006 (first published as no law named).
+- `art-020.md`, in force from 2009-10-04: Legea nr. 295/2009 (first published as no law named).
+- `art-004.md`, in force from 2010-12-30: OUG nr. 125/2010 (first published as no law named).
+- `art-005.md`, in force from 2010-12-30: OUG nr. 125/2010 (first published as no law named).
+- `art-005-1.md`, in force from 2010-12-30: OUG nr. 125/2010 (first published as no law named).
+- `art-018.md`, in force from 2010-12-30: OUG nr. 125/2010 (first published as no law named).
+- `art-021-3.md`, in force from 2010-12-30: OUG nr. 125/2010 (first published as no law named).
+- `art-022.md`, in force from 2010-12-30: OUG nr. 125/2010 (first published as no law named).
+- `art-021-4.md`, in force from 2011-06-23: Legea nr. 118/2011 (first published as no law named).
+- `art-021-5.md`, in force from 2011-06-23: Legea nr. 118/2011 (first published as no law named).
+- `art-021-6.md`, in force from 2011-06-23: Legea nr. 118/2011 (first published as no law named).
+- `art-004.md`, in force from 2012-11-15: OUG nr. 64/2012 (first published as no law named).
+- `art-005-1.md`, in force from 2012-11-15: OUG nr. 64/2012 (first published as no law named).
+- `art-006.md`, in force from 2012-11-15: OUG nr. 64/2012 (first published as no law named).
+- `art-004.md`, in force from 2014-03-15: Legea nr. 17/2014 (first published as no law named).
+- `art-005.md`, in force from 2014-03-15: Legea nr. 17/2014 (first published as no law named).
+- `art-005-1.md`, in force from 2014-03-15: Legea nr. 17/2014 (first published as no law named).
+- `art-004.md`, in force from 2016-11-25: Legea nr. 226/2016 (first published as no law named).
+- `art-021.md`, in force from 2016-11-25: Legea nr. 249/2003 (first published as no law named).
+- `art-004.md`, in force from 2017-06-11: Legea nr. 129/2017 (first published as no law named).
+- `art-005.md`, in force from 2017-06-11: Legea nr. 129/2017 (first published as no law named).
+- `art-005-1.md`, in force from 2017-06-11: Legea nr. 129/2017 (first published as no law named).
+- `art-002.md`, in force from 2023-10-27: OUG nr. 91/2023 (first published as no law named).
+- `art-004.md`, in force from 2023-10-27: OUG nr. 91/2023 (first published as no law named).
+- `art-004-1.md`, in force from 2023-10-27: OUG nr. 91/2023 (first published as no law named).
+- `art-018.md`, in force from 2023-10-27: OUG nr. 91/2023 (first published as no law named).
+- `art-020.md`, in force from 2023-10-27: OUG nr. 91/2023 (first published as no law named).
+- `art-021-7.md`, in force from 2023-10-27: OUG nr. 91/2023 (first published as no law named).
+- `art-004.md`, in force from 2024-06-29: OUG nr. 86/2024 (first published as no law named).
+- `art-004-1.md`, in force from 2024-06-29: OUG nr. 86/2024 (first published as no law named).
+- `art-004-1.md`, in force from 2025-12-13: Legea nr. 215/2025 (first published as no law named).
+- `art-001.md`, in force from 2025-12-31: OUG nr. 92/2025 (first published as no law named).
+- `art-002.md`, in force from 2025-12-31: OUG nr. 92/2025 (first published as no law named).
+- `art-003.md`, in force from 2025-12-31: OUG nr. 92/2025 (first published as no law named).
+- `art-004.md`, in force from 2025-12-31: OUG nr. 92/2025 (first published as no law named).
+- `art-004-1.md`, in force from 2025-12-31: OUG nr. 92/2025 (first published as no law named).
+- `art-005.md`, in force from 2025-12-31: OUG nr. 92/2025 (first published as no law named).
+- `art-005-1.md`, in force from 2025-12-31: OUG nr. 92/2025 (first published as no law named).
+- `art-006.md`, in force from 2025-12-31: OUG nr. 92/2025 (first published as no law named).
+- `art-007.md`, in force from 2025-12-31: OUG nr. 92/2025 (first published as no law named).
+- `art-009.md`, in force from 2025-12-31: OUG nr. 92/2025 (first published as no law named).
+- `art-010.md`, in force from 2025-12-31: OUG nr. 92/2025 (first published as no law named).
+- `art-011.md`, in force from 2025-12-31: OUG nr. 92/2025 (first published as no law named).
+- `art-012.md`, in force from 2025-12-31: OUG nr. 92/2025 (first published as no law named).
+- `art-014.md`, in force from 2025-12-31: OUG nr. 92/2025 (first published as no law named).
+- `art-018.md`, in force from 2025-12-31: OUG nr. 92/2025 (first published as no law named).
+- `art-020.md`, in force from 2025-12-31: OUG nr. 92/2025 (first published as no law named).
+- `art-021-3.md`, in force from 2025-12-31: OUG nr. 92/2025 (first published as no law named).
+- `art-021-4.md`, in force from 2025-12-31: OUG nr. 92/2025 (first published as no law named).
+- `art-022.md`, in force from 2025-12-31: OUG nr. 92/2025 (first published as no law named).
+- `art-023.md`, in force from 2025-12-31: OUG nr. 92/2025 (first published as no law named).
+- `art-024.md`, in force from 2025-12-31: OUG nr. 92/2025 (first published as no law named).
+- `art-026.md`, in force from 2025-12-31: OUG nr. 92/2025 (first published as no law named).
+- `art-027.md`, in force from 2025-12-31: OUG nr. 92/2025 (first published as no law named).
+- `art-031.md`, in force from 2025-12-31: OUG nr. 92/2025 (first published as no law named).
