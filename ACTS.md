@@ -1,6 +1,6 @@
 # Every act in this repository
 
-12397 acts, 25,979 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+12400 acts, 25,982 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -4566,7 +4566,7 @@
 | Ordonanța Guvernului nr. 21/2025 pentru modificarea și completarea Legii nr. 431/2023 privind asigurarea unui nivel minim global de impozitare a grupurilor de întreprinderi multinaționale și a grupurilor naționale de mari dimensiuni | [`og/2025/21/`](og/2025/21/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 | Ordonanța Guvernului nr. 22/2025 pentru modificarea și completarea Legii nr. 227/2015 privind Codul fiscal | [`og/2025/22/`](og/2025/22/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 
-## Government decisions (HG) (7840, of which 3369 amending acts)
+## Government decisions (HG) (7843, of which 3369 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -5627,6 +5627,7 @@
 | Hotărârea Guvernului nr. 207/2009 privind încetarea exercitării funcţiei publice de subprefect al judeţului Suceava de către doamna Zarojanu Angela | [`hg/2009/207/`](hg/2009/207/) | in force | 1 | 2009-03-05 | 2009-03-05 |
 | Hotărârea Guvernului nr. 208/2009 privind exercitarea, cu caracter temporar, a funcţiei publice de subprefect al judeţului Suceava de către domnul Girigan Eugen | [`hg/2009/208/`](hg/2009/208/) | in force | 1 | 2009-03-05 | 2009-03-05 |
 | Hotărârea Guvernului nr. 210/2009 privind trecerea unui imobil aflat în domeniul public al statului din administrarea Consiliului Local al Oraşului Buftea, judeţul Ilfov, în administrarea Ministerului Justiţiei şi Libertăţilor Cetăţeneşti | [`hg/2009/210/`](hg/2009/210/) | in force | 1 | 2009-03-12 | 2009-03-12 |
+| Hotărârea Guvernului nr. 212/2009 privind declanşarea procedurilor de expropriere a imobilelor proprietate privată situate pe amplasamentul lucrării de utilitate publică "Autostrada Arad-Timişoara" km 12+000-km 44+000, pe teritoriile municipiului Arad, al localităţii Şagu - judeţul Arad şi al localităţilor Orţişoara, Pişchia, Giarmata - judeţul Timiş | [`hg/2009/212/`](hg/2009/212/) | in force | 1 | 2009-03-16 | 2009-03-16 |
 | Hotărârea Guvernului nr. 215/2009 | [`hg/2009/215/`](hg/2009/215/) | in force | 2 | 2009-03-09 | 2018-01-26 |
 | Hotărârea Guvernului nr. 216/2009 privind stabilirea zilei de referinţă pentru alegerea membrilor din România în Parlamentul European din anul 2009 | [`hg/2009/216/`](hg/2009/216/) | in force | 1 | 2009-03-09 | 2009-03-09 |
 | Hotărârea Guvernului nr. 218/2009 | [`hg/2009/218/`](hg/2009/218/) | in force | 2 | 2009-03-12 | 2009-07-10 |
@@ -5672,6 +5673,8 @@
 | Hotărârea Guvernului nr. 263/2009 privind exercitarea, cu caracter temporar, a funcţiei publice de subprefect al judeţului Cluj de către domnul Cozma Vasile | [`hg/2009/263/`](hg/2009/263/) | in force | 1 | 2009-03-12 | 2009-03-12 |
 | Hotărârea Guvernului nr. 264/2009 privind stabilirea numărului autorizaţiilor de muncă ce pot fi eliberate străinilor în anul 2009 | [`hg/2009/264/`](hg/2009/264/) | in force | 1 | 2009-03-12 | 2009-03-12 |
 | Hotărârea Guvernului nr. 266/2009 pentru modificarea Hotărârii Guvernului nr. 416/2007 privind structura organizatorică și efectivele Ministerului Administrației și Internelor și a Hotărârii Guvernului nr. 1.678/2008 privind înființarea Institutului de Studii pentru Ordine Publică în subordinea Ministerului Administrației și Internelor și pentru completarea anexei nr. 1 la Hotărârea Guvernului nr. 416/2007 privind structura organizatorică și efectivele Ministerului Administrației și Internelor | [`hg/2009/266/`](hg/2009/266/) | amending act | 2 | 2009-03-15 | 2023-10-01 |
+| Hotărârea Guvernului nr. 267/2009 privind organizarea unor manifestări culturale şi de diplomaţie publică pentru marcarea zilei de 20 martie, Ziua Internaţională a Francofoniei | [`hg/2009/267/`](hg/2009/267/) | in force | 1 | 2009-03-13 | 2009-03-13 |
+| Hotărârea Guvernului nr. 278/2009 privind transmiterea unui imobil, aflat în domeniul public al statului, din administrarea Ministerului Culturii, Cultelor şi Patrimoniului Naţional în administrarea Ministerului Educaţiei, Cercetării şi Inovării şi în folosinţa Clubului Sportiv "Universitatea" din Cluj-Napoca | [`hg/2009/278/`](hg/2009/278/) | in force | 1 | 2009-03-16 | 2009-03-16 |
 | Hotărârea Guvernului nr. 284/2009 | [`hg/2009/284/`](hg/2009/284/) | repealed 2010-08-30 | 3 | 2009-03-24 | 2010-08-30 |
 | Hotărârea Guvernului nr. 367/2009 | [`hg/2009/367/`](hg/2009/367/) | in force | 2 | 2009-04-01 | 2009-12-17 |
 | Hotărârea Guvernului nr. 445/2009 | [`hg/2009/445/`](hg/2009/445/) | repealed 2019-01-09 | 3 | 2009-09-11 | 2019-01-09 |
