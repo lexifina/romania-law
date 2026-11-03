@@ -1,6 +1,6 @@
 # Every act in this repository
 
-5314 acts, 14,157 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+5316 acts, 14,223 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -32,7 +32,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (1513, of which 608 amending acts)
+## Laws (legi) (1514, of which 608 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -254,6 +254,7 @@
 | Legea nr. 338/2002 | [`lege/2002/338/`](lege/2002/338/) | in force | 1 | 2002-06-25 | 2002-06-25 |
 | Legea nr. 341/2002 | [`lege/2002/341/`](lege/2002/341/) | in force | 1 | 2002-06-25 | 2002-06-25 |
 | Legea nr. 349/2002 | [`lege/2002/349/`](lege/2002/349/) | in force | 13 | 2002-12-21 | 2024-11-11 |
+| Legea nr. 360/2002 | [`lege/2002/360/`](lege/2002/360/) | in force | 34 | 2002-08-23 | 2024-06-28 |
 | Legea nr. 365/2002 privind comerțul electronic | [`lege/2002/365/`](lege/2002/365/) | in force | 7 | 2002-07-05 | 2024-10-08 |
 | Legea nr. 372/2002 | [`lege/2002/372/`](lege/2002/372/) | in force | 1 | 2002-06-26 | 2002-06-26 |
 | Legea nr. 395/2002 | [`lege/2002/395/`](lege/2002/395/) | in force | 2 | 2002-07-16 | 2002-09-04 |
@@ -1550,7 +1551,7 @@
 | Legea nr. 241/2025 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 31/2002 privind interzicerea organizațiilor, simbolurilor și faptelor cu caracter fascist, legionar, rasist sau xenofob și a promovării cultului persoanelor vinovate de săvârșirea unor infracțiuni de genocid contra umanității și de crime de război, precum și pentru modificarea Legii nr. 157/2018 privind unele măsuri pentru prevenirea și combaterea antisemitismului | [`lege/2025/241/`](lege/2025/241/) | amending act | 1 | 2025-12-27 | 2025-12-27 |
 | Legea nr. 245/2025 pentru modificarea art. 32 alin. (7) din Legea nr. 273/2006 privind finanțele publice locale | [`lege/2025/245/`](lege/2025/245/) | amending act | 1 | 2026-01-01 | 2026-01-01 |
 
-## Emergency ordinances (OUG) (1187, of which 478 amending acts)
+## Emergency ordinances (OUG) (1188, of which 478 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -1727,6 +1728,7 @@
 | Ordonanța de urgență a Guvernului nr. 179/2005 | [`oug/2005/179/`](oug/2005/179/) | in force | 3 | 2005-12-16 | 2006-05-27 |
 | Ordonanța de urgență a Guvernului nr. 188/2005 | [`oug/2005/188/`](oug/2005/188/) | in force | 1 | 2005-12-29 | 2005-12-29 |
 | Ordonanța de urgență a Guvernului nr. 189/2005 | [`oug/2005/189/`](oug/2005/189/) | in force | 2 | 2005-12-28 | 2006-12-09 |
+| Ordonanța de urgență a Guvernului nr. 196/2005 | [`oug/2005/196/`](oug/2005/196/) | in force | 32 | 2005-12-30 | 2025-03-07 |
 | Ordonanța de urgență a Guvernului nr. 198/2005 | [`oug/2005/198/`](oug/2005/198/) | in force | 2 | 2005-12-30 | 2014-06-06 |
 | Ordonanța de urgență a Guvernului nr. 205/2005 | [`oug/2005/205/`](oug/2005/205/) | in force | 2 | 2005-12-29 | 2006-05-13 |
 | Ordonanța de urgență a Guvernului nr. 3/2006 | [`oug/2006/3/`](oug/2006/3/) | in force | 2 | 2006-02-13 | 2006-05-28 |
