@@ -1,6 +1,6 @@
 # Every act in this repository
 
-9811 acts, 23,209 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+9812 acts, 23,220 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -4286,7 +4286,7 @@
 | Ordonanța Guvernului nr. 21/2025 pentru modificarea și completarea Legii nr. 431/2023 privind asigurarea unui nivel minim global de impozitare a grupurilor de întreprinderi multinaționale și a grupurilor naționale de mari dimensiuni | [`og/2025/21/`](og/2025/21/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 | Ordonanța Guvernului nr. 22/2025 pentru modificarea și completarea Legii nr. 227/2015 privind Codul fiscal | [`og/2025/22/`](og/2025/22/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 
-## Government decisions (HG) (5533, of which 2256 amending acts)
+## Government decisions (HG) (5534, of which 2256 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -5148,6 +5148,7 @@
 | Hotărârea Guvernului nr. 577/2008 | [`hg/2008/577/`](hg/2008/577/) | in force | 1 | 2008-06-12 | 2008-06-12 |
 | Hotărârea Guvernului nr. 594/2008 | [`hg/2008/594/`](hg/2008/594/) | repealed 2019-07-21 | 2 | 2008-06-14 | 2019-07-21 |
 | Hotărârea Guvernului nr. 599/2008 | [`hg/2008/599/`](hg/2008/599/) | in force | 1 | 2008-06-10 | 2008-06-10 |
+| Hotărârea Guvernului nr. 611/2008 | [`hg/2008/611/`](hg/2008/611/) | repealed 2023-12-28 | 11 | 2008-08-28 | 2023-12-28 |
 | Hotărârea Guvernului nr. 634/2008 | [`hg/2008/634/`](hg/2008/634/) | in force | 1 | 2008-06-20 | 2008-06-20 |
 | Hotărârea Guvernului nr. 665/2008 pentru stabilirea nominală şi pe porţiuni a căilor navigabile interioare ale României | [`hg/2008/665/`](hg/2008/665/) | in force | 1 | 2008-07-04 | 2008-07-04 |
 | Hotărârea Guvernului nr. 686/2008 | [`hg/2008/686/`](hg/2008/686/) | in force | 1 | 2008-07-01 | 2008-07-01 |

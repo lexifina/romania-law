@@ -86668,6 +86668,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/93866"
 },
 {
+"slug": "hg-611-2008",
+"path": "hg/2008/611",
+"kind": "hg",
+"year": "2008",
+"number": "611",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 611/2008",
+"short": "HG nr. 611/2008",
+"code": null,
+"status": "repealed 2023-12-28",
+"versions": 11,
+"from": "2008-08-28",
+"latest": "2023-12-28",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/95595"
+},
+{
 "slug": "hg-634-2008",
 "path": "hg/2008/634",
 "kind": "hg",

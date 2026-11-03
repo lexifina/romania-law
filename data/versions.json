@@ -21233,6 +21233,81 @@
    ]
   },
   {
+   "slug": "hg-611-2008",
+   "path": "hg/2008/611",
+   "short": "HG nr. 611/2008",
+   "title": "Hotărârea Guvernului nr. 611/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/95595",
+   "versions": [
+    {
+     "from": "2008-08-28",
+     "units": 161,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/95595",
+     "sha256": "c9cdb99bfcd7538b243480b4376cd27edf8a790d4f308d2b8d004f1f1f21debf"
+    },
+    {
+     "from": "2008-08-28",
+     "units": 161,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97619",
+     "sha256": "338a959ccf006e8c0bc3a82b4357f0ed6e5185d7c47d7f8545f9120e52fc3a7a"
+    },
+    {
+     "from": "2008-10-02",
+     "units": 161,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97827",
+     "sha256": "443ceb824b0405fe3c79dec4f2607e64b1e7382c1971c6f4df3ac86a265a427a"
+    },
+    {
+     "from": "2009-01-20",
+     "units": 161,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/101651",
+     "sha256": "61448d1d34db2d8622f008cdeaf696df04942ca0c4f788f49b414d57f6a1f963"
+    },
+    {
+     "from": "2009-04-14",
+     "units": 161,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/109904",
+     "sha256": "6242e48ab48a1437432000f2356297f1f6ecfcf6ae947cf6888b4f06328636bb"
+    },
+    {
+     "from": "2011-01-01",
+     "units": 160,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/125299",
+     "sha256": "60c5ca43901583ea07c54993b5bb465788250e2676dcf27680532e9ff7c41495"
+    },
+    {
+     "from": "2017-10-19",
+     "units": 162,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/194008",
+     "sha256": "f5979010df958a78a0114cd644351adf5233112faa12cdf0e35977720170f4a9"
+    },
+    {
+     "from": "2019-01-17",
+     "units": 163,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/209785",
+     "sha256": "31f154d55ac93cb7dd9273fc0ca1398dd1bba2d4f368bb3bdd058c1186f98603"
+    },
+    {
+     "from": "2019-03-13",
+     "units": 165,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/211460",
+     "sha256": "c6d3c7dc11eefb6049f2369c6a777a567fa7044ecbf110cb48a492cfc6a71668"
+    },
+    {
+     "from": "2020-07-21",
+     "units": 173,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/227381",
+     "sha256": "21de79bef36f34bd8b0a92e165e6a0ffe2f163dd97ef9a6969a243a8bdd5f634"
+    },
+    {
+     "from": "2023-12-28",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/277767",
+     "sha256": "af3e0ed743c99a9dcf2bd53cd82e205580296702299ef2d7a486c3ab59138419"
+    }
+   ]
+  },
+  {
    "slug": "hg-612-2010",
    "path": "hg/2010/612",
    "short": "HG nr. 612/2010",
