@@ -46,3 +46,40 @@ Act id: `legea-238-2009` (tags `legea-238-2009/<day>`; `python tools/on.py <day>
 - Legea nr. 238/2009: added by Lexifina's automatic pass with the default rules: the forms are those the portal lists, each version is dated by its form or by the notes it prints, and no rule or ruling made for this act alone was applied. It was published only because every automatic check passed: two parses identical, the newest form read afresh equal to the latest version article by article, every article a form leaves out settled by the standing rules, every version dated by a rule or a stated in-force day, and no unexplained change other than diacritics or spacing.
 - Legea nr. 238/2009: the first version is the law as published in Monitorul Oficial nr. 405 of 15 June 2009 (DetaliiDocumentAfis/106912), dated 18 June 2009: it sets no day of its own, so in force 3 days after publication (Constituția art. 78). The portal holds no consolidated form before 17 June 2012, so the changes made up to then arrive together that day.
 - Legea nr. 238/2009: the republication of 12 July 2012 (portal page 139575), ordered by art. II of Legea nr. 81/2012, gives the articles a new numbering. On that day the articles whose number changed carry the text of their old number, and the changes that come with the republication are credited to Legea nr. 81/2012. Old -> new: 2 -> 3, 3 -> 4, 4 -> 5, 5 -> 6, 6 -> 9, 8 -> 11, 10 -> 18, 11 -> 24, 13 -> 30, 14 -> 31 (matched by text; the republication adds a definitions article and splits the rest).
+
+## Credits corrected
+
+These changes were first published credited to another law. The words are unchanged; `git blame` still names the commit that wrote them, and `data/credits.csv` lists every corrected credit.
+
+- `art-001.md`, in force from 2012-07-12: Legea nr. 81/2012 (first published as no law named).
+- `art-002.md`, in force from 2012-07-12: Legea nr. 81/2012 (first published as no law named).
+- `art-003.md`, in force from 2012-07-12: Legea nr. 81/2012 (first published as no law named).
+- `art-004.md`, in force from 2012-07-12: Legea nr. 81/2012 (first published as no law named).
+- `art-005.md`, in force from 2012-07-12: Legea nr. 81/2012 (first published as no law named).
+- `art-006.md`, in force from 2012-07-12: Legea nr. 81/2012 (first published as no law named).
+- `art-007.md`, in force from 2012-07-12: Legea nr. 81/2012 (first published as no law named).
+- `art-008.md`, in force from 2012-07-12: Legea nr. 81/2012 (first published as no law named).
+- `art-009.md`, in force from 2012-07-12: Legea nr. 81/2012 (first published as no law named).
+- `art-010.md`, in force from 2012-07-12: Legea nr. 81/2012 (first published as no law named).
+- `art-011.md`, in force from 2012-07-12: Legea nr. 81/2012 (first published as no law named).
+- `art-012.md`, in force from 2012-07-12: Legea nr. 81/2012 (first published as no law named).
+- `art-013.md`, in force from 2012-07-12: Legea nr. 81/2012 (first published as no law named).
+- `art-014.md`, in force from 2012-07-12: Legea nr. 81/2012 (first published as no law named).
+- `art-015.md`, in force from 2012-07-12: Legea nr. 81/2012 (first published as no law named).
+- `art-016.md`, in force from 2012-07-12: Legea nr. 81/2012 (first published as no law named).
+- `art-017.md`, in force from 2012-07-12: Legea nr. 81/2012 (first published as no law named).
+- `art-018.md`, in force from 2012-07-12: Legea nr. 81/2012 (first published as no law named).
+- `art-019.md`, in force from 2012-07-12: Legea nr. 81/2012 (first published as no law named).
+- `art-020.md`, in force from 2012-07-12: Legea nr. 81/2012 (first published as no law named).
+- `art-021.md`, in force from 2012-07-12: Legea nr. 81/2012 (first published as no law named).
+- `art-022.md`, in force from 2012-07-12: Legea nr. 81/2012 (first published as no law named).
+- `art-023.md`, in force from 2012-07-12: Legea nr. 81/2012 (first published as no law named).
+- `art-024.md`, in force from 2012-07-12: Legea nr. 81/2012 (first published as no law named).
+- `art-025.md`, in force from 2012-07-12: Legea nr. 81/2012 (first published as no law named).
+- `art-026.md`, in force from 2012-07-12: Legea nr. 81/2012 (first published as no law named).
+- `art-027.md`, in force from 2012-07-12: Legea nr. 81/2012 (first published as no law named).
+- `art-028.md`, in force from 2012-07-12: Legea nr. 81/2012 (first published as no law named).
+- `art-029.md`, in force from 2012-07-12: Legea nr. 81/2012 (first published as no law named).
+- `art-030.md`, in force from 2012-07-12: Legea nr. 81/2012 (first published as no law named).
+- `art-031.md`, in force from 2012-07-12: Legea nr. 81/2012 (first published as no law named).
+- `art-032.md`, in force from 2012-07-12: Legea nr. 81/2012 (first published as no law named).
