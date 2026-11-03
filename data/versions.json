@@ -60830,6 +60830,33 @@
    ]
   },
   {
+   "slug": "og-12-1998",
+   "path": "og/1998/12",
+   "short": "OG nr. 12/1998",
+   "title": "Ordonanța Guvernului nr. 12/1998",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14029",
+   "versions": [
+    {
+     "from": "1998-03-31",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/14029",
+     "sha256": "5a97b3c815ed1d3ac9c2828769c3219ebb88863532e636bed1873fe519a2a361"
+    },
+    {
+     "from": "2002-10-06",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/37872",
+     "sha256": "ff6e3e07ec4516bd8ab624215fc6d2d0394a87310d698de72ababe20013b95bd"
+    },
+    {
+     "from": "2005-01-01",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58759",
+     "sha256": "257ca1b5e2252beb84df1f0b4411c439c7f591c96dc3d870e776bec218556f10"
+    }
+   ]
+  },
+  {
    "slug": "og-12-2014",
    "path": "og/2014/12",
    "short": "OG nr. 12/2014",
@@ -79858,6 +79885,33 @@
      "units": 52,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66863",
      "sha256": "6409cc6fc0dc83fbf19e1b5a187ea54eecd4716a4c50a5a19a4532fbb4eeddce"
+    }
+   ]
+  },
+  {
+   "slug": "oug-26-2010",
+   "path": "oug/2010/26",
+   "short": "OUG nr. 26/2010",
+   "title": "Ordonanța de urgență a Guvernului nr. 26/2010 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 99/2006 privind instituțiile de credit și adecvarea capitalului și a altor acte normative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/201570",
+   "versions": [
+    {
+     "from": "2010-04-01",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/117587",
+     "sha256": "2dbb51f5d823f22db46a648970f2eac656e8161d9e816c385b71baa3d0e92e0f"
+    },
+    {
+     "from": "2010-10-31",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/117587",
+     "sha256": "2dbb51f5d823f22db46a648970f2eac656e8161d9e816c385b71baa3d0e92e0f"
+    },
+    {
+     "from": "2010-12-13",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/201570",
+     "sha256": "3a45c95ebec9379a74aabc18e814d5ce08420e1c90a0964d05f6cef84567cd1f"
     }
    ]
   },
@@ -119384,6 +119438,21 @@
    ]
   },
   {
+   "slug": "hg-305-2023",
+   "path": "hg/2023/305",
+   "short": "HG nr. 305/2023",
+   "title": "Hotărârea Guvernului nr. 305/2023 pentru modificarea pct. IV lit. c) din anexa la Hotărârea Guvernului nr. 632/2022 privind aprobarea cifrelor de şcolarizare pentru învăţământul preuniversitar de stat şi pentru învăţământul superior de stat în anul şcolar/universitar 2022-2023",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/266700",
+   "versions": [
+    {
+     "from": "2023-04-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/266700",
+     "sha256": "3f8c52a7294f351ddd8145a2f2b25b5bd748ff6abba5db4413ddc8f0765a1a77"
+    }
+   ]
+  },
+  {
    "slug": "hg-305-2025",
    "path": "hg/2025/305",
    "short": "HG nr. 305/2025",
@@ -119410,6 +119479,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/224920",
      "sha256": "703e174655d8eaca33fd43a02fc1c09200d364c0185ba56fd31510d9b56d5589"
+    }
+   ]
+  },
+  {
+   "slug": "hg-306-2023",
+   "path": "hg/2023/306",
+   "short": "HG nr. 306/2023",
+   "title": "Hotărârea Guvernului nr. 306/2023 privind acceptarea de către statul român a donaţiei unor bunuri mobile, ca operaţiune compensatorie, din partea Harris Global Communications Inc şi darea în administrarea Ministerului Apărării Naţionale a acestor bunuri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/266701",
+   "versions": [
+    {
+     "from": "2023-04-07",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/266701",
+     "sha256": "3d641e9a91f79c374c120a3dd917be024ce9380e7c426583fe4cd9cb12f14416"
     }
    ]
   },
@@ -119534,6 +119618,21 @@
    ]
   },
   {
+   "slug": "hg-309-2023",
+   "path": "hg/2023/309",
+   "short": "HG nr. 309/2023",
+   "title": "Hotărârea Guvernului nr. 309/2023 privind organizarea şi funcţionarea Autorităţii de Siguranţă Feroviară Române - ASFR",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/266722",
+   "versions": [
+    {
+     "from": "2023-04-10",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/266722",
+     "sha256": "0e2d0be87c3d5fc4ac604218bd024e52830160b524b38e2554d8cf33b11ee167"
+    }
+   ]
+  },
+  {
    "slug": "hg-309-2024",
    "path": "hg/2024/309",
    "short": "HG nr. 309/2024",
@@ -119639,6 +119738,21 @@
    ]
   },
   {
+   "slug": "hg-311-2023",
+   "path": "hg/2023/311",
+   "short": "HG nr. 311/2023",
+   "title": "Hotărârea Guvernului nr. 311/2023 privind actualizarea descrierii tehnice, vecinătăţilor şi valorii de inventar ale unui bun imobil aparţinând domeniului public al statului, aflat în administrarea Ministerului Mediului, Apelor şi Pădurilor - Administraţia Naţională de Meteorologie, ca urmare a lucrărilor de cadastru şi publicitate imobiliară şi evaluării, precum şi divizarea unui bun imobil aflat în domeniul public al statului şi în administrarea Ministerului Mediului, Apelor şi Pădurilor - Administraţia Naţională de Meteorologie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/266741",
+   "versions": [
+    {
+     "from": "2023-04-11",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/266741",
+     "sha256": "a04ef3d156637ef8e9ade306e1dc1ddebb15eb74ff818732b755945830e4bf32"
+    }
+   ]
+  },
+  {
    "slug": "hg-311-2024",
    "path": "hg/2024/311",
    "short": "HG nr. 311/2024",
@@ -119650,6 +119764,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/281300",
      "sha256": "07476366225870c78995e38e55fb7b90cf5f4a1c26c409f44942958664cba6df"
+    }
+   ]
+  },
+  {
+   "slug": "hg-312-2023",
+   "path": "hg/2023/312",
+   "short": "HG nr. 312/2023",
+   "title": "Hotărârea Guvernului nr. 312/2023 privind aprobarea închirierii unui bun imobil, proprietate publică a statului, aflat în administrarea Universităţii din Oradea, instituţie aflată în coordonarea Ministerului Educaţiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/266777",
+   "versions": [
+    {
+     "from": "2023-04-12",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/266777",
+     "sha256": "49c44a8177c7e7b059019816455c084e7d11e898377e0ee10e9b6c5f3701a8b2"
     }
    ]
   },
@@ -119738,6 +119867,21 @@
    ]
   },
   {
+   "slug": "hg-313-2023",
+   "path": "hg/2023/313",
+   "short": "HG nr. 313/2023",
+   "title": "Hotărârea Guvernului nr. 313/2023 pentru actualizarea valorii de inventar şi a datelor de identificare ale imobilelor cu nr. MF 106134, 115082 şi 152341 aflate în domeniul public al statului şi în administrarea Instituţiei Prefectului - Judeţul Dolj din subordinea Ministerului Afacerilor Interne şi transmiterea unei părţi din imobilul cu nr. MF 152341 în domeniul public al municipiului Craiova, judeţul Dolj, precum şi pentru actualizarea anexei nr. 1 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/266778",
+   "versions": [
+    {
+     "from": "2023-04-12",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/266778",
+     "sha256": "1cc41bd5152a93a7530226a7302791027da579b5f47ad698f7c781589a7f45f0"
+    }
+   ]
+  },
+  {
    "slug": "hg-313-2024",
    "path": "hg/2024/313",
    "short": "HG nr. 313/2024",
@@ -119779,6 +119923,21 @@
      "units": 3,
      "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/200671",
      "sha256": "744f6dee9bd5f863585a4f76ce17b3d2b84400b8048f4887cbad6da0303e7ed9"
+    }
+   ]
+  },
+  {
+   "slug": "hg-314-2023",
+   "path": "hg/2023/314",
+   "short": "HG nr. 314/2023",
+   "title": "Hotărârea Guvernului nr. 314/2023 pentru actualizarea valorii de inventar a unor imobile aflate în domeniul public al statului şi în administrarea unor structuri din Ministerul Afacerilor Interne, ca urmare a reevaluării şi schimbării unităţii de administrare pentru o parte din imobilul cu nr. MF 102770 de la UM 0514 Mizil la Inspectoratul pentru Situaţii de Urgenţă \"Şerban Cantacuzino\" al Judeţului Prahova, precum şi pentru actualizarea anexei nr. 1 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/266779",
+   "versions": [
+    {
+     "from": "2023-04-12",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/266779",
+     "sha256": "0e983e6cbeb78218e33cdef0c31841b17a9c9910064a1cd23f2e331864f91034"
     }
    ]
   },
@@ -119861,6 +120020,21 @@
    ]
   },
   {
+   "slug": "hg-315-2023",
+   "path": "hg/2023/315",
+   "short": "HG nr. 315/2023",
+   "title": "Hotărârea Guvernului nr. 315/2023 privind actualizarea valorii de inventar a unui imobil aflat în domeniul public al statului şi în administrarea Ministerului Afacerilor Interne - Inspectoratul de Jandarmi Judeţean Vâlcea (UM 0460 Râmnicu Vâlcea)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/266742",
+   "versions": [
+    {
+     "from": "2023-04-11",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/266742",
+     "sha256": "554d8b9e4d5123f2e91ca746810019a4d174cb95ff9f6af073b5cb3a746e19fc"
+    }
+   ]
+  },
+  {
    "slug": "hg-316-2023",
    "path": "hg/2023/316",
    "short": "HG nr. 316/2023",
@@ -119906,6 +120080,21 @@
    ]
   },
   {
+   "slug": "hg-317-2023",
+   "path": "hg/2023/317",
+   "short": "HG nr. 317/2023",
+   "title": "Hotărârea Guvernului nr. 317/2023 privind actualizarea descrierii tehnice şi a valorii de inventar, în urma reevaluării, ale unui imobil aflat în domeniul public al statului şi în administrarea Academiei Oamenilor de Ştiinţă din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/266743",
+   "versions": [
+    {
+     "from": "2023-04-11",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/266743",
+     "sha256": "336157c339a22386192ed8970611eba675bf5f53b3e4caa7d1aaeb4a0fc3d3dd"
+    }
+   ]
+  },
+  {
    "slug": "hg-317-2024",
    "path": "hg/2024/317",
    "short": "HG nr. 317/2024",
@@ -119936,6 +120125,21 @@
    ]
   },
   {
+   "slug": "hg-318-2023",
+   "path": "hg/2023/318",
+   "short": "HG nr. 318/2023",
+   "title": "Hotărârea Guvernului nr. 318/2023 privind aprobarea unor modificări în inventarul centralizat al bunurilor din domeniul public al statului aflate în administrarea Ministerului Apărării Naţionale, situate în judeţele Brăila, Tulcea, Constanţa, Arad şi municipiul Bucureşti, şi modificarea anexei nr. 4 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/266766",
+   "versions": [
+    {
+     "from": "2023-04-11",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/266766",
+     "sha256": "e1b8b4c5a414ad989dd6b6871a417deb9859756e3f5d221d9a007211f080f5fd"
+    }
+   ]
+  },
+  {
    "slug": "hg-318-2024",
    "path": "hg/2024/318",
    "short": "HG nr. 318/2024",
@@ -119962,6 +120166,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/296407",
      "sha256": "ed7af68e3eec84b3742e53de74718905bb668be52f8ee462410a5ef993695dbd"
+    }
+   ]
+  },
+  {
+   "slug": "hg-319-2023",
+   "path": "hg/2023/319",
+   "short": "HG nr. 319/2023",
+   "title": "Hotărârea Guvernului nr. 319/2023 privind înscrierea imobilului 739 situat în municipiul Craiova, judeţul Dolj, în inventarul centralizat al bunurilor din domeniul public al statului, darea acestuia în administrarea Ministerului Apărării Naţionale şi modificarea anexei nr. 4 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/266765",
+   "versions": [
+    {
+     "from": "2023-04-11",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/266765",
+     "sha256": "60980361c9997fdf20b5353f95ec71a8b4293fa669f0cdcf7effdc48662ddce9"
     }
    ]
   },
@@ -120137,6 +120356,21 @@
    ]
   },
   {
+   "slug": "hg-322-2023",
+   "path": "hg/2023/322",
+   "short": "HG nr. 322/2023",
+   "title": "Hotărârea Guvernului nr. 322/2023 privind înscrierea unui bun imobil în inventarul centralizat al bunurilor din domeniul public al statului şi darea acestuia în administrarea Muzeului Naţional de Istorie a României din Bucureşti",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/266780",
+   "versions": [
+    {
+     "from": "2023-04-12",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/266780",
+     "sha256": "2cc3d6c4a3845f3c6825a4836f389fb460f7bb49206467f5f7b594d741e4a663"
+    }
+   ]
+  },
+  {
    "slug": "hg-322-2024",
    "path": "hg/2024/322",
    "short": "HG nr. 322/2024",
@@ -120163,6 +120397,21 @@
      "units": 19,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/118275",
      "sha256": "34f67f45da8875b053c13ce14bb3fd6b85b78bde1c5e0fadbfd9f579cef2873b"
+    }
+   ]
+  },
+  {
+   "slug": "hg-323-2023",
+   "path": "hg/2023/323",
+   "short": "HG nr. 323/2023",
+   "title": "Hotărârea Guvernului nr. 323/2023 privind actualizarea valorii de inventar a bunurilor imobile aflate în domeniul public al statului şi în administrarea Autorităţii Naţionale pentru Administrare şi Reglementare în Comunicaţii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/266781",
+   "versions": [
+    {
+     "from": "2023-04-12",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/266781",
+     "sha256": "17fa49cc7afc0027fd4dc10184e80c5d007db98fec5c0f685fa0d04805ac0e42"
     }
    ]
   },

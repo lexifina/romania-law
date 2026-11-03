@@ -1,6 +1,6 @@
 # Every act in this repository
 
-9055 acts, 22,201 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+9070 acts, 22,220 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -2136,7 +2136,7 @@
 | Legea nr. 190/2026 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 81/2021 privind aprobarea metodelor de intervenţie imediată pentru prevenirea şi combaterea atacurilor exemplarelor de urs brun asupra persoanelor şi bunurilor acestora, precum şi pentru modificarea şi completarea unor acte normative | [`lege/2026/190/`](lege/2026/190/) | amending act | 1 | 2026-10-08 | 2026-10-08 |
 | Legea nr. 205/2026 pentru completarea Ordonanţei Guvernului nr. 22/2002 privind executarea obligaţiilor de plată ale instituţiilor publice, stabilite prin titluri executorii | [`lege/2026/205/`](lege/2026/205/) | amending act | 1 | 2026-11-02 | 2026-11-02 |
 
-## Emergency ordinances (OUG) (1529, of which 533 amending acts)
+## Emergency ordinances (OUG) (1530, of which 534 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -2665,6 +2665,7 @@
 | Ordonanța de urgență a Guvernului nr. 23/2010 | [`oug/2010/23/`](oug/2010/23/) | in force | 3 | 2010-03-30 | 2019-12-16 |
 | Ordonanța de urgență a Guvernului nr. 24/2010 | [`oug/2010/24/`](oug/2010/24/) | in force | 7 | 2010-03-31 | 2017-08-25 |
 | Ordonanța de urgență a Guvernului nr. 25/2010 | [`oug/2010/25/`](oug/2010/25/) | in force | 2 | 2010-04-02 | 2013-11-07 |
+| Ordonanța de urgență a Guvernului nr. 26/2010 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 99/2006 privind instituțiile de credit și adecvarea capitalului și a altor acte normative | [`oug/2010/26/`](oug/2010/26/) | amending act | 3 | 2010-04-01 | 2010-12-13 |
 | Ordonanța de urgență a Guvernului nr. 29/2010 | [`oug/2010/29/`](oug/2010/29/) | in force | 2 | 2010-04-13 | 2010-07-22 |
 | Ordonanța de urgență a Guvernului nr. 30/2010 | [`oug/2010/30/`](oug/2010/30/) | in force | 2 | 2010-04-16 | 2010-10-21 |
 | Ordonanța de urgență a Guvernului nr. 34/2010 | [`oug/2010/34/`](oug/2010/34/) | in force | 2 | 2010-04-13 | 2010-07-24 |
@@ -3670,7 +3671,7 @@
 | Ordonanța de urgență a Guvernului nr. 30/2026 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 23/2004 privind stabilirea unor măsuri de reorganizare a Autorităţii pentru Valorificarea Activelor Bancare prin comasarea prin absorbţie cu Autoritatea pentru Privatizare şi Administrarea Participaţiilor Statului | [`oug/2026/30/`](oug/2026/30/) | amending act | 1 | 2026-04-21 | 2026-04-21 |
 | Ordonanța de urgență a Guvernului nr. 33/2026 pentru modificarea şi completarea Legii educaţiei fizice şi sportului nr. 69/2000 | [`oug/2026/33/`](oug/2026/33/) | amending act | 1 | 2026-04-27 | 2026-04-27 |
 
-## Ordinances (OG) (470, of which 92 amending acts)
+## Ordinances (OG) (471, of which 92 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -3711,6 +3712,7 @@
 | Ordonanța Guvernului nr. 8/1998 | [`og/1998/8/`](og/1998/8/) | in force | 5 | 1998-02-01 | 2003-03-24 |
 | Ordonanța Guvernului nr. 9/1998 | [`og/1998/9/`](og/1998/9/) | in force | 4 | 1998-01-30 | 1998-11-23 |
 | Ordonanța Guvernului nr. 11/1998 | [`og/1998/11/`](og/1998/11/) | in force | 2 | 1998-01-30 | 1998-06-09 |
+| Ordonanța Guvernului nr. 12/1998 | [`og/1998/12/`](og/1998/12/) | in force | 3 | 1998-03-31 | 2005-01-01 |
 | Ordonanța Guvernului nr. 15/1998 | [`og/1998/15/`](og/1998/15/) | in force | 9 | 1998-01-30 | 2017-07-01 |
 | Ordonanța Guvernului nr. 16/1998 | [`og/1998/16/`](og/1998/16/) | in force | 2 | 1998-03-01 | 2003-03-21 |
 | Ordonanța Guvernului nr. 32/1998 | [`og/1998/32/`](og/1998/32/) | in force | 14 | 1998-03-01 | 2019-03-01 |
@@ -4145,7 +4147,7 @@
 | Ordonanța Guvernului nr. 21/2025 pentru modificarea și completarea Legii nr. 431/2023 privind asigurarea unui nivel minim global de impozitare a grupurilor de întreprinderi multinaționale și a grupurilor naționale de mari dimensiuni | [`og/2025/21/`](og/2025/21/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 | Ordonanța Guvernului nr. 22/2025 pentru modificarea și completarea Legii nr. 227/2015 privind Codul fiscal | [`og/2025/22/`](og/2025/22/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 
-## Government decisions (HG) (4918, of which 1911 amending acts)
+## Government decisions (HG) (4931, of which 1917 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -6683,9 +6685,22 @@
 | Hotărârea Guvernului nr. 290/2023 privind aprobarea modelului steagului comunei Lereşti, judeţul Argeş | [`hg/2023/290/`](hg/2023/290/) | amending act | 1 | 2023-04-13 | 2023-04-13 |
 | Hotărârea Guvernului nr. 298/2023 privind stabilirea tarifelor de primă maxime și a altor măsuri aplicabile de către societățile de asigurare care practică asigurarea obligatorie de răspundere civilă auto pentru prejudicii produse terților prin accidente de vehicule și de tramvaie | [`hg/2023/298/`](hg/2023/298/) | in force | 2 | 2023-04-11 | 2023-04-16 |
 | Hotărârea Guvernului nr. 302/2023 pentru modificarea Normelor metodologice privind detașarea salariaților în cadrul prestării de servicii transnaționale pe teritoriul României, aprobate prin Hotărârea Guvernului nr. 337/2017 | [`hg/2023/302/`](hg/2023/302/) | amending act | 1 | 2023-04-06 | 2023-04-06 |
+| Hotărârea Guvernului nr. 305/2023 pentru modificarea pct. IV lit. c) din anexa la Hotărârea Guvernului nr. 632/2022 privind aprobarea cifrelor de şcolarizare pentru învăţământul preuniversitar de stat şi pentru învăţământul superior de stat în anul şcolar/universitar 2022-2023 | [`hg/2023/305/`](hg/2023/305/) | amending act | 1 | 2023-04-07 | 2023-04-07 |
+| Hotărârea Guvernului nr. 306/2023 privind acceptarea de către statul român a donaţiei unor bunuri mobile, ca operaţiune compensatorie, din partea Harris Global Communications Inc şi darea în administrarea Ministerului Apărării Naţionale a acestor bunuri | [`hg/2023/306/`](hg/2023/306/) | in force | 1 | 2023-04-07 | 2023-04-07 |
+| Hotărârea Guvernului nr. 309/2023 privind organizarea şi funcţionarea Autorităţii de Siguranţă Feroviară Române - ASFR | [`hg/2023/309/`](hg/2023/309/) | in force | 1 | 2023-04-10 | 2023-04-10 |
+| Hotărârea Guvernului nr. 311/2023 privind actualizarea descrierii tehnice, vecinătăţilor şi valorii de inventar ale unui bun imobil aparţinând domeniului public al statului, aflat în administrarea Ministerului Mediului, Apelor şi Pădurilor - Administraţia Naţională de Meteorologie, ca urmare a lucrărilor de cadastru şi publicitate imobiliară şi evaluării, precum şi divizarea unui bun imobil aflat în domeniul public al statului şi în administrarea Ministerului Mediului, Apelor şi Pădurilor - Administraţia Naţională de Meteorologie | [`hg/2023/311/`](hg/2023/311/) | in force | 1 | 2023-04-11 | 2023-04-11 |
+| Hotărârea Guvernului nr. 312/2023 privind aprobarea închirierii unui bun imobil, proprietate publică a statului, aflat în administrarea Universităţii din Oradea, instituţie aflată în coordonarea Ministerului Educaţiei | [`hg/2023/312/`](hg/2023/312/) | amending act | 1 | 2023-04-12 | 2023-04-12 |
+| Hotărârea Guvernului nr. 313/2023 pentru actualizarea valorii de inventar şi a datelor de identificare ale imobilelor cu nr. MF 106134, 115082 şi 152341 aflate în domeniul public al statului şi în administrarea Instituţiei Prefectului - Judeţul Dolj din subordinea Ministerului Afacerilor Interne şi transmiterea unei părţi din imobilul cu nr. MF 152341 în domeniul public al municipiului Craiova, judeţul Dolj, precum şi pentru actualizarea anexei nr. 1 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului | [`hg/2023/313/`](hg/2023/313/) | amending act | 1 | 2023-04-12 | 2023-04-12 |
+| Hotărârea Guvernului nr. 314/2023 pentru actualizarea valorii de inventar a unor imobile aflate în domeniul public al statului şi în administrarea unor structuri din Ministerul Afacerilor Interne, ca urmare a reevaluării şi schimbării unităţii de administrare pentru o parte din imobilul cu nr. MF 102770 de la UM 0514 Mizil la Inspectoratul pentru Situaţii de Urgenţă "Şerban Cantacuzino" al Judeţului Prahova, precum şi pentru actualizarea anexei nr. 1 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului | [`hg/2023/314/`](hg/2023/314/) | amending act | 1 | 2023-04-12 | 2023-04-12 |
+| Hotărârea Guvernului nr. 315/2023 privind actualizarea valorii de inventar a unui imobil aflat în domeniul public al statului şi în administrarea Ministerului Afacerilor Interne - Inspectoratul de Jandarmi Judeţean Vâlcea (UM 0460 Râmnicu Vâlcea) | [`hg/2023/315/`](hg/2023/315/) | in force | 1 | 2023-04-11 | 2023-04-11 |
 | Hotărârea Guvernului nr. 316/2023 privind actualizarea descrierii tehnice a unui bun imobil aflat în domeniul public al statului şi în administrarea Staţiunii de Cercetare-Dezvoltare Agricolă Livada, precum şi trecerea unor bunuri imobile aflate în administrarea Staţiunii de Cercetare-Dezvoltare Agricolă Livada din domeniul public al statului în domeniul privat al acestuia, în vederea scoaterii din funcţiune, valorificării şi casării, după caz | [`hg/2023/316/`](hg/2023/316/) | in force | 1 | 2023-04-12 | 2023-04-12 |
+| Hotărârea Guvernului nr. 317/2023 privind actualizarea descrierii tehnice şi a valorii de inventar, în urma reevaluării, ale unui imobil aflat în domeniul public al statului şi în administrarea Academiei Oamenilor de Ştiinţă din România | [`hg/2023/317/`](hg/2023/317/) | in force | 1 | 2023-04-11 | 2023-04-11 |
+| Hotărârea Guvernului nr. 318/2023 privind aprobarea unor modificări în inventarul centralizat al bunurilor din domeniul public al statului aflate în administrarea Ministerului Apărării Naţionale, situate în judeţele Brăila, Tulcea, Constanţa, Arad şi municipiul Bucureşti, şi modificarea anexei nr. 4 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului | [`hg/2023/318/`](hg/2023/318/) | amending act | 1 | 2023-04-11 | 2023-04-11 |
+| Hotărârea Guvernului nr. 319/2023 privind înscrierea imobilului 739 situat în municipiul Craiova, judeţul Dolj, în inventarul centralizat al bunurilor din domeniul public al statului, darea acestuia în administrarea Ministerului Apărării Naţionale şi modificarea anexei nr. 4 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului | [`hg/2023/319/`](hg/2023/319/) | amending act | 1 | 2023-04-11 | 2023-04-11 |
 | Hotărârea Guvernului nr. 320/2023 privind aprobarea stemei comunei Tomeşti, judeţul Harghita | [`hg/2023/320/`](hg/2023/320/) | amending act | 1 | 2023-04-13 | 2023-04-13 |
 | Hotărârea Guvernului nr. 321/2023 privind aprobarea modelului de steag al comunei Ciceu, judeţul Harghita | [`hg/2023/321/`](hg/2023/321/) | amending act | 1 | 2023-04-13 | 2023-04-13 |
+| Hotărârea Guvernului nr. 322/2023 privind înscrierea unui bun imobil în inventarul centralizat al bunurilor din domeniul public al statului şi darea acestuia în administrarea Muzeului Naţional de Istorie a României din Bucureşti | [`hg/2023/322/`](hg/2023/322/) | in force | 1 | 2023-04-12 | 2023-04-12 |
+| Hotărârea Guvernului nr. 323/2023 privind actualizarea valorii de inventar a bunurilor imobile aflate în domeniul public al statului şi în administrarea Autorităţii Naţionale pentru Administrare şi Reglementare în Comunicaţii | [`hg/2023/323/`](hg/2023/323/) | in force | 1 | 2023-04-12 | 2023-04-12 |
 | Hotărârea Guvernului nr. 328/2023 pentru modificarea Hotărârii Guvernului nr. 311/2022 privind intensitatea maximă a ajutorului de stat regional în perioada 2022-2027 pentru investiții inițiale | [`hg/2023/328/`](hg/2023/328/) | amending act | 1 | 2023-04-13 | 2023-04-13 |
 | Hotărârea Guvernului nr. 330/2023 privind aprobarea bugetului de venituri şi cheltuieli pe anul 2023 pentru Societatea IOR - S.A., aflată sub autoritatea Ministerului Economiei | [`hg/2023/330/`](hg/2023/330/) | amending act | 1 | 2023-04-13 | 2023-04-13 |
 | Hotărârea Guvernului nr. 331/2023 privind modificarea și completarea anexei la Hotărârea Guvernului nr. 720/2008 pentru aprobarea Listei cuprinzând denumirile comune internaționale corespunzătoare medicamentelor de care beneficiază asigurații, cu sau fără contribuție personală, pe bază de prescripție medicală, în sistemul de asigurări sociale de sănătate, precum și denumirile comune internaționale corespunzătoare medicamentelor care se acordă în cadrul programelor naționale de sănătate | [`hg/2023/331/`](hg/2023/331/) | amending act | 1 | 2023-05-01 | 2023-05-01 |
