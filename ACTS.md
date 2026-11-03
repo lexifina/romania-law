@@ -1,6 +1,6 @@
 # Every act in this repository
 
-8926 acts, 22,042 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+8927 acts, 22,045 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -32,7 +32,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (2081, of which 847 amending acts)
+## Laws (legi) (2082, of which 847 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -437,6 +437,7 @@
 | Legea nr. 290/2003 | [`lege/2003/290/`](lege/2003/290/) | in force | 9 | 2003-08-13 | 2023-07-03 |
 | Legea nr. 311/2003 muzeelor și a colecțiilor publice | [`lege/2003/311/`](lege/2003/311/) | in force | 1 | 2014-03-24 | 2014-03-24 |
 | Legea nr. 319/2003 | [`lege/2003/319/`](lege/2003/319/) | in force | 2 | 2003-07-23 | 2018-03-23 |
+| Legea nr. 326/2003 | [`lege/2003/326/`](lege/2003/326/) | in force | 3 | 2004-01-01 | 2013-10-03 |
 | Legea nr. 329/2003 privind exercitarea profesiei de detectiv particular*) | [`lege/2003/329/`](lege/2003/329/) | in force | 1 | 2014-03-12 | 2014-03-12 |
 | Legea nr. 333/2003 | [`lege/2003/333/`](lege/2003/333/) | in force | 9 | 2003-10-20 | 2022-09-03 |
 | Legea nr. 348/2003 | [`lege/2003/348/`](lege/2003/348/) | in force | 7 | 2003-10-26 | 2018-01-21 |
