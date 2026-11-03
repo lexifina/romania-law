@@ -10187,6 +10187,57 @@
    ]
   },
   {
+   "slug": "hg-1093-2006",
+   "path": "hg/2006/1093",
+   "short": "HG nr. 1093/2006",
+   "title": "Hotărârea Guvernului nr. 1093/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/74889",
+   "versions": [
+    {
+     "from": "2006-10-01",
+     "units": 39,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/74889",
+     "sha256": "b5dee6698d36f5f74416a46d7ff6d54a90cc096a169bbf6ce388adac6703287f"
+    },
+    {
+     "from": "2012-01-19",
+     "units": 39,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168645",
+     "sha256": "4e0ea8f3c70ba2c3f02a62b9fc802bea09436636d299f12d8796297f6475ff6b"
+    },
+    {
+     "from": "2015-06-01",
+     "units": 39,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168646",
+     "sha256": "1c21328b9b2dff9f681314c084ceefae209df5846fc04d39390c03ef5749f9cc"
+    },
+    {
+     "from": "2020-03-04",
+     "units": 39,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/222985",
+     "sha256": "1074f78ec2a5b67bcb56c203481a4c186d640c47e1dbb3b539cefe0db76007c8"
+    },
+    {
+     "from": "2021-03-02",
+     "units": 39,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/237823",
+     "sha256": "edaed1d741027b0f862abb2a5f6c3aca77c0922204adc33600215adf343bfe08"
+    },
+    {
+     "from": "2021-05-11",
+     "units": 38,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/74889",
+     "sha256": "fa847115d031170da025de5e1d390f3c4c5eca99c80034bbcce0697a0bc738fa"
+    },
+    {
+     "from": "2024-03-11",
+     "units": 38,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/279281",
+     "sha256": "4fa6e1695eb1460cd1b33a38536a3de347a72f1fba9a0746a1ed1157075d3668"
+    }
+   ]
+  },
+  {
    "slug": "hg-1093-2021",
    "path": "hg/2021/1093",
    "short": "HG nr. 1093/2021",
@@ -10228,6 +10279,93 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/247681",
      "sha256": "008014914b80dcfad2729c6093da82daeeb1d53ab95bb7a4d10e90545d59888a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1096-2013",
+   "path": "hg/2013/1096",
+   "short": "HG nr. 1096/2013",
+   "title": "Hotărârea Guvernului nr. 1096/2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/298650",
+   "versions": [
+    {
+     "from": "2014-01-16",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/154574",
+     "sha256": "e8c450cf3880cc89e81ec7b7e200d64db97502542dab443dbb3a901365a3cc67"
+    },
+    {
+     "from": "2014-02-06",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/155435",
+     "sha256": "d54f1f279207ffdcdaeae20c63a55008f16e691e2972f6bcf462ffac09dba014"
+    },
+    {
+     "from": "2015-03-12",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166566",
+     "sha256": "1b36a05058e2a890a4820ffde9365cf3d93e8dc6ed97233f7a730405272c281e"
+    },
+    {
+     "from": "2015-06-30",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/169365",
+     "sha256": "e1c424234d8aabc9ef444a9d3978f14ab3339a64d64839915041c95b46388b66"
+    },
+    {
+     "from": "2015-10-01",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171781",
+     "sha256": "e709e736d78fdf20cdbd1c9141dcc25895d38c0e078fb271c2645c713617ec0b"
+    },
+    {
+     "from": "2016-08-08",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180782",
+     "sha256": "6fe06bfcfa05fd74fe0eae441a52a9c631699c3ebdda7adac4af7ed564b631d4"
+    },
+    {
+     "from": "2020-05-13",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/225223",
+     "sha256": "fbcef17c0485bd97c60a163c951e04c95285519d643c83810b756ec0248b18e7"
+    },
+    {
+     "from": "2020-12-14",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/234567",
+     "sha256": "1b8a63c99e2e2e181f3fa7087e8c165ba46c0455dd7647741b75d1652ec68592"
+    },
+    {
+     "from": "2021-06-28",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/243468",
+     "sha256": "d36ce91c173b1e41f8bc67d1cbed6737b7b1e4089f40e4fba1aaf9bf9c2dcab2"
+    },
+    {
+     "from": "2022-06-29",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/256302",
+     "sha256": "a53b8433593a4256e727ea23391bacf2463752dbede77e6686b0b8122b007a7b"
+    },
+    {
+     "from": "2023-11-21",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/269329",
+     "sha256": "a5f2bb7102acfd84c3d2165323e7dac337e53ff6e7dbd593f665a65eb871bd99"
+    },
+    {
+     "from": "2024-11-25",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/290785",
+     "sha256": "1890c470e401851a1f33fa68a832cc7e7ed24c14aff555b1ea87818c7559d1ea"
+    },
+    {
+     "from": "2025-06-19",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/298650",
+     "sha256": "5cec43381a3fb9c76b90a06884459b2a3acbe5ac1b68f5f4a9c79d998b3c6918"
     }
    ]
   },

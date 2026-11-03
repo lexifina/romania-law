@@ -1,6 +1,6 @@
 # Every act in this repository
 
-6613 acts, 19,191 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+6615 acts, 19,211 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -3783,7 +3783,7 @@
 | Ordonanța Guvernului nr. 21/2025 pentru modificarea și completarea Legii nr. 431/2023 privind asigurarea unui nivel minim global de impozitare a grupurilor de întreprinderi multinaționale și a grupurilor naționale de mari dimensiuni | [`og/2025/21/`](og/2025/21/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 | Ordonanța Guvernului nr. 22/2025 pentru modificarea și completarea Legii nr. 227/2015 privind Codul fiscal | [`og/2025/22/`](og/2025/22/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 
-## Government decisions (HG) (2838, of which 932 amending acts)
+## Government decisions (HG) (2840, of which 932 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -4422,6 +4422,7 @@
 | Hotărârea Guvernului nr. 1089/2006 | [`hg/2006/1089/`](hg/2006/1089/) | in force | 6 | 2006-08-25 | 2024-06-29 |
 | Hotărârea Guvernului nr. 1091/2006 | [`hg/2006/1091/`](hg/2006/1091/) | in force | 1 | 2006-10-01 | 2006-10-01 |
 | Hotărârea Guvernului nr. 1092/2006 privind protecția lucrătorilor împotriva riscurilor legate de expunerea la agenți biologici în munca | [`hg/2006/1092/`](hg/2006/1092/) | in force | 2 | 2006-10-01 | 2020-12-28 |
+| Hotărârea Guvernului nr. 1093/2006 | [`hg/2006/1093/`](hg/2006/1093/) | in force | 7 | 2006-10-01 | 2024-03-11 |
 | Hotărârea Guvernului nr. 1135/2006 privind cerințele minime de securitate și sănătate în munca la bordul navelor de pescuit | [`hg/2006/1135/`](hg/2006/1135/) | in force | 1 | 2006-10-01 | 2006-10-01 |
 | Hotărârea Guvernului nr. 1136/2006 | [`hg/2006/1136/`](hg/2006/1136/) | in force | 1 | 2006-10-01 | 2006-10-01 |
 | Hotărârea Guvernului nr. 1217/2006 privind constituirea mecanismului național pentru promovarea incluziunii sociale în România | [`hg/2006/1217/`](hg/2006/1217/) | in force | 2 | 2006-09-26 | 2021-06-03 |
@@ -5084,6 +5085,7 @@
 | Hotărârea Guvernului nr. 1072/2013 | [`hg/2013/1072/`](hg/2013/1072/) | in force | 1 | 2013-12-23 | 2013-12-23 |
 | Hotărârea Guvernului nr. 1086/2013 pentru aprobarea Normelor generale privind exercitarea activității de audit public intern | [`hg/2013/1086/`](hg/2013/1086/) | amending act | 1 | 2014-01-10 | 2014-01-10 |
 | Hotărârea Guvernului nr. 1087/2013 | [`hg/2013/1087/`](hg/2013/1087/) | in force | 1 | 2014-01-06 | 2014-01-06 |
+| Hotărârea Guvernului nr. 1096/2013 | [`hg/2013/1096/`](hg/2013/1096/) | in force | 13 | 2014-01-16 | 2025-06-19 |
 | Hotărârea Guvernului nr. 1156/2013 | [`hg/2013/1156/`](hg/2013/1156/) | in force | 3 | 2014-01-17 | 2024-12-21 |
 | Hotărârea Guvernului nr. 6/2014 privind înființarea, organizarea și funcționarea Comitetului Tehnic de Securitate Aeronautică | [`hg/2014/6/`](hg/2014/6/) | in force | 2 | 2014-01-13 | 2015-08-25 |
 | Hotărârea Guvernului nr. 19/2014 | [`hg/2014/19/`](hg/2014/19/) | in force | 1 | 2014-02-19 | 2014-02-19 |

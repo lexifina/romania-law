@@ -74326,6 +74326,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/74917"
 },
 {
+"slug": "hg-1093-2006",
+"path": "hg/2006/1093",
+"kind": "hg",
+"year": "2006",
+"number": "1093",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 1093/2006",
+"short": "HG nr. 1093/2006",
+"code": null,
+"status": "in force",
+"versions": 7,
+"from": "2006-10-01",
+"latest": "2024-03-11",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/74889"
+},
+{
 "slug": "hg-1135-2006",
 "path": "hg/2006/1135",
 "kind": "hg",
@@ -85578,6 +85595,23 @@
 "from": "2014-01-06",
 "latest": "2014-01-06",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/154271"
+},
+{
+"slug": "hg-1096-2013",
+"path": "hg/2013/1096",
+"kind": "hg",
+"year": "2013",
+"number": "1096",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 1096/2013",
+"short": "HG nr. 1096/2013",
+"code": null,
+"status": "in force",
+"versions": 13,
+"from": "2014-01-16",
+"latest": "2025-06-19",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/298650"
 },
 {
 "slug": "hg-1156-2013",
