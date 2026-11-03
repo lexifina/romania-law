@@ -25846,3 +25846,12 @@ day,kind,law,acts,files,branch
 2026-10-15,start,hg-822-2026,hg-822-2026,1,main
 2026-11-02,start,hg-951-2026,hg-951-2026,1,main
 2026-11-02,start,legea-205-2026,legea-205-2026,1,main
+2002-08-18,start,legea-244-2002,legea-244-2002,68,main
+2007-05-11,law,legea-83-2007,legea-244-2002,51,main
+2007-09-14,law,legea-83-2007,legea-244-2002,65,main
+2009-11-12,law,legea-329-2009,legea-244-2002,15,main
+2009-11-12,unexplained,,legea-244-2002,12,main
+2010-05-13,law,oug-43-2010,legea-244-2002,3,main
+2010-05-13,unexplained,,legea-244-2002,25,main
+2014-02-01,law,legea-187-2012,legea-244-2002,2,main
+2023-11-16,start,hg-1104-2023,hg-1104-2023,1,main

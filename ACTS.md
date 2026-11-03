@@ -1,6 +1,6 @@
 # Every act in this repository
 
-8509 acts, 21,437 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+8511 acts, 21,444 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -32,7 +32,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (2012, of which 806 amending acts)
+## Laws (legi) (2013, of which 806 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -350,6 +350,7 @@
 | Legea nr. 218/2002 privind organizarea și funcționarea Poliției Române | [`lege/2002/218/`](lege/2002/218/) | in force | 15 | 2002-05-09 | 2022-08-25 |
 | Legea nr. 227/2002 | [`lege/2002/227/`](lege/2002/227/) | in force | 1 | 2002-04-29 | 2002-04-29 |
 | Legea nr. 233/2002 pentru aprobarea Ordonanței Guvernului nr. 27/2002 privind reglementarea activității de soluționare a petițiilor | [`lege/2002/233/`](lege/2002/233/) | amending act | 2 | 2002-04-30 | 2002-08-20 |
+| Legea nr. 244/2002 | [`lege/2002/244/`](lege/2002/244/) | in force | 6 | 2002-08-18 | 2014-02-01 |
 | Legea nr. 266/2002 | [`lege/2002/266/`](lege/2002/266/) | in force | 6 | 2002-05-23 | 2021-07-12 |
 | Legea nr. 289/2002 | [`lege/2002/289/`](lege/2002/289/) | in force | 11 | 2002-07-20 | 2022-09-03 |
 | Legea nr. 290/2002 | [`lege/2002/290/`](lege/2002/290/) | in force | 12 | 2002-05-29 | 2009-04-02 |
@@ -4041,7 +4042,7 @@
 | Ordonanța Guvernului nr. 21/2025 pentru modificarea și completarea Legii nr. 431/2023 privind asigurarea unui nivel minim global de impozitare a grupurilor de întreprinderi multinaționale și a grupurilor naționale de mari dimensiuni | [`og/2025/21/`](og/2025/21/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 | Ordonanța Guvernului nr. 22/2025 pentru modificarea și completarea Legii nr. 227/2015 privind Codul fiscal | [`og/2025/22/`](og/2025/22/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 
-## Government decisions (HG) (4476, of which 1725 amending acts)
+## Government decisions (HG) (4477, of which 1725 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -6667,6 +6668,7 @@
 | Hotărârea Guvernului nr. 1096/2023 privind aprobarea stemei comunei Eremitu, judeţul Mureş | [`hg/2023/1096/`](hg/2023/1096/) | amending act | 1 | 2023-11-17 | 2023-11-17 |
 | Hotărârea Guvernului nr. 1097/2023 privind aprobarea stemei comunei Robeasca, judeţul Buzău | [`hg/2023/1097/`](hg/2023/1097/) | amending act | 1 | 2023-11-17 | 2023-11-17 |
 | Hotărârea Guvernului nr. 1098/2023 privind aprobarea modelului steagului comunei Suhaia, judeţul Teleorman | [`hg/2023/1098/`](hg/2023/1098/) | amending act | 1 | 2023-11-17 | 2023-11-17 |
+| Hotărârea Guvernului nr. 1104/2023 privind numirea domnului Preda Marian în funcţia de subprefect al municipiului Bucureşti | [`hg/2023/1104/`](hg/2023/1104/) | in force | 1 | 2023-11-16 | 2023-11-16 |
 | Hotărârea Guvernului nr. 1105/2023 privind aprobarea bugetului Trezoreriei Statului pe anul 2024 | [`hg/2023/1105/`](hg/2023/1105/) | amending act | 1 | 2023-11-16 | 2023-11-16 |
 | Hotărârea Guvernului nr. 1108/2023 privind alocarea unor sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2023, pentru suplimentarea bugetului Serviciului de Protecţie şi Pază pe anul 2023 | [`hg/2023/1108/`](hg/2023/1108/) | in force | 1 | 2023-11-16 | 2023-11-16 |
 | Hotărârea Guvernului nr. 1109/2023 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2023, pentru suplimentarea bugetului Ministerului Dezvoltării, Lucrărilor Publice şi Administraţiei | [`hg/2023/1109/`](hg/2023/1109/) | in force | 1 | 2023-11-16 | 2023-11-16 |

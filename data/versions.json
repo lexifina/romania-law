@@ -40550,6 +40550,51 @@
    ]
   },
   {
+   "slug": "legea-244-2002",
+   "path": "lege/2002/244",
+   "short": "Legea nr. 244/2002",
+   "title": "Legea nr. 244/2002",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/153437",
+   "versions": [
+    {
+     "from": "2002-08-18",
+     "units": 68,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/36076",
+     "sha256": "42e281530e721169c9d92f117c636f7251a2b6dfb0a9db994b4d7089bc2a2ba4"
+    },
+    {
+     "from": "2007-05-11",
+     "units": 59,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/119126",
+     "sha256": "f4fa9c585bafc567217e88937e872ea9b228923114f2621e5145f0480be1edc0"
+    },
+    {
+     "from": "2007-09-14",
+     "units": 58,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/85359",
+     "sha256": "5137ae178f2cee7d3e2f8e09f63e9b16d6d03e001c88292d6c2b51ed1851e540"
+    },
+    {
+     "from": "2009-11-12",
+     "units": 58,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/119122",
+     "sha256": "92c2b2da0678875b223451f6a8c27d14a50bf7c8bb373eb2fcae67aaf7f67e4c"
+    },
+    {
+     "from": "2010-05-13",
+     "units": 53,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/119123",
+     "sha256": "67745c141b27d0ada02b59933c91a2ffbcfd14515ccd717150810cdabaa16b1c"
+    },
+    {
+     "from": "2014-02-01",
+     "units": 53,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/153437",
+     "sha256": "45a7114d47cf5eaacecbb5b08d346fe9f5fe751a14a987a2515ed1cbf66241fe"
+    }
+   ]
+  },
+  {
    "slug": "legea-246-2007",
    "path": "lege/2007/246",
    "short": "Legea nr. 246/2007",
@@ -93316,6 +93361,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/288165",
      "sha256": "5ee19bacd3eb33d5ba9e975afca339720b39271920cf2548166dc5cae0d8c2b8"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1104-2023",
+   "path": "hg/2023/1104",
+   "short": "HG nr. 1104/2023",
+   "title": "Hotărârea Guvernului nr. 1104/2023 privind numirea domnului Preda Marian în funcţia de subprefect al municipiului Bucureşti",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/276393",
+   "versions": [
+    {
+     "from": "2023-11-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/276393",
+     "sha256": "58ceba4611364cc687870d53182909b9f1a67865f7f9f6ee7d0c439c6afb4931"
     }
    ]
   },

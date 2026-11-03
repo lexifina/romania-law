@@ -5357,6 +5357,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/35687"
 },
 {
+"slug": "legea-244-2002",
+"path": "lege/2002/244",
+"kind": "lege",
+"year": "2002",
+"number": "244",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 244/2002",
+"short": "Legea nr. 244/2002",
+"code": null,
+"status": "in force",
+"versions": 6,
+"from": "2002-08-18",
+"latest": "2014-02-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/153437"
+},
+{
 "slug": "legea-266-2002",
 "path": "lege/2002/266",
 "kind": "lege",
@@ -113050,6 +113067,23 @@
 "from": "2023-11-17",
 "latest": "2023-11-17",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/276424"
+},
+{
+"slug": "hg-1104-2023",
+"path": "hg/2023/1104",
+"kind": "hg",
+"year": "2023",
+"number": "1104",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 1104/2023 privind numirea domnului Preda Marian în funcţia de subprefect al municipiului Bucureşti",
+"short": "HG nr. 1104/2023",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2023-11-16",
+"latest": "2023-11-16",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/276393"
 },
 {
 "slug": "hg-1105-2023",
