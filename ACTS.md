@@ -1,6 +1,6 @@
 # Every act in this repository
 
-13285 acts, 26,871 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+13298 acts, 26,885 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (2518, of which 1207 amending acts)
+## Laws (legi) (2519, of which 1208 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -776,6 +776,7 @@
 | Legea nr. 100/2008 | [`lege/2008/100/`](lege/2008/100/) | in force | 1 | 2008-05-19 | 2008-05-19 |
 | Legea nr. 104/2008 | [`lege/2008/104/`](lege/2008/104/) | in force | 7 | 2008-05-19 | 2021-08-27 |
 | Legea nr. 109/2008 | [`lege/2008/109/`](lege/2008/109/) | in force | 1 | 2008-05-17 | 2008-05-17 |
+| Legea nr. 114/2008 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 142/2007 privind indemnizaţia acordată membrilor din România în Parlamentul European | [`lege/2008/114/`](lege/2008/114/) | amending act | 1 | 2008-05-24 | 2008-05-24 |
 | Legea nr. 123/2008 | [`lege/2008/123/`](lege/2008/123/) | in force | 1 | 2008-07-02 | 2008-07-02 |
 | Legea nr. 158/2008 | [`lege/2008/158/`](lege/2008/158/) | in force | 3 | 2008-07-27 | 2013-07-24 |
 | Legea nr. 173/2008 | [`lege/2008/173/`](lege/2008/173/) | in force | 4 | 2008-10-24 | 2014-10-23 |
@@ -4191,7 +4192,7 @@
 | Ordonanța de urgență a Guvernului nr. 33/2026 pentru modificarea şi completarea Legii educaţiei fizice şi sportului nr. 69/2000 | [`oug/2026/33/`](oug/2026/33/) | amending act | 1 | 2026-04-27 | 2026-04-27 |
 | Ordonanța de urgență a Guvernului nr. 37/2026 pentru modificarea şi completarea Legii nr. 333/2003 privind paza obiectivelor, bunurilor, valorilor şi protecţia persoanelor | [`oug/2026/37/`](oug/2026/37/) | amending act | 2 | 2026-05-06 | 2026-06-05 |
 
-## Ordinances (OG) (516, of which 102 amending acts)
+## Ordinances (OG) (517, of which 103 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -4459,6 +4460,7 @@
 | Ordonanța Guvernului nr. 36/2006 | [`og/2006/36/`](og/2006/36/) | in force | 9 | 2006-09-01 | 2022-11-17 |
 | Ordonanța Guvernului nr. 38/2006 | [`og/2006/38/`](og/2006/38/) | in force | 2 | 2006-08-17 | 2007-01-19 |
 | Ordonanța Guvernului nr. 40/2006 | [`og/2006/40/`](og/2006/40/) | in force | 8 | 2006-08-20 | 2021-09-03 |
+| Ordonanța Guvernului nr. 44/2006 privind modificarea Ordonanţei de urgenţă a Guvernului nr. 25/2006 pentru aprobarea nivelului sprijinului acordat producătorilor agricoli pentru achiziţionarea de motorină în vederea efectuării lucrărilor agricole mecanizate de înfiinţare şi întreţinere a unor culturi agricole ce se înfiinţează în primăvara anului 2006, precum şi pentru aprobarea suplimentării cu suma de 200 milioane lei (RON) a Programului "Dezvoltarea durabilă a sectorului vegetal, a sectorului zootehnic şi piscicol, precum şi alte programe pe care Ministerul Agriculturii, Pădurilor şi Dezvoltării Rurale trebuie să le pună în aplicare" | [`og/2006/44/`](og/2006/44/) | amending act | 2 | 2006-08-27 | 2007-01-19 |
 | Ordonanța Guvernului nr. 64/2006 | [`og/2006/64/`](og/2006/64/) | in force | 6 | 2007-01-01 | 2011-01-01 |
 | Ordonanța Guvernului nr. 1/2007 | [`og/2007/1/`](og/2007/1/) | repealed 2008-04-08 | 4 | 2007-01-20 | 2008-04-08 |
 | Ordonanța Guvernului nr. 3/2007 | [`og/2007/3/`](og/2007/3/) | in force | 6 | 2007-02-01 | 2010-07-03 |
@@ -4712,7 +4714,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (8582, of which 3864 amending acts)
+## Government decisions (HG) (8593, of which 3867 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -5789,6 +5791,7 @@
 | Hotărârea Guvernului nr. 453/2008 privind modificarea şi completarea Hotărârii Guvernului nr. 602/2006 pentru aprobarea Normelor metodologice de aplicare a Ordonanţei Guvernului nr. 7/2006 privind instituirea Programului de dezvoltare a infrastructurii din spaţiul rural, precum şi a Regulamentului de organizare şi funcţionare a Comisiei privind determinarea oportunităţii proiectelor | [`hg/2008/453/`](hg/2008/453/) | amending act | 1 | 2008-04-25 | 2008-04-25 |
 | Hotărârea Guvernului nr. 455/2008 privind trecerea unui teren aflat în domeniul public al statului din administrarea Ministerului Transporturilor - Compania Naţională "Administraţia Porturilor Maritime" - S.A. Constanţa în administrarea Ministerului Economiei şi Finanţelor - Agenţia Naţională de Administrare Fiscală - Autoritatea Naţională a Vămilor | [`hg/2008/455/`](hg/2008/455/) | in force | 1 | 2008-05-02 | 2008-05-02 |
 | Hotărârea Guvernului nr. 456/2008 pentru completarea anexelor nr. 1 şi 2 la Hotărârea Guvernului nr. 565/2007 privind înfiinţarea, organizarea şi funcţionarea Comitetului interministerial pentru implementarea Acordului dintre România şi Statele Unite ale Americii privind activităţile forţelor Statelor Unite staţionate pe teritoriul României, semnat la Bucureşti la 6 decembrie 2005, ratificat prin Legea nr. 268/2006 | [`hg/2008/456/`](hg/2008/456/) | amending act | 1 | 2008-05-05 | 2008-05-05 |
+| Hotărârea Guvernului nr. 458/2008 privind desemnarea administratorului Sistemului naţional unic pentru apeluri de urgenţă | [`hg/2008/458/`](hg/2008/458/) | in force | 1 | 2008-06-01 | 2008-06-01 |
 | Hotărârea Guvernului nr. 460/2008 privind numirea domnului Gy\'f6rke Zoltan în funcţia publică de subprefect al judeţului Cluj | [`hg/2008/460/`](hg/2008/460/) | in force | 1 | 2008-05-08 | 2008-05-08 |
 | Hotărârea Guvernului nr. 463/2008 privind încetarea exercitării funcţiei publice de subprefect al judeţului Ialomiţa de către domnul Dumitru Ion | [`hg/2008/463/`](hg/2008/463/) | in force | 1 | 2008-05-08 | 2008-05-08 |
 | Hotărârea Guvernului nr. 464/2008 privind acordarea unui ajutor umanitar de urgenţă pentru populaţia din judeţul Galaţi | [`hg/2008/464/`](hg/2008/464/) | in force | 1 | 2008-05-09 | 2008-05-09 |
@@ -5806,8 +5809,18 @@
 | Hotărârea Guvernului nr. 486/2008 pentru modificarea şi completarea Contractului-cadru privind condiţiile acordării asistenţei medicale în cadrul sistemului de asigurări sociale de sănătate pentru anul 2008, aprobat prin Hotărârea Guvernului nr. 324/2008 | [`hg/2008/486/`](hg/2008/486/) | amending act | 1 | 2008-05-16 | 2008-05-16 |
 | Hotărârea Guvernului nr. 487/2008 privind transmiterea obiectivului "Amenajarea râului Argeş pentru apărare împotriva inundaţiilor, irigaţii şi alte folosinţe", precum şi a unor bunuri proprietate publică a statului din administrarea Ministerului Mediului şi Dezvoltării Durabile - Administraţia Naţională "Apele Române" în administrarea Ministerului Transporturilor, prin Compania Naţională Administraţia Canalelor Navigabile - S.A. Constanţa, pentru realizarea unei căi navigabile de la Bucureşti la Dunăre | [`hg/2008/487/`](hg/2008/487/) | in force | 1 | 2008-05-19 | 2008-05-19 |
 | Hotărârea Guvernului nr. 489/2008 privind rechemarea unui consul general | [`hg/2008/489/`](hg/2008/489/) | in force | 1 | 2008-05-16 | 2008-05-16 |
+| Hotărârea Guvernului nr. 492/2008 pentru modificarea Hotărârii Guvernului nr. 871/2007 privind aprobarea activităţilor pentru care se acordă sprijin financiar în anul 2007 producătorilor agricoli din sectorul vegetal, a cuantumului sprijinului şi a sumei totale alocate fiecărei activităţi | [`hg/2008/492/`](hg/2008/492/) | amending act | 1 | 2008-05-20 | 2008-05-20 |
+| Hotărârea Guvernului nr. 494/2008 privind recunoaşterea Asociaţiei "Centrul Diecezan Caritas Iaşi" ca fiind de utilitate publică | [`hg/2008/494/`](hg/2008/494/) | in force | 1 | 2008-05-20 | 2008-05-20 |
+| Hotărârea Guvernului nr. 496/2008 privind modificarea anexei nr. 3 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului | [`hg/2008/496/`](hg/2008/496/) | amending act | 1 | 2008-05-20 | 2008-05-20 |
+| Hotărârea Guvernului nr. 498/2008 privind transmiterea unei suprafeţe de teren, aflată în domeniul public al statului, din administrarea Regiei Naţionale a Pădurilor - Romsilva în administrarea Ministerului Transporturilor în vederea realizării de către Compania Naţională de Autostrăzi şi Drumuri Naţionale din România - S.A. a obiectivului de investiţie "Pod peste fluviul Dunărea, la Calafat - Vidin" | [`hg/2008/498/`](hg/2008/498/) | in force | 1 | 2008-05-20 | 2008-05-20 |
 | Hotărârea Guvernului nr. 499/2008 privind transmiterea unui teren aparţinând domeniului public al statului din administrarea Ministerului Transporturilor şi din concesiunea Companiei Naţionale "Administraţia Porturilor Dunării Maritime" - S.A. Galaţi în administrarea Regiei Autonome "Administraţia Fluvială a Dunării de Jos" - Galaţi | [`hg/2008/499/`](hg/2008/499/) | in force | 1 | 2008-05-20 | 2008-05-20 |
+| Hotărârea Guvernului nr. 502/2008 privind transmiterea unor imobile din domeniul privat al statului, respectiv din domeniul public al statului, şi din administrarea Ministerului Internelor şi Reformei Administrative Inspectoratul Judeţean al Poliţiei de Frontieră Galaţi în domeniul public al unor unităţi administrativ-teritoriale şi în administrarea consiliilor locale respective | [`hg/2008/502/`](hg/2008/502/) | in force | 1 | 2008-05-20 | 2008-05-20 |
+| Hotărârea Guvernului nr. 504/2008 privind aprobarea sprijinului financiar din bugetul de stat pentru realizarea a două proiecte din cadrul programelor de cooperare transfrontalieră 2004 ale României | [`hg/2008/504/`](hg/2008/504/) | amending act | 1 | 2008-05-20 | 2008-05-20 |
 | Hotărârea Guvernului nr. 507/2008 | [`hg/2008/507/`](hg/2008/507/) | in force | 1 | 2008-05-21 | 2008-05-21 |
+| Hotărârea Guvernului nr. 517/2008 privind încetarea raportului de serviciu al prefectului judeţului Galaţi, domnul Capră Mihai, prin acordul părţilor | [`hg/2008/517/`](hg/2008/517/) | in force | 1 | 2008-05-21 | 2008-05-21 |
+| Hotărârea Guvernului nr. 518/2008 privind exercitarea, cu caracter temporar, a funcţiei publice de prefect al judeţului Galaţi de către domnul Panaitescu Gabriel-Aurelian | [`hg/2008/518/`](hg/2008/518/) | in force | 1 | 2008-05-21 | 2008-05-21 |
+| Hotărârea Guvernului nr. 519/2008 privind numirea domnului Mitea Ilie Dumitru Haralambie în funcţia publică de prefect al judeţului Sibiu | [`hg/2008/519/`](hg/2008/519/) | in force | 1 | 2008-05-21 | 2008-05-21 |
+| Hotărârea Guvernului nr. 520/2008 privind numirea domnului Ostropel Lilian în funcţia publică de subprefect al judeţului Călăraşi | [`hg/2008/520/`](hg/2008/520/) | in force | 1 | 2008-05-21 | 2008-05-21 |
 | Hotărârea Guvernului nr. 546/2008 | [`hg/2008/546/`](hg/2008/546/) | in force | 3 | 2008-06-01 | 2011-04-26 |
 | Hotărârea Guvernului nr. 548/2008 | [`hg/2008/548/`](hg/2008/548/) | in force | 1 | 2008-06-06 | 2008-06-06 |
 | Hotărârea Guvernului nr. 572/2008 | [`hg/2008/572/`](hg/2008/572/) | in force | 5 | 2008-06-11 | 2021-09-02 |
