@@ -22220,6 +22220,87 @@
    ]
   },
   {
+   "slug": "hg-780-2006",
+   "path": "hg/2006/780",
+   "short": "HG nr. 780/2006",
+   "title": "Hotărârea Guvernului nr. 780/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/72971",
+   "versions": [
+    {
+     "from": "2006-06-27",
+     "units": 27,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/72971",
+     "sha256": "a7da033441c0404812c7cb16b8c1c607e7b0f246b8b244cc0beed446b6330ab0"
+    },
+    {
+     "from": "2007-01-01",
+     "units": 32,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/72971",
+     "sha256": "a7da033441c0404812c7cb16b8c1c607e7b0f246b8b244cc0beed446b6330ab0"
+    },
+    {
+     "from": "2010-03-10",
+     "units": 33,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/117020",
+     "sha256": "f8ce8f0337ddcda80cc77c7dd9e208d2b0b62853e22cb538477d579a503108c2"
+    },
+    {
+     "from": "2010-04-30",
+     "units": 42,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/118568",
+     "sha256": "a789f0055661072aabbfeeda03b759e1df204e8f14411d3b546caff5f00c9870"
+    },
+    {
+     "from": "2010-12-28",
+     "units": 42,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/125486",
+     "sha256": "81cb212ab7943016a5cbdbcc36925ff4f00524a7c1f2cbf7192d7db8af2341c4"
+    },
+    {
+     "from": "2011-12-28",
+     "units": 42,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/147837",
+     "sha256": "f370e23b1f7b7a2580482a67932bedee0c8ee2ae031de8d611b9446df72973d3"
+    },
+    {
+     "from": "2013-04-30",
+     "units": 45,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/147838",
+     "sha256": "096fe2c67ab1cfc67c1d5dee418467e9c6abc15a7e55201e000a653d3c158f19"
+    },
+    {
+     "from": "2013-05-30",
+     "units": 45,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/147839",
+     "sha256": "10c125493a5e5d3a1dbb9d9177a10527004ea58b55748b4b7bda2cede9902f99"
+    },
+    {
+     "from": "2015-07-30",
+     "units": 46,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170261",
+     "sha256": "92a9925201250ebdcbadab35950045c45576d012e147b1ac1a6908c1a9a2ed24"
+    },
+    {
+     "from": "2016-12-29",
+     "units": 47,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/185229",
+     "sha256": "86b17e478063d3936413a2734bc36c202823c5805fbadd7499af07430b63f72d"
+    },
+    {
+     "from": "2020-05-26",
+     "units": 49,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/225755",
+     "sha256": "617ee33cee40c44a956d1941e5aba12c613b46a62c91fc9e70993cfbbdab0ecb"
+    },
+    {
+     "from": "2025-10-28",
+     "units": 49,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/303097",
+     "sha256": "cd4ac322da911153fecb22b344eda36ab293db9c6ebd65bfff47dbb13598ea5d"
+    }
+   ]
+  },
+  {
    "slug": "hg-781-2015",
    "path": "hg/2015/781",
    "short": "HG nr. 781/2015",

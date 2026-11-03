@@ -1,6 +1,6 @@
 # Every act in this repository
 
-7400 acts, 20,052 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+7401 acts, 20,064 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -3867,7 +3867,7 @@
 | Ordonanța Guvernului nr. 21/2025 pentru modificarea și completarea Legii nr. 431/2023 privind asigurarea unui nivel minim global de impozitare a grupurilor de întreprinderi multinaționale și a grupurilor naționale de mari dimensiuni | [`og/2025/21/`](og/2025/21/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 | Ordonanța Guvernului nr. 22/2025 pentru modificarea și completarea Legii nr. 227/2015 privind Codul fiscal | [`og/2025/22/`](og/2025/22/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 
-## Government decisions (HG) (3541, of which 1272 amending acts)
+## Government decisions (HG) (3542, of which 1272 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -4490,6 +4490,7 @@
 | Hotărârea Guvernului nr. 707/2006 | [`hg/2006/707/`](hg/2006/707/) | in force | 5 | 2006-06-15 | 2023-11-05 |
 | Hotărârea Guvernului nr. 734/2006 | [`hg/2006/734/`](hg/2006/734/) | in force | 1 | 2006-06-15 | 2006-06-15 |
 | Hotărârea Guvernului nr. 735/2006 | [`hg/2006/735/`](hg/2006/735/) | in force | 3 | 2006-06-16 | 2011-12-08 |
+| Hotărârea Guvernului nr. 780/2006 | [`hg/2006/780/`](hg/2006/780/) | in force | 12 | 2006-06-27 | 2025-10-28 |
 | Hotărârea Guvernului nr. 839/2006 | [`hg/2006/839/`](hg/2006/839/) | repealed 2021-04-28 | 3 | 2006-07-05 | 2021-04-28 |
 | Hotărârea Guvernului nr. 852/2006 | [`hg/2006/852/`](hg/2006/852/) | in force | 1 | 2006-06-30 | 2006-06-30 |
 | Hotărârea Guvernului nr. 862/2006 | [`hg/2006/862/`](hg/2006/862/) | in force | 4 | 2006-07-07 | 2008-04-02 |
