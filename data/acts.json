@@ -26964,6 +26964,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/244307"
 },
 {
+"slug": "legea-198-2021",
+"path": "lege/2021/198",
+"kind": "lege",
+"year": "2021",
+"number": "198",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 198/2021 pentru modificarea şi completarea art. 54 din Legea nr. 304/2004 privind organizarea judiciară",
+"short": "Legea nr. 198/2021",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2021-07-22",
+"latest": "2021-07-22",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/244455"
+},
+{
 "slug": "legea-200-2021",
 "path": "lege/2021/200",
 "kind": "lege",
@@ -27202,6 +27219,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/244883"
 },
 {
+"slug": "legea-218-2021",
+"path": "lege/2021/218",
+"kind": "lege",
+"year": "2021",
+"number": "218",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 218/2021 pentru modificarea Ordonanţei de urgenţă a Guvernului nr. 104/2001 privind organizarea şi funcţionarea Poliţiei de Frontieră Române",
+"short": "Legea nr. 218/2021",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2021-07-26",
+"latest": "2021-07-26",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/244885"
+},
+{
 "slug": "legea-219-2021",
 "path": "lege/2021/219",
 "kind": "lege",
@@ -27251,6 +27285,40 @@
 "from": "2021-07-29",
 "latest": "2021-07-29",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/244930"
+},
+{
+"slug": "legea-222-2021",
+"path": "lege/2021/222",
+"kind": "lege",
+"year": "2021",
+"number": "222",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 222/2021 pentru reglementarea unor măsuri în domeniul competenţei de control a Ministerului Finanţelor şi modificarea şi completarea unor acte normative",
+"short": "Legea nr. 222/2021",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2021-07-30",
+"latest": "2021-07-30",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/244950"
+},
+{
+"slug": "legea-223-2021",
+"path": "lege/2021/223",
+"kind": "lege",
+"year": "2021",
+"number": "223",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 223/2021 pentru modificarea art. 4 alin. (3) din Ordonanţa Guvernului nr. 86/2003 privind unele reglementări în domeniul financiar",
+"short": "Legea nr. 223/2021",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2021-07-30",
+"latest": "2021-07-30",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/244952"
 },
 {
 "slug": "legea-224-2021",
@@ -27387,6 +27455,23 @@
 "from": "2021-10-08",
 "latest": "2021-10-08",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/246875"
+},
+{
+"slug": "legea-239-2021",
+"path": "lege/2021/239",
+"kind": "lege",
+"year": "2021",
+"number": "239",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 239/2021 pentru modificarea Ordonanţei Guvernului nr. 15/1999 privind înfiinţarea Şcolii Superioare de Aviaţie Civilă şi abrogarea art. X alin. (4) din Ordonanţa de urgenţă a Guvernului nr. 83/2016 privind unele măsuri de eficientizare a implementării proiectelor de infrastructură de transport, unele măsuri în domeniul transporturilor, precum şi pentru modificarea şi completarea unor acte normative",
+"short": "Legea nr. 239/2021",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2021-10-11",
+"latest": "2021-10-11",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/247282"
 },
 {
 "slug": "legea-240-2021",
@@ -27746,6 +27831,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/253964"
 },
 {
+"slug": "legea-282-2021",
+"path": "lege/2021/282",
+"kind": "lege",
+"year": "2021",
+"number": "282",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 282/2021 pentru modificarea şi completarea Legii nr. 203/2018 privind măsuri de eficientizare a achitării amenzilor contravenţionale",
+"short": "Legea nr. 282/2021",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2021-12-05",
+"latest": "2021-12-05",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/248948"
+},
+{
 "slug": "legea-283-2021",
 "path": "lege/2021/283",
 "kind": "lege",
@@ -27846,6 +27948,23 @@
 "from": "2021-12-17",
 "latest": "2021-12-17",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/249191"
+},
+{
+"slug": "legea-295-2021",
+"path": "lege/2021/295",
+"kind": "lege",
+"year": "2021",
+"number": "295",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 295/2021 pentru modificarea şi completarea Legii nr. 55/2020 privind unele măsuri pentru prevenirea şi combaterea efectelor pandemiei de COVID-19",
+"short": "Legea nr. 295/2021",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2021-12-24",
+"latest": "2021-12-24",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/249193"
 },
 {
 "slug": "legea-296-2021",
@@ -28001,6 +28120,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/250050"
 },
 {
+"slug": "legea-321-2021",
+"path": "lege/2021/321",
+"kind": "lege",
+"year": "2021",
+"number": "321",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 321/2021 pentru completarea art. 249 din Legea educaţiei naţionale nr. 1/2011",
+"short": "Legea nr. 321/2021",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2022-01-01",
+"latest": "2022-01-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/250037"
+},
+{
 "slug": "legea-322-2021",
 "path": "lege/2021/322",
 "kind": "lege",
@@ -28016,6 +28152,23 @@
 "from": "2022-01-02",
 "latest": "2022-01-02",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/250039"
+},
+{
+"slug": "legea-323-2021",
+"path": "lege/2021/323",
+"kind": "lege",
+"year": "2021",
+"number": "323",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 323/2021 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 6/2021 pentru modificarea şi completarea unor acte normative",
+"short": "Legea nr. 323/2021",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2022-01-02",
+"latest": "2022-01-02",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/250041"
 },
 {
 "slug": "legea-5-2022",
@@ -28101,6 +28254,23 @@
 "from": "2022-01-17",
 "latest": "2022-01-17",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/250492"
+},
+{
+"slug": "legea-20-2022",
+"path": "lege/2022/20",
+"kind": "lege",
+"year": "2022",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 20/2022 privind completarea Ordonanţei de urgenţă a Guvernului nr. 195/2002 privind circulaţia pe drumurile publice",
+"short": "Legea nr. 20/2022",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2022-01-22",
+"latest": "2022-01-22",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/250626"
 },
 {
 "slug": "legea-21-2022",
@@ -28324,6 +28494,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/252620"
 },
 {
+"slug": "legea-56-2022",
+"path": "lege/2022/56",
+"kind": "lege",
+"year": "2022",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 56/2022 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 19/2006 privind utilizarea plajei Mării Negre şi controlul activităţilor desfăşurate pe plajă",
+"short": "Legea nr. 56/2022",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2022-03-21",
+"latest": "2022-03-21",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/252708"
+},
+{
 "slug": "legea-57-2022",
 "path": "lege/2022/57",
 "kind": "lege",
@@ -28339,6 +28526,23 @@
 "from": "2022-03-21",
 "latest": "2022-03-21",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/252710"
+},
+{
+"slug": "legea-61-2022",
+"path": "lege/2022/61",
+"kind": "lege",
+"year": "2022",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 61/2022 pentru aprobarea plăţii cotizaţiei anuale a României la bugetul comun al Centrului de Excelenţă pentru Managementul Crizelor şi Răspuns la Dezastre (Crisis Management and Disaster Response Centre of Excellence), precum şi pentru completarea Ordonanţei Guvernului nr. 41/1994 privind autorizarea plăţii cotizaţiilor la organizaţiile internaţionale interguvernamentale la care România este parte",
+"short": "Legea nr. 61/2022",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2022-03-21",
+"latest": "2022-03-21",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/252728"
 },
 {
 "slug": "legea-64-2022",
@@ -28475,6 +28679,23 @@
 "from": "2022-04-08",
 "latest": "2022-04-08",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/253642"
+},
+{
+"slug": "legea-78-2022",
+"path": "lege/2022/78",
+"kind": "lege",
+"year": "2022",
+"number": "78",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 78/2022 pentru respingerea Ordonanţei de urgenţă a Guvernului nr. 39/2017 privind acţiunile în despăgubire în cazurile de încălcare a dispoziţiilor legislaţiei în materie de concurenţă, precum şi pentru modificarea şi completarea Legii concurenţei nr. 21/1996",
+"short": "Legea nr. 78/2022",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2022-04-14",
+"latest": "2022-04-14",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/253797"
 },
 {
 "slug": "legea-81-2022",
@@ -29004,6 +29225,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/255672"
 },
 {
+"slug": "legea-154-2022",
+"path": "lege/2022/154",
+"kind": "lege",
+"year": "2022",
+"number": "154",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 154/2022 pentru modificarea şi completarea Legii nr. 374/2013 privind utilizarea sistemelor destinate blocării şi întreruperii radiocomunicaţiilor în perimetrele unităţilor din subordinea Administraţiei Naţionale a Penitenciarelor",
+"short": "Legea nr. 154/2022",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2022-05-28",
+"latest": "2022-05-28",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/255676"
+},
+{
 "slug": "legea-156-2022",
 "path": "lege/2022/156",
 "kind": "lege",
@@ -29412,6 +29650,40 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/257364"
 },
 {
+"slug": "legea-199-2022",
+"path": "lege/2022/199",
+"kind": "lege",
+"year": "2022",
+"number": "199",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 199/2022 pentru modificarea Legii nr. 134/2010 privind Codul de procedură civilă",
+"short": "Legea nr. 199/2022",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2022-07-11",
+"latest": "2022-07-11",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/257379"
+},
+{
+"slug": "legea-200-2022",
+"path": "lege/2022/200",
+"kind": "lege",
+"year": "2022",
+"number": "200",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 200/2022 pentru completarea Legii drepturilor pacientului nr. 46/2003",
+"short": "Legea nr. 200/2022",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2022-09-08",
+"latest": "2022-09-08",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/257381"
+},
+{
 "slug": "legea-201-2022",
 "path": "lege/2022/201",
 "kind": "lege",
@@ -29667,6 +29939,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/257639"
 },
 {
+"slug": "legea-224-2022",
+"path": "lege/2022/224",
+"kind": "lege",
+"year": "2022",
+"number": "224",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 224/2022 pentru completarea art. 110 din Legea educaţiei naţionale nr. 1/2011",
+"short": "Legea nr. 224/2022",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2022-07-23",
+"latest": "2022-07-23",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/257664"
+},
+{
 "slug": "legea-225-2022",
 "path": "lege/2022/225",
 "kind": "lege",
@@ -29682,6 +29971,23 @@
 "from": "2022-07-24",
 "latest": "2022-07-24",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/257721"
+},
+{
+"slug": "legea-226-2022",
+"path": "lege/2022/226",
+"kind": "lege",
+"year": "2022",
+"number": "226",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 226/2022 pentru modificarea şi completarea unor acte normative din domeniul fondurilor europene",
+"short": "Legea nr. 226/2022",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2022-07-23",
+"latest": "2022-07-23",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/257666"
 },
 {
 "slug": "legea-227-2022",
@@ -63395,6 +63701,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/267006"
 },
 {
+"slug": "oug-103-2021",
+"path": "oug/2021/103",
+"kind": "oug",
+"year": "2021",
+"number": "103",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 103/2021 privind unele măsuri la nivelul administraţiei publice",
+"short": "OUG nr. 103/2021",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2021-09-24",
+"latest": "2021-09-24",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/246643"
+},
+{
 "slug": "oug-104-2021",
 "path": "oug/2021/104",
 "kind": "oug",
@@ -63478,6 +63801,23 @@
 "from": "2021-10-04",
 "latest": "2021-10-04",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/246850"
+},
+{
+"slug": "oug-112-2021",
+"path": "oug/2021/112",
+"kind": "oug",
+"year": "2021",
+"number": "112",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 112/2021 pentru modificarea Legii nr. 100/2010 privind împădurirea terenurilor degradate, precum şi pentru stabilirea unor măsuri în domeniu",
+"short": "OUG nr. 112/2021",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2021-10-05",
+"latest": "2021-10-05",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/246887"
 },
 {
 "slug": "oug-114-2021",
@@ -65076,6 +65416,23 @@
 "from": "2022-06-29",
 "latest": "2023-06-09",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/256884"
+},
+{
+"slug": "oug-98-2022",
+"path": "oug/2022/98",
+"kind": "oug",
+"year": "2022",
+"number": "98",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 98/2022 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 101/2011 privind reglementarea condiţiilor pentru vânzarea unor imobile, proprietate privată a statului, aflate în administrarea Regiei Autonome \"Administraţia Patrimoniului Protocolului de Stat\", a imobilelor proprietatea Regiei Autonome \"Administraţia Patrimoniului Protocolului de Stat\", pentru reglementarea situaţiei juridice a unor imobile, pentru reglementarea cheltuielilor de cazare în unele situaţii speciale, precum şi pentru modificarea unor acte normative, precum şi pentru modificarea unui alt act normativ",
+"short": "OUG nr. 98/2022",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2022-06-30",
+"latest": "2022-06-30",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/256910"
 },
 {
 "slug": "oug-99-2022",
@@ -77301,6 +77658,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/245928"
 },
 {
+"slug": "og-12-2021",
+"path": "og/2021/12",
+"kind": "og",
+"year": "2021",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța Guvernului nr. 12/2021 privind completarea Ordonanţei Guvernului nr. 40/2006 pentru aprobarea şi finanţarea programelor multianuale prioritare de mediu şi gospodărire a apelor",
+"short": "OG nr. 12/2021",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2021-09-03",
+"latest": "2021-09-03",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/245923"
+},
+{
 "slug": "og-15-2021",
 "path": "og/2021/15",
 "kind": "og",
@@ -77384,6 +77758,23 @@
 "from": "2022-01-31",
 "latest": "2024-05-16",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/282208"
+},
+{
+"slug": "og-6-2022",
+"path": "og/2022/6",
+"kind": "og",
+"year": "2022",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța Guvernului nr. 6/2022 pentru modificarea Legii serviciilor publice de transport persoane în unităţile administrativ-teritoriale nr. 92/2007",
+"short": "OG nr. 6/2022",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2022-02-03",
+"latest": "2022-02-03",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/251254"
 },
 {
 "slug": "og-7-2022",
@@ -146236,6 +146627,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/243916"
 },
 {
+"slug": "hg-659-2021",
+"path": "hg/2021/659",
+"kind": "hg",
+"year": "2021",
+"number": "659",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 659/2021 pentru completarea Hotărârii Guvernului nr. 392/2014 privind aprobarea elementelor tehnice şi modalitatea de stabilire a despăgubirilor pentru persoanele fizice care au constituit depozite la Casa de Economii şi Consemnaţiuni C.E.C. - S.A. în vederea achiziţionării de autoturisme, precum şi pentru punerea în executare a hotărârilor judecătoreşti",
+"short": "HG nr. 659/2021",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2021-06-28",
+"latest": "2021-06-28",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/243828"
+},
+{
 "slug": "hg-663-2021",
 "path": "hg/2021/663",
 "kind": "hg",
@@ -146948,6 +147356,23 @@
 "from": "2021-07-08",
 "latest": "2021-07-08",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/244205"
+},
+{
+"slug": "hg-722-2021",
+"path": "hg/2021/722",
+"kind": "hg",
+"year": "2021",
+"number": "722",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 722/2021 pentru modificarea art. 18 alin. (3) şi (4) din Hotărârea Guvernului nr. 347/2016 privind stabilirea cadrului general de implementare a operaţiunilor cofinanţate din Fondul European pentru Pescuit şi Afaceri Maritime prin Programul operaţional pentru pescuit şi afaceri maritime 2014-2020",
+"short": "HG nr. 722/2021",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2021-07-12",
+"latest": "2021-07-12",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/244277"
 },
 {
 "slug": "hg-723-2021",
@@ -147919,6 +148344,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/245059"
 },
 {
+"slug": "hg-805-2021",
+"path": "hg/2021/805",
+"kind": "hg",
+"year": "2021",
+"number": "805",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 805/2021 pentru suplimentarea pe anul 2021 a sumei prevăzute ca justă despăgubire aprobate prin Hotărârea Guvernului nr. 499/2010 privind declanşarea procedurilor de expropriere a imobilelor proprietate privată situate pe amplasamentul lucrării de utilitate publică \"Lărgire la 4 benzi - Centura Bucureşti Sud între A2 (km 23+600) şi A1 (km 55+520)\", precum şi pentru modificarea şi completarea anexei nr. 2 la Hotărârea Guvernului nr. 499/2010",
+"short": "HG nr. 805/2021",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2021-08-02",
+"latest": "2021-08-02",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/245095"
+},
+{
 "slug": "hg-806-2021",
 "path": "hg/2021/806",
 "kind": "hg",
@@ -148174,6 +148616,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/245159"
 },
 {
+"slug": "hg-824-2021",
+"path": "hg/2021/824",
+"kind": "hg",
+"year": "2021",
+"number": "824",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 824/2021 pentru modificarea Hotărârii Guvernului nr. 16/2017 privind organizarea şi funcţionarea Ministerului Afacerilor Externe",
+"short": "HG nr. 824/2021",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2021-07-30",
+"latest": "2021-07-30",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/245072"
+},
+{
 "slug": "hg-825-2021",
 "path": "hg/2021/825",
 "kind": "hg",
@@ -148223,6 +148682,40 @@
 "from": "2021-08-05",
 "latest": "2021-08-05",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/245192"
+},
+{
+"slug": "hg-828-2021",
+"path": "hg/2021/828",
+"kind": "hg",
+"year": "2021",
+"number": "828",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 828/2021 pentru modificarea Normelor metodologice de aplicare a Ordonanţei de urgenţă a Guvernului nr. 110/2017 privind Programul de susţinere a întreprinderilor mici şi mijlocii şi a întreprinderilor mici cu capitalizare de piaţă medie - IMM INVEST ROMÂNIA, aprobate prin Hotărârea Guvernului nr. 282/2020",
+"short": "HG nr. 828/2021",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2021-08-06",
+"latest": "2021-08-06",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/245213"
+},
+{
+"slug": "hg-830-2021",
+"path": "hg/2021/830",
+"kind": "hg",
+"year": "2021",
+"number": "830",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 830/2021 pentru modificarea şi completarea Hotărârii Guvernului nr. 185/2011 privind stabilirea unor măsuri în vederea finanţării unor proiecte şi programe din bugetul Fondului pentru mediu",
+"short": "HG nr. 830/2021",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2021-08-13",
+"latest": "2021-08-13",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/245334"
 },
 {
 "slug": "hg-832-2021",
@@ -150316,6 +150809,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/246717"
 },
 {
+"slug": "hg-987-2021",
+"path": "hg/2021/987",
+"kind": "hg",
+"year": "2021",
+"number": "987",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 987/2021 pentru modificarea anexelor nr. 1-4 la Hotărârea Guvernului nr. 1.850/2005 privind stabilirea uniformei personalului militar din Jandarmeria Română, a însemnelor distinctive, a formei şi conţinutului insignei şi ale documentelor de legitimare a acestuia, precum şi a siglei Jandarmeriei Române",
+"short": "HG nr. 987/2021",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2021-10-15",
+"latest": "2021-10-15",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/247429"
+},
+{
 "slug": "hg-989-2021",
 "path": "hg/2021/989",
 "kind": "hg",
@@ -150554,6 +151064,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/246670"
 },
 {
+"slug": "hg-1005-2021",
+"path": "hg/2021/1005",
+"kind": "hg",
+"year": "2021",
+"number": "1005",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 1005/2021 privind suplimentarea pe anul 2021 a sumei prevăzute ca justă despăgubire, aprobată prin Hotărârea Guvernului nr. 742/2005 privind declanşarea procedurilor de expropriere a imobilelor proprietate privată situate pe amplasamentul lucrării \"Secţiunea 2B pe teritoriul localităţilor Câmpia Turzii, Gilău, Floreşti, Săvădisla, Petreştii de Jos, Luna şi Sănduleşti din judeţul Cluj şi Secţiunea 3C pe teritoriul localităţilor Abram, Suplacu de Barcău, Balc, Chişlaz, Tăuteu, Sârbi şi Biharia din judeţul Bihor\" din cadrul obiectivului de investiţie \"Autostrada Braşov-Cluj-Borş\", precum şi modificarea anexei nr. 2 la Hotărârea Guvernului nr. 742/2005",
+"short": "HG nr. 1005/2021",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2021-09-30",
+"latest": "2021-09-30",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/246770"
+},
+{
 "slug": "hg-1008-2021",
 "path": "hg/2021/1008",
 "kind": "hg",
@@ -150673,6 +151200,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/246622"
 },
 {
+"slug": "hg-1016-2021",
+"path": "hg/2021/1016",
+"kind": "hg",
+"year": "2021",
+"number": "1016",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 1016/2021 pentru modificarea Hotărârii Guvernului nr. 603/2020 privind organizarea, funcţionarea şi atribuţiile Corpului de control al prim-ministrului",
+"short": "HG nr. 1016/2021",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2021-09-29",
+"latest": "2021-09-29",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/246747"
+},
+{
 "slug": "hg-1019-2021",
 "path": "hg/2021/1019",
 "kind": "hg",
@@ -150756,6 +151300,23 @@
 "from": "2021-10-04",
 "latest": "2021-10-04",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/246837"
+},
+{
+"slug": "hg-1026-2021",
+"path": "hg/2021/1026",
+"kind": "hg",
+"year": "2021",
+"number": "1026",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 1026/2021 pentru suplimentarea pe anul 2021 a sumei prevăzute ca justă despăgubire aprobată prin Hotărârea Guvernului nr. 282/2021 privind declanşarea procedurilor de expropriere a tuturor imobilelor proprietate privată care constituie coridorul de expropriere al lucrării de utilitate publică de interes naţional Secţiunea 3B Mihăieşti-Suplacu de Barcău din cadrul obiectivului de investiţii de interes naţional \"Autostrada Braşov-Târgu Mureş-Cluj-Oradea\", pe raza localităţilor Sânpaul din judeţul Cluj şi Zimbor, Sânmihaiu Almaşului, Românaşi, Treznea şi Zalău din judeţul Sălaj, precum şi pentru completarea anexei nr. 2 la Hotărârea Guvernului nr. 282/2021",
+"short": "HG nr. 1026/2021",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2021-10-06",
+"latest": "2021-10-06",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/247201"
 },
 {
 "slug": "hg-1027-2021",
@@ -151897,6 +152458,57 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/247632"
 },
 {
+"slug": "hg-1136-2021",
+"path": "hg/2021/1136",
+"kind": "hg",
+"year": "2021",
+"number": "1136",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 1136/2021 privind modificarea şi completarea Hotărârii Guvernului nr. 651/2021 pentru aprobarea programului de susţinere a producţiei de legume în spaţii protejate pentru anul 2021, precum şi pentru modificarea art. 8 alin. (1) din Hotărârea Guvernului nr. 652/2021 privind aprobarea programului de susţinere a producţiei de plante aromatice pentru anul 2021",
+"short": "HG nr. 1136/2021",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2021-10-26",
+"latest": "2021-10-26",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/247689"
+},
+{
+"slug": "hg-1137-2021",
+"path": "hg/2021/1137",
+"kind": "hg",
+"year": "2021",
+"number": "1137",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 1137/2021 pentru modificarea anexei la Hotărârea Guvernului nr. 798/2016 privind aprobarea programului de interes naţional în domeniul protecţiei şi promovării drepturilor persoanelor cu dizabilităţi \"Înfiinţarea de servicii sociale de tip centre de zi, centre respiro/centre de criză şi locuinţe protejate în vederea dezinstituţionalizării persoanelor cu dizabilităţi aflate în instituţii de tip vechi şi pentru prevenirea instituţionalizării persoanelor cu dizabilităţi din comunitate\" şi pentru modificarea anexei la Hotărârea Guvernului nr. 193/2018 privind aprobarea programului de interes naţional în domeniul protecţiei şi promovării drepturilor persoanelor cu dizabilităţi \"Înfiinţarea de servicii sociale în vederea asigurării tranziţiei tinerilor cu dizabilităţi de la sistemul de protecţie specială a copilului către sistemul de protecţie a persoanelor adulte cu dizabilităţi\"",
+"short": "HG nr. 1137/2021",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2021-10-26",
+"latest": "2021-10-26",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/247690"
+},
+{
+"slug": "hg-1138-2021",
+"path": "hg/2021/1138",
+"kind": "hg",
+"year": "2021",
+"number": "1138",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 1138/2021 pentru completarea art. 3^1 din Hotărârea Guvernului nr. 1.596/2008 privind relocarea refugiaţilor în România",
+"short": "HG nr. 1138/2021",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2021-10-29",
+"latest": "2021-10-29",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/247769"
+},
+{
 "slug": "hg-1139-2021",
 "path": "hg/2021/1139",
 "kind": "hg",
@@ -152048,6 +152660,23 @@
 "from": "2021-11-03",
 "latest": "2021-11-03",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/247884"
+},
+{
+"slug": "hg-1155-2021",
+"path": "hg/2021/1155",
+"kind": "hg",
+"year": "2021",
+"number": "1155",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 1155/2021 privind modificarea poziţiei nr. 13 din anexa la Hotărârea Guvernului nr. 706/1994 privind trecerea palatelor administrative din municipiile reşedinţe de judeţe în administrarea instituţiilor prefecturilor şi pentru actualizarea valorilor de inventar, precum şi a datelor de identificare ale unor imobile aflate în domeniul public al statului şi în administrarea Ministerului Afacerilor Interne - Instituţia Prefectului - Judeţul Cluj",
+"short": "HG nr. 1155/2021",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2021-11-01",
+"latest": "2021-11-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/247826"
 },
 {
 "slug": "hg-1156-2021",
@@ -152235,6 +152864,23 @@
 "from": "2021-11-02",
 "latest": "2021-11-02",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/247851"
+},
+{
+"slug": "hg-1174-2021",
+"path": "hg/2021/1174",
+"kind": "hg",
+"year": "2021",
+"number": "1174",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 1174/2021 privind modificarea şi completarea Normelor metodologice pentru punerea în aplicare a prevederilor Legii nr. 152/1998 privind înfiinţarea Agenţiei Naţionale pentru Locuinţe, aprobate prin Hotărârea Guvernului nr. 962/2001",
+"short": "HG nr. 1174/2021",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2021-11-01",
+"latest": "2021-11-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/247836"
 },
 {
 "slug": "hg-1175-2021",
@@ -153546,6 +154192,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/249915"
 },
 {
+"slug": "hg-1279-2021",
+"path": "hg/2021/1279",
+"kind": "hg",
+"year": "2021",
+"number": "1279",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 1279/2021 privind completarea Hotărârii Guvernului nr. 876/2007 pentru stabilirea şi sancţionarea contravenţiilor la regimul transporturilor navale",
+"short": "HG nr. 1279/2021",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2022-01-26",
+"latest": "2022-01-26",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/249916"
+},
+{
 "slug": "hg-1280-2021",
 "path": "hg/2021/1280",
 "kind": "hg",
@@ -154039,6 +154702,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/250374"
 },
 {
+"slug": "hg-1316-2021",
+"path": "hg/2021/1316",
+"kind": "hg",
+"year": "2021",
+"number": "1316",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 1316/2021 pentru modificarea anexei la Hotărârea Guvernului nr. 381/2009 privind declanşarea procedurilor de expropriere a imobilelor proprietate privată rămase de expropriat, situate pe amplasamentul lucrării de utilitate publică \"Construcţia autostrăzii Bucureşti-Braşov, tronsonul Bucureşti-Ploieşti\"",
+"short": "HG nr. 1316/2021",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2022-01-04",
+"latest": "2022-01-04",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/250160"
+},
+{
 "slug": "hg-1317-2021",
 "path": "hg/2021/1317",
 "kind": "hg",
@@ -154056,6 +154736,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/250197"
 },
 {
+"slug": "hg-1319-2021",
+"path": "hg/2021/1319",
+"kind": "hg",
+"year": "2021",
+"number": "1319",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 1319/2021 privind suplimentarea sumei prevăzute ca justă despăgubire aprobate prin Hotărârea Guvernului nr. 417/2017 privind declanşarea procedurilor de expropriere a imobilelor proprietate privată situate pe amplasamentul suplimentar, care fac parte din coridorul de expropriere al lucrării de utilitate publică de interes naţional \"Secţiunea 1C, subsecţiunea Ogra-Târgu Mureş pe teritoriul localităţilor Cristeşti, Gheorghe Doja, Ogra, Sânpaul, Ungheni şi Târgu Mureş din judeţul Mureş\" din cadrul obiectivului de investiţii \"Autostrada Braşov-Târgu Mureş-Cluj-Oradea\", precum şi completarea anexei nr. 2 la Hotărârea Guvernului nr. 417/2017",
+"short": "HG nr. 1319/2021",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2021-12-31",
+"latest": "2021-12-31",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/250111"
+},
+{
 "slug": "hg-1322-2021",
 "path": "hg/2021/1322",
 "kind": "hg",
@@ -154071,6 +154768,23 @@
 "from": "2022-01-11",
 "latest": "2022-01-11",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/250370"
+},
+{
+"slug": "hg-1323-2021",
+"path": "hg/2021/1323",
+"kind": "hg",
+"year": "2021",
+"number": "1323",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 1323/2021 pentru modificarea numărului curent 62 din anexa nr. 2 la Hotărârea Guvernului nr. 390/2017 privind declanşarea procedurilor de expropriere a imobilelor proprietate privată care constituie coridorul de expropriere al lucrării de utilitate publică de interes naţional \"Pasaj suprateran pe DJ 602 Centura Bucureşti-Domneşti\"",
+"short": "HG nr. 1323/2021",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2022-01-04",
+"latest": "2022-01-04",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/250161"
 },
 {
 "slug": "hg-1325-2021",
@@ -154275,6 +154989,23 @@
 "from": "2022-01-05",
 "latest": "2022-01-05",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/250226"
+},
+{
+"slug": "hg-21-2022",
+"path": "hg/2022/21",
+"kind": "hg",
+"year": "2022",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 21/2022 pentru modificarea şi completarea anexei nr. 2 la Hotărârea Guvernului nr. 791/2020 privind declanşarea procedurilor de expropriere a tuturor imobilelor proprietate privată care constituie coridorul de expropriere al lucrării de utilitate publică de interes naţional \"Drum Expres Craiova-Piteşti şi legăturile la drumurile existente\", tronsonul 3, aflate pe raza localităţilor Valea Mare, Priseaca, Scorniceşti, Optaşi-Măgura, Tătuleşti, Coloneşti şi Bărăşti din judeţul Olt",
+"short": "HG nr. 21/2022",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2022-01-06",
+"latest": "2022-01-06",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/250240"
 },
 {
 "slug": "hg-22-2022",
@@ -155025,6 +155756,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/251003"
 },
 {
+"slug": "hg-90-2022",
+"path": "hg/2022/90",
+"kind": "hg",
+"year": "2022",
+"number": "90",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 90/2022 pentru modificarea şi completarea Hotărârii Guvernului nr. 369/2021 privind organizarea şi funcţionarea Ministerului Educaţiei",
+"short": "HG nr. 90/2022",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2022-01-20",
+"latest": "2022-01-20",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/251004"
+},
+{
 "slug": "hg-91-2022",
 "path": null,
 "kind": "hg",
@@ -155671,6 +156419,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/251340"
 },
 {
+"slug": "hg-135-2022",
+"path": "hg/2022/135",
+"kind": "hg",
+"year": "2022",
+"number": "135",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 135/2022 privind modificarea Hotărârii Guvernului nr. 525/2013 pentru aprobarea atribuţiilor generale şi specifice, a structurii organizatorice şi a numărului maxim de posturi, precum şi a normării parcului auto şi a consumului de carburanţi ale Inspectoratului de Stat în Construcţii - I.S.C",
+"short": "HG nr. 135/2022",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2022-02-02",
+"latest": "2022-02-02",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/251329"
+},
+{
 "slug": "hg-137-2022",
 "path": "hg/2022/137",
 "kind": "hg",
@@ -155788,6 +156553,23 @@
 "from": "2022-02-01",
 "latest": "2022-02-01",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/251281"
+},
+{
+"slug": "hg-146-2022",
+"path": "hg/2022/146",
+"kind": "hg",
+"year": "2022",
+"number": "146",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 146/2022 pentru completarea Hotărârii Guvernului nr. 1.174/2014 privind instituirea unei scheme de ajutor de stat pentru reducerea accizei la motorina utilizată în agricultură",
+"short": "HG nr. 146/2022",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2022-02-02",
+"latest": "2022-02-02",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/251356"
 },
 {
 "slug": "hg-147-2022",
@@ -156181,6 +156963,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/251594"
 },
 {
+"slug": "hg-186-2022",
+"path": "hg/2022/186",
+"kind": "hg",
+"year": "2022",
+"number": "186",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 186/2022 pentru modificarea şi completarea anexei nr. 2 la Hotărârea Guvernului nr. 729/2015 privind declanşarea procedurilor de expropriere a imobilelor proprietate privată care constituie coridorul de expropriere al lucrării de utilitate publică de interes naţional \"Secţiunea 1C, subsecţiunea Ogra-Târgu Mureş pe teritoriul localităţilor Cristeşti, Gheorghe Doja, Ogra, Sânpaul, Ungheni şi Târgu Mureş din judeţul Mureş\" din cadrul obiectivului de investiţii \"Autostrada Braşov-Târgu Mureş-Cluj-Oradea\"",
+"short": "HG nr. 186/2022",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2022-02-21",
+"latest": "2022-02-21",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/251784"
+},
+{
 "slug": "hg-187-2022",
 "path": "hg/2022/187",
 "kind": "hg",
@@ -156266,6 +157065,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/251608"
 },
 {
+"slug": "hg-194-2022",
+"path": "hg/2022/194",
+"kind": "hg",
+"year": "2022",
+"number": "194",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 194/2022 pentru modificarea Hotărârii Guvernului nr. 136/2016 privind aprobarea normelor metodologice pentru determinarea costului standard per antepreşcolar/preşcolar/elev şi stabilirea finanţării de bază de la bugetul de stat, din sume defalcate din T.V.A. prin bugetele locale, pe baza costului standard per antepreşcolar/preşcolar/elev, pentru toţi preşcolarii şi elevii din învăţământul general obligatoriu particular şi confesional acreditat, precum şi pentru cei din învăţământul profesional şi liceal acreditat, particular şi confesional",
+"short": "HG nr. 194/2022",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2022-02-11",
+"latest": "2022-02-11",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/251609"
+},
+{
 "slug": "hg-195-2022",
 "path": "hg/2022/195",
 "kind": "hg",
@@ -156315,6 +157131,23 @@
 "from": "2022-02-14",
 "latest": "2022-02-14",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/251625"
+},
+{
+"slug": "hg-199-2022",
+"path": "hg/2022/199",
+"kind": "hg",
+"year": "2022",
+"number": "199",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 199/2022 pentru modificarea şi completarea Hotărârii Guvernului nr. 1.693/2004 privind modul de organizare şi funcţionare a serviciilor publice comunitare de paşapoarte",
+"short": "HG nr. 199/2022",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2022-02-14",
+"latest": "2022-02-14",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/251624"
 },
 {
 "slug": "hg-200-2022",
@@ -157320,6 +158153,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/252345"
 },
 {
+"slug": "hg-293-2022",
+"path": "hg/2022/293",
+"kind": "hg",
+"year": "2022",
+"number": "293",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 293/2022 pentru modificarea şi completarea Hotărârii Guvernului nr. 370/2021 privind organizarea şi funcţionarea Ministerului Transporturilor şi Infrastructurii",
+"short": "HG nr. 293/2022",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2022-03-03",
+"latest": "2022-03-03",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/252361"
+},
+{
 "slug": "hg-295-2022",
 "path": "hg/2022/295",
 "kind": "hg",
@@ -157354,6 +158204,57 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/252356"
 },
 {
+"slug": "hg-297-2022",
+"path": "hg/2022/297",
+"kind": "hg",
+"year": "2022",
+"number": "297",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 297/2022 privind modificarea şi completarea anexelor nr. 1 şi 2 la Hotărârea Guvernului nr. 1/2018 pentru aprobarea condiţiilor generale şi specifice pentru anumite categorii de contracte de achiziţie aferente obiectivelor de investiţii finanţate din fonduri publice",
+"short": "HG nr. 297/2022",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2022-03-03",
+"latest": "2022-03-03",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/252348"
+},
+{
+"slug": "hg-298-2022",
+"path": "hg/2022/298",
+"kind": "hg",
+"year": "2022",
+"number": "298",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 298/2022 pentru modificarea anexei la Hotărârea Guvernului nr. 501/2018 privind organizarea şi funcţionarea Agenţiei Naţionale pentru Romi",
+"short": "HG nr. 298/2022",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2022-03-07",
+"latest": "2022-03-07",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/252419"
+},
+{
+"slug": "hg-299-2022",
+"path": "hg/2022/299",
+"kind": "hg",
+"year": "2022",
+"number": "299",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 299/2022 pentru modificarea şi completarea Normelor metodologice de aplicare a Legii nr. 333/2003 privind paza obiectivelor, bunurilor, valorilor şi protecţia persoanelor, aprobate prin Hotărârea Guvernului nr. 301/2012",
+"short": "HG nr. 299/2022",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2022-03-07",
+"latest": "2022-03-07",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/252420"
+},
+{
 "slug": "hg-300-2022",
 "path": "hg/2022/300",
 "kind": "hg",
@@ -157369,6 +158270,23 @@
 "from": "2022-03-08",
 "latest": "2022-03-08",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/252443"
+},
+{
+"slug": "hg-301-2022",
+"path": "hg/2022/301",
+"kind": "hg",
+"year": "2022",
+"number": "301",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 301/2022 pentru modificarea Hotărârii Guvernului nr. 341/2007 privind ocuparea funcţiilor publice din categoria înalţilor funcţionari publici, managementul carierei şi mobilitatea înalţilor funcţionari publici",
+"short": "HG nr. 301/2022",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2022-03-08",
+"latest": "2022-03-08",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/252444"
 },
 {
 "slug": "hg-302-2022",
@@ -157505,6 +158423,23 @@
 "from": "2022-03-05",
 "latest": "2023-12-31",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/252406"
+},
+{
+"slug": "hg-322-2022",
+"path": "hg/2022/322",
+"kind": "hg",
+"year": "2022",
+"number": "322",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 322/2022 pentru modificarea anexei nr. 3 la Hotărârea Guvernului nr. 432/2017 privind echipamentele maritime",
+"short": "HG nr. 322/2022",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2022-03-10",
+"latest": "2022-03-10",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/252526"
 },
 {
 "slug": "hg-325-2022",
@@ -158017,6 +158952,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/252789"
 },
 {
+"slug": "hg-369-2022",
+"path": "hg/2022/369",
+"kind": "hg",
+"year": "2022",
+"number": "369",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 369/2022 pentru modificarea şi completarea Hotărârii Guvernului nr. 43/2020 privind organizarea şi funcţionarea Ministerului Mediului, Apelor şi Pădurilor",
+"short": "HG nr. 369/2022",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2022-03-22",
+"latest": "2022-03-22",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/252790"
+},
+{
 "slug": "hg-370-2022",
 "path": "hg/2022/370",
 "kind": "hg",
@@ -158032,6 +158984,40 @@
 "from": "2022-03-21",
 "latest": "2022-03-21",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/252771"
+},
+{
+"slug": "hg-371-2022",
+"path": "hg/2022/371",
+"kind": "hg",
+"year": "2022",
+"number": "371",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 371/2022 pentru modificarea şi completarea Hotărârii Guvernului nr. 316/2021 privind organizarea şi funcţionarea Ministerului Energiei",
+"short": "HG nr. 371/2022",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2022-03-22",
+"latest": "2022-03-22",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/252801"
+},
+{
+"slug": "hg-372-2022",
+"path": "hg/2022/372",
+"kind": "hg",
+"year": "2022",
+"number": "372",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 372/2022 pentru modificarea şi completarea anexei la Hotărârea Guvernului nr. 1.553/2004 privind unele modalităţi de încetare a practicilor ilicite în domeniul protecţiei intereselor colective ale consumatorilor şi a anexei la Hotărârea Guvernului nr. 444/2020 privind stabilirea cadrului instituţional şi a unor măsuri pentru punerea în aplicare a prevederilor art. 5 alin. (1) din Regulamentul (UE) 2017/2.394 al Parlamentului European şi al Consiliului din 12 decembrie 2017 privind cooperarea dintre autorităţile naţionale însărcinate să asigure respectarea legislaţiei în materie de protecţie a consumatorului şi de abrogare a Regulamentului (CE) nr. 2.006/2004",
+"short": "HG nr. 372/2022",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2022-03-22",
+"latest": "2022-03-22",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/252804"
 },
 {
 "slug": "hg-373-2022",
@@ -158185,6 +159171,23 @@
 "from": "2022-03-28",
 "latest": "2022-03-28",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/253227"
+},
+{
+"slug": "hg-382-2022",
+"path": "hg/2022/382",
+"kind": "hg",
+"year": "2022",
+"number": "382",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 382/2022 privind modificarea Hotărârii Guvernului nr. 245/2003 pentru aprobarea Regulamentului de aplicare a Ordonanţei Guvernului nr. 42/1997 privind transportul naval",
+"short": "HG nr. 382/2022",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2022-04-28",
+"latest": "2022-04-28",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/253286"
 },
 {
 "slug": "hg-383-2022",
@@ -158559,6 +159562,23 @@
 "from": "2022-03-25",
 "latest": "2022-03-25",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/253200"
+},
+{
+"slug": "hg-406-2022",
+"path": "hg/2022/406",
+"kind": "hg",
+"year": "2022",
+"number": "406",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 406/2022 privind modificarea şi completarea anexei la Hotărârea Guvernului nr. 720/2008 pentru aprobarea Listei cuprinzând denumirile comune internaţionale corespunzătoare medicamentelor de care beneficiază asiguraţii, cu sau fără contribuţie personală, pe bază de prescripţie medicală, în sistemul de asigurări sociale de sănătate, precum şi denumirile comune internaţionale corespunzătoare medicamentelor care se acordă în cadrul programelor naţionale de sănătate",
+"short": "HG nr. 406/2022",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2022-04-01",
+"latest": "2022-04-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/253211"
 },
 {
 "slug": "hg-407-2022",
@@ -159360,6 +160380,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/253756"
 },
 {
+"slug": "hg-470-2022",
+"path": "hg/2022/470",
+"kind": "hg",
+"year": "2022",
+"number": "470",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 470/2022 pentru suplimentarea pe anul 2022 a sumei prevăzute ca justă despăgubire, aprobată prin Hotărârea Guvernului nr. 500/2020 privind declanşarea procedurilor de expropriere a imobilelor proprietate privată care constituie coridorul de expropriere situat pe amplasamentul lucrării de utilitate publică de interes naţional privind obiectivul de investiţii \"Amenajare bandă pistă şi R.E.S.A.\" la Aeroportul Internaţional Mihail Kogălniceanu - Constanţa, comuna Mihail Kogălniceanu, judeţul Constanţa, precum şi modificarea anexei nr. 2 la Hotărârea Guvernului nr. 500/2020",
+"short": "HG nr. 470/2022",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2022-04-08",
+"latest": "2022-04-08",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/253757"
+},
+{
 "slug": "hg-474-2022",
 "path": "hg/2022/474",
 "kind": "hg",
@@ -159615,6 +160652,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/254203"
 },
 {
+"slug": "hg-491-2022",
+"path": "hg/2022/491",
+"kind": "hg",
+"year": "2022",
+"number": "491",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 491/2022 pentru modificarea şi completarea Hotărârii Guvernului nr. 1.516/2008 privind aprobarea Regulamentului-cadru de urbanism pentru Rezervaţia Biosferei Delta Dunării",
+"short": "HG nr. 491/2022",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2022-04-12",
+"latest": "2022-04-12",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/253820"
+},
+{
 "slug": "hg-492-2022",
 "path": "hg/2022/492",
 "kind": "hg",
@@ -159851,6 +160905,23 @@
 "from": "2022-04-19",
 "latest": "2022-04-19",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/254264"
+},
+{
+"slug": "hg-509-2022",
+"path": "hg/2022/509",
+"kind": "hg",
+"year": "2022",
+"number": "509",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 509/2022 pentru suplimentarea sumei prevăzute ca justă despăgubire, aprobată prin Hotărârea Guvernului nr. 399/2014 privind declanşarea procedurilor de expropriere a imobilelor proprietate privată care constituie coridorul de expropriere al obiectivului de investiţii \"Autostrada Sebeş-Turda\", precum şi pentru modificarea anexei nr. 2 la Hotărârea Guvernului nr. 399/2014 şi a anexei nr. 2 la Hotărârea Guvernului nr. 947/2016 privind declanşarea procedurilor de expropriere a imobilelor proprietate privată situate pe amplasamentul suplimentar, care fac parte din coridorul de expropriere al lucrării de utilitate publică de interes naţional \"Autostrada Sebeş-Turda\" - Lot 1 secţiunea A, km 0 + 300 - km 14 + 000",
+"short": "HG nr. 509/2022",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2022-04-20",
+"latest": "2022-04-20",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/254294"
 },
 {
 "slug": "hg-510-2022",
@@ -160261,6 +161332,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/254409"
 },
 {
+"slug": "hg-539-2022",
+"path": "hg/2022/539",
+"kind": "hg",
+"year": "2022",
+"number": "539",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 539/2022 privind suplimentarea pe anul 2022 a sumei prevăzute ca justă despăgubire, aprobată prin Hotărârea Guvernului nr. 620/2013 privind modificarea anexei nr. 1 la Hotărârea Guvernului nr. 1.638/2004 pentru aprobarea indicatorilor tehnico-economici ai obiectivelor de investiţii \"Varianta ocolitoare a oraşului Bacău, pe DN 2 - etapa I\", \"Varianta ocolitoare a oraşului Braşov, pe DN 1\", \"Varianta ocolitoare a oraşului Mediaş, pe DN 14\", \"Varianta ocolitoare a oraşului Reghin, pe DN 16 şi DN 15\" şi \"Varianta ocolitoare a oraşului Târgu Mureş, pe DN 13 şi DN 15\", precum şi declanşarea procedurilor de expropriere a imobilelor proprietate privată care constituie coridorul de expropriere al lucrării de utilitate publică \"Varianta de ocolire Bacău\", precum şi modificarea şi completarea anexei nr. 3 la Hotărârea Guvernului nr. 620/2013",
+"short": "HG nr. 539/2022",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2022-05-05",
+"latest": "2022-05-05",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/254693"
+},
+{
 "slug": "hg-540-2022",
 "path": "hg/2022/540",
 "kind": "hg",
@@ -160652,6 +161740,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/254657"
 },
 {
+"slug": "hg-567-2022",
+"path": "hg/2022/567",
+"kind": "hg",
+"year": "2022",
+"number": "567",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 567/2022 privind suplimentarea pe anul 2022 a sumei prevăzute ca justă despăgubire, aprobată prin Hotărârea Guvernului nr. 736/2020 privind declanşarea procedurilor de expropriere a tuturor imobilelor proprietate privată care constituie coridorul de expropriere al lucrării de utilitate publică de interes naţional \"Varianta de ocolire a municipiului Zalău, etapa 2, între DN1F, km 79+625- DJ 191C\", precum şi modificarea şi completarea anexei nr. 2 la Hotărârea Guvernului nr. 736/2020",
+"short": "HG nr. 567/2022",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2022-05-03",
+"latest": "2022-05-03",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/254624"
+},
+{
 "slug": "hg-568-2022",
 "path": "hg/2022/568",
 "kind": "hg",
@@ -160975,6 +162080,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/254925"
 },
 {
+"slug": "hg-593-2022",
+"path": "hg/2022/593",
+"kind": "hg",
+"year": "2022",
+"number": "593",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 593/2022 pentru modificarea şi completarea Hotărârii Guvernului nr. 371/2021 privind organizarea şi funcţionarea Ministerului Cercetării, Inovării şi Digitalizării",
+"short": "HG nr. 593/2022",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2022-05-02",
+"latest": "2022-05-02",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/254582"
+},
+{
 "slug": "hg-594-2022",
 "path": "hg/2022/594",
 "kind": "hg",
@@ -161281,6 +162403,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/255093"
 },
 {
+"slug": "hg-622-2022",
+"path": "hg/2022/622",
+"kind": "hg",
+"year": "2022",
+"number": "622",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 622/2022 pentru modificarea Hotărârii Guvernului nr. 30/2017 privind organizarea şi funcţionarea Ministerului Agriculturii şi Dezvoltării Rurale, precum şi pentru modificarea art. 6 alin. (6) din Hotărârea Guvernului nr. 1.186/2014 privind organizarea şi funcţionarea Autorităţii pentru Administrarea Sistemului Naţional Antigrindină şi de Creştere a Precipitaţiilor",
+"short": "HG nr. 622/2022",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2022-05-12",
+"latest": "2022-05-12",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/255094"
+},
+{
 "slug": "hg-623-2022",
 "path": "hg/2022/623",
 "kind": "hg",
@@ -161398,6 +162537,23 @@
 "from": "2022-05-16",
 "latest": "2022-05-16",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/255438"
+},
+{
+"slug": "hg-631-2022",
+"path": "hg/2022/631",
+"kind": "hg",
+"year": "2022",
+"number": "631",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 631/2022 pentru modificarea anexei la Hotărârea Guvernului nr. 994/2020 privind aprobarea standardelor de autorizare de funcţionare provizorie şi a standardelor de acreditare şi de evaluare externă periodică în învăţământul preuniversitar",
+"short": "HG nr. 631/2022",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2022-05-18",
+"latest": "2022-05-18",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/255518"
 },
 {
 "slug": "hg-632-2022",
@@ -162046,6 +163202,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/255702"
 },
 {
+"slug": "hg-675-2022",
+"path": "hg/2022/675",
+"kind": "hg",
+"year": "2022",
+"number": "675",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 675/2022 pentru modificarea şi completarea anexei nr. 2 la Hotărârea Guvernului nr. 960/2015 privind aprobarea amplasamentului şi declanşarea procedurilor de expropriere a tuturor imobilelor proprietate privată situate în coridorul de expropriere al lucrării de utilitate publică de interes naţional \"Deschiderea şi punerea în exploatare a carierei Jilţ Nord la o capacitate de 4,5 milioane tone/an lignit\"",
+"short": "HG nr. 675/2022",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2022-05-24",
+"latest": "2022-05-24",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/255641"
+},
+{
 "slug": "hg-677-2022",
 "path": "hg/2022/677",
 "kind": "hg",
@@ -162114,6 +163287,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/255841"
 },
 {
+"slug": "hg-683-2022",
+"path": "hg/2022/683",
+"kind": "hg",
+"year": "2022",
+"number": "683",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 683/2022 privind suplimentarea pe anul 2022 a sumei prevăzute ca justă despăgubire aprobate prin Hotărârea Guvernului nr. 381/2009 privind declanşarea procedurilor de expropriere a imobilelor proprietate privată rămase de expropriat, situate pe amplasamentul lucrării de utilitate publică \"Construcţia autostrăzii Bucureşti-Braşov, tronsonul Bucureşti-Ploieşti\", precum şi modificarea anexei la Hotărârea Guvernului nr. 381/2009",
+"short": "HG nr. 683/2022",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2022-05-27",
+"latest": "2022-05-27",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/255747"
+},
+{
 "slug": "hg-685-2022",
 "path": "hg/2022/685",
 "kind": "hg",
@@ -162146,6 +163336,23 @@
 "from": "2022-05-28",
 "latest": "2022-06-05",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/255732"
+},
+{
+"slug": "hg-690-2022",
+"path": "hg/2022/690",
+"kind": "hg",
+"year": "2022",
+"number": "690",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 690/2022 pentru modificarea Hotărârii Guvernului nr. 416/2007 privind structura organizatorică şi efectivele Ministerului Afacerilor Interne",
+"short": "HG nr. 690/2022",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2022-05-30",
+"latest": "2022-05-30",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/255789"
 },
 {
 "slug": "hg-691-2022",
@@ -162214,6 +163421,23 @@
 "from": "2022-05-26",
 "latest": "2022-05-26",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/255740"
+},
+{
+"slug": "hg-696-2022",
+"path": "hg/2022/696",
+"kind": "hg",
+"year": "2022",
+"number": "696",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 696/2022 pentru modificarea Statutului Agenţiei Naţionale pentru Ocuparea Forţei de Muncă, aprobat prin Hotărârea Guvernului nr. 1.610/2006 , precum şi pentru reorganizarea activităţii de audit public intern de la nivelul Agenţiei Naţionale pentru Ocuparea Forţei de Muncă şi de la nivelul agenţiilor pentru ocuparea forţei de muncă judeţene şi a municipiului Bucureşti",
+"short": "HG nr. 696/2022",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2022-05-31",
+"latest": "2022-05-31",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/255824"
 },
 {
 "slug": "hg-697-2022",
@@ -162658,6 +163882,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/256023"
 },
 {
+"slug": "hg-739-2022",
+"path": "hg/2022/739",
+"kind": "hg",
+"year": "2022",
+"number": "739",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 739/2022 privind modificarea Hotărârii Guvernului nr. 181/2020 pentru aprobarea continuării finanţării din Fondul pentru mediu a lucrărilor de închidere a iazurilor de decantare din sectorul minier",
+"short": "HG nr. 739/2022",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2022-06-07",
+"latest": "2022-06-07",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/256003"
+},
+{
 "slug": "hg-740-2022",
 "path": "hg/2022/740",
 "kind": "hg",
@@ -162690,6 +163931,40 @@
 "from": "2022-06-09",
 "latest": "2022-06-09",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/256049"
+},
+{
+"slug": "hg-743-2022",
+"path": "hg/2022/743",
+"kind": "hg",
+"year": "2022",
+"number": "743",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 743/2022 pentru modificarea şi completarea unor acte normative privind documentele de şedere eliberate cetăţenilor Uniunii Europene şi membrilor de familie ai acestora, precum şi în domeniul străinilor",
+"short": "HG nr. 743/2022",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2022-06-07",
+"latest": "2022-06-07",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/256004"
+},
+{
+"slug": "hg-744-2022",
+"path": "hg/2022/744",
+"kind": "hg",
+"year": "2022",
+"number": "744",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 744/2022 privind modificarea anexei nr. 41 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului",
+"short": "HG nr. 744/2022",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2022-06-16",
+"latest": "2022-06-16",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/256460"
 },
 {
 "slug": "hg-747-2022",
@@ -163372,6 +164647,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/256888"
 },
 {
+"slug": "hg-801-2022",
+"path": "hg/2022/801",
+"kind": "hg",
+"year": "2022",
+"number": "801",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 801/2022 privind modificarea şi completarea anexei nr. 2 la Hotărârea Guvernului nr. 696/2021 pentru aprobarea pachetelor de servicii şi a Contractului-cadru care reglementează condiţiile acordării asistenţei medicale, a medicamentelor şi a dispozitivelor medicale, în cadrul sistemului de asigurări sociale de sănătate pentru anii 2021-2022",
+"short": "HG nr. 801/2022",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2022-07-01",
+"latest": "2022-07-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/256715"
+},
+{
 "slug": "hg-803-2022",
 "path": "hg/2022/803",
 "kind": "hg",
@@ -163421,6 +164713,40 @@
 "from": "2022-06-29",
 "latest": "2022-06-29",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/256847"
+},
+{
+"slug": "hg-807-2022",
+"path": "hg/2022/807",
+"kind": "hg",
+"year": "2022",
+"number": "807",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 807/2022 pentru modificarea anexei nr. 2 la Hotărârea Guvernului nr. 1.134/2020 privind declanşarea procedurilor de expropriere a tuturor imobilelor proprietate privată care constituie coridorul de expropriere al lucrării de utilitate publică de interes naţional \"Autostrada Sibiu-Piteşti\" - Secţiunea 5 Curtea de Argeş-Piteşti, aflate pe raza localităţilor Budeasa, Curtea de Argeş, Mălureni şi municipiul Piteşti, din judeţul Argeş",
+"short": "HG nr. 807/2022",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2022-06-29",
+"latest": "2022-06-29",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/256841"
+},
+{
+"slug": "hg-808-2022",
+"path": "hg/2022/808",
+"kind": "hg",
+"year": "2022",
+"number": "808",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 808/2022 pentru modificarea anexei nr. 2 la Hotărârea Guvernului nr. 250/2016 privind declanşarea procedurilor de expropriere a imobilelor proprietate privată situate pe amplasamentul suplimentar, care fac parte din coridorul de expropriere al lucrării de utilitate publică de interes naţional \"Varianta de ocolire a municipiului Braşov, Tronson II - DN 11 - DN 13\", pe raza localităţilor Sânpetru şi Braşov, din judeţul Braşov",
+"short": "HG nr. 808/2022",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2022-06-28",
+"latest": "2022-06-28",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/256796"
 },
 {
 "slug": "hg-809-2022",
@@ -163761,6 +165087,23 @@
 "from": "2022-06-29",
 "latest": "2022-06-29",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/256871"
+},
+{
+"slug": "hg-835-2022",
+"path": "hg/2022/835",
+"kind": "hg",
+"year": "2022",
+"number": "835",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 835/2022 pentru modificarea şi completarea Hotărârii Guvernului nr. 616/2015 privind aprobarea finanţării din bugetul Fondului pentru mediu a acţiunilor multianuale necesare programului \"Colectarea, prelucrarea şi crearea de mecanisme şi instrumente de promovare a datelor şi informaţiilor necesare întocmirii rapoartelor către Comisia Europeană, Agenţia Europeană de Mediu şi Secretariatele Convenţiilor internaţionale din domeniul protecţiei mediului\" desfăşurat în perioada 2015-2025",
+"short": "HG nr. 835/2022",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2022-07-05",
+"latest": "2022-07-05",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/257012"
 },
 {
 "slug": "hg-836-2022",
@@ -164662,6 +166005,23 @@
 "from": "2022-07-18",
 "latest": "2022-07-18",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/257608"
+},
+{
+"slug": "hg-906-2022",
+"path": "hg/2022/906",
+"kind": "hg",
+"year": "2022",
+"number": "906",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 906/2022 privind suplimentarea pe anul 2022 a sumei prevăzute ca justă despăgubire aprobate prin Hotărârea Guvernului nr. 496/2017 privind declanşarea procedurilor de expropriere a imobilelor proprietate privată care constituie coridorul de expropriere al lucrării de utilitate publică de interes naţional \"Legătura reţelei de metrou cu Aeroportul Internaţional Henri Coandă - Otopeni (Magistrala 6. 1 Mai-Otopeni)\", precum şi modificarea anexei nr. 2 la Hotărârea Guvernului nr. 496/2017",
+"short": "HG nr. 906/2022",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2022-07-19",
+"latest": "2022-07-19",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/257616"
 },
 {
 "slug": "hg-907-2022",
