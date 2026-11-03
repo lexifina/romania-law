@@ -107,3 +107,80 @@ Act id: `legea-114-1996` (tags `legea-114-1996/<day>`; `python tools/on.py <day>
 - Legea nr. 114/1996: the consolidator's notes printed inside an article ("*) NOTA C.T.C.E. S.A. Piatra-Neamţ:", quoting another act, with that act's lettered list) are not the act's text and are left out: 338 paragraphs and items across all forms.
 - Legea nr. 114/1996: articles already shown repealed that a later form prints again as "Abrogat" are typesetting, committed as the publisher's: 01.10.2011 art-006, 01.10.2011 art-070.
 - Legea nr. 114/1996: 120 changed article(s) with no note naming a law, committed as the publisher's: 2001-09-01 art-001, 2001-09-01 art-002, 2001-09-01 art-003, 2001-09-01 art-004, 2001-09-01 art-008, 2001-09-01 art-009, 2001-09-01 art-010, 2001-09-01 art-011, 2001-09-01 art-014, 2001-09-01 art-015, 2001-09-01 art-016, 2001-09-01 art-017, 2001-09-01 art-018, 2001-09-01 art-019, 2001-09-01 art-021, 2001-09-01 art-022, 2001-09-01 art-023, 2001-09-01 art-024, 2001-09-01 art-025, 2001-09-01 art-026, 2001-09-01 art-028, 2001-09-01 art-029, 2001-09-01 art-030, 2001-09-01 art-031, 2001-09-01 art-032, 2001-09-01 art-033, 2001-09-01 art-036, 2001-09-01 art-037, 2001-09-01 art-038, 2001-09-01 art-039, 2001-09-01 art-040, 2001-09-01 art-041, 2001-09-01 art-043, 2001-09-01 art-044, 2001-09-01 art-045, 2001-09-01 art-047, 2001-09-01 art-049, 2001-09-01 art-050, 2001-09-01 art-051, 2001-09-01 art-052, 2001-09-01 art-053, 2001-09-01 art-054, 2001-09-01 art-055, 2001-09-01 art-057, 2001-09-01 art-060, 2001-09-01 art-061, 2001-09-01 art-064, 2001-09-01 art-065, 2001-09-01 art-066, 2001-09-01 art-067, 2001-09-01 art-068, 2001-09-01 art-071, 2001-09-01 art-072, 2001-09-01 art-073, 2003-05-09 art-007, 2004-04-19 art-015, 2004-04-19 art-020, 2004-04-19 art-050, 2004-04-19 art-067, 2006-04-07 art-043, 2006-06-30 art-007, 2009-10-12 art-015, 2009-10-12 art-050, 2009-10-12 art-067, 2011-10-01 art-001, 2011-10-01 art-002, 2011-10-01 art-003, 2011-10-01 art-004, 2011-10-01 art-005, 2011-10-01 art-008, 2011-10-01 art-009, 2011-10-01 art-010, 2011-10-01 art-011, 2011-10-01 art-012, 2011-10-01 art-013, 2011-10-01 art-014, 2011-10-01 art-015, 2011-10-01 art-016, 2011-10-01 art-017, 2011-10-01 art-018, 2011-10-01 art-019, 2011-10-01 art-034, 2011-10-01 art-035, 2011-10-01 art-037, 2011-10-01 art-038, 2011-10-01 art-039, 2011-10-01 art-040, 2011-10-01 art-041, 2011-10-01 art-042, 2011-10-01 art-043, 2011-10-01 art-044, 2011-10-01 art-045, 2011-10-01 art-047, 2011-10-01 art-048, 2011-10-01 art-049, 2011-10-01 art-050, 2011-10-01 art-051, 2011-10-01 art-052, 2011-10-01 art-053, 2011-10-01 art-054, 2011-10-01 art-055, 2011-10-01 art-056, 2011-10-01 art-057, 2011-10-01 art-058, 2011-10-01 art-059, 2011-10-01 art-060, 2011-10-01 art-061, 2011-10-01 art-062, 2011-10-01 art-063, 2011-10-01 art-065, 2011-10-01 art-066, 2011-10-01 art-067, 2011-10-01 art-068, 2011-10-01 art-071, 2011-10-01 art-072, 2011-10-01 art-073, 2016-01-01 art-005, 2016-01-01 art-043, 2017-06-23 art-005, 2017-06-23 art-043.
+
+## Credits corrected
+
+These changes were first published credited to another law. The words are unchanged; `git blame` still names the commit that wrote them, and `data/credits.csv` lists every corrected credit.
+
+- `art-005.md`, in force from 2001-09-01: Legea nr. 285/2001 (first published as no law named).
+- `art-007.md`, in force from 2001-09-01: OUG nr. 22/2000 (first published as no law named).
+- `art-012.md`, in force from 2001-09-01: OUG nr. 127/1999 (first published as no law named).
+- `art-013.md`, in force from 2001-09-01: Legea nr. 145/1999 (first published as no law named).
+- `art-020.md`, in force from 2001-09-01: Legea nr. 330/2001 (first published as no law named).
+- `art-027.md`, in force from 2001-09-01: Legea nr. 145/1999 (first published as no law named).
+- `art-034.md`, in force from 2001-09-01: Legea nr. 145/1999 (first published as no law named).
+- `art-035.md`, in force from 2001-09-01: Legea nr. 145/1999 (first published as no law named).
+- `art-035-1.md`, in force from 2001-09-01: Legea nr. 145/1999 (first published as no law named).
+- `art-042.md`, in force from 2001-09-01: Legea nr. 145/1999 (first published as no law named).
+- `art-048.md`, in force from 2001-09-01: Legea nr. 145/1999 (first published as no law named).
+- `art-056.md`, in force from 2001-09-01: Legea nr. 145/1999 (first published as no law named).
+- `art-058.md`, in force from 2001-09-01: Legea nr. 145/1999 (first published as no law named).
+- `art-059.md`, in force from 2001-09-01: Legea nr. 145/1999 (first published as no law named).
+- `art-062.md`, in force from 2001-09-01: OG nr. 76/2001 (first published as no law named).
+- `art-063.md`, in force from 2001-09-01: OG nr. 7/2001 (first published as no law named).
+- `art-069.md`, in force from 2001-09-01: Legea nr. 145/1999 (first published as no law named).
+- `art-020.md`, in force from 2005-07-19: OUG nr. 42/2005 (first published as no law named).
+- `art-005-1.md`, in force from 2006-03-27: Legea nr. 62/2006 (first published as no law named).
+- `art-063.md`, in force from 2006-03-27: Legea nr. 62/2006 (first published as no law named).
+- `art-007.md`, in force from 2006-04-07: OUG nr. 22/2000 (first published as no law named).
+- `art-005-1.md`, in force from 2006-06-30: OUG nr. 51/2006 (first published as no law named).
+- `art-063.md`, in force from 2006-06-30: OUG nr. 51/2006 (first published as no law named).
+- `art-015.md`, in force from 2007-08-22: OUG nr. 24/2007 (first published as no law named).
+- `art-035.md`, in force from 2007-08-22: Legea nr. 230/2007 (first published as no law named).
+- `art-035-1.md`, in force from 2007-08-22: Legea nr. 230/2007 (first published as no law named).
+- `art-036.md`, in force from 2007-08-22: Legea nr. 230/2007 (first published as no law named).
+- `art-050.md`, in force from 2007-08-22: OUG nr. 24/2007 (first published as no law named).
+- `art-064.md`, in force from 2007-08-22: Legea nr. 230/2007 (first published as no law named).
+- `art-067.md`, in force from 2007-08-22: OUG nr. 24/2007 (first published as no law named).
+- `art-069.md`, in force from 2007-08-22: Legea nr. 230/2007 (first published as no law named).
+- `art-042.md`, in force from 2008-05-09: OUG nr. 57/2008 (first published as no law named).
+- `art-043.md`, in force from 2008-05-09: OUG nr. 57/2008 (first published as no law named).
+- `art-002.md`, in force from 2008-12-11: OUG nr. 210/2008 (first published as no law named).
+- `art-005.md`, in force from 2008-12-11: OUG nr. 210/2008 (first published as no law named).
+- `art-010-1.md`, in force from 2008-12-11: OUG nr. 210/2008 (first published as no law named).
+- `art-065-1.md`, in force from 2008-12-11: OUG nr. 210/2008 (first published as no law named).
+- `art-002.md`, in force from 2009-10-12: Legea nr. 310/2009 (first published as no law named).
+- `art-061-1.md`, in force from 2009-10-12: Legea nr. 310/2009 (first published as no law named).
+- `art-010-1.md`, in force from 2010-07-24: Legea nr. 170/2010 (first published as no law named).
+- `art-005-1.md`, in force from 2011-10-01: OUG nr. 51/2006 (first published as no law named).
+- `art-007.md`, in force from 2011-10-01: OUG nr. 22/2000 (first published as no law named).
+- `art-021.md`, in force from 2011-10-01: Legea nr. 71/2011 (first published as no law named).
+- `art-022.md`, in force from 2011-10-01: Legea nr. 71/2011 (first published as no law named).
+- `art-023.md`, in force from 2011-10-01: Legea nr. 71/2011 (first published as no law named).
+- `art-024.md`, in force from 2011-10-01: Legea nr. 71/2011 (first published as no law named).
+- `art-025.md`, in force from 2011-10-01: Legea nr. 71/2011 (first published as no law named).
+- `art-026.md`, in force from 2011-10-01: Legea nr. 71/2011 (first published as no law named).
+- `art-027.md`, in force from 2011-10-01: Legea nr. 71/2011 (first published as no law named).
+- `art-028.md`, in force from 2011-10-01: Legea nr. 71/2011 (first published as no law named).
+- `art-029.md`, in force from 2011-10-01: Legea nr. 71/2011 (first published as no law named).
+- `art-030.md`, in force from 2011-10-01: Legea nr. 71/2011 (first published as no law named).
+- `art-031.md`, in force from 2011-10-01: Legea nr. 71/2011 (first published as no law named).
+- `art-032.md`, in force from 2011-10-01: Legea nr. 71/2011 (first published as no law named).
+- `art-033.md`, in force from 2011-10-01: Legea nr. 71/2011 (first published as no law named).
+- `art-010.md`, in force from 2016-01-01: Legea nr. 227/2015 (first published as no law named).
+- `art-002.md`, in force from 2017-06-23: Legea nr. 143/2017 (first published as no law named).
+- `art-056-1.md`, in force from 2017-06-23: Legea nr. 143/2017 (first published as no law named).
+- `art-056-2.md`, in force from 2017-06-23: Legea nr. 143/2017 (first published as no law named).
+- `art-056-3.md`, in force from 2017-06-23: Legea nr. 143/2017 (first published as no law named).
+- `art-056-4.md`, in force from 2017-06-23: Legea nr. 143/2017 (first published as no law named).
+- `art-056-5.md`, in force from 2017-06-23: Legea nr. 143/2017 (first published as no law named).
+- `art-056-6.md`, in force from 2017-06-23: Legea nr. 143/2017 (first published as no law named).
+- `art-056-7.md`, in force from 2017-06-23: Legea nr. 143/2017 (first published as no law named).
+- `art-056-8.md`, in force from 2017-06-23: Legea nr. 143/2017 (first published as no law named).
+- `art-056-9.md`, in force from 2017-06-23: Legea nr. 143/2017 (first published as no law named).
+- `art-050.md`, in force from 2022-03-13: Legea nr. 45/2022 (first published as no law named).
+- `art-002.md`, in force from 2022-07-30: Legea nr. 253/2022 (first published as no law named).
+- `art-015-1.md`, in force from 2022-07-30: Legea nr. 253/2022 (first published as no law named).
+- `art-043.md`, in force from 2022-07-30: Legea nr. 253/2022 (first published as no law named).
+- `art-048.md`, in force from 2022-07-30: Legea nr. 253/2022 (first published as no law named).
+- `art-055.md`, in force from 2022-07-30: Legea nr. 253/2022 (first published as no law named).
