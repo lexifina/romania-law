@@ -1,6 +1,6 @@
 # Every act in this repository
 
-15509 acts, 29,133 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+15510 acts, 29,134 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -4925,7 +4925,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (10593, of which 4945 amending acts)
+## Government decisions (HG) (10594, of which 4946 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -11266,6 +11266,7 @@
 | Hotărârea Guvernului nr. 1170/2021 privind declanşarea procedurilor de expropriere a imobilului proprietate privată situat pe amplasamentul suplimentar, necesar pentru relocarea utilităţilor, care face parte din coridorul de expropriere al lucrării de utilitate publică "Modernizarea centurii rutiere a municipiului Bucureşti între A1-DN 7 şi DN 2-A2" | [`hg/2021/1170/`](hg/2021/1170/) | in force | 1 | 2021-11-02 | 2021-11-02 |
 | Hotărârea Guvernului nr. 1174/2021 privind modificarea şi completarea Normelor metodologice pentru punerea în aplicare a prevederilor Legii nr. 152/1998 privind înfiinţarea Agenţiei Naţionale pentru Locuinţe, aprobate prin Hotărârea Guvernului nr. 962/2001 | [`hg/2021/1174/`](hg/2021/1174/) | amending act | 1 | 2021-11-01 | 2021-11-01 |
 | Hotărârea Guvernului nr. 1175/2021 privind aprobarea închirierii unei părţi din imobilul 307 aflat în domeniul public al statului şi în administrarea Ministerului Apărării Naţionale | [`hg/2021/1175/`](hg/2021/1175/) | amending act | 1 | 2021-11-05 | 2021-11-05 |
+| Hotărârea Guvernului nr. 1178/2021 privind aprobarea stemei comunei Mihai Viteazu, judeţul Cluj | [`hg/2021/1178/`](hg/2021/1178/) | amending act | 1 | 2021-11-11 | 2021-11-11 |
 | Hotărârea Guvernului nr. 1180/2021 privind aprobarea stemei comunei Arcani, judeţul Gorj | [`hg/2021/1180/`](hg/2021/1180/) | amending act | 1 | 2021-11-11 | 2021-11-11 |
 | Hotărârea Guvernului nr. 1181/2021 pentru aprobarea indicatorilor tehnico-economici ai obiectivului de investiții "Reabilitare, modernizare, extindere, construire și dotare Spitalul Clinic de Urgență «Prof. dr. Agrippa Ionescu», str. I. C. Brătianu nr. 149, satul Balotești, comuna Balotești, județul Ilfov" | [`hg/2021/1181/`](hg/2021/1181/) | amending act | 1 | 2021-11-04 | 2021-11-04 |
 | Hotărârea Guvernului nr. 1182/2021 privind actualizarea valorii de inventar a unor bunuri imobile aflate în domeniul public al statului şi în administrarea Oficiului de Cadastru şi Publicitate Imobiliară Mehedinţi | [`hg/2021/1182/`](hg/2021/1182/) | in force | 1 | 2021-11-10 | 2021-11-10 |
