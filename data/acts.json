@@ -1345,6 +1345,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/3915"
 },
 {
+"slug": "legea-16-1994",
+"path": "lege/1994/16",
+"kind": "lege",
+"year": "1994",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 16/1994",
+"short": "Legea nr. 16/1994",
+"code": null,
+"status": "in force",
+"versions": 6,
+"from": "1994-04-07",
+"latest": "2006-06-11",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/3924"
+},
+{
 "slug": "legea-31-1994",
 "path": "lege/1994/31",
 "kind": "lege",
@@ -6579,6 +6596,23 @@
 "from": "2004-06-24",
 "latest": "2024-11-23",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/52646"
+},
+{
+"slug": "legea-206-2004",
+"path": "lege/2004/206",
+"kind": "lege",
+"year": "2004",
+"number": "206",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 206/2004",
+"short": "Legea nr. 206/2004",
+"code": null,
+"status": "in force",
+"versions": 4,
+"from": "2004-08-03",
+"latest": "2016-01-28",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/52457"
 },
 {
 "slug": "legea-211-2004",
@@ -29871,6 +29905,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/23161"
 },
 {
+"slug": "oug-94-2000",
+"path": "oug/2000/94",
+"kind": "oug",
+"year": "2000",
+"number": "94",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 94/2000",
+"short": "OUG nr. 94/2000",
+"code": null,
+"status": "in force",
+"versions": 12,
+"from": "2000-09-02",
+"latest": "2020-03-21",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/23139"
+},
+{
 "slug": "oug-99-2000",
 "path": "oug/2000/99",
 "kind": "oug",
@@ -29954,6 +30005,23 @@
 "from": "2000-07-11",
 "latest": "2000-07-11",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/23251"
+},
+{
+"slug": "oug-116-2000",
+"path": "oug/2000/116",
+"kind": "oug",
+"year": "2000",
+"number": "116",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 116/2000",
+"short": "OUG nr. 116/2000",
+"code": null,
+"status": "in force",
+"versions": 2,
+"from": "2000-07-05",
+"latest": "2000-07-09",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/213077"
 },
 {
 "slug": "oug-131-2000",
@@ -33558,6 +33626,23 @@
 "from": "2006-09-18",
 "latest": "2007-01-13",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/206889"
+},
+{
+"slug": "oug-63-2006",
+"path": "oug/2006/63",
+"kind": "oug",
+"year": "2006",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 63/2006",
+"short": "OUG nr. 63/2006",
+"code": null,
+"status": "in force",
+"versions": 3,
+"from": "2006-09-20",
+"latest": "2007-01-20",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/215218"
 },
 {
 "slug": "oug-68-2006",
@@ -38437,6 +38522,23 @@
 "from": "2012-01-01",
 "latest": "2012-10-14",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/134179"
+},
+{
+"slug": "oug-125-2011",
+"path": "oug/2011/125",
+"kind": "oug",
+"year": "2011",
+"number": "125",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 125/2011 pentru modificarea și completarea Legii nr. 571/2003 privind Codul fiscal",
+"short": "OUG nr. 125/2011",
+"code": null,
+"status": "amending act",
+"versions": 2,
+"from": "2011-12-30",
+"latest": "2013-06-28",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/149573"
 },
 {
 "slug": "oug-8-2012",

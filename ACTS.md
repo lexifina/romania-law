@@ -1,6 +1,6 @@
 # Every act in this repository
 
-5873 acts, 16,494 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+5879 acts, 16,523 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -32,7 +32,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (1707, of which 637 amending acts)
+## Laws (legi) (1709, of which 637 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -114,6 +114,7 @@
 | Legea nr. 84/1993 | [`lege/1993/84/`](lege/1993/84/) | in force | 1 | 1993-12-15 | 1993-12-15 |
 | Legea nr. 10/1994 | [`lege/1994/10/`](lege/1994/10/) | in force | 1 | 1994-03-11 | 1994-03-11 |
 | Legea nr. 15/1994 | [`lege/1994/15/`](lege/1994/15/) | in force | 5 | 1994-03-29 | 2003-08-31 |
+| Legea nr. 16/1994 | [`lege/1994/16/`](lege/1994/16/) | in force | 6 | 1994-04-07 | 2006-06-11 |
 | Legea nr. 31/1994 pentru aderarea României la Acordul european referitor la transportul rutier internațional al mărfurilor periculoase (A.D.R.), încheiat la Geneva la 30 septembrie 1957 | [`lege/1994/31/`](lege/1994/31/) | in force | 1 | 1994-05-31 | 1994-05-31 |
 | Legea nr. 32/1994 | [`lege/1994/32/`](lege/1994/32/) | in force | 7 | 1994-06-01 | 2018-09-03 |
 | Legea nr. 33/1994 privind exproprierea pentru cauză de utilitate publică | [`lege/1994/33/`](lege/1994/33/) | in force | 3 | 1994-06-02 | 2020-11-16 |
@@ -422,6 +423,7 @@
 | Legea nr. 190/2004 | [`lege/2004/190/`](lege/2004/190/) | in force | 4 | 2004-05-29 | 2005-04-08 |
 | Legea nr. 200/2004 | [`lege/2004/200/`](lege/2004/200/) | in force | 9 | 2004-06-06 | 2024-10-14 |
 | Legea nr. 205/2004 | [`lege/2004/205/`](lege/2004/205/) | in force | 8 | 2004-06-24 | 2024-11-23 |
+| Legea nr. 206/2004 | [`lege/2004/206/`](lege/2004/206/) | in force | 4 | 2004-08-03 | 2016-01-28 |
 | Legea nr. 211/2004 privind unele măsuri pentru asigurarea protecției victimelor infracțiunilor | [`lege/2004/211/`](lege/2004/211/) | in force | 8 | 2005-01-01 | 2024-11-08 |
 | Legea nr. 213/2004 privind exercitarea profesiei de psiholog cu drept de liberă practică, înființarea, organizarea și funcționarea Colegiului Psihologilor din România | [`lege/2004/213/`](lege/2004/213/) | in force | 3 | 2004-07-01 | 2023-07-14 |
 | Legea nr. 215/2004 | [`lege/2004/215/`](lege/2004/215/) | in force | 13 | 2004-06-17 | 2013-04-01 |
@@ -1744,7 +1746,7 @@
 | Legea nr. 241/2025 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 31/2002 privind interzicerea organizațiilor, simbolurilor și faptelor cu caracter fascist, legionar, rasist sau xenofob și a promovării cultului persoanelor vinovate de săvârșirea unor infracțiuni de genocid contra umanității și de crime de război, precum și pentru modificarea Legii nr. 157/2018 privind unele măsuri pentru prevenirea și combaterea antisemitismului | [`lege/2025/241/`](lege/2025/241/) | amending act | 1 | 2025-12-27 | 2025-12-27 |
 | Legea nr. 245/2025 pentru modificarea art. 32 alin. (7) din Legea nr. 273/2006 privind finanțele publice locale | [`lege/2025/245/`](lege/2025/245/) | amending act | 1 | 2026-01-01 | 2026-01-01 |
 
-## Emergency ordinances (OUG) (1414, of which 512 amending acts)
+## Emergency ordinances (OUG) (1418, of which 513 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -1797,11 +1799,13 @@
 | Ordonanța de urgență a Guvernului nr. 82/2000 | [`oug/2000/82/`](oug/2000/82/) | in force | 2 | 2000-06-28 | 2002-06-18 |
 | Ordonanța de urgență a Guvernului nr. 83/2000 | [`oug/2000/83/`](oug/2000/83/) | in force | 5 | 2000-06-27 | 2025-08-16 |
 | Ordonanța de urgență a Guvernului nr. 88/2000 | [`oug/2000/88/`](oug/2000/88/) | in force | 1 | 2000-07-06 | 2000-07-06 |
+| Ordonanța de urgență a Guvernului nr. 94/2000 | [`oug/2000/94/`](oug/2000/94/) | in force | 12 | 2000-09-02 | 2020-03-21 |
 | Ordonanța de urgență a Guvernului nr. 99/2000 | [`oug/2000/99/`](oug/2000/99/) | in force | 1 | 2000-07-04 | 2000-07-04 |
 | Ordonanța de urgență a Guvernului nr. 101/2000 pentru modificarea și completarea anexei la Ordonanța de urgenta a Guvernului nr. 21/1997 privind restituirea unor bunuri imobile care au aparținut comunităților evreiesti din România, respectiv a anexei la Ordonanța de urgenta a Guvernului nr. 83/1999 privind restituirea unor bunuri imobile care au aparținut comunităților cetățenilor aparținând minorităților naționale din România | [`oug/2000/101/`](oug/2000/101/) | amending act | 2 | 2000-07-05 | 2004-07-25 |
 | Ordonanța de urgență a Guvernului nr. 103/2000 privind decoratia "Crucea Comemorativa a Rezistentei Anticomuniste" | [`oug/2000/103/`](oug/2000/103/) | in force | 2 | 2000-07-07 | 2002-01-18 |
 | Ordonanța de urgență a Guvernului nr. 105/2000 privind reinstituirea Ordinului, Crucii și Medaliei Naționale Serviciul Credincios | [`oug/2000/105/`](oug/2000/105/) | in force | 1 | 2000-07-10 | 2000-07-10 |
 | Ordonanța de urgență a Guvernului nr. 106/2000 | [`oug/2000/106/`](oug/2000/106/) | in force | 1 | 2000-07-11 | 2000-07-11 |
+| Ordonanța de urgență a Guvernului nr. 116/2000 | [`oug/2000/116/`](oug/2000/116/) | in force | 2 | 2000-07-05 | 2000-07-09 |
 | Ordonanța de urgență a Guvernului nr. 131/2000 | [`oug/2000/131/`](oug/2000/131/) | in force | 4 | 2000-07-06 | 2004-04-09 |
 | Ordonanța de urgență a Guvernului nr. 171/2000 | [`oug/2000/171/`](oug/2000/171/) | in force | 1 | 2000-10-27 | 2000-10-27 |
 | Ordonanța de urgență a Guvernului nr. 199/2000 | [`oug/2000/199/`](oug/2000/199/) | in force | 13 | 2000-11-20 | 2024-07-29 |
@@ -2014,6 +2018,7 @@
 | Ordonanța de urgență a Guvernului nr. 55/2006 | [`oug/2006/55/`](oug/2006/55/) | in force | 2 | 2006-09-18 | 2007-04-22 |
 | Ordonanța de urgență a Guvernului nr. 56/2006 | [`oug/2006/56/`](oug/2006/56/) | in force | 2 | 2006-09-08 | 2007-01-11 |
 | Ordonanța de urgență a Guvernului nr. 62/2006 | [`oug/2006/62/`](oug/2006/62/) | in force | 2 | 2006-09-18 | 2007-01-13 |
+| Ordonanța de urgență a Guvernului nr. 63/2006 | [`oug/2006/63/`](oug/2006/63/) | in force | 3 | 2006-09-20 | 2007-01-20 |
 | Ordonanța de urgență a Guvernului nr. 68/2006 | [`oug/2006/68/`](oug/2006/68/) | in force | 1 | 2006-09-18 | 2006-09-18 |
 | Ordonanța de urgență a Guvernului nr. 71/2006 | [`oug/2006/71/`](oug/2006/71/) | in force | 2 | 2006-09-22 | 2006-12-24 |
 | Ordonanța de urgență a Guvernului nr. 72/2006 | [`oug/2006/72/`](oug/2006/72/) | in force | 2 | 2006-09-25 | 2007-01-21 |
@@ -2301,6 +2306,7 @@
 | Ordonanța de urgență a Guvernului nr. 121/2011 | [`oug/2011/121/`](oug/2011/121/) | in force | 2 | 2011-12-29 | 2013-05-02 |
 | Ordonanța de urgență a Guvernului nr. 122/2011 | [`oug/2011/122/`](oug/2011/122/) | in force | 1 | 2011-12-29 | 2011-12-29 |
 | Ordonanța de urgență a Guvernului nr. 124/2011 | [`oug/2011/124/`](oug/2011/124/) | in force | 2 | 2012-01-01 | 2012-10-14 |
+| Ordonanța de urgență a Guvernului nr. 125/2011 pentru modificarea și completarea Legii nr. 571/2003 privind Codul fiscal | [`oug/2011/125/`](oug/2011/125/) | amending act | 2 | 2011-12-30 | 2013-06-28 |
 | Ordonanța de urgență a Guvernului nr. 8/2012 | [`oug/2012/8/`](oug/2012/8/) | in force | 1 | 2012-04-04 | 2012-04-04 |
 | Ordonanța de urgență a Guvernului nr. 11/2012 | [`oug/2012/11/`](oug/2012/11/) | in force | 2 | 2012-04-18 | 2013-06-25 |
 | Ordonanța de urgență a Guvernului nr. 15/2012 | [`oug/2012/15/`](oug/2012/15/) | in force | 2 | 2012-05-08 | 2012-05-10 |
