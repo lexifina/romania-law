@@ -42,3 +42,26 @@ Act id: `legea-289-2004` (tags `legea-289-2004/<day>`; `python tools/on.py <day>
 - Legea nr. 289/2004: the form of 31 December 2007 differs from the earlier form in diacritics and punctuation (portal typesetting: not an amendment; the printed text is kept and no law is credited, as for the other portal typesetting in this record).
 - Legea nr. 289/2004: the portal editorial notes printed as paragraphs of an article (on a Constitutional Court ruling, a rectification, a provision put back in force) are not text: 2 such paragraphs across all forms, for example «* A se vedea Ordinul guvernatorului Băncii Naționale a Român», «* A se vedea art. 25 alin. (3) din prezenta formă republicat».
 - Legea nr. 289/2004: 17 changed article(s) with no note naming a law, committed as the publisher's: 2007-12-31 art-003, 2007-12-31 art-004, 2007-12-31 art-005, 2007-12-31 art-006, 2007-12-31 art-008, 2007-12-31 art-009, 2007-12-31 art-010, 2007-12-31 art-011, 2007-12-31 art-012, 2007-12-31 art-013, 2007-12-31 art-014, 2007-12-31 art-015, 2007-12-31 art-016, 2007-12-31 art-017, 2007-12-31 art-020, 2007-12-31 art-021, 2007-12-31 art-022.
+
+## Credits corrected
+
+These changes were first published credited to another law. The words are unchanged; `git blame` still names the commit that wrote them, and `data/credits.csv` lists every corrected credit.
+
+- `art-002.md`, in force from 2008-04-23: Legea nr. 363/2007 (first published as no law named).
+- `art-003.md`, in force from 2008-04-23: Legea nr. 363/2007 (first published as no law named).
+- `art-004.md`, in force from 2008-04-23: Legea nr. 363/2007 (first published as no law named).
+- `art-012.md`, in force from 2008-04-23: Legea nr. 363/2007 (first published as no law named).
+- `art-013.md`, in force from 2008-04-23: Legea nr. 363/2007 (first published as no law named).
+- `art-013-1.md`, in force from 2008-04-23: Legea nr. 363/2007 (first published as no law named).
+- `art-014.md`, in force from 2008-04-23: Legea nr. 363/2007 (first published as no law named).
+- `art-015.md`, in force from 2008-04-23: Legea nr. 363/2007 (first published as no law named).
+- `art-016.md`, in force from 2008-04-23: Legea nr. 363/2007 (first published as no law named).
+- `art-017.md`, in force from 2008-04-23: Legea nr. 363/2007 (first published as no law named).
+- `art-018.md`, in force from 2008-04-23: Legea nr. 363/2007 (first published as no law named).
+- `art-019.md`, in force from 2008-04-23: Legea nr. 363/2007 (first published as no law named).
+- `art-020.md`, in force from 2008-04-23: Legea nr. 363/2007 (first published as no law named).
+- `art-021.md`, in force from 2008-04-23: Legea nr. 363/2007 (first published as no law named).
+- `art-022.md`, in force from 2008-04-23: Legea nr. 363/2007 (first published as no law named).
+- `art-023.md`, in force from 2008-04-23: Legea nr. 363/2007 (first published as no law named).
+- `art-024.md`, in force from 2008-04-23: Legea nr. 363/2007 (first published as no law named).
+- `art-025.md`, in force from 2008-04-23: Legea nr. 363/2007 (first published as no law named).
