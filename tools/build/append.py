@@ -462,6 +462,9 @@ def append(folder: Path, repo: Path, docs_date: str, dry_run: bool = False, comm
             w.tag(name, mark)
     w.finish()
     git(repo, '-c', 'checkout.workers=0', 'checkout', '-q', '-f', 'main')
+    # fast-import writes each new tag as a loose file; tens of thousands of them made every `git tag --list` take
+    # seconds. Packing the new ones each run keeps it cheap (local refs only; nothing published changes).
+    git(repo, 'pack-refs', '--all')
     new_head = git(repo, 'rev-parse', 'main').strip()
     if subprocess.run(['git', 'merge-base', '--is-ancestor', head, new_head], cwd=repo).returncode:
         raise B.CorpusError('internal: the published head is not an ancestor of the new main')

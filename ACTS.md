@@ -1,6 +1,6 @@
 # Every act in this repository
 
-5324 acts, 14,312 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+5327 acts, 14,328 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -32,7 +32,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (1518, of which 608 amending acts)
+## Laws (legi) (1520, of which 608 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -306,6 +306,7 @@
 | Legea nr. 271/2003 | [`lege/2003/271/`](lege/2003/271/) | in force | 1 | 2003-07-01 | 2003-07-01 |
 | Legea nr. 280/2003 | [`lege/2003/280/`](lege/2003/280/) | in force | 1 | 2003-06-26 | 2003-06-26 |
 | Legea nr. 285/2003 | [`lege/2003/285/`](lege/2003/285/) | in force | 1 | 2003-07-02 | 2003-07-02 |
+| Legea nr. 290/2003 | [`lege/2003/290/`](lege/2003/290/) | in force | 9 | 2003-08-13 | 2023-07-03 |
 | Legea nr. 311/2003 muzeelor și a colecțiilor publice | [`lege/2003/311/`](lege/2003/311/) | in force | 1 | 2014-03-24 | 2014-03-24 |
 | Legea nr. 329/2003 privind exercitarea profesiei de detectiv particular*) | [`lege/2003/329/`](lege/2003/329/) | in force | 1 | 2014-03-12 | 2014-03-12 |
 | Legea nr. 333/2003 | [`lege/2003/333/`](lege/2003/333/) | in force | 9 | 2003-10-20 | 2022-09-03 |
@@ -772,6 +773,7 @@
 | Legea nr. 318/2015 pentru înființarea, organizarea și funcționarea Agenției Naționale de Administrare a Bunurilor Indisponibilizate și pentru modificarea și completarea unor acte normative | [`lege/2015/318/`](lege/2015/318/) | amending act | 4 | 2015-12-27 | 2023-07-14 |
 | Legea nr. 336/2015 | [`lege/2015/336/`](lege/2015/336/) | in force | 1 | 2015-12-26 | 2015-12-26 |
 | Legea nr. 344/2015 | [`lege/2015/344/`](lege/2015/344/) | in force | 1 | 2015-12-31 | 2015-12-31 |
+| Legea nr. 352/2015 pentru modificarea și completarea Ordonanței Guvernului nr. 26/2011 privind înființarea Inspectoratului de Stat pentru Controlul în Transportul Rutier | [`lege/2015/352/`](lege/2015/352/) | repealed 2023-03-30 | 2 | 2023-01-01 | 2023-03-30 |
 | Legea nr. 7/2016 pentru modificarea și completarea Legii nr. 94/1992 privind organizarea și funcționarea Curții de Conturi | [`lege/2016/7/`](lege/2016/7/) | amending act | 1 | 2016-03-19 | 2016-03-19 |
 | Legea nr. 8/2016 | [`lege/2016/8/`](lege/2016/8/) | in force | 4 | 2016-01-24 | 2023-01-09 |
 | Legea nr. 11/2016 | [`lege/2016/11/`](lege/2016/11/) | in force | 1 | 2016-01-24 | 2016-01-24 |
@@ -1555,7 +1557,7 @@
 | Legea nr. 241/2025 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 31/2002 privind interzicerea organizațiilor, simbolurilor și faptelor cu caracter fascist, legionar, rasist sau xenofob și a promovării cultului persoanelor vinovate de săvârșirea unor infracțiuni de genocid contra umanității și de crime de război, precum și pentru modificarea Legii nr. 157/2018 privind unele măsuri pentru prevenirea și combaterea antisemitismului | [`lege/2025/241/`](lege/2025/241/) | amending act | 1 | 2025-12-27 | 2025-12-27 |
 | Legea nr. 245/2025 pentru modificarea art. 32 alin. (7) din Legea nr. 273/2006 privind finanțele publice locale | [`lege/2025/245/`](lege/2025/245/) | amending act | 1 | 2026-01-01 | 2026-01-01 |
 
-## Emergency ordinances (OUG) (1189, of which 478 amending acts)
+## Emergency ordinances (OUG) (1190, of which 478 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -2071,6 +2073,7 @@
 | Ordonanța de urgență a Guvernului nr. 79/2014 | [`oug/2014/79/`](oug/2014/79/) | in force | 2 | 2015-01-01 | 2015-06-05 |
 | Ordonanța de urgență a Guvernului nr. 82/2014 pentru modificarea și completarea Legii nr. 135/2010 privind Codul de procedură penală | [`oug/2014/82/`](oug/2014/82/) | amending act | 2 | 2014-12-15 | 2016-05-02 |
 | Ordonanța de urgență a Guvernului nr. 5/2015 | [`oug/2015/5/`](oug/2015/5/) | in force | 7 | 2015-04-26 | 2024-12-03 |
+| Ordonanța de urgență a Guvernului nr. 18/2015 | [`oug/2015/18/`](oug/2015/18/) | in force | 5 | 2015-06-15 | 2019-08-02 |
 | Ordonanța de urgență a Guvernului nr. 35/2015 | [`oug/2015/35/`](oug/2015/35/) | in force | 2 | 2015-09-02 | 2015-11-28 |
 | Ordonanța de urgență a Guvernului nr. 40/2015 | [`oug/2015/40/`](oug/2015/40/) | in force | 30 | 2015-10-06 | 2024-03-29 |
 | Ordonanța de urgență a Guvernului nr. 42/2015 | [`oug/2015/42/`](oug/2015/42/) | in force | 2 | 2015-10-14 | 2018-11-10 |

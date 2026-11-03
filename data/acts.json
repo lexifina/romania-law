@@ -4609,6 +4609,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/44774"
 },
 {
+"slug": "legea-290-2003",
+"path": "lege/2003/290",
+"kind": "lege",
+"year": "2003",
+"number": "290",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 290/2003",
+"short": "Legea nr. 290/2003",
+"code": null,
+"status": "in force",
+"versions": 9,
+"from": "2003-08-13",
+"latest": "2023-07-03",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/44931"
+},
+{
 "slug": "legea-311-2003",
 "path": "lege/2003/311",
 "kind": "lege",
@@ -12529,6 +12546,23 @@
 "from": "2015-12-31",
 "latest": "2015-12-31",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/174358"
+},
+{
+"slug": "legea-352-2015",
+"path": "lege/2015/352",
+"kind": "lege",
+"year": "2015",
+"number": "352",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 352/2015 pentru modificarea și completarea Ordonanței Guvernului nr. 26/2011 privind înființarea Inspectoratului de Stat pentru Controlul în Transportul Rutier",
+"short": "Legea nr. 352/2015",
+"code": null,
+"status": "repealed 2023-03-30",
+"versions": 2,
+"from": "2023-01-01",
+"latest": "2023-03-30",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/300047"
 },
 {
 "slug": "legea-7-2016",
@@ -34527,6 +34561,23 @@
 "from": "2015-04-26",
 "latest": "2024-12-03",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/167211"
+},
+{
+"slug": "oug-18-2015",
+"path": "oug/2015/18",
+"kind": "oug",
+"year": "2015",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 18/2015",
+"short": "OUG nr. 18/2015",
+"code": null,
+"status": "in force",
+"versions": 5,
+"from": "2015-06-15",
+"latest": "2019-08-02",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/168825"
 },
 {
 "slug": "oug-35-2015",
