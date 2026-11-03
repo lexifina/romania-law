@@ -19487,6 +19487,69 @@
    ]
   },
   {
+   "slug": "legea-333-2003",
+   "path": "lege/2003/333",
+   "short": "Legea nr. 333/2003",
+   "title": "Legea nr. 333/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/45134",
+   "versions": [
+    {
+     "from": "2003-10-20",
+     "units": 72,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/45134",
+     "sha256": "33e44af829128798359cee2fbeec8792463cb0f7f7a9625218f9838f603289cc"
+    },
+    {
+     "from": "2005-03-10",
+     "units": 72,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/60125",
+     "sha256": "de16decd5595fe71b6ea85152bf87ddc034b58405a917308b8573bfa269738e9"
+    },
+    {
+     "from": "2007-01-20",
+     "units": 71,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/79105",
+     "sha256": "1ca07fa1e54fbd3f151a34dd61aed379fef039b876048506cd3253de9db86ea2"
+    },
+    {
+     "from": "2010-03-12",
+     "units": 73,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/117017",
+     "sha256": "919086fcae65f9572a643b7f1252acc60b96c0406f7af526aafca772303e09c3"
+    },
+    {
+     "from": "2014-02-01",
+     "units": 73,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142855",
+     "sha256": "535762fe70918181cc5830a0a0146bb0d04910a93d2684fefd7222774bda5f91"
+    },
+    {
+     "from": "2014-03-18",
+     "units": 70,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/156432",
+     "sha256": "beaba7a3f97fd192483a2632f63b8f2051bc24c7a6bf005ba5ffd580adabe144"
+    },
+    {
+     "from": "2015-03-29",
+     "units": 70,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166720",
+     "sha256": "d401aa39c6c6fdd14d637b9d8bc8fb906dcc5a0ab73e6b2cf4e57585a5567207"
+    },
+    {
+     "from": "2015-12-01",
+     "units": 70,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172774",
+     "sha256": "4a5980cc1994c99d45cdce0dc319881740e345cea4d977ec7f337d31386d7e3f"
+    },
+    {
+     "from": "2022-09-03",
+     "units": 70,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/258158",
+     "sha256": "3c7d768435802e04a4b038822fd0aa631a58cd095c4ceda52810ac972c4f6600"
+    }
+   ]
+  },
+  {
    "slug": "legea-334-2006",
    "path": "lege/2006/334",
    "short": "Legea nr. 334/2006",
@@ -29036,6 +29099,69 @@
    ]
   },
   {
+   "slug": "og-36-2006",
+   "path": "og/2006/36",
+   "short": "OG nr. 36/2006",
+   "title": "Ordonanța Guvernului nr. 36/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/74247",
+   "versions": [
+    {
+     "from": "2006-09-01",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/74247",
+     "sha256": "818420ab6c4599cbe8e89856ac1092918f085b58dd58fdfdf75976ee8316125a"
+    },
+    {
+     "from": "2006-12-30",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/103511",
+     "sha256": "2439c28eb611b6f3a0501c02b089e2ed753a6c60a5c83aab66bda64f38ff6564"
+    },
+    {
+     "from": "2007-01-01",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/103511",
+     "sha256": "2439c28eb611b6f3a0501c02b089e2ed753a6c60a5c83aab66bda64f38ff6564"
+    },
+    {
+     "from": "2009-08-31",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/111075",
+     "sha256": "dc59bb07c611c856139118cc3bf439db3cc2d7d18068ae20d8bb9789f5d7a977"
+    },
+    {
+     "from": "2010-03-27",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/117704",
+     "sha256": "742fb0a92e01b8a0ca4633fd3412a6f3fd9fb3a151685b928958a1ca2bcb902c"
+    },
+    {
+     "from": "2011-10-01",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/131269",
+     "sha256": "4c9d6d8ac76258d46385c7d6f8160784e530472caaea505bbc8261ccd1bf5668"
+    },
+    {
+     "from": "2012-10-10",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/141937",
+     "sha256": "081e906c8f4f5a4735d6812fa1447ce7dd665456668800d7c6daf1d98e530475"
+    },
+    {
+     "from": "2016-10-12",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182532",
+     "sha256": "795f59eec4faffc5b9485f47e7edc27cf99790efc038083770eac668a17ccbda"
+    },
+    {
+     "from": "2022-11-17",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/74247",
+     "sha256": "93f195885c029942ab5817ba96526e34cd3ac6b66091ad5e2c5838bd04b9fb3e"
+    }
+   ]
+  },
+  {
    "slug": "og-37-2022",
    "path": "og/2022/37",
    "short": "OG nr. 37/2022",
@@ -35365,6 +35491,51 @@
      "units": 15,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/291561",
      "sha256": "9af28f67c1c5918feed7c24de582d3c393fa9e822fe445b2ad5105e9bfa2398b"
+    }
+   ]
+  },
+  {
+   "slug": "oug-43-2007",
+   "path": "oug/2007/43",
+   "short": "OUG nr. 43/2007",
+   "title": "Ordonanța de urgență a Guvernului nr. 43/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/83244",
+   "versions": [
+    {
+     "from": "2007-06-28",
+     "units": 76,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/83244",
+     "sha256": "fd6c09b6d1c985bb9a80ff39ad7f3e0c7da1a4387f787b03fa5226d843552e0b"
+    },
+    {
+     "from": "2007-08-27",
+     "units": 76,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/83244",
+     "sha256": "fd6c09b6d1c985bb9a80ff39ad7f3e0c7da1a4387f787b03fa5226d843552e0b"
+    },
+    {
+     "from": "2009-07-11",
+     "units": 76,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/109864",
+     "sha256": "b0d6d917fd3232c1f605aa8209941f7f99bbdbaa55962874db49f2932ad409b2"
+    },
+    {
+     "from": "2020-01-30",
+     "units": 83,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/222228",
+     "sha256": "6e847e8e5d4d4289427e83b42ede5f7fbd6d0204c5f493a853bebe440ddeefcc"
+    },
+    {
+     "from": "2020-03-01",
+     "units": 83,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/223965",
+     "sha256": "c0c1f106543d66bcf3534202e7d6a3e7d6aa6c6c8a19a92aa3b6339ee9d12f38"
+    },
+    {
+     "from": "2023-06-01",
+     "units": 83,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/267794",
+     "sha256": "462f3545c79d4da878af373922619620d1d38f0c26b11776c8a211be6d7922ab"
     }
    ]
   },

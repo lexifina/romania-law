@@ -1515,6 +1515,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/269504"
 },
 {
+"slug": "legea-333-2003",
+"path": "lege/2003/333",
+"kind": "lege",
+"year": "2003",
+"number": "333",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 333/2003",
+"short": "Legea nr. 333/2003",
+"code": null,
+"status": "in force",
+"versions": 9,
+"from": "2003-10-20",
+"latest": "2022-09-03",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/45134"
+},
+{
 "slug": "legea-356-2003",
 "path": "lege/2003/356",
 "kind": "lege",
@@ -12752,6 +12769,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/81819"
 },
 {
+"slug": "oug-43-2007",
+"path": "oug/2007/43",
+"kind": "oug",
+"year": "2007",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 43/2007",
+"short": "OUG nr. 43/2007",
+"code": null,
+"status": "in force",
+"versions": 6,
+"from": "2007-06-28",
+"latest": "2023-06-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/83244"
+},
+{
 "slug": "oug-64-2007",
 "path": "oug/2007/64",
 "kind": "oug",
@@ -21590,6 +21624,23 @@
 "from": "2004-02-03",
 "latest": "2026-01-01",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/49511"
+},
+{
+"slug": "og-36-2006",
+"path": "og/2006/36",
+"kind": "og",
+"year": "2006",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța Guvernului nr. 36/2006",
+"short": "OG nr. 36/2006",
+"code": null,
+"status": "in force",
+"versions": 9,
+"from": "2006-09-01",
+"latest": "2022-11-17",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/74247"
 },
 {
 "slug": "og-40-2006",

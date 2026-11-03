@@ -1,6 +1,6 @@
 # Every act in this repository
 
-1785 acts, 8,048 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+1788 acts, 8,072 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -32,7 +32,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (717, of which 381 amending acts)
+## Laws (legi) (718, of which 381 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -124,6 +124,7 @@
 | Legea nr. 161/2003 privind unele măsuri pentru asigurarea transparenței în exercitarea demnităților publice, a funcțiilor publice și în mediul de afaceri, prevenirea și sancționarea corupției | [`lege/2003/161/`](lege/2003/161/) | in force | 22 | 2003-04-21 | 2023-05-29 |
 | Legea nr. 217/2003 pentru prevenirea și combaterea violenței domestice | [`lege/2003/217/`](lege/2003/217/) | in force | 22 | 2003-08-27 | 2025-01-17 |
 | Legea nr. 329/2003 privind exercitarea profesiei de detectiv particular*) | [`lege/2003/329/`](lege/2003/329/) | in force | 1 | 2014-03-12 | 2014-03-12 |
+| Legea nr. 333/2003 | [`lege/2003/333/`](lege/2003/333/) | in force | 9 | 2003-10-20 | 2022-09-03 |
 | Legea nr. 356/2003 | [`lege/2003/356/`](lege/2003/356/) | in force | 12 | 2003-07-23 | 2021-07-12 |
 | Legea nr. 460/2003 | [`lege/2003/460/`](lege/2003/460/) | in force | 2 | 2003-12-25 | 2024-06-17 |
 | Legea nr. 477/2003 | [`lege/2003/477/`](lege/2003/477/) | in force | 6 | 2004-01-19 | 2021-03-20 |
@@ -754,7 +755,7 @@
 | Legea nr. 241/2025 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 31/2002 privind interzicerea organizațiilor, simbolurilor și faptelor cu caracter fascist, legionar, rasist sau xenofob și a promovării cultului persoanelor vinovate de săvârșirea unor infracțiuni de genocid contra umanității și de crime de război, precum și pentru modificarea Legii nr. 157/2018 privind unele măsuri pentru prevenirea și combaterea antisemitismului | [`lege/2025/241/`](lege/2025/241/) | amending act | 1 | 2025-12-27 | 2025-12-27 |
 | Legea nr. 245/2025 pentru modificarea art. 32 alin. (7) din Legea nr. 273/2006 privind finanțele publice locale | [`lege/2025/245/`](lege/2025/245/) | amending act | 1 | 2026-01-01 | 2026-01-01 |
 
-## Emergency ordinances (OUG) (518, of which 314 amending acts)
+## Emergency ordinances (OUG) (519, of which 314 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -790,6 +791,7 @@
 | Ordonanța de urgență a Guvernului nr. 99/2006 privind instituțiile de credit și adecvarea capitalului | [`oug/2006/99/`](oug/2006/99/) | in force | 31 | 2007-01-01 | 2026-03-05 |
 | Ordonanța de urgență a Guvernului nr. 119/2006 | [`oug/2006/119/`](oug/2006/119/) | in force | 8 | 2006-12-28 | 2024-01-14 |
 | Ordonanța de urgență a Guvernului nr. 30/2007 privind organizarea și funcționarea Ministerului Internelor și Reformei Administrative | [`oug/2007/30/`](oug/2007/30/) | in force | 18 | 2007-05-09 | 2025-10-25 |
+| Ordonanța de urgență a Guvernului nr. 43/2007 | [`oug/2007/43/`](oug/2007/43/) | in force | 6 | 2007-06-28 | 2023-06-01 |
 | Ordonanța de urgență a Guvernului nr. 64/2007 | [`oug/2007/64/`](oug/2007/64/) | in force | 17 | 2007-06-28 | 2024-08-23 |
 | Ordonanța de urgență a Guvernului nr. 69/2007 | [`oug/2007/69/`](oug/2007/69/) | in force | 1 | 2007-06-29 | 2007-06-29 |
 | Ordonanța de urgență a Guvernului nr. 23/2008 | [`oug/2008/23/`](oug/2008/23/) | in force | 14 | 2008-03-10 | 2025-12-07 |
@@ -1277,7 +1279,7 @@
 | Ordonanța de urgență a Guvernului nr. 78/2025 pentru modificarea Legii nr. 239/2025 privind stabilirea unor măsuri de redresare și eficientizare a resurselor publice și pentru modificarea și completarea unor acte normative | [`oug/2025/78/`](oug/2025/78/) | amending act | 1 | 2025-12-17 | 2025-12-17 |
 | Ordonanța de urgență a Guvernului nr. 87/2025 pentru stabilirea unor măsuri bugetare privind implementarea programelor naționale din domeniul lucrărilor publice | [`oug/2025/87/`](oug/2025/87/) | in force | 1 | 2025-12-24 | 2025-12-24 |
 
-## Ordinances (OG) (120, of which 56 amending acts)
+## Ordinances (OG) (121, of which 56 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -1315,6 +1317,7 @@
 | Ordonanța Guvernului nr. 81/2003 | [`og/2003/81/`](og/2003/81/) | in force | 6 | 2003-08-31 | 2021-05-07 |
 | Ordonanța Guvernului nr. 86/2003 | [`og/2003/86/`](og/2003/86/) | in force | 20 | 2003-08-31 | 2025-12-18 |
 | Ordonanța Guvernului nr. 42/2004 | [`og/2004/42/`](og/2004/42/) | in force | 26 | 2004-02-03 | 2026-01-01 |
+| Ordonanța Guvernului nr. 36/2006 | [`og/2006/36/`](og/2006/36/) | in force | 9 | 2006-09-01 | 2022-11-17 |
 | Ordonanța Guvernului nr. 40/2006 | [`og/2006/40/`](og/2006/40/) | in force | 8 | 2006-08-20 | 2021-09-03 |
 | Ordonanța Guvernului nr. 14/2007 pentru reglementarea modului și condițiilor de valorificare a bunurilor intrate, potrivit legii, în proprietatea privată a statului | [`og/2007/14/`](og/2007/14/) | in force | 16 | 2007-05-03 | 2022-08-25 |
 | Ordonanța Guvernului nr. 20/2010 | [`og/2010/20/`](og/2010/20/) | in force | 5 | 2010-08-29 | 2023-02-03 |
