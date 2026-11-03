@@ -1,6 +1,6 @@
 # Every act in this repository
 
-20669 acts, 34,302 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+20698 acts, 34,331 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (3279, of which 1807 amending acts)
+## Laws (legi) (3284, of which 1812 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -1020,6 +1020,11 @@
 | Legea nr. 283/2011 privind aprobarea Ordonanței de urgență a Guvernului nr. 80/2010 pentru completarea art. 11 din Ordonanța de urgență a Guvernului nr. 37/2008 privind reglementarea unor măsuri financiare în domeniul bugetar | [`lege/2011/283/`](lege/2011/283/) | amending act | 2 | 2011-12-17 | 2012-01-18 |
 | Legea asistenței sociale nr. 292/2011 | [`lege/2011/292/`](lege/2011/292/) | in force | 10 | 2011-12-23 | 2025-12-31 |
 | Legea nr. 9/2012 | [`lege/2012/9/`](lege/2012/9/) | repealed 2013-03-15 | 2 | 2012-01-13 | 2013-03-15 |
+| Legea nr. 30/2012 pentru respingerea Ordonanţei de urgenţă a Guvernului nr. 1/2010 privind unele măsuri de reîncadrare în funcţii a unor categorii de personal din sectorul bugetar şi stabilirea salariilor acestora, precum şi alte măsuri în domeniul bugetar | [`lege/2012/30/`](lege/2012/30/) | amending act | 1 | 2012-03-23 | 2012-03-23 |
+| Legea nr. 33/2012 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 8/2011 pentru completarea art. 22^1 din Ordonanţa Guvernului nr. 43/1997 privind regimul drumurilor | [`lege/2012/33/`](lege/2012/33/) | amending act | 1 | 2012-03-24 | 2012-03-24 |
+| Legea nr. 37/2012 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 76/2011 privind aprobarea realizării obiectivului de investiţie "Consolidare şi restaurare Cazino Constanţa" de către Ministerul Dezvoltării Regionale şi Turismului, prin Compania Naţională de Investiţii "C.N.I." - S.A | [`lege/2012/37/`](lege/2012/37/) | amending act | 1 | 2012-03-24 | 2012-03-24 |
+| Legea nr. 39/2012 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 58/2011 pentru modificarea art. 5^2 din Ordonanţa Guvernului nr. 70/2002 privind administrarea unităţilor sanitare publice de interes judeţean şi local | [`lege/2012/39/`](lege/2012/39/) | amending act | 1 | 2012-03-24 | 2012-03-24 |
+| Legea nr. 40/2012 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 74/2011 privind reglementarea situaţiei juridice a unor imobile | [`lege/2012/40/`](lege/2012/40/) | amending act | 1 | 2012-03-24 | 2012-03-24 |
 | Legea nr. 48/2012 | [`lege/2012/48/`](lege/2012/48/) | in force | 1 | 2012-03-25 | 2012-03-25 |
 | Legea nr. 51/2012 | [`lege/2012/51/`](lege/2012/51/) | in force | 1 | 2012-03-24 | 2012-03-24 |
 | Legea nr. 54/2012 | [`lege/2012/54/`](lege/2012/54/) | in force | 1 | 2012-03-30 | 2012-03-30 |
@@ -5554,7 +5559,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (15124, of which 7693 amending acts)
+## Government decisions (HG) (15148, of which 7714 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -8806,7 +8811,31 @@
 | Hotărârea Guvernului nr. 74/2012 | [`hg/2012/74/`](hg/2012/74/) | in force | 1 | 2012-02-06 | 2012-02-06 |
 | Hotărârea Guvernului nr. 100/2012 | [`hg/2012/100/`](hg/2012/100/) | in force | 1 | 2012-03-05 | 2012-03-05 |
 | Hotărârea Guvernului nr. 118/2012 | [`hg/2012/118/`](hg/2012/118/) | in force | 1 | 2012-03-09 | 2012-03-09 |
+| Hotărârea Guvernului nr. 164/2012 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii "Patinoar artificial - structură preluată, Complex Sportiv Naţional &#171;Poiana Braşov&#187;, municipiul Braşov, judeţul Braşov", realizat prin Compania Naţională de Investiţii "C.N.I." - S.A | [`hg/2012/164/`](hg/2012/164/) | amending act | 1 | 2012-03-16 | 2012-03-16 |
 | Hotărârea Guvernului nr. 165/2012 privind aprobarea listei cuprinzând 3 obiective de investiții prioritare din infrastructura de gospodărire a apelor și de mediu, precum și a caracteristicilor principale și a indicatorilor tehnico-economici aferenți acestora | [`hg/2012/165/`](hg/2012/165/) | amending act | 1 | 2012-03-23 | 2012-03-23 |
+| Hotărârea Guvernului nr. 168/2012 privind completarea art. 2 din Hotărârea Guvernului nr. 945/2011 pentru aprobarea Normelor metodologice de aplicare a Legii nr. 153/2011 privind măsuri de creştere a calităţii arhitectural-ambientale a clădirilor | [`hg/2012/168/`](hg/2012/168/) | amending act | 1 | 2012-03-26 | 2012-03-26 |
+| Hotărârea Guvernului nr. 169/2012 privind completarea art. 2 din Hotărârea Guvernului nr. 736/2010 pentru aprobarea Normelor de aplicare a Ordonanţei de urgenţă a Guvernului nr. 69/2010 privind reabilitarea termică a clădirilor de locuit cu finanţare prin credite bancare cu garanţie guvernamentală | [`hg/2012/169/`](hg/2012/169/) | amending act | 1 | 2012-03-26 | 2012-03-26 |
+| Hotărârea Guvernului nr. 171/2012 pentru modificarea şi completarea Hotărârii Guvernului nr. 1.234/2010 privind declanşarea procedurilor de expropriere a imobilelor proprietate privată situate pe amplasamentul lucrării de utilitate publică "Reabilitare DN 6 Alexandria-Craiova km 90+190 - km 222+183" | [`hg/2012/171/`](hg/2012/171/) | amending act | 1 | 2012-03-23 | 2012-03-23 |
+| Hotărârea Guvernului nr. 174/2012 pentru modificarea Hotărârii Guvernului nr. 1.233/2011 privind declanşarea procedurilor de expropriere a imobilelor proprietate privată care constituie coridorul de expropriere al lucrării "Centura de ocolire Craiova - varianta Sud DN 56 - DN 55 - DN 6" | [`hg/2012/174/`](hg/2012/174/) | amending act | 1 | 2012-03-20 | 2012-03-20 |
+| Hotărârea Guvernului nr. 177/2012 privind aprobarea bugetului de venituri şi cheltuieli pe anul 2012 al Regiei Autonome "Registrul Auto Român", aflată sub autoritatea Ministerului Transporturilor şi Infrastructurii | [`hg/2012/177/`](hg/2012/177/) | amending act | 1 | 2012-03-21 | 2012-03-21 |
+| Hotărârea Guvernului nr. 178/2012 privind aprobarea bugetului de venituri şi cheltuieli pe anul 2012 al Societăţii de Administrare Active Feroviare "S.A.A.F." - S.A., aflată sub autoritatea Ministerului Transporturilor şi Infrastructurii | [`hg/2012/178/`](hg/2012/178/) | amending act | 1 | 2012-03-22 | 2012-03-22 |
+| Hotărârea Guvernului nr. 183/2012 privind suplimentarea bugetului Ministerului Agriculturii şi Dezvoltării Rurale din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2012, în vederea achitării de către Agenţia Naţională de Îmbunătăţiri Funciare a obligaţiilor rezultate din încetarea contractelor de muncă în urma disponibilizării | [`hg/2012/183/`](hg/2012/183/) | in force | 1 | 2012-03-28 | 2012-03-28 |
+| Hotărârea Guvernului nr. 185/2012 pentru aprobarea Acordului de cooperare în domeniul serviciilor poştale dintre Ministerul Comunicaţiilor şi Societăţii Informaţionale din România şi Ordinul Suveran Militar Ospitalier al Sfântului Ioan de Ierusalim, de Rhodos şi de Malta, denumit Ordinul Suveran Militar de Malta, semnat la Bucureşti la 9 iunie 2011 | [`hg/2012/185/`](hg/2012/185/) | amending act | 1 | 2012-03-23 | 2012-03-23 |
+| Hotărârea Guvernului nr. 186/2012 pentru abrogarea Hotărârii Guvernului nr. 1.113/2003 privind funcţionarea în România a Catedrei UNESCO "Teatrul şi Cultura Civilizaţiilor" a Institutului Internaţional de Teatru | [`hg/2012/186/`](hg/2012/186/) | amending act | 1 | 2012-03-26 | 2012-03-26 |
+| Hotărârea Guvernului nr. 189/2012 privind aprobarea Acordului petrolier de concesiune pentru explorare-dezvoltare-exploatare în perimetrul EX - 19 ADAMCLISI, încheiat între Agenţia Naţională pentru Resurse Minerale şi Chevron România Holding B.V | [`hg/2012/189/`](hg/2012/189/) | amending act | 1 | 2012-03-28 | 2012-03-28 |
+| Hotărârea Guvernului nr. 190/2012 privind aprobarea Acordului petrolier de concesiune pentru explorare-dezvoltare-exploatare în perimetrul EX - 17 COSTINEŞTI, încheiat între Agenţia Naţională pentru Resurse Minerale şi Chevron România Holding B.V | [`hg/2012/190/`](hg/2012/190/) | amending act | 1 | 2012-03-28 | 2012-03-28 |
+| Hotărârea Guvernului nr. 192/2012 pentru aprobarea indicatorilor tehnico-economici aferenţi lucrărilor de intervenţii "Consolidare pod pe DN 68 km 48 + 905 la Zeicani", judeţul Hunedoara | [`hg/2012/192/`](hg/2012/192/) | amending act | 1 | 2012-03-28 | 2012-03-28 |
+| Hotărârea Guvernului nr. 193/2012 pentru aprobarea indicatorilor tehnico-economici aferenţi lucrărilor de intervenţii "Consolidare pod pe DN 74 km 10+323 la Zdrapţi", judeţul Hunedoara | [`hg/2012/193/`](hg/2012/193/) | amending act | 1 | 2012-03-26 | 2012-03-26 |
+| Hotărârea Guvernului nr. 194/2012 pentru aprobarea indicatorilor tehnico-economici aferenţi lucrărilor de intervenţii "Consolidare pod pe DN 58 km 28+663 peste pârâul Tău la Soceni", judeţul Caraş-Severin | [`hg/2012/194/`](hg/2012/194/) | amending act | 1 | 2012-03-26 | 2012-03-26 |
+| Hotărârea Guvernului nr. 196/2012 pentru aprobarea indicatorilor tehnico-economici aferenţi lucrărilor de intervenţii "Consolidare pod pe DN 58 km 4+550 peste pârâul Măcicaş la Păltiniş", judeţul Caraş-Severin | [`hg/2012/196/`](hg/2012/196/) | amending act | 1 | 2012-03-28 | 2012-03-28 |
+| Hotărârea Guvernului nr. 200/2012 pentru aprobarea indicatorilor tehnico-economici aferenţi lucrărilor de intervenţii "Consolidare pod pe DN 58 km 17+955 peste râul Pogăniş la Brebu", judeţul Caraş-Severin | [`hg/2012/200/`](hg/2012/200/) | amending act | 1 | 2012-03-27 | 2012-03-27 |
+| Hotărârea Guvernului nr. 201/2012 pentru aprobarea indicatorilor tehnico-economici aferenţi lucrărilor de intervenţii "Consolidare pod pe DN 6 km 620+265 la Sânnicolau", judeţul Timiş | [`hg/2012/201/`](hg/2012/201/) | amending act | 1 | 2012-03-27 | 2012-03-27 |
+| Hotărârea Guvernului nr. 202/2012 pentru aprobarea indicatorilor tehnico-economici aferenţi lucrărilor de intervenţii "Refacere sistem rutier cu ridicarea liniei roşii pe DN 39 km 23+500 - km 32+000" | [`hg/2012/202/`](hg/2012/202/) | amending act | 1 | 2012-03-27 | 2012-03-27 |
+| Hotărârea Guvernului nr. 203/2012 pentru modificarea şi completarea Hotărârii Guvernului nr. 1.232/2010 privind declanşarea procedurilor de expropriere a imobilelor proprietate privată situate pe amplasamentul lucrării de utilitate publică "Autostrada Lugoj-Deva" | [`hg/2012/203/`](hg/2012/203/) | amending act | 1 | 2012-03-27 | 2012-03-27 |
+| Hotărârea Guvernului nr. 204/2012 pentru aprobarea modificării datelor de identificare ale unui imobil aflat în domeniul public al statului şi în administrarea Ministerului Sănătăţii, prin Spitalul Clinic de Recuperare Medicală - Băile Felix, precum şi pentru aprobarea închirierii unui spaţiu situat în acest imobil | [`hg/2012/204/`](hg/2012/204/) | amending act | 1 | 2012-03-27 | 2012-03-27 |
+| Hotărârea Guvernului nr. 207/2012 pentru scoaterea definitivă din fondul forestier naţional, fără compensare echivalentă, de către Compania Naţională de Autostrăzi şi Drumuri Naţionale din România - S.A. a unui teren forestier în suprafaţă de 16,4030 ha, proprietate publică a statului, în vederea realizării obiectivului "Execuţie autostrada Orăştie-Sibiu", beneficiar statul român | [`hg/2012/207/`](hg/2012/207/) | in force | 1 | 2012-03-27 | 2012-03-27 |
+| Hotărârea Guvernului nr. 209/2012 privind actualizarea valorilor de inventar ale unor bunuri aflate în domeniul public al statului şi în administrarea Ministerului Mediului şi Pădurilor prin Administraţia Naţională "Apele Române", înregistrate cu valoarea de 1 leu în anexa nr. 12 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului | [`hg/2012/209/`](hg/2012/209/) | amending act | 1 | 2012-03-29 | 2012-03-29 |
+| Hotărârea Guvernului nr. 214/2012 pentru constatarea încetării, la cerere, a mandatului de membru al Plenului Oficiului Naţional de Prevenire şi Combatere a Spălării Banilor al domnului Daniel Ţicău, reprezentant al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie | [`hg/2012/214/`](hg/2012/214/) | in force | 1 | 2012-03-23 | 2012-03-23 |
 | Hotărârea Guvernului nr. 215/2012 privind aprobarea Strategiei naționale anticorupție pe perioada 2012-2015, a Inventarului măsurilor preventive anticorupție și a indicatorilor de evaluare, precum și a Planului național de acțiune pentru implementarea Strategiei naționale anticorupție 2012-2015 | [`hg/2012/215/`](hg/2012/215/) | amending act | 1 | 2012-03-27 | 2012-03-27 |
 | Hotărârea Guvernului nr. 216/2012 privind accelerarea implementării obiectivelor de referinţă prevăzute în cadrul Mecanismului de cooperare şi verificare | [`hg/2012/216/`](hg/2012/216/) | in force | 1 | 2012-03-29 | 2012-03-29 |
 | Hotărârea Guvernului nr. 218/2012 | [`hg/2012/218/`](hg/2012/218/) | in force | 1 | 2012-03-23 | 2012-03-23 |
