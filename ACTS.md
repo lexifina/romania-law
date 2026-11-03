@@ -1,6 +1,6 @@
 # Every act in this repository
 
-6533 acts, 18,813 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+6545 acts, 18,886 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -3780,7 +3780,7 @@
 | Ordonanța Guvernului nr. 21/2025 pentru modificarea și completarea Legii nr. 431/2023 privind asigurarea unui nivel minim global de impozitare a grupurilor de întreprinderi multinaționale și a grupurilor naționale de mari dimensiuni | [`og/2025/21/`](og/2025/21/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 | Ordonanța Guvernului nr. 22/2025 pentru modificarea și completarea Legii nr. 227/2015 privind Codul fiscal | [`og/2025/22/`](og/2025/22/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 
-## Government decisions (HG) (2761, of which 922 amending acts)
+## Government decisions (HG) (2773, of which 923 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -3790,6 +3790,7 @@
 | Hotărârea Guvernului nr. 139/1991 | [`hg/1991/139/`](hg/1991/139/) | in force | 1 | 1991-03-21 | 1991-03-21 |
 | Hotărârea Guvernului nr. 277/1991 | [`hg/1991/277/`](hg/1991/277/) | in force | 1 | 1991-05-22 | 1991-05-22 |
 | Hotărârea Guvernului nr. 498/1991 privind salarizarea personalului regiilor autonome "Romag Drobeta" Drobeta-Turnu Severin şi "Zirom" Giurgiu | [`hg/1991/498/`](hg/1991/498/) | in force | 2 | 1992-06-24 | 1993-10-18 |
+| Hotărârea Guvernului nr. 723/1991 | [`hg/1991/723/`](hg/1991/723/) | in force | 2 | 1991-10-30 | 1992-03-18 |
 | Hotărârea Guvernului nr. 783/1991 | [`hg/1991/783/`](hg/1991/783/) | in force | 1 | 1991-12-18 | 1991-12-18 |
 | Hotărârea Guvernului nr. 784/1991 | [`hg/1991/784/`](hg/1991/784/) | in force | 1 | 1991-12-18 | 1991-12-18 |
 | Hotărârea Guvernului nr. 785/1991 | [`hg/1991/785/`](hg/1991/785/) | in force | 1 | 1991-12-18 | 1991-12-18 |
@@ -3807,6 +3808,7 @@
 | Hotărârea Guvernului nr. 151/1993 | [`hg/1993/151/`](hg/1993/151/) | in force | 1 | 1993-05-04 | 1993-05-04 |
 | Hotărârea Guvernului nr. 337/1993 | [`hg/1993/337/`](hg/1993/337/) | in force | 1 | 1993-08-06 | 1993-08-06 |
 | Hotărârea Guvernului nr. 487/1993 | [`hg/1993/487/`](hg/1993/487/) | in force | 1 | 1993-10-21 | 1993-10-21 |
+| Hotărârea Guvernului nr. 507/1993 privind asigurarea pazei şi apărării cu efective militare la unele obiective feroviare, rutiere şi de navigaţie | [`hg/1993/507/`](hg/1993/507/) | in force | 2 | 1993-10-13 | 1995-11-09 |
 | Hotărârea Guvernului nr. 515/1993 | [`hg/1993/515/`](hg/1993/515/) | in force | 1 | 1993-10-15 | 1993-10-15 |
 | Hotărârea Guvernului nr. 535/1993 | [`hg/1993/535/`](hg/1993/535/) | in force | 1 | 1993-10-21 | 1993-10-21 |
 | Hotărârea Guvernului nr. 541/1993 | [`hg/1993/541/`](hg/1993/541/) | in force | 1 | 1993-10-21 | 1993-10-21 |
@@ -3861,6 +3863,7 @@
 | Hotărârea Guvernului nr. 581/1998 | [`hg/1998/581/`](hg/1998/581/) | in force | 5 | 1998-09-15 | 2007-01-20 |
 | Hotărârea Guvernului nr. 582/1998 | [`hg/1998/582/`](hg/1998/582/) | in force | 3 | 1998-09-15 | 2010-11-17 |
 | Hotărârea Guvernului nr. 585/1998 | [`hg/1998/585/`](hg/1998/585/) | in force | 3 | 1998-09-15 | 2007-01-20 |
+| Hotărârea Guvernului nr. 626/1998 privind organizarea și funcționarea Autorității Feroviare Române - AFER | [`hg/1998/626/`](hg/1998/626/) | in force | 5 | 1998-10-01 | 2023-04-11 |
 | Hotărârea Guvernului nr. 725/1998 | [`hg/1998/725/`](hg/1998/725/) | in force | 2 | 1998-10-23 | 2013-08-02 |
 | Hotărârea Guvernului nr. 753/1998 | [`hg/1998/753/`](hg/1998/753/) | in force | 1 | 1998-11-30 | 1998-11-30 |
 | Hotărârea Guvernului nr. 808/1998 | [`hg/1998/808/`](hg/1998/808/) | in force | 1 | 1998-11-20 | 1998-11-20 |
@@ -3879,6 +3882,7 @@
 | Hotărârea Guvernului nr. 523/1999 privind interdicţia de a intra pe teritoriul României a unor persoane provenind din Republica Federala Iugoslavia | [`hg/1999/523/`](hg/1999/523/) | in force | 1 | 1999-07-09 | 1999-07-09 |
 | Hotărârea Guvernului nr. 535/1999 | [`hg/1999/535/`](hg/1999/535/) | in force | 1 | 1999-07-07 | 1999-07-07 |
 | Hotărârea Guvernului nr. 625/1999 | [`hg/1999/625/`](hg/1999/625/) | in force | 3 | 1999-08-19 | 2004-01-08 |
+| Hotărârea Guvernului nr. 643/1999 privind modul de decontare a cheltuielilor efectuate de antreprenorii români pe perioada de sistare a lucrărilor de construcţii-montaj la Combinatul minier de îmbogăţire a minereurilor acide cu conţinut de fier de la Krivoi Rog - Ucraina | [`hg/1999/643/`](hg/1999/643/) | in force | 2 | 1999-08-18 | 2001-03-13 |
 | Hotărârea Guvernului nr. 685/1999 | [`hg/1999/685/`](hg/1999/685/) | in force | 3 | 1999-08-30 | 1999-11-26 |
 | Hotărârea Guvernului nr. 716/1999 privind reorganizarea şi funcţionarea inspectoratelor pentru calitatea seminţelor şi materialului săditor şi a Laboratorului Central pentru Controlul Calităţii Seminţelor, precum şi actualizarea limitelor amenzilor prevăzute de Legea nr. 75/1995 | [`hg/1999/716/`](hg/1999/716/) | in force | 3 | 1999-09-15 | 2002-09-12 |
 | Hotărârea Guvernului nr. 720/1999 | [`hg/1999/720/`](hg/1999/720/) | in force | 1 | 1999-09-13 | 1999-09-13 |
@@ -4257,6 +4261,7 @@
 | Hotărârea Guvernului nr. 60/2005 privind organizarea și funcționarea Regiei Autonome "Administrația Patrimoniului Protocolului de Stat" | [`hg/2005/60/`](hg/2005/60/) | in force | 5 | 2005-02-01 | 2010-07-09 |
 | Hotărârea Guvernului nr. 69/2005 | [`hg/2005/69/`](hg/2005/69/) | in force | 4 | 2005-02-03 | 2009-03-16 |
 | Hotărârea Guvernului nr. 76/2005 | [`hg/2005/76/`](hg/2005/76/) | in force | 6 | 2005-02-08 | 2022-01-17 |
+| Hotărârea Guvernului nr. 78/2005 | [`hg/2005/78/`](hg/2005/78/) | in force | 4 | 2005-02-15 | 2007-05-02 |
 | Hotărârea Guvernului nr. 86/2005 | [`hg/2005/86/`](hg/2005/86/) | in force | 1 | 2005-02-11 | 2005-02-11 |
 | Hotărârea Guvernului nr. 111/2005 privind organizarea şi funcţionarea Departamentului pentru Relaţii Interetnice | [`hg/2005/111/`](hg/2005/111/) | in force | 2 | 2005-03-03 | 2024-12-05 |
 | Hotărârea Guvernului nr. 130/2005 | [`hg/2005/130/`](hg/2005/130/) | in force | 1 | 2005-03-23 | 2005-03-23 |
@@ -4364,6 +4369,7 @@
 | Hotărârea Guvernului nr. 493/2006 | [`hg/2006/493/`](hg/2006/493/) | in force | 2 | 2006-09-01 | 2007-07-12 |
 | Hotărârea Guvernului nr. 522/2006 | [`hg/2006/522/`](hg/2006/522/) | in force | 1 | 2006-04-28 | 2006-04-28 |
 | Hotărârea Guvernului nr. 557/2006 | [`hg/2006/557/`](hg/2006/557/) | in force | 10 | 2006-05-02 | 2025-08-22 |
+| Hotărârea Guvernului nr. 564/2006 | [`hg/2006/564/`](hg/2006/564/) | in force | 2 | 2006-05-10 | 2019-06-26 |
 | Hotărârea Guvernului nr. 569/2006 | [`hg/2006/569/`](hg/2006/569/) | in force | 1 | 2006-05-15 | 2006-05-15 |
 | Hotărârea Guvernului nr. 586/2006 | [`hg/2006/586/`](hg/2006/586/) | in force | 1 | 2006-05-08 | 2006-05-08 |
 | Hotărârea Guvernului nr. 669/2006 | [`hg/2006/669/`](hg/2006/669/) | in force | 1 | 2006-06-02 | 2006-06-02 |
@@ -4653,6 +4659,7 @@
 | Hotărârea Guvernului nr. 55/2009 | [`hg/2009/55/`](hg/2009/55/) | in force | 3 | 2010-03-21 | 2021-06-11 |
 | Hotărârea Guvernului nr. 56/2009 | [`hg/2009/56/`](hg/2009/56/) | in force | 1 | 2009-02-16 | 2009-02-16 |
 | Hotărârea Guvernului nr. 57/2009 | [`hg/2009/57/`](hg/2009/57/) | in force | 2 | 2009-02-09 | 2009-12-09 |
+| Hotărârea Guvernului nr. 65/2009 | [`hg/2009/65/`](hg/2009/65/) | in force | 6 | 2009-02-11 | 2012-10-23 |
 | Hotărârea Guvernului nr. 76/2009 | [`hg/2009/76/`](hg/2009/76/) | in force | 6 | 2009-02-13 | 2012-07-13 |
 | Hotărârea Guvernului nr. 110/2009 | [`hg/2009/110/`](hg/2009/110/) | in force | 3 | 2009-03-02 | 2012-08-21 |
 | Hotărârea Guvernului nr. 112/2009 | [`hg/2009/112/`](hg/2009/112/) | in force | 4 | 2009-03-02 | 2010-03-26 |
@@ -4672,6 +4679,8 @@
 | Hotărârea Guvernului nr. 600/2009 | [`hg/2009/600/`](hg/2009/600/) | in force | 2 | 2009-06-03 | 2012-09-28 |
 | Hotărârea Guvernului nr. 606/2009 | [`hg/2009/606/`](hg/2009/606/) | repealed 2018-01-30 | 3 | 2009-06-12 | 2018-01-30 |
 | Hotărârea Guvernului nr. 609/2009 | [`hg/2009/609/`](hg/2009/609/) | in force | 2 | 2009-06-03 | 2010-11-30 |
+| Hotărârea Guvernului nr. 652/2009 | [`hg/2009/652/`](hg/2009/652/) | in force | 23 | 2009-06-29 | 2024-06-05 |
+| Hotărârea Guvernului nr. 717/2009 | [`hg/2009/717/`](hg/2009/717/) | in force | 11 | 2009-06-18 | 2020-08-21 |
 | Hotărârea Guvernului nr. 760/2009 | [`hg/2009/760/`](hg/2009/760/) | in force | 4 | 2009-09-09 | 2018-05-15 |
 | Hotărârea Guvernului nr. 810/2009 | [`hg/2009/810/`](hg/2009/810/) | in force | 2 | 2009-11-02 | 2011-12-27 |
 | Hotărârea Guvernului nr. 861/2009 | [`hg/2009/861/`](hg/2009/861/) | in force | 1 | 2009-08-18 | 2009-08-18 |
@@ -4877,6 +4886,7 @@
 | Hotărârea Guvernului nr. 54/2012 | [`hg/2012/54/`](hg/2012/54/) | in force | 1 | 2012-02-02 | 2012-02-02 |
 | Hotărârea Guvernului nr. 61/2012 | [`hg/2012/61/`](hg/2012/61/) | in force | 1 | 2012-02-06 | 2012-02-06 |
 | Hotărârea Guvernului nr. 67/2012 | [`hg/2012/67/`](hg/2012/67/) | in force | 1 | 2012-02-06 | 2012-02-06 |
+| Hotărârea Guvernului nr. 69/2012 | [`hg/2012/69/`](hg/2012/69/) | in force | 6 | 2012-02-24 | 2020-04-04 |
 | Hotărârea Guvernului nr. 70/2012 | [`hg/2012/70/`](hg/2012/70/) | in force | 1 | 2012-02-13 | 2012-02-13 |
 | Hotărârea Guvernului nr. 73/2012 | [`hg/2012/73/`](hg/2012/73/) | in force | 1 | 2012-02-06 | 2012-02-06 |
 | Hotărârea Guvernului nr. 74/2012 | [`hg/2012/74/`](hg/2012/74/) | in force | 1 | 2012-02-06 | 2012-02-06 |
@@ -5136,6 +5146,7 @@
 | Hotărârea Guvernului nr. 582/2015 | [`hg/2015/582/`](hg/2015/582/) | in force | 3 | 2015-07-27 | 2015-09-01 |
 | Hotărârea Guvernului nr. 595/2015 | [`hg/2015/595/`](hg/2015/595/) | in force | 1 | 2015-08-06 | 2015-08-06 |
 | Hotărârea Guvernului nr. 624/2015 | [`hg/2015/624/`](hg/2015/624/) | in force | 1 | 2015-08-10 | 2015-08-10 |
+| Hotărârea Guvernului nr. 634/2015 | [`hg/2015/634/`](hg/2015/634/) | in force | 7 | 2015-08-25 | 2024-06-28 |
 | Hotărârea Guvernului nr. 639/2015 pentru modificarea și completarea Hotărârii Guvernului nr. 1.198/2012 privind desemnarea infrastructurilor critice naționale | [`hg/2015/639/`](hg/2015/639/) | amending act | 1 | 2015-08-28 | 2015-08-28 |
 | Hotărârea Guvernului nr. 678/2015 | [`hg/2015/678/`](hg/2015/678/) | in force | 5 | 2015-08-31 | 2016-10-14 |
 | Hotărârea Guvernului nr. 691/2015 | [`hg/2015/691/`](hg/2015/691/) | in force | 1 | 2015-09-01 | 2015-09-01 |
@@ -5692,6 +5703,7 @@
 | Hotărârea Guvernului nr. 477/2020 privind organizarea și funcționarea Ministerului Lucrărilor Publice, Dezvoltării și Administrației | [`hg/2020/477/`](hg/2020/477/) | in force | 3 | 2020-06-16 | 2024-04-15 |
 | Hotărârea Guvernului nr. 485/2020 pentru modificarea și completarea Normelor metodologice de aplicare a prevederilor referitoare la atribuirea contractului sectorial/acordului-cadru din Legea nr. 99/2016 privind achizițiile sectoriale, aprobate prin Hotărârea Guvernului nr. 394/2016 , precum și pentru modificarea și completarea Normelor metodologice de aplicare a prevederilor referitoare la atribuirea contractului de achiziție publică/acordului-cadru din Legea nr. 98/2016 privind achizițiile publice, aprobate prin Hotărârea Guvernului nr. 395/2016 | [`hg/2020/485/`](hg/2020/485/) | amending act | 1 | 2020-06-29 | 2020-06-29 |
 | Hotărârea Guvernului nr. 486/2020 privind modificarea Hotărârii Guvernului nr. 125/2020 pentru aprobarea modului de repartizare și de utilizare a sumelor prevăzute la lit. c) și d) din anexa nr. 3/13/02a la Legea bugetului de stat pe anul 2020 nr. 5/2020 | [`hg/2020/486/`](hg/2020/486/) | amending act | 1 | 2020-06-29 | 2020-06-29 |
+| Hotărârea Guvernului nr. 497/2020 pentru aprobarea Normelor referitoare la proveniența, circulația și comercializarea materialelor lemnoase, la regimul spațiilor de depozitare a materialelor lemnoase și al instalațiilor de prelucrat lemn rotund, precum și a celor privind proveniența și circulația materialelor lemnoase destinate consumului propriu al proprietarului și a unor măsuri de aplicare a prevederilor Regulamentului (UE) nr. 995/2010 al Parlamentului European și al Consiliului din 20 octombrie 2010 de stabilire a obligațiilor care revin operatorilor care introduc pe piață lemn și produse din lemn | [`hg/2020/497/`](hg/2020/497/) | amending act | 3 | 2020-06-30 | 2021-01-30 |
 | Hotărârea Guvernului nr. 511/2020 pentru modificarea și completarea anexelor nr. 1 și 3 la Hotărârea Guvernului nr. 476/2020 privind prelungirea stării de alertă pe teritoriul României și măsurile care se aplică pe durata acesteia pentru prevenirea și combaterea efectelor pandemiei de COVID-19 | [`hg/2020/511/`](hg/2020/511/) | amending act | 1 | 2020-07-01 | 2020-07-01 |
 | Hotărârea Guvernului nr. 518/2020 privind declanşarea procedurilor de expropriere a tuturor imobilelor proprietate privată care constituie coridorul de expropriere al lucrării de utilitate publică de interes naţional "Autostrada Sibiu Piteşti" Secţiunea 4, aflate pe raza localităţilor Tigveni şi Curtea de Argeş din judeţul Argeş | [`hg/2020/518/`](hg/2020/518/) | in force | 2 | 2020-07-13 | 2022-10-31 |
 | Hotărârea Guvernului nr. 546/2020 privind modificarea și completarea Hotărârii Guvernului nr. 611/2008 pentru aprobarea normelor privind organizarea și dezvoltarea carierei funcționarilor publici | [`hg/2020/546/`](hg/2020/546/) | amending act | 1 | 2020-07-21 | 2020-07-21 |
