@@ -11150,6 +11150,21 @@
    ]
   },
   {
+   "slug": "hg-1128-2011",
+   "path": "hg/2011/1128",
+   "short": "HG nr. 1128/2011",
+   "title": "Hotărârea Guvernului nr. 1128/2011 pentru modificarea anexei la Hotărârea Guvernului nr. 867/2007 privind aprobarea indicatorilor tehnico-economici pentru obiectivul de investiţii \"Lărgire la 4 benzi de circulaţie a DN 73 între km 7+000 - km 11+100 şi drum de legătură cu DN 73D\", precum şi pentru declanşarea procedurilor de expropriere a imobilelor proprietate privată care constituie coridorul de expropriere al lucrării de utilitate publică \"Lărgire la 4 benzi de circulaţie a DN 73 între km 7+000 - km 11+100 şi drum de legătură cu DN 73D\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/133168",
+   "versions": [
+    {
+     "from": "2011-11-24",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133168",
+     "sha256": "948e62cda59b4b85b23c6ae09ee6120ada6f84ae237b58aca811cc8ca3f83c03"
+    }
+   ]
+  },
+  {
    "slug": "hg-1129-2022",
    "path": "hg/2022/1129",
    "short": "HG nr. 1129/2022",
@@ -37462,6 +37477,33 @@
      "units": 49,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/303284",
      "sha256": "9922e351addf4fe5b57d1112d37e2bdebb57ebcb8ee2c5aa2204e5eb58688e17"
+    }
+   ]
+  },
+  {
+   "slug": "legea-176-2018",
+   "path": "lege/2018/176",
+   "short": "Legea nr. 176/2018",
+   "title": "Legea nr. 176/2018 privind internshipul",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/202767",
+   "versions": [
+    {
+     "from": "2018-07-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/202767",
+     "sha256": "99842149371a796bc557fc954034c4ac24f33b7dc522fbb305f3e0f7e5018de1"
+    },
+    {
+     "from": "2018-08-18",
+     "units": 31,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/202767",
+     "sha256": "99842149371a796bc557fc954034c4ac24f33b7dc522fbb305f3e0f7e5018de1"
+    },
+    {
+     "from": "2019-03-08",
+     "units": 34,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/202767",
+     "sha256": "80c92e195191f5ed99d56cebd8a4cc18e0d4c6c635bba3eca56cd8aeb88de563"
     }
    ]
   },

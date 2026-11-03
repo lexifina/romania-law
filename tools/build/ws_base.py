@@ -23,13 +23,16 @@ PARA = re.compile(r'(?:\s*\xa0\.\.\.\xa0\s*|\s{3,})(?=\(\d+(?:\^\d+)?\)|[a-z]\)\
 LABEL_GAP = re.compile(r'(^|\s{3,}|\xa0\.\.\.\xa0\s*)(\(\d+(?:\^\d+)?\)|[a-z]\)|\d+(?:\^\d+)?\.)\s{2,}', re.M)
 
 
-def tidy(line: str, norm=None) -> str:
+def tidy(line: str, norm=None, star_text: bool = False) -> str:
     # the service escapes markup characters ("&lt;&lt;Autoritatea ...&gt;&gt;"); «…» as parse.py reads "<<…>>"
     line = html.unescape(line).replace('<<', '«').replace('>>', '»')
     # the publisher's footnote run into the text ("... la prezenta hotărâre. *) Anexele nr. 1-6 se publică în Monitorul
     # Oficial ... bis"): not text, as parse.py leaves "*) ..." notes out; then the marker itself ("nr. 1-6 *) la")
-    line = re.sub(r'(?<=[.;:])\s*\*{1,4}\)\s.*$', '', line)
-    line = re.sub(r'\s*\*{1,4}\)', '', line)
+    # Lexifina ('ws_star_text', per act, off by default; HG nr. 542/2023): the act's "*) ..." text is kept as printed
+    # (a note the amending act quotes: 'nota ... va avea următorul cuprins: *) Se confecționează ...')
+    if not star_text:
+        line = re.sub(r'(?<=[.;:])\s*\*{1,4}\)\s.*$', '', line)
+        line = re.sub(r'\s*\*{1,4}\)', '', line)
     if norm:  # parse.py's own normalisation (quotes, dashes, spaces), so the text is the one a page would give
         line = norm(line)
     line = re.sub(r'[ \t]{2,}', ' ', line.replace('\xa0', ' '))
@@ -119,10 +122,10 @@ def fold_quoted(raw: str) -> tuple:
 HEAD_ANNEX = re.compile(r'^\s*(Anex[aăe]|ANEX[AĂE])\b')
 
 
-def base_units(text: str, pad: int = 3, norm=None, quoted: bool = False) -> dict:
+def base_units(text: str, pad: int = 3, norm=None, quoted: bool = False, star_text: bool = False) -> dict:
     """Units of the act as published: the article split of ws_units, each body re-cut into its paragraphs.
     `quoted` (an entry's 'ws_quoted'): the articles an amending act quotes stay in the article quoting them
-    (fold_quoted)."""
+    (fold_quoted). `star_text` (an entry's 'ws_star_text'): "*) ..." runs and markers are kept (tidy)."""
     raw = text.replace('\r', '').replace('\xa0...\xa0', '\n')  # the service's paragraph separator, where it prints one
     # a paragraph label followed by the service's gap ("urmează:  a)    nava") starts a paragraph wherever it stands
     raw = re.sub(r'[ \t]{2,}(\(\d+(?:\^\d+)?\)|[a-z]\)|\d+(?:\^\d+)?\.)[ \t]{3,}', r'\n\1 ', raw)
@@ -154,7 +157,7 @@ def base_units(text: str, pad: int = 3, norm=None, quoted: bool = False) -> dict
         blines = body.split('\n')
         if qmap:  # each marker line: the quoted text it stands for
             blines = [y for x in blines for y in qmap.get(x.strip(), [x])]
-        lines = [tidy(x, norm) for x in blines]
+        lines = [tidy(x, norm, star_text) for x in blines]
         out[k] = {'label': label, 'kind': 'art', 'text': '\n'.join([head] + [x for x in lines if x]) + '\n'}
     if qmap and out:  # ws_units' cut of the act's EU-transposition note, now on the last article's whole text
         last = list(out)[-1]

@@ -20198,6 +20198,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/202718"
 },
 {
+"slug": "legea-176-2018",
+"path": "lege/2018/176",
+"kind": "lege",
+"year": "2018",
+"number": "176",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 176/2018 privind internshipul",
+"short": "Legea nr. 176/2018",
+"code": null,
+"status": "in force",
+"versions": 3,
+"from": "2018-07-22",
+"latest": "2019-03-08",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/202767"
+},
+{
 "slug": "legea-178-2018",
 "path": "lege/2018/178",
 "kind": "lege",
@@ -95931,6 +95948,23 @@
 "from": "2011-11-10",
 "latest": "2011-11-10",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/132832"
+},
+{
+"slug": "hg-1128-2011",
+"path": "hg/2011/1128",
+"kind": "hg",
+"year": "2011",
+"number": "1128",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 1128/2011 pentru modificarea anexei la Hotărârea Guvernului nr. 867/2007 privind aprobarea indicatorilor tehnico-economici pentru obiectivul de investiţii \"Lărgire la 4 benzi de circulaţie a DN 73 între km 7+000 - km 11+100 şi drum de legătură cu DN 73D\", precum şi pentru declanşarea procedurilor de expropriere a imobilelor proprietate privată care constituie coridorul de expropriere al lucrării de utilitate publică \"Lărgire la 4 benzi de circulaţie a DN 73 între km 7+000 - km 11+100 şi drum de legătură cu DN 73D\"",
+"short": "HG nr. 1128/2011",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2011-11-24",
+"latest": "2011-11-24",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/133168"
 },
 {
 "slug": "hg-1132-2011",

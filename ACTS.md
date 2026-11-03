@@ -1,6 +1,6 @@
 # Every act in this repository
 
-11635 acts, 25,207 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+11637 acts, 25,211 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -32,7 +32,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (2355, of which 1058 amending acts)
+## Laws (legi) (2356, of which 1058 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -1223,6 +1223,7 @@
 | Legea nr. 162/2018 privind aprobarea Ordonanței de urgență a Guvernului nr. 13/2018 pentru modificarea unor acte normative din domeniul protecției mediului | [`lege/2018/162/`](lege/2018/162/) | amending act | 1 | 2018-07-14 | 2018-07-14 |
 | Legea nr. 165/2018 privind acordarea biletelor de valoare | [`lege/2018/165/`](lege/2018/165/) | in force | 14 | 2018-07-16 | 2025-12-01 |
 | Legea nr. 174/2018 privind modificarea și completarea Legii nr. 217/2003 pentru prevenirea și combaterea violenței în familie | [`lege/2018/174/`](lege/2018/174/) | amending act | 1 | 2018-07-21 | 2018-07-21 |
+| Legea nr. 176/2018 privind internshipul | [`lege/2018/176/`](lege/2018/176/) | in force | 3 | 2018-07-22 | 2019-03-08 |
 | Legea nr. 178/2018 pentru modificarea și completarea Legii nr. 202/2002 privind egalitatea de șanse și de tratament între femei și bărbați | [`lege/2018/178/`](lege/2018/178/) | amending act | 1 | 2018-07-22 | 2018-07-22 |
 | Legea nr. 185/2018 pentru aprobarea Ordonanței de urgență a Guvernului nr. 31/2018 privind modificarea și completarea Legii cadastrului și a publicității imobiliare nr. 7/1996 | [`lege/2018/185/`](lege/2018/185/) | amending act | 2 | 2018-07-26 | 2019-05-23 |
 | Legea nr. 189/2018 privind integrarea în muncă, în cadrul instituțiilor publice de la nivel local, a tinerilor dezavantajați | [`lege/2018/189/`](lege/2018/189/) | in force | 1 | 2018-08-22 | 2018-08-22 |
@@ -4513,7 +4514,7 @@
 | Ordonanța Guvernului nr. 21/2025 pentru modificarea și completarea Legii nr. 431/2023 privind asigurarea unui nivel minim global de impozitare a grupurilor de întreprinderi multinaționale și a grupurilor naționale de mari dimensiuni | [`og/2025/21/`](og/2025/21/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 | Ordonanța Guvernului nr. 22/2025 pentru modificarea și completarea Legii nr. 227/2015 privind Codul fiscal | [`og/2025/22/`](og/2025/22/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 
-## Government decisions (HG) (7130, of which 3067 amending acts)
+## Government decisions (HG) (7131, of which 3068 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -5693,6 +5694,7 @@
 | Hotărârea Guvernului nr. 1088/2011 privind organizarea și funcționarea Inspectoratului de Stat pentru Controlul în Transportul Rutier | [`hg/2011/1088/`](hg/2011/1088/) | in force | 2 | 2011-11-03 | 2022-08-13 |
 | Hotărârea Guvernului nr. 1094/2011 | [`hg/2011/1094/`](hg/2011/1094/) | in force | 1 | 2011-12-16 | 2011-12-16 |
 | Hotărârea Guvernului nr. 1105/2011 | [`hg/2011/1105/`](hg/2011/1105/) | in force | 1 | 2011-11-10 | 2011-11-10 |
+| Hotărârea Guvernului nr. 1128/2011 pentru modificarea anexei la Hotărârea Guvernului nr. 867/2007 privind aprobarea indicatorilor tehnico-economici pentru obiectivul de investiţii "Lărgire la 4 benzi de circulaţie a DN 73 între km 7+000 - km 11+100 şi drum de legătură cu DN 73D", precum şi pentru declanşarea procedurilor de expropriere a imobilelor proprietate privată care constituie coridorul de expropriere al lucrării de utilitate publică "Lărgire la 4 benzi de circulaţie a DN 73 între km 7+000 - km 11+100 şi drum de legătură cu DN 73D" | [`hg/2011/1128/`](hg/2011/1128/) | amending act | 1 | 2011-11-24 | 2011-11-24 |
 | Hotărârea Guvernului nr. 1132/2011 privind modificarea anexei nr. 11 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului și transmiterea unor imobile proprietate publică a statului din administrarea Ministerului Justiției - Administrația Națională a Penitenciarelor - Penitenciarul Slobozia în administrarea Ministerului Dezvoltării Regionale și Turismului | [`hg/2011/1132/`](hg/2011/1132/) | amending act | 1 | 2011-11-18 | 2011-11-18 |
 | Hotărârea Guvernului nr. 1135/2011 | [`hg/2011/1135/`](hg/2011/1135/) | in force | 2 | 2012-01-01 | 2012-08-13 |
 | Hotărârea Guvernului nr. 1154/2011 | [`hg/2011/1154/`](hg/2011/1154/) | in force | 1 | 2011-11-30 | 2011-11-30 |
