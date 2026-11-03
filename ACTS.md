@@ -1,6 +1,6 @@
 # Every act in this repository
 
-17278 acts, 30,903 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+17318 acts, 30,943 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (2867, of which 1473 amending acts)
+## Laws (legi) (2876, of which 1478 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -1189,11 +1189,20 @@
 | Legea nr. 311/2015 | [`lege/2015/311/`](lege/2015/311/) | in force | 2 | 2015-12-14 | 2022-03-11 |
 | Legea nr. 312/2015 privind redresarea și rezoluția instituțiilor de credit și a firmelor de investiții, precum și pentru modificarea și completarea unor acte normative în domeniul financiar | [`lege/2015/312/`](lege/2015/312/) | amending act | 9 | 2015-12-14 | 2025-04-10 |
 | Legea nr. 318/2015 pentru înființarea, organizarea și funcționarea Agenției Naționale de Administrare a Bunurilor Indisponibilizate și pentru modificarea și completarea unor acte normative | [`lege/2015/318/`](lege/2015/318/) | amending act | 4 | 2015-12-27 | 2023-07-14 |
+| Legea nr. 333/2015 privind declararea zilei de 21 martie ca Sărbătoarea Sosirii Primăverii pentru membrii minorităţii tătare turco-musulmane din România, denumită Nawrez | [`lege/2015/333/`](lege/2015/333/) | in force | 1 | 2015-12-24 | 2015-12-24 |
+| Legea nr. 334/2015 pentru prorogarea unor termene privind stabilirea unor măsuri pentru asigurarea facilităţilor la transport pentru anumite categorii de persoane | [`lege/2015/334/`](lege/2015/334/) | amending act | 1 | 2015-12-25 | 2015-12-25 |
+| Legea nr. 335/2015 pentru aprobarea Ordonanţei Guvernului nr. 19/2015 privind reglementarea unor măsuri-fiscal bugetare şi modificarea unor acte normative, precum şi unele măsuri de corelare legislativă | [`lege/2015/335/`](lege/2015/335/) | amending act | 1 | 2015-12-25 | 2015-12-25 |
 | Legea nr. 336/2015 | [`lege/2015/336/`](lege/2015/336/) | in force | 1 | 2015-12-26 | 2015-12-26 |
 | Legea bugetului de stat pe anul 2016 nr. 339/2015 | [`lege/2015/339/`](lege/2015/339/) | in force | 2 | 2015-12-22 | 2016-08-19 |
 | Legea nr. 340/2015 bugetului asigurărilor sociale de stat pe anul 2016 | [`lege/2015/340/`](lege/2015/340/) | in force | 1 | 2015-12-22 | 2015-12-22 |
+| Legea nr. 341/2015 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 101/2013 pentru modificarea Ordonanţei Guvernului nr. 26/2011 privind înfiinţarea Inspectoratului de Stat pentru Controlul în Transportul Rutier | [`lege/2015/341/`](lege/2015/341/) | amending act | 1 | 2015-12-31 | 2015-12-31 |
+| Legea nr. 343/2015 pentru completarea art. 35 din Legea nr. 111/1996 privind desfăşurarea în siguranţă, reglementarea, autorizarea şi controlul activităţilor nucleare | [`lege/2015/343/`](lege/2015/343/) | amending act | 1 | 2015-12-31 | 2015-12-31 |
 | Legea nr. 344/2015 | [`lege/2015/344/`](lege/2015/344/) | in force | 1 | 2015-12-31 | 2015-12-31 |
+| Legea nr. 348/2015 pentru ratificarea Tratatului dintre România şi Republica Kazahstan privind extrădarea, semnat la Bucureşti la 14 noiembrie 2014 | [`lege/2015/348/`](lege/2015/348/) | in force | 1 | 2016-01-02 | 2016-01-02 |
+| Legea nr. 349/2015 pentru ratificarea Tratatului dintre România şi Republica Kazahstan privind transferarea persoanelor condamnate, semnat la Bucureşti la 14 noiembrie 2014 | [`lege/2015/349/`](lege/2015/349/) | in force | 1 | 2016-01-02 | 2016-01-02 |
+| Legea nr. 350/2015 pentru ratificarea Tratatului dintre România şi Republica Kazahstan privind asistenţa judiciară în materie penală, semnat la Bucureşti la 14 noiembrie 2014 | [`lege/2015/350/`](lege/2015/350/) | in force | 1 | 2016-01-03 | 2016-01-03 |
 | Legea nr. 352/2015 pentru modificarea și completarea Ordonanței Guvernului nr. 26/2011 privind înființarea Inspectoratului de Stat pentru Controlul în Transportul Rutier | [`lege/2015/352/`](lege/2015/352/) | repealed 2023-03-30 | 2 | 2023-01-01 | 2023-03-30 |
+| Legea nr. 355/2015 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 14/2015 pentru completarea Legii administraţiei publice locale nr. 215/2001 şi pentru modificarea art. 39 alin. (7^2) din Legea nr. 273/2006 privind finanţele publice locale | [`lege/2015/355/`](lege/2015/355/) | amending act | 1 | 2016-01-01 | 2016-01-01 |
 | Legea nr. 7/2016 pentru modificarea și completarea Legii nr. 94/1992 privind organizarea și funcționarea Curții de Conturi | [`lege/2016/7/`](lege/2016/7/) | amending act | 1 | 2016-03-19 | 2016-03-19 |
 | Legea nr. 8/2016 | [`lege/2016/8/`](lege/2016/8/) | in force | 4 | 2016-01-24 | 2023-01-09 |
 | Legea nr. 11/2016 | [`lege/2016/11/`](lege/2016/11/) | in force | 1 | 2016-01-24 | 2016-01-24 |
@@ -2905,7 +2914,7 @@
 | Legea nr. 204/2026 privind aprobarea Ordonanţei Guvernului nr. 22/2025 pentru modificarea şi completarea Legii nr. 227/2015 privind Codul fiscal şi pentru completarea articolului 342 din Legea nr. 227/2015 privind Codul fiscal | [`lege/2026/204/`](lege/2026/204/) | amending act | 1 | 2026-10-25 | 2026-10-25 |
 | Legea nr. 205/2026 pentru completarea Ordonanţei Guvernului nr. 22/2002 privind executarea obligaţiilor de plată ale instituţiilor publice, stabilite prin titluri executorii | [`lege/2026/205/`](lege/2026/205/) | amending act | 1 | 2026-11-02 | 2026-11-02 |
 
-## Emergency ordinances (OUG) (1666, of which 589 amending acts)
+## Emergency ordinances (OUG) (1667, of which 590 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -3738,6 +3747,7 @@
 | Ordonanța de urgență a Guvernului nr. 56/2015 | [`oug/2015/56/`](oug/2015/56/) | in force | 4 | 2015-11-26 | 2020-11-02 |
 | Ordonanța de urgență a Guvernului nr. 57/2015 | [`oug/2015/57/`](oug/2015/57/) | in force | 21 | 2015-12-11 | 2024-05-16 |
 | Ordonanța de urgență a Guvernului nr. 60/2015 | [`oug/2015/60/`](oug/2015/60/) | in force | 2 | 2015-12-22 | 2016-12-11 |
+| Ordonanța de urgență a Guvernului nr. 61/2015 pentru prorogarea termenului de intrare în vigoare a Legii nr. 151/2015 privind procedura insolvenţei persoanelor fizice | [`oug/2015/61/`](oug/2015/61/) | amending act | 1 | 2015-12-24 | 2015-12-24 |
 | Ordonanța de urgență a Guvernului nr. 67/2015 | [`oug/2015/67/`](oug/2015/67/) | in force | 2 | 2015-12-31 | 2016-04-23 |
 | Ordonanța de urgență a Guvernului nr. 68/2015 | [`oug/2015/68/`](oug/2015/68/) | in force | 2 | 2015-12-31 | 2018-01-12 |
 | Ordonanța de urgență a Guvernului nr. 1/2016 pentru modificarea Legii nr. 134/2010 privind Codul de procedură civilă, precum și a unor acte normative conexe | [`oug/2016/1/`](oug/2016/1/) | amending act | 2 | 2016-02-04 | 2017-03-24 |
@@ -5101,7 +5111,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (12186, of which 5946 amending acts)
+## Government decisions (HG) (12216, of which 5968 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -8655,11 +8665,41 @@
 | Hotărârea Guvernului nr. 954/2015 | [`hg/2015/954/`](hg/2015/954/) | in force | 1 | 2015-12-14 | 2015-12-14 |
 | Hotărârea Guvernului nr. 957/2015 | [`hg/2015/957/`](hg/2015/957/) | in force | 3 | 2015-12-10 | 2016-06-24 |
 | Hotărârea Guvernului nr. 960/2015 privind aprobarea amplasamentului şi declanşarea procedurilor de expropriere a tuturor imobilelor proprietate privată situate în coridorul de expropriere al lucrării de utilitate publică de interes naţional "Deschiderea şi punerea în exploatare a carierei Jilţ Nord la o capacitate de 4,5 milioane tone/an lignit" | [`hg/2015/960/`](hg/2015/960/) | amending act | 2 | 2015-12-11 | 2025-06-13 |
+| Hotărârea Guvernului nr. 982/2015 pentru modificarea Hotărârii Guvernului nr. 223/2014 privind stabilirea unor măsuri pentru organizarea de către Muzeul Naţional de Istorie a României a expoziţiei "Comorile României" în Republica Populară Chineză | [`hg/2015/982/`](hg/2015/982/) | amending act | 1 | 2015-12-22 | 2015-12-22 |
+| Hotărârea Guvernului nr. 983/2015 privind aprobarea bugetului de venituri şi cheltuieli rectificat pe anul 2015 al Societăţii Naţionale "Aeroportul Internaţional Mihail Kogălniceanu - Constanţa" - S.A., aflată sub autoritatea Ministerului Transporturilor | [`hg/2015/983/`](hg/2015/983/) | amending act | 1 | 2015-12-24 | 2015-12-24 |
+| Hotărârea Guvernului nr. 984/2015 privind aprobarea bugetului de venituri şi cheltuieli rectificat pe anul 2015 al Companiei Naţionale "Administraţia Porturilor Maritime" - S.A. Constanţa, aflată sub autoritatea Ministerului Transporturilor | [`hg/2015/984/`](hg/2015/984/) | amending act | 1 | 2015-12-24 | 2015-12-24 |
+| Hotărârea Guvernului nr. 985/2015 privind aprobarea bugetului de venituri şi cheltuieli rectificat pe anul 2015 al Companiei Naţionale "Administraţia Porturilor Dunării Maritime" - S.A. Galaţi, aflată sub autoritatea Ministerului Transporturilor | [`hg/2015/985/`](hg/2015/985/) | amending act | 1 | 2015-12-24 | 2015-12-24 |
+| Hotărârea Guvernului nr. 986/2015 privind aprobarea bugetului de venituri şi cheltuieli rectificat pe anul 2015 al Regiei Autonome "Administraţia Fluvială a Dunării de Jos" Galaţi, aflată sub autoritatea Ministerului Transporturilor | [`hg/2015/986/`](hg/2015/986/) | amending act | 1 | 2015-12-24 | 2015-12-24 |
+| Hotărârea Guvernului nr. 987/2015 privind aprobarea bugetului de venituri şi cheltuieli rectificat pe anul 2015 al Companiei Naţionale "Administraţia Canalelor Navigabile" - S.A., aflată sub autoritatea Ministerului Transporturilor | [`hg/2015/987/`](hg/2015/987/) | amending act | 1 | 2015-12-24 | 2015-12-24 |
+| Hotărârea Guvernului nr. 988/2015 privind aprobarea bugetului de venituri şi cheltuieli rectificat pe anul 2015 pentru Societatea Naţională Închideri de Mine Valea Jiului - S.A., aflată sub autoritatea Ministerului Energiei | [`hg/2015/988/`](hg/2015/988/) | amending act | 1 | 2015-12-24 | 2015-12-24 |
+| Hotărârea Guvernului nr. 989/2015 pentru rectificarea bugetului de venituri şi cheltuieli pe anul 2015 al Agenţiei Naţionale pentru Locuinţe | [`hg/2015/989/`](hg/2015/989/) | in force | 1 | 2015-12-24 | 2015-12-24 |
+| Hotărârea Guvernului nr. 990/2015 privind aprobarea bugetului de venituri şi cheltuieli aferent activităţii de privatizare al Departamentului pentru Privatizare şi Administrarea Participaţiilor Statului pe anul 2015 | [`hg/2015/990/`](hg/2015/990/) | amending act | 1 | 2015-12-24 | 2015-12-24 |
+| Hotărârea Guvernului nr. 991/2015 pentru aprobarea Anexei semnate de partea română la 21 mai 2013 la Brdo pri Kranju privind modificarea Memorandumului de înţelegere referitor la cooperarea şi sprijinul privind Secretariatul Convenţiei de cooperare poliţienească pentru Europa de Sud-Est, semnat la Sofia la 21 mai 2010 | [`hg/2015/991/`](hg/2015/991/) | amending act | 1 | 2015-12-23 | 2015-12-23 |
+| Hotărârea Guvernului nr. 992/2015 privind aprobarea plăţii contribuţiei voluntare a României, în lei, la Organizaţia Internaţională a Francofoniei (OIF), pentru punerea în aplicare a "Memorandumului de parteneriat cu privire la Iniţiativa Francofonă Naţională 2015-2018, în cadrul Programului OIF pentru limba franceză în relaţiile internaţionale", pentru anul 2015 | [`hg/2015/992/`](hg/2015/992/) | amending act | 1 | 2015-12-23 | 2015-12-23 |
+| Hotărârea Guvernului nr. 993/2015 pentru modificarea Hotărârii Guvernului nr. 72/2013 privind aprobarea normelor metodologice pentru determinarea costului standard per elev/preşcolar şi stabilirea finanţării de bază a unităţilor de învăţământ preuniversitar de stat, care se asigură din bugetul de stat, din sume defalcate din T.V.A. prin bugetele locale, pe baza costului standard per elev/preşcolar | [`hg/2015/993/`](hg/2015/993/) | amending act | 1 | 2015-12-24 | 2015-12-24 |
+| Hotărârea Guvernului nr. 994/2015 privind prelungirea termenului de aplicare a prevederilor Hotărârii Guvernului nr. 400/2014 pentru aprobarea pachetelor de servicii şi a Contractului-cadru care reglementează condiţiile acordării asistenţei medicale în cadrul sistemului de asigurări sociale de sănătate pentru anii 2014-2015 | [`hg/2015/994/`](hg/2015/994/) | amending act | 1 | 2015-12-24 | 2015-12-24 |
+| Hotărârea Guvernului nr. 996/2015 privind suplimentarea bugetului Ministerului Tineretului şi Sportului din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2015, pentru premierea sportivelor şi a colectivului tehnic, care au obţinut locul III la Campionatul Mondial de Handbal Feminin, Senioare, desfăşurat în Danemarca în anul 2015 | [`hg/2015/996/`](hg/2015/996/) | in force | 1 | 2015-12-23 | 2015-12-23 |
+| Hotărârea Guvernului nr. 997/2015 privind modificarea datelor de identificare a unui imobil aflat în domeniul public al statului şi în administrarea Ministerului Justiţiei şi transmiterea unei părţi din acesta din domeniul public al statului în domeniul privat al acestuia, în vederea scoaterii din funcţiune şi demolării | [`hg/2015/997/`](hg/2015/997/) | amending act | 1 | 2016-01-04 | 2016-01-04 |
+| Hotărârea Guvernului nr. 998/2015 privind suplimentarea bugetului Autorităţii Naţionale Sanitare Veterinare şi pentru Siguranţa Alimentelor pe anul 2015, pentru plata unor sume prevăzute în titluri executorii având ca obiect acordarea de drepturi salariale | [`hg/2015/998/`](hg/2015/998/) | in force | 1 | 2015-12-23 | 2015-12-23 |
 | Hotărârea Guvernului nr. 1000/2015 privind faptele pentru care se înscriu informații în cazierul fiscal al contribuabililor, potrivit legislației în vigoare | [`hg/2015/1000/`](hg/2015/1000/) | in force | 2 | 2015-12-30 | 2023-01-29 |
 | Hotărârea Guvernului nr. 1002/2015 | [`hg/2015/1002/`](hg/2015/1002/) | in force | 2 | 2015-12-30 | 2016-01-29 |
+| Hotărârea Guvernului nr. 1003/2015 privind înscrierea în inventarul centralizat al bunurilor din domeniul public al statului şi darea în administrarea Serviciului Român de Informaţii a unui imobil aflat în domeniul public al statului | [`hg/2015/1003/`](hg/2015/1003/) | in force | 1 | 2016-01-04 | 2016-01-04 |
+| Hotărârea Guvernului nr. 1004/2015 privind transmiterea unor bunuri aflate în domeniul public al statului din administrarea Ministerului Sănătăţii în administrarea Institutului Naţional de Gerontologie şi Geriatrie "Ana Aslan", subordonat Ministerului Sănătăţii | [`hg/2015/1004/`](hg/2015/1004/) | in force | 1 | 2016-01-04 | 2016-01-04 |
+| Hotărârea Guvernului nr. 1006/2015 pentru modificarea şi completarea Hotărârii Guvernului nr. 1.312/1996 privind înfiinţarea Institutului Naţional de Cercetare-Dezvoltare pentru Fizica Materialelor- INCDFM Bucureşti | [`hg/2015/1006/`](hg/2015/1006/) | amending act | 1 | 2016-01-06 | 2016-01-06 |
+| Hotărârea Guvernului nr. 1009/2015 pentru modificarea anexei la Hotărârea Guvernului nr. 498/2015 privind aprobarea bugetului de venituri şi cheltuieli pe anul 2015 pentru Societatea de Conservare şi Închidere a Minelor "Conversmin" - S.A. Bucureşti, aflată sub autoritatea Ministerului Economiei, Comerţului şi Relaţiilor cu Mediul de Afaceri | [`hg/2015/1009/`](hg/2015/1009/) | amending act | 1 | 2015-12-31 | 2015-12-31 |
+| Hotărârea Guvernului nr. 1010/2015 privind aprobarea bugetului de venituri şi cheltuieli pe anul 2015 pentru Societatea NEPTUN-OLIMP - S.A., aflată sub autoritatea Ministerului Economiei, Comerţului şi Relaţiilor cu Mediul de Afaceri | [`hg/2015/1010/`](hg/2015/1010/) | amending act | 1 | 2015-12-31 | 2015-12-31 |
+| Hotărârea Guvernului nr. 1011/2015 privind aprobarea bugetului de venituri şi cheltuieli pe anul 2015 pentru Societatea LITORAL - S.A., aflată sub autoritatea Ministerului Economiei, Comerţului şi Relaţiilor cu Mediul de Afaceri | [`hg/2015/1011/`](hg/2015/1011/) | amending act | 1 | 2015-12-31 | 2015-12-31 |
+| Hotărârea Guvernului nr. 1013/2015 privind aprobarea bugetului de venituri şi cheltuieli pe anul 2015 al Societăţii Comerciale ACTIVE CONEXE - S.A. Bucureşti, aflată în portofoliul Autorităţii pentru Administrarea Activelor Statului | [`hg/2015/1013/`](hg/2015/1013/) | amending act | 1 | 2015-12-31 | 2015-12-31 |
 | Hotărârea Guvernului nr. 1014/2015 | [`hg/2015/1014/`](hg/2015/1014/) | in force | 2 | 2016-01-01 | 2016-01-10 |
+| Hotărârea Guvernului nr. 1015/2015 pentru aprobarea cotei anuale obligatorii de energie electrică produsă din surse regenerabile de energie, care beneficiază de sistemul de promovare prin certificate verzi, pentru anul 2016 | [`hg/2015/1015/`](hg/2015/1015/) | amending act | 1 | 2015-12-31 | 2015-12-31 |
+| Hotărârea Guvernului nr. 1016/2015 pentru modificarea şi completarea Hotărârii Guvernului nr. 717/2009 privind aprobarea normelor de implementare a programului "Prima casă" | [`hg/2015/1016/`](hg/2015/1016/) | amending act | 1 | 2015-12-31 | 2015-12-31 |
+| Hotărârea Guvernului nr. 1018/2015 pentru stabilirea contribuţiei financiare a României la programele opţionale ale Agenţiei Spaţiale Europene (ESA) | [`hg/2015/1018/`](hg/2015/1018/) | in force | 1 | 2015-12-31 | 2015-12-31 |
 | Hotărârea Guvernului nr. 1019/2015 | [`hg/2015/1019/`](hg/2015/1019/) | in force | 1 | 2015-12-31 | 2015-12-31 |
+| Hotărârea Guvernului nr. 1020/2015 pentru modificarea anexei nr. 1 la Hotărârea Guvernului nr. 90/2010 privind organizarea şi funcţionarea Ministerului Culturii | [`hg/2015/1020/`](hg/2015/1020/) | amending act | 1 | 2016-01-04 | 2016-01-04 |
 | Hotărârea Guvernului nr. 1021/2015 | [`hg/2015/1021/`](hg/2015/1021/) | in force | 1 | 2016-01-04 | 2016-01-04 |
+| Hotărârea Guvernului nr. 1022/2015 pentru suplimentarea numărului maxim de posturi ale Direcţiei Naţionale Anticorupţie | [`hg/2015/1022/`](hg/2015/1022/) | in force | 1 | 2016-01-05 | 2016-01-05 |
+| Hotărârea Guvernului nr. 1024/2015 pentru aprobarea Acordului de colaborare dintre Ministerul Afacerilor Externe, prin Departamentul Consular, şi Organizaţia Internaţională pentru Migraţie (OIM), semnat la Bucureşti la 2 noiembrie 2015 | [`hg/2015/1024/`](hg/2015/1024/) | amending act | 1 | 2016-01-08 | 2016-01-08 |
+| Hotărârea Guvernului nr. 1025/2015 privind transmiterea unui imobil din domeniul public al statului şi din administrarea Serviciului Român de Informaţii în domeniul public al municipiului Turda, judeţul Cluj | [`hg/2015/1025/`](hg/2015/1025/) | in force | 1 | 2016-01-06 | 2016-01-06 |
 | Hotărârea Guvernului nr. 10/2016 | [`hg/2016/10/`](hg/2016/10/) | in force | 2 | 2016-01-26 | 2016-02-05 |
 | Hotărârea Guvernului nr. 11/2016 | [`hg/2016/11/`](hg/2016/11/) | in force | 1 | 2016-01-22 | 2016-01-22 |
 | Hotărârea Guvernului nr. 13/2016 pentru aprobarea Amendamentului nr. 6 convenit între Guvernul României şi Banca Europeană de Investiţii, prin scrisoarea semnată la Luxemburg la 21 septembrie 2015 şi la Bucureşti la 1 octombrie 2015, la Contractul de finanţare dintre România şi Banca Europeană de Investiţii destinat finanţării proiectului privind reabilitarea sectorului sanitar, semnat la Bucureşti la 28 februarie 2005 | [`hg/2016/13/`](hg/2016/13/) | amending act | 1 | 2016-01-22 | 2016-01-22 |
