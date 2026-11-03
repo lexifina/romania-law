@@ -74801,6 +74801,69 @@
    ]
   },
   {
+   "slug": "oug-118-1999",
+   "path": "oug/1999/118",
+   "short": "OUG nr. 118/1999",
+   "title": "Ordonanța de urgență a Guvernului nr. 118/1999",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/109795",
+   "versions": [
+    {
+     "from": "1999-06-30",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/18636",
+     "sha256": "42320024a85841ac0e1ed92c705eec9a364bf148cc3d5fa5f92dfce2e9694756"
+    },
+    {
+     "from": "2000-02-21",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/67788",
+     "sha256": "8c8b9527fc86072aefce813bbf5d86d2d4ef1dd4550339371d95f1aaf721e1ed"
+    },
+    {
+     "from": "2000-03-14",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/67789",
+     "sha256": "651784f2157017586541171becb540c2ed7fe8545d04ab75cee6c1482fd99909"
+    },
+    {
+     "from": "2001-07-09",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/67790",
+     "sha256": "7b30e03faf663ced2e81968d1592c115f7ce1a5d57b48ef91a285b85bd98e93e"
+    },
+    {
+     "from": "2001-07-12",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/67791",
+     "sha256": "ddb087bdda2ed5d87b68c9946f933ee428268952981b86acd7fdf514a5f8b5da"
+    },
+    {
+     "from": "2001-07-13",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/109793",
+     "sha256": "57c17fa2de3959cd2abe057a9a196385b19feb237c3954337e9246ba9f52b7f4"
+    },
+    {
+     "from": "2002-01-01",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/109794",
+     "sha256": "de10fc2245a90901ac397c24ec9e534be2faedf770fcd8f6cad356fd267b4056"
+    },
+    {
+     "from": "2009-06-26",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/109796",
+     "sha256": "224f1037326fea7cdd83382596ca19b3f46168ac52afe24595acbfecde96a6c6"
+    },
+    {
+     "from": "2011-12-23",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/133913",
+     "sha256": "d51a22a472113101e1233582dd5cefd99fab91ace0bffb1d83f29e3543ed4f38"
+    }
+   ]
+  },
+  {
    "slug": "oug-118-2006",
    "path": "oug/2006/118",
    "short": "OUG nr. 118/2006",
@@ -101024,6 +101087,21 @@
    ]
   },
   {
+   "slug": "hg-1162-2022",
+   "path": "hg/2022/1162",
+   "short": "HG nr. 1162/2022",
+   "title": "Hotărârea Guvernului nr. 1162/2022 privind darea în administrarea Inspectoratului General pentru Situaţii de Urgenţă din cadrul Ministerului Afacerilor Interne, pentru constituirea ca stoc de urgenţă medicală, a unor bunuri mobile ce fac obiectul unei donaţii făcute statului român de către Organizaţia Tratatului Atlanticului de Nord",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/259584",
+   "versions": [
+    {
+     "from": "2022-09-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/259584",
+     "sha256": "46fc1c046a01cca5182115254017942d9829be849d2ca928687f799d529d1770"
+    }
+   ]
+  },
+  {
    "slug": "hg-1162-2023",
    "path": "hg/2023/1162",
    "short": "HG nr. 1162/2023",
@@ -101050,6 +101128,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/306305",
      "sha256": "7a9f0b6032743edc67ad7dc9f800ee948dc4b2ee8c452d6cd6de62ca08162b73"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1163-2022",
+   "path": "hg/2022/1163",
+   "short": "HG nr. 1163/2022",
+   "title": "Hotărârea Guvernului nr. 1163/2022 privind declanşarea procedurilor de expropriere a tuturor imobilelor proprietate privată situate pe amplasamentul suplimentar, care fac parte din coridorul de expropriere al lucrării de utilitate publică de interes naţional \"Autostrada de centură Bucureşti, sector Centura Sud km 52+770-km 100+900\", aflate pe raza localităţilor Cernica, Glina, Popeşti-Leordeni şi Berceni din judeţul Ilfov",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/259666",
+   "versions": [
+    {
+     "from": "2022-09-27",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/259666",
+     "sha256": "e30f3da0e1faee115f413895e3017bd224f0b3516851e3eac0c985359e4a8a8f"
     }
    ]
   },
@@ -101245,6 +101338,21 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/276794",
      "sha256": "843924766d98552e4d928fcf82c56ee492d72c37c063caaec2f7193b0aece205"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1171-2022",
+   "path": "hg/2022/1171",
+   "short": "HG nr. 1171/2022",
+   "title": "Hotărârea Guvernului nr. 1171/2022 privind aprobarea stemei comunei Bărcăneşti, judeţul Ialomiţa",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/259667",
+   "versions": [
+    {
+     "from": "2022-09-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/259667",
+     "sha256": "bc6399a49b408c5dd61f8114eb0c74de40a7ebdebdf710c3d726331bcce36e82"
     }
    ]
   },
@@ -101984,6 +102092,21 @@
    ]
   },
   {
+   "slug": "hg-1185-2022",
+   "path": "hg/2022/1185",
+   "short": "HG nr. 1185/2022",
+   "title": "Hotărârea Guvernului nr. 1185/2022 privind acordarea unor ajutoare de urgenţă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/259823",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/259823",
+     "sha256": "0a3b1f227d517bd3d48860f7c49fc4d747b3e561bb4e9be3d5b05c9c78aa9f42"
+    }
+   ]
+  },
+  {
    "slug": "hg-1185-2024",
    "path": "hg/2024/1185",
    "short": "HG nr. 1185/2024",
@@ -102010,6 +102133,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/25376",
      "sha256": "fd793c4ae95ffea97a78cffdf39afa0c304b59c2775ca96a1ac229f1a4d0646c"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1186-2022",
+   "path": "hg/2022/1186",
+   "short": "HG nr. 1186/2022",
+   "title": "Hotărârea Guvernului nr. 1186/2022 privind aprobarea alocării unei sume din bugetul asigurărilor pentru şomaj pe anul 2022 pentru plata venitului lunar de completare de care beneficiază persoanele disponibilizate de la Societatea Complexul Energetic Hunedoara - S.A., în insolvenţă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/259824",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/259824",
+     "sha256": "2c83323c96e79da3b56a70e6e00e719ee275836eda9c964d03b15ea5713dd02a"
     }
    ]
   },
@@ -102100,6 +102238,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/47070",
      "sha256": "7f7fa79b17da1dc5e1addcb7cf51fe504c9a8737a363acf5e419c88d8c2d73ef"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1189-2022",
+   "path": "hg/2022/1189",
+   "short": "HG nr. 1189/2022",
+   "title": "Hotărârea Guvernului nr. 1189/2022 privind aprobarea Programului strategic de dezvoltare a infrastructurii aeroportuare la Societatea Naţională \"Aeroportul Internaţional Mihail Kogălniceanu - Constanţa\" - S.A., pentru perioada 2022-2030",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/259867",
+   "versions": [
+    {
+     "from": "2022-10-04",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/259867",
+     "sha256": "69a2f5b1cd11a7aef35e79a0042b2f64e4c367ff6d8f529492323e0658e90020"
     }
    ]
   },
@@ -102235,6 +102388,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/47073",
      "sha256": "867c65d5c1bf3226449c02a60e54e724cf800e01f2b7130f3a4db54198613f90"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1191-2022",
+   "path": "hg/2022/1191",
+   "short": "HG nr. 1191/2022",
+   "title": "Hotărârea Guvernului nr. 1191/2022 pentru aprobarea Notei de fundamentare privind necesitatea şi oportunitatea efectuării cheltuielilor aferente proiectului de investiţii \"Achiziţia de 16 locomotive electrice noi pe 4 osii cu sisteme ERTMS, capabile să circule cu o viteză maximă situată în intervalul 160 km/h-200 km/h şi să tracteze până la 16 vagoane de călători\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/259869",
+   "versions": [
+    {
+     "from": "2022-10-04",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/259869",
+     "sha256": "ce894f90f62e8648d14edf84ce900b3e15646d5ec55e08db66474d0514dfd2b1"
     }
    ]
   },
@@ -102980,6 +103148,21 @@
    ]
   },
   {
+   "slug": "hg-1206-2022",
+   "path": "hg/2022/1206",
+   "short": "HG nr. 1206/2022",
+   "title": "Hotărârea Guvernului nr. 1206/2022 privind recunoaşterea Uniunii Naţionale a Consiliilor Judeţene din România ca fiind de utilitate publică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/260243",
+   "versions": [
+    {
+     "from": "2022-10-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/260243",
+     "sha256": "3a395992752fe72dbd00711dba8e66f25614b17743c570af8e71b24b876ba196"
+    }
+   ]
+  },
+  {
    "slug": "hg-1206-2023",
    "path": "hg/2023/1206",
    "short": "HG nr. 1206/2023",
@@ -103010,6 +103193,21 @@
    ]
   },
   {
+   "slug": "hg-1207-2022",
+   "path": "hg/2022/1207",
+   "short": "HG nr. 1207/2022",
+   "title": "Hotărârea Guvernului nr. 1207/2022 pentru aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Reabilitarea şi modernizarea Palatului Administrativ - Instituţia Prefectului Judeţul Sibiu\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/260244",
+   "versions": [
+    {
+     "from": "2022-10-07",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/260244",
+     "sha256": "a2befacb9fd8d409d8afbac58e0221d7e2750507494eb82055ba84909d06d626"
+    }
+   ]
+  },
+  {
    "slug": "hg-1207-2023",
    "path": "hg/2023/1207",
    "short": "HG nr. 1207/2023",
@@ -103036,6 +103234,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/143729",
      "sha256": "7fc3608d6e6ebbba9dd02b0440b692faa98c3654deeba0ec69c9349918a119e0"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1208-2022",
+   "path": "hg/2022/1208",
+   "short": "HG nr. 1208/2022",
+   "title": "Hotărârea Guvernului nr. 1208/2022 pentru stabilirea regimului juridic al unor locuinţe din blocul 3A, Str. Sporturilor nr. 10, Cartier Episcopiei, municipiul Buzău, judeţul Buzău, construit prin Programul de construcţii locuinţe pentru tineri, destinate închirierii, aflate în administrarea Consiliului Local al Municipiului Buzău, precum şi a măsurilor necesare în vederea aplicării prevederilor Legii nr. 152/1998 privind înfiinţarea Agenţiei Naţionale pentru Locuinţe, referitoare la vânzarea acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/260345",
+   "versions": [
+    {
+     "from": "2022-10-12",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/260345",
+     "sha256": "f02ee8da272d23b1d07c40823e1814ff14d82da4d4f2500092f227c1a2cf4d51"
     }
    ]
   },
@@ -103211,6 +103424,21 @@
    ]
   },
   {
+   "slug": "hg-1212-2022",
+   "path": "hg/2022/1212",
+   "short": "HG nr. 1212/2022",
+   "title": "Hotărârea Guvernului nr. 1212/2022 pentru aprobarea Acordului dintre Guvernul României şi Guvernul Republicii Serbia privind stabilirea detaliilor pentru conexiunea între Autostrada Timişoara-Moraviţa (RO) şi Autostrada Belgrad-Vatin (RS), semnat la Timişoara la 23 iunie 2022",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/260323",
+   "versions": [
+    {
+     "from": "2022-10-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/260323",
+     "sha256": "304d808243fdeaa40caa177bebce8535af75ca9ba2474418b8d437f38e45bd52"
+    }
+   ]
+  },
+  {
    "slug": "hg-1212-2023",
    "path": "hg/2023/1212",
    "short": "HG nr. 1212/2023",
@@ -103237,6 +103465,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/289081",
      "sha256": "94752286ec46ef9b7d886c71e3b7dd8358959f61ab25f31481e5581c93681051"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1213-2022",
+   "path": "hg/2022/1213",
+   "short": "HG nr. 1213/2022",
+   "title": "Hotărârea Guvernului nr. 1213/2022 privind actualizarea valorii de inventar a imobilului 752 aflat în domeniul public al statului şi în administrarea Ministerului Apărării Naţionale, actualizarea valorilor de inventar şi a descrierii tehnice a unor imobile aflate în domeniul public al statului şi în administrarea Ministerului Transporturilor şi Infrastructurii şi în concesiunea Societăţii Naţionale \"Aeroportul Internaţional Timişoara - Traian Vuia\" - S.A., schimbarea titularilor dreptului de administrare asupra unor părţi din acestea şi modificarea anexelor nr. 4 şi 16 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/260553",
+   "versions": [
+    {
+     "from": "2022-10-19",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/260553",
+     "sha256": "8c73dab5901b14bb28cc764bb0937688be5e50116e02c95b0fd17b44ac93e420"
     }
    ]
   },
@@ -103312,6 +103555,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/289117",
      "sha256": "4f00a377e122ff688ff2c7b47e66807439c4f599186128bb8b24ecef10a2ae6a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1216-2022",
+   "path": "hg/2022/1216",
+   "short": "HG nr. 1216/2022",
+   "title": "Hotărârea Guvernului nr. 1216/2022 pentru aprobarea plăţii contribuţiei financiare restante a României pentru anul 2019, anul 2020 şi a plăţii parţiale a contribuţiei financiare restante pentru anul 2021 la programele opţionale ale Agenţiei Spaţiale Europene (ESA)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/260251",
+   "versions": [
+    {
+     "from": "2022-10-07",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/260251",
+     "sha256": "44d24433d8b8319a1126b8dbd2f221758889b3694c1aedaf44ff1cd473942cf1"
     }
    ]
   },
@@ -103418,6 +103676,21 @@
    ]
   },
   {
+   "slug": "hg-1217-2022",
+   "path": "hg/2022/1217",
+   "short": "HG nr. 1217/2022",
+   "title": "Hotărârea Guvernului nr. 1217/2022 privind modificarea anexei nr. 9 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/260385",
+   "versions": [
+    {
+     "from": "2022-10-13",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/260385",
+     "sha256": "fee27ff35d1341223354818589ae4a9c8c8f36e55745eaa051cf7ca6351f4284"
+    }
+   ]
+  },
+  {
    "slug": "hg-1217-2023",
    "path": "hg/2023/1217",
    "short": "HG nr. 1217/2023",
@@ -103463,6 +103736,21 @@
    ]
   },
   {
+   "slug": "hg-1218-2022",
+   "path": "hg/2022/1218",
+   "short": "HG nr. 1218/2022",
+   "title": "Hotărârea Guvernului nr. 1218/2022 privind actualizarea valorii de inventar, modificarea adresei poştale, a codului de clasificaţie şi a caracteristicilor tehnice ale imobilului cu nr. MF 150344, aflat în domeniul public al statului, precum şi transmiterea unei părţi din acesta din administrarea Direcţiei Generale Regionale a Finanţelor Publice Bucureşti în administrarea Ministerului Transporturilor şi Infrastructurii, pentru Compania Naţională de Administrare a Infrastructurii Rutiere - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/260308",
+   "versions": [
+    {
+     "from": "2022-10-11",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/260308",
+     "sha256": "d789f244182890c69530f0ac6aa7efaa6b5c3d08bdf554e4b7e0152f62123e67"
+    }
+   ]
+  },
+  {
    "slug": "hg-1218-2023",
    "path": "hg/2023/1218",
    "short": "HG nr. 1218/2023",
@@ -103489,6 +103777,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/32782",
      "sha256": "a6408b04e97606c27eb1535ff64b1232f50e2631371248536d61792fb4851b43"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1219-2022",
+   "path": "hg/2022/1219",
+   "short": "HG nr. 1219/2022",
+   "title": "Hotărârea Guvernului nr. 1219/2022 privind trecerea unor bunuri imobile aflate în administrarea Staţiunii de Cercetare-Dezvoltare Agricolă Suceava din domeniul public al statului în domeniul privat al acestuia, în vederea scoaterii din funcţiune, valorificării şi casării, după caz",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/260386",
+   "versions": [
+    {
+     "from": "2022-10-13",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/260386",
+     "sha256": "fb966060b0a7db80806ba3bc60d5a3a740cc1225238f879fcc08fb4f1c5b248a"
     }
    ]
   },
@@ -103534,6 +103837,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/295037",
      "sha256": "963123a5af2b344337ad6793a6b9036c8898dd83008da114749cc136173d47cb"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1220-2022",
+   "path": "hg/2022/1220",
+   "short": "HG nr. 1220/2022",
+   "title": "Hotărârea Guvernului nr. 1220/2022 privind recunoaşterea Asociaţiei Uniunea Jurnaliştilor Maghiari din România ca fiind de utilitate publică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/260387",
+   "versions": [
+    {
+     "from": "2022-10-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/260387",
+     "sha256": "ff8893331c9a86e86087ca7ace58f2af2836aaa43dbf181fa99bb0932d2d068e"
     }
    ]
   },
@@ -103639,6 +103957,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/289127",
      "sha256": "1afd47205633afc085818110f6e6123989bde0620d66bfe99ecf9cc51068cce0"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1224-2022",
+   "path": "hg/2022/1224",
+   "short": "HG nr. 1224/2022",
+   "title": "Hotărârea Guvernului nr. 1224/2022 privind datele de identificare şi elementele de individualizare ale creanţei care face obiectul preluării de către Administraţia Naţională a Rezervelor de Stat şi Probleme Speciale de la Autoritatea pentru Administrarea Activelor Statului asupra Societăţii Transbordare Vagoane Marfă - S.A. - în faliment",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/260313",
+   "versions": [
+    {
+     "from": "2022-10-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/260313",
+     "sha256": "c3d64b17846a6603cf0c12b3b96def2c10d14b3f4fa26fc91c57dd69033218c0"
     }
    ]
   },
@@ -103829,6 +104162,21 @@
    ]
   },
   {
+   "slug": "hg-1231-2022",
+   "path": "hg/2022/1231",
+   "short": "HG nr. 1231/2022",
+   "title": "Hotărârea Guvernului nr. 1231/2022 privind scăderea din inventarul centralizat al bunurilor din domeniul public al statului a unei suprafeţe de teren de 10,2234 ha aflată în administrarea Agenţiei Domeniilor Statului, ca urmare a restituirii acesteia către persoane îndreptăţite, precum şi trecerea unei suprafeţe de 5,094 ha teren cu destinaţie agricolă din domeniul public al statului în domeniul privat al statului şi în administrarea Agenţiei Domeniilor Statului, în vederea reconstituirii dreptului de proprietate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/260494",
+   "versions": [
+    {
+     "from": "2022-10-18",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/260494",
+     "sha256": "5ad4876092856880cfb4de52ad8d3f8cdf6657dffc3d68233cd7df0cacba2995"
+    }
+   ]
+  },
+  {
    "slug": "hg-1232-2000",
    "path": "hg/2000/1232",
    "short": "HG nr. 1232/2000",
@@ -103844,6 +104192,21 @@
    ]
   },
   {
+   "slug": "hg-1232-2022",
+   "path": "hg/2022/1232",
+   "short": "HG nr. 1232/2022",
+   "title": "Hotărârea Guvernului nr. 1232/2022 privind actualizarea descrierii tehnice şi a valorilor de inventar ale unor imobile aflate în domeniul public al statului şi în administrarea Consiliului Naţional al Audiovizualului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/260495",
+   "versions": [
+    {
+     "from": "2022-10-18",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/260495",
+     "sha256": "c109f2b44681798d52b87f7b3369d0fde1ea4a1810045c56d1af756e6ca90442"
+    }
+   ]
+  },
+  {
    "slug": "hg-1232-2023",
    "path": "hg/2023/1232",
    "short": "HG nr. 1232/2023",
@@ -103855,6 +104218,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/277288",
      "sha256": "538b5c09cd7c6d626b7c4c15b919580409c71e74d6d510bedc027e9cb5601454"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1233-2022",
+   "path": "hg/2022/1233",
+   "short": "HG nr. 1233/2022",
+   "title": "Hotărârea Guvernului nr. 1233/2022 privind declasificarea Hotărârii Guvernului nr. S-639/2008 pentru modificarea şi completarea Hotărârii Guvernului nr. 1.086/2004 pentru stabilirea sporurilor specifice şi a drepturilor de diurnă, cazare şi hrană cuvenite personalului participant la misiuni în afara teritoriului statului român",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/260478",
+   "versions": [
+    {
+     "from": "2022-10-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/260478",
+     "sha256": "73af59ccedd7ec8b4fa3b92017c1cc80eefae81aeb5149bc3876ee0d08c5748f"
     }
    ]
   },
@@ -104033,6 +104411,21 @@
    ]
   },
   {
+   "slug": "hg-1238-2022",
+   "path": "hg/2022/1238",
+   "short": "HG nr. 1238/2022",
+   "title": "Hotărârea Guvernului nr. 1238/2022 privind stabilirea valorii schemei de finanţare pentru anul 2022, condiţiilor de eligibilitate, cheltuielilor eligibile, modului de acordare a finanţării, precum şi a modalităţii de verificare şi control pentru schema de finanţare în cadrul Programului de investiţii pentru înfiinţarea centrelor de colectare şi/sau prelucrare a laptelui în zona montană",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/260521",
+   "versions": [
+    {
+     "from": "2022-10-18",
+     "units": 21,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/260521",
+     "sha256": "b2003e81ea5369b750d8eb505d6ff5fe6e3ca55aa48900b959d3fab6be990fb8"
+    }
+   ]
+  },
+  {
    "slug": "hg-1239-2010",
    "path": "hg/2010/1239",
    "short": "HG nr. 1239/2010",
@@ -104056,6 +104449,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/144719",
      "sha256": "6c3966080bcd10b065679a3edf01544146c3f571104c9556d2ede6fc073b8a5b"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1239-2022",
+   "path": "hg/2022/1239",
+   "short": "HG nr. 1239/2022",
+   "title": "Hotărârea Guvernului nr. 1239/2022 privind stabilirea valorii schemei de finanţare pentru anul 2022, condiţiilor de eligibilitate, cheltuielilor eligibile, modului de acordare a finanţării, precum şi a modalităţilor de verificare şi control în cadrul Programului de investiţii pentru înfiinţarea stânelor montane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/260522",
+   "versions": [
+    {
+     "from": "2022-10-18",
+     "units": 21,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/260522",
+     "sha256": "195a528d9853349b9309e84119eae325cac2f3cc55e8f7a39ea632f4231ae74b"
     }
    ]
   },
@@ -104122,6 +104530,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/295039",
      "sha256": "d41d6bcf02e3740a8238a06c8c18fa56bee46bc07501f43bfec730fc196c66b3"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1240-2022",
+   "path": "hg/2022/1240",
+   "short": "HG nr. 1240/2022",
+   "title": "Hotărârea Guvernului nr. 1240/2022 privind stabilirea valorii schemei de finanţare pentru anul 2022, a condiţiilor de eligibilitate, a cheltuielilor eligibile, a modului de acordare a finanţării, precum şi a modalităţilor de verificare şi control în cadrul Programului de investiţii pentru înfiinţarea centrelor de colectare sau de colectare şi prelucrare a fructelor de pădure, a ciupercilor şi/sau a plantelor medicinale şi aromatice din flora spontană şi/sau de cultură în zona montană",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/260524",
+   "versions": [
+    {
+     "from": "2022-10-18",
+     "units": 21,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/260524",
+     "sha256": "879b564a678c3ec65baeb1a65271e921d089cac3346497da2475f1de7711e8d2"
     }
    ]
   },
@@ -104216,6 +104639,21 @@
    ]
   },
   {
+   "slug": "hg-1246-2022",
+   "path": "hg/2022/1246",
+   "short": "HG nr. 1246/2022",
+   "title": "Hotărârea Guvernului nr. 1246/2022 privind aprobarea declanşării procedurilor de expropriere a tuturor imobilelor proprietate privată, aprobarea listei imobilelor proprietate publică a statului, precum şi a listei imobilelor proprietate publică a unităţilor administrativ-teritoriale, situate pe amplasamentul suplimentar care constituie coridorul de expropriere al lucrării de utilitate publică de interes naţional \"Reabilitarea liniei C.F. Frontieră - Curtici-Simeria, parte componentă a Coridorului IV Pan-European pentru circulaţia trenurilor cu viteza maximă de 160 km/h; Tronsonul 2: km 614 - Gurasada şi Tronsonul 3: Gurasada-Simeria\", pentru unităţile administrativ-teritoriale Simeria, Deva, Veţel, Brănişca, Ilia, Gurasada, Burjuc şi Zam, judeţul Hunedoara",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/260473",
+   "versions": [
+    {
+     "from": "2022-10-17",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/260473",
+     "sha256": "37e714d216cc5de6e2dd0535faf42b29ccf0b51522abcbddd91a1096b292f3f1"
+    }
+   ]
+  },
+  {
    "slug": "hg-1246-2023",
    "path": "hg/2023/1246",
    "short": "HG nr. 1246/2023",
@@ -104261,6 +104699,21 @@
    ]
   },
   {
+   "slug": "hg-1248-2022",
+   "path": "hg/2022/1248",
+   "short": "HG nr. 1248/2022",
+   "title": "Hotărârea Guvernului nr. 1248/2022 privind aprobarea caracteristicilor principale şi a indicatorilor tehnico-economici aferenţi obiectivului de investiţii \"Reducerea riscului la inundaţii a municipiului Tecuci, judeţul Galaţi\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/260437",
+   "versions": [
+    {
+     "from": "2022-10-14",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/260437",
+     "sha256": "47e7b87284a29a69ef6b23af8775d1839e5d446f96e737c951874a79d3000239"
+    }
+   ]
+  },
+  {
    "slug": "hg-1248-2024",
    "path": "hg/2024/1248",
    "short": "HG nr. 1248/2024",
@@ -104272,6 +104725,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/289272",
      "sha256": "1a34f758641d25fbe6b37266b65fcae04a6ac5ffe1d8827232b6a18e64cfadd4"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1249-2022",
+   "path": "hg/2022/1249",
+   "short": "HG nr. 1249/2022",
+   "title": "Hotărârea Guvernului nr. 1249/2022 privind unele măsuri referitoare la mutarea temporară a arhivei fostei Direcţii Generale de Protecţie şi Anticorupţie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/260474",
+   "versions": [
+    {
+     "from": "2022-10-17",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/260474",
+     "sha256": "0e6a03bcb252084bb938fcd880bd5e3c946255faa3fd48430d6f6c09e40bd43e"
     }
    ]
   },
@@ -104402,6 +104870,21 @@
    ]
   },
   {
+   "slug": "hg-1251-2022",
+   "path": "hg/2022/1251",
+   "short": "HG nr. 1251/2022",
+   "title": "Hotărârea Guvernului nr. 1251/2022 pentru aprobarea bugetului rectificat de venituri şi cheltuieli pe anul 2022 al Agenţiei Naţionale pentru Locuinţe, instituţie publică aflată sub autoritatea Ministerului Dezvoltării, Lucrărilor Publice şi Administraţiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/260475",
+   "versions": [
+    {
+     "from": "2022-10-17",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/260475",
+     "sha256": "828ac858b95169e2107b7ee3d7de322ac258fa99e3b959aef2c886523443a54f"
+    }
+   ]
+  },
+  {
    "slug": "hg-1251-2024",
    "path": "hg/2024/1251",
    "short": "HG nr. 1251/2024",
@@ -104428,6 +104911,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/144371",
      "sha256": "5bce6fb2aa502bc178266635dfcb29f32199b3d7d73f5999dc2ce7691d9eb6a2"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1252-2022",
+   "path": "hg/2022/1252",
+   "short": "HG nr. 1252/2022",
+   "title": "Hotărârea Guvernului nr. 1252/2022 pentru aprobarea Normelor metodologice privind crearea, amenajarea şi omologarea traseelor pentru turism pedestru",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/260650",
+   "versions": [
+    {
+     "from": "2022-11-19",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/260650",
+     "sha256": "75d875914f8c67675c6a74ce091686d13276f37aa98b669f7ffb375b36b3122c"
     }
    ]
   },
@@ -105110,6 +105608,21 @@
    ]
   },
   {
+   "slug": "hg-1267-2022",
+   "path": "hg/2022/1267",
+   "short": "HG nr. 1267/2022",
+   "title": "Hotărârea Guvernului nr. 1267/2022 pentru reaprobarea indicatorilor tehnico-economici aferenţi obiectivului de investiţii \"Consolidare şi protecţie versanţi DN 7A km 63+200-km 86+601\", judeţul Vâlcea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/260634",
+   "versions": [
+    {
+     "from": "2022-10-20",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/260634",
+     "sha256": "4ae9c37c345cfd5f3e70a9ae6eb402d9eb30856925d0e894c67b6757865293e8"
+    }
+   ]
+  },
+  {
    "slug": "hg-1267-2024",
    "path": "hg/2024/1267",
    "short": "HG nr. 1267/2024",
@@ -105305,6 +105818,21 @@
    ]
   },
   {
+   "slug": "hg-1274-2022",
+   "path": "hg/2022/1274",
+   "short": "HG nr. 1274/2022",
+   "title": "Hotărârea Guvernului nr. 1274/2022 privind aprobarea bugetului de venituri şi cheltuieli rectificat pe anul 2022 al Societăţii Comerciale de Transport cu Metroul Bucureşti \"Metrorex\" - S.A., aflată sub autoritatea Ministerului Transporturilor şi Infrastructurii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/260637",
+   "versions": [
+    {
+     "from": "2022-10-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/260637",
+     "sha256": "276c00e4c00bc5f8be05acc6ee86af672bbca566efb6d47c19e2c4aa43145709"
+    }
+   ]
+  },
+  {
    "slug": "hg-1274-2023",
    "path": "hg/2023/1274",
    "short": "HG nr. 1274/2023",
@@ -105337,6 +105865,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/25823",
      "sha256": "d0662c22cd49893ae49b414b0844f7b1de04e701169943ddc2169ccab632565a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1275-2022",
+   "path": "hg/2022/1275",
+   "short": "HG nr. 1275/2022",
+   "title": "Hotărârea Guvernului nr. 1275/2022 privind aprobarea bugetului de venituri şi cheltuieli rectificat pe anul 2022 al Societăţii Naţionale \"Aeroportul Internaţional Mihail Kogălniceanu - Constanţa\" - S.A., aflată sub autoritatea Ministerului Transporturilor şi Infrastructurii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/260649",
+   "versions": [
+    {
+     "from": "2022-10-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/260649",
+     "sha256": "f4ca244372693568b9d489d5f2eb938b09f6db6e11c3ba967015d661bfb67678"
     }
    ]
   },
@@ -105491,6 +106034,21 @@
    ]
   },
   {
+   "slug": "hg-1279-2022",
+   "path": "hg/2022/1279",
+   "short": "HG nr. 1279/2022",
+   "title": "Hotărârea Guvernului nr. 1279/2022 privind aprobarea bugetului de venituri şi cheltuieli rectificat pe anul 2022 al Regiei Autonome \"Autoritatea Aeronautică Civilă Română\", aflată sub autoritatea Ministerului Transporturilor şi Infrastructurii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/260672",
+   "versions": [
+    {
+     "from": "2022-10-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/260672",
+     "sha256": "c8f44be10181349bbfd5059e63faeb66de4fb0e00e392ecb99988a54d2d8390d"
+    }
+   ]
+  },
+  {
    "slug": "hg-1279-2023",
    "path": "hg/2023/1279",
    "short": "HG nr. 1279/2023",
@@ -105611,6 +106169,21 @@
    ]
   },
   {
+   "slug": "hg-1281-2022",
+   "path": "hg/2022/1281",
+   "short": "HG nr. 1281/2022",
+   "title": "Hotărârea Guvernului nr. 1281/2022 pentru derogarea de la prevederile art. 31 alin. (1) din Hotărârea Guvernului nr. 1.076/2004 privind stabilirea procedurii de realizare a evaluării de mediu pentru planuri şi programe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/260638",
+   "versions": [
+    {
+     "from": "2022-10-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/260638",
+     "sha256": "9b594c6165562a83ef3bbdbe9b69c6af42cb2995cf701ec945964f5739e2ebd9"
+    }
+   ]
+  },
+  {
    "slug": "hg-1281-2024",
    "path": "hg/2024/1281",
    "short": "HG nr. 1281/2024",
@@ -105637,6 +106210,36 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/260639",
      "sha256": "f03a5e28399816c7701e0c10670fd23dccbdc649c24586408c0c2e42f96e4aca"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1283-2022",
+   "path": "hg/2022/1283",
+   "short": "HG nr. 1283/2022",
+   "title": "Hotărârea Guvernului nr. 1283/2022 pentru modificarea art. 18 alin. (2) din Hotărârea Guvernului nr. 347/2016 privind stabilirea cadrului general de implementare a operaţiunilor cofinanţate din Fondul European pentru Pescuit şi Afaceri Maritime prin Programul operaţional pentru pescuit şi afaceri maritime 2014-2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/260674",
+   "versions": [
+    {
+     "from": "2022-10-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/260674",
+     "sha256": "9efbfe65919739b60a0e0bc0afea8aa29968cf1e733a66bed12fc7a536b6d0e1"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1284-2022",
+   "path": "hg/2022/1284",
+   "short": "HG nr. 1284/2022",
+   "title": "Hotărârea Guvernului nr. 1284/2022 pentru aprobarea Notei de fundamentare privind necesitatea şi oportunitatea efectuării cheltuielilor aferente proiectului de investiţii \"Achiziţie de 20 de rame electrice interregionale de lung parcurs RE-IR-2\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/260684",
+   "versions": [
+    {
+     "from": "2022-10-21",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/260684",
+     "sha256": "b78c597031bc25349ab9fa30969fe54327aaec2c63492408b708dbbbbae04f62"
     }
    ]
   },
@@ -106093,6 +106696,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/277628",
      "sha256": "8ba4c7437c80206deeddaa9a32f23dc0b4035321be868b23f9cf07f64320a3de"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1293-2022",
+   "path": "hg/2022/1293",
+   "short": "HG nr. 1293/2022",
+   "title": "Hotărârea Guvernului nr. 1293/2022 pentru aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Construire şi dotare Centru de Oncologie şi Radiochirurgie Stereotactică\" în cadrul Spitalului Clinic de Urgenţă \"Bagdasar-Arseni\" Bucureşti",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/260647",
+   "versions": [
+    {
+     "from": "2022-10-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/260647",
+     "sha256": "ce4a1e2b12ba9a82c2dcaea4e64ae4d46eebf364a75ceb5e1dcd5f47e45ef9c3"
     }
    ]
   },
@@ -181532,6 +182150,21 @@
    ]
   },
   {
+   "slug": "legea-270-2022",
+   "path": "lege/2022/270",
+   "short": "Legea nr. 270/2022",
+   "title": "Legea nr. 270/2022 pentru respingerea Ordonanţei de urgenţă a Guvernului nr. 90/2018 privind unele măsuri pentru operaţionalizarea Secţiei pentru investigarea infracţiunilor din justiţie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/259745",
+   "versions": [
+    {
+     "from": "2022-10-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/259745",
+     "sha256": "cac915351a974af8cebc83d6cdd4ba65383c76a4f0a87d876742e7415c4680d1"
+    }
+   ]
+  },
+  {
    "slug": "legea-270-2023",
    "path": "lege/2023/270",
    "short": "Legea nr. 270/2023",
@@ -181573,6 +182206,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/44756",
      "sha256": "c32b20eca3f32a0522f45ab95276ad3bd9e0a79f109357732d61269a02ffe6db"
+    }
+   ]
+  },
+  {
+   "slug": "legea-271-2022",
+   "path": "lege/2022/271",
+   "short": "Legea nr. 271/2022",
+   "title": "Legea nr. 271/2022 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 87/2021 privind completarea art. 3 din Ordonanţa de urgenţă a Guvernului nr. 82/2016 pentru aprobarea Statutului special al funcţiei publice specifice de inspector social şi pentru modificarea şi completarea unor acte normative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/259747",
+   "versions": [
+    {
+     "from": "2022-10-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/259747",
+     "sha256": "1d0f9827ed79372106b063e72031218aebcedc3b5b94c15bfc3cb23ceaf6ef1e"
     }
    ]
   },
@@ -182374,6 +183022,21 @@
      "units": 12,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/290923",
      "sha256": "fa8defcdb2353eb3146a2e0044157791ea2c9080c6487130fcb02f7209c275b6"
+    }
+   ]
+  },
+  {
+   "slug": "legea-284-2022",
+   "path": "lege/2022/284",
+   "short": "Legea nr. 284/2022",
+   "title": "Legea nr. 284/2022 pentru ratificarea Acordului dintre Guvernul României şi Guvernul Regatului Arabiei Saudite privind cooperarea în domeniul apărării, semnat la Riad la 24 ianuarie 2022",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/260618",
+   "versions": [
+    {
+     "from": "2022-10-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/260618",
+     "sha256": "38408990ed0a4cd56bea3f6140d9f2a2119f7c034d3c17054fe163142e770101"
     }
    ]
   },
