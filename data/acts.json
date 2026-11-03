@@ -971,6 +971,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/3254"
 },
 {
+"slug": "legea-82-1993",
+"path": "lege/1993/82",
+"kind": "lege",
+"year": "1993",
+"number": "82",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 82/1993 privind constituirea Rezervatiei Biosferei \"Delta Dunării\"",
+"short": "Legea nr. 82/1993",
+"code": null,
+"status": "in force",
+"versions": 9,
+"from": "1994-01-06",
+"latest": "2023-05-25",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/3259"
+},
+{
 "slug": "legea-84-1993",
 "path": "lege/1993/84",
 "kind": "lege",

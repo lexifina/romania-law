@@ -1,6 +1,6 @@
 # Every act in this repository
 
-5322 acts, 14,290 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+5323 acts, 14,299 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -32,7 +32,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (1517, of which 608 amending acts)
+## Laws (legi) (1518, of which 608 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -92,6 +92,7 @@
 | Legea nr. 71/1993 | [`lege/1993/71/`](lege/1993/71/) | in force | 1 | 1993-11-03 | 1993-11-03 |
 | Legea nr. 73/1993 | [`lege/1993/73/`](lege/1993/73/) | in force | 5 | 1993-11-05 | 2024-07-25 |
 | Legea nr. 79/1993 | [`lege/1993/79/`](lege/1993/79/) | in force | 1 | 1993-11-19 | 1993-11-19 |
+| Legea nr. 82/1993 privind constituirea Rezervatiei Biosferei "Delta Dunării" | [`lege/1993/82/`](lege/1993/82/) | in force | 9 | 1994-01-06 | 2023-05-25 |
 | Legea nr. 84/1993 | [`lege/1993/84/`](lege/1993/84/) | in force | 1 | 1993-12-15 | 1993-12-15 |
 | Legea nr. 10/1994 | [`lege/1994/10/`](lege/1994/10/) | in force | 1 | 1994-03-11 | 1994-03-11 |
 | Legea nr. 33/1994 privind exproprierea pentru cauză de utilitate publică | [`lege/1994/33/`](lege/1994/33/) | in force | 3 | 1994-06-02 | 2020-11-16 |

@@ -28775,6 +28775,69 @@
    ]
   },
   {
+   "slug": "legea-82-1993",
+   "path": "lege/1993/82",
+   "short": "Legea nr. 82/1993",
+   "title": "Legea nr. 82/1993 privind constituirea Rezervatiei Biosferei \"Delta Dunării\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/3259",
+   "versions": [
+    {
+     "from": "1994-01-06",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/3259",
+     "sha256": "b514e72cedad7e1dc9faf60a1614b6fcb6e23baf37621ad8db335277c9516710"
+    },
+    {
+     "from": "1994-03-22",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/110353",
+     "sha256": "75ab1ad6e32c70a5876b92d73b39082d122f0e1cee03faca9038fed0920c7138"
+    },
+    {
+     "from": "2014-02-01",
+     "units": 31,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/149580",
+     "sha256": "fe4b76b5fa65bbd4ea60f8a70cd29092fbd6ffbdb605785025cbe67bb66dc962"
+    },
+    {
+     "from": "2014-07-25",
+     "units": 31,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/160085",
+     "sha256": "0a60e013c09b359004b8a6e0e8d1f8b69fd3d08fb6c6adc85f9b6ab44791a1be"
+    },
+    {
+     "from": "2015-11-22",
+     "units": 31,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/173240",
+     "sha256": "04cd3e65ea98207eadd7c73c70d9daa2754410504e005cad578477825f847c32"
+    },
+    {
+     "from": "2017-06-30",
+     "units": 31,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/190500",
+     "sha256": "190a3b15495c0a4813b92a69bd0fc24b2619a6e938b211f0753712c39d0d419c"
+    },
+    {
+     "from": "2018-01-31",
+     "units": 31,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/196990",
+     "sha256": "f649782847dc8c2ef2b63af0bfc98f0223344e5cc413c64a3e7afcf05609fa47"
+    },
+    {
+     "from": "2022-11-03",
+     "units": 31,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/259073",
+     "sha256": "1f37ceff4d597f4c8bbc2f261b9831b6048b4c1b7b3348f8e46c6cc495b2f39e"
+    },
+    {
+     "from": "2023-05-25",
+     "units": 31,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/267684",
+     "sha256": "98e4b1a880fe1111364ac1d5b416429cc1bfa2bb6328029767a446ed1a38cbb4"
+    }
+   ]
+  },
+  {
    "slug": "legea-84-1998",
    "path": "lege/1998/84",
    "short": "Legea nr. 84/1998",
