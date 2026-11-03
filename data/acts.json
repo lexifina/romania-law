@@ -66676,6 +66676,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/135724"
 },
 {
+"slug": "og-9-2005",
+"path": "og/2005/9",
+"kind": "og",
+"year": "2005",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța Guvernului nr. 9/2005",
+"short": "OG nr. 9/2005",
+"code": null,
+"status": "in force",
+"versions": 2,
+"from": "2005-01-31",
+"latest": "2005-05-08",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/61458"
+},
+{
 "slug": "og-10-2005",
 "path": "og/2005/10",
 "kind": "og",

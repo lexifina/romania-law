@@ -71627,6 +71627,27 @@
    ]
   },
   {
+   "slug": "og-9-2005",
+   "path": "og/2005/9",
+   "short": "OG nr. 9/2005",
+   "title": "Ordonanța Guvernului nr. 9/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/61458",
+   "versions": [
+    {
+     "from": "2005-01-31",
+     "units": 25,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/58903",
+     "sha256": "eafb0f079169757564da2af094f575e3ddb6fa5a0051665438bba843705fbbac"
+    },
+    {
+     "from": "2005-05-08",
+     "units": 25,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/61458",
+     "sha256": "89ec8d256374236c113d68138e3e3aac34d47f79d9e64e8117d8450a89d648b4"
+    }
+   ]
+  },
+  {
    "slug": "og-92-2000",
    "path": "og/2000/92",
    "short": "OG nr. 92/2000",

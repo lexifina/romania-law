@@ -1,6 +1,6 @@
 # Every act in this repository
 
-9416 acts, 22,742 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+9417 acts, 22,744 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -3741,7 +3741,7 @@
 | Ordonanța de urgență a Guvernului nr. 30/2026 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 23/2004 privind stabilirea unor măsuri de reorganizare a Autorităţii pentru Valorificarea Activelor Bancare prin comasarea prin absorbţie cu Autoritatea pentru Privatizare şi Administrarea Participaţiilor Statului | [`oug/2026/30/`](oug/2026/30/) | amending act | 1 | 2026-04-21 | 2026-04-21 |
 | Ordonanța de urgență a Guvernului nr. 33/2026 pentru modificarea şi completarea Legii educaţiei fizice şi sportului nr. 69/2000 | [`oug/2026/33/`](oug/2026/33/) | amending act | 1 | 2026-04-27 | 2026-04-27 |
 
-## Ordinances (OG) (490, of which 92 amending acts)
+## Ordinances (OG) (491, of which 92 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -3967,6 +3967,7 @@
 | Ordonanța Guvernului nr. 5/2005 | [`og/2005/5/`](og/2005/5/) | in force | 2 | 2005-01-28 | 2005-05-08 |
 | Ordonanța Guvernului nr. 7/2005 | [`og/2005/7/`](og/2005/7/) | in force | 3 | 2005-02-03 | 2006-10-11 |
 | Ordonanța Guvernului nr. 8/2005 | [`og/2005/8/`](og/2005/8/) | in force | 3 | 2005-02-03 | 2006-06-18 |
+| Ordonanța Guvernului nr. 9/2005 | [`og/2005/9/`](og/2005/9/) | in force | 2 | 2005-01-31 | 2005-05-08 |
 | Ordonanța Guvernului nr. 10/2005 | [`og/2005/10/`](og/2005/10/) | in force | 6 | 2005-01-31 | 2008-02-10 |
 | Ordonanța Guvernului nr. 11/2005 | [`og/2005/11/`](og/2005/11/) | in force | 2 | 2005-01-31 | 2005-05-19 |
 | Ordonanța Guvernului nr. 19/2005 | [`og/2005/19/`](og/2005/19/) | in force | 1 | 2005-02-03 | 2005-02-03 |
