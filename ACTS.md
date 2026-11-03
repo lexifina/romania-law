@@ -1,6 +1,6 @@
 # Every act in this repository
 
-12472 acts, 26,054 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+12480 acts, 26,062 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -4568,7 +4568,7 @@
 | Ordonanța Guvernului nr. 21/2025 pentru modificarea și completarea Legii nr. 431/2023 privind asigurarea unui nivel minim global de impozitare a grupurilor de întreprinderi multinaționale și a grupurilor naționale de mari dimensiuni | [`og/2025/21/`](og/2025/21/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 | Ordonanța Guvernului nr. 22/2025 pentru modificarea și completarea Legii nr. 227/2015 privind Codul fiscal | [`og/2025/22/`](og/2025/22/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 
-## Government decisions (HG) (7913, of which 3393 amending acts)
+## Government decisions (HG) (7921, of which 3397 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -5408,12 +5408,20 @@
 | Hotărârea Guvernului nr. 6/2008 privind acordarea unor ajutoare de urgenţă | [`hg/2008/6/`](hg/2008/6/) | in force | 1 | 2008-01-10 | 2008-01-10 |
 | Hotărârea Guvernului nr. 7/2008 privind acordarea unor ajutoare financiare | [`hg/2008/7/`](hg/2008/7/) | in force | 1 | 2008-01-11 | 2008-01-11 |
 | Hotărârea Guvernului nr. 8/2008 | [`hg/2008/8/`](hg/2008/8/) | in force | 1 | 2008-01-10 | 2008-01-10 |
+| Hotărârea Guvernului nr. 14/2008 pentru aprobarea amendamentelor convenite între Guvernul României şi Banca Europeană de Investiţii, prin scrisorile semnate la Bucureşti la datele de 21 iunie 2007 şi 19 iulie 2007 şi la Luxemburg la data de 9 iulie 2007, la Contractul de finanţare dintre România şi Banca Europeană de Investiţii - Programul de dezvoltare a infrastructurii în oraşele mici şi mijlocii din România (SAMTID), faza I, semnat la Bucureşti la 28 februarie 2005 | [`hg/2008/14/`](hg/2008/14/) | amending act | 1 | 2008-01-18 | 2008-01-18 |
+| Hotărârea Guvernului nr. 16/2008 pentru aprobarea amendamentului convenit prin schimbul de scrisori semnate la Bucureşti la 25 septembrie 2007 şi la Washington la 9 octombrie 2007, între Guvernul României şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare, la Acordul de împrumut dintre România şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare pentru realizarea Proiectului de finanţare rurală, semnat la Washington DC la 30 aprilie 2001 | [`hg/2008/16/`](hg/2008/16/) | amending act | 1 | 2008-01-16 | 2008-01-16 |
 | Hotărârea Guvernului nr. 18/2008 privind asimilarea corespondenţilor speciali ai Agenţiei Naţionale de Presă ROMPRES în străinătate, în ceea ce priveşte salarizarea în valută şi celelalte drepturi în valută şi în lei, cu personalul trimis în misiune permanentă în străinătate | [`hg/2008/18/`](hg/2008/18/) | in force | 1 | 2008-01-14 | 2008-01-14 |
+| Hotărârea Guvernului nr. 21/2008 privind darea în administrarea Ministerului Transporturilor a unui teren proprietate publică a statului, în vederea realizării de către Compania Naţională de Autostrăzi şi Drumuri Naţionale din România - S.A. a lucrării "Autostrada Braşov-Cluj-Borş, sector 2 Târgu Mureş-Cluj, secţiunea 2B Câmpia Turzii-Cluj Vest" | [`hg/2008/21/`](hg/2008/21/) | in force | 1 | 2008-01-14 | 2008-01-14 |
 | Hotărârea Guvernului nr. 26/2008 pentru aprobarea afilierii Inspectoratului General al Poliţiei Române, reprezentat de Direcţia Poliţiei Transporturi, la Asociaţia Europeană a Poliţiilor Transporturi Navale şi Autorităţilor Navale - AQUAPOL | [`hg/2008/26/`](hg/2008/26/) | amending act | 1 | 2008-01-14 | 2008-01-14 |
 | Hotărârea Guvernului nr. 28/2008 | [`hg/2008/28/`](hg/2008/28/) | in force | 1 | 2008-02-21 | 2008-02-21 |
 | Hotărârea Guvernului nr. 32/2008 | [`hg/2008/32/`](hg/2008/32/) | in force | 1 | 2008-02-21 | 2008-02-21 |
 | Hotărârea Guvernului nr. 33/2008 | [`hg/2008/33/`](hg/2008/33/) | in force | 1 | 2008-01-25 | 2008-01-25 |
 | Hotărârea Guvernului nr. 38/2008 | [`hg/2008/38/`](hg/2008/38/) | in force | 2 | 2008-01-22 | 2012-01-12 |
+| Hotărârea Guvernului nr. 39/2008 pentru aprobarea plăţii contribuţiei financiare a României la bugetul comun al Centrului de Coordonare a Mişcării din Europa - MCCE | [`hg/2008/39/`](hg/2008/39/) | amending act | 1 | 2008-01-22 | 2008-01-22 |
+| Hotărârea Guvernului nr. 41/2008 privind recunoaşterea Asociaţiei "Harghita Visual Art" ca fiind de utilitate publică | [`hg/2008/41/`](hg/2008/41/) | in force | 1 | 2008-01-22 | 2008-01-22 |
+| Hotărârea Guvernului nr. 45/2008 privind transmiterea unei suprafeţe de 58,87 ha teren agricol din domeniul public al statului şi din administrarea Agenţiei Naţionale de Consultanţă Agricolă în domeniul public al judeţului Tulcea şi în administrarea Consiliului Judeţean Tulcea | [`hg/2008/45/`](hg/2008/45/) | in force | 1 | 2008-01-22 | 2008-01-22 |
+| Hotărârea Guvernului nr. 48/2008 privind aprobarea încadrării în categoria funcţională a drumurilor judeţene a unui drum comunal situat în judeţul Buzău | [`hg/2008/48/`](hg/2008/48/) | amending act | 1 | 2008-01-22 | 2008-01-22 |
+| Hotărârea Guvernului nr. 49/2008 privind transmiterea unui imobil, proprietate publică a statului, din administrarea Ministerului Internelor şi Reformei Administrative - Inspectoratul de Poliţie al Judeţului Dâmboviţa în administrarea Ministerului Internelor şi Reformei Administrative - Instituţia Prefectului Judeţului Dâmboviţa | [`hg/2008/49/`](hg/2008/49/) | in force | 1 | 2008-01-22 | 2008-01-22 |
 | Hotărârea Guvernului nr. 55/2008 | [`hg/2008/55/`](hg/2008/55/) | in force | 3 | 2008-01-24 | 2018-08-29 |
 | Hotărârea Guvernului nr. 58/2008 privind recunoaşterea Statutului de organizare şi funcţionare a Cultului Creştin Baptist - Uniunea Bisericilor Creştine Baptiste din România | [`hg/2008/58/`](hg/2008/58/) | in force | 1 | 2008-01-25 | 2008-01-25 |
 | Hotărârea Guvernului nr. 60/2008 | [`hg/2008/60/`](hg/2008/60/) | in force | 1 | 2008-02-18 | 2008-02-18 |
