@@ -1,6 +1,6 @@
 # Every act in this repository
 
-9417 acts, 22,744 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+9418 acts, 22,754 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -3741,7 +3741,7 @@
 | Ordonanța de urgență a Guvernului nr. 30/2026 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 23/2004 privind stabilirea unor măsuri de reorganizare a Autorităţii pentru Valorificarea Activelor Bancare prin comasarea prin absorbţie cu Autoritatea pentru Privatizare şi Administrarea Participaţiilor Statului | [`oug/2026/30/`](oug/2026/30/) | amending act | 1 | 2026-04-21 | 2026-04-21 |
 | Ordonanța de urgență a Guvernului nr. 33/2026 pentru modificarea şi completarea Legii educaţiei fizice şi sportului nr. 69/2000 | [`oug/2026/33/`](oug/2026/33/) | amending act | 1 | 2026-04-27 | 2026-04-27 |
 
-## Ordinances (OG) (491, of which 92 amending acts)
+## Ordinances (OG) (492, of which 92 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -3809,6 +3809,7 @@
 | Ordonanța Guvernului nr. 128/1998 | [`og/1998/128/`](og/1998/128/) | repealed 2007-05-03 | 9 | 1998-08-29 | 2007-05-03 |
 | Ordonanța Guvernului nr. 16/1999 | [`og/1999/16/`](og/1999/16/) | in force | 3 | 1999-01-29 | 2003-11-27 |
 | Ordonanța Guvernului nr. 19/1999 | [`og/1999/19/`](og/1999/19/) | in force | 1 | 1999-01-29 | 1999-01-29 |
+| Ordonanța Guvernului nr. 22/1999 | [`og/1999/22/`](og/1999/22/) | in force | 10 | 1999-02-28 | 2025-05-15 |
 | Ordonanța Guvernului nr. 39/1999 privind finalizarea procesului de restructurare a Băncii Române de Comerț Exterior - Bancorex - S.A. și fuziunea prin absorbire a acestei bănci cu Banca Comercială Română - S.A. | [`og/1999/39/`](og/1999/39/) | in force | 9 | 1999-07-30 | 2003-04-09 |
 | Ordonanța Guvernului nr. 48/1999 privind transportul rutier al mărfurilor periculoase | [`og/1999/48/`](og/1999/48/) | in force | 2 | 1999-08-24 | 2002-03-25 |
 | Ordonanța Guvernului nr. 49/1999 | [`og/1999/49/`](og/1999/49/) | in force | 2 | 1999-08-24 | 2002-01-16 |

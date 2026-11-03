@@ -63734,6 +63734,75 @@
    ]
   },
   {
+   "slug": "og-22-1999",
+   "path": "og/1999/22",
+   "short": "OG nr. 22/1999",
+   "title": "Ordonanța Guvernului nr. 22/1999",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16848",
+   "versions": [
+    {
+     "from": "1999-02-28",
+     "units": 51,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/16848",
+     "sha256": "887a4147f58abce26790c32482ab8dc7b34002ce829b7ea07298a5313a2aa6bc"
+    },
+    {
+     "from": "2002-11-07",
+     "units": 107,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38781",
+     "sha256": "2b14a05ca2c4bbb5df43f9ed050ffcc748d082ff57c44fe3217d76e49f4a8496"
+    },
+    {
+     "from": "2003-02-03",
+     "units": 75,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/41585",
+     "sha256": "43cd6f4c662ec8c30edd44e12284bc5c042fc74c1ae4dc8fbda8a255289b1a3f"
+    },
+    {
+     "from": "2007-10-18",
+     "units": 73,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85494",
+     "sha256": "5071aaff1a8fdeafe02efb772209b2308a5469fc8cbae221df6c194715a8cd1c"
+    },
+    {
+     "from": "2010-06-11",
+     "units": 72,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119428",
+     "sha256": "2408995f99b770b291bd783238f97ebd0979c1782cb4ede458831f00783e9f78"
+    },
+    {
+     "from": "2010-07-22",
+     "units": 72,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/120842",
+     "sha256": "1477bb3a91516b9792400741ec8d87b1153daf81021c3eb1077335358976f667"
+    },
+    {
+     "from": "2017-12-10",
+     "units": 81,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/195257",
+     "sha256": "340ebbec25e8d059a0418657ff3cb71ddb4c7aa72d00ce8db4a8ecabcb7bcfad"
+    },
+    {
+     "from": "2020-09-14",
+     "units": 82,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/229472",
+     "sha256": "a185975050b00699fa589a660e61e97e17dd3148540e40bdb5fbae94ceb69611"
+    },
+    {
+     "from": "2020-10-04",
+     "units": 82,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/229473",
+     "sha256": "066bfc1ebfca9f7537e6b42e59044e7384107cd3314e75e52659101bce9d1b95"
+    },
+    {
+     "from": "2025-05-15",
+     "units": 82,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16848",
+     "sha256": "0f7936b49740361ba638649c41c9c786171aba79a3c0592649ba9d9196c7b5c4"
+    }
+   ]
+  },
+  {
    "slug": "og-22-2002",
    "path": "og/2002/22",
    "short": "OG nr. 22/2002",

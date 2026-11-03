@@ -63990,6 +63990,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/16823"
 },
 {
+"slug": "og-22-1999",
+"path": "og/1999/22",
+"kind": "og",
+"year": "1999",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța Guvernului nr. 22/1999",
+"short": "OG nr. 22/1999",
+"code": null,
+"status": "in force",
+"versions": 10,
+"from": "1999-02-28",
+"latest": "2025-05-15",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/16848"
+},
+{
 "slug": "og-39-1999",
 "path": "og/1999/39",
 "kind": "og",
