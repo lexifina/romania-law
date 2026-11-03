@@ -1,6 +1,6 @@
 # Every act in this repository
 
-12416 acts, 25,998 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+12441 acts, 26,023 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (2403, of which 1096 amending acts)
+## Laws (legi) (2404, of which 1097 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -789,6 +789,7 @@
 | Legea nr. 14/2009 | [`lege/2009/14/`](lege/2009/14/) | in force | 2 | 2009-03-05 | 2010-12-02 |
 | Legea nr. 28/2009 | [`lege/2009/28/`](lege/2009/28/) | in force | 1 | 2009-03-16 | 2009-03-16 |
 | Legea nr. 39/2009 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 83/2008 pentru modificarea şi completarea Legii nr. 19/2000 privind sistemul public de pensii şi alte drepturi de asigurări sociale | [`lege/2009/39/`](lege/2009/39/) | amending act | 1 | 2009-03-21 | 2009-03-21 |
+| Legea nr. 46/2009 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 65/2008 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 13/2006 privind înfiinţarea, organizarea şi funcţionarea Agenţiei de Plăţi pentru Dezvoltare Rurală şi Pescuit, prin reorganizarea Agenţiei SAPARD, precum şi pentru stabilirea unor măsuri pentru eficientizarea activităţii Agenţiei de Plăţi şi Intervenţie pentru Agricultură | [`lege/2009/46/`](lege/2009/46/) | amending act | 1 | 2009-03-29 | 2009-03-29 |
 | Legea nr. 69/2009 | [`lege/2009/69/`](lege/2009/69/) | in force | 1 | 2009-04-11 | 2009-04-11 |
 | Legea nr. 76/2009 | [`lege/2009/76/`](lege/2009/76/) | in force | 1 | 2009-04-11 | 2009-04-11 |
 | Legea nr. 93/2009 | [`lege/2009/93/`](lege/2009/93/) | in force | 5 | 2009-04-24 | 2016-09-30 |
@@ -4567,7 +4568,7 @@
 | Ordonanța Guvernului nr. 21/2025 pentru modificarea și completarea Legii nr. 431/2023 privind asigurarea unui nivel minim global de impozitare a grupurilor de întreprinderi multinaționale și a grupurilor naționale de mari dimensiuni | [`og/2025/21/`](og/2025/21/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 | Ordonanța Guvernului nr. 22/2025 pentru modificarea și completarea Legii nr. 227/2015 privind Codul fiscal | [`og/2025/22/`](og/2025/22/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 
-## Government decisions (HG) (7858, of which 3372 amending acts)
+## Government decisions (HG) (7882, of which 3375 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -5687,11 +5688,35 @@
 | Hotărârea Guvernului nr. 296/2009 privind încetarea exercitării de către domnul Todor Albert a funcţiei publice de subprefect al judeţului Bihor, ca urmare a reluării activităţii de către titularul postului | [`hg/2009/296/`](hg/2009/296/) | in force | 1 | 2009-03-19 | 2009-03-19 |
 | Hotărârea Guvernului nr. 299/2009 privind exercitarea, cu caracter temporar, a funcţiei publice de subprefect al judeţului Bistriţa-Năsăud de către domnul Frenţ Ovidiu-Victor | [`hg/2009/299/`](hg/2009/299/) | in force | 1 | 2009-03-19 | 2009-03-19 |
 | Hotărârea Guvernului nr. 300/2009 privind aplicarea mobilităţii pentru doamna Oprea Mica din funcţia publică de subprefect al judeţului Bistriţa-Năsăud în funcţia publică de inspector guvernamental | [`hg/2009/300/`](hg/2009/300/) | in force | 1 | 2009-03-19 | 2009-03-19 |
+| Hotărârea Guvernului nr. 301/2009 privind exercitarea, cu caracter temporar, a funcţiei publice de subprefect al judeţului Bistriţa-Năsăud de către domnul Timoce Grigore-Vasile | [`hg/2009/301/`](hg/2009/301/) | in force | 1 | 2009-03-19 | 2009-03-19 |
 | Hotărârea Guvernului nr. 302/2009 privind aplicarea mobilităţii pentru doamna Luchiniuc Aurica din funcţia publică de subprefect al judeţului Galaţi în funcţia publică de inspector guvernamental | [`hg/2009/302/`](hg/2009/302/) | in force | 1 | 2009-03-19 | 2009-03-19 |
 | Hotărârea Guvernului nr. 303/2009 privind exercitarea, cu caracter temporar, a funcţiei publice de subprefect al judeţului Galaţi de către domnul Florea Paul | [`hg/2009/303/`](hg/2009/303/) | in force | 1 | 2009-03-19 | 2009-03-19 |
+| Hotărârea Guvernului nr. 304/2009 privind exercitarea, cu caracter temporar, a funcţiei publice de subprefect al judeţului Iaşi de către domnul Angheluţă Cristian-Marian | [`hg/2009/304/`](hg/2009/304/) | in force | 1 | 2009-03-19 | 2009-03-19 |
 | Hotărârea Guvernului nr. 305/2009 privind aplicarea mobilităţii pentru domnul Tuţu Dumitru Octavian din funcţia publică de subprefect al judeţului Mehedinţi în funcţia publică de inspector guvernamental | [`hg/2009/305/`](hg/2009/305/) | in force | 1 | 2009-03-19 | 2009-03-19 |
 | Hotărârea Guvernului nr. 306/2009 privind exercitarea, cu caracter temporar, a funcţiei publice de subprefect al judeţului Mehedinţi de către domnul Mîţu Ion | [`hg/2009/306/`](hg/2009/306/) | in force | 1 | 2009-03-19 | 2009-03-19 |
 | Hotărârea Guvernului nr. 307/2009 privind aplicarea mobilităţii pentru domnul Bedrosian Laviniu-Eduard din funcţia publică de subprefect al judeţului Timiş în funcţia publică de inspector guvernamental | [`hg/2009/307/`](hg/2009/307/) | in force | 1 | 2009-03-19 | 2009-03-19 |
+| Hotărârea Guvernului nr. 312/2009 privind trecerea unui imobil din domeniul public al statului şi din administrarea Ministerului Apărării Naţionale în domeniul public al municipiului Cluj-Napoca şi în administrarea Consiliului Local al Municipiului Cluj-Napoca, judeţul Cluj | [`hg/2009/312/`](hg/2009/312/) | in force | 1 | 2009-03-23 | 2009-03-23 |
+| Hotărârea Guvernului nr. 315/2009 pentru modificarea Hotărârii Guvernului nr. 1.228/2008 privind stabilirea modului de acordare a sprijinului financiar comunitar producătorilor din sectorul vitivinicol | [`hg/2009/315/`](hg/2009/315/) | amending act | 1 | 2009-03-25 | 2009-03-25 |
+| Hotărârea Guvernului nr. 323/2009 pentru modificarea poziţiei nr. 76 din anexa nr. 1 la Hotărârea Guvernului nr. 1.359/2001 privind atestarea domeniului public al judeţului Prahova, precum şi al municipiilor, oraşelor şi comunelor din judeţul Prahova | [`hg/2009/323/`](hg/2009/323/) | amending act | 1 | 2009-03-25 | 2009-03-25 |
+| Hotărârea Guvernului nr. 332/2009 privind aplicarea mobilităţii pentru domnul Pricăjan Dan-Aurel din funcţia publică de prefect al judeţului Hunedoara în funcţia publică de inspector guvernamental | [`hg/2009/332/`](hg/2009/332/) | in force | 1 | 2009-03-26 | 2009-03-26 |
+| Hotărârea Guvernului nr. 333/2009 privind exercitarea, cu caracter temporar, a funcţiei publice de prefect al judeţului Hunedoara de către domnul Samoilescu Ioan-Gabriel | [`hg/2009/333/`](hg/2009/333/) | in force | 1 | 2009-03-26 | 2009-03-26 |
+| Hotărârea Guvernului nr. 334/2009 privind suspendarea de drept a raportului de serviciu al domnului Bâzoi Sevastian, prefect al judeţului Mehedinţi | [`hg/2009/334/`](hg/2009/334/) | amending act | 1 | 2009-03-26 | 2009-03-26 |
+| Hotărârea Guvernului nr. 335/2009 privind încetarea exercitării funcţiei publice de subprefect al judeţului Mehedinţi de către domnul Mîţu Ion | [`hg/2009/335/`](hg/2009/335/) | in force | 1 | 2009-03-26 | 2009-03-26 |
+| Hotărârea Guvernului nr. 336/2009 privind exercitarea, cu caracter temporar, a funcţiei publice de prefect al judeţului Mehedinţi de către domnul Mîţu Ion | [`hg/2009/336/`](hg/2009/336/) | in force | 1 | 2009-03-26 | 2009-03-26 |
+| Hotărârea Guvernului nr. 337/2009 privind exercitarea, cu caracter temporar, a funcţiei publice de subprefect al judeţului Mehedinţi de către domnul Georgescu Aladin-Gigi | [`hg/2009/337/`](hg/2009/337/) | in force | 1 | 2009-03-26 | 2009-03-26 |
+| Hotărârea Guvernului nr. 338/2009 privind aplicarea mobilităţii pentru domnul Rizescu Gheorghe din funcţia publică de subprefect al judeţului Argeş în funcţia publică de inspector guvernamental | [`hg/2009/338/`](hg/2009/338/) | in force | 1 | 2009-03-26 | 2009-03-26 |
+| Hotărârea Guvernului nr. 339/2009 privind exercitarea, cu caracter temporar, a funcţiei publice de subprefect al judeţului Argeş de către domnul Lazăr Liviu Adrian | [`hg/2009/339/`](hg/2009/339/) | in force | 1 | 2009-03-26 | 2009-03-26 |
+| Hotărârea Guvernului nr. 340/2009 privind aplicarea mobilităţii pentru domnul Abrudan Traian din funcţia publică de subprefect al judeţului Bihor în funcţia publică de inspector guvernamental | [`hg/2009/340/`](hg/2009/340/) | in force | 1 | 2009-03-26 | 2009-03-26 |
+| Hotărârea Guvernului nr. 341/2009 privind exercitarea, cu caracter temporar, a funcţiei publice de subprefect al judeţului Bihor de către domnul Pop Claudiu-Adrian | [`hg/2009/341/`](hg/2009/341/) | in force | 1 | 2009-03-26 | 2009-03-26 |
+| Hotărârea Guvernului nr. 342/2009 privind aplicarea mobilităţii pentru domnul Sârb Gheorghe din funcţia publică de subprefect al judeţului Bihor în funcţia publică de inspector guvernamental | [`hg/2009/342/`](hg/2009/342/) | in force | 1 | 2009-03-26 | 2009-03-26 |
+| Hotărârea Guvernului nr. 343/2009 privind exercitarea, cu caracter temporar, a funcţiei publice de subprefect al judeţului Bihor de către domnul Odobasianu Nicu-Silviu | [`hg/2009/343/`](hg/2009/343/) | in force | 1 | 2009-03-26 | 2009-03-26 |
+| Hotărârea Guvernului nr. 344/2009 privind aplicarea mobilităţii pentru domnul Fudulaiche Mircea din funcţia publică de subprefect al judeţului Brăila în funcţia publică de inspector guvernamental | [`hg/2009/344/`](hg/2009/344/) | in force | 1 | 2009-03-26 | 2009-03-26 |
+| Hotărârea Guvernului nr. 347/2009 privind exercitarea, cu caracter temporar, a funcţiei publice de subprefect al judeţului Gorj de către domnul Romanescu Marcel-Laurenţiu | [`hg/2009/347/`](hg/2009/347/) | in force | 1 | 2009-03-26 | 2009-03-26 |
+| Hotărârea Guvernului nr. 348/2009 privind exercitarea, cu caracter temporar, a funcţiei publice de subprefect al judeţului Ilfov de către domnul Şerban Ion | [`hg/2009/348/`](hg/2009/348/) | in force | 1 | 2009-03-26 | 2009-03-26 |
+| Hotărârea Guvernului nr. 349/2009 privind aplicarea mobilităţii pentru domnul Marossy Zoltan-Gheorghe din funcţia publică de subprefect al judeţului Timiş în funcţia publică de inspector guvernamental | [`hg/2009/349/`](hg/2009/349/) | in force | 1 | 2009-03-26 | 2009-03-26 |
+| Hotărârea Guvernului nr. 350/2009 privind exercitarea, cu caracter temporar, a funcţiei publice de subprefect al judeţului Timiş de către domnul Dobra Călin-Ionel | [`hg/2009/350/`](hg/2009/350/) | in force | 1 | 2009-03-26 | 2009-03-26 |
+| Hotărârea Guvernului nr. 351/2009 privind aplicarea mobilităţii pentru doamna Handolescu Anuţa din funcţia publică de subprefect al judeţului Vâlcea în funcţia publică de inspector guvernamental | [`hg/2009/351/`](hg/2009/351/) | in force | 1 | 2009-03-26 | 2009-03-26 |
+| Hotărârea Guvernului nr. 352/2009 privind exercitarea, cu caracter temporar, a funcţiei publice de subprefect al judeţului Vâlcea de către domnul Filip Ioan | [`hg/2009/352/`](hg/2009/352/) | in force | 1 | 2009-03-26 | 2009-03-26 |
 | Hotărârea Guvernului nr. 367/2009 | [`hg/2009/367/`](hg/2009/367/) | in force | 2 | 2009-04-01 | 2009-12-17 |
 | Hotărârea Guvernului nr. 445/2009 | [`hg/2009/445/`](hg/2009/445/) | repealed 2019-01-09 | 3 | 2009-09-11 | 2019-01-09 |
 | Hotărârea Guvernului nr. 458/2009 pentru modificarea Hotărârii Guvernului nr. 368/1998 privind înființarea Institutului Național de Expertize Criminalistice - I.N.E.C. | [`hg/2009/458/`](hg/2009/458/) | amending act | 1 | 2009-04-28 | 2009-04-28 |
