@@ -1,6 +1,6 @@
 # Every act in this repository
 
-19700 acts, 33,330 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+19713 acts, 33,343 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (3130, of which 1682 amending acts)
+## Laws (legi) (3132, of which 1684 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -1052,6 +1052,8 @@
 | Legea nr. 198/2012 | [`lege/2012/198/`](lege/2012/198/) | in force | 1 | 2012-11-16 | 2012-11-16 |
 | Legea nr. 211/2012 | [`lege/2012/211/`](lege/2012/211/) | in force | 2 | 2012-11-22 | 2013-01-22 |
 | Legea nr. 214/2012 | [`lege/2012/214/`](lege/2012/214/) | in force | 1 | 2012-11-22 | 2012-11-22 |
+| Legea nr. 220/2012 privind aprobarea Ordonanţei Guvernului nr. 24/2012 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 13/2006 privind înfiinţarea, organizarea şi funcţionarea Agenţiei de Plăţi pentru Dezvoltare Rurală şi Pescuit, prin reorganizarea Agenţiei SAPARD | [`lege/2012/220/`](lege/2012/220/) | amending act | 1 | 2012-11-24 | 2012-11-24 |
+| Legea nr. 222/2012 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 86/2006 privind organizarea activităţii practicienilor în insolvenţă | [`lege/2012/222/`](lege/2012/222/) | amending act | 1 | 2012-11-30 | 2012-11-30 |
 | Legea nr. 2/2013 privind unele măsuri pentru degrevarea instanțelor judecătorești, precum și pentru pregătirea punerii în aplicare a Legii nr. 134/2010 privind Codul de procedură civilă | [`lege/2013/2/`](lege/2013/2/) | in force | 7 | 2013-02-15 | 2018-12-21 |
 | Legea nr. 23/2013 | [`lege/2013/23/`](lege/2013/23/) | in force | 1 | 2013-03-10 | 2013-03-10 |
 | Legea nr. 38/2013 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 2/2010 privind unele măsuri pentru organizarea şi funcţionarea aparatului de lucru al Guvernului şi pentru modificarea unor acte normative | [`lege/2013/38/`](lege/2013/38/) | amending act | 1 | 2013-03-21 | 2013-03-21 |
@@ -3168,7 +3170,7 @@
 | Legea nr. 204/2026 privind aprobarea Ordonanţei Guvernului nr. 22/2025 pentru modificarea şi completarea Legii nr. 227/2015 privind Codul fiscal şi pentru completarea articolului 342 din Legea nr. 227/2015 privind Codul fiscal | [`lege/2026/204/`](lege/2026/204/) | amending act | 1 | 2026-10-25 | 2026-10-25 |
 | Legea nr. 205/2026 pentru completarea Ordonanţei Guvernului nr. 22/2002 privind executarea obligaţiilor de plată ale instituţiilor publice, stabilite prin titluri executorii | [`lege/2026/205/`](lege/2026/205/) | amending act | 1 | 2026-11-02 | 2026-11-02 |
 
-## Emergency ordinances (OUG) (1682, of which 593 amending acts)
+## Emergency ordinances (OUG) (1683, of which 594 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -3867,6 +3869,7 @@
 | Ordonanța de urgență a Guvernului nr. 68/2012 pentru modificarea și completarea unor acte normative și reglementarea unor măsuri financiar-fiscale | [`oug/2012/68/`](oug/2012/68/) | amending act | 2 | 2012-11-19 | 2013-05-03 |
 | Ordonanța de urgență a Guvernului nr. 69/2012 | [`oug/2012/69/`](oug/2012/69/) | in force | 1 | 2012-11-26 | 2012-11-26 |
 | Ordonanța de urgență a Guvernului nr. 71/2012 | [`oug/2012/71/`](oug/2012/71/) | in force | 4 | 2012-11-26 | 2014-10-13 |
+| Ordonanța de urgență a Guvernului nr. 72/2012 privind aprobarea scoaterii din rezerva de stat, sub formă de împrumut, a cantităţii de 2.000 tone motorină pentru Societatea Naţională de Transport Feroviar de Călători "C.F.R. - Călători" - S.A | [`oug/2012/72/`](oug/2012/72/) | amending act | 1 | 2012-11-28 | 2012-11-28 |
 | Ordonanța de urgență a Guvernului nr. 75/2012 | [`oug/2012/75/`](oug/2012/75/) | in force | 2 | 2012-11-30 | 2013-07-06 |
 | Ordonanța de urgență a Guvernului nr. 77/2012 | [`oug/2012/77/`](oug/2012/77/) | in force | 2 | 2013-01-01 | 2013-07-01 |
 | Ordonanța de urgență a Guvernului nr. 80/2012 | [`oug/2012/80/`](oug/2012/80/) | in force | 1 | 2012-12-10 | 2012-12-10 |
@@ -5381,7 +5384,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (14328, of which 7288 amending acts)
+## Government decisions (HG) (14338, of which 7291 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -8681,6 +8684,16 @@
 | Hotărârea Guvernului nr. 1018/2012 | [`hg/2012/1018/`](hg/2012/1018/) | in force | 2 | 2012-10-29 | 2019-06-21 |
 | Hotărârea Guvernului nr. 1055/2012 | [`hg/2012/1055/`](hg/2012/1055/) | in force | 1 | 2012-11-01 | 2012-11-01 |
 | Hotărârea Guvernului nr. 1080/2012 | [`hg/2012/1080/`](hg/2012/1080/) | in force | 1 | 2012-11-16 | 2012-11-16 |
+| Hotărârea Guvernului nr. 1114/2012 privind încetarea exercitării, cu caracter temporar, a funcţiei publice de subprefect al judeţului Covasna de către domnul Milik Otto | [`hg/2012/1114/`](hg/2012/1114/) | in force | 1 | 2012-11-21 | 2012-11-21 |
+| Hotărârea Guvernului nr. 1117/2012 privind trecerea unui teren, aflat în administrarea Ministerului Educaţiei, Cercetării, Tineretului şi Sportului - Autoritatea Naţională pentru Sport şi Tineret - Complexul Sportiv Naţional "Lia Manoliu", din domeniul privat al statului în domeniul public al acestuia şi transmiterea din domeniul public al statului şi din administrarea Ministerului Educaţiei, Cercetării, Tineretului şi Sportului - Autoritatea Naţională pentru Sport şi Tineret - Complexul Sportiv Naţional "Lia Manoliu" în domeniul public al municipiului Bucureşti şi în administrarea Consiliului General al Municipiului Bucureşti | [`hg/2012/1117/`](hg/2012/1117/) | in force | 1 | 2012-11-22 | 2012-11-22 |
+| Hotărârea Guvernului nr. 1118/2012 privind declanşarea procedurilor de expropriere a imobilelor proprietate privată, situate pe amplasamentul suplimentar al lucrării "Reabilitare DN 6 Drobeta-Turnu Severin-Lugoj, între km 408 + 895 şi km 449 + 960 - Lot 4, pe teritoriul localităţilor Domaşnea, Teregova, Armeniş, Slatina-Timiş, Bucoşniţa şi Buchin din judeţul Caraş-Severin" | [`hg/2012/1118/`](hg/2012/1118/) | in force | 1 | 2012-12-05 | 2012-12-05 |
+| Hotărârea Guvernului nr. 1119/2012 privind aprobarea bugetului de venituri şi cheltuieli pe anul 2012 pentru Administraţia Naţională "Apele Române", aflată în coordonarea Ministerului Mediului şi Pădurilor | [`hg/2012/1119/`](hg/2012/1119/) | amending act | 1 | 2012-12-05 | 2012-12-05 |
+| Hotărârea Guvernului nr. 1120/2012 privind aprobarea bugetului de venituri şi cheltuieli pe anul 2012 al Agenţiei Naţionale pentru Locuinţe, instituţie publică aflată sub autoritatea Ministerului Dezvoltării Regionale şi Turismului | [`hg/2012/1120/`](hg/2012/1120/) | amending act | 1 | 2012-11-28 | 2012-11-28 |
+| Hotărârea Guvernului nr. 1122/2012 pentru modificarea art. 15 alin. (1) din Hotărârea Guvernului nr. 1.415/2009 privind organizarea şi funcţionarea Autorităţii Naţionale Sanitare Veterinare şi pentru Siguranţa Alimentelor şi a unităţilor din subordinea acesteia | [`hg/2012/1122/`](hg/2012/1122/) | amending act | 1 | 2012-11-29 | 2012-11-29 |
+| Hotărârea Guvernului nr. 1123/2012 pentru stabilirea zilelor de 24 şi 31 decembrie 2012 ca zile libere | [`hg/2012/1123/`](hg/2012/1123/) | in force | 1 | 2012-11-29 | 2012-11-29 |
+| Hotărârea Guvernului nr. 1124/2012 privind desfiinţarea Spitalului Orăşenesc Darabani şi reorganizarea Spitalului Judeţean de Urgenţă Mavromati Botoşani | [`hg/2012/1124/`](hg/2012/1124/) | in force | 1 | 2012-11-28 | 2012-11-28 |
+| Hotărârea Guvernului nr. 1125/2012 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2012, pentru plata unor arierate | [`hg/2012/1125/`](hg/2012/1125/) | in force | 1 | 2012-11-28 | 2012-11-28 |
+| Hotărârea Guvernului nr. 1126/2012 privind alocarea unei sume din Fondul de intervenţie la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2012, pentru înlăturarea efectelor exploziei produse la un bloc de locuinţe din oraşul Bumbeşti-Jiu, judeţul Gorj | [`hg/2012/1126/`](hg/2012/1126/) | in force | 1 | 2012-11-28 | 2012-11-28 |
 | Hotărârea Guvernului nr. 1127/2012 privind suplimentarea bugetului Ministerului Administraţiei şi Internelor pe anul 2012 din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2012 | [`hg/2012/1127/`](hg/2012/1127/) | in force | 1 | 2012-11-28 | 2012-11-28 |
 | Hotărârea Guvernului nr. 1128/2012 privind alocarea unor sume defalcate din taxa pe valoarea adăugată unităţilor de învăţământ preuniversitar de stat finanţate din bugetele locale | [`hg/2012/1128/`](hg/2012/1128/) | in force | 1 | 2012-11-28 | 2012-11-28 |
 | Hotărârea Guvernului nr. 1129/2012 privind suplimentarea bugetului Ministerului Educaţiei, Cercetării, Tineretului şi Sportului pentru plata titlurilor executorii prevăzute de Ordonanţa de urgenţă a Guvernului nr. 71/2009 privind plata unor sume prevăzute în titluri executorii având ca obiect acordarea de drepturi salariale personalului din sectorul bugetar | [`hg/2012/1129/`](hg/2012/1129/) | in force | 1 | 2012-11-28 | 2012-11-28 |
