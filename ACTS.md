@@ -1,6 +1,6 @@
 # Every act in this repository
 
-7880 acts, 20,622 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+7887 acts, 20,638 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -32,7 +32,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (1897, of which 723 amending acts)
+## Laws (legi) (1898, of which 723 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -870,6 +870,7 @@
 | Legea nr. 214/2012 | [`lege/2012/214/`](lege/2012/214/) | in force | 1 | 2012-11-22 | 2012-11-22 |
 | Legea nr. 23/2013 | [`lege/2013/23/`](lege/2013/23/) | in force | 1 | 2013-03-10 | 2013-03-10 |
 | Legea nr. 50/2013 | [`lege/2013/50/`](lege/2013/50/) | in force | 1 | 2013-03-22 | 2013-03-22 |
+| Legea nr. 53/2013 privind instituirea Zilei Limbii Române | [`lege/2013/53/`](lege/2013/53/) | in force | 2 | 2013-03-22 | 2013-11-17 |
 | Legea nr. 72/2013 privind măsurile pentru combaterea întârzierii în executarea obligațiilor de plată a unor sume de bani rezultând din contracte încheiate între profesioniști și între aceștia și autorități contractante | [`lege/2013/72/`](lege/2013/72/) | in force | 3 | 2013-04-05 | 2016-02-01 |
 | Legea nr. 77/2013 | [`lege/2013/77/`](lege/2013/77/) | in force | 1 | 2013-04-13 | 2013-04-13 |
 | Legea nr. 78/2013 | [`lege/2013/78/`](lege/2013/78/) | in force | 1 | 2013-04-13 | 2013-04-13 |
@@ -1934,7 +1935,7 @@
 | Legea nr. 241/2025 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 31/2002 privind interzicerea organizațiilor, simbolurilor și faptelor cu caracter fascist, legionar, rasist sau xenofob și a promovării cultului persoanelor vinovate de săvârșirea unor infracțiuni de genocid contra umanității și de crime de război, precum și pentru modificarea Legii nr. 157/2018 privind unele măsuri pentru prevenirea și combaterea antisemitismului | [`lege/2025/241/`](lege/2025/241/) | amending act | 1 | 2025-12-27 | 2025-12-27 |
 | Legea nr. 245/2025 pentru modificarea art. 32 alin. (7) din Legea nr. 273/2006 privind finanțele publice locale | [`lege/2025/245/`](lege/2025/245/) | amending act | 1 | 2026-01-01 | 2026-01-01 |
 
-## Emergency ordinances (OUG) (1502, of which 524 amending acts)
+## Emergency ordinances (OUG) (1505, of which 524 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -2549,6 +2550,7 @@
 | Ordonanța de urgență a Guvernului nr. 113/2011 | [`oug/2011/113/`](oug/2011/113/) | in force | 5 | 2012-01-01 | 2024-04-21 |
 | Ordonanța de urgență a Guvernului nr. 114/2011 | [`oug/2011/114/`](oug/2011/114/) | in force | 5 | 2012-10-01 | 2020-02-12 |
 | Ordonanța de urgență a Guvernului nr. 115/2011 | [`oug/2011/115/`](oug/2011/115/) | in force | 25 | 2011-12-28 | 2025-10-28 |
+| Ordonanța de urgență a Guvernului nr. 118/2011 pentru reglementarea unor măsuri privind asigurarea cantităţilor de apă grea şi de octoxid de uraniu pentru unităţile 1-4 de la Centrala nuclearo-electrică Cernavodă | [`oug/2011/118/`](oug/2011/118/) | in force | 2 | 2011-12-29 | 2015-06-17 |
 | Ordonanța de urgență a Guvernului nr. 119/2011 | [`oug/2011/119/`](oug/2011/119/) | in force | 2 | 2011-12-28 | 2012-07-29 |
 | Ordonanța de urgență a Guvernului nr. 120/2011 | [`oug/2011/120/`](oug/2011/120/) | in force | 2 | 2011-12-28 | 2013-03-22 |
 | Ordonanța de urgență a Guvernului nr. 121/2011 | [`oug/2011/121/`](oug/2011/121/) | in force | 2 | 2011-12-29 | 2013-05-02 |
@@ -2566,12 +2568,14 @@
 | Ordonanța de urgență a Guvernului nr. 26/2012 | [`oug/2012/26/`](oug/2012/26/) | in force | 7 | 2012-06-12 | 2024-03-29 |
 | Ordonanța de urgență a Guvernului nr. 32/2012 | [`oug/2012/32/`](oug/2012/32/) | in force | 11 | 2012-07-10 | 2025-01-17 |
 | Ordonanța de urgență a Guvernului nr. 35/2012 | [`oug/2012/35/`](oug/2012/35/) | in force | 3 | 2012-06-30 | 2014-07-19 |
+| Ordonanța de urgență a Guvernului nr. 39/2012 privind trecerea unor imobile în proprietatea publică a statului | [`oug/2012/39/`](oug/2012/39/) | in force | 2 | 2012-07-04 | 2013-04-25 |
 | Ordonanța de urgență a Guvernului nr. 41/2012 | [`oug/2012/41/`](oug/2012/41/) | in force | 2 | 2012-07-05 | 2012-07-27 |
 | Ordonanța de urgență a Guvernului nr. 43/2012 | [`oug/2012/43/`](oug/2012/43/) | in force | 2 | 2012-07-06 | 2013-10-26 |
 | Ordonanța de urgență a Guvernului nr. 47/2012 | [`oug/2012/47/`](oug/2012/47/) | in force | 2 | 2012-09-06 | 2013-04-18 |
 | Ordonanța de urgență a Guvernului nr. 49/2012 | [`oug/2012/49/`](oug/2012/49/) | in force | 2 | 2012-09-12 | 2013-06-13 |
 | Ordonanța de urgență a Guvernului nr. 50/2012 | [`oug/2012/50/`](oug/2012/50/) | in force | 1 | 2012-09-19 | 2012-09-19 |
 | Ordonanța de urgență a Guvernului nr. 51/2012 | [`oug/2012/51/`](oug/2012/51/) | in force | 2 | 2012-09-24 | 2013-03-11 |
+| Ordonanța de urgență a Guvernului nr. 54/2012 privind preluarea de către Autoritatea pentru Valorificarea Activelor Statului a creanţelor asupra Societăţii Comerciale AVERSA - S.A. Bucureşti, administrate de Agenţia Naţională de Administrare Fiscală prin organul fiscal competent | [`oug/2012/54/`](oug/2012/54/) | in force | 2 | 2012-09-28 | 2013-04-13 |
 | Ordonanța de urgență a Guvernului nr. 55/2012 | [`oug/2012/55/`](oug/2012/55/) | in force | 3 | 2012-10-12 | 2013-04-21 |
 | Ordonanța de urgență a Guvernului nr. 58/2012 | [`oug/2012/58/`](oug/2012/58/) | in force | 2 | 2012-10-16 | 2013-04-28 |
 | Ordonanța de urgență a Guvernului nr. 60/2012 | [`oug/2012/60/`](oug/2012/60/) | in force | 2 | 2012-10-22 | 2013-04-25 |
@@ -3906,7 +3910,7 @@
 | Ordonanța Guvernului nr. 21/2025 pentru modificarea și completarea Legii nr. 431/2023 privind asigurarea unui nivel minim global de impozitare a grupurilor de întreprinderi multinaționale și a grupurilor naționale de mari dimensiuni | [`og/2025/21/`](og/2025/21/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 | Ordonanța Guvernului nr. 22/2025 pentru modificarea și completarea Legii nr. 227/2015 privind Codul fiscal | [`og/2025/22/`](og/2025/22/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 
-## Government decisions (HG) (3982, of which 1467 amending acts)
+## Government decisions (HG) (3985, of which 1469 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -4620,6 +4624,7 @@
 | Hotărârea Guvernului nr. 250/2007 pentru aprobarea Normelor metodologice de aplicare unitară a Legii nr. 10/2001 privind regimul juridic al unor imobile preluate în mod abuziv în perioada 6 martie 1945-22 decembrie 1989 | [`hg/2007/250/`](hg/2007/250/) | amending act | 1 | 2007-04-03 | 2007-04-03 |
 | Hotărârea Guvernului nr. 268/2007 | [`hg/2007/268/`](hg/2007/268/) | in force | 1 | 2007-04-04 | 2007-04-04 |
 | Hotărârea Guvernului nr. 288/2007 | [`hg/2007/288/`](hg/2007/288/) | in force | 2 | 2007-03-29 | 2010-11-30 |
+| Hotărârea Guvernului nr. 294/2007 | [`hg/2007/294/`](hg/2007/294/) | in force | 6 | 2007-04-03 | 2023-10-01 |
 | Hotărârea Guvernului nr. 310/2007 | [`hg/2007/310/`](hg/2007/310/) | in force | 1 | 2007-03-30 | 2007-03-30 |
 | Hotărârea Guvernului nr. 332/2007 | [`hg/2007/332/`](hg/2007/332/) | in force | 2 | 2007-08-12 | 2008-02-14 |
 | Hotărârea Guvernului nr. 341/2007 | [`hg/2007/341/`](hg/2007/341/) | repealed 2023-12-28 | 11 | 2007-04-12 | 2023-12-28 |
@@ -5093,6 +5098,7 @@
 | Hotărârea Guvernului nr. 215/2012 privind aprobarea Strategiei naționale anticorupție pe perioada 2012-2015, a Inventarului măsurilor preventive anticorupție și a indicatorilor de evaluare, precum și a Planului național de acțiune pentru implementarea Strategiei naționale anticorupție 2012-2015 | [`hg/2012/215/`](hg/2012/215/) | amending act | 1 | 2012-03-27 | 2012-03-27 |
 | Hotărârea Guvernului nr. 218/2012 | [`hg/2012/218/`](hg/2012/218/) | in force | 1 | 2012-03-23 | 2012-03-23 |
 | Hotărârea Guvernului nr. 233/2012 | [`hg/2012/233/`](hg/2012/233/) | in force | 3 | 2012-04-07 | 2017-03-07 |
+| Hotărârea Guvernului nr. 269/2012 privind aprobarea bugetului de venituri şi cheltuieli pe anul 2012 al Regiei Autonome "Rasirom", aflată sub autoritatea Serviciului Român de Informaţii | [`hg/2012/269/`](hg/2012/269/) | amending act | 1 | 2012-04-06 | 2012-04-06 |
 | Hotărârea Guvernului nr. 301/2012 | [`hg/2012/301/`](hg/2012/301/) | in force | 6 | 2012-06-16 | 2017-06-30 |
 | Hotărârea Guvernului nr. 390/2012 | [`hg/2012/390/`](hg/2012/390/) | in force | 1 | 2012-05-08 | 2012-05-08 |
 | Hotărârea Guvernului nr. 544/2012 | [`hg/2012/544/`](hg/2012/544/) | in force | 1 | 2012-05-31 | 2012-05-31 |
@@ -5213,6 +5219,7 @@
 | Hotărârea Guvernului nr. 501/2013 | [`hg/2013/501/`](hg/2013/501/) | in force | 1 | 2013-07-26 | 2013-07-26 |
 | Hotărârea Guvernului nr. 520/2013 | [`hg/2013/520/`](hg/2013/520/) | in force | 14 | 2013-08-01 | 2024-05-27 |
 | Hotărârea Guvernului nr. 525/2013 | [`hg/2013/525/`](hg/2013/525/) | in force | 4 | 2013-08-02 | 2024-07-01 |
+| Hotărârea Guvernului nr. 531/2013 privind aprobarea închirierii unor spaţii aflate în administrarea Ministerului Justiţiei şi a Înaltei Curţi de Casaţie şi Justiţie | [`hg/2013/531/`](hg/2013/531/) | amending act | 1 | 2013-08-06 | 2013-08-06 |
 | Hotărârea Guvernului nr. 533/2013 | [`hg/2013/533/`](hg/2013/533/) | in force | 1 | 2013-08-06 | 2013-08-06 |
 | Hotărârea Guvernului nr. 536/2013 | [`hg/2013/536/`](hg/2013/536/) | in force | 1 | 2013-08-06 | 2013-08-06 |
 | Hotărârea Guvernului nr. 548/2013 privind organizarea și funcționarea Ministerului pentru Societatea Informațională | [`hg/2013/548/`](hg/2013/548/) | in force | 4 | 2013-08-05 | 2016-07-22 |

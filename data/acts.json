@@ -14197,6 +14197,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/146169"
 },
 {
+"slug": "legea-53-2013",
+"path": "lege/2013/53",
+"kind": "lege",
+"year": "2013",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 53/2013 privind instituirea Zilei Limbii Române",
+"short": "Legea nr. 53/2013",
+"code": null,
+"status": "in force",
+"versions": 2,
+"from": "2013-03-22",
+"latest": "2013-11-17",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/146164"
+},
+{
 "slug": "legea-72-2013",
 "path": "lege/2013/72",
 "kind": "lege",
@@ -42655,6 +42672,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/134109"
 },
 {
+"slug": "oug-118-2011",
+"path": "oug/2011/118",
+"kind": "oug",
+"year": "2011",
+"number": "118",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 118/2011 pentru reglementarea unor măsuri privind asigurarea cantităţilor de apă grea şi de octoxid de uraniu pentru unităţile 1-4 de la Centrala nuclearo-electrică Cernavodă",
+"short": "OUG nr. 118/2011",
+"code": null,
+"status": "in force",
+"versions": 2,
+"from": "2011-12-29",
+"latest": "2015-06-17",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/134143"
+},
+{
 "slug": "oug-119-2011",
 "path": "oug/2011/119",
 "kind": "oug",
@@ -42944,6 +42978,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/139239"
 },
 {
+"slug": "oug-39-2012",
+"path": "oug/2012/39",
+"kind": "oug",
+"year": "2012",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 39/2012 privind trecerea unor imobile în proprietatea publică a statului",
+"short": "OUG nr. 39/2012",
+"code": null,
+"status": "in force",
+"versions": 2,
+"from": "2012-07-04",
+"latest": "2013-04-25",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/139324"
+},
+{
 "slug": "oug-41-2012",
 "path": "oug/2012/41",
 "kind": "oug",
@@ -43044,6 +43095,23 @@
 "from": "2012-09-24",
 "latest": "2013-03-11",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/146093"
+},
+{
+"slug": "oug-54-2012",
+"path": "oug/2012/54",
+"kind": "oug",
+"year": "2012",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 54/2012 privind preluarea de către Autoritatea pentru Valorificarea Activelor Statului a creanţelor asupra Societăţii Comerciale AVERSA - S.A. Bucureşti, administrate de Agenţia Naţională de Administrare Fiscală prin organul fiscal competent",
+"short": "OUG nr. 54/2012",
+"code": null,
+"status": "in force",
+"versions": 2,
+"from": "2012-09-28",
+"latest": "2013-04-13",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/141573"
 },
 {
 "slug": "oug-55-2012",
@@ -77692,6 +77760,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/207282"
 },
 {
+"slug": "hg-294-2007",
+"path": "hg/2007/294",
+"kind": "hg",
+"year": "2007",
+"number": "294",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 294/2007",
+"short": "HG nr. 294/2007",
+"code": null,
+"status": "in force",
+"versions": 6,
+"from": "2007-04-03",
+"latest": "2023-10-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/80882"
+},
+{
 "slug": "hg-310-2007",
 "path": "hg/2007/310",
 "kind": "hg",
@@ -85733,6 +85818,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/136779"
 },
 {
+"slug": "hg-269-2012",
+"path": "hg/2012/269",
+"kind": "hg",
+"year": "2012",
+"number": "269",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 269/2012 privind aprobarea bugetului de venituri şi cheltuieli pe anul 2012 al Regiei Autonome \"Rasirom\", aflată sub autoritatea Serviciului Român de Informaţii",
+"short": "HG nr. 269/2012",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2012-04-06",
+"latest": "2012-04-06",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/136971"
+},
+{
 "slug": "hg-301-2012",
 "path": "hg/2012/301",
 "kind": "hg",
@@ -87771,6 +87873,23 @@
 "from": "2013-08-02",
 "latest": "2024-07-01",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/150407"
+},
+{
+"slug": "hg-531-2013",
+"path": "hg/2013/531",
+"kind": "hg",
+"year": "2013",
+"number": "531",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 531/2013 privind aprobarea închirierii unor spaţii aflate în administrarea Ministerului Justiţiei şi a Înaltei Curţi de Casaţie şi Justiţie",
+"short": "HG nr. 531/2013",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2013-08-06",
+"latest": "2013-08-06",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/150448"
 },
 {
 "slug": "hg-533-2013",

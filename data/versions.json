@@ -16067,6 +16067,51 @@
    ]
   },
   {
+   "slug": "hg-294-2007",
+   "path": "hg/2007/294",
+   "short": "HG nr. 294/2007",
+   "title": "Hotărârea Guvernului nr. 294/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/80882",
+   "versions": [
+    {
+     "from": "2007-04-03",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/80882",
+     "sha256": "316b4652a83077103e37d71e967d3836fa571cab3b26a738318a4e0428768f75"
+    },
+    {
+     "from": "2007-10-01",
+     "units": 27,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/80882",
+     "sha256": "316b4652a83077103e37d71e967d3836fa571cab3b26a738318a4e0428768f75"
+    },
+    {
+     "from": "2015-09-15",
+     "units": 27,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171406",
+     "sha256": "5c649e63fb2a1825c1703671d12c0239902819a3da110554a07c55be83f5a453"
+    },
+    {
+     "from": "2018-02-19",
+     "units": 27,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/197696",
+     "sha256": "0288d562623adf34c4976d14ac557dcf6cea3f1a18669eee921a235a472e7da9"
+    },
+    {
+     "from": "2021-05-14",
+     "units": 27,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/241539",
+     "sha256": "98bb044643618479579e7235e783fc55684a40b69181ae33fb9bdb91f76e3da7"
+    },
+    {
+     "from": "2023-10-01",
+     "units": 28,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/80882",
+     "sha256": "b946575b5937036f319d98321f7034c30756da7386c0a3859ae8f93976804e5b"
+    }
+   ]
+  },
+  {
    "slug": "hg-294-2015",
    "path": "hg/2015/294",
    "short": "HG nr. 294/2015",
@@ -108635,6 +108680,21 @@
    ]
   },
   {
+   "slug": "hg-269-2012",
+   "path": "hg/2012/269",
+   "short": "HG nr. 269/2012",
+   "title": "Hotărârea Guvernului nr. 269/2012 privind aprobarea bugetului de venituri şi cheltuieli pe anul 2012 al Regiei Autonome \"Rasirom\", aflată sub autoritatea Serviciului Român de Informaţii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/136971",
+   "versions": [
+    {
+     "from": "2012-04-06",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/136971",
+     "sha256": "72a4a48d493c09dfd90bbb0b7365f58a47956813ef59c410b303f364cf34f538"
+    }
+   ]
+  },
+  {
    "slug": "hg-269-2023",
    "path": "hg/2023/269",
    "short": "HG nr. 269/2023",
@@ -120676,6 +120736,21 @@
      "units": 12,
      "source_url": "https://legislatie.just.ro/public/DetaliiDocument/298511",
      "sha256": "361d48d9a9731bd1b0268dffa383643af78a8ddc1b53b9886324628e893fbe7e"
+    }
+   ]
+  },
+  {
+   "slug": "hg-531-2013",
+   "path": "hg/2013/531",
+   "short": "HG nr. 531/2013",
+   "title": "Hotărârea Guvernului nr. 531/2013 privind aprobarea închirierii unor spaţii aflate în administrarea Ministerului Justiţiei şi a Înaltei Curţi de Casaţie şi Justiţie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/150448",
+   "versions": [
+    {
+     "from": "2013-08-06",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/150448",
+     "sha256": "4487e08124634ed6e11fbea7108390633b28cc610f3505ca8a48f585dec3741f"
     }
    ]
   },
@@ -161849,6 +161924,27 @@
    ]
   },
   {
+   "slug": "legea-53-2013",
+   "path": "lege/2013/53",
+   "short": "Legea nr. 53/2013",
+   "title": "Legea nr. 53/2013 privind instituirea Zilei Limbii Române",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/146164",
+   "versions": [
+    {
+     "from": "2013-03-22",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/146164",
+     "sha256": "8f565b7f1a9e0e51f1ce5f946f113159dc885d0d58ec59d9d2f62ac5ac94feb0"
+    },
+    {
+     "from": "2013-11-17",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/146164",
+     "sha256": "5561b603b6f08718619377845bfab6da86143a0693dd02196a2da8e0f52e486d"
+    }
+   ]
+  },
+  {
    "slug": "legea-54-2003",
    "path": "lege/2003/54",
    "short": "Legea nr. 54/2003",
@@ -174380,6 +174476,27 @@
    ]
   },
   {
+   "slug": "oug-118-2011",
+   "path": "oug/2011/118",
+   "short": "OUG nr. 118/2011",
+   "title": "Ordonanța de urgență a Guvernului nr. 118/2011 pentru reglementarea unor măsuri privind asigurarea cantităţilor de apă grea şi de octoxid de uraniu pentru unităţile 1-4 de la Centrala nuclearo-electrică Cernavodă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/134143",
+   "versions": [
+    {
+     "from": "2011-12-29",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/134143",
+     "sha256": "56f596f5e4789c2e5bcb2c08143def731d002c650fa780665acdc6647d4934b9"
+    },
+    {
+     "from": "2015-06-17",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/134143",
+     "sha256": "8b2cf3998a50dd040bdc00402a591e8ff568d9b6d5cc196a9e995d4ff17712fd"
+    }
+   ]
+  },
+  {
    "slug": "oug-118-2020",
    "path": "oug/2020/118",
    "short": "OUG nr. 118/2020",
@@ -183440,6 +183557,27 @@
    ]
   },
   {
+   "slug": "oug-39-2012",
+   "path": "oug/2012/39",
+   "short": "OUG nr. 39/2012",
+   "title": "Ordonanța de urgență a Guvernului nr. 39/2012 privind trecerea unor imobile în proprietatea publică a statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/139324",
+   "versions": [
+    {
+     "from": "2012-07-04",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/139324",
+     "sha256": "55b730d68e3fc6906d0fc282ee6a55b7ea486788d3b8ff5cb5ae0a156af4321b"
+    },
+    {
+     "from": "2013-04-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/139324",
+     "sha256": "e7d38468fddb9acefbba860019433905cefd8f4f3ad57c5507666a0d0dbb31df"
+    }
+   ]
+  },
+  {
    "slug": "oug-39-2017",
    "path": "oug/2017/39",
    "short": "OUG nr. 39/2017",
@@ -186589,6 +186727,27 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/141423",
      "sha256": "a3146faa987168ac3d64f1d8f2565a0cc14376711e76931d7ddc12aeba887785"
+    }
+   ]
+  },
+  {
+   "slug": "oug-54-2012",
+   "path": "oug/2012/54",
+   "short": "OUG nr. 54/2012",
+   "title": "Ordonanța de urgență a Guvernului nr. 54/2012 privind preluarea de către Autoritatea pentru Valorificarea Activelor Statului a creanţelor asupra Societăţii Comerciale AVERSA - S.A. Bucureşti, administrate de Agenţia Naţională de Administrare Fiscală prin organul fiscal competent",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/141573",
+   "versions": [
+    {
+     "from": "2012-09-28",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/141573",
+     "sha256": "d548f66f5b28ed921ac688228bfdcd90616a904484eb1affb1919297bab5873d"
+    },
+    {
+     "from": "2013-04-13",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/141573",
+     "sha256": "20fc50c6ccbde61e08e8cd2f99bdfbfac7a72e742ae345a3e44d0fd69428e51c"
     }
    ]
   },
