@@ -89354,6 +89354,27 @@
    ]
   },
   {
+   "slug": "hg-1102-2014",
+   "path": "hg/2014/1102",
+   "short": "HG nr. 1102/2014",
+   "title": "Hotărârea Guvernului nr. 1102/2014 privind stabilirea condiţiilor pentru punerea la dispoziţie pe piaţă a articolelor pirotehnice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/164037",
+   "versions": [
+    {
+     "from": "2015-07-01",
+     "units": 151,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/164037",
+     "sha256": "f6fad2c2dbab125ebcebff859bc8160c44416e315ea57718d2e19989861b2dd1"
+    },
+    {
+     "from": "2026-02-02",
+     "units": 151,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/164037",
+     "sha256": "f03ea599aba3070659c16bce71b5b7a2d3b7450cbb4cfef78bfa21cbd4f677eb"
+    }
+   ]
+  },
+  {
    "slug": "hg-1105-2007",
    "path": "hg/2007/1105",
    "short": "HG nr. 1105/2007",
@@ -115241,6 +115262,21 @@
    ]
   },
   {
+   "slug": "hg-488-2015",
+   "path": "hg/2015/488",
+   "short": "HG nr. 488/2015",
+   "title": "Hotărârea Guvernului nr. 488/2015 privind stabilirea preţului de achiziţie a gazelor naturale din producţia internă pentru clienţii casnici şi producătorii de energie termică, numai pentru cantităţile de gaze naturale utilizate la producerea de energie termică în centralele de cogenerare şi în centralele termice destinate consumului populaţiei în perioada 1 iulie 2015-30 iunie 2021",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/169308",
+   "versions": [
+    {
+     "from": "2015-07-01",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/169308",
+     "sha256": "900b91a72846e400c70ebd6129a329fdcc7d04c11c39f744266ccebbfe6a3aa7"
+    }
+   ]
+  },
+  {
    "slug": "hg-488-2017",
    "path": "hg/2017/488",
    "short": "HG nr. 488/2017",
@@ -116038,6 +116074,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270733",
      "sha256": "3026ebf0b7337e5d34d58769fdaead6c0774cae0033fd2e8a29864e09b676536"
+    }
+   ]
+  },
+  {
+   "slug": "hg-498-2015",
+   "path": "hg/2015/498",
+   "short": "HG nr. 498/2015",
+   "title": "Hotărârea Guvernului nr. 498/2015 privind aprobarea bugetului de venituri şi cheltuieli pe anul 2015 pentru Societatea de Conservare şi Închidere a Minelor \"Conversmin\" - S.A. Bucureşti, aflată sub autoritatea Ministerului Economiei, Comerţului şi Turismului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/169635",
+   "versions": [
+    {
+     "from": "2015-07-10",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/169635",
+     "sha256": "26a91304417c9fd2d521703a53f3f45d0083a6dceb19af6fc5d0da03b46e7137"
     }
    ]
   },
@@ -119929,6 +119980,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/23187",
      "sha256": "d3abf3640c98678d20b292fae2ab5366591e66d6785756a42e943aea541c2d0a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-580-2014",
+   "path": "hg/2014/580",
+   "short": "HG nr. 580/2014",
+   "title": "Hotărârea Guvernului nr. 580/2014 privind aprobarea Nomenclatorului domeniilor şi al specializărilor/programelor de studii universitare şi a structurii instituţiilor de învăţământ superior pentru anul universitar 2014-2015, precum şi aprobarea titlurilor conferite absolvenţilor învăţământului universitar de licenţă înmatriculaţi în anul I în anii universitari 2011-2012, 2012-2013 şi 2013-2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/160016",
+   "versions": [
+    {
+     "from": "2014-07-16",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/160016",
+     "sha256": "1a8fe8faba6f20430a4cf0ad91c89022a72e5f6ff69b10886c25744360264b6e"
     }
    ]
   },

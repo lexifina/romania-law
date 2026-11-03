@@ -1,6 +1,6 @@
 # Every act in this repository
 
-7524 acts, 20,203 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+7528 acts, 20,208 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -3882,7 +3882,7 @@
 | Ordonanța Guvernului nr. 21/2025 pentru modificarea și completarea Legii nr. 431/2023 privind asigurarea unui nivel minim global de impozitare a grupurilor de întreprinderi multinaționale și a grupurilor naționale de mari dimensiuni | [`og/2025/21/`](og/2025/21/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 | Ordonanța Guvernului nr. 22/2025 pentru modificarea și completarea Legii nr. 227/2015 privind Codul fiscal | [`og/2025/22/`](og/2025/22/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 
-## Government decisions (HG) (3650, of which 1315 amending acts)
+## Government decisions (HG) (3654, of which 1317 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -5236,6 +5236,7 @@
 | Hotărârea Guvernului nr. 535/2014 | [`hg/2014/535/`](hg/2014/535/) | in force | 1 | 2014-07-02 | 2014-07-02 |
 | Hotărârea Guvernului nr. 536/2014 | [`hg/2014/536/`](hg/2014/536/) | in force | 2 | 2014-07-09 | 2015-01-21 |
 | Hotărârea Guvernului nr. 578/2014 | [`hg/2014/578/`](hg/2014/578/) | in force | 4 | 2014-07-18 | 2018-11-09 |
+| Hotărârea Guvernului nr. 580/2014 privind aprobarea Nomenclatorului domeniilor şi al specializărilor/programelor de studii universitare şi a structurii instituţiilor de învăţământ superior pentru anul universitar 2014-2015, precum şi aprobarea titlurilor conferite absolvenţilor învăţământului universitar de licenţă înmatriculaţi în anul I în anii universitari 2011-2012, 2012-2013 şi 2013-2014 | [`hg/2014/580/`](hg/2014/580/) | amending act | 1 | 2014-07-16 | 2014-07-16 |
 | Hotărârea Guvernului nr. 615/2014 | [`hg/2014/615/`](hg/2014/615/) | in force | 1 | 2014-07-30 | 2014-07-30 |
 | Hotărârea Guvernului nr. 617/2014 privind stabilirea cadrului instituțional și a unor măsuri pentru punerea în aplicare a Regulamentului (UE) nr. 528/2012 al Parlamentului European și al Consiliului din 22 mai 2012 privind punerea la dispoziție pe piață și utilizarea produselor biocide | [`hg/2014/617/`](hg/2014/617/) | in force | 3 | 2014-08-06 | 2019-06-13 |
 | Hotărârea Guvernului nr. 766/2014 | [`hg/2014/766/`](hg/2014/766/) | repealed 2022-02-03 | 2 | 2014-09-10 | 2022-02-03 |
@@ -5258,6 +5259,7 @@
 | Hotărârea Guvernului nr. 1076/2014 | [`hg/2014/1076/`](hg/2014/1076/) | in force | 1 | 2014-12-17 | 2014-12-17 |
 | Hotărârea Guvernului nr. 1078/2014 | [`hg/2014/1078/`](hg/2014/1078/) | in force | 1 | 2014-12-03 | 2014-12-03 |
 | Hotărârea Guvernului nr. 1091/2014 | [`hg/2014/1091/`](hg/2014/1091/) | in force | 1 | 2014-12-11 | 2014-12-11 |
+| Hotărârea Guvernului nr. 1102/2014 privind stabilirea condiţiilor pentru punerea la dispoziţie pe piaţă a articolelor pirotehnice | [`hg/2014/1102/`](hg/2014/1102/) | in force | 2 | 2015-07-01 | 2026-02-02 |
 | Hotărârea Guvernului nr. 1103/2014 | [`hg/2014/1103/`](hg/2014/1103/) | in force | 2 | 2015-01-16 | 2016-11-03 |
 | Hotărârea Guvernului nr. 1110/2014 | [`hg/2014/1110/`](hg/2014/1110/) | in force | 1 | 2014-12-19 | 2014-12-19 |
 | Hotărârea Guvernului nr. 1113/2014 privind aprobarea Strategiei naționale pentru protecția și promovarea drepturilor copilului pentru perioada 2014-2020 și a Planului operațional pentru implementarea Strategiei naționale pentru protecția și promovarea drepturilor copilului 2014-2016 | [`hg/2014/1113/`](hg/2014/1113/) | amending act | 1 | 2015-01-15 | 2015-01-15 |
@@ -5307,6 +5309,8 @@
 | Hotărârea Guvernului nr. 434/2015 | [`hg/2015/434/`](hg/2015/434/) | in force | 2 | 2015-06-19 | 2020-06-11 |
 | Hotărârea Guvernului nr. 464/2015 | [`hg/2015/464/`](hg/2015/464/) | in force | 1 | 2015-07-01 | 2015-07-01 |
 | Hotărârea Guvernului nr. 469/2015 | [`hg/2015/469/`](hg/2015/469/) | in force | 1 | 2015-07-09 | 2015-07-09 |
+| Hotărârea Guvernului nr. 488/2015 privind stabilirea preţului de achiziţie a gazelor naturale din producţia internă pentru clienţii casnici şi producătorii de energie termică, numai pentru cantităţile de gaze naturale utilizate la producerea de energie termică în centralele de cogenerare şi în centralele termice destinate consumului populaţiei în perioada 1 iulie 2015-30 iunie 2021 | [`hg/2015/488/`](hg/2015/488/) | in force | 1 | 2015-07-01 | 2015-07-01 |
+| Hotărârea Guvernului nr. 498/2015 privind aprobarea bugetului de venituri şi cheltuieli pe anul 2015 pentru Societatea de Conservare şi Închidere a Minelor "Conversmin" - S.A. Bucureşti, aflată sub autoritatea Ministerului Economiei, Comerţului şi Turismului | [`hg/2015/498/`](hg/2015/498/) | amending act | 1 | 2015-07-10 | 2015-07-10 |
 | Hotărârea Guvernului nr. 499/2015 | [`hg/2015/499/`](hg/2015/499/) | in force | 1 | 2015-07-10 | 2015-07-10 |
 | Hotărârea Guvernului nr. 502/2015 | [`hg/2015/502/`](hg/2015/502/) | in force | 1 | 2015-07-10 | 2015-07-10 |
 | Hotărârea Guvernului nr. 503/2015 | [`hg/2015/503/`](hg/2015/503/) | in force | 1 | 2015-07-10 | 2015-07-10 |
