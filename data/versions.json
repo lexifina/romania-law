@@ -143471,6 +143471,21 @@
    ]
   },
   {
+   "slug": "hg-360-2020",
+   "path": "hg/2020/360",
+   "short": "HG nr. 360/2020",
+   "title": "Hotărârea Guvernului nr. 360/2020 privind alocarea unei sume din Fondul de intervenţie la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2020, pentru unele unităţi administrativ-teritoriale afectate de calamităţile naturale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/225476",
+   "versions": [
+    {
+     "from": "2020-05-08",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/225476",
+     "sha256": "ea843ef308a4d25ebd2c65df29be923693cbdafec946569c6d6e746e8b9307a8"
+    }
+   ]
+  },
+  {
    "slug": "hg-360-2021",
    "path": "hg/2021/360",
    "short": "HG nr. 360/2021",
@@ -144494,6 +144509,21 @@
    ]
   },
   {
+   "slug": "hg-372-2020",
+   "path": "hg/2020/372",
+   "short": "HG nr. 372/2020",
+   "title": "Hotărârea Guvernului nr. 372/2020 privind actualizarea inventarului centralizat al bunurilor din domeniul public al statului, ca urmare a modificării valorii de inventar pentru un imobil aflat în administrarea Ministerului Afacerilor Interne - U.M. 0460 Râmnicu Vâlcea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/225568",
+   "versions": [
+    {
+     "from": "2020-05-14",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/225568",
+     "sha256": "d59972f76d57d94e609cbe28fff22845add6b33789cf98c783f0d5ca71833a02"
+    }
+   ]
+  },
+  {
    "slug": "hg-372-2021",
    "path": "hg/2021/372",
    "short": "HG nr. 372/2021",
@@ -144565,6 +144595,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/189918",
      "sha256": "be6262892693fca8c01674baa738a4d81264aa85c254da8c2bd48a2cb25a9eb6"
+    }
+   ]
+  },
+  {
+   "slug": "hg-373-2020",
+   "path": "hg/2020/373",
+   "short": "HG nr. 373/2020",
+   "title": "Hotărârea Guvernului nr. 373/2020 privind înscrierea unui imobil în inventarul centralizat al bunurilor din domeniul public al statului şi darea acestuia în administrarea Instituţiei Prefectului - Judeţul Hunedoara din subordinea Ministerului Afacerilor Interne",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/225569",
+   "versions": [
+    {
+     "from": "2020-05-14",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/225569",
+     "sha256": "67837e1a9901834d3357badf5c58fef127082fc7d76bc60624e937749fc51947"
     }
    ]
   },
@@ -144659,6 +144704,21 @@
    ]
   },
   {
+   "slug": "hg-374-2020",
+   "path": "hg/2020/374",
+   "short": "HG nr. 374/2020",
+   "title": "Hotărârea Guvernului nr. 374/2020 pentru actualizarea valorii de inventar şi a datelor de identificare a unui imobil aflat în domeniul public al statului şi administrarea Instituţiei Prefectului - Judeţul Dâmboviţa din subordinea Ministerului Afacerilor Interne",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/225836",
+   "versions": [
+    {
+     "from": "2020-05-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/225836",
+     "sha256": "575e1fe614a034a9357c432433fa6bdb4a5a2036a9aa5a8e191e1065be19d317"
+    }
+   ]
+  },
+  {
    "slug": "hg-374-2021",
    "path": "hg/2021/374",
    "short": "HG nr. 374/2021",
@@ -144700,6 +144760,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/296752",
      "sha256": "f72b32826ea67bf5050bb867a92653f54f89d086566bcd5af3c9e5accee4f2c8"
+    }
+   ]
+  },
+  {
+   "slug": "hg-375-2020",
+   "path": "hg/2020/375",
+   "short": "HG nr. 375/2020",
+   "title": "Hotărârea Guvernului nr. 375/2020 privind modificarea anexei nr. 10 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului pentru imobilele înscrise la nr. MFP 40163 şi 152346, aflate în administrarea Oficiului de Cadastru şi Publicitate Imobiliară Gorj",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/225837",
+   "versions": [
+    {
+     "from": "2020-05-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/225837",
+     "sha256": "9509e9306c52f53403b3e7f1df691fa61d4caaa74af9a431b6f0cc85c535f5d5"
     }
    ]
   },

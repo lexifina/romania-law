@@ -1,6 +1,6 @@
 # Every act in this repository
 
-11630 acts, 25,202 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+11635 acts, 25,207 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -4513,7 +4513,7 @@
 | Ordonanța Guvernului nr. 21/2025 pentru modificarea și completarea Legii nr. 431/2023 privind asigurarea unui nivel minim global de impozitare a grupurilor de întreprinderi multinaționale și a grupurilor naționale de mari dimensiuni | [`og/2025/21/`](og/2025/21/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 | Ordonanța Guvernului nr. 22/2025 pentru modificarea și completarea Legii nr. 227/2015 privind Codul fiscal | [`og/2025/22/`](og/2025/22/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 
-## Government decisions (HG) (7125, of which 3066 amending acts)
+## Government decisions (HG) (7130, of which 3067 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -6561,8 +6561,13 @@
 | Hotărârea Guvernului nr. 328/2020 privind modificarea și completarea Hotărârii Guvernului nr. 1.621/2003 pentru organizarea și funcționarea Institutului Național de Cercetare-Dezvoltare în Informatică - ICI București | [`hg/2020/328/`](hg/2020/328/) | amending act | 1 | 2020-04-28 | 2020-04-28 |
 | Hotărârea Guvernului nr. 339/2020 privind aprobarea Programului național apicol pentru perioada 2020-2022 , a normelor de aplicare , precum și a valorii sprijinului financiar | [`hg/2020/339/`](hg/2020/339/) | amending act | 4 | 2020-05-06 | 2022-04-18 |
 | Hotărârea Guvernului nr. 359/2020 privind actualizarea valorii de inventar a unui imobil aflat în domeniul public al statului şi în administrarea Ministerului Afacerilor Interne - UM 0849 Sinaia | [`hg/2020/359/`](hg/2020/359/) | in force | 1 | 2020-05-16 | 2020-05-16 |
+| Hotărârea Guvernului nr. 360/2020 privind alocarea unei sume din Fondul de intervenţie la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2020, pentru unele unităţi administrativ-teritoriale afectate de calamităţile naturale | [`hg/2020/360/`](hg/2020/360/) | in force | 1 | 2020-05-08 | 2020-05-08 |
 | Hotărârea Guvernului nr. 365/2020 privind aprobarea schemei "Ajutor de minimis pentru aplicarea programului de susținere a crescătorilor de porci de reproducție din rasele Bazna și/sau Mangalița", pentru perioada 2020-2022, precum și a unor măsuri de aplicare a acesteia | [`hg/2020/365/`](hg/2020/365/) | amending act | 3 | 2020-05-11 | 2022-03-03 |
 | Hotărârea Guvernului nr. 370/2020 privind aprobarea Programului național "Școala de acasă" și pentru alocarea unei sume din Fondul de rezervă bugetară la dispoziția Guvernului, prevăzut în bugetul de stat pe anul 2020, pentru Ministerul Educației și Cercetării | [`hg/2020/370/`](hg/2020/370/) | amending act | 1 | 2020-05-11 | 2020-05-11 |
+| Hotărârea Guvernului nr. 372/2020 privind actualizarea inventarului centralizat al bunurilor din domeniul public al statului, ca urmare a modificării valorii de inventar pentru un imobil aflat în administrarea Ministerului Afacerilor Interne - U.M. 0460 Râmnicu Vâlcea | [`hg/2020/372/`](hg/2020/372/) | in force | 1 | 2020-05-14 | 2020-05-14 |
+| Hotărârea Guvernului nr. 373/2020 privind înscrierea unui imobil în inventarul centralizat al bunurilor din domeniul public al statului şi darea acestuia în administrarea Instituţiei Prefectului - Judeţul Hunedoara din subordinea Ministerului Afacerilor Interne | [`hg/2020/373/`](hg/2020/373/) | in force | 1 | 2020-05-14 | 2020-05-14 |
+| Hotărârea Guvernului nr. 374/2020 pentru actualizarea valorii de inventar şi a datelor de identificare a unui imobil aflat în domeniul public al statului şi administrarea Instituţiei Prefectului - Judeţul Dâmboviţa din subordinea Ministerului Afacerilor Interne | [`hg/2020/374/`](hg/2020/374/) | in force | 1 | 2020-05-16 | 2020-05-16 |
+| Hotărârea Guvernului nr. 375/2020 privind modificarea anexei nr. 10 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului pentru imobilele înscrise la nr. MFP 40163 şi 152346, aflate în administrarea Oficiului de Cadastru şi Publicitate Imobiliară Gorj | [`hg/2020/375/`](hg/2020/375/) | amending act | 1 | 2020-05-16 | 2020-05-16 |
 | Hotărârea Guvernului nr. 382/2020 privind aprobarea bugetului de venituri şi cheltuieli pe anul 2020 pentru Compania Naţională a Cuprului, Aurului şi Fierului MINVEST - S.A. Deva, aflată sub autoritatea Ministerului Economiei, Energiei şi Mediului de Afaceri | [`hg/2020/382/`](hg/2020/382/) | amending act | 1 | 2020-05-21 | 2020-05-21 |
 | Hotărârea Guvernului nr. 384/2020 privind actualizarea anexei nr. 1 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului pentru unele imobile aflate în administrarea Ministerului Afacerilor Interne | [`hg/2020/384/`](hg/2020/384/) | amending act | 1 | 2020-05-19 | 2020-05-19 |
 | Hotărârea Guvernului nr. 389/2020 privind revocarea dreptului de folosinţă gratuită al Bisericii Unitariene Maghiare asupra unui imobil aflat în domeniul public al statului şi pentru trecerea acestuia din administrarea Secretariatului de Stat pentru Culte în administrarea Regiei Autonome "Administraţia Patrimoniului Protocolului de Stat" | [`hg/2020/389/`](hg/2020/389/) | in force | 1 | 2020-05-20 | 2020-05-20 |
