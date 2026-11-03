@@ -1,6 +1,6 @@
 # Every act in this repository
 
-9247 acts, 22,488 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+9249 acts, 22,509 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -32,7 +32,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (2110, of which 865 amending acts)
+## Laws (legi) (2111, of which 865 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -1775,6 +1775,7 @@
 | Legea nr. 292/2023 pentru ratificarea Acordului dintre Guvernul României şi Guvernul Palestinei privind cooperarea în prevenirea şi combaterea criminalităţii organizate, a terorismului şi a altor infracţiuni, semnat la 19 iulie 2022 la Bucureşti | [`lege/2023/292/`](lege/2023/292/) | in force | 1 | 2023-10-28 | 2023-10-28 |
 | Legea nr. 293/2023 privind aprobarea Ordonanţei Guvernului nr. 22/2022 pentru modificarea Legii nr. 152/1998 privind înfiinţarea Agenţiei Naţionale pentru Locuinţe | [`lege/2023/293/`](lege/2023/293/) | amending act | 1 | 2023-10-28 | 2023-10-28 |
 | Legea nr. 294/2023 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 46/2023 pentru modificarea şi completarea art. 8 din Legea nr. 315/2004 privind dezvoltarea regională în România | [`lege/2023/294/`](lege/2023/294/) | amending act | 1 | 2023-10-29 | 2023-10-29 |
+| Legea nr. 296/2023 privind unele măsuri fiscal-bugetare pentru asigurarea sustenabilității financiare a României pe termen lung | [`lege/2023/296/`](lege/2023/296/) | in force | 17 | 2023-10-30 | 2025-02-21 |
 | Legea nr. 297/2023 pentru modificarea şi completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii | [`lege/2023/297/`](lege/2023/297/) | amending act | 1 | 2023-11-04 | 2023-11-04 |
 | Legea nr. 298/2023 pentru modificarea Legii nr. 272/2004 privind protecția și promovarea drepturilor copilului | [`lege/2023/298/`](lege/2023/298/) | amending act | 1 | 2023-11-04 | 2023-11-04 |
 | Legea nr. 299/2023 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 66/2022 pentru completarea Legii nr. 16/2017 privind detaşarea salariaţilor în cadrul prestării de servicii transnaţionale | [`lege/2023/299/`](lege/2023/299/) | amending act | 1 | 2023-11-05 | 2023-11-05 |
@@ -3695,7 +3696,7 @@
 | Ordonanța de urgență a Guvernului nr. 30/2026 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 23/2004 privind stabilirea unor măsuri de reorganizare a Autorităţii pentru Valorificarea Activelor Bancare prin comasarea prin absorbţie cu Autoritatea pentru Privatizare şi Administrarea Participaţiilor Statului | [`oug/2026/30/`](oug/2026/30/) | amending act | 1 | 2026-04-21 | 2026-04-21 |
 | Ordonanța de urgență a Guvernului nr. 33/2026 pentru modificarea şi completarea Legii educaţiei fizice şi sportului nr. 69/2000 | [`oug/2026/33/`](oug/2026/33/) | amending act | 1 | 2026-04-27 | 2026-04-27 |
 
-## Ordinances (OG) (484, of which 92 amending acts)
+## Ordinances (OG) (485, of which 92 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -4027,6 +4028,7 @@
 | Ordonanța Guvernului nr. 26/2013 | [`og/2013/26/`](og/2013/26/) | in force | 17 | 2013-09-01 | 2025-12-24 |
 | Ordonanța Guvernului nr. 28/2013 | [`og/2013/28/`](og/2013/28/) | in force | 2 | 2013-09-02 | 2014-05-17 |
 | Ordonanța Guvernului nr. 29/2013 | [`og/2013/29/`](og/2013/29/) | in force | 6 | 2013-09-02 | 2025-04-08 |
+| Ordonanța Guvernului nr. 31/2013 | [`og/2013/31/`](og/2013/31/) | in force | 4 | 2013-09-02 | 2014-01-11 |
 | Ordonanța Guvernului nr. 32/2013 | [`og/2013/32/`](og/2013/32/) | in force | 2 | 2013-09-02 | 2014-04-11 |
 | Ordonanța Guvernului nr. 1/2014 | [`og/2014/1/`](og/2014/1/) | in force | 2 | 2014-01-27 | 2014-10-19 |
 | Ordonanța Guvernului nr. 6/2014 | [`og/2014/6/`](og/2014/6/) | in force | 2 | 2014-08-01 | 2015-07-31 |

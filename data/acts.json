@@ -29582,6 +29582,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/275715"
 },
 {
+"slug": "legea-296-2023",
+"path": "lege/2023/296",
+"kind": "lege",
+"year": "2023",
+"number": "296",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 296/2023 privind unele măsuri fiscal-bugetare pentru asigurarea sustenabilității financiare a României pe termen lung",
+"short": "Legea nr. 296/2023",
+"code": null,
+"status": "in force",
+"versions": 17,
+"from": "2023-10-30",
+"latest": "2025-02-21",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/275745"
+},
+{
 "slug": "legea-297-2023",
 "path": "lege/2023/297",
 "kind": "lege",
@@ -67694,6 +67711,23 @@
 "from": "2013-09-02",
 "latest": "2025-04-08",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/151081"
+},
+{
+"slug": "og-31-2013",
+"path": "og/2013/31",
+"kind": "og",
+"year": "2013",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța Guvernului nr. 31/2013",
+"short": "OG nr. 31/2013",
+"code": null,
+"status": "in force",
+"versions": 4,
+"from": "2013-09-02",
+"latest": "2014-01-11",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/154735"
 },
 {
 "slug": "og-32-2013",

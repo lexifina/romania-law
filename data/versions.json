@@ -44813,6 +44813,117 @@
    ]
   },
   {
+   "slug": "legea-296-2023",
+   "path": "lege/2023/296",
+   "short": "Legea nr. 296/2023",
+   "title": "Legea nr. 296/2023 privind unele măsuri fiscal-bugetare pentru asigurarea sustenabilității financiare a României pe termen lung",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/275745",
+   "versions": [
+    {
+     "from": "2023-10-30",
+     "units": 66,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/275745",
+     "sha256": "a7f59935110bd12bae3981edd56d6c37a35379b4273de22b7e59399e374491d9"
+    },
+    {
+     "from": "2023-11-01",
+     "units": 66,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/275745",
+     "sha256": "a7f59935110bd12bae3981edd56d6c37a35379b4273de22b7e59399e374491d9"
+    },
+    {
+     "from": "2023-11-11",
+     "units": 76,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/275745",
+     "sha256": "a7f59935110bd12bae3981edd56d6c37a35379b4273de22b7e59399e374491d9"
+    },
+    {
+     "from": "2023-11-11",
+     "units": 76,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/276245",
+     "sha256": "91a369d10a1352023a0856d4e052cd6a341d4bb1c5e65df58cc11a6e6ec85c89"
+    },
+    {
+     "from": "2023-11-14",
+     "units": 76,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/276319",
+     "sha256": "cf0b84f713bf9ecd38b41292b1035f2eeae791f3690585cd59693572f227f968"
+    },
+    {
+     "from": "2023-12-14",
+     "units": 76,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/277378",
+     "sha256": "274381ab2d2bf06758470540c9ee3e5489a7c6dcebf7ea757917999beb60fc46"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 80,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/277378",
+     "sha256": "274381ab2d2bf06758470540c9ee3e5489a7c6dcebf7ea757917999beb60fc46"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 80,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/277794",
+     "sha256": "4a28aec631b1b3d1caa77166c9008495bce4afc18bd73f17ea98b74f494c86a2"
+    },
+    {
+     "from": "2024-03-29",
+     "units": 81,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/280298",
+     "sha256": "4bebe3088c0df24caf169a711f99f05822506b8709643ea8c54c0a9e82d8c535"
+    },
+    {
+     "from": "2024-05-14",
+     "units": 81,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/282229",
+     "sha256": "d895e9a1cb03ffe93aca79c3a6db32579942aaceb8f9f3a8c3891f343a750aad"
+    },
+    {
+     "from": "2024-06-26",
+     "units": 81,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/284217",
+     "sha256": "97a32ba3c1e25daa430260e7de02cf54b7a61b757fc0ed7cb5a041392c4c32de"
+    },
+    {
+     "from": "2024-06-30",
+     "units": 81,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/284217",
+     "sha256": "97a32ba3c1e25daa430260e7de02cf54b7a61b757fc0ed7cb5a041392c4c32de"
+    },
+    {
+     "from": "2024-07-01",
+     "units": 81,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/284217",
+     "sha256": "97a32ba3c1e25daa430260e7de02cf54b7a61b757fc0ed7cb5a041392c4c32de"
+    },
+    {
+     "from": "2024-07-01",
+     "units": 81,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/284217",
+     "sha256": "97a32ba3c1e25daa430260e7de02cf54b7a61b757fc0ed7cb5a041392c4c32de"
+    },
+    {
+     "from": "2024-08-26",
+     "units": 81,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/287165",
+     "sha256": "671ff16a2a35169fee34ac4cb5f7b456ab33ae0d58c7055ea8f0a58ff8d63e9b"
+    },
+    {
+     "from": "2024-12-31",
+     "units": 81,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/292638",
+     "sha256": "19827e80c33cd61ac7930234341a546b94e1f07aa7739e37b15d6d1193c82fff"
+    },
+    {
+     "from": "2025-02-21",
+     "units": 81,
+     "source_url": "https://legislatie.just.ro/public/DetaliiDocument/275745",
+     "sha256": "fca21c03a524630c18bd73276ee98429d9235ebc274c502186b8fba97818a488"
+    }
+   ]
+  },
+  {
    "slug": "legea-297-2018",
    "path": "lege/2018/297",
    "short": "Legea nr. 297/2018",
@@ -65050,6 +65161,39 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/156548",
      "sha256": "4038501dd54d01f0a4cf29673de7b8a61ebff910036d92783e3046fb635e864a"
+    }
+   ]
+  },
+  {
+   "slug": "og-31-2013",
+   "path": "og/2013/31",
+   "short": "OG nr. 31/2013",
+   "title": "Ordonanța Guvernului nr. 31/2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/154735",
+   "versions": [
+    {
+     "from": "2013-09-02",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/151085",
+     "sha256": "187f72898c70d3a740865531395840af43037af9c742126a22966142a73b59a0"
+    },
+    {
+     "from": "2013-09-29",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/151085",
+     "sha256": "187f72898c70d3a740865531395840af43037af9c742126a22966142a73b59a0"
+    },
+    {
+     "from": "2014-01-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/151085",
+     "sha256": "187f72898c70d3a740865531395840af43037af9c742126a22966142a73b59a0"
+    },
+    {
+     "from": "2014-01-11",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/154735",
+     "sha256": "00e919d1b4ad2fee8aaca595bec94048638451670da7be67bd28638cf5abe745"
     }
    ]
   },
