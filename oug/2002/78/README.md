@@ -23,3 +23,17 @@ Act id: `oug-78-2002` (tags `oug-78-2002/<day>`; `python tools/on.py <day> oug-7
 - OUG nr. 78/2002: the first version is the emergency ordinance as published in Monitorul Oficial nr. 452 of 27 June 2002 (DetaliiDocumentAfis/36894), dated 27 June 2002: an emergency ordinance with no day of its own, in force on publication (Constituția art. 115 alin. (5); Legea nr. 24/2000 art. 12 alin. (2)). The portal holds no consolidated form before 10 December 2002, so the changes made up to then arrive together that day.
 - OUG nr. 78/2002: the portal editorial notes printed as paragraphs of an article (on a Constitutional Court ruling, a rectification, a provision put back in force) are not text: 3 such paragraphs across all forms, for example «Conform art. 147 alin. (1) din CONSTITUȚIA ROMÂNIEI republic», «Prin DECIZIA CURȚII CONSTITUȚIONALE nr. 117 din 6 martie 201», «În concluzie, începând cu data de 8 mai 2014, dispozițiile i».
 - OUG nr. 78/2002: 5 changed article(s) with no note naming a law, committed as the publisher's: 2014-05-08 art-001, 2014-05-08 art-002, 2014-05-08 art-003, 2014-05-08 art-004, 2014-05-08 art-007.
+
+## Credits corrected
+
+These changes were first published credited to another law. The words are unchanged; `git blame` still names the commit that wrote them, and `data/credits.csv` lists every corrected credit.
+
+- `art-001.md`, in force from 2002-12-10: Legea nr. 643/2002 (first published as no law named).
+- `art-002.md`, in force from 2002-12-10: Legea nr. 643/2002 (first published as no law named).
+- `art-003.md`, in force from 2002-12-10: Legea nr. 643/2002 (first published as no law named).
+- `art-004.md`, in force from 2002-12-10: Legea nr. 643/2002 (first published as no law named).
+- `art-006.md`, in force from 2002-12-10: Legea nr. 643/2002 (first published as no law named).
+- `art-007.md`, in force from 2002-12-10: Legea nr. 643/2002 (first published as no law named).
+- `art-008.md`, in force from 2002-12-10: Legea nr. 643/2002 (first published as no law named).
+- `art-006.md`, in force from 2008-03-21: OUG nr. 29/2008 (first published as no law named).
+- `art-008.md`, in force from 2008-03-21: OUG nr. 29/2008 (first published as no law named).
