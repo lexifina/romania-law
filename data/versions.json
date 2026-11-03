@@ -26564,6 +26564,129 @@
    ]
   },
   {
+   "slug": "legea-567-2004",
+   "path": "lege/2004/567",
+   "short": "Legea nr. 567/2004",
+   "title": "Legea nr. 567/2004 privind statutul personalului auxiliar de specialitate al instanțelor judecătorești și al parchetelor de pe lângă acestea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/57732",
+   "versions": [
+    {
+     "from": "2005-01-01",
+     "units": 74,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/57732",
+     "sha256": "c8bcc5f7cfa5c51a3b0dfc4b47ed04f6425900bfa13529f83762bf6c3525685f"
+    },
+    {
+     "from": "2005-01-14",
+     "units": 74,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/81805",
+     "sha256": "5b307826a940f9eb6e1eec94da81c576600b5eac1e6b23a18f8da0e6b9ddef25"
+    },
+    {
+     "from": "2005-07-16",
+     "units": 96,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/81805",
+     "sha256": "5b307826a940f9eb6e1eec94da81c576600b5eac1e6b23a18f8da0e6b9ddef25"
+    },
+    {
+     "from": "2006-04-07",
+     "units": 97,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/81806",
+     "sha256": "f6554ce1a183196658cdab4c3b8741d5c20e3de355f073a09eb2fafb1c910d77"
+    },
+    {
+     "from": "2007-10-08",
+     "units": 101,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85976",
+     "sha256": "ba613117b9f980b8d458d9e6c7748ffca45d0c85a01ffffe63f2d7a4c4970387"
+    },
+    {
+     "from": "2008-04-18",
+     "units": 102,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/91427",
+     "sha256": "6b19eb9ea4f870c74683a865a6eaca427b6a0a08db1b5b179fe4ba197b989bfe"
+    },
+    {
+     "from": "2008-12-08",
+     "units": 103,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/100185",
+     "sha256": "6f3632a8c66806f51a4906170b7b9cc8e2e96bf9d698abd55248b08d5918ca51"
+    },
+    {
+     "from": "2009-01-05",
+     "units": 103,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/101029",
+     "sha256": "56e71ba11de0366de00e75b4599d285d7fdf574194123d02fc04fdb01efbb95e"
+    },
+    {
+     "from": "2009-01-16",
+     "units": 103,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/101714",
+     "sha256": "d11667feeec1ccb6d9d8234122cf0a6b979e19fe48fe31dfeb8b19ae7fe7e40b"
+    },
+    {
+     "from": "2009-03-03",
+     "units": 103,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/105420",
+     "sha256": "e485ac0324e2a7928dc88b2e13dd3090ee0285c06c83e67e679f66544a90e494"
+    },
+    {
+     "from": "2009-05-03",
+     "units": 104,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/105421",
+     "sha256": "35ae490cd4d2e3603c6387f1fcada5d6b01bf3c7e7b01dab4f65e7ed14ae062a"
+    },
+    {
+     "from": "2011-01-01",
+     "units": 100,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/126290",
+     "sha256": "09cedd10b4a4f8aebc6bc22430699065f1df958d15d2e2cf36d1b619f4d3bcff"
+    },
+    {
+     "from": "2011-07-25",
+     "units": 145,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/130416",
+     "sha256": "b3306c56145876cc6e89fb692f78c63fd5fc21a1f7cf397879ccb4bb926c3b55"
+    },
+    {
+     "from": "2013-07-01",
+     "units": 145,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/149365",
+     "sha256": "8abd059d6bd41e8de5e444e60fd102f2a31044278b97dc64d11f1bd29f1da3cd"
+    },
+    {
+     "from": "2014-02-01",
+     "units": 145,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/155268",
+     "sha256": "09ee63cc8e7e687cc75e8202735f8a3cdf43ba6048f81ad10420e9c5ca2f3aae"
+    },
+    {
+     "from": "2015-06-12",
+     "units": 149,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168773",
+     "sha256": "53b871155e16892f34d6c5f3a4b866723c72e98b32609b5abdf2aab854fe69ab"
+    },
+    {
+     "from": "2015-07-25",
+     "units": 150,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168862",
+     "sha256": "161a697711f8f45890020a068cbb6402151c332f2b29c9e381c1611fe1a4f6fd"
+    },
+    {
+     "from": "2017-08-07",
+     "units": 150,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/191881",
+     "sha256": "d95e48d9557760fcb3d1169f005edd6bbe765bdc47546aee3aeb930fae76a313"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 151,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/269782",
+     "sha256": "0ed86e84df4c200027dcdfca01c435d4fdd73a3730dd066983cc367510f1d955"
+    }
+   ]
+  },
+  {
    "slug": "legea-58-1934",
    "path": "lege/1934/58",
    "short": "Legea nr. 58/1934",

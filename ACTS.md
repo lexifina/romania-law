@@ -1,6 +1,6 @@
 # Every act in this repository
 
-5319 acts, 14,253 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+5320 acts, 14,272 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -32,7 +32,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (1516, of which 608 amending acts)
+## Laws (legi) (1517, of which 608 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -389,6 +389,7 @@
 | Legea contenciosului administrativ nr. 554/2004 | [`lege/2004/554/`](lege/2004/554/) | in force | 20 | 2005-01-06 | 2023-04-27 |
 | Legea nr. 556/2004 | [`lege/2004/556/`](lege/2004/556/) | in force | 2 | 2004-12-17 | 2019-05-27 |
 | Legea nr. 566/2004 | [`lege/2004/566/`](lege/2004/566/) | in force | 13 | 2005-01-21 | 2026-01-01 |
+| Legea nr. 567/2004 privind statutul personalului auxiliar de specialitate al instanțelor judecătorești și al parchetelor de pe lângă acestea | [`lege/2004/567/`](lege/2004/567/) | in force | 19 | 2005-01-01 | 2024-01-01 |
 | Legea nr. 571/2004 privind protecția personalului din autoritățile publice, instituțiile publice și din alte unități care semnalează încălcări ale legii | [`lege/2004/571/`](lege/2004/571/) | in force | 1 | 2004-12-20 | 2004-12-20 |
 | Legea nr. 573/2004 privind Semnul onorific În Serviciul Patriei pentru ofițeri și funcționari publici cu statut special, cu grade profesionale echivalente cu gradele de ofițeri | [`lege/2004/573/`](lege/2004/573/) | in force | 4 | 2005-01-01 | 2018-06-30 |
 | Legea nr. 574/2004 privind Semnul onorific În Serviciul Patriei pentru maiștri militari, subofițeri și pentru funcționari publici cu statut special, cu grade profesionale echivalente cu gradele de maiștri militari și subofițeri | [`lege/2004/574/`](lege/2004/574/) | in force | 4 | 2005-01-01 | 2018-06-30 |

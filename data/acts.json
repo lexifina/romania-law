@@ -6020,6 +6020,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/305299"
 },
 {
+"slug": "legea-567-2004",
+"path": "lege/2004/567",
+"kind": "lege",
+"year": "2004",
+"number": "567",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 567/2004 privind statutul personalului auxiliar de specialitate al instanțelor judecătorești și al parchetelor de pe lângă acestea",
+"short": "Legea nr. 567/2004",
+"code": null,
+"status": "in force",
+"versions": 19,
+"from": "2005-01-01",
+"latest": "2024-01-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/57732"
+},
+{
 "slug": "legea-571-2004",
 "path": "lege/2004/571",
 "kind": "lege",
