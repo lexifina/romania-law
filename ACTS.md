@@ -1,6 +1,6 @@
 # Every act in this repository
 
-12574 acts, 26,156 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+12586 acts, 26,168 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -2443,7 +2443,7 @@
 | Legea nr. 194/2026 pentru modificarea anexei la Legea nr. 2/1968 privind organizarea administrativă a teritoriului României | [`lege/2026/194/`](lege/2026/194/) | amending act | 1 | 2026-10-10 | 2026-10-10 |
 | Legea nr. 205/2026 pentru completarea Ordonanţei Guvernului nr. 22/2002 privind executarea obligaţiilor de plată ale instituţiilor publice, stabilite prin titluri executorii | [`lege/2026/205/`](lege/2026/205/) | amending act | 1 | 2026-11-02 | 2026-11-02 |
 
-## Emergency ordinances (OUG) (1609, of which 559 amending acts)
+## Emergency ordinances (OUG) (1610, of which 559 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -2863,6 +2863,7 @@
 | Ordonanța de urgență a Guvernului nr. 23/2008 | [`oug/2008/23/`](oug/2008/23/) | in force | 14 | 2008-03-10 | 2025-12-07 |
 | Ordonanța de urgență a Guvernului nr. 24/2008 | [`oug/2008/24/`](oug/2008/24/) | in force | 9 | 2008-03-15 | 2024-06-17 |
 | Ordonanța de urgență a Guvernului nr. 26/2008 | [`oug/2008/26/`](oug/2008/26/) | in force | 2 | 2008-03-17 | 2008-11-17 |
+| Ordonanța de urgență a Guvernului nr. 30/2008 privind unele măsuri financiare | [`oug/2008/30/`](oug/2008/30/) | in force | 1 | 2008-03-21 | 2008-03-21 |
 | Ordonanța de urgență a Guvernului nr. 34/2008 | [`oug/2008/34/`](oug/2008/34/) | in force | 11 | 2008-04-07 | 2023-05-26 |
 | Ordonanța de urgență a Guvernului nr. 37/2008 | [`oug/2008/37/`](oug/2008/37/) | in force | 18 | 2008-04-08 | 2017-01-30 |
 | Ordonanța de urgență a Guvernului nr. 38/2008 | [`oug/2008/38/`](oug/2008/38/) | in force | 2 | 2008-05-11 | 2009-05-09 |
@@ -4569,7 +4570,7 @@
 | Ordonanța Guvernului nr. 21/2025 pentru modificarea și completarea Legii nr. 431/2023 privind asigurarea unui nivel minim global de impozitare a grupurilor de întreprinderi multinaționale și a grupurilor naționale de mari dimensiuni | [`og/2025/21/`](og/2025/21/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 | Ordonanța Guvernului nr. 22/2025 pentru modificarea și completarea Legii nr. 227/2015 privind Codul fiscal | [`og/2025/22/`](og/2025/22/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 
-## Government decisions (HG) (8014, of which 3436 amending acts)
+## Government decisions (HG) (8025, of which 3440 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -5508,6 +5509,7 @@
 | Hotărârea Guvernului nr. 241/2008 privind declanşarea procedurilor de expropriere a imobilelor proprietate privată situate pe amplasamentul suplimentar al lucrării "Reabilitare DN 6 Drobeta-Turnu Severin - Lugoj, între km 358+000 şi km 388+100 - Lot 2, pe teritoriul localităţilor Orşova, judeţul Mehedinţi, Topleţ şi Mehadia, judeţul Caraş-Severin" | [`hg/2008/241/`](hg/2008/241/) | in force | 1 | 2008-03-12 | 2008-03-12 |
 | Hotărârea Guvernului nr. 243/2008 privind unele măsuri referitoare la desfăşurarea activităţilor de zbor în spaţiul aerian al României pe durata Summitului NATO 2008 | [`hg/2008/243/`](hg/2008/243/) | in force | 1 | 2008-03-10 | 2008-03-10 |
 | Hotărârea Guvernului nr. 247/2008 pentru modificarea şi completarea Hotărârii Guvernului nr. 281/2006 pentru aprobarea Normelor privind organizarea în România a acţiunilor de protocol specifice Ministerului Integrării Europene, precum şi a cheltuielilor ce se pot efectua în acest scop | [`hg/2008/247/`](hg/2008/247/) | amending act | 1 | 2008-03-19 | 2008-03-19 |
+| Hotărârea Guvernului nr. 248/2008 pentru modificarea Hotărârii Guvernului nr. 1.424/2007 privind aprobarea Programului multianual "Asistenţă tehnică pentru sprijinirea autorităţilor administraţiei publice locale în pregătirea tehnică a proiectelor de investiţii publice, finanţate prin Programul operaţional regional 2007-2013", şi finanţarea acestuia din bugetul Ministerului Dezvoltării, Lucrărilor Publice şi Locuinţelor | [`hg/2008/248/`](hg/2008/248/) | amending act | 1 | 2008-03-21 | 2008-03-21 |
 | Hotărârea Guvernului nr. 251/2008 privind trecerea din domeniul public al statului în domeniul privat al statului a unui mijloc fix, aflat în concesiunea Companiei Naţionale de Căi Ferate "C.F.R." - S.A | [`hg/2008/251/`](hg/2008/251/) | in force | 1 | 2008-03-17 | 2008-03-17 |
 | Hotărârea Guvernului nr. 252/2008 privind trecerea unui bun aflat în administrarea Ministerului Agriculturii şi Dezvoltării Rurale - Direcţia pentru Agricultură şi Dezvoltare Rurală Tulcea din domeniul public al statului în domeniul privat al acestuia şi modificarea anexei nr. 3 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului | [`hg/2008/252/`](hg/2008/252/) | amending act | 1 | 2008-03-17 | 2008-03-17 |
 | Hotărârea Guvernului nr. 253/2008 privind trecerea din domeniul public al statului în domeniul privat al acestuia a unor construcţii aflate în administrarea Ministerului Agriculturii şi Dezvoltării Rurale - Direcţia pentru Agricultură şi Dezvoltare Rurală a Judeţului Maramureş | [`hg/2008/253/`](hg/2008/253/) | in force | 1 | 2008-03-17 | 2008-03-17 |
@@ -5530,6 +5532,16 @@
 | Hotărârea Guvernului nr. 290/2008 privind aprobarea Licenţei de concesiune a activităţii miniere de exploatare a argilei comune nr. 2.530/2001, încheiată între Agenţia Naţională pentru Resurse Minerale şi Societatea Comercială "SOMACO" - S.A | [`hg/2008/290/`](hg/2008/290/) | amending act | 1 | 2008-03-17 | 2008-03-17 |
 | Hotărârea Guvernului nr. 291/2008 privind aprobarea acordurilor de concesiune de explorare, dezvoltare şi exploatare petrolieră în perimetrele E VII-1 Maramureş, E VII-4 Giurgiu şi E VII-5 Roşiori, încheiate între Agenţia Naţională pentru Resurse Minerale şi Societatea Comercială "Petrom" - S.A | [`hg/2008/291/`](hg/2008/291/) | amending act | 1 | 2008-03-17 | 2008-03-17 |
 | Hotărârea Guvernului nr. 293/2008 | [`hg/2008/293/`](hg/2008/293/) | in force | 1 | 2008-03-26 | 2008-03-26 |
+| Hotărârea Guvernului nr. 297/2008 privind stabilirea unor măsuri pentru desfăşurarea, în bune condiţii, a Summitului NATO organizat la Bucureşti în perioada 2-4 aprilie 2008 | [`hg/2008/297/`](hg/2008/297/) | in force | 1 | 2008-03-20 | 2008-03-20 |
+| Hotărârea Guvernului nr. 298/2008 privind numirea doamnei Marcu Mihaela în funcţia publică de prefect al judeţului Brăila | [`hg/2008/298/`](hg/2008/298/) | in force | 1 | 2008-03-24 | 2008-03-24 |
+| Hotărârea Guvernului nr. 299/2008 privind numirea domnului Bâzoi Sevastian în funcţia publică de prefect al judeţului Mehedinţi | [`hg/2008/299/`](hg/2008/299/) | in force | 1 | 2008-03-24 | 2008-03-24 |
+| Hotărârea Guvernului nr. 301/2008 privind constatarea încetării de drept a raportului de serviciu al domnului Riedl Rudolf, subprefect al judeţului Satu Mare | [`hg/2008/301/`](hg/2008/301/) | in force | 1 | 2008-03-24 | 2008-03-24 |
+| Hotărârea Guvernului nr. 302/2008 privind exercitarea, cu caracter temporar, a funcţiei publice de subprefect al judeţului Satu Mare de către domnul Pataki Csaba | [`hg/2008/302/`](hg/2008/302/) | in force | 1 | 2008-03-24 | 2008-03-24 |
+| Hotărârea Guvernului nr. 309/2008 pentru aprobarea fuziunii prin absorbţie a Societăţii Comerciale "Turism şi Agrement C.F.R." - S.A. de către Compania Naţională de Căi Ferate "C.F.R." - S.A | [`hg/2008/309/`](hg/2008/309/) | amending act | 1 | 2008-03-21 | 2008-03-21 |
+| Hotărârea Guvernului nr. 311/2008 privind schimbarea titularului dreptului de proprietate şi de administrare asupra unor părţi dintr-un imobil aflat în domeniul public al statului şi în administrarea Ministerului Apărării | [`hg/2008/311/`](hg/2008/311/) | in force | 1 | 2008-03-25 | 2008-03-25 |
+| Hotărârea Guvernului nr. 313/2008 privind transmiterea unui imobil din domeniul public al statului şi din administrarea Ministerului Apărării în domeniul public al judeţului Hunedoara şi în administrarea Consiliului Judeţean Hunedoara | [`hg/2008/313/`](hg/2008/313/) | in force | 1 | 2008-03-25 | 2008-03-25 |
+| Hotărârea Guvernului nr. 314/2008 pentru modificarea art. 3 alin. (1) din Hotărârea Guvernului nr. 706/1994 privind trecerea palatelor administrative din municipiile reşedinţe de judeţe în administrarea prefecturilor | [`hg/2008/314/`](hg/2008/314/) | amending act | 1 | 2008-03-25 | 2008-03-25 |
+| Hotărârea Guvernului nr. 320/2008 pentru modificarea şi completarea Hotărârii Guvernului nr. 272/2008 privind stabilirea modelelor proceselor-verbale pentru consemnarea rezultatelor votării la alegerile locale din anul 2008 | [`hg/2008/320/`](hg/2008/320/) | amending act | 1 | 2008-03-21 | 2008-03-21 |
 | Hotărârea Guvernului nr. 324/2008 | [`hg/2008/324/`](hg/2008/324/) | in force | 1 | 2008-04-01 | 2008-04-01 |
 | Hotărârea Guvernului nr. 357/2008 | [`hg/2008/357/`](hg/2008/357/) | in force | 3 | 2008-04-01 | 2008-08-13 |
 | Hotărârea Guvernului nr. 430/2008 | [`hg/2008/430/`](hg/2008/430/) | in force | 1 | 2008-05-01 | 2008-05-01 |
