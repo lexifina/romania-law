@@ -2008,6 +2008,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/56874"
 },
 {
+"slug": "legea-481-2004",
+"path": "lege/2004/481",
+"kind": "lege",
+"year": "2004",
+"number": "481",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 481/2004",
+"short": "Legea nr. 481/2004",
+"code": null,
+"status": "in force",
+"versions": 8,
+"from": "2005-01-23",
+"latest": "2023-03-07",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/56923"
+},
+{
 "slug": "legea-490-2004",
 "path": "lege/2004/490",
 "kind": "lege",
@@ -14418,6 +14435,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/224489"
 },
 {
+"slug": "oug-43-2020",
+"path": "oug/2020/43",
+"kind": "oug",
+"year": "2020",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 43/2020 pentru aprobarea unor măsuri de sprijin decontate din fonduri europene, ca urmare a răspândirii coronavirusului COVID-19, pe perioada stării de urgență",
+"short": "OUG nr. 43/2020",
+"code": null,
+"status": "amending act",
+"versions": 6,
+"from": "2020-05-11",
+"latest": "2021-12-17",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/224714"
+},
+{
 "slug": "oug-48-2020",
 "path": "oug/2020/48",
 "kind": "oug",
@@ -17476,6 +17510,23 @@
 "from": "2022-07-01",
 "latest": "2025-09-12",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/256927"
+},
+{
+"slug": "oug-108-2022",
+"path": "oug/2022/108",
+"kind": "oug",
+"year": "2022",
+"number": "108",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 108/2022 privind decarbonizarea sectorului energetic",
+"short": "OUG nr. 108/2022",
+"code": null,
+"status": "in force",
+"versions": 5,
+"from": "2022-12-08",
+"latest": "2026-01-03",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/256928"
 },
 {
 "slug": "oug-109-2022",
@@ -21114,6 +21165,23 @@
 "from": "1994-08-29",
 "latest": "2000-07-06",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/304557"
+},
+{
+"slug": "og-4-1995",
+"path": "og/1995/4",
+"kind": "og",
+"year": "1995",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța Guvernului nr. 4/1995",
+"short": "OG nr. 4/1995",
+"code": null,
+"status": "in force",
+"versions": 6,
+"from": "1995-01-30",
+"latest": "2025-10-02",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/5663"
 },
 {
 "slug": "og-27-1996",
