@@ -99791,6 +99791,21 @@
    ]
   },
   {
+   "slug": "hg-1002-2016",
+   "path": "hg/2016/1002",
+   "short": "HG nr. 1002/2016",
+   "title": "Hotărârea Guvernului nr. 1002/2016 privind schimbarea titularului dreptului de administrare a unui bun imobil aflat în domeniul public al statului, precum şi pentru modificarea datelor de identificare şi actualizarea valorilor de inventar ale unor bunuri imobile înregistrate în anexa nr. 3 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/185401",
+   "versions": [
+    {
+     "from": "2016-12-30",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/185401",
+     "sha256": "57e85e192bd6f54165c0d6f7bceba87c42fcd9bf9f3d973bfa9acda5a562d1c2"
+    }
+   ]
+  },
+  {
    "slug": "hg-1002-2018",
    "path": "hg/2018/1002",
    "short": "HG nr. 1002/2018",
@@ -100343,6 +100358,21 @@
    ]
   },
   {
+   "slug": "hg-1007-2016",
+   "path": "hg/2016/1007",
+   "short": "HG nr. 1007/2016",
+   "title": "Hotărârea Guvernului nr. 1007/2016 privind acordarea unor ajutoare de urgenţă victimelor tragicului eveniment din 30 octombrie 2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/185402",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/185402",
+     "sha256": "e58f14a6ed7d20ade7a34986e7aa89254be5fbacecdc6a5a68306c057d3d0e1a"
+    }
+   ]
+  },
+  {
    "slug": "hg-1007-2018",
    "path": "hg/2018/1007",
    "short": "HG nr. 1007/2018",
@@ -100739,6 +100769,21 @@
    ]
   },
   {
+   "slug": "hg-1010-2016",
+   "path": "hg/2016/1010",
+   "short": "HG nr. 1010/2016",
+   "title": "Hotărârea Guvernului nr. 1010/2016 pentru rectificarea bugetului de venituri şi cheltuieli pe anul 2016 al Agenţiei Naţionale pentru Locuinţe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/185182",
+   "versions": [
+    {
+     "from": "2016-12-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/185182",
+     "sha256": "1174515f09fc6ffd1467b96b94c46bb02eef6e18bad0d512516b2b729326b840"
+    }
+   ]
+  },
+  {
    "slug": "hg-1010-2018",
    "path": "hg/2018/1010",
    "short": "HG nr. 1010/2018",
@@ -100966,6 +101011,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97193",
      "sha256": "89e14f3ef847c4788da97f2174610bfda31392d3dc957b3193cd058980dce4bb"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1012-2016",
+   "path": "hg/2016/1012",
+   "short": "HG nr. 1012/2016",
+   "title": "Hotărârea Guvernului nr. 1012/2016 pentru modificarea art. 10 alin. (3) din Hotărârea Guvernului nr. 1.174/2014 privind instituirea unei scheme de ajutor de stat pentru reducerea accizei la motorina utilizată în agricultură",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/185184",
+   "versions": [
+    {
+     "from": "2016-12-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/185184",
+     "sha256": "184e80560c69baa965ccb165ffe4050e18353af0968f3d305cb9a70cbec02c1b"
     }
    ]
   },
@@ -258626,6 +258686,21 @@
    ]
   },
   {
+   "slug": "hg-943-2016",
+   "path": "hg/2016/943",
+   "short": "HG nr. 943/2016",
+   "title": "Hotărârea Guvernului nr. 943/2016 privind suplimentarea bugetului Ministerului Educaţiei Naţionale şi Cercetării Ştiinţifice din Fondul de rezervă bugetară la dispoziţia Guvernului pentru acordarea justei despăgubiri Societăţii Comerciale Uzinele Mecanice Timişoara - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/184826",
+   "versions": [
+    {
+     "from": "2016-12-16",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/184826",
+     "sha256": "0649de3aa70b07fcfbfe36f635d31a8f45dc1f14368896e9f39ea96dea816f10"
+    }
+   ]
+  },
+  {
    "slug": "hg-943-2018",
    "path": "hg/2018/943",
    "short": "HG nr. 943/2018",
@@ -259001,6 +259076,21 @@
    ]
   },
   {
+   "slug": "hg-946-2016",
+   "path": "hg/2016/946",
+   "short": "HG nr. 946/2016",
+   "title": "Hotărârea Guvernului nr. 946/2016 privind modificarea Hotărârii Guvernului nr. 966/2010 privind drepturile de acces al autorităţilor publice române la Sistemul Informatic Naţional de Semnalări",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/184890",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/184890",
+     "sha256": "50c11b0ce904392ebef22d81b9e5c1170e22ea4587660b92613d5ed9561160f4"
+    }
+   ]
+  },
+  {
    "slug": "hg-946-2019",
    "path": "hg/2019/946",
    "short": "HG nr. 946/2019",
@@ -259241,6 +259331,21 @@
    ]
   },
   {
+   "slug": "hg-948-2016",
+   "path": "hg/2016/948",
+   "short": "HG nr. 948/2016",
+   "title": "Hotărârea Guvernului nr. 948/2016 pentru aprobarea Protocolului de cooperare în domeniul muncii şi afacerilor sociale între Ministerul Muncii, Familiei şi Protecţiei Sociale din România şi Ministerul Muncii al Autorităţii Naţionale Palestiniene, semnat la Bucureşti la 22 iunie 2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/184965",
+   "versions": [
+    {
+     "from": "2016-12-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/184965",
+     "sha256": "4a63b876fc637373b70296a9a3b59b3a359783c65875a50b5bd2d66809a1b92d"
+    }
+   ]
+  },
+  {
    "slug": "hg-948-2017",
    "path": "hg/2017/948",
    "short": "HG nr. 948/2017",
@@ -259372,6 +259477,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/96982",
      "sha256": "f3c8384bd94650e1d2880bf9bd01e7054043cce9e5aec1a9ec489ac5d71a8ee5"
+    }
+   ]
+  },
+  {
+   "slug": "hg-949-2016",
+   "path": "hg/2016/949",
+   "short": "HG nr. 949/2016",
+   "title": "Hotărârea Guvernului nr. 949/2016 pentru modificarea anexei nr. 1 la Hotărârea Guvernului nr. 1.486/2005 privind asigurarea pazei şi protecţiei obiectivelor, bunurilor şi valorilor cu efective de jandarmi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/184840",
+   "versions": [
+    {
+     "from": "2016-12-19",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/184840",
+     "sha256": "bcf64700df7d17e360d370459eb2a704450648ecb3dc877d7587d4c76ef69bb5"
     }
    ]
   },
@@ -259657,6 +259777,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/96983",
      "sha256": "63619c16236d97c7489d2c24ef62dc48b1b57d64f7b1c7707824272ca8370bc2"
+    }
+   ]
+  },
+  {
+   "slug": "hg-950-2016",
+   "path": "hg/2016/950",
+   "short": "HG nr. 950/2016",
+   "title": "Hotărârea Guvernului nr. 950/2016 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Sală de Sport Polivalentă cu capacitatea de 5.000 locuri\", municipiul Oradea, judeţul Bihor, realizat prin Compania Naţională de Investiţii \"C.N.I.\" - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/184841",
+   "versions": [
+    {
+     "from": "2016-12-19",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/184841",
+     "sha256": "910160a488f19de644354ee7479f856c2436e7508bdd46f85f42994bfbd05493"
     }
    ]
   },
@@ -260083,6 +260218,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/96956",
      "sha256": "9315d976afd9d2c40fc087034fbe965153cdea5c0c48d637e6df92aca1e0af48"
+    }
+   ]
+  },
+  {
+   "slug": "hg-953-2016",
+   "path": "hg/2016/953",
+   "short": "HG nr. 953/2016",
+   "title": "Hotărârea Guvernului nr. 953/2016 privind recunoaşterea Fundaţiei Olimpice Române ca fiind de utilitate publică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/184891",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/184891",
+     "sha256": "8e040d069922664bda45df4bae765908e1a2edcdc19e523e9f5b47c196977aee"
     }
    ]
   },
@@ -260579,6 +260729,21 @@
    ]
   },
   {
+   "slug": "hg-956-2016",
+   "path": "hg/2016/956",
+   "short": "HG nr. 956/2016",
+   "title": "Hotărârea Guvernului nr. 956/2016 privind transmiterea din domeniul public în domeniul privat al statului a unei părţi dintr-un imobil aflat în administrarea Ministerului Justiţiei, în vederea scoaterii din funcţiune şi demolării",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/184994",
+   "versions": [
+    {
+     "from": "2016-12-22",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/184994",
+     "sha256": "7d5536ad55e41ef2322735922db7867d7ea17c3fd15b462fe86ef9e58fc34ab6"
+    }
+   ]
+  },
+  {
    "slug": "hg-956-2018",
    "path": "hg/2018/956",
    "short": "HG nr. 956/2018",
@@ -260692,6 +260857,21 @@
      "units": 18,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/179473",
      "sha256": "50afa65ed9aa595537426f3473b88e141fc2cf1d625b179914c11e71aea85506"
+    }
+   ]
+  },
+  {
+   "slug": "hg-957-2016",
+   "path": "hg/2016/957",
+   "short": "HG nr. 957/2016",
+   "title": "Hotărârea Guvernului nr. 957/2016 privind stabilirea unor măsuri pentru aplicarea Regulamentului (UE) 2016/424 al Parlamentului European şi al Consiliului din 9 martie 2016 privind instalaţiile pe cablu şi de abrogare a Directivei 2000/9/CE",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/184995",
+   "versions": [
+    {
+     "from": "2016-12-22",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/184995",
+     "sha256": "4f95861768f998c3ec7ee8338b3d0e84116eee4a352177412442b4e0729127cf"
     }
    ]
   },
@@ -261092,6 +261272,21 @@
    ]
   },
   {
+   "slug": "hg-960-2016",
+   "path": "hg/2016/960",
+   "short": "HG nr. 960/2016",
+   "title": "Hotărârea Guvernului nr. 960/2016 pentru modificarea Normelor metodologice de aplicare a Legii nr. 8/2006 privind instituirea indemnizaţiei pentru pensionarii sistemului public de pensii, membri ai uniunilor de creatori legal constituite şi recunoscute ca persoane juridice de utilitate publică, aprobate prin Hotărârea Guvernului nr. 1.650/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/184949",
+   "versions": [
+    {
+     "from": "2016-12-22",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/184949",
+     "sha256": "3262c9d8e877b574c4ff7770e5c4dc9defd5287c74fa3179fa625a690ee68611"
+    }
+   ]
+  },
+  {
    "slug": "hg-960-2017",
    "path": "hg/2017/960",
    "short": "HG nr. 960/2017",
@@ -261197,6 +261392,21 @@
    ]
   },
   {
+   "slug": "hg-961-2016",
+   "path": "hg/2016/961",
+   "short": "HG nr. 961/2016",
+   "title": "Hotărârea Guvernului nr. 961/2016 pentru modificarea şi completarea Hotărârii Guvernului nr. 537/2014 privind condiţiile, procedura şi termenele de restituire ca ajutor de stat a sumelor reprezentând diferenţa dintre nivelul standard al accizelor şi nivelul accizelor diferenţiat pentru motorina utilizată drept combustibil pentru motor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/184996",
+   "versions": [
+    {
+     "from": "2016-12-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/184996",
+     "sha256": "dca8bc25bdcd215c9966e235d37d425a28dd7a2c4f68dd71945a1970e5a0a043"
+    }
+   ]
+  },
+  {
    "slug": "hg-961-2017",
    "path": "hg/2017/961",
    "short": "HG nr. 961/2017",
@@ -261298,6 +261508,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/122215",
      "sha256": "5193af1d22a112e94e3133cbd16f56a3ed34acd0f6e16c163943c33e71c0bc18"
+    }
+   ]
+  },
+  {
+   "slug": "hg-962-2016",
+   "path": "hg/2016/962",
+   "short": "HG nr. 962/2016",
+   "title": "Hotărârea Guvernului nr. 962/2016 privind trecerea din domeniul privat al statului în domeniul public al acestuia a unui imobil aflat în administrarea Ministerului Comunicaţiilor şi pentru Societatea Informaţională",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/184997",
+   "versions": [
+    {
+     "from": "2016-12-22",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/184997",
+     "sha256": "ae9a479144822a0a111717bc9d86d4b1cee86b9704693d367599dd514332b69f"
     }
    ]
   },
@@ -261437,6 +261662,21 @@
    ]
   },
   {
+   "slug": "hg-963-2016",
+   "path": "hg/2016/963",
+   "short": "HG nr. 963/2016",
+   "title": "Hotărârea Guvernului nr. 963/2016 privind aprobarea unor acte adiţionale la acordurile de concesiune a unor perimetre de dezvoltare-exploatare şi exploatare petrolieră, încheiate între Agenţia Naţională pentru Resurse Minerale şi Societatea Naţională de Gaze Naturale \"Romgaz\" - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/185474",
+   "versions": [
+    {
+     "from": "2017-01-05",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/185474",
+     "sha256": "46dab9c4f4ab1a7e702d4cd8f3377a360442fe4b0f975a6f036b67b0885232c0"
+    }
+   ]
+  },
+  {
    "slug": "hg-963-2017",
    "path": "hg/2017/963",
    "short": "HG nr. 963/2017",
@@ -261553,6 +261793,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97068",
      "sha256": "7d5603808fb8782965dec967082f741e77930e808a7bab2b95d89b8b03d710d4"
+    }
+   ]
+  },
+  {
+   "slug": "hg-964-2016",
+   "path": "hg/2016/964",
+   "short": "HG nr. 964/2016",
+   "title": "Hotărârea Guvernului nr. 964/2016 privind declanşarea procedurilor de expropriere a imobilelor proprietate privată care constituie coridorul de expropriere al lucrării de utilitate publică de interes naţional \"Amenajare intersecţie cu sens giratoriu pe DN CB km 6+000 la Tunari cu DJ 200B\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/184967",
+   "versions": [
+    {
+     "from": "2016-12-22",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/184967",
+     "sha256": "49987908da2ed31bf25f1e1b18f7c046b9dfcec4705dc2207dfa41c58eadbc48"
     }
    ]
   },
@@ -261863,6 +262118,21 @@
    ]
   },
   {
+   "slug": "hg-966-2016",
+   "path": "hg/2016/966",
+   "short": "HG nr. 966/2016",
+   "title": "Hotărârea Guvernului nr. 966/2016 privind transmiterea unui imobil din domeniul public al statului şi din administrarea Serviciului Român de Informaţii în domeniul public al municipiului Ploieşti, judeţul Prahova",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/184968",
+   "versions": [
+    {
+     "from": "2016-12-22",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/184968",
+     "sha256": "1538916846d76312eecac5fa0fa1fe9ae5c2fb1101939a3204504772e5b2395f"
+    }
+   ]
+  },
+  {
    "slug": "hg-966-2018",
    "path": "hg/2018/966",
    "short": "HG nr. 966/2018",
@@ -262015,6 +262285,21 @@
      "units": 14,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/134453",
      "sha256": "f2efde38ccdd92c7389cec2964b3b30890aac3dc756c0aae78999e2ca36e5baf"
+    }
+   ]
+  },
+  {
+   "slug": "hg-967-2016",
+   "path": "hg/2016/967",
+   "short": "HG nr. 967/2016",
+   "title": "Hotărârea Guvernului nr. 967/2016 privind actualizarea valorilor de inventar şi a caracteristicilor tehnice ale unui imobil aflat în domeniul public al statului şi în administrarea Ministerului Tineretului şi Sportului - Direcţia Judeţeană pentru Sport şi Tineret Constanţa şi darea în folosinţă cu titlu gratuit Federaţiei Române de Canotaj",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/184969",
+   "versions": [
+    {
+     "from": "2016-12-22",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/184969",
+     "sha256": "ce5ceb6abdc432108c44e3c262452f6a827a2c88da3c580b037e15d9e1db7883"
     }
    ]
   },
@@ -262484,6 +262769,21 @@
    ]
   },
   {
+   "slug": "hg-970-2016",
+   "path": "hg/2016/970",
+   "short": "HG nr. 970/2016",
+   "title": "Hotărârea Guvernului nr. 970/2016 pentru acordarea unor facilităţi pe termen scurt, cu privire la obţinerea vizelor de scurtă şedere pe teritoriul României, pentru anumite categorii de străini care urmează să desfăşoare activităţi pe instalaţii offshore",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/184970",
+   "versions": [
+    {
+     "from": "2016-12-22",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/184970",
+     "sha256": "656193e6d29c9b588e5aab1f71253c146a5c0ec6d72ff291950886175d72fed1"
+    }
+   ]
+  },
+  {
    "slug": "hg-970-2018",
    "path": "hg/2018/970",
    "short": "HG nr. 970/2018",
@@ -262615,6 +262915,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/141903",
      "sha256": "fd66cf8101387a3d9515f1d2291b59a4a8a381b9f18cc3f51fe170ba1683657e"
+    }
+   ]
+  },
+  {
+   "slug": "hg-971-2016",
+   "path": "hg/2016/971",
+   "short": "HG nr. 971/2016",
+   "title": "Hotărârea Guvernului nr. 971/2016 pentru modificarea şi completarea Hotărârii Guvernului nr. 780/2006 privind stabilirea schemei de comercializare a certificatelor de emisii de gaze cu efect de seră şi pentru modificarea Hotărârii Guvernului nr. 204/2013 pentru modificarea şi completarea Hotărârii Guvernului nr. 780/2006 privind stabilirea schemei de comercializare a certificatelor de emisii de gaze cu efect de seră",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/185161",
+   "versions": [
+    {
+     "from": "2016-12-29",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/185161",
+     "sha256": "c13c9778cc177c3434b7cb4c75026dceec685eebae208ad6cdf1b259361b98fd"
     }
    ]
   },
@@ -262883,6 +263198,21 @@
    ]
   },
   {
+   "slug": "hg-973-2016",
+   "path": "hg/2016/973",
+   "short": "HG nr. 973/2016",
+   "title": "Hotărârea Guvernului nr. 973/2016 privind aprobarea plăţii contribuţiei financiare voluntare a României pentru anul 2016 la bugetul Fundaţiei Europene pentru Democraţie (European Endowment for Democracy)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/185023",
+   "versions": [
+    {
+     "from": "2016-12-22",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/185023",
+     "sha256": "78229741963608bf432871445a926f37548e0509c4c5ce44338809a1ee58c5ff"
+    }
+   ]
+  },
+  {
    "slug": "hg-973-2018",
    "path": "hg/2018/973",
    "short": "HG nr. 973/2018",
@@ -263050,6 +263380,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142014",
      "sha256": "3c86f9d0d72d74d99afaed686c8b6d534c12922e3d7464a21e61ea5603f15d54"
+    }
+   ]
+  },
+  {
+   "slug": "hg-974-2016",
+   "path": "hg/2016/974",
+   "short": "HG nr. 974/2016",
+   "title": "Hotărârea Guvernului nr. 974/2016 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2016, pentru municipiul Galaţi, în vederea asigurării continuităţii serviciului public de alimentare cu energie termică în sistem centralizat a populaţiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/185014",
+   "versions": [
+    {
+     "from": "2016-12-22",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/185014",
+     "sha256": "f60309d64f79c5beb780142791cd141cffd176e156ed97609b40ffe275a0f363"
     }
    ]
   },
@@ -263290,6 +263635,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97018",
      "sha256": "d91da942e58218b9f596b1bded6149a2aed42df9ef56231d7ef4c23c211de17c"
+    }
+   ]
+  },
+  {
+   "slug": "hg-976-2016",
+   "path": "hg/2016/976",
+   "short": "HG nr. 976/2016",
+   "title": "Hotărârea Guvernului nr. 976/2016 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2016, pentru unele unităţi administrativ-teritoriale, în vederea asigurării continuităţii serviciului public de alimentare cu energie termică în sistem centralizat a populaţiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/185015",
+   "versions": [
+    {
+     "from": "2016-12-22",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/185015",
+     "sha256": "a39d060014098f4a6fe5baab12963ddd6a1a805d999a7c62e909b6993d35f793"
     }
    ]
   },
@@ -263549,6 +263909,21 @@
    ]
   },
   {
+   "slug": "hg-978-2016",
+   "path": "hg/2016/978",
+   "short": "HG nr. 978/2016",
+   "title": "Hotărârea Guvernului nr. 978/2016 privind redistribuirea creditelor bugetare alocate la titlul \"Cheltuieli aferente programelor cu finanţare rambursabilă\" în bugetul pe anul 2016 între Ministerul Transporturilor şi Ministerul Educaţiei Naţionale şi Cercetării Ştiinţifice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/185017",
+   "versions": [
+    {
+     "from": "2016-12-22",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/185017",
+     "sha256": "6c6b88fef530627bc6edeb7001f97bb42ff022adeb648c61b3804a0dcb50ae27"
+    }
+   ]
+  },
+  {
    "slug": "hg-978-2018",
    "path": "hg/2018/978",
    "short": "HG nr. 978/2018",
@@ -263665,6 +264040,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97021",
      "sha256": "5c790f247f447327e3a6977bd7ad5fb75c964c2d652dbbcacd21ee4dd90786e5"
+    }
+   ]
+  },
+  {
+   "slug": "hg-979-2016",
+   "path": "hg/2016/979",
+   "short": "HG nr. 979/2016",
+   "title": "Hotărârea Guvernului nr. 979/2016 privind aprobarea bugetului de venituri şi cheltuieli rectificat pe anul 2016 al Companiei Naţionale \"Administraţia Porturilor Maritime\" - S.A. Constanţa, aflată sub autoritatea Ministerului Transporturilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/185020",
+   "versions": [
+    {
+     "from": "2016-12-22",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/185020",
+     "sha256": "6e9aa8c08250cbca514644991cfd1b68acc021bdd5c41155dc1d507847f10e58"
     }
    ]
   },
@@ -263860,6 +264250,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/public/DetaliiDocument/132394",
      "sha256": "05e98ae4c4bb3303a681915c630158cba0351c8257225655d9370696630e100e"
+    }
+   ]
+  },
+  {
+   "slug": "hg-980-2016",
+   "path": "hg/2016/980",
+   "short": "HG nr. 980/2016",
+   "title": "Hotărârea Guvernului nr. 980/2016 privind aprobarea celui de-al treilea Amendament convenit între Guvernul României şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare, prin scrisoarea semnată la Bucureşti la 24 octombrie 2016 şi 27 octombrie 2016, la Acordul de împrumut (Proiectul privind modernizarea sistemului de asistenţă socială) dintre România şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare, semnat la Bucureşti la 8 iulie 2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/185086",
+   "versions": [
+    {
+     "from": "2016-12-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/185086",
+     "sha256": "091e80f7747d0eb778ccb85207a3d560bafbaa4f7fd552a1bb5f2d3240221784"
     }
    ]
   },
@@ -264089,6 +264494,21 @@
    ]
   },
   {
+   "slug": "hg-982-2016",
+   "path": "hg/2016/982",
+   "short": "HG nr. 982/2016",
+   "title": "Hotărârea Guvernului nr. 982/2016 pentru aprobarea amendamentului convenit între Guvernul României şi Banca de Dezvoltare a Consiliului Europei prin schimbul de scrisori semnate la Bucureşti la 5 octombrie 2016 şi la Paris la 14 octombrie 2016, la Acordul-cadru de împrumut dintre România şi Banca de Dezvoltare a Consiliului Europei pentru finanţarea Proiectului privind reabilitarea infrastructurii şcolare din România, semnat la Bucureşti la 11 iulie 2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/185084",
+   "versions": [
+    {
+     "from": "2016-12-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/185084",
+     "sha256": "8364453f35c76aa2c504cfcee84d34500af80b00718f0558fc11ed1fb49b3d92"
+    }
+   ]
+  },
+  {
    "slug": "hg-982-2018",
    "path": "hg/2018/982",
    "short": "HG nr. 982/2018",
@@ -264209,6 +264629,21 @@
    ]
   },
   {
+   "slug": "hg-983-2016",
+   "path": "hg/2016/983",
+   "short": "HG nr. 983/2016",
+   "title": "Hotărârea Guvernului nr. 983/2016 pentru aprobarea Amendamentului nr. 7 convenit între Guvernul României şi Banca Europeană de Investiţii, prin scrisoarea semnată la Luxemburg la 18 octombrie 2016 şi la Bucureşti la 25 octombrie 2016, la Contractul de finanţare dintre România şi Banca Europeană de Investiţii destinat finanţării proiectului privind reabilitarea sectorului sanitar, semnat la Bucureşti la 28 februarie 2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/185088",
+   "versions": [
+    {
+     "from": "2016-12-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/185088",
+     "sha256": "e483613d7c3d8fa8bcd895f2318bfc23bd0256cdd46d960687a83951799fb53f"
+    }
+   ]
+  },
+  {
    "slug": "hg-983-2018",
    "path": "hg/2018/983",
    "short": "HG nr. 983/2018",
@@ -264284,6 +264719,21 @@
    ]
   },
   {
+   "slug": "hg-984-2016",
+   "path": "hg/2016/984",
+   "short": "HG nr. 984/2016",
+   "title": "Hotărârea Guvernului nr. 984/2016 privind încetarea exercitării, cu caracter temporar, prin detaşare în condiţiile legii, a funcţiei publice de prefect al judeţului Mehedinţi de către domnul Pavel Cristinel",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/185018",
+   "versions": [
+    {
+     "from": "2016-12-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/185018",
+     "sha256": "306188767a9c0bbbe94814654d01c9b65298119aaf79f25204109a81571094b0"
+    }
+   ]
+  },
+  {
    "slug": "hg-984-2019",
    "path": "hg/2019/984",
    "short": "HG nr. 984/2019",
@@ -264355,6 +264805,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142015",
      "sha256": "2dea25bac0128f700e71dfac13f27cfae5f49df46b8a863d7cba169d6f5cbe00"
+    }
+   ]
+  },
+  {
+   "slug": "hg-985-2016",
+   "path": "hg/2016/985",
+   "short": "HG nr. 985/2016",
+   "title": "Hotărârea Guvernului nr. 985/2016 privind rechemarea şi numirea unui consul general",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/185038",
+   "versions": [
+    {
+     "from": "2016-12-23",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/185038",
+     "sha256": "dd4a457358e4025b8cefa05e5e69be625c1d5966f0ab886b912cd4a235333275"
     }
    ]
   },
@@ -264584,6 +265049,21 @@
    ]
   },
   {
+   "slug": "hg-987-2016",
+   "path": "hg/2016/987",
+   "short": "HG nr. 987/2016",
+   "title": "Hotărârea Guvernului nr. 987/2016 privind rechemarea şi numirea unui consul general",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/185040",
+   "versions": [
+    {
+     "from": "2016-12-23",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/185040",
+     "sha256": "48d84a9e0119b55eddacc62f2056bf49ff9ac6c8e9635acdaee85e04f107ead4"
+    }
+   ]
+  },
+  {
    "slug": "hg-987-2019",
    "path": "hg/2019/987",
    "short": "HG nr. 987/2019",
@@ -264710,6 +265190,21 @@
    ]
   },
   {
+   "slug": "hg-988-2016",
+   "path": "hg/2016/988",
+   "short": "HG nr. 988/2016",
+   "title": "Hotărârea Guvernului nr. 988/2016 privind numirea unui consul general",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/185041",
+   "versions": [
+    {
+     "from": "2016-12-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/185041",
+     "sha256": "52176e4eec2be7a4c59c54f01716245cbb5da2958e88e585cc04b6aeee9fea4a"
+    }
+   ]
+  },
+  {
    "slug": "hg-988-2019",
    "path": "hg/2019/988",
    "short": "HG nr. 988/2019",
@@ -264751,6 +265246,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/287400",
      "sha256": "59aa2f6ffb5add5b17026b6b93ef0dd971a64b1c8703a28ed978af55667482ec"
+    }
+   ]
+  },
+  {
+   "slug": "hg-989-2016",
+   "path": "hg/2016/989",
+   "short": "HG nr. 989/2016",
+   "title": "Hotărârea Guvernului nr. 989/2016 privind rechemarea şi numirea unui consul general",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/185042",
+   "versions": [
+    {
+     "from": "2016-12-23",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/185042",
+     "sha256": "7f114f8f42e7a29a93b7e90283b6a2dac91945119923237c433c011540487c56"
     }
    ]
   },
@@ -264980,6 +265490,21 @@
    ]
   },
   {
+   "slug": "hg-990-2016",
+   "path": "hg/2016/990",
+   "short": "HG nr. 990/2016",
+   "title": "Hotărârea Guvernului nr. 990/2016 privind numirea unui consul general",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/185043",
+   "versions": [
+    {
+     "from": "2016-12-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/185043",
+     "sha256": "446c120bcb3ba3648fc88373aa6b7f3a02f73ff200287330732db9c118fd3798"
+    }
+   ]
+  },
+  {
    "slug": "hg-990-2018",
    "path": "hg/2018/990",
    "short": "HG nr. 990/2018",
@@ -265066,6 +265591,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84947",
      "sha256": "c870c3c625e8abf6ed569fc5ef86d4604e60de19f8374bf496ab1e18ad897fcd"
+    }
+   ]
+  },
+  {
+   "slug": "hg-991-2016",
+   "path": "hg/2016/991",
+   "short": "HG nr. 991/2016",
+   "title": "Hotărârea Guvernului nr. 991/2016 privind rechemarea şi numirea unui consul general",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/185044",
+   "versions": [
+    {
+     "from": "2016-12-23",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/185044",
+     "sha256": "33a095b015c04a244e5ff907ab0b2e9800271a6cb58c42fcdb1457c815537bca"
     }
    ]
   },
@@ -265310,6 +265850,21 @@
    ]
   },
   {
+   "slug": "hg-993-2016",
+   "path": "hg/2016/993",
+   "short": "HG nr. 993/2016",
+   "title": "Hotărârea Guvernului nr. 993/2016 privind rechemarea şi numirea unui consul general",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/185046",
+   "versions": [
+    {
+     "from": "2016-12-23",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/185046",
+     "sha256": "aa6e1f5a2b88d47fcea84e55b18491efbad30ba03fd8150ab1011435eecab67b"
+    }
+   ]
+  },
+  {
    "slug": "hg-993-2018",
    "path": "hg/2018/993",
    "short": "HG nr. 993/2018",
@@ -265436,6 +265991,21 @@
    ]
   },
   {
+   "slug": "hg-994-2016",
+   "path": "hg/2016/994",
+   "short": "HG nr. 994/2016",
+   "title": "Hotărârea Guvernului nr. 994/2016 privind rechemarea şi numirea unui consul general",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/185047",
+   "versions": [
+    {
+     "from": "2016-12-23",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/185047",
+     "sha256": "fc0ef5c4587417ca4520e81da9d8a2695c61258e27161e7d884bdb93aead514e"
+    }
+   ]
+  },
+  {
    "slug": "hg-994-2019",
    "path": "hg/2019/994",
    "short": "HG nr. 994/2019",
@@ -265522,6 +266092,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97137",
      "sha256": "7b58581f9376636d5f0e9f0459e4919fc06a6b2be0e3ea6e8d53455ab283dc24"
+    }
+   ]
+  },
+  {
+   "slug": "hg-995-2016",
+   "path": "hg/2016/995",
+   "short": "HG nr. 995/2016",
+   "title": "Hotărârea Guvernului nr. 995/2016 privind rechemarea şi numirea unui consul general",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/185048",
+   "versions": [
+    {
+     "from": "2016-12-23",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/185048",
+     "sha256": "fc7719c1a1d8423f2dc4ac205e32fc20fc32b43f18e4602b6f8e49706f4e7319"
     }
    ]
   },
@@ -265885,6 +266470,21 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97172",
      "sha256": "6c488e46c26c1609584b42d26805877835c308bda2a2b7eec8501c0b1b3d868d"
+    }
+   ]
+  },
+  {
+   "slug": "hg-998-2016",
+   "path": "hg/2016/998",
+   "short": "HG nr. 998/2016",
+   "title": "Hotărârea Guvernului nr. 998/2016 privind înscrierea unor bunuri imobile în inventarul centralizat al bunurilor din domeniul public al statului şi darea în administrarea Administraţiei Naţionale \"Apele Române\", instituţie publică aflată în coordonarea Ministerului Mediului, Apelor şi Pădurilor, pentru Administraţia Bazinală de Apă Siret",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/185149",
+   "versions": [
+    {
+     "from": "2016-12-28",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/185149",
+     "sha256": "bc5a1367109507e09dd1e42df15fec4c8506fe3b16244293bade0cba0f64a8cf"
     }
    ]
   },
