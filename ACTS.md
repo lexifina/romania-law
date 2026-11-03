@@ -1,6 +1,6 @@
 # Every act in this repository
 
-5328 acts, 14,329 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+5333 acts, 14,355 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -32,7 +32,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (1520, of which 608 amending acts)
+## Laws (legi) (1521, of which 608 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -232,6 +232,7 @@
 | Legea nr. 27/2002 | [`lege/2002/27/`](lege/2002/27/) | in force | 1 | 2002-01-30 | 2002-01-30 |
 | Legea nr. 52/2002 | [`lege/2002/52/`](lege/2002/52/) | in force | 1 | 2002-01-24 | 2002-01-24 |
 | Legea nr. 55/2002 pentru aprobarea Ordonanței Guvernului nr. 79/2000 privind regimul navigației pe Canalul Dunăre-Marea Neagra și Canalul Poarta Alba-Midia-Navodari | [`lege/2002/55/`](lege/2002/55/) | amending act | 1 | 2002-01-24 | 2002-01-24 |
+| Legea nr. 72/2002 | [`lege/2002/72/`](lege/2002/72/) | in force | 9 | 2002-01-31 | 2014-04-02 |
 | Legea nr. 76/2002 privind sistemul asigurărilor pentru șomaj și stimularea ocupării forței de muncă | [`lege/2002/76/`](lege/2002/76/) | in force | 35 | 2002-03-01 | 2025-04-11 |
 | Legea nr. 92/2002 | [`lege/2002/92/`](lege/2002/92/) | in force | 2 | 2002-03-05 | 2015-11-30 |
 | Legea nr. 111/2002 | [`lege/2002/111/`](lege/2002/111/) | in force | 1 | 2002-03-28 | 2002-03-28 |
@@ -1557,7 +1558,7 @@
 | Legea nr. 241/2025 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 31/2002 privind interzicerea organizațiilor, simbolurilor și faptelor cu caracter fascist, legionar, rasist sau xenofob și a promovării cultului persoanelor vinovate de săvârșirea unor infracțiuni de genocid contra umanității și de crime de război, precum și pentru modificarea Legii nr. 157/2018 privind unele măsuri pentru prevenirea și combaterea antisemitismului | [`lege/2025/241/`](lege/2025/241/) | amending act | 1 | 2025-12-27 | 2025-12-27 |
 | Legea nr. 245/2025 pentru modificarea art. 32 alin. (7) din Legea nr. 273/2006 privind finanțele publice locale | [`lege/2025/245/`](lege/2025/245/) | amending act | 1 | 2026-01-01 | 2026-01-01 |
 
-## Emergency ordinances (OUG) (1191, of which 479 amending acts)
+## Emergency ordinances (OUG) (1195, of which 480 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -1591,8 +1592,10 @@
 | Ordonanța de urgență a Guvernului nr. 158/1999 | [`oug/1999/158/`](oug/1999/158/) | in force | 13 | 1999-11-10 | 2021-08-02 |
 | Ordonanța de urgență a Guvernului nr. 182/1999 | [`oug/1999/182/`](oug/1999/182/) | in force | 2 | 1999-11-15 | 2002-04-30 |
 | Ordonanța de urgență a Guvernului nr. 192/1999 | [`oug/1999/192/`](oug/1999/192/) | in force | 1 | 1999-12-08 | 1999-12-08 |
+| Ordonanța de urgență a Guvernului nr. 214/1999 | [`oug/1999/214/`](oug/1999/214/) | in force | 7 | 1999-12-30 | 2006-05-25 |
 | Ordonanța de urgență a Guvernului nr. 4/2000 | [`oug/2000/4/`](oug/2000/4/) | in force | 2 | 2000-02-16 | 2017-10-14 |
 | Ordonanța de urgență a Guvernului nr. 7/2000 privind aprobarea achiziției unui spațiu de către Regia Autonomă "Monitorul Oficial" | [`oug/2000/7/`](oug/2000/7/) | amending act | 2 | 2000-02-21 | 2000-11-08 |
+| Ordonanța de urgență a Guvernului nr. 14/2000 | [`oug/2000/14/`](oug/2000/14/) | in force | 4 | 2000-03-16 | 2001-09-01 |
 | Ordonanța de urgență a Guvernului nr. 22/2000 pentru modificarea și completarea Legii locuinței nr. 114/1996 | [`oug/2000/22/`](oug/2000/22/) | amending act | 2 | 2000-03-28 | 2001-06-06 |
 | Ordonanța de urgență a Guvernului nr. 34/2000 | [`oug/2000/34/`](oug/2000/34/) | in force | 13 | 2000-04-21 | 2022-05-28 |
 | Ordonanța de urgență a Guvernului nr. 55/2000 privind regularizarea datoriilor fostei Companii Române de Petrol | [`oug/2000/55/`](oug/2000/55/) | in force | 2 | 2000-05-23 | 2001-07-24 |
@@ -1644,6 +1647,7 @@
 | Ordonanța de urgență a Guvernului nr. 124/2002 | [`oug/2002/124/`](oug/2002/124/) | in force | 2 | 2002-10-10 | 2003-01-20 |
 | Ordonanța de urgență a Guvernului nr. 146/2002 | [`oug/2002/146/`](oug/2002/146/) | in force | 24 | 2002-11-14 | 2024-06-16 |
 | Ordonanța de urgență a Guvernului nr. 153/2002 | [`oug/2002/153/`](oug/2002/153/) | in force | 3 | 2002-11-15 | 2017-07-01 |
+| Ordonanța de urgență a Guvernului nr. 179/2002 | [`oug/2002/179/`](oug/2002/179/) | in force | 4 | 2003-01-01 | 2019-10-31 |
 | Ordonanța de urgență a Guvernului nr. 192/2002 | [`oug/2002/192/`](oug/2002/192/) | in force | 2 | 2003-01-01 | 2003-05-28 |
 | Ordonanța de urgență a Guvernului nr. 193/2002 | [`oug/2002/193/`](oug/2002/193/) | in force | 11 | 2002-12-23 | 2024-06-16 |
 | Ordonanța de urgență a Guvernului nr. 194/2002 privind regimul străinilor în România | [`oug/2002/194/`](oug/2002/194/) | in force | 37 | 2003-01-26 | 2025-07-10 |
@@ -1960,6 +1964,7 @@
 | Ordonanța de urgență a Guvernului nr. 47/2011 | [`oug/2011/47/`](oug/2011/47/) | in force | 1 | 2011-05-25 | 2011-05-25 |
 | Ordonanța de urgență a Guvernului nr. 52/2011 pentru modificarea Ordonanței de urgență a Guvernului nr. 30/2006 privind funcția de verificare a aspectelor procedurale aferente procesului de atribuire a contractelor de achiziție publică, a contractelor de concesiune de lucrări publice și a contractelor de concesiune de servicii | [`oug/2011/52/`](oug/2011/52/) | amending act | 3 | 2011-06-10 | 2012-03-26 |
 | Ordonanța de urgență a Guvernului nr. 54/2011 | [`oug/2011/54/`](oug/2011/54/) | in force | 2 | 2011-06-21 | 2011-12-10 |
+| Ordonanța de urgență a Guvernului nr. 58/2011 pentru modificarea art. 5^2 din Ordonanța Guvernului nr. 70/2002 privind administrarea unităților sanitare publice de interes județean și local | [`oug/2011/58/`](oug/2011/58/) | amending act | 2 | 2011-06-22 | 2012-03-24 |
 | Ordonanța de urgență a Guvernului nr. 59/2011 | [`oug/2011/59/`](oug/2011/59/) | in force | 1 | 2011-06-30 | 2011-06-30 |
 | Ordonanța de urgență a Guvernului nr. 60/2011 | [`oug/2011/60/`](oug/2011/60/) | in force | 2 | 2011-06-30 | 2012-11-21 |
 | Ordonanța de urgență a Guvernului nr. 61/2011 | [`oug/2011/61/`](oug/2011/61/) | in force | 2 | 2011-06-30 | 2013-12-13 |
