@@ -1,6 +1,6 @@
 # Every act in this repository
 
-6034 acts, 17,238 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+6036 acts, 17,264 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -32,7 +32,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (1780, of which 644 amending acts)
+## Laws (legi) (1781, of which 644 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -236,6 +236,7 @@
 | Legea nr. 17/2000 privind asistența socială a persoanelor vârstnice | [`lege/2000/17/`](lege/2000/17/) | in force | 13 | 2000-06-07 | 2025-12-09 |
 | Legea nr. 24/2000 privind normele de tehnică legislativă pentru elaborarea actelor normative | [`lege/2000/24/`](lege/2000/24/) | in force | 11 | 2000-03-31 | 2022-12-15 |
 | Legea nr. 29/2000 privind sistemul național de decorații al României | [`lege/2000/29/`](lege/2000/29/) | in force | 13 | 2000-04-07 | 2024-06-28 |
+| Legea nr. 32/2000 privind societățile de asigurare și supravegherea asigurărilor | [`lege/2000/32/`](lege/2000/32/) | in force | 17 | 2000-04-10 | 2017-07-12 |
 | Legea nr. 44/2000 | [`lege/2000/44/`](lege/2000/44/) | in force | 1 | 2000-04-18 | 2000-04-18 |
 | Legea nr. 69/2000 | [`lege/2000/69/`](lege/2000/69/) | in force | 57 | 2000-08-07 | 2026-01-15 |
 | Legea nr. 73/2000 | [`lege/2000/73/`](lege/2000/73/) | in force | 5 | 2000-05-11 | 2005-05-27 |
@@ -1817,7 +1818,7 @@
 | Legea nr. 241/2025 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 31/2002 privind interzicerea organizațiilor, simbolurilor și faptelor cu caracter fascist, legionar, rasist sau xenofob și a promovării cultului persoanelor vinovate de săvârșirea unor infracțiuni de genocid contra umanității și de crime de război, precum și pentru modificarea Legii nr. 157/2018 privind unele măsuri pentru prevenirea și combaterea antisemitismului | [`lege/2025/241/`](lege/2025/241/) | amending act | 1 | 2025-12-27 | 2025-12-27 |
 | Legea nr. 245/2025 pentru modificarea art. 32 alin. (7) din Legea nr. 273/2006 privind finanțele publice locale | [`lege/2025/245/`](lege/2025/245/) | amending act | 1 | 2026-01-01 | 2026-01-01 |
 
-## Emergency ordinances (OUG) (1465, of which 521 amending acts)
+## Emergency ordinances (OUG) (1466, of which 521 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -2385,6 +2386,7 @@
 | Ordonanța de urgență a Guvernului nr. 62/2011 | [`oug/2011/62/`](oug/2011/62/) | in force | 4 | 2011-06-30 | 2018-03-30 |
 | Ordonanța de urgență a Guvernului nr. 64/2011 | [`oug/2011/64/`](oug/2011/64/) | in force | 4 | 2011-06-30 | 2024-12-05 |
 | Ordonanța de urgență a Guvernului nr. 66/2011 privind prevenirea, constatarea și sancționarea neregulilor apărute în obținerea și utilizarea fondurilor europene și/sau a fondurilor publice naționale aferente acestora | [`oug/2011/66/`](oug/2011/66/) | in force | 19 | 2011-06-30 | 2025-12-24 |
+| Ordonanța de urgență a Guvernului nr. 70/2011 | [`oug/2011/70/`](oug/2011/70/) | repealed 2021-11-01 | 9 | 2011-09-02 | 2021-11-01 |
 | Ordonanța de urgență a Guvernului nr. 72/2011 | [`oug/2011/72/`](oug/2011/72/) | in force | 2 | 2011-09-12 | 2013-06-07 |
 | Ordonanța de urgență a Guvernului nr. 73/2011 | [`oug/2011/73/`](oug/2011/73/) | in force | 2 | 2011-09-09 | 2013-06-16 |
 | Ordonanța de urgență a Guvernului nr. 77/2011 | [`oug/2011/77/`](oug/2011/77/) | in force | 25 | 2011-10-01 | 2025-10-27 |

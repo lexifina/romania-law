@@ -3419,6 +3419,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/21756"
 },
 {
+"slug": "legea-32-2000",
+"path": "lege/2000/32",
+"kind": "lege",
+"year": "2000",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 32/2000 privind societățile de asigurare și supravegherea asigurărilor",
+"short": "Legea nr. 32/2000",
+"code": null,
+"status": "in force",
+"versions": 17,
+"from": "2000-04-10",
+"latest": "2017-07-12",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/21754"
+},
+{
 "slug": "legea-44-2000",
 "path": "lege/2000/44",
 "kind": "lege",
@@ -39865,6 +39882,23 @@
 "from": "2011-06-30",
 "latest": "2025-12-24",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/129701"
+},
+{
+"slug": "oug-70-2011",
+"path": "oug/2011/70",
+"kind": "oug",
+"year": "2011",
+"number": "70",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 70/2011",
+"short": "OUG nr. 70/2011",
+"code": null,
+"status": "repealed 2021-11-01",
+"versions": 9,
+"from": "2011-09-02",
+"latest": "2021-11-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/131200"
 },
 {
 "slug": "oug-72-2011",
