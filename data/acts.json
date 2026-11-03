@@ -8434,6 +8434,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/68166"
 },
 {
+"slug": "legea-308-2004",
+"path": "lege/2004/308",
+"kind": "lege",
+"year": "2004",
+"number": "308",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 308/2004",
+"short": "Legea nr. 308/2004",
+"code": null,
+"status": "repealed 2006-05-01",
+"versions": 7,
+"from": "2004-07-30",
+"latest": "2006-05-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/68198"
+},
+{
 "slug": "legea-310-2004",
 "path": "lege/2004/310",
 "kind": "lege",
@@ -43607,6 +43624,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/99687"
 },
 {
+"slug": "oug-189-2008",
+"path": "oug/2008/189",
+"kind": "oug",
+"year": "2008",
+"number": "189",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 189/2008",
+"short": "OUG nr. 189/2008",
+"code": null,
+"status": "in force",
+"versions": 6,
+"from": "2008-12-05",
+"latest": "2015-01-02",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/99863"
+},
+{
 "slug": "oug-193-2008",
 "path": "oug/2008/193",
 "kind": "oug",
@@ -65195,6 +65229,23 @@
 "from": "2003-02-01",
 "latest": "2003-06-10",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/205688"
+},
+{
+"slug": "og-38-2003",
+"path": "og/2003/38",
+"kind": "og",
+"year": "2003",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța Guvernului nr. 38/2003",
+"short": "OG nr. 38/2003",
+"code": null,
+"status": "in force",
+"versions": 9,
+"from": "2004-01-01",
+"latest": "2012-01-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/141048"
 },
 {
 "slug": "og-39-2003",

@@ -1,6 +1,6 @@
 # Every act in this repository
 
-9251 acts, 22,515 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+9254 acts, 22,537 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -32,7 +32,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (2112, of which 865 amending acts)
+## Laws (legi) (2113, of which 865 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -531,6 +531,7 @@
 | Legea nr. 304/2004 privind organizarea judiciară | [`lege/2004/304/`](lege/2004/304/) | in force | 45 | 2004-09-27 | 2022-12-16 |
 | Legea nr. 306/2004 | [`lege/2004/306/`](lege/2004/306/) | repealed 2006-05-01 | 7 | 2004-07-30 | 2006-05-01 |
 | Legea nr. 307/2004 | [`lege/2004/307/`](lege/2004/307/) | in force | 6 | 2004-07-30 | 2005-03-31 |
+| Legea nr. 308/2004 | [`lege/2004/308/`](lege/2004/308/) | repealed 2006-05-01 | 7 | 2004-07-30 | 2006-05-01 |
 | Legea nr. 310/2004 | [`lege/2004/310/`](lege/2004/310/) | in force | 1 | 2004-08-29 | 2004-08-29 |
 | Legea nr. 311/2004 | [`lege/2004/311/`](lege/2004/311/) | in force | 1 | 2004-07-03 | 2004-07-03 |
 | Legea nr. 312/2004 | [`lege/2004/312/`](lege/2004/312/) | in force | 3 | 2004-07-30 | 2005-01-01 |
@@ -2149,7 +2150,7 @@
 | Legea nr. 190/2026 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 81/2021 privind aprobarea metodelor de intervenţie imediată pentru prevenirea şi combaterea atacurilor exemplarelor de urs brun asupra persoanelor şi bunurilor acestora, precum şi pentru modificarea şi completarea unor acte normative | [`lege/2026/190/`](lege/2026/190/) | amending act | 1 | 2026-10-08 | 2026-10-08 |
 | Legea nr. 205/2026 pentru completarea Ordonanţei Guvernului nr. 22/2002 privind executarea obligaţiilor de plată ale instituţiilor publice, stabilite prin titluri executorii | [`lege/2026/205/`](lege/2026/205/) | amending act | 1 | 2026-11-02 | 2026-11-02 |
 
-## Emergency ordinances (OUG) (1543, of which 535 amending acts)
+## Emergency ordinances (OUG) (1544, of which 535 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -2605,6 +2606,7 @@
 | Ordonanța de urgență a Guvernului nr. 176/2008 | [`oug/2008/176/`](oug/2008/176/) | in force | 2 | 2008-12-02 | 2009-07-01 |
 | Ordonanța de urgență a Guvernului nr. 181/2008 | [`oug/2008/181/`](oug/2008/181/) | in force | 2 | 2008-12-03 | 2009-11-22 |
 | Ordonanța de urgență a Guvernului nr. 184/2008 | [`oug/2008/184/`](oug/2008/184/) | in force | 1 | 2008-12-02 | 2008-12-02 |
+| Ordonanța de urgență a Guvernului nr. 189/2008 | [`oug/2008/189/`](oug/2008/189/) | in force | 6 | 2008-12-05 | 2015-01-02 |
 | Ordonanța de urgență a Guvernului nr. 193/2008 | [`oug/2008/193/`](oug/2008/193/) | in force | 2 | 2008-12-08 | 2009-06-04 |
 | Ordonanța de urgență a Guvernului nr. 195/2008 | [`oug/2008/195/`](oug/2008/195/) | in force | 2 | 2008-12-08 | 2009-05-03 |
 | Ordonanța de urgență a Guvernului nr. 196/2008 privind înființarea activității de derulare și gestionare a proiectelor de înfrățire instituțională finanțate de Uniunea Europeană, pentru care România are calitate de donator de asistență tehnică | [`oug/2008/196/`](oug/2008/196/) | in force | 5 | 2008-12-08 | 2014-07-31 |
@@ -3697,7 +3699,7 @@
 | Ordonanța de urgență a Guvernului nr. 30/2026 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 23/2004 privind stabilirea unor măsuri de reorganizare a Autorităţii pentru Valorificarea Activelor Bancare prin comasarea prin absorbţie cu Autoritatea pentru Privatizare şi Administrarea Participaţiilor Statului | [`oug/2026/30/`](oug/2026/30/) | amending act | 1 | 2026-04-21 | 2026-04-21 |
 | Ordonanța de urgență a Guvernului nr. 33/2026 pentru modificarea şi completarea Legii educaţiei fizice şi sportului nr. 69/2000 | [`oug/2026/33/`](oug/2026/33/) | amending act | 1 | 2026-04-27 | 2026-04-27 |
 
-## Ordinances (OG) (485, of which 92 amending acts)
+## Ordinances (OG) (486, of which 92 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -3880,6 +3882,7 @@
 | Ordonanța Guvernului nr. 28/2003 | [`og/2003/28/`](og/2003/28/) | in force | 3 | 2003-02-01 | 2019-08-12 |
 | Ordonanța Guvernului nr. 33/2003 | [`og/2003/33/`](og/2003/33/) | in force | 3 | 2003-04-02 | 2011-06-12 |
 | Ordonanța Guvernului nr. 34/2003 | [`og/2003/34/`](og/2003/34/) | in force | 2 | 2003-02-01 | 2003-06-10 |
+| Ordonanța Guvernului nr. 38/2003 | [`og/2003/38/`](og/2003/38/) | in force | 9 | 2004-01-01 | 2012-01-01 |
 | Ordonanța Guvernului nr. 39/2003 | [`og/2003/39/`](og/2003/39/) | repealed 2004-01-01 | 3 | 2003-07-01 | 2004-01-01 |
 | Ordonanța Guvernului nr. 41/2003 | [`og/2003/41/`](og/2003/41/) | in force | 4 | 2003-02-02 | 2009-07-02 |
 | Ordonanța Guvernului nr. 42/2003 | [`og/2003/42/`](og/2003/42/) | in force | 4 | 2003-03-04 | 2004-12-18 |

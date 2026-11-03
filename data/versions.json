@@ -45725,6 +45725,57 @@
    ]
   },
   {
+   "slug": "legea-308-2004",
+   "path": "lege/2004/308",
+   "short": "Legea nr. 308/2004",
+   "title": "Legea nr. 308/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/68198",
+   "versions": [
+    {
+     "from": "2004-07-30",
+     "units": 78,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/53129",
+     "sha256": "64c59e32dad847ea8dc361529035c47390a53ec39a0485939160c175e063786e"
+    },
+    {
+     "from": "2004-08-02",
+     "units": 78,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/68194",
+     "sha256": "3001aa69bf83a3e7adf6e45bb67fe8cc9c3f6b4e5eda274a5b456e8598dfa232"
+    },
+    {
+     "from": "2004-09-01",
+     "units": 78,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/68195",
+     "sha256": "c23c08ffce4f10a4bd1f4f3022e3ae41a7af06bec40b172d9586c37c5e55fc00"
+    },
+    {
+     "from": "2004-12-22",
+     "units": 78,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/68196",
+     "sha256": "15b3051d8da2ba3f1251da593beb3c38f2f9cb624554fee54dae6a53ced9645b"
+    },
+    {
+     "from": "2005-03-31",
+     "units": 78,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/68197",
+     "sha256": "e6a6b62370c3c578c1e7e58aa954fcade482a95a6f765e039d6a0899e4e4ef9e"
+    },
+    {
+     "from": "2005-12-14",
+     "units": 78,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/68198",
+     "sha256": "9e2d649efe09cbfa8d82e704b25c68331fcbafa8c13739c5f40f139f3f78656f"
+    },
+    {
+     "from": "2006-05-01",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/71139",
+     "sha256": "0f17815c7c3f657433a3431f17730f0b23a3071f1f89bdccdca8eaa001fa2deb"
+    }
+   ]
+  },
+  {
    "slug": "legea-309-2002",
    "path": "lege/2002/309",
    "short": "Legea nr. 309/2002",
@@ -65702,6 +65753,69 @@
    ]
   },
   {
+   "slug": "og-38-2003",
+   "path": "og/2003/38",
+   "short": "OG nr. 38/2003",
+   "title": "Ordonanța Guvernului nr. 38/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/141048",
+   "versions": [
+    {
+     "from": "2004-01-01",
+     "units": 60,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/41551",
+     "sha256": "bd16a8bef506f93097145d42370138742954afd4c51ea632542982ed206c769b"
+    },
+    {
+     "from": "2004-01-01",
+     "units": 60,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/45501",
+     "sha256": "0222b93b54b7a685a56888c6cb45eab0ceb9083d461dda51e44d2830a09e301e"
+    },
+    {
+     "from": "2004-02-02",
+     "units": 61,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49605",
+     "sha256": "7219d38a31abecfe135f0f03752abac6aa45d4115bde812d0905a7d29bc3f73e"
+    },
+    {
+     "from": "2004-12-02",
+     "units": 61,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/62825",
+     "sha256": "4162d463a76b1e132649513fff17b7b7662e4893e92ad535166aabc641939f0e"
+    },
+    {
+     "from": "2005-09-06",
+     "units": 61,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/64832",
+     "sha256": "1eb5b243b705ec1a99f64dde39b6a3929386448acf1422996bf330af4c367ded"
+    },
+    {
+     "from": "2007-01-01",
+     "units": 61,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85747",
+     "sha256": "75ae14eff5b900c30d2bb1e32e4c203d34c4f354a3713ab9d719d283963481b9"
+    },
+    {
+     "from": "2009-11-12",
+     "units": 60,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/115682",
+     "sha256": "0525ee822cbf21b0ff5b9130d1aa363c7e44d43b3b894353e1f17635407f65d7"
+    },
+    {
+     "from": "2010-01-01",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/115683",
+     "sha256": "b49c11280e929c779fdaacaf7e12a41858e6dce87f7d21f370f7b8b23c3120fe"
+    },
+    {
+     "from": "2012-01-01",
+     "units": 61,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/141049",
+     "sha256": "e5e9ba52fee64438f9157bfe0a981153d7f1556c02a80972049889a59c1aea0d"
+    }
+   ]
+  },
+  {
    "slug": "og-39-1996",
    "path": "og/1996/39",
    "short": "OG nr. 39/1996",
@@ -78355,6 +78469,51 @@
      "units": 59,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/173874",
      "sha256": "078d92ad5f30caed6d79ebb33f257b660c95e24a4bc248ff91354f442242dcd4"
+    }
+   ]
+  },
+  {
+   "slug": "oug-189-2008",
+   "path": "oug/2008/189",
+   "short": "OUG nr. 189/2008",
+   "title": "Ordonanța de urgență a Guvernului nr. 189/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/99863",
+   "versions": [
+    {
+     "from": "2008-12-05",
+     "units": 57,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/99863",
+     "sha256": "f35a533f774eded6140a39e5a440119adaebdb2677b79699a89c81d6a41b729d"
+    },
+    {
+     "from": "2009-07-17",
+     "units": 54,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/109672",
+     "sha256": "5ac4a9ec04c12204970b5a386babc454b3726ae9a7314b2e05815f0e5d2de1a1"
+    },
+    {
+     "from": "2010-01-01",
+     "units": 54,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/115802",
+     "sha256": "5dea8b9909b0c79abd96cea1e894b6ffa6e790b81f3db161e1b84b066e087358"
+    },
+    {
+     "from": "2011-01-01",
+     "units": 54,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/130665",
+     "sha256": "42e1fdd1c096820820990f25fddc94b880223a3a18f1e0fc6a0b28842767f90a"
+    },
+    {
+     "from": "2013-06-29",
+     "units": 54,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/149632",
+     "sha256": "156e43081809a4c80ade4a5cfa4d32c5c59d2d6794b4d4ec249a4d1afdb098d1"
+    },
+    {
+     "from": "2015-01-02",
+     "units": 60,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/99863",
+     "sha256": "789fdba40b1c949ecf508b9d11f0e3b4209941eb3b2dbe6923986972e229924d"
     }
    ]
   },
