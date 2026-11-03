@@ -1,6 +1,6 @@
 # Every act in this repository
 
-15270 acts, 28,890 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+15271 acts, 28,891 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (2679, of which 1323 amending acts)
+## Laws (legi) (2680, of which 1324 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -1387,6 +1387,7 @@
 | Legea nr. 295/2018 privind aprobarea Ordonanței de urgență a Guvernului nr. 57/2018 pentru asigurarea continuității și decontării asistenței medicale primare prin centrele de permanență | [`lege/2018/295/`](lege/2018/295/) | amending act | 1 | 2018-12-08 | 2018-12-08 |
 | Legea nr. 297/2018 privind Registrul Național de Publicitate Mobiliară și pentru abrogarea Ordonanței Guvernului nr. 89/2000 privind unele măsuri pentru autorizarea operatorilor și efectuarea înscrierilor în Arhiva Electronică de Garanții Reale Mobiliare | [`lege/2018/297/`](lege/2018/297/) | amending act | 5 | 2018-12-10 | 2022-04-02 |
 | Legea nr. 298/2018 privind unele măsuri în domeniul protecției apelor | [`lege/2018/298/`](lege/2018/298/) | in force | 1 | 2018-12-13 | 2018-12-13 |
+| Legea nr. 301/2018 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 62/2018 privind unele măsuri de asigurare a personalului necesar pregătirii şi exercitării de către România a Preşedinţiei Consiliului Uniunii Europene în primul semestru al anului 2019 | [`lege/2018/301/`](lege/2018/301/) | amending act | 1 | 2018-12-14 | 2018-12-14 |
 | Legea nr. 302/2018 privind măsurile de control al tuberculozei | [`lege/2018/302/`](lege/2018/302/) | in force | 1 | 2018-12-15 | 2018-12-15 |
 | Legea nr. 305/2018 pentru modificarea și completarea Legii nr. 273/2006 privind finanțele publice locale, precum și pentru modificarea alin. (5) al art. 15 din Legea administrației publice locale nr. 215/2001 | [`lege/2018/305/`](lege/2018/305/) | amending act | 1 | 2018-12-15 | 2018-12-15 |
 | Legea nr. 308/2018 pentru acceptarea Acordului de înfiinţare a Băncii Asiatice de Investiţii în Infrastructură, încheiat la Beijing la 29 iunie 2015, şi a Rezoluţiei nr. 40 privind admiterea României ca membru al Băncii Asiatice de Investiţii în Infrastructură, adoptată de Consiliul guvernatorilor Băncii Asiatice de Investiţii în Infrastructură la 12 mai 2017 | [`lege/2018/308/`](lege/2018/308/) | in force | 1 | 2018-12-17 | 2018-12-17 |
