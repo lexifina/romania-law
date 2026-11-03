@@ -84695,6 +84695,39 @@
    ]
   },
   {
+   "slug": "oug-39-2010",
+   "path": "oug/2010/39",
+   "short": "OUG nr. 39/2010",
+   "title": "Ordonanța de urgență a Guvernului nr. 39/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/201259",
+   "versions": [
+    {
+     "from": "2010-04-28",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/118272",
+     "sha256": "62fbce8e00a6a998a4fbd4a23f7238b9c46bbb0d8447f0eb0558352a13f84e1a"
+    },
+    {
+     "from": "2010-05-08",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/118272",
+     "sha256": "62fbce8e00a6a998a4fbd4a23f7238b9c46bbb0d8447f0eb0558352a13f84e1a"
+    },
+    {
+     "from": "2010-07-01",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/118272",
+     "sha256": "62fbce8e00a6a998a4fbd4a23f7238b9c46bbb0d8447f0eb0558352a13f84e1a"
+    },
+    {
+     "from": "2011-04-10",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/201259",
+     "sha256": "8bb6d2f81f8626338a0b3d0d54d829e249533d878b02ead38b81d66f9c18d35f"
+    }
+   ]
+  },
+  {
    "slug": "oug-39-2016",
    "path": "oug/2016/39",
    "short": "OUG nr. 39/2016",
@@ -142115,6 +142148,21 @@
    ]
   },
   {
+   "slug": "hg-542-2022",
+   "path": "hg/2022/542",
+   "short": "HG nr. 542/2022",
+   "title": "Hotărârea Guvernului nr. 542/2022 privind înscrierea unui imobil în inventarul centralizat al bunurilor din domeniul public al statului şi darea acestuia în administrarea Ministerului Afacerilor Interne - Spitalul Clinic „Avram Iancu“ Oradea, precum şi actualizarea anexei nr. 1 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/254930",
+   "versions": [
+    {
+     "from": "2022-05-06",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/254930",
+     "sha256": "7b169cfacafddf8e015b5edddf351ed17c5c1ee330f7850da40ee2729e42231d"
+    }
+   ]
+  },
+  {
    "slug": "hg-542-2024",
    "path": "hg/2024/542",
    "short": "HG nr. 542/2024",
@@ -142141,6 +142189,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/298904",
      "sha256": "c15c313b1edad219db8fd43391a096853edff35d25360538d0875eba8f1422d6"
+    }
+   ]
+  },
+  {
+   "slug": "hg-543-2022",
+   "path": "hg/2022/543",
+   "short": "HG nr. 543/2022",
+   "title": "Hotărârea Guvernului nr. 543/2022 privind scăderea din inventarul centralizat al bunurilor din domeniul public al statului a unui imobil aflat în domeniul public al statului şi în administrarea Ministerului Afacerilor Interne - Inspectoratul de Jandarmi Judeţean Covasna (UM 0866 Sfântu Gheorghe), ca urmare a restituirii acestuia către persoanele îndreptăţite",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/254931",
+   "versions": [
+    {
+     "from": "2022-05-06",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/254931",
+     "sha256": "775b323fdaf17e6ae38dd25f6316ae6e2fe52f13bb0a6c6274fa17ad8b40a0bf"
     }
    ]
   },
@@ -142201,6 +142264,21 @@
      "units": 25,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/138533",
      "sha256": "01dd3da10ad14022b1aa9f51c48970b812edd37f4bcf82e594a2d77fcac94225"
+    }
+   ]
+  },
+  {
+   "slug": "hg-544-2022",
+   "path": "hg/2022/544",
+   "short": "HG nr. 544/2022",
+   "title": "Hotărârea Guvernului nr. 544/2022 privind înscrierea unor bunuri imobile în inventarul centralizat al bunurilor din domeniul public al statului şi darea acestora în administrarea Administraţiei Naţionale \"Apele Române\", prin Administraţia Bazinală de Apă Dobrogea - Litoral, instituţie publică în coordonarea Ministerului Mediului, Apelor şi Pădurilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/254921",
+   "versions": [
+    {
+     "from": "2022-05-06",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/254921",
+     "sha256": "775cf06649832d374a53c246fd488419166a925a2c019a6ff826e367f05f76c0"
     }
    ]
   },
@@ -142295,6 +142373,21 @@
    ]
   },
   {
+   "slug": "hg-545-2022",
+   "path": "hg/2022/545",
+   "short": "HG nr. 545/2022",
+   "title": "Hotărârea Guvernului nr. 545/2022 privind actualizarea valorii de inventar, modificarea şi completarea descrierii tehnice şi a adresei unor bunuri imobile cuprinse în anexa nr. 12 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului, aflate în administrarea Administraţiei Naţionale \"Apele Române\", prin Administraţia Bazinală de Apă Dobrogea - Litoral, instituţie publică aflată în coordonarea Ministerului Mediului, Apelor şi Pădurilor, ca urmare a reevaluării şi a înscrierii în cartea funciară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/254922",
+   "versions": [
+    {
+     "from": "2022-05-06",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/254922",
+     "sha256": "5c67955445af582eeea6b02a65287bf95ebebc9ead9f2a1baf0841da420971a7"
+    }
+   ]
+  },
+  {
    "slug": "hg-545-2023",
    "path": "hg/2023/545",
    "short": "HG nr. 545/2023",
@@ -142381,6 +142474,21 @@
      "units": 8,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/227976",
      "sha256": "b4d027c711d16503749c237bd31b8272a2c7d0a3fd46ea9aed964bd6e1928c36"
+    }
+   ]
+  },
+  {
+   "slug": "hg-546-2022",
+   "path": "hg/2022/546",
+   "short": "HG nr. 546/2022",
+   "title": "Hotărârea Guvernului nr. 546/2022 privind înscrierea unor bunuri imobile în inventarul centralizat al bunurilor din domeniul public al statului şi darea în administrarea Administraţiei Naţionale \"Apele Române\", prin Administraţia Bazinală de Apă Buzău - Ialomiţa, instituţie publică aflată în coordonarea Ministerului Mediului, Apelor şi Pădurilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/254923",
+   "versions": [
+    {
+     "from": "2022-05-06",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/254923",
+     "sha256": "ae7a22efaa2099ebf73edab0919f5aef4ef88408c834e18a14b36230b562eeec"
     }
    ]
   },
@@ -143047,6 +143155,21 @@
      "units": 25,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/264933",
      "sha256": "b180151bc5e613e8a49bfa1fb8ec1db758bc34cbf2b91c9edaa2c3dcd69d5049"
+    }
+   ]
+  },
+  {
+   "slug": "hg-557-2022",
+   "path": "hg/2022/557",
+   "short": "HG nr. 557/2022",
+   "title": "Hotărârea Guvernului nr. 557/2022 privind transmiterea unui imobil din domeniul public al statului şi din administrarea Serviciului Român de Informaţii în domeniul public al oraşului Techirghiol, judeţul Constanţa, precum şi cu privire la modificarea anexei nr. 43 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/254694",
+   "versions": [
+    {
+     "from": "2022-05-05",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/254694",
+     "sha256": "8f77f443b21ab8e9044ad9e9b3178c207bc9f37b64d1961cba2f5c9c6ec3ecfe"
     }
    ]
   },
@@ -144158,6 +144281,21 @@
    ]
   },
   {
+   "slug": "hg-571-2022",
+   "path": "hg/2022/571",
+   "short": "HG nr. 571/2022",
+   "title": "Hotărârea Guvernului nr. 571/2022 pentru aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Lucrări de intervenţie la Pavilionul «C» din Cazarma 734 Bucureşti, sectorul 1, Calea Plevnei nr. 134, municipiul Bucureşti\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/254932",
+   "versions": [
+    {
+     "from": "2022-05-06",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/254932",
+     "sha256": "78b268cf469a2f853544ba4a76fb568a8b639750b6888fe68d07bb7539a16b58"
+    }
+   ]
+  },
+  {
    "slug": "hg-572-2013",
    "path": "hg/2013/572",
    "short": "HG nr. 572/2013",
@@ -144953,6 +145091,21 @@
    ]
   },
   {
+   "slug": "hg-583-2022",
+   "path": "hg/2022/583",
+   "short": "HG nr. 583/2022",
+   "title": "Hotărârea Guvernului nr. 583/2022 privind transmiterea unei părţi din imobilul 706, aflată în administrarea Ministerului Apărării Naţionale, din domeniul privat al statului în domeniul public al acestuia şi înscrierea părţii de imobil în inventarul centralizat al bunurilor din domeniul public al statului, modificarea valorii de inventar a imobilului 706, aflat în domeniul public al statului şi în administrarea Ministerului Apărării Naţionale, şi a anexei nr. 4 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/254910",
+   "versions": [
+    {
+     "from": "2022-05-05",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/254910",
+     "sha256": "d9750c932ef88bdc1aa3cdaa715683340f8c2786fe7df523daa79743af7c4edc"
+    }
+   ]
+  },
+  {
    "slug": "hg-583-2023",
    "path": "hg/2023/583",
    "short": "HG nr. 583/2023",
@@ -145085,6 +145238,21 @@
    ]
   },
   {
+   "slug": "hg-585-2022",
+   "path": "hg/2022/585",
+   "short": "HG nr. 585/2022",
+   "title": "Hotărârea Guvernului nr. 585/2022 privind aprobarea unor modificări în inventarul centralizat al bunurilor din domeniul public al statului aflate în administrarea Ministerului Apărării Naţionale, trecerea unor părţi de imobile aflate în administrarea Ministerului Apărării Naţionale, constituite din construcţii şi amenajări la terenuri, situate în municipiul Bucureşti şi judeţele Hunedoara, Sibiu, Mureş, Bistriţa-Năsăud, Constanţa, Buzău, Galaţi, Iaşi şi Braşov, din domeniul public în domeniul privat al statului, în vederea scoaterii din funcţiune şi casării acestora, şi modificarea anexei nr. 4 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/254933",
+   "versions": [
+    {
+     "from": "2022-05-06",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/254933",
+     "sha256": "a824b5808e24c2b0a4105ff186159af6da39ba1a6cd5cad0d286823f5470df5e"
+    }
+   ]
+  },
+  {
    "slug": "hg-585-2023",
    "path": "hg/2023/585",
    "short": "HG nr. 585/2023",
@@ -145145,6 +145313,21 @@
    ]
   },
   {
+   "slug": "hg-586-2022",
+   "path": "hg/2022/586",
+   "short": "HG nr. 586/2022",
+   "title": "Hotărârea Guvernului nr. 586/2022 privind aprobarea unor modificări în inventarul centralizat al bunurilor din domeniul public al statului aflate în administrarea Ministerului Apărării Naţionale, situate în judeţele Dolj, Tulcea, Braşov, Alba, Călăraşi, Constanţa, Cluj, Gorj şi municipiul Bucureşti, şi modificarea anexei nr. 4 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/254927",
+   "versions": [
+    {
+     "from": "2022-05-06",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/254927",
+     "sha256": "acbb7a64babed8902685ea11ada85ad9c2df115e5d7c76db512205c1acf984a1"
+    }
+   ]
+  },
+  {
    "slug": "hg-586-2024",
    "path": "hg/2024/586",
    "short": "HG nr. 586/2024",
@@ -145201,6 +145384,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/228520",
      "sha256": "9ee8b4924e65d2c6d43321d142ee2fcc644d6e8738826e3e0923b0b0fc880d7e"
+    }
+   ]
+  },
+  {
+   "slug": "hg-587-2022",
+   "path": "hg/2022/587",
+   "short": "HG nr. 587/2022",
+   "title": "Hotărârea Guvernului nr. 587/2022 privind modificarea valorilor de inventar ale unor imobile aflate în domeniul public al statului şi în administrarea Penitenciarului Mioveni din subordinea Administraţiei Naţionale a Penitenciarelor, precum şi trecerea acestora din domeniul public în domeniul privat al statului, în vederea scoaterii din funcţiune şi demolării",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/254924",
+   "versions": [
+    {
+     "from": "2022-05-06",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/254924",
+     "sha256": "5745641a2975265660b03bc0064a46b80b3e45279639a5064fde4a0fa85cefdc"
     }
    ]
   },
@@ -145310,6 +145508,21 @@
    ]
   },
   {
+   "slug": "hg-589-2022",
+   "path": "hg/2022/589",
+   "short": "HG nr. 589/2022",
+   "title": "Hotărârea Guvernului nr. 589/2022 privind actualizarea valorilor de inventar şi modificarea codului de clasificaţie ale unor bunuri imobile şi mobile aflate în domeniul public al statului şi în administrarea Administraţiei Naţionale \"Apele Române\" prin Administraţia Bazinală de Apă Someş-Tisa, instituţie publică aflată în coordonarea Ministerului Mediului, Apelor şi Pădurilor, prevăzute în anexa nr. 12 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului, ca urmare a reevaluării şi actualizării legislaţiei în domeniu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/255067",
+   "versions": [
+    {
+     "from": "2022-05-12",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/255067",
+     "sha256": "74d93887af6994cac90e5fd86da57ef42b0479985d37a67b01dfe43562d1b734"
+    }
+   ]
+  },
+  {
    "slug": "hg-59-2003",
    "path": "hg/2003/59",
    "short": "HG nr. 59/2003",
@@ -145361,6 +145574,21 @@
    ]
   },
   {
+   "slug": "hg-590-2022",
+   "path": "hg/2022/590",
+   "short": "HG nr. 590/2022",
+   "title": "Hotărârea Guvernului nr. 590/2022 privind completarea descrierii tehnice a unui bun imobil, actualizarea valorii de inventar a acestuia ca urmare a reevaluării, trecerea unor mijloace fixe aflate în administrarea Administraţiei Naţionale \"Apele Române\" prin Administraţia Bazinală de Apă Buzău-Ialomiţa, instituţie publică aflată în coordonarea Ministerului Mediului, Apelor şi Pădurilor, din domeniul public al statului în domeniul privat al acestuia, în vederea scoaterii din funcţiune, valorificării şi casării, după caz, şi pentru actualizarea anexei nr. 12 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/255068",
+   "versions": [
+    {
+     "from": "2022-05-12",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/255068",
+     "sha256": "832a543b21eeb4faccbd133a620d97545fa16243eb7da017b4068373b0a7e9b0"
+    }
+   ]
+  },
+  {
    "slug": "hg-590-2024",
    "path": "hg/2024/590",
    "short": "HG nr. 590/2024",
@@ -145372,6 +145600,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/283436",
      "sha256": "fa13b2c00644846e9fe1a90f5a8bed74e9083551da60e48a9b9e601e4e89c9b3"
+    }
+   ]
+  },
+  {
+   "slug": "hg-591-2022",
+   "path": "hg/2022/591",
+   "short": "HG nr. 591/2022",
+   "title": "Hotărârea Guvernului nr. 591/2022 privind actualizarea valorii de inventar şi modificarea datelor tehnice pentru un imobil administrat de Ministerul Sportului, prin Clubul Sportiv Municipal Craiova, cuprins în anexa nr. 30 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/255069",
+   "versions": [
+    {
+     "from": "2022-05-12",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/255069",
+     "sha256": "905a01ad6e4641f8542753c137781c0be28c738de8ab7392e31a8b251c043d15"
     }
    ]
   },
@@ -145438,6 +145681,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/243338",
      "sha256": "7663c60abd3cef9757aba29eaf5a247b5dd39c73dc61a0a1534c271c12d58ab5"
+    }
+   ]
+  },
+  {
+   "slug": "hg-592-2022",
+   "path": "hg/2022/592",
+   "short": "HG nr. 592/2022",
+   "title": "Hotărârea Guvernului nr. 592/2022 privind actualizarea valorilor de inventar, adresei, denumirii, codului de clasificaţie şi modificarea datelor tehnice ale unor imobile cuprinse în anexa nr. 30 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului, administrate de Ministerul Sportului, prin Complexul Sportiv Naţional Izvoru Mureşului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/254925",
+   "versions": [
+    {
+     "from": "2022-05-06",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/254925",
+     "sha256": "5beeb22538c9fae3807db071e21cac0a793356708d2e6d1dc4dbb9ec5969f5da"
     }
    ]
   },
@@ -146015,6 +146273,21 @@
    ]
   },
   {
+   "slug": "hg-600-2022",
+   "path": "hg/2022/600",
+   "short": "HG nr. 600/2022",
+   "title": "Hotărârea Guvernului nr. 600/2022 privind stabilirea unor măsuri pentru punerea în aplicare a prevederilor art. 26 alin. (2) din Regulamentul (UE) 2018/1.999 al Parlamentului European şi al Consiliului din 11 decembrie 2018 privind guvernanţa uniunii energetice şi a acţiunilor climatice, de modificare a Regulamentelor (CE) nr. 663/2009 şi (CE) nr. 715/2009 ale Parlamentului European şi ale Consiliului, a Directivelor 94/22/CE, 98/70/CE, 2009/31/CE, 2009/73/CE, 2010/31/UE, 2012/27/UE şi 2013/30/UE ale Parlamentului European şi ale Consiliului, a Directivelor 2009/119/CE şi (UE) 2015/652 ale Consiliului şi de abrogare a Regulamentului (UE) nr. 525/2013 al Parlamentului European şi al Consiliului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/254980",
+   "versions": [
+    {
+     "from": "2022-05-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/254980",
+     "sha256": "48f8d8595e1fecb98f42d4336552d23a3fce1f023327e209b35144ce0f74dae6"
+    }
+   ]
+  },
+  {
    "slug": "hg-600-2024",
    "path": "hg/2024/600",
    "short": "HG nr. 600/2024",
@@ -146375,6 +146648,21 @@
    ]
   },
   {
+   "slug": "hg-609-2022",
+   "path": "hg/2022/609",
+   "short": "HG nr. 609/2022",
+   "title": "Hotărârea Guvernului nr. 609/2022 privind aprobarea normativelor de cheltuieli şi a devizului estimativ aferente organizării şi desfăşurării în România a Conferinţei internaţionale cu tema \"Războaiele de independenţă, diplomaţie şi societate. Noi perspective şi abordări ale Problemei Orientale 1875-1878\", în perioada 8-11 mai 2022, Bucureşti",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/254911",
+   "versions": [
+    {
+     "from": "2022-05-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/254911",
+     "sha256": "1c3a152b97c91f3990bcd0dc6aea0b6cc71de3ec579669f7cd72ca7a8a6c41ea"
+    }
+   ]
+  },
+  {
    "slug": "hg-609-2024",
    "path": "hg/2024/609",
    "short": "HG nr. 609/2024",
@@ -146450,6 +146738,21 @@
    ]
   },
   {
+   "slug": "hg-610-2022",
+   "path": "hg/2022/610",
+   "short": "HG nr. 610/2022",
+   "title": "Hotărârea Guvernului nr. 610/2022 privind recunoaşterea Asociaţiei Tehnopol Galaţi ca fiind de utilitate publică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/254912",
+   "versions": [
+    {
+     "from": "2022-05-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/254912",
+     "sha256": "7ec7d40b160ea86b9ecaf745eb56a0522aabf19a0586e6eab6707c0b22d25f66"
+    }
+   ]
+  },
+  {
    "slug": "hg-610-2023",
    "path": "hg/2023/610",
    "short": "HG nr. 610/2023",
@@ -146521,6 +146824,21 @@
      "units": 2,
      "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/203735",
      "sha256": "0b82758e24ab8eb6e888e69413cd3074a0312f0dc734254bcf1d74be4c6f8937"
+    }
+   ]
+  },
+  {
+   "slug": "hg-611-2022",
+   "path": "hg/2022/611",
+   "short": "HG nr. 611/2022",
+   "title": "Hotărârea Guvernului nr. 611/2022 privind înscrierea unui imobil în inventarul centralizat al bunurilor din domeniul public al statului şi modificarea anexei nr. 29 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/254972",
+   "versions": [
+    {
+     "from": "2022-05-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/254972",
+     "sha256": "f993d5bc9d167e76cbce781b7f62a1124af2067369c27ec93b42db1b1d1f4282"
     }
    ]
   },
@@ -146656,6 +146974,21 @@
      "units": 1,
      "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/243050",
      "sha256": "45d8dadb5ac3e46cf297456bcbbea571611dcde10b8ef3c61bd1dd49bfeb7a08"
+    }
+   ]
+  },
+  {
+   "slug": "hg-614-2022",
+   "path": "hg/2022/614",
+   "short": "HG nr. 614/2022",
+   "title": "Hotărârea Guvernului nr. 614/2022 privind actualizarea datelor de identificare şi a valorii de inventar a unor bunuri din domeniul public al statului, aflate în administrarea unor instituţii din subordinea/coordonarea Ministerului Educaţiei, cuprinse în anexa nr. 8 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului, ca urmare a efectuării lucrărilor de cadastru şi publicitate imobiliară şi a reevaluării",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/254981",
+   "versions": [
+    {
+     "from": "2022-05-09",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/254981",
+     "sha256": "caea598700ca3ebabf87676d1a56b8438a9baa8320b8878651f2c8867226a1d3"
     }
    ]
   },
@@ -146981,6 +147314,21 @@
    ]
   },
   {
+   "slug": "hg-620-2022",
+   "path": "hg/2022/620",
+   "short": "HG nr. 620/2022",
+   "title": "Hotărârea Guvernului nr. 620/2022 privind actualizarea datelor de identificare şi a valorii de inventar ale unui imobil din domeniul public al statului, precum şi pentru schimbarea titularului dreptului de administrare al acestuia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/255092",
+   "versions": [
+    {
+     "from": "2022-05-12",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/255092",
+     "sha256": "ec4c06d343ff65fb5d11cad3b8da559e727b967f94013c3d0dbfe724444f5882"
+    }
+   ]
+  },
+  {
    "slug": "hg-620-2024",
    "path": "hg/2024/620",
    "short": "HG nr. 620/2024",
@@ -147007,6 +147355,21 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/301155",
      "sha256": "337561e5954cc54f317a49e25196496997d9bd147083d138527e0c5914ad802b"
+    }
+   ]
+  },
+  {
+   "slug": "hg-621-2022",
+   "path": "hg/2022/621",
+   "short": "HG nr. 621/2022",
+   "title": "Hotărârea Guvernului nr. 621/2022 pentru aprobarea plafoanelor financiare alocate măsurilor de sprijin cuplat în sectorul vegetal pentru anul de cerere 2021",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/255093",
+   "versions": [
+    {
+     "from": "2022-05-12",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/255093",
+     "sha256": "1c30ccc8932e6521b2b3932cf2f6ed5317559ccc2f142d24dc9ebe02e3cd5a95"
     }
    ]
   },
@@ -147101,6 +147464,21 @@
    ]
   },
   {
+   "slug": "hg-623-2022",
+   "path": "hg/2022/623",
+   "short": "HG nr. 623/2022",
+   "title": "Hotărârea Guvernului nr. 623/2022 privind trecerea unei părţi din imobilul 370 din domeniul public al statului şi din administrarea Ministerului Apărării Naţionale în domeniul public al judeţului Sălaj şi modificarea anexei nr. 4 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/255095",
+   "versions": [
+    {
+     "from": "2022-05-12",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/255095",
+     "sha256": "eadcee6aec90f4430ada651b76b96407d949c1d0125784428d8d1fc5f8700b95"
+    }
+   ]
+  },
+  {
    "slug": "hg-623-2023",
    "path": "hg/2023/623",
    "short": "HG nr. 623/2023",
@@ -147142,6 +147520,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/170421",
      "sha256": "7909faba146c5b34daef925e8f1840f41cc23a82a3982c3200b4d8e8bce4d6ba"
+    }
+   ]
+  },
+  {
+   "slug": "hg-624-2022",
+   "path": "hg/2022/624",
+   "short": "HG nr. 624/2022",
+   "title": "Hotărârea Guvernului nr. 624/2022 privind aprobarea plăţii contribuţiei statutare anuale a României, pentru anul 2021, la bugetul Conferinţei miniştrilor educaţiei din statele care au în comun folosirea limbii franceze - CONFEMEN",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/255407",
+   "versions": [
+    {
+     "from": "2022-05-13",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/255407",
+     "sha256": "82009f858bb3feb856aef70a7c0ec6190b5a01a0866447ef7bddae7cea4170d9"
     }
    ]
   },
@@ -147202,6 +147595,21 @@
      "units": 2,
      "source_url": "http://legislatie.just.ro/Public/DetaliiDocumentAfis/181551",
      "sha256": "19414491e9781e7285a3eaf9403f776fa30fcd67808faad85fa31ce633195ea3"
+    }
+   ]
+  },
+  {
+   "slug": "hg-625-2022",
+   "path": "hg/2022/625",
+   "short": "HG nr. 625/2022",
+   "title": "Hotărârea Guvernului nr. 625/2022 privind aprobarea scoaterii din rezervele de stat a unor cantităţi de produse şi acordarea acestora ca ajutoare umanitare interne de urgenţă, cu titlu gratuit, Instituţiei Prefectului din municipiul Bucureşti şi din judeţele Galaţi, Iaşi, Neamţ, Suceava şi Vaslui, pentru protecţia populaţiei refugiate în contextul escaladării conflictului din Ucraina",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/255415",
+   "versions": [
+    {
+     "from": "2022-05-13",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/255415",
+     "sha256": "39a79d910bfb2753c187d1e6bed0bce8e72311a121d1cc028d2a074c611b67ad"
     }
    ]
   },
@@ -147317,6 +147725,21 @@
    ]
   },
   {
+   "slug": "hg-627-2022",
+   "path": "hg/2022/627",
+   "short": "HG nr. 627/2022",
+   "title": "Hotărârea Guvernului nr. 627/2022 privind acordarea unor ajutoare de urgenţă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/255416",
+   "versions": [
+    {
+     "from": "2022-05-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/255416",
+     "sha256": "eec9996b96dcefc55bd2e3bab200c0490be3c18db2d0a436cadec64707f180de"
+    }
+   ]
+  },
+  {
    "slug": "hg-627-2024",
    "path": "hg/2024/627",
    "short": "HG nr. 627/2024",
@@ -147343,6 +147766,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/301140",
      "sha256": "a60cfd5e6c16e49fcdb60088c1e3e7c8c8e6d60c71b2840249dcb56433892846"
+    }
+   ]
+  },
+  {
+   "slug": "hg-628-2022",
+   "path": "hg/2022/628",
+   "short": "HG nr. 628/2022",
+   "title": "Hotărârea Guvernului nr. 628/2022 privind aprobarea bugetului de venituri şi cheltuieli pe anul 2022 pentru Societatea \"Avioane Craiova\" - S.A., aflată sub autoritatea Ministerului Economiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/255417",
+   "versions": [
+    {
+     "from": "2022-05-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/255417",
+     "sha256": "141803869f238c1528ee0b18e88b0d704f2b40e1b7d824b7e9198d19efd4e7ec"
     }
    ]
   },
@@ -147493,6 +147931,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/217514",
      "sha256": "b291d4927af57f77860444ccb2919f7e4e3ea22096b6f162f2f5424ac65e983c"
+    }
+   ]
+  },
+  {
+   "slug": "hg-630-2022",
+   "path": "hg/2022/630",
+   "short": "HG nr. 630/2022",
+   "title": "Hotărârea Guvernului nr. 630/2022 pentru abrogarea Hotărârii Guvernului nr. 12/1992 privind reglementarea eliberării bonurilor de valoare pentru benzină şi motorină",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/255438",
+   "versions": [
+    {
+     "from": "2022-05-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/255438",
+     "sha256": "8de71dcf07c9537a56264fabdbce35582790aadbf9e53a791eca57614ce39de8"
     }
    ]
   },
@@ -175279,6 +175732,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/public/DetaliiDocument/228019",
      "sha256": "30d5f8c10ddf78167f4dc2b718df423c944676cc7960309b8a18cdb4f96f0322"
+    }
+   ]
+  },
+  {
+   "slug": "legea-137-2022",
+   "path": "lege/2022/137",
+   "short": "Legea nr. 137/2022",
+   "title": "Legea nr. 137/2022 privind completarea art. 4 din Legea nr. 1/2000 pentru reconstituirea dreptului de proprietate asupra terenurilor agricole şi celor forestiere, solicitate potrivit prevederilor Legii fondului funciar nr. 18/1991 şi ale Legii nr. 169/1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/255444",
+   "versions": [
+    {
+     "from": "2022-05-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/255444",
+     "sha256": "f0b12921647f638a60da5b751b9770b7c77c25bbbaad4cfee7ce56d78ec86f33"
     }
    ]
   },
@@ -220741,6 +221209,21 @@
      "units": 11,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/227336",
      "sha256": "11f0fa908d0c0b684f13c06426cc78969266251c0c0625df9bf9c5da1d3a3788"
+    }
+   ]
+  },
+  {
+   "slug": "oug-65-2022",
+   "path": "oug/2022/65",
+   "short": "OUG nr. 65/2022",
+   "title": "Ordonanța de urgență a Guvernului nr. 65/2022 privind reglementarea unor măsuri pentru stingerea unor obligaţii fiscale şi bugetare ale Societăţii Naţionale de Transport Feroviar de Marfă \"C.F.R. Marfă\" - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/255090",
+   "versions": [
+    {
+     "from": "2022-05-12",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/255090",
+     "sha256": "f5eabb9c9f3fecb34e85c102e651d197f9b85017870cbaae7c722b7bb7e60c8b"
     }
    ]
   },
