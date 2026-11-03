@@ -1,0 +1,18 @@
+# Hotărârea Guvernului nr. 445/2020 pentru aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii "Consolidarea, reabilitarea şi modernizarea clădirii Mihai Eminescu din cadrul Academiei de Studii Economice Bucureşti, bd. Dacia nr. 41, sectorul 1, Bucureşti"
+
+HG nr. 445/2020 · 1 versions, from 2020-06-10 (latest in force: 2020-06-10) · <https://legislatie.just.ro/Public/DetaliiDocument/226657>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Art. 1 | [art-001.md](art-001.md) | 0 |  |
+| Art. 2 | [art-002.md](art-002.md) | 0 |  |
+| Art. 3 | [art-003.md](art-003.md) | 0 |  |
+
+Act id: `hg-445-2020` (tags `hg-445-2020/<day>`; `python tools/on.py <day> hg-445-2020`).
+
+## Decisions made by hand
+
+- HG nr. 445/2020: added from the official web service of the Portalul legislativ (FreeWebService): its only version is the act as published (document 226657, retrieved 2026-11-03). No consolidated form exists: a full-text search of the official web service on 2026-11-03 finds no act changing it (nr. 445/2020 and nr. 445 din 4 iunie 2020).
+- HG nr. 445/2020: added by Lexifina's automatic pass with the default rules, and no rule or ruling made for this act alone was applied. It was published only because every automatic check that applies to an act known from the official web service alone passed: two parses identical, issuer, number and in-force day confirmed by the service, and no act changing it found by the full-text search.
+- HG nr. 445/2020: the first version is the Government decision as published in Monitorul Oficial nr. 490 of 10 June 2020 (document 226657 of the official web service), dated 10 June 2020: a Government decision with no day of its own, in force on publication (Legea nr. 24/2000 art. 12 alin. (3)). No consolidated form of it exists, so the text as published is its only version; no page of the act is held.
+- HG nr. 445/2020: no page of the act is captured, so its text is the one the Portalul legislativ returns through its official web service (FreeWebService, http://legislatie.just.ro/apiws/FreeWebService.svc), document 226657, retrieved 2026-11-03, the act as published. No consolidated form exists: a full-text search of the official web service on 2026-11-03 finds no act changing it (nr. 445/2020 and nr. 445 din 4 iunie 2020), so the act as published is its only version.
