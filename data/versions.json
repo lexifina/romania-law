@@ -324365,6 +324365,21 @@
    ]
   },
   {
+   "slug": "legea-143-2013",
+   "path": "lege/2013/143",
+   "short": "Legea nr. 143/2013",
+   "title": "Legea nr. 143/2013 privind aprobarea Ordonanţei Guvernului nr. 14/2012 pentru rectificarea bugetului asigurărilor sociale de stat pe anul 2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/147600",
+   "versions": [
+    {
+     "from": "2013-05-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/147600",
+     "sha256": "02a8b13dc15a604662c33a886e38c8c6c17d791a47d85e0a86a29e73a3581f7b"
+    }
+   ]
+  },
+  {
    "slug": "legea-143-2014",
    "path": "lege/2014/143",
    "short": "Legea nr. 143/2014",

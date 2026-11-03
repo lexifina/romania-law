@@ -1,6 +1,6 @@
 # Every act in this repository
 
-20614 acts, 34,247 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+20615 acts, 34,248 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (3278, of which 1806 amending acts)
+## Laws (legi) (3279, of which 1807 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -1136,6 +1136,7 @@
 | Legea nr. 134/2013 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 73/2012 pentru modificarea pct. II al anexei nr. 1 la Ordonanţa de urgenţă a Guvernului nr. 50/2010 privind contractele de credit pentru consumatori | [`lege/2013/134/`](lege/2013/134/) | amending act | 1 | 2013-05-03 | 2013-05-03 |
 | Legea nr. 135/2013 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 95/2012 pentru prorogarea termenelor prevăzute la alin. (2) şi (4) ale art. 6 din Ordonanţa de urgenţă a Guvernului nr. 114/2005 privind unele măsuri pentru derularea şi finalizarea privatizării societăţilor comerciale filiale de distribuţie şi furnizare a energiei electrice "Electrica Moldova" - S.A. şi "Electrica Oltenia" - S.A | [`lege/2013/135/`](lege/2013/135/) | amending act | 1 | 2013-05-03 | 2013-05-03 |
 | Legea nr. 137/2013 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 23/2012 pentru modificarea şi completarea Legii nr. 303/2004 privind statutul judecătorilor şi procurorilor, precum şi pentru prorogarea termenului prevăzut la art. III din titlul XVI al Legii nr. 247/2005 privind reforma în domeniul proprietăţii şi justiţiei, precum şi unele măsuri adiacente | [`lege/2013/137/`](lege/2013/137/) | amending act | 1 | 2013-05-11 | 2013-05-11 |
+| Legea nr. 143/2013 privind aprobarea Ordonanţei Guvernului nr. 14/2012 pentru rectificarea bugetului asigurărilor sociale de stat pe anul 2012 | [`lege/2013/143/`](lege/2013/143/) | amending act | 1 | 2013-05-11 | 2013-05-11 |
 | Legea nr. 145/2013 pentru respingerea Ordonanţei de urgenţă a Guvernului nr. 77/2010 privind unele măsuri în domeniul tineretului şi sportului | [`lege/2013/145/`](lege/2013/145/) | amending act | 1 | 2013-05-11 | 2013-05-11 |
 | Legea nr. 146/2013 pentru modificarea şi completarea Legii nr. 153/2011 privind măsuri de creştere a calităţii arhitectural-ambientale a clădirilor | [`lege/2013/146/`](lege/2013/146/) | amending act | 1 | 2013-05-11 | 2013-05-11 |
 | Legea nr. 147/2013 pentru aprobarea Ordonanţei Guvernului nr. 13/2012 cu privire la rectificarea bugetului de stat pe anul 2012 | [`lege/2013/147/`](lege/2013/147/) | amending act | 1 | 2013-05-11 | 2013-05-11 |
