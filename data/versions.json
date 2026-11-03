@@ -60311,6 +60311,63 @@
    ]
   },
   {
+   "slug": "og-10-2004",
+   "path": "og/2004/10",
+   "short": "OG nr. 10/2004",
+   "title": "Ordonanța Guvernului nr. 10/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/140720",
+   "versions": [
+    {
+     "from": "2004-02-29",
+     "units": 54,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/49469",
+     "sha256": "50e22467e7e901a9dee81dd89364eeb0ceb7fbab44bbe2bd5b36e6f93ebe939e"
+    },
+    {
+     "from": "2004-07-03",
+     "units": 52,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53530",
+     "sha256": "dcbafdf8a5275b99dd2f370ed66886a168467b6109f3a8b3fc14f99132514d81"
+    },
+    {
+     "from": "2007-01-01",
+     "units": 63,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53530",
+     "sha256": "dcbafdf8a5275b99dd2f370ed66886a168467b6109f3a8b3fc14f99132514d81"
+    },
+    {
+     "from": "2010-04-28",
+     "units": 62,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/118379",
+     "sha256": "012d47b0fd576faa995422bf7db1585df93b7240fec0abeb283d8b58f46ccf48"
+    },
+    {
+     "from": "2011-09-01",
+     "units": 62,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/140718",
+     "sha256": "14e453bdd9f161e22ad14cf0470af9f62598b4c31761c7493399dccee7bf7ef7"
+    },
+    {
+     "from": "2011-11-21",
+     "units": 62,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/140719",
+     "sha256": "1b6910a7c1f88cae4872123dec45db8233f79e18046ce0441702e94b0e7f69a0"
+    },
+    {
+     "from": "2013-02-15",
+     "units": 62,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/140721",
+     "sha256": "8afca81a0fa79ffae67083e4ba52528823b13930d649f0b5d16ad012d943d316"
+    },
+    {
+     "from": "2014-06-28",
+     "units": 0,
+     "source_url": "https://web.archive.org/web/20260206074019id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/159286",
+     "sha256": "8794871d81f6dfc5b04e34d1cfb2951fad9c89dd7a24b1d06deb1fedf3e81592"
+    }
+   ]
+  },
+  {
    "slug": "og-10-2015",
    "path": "og/2015/10",
    "short": "OG nr. 10/2015",
@@ -75097,6 +75154,51 @@
      "units": 13,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/255294",
      "sha256": "ac77788921d4b94f0a62b9c34ea39e382fb0e1f196e006913ac01266f4b9a930"
+    }
+   ]
+  },
+  {
+   "slug": "oug-133-2006",
+   "path": "oug/2006/133",
+   "short": "OUG nr. 133/2006",
+   "title": "Ordonanța de urgență a Guvernului nr. 133/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/102344",
+   "versions": [
+    {
+     "from": "2006-12-28",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/78063",
+     "sha256": "836b933fbd44ae8c574c0297ee7a6114ceed9113976d8f5664c94b748b040ba9"
+    },
+    {
+     "from": "2007-01-17",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/81723",
+     "sha256": "531aac56c4110db98d389b9468b920fe15ea791525c5a68ee68276e2bf4fe01e"
+    },
+    {
+     "from": "2007-04-23",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/81724",
+     "sha256": "f08490de8d899652616e73e78686aba38b6759b5a55bdafc6c61c7c07c525e30"
+    },
+    {
+     "from": "2007-04-28",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/81725",
+     "sha256": "1c1f51401cbb729b263e7929053aa41942e74f25d4bbf69c9bfa640c1f4bf3cd"
+    },
+    {
+     "from": "2009-02-11",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/102344",
+     "sha256": "4127a76aa1de47a5c1c78fee8669bc6f006b52dde4330bbf8848174953efc268"
+    },
+    {
+     "from": "2011-09-26",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/131708",
+     "sha256": "babb5c0378a383b93e0aea772044a8d49752dd0883337ee3c68e35715ea1b53f"
     }
    ]
   },

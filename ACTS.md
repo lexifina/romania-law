@@ -1,6 +1,6 @@
 # Every act in this repository
 
-9159 acts, 22,331 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+9161 acts, 22,345 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -2142,7 +2142,7 @@
 | Legea nr. 190/2026 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 81/2021 privind aprobarea metodelor de intervenţie imediată pentru prevenirea şi combaterea atacurilor exemplarelor de urs brun asupra persoanelor şi bunurilor acestora, precum şi pentru modificarea şi completarea unor acte normative | [`lege/2026/190/`](lege/2026/190/) | amending act | 1 | 2026-10-08 | 2026-10-08 |
 | Legea nr. 205/2026 pentru completarea Ordonanţei Guvernului nr. 22/2002 privind executarea obligaţiilor de plată ale instituţiilor publice, stabilite prin titluri executorii | [`lege/2026/205/`](lege/2026/205/) | amending act | 1 | 2026-11-02 | 2026-11-02 |
 
-## Emergency ordinances (OUG) (1533, of which 534 amending acts)
+## Emergency ordinances (OUG) (1534, of which 534 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -2480,6 +2480,7 @@
 | Ordonanța de urgență a Guvernului nr. 126/2006 | [`oug/2006/126/`](oug/2006/126/) | in force | 2 | 2006-12-28 | 2007-06-15 |
 | Ordonanța de urgență a Guvernului nr. 128/2006 | [`oug/2006/128/`](oug/2006/128/) | in force | 1 | 2006-12-28 | 2006-12-28 |
 | Ordonanța de urgență a Guvernului nr. 129/2006 | [`oug/2006/129/`](oug/2006/129/) | in force | 2 | 2007-01-01 | 2007-05-28 |
+| Ordonanța de urgență a Guvernului nr. 133/2006 | [`oug/2006/133/`](oug/2006/133/) | repealed 2011-09-26 | 6 | 2006-12-28 | 2011-09-26 |
 | Ordonanța de urgență a Guvernului nr. 11/2007 | [`oug/2007/11/`](oug/2007/11/) | in force | 2 | 2007-03-05 | 2007-06-23 |
 | Ordonanța de urgență a Guvernului nr. 12/2007 | [`oug/2007/12/`](oug/2007/12/) | in force | 1 | 2007-03-02 | 2007-03-02 |
 | Ordonanța de urgență a Guvernului nr. 14/2007 | [`oug/2007/14/`](oug/2007/14/) | in force | 2 | 2007-03-19 | 2007-10-20 |
@@ -3680,7 +3681,7 @@
 | Ordonanța de urgență a Guvernului nr. 30/2026 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 23/2004 privind stabilirea unor măsuri de reorganizare a Autorităţii pentru Valorificarea Activelor Bancare prin comasarea prin absorbţie cu Autoritatea pentru Privatizare şi Administrarea Participaţiilor Statului | [`oug/2026/30/`](oug/2026/30/) | amending act | 1 | 2026-04-21 | 2026-04-21 |
 | Ordonanța de urgență a Guvernului nr. 33/2026 pentru modificarea şi completarea Legii educaţiei fizice şi sportului nr. 69/2000 | [`oug/2026/33/`](oug/2026/33/) | amending act | 1 | 2026-04-27 | 2026-04-27 |
 
-## Ordinances (OG) (473, of which 92 amending acts)
+## Ordinances (OG) (474, of which 92 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -3872,6 +3873,7 @@
 | Ordonanța Guvernului nr. 89/2003 | [`og/2003/89/`](og/2003/89/) | repealed 2016-11-12 | 6 | 2003-08-31 | 2016-11-12 |
 | Ordonanța Guvernului nr. 2/2004 | [`og/2004/2/`](og/2004/2/) | in force | 2 | 2004-01-18 | 2004-05-10 |
 | Ordonanța Guvernului nr. 9/2004 | [`og/2004/9/`](og/2004/9/) | in force | 5 | 2004-02-29 | 2015-12-14 |
+| Ordonanța Guvernului nr. 10/2004 | [`og/2004/10/`](og/2004/10/) | repealed 2014-06-28 | 8 | 2004-02-29 | 2014-06-28 |
 | Ordonanța Guvernului nr. 11/2004 | [`og/2004/11/`](og/2004/11/) | in force | 3 | 2004-02-29 | 2006-06-16 |
 | Ordonanța Guvernului nr. 12/2004 | [`og/2004/12/`](og/2004/12/) | in force | 2 | 2004-02-02 | 2004-04-17 |
 | Ordonanța Guvernului nr. 24/2004 | [`og/2004/24/`](og/2004/24/) | in force | 2 | 2004-02-03 | 2004-04-25 |
