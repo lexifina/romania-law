@@ -216242,6 +216242,21 @@
    ]
   },
   {
+   "slug": "hg-817-2007",
+   "path": "hg/2007/817",
+   "short": "HG nr. 817/2007",
+   "title": "Hotărârea Guvernului nr. 817/2007 privind aprobarea încadrării în categoria funcţională a drumurilor publice de interes judeţean a unor drumuri şi sectoare de drumuri de interes local situate în judeţul Braşov",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/84071",
+   "versions": [
+    {
+     "from": "2007-08-02",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84071",
+     "sha256": "ec90227df824695bdcf6cbf78d804f140194ff01f1c34d02598d63d0ef80ff70"
+    }
+   ]
+  },
+  {
    "slug": "hg-817-2008",
    "path": "hg/2008/817",
    "short": "HG nr. 817/2008",
@@ -216374,6 +216389,21 @@
    ]
   },
   {
+   "slug": "hg-818-2007",
+   "path": "hg/2007/818",
+   "short": "HG nr. 818/2007",
+   "title": "Hotărârea Guvernului nr. 818/2007 pentru aprobarea Memorandumului de înţelegere dintre autorităţile competente din România şi Israel privind cooperarea în schimbul de informaţii financiare având legătură cu spălarea banilor şi finanţarea terorismului, semnat în Bermuda la 30 mai 2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/84072",
+   "versions": [
+    {
+     "from": "2007-08-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84072",
+     "sha256": "783329c31e413d90fb4f0654c6121b1d5b0822ac001bd70b158b8e5884639577"
+    }
+   ]
+  },
+  {
    "slug": "hg-818-2008",
    "path": "hg/2008/818",
    "short": "HG nr. 818/2008",
@@ -216460,6 +216490,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/285899",
      "sha256": "f1defb3cf1aaa9206158ee640591be83168a21ddef552ed948c9477aa5880f70"
+    }
+   ]
+  },
+  {
+   "slug": "hg-819-2007",
+   "path": "hg/2007/819",
+   "short": "HG nr. 819/2007",
+   "title": "Hotărârea Guvernului nr. 819/2007 pentru aprobarea Acordului dintre Oficiul Naţional de Prevenire şi Combatere a Spălării Banilor din România şi Financial Monitoring Federal Service din Federaţia Rusă privind schimbul de informaţii în domeniul prevenirii şi combaterii spălării banilor şi finanţării actelor de terorism, semnat la Hamilton, Bermuda, la 31 mai 2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/84074",
+   "versions": [
+    {
+     "from": "2007-08-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84074",
+     "sha256": "189f05b45fbb6e7774b443d57453dd17cf47dca85459ccb1a0fd2d81f6b2f69d"
     }
    ]
   },
@@ -219659,6 +219704,21 @@
    ]
   },
   {
+   "slug": "hg-849-2007",
+   "path": "hg/2007/849",
+   "short": "HG nr. 849/2007",
+   "title": "Hotărârea Guvernului nr. 849/2007 privind deschiderea punctului de trecere a frontierei de stat şi a biroului vamal pentru traficul internaţional de călători şi de mărfuri pe Aeroportul Baia Mare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/84130",
+   "versions": [
+    {
+     "from": "2007-08-03",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84130",
+     "sha256": "ae757b972ffd40f48dbaf09c778432f143b7e1ffd838f3917f7dcfb297c251ce"
+    }
+   ]
+  },
+  {
    "slug": "hg-849-2008",
    "path": "hg/2008/849",
    "short": "HG nr. 849/2008",
@@ -219971,6 +220031,21 @@
    ]
   },
   {
+   "slug": "hg-851-2007",
+   "path": "hg/2007/851",
+   "short": "HG nr. 851/2007",
+   "title": "Hotărârea Guvernului nr. 851/2007 privind acordarea unor ajutoare financiare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/84149",
+   "versions": [
+    {
+     "from": "2007-08-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84149",
+     "sha256": "84ff81f2805a24ad1d563f624444f6aa9d26ee24dbaadbcf9fe96a7c2b87e73e"
+    }
+   ]
+  },
+  {
    "slug": "hg-851-2008",
    "path": "hg/2008/851",
    "short": "HG nr. 851/2008",
@@ -220072,6 +220147,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/73072",
      "sha256": "6918e063b5f0430e6f98f84392dc2287f7299169f2c67c46c8d2eb3a143135e8"
+    }
+   ]
+  },
+  {
+   "slug": "hg-852-2007",
+   "path": "hg/2007/852",
+   "short": "HG nr. 852/2007",
+   "title": "Hotărârea Guvernului nr. 852/2007 privind acordarea unor ajutoare de urgenţă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/84156",
+   "versions": [
+    {
+     "from": "2007-08-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84156",
+     "sha256": "12c50dbf0d959cfc8b9ed775b6ffa44cbf672920763e4e58041a1ddbd2bdcb05"
     }
    ]
   },
@@ -220306,6 +220396,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/285709",
      "sha256": "24aa1e933c3803e7d1c52b9584885adb8c5a9e872beec96333e0da101ddbea59"
+    }
+   ]
+  },
+  {
+   "slug": "hg-854-2007",
+   "path": "hg/2007/854",
+   "short": "HG nr. 854/2007",
+   "title": "Hotărârea Guvernului nr. 854/2007 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2007, pentru judeţul Bacău",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/84132",
+   "versions": [
+    {
+     "from": "2007-08-03",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84132",
+     "sha256": "8a58cd24b984fa11498eaec76abcedc65ff519f945aa3b66d759a38c99b176f7"
     }
    ]
   },
@@ -222403,6 +222508,21 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/73751",
      "sha256": "41d4c5faed64da77b9be1c4b0504ee6c8ff34bb1304d416a145a77ad45767c21"
+    }
+   ]
+  },
+  {
+   "slug": "hg-870-2007",
+   "path": "hg/2007/870",
+   "short": "HG nr. 870/2007",
+   "title": "Hotărârea Guvernului nr. 870/2007 pentru modificarea Hotărârii Guvernului nr. 1.777/2004 privind introducerea restricţiei de circulaţie pe unele sectoare de drumuri naţionale europene (E) pentru vehiculele rutiere, altele decât cele destinate exclusiv transportului de persoane, în zilele de sâmbătă, duminică şi de sărbătoare legală",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/84122",
+   "versions": [
+    {
+     "from": "2007-08-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84122",
+     "sha256": "80213d90f628db8048707ca522ab98a5a6ba50d2e1421e7c0fbc9c6be34e6063"
     }
    ]
   },

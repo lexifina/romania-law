@@ -1,6 +1,6 @@
 # Every act in this repository
 
-14470 acts, 28,059 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+14478 acts, 28,067 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -4808,7 +4808,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (9671, of which 4434 amending acts)
+## Government decisions (HG) (9679, of which 4438 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -5932,6 +5932,9 @@
 | Hotărârea Guvernului nr. 813/2007 | [`hg/2007/813/`](hg/2007/813/) | in force | 1 | 2007-08-08 | 2007-08-08 |
 | Hotărârea Guvernului nr. 814/2007 | [`hg/2007/814/`](hg/2007/814/) | in force | 1 | 2007-08-08 | 2007-08-08 |
 | Hotărârea Guvernului nr. 815/2007 pentru modificarea şi completarea Hotărârii Guvernului nr. 72/2000 privind încadrarea drumului de acces la Mânăstirea Moisei, situat pe raza comunei Moisei, judeţul Maramureş, în categoria funcţională a drumurilor comunale | [`hg/2007/815/`](hg/2007/815/) | amending act | 1 | 2007-08-02 | 2007-08-02 |
+| Hotărârea Guvernului nr. 817/2007 privind aprobarea încadrării în categoria funcţională a drumurilor publice de interes judeţean a unor drumuri şi sectoare de drumuri de interes local situate în judeţul Braşov | [`hg/2007/817/`](hg/2007/817/) | amending act | 1 | 2007-08-02 | 2007-08-02 |
+| Hotărârea Guvernului nr. 818/2007 pentru aprobarea Memorandumului de înţelegere dintre autorităţile competente din România şi Israel privind cooperarea în schimbul de informaţii financiare având legătură cu spălarea banilor şi finanţarea terorismului, semnat în Bermuda la 30 mai 2007 | [`hg/2007/818/`](hg/2007/818/) | amending act | 1 | 2007-08-02 | 2007-08-02 |
+| Hotărârea Guvernului nr. 819/2007 pentru aprobarea Acordului dintre Oficiul Naţional de Prevenire şi Combatere a Spălării Banilor din România şi Financial Monitoring Federal Service din Federaţia Rusă privind schimbul de informaţii în domeniul prevenirii şi combaterii spălării banilor şi finanţării actelor de terorism, semnat la Hamilton, Bermuda, la 31 mai 2007 | [`hg/2007/819/`](hg/2007/819/) | amending act | 1 | 2007-08-02 | 2007-08-02 |
 | Hotărârea Guvernului nr. 823/2007 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2007, pentru judeţul Cluj | [`hg/2007/823/`](hg/2007/823/) | in force | 1 | 2007-07-31 | 2007-07-31 |
 | Hotărârea Guvernului nr. 825/2007 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2007, pentru judeţul Giurgiu | [`hg/2007/825/`](hg/2007/825/) | in force | 1 | 2007-07-31 | 2007-07-31 |
 | Hotărârea Guvernului nr. 833/2007 | [`hg/2007/833/`](hg/2007/833/) | in force | 4 | 2007-08-16 | 2022-03-07 |
@@ -5944,7 +5947,12 @@
 | Hotărârea Guvernului nr. 846/2007 privind trecerea domnului Popa Ion din funcţia publică de subprefect al judeţului Argeş în funcţia publică de prefect al judeţului Argeş | [`hg/2007/846/`](hg/2007/846/) | in force | 1 | 2007-08-01 | 2007-08-01 |
 | Hotărârea Guvernului nr. 847/2007 privind trecerea domnului Danu Aurelian-Leonard din funcţia publică de prefect al judeţului Braşov în funcţia publică de subprefect al judeţului Braşov | [`hg/2007/847/`](hg/2007/847/) | in force | 1 | 2007-08-01 | 2007-08-01 |
 | Hotărârea Guvernului nr. 848/2007 privind trecerea doamnei Donţu Adriana din funcţia publică de subprefect al judeţului Braşov în funcţia publică de prefect al judeţului Braşov | [`hg/2007/848/`](hg/2007/848/) | in force | 1 | 2007-08-01 | 2007-08-01 |
+| Hotărârea Guvernului nr. 849/2007 privind deschiderea punctului de trecere a frontierei de stat şi a biroului vamal pentru traficul internaţional de călători şi de mărfuri pe Aeroportul Baia Mare | [`hg/2007/849/`](hg/2007/849/) | in force | 1 | 2007-08-03 | 2007-08-03 |
+| Hotărârea Guvernului nr. 851/2007 privind acordarea unor ajutoare financiare | [`hg/2007/851/`](hg/2007/851/) | in force | 1 | 2007-08-03 | 2007-08-03 |
+| Hotărârea Guvernului nr. 852/2007 privind acordarea unor ajutoare de urgenţă | [`hg/2007/852/`](hg/2007/852/) | in force | 1 | 2007-08-03 | 2007-08-03 |
+| Hotărârea Guvernului nr. 854/2007 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2007, pentru judeţul Bacău | [`hg/2007/854/`](hg/2007/854/) | in force | 1 | 2007-08-03 | 2007-08-03 |
 | Hotărârea Guvernului nr. 867/2007 | [`hg/2007/867/`](hg/2007/867/) | in force | 1 | 2007-08-13 | 2007-08-13 |
+| Hotărârea Guvernului nr. 870/2007 pentru modificarea Hotărârii Guvernului nr. 1.777/2004 privind introducerea restricţiei de circulaţie pe unele sectoare de drumuri naţionale europene (E) pentru vehiculele rutiere, altele decât cele destinate exclusiv transportului de persoane, în zilele de sâmbătă, duminică şi de sărbătoare legală | [`hg/2007/870/`](hg/2007/870/) | amending act | 1 | 2007-08-02 | 2007-08-02 |
 | Hotărârea Guvernului nr. 876/2007 | [`hg/2007/876/`](hg/2007/876/) | in force | 5 | 2007-09-14 | 2022-01-26 |
 | Hotărârea Guvernului nr. 893/2007 privind organizarea şi funcţionarea Institutului pentru Studierea Problemelor Minorităţilor Naţionale | [`hg/2007/893/`](hg/2007/893/) | in force | 3 | 2007-08-14 | 2024-07-30 |
 | Hotărârea Guvernului nr. 895/2007 privind stabilirea cadrului instituţional pentru planificarea financiară, coordonarea, implementarea şi auditarea utilizării fondurilor acordate României prin Facilitatea Schengen | [`hg/2007/895/`](hg/2007/895/) | in force | 6 | 2007-08-15 | 2017-06-14 |
