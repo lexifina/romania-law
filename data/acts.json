@@ -8196,6 +8196,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/64951"
 },
 {
+"slug": "legea-306-2004",
+"path": "lege/2004/306",
+"kind": "lege",
+"year": "2004",
+"number": "306",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 306/2004",
+"short": "Legea nr. 306/2004",
+"code": null,
+"status": "repealed 2006-05-01",
+"versions": 7,
+"from": "2004-07-30",
+"latest": "2006-05-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/68161"
+},
+{
 "slug": "legea-307-2004",
 "path": "lege/2004/307",
 "kind": "lege",
@@ -12546,6 +12563,23 @@
 "from": "2009-11-05",
 "latest": "2009-11-05",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/112935"
+},
+{
+"slug": "legea-329-2009",
+"path": "lege/2009/329",
+"kind": "lege",
+"year": "2009",
+"number": "329",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 329/2009 privind reorganizarea unor autorități și instituții publice, raționalizarea cheltuielilor publice, susținerea mediului de afaceri și respectarea acordurilor-cadru cu Comisia Europeană și Fondul Monetar Internațional",
+"short": "Legea nr. 329/2009",
+"code": null,
+"status": "in force",
+"versions": 15,
+"from": "2009-11-12",
+"latest": "2025-09-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/113152"
 },
 {
 "slug": "legea-340-2009",

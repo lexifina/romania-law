@@ -1,6 +1,6 @@
 # Every act in this repository
 
-8650 acts, 21,612 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+8652 acts, 21,634 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -32,7 +32,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (2049, of which 833 amending acts)
+## Laws (legi) (2051, of which 833 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -517,6 +517,7 @@
 | Legea nr. 302/2004 privind cooperarea judiciară internațională în materie penală | [`lege/2004/302/`](lege/2004/302/) | in force | 15 | 2004-08-30 | 2025-10-19 |
 | Legea nr. 303/2004 privind statutul judecătorilor și procurorilor | [`lege/2004/303/`](lege/2004/303/) | repealed 2022-12-16 | 39 | 2004-09-27 | 2022-12-16 |
 | Legea nr. 304/2004 privind organizarea judiciară | [`lege/2004/304/`](lege/2004/304/) | in force | 45 | 2004-09-27 | 2022-12-16 |
+| Legea nr. 306/2004 | [`lege/2004/306/`](lege/2004/306/) | repealed 2006-05-01 | 7 | 2004-07-30 | 2006-05-01 |
 | Legea nr. 307/2004 | [`lege/2004/307/`](lege/2004/307/) | in force | 6 | 2004-07-30 | 2005-03-31 |
 | Legea nr. 310/2004 | [`lege/2004/310/`](lege/2004/310/) | in force | 1 | 2004-08-29 | 2004-08-29 |
 | Legea nr. 311/2004 | [`lege/2004/311/`](lege/2004/311/) | in force | 1 | 2004-07-03 | 2004-07-03 |
@@ -773,6 +774,7 @@
 | Codul civil (Legea nr. 287/2009) | [`lege/2009/287/`](lege/2009/287/) | in force | 13 | 2011-10-01 | 2026-05-03 |
 | Legea nr. 319/2009 pentru instituirea Zilei mamei și a Zilei tatălui | [`lege/2009/319/`](lege/2009/319/) | in force | 1 | 2009-10-18 | 2009-10-18 |
 | Legea nr. 327/2009 | [`lege/2009/327/`](lege/2009/327/) | in force | 1 | 2009-11-05 | 2009-11-05 |
+| Legea nr. 329/2009 privind reorganizarea unor autorități și instituții publice, raționalizarea cheltuielilor publice, susținerea mediului de afaceri și respectarea acordurilor-cadru cu Comisia Europeană și Fondul Monetar Internațional | [`lege/2009/329/`](lege/2009/329/) | in force | 15 | 2009-11-12 | 2025-09-01 |
 | Legea nr. 340/2009 privind formularea de către România a unei declarații în baza prevederilor art. 35 paragraful (2) din Tratatul privind Uniunea Europeană | [`lege/2009/340/`](lege/2009/340/) | in force | 1 | 2009-11-21 | 2009-11-21 |
 | Legea nr. 349/2009 | [`lege/2009/349/`](lege/2009/349/) | in force | 1 | 2009-11-21 | 2009-11-21 |
 | Legea nr. 354/2009 privind aprobarea Ordonanței de urgență a Guvernului nr. 36/2009 pentru modificarea și completarea Legii cetățeniei române nr. 21/1991 | [`lege/2009/354/`](lege/2009/354/) | amending act | 2 | 2009-11-19 | 2010-02-10 |
