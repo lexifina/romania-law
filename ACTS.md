@@ -1,6 +1,6 @@
 # Every act in this repository
 
-12289 acts, 25,871 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+12309 acts, 25,891 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -4566,7 +4566,7 @@
 | Ordonanța Guvernului nr. 21/2025 pentru modificarea și completarea Legii nr. 431/2023 privind asigurarea unui nivel minim global de impozitare a grupurilor de întreprinderi multinaționale și a grupurilor naționale de mari dimensiuni | [`og/2025/21/`](og/2025/21/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 | Ordonanța Guvernului nr. 22/2025 pentru modificarea și completarea Legii nr. 227/2015 privind Codul fiscal | [`og/2025/22/`](og/2025/22/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 
-## Government decisions (HG) (7732, of which 3356 amending acts)
+## Government decisions (HG) (7752, of which 3356 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -5550,14 +5550,34 @@
 | Hotărârea Guvernului nr. 98/2009 privind exercitarea, cu caracter temporar, a funcţiei publice de subprefect al judeţului Neamţ de către domnul Ţocu Iulian Costel | [`hg/2009/98/`](hg/2009/98/) | in force | 1 | 2009-02-18 | 2009-02-18 |
 | Hotărârea Guvernului nr. 99/2009 privind schimbarea denumirii Institutului Naţional de Cercetări Economice din subordinea Academiei Române | [`hg/2009/99/`](hg/2009/99/) | in force | 1 | 2009-02-23 | 2009-02-23 |
 | Hotărârea Guvernului nr. 105/2009 privind abrogarea Hotărârii Guvernului nr. 831/1997 pentru aprobarea modelelor formularelor comune privind activitatea financiară şi contabilă şi a normelor metodologice privind întocmirea şi utilizarea acestora | [`hg/2009/105/`](hg/2009/105/) | amending act | 1 | 2009-02-20 | 2009-02-20 |
+| Hotărârea Guvernului nr. 106/2009 privind organizarea Conferinţei regionale "Promovarea şi dezvoltarea capitalului uman pentru dezvoltare durabilă în sud-estul Europei" şi a reuniunii Comitetului mixt al miniştrilor din ţările participante la programul CEEPUS (Programul de schimburi universitare în ţările din Europa Centrală), Bucureşti, România, 6-7 martie 2009 | [`hg/2009/106/`](hg/2009/106/) | in force | 1 | 2009-02-25 | 2009-02-25 |
 | Hotărârea Guvernului nr. 110/2009 | [`hg/2009/110/`](hg/2009/110/) | in force | 3 | 2009-03-02 | 2012-08-21 |
 | Hotărârea Guvernului nr. 112/2009 | [`hg/2009/112/`](hg/2009/112/) | in force | 4 | 2009-03-02 | 2010-03-26 |
+| Hotărârea Guvernului nr. 117/2009 privind aplicarea mobilităţii pentru domnul Şerban Claudiu Octavian din funcţia publică de prefect al judeţului Bacău în funcţia publică de inspector guvernamental | [`hg/2009/117/`](hg/2009/117/) | in force | 1 | 2009-02-25 | 2009-02-25 |
+| Hotărârea Guvernului nr. 118/2009 privind exercitarea, cu caracter temporar, a funcţiei publice de prefect al judeţului Bacău de către domnul Pocovnicu Constantin-Dorian | [`hg/2009/118/`](hg/2009/118/) | in force | 1 | 2009-02-25 | 2009-02-25 |
+| Hotărârea Guvernului nr. 119/2009 privind aplicarea mobilităţii pentru domnul Paulescu Ioan Anton din funcţia publică de prefect al judeţului Caraş-Severin în funcţia publică de inspector guvernamental | [`hg/2009/119/`](hg/2009/119/) | in force | 1 | 2009-02-25 | 2009-02-25 |
+| Hotărârea Guvernului nr. 121/2009 privind aplicarea mobilităţii pentru domnul Lazăr Mirel-Nicolae din funcţia publică de prefect al judeţului Dâmboviţa în funcţia publică de inspector guvernamental | [`hg/2009/121/`](hg/2009/121/) | in force | 1 | 2009-02-25 | 2009-02-25 |
+| Hotărârea Guvernului nr. 122/2009 privind exercitarea, cu caracter temporar, a funcţiei publice de prefect al judeţului Dâmboviţa de către domnul Caracota Iancu | [`hg/2009/122/`](hg/2009/122/) | in force | 1 | 2009-02-25 | 2009-02-25 |
+| Hotărârea Guvernului nr. 123/2009 privind aplicarea mobilităţii pentru domnul Jecu Nicolae din funcţia publică de prefect al judeţului Ilfov în funcţia publică de inspector guvernamental | [`hg/2009/123/`](hg/2009/123/) | in force | 1 | 2009-02-25 | 2009-02-25 |
+| Hotărârea Guvernului nr. 124/2009 privind exercitarea, cu caracter temporar, a funcţiei publice de prefect al judeţului Ilfov de către domnul Delcea Valentin | [`hg/2009/124/`](hg/2009/124/) | in force | 1 | 2009-02-25 | 2009-02-25 |
+| Hotărârea Guvernului nr. 128/2009 privind exercitarea, cu caracter temporar, a funcţiei publice de prefect al judeţului Prahova de către domnul Oprea Ştefan-Radu | [`hg/2009/128/`](hg/2009/128/) | in force | 1 | 2009-02-25 | 2009-02-25 |
+| Hotărârea Guvernului nr. 129/2009 privind aplicarea mobilităţii pentru domnul Todea Andrei-Barbu din funcţia publică de prefect al judeţului Sălaj în funcţia publică de inspector guvernamental | [`hg/2009/129/`](hg/2009/129/) | in force | 1 | 2009-02-25 | 2009-02-25 |
 | Hotărârea Guvernului nr. 140/2009 privind exercitarea, cu caracter temporar, a funcţiei publice de subprefect al judeţului Vâlcea de către domnul Ungureanu Petre | [`hg/2009/140/`](hg/2009/140/) | in force | 1 | 2009-02-25 | 2009-02-25 |
 | Hotărârea Guvernului nr. 141/2009 privind aplicarea mobilităţii pentru domnul Merchea Manole din funcţia publică de subprefect al judeţului Vrancea în funcţia publică de inspector guvernamental | [`hg/2009/141/`](hg/2009/141/) | in force | 1 | 2009-02-25 | 2009-02-25 |
 | Hotărârea Guvernului nr. 142/2009 privind exercitarea, cu caracter temporar, a funcţiei publice de subprefect al judeţului Vrancea de către domnul Hornea Sorin-Ionel-Florin | [`hg/2009/142/`](hg/2009/142/) | in force | 1 | 2009-02-25 | 2009-02-25 |
 | Hotărârea Guvernului nr. 143/2009 privind aplicarea mobilităţii pentru doamna Donţu Adriana din funcţia publică de subprefect al judeţului Braşov în funcţia publică de inspector guvernamental | [`hg/2009/143/`](hg/2009/143/) | in force | 1 | 2009-02-25 | 2009-02-25 |
 | Hotărârea Guvernului nr. 144/2009 privind exercitarea, cu caracter temporar, a funcţiei publice de subprefect al judeţului Braşov de către doamna Mînzatu Roxana | [`hg/2009/144/`](hg/2009/144/) | in force | 1 | 2009-02-25 | 2009-02-25 |
 | Hotărârea Guvernului nr. 145/2009 privind aplicarea mobilităţii pentru domnul Vasile Alecu din funcţia publică de subprefect al judeţului Buzău în funcţia publică de inspector guvernamental | [`hg/2009/145/`](hg/2009/145/) | in force | 1 | 2009-02-25 | 2009-02-25 |
+| Hotărârea Guvernului nr. 146/2009 privind exercitarea, cu caracter temporar, a funcţiei publice de subprefect al judeţului Buzău de către domnul Anghel Ovidiu | [`hg/2009/146/`](hg/2009/146/) | in force | 1 | 2009-02-25 | 2009-02-25 |
+| Hotărârea Guvernului nr. 147/2009 privind aplicarea mobilităţii pentru doamna Iacob Lili din funcţia publică de subprefect al judeţului Buzău în funcţia publică de inspector guvernamental | [`hg/2009/147/`](hg/2009/147/) | in force | 1 | 2009-02-25 | 2009-02-25 |
+| Hotărârea Guvernului nr. 148/2009 privind exercitarea, cu caracter temporar, a funcţiei publice de subprefect al judeţului Buzău de către domnul Beganu Paul | [`hg/2009/148/`](hg/2009/148/) | in force | 1 | 2009-02-25 | 2009-02-25 |
+| Hotărârea Guvernului nr. 149/2009 privind aplicarea mobilităţii pentru domnul Sereş Petru Albert din funcţia publică de subprefect al judeţului Caraş-Severin în funcţia publică de inspector guvernamental | [`hg/2009/149/`](hg/2009/149/) | in force | 1 | 2009-02-25 | 2009-02-25 |
+| Hotărârea Guvernului nr. 150/2009 privind exercitarea, cu caracter temporar, a funcţiei publice de subprefect al judeţului Caraş-Severin de către domnul Spânu Ion | [`hg/2009/150/`](hg/2009/150/) | in force | 1 | 2009-02-25 | 2009-02-25 |
+| Hotărârea Guvernului nr. 151/2009 privind aplicarea mobilităţii pentru domnul Andrei Cosmin din funcţia publică de subprefect al judeţului Constanţa în funcţia publică de inspector guvernamental | [`hg/2009/151/`](hg/2009/151/) | in force | 1 | 2009-02-25 | 2009-02-25 |
+| Hotărârea Guvernului nr. 152/2009 privind exercitarea, cu caracter temporar, a funcţiei publice de subprefect al judeţului Constanţa de către domnul Iustian Mircea-Teodor | [`hg/2009/152/`](hg/2009/152/) | in force | 1 | 2009-02-25 | 2009-02-25 |
+| Hotărârea Guvernului nr. 156/2009 privind exercitarea, cu caracter temporar, a funcţiei publice de subprefect al judeţului Giurgiu de către domnul Fiţa Daniel Alexandru | [`hg/2009/156/`](hg/2009/156/) | in force | 1 | 2009-02-25 | 2009-02-25 |
+| Hotărârea Guvernului nr. 168/2009 privind încetarea exercitării funcţiei publice de subprefect al judeţului Teleorman de către domnul Trifu Lucică | [`hg/2009/168/`](hg/2009/168/) | in force | 1 | 2009-02-25 | 2009-02-25 |
+| Hotărârea Guvernului nr. 169/2009 privind numirea prin mobilitate a doamnei Diaconu Victoriţa în funcţia publică de subprefect al judeţului Teleorman | [`hg/2009/169/`](hg/2009/169/) | in force | 1 | 2009-02-25 | 2009-02-25 |
 | Hotărârea Guvernului nr. 186/2009 | [`hg/2009/186/`](hg/2009/186/) | in force | 11 | 2009-02-27 | 2024-01-01 |
 | Hotărârea Guvernului nr. 215/2009 | [`hg/2009/215/`](hg/2009/215/) | in force | 2 | 2009-03-09 | 2018-01-26 |
 | Hotărârea Guvernului nr. 218/2009 | [`hg/2009/218/`](hg/2009/218/) | in force | 2 | 2009-03-12 | 2009-07-10 |
