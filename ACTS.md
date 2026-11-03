@@ -1,6 +1,6 @@
 # Every act in this repository
 
-14094 acts, 27,683 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+14097 acts, 27,686 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -4775,7 +4775,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (9328, of which 4259 amending acts)
+## Government decisions (HG) (9331, of which 4260 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -5477,7 +5477,10 @@
 | Hotărârea Guvernului nr. 1915/2006 | [`hg/2006/1915/`](hg/2006/1915/) | in force | 1 | 2007-01-11 | 2007-01-11 |
 | Hotărârea Guvernului nr. 9/2007 | [`hg/2007/9/`](hg/2007/9/) | in force | 7 | 2007-01-30 | 2023-11-09 |
 | Hotărârea Guvernului nr. 26/2007 | [`hg/2007/26/`](hg/2007/26/) | in force | 1 | 2007-01-22 | 2007-01-22 |
+| Hotărârea Guvernului nr. 42/2007 privind transmiterea unui imobil din domeniul privat al statului şi din administrarea Regiei Autonome "Administraţia Română a Serviciilor de Trafic Aerian - ROMATSA" în domeniul public al oraşului Mizil şi în administrarea Consiliului Local al Oraşului Mizil, judeţul Prahova | [`hg/2007/42/`](hg/2007/42/) | in force | 1 | 2007-01-25 | 2007-01-25 |
 | Hotărârea Guvernului nr. 49/2007 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2007, pentru judeţele Iaşi şi Vrancea | [`hg/2007/49/`](hg/2007/49/) | in force | 1 | 2007-01-19 | 2007-01-19 |
+| Hotărârea Guvernului nr. 65/2007 pentru aprobarea Protocolului dintre Guvernul României şi Guvernul Republicii Indonezia, semnat la Jakarta la 17 iulie 2006, de amendare a Acordului dintre Guvernul Republicii Socialiste România şi Guvernul Republicii Indonezia privind cooperarea economică şi tehnico-ştiinţifică pe termen lung, semnat la Jakarta la 23 noiembrie 1982 | [`hg/2007/65/`](hg/2007/65/) | amending act | 1 | 2007-02-01 | 2007-02-01 |
+| Hotărârea Guvernului nr. 67/2007 privind participarea României la programele comunitare "Învăţare pe tot parcursul vieţii", "Erasmus Mundus" şi "Tineret în acţiune", în perioada 2007-2013 | [`hg/2007/67/`](hg/2007/67/) | in force | 1 | 2007-01-29 | 2007-01-29 |
 | Hotărârea Guvernului nr. 78/2007 pentru modificarea anexei la Hotărârea Guvernului nr. 349/2006 privind aprobarea Listei societăților naționale, companiilor naționale și societăților comerciale aflate sub autoritatea sau în coordonarea Ministerului Economiei și Comerțului, la care se efectuează concedieri colective în anul 2006 și care vor beneficia de prevederile Ordonanței de urgență a Guvernului nr. 8/2003 privind stimularea procesului de restructurare, reorganizare și privatizare a unor societăți naționale, companii naționale și societăți comerciale cu capital majoritar de stat, precum și a societăților comerciale și regiilor autonome subordonate autorităților administrației publice locale | [`hg/2007/78/`](hg/2007/78/) | amending act | 1 | 2007-01-31 | 2007-01-31 |
 | Hotărârea Guvernului nr. 79/2007 | [`hg/2007/79/`](hg/2007/79/) | in force | 1 | 2007-01-31 | 2007-01-31 |
 | Hotărârea Guvernului nr. 104/2007 | [`hg/2007/104/`](hg/2007/104/) | in force | 1 | 2007-02-14 | 2007-02-14 |
