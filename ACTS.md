@@ -1,6 +1,6 @@
 # Every act in this repository
 
-20313 acts, 33,944 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+20315 acts, 33,946 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -5437,7 +5437,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (14885, of which 7542 amending acts)
+## Government decisions (HG) (14887, of which 7544 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -8694,6 +8694,8 @@
 | Hotărârea Guvernului nr. 218/2012 | [`hg/2012/218/`](hg/2012/218/) | in force | 1 | 2012-03-23 | 2012-03-23 |
 | Hotărârea Guvernului nr. 233/2012 | [`hg/2012/233/`](hg/2012/233/) | in force | 3 | 2012-04-07 | 2017-03-07 |
 | Hotărârea Guvernului nr. 269/2012 privind aprobarea bugetului de venituri şi cheltuieli pe anul 2012 al Regiei Autonome "Rasirom", aflată sub autoritatea Serviciului Român de Informaţii | [`hg/2012/269/`](hg/2012/269/) | amending act | 1 | 2012-04-06 | 2012-04-06 |
+| Hotărârea Guvernului nr. 294/2012 pentru modificarea pct. V din anexa la Hotărârea Guvernului nr. 414/2011 privind aprobarea cifrelor de şcolarizare pentru învăţământul preuniversitar şi superior de stat în anul şcolar/universitar 2011-2012 | [`hg/2012/294/`](hg/2012/294/) | amending act | 1 | 2012-04-18 | 2012-04-18 |
+| Hotărârea Guvernului nr. 295/2012 privind aprobarea bugetului de venituri şi cheltuieli pe anul 2012 al Companiei Naţionale "Romtehnica" - S.A., companie naţională aflată sub autoritatea Ministerului Apărării Naţionale | [`hg/2012/295/`](hg/2012/295/) | amending act | 1 | 2012-04-20 | 2012-04-20 |
 | Hotărârea Guvernului nr. 296/2012 privind numirea unui consul general | [`hg/2012/296/`](hg/2012/296/) | in force | 1 | 2012-04-18 | 2012-04-18 |
 | Hotărârea Guvernului nr. 297/2012 privind modificarea şi completarea anexei nr. 41 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului | [`hg/2012/297/`](hg/2012/297/) | amending act | 1 | 2012-04-20 | 2012-04-20 |
 | Hotărârea Guvernului nr. 300/2012 privind aprobarea ajutorului de stat care se acordă producătorilor de cartofi afectaţi de organismele de carantină dăunătoare culturii cartofului | [`hg/2012/300/`](hg/2012/300/) | amending act | 1 | 2012-04-18 | 2012-04-18 |

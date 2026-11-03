@@ -179153,6 +179153,21 @@
    ]
   },
   {
+   "slug": "hg-294-2012",
+   "path": "hg/2012/294",
+   "short": "HG nr. 294/2012",
+   "title": "Hotărârea Guvernului nr. 294/2012 pentru modificarea pct. V din anexa la Hotărârea Guvernului nr. 414/2011 privind aprobarea cifrelor de şcolarizare pentru învăţământul preuniversitar şi superior de stat în anul şcolar/universitar 2011-2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/137216",
+   "versions": [
+    {
+     "from": "2012-04-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/137216",
+     "sha256": "a5a3523dd3dcba9fa25a47c935fbef764fb908453fa016a5c03f56372d472f9b"
+    }
+   ]
+  },
+  {
    "slug": "hg-294-2013",
    "path": "hg/2013/294",
    "short": "HG nr. 294/2013",
@@ -179299,6 +179314,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/103592",
      "sha256": "fcd11a9b10685f6144e8fa1497afe15028b583047ac30648097aaae86dac8631"
+    }
+   ]
+  },
+  {
+   "slug": "hg-295-2012",
+   "path": "hg/2012/295",
+   "short": "HG nr. 295/2012",
+   "title": "Hotărârea Guvernului nr. 295/2012 privind aprobarea bugetului de venituri şi cheltuieli pe anul 2012 al Companiei Naţionale \"Romtehnica\" - S.A., companie naţională aflată sub autoritatea Ministerului Apărării Naţionale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/137258",
+   "versions": [
+    {
+     "from": "2012-04-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/137258",
+     "sha256": "353d49942cde7cd09363dcc3502fc68848241828b20810903265abe0b71d380c"
     }
    ]
   },
