@@ -1,6 +1,6 @@
 # Every act in this repository
 
-10852 acts, 24,422 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+10889 acts, 24,459 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -32,7 +32,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (2264, of which 978 amending acts)
+## Laws (legi) (2267, of which 981 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -2292,13 +2292,16 @@
 | Legea nr. 45/2026 pentru modificarea şi completarea Legii responsabilităţii fiscal-bugetare nr. 69/2010 | [`lege/2026/45/`](lege/2026/45/) | amending act | 1 | 2026-04-02 | 2026-04-02 |
 | Legea nr. 53/2026 pentru prevenirea şi combaterea femicidului şi a violenţelor care îl precedă, precum şi pentru modificarea şi completarea unor acte normative | [`lege/2026/53/`](lege/2026/53/) | amending act | 1 | 2026-04-26 | 2026-04-26 |
 | Legea nr. 57/2026 pentru modificarea Legii nr. 287/2009 privind Codul civil | [`lege/2026/57/`](lege/2026/57/) | amending act | 1 | 2026-05-03 | 2026-05-03 |
+| Legea nr. 87/2026 pentru completarea Ordonanţei de urgenţă a Guvernului nr. 119/2006 privind unele măsuri necesare pentru aplicarea unor regulamente comunitare de la data aderării României la Uniunea Europeană | [`lege/2026/87/`](lege/2026/87/) | amending act | 1 | 2026-05-31 | 2026-05-31 |
 | Legea nr. 92/2026 pentru modificarea şi completarea Legii nr. 61/1991 pentru sancţionarea faptelor de încălcare a unor norme de convieţuire socială, a ordinii şi liniştii publice | [`lege/2026/92/`](lege/2026/92/) | amending act | 1 | 2026-06-13 | 2026-06-13 |
 | Legea nr. 105/2026 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 22/2026 pentru modificarea Ordonanţei de urgenţă a Guvernului nr. 67/2023 privind instituirea unei măsuri cu caracter temporar de combatere a creşterii excesive a preţurilor la unele produse agricole şi alimentare | [`lege/2026/105/`](lege/2026/105/) | amending act | 1 | 2026-06-27 | 2026-06-27 |
 | Legea nr. 120/2026 pentru modificarea art. 59^1 din Legea nr. 119/1996 cu privire la actele de stare civilă | [`lege/2026/120/`](lege/2026/120/) | amending act | 1 | 2026-07-06 | 2026-07-06 |
 | Legea nr. 122/2026 pentru modificarea art. 197 din Legea nr. 286/2009 privind Codul penal | [`lege/2026/122/`](lege/2026/122/) | amending act | 1 | 2026-07-06 | 2026-07-06 |
+| Legea nr. 150/2026 pentru modificarea Legii nr. 117/2017 privind înfiinţarea Institutului de Studii Avansate pentru Cultura şi Civilizaţia Levantului | [`lege/2026/150/`](lege/2026/150/) | amending act | 1 | 2026-07-24 | 2026-07-24 |
 | Legea nr. 153/2026 privind reglementarea Programului Naţional de Accesibilizare a Locuinţelor - "Lift pentru viaţă", precum şi pentru completarea unor acte normative | [`lege/2026/153/`](lege/2026/153/) | amending act | 1 | 2026-08-19 | 2026-08-19 |
 | Legea nr. 158/2026 pentru modificarea Legii nr. 286/2009 privind Codul penal | [`lege/2026/158/`](lege/2026/158/) | amending act | 1 | 2026-07-23 | 2026-07-23 |
 | Legea nr. 190/2026 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 81/2021 privind aprobarea metodelor de intervenţie imediată pentru prevenirea şi combaterea atacurilor exemplarelor de urs brun asupra persoanelor şi bunurilor acestora, precum şi pentru modificarea şi completarea unor acte normative | [`lege/2026/190/`](lege/2026/190/) | amending act | 1 | 2026-10-08 | 2026-10-08 |
+| Legea nr. 194/2026 pentru modificarea anexei la Legea nr. 2/1968 privind organizarea administrativă a teritoriului României | [`lege/2026/194/`](lege/2026/194/) | amending act | 1 | 2026-10-10 | 2026-10-10 |
 | Legea nr. 205/2026 pentru completarea Ordonanţei Guvernului nr. 22/2002 privind executarea obligaţiilor de plată ale instituţiilor publice, stabilite prin titluri executorii | [`lege/2026/205/`](lege/2026/205/) | amending act | 1 | 2026-11-02 | 2026-11-02 |
 
 ## Emergency ordinances (OUG) (1589, of which 543 amending acts)
@@ -4403,7 +4406,7 @@
 | Ordonanța Guvernului nr. 21/2025 pentru modificarea și completarea Legii nr. 431/2023 privind asigurarea unui nivel minim global de impozitare a grupurilor de întreprinderi multinaționale și a grupurilor naționale de mari dimensiuni | [`og/2025/21/`](og/2025/21/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 | Ordonanța Guvernului nr. 22/2025 pentru modificarea și completarea Legii nr. 227/2015 privind Codul fiscal | [`og/2025/22/`](og/2025/22/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 
-## Government decisions (HG) (6457, of which 2719 amending acts)
+## Government decisions (HG) (6491, of which 2720 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -6572,6 +6575,17 @@
 | Hotărârea Guvernului nr. 50/2021 pentru modificarea Normelor metodologice de aplicare a Legii nr. 200/2006 privind constituirea și utilizarea Fondului de garantare pentru plata creanțelor salariale, aprobate prin Hotărârea Guvernului nr. 1.850/2006 | [`hg/2021/50/`](hg/2021/50/) | amending act | 1 | 2021-02-22 | 2021-02-22 |
 | Hotărârea Guvernului nr. 53/2021 pentru modificarea Hotărârii Guvernului nr. 1.218/2006 privind stabilirea cerințelor minime de securitate și sănătate în muncă pentru asigurarea protecției lucrătorilor împotriva riscurilor legate de prezența agenților chimici, precum și pentru modificarea și completarea Hotărârii Guvernului nr. 1.093/2006 privind stabilirea cerințelor minime de securitate și sănătate pentru protecția lucrătorilor împotriva riscurilor legate de expunerea la agenți cancerigeni sau mutageni la locul de muncă | [`hg/2021/53/`](hg/2021/53/) | amending act | 1 | 2021-03-02 | 2021-03-02 |
 | Hotărârea Guvernului nr. 66/2021 privind modificarea și completarea Hotărârii Guvernului nr. 906/2020 pentru punerea în aplicare a unor prevederi ale Ordonanței de urgență a Guvernului nr. 57/2019 privind Codul administrativ | [`hg/2021/66/`](hg/2021/66/) | amending act | 1 | 2021-03-01 | 2021-03-01 |
+| Hotărârea Guvernului nr. 110/2021 privind încetarea exercitării, cu caracter temporar, în condiţiile legii, a funcţiei publice de subprefect al judeţului Argeş de către domnul Ciungu Cristian-Andrei | [`hg/2021/110/`](hg/2021/110/) | in force | 1 | 2021-03-03 | 2021-03-03 |
+| Hotărârea Guvernului nr. 111/2021 privind încetarea exercitării, cu caracter temporar, în condiţiile legii, a funcţiei publice de subprefect al judeţului Bacău de către domnul Jitaru Narcis | [`hg/2021/111/`](hg/2021/111/) | in force | 1 | 2021-03-03 | 2021-03-03 |
+| Hotărârea Guvernului nr. 149/2021 privind încetarea exercitării, cu caracter temporar, în condiţiile legii, a funcţiei publice de subprefect al judeţului Prahova de către domnul Brezoi Constantin-George | [`hg/2021/149/`](hg/2021/149/) | in force | 1 | 2021-03-03 | 2021-03-03 |
+| Hotărârea Guvernului nr. 150/2021 privind încetarea exercitării, cu caracter temporar, în condiţiile legii, a funcţiei publice de subprefect al judeţului Satu Mare de către domnul Altfatter Tamás-Ferenc | [`hg/2021/150/`](hg/2021/150/) | in force | 1 | 2021-03-03 | 2021-03-03 |
+| Hotărârea Guvernului nr. 151/2021 privind încetarea exercitării, cu caracter temporar, în condiţiile legii, a funcţiei publice de subprefect al judeţului Satu Mare de către domnul Bota Cosmin-Gheorghe | [`hg/2021/151/`](hg/2021/151/) | in force | 1 | 2021-03-03 | 2021-03-03 |
+| Hotărârea Guvernului nr. 152/2021 privind încetarea exercitării, cu caracter temporar, în condiţiile legii, a funcţiei publice de subprefect al judeţului Sălaj de către domnul Vasvari Róbert-Gergely | [`hg/2021/152/`](hg/2021/152/) | in force | 1 | 2021-03-03 | 2021-03-03 |
+| Hotărârea Guvernului nr. 153/2021 privind încetarea exercitării, cu caracter temporar, în condiţiile legii, a funcţiei publice de subprefect al judeţului Sălaj de către domnul Sârca Romeo-Constantin | [`hg/2021/153/`](hg/2021/153/) | in force | 1 | 2021-03-03 | 2021-03-03 |
+| Hotărârea Guvernului nr. 154/2021 privind încetarea exercitării, cu caracter temporar, în condiţiile legii, a funcţiei publice de subprefect al judeţului Sibiu de către doamna Muntean Sanda-Ligia | [`hg/2021/154/`](hg/2021/154/) | in force | 1 | 2021-03-03 | 2021-03-03 |
+| Hotărârea Guvernului nr. 155/2021 privind încetarea exercitării, cu caracter temporar, în condiţiile legii, a funcţiei publice de subprefect al judeţului Suceava de către doamna Morar Laura | [`hg/2021/155/`](hg/2021/155/) | in force | 1 | 2021-03-03 | 2021-03-03 |
+| Hotărârea Guvernului nr. 156/2021 privind încetarea exercitării, cu caracter temporar, în condiţiile legii, a funcţiei publice de subprefect al judeţului Suceava de către domnul Prorociuc Daniel | [`hg/2021/156/`](hg/2021/156/) | in force | 1 | 2021-03-03 | 2021-03-03 |
+| Hotărârea Guvernului nr. 157/2021 privind încetarea exercitării, cu caracter temporar, în condiţiile legii, a funcţiei publice de subprefect al judeţului Teleorman de către doamna Voicu Nicoleta-Marilena | [`hg/2021/157/`](hg/2021/157/) | in force | 1 | 2021-03-03 | 2021-03-03 |
 | Hotărârea Guvernului nr. 174/2021 privind numirea domnului Bulai Leonard-Ioan în funcţia de prefect al judeţului Bacău | [`hg/2021/174/`](hg/2021/174/) | in force | 1 | 2021-03-03 | 2021-03-03 |
 | Hotărârea Guvernului nr. 175/2021 privind numirea domnului Ţiplea Dumitru în funcţia de prefect al judeţului Bihor | [`hg/2021/175/`](hg/2021/175/) | in force | 1 | 2021-03-03 | 2021-03-03 |
 | Hotărârea Guvernului nr. 176/2021 privind numirea domnului Dolha Nechita-Stelian în funcţia de prefect al judeţului Bistriţa-Năsăud | [`hg/2021/176/`](hg/2021/176/) | in force | 1 | 2021-03-03 | 2021-03-03 |
@@ -6581,6 +6595,8 @@
 | Hotărârea Guvernului nr. 181/2021 privind numirea domnului Barbu Valentin în funcţia de prefect al judeţului Călăraşi | [`hg/2021/181/`](hg/2021/181/) | in force | 1 | 2021-03-03 | 2021-03-03 |
 | Hotărârea Guvernului nr. 182/2021 privind numirea domnului Tasnadi Istvan-Szilard în funcţia de prefect al judeţului Cluj | [`hg/2021/182/`](hg/2021/182/) | in force | 1 | 2021-03-03 | 2021-03-03 |
 | Hotărârea Guvernului nr. 183/2021 privind numirea domnului Coşa Silviu-Iulian în funcţia de prefect al judeţului Constanţa | [`hg/2021/183/`](hg/2021/183/) | in force | 1 | 2021-03-03 | 2021-03-03 |
+| Hotărârea Guvernului nr. 192/2021 privind numirea domnului Zamfir Daniel-Tudorel în funcţia de prefect al judeţului Ilfov | [`hg/2021/192/`](hg/2021/192/) | in force | 1 | 2021-03-03 | 2021-03-03 |
+| Hotărârea Guvernului nr. 193/2021 privind numirea domnului Duruş Vlad-Emanuel în funcţia de prefect al judeţului Maramureş | [`hg/2021/193/`](hg/2021/193/) | in force | 1 | 2021-03-03 | 2021-03-03 |
 | Hotărârea Guvernului nr. 194/2021 privind numirea domnului Pavel Cristinel în funcţia de prefect al judeţului Mehedinţi | [`hg/2021/194/`](hg/2021/194/) | in force | 1 | 2021-03-03 | 2021-03-03 |
 | Hotărârea Guvernului nr. 195/2021 privind numirea doamnei Togănel Cristina-Mara în funcţia de prefect al judeţului Mureş | [`hg/2021/195/`](hg/2021/195/) | in force | 1 | 2021-03-03 | 2021-03-03 |
 | Hotărârea Guvernului nr. 196/2021 privind numirea domnului Lazăr George în funcţia de prefect al judeţului Neamţ | [`hg/2021/196/`](hg/2021/196/) | in force | 1 | 2021-03-03 | 2021-03-03 |
@@ -6597,12 +6613,31 @@
 | Hotărârea Guvernului nr. 207/2021 privind numirea domnului Rascovici Viorel în funcţia de subprefect al judeţului Alba | [`hg/2021/207/`](hg/2021/207/) | in force | 1 | 2021-03-03 | 2021-03-03 |
 | Hotărârea Guvernului nr. 208/2021 privind numirea domnului Vincze Andrei în funcţia de subprefect al judeţului Alba | [`hg/2021/208/`](hg/2021/208/) | in force | 1 | 2021-03-03 | 2021-03-03 |
 | Hotărârea Guvernului nr. 209/2021 privind numirea domnului Sinaci Ionel-Dorel în funcţia de subprefect al judeţului Arad | [`hg/2021/209/`](hg/2021/209/) | in force | 1 | 2021-03-03 | 2021-03-03 |
+| Hotărârea Guvernului nr. 210/2021 privind numirea domnului Cătană Vasile-Valer în funcţia de subprefect al judeţului Arad | [`hg/2021/210/`](hg/2021/210/) | in force | 1 | 2021-03-03 | 2021-03-03 |
+| Hotărârea Guvernului nr. 211/2021 privind numirea domnului Ionescu Lucian-Mihai în funcţia de subprefect al judeţului Argeş | [`hg/2021/211/`](hg/2021/211/) | in force | 1 | 2021-03-03 | 2021-03-03 |
+| Hotărârea Guvernului nr. 212/2021 privind numirea domnului Soare Emanuel în funcţia de subprefect al judeţului Argeş | [`hg/2021/212/`](hg/2021/212/) | in force | 1 | 2021-03-03 | 2021-03-03 |
+| Hotărârea Guvernului nr. 213/2021 privind numirea domnului Jitaru Narcis în funcţia de subprefect al judeţului Bacău | [`hg/2021/213/`](hg/2021/213/) | in force | 1 | 2021-03-03 | 2021-03-03 |
+| Hotărârea Guvernului nr. 214/2021 privind numirea doamnei Lungu Tudoriţa în funcţia de subprefect al judeţului Bacău | [`hg/2021/214/`](hg/2021/214/) | in force | 1 | 2021-03-03 | 2021-03-03 |
+| Hotărârea Guvernului nr. 215/2021 privind numirea domnului Palaghianu Daniel-Cristian în funcţia de subprefect al judeţului Bihor | [`hg/2021/215/`](hg/2021/215/) | in force | 1 | 2021-03-03 | 2021-03-03 |
+| Hotărârea Guvernului nr. 216/2021 privind numirea domnului Botházy Nándor în funcţia de subprefect al judeţului Bihor | [`hg/2021/216/`](hg/2021/216/) | in force | 1 | 2021-03-03 | 2021-03-03 |
+| Hotărârea Guvernului nr. 217/2021 privind numirea domnului Toth Attila-Lorand în funcţia de subprefect al judeţului Bistriţa-Năsăud | [`hg/2021/217/`](hg/2021/217/) | in force | 1 | 2021-03-03 | 2021-03-03 |
+| Hotărârea Guvernului nr. 228/2021 privind numirea domnului Ştefan Georgică în funcţia de subprefect al judeţului Călăraşi | [`hg/2021/228/`](hg/2021/228/) | in force | 1 | 2021-03-03 | 2021-03-03 |
+| Hotărârea Guvernului nr. 229/2021 privind numirea doamnei Sălcudean Camelia în funcţia de subprefect al judeţului Cluj | [`hg/2021/229/`](hg/2021/229/) | in force | 1 | 2021-03-03 | 2021-03-03 |
+| Hotărârea Guvernului nr. 231/2021 privind numirea doamnei Suliman Secyl în funcţia de subprefect al judeţului Constanţa | [`hg/2021/231/`](hg/2021/231/) | in force | 1 | 2021-03-03 | 2021-03-03 |
+| Hotărârea Guvernului nr. 232/2021 privind numirea domnului Vîlcu Mihai în funcţia de subprefect al judeţului Constanţa | [`hg/2021/232/`](hg/2021/232/) | in force | 1 | 2021-03-03 | 2021-03-03 |
+| Hotărârea Guvernului nr. 233/2021 privind numirea domnului Dulanyi-Balogh Szilard în funcţia de subprefect al judeţului Covasna | [`hg/2021/233/`](hg/2021/233/) | in force | 1 | 2021-03-03 | 2021-03-03 |
+| Hotărârea Guvernului nr. 234/2021 privind numirea doamnei Manea Marinela-Daniela în funcţia de subprefect al judeţului Dâmboviţa | [`hg/2021/234/`](hg/2021/234/) | in force | 1 | 2021-03-03 | 2021-03-03 |
+| Hotărârea Guvernului nr. 235/2021 privind numirea domnului Dumitrescu Iustin în funcţia de subprefect al judeţului Dolj | [`hg/2021/235/`](hg/2021/235/) | in force | 1 | 2021-03-03 | 2021-03-03 |
+| Hotărârea Guvernului nr. 236/2021 privind numirea domnului Sirop Flavius-Adrian în funcţia de subprefect al judeţului Dolj | [`hg/2021/236/`](hg/2021/236/) | in force | 1 | 2021-03-03 | 2021-03-03 |
 | Hotărârea Guvernului nr. 237/2021 privind numirea domnului Cristea Paul în funcţia de subprefect al judeţului Galaţi | [`hg/2021/237/`](hg/2021/237/) | in force | 1 | 2021-03-03 | 2021-03-03 |
 | Hotărârea Guvernului nr. 238/2021 privind numirea doamnei Costache Andra-Mihaela în funcţia de subprefect al judeţului Galaţi | [`hg/2021/238/`](hg/2021/238/) | in force | 1 | 2021-03-03 | 2021-03-03 |
 | Hotărârea Guvernului nr. 239/2021 privind numirea domnului Brăgaru Mirel-Dragoş în funcţia de subprefect al judeţului Giurgiu | [`hg/2021/239/`](hg/2021/239/) | in force | 1 | 2021-03-03 | 2021-03-03 |
 | Hotărârea Guvernului nr. 240/2021 privind numirea domnului Alexandru Ionuţ-Ciprian în funcţia de subprefect al judeţului Giurgiu | [`hg/2021/240/`](hg/2021/240/) | in force | 1 | 2021-03-03 | 2021-03-03 |
 | Hotărârea Guvernului nr. 242/2021 privind numirea domnului Drăguşin Virgil în funcţia de subprefect al judeţului Gorj | [`hg/2021/242/`](hg/2021/242/) | in force | 1 | 2021-03-03 | 2021-03-03 |
 | Hotărârea Guvernului nr. 243/2021 privind numirea domnului Ţepeluş Marius în funcţia de subprefect al judeţului Harghita | [`hg/2021/243/`](hg/2021/243/) | in force | 1 | 2021-03-03 | 2021-03-03 |
+| Hotărârea Guvernului nr. 244/2021 privind numirea domnului Petres Sándor în funcţia de subprefect al judeţului Harghita | [`hg/2021/244/`](hg/2021/244/) | in force | 1 | 2021-03-03 | 2021-03-03 |
+| Hotărârea Guvernului nr. 245/2021 privind numirea doamnei Biriş Oana-Andreea în funcţia de subprefect al judeţului Hunedoara | [`hg/2021/245/`](hg/2021/245/) | in force | 1 | 2021-03-03 | 2021-03-03 |
+| Hotărârea Guvernului nr. 246/2021 privind numirea domnului Széll Lörincz în funcţia de subprefect al judeţului Hunedoara | [`hg/2021/246/`](hg/2021/246/) | in force | 1 | 2021-03-03 | 2021-03-03 |
 | Hotărârea Guvernului nr. 257/2021 privind numirea domnului Nagy Zsigmond în funcţia de subprefect al judeţului Mureş | [`hg/2021/257/`](hg/2021/257/) | in force | 1 | 2021-03-03 | 2021-03-03 |
 | Hotărârea Guvernului nr. 258/2021 privind numirea domnului Meraru Ioan în funcţia de subprefect al judeţului Neamţ | [`hg/2021/258/`](hg/2021/258/) | in force | 1 | 2021-03-03 | 2021-03-03 |
 | Hotărârea Guvernului nr. 259/2021 privind numirea domnului Zaharia Florin în funcţia de subprefect al judeţului Neamţ | [`hg/2021/259/`](hg/2021/259/) | in force | 1 | 2021-03-03 | 2021-03-03 |
@@ -10851,6 +10886,7 @@
 | Hotărârea Guvernului nr. 141/2026 pentru modificarea şi completarea Hotărârii Guvernului nr. 1.571/2022 privind stabilirea cadrului general de implementare a intervenţiilor aferente sectoarelor vegetal şi zootehnic din cadrul Planului strategic PAC 2023-2027, finanţate din Fondul european de garantare agricolă şi de la bugetul de stat | [`hg/2026/141/`](hg/2026/141/) | amending act | 1 | 2026-03-16 | 2026-03-16 |
 | Hotărârea Guvernului nr. 182/2026 pentru modificarea şi completarea Normelor metodologice de aplicare a Legii nr. 200/2006 privind constituirea şi utilizarea Fondului de garantare pentru plata creanţelor salariale, aprobate prin Hotărârea Guvernului nr. 1.850/2006 | [`hg/2026/182/`](hg/2026/182/) | amending act | 1 | 2026-03-30 | 2026-03-30 |
 | Hotărârea Guvernului nr. 219/2026 pentru modificarea Hotărârii Guvernului nr. 52/2018 privind organizarea şi funcţionarea Ministerului Investiţiilor şi Proiectelor Europene | [`hg/2026/219/`](hg/2026/219/) | amending act | 1 | 2026-04-21 | 2026-04-21 |
+| Hotărârea Guvernului nr. 234/2026 privind acordarea cetăţeniei române domnului T. J. F. L | [`hg/2026/234/`](hg/2026/234/) | in force | 1 | 2026-04-23 | 2026-04-23 |
 | Hotărârea Guvernului nr. 372/2026 privind modificarea Hotărârii Guvernului nr. 936/2020 pentru aprobarea cadrului general necesar în vederea implicării autorităţilor şi instituţiilor din România în procesul de programare şi negociere a fondurilor externe nerambursabile aferente perioadei de programare 2021-2027 şi a cadrului instituţional de coordonare, gestionare şi control al acestor fonduri | [`hg/2026/372/`](hg/2026/372/) | amending act | 1 | 2026-05-05 | 2026-05-05 |
 | Hotărârea Guvernului nr. 419/2026 pentru completarea Hotărârii Guvernului nr. 29/2018 pentru stabilirea criteriilor pe baza cărora se aplică majorarea prevăzută la art. 17 alin. (1 )-( 2^1) din Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice | [`hg/2026/419/`](hg/2026/419/) | amending act | 1 | 2026-06-05 | 2026-06-05 |
 | Hotărârea Guvernului nr. 449/2026 privind modificarea Hotărârii Guvernului nr. 60/1995 privind organizarea şi funcţionarea Regiei Autonome "Rasirom" | [`hg/2026/449/`](hg/2026/449/) | amending act | 1 | 2026-06-10 | 2026-06-10 |
@@ -10860,6 +10896,7 @@
 | Hotărârea Guvernului nr. 679/2026 pentru modificarea şi completarea Hotărârii Guvernului nr. 1.756/2006 privind limitarea nivelului emisiilor de zgomot în mediu produs de echipamente destinate utilizării în exteriorul clădirilor | [`hg/2026/679/`](hg/2026/679/) | amending act | 1 | 2026-08-31 | 2026-08-31 |
 | Hotărârea Guvernului nr. 689/2026 pentru completarea Hotărârii Guvernului nr. 30/2017 privind organizarea şi funcţionarea Ministerului Agriculturii şi Dezvoltării Rurale, precum şi pentru modificarea art. 6 alin. (6) din Hotărârea Guvernului nr. 1.186/2014 privind organizarea şi funcţionarea Autorităţii pentru Administrarea Sistemului Naţional Antigrindină şi de Creştere a Precipitaţiilor | [`hg/2026/689/`](hg/2026/689/) | amending act | 1 | 2026-08-31 | 2026-08-31 |
 | Hotărârea Guvernului nr. 700/2026 pentru modificarea Hotărârii Guvernului nr. 16/2017 privind organizarea şi funcţionarea Ministerului Afacerilor Externe | [`hg/2026/700/`](hg/2026/700/) | amending act | 1 | 2026-09-04 | 2026-09-04 |
+| Hotărârea Guvernului nr. 738/2026 privind modificarea Hotărârii Guvernului nr. 732/2025 pentru aprobarea Metodologiei-cadru de acordare a burselor şi cuantumul acestora | [`hg/2026/738/`](hg/2026/738/) | amending act | 1 | 2026-09-21 | 2026-09-21 |
 | Hotărârea Guvernului nr. 822/2026 pentru modificarea şi completarea Hotărârii Guvernului nr. 824/2015 privind stabilirea condiţiilor pentru punerea la dispoziţie pe piaţă a recipientelor simple sub presiune | [`hg/2026/822/`](hg/2026/822/) | amending act | 1 | 2026-10-15 | 2026-10-15 |
 | Hotărârea Guvernului nr. 823/2026 pentru modificarea şi completarea Hotărârii Guvernului nr. 410/2016 privind stabilirea condiţiilor pentru introducerea pe piaţă sau punerea în funcţiune a ascensoarelor şi pentru punerea la dispoziţie pe piaţă a componentelor de siguranţă pentru ascensoare | [`hg/2026/823/`](hg/2026/823/) | amending act | 1 | 2026-10-14 | 2026-10-14 |
 | Hotărârea Guvernului nr. 824/2026 pentru modificarea şi completarea Hotărârii Guvernului nr. 123/2015 privind stabilirea condiţiilor pentru punerea la dispoziţie pe piaţă a echipamentelor sub presiune | [`hg/2026/824/`](hg/2026/824/) | amending act | 1 | 2026-10-13 | 2026-10-13 |
