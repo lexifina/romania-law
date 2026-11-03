@@ -1,6 +1,6 @@
 # Every act in this repository
 
-15194 acts, 28,814 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+15195 acts, 28,815 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (2651, of which 1302 amending acts)
+## Laws (legi) (2652, of which 1303 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -1412,6 +1412,7 @@
 | Legea nr. 30/2019 pentru aprobarea Ordonanței de urgență a Guvernului nr. 25/2018 privind modificarea și completarea unor acte normative, precum și pentru aprobarea unor măsuri fiscal-bugetare | [`lege/2019/30/`](lege/2019/30/) | amending act | 2 | 2019-01-20 | 2019-04-01 |
 | Legea nr. 31/2019 privind aprobarea Ordonanței de urgență a Guvernului nr. 74/2018 pentru modificarea și completarea Legii nr. 211/2011 privind regimul deșeurilor, a Legii nr. 249/2015 privind modalitatea de gestionare a ambalajelor și a deșeurilor de ambalaje și a Ordonanței de urgență a Guvernului nr. 196/2005 privind Fondul pentru mediu | [`lege/2019/31/`](lege/2019/31/) | amending act | 1 | 2019-01-17 | 2019-01-17 |
 | Legea nr. 32/2019 | [`lege/2019/32/`](lege/2019/32/) | in force | 3 | 2019-01-24 | 2023-07-24 |
+| Legea nr. 34/2019 privind aprobarea Ordonanţei Guvernului nr. 13/2018 pentru completarea Ordonanţei de urgenţă a Guvernului nr. 40/2015 privind gestionarea financiară a fondurilor europene pentru perioada de programare 2014-2020 | [`lege/2019/34/`](lege/2019/34/) | amending act | 1 | 2019-01-24 | 2019-01-24 |
 | Legea nr. 35/2019 pentru modificarea și completarea Legii nr. 95/2006 privind reforma în domeniul sănătății | [`lege/2019/35/`](lege/2019/35/) | amending act | 2 | 2019-01-24 | 2019-07-02 |
 | Legea nr. 46/2019 privind modificarea art. 61 alin. (1) din Legea nr. 51/1995 pentru organizarea şi exercitarea profesiei de avocat | [`lege/2019/46/`](lege/2019/46/) | amending act | 1 | 2019-03-14 | 2019-03-14 |
 | Legea nr. 62/2019 privind activitatea consulară | [`lege/2019/62/`](lege/2019/62/) | in force | 3 | 2019-04-21 | 2024-01-14 |
