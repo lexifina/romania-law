@@ -64704,6 +64704,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/24149"
 },
 {
+"slug": "og-99-2000",
+"path": "og/2000/99",
+"kind": "og",
+"year": "2000",
+"number": "99",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța Guvernului nr. 99/2000",
+"short": "OG nr. 99/2000",
+"code": null,
+"status": "in force",
+"versions": 12,
+"from": "2000-10-01",
+"latest": "2024-12-12",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/24110"
+},
+{
 "slug": "og-101-2000",
 "path": "og/2000/101",
 "kind": "og",

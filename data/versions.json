@@ -71954,6 +71954,87 @@
    ]
   },
   {
+   "slug": "og-99-2000",
+   "path": "og/2000/99",
+   "short": "OG nr. 99/2000",
+   "title": "Ordonanța Guvernului nr. 99/2000",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/24110",
+   "versions": [
+    {
+     "from": "2000-10-01",
+     "units": 38,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/24110",
+     "sha256": "2cfd28354507fa3ae8615a63cef8c6334952cd6deb9c36509cd4523a73c961cc"
+    },
+    {
+     "from": "2001-01-01",
+     "units": 89,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/24110",
+     "sha256": "2cfd28354507fa3ae8615a63cef8c6334952cd6deb9c36509cd4523a73c961cc"
+    },
+    {
+     "from": "2002-12-16",
+     "units": 87,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42334",
+     "sha256": "8285b1d788def26d4e22bd2cd828fbb8d9ebedbc5f70e6f5adf1b954885132ea"
+    },
+    {
+     "from": "2007-08-31",
+     "units": 87,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/84943",
+     "sha256": "c722e56b773570bac69f41d14905d516b6f8c87a4bc6b5fd7c1cd430ba56970b"
+    },
+    {
+     "from": "2008-11-02",
+     "units": 88,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/99565",
+     "sha256": "21bacac1436c0e626b9e41108ac8d8d640dbd1b1fbf2b1d0635846aaa3e1cb48"
+    },
+    {
+     "from": "2010-05-13",
+     "units": 88,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/118795",
+     "sha256": "cb210fab859300fbcfeb8dc0b73a99883f8a38bce0de864a5d7f3799cb916939"
+    },
+    {
+     "from": "2012-06-07",
+     "units": 88,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/138820",
+     "sha256": "f183cafe6182f720cc492da6abe7bff73daac2787a63b90d56aad58fadc6a8df"
+    },
+    {
+     "from": "2013-07-04",
+     "units": 88,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/149443",
+     "sha256": "7d84d58201418268a996b9ca5c5f72ac1bab371a10203ccffbbd2b24baef4add"
+    },
+    {
+     "from": "2015-03-29",
+     "units": 88,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166736",
+     "sha256": "368b7bec08e99b0cc72cc61b701c418228c830e7eadcba87ac939f52273c97b1"
+    },
+    {
+     "from": "2020-12-08",
+     "units": 88,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/232445",
+     "sha256": "e9f79c74f4b77c9e9eca27ae35657beac6bc78ed752ac99ff91cf6bfd904e594"
+    },
+    {
+     "from": "2022-12-08",
+     "units": 88,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/261959",
+     "sha256": "7e5ced527fe9a5f1fa4fcd7760b3c28f3f3dfa7f078c45f9cd50c542adb12e76"
+    },
+    {
+     "from": "2024-12-12",
+     "units": 88,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/24110",
+     "sha256": "8044642a4410083bf197973cd3cf2a287f7dd4b52e27d4414a332a6072a84cb3"
+    }
+   ]
+  },
+  {
    "slug": "oug-1-1999",
    "path": "oug/1999/1",
    "short": "OUG nr. 1/1999",

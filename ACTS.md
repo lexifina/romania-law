@@ -1,6 +1,6 @@
 # Every act in this repository
 
-9418 acts, 22,754 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+9419 acts, 22,766 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -3741,7 +3741,7 @@
 | Ordonanța de urgență a Guvernului nr. 30/2026 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 23/2004 privind stabilirea unor măsuri de reorganizare a Autorităţii pentru Valorificarea Activelor Bancare prin comasarea prin absorbţie cu Autoritatea pentru Privatizare şi Administrarea Participaţiilor Statului | [`oug/2026/30/`](oug/2026/30/) | amending act | 1 | 2026-04-21 | 2026-04-21 |
 | Ordonanța de urgență a Guvernului nr. 33/2026 pentru modificarea şi completarea Legii educaţiei fizice şi sportului nr. 69/2000 | [`oug/2026/33/`](oug/2026/33/) | amending act | 1 | 2026-04-27 | 2026-04-27 |
 
-## Ordinances (OG) (492, of which 92 amending acts)
+## Ordinances (OG) (493, of which 92 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -3851,6 +3851,7 @@
 | Ordonanța Guvernului nr. 83/2000 | [`og/2000/83/`](og/2000/83/) | in force | 2 | 2000-09-01 | 2001-01-01 |
 | Ordonanța Guvernului nr. 89/2000 | [`og/2000/89/`](og/2000/89/) | in force | 8 | 2000-09-01 | 2018-10-02 |
 | Ordonanța Guvernului nr. 92/2000 | [`og/2000/92/`](og/2000/92/) | repealed 2014-02-01 | 5 | 2000-10-31 | 2014-02-01 |
+| Ordonanța Guvernului nr. 99/2000 | [`og/2000/99/`](og/2000/99/) | in force | 12 | 2000-10-01 | 2024-12-12 |
 | Ordonanța Guvernului nr. 101/2000 | [`og/2000/101/`](og/2000/101/) | in force | 1 | 2000-09-03 | 2000-09-03 |
 | Ordonanța Guvernului nr. 102/2000 privind statutul și regimul refugiatilor în România | [`og/2000/102/`](og/2000/102/) | repealed 2006-08-16 | 5 | 2000-11-02 | 2006-08-16 |
 | Ordonanța Guvernului nr. 109/2000 | [`og/2000/109/`](og/2000/109/) | in force | 3 | 2000-09-02 | 2006-11-26 |
