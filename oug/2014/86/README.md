@@ -38,4 +38,11 @@ Act id: `oug-86-2014` (tags `oug-86-2014/<day>`; `python tools/on.py <day> oug-8
 - OUG nr. 86/2014: the first version is the emergency ordinance as published in Monitorul Oficial nr. 920 of 17 December 2014 (DetaliiDocumentAfis/163931), dated 17 December 2014: an emergency ordinance with no day of its own, in force on publication (Constituția art. 115 alin. (5); Legea nr. 24/2000 art. 12 alin. (2)). The portal holds no consolidated form before 19 December 2014, so the changes made up to then arrive together that day.
 - OUG nr. 86/2014: the signature block after the last article (the signatories, the place, the date and the number) is not part of an article and is left out, as in every act of this record.
 - OUG nr. 86/2014: wording changes between forms that no note credits (typesetting, diacritics, misprints, renamed bodies) are the publisher's: no law is credited for them and each is dated by the first form that shows it.
-- OUG nr. 86/2014: 21 changed article(s) with no note naming a law, committed as the publisher's: 2015-11-28 art-005, 2015-11-28 art-013, 2015-11-28 art-019, 2015-11-28 art-021, 2016-08-31 art-005, 2016-08-31 art-013, 2016-08-31 art-019, 2016-08-31 art-021, 2017-05-05 art-005, 2017-05-05 art-008, 2017-05-05 art-013, 2017-05-05 art-018, 2017-05-05 art-019, 2017-05-05 art-020, 2017-05-05 art-021, 2017-05-05 art-022, 2017-07-01 art-005, 2017-07-01 art-008, 2017-07-01 art-018, 2017-07-01 art-019, 2017-07-01 art-021.
+- OUG nr. 86/2014: the form of 5 May 2017 changes art. 21 with no note at the article; the form's note gives the reason: Legea nr. 81/2017 (art. unic, Monitorul Oficial nr. 313 of 2 May 2017) rejects Ordonanța de urgență nr. 29/2015; credited to Legea nr. 81/2017 (flag form_credits).
+- OUG nr. 86/2014: 20 changed article(s) with no note naming a law, committed as the publisher's: 2015-11-28 art-005, 2015-11-28 art-013, 2015-11-28 art-019, 2015-11-28 art-021, 2016-08-31 art-005, 2016-08-31 art-013, 2016-08-31 art-019, 2016-08-31 art-021, 2017-05-05 art-005, 2017-05-05 art-008, 2017-05-05 art-013, 2017-05-05 art-018, 2017-05-05 art-019, 2017-05-05 art-020, 2017-05-05 art-022, 2017-07-01 art-005, 2017-07-01 art-008, 2017-07-01 art-018, 2017-07-01 art-019, 2017-07-01 art-021.
+
+## Credits corrected
+
+These changes were first published credited to another law. The words are unchanged; `git blame` still names the commit that wrote them, and `data/credits.csv` lists every corrected credit.
+
+- `art-021.md`, in force from 2017-05-05: Legea nr. 81/2017 (first published as no law named).
