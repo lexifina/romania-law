@@ -77063,6 +77063,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/203824"
 },
 {
+"slug": "og-29-2007",
+"path": "og/2007/29",
+"kind": "og",
+"year": "2007",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța Guvernului nr. 29/2007",
+"short": "OG nr. 29/2007",
+"code": null,
+"status": "in force",
+"versions": 5,
+"from": "2007-02-05",
+"latest": "2008-12-19",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/101274"
+},
+{
 "slug": "og-37-2007",
 "path": "og/2007/37",
 "kind": "og",
@@ -129659,6 +129676,23 @@
 "from": "2009-04-02",
 "latest": "2009-04-02",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/104214"
+},
+{
+"slug": "hg-442-2009",
+"path": "hg/2009/442",
+"kind": "hg",
+"year": "2009",
+"number": "442",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 442/2009",
+"short": "HG nr. 442/2009",
+"code": null,
+"status": "in force",
+"versions": 4,
+"from": "2009-05-14",
+"latest": "2011-12-30",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/136138"
 },
 {
 "slug": "hg-445-2009",

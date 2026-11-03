@@ -20255,6 +20255,39 @@
    ]
   },
   {
+   "slug": "hg-442-2009",
+   "path": "hg/2009/442",
+   "short": "HG nr. 442/2009",
+   "title": "Hotărârea Guvernului nr. 442/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/136138",
+   "versions": [
+    {
+     "from": "2009-05-14",
+     "units": 32,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/105765",
+     "sha256": "290c30f470e00eb43f40144251b99b6c1626f0aaffd6df65fa00b103c9fe64b7"
+    },
+    {
+     "from": "2009-11-19",
+     "units": 31,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/113753",
+     "sha256": "25f74e8b383c0b0f1149787646b5bee72a55f85e7e5acdcdcd13dedf63d08c3a"
+    },
+    {
+     "from": "2011-01-04",
+     "units": 34,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/136137",
+     "sha256": "410ed405922ae979b4021e2453fb9a9846277c35ecb0ffd9ddfb2bb60736b830"
+    },
+    {
+     "from": "2011-12-30",
+     "units": 35,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/136139",
+     "sha256": "d463df60e4a3a04e5350e77d8a50345086995e5708fffa249fb6d57f232e9d26"
+    }
+   ]
+  },
+  {
    "slug": "hg-444-2022",
    "path": "hg/2022/444",
    "short": "HG nr. 444/2022",
@@ -69397,6 +69430,45 @@
      "units": 16,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/141053",
      "sha256": "f5470934170317456f0363badeadf54a94fb892c8bcfecbdbc69d00f3f913053"
+    }
+   ]
+  },
+  {
+   "slug": "og-29-2007",
+   "path": "og/2007/29",
+   "short": "OG nr. 29/2007",
+   "title": "Ordonanța Guvernului nr. 29/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/101274",
+   "versions": [
+    {
+     "from": "2007-02-05",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/79174",
+     "sha256": "70011e317aef8ffa2705abdae16149c00ea53b28c2940b75144d5be42330ac79"
+    },
+    {
+     "from": "2007-07-28",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84080",
+     "sha256": "cd3cb680d52635efcef2ebb1579669fbc12ead59123f678dbdfb4acbbec4f997"
+    },
+    {
+     "from": "2008-04-08",
+     "units": 21,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/96017",
+     "sha256": "b44230bd61c1a9f37bbf88191987487eda7700a219d32e12aa1933178f52c09e"
+    },
+    {
+     "from": "2008-07-27",
+     "units": 21,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/96018",
+     "sha256": "6ef16bf1e81cddc7e6dfd42d13915a19692d5d89824ffa329f2229ee3de589b3"
+    },
+    {
+     "from": "2008-12-19",
+     "units": 21,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/101274",
+     "sha256": "45c497b73082116131d6a1fd77c0d26c43365cb30edaacd7b944e31e16411caf"
     }
    ]
   },

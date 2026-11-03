@@ -1,6 +1,6 @@
 # Every act in this repository
 
-14826 acts, 28,421 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+14828 acts, 28,430 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -4297,7 +4297,7 @@
 | Ordonanța de urgență a Guvernului nr. 33/2026 pentru modificarea şi completarea Legii educaţiei fizice şi sportului nr. 69/2000 | [`oug/2026/33/`](oug/2026/33/) | amending act | 1 | 2026-04-27 | 2026-04-27 |
 | Ordonanța de urgență a Guvernului nr. 37/2026 pentru modificarea şi completarea Legii nr. 333/2003 privind paza obiectivelor, bunurilor, valorilor şi protecţia persoanelor | [`oug/2026/37/`](oug/2026/37/) | amending act | 2 | 2026-05-06 | 2026-06-05 |
 
-## Ordinances (OG) (517, of which 103 amending acts)
+## Ordinances (OG) (518, of which 103 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -4579,6 +4579,7 @@
 | Ordonanța Guvernului nr. 22/2007 | [`og/2007/22/`](og/2007/22/) | in force | 16 | 2007-02-12 | 2020-04-28 |
 | Ordonanța Guvernului nr. 25/2007 | [`og/2007/25/`](og/2007/25/) | in force | 2 | 2007-02-05 | 2007-06-21 |
 | Ordonanța Guvernului nr. 28/2007 | [`og/2007/28/`](og/2007/28/) | in force | 3 | 2007-02-05 | 2011-11-30 |
+| Ordonanța Guvernului nr. 29/2007 | [`og/2007/29/`](og/2007/29/) | in force | 5 | 2007-02-05 | 2008-12-19 |
 | Ordonanța Guvernului nr. 37/2007 | [`og/2007/37/`](og/2007/37/) | in force | 12 | 2007-08-19 | 2025-02-03 |
 | Ordonanța Guvernului nr. 39/2007 | [`og/2007/39/`](og/2007/39/) | repealed 2022-02-03 | 3 | 2007-09-26 | 2022-02-03 |
 | Ordonanța Guvernului nr. 41/2007 | [`og/2007/41/`](og/2007/41/) | in force | 6 | 2007-09-07 | 2025-10-02 |
@@ -4819,7 +4820,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (10016, of which 4626 amending acts)
+## Government decisions (HG) (10017, of which 4626 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -7678,6 +7679,7 @@
 | Hotărârea Guvernului nr. 374/2009 privind stabilirea datei alegerilor locale parţiale pentru alegerea unui consiliu local şi a unor primari | [`hg/2009/374/`](hg/2009/374/) | in force | 1 | 2009-04-03 | 2009-04-03 |
 | Hotărârea Guvernului nr. 377/2009 privind aplicarea mobilităţii pentru domnul Dezsi Attila din funcţia publică de subprefect al judeţului Hunedoara în funcţia publică de inspector guvernamental | [`hg/2009/377/`](hg/2009/377/) | in force | 1 | 2009-04-02 | 2009-04-02 |
 | Hotărârea Guvernului nr. 378/2009 privind exercitarea, cu caracter temporar, a funcţiei publice de subprefect al judeţului Hunedoara de către domnul Inişconi Ioan | [`hg/2009/378/`](hg/2009/378/) | in force | 1 | 2009-04-02 | 2009-04-02 |
+| Hotărârea Guvernului nr. 442/2009 | [`hg/2009/442/`](hg/2009/442/) | in force | 4 | 2009-05-14 | 2011-12-30 |
 | Hotărârea Guvernului nr. 445/2009 | [`hg/2009/445/`](hg/2009/445/) | repealed 2019-01-09 | 3 | 2009-09-11 | 2019-01-09 |
 | Hotărârea Guvernului nr. 458/2009 pentru modificarea Hotărârii Guvernului nr. 368/1998 privind înființarea Institutului Național de Expertize Criminalistice - I.N.E.C. | [`hg/2009/458/`](hg/2009/458/) | amending act | 1 | 2009-04-28 | 2009-04-28 |
 | Hotărârea Guvernului nr. 519/2009 | [`hg/2009/519/`](hg/2009/519/) | in force | 2 | 2009-05-18 | 2012-10-05 |
