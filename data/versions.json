@@ -12182,6 +12182,33 @@
    ]
   },
   {
+   "slug": "hg-1194-2008",
+   "path": "hg/2008/1194",
+   "short": "HG nr. 1194/2008",
+   "title": "Hotărârea Guvernului nr. 1194/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/113785",
+   "versions": [
+    {
+     "from": "2008-10-06",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/97815",
+     "sha256": "3368856aa601014a2c8d9c37c3837fa922c230a4b29343f8ba9c6195b253173b"
+    },
+    {
+     "from": "2009-05-12",
+     "units": 22,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/106196",
+     "sha256": "e670380980057a26c11b1c9574d7889cfc492ed4c3a8e1ccb1df5cbb9576b2d5"
+    },
+    {
+     "from": "2009-11-19",
+     "units": 21,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/113785",
+     "sha256": "739bd430c05f9d79517dac1825a86a032ce8c79cdf526ac7440a9b456f756eff"
+    }
+   ]
+  },
+  {
    "slug": "hg-1197-2021",
    "path": "hg/2021/1197",
    "short": "HG nr. 1197/2021",
@@ -24082,6 +24109,33 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/182251",
      "sha256": "e25ecd8560c2e6e968689e64c3c775657dd8f353c80b929e56f2656dc4eadbbd"
+    }
+   ]
+  },
+  {
+   "slug": "hg-67-2005",
+   "path": "hg/2005/67",
+   "short": "HG nr. 67/2005",
+   "title": "Hotărârea Guvernului nr. 67/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/119141",
+   "versions": [
+    {
+     "from": "2005-02-07",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/59069",
+     "sha256": "ff225fe621bed85419cdbaf1720faa6abea59eb797df12ec582a6b86fda97ee6"
+    },
+    {
+     "from": "2005-08-17",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119140",
+     "sha256": "a41c291d367d18f491f42e562831fe91163f0ca24c5c4ecf459bbf8645ec926b"
+    },
+    {
+     "from": "2009-12-04",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119142",
+     "sha256": "c27d3dd3fcb3e1a41da0602c7212a8e3ef861a8c1135d6136173073747825719"
     }
    ]
   },
@@ -118388,6 +118442,21 @@
    ]
   },
   {
+   "slug": "hg-1216-2007",
+   "path": "hg/2007/1216",
+   "short": "HG nr. 1216/2007",
+   "title": "Hotărârea Guvernului nr. 1216/2007 pentru aprobarea Memorandumului de înţelegere dintre Ministerul Mediului şi Dezvoltării Durabile şi Programul Naţiunilor Unite pentru Dezvoltare în România privind revizuirea Strategiei naţionale pentru dezvoltare durabilă, având în vedere obiectivele Strategiei revizuite pentru dezvoltare durabilă a Uniunii Europene, semnat la Bucureşti la 28 august 2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86539",
+   "versions": [
+    {
+     "from": "2007-10-31",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86539",
+     "sha256": "32e56fad074c463aea7a986a07365d5f784b2a9a424a7b3e384523d203bde924"
+    }
+   ]
+  },
+  {
    "slug": "hg-1216-2021",
    "path": "hg/2021/1216",
    "short": "HG nr. 1216/2021",
@@ -120319,6 +120388,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/277419",
      "sha256": "307576a6fa7f565d522b709f95c1cdcf694cd056c8a5b622678fa45832455a1d"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1244-2007",
+   "path": "hg/2007/1244",
+   "short": "HG nr. 1244/2007",
+   "title": "Hotărârea Guvernului nr. 1244/2007 pentru aprobarea Înţelegerii tehnice dintre Ministerul Apărării din România şi ministrul apărării din Regatul Ţărilor de Jos privind schimbul de materiale şi date geografice şi cooperarea în domeniul geografiei militare, semnată la Bruxelles la 26 iunie 2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86586",
+   "versions": [
+    {
+     "from": "2007-11-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86586",
+     "sha256": "ea3ba90d55e61f92e535b2b2fdb88561188cc29c6039148b6e116c09ad6e7ee6"
     }
    ]
   },
@@ -123383,6 +123467,21 @@
    ]
   },
   {
+   "slug": "hg-1283-2007",
+   "path": "hg/2007/1283",
+   "short": "HG nr. 1283/2007",
+   "title": "Hotărârea Guvernului nr. 1283/2007 pentru aprobarea Convenţiei administrative dintre Ministerul Internelor şi Reformei Administrative al României şi Ministerul Federal de Interne al Republicii Austria privind modalităţi practice de aplicare simplificată a Regulamentului (CE) nr. 343/2003 al Consiliului din 18 februarie 2003 referitor la stabilirea criteriilor şi mecanismelor pentru determinarea statului membru responsabil pentru examinarea cererii de azil depuse în unul dintre statele membre de un cetăţean al unei ţări terţe, semnată la Innsbruck la 13 iulie 2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86656",
+   "versions": [
+    {
+     "from": "2007-11-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86656",
+     "sha256": "0d3ac492e30abcf26473c7e541e444c6323718b67280150ac0da7d12095beeee"
+    }
+   ]
+  },
+  {
    "slug": "hg-1283-2008",
    "path": "hg/2008/1283",
    "short": "HG nr. 1283/2008",
@@ -123959,6 +124058,21 @@
    ]
   },
   {
+   "slug": "hg-1290-2007",
+   "path": "hg/2007/1290",
+   "short": "HG nr. 1290/2007",
+   "title": "Hotărârea Guvernului nr. 1290/2007 pentru modificarea art. 5 alin. (3) din Hotărârea Guvernului nr. 557/2006 privind stabilirea datei de la care se pun în circulaţie paşapoartele electronice, precum şi a formei şi conţinutului acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86481",
+   "versions": [
+    {
+     "from": "2007-10-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86481",
+     "sha256": "c3949fb7be375a63dc78a535c3f6252652dbb9ba427447fb338dfe0441dce48e"
+    }
+   ]
+  },
+  {
    "slug": "hg-1290-2008",
    "path": "hg/2008/1290",
    "short": "HG nr. 1290/2008",
@@ -124169,6 +124283,21 @@
    ]
   },
   {
+   "slug": "hg-1293-2007",
+   "path": "hg/2007/1293",
+   "short": "HG nr. 1293/2007",
+   "title": "Hotărârea Guvernului nr. 1293/2007 privind aprobarea unei licenţe de concesiune a activităţii miniere de exploatare, încheiată între Agenţia Naţională pentru Resurse Minerale şi Societatea Naţională a Lignitului \"Oltenia\" - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86546",
+   "versions": [
+    {
+     "from": "2007-10-31",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86546",
+     "sha256": "dabf2d4d5daf207711b20c909fd52aeaf9ace855e82181ee1a8b5c897c8e8c60"
+    }
+   ]
+  },
+  {
    "slug": "hg-1293-2008",
    "path": "hg/2008/1293",
    "short": "HG nr. 1293/2008",
@@ -124259,6 +124388,21 @@
    ]
   },
   {
+   "slug": "hg-1295-2007",
+   "path": "hg/2007/1295",
+   "short": "HG nr. 1295/2007",
+   "title": "Hotărârea Guvernului nr. 1295/2007 privind aprobarea unei licenţe de concesiune a activităţii miniere de exploatare, încheiată între Agenţia Naţională pentru Resurse Minerale şi Societatea Naţională a Lignitului \"Oltenia\" - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86549",
+   "versions": [
+    {
+     "from": "2007-10-31",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86549",
+     "sha256": "0fb34fd20cb555b5f2e95e3796f7c904e7ca42b7a508b664328001e02fe9fbf7"
+    }
+   ]
+  },
+  {
    "slug": "hg-1295-2021",
    "path": "hg/2021/1295",
    "short": "HG nr. 1295/2021",
@@ -124285,6 +124429,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/277629",
      "sha256": "72c3b0b64a19d141185d4f5d9bd9def3847221ca4fefbb05c5c7b4cdfb2ca094"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1296-2007",
+   "path": "hg/2007/1296",
+   "short": "HG nr. 1296/2007",
+   "title": "Hotărârea Guvernului nr. 1296/2007 privind aprobarea unei licenţe de concesiune a activităţii miniere de exploatare, încheiată între Agenţia Naţională pentru Resurse Minerale şi Societatea Naţională a Lignitului \"Oltenia\" - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86550",
+   "versions": [
+    {
+     "from": "2007-10-31",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86550",
+     "sha256": "b69679600528d7637d11089c16873faaf3b5dc234ab7c1c60f34dea53fa3c690"
     }
    ]
   },
@@ -124379,6 +124538,21 @@
    ]
   },
   {
+   "slug": "hg-1297-2007",
+   "path": "hg/2007/1297",
+   "short": "HG nr. 1297/2007",
+   "title": "Hotărârea Guvernului nr. 1297/2007 privind aprobarea unei licenţe de concesiune a activităţii miniere de exploatare, încheiată între Agenţia Naţională pentru Resurse Minerale şi Societatea Naţională a Lignitului \"Oltenia\" - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86551",
+   "versions": [
+    {
+     "from": "2007-10-31",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86551",
+     "sha256": "74f26e1a09a3ac5a7271df2015385a81f24d3b1fbcaa8358bc69ffec434496e0"
+    }
+   ]
+  },
+  {
    "slug": "hg-1297-2022",
    "path": "hg/2022/1297",
    "short": "HG nr. 1297/2022",
@@ -124405,6 +124579,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/277631",
      "sha256": "42a6e050628b6fb5611e8d5869075b33eedc6104c47429cea0664c7b80ee243f"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1298-2007",
+   "path": "hg/2007/1298",
+   "short": "HG nr. 1298/2007",
+   "title": "Hotărârea Guvernului nr. 1298/2007 privind aprobarea unei licenţe de concesiune a activităţii miniere de exploatare, încheiată între Agenţia Naţională pentru Resurse Minerale şi Societatea Naţională a Lignitului \"Oltenia\" - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86552",
+   "versions": [
+    {
+     "from": "2007-10-31",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86552",
+     "sha256": "7f207ac1012ce09b66a532b38422098b5a4d8db11e68f3133d0be46e0d301947"
     }
    ]
   },
@@ -124450,6 +124639,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/260776",
      "sha256": "447fa6d5e33ad322061a255183a6018148507fe68ce983d9dc318e9d0930a29e"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1299-2007",
+   "path": "hg/2007/1299",
+   "short": "HG nr. 1299/2007",
+   "title": "Hotărârea Guvernului nr. 1299/2007 privind aprobarea unei licenţe de concesiune a activităţii miniere de exploatare, încheiată între Agenţia Naţională pentru Resurse Minerale şi Societatea Naţională a Lignitului \"Oltenia\" - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86553",
+   "versions": [
+    {
+     "from": "2007-10-31",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86553",
+     "sha256": "646aa18e8c30e57173249ba5631cdab72369bbb6136488a5a991dc1afb517cb2"
     }
    ]
   },
@@ -124709,6 +124913,21 @@
    ]
   },
   {
+   "slug": "hg-1300-2007",
+   "path": "hg/2007/1300",
+   "short": "HG nr. 1300/2007",
+   "title": "Hotărârea Guvernului nr. 1300/2007 privind aprobarea unei licenţe de concesiune a activităţii miniere de exploatare, încheiată între Agenţia Naţională pentru Resurse Minerale şi Societatea Naţională a Lignitului \"Oltenia\" - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86554",
+   "versions": [
+    {
+     "from": "2007-10-31",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86554",
+     "sha256": "21fbcc655069fa48132c77928f3d0f4e9e6ba128a14a760db908c48ae9320249"
+    }
+   ]
+  },
+  {
    "slug": "hg-1300-2021",
    "path": "hg/2021/1300",
    "short": "HG nr. 1300/2021",
@@ -124844,6 +125063,21 @@
    ]
   },
   {
+   "slug": "hg-1302-2007",
+   "path": "hg/2007/1302",
+   "short": "HG nr. 1302/2007",
+   "title": "Hotărârea Guvernului nr. 1302/2007 pentru modificarea Hotărârii Guvernului nr. 573/2007 privind înfiinţarea, organizarea şi funcţionarea Consiliului Interministerial de Avizare Lucrări Publice de Interes Naţional şi Locuinţe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86543",
+   "versions": [
+    {
+     "from": "2007-10-31",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86543",
+     "sha256": "fee20ba6ccfeab909ae18e6fcc035566aac631ebc720cfc256c1133491142302"
+    }
+   ]
+  },
+  {
    "slug": "hg-1302-2021",
    "path": "hg/2021/1302",
    "short": "HG nr. 1302/2021",
@@ -124889,6 +125123,21 @@
    ]
   },
   {
+   "slug": "hg-1303-2007",
+   "path": "hg/2007/1303",
+   "short": "HG nr. 1303/2007",
+   "title": "Hotărârea Guvernului nr. 1303/2007 pentru completarea Regulamentului de recepţie a lucrărilor de construcţii şi instalaţii aferente acestora, aprobat prin Hotărârea Guvernului nr. 273/1994",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86544",
+   "versions": [
+    {
+     "from": "2007-10-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86544",
+     "sha256": "ab9952d11bdbccd3d83afd2344bb2f9421a333b1e2fb7a521101e73b3dcf3292"
+    }
+   ]
+  },
+  {
    "slug": "hg-1303-2008",
    "path": "hg/2008/1303",
    "short": "HG nr. 1303/2008",
@@ -124930,6 +125179,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/289995",
      "sha256": "c7bf4eb5ad927aa2459708004761c24d4d5ae17db2a34ff6525fca9585343b7c"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1304-2007",
+   "path": "hg/2007/1304",
+   "short": "HG nr. 1304/2007",
+   "title": "Hotărârea Guvernului nr. 1304/2007 pentru completarea Hotărârii Guvernului nr. 687/1997 privind contractarea şi garantarea de către Guvern a unor credite pentru realizarea unor programe guvernamentale privind pietruirea drumurilor comunale, alimentarea cu apă a satelor, asigurarea cu locuinţe sociale, refacerea şi dezvoltarea infrastructurii în intravilanul localităţilor rurale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86548",
+   "versions": [
+    {
+     "from": "2007-10-31",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86548",
+     "sha256": "532e8ab19b5ee6dcdc064824f66ca295dd5a8bc1cf4d441391c631d6545995f5"
     }
    ]
   },
@@ -125210,6 +125474,21 @@
    ]
   },
   {
+   "slug": "hg-1309-2007",
+   "path": "hg/2007/1309",
+   "short": "HG nr. 1309/2007",
+   "title": "Hotărârea Guvernului nr. 1309/2007 privind înscrierea unor imobile în inventarul centralizat al bunurilor din domeniul public al statului şi transmiterea acestor imobile din domeniul public al statului şi din administrarea Consiliului Local al Oraşului Ocna Sibiului în domeniul public al oraşului Ocna Sibiului şi în administrarea Consiliului Local al Oraşului Ocna Sibiului, judeţul Sibiu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86582",
+   "versions": [
+    {
+     "from": "2007-11-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86582",
+     "sha256": "74e351cc0c1df40c1a29d2abdbf1b98285c81aa5f86a6cb61cfe79ba4691ed11"
+    }
+   ]
+  },
+  {
    "slug": "hg-1309-2008",
    "path": "hg/2008/1309",
    "short": "HG nr. 1309/2008",
@@ -125462,6 +125741,21 @@
    ]
   },
   {
+   "slug": "hg-1312-2007",
+   "path": "hg/2007/1312",
+   "short": "HG nr. 1312/2007",
+   "title": "Hotărârea Guvernului nr. 1312/2007 privind organizarea la Bucureşti, în perioada 1-3 noiembrie 2007, a celei de-a XXXII-a ediţii a Sesiunii de comunicări ştiinţifice cu participare internaţională \"Tehnologii moderne în secolul XXI\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86522",
+   "versions": [
+    {
+     "from": "2007-10-31",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86522",
+     "sha256": "c3d0db4b4dd66a28cc2386269375fc90c258a53bb5eef86a439ef66bc507eeef"
+    }
+   ]
+  },
+  {
    "slug": "hg-1312-2008",
    "path": "hg/2008/1312",
    "short": "HG nr. 1312/2008",
@@ -125488,6 +125782,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/250104",
      "sha256": "261bb46aca375b82b56f8efa47c4def6cf2966812ea558b355619b2e6b28686d"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1313-2007",
+   "path": "hg/2007/1313",
+   "short": "HG nr. 1313/2007",
+   "title": "Hotărârea Guvernului nr. 1313/2007 privind contribuţia României la bugetul Fundaţiei Euro-Mediteraneene \"Anna Lindh\" pentru Dialogul între Civilizaţii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86578",
+   "versions": [
+    {
+     "from": "2007-11-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86578",
+     "sha256": "e869249e50ad2cc8cdc6dcbe13aec2246dc7b56d646ec3becda089a3bb504b93"
     }
    ]
   },
@@ -125798,6 +126107,21 @@
    ]
   },
   {
+   "slug": "hg-1319-2007",
+   "path": "hg/2007/1319",
+   "short": "HG nr. 1319/2007",
+   "title": "Hotărârea Guvernului nr. 1319/2007 pentru modificarea şi completarea Hotărârii Guvernului nr. 590/2007 privind stabilirea funcţiei şi a coeficientului de ierarhizare pentru determinarea salariului în valută al reprezentantului României în Consiliul Organizaţiei Aviaţiei Civile Internaţionale (OACI), precum şi aprobarea cheltuielilor generate de alegerea României în Consiliul OACI, pentru perioada 2007-2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86560",
+   "versions": [
+    {
+     "from": "2007-10-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86560",
+     "sha256": "157e2b254a026aa894600649ebc0ce37b24703c41cbe3771cfa7300123bbca78"
+    }
+   ]
+  },
+  {
    "slug": "hg-1319-2008",
    "path": "hg/2008/1319",
    "short": "HG nr. 1319/2008",
@@ -126053,6 +126377,21 @@
    ]
   },
   {
+   "slug": "hg-1322-2007",
+   "path": "hg/2007/1322",
+   "short": "HG nr. 1322/2007",
+   "title": "Hotărârea Guvernului nr. 1322/2007 privind redobândirea cetăţeniei române de către unele persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86646",
+   "versions": [
+    {
+     "from": "2007-11-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86646",
+     "sha256": "e92549f59b32b4e1f0bc56e3676b6e4133f5a70028519a89dca2fec600ff7fff"
+    }
+   ]
+  },
+  {
    "slug": "hg-1322-2008",
    "path": "hg/2008/1322",
    "short": "HG nr. 1322/2008",
@@ -126203,6 +126542,21 @@
    ]
   },
   {
+   "slug": "hg-1325-2007",
+   "path": "hg/2007/1325",
+   "short": "HG nr. 1325/2007",
+   "title": "Hotărârea Guvernului nr. 1325/2007 privind stabilirea măsurilor pentru organizarea şi desfăşurarea referendumului naţional din data de 25 noiembrie 2007 privind introducerea votului uninominal pentru alegerea membrilor Parlamentului României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86584",
+   "versions": [
+    {
+     "from": "2007-11-01",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86584",
+     "sha256": "7509a0b3eec38a35b52bf291fc72e9380bbd390652117f758a3d2cc1701bad91"
+    }
+   ]
+  },
+  {
    "slug": "hg-1325-2008",
    "path": "hg/2008/1325",
    "short": "HG nr. 1325/2008",
@@ -126263,6 +126617,21 @@
    ]
   },
   {
+   "slug": "hg-1326-2007",
+   "path": "hg/2007/1326",
+   "short": "HG nr. 1326/2007",
+   "title": "Hotărârea Guvernului nr. 1326/2007 privind aprobarea Programului calendaristic pentru realizarea acţiunilor referitoare la organizarea şi desfăşurarea referendumului naţional din data de 25 noiembrie 2007 privind introducerea votului uninominal pentru alegerea membrilor Parlamentului României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86601",
+   "versions": [
+    {
+     "from": "2007-11-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86601",
+     "sha256": "6b94b4f7f37c2c71f1a4c2c7ebdb2a03ad76cf4c67b93aed14743269877adb62"
+    }
+   ]
+  },
+  {
    "slug": "hg-1326-2008",
    "path": "hg/2008/1326",
    "short": "HG nr. 1326/2008",
@@ -126295,6 +126664,21 @@
      "units": 16,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/266966",
      "sha256": "7233700089f7519fb9e74675cba1280c5cb8e121988613e75e7c27ae174f8fce"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1327-2007",
+   "path": "hg/2007/1327",
+   "short": "HG nr. 1327/2007",
+   "title": "Hotărârea Guvernului nr. 1327/2007 privind cheltuielile necesare pentru pregătirea, organizarea şi desfăşurarea referendumului naţional din data de 25 noiembrie 2007 privind introducerea votului uninominal pentru alegerea membrilor Parlamentului României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86615",
+   "versions": [
+    {
+     "from": "2007-11-02",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86615",
+     "sha256": "748696a320c7b59485376f362113a6c28162523ecbfa1ac9a2106219cb4917a8"
     }
    ]
   },
@@ -126341,6 +126725,21 @@
    ]
   },
   {
+   "slug": "hg-1328-2007",
+   "path": "hg/2007/1328",
+   "short": "HG nr. 1328/2007",
+   "title": "Hotărârea Guvernului nr. 1328/2007 pentru aprobarea modelului ştampilelor ce vor fi folosite la birourile electorale, a modelului buletinului de vot, a listelor electorale şi a proceselor-verbale care vor fi folosite la referendumul naţional din data de 25 noiembrie 2007 privind introducerea votului uninominal pentru alegerea membrilor Parlamentului României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86616",
+   "versions": [
+    {
+     "from": "2007-11-02",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86616",
+     "sha256": "52dfcf9258b43601035f36c289d777c10a4e9efab4d1ae07b46aff1eb9892818"
+    }
+   ]
+  },
+  {
    "slug": "hg-1328-2022",
    "path": "hg/2022/1328",
    "short": "HG nr. 1328/2022",
@@ -126367,6 +126766,21 @@
      "units": 10,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/277834",
      "sha256": "aedaa09bebd85794dea52ea7811865d35636b52ae9152f6bd8e7b734c483a0c5"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1329-2007",
+   "path": "hg/2007/1329",
+   "short": "HG nr. 1329/2007",
+   "title": "Hotărârea Guvernului nr. 1329/2007 privind modelul timbrului autocolant, condiţiile de tipărire, de gestionare şi de utilizare a acestuia pentru referendumul naţional din data de 25 noiembrie 2007 privind introducerea votului uninominal pentru alegerea membrilor Parlamentului României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86593",
+   "versions": [
+    {
+     "from": "2007-11-01",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86593",
+     "sha256": "1ebd2769de9468f515224bc0b6bc36d268325a3147b2f7345ea8bedf4fb5e851"
     }
    ]
   },
@@ -126542,6 +126956,21 @@
    ]
   },
   {
+   "slug": "hg-1330-2007",
+   "path": "hg/2007/1330",
+   "short": "HG nr. 1330/2007",
+   "title": "Hotărârea Guvernului nr. 1330/2007 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2007, pentru judeţul Ilfov",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86606",
+   "versions": [
+    {
+     "from": "2007-11-02",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86606",
+     "sha256": "84419a349d500904a166f8f28e0ecb9e412b629bb48163de958a4a2ac83d1f4e"
+    }
+   ]
+  },
+  {
    "slug": "hg-1330-2022",
    "path": "hg/2022/1330",
    "short": "HG nr. 1330/2022",
@@ -126568,6 +126997,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/277844",
      "sha256": "cb0d5865c1d1e88a785da3d649c2405c1bfb26adb2aaf45378719718500fac4d"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1331-2007",
+   "path": "hg/2007/1331",
+   "short": "HG nr. 1331/2007",
+   "title": "Hotărârea Guvernului nr. 1331/2007 pentru completarea Hotărârii Guvernului nr. 1.305/2003 privind contractarea de către Societatea Comercială \"Compania Naţională de Transporturi Aeriene Române - TAROM\" - S.A. a unor credite externe, garantate de către Ministerul Finanţelor Publice, necesare pentru achiziţionarea a patru aeronave tip Airbus A 318",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86608",
+   "versions": [
+    {
+     "from": "2007-11-02",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86608",
+     "sha256": "2b17ddcccdd1be4bd465c7642efe3e45dea5d75a641afa60112479e98113ee0e"
     }
    ]
   },
@@ -126613,6 +127057,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/277855",
      "sha256": "e2361d07c011eccf1ccca81a812dee5a0b14c2e831e9cc5b8c23e2e366f7820c"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1332-2007",
+   "path": "hg/2007/1332",
+   "short": "HG nr. 1332/2007",
+   "title": "Hotărârea Guvernului nr. 1332/2007 pentru modificarea Hotărârii Guvernului nr. 60/2005 privind organizarea şi funcţionarea Regiei Autonome \"Administraţia Patrimoniului Protocolului de Stat\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86662",
+   "versions": [
+    {
+     "from": "2007-11-06",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86662",
+     "sha256": "820798022a77842992a9f4c5cb2f23e31738d203dba3ce869b364eec2e8a4301"
     }
    ]
   },
@@ -126677,6 +127136,21 @@
    ]
   },
   {
+   "slug": "hg-1334-2007",
+   "path": "hg/2007/1334",
+   "short": "HG nr. 1334/2007",
+   "title": "Hotărârea Guvernului nr. 1334/2007 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2007, pentru judeţul Dolj",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86649",
+   "versions": [
+    {
+     "from": "2007-11-05",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86649",
+     "sha256": "7d3e591c59e46cdd2ecc6f82afdd9f665404e9fefc6bae69f99711d98713a8f2"
+    }
+   ]
+  },
+  {
    "slug": "hg-1334-2008",
    "path": "hg/2008/1334",
    "short": "HG nr. 1334/2008",
@@ -126688,6 +127162,21 @@
      "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/99223",
      "sha256": "c18cf2050652d4bca455486663df18c25bd83a305951bc672c2b72ba98a0bff2"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1335-2007",
+   "path": "hg/2007/1335",
+   "short": "HG nr. 1335/2007",
+   "title": "Hotărârea Guvernului nr. 1335/2007 privind suplimentarea bugetului Ministerului Dezvoltării, Lucrărilor Publice şi Locuinţelor din Fondul de intervenţie la dispoziţia Guvernului, pentru înlăturarea efectelor calamităţilor naturale produse în judeţele Bacău, Galaţi, Vaslui şi Vrancea în luna septembrie 2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86650",
+   "versions": [
+    {
+     "from": "2007-11-05",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86650",
+     "sha256": "8e4153fb0b4820e1a208738949edab0d4698834068481f9430df661440d11d36"
     }
    ]
   },
@@ -126809,6 +127298,21 @@
    ]
   },
   {
+   "slug": "hg-1337-2007",
+   "path": "hg/2007/1337",
+   "short": "HG nr. 1337/2007",
+   "title": "Hotărârea Guvernului nr. 1337/2007 privind suplimentarea bugetului Ministerului Justiţiei din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86633",
+   "versions": [
+    {
+     "from": "2007-11-05",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86633",
+     "sha256": "35abd0fe0a7fcdaef5de82009ab66f446899ccc1c407ece8818c22f1e2e81e1b"
+    }
+   ]
+  },
+  {
    "slug": "hg-1337-2022",
    "path": "hg/2022/1337",
    "short": "HG nr. 1337/2022",
@@ -126895,6 +127399,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/290197",
      "sha256": "60428b6b4b07e84724bb0e9aa14ca355436d2542d3bfa12baf902cb8045d54b1"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1339-2007",
+   "path": "hg/2007/1339",
+   "short": "HG nr. 1339/2007",
+   "title": "Hotărârea Guvernului nr. 1339/2007 pentru stabilirea măsurilor referitoare la asigurarea aplicării Regulamentului (CE) nr. 150/2003 al Consiliului din 21 ianuarie 2003 privind suspendarea drepturilor vamale la anumite armamente şi echipamente militare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86825",
+   "versions": [
+    {
+     "from": "2007-11-09",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86825",
+     "sha256": "115cfad1eea40c6b1f9db4bf1fa255af001cb0dedcba9aebcccf3e0e2827b30b"
     }
    ]
   },
@@ -127199,6 +127718,21 @@
    ]
   },
   {
+   "slug": "hg-1343-2007",
+   "path": "hg/2007/1343",
+   "short": "HG nr. 1343/2007",
+   "title": "Hotărârea Guvernului nr. 1343/2007 pentru aprobarea înfiinţării perdelelor forestiere de protecţie a câmpului în judeţele Constanţa, Ilfov şi Tulcea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87004",
+   "versions": [
+    {
+     "from": "2007-11-16",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87004",
+     "sha256": "aa49cc5707e0c4bc219cc0890c44a01c58db7cd2249f407dee5f20ab0f025718"
+    }
+   ]
+  },
+  {
    "slug": "hg-1343-2008",
    "path": "hg/2008/1343",
    "short": "HG nr. 1343/2008",
@@ -127328,6 +127862,21 @@
    ]
   },
   {
+   "slug": "hg-1345-2007",
+   "path": "hg/2007/1345",
+   "short": "HG nr. 1345/2007",
+   "title": "Hotărârea Guvernului nr. 1345/2007 privind aprobarea Licenţei de concesiune a activităţii miniere de exploatare nr. 5.743/2004, încheiată între Agenţia Naţională pentru Resurse Minerale şi Societatea Comercială \"IMCOP\" - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86707",
+   "versions": [
+    {
+     "from": "2007-11-06",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86707",
+     "sha256": "d5eb1702919e16ed8b86896d478e15c730f720e5b25bd8df83f37b31e5446b07"
+    }
+   ]
+  },
+  {
    "slug": "hg-1345-2008",
    "path": "hg/2008/1345",
    "short": "HG nr. 1345/2008",
@@ -127444,6 +127993,21 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/261248",
      "sha256": "fe3c446c21fb5d0f56e40038e1b65fe7ae842ef914ceb13820bc1fb58e53e266"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1349-2007",
+   "path": "hg/2007/1349",
+   "short": "HG nr. 1349/2007",
+   "title": "Hotărârea Guvernului nr. 1349/2007 privind alocarea unei sume din Fondul de intervenţie la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2007, pentru înlăturarea efectelor deflagraţiei produse asupra unui imobil din municipiul Zalău, judeţul Sălaj",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86882",
+   "versions": [
+    {
+     "from": "2007-11-13",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86882",
+     "sha256": "6eaecf7a43448ed0c3abfa0e28cfc5a38d3600ef33ff3cabacc10a00d1f5b027"
     }
    ]
   },
@@ -127583,6 +128147,21 @@
    ]
   },
   {
+   "slug": "hg-1350-2007",
+   "path": "hg/2007/1350",
+   "short": "HG nr. 1350/2007",
+   "title": "Hotărârea Guvernului nr. 1350/2007 privind acordarea unui ajutor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86883",
+   "versions": [
+    {
+     "from": "2007-11-13",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86883",
+     "sha256": "ad354a010cea5606cde0adf2ebb36ea9450ad8dc025f5d1e10b8f885f6a1f55e"
+    }
+   ]
+  },
+  {
    "slug": "hg-1350-2008",
    "path": "hg/2008/1350",
    "short": "HG nr. 1350/2008",
@@ -127609,6 +128188,21 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/261344",
      "sha256": "caaeaddb0d7b0ca38c4458da641532402dfa41ffda14c8c175e835e0ad4d1f4f"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1351-2007",
+   "path": "hg/2007/1351",
+   "short": "HG nr. 1351/2007",
+   "title": "Hotărârea Guvernului nr. 1351/2007 privind acordarea unui ajutor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86884",
+   "versions": [
+    {
+     "from": "2007-11-13",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86884",
+     "sha256": "126d8a1a3c7510d05998f9124bf6d647f28c8ed3824078fb5292068415af3178"
     }
    ]
   },
@@ -127748,6 +128342,21 @@
    ]
   },
   {
+   "slug": "hg-1357-2007",
+   "path": "hg/2007/1357",
+   "short": "HG nr. 1357/2007",
+   "title": "Hotărârea Guvernului nr. 1357/2007 privind organizarea şi desfăşurarea vizitei unei delegaţii militare irakiene la Bucureşti, în perioada 11-16 noiembrie 2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86968",
+   "versions": [
+    {
+     "from": "2007-11-15",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86968",
+     "sha256": "3a445d10c29b1128127d1a5c235ff8951601b71d13f3c026a939b71c2e0d9ab5"
+    }
+   ]
+  },
+  {
    "slug": "hg-1357-2008",
    "path": "hg/2008/1357",
    "short": "HG nr. 1357/2008",
@@ -127774,6 +128383,36 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/290378",
      "sha256": "9a48e9f8d6f89d63881dbfb0aab51073f0711687c1a0dcbae3df2958d061e4dd"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1358-2007",
+   "path": "hg/2007/1358",
+   "short": "HG nr. 1358/2007",
+   "title": "Hotărârea Guvernului nr. 1358/2007 privind exercitarea, cu caracter temporar, a funcţiei publice de subprefect al judeţului Călăraşi de către domnul Ostropel Lilian",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86885",
+   "versions": [
+    {
+     "from": "2007-11-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86885",
+     "sha256": "870d9a6194389d24cf1254e2637e1578485a71744059725c64bba7e758fd72f1"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1359-2007",
+   "path": "hg/2007/1359",
+   "short": "HG nr. 1359/2007",
+   "title": "Hotărârea Guvernului nr. 1359/2007 pentru modificarea anexelor nr. 8 şi 9 la Hotărârea Guvernului nr. 197/2006 privind aprobarea programelor de interes naţional în domeniul protecţiei drepturilor persoanelor cu handicap, precum şi în domeniul asistenţei sociale a persoanelor vârstnice, persoanelor fără adăpost şi persoanelor victime ale violenţei în familie şi a finanţării acestor programe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86969",
+   "versions": [
+    {
+     "from": "2007-11-15",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86969",
+     "sha256": "3ec87f9f951bfe8773341eb761cbfd58ea31f073ffad0ff0bcd1ad99182d4b7a"
     }
    ]
   },
@@ -127991,6 +128630,21 @@
    ]
   },
   {
+   "slug": "hg-1360-2007",
+   "path": "hg/2007/1360",
+   "short": "HG nr. 1360/2007",
+   "title": "Hotărârea Guvernului nr. 1360/2007 privind declararea utilităţii publice pentru lucrarea de interes naţional \"Cazarma 1833 Câmpia Turzii 2004-4-1833E-Electroalimentare pentru sistemul de asistenţă tehnică terestră pentru navigaţia aeriană (ATTNA)\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86970",
+   "versions": [
+    {
+     "from": "2007-11-15",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86970",
+     "sha256": "1c1ba4aa1b750b466d93f3c889e750106cde746ea888ff89f9df5f0cb64c3af9"
+    }
+   ]
+  },
+  {
    "slug": "hg-1361-2006",
    "path": "hg/2006/1361",
    "short": "HG nr. 1361/2006",
@@ -128032,6 +128686,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/290299",
      "sha256": "6c7d2584dcc8c869fba7ed9f9019b57fcebfbcbd8ca5a7e7c4e1fe76b30dfbb9"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1362-2007",
+   "path": "hg/2007/1362",
+   "short": "HG nr. 1362/2007",
+   "title": "Hotărârea Guvernului nr. 1362/2007 privind completarea anexei la Hotărârea Guvernului nr. 1.347/2007 pentru aprobarea Planului de măsuri privind sprijinirea cetăţenilor români aflaţi în Italia, ca urmare a situaţiei create prin adoptarea de către statul italian a noilor reglementări ce vizează îndepărtarea de pe teritoriu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86911",
+   "versions": [
+    {
+     "from": "2007-11-14",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86911",
+     "sha256": "f80889c8fdd6cd3a4869f13b7af400590cf74527c1328ed134b28e3130cf5fe8"
     }
    ]
   },
@@ -128111,6 +128780,21 @@
    ]
   },
   {
+   "slug": "hg-1364-2007",
+   "path": "hg/2007/1364",
+   "short": "HG nr. 1364/2007",
+   "title": "Hotărârea Guvernului nr. 1364/2007 pentru modificarea şi completarea Hotărârii Guvernului nr. 811/2006 privind finanţarea din bugetul Ministerului Integrării Europene a asistenţei tehnice pentru pregătirea de proiecte de investiţii publice, finanţabile prin Programul operaţional regional 2007-2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86977",
+   "versions": [
+    {
+     "from": "2007-11-15",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86977",
+     "sha256": "26ee2a7ca22aa7422600847d49ffb883eb3abf81978ba78c047027bfa03dd46b"
+    }
+   ]
+  },
+  {
    "slug": "hg-1364-2008",
    "path": "hg/2008/1364",
    "short": "HG nr. 1364/2008",
@@ -128156,6 +128840,21 @@
    ]
   },
   {
+   "slug": "hg-1366-2007",
+   "path": "hg/2007/1366",
+   "short": "HG nr. 1366/2007",
+   "title": "Hotărârea Guvernului nr. 1366/2007 privind aprobarea Licenţei de concesiune a activităţii miniere de exploatare nr. 3.501/2002, încheiată între Agenţia Naţională pentru Resurse Minerale şi Societatea Naţională a Lignitului \"Oltenia\" - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86990",
+   "versions": [
+    {
+     "from": "2007-11-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86990",
+     "sha256": "b2c899aefd25033cad3febe1cbcce05f103da68f00707051cbb6d6b050b4cee1"
+    }
+   ]
+  },
+  {
    "slug": "hg-1366-2008",
    "path": "hg/2008/1366",
    "short": "HG nr. 1366/2008",
@@ -128182,6 +128881,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/290386",
      "sha256": "3670822af789ac46a248a24d8676069fb3bd2878ec52f75aeb3288f908cfa6c7"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1367-2007",
+   "path": "hg/2007/1367",
+   "short": "HG nr. 1367/2007",
+   "title": "Hotărârea Guvernului nr. 1367/2007 privind aprobarea Licenţei de concesiune a activităţii miniere de exploatare nr. 3.500/2002, încheiată între Agenţia Naţională pentru Resurse Minerale şi Societatea Naţională a Lignitului \"Oltenia\" - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86991",
+   "versions": [
+    {
+     "from": "2007-11-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86991",
+     "sha256": "bfa4eb2ee8338740b5531ad0ee6e40c5727f083991c0f7475cf8bbaf61a6e33c"
     }
    ]
   },
@@ -128231,6 +128945,21 @@
    ]
   },
   {
+   "slug": "hg-1368-2007",
+   "path": "hg/2007/1368",
+   "short": "HG nr. 1368/2007",
+   "title": "Hotărârea Guvernului nr. 1368/2007 privind aprobarea Licenţei de concesiune a activităţii miniere de exploatare nr. 2.463/2001, încheiată între Agenţia Naţională pentru Resurse Minerale şi Societatea Naţională a Lignitului \"Oltenia\" - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86992",
+   "versions": [
+    {
+     "from": "2007-11-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86992",
+     "sha256": "a7afcc0f7de9edd92f61e3ebf94d1943c670be006a55e7623225cee063a3cefd"
+    }
+   ]
+  },
+  {
    "slug": "hg-1368-2008",
    "path": "hg/2008/1368",
    "short": "HG nr. 1368/2008",
@@ -128257,6 +128986,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/261315",
      "sha256": "9e8bfa2c5e3b7752630586cd6a104319fd35827a42e6ea2ac5c38b7724e0c94a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1369-2007",
+   "path": "hg/2007/1369",
+   "short": "HG nr. 1369/2007",
+   "title": "Hotărârea Guvernului nr. 1369/2007 privind aprobarea Licenţei de concesiune a activităţii miniere de exploatare nr. 6.630/2005, încheiată între Agenţia Naţională pentru Resurse Minerale şi Societatea Comercială \"CARPATHIAN PLASTICS CORPORATION\" - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86993",
+   "versions": [
+    {
+     "from": "2007-11-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86993",
+     "sha256": "7b382d495ee05b08b6a2222a3c8077cb2c12a338b82a8a7f9d21a51f2d4d6170"
     }
    ]
   },
@@ -129002,6 +129746,21 @@
    ]
   },
   {
+   "slug": "hg-1380-2007",
+   "path": "hg/2007/1380",
+   "short": "HG nr. 1380/2007",
+   "title": "Hotărârea Guvernului nr. 1380/2007 privind trecerea unor construcţii aflate în administrarea Ministerului Internelor şi Reformei Administrative din domeniul public al statului în domeniul privat al acestuia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86995",
+   "versions": [
+    {
+     "from": "2007-11-16",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86995",
+     "sha256": "73b2078edb2d678cca9f61d831172594fe19786edc73345aa7451df10d1a2127"
+    }
+   ]
+  },
+  {
    "slug": "hg-1380-2008",
    "path": "hg/2008/1380",
    "short": "HG nr. 1380/2008",
@@ -129062,6 +129821,21 @@
    ]
   },
   {
+   "slug": "hg-1382-2007",
+   "path": "hg/2007/1382",
+   "short": "HG nr. 1382/2007",
+   "title": "Hotărârea Guvernului nr. 1382/2007 pentru modificarea şi completarea Hotărârii Guvernului nr. 116/2007 privind autorizarea editării unor publicaţii ale Ministerului Administraţiei şi Internelor şi finanţarea cheltuielilor de funcţionare a acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86996",
+   "versions": [
+    {
+     "from": "2007-11-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86996",
+     "sha256": "b961f46daea842c27fa0e456730047ac7ef6da370cb947b0fd7fb16af85506e2"
+    }
+   ]
+  },
+  {
    "slug": "hg-1382-2008",
    "path": "hg/2008/1382",
    "short": "HG nr. 1382/2008",
@@ -129103,6 +129877,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/290468",
      "sha256": "6b85265b03dfde95c12a5584b115a397bcbea5f768c2391327bbe180f6062777"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1383-2007",
+   "path": "hg/2007/1383",
+   "short": "HG nr. 1383/2007",
+   "title": "Hotărârea Guvernului nr. 1383/2007 privind preluarea unui sector de drum judeţean din domeniul public al judeţului Sibiu şi din administrarea Consiliului Judeţean Sibiu în domeniul public al statului şi în administrarea Ministerului Transporturilor în vederea realizării de către Compania Naţională de Autostrăzi şi Drumuri Naţionale din România - S.A. a activităţilor de interes naţional în domeniul administrării drumurilor naţionale, precum şi încadrarea acestuia în categoria funcţională a drumurilor naţionale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86997",
+   "versions": [
+    {
+     "from": "2007-11-16",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86997",
+     "sha256": "960ae8dfb5532ec74052bd3cb887f68f5cd603f9575a0b9849e857a7ecd1b567"
     }
    ]
   },
@@ -260609,6 +261398,21 @@
    ]
   },
   {
+   "slug": "legea-285-2007",
+   "path": "lege/2007/285",
+   "short": "Legea nr. 285/2007",
+   "title": "Legea nr. 285/2007 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 77/2006 privind suspendarea executării silite a creanţelor fiscale administrate de Agenţia Naţională de Administrare Fiscală faţă de Societatea Naţională \"Îmbunătăţiri Funciare\" - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86483",
+   "versions": [
+    {
+     "from": "2007-11-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86483",
+     "sha256": "4ba8eea5e2550327997511c8f8bb1661ee3a319698faddc42df75d7e4335efeb"
+    }
+   ]
+  },
+  {
    "slug": "legea-285-2010",
    "path": "lege/2010/285",
    "short": "Legea nr. 285/2010",
@@ -261434,6 +262238,21 @@
    ]
   },
   {
+   "slug": "legea-295-2007",
+   "path": "lege/2007/295",
+   "short": "Legea nr. 295/2007",
+   "title": "Legea nr. 295/2007 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 45/2007 privind completarea art. IV din Ordonanţa Guvernului nr. 29/2004 pentru reglementarea unor măsuri financiare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86740",
+   "versions": [
+    {
+     "from": "2007-11-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86740",
+     "sha256": "cdd540d8aa7d8cc75004af406f49c0a7af468f975f77c26fbd0699dfc5985329"
+    }
+   ]
+  },
+  {
    "slug": "legea-295-2008",
    "path": "lege/2008/295",
    "short": "Legea nr. 295/2008",
@@ -261676,6 +262495,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/291445",
      "sha256": "308e2cf23459e76bb7e9cc9dfaf2d296ef6ad5d0f617b8477db57515af95e297"
+    }
+   ]
+  },
+  {
+   "slug": "legea-298-2007",
+   "path": "lege/2007/298",
+   "short": "Legea nr. 298/2007",
+   "title": "Legea nr. 298/2007 pentru completarea Legii nr. 90/2003 privind vânzarea spaţiilor aflate în proprietatea privată a statului sau a unităţilor administrativ-teritoriale, destinate sediilor partidelor politice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86844",
+   "versions": [
+    {
+     "from": "2007-11-15",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86844",
+     "sha256": "6b4aedcf54ccd43414d56e2000f51a7e3e0d8cf07815f146dc4e51457f0df429"
     }
    ]
   },
