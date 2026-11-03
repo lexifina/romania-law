@@ -147032,6 +147032,21 @@
    ]
   },
   {
+   "slug": "hg-149-2020",
+   "path": "hg/2020/149",
+   "short": "HG nr. 149/2020",
+   "title": "Hotărârea Guvernului nr. 149/2020 privind trecerea din domeniul public în domeniul privat al statului a unei construcţii aflate în administrarea Direcţiei pentru Agricultură Judeţene Satu Mare din subordinea Ministerului Agriculturii şi Dezvoltării Rurale pentru care se actualizează datele de identificare şi valoarea de inventar, precum şi scăderea unui teren din inventarul centralizat al bunurilor din domeniul public al statului şi din administrarea Direcţiei pentru Agricultură Judeţene Satu Mare, ca urmare a retrocedării acestuia către persoanele fizice îndreptăţite, în condiţiile legii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/223424",
+   "versions": [
+    {
+     "from": "2020-03-02",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/223424",
+     "sha256": "2e513d6550aca6dabf62bda2cef957cf8cec5e20c53819d43237266cc1ea490d"
+    }
+   ]
+  },
+  {
    "slug": "hg-149-2021",
    "path": "hg/2021/149",
    "short": "HG nr. 149/2021",
@@ -197827,6 +197842,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/215043",
      "sha256": "bc66936541dd9a2ee8326ec8a377dc346d11f8b6ab1acfceda0345b67e39855e"
+    }
+   ]
+  },
+  {
+   "slug": "hg-385-2020",
+   "path": "hg/2020/385",
+   "short": "HG nr. 385/2020",
+   "title": "Hotărârea Guvernului nr. 385/2020 privind înscrierea unor imobile în inventarul centralizat al bunurilor din domeniul public al statului şi darea în concesiunea Companiei Naţionale de Căi Ferate \"C.F.R.\" - S.A., precum şi modificarea anexei nr. 16 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului, ca urmare a recepţionării obiectivului de investiţii \"Construcţia infrastructurii rutiere şi feroviare de acces la podul peste fluviul Dunărea de la Calafat-Vidin\" - componenta feroviară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/225928",
+   "versions": [
+    {
+     "from": "2020-05-20",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/225928",
+     "sha256": "26c93e1fa88829a25e0cd624bf2d30f791d4f1d4becfebaf83ef934d6bf9abb3"
     }
    ]
   },
@@ -277832,6 +277862,21 @@
    ]
   },
   {
+   "slug": "hg-80-2020",
+   "path": "hg/2020/80",
+   "short": "HG nr. 80/2020",
+   "title": "Hotărârea Guvernului nr. 80/2020 pentru aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Platformă multimodală Galaţi - înlăturarea blocajelor majore prin modernizarea infrastructurii existente şi asigurarea conexiunilor lipsă pentru reţeaua centrală Rhin-Dunăre/Alpi\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/222662",
+   "versions": [
+    {
+     "from": "2020-02-03",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/222662",
+     "sha256": "78c40788d34b7a03c1db540ca41eb49d6736af9daa34e4774b7c8c48b6fb8fee"
+    }
+   ]
+  },
+  {
    "slug": "hg-80-2023",
    "path": "hg/2023/80",
    "short": "HG nr. 80/2023",
@@ -277948,6 +277993,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/205953",
      "sha256": "f50c798c7de2aaf9deb67323f7ea8b4c4266e63415b4f3da244191f211f20932"
+    }
+   ]
+  },
+  {
+   "slug": "hg-800-2019",
+   "path": "hg/2019/800",
+   "short": "HG nr. 800/2019",
+   "title": "Hotărârea Guvernului nr. 800/2019 pentru modificarea şi completarea unor anexe la Hotărârea Guvernului nr. 1.362/2001 privind atestarea domeniului public al judeţului Vâlcea, precum şi al municipiilor, oraşelor şi comunelor din judeţul Vâlcea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/219549",
+   "versions": [
+    {
+     "from": "2019-11-06",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/219549",
+     "sha256": "6aac6389deb505cea8d689ff3ac5909724ca290610f433e9e98a08d361c4c547"
     }
    ]
   },
@@ -352778,6 +352838,21 @@
    ]
   },
   {
+   "slug": "legea-63-2020",
+   "path": "lege/2020/63",
+   "short": "Legea nr. 63/2020",
+   "title": "Legea nr. 63/2020 privind respingerea Ordonanţei de urgenţă a Guvernului nr. 88/2019 pentru modificarea Ordonanţei de urgenţă a Guvernului nr. 32/2015 privind înfiinţarea Gărzilor forestiere",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/225964",
+   "versions": [
+    {
+     "from": "2020-05-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/225964",
+     "sha256": "e85435c2ed0c9b84053a067d17cc97ef1dc1466b13ddb3743add06ffafd57827"
+    }
+   ]
+  },
+  {
    "slug": "legea-63-2023",
    "path": "lege/2023/63",
    "short": "Legea nr. 63/2023",
@@ -356608,6 +356683,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/213564",
      "sha256": "657039dfac045c4b74d4f81b847986d61d4792ae2eaed513839c6b746a882df3"
+    }
+   ]
+  },
+  {
+   "slug": "legea-94-2020",
+   "path": "lege/2020/94",
+   "short": "Legea nr. 94/2020",
+   "title": "Legea nr. 94/2020 pentru ratificarea Protocolului privind agricultura durabilă şi dezvoltarea rurală, încheiat la Lillafured la 12 octombrie 2017 şi semnat de România la aceeaşi dată, la Convenţia-cadru privind protecţia şi dezvoltarea durabilă a Carpaţilor, adoptată la Kiev la 22 mai 2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/228424",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/228424",
+     "sha256": "97d895f78d9b5d023ac1df5eda268f7978cc3ee43fd7fd77c8a9077a49d77e3a"
     }
    ]
   },
