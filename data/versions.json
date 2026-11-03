@@ -308072,6 +308072,21 @@
    ]
   },
   {
+   "slug": "hg-947-2015",
+   "path": "hg/2015/947",
+   "short": "HG nr. 947/2015",
+   "title": "Hotărârea Guvernului nr. 947/2015 privind aprobarea bugetului de venituri şi cheltuieli rectificat pe anul 2015 al Societăţii Naţionale de Transport Feroviar de Călători \"C.F.R. - Călători\" - S.A., aflată sub autoritatea Ministerului Transporturilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/173581",
+   "versions": [
+    {
+     "from": "2015-12-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/173581",
+     "sha256": "63d7dfd70a8109cb0cc451d1130d243be8b092565d6284f46b4e37c6916277af"
+    }
+   ]
+  },
+  {
    "slug": "hg-947-2017",
    "path": "hg/2017/947",
    "short": "HG nr. 947/2017",
@@ -338110,6 +338125,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/124325",
      "sha256": "22d4eff738a44ec308b9757d2cdd3e406769cb03f8b02cd34a3c7a390592cf54"
+    }
+   ]
+  },
+  {
+   "slug": "legea-242-2015",
+   "path": "lege/2015/242",
+   "short": "Legea nr. 242/2015",
+   "title": "Legea nr. 242/2015 pentru modificarea art. 20 din Legea nr. 202/1998 privind organizarea Monitorului Oficial al României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/172269",
+   "versions": [
+    {
+     "from": "2015-10-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172269",
+     "sha256": "c6fe033d7ae92c0bd86a030b5882e8d30245f1d2f87a1bd7dd7507bf9865bbde"
     }
    ]
   },

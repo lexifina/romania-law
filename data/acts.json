@@ -23751,6 +23751,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/172281"
 },
 {
+"slug": "legea-242-2015",
+"path": "lege/2015/242",
+"kind": "lege",
+"year": "2015",
+"number": "242",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 242/2015 pentru modificarea art. 20 din Legea nr. 202/1998 privind organizarea Monitorului Oficial al României",
+"short": "Legea nr. 242/2015",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2015-10-25",
+"latest": "2015-10-25",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/172269"
+},
+{
 "slug": "legea-245-2015",
 "path": "lege/2015/245",
 "kind": "lege",
@@ -198611,6 +198628,23 @@
 "from": "2015-11-26",
 "latest": "2015-11-26",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/173396"
+},
+{
+"slug": "hg-947-2015",
+"path": "hg/2015/947",
+"kind": "hg",
+"year": "2015",
+"number": "947",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 947/2015 privind aprobarea bugetului de venituri şi cheltuieli rectificat pe anul 2015 al Societăţii Naţionale de Transport Feroviar de Călători \"C.F.R. - Călători\" - S.A., aflată sub autoritatea Ministerului Transporturilor",
+"short": "HG nr. 947/2015",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2015-12-04",
+"latest": "2015-12-04",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/173581"
 },
 {
 "slug": "hg-948-2015",

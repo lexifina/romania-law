@@ -1,6 +1,6 @@
 # Every act in this repository
 
-20568 acts, 34,201 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+20570 acts, 34,203 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (3264, of which 1792 amending acts)
+## Laws (legi) (3265, of which 1793 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -1433,6 +1433,7 @@
 | Legea nr. 238/2015 pentru ratificarea Acordului dintre Guvernul României şi Guvernul Republicii Cipru privind protecţia reciprocă a informaţiilor clasificate, semnat la Nicosia la 31 octombrie 2014 | [`lege/2015/238/`](lege/2015/238/) | in force | 1 | 2015-10-29 | 2015-10-29 |
 | Legea nr. 240/2015 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 9/2015 pentru modificarea Legii nr. 44/1994 privind veteranii de război, precum şi unele drepturi ale invalizilor şi văduvelor de război şi a Legii nr. 49/1991 privind acordarea de indemnizaţii şi sporuri invalizilor, veteranilor şi văduvelor de război | [`lege/2015/240/`](lege/2015/240/) | amending act | 1 | 2015-10-24 | 2015-10-24 |
 | Legea nr. 241/2015 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 17/2015 privind aprobarea plăţii contribuţiei României pentru construirea sediului permanent al Curţii Penale Internaţionale | [`lege/2015/241/`](lege/2015/241/) | amending act | 1 | 2015-10-25 | 2015-10-25 |
+| Legea nr. 242/2015 pentru modificarea art. 20 din Legea nr. 202/1998 privind organizarea Monitorului Oficial al României | [`lege/2015/242/`](lege/2015/242/) | amending act | 1 | 2015-10-25 | 2015-10-25 |
 | Legea nr. 245/2015 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 20/2015 privind stabilirea nivelului maxim al produsului apă grea destinat unităţilor 1-4 de la Centrala Nuclearo-Electrică Cernavodă pentru întreaga perioadă de exploatare a acestora, precum şi pentru gestionarea apei grele | [`lege/2015/245/`](lege/2015/245/) | amending act | 1 | 2015-10-30 | 2015-10-30 |
 | Legea nr. 246/2015 | [`lege/2015/246/`](lege/2015/246/) | in force | 3 | 2015-11-05 | 2024-01-19 |
 | Legea nr. 247/2015 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 108/2013 pentru prorogarea termenului prevăzut la alin. (1) al art. 56 din Legea nr. 185/2013 privind amplasarea şi autorizarea mijloacelor de publicitate | [`lege/2015/247/`](lege/2015/247/) | amending act | 1 | 2015-11-02 | 2015-11-02 |
@@ -5537,7 +5538,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (15040, of which 7640 amending acts)
+## Government decisions (HG) (15041, of which 7641 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -11734,6 +11735,7 @@
 | Hotărârea Guvernului nr. 944/2015 privind aprobarea stemelor comunelor Băgaciu şi Sânger, judeţul Mureş | [`hg/2015/944/`](hg/2015/944/) | amending act | 1 | 2015-12-28 | 2015-12-28 |
 | Hotărârea Guvernului nr. 945/2015 privind acordarea unor ajutoare de urgenţă | [`hg/2015/945/`](hg/2015/945/) | in force | 1 | 2015-11-26 | 2015-11-26 |
 | Hotărârea Guvernului nr. 946/2015 privind organizarea, desfăşurarea şi finanţarea manifestărilor prilejuite de 1 Decembrie - Ziua Naţională a României, în anul 2015 | [`hg/2015/946/`](hg/2015/946/) | in force | 1 | 2015-11-26 | 2015-11-26 |
+| Hotărârea Guvernului nr. 947/2015 privind aprobarea bugetului de venituri şi cheltuieli rectificat pe anul 2015 al Societăţii Naţionale de Transport Feroviar de Călători "C.F.R. - Călători" - S.A., aflată sub autoritatea Ministerului Transporturilor | [`hg/2015/947/`](hg/2015/947/) | amending act | 1 | 2015-12-04 | 2015-12-04 |
 | Hotărârea Guvernului nr. 948/2015 privind aprobarea bugetului de venituri şi cheltuieli rectificat pe anul 2015 al Companiei Naţionale de Căi Ferate "C.F.R." - S.A., aflată sub autoritatea Ministerului Transporturilor | [`hg/2015/948/`](hg/2015/948/) | amending act | 1 | 2015-12-04 | 2015-12-04 |
 | Hotărârea Guvernului nr. 949/2015 privind rechemarea unui consul general | [`hg/2015/949/`](hg/2015/949/) | in force | 1 | 2015-12-04 | 2015-12-04 |
 | Hotărârea Guvernului nr. 950/2015 privind alocarea unor sume defalcate din taxa pe valoarea adăugată pentru finanţarea unor cheltuieli ale unităţilor de învăţământ preuniversitar de stat finanţate din bugetele locale, precum şi ale unităţilor de învăţământ special de stat finanţate din bugetele proprii ale judeţelor | [`hg/2015/950/`](hg/2015/950/) | in force | 1 | 2015-12-10 | 2015-12-10 |
