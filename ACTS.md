@@ -1,6 +1,6 @@
 # Every act in this repository
 
-15503 acts, 29,125 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+15509 acts, 29,133 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (2705, of which 1342 amending acts)
+## Laws (legi) (2706, of which 1342 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -1646,6 +1646,7 @@
 | Legea nr. 168/2020 pentru recunoașterea meritelor personalului participant la acțiuni militare, misiuni și operații pe teritoriul sau în afara teritoriului statului român și acordarea unor drepturi acestuia, familiei acestuia și urmașilor celui decedat | [`lege/2020/168/`](lege/2020/168/) | in force | 5 | 2021-02-04 | 2024-06-30 |
 | Legea nr. 169/2020 privind acordarea unor drepturi persoanelor persecutate din motive politice cu începere de la 2 iunie 1992 şi care au fost condamnate în 9 decembrie 1993 de o instanţă de judecată nerecunoscută din regiunea transnistreană a Republicii Moldova | [`lege/2020/169/`](lege/2020/169/) | in force | 1 | 2020-08-10 | 2020-08-10 |
 | Legea nr. 172/2020 pentru modificarea și completarea Legii nr. 16/2017 privind detașarea salariaților în cadrul prestării de servicii transnaționale | [`lege/2020/172/`](lege/2020/172/) | amending act | 1 | 2020-08-16 | 2020-08-16 |
+| Legea nr. 173/2020 privind unele măsuri pentru protejarea intereselor naţionale în activitatea economică | [`lege/2020/173/`](lege/2020/173/) | in force | 2 | 2020-08-16 | 2020-10-05 |
 | Legea nr. 174/2020 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 217/2000 privind aprobarea coșului minim de consum lunar | [`lege/2020/174/`](lege/2020/174/) | amending act | 1 | 2020-08-17 | 2020-08-17 |
 | Legea nr. 175/2020 pentru modificarea și completarea Legii nr. 17/2014 privind unele măsuri de reglementare a vânzării-cumpărării terenurilor agricole situate în extravilan și de modificare a Legii nr. 268/2001 privind privatizarea societăților comerciale ce dețin în administrare terenuri proprietate publică și privată a statului cu destinație agricolă și înființarea Agenției Domeniilor Statului | [`lege/2020/175/`](lege/2020/175/) | amending act | 1 | 2020-10-13 | 2020-10-13 |
 | Legea nr. 181/2020 privind gestionarea deșeurilor nepericuloase compostabile | [`lege/2020/181/`](lege/2020/181/) | in force | 1 | 2021-02-20 | 2021-02-20 |
@@ -4924,7 +4925,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (10588, of which 4944 amending acts)
+## Government decisions (HG) (10593, of which 4945 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -8678,6 +8679,7 @@
 | Hotărârea Guvernului nr. 611/2017 pentru aprobarea Normelor metodologice de aplicare a Legii nr. 232/2016 privind industria naţională de apărare, precum şi pentru modificarea şi completarea unor acte normative | [`hg/2017/611/`](hg/2017/611/) | amending act | 1 | 2017-09-06 | 2017-09-06 |
 | Hotărârea Guvernului nr. 615/2017 pentru modificarea și completarea Hotărârii Guvernului nr. 140/2017 privind aprobarea Nomenclatorului domeniilor și al specializărilor/programelor de studii universitare și a structurii instituțiilor de învățământ superior pentru anul universitar 2017-2018 | [`hg/2017/615/`](hg/2017/615/) | amending act | 1 | 2017-09-04 | 2017-09-04 |
 | Hotărârea Guvernului nr. 626/2017 privind achiziția unui studiu de fezabilitate destinat construirii unui penitenciar | [`hg/2017/626/`](hg/2017/626/) | in force | 1 | 2017-09-06 | 2017-09-06 |
+| Hotărârea Guvernului nr. 637/2017 pentru organizarea şi funcţionarea Consiliului pentru Coordonarea Industriei Naţionale de Apărare | [`hg/2017/637/`](hg/2017/637/) | in force | 2 | 2017-09-13 | 2018-05-08 |
 | Hotărârea Guvernului nr. 639/2017 privind modificarea art. 4 din Hotărârea Guvernului nr. 863/2016 pentru aprobarea Metodologiei de calcul și stabilirea tarifului maxim per kilometru aferent abonamentului de transport prevăzut la alin. (3) al art. 84 din Legea educației naționale nr. 1/2011 | [`hg/2017/639/`](hg/2017/639/) | amending act | 1 | 2017-09-08 | 2017-09-08 |
 | Hotărârea Guvernului nr. 640/2017 pentru aprobarea Programului pentru școli al României în perioada 2017-2023 și pentru stabilirea bugetului pentru implementarea acestuia în anul școlar 2017-2018 | [`hg/2017/640/`](hg/2017/640/) | amending act | 9 | 2017-09-13 | 2022-11-16 |
 | Hotărârea Guvernului nr. 652/2017 pentru aprobarea Normelor metodologice de aplicare a prevederilor Legii nr. 167/2014 privind exercitarea profesiei de bonă | [`hg/2017/652/`](hg/2017/652/) | amending act | 1 | 2017-09-14 | 2017-09-14 |
@@ -11264,6 +11266,7 @@
 | Hotărârea Guvernului nr. 1170/2021 privind declanşarea procedurilor de expropriere a imobilului proprietate privată situat pe amplasamentul suplimentar, necesar pentru relocarea utilităţilor, care face parte din coridorul de expropriere al lucrării de utilitate publică "Modernizarea centurii rutiere a municipiului Bucureşti între A1-DN 7 şi DN 2-A2" | [`hg/2021/1170/`](hg/2021/1170/) | in force | 1 | 2021-11-02 | 2021-11-02 |
 | Hotărârea Guvernului nr. 1174/2021 privind modificarea şi completarea Normelor metodologice pentru punerea în aplicare a prevederilor Legii nr. 152/1998 privind înfiinţarea Agenţiei Naţionale pentru Locuinţe, aprobate prin Hotărârea Guvernului nr. 962/2001 | [`hg/2021/1174/`](hg/2021/1174/) | amending act | 1 | 2021-11-01 | 2021-11-01 |
 | Hotărârea Guvernului nr. 1175/2021 privind aprobarea închirierii unei părţi din imobilul 307 aflat în domeniul public al statului şi în administrarea Ministerului Apărării Naţionale | [`hg/2021/1175/`](hg/2021/1175/) | amending act | 1 | 2021-11-05 | 2021-11-05 |
+| Hotărârea Guvernului nr. 1180/2021 privind aprobarea stemei comunei Arcani, judeţul Gorj | [`hg/2021/1180/`](hg/2021/1180/) | amending act | 1 | 2021-11-11 | 2021-11-11 |
 | Hotărârea Guvernului nr. 1181/2021 pentru aprobarea indicatorilor tehnico-economici ai obiectivului de investiții "Reabilitare, modernizare, extindere, construire și dotare Spitalul Clinic de Urgență «Prof. dr. Agrippa Ionescu», str. I. C. Brătianu nr. 149, satul Balotești, comuna Balotești, județul Ilfov" | [`hg/2021/1181/`](hg/2021/1181/) | amending act | 1 | 2021-11-04 | 2021-11-04 |
 | Hotărârea Guvernului nr. 1182/2021 privind actualizarea valorii de inventar a unor bunuri imobile aflate în domeniul public al statului şi în administrarea Oficiului de Cadastru şi Publicitate Imobiliară Mehedinţi | [`hg/2021/1182/`](hg/2021/1182/) | in force | 1 | 2021-11-10 | 2021-11-10 |
 | Hotărârea Guvernului nr. 1183/2021 privind prelungirea stării de alertă pe teritoriul României începând cu data de 9 noiembrie 2021, precum şi stabilirea măsurilor care se aplică pe durata acesteia pentru prevenirea şi combaterea efectelor pandemiei de COVID-19 | [`hg/2021/1183/`](hg/2021/1183/) | in force | 1 | 2021-11-09 | 2021-11-09 |
@@ -11381,6 +11384,8 @@
 | Hotărârea Guvernului nr. 10/2022 privind numirea doamnei Neculae Simona în funcţia de prefect al judeţului Ilfov | [`hg/2022/10/`](hg/2022/10/) | in force | 1 | 2022-01-05 | 2022-01-05 |
 | Hotărârea Guvernului nr. 11/2022 privind numirea doamnei Lungu Tudoriţa în funcţia de subprefect al judeţului Bacău | [`hg/2022/11/`](hg/2022/11/) | in force | 1 | 2022-01-05 | 2022-01-05 |
 | Hotărârea Guvernului nr. 12/2022 privind numirea domnului Pavel Emilian în funcţia de subprefect al judeţului Bihor | [`hg/2022/12/`](hg/2022/12/) | in force | 1 | 2022-01-05 | 2022-01-05 |
+| Hotărârea Guvernului nr. 13/2022 privind numirea domnului Patraşcu Lucian în funcţia de subprefect al judeţului Braşov | [`hg/2022/13/`](hg/2022/13/) | in force | 1 | 2022-01-05 | 2022-01-05 |
+| Hotărârea Guvernului nr. 14/2022 privind numirea domnului Cucu Sebastian în funcţia de subprefect al judeţului Covasna | [`hg/2022/14/`](hg/2022/14/) | in force | 1 | 2022-01-05 | 2022-01-05 |
 | Hotărârea Guvernului nr. 17/2022 privind numirea domnului Grigoraş Marian în funcţia de subprefect al judeţului Iaşi | [`hg/2022/17/`](hg/2022/17/) | in force | 1 | 2022-01-05 | 2022-01-05 |
 | Hotărârea Guvernului nr. 18/2022 privind numirea domnului Ojog Costin-Alexandru în funcţia de subprefect al judeţului Ilfov | [`hg/2022/18/`](hg/2022/18/) | in force | 1 | 2022-01-05 | 2022-01-05 |
 | Hotărârea Guvernului nr. 20/2022 privind numirea doamnei Călin Florentina în funcţia de subprefect al judeţului Vâlcea | [`hg/2022/20/`](hg/2022/20/) | in force | 1 | 2022-01-05 | 2022-01-05 |
@@ -11425,6 +11430,7 @@
 | Hotărârea Guvernului nr. 83/2022 privind eliberarea doamnei Gireadă Aneta din funcţia de subprefect al judeţului Botoşani | [`hg/2022/83/`](hg/2022/83/) | in force | 1 | 2022-01-19 | 2022-01-19 |
 | Hotărârea Guvernului nr. 84/2022 privind numirea domnului Timofei Iulian în funcţia de prefect al judeţului Brăila | [`hg/2022/84/`](hg/2022/84/) | in force | 1 | 2022-01-19 | 2022-01-19 |
 | Hotărârea Guvernului nr. 85/2022 privind numirea domnului Panaitescu Gabriel-Aurelian în funcţia de prefect al judeţului Galaţi | [`hg/2022/85/`](hg/2022/85/) | in force | 1 | 2022-01-19 | 2022-01-19 |
+| Hotărârea Guvernului nr. 86/2022 privind numirea domnului Manolache Tiberiu în funcţia de subprefect al judeţului Botoşani | [`hg/2022/86/`](hg/2022/86/) | in force | 1 | 2022-01-19 | 2022-01-19 |
 | Hotărârea Guvernului nr. 88/2022 privind numirea domnului Drăgănescu Emil în funcţia de subprefect al judeţului Prahova | [`hg/2022/88/`](hg/2022/88/) | in force | 1 | 2022-01-19 | 2022-01-19 |
 | Hotărârea Guvernului nr. 89/2022 pentru aprobarea indicatorilor tehnico-economici aferenţi obiectivului de investiţii "Varianta ocolitoare a municipiului Arad - Est", judeţul Arad | [`hg/2022/89/`](hg/2022/89/) | amending act | 1 | 2022-01-20 | 2022-01-20 |
 | Hotărârea Guvernului nr. 90/2022 pentru modificarea şi completarea Hotărârii Guvernului nr. 369/2021 privind organizarea şi funcţionarea Ministerului Educaţiei | [`hg/2022/90/`](hg/2022/90/) | amending act | 1 | 2022-01-20 | 2022-01-20 |

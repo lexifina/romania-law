@@ -116573,6 +116573,21 @@
    ]
   },
   {
+   "slug": "hg-1180-2021",
+   "path": "hg/2021/1180",
+   "short": "HG nr. 1180/2021",
+   "title": "Hotărârea Guvernului nr. 1180/2021 privind aprobarea stemei comunei Arcani, judeţul Gorj",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/248377",
+   "versions": [
+    {
+     "from": "2021-11-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/248377",
+     "sha256": "1120cf5dc2cc173885b56d7e8571c22300d6aef8d3a54a501512edaef028616d"
+    }
+   ]
+  },
+  {
    "slug": "hg-1180-2022",
    "path": "hg/2022/1180",
    "short": "HG nr. 1180/2022",
@@ -125888,6 +125903,21 @@
    ]
   },
   {
+   "slug": "hg-13-2022",
+   "path": "hg/2022/13",
+   "short": "HG nr. 13/2022",
+   "title": "Hotărârea Guvernului nr. 13/2022 privind numirea domnului Patraşcu Lucian în funcţia de subprefect al judeţului Braşov",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/250219",
+   "versions": [
+    {
+     "from": "2022-01-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/250219",
+     "sha256": "5fe2c0fb096abe62f033410c8868c45a7021b9979083873a62b2d54374c8214f"
+    }
+   ]
+  },
+  {
    "slug": "hg-13-2023",
    "path": "hg/2023/13",
    "short": "HG nr. 13/2023",
@@ -132091,6 +132121,21 @@
      "units": 1,
      "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/222324",
      "sha256": "9e7e048216e3bd7a2e54c82d314e676bf31cc4d4ca99151a86e5d244fb83eade"
+    }
+   ]
+  },
+  {
+   "slug": "hg-14-2022",
+   "path": "hg/2022/14",
+   "short": "HG nr. 14/2022",
+   "title": "Hotărârea Guvernului nr. 14/2022 privind numirea domnului Cucu Sebastian în funcţia de subprefect al judeţului Covasna",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/250220",
+   "versions": [
+    {
+     "from": "2022-01-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/250220",
+     "sha256": "12f9171715ffd0698a4c738e3b908100e5e224fcf9998edcd3fcf23033230521"
     }
    ]
   },
@@ -205382,6 +205427,27 @@
    ]
   },
   {
+   "slug": "hg-637-2017",
+   "path": "hg/2017/637",
+   "short": "HG nr. 637/2017",
+   "title": "Hotărârea Guvernului nr. 637/2017 pentru organizarea şi funcţionarea Consiliului pentru Coordonarea Industriei Naţionale de Apărare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/193166",
+   "versions": [
+    {
+     "from": "2017-09-13",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/193166",
+     "sha256": "dd10f60972e2b403aeaac7b2100fa56687792b346e524a4bb69f94f97104f11a"
+    },
+    {
+     "from": "2018-05-08",
+     "units": 5,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/193166",
+     "sha256": "fbb4d856ac7ea42d0bf36295125563db77868f10d3d20314ccef8e25db0807bc"
+    }
+   ]
+  },
+  {
    "slug": "hg-637-2020",
    "path": "hg/2020/637",
    "short": "HG nr. 637/2020",
@@ -232424,6 +232490,21 @@
    ]
   },
   {
+   "slug": "hg-86-2022",
+   "path": "hg/2022/86",
+   "short": "HG nr. 86/2022",
+   "title": "Hotărârea Guvernului nr. 86/2022 privind numirea domnului Manolache Tiberiu în funcţia de subprefect al judeţului Botoşani",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/250636",
+   "versions": [
+    {
+     "from": "2022-01-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/250636",
+     "sha256": "d61fd2d0deea6cd3abb254d28d0134d84b8d4ede8acfa72983acfa77479eef5c"
+    }
+   ]
+  },
+  {
    "slug": "hg-86-2023",
    "path": "hg/2023/86",
    "short": "HG nr. 86/2023",
@@ -258970,6 +259051,27 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/182518",
      "sha256": "48c1e5f3aa44acdc926c5be8642c7c7e72631c6043c0786b2c37fb965338705b"
+    }
+   ]
+  },
+  {
+   "slug": "legea-173-2020",
+   "path": "lege/2020/173",
+   "short": "Legea nr. 173/2020",
+   "title": "Legea nr. 173/2020 privind unele măsuri pentru protejarea intereselor naţionale în activitatea economică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/229111",
+   "versions": [
+    {
+     "from": "2020-08-16",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/229111",
+     "sha256": "fffc825d1205be154fbc460a37ff2469fa9a510a2ad571e009ba75dc3d93b7b4"
+    },
+    {
+     "from": "2020-10-05",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/229111",
+     "sha256": "9149bce4cec68eb35cefc8d84a1f1fa21959c4a7a65642dce8eaf82b21eb6a41"
     }
    ]
   },

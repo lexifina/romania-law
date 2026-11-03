@@ -27372,6 +27372,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/229109"
 },
 {
+"slug": "legea-173-2020",
+"path": "lege/2020/173",
+"kind": "lege",
+"year": "2020",
+"number": "173",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 173/2020 privind unele măsuri pentru protejarea intereselor naţionale în activitatea economică",
+"short": "Legea nr. 173/2020",
+"code": null,
+"status": "in force",
+"versions": 2,
+"from": "2020-08-16",
+"latest": "2020-10-05",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/229111"
+},
+{
 "slug": "legea-174-2020",
 "path": "lege/2020/174",
 "kind": "lege",
@@ -146661,6 +146678,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/192893"
 },
 {
+"slug": "hg-637-2017",
+"path": "hg/2017/637",
+"kind": "hg",
+"year": "2017",
+"number": "637",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 637/2017 pentru organizarea şi funcţionarea Consiliului pentru Coordonarea Industriei Naţionale de Apărare",
+"short": "HG nr. 637/2017",
+"code": null,
+"status": "in force",
+"versions": 2,
+"from": "2017-09-13",
+"latest": "2018-05-08",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/193166"
+},
+{
 "slug": "hg-639-2017",
 "path": "hg/2017/639",
 "kind": "hg",
@@ -190946,6 +190980,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/248252"
 },
 {
+"slug": "hg-1180-2021",
+"path": "hg/2021/1180",
+"kind": "hg",
+"year": "2021",
+"number": "1180",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 1180/2021 privind aprobarea stemei comunei Arcani, judeţul Gorj",
+"short": "HG nr. 1180/2021",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2021-11-11",
+"latest": "2021-11-11",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/248377"
+},
+{
 "slug": "hg-1181-2021",
 "path": "hg/2021/1181",
 "kind": "hg",
@@ -192969,6 +193020,40 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/250218"
 },
 {
+"slug": "hg-13-2022",
+"path": "hg/2022/13",
+"kind": "hg",
+"year": "2022",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 13/2022 privind numirea domnului Patraşcu Lucian în funcţia de subprefect al judeţului Braşov",
+"short": "HG nr. 13/2022",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2022-01-05",
+"latest": "2022-01-05",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/250219"
+},
+{
+"slug": "hg-14-2022",
+"path": "hg/2022/14",
+"kind": "hg",
+"year": "2022",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 14/2022 privind numirea domnului Cucu Sebastian în funcţia de subprefect al judeţului Covasna",
+"short": "HG nr. 14/2022",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2022-01-05",
+"latest": "2022-01-05",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/250220"
+},
+{
 "slug": "hg-16-2022",
 "path": null,
 "kind": "hg",
@@ -193783,6 +193868,23 @@
 "from": "2022-01-19",
 "latest": "2022-01-19",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/250635"
+},
+{
+"slug": "hg-86-2022",
+"path": "hg/2022/86",
+"kind": "hg",
+"year": "2022",
+"number": "86",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 86/2022 privind numirea domnului Manolache Tiberiu în funcţia de subprefect al judeţului Botoşani",
+"short": "HG nr. 86/2022",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2022-01-19",
+"latest": "2022-01-19",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/250636"
 },
 {
 "slug": "hg-88-2022",
