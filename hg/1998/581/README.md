@@ -43,3 +43,11 @@ Act id: `hg-581-1998` (tags `hg-581-1998/<day>`; `python tools/on.py <day> hg-58
 - HG nr. 581/1998: the first version is the Government decision as published in Monitorul Oficial nr. 349 of 15 September 1998 (DetaliiDocumentAfis/15671), dated 15 September 1998: a Government decision with no day of its own, in force on publication (Legea nr. 24/2000 art. 12 alin. (3)). The portal holds no consolidated form before 11 February 1999, so the changes made up to then arrive together that day.
 - HG nr. 581/1998: 1 changed article(s) with no note naming a law, committed as the publisher's: 2006-05-15 art-003.
 - HG nr. 581/1998: forms with no change after normalisation, so no version: 2004-01-28 (177206), 2006-05-18 (177210), 2007-11-29 (177214), 2010-11-17 (177216), 2011-07-08 (177218).
+
+## Credits corrected
+
+These changes were first published credited to another law. The words are unchanged; `git blame` still names the commit that wrote them, and `data/credits.csv` lists every corrected credit.
+
+- `art-017.md`, in force from 2002-11-01: HG nr. 1199/2002 (first published as no law named).
+- `art-020.md`, in force from 2002-11-01: HG nr. 1199/2002 (first published as no law named).
+- `art-022.md`, in force from 2007-01-20: OG nr. 1/2007 (first published as no law named).
