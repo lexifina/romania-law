@@ -1896,7 +1896,7 @@
 | Ordonanța de urgență a Guvernului nr. 214/2000 | [`oug/2000/214/`](oug/2000/214/) | in force | 4 | 2000-11-28 | 2009-05-11 |
 | Ordonanța de urgență a Guvernului nr. 215/2000 | [`oug/2000/215/`](oug/2000/215/) | in force | 1 | 2000-11-25 | 2000-11-25 |
 | Ordonanța de urgență a Guvernului nr. 217/2000 | [`oug/2000/217/`](oug/2000/217/) | in force | 3 | 2000-11-25 | 2020-08-17 |
-| Ordonanța de urgență a Guvernului nr. 221/2000 | [`oug/2000/221/`](oug/2000/221/) | repealed 2016-05-08 | 3 | 2001-05-28 | 2016-05-08 |
+| Ordonanța de urgență a Guvernului nr. 221/2000 | [`oug/2000/221/`](oug/2000/221/) | repealed 2016-08-03 | 3 | 2001-05-28 | 2016-08-03 |
 | Ordonanța de urgență a Guvernului nr. 226/2000 | [`oug/2000/226/`](oug/2000/226/) | in force | 2 | 2000-11-25 | 2002-03-18 |
 | Ordonanța de urgență a Guvernului nr. 229/2000 | [`oug/2000/229/`](oug/2000/229/) | in force | 1 | 2000-11-25 | 2000-11-25 |
 | Ordonanța de urgență a Guvernului nr. 236/2000 | [`oug/2000/236/`](oug/2000/236/) | in force | 4 | 2000-12-04 | 2007-07-22 |
