@@ -3164,6 +3164,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/17456"
 },
 {
+"slug": "legea-115-1999",
+"path": "lege/1999/115",
+"kind": "lege",
+"year": "1999",
+"number": "115",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 115/1999",
+"short": "Legea nr. 115/1999",
+"code": null,
+"status": "in force",
+"versions": 11,
+"from": "1999-07-28",
+"latest": "2014-02-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/18561"
+},
+{
 "slug": "legea-117-1999",
 "path": "lege/1999/117",
 "kind": "lege",
@@ -20589,6 +20606,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/228064"
 },
 {
+"slug": "legea-237-2019",
+"path": "lege/2019/237",
+"kind": "lege",
+"year": "2019",
+"number": "237",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 237/2019 pentru continuarea dezvoltării capabilităţii operaţionale aeriene cuprinse în Etapa de tranziţie iniţială a Concepţiei de realizare graduală a capabilităţii de apărare aeriană în cadrul programului \"Avion multirol al Forţelor Aeriene\"",
+"short": "Legea nr. 237/2019",
+"code": null,
+"status": "in force",
+"versions": 2,
+"from": "2019-12-22",
+"latest": "2020-02-11",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/221082"
+},
+{
 "slug": "legea-241-2019",
 "path": "lege/2019/241",
 "kind": "lege",
@@ -30500,6 +30534,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/15140"
 },
 {
+"slug": "oug-13-1998",
+"path": "oug/1998/13",
+"kind": "oug",
+"year": "1998",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 13/1998",
+"short": "OUG nr. 13/1998",
+"code": null,
+"status": "in force",
+"versions": 2,
+"from": "1998-07-08",
+"latest": "2009-07-29",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/161683"
+},
+{
 "slug": "oug-24-1998",
 "path": "oug/1998/24",
 "kind": "oug",
@@ -30515,6 +30566,23 @@
 "from": "1998-10-02",
 "latest": "2005-05-22",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/67152"
+},
+{
+"slug": "oug-27-1998",
+"path": "oug/1998/27",
+"kind": "oug",
+"year": "1998",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 27/1998",
+"short": "OUG nr. 27/1998",
+"code": null,
+"status": "in force",
+"versions": 2,
+"from": "1998-10-13",
+"latest": "1999-04-22",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/217418"
 },
 {
 "slug": "oug-67-1998",
@@ -31894,6 +31962,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/29290"
 },
 {
+"slug": "oug-108-2001",
+"path": "oug/2001/108",
+"kind": "oug",
+"year": "2001",
+"number": "108",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 108/2001",
+"short": "OUG nr. 108/2001",
+"code": null,
+"status": "in force",
+"versions": 4,
+"from": "2001-07-30",
+"latest": "2010-02-02",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/116286"
+},
+{
 "slug": "oug-112-2001",
 "path": "oug/2001/112",
 "kind": "oug",
@@ -32863,6 +32948,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/42336"
 },
 {
+"slug": "oug-16-2003",
+"path": "oug/2003/16",
+"kind": "oug",
+"year": "2003",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 16/2003",
+"short": "OUG nr. 16/2003",
+"code": null,
+"status": "in force",
+"versions": 2,
+"from": "2003-04-05",
+"latest": "2004-07-02",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/217056"
+},
+{
 "slug": "oug-19-2003",
 "path": "oug/2003/19",
 "kind": "oug",
@@ -33543,6 +33645,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/74899"
 },
 {
+"slug": "oug-11-2004",
+"path": "oug/2004/11",
+"kind": "oug",
+"year": "2004",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 11/2004 privind stabilirea unor măsuri de reorganizare în cadrul administrației publice centrale",
+"short": "OUG nr. 11/2004",
+"code": null,
+"status": "in force",
+"versions": 20,
+"from": "2004-03-25",
+"latest": "2007-04-23",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/97927"
+},
+{
 "slug": "oug-17-2004",
 "path": "oug/2004/17",
 "kind": "oug",
@@ -33592,6 +33711,23 @@
 "from": "2004-04-26",
 "latest": "2025-10-25",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/51410"
+},
+{
+"slug": "oug-23-2004",
+"path": "oug/2004/23",
+"kind": "oug",
+"year": "2004",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 23/2004",
+"short": "OUG nr. 23/2004",
+"code": null,
+"status": "in force",
+"versions": 9,
+"from": "2004-04-23",
+"latest": "2014-07-27",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/51375"
 },
 {
 "slug": "oug-24-2004",
@@ -35855,6 +35991,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/83150"
 },
 {
+"slug": "oug-56-2007",
+"path": "oug/2007/56",
+"kind": "oug",
+"year": "2007",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 56/2007",
+"short": "OUG nr. 56/2007",
+"code": null,
+"status": "in force",
+"versions": 4,
+"from": "2007-06-26",
+"latest": "2011-07-31",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/83151"
+},
+{
 "slug": "oug-57-2007",
 "path": "oug/2007/57",
 "kind": "oug",
@@ -37179,6 +37332,23 @@
 "from": "2008-09-24",
 "latest": "2016-10-07",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/97575"
+},
+{
+"slug": "oug-118-2008",
+"path": "oug/2008/118",
+"kind": "oug",
+"year": "2008",
+"number": "118",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 118/2008",
+"short": "OUG nr. 118/2008",
+"code": null,
+"status": "in force",
+"versions": 2,
+"from": "2008-10-03",
+"latest": "2009-05-17",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/202417"
 },
 {
 "slug": "oug-123-2008",
@@ -41327,6 +41497,23 @@
 "from": "2013-06-19",
 "latest": "2025-09-01",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/301694"
+},
+{
+"slug": "oug-47-2013",
+"path": "oug/2013/47",
+"kind": "oug",
+"year": "2013",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 47/2013",
+"short": "OUG nr. 47/2013",
+"code": null,
+"status": "in force",
+"versions": 5,
+"from": "2013-05-27",
+"latest": "2019-12-24",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/220283"
 },
 {
 "slug": "oug-53-2013",
@@ -46939,6 +47126,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/224645"
 },
 {
+"slug": "oug-40-2020",
+"path": "oug/2020/40",
+"kind": "oug",
+"year": "2020",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 40/2020 privind întărirea capacităţii administrative a sistemului sanitar",
+"short": "OUG nr. 40/2020",
+"code": null,
+"status": "in force",
+"versions": 2,
+"from": "2020-04-03",
+"latest": "2020-06-13",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/224646"
+},
+{
 "slug": "oug-41-2020",
 "path": "oug/2020/41",
 "kind": "oug",
@@ -47022,6 +47226,23 @@
 "from": "2020-04-13",
 "latest": "2020-04-13",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/224829"
+},
+{
+"slug": "oug-47-2020",
+"path": "oug/2020/47",
+"kind": "oug",
+"year": "2020",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 47/2020 pentru stabilirea, pe perioada stării de urgenţă instituite prin Decretul nr. 195/2020 , a condiţiilor de comercializare a benzinei şi motorinei în contextul crizei economice generate de pandemia SARS-CoV-2",
+"short": "OUG nr. 47/2020",
+"code": null,
+"status": "in force",
+"versions": 2,
+"from": "2020-04-14",
+"latest": "2020-05-12",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/224857"
 },
 {
 "slug": "oug-48-2020",
@@ -55473,6 +55694,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/7829"
 },
 {
+"slug": "og-9-1996",
+"path": "og/1996/9",
+"kind": "og",
+"year": "1996",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța Guvernului nr. 9/1996",
+"short": "OG nr. 9/1996",
+"code": null,
+"status": "in force",
+"versions": 10,
+"from": "1996-01-30",
+"latest": "2012-09-04",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/7848"
+},
+{
 "slug": "og-10-1996",
 "path": "og/1996/10",
 "kind": "og",
@@ -55794,6 +56032,23 @@
 "from": "1998-01-30",
 "latest": "1998-11-23",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/217701"
+},
+{
+"slug": "og-11-1998",
+"path": "og/1998/11",
+"kind": "og",
+"year": "1998",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța Guvernului nr. 11/1998",
+"short": "OG nr. 11/1998",
+"code": null,
+"status": "in force",
+"versions": 2,
+"from": "1998-01-30",
+"latest": "1998-06-09",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/226367"
 },
 {
 "slug": "og-15-1998",
@@ -57190,6 +57445,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/30383"
 },
 {
+"slug": "og-75-2001",
+"path": "og/2001/75",
+"kind": "og",
+"year": "2001",
+"number": "75",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța Guvernului nr. 75/2001",
+"short": "OG nr. 75/2001",
+"code": null,
+"status": "in force",
+"versions": 12,
+"from": "2002-01-01",
+"latest": "2012-07-09",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/139559"
+},
+{
 "slug": "og-78-2001",
 "path": "og/2001/78",
 "kind": "og",
@@ -57613,6 +57885,23 @@
 "from": "2002-02-02",
 "latest": "2007-03-02",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/80204"
+},
+{
+"slug": "og-38-2002",
+"path": "og/2002/38",
+"kind": "og",
+"year": "2002",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța Guvernului nr. 38/2002",
+"short": "OG nr. 38/2002",
+"code": null,
+"status": "in force",
+"versions": 4,
+"from": "2002-02-02",
+"latest": "2004-05-15",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/217391"
 },
 {
 "slug": "og-53-2002",
@@ -58225,6 +58514,23 @@
 "from": "2004-02-03",
 "latest": "2004-04-25",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/49458"
+},
+{
+"slug": "og-29-2004",
+"path": "og/2004/29",
+"kind": "og",
+"year": "2004",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța Guvernului nr. 29/2004",
+"short": "OG nr. 29/2004",
+"code": null,
+"status": "in force",
+"versions": 8,
+"from": "2004-02-03",
+"latest": "2012-01-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/141050"
 },
 {
 "slug": "og-31-2004",
@@ -79715,6 +80021,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/159495"
 },
 {
+"slug": "hg-536-2014",
+"path": "hg/2014/536",
+"kind": "hg",
+"year": "2014",
+"number": "536",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 536/2014",
+"short": "HG nr. 536/2014",
+"code": null,
+"status": "in force",
+"versions": 2,
+"from": "2014-07-09",
+"latest": "2015-01-21",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/165300"
+},
+{
 "slug": "hg-615-2014",
 "path": "hg/2014/615",
 "kind": "hg",
@@ -86328,6 +86651,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/214905"
 },
 {
+"slug": "hg-363-2019",
+"path": "hg/2019/363",
+"kind": "hg",
+"year": "2019",
+"number": "363",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 363/2019 privind repartizarea unor sume din transferuri din bugetul de stat către bugete locale, prevăzute în bugetul Ministerului Educaţiei Naţionale, pentru finanţarea în anul 2019 a unor cheltuieli de capital ale unităţilor de învăţământ preuniversitar de stat",
+"short": "HG nr. 363/2019",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2019-06-07",
+"latest": "2019-06-07",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/214818"
+},
+{
 "slug": "hg-366-2019",
 "path": "hg/2019/366",
 "kind": "hg",
@@ -87261,6 +87601,23 @@
 "from": "2019-10-09",
 "latest": "2019-10-09",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/218798"
+},
+{
+"slug": "hg-730-2019",
+"path": "hg/2019/730",
+"kind": "hg",
+"year": "2019",
+"number": "730",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 730/2019 pentru reaprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Pavilion de medicină operaţională - politraumă în cazarma 1053 Craiova\"",
+"short": "HG nr. 730/2019",
+"code": null,
+"status": "in force",
+"versions": 2,
+"from": "2019-10-14",
+"latest": "2024-04-02",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/280354"
 },
 {
 "slug": "hg-773-2019",
@@ -88793,6 +89150,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/227527"
 },
 {
+"slug": "hg-518-2020",
+"path": "hg/2020/518",
+"kind": "hg",
+"year": "2020",
+"number": "518",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 518/2020 privind declanşarea procedurilor de expropriere a tuturor imobilelor proprietate privată care constituie coridorul de expropriere al lucrării de utilitate publică de interes naţional \"Autostrada Sibiu Piteşti\" Secţiunea 4, aflate pe raza localităţilor Tigveni şi Curtea de Argeş din judeţul Argeş",
+"short": "HG nr. 518/2020",
+"code": null,
+"status": "in force",
+"versions": 2,
+"from": "2020-07-13",
+"latest": "2022-10-31",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/280919"
+},
+{
 "slug": "hg-546-2020",
 "path": "hg/2020/546",
 "kind": "hg",
@@ -88825,6 +89199,23 @@
 "from": "2020-07-16",
 "latest": "2020-07-16",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/227910"
+},
+{
+"slug": "hg-558-2020",
+"path": "hg/2020/558",
+"kind": "hg",
+"year": "2020",
+"number": "558",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 558/2020 privind aprobarea Programului Naţional INNOTECH STUDENT, finanţat în cadrul Programului operaţional Capital uman 2014-2020",
+"short": "HG nr. 558/2020",
+"code": null,
+"status": "amending act",
+"versions": 2,
+"from": "2020-07-17",
+"latest": "2021-11-16",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/227941"
 },
 {
 "slug": "hg-559-2020",
@@ -88944,6 +89335,23 @@
 "from": "2020-08-05",
 "latest": "2020-08-05",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/228679"
+},
+{
+"slug": "hg-599-2020",
+"path": "hg/2020/599",
+"kind": "hg",
+"year": "2020",
+"number": "599",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 599/2020 privind aprobarea Programului naţional Competenţe digitale pentru angajaţii din sectorul întreprinderilor mici şi mijlocii, finanţat în cadrul Programului operaţional Capital uman 2014-2020",
+"short": "HG nr. 599/2020",
+"code": null,
+"status": "amending act",
+"versions": 3,
+"from": "2020-08-04",
+"latest": "2022-08-08",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/228658"
 },
 {
 "slug": "hg-643-2020",
@@ -90238,6 +90646,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/269956"
 },
 {
+"slug": "hg-1120-2020",
+"path": "hg/2020/1120",
+"kind": "hg",
+"year": "2020",
+"number": "1120",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 1120/2020 privind aprobarea amplasamentului şi declanşarea procedurilor de expropriere a tuturor imobilelor proprietate privată care constituie coridorul de expropriere al lucrării de utilitate publică de interes naţional \"Lucrări pentru menţinerea şi dezvoltarea capacităţii la cariera Tismana I, judeţul Gorj, la 5.000.000 tone/an lignit\"",
+"short": "HG nr. 1120/2020",
+"code": null,
+"status": "amending act",
+"versions": 2,
+"from": "2020-12-31",
+"latest": "2026-03-02",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/307631"
+},
+{
 "slug": "hg-1128-2020",
 "path": "hg/2020/1128",
 "kind": "hg",
@@ -90918,6 +91343,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/240778"
 },
 {
+"slug": "hg-406-2021",
+"path": "hg/2021/406",
+"kind": "hg",
+"year": "2021",
+"number": "406",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 406/2021 pentru aprobarea modului de repartizare şi de utilizare a sumelor prevăzute la lit. a) şi b) din anexa nr. 3/13/02a la bugetul Secretariatului General al Guvernului, aprobat prin Legea bugetului de stat pe anul 2021 nr. 15/2021",
+"short": "HG nr. 406/2021",
+"code": null,
+"status": "amending act",
+"versions": 2,
+"from": "2021-04-08",
+"latest": "2021-11-15",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/240847"
+},
+{
 "slug": "hg-409-2021",
 "path": "hg/2021/409",
 "kind": "hg",
@@ -91052,6 +91494,23 @@
 "from": "2021-04-28",
 "latest": "2021-04-28",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/241862"
+},
+{
+"slug": "hg-477-2021",
+"path": "hg/2021/477",
+"kind": "hg",
+"year": "2021",
+"number": "477",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 477/2021 privind aprobarea cifrelor de şcolarizare pentru învăţământul preuniversitar de stat şi pentru învăţământul superior de stat în anul şcolar/universitar 2021-2022",
+"short": "HG nr. 477/2021",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2021-04-26",
+"latest": "2021-04-26",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/241612"
 },
 {
 "slug": "hg-491-2021",
@@ -91239,6 +91698,23 @@
 "from": "2021-06-10",
 "latest": "2021-06-10",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/243171"
+},
+{
+"slug": "hg-652-2021",
+"path": "hg/2021/652",
+"kind": "hg",
+"year": "2021",
+"number": "652",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 652/2021 privind aprobarea programului de susţinere a producţiei de plante aromatice pentru anul 2021",
+"short": "HG nr. 652/2021",
+"code": null,
+"status": "amending act",
+"versions": 2,
+"from": "2021-06-18",
+"latest": "2021-10-26",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/243347"
 },
 {
 "slug": "hg-654-2021",
