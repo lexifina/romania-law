@@ -4478,6 +4478,501 @@
    ]
   },
   {
+   "slug": "oug-195-2002",
+   "path": "oug/2002/195",
+   "short": "OUG nr. 195/2002",
+   "title": "Ordonanța de urgență a Guvernului nr. 195/2002 privind circulația pe drumurile publice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/74028",
+   "versions": [
+    {
+     "from": "2004-07-12",
+     "units": 118,
+     "source_url": "https://web.archive.org/web/20260202082405id_/https://legislatie.just.ro/Public/DetaliiDocument/53523",
+     "sha256": "e18050d147222352b6aaa6b9294630de9b427a240bdfee297b3ffd28e6b82636"
+    },
+    {
+     "from": "2006-09-20",
+     "units": 148,
+     "source_url": "https://web.archive.org/web/20260615075302id_/https://legislatie.just.ro/Public/DetaliiDocument/70080",
+     "sha256": "fc693a5f8cff7bdcb9e69b57e0ef499729159e7579ad1c8913fdfb2b0fdeeff7"
+    },
+    {
+     "from": "2006-09-20",
+     "units": 137,
+     "source_url": "https://web.archive.org/web/20260524193559id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/74028",
+     "sha256": "0037bce8a3b834cfceda8ab8dd177d8fc4c803ef51a8a58f107ecd09ee4b712b"
+    },
+    {
+     "from": "2006-12-01",
+     "units": 138,
+     "source_url": "https://web.archive.org/web/20260202072805id_/https://legislatie.just.ro/Public/DetaliiDocument/75723",
+     "sha256": "b4cb13409e7a56f8d2ae7cd39de53dc74947479ba60a79aff9a940949143c2a2"
+    },
+    {
+     "from": "2007-01-20",
+     "units": 138,
+     "source_url": "https://web.archive.org/web/20260208193420id_/https://legislatie.just.ro/Public/DetaliiDocument/78741",
+     "sha256": "15a17b56329d6d833afacaeabecf0d16c1c53e0453a54f1d3ae716eae848cb95"
+    },
+    {
+     "from": "2007-05-09",
+     "units": 138,
+     "source_url": "https://web.archive.org/web/20260216090235id_/https://legislatie.just.ro/Public/DetaliiDocument/81870",
+     "sha256": "44851573d0a63f16dff3a4139c63b0c923a67726f73066a1e6e51ff56c673922"
+    },
+    {
+     "from": "2007-06-29",
+     "units": 139,
+     "source_url": "https://web.archive.org/web/20260202060131id_/https://legislatie.just.ro/Public/DetaliiDocument/83300",
+     "sha256": "31110899824c85f9731d0b84bcde04e934c46d57a25e13d7ff8367fdec9b2d42"
+    },
+    {
+     "from": "2007-08-17",
+     "units": 139,
+     "source_url": "https://web.archive.org/web/20260202073423id_/https://legislatie.just.ro/Public/DetaliiDocument/96379",
+     "sha256": "beaeb89226f74bc5f42a5b376a58709574fac98441a45ad78ca48b2f85530202"
+    },
+    {
+     "from": "2008-11-07",
+     "units": 139,
+     "source_url": "https://web.archive.org/web/20260202110522id_/https://legislatie.just.ro/Public/DetaliiDocument/99116",
+     "sha256": "5803e291d4a37335b87f42bbe7789b2fdf1f8107826c12037308653289bb2573"
+    },
+    {
+     "from": "2009-03-02",
+     "units": 139,
+     "source_url": "https://web.archive.org/web/20260707040630id_/https://legislatie.just.ro/Public/DetaliiDocument/103000",
+     "sha256": "b36a32f4742c8e706c944adbd6289d61adc890a69868c3a8f0f7199c2d8d7ffb"
+    },
+    {
+     "from": "2010-06-23",
+     "units": 139,
+     "source_url": "https://web.archive.org/web/20260207162857id_/https://legislatie.just.ro/Public/DetaliiDocument/119975",
+     "sha256": "46e27287bab148f1e88afcb0ae1607befbcf9c33066b97eae57890f682c7fed1"
+    },
+    {
+     "from": "2010-11-25",
+     "units": 139,
+     "source_url": "https://web.archive.org/web/20260107060737id_/https://legislatie.just.ro/Public/DetaliiDocument/123236",
+     "sha256": "a86589903fc7c7f85c4ec2db3b44ed2d23c5ab7ea30a021038e16cff4a0d27c6"
+    },
+    {
+     "from": "2011-10-01",
+     "units": 139,
+     "source_url": "https://web.archive.org/web/20260202055708id_/https://legislatie.just.ro/Public/DetaliiDocument/125798",
+     "sha256": "557075888972ce0f47e016d065771d394b6f6d4d9942b35dd4687b716fb3b897"
+    },
+    {
+     "from": "2012-09-02",
+     "units": 139,
+     "source_url": "https://web.archive.org/web/20260202054713id_/https://legislatie.just.ro/Public/DetaliiDocument/142867",
+     "sha256": "e4cf5ce1aca55425004b726dc2d29abc2ab61ee692dd686f25d6949a49425d4e"
+    },
+    {
+     "from": "2012-11-15",
+     "units": 140,
+     "source_url": "https://web.archive.org/web/20260202064715id_/https://legislatie.just.ro/Public/DetaliiDocument/142868",
+     "sha256": "71150c8382431db7989d3d316e4ffc8227cee780f7668fa355ad67135def41b4"
+    },
+    {
+     "from": "2013-01-19",
+     "units": 142,
+     "source_url": "https://web.archive.org/web/20260309224652id_/https://legislatie.just.ro/Public/DetaliiDocument/142869",
+     "sha256": "b47fcaf53457c32ec771a81d250181f71a40f652edf222ca2d44562478210b36"
+    },
+    {
+     "from": "2014-02-01",
+     "units": 142,
+     "source_url": "https://web.archive.org/web/20260219035519id_/https://legislatie.just.ro/Public/DetaliiDocument/142870",
+     "sha256": "fb0e1628511286fa29406cd9cc2011aa4d4c85b50ba578749dffb120fb0fc18b"
+    },
+    {
+     "from": "2014-09-01",
+     "units": 142,
+     "source_url": "https://web.archive.org/web/20260202060345id_/https://legislatie.just.ro/Public/DetaliiDocument/161000",
+     "sha256": "a4e919c15cf6d617aa390ee918e9fe837d3c26ca5543ebda8091f41fd7727a02"
+    },
+    {
+     "from": "2014-09-28",
+     "units": 142,
+     "source_url": "https://web.archive.org/web/20260202055011id_/https://legislatie.just.ro/Public/DetaliiDocument/161001",
+     "sha256": "cfe86abba6ffad978bf63f2769d214c6f3c10a3a875013e830824040d205177d"
+    },
+    {
+     "from": "2016-05-16",
+     "units": 142,
+     "source_url": "https://web.archive.org/web/20251114111815id_/https://legislatie.just.ro/Public/DetaliiDocument/178465",
+     "sha256": "3191574e9eb18146ee96f12f66ac6f4b9689c720452891e5b554c9b24067f965"
+    },
+    {
+     "from": "2016-06-30",
+     "units": 143,
+     "source_url": "https://web.archive.org/web/20260512115341id_/https://legislatie.just.ro/Public/DetaliiDocument/179673",
+     "sha256": "44ad8bce75b637a4386d474fe383a4b736da0d183bd568a6a1cf09eb616134ad"
+    },
+    {
+     "from": "2017-09-02",
+     "units": 144,
+     "source_url": "https://web.archive.org/web/20260202054642id_/https://legislatie.just.ro/Public/DetaliiDocument/192269",
+     "sha256": "4b67e33cb94d755ca97a7e5f720cbb95a268ab603855e38e0e5c42fffc027f58"
+    },
+    {
+     "from": "2017-09-22",
+     "units": 144,
+     "source_url": "https://web.archive.org/web/20260202083306id_/https://legislatie.just.ro/Public/DetaliiDocument/192270",
+     "sha256": "098f277296427b2266b2edd12ed31fa6313d35e8fb808a7bd262283ddcb969a5"
+    },
+    {
+     "from": "2017-12-07",
+     "units": 144,
+     "source_url": "https://web.archive.org/web/20260202052813id_/https://legislatie.just.ro/Public/DetaliiDocument/195276",
+     "sha256": "4444a84e790c07497fe60295953e3ca7cb2d646476434cfa448c57d9e0ecdd80"
+    },
+    {
+     "from": "2018-08-24",
+     "units": 144,
+     "source_url": "https://web.archive.org/web/20260215081408id_/https://legislatie.just.ro/Public/DetaliiDocument/202881",
+     "sha256": "c05f4c273fe3bb84af8cf7fd4e5062c00b762955b06e4652c0cc65ff1e928fe1"
+    },
+    {
+     "from": "2018-11-14",
+     "units": 144,
+     "source_url": "https://web.archive.org/web/20260308184529id_/https://legislatie.just.ro/Public/DetaliiDocument/206742",
+     "sha256": "091ac80396aa37e49cccd87df464f1fc2248949c8db0dc5d17694475cbfa8c5b"
+    },
+    {
+     "from": "2019-01-06",
+     "units": 144,
+     "source_url": "https://web.archive.org/web/20260207044811id_/https://legislatie.just.ro/Public/DetaliiDocument/209203",
+     "sha256": "9013d28afffaa5827839fdcfe2ec9d310fe34a03a0551938e6f7620328808820"
+    },
+    {
+     "from": "2019-07-18",
+     "units": 145,
+     "source_url": "https://web.archive.org/web/20260202070618id_/https://legislatie.just.ro/Public/DetaliiDocument/215794",
+     "sha256": "a23c1b594b4c51da683ba10ef25223befea0868979e885f4248bc1da9c00f78d"
+    },
+    {
+     "from": "2019-07-29",
+     "units": 145,
+     "source_url": "https://web.archive.org/web/20260202073032id_/https://legislatie.just.ro/Public/DetaliiDocument/216313",
+     "sha256": "299d458ec1bc132e340220c859d26d9c74e2e6eede107405f0c987c2de961caf"
+    },
+    {
+     "from": "2019-08-16",
+     "units": 147,
+     "source_url": "https://web.archive.org/web/20260126110453id_/https://legislatie.just.ro/Public/DetaliiDocument/216961",
+     "sha256": "774423b8515a3e925cbc6bed44b4ada7e490a28fb711a9729d52f7c3529f1b98"
+    },
+    {
+     "from": "2019-10-12",
+     "units": 147,
+     "source_url": "https://web.archive.org/web/20260202060212id_/https://legislatie.just.ro/Public/DetaliiDocument/216962",
+     "sha256": "521b46e6800e52605b386e107738f46547a7bab3da9d743671094f01a7faaea4"
+    },
+    {
+     "from": "2019-12-26",
+     "units": 147,
+     "source_url": "https://web.archive.org/web/20260202050910id_/https://legislatie.just.ro/Public/DetaliiDocument/220262",
+     "sha256": "53f2a0979d0ddf662637db9778289a13705ee4ddd139815996c6995e080bdfd8"
+    },
+    {
+     "from": "2019-12-27",
+     "units": 147,
+     "source_url": "https://web.archive.org/web/20260618072340id_/https://legislatie.just.ro/Public/DetaliiDocument/220279",
+     "sha256": "e253232542150f49fcaa136a3fb4bc428f0523c6da3337e140ce45dbd193e068"
+    },
+    {
+     "from": "2020-01-09",
+     "units": 147,
+     "source_url": "https://web.archive.org/web/20260202045828id_/https://legislatie.just.ro/Public/DetaliiDocument/221487",
+     "sha256": "db417d57f041c30a7dd175012647ed6f592ca27832ecc39b003f780218317005"
+    },
+    {
+     "from": "2020-02-11",
+     "units": 147,
+     "source_url": "https://web.archive.org/web/20260202053156id_/https://legislatie.just.ro/Public/DetaliiDocument/222294",
+     "sha256": "c557e3bcc517bb4b5b3e03541f0a02233168fc0865cc2f90be6066b2bd2437a3"
+    },
+    {
+     "from": "2020-03-12",
+     "units": 147,
+     "source_url": "https://web.archive.org/web/20260219095650id_/https://legislatie.just.ro/Public/DetaliiDocument/222295",
+     "sha256": "d008aeea48e8cc915b389907af9546c09b461491bad9bc05dc8684eb26a85020"
+    },
+    {
+     "from": "2020-04-09",
+     "units": 147,
+     "source_url": "https://web.archive.org/web/20260309021658id_/https://legislatie.just.ro/Public/DetaliiDocument/224080",
+     "sha256": "1df7b38e2cb06c4eef7814689281f20585a8921cf844981f70d839407993d336"
+    },
+    {
+     "from": "2020-05-27",
+     "units": 147,
+     "source_url": "https://web.archive.org/web/20260202051247id_/https://legislatie.just.ro/Public/DetaliiDocument/225776",
+     "sha256": "9f5d2edbcc7bdf779a7723ca3c4b60acf0b63483fd1c561d0ca68a467b3ebe93"
+    },
+    {
+     "from": "2020-09-01",
+     "units": 147,
+     "source_url": "https://web.archive.org/web/20251018025824id_/https://legislatie.just.ro/Public/DetaliiDocument/229356",
+     "sha256": "073ddd9f120af75e8f96d2938d12f8ae8ae0821740d4ceda41e6241ce9cda32a"
+    },
+    {
+     "from": "2020-11-28",
+     "units": 147,
+     "source_url": "https://web.archive.org/web/20260202065601id_/https://legislatie.just.ro/Public/DetaliiDocument/232345",
+     "sha256": "e61a86286a8e11079a8178f18cb472825bb6f1e7c3bf9641157b2c56816f84a5"
+    },
+    {
+     "from": "2020-12-31",
+     "units": 147,
+     "source_url": "https://web.archive.org/web/20260202060735id_/https://legislatie.just.ro/Public/DetaliiDocument/234888",
+     "sha256": "bb1af29f114d3dcdf85108369cdbd21de787bc863950415203bc1ba8452deffc"
+    },
+    {
+     "from": "2021-04-16",
+     "units": 147,
+     "source_url": "https://web.archive.org/web/20260207110355id_/https://legislatie.just.ro/Public/DetaliiDocument/240577",
+     "sha256": "8a365685b7f65a545f9a87994ee0f2a8b1aef0abf40860d1c166a4b20e80c677"
+    },
+    {
+     "from": "2021-12-10",
+     "units": 147,
+     "source_url": "https://web.archive.org/web/20260202054156id_/https://legislatie.just.ro/Public/DetaliiDocument/248000",
+     "sha256": "de6cc52d0d7224f7057e0fcb24d9d437a1db9afa28c63c06460b58e16c1f6071"
+    },
+    {
+     "from": "2021-12-18",
+     "units": 147,
+     "source_url": "https://web.archive.org/web/20260202070818id_/https://legislatie.just.ro/Public/DetaliiDocument/248246",
+     "sha256": "2c2ee6a4c44958bba3ac67f82256922c3968eef66a4c32a6bcc33d3d12a1da78"
+    },
+    {
+     "from": "2022-01-22",
+     "units": 147,
+     "source_url": "https://web.archive.org/web/20260310015125id_/https://legislatie.just.ro/Public/DetaliiDocument/249694",
+     "sha256": "f31658496d74c55e80fd199ca93bed22ccfb0b63da0390362d62a8eb2f5d31e2"
+    },
+    {
+     "from": "2022-01-31",
+     "units": 151,
+     "source_url": "https://web.archive.org/web/20260202075130id_/https://legislatie.just.ro/Public/DetaliiDocument/250729",
+     "sha256": "f4b23672ff7a321f88b70ce1027a80c59d5bb9add0c73ef947a75e2cb805772e"
+    },
+    {
+     "from": "2022-02-27",
+     "units": 151,
+     "source_url": "https://web.archive.org/web/20260219002416id_/https://legislatie.just.ro/Public/DetaliiDocument/250730",
+     "sha256": "996d3a39f9d63f10a1dde6f08384a9a0d85e5b8531080fc35308fdba3e9e88ef"
+    },
+    {
+     "from": "2022-04-16",
+     "units": 151,
+     "source_url": "https://web.archive.org/web/20260210050243id_/https://legislatie.just.ro/Public/DetaliiDocument/253078",
+     "sha256": "dd03a127360771c0be358b6a367c57be0c25e414a2dbc7384d9262fa91a6e666"
+    },
+    {
+     "from": "2022-05-16",
+     "units": 151,
+     "source_url": "https://web.archive.org/web/20251224161351id_/https://legislatie.just.ro/Public/DetaliiDocument/255109",
+     "sha256": "2d47c3a8355b854a578608561c667f9cce20c36a36c024ef02b30be900fcfa5b"
+    },
+    {
+     "from": "2022-11-20",
+     "units": 151,
+     "source_url": "https://web.archive.org/web/20260202071917id_/https://legislatie.just.ro/Public/DetaliiDocument/261104",
+     "sha256": "f89271e9133083af5f32334c69e95ec01c62908f7fd4dd8ca9709b193e0b6d1d"
+    },
+    {
+     "from": "2022-12-11",
+     "units": 151,
+     "source_url": "https://web.archive.org/web/20260202045724id_/https://legislatie.just.ro/Public/DetaliiDocument/261992",
+     "sha256": "d385c60cff9e8fc120f8edcf00949c09dc7ed854e7b875bce8448f4b53f260bc"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 151,
+     "source_url": "https://web.archive.org/web/20260205041714id_/https://legislatie.just.ro/Public/DetaliiDocument/262015",
+     "sha256": "a51296e5e42ec0f2bb435618060a362195328e8eeefc03c0c7e71e35ff17990d"
+    },
+    {
+     "from": "2023-01-02",
+     "units": 153,
+     "source_url": "https://web.archive.org/web/20260202055646id_/https://legislatie.just.ro/Public/DetaliiDocument/262800",
+     "sha256": "1e214df02dee40ab176faace611bbb898e493033090e8757a53313dc108f8459"
+    },
+    {
+     "from": "2023-02-02",
+     "units": 154,
+     "source_url": "https://web.archive.org/web/20260217062249id_/https://legislatie.just.ro/Public/DetaliiDocument/263391",
+     "sha256": "c5d06c9b58a2f177deced7d7dab2965fe391cad8b54f4669a4b00cddc351f7fe"
+    },
+    {
+     "from": "2023-03-02",
+     "units": 154,
+     "source_url": "https://web.archive.org/web/20251018225711id_/https://legislatie.just.ro/Public/DetaliiDocument/264139",
+     "sha256": "72fead9ed61707f78b4ae99083cd3f63fcf058e37446012cb6e4175620bf452f"
+    },
+    {
+     "from": "2023-04-10",
+     "units": 154,
+     "source_url": "https://web.archive.org/web/20260202045951id_/https://legislatie.just.ro/Public/DetaliiDocument/265962",
+     "sha256": "7ebe6fd8337d2e51f2264514c9f5929d5eab4ba60f46e8439b4d54a572b00bb7"
+    },
+    {
+     "from": "2023-05-25",
+     "units": 160,
+     "source_url": "https://web.archive.org/web/20260306012437id_/https://legislatie.just.ro/Public/DetaliiDocument/267731",
+     "sha256": "3752c02fa0b4b2fed3f1adaa578f0042f13bd1eaff87c3df0938bafa8fbd80e7"
+    },
+    {
+     "from": "2023-06-16",
+     "units": 160,
+     "source_url": "https://web.archive.org/web/20260202062924id_/https://legislatie.just.ro/Public/DetaliiDocument/267926",
+     "sha256": "c84a0247b49d570345edbaf11f48bf63e74a04c519e5abc843157bf750c6172b"
+    },
+    {
+     "from": "2023-07-27",
+     "units": 160,
+     "source_url": "https://web.archive.org/web/20260202193208id_/https://legislatie.just.ro/Public/DetaliiDocument/268312",
+     "sha256": "1015fc284f34f422f05d5daf7f5ff314dff4a733d23b69dcc19539e9da6a2e04"
+    },
+    {
+     "from": "2023-08-13",
+     "units": 160,
+     "source_url": "https://web.archive.org/web/20260205191433id_/https://legislatie.just.ro/Public/DetaliiDocument/268449",
+     "sha256": "276f394ac6fc63cbd6bdcdf9c7ea53911bf6c94d468d79bc258d5e18f2583cf2"
+    },
+    {
+     "from": "2023-10-04",
+     "units": 160,
+     "source_url": "https://web.archive.org/web/20260208080104id_/https://legislatie.just.ro/Public/DetaliiDocument/269168",
+     "sha256": "9584f49b2a2141a9db0b5639e04931459999c831d64c139c6031e343bee35887"
+    },
+    {
+     "from": "2023-12-15",
+     "units": 160,
+     "source_url": "https://web.archive.org/web/20260202063102id_/https://legislatie.just.ro/Public/DetaliiDocument/269530",
+     "sha256": "d27584b61441179662858ae9f9d717140b85a03f59b1ee3c3ca958e0562d8280"
+    },
+    {
+     "from": "2024-01-18",
+     "units": 160,
+     "source_url": "https://web.archive.org/web/20260310010318id_/https://legislatie.just.ro/Public/DetaliiDocument/269898",
+     "sha256": "fc8bcf736676bad4898e67e9ff6c8a08dd18509a0183942e35fdd7ea39f07c6f"
+    },
+    {
+     "from": "2024-03-17",
+     "units": 160,
+     "source_url": "https://web.archive.org/web/20260106052318id_/https://legislatie.just.ro/Public/DetaliiDocument/279823",
+     "sha256": "b6277d354de35c26cfa7ef91f2f0a40a01bc19e50b2c6a35f66862a5763834d2"
+    },
+    {
+     "from": "2024-03-22",
+     "units": 160,
+     "source_url": "https://web.archive.org/web/20260310165116id_/https://legislatie.just.ro/Public/DetaliiDocument/279869",
+     "sha256": "3e4ec0de379e569a91bc28bae2498012645f87d26cfc32efc89199cc8ff34f64"
+    },
+    {
+     "from": "2024-04-13",
+     "units": 160,
+     "source_url": "https://web.archive.org/web/20260517023714id_/https://legislatie.just.ro/Public/DetaliiDocument/280834",
+     "sha256": "8e5d6d7fb2165b4b5c86e60cc44f63a4660104d02d7f8a781d9f828426e6f21c"
+    },
+    {
+     "from": "2024-05-11",
+     "units": 160,
+     "source_url": "https://web.archive.org/web/20260305023112id_/https://legislatie.just.ro/Public/DetaliiDocument/282160",
+     "sha256": "31d52f2e9a1fe727eb4dc10431b3b89ce66f5acf33f002d195357830272b109d"
+    },
+    {
+     "from": "2024-06-03",
+     "units": 160,
+     "source_url": "https://web.archive.org/web/20260312183852id_/https://legislatie.just.ro/Public/DetaliiDocument/282884",
+     "sha256": "ba815b07db2c59b8a13e70235d41b4c1a8f8e038d4f216da491591d4e35ac80e"
+    },
+    {
+     "from": "2024-06-28",
+     "units": 160,
+     "source_url": "https://web.archive.org/web/20260218141618id_/https://legislatie.just.ro/Public/DetaliiDocument/284404",
+     "sha256": "fa9ca3f07a99815c8ac50fce74a5b27b918efd4071bda6dd18660113e536014b"
+    },
+    {
+     "from": "2024-06-29",
+     "units": 161,
+     "source_url": "https://web.archive.org/web/20260202054707id_/https://legislatie.just.ro/Public/DetaliiDocument/284408",
+     "sha256": "21a19de5a85abde777de4c9648571208f181f05e4a06077b84ed605679351c41"
+    },
+    {
+     "from": "2024-07-09",
+     "units": 161,
+     "source_url": "https://web.archive.org/web/20260215225859id_/https://legislatie.just.ro/Public/DetaliiDocument/284899",
+     "sha256": "3cb32b0d3df3cb92429a339a88895bf8c54c96c35d3042c4d9a99cdb5b105ced"
+    },
+    {
+     "from": "2024-07-15",
+     "units": 161,
+     "source_url": "https://web.archive.org/web/20260312010954id_/https://legislatie.just.ro/Public/DetaliiDocument/284957",
+     "sha256": "e3f44d218a8b12617c1573d1ae57a03c91dd91371d014b3dcb5f5b4bff4127ef"
+    },
+    {
+     "from": "2024-10-04",
+     "units": 161,
+     "source_url": "https://web.archive.org/web/20260219134804id_/https://legislatie.just.ro/Public/DetaliiDocument/288596",
+     "sha256": "344da072536fedb4dfd5da108147d3d85e65ee33c6e724b56777319d2f1a4fcd"
+    },
+    {
+     "from": "2024-10-08",
+     "units": 161,
+     "source_url": "https://web.archive.org/web/20260219134804id_/https://legislatie.just.ro/Public/DetaliiDocument/288596",
+     "sha256": "344da072536fedb4dfd5da108147d3d85e65ee33c6e724b56777319d2f1a4fcd"
+    },
+    {
+     "from": "2024-10-27",
+     "units": 163,
+     "source_url": "https://web.archive.org/web/20260309220330id_/https://legislatie.just.ro/Public/DetaliiDocument/289536",
+     "sha256": "740891f4a94279067ff65288cf45b9c0767efd59856505b692e513c2912f6f39"
+    },
+    {
+     "from": "2025-02-01",
+     "units": 164,
+     "source_url": "https://web.archive.org/web/20260306065607id_/https://legislatie.just.ro/Public/DetaliiDocument/293340",
+     "sha256": "6d4f5d3ba003e8268fb8251fa4f3e5b019bc004f5b0536111dc1b9b3dc7399dc"
+    },
+    {
+     "from": "2025-02-28",
+     "units": 165,
+     "source_url": "https://web.archive.org/web/20260219112837id_/https://legislatie.just.ro/Public/DetaliiDocument/294444",
+     "sha256": "de9d13823eed4e26acadb25143fd262e014b81bc711705709a5372b982c7446d"
+    },
+    {
+     "from": "2025-05-26",
+     "units": 165,
+     "source_url": "https://web.archive.org/web/20260226182131id_/https://legislatie.just.ro/Public/DetaliiDocument/297285",
+     "sha256": "374ac6ba9252a2eb39bc57b11fa26c61197f4f6ddbe3136c4dce7e146e107031"
+    },
+    {
+     "from": "2025-12-27",
+     "units": 165,
+     "source_url": "https://web.archive.org/web/20260222093848id_/https://legislatie.just.ro/Public/DetaliiDocument/74028",
+     "sha256": "2263529e0548d72f5f41dcae8c1458e26df58d587a888ee586a66904041e4e9a"
+    },
+    {
+     "from": "2026-02-25",
+     "units": 165,
+     "source_url": "https://web.archive.org/web/20260307031535id_/https://legislatie.just.ro/Public/DetaliiDocument/74028",
+     "sha256": "528493d2be7cca01f3b717805802e56668e60043ed7ae84ed745d5ce99c90f52"
+    },
+    {
+     "from": "2026-03-27",
+     "units": 165,
+     "source_url": "https://web.archive.org/web/20260623085217id_/https://legislatie.just.ro/Public/DetaliiDocument/74028",
+     "sha256": "64ba57a40d0676ee59d379946598ac856197933ae41c6f03782e8ba97335269c"
+    }
+   ]
+  },
+  {
    "slug": "og-2-2001",
    "path": "og/2001/2",
    "short": "OG nr. 2/2001",
@@ -40532,6 +41027,45 @@
    ]
   },
   {
+   "slug": "legea-245-2004",
+   "path": "lege/2004/245",
+   "short": "Legea nr. 245/2004",
+   "title": "Legea nr. 245/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/52961",
+   "versions": [
+    {
+     "from": "2005-01-01",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/52961",
+     "sha256": "06d98a38fd14885dc631564a63b318e56b7898ee9e1043d559a1e3944965cd0b"
+    },
+    {
+     "from": "2007-01-01",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/52961",
+     "sha256": "06d98a38fd14885dc631564a63b318e56b7898ee9e1043d559a1e3944965cd0b"
+    },
+    {
+     "from": "2007-01-01",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/88410",
+     "sha256": "b84cf50beb9727b8c4d10c401095f05b0cdc0e6b70f279b6d1e70b1ae99e929d"
+    },
+    {
+     "from": "2007-12-31",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/88412",
+     "sha256": "68d23b059e9c711ac02ea110559fa9462026cb00301ed54588ef90b15bf49eeb"
+    },
+    {
+     "from": "2008-05-09",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/92469",
+     "sha256": "6810e8ff3ef06e01f2d3003c9576a22ddd7192819ae93e6833639920f5ee2e8d"
+    }
+   ]
+  },
+  {
    "slug": "legea-246-2007",
    "path": "lege/2007/246",
    "short": "Legea nr. 246/2007",
@@ -48247,6 +48781,21 @@
      "units": 50,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/209670",
      "sha256": "ccf08468960b31410d2cc1d79b321d786e5bb6b7c56fb7b0c30f7d1ee5b2bb8d"
+    }
+   ]
+  },
+  {
+   "slug": "legea-363-2002",
+   "path": "lege/2002/363",
+   "short": "Legea nr. 363/2002",
+   "title": "Legea nr. 363/2002",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/36859",
+   "versions": [
+    {
+     "from": "2002-06-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/36859",
+     "sha256": "15786df8bed9b5c45c789fa95b0247ff8a4b347ec2f322e6186a15ce43f315ca"
     }
    ]
   },
@@ -61666,6 +62215,27 @@
      "units": 39,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/283623",
      "sha256": "2643ec2fd9c43e607ea2be6f4503192b14828d5bd7f766cff1e147e907f860ac"
+    }
+   ]
+  },
+  {
+   "slug": "og-19-2021",
+   "path": "og/2021/19",
+   "short": "OG nr. 19/2021",
+   "title": "Ordonanța Guvernului nr. 19/2021 pentru modificarea și completarea Legii nr. 55/2020 privind unele măsuri pentru prevenirea și combaterea efectelor pandemiei de COVID-19 și pentru modificarea și completarea unor acte normative în domeniul sănătății",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/245933",
+   "versions": [
+    {
+     "from": "2021-09-03",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/245933",
+     "sha256": "6f54225a5640b9410bdaae08521164a4175816aec74ed1c9e28a6ce130fb32b8"
+    },
+    {
+     "from": "2021-09-24",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/246659",
+     "sha256": "1975a349ec11ec15fbc8677a9d9b2baa4bd6bd4c1c899613f71ade51a176d18a"
     }
    ]
   },
@@ -132941,6 +133511,21 @@
    ]
   },
   {
+   "slug": "hg-572-2023",
+   "path": "hg/2023/572",
+   "short": "HG nr. 572/2023",
+   "title": "Hotărârea Guvernului nr. 572/2023 privind recunoaşterea Asociaţiei \"Down Plus Bucureşti\" ca fiind de utilitate publică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/272080",
+   "versions": [
+    {
+     "from": "2023-07-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/272080",
+     "sha256": "8215ec191410b23c81b6625cddeef826c6a2acb775a2d85ff1eaad36904aca05"
+    }
+   ]
+  },
+  {
    "slug": "hg-573-2002",
    "path": "hg/2002/573",
    "short": "HG nr. 573/2002",
@@ -132956,6 +133541,21 @@
    ]
   },
   {
+   "slug": "hg-573-2023",
+   "path": "hg/2023/573",
+   "short": "HG nr. 573/2023",
+   "title": "Hotărârea Guvernului nr. 573/2023 privind darea în folosinţă gratuită Fundaţiei Româno-Germane de Pregătire şi Perfecţionare Profesională Vladimirescu a unui imobil înscris în domeniul public al statului şi aflat în administrarea Ministerului Muncii şi Solidarităţii Sociale - Agenţia Judeţeană pentru Plăţi şi Inspecţie Socială Arad",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/272081",
+   "versions": [
+    {
+     "from": "2023-07-13",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/272081",
+     "sha256": "852e152390c901f9b4ddbaecead29fe669cf8ec7a380da83cb8031e501884ad4"
+    }
+   ]
+  },
+  {
    "slug": "hg-574-2018",
    "path": "hg/2018/574",
    "short": "HG nr. 574/2018",
@@ -132967,6 +133567,21 @@
      "units": 7,
      "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/203742",
      "sha256": "25bc5c2458a53b3f527d7eaaf3562280c44ef47f744a76b350578cc52ab342dd"
+    }
+   ]
+  },
+  {
+   "slug": "hg-574-2023",
+   "path": "hg/2023/574",
+   "short": "HG nr. 574/2023",
+   "title": "Hotărârea Guvernului nr. 574/2023 privind actualizarea descrierii tehnice şi a valorii de inventar ale unui imobil aflat în domeniul public al statului şi în administrarea Penitenciarului Oradea din subordinea Administraţiei Naţionale a Penitenciarelor şi trecerea unei părţi din acesta în domeniul public al municipiului Oradea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/272082",
+   "versions": [
+    {
+     "from": "2023-07-13",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/272082",
+     "sha256": "5c3d8edcca9a494839968d0fb27ed9de7f8cc65e56bdaf83034411b1a05994d6"
     }
    ]
   },
@@ -133151,6 +133766,21 @@
    ]
   },
   {
+   "slug": "hg-579-2023",
+   "path": "hg/2023/579",
+   "short": "HG nr. 579/2023",
+   "title": "Hotărârea Guvernului nr. 579/2023 privind rectificarea bugetului Trezoreriei Statului pe anul 2023",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/272158",
+   "versions": [
+    {
+     "from": "2023-07-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/272158",
+     "sha256": "d528bb23e7f5a687a42ce09852ad10c1a8d24d1dc84a87718d0571a7d8b517b7"
+    }
+   ]
+  },
+  {
    "slug": "hg-58-2003",
    "path": "hg/2003/58",
    "short": "HG nr. 58/2003",
@@ -133331,6 +133961,21 @@
    ]
   },
   {
+   "slug": "hg-581-2023",
+   "path": "hg/2023/581",
+   "short": "HG nr. 581/2023",
+   "title": "Hotărârea Guvernului nr. 581/2023 privind trecerea unor imobile din domeniul public al statului şi administrarea Ministerului Transporturilor şi Infrastructurii, prin Spitalul General CF Simeria, în domeniul public al oraşului Simeria, judeţul Hunedoara, precum şi modificarea anexei nr. 16 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/272159",
+   "versions": [
+    {
+     "from": "2023-07-14",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/272159",
+     "sha256": "aec07faf95dd74abb7a94823447f169c8fe93cfa1b8b734aacf630c92114d199"
+    }
+   ]
+  },
+  {
    "slug": "hg-581-2024",
    "path": "hg/2024/581",
    "short": "HG nr. 581/2024",
@@ -133414,6 +134059,21 @@
      "units": 11,
      "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/217112",
      "sha256": "a0d82e5cb8e28484d1c6bd46a63f4ce005cd08d568e83bc98ec5c8dd690f0b19"
+    }
+   ]
+  },
+  {
+   "slug": "hg-582-2023",
+   "path": "hg/2023/582",
+   "short": "HG nr. 582/2023",
+   "title": "Hotărârea Guvernului nr. 582/2023 privind modificarea valorilor de inventar şi caracteristicilor tehnice ale unor bunuri aflate în domeniul public al statului şi în administrarea Agenţiei Judeţene pentru Plăţi şi Inspecţie Socială Bistriţa-Năsăud",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/272160",
+   "versions": [
+    {
+     "from": "2023-07-14",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/272160",
+     "sha256": "148012efed932df5b7e5fa26f04d20a27ee6af5708b3484cc91a15dbdc6dffb5"
     }
    ]
   },
@@ -133556,6 +134216,21 @@
    ]
   },
   {
+   "slug": "hg-583-2023",
+   "path": "hg/2023/583",
+   "short": "HG nr. 583/2023",
+   "title": "Hotărârea Guvernului nr. 583/2023 privind desfiinţarea Unităţii de asistenţă medico-socială de pneumoftiziologie Sânpetru, judeţul Braşov",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/272161",
+   "versions": [
+    {
+     "from": "2023-07-14",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/272161",
+     "sha256": "72237ecacf88e96190c5ae9f920568a8e9640e81b2975db3fd3477042af0519b"
+    }
+   ]
+  },
+  {
    "slug": "hg-583-2024",
    "path": "hg/2024/583",
    "short": "HG nr. 583/2024",
@@ -133669,6 +134344,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/217124",
      "sha256": "d5e37ef95c1deda30ec5d795666378d6f65121d59921cf52a1d6f5e4419dd536"
+    }
+   ]
+  },
+  {
+   "slug": "hg-585-2023",
+   "path": "hg/2023/585",
+   "short": "HG nr. 585/2023",
+   "title": "Hotărârea Guvernului nr. 585/2023 privind declanşarea procedurilor de expropriere a tuturor imobilelor proprietate privată situate pe amplasamentul suplimentar, aprobarea listei imobilelor proprietate publică a statului, precum şi aprobarea listei imobilelor proprietate publică a unităţilor administrativ-teritoriale care fac parte din coridorul de expropriere al lucrării de utilitate publică de interes naţional \"Autostrada Sibiu-Piteşti\" - Secţiunea 5 Curtea de Argeş-Piteşti",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/272216",
+   "versions": [
+    {
+     "from": "2023-07-18",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/272216",
+     "sha256": "939d0439aeeef3d2f93847fc8fbc404958ac7f1eed643474c7426d4c05a730d7"
     }
    ]
   },
@@ -134015,6 +134705,36 @@
    ]
   },
   {
+   "slug": "hg-592-2023",
+   "path": "hg/2023/592",
+   "short": "HG nr. 592/2023",
+   "title": "Hotărârea Guvernului nr. 592/2023 privind aprobarea stemei comunei Reci, judeţul Covasna",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/272236",
+   "versions": [
+    {
+     "from": "2023-07-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/272236",
+     "sha256": "5ad9cbe3b71ce30c311321f8a4663547ae42125afce4145d2b53991fe107b81c"
+    }
+   ]
+  },
+  {
+   "slug": "hg-593-2023",
+   "path": "hg/2023/593",
+   "short": "HG nr. 593/2023",
+   "title": "Hotărârea Guvernului nr. 593/2023 privind aprobarea stemei comunei Glodeanu Sărat, judeţul Buzău",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/272237",
+   "versions": [
+    {
+     "from": "2023-07-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/272237",
+     "sha256": "5961e59fd48c8caa01c489f085a1d92fd40f84992a8a11a6cd79dc76aed3358d"
+    }
+   ]
+  },
+  {
    "slug": "hg-593-2025",
    "path": "hg/2025/593",
    "short": "HG nr. 593/2025",
@@ -134026,6 +134746,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/300390",
      "sha256": "1a82ddc0a8637f398c3e550ba09058769bf58ab083b5cd3e6be6bac4ae08efb3"
+    }
+   ]
+  },
+  {
+   "slug": "hg-594-2023",
+   "path": "hg/2023/594",
+   "short": "HG nr. 594/2023",
+   "title": "Hotărârea Guvernului nr. 594/2023 privind aprobarea modelului de steag al comunei Coşna, judeţul Suceava",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/272238",
+   "versions": [
+    {
+     "from": "2023-07-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/272238",
+     "sha256": "0f94ee3b03a00d078512a4be293e9dde38686904e1523766c30a227f630aa2ff"
     }
    ]
   },
@@ -134056,6 +134791,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/255507",
      "sha256": "e1a5b3b2f332483631a18bba3c5c047ad1c61b761680902d363e4b09963858c2"
+    }
+   ]
+  },
+  {
+   "slug": "hg-595-2023",
+   "path": "hg/2023/595",
+   "short": "HG nr. 595/2023",
+   "title": "Hotărârea Guvernului nr. 595/2023 privind aprobarea stemei comunei Ungheni, judeţul Iaşi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/272239",
+   "versions": [
+    {
+     "from": "2023-07-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/272239",
+     "sha256": "66faa7ae68ba6efb1151ebd5818cfac18233706d6fa4e7ebd72a25b4be6ba0d9"
     }
    ]
   },
@@ -134105,6 +134855,21 @@
    ]
   },
   {
+   "slug": "hg-596-2023",
+   "path": "hg/2023/596",
+   "short": "HG nr. 596/2023",
+   "title": "Hotărârea Guvernului nr. 596/2023 privind aprobarea stemei comunei Ziduri, judeţul Buzău",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/272240",
+   "versions": [
+    {
+     "from": "2023-07-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/272240",
+     "sha256": "8e06e99ef9bcd1de9acb5299d0dd779c315aab0bdb43b56c12cdbb191c6c35b1"
+    }
+   ]
+  },
+  {
    "slug": "hg-596-2024",
    "path": "hg/2024/596",
    "short": "HG nr. 596/2024",
@@ -134131,6 +134896,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/300337",
      "sha256": "494cec14d1963aee0e9107b35e630ecbe87cfd66d4d5797ab7f106fefbb214c5"
+    }
+   ]
+  },
+  {
+   "slug": "hg-597-2023",
+   "path": "hg/2023/597",
+   "short": "HG nr. 597/2023",
+   "title": "Hotărârea Guvernului nr. 597/2023 privind aprobarea stemei comunei Roata de Jos, judeţul Giurgiu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/272241",
+   "versions": [
+    {
+     "from": "2023-07-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/272241",
+     "sha256": "96018a80ff92a5e3adcb2c2397a75d345ac52825344c75c9dd8fbebac65d013b"
     }
    ]
   },
@@ -134221,6 +135001,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/255510",
      "sha256": "2b570792201e566caa244db52ba81553c26a68e9978c6ae8d09e5953365d67c1"
+    }
+   ]
+  },
+  {
+   "slug": "hg-598-2023",
+   "path": "hg/2023/598",
+   "short": "HG nr. 598/2023",
+   "title": "Hotărârea Guvernului nr. 598/2023 pentru aprobarea Actului adiţional dintre Secretariatul General al Guvernului României (\"SGG\") şi Organizaţia pentru Cooperare şi Dezvoltare Economică (\"OCDE\"), semnat la Bucureşti la 7 iunie 2023 şi la Paris la 12 iunie 2023, la Acordul dintre Secretariatul General al Guvernului României (\"SGG\") şi Organizaţia pentru Cooperare şi Dezvoltare Economică (\"OCDE\"), semnat la Bucureşti la 14 decembrie 2022 şi la Paris la 5 ianuarie 2023",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/272332",
+   "versions": [
+    {
+     "from": "2023-07-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/272332",
+     "sha256": "7ab5a6e5317e3e6be52f7637cce6ca92993585b92526899b4482c9e91f7ebaa2"
     }
    ]
   },
@@ -134666,6 +135461,21 @@
    ]
   },
   {
+   "slug": "hg-606-2023",
+   "path": "hg/2023/606",
+   "short": "HG nr. 606/2023",
+   "title": "Hotărârea Guvernului nr. 606/2023 pentru aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Lucrări de intervenţie la pavilionul C din cazarma 1091 Bucureşti - incinta nr. 1\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/272398",
+   "versions": [
+    {
+     "from": "2023-07-24",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/272398",
+     "sha256": "35de306c80155c8f10335b68ca7949065572afa188144903eb702caacd860978"
+    }
+   ]
+  },
+  {
    "slug": "hg-606-2025",
    "path": "hg/2025/606",
    "short": "HG nr. 606/2025",
@@ -134677,6 +135487,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/300518",
      "sha256": "da3cd7b1e5cb91515ff0283f4825648980906749f2aec8ab255cb41573494013"
+    }
+   ]
+  },
+  {
+   "slug": "hg-607-2023",
+   "path": "hg/2023/607",
+   "short": "HG nr. 607/2023",
+   "title": "Hotărârea Guvernului nr. 607/2023 privind trecerea din domeniul public al statului în domeniul privat al statului şi în administrarea Companiei Naţionale de Căi Ferate \"C.F.R.\" - S.A. a unor bunuri aflate în administrarea Ministerului Transporturilor şi Infrastructurii şi în concesiunea Companiei Naţionale de Căi Ferate \"C.F.R.\" - S.A. - sucursalele regionale CF Bucureşti, Timişoara, Braşov şi Constanţa, în vederea reutilizării şi refolosirii, respectiv scoaterii din funcţiune, casării şi valorificării, după caz",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/272433",
+   "versions": [
+    {
+     "from": "2023-07-26",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/272433",
+     "sha256": "f35b043091e57bb0e7251e6b933e8ead4b02305d7ac7f7a1996f88f17714723e"
     }
    ]
   },
@@ -134713,6 +135538,21 @@
      "units": 3,
      "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/142390",
      "sha256": "6f9c366086e584dfd9aec1c5dae02b0572aa13c3daa29a568fa4b1a652f47c17"
+    }
+   ]
+  },
+  {
+   "slug": "hg-608-2023",
+   "path": "hg/2023/608",
+   "short": "HG nr. 608/2023",
+   "title": "Hotărârea Guvernului nr. 608/2023 privind actualizarea valorii de inventar şi a datelor de identificare ale unor bunuri aflate în domeniul public al statului şi în administrarea Universităţii din Oradea şi comasarea numerelor MF 167186 şi 167187 la poziţia cu numărul MF 167186, ca urmare a înscrierii bunurilor în aceeaşi carte funciară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/272434",
+   "versions": [
+    {
+     "from": "2023-07-26",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/272434",
+     "sha256": "b6b10eac70ad5c7d0439ea44c1b3e335ec68a2f8bb0ca095ce748391c0a58c66"
     }
    ]
   },
@@ -134828,6 +135668,21 @@
    ]
   },
   {
+   "slug": "hg-610-2023",
+   "path": "hg/2023/610",
+   "short": "HG nr. 610/2023",
+   "title": "Hotărârea Guvernului nr. 610/2023 privind aprobarea unor modificări şi completări în inventarul centralizat al bunurilor din domeniul public al statului aflate în administrarea Ministerului Apărării Naţionale, situate în municipiul Buzău, trecerea unei părţi din imobilul 3635 aflat în administrarea Ministerului Apărării Naţionale, constituită din amenajări la teren, din domeniul public al statului în domeniul privat al acestuia, în vederea scoaterii din funcţiune şi casării, şi modificarea anexei nr. 4 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/272435",
+   "versions": [
+    {
+     "from": "2023-07-26",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/272435",
+     "sha256": "d30fa00378a12c33e9f7c1115eff4f500cff8f2d7b159284e9207d23c27243eb"
+    }
+   ]
+  },
+  {
    "slug": "hg-610-2024",
    "path": "hg/2024/610",
    "short": "HG nr. 610/2024",
@@ -134888,6 +135743,21 @@
    ]
   },
   {
+   "slug": "hg-611-2023",
+   "path": "hg/2023/611",
+   "short": "HG nr. 611/2023",
+   "title": "Hotărârea Guvernului nr. 611/2023 privind actualizarea valorii de inventar a unui imobil aflat în domeniul public al statului şi administrarea Ministerului Afacerilor Interne - Direcţia asigurare logistică integrată",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/272410",
+   "versions": [
+    {
+     "from": "2023-07-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/272410",
+     "sha256": "5c3ab76b56e02d4c0848c96c2c4ffdfcc2efb45f098806336ee34be7d6ed2a06"
+    }
+   ]
+  },
+  {
    "slug": "hg-611-2024",
    "path": "hg/2024/611",
    "short": "HG nr. 611/2024",
@@ -134899,6 +135769,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/283898",
      "sha256": "07c4bf41d7d2bd9bc3860b641314d2de5b5237c97e3b3fd3b84fcfab5b0c34ef"
+    }
+   ]
+  },
+  {
+   "slug": "hg-612-2023",
+   "path": "hg/2023/612",
+   "short": "HG nr. 612/2023",
+   "title": "Hotărârea Guvernului nr. 612/2023 privind înscrierea în inventarul centralizat al bunurilor din domeniul public al statului, darea în administrarea Ministerului Afacerilor Interne - Direcţia Generală de Poliţie a Municipiului Bucureşti a unui imobil trecut în domeniul public al statului care se comasează la imobilul cu nr. MF 113972, precum şi trecerea unei părţi din imobilul rezultat în domeniul privat al statului în vederea scoaterii din funcţiune şi casării",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273319",
+   "versions": [
+    {
+     "from": "2023-07-26",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273319",
+     "sha256": "9dcceddacf346a47cb14acd7901fb2798786fee6b1a72ee29413599769540c5a"
     }
    ]
   },
@@ -134929,6 +135814,21 @@
      "units": 4,
      "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/203743",
      "sha256": "bb4b29ec8fa8b3fa081ad04ccb9012121a005b781f17fcf53d8cffd32b49edf9"
+    }
+   ]
+  },
+  {
+   "slug": "hg-613-2023",
+   "path": "hg/2023/613",
+   "short": "HG nr. 613/2023",
+   "title": "Hotărârea Guvernului nr. 613/2023 privind actualizarea valorii de inventar a unor imobile aflate în domeniul public al statului şi în administrarea Ministerului Afacerilor Interne - Inspectoratul pentru Situaţii de Urgenţă \"Unirea\" al Judeţului Alba",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/272411",
+   "versions": [
+    {
+     "from": "2023-07-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/272411",
+     "sha256": "21030d8de86596cd07056d08b0d17617dfafca24e7b3914a71d953b9a341af5e"
     }
    ]
   },
@@ -134974,6 +135874,21 @@
      "units": 1,
      "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/243050",
      "sha256": "45d8dadb5ac3e46cf297456bcbbea571611dcde10b8ef3c61bd1dd49bfeb7a08"
+    }
+   ]
+  },
+  {
+   "slug": "hg-614-2023",
+   "path": "hg/2023/614",
+   "short": "HG nr. 614/2023",
+   "title": "Hotărârea Guvernului nr. 614/2023 privind actualizarea valorii de inventar şi a datelor de identificare ale unui imobil aflat în domeniul public al statului şi în administrarea Institutului Naţional de Transfuzie Sanguină \"Prof. Dr. C.T. Nicolau\", prin Centrul de Transfuzie Sanguină Mehedinţi, instituţie subordonată Ministerului Sănătăţii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273320",
+   "versions": [
+    {
+     "from": "2023-07-26",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273320",
+     "sha256": "49b0d43dc95edd853beeaba0786d61410f62446a5c9e19a0880ae680405430e8"
     }
    ]
   },
@@ -135149,6 +136064,21 @@
    ]
   },
   {
+   "slug": "hg-618-2023",
+   "path": "hg/2023/618",
+   "short": "HG nr. 618/2023",
+   "title": "Hotărârea Guvernului nr. 618/2023 pentru declararea proiectului de investiţii \"Conductă de transport gaze naturale Segarcea-Băileşti-Pleniţa-Calafat (inclusiv alimentare cu energie electrică, protecţie catodică şi fibră optică)\" ca proiect de importanţă naţională în domeniul gazelor naturale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273368",
+   "versions": [
+    {
+     "from": "2023-07-28",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273368",
+     "sha256": "f00cebe097142a30fc01caafcec171ab5b1361d03285d02a27ac56ffd4a91ae7"
+    }
+   ]
+  },
+  {
    "slug": "hg-618-2025",
    "path": "hg/2025/618",
    "short": "HG nr. 618/2025",
@@ -135284,6 +136214,21 @@
    ]
   },
   {
+   "slug": "hg-621-2023",
+   "path": "hg/2023/621",
+   "short": "HG nr. 621/2023",
+   "title": "Hotărârea Guvernului nr. 621/2023 privind declanşarea procedurilor de expropriere a tuturor imobilelor proprietate privată situate pe amplasamentul suplimentar, aprobarea listei imobilelor proprietate publică a statului, precum şi aprobarea listei imobilelor proprietate publică a unităţilor administrativ-teritoriale care fac parte din coridorul de expropriere al lucrării de utilitate publică de interes naţional \"Autostrada Braşov-Târgu Mureş-Cluj-Oradea\", subsecţiunea 3A2 \"Nădăşelu-Mihăieşti km 8+700-km 25+500\" şi subsecţiunea 3B1 \"Mihăieşti-Zimbor km 0+000-km 13+260\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273418",
+   "versions": [
+    {
+     "from": "2023-08-01",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273418",
+     "sha256": "542a2a11308062e003e4c62347b990e74c7b937a7e5c5359b6dcb5f9f771b1a1"
+    }
+   ]
+  },
+  {
    "slug": "hg-621-2024",
    "path": "hg/2024/621",
    "short": "HG nr. 621/2024",
@@ -135310,6 +136255,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/301157",
      "sha256": "93138f660c1f4b6db44120180f64f8b5fc0371f5497b24e7644c45c8dbf73833"
+    }
+   ]
+  },
+  {
+   "slug": "hg-622-2023",
+   "path": "hg/2023/622",
+   "short": "HG nr. 622/2023",
+   "title": "Hotărârea Guvernului nr. 622/2023 privind aprobarea nivelului cotizaţiei pentru realizarea interconectării cu instituţii similare internaţionale şi/sau cu organizaţii internaţionale de schimb de organe, în anul 2023",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273374",
+   "versions": [
+    {
+     "from": "2023-07-28",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273374",
+     "sha256": "6f15443d98bc219e56dceb08e3bcbe1fc0e4baf7551b02fbe853212776fb35cc"
     }
    ]
   },
@@ -135344,6 +136304,21 @@
    ]
   },
   {
+   "slug": "hg-623-2023",
+   "path": "hg/2023/623",
+   "short": "HG nr. 623/2023",
+   "title": "Hotărârea Guvernului nr. 623/2023 privind aprobarea nivelului cotizaţiilor şi taxei pentru realizarea interconectării cu instituţii similare internaţionale în domeniul donatorilor voluntari de celule stem hematopoietice, precum şi pentru acreditarea laboratoarelor de imunogenetică şi histocompatibilitate, în anul 2023",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273375",
+   "versions": [
+    {
+     "from": "2023-07-28",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273375",
+     "sha256": "3485e8b82425051b6962af65ae1265f5c2a273eedf0bd9cd9dbf8a01c660b818"
+    }
+   ]
+  },
+  {
    "slug": "hg-623-2025",
    "path": "hg/2025/623",
    "short": "HG nr. 623/2025",
@@ -135370,6 +136345,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/170421",
      "sha256": "7909faba146c5b34daef925e8f1840f41cc23a82a3982c3200b4d8e8bce4d6ba"
+    }
+   ]
+  },
+  {
+   "slug": "hg-624-2023",
+   "path": "hg/2023/624",
+   "short": "HG nr. 624/2023",
+   "title": "Hotărârea Guvernului nr. 624/2023 privind închirierea unor spaţii aflate în administrarea Ministerului Afacerilor Externe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273410",
+   "versions": [
+    {
+     "from": "2023-07-31",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273410",
+     "sha256": "fc3a4e758dc00991eaa069f615488e828122094cbe6dbdcd046b6c803b0da6b2"
     }
    ]
   },
@@ -135481,6 +136471,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/192893",
      "sha256": "5fd8bc2b374869b076c03fede9783792fc9ea6493ebf21108a97dae2cdf38abc"
+    }
+   ]
+  },
+  {
+   "slug": "hg-626-2023",
+   "path": "hg/2023/626",
+   "short": "HG nr. 626/2023",
+   "title": "Hotărârea Guvernului nr. 626/2023 privind completarea anexei la Hotărârea Guvernului nr. 651/2022 pentru aprobarea Programului naţional de acţiune privind implementarea Sistemului european de management al traficului feroviar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273419",
+   "versions": [
+    {
+     "from": "2023-08-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273419",
+     "sha256": "0c17e75fb51fc66283b0cf282be5c154da426ef850411cb536299fb30ad45bf3"
     }
    ]
   },
@@ -135695,6 +136700,21 @@
    ]
   },
   {
+   "slug": "hg-631-2023",
+   "path": "hg/2023/631",
+   "short": "HG nr. 631/2023",
+   "title": "Hotărârea Guvernului nr. 631/2023 pentru actualizarea datelor din inventarul centralizat al bunurilor din domeniul public al statului corespunzătoare imobilului cu nr. MF 101102, ca urmare a preluării patrimoniului de către Agenţia Naţională Antidrog, precum şi pentru actualizarea valorii de inventar a imobilului, ca urmare a reevaluării şi schimbării unităţii de administrare între structuri subordonate Ministerului Afacerilor Interne",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273402",
+   "versions": [
+    {
+     "from": "2023-07-31",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273402",
+     "sha256": "e6f1738981dde709e5a3942af788f71ca5720f64262bb5934a51c859910141c0"
+    }
+   ]
+  },
+  {
    "slug": "hg-631-2024",
    "path": "hg/2024/631",
    "short": "HG nr. 631/2024",
@@ -135755,6 +136775,21 @@
    ]
   },
   {
+   "slug": "hg-632-2023",
+   "path": "hg/2023/632",
+   "short": "HG nr. 632/2023",
+   "title": "Hotărârea Guvernului nr. 632/2023 privind actualizarea valorii de inventar a unui imobil aflat în domeniul public al statului şi administrarea Ministerului Afacerilor Interne prin Direcţia asigurare logistică integrată",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273403",
+   "versions": [
+    {
+     "from": "2023-07-31",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273403",
+     "sha256": "2493faf1191756aeb54c4c5d64439fb5ef051ef22b111681746e1177be55a8f1"
+    }
+   ]
+  },
+  {
    "slug": "hg-632-2025",
    "path": "hg/2025/632",
    "short": "HG nr. 632/2025",
@@ -135766,6 +136801,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/301231",
      "sha256": "f8844c9905e0b23378a92322a8a4796b980f3c2c9bf92ec9e54deb307cde9a00"
+    }
+   ]
+  },
+  {
+   "slug": "hg-633-2023",
+   "path": "hg/2023/633",
+   "short": "HG nr. 633/2023",
+   "title": "Hotărârea Guvernului nr. 633/2023 privind înscrierea unui imobil în inventarul centralizat al bunurilor din domeniul public al statului şi darea acestuia în administrarea Ministerului Afacerilor Interne - Inspectoratul pentru Situaţii de Urgenţă \"Bistriţa\" al Judeţului Bistriţa-Năsăud",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273404",
+   "versions": [
+    {
+     "from": "2023-07-31",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273404",
+     "sha256": "f08948d025fe8f9ddac31903005e4ba887c22f959da0bad95bb179f8804cacef"
     }
    ]
   },
@@ -135800,6 +136850,21 @@
    ]
   },
   {
+   "slug": "hg-634-2023",
+   "path": "hg/2023/634",
+   "short": "HG nr. 634/2023",
+   "title": "Hotărârea Guvernului nr. 634/2023 privind înscrierea în inventarul centralizat al bunurilor din domeniul public al statului şi darea în administrarea Ministerului Afacerilor Interne - Inspectoratul de Poliţie al Judeţului Vaslui a unui imobil trecut în proprietatea publică a statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273405",
+   "versions": [
+    {
+     "from": "2023-07-31",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273405",
+     "sha256": "ab0e7ddc43a9305c94d08388cbe9f6a828c32a77ca5cb685137c5b5f16dab374"
+    }
+   ]
+  },
+  {
    "slug": "hg-634-2025",
    "path": "hg/2025/634",
    "short": "HG nr. 634/2025",
@@ -135830,6 +136895,21 @@
    ]
   },
   {
+   "slug": "hg-635-2023",
+   "path": "hg/2023/635",
+   "short": "HG nr. 635/2023",
+   "title": "Hotărârea Guvernului nr. 635/2023 privind înscrierea a două imobile în inventarul centralizat al bunurilor din domeniul public al statului şi darea acestora în administrarea Ministerului Afacerilor Interne - Inspectoratul Judeţean de Poliţie Giurgiu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273406",
+   "versions": [
+    {
+     "from": "2023-07-31",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273406",
+     "sha256": "95faf07750b8b5b14c7879bedb934aae4528841f2e32246198106f09184918a6"
+    }
+   ]
+  },
+  {
    "slug": "hg-635-2025",
    "path": "hg/2025/635",
    "short": "HG nr. 635/2025",
@@ -135856,6 +136936,21 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/243171",
      "sha256": "fd71695b71aef0b9a3c9534b503d8c11d1eb604e91a171a30439cccb0f79cbbd"
+    }
+   ]
+  },
+  {
+   "slug": "hg-636-2023",
+   "path": "hg/2023/636",
+   "short": "HG nr. 636/2023",
+   "title": "Hotărârea Guvernului nr. 636/2023 privind aprobarea stemei comunei Chiscani, judeţul Brăila",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273537",
+   "versions": [
+    {
+     "from": "2023-08-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273537",
+     "sha256": "0d86ab072b1491f9357ddb4167f47d6a8783b48bb47662faaeb0f1286e67bd4b"
     }
    ]
   },
@@ -135907,6 +137002,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/255550",
      "sha256": "ea0f22fbd6764d995e87c4bb3a62f3048dce8a927a70b5ff0987b16ec9cc50ee"
+    }
+   ]
+  },
+  {
+   "slug": "hg-637-2023",
+   "path": "hg/2023/637",
+   "short": "HG nr. 637/2023",
+   "title": "Hotărârea Guvernului nr. 637/2023 privind aprobarea stemei municipiului Marghita, judeţul Bihor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273538",
+   "versions": [
+    {
+     "from": "2023-08-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273538",
+     "sha256": "bbf296cdf2aaf51b4778e5a270903555c0e2e4c38486fbbd0612a6b0b1c75530"
     }
    ]
   },
@@ -136103,6 +137213,21 @@
    ]
   },
   {
+   "slug": "hg-640-2023",
+   "path": "hg/2023/640",
+   "short": "HG nr. 640/2023",
+   "title": "Hotărârea Guvernului nr. 640/2023 privind înscrierea imobilului situat în municipiul Craiova, strada Tabaci nr. 1, judeţul Dolj, în inventarul centralizat al bunurilor din domeniul public al statului şi darea acestuia în administrarea Ministerului Educaţiei, pentru Universitatea de Medicină şi Farmacie din Craiova",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273407",
+   "versions": [
+    {
+     "from": "2023-07-31",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273407",
+     "sha256": "b2dbf4dc28d83b3c231705302132cf32eecdf5eec41ba6f1b15ce1383f43b0d2"
+    }
+   ]
+  },
+  {
    "slug": "hg-640-2025",
    "path": "hg/2025/640",
    "short": "HG nr. 640/2025",
@@ -136114,6 +137239,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/301265",
      "sha256": "8e701e49c227e7b7849819e2e5e35de33458093059f669da9f73f14348cebf11"
+    }
+   ]
+  },
+  {
+   "slug": "hg-641-2023",
+   "path": "hg/2023/641",
+   "short": "HG nr. 641/2023",
+   "title": "Hotărârea Guvernului nr. 641/2023 privind aprobarea normativelor de cheltuieli şi a devizului estimativ aferente organizării şi desfăşurării în România a celei de-a 58-a Reuniuni plenare a Platformei Europene a Autorităţilor de Reglementare în Domeniul Audiovizualului (EPRA), în perioada 18-20 octombrie 2023",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273408",
+   "versions": [
+    {
+     "from": "2023-07-31",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273408",
+     "sha256": "6566c731842a88f5de42c9314615124a4b37da6a047ddb0c9eb947f7ea54cfe0"
     }
    ]
   },
@@ -136253,6 +137393,21 @@
    ]
   },
   {
+   "slug": "hg-644-2023",
+   "path": "hg/2023/644",
+   "short": "HG nr. 644/2023",
+   "title": "Hotărârea Guvernului nr. 644/2023 privind eliberarea doamnei Togănel Cristina-Mara din funcţia de prefect al judeţului Mureş",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273522",
+   "versions": [
+    {
+     "from": "2023-08-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273522",
+     "sha256": "969e17b73db219666d330a19c0fe2d982f74f86830c1079a8a0c8b533b923692"
+    }
+   ]
+  },
+  {
    "slug": "hg-644-2024",
    "path": "hg/2024/644",
    "short": "HG nr. 644/2024",
@@ -136283,6 +137438,21 @@
    ]
   },
   {
+   "slug": "hg-645-2023",
+   "path": "hg/2023/645",
+   "short": "HG nr. 645/2023",
+   "title": "Hotărârea Guvernului nr. 645/2023 privind eliberarea domnului Homorean Florin-Constantin din funcţia de prefect al judeţului Olt",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273523",
+   "versions": [
+    {
+     "from": "2023-08-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273523",
+     "sha256": "db7f2595911ca681f38de2655a7280f3e1ada743aa4cdd461c13413e76b0c413"
+    }
+   ]
+  },
+  {
    "slug": "hg-645-2024",
    "path": "hg/2024/645",
    "short": "HG nr. 645/2024",
@@ -136309,6 +137479,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/301338",
      "sha256": "145c97c59935a6d12617ff0e0ed8812b6ed2e76afbd93d7333f1eea2c6735abd"
+    }
+   ]
+  },
+  {
+   "slug": "hg-646-2023",
+   "path": "hg/2023/646",
+   "short": "HG nr. 646/2023",
+   "title": "Hotărârea Guvernului nr. 646/2023 privind eliberarea domnului Pălăşan Nicolae-Florin din funcţia de subprefect al judeţului Mureş",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273524",
+   "versions": [
+    {
+     "from": "2023-08-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273524",
+     "sha256": "cc862f8bdb17919a15b88e915b2a60de0b3d3da32c5f4ed156f1e3f48d81b107"
     }
    ]
   },
@@ -136364,6 +137549,21 @@
    ]
   },
   {
+   "slug": "hg-647-2023",
+   "path": "hg/2023/647",
+   "short": "HG nr. 647/2023",
+   "title": "Hotărârea Guvernului nr. 647/2023 privind numirea domnului Dobre Ciprian-Minodor în funcţia de prefect al judeţului Mureş",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273525",
+   "versions": [
+    {
+     "from": "2023-08-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273525",
+     "sha256": "54170e0c2a83e66e40c51b5ac9daf80d9d43b1bec004c943e73f64e66edaea68"
+    }
+   ]
+  },
+  {
    "slug": "hg-647-2025",
    "path": "hg/2025/647",
    "short": "HG nr. 647/2025",
@@ -136375,6 +137575,21 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/301414",
      "sha256": "2780b775c2dc745f1d892bbf87e4cf99c8b110cf24190dfcc67b8286b637079b"
+    }
+   ]
+  },
+  {
+   "slug": "hg-648-2023",
+   "path": "hg/2023/648",
+   "short": "HG nr. 648/2023",
+   "title": "Hotărârea Guvernului nr. 648/2023 privind numirea domnului De Mezzo Mario-Lucian în funcţia de prefect al judeţului Olt",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273526",
+   "versions": [
+    {
+     "from": "2023-08-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273526",
+     "sha256": "da132838a625f6c9238372f66c9632fe3ade763e5649da86778a65bcb9be3237"
     }
    ]
   },
@@ -136420,6 +137635,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/255552",
      "sha256": "6e898dbbd480f583809669bb873727ce20711bffe60e1e14db05fcb2d058ed3a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-649-2023",
+   "path": "hg/2023/649",
+   "short": "HG nr. 649/2023",
+   "title": "Hotărârea Guvernului nr. 649/2023 privind numirea domnului Oprea Vasile-Liviu în funcţia de subprefect al judeţului Mureş",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273527",
+   "versions": [
+    {
+     "from": "2023-08-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273527",
+     "sha256": "3f9ed1a35b1c054c3e1a7eeb25f3268c449798db9c4e08ba8692a370ed37c8db"
     }
    ]
   },
@@ -136514,6 +137744,21 @@
    ]
   },
   {
+   "slug": "hg-650-2023",
+   "path": "hg/2023/650",
+   "short": "HG nr. 650/2023",
+   "title": "Hotărârea Guvernului nr. 650/2023 pentru modificarea anexelor nr. 1-6 la Hotărârea Guvernului nr. 367/2023 privind aprobarea Nomenclatorului domeniilor şi al specializărilor/programelor de studii universitare şi a structurii instituţiilor de învăţământ superior pentru anul universitar 2023-2024",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273566",
+   "versions": [
+    {
+     "from": "2023-08-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273566",
+     "sha256": "15f00b165655898f8732a84e267a6912ac5fa01fa32d55447f691e3300face11"
+    }
+   ]
+  },
+  {
    "slug": "hg-651-2019",
    "path": "hg/2019/651",
    "short": "HG nr. 651/2019",
@@ -136546,6 +137791,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/230786",
      "sha256": "0f5c5f9e78d9de54a60c549cbd8900a62b2bf3fd4056925adf63446979810ba8"
+    }
+   ]
+  },
+  {
+   "slug": "hg-651-2023",
+   "path": "hg/2023/651",
+   "short": "HG nr. 651/2023",
+   "title": "Hotărârea Guvernului nr. 651/2023 pentru modificarea anexelor nr. 1 şi 2 la Hotărârea Guvernului nr. 356/2023 privind aprobarea domeniilor şi programelor de studii universitare de master acreditate şi a numărului maxim de studenţi ce pot fi şcolarizaţi în anul universitar 2023-2024",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273561",
+   "versions": [
+    {
+     "from": "2023-08-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273561",
+     "sha256": "6744b835d4f13f9a4596d65c638e9a9dabac2c5cee6df029000a1a0cb76e15da"
     }
    ]
   },
@@ -136838,6 +138098,21 @@
    ]
   },
   {
+   "slug": "hg-655-2023",
+   "path": "hg/2023/655",
+   "short": "HG nr. 655/2023",
+   "title": "Hotărârea Guvernului nr. 655/2023 privind înscrierea unor imobile situate în municipiul Galaţi în inventarul centralizat al bunurilor din domeniul public al statului, darea acestora în administrarea Ministerului Transporturilor şi Infrastructurii şi în concesiunea Companiei Naţionale \"Administraţia Porturilor Dunării Maritime\" - S.A. Galaţi, precum şi modificarea anexei nr. 16 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273584",
+   "versions": [
+    {
+     "from": "2023-08-07",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273584",
+     "sha256": "22561d4a4f41bfc2a313c710977b809ab64ba9ab1c221033bd9f92f86a701ca5"
+    }
+   ]
+  },
+  {
    "slug": "hg-655-2024",
    "path": "hg/2024/655",
    "short": "HG nr. 655/2024",
@@ -137009,6 +138284,21 @@
    ]
   },
   {
+   "slug": "hg-657-2023",
+   "path": "hg/2023/657",
+   "short": "HG nr. 657/2023",
+   "title": "Hotărârea Guvernului nr. 657/2023 pentru aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Modernizarea trecerilor la nivel cu calea ferată - Sucursala Regională de Căi Ferate Braşov\", lucrare de utilitate publică de interes naţional",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273607",
+   "versions": [
+    {
+     "from": "2023-08-08",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273607",
+     "sha256": "2221627c83e5980b021e370d69bf8bc277cedecb7c3aa7be948fcb87186bd7e1"
+    }
+   ]
+  },
+  {
    "slug": "hg-657-2024",
    "path": "hg/2024/657",
    "short": "HG nr. 657/2024",
@@ -137069,6 +138359,21 @@
    ]
   },
   {
+   "slug": "hg-658-2023",
+   "path": "hg/2023/658",
+   "short": "HG nr. 658/2023",
+   "title": "Hotărârea Guvernului nr. 658/2023 privind actualizarea valorii de inventar a imobilului 3255 aflat în domeniul public al statului şi în administrarea Ministerului Apărării Naţionale, trecerea unei părţi din acesta din domeniul public al statului şi din administrarea Ministerului Apărării Naţionale în domeniul public al municipiului Piteşti, judeţul Argeş, şi modificarea anexei nr. 4 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273608",
+   "versions": [
+    {
+     "from": "2023-08-08",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273608",
+     "sha256": "81271428947d12adbec94004d5a0b7ab47956f73dbc73668b4b9dd644be40f41"
+    }
+   ]
+  },
+  {
    "slug": "hg-658-2024",
    "path": "hg/2024/658",
    "short": "HG nr. 658/2024",
@@ -137095,6 +138400,21 @@
      "units": 1,
      "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/217875",
      "sha256": "0cedff90b0a0e9d16a55c990f3ec6bbb4a071ffb81a76a576db46a9bdd744925"
+    }
+   ]
+  },
+  {
+   "slug": "hg-659-2023",
+   "path": "hg/2023/659",
+   "short": "HG nr. 659/2023",
+   "title": "Hotărârea Guvernului nr. 659/2023 privind aprobarea unor modificări în inventarul centralizat al bunurilor din domeniul public al statului aflate în administrarea Ministerului Apărării Naţionale, situate în judeţele Cluj, Dâmboviţa, Bistriţa-Năsăud, Argeş şi municipiul Bucureşti, şi modificarea anexei nr. 4 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273585",
+   "versions": [
+    {
+     "from": "2023-08-07",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273585",
+     "sha256": "54a14035baba93ecfc70f7c4d0d5f7f0c4c00b09e7475a4c31315c12e94c85b3"
     }
    ]
   },
@@ -137174,6 +138494,21 @@
    ]
   },
   {
+   "slug": "hg-660-2023",
+   "path": "hg/2023/660",
+   "short": "HG nr. 660/2023",
+   "title": "Hotărârea Guvernului nr. 660/2023 privind actualizarea denumirii, descrierii tehnice şi a valorii de inventar ale unui bun imobil aflat în domeniul public al statului şi în administrarea Agenţiei Domeniilor Statului, aflată în subordinea Ministerului Agriculturii şi Dezvoltării Rurale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273586",
+   "versions": [
+    {
+     "from": "2023-08-07",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273586",
+     "sha256": "e754ae3fdec949a37d0108d25afe8c213ad065b5d218b1166a59377d930a7732"
+    }
+   ]
+  },
+  {
    "slug": "hg-661-2003",
    "path": "hg/2003/661",
    "short": "HG nr. 661/2003",
@@ -137191,6 +138526,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/211306",
      "sha256": "37cba89574311d9fbe512c6123e6e12fda4b2bf635c059a27b30ea30ca801c5f"
+    }
+   ]
+  },
+  {
+   "slug": "hg-661-2023",
+   "path": "hg/2023/661",
+   "short": "HG nr. 661/2023",
+   "title": "Hotărârea Guvernului nr. 661/2023 privind modificarea codului de clasificaţie, actualizarea denumirii, descrierii tehnice şi/sau a valorilor de inventar, după caz, ale unor bunuri imobile aflate în domeniul public al statului şi în administrarea Direcţiei pentru Agricultură Judeţene Bacău şi a Direcţiei pentru Agricultură Judeţene Suceava, instituţii subordonate Ministerului Agriculturii şi Dezvoltării Rurale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273587",
+   "versions": [
+    {
+     "from": "2023-08-07",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273587",
+     "sha256": "1f74d3d8ff812e4cc9456737c4f235ac77bf1967b23831a136cdbe325573e304"
     }
    ]
   },
@@ -137321,6 +138671,21 @@
    ]
   },
   {
+   "slug": "hg-664-2023",
+   "path": "hg/2023/664",
+   "short": "HG nr. 664/2023",
+   "title": "Hotărârea Guvernului nr. 664/2023 privind actualizarea valorii de inventar şi a datelor de identificare ale unor bunuri imobile aflate în domeniul public al statului şi în administrarea Oficiului de Studii Pedologice şi Agrochimice Dolj din subordinea Ministerului Agriculturii şi Dezvoltării Rurale, precum şi comasarea poziţiilor nr. MF 39050 şi MF 121328 la poziţia cu nr. MF 39050",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273609",
+   "versions": [
+    {
+     "from": "2023-08-08",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273609",
+     "sha256": "63b96a91f7ec9b22900a68f4ce9357f645032a712ed6f0852c652716af466049"
+    }
+   ]
+  },
+  {
    "slug": "hg-664-2024",
    "path": "hg/2024/664",
    "short": "HG nr. 664/2024",
@@ -137362,6 +138727,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95271",
      "sha256": "203e5a5413ba31ee14ba25858f0af59362d1bd2dd8cadf103bd12060cee8b755"
+    }
+   ]
+  },
+  {
+   "slug": "hg-665-2023",
+   "path": "hg/2023/665",
+   "short": "HG nr. 665/2023",
+   "title": "Hotărârea Guvernului nr. 665/2023 privind înscrierea în inventarul centralizat al bunurilor din domeniul public al statului a unor imobile, în suprafaţă totală de 4.323 mp, trecute în domeniul public al statului şi darea în administrarea Ministerului Transporturilor şi Infrastructurii, în vederea realizării de către Compania Naţională de Administrare a Infrastructurii Rutiere - S.A. a obiectivului de investiţie \"Amenajare pasaj rutier la intersecţia DN 1 cu Bulevardul Republicii (Sinaia Sud)\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273610",
+   "versions": [
+    {
+     "from": "2023-08-08",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273610",
+     "sha256": "a4e7b9aa7e8407a3f72b56b65ff3954176d95d4e6a39af92e368cc654a122a09"
     }
    ]
   },
@@ -137462,6 +138842,21 @@
    ]
   },
   {
+   "slug": "hg-667-2023",
+   "path": "hg/2023/667",
+   "short": "HG nr. 667/2023",
+   "title": "Hotărârea Guvernului nr. 667/2023 privind recunoaşterea Fundaţiei \"General Grigore Baştan\" ca fiind de utilitate publică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273611",
+   "versions": [
+    {
+     "from": "2023-08-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273611",
+     "sha256": "438a785bc607d8cd11b0961a1f98e1328d119d76ea9e601f4a313a77df16b3b4"
+    }
+   ]
+  },
+  {
    "slug": "hg-667-2024",
    "path": "hg/2024/667",
    "short": "HG nr. 667/2024",
@@ -137522,6 +138917,21 @@
    ]
   },
   {
+   "slug": "hg-668-2023",
+   "path": "hg/2023/668",
+   "short": "HG nr. 668/2023",
+   "title": "Hotărârea Guvernului nr. 668/2023 privind trecerea unei părţi din imobilul 3589, aflat în administrarea Institutului Naţional de Cercetare-Dezvoltare Medico-Militară \"Cantacuzino\", constituită dintr-o construcţie, din domeniul public al statului în domeniul privat al acestuia, în vederea scoaterii din funcţiune şi casării, şi modificarea anexei nr. 4 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273599",
+   "versions": [
+    {
+     "from": "2023-08-08",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273599",
+     "sha256": "75eafb4fd61799dcc023a33708648780ad575c7c7c727262d71dd3cc46ff6d8f"
+    }
+   ]
+  },
+  {
    "slug": "hg-669-2006",
    "path": "hg/2006/669",
    "short": "HG nr. 669/2006",
@@ -137548,6 +138958,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/255654",
      "sha256": "4c19cc649514f396546135746d9977357e8bbfa6577e75da6d552163ffd3dc34"
+    }
+   ]
+  },
+  {
+   "slug": "hg-669-2023",
+   "path": "hg/2023/669",
+   "short": "HG nr. 669/2023",
+   "title": "Hotărârea Guvernului nr. 669/2023 privind închirierea unor spaţii din domeniul public al statului şi administrarea Institutului Naţional de Boli Infecţioase \"Prof. Dr. Matei Balş\", unitate sanitară din subordinea Ministerului Sănătăţii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273612",
+   "versions": [
+    {
+     "from": "2023-08-08",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273612",
+     "sha256": "cbfbc537a90315645673bf8a15029e543416eca420545b59731804cd1e0464b6"
     }
    ]
   },
@@ -137657,6 +139082,21 @@
    ]
   },
   {
+   "slug": "hg-670-2023",
+   "path": "hg/2023/670",
+   "short": "HG nr. 670/2023",
+   "title": "Hotărârea Guvernului nr. 670/2023 privind înscrierea unui imobil în inventarul centralizat al bunurilor din domeniul public al statului şi darea acestuia în administrarea Ministerului Sănătăţii - Direcţia de Sănătate Publică a Judeţului Timiş",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273613",
+   "versions": [
+    {
+     "from": "2023-08-08",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273613",
+     "sha256": "06eabe45d1fbcd147f2553dc75dad00eeed6dc8825291612e2a7825467da4db6"
+    }
+   ]
+  },
+  {
    "slug": "hg-670-2024",
    "path": "hg/2024/670",
    "short": "HG nr. 670/2024",
@@ -137702,6 +139142,21 @@
    ]
   },
   {
+   "slug": "hg-671-2023",
+   "path": "hg/2023/671",
+   "short": "HG nr. 671/2023",
+   "title": "Hotărârea Guvernului nr. 671/2023 privind actualizarea valorii de inventar a unui bun imobil aflat în domeniul public al statului şi în administrarea Oficiului de Cadastru şi Publicitate Imobiliară Vaslui",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273614",
+   "versions": [
+    {
+     "from": "2023-08-08",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273614",
+     "sha256": "bbe2bf7c432acc583b2ce5748e77ab26e5de37d48f84ec3eb37767e831feac70"
+    }
+   ]
+  },
+  {
    "slug": "hg-671-2024",
    "path": "hg/2024/671",
    "short": "HG nr. 671/2024",
@@ -137743,6 +139198,36 @@
      "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/217955",
      "sha256": "e4c633572237d15528847e416947ab7773ece2bac1704202e97edcf4a3243630"
+    }
+   ]
+  },
+  {
+   "slug": "hg-673-2023",
+   "path": "hg/2023/673",
+   "short": "HG nr. 673/2023",
+   "title": "Hotărârea Guvernului nr. 673/2023 pentru actualizarea valorii de inventar a unor bunuri imobile aflate în domeniul public al statului şi în administrarea Institutului Naţional al Patrimoniului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273615",
+   "versions": [
+    {
+     "from": "2023-08-08",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273615",
+     "sha256": "9b0b0f670223aa47afcdcc240df7347e5aa80ae23291565e0a12dcbf8cdd4d26"
+    }
+   ]
+  },
+  {
+   "slug": "hg-674-2023",
+   "path": "hg/2023/674",
+   "short": "HG nr. 674/2023",
+   "title": "Hotărârea Guvernului nr. 674/2023 privind actualizarea valorii de inventar a unui imobil aflat în domeniul public al statului şi în administrarea Ministerului Afacerilor Interne, prin Direcţia asigurare logistică integrată, ca urmare a inventarierii anuale şi reevaluării",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273616",
+   "versions": [
+    {
+     "from": "2023-08-08",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273616",
+     "sha256": "afeab4dd478b3c5a23cb6025d4f1991805f93e19e983fce3f107b3d44d862e0c"
     }
    ]
   },
@@ -137873,6 +139358,21 @@
    ]
   },
   {
+   "slug": "hg-677-2023",
+   "path": "hg/2023/677",
+   "short": "HG nr. 677/2023",
+   "title": "Hotărârea Guvernului nr. 677/2023 privind actualizarea valorii de inventar a unui imobil aflat în domeniul public al statului şi în administrarea Agenţiei Naţionale de Integritate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273640",
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273640",
+     "sha256": "47b1180691abf8bdc7c9a6b6bd305739d4fa3430ae1f544afc5e1904e1e2622f"
+    }
+   ]
+  },
+  {
    "slug": "hg-677-2025",
    "path": "hg/2025/677",
    "short": "HG nr. 677/2025",
@@ -137957,6 +139457,21 @@
    ]
   },
   {
+   "slug": "hg-679-2023",
+   "path": "hg/2023/679",
+   "short": "HG nr. 679/2023",
+   "title": "Hotărârea Guvernului nr. 679/2023 privind actualizarea valorii de inventar a unui imobil aflat în domeniul public al statului şi în administrarea Tribunalului Braşov, precum şi transmiterea unei părţi din acesta din domeniul public al statului în domeniul privat al acestuia, în vederea scoaterii din funcţiune şi demolării",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273641",
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273641",
+     "sha256": "adb41af2b83ce0cb04da325f70a6e9a7db1da08e21951de8b0f4e31d788b5eaf"
+    }
+   ]
+  },
+  {
    "slug": "hg-680-2007",
    "path": "hg/2007/680",
    "short": "HG nr. 680/2007",
@@ -137968,6 +139483,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/83737",
      "sha256": "5d17df9351aa275983d79dd759f1a58937163596f0b7cbf9562bd10d421ef963"
+    }
+   ]
+  },
+  {
+   "slug": "hg-680-2023",
+   "path": "hg/2023/680",
+   "short": "HG nr. 680/2023",
+   "title": "Hotărârea Guvernului nr. 680/2023 privind rechemarea unui consul general",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273672",
+   "versions": [
+    {
+     "from": "2023-08-11",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273672",
+     "sha256": "96fc43786f99290f3482d6cab3f68722c03beca1df8de896b87cbb1741300dca"
     }
    ]
   },
@@ -137998,6 +139528,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/130547",
      "sha256": "d6fb41c037092c5e12dfe835319cf185fe24d526da83507625d53dac9701fe35"
+    }
+   ]
+  },
+  {
+   "slug": "hg-681-2023",
+   "path": "hg/2023/681",
+   "short": "HG nr. 681/2023",
+   "title": "Hotărârea Guvernului nr. 681/2023 privind rechemarea şi numirea unui consul general",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273673",
+   "versions": [
+    {
+     "from": "2023-08-11",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273673",
+     "sha256": "e6692026e818f58334e7a20cd1823d341c217591bf31d7f18253e00f10c3ae35"
     }
    ]
   },
@@ -138077,6 +139622,21 @@
    ]
   },
   {
+   "slug": "hg-683-2023",
+   "path": "hg/2023/683",
+   "short": "HG nr. 683/2023",
+   "title": "Hotărârea Guvernului nr. 683/2023 privind rechemarea şi numirea unui consul general",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273675",
+   "versions": [
+    {
+     "from": "2023-08-11",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273675",
+     "sha256": "265ed0247113b8d5c72ff4db9ef0e37cb2e458f3ce24caca87ab0de61a1a92f9"
+    }
+   ]
+  },
+  {
    "slug": "hg-683-2025",
    "path": "hg/2025/683",
    "short": "HG nr. 683/2025",
@@ -138088,6 +139648,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/301600",
      "sha256": "880f1ab510eb0d1916dc1b3bb27321223492a46b0a155c22564b737379dd94c2"
+    }
+   ]
+  },
+  {
+   "slug": "hg-684-2023",
+   "path": "hg/2023/684",
+   "short": "HG nr. 684/2023",
+   "title": "Hotărârea Guvernului nr. 684/2023 privind numirea unui consul general",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273676",
+   "versions": [
+    {
+     "from": "2023-08-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273676",
+     "sha256": "a76bfa6fcb5b3d9e02578d8d18f84ba6eb03a102b7139a3a916ca2db7aa2e7cf"
     }
    ]
   },
@@ -138118,6 +139693,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/255751",
      "sha256": "76f389ad54b505ee5785de8b18a38058839e569b69cb0506a8bb0d208f3eb03a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-685-2023",
+   "path": "hg/2023/685",
+   "short": "HG nr. 685/2023",
+   "title": "Hotărârea Guvernului nr. 685/2023 privind numirea unui consul general",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273677",
+   "versions": [
+    {
+     "from": "2023-08-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273677",
+     "sha256": "b3516c7d0f26b9befbfc6b66d75f8327918f7be9801d0acbac7530d135326039"
     }
    ]
   },
@@ -138173,6 +139763,21 @@
    ]
   },
   {
+   "slug": "hg-686-2023",
+   "path": "hg/2023/686",
+   "short": "HG nr. 686/2023",
+   "title": "Hotărârea Guvernului nr. 686/2023 privind rechemarea şi numirea unui consul general",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273678",
+   "versions": [
+    {
+     "from": "2023-08-11",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273678",
+     "sha256": "28bc914e0ac77d67f810af3e6dd70932abd3e242c84627689f1594e258260253"
+    }
+   ]
+  },
+  {
    "slug": "hg-687-1997",
    "path": "hg/1997/687",
    "short": "HG nr. 687/1997",
@@ -138212,6 +139817,21 @@
    ]
   },
   {
+   "slug": "hg-687-2023",
+   "path": "hg/2023/687",
+   "short": "HG nr. 687/2023",
+   "title": "Hotărârea Guvernului nr. 687/2023 privind rechemarea şi numirea unui consul general",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273689",
+   "versions": [
+    {
+     "from": "2023-08-11",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273689",
+     "sha256": "e45534ec50a7e5e669779e1dcb29ba3d7f3e22f4a0975cc8ac891813c0b6116c"
+    }
+   ]
+  },
+  {
    "slug": "hg-687-2024",
    "path": "hg/2024/687",
    "short": "HG nr. 687/2024",
@@ -138227,6 +139847,21 @@
    ]
   },
   {
+   "slug": "hg-688-2023",
+   "path": "hg/2023/688",
+   "short": "HG nr. 688/2023",
+   "title": "Hotărârea Guvernului nr. 688/2023 privind rechemarea şi numirea unui consul general",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273679",
+   "versions": [
+    {
+     "from": "2023-08-11",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273679",
+     "sha256": "e214a959a8bf96c9bf3ddff83721862665315812f454335ff9419a9b64bac8fe"
+    }
+   ]
+  },
+  {
    "slug": "hg-689-2020",
    "path": "hg/2020/689",
    "short": "HG nr. 689/2020",
@@ -138238,6 +139873,21 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/229528",
      "sha256": "43b50c4a4ee4be87976d64d557f0f02cca62575ccc71d21b4a4573ee748b4e6f"
+    }
+   ]
+  },
+  {
+   "slug": "hg-689-2023",
+   "path": "hg/2023/689",
+   "short": "HG nr. 689/2023",
+   "title": "Hotărârea Guvernului nr. 689/2023 privind numirea unui consul general",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273680",
+   "versions": [
+    {
+     "from": "2023-08-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273680",
+     "sha256": "279ffc0df6e38c93af9a301afdfb46d82bedaaa6f931f5e3bdc3e41790cd14e3"
     }
    ]
   },
@@ -138293,6 +139943,21 @@
    ]
   },
   {
+   "slug": "hg-690-2023",
+   "path": "hg/2023/690",
+   "short": "HG nr. 690/2023",
+   "title": "Hotărârea Guvernului nr. 690/2023 privind numirea unui consul general",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273681",
+   "versions": [
+    {
+     "from": "2023-08-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273681",
+     "sha256": "79c41c2564dfce12c03d509a5123deebb95930ad77767f4a87dc1492bcbc4a51"
+    }
+   ]
+  },
+  {
    "slug": "hg-691-2015",
    "path": "hg/2015/691",
    "short": "HG nr. 691/2015",
@@ -138319,6 +139984,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/218008",
      "sha256": "a0a95377bbfd686bc9b900d1b112917156aadb56cbede04445cf015645899f10"
+    }
+   ]
+  },
+  {
+   "slug": "hg-691-2023",
+   "path": "hg/2023/691",
+   "short": "HG nr. 691/2023",
+   "title": "Hotărârea Guvernului nr. 691/2023 privind rechemarea şi numirea unui consul general",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273682",
+   "versions": [
+    {
+     "from": "2023-08-11",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273682",
+     "sha256": "5577fbef8418148db218280e6d71b6f2e6c7a5ae29b567bc927ddddd2c19d02a"
     }
    ]
   },
@@ -138353,6 +140033,21 @@
    ]
   },
   {
+   "slug": "hg-692-2023",
+   "path": "hg/2023/692",
+   "short": "HG nr. 692/2023",
+   "title": "Hotărârea Guvernului nr. 692/2023 privind numirea unui consul general",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273683",
+   "versions": [
+    {
+     "from": "2023-08-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273683",
+     "sha256": "b002aa902dbec9e700d87f90a5f31cae322f1bb7c4243e786549b8b8bbbd1380"
+    }
+   ]
+  },
+  {
    "slug": "hg-692-2024",
    "path": "hg/2024/692",
    "short": "HG nr. 692/2024",
@@ -138364,6 +140059,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/284631",
      "sha256": "9a3f99ea8c35e811becfea64e5d73fdfd327ccfe3aa1b634688289c156b13e85"
+    }
+   ]
+  },
+  {
+   "slug": "hg-693-2023",
+   "path": "hg/2023/693",
+   "short": "HG nr. 693/2023",
+   "title": "Hotărârea Guvernului nr. 693/2023 privind numirea unui consul general",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273684",
+   "versions": [
+    {
+     "from": "2023-08-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273684",
+     "sha256": "afafb87c8a70589b5db534d8815b131c3a8434ecf55e796a44efe804488ff64d"
     }
    ]
   },
@@ -138398,6 +140108,21 @@
    ]
   },
   {
+   "slug": "hg-694-2023",
+   "path": "hg/2023/694",
+   "short": "HG nr. 694/2023",
+   "title": "Hotărârea Guvernului nr. 694/2023 privind numirea unui consul general",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273685",
+   "versions": [
+    {
+     "from": "2023-08-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273685",
+     "sha256": "907c3c01ec5a7e825efbd7034b4c2993fab9a1321f42d4e507b2f4ebd6ff31e1"
+    }
+   ]
+  },
+  {
    "slug": "hg-694-2024",
    "path": "hg/2024/694",
    "short": "HG nr. 694/2024",
@@ -138424,6 +140149,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/301821",
      "sha256": "5c60c5c2b412aedb9b0c1f305dac2c30d299fda20ddde6f2df90672ea8e6d482"
+    }
+   ]
+  },
+  {
+   "slug": "hg-695-2023",
+   "path": "hg/2023/695",
+   "short": "HG nr. 695/2023",
+   "title": "Hotărârea Guvernului nr. 695/2023 privind rechemarea şi numirea unui consul general",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273686",
+   "versions": [
+    {
+     "from": "2023-08-11",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273686",
+     "sha256": "9f4c66a2e7b62208e3df5e0bac3b9d12241d3bfcc3d253714233cc3553cf43c0"
     }
    ]
   },
@@ -138509,6 +140249,21 @@
    ]
   },
   {
+   "slug": "hg-696-2023",
+   "path": "hg/2023/696",
+   "short": "HG nr. 696/2023",
+   "title": "Hotărârea Guvernului nr. 696/2023 privind rechemarea şi numirea unui consul general",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273687",
+   "versions": [
+    {
+     "from": "2023-08-11",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273687",
+     "sha256": "ad84da2287d3885ba5f3c306ba7548be5e097a3343b2ac52239bf1b21e4de5a3"
+    }
+   ]
+  },
+  {
    "slug": "hg-697-2000",
    "path": "hg/2000/697",
    "short": "HG nr. 697/2000",
@@ -138535,6 +140290,21 @@
      "units": 3,
      "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/204779",
      "sha256": "5ffc9001710be92557a8e3eb085089af38632ab0b2b13a594c5195556b07fefe"
+    }
+   ]
+  },
+  {
+   "slug": "hg-697-2023",
+   "path": "hg/2023/697",
+   "short": "HG nr. 697/2023",
+   "title": "Hotărârea Guvernului nr. 697/2023 privind rechemarea şi numirea unui consul general",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273688",
+   "versions": [
+    {
+     "from": "2023-08-11",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273688",
+     "sha256": "54690c28b876c1968c982959a3b1e6e385d8c6248fc1c54594610148b29d6a43"
     }
    ]
   },
@@ -138569,6 +140339,21 @@
    ]
   },
   {
+   "slug": "hg-698-2023",
+   "path": "hg/2023/698",
+   "short": "HG nr. 698/2023",
+   "title": "Hotărârea Guvernului nr. 698/2023 privind rechemarea unui consul general",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273690",
+   "versions": [
+    {
+     "from": "2023-08-11",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273690",
+     "sha256": "c025f93eccc44835f867da5e474c0a664168a38bc7485f6c49d4d542a5fbce1c"
+    }
+   ]
+  },
+  {
    "slug": "hg-698-2025",
    "path": "hg/2025/698",
    "short": "HG nr. 698/2025",
@@ -138580,6 +140365,21 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/301845",
      "sha256": "8f81061727266e9570c7876a60daf936638be4ee090fa3e8d1ebcbf882d7fbb9"
+    }
+   ]
+  },
+  {
+   "slug": "hg-699-2023",
+   "path": "hg/2023/699",
+   "short": "HG nr. 699/2023",
+   "title": "Hotărârea Guvernului nr. 699/2023 privind rechemarea şi numirea unui consul general",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273691",
+   "versions": [
+    {
+     "from": "2023-08-11",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273691",
+     "sha256": "10498726c412ca0eeb33d9a7431051cb939e22b8cc3d1db94c570ae3b2dd0aa9"
     }
    ]
   },
@@ -138629,6 +140429,21 @@
    ]
   },
   {
+   "slug": "hg-700-2023",
+   "path": "hg/2023/700",
+   "short": "HG nr. 700/2023",
+   "title": "Hotărârea Guvernului nr. 700/2023 privind rechemarea unui consul general",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273692",
+   "versions": [
+    {
+     "from": "2023-08-11",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273692",
+     "sha256": "2a49504f4a1add8b565a5cea4e4020f75ee1f98b3a6e2a3cc65c4fe6a20a1409"
+    }
+   ]
+  },
+  {
    "slug": "hg-700-2025",
    "path": "hg/2025/700",
    "short": "HG nr. 700/2025",
@@ -138674,6 +140489,21 @@
    ]
   },
   {
+   "slug": "hg-702-2023",
+   "path": "hg/2023/702",
+   "short": "HG nr. 702/2023",
+   "title": "Hotărârea Guvernului nr. 702/2023 privind rechemarea şi numirea unui consul general",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273694",
+   "versions": [
+    {
+     "from": "2023-08-11",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273694",
+     "sha256": "ec6dddf3d1c78d10dc0272ca38f053577ab5c0a9033b9b5f9eb7fb46c540075c"
+    }
+   ]
+  },
+  {
    "slug": "hg-702-2025",
    "path": "hg/2025/702",
    "short": "HG nr. 702/2025",
@@ -138704,6 +140534,21 @@
    ]
   },
   {
+   "slug": "hg-703-2023",
+   "path": "hg/2023/703",
+   "short": "HG nr. 703/2023",
+   "title": "Hotărârea Guvernului nr. 703/2023 pentru aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Modernizarea trecerilor la nivel cu calea ferată - Sucursala Regională de Căi Ferate Cluj\", lucrare de utilitate publică de interes naţional",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273704",
+   "versions": [
+    {
+     "from": "2023-08-11",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273704",
+     "sha256": "67b559f565b44d8292a2f543137e510d5a9120fa351917c4a70230004b4a05d3"
+    }
+   ]
+  },
+  {
    "slug": "hg-703-2024",
    "path": "hg/2024/703",
    "short": "HG nr. 703/2024",
@@ -138730,6 +140575,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/301826",
      "sha256": "fc5e355a5f5fcb5d3976d785c1f4ce79659d5d41e2d48da6c44c5659352fca46"
+    }
+   ]
+  },
+  {
+   "slug": "hg-704-2023",
+   "path": "hg/2023/704",
+   "short": "HG nr. 704/2023",
+   "title": "Hotărârea Guvernului nr. 704/2023 pentru aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Modernizarea trecerilor la nivel cu calea ferată - Sucursala Regională de Căi Ferate Bucureşti\", lucrare de utilitate publică de interes naţional",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273705",
+   "versions": [
+    {
+     "from": "2023-08-11",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273705",
+     "sha256": "c9b058a7421a0302376726aa517c9cc51e5f12b05ebf4db71ab7523cd7e8ff8f"
     }
    ]
   },
@@ -138841,6 +140701,21 @@
      "units": 5,
      "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/204784",
      "sha256": "88f5e884ac0d2846641bd35fecef5d22990d1ac76725fe973d2062269823f939"
+    }
+   ]
+  },
+  {
+   "slug": "hg-706-2023",
+   "path": "hg/2023/706",
+   "short": "HG nr. 706/2023",
+   "title": "Hotărârea Guvernului nr. 706/2023 privind trecerea din domeniul privat al statului în domeniul public al statului, darea în administrarea Ministerului Transporturilor şi Infrastructurii şi în concesiunea Companiei Naţionale de Căi Ferate \"C.F.R.\" - S.A. a unor bunuri de pe raza de activitate a Sucursalei Regionale de Căi Ferate Constanţa",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273707",
+   "versions": [
+    {
+     "from": "2023-08-11",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273707",
+     "sha256": "778d1ff8648a7d5f7251fba0b125aac42247c38bc800d4abf9fe43fff8033468"
     }
    ]
   },
@@ -138980,6 +140855,21 @@
    ]
   },
   {
+   "slug": "hg-711-2023",
+   "path": "hg/2023/711",
+   "short": "HG nr. 711/2023",
+   "title": "Hotărârea Guvernului nr. 711/2023 pentru aprobarea amendamentului convenit între Guvernul României şi Banca de Dezvoltare a Consiliului Europei, prin schimbul de scrisori semnate la Bucureşti la 3 mai 2023 şi la Paris la 27 iunie 2023, la Acordul-cadru de împrumut dintre România şi Banca de Dezvoltare a Consiliului Europei pentru finanţarea Proiectului privind finalizarea construcţiei, renovarea sau reabilitarea clădirilor culturale de interes public din România, semnat la Bucureşti la 4 mai 2007 şi la Paris la 14 mai 2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273717",
+   "versions": [
+    {
+     "from": "2023-08-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273717",
+     "sha256": "3c0adc22847496abccfddedb69828fee4c9667dcb6b85d01940eec0c9b33fca8"
+    }
+   ]
+  },
+  {
    "slug": "hg-711-2024",
    "path": "hg/2024/711",
    "short": "HG nr. 711/2024",
@@ -138991,6 +140881,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/284672",
      "sha256": "d228c71c25371c1dc9650f042eb9bb2419a7701ca1e5c53c5616e602218a1ce3"
+    }
+   ]
+  },
+  {
+   "slug": "hg-712-2023",
+   "path": "hg/2023/712",
+   "short": "HG nr. 712/2023",
+   "title": "Hotărârea Guvernului nr. 712/2023 pentru reaprobarea Notei de fundamentare privind necesitatea şi oportunitatea efectuării cheltuielilor aferente proiectului de investiţii \"HeliPol\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273665",
+   "versions": [
+    {
+     "from": "2023-08-10",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273665",
+     "sha256": "2616c04ed83fffcaa9ad11b9cf2da3dbddfba75727646034756222d2c34a8d63"
     }
    ]
   },
@@ -139232,6 +141137,21 @@
    ]
   },
   {
+   "slug": "hg-717-2023",
+   "path": "hg/2023/717",
+   "short": "HG nr. 717/2023",
+   "title": "Hotărârea Guvernului nr. 717/2023 privind actualizarea descrierii tehnice şi a valorii de inventar a unui drum forestier, precum şi trecerea cu titlu gratuit a unui tronson şi a terenului aferent din domeniul public al statului şi din administrarea Regiei Naţionale a Pădurilor - Romsilva în domeniul public al comunei Frumosu, judeţul Suceava",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273753",
+   "versions": [
+    {
+     "from": "2023-08-16",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273753",
+     "sha256": "3e946921228353930bbb0b6f30cb23eea850f3643100de772f1ec253490c9634"
+    }
+   ]
+  },
+  {
    "slug": "hg-717-2025",
    "path": "hg/2025/717",
    "short": "HG nr. 717/2025",
@@ -139258,6 +141178,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/130566",
      "sha256": "2eae819f1807ec9f26fda791a5054db35bc82771c4d8d868f347c873b41eb41d"
+    }
+   ]
+  },
+  {
+   "slug": "hg-718-2023",
+   "path": "hg/2023/718",
+   "short": "HG nr. 718/2023",
+   "title": "Hotărârea Guvernului nr. 718/2023 privind actualizarea descrierii tehnice şi a valorii de inventar a unui drum forestier, precum şi trecerea cu titlu gratuit a acestuia şi a terenului aferent din domeniul public al statului şi din administrarea Regiei Naţionale a Pădurilor - Romsilva în domeniul public al comunei Năpradea, judeţul Sălaj",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273754",
+   "versions": [
+    {
+     "from": "2023-08-16",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273754",
+     "sha256": "7704137be3eb51ca072aa400e756c1aa48aa927efb382d4e63b19b865bf4ec79"
     }
    ]
   },
@@ -139325,6 +141260,21 @@
    ]
   },
   {
+   "slug": "hg-719-2023",
+   "path": "hg/2023/719",
+   "short": "HG nr. 719/2023",
+   "title": "Hotărârea Guvernului nr. 719/2023 privind actualizarea caracteristicilor tehnice şi a valorii de inventar pentru unele imobile aflate în domeniul public al statului, ca urmare a reevaluării şi a înscrierii în cartea funciară, şi trecerea din domeniul public în domeniul privat al statului a unor construcţii aflate în administrarea Universităţii \"Constantin Brâncuşi\" din Târgu Jiu, instituţie aflată în coordonarea Ministerului Educaţiei, pentru scoaterea din funcţiune în vederea demolării",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273755",
+   "versions": [
+    {
+     "from": "2023-08-16",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273755",
+     "sha256": "f83ff930420905442fe40c84265d539b040ea6f6bc1813c8dfedbd6cf29b0579"
+    }
+   ]
+  },
+  {
    "slug": "hg-719-2025",
    "path": "hg/2025/719",
    "short": "HG nr. 719/2025",
@@ -139385,6 +141335,21 @@
    ]
   },
   {
+   "slug": "hg-720-2023",
+   "path": "hg/2023/720",
+   "short": "HG nr. 720/2023",
+   "title": "Hotărârea Guvernului nr. 720/2023 privind aprobarea unor modificări în inventarul centralizat al bunurilor din domeniul public al statului aflate în administrarea Ministerului Apărării Naţionale, situate în judeţele Tulcea, Constanţa, Alba, Prahova, Vaslui, Cluj, Dâmboviţa, Ilfov şi municipiul Bucureşti, înscrierea unui imobil situat în municipiul Bucureşti în inventarul centralizat al bunurilor din domeniul public al statului şi darea acestuia în administrarea Ministerului Apărării Naţionale, precum şi modificarea anexei nr. 4 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273758",
+   "versions": [
+    {
+     "from": "2023-08-16",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273758",
+     "sha256": "7b35fda1ee764fc7ea4de1bbe814d1a1feb1c1f768912a13f8c580b4a8ed7469"
+    }
+   ]
+  },
+  {
    "slug": "hg-720-2025",
    "path": "hg/2025/720",
    "short": "HG nr. 720/2025",
@@ -139396,6 +141361,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/301944",
      "sha256": "38881a9dbeda88b2a86dd53d1eacaf9fe8de841543ff3aaf3012dfac06989c9b"
+    }
+   ]
+  },
+  {
+   "slug": "hg-721-2023",
+   "path": "hg/2023/721",
+   "short": "HG nr. 721/2023",
+   "title": "Hotărârea Guvernului nr. 721/2023 privind aprobarea unor modificări în inventarul centralizat al bunurilor din domeniul public al statului aflate în administrarea Ministerului Apărării Naţionale, situate în judeţele Suceava, Neamţ, Timiş, Braşov, Dolj, Hunedoara, Brăila, Gorj, Ilfov şi municipiul Bucureşti, şi modificarea anexei nr. 4 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273759",
+   "versions": [
+    {
+     "from": "2023-08-16",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273759",
+     "sha256": "2748166d4774a464b220dd1194cbed8eedfb2a028328aa2c0fb68082938d27a8"
     }
    ]
   },
@@ -139426,6 +141406,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/182501",
      "sha256": "22f91730cb3cdfd730c007737bb07486d90dc8b533c7e41bd35acad7772bcabb"
+    }
+   ]
+  },
+  {
+   "slug": "hg-722-2023",
+   "path": "hg/2023/722",
+   "short": "HG nr. 722/2023",
+   "title": "Hotărârea Guvernului nr. 722/2023 privind actualizarea inventarului centralizat al bunurilor din domeniul public al statului, ca urmare a reevaluării şi schimbării unităţii de administrare pentru o parte din imobilul situat în municipiul Giurgiu, aflat în administrarea Ministerului Afacerilor Interne - Inspectoratul Teritorial al Poliţiei de Frontieră Giurgiu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273760",
+   "versions": [
+    {
+     "from": "2023-08-16",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273760",
+     "sha256": "252625017c3b3134665bdf2561876e405201d994c22867a66699142edc077215"
     }
    ]
   },
@@ -139475,6 +141470,21 @@
    ]
   },
   {
+   "slug": "hg-723-2023",
+   "path": "hg/2023/723",
+   "short": "HG nr. 723/2023",
+   "title": "Hotărârea Guvernului nr. 723/2023 privind aprobarea stemei comunei Merei, judeţul Buzău",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273783",
+   "versions": [
+    {
+     "from": "2023-08-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273783",
+     "sha256": "cc180d8293b5644da67177b30425173d9ac3c4a6dc47e6566572509ce2098c21"
+    }
+   ]
+  },
+  {
    "slug": "hg-723-2025",
    "path": "hg/2025/723",
    "short": "HG nr. 723/2025",
@@ -139486,6 +141496,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/301928",
      "sha256": "93b68d619f2793fa53afa0540ecb8aa5de9ccf0c1227abbc08d7f2435ea66a5c"
+    }
+   ]
+  },
+  {
+   "slug": "hg-724-2023",
+   "path": "hg/2023/724",
+   "short": "HG nr. 724/2023",
+   "title": "Hotărârea Guvernului nr. 724/2023 privind aprobarea stemei comunei Dăneşti, judeţul Gorj",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273784",
+   "versions": [
+    {
+     "from": "2023-08-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273784",
+     "sha256": "e6153fab90f0765971012df0e7f3b8d7faf87e8213cc7984589107521355b061"
     }
    ]
   },
@@ -139537,6 +141562,21 @@
      "units": 3,
      "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/218769",
      "sha256": "cd2d1c87f7e3c501299c9f76db3d9cb42b7852b2414d11ed94e7dd3725754389"
+    }
+   ]
+  },
+  {
+   "slug": "hg-725-2023",
+   "path": "hg/2023/725",
+   "short": "HG nr. 725/2023",
+   "title": "Hotărârea Guvernului nr. 725/2023 privind aprobarea scoaterii din rezervele de stat a unor cantităţi de produse şi acordarea acestora, cu titlu gratuit, Ministerului Apărării Naţionale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273761",
+   "versions": [
+    {
+     "from": "2023-08-16",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273761",
+     "sha256": "700b05b01e113c040e4bb8a08f6605c20c424278a5d40c193483fd662718ffc8"
     }
    ]
   },
@@ -139616,6 +141656,21 @@
    ]
   },
   {
+   "slug": "hg-727-2023",
+   "path": "hg/2023/727",
+   "short": "HG nr. 727/2023",
+   "title": "Hotărârea Guvernului nr. 727/2023 privind rechemarea unui consul general",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273823",
+   "versions": [
+    {
+     "from": "2023-08-18",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273823",
+     "sha256": "06fe3eda356c2036b208805ec558a22ad81588dfcd3d593aa896d987dd9179fc"
+    }
+   ]
+  },
+  {
    "slug": "hg-727-2025",
    "path": "hg/2025/727",
    "short": "HG nr. 727/2025",
@@ -139661,6 +141716,21 @@
    ]
   },
   {
+   "slug": "hg-728-2023",
+   "path": "hg/2023/728",
+   "short": "HG nr. 728/2023",
+   "title": "Hotărârea Guvernului nr. 728/2023 privind numirea unui consul general",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273824",
+   "versions": [
+    {
+     "from": "2023-08-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273824",
+     "sha256": "4f4b63387ffdf3bc347fadc483787726576b34098833c0b2aaf95301922e40db"
+    }
+   ]
+  },
+  {
    "slug": "hg-728-2025",
    "path": "hg/2025/728",
    "short": "HG nr. 728/2025",
@@ -139687,6 +141757,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/229660",
      "sha256": "c100d0d21396bbc19d829c51a8f29ae9a2e6ed890c7eaca8f52dc5b785de5883"
+    }
+   ]
+  },
+  {
+   "slug": "hg-729-2023",
+   "path": "hg/2023/729",
+   "short": "HG nr. 729/2023",
+   "title": "Hotărârea Guvernului nr. 729/2023 privind rechemarea şi numirea unui consul general",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273825",
+   "versions": [
+    {
+     "from": "2023-08-18",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273825",
+     "sha256": "2c20f22809d533c29b1ff438c2c0e9079cdd8f28e16e960863cc83c50d7805c2"
     }
    ]
   },
@@ -139787,6 +141872,21 @@
    ]
   },
   {
+   "slug": "hg-730-2023",
+   "path": "hg/2023/730",
+   "short": "HG nr. 730/2023",
+   "title": "Hotărârea Guvernului nr. 730/2023 privind numirea unui consul general",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273826",
+   "versions": [
+    {
+     "from": "2023-08-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273826",
+     "sha256": "2c01d8deb7aa969cb2fe29a3a3a3f489e2dbd6c8525b91b3bd9abfed1cbb48df"
+    }
+   ]
+  },
+  {
    "slug": "hg-730-2024",
    "path": "hg/2024/730",
    "short": "HG nr. 730/2024",
@@ -139843,6 +141943,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/244835",
      "sha256": "5c034c06aee53a703aa7346c9128265d0dc2267babb605d83f92049a220a6f6d"
+    }
+   ]
+  },
+  {
+   "slug": "hg-731-2023",
+   "path": "hg/2023/731",
+   "short": "HG nr. 731/2023",
+   "title": "Hotărârea Guvernului nr. 731/2023 privind numirea unui consul general",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273827",
+   "versions": [
+    {
+     "from": "2023-08-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273827",
+     "sha256": "d30f6fc129956aad3ed4b3eb87ab56b08a27461d69401eb129958077c8f287d6"
     }
    ]
   },
@@ -140567,6 +142682,21 @@
    ]
   },
   {
+   "slug": "hg-745-2023",
+   "path": "hg/2023/745",
+   "short": "HG nr. 745/2023",
+   "title": "Hotărârea Guvernului nr. 745/2023 privind actualizarea descrierii tehnice a unui drum forestier, precum şi trecerea cu titlu gratuit a acestuia şi a terenului aferent din domeniul public al statului şi din administrarea Regiei Naţionale a Pădurilor - Romsilva în domeniul public al comunei Ibăneşti, judeţul Mureş",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273862",
+   "versions": [
+    {
+     "from": "2023-08-21",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273862",
+     "sha256": "d837cda9c92ebe7c81b90f0a26bda8ea35e6824f10380cd71bcc0e54fd33c244"
+    }
+   ]
+  },
+  {
    "slug": "hg-745-2025",
    "path": "hg/2025/745",
    "short": "HG nr. 745/2025",
@@ -140578,6 +142708,36 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/302312",
      "sha256": "1ac370b3aa3dd1d6462c7d46b8bf9392c6e254805b649d8250324a4fe78ff3a8"
+    }
+   ]
+  },
+  {
+   "slug": "hg-746-2023",
+   "path": "hg/2023/746",
+   "short": "HG nr. 746/2023",
+   "title": "Hotărârea Guvernului nr. 746/2023 privind actualizarea descrierii tehnice şi a valorii de inventar ale unui bun imobil aflat în domeniul public al statului şi transmiterea unei părţi din acesta din administrarea Regiei Naţionale a Pădurilor - Romsilva - Direcţia de creştere, exploatare şi ameliorare a cabalinelor în administrarea Administraţiei Naţionale \"Apele Române\" prin Administraţia Bazinală de Apă Dobrogea-Litoral",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273863",
+   "versions": [
+    {
+     "from": "2023-08-21",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273863",
+     "sha256": "0e0899416d42932fe36659ba57072ee00b7bc8011c4395b54273716d3a9876d7"
+    }
+   ]
+  },
+  {
+   "slug": "hg-747-2023",
+   "path": "hg/2023/747",
+   "short": "HG nr. 747/2023",
+   "title": "Hotărârea Guvernului nr. 747/2023 privind actualizarea valorii de inventar a unui bun imobil aflat în domeniul public al statului şi în administrarea Consiliului Superior al Magistraturii, pentru Institutul Naţional al Magistraturii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273864",
+   "versions": [
+    {
+     "from": "2023-08-21",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273864",
+     "sha256": "211f3a2b2d617a360ac0043747bb669bb0f17b486772dcc5dc8867253324e059"
     }
    ]
   },
@@ -140638,6 +142798,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/83871",
      "sha256": "73e062d9ddd35c31e66ce8d37d7c4924bfb2be469a95a35f53f84b56baffd4ff"
+    }
+   ]
+  },
+  {
+   "slug": "hg-749-2023",
+   "path": "hg/2023/749",
+   "short": "HG nr. 749/2023",
+   "title": "Hotărârea Guvernului nr. 749/2023 privind actualizarea valorii de inventar a unui imobil aflat în domeniul public al statului şi în administrarea Ministerului Afacerilor Interne - Inspectoratul de Jandarmi Judeţean Bihor (UM 0657 Oradea)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273849",
+   "versions": [
+    {
+     "from": "2023-08-21",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273849",
+     "sha256": "d6c8c3f1deef110b7975b303fe1fdaf90cf79b5b01e9a65fa333bba202d28106"
     }
    ]
   },
@@ -140723,6 +142898,21 @@
    ]
   },
   {
+   "slug": "hg-750-2023",
+   "path": "hg/2023/750",
+   "short": "HG nr. 750/2023",
+   "title": "Hotărârea Guvernului nr. 750/2023 privind aprobarea stemei comunei Almaş, judeţul Arad",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273921",
+   "versions": [
+    {
+     "from": "2023-08-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273921",
+     "sha256": "6e95e0fc3ce559abbe7bcd4a7425bdf82265618216acae96b16f0743bfcde0fe"
+    }
+   ]
+  },
+  {
    "slug": "hg-751-2010",
    "path": "hg/2010/751",
    "short": "HG nr. 751/2010",
@@ -140783,6 +142973,21 @@
    ]
   },
   {
+   "slug": "hg-751-2023",
+   "path": "hg/2023/751",
+   "short": "HG nr. 751/2023",
+   "title": "Hotărârea Guvernului nr. 751/2023 privind aprobarea modelului de steag al comunei Onceşti, judeţul Maramureş",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273922",
+   "versions": [
+    {
+     "from": "2023-08-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273922",
+     "sha256": "d0a3db984780850df16b3c4d4f68627229113791ef60759237380b0f2b1022ed"
+    }
+   ]
+  },
+  {
    "slug": "hg-752-2004",
    "path": "hg/2004/752",
    "short": "HG nr. 752/2004",
@@ -140794,6 +142999,21 @@
      "units": 25,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/52467",
      "sha256": "923784898363ab115dcd486cfc54c11313aad72510771c30b48b5c19dcbc9b1d"
+    }
+   ]
+  },
+  {
+   "slug": "hg-752-2023",
+   "path": "hg/2023/752",
+   "short": "HG nr. 752/2023",
+   "title": "Hotărârea Guvernului nr. 752/2023 privind trecerea unor părţi de imobile aflate în administrarea Ministerului Apărării Naţionale, constituite din construcţii şi amenajări la terenuri, situate în judeţele Hunedoara, Harghita, Olt, Braşov, Neamţ, Brăila, Buzău, Vrancea şi Dolj din domeniul public al statului în domeniul privat al acestuia, în vederea scoaterii din funcţiune şi casării, şi modificarea anexei nr. 4 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273866",
+   "versions": [
+    {
+     "from": "2023-08-21",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273866",
+     "sha256": "07e3858afae24670fd596ba732bdd47fba26d6c44bb4e2d89039393178661577"
     }
    ]
   },
@@ -140864,6 +143084,21 @@
    ]
   },
   {
+   "slug": "hg-753-2023",
+   "path": "hg/2023/753",
+   "short": "HG nr. 753/2023",
+   "title": "Hotărârea Guvernului nr. 753/2023 privind trecerea unei părţi din imobilul 342 din domeniul public al statului şi din administrarea Ministerului Apărării Naţionale în domeniul public al oraşului Murfatlar, judeţul Constanţa, şi modificarea anexei nr. 4 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273867",
+   "versions": [
+    {
+     "from": "2023-08-21",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273867",
+     "sha256": "7efd2064edb7574992813bbef8c1df2e5dfd32cfe8477f532db5ac92c9c76c8e"
+    }
+   ]
+  },
+  {
    "slug": "hg-753-2025",
    "path": "hg/2025/753",
    "short": "HG nr. 753/2025",
@@ -140911,6 +143146,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/256591",
      "sha256": "855c316e8b559479608c3d656f729d63d3788832f3b440311023cc66ea5dcf60"
+    }
+   ]
+  },
+  {
+   "slug": "hg-754-2023",
+   "path": "hg/2023/754",
+   "short": "HG nr. 754/2023",
+   "title": "Hotărârea Guvernului nr. 754/2023 privind modificarea descrierii tehnice, codului de clasificaţie, denumirii şi actualizarea valorii de inventar a unui bun imobil aflat în domeniul public al statului şi în administrarea Agenţiei Naţionale de Administrare Fiscală",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273868",
+   "versions": [
+    {
+     "from": "2023-08-21",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273868",
+     "sha256": "68d3fa09a53ae54c247c917eb58e1b97a6e1505a3e91263df375f3d05e4ff549"
     }
    ]
   },
@@ -141770,6 +144020,21 @@
    ]
   },
   {
+   "slug": "hg-767-2023",
+   "path": "hg/2023/767",
+   "short": "HG nr. 767/2023",
+   "title": "Hotărârea Guvernului nr. 767/2023 privind acordarea de stimulente financiare absolvenţilor care au obţinut media 10 la evaluarea naţională pentru absolvenţii clasei a VIII-a, sesiunea 2023, şi la examenul naţional de bacalaureat, sesiunea iunie-iulie 2023",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273986",
+   "versions": [
+    {
+     "from": "2023-08-25",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273986",
+     "sha256": "372a872f02305b917a88d2b788c7060cd5caaa6f9340149b515cea85a5391d57"
+    }
+   ]
+  },
+  {
    "slug": "hg-767-2025",
    "path": "hg/2025/767",
    "short": "HG nr. 767/2025",
@@ -141982,6 +144247,21 @@
      "units": 5,
      "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/230010",
      "sha256": "684eccc99b49729d092064b92d8d25aadfa93176621644e5c9e6b6beac1bf5c5"
+    }
+   ]
+  },
+  {
+   "slug": "hg-770-2023",
+   "path": "hg/2023/770",
+   "short": "HG nr. 770/2023",
+   "title": "Hotărârea Guvernului nr. 770/2023 privind recunoaşterea Asociaţiei Grupul de Acţiune Locală \"Calafat\" ca fiind de utilitate publică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/274028",
+   "versions": [
+    {
+     "from": "2023-08-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/274028",
+     "sha256": "a418f0eaf9d06eaf3a9861133da36805f9f4b8d3178d725845e97697bad5c104"
     }
    ]
   },
@@ -166178,6 +168458,21 @@
    ]
   },
   {
+   "slug": "legea-219-2023",
+   "path": "lege/2023/219",
+   "short": "Legea nr. 219/2023",
+   "title": "Legea nr. 219/2023 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 14/2023 pentru modificarea Legii nr. 372/2005 privind performanţa energetică a clădirilor şi a Ordonanţei de urgenţă a Guvernului nr. 108/2022 privind decarbonizarea sectorului energetic",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/272119",
+   "versions": [
+    {
+     "from": "2023-07-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/272119",
+     "sha256": "c204d8916948da2936f7d6e0ff1b332f213177ae926a5f2e3abed63dee06c2b1"
+    }
+   ]
+  },
+  {
    "slug": "legea-22-2016",
    "path": "lege/2016/22",
    "short": "Legea nr. 22/2016",
@@ -166234,6 +168529,21 @@
      "units": 21,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/257627",
      "sha256": "b269c3534f9f1c42d5ae097aa8f9f9fbaa40c30714ab46bd22d99c7f48a6ccc6"
+    }
+   ]
+  },
+  {
+   "slug": "legea-220-2023",
+   "path": "lege/2023/220",
+   "short": "Legea nr. 220/2023",
+   "title": "Legea nr. 220/2023 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 19/2023 pentru modificarea şi completarea unor acte normative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/272121",
+   "versions": [
+    {
+     "from": "2023-07-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/272121",
+     "sha256": "3324393ae59900f5f60d6a45eb9b383be7b479810e2e14ad205bec9e5a660b63"
     }
    ]
   },
@@ -167612,6 +169922,21 @@
    ]
   },
   {
+   "slug": "legea-238-2023",
+   "path": "lege/2023/238",
+   "short": "Legea nr. 238/2023",
+   "title": "Legea nr. 238/2023 privind înfiinţarea Muzeului Naţional de Istorie şi Cultură a Romilor din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/272317",
+   "versions": [
+    {
+     "from": "2023-07-23",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/272317",
+     "sha256": "236210051015dd6c1806b3dacc08728641bf0a8c2282e1fb7d05e764b04fb3f2"
+    }
+   ]
+  },
+  {
    "slug": "legea-238-2024",
    "path": "lege/2024/238",
    "short": "Legea nr. 238/2024",
@@ -168806,6 +171131,21 @@
    ]
   },
   {
+   "slug": "legea-250-2023",
+   "path": "lege/2023/250",
+   "short": "Legea nr. 250/2023",
+   "title": "Legea nr. 250/2023 privind completarea art. 125 din Legea energiei electrice şi a gazelor naturale nr. 123/2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/272376",
+   "versions": [
+    {
+     "from": "2023-07-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/272376",
+     "sha256": "6e13d8ef5fc8170b628c436e701b8e02ed4f7466e9e36dd078009c095e7d2f05"
+    }
+   ]
+  },
+  {
    "slug": "legea-251-2004",
    "path": "lege/2004/251",
    "short": "Legea nr. 251/2004",
@@ -168823,6 +171163,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/52934",
      "sha256": "8529f9fe7080d3a847c76df289a43bd304d4d344dc8e80c781ac7e3a0a2dc0e1"
+    }
+   ]
+  },
+  {
+   "slug": "legea-251-2023",
+   "path": "lege/2023/251",
+   "short": "Legea nr. 251/2023",
+   "title": "Legea nr. 251/2023 privind aprobarea Ordonanţei Guvernului nr. 18/2023 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 47/2022 privind ajustarea preţurilor contractelor de achiziţie publică/contractelor sectoriale/contractelor de concesiune/acordurilor-cadru",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/272378",
+   "versions": [
+    {
+     "from": "2023-07-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/272378",
+     "sha256": "6314035aca23be7fe45b0c8ab58ca15fcec9d7b756bcb9fac1de584aeff3238d"
     }
    ]
   },
@@ -183469,6 +185824,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/195965",
      "sha256": "a314a1c9cfd4c241376148c5cdc6adb7dca2a369fcca97da78bfd7372d54b257"
+    }
+   ]
+  },
+  {
+   "slug": "og-28-2023",
+   "path": "og/2023/28",
+   "short": "OG nr. 28/2023",
+   "title": "Ordonanța Guvernului nr. 28/2023 pentru stabilirea unor măsuri necesare optimizării procesului de implementare a proiectelor finanţate din fonduri externe nerambursabile",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273661",
+   "versions": [
+    {
+     "from": "2023-08-13",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273661",
+     "sha256": "65999f957a581a92687a7e1dc9c238bc0fc63fc5e029a472accc5b54f2fe8e71"
     }
    ]
   },
@@ -209653,501 +212023,6 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/282761",
      "sha256": "fd3428a521d22894b8a963cf07141e84536f5052eac9e7c68904d5024c4cb0b7"
-    }
-   ]
-  },
-  {
-   "slug": "oug-195-2002",
-   "path": "oug/2002/195",
-   "short": "OUG nr. 195/2002",
-   "title": "Ordonanța de urgență a Guvernului nr. 195/2002 privind circulația pe drumurile publice",
-   "url": "https://legislatie.just.ro/Public/DetaliiDocument/74028",
-   "versions": [
-    {
-     "from": "2004-07-12",
-     "units": 118,
-     "source_url": "https://web.archive.org/web/20260202082405id_/https://legislatie.just.ro/Public/DetaliiDocument/53523",
-     "sha256": "e18050d147222352b6aaa6b9294630de9b427a240bdfee297b3ffd28e6b82636"
-    },
-    {
-     "from": "2006-09-20",
-     "units": 148,
-     "source_url": "https://web.archive.org/web/20260615075302id_/https://legislatie.just.ro/Public/DetaliiDocument/70080",
-     "sha256": "fc693a5f8cff7bdcb9e69b57e0ef499729159e7579ad1c8913fdfb2b0fdeeff7"
-    },
-    {
-     "from": "2006-09-20",
-     "units": 137,
-     "source_url": "https://web.archive.org/web/20260524193559id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/74028",
-     "sha256": "0037bce8a3b834cfceda8ab8dd177d8fc4c803ef51a8a58f107ecd09ee4b712b"
-    },
-    {
-     "from": "2006-12-01",
-     "units": 138,
-     "source_url": "https://web.archive.org/web/20260202072805id_/https://legislatie.just.ro/Public/DetaliiDocument/75723",
-     "sha256": "b4cb13409e7a56f8d2ae7cd39de53dc74947479ba60a79aff9a940949143c2a2"
-    },
-    {
-     "from": "2007-01-20",
-     "units": 138,
-     "source_url": "https://web.archive.org/web/20260208193420id_/https://legislatie.just.ro/Public/DetaliiDocument/78741",
-     "sha256": "15a17b56329d6d833afacaeabecf0d16c1c53e0453a54f1d3ae716eae848cb95"
-    },
-    {
-     "from": "2007-05-09",
-     "units": 138,
-     "source_url": "https://web.archive.org/web/20260216090235id_/https://legislatie.just.ro/Public/DetaliiDocument/81870",
-     "sha256": "44851573d0a63f16dff3a4139c63b0c923a67726f73066a1e6e51ff56c673922"
-    },
-    {
-     "from": "2007-06-29",
-     "units": 139,
-     "source_url": "https://web.archive.org/web/20260202060131id_/https://legislatie.just.ro/Public/DetaliiDocument/83300",
-     "sha256": "31110899824c85f9731d0b84bcde04e934c46d57a25e13d7ff8367fdec9b2d42"
-    },
-    {
-     "from": "2007-08-17",
-     "units": 139,
-     "source_url": "https://web.archive.org/web/20260202073423id_/https://legislatie.just.ro/Public/DetaliiDocument/96379",
-     "sha256": "beaeb89226f74bc5f42a5b376a58709574fac98441a45ad78ca48b2f85530202"
-    },
-    {
-     "from": "2008-11-07",
-     "units": 139,
-     "source_url": "https://web.archive.org/web/20260202110522id_/https://legislatie.just.ro/Public/DetaliiDocument/99116",
-     "sha256": "5803e291d4a37335b87f42bbe7789b2fdf1f8107826c12037308653289bb2573"
-    },
-    {
-     "from": "2009-03-02",
-     "units": 139,
-     "source_url": "https://web.archive.org/web/20260707040630id_/https://legislatie.just.ro/Public/DetaliiDocument/103000",
-     "sha256": "b36a32f4742c8e706c944adbd6289d61adc890a69868c3a8f0f7199c2d8d7ffb"
-    },
-    {
-     "from": "2010-06-23",
-     "units": 139,
-     "source_url": "https://web.archive.org/web/20260207162857id_/https://legislatie.just.ro/Public/DetaliiDocument/119975",
-     "sha256": "46e27287bab148f1e88afcb0ae1607befbcf9c33066b97eae57890f682c7fed1"
-    },
-    {
-     "from": "2010-11-25",
-     "units": 139,
-     "source_url": "https://web.archive.org/web/20260107060737id_/https://legislatie.just.ro/Public/DetaliiDocument/123236",
-     "sha256": "a86589903fc7c7f85c4ec2db3b44ed2d23c5ab7ea30a021038e16cff4a0d27c6"
-    },
-    {
-     "from": "2011-10-01",
-     "units": 139,
-     "source_url": "https://web.archive.org/web/20260202055708id_/https://legislatie.just.ro/Public/DetaliiDocument/125798",
-     "sha256": "557075888972ce0f47e016d065771d394b6f6d4d9942b35dd4687b716fb3b897"
-    },
-    {
-     "from": "2012-09-02",
-     "units": 139,
-     "source_url": "https://web.archive.org/web/20260202054713id_/https://legislatie.just.ro/Public/DetaliiDocument/142867",
-     "sha256": "e4cf5ce1aca55425004b726dc2d29abc2ab61ee692dd686f25d6949a49425d4e"
-    },
-    {
-     "from": "2012-11-15",
-     "units": 140,
-     "source_url": "https://web.archive.org/web/20260202064715id_/https://legislatie.just.ro/Public/DetaliiDocument/142868",
-     "sha256": "71150c8382431db7989d3d316e4ffc8227cee780f7668fa355ad67135def41b4"
-    },
-    {
-     "from": "2013-01-19",
-     "units": 142,
-     "source_url": "https://web.archive.org/web/20260309224652id_/https://legislatie.just.ro/Public/DetaliiDocument/142869",
-     "sha256": "b47fcaf53457c32ec771a81d250181f71a40f652edf222ca2d44562478210b36"
-    },
-    {
-     "from": "2014-02-01",
-     "units": 142,
-     "source_url": "https://web.archive.org/web/20260219035519id_/https://legislatie.just.ro/Public/DetaliiDocument/142870",
-     "sha256": "fb0e1628511286fa29406cd9cc2011aa4d4c85b50ba578749dffb120fb0fc18b"
-    },
-    {
-     "from": "2014-09-01",
-     "units": 142,
-     "source_url": "https://web.archive.org/web/20260202060345id_/https://legislatie.just.ro/Public/DetaliiDocument/161000",
-     "sha256": "a4e919c15cf6d617aa390ee918e9fe837d3c26ca5543ebda8091f41fd7727a02"
-    },
-    {
-     "from": "2014-09-28",
-     "units": 142,
-     "source_url": "https://web.archive.org/web/20260202055011id_/https://legislatie.just.ro/Public/DetaliiDocument/161001",
-     "sha256": "cfe86abba6ffad978bf63f2769d214c6f3c10a3a875013e830824040d205177d"
-    },
-    {
-     "from": "2016-05-16",
-     "units": 142,
-     "source_url": "https://web.archive.org/web/20251114111815id_/https://legislatie.just.ro/Public/DetaliiDocument/178465",
-     "sha256": "3191574e9eb18146ee96f12f66ac6f4b9689c720452891e5b554c9b24067f965"
-    },
-    {
-     "from": "2016-06-30",
-     "units": 143,
-     "source_url": "https://web.archive.org/web/20260512115341id_/https://legislatie.just.ro/Public/DetaliiDocument/179673",
-     "sha256": "44ad8bce75b637a4386d474fe383a4b736da0d183bd568a6a1cf09eb616134ad"
-    },
-    {
-     "from": "2017-09-02",
-     "units": 144,
-     "source_url": "https://web.archive.org/web/20260202054642id_/https://legislatie.just.ro/Public/DetaliiDocument/192269",
-     "sha256": "4b67e33cb94d755ca97a7e5f720cbb95a268ab603855e38e0e5c42fffc027f58"
-    },
-    {
-     "from": "2017-09-22",
-     "units": 144,
-     "source_url": "https://web.archive.org/web/20260202083306id_/https://legislatie.just.ro/Public/DetaliiDocument/192270",
-     "sha256": "098f277296427b2266b2edd12ed31fa6313d35e8fb808a7bd262283ddcb969a5"
-    },
-    {
-     "from": "2017-12-07",
-     "units": 144,
-     "source_url": "https://web.archive.org/web/20260202052813id_/https://legislatie.just.ro/Public/DetaliiDocument/195276",
-     "sha256": "4444a84e790c07497fe60295953e3ca7cb2d646476434cfa448c57d9e0ecdd80"
-    },
-    {
-     "from": "2018-08-24",
-     "units": 144,
-     "source_url": "https://web.archive.org/web/20260215081408id_/https://legislatie.just.ro/Public/DetaliiDocument/202881",
-     "sha256": "c05f4c273fe3bb84af8cf7fd4e5062c00b762955b06e4652c0cc65ff1e928fe1"
-    },
-    {
-     "from": "2018-11-14",
-     "units": 144,
-     "source_url": "https://web.archive.org/web/20260308184529id_/https://legislatie.just.ro/Public/DetaliiDocument/206742",
-     "sha256": "091ac80396aa37e49cccd87df464f1fc2248949c8db0dc5d17694475cbfa8c5b"
-    },
-    {
-     "from": "2019-01-06",
-     "units": 144,
-     "source_url": "https://web.archive.org/web/20260207044811id_/https://legislatie.just.ro/Public/DetaliiDocument/209203",
-     "sha256": "9013d28afffaa5827839fdcfe2ec9d310fe34a03a0551938e6f7620328808820"
-    },
-    {
-     "from": "2019-07-18",
-     "units": 145,
-     "source_url": "https://web.archive.org/web/20260202070618id_/https://legislatie.just.ro/Public/DetaliiDocument/215794",
-     "sha256": "a23c1b594b4c51da683ba10ef25223befea0868979e885f4248bc1da9c00f78d"
-    },
-    {
-     "from": "2019-07-29",
-     "units": 145,
-     "source_url": "https://web.archive.org/web/20260202073032id_/https://legislatie.just.ro/Public/DetaliiDocument/216313",
-     "sha256": "299d458ec1bc132e340220c859d26d9c74e2e6eede107405f0c987c2de961caf"
-    },
-    {
-     "from": "2019-08-16",
-     "units": 147,
-     "source_url": "https://web.archive.org/web/20260126110453id_/https://legislatie.just.ro/Public/DetaliiDocument/216961",
-     "sha256": "774423b8515a3e925cbc6bed44b4ada7e490a28fb711a9729d52f7c3529f1b98"
-    },
-    {
-     "from": "2019-10-12",
-     "units": 147,
-     "source_url": "https://web.archive.org/web/20260202060212id_/https://legislatie.just.ro/Public/DetaliiDocument/216962",
-     "sha256": "521b46e6800e52605b386e107738f46547a7bab3da9d743671094f01a7faaea4"
-    },
-    {
-     "from": "2019-12-26",
-     "units": 147,
-     "source_url": "https://web.archive.org/web/20260202050910id_/https://legislatie.just.ro/Public/DetaliiDocument/220262",
-     "sha256": "53f2a0979d0ddf662637db9778289a13705ee4ddd139815996c6995e080bdfd8"
-    },
-    {
-     "from": "2019-12-27",
-     "units": 147,
-     "source_url": "https://web.archive.org/web/20260618072340id_/https://legislatie.just.ro/Public/DetaliiDocument/220279",
-     "sha256": "e253232542150f49fcaa136a3fb4bc428f0523c6da3337e140ce45dbd193e068"
-    },
-    {
-     "from": "2020-01-09",
-     "units": 147,
-     "source_url": "https://web.archive.org/web/20260202045828id_/https://legislatie.just.ro/Public/DetaliiDocument/221487",
-     "sha256": "db417d57f041c30a7dd175012647ed6f592ca27832ecc39b003f780218317005"
-    },
-    {
-     "from": "2020-02-11",
-     "units": 147,
-     "source_url": "https://web.archive.org/web/20260202053156id_/https://legislatie.just.ro/Public/DetaliiDocument/222294",
-     "sha256": "c557e3bcc517bb4b5b3e03541f0a02233168fc0865cc2f90be6066b2bd2437a3"
-    },
-    {
-     "from": "2020-03-12",
-     "units": 147,
-     "source_url": "https://web.archive.org/web/20260219095650id_/https://legislatie.just.ro/Public/DetaliiDocument/222295",
-     "sha256": "d008aeea48e8cc915b389907af9546c09b461491bad9bc05dc8684eb26a85020"
-    },
-    {
-     "from": "2020-04-09",
-     "units": 147,
-     "source_url": "https://web.archive.org/web/20260309021658id_/https://legislatie.just.ro/Public/DetaliiDocument/224080",
-     "sha256": "1df7b38e2cb06c4eef7814689281f20585a8921cf844981f70d839407993d336"
-    },
-    {
-     "from": "2020-05-27",
-     "units": 147,
-     "source_url": "https://web.archive.org/web/20260202051247id_/https://legislatie.just.ro/Public/DetaliiDocument/225776",
-     "sha256": "9f5d2edbcc7bdf779a7723ca3c4b60acf0b63483fd1c561d0ca68a467b3ebe93"
-    },
-    {
-     "from": "2020-09-01",
-     "units": 147,
-     "source_url": "https://web.archive.org/web/20251018025824id_/https://legislatie.just.ro/Public/DetaliiDocument/229356",
-     "sha256": "073ddd9f120af75e8f96d2938d12f8ae8ae0821740d4ceda41e6241ce9cda32a"
-    },
-    {
-     "from": "2020-11-28",
-     "units": 147,
-     "source_url": "https://web.archive.org/web/20260202065601id_/https://legislatie.just.ro/Public/DetaliiDocument/232345",
-     "sha256": "e61a86286a8e11079a8178f18cb472825bb6f1e7c3bf9641157b2c56816f84a5"
-    },
-    {
-     "from": "2020-12-31",
-     "units": 147,
-     "source_url": "https://web.archive.org/web/20260202060735id_/https://legislatie.just.ro/Public/DetaliiDocument/234888",
-     "sha256": "bb1af29f114d3dcdf85108369cdbd21de787bc863950415203bc1ba8452deffc"
-    },
-    {
-     "from": "2021-04-16",
-     "units": 147,
-     "source_url": "https://web.archive.org/web/20260207110355id_/https://legislatie.just.ro/Public/DetaliiDocument/240577",
-     "sha256": "8a365685b7f65a545f9a87994ee0f2a8b1aef0abf40860d1c166a4b20e80c677"
-    },
-    {
-     "from": "2021-12-10",
-     "units": 147,
-     "source_url": "https://web.archive.org/web/20260202054156id_/https://legislatie.just.ro/Public/DetaliiDocument/248000",
-     "sha256": "de6cc52d0d7224f7057e0fcb24d9d437a1db9afa28c63c06460b58e16c1f6071"
-    },
-    {
-     "from": "2021-12-18",
-     "units": 147,
-     "source_url": "https://web.archive.org/web/20260202070818id_/https://legislatie.just.ro/Public/DetaliiDocument/248246",
-     "sha256": "2c2ee6a4c44958bba3ac67f82256922c3968eef66a4c32a6bcc33d3d12a1da78"
-    },
-    {
-     "from": "2022-01-22",
-     "units": 147,
-     "source_url": "https://web.archive.org/web/20260310015125id_/https://legislatie.just.ro/Public/DetaliiDocument/249694",
-     "sha256": "f31658496d74c55e80fd199ca93bed22ccfb0b63da0390362d62a8eb2f5d31e2"
-    },
-    {
-     "from": "2022-01-31",
-     "units": 151,
-     "source_url": "https://web.archive.org/web/20260202075130id_/https://legislatie.just.ro/Public/DetaliiDocument/250729",
-     "sha256": "f4b23672ff7a321f88b70ce1027a80c59d5bb9add0c73ef947a75e2cb805772e"
-    },
-    {
-     "from": "2022-02-27",
-     "units": 151,
-     "source_url": "https://web.archive.org/web/20260219002416id_/https://legislatie.just.ro/Public/DetaliiDocument/250730",
-     "sha256": "996d3a39f9d63f10a1dde6f08384a9a0d85e5b8531080fc35308fdba3e9e88ef"
-    },
-    {
-     "from": "2022-04-16",
-     "units": 151,
-     "source_url": "https://web.archive.org/web/20260210050243id_/https://legislatie.just.ro/Public/DetaliiDocument/253078",
-     "sha256": "dd03a127360771c0be358b6a367c57be0c25e414a2dbc7384d9262fa91a6e666"
-    },
-    {
-     "from": "2022-05-16",
-     "units": 151,
-     "source_url": "https://web.archive.org/web/20251224161351id_/https://legislatie.just.ro/Public/DetaliiDocument/255109",
-     "sha256": "2d47c3a8355b854a578608561c667f9cce20c36a36c024ef02b30be900fcfa5b"
-    },
-    {
-     "from": "2022-11-20",
-     "units": 151,
-     "source_url": "https://web.archive.org/web/20260202071917id_/https://legislatie.just.ro/Public/DetaliiDocument/261104",
-     "sha256": "f89271e9133083af5f32334c69e95ec01c62908f7fd4dd8ca9709b193e0b6d1d"
-    },
-    {
-     "from": "2022-12-11",
-     "units": 151,
-     "source_url": "https://web.archive.org/web/20260202045724id_/https://legislatie.just.ro/Public/DetaliiDocument/261992",
-     "sha256": "d385c60cff9e8fc120f8edcf00949c09dc7ed854e7b875bce8448f4b53f260bc"
-    },
-    {
-     "from": "2023-01-01",
-     "units": 151,
-     "source_url": "https://web.archive.org/web/20260205041714id_/https://legislatie.just.ro/Public/DetaliiDocument/262015",
-     "sha256": "a51296e5e42ec0f2bb435618060a362195328e8eeefc03c0c7e71e35ff17990d"
-    },
-    {
-     "from": "2023-01-02",
-     "units": 153,
-     "source_url": "https://web.archive.org/web/20260202055646id_/https://legislatie.just.ro/Public/DetaliiDocument/262800",
-     "sha256": "1e214df02dee40ab176faace611bbb898e493033090e8757a53313dc108f8459"
-    },
-    {
-     "from": "2023-02-02",
-     "units": 154,
-     "source_url": "https://web.archive.org/web/20260217062249id_/https://legislatie.just.ro/Public/DetaliiDocument/263391",
-     "sha256": "c5d06c9b58a2f177deced7d7dab2965fe391cad8b54f4669a4b00cddc351f7fe"
-    },
-    {
-     "from": "2023-03-02",
-     "units": 154,
-     "source_url": "https://web.archive.org/web/20251018225711id_/https://legislatie.just.ro/Public/DetaliiDocument/264139",
-     "sha256": "72fead9ed61707f78b4ae99083cd3f63fcf058e37446012cb6e4175620bf452f"
-    },
-    {
-     "from": "2023-04-10",
-     "units": 154,
-     "source_url": "https://web.archive.org/web/20260202045951id_/https://legislatie.just.ro/Public/DetaliiDocument/265962",
-     "sha256": "7ebe6fd8337d2e51f2264514c9f5929d5eab4ba60f46e8439b4d54a572b00bb7"
-    },
-    {
-     "from": "2023-05-25",
-     "units": 160,
-     "source_url": "https://web.archive.org/web/20260306012437id_/https://legislatie.just.ro/Public/DetaliiDocument/267731",
-     "sha256": "3752c02fa0b4b2fed3f1adaa578f0042f13bd1eaff87c3df0938bafa8fbd80e7"
-    },
-    {
-     "from": "2023-06-16",
-     "units": 160,
-     "source_url": "https://web.archive.org/web/20260202062924id_/https://legislatie.just.ro/Public/DetaliiDocument/267926",
-     "sha256": "c84a0247b49d570345edbaf11f48bf63e74a04c519e5abc843157bf750c6172b"
-    },
-    {
-     "from": "2023-07-27",
-     "units": 160,
-     "source_url": "https://web.archive.org/web/20260202193208id_/https://legislatie.just.ro/Public/DetaliiDocument/268312",
-     "sha256": "1015fc284f34f422f05d5daf7f5ff314dff4a733d23b69dcc19539e9da6a2e04"
-    },
-    {
-     "from": "2023-08-13",
-     "units": 160,
-     "source_url": "https://web.archive.org/web/20260205191433id_/https://legislatie.just.ro/Public/DetaliiDocument/268449",
-     "sha256": "276f394ac6fc63cbd6bdcdf9c7ea53911bf6c94d468d79bc258d5e18f2583cf2"
-    },
-    {
-     "from": "2023-10-04",
-     "units": 160,
-     "source_url": "https://web.archive.org/web/20260208080104id_/https://legislatie.just.ro/Public/DetaliiDocument/269168",
-     "sha256": "9584f49b2a2141a9db0b5639e04931459999c831d64c139c6031e343bee35887"
-    },
-    {
-     "from": "2023-12-15",
-     "units": 160,
-     "source_url": "https://web.archive.org/web/20260202063102id_/https://legislatie.just.ro/Public/DetaliiDocument/269530",
-     "sha256": "d27584b61441179662858ae9f9d717140b85a03f59b1ee3c3ca958e0562d8280"
-    },
-    {
-     "from": "2024-01-18",
-     "units": 160,
-     "source_url": "https://web.archive.org/web/20260310010318id_/https://legislatie.just.ro/Public/DetaliiDocument/269898",
-     "sha256": "fc8bcf736676bad4898e67e9ff6c8a08dd18509a0183942e35fdd7ea39f07c6f"
-    },
-    {
-     "from": "2024-03-17",
-     "units": 160,
-     "source_url": "https://web.archive.org/web/20260106052318id_/https://legislatie.just.ro/Public/DetaliiDocument/279823",
-     "sha256": "b6277d354de35c26cfa7ef91f2f0a40a01bc19e50b2c6a35f66862a5763834d2"
-    },
-    {
-     "from": "2024-03-22",
-     "units": 160,
-     "source_url": "https://web.archive.org/web/20260310165116id_/https://legislatie.just.ro/Public/DetaliiDocument/279869",
-     "sha256": "3e4ec0de379e569a91bc28bae2498012645f87d26cfc32efc89199cc8ff34f64"
-    },
-    {
-     "from": "2024-04-13",
-     "units": 160,
-     "source_url": "https://web.archive.org/web/20260517023714id_/https://legislatie.just.ro/Public/DetaliiDocument/280834",
-     "sha256": "8e5d6d7fb2165b4b5c86e60cc44f63a4660104d02d7f8a781d9f828426e6f21c"
-    },
-    {
-     "from": "2024-05-11",
-     "units": 160,
-     "source_url": "https://web.archive.org/web/20260305023112id_/https://legislatie.just.ro/Public/DetaliiDocument/282160",
-     "sha256": "31d52f2e9a1fe727eb4dc10431b3b89ce66f5acf33f002d195357830272b109d"
-    },
-    {
-     "from": "2024-06-03",
-     "units": 160,
-     "source_url": "https://web.archive.org/web/20260312183852id_/https://legislatie.just.ro/Public/DetaliiDocument/282884",
-     "sha256": "ba815b07db2c59b8a13e70235d41b4c1a8f8e038d4f216da491591d4e35ac80e"
-    },
-    {
-     "from": "2024-06-28",
-     "units": 160,
-     "source_url": "https://web.archive.org/web/20260218141618id_/https://legislatie.just.ro/Public/DetaliiDocument/284404",
-     "sha256": "fa9ca3f07a99815c8ac50fce74a5b27b918efd4071bda6dd18660113e536014b"
-    },
-    {
-     "from": "2024-06-29",
-     "units": 161,
-     "source_url": "https://web.archive.org/web/20260202054707id_/https://legislatie.just.ro/Public/DetaliiDocument/284408",
-     "sha256": "21a19de5a85abde777de4c9648571208f181f05e4a06077b84ed605679351c41"
-    },
-    {
-     "from": "2024-07-09",
-     "units": 161,
-     "source_url": "https://web.archive.org/web/20260215225859id_/https://legislatie.just.ro/Public/DetaliiDocument/284899",
-     "sha256": "3cb32b0d3df3cb92429a339a88895bf8c54c96c35d3042c4d9a99cdb5b105ced"
-    },
-    {
-     "from": "2024-07-15",
-     "units": 161,
-     "source_url": "https://web.archive.org/web/20260312010954id_/https://legislatie.just.ro/Public/DetaliiDocument/284957",
-     "sha256": "e3f44d218a8b12617c1573d1ae57a03c91dd91371d014b3dcb5f5b4bff4127ef"
-    },
-    {
-     "from": "2024-10-04",
-     "units": 161,
-     "source_url": "https://web.archive.org/web/20260219134804id_/https://legislatie.just.ro/Public/DetaliiDocument/288596",
-     "sha256": "344da072536fedb4dfd5da108147d3d85e65ee33c6e724b56777319d2f1a4fcd"
-    },
-    {
-     "from": "2024-10-08",
-     "units": 161,
-     "source_url": "https://web.archive.org/web/20260219134804id_/https://legislatie.just.ro/Public/DetaliiDocument/288596",
-     "sha256": "344da072536fedb4dfd5da108147d3d85e65ee33c6e724b56777319d2f1a4fcd"
-    },
-    {
-     "from": "2024-10-27",
-     "units": 163,
-     "source_url": "https://web.archive.org/web/20260309220330id_/https://legislatie.just.ro/Public/DetaliiDocument/289536",
-     "sha256": "740891f4a94279067ff65288cf45b9c0767efd59856505b692e513c2912f6f39"
-    },
-    {
-     "from": "2025-02-01",
-     "units": 164,
-     "source_url": "https://web.archive.org/web/20260306065607id_/https://legislatie.just.ro/Public/DetaliiDocument/293340",
-     "sha256": "6d4f5d3ba003e8268fb8251fa4f3e5b019bc004f5b0536111dc1b9b3dc7399dc"
-    },
-    {
-     "from": "2025-02-28",
-     "units": 165,
-     "source_url": "https://web.archive.org/web/20260219112837id_/https://legislatie.just.ro/Public/DetaliiDocument/294444",
-     "sha256": "de9d13823eed4e26acadb25143fd262e014b81bc711705709a5372b982c7446d"
-    },
-    {
-     "from": "2025-05-26",
-     "units": 165,
-     "source_url": "https://web.archive.org/web/20260226182131id_/https://legislatie.just.ro/Public/DetaliiDocument/297285",
-     "sha256": "374ac6ba9252a2eb39bc57b11fa26c61197f4f6ddbe3136c4dce7e146e107031"
-    },
-    {
-     "from": "2025-12-27",
-     "units": 165,
-     "source_url": "https://web.archive.org/web/20260222093848id_/https://legislatie.just.ro/Public/DetaliiDocument/74028",
-     "sha256": "2263529e0548d72f5f41dcae8c1458e26df58d587a888ee586a66904041e4e9a"
-    },
-    {
-     "from": "2026-02-25",
-     "units": 165,
-     "source_url": "https://web.archive.org/web/20260307031535id_/https://legislatie.just.ro/Public/DetaliiDocument/74028",
-     "sha256": "528493d2be7cca01f3b717805802e56668e60043ed7ae84ed745d5ce99c90f52"
-    },
-    {
-     "from": "2026-03-27",
-     "units": 165,
-     "source_url": "https://web.archive.org/web/20260623085217id_/https://legislatie.just.ro/Public/DetaliiDocument/74028",
-     "sha256": "64ba57a40d0676ee59d379946598ac856197933ae41c6f03782e8ba97335269c"
     }
    ]
   }
