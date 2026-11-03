@@ -1,6 +1,6 @@
 # Every act in this repository
 
-14235 acts, 27,824 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+14255 acts, 27,844 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (2570, of which 1243 amending acts)
+## Laws (legi) (2573, of which 1245 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -714,10 +714,13 @@
 | Legea nr. 75/2007 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 93/2006 pentru modificarea Ordonanţei de urgenţă a Guvernului nr. 8/2003 privind stimularea procesului de restructurare, reorganizare şi privatizare a unor societăţi naţionale, companii naţionale şi societăţi comerciale cu capital majoritar de stat, precum şi a societăţilor comerciale şi regiilor autonome subordonate autorităţilor administraţiei publice locale | [`lege/2007/75/`](lege/2007/75/) | amending act | 1 | 2007-04-01 | 2007-04-01 |
 | Legea nr. 87/2007 | [`lege/2007/87/`](lege/2007/87/) | in force | 1 | 2007-04-20 | 2007-04-20 |
 | Legea nr. 92/2007 | [`lege/2007/92/`](lege/2007/92/) | in force | 14 | 2007-04-22 | 2022-02-03 |
+| Legea nr. 98/2007 privind aderarea României la Acordul pentru aplicarea prevederilor Convenţiei Naţiunilor Unite asupra dreptului mării din 10 decembrie 1982 în legătură cu conservarea ţi gestionarea stocurilor de peşti anadromi şi a stocurilor de peşti mari migratori, adoptat la New York la 4 august 1995 | [`lege/2007/98/`](lege/2007/98/) | in force | 1 | 2007-05-19 | 2007-05-19 |
 | Legea nr. 99/2007 | [`lege/2007/99/`](lege/2007/99/) | in force | 1 | 2007-04-28 | 2007-04-28 |
 | Legea nr. 109/2007 | [`lege/2007/109/`](lege/2007/109/) | in force | 3 | 2007-07-04 | 2015-12-06 |
 | Legea nr. 118/2007 | [`lege/2007/118/`](lege/2007/118/) | in force | 1 | 2007-08-08 | 2007-08-08 |
 | Legea nr. 125/2007 | [`lege/2007/125/`](lege/2007/125/) | in force | 1 | 2007-05-12 | 2007-05-12 |
+| Legea nr. 131/2007 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 132/2006 pentru prorogarea şi modificarea unor termene prevăzute în Legea recunoştinţei faţă de eroii-martiri şi luptătorii care au contribuit la victoria Revoluţiei române din decembrie 1989 nr. 341/2004 | [`lege/2007/131/`](lege/2007/131/) | amending act | 1 | 2007-05-14 | 2007-05-14 |
+| Legea nr. 132/2007 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 96/2006 pentru modificarea şi completarea Legii nr. 248/2005 privind regimul liberei circulaţii a cetăţenilor români în străinătate | [`lege/2007/132/`](lege/2007/132/) | amending act | 1 | 2007-05-18 | 2007-05-18 |
 | Legea nr. 133/2007 pentru aprobarea Ordonanței de urgență a Guvernului nr. 70/2006 privind modificarea și completarea unor acte normative din domeniul comunicațiilor electronice și al serviciilor poștale | [`lege/2007/133/`](lege/2007/133/) | amending act | 1 | 2007-05-27 | 2007-05-27 |
 | Legea nr. 135/2007 | [`lege/2007/135/`](lege/2007/135/) | in force | 5 | 2007-05-25 | 2024-10-08 |
 | Legea nr. 144/2007 privind înființarea, organizarea și funcționarea Agenției Naționale de Integritate | [`lege/2007/144/`](lege/2007/144/) | in force | 12 | 2007-05-28 | 2023-01-06 |
@@ -4779,7 +4782,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (9465, of which 4337 amending acts)
+## Government decisions (HG) (9482, of which 4342 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -5649,9 +5652,26 @@
 | Hotărârea Guvernului nr. 392/2007 privind eliberarea domnului Bîgiu Cristinel Marian, la cerere, din funcţia publică de prefect al judeţului Buzău | [`hg/2007/392/`](hg/2007/392/) | in force | 1 | 2007-05-04 | 2007-05-04 |
 | Hotărârea Guvernului nr. 393/2007 privind eliberarea domnului Pătuleanu Marin, la cerere, din funcţia publică de subprefect al judeţului Giurgiu | [`hg/2007/393/`](hg/2007/393/) | in force | 1 | 2007-05-04 | 2007-05-04 |
 | Hotărârea Guvernului nr. 394/2007 privind trecerea din domeniul public al statului în domeniul privat al statului a unor mijloace fixe concesionate Companiei Naţionale de Transport al Energiei Electrice "Transelectrica" - S.A., Sucursala de Transport Craiova | [`hg/2007/394/`](hg/2007/394/) | in force | 1 | 2007-05-08 | 2007-05-08 |
+| Hotărârea Guvernului nr. 395/2007 privind trecerea din domeniul public al statului în domeniul privat al statului a unor mijloace fixe concesionate Companiei Naţionale de Transport al Energiei Electrice "Transelectrica" - S.A., Sucursala de Transport Piteşti | [`hg/2007/395/`](hg/2007/395/) | in force | 1 | 2007-05-10 | 2007-05-10 |
+| Hotărârea Guvernului nr. 397/2007 privind modificarea valorilor de inventar ale unor imobile aflate în domeniul public al statului şi în administrarea Ministerului Agriculturii şi Dezvoltării Rurale - Direcţia pentru Agricultură şi Dezvoltare Rurală Suceava | [`hg/2007/397/`](hg/2007/397/) | amending act | 1 | 2007-05-10 | 2007-05-10 |
+| Hotărârea Guvernului nr. 399/2007 privind înscrierea în domeniul public al statului şi darea în administrarea Ministerului Agriculturii şi Dezvoltării Rurale - Inspectoratul Teritorial pentru Calitatea Seminţelor şi Materialului Săditor Cluj a terenului - curţi-construcţii - aferent clădirii sediu, precum şi pentru modificarea valorii de inventar a acesteia | [`hg/2007/399/`](hg/2007/399/) | amending act | 1 | 2007-05-15 | 2007-05-15 |
+| Hotărârea Guvernului nr. 400/2007 privind trecerea unor imobile sau a unor părţi din acestea, aflate în domeniul public al statului, din administrarea Ministerului Agriculturii şi Dezvoltării Rurale, pentru unele unităţi din subordine, în administrarea Agenţiei de Plăţi şi Intervenţie pentru Agricultură şi a Agenţiei de Plăţi pentru Dezvoltare Rurală şi Pescuit | [`hg/2007/400/`](hg/2007/400/) | in force | 1 | 2007-05-10 | 2007-05-10 |
+| Hotărârea Guvernului nr. 401/2007 privind aprobarea cheltuielilor ocazionate de organizarea la Bucureşti, în perioada 5-6 iulie 2007, a Reuniunii anuale a consilierilor economici din reţeaua de reprezentare externă a Ministerului pentru Întreprinderi Mici şi Mijlocii, Comerţ, Turism şi Profesii Liberale | [`hg/2007/401/`](hg/2007/401/) | amending act | 1 | 2007-05-09 | 2007-05-09 |
+| Hotărârea Guvernului nr. 402/2007 privind modificarea valorii de inventar a unor bunuri imobile înscrise în domeniul public al statului şi aflate în administrarea Administraţiei Naţionale a Rezervelor de Stat - unităţile teritoriale subordonate şi transmiterea unui imobil aflat în domeniul public al statului din administrarea Administraţiei Naţionale a Rezervelor de Stat în administrarea Administraţiei Naţionale a Rezervelor de Stat - Unitatea teritorială 515 | [`hg/2007/402/`](hg/2007/402/) | amending act | 1 | 2007-05-11 | 2007-05-11 |
 | Hotărârea Guvernului nr. 403/2007 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2007, pentru judeţul Constanţa | [`hg/2007/403/`](hg/2007/403/) | in force | 1 | 2007-05-08 | 2007-05-08 |
 | Hotărârea Guvernului nr. 405/2007 | [`hg/2007/405/`](hg/2007/405/) | in force | 9 | 2007-05-07 | 2013-01-16 |
+| Hotărârea Guvernului nr. 407/2007 privind înscrierea unor date tehnice cuprinse în inventarul bunurilor care alcătuiesc domeniul public al statului, concesionate Companiei Naţionale de Transport al Energiei Electrice "Transelectrica" - S.A | [`hg/2007/407/`](hg/2007/407/) | in force | 1 | 2007-05-14 | 2007-05-14 |
+| Hotărârea Guvernului nr. 413/2007 privind aprobarea prealabilă, în vederea recunoaşterii prin hotărâre judecătorească, a Fundaţiei "Heydar Aliyev" din Republica Azerbaidjan | [`hg/2007/413/`](hg/2007/413/) | amending act | 1 | 2007-05-15 | 2007-05-15 |
 | Hotărârea Guvernului nr. 416/2007 | [`hg/2007/416/`](hg/2007/416/) | in force | 14 | 2007-05-10 | 2025-05-15 |
+| Hotărârea Guvernului nr. 417/2007 privind exercitarea, cu caracter temporar, a funcţiei publice de subprefect al judeţului Iaşi de către domnul Bodea Marius | [`hg/2007/417/`](hg/2007/417/) | in force | 1 | 2007-05-10 | 2007-05-10 |
+| Hotărârea Guvernului nr. 420/2007 pentru organizarea la Bucureşti, în perioada 6-8 iunie 2007, a Conferinţei OSCE privind combaterea discriminării şi promovarea respectului şi înţelegerii reciproce | [`hg/2007/420/`](hg/2007/420/) | in force | 1 | 2007-05-11 | 2007-05-11 |
+| Hotărârea Guvernului nr. 423/2007 privind suplimentarea bugetului Ministerului Culturii şi Cultelor din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2007, pentru Patriarhia Bisericii Ortodoxe Române şi Arhiepiscopia Română Unită cu Roma, Greco-Catolică, Alba Iulia şi Făgăraş | [`hg/2007/423/`](hg/2007/423/) | in force | 1 | 2007-05-11 | 2007-05-11 |
+| Hotărârea Guvernului nr. 424/2007 privind plata justei despăgubiri şi a dobânzii legale aferente acesteia Societăţii Comerciale "Aţa Odorhei" - S.R.L | [`hg/2007/424/`](hg/2007/424/) | in force | 1 | 2007-05-11 | 2007-05-11 |
+| Hotărârea Guvernului nr. 425/2007 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2007, pentru judeţul Cluj | [`hg/2007/425/`](hg/2007/425/) | in force | 1 | 2007-05-11 | 2007-05-11 |
+| Hotărârea Guvernului nr. 428/2007 privind repartizarea pe proiecte a sumelor defalcate din taxa pe valoarea adăugată pentru finanţarea Programului de dezvoltare a infrastructurii şi a unor baze sportive din spaţiul rural | [`hg/2007/428/`](hg/2007/428/) | in force | 1 | 2007-05-16 | 2007-05-16 |
+| Hotărârea Guvernului nr. 434/2007 privind acordarea unui ajutor | [`hg/2007/434/`](hg/2007/434/) | in force | 1 | 2007-05-17 | 2007-05-17 |
+| Hotărârea Guvernului nr. 435/2007 privind acordarea unui ajutor | [`hg/2007/435/`](hg/2007/435/) | in force | 1 | 2007-05-17 | 2007-05-17 |
+| Hotărârea Guvernului nr. 436/2007 privind acordarea unui ajutor | [`hg/2007/436/`](hg/2007/436/) | in force | 1 | 2007-05-17 | 2007-05-17 |
 | Hotărârea Guvernului nr. 463/2007 | [`hg/2007/463/`](hg/2007/463/) | in force | 3 | 2007-05-21 | 2008-06-03 |
 | Hotărârea Guvernului nr. 475/2007 | [`hg/2007/475/`](hg/2007/475/) | in force | 8 | 2007-05-31 | 2015-04-22 |
 | Hotărârea Guvernului nr. 490/2007 | [`hg/2007/490/`](hg/2007/490/) | in force | 1 | 2007-05-31 | 2007-05-31 |
