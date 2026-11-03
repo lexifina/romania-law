@@ -1,6 +1,6 @@
 # Every act in this repository
 
-15936 acts, 29,560 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+15937 acts, 29,561 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -4972,7 +4972,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (10973, of which 5208 amending acts)
+## Government decisions (HG) (10974, of which 5209 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -8807,6 +8807,7 @@
 | Hotărârea Guvernului nr. 211/2018 privind transmiterea imobilului 3282 din domeniul public al statului și din administrarea Ministerului Apărării Naționale în domeniul public al municipiului Constanța, județul Constanța | [`hg/2018/211/`](hg/2018/211/) | in force | 1 | 2018-04-16 | 2018-04-16 |
 | Hotărârea Guvernului nr. 276/2018 pentru modificarea și completarea Hotărârii Guvernului nr. 1.198/2012 privind desemnarea infrastructurilor critice naționale | [`hg/2018/276/`](hg/2018/276/) | amending act | 1 | 2018-05-10 | 2018-05-10 |
 | Hotărârea Guvernului nr. 297/2018 pentru modificarea Normelor metodologice pentru aplicarea Legii nr. 269/2004 privind acordarea unui ajutor financiar în vederea stimulării achiziționării de calculatoare, aprobate prin Hotărârea Guvernului nr. 1.294/2004 | [`hg/2018/297/`](hg/2018/297/) | amending act | 1 | 2018-05-14 | 2018-05-14 |
+| Hotărârea Guvernului nr. 303/2018 privind aprobarea stemelor comunelor Bereni, Corunca şi Crăciuneşti, judeţul Mureş | [`hg/2018/303/`](hg/2018/303/) | amending act | 1 | 2018-05-15 | 2018-05-15 |
 | Hotărârea Guvernului nr. 306/2018 privind reorganizarea Institutului de Cercetare-Dezvoltare pentru Creşterea Bovinelor Baloteşti, prin fuziune prin absorbţie cu Staţiunea de Cercetare-Dezvoltare pentru Creşterea Bovinelor Dulbanu, şi modificarea anexei nr. 3 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului | [`hg/2018/306/`](hg/2018/306/) | amending act | 1 | 2018-05-21 | 2018-05-21 |
 | Hotărârea Guvernului nr. 308/2018 privind suplimentarea bugetului Înaltei Curţi de Casaţie şi Justiţie din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2018 | [`hg/2018/308/`](hg/2018/308/) | in force | 1 | 2018-05-10 | 2018-05-10 |
 | Hotărârea Guvernului nr. 309/2018 pentru aprobarea Programului manifestărilor prilejuite de Ziua Eroilor - 17 mai 2018 | [`hg/2018/309/`](hg/2018/309/) | amending act | 1 | 2018-05-10 | 2018-05-10 |
