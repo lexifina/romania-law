@@ -18233,6 +18233,33 @@
    ]
   },
   {
+   "slug": "hg-432-2004",
+   "path": "hg/2004/432",
+   "short": "HG nr. 432/2004",
+   "title": "Hotărârea Guvernului nr. 432/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/51282",
+   "versions": [
+    {
+     "from": "2004-05-04",
+     "units": 26,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/51282",
+     "sha256": "0e09cbdb26f2720c82328e69cb54267510a6e7c5f30ad01206b02064302e13db"
+    },
+    {
+     "from": "2007-01-01",
+     "units": 30,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/51282",
+     "sha256": "0e09cbdb26f2720c82328e69cb54267510a6e7c5f30ad01206b02064302e13db"
+    },
+    {
+     "from": "2007-06-13",
+     "units": 30,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/51282",
+     "sha256": "548e2928463fa8168dcb5927744028e844ee6285b27d45833e9712d181b8c80c"
+    }
+   ]
+  },
+  {
    "slug": "hg-433-2022",
    "path": "hg/2022/433",
    "short": "HG nr. 433/2022",
@@ -20809,6 +20836,33 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/83034",
      "sha256": "b90e6fdda81be1ff8854d8203e548fb7b4134baace3a56fec1a35321b8ca5239"
+    }
+   ]
+  },
+  {
+   "slug": "hg-612-2010",
+   "path": "hg/2010/612",
+   "short": "HG nr. 612/2010",
+   "title": "Hotărârea Guvernului nr. 612/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/151813",
+   "versions": [
+    {
+     "from": "2010-07-01",
+     "units": 60,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/120021",
+     "sha256": "1368062b7a924eaf83e9a14b9bd5552b6ac8b71e995a36a69d6cc42949d86488"
+    },
+    {
+     "from": "2013-07-01",
+     "units": 61,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/120021",
+     "sha256": "1368062b7a924eaf83e9a14b9bd5552b6ac8b71e995a36a69d6cc42949d86488"
+    },
+    {
+     "from": "2013-10-07",
+     "units": 61,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/151813",
+     "sha256": "6d03c0dc846a7db6cabc3b7f43b68b8205358df2171fcf52358dc4a684f2bfd2"
     }
    ]
   },
@@ -76840,6 +76894,27 @@
      "units": 16,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/249507",
      "sha256": "32720119c7a25ff396b72bafe55e4953710cfff4f699d3d779e71ec99f668d47"
+    }
+   ]
+  },
+  {
+   "slug": "oug-30-2003",
+   "path": "oug/2003/30",
+   "short": "OUG nr. 30/2003",
+   "title": "Ordonanța de urgență a Guvernului nr. 30/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43433",
+   "versions": [
+    {
+     "from": "2003-05-01",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/43433",
+     "sha256": "20f4c33a60393bf5e5fe0f0fdd51e764ed7b2d716c3ba1d1092ad2fdc9deca6b"
+    },
+    {
+     "from": "2004-01-01",
+     "units": 0,
+     "source_url": "https://web.archive.org/web/20260308191005id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/48725",
+     "sha256": "3f252fca114c1a2323bbbc6746a34556f11087a8458c307d9291cb42379a0dbb"
     }
    ]
   },
@@ -196477,27 +196552,6 @@
    ]
   },
   {
-   "slug": "hg-432-2004",
-   "path": "hg/2004/432",
-   "short": "HG nr. 432/2004",
-   "title": "Hotărârea Guvernului nr. 432/2004",
-   "url": "https://legislatie.just.ro/Public/DetaliiDocument/51282",
-   "versions": [
-    {
-     "from": "2004-05-04",
-     "units": 30,
-     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/51282",
-     "sha256": "0e09cbdb26f2720c82328e69cb54267510a6e7c5f30ad01206b02064302e13db"
-    },
-    {
-     "from": "2007-06-13",
-     "units": 30,
-     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/51282",
-     "sha256": "548e2928463fa8168dcb5927744028e844ee6285b27d45833e9712d181b8c80c"
-    }
-   ]
-  },
-  {
    "slug": "hg-44-2022",
    "short": "HG nr. 44/2022",
    "title": "Hotărârea Guvernului nr. 44/2022 privind modificarea și completarea anexei la Hotărârea Consiliului național al Colegiului Fizioterapeuților din România nr. 92/2020 pentru aprobarea Procedurilor și criteriilor de evaluare a activităților de educație medicală continuă, precum și a criteriilor și normelor de acreditare, respectiv creditare a furnizorilor și formelor de educație medicală continuă",
@@ -196564,27 +196618,6 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/249025",
      "sha256": "c2c70fd5b30060213ae7098e4737a80f47e6c60d1156810b0b269ea98a66f371"
-    }
-   ]
-  },
-  {
-   "slug": "hg-612-2010",
-   "path": "hg/2010/612",
-   "short": "HG nr. 612/2010",
-   "title": "Hotărârea Guvernului nr. 612/2010",
-   "url": "https://legislatie.just.ro/Public/DetaliiDocument/151813",
-   "versions": [
-    {
-     "from": "2010-07-01",
-     "units": 61,
-     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/120021",
-     "sha256": "1368062b7a924eaf83e9a14b9bd5552b6ac8b71e995a36a69d6cc42949d86488"
-    },
-    {
-     "from": "2013-10-07",
-     "units": 61,
-     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/151813",
-     "sha256": "6d03c0dc846a7db6cabc3b7f43b68b8205358df2171fcf52358dc4a684f2bfd2"
     }
    ]
   },

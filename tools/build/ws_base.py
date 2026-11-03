@@ -38,8 +38,89 @@ def tidy(line: str, norm=None) -> str:
     return line.strip()
 
 
-def base_units(text: str, pad: int = 3, norm=None) -> dict:
-    """Units of the act as published: the article split of ws_units, each body re-cut into its paragraphs."""
+BLOCK_SEP = re.compile(r'(\n\s*\xa0?\+\xa0?\s*\n)')  # ws_units' block split, separators kept
+QUOTE_INTRO = re.compile(r':\s*["„«]?$')  # "... va avea următorul cuprins:" ends the block before a quoted article
+QMARK = '\x00Q{}\x00'
+
+
+def fold_quoted(raw: str) -> tuple:
+    """Lexifina ('ws_quoted', per act, off by default): the service prints each article an amending act quotes after
+    a "+" marker of its own, as if it were one of the act's own articles ("ARTICOL UNIC ... art. 4, cu următorul
+    cuprins:" + "Articolul 4 ..."). An own article is "Articolul unic" (the first article block) or the next number of
+    the act's own series 1, 2, 3 ..., printed after a block that does not end in ":"; every other block after the first
+    own article (an article with another number or an "^" number, a heading of the quoted text) up to the signature is
+    text of the own article before it, kept in its place as a marker line that base_units expands. A heading block
+    is the act's own heading (left out, as ws_units does) when the next article block is an own article. The blocks
+    after the signature (the annexes) are left out. Returns the folded text and {marker: quoted lines}."""
+    parts = BLOCK_SEP.split(raw)
+    heads = []  # per block: (ART match or None, first line, previous block ends ":")
+    for j in range(2, len(parts), 2):
+        lines = [WU.norm(x) for x in parts[j].split('\n') if WU.norm(x)]
+        prev = [WU.norm(x) for x in parts[j - 2].split('\n') if WU.norm(x)]
+        heads.append((WU.ART.match(lines[0]) if lines else None, lines,
+                      bool(prev and QUOTE_INTRO.search(prev[-1]))))
+    out, quoted = [parts[0]], {}
+    want, unic, own_seen = 1, False, False
+
+    def is_own(i):
+        m, lines, q = heads[i]
+        if not m or q or unic:
+            return False
+        if m.group(1).lower() == 'unic':
+            return not own_seen
+        return not m.group(2) and int(m.group(1)) == want
+
+    for i, (m, lines, q) in enumerate(heads):
+        sep, block = parts[2 * i + 1], parts[2 * i + 2]
+        if not lines:
+            out += [sep, block]
+            continue
+        if is_own(i):
+            own_seen = True
+            if m.group(1).lower() == 'unic':
+                unic = True
+            else:
+                want += 1
+            out += [sep, block]
+        elif not own_seen:
+            out += [sep, block]
+        else:
+            if not m and not q:  # a heading: the act's own when the next article block is an own article
+                nxt = next((n for n in range(i + 1, len(heads)) if heads[n][0]), None)
+                if nxt is not None and is_own(nxt) or HEAD_ANNEX.match(lines[0]):
+                    out += [sep, block]
+                    continue
+            body = lines
+            if m:  # "Articolul 4  Localitățile ...": the quoted article's heading on a line of its own
+                rest = m.group(3)
+                body = [lines[0][:len(lines[0]) - len(rest)].strip().rstrip('-').strip()] + (
+                    [rest] if rest else []) + lines[1:]
+            keep, end = [], False
+            for ln in body:
+                mid = WU.TAIL_MID.search(ln)
+                if mid:
+                    if ln[:mid.start()].strip():
+                        keep.append(ln[:mid.start()].strip())
+                    end = True
+                    break
+                keep.append(ln)
+            mark = QMARK.format(len(quoted))
+            quoted[mark] = keep
+            out[-1] = out[-1].rstrip('\n') + '\n' + mark + '\n'
+            if end:  # the signature: what follows (the annexes) is not the act's text
+                break
+        if WU.TAIL_MID.search(block):
+            break
+    return ''.join(out), quoted
+
+
+HEAD_ANNEX = re.compile(r'^\s*(Anex[aăe]|ANEX[AĂE])\b')
+
+
+def base_units(text: str, pad: int = 3, norm=None, quoted: bool = False) -> dict:
+    """Units of the act as published: the article split of ws_units, each body re-cut into its paragraphs.
+    `quoted` (an entry's 'ws_quoted'): the articles an amending act quotes stay in the article quoting them
+    (fold_quoted)."""
     raw = text.replace('\r', '').replace('\xa0...\xa0', '\n')  # the service's paragraph separator, where it prints one
     # a paragraph label followed by the service's gap ("urmează:  a)    nava") starts a paragraph wherever it stands
     raw = re.sub(r'[ \t]{2,}(\(\d+(?:\^\d+)?\)|[a-z]\)|\d+(?:\^\d+)?\.)[ \t]{3,}', r'\n\1 ', raw)
@@ -54,6 +135,9 @@ def base_units(text: str, pad: int = 3, norm=None) -> dict:
     raw = re.sub(r'(["”»])[ \t]+(?=\d{1,3}(?:\^\d+)?\.[ \t][A-ZĂÂÎȘȚ])', r'\1\n', raw)
     # re-cut every article block's run-on line into paragraphs before ws_units splits and tidies the blocks
     raw = '\n'.join(PARA.sub('\n', ln) if not re.match(r'^\s*\xa0?\+\xa0?\s*$', ln) else ln for ln in raw.split('\n'))
+    qmap = {}
+    if quoted:
+        raw, qmap = fold_quoted(raw)
     units = WU.units_of(raw, pad)
     unic = re.search(r'\b(Art(?:icol(?:ul)?)?\.?\s+unic)\b', raw, re.I)
     out = {}
@@ -65,8 +149,18 @@ def base_units(text: str, pad: int = 3, norm=None) -> dict:
             k = f'art-{1:0{pad}d}'
             printed = re.sub(r'\s+', ' ', unic.group(1)) if unic else 'Articol unic'
             head, label = f'# {printed}', printed
-        lines = [tidy(x, norm) for x in body.split('\n')]
+        blines = body.split('\n')
+        if qmap:  # each marker line: the quoted text it stands for
+            blines = [y for x in blines for y in qmap.get(x.strip(), [x])]
+        lines = [tidy(x, norm) for x in blines]
         out[k] = {'label': label, 'kind': 'art', 'text': '\n'.join([head] + [x for x in lines if x]) + '\n'}
+    if qmap and out:  # ws_units' cut of the act's EU-transposition note, now on the last article's whole text
+        last = list(out)[-1]
+        t = out[last]['text']
+        body_start = t.index('\n') + 1
+        m = WU.EU_NOTE.search(t, body_start)
+        if m and m.start() > body_start and len(t[m.start():].split()) <= 120:
+            out[last]['text'] = t[:m.start()].rstrip() + '\n'
     return out
 
 

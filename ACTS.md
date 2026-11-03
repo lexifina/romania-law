@@ -1,6 +1,6 @@
 # Every act in this repository
 
-8014 acts, 20,783 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+8015 acts, 20,787 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -1959,7 +1959,7 @@
 | Legea nr. 241/2025 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 31/2002 privind interzicerea organizațiilor, simbolurilor și faptelor cu caracter fascist, legionar, rasist sau xenofob și a promovării cultului persoanelor vinovate de săvârșirea unor infracțiuni de genocid contra umanității și de crime de război, precum și pentru modificarea Legii nr. 157/2018 privind unele măsuri pentru prevenirea și combaterea antisemitismului | [`lege/2025/241/`](lege/2025/241/) | amending act | 1 | 2025-12-27 | 2025-12-27 |
 | Legea nr. 245/2025 pentru modificarea art. 32 alin. (7) din Legea nr. 273/2006 privind finanțele publice locale | [`lege/2025/245/`](lege/2025/245/) | amending act | 1 | 2026-01-01 | 2026-01-01 |
 
-## Emergency ordinances (OUG) (1509, of which 526 amending acts)
+## Emergency ordinances (OUG) (1510, of which 526 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -2129,6 +2129,7 @@
 | Ordonanța de urgență a Guvernului nr. 19/2003 | [`oug/2003/19/`](oug/2003/19/) | in force | 5 | 2003-04-03 | 2008-06-26 |
 | Ordonanța de urgență a Guvernului nr. 23/2003 | [`oug/2003/23/`](oug/2003/23/) | in force | 1 | 2003-04-14 | 2003-04-14 |
 | Ordonanța de urgență a Guvernului nr. 27/2003 | [`oug/2003/27/`](oug/2003/27/) | in force | 4 | 2003-04-25 | 2014-02-01 |
+| Ordonanța de urgență a Guvernului nr. 30/2003 | [`oug/2003/30/`](oug/2003/30/) | repealed 2004-01-01 | 2 | 2003-05-01 | 2004-01-01 |
 | Ordonanța de urgență a Guvernului nr. 31/2003 privind unele măsuri de restructurare financiară a creanţelor deţinute de Autoritatea pentru Valorificarea Activelor Bancare asupra unor societăţi comerciale de pe platformele industriale Arad şi Harghita | [`oug/2003/31/`](oug/2003/31/) | in force | 2 | 2003-05-06 | 2003-12-11 |
 | Ordonanța de urgență a Guvernului nr. 32/2003 | [`oug/2003/32/`](oug/2003/32/) | in force | 1 | 2003-05-20 | 2003-05-20 |
 | Ordonanța de urgență a Guvernului nr. 33/2003 | [`oug/2003/33/`](oug/2003/33/) | in force | 1 | 2003-05-21 | 2003-05-21 |
@@ -4350,7 +4351,7 @@
 | Hotărârea Guvernului nr. 409/2004 | [`hg/2004/409/`](hg/2004/409/) | in force | 2 | 2004-04-01 | 2004-08-10 |
 | Hotărârea Guvernului nr. 412/2004 | [`hg/2004/412/`](hg/2004/412/) | in force | 8 | 2004-03-30 | 2006-09-08 |
 | Hotărârea Guvernului nr. 427/2004 | [`hg/2004/427/`](hg/2004/427/) | in force | 3 | 2004-07-15 | 2006-03-30 |
-| Hotărârea Guvernului nr. 432/2004 | [`hg/2004/432/`](hg/2004/432/) | in force | 2 | 2004-05-04 | 2007-06-13 |
+| Hotărârea Guvernului nr. 432/2004 | [`hg/2004/432/`](hg/2004/432/) | in force | 3 | 2004-05-04 | 2007-06-13 |
 | Hotărârea Guvernului nr. 451/2004 | [`hg/2004/451/`](hg/2004/451/) | in force | 1 | 2004-04-19 | 2004-04-19 |
 | Hotărârea Guvernului nr. 492/2004 | [`hg/2004/492/`](hg/2004/492/) | in force | 6 | 2004-04-21 | 2023-03-15 |
 | Hotărârea Guvernului nr. 493/2004 | [`hg/2004/493/`](hg/2004/493/) | repealed 2024-02-03 | 2 | 2004-04-30 | 2024-02-03 |
@@ -5000,7 +5001,7 @@
 | Hotărârea Guvernului nr. 545/2010 | [`hg/2010/545/`](hg/2010/545/) | in force | 6 | 2010-07-01 | 2024-12-18 |
 | Hotărârea Guvernului nr. 606/2010 | [`hg/2010/606/`](hg/2010/606/) | in force | 2 | 2010-07-20 | 2013-12-02 |
 | Hotărârea Guvernului nr. 608/2010 | [`hg/2010/608/`](hg/2010/608/) | in force | 2 | 2010-07-28 | 2012-10-29 |
-| Hotărârea Guvernului nr. 612/2010 | [`hg/2010/612/`](hg/2010/612/) | in force | 2 | 2010-07-01 | 2013-10-07 |
+| Hotărârea Guvernului nr. 612/2010 | [`hg/2010/612/`](hg/2010/612/) | in force | 3 | 2010-07-01 | 2013-10-07 |
 | Hotărârea Guvernului nr. 707/2010 | [`hg/2010/707/`](hg/2010/707/) | in force | 1 | 2010-08-06 | 2010-08-06 |
 | Hotărârea Guvernului nr. 725/2010 privind reorganizarea și funcționarea Ministerului Agriculturii și Dezvoltării Rurale, precum și a unor structuri aflate în subordinea acestuia | [`hg/2010/725/`](hg/2010/725/) | in force | 8 | 2010-08-04 | 2014-07-03 |
 | Hotărârea Guvernului nr. 751/2010 | [`hg/2010/751/`](hg/2010/751/) | in force | 6 | 2010-08-05 | 2016-11-22 |

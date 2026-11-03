@@ -1,6 +1,6 @@
 # Hotărârea Guvernului nr. 612/2010
 
-HG nr. 612/2010 · 2 versions, from 2010-07-01 (latest in force: 2013-10-07) · <https://legislatie.just.ro/Public/DetaliiDocument/151813>
+HG nr. 612/2010 · 3 versions, from 2010-07-01 (latest in force: 2013-10-07) · <https://legislatie.just.ro/Public/DetaliiDocument/151813>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -27,7 +27,7 @@ HG nr. 612/2010 · 2 versions, from 2010-07-01 (latest in force: 2013-10-07) · 
 | Art. 21 | [art-021.md](art-021.md) | 0 |  |
 | Art. 22 | [art-022.md](art-022.md) | 1 | 2013-10-07 |
 | Art. 23 | [art-023.md](art-023.md) | 1 | 2013-10-07 |
-| Art. 24 | [art-024.md](art-024.md) | 0 |  |
+| Art. 24 | [art-024.md](art-024.md) | 1 | 2013-07-01 |
 | Art. 25 | [art-025.md](art-025.md) | 1 | 2013-10-07 |
 | Art. 26 | [art-026.md](art-026.md) | 0 |  |
 | Art. 27 | [art-027.md](art-027.md) | 1 | 2013-10-07 |
@@ -40,8 +40,8 @@ HG nr. 612/2010 · 2 versions, from 2010-07-01 (latest in force: 2013-10-07) · 
 | Art. 34 | [art-034.md](art-034.md) | 0 |  |
 | Art. 35 | [art-035.md](art-035.md) | 0 |  |
 | Art. 36 | [art-036.md](art-036.md) | 0 |  |
-| Art. 37 | [art-037.md](art-037.md) | 0 |  |
-| Art. 38 | [art-038.md](art-038.md) | 0 |  |
+| Art. 37 | [art-037.md](art-037.md) | 1 | 2013-07-01 |
+| Art. 38 | [art-038.md](art-038.md) | 1 | 2013-07-01 |
 | Art. 39 | [art-039.md](art-039.md) | 0 |  |
 | Art. 40 | [art-040.md](art-040.md) | 0 |  |
 | Art. 41 | [art-041.md](art-041.md) | 0 |  |
@@ -75,4 +75,4 @@ Act id: `hg-612-2010` (tags `hg-612-2010/<day>`; `python tools/on.py <day> hg-61
 - HG nr. 612/2010: built by Lexifina with the default rules: the forms are those the portal lists, each version is dated by its form or by the notes it prints, and no rule or ruling made for this act alone was applied. Two parses are identical, the newest form read afresh equals the latest version article by article, and every article a form leaves out is settled by the standing rules.
 - HG nr. 612/2010: the first version is the Government decision as published in Monitorul Oficial nr. 448 of 1 July 2010 (DetaliiDocumentAfis/120021), dated 1 July 2010: its art. 60 alin. (1) puts it in force on 1 July 2010 for entertainment pyrotechnic articles of categories 1, 2 and 3 (lit. a)) and on 1 July 2013 for those of category 4 and for theatrical and other pyrotechnic articles (lit. b)); the first day it takes effect is kept. The portal holds no consolidated form before 7 October 2013, so the changes made up to then arrive together that day.
 - HG nr. 612/2010: the signature block after the last article (the signatories, the place, the date and the number) is not part of an article and is left out, as in every act of this record.
-- HG nr. 612/2010: art. 60 alin. (1) stages the decision by category of pyrotechnic article, not by article: from 1 July 2010 it applies to categories 1-3, and from 1 July 2013 also to the others. No article is split off; the first version is dated by the earlier day and this line records the later one (as for HG nr. 947/2000).
+- HG nr. 612/2010: art. 60 alin. (1) stages the decision by category of pyrotechnic article: from 1 July 2010 for entertainment articles of categories 1-3, from 1 July 2013 for category 4, stage and other articles. The provisions that concern only the later categories and stand as articles or points of their own (art. 24 pct. 3, module H for category 4; art. 37 lit. d), the category 4 label; art. 38, the stage-article labels) get their own version on 1 July 2013 (coordinator ruling, 2026-11-03); the general provisions, which apply to all categories, and the definitions are shown from 1 July 2010.
