@@ -116756,6 +116756,21 @@
    ]
   },
   {
+   "slug": "hg-1124-2022",
+   "path": "hg/2022/1124",
+   "short": "HG nr. 1124/2022",
+   "title": "Hotărârea Guvernului nr. 1124/2022 privind modificarea anexei nr. 10 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului pentru imobilele înscrise la nr. MF 36009, 99694, 99700, 99701 aflate în administrarea Inspectoratului de Stat în Construcţii - I.S.C",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/259258",
+   "versions": [
+    {
+     "from": "2022-09-13",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/259258",
+     "sha256": "47c98eb47deb9120b7326077726fd693929c8e5de5541f6f1adc653298a3baae"
+    }
+   ]
+  },
+  {
    "slug": "hg-1124-2023",
    "path": "hg/2023/1124",
    "short": "HG nr. 1124/2023",
@@ -119632,6 +119647,21 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/164267",
      "sha256": "4353cf9345ea90dfeb641a5e9e07b10c022e06e8ebb6f1ae0fbb6831ac7f4498"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1147-2022",
+   "path": "hg/2022/1147",
+   "short": "HG nr. 1147/2022",
+   "title": "Hotărârea Guvernului nr. 1147/2022 privind modificarea datelor de identificare şi a valorii de inventar a unui bun imobil aflat în domeniul public al statului şi în administrarea Teatrului Naţional \"I.L. Caragiale\" din Bucureşti",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/259404",
+   "versions": [
+    {
+     "from": "2022-09-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/259404",
+     "sha256": "5c280b6423443defef89db21438609c19e3e4e06f10a173be94c58acee80a527"
     }
    ]
   },
@@ -138884,6 +138914,21 @@
    ]
   },
   {
+   "slug": "hg-1366-2022",
+   "path": "hg/2022/1366",
+   "short": "HG nr. 1366/2022",
+   "title": "Hotărârea Guvernului nr. 1366/2022 pentru modificarea şi completarea Normelor metodologice de aplicare a prevederilor Ordonanţei de urgenţă a Guvernului nr. 40/2015 privind gestionarea financiară a fondurilor europene pentru perioada de programare 2014-2020, aprobate prin Hotărârea Guvernului nr. 93/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/261288",
+   "versions": [
+    {
+     "from": "2022-11-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/261288",
+     "sha256": "b0777e1897e19738acdf189edb88fa6f3b1488dcba4ddff45ebeafea80a294e2"
+    }
+   ]
+  },
+  {
    "slug": "hg-1366-2024",
    "path": "hg/2024/1366",
    "short": "HG nr. 1366/2024",
@@ -140353,6 +140398,21 @@
      "units": 33,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/144352",
      "sha256": "22587c817fbe9e9913dd4c1b45234e894cfb2f50f899bb54bf477a167e96f3dd"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1388-2022",
+   "path": "hg/2022/1388",
+   "short": "HG nr. 1388/2022",
+   "title": "Hotărârea Guvernului nr. 1388/2022 privind aprobarea declanşării procedurilor de expropriere a tuturor imobilelor proprietate privată, aprobarea listei imobilelor proprietate publică a statului, precum şi a listei imobilelor proprietate publică a unităţilor administrativ-teritoriale, situate pe amplasamentul suplimentar care constituie coridorul de expropriere al lucrării de utilitate publică de interes naţional \"Reabilitarea liniei C.F. Frontieră - Curtici - Simeria, parte componentă a Coridorului IV Pan-European pentru circulaţia trenurilor cu viteza maximă de 160 km/h; Tronsonul 2: km 614 - Gurasada şi Tronsonul 3: Gurasada - Simeria\", pentru unităţile administrativ-teritoriale: Petriş, Păuliş şi Bârzava, judeţul Arad",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/261691",
+   "versions": [
+    {
+     "from": "2022-11-25",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/261691",
+     "sha256": "222d3dc144330ef43e40c12542eacf59ef536084c00221647d8244df9756ee75"
     }
    ]
   },
@@ -343576,6 +343636,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/209049",
      "sha256": "b5941e08296b5453b7136bdd0f452e568b5a3725aea85d6155ba8fea59a97e64"
+    }
+   ]
+  },
+  {
+   "slug": "legea-309-2022",
+   "path": "lege/2022/309",
+   "short": "Legea nr. 309/2022",
+   "title": "Legea nr. 309/2022 pentru modificarea Legii nr. 227/2015 privind Codul fiscal",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/261437",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/261437",
+     "sha256": "abc7ee342663393657a4a6ce983eb00871543ceabf895ba505377813b2b162bc"
     }
    ]
   },
