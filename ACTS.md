@@ -1,6 +1,6 @@
 # Every act in this repository
 
-6074 acts, 17,446 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+6075 acts, 17,448 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -1822,7 +1822,7 @@
 | Legea nr. 241/2025 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 31/2002 privind interzicerea organizațiilor, simbolurilor și faptelor cu caracter fascist, legionar, rasist sau xenofob și a promovării cultului persoanelor vinovate de săvârșirea unor infracțiuni de genocid contra umanității și de crime de război, precum și pentru modificarea Legii nr. 157/2018 privind unele măsuri pentru prevenirea și combaterea antisemitismului | [`lege/2025/241/`](lege/2025/241/) | amending act | 1 | 2025-12-27 | 2025-12-27 |
 | Legea nr. 245/2025 pentru modificarea art. 32 alin. (7) din Legea nr. 273/2006 privind finanțele publice locale | [`lege/2025/245/`](lege/2025/245/) | amending act | 1 | 2026-01-01 | 2026-01-01 |
 
-## Emergency ordinances (OUG) (1482, of which 521 amending acts)
+## Emergency ordinances (OUG) (1483, of which 521 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -2087,6 +2087,7 @@
 | Ordonanța de urgență a Guvernului nr. 111/2005 | [`oug/2005/111/`](oug/2005/111/) | in force | 2 | 2005-07-25 | 2005-12-08 |
 | Ordonanța de urgență a Guvernului nr. 113/2005 | [`oug/2005/113/`](oug/2005/113/) | in force | 2 | 2005-07-25 | 2005-11-03 |
 | Ordonanța de urgență a Guvernului nr. 114/2005 | [`oug/2005/114/`](oug/2005/114/) | in force | 4 | 2005-07-27 | 2011-12-28 |
+| Ordonanța de urgență a Guvernului nr. 116/2005 | [`oug/2005/116/`](oug/2005/116/) | in force | 2 | 2005-07-25 | 2005-10-20 |
 | Ordonanța de urgență a Guvernului nr. 119/2005 | [`oug/2005/119/`](oug/2005/119/) | in force | 2 | 2005-07-28 | 2005-10-30 |
 | Ordonanța de urgență a Guvernului nr. 120/2005 | [`oug/2005/120/`](oug/2005/120/) | in force | 5 | 2005-09-06 | 2013-12-05 |
 | Ordonanța de urgență a Guvernului nr. 126/2005 | [`oug/2005/126/`](oug/2005/126/) | in force | 11 | 2005-09-19 | 2024-12-17 |

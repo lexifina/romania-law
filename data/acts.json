@@ -34801,6 +34801,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/63606"
 },
 {
+"slug": "oug-116-2005",
+"path": "oug/2005/116",
+"kind": "oug",
+"year": "2005",
+"number": "116",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 116/2005",
+"short": "OUG nr. 116/2005",
+"code": null,
+"status": "in force",
+"versions": 2,
+"from": "2005-07-25",
+"latest": "2005-10-20",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/204574"
+},
+{
 "slug": "oug-119-2005",
 "path": "oug/2005/119",
 "kind": "oug",

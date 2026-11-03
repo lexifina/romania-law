@@ -52673,6 +52673,27 @@
    ]
   },
   {
+   "slug": "oug-116-2005",
+   "path": "oug/2005/116",
+   "short": "OUG nr. 116/2005",
+   "title": "Ordonanța de urgență a Guvernului nr. 116/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/204574",
+   "versions": [
+    {
+     "from": "2005-07-25",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/63488",
+     "sha256": "0293a119a073afc20c3f9a45bf52c8d2466d41618f15931f596c7215868cd499"
+    },
+    {
+     "from": "2005-10-20",
+     "units": 3,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/204574",
+     "sha256": "e6ef81cfc7bac67f52f1965e6f525efd2cf2096dfa01a3ffaa2e252d47d29009"
+    }
+   ]
+  },
+  {
    "slug": "oug-116-2006",
    "path": "oug/2006/116",
    "short": "OUG nr. 116/2006",
