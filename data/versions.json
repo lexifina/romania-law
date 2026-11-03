@@ -13793,6 +13793,27 @@
    ]
   },
   {
+   "slug": "hg-177-2024",
+   "path": "hg/2024/177",
+   "short": "HG nr. 177/2024",
+   "title": "Hotărârea Guvernului nr. 177/2024 privind repartizarea pe unităţi/subdiviziuni administrativ-teritoriale şi pe unităţi de învăţământ preuniversitar de stat a sumei, prevăzută în bugetul de stat pe anul 2024, pentru finanţarea Programului naţional \"Masă sănătoasă\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/279523",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/279523",
+     "sha256": "5ed8580ef5c11b0af55871a9b1840540c0fb590676be3d141308646cbba8801f"
+    },
+    {
+     "from": "2024-05-08",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/279523",
+     "sha256": "5a5a32cd80f50f30a66722b7bd6ecb086bf2d6bb00e70485b26238ba16d7e19d"
+    }
+   ]
+  },
+  {
    "slug": "hg-18-2015",
    "path": "hg/2015/18",
    "short": "HG nr. 18/2015",
@@ -20770,6 +20791,27 @@
      "units": 16,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/161260",
      "sha256": "a526fe6abfbe1b90c64584e36f32197ddc92a9324c7f50e8308a79d8521a4368"
+    }
+   ]
+  },
+  {
+   "slug": "hg-764-2007",
+   "path": "hg/2007/764",
+   "short": "HG nr. 764/2007",
+   "title": "Hotărârea Guvernului nr. 764/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/109928",
+   "versions": [
+    {
+     "from": "2007-08-09",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/84296",
+     "sha256": "5827f23604bff96b6a981fd3e60de07d76c1e5ad9754bcec939f1799dce2dc73"
+    },
+    {
+     "from": "2008-11-11",
+     "units": 4,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/109928",
+     "sha256": "62aabc32b2c9c28aaf2e13d693b99ee7f0a97bf95a4764cf19db5c038f90fb42"
     }
    ]
   },

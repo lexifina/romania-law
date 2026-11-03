@@ -1,6 +1,6 @@
 # Every act in this repository
 
-6575 acts, 19,041 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+6577 acts, 19,045 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -3781,7 +3781,7 @@
 | Ordonanța Guvernului nr. 21/2025 pentru modificarea și completarea Legii nr. 431/2023 privind asigurarea unui nivel minim global de impozitare a grupurilor de întreprinderi multinaționale și a grupurilor naționale de mari dimensiuni | [`og/2025/21/`](og/2025/21/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 | Ordonanța Guvernului nr. 22/2025 pentru modificarea și completarea Legii nr. 227/2015 privind Codul fiscal | [`og/2025/22/`](og/2025/22/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 
-## Government decisions (HG) (2802, of which 928 amending acts)
+## Government decisions (HG) (2804, of which 928 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -4524,6 +4524,7 @@
 | Hotărârea Guvernului nr. 745/2007 | [`hg/2007/745/`](hg/2007/745/) | in force | 1 | 2007-08-06 | 2007-08-06 |
 | Hotărârea Guvernului nr. 749/2007 | [`hg/2007/749/`](hg/2007/749/) | in force | 1 | 2007-07-24 | 2007-07-24 |
 | Hotărârea Guvernului nr. 759/2007 | [`hg/2007/759/`](hg/2007/759/) | in force | 6 | 2007-08-01 | 2013-08-01 |
+| Hotărârea Guvernului nr. 764/2007 | [`hg/2007/764/`](hg/2007/764/) | in force | 2 | 2007-08-09 | 2008-11-11 |
 | Hotărârea Guvernului nr. 767/2007 | [`hg/2007/767/`](hg/2007/767/) | in force | 1 | 2007-07-24 | 2007-07-24 |
 | Hotărârea Guvernului nr. 769/2007 | [`hg/2007/769/`](hg/2007/769/) | in force | 1 | 2007-08-10 | 2007-08-10 |
 | Hotărârea Guvernului nr. 788/2007 | [`hg/2007/788/`](hg/2007/788/) | in force | 4 | 2007-08-02 | 2022-01-19 |
@@ -6324,6 +6325,7 @@
 | Hotărârea Guvernului nr. 150/2024 privind aprobarea schemei "Ajutor de minimis pentru aplicarea Programului de susţinere a producţiei de cartof de consum" în anul 2024 | [`hg/2024/150/`](hg/2024/150/) | amending act | 2 | 2024-02-23 | 2024-11-22 |
 | Hotărârea Guvernului nr. 153/2024 privind instituirea unei scheme de ajutor de stat pentru compensarea creşterii accizei la motorina utilizată drept combustibil pentru motor | [`hg/2024/153/`](hg/2024/153/) | in force | 3 | 2024-02-23 | 2024-12-19 |
 | Hotărârea Guvernului nr. 167/2024 pentru aprobarea normelor metodologice de acordare, utilizare și control al compensațiilor reprezentând contravaloarea produselor pe care proprietarii nu le recoltează din cauza funcțiilor de protecție stabilite prin amenajamente silvice care determină restricții în recoltarea de masă lemnoasă | [`hg/2024/167/`](hg/2024/167/) | amending act | 1 | 2024-03-05 | 2024-03-05 |
+| Hotărârea Guvernului nr. 177/2024 privind repartizarea pe unităţi/subdiviziuni administrativ-teritoriale şi pe unităţi de învăţământ preuniversitar de stat a sumei, prevăzută în bugetul de stat pe anul 2024, pentru finanţarea Programului naţional "Masă sănătoasă" | [`hg/2024/177/`](hg/2024/177/) | in force | 2 | 2024-02-29 | 2024-05-08 |
 | Hotărârea Guvernului nr. 181/2024 pentru aprobarea Normelor de aplicare a Legii nr. 360/2023 privind sistemul public de pensii | [`hg/2024/181/`](hg/2024/181/) | amending act | 1 | 2024-03-01 | 2024-03-01 |
 | Hotărârea Guvernului nr. 199/2024 privind aprobarea calendarului acțiunilor din cuprinsul perioadei electorale la alegerile pentru membrii din România în Parlamentul European din anul 2024 și la alegerile pentru autoritățile administrației publice locale din anul 2024 | [`hg/2024/199/`](hg/2024/199/) | amending act | 1 | 2024-03-11 | 2024-03-11 |
 | Hotărârea Guvernului nr. 205/2024 privind stabilirea măsurilor tehnice necesare pentru buna organizare și desfășurare a alegerilor pentru membrii din România în Parlamentul European din anul 2024 și a alegerilor pentru autoritățile administrației publice locale din anul 2024 | [`hg/2024/205/`](hg/2024/205/) | in force | 1 | 2024-03-14 | 2024-03-14 |
