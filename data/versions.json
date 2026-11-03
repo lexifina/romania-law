@@ -267716,6 +267716,21 @@
    ]
   },
   {
+   "slug": "legea-222-2018",
+   "path": "lege/2018/222",
+   "short": "Legea nr. 222/2018",
+   "title": "Legea nr. 222/2018 privind aprobarea Ordonanţei Guvernului nr. 6/2011 pentru modificarea şi completarea Ordonanţei Guvernului nr. 57/2002 privind cercetarea ştiinţifică şi dezvoltarea tehnologică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/203517",
+   "versions": [
+    {
+     "from": "2018-08-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/203517",
+     "sha256": "a46736ef712bdfaeaafae1d2b891a003e5e8d842ceca633dd61e27d2bb6055c5"
+    }
+   ]
+  },
+  {
    "slug": "legea-222-2020",
    "path": "lege/2020/222",
    "short": "Legea nr. 222/2020",

@@ -1,6 +1,6 @@
 # Every act in this repository
 
-15760 acts, 29,384 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+15761 acts, 29,385 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (2712, of which 1347 amending acts)
+## Laws (legi) (2713, of which 1348 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -1369,6 +1369,7 @@
 | Legea nr. 213/2018 pentru instituirea zilei de 9 noiembrie - Ziua Limbii Ucrainene | [`lege/2018/213/`](lege/2018/213/) | in force | 1 | 2018-08-03 | 2018-08-03 |
 | Legea nr. 214/2018 pentru instituirea Zilei Limbii Macedonene | [`lege/2018/214/`](lege/2018/214/) | in force | 1 | 2018-08-03 | 2018-08-03 |
 | Legea nr. 221/2018 pentru modificarea și completarea Legii nr. 263/2010 privind sistemul unitar de pensii publice | [`lege/2018/221/`](lege/2018/221/) | amending act | 1 | 2018-08-02 | 2018-08-02 |
+| Legea nr. 222/2018 privind aprobarea Ordonanţei Guvernului nr. 6/2011 pentru modificarea şi completarea Ordonanţei Guvernului nr. 57/2002 privind cercetarea ştiinţifică şi dezvoltarea tehnologică | [`lege/2018/222/`](lege/2018/222/) | amending act | 1 | 2018-08-06 | 2018-08-06 |
 | Legea nr. 225/2018 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 98/2010 privind identificarea, desemnarea și protecția infrastructurilor critice | [`lege/2018/225/`](lege/2018/225/) | amending act | 2 | 2018-09-02 | 2018-12-01 |
 | Legea nr. 227/2018 privind aprobarea Programului de susținere pentru activitatea de reproducție, incubație și de creștere în sectorul avicol | [`lege/2018/227/`](lege/2018/227/) | amending act | 7 | 2018-08-06 | 2024-12-13 |
 | Legea nr. 229/2018 privind emiterea cărţilor de identitate speciale membrilor misiunilor diplomatice, oficiilor consulare şi reprezentanţelor organizaţiilor internaţionale acreditate în România | [`lege/2018/229/`](lege/2018/229/) | in force | 1 | 2018-08-09 | 2018-08-09 |
