@@ -1,6 +1,6 @@
 # Every act in this repository
 
-16596 acts, 30,220 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+16626 acts, 30,250 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -2853,7 +2853,7 @@
 | Legea nr. 204/2026 privind aprobarea Ordonanţei Guvernului nr. 22/2025 pentru modificarea şi completarea Legii nr. 227/2015 privind Codul fiscal şi pentru completarea articolului 342 din Legea nr. 227/2015 privind Codul fiscal | [`lege/2026/204/`](lege/2026/204/) | amending act | 1 | 2026-10-25 | 2026-10-25 |
 | Legea nr. 205/2026 pentru completarea Ordonanţei Guvernului nr. 22/2002 privind executarea obligaţiilor de plată ale instituţiilor publice, stabilite prin titluri executorii | [`lege/2026/205/`](lege/2026/205/) | amending act | 1 | 2026-11-02 | 2026-11-02 |
 
-## Emergency ordinances (OUG) (1663, of which 587 amending acts)
+## Emergency ordinances (OUG) (1664, of which 588 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -3749,6 +3749,7 @@
 | Ordonanța de urgență a Guvernului nr. 2/2017 privind unele măsuri fiscal-bugetare, precum și modificarea și completarea unor acte normative | [`oug/2017/2/`](oug/2017/2/) | in force | 3 | 2017-01-06 | 2017-06-17 |
 | Ordonanța de urgență a Guvernului nr. 3/2017 pentru modificarea și completarea Legii nr. 227/2015 privind Codul fiscal | [`oug/2017/3/`](oug/2017/3/) | amending act | 4 | 2017-01-06 | 2018-01-01 |
 | Ordonanța de urgență a Guvernului nr. 6/2017 | [`oug/2017/6/`](oug/2017/6/) | in force | 4 | 2017-01-25 | 2021-08-26 |
+| Ordonanța de urgență a Guvernului nr. 7/2017 privind prorogarea termenului de depunere a declaraţiilor fiscale şi de plată a creanţelor fiscale scadente la data de 25 ianuarie 2017 | [`oug/2017/7/`](oug/2017/7/) | amending act | 1 | 2017-01-25 | 2017-01-25 |
 | Ordonanța de urgență a Guvernului nr. 9/2017 | [`oug/2017/9/`](oug/2017/9/) | in force | 4 | 2017-01-30 | 2017-11-16 |
 | Ordonanța de urgență a Guvernului nr. 11/2017 | [`oug/2017/11/`](oug/2017/11/) | in force | 3 | 2017-01-30 | 2019-11-06 |
 | Ordonanța de urgență a Guvernului nr. 12/2017 | [`oug/2017/12/`](oug/2017/12/) | in force | 1 | 2017-01-31 | 2017-01-31 |
@@ -5046,7 +5047,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (11559, of which 5574 amending acts)
+## Government decisions (HG) (11588, of which 5592 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -8707,7 +8708,14 @@
 | Hotărârea Guvernului nr. 1000/2016 | [`hg/2016/1000/`](hg/2016/1000/) | in force | 1 | 2016-12-29 | 2016-12-29 |
 | Hotărârea Guvernului nr. 1004/2016 pentru aprobarea Normelor referitoare la proveniența, circulația și comercializarea materialelor lemnoase, la regimul spațiilor de depozitare a materialelor lemnoase și al instalațiilor de prelucrat lemn rotund, precum și a unor măsuri de aplicare a Regulamentului (UE) nr. 995/2010 al Parlamentului European și al Consiliului din 20 octombrie 2010 de stabilire a obligațiilor ce revin operatorilor care introduc pe piață lemn și produse din lemn | [`hg/2016/1004/`](hg/2016/1004/) | repealed 2020-10-29 | 2 | 2017-04-22 | 2020-10-29 |
 | Hotărârea Guvernului nr. 1008/2016 | [`hg/2016/1008/`](hg/2016/1008/) | in force | 1 | 2016-12-29 | 2016-12-29 |
+| Hotărârea Guvernului nr. 1014/2016 pentru aprobarea cotei anuale obligatorii de energie electrică produsă din surse regenerabile de energie, care beneficiază de sistemul de promovare prin certificate verzi, pentru anul 2017 | [`hg/2016/1014/`](hg/2016/1014/) | amending act | 1 | 2016-12-29 | 2016-12-29 |
+| Hotărârea Guvernului nr. 1015/2016 pentru modificarea Hotărârii Guvernului nr. 588/2016 privind aprobarea alocării unei sume din bugetul asigurărilor pentru şomaj pe anul 2016 pentru plata venitului lunar de completare de care beneficiază persoanele disponibilizate de la Societatea Complexul Energetic Oltenia - S.A | [`hg/2016/1015/`](hg/2016/1015/) | amending act | 1 | 2016-12-29 | 2016-12-29 |
+| Hotărârea Guvernului nr. 1018/2016 privind înscrierea unor terenuri aflate în administrarea Ministerului Energiei în inventarul centralizat al bunurilor din domeniul public al statului | [`hg/2016/1018/`](hg/2016/1018/) | in force | 1 | 2017-01-06 | 2017-01-06 |
+| Hotărârea Guvernului nr. 1020/2016 privind modificarea datelor de identificare şi actualizarea valorii de inventar a unui imobil aflat în proprietatea publică a statului, precum şi înscrierea unor imobile în inventarul centralizat al bunurilor din domeniul public al statului şi darea acestora în administrarea Ministerului Sănătăţii prin unităţi aflate în subordine | [`hg/2016/1020/`](hg/2016/1020/) | amending act | 1 | 2017-01-06 | 2017-01-06 |
+| Hotărârea Guvernului nr. 1021/2016 privind modificarea anexei nr. 41 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului | [`hg/2016/1021/`](hg/2016/1021/) | amending act | 1 | 2017-01-06 | 2017-01-06 |
+| Hotărârea Guvernului nr. 1023/2016 privind modificarea şi completarea anexei nr. 44 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului | [`hg/2016/1023/`](hg/2016/1023/) | amending act | 1 | 2017-01-06 | 2017-01-06 |
 | Hotărârea Guvernului nr. 1/2017 | [`hg/2017/1/`](hg/2017/1/) | in force | 1 | 2017-01-06 | 2017-01-06 |
+| Hotărârea Guvernului nr. 7/2017 privind încetarea exercitării, cu caracter temporar, prin detaşare în condiţiile legii, a funcţiei publice de subprefect al judeţului Prahova de către doamna Lupea Ioana Mădălina | [`hg/2017/7/`](hg/2017/7/) | in force | 1 | 2017-01-13 | 2017-01-13 |
 | Hotărârea Guvernului nr. 12/2017 privind organizarea și funcționarea Ministerului Muncii și Justiției Sociale | [`hg/2017/12/`](hg/2017/12/) | in force | 4 | 2017-01-16 | 2019-06-26 |
 | Hotărârea Guvernului nr. 13/2017 | [`hg/2017/13/`](hg/2017/13/) | in force | 2 | 2017-01-16 | 2018-05-02 |
 | Hotărârea Guvernului nr. 15/2017 privind organizarea și funcționarea Ministerului Dezvoltării Regionale, Administrației Publice și Fondurilor Europene | [`hg/2017/15/`](hg/2017/15/) | in force | 1 | 2017-01-16 | 2017-01-16 |
@@ -8719,17 +8727,39 @@
 | Hotărârea Guvernului nr. 24/2017 privind organizarea și funcționarea Ministerului Turismului | [`hg/2017/24/`](hg/2017/24/) | in force | 3 | 2017-01-17 | 2018-09-21 |
 | Hotărârea Guvernului nr. 26/2017 | [`hg/2017/26/`](hg/2017/26/) | in force | 3 | 2017-01-18 | 2018-09-20 |
 | Hotărârea Guvernului nr. 27/2017 privind organizarea și funcționarea Ministerului Economiei | [`hg/2017/27/`](hg/2017/27/) | in force | 7 | 2017-01-18 | 2019-07-31 |
+| Hotărârea Guvernului nr. 29/2017 privind aprobarea bugetului Trezoreriei Statului pe anul 2017 | [`hg/2017/29/`](hg/2017/29/) | amending act | 1 | 2017-01-19 | 2017-01-19 |
 | Hotărârea Guvernului nr. 30/2017 | [`hg/2017/30/`](hg/2017/30/) | in force | 17 | 2017-01-19 | 2025-04-07 |
 | Hotărârea Guvernului nr. 33/2017 | [`hg/2017/33/`](hg/2017/33/) | in force | 1 | 2017-02-02 | 2017-02-02 |
 | Hotărârea Guvernului nr. 36/2017 privind organizarea și funcționarea Ministerului Comunicațiilor și Societății Informaționale | [`hg/2017/36/`](hg/2017/36/) | in force | 2 | 2017-01-31 | 2018-04-04 |
+| Hotărârea Guvernului nr. 37/2017 pentru modificarea Hotărârii Guvernului nr. 144/2010 privind organizarea şi funcţionarea Ministerului Sănătăţii | [`hg/2017/37/`](hg/2017/37/) | amending act | 1 | 2017-01-31 | 2017-01-31 |
 | Hotărârea Guvernului nr. 38/2017 | [`hg/2017/38/`](hg/2017/38/) | in force | 1 | 2017-01-31 | 2017-01-31 |
+| Hotărârea Guvernului nr. 41/2017 pentru modificarea şi completarea Hotărârii Guvernului nr. 980/2015 privind organizarea şi funcţionarea Ministerului Energiei | [`hg/2017/41/`](hg/2017/41/) | amending act | 1 | 2017-02-03 | 2017-02-03 |
 | Hotărârea Guvernului nr. 42/2017 | [`hg/2017/42/`](hg/2017/42/) | in force | 1 | 2017-02-01 | 2017-02-01 |
 | Hotărârea Guvernului nr. 49/2017 | [`hg/2017/49/`](hg/2017/49/) | in force | 2 | 2017-03-01 | 2017-05-04 |
+| Hotărârea Guvernului nr. 50/2017 privind rechemarea unui consul general | [`hg/2017/50/`](hg/2017/50/) | in force | 1 | 2017-02-14 | 2017-02-14 |
 | Hotărârea Guvernului nr. 51/2017 | [`hg/2017/51/`](hg/2017/51/) | in force | 1 | 2017-02-15 | 2017-02-15 |
 | Hotărârea Guvernului nr. 54/2017 | [`hg/2017/54/`](hg/2017/54/) | in force | 1 | 2017-02-16 | 2017-02-16 |
 | Hotărârea Guvernului nr. 58/2017 | [`hg/2017/58/`](hg/2017/58/) | in force | 1 | 2017-02-23 | 2017-02-23 |
+| Hotărârea Guvernului nr. 61/2017 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii "Reparaţie capitală, consolidare, modernizare şi extindere sediu Tribunal Vâlcea", municipiul Râmnicu Vâlcea, judeţul Vâlcea, realizat prin Compania Naţională de Investiţii "C.N.I." - S.A | [`hg/2017/61/`](hg/2017/61/) | amending act | 1 | 2017-02-24 | 2017-02-24 |
+| Hotărârea Guvernului nr. 62/2017 pentru aprobarea plafoanelor alocate ajutoarelor naţionale tranzitorii şi schemelor de sprijin cuplat, în sectorul zootehnic, precum şi pentru stabilirea cuantumului acestora, pentru anul de plată 2016 | [`hg/2017/62/`](hg/2017/62/) | amending act | 1 | 2017-02-24 | 2017-02-24 |
 | Hotărârea Guvernului nr. 63/2017 | [`hg/2017/63/`](hg/2017/63/) | in force | 1 | 2017-02-28 | 2017-02-28 |
+| Hotărârea Guvernului nr. 64/2017 privind aprobarea modelului steagului comunei Giroc, judeţul Timiş | [`hg/2017/64/`](hg/2017/64/) | amending act | 1 | 2017-03-09 | 2017-03-09 |
+| Hotărârea Guvernului nr. 65/2017 privind scăderea din inventarul centralizat al bunurilor din domeniul public al statului a unui imobil aflat în administrarea Ministerului Afacerilor Interne - Direcţia generală logistică, ca urmare a restituirii acestuia persoanelor îndreptăţite | [`hg/2017/65/`](hg/2017/65/) | in force | 1 | 2017-02-28 | 2017-02-28 |
+| Hotărârea Guvernului nr. 67/2017 privind actualizarea valorii de inventar a unor imobile aflate în domeniul public al statului şi în administrarea Ministerului Afacerilor Interne - Unitatea Specială de Aviaţie Bucureşti, ca urmare a finalizării unor investiţii, a diferenţelor din măsurători cadastrale şi a reevaluării | [`hg/2017/67/`](hg/2017/67/) | in force | 1 | 2017-03-01 | 2017-03-01 |
+| Hotărârea Guvernului nr. 71/2017 pentru scăderea din inventarul centralizat al bunurilor din domeniul public al statului a unui bun care se află în administrarea Direcţiei pentru Agricultură a Judeţului Mureş, precum şi pentru modificarea Hotărârii Guvernului nr. 449/2011 privind schimbarea titularului dreptului de administrare a unor imobile aflate în domeniul public al statului şi în administrarea Ministerului Agriculturii şi Dezvoltării Rurale | [`hg/2017/71/`](hg/2017/71/) | amending act | 1 | 2017-03-02 | 2017-03-02 |
+| Hotărârea Guvernului nr. 72/2017 privind actualizarea anexei nr. 1 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului | [`hg/2017/72/`](hg/2017/72/) | amending act | 1 | 2017-03-02 | 2017-03-02 |
+| Hotărârea Guvernului nr. 73/2017 privind actualizarea anexei nr. 1 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului, pentru unele imobile aflate în domeniul public al statului şi în administrarea Ministerului Afacerilor Interne - Inspectoratul de Poliţie Judeţean Bistriţa-Năsăud, ca urmare a reevaluării | [`hg/2017/73/`](hg/2017/73/) | amending act | 1 | 2017-03-01 | 2017-03-01 |
+| Hotărârea Guvernului nr. 74/2017 privind actualizarea valorilor de inventar ale unor imobile aflate în domeniul public al statului şi în administrarea Ministerului Afacerilor Interne - Inspectoratul de Poliţie al Judeţului Teleorman şi Academia de Poliţie "Alexandru Ioan Cuza" | [`hg/2017/74/`](hg/2017/74/) | in force | 1 | 2017-03-03 | 2017-03-03 |
+| Hotărârea Guvernului nr. 75/2017 privind actualizarea inventarului centralizat al bunurilor din domeniul public al statului, ca urmare a modificării valorii de inventar şi schimbării unităţii de administrare pentru un imobil aflat în administrarea Ministerului Afacerilor Interne | [`hg/2017/75/`](hg/2017/75/) | in force | 1 | 2017-02-28 | 2017-02-28 |
+| Hotărârea Guvernului nr. 76/2017 privind trecerea unor construcţii, aflate în administrarea Ministerului Afacerilor Interne - Inspectoratul Teritorial al Poliţiei de Frontieră Sighetu Marmaţiei, din domeniul public al statului în domeniul privat al acestuia, în vederea scoaterii din funcţiune, casării şi valorificării, şi pentru actualizarea anexei nr. 1 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului | [`hg/2017/76/`](hg/2017/76/) | amending act | 1 | 2017-03-02 | 2017-03-02 |
+| Hotărârea Guvernului nr. 78/2017 privind trecerea unor construcţii, aflate în administrarea Ministerului Afacerilor Interne - Inspectoratul de Poliţie Judeţean Dâmboviţa, din domeniul public al statului în domeniul privat al acestuia, în vederea scoaterii din funcţiune, casării şi valorificării, şi pentru actualizarea anexei nr. 1 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului | [`hg/2017/78/`](hg/2017/78/) | amending act | 1 | 2017-03-02 | 2017-03-02 |
 | Hotărârea Guvernului nr. 81/2017 | [`hg/2017/81/`](hg/2017/81/) | in force | 1 | 2017-03-02 | 2017-03-02 |
+| Hotărârea Guvernului nr. 84/2017 privind încetarea exercitării, cu caracter temporar, prin detaşare în condiţiile legii, a funcţiei publice de prefect al judeţului Buzău de către doamna Mitrea Aurelia | [`hg/2017/84/`](hg/2017/84/) | in force | 1 | 2017-03-03 | 2017-03-03 |
+| Hotărârea Guvernului nr. 85/2017 privind încetarea exercitării, cu caracter temporar, prin detaşare în condiţiile legii, a funcţiei publice de prefect al judeţului Sibiu de către domnul Roman Vasile-Cristian | [`hg/2017/85/`](hg/2017/85/) | in force | 1 | 2017-03-03 | 2017-03-03 |
+| Hotărârea Guvernului nr. 86/2017 privind încetarea exercitării, cu caracter temporar, prin detaşare în condiţiile legii, a funcţiei publice de subprefect al judeţului Sibiu de către doamna Şandru Anca Livia | [`hg/2017/86/`](hg/2017/86/) | in force | 1 | 2017-03-03 | 2017-03-03 |
+| Hotărârea Guvernului nr. 89/2017 privind exercitarea, cu caracter temporar, prin detaşare în condiţiile legii, a funcţiei publice de subprefect al judeţului Sibiu de către doamna Prislopean Olimpia-Maria | [`hg/2017/89/`](hg/2017/89/) | in force | 1 | 2017-03-03 | 2017-03-03 |
+| Hotărârea Guvernului nr. 92/2017 pentru modificarea art. 2 din Hotărârea Guvernului nr. 1.009/2016 privind aprobarea plăţii contribuţiei voluntare a României, în lei, la Organizaţia Internaţională a Francofoniei (OIF), pentru punerea în aplicare a "Memorandumului de parteneriat cu privire la Iniţiativa Francofonă Naţională 2015-2018, în cadrul Programului OIF pentru limba franceză în relaţiile internaţionale", pentru anul 2016 | [`hg/2017/92/`](hg/2017/92/) | amending act | 1 | 2017-03-07 | 2017-03-07 |
+| Hotărârea Guvernului nr. 93/2017 pentru aprobarea Notei de fundamentare referitoare la necesitatea şi oportunitatea efectuării cheltuielilor aferente proiectului de investiţii "Navă specializată de depoluare", beneficiar Agenţia Română de Salvare a Vieţii Omeneşti pe Mare | [`hg/2017/93/`](hg/2017/93/) | amending act | 1 | 2017-03-07 | 2017-03-07 |
 | Hotărârea Guvernului nr. 94/2017 pentru aprobarea Notei de fundamentare referitoare la necesitatea şi oportunitatea efectuării cheltuielilor aferente proiectului de investiţii "Nave specializate SAR", beneficiar Agenţia Română de Salvare a Vieţii Omeneşti pe Mare | [`hg/2017/94/`](hg/2017/94/) | amending act | 1 | 2017-03-07 | 2017-03-07 |
 | Hotărârea Guvernului nr. 95/2017 privind aprobarea Notei de fundamentare referitoare la necesitatea şi oportunitatea efectuării cheltuielilor aferente proiectului de investiţii "Modernizarea şi retehnologizarea remorcherului maritim multifuncţional cu clasă de gheaţă &#171;Perseus&#187; - 6.600 CP" | [`hg/2017/95/`](hg/2017/95/) | amending act | 1 | 2017-03-07 | 2017-03-07 |
 | Hotărârea Guvernului nr. 96/2017 privind reaprobarea Notei de fundamentare referitoare la necesitatea şi oportunitatea efectuării cheltuielilor aferente proiectului de investiţii "Modernizarea şi retehnologizarea remorcherului maritim multifuncţional cu clasă de gheaţă &#171;HERCULES&#187;" | [`hg/2017/96/`](hg/2017/96/) | in force | 1 | 2017-03-07 | 2017-03-07 |
