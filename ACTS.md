@@ -1,6 +1,6 @@
 # Every act in this repository
 
-15834 acts, 29,458 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+15835 acts, 29,459 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -4950,7 +4950,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (10893, of which 5151 amending acts)
+## Government decisions (HG) (10894, of which 5152 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -8805,6 +8805,7 @@
 | Hotărârea Guvernului nr. 442/2018 privind aprobarea modelului steagului orașului Lipova, județul Arad | [`hg/2018/442/`](hg/2018/442/) | amending act | 1 | 2018-07-11 | 2018-07-11 |
 | Hotărârea Guvernului nr. 443/2018 privind aprobarea modelului steagului municipiului Sighișoara, județul Mureș | [`hg/2018/443/`](hg/2018/443/) | amending act | 1 | 2018-07-11 | 2018-07-11 |
 | Hotărârea Guvernului nr. 451/2018 privind înființarea, organizarea și funcționarea Regiei Autonome "Administrația Canalului Navigabil Bega" Timiș, sub autoritatea Ministerului Transporturilor | [`hg/2018/451/`](hg/2018/451/) | in force | 1 | 2018-06-29 | 2018-06-29 |
+| Hotărârea Guvernului nr. 459/2018 privind aprobarea bugetului de venituri şi cheltuieli pe anul 2018 al Regiei Autonome "Autoritatea Aeronautică Civilă Română", aflată sub autoritatea Ministerului Transporturilor | [`hg/2018/459/`](hg/2018/459/) | amending act | 1 | 2018-07-02 | 2018-07-02 |
 | Hotărârea Guvernului nr. 460/2018 privind modificarea anexei la Hotărârea Guvernului nr. 579/2010 pentru aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii "Modernizare DN 24C, Manoleasa-Rădăuţi-Prut, km 106 + 650 - km 142 + 250" | [`hg/2018/460/`](hg/2018/460/) | amending act | 1 | 2018-07-02 | 2018-07-02 |
 | Hotărârea Guvernului nr. 462/2018 privind funcționarea sistemului de coordonare la nivel național a implementării Strategiei Uniunii Europene pentru Regiunea Dunării | [`hg/2018/462/`](hg/2018/462/) | in force | 1 | 2018-07-03 | 2018-07-03 |
 | Hotărârea Guvernului nr. 464/2018 privind aprobarea bugetului de venituri şi cheltuieli pe anul 2018 pentru Compania Naţională Romarm - S.A., aflată sub autoritatea Ministerului Economiei | [`hg/2018/464/`](hg/2018/464/) | amending act | 1 | 2018-07-02 | 2018-07-02 |
