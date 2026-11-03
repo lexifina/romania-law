@@ -45404,6 +45404,87 @@
    ]
   },
   {
+   "slug": "legea-35-2008",
+   "path": "lege/2008/35",
+   "short": "Legea nr. 35/2008",
+   "title": "Legea nr. 35/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/90301",
+   "versions": [
+    {
+     "from": "2008-03-16",
+     "units": 82,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/90301",
+     "sha256": "8b04fadc0dc72e063e5cb46a9b9baf271e94993ed7da64ed4a51e7150d2369cb"
+    },
+    {
+     "from": "2008-05-30",
+     "units": 82,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/93607",
+     "sha256": "af2a8828b1f0005483c9125dc447d532dd3f75d8a9e4d661db245b359a58afe9"
+    },
+    {
+     "from": "2008-08-29",
+     "units": 93,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97231",
+     "sha256": "6c10ecf99ead0de8d0f2e34d564c7f2ef52a73c0a2348a2eb2cd5b89501dbfaf"
+    },
+    {
+     "from": "2009-10-24",
+     "units": 93,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/112700",
+     "sha256": "2717b650fc06516221994b2e22845a44202cf426e307bb708ba579bf899ed1e1"
+    },
+    {
+     "from": "2012-09-05",
+     "units": 93,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/140471",
+     "sha256": "b91ab8a7e11c6362e8dab7209dad04662a4fd3a0c4c87650b2a21d291d1765ed"
+    },
+    {
+     "from": "2012-11-08",
+     "units": 93,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/141069",
+     "sha256": "54618df87075aad259ed443dbea7eec5c55e55c0de5aebfe9f39f9f77696484d"
+    },
+    {
+     "from": "2012-11-23",
+     "units": 93,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142733",
+     "sha256": "6b8d7791fa826c2075d775cb790c1ca12bc210d54d5bbd0504d16ea0a7b2fedf"
+    },
+    {
+     "from": "2013-02-15",
+     "units": 93,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/143108",
+     "sha256": "d989a40a8ced5a9ec81a0b7f727c943153550f86994067459b80fb4b33b9cfba"
+    },
+    {
+     "from": "2014-02-01",
+     "units": 93,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/154839",
+     "sha256": "6c9cf660d4377d83ce7418cecc83c36d2ade772c1ef52f54cec15a205bbd3d89"
+    },
+    {
+     "from": "2014-02-13",
+     "units": 93,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/155585",
+     "sha256": "c9a2d53d1f69b1a3a30b8e269030eab4c98e6114f5ac004aa1f02521a253c881"
+    },
+    {
+     "from": "2014-02-23",
+     "units": 93,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/155586",
+     "sha256": "1fefaa6696e5d382945cb2b9c4d4547b3b9243c6ed04b2177f6c78ce11d620a9"
+    },
+    {
+     "from": "2014-03-24",
+     "units": 93,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/90301",
+     "sha256": "4e3cbc95a81926a49a2161425d4bf874c6d863df6f782737c31aec9ea984f285"
+    }
+   ]
+  },
+  {
    "slug": "legea-350-2001",
    "path": "lege/2001/350",
    "short": "Legea nr. 350/2001",

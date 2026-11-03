@@ -11630,6 +11630,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/90098"
 },
 {
+"slug": "legea-35-2008",
+"path": "lege/2008/35",
+"kind": "lege",
+"year": "2008",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 35/2008",
+"short": "Legea nr. 35/2008",
+"code": null,
+"status": "in force",
+"versions": 12,
+"from": "2008-03-16",
+"latest": "2014-03-24",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/90301"
+},
+{
 "slug": "legea-46-2008",
 "path": "lege/2008/46",
 "kind": "lege",
