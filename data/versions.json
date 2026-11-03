@@ -25499,6 +25499,51 @@
    ]
   },
   {
+   "slug": "legea-1-1991",
+   "path": "lege/1991/1",
+   "short": "Legea nr. 1/1991",
+   "title": "Legea nr. 1/1991",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1416",
+   "versions": [
+    {
+     "from": "1991-02-07",
+     "units": 30,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/1414",
+     "sha256": "f5ec37cbc69a9ef5f934c822459e4193826c6e020369936ac1b8167ff9a0e1a0"
+    },
+    {
+     "from": "1992-01-29",
+     "units": 31,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/1416",
+     "sha256": "e02582e8cd613a84a8dab668937766ca87dc33f0029652b9a8275d5f6d1fc617"
+    },
+    {
+     "from": "1992-08-14",
+     "units": 32,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/1417",
+     "sha256": "0c8e8aeae7c2fe46cfd5464773bf6d446039c15441aee574abf3dbc9591b2a4b"
+    },
+    {
+     "from": "1994-10-14",
+     "units": 36,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/1418",
+     "sha256": "75a4b68684ccfa7f2356b1dd5bb02b79993f7d9ecdf9b6dc9226478bbd583cec"
+    },
+    {
+     "from": "1999-06-24",
+     "units": 36,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1416",
+     "sha256": "be9c360c4bbbd6c3b6e6feab0c2dbb3b4daf4899dc742bf47c4ed759e99430c9"
+    },
+    {
+     "from": "2002-03-01",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/33919",
+     "sha256": "d3f75524f21e185db474672c251f86e4781cc7ad3f270f58c3a84b96b4d23a04"
+    }
+   ]
+  },
+  {
    "slug": "legea-1-1998",
    "path": "lege/1998/1",
    "short": "Legea nr. 1/1998",
@@ -29179,6 +29224,27 @@
      "units": 235,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/139677",
      "sha256": "bf6184c9bd385c3b19cd831f129bfdf099bb429a32b822a900a02a28387a5c89"
+    }
+   ]
+  },
+  {
+   "slug": "legea-124-2014",
+   "path": "lege/2014/124",
+   "short": "Legea nr. 124/2014",
+   "title": "Legea nr. 124/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/162334",
+   "versions": [
+    {
+     "from": "2014-09-27",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/161543",
+     "sha256": "4da99a52b591b0fb53e9f59fbaec703b3763c37907e576de8784190cb2fa9d30"
+    },
+    {
+     "from": "2014-10-20",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/162334",
+     "sha256": "9262c84ff1274b167da92e31640dd5d2616fb1f033587ea8f3ebc240fb05bb23"
     }
    ]
   },

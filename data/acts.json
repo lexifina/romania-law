@@ -325,6 +325,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/798"
 },
 {
+"slug": "legea-1-1991",
+"path": "lege/1991/1",
+"kind": "lege",
+"year": "1991",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 1/1991",
+"short": "Legea nr. 1/1991",
+"code": null,
+"status": "repealed 2002-03-01",
+"versions": 6,
+"from": "1991-02-07",
+"latest": "2002-03-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/1416"
+},
+{
 "slug": "legea-5-1991",
 "path": "lege/1991/5",
 "kind": "lege",
@@ -15181,6 +15198,23 @@
 "from": "2014-08-04",
 "latest": "2024-07-12",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/160331"
+},
+{
+"slug": "legea-124-2014",
+"path": "lege/2014/124",
+"kind": "lege",
+"year": "2014",
+"number": "124",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 124/2014",
+"short": "Legea nr. 124/2014",
+"code": null,
+"status": "in force",
+"versions": 2,
+"from": "2014-09-27",
+"latest": "2014-10-20",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/162334"
 },
 {
 "slug": "legea-125-2014",

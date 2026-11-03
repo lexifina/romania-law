@@ -1,6 +1,6 @@
 # Every act in this repository
 
-8127 acts, 20,907 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+8129 acts, 20,915 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -32,7 +32,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (1938, of which 757 amending acts)
+## Laws (legi) (1940, of which 757 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -54,6 +54,7 @@
 | Legea nr. 15/1990 | [`lege/1990/15/`](lege/1990/15/) | in force | 12 | 1990-09-07 | 2019-11-02 |
 | Legea nr. 26/1990 privind registrul comerțului | [`lege/1990/26/`](lege/1990/26/) | repealed 2022-11-26 | 27 | 1990-12-07 | 2022-11-26 |
 | Legea societăților nr. 31/1990 | [`lege/1990/31/`](lege/1990/31/) | in force | 43 | 1990-12-17 | 2025-12-18 |
+| Legea nr. 1/1991 | [`lege/1991/1/`](lege/1991/1/) | repealed 2002-03-01 | 6 | 1991-02-07 | 2002-03-01 |
 | Legea nr. 5/1991 | [`lege/1991/5/`](lege/1991/5/) | in force | 1 | 1991-01-26 | 1991-01-26 |
 | Legea nr. 8/1991 | [`lege/1991/8/`](lege/1991/8/) | in force | 1 | 1991-01-26 | 1991-01-26 |
 | Legea nr. 9/1991 | [`lege/1991/9/`](lege/1991/9/) | in force | 1 | 1991-01-30 | 1991-01-30 |
@@ -928,6 +929,7 @@
 | Legea nr. 113/2014 privind aprobarea Ordonanței de urgență a Guvernului nr. 35/2012 pentru modificarea și completarea unor acte normative în domeniul sanitar | [`lege/2014/113/`](lege/2014/113/) | amending act | 1 | 2014-07-19 | 2014-07-19 |
 | Legea nr. 117/2014 | [`lege/2014/117/`](lege/2014/117/) | in force | 2 | 2014-07-19 | 2014-12-17 |
 | Legea nr. 121/2014 | [`lege/2014/121/`](lege/2014/121/) | in force | 14 | 2014-08-04 | 2024-07-12 |
+| Legea nr. 124/2014 | [`lege/2014/124/`](lege/2014/124/) | in force | 2 | 2014-09-27 | 2014-10-20 |
 | Legea nr. 125/2014 privind scutirea de la plată a unor debite provenite din pensii | [`lege/2014/125/`](lege/2014/125/) | in force | 2 | 2014-10-01 | 2024-12-01 |
 | Legea nr. 130/2014 | [`lege/2014/130/`](lege/2014/130/) | in force | 1 | 2014-10-13 | 2014-10-13 |
 | Legea nr. 134/2014 | [`lege/2014/134/`](lege/2014/134/) | in force | 1 | 2014-10-19 | 2014-10-19 |
