@@ -22514,6 +22514,21 @@
    ]
   },
   {
+   "slug": "hg-932-2021",
+   "path": "hg/2021/932",
+   "short": "HG nr. 932/2021",
+   "title": "Hotărârea Guvernului nr. 932/2021 privind prelungirea stării de alertă pe teritoriul României începând cu data de 10 septembrie 2021, precum și stabilirea măsurilor care se aplică pe durata acesteia pentru prevenirea și combaterea efectelor pandemiei de COVID-19",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/246195",
+   "versions": [
+    {
+     "from": "2021-09-10",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/246195",
+     "sha256": "d740a888f5df97dab141e60087041772157d7de643f54386662f754ceaffe571"
+    }
+   ]
+  },
+  {
    "slug": "hg-947-2000",
    "path": "hg/2000/947",
    "short": "HG nr. 947/2000",
@@ -70534,6 +70549,57 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/293376",
      "sha256": "8c8dc2416412ef2dbbbcb4438617284897db97771b36cca20ce3835639806ba0"
+    }
+   ]
+  },
+  {
+   "slug": "oug-184-2002",
+   "path": "oug/2002/184",
+   "short": "OUG nr. 184/2002",
+   "title": "Ordonanța de urgență a Guvernului nr. 184/2002",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/232254",
+   "versions": [
+    {
+     "from": "2002-12-18",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/40757",
+     "sha256": "4077858b223edef6d54e915a7c8218e2d7709cfe727771e162633a88495d606d"
+    },
+    {
+     "from": "2003-03-14",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/105296",
+     "sha256": "0db75acb6d6087c57951955f7dfdda47d4fb30f9ca2d8aaf37ca59571dd09f3a"
+    },
+    {
+     "from": "2004-03-28",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/105298",
+     "sha256": "311714919f9bfbba7e1b2854f164506a631a6b8b43c4b9998b2ba185a9f482f1"
+    },
+    {
+     "from": "2005-07-25",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/105299",
+     "sha256": "b66aab032537b653a3bd0e7a4ffa755518847319768fdc0efda3b5a94222a57e"
+    },
+    {
+     "from": "2005-12-30",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/105300",
+     "sha256": "788c27a44f7734bccbe6aec1503004ccfe5f24f579806a0a4e45b4a4ba49cbb3"
+    },
+    {
+     "from": "2006-07-06",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/105301",
+     "sha256": "4a05d8cf902c0f0d91f648fc62683e9e77a30b4e3e4fc038e03f54b8bdc3c699"
+    },
+    {
+     "from": "2006-12-24",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/105302",
+     "sha256": "e4d97b73e9330efe142052bf16a91cfa3c0241aacf7d60ada7501f59578f29ab"
     }
    ]
   },

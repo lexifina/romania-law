@@ -1,6 +1,6 @@
 # Every act in this repository
 
-6581 acts, 19,068 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+6583 acts, 19,076 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -1828,7 +1828,7 @@
 | Legea nr. 241/2025 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 31/2002 privind interzicerea organizațiilor, simbolurilor și faptelor cu caracter fascist, legionar, rasist sau xenofob și a promovării cultului persoanelor vinovate de săvârșirea unor infracțiuni de genocid contra umanității și de crime de război, precum și pentru modificarea Legii nr. 157/2018 privind unele măsuri pentru prevenirea și combaterea antisemitismului | [`lege/2025/241/`](lege/2025/241/) | amending act | 1 | 2025-12-27 | 2025-12-27 |
 | Legea nr. 245/2025 pentru modificarea art. 32 alin. (7) din Legea nr. 273/2006 privind finanțele publice locale | [`lege/2025/245/`](lege/2025/245/) | amending act | 1 | 2026-01-01 | 2026-01-01 |
 
-## Emergency ordinances (OUG) (1490, of which 521 amending acts)
+## Emergency ordinances (OUG) (1491, of which 521 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -1975,6 +1975,7 @@
 | Ordonanța de urgență a Guvernului nr. 153/2002 | [`oug/2002/153/`](oug/2002/153/) | in force | 3 | 2002-11-15 | 2017-07-01 |
 | Ordonanța de urgență a Guvernului nr. 155/2002 privind aprobarea scoaterii din rezervele de stat a unor cantităţi de combustibili pentru Societatea Comercială de Producere a Energiei Electrice şi Termice "Termoelectrica" - S.A., Societatea Comercială "Electrocentrale" Deva - S.A. şi centralele termice şi electrice de termoficare aflate în administrarea consiliilor judeţene şi locale | [`oug/2002/155/`](oug/2002/155/) | amending act | 2 | 2002-11-15 | 2003-04-23 |
 | Ordonanța de urgență a Guvernului nr. 179/2002 | [`oug/2002/179/`](oug/2002/179/) | in force | 4 | 2003-01-01 | 2019-10-31 |
+| Ordonanța de urgență a Guvernului nr. 184/2002 | [`oug/2002/184/`](oug/2002/184/) | in force | 7 | 2002-12-18 | 2006-12-24 |
 | Ordonanța de urgență a Guvernului nr. 187/2002 | [`oug/2002/187/`](oug/2002/187/) | in force | 4 | 2002-12-23 | 2009-01-01 |
 | Ordonanța de urgență a Guvernului nr. 189/2002 | [`oug/2002/189/`](oug/2002/189/) | in force | 13 | 2003-02-21 | 2015-12-11 |
 | Ordonanța de urgență a Guvernului nr. 191/2002 | [`oug/2002/191/`](oug/2002/191/) | in force | 4 | 2002-12-24 | 2004-03-17 |
@@ -3781,7 +3782,7 @@
 | Ordonanța Guvernului nr. 21/2025 pentru modificarea și completarea Legii nr. 431/2023 privind asigurarea unui nivel minim global de impozitare a grupurilor de întreprinderi multinaționale și a grupurilor naționale de mari dimensiuni | [`og/2025/21/`](og/2025/21/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 | Ordonanța Guvernului nr. 22/2025 pentru modificarea și completarea Legii nr. 227/2015 privind Codul fiscal | [`og/2025/22/`](og/2025/22/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 
-## Government decisions (HG) (2808, of which 928 amending acts)
+## Government decisions (HG) (2809, of which 928 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -5904,6 +5905,7 @@
 | Hotărârea Guvernului nr. 928/2021 pentru modificarea și completarea titlului VII din Normele metodologice de aplicare a Legii nr. 227/2015 privind Codul fiscal , aprobate prin Hotărârea Guvernului nr. 1/2016 | [`hg/2021/928/`](hg/2021/928/) | amending act | 1 | 2021-09-14 | 2021-09-14 |
 | Hotărârea Guvernului nr. 929/2021 privind aprobarea bugetului de venituri și cheltuieli pe anul 2021 al Societății Naționale de Transport Feroviar de Călători "C.F.R. - Călători" - S.A., aflată sub autoritatea Ministerului Transporturilor și Infrastructurii | [`hg/2021/929/`](hg/2021/929/) | amending act | 1 | 2021-09-14 | 2021-09-14 |
 | Hotărârea Guvernului nr. 931/2021 privind procedura de desemnare, atribuțiile, modalitatea de organizare a activității și procedura de evaluare a performanțelor profesionale individuale ale consilierului de etică, precum și pentru aprobarea modalității de raportare a instituțiilor și autorităților în scopul asigurării implementării, monitorizării și controlului respectării principiilor și normelor privind conduita funcționarilor publici | [`hg/2021/931/`](hg/2021/931/) | amending act | 1 | 2021-09-17 | 2021-09-17 |
+| Hotărârea Guvernului nr. 932/2021 privind prelungirea stării de alertă pe teritoriul României începând cu data de 10 septembrie 2021, precum și stabilirea măsurilor care se aplică pe durata acesteia pentru prevenirea și combaterea efectelor pandemiei de COVID-19 | [`hg/2021/932/`](hg/2021/932/) | in force | 1 | 2021-09-10 | 2021-09-10 |
 | Hotărârea Guvernului nr. 978/2021 privind aprobarea bugetului de venituri și cheltuieli pe anul 2021 al Companiei Naționale „Administrația Porturilor Dunării Maritime“ - S.A. Galați, aflată sub autoritatea Ministerului Transporturilor și Infrastructurii | [`hg/2021/978/`](hg/2021/978/) | amending act | 1 | 2021-09-15 | 2021-09-15 |
 | Hotărârea Guvernului nr. 979/2021 privind aprobarea bugetului de venituri și cheltuieli pe anul 2021 pentru Societatea CUPRU MIN - S.A. Abrud, aflată sub autoritatea Ministerului Economiei, Antreprenoriatului și Turismului | [`hg/2021/979/`](hg/2021/979/) | amending act | 1 | 2021-09-15 | 2021-09-15 |
 | Hotărârea Guvernului nr. 989/2021 privind aprobarea modelului de steag al județului Covasna | [`hg/2021/989/`](hg/2021/989/) | amending act | 1 | 2021-09-29 | 2021-09-29 |
