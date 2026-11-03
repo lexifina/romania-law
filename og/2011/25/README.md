@@ -18,3 +18,9 @@ Act id: `og-25-2011` (tags `og-25-2011/<day>`; `python tools/on.py <day> og-25-2
 - OG nr. 25/2011: the ordinance numbers its own articles in Roman numerals (I, II, ...); each is kept under its Roman title and filed by its value (art-001 for Articolul I), so the files sort in order. The articles of other acts it quotes stay in the text of the article that quotes them.
 - OG nr. 25/2011: the changes of the form of 9 July 2012 (portal page 139558) are credited to Legea nr. 113/2012: its form header names Legea nr. 113/2012 as the only act included.
 - OG nr. 25/2011: the portal editorial notes printed as paragraphs of an article (on a Constitutional Court ruling, a rectification, a provision put back in force) are not text: 2 such paragraphs across all forms, for example «Lit. g) a alin. (1) al art. 7 a fost modificată art. I din L», «Lit. h) a alin. (1) al art. 7 a fost modificată art. I din L».
+
+## Credits corrected
+
+These changes were first published credited to another law. The words are unchanged; `git blame` still names the commit that wrote them, and `data/credits.csv` lists every corrected credit.
+
+- `art-001.md`, in force from 2012-07-09: Legea nr. 113/2012 (first published as no law named).
