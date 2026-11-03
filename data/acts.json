@@ -53,6 +53,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/28172"
 },
 {
+"slug": "legea-21-1924",
+"path": "lege/1924/21",
+"kind": "lege",
+"year": "1924",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 21/1924 pentru persoanele juridice (Asociații și Fundații)",
+"short": "Legea nr. 21/1924",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "1924-02-06",
+"latest": "1924-02-06",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/8"
+},
+{
 "slug": "legea-95-1925",
 "path": "lege/1925/95",
 "kind": "lege",

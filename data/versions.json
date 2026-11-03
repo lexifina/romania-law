@@ -19727,6 +19727,21 @@
    ]
   },
   {
+   "slug": "legea-21-1924",
+   "path": "lege/1924/21",
+   "short": "Legea nr. 21/1924",
+   "title": "Legea nr. 21/1924 pentru persoanele juridice (Asociații și Fundații)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/8",
+   "versions": [
+    {
+     "from": "1924-02-06",
+     "units": 107,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/8",
+     "sha256": "56fd418b4a1175d0cbad30c10e10b29f998c84d63f488b2e9afee90e4d574fa9"
+    }
+   ]
+  },
+  {
    "slug": "legea-21-1991",
    "path": "lege/1991/21",
    "short": "Legea nr. 21/1991",

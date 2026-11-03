@@ -1,6 +1,6 @@
 # Every act in this repository
 
-6072 acts, 17,442 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+6073 acts, 17,443 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -32,12 +32,13 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (1784, of which 644 amending acts)
+## Laws (legi) (1785, of which 644 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
 | Legea nr. 721/1917 | [`lege/1917/721/`](lege/1917/721/) | in force | 1 | 1917-07-20 | 1917-07-20 |
 | Legea nr. 2908/1921 | [`lege/1921/2908/`](lege/1921/2908/) | in force | 1 | 1921-07-09 | 1921-07-09 |
+| Legea nr. 21/1924 pentru persoanele juridice (Asociații și Fundații) | [`lege/1924/21/`](lege/1924/21/) | in force | 1 | 1924-02-06 | 1924-02-06 |
 | Legea nr. 95/1925 | [`lege/1925/95/`](lege/1925/95/) | in force | 1 | 1925-06-14 | 1925-06-14 |
 | Legea nr. 144/1925 | [`lege/1925/144/`](lege/1925/144/) | in force | 1 | 1925-12-20 | 1925-12-20 |
 | Legea nr. 150/1930 | [`lege/1930/150/`](lege/1930/150/) | in force | 1 | 1930-06-12 | 1930-06-12 |
