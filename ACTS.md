@@ -1,6 +1,6 @@
 # Every act in this repository
 
-10562 acts, 24,129 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+10563 acts, 24,130 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -4357,7 +4357,7 @@
 | Ordonanța Guvernului nr. 21/2025 pentru modificarea și completarea Legii nr. 431/2023 privind asigurarea unui nivel minim global de impozitare a grupurilor de întreprinderi multinaționale și a grupurilor naționale de mari dimensiuni | [`og/2025/21/`](og/2025/21/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 | Ordonanța Guvernului nr. 22/2025 pentru modificarea și completarea Legii nr. 227/2015 privind Codul fiscal | [`og/2025/22/`](og/2025/22/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 
-## Government decisions (HG) (6213, of which 2592 amending acts)
+## Government decisions (HG) (6214, of which 2592 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -6582,6 +6582,7 @@
 | Hotărârea Guvernului nr. 677/2021 privind modificarea Hotărârii Guvernului nr. 719/2020 pentru aprobarea procedurii de decontare și de plată a sumelor acordate în baza Ordonanței de urgență a Guvernului nr. 132/2020 privind măsuri de sprijin destinate salariaților și angajatorilor în contextul situației epidemiologice determinate de răspândirea coronavirusului SARS-CoV-2, precum și pentru stimularea creșterii ocupării forței de muncă | [`hg/2021/677/`](hg/2021/677/) | amending act | 1 | 2021-06-25 | 2021-06-25 |
 | Hotărârea Guvernului nr. 679/2021 pentru aprobarea cuantumului şi a plăţii cotizaţiei anuale de participare a României la Conferinţa de la Haga de Drept Internaţional Privat, pentru anul financiar 1 iulie 2020-30 iunie 2021 | [`hg/2021/679/`](hg/2021/679/) | amending act | 1 | 2021-06-29 | 2021-06-29 |
 | Hotărârea Guvernului nr. 681/2021 privind aprobarea obiectivelor etapei a XXI-a 2021 a Programului de realizare a Sistemului naţional antigrindină şi de creştere a precipitaţiilor pe perioada 2010-2024, aprobat prin Hotărârea Guvernului nr. 256/2010 | [`hg/2021/681/`](hg/2021/681/) | amending act | 1 | 2021-06-29 | 2021-06-29 |
+| Hotărârea Guvernului nr. 682/2021 privind declanşarea procedurilor de expropriere a tuturor imobilelor proprietate privată care constituie coridorul de expropriere al lucrării de utilitate publică de interes naţional "Amenajare sens giratoriu pe DN 73 km 3 + 250 la intersecţia DN 73 cu DJ 703 K pe raza localităţii Mărăcineni" | [`hg/2021/682/`](hg/2021/682/) | in force | 1 | 2021-06-29 | 2021-06-29 |
 | Hotărârea Guvernului nr. 684/2021 privind modificarea datelor de identificare şi a valorii de inventar ale imobilului aflat în domeniul public al statului şi în administrarea Penitenciarului Mărgineni din subordinea Administraţiei Naţionale a Penitenciarelor, precum şi trecerea acestuia din domeniul public în domeniul privat al statului, în vederea scoaterii din funcţiune şi demolării | [`hg/2021/684/`](hg/2021/684/) | amending act | 1 | 2021-07-06 | 2021-07-06 |
 | Hotărârea Guvernului nr. 687/2021 privind actualizarea valorilor de inventar a unor bunuri aflate în domeniul public al statului şi în administrarea Spitalului Clinic Căi Ferate Oradea, unitate aflată în subordinea Ministerului Transporturilor şi Infrastructurii, prevăzute în anexa nr. 16 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului | [`hg/2021/687/`](hg/2021/687/) | amending act | 1 | 2021-07-06 | 2021-07-06 |
 | Hotărârea Guvernului nr. 688/2021 privind aprobarea unor modificări şi completări în inventarul centralizat al bunurilor din domeniul public al statului aflate în administrarea Ministerului Apărării Naţionale, situate în judeţele Tulcea, Maramureş, Suceava, Iaşi şi în municipiul Timişoara | [`hg/2021/688/`](hg/2021/688/) | amending act | 1 | 2021-07-06 | 2021-07-06 |
