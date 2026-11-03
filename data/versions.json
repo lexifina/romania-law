@@ -68870,6 +68870,45 @@
    ]
   },
   {
+   "slug": "og-56-1998",
+   "path": "og/1998/56",
+   "short": "OG nr. 56/1998",
+   "title": "Ordonanța Guvernului nr. 56/1998",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/168190",
+   "versions": [
+    {
+     "from": "1998-08-25",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/15545",
+     "sha256": "1c2bc174b6069ca89c41ccbc9bf7c78efebbf1d148069845e9b0cd573ebd4069"
+    },
+    {
+     "from": "1999-01-01",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/15545",
+     "sha256": "1c2bc174b6069ca89c41ccbc9bf7c78efebbf1d148069845e9b0cd573ebd4069"
+    },
+    {
+     "from": "1999-01-01",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49742",
+     "sha256": "e6ec18882d23cf19ff93e66c23b23e67be88e7ef57496d67ac4765bdc471e546"
+    },
+    {
+     "from": "2001-07-20",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168189",
+     "sha256": "e1c602bfb29fd835b22a84fb75afc2f225a2e2a8cd091778b040705c80d8580b"
+    },
+    {
+     "from": "2001-07-27",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168190",
+     "sha256": "8da75f996e3f1a679e60ea7bce77ea7a8c9321eef126be66a3e835c0ade593a0"
+    }
+   ]
+  },
+  {
    "slug": "og-57-2002",
    "path": "og/2002/57",
    "short": "OG nr. 57/2002",
@@ -91270,6 +91309,63 @@
      "units": 65,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/285999",
      "sha256": "5986a794c51466596a91b2db90f0c65c6480d610d6697cea2d5393a9374d9000"
+    }
+   ]
+  },
+  {
+   "slug": "oug-78-2000",
+   "path": "oug/2000/78",
+   "short": "OUG nr. 78/2000",
+   "title": "Ordonanța de urgență a Guvernului nr. 78/2000",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/22923",
+   "versions": [
+    {
+     "from": "2000-07-22",
+     "units": 58,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/22923",
+     "sha256": "3da8fe38ffb89d86bab8de07c39f2ca8900e498930342c6cf7efc91c72f501af"
+    },
+    {
+     "from": "2001-07-25",
+     "units": 69,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/56977",
+     "sha256": "7547357b352a3da68f73def194251ceceb7e71d8b34df5e118015ea59f74e39c"
+    },
+    {
+     "from": "2006-09-19",
+     "units": 60,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/75967",
+     "sha256": "eb102d1a46c1cd26fcde5d06d241073e982a25fc07084b0e8a10c481ccb59d02"
+    },
+    {
+     "from": "2007-01-01",
+     "units": 60,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/75967",
+     "sha256": "eb102d1a46c1cd26fcde5d06d241073e982a25fc07084b0e8a10c481ccb59d02"
+    },
+    {
+     "from": "2007-01-21",
+     "units": 60,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/78919",
+     "sha256": "4396818c058c23e7f547139ee8ad1ed61abfa3f7f69ad764824b8e774903696f"
+    },
+    {
+     "from": "2007-05-08",
+     "units": 60,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/127775",
+     "sha256": "dd9edc48f47fd9a0f99a8ed16ee22a85838155ad4bbfafb6ffe5ce1ddf80437b"
+    },
+    {
+     "from": "2011-06-30",
+     "units": 60,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/130763",
+     "sha256": "2998ece78a7a7c7d28afbf71b6f3f73639c0787d3aeccae3cba5f4e53a490bf1"
+    },
+    {
+     "from": "2011-11-28",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/133184",
+     "sha256": "f8b8455592280c6d58d683215aa540d6d176574d34b57856c576df0fb7c0fcc4"
     }
    ]
   },
@@ -123698,6 +123794,21 @@
    ]
   },
   {
+   "slug": "hg-228-2022",
+   "path": "hg/2022/228",
+   "short": "HG nr. 228/2022",
+   "title": "Hotărârea Guvernului nr. 228/2022 privind trecerea unui imobil din domeniul public al statului şi din administrarea Agenţiei de Plăţi şi Intervenţie pentru Agricultură - Centrul Judeţean Gorj în domeniul public al oraşului Novaci şi pentru modificarea anexei nr. 3 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/252407",
+   "versions": [
+    {
+     "from": "2022-03-07",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/252407",
+     "sha256": "ca421bbdb037a5354fd8975579911afe7bdf9fcbf78e7e6f48c6e499c37c96f6"
+    }
+   ]
+  },
+  {
    "slug": "hg-228-2024",
    "path": "hg/2024/228",
    "short": "HG nr. 228/2024",
@@ -123766,6 +123877,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/188404",
      "sha256": "1b3bb6e08269d28b9f644d476f128d522c9ddbcf29dc57575dae2899e0ad279b"
+    }
+   ]
+  },
+  {
+   "slug": "hg-229-2022",
+   "path": "hg/2022/229",
+   "short": "HG nr. 229/2022",
+   "title": "Hotărârea Guvernului nr. 229/2022 privind înscrierea unui imobil - teren şi construcţii - în inventarul centralizat al bunurilor din domeniul public al statului şi darea acestuia în administrarea Ministerului Educaţiei pentru Universitatea \"Constantin Brâncuşi\" din Târgu Jiu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/252408",
+   "versions": [
+    {
+     "from": "2022-03-07",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/252408",
+     "sha256": "c3cab8edad613e100c6b5288b2eedd6af6aa939edc0021a143532a08738dffe6"
     }
    ]
   },
@@ -126203,6 +126329,21 @@
    ]
   },
   {
+   "slug": "hg-267-2022",
+   "path": "hg/2022/267",
+   "short": "HG nr. 267/2022",
+   "title": "Hotărârea Guvernului nr. 267/2022 privind înscrierea unor imobile, terenuri, în inventarul centralizat al bunurilor din domeniul public al statului şi darea acestora în administrarea Universităţii de Medicină, Farmacie, Ştiinţe şi Tehnologie \"George Emil Palade\" din Târgu Mureş",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/252339",
+   "versions": [
+    {
+     "from": "2022-03-03",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/252339",
+     "sha256": "bfcb66c2b8456df8cb6e651cfc1a746f377ec5cebe3b45fe889d9c8fa61949d4"
+    }
+   ]
+  },
+  {
    "slug": "hg-267-2023",
    "path": "hg/2023/267",
    "short": "HG nr. 267/2023",
@@ -126424,6 +126565,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/224664",
      "sha256": "3af365d4d6822c93211a8d02948bca124d0fe7e36739459131b86966525ebbb5"
+    }
+   ]
+  },
+  {
+   "slug": "hg-270-2022",
+   "path": "hg/2022/270",
+   "short": "HG nr. 270/2022",
+   "title": "Hotărârea Guvernului nr. 270/2022 privind modificarea valorii de inventar şi a descrierii tehnice a unor imobile aflate în domeniul public al statului şi în administrarea Penitenciarului Botoşani, din subordinea Administraţiei Naţionale a Penitenciarelor, precum şi trecerea acestora din domeniul public în domeniul privat al statului, în vederea scoaterii din funcţiune şi demolării",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/252340",
+   "versions": [
+    {
+     "from": "2022-03-03",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/252340",
+     "sha256": "9594679279d460d1b277dd3dbcd8035475344621dd10a37874e548a4ea4abb02"
     }
    ]
   },
@@ -126890,6 +127046,21 @@
    ]
   },
   {
+   "slug": "hg-280-2022",
+   "path": "hg/2022/280",
+   "short": "HG nr. 280/2022",
+   "title": "Hotărârea Guvernului nr. 280/2022 privind eliberarea domnului Tasnadi Istvan-Szilard din funcţia de prefect al judeţului Cluj",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/252311",
+   "versions": [
+    {
+     "from": "2022-03-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/252311",
+     "sha256": "668b26651e336c3cb487c67856001a6719f018ba065909ebe76fec4a4ac15005"
+    }
+   ]
+  },
+  {
    "slug": "hg-280-2024",
    "path": "hg/2024/280",
    "short": "HG nr. 280/2024",
@@ -126901,6 +127072,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/280737",
      "sha256": "a24f13b311b4e33d7f5dab3985c6fef99257deed85916fcd497027108fb1f8af"
+    }
+   ]
+  },
+  {
+   "slug": "hg-281-2022",
+   "path": "hg/2022/281",
+   "short": "HG nr. 281/2022",
+   "title": "Hotărârea Guvernului nr. 281/2022 privind eliberarea doamnei Munteanu Irina din funcţia de subprefect al judeţului Cluj",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/252312",
+   "versions": [
+    {
+     "from": "2022-03-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/252312",
+     "sha256": "e56dd00cb7b29284df0a0eccb74a5693272ff8be3aa0448dc5c051c80d3d3bfd"
     }
    ]
   },
@@ -126986,6 +127172,21 @@
    ]
   },
   {
+   "slug": "hg-282-2022",
+   "path": "hg/2022/282",
+   "short": "HG nr. 282/2022",
+   "title": "Hotărârea Guvernului nr. 282/2022 privind eliberarea doamnei Macri Veronica din funcţia de subprefect al judeţului Galaţi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/252313",
+   "versions": [
+    {
+     "from": "2022-03-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/252313",
+     "sha256": "b5abacb2d6e36a4b3d25a04668d410f3ddaf661c7e175ccc19352f4b2af28f5b"
+    }
+   ]
+  },
+  {
    "slug": "hg-282-2024",
    "path": "hg/2024/282",
    "short": "HG nr. 282/2024",
@@ -127027,6 +127228,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42483",
      "sha256": "acca5f97a3914ccdf0740f50e93b82bde4bdbe0e9149e1c323617abc10919404"
+    }
+   ]
+  },
+  {
+   "slug": "hg-283-2022",
+   "path": "hg/2022/283",
+   "short": "HG nr. 283/2022",
+   "title": "Hotărârea Guvernului nr. 283/2022 privind eliberarea domnului Drăguşin Virgil din funcţia de subprefect al judeţului Gorj",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/252314",
+   "versions": [
+    {
+     "from": "2022-03-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/252314",
+     "sha256": "17d613480f505a29e605339fdf45f5ba70a0e99a7b0c1b19e2ed2172dd8e4fa5"
     }
    ]
   },
@@ -127241,6 +127457,21 @@
    ]
   },
   {
+   "slug": "hg-286-2022",
+   "path": "hg/2022/286",
+   "short": "HG nr. 286/2022",
+   "title": "Hotărârea Guvernului nr. 286/2022 privind numirea domnului Halici Nicuşor în funcţia de prefect al judeţului Vrancea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/252317",
+   "versions": [
+    {
+     "from": "2022-03-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/252317",
+     "sha256": "ae00e38d8c416b36bc3091f89423b678866b8b82d47d66958a29a5d7468e06ba"
+    }
+   ]
+  },
+  {
    "slug": "hg-286-2023",
    "path": "hg/2023/286",
    "short": "HG nr. 286/2023",
@@ -127267,6 +127498,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/280720",
      "sha256": "981f69bed373025713b0ab604ee397eebf4c9cf8dcffa6fabc8188b0bc44fd81"
+    }
+   ]
+  },
+  {
+   "slug": "hg-287-2022",
+   "path": "hg/2022/287",
+   "short": "HG nr. 287/2022",
+   "title": "Hotărârea Guvernului nr. 287/2022 privind numirea domnului Tasnadi Istvan-Szilard în funcţia de subprefect al judeţului Cluj",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/252318",
+   "versions": [
+    {
+     "from": "2022-03-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/252318",
+     "sha256": "7993eaabf59e754aec4746acf36e9751837ebd99ec1a47638b95b02321a66dfe"
     }
    ]
   },
@@ -127328,6 +127574,21 @@
    ]
   },
   {
+   "slug": "hg-288-2022",
+   "path": "hg/2022/288",
+   "short": "HG nr. 288/2022",
+   "title": "Hotărârea Guvernului nr. 288/2022 privind numirea domnului Ciortea Răzvan-Iulian în funcţia de subprefect al judeţului Cluj",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/252319",
+   "versions": [
+    {
+     "from": "2022-03-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/252319",
+     "sha256": "5b53805c766120e9be7190de4751c986914a1f5989bdfcce8453744e91f4b9db"
+    }
+   ]
+  },
+  {
    "slug": "hg-288-2024",
    "path": "hg/2024/288",
    "short": "HG nr. 288/2024",
@@ -127369,6 +127630,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/157614",
      "sha256": "a945212629abf38d2a03dc05dd1a3eb117a72b045c0b31e115cb0880d6281d8d"
+    }
+   ]
+  },
+  {
+   "slug": "hg-289-2022",
+   "path": "hg/2022/289",
+   "short": "HG nr. 289/2022",
+   "title": "Hotărârea Guvernului nr. 289/2022 privind numirea domnului Manea Ciprian în funcţia de subprefect al judeţului Galaţi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/252320",
+   "versions": [
+    {
+     "from": "2022-03-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/252320",
+     "sha256": "d33c61c96c0fcf3f932b299bb9beb2b449367b9342ce6ee05f59cda2fe308e0d"
     }
    ]
   },
@@ -127457,6 +127733,21 @@
    ]
   },
   {
+   "slug": "hg-290-2022",
+   "path": "hg/2022/290",
+   "short": "HG nr. 290/2022",
+   "title": "Hotărârea Guvernului nr. 290/2022 privind numirea domnului Istrate Mihai în funcţia de subprefect al judeţului Gorj",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/252321",
+   "versions": [
+    {
+     "from": "2022-03-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/252321",
+     "sha256": "08bfaec7d65808d3b24208ec9b52588d42e990fc98c4e6a7cf6b0d3b7ab2239f"
+    }
+   ]
+  },
+  {
    "slug": "hg-290-2023",
    "path": "hg/2023/290",
    "short": "HG nr. 290/2023",
@@ -127513,6 +127804,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/177767",
      "sha256": "03c23da25f0c84d7c58a5401daf190c0712d8d1631ee3dcda1b8cd6e607479ce"
+    }
+   ]
+  },
+  {
+   "slug": "hg-291-2022",
+   "path": "hg/2022/291",
+   "short": "HG nr. 291/2022",
+   "title": "Hotărârea Guvernului nr. 291/2022 privind numirea domnului Memet Timur în funcţia de subprefect al judeţului Tulcea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/252322",
+   "versions": [
+    {
+     "from": "2022-03-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/252322",
+     "sha256": "386f501e83145b25949018d5ae3e0e12018e007da862c37429a33e90087515f8"
     }
    ]
   },
@@ -127757,6 +128063,21 @@
    ]
   },
   {
+   "slug": "hg-295-2022",
+   "path": "hg/2022/295",
+   "short": "HG nr. 295/2022",
+   "title": "Hotărârea Guvernului nr. 295/2022 pentru modificarea şi completarea Hotărârii Guvernului nr. 365/2020 privind aprobarea schemei \"Ajutor de minimis pentru aplicarea programului de susţinere a crescătorilor de porci de reproducţie din rasele Bazna şi/sau Mangaliţa\", pentru perioada 2020-2022, precum şi a unor măsuri de aplicare a acesteia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/252347",
+   "versions": [
+    {
+     "from": "2022-03-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/252347",
+     "sha256": "0859be49c5d7d04b15204c50267e14e78a1886d795641d0aaecc507fe15a6225"
+    }
+   ]
+  },
+  {
    "slug": "hg-295-2023",
    "path": "hg/2023/295",
    "short": "HG nr. 295/2023",
@@ -127804,6 +128125,21 @@
      "units": 15,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/295995",
      "sha256": "6cc1e69ca544c952cc4c41cd41abcb73ea608299f3a9237771100eec46e997b8"
+    }
+   ]
+  },
+  {
+   "slug": "hg-296-2022",
+   "path": "hg/2022/296",
+   "short": "HG nr. 296/2022",
+   "title": "Hotărârea Guvernului nr. 296/2022 privind acceptarea unei donaţii de teste antigenice rapide de către statul român, prin Ministerul Sănătăţii, în vederea diagnosticării infecţiei cu SARS-CoV-2 şi darea acestora în administrare Ministerului Sănătăţii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/252356",
+   "versions": [
+    {
+     "from": "2022-03-03",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/252356",
+     "sha256": "1425c4dd4f381ba7efb81ad183b6000b27b8db11bc9916feba0f94590eb47602"
     }
    ]
   },
@@ -128114,6 +128450,21 @@
    ]
   },
   {
+   "slug": "hg-300-2022",
+   "path": "hg/2022/300",
+   "short": "HG nr. 300/2022",
+   "title": "Hotărârea Guvernului nr. 300/2022 privind desfiinţarea Spitalului Clinic de Boli Infecţioase Braşov şi reorganizarea acestuia ca structură fără personalitate juridică în cadrul Spitalului Clinic de Pneumoftiziologie Braşov",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/252443",
+   "versions": [
+    {
+     "from": "2022-03-08",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/252443",
+     "sha256": "6b18792f57b50068519e1c95309440a9e7c25bd7d551aedc70927c5af135aa20"
+    }
+   ]
+  },
+  {
    "slug": "hg-300-2024",
    "path": "hg/2024/300",
    "short": "HG nr. 300/2024",
@@ -128161,6 +128512,21 @@
      "units": 11,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/295974",
      "sha256": "1ad6c9c59d08f0a88de833dac3cda120d2ee5c417d7ed87ad036b3feda328c63"
+    }
+   ]
+  },
+  {
+   "slug": "hg-302-2022",
+   "path": "hg/2022/302",
+   "short": "HG nr. 302/2022",
+   "title": "Hotărârea Guvernului nr. 302/2022 pentru aprobarea normelor privind modul de constituire, organizare şi funcţionare a comisiilor paritare, componenţa, atribuţiile şi procedura de lucru ale acestora, precum şi a normelor privind încheierea şi monitorizarea aplicării acordurilor colective",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/252429",
+   "versions": [
+    {
+     "from": "2022-05-06",
+     "units": 36,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/252429",
+     "sha256": "3667021b409b7956d6ae5f5f109c07e80b61e633b5e922decaf91f7ded0f9b77"
     }
    ]
   },
@@ -128420,6 +128786,21 @@
    ]
   },
   {
+   "slug": "hg-306-2022",
+   "path": "hg/2022/306",
+   "short": "HG nr. 306/2022",
+   "title": "Hotărârea Guvernului nr. 306/2022 privind aprobarea unor modificări şi completări în inventarul centralizat al bunurilor din domeniul public al statului aflate în administrarea Ministerului Apărării Naţionale, situate în judeţele Buzău, Olt, Alba, Ilfov, Suceava, Vrancea, Braşov, Covasna, Prahova, Dolj şi municipiul Bucureşti, şi modificarea anexei nr. 4 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/252446",
+   "versions": [
+    {
+     "from": "2022-03-08",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/252446",
+     "sha256": "52fa958f5119e54d3199d4c3c8f40e818a97997d8ebc6cca48049edf14e97c93"
+    }
+   ]
+  },
+  {
    "slug": "hg-306-2023",
    "path": "hg/2023/306",
    "short": "HG nr. 306/2023",
@@ -128506,6 +128887,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/214191",
      "sha256": "fa57d9da5cbcc61366508684578100abe6d4ba49c894cb066726f288f7d8a9c1"
+    }
+   ]
+  },
+  {
+   "slug": "hg-308-2022",
+   "path": "hg/2022/308",
+   "short": "HG nr. 308/2022",
+   "title": "Hotărârea Guvernului nr. 308/2022 privind actualizarea valorilor de inventar ale unor bunuri imobile cuprinse în anexa nr. 10 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului, aflate în administrarea oficiilor de cadastru şi publicitate imobiliară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/252422",
+   "versions": [
+    {
+     "from": "2022-03-07",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/252422",
+     "sha256": "5c86432652046018cf7157c88fc840ac65aaaff55e56ecc3d1a18706df1330d4"
     }
    ]
   },
@@ -128860,6 +129256,21 @@
      "units": 3,
      "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/200671",
      "sha256": "744f6dee9bd5f863585a4f76ce17b3d2b84400b8048f4887cbad6da0303e7ed9"
+    }
+   ]
+  },
+  {
+   "slug": "hg-314-2022",
+   "path": "hg/2022/314",
+   "short": "HG nr. 314/2022",
+   "title": "Hotărârea Guvernului nr. 314/2022 privind aprobarea bugetului de venituri şi cheltuieli pe anul 2022 al Regiei Autonome \"Rasirom\", aflată sub autoritatea Serviciului Român de Informaţi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/252520",
+   "versions": [
+    {
+     "from": "2022-03-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/252520",
+     "sha256": "83be5161d65ebbf532a9ae8240c5b7aec4e222d7a36913280e4bed7f3f052371"
     }
    ]
   },
@@ -129439,6 +129850,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/200640",
      "sha256": "4c7f563eb42286a5ff68b11135fec132ba9d58304a126434094e3f3c1335cf66"
+    }
+   ]
+  },
+  {
+   "slug": "hg-325-2022",
+   "path": "hg/2022/325",
+   "short": "HG nr. 325/2022",
+   "title": "Hotărârea Guvernului nr. 325/2022 privind aprobarea nivelului cotizaţiei pentru realizarea interconectării cu instituţii similare internaţionale şi/sau cu organizaţii internaţionale de schimb de organe, în anul 2022",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/252585",
+   "versions": [
+    {
+     "from": "2022-03-14",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/252585",
+     "sha256": "848cc6e29b9f7d66cd258da9d33f425e7001822699844210e9c491030e040274"
     }
    ]
   },
@@ -196151,6 +196577,21 @@
    ]
   },
   {
+   "slug": "legea-44-2022",
+   "path": "lege/2022/44",
+   "short": "Legea nr. 44/2022",
+   "title": "Legea nr. 44/2022 privind cooperarea judiciară dintre România şi Curtea Penală Internaţională",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/252486",
+   "versions": [
+    {
+     "from": "2022-03-12",
+     "units": 27,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/252486",
+     "sha256": "d2229f336a4dc81d4476791122a9f7656c4532231a83c2263ac38f72442d878d"
+    }
+   ]
+  },
+  {
    "slug": "legea-44-2024",
    "path": "lege/2024/44",
    "short": "Legea nr. 44/2024",
@@ -196402,6 +196843,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/224689",
      "sha256": "d2c49c6953f7ec5363e08a23f9faf9f3f596dc74fec199d39b23b9beea5c69b3"
+    }
+   ]
+  },
+  {
+   "slug": "legea-47-2022",
+   "path": "lege/2022/47",
+   "short": "Legea nr. 47/2022",
+   "title": "Legea nr. 47/2022 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 61/2021 pentru prorogarea termenului prevăzut la art. III alin. (3) din Ordonanţa de urgenţă a Guvernului nr. 1/2020 privind unele măsuri fiscal-bugetare şi pentru modificarea şi completarea unor acte normative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/252497",
+   "versions": [
+    {
+     "from": "2022-03-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/252497",
+     "sha256": "ec1fcb32860a7e765f504a08894d84336f4fdbab33fa5b8a9cd94062b016857b"
     }
    ]
   },
@@ -197059,6 +197515,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/240132",
      "sha256": "bbfcddf9e7837fe96f05199dea133bdb73fc955c7c870fdae8316ca9d81a054d"
+    }
+   ]
+  },
+  {
+   "slug": "legea-52-2022",
+   "path": "lege/2022/52",
+   "short": "Legea nr. 52/2022",
+   "title": "Legea nr. 52/2022 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 78/2021 privind autorizarea Ministerului Tineretului şi Sportului de a transfera documentaţia tehnică achiziţionată prin Programul operaţional Asistenţă tehnică 2014-2020 către direcţiile judeţene pentru sport şi tineret",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/252620",
+   "versions": [
+    {
+     "from": "2022-03-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/252620",
+     "sha256": "b67608cf59a8ae8be46df2c615ec988c3d1222ac7240bddb66bc686d2d7a667e"
     }
    ]
   },

@@ -1,6 +1,6 @@
 # Every act in this repository
 
-9985 acts, 23,482 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+10012 acts, 23,520 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -32,7 +32,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (2186, of which 912 amending acts)
+## Laws (legi) (2189, of which 914 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -1521,10 +1521,13 @@
 | Legea nr. 22/2022 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 194/2002 privind regimul străinilor în România | [`lege/2022/22/`](lege/2022/22/) | amending act | 1 | 2022-01-17 | 2022-01-17 |
 | Legea nr. 24/2022 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 158/2005 privind concediile și indemnizațiile de asigurări sociale de sănătate | [`lege/2022/24/`](lege/2022/24/) | amending act | 2 | 2022-04-16 | 2023-02-16 |
 | Legea nr. 40/2022 pentru completarea art. 87 din Legea nr. 448/2006 privind protecția și promovarea drepturilor persoanelor cu handicap | [`lege/2022/40/`](lege/2022/40/) | amending act | 1 | 2022-03-07 | 2022-03-07 |
+| Legea nr. 44/2022 privind cooperarea judiciară dintre România şi Curtea Penală Internaţională | [`lege/2022/44/`](lege/2022/44/) | in force | 1 | 2022-03-12 | 2022-03-12 |
 | Legea nr. 45/2022 pentru modificarea și completarea unor acte normative și pentru stabilirea unor măsuri financiare în domeniul unor programe gestionate de Ministerul Dezvoltării, Lucrărilor Publice și Administrației | [`lege/2022/45/`](lege/2022/45/) | amending act | 1 | 2022-03-13 | 2022-03-13 |
+| Legea nr. 47/2022 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 61/2021 pentru prorogarea termenului prevăzut la art. III alin. (3) din Ordonanţa de urgenţă a Guvernului nr. 1/2020 privind unele măsuri fiscal-bugetare şi pentru modificarea şi completarea unor acte normative | [`lege/2022/47/`](lege/2022/47/) | amending act | 1 | 2022-03-12 | 2022-03-12 |
 | Legea nr. 49/2022 privind desființarea Secției pentru investigarea infracțiunilor din justiție, precum și pentru modificarea Legii nr. 135/2010 privind Codul de procedură penală | [`lege/2022/49/`](lege/2022/49/) | amending act | 2 | 2022-03-14 | 2024-07-08 |
 | Legea nr. 50/2022 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 62/2021 pentru completarea anexei nr. 1 la Ordonanţa Guvernului nr. 41/1994 privind autorizarea plăţii cotizaţiilor la organizaţiile interguvernamentale la care România este parte, precum şi pentru aprobarea plăţii primei tranşe din cotizaţia României la bugetul instrumentului financiar al UE "Instrumentul European pentru Pace (EPF)", aferente anului 2021 | [`lege/2022/50/`](lege/2022/50/) | amending act | 1 | 2022-03-18 | 2022-03-18 |
 | Legea nr. 51/2022 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 158/2020 pentru aprobarea Programului de finanţare "Fondul de acţiune în domeniul managementului energiei durabile" | [`lege/2022/51/`](lege/2022/51/) | amending act | 1 | 2022-03-18 | 2022-03-18 |
+| Legea nr. 52/2022 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 78/2021 privind autorizarea Ministerului Tineretului şi Sportului de a transfera documentaţia tehnică achiziţionată prin Programul operaţional Asistenţă tehnică 2014-2020 către direcţiile judeţene pentru sport şi tineret | [`lege/2022/52/`](lege/2022/52/) | amending act | 1 | 2022-03-18 | 2022-03-18 |
 | Legea nr. 57/2022 pentru modificarea art. 4 alin. (8) din Legea serviciului de iluminat public nr. 230/2006 | [`lege/2022/57/`](lege/2022/57/) | amending act | 1 | 2022-03-21 | 2022-03-21 |
 | Legea nr. 64/2022 privind modificarea și completarea Legii nr. 349/2002 pentru prevenirea și combaterea efectelor consumului produselor din tutun, precum și modificarea Legii nr. 61/1991 pentru sancționarea faptelor de încălcare a unor norme de conviețuire socială, a ordinii și liniștii publice | [`lege/2022/64/`](lege/2022/64/) | amending act | 1 | 2022-03-26 | 2022-03-26 |
 | Legea nr. 65/2022 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătății | [`lege/2022/65/`](lege/2022/65/) | amending act | 1 | 2022-03-26 | 2022-03-26 |
@@ -2223,7 +2226,7 @@
 | Legea nr. 190/2026 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 81/2021 privind aprobarea metodelor de intervenţie imediată pentru prevenirea şi combaterea atacurilor exemplarelor de urs brun asupra persoanelor şi bunurilor acestora, precum şi pentru modificarea şi completarea unor acte normative | [`lege/2026/190/`](lege/2026/190/) | amending act | 1 | 2026-10-08 | 2026-10-08 |
 | Legea nr. 205/2026 pentru completarea Ordonanţei Guvernului nr. 22/2002 privind executarea obligaţiilor de plată ale instituţiilor publice, stabilite prin titluri executorii | [`lege/2026/205/`](lege/2026/205/) | amending act | 1 | 2026-11-02 | 2026-11-02 |
 
-## Emergency ordinances (OUG) (1573, of which 540 amending acts)
+## Emergency ordinances (OUG) (1574, of which 540 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -2282,6 +2285,7 @@
 | Ordonanța de urgență a Guvernului nr. 34/2000 | [`oug/2000/34/`](oug/2000/34/) | in force | 13 | 2000-04-21 | 2022-05-28 |
 | Ordonanța de urgență a Guvernului nr. 55/2000 privind regularizarea datoriilor fostei Companii Române de Petrol | [`oug/2000/55/`](oug/2000/55/) | in force | 2 | 2000-05-23 | 2001-07-24 |
 | Ordonanța de urgență a Guvernului nr. 59/2000 | [`oug/2000/59/`](oug/2000/59/) | in force | 6 | 2000-05-30 | 2025-03-14 |
+| Ordonanța de urgență a Guvernului nr. 78/2000 | [`oug/2000/78/`](oug/2000/78/) | repealed 2011-11-28 | 8 | 2000-07-22 | 2011-11-28 |
 | Ordonanța de urgență a Guvernului nr. 79/2000 privind stingerea unei părţi din datoria Companiei Naţionale de Electricitate - S.A. către stat cu contravaloarea energiei electrice livrate în Republica Moldova | [`oug/2000/79/`](oug/2000/79/) | in force | 2 | 2000-06-22 | 2001-04-26 |
 | Ordonanța de urgență a Guvernului nr. 82/2000 | [`oug/2000/82/`](oug/2000/82/) | in force | 2 | 2000-06-28 | 2002-06-18 |
 | Ordonanța de urgență a Guvernului nr. 83/2000 | [`oug/2000/83/`](oug/2000/83/) | in force | 5 | 2000-06-27 | 2025-08-16 |
@@ -3801,7 +3805,7 @@
 | Ordonanța de urgență a Guvernului nr. 30/2026 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 23/2004 privind stabilirea unor măsuri de reorganizare a Autorităţii pentru Valorificarea Activelor Bancare prin comasarea prin absorbţie cu Autoritatea pentru Privatizare şi Administrarea Participaţiilor Statului | [`oug/2026/30/`](oug/2026/30/) | amending act | 1 | 2026-04-21 | 2026-04-21 |
 | Ordonanța de urgență a Guvernului nr. 33/2026 pentru modificarea şi completarea Legii educaţiei fizice şi sportului nr. 69/2000 | [`oug/2026/33/`](oug/2026/33/) | amending act | 1 | 2026-04-27 | 2026-04-27 |
 
-## Ordinances (OG) (500, of which 92 amending acts)
+## Ordinances (OG) (501, of which 92 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -3855,6 +3859,7 @@
 | Ordonanța Guvernului nr. 46/1998 | [`og/1998/46/`](og/1998/46/) | in force | 8 | 1998-07-31 | 2022-08-28 |
 | Ordonanța Guvernului nr. 47/1998 | [`og/1998/47/`](og/1998/47/) | in force | 2 | 1998-09-29 | 2001-04-26 |
 | Ordonanța Guvernului nr. 51/1998 | [`og/1998/51/`](og/1998/51/) | in force | 17 | 1998-08-13 | 2024-09-01 |
+| Ordonanța Guvernului nr. 56/1998 | [`og/1998/56/`](og/1998/56/) | in force | 5 | 1998-08-25 | 2001-07-27 |
 | Ordonanța Guvernului nr. 58/1998 | [`og/1998/58/`](og/1998/58/) | in force | 17 | 1998-08-26 | 2026-09-25 |
 | Ordonanța Guvernului nr. 64/1998 | [`og/1998/64/`](og/1998/64/) | in force | 3 | 1998-08-26 | 2002-02-20 |
 | Ordonanța Guvernului nr. 75/1998 | [`og/1998/75/`](og/1998/75/) | in force | 1 | 1998-08-28 | 1998-08-28 |
@@ -4306,7 +4311,7 @@
 | Ordonanța Guvernului nr. 21/2025 pentru modificarea și completarea Legii nr. 431/2023 privind asigurarea unui nivel minim global de impozitare a grupurilor de întreprinderi multinaționale și a grupurilor naționale de mari dimensiuni | [`og/2025/21/`](og/2025/21/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 | Ordonanța Guvernului nr. 22/2025 pentru modificarea și completarea Legii nr. 227/2015 privind Codul fiscal | [`og/2025/22/`](og/2025/22/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 
-## Government decisions (HG) (5687, of which 2336 amending acts)
+## Government decisions (HG) (5709, of which 2344 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -6605,18 +6610,40 @@
 | Hotărârea Guvernului nr. 198/2022 privind organizarea și funcționarea direcțiilor județene de sport, respectiv a Direcției pentru Sport a Municipiului București | [`hg/2022/198/`](hg/2022/198/) | in force | 1 | 2022-02-14 | 2022-02-14 |
 | Hotărârea Guvernului nr. 206/2022 privind modificarea și completarea Hotărârii Guvernului nr. 282/2020 pentru aprobarea Normelor metodologice de aplicare a Ordonanței de urgență a Guvernului nr. 110/2017 privind Programul de susținere a întreprinderilor mici și mijlocii și a întreprinderilor mici cu capitalizare de piață medie - IMM INVEST ROMÂNIA | [`hg/2022/206/`](hg/2022/206/) | amending act | 1 | 2022-02-15 | 2022-02-15 |
 | Hotărârea Guvernului nr. 209/2022 pentru aprobarea Normelor metodologice de aplicare a prevederilor Ordonanței de urgență a Guvernului nr. 124/2021 privind stabilirea cadrului instituțional și financiar pentru gestionarea fondurilor europene alocate României prin Mecanismul de redresare și reziliență, precum și pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 155/2020 privind unele măsuri pentru elaborarea Planului național de redresare și reziliență necesar României pentru accesarea de fonduri externe rambursabile și nerambursabile în cadrul Mecanismului de redresare și reziliență | [`hg/2022/209/`](hg/2022/209/) | amending act | 1 | 2022-02-15 | 2022-02-15 |
+| Hotărârea Guvernului nr. 228/2022 privind trecerea unui imobil din domeniul public al statului şi din administrarea Agenţiei de Plăţi şi Intervenţie pentru Agricultură - Centrul Judeţean Gorj în domeniul public al oraşului Novaci şi pentru modificarea anexei nr. 3 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului | [`hg/2022/228/`](hg/2022/228/) | amending act | 1 | 2022-03-07 | 2022-03-07 |
+| Hotărârea Guvernului nr. 229/2022 privind înscrierea unui imobil - teren şi construcţii - în inventarul centralizat al bunurilor din domeniul public al statului şi darea acestuia în administrarea Ministerului Educaţiei pentru Universitatea "Constantin Brâncuşi" din Târgu Jiu | [`hg/2022/229/`](hg/2022/229/) | in force | 1 | 2022-03-07 | 2022-03-07 |
 | Hotărârea Guvernului nr. 234/2022 privind atribuțiile, organizarea și funcționarea Autorității Naționale pentru Protecția Drepturilor Persoanelor cu Dizabilități | [`hg/2022/234/`](hg/2022/234/) | in force | 3 | 2022-02-18 | 2024-07-05 |
 | Hotărârea Guvernului nr. 237/2022 privind organizarea și funcționarea Autorității Vamale Române și pentru modificarea pct. 1 de la lit. C din cadrul anexei nr. 1 la Hotărârea Guvernului nr. 791/2009 privind condițiile pentru certificarea aeroporturilor civile internaționale sau deschise traficului aerian internațional | [`hg/2022/237/`](hg/2022/237/) | amending act | 2 | 2022-02-18 | 2024-06-29 |
 | Hotărârea Guvernului nr. 238/2022 pentru modificarea și completarea Hotărârii Guvernului nr. 34/2009 privind organizarea și funcționarea Ministerului Finanțelor Publice, precum și pentru modificarea și completarea Hotărârii Guvernului nr. 520/2013 privind organizarea și funcționarea Agenției Naționale de Administrare Fiscală | [`hg/2022/238/`](hg/2022/238/) | amending act | 1 | 2022-02-18 | 2022-02-18 |
 | Hotărârea Guvernului nr. 256/2022 privind modificarea unor acte normative în domeniul agriculturii | [`hg/2022/256/`](hg/2022/256/) | amending act | 1 | 2022-02-24 | 2022-02-24 |
 | Hotărârea Guvernului nr. 257/2022 pentru suplimentarea pe anul 2022 a sumei prevăzute ca justă despăgubire, aprobată prin Hotărârea Guvernului nr. 67/2016 privind declanșarea procedurilor de expropriere a imobilelor proprietate privată care constituie coridorul de expropriere al lucrării de utilitate publică de interes național "Secțiunea 2A Ogra-Câmpia Turzii pe teritoriul localităților Bogata, Chețani, Cucerdea, Cuci, Iernut, Luduș și Ogra din județul Mureș și pe teritoriul localității Luna din județul Cluj din cadrul obiectivului de investiții de interes național «Autostrada Brașov- Târgu Mureș-Cluj-Oradea»", precum și pentru modificarea și completarea anexei nr. 2 la Hotărârea Guvernului nr. 67/2016 | [`hg/2022/257/`](hg/2022/257/) | amending act | 1 | 2022-02-28 | 2022-02-28 |
 | Hotărârea Guvernului nr. 259/2022 pentru modificarea și completarea Normelor metodologice de aplicare a prevederilor Legii securității și sănătății în muncă nr. 319/2006 , aprobate prin Hotărârea Guvernului nr. 1.425/2006 | [`hg/2022/259/`](hg/2022/259/) | amending act | 1 | 2022-03-07 | 2022-03-07 |
+| Hotărârea Guvernului nr. 267/2022 privind înscrierea unor imobile, terenuri, în inventarul centralizat al bunurilor din domeniul public al statului şi darea acestora în administrarea Universităţii de Medicină, Farmacie, Ştiinţe şi Tehnologie "George Emil Palade" din Târgu Mureş | [`hg/2022/267/`](hg/2022/267/) | in force | 1 | 2022-03-03 | 2022-03-03 |
+| Hotărârea Guvernului nr. 270/2022 privind modificarea valorii de inventar şi a descrierii tehnice a unor imobile aflate în domeniul public al statului şi în administrarea Penitenciarului Botoşani, din subordinea Administraţiei Naţionale a Penitenciarelor, precum şi trecerea acestora din domeniul public în domeniul privat al statului, în vederea scoaterii din funcţiune şi demolării | [`hg/2022/270/`](hg/2022/270/) | amending act | 1 | 2022-03-03 | 2022-03-03 |
 | Hotărârea Guvernului nr. 277/2022 pentru modificarea art. 55 alin. (1) și (2) din Normele metodologice de aplicare a Legii nr. 122/2006 privind azilul în România, aprobate prin Hotărârea Guvernului României nr. 1.251/2006 | [`hg/2022/277/`](hg/2022/277/) | amending act | 1 | 2022-02-27 | 2022-02-27 |
+| Hotărârea Guvernului nr. 280/2022 privind eliberarea domnului Tasnadi Istvan-Szilard din funcţia de prefect al judeţului Cluj | [`hg/2022/280/`](hg/2022/280/) | in force | 1 | 2022-03-02 | 2022-03-02 |
+| Hotărârea Guvernului nr. 281/2022 privind eliberarea doamnei Munteanu Irina din funcţia de subprefect al judeţului Cluj | [`hg/2022/281/`](hg/2022/281/) | in force | 1 | 2022-03-02 | 2022-03-02 |
+| Hotărârea Guvernului nr. 282/2022 privind eliberarea doamnei Macri Veronica din funcţia de subprefect al judeţului Galaţi | [`hg/2022/282/`](hg/2022/282/) | in force | 1 | 2022-03-02 | 2022-03-02 |
+| Hotărârea Guvernului nr. 283/2022 privind eliberarea domnului Drăguşin Virgil din funcţia de subprefect al judeţului Gorj | [`hg/2022/283/`](hg/2022/283/) | in force | 1 | 2022-03-02 | 2022-03-02 |
+| Hotărârea Guvernului nr. 286/2022 privind numirea domnului Halici Nicuşor în funcţia de prefect al judeţului Vrancea | [`hg/2022/286/`](hg/2022/286/) | in force | 1 | 2022-03-02 | 2022-03-02 |
+| Hotărârea Guvernului nr. 287/2022 privind numirea domnului Tasnadi Istvan-Szilard în funcţia de subprefect al judeţului Cluj | [`hg/2022/287/`](hg/2022/287/) | in force | 1 | 2022-03-02 | 2022-03-02 |
+| Hotărârea Guvernului nr. 288/2022 privind numirea domnului Ciortea Răzvan-Iulian în funcţia de subprefect al judeţului Cluj | [`hg/2022/288/`](hg/2022/288/) | in force | 1 | 2022-03-02 | 2022-03-02 |
+| Hotărârea Guvernului nr. 289/2022 privind numirea domnului Manea Ciprian în funcţia de subprefect al judeţului Galaţi | [`hg/2022/289/`](hg/2022/289/) | in force | 1 | 2022-03-02 | 2022-03-02 |
+| Hotărârea Guvernului nr. 290/2022 privind numirea domnului Istrate Mihai în funcţia de subprefect al judeţului Gorj | [`hg/2022/290/`](hg/2022/290/) | in force | 1 | 2022-03-02 | 2022-03-02 |
+| Hotărârea Guvernului nr. 291/2022 privind numirea domnului Memet Timur în funcţia de subprefect al judeţului Tulcea | [`hg/2022/291/`](hg/2022/291/) | in force | 1 | 2022-03-02 | 2022-03-02 |
 | Hotărârea Guvernului nr. 292/2022 pentru modificarea și completarea Hotărârii Guvernului nr. 717/2009 privind aprobarea normelor de implementare a programului "Noua casă" | [`hg/2022/292/`](hg/2022/292/) | amending act | 1 | 2022-03-03 | 2022-03-03 |
+| Hotărârea Guvernului nr. 295/2022 pentru modificarea şi completarea Hotărârii Guvernului nr. 365/2020 privind aprobarea schemei "Ajutor de minimis pentru aplicarea programului de susţinere a crescătorilor de porci de reproducţie din rasele Bazna şi/sau Mangaliţa", pentru perioada 2020-2022, precum şi a unor măsuri de aplicare a acesteia | [`hg/2022/295/`](hg/2022/295/) | amending act | 1 | 2022-03-03 | 2022-03-03 |
+| Hotărârea Guvernului nr. 296/2022 privind acceptarea unei donaţii de teste antigenice rapide de către statul român, prin Ministerul Sănătăţii, în vederea diagnosticării infecţiei cu SARS-CoV-2 şi darea acestora în administrare Ministerului Sănătăţii | [`hg/2022/296/`](hg/2022/296/) | in force | 1 | 2022-03-03 | 2022-03-03 |
+| Hotărârea Guvernului nr. 300/2022 privind desfiinţarea Spitalului Clinic de Boli Infecţioase Braşov şi reorganizarea acestuia ca structură fără personalitate juridică în cadrul Spitalului Clinic de Pneumoftiziologie Braşov | [`hg/2022/300/`](hg/2022/300/) | in force | 1 | 2022-03-08 | 2022-03-08 |
+| Hotărârea Guvernului nr. 302/2022 pentru aprobarea normelor privind modul de constituire, organizare şi funcţionare a comisiilor paritare, componenţa, atribuţiile şi procedura de lucru ale acestora, precum şi a normelor privind încheierea şi monitorizarea aplicării acordurilor colective | [`hg/2022/302/`](hg/2022/302/) | amending act | 1 | 2022-05-06 | 2022-05-06 |
 | Hotărârea Guvernului nr. 304/2022 privind acordarea prestațiilor sub forma biletelor de tratament balnear, pentru anul 2022, prin sistemul organizat și administrat de Casa Națională de Pensii Publice | [`hg/2022/304/`](hg/2022/304/) | in force | 1 | 2022-03-04 | 2022-03-04 |
+| Hotărârea Guvernului nr. 306/2022 privind aprobarea unor modificări şi completări în inventarul centralizat al bunurilor din domeniul public al statului aflate în administrarea Ministerului Apărării Naţionale, situate în judeţele Buzău, Olt, Alba, Ilfov, Suceava, Vrancea, Braşov, Covasna, Prahova, Dolj şi municipiul Bucureşti, şi modificarea anexei nr. 4 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului | [`hg/2022/306/`](hg/2022/306/) | amending act | 1 | 2022-03-08 | 2022-03-08 |
+| Hotărârea Guvernului nr. 308/2022 privind actualizarea valorilor de inventar ale unor bunuri imobile cuprinse în anexa nr. 10 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului, aflate în administrarea oficiilor de cadastru şi publicitate imobiliară | [`hg/2022/308/`](hg/2022/308/) | amending act | 1 | 2022-03-07 | 2022-03-07 |
 | Hotărârea Guvernului nr. 311/2022 privind intensitatea maximă a ajutorului de stat regional în perioada 2022-2027 pentru investiții inițiale | [`hg/2022/311/`](hg/2022/311/) | in force | 2 | 2022-03-04 | 2023-04-13 |
 | Hotărârea Guvernului nr. 312/2022 privind aprobarea modelului steagului comunei Horoatu Crasnei, județul Sălaj | [`hg/2022/312/`](hg/2022/312/) | amending act | 1 | 2022-03-10 | 2022-03-10 |
+| Hotărârea Guvernului nr. 314/2022 privind aprobarea bugetului de venituri şi cheltuieli pe anul 2022 al Regiei Autonome "Rasirom", aflată sub autoritatea Serviciului Român de Informaţi | [`hg/2022/314/`](hg/2022/314/) | amending act | 1 | 2022-03-10 | 2022-03-10 |
 | Hotărârea Guvernului nr. 315/2022 pentru aprobarea valorii maxime a costurilor aferente cazării în locaţiile stabilite de comitetele judeţene/al municipiului Bucureşti pentru situaţii de urgenţă pentru cetăţenii străini sau apatrizii aflaţi în situaţii deosebite care provin din zona conflictului armat din Ucraina şi care nu solicită o formă de protecţie potrivit Legii nr. 122/2006 privind azilul în România, precum şi pentru alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2022, pentru suplimentarea bugetului Ministerului Afacerilor Interne | [`hg/2022/315/`](hg/2022/315/) | repealed 2023-12-31 | 3 | 2022-03-05 | 2023-12-31 |
+| Hotărârea Guvernului nr. 325/2022 privind aprobarea nivelului cotizaţiei pentru realizarea interconectării cu instituţii similare internaţionale şi/sau cu organizaţii internaţionale de schimb de organe, în anul 2022 | [`hg/2022/325/`](hg/2022/325/) | amending act | 1 | 2022-03-14 | 2022-03-14 |
 | Hotărârea Guvernului nr. 326/2022 privind transmiterea unor imobile aflate în domeniul public al statului din administrarea Agenţiei Naţionale de Cadastru şi Publicitate Imobiliară, pentru Oficiul de Cadastru şi Publicitate Imobiliară Iaşi, în administrarea Ministerului Afacerilor Interne - Inspectoratul de Poliţie Judeţean Iaşi | [`hg/2022/326/`](hg/2022/326/) | in force | 1 | 2022-03-16 | 2022-03-16 |
 | Hotărârea Guvernului nr. 327/2022 privind actualizarea valorii de inventar a bunului imobil aflat în domeniul public al statului şi în administrarea Oficiului de Cadastru şi Publicitate Imobiliară Satu Mare | [`hg/2022/327/`](hg/2022/327/) | in force | 1 | 2022-03-16 | 2022-03-16 |
 | Hotărârea Guvernului nr. 329/2022 privind trecerea din domeniul public în domeniul privat al statului a unor bunuri aflate în administrarea Direcţiei pentru Agricultură Judeţene Giurgiu, din subordinea Ministerului Agriculturii şi Dezvoltării Rurale, în vederea valorificării sau casării, după caz, actualizarea datelor de identificare şi a valorii de inventar pentru unele bunuri imobile aflate în domeniul public al statului şi în administrarea Direcţiei pentru Agricultură Judeţene Giurgiu şi trecerea acestora în domeniul public al judeţului Giurgiu | [`hg/2022/329/`](hg/2022/329/) | in force | 1 | 2022-03-16 | 2022-03-16 |
