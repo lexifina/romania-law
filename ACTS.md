@@ -1,6 +1,6 @@
 # Every act in this repository
 
-11800 acts, 25,374 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+11811 acts, 25,385 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -32,7 +32,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (2358, of which 1060 amending acts)
+## Laws (legi) (2360, of which 1061 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -1327,10 +1327,12 @@
 | Legea nr. 243/2019 privind reglementarea fondurilor de investiții alternative și pentru modificarea și completarea unor acte normative | [`lege/2019/243/`](lege/2019/243/) | amending act | 3 | 2020-01-23 | 2024-07-05 |
 | Legea nr. 253/2019 privind câinii salvamont | [`lege/2019/253/`](lege/2019/253/) | in force | 1 | 2019-12-27 | 2019-12-27 |
 | Legea nr. 255/2019 privind instituirea zilei de 1 noiembrie ca Ziua Națională a Radioului | [`lege/2019/255/`](lege/2019/255/) | in force | 1 | 2020-01-02 | 2020-01-02 |
+| Legea nr. 258/2019 pentru acceptarea Protocolului , deschis spre semnare la Luxemburg la 8 iunie 2017, de modificare a Tratatului referitor la Sistemul european de informaţii privind vehiculele şi permisele de conducere (EUCARIS), semnat la Luxemburg la 29 iunie 2000, precum şi pentru modificarea art. 11^5 alin. (1) lit. k) din Ordonanţa Guvernului nr. 83/2001 privind înfiinţarea, organizarea şi funcţionarea serviciilor publice comunitare pentru eliberarea şi evidenţa paşapoartelor simple şi serviciilor publice comunitare regim permise de conducere şi înmatriculare a vehiculelor | [`lege/2019/258/`](lege/2019/258/) | amending act | 1 | 2020-01-11 | 2020-01-11 |
 | Legea nr. 261/2019 pentru ratificarea Scrisorii de înțelegere privind avansul pentru pregătirea Proiectului de dezvoltare propus, "Cartierul pentru justiție", dintre România și Banca Internațională pentru Reconstrucție și Dezvoltare, semnată la Bruxelles la 30 mai 2019 și la București la 6 iunie 2019 | [`lege/2019/261/`](lege/2019/261/) | in force | 1 | 2020-01-03 | 2020-01-03 |
 | Legea nr. 1/2020 privind pensiile ocupaționale | [`lege/2020/1/`](lege/2020/1/) | in force | 2 | 2020-02-07 | 2023-04-07 |
 | Legea nr. 7/2020 pentru modificarea și completarea Legii nr. 10/1995 privind calitatea în construcții și pentru modificarea și completarea Legii nr. 50/1991 privind autorizarea executării lucrărilor de construcții | [`lege/2020/7/`](lege/2020/7/) | amending act | 2 | 2020-01-11 | 2020-02-07 |
 | Legea nr. 14/2020 privind aprobarea Ordonanței de urgență a Guvernului nr. 9/2019 pentru modificarea și completarea Legii nr. 61/1993 privind alocația de stat pentru copii, precum și pentru modificarea art. 58 alin. (1) din Legea nr. 448/2006 privind protecția și promovarea drepturilor persoanelor cu handicap | [`lege/2020/14/`](lege/2020/14/) | amending act | 1 | 2020-02-01 | 2020-02-01 |
+| Legea nr. 15/2020 pentru înfiinţarea Muzeului Naţional "Brătianu" | [`lege/2020/15/`](lege/2020/15/) | in force | 1 | 2020-02-01 | 2020-02-01 |
 | Legea nr. 16/2020 privind respingerea Ordonanţei de urgenţă a Guvernului nr. 131/2006 pentru modificarea şi completarea Legii nr. 508/2004 privind înfiinţarea, organizarea şi funcţionarea în cadrul Ministerului Public a Direcţiei de Investigare a Infracţiunilor de Criminalitate Organizată şi Terorism | [`lege/2020/16/`](lege/2020/16/) | amending act | 1 | 2020-02-23 | 2020-02-23 |
 | Legea nr. 19/2020 privind acordarea unor zile libere părinților pentru supravegherea copiilor, în situația închiderii temporare a unităților de învățământ | [`lege/2020/19/`](lege/2020/19/) | in force | 4 | 2020-03-17 | 2020-05-22 |
 | Legea nr. 25/2020 pentru ratificarea Acordului dintre Guvernul României și Guvernul Republicii Singapore cu privire la serviciile aeriene, semnat la Singapore la 31 mai 2018 | [`lege/2020/25/`](lege/2020/25/) | in force | 1 | 2020-03-27 | 2020-03-27 |
@@ -4516,7 +4518,7 @@
 | Ordonanța Guvernului nr. 21/2025 pentru modificarea și completarea Legii nr. 431/2023 privind asigurarea unui nivel minim global de impozitare a grupurilor de întreprinderi multinaționale și a grupurilor naționale de mari dimensiuni | [`og/2025/21/`](og/2025/21/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 | Ordonanța Guvernului nr. 22/2025 pentru modificarea și completarea Legii nr. 227/2015 privind Codul fiscal | [`og/2025/22/`](og/2025/22/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 
-## Government decisions (HG) (7292, of which 3160 amending acts)
+## Government decisions (HG) (7301, of which 3167 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -6503,10 +6505,19 @@
 | Hotărârea Guvernului nr. 963/2019 pentru prelungirea termenului de aplicare a prevederilor Hotărârii Guvernului nr. 155/2017 privind aprobarea programelor naționale de sănătate pentru anii 2017 și 2018 | [`hg/2019/963/`](hg/2019/963/) | amending act | 1 | 2019-12-19 | 2019-12-19 |
 | Hotărârea Guvernului nr. 965/2019 pentru aprobarea bugetului rectificat de venituri și cheltuieli pe anul 2019 al Companiei Naționale de Investiții "C.N.I." - S.A., aflată sub autoritatea Ministerului Lucrărilor Publice, Dezvoltării și Administrației | [`hg/2019/965/`](hg/2019/965/) | amending act | 1 | 2019-12-20 | 2019-12-20 |
 | Hotărârea Guvernului nr. 985/2019 privind registrul agricol pentru perioada 2020-2024 | [`hg/2019/985/`](hg/2019/985/) | in force | 1 | 2019-12-31 | 2019-12-31 |
+| Hotărârea Guvernului nr. 992/2019 pentru reaprobarea indicatorilor tehnico-economici ai obiectivului de investiţii "Lucrări de consolidare şi reabilitare la Sanatoriul Medical Militar «Regele Ferdinand I - Hotel» din cazarma 3465 Herculane" | [`hg/2019/992/`](hg/2019/992/) | in force | 1 | 2020-01-07 | 2020-01-07 |
+| Hotărârea Guvernului nr. 994/2019 privind aprobarea bugetului de venituri şi cheltuieli rectificat pe anul 2019 al Societăţii de Transport cu Metroul Bucureşti "Metrorex" - S.A., aflată sub autoritatea Ministerului Transporturilor, Infrastructurii şi Comunicaţiilor | [`hg/2019/994/`](hg/2019/994/) | amending act | 1 | 2019-12-31 | 2019-12-31 |
+| Hotărârea Guvernului nr. 995/2019 privind aprobarea bugetului de venituri şi cheltuieli rectificat pe anul 2019 al Companiei Naţionale "Administraţia Porturilor Dunării Maritime" - S.A. Galaţi, aflată sub autoritatea Ministerului Transporturilor, Infrastructurii şi Comunicaţiilor | [`hg/2019/995/`](hg/2019/995/) | amending act | 1 | 2019-12-31 | 2019-12-31 |
+| Hotărârea Guvernului nr. 996/2019 privind aprobarea bugetului de venituri şi cheltuieli rectificat pe anul 2019 pentru Societatea Naţională de Închideri Mine Valea Jiului - S.A, aflată sub autoritatea Ministerului Economiei, Energiei şi Mediului de Afaceri | [`hg/2019/996/`](hg/2019/996/) | amending act | 1 | 2019-12-31 | 2019-12-31 |
+| Hotărârea Guvernului nr. 997/2019 pentru aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii "Lucrări de reabilitare infrastructură în cazarma 3417 Constanţa" | [`hg/2019/997/`](hg/2019/997/) | amending act | 1 | 2020-01-07 | 2020-01-07 |
+| Hotărârea Guvernului nr. 998/2019 pentru aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii "Lucrări de modernizare infrastructură în cazarma 462 Târgu Mureş" | [`hg/2019/998/`](hg/2019/998/) | amending act | 1 | 2020-01-07 | 2020-01-07 |
+| Hotărârea Guvernului nr. 999/2019 pentru aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii "Extindere şi etajare Corp C1, conversie funcţională în Academia de Muzică, extindere corp C2 şi conversie funcţională în ateliere de întreţinere pentru clădirea principală, extindere şi amenajare sală de sport în corp C4, str. Bucium FN, municipiul Cluj-Napoca, judeţul Cluj" | [`hg/2019/999/`](hg/2019/999/) | amending act | 1 | 2020-01-07 | 2020-01-07 |
 | Hotărârea Guvernului nr. 1000/2019 pentru aprobarea Listei cuprinzând categoriile de informații clasificate secrete de stat, pe niveluri de secretizare, elaborate sau deținute de Consiliul Legislativ, precum și termenele de clasificare aferente acestora | [`hg/2019/1000/`](hg/2019/1000/) | amending act | 1 | 2020-01-13 | 2020-01-13 |
 | Hotărârea Guvernului nr. 1001/2019 pentru aprobarea listelor cuprinzând categoriile de informații clasificate secrete de stat pe niveluri de secretizare, elaborate sau deținute de Ministerul Justiției, precum și de unitățile aflate în subordinea ori în coordonarea acestuia și termenele de clasificare aferente acestora | [`hg/2019/1001/`](hg/2019/1001/) | amending act | 1 | 2020-01-13 | 2020-01-13 |
 | Hotărârea Guvernului nr. 1002/2019 privind organizarea și funcționarea Autorității Naționale pentru Drepturile Persoanelor cu Dizabilități, Copii și Adopții | [`hg/2019/1002/`](hg/2019/1002/) | in force | 1 | 2020-01-09 | 2020-01-09 |
+| Hotărârea Guvernului nr. 6/2020 privind actualizarea valorii de inventar a unui imobil aflat în domeniul public al statului şi administrarea Ministerului Afacerilor Interne - Institutul de Studii pentru Ordine Publică | [`hg/2020/6/`](hg/2020/6/) | in force | 1 | 2020-01-10 | 2020-01-10 |
 | Hotărârea Guvernului nr. 7/2020 pentru aprobarea indicatorilor tehnico-economici ai obiectivului de investiții „Varianta de ocolire Huși“, județul Vaslui | [`hg/2020/7/`](hg/2020/7/) | amending act | 1 | 2020-01-13 | 2020-01-13 |
+| Hotărârea Guvernului nr. 8/2020 pentru modificarea şi completarea Hotărârii Guvernului nr. 34/2009 privind organizarea şi funcţionarea Ministerului Finanţelor Publice | [`hg/2020/8/`](hg/2020/8/) | amending act | 1 | 2020-01-09 | 2020-01-09 |
 | Hotărârea Guvernului nr. 9/2020 pentru modificarea și completarea unor acte normative în domeniul afacerilor externe | [`hg/2020/9/`](hg/2020/9/) | amending act | 1 | 2020-01-14 | 2020-01-14 |
 | Hotărârea Guvernului nr. 10/2020 privind încetarea exercitării, cu caracter temporar, în condițiile legii, a funcției publice de prefect al județului Călărași de către domnul Iacob George | [`hg/2020/10/`](hg/2020/10/) | in force | 1 | 2020-01-13 | 2020-01-13 |
 | Hotărârea Guvernului nr. 12/2020 privind încetarea exercitării, cu caracter temporar, prin detașare în condițiile legii, a funcției publice de subprefect al județului Brăila de către doamna Sterea Rada | [`hg/2020/12/`](hg/2020/12/) | in force | 1 | 2020-01-17 | 2020-01-17 |
