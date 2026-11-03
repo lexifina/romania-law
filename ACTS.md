@@ -1,6 +1,6 @@
 # Every act in this repository
 
-14342 acts, 27,931 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+14357 acts, 27,946 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (2580, of which 1252 amending acts)
+## Laws (legi) (2583, of which 1252 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -735,7 +735,10 @@
 | Legea nr. 180/2007 pentru abrogarea dispoziţiilor cap. III^1 din Legea nr. 136/1995 privind asigurările şi reasigurările în România | [`lege/2007/180/`](lege/2007/180/) | amending act | 1 | 2007-06-23 | 2007-06-23 |
 | Legea nr. 181/2007 | [`lege/2007/181/`](lege/2007/181/) | repealed 2010-07-12 | 3 | 2008-01-01 | 2010-07-12 |
 | Legea nr. 188/2007 | [`lege/2007/188/`](lege/2007/188/) | in force | 1 | 2007-06-29 | 2007-06-29 |
+| Legea nr. 189/2007 privind retragerea unor rezerve formulate de România cu prilejul aderării sau ratificării unor convenţii internaţionale | [`lege/2007/189/`](lege/2007/189/) | in force | 1 | 2007-06-29 | 2007-06-29 |
+| Legea nr. 190/2007 pentru aderarea României la Protocolul opţional la Convenţia de la Viena cu privire la relaţiile consulare, referitor la soluţionarea obligatorie a diferendelor, adoptat la Viena la 24 aprilie 1963 | [`lege/2007/190/`](lege/2007/190/) | in force | 1 | 2007-06-29 | 2007-06-29 |
 | Legea nr. 191/2007 | [`lege/2007/191/`](lege/2007/191/) | in force | 1 | 2007-06-29 | 2007-06-29 |
+| Legea nr. 192/2007 pentru aderarea României la Protocolul opţional la Convenţia de la Viena cu privire la relaţiile diplomatice, referitor la soluţionarea obligatorie a diferendelor, adoptat la Viena la 18 aprilie 1961 | [`lege/2007/192/`](lege/2007/192/) | in force | 1 | 2007-06-29 | 2007-06-29 |
 | Legea nr. 214/2007 | [`lege/2007/214/`](lege/2007/214/) | in force | 1 | 2007-07-19 | 2007-07-19 |
 | Legea nr. 223/2007 | [`lege/2007/223/`](lege/2007/223/) | in force | 6 | 2007-09-01 | 2024-01-01 |
 | Legea nr. 224/2007 | [`lege/2007/224/`](lege/2007/224/) | in force | 2 | 2007-07-29 | 2008-11-28 |
@@ -4789,7 +4792,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (9562, of which 4381 amending acts)
+## Government decisions (HG) (9574, of which 4388 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -5779,17 +5782,23 @@
 | Hotărârea Guvernului nr. 568/2007 | [`hg/2007/568/`](hg/2007/568/) | in force | 1 | 2007-06-20 | 2007-06-20 |
 | Hotărârea Guvernului nr. 569/2007 | [`hg/2007/569/`](hg/2007/569/) | in force | 1 | 2007-06-20 | 2007-06-20 |
 | Hotărârea Guvernului nr. 570/2007 privind declararea stării de calamitate naturală în agricultură pentru floarea-soarelui, soia şi porumb, însămânţate în primăvara anului 2004, în judeţul Botoşani şi stabilirea nivelului maxim al sumei ce poate fi acordată ca despăgubire | [`hg/2007/570/`](hg/2007/570/) | in force | 1 | 2007-06-21 | 2007-06-21 |
+| Hotărârea Guvernului nr. 578/2007 pentru aprobarea amendamentului convenit prin Scrisoarea semnată la Washington, DC la 7 martie 2007 şi la Bucureşti la 23 martie 2007, între Guvernul României şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare, la Acordul de împrumut dintre România şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare, semnat la Bucureşti la 26 august 2003, pentru finanţarea Proiectului privind reabilitarea şi reforma sectorului de irigaţii | [`hg/2007/578/`](hg/2007/578/) | amending act | 1 | 2007-06-26 | 2007-06-26 |
+| Hotărârea Guvernului nr. 579/2007 pentru aprobarea amendamentului nr. 1 convenit prin Scrisoarea semnată la Bucureşti la 8 ianuarie 2007 şi la Paris la 17 ianuarie 2007, între Guvernul României şi Banca de Dezvoltare a Consiliului Europei, la Acordul-cadru de împrumut dintre România şi Banca de Dezvoltare a Consiliului Europei, pentru finanţarea Proiectului pentru prevenirea catastrofelor naturale generate de inundaţii şi poluarea aerului, semnat la Bucureşti la 16 iulie 2003 şi la Paris la 25 august 2003 | [`hg/2007/579/`](hg/2007/579/) | amending act | 1 | 2007-06-25 | 2007-06-25 |
+| Hotărârea Guvernului nr. 581/2007 pentru aprobarea Protocolului dintre Ministerul Apărării din România şi Ministerul Apărării din Regatul Haşemit al Iordaniei privind cooperarea în domeniul pregătirii personalului militar şi civil pe bază de reciprocitate, semnat la Bucureşti la 15 decembrie 2006 | [`hg/2007/581/`](hg/2007/581/) | amending act | 1 | 2007-06-26 | 2007-06-26 |
 | Hotărârea Guvernului nr. 582/2007 | [`hg/2007/582/`](hg/2007/582/) | in force | 1 | 2007-06-20 | 2007-06-20 |
 | Hotărârea Guvernului nr. 583/2007 | [`hg/2007/583/`](hg/2007/583/) | in force | 1 | 2007-06-20 | 2007-06-20 |
 | Hotărârea Guvernului nr. 586/2007 privind declararea utilităţii publice pentru lucrarea de interes naţional "Extindere şi supraînălţare depozit de zgură şi cenuşă la ROMAG-TERMO. Etapa a II-a" | [`hg/2007/586/`](hg/2007/586/) | in force | 1 | 2007-06-21 | 2007-06-21 |
 | Hotărârea Guvernului nr. 589/2007 | [`hg/2007/589/`](hg/2007/589/) | in force | 1 | 2007-06-20 | 2007-06-20 |
 | Hotărârea Guvernului nr. 591/2007 privind aprobarea Licenţei de concesiune a activităţii miniere de exploatare nr. 6.945/2006, încheiată între Agenţia Naţională pentru Resurse Minerale şi Societatea Comercială "DORNA APEMIN" - S.A | [`hg/2007/591/`](hg/2007/591/) | amending act | 1 | 2007-06-21 | 2007-06-21 |
 | Hotărârea Guvernului nr. 592/2007 privind aprobarea prealabilă în vederea recunoaşterii prin hotărâre judecătorească a Fundaţiei "Stichting World Full Contact Association" din Olanda | [`hg/2007/592/`](hg/2007/592/) | amending act | 1 | 2007-06-21 | 2007-06-21 |
+| Hotărârea Guvernului nr. 593/2007 pentru modificarea şi completarea Hotărârii Guvernului nr. 957/2005 privind organizarea şi funcţionarea Institutului Naţional de Statistică | [`hg/2007/593/`](hg/2007/593/) | amending act | 1 | 2007-06-25 | 2007-06-25 |
 | Hotărârea Guvernului nr. 600/2007 | [`hg/2007/600/`](hg/2007/600/) | in force | 2 | 2007-07-13 | 2015-06-01 |
 | Hotărârea Guvernului nr. 601/2007 | [`hg/2007/601/`](hg/2007/601/) | in force | 1 | 2007-07-12 | 2007-07-12 |
+| Hotărârea Guvernului nr. 602/2007 privind încetarea raportului de serviciu al unui subprefect al judeţului Olt | [`hg/2007/602/`](hg/2007/602/) | in force | 1 | 2007-06-25 | 2007-06-25 |
 | Hotărârea Guvernului nr. 603/2007 privind realocarea sumei prevăzute la art. 2 lit. a) din Hotărârea Guvernului nr. 549/2006 privind aprobarea sumelor necesare pentru accelerarea lucrărilor de construcţie a Autostrăzii Bucureşti-Constanţa, Tronsonul 4 - Drajna-Feteşti şi Tronsonul 5 - Feteşti-Cernavodă | [`hg/2007/603/`](hg/2007/603/) | amending act | 1 | 2007-06-21 | 2007-06-21 |
 | Hotărârea Guvernului nr. 604/2007 privind aprobarea sumelor necesare pentru finalizarea contractului de execuţie a lucrării "Lărgire la patru benzi a DN 5 de la Adunaţii Copăceni la Giurgiu, km 23+200 - km 59+100" | [`hg/2007/604/`](hg/2007/604/) | amending act | 1 | 2007-06-21 | 2007-06-21 |
 | Hotărârea Guvernului nr. 605/2007 privind transmiterea unei suprafeţe aflate în proprietatea publică a statului din administrarea Ministerului Internelor şi Reformei Administrative - Academia de Poliţie "Alexandru Ioan Cuza" în administrarea Ministerului Transporturilor, în vederea realizării activităţilor de interes naţional de către Compania Naţională de Autostrăzi şi Drumuri Naţionale - S.A | [`hg/2007/605/`](hg/2007/605/) | in force | 1 | 2007-06-21 | 2007-06-21 |
+| Hotărârea Guvernului nr. 606/2007 privind transmiterea unei suprafeţe de teren aflate în proprietatea publică a statului din administrarea Ministerului Apărării - Statul Major al Forţelor Aeriene în administrarea Ministerului Transporturilor, în vederea realizării activităţilor de interes naţional de către Compania Naţională de Autostrăzi şi Drumuri Naţionale din România - S.A | [`hg/2007/606/`](hg/2007/606/) | in force | 1 | 2007-06-21 | 2007-06-21 |
 | Hotărârea Guvernului nr. 607/2007 | [`hg/2007/607/`](hg/2007/607/) | in force | 1 | 2007-06-21 | 2007-06-21 |
 | Hotărârea Guvernului nr. 609/2007 pentru modificarea art. 2 alin. (2) din Hotărârea Guvernului nr. 933/2004 privind contorizarea consumatorilor racordați la sistemele publice centralizate de alimentare cu energie termică | [`hg/2007/609/`](hg/2007/609/) | amending act | 1 | 2007-06-27 | 2007-06-27 |
 | Hotărârea Guvernului nr. 612/2007 privind alocarea unor sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2007, pentru judeţul Vaslui | [`hg/2007/612/`](hg/2007/612/) | in force | 1 | 2007-06-21 | 2007-06-21 |
@@ -5797,8 +5806,14 @@
 | Hotărârea Guvernului nr. 616/2007 | [`hg/2007/616/`](hg/2007/616/) | in force | 1 | 2007-06-22 | 2007-06-22 |
 | Hotărârea Guvernului nr. 618/2007 | [`hg/2007/618/`](hg/2007/618/) | in force | 1 | 2007-06-22 | 2007-06-22 |
 | Hotărârea Guvernului nr. 619/2007 | [`hg/2007/619/`](hg/2007/619/) | in force | 1 | 2007-06-22 | 2007-06-22 |
+| Hotărârea Guvernului nr. 621/2007 privind înfiinţarea Spitalului Clinic Judeţean Mureş prin reorganizarea Spitalului Clinic Judeţean de Urgenţă Târgu Mureş | [`hg/2007/621/`](hg/2007/621/) | in force | 1 | 2007-06-27 | 2007-06-27 |
+| Hotărârea Guvernului nr. 623/2007 privind aprobarea încadrării în categoria funcţională a drumurilor judeţene a unui drum comunal situat în judeţul Constanţa | [`hg/2007/623/`](hg/2007/623/) | amending act | 1 | 2007-06-27 | 2007-06-27 |
+| Hotărârea Guvernului nr. 625/2007 privind trecerea unui teren aflat în domeniul public al statului din administrarea Ministerului Agriculturii şi Dezvoltării Rurale - Agenţia Domeniilor Statului în administrarea Ministerului Economiei şi Finanţelor - Agenţia Naţională de Administrare Fiscală - Autoritatea Naţională a Vămilor | [`hg/2007/625/`](hg/2007/625/) | in force | 1 | 2007-06-27 | 2007-06-27 |
+| Hotărârea Guvernului nr. 626/2007 privind transmiterea unei părţi dintr-un imobil, aflat în domeniul public al statului, din administrarea Ministerului Agriculturii şi Dezvoltării Rurale - Direcţia pentru Agricultură şi Dezvoltare Rurală Alba în administrarea Administraţiei Naţionale a Îmbunătăţirilor Funciare | [`hg/2007/626/`](hg/2007/626/) | in force | 1 | 2007-06-27 | 2007-06-27 |
+| Hotărârea Guvernului nr. 633/2007 privind modificarea Hotărârii Guvernului nr. 289/2007 pentru aprobarea programelor de interes naţional în domeniul protecţiei drepturilor copilului | [`hg/2007/633/`](hg/2007/633/) | amending act | 1 | 2007-06-22 | 2007-06-22 |
 | Hotărârea Guvernului nr. 638/2007 | [`hg/2007/638/`](hg/2007/638/) | in force | 1 | 2007-06-27 | 2007-06-27 |
 | Hotărârea Guvernului nr. 639/2007 | [`hg/2007/639/`](hg/2007/639/) | in force | 5 | 2007-06-26 | 2024-07-22 |
+| Hotărârea Guvernului nr. 640/2007 privind stabilirea unor măsuri în aplicarea prevederilor art. II din Ordonanţa de urgenţă a Guvernului nr. 28/2007 pentru completarea Legii nr. 202/2006 privind organizarea şi funcţionarea Agenţiei Naţionale pentru Ocuparea Forţei de Muncă, precum şi pentru stabilirea unor măsuri de reorganizare instituţională | [`hg/2007/640/`](hg/2007/640/) | amending act | 1 | 2007-06-27 | 2007-06-27 |
 | Hotărârea Guvernului nr. 671/2007 | [`hg/2007/671/`](hg/2007/671/) | in force | 1 | 2007-07-05 | 2007-07-05 |
 | Hotărârea Guvernului nr. 680/2007 | [`hg/2007/680/`](hg/2007/680/) | in force | 1 | 2007-07-20 | 2007-07-20 |
 | Hotărârea Guvernului nr. 686/2007 | [`hg/2007/686/`](hg/2007/686/) | in force | 1 | 2007-07-24 | 2007-07-24 |
