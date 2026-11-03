@@ -1,6 +1,6 @@
 # Every act in this repository
 
-20468 acts, 34,101 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+20475 acts, 34,108 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (3242, of which 1773 amending acts)
+## Laws (legi) (3244, of which 1775 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -1896,6 +1896,7 @@
 | Legea nr. 313/2018 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 81/2018 pentru modificarea Ordonanţei de urgenţă a Guvernului nr. 111/2010 privind concediul şi indemnizaţia lunară pentru creşterea copiilor | [`lege/2018/313/`](lege/2018/313/) | amending act | 1 | 2018-12-22 | 2018-12-22 |
 | Legea nr. 314/2018 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 61/2018 pentru modificarea şi completarea Legii nr. 263/2004 privind asigurarea continuităţii asistenţei medicale primare prin centrele de permanenţă | [`lege/2018/314/`](lege/2018/314/) | amending act | 1 | 2018-12-22 | 2018-12-22 |
 | Legea nr. 315/2018 pentru modificarea art. 5 alin. (3) din Ordonanţa de urgenţă a Guvernului nr. 102/2005 privind libera circulaţie pe teritoriul României a cetăţenilor statelor membre ale Uniunii Europene, Spaţiului Economic European şi a cetăţenilor Confederaţiei Elveţiene | [`lege/2018/315/`](lege/2018/315/) | amending act | 1 | 2018-12-22 | 2018-12-22 |
+| Legea nr. 321/2018 privind aprobarea Ordonanţei Guvernului nr. 11/2017 pentru modificarea şi completarea Legii nr. 165/2016 privind siguranţa operaţiunilor petroliere offshore | [`lege/2018/321/`](lege/2018/321/) | amending act | 1 | 2018-12-30 | 2018-12-30 |
 | Legea nr. 322/2018 pentru modificarea şi completarea unor acte normative din domeniul gestionării financiare a fondurilor europene | [`lege/2018/322/`](lege/2018/322/) | amending act | 1 | 2018-12-30 | 2018-12-30 |
 | Legea nr. 323/2018 privind aprobarea Ordonanţei Guvernului nr. 1/2017 pentru modificarea Ordonanţei Guvernului nr. 18/2009 privind organizarea şi finanţarea rezidenţiatului | [`lege/2018/323/`](lege/2018/323/) | amending act | 1 | 2018-12-30 | 2018-12-30 |
 | Legea nr. 326/2018 pentru modificarea şi completarea Ordonanţei Guvernului nr. 59/1994 privind reglementarea operaţiunilor de import-export care se derulează prin cliring, barter şi cooperare economică internaţională în baza acordurilor comerciale şi de plăţi guvernamentale | [`lege/2018/326/`](lege/2018/326/) | amending act | 1 | 2018-12-30 | 2018-12-30 |
@@ -1908,6 +1909,7 @@
 | Legea nr. 337/2018 privind statutul inspectorului de muncă | [`lege/2018/337/`](lege/2018/337/) | in force | 2 | 2018-12-31 | 2024-11-17 |
 | Legea nr. 338/2018 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 59/2018 privind înfiinţarea, organizarea şi funcţionarea Autorităţii Naţionale pentru Formare Profesională Iniţială în Sistem Dual din România | [`lege/2018/338/`](lege/2018/338/) | amending act | 1 | 2018-12-31 | 2018-12-31 |
 | Legea nr. 339/2018 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 42/2018 privind eficientizarea activităţii Regiei Autonome "Administraţia Patrimoniului Protocolului de Stat" şi pentru modificarea şi completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii | [`lege/2018/339/`](lege/2018/339/) | amending act | 1 | 2018-12-31 | 2018-12-31 |
+| Legea nr. 341/2018 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 67/2018 pentru completarea art. 8 din Ordonanţa de urgenţă a Guvernului nr. 66/2017 privind stabilirea unor măsuri în domeniul cercetării-dezvoltării-inovării şi producerii de mijloace imunoprofilactice, terapeutice şi antidoturi, în vederea asigurării protecţiei intereselor esenţiale ale siguranţei stării de sănătate a populaţiei | [`lege/2018/341/`](lege/2018/341/) | amending act | 1 | 2018-12-30 | 2018-12-30 |
 | Legea nr. 342/2018 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 44/2018 privind unele măsuri referitoare la aplicarea unor dispoziţii şi prelungirea unui termen prevăzute de Ordonanţa de urgenţă a Guvernului nr. 28/1999 privind obligaţia operatorilor economici de a utiliza aparate de marcat electronice fiscale, precum şi pentru completarea Ordonanţei de urgenţă a Guvernului nr. 64/2007 privind datoria publică | [`lege/2018/342/`](lege/2018/342/) | amending act | 1 | 2018-12-30 | 2018-12-30 |
 | Legea nr. 343/2018 privind transmiterea unui imobil din domeniul public al statului şi din administrarea Ministerului Afacerilor Interne, Instituţia Prefectului, judeţul Olt, în domeniul public al judeţului Olt şi pentru declararea unui bun de interes naţional şi înscrierea acestuia în inventarul centralizat al bunurilor din domeniul public al statului şi darea acestuia în administrarea Ministerului Afacerilor Interne, Instituţia Prefectului, judeţul Olt | [`lege/2018/343/`](lege/2018/343/) | in force | 1 | 2019-01-06 | 2019-01-06 |
 | Legea nr. 344/2018 privind modificarea şi completarea Legii nr. 70/2015 pentru întărirea disciplinei financiare privind operaţiunile de încasări şi plăţi în numerar şi pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 193/2002 privind introducerea sistemelor moderne de plată | [`lege/2018/344/`](lege/2018/344/) | amending act | 1 | 2019-01-06 | 2019-01-06 |
@@ -3280,7 +3282,7 @@
 | Legea nr. 204/2026 privind aprobarea Ordonanţei Guvernului nr. 22/2025 pentru modificarea şi completarea Legii nr. 227/2015 privind Codul fiscal şi pentru completarea articolului 342 din Legea nr. 227/2015 privind Codul fiscal | [`lege/2026/204/`](lege/2026/204/) | amending act | 1 | 2026-10-25 | 2026-10-25 |
 | Legea nr. 205/2026 pentru completarea Ordonanţei Guvernului nr. 22/2002 privind executarea obligaţiilor de plată ale instituţiilor publice, stabilite prin titluri executorii | [`lege/2026/205/`](lege/2026/205/) | amending act | 1 | 2026-11-02 | 2026-11-02 |
 
-## Emergency ordinances (OUG) (1697, of which 600 amending acts)
+## Emergency ordinances (OUG) (1698, of which 600 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -4334,6 +4336,7 @@
 | Ordonanța de urgență a Guvernului nr. 14/2019 pentru aprobarea plafoanelor unor indicatori specificaţi în cadrul fiscal-bugetar pe anul 2019 | [`oug/2019/14/`](oug/2019/14/) | amending act | 1 | 2019-03-12 | 2019-03-12 |
 | Ordonanța de urgență a Guvernului nr. 15/2019 pentru prorogarea unor termene | [`oug/2019/15/`](oug/2019/15/) | amending act | 1 | 2019-03-14 | 2019-03-14 |
 | Ordonanța de urgență a Guvernului nr. 19/2019 pentru modificarea și completarea unor acte normative | [`oug/2019/19/`](oug/2019/19/) | amending act | 2 | 2019-03-29 | 2020-01-09 |
+| Ordonanța de urgență a Guvernului nr. 20/2019 privind transmiterea unor terenuri proprietate publică a statului din administrarea Ministerului Agriculturii şi Dezvoltării Rurale - Agenţia Naţională pentru Pescuit şi Acvacultură în administrarea Ministerului Apelor şi Pădurilor - Administraţia Naţională "Apele Române" | [`oug/2019/20/`](oug/2019/20/) | in force | 1 | 2019-04-01 | 2019-04-01 |
 | Ordonanța de urgență a Guvernului nr. 21/2019 pentru modificarea și completarea Legii nr. 38/2003 privind transportul în regim de taxi și în regim de închiriere | [`oug/2019/21/`](oug/2019/21/) | amending act | 3 | 2019-04-16 | 2019-06-15 |
 | Ordonanța de urgență a Guvernului nr. 23/2019 pentru completarea Legii educației naționale nr. 1/2011 , instituirea unor derogări și prorogarea unor termene | [`oug/2019/23/`](oug/2019/23/) | amending act | 2 | 2019-04-10 | 2019-11-29 |
 | Ordonanța de urgență a Guvernului nr. 24/2019 pentru modificarea și completarea Legii nr. 211/2004 privind unele măsuri pentru asigurarea protecției victimelor infracțiunilor, precum și a altor acte normative | [`oug/2019/24/`](oug/2019/24/) | amending act | 1 | 2019-04-10 | 2019-04-10 |
@@ -5513,7 +5516,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (14964, of which 7586 amending acts)
+## Government decisions (HG) (14968, of which 7589 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -13796,6 +13799,7 @@
 | Hotărârea Guvernului nr. 54/2019 privind aplicarea mobilității pentru domnul Gyorke Zoltan din funcția publică de subprefect al județului Cluj în funcția publică de inspector guvernamental | [`hg/2019/54/`](hg/2019/54/) | in force | 1 | 2019-02-12 | 2019-02-12 |
 | Hotărârea Guvernului nr. 55/2019 pentru modificarea şi completarea Regulamentului de valorificare a masei lemnoase din fondul forestier proprietate publică, aprobat prin Hotărârea Guvernului nr. 715/2017 | [`hg/2019/55/`](hg/2019/55/) | amending act | 1 | 2019-02-21 | 2019-02-21 |
 | Hotărârea Guvernului nr. 56/2019 pentru aprobarea Memorandumului de înțelegere dintre Ministerul Apărării Naționale din România și Ministerul Apărării din Regatul Spaniei privind cooperarea în domeniul apărării, semnat la Madrid la 6 septembrie 2018 | [`hg/2019/56/`](hg/2019/56/) | amending act | 1 | 2019-02-13 | 2019-02-13 |
+| Hotărârea Guvernului nr. 58/2019 pentru aprobarea Normelor metodologice de aplicare a Legii nr. 256/2015 privind exercitarea profesiei de dietetician, precum şi înfiinţarea, organizarea şi funcţionarea Colegiului Dieteticienilor din România | [`hg/2019/58/`](hg/2019/58/) | amending act | 1 | 2019-02-15 | 2019-02-15 |
 | Hotărârea Guvernului nr. 60/2019 privind actualizarea denumirii, a descrierii tehnice și a valorii de inventar ale unui imobil aflat în domeniul public al statului și în administrarea Penitenciarului Tulcea - Centrul de formare profesională Chilia, din subordinea Administrației Naționale a Penitenciarelor | [`hg/2019/60/`](hg/2019/60/) | in force | 1 | 2019-02-13 | 2019-02-13 |
 | Hotărârea Guvernului nr. 61/2019 privind modificarea datelor de identificare a unor imobile aflate în domeniul public al statului şi în administrarea Ministerului Justiţiei - Administraţia Naţională a Penitenciarelor, prin Penitenciarul Spital Constanţa Poarta Albă, precum şi transmiterea din domeniul public al statului în domeniul privat al acestuia a unor construcţii aflate în administrarea Ministerului Justiţiei - Administraţia Naţională a Penitenciarelor, prin Penitenciarul Spital Constanţa Poarta Albă, în vederea scoaterii din funcţiune şi demolării | [`hg/2019/61/`](hg/2019/61/) | amending act | 1 | 2019-02-18 | 2019-02-18 |
 | Hotărârea Guvernului nr. 63/2019 pentru aprobarea amendamentului convenit între Guvernul României şi Banca de Dezvoltare a Consiliului Europei, prin schimbul de scrisori semnate la Bucureşti la 11 octombrie 2018 şi la Paris la 14 noiembrie 2018, la Acordul-cadru de împrumut dintre România şi Banca de Dezvoltare a Consiliului Europei pentru finanţarea Proiectului privind finalizarea construcţiei, renovarea sau reabilitarea clădirilor culturale de interes public din România, semnat la Bucureşti la 4 mai 2007 şi la Paris la 14 mai 2007 | [`hg/2019/63/`](hg/2019/63/) | amending act | 1 | 2019-02-13 | 2019-02-13 |
@@ -13903,6 +13907,7 @@
 | Hotărârea Guvernului nr. 214/2019 pentru modificarea Hotărârii Guvernului nr. 16/2017 privind organizarea şi funcţionarea Ministerului Afacerilor Externe, precum şi a Hotărârii Guvernului nr. 868/2003 privind organizarea şi funcţionarea Agentului guvernamental pentru Curtea Europeană a Drepturilor Omului | [`hg/2019/214/`](hg/2019/214/) | amending act | 1 | 2019-04-11 | 2019-04-11 |
 | Hotărârea Guvernului nr. 216/2019 pentru modificarea art. 47 alin. (1) din Normele financiare pentru activitatea sportivă, aprobate prin Hotărârea Guvernului nr. 1.447/2007 | [`hg/2019/216/`](hg/2019/216/) | amending act | 1 | 2019-04-16 | 2019-04-16 |
 | Hotărârea Guvernului nr. 220/2019 privind actualizarea valorii de inventar a unui imobil aflat în domeniul public al statului şi în administrarea Ministerului Afacerilor Interne - Unitatea Militară 0460 Râmnicu Vâlcea şi pentru trecerea unei părţi de imobil din domeniul public al statului în domeniul privat al statului, pentru a fi predat către Comisia locală de aplicare a legii fondului funciar Bujoreni, judeţul Vâlcea, în vederea punerii în posesie a persoanelor îndreptăţite | [`hg/2019/220/`](hg/2019/220/) | in force | 1 | 2019-04-16 | 2019-04-16 |
+| Hotărârea Guvernului nr. 221/2019 pentru modificarea şi completarea Hotărârii Guvernului nr. 403/2017 privind aprobarea Programului de granturi pentru cercetare-dezvoltare şi inovare „Grantul pentru tineri cercetători REGELE CAROL I“ | [`hg/2019/221/`](hg/2019/221/) | amending act | 1 | 2019-04-18 | 2019-04-18 |
 | Hotărârea Guvernului nr. 222/2019 privind reaprobarea indicatorilor tehnico-economici ai obiectivului de investiții "Centura de ocolire Craiova - varianta Sud DN 56-DN 55-DN 6" | [`hg/2019/222/`](hg/2019/222/) | in force | 1 | 2019-04-12 | 2019-04-12 |
 | Hotărârea Guvernului nr. 223/2019 privind aprobarea acordării ajutorului de stat pentru facilitarea închiderii minelor de cărbune necompetitive din cadrul Societății Complexul Energetic Hunedoara - S.A. pentru anul 2019 | [`hg/2019/223/`](hg/2019/223/) | amending act | 1 | 2019-04-12 | 2019-04-12 |
 | Hotărârea Guvernului nr. 224/2019 privind aprobarea acordării ajutorului de stat pentru facilitarea închiderii minelor de cărbune necompetitive din cadrul Societății Naționale de Închideri Mine Valea Jiului - S.A. pentru anul 2019 | [`hg/2019/224/`](hg/2019/224/) | amending act | 1 | 2019-04-12 | 2019-04-12 |
@@ -13915,6 +13920,7 @@
 | Hotărârea Guvernului nr. 236/2019 pentru aprobarea Regulamentului de aplicare a Legii nr. 142/2018 privind precursorii de droguri | [`hg/2019/236/`](hg/2019/236/) | amending act | 1 | 2019-06-08 | 2019-06-08 |
 | Hotărârea Guvernului nr. 237/2019 pentru aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii "Consolidarea, modernizarea, extinderea şi dotarea patinoarului artificial din municipiul Gheorgheni" | [`hg/2019/237/`](hg/2019/237/) | amending act | 1 | 2019-04-23 | 2019-04-23 |
 | Hotărârea Guvernului nr. 241/2019 privind aprobarea actualizării valorilor de inventar ale unor bunuri imobile din domeniul public al statului aflate în administrarea Ministerului Apărării Naţionale, situate în judeţele Iaşi, Arad, Brăila, Constanţa, Gorj, Vâlcea, Prahova, Vaslui şi municipiul Bucureşti | [`hg/2019/241/`](hg/2019/241/) | amending act | 1 | 2019-05-08 | 2019-05-08 |
+| Hotărârea Guvernului nr. 246/2019 privind modificarea anexei nr. 12 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului | [`hg/2019/246/`](hg/2019/246/) | amending act | 1 | 2019-05-06 | 2019-05-06 |
 | Hotărârea Guvernului nr. 247/2019 privind aprobarea stemei comunei Păuleşti, judeţul Satu Mare | [`hg/2019/247/`](hg/2019/247/) | amending act | 1 | 2019-05-13 | 2019-05-13 |
 | Hotărârea Guvernului nr. 248/2019 privind aprobarea stemei comunei Cuza Vodă, judeţul Constanţa | [`hg/2019/248/`](hg/2019/248/) | amending act | 1 | 2019-05-13 | 2019-05-13 |
 | Hotărârea Guvernului nr. 249/2019 privind aprobarea stemei comunei Vorniceni, judeţul Botoşani | [`hg/2019/249/`](hg/2019/249/) | amending act | 1 | 2019-05-13 | 2019-05-13 |
@@ -13932,6 +13938,7 @@
 | Hotărârea Guvernului nr. 264/2019 privind aprobarea stemei comunei Prundu Bârgăului, judeţul Bistriţa-Năsăud | [`hg/2019/264/`](hg/2019/264/) | amending act | 1 | 2019-05-13 | 2019-05-13 |
 | Hotărârea Guvernului nr. 265/2019 privind aprobarea stemei comunei Buda, judeţul Buzău | [`hg/2019/265/`](hg/2019/265/) | amending act | 1 | 2019-05-13 | 2019-05-13 |
 | Hotărârea Guvernului nr. 266/2019 privind aprobarea stemei comunei Darova, judeţul Timiş | [`hg/2019/266/`](hg/2019/266/) | amending act | 1 | 2019-05-13 | 2019-05-13 |
+| Hotărârea Guvernului nr. 267/2019 privind înfiinţarea Sistemului naţional pentru raportarea politicilor şi măsurilor şi pentru raportarea prognozelor emisiilor şi reţinerilor de gaze cu efect de seră | [`hg/2019/267/`](hg/2019/267/) | in force | 1 | 2019-05-08 | 2019-05-08 |
 | Hotărârea Guvernului nr. 269/2019 privind aprobarea sumei alocate pentru majorarea capitalului social al Societăţii Naţionale "Casa Română de Comerţ Agroalimentar UNIREA" - S.A., precum şi pentru modificarea Hotărârii Guvernului nr. 933/2018 privind înfiinţarea Societăţii Naţionale "Casa Română de Comerţ Agroalimentar UNIREA" - S.A | [`hg/2019/269/`](hg/2019/269/) | amending act | 1 | 2019-05-07 | 2019-05-07 |
 | Hotărârea Guvernului nr. 270/2019 privind acordarea unor ajutoare de urgenţă | [`hg/2019/270/`](hg/2019/270/) | in force | 1 | 2019-05-09 | 2019-05-09 |
 | Hotărârea Guvernului nr. 271/2019 pentru reaprobarea indicatorilor tehnico-economici ai obiectivului de investiţii "Consolidare şi restaurare Cazino Constanţa - (clădire S + P + 1E + M, pod parţial şi rampa de acces către subsol) şi lucrări exterioare (reabilitarea platformă terasă, reţele utilităţi, zid de apărare şi balustradă)" | [`hg/2019/271/`](hg/2019/271/) | in force | 1 | 2019-05-09 | 2019-05-09 |
