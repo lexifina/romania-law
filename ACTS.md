@@ -1,6 +1,6 @@
 # Every act in this repository
 
-8190 acts, 21,008 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+8192 acts, 21,015 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -32,7 +32,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (1949, of which 762 amending acts)
+## Laws (legi) (1951, of which 762 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -234,6 +234,7 @@
 | Legea nr. 133/1999 | [`lege/1999/133/`](lege/1999/133/) | in force | 2 | 1999-07-23 | 2002-07-30 |
 | Legea nr. 138/1999 | [`lege/1999/138/`](lege/1999/138/) | in force | 5 | 1999-08-01 | 2010-01-01 |
 | Legea nr. 142/1999 | [`lege/1999/142/`](lege/1999/142/) | repealed 2010-01-01 | 8 | 1999-07-29 | 2010-01-01 |
+| Legea nr. 143/1999 | [`lege/1999/143/`](lege/1999/143/) | in force | 3 | 2000-01-01 | 2005-08-16 |
 | Legea nr. 168/1999 | [`lege/1999/168/`](lege/1999/168/) | in force | 5 | 2000-01-01 | 2011-05-13 |
 | Legea nr. 187/1999 | [`lege/1999/187/`](lege/1999/187/) | in force | 3 | 1999-12-09 | 2006-03-22 |
 | Legea nr. 188/1999 privind Statutul funcționarilor publici | [`lege/1999/188/`](lege/1999/188/) | in force | 46 | 2000-01-07 | 2019-08-02 |
@@ -1438,6 +1439,7 @@
 | Legea nr. 215/2021 pentru declararea zilei de 15 noiembrie ca Ziua Revoltei Anticomuniste de la Brașov din 1987 | [`lege/2021/215/`](lege/2021/215/) | in force | 1 | 2021-07-26 | 2021-07-26 |
 | Legea nr. 219/2021 pentru modificarea și completarea Legii nr. 104/2008 privind prevenirea și combaterea producerii și traficului ilicit de substanțe dopante cu grad mare de risc | [`lege/2021/219/`](lege/2021/219/) | amending act | 2 | 2021-07-31 | 2021-08-27 |
 | Legea nr. 221/2021 pentru completarea Legii nr. 55/2020 privind unele măsuri pentru prevenirea și combaterea efectelor pandemiei de COVID-19 | [`lege/2021/221/`](lege/2021/221/) | amending act | 1 | 2021-07-29 | 2021-07-29 |
+| Legea nr. 226/2021 privind stabilirea măsurilor de protecție socială pentru consumatorul vulnerabil de energie | [`lege/2021/226/`](lege/2021/226/) | in force | 4 | 2021-09-19 | 2023-04-01 |
 | Legea nr. 243/2021 pentru modificarea art. 1 alin. (3) din Legea nr. 406/2001 privind acordarea unor drepturi persoanelor care au avut calitatea de șef al statului român | [`lege/2021/243/`](lege/2021/243/) | amending act | 1 | 2021-10-11 | 2021-10-11 |
 | Legea nr. 249/2021 pentru completarea art. 84 din Legea educației naționale nr. 1/2011 | [`lege/2021/249/`](lege/2021/249/) | amending act | 1 | 2022-09-01 | 2022-09-01 |
 | Legea nr. 258/2021 pentru ratificarea Convenției Consiliului Europei privind coproducția cinematografică (revizuită), deschisă spre semnare la Rotterdam la 30 ianuarie 2017, semnată de România la Strasbourg la 19 ianuarie 2021 | [`lege/2021/258/`](lege/2021/258/) | in force | 1 | 2021-10-23 | 2021-10-23 |

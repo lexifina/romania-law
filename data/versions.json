@@ -30857,6 +30857,33 @@
    ]
   },
   {
+   "slug": "legea-143-1999",
+   "path": "lege/1999/143",
+   "short": "Legea nr. 143/1999",
+   "title": "Legea nr. 143/1999",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54997",
+   "versions": [
+    {
+     "from": "2000-01-01",
+     "units": 31,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/18940",
+     "sha256": "7bf2f0558e5768200a9ffe1d354484e2547a94459b5620967dbfaced555add88"
+    },
+    {
+     "from": "2004-02-03",
+     "units": 51,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49756",
+     "sha256": "6b851053deeb59f755f22a1f16899964071536f56c9ecaf85644713519a6cab4"
+    },
+    {
+     "from": "2005-08-16",
+     "units": 48,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/64225",
+     "sha256": "af277da2e269c0e62b7350017c4fb9df9e310f27feeaef0c09ee1a5044508cfc"
+    }
+   ]
+  },
+  {
    "slug": "legea-143-2000",
    "path": "lege/2000/143",
    "short": "Legea nr. 143/2000",
@@ -37969,6 +37996,39 @@
      "units": 0,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/124530",
      "sha256": "14fc1469bd16fe70262f421798aefd14069ee63757c5c28e30ba5c4404be77c3"
+    }
+   ]
+  },
+  {
+   "slug": "legea-226-2021",
+   "path": "lege/2021/226",
+   "short": "Legea nr. 226/2021",
+   "title": "Legea nr. 226/2021 privind stabilirea măsurilor de protecție socială pentru consumatorul vulnerabil de energie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/246430",
+   "versions": [
+    {
+     "from": "2021-09-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/246430",
+     "sha256": "6641d8ef4693397611e7a400481f854abc8ce40453e160c54e4539281a1e4415"
+    },
+    {
+     "from": "2021-11-01",
+     "units": 43,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/246430",
+     "sha256": "6641d8ef4693397611e7a400481f854abc8ce40453e160c54e4539281a1e4415"
+    },
+    {
+     "from": "2021-12-31",
+     "units": 43,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/249548",
+     "sha256": "5ba78c84c8fb86e64885547acbe858f44b5d927a6f356986baef7bde898f1ca6"
+    },
+    {
+     "from": "2023-04-01",
+     "units": 43,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/249548",
+     "sha256": "5ba78c84c8fb86e64885547acbe858f44b5d927a6f356986baef7bde898f1ca6"
     }
    ]
   },

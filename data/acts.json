@@ -3385,6 +3385,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/18891"
 },
 {
+"slug": "legea-143-1999",
+"path": "lege/1999/143",
+"kind": "lege",
+"year": "1999",
+"number": "143",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 143/1999",
+"short": "Legea nr. 143/1999",
+"code": null,
+"status": "in force",
+"versions": 3,
+"from": "2000-01-01",
+"latest": "2005-08-16",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/54997"
+},
+{
 "slug": "legea-168-1999",
 "path": "lege/1999/168",
 "kind": "lege",
@@ -23851,6 +23868,23 @@
 "from": "2021-07-29",
 "latest": "2021-07-29",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/244930"
+},
+{
+"slug": "legea-226-2021",
+"path": "lege/2021/226",
+"kind": "lege",
+"year": "2021",
+"number": "226",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 226/2021 privind stabilirea măsurilor de protecție socială pentru consumatorul vulnerabil de energie",
+"short": "Legea nr. 226/2021",
+"code": null,
+"status": "in force",
+"versions": 4,
+"from": "2021-09-19",
+"latest": "2023-04-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/246430"
 },
 {
 "slug": "legea-243-2021",
