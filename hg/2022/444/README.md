@@ -1,0 +1,16 @@
+# Hotărârea Guvernului nr. 444/2022 pentru modificarea Hotărârii Guvernului nr. 998/2020 privind stabilirea numărului de bilete de tratament balnear și de recuperare, a condițiilor și modului de acordare, precum și a modului de distribuire sau de decontare a acestora în sistemul pensiilor militare de stat
+
+HG nr. 444/2022 · 1 versions, from 2022-03-31 (latest in force: 2022-03-31) · <https://legislatie.just.ro/Public/DetaliiDocument/253522>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| ARTICOL UNIC | [art-001.md](art-001.md) | 0 |  |
+
+Act id: `hg-444-2022` (tags `hg-444-2022/<day>`; `python tools/on.py <day> hg-444-2022`).
+
+## Decisions made by hand
+
+- HG nr. 444/2022: added 2026-11-02, one of the Portalul legislativ's consolidated forms per version, as for the other acts. A capture was used only if it was complete and the page showed the form its document id stands for. The forms are those listed by DetaliiDocumentAfis/253522 as captured on 2024-10-10, the newest capture of any of the act's pages: 0 forms, 0 held.
+- HG nr. 444/2022: the newest form held is that of 31.03.2022; amendments in force after it may be missing.
+- HG nr. 444/2022: the first version is the Government decision as published in Monitorul Oficial nr. 319 of 31 March 2022 (DetaliiDocumentAfis/253522), dated 31 March 2022: a Government decision with no day of its own, in force on publication (Legea nr. 24/2000 art. 12 alin. (3)). The portal lists no consolidated form of it, so the text as published is its only version; the act page (DetaliiDocument/253522) prints the same text.
+- HG nr. 444/2022: the Government decision has a single article ("Articol unic"), filed as art-001.
