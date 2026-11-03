@@ -287192,6 +287192,21 @@
    ]
   },
   {
+   "slug": "hg-937-2013",
+   "path": "hg/2013/937",
+   "short": "HG nr. 937/2013",
+   "title": "Hotărârea Guvernului nr. 937/2013 privind declanşarea procedurilor de expropriere a imobilelor proprietate privată care constituie coridorul de expropriere al lucrării de utilitate publică \"Reabilitare DN 66 Filiaşi-Petroşani km 0 + 000-km 131 + 000, sector km 93 + 500-km 126 + 000\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/153302",
+   "versions": [
+    {
+     "from": "2013-12-04",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/153302",
+     "sha256": "c2b20f57343a90d33be31d190d5a27918ceec49964d785a25bdd4772940d5803"
+    }
+   ]
+  },
+  {
    "slug": "hg-937-2014",
    "path": "hg/2014/937",
    "short": "HG nr. 937/2014",
@@ -287308,6 +287323,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/31014",
      "sha256": "5a8e2d486b6fa9a7853b36224fe738f6a8d216bb4b205462c9e445ca04cb8dae"
+    }
+   ]
+  },
+  {
+   "slug": "hg-938-2013",
+   "path": "hg/2013/938",
+   "short": "HG nr. 938/2013",
+   "title": "Hotărârea Guvernului nr. 938/2013 privind declanşarea procedurilor de expropriere a imobilelor proprietate privată rămase de expropriat, situate pe amplasamentul lucrării de utilitate publică \"Varianta de ocolire a municipiului Sibiu - Tronson 1 de la km 0 + 000 (DN 1 km 302 + 150) la km 14 + 860 şi Tronson 2 de la km 14 + 860 la km 17 + 500 şi Reabilitare DN 1T (fost DJ 106B), km 0 + 000-km 3 + 600\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/153259",
+   "versions": [
+    {
+     "from": "2013-12-04",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/153259",
+     "sha256": "d4a44d1c5847c17afe1881b7a406805262f142717275ed8b64fd5e355bfdbae0"
     }
    ]
   },
@@ -287858,6 +287888,21 @@
    ]
   },
   {
+   "slug": "hg-940-2013",
+   "path": "hg/2013/940",
+   "short": "HG nr. 940/2013",
+   "title": "Hotărârea Guvernului nr. 940/2013 privind declanşarea procedurilor de expropriere a imobilelor proprietate privată situate pe amplasamentul suplimentar al lucrării \"Reabilitare DN 6 Drobeta-Turnu Severin-Lugoj, între km 358 + 000 şi km 495 + 800\" pe teritoriul localităţilor Caransebeş, Buchin şi Păltiniş",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/153304",
+   "versions": [
+    {
+     "from": "2013-12-04",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/153304",
+     "sha256": "b39948f63831d6a27ed642c6875798c47f7d35bff65c70e747c3dddf25872e8c"
+    }
+   ]
+  },
+  {
    "slug": "hg-940-2015",
    "path": "hg/2015/940",
    "short": "HG nr. 940/2015",
@@ -288196,6 +288241,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/286629",
      "sha256": "aaa18a2cd9aa4241e0d0d1975843e059ca8284d8e8708682afa21bbb7a0ddc8a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-942-2013",
+   "path": "hg/2013/942",
+   "short": "HG nr. 942/2013",
+   "title": "Hotărârea Guvernului nr. 942/2013 privind aprobarea bugetului de venituri şi cheltuieli pe anul 2014 al Societăţii Naţionale de Transport Feroviar de Marfă \"C.F.R. - Marfă\" - S.A., aflată sub autoritatea Ministerului Transporturilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/153303",
+   "versions": [
+    {
+     "from": "2013-12-04",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/153303",
+     "sha256": "6104d9daf3f943733b33317d92ba2d7556af7889253e94b9982ee350d7e882e1"
     }
    ]
   },
@@ -324119,6 +324179,21 @@
    ]
   },
   {
+   "slug": "legea-317-2013",
+   "path": "lege/2013/317",
+   "short": "Legea nr. 317/2013",
+   "title": "Legea nr. 317/2013 privind aprobarea Ordonanţei Guvernului nr. 25/2013 pentru modificarea şi completarea Ordonanţei Guvernului nr. 24/1992 privind stabilirea serviciilor consulare şi a taxelor percepute pentru prestarea acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/153152",
+   "versions": [
+    {
+     "from": "2013-12-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/153152",
+     "sha256": "ccd8b8ee4b698986066daf7759a38f9a16894cde16f4e32b6b3acb8a67711837"
+    }
+   ]
+  },
+  {
    "slug": "legea-317-2023",
    "path": "lege/2023/317",
    "short": "Legea nr. 317/2023",
@@ -324145,6 +324220,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/292952",
      "sha256": "080b9e6793ff4a94dfe8692486fc88f07dd81fe7e6d572f64ae503e5823f7b67"
+    }
+   ]
+  },
+  {
+   "slug": "legea-318-2013",
+   "path": "lege/2013/318",
+   "short": "Legea nr. 318/2013",
+   "title": "Legea nr. 318/2013 pentru trecerea Centrului Naţional de Cultură a Romilor - Româno Kher din subordinea Ministerului Culturii în subordinea Agenţiei Naţionale pentru Romi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/153154",
+   "versions": [
+    {
+     "from": "2013-12-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/153154",
+     "sha256": "3a909c81cc84d845945703a1da012642e2b9c88f2c1dfb4ac693b73fbfe7edb9"
     }
    ]
   },
@@ -324190,6 +324280,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/112270",
      "sha256": "3a82b2498f93b1812a0f2ea144e2502a484fabaa75a4944eb07417fc0d8f9d01"
+    }
+   ]
+  },
+  {
+   "slug": "legea-319-2013",
+   "path": "lege/2013/319",
+   "short": "Legea nr. 319/2013",
+   "title": "Legea nr. 319/2013 pentru ratificarea Acordului dintre Guvernul României şi Guvernul Republicii Polonia privind cooperarea bilaterală în domeniul apărării, semnat la Varşovia la 5 iunie 2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/153352",
+   "versions": [
+    {
+     "from": "2013-12-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/153352",
+     "sha256": "22c5584fa645d6678e6261be6a8e0a24f4ea40b18b9865002c3284041a7ca2eb"
     }
    ]
   },
@@ -324271,6 +324376,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87111",
      "sha256": "75c7d9847abb9b58a79ce2678caba239be3990eefe65e0194efb2d5d74d321b0"
+    }
+   ]
+  },
+  {
+   "slug": "legea-320-2013",
+   "path": "lege/2013/320",
+   "short": "Legea nr. 320/2013",
+   "title": "Legea nr. 320/2013 privind aprobarea Ordonanţei Guvernului nr. 24/2013 pentru completarea anexei nr. 1 la Ordonanţa Guvernului nr. 41/1994 privind autorizarea plăţii cotizaţiilor la organizaţiile internaţionale interguvernamentale la care România este parte, precum şi pentru aprobarea plăţii unei contribuţii financiare la organisme internaţionale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/153157",
+   "versions": [
+    {
+     "from": "2013-12-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/153157",
+     "sha256": "f7843eae6e0d389aef0ad56ed7d83614298c01a2294dc2b5842f2f46f9889677"
     }
    ]
   },
@@ -324607,6 +324727,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87170",
      "sha256": "34040082bb095755698e1ec981f5d4f8470d1ccb97f47b270738e8d8b92db9db"
+    }
+   ]
+  },
+  {
+   "slug": "legea-324-2013",
+   "path": "lege/2013/324",
+   "short": "Legea nr. 324/2013",
+   "title": "Legea nr. 324/2013 pentru respingerea Ordonanţei de urgenţă a Guvernului nr. 59/2013 privind stabilirea unor măsuri pentru eficientizarea activităţilor de prevenire şi combatere a corupţiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/153169",
+   "versions": [
+    {
+     "from": "2013-12-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/153169",
+     "sha256": "feb498d49b1fd6d416a58729b068540193d59440a92af58feacebb9b4e0b61ea"
     }
    ]
   },

@@ -1,6 +1,6 @@
 # Every act in this repository
 
-19005 acts, 32,634 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+19014 acts, 32,643 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (3039, of which 1606 amending acts)
+## Laws (legi) (3044, of which 1609 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -1088,7 +1088,12 @@
 | Legea nr. 281/2013 | [`lege/2013/281/`](lege/2013/281/) | in force | 1 | 2013-11-08 | 2013-11-08 |
 | Legea nr. 300/2013 pentru modificarea și completarea Legii nr. 302/2004 privind cooperarea judiciară internațională în materie penală | [`lege/2013/300/`](lege/2013/300/) | amending act | 3 | 2013-12-14 | 2014-02-01 |
 | Legea nr. 307/2013 | [`lege/2013/307/`](lege/2013/307/) | in force | 4 | 2013-12-06 | 2024-11-15 |
+| Legea nr. 317/2013 privind aprobarea Ordonanţei Guvernului nr. 25/2013 pentru modificarea şi completarea Ordonanţei Guvernului nr. 24/1992 privind stabilirea serviciilor consulare şi a taxelor percepute pentru prestarea acestora | [`lege/2013/317/`](lege/2013/317/) | amending act | 1 | 2013-12-05 | 2013-12-05 |
+| Legea nr. 318/2013 pentru trecerea Centrului Naţional de Cultură a Romilor - Româno Kher din subordinea Ministerului Culturii în subordinea Agenţiei Naţionale pentru Romi | [`lege/2013/318/`](lege/2013/318/) | in force | 1 | 2013-12-05 | 2013-12-05 |
+| Legea nr. 319/2013 pentru ratificarea Acordului dintre Guvernul României şi Guvernul Republicii Polonia privind cooperarea bilaterală în domeniul apărării, semnat la Varşovia la 5 iunie 2013 | [`lege/2013/319/`](lege/2013/319/) | in force | 1 | 2013-12-09 | 2013-12-09 |
+| Legea nr. 320/2013 privind aprobarea Ordonanţei Guvernului nr. 24/2013 pentru completarea anexei nr. 1 la Ordonanţa Guvernului nr. 41/1994 privind autorizarea plăţii cotizaţiilor la organizaţiile internaţionale interguvernamentale la care România este parte, precum şi pentru aprobarea plăţii unei contribuţii financiare la organisme internaţionale | [`lege/2013/320/`](lege/2013/320/) | amending act | 1 | 2013-12-05 | 2013-12-05 |
 | Legea nr. 323/2013 | [`lege/2013/323/`](lege/2013/323/) | in force | 2 | 2013-12-05 | 2015-03-13 |
+| Legea nr. 324/2013 pentru respingerea Ordonanţei de urgenţă a Guvernului nr. 59/2013 privind stabilirea unor măsuri pentru eficientizarea activităţilor de prevenire şi combatere a corupţiei | [`lege/2013/324/`](lege/2013/324/) | amending act | 1 | 2013-12-05 | 2013-12-05 |
 | Legea nr. 325/2013 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 38/2013 privind finanţarea Autorităţii Naţionale pentru Restituirea Proprietăţilor | [`lege/2013/325/`](lege/2013/325/) | amending act | 1 | 2013-12-15 | 2013-12-15 |
 | Legea nr. 326/2013 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 60/2013 pentru completarea art. 4 alin. (1) din Legea nr. 349/2007 privind reorganizarea cadrului instituţional în domeniul managementului substanţelor chimice | [`lege/2013/326/`](lege/2013/326/) | amending act | 1 | 2013-12-07 | 2013-12-07 |
 | Legea nr. 327/2013 pentru completarea art. 86 din Legea nr. 80/1995 privind statutul cadrelor militare | [`lege/2013/327/`](lege/2013/327/) | amending act | 1 | 2013-12-12 | 2013-12-12 |
@@ -5278,7 +5283,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (13736, of which 6882 amending acts)
+## Government decisions (HG) (13740, of which 6883 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -8678,7 +8683,11 @@
 | Hotărârea Guvernului nr. 891/2013 | [`hg/2013/891/`](hg/2013/891/) | in force | 1 | 2013-11-20 | 2013-11-20 |
 | Hotărârea Guvernului nr. 892/2013 | [`hg/2013/892/`](hg/2013/892/) | in force | 1 | 2013-11-20 | 2013-11-20 |
 | Hotărârea Guvernului nr. 918/2013 | [`hg/2013/918/`](hg/2013/918/) | in force | 3 | 2013-11-28 | 2018-03-28 |
+| Hotărârea Guvernului nr. 937/2013 privind declanşarea procedurilor de expropriere a imobilelor proprietate privată care constituie coridorul de expropriere al lucrării de utilitate publică "Reabilitare DN 66 Filiaşi-Petroşani km 0 + 000-km 131 + 000, sector km 93 + 500-km 126 + 000" | [`hg/2013/937/`](hg/2013/937/) | in force | 1 | 2013-12-04 | 2013-12-04 |
+| Hotărârea Guvernului nr. 938/2013 privind declanşarea procedurilor de expropriere a imobilelor proprietate privată rămase de expropriat, situate pe amplasamentul lucrării de utilitate publică "Varianta de ocolire a municipiului Sibiu - Tronson 1 de la km 0 + 000 (DN 1 km 302 + 150) la km 14 + 860 şi Tronson 2 de la km 14 + 860 la km 17 + 500 şi Reabilitare DN 1T (fost DJ 106B), km 0 + 000-km 3 + 600" | [`hg/2013/938/`](hg/2013/938/) | in force | 1 | 2013-12-04 | 2013-12-04 |
+| Hotărârea Guvernului nr. 940/2013 privind declanşarea procedurilor de expropriere a imobilelor proprietate privată situate pe amplasamentul suplimentar al lucrării "Reabilitare DN 6 Drobeta-Turnu Severin-Lugoj, între km 358 + 000 şi km 495 + 800" pe teritoriul localităţilor Caransebeş, Buchin şi Păltiniş | [`hg/2013/940/`](hg/2013/940/) | in force | 1 | 2013-12-04 | 2013-12-04 |
 | Hotărârea Guvernului nr. 941/2013 | [`hg/2013/941/`](hg/2013/941/) | in force | 3 | 2013-12-04 | 2023-09-15 |
+| Hotărârea Guvernului nr. 942/2013 privind aprobarea bugetului de venituri şi cheltuieli pe anul 2014 al Societăţii Naţionale de Transport Feroviar de Marfă "C.F.R. - Marfă" - S.A., aflată sub autoritatea Ministerului Transporturilor | [`hg/2013/942/`](hg/2013/942/) | amending act | 1 | 2013-12-04 | 2013-12-04 |
 | Hotărârea Guvernului nr. 943/2013 | [`hg/2013/943/`](hg/2013/943/) | in force | 1 | 2013-12-17 | 2013-12-17 |
 | Hotărârea Guvernului nr. 944/2013 privind aplicarea mobilităţii pentru domnul Coman Cornel din funcţia publică de subprefect al judeţului Călăraşi în funcţia publică de inspector guvernamental | [`hg/2013/944/`](hg/2013/944/) | in force | 1 | 2013-12-05 | 2013-12-05 |
 | Hotărârea Guvernului nr. 945/2013 privind exercitarea, cu caracter temporar, prin detaşare în condiţiile legii, a funcţiei publice de subprefect al judeţului Călăraşi de către domnul Stan Ion | [`hg/2013/945/`](hg/2013/945/) | in force | 1 | 2013-12-05 | 2013-12-05 |
