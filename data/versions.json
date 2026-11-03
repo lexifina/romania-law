@@ -14411,6 +14411,27 @@
    ]
   },
   {
+   "slug": "legea-149-2011",
+   "path": "lege/2011/149",
+   "short": "Legea nr. 149/2011",
+   "title": "Legea nr. 149/2011 pentru aprobarea Ordonanței de urgență a Guvernului nr. 75/2010 privind modificarea și completarea Legii concurenței nr. 21/1996",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/201640",
+   "versions": [
+    {
+     "from": "2011-07-14",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/129971",
+     "sha256": "278002586d3e82703e28211e2be1424d8c947da405081285e7912ed78503919b"
+    },
+    {
+     "from": "2011-07-19",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/201641",
+     "sha256": "116a5eb92b75bc35ee87aed04d0cb9ae543cef76e9940df9aa0e0ee133842afc"
+    }
+   ]
+  },
+  {
    "slug": "legea-15-1990",
    "path": "lege/1990/15",
    "short": "Legea nr. 15/1990",
@@ -44036,6 +44057,27 @@
    ]
   },
   {
+   "slug": "og-6-2012",
+   "path": "og/2012/6",
+   "short": "OG nr. 6/2012",
+   "title": "Ordonanța Guvernului nr. 6/2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/201146",
+   "versions": [
+    {
+     "from": "2012-03-31",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/134875",
+     "sha256": "87f01f5dd98c9db2731ea0e13e22cff38044bab07a919e0b8f880b9fa4653817"
+    },
+    {
+     "from": "2013-07-21",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/201146",
+     "sha256": "24500a9e45305f17dfae7fb1238c85f73c8d3c8bf9fc5207747fadeadadf60a0"
+    }
+   ]
+  },
+  {
    "slug": "og-6-2013",
    "path": "og/2013/6",
    "short": "OG nr. 6/2013",
@@ -47098,6 +47140,33 @@
      "units": 35,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/152643",
      "sha256": "b4c42d5feb380ccab4d2e53b5541553ab1d8e403a77d3f65159dfcb61c72186a"
+    }
+   ]
+  },
+  {
+   "slug": "oug-103-2017",
+   "path": "oug/2017/103",
+   "short": "OUG nr. 103/2017",
+   "title": "Ordonanța de urgență a Guvernului nr. 103/2017 pentru modificarea și completarea unor acte normative din domeniul asigurărilor sociale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/195809",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/195809",
+     "sha256": "d52ed3a499d4f7bd8317f9e83d252d206af314697e37b0061dd3161a19abcd2f"
+    },
+    {
+     "from": "2018-01-19",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/195809",
+     "sha256": "d52ed3a499d4f7bd8317f9e83d252d206af314697e37b0061dd3161a19abcd2f"
+    },
+    {
+     "from": "2018-07-22",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/202483",
+     "sha256": "0b39dfd31215bcd72494fa438e7cf7062a15b5171f8354ee7dd69cc539f5be2d"
     }
    ]
   },
@@ -55910,6 +55979,27 @@
    ]
   },
   {
+   "slug": "oug-34-2020",
+   "path": "oug/2020/34",
+   "short": "OUG nr. 34/2020",
+   "title": "Ordonanța de urgență a Guvernului nr. 34/2020 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 1/1999 privind regimul stării de asediu și regimul stării de urgență",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/224526",
+   "versions": [
+    {
+     "from": "2020-03-31",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/224526",
+     "sha256": "463ec4877e1152eff93302cb3e5e0844e61094163bb8b3be8b40dd7332c9d0bf"
+    },
+    {
+     "from": "2020-04-03",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/224526",
+     "sha256": "463ec4877e1152eff93302cb3e5e0844e61094163bb8b3be8b40dd7332c9d0bf"
+    }
+   ]
+  },
+  {
    "slug": "oug-34-2023",
    "path": "oug/2023/34",
    "short": "OUG nr. 34/2023",
@@ -60514,6 +60604,33 @@
      "units": 25,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/298704",
      "sha256": "681744f069583188e4fa4762bb0546d7470351aefea20559414831ec00c2b792"
+    }
+   ]
+  },
+  {
+   "slug": "oug-74-2018",
+   "path": "oug/2018/74",
+   "short": "OUG nr. 74/2018",
+   "title": "Ordonanța de urgență a Guvernului nr. 74/2018 pentru modificarea și completarea Legii nr. 211/2011 privind regimul deșeurilor, a Legii nr. 249/2015 privind modalitatea de gestionare a ambalajelor și a deșeurilor de ambalaje și a Ordonanței de urgență a Guvernului nr. 196/2005 privind Fondul pentru mediu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/203014",
+   "versions": [
+    {
+     "from": "2018-07-19",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/203014",
+     "sha256": "95dfd7a860c9f0425754098f4406465973e0d6ed940db4a12d0b4edd493e89b1"
+    },
+    {
+     "from": "2018-08-18",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/203014",
+     "sha256": "95dfd7a860c9f0425754098f4406465973e0d6ed940db4a12d0b4edd493e89b1"
+    },
+    {
+     "from": "2019-01-17",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/209795",
+     "sha256": "0905969abae49664022448fc405b5fbf2b79c8b02c5ec737127abfd643877463"
     }
    ]
   },

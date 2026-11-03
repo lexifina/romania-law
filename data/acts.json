@@ -12599,6 +12599,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/129883"
 },
 {
+"slug": "legea-149-2011",
+"path": "lege/2011/149",
+"kind": "lege",
+"year": "2011",
+"number": "149",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 149/2011 pentru aprobarea Ordonanței de urgență a Guvernului nr. 75/2010 privind modificarea și completarea Legii concurenței nr. 21/1996",
+"short": "Legea nr. 149/2011",
+"code": null,
+"status": "amending act",
+"versions": 2,
+"from": "2011-07-14",
+"latest": "2011-07-19",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/201640"
+},
+{
 "slug": "legea-153-2011",
 "path": "lege/2011/153",
 "kind": "lege",
@@ -43862,6 +43879,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/195777"
 },
 {
+"slug": "oug-103-2017",
+"path": "oug/2017/103",
+"kind": "oug",
+"year": "2017",
+"number": "103",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 103/2017 pentru modificarea și completarea unor acte normative din domeniul asigurărilor sociale",
+"short": "OUG nr. 103/2017",
+"code": null,
+"status": "amending act",
+"versions": 3,
+"from": "2018-01-01",
+"latest": "2018-07-22",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/195809"
+},
+{
 "slug": "oug-104-2017",
 "path": "oug/2017/104",
 "kind": "oug",
@@ -44455,6 +44489,23 @@
 "from": "2018-07-19",
 "latest": "2021-10-05",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/202782"
+},
+{
+"slug": "oug-74-2018",
+"path": "oug/2018/74",
+"kind": "oug",
+"year": "2018",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 74/2018 pentru modificarea și completarea Legii nr. 211/2011 privind regimul deșeurilor, a Legii nr. 249/2015 privind modalitatea de gestionare a ambalajelor și a deșeurilor de ambalaje și a Ordonanței de urgență a Guvernului nr. 196/2005 privind Fondul pentru mediu",
+"short": "OUG nr. 74/2018",
+"code": null,
+"status": "amending act",
+"versions": 3,
+"from": "2018-07-19",
+"latest": "2019-01-17",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/203014"
 },
 {
 "slug": "oug-75-2018",
@@ -45696,6 +45747,23 @@
 "from": "2020-03-30",
 "latest": "2020-09-04",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/224484"
+},
+{
+"slug": "oug-34-2020",
+"path": "oug/2020/34",
+"kind": "oug",
+"year": "2020",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 34/2020 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 1/1999 privind regimul stării de asediu și regimul stării de urgență",
+"short": "OUG nr. 34/2020",
+"code": null,
+"status": "amending act",
+"versions": 2,
+"from": "2020-03-31",
+"latest": "2020-04-03",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/224526"
 },
 {
 "slug": "oug-35-2020",
@@ -58599,6 +58667,23 @@
 "from": "2012-03-01",
 "latest": "2012-03-01",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/134870"
+},
+{
+"slug": "og-6-2012",
+"path": "og/2012/6",
+"kind": "og",
+"year": "2012",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța Guvernului nr. 6/2012",
+"short": "OG nr. 6/2012",
+"code": null,
+"status": "in force",
+"versions": 2,
+"from": "2012-03-31",
+"latest": "2013-07-21",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/201146"
 },
 {
 "slug": "og-7-2012",

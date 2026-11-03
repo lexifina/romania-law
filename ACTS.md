@@ -1,6 +1,6 @@
 # Every act in this repository
 
-5948 acts, 16,839 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+5953 acts, 16,851 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -32,7 +32,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (1739, of which 641 amending acts)
+## Laws (legi) (1740, of which 642 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -776,6 +776,7 @@
 | Legea nr. 122/2011 | [`lege/2011/122/`](lege/2011/122/) | in force | 2 | 2011-07-17 | 2021-12-10 |
 | Legea nr. 130/2011 | [`lege/2011/130/`](lege/2011/130/) | in force | 1 | 2011-07-02 | 2011-07-02 |
 | Legea nr. 144/2011 | [`lege/2011/144/`](lege/2011/144/) | in force | 1 | 2011-07-10 | 2011-07-10 |
+| Legea nr. 149/2011 pentru aprobarea Ordonanței de urgență a Guvernului nr. 75/2010 privind modificarea și completarea Legii concurenței nr. 21/1996 | [`lege/2011/149/`](lege/2011/149/) | amending act | 2 | 2011-07-14 | 2011-07-19 |
 | Legea nr. 153/2011 | [`lege/2011/153/`](lege/2011/153/) | in force | 6 | 2011-08-10 | 2023-01-06 |
 | Legea nr. 156/2011 | [`lege/2011/156/`](lege/2011/156/) | in force | 1 | 2011-07-25 | 2011-07-25 |
 | Legea nr. 157/2011 | [`lege/2011/157/`](lege/2011/157/) | in force | 4 | 2011-07-31 | 2024-03-22 |
@@ -1776,7 +1777,7 @@
 | Legea nr. 241/2025 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 31/2002 privind interzicerea organizațiilor, simbolurilor și faptelor cu caracter fascist, legionar, rasist sau xenofob și a promovării cultului persoanelor vinovate de săvârșirea unor infracțiuni de genocid contra umanității și de crime de război, precum și pentru modificarea Legii nr. 157/2018 privind unele măsuri pentru prevenirea și combaterea antisemitismului | [`lege/2025/241/`](lege/2025/241/) | amending act | 1 | 2025-12-27 | 2025-12-27 |
 | Legea nr. 245/2025 pentru modificarea art. 32 alin. (7) din Legea nr. 273/2006 privind finanțele publice locale | [`lege/2025/245/`](lege/2025/245/) | amending act | 1 | 2026-01-01 | 2026-01-01 |
 
-## Emergency ordinances (OUG) (1440, of which 517 amending acts)
+## Emergency ordinances (OUG) (1443, of which 520 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -2620,6 +2621,7 @@
 | Ordonanța de urgență a Guvernului nr. 98/2017 privind funcția de control ex ante al procesului de atribuire a contractelor/acordurilor-cadru de achiziție publică, a contractelor/acordurilor-cadru sectoriale și a contractelor de concesiune de lucrări și concesiune de servicii | [`oug/2017/98/`](oug/2017/98/) | in force | 9 | 2017-12-18 | 2021-08-30 |
 | Ordonanța de urgență a Guvernului nr. 99/2017 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 158/2005 privind concediile și indemnizațiile de asigurări sociale de sănătate | [`oug/2017/99/`](oug/2017/99/) | amending act | 3 | 2017-12-19 | 2018-01-18 |
 | Ordonanța de urgență a Guvernului nr. 102/2017 pentru modificarea art. 20 din Ordonanța de urgență a Guvernului nr. 47/2013 privind unele măsuri în domeniul instrumentelor structurale care privesc beneficiarii direcți finanțați din fonduri externe nerambursabile, precum și unele măsuri financiare în domeniul ex-ISPA din sectorul transporturi | [`oug/2017/102/`](oug/2017/102/) | amending act | 1 | 2017-12-19 | 2017-12-19 |
+| Ordonanța de urgență a Guvernului nr. 103/2017 pentru modificarea și completarea unor acte normative din domeniul asigurărilor sociale | [`oug/2017/103/`](oug/2017/103/) | amending act | 3 | 2018-01-01 | 2018-07-22 |
 | Ordonanța de urgență a Guvernului nr. 104/2017 pentru modificarea și completarea Legii nr. 233/2016 privind parteneriatul public-privat | [`oug/2017/104/`](oug/2017/104/) | amending act | 2 | 2017-12-28 | 2018-02-26 |
 | Ordonanța de urgență a Guvernului nr. 107/2017 pentru modificarea și completarea unor acte normative cu impact în domeniul achizițiilor publice | [`oug/2017/107/`](oug/2017/107/) | amending act | 1 | 2017-12-22 | 2017-12-22 |
 | Ordonanța de urgență a Guvernului nr. 109/2017 privind înființarea Centrului Cultural "Sala Palatului" și pentru stabilirea unor măsuri care să asigure funcționarea acestuia | [`oug/2017/109/`](oug/2017/109/) | in force | 2 | 2017-12-27 | 2018-03-19 |
@@ -2655,6 +2657,7 @@
 | Ordonanța de urgență a Guvernului nr. 60/2018 pentru modificarea și completarea unor acte normative din domeniul forței de muncă | [`oug/2018/60/`](oug/2018/60/) | amending act | 1 | 2018-07-09 | 2018-07-09 |
 | Ordonanța de urgență a Guvernului nr. 64/2018 pentru modificarea și completarea Ordonanței Guvernului nr. 24/2016 privind organizarea și desfășurarea activității de neutralizare a subproduselor de origine animală care nu sunt destinate consumului uman | [`oug/2018/64/`](oug/2018/64/) | amending act | 2 | 2018-07-16 | 2019-12-26 |
 | Ordonanța de urgență a Guvernului nr. 69/2018 pentru modificarea și completarea Legii nr. 448/2006 privind protecția și promovarea drepturilor persoanelor cu handicap | [`oug/2018/69/`](oug/2018/69/) | amending act | 2 | 2018-07-19 | 2021-10-05 |
+| Ordonanța de urgență a Guvernului nr. 74/2018 pentru modificarea și completarea Legii nr. 211/2011 privind regimul deșeurilor, a Legii nr. 249/2015 privind modalitatea de gestionare a ambalajelor și a deșeurilor de ambalaje și a Ordonanței de urgență a Guvernului nr. 196/2005 privind Fondul pentru mediu | [`oug/2018/74/`](oug/2018/74/) | amending act | 3 | 2018-07-19 | 2019-01-17 |
 | Ordonanța de urgență a Guvernului nr. 75/2018 pentru modificarea și completarea unor acte normative în domeniul protecției mediului și al regimului străinilor | [`oug/2018/75/`](oug/2018/75/) | amending act | 1 | 2018-07-19 | 2018-07-19 |
 | Ordonanța de urgență a Guvernului nr. 76/2018 privind aprobarea Programului de investiții în domeniul culturii, precum și pentru modificarea și completarea unor acte normative | [`oug/2018/76/`](oug/2018/76/) | amending act | 3 | 2018-07-19 | 2019-08-26 |
 | Ordonanța de urgență a Guvernului nr. 77/2018 pentru completarea art. 67 din Legea nr. 317/2004 privind Consiliul Superior al Magistraturii | [`oug/2018/77/`](oug/2018/77/) | amending act | 1 | 2018-09-05 | 2018-09-05 |
@@ -2728,6 +2731,7 @@
 | Ordonanța de urgență a Guvernului nr. 31/2020 pentru completarea Ordonanței de urgență a Guvernului nr. 77/2011 privind stabilirea unor contribuții pentru finanțarea unor cheltuieli în domeniul sănătății | [`oug/2020/31/`](oug/2020/31/) | amending act | 1 | 2020-03-27 | 2020-03-27 |
 | Ordonanța de urgență a Guvernului nr. 32/2020 privind modificarea și completarea Ordonanței de urgență a Guvernului nr. 30/2020 pentru modificarea și completarea unor acte normative, precum și pentru stabilirea unor măsuri în domeniul protecției sociale în contextul situației epidemiologice determinate de răspândirea coronavirusului SARS-CoV-2 și pentru stabilirea unor măsuri suplimentare de protecție socială | [`oug/2020/32/`](oug/2020/32/) | amending act | 3 | 2020-03-30 | 2020-05-22 |
 | Ordonanța de urgență a Guvernului nr. 33/2020 privind unele măsuri fiscale și modificarea unor acte normative | [`oug/2020/33/`](oug/2020/33/) | in force | 7 | 2020-03-30 | 2020-09-04 |
+| Ordonanța de urgență a Guvernului nr. 34/2020 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 1/1999 privind regimul stării de asediu și regimul stării de urgență | [`oug/2020/34/`](oug/2020/34/) | amending act | 2 | 2020-03-31 | 2020-04-03 |
 | Ordonanța de urgență a Guvernului nr. 35/2020 privind modalitatea de emitere și prelungirea valabilității voucherelor de vacanță, în contextul situației epidemiologice determinate de răspândirea COVID-19 | [`oug/2020/35/`](oug/2020/35/) | in force | 1 | 2020-03-30 | 2020-03-30 |
 | Ordonanța de urgență a Guvernului nr. 36/2020 pentru modificarea și completarea unor acte normative, precum și pentru adoptarea unor măsuri pe timpul stării de urgență instituite prin Decretul nr. 195/2020 privind instituirea stării de urgență pe teritoriul României | [`oug/2020/36/`](oug/2020/36/) | amending act | 2 | 2020-03-31 | 2021-03-18 |
 | Ordonanța de urgență a Guvernului nr. 37/2020 privind acordarea unor facilități pentru creditele acordate de instituții de credit și instituții financiare nebancare anumitor categorii de debitori | [`oug/2020/37/`](oug/2020/37/) | in force | 5 | 2020-03-30 | 2021-01-01 |
@@ -3221,7 +3225,7 @@
 | Ordonanța de urgență a Guvernului nr. 78/2025 pentru modificarea Legii nr. 239/2025 privind stabilirea unor măsuri de redresare și eficientizare a resurselor publice și pentru modificarea și completarea unor acte normative | [`oug/2025/78/`](oug/2025/78/) | amending act | 1 | 2025-12-17 | 2025-12-17 |
 | Ordonanța de urgență a Guvernului nr. 87/2025 pentru stabilirea unor măsuri bugetare privind implementarea programelor naționale din domeniul lucrărilor publice | [`oug/2025/87/`](oug/2025/87/) | in force | 1 | 2025-12-24 | 2025-12-24 |
 
-## Ordinances (OG) (422, of which 87 amending acts)
+## Ordinances (OG) (423, of which 87 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -3492,6 +3496,7 @@
 | Ordonanța Guvernului nr. 27/2011 | [`og/2011/27/`](og/2011/27/) | in force | 16 | 2011-09-02 | 2024-12-05 |
 | Ordonanța Guvernului nr. 2/2012 | [`og/2012/2/`](og/2012/2/) | in force | 2 | 2012-02-02 | 2012-10-11 |
 | Ordonanța Guvernului nr. 3/2012 | [`og/2012/3/`](og/2012/3/) | in force | 1 | 2012-03-01 | 2012-03-01 |
+| Ordonanța Guvernului nr. 6/2012 | [`og/2012/6/`](og/2012/6/) | in force | 2 | 2012-03-31 | 2013-07-21 |
 | Ordonanța Guvernului nr. 7/2012 privind implementarea sistemelor de transport inteligente în domeniul transportului rutier și pentru realizarea interfețelor cu alte moduri de transport | [`og/2012/7/`](og/2012/7/) | in force | 2 | 2012-02-03 | 2025-02-03 |
 | Ordonanța Guvernului nr. 8/2012 | [`og/2012/8/`](og/2012/8/) | in force | 2 | 2012-02-03 | 2015-03-28 |
 | Ordonanța Guvernului nr. 17/2012 privind reglementarea unor măsuri fiscal-bugetare | [`og/2012/17/`](og/2012/17/) | in force | 3 | 2012-08-27 | 2012-09-23 |
