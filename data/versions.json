@@ -266975,6 +266975,21 @@
    ]
   },
   {
+   "slug": "hg-744-2021",
+   "path": "hg/2021/744",
+   "short": "HG nr. 744/2021",
+   "title": "Hotărârea Guvernului nr. 744/2021 privind suplimentarea numărului maxim de posturi pentru Direcţia de Investigare a Infracţiunilor de Criminalitate Organizată şi Terorism",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/244368",
+   "versions": [
+    {
+     "from": "2021-07-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/244368",
+     "sha256": "033ff7ecb6059c3d253a3e45d1a8f5a1c1539f4017d4899173f298fe873c1dbc"
+    }
+   ]
+  },
+  {
    "slug": "hg-744-2022",
    "path": "hg/2022/744",
    "short": "HG nr. 744/2022",
@@ -271345,6 +271360,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/219179",
      "sha256": "904306aef7b09466e7f58c5e7111cf121a375e8a4e15d403a776ffeb6e9e57a3"
+    }
+   ]
+  },
+  {
+   "slug": "hg-768-2021",
+   "path": "hg/2021/768",
+   "short": "HG nr. 768/2021",
+   "title": "Hotărârea Guvernului nr. 768/2021 pentru desemnarea operatorilor medicali şi a unităţilor sanitare colaboratoare pentru elicopterele aflate în administrarea Inspectoratului General de Aviaţie din subordinea Ministerului Afacerilor Interne",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/245047",
+   "versions": [
+    {
+     "from": "2021-07-30",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/245047",
+     "sha256": "db6858a7e343ca7c02f346b046168673ebf3d7ab5599fd38d6fcac640ecaf3a9"
     }
    ]
   },
@@ -323206,6 +323236,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/228363",
      "sha256": "43d5a54a67cd2099b8329b668e4713f052b4f4a5e498e4014f2af8da6995964b"
+    }
+   ]
+  },
+  {
+   "slug": "legea-149-2021",
+   "path": "lege/2021/149",
+   "short": "Legea nr. 149/2021",
+   "title": "Legea nr. 149/2021 privind aprobarea Ordonanţei Guvernului nr. 23/2019 pentru modificarea art. 137 alin. (1) din Ordonanţa de urgenţă a Guvernului nr. 111/2011 privind comunicaţiile electronice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/242709",
+   "versions": [
+    {
+     "from": "2021-05-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/242709",
+     "sha256": "786fb38ded6074f832b6b93f045162f9dff086a734474852c9f00b619f4a101e"
     }
    ]
   },

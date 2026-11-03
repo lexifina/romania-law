@@ -37895,6 +37895,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/242354"
 },
 {
+"slug": "legea-149-2021",
+"path": "lege/2021/149",
+"kind": "lege",
+"year": "2021",
+"number": "149",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 149/2021 privind aprobarea Ordonanţei Guvernului nr. 23/2019 pentru modificarea art. 137 alin. (1) din Ordonanţa de urgenţă a Guvernului nr. 111/2011 privind comunicaţiile electronice",
+"short": "Legea nr. 149/2021",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2021-05-24",
+"latest": "2021-05-24",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/242709"
+},
+{
 "slug": "legea-150-2021",
 "path": "lege/2021/150",
 "kind": "lege",
@@ -268143,6 +268160,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/244435"
 },
 {
+"slug": "hg-744-2021",
+"path": "hg/2021/744",
+"kind": "hg",
+"year": "2021",
+"number": "744",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 744/2021 privind suplimentarea numărului maxim de posturi pentru Direcţia de Investigare a Infracţiunilor de Criminalitate Organizată şi Terorism",
+"short": "HG nr. 744/2021",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2021-07-15",
+"latest": "2021-07-15",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/244368"
+},
+{
 "slug": "hg-746-2021",
 "path": "hg/2021/746",
 "kind": "hg",
@@ -268379,6 +268413,23 @@
 "from": "2021-07-23",
 "latest": "2021-07-23",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/244889"
+},
+{
+"slug": "hg-768-2021",
+"path": "hg/2021/768",
+"kind": "hg",
+"year": "2021",
+"number": "768",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 768/2021 pentru desemnarea operatorilor medicali şi a unităţilor sanitare colaboratoare pentru elicopterele aflate în administrarea Inspectoratului General de Aviaţie din subordinea Ministerului Afacerilor Interne",
+"short": "HG nr. 768/2021",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2021-07-30",
+"latest": "2021-07-30",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/245047"
 },
 {
 "slug": "hg-769-2021",

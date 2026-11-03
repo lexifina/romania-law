@@ -1,6 +1,6 @@
 # Every act in this repository
 
-20430 acts, 34,063 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+20433 acts, 34,066 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (3227, of which 1759 amending acts)
+## Laws (legi) (3228, of which 1760 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -2265,6 +2265,7 @@
 | Legea nr. 141/2021 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 222/2020 privind prorogarea termenului prevăzut la art. III din Legea nr. 352/2015 pentru modificarea şi completarea Ordonanţei Guvernului nr. 26/2011 privind înfiinţarea Inspectoratului de Stat pentru Controlul în Transportul Rutier | [`lege/2021/141/`](lege/2021/141/) | amending act | 1 | 2021-05-20 | 2021-05-20 |
 | Legea nr. 145/2021 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 223/2020 privind aprobarea preluării de către Ministerul Transporturilor şi Infrastructurii a drepturilor şi obligaţiilor, inclusiv a obligaţiilor de plată a cotizaţiei anuale de membru al Organizaţiei de Colaborare a Căilor Ferate (OCCF) | [`lege/2021/145/`](lege/2021/145/) | amending act | 1 | 2021-05-20 | 2021-05-20 |
 | Legea nr. 146/2021 privind monitorizarea electronică în cadrul unor proceduri judiciare și execuțional penale | [`lege/2021/146/`](lege/2021/146/) | in force | 5 | 2021-05-21 | 2025-12-31 |
+| Legea nr. 149/2021 privind aprobarea Ordonanţei Guvernului nr. 23/2019 pentru modificarea art. 137 alin. (1) din Ordonanţa de urgenţă a Guvernului nr. 111/2011 privind comunicaţiile electronice | [`lege/2021/149/`](lege/2021/149/) | amending act | 1 | 2021-05-24 | 2021-05-24 |
 | Legea nr. 150/2021 pentru ratificarea Deciziei (UE, EURATOM) 2020/2.053 a Consiliului din 14 decembrie 2020 privind sistemul de resurse proprii ale Uniunii Europene şi de abrogare a Deciziei 2014/335/UE, Euratom, adoptată la Bruxelles | [`lege/2021/150/`](lege/2021/150/) | in force | 1 | 2021-05-31 | 2021-05-31 |
 | Legea nr. 154/2021 pentru modificarea și completarea Ordonanței Guvernului nr. 105/1999 privind acordarea unor drepturi persoanelor persecutate de către regimurile instaurate în România cu începere de la 6 septembrie 1940 până la 6 martie 1945 din motive etnice | [`lege/2021/154/`](lege/2021/154/) | amending act | 3 | 2021-06-10 | 2022-07-16 |
 | Legea nr. 156/2021 pentru instituirea Zilei Românității Balcanice | [`lege/2021/156/`](lege/2021/156/) | in force | 1 | 2021-06-11 | 2021-06-11 |
@@ -5498,7 +5499,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (14941, of which 7575 amending acts)
+## Government decisions (HG) (14943, of which 7575 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -15806,6 +15807,7 @@
 | Hotărârea Guvernului nr. 738/2021 privind modificarea anexei nr. 31 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului | [`hg/2021/738/`](hg/2021/738/) | amending act | 1 | 2021-07-15 | 2021-07-15 |
 | Hotărârea Guvernului nr. 739/2021 privind acordarea cetăţeniei române domnului Z. A | [`hg/2021/739/`](hg/2021/739/) | in force | 1 | 2021-07-15 | 2021-07-15 |
 | Hotărârea Guvernului nr. 742/2021 privind actualizarea valorii de inventar şi a descrierii tehnice pentru un bun imobil aflat în domeniul public al statului şi administrarea Direcţiei pentru Agricultură Judeţene Alba din subordinea Ministerului Agriculturii şi Dezvoltării Rurale şi trecerea acestuia în domeniul public al oraşului Abrud, judeţul Alba | [`hg/2021/742/`](hg/2021/742/) | in force | 1 | 2021-07-19 | 2021-07-19 |
+| Hotărârea Guvernului nr. 744/2021 privind suplimentarea numărului maxim de posturi pentru Direcţia de Investigare a Infracţiunilor de Criminalitate Organizată şi Terorism | [`hg/2021/744/`](hg/2021/744/) | in force | 1 | 2021-07-15 | 2021-07-15 |
 | Hotărârea Guvernului nr. 746/2021 privind transmiterea dreptului de administrare a unei părţi dintr-un imobil aflat în proprietatea publică a statului din administrarea Ministerului Afacerilor Interne - Direcţia asigurare logistică integrată în administrarea Ministerului Afacerilor Interne - Centrul Medical de Diagnostic şi Tratament Ambulatoriu "Dr. Nicolae Kretzulescu", comasarea acestei părţi la imobilul cu nr. MF 35513 şi actualizarea datelor de identificare a imobilului cu nr. MF 40266 | [`hg/2021/746/`](hg/2021/746/) | in force | 1 | 2021-07-20 | 2021-07-20 |
 | Hotărârea Guvernului nr. 747/2021 privind scăderea din inventarul centralizat al bunurilor din domeniul public al statului a unor părţi de imobile aflate în administrarea unor unităţi subordonate din Ministerul Afacerilor Interne, ca urmare a restituirii acestora persoanei îndreptăţite, schimbarea unităţii de administrare pentru unele părţi de imobile, precum şi pentru actualizarea anexei nr. 1 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului | [`hg/2021/747/`](hg/2021/747/) | amending act | 1 | 2021-07-20 | 2021-07-20 |
 | Hotărârea Guvernului nr. 749/2021 privind actualizarea valorilor de inventar ale imobilelor 535, 2472 şi 2594 şi a adreselor poştale ale imobilelor 535 şi 2472, aflate în domeniul public al statului şi în administrarea Ministerului Apărării Naţionale, darea în folosinţa gratuită a Asociaţiei Naţionale Cultul Eroilor "Regina Maria", pe o perioadă de 20 de ani, a unor părţi din imobilele 535, 966, 1838, 2472 şi 2594, aflate în domeniul public al statului şi în administrarea Ministerului Apărării Naţionale, şi modificarea anexei nr. 4 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului | [`hg/2021/749/`](hg/2021/749/) | amending act | 1 | 2021-07-23 | 2021-07-23 |
@@ -15820,6 +15822,7 @@
 | Hotărârea Guvernului nr. 764/2021 privind aprobarea plăţii contribuţiilor financiare voluntare ale României la unele proiecte ale Organizaţiei pentru Cooperare şi Dezvoltare Economică | [`hg/2021/764/`](hg/2021/764/) | amending act | 1 | 2021-07-23 | 2021-07-23 |
 | Hotărârea Guvernului nr. 765/2021 privind înscrierea în inventarul centralizat al bunurilor din domeniul public al statului a zăcămintelor de ape minerale naturale din perimetrele Valea Spumoasă, judeţul Prahova, şi Ciobotani, judeţul Mureş | [`hg/2021/765/`](hg/2021/765/) | in force | 1 | 2021-07-23 | 2021-07-23 |
 | Hotărârea Guvernului nr. 766/2021 privind aprobarea plăţii cotizaţiei anuale a României ce decurge din calitatea de membru în cadrul Fundaţiei Europene pentru Tineret a Consiliului Europei | [`hg/2021/766/`](hg/2021/766/) | amending act | 1 | 2021-07-23 | 2021-07-23 |
+| Hotărârea Guvernului nr. 768/2021 pentru desemnarea operatorilor medicali şi a unităţilor sanitare colaboratoare pentru elicopterele aflate în administrarea Inspectoratului General de Aviaţie din subordinea Ministerului Afacerilor Interne | [`hg/2021/768/`](hg/2021/768/) | in force | 1 | 2021-07-30 | 2021-07-30 |
 | Hotărârea Guvernului nr. 769/2021 pentru modificarea şi completarea Hotărârii Guvernului nr. 595/2007 privind funcţionarea şi atribuţiile Comitetului pentru finanţe publice locale | [`hg/2021/769/`](hg/2021/769/) | amending act | 1 | 2021-07-22 | 2021-07-22 |
 | Hotărârea Guvernului nr. 770/2021 privind aprobarea stemei comunei Chieşd, judeţul Sălaj | [`hg/2021/770/`](hg/2021/770/) | amending act | 1 | 2021-07-30 | 2021-07-30 |
 | Hotărârea Guvernului nr. 771/2021 privind aprobarea stemei comunei Vima Mică, judeţul Maramureş | [`hg/2021/771/`](hg/2021/771/) | amending act | 1 | 2021-07-30 | 2021-07-30 |
