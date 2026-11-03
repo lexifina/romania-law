@@ -29,3 +29,25 @@ Act id: `legea-15-2003` (tags `legea-15-2003/<day>`; `python tools/on.py <day> l
 - Legea nr. 15/2003: the form of 13 March 2014 prints arts. 2, 9 and 10 with wording that differs from the earlier form and leaves out art. 11 that the earlier form prints (wording changed with no note and no amending act identified): the printed text is kept, dated by the first form that shows it, and no law is credited.
 - Legea nr. 15/2003: 7 changed article(s) with no note naming a law, committed as the publisher's: 2003-10-26 art-005, 2003-10-26 art-006, 2003-10-26 art-007, 2014-03-13 art-002, 2014-03-13 art-009, 2014-03-13 art-010, 2014-03-13 art-011.
 - Legea nr. 15/2003: forms with no change after normalisation, so no version: 2015-09-01 (171135).
+
+## Credits corrected
+
+These changes were first published credited to another law. The words are unchanged; `git blame` still names the commit that wrote them, and `data/credits.csv` lists every corrected credit.
+
+- `art-001.md`, in force from 2008-01-18: Legea nr. 293/2007 (first published as no law named).
+- `art-001-1.md`, in force from 2008-01-18: Legea nr. 293/2007 (first published as no law named).
+- `art-002.md`, in force from 2008-01-18: Legea nr. 293/2007 (first published as no law named).
+- `art-003.md`, in force from 2008-01-18: Legea nr. 293/2007 (first published as no law named).
+- `art-004.md`, in force from 2008-01-18: Legea nr. 293/2007 (first published as no law named).
+- `art-005.md`, in force from 2008-01-18: Legea nr. 293/2007 (first published as no law named).
+- `art-006.md`, in force from 2008-01-18: Legea nr. 293/2007 (first published as no law named).
+- `art-006-1.md`, in force from 2008-01-18: Legea nr. 293/2007 (first published as no law named).
+- `art-007.md`, in force from 2008-01-18: Legea nr. 293/2007 (first published as no law named).
+- `art-008.md`, in force from 2008-01-18: Legea nr. 293/2007 (first published as no law named).
+- `art-009.md`, in force from 2008-01-18: Legea nr. 293/2007 (first published as no law named).
+- `art-010.md`, in force from 2008-01-18: Legea nr. 293/2007 (first published as no law named).
+- `art-011.md`, in force from 2008-01-18: Legea nr. 293/2007 (first published as no law named).
+- `art-002.md`, in force from 2014-03-13: no law named (first published as Legea nr. 187/2012).
+- `art-009.md`, in force from 2014-03-13: no law named (first published as Legea nr. 187/2012).
+- `art-010.md`, in force from 2014-03-13: no law named (first published as Legea nr. 187/2012).
+- `art-011.md`, in force from 2014-03-13: no law named (first published as Legea nr. 187/2012).
