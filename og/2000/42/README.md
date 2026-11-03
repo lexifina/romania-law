@@ -1,0 +1,19 @@
+# Ordonanța Guvernului nr. 42/2000 privind îmbunătățirea finanțării unor programe de dezvoltare sectoriala inițiate de Ministerul Culturii
+
+OG nr. 42/2000 · 2 versions, from 2000-01-31 (latest in force: 2006-02-02) · <https://legislatie.just.ro/Public/DetaliiDocument/204176>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Art. 1 | [art-001.md](art-001.md) | 1 | 2006-02-02 |
+| Art. 2 | [art-002.md](art-002.md) | 1 | 2006-02-02 |
+| Art. 3 | [art-003.md](art-003.md) | 1 | 2006-02-02 |
+
+Act id: `og-42-2000` (tags `og-42-2000/<day>`; `python tools/on.py <day> og-42-2000`).
+
+## Decisions made by hand
+
+- OG nr. 42/2000: added 2026-11-02, one of the Portalul legislativ's consolidated forms per version, as for the other acts. A capture was used only if it was complete and the page showed the form its document id stands for. The forms are those listed by DetaliiDocumentAfis/20747 as captured on 2025-11-13, the newest capture of any of the act's pages: 2 forms, 2 held.
+- OG nr. 42/2000: the newest form held is that of 02.02.2006; amendments in force after it may be missing.
+- OG nr. 42/2000: added by Lexifina's automatic pass with the default rules: the forms are those the portal lists, each version is dated by its form or by the notes it prints, and no rule or ruling made for this act alone was applied. It was published only because every automatic check passed: two parses identical, the newest form read afresh equal to the latest version article by article, every article a form leaves out settled by the standing rules, every version dated by a rule or a stated in-force day, and no unexplained change other than diacritics or spacing.
+- OG nr. 42/2000: the first version is the ordinance as published in Monitorul Oficial nr. 39 of 31 January 2000 (DetaliiDocumentAfis/20747), dated 31 January 2000: an ordinance with no day of its own, published before 29 October 2003, so in force on publication (the rule then in force, as for laws: Constituția of 1991, art. 78). The portal holds no consolidated form before 11 June 2001, so the changes made up to then arrive together that day.
+- OG nr. 42/2000: the ordinance has a single article ("Articol unic"), filed as art-001.
