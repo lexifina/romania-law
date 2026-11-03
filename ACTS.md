@@ -1,6 +1,6 @@
 # Every act in this repository
 
-10367 acts, 23,909 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+10368 acts, 23,910 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -4343,7 +4343,7 @@
 | Ordonanța Guvernului nr. 21/2025 pentru modificarea și completarea Legii nr. 431/2023 privind asigurarea unui nivel minim global de impozitare a grupurilor de întreprinderi multinaționale și a grupurilor naționale de mari dimensiuni | [`og/2025/21/`](og/2025/21/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 | Ordonanța Guvernului nr. 22/2025 pentru modificarea și completarea Legii nr. 227/2015 privind Codul fiscal | [`og/2025/22/`](og/2025/22/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 
-## Government decisions (HG) (6032, of which 2487 amending acts)
+## Government decisions (HG) (6033, of which 2487 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -6585,6 +6585,7 @@
 | Hotărârea Guvernului nr. 932/2021 privind prelungirea stării de alertă pe teritoriul României începând cu data de 10 septembrie 2021, precum și stabilirea măsurilor care se aplică pe durata acesteia pentru prevenirea și combaterea efectelor pandemiei de COVID-19 | [`hg/2021/932/`](hg/2021/932/) | in force | 1 | 2021-09-10 | 2021-09-10 |
 | Hotărârea Guvernului nr. 962/2021 privind eliberarea domnului Tanasă Ştefan din funcţia de subprefect al judeţului Iaşi | [`hg/2021/962/`](hg/2021/962/) | in force | 1 | 2021-09-09 | 2021-09-09 |
 | Hotărârea Guvernului nr. 963/2021 privind eliberarea domnului Văduva Dumitru din funcţia de subprefect al judeţului Ilfov | [`hg/2021/963/`](hg/2021/963/) | in force | 1 | 2021-09-09 | 2021-09-09 |
+| Hotărârea Guvernului nr. 964/2021 privind eliberarea domnului Chiriac Claudiu-Valentin din funcţia de subprefect al judeţului Mehedinţi | [`hg/2021/964/`](hg/2021/964/) | in force | 1 | 2021-09-09 | 2021-09-09 |
 | Hotărârea Guvernului nr. 972/2021 privind eliberarea domnului Theodoru Laurenţiu din funcţia de subprefect al judeţului Sibiu | [`hg/2021/972/`](hg/2021/972/) | in force | 1 | 2021-09-09 | 2021-09-09 |
 | Hotărârea Guvernului nr. 973/2021 privind eliberarea domnului Iordan Sergiu-Mihai din funcţia de subprefect al judeţului Teleorman | [`hg/2021/973/`](hg/2021/973/) | in force | 1 | 2021-09-09 | 2021-09-09 |
 | Hotărârea Guvernului nr. 974/2021 privind eliberarea domnului Achim Robert-Vasile din funcţia de subprefect al judeţului Vâlcea | [`hg/2021/974/`](hg/2021/974/) | in force | 1 | 2021-09-09 | 2021-09-09 |
