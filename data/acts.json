@@ -92652,6 +92652,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/147651"
 },
 {
+"slug": "hg-15-2009",
+"path": "hg/2009/15",
+"kind": "hg",
+"year": "2009",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 15/2009 pentru aprobarea modelului copiei de pe lista electorală permanentă, modelului copiei de pe lista electorală complementară, modelului listei electorale suplimentare, al extrasului de pe copia listei electorale permanente, complementare sau a listei suplimentare, al declaraţiei de acceptare a candidaturii, al declaraţiei de renunţare la candidatură, al listei susţinătorilor, precum şi a modelului listei membrilor organizaţiei cetăţenilor aparţinând unei minorităţi naţionale, ce sunt folosite la alegerile locale parţiale din perioada 2009-2012",
+"short": "HG nr. 15/2009",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2009-01-23",
+"latest": "2009-01-23",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/101571"
+},
+{
 "slug": "hg-19-2009",
 "path": "hg/2009/19",
 "kind": "hg",

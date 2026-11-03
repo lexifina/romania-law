@@ -1,6 +1,6 @@
 # Every act in this repository
 
-12246 acts, 25,828 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+12247 acts, 25,829 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -4566,7 +4566,7 @@
 | Ordonanța Guvernului nr. 21/2025 pentru modificarea și completarea Legii nr. 431/2023 privind asigurarea unui nivel minim global de impozitare a grupurilor de întreprinderi multinaționale și a grupurilor naționale de mari dimensiuni | [`og/2025/21/`](og/2025/21/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 | Ordonanța Guvernului nr. 22/2025 pentru modificarea și completarea Legii nr. 227/2015 privind Codul fiscal | [`og/2025/22/`](og/2025/22/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 
-## Government decisions (HG) (7689, of which 3349 amending acts)
+## Government decisions (HG) (7690, of which 3350 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -5501,6 +5501,7 @@
 | Hotărârea Guvernului nr. 4/2009 | [`hg/2009/4/`](hg/2009/4/) | in force | 1 | 2009-01-16 | 2009-01-16 |
 | Hotărârea Guvernului nr. 11/2009 | [`hg/2009/11/`](hg/2009/11/) | in force | 10 | 2009-01-23 | 2012-09-14 |
 | Hotărârea Guvernului nr. 12/2009 | [`hg/2009/12/`](hg/2009/12/) | in force | 8 | 2009-01-28 | 2012-03-27 |
+| Hotărârea Guvernului nr. 15/2009 pentru aprobarea modelului copiei de pe lista electorală permanentă, modelului copiei de pe lista electorală complementară, modelului listei electorale suplimentare, al extrasului de pe copia listei electorale permanente, complementare sau a listei suplimentare, al declaraţiei de acceptare a candidaturii, al declaraţiei de renunţare la candidatură, al listei susţinătorilor, precum şi a modelului listei membrilor organizaţiei cetăţenilor aparţinând unei minorităţi naţionale, ce sunt folosite la alegerile locale parţiale din perioada 2009-2012 | [`hg/2009/15/`](hg/2009/15/) | amending act | 1 | 2009-01-23 | 2009-01-23 |
 | Hotărârea Guvernului nr. 19/2009 privind stabilirea modelelor proceselor-verbale pentru consemnarea rezultatelor votării la alegerile locale parţiale din perioada 2009-2012 | [`hg/2009/19/`](hg/2009/19/) | in force | 1 | 2009-01-23 | 2009-01-23 |
 | Hotărârea Guvernului nr. 30/2009 privind exercitarea, cu caracter temporar, a funcţiei publice de prefect al judeţului Iaşi de către domnul Lupu Victorel | [`hg/2009/30/`](hg/2009/30/) | in force | 1 | 2009-01-23 | 2009-01-23 |
 | Hotărârea Guvernului nr. 33/2009 | [`hg/2009/33/`](hg/2009/33/) | in force | 2 | 2009-01-27 | 2009-02-13 |
