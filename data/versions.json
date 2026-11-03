@@ -18233,27 +18233,6 @@
    ]
   },
   {
-   "slug": "hg-432-2004",
-   "path": "hg/2004/432",
-   "short": "HG nr. 432/2004",
-   "title": "Hotărârea Guvernului nr. 432/2004",
-   "url": "https://legislatie.just.ro/Public/DetaliiDocument/51282",
-   "versions": [
-    {
-     "from": "2004-05-04",
-     "units": 30,
-     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/51282",
-     "sha256": "0e09cbdb26f2720c82328e69cb54267510a6e7c5f30ad01206b02064302e13db"
-    },
-    {
-     "from": "2007-06-13",
-     "units": 30,
-     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/51282",
-     "sha256": "548e2928463fa8168dcb5927744028e844ee6285b27d45833e9712d181b8c80c"
-    }
-   ]
-  },
-  {
    "slug": "hg-433-2022",
    "path": "hg/2022/433",
    "short": "HG nr. 433/2022",
@@ -18418,6 +18397,90 @@
      "units": 14,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/5016",
      "sha256": "d17a15da7ce69c6486ae5cd2ee8d1c99534945854092f6cd09fa223adea90099"
+    }
+   ]
+  },
+  {
+   "slug": "hg-453-2003",
+   "path": "hg/2003/453",
+   "short": "HG nr. 453/2003",
+   "title": "Hotărârea Guvernului nr. 453/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/85792",
+   "versions": [
+    {
+     "from": "2003-06-05",
+     "units": 22,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/43506",
+     "sha256": "a3060d54997b07e8ad987c9085c4b1c8d982b635727a111b18dc0fb5db586db0"
+    },
+    {
+     "from": "2005-06-09",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/62232",
+     "sha256": "297b9b093fc1546837755f5e69b5e19f06c344ed673e5fbafab6ac3ba3e83a1f"
+    },
+    {
+     "from": "2007-01-01",
+     "units": 24,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/62232",
+     "sha256": "297b9b093fc1546837755f5e69b5e19f06c344ed673e5fbafab6ac3ba3e83a1f"
+    },
+    {
+     "from": "2007-09-13",
+     "units": 24,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85792",
+     "sha256": "aa3c46f63519efbe3dd4b5c7ef1e71750b888902f96c94ccb7173001a5821be4"
+    }
+   ]
+  },
+  {
+   "slug": "hg-454-2003",
+   "path": "hg/2003/454",
+   "short": "HG nr. 454/2003",
+   "title": "Hotărârea Guvernului nr. 454/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/121299",
+   "versions": [
+    {
+     "from": "2003-05-25",
+     "units": 26,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/43415",
+     "sha256": "1e20911d7bff3ea32001f150f1afa147dc061f9c3e54dfafa576d935a71dbb72"
+    },
+    {
+     "from": "2004-08-18",
+     "units": 26,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121297",
+     "sha256": "5ec3bea069c25a8a044a539230320f19e1d1ddd084413834b09e0a8ab1ea6979"
+    },
+    {
+     "from": "2004-10-18",
+     "units": 26,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121298",
+     "sha256": "9e3076754d14d502d06b291dfefe529c2e7faff3e3abca7f0f9e6d4578602a75"
+    },
+    {
+     "from": "2007-01-01",
+     "units": 26,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121298",
+     "sha256": "9e3076754d14d502d06b291dfefe529c2e7faff3e3abca7f0f9e6d4578602a75"
+    },
+    {
+     "from": "2007-08-08",
+     "units": 26,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/84236",
+     "sha256": "5b7d41170dbf1641abb4a34028f4f8c1ae9092cf6a9fccfbe80cf3ad77bfb67b"
+    },
+    {
+     "from": "2007-09-13",
+     "units": 26,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85793",
+     "sha256": "6a1ce3b9b24d8924e48d0f0ec7a38919e5e700928df667317554282ab2c865dc"
+    },
+    {
+     "from": "2010-07-28",
+     "units": 26,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121299",
+     "sha256": "03953818c784cfb9e9408785be14d2a537acab41a5a3e11659decc2085bdeb4a"
     }
    ]
   },
@@ -20746,27 +20809,6 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/83034",
      "sha256": "b90e6fdda81be1ff8854d8203e548fb7b4134baace3a56fec1a35321b8ca5239"
-    }
-   ]
-  },
-  {
-   "slug": "hg-612-2010",
-   "path": "hg/2010/612",
-   "short": "HG nr. 612/2010",
-   "title": "Hotărârea Guvernului nr. 612/2010",
-   "url": "https://legislatie.just.ro/Public/DetaliiDocument/151813",
-   "versions": [
-    {
-     "from": "2010-07-01",
-     "units": 61,
-     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/120021",
-     "sha256": "1368062b7a924eaf83e9a14b9bd5552b6ac8b71e995a36a69d6cc42949d86488"
-    },
-    {
-     "from": "2013-10-07",
-     "units": 61,
-     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/151813",
-     "sha256": "6d03c0dc846a7db6cabc3b7f43b68b8205358df2171fcf52358dc4a684f2bfd2"
     }
    ]
   },
@@ -196435,6 +196477,27 @@
    ]
   },
   {
+   "slug": "hg-432-2004",
+   "path": "hg/2004/432",
+   "short": "HG nr. 432/2004",
+   "title": "Hotărârea Guvernului nr. 432/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/51282",
+   "versions": [
+    {
+     "from": "2004-05-04",
+     "units": 30,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/51282",
+     "sha256": "0e09cbdb26f2720c82328e69cb54267510a6e7c5f30ad01206b02064302e13db"
+    },
+    {
+     "from": "2007-06-13",
+     "units": 30,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/51282",
+     "sha256": "548e2928463fa8168dcb5927744028e844ee6285b27d45833e9712d181b8c80c"
+    }
+   ]
+  },
+  {
    "slug": "hg-44-2022",
    "short": "HG nr. 44/2022",
    "title": "Hotărârea Guvernului nr. 44/2022 privind modificarea și completarea anexei la Hotărârea Consiliului național al Colegiului Fizioterapeuților din România nr. 92/2020 pentru aprobarea Procedurilor și criteriilor de evaluare a activităților de educație medicală continuă, precum și a criteriilor și normelor de acreditare, respectiv creditare a furnizorilor și formelor de educație medicală continuă",
@@ -196501,6 +196564,27 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/249025",
      "sha256": "c2c70fd5b30060213ae7098e4737a80f47e6c60d1156810b0b269ea98a66f371"
+    }
+   ]
+  },
+  {
+   "slug": "hg-612-2010",
+   "path": "hg/2010/612",
+   "short": "HG nr. 612/2010",
+   "title": "Hotărârea Guvernului nr. 612/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/151813",
+   "versions": [
+    {
+     "from": "2010-07-01",
+     "units": 61,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/120021",
+     "sha256": "1368062b7a924eaf83e9a14b9bd5552b6ac8b71e995a36a69d6cc42949d86488"
+    },
+    {
+     "from": "2013-10-07",
+     "units": 61,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/151813",
+     "sha256": "6d03c0dc846a7db6cabc3b7f43b68b8205358df2171fcf52358dc4a684f2bfd2"
     }
    ]
   },

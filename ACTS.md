@@ -1,6 +1,6 @@
 # Every act in this repository
 
-8012 acts, 20,772 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+8014 acts, 20,783 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -3938,7 +3938,7 @@
 | Ordonanța Guvernului nr. 21/2025 pentru modificarea și completarea Legii nr. 431/2023 privind asigurarea unui nivel minim global de impozitare a grupurilor de întreprinderi multinaționale și a grupurilor naționale de mari dimensiuni | [`og/2025/21/`](og/2025/21/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 | Ordonanța Guvernului nr. 22/2025 pentru modificarea și completarea Legii nr. 227/2015 privind Codul fiscal | [`og/2025/22/`](og/2025/22/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 
-## Government decisions (HG) (4082, of which 1513 amending acts)
+## Government decisions (HG) (4084, of which 1513 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -4251,6 +4251,8 @@
 | Hotărârea Guvernului nr. 412/2003 | [`hg/2003/412/`](hg/2003/412/) | in force | 1 | 2003-04-15 | 2003-04-15 |
 | Hotărârea Guvernului nr. 449/2003 | [`hg/2003/449/`](hg/2003/449/) | in force | 2 | 2003-05-07 | 2011-08-16 |
 | Hotărârea Guvernului nr. 452/2003 privind desfășurarea activității de agrement nautic | [`hg/2003/452/`](hg/2003/452/) | in force | 2 | 2003-04-23 | 2020-09-29 |
+| Hotărârea Guvernului nr. 453/2003 | [`hg/2003/453/`](hg/2003/453/) | in force | 4 | 2003-06-05 | 2007-09-13 |
+| Hotărârea Guvernului nr. 454/2003 | [`hg/2003/454/`](hg/2003/454/) | in force | 7 | 2003-05-25 | 2010-07-28 |
 | Hotărârea Guvernului nr. 457/2003 | [`hg/2003/457/`](hg/2003/457/) | in force | 5 | 2003-06-07 | 2009-11-13 |
 | Hotărârea Guvernului nr. 479/2003 | [`hg/2003/479/`](hg/2003/479/) | in force | 2 | 2003-05-12 | 2005-04-25 |
 | Hotărârea Guvernului nr. 492/2003 privind organizarea şi funcţionarea Regiei Autonome "Administraţia Fluviala a Dunării de Jos" Galaţi | [`hg/2003/492/`](hg/2003/492/) | in force | 1 | 2003-05-12 | 2003-05-12 |

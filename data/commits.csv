@@ -25023,3 +25023,15 @@ day,kind,law,acts,files,branch
 2013-02-15,law,legea-76-2012,legea-105-1992,183,main
 2024-05-16,start,oug-48-2024,oug-48-2024,1,main
 2024-05-18,start,legea-138-2024,legea-138-2024,1,main
+2003-05-25,start,hg-454-2003,hg-454-2003,26,main
+2003-06-05,start,hg-453-2003,hg-453-2003,22,main
+2004-08-18,law,hg-1242-2004,hg-454-2003,17,main
+2004-08-18,unexplained,,hg-454-2003,5,main
+2004-10-18,law,rectificare-mo-954-2004,hg-454-2003,1,main
+2005-06-09,law,hg-1480-2003,hg-453-2003,21,main
+2007-01-01,law,hg-454-2003,hg-454-2003,2,main
+2007-01-01,law,hg-453-2003,hg-453-2003,2,main
+2007-08-08,law,hg-1242-2004,hg-454-2003,24,main
+2007-09-13,law,hg-962-2007,hg-453-2003 hg-454-2003,14,main
+2007-09-13,unexplained,,hg-453-2003,10,main
+2010-07-28,law,hg-573-2010,hg-454-2003,2,main
