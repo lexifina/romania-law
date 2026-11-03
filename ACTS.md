@@ -1,6 +1,6 @@
 # Every act in this repository
 
-6593 acts, 19,122 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+6595 acts, 19,128 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -3783,7 +3783,7 @@
 | Ordonanța Guvernului nr. 21/2025 pentru modificarea și completarea Legii nr. 431/2023 privind asigurarea unui nivel minim global de impozitare a grupurilor de întreprinderi multinaționale și a grupurilor naționale de mari dimensiuni | [`og/2025/21/`](og/2025/21/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 | Ordonanța Guvernului nr. 22/2025 pentru modificarea și completarea Legii nr. 227/2015 privind Codul fiscal | [`og/2025/22/`](og/2025/22/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 
-## Government decisions (HG) (2818, of which 929 amending acts)
+## Government decisions (HG) (2820, of which 929 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -4106,6 +4106,7 @@
 | Hotărârea Guvernului nr. 661/2003 | [`hg/2003/661/`](hg/2003/661/) | in force | 2 | 2003-06-13 | 2003-09-23 |
 | Hotărârea Guvernului nr. 677/2003 | [`hg/2003/677/`](hg/2003/677/) | in force | 2 | 2003-06-19 | 2005-03-10 |
 | Hotărârea Guvernului nr. 679/2003 privind condițiile de obținere a atestatului, procedurile de atestare și statutul asistentului maternal profesionist | [`hg/2003/679/`](hg/2003/679/) | repealed 2024-08-12 | 2 | 2003-06-23 | 2024-08-12 |
+| Hotărârea Guvernului nr. 699/2003 | [`hg/2003/699/`](hg/2003/699/) | repealed 2013-12-01 | 4 | 2004-01-08 | 2013-12-01 |
 | Hotărârea Guvernului nr. 726/2003 privind completarea art. 2 din Hotărârea Guvernului nr. 782/2002 pentru modificarea capitalului social al Societății Comerciale "Moreni Parc Industrial" - S.A. | [`hg/2003/726/`](hg/2003/726/) | amending act | 1 | 2003-07-07 | 2003-07-07 |
 | Hotărârea Guvernului nr. 735/2003 | [`hg/2003/735/`](hg/2003/735/) | in force | 2 | 2003-07-04 | 2003-10-31 |
 | Hotărârea Guvernului nr. 737/2003 | [`hg/2003/737/`](hg/2003/737/) | in force | 1 | 2003-07-07 | 2003-07-07 |
@@ -4549,6 +4550,7 @@
 | Hotărârea Guvernului nr. 901/2007 | [`hg/2007/901/`](hg/2007/901/) | in force | 1 | 2007-08-08 | 2007-08-08 |
 | Hotărârea Guvernului nr. 927/2007 | [`hg/2007/927/`](hg/2007/927/) | in force | 1 | 2007-09-21 | 2007-09-21 |
 | Hotărârea Guvernului nr. 928/2007 | [`hg/2007/928/`](hg/2007/928/) | in force | 3 | 2007-09-05 | 2011-12-22 |
+| Hotărârea Guvernului nr. 933/2007 | [`hg/2007/933/`](hg/2007/933/) | in force | 2 | 2007-09-11 | 2025-09-01 |
 | Hotărârea Guvernului nr. 1064/2007 | [`hg/2007/1064/`](hg/2007/1064/) | in force | 1 | 2007-09-17 | 2007-09-17 |
 | Hotărârea Guvernului nr. 1067/2007 | [`hg/2007/1067/`](hg/2007/1067/) | in force | 1 | 2007-09-25 | 2007-09-25 |
 | Hotărârea Guvernului nr. 1074/2007 | [`hg/2007/1074/`](hg/2007/1074/) | in force | 1 | 2007-10-13 | 2007-10-13 |

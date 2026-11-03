@@ -20075,6 +20075,39 @@
    ]
   },
   {
+   "slug": "hg-699-2003",
+   "path": "hg/2003/699",
+   "short": "HG nr. 699/2003",
+   "title": "Hotărârea Guvernului nr. 699/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/118438",
+   "versions": [
+    {
+     "from": "2004-01-08",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/44883",
+     "sha256": "90e17ae2e708057c2156397b45464b20f5156273e955d8b8dc9a73ef094ab083"
+    },
+    {
+     "from": "2004-11-25",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/118438",
+     "sha256": "5911f8a1a146d272fd0cab9eb66868786e24304e740bf988b490a29396238f4e"
+    },
+    {
+     "from": "2010-04-28",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/118438",
+     "sha256": "5911f8a1a146d272fd0cab9eb66868786e24304e740bf988b490a29396238f4e"
+    },
+    {
+     "from": "2013-12-01",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/267741",
+     "sha256": "372b30ef4026fa78af7e451b33b00f7441b59760db6e1a3b85c576970a852059"
+    }
+   ]
+  },
+  {
    "slug": "hg-7-2013",
    "path": "hg/2013/7",
    "short": "HG nr. 7/2013",
@@ -22594,6 +22627,27 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/246195",
      "sha256": "d740a888f5df97dab141e60087041772157d7de643f54386662f754ceaffe571"
+    }
+   ]
+  },
+  {
+   "slug": "hg-933-2007",
+   "path": "hg/2007/933",
+   "short": "HG nr. 933/2007",
+   "title": "Hotărârea Guvernului nr. 933/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/301797",
+   "versions": [
+    {
+     "from": "2007-09-11",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/85292",
+     "sha256": "c16d9598487b3815733ebeecde77b62bcd0a6fa1c8be63c1deed6fa627fe57b0"
+    },
+    {
+     "from": "2025-09-01",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/301797",
+     "sha256": "bfcaa437541c280af7c6f1cd147968492ad4c6eb88479f4fcc9d746c9e817a16"
     }
    ]
   },
