@@ -1,6 +1,6 @@
 # Every act in this repository
 
-5316 acts, 14,223 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+5319 acts, 14,253 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -32,7 +32,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (1514, of which 608 amending acts)
+## Laws (legi) (1516, of which 608 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -170,6 +170,7 @@
 | Legea nr. 5/2000 | [`lege/2000/5/`](lege/2000/5/) | in force | 2 | 2000-04-12 | 2016-09-06 |
 | Legea nr. 17/2000 privind asistența socială a persoanelor vârstnice | [`lege/2000/17/`](lege/2000/17/) | in force | 13 | 2000-06-07 | 2025-12-09 |
 | Legea nr. 24/2000 privind normele de tehnică legislativă pentru elaborarea actelor normative | [`lege/2000/24/`](lege/2000/24/) | in force | 11 | 2000-03-31 | 2022-12-15 |
+| Legea nr. 29/2000 privind sistemul național de decorații al României | [`lege/2000/29/`](lege/2000/29/) | in force | 13 | 2000-04-07 | 2024-06-28 |
 | Legea nr. 44/2000 | [`lege/2000/44/`](lege/2000/44/) | in force | 1 | 2000-04-18 | 2000-04-18 |
 | Legea nr. 69/2000 | [`lege/2000/69/`](lege/2000/69/) | in force | 57 | 2000-08-07 | 2026-01-15 |
 | Legea nr. 78/2000 pentru prevenirea, descoperirea și sancționarea faptelor de corupție | [`lege/2000/78/`](lege/2000/78/) | in force | 13 | 2000-05-18 | 2022-07-23 |
@@ -442,6 +443,7 @@
 | Legea nr. 205/2006 | [`lege/2006/205/`](lege/2006/205/) | in force | 4 | 2006-05-28 | 2015-04-28 |
 | Legea nr. 227/2006 | [`lege/2006/227/`](lege/2006/227/) | in force | 18 | 2006-06-18 | 2022-01-13 |
 | Legea nr. 230/2006 | [`lege/2006/230/`](lege/2006/230/) | in force | 3 | 2007-03-21 | 2022-03-21 |
+| Legea nr. 241/2006 | [`lege/2006/241/`](lege/2006/241/) | in force | 16 | 2007-03-21 | 2025-04-10 |
 | Legea nr. 266/2006 | [`lege/2006/266/`](lege/2006/266/) | in force | 1 | 2006-07-08 | 2006-07-08 |
 | Legea nr. 273/2006 privind finanțele publice locale | [`lege/2006/273/`](lege/2006/273/) | in force | 48 | 2007-01-01 | 2026-02-25 |
 | Legea nr. 285/2006 | [`lege/2006/285/`](lege/2006/285/) | in force | 1 | 2006-07-21 | 2006-07-21 |
@@ -3071,7 +3073,7 @@
 | Ordonanța Guvernului nr. 21/2025 pentru modificarea și completarea Legii nr. 431/2023 privind asigurarea unui nivel minim global de impozitare a grupurilor de întreprinderi multinaționale și a grupurilor naționale de mari dimensiuni | [`og/2025/21/`](og/2025/21/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 | Ordonanța Guvernului nr. 22/2025 pentru modificarea și completarea Legii nr. 227/2015 privind Codul fiscal | [`og/2025/22/`](og/2025/22/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 
-## Government decisions (HG) (2253, of which 815 amending acts)
+## Government decisions (HG) (2254, of which 816 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -5221,6 +5223,7 @@
 | Hotărârea Guvernului nr. 2/2025 privind stabilirea zilelor lucrătoare pentru care se acordă zile libere, zile care precedă și/sau care succedă zilelor de sărbătoare legală în care nu se lucrează, pentru anul 2025 | [`hg/2025/2/`](hg/2025/2/) | in force | 1 | 2025-01-13 | 2025-01-13 |
 | Hotărârea Guvernului nr. 4/2025 privind stabilirea datei alegerilor pentru Președintele României din anul 2025 | [`hg/2025/4/`](hg/2025/4/) | in force | 1 | 2025-02-18 | 2025-02-18 |
 | Hotărârea Guvernului nr. 5/2025 privind stabilirea datei alegerilor locale parțiale pentru președintele Consiliului Județean Bihor și pentru primari în unele circumscripții electorale | [`hg/2025/5/`](hg/2025/5/) | in force | 1 | 2025-03-30 | 2025-03-30 |
+| Hotărârea Guvernului nr. 12/2025 pentru aprobarea indicatorilor tehnico-economici aferenți obiectivului de investiții "Realizarea de noi noduri rutiere pe autostrăzi - Nod rutier Pantelimon (A0 - km 48), sectorul A0-Nord", județul Ilfov | [`hg/2025/12/`](hg/2025/12/) | amending act | 1 | 2025-01-17 | 2025-01-17 |
 | Hotărârea Guvernului nr. 56/2025 privind aprobarea prealabilă în vederea recunoașterii prin hotărâre judecătorească a Asociației Obștești "Asociația Investitorilor din România" | [`hg/2025/56/`](hg/2025/56/) | amending act | 1 | 2025-02-17 | 2025-02-17 |
 | Hotărârea Guvernului nr. 57/2025 privind aprobarea unor modificări în inventarul centralizat al bunurilor din domeniul public al statului aflate în administrarea Ministerului Apărării Naționale, situate în județele Arad, Satu Mare, Harghita, Alba, Cluj, Buzău, Caraș-Severin, Timiș, Maramureș și Brașov, și modificarea anexei nr. 4 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului | [`hg/2025/57/`](hg/2025/57/) | amending act | 1 | 2025-02-17 | 2025-02-17 |
 | Hotărârea Guvernului nr. 63/2025 privind acordarea unor ajutoare de urgență | [`hg/2025/63/`](hg/2025/63/) | in force | 1 | 2025-02-21 | 2025-02-21 |
@@ -5350,36 +5353,36 @@ Acts published here and later found not to belong (for example, titled as Govern
 
 | Act id | Reason | Removed by |
 | --- | --- | --- |
-| `hg-10-2021` | issued by Autoritatea Electorală Permanentă | e010c422a |
-| `hg-101-2022` | issued by Senatul României | e010c422a |
-| `hg-103-2021` | issued by Senatul României | e010c422a |
-| `hg-119-2021` | issued by Consiliul Superior al Magistraturii | e010c422a |
-| `hg-120-2021` | issued by Consiliul Superior al Magistraturii | e010c422a |
-| `hg-15-2021` | issued by Parlamentul României / Camera Deputaților (birourile permanente) | e010c422a |
-| `hg-16-2022` | issued by Comitetul Național pentru Situații de Urgență (a CNSU decision, not a Government decision) | e010c422a |
-| `hg-180-2021` | issued by Consiliul Superior al Magistraturii | e010c422a |
-| `hg-19-2021` | issued by Senatul României | e010c422a |
-| `hg-2-2021` | issued by Parlamentul României / Camera Deputaților (birourile permanente) | e010c422a |
-| `hg-23-2022` | issued by Colegiul Fizioterapeuților din România | e010c422a |
-| `hg-25-2021` | issued by Colegiul Psihologilor din România | e010c422a |
-| `hg-26-2022` | issued by Camera Auditorilor Financiari din România | e010c422a |
-| `hg-3-2021` | issued by Colegiul Psihologilor din România | e010c422a |
-| `hg-4-2022` | issued by Banca Națională a României | e010c422a |
-| `hg-42-2021` | issued by Parlamentul României / Camera Deputaților (birourile permanente) | e010c422a |
-| `hg-44-2022` | issued by Colegiul Fizioterapeuților din România | e010c422a |
-| `hg-5-2020` | issued by Parlamentul României / Camera Deputaților (birourile permanente) | e010c422a |
-| `hg-52-2021` | issued by Colegiul Psihologilor din România | e010c422a |
-| `hg-60-2021` | issued by Colegiul Psihologilor din România | e010c422a |
-| `hg-61-2021` | issued by Colegiul Psihologilor din România | e010c422a |
-| `hg-62-2021` | issued by Colegiul Psihologilor din România | e010c422a |
-| `hg-63-2021` | issued by Colegiul Psihologilor din România | e010c422a |
-| `hg-7-2022` | issued by Camera Consultanților Fiscali | e010c422a |
-| `hg-72-2021` | issued by Colegiul Psihologilor din România | e010c422a |
-| `hg-91-2022` | issued by Senatul României | e010c422a |
-| `hg-92-2022` | issued by Senatul României | e010c422a |
-| `hg-93-2022` | issued by Senatul României | e010c422a |
-| `hg-94-2022` | issued by Senatul României | e010c422a |
-| `hg-95-2022` | issued by Senatul României | e010c422a |
-| `hg-960-2021` | issued by Consiliul Superior al Magistraturii | e010c422a |
-| `hg-97-2022` | issued by Senatul României | e010c422a |
-| `hg-98-2022` | issued by Senatul României | e010c422a |
+| `hg-10-2021` | issued by Autoritatea Electorală Permanentă | e010c422ad |
+| `hg-101-2022` | issued by Senatul României | e010c422ad |
+| `hg-103-2021` | issued by Senatul României | e010c422ad |
+| `hg-119-2021` | issued by Consiliul Superior al Magistraturii | e010c422ad |
+| `hg-120-2021` | issued by Consiliul Superior al Magistraturii | e010c422ad |
+| `hg-15-2021` | issued by Parlamentul României / Camera Deputaților (birourile permanente) | e010c422ad |
+| `hg-16-2022` | issued by Comitetul Național pentru Situații de Urgență (a CNSU decision, not a Government decision) | e010c422ad |
+| `hg-180-2021` | issued by Consiliul Superior al Magistraturii | e010c422ad |
+| `hg-19-2021` | issued by Senatul României | e010c422ad |
+| `hg-2-2021` | issued by Parlamentul României / Camera Deputaților (birourile permanente) | e010c422ad |
+| `hg-23-2022` | issued by Colegiul Fizioterapeuților din România | e010c422ad |
+| `hg-25-2021` | issued by Colegiul Psihologilor din România | e010c422ad |
+| `hg-26-2022` | issued by Camera Auditorilor Financiari din România | e010c422ad |
+| `hg-3-2021` | issued by Colegiul Psihologilor din România | e010c422ad |
+| `hg-4-2022` | issued by Banca Națională a României | e010c422ad |
+| `hg-42-2021` | issued by Parlamentul României / Camera Deputaților (birourile permanente) | e010c422ad |
+| `hg-44-2022` | issued by Colegiul Fizioterapeuților din România | e010c422ad |
+| `hg-5-2020` | issued by Parlamentul României / Camera Deputaților (birourile permanente) | e010c422ad |
+| `hg-52-2021` | issued by Colegiul Psihologilor din România | e010c422ad |
+| `hg-60-2021` | issued by Colegiul Psihologilor din România | e010c422ad |
+| `hg-61-2021` | issued by Colegiul Psihologilor din România | e010c422ad |
+| `hg-62-2021` | issued by Colegiul Psihologilor din România | e010c422ad |
+| `hg-63-2021` | issued by Colegiul Psihologilor din România | e010c422ad |
+| `hg-7-2022` | issued by Camera Consultanților Fiscali | e010c422ad |
+| `hg-72-2021` | issued by Colegiul Psihologilor din România | e010c422ad |
+| `hg-91-2022` | issued by Senatul României | e010c422ad |
+| `hg-92-2022` | issued by Senatul României | e010c422ad |
+| `hg-93-2022` | issued by Senatul României | e010c422ad |
+| `hg-94-2022` | issued by Senatul României | e010c422ad |
+| `hg-95-2022` | issued by Senatul României | e010c422ad |
+| `hg-960-2021` | issued by Consiliul Superior al Magistraturii | e010c422ad |
+| `hg-97-2022` | issued by Senatul României | e010c422ad |
+| `hg-98-2022` | issued by Senatul României | e010c422ad |

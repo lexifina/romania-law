@@ -18266,6 +18266,111 @@
    ]
   },
   {
+   "slug": "legea-241-2006",
+   "path": "lege/2006/241",
+   "short": "Legea nr. 241/2006",
+   "title": "Legea nr. 241/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73044",
+   "versions": [
+    {
+     "from": "2007-03-21",
+     "units": 46,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/73044",
+     "sha256": "782d605b13a576477b558de242f6ded5b62e4ad8b7cea2ad7c54695a30ba9cf0"
+    },
+    {
+     "from": "2007-03-21",
+     "units": 46,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/89931",
+     "sha256": "9d10a0c75c697a73f2622af4dd47fb2560a213d4ccbbd2e7c37a1378998ab4f9"
+    },
+    {
+     "from": "2008-02-26",
+     "units": 47,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/89932",
+     "sha256": "ea34a5f52572f2f9c3450d402a1610b61b42b33e723fbbb879c6122383f84679"
+    },
+    {
+     "from": "2012-11-29",
+     "units": 47,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/143282",
+     "sha256": "1bd81ad48e7bcc3c7eb3cec74031b5c98165fa6e419dc4b20a28d0d7ace60103"
+    },
+    {
+     "from": "2013-02-07",
+     "units": 47,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/143283",
+     "sha256": "c2e07edbdb5d1bbe350fa713ac6c1d6022b9c363ae5de45af4067c487606ad05"
+    },
+    {
+     "from": "2013-02-08",
+     "units": 47,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/145408",
+     "sha256": "70aff859898eb29ae174442ce08490c4c2a4332acab4d34bba7ca8c7019819ba"
+    },
+    {
+     "from": "2015-08-02",
+     "units": 47,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170232",
+     "sha256": "7d521ede5a67832539d47d81a36f97d445eaf01e627f7d47d3369a3a9abea9ee"
+    },
+    {
+     "from": "2015-09-07",
+     "units": 47,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/171174",
+     "sha256": "f38e721f93fa2df653b30d26f70b999e38fb11be7b35336a6bb3475094fd569d"
+    },
+    {
+     "from": "2018-08-03",
+     "units": 49,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/202968",
+     "sha256": "7d81d357414c7e7a240e17f29e17a10a85fa00b5f219df944e7de0e538295e3c"
+    },
+    {
+     "from": "2018-12-29",
+     "units": 49,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/209195",
+     "sha256": "af3a377dd9bde8706f66909d61ec90f5ff224cd33699057d260324b99b048b6e"
+    },
+    {
+     "from": "2020-10-15",
+     "units": 56,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/230765",
+     "sha256": "8dbf8a143e82652a8f3309ef0d512dfd7d6bd58d76cd1379545c2aabfc5d5d18"
+    },
+    {
+     "from": "2021-05-09",
+     "units": 56,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/241421",
+     "sha256": "1ad102478242d649e163446903122e68a439a152407490b16b728d4494836713"
+    },
+    {
+     "from": "2021-12-31",
+     "units": 63,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/249545",
+     "sha256": "9c855500c6c0943a96a6a0c42172fa91eaeb9bb00db06d963366f0582b4e177d"
+    },
+    {
+     "from": "2022-01-30",
+     "units": 63,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/249545",
+     "sha256": "9c855500c6c0943a96a6a0c42172fa91eaeb9bb00db06d963366f0582b4e177d"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 63,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/269718",
+     "sha256": "d2bec5c7eb698bc135c19bb702da1efabdca94d4b98a0e9f110384a0d142d7bd"
+    },
+    {
+     "from": "2025-04-10",
+     "units": 64,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73044",
+     "sha256": "e09dc461c686b5ef721d9f714da1897b156ae83543a99bdd8676a603cfb707e2"
+    }
+   ]
+  },
+  {
    "slug": "legea-248-2005",
    "path": "lege/2005/248",
    "short": "Legea nr. 248/2005",
@@ -20392,6 +20497,93 @@
      "units": 45,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/258165",
      "sha256": "ed469c2f0c01e9cf20829cf77bb867566efda872a134434abecded21bba7be75"
+    }
+   ]
+  },
+  {
+   "slug": "legea-29-2000",
+   "path": "lege/2000/29",
+   "short": "Legea nr. 29/2000",
+   "title": "Legea nr. 29/2000 privind sistemul național de decorații al României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/21756",
+   "versions": [
+    {
+     "from": "2000-04-07",
+     "units": 87,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/21756",
+     "sha256": "0bb966e954204b4c99cc20ebc6b91ef5adbb1adc6320d45ae7cf73c988ad7004"
+    },
+    {
+     "from": "2000-06-14",
+     "units": 87,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84443",
+     "sha256": "c8b490b36a2bb876976e36ca62884a4303003118564d8818ff7c1526aec95d57"
+    },
+    {
+     "from": "2001-11-09",
+     "units": 87,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84444",
+     "sha256": "ade9cfd91a8e3ff9b1ae013b71609e77203ecc5f42f589c1d2e9fce30c1ef528"
+    },
+    {
+     "from": "2002-06-11",
+     "units": 87,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84445",
+     "sha256": "a8eceba46d04b0fefcb69199e35d1be3a64d718d1de9a703904efc74e32b9c3d"
+    },
+    {
+     "from": "2004-04-08",
+     "units": 87,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84446",
+     "sha256": "47cb0949fbbdd249decd615bc0bae1c2fc880152bbc39f08685094447742c962"
+    },
+    {
+     "from": "2004-05-27",
+     "units": 87,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84447",
+     "sha256": "cb93333e35283bef4d2ffc68dc0b926a0b428629123fa810e00c5e554b38fb95"
+    },
+    {
+     "from": "2005-03-04",
+     "units": 88,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84448",
+     "sha256": "a9bcafaf95954972f91db7c4824f29078a858a71378e8475d42b028613df95fb"
+    },
+    {
+     "from": "2011-10-30",
+     "units": 88,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/154862",
+     "sha256": "e4acf00e3f7398128071b352e35e93360b0da509b7de5b7d4c8b04b2d955e350"
+    },
+    {
+     "from": "2014-02-01",
+     "units": 88,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/154863",
+     "sha256": "67e649cb55046ee08df2765f74e905231cfd1d1508c2a680dfdf83a9988d84bd"
+    },
+    {
+     "from": "2014-02-18",
+     "units": 86,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/155557",
+     "sha256": "824d0a023b03d715e2fa4cf9c7450082ef801297bba408379f2e87ed5204c0c4"
+    },
+    {
+     "from": "2020-07-09",
+     "units": 86,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/227252",
+     "sha256": "8de8df282aae74c655ab59ed44f75a5a3b0a59b594402cb5c764b11999510c3f"
+    },
+    {
+     "from": "2023-12-11",
+     "units": 87,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/269450",
+     "sha256": "e0c4e1bc4c5774e267d9e50f5b88892d8677aeea59bb14db8d6b816e7b3d47cd"
+    },
+    {
+     "from": "2024-06-28",
+     "units": 88,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/284369",
+     "sha256": "1ba4f9e98d443f2b0bdafeab96ddabba7159d667ea663712c4373630bc98ba81"
     }
    ]
   },
@@ -50245,6 +50437,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/278100",
      "sha256": "e60a30730e57e11ffa7061203a63a53ffd504a94eb7c8f5cc84d82be2de09bda"
+    }
+   ]
+  },
+  {
+   "slug": "hg-12-2025",
+   "path": "hg/2025/12",
+   "short": "HG nr. 12/2025",
+   "title": "Hotărârea Guvernului nr. 12/2025 pentru aprobarea indicatorilor tehnico-economici aferenți obiectivului de investiții \"Realizarea de noi noduri rutiere pe autostrăzi - Nod rutier Pantelimon (A0 - km 48), sectorul A0-Nord\", județul Ilfov",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/293685",
+   "versions": [
+    {
+     "from": "2025-01-17",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/293685",
+     "sha256": "995af105262e8c36f5bbb444dec9114f23d8c770da07e41d72abb777875e97ac"
     }
    ]
   },
