@@ -83177,6 +83177,75 @@
    ]
   },
   {
+   "slug": "oug-30-2006",
+   "path": "oug/2006/30",
+   "short": "OUG nr. 30/2006",
+   "title": "Ordonanța de urgență a Guvernului nr. 30/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/71046",
+   "versions": [
+    {
+     "from": "2006-06-30",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/71046",
+     "sha256": "540c9712e2b69ab094cb082c63128a0edf8453d6afc37ebc063161eef44fe5a4"
+    },
+    {
+     "from": "2007-07-15",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/83667",
+     "sha256": "656d62e52cde3bdfe75f589ba2032f96d6d6da18c4a211c9552b6f12b32957f1"
+    },
+    {
+     "from": "2007-11-15",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87012",
+     "sha256": "e463c7a3f800994fd95d82253880c66044ea70fd827dcd9cf4b5d47359f5622e"
+    },
+    {
+     "from": "2009-04-14",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/104846",
+     "sha256": "ac624f52e3014d117741efe51222deea2cb298e45104fb479b65592f0df8b317"
+    },
+    {
+     "from": "2009-06-13",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/109044",
+     "sha256": "391431bb511768fd4ac8b39e3811147fbdae06ad73c50aebcab9b710ee0d8620"
+    },
+    {
+     "from": "2009-10-25",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/112324",
+     "sha256": "440756b256215eeec66daeee785bbe4c316eac45bc2b95104c908a80fc989ac6"
+    },
+    {
+     "from": "2011-06-10",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/129361",
+     "sha256": "50608bedd0848b379dad664fbbe47ee095145795ca92e86c404cde1d751c3208"
+    },
+    {
+     "from": "2012-03-26",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/136636",
+     "sha256": "fdf173b06b76074a442480290ec46a452e7d8e351bacd3056c2b364003e59fb0"
+    },
+    {
+     "from": "2015-08-25",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/198638",
+     "sha256": "7c06a91d16e6b53e0f75bff68ff383ed341ba7db6dfe7ee6ae2ff0707854de1f"
+    },
+    {
+     "from": "2018-06-15",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/195762",
+     "sha256": "9da41605ce11fc8d967b8a90727073ee06c631e947c07087dcb1f179653fc634"
+    }
+   ]
+  },
+  {
    "slug": "oug-30-2007",
    "path": "oug/2007/30",
    "short": "OUG nr. 30/2007",

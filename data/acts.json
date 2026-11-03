@@ -42230,6 +42230,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/261094"
 },
 {
+"slug": "oug-30-2006",
+"path": "oug/2006/30",
+"kind": "oug",
+"year": "2006",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 30/2006",
+"short": "OUG nr. 30/2006",
+"code": null,
+"status": "repealed 2018-06-15",
+"versions": 10,
+"from": "2006-06-30",
+"latest": "2018-06-15",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/71046"
+},
+{
 "slug": "oug-34-2006",
 "path": "oug/2006/34",
 "kind": "oug",

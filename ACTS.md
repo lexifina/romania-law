@@ -1,6 +1,6 @@
 # Every act in this repository
 
-9813 acts, 23,227 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+9814 acts, 23,237 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -2213,7 +2213,7 @@
 | Legea nr. 190/2026 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 81/2021 privind aprobarea metodelor de intervenţie imediată pentru prevenirea şi combaterea atacurilor exemplarelor de urs brun asupra persoanelor şi bunurilor acestora, precum şi pentru modificarea şi completarea unor acte normative | [`lege/2026/190/`](lege/2026/190/) | amending act | 1 | 2026-10-08 | 2026-10-08 |
 | Legea nr. 205/2026 pentru completarea Ordonanţei Guvernului nr. 22/2002 privind executarea obligaţiilor de plată ale instituţiilor publice, stabilite prin titluri executorii | [`lege/2026/205/`](lege/2026/205/) | amending act | 1 | 2026-11-02 | 2026-11-02 |
 
-## Emergency ordinances (OUG) (1565, of which 539 amending acts)
+## Emergency ordinances (OUG) (1566, of which 539 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -2524,6 +2524,7 @@
 | Ordonanța de urgență a Guvernului nr. 22/2006 | [`oug/2006/22/`](oug/2006/22/) | in force | 2 | 2006-03-27 | 2006-07-23 |
 | Ordonanța de urgență a Guvernului nr. 23/2006 | [`oug/2006/23/`](oug/2006/23/) | in force | 2 | 2006-03-28 | 2006-07-14 |
 | Ordonanța de urgență a Guvernului nr. 27/2006 | [`oug/2006/27/`](oug/2006/27/) | in force | 9 | 2006-04-07 | 2022-12-16 |
+| Ordonanța de urgență a Guvernului nr. 30/2006 | [`oug/2006/30/`](oug/2006/30/) | repealed 2018-06-15 | 10 | 2006-06-30 | 2018-06-15 |
 | Ordonanța de urgență a Guvernului nr. 34/2006 privind atribuirea contractelor de achiziție publică, a contractelor de concesiune de lucrări publice și a contractelor de concesiune de servicii | [`oug/2006/34/`](oug/2006/34/) | repealed 2016-05-26 | 29 | 2006-05-15 | 2016-05-26 |
 | Ordonanța de urgență a Guvernului nr. 39/2006 | [`oug/2006/39/`](oug/2006/39/) | in force | 2 | 2006-06-05 | 2006-12-24 |
 | Ordonanța de urgență a Guvernului nr. 44/2006 | [`oug/2006/44/`](oug/2006/44/) | in force | 2 | 2006-06-23 | 2007-01-08 |
