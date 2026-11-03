@@ -33811,3 +33811,6 @@ day,kind,law,acts,files,branch
 2018-11-13,start,hg-873-2018,hg-873-2018,6,main
 2018-11-14,start,hg-881-2018,hg-881-2018,1,main
 2018-12-10,start,legea-255-2018,legea-255-2018,1,main
+2022-06-29,start,hg-832-2022,hg-832-2022,11,main
+2023-01-05,law,hg-2-2023,hg-832-2022,1,main
+2024-01-12,law,hg-13-2024,hg-832-2022,1,main

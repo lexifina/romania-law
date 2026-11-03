@@ -1,6 +1,6 @@
 # Every act in this repository
 
-15354 acts, 28,974 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+15355 acts, 28,977 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -4920,7 +4920,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (10443, of which 4896 amending acts)
+## Government decisions (HG) (10444, of which 4896 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -11956,6 +11956,7 @@
 | Hotărârea Guvernului nr. 829/2022 pentru aprobarea Normelor metodologice de aplicare a Ordonanței de urgență a Guvernului nr. 133/2021 privind gestionarea financiară a fondurilor europene pentru perioada de programare 2021-2027 alocate României din Fondul european de dezvoltare regională, Fondul de coeziune, Fondul social european Plus, Fondul pentru o tranziție justă | [`hg/2022/829/`](hg/2022/829/) | amending act | 1 | 2022-06-29 | 2022-06-29 |
 | Hotărârea Guvernului nr. 830/2022 pentru modificarea și completarea Normelor metodologice de aplicare a Legii nr. 544/2001 privind liberul acces la informațiile de interes public, aprobate prin Hotărârea Guvernului nr. 123/2002 | [`hg/2022/830/`](hg/2022/830/) | amending act | 1 | 2022-06-28 | 2022-06-28 |
 | Hotărârea Guvernului nr. 831/2022 pentru aprobarea Normelor metodologice de aplicare a Legii nr. 52/2003 privind transparența decizională în administrația publică | [`hg/2022/831/`](hg/2022/831/) | amending act | 1 | 2022-06-29 | 2022-06-29 |
+| Hotărârea Guvernului nr. 832/2022 privind stabilirea atribuţiilor, organizarea şi funcţionarea Cancelariei Prim-Ministrului | [`hg/2022/832/`](hg/2022/832/) | in force | 3 | 2022-06-29 | 2024-01-12 |
 | Hotărârea Guvernului nr. 835/2022 pentru modificarea şi completarea Hotărârii Guvernului nr. 616/2015 privind aprobarea finanţării din bugetul Fondului pentru mediu a acţiunilor multianuale necesare programului "Colectarea, prelucrarea şi crearea de mecanisme şi instrumente de promovare a datelor şi informaţiilor necesare întocmirii rapoartelor către Comisia Europeană, Agenţia Europeană de Mediu şi Secretariatele Convenţiilor internaţionale din domeniul protecţiei mediului" desfăşurat în perioada 2015-2025 | [`hg/2022/835/`](hg/2022/835/) | amending act | 1 | 2022-07-05 | 2022-07-05 |
 | Hotărârea Guvernului nr. 836/2022 pentru modificarea Hotărârii Guvernului nr. 294/2015 privind aprobarea Programului național de cadastru și carte funciară 2015-2023 | [`hg/2022/836/`](hg/2022/836/) | amending act | 1 | 2022-07-05 | 2022-07-05 |
 | Hotărârea Guvernului nr. 837/2022 privind modificarea și completarea Hotărârii Guvernului nr. 859/2021 pentru aprobarea procedurii de autorizare a zborurilor cu aeronave în spațiul aerian național | [`hg/2022/837/`](hg/2022/837/) | amending act | 2 | 2022-07-04 | 2023-01-26 |

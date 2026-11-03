@@ -227213,6 +227213,33 @@
    ]
   },
   {
+   "slug": "hg-832-2022",
+   "path": "hg/2022/832",
+   "short": "HG nr. 832/2022",
+   "title": "Hotărârea Guvernului nr. 832/2022 privind stabilirea atribuţiilor, organizarea şi funcţionarea Cancelariei Prim-Ministrului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/256873",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/256873",
+     "sha256": "d81c12f81a2c57ecfb81da4626f6bedd9ed595a573b8146ba0a74fce964c6358"
+    },
+    {
+     "from": "2023-01-05",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/263450",
+     "sha256": "d3fad6dfd131d6ac4931824101f68e38af045d3bd2d98ecc3c450bb920c185a4"
+    },
+    {
+     "from": "2024-01-12",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/256873",
+     "sha256": "a4783fbda300d90aafc56bff878cb56a6dd4837bde0b12d8dfdda1886b3dbfe0"
+    }
+   ]
+  },
+  {
    "slug": "hg-832-2024",
    "path": "hg/2024/832",
    "short": "HG nr. 832/2024",
