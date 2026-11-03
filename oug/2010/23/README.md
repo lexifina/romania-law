@@ -45,3 +45,9 @@ Act id: `oug-23-2010` (tags `oug-23-2010/<day>`; `python tools/on.py <day> oug-2
 - OUG nr. 23/2010: the form of 16 December 2019 prints art. 20 with wording that differs from the earlier form (wording changed with no note and no amending act identified): the printed text is kept, dated by the first form that shows it, and no law is credited.
 - OUG nr. 23/2010: the portal editorial notes printed as paragraphs of an article (on a Constitutional Court ruling, a rectification, a provision put back in force) are not text: 1 such paragraphs across all forms, for example «Alin. (3) al art. 8 fost introdus de pct. 13 al art. unic di».
 - OUG nr. 23/2010: 3 changed article(s) with no note naming a law, committed as the publisher's: 2019-12-16 art-002, 2019-12-16 art-019, 2019-12-16 art-020.
+
+## Credits corrected
+
+These changes were first published credited to another law. The words are unchanged; `git blame` still names the commit that wrote them, and `data/credits.csv` lists every corrected credit.
+
+- `art-008.md`, in force from 2012-11-08: Legea nr. 191/2012 (first published as no law named).
