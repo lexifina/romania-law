@@ -18140,6 +18140,27 @@
    ]
   },
   {
+   "slug": "hg-432-2004",
+   "path": "hg/2004/432",
+   "short": "HG nr. 432/2004",
+   "title": "Hotărârea Guvernului nr. 432/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/51282",
+   "versions": [
+    {
+     "from": "2004-05-04",
+     "units": 30,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/51282",
+     "sha256": "0e09cbdb26f2720c82328e69cb54267510a6e7c5f30ad01206b02064302e13db"
+    },
+    {
+     "from": "2007-06-13",
+     "units": 30,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/51282",
+     "sha256": "548e2928463fa8168dcb5927744028e844ee6285b27d45833e9712d181b8c80c"
+    }
+   ]
+  },
+  {
    "slug": "hg-433-2022",
    "path": "hg/2022/433",
    "short": "HG nr. 433/2022",

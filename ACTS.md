@@ -1,6 +1,6 @@
 # Every act in this repository
 
-7854 acts, 20,592 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+7855 acts, 20,594 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -3904,7 +3904,7 @@
 | Ordonanța Guvernului nr. 21/2025 pentru modificarea și completarea Legii nr. 431/2023 privind asigurarea unui nivel minim global de impozitare a grupurilor de întreprinderi multinaționale și a grupurilor naționale de mari dimensiuni | [`og/2025/21/`](og/2025/21/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 | Ordonanța Guvernului nr. 22/2025 pentru modificarea și completarea Legii nr. 227/2015 privind Codul fiscal | [`og/2025/22/`](og/2025/22/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 
-## Government decisions (HG) (3958, of which 1461 amending acts)
+## Government decisions (HG) (3959, of which 1461 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -4314,6 +4314,7 @@
 | Hotărârea Guvernului nr. 409/2004 | [`hg/2004/409/`](hg/2004/409/) | in force | 2 | 2004-04-01 | 2004-08-10 |
 | Hotărârea Guvernului nr. 412/2004 | [`hg/2004/412/`](hg/2004/412/) | in force | 8 | 2004-03-30 | 2006-09-08 |
 | Hotărârea Guvernului nr. 427/2004 | [`hg/2004/427/`](hg/2004/427/) | in force | 3 | 2004-07-15 | 2006-03-30 |
+| Hotărârea Guvernului nr. 432/2004 | [`hg/2004/432/`](hg/2004/432/) | in force | 2 | 2004-05-04 | 2007-06-13 |
 | Hotărârea Guvernului nr. 451/2004 | [`hg/2004/451/`](hg/2004/451/) | in force | 1 | 2004-04-19 | 2004-04-19 |
 | Hotărârea Guvernului nr. 492/2004 | [`hg/2004/492/`](hg/2004/492/) | in force | 6 | 2004-04-21 | 2023-03-15 |
 | Hotărârea Guvernului nr. 493/2004 | [`hg/2004/493/`](hg/2004/493/) | repealed 2024-02-03 | 2 | 2004-04-30 | 2024-02-03 |

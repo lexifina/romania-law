@@ -72490,6 +72490,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/70494"
 },
 {
+"slug": "hg-432-2004",
+"path": "hg/2004/432",
+"kind": "hg",
+"year": "2004",
+"number": "432",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 432/2004",
+"short": "HG nr. 432/2004",
+"code": null,
+"status": "in force",
+"versions": 2,
+"from": "2004-05-04",
+"latest": "2007-06-13",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/51282"
+},
+{
 "slug": "hg-451-2004",
 "path": "hg/2004/451",
 "kind": "hg",
