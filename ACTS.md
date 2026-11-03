@@ -1,6 +1,6 @@
 # Every act in this repository
 
-12618 acts, 26,200 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+12623 acts, 26,205 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -4571,7 +4571,7 @@
 | Ordonanța Guvernului nr. 21/2025 pentru modificarea și completarea Legii nr. 431/2023 privind asigurarea unui nivel minim global de impozitare a grupurilor de întreprinderi multinaționale și a grupurilor naționale de mari dimensiuni | [`og/2025/21/`](og/2025/21/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 | Ordonanța Guvernului nr. 22/2025 pentru modificarea și completarea Legii nr. 227/2015 privind Codul fiscal | [`og/2025/22/`](og/2025/22/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 
-## Government decisions (HG) (8056, of which 3449 amending acts)
+## Government decisions (HG) (8061, of which 3450 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -5576,6 +5576,11 @@
 | Hotărârea Guvernului nr. 367/2008 privind încetarea raportului de serviciu al subprefectului judeţului Hunedoara, domnul Vladu Cristian-Marius, prin acordul părţilor | [`hg/2008/367/`](hg/2008/367/) | in force | 1 | 2008-04-01 | 2008-04-01 |
 | Hotărârea Guvernului nr. 368/2008 privind exercitarea, cu caracter temporar, a funcţiei publice de prefect al judeţului Bacău de către domnul Şerban Claudiu Octavian | [`hg/2008/368/`](hg/2008/368/) | in force | 1 | 2008-04-01 | 2008-04-01 |
 | Hotărârea Guvernului nr. 369/2008 privind exercitarea, cu caracter temporar, a funcţiei publice de prefect al judeţului Alba de către domnul Simedru Dan-Coriolan | [`hg/2008/369/`](hg/2008/369/) | in force | 1 | 2008-04-01 | 2008-04-01 |
+| Hotărârea Guvernului nr. 374/2008 pentru modificarea Normelor metodologice de aplicare a Legii nr. 334/2006 privind finanţarea activităţii partidelor politice şi a campaniilor electorale, aprobate prin Hotărârea Guvernului nr. 749/2007 | [`hg/2008/374/`](hg/2008/374/) | amending act | 1 | 2008-04-10 | 2008-04-10 |
+| Hotărârea Guvernului nr. 379/2008 privind stabilirea unor măsuri pentru evaluarea performanţelor profesionale individuale ale înalţilor funcţionari publici pentru anul 2007 | [`hg/2008/379/`](hg/2008/379/) | in force | 1 | 2008-04-10 | 2008-04-10 |
+| Hotărârea Guvernului nr. 384/2008 privind încetarea raportului de serviciu al prefectului judeţului Prahova, domnul Alexandri Nicolae, prin acordul părţilor | [`hg/2008/384/`](hg/2008/384/) | in force | 1 | 2008-04-10 | 2008-04-10 |
+| Hotărârea Guvernului nr. 385/2008 privind încetarea raportului de serviciu al prefectului judeţului Mureş, domnul Dobre Ciprian Minodor, prin acordul părţilor | [`hg/2008/385/`](hg/2008/385/) | in force | 1 | 2008-04-10 | 2008-04-10 |
+| Hotărârea Guvernului nr. 387/2008 privind exercitarea, cu caracter temporar, a funcţiei publice de prefect al judeţului Mureş de către doamna Pop Felicia | [`hg/2008/387/`](hg/2008/387/) | in force | 1 | 2008-04-10 | 2008-04-10 |
 | Hotărârea Guvernului nr. 430/2008 | [`hg/2008/430/`](hg/2008/430/) | in force | 1 | 2008-05-01 | 2008-05-01 |
 | Hotărârea Guvernului nr. 507/2008 | [`hg/2008/507/`](hg/2008/507/) | in force | 1 | 2008-05-21 | 2008-05-21 |
 | Hotărârea Guvernului nr. 546/2008 | [`hg/2008/546/`](hg/2008/546/) | in force | 3 | 2008-06-01 | 2011-04-26 |
