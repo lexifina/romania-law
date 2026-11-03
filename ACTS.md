@@ -1,6 +1,6 @@
 # Every act in this repository
 
-16329 acts, 29,953 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+16330 acts, 29,954 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -5010,7 +5010,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (11328, of which 5437 amending acts)
+## Government decisions (HG) (11329, of which 5437 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -8760,6 +8760,7 @@
 | Hotărârea Guvernului nr. 570/2017 pentru modificarea și completarea Normelor metodologice de aplicare a prevederilor Ordonanței de urgență a Guvernului nr. 40/2015 privind gestionarea financiară a fondurilor europene pentru perioada de programare 2014-2020, aprobate prin Hotărârea Guvernului nr. 93/2016 | [`hg/2017/570/`](hg/2017/570/) | amending act | 1 | 2017-08-10 | 2017-08-10 |
 | Hotărârea Guvernului nr. 571/2017 privind stabilirea condițiilor în care se suportă, de la bugetul de stat, contribuțiile de asigurări sociale de sănătate pentru veniturile din pensii, precum și condițiile de transmitere a informațiilor referitoare la aceste contribuții | [`hg/2017/571/`](hg/2017/571/) | in force | 1 | 2017-08-11 | 2017-08-11 |
 | Hotărârea Guvernului nr. 575/2017 privind modificarea și completarea anexei nr. 2 la Hotărârea Guvernului nr. 161/2016 pentru aprobarea pachetelor de servicii și a Contractului-cadru care reglementează condițiile acordării asistenței medicale, a medicamentelor și a dispozitivelor medicale în cadrul sistemului de asigurări sociale de sănătate pentru anii 2016-2017 | [`hg/2017/575/`](hg/2017/575/) | amending act | 1 | 2017-08-11 | 2017-08-11 |
+| Hotărârea Guvernului nr. 578/2017 privind înscrierea în inventarul centralizat al bunurilor din domeniul public al statului a unui bun imobil, construcţie şi teren aferent, aflat în administrarea Ministerului Educaţiei Naţionale prin Inspectoratul Şcolar Judeţean Sibiu | [`hg/2017/578/`](hg/2017/578/) | in force | 1 | 2017-08-16 | 2017-08-16 |
 | Hotărârea Guvernului nr. 579/2017 pentru modificarea art. 2 alin. (1) lit. b) din Hotărârea Guvernului nr. 1.476/2009 privind stabilirea unor măsuri pentru asigurarea aplicării Regulamentului (CE) nr. 1.371/2007 al Parlamentului European şi al Consiliului din 23 octombrie 2007 privind drepturile şi obligaţiile călătorilor din transportul feroviar | [`hg/2017/579/`](hg/2017/579/) | amending act | 1 | 2017-08-17 | 2017-08-17 |
 | Hotărârea Guvernului nr. 580/2017 privind actualizarea valorii de inventar a unor bunuri aflate în domeniul public al statului şi în concesiunea Societăţii Naţionale „Aeroportul Internaţional Mihail Kogălniceanu - Constanţa“ - S.A., unitate aflată sub autoritatea Ministerului Transporturilor, prevăzute în anexa nr. 16 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului | [`hg/2017/580/`](hg/2017/580/) | amending act | 1 | 2017-08-17 | 2017-08-17 |
 | Hotărârea Guvernului nr. 581/2017 pentru actualizarea valorii de inventar şi a datelor de identificare ale unui imobil aflat în domeniul public al statului şi în administrarea Instituţiei Prefectului - Judeţul Bihor din subordinea Ministerului Afacerilor Interne | [`hg/2017/581/`](hg/2017/581/) | in force | 1 | 2017-08-17 | 2017-08-17 |
