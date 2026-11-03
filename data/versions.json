@@ -9506,6 +9506,21 @@
    ]
   },
   {
+   "slug": "hg-1007-2025",
+   "path": "hg/2025/1007",
+   "short": "HG nr. 1007/2025",
+   "title": "Hotărârea Guvernului nr. 1007/2025 privind actualizarea valorilor de inventar ale unor bunuri imobile aflate în domeniul public al statului şi în administrarea unor unităţi teritoriale subordonate Administraţiei Naţionale a Rezervelor de Stat şi Probleme Speciale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/304735",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/304735",
+     "sha256": "5c95dac4bb42b0b3b19d4bab2a8311f30e94b01589505f88b5ce59793c288a3f"
+    }
+   ]
+  },
+  {
    "slug": "hg-1015-2021",
    "path": "hg/2021/1015",
    "short": "HG nr. 1015/2021",
@@ -26663,6 +26678,21 @@
    ]
   },
   {
+   "slug": "hg-984-2025",
+   "path": "hg/2025/984",
+   "short": "HG nr. 984/2025",
+   "title": "Hotărârea Guvernului nr. 984/2025 pentru modificarea şi completarea Hotărârii Guvernului nr. 685/2022 privind instituirea regimului de arie naturală protejată şi declararea ariilor speciale de conservare ca parte integrantă a reţelei ecologice europene Natura 2000 în România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/304633",
+   "versions": [
+    {
+     "from": "2025-11-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/304633",
+     "sha256": "08bf66f3bb795086e0489828a2b25fa510b5a56beca831eaa88c5d21dfe5fe2d"
+    }
+   ]
+  },
+  {
    "slug": "hg-989-2021",
    "path": "hg/2021/989",
    "short": "HG nr. 989/2021",
@@ -32830,6 +32860,21 @@
      "units": 63,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35246",
      "sha256": "5913a914249d0a003d429317ed16057ae5faddef85f63b5a4856c0a67b1b5f92"
+    }
+   ]
+  },
+  {
+   "slug": "legea-147-2025",
+   "path": "lege/2025/147",
+   "short": "Legea nr. 147/2025",
+   "title": "Legea nr. 147/2025 pentru modificarea şi completarea anexelor nr. 3 şi 4 la Legea nr. 43/2014 privind protecţia animalelor utilizate în scopuri ştiinţifice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/302926",
+   "versions": [
+    {
+     "from": "2025-10-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/302926",
+     "sha256": "e91a24213dcf3dbd6ed7f639ed2ffced09ea6bd779058521a2f1a7c66f62a32b"
     }
    ]
   },
@@ -39175,6 +39220,21 @@
      "units": 69,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/245506",
      "sha256": "42ae3b143ee6e43a543457e0eca5a9ee4e22f1ed92f86bb44e35094764abb00c"
+    }
+   ]
+  },
+  {
+   "slug": "legea-211-2025",
+   "path": "lege/2025/211",
+   "short": "Legea nr. 211/2025",
+   "title": "Legea nr. 211/2025 privind schimbarea denumirii satului Bâlvăneştii de Jos din comuna Bâlvăneşti, judeţul Mehedinţi, precum şi pentru modificarea anexei la Legea nr. 2/1968 privind organizarea administrativă a teritoriului României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/305026",
+   "versions": [
+    {
+     "from": "2025-12-11",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305026",
+     "sha256": "d658be40547e43174b8e3dd206d912826f87455c2766ef241425edbbbf4cdafa"
     }
    ]
   },

@@ -1,6 +1,6 @@
 # Every act in this repository
 
-10898 acts, 24,468 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+10902 acts, 24,472 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -32,7 +32,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (2267, of which 981 amending acts)
+## Laws (legi) (2269, of which 983 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -2255,6 +2255,7 @@
 | Legea nr. 142/2025 pentru modificarea art. 351 din Legea nr. 286/2009 privind Codul penal | [`lege/2025/142/`](lege/2025/142/) | amending act | 1 | 2025-10-02 | 2025-10-02 |
 | Legea nr. 145/2025 privind eficientizarea activității unor autorități administrative autonome | [`lege/2025/145/`](lege/2025/145/) | in force | 1 | 2025-10-06 | 2025-10-06 |
 | Legea nr. 146/2025 privind aprobarea Ordonanței de urgență a Guvernului nr. 1/2024 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 195/2002 privind circulația pe drumurile publice | [`lege/2025/146/`](lege/2025/146/) | amending act | 1 | 2025-10-06 | 2025-10-06 |
+| Legea nr. 147/2025 pentru modificarea şi completarea anexelor nr. 3 şi 4 la Legea nr. 43/2014 privind protecţia animalelor utilizate în scopuri ştiinţifice | [`lege/2025/147/`](lege/2025/147/) | amending act | 1 | 2025-10-12 | 2025-10-12 |
 | Legea nr. 148/2025 privind aprobarea Ordonanţei Guvernului nr. 20/2024 pentru modificarea Ordonanţei Guvernului nr. 51/1998 privind îmbunătăţirea sistemului de finanţare nerambursabilă a proiectelor culturale | [`lege/2025/148/`](lege/2025/148/) | amending act | 1 | 2025-10-12 | 2025-10-12 |
 | Legea nr. 149/2025 pentru completarea art. 118^1 din Legea nr. 53/2003 - Codul muncii | [`lege/2025/149/`](lege/2025/149/) | amending act | 1 | 2025-10-12 | 2025-10-12 |
 | Legea nr. 152/2025 privind aprobarea Ordonanței de urgență a Guvernului nr. 61/2024 pentru modificarea și completarea Legii nr. 146/2021 privind monitorizarea electronică în cadrul unor proceduri judiciare și execuțional penale | [`lege/2025/152/`](lege/2025/152/) | amending act | 1 | 2025-10-16 | 2025-10-16 |
@@ -2284,6 +2285,7 @@
 | Legea nr. 206/2025 acvaculturii | [`lege/2025/206/`](lege/2025/206/) | in force | 1 | 2025-12-07 | 2025-12-07 |
 | Legea nr. 207/2025 pentru modificarea art. 22 din Legea nr. 10/1995 privind calitatea în construcții, precum și pentru completarea art. 26 din Legea cadastrului și a publicității imobiliare nr. 7/1996 | [`lege/2025/207/`](lege/2025/207/) | amending act | 1 | 2025-12-11 | 2025-12-11 |
 | Legea nr. 209/2025 pentru modificarea și completarea Legii nr. 176/2018 privind internshipul | [`lege/2025/209/`](lege/2025/209/) | amending act | 1 | 2025-12-11 | 2025-12-11 |
+| Legea nr. 211/2025 privind schimbarea denumirii satului Bâlvăneştii de Jos din comuna Bâlvăneşti, judeţul Mehedinţi, precum şi pentru modificarea anexei la Legea nr. 2/1968 privind organizarea administrativă a teritoriului României | [`lege/2025/211/`](lege/2025/211/) | amending act | 1 | 2025-12-11 | 2025-12-11 |
 | Legea nr. 230/2025 pentru completarea art. 11^5 alin. (1) din Ordonanța Guvernului nr. 83/2001 privind înființarea, organizarea și funcționarea Direcției generale de pașapoarte, serviciilor publice comunitare de pașapoarte, Direcției generale permise de conducere și înmatriculări și serviciilor publice comunitare regim permise de conducere și înmatriculare a vehiculelor | [`lege/2025/230/`](lege/2025/230/) | amending act | 1 | 2025-12-19 | 2025-12-19 |
 | Legea nr. 239/2025 privind stabilirea unor măsuri de redresare și eficientizare a resurselor publice și pentru modificarea și completarea unor acte normative | [`lege/2025/239/`](lege/2025/239/) | amending act | 4 | 2025-12-18 | 2026-01-14 |
 | Legea nr. 241/2025 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 31/2002 privind interzicerea organizațiilor, simbolurilor și faptelor cu caracter fascist, legionar, rasist sau xenofob și a promovării cultului persoanelor vinovate de săvârșirea unor infracțiuni de genocid contra umanității și de crime de război, precum și pentru modificarea Legii nr. 157/2018 privind unele măsuri pentru prevenirea și combaterea antisemitismului | [`lege/2025/241/`](lege/2025/241/) | amending act | 1 | 2025-12-27 | 2025-12-27 |
@@ -4407,7 +4409,7 @@
 | Ordonanța Guvernului nr. 21/2025 pentru modificarea și completarea Legii nr. 431/2023 privind asigurarea unui nivel minim global de impozitare a grupurilor de întreprinderi multinaționale și a grupurilor naționale de mari dimensiuni | [`og/2025/21/`](og/2025/21/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 | Ordonanța Guvernului nr. 22/2025 pentru modificarea și completarea Legii nr. 227/2015 privind Codul fiscal | [`og/2025/22/`](og/2025/22/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 
-## Government decisions (HG) (6499, of which 2726 amending acts)
+## Government decisions (HG) (6501, of which 2727 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -10846,11 +10848,13 @@
 | Hotărârea Guvernului nr. 974/2025 privind actualizarea valorii de inventar şi a datelor de identificare a unor imobile aflate în domeniul public al statului şi în administrarea Ministerului Afacerilor Interne - U.M. 0527 Galaţi (Inspectoratul de Jandarmi Judeţean "Dunărea de Jos" Galaţi), ca urmare a reevaluării | [`hg/2025/974/`](hg/2025/974/) | in force | 1 | 2025-11-19 | 2025-11-19 |
 | Hotărârea Guvernului nr. 980/2025 privind aprobarea scoaterii din rezervele de stat a unor produse şi acordarea acestora ca ajutoare umanitare interne de urgenţă, cu titlu gratuit, în vederea asigurării condiţiilor pentru desfăşurarea activităţii la Staţia meteorologică Vlădeasa, judeţul Cluj | [`hg/2025/980/`](hg/2025/980/) | amending act | 1 | 2025-11-21 | 2025-11-21 |
 | Hotărârea Guvernului nr. 982/2025 privind recunoaşterea Fundaţiei MGH pentru copii bolnavi de SIDA ca fiind de utilitate publică | [`hg/2025/982/`](hg/2025/982/) | in force | 1 | 2025-11-24 | 2025-11-24 |
+| Hotărârea Guvernului nr. 984/2025 pentru modificarea şi completarea Hotărârii Guvernului nr. 685/2022 privind instituirea regimului de arie naturală protejată şi declararea ariilor speciale de conservare ca parte integrantă a reţelei ecologice europene Natura 2000 în România | [`hg/2025/984/`](hg/2025/984/) | amending act | 1 | 2025-11-21 | 2025-11-21 |
 | Hotărârea Guvernului nr. 985/2025 privind abrogarea Hotărârii Guvernului nr. 187/2011 pentru aprobarea Planului de management al Parcului Natural Bucegi | [`hg/2025/985/`](hg/2025/985/) | amending act | 1 | 2025-11-24 | 2025-11-24 |
 | Hotărârea Guvernului nr. 986/2025 privind aprobarea Acordului dintre Agenţia pentru Dezvoltare Regională Sud Muntenia, Agenţia de Dezvoltare Regională Nord-Vest, Agenţia pentru Dezvoltare Regională Nord-Est, Agenţia pentru Dezvoltare Regională Centru, Agenţia pentru Dezvoltare Regională Sud-Vest Oltenia, Agenţia pentru Dezvoltare Regională Sud-Est şi Banca Europeană de Investiţii, semnat la 22 august 2025, 26 august 2025, 27 august 2025, 29 august 2025, 2 septembrie 2025 şi 3 septembrie 2025, de aderare, amendare şi reiterare a Acordului de finanţare din 17 octombrie 2024 dintre Agenţia pentru Dezvoltare Regională Sud Muntenia, Agenţia de Dezvoltare Regională Nord-Vest, Agenţia pentru Dezvoltare Regională Nord-Est şi Banca Europeană de Investiţii | [`hg/2025/986/`](hg/2025/986/) | amending act | 1 | 2025-11-25 | 2025-11-25 |
 | Hotărârea Guvernului nr. 989/2025 privind declanşarea procedurii de expropriere a imobilului proprietate privată şi aprobarea listei cuprinzând imobilul proprietate publică a statului, situate pe amplasamentul suplimentar, care fac parte din coridorul de expropriere al lucrării de utilitate publică de interes naţional "Autostrada Sibiu-Piteşti" - Secţiunea 2 Boiţa-Cornetu | [`hg/2025/989/`](hg/2025/989/) | in force | 1 | 2025-11-24 | 2025-11-24 |
 | Hotărârea Guvernului nr. 991/2025 privind înscrierea unui teren în inventarul centralizat al bunurilor din domeniului public al statului, comasarea acestuia cu construcţia înscrisă la numărul MF 153782 şi modificarea valorii de inventar şi a caracteristicilor tehnice ale bunului rezultat în urma comasării, aflat în administrarea Agenţiei Judeţene pentru Ocuparea Forţei de Muncă Mehedinţi | [`hg/2025/991/`](hg/2025/991/) | in force | 1 | 2025-11-25 | 2025-11-25 |
 | Hotărârea Guvernului nr. 992/2025 privind modificarea valorii de inventar şi a caracteristicilor tehnice ale unui bun aflat în domeniul public al statului şi în administrarea Agenţiei Judeţene pentru Plăţi şi Inspecţie Socială Teleorman | [`hg/2025/992/`](hg/2025/992/) | amending act | 1 | 2025-11-25 | 2025-11-25 |
+| Hotărârea Guvernului nr. 1007/2025 privind actualizarea valorilor de inventar ale unor bunuri imobile aflate în domeniul public al statului şi în administrarea unor unităţi teritoriale subordonate Administraţiei Naţionale a Rezervelor de Stat şi Probleme Speciale | [`hg/2025/1007/`](hg/2025/1007/) | in force | 1 | 2025-11-27 | 2025-11-27 |
 | Hotărârea Guvernului nr. 1016/2025 privind eliberarea domnului Mitroi Sergiu din funcţia de subprefect al judeţului Covasna | [`hg/2025/1016/`](hg/2025/1016/) | in force | 1 | 2025-11-27 | 2025-11-27 |
 | Hotărârea Guvernului nr. 1017/2025 privind eliberarea domnului Spiridon Ionel din funcţia de subprefect al judeţului Dolj | [`hg/2025/1017/`](hg/2025/1017/) | in force | 1 | 2025-11-27 | 2025-11-27 |
 | Hotărârea Guvernului nr. 1038/2025 privind completarea Hotărârii Guvernului nr. 1.473/2024 pentru declararea de interes naţional a Festivalului Olimpic al Tineretului European - F.O.T.E. - ediţia de iarnă, 2027 | [`hg/2025/1038/`](hg/2025/1038/) | amending act | 1 | 2025-11-28 | 2025-11-28 |

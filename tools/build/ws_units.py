@@ -11,7 +11,13 @@ normalised the way parse.py does it (comma-below ș/ț, no-break spaces, collaps
 import re
 import sys
 
-ART = re.compile(r'^\s*Art(?:icol(?:ul)?|\.)\s+(unic|\d+)(?:\s*\^\s*(\d+))?\s*\.?\s*(?:-\s*)?(.*)$', re.I)
+ART = re.compile(r'^\s*Art(?:icol(?:ul)?|\.)\s+(unic|\d+|[IVXLC]+(?![\w]))(?:\s*\^\s*(\d+))?\s*\.?\s*(?:-\s*)?(.*)$', re.I)
+ROMAN = {'I': 1, 'V': 5, 'X': 10, 'L': 50, 'C': 100}
+
+
+def roman_value(r: str) -> int:
+    v = [ROMAN[c] for c in r.upper()]
+    return sum(-x if i + 1 < len(v) and x < v[i + 1] else x for i, x in enumerate(v))
 HEAD = re.compile(r'^\s*(Titlul|Capitolul|Sec[țţ]iunea|Cartea|Partea|Paragraful|Anexa|ANEXA|§)\b', re.I)
 SUBHEAD = re.compile(r'^[a-z]\)\s+[A-ZĂÂÎȘȚ][^.;:]{0,70}$')  # a lettered sub-heading run onto the end of the article before
 TAIL = re.compile(r'^\s*(Aceast[ăa] lege a fost adoptat|PRIM-MINISTRU|PREȘEDINTELE|PRESEDINTELE|Contrasemneaz|NOT[ĂA]\b)', re.I)
@@ -29,8 +35,65 @@ def norm(s: str) -> str:
     return re.sub(r'[ \t]+', ' ', s).strip()
 
 
+def _is_roman(num: str) -> bool:
+    return num.lower() != 'unic' and not num.isdigit()
+
+
+# An amending act's numbered points run on after the sentence before them ("... se abrogă. 14. La articolul 25, ..."):
+# each is a paragraph of its own, as the page prints it (Roman-numbered acts only: they are the amending acts)
+POINT_SPLIT = re.compile(r'(?<=[.;:"”»])[ \t]+(?=\d{1,3}(?:\^\d+)?\.[ \t]+(?:La|Articolul|Articolele|După|Alineatul|'
+                         r'Alineatele|Anexa|Anexele|Punctul|Punctele|Litera|Literele|Titlul|Capitolul|Partea|Secțiunea|'
+                         r'Denumirea|Cuprinsul|Sintagma|Textul|În|Nota|Preambulul|Formula)\b)')
+
+
+def _roman_units(blocks: list, pad: int) -> dict:
+    """Units of an act whose own articles are numbered in Roman numerals (an amending act): every block after a Roman
+    article, until the next one, is that article's text as the page prints it (the quoted articles "Articolul 4",
+    the quoted annexes "Anexa nr. 2 la Hotărârea ..."), not an article or heading of the act's own."""
+    units: dict = {}
+    cur = None
+    for b in blocks[1:]:
+        lines = [norm(x) for x in b.split('\n') if norm(x)]
+        if not lines:
+            continue
+        m = ART.match(lines[0])
+        if m and _is_roman(m.group(1)):
+            num, sup, rest = m.group(1).upper(), m.group(2), m.group(3)
+            key = f'art-{roman_value(num):0{pad}d}' + (f'-{int(sup)}' if sup else '')
+            label = f'Articolul {num}' + (f'^{sup}' if sup else '')
+            if key in units:
+                cur = None  # a later print of the same number is a quotation: skipped, as for Arabic articles
+                continue
+            cur = key
+            units[key] = {'label': label, 'lines': []}
+            lines = ([rest] if rest else []) + lines[1:]
+        elif cur is None:
+            continue  # before the first article (headings), after a repeated number, or after the signatures
+        for ln in lines:
+            # the elision dots of a partial quotation ("........") are a line of their own, as the page prints them
+            parts = [p for x in POINT_SPLIT.split(ln) for p in re.split(r'[ \t]*(\.{6,}|…{2,})[ \t]*', x) if p.strip()]
+            for part in parts:
+                if TAIL.match(part):  # the signatures (or a note) end this article; the next Roman one opens again
+                    cur = None
+                    break
+                mid = TAIL_MID.search(part)
+                if mid:
+                    if part[:mid.start()].strip():
+                        units[cur]['lines'].append(part[:mid.start()].strip())
+                    cur = None
+                    break
+                units[cur]['lines'].append(part)
+            if cur is None:
+                break
+    # the EU-transposition note stays: the pages of these acts print it in their last article
+    return {k: {'label': u['label'], 'text': '\n'.join([f'# {u["label"]}'] + u['lines']) + '\n'} for k, u in units.items()}
+
+
 def units_of(text: str, pad: int = 3) -> dict:
     blocks = re.split(r'\n\s*\xa0?\+\xa0?\s*\n', text.replace('\r', ''))
+    first = next((m for b in blocks[1:] for m in [ART.match(norm(b.split('\n')[0]) if b.strip() else '')] if m), None)
+    if first and _is_roman(first.group(1)):  # the act numbers its own articles I, II, ...
+        return _roman_units(blocks, pad)
     units: dict = {}
     pending = None  # a short sub-heading block ("a) Prin naștere"): the next article's marginal title, as in parse.py
     for b in blocks[1:]:  # block 0 is the act's header (title, issuer, publication, preamble)
@@ -38,6 +101,8 @@ def units_of(text: str, pad: int = 3) -> dict:
         if not lines:
             continue
         m = ART.match(lines[0])
+        if m and _is_roman(m.group(1)):
+            m = None  # a Roman number quoted in an Arabic-numbered act: handled as before Roman numbers were read
         if not m:
             joined = ' '.join(lines)
             pending = None if HEAD.match(lines[0]) or len(joined) > 160 else joined
