@@ -24698,6 +24698,63 @@
    ]
   },
   {
+   "slug": "hg-956-2005",
+   "path": "hg/2005/956",
+   "short": "HG nr. 956/2005",
+   "title": "Hotărârea Guvernului nr. 956/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/65135",
+   "versions": [
+    {
+     "from": "2005-09-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/65135",
+     "sha256": "bdb481881bf71a148fa003b1e42b3e8b0f66b63a455aa5fdb4e36214aa47cd0d"
+    },
+    {
+     "from": "2005-10-21",
+     "units": 59,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/65135",
+     "sha256": "bdb481881bf71a148fa003b1e42b3e8b0f66b63a455aa5fdb4e36214aa47cd0d"
+    },
+    {
+     "from": "2005-11-07",
+     "units": 59,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73088",
+     "sha256": "92ad28615cf049eb682d12d10c73b3f4e6cbdebd16584da6898c8838f7e865e3"
+    },
+    {
+     "from": "2006-05-10",
+     "units": 59,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73089",
+     "sha256": "3ef4bbc43a14004b46df526481d575d68082083ba64bb50099b9f61ded2806fb"
+    },
+    {
+     "from": "2007-01-01",
+     "units": 94,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73089",
+     "sha256": "3ef4bbc43a14004b46df526481d575d68082083ba64bb50099b9f61ded2806fb"
+    },
+    {
+     "from": "2008-06-03",
+     "units": 93,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/115330",
+     "sha256": "79fbce59d5c12f3530ae869a8435dd80e54c5c9fd615a352db9cf43ea5aa3d6a"
+    },
+    {
+     "from": "2009-02-17",
+     "units": 93,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/115332",
+     "sha256": "f35092c4793cab9bcdf0db360db6107038aa3057cd4c10476a1debd25a1d0498"
+    },
+    {
+     "from": "2010-09-14",
+     "units": 93,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/122407",
+     "sha256": "796078a70999f477d287c3797c833ffb9dbe44c8caf709a5bf5d1aacf49dbec8"
+    }
+   ]
+  },
+  {
    "slug": "hg-957-2005",
    "path": "hg/2005/957",
    "short": "HG nr. 957/2005",

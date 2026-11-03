@@ -1,6 +1,6 @@
 # Every act in this repository
 
-7768 acts, 20,482 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+7769 acts, 20,490 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -3893,7 +3893,7 @@
 | Ordonanța Guvernului nr. 21/2025 pentru modificarea și completarea Legii nr. 431/2023 privind asigurarea unui nivel minim global de impozitare a grupurilor de întreprinderi multinaționale și a grupurilor naționale de mari dimensiuni | [`og/2025/21/`](og/2025/21/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 | Ordonanța Guvernului nr. 22/2025 pentru modificarea și completarea Legii nr. 227/2015 privind Codul fiscal | [`og/2025/22/`](og/2025/22/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 
-## Government decisions (HG) (3883, of which 1418 amending acts)
+## Government decisions (HG) (3884, of which 1418 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -4454,6 +4454,7 @@
 | Hotărârea Guvernului nr. 911/2005 | [`hg/2005/911/`](hg/2005/911/) | in force | 3 | 2005-11-30 | 2007-05-28 |
 | Hotărârea Guvernului nr. 924/2005 | [`hg/2005/924/`](hg/2005/924/) | in force | 1 | 2006-10-01 | 2006-10-01 |
 | Hotărârea Guvernului nr. 930/2005 | [`hg/2005/930/`](hg/2005/930/) | in force | 1 | 2005-10-02 | 2005-10-02 |
+| Hotărârea Guvernului nr. 956/2005 | [`hg/2005/956/`](hg/2005/956/) | in force | 8 | 2005-09-21 | 2010-09-14 |
 | Hotărârea Guvernului nr. 957/2005 | [`hg/2005/957/`](hg/2005/957/) | in force | 13 | 2005-09-17 | 2025-04-25 |
 | Hotărârea Guvernului nr. 984/2005 | [`hg/2005/984/`](hg/2005/984/) | in force | 6 | 2005-09-18 | 2019-07-28 |
 | Hotărârea Guvernului nr. 991/2005 pentru aprobarea Codului de etică și deontologie al polițistului | [`hg/2005/991/`](hg/2005/991/) | amending act | 1 | 2005-09-07 | 2005-09-07 |

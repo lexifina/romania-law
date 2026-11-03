@@ -74870,6 +74870,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/64710"
 },
 {
+"slug": "hg-956-2005",
+"path": "hg/2005/956",
+"kind": "hg",
+"year": "2005",
+"number": "956",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 956/2005",
+"short": "HG nr. 956/2005",
+"code": null,
+"status": "in force",
+"versions": 8,
+"from": "2005-09-21",
+"latest": "2010-09-14",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/65135"
+},
+{
 "slug": "hg-957-2005",
 "path": "hg/2005/957",
 "kind": "hg",
