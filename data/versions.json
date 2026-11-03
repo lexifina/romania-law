@@ -19844,6 +19844,51 @@
    ]
   },
   {
+   "slug": "hg-568-2001",
+   "path": "hg/2001/568",
+   "short": "HG nr. 568/2001",
+   "title": "Hotărârea Guvernului nr. 568/2001",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/29245",
+   "versions": [
+    {
+     "from": "2002-01-01",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/29245",
+     "sha256": "cd91fb3c249c48a7a1c5e23d05d482597b1bd60ed80085d30f3254a7e94f5081"
+    },
+    {
+     "from": "2005-08-29",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/74901",
+     "sha256": "516f0541ec6e1c258a6e40607c94938d0faa1abaf82fe1b0ac9e74a291ff10a3"
+    },
+    {
+     "from": "2006-01-12",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/74902",
+     "sha256": "8011e5e5a266e5e5ce34d1ab0fd043b3d715eb8d16ef0f639254f061c61b1730"
+    },
+    {
+     "from": "2007-08-29",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/84838",
+     "sha256": "162975e335d4570707b558d542209f6751d9c93d8305715fa88cda378c651817"
+    },
+    {
+     "from": "2012-11-04",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142296",
+     "sha256": "8e81a8d606a951586b8727121b4e3651af655435bad78c77dd8943c1c19cc56c"
+    },
+    {
+     "from": "2013-12-19",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/155894",
+     "sha256": "67582a3fa98e4fbf4b0c7b0a8ad7caac7e18a18fbe7b76f2f7751c9990e1b43c"
+    }
+   ]
+  },
+  {
    "slug": "hg-568-2002",
    "path": "hg/2002/568",
    "short": "HG nr. 568/2002",

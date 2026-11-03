@@ -1,6 +1,6 @@
 # Every act in this repository
 
-7687 acts, 20,389 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+7688 acts, 20,395 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -3893,7 +3893,7 @@
 | Ordonanța Guvernului nr. 21/2025 pentru modificarea și completarea Legii nr. 431/2023 privind asigurarea unui nivel minim global de impozitare a grupurilor de întreprinderi multinaționale și a grupurilor naționale de mari dimensiuni | [`og/2025/21/`](og/2025/21/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 | Ordonanța Guvernului nr. 22/2025 pentru modificarea și completarea Legii nr. 227/2015 privind Codul fiscal | [`og/2025/22/`](og/2025/22/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 
-## Government decisions (HG) (3802, of which 1390 amending acts)
+## Government decisions (HG) (3803, of which 1390 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -4051,6 +4051,7 @@
 | Hotărârea Guvernului nr. 530/2001 | [`hg/2001/530/`](hg/2001/530/) | in force | 3 | 2002-03-18 | 2009-04-11 |
 | Hotărârea Guvernului nr. 536/2001 | [`hg/2001/536/`](hg/2001/536/) | in force | 1 | 2001-06-15 | 2001-06-15 |
 | Hotărârea Guvernului nr. 559/2001 | [`hg/2001/559/`](hg/2001/559/) | in force | 1 | 2001-06-22 | 2001-06-22 |
+| Hotărârea Guvernului nr. 568/2001 | [`hg/2001/568/`](hg/2001/568/) | in force | 6 | 2002-01-01 | 2013-12-19 |
 | Hotărârea Guvernului nr. 581/2001 | [`hg/2001/581/`](hg/2001/581/) | in force | 1 | 2001-07-06 | 2001-07-06 |
 | Hotărârea Guvernului nr. 583/2001 | [`hg/2001/583/`](hg/2001/583/) | in force | 1 | 2001-06-29 | 2001-06-29 |
 | Hotărârea Guvernului nr. 589/2001 | [`hg/2001/589/`](hg/2001/589/) | in force | 1 | 2001-07-06 | 2001-07-06 |
