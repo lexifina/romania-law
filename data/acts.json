@@ -3368,6 +3368,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/18663"
 },
 {
+"slug": "legea-130-1999",
+"path": "lege/1999/130",
+"kind": "lege",
+"year": "1999",
+"number": "130",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 130/1999",
+"short": "Legea nr. 130/1999",
+"code": null,
+"status": "in force",
+"versions": 10,
+"from": "1999-09-25",
+"latest": "2007-03-20",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/80414"
+},
+{
 "slug": "legea-132-1999",
 "path": "lege/1999/132",
 "kind": "lege",
