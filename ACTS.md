@@ -1,6 +1,6 @@
 # Every act in this repository
 
-8768 acts, 21,826 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+8769 acts, 21,832 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -2097,7 +2097,7 @@
 | Legea nr. 190/2026 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 81/2021 privind aprobarea metodelor de intervenţie imediată pentru prevenirea şi combaterea atacurilor exemplarelor de urs brun asupra persoanelor şi bunurilor acestora, precum şi pentru modificarea şi completarea unor acte normative | [`lege/2026/190/`](lege/2026/190/) | amending act | 1 | 2026-10-08 | 2026-10-08 |
 | Legea nr. 205/2026 pentru completarea Ordonanţei Guvernului nr. 22/2002 privind executarea obligaţiilor de plată ale instituţiilor publice, stabilite prin titluri executorii | [`lege/2026/205/`](lege/2026/205/) | amending act | 1 | 2026-11-02 | 2026-11-02 |
 
-## Emergency ordinances (OUG) (1522, of which 533 amending acts)
+## Emergency ordinances (OUG) (1523, of which 533 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -2246,6 +2246,7 @@
 | Ordonanța de urgență a Guvernului nr. 152/2002 | [`oug/2002/152/`](oug/2002/152/) | in force | 2 | 2002-11-15 | 2003-04-22 |
 | Ordonanța de urgență a Guvernului nr. 153/2002 | [`oug/2002/153/`](oug/2002/153/) | in force | 3 | 2002-11-15 | 2017-07-01 |
 | Ordonanța de urgență a Guvernului nr. 155/2002 privind aprobarea scoaterii din rezervele de stat a unor cantităţi de combustibili pentru Societatea Comercială de Producere a Energiei Electrice şi Termice "Termoelectrica" - S.A., Societatea Comercială "Electrocentrale" Deva - S.A. şi centralele termice şi electrice de termoficare aflate în administrarea consiliilor judeţene şi locale | [`oug/2002/155/`](oug/2002/155/) | amending act | 2 | 2002-11-15 | 2003-04-23 |
+| Ordonanța de urgență a Guvernului nr. 174/2002 | [`oug/2002/174/`](oug/2002/174/) | repealed 2009-03-12 | 6 | 2002-12-09 | 2009-03-12 |
 | Ordonanța de urgență a Guvernului nr. 179/2002 | [`oug/2002/179/`](oug/2002/179/) | in force | 4 | 2003-01-01 | 2019-10-31 |
 | Ordonanța de urgență a Guvernului nr. 184/2002 | [`oug/2002/184/`](oug/2002/184/) | in force | 7 | 2002-12-18 | 2006-12-24 |
 | Ordonanța de urgență a Guvernului nr. 187/2002 | [`oug/2002/187/`](oug/2002/187/) | in force | 4 | 2002-12-23 | 2009-01-01 |

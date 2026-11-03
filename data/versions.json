@@ -76094,6 +76094,51 @@
    ]
   },
   {
+   "slug": "oug-174-2002",
+   "path": "oug/2002/174",
+   "short": "OUG nr. 174/2002",
+   "title": "Ordonanța de urgență a Guvernului nr. 174/2002",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/101647",
+   "versions": [
+    {
+     "from": "2002-12-09",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/40417",
+     "sha256": "89b07babb3643b64539c5db5a0f917c158114e496f2f4ab0a9ebd92c011d03bd"
+    },
+    {
+     "from": "2003-05-22",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/70718",
+     "sha256": "46a3b483bfae3306142881e2ab7552baf159d168eb8f7801e73457ff245a0190"
+    },
+    {
+     "from": "2005-12-29",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/70719",
+     "sha256": "a588155f93819e4ffcc9ea6e0542d82598321a817685bc1b92d6cdac021fbfb2"
+    },
+    {
+     "from": "2006-07-07",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/74749",
+     "sha256": "1144414064b58ae189a4ed489948e886b770768fcf737ebc53a7b0ac0a854142"
+    },
+    {
+     "from": "2008-12-02",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/101647",
+     "sha256": "2d60aa291c8b5f5353f58d6dad517f3945a3704c04151033ca18930bd1e72198"
+    },
+    {
+     "from": "2009-03-12",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/103284",
+     "sha256": "3941e1bd09647bd1898b53527ea67b35b34a4dc6fd2c41e8266db5d687b89cd9"
+    }
+   ]
+  },
+  {
    "slug": "oug-174-2022",
    "path": "oug/2022/174",
    "short": "OUG nr. 174/2022",
