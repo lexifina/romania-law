@@ -1,6 +1,6 @@
 # Every act in this repository
 
-15091 acts, 28,711 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+15092 acts, 28,712 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -4866,7 +4866,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (10234, of which 4751 amending acts)
+## Government decisions (HG) (10235, of which 4751 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -8816,6 +8816,7 @@
 | Hotărârea Guvernului nr. 191/2019 privind modificarea anexelor nr. 1 și 3 la Normele metodologice pentru aplicarea Legii nr. 269/2004 privind acordarea unui ajutor financiar în vederea stimulării achiziționării de calculatoare, aprobate prin Hotărârea Guvernului nr. 1.294/2004 | [`hg/2019/191/`](hg/2019/191/) | amending act | 1 | 2019-04-10 | 2019-04-10 |
 | Hotărârea Guvernului nr. 194/2019 pentru aprobarea modului de repartizare și de utilizare a sumelor prevăzute la lit. a) și b) din anexa nr. 3/13/02a la bugetul Secretariatului General al Guvernului, aprobat prin Legea bugetului de stat pe anul 2019 nr. 50/2019 | [`hg/2019/194/`](hg/2019/194/) | amending act | 1 | 2019-04-04 | 2019-04-04 |
 | Hotărârea Guvernului nr. 209/2019 pentru aprobarea Cadrului general privind regimul juridic al contractelor de concesiune a serviciului de utilitate publică de distribuție a gazelor naturale, procedurile pentru acordarea concesiunilor, conținutul-cadru al caietului de sarcini | [`hg/2019/209/`](hg/2019/209/) | amending act | 1 | 2019-04-15 | 2019-04-15 |
+| Hotărârea Guvernului nr. 220/2019 privind actualizarea valorii de inventar a unui imobil aflat în domeniul public al statului şi în administrarea Ministerului Afacerilor Interne - Unitatea Militară 0460 Râmnicu Vâlcea şi pentru trecerea unei părţi de imobil din domeniul public al statului în domeniul privat al statului, pentru a fi predat către Comisia locală de aplicare a legii fondului funciar Bujoreni, judeţul Vâlcea, în vederea punerii în posesie a persoanelor îndreptăţite | [`hg/2019/220/`](hg/2019/220/) | in force | 1 | 2019-04-16 | 2019-04-16 |
 | Hotărârea Guvernului nr. 222/2019 privind reaprobarea indicatorilor tehnico-economici ai obiectivului de investiții "Centura de ocolire Craiova - varianta Sud DN 56-DN 55-DN 6" | [`hg/2019/222/`](hg/2019/222/) | in force | 1 | 2019-04-12 | 2019-04-12 |
 | Hotărârea Guvernului nr. 223/2019 privind aprobarea acordării ajutorului de stat pentru facilitarea închiderii minelor de cărbune necompetitive din cadrul Societății Complexul Energetic Hunedoara - S.A. pentru anul 2019 | [`hg/2019/223/`](hg/2019/223/) | amending act | 1 | 2019-04-12 | 2019-04-12 |
 | Hotărârea Guvernului nr. 224/2019 privind aprobarea acordării ajutorului de stat pentru facilitarea închiderii minelor de cărbune necompetitive din cadrul Societății Naționale de Închideri Mine Valea Jiului - S.A. pentru anul 2019 | [`hg/2019/224/`](hg/2019/224/) | amending act | 1 | 2019-04-12 | 2019-04-12 |
