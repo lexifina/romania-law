@@ -23,3 +23,10 @@ Act id: `legea-57-2007` (tags `legea-57-2007/<day>`; `python tools/on.py <day> l
 - Legea nr. 57/2007: the first sentence of art. 6, «Alin. (1) al art. 2 din Legea nr. 170/2005 ... se modifica și va avea urmatorul cuprins:», is the act's own amending sentence, not the portal's editorial note, so it is kept (flag amend_alin_lines; corrected after publication, when the record had left it out).
 - Legea nr. 57/2007: 1 changed article(s) with no note naming a law, committed as the publisher's: 2011-01-12 art-002.
 - Legea nr. 57/2007: forms with no change after normalisation, so no version: 2011-12-22 (147542).
+
+## Credits corrected
+
+These changes were first published credited to another law. The words are unchanged; `git blame` still names the commit that wrote them, and `data/credits.csv` lists every corrected credit.
+
+- `art-002.md`, in force from 2008-11-28: OUG nr. 157/2008 (first published as no law named).
+- `art-003-1.md`, in force from 2008-11-28: OUG nr. 157/2008 (first published as no law named).
