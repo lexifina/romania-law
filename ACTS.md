@@ -1,6 +1,6 @@
 # Every act in this repository
 
-12480 acts, 26,062 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+12499 acts, 26,081 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -4568,7 +4568,7 @@
 | Ordonanța Guvernului nr. 21/2025 pentru modificarea și completarea Legii nr. 431/2023 privind asigurarea unui nivel minim global de impozitare a grupurilor de întreprinderi multinaționale și a grupurilor naționale de mari dimensiuni | [`og/2025/21/`](og/2025/21/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 | Ordonanța Guvernului nr. 22/2025 pentru modificarea și completarea Legii nr. 227/2015 privind Codul fiscal | [`og/2025/22/`](og/2025/22/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 
-## Government decisions (HG) (7921, of which 3397 amending acts)
+## Government decisions (HG) (7940, of which 3405 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -5419,15 +5419,34 @@
 | Hotărârea Guvernului nr. 38/2008 | [`hg/2008/38/`](hg/2008/38/) | in force | 2 | 2008-01-22 | 2012-01-12 |
 | Hotărârea Guvernului nr. 39/2008 pentru aprobarea plăţii contribuţiei financiare a României la bugetul comun al Centrului de Coordonare a Mişcării din Europa - MCCE | [`hg/2008/39/`](hg/2008/39/) | amending act | 1 | 2008-01-22 | 2008-01-22 |
 | Hotărârea Guvernului nr. 41/2008 privind recunoaşterea Asociaţiei "Harghita Visual Art" ca fiind de utilitate publică | [`hg/2008/41/`](hg/2008/41/) | in force | 1 | 2008-01-22 | 2008-01-22 |
+| Hotărârea Guvernului nr. 42/2008 privind transmiterea unui imobil, aflat în domeniul public al statului, din administrarea Ministerului Agriculturii şi Dezvoltării Rurale - Direcţia pentru Agricultură şi Dezvoltare Rurală Argeş în administrarea Administraţiei Naţionale a Îmbunătăţirilor Funciare - Sucursala Teritorială Argeş-Buzău - Unitatea de Administrare Argeş | [`hg/2008/42/`](hg/2008/42/) | in force | 1 | 2008-01-23 | 2008-01-23 |
 | Hotărârea Guvernului nr. 45/2008 privind transmiterea unei suprafeţe de 58,87 ha teren agricol din domeniul public al statului şi din administrarea Agenţiei Naţionale de Consultanţă Agricolă în domeniul public al judeţului Tulcea şi în administrarea Consiliului Judeţean Tulcea | [`hg/2008/45/`](hg/2008/45/) | in force | 1 | 2008-01-22 | 2008-01-22 |
 | Hotărârea Guvernului nr. 48/2008 privind aprobarea încadrării în categoria funcţională a drumurilor judeţene a unui drum comunal situat în judeţul Buzău | [`hg/2008/48/`](hg/2008/48/) | amending act | 1 | 2008-01-22 | 2008-01-22 |
 | Hotărârea Guvernului nr. 49/2008 privind transmiterea unui imobil, proprietate publică a statului, din administrarea Ministerului Internelor şi Reformei Administrative - Inspectoratul de Poliţie al Judeţului Dâmboviţa în administrarea Ministerului Internelor şi Reformei Administrative - Instituţia Prefectului Judeţului Dâmboviţa | [`hg/2008/49/`](hg/2008/49/) | in force | 1 | 2008-01-22 | 2008-01-22 |
 | Hotărârea Guvernului nr. 55/2008 | [`hg/2008/55/`](hg/2008/55/) | in force | 3 | 2008-01-24 | 2018-08-29 |
 | Hotărârea Guvernului nr. 58/2008 privind recunoaşterea Statutului de organizare şi funcţionare a Cultului Creştin Baptist - Uniunea Bisericilor Creştine Baptiste din România | [`hg/2008/58/`](hg/2008/58/) | in force | 1 | 2008-01-25 | 2008-01-25 |
+| Hotărârea Guvernului nr. 59/2008 pentru aprobarea Memorandumului privind cooperarea dintre Ministerul Economiei şi Finanţelor al României şi Ministerul Finanţelor al Republicii Ungare în domeniul ajutorului de stat, semnat la Sibiu la 14 noiembrie 2007 | [`hg/2008/59/`](hg/2008/59/) | amending act | 1 | 2008-01-28 | 2008-01-28 |
 | Hotărârea Guvernului nr. 60/2008 | [`hg/2008/60/`](hg/2008/60/) | in force | 1 | 2008-02-18 | 2008-02-18 |
 | Hotărârea Guvernului nr. 61/2008 | [`hg/2008/61/`](hg/2008/61/) | in force | 1 | 2008-01-31 | 2008-01-31 |
+| Hotărârea Guvernului nr. 63/2008 privind suplimentarea bugetului Ministerului Internelor şi Reformei Administrative din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2008, pentru aniversarea la data de 24 ianuarie 2008 a 149 de ani de la Unirea Principatelor Române | [`hg/2008/63/`](hg/2008/63/) | in force | 1 | 2008-01-24 | 2008-01-24 |
+| Hotărârea Guvernului nr. 65/2008 privind exercitarea, cu caracter temporar, a funcţiei publice de subprefect al judeţului Tulcea de către domnul Simion Lucian-Eduard | [`hg/2008/65/`](hg/2008/65/) | in force | 1 | 2008-01-24 | 2008-01-24 |
+| Hotărârea Guvernului nr. 66/2008 privind mandatarea Regiei Autonome "Administraţia Patrimoniului Protocolului de Stat" să pună în executare Hotărârea Curţii Europene a Drepturilor Omului pronunţată în Cauza Hirschhorn împotriva României | [`hg/2008/66/`](hg/2008/66/) | in force | 1 | 2008-01-24 | 2008-01-24 |
 | Hotărârea Guvernului nr. 67/2008 | [`hg/2008/67/`](hg/2008/67/) | in force | 1 | 2008-01-25 | 2008-01-25 |
+| Hotărârea Guvernului nr. 69/2008 pentru aprobarea Normelor metodologice de aplicare a prevederilor Legii nr. 578/2004 privind acordarea unui ajutor lunar pentru soţul supravieţuitor | [`hg/2008/69/`](hg/2008/69/) | amending act | 1 | 2008-01-29 | 2008-01-29 |
+| Hotărârea Guvernului nr. 71/2008 privind finanţarea obiectivului de investiţii "Extindere Palat Victoria" | [`hg/2008/71/`](hg/2008/71/) | in force | 1 | 2008-01-28 | 2008-01-28 |
+| Hotărârea Guvernului nr. 72/2008 privind recunoaşterea Fundaţiei Universitare "Alma Mater" ca fiind de utilitate publică | [`hg/2008/72/`](hg/2008/72/) | in force | 1 | 2008-01-28 | 2008-01-28 |
+| Hotărârea Guvernului nr. 74/2008 pentru modificarea şi completarea Hotărârii Guvernului nr. 34/1999 privind înfiinţarea Institutului Limbii Române | [`hg/2008/74/`](hg/2008/74/) | amending act | 1 | 2008-01-28 | 2008-01-28 |
+| Hotărârea Guvernului nr. 81/2008 privind organizarea la Bucureşti, în perioada 19-21 mai 2008, a celei de-a patra reuniuni a părţilor la Convenţia privind evaluarea impactului asupra mediului în context transfrontieră (Convenţia Espoo) | [`hg/2008/81/`](hg/2008/81/) | in force | 1 | 2008-01-29 | 2008-01-29 |
+| Hotărârea Guvernului nr. 85/2008 pentru aprobarea amendamentelor convenite între Guvernul României şi Banca Japoneză pentru Cooperare Internaţională, prin scrisorile semnate la Tokyo la 18 iunie 2007 şi la Bucureşti la 29 iunie 2007, respectiv la Tokyo la 22 iunie 2007 şi la Bucureşti la 6 iulie 2007, la Acordul de împrumut dintre România şi Fondul pentru Cooperare Economică Internaţională - Japonia privind Proiectul de reabilitare a drumurilor, semnat la Tokyo la 27 februarie 1998 | [`hg/2008/85/`](hg/2008/85/) | amending act | 1 | 2008-02-05 | 2008-02-05 |
 | Hotărârea Guvernului nr. 86/2008 | [`hg/2008/86/`](hg/2008/86/) | in force | 1 | 2008-02-05 | 2008-02-05 |
+| Hotărârea Guvernului nr. 95/2008 pentru aprobarea modului de repartizare şi de utilizare a sumelor prevăzute la lit. a) şi b) din anexa nr. 3/12/02a la Legea bugetului de stat pe anul 2008 nr. 388/2007 | [`hg/2008/95/`](hg/2008/95/) | amending act | 1 | 2008-02-01 | 2008-02-01 |
+| Hotărârea Guvernului nr. 96/2008 privind acordarea unui ajutor umanitar de urgenţă pentru populaţia din judeţul Galaţi | [`hg/2008/96/`](hg/2008/96/) | in force | 1 | 2008-02-01 | 2008-02-01 |
+| Hotărârea Guvernului nr. 102/2008 privind transmiterea unui imobil din domeniul privat al statului şi din administrarea Ministerului Internelor şi Reformei Administrative în domeniul public al municipiului Oradea şi în administrarea Consiliului Local al Municipiului Oradea, judeţul Bihor | [`hg/2008/102/`](hg/2008/102/) | in force | 1 | 2008-02-04 | 2008-02-04 |
+| Hotărârea Guvernului nr. 104/2008 pentru aprobarea schimbării soluţiilor tehnice şi reactualizarea indicatorilor tehnico-economici ai obiectivului de investiţii "Linie nouă de cale ferată Vâlcele - Râmnicu Vâlcea" | [`hg/2008/104/`](hg/2008/104/) | amending act | 1 | 2008-02-04 | 2008-02-04 |
+| Hotărârea Guvernului nr. 105/2008 privind aprobarea indicatorilor tehnico-economici pentru obiectivul de investiţii "Consolidare şi modernizare la sediul Direcţiei Generale de Poliţie a Municipiului Bucureşti" | [`hg/2008/105/`](hg/2008/105/) | amending act | 1 | 2008-02-04 | 2008-02-04 |
+| Hotărârea Guvernului nr. 106/2008 privind trecerea din domeniul public al statului în domeniul privat al acestuia a unor construcţii aflate în administrarea Ministerului Apărării | [`hg/2008/106/`](hg/2008/106/) | in force | 1 | 2008-02-05 | 2008-02-05 |
+| Hotărârea Guvernului nr. 108/2008 pentru modificarea Hotărârii Guvernului nr. 20/2004 privind recunoaşterea Uniunii Naţionale a Cadrelor Militare în Rezervă şi în Retragere "Alexandru Ioan Cuza" ca fiind de utilitate publică | [`hg/2008/108/`](hg/2008/108/) | amending act | 1 | 2008-02-01 | 2008-02-01 |
+| Hotărârea Guvernului nr. 112/2008 privind suplimentarea bugetelor unor ordonatori principali de credite din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2008, pentru finanţarea cheltuielilor aferente organizării la Bucureşti, în perioada de 2-4 aprilie 2008, a Summitului NATO | [`hg/2008/112/`](hg/2008/112/) | in force | 1 | 2008-02-04 | 2008-02-04 |
 | Hotărârea Guvernului nr. 144/2008 | [`hg/2008/144/`](hg/2008/144/) | in force | 1 | 2008-02-18 | 2008-02-18 |
 | Hotărârea Guvernului nr. 153/2008 | [`hg/2008/153/`](hg/2008/153/) | in force | 1 | 2008-02-19 | 2008-02-19 |
 | Hotărârea Guvernului nr. 170/2008 | [`hg/2008/170/`](hg/2008/170/) | in force | 1 | 2008-02-22 | 2008-02-22 |
