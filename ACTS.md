@@ -1,6 +1,6 @@
 # Every act in this repository
 
-6086 acts, 17,481 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+6090 acts, 17,491 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -3767,7 +3767,7 @@
 | Ordonanța Guvernului nr. 21/2025 pentru modificarea și completarea Legii nr. 431/2023 privind asigurarea unui nivel minim global de impozitare a grupurilor de întreprinderi multinaționale și a grupurilor naționale de mari dimensiuni | [`og/2025/21/`](og/2025/21/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 | Ordonanța Guvernului nr. 22/2025 pentru modificarea și completarea Legii nr. 227/2015 privind Codul fiscal | [`og/2025/22/`](og/2025/22/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 
-## Government decisions (HG) (2327, of which 844 amending acts)
+## Government decisions (HG) (2331, of which 845 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -4254,6 +4254,7 @@
 | Hotărârea Guvernului nr. 1879/2006 | [`hg/2006/1879/`](hg/2006/1879/) | in force | 1 | 2007-01-16 | 2007-01-16 |
 | Hotărârea Guvernului nr. 1897/2006 | [`hg/2006/1897/`](hg/2006/1897/) | in force | 1 | 2007-01-16 | 2007-01-16 |
 | Hotărârea Guvernului nr. 1912/2006 | [`hg/2006/1912/`](hg/2006/1912/) | in force | 1 | 2007-01-01 | 2007-01-01 |
+| Hotărârea Guvernului nr. 1915/2006 | [`hg/2006/1915/`](hg/2006/1915/) | in force | 1 | 2007-01-11 | 2007-01-11 |
 | Hotărârea Guvernului nr. 9/2007 | [`hg/2007/9/`](hg/2007/9/) | in force | 7 | 2007-01-30 | 2023-11-09 |
 | Hotărârea Guvernului nr. 78/2007 pentru modificarea anexei la Hotărârea Guvernului nr. 349/2006 privind aprobarea Listei societăților naționale, companiilor naționale și societăților comerciale aflate sub autoritatea sau în coordonarea Ministerului Economiei și Comerțului, la care se efectuează concedieri colective în anul 2006 și care vor beneficia de prevederile Ordonanței de urgență a Guvernului nr. 8/2003 privind stimularea procesului de restructurare, reorganizare și privatizare a unor societăți naționale, companii naționale și societăți comerciale cu capital majoritar de stat, precum și a societăților comerciale și regiilor autonome subordonate autorităților administrației publice locale | [`hg/2007/78/`](hg/2007/78/) | amending act | 1 | 2007-01-31 | 2007-01-31 |
 | Hotărârea Guvernului nr. 79/2007 | [`hg/2007/79/`](hg/2007/79/) | in force | 1 | 2007-01-31 | 2007-01-31 |
@@ -4405,6 +4406,7 @@
 | Hotărârea Guvernului nr. 1070/2008 | [`hg/2008/1070/`](hg/2008/1070/) | in force | 1 | 2008-09-16 | 2008-09-16 |
 | Hotărârea Guvernului nr. 1071/2008 | [`hg/2008/1071/`](hg/2008/1071/) | in force | 1 | 2008-09-16 | 2008-09-16 |
 | Hotărârea Guvernului nr. 1086/2008 privind stabilirea tarifelor pentru operațiunile efectuate de Oficiul Român pentru Drepturile de Autor contra cost și pentru aprobarea Normelor metodologice privind nivelul de constituire, condițiile de repartizare și de utilizare a fondului de stimulente pentru personalul Oficiului Român pentru Drepturile de Autor | [`hg/2008/1086/`](hg/2008/1086/) | amending act | 1 | 2008-11-14 | 2008-11-14 |
+| Hotărârea Guvernului nr. 1132/2008 | [`hg/2008/1132/`](hg/2008/1132/) | in force | 5 | 2008-09-25 | 2021-12-17 |
 | Hotărârea Guvernului nr. 1193/2008 | [`hg/2008/1193/`](hg/2008/1193/) | in force | 1 | 2008-10-01 | 2008-10-01 |
 | Hotărârea Guvernului nr. 1244/2008 | [`hg/2008/1244/`](hg/2008/1244/) | in force | 1 | 2008-10-14 | 2008-10-14 |
 | Hotărârea Guvernului nr. 1285/2008 | [`hg/2008/1285/`](hg/2008/1285/) | in force | 1 | 2008-10-22 | 2008-10-22 |
@@ -5498,6 +5500,7 @@
 | Hotărârea Guvernului nr. 1315/2021 pentru modificarea și completarea Hotărârii Guvernului nr. 1.048/2006 privind cerințele minime de securitate și sănătate pentru utilizarea de către lucrători a echipamentelor individuale de protecție la locul de muncă | [`hg/2021/1315/`](hg/2021/1315/) | amending act | 1 | 2022-01-11 | 2022-01-11 |
 | Hotărârea Guvernului nr. 1326/2021 privind organizarea şi funcţionarea Ministerului Economiei | [`hg/2021/1326/`](hg/2021/1326/) | in force | 2 | 2022-01-03 | 2023-04-28 |
 | Hotărârea Guvernului nr. 1327/2021 privind organizarea și funcționarea Ministerului Antreprenoriatului și Turismului | [`hg/2021/1327/`](hg/2021/1327/) | in force | 3 | 2022-01-03 | 2023-04-07 |
+| Hotărârea Guvernului nr. 22/2022 privind organizarea și funcționarea Ministerului Familiei, Tineretului și Egalității de Șanse | [`hg/2022/22/`](hg/2022/22/) | in force | 3 | 2022-01-06 | 2024-02-21 |
 | Hotărârea Guvernului nr. 25/2022 privind organizarea şi funcţionarea Ministerului Sportului | [`hg/2022/25/`](hg/2022/25/) | in force | 2 | 2022-01-06 | 2023-02-17 |
 | Hotărârea Guvernului nr. 34/2022 privind prelungirea stării de alertă pe teritoriul României începând cu data de 8 ianuarie 2022, precum și stabilirea măsurilor care se aplică pe durata acesteia pentru prevenirea și combaterea efectelor pandemiei de COVID-19 | [`hg/2022/34/`](hg/2022/34/) | in force | 1 | 2022-01-06 | 2022-01-06 |
 | Hotărârea Guvernului nr. 69/2022 pentru aprobarea Notei de fundamentare privind necesitatea și oportunitatea efectuării cheltuielilor aferente proiectului de investiții "Operaționalizarea Sistemului informatic de monitorizare electronică" | [`hg/2022/69/`](hg/2022/69/) | amending act | 1 | 2022-01-13 | 2022-01-13 |
@@ -5509,6 +5512,7 @@
 | Hotărârea Guvernului nr. 197/2022 privind organizarea și funcționarea direcțiilor județene pentru familie și tineret, respectiv a Direcției pentru Familie și Tineret a Municipiului București | [`hg/2022/197/`](hg/2022/197/) | in force | 2 | 2022-02-14 | 2023-02-17 |
 | Hotărârea Guvernului nr. 198/2022 privind organizarea și funcționarea direcțiilor județene de sport, respectiv a Direcției pentru Sport a Municipiului București | [`hg/2022/198/`](hg/2022/198/) | in force | 1 | 2022-02-14 | 2022-02-14 |
 | Hotărârea Guvernului nr. 206/2022 privind modificarea și completarea Hotărârii Guvernului nr. 282/2020 pentru aprobarea Normelor metodologice de aplicare a Ordonanței de urgență a Guvernului nr. 110/2017 privind Programul de susținere a întreprinderilor mici și mijlocii și a întreprinderilor mici cu capitalizare de piață medie - IMM INVEST ROMÂNIA | [`hg/2022/206/`](hg/2022/206/) | amending act | 1 | 2022-02-15 | 2022-02-15 |
+| Hotărârea Guvernului nr. 209/2022 pentru aprobarea Normelor metodologice de aplicare a prevederilor Ordonanței de urgență a Guvernului nr. 124/2021 privind stabilirea cadrului instituțional și financiar pentru gestionarea fondurilor europene alocate României prin Mecanismul de redresare și reziliență, precum și pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 155/2020 privind unele măsuri pentru elaborarea Planului național de redresare și reziliență necesar României pentru accesarea de fonduri externe rambursabile și nerambursabile în cadrul Mecanismului de redresare și reziliență | [`hg/2022/209/`](hg/2022/209/) | amending act | 1 | 2022-02-15 | 2022-02-15 |
 | Hotărârea Guvernului nr. 238/2022 pentru modificarea și completarea Hotărârii Guvernului nr. 34/2009 privind organizarea și funcționarea Ministerului Finanțelor Publice, precum și pentru modificarea și completarea Hotărârii Guvernului nr. 520/2013 privind organizarea și funcționarea Agenției Naționale de Administrare Fiscală | [`hg/2022/238/`](hg/2022/238/) | amending act | 1 | 2022-02-18 | 2022-02-18 |
 | Hotărârea Guvernului nr. 256/2022 privind modificarea unor acte normative în domeniul agriculturii | [`hg/2022/256/`](hg/2022/256/) | amending act | 1 | 2022-02-24 | 2022-02-24 |
 | Hotărârea Guvernului nr. 257/2022 pentru suplimentarea pe anul 2022 a sumei prevăzute ca justă despăgubire, aprobată prin Hotărârea Guvernului nr. 67/2016 privind declanșarea procedurilor de expropriere a imobilelor proprietate privată care constituie coridorul de expropriere al lucrării de utilitate publică de interes național "Secțiunea 2A Ogra-Câmpia Turzii pe teritoriul localităților Bogata, Chețani, Cucerdea, Cuci, Iernut, Luduș și Ogra din județul Mureș și pe teritoriul localității Luna din județul Cluj din cadrul obiectivului de investiții de interes național «Autostrada Brașov- Târgu Mureș-Cluj-Oradea»", precum și pentru modificarea și completarea anexei nr. 2 la Hotărârea Guvernului nr. 67/2016 | [`hg/2022/257/`](hg/2022/257/) | amending act | 1 | 2022-02-28 | 2022-02-28 |

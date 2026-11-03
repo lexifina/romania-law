@@ -9428,6 +9428,45 @@
    ]
   },
   {
+   "slug": "hg-1132-2008",
+   "path": "hg/2008/1132",
+   "short": "HG nr. 1132/2008",
+   "title": "Hotărârea Guvernului nr. 1132/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97608",
+   "versions": [
+    {
+     "from": "2008-09-25",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/97608",
+     "sha256": "e08654bd555d775e112a5f4acc91ee57a5b11ed4d2b7274a4569a1f9c36c05bb"
+    },
+    {
+     "from": "2011-11-03",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/145664",
+     "sha256": "6a648420ead69e73df4bc81d8147710c3a8278f289fac26eacc07dddf47f8777"
+    },
+    {
+     "from": "2016-08-03",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180628",
+     "sha256": "17634de1826bf30136f448ca2070642ccca238b55e95f5db0d955160a8d325b0"
+    },
+    {
+     "from": "2020-07-05",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/226425",
+     "sha256": "a8fbf71c5a703d3ef43912a2c3e9deea1875a311ae827505d5ec6ef846b2d64c"
+    },
+    {
+     "from": "2021-12-17",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/249413",
+     "sha256": "bef9a02639f58b65d828aaa727928e90f4bb7637ca296e236adf3ca9907ccf4c"
+    }
+   ]
+  },
+  {
    "slug": "hg-12-2021",
    "path": "hg/2021/12",
    "short": "HG nr. 12/2021",
@@ -9556,6 +9595,63 @@
      "units": 8,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/250895",
      "sha256": "2b169078b3bea388a399ab3bd46d416fe3369b75c5d394ef8623f4bf86cb1a59"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1915-2006",
+   "path": "hg/2006/1915",
+   "short": "HG nr. 1915/2006",
+   "title": "Hotărârea Guvernului nr. 1915/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/78500",
+   "versions": [
+    {
+     "from": "2007-01-11",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/78500",
+     "sha256": "479716454ec9d2908160dac74c72e46d12d9f88ff03b5a178a3c04df11995a77"
+    }
+   ]
+  },
+  {
+   "slug": "hg-209-2022",
+   "path": "hg/2022/209",
+   "short": "HG nr. 209/2022",
+   "title": "Hotărârea Guvernului nr. 209/2022 pentru aprobarea Normelor metodologice de aplicare a prevederilor Ordonanței de urgență a Guvernului nr. 124/2021 privind stabilirea cadrului instituțional și financiar pentru gestionarea fondurilor europene alocate României prin Mecanismul de redresare și reziliență, precum și pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 155/2020 privind unele măsuri pentru elaborarea Planului național de redresare și reziliență necesar României pentru accesarea de fonduri externe rambursabile și nerambursabile în cadrul Mecanismului de redresare și reziliență",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/251668",
+   "versions": [
+    {
+     "from": "2022-02-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/251668",
+     "sha256": "b949ef08b19ef1b63362dda1d5091e202007e601ee48bb91381c288cd410f95a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-22-2022",
+   "path": "hg/2022/22",
+   "short": "HG nr. 22/2022",
+   "title": "Hotărârea Guvernului nr. 22/2022 privind organizarea și funcționarea Ministerului Familiei, Tineretului și Egalității de Șanse",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/250249",
+   "versions": [
+    {
+     "from": "2022-01-06",
+     "units": 21,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/250249",
+     "sha256": "bfa02431207ef169f27687c0e2d64a040ccdc1ee2a18c547f7d9a5ecceebcc21"
+    },
+    {
+     "from": "2023-02-17",
+     "units": 21,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/264864",
+     "sha256": "86a829399b095fe365536ab4cc853f594a0fabbf4615e0eb189a149298597165"
+    },
+    {
+     "from": "2024-02-21",
+     "units": 21,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/250249",
+     "sha256": "38d8ef23f724f11befff8c6d49f9e5588cb8f24cc21a509abe2f71abd98637fd"
     }
    ]
   },
