@@ -1,6 +1,6 @@
 # Every act in this repository
 
-6434 acts, 18,405 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+6457 acts, 18,477 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -1822,7 +1822,7 @@
 | Legea nr. 241/2025 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 31/2002 privind interzicerea organizațiilor, simbolurilor și faptelor cu caracter fascist, legionar, rasist sau xenofob și a promovării cultului persoanelor vinovate de săvârșirea unor infracțiuni de genocid contra umanității și de crime de război, precum și pentru modificarea Legii nr. 157/2018 privind unele măsuri pentru prevenirea și combaterea antisemitismului | [`lege/2025/241/`](lege/2025/241/) | amending act | 1 | 2025-12-27 | 2025-12-27 |
 | Legea nr. 245/2025 pentru modificarea art. 32 alin. (7) din Legea nr. 273/2006 privind finanțele publice locale | [`lege/2025/245/`](lege/2025/245/) | amending act | 1 | 2026-01-01 | 2026-01-01 |
 
-## Emergency ordinances (OUG) (1486, of which 521 amending acts)
+## Emergency ordinances (OUG) (1487, of which 521 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -1889,6 +1889,7 @@
 | Ordonanța de urgență a Guvernului nr. 116/2000 | [`oug/2000/116/`](oug/2000/116/) | in force | 2 | 2000-07-05 | 2000-07-09 |
 | Ordonanța de urgență a Guvernului nr. 131/2000 | [`oug/2000/131/`](oug/2000/131/) | in force | 4 | 2000-07-06 | 2004-04-09 |
 | Ordonanța de urgență a Guvernului nr. 142/2000 | [`oug/2000/142/`](oug/2000/142/) | repealed 2006-02-27 | 3 | 2000-09-28 | 2006-02-27 |
+| Ordonanța de urgență a Guvernului nr. 160/2000 | [`oug/2000/160/`](oug/2000/160/) | repealed 2010-01-01 | 2 | 2000-10-18 | 2010-01-01 |
 | Ordonanța de urgență a Guvernului nr. 171/2000 | [`oug/2000/171/`](oug/2000/171/) | in force | 1 | 2000-10-27 | 2000-10-27 |
 | Ordonanța de urgență a Guvernului nr. 190/2000 | [`oug/2000/190/`](oug/2000/190/) | in force | 8 | 2000-12-16 | 2018-03-16 |
 | Ordonanța de urgență a Guvernului nr. 199/2000 | [`oug/2000/199/`](oug/2000/199/) | in force | 13 | 2000-11-20 | 2024-07-29 |
@@ -3769,7 +3770,7 @@
 | Ordonanța Guvernului nr. 21/2025 pentru modificarea și completarea Legii nr. 431/2023 privind asigurarea unui nivel minim global de impozitare a grupurilor de întreprinderi multinaționale și a grupurilor naționale de mari dimensiuni | [`og/2025/21/`](og/2025/21/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 | Ordonanța Guvernului nr. 22/2025 pentru modificarea și completarea Legii nr. 227/2015 privind Codul fiscal | [`og/2025/22/`](og/2025/22/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 
-## Government decisions (HG) (2673, of which 911 amending acts)
+## Government decisions (HG) (2695, of which 914 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -3816,6 +3817,7 @@
 | Hotărârea Guvernului nr. 305/1996 | [`hg/1996/305/`](hg/1996/305/) | in force | 1 | 1996-05-13 | 1996-05-13 |
 | Hotărârea Guvernului nr. 315/1996 privind instituirea regimului special de supraveghere economico-financiară la unele societăţi comerciale cu capital majoritar de stat | [`hg/1996/315/`](hg/1996/315/) | in force | 2 | 1996-05-13 | 1996-10-31 |
 | Hotărârea Guvernului nr. 738/1996 | [`hg/1996/738/`](hg/1996/738/) | in force | 1 | 1996-09-03 | 1996-09-03 |
+| Hotărârea Guvernului nr. 1059/1996 privind trecerea unui teren, situat în municipiul Bucureşti, în administrarea Ministerului Afacerilor Externe | [`hg/1996/1059/`](hg/1996/1059/) | in force | 2 | 1996-11-08 | 2014-01-08 |
 | Hotărârea Guvernului nr. 1312/1996 | [`hg/1996/1312/`](hg/1996/1312/) | in force | 2 | 1996-12-09 | 2016-01-06 |
 | Hotărârea Guvernului nr. 1313/1996 | [`hg/1996/1313/`](hg/1996/1313/) | in force | 3 | 1996-12-09 | 2005-01-02 |
 | Hotărârea Guvernului nr. 1317/1996 privind înființarea Institutului Național de Cercetare-Dezvoltare pentru Științe Biologice București | [`hg/1996/1317/`](hg/1996/1317/) | in force | 2 | 1996-12-11 | 2004-12-20 |
@@ -3829,6 +3831,7 @@
 | Hotărârea Guvernului nr. 656/1997 privind aprobarea Clasificarii activităților din economia naționala - CAEN | [`hg/1997/656/`](hg/1997/656/) | amending act | 3 | 1998-01-01 | 2025-03-25 |
 | Hotărârea Guvernului nr. 687/1997 | [`hg/1997/687/`](hg/1997/687/) | in force | 5 | 1997-11-10 | 2007-10-31 |
 | Hotărârea Guvernului nr. 766/1997 | [`hg/1997/766/`](hg/1997/766/) | in force | 4 | 1997-12-10 | 2017-10-19 |
+| Hotărârea Guvernului nr. 767/1997 privind înfiinţarea Societăţii Naţionale a Sării - S.A | [`hg/1997/767/`](hg/1997/767/) | in force | 2 | 1997-11-28 | 1998-03-18 |
 | Hotărârea Guvernului nr. 786/1997 | [`hg/1997/786/`](hg/1997/786/) | in force | 1 | 1997-12-15 | 1997-12-15 |
 | Hotărârea Guvernului nr. 837/1997 privind acordarea ajutorului anual pentru acoperirea unei părţi din costul chiriei, energiei electrice şi energiei termice pentru nevoi casnice, cuvenit veteranilor de război, văduvelor de război, precum şi accidentaţilor de război în afară serviciului ordonat | [`hg/1997/837/`](hg/1997/837/) | in force | 2 | 1997-12-12 | 1997-12-30 |
 | Hotărârea Guvernului nr. 863/1997 | [`hg/1997/863/`](hg/1997/863/) | in force | 1 | 1997-12-24 | 1997-12-24 |
@@ -3953,6 +3956,7 @@
 | Hotărârea Guvernului nr. 62/2002 | [`hg/2002/62/`](hg/2002/62/) | in force | 1 | 2002-02-01 | 2002-02-01 |
 | Hotărârea Guvernului nr. 63/2002 | [`hg/2002/63/`](hg/2002/63/) | in force | 3 | 2002-05-06 | 2007-05-22 |
 | Hotărârea Guvernului nr. 100/2002 pentru aprobarea Normelor de calitate pe care trebuie să le îndeplinescă apele de suprafața utilizate pentru potabilizare și a Normativului privind metodele de măsurare și frecventa de prelevare și analiza a probelor din apele de suprafața destinate producerii de apa potabilă | [`hg/2002/100/`](hg/2002/100/) | repealed 2027-07-01 | 4 | 2002-02-19 | 2027-07-01 |
+| Hotărârea Guvernului nr. 106/2002 | [`hg/2002/106/`](hg/2002/106/) | in force | 3 | 2003-02-27 | 2011-08-11 |
 | Hotărârea Guvernului nr. 123/2002 pentru aprobarea Normelor metodologice de aplicare a Legii nr. 544/2001 privind liberul acces la informațiile de interes public | [`hg/2002/123/`](hg/2002/123/) | amending act | 2 | 2002-03-08 | 2016-07-08 |
 | Hotărârea Guvernului nr. 167/2002 | [`hg/2002/167/`](hg/2002/167/) | in force | 1 | 2002-03-01 | 2002-03-01 |
 | Hotărârea Guvernului nr. 174/2002 | [`hg/2002/174/`](hg/2002/174/) | in force | 2 | 2002-03-18 | 2014-03-20 |
@@ -3982,6 +3986,8 @@
 | Hotărârea Guvernului nr. 831/2002 | [`hg/2002/831/`](hg/2002/831/) | in force | 1 | 2002-08-15 | 2002-08-15 |
 | Hotărârea Guvernului nr. 847/2002 | [`hg/2002/847/`](hg/2002/847/) | in force | 1 | 2002-08-21 | 2002-08-21 |
 | Hotărârea Guvernului nr. 856/2002 | [`hg/2002/856/`](hg/2002/856/) | in force | 2 | 2002-09-05 | 2007-03-19 |
+| Hotărârea Guvernului nr. 866/2002 | [`hg/2002/866/`](hg/2002/866/) | in force | 2 | 2003-01-01 | 2003-01-01 |
+| Hotărârea Guvernului nr. 867/2002 | [`hg/2002/867/`](hg/2002/867/) | in force | 2 | 2003-01-01 | 2003-01-01 |
 | Hotărârea Guvernului nr. 898/2002 | [`hg/2002/898/`](hg/2002/898/) | in force | 1 | 2002-08-30 | 2002-08-30 |
 | Hotărârea Guvernului nr. 899/2002 | [`hg/2002/899/`](hg/2002/899/) | in force | 3 | 2002-09-05 | 2008-02-04 |
 | Hotărârea Guvernului nr. 904/2002 | [`hg/2002/904/`](hg/2002/904/) | in force | 1 | 2002-08-30 | 2002-08-30 |
@@ -4078,6 +4084,7 @@
 | Hotărârea Guvernului nr. 1016/2003 | [`hg/2003/1016/`](hg/2003/1016/) | in force | 8 | 2003-09-08 | 2008-12-15 |
 | Hotărârea Guvernului nr. 1025/2003 privind metodologia și criteriile de încadrare a persoanelor în locuri de muncă în condiții speciale | [`hg/2003/1025/`](hg/2003/1025/) | in force | 2 | 2003-09-10 | 2004-12-24 |
 | Hotărârea Guvernului nr. 1028/2003 | [`hg/2003/1028/`](hg/2003/1028/) | in force | 1 | 2003-09-11 | 2003-09-11 |
+| Hotărârea Guvernului nr. 1039/2003 | [`hg/2003/1039/`](hg/2003/1039/) | in force | 5 | 2003-10-10 | 2012-03-28 |
 | Hotărârea Guvernului nr. 1070/2003 | [`hg/2003/1070/`](hg/2003/1070/) | in force | 1 | 2003-09-18 | 2003-09-18 |
 | Hotărârea Guvernului nr. 1072/2003 | [`hg/2003/1072/`](hg/2003/1072/) | in force | 2 | 2003-09-16 | 2007-08-23 |
 | Hotărârea Guvernului nr. 1078/2003 privind modificarea și completarea Hotărârii Guvernului nr. 773/2003 pentru aprobarea strategiilor de privatizare ale societăților comerciale cu capital majoritar de stat, incluse în cadrul Programului pentru ajustarea sectorului privat (PSAL II) | [`hg/2003/1078/`](hg/2003/1078/) | amending act | 1 | 2003-09-23 | 2003-09-23 |
@@ -4132,6 +4139,7 @@
 | Hotărârea Guvernului nr. 451/2004 | [`hg/2004/451/`](hg/2004/451/) | in force | 1 | 2004-04-19 | 2004-04-19 |
 | Hotărârea Guvernului nr. 492/2004 | [`hg/2004/492/`](hg/2004/492/) | in force | 6 | 2004-04-21 | 2023-03-15 |
 | Hotărârea Guvernului nr. 493/2004 | [`hg/2004/493/`](hg/2004/493/) | repealed 2024-02-03 | 2 | 2004-04-30 | 2024-02-03 |
+| Hotărârea Guvernului nr. 497/2004 | [`hg/2004/497/`](hg/2004/497/) | in force | 5 | 2004-04-20 | 2007-06-28 |
 | Hotărârea Guvernului nr. 518/2004 pentru aprobarea Normelor metodologice privind exportul definitiv sau temporar al bunurilor culturale mobile | [`hg/2004/518/`](hg/2004/518/) | amending act | 1 | 2004-04-28 | 2004-04-28 |
 | Hotărârea Guvernului nr. 537/2004 | [`hg/2004/537/`](hg/2004/537/) | in force | 1 | 2004-04-29 | 2004-04-29 |
 | Hotărârea Guvernului nr. 577/2004 pentru aprobarea Acordului dintre Guvernul României și Guvernul Republicii Ungare privind colaborarea pentru protecția și utilizarea durabila a apelor de frontieră, semnat la Budapesta la 15 septembrie 2003 | [`hg/2004/577/`](hg/2004/577/) | amending act | 1 | 2004-05-05 | 2004-05-05 |
@@ -4213,6 +4221,7 @@
 | Hotărârea Guvernului nr. 2428/2004 | [`hg/2004/2428/`](hg/2004/2428/) | in force | 1 | 2005-01-11 | 2005-01-11 |
 | Hotărârea Guvernului nr. 50/2005 | [`hg/2005/50/`](hg/2005/50/) | in force | 2 | 2005-01-20 | 2006-07-14 |
 | Hotărârea Guvernului nr. 60/2005 privind organizarea și funcționarea Regiei Autonome "Administrația Patrimoniului Protocolului de Stat" | [`hg/2005/60/`](hg/2005/60/) | in force | 5 | 2005-02-01 | 2010-07-09 |
+| Hotărârea Guvernului nr. 69/2005 | [`hg/2005/69/`](hg/2005/69/) | in force | 4 | 2005-02-03 | 2009-03-16 |
 | Hotărârea Guvernului nr. 76/2005 | [`hg/2005/76/`](hg/2005/76/) | in force | 6 | 2005-02-08 | 2022-01-17 |
 | Hotărârea Guvernului nr. 86/2005 | [`hg/2005/86/`](hg/2005/86/) | in force | 1 | 2005-02-11 | 2005-02-11 |
 | Hotărârea Guvernului nr. 111/2005 privind organizarea şi funcţionarea Departamentului pentru Relaţii Interetnice | [`hg/2005/111/`](hg/2005/111/) | in force | 2 | 2005-03-03 | 2024-12-05 |
@@ -4295,6 +4304,7 @@
 | Hotărârea Guvernului nr. 94/2006 | [`hg/2006/94/`](hg/2006/94/) | in force | 1 | 2006-01-29 | 2006-01-29 |
 | Hotărârea Guvernului nr. 123/2006 pentru modificarea Hotărârii Guvernului nr. 523/1998 privind înființarea Societății Naționale "Aeroportul Internațional Constanța" - S.A. | [`hg/2006/123/`](hg/2006/123/) | amending act | 1 | 2006-02-09 | 2006-02-09 |
 | Hotărârea Guvernului nr. 127/2006 | [`hg/2006/127/`](hg/2006/127/) | in force | 1 | 2006-02-09 | 2006-02-09 |
+| Hotărârea Guvernului nr. 161/2006 | [`hg/2006/161/`](hg/2006/161/) | in force | 4 | 2006-09-01 | 2010-01-20 |
 | Hotărârea Guvernului nr. 170/2006 | [`hg/2006/170/`](hg/2006/170/) | in force | 1 | 2006-02-27 | 2006-02-27 |
 | Hotărârea Guvernului nr. 173/2006 | [`hg/2006/173/`](hg/2006/173/) | in force | 1 | 2006-06-30 | 2006-06-30 |
 | Hotărârea Guvernului nr. 180/2006 | [`hg/2006/180/`](hg/2006/180/) | in force | 1 | 2006-02-27 | 2006-02-27 |
@@ -4337,6 +4347,7 @@
 | Hotărârea Guvernului nr. 1050/2006 | [`hg/2006/1050/`](hg/2006/1050/) | in force | 1 | 2006-10-01 | 2006-10-01 |
 | Hotărârea Guvernului nr. 1051/2006 | [`hg/2006/1051/`](hg/2006/1051/) | in force | 1 | 2006-10-01 | 2006-10-01 |
 | Hotărârea Guvernului nr. 1058/2006 | [`hg/2006/1058/`](hg/2006/1058/) | in force | 1 | 2006-10-01 | 2006-10-01 |
+| Hotărârea Guvernului nr. 1088/2006 | [`hg/2006/1088/`](hg/2006/1088/) | in force | 6 | 2006-08-28 | 2009-12-04 |
 | Hotărârea Guvernului nr. 1089/2006 | [`hg/2006/1089/`](hg/2006/1089/) | in force | 6 | 2006-08-25 | 2024-06-29 |
 | Hotărârea Guvernului nr. 1091/2006 | [`hg/2006/1091/`](hg/2006/1091/) | in force | 1 | 2006-10-01 | 2006-10-01 |
 | Hotărârea Guvernului nr. 1092/2006 privind protecția lucrătorilor împotriva riscurilor legate de expunerea la agenți biologici în munca | [`hg/2006/1092/`](hg/2006/1092/) | in force | 2 | 2006-10-01 | 2020-12-28 |
@@ -4526,6 +4537,7 @@
 | Hotărârea Guvernului nr. 686/2008 | [`hg/2008/686/`](hg/2008/686/) | in force | 1 | 2008-07-01 | 2008-07-01 |
 | Hotărârea Guvernului nr. 714/2008 | [`hg/2008/714/`](hg/2008/714/) | in force | 1 | 2008-07-08 | 2008-07-08 |
 | Hotărârea Guvernului nr. 715/2008 | [`hg/2008/715/`](hg/2008/715/) | in force | 1 | 2008-08-07 | 2008-08-07 |
+| Hotărârea Guvernului nr. 720/2008 | [`hg/2008/720/`](hg/2008/720/) | in force | 16 | 2008-07-15 | 2024-09-02 |
 | Hotărârea Guvernului nr. 738/2008 | [`hg/2008/738/`](hg/2008/738/) | in force | 1 | 2008-07-18 | 2008-07-18 |
 | Hotărârea Guvernului nr. 741/2008 | [`hg/2008/741/`](hg/2008/741/) | in force | 2 | 2008-08-13 | 2022-01-25 |
 | Hotărârea Guvernului nr. 748/2008 | [`hg/2008/748/`](hg/2008/748/) | in force | 1 | 2008-08-19 | 2008-08-19 |
@@ -4540,6 +4552,7 @@
 | Hotărârea Guvernului nr. 926/2008 | [`hg/2008/926/`](hg/2008/926/) | in force | 2 | 2008-08-27 | 2009-02-19 |
 | Hotărârea Guvernului nr. 983/2008 | [`hg/2008/983/`](hg/2008/983/) | in force | 1 | 2008-09-01 | 2008-09-01 |
 | Hotărârea Guvernului nr. 998/2008 | [`hg/2008/998/`](hg/2008/998/) | in force | 3 | 2008-09-08 | 2008-12-04 |
+| Hotărârea Guvernului nr. 1029/2008 | [`hg/2008/1029/`](hg/2008/1029/) | in force | 2 | 2009-12-29 | 2011-12-15 |
 | Hotărârea Guvernului nr. 1061/2008 privind transportul deșeurilor periculoase și nepericuloase pe teritoriul României | [`hg/2008/1061/`](hg/2008/1061/) | in force | 1 | 2008-12-29 | 2008-12-29 |
 | Hotărârea Guvernului nr. 1062/2008 | [`hg/2008/1062/`](hg/2008/1062/) | in force | 1 | 2008-09-16 | 2008-09-16 |
 | Hotărârea Guvernului nr. 1065/2008 | [`hg/2008/1065/`](hg/2008/1065/) | in force | 1 | 2008-09-16 | 2008-09-16 |
@@ -4640,6 +4653,7 @@
 | Hotărârea Guvernului nr. 1635/2009 | [`hg/2009/1635/`](hg/2009/1635/) | in force | 3 | 2010-01-12 | 2012-03-02 |
 | Hotărârea Guvernului nr. 22/2010 | [`hg/2010/22/`](hg/2010/22/) | in force | 2 | 2010-01-11 | 2012-07-16 |
 | Hotărârea Guvernului nr. 77/2010 | [`hg/2010/77/`](hg/2010/77/) | in force | 1 | 2010-02-05 | 2010-02-05 |
+| Hotărârea Guvernului nr. 81/2010 | [`hg/2010/81/`](hg/2010/81/) | in force | 3 | 2010-02-09 | 2011-03-29 |
 | Hotărârea Guvernului nr. 86/2010 | [`hg/2010/86/`](hg/2010/86/) | in force | 1 | 2010-02-17 | 2010-02-17 |
 | Hotărârea Guvernului nr. 89/2010 | [`hg/2010/89/`](hg/2010/89/) | in force | 1 | 2010-02-15 | 2010-02-15 |
 | Hotărârea Guvernului nr. 90/2010 | [`hg/2010/90/`](hg/2010/90/) | in force | 19 | 2010-02-22 | 2025-04-17 |
@@ -4722,6 +4736,7 @@
 | Hotărârea Guvernului nr. 1359/2010 | [`hg/2010/1359/`](hg/2010/1359/) | in force | 1 | 2011-01-25 | 2011-01-25 |
 | Hotărârea Guvernului nr. 1370/2010 | [`hg/2010/1370/`](hg/2010/1370/) | in force | 1 | 2011-01-13 | 2011-01-13 |
 | Hotărârea Guvernului nr. 1388/2010 | [`hg/2010/1388/`](hg/2010/1388/) | in force | 3 | 2011-01-01 | 2012-12-22 |
+| Hotărârea Guvernului nr. 1389/2010 | [`hg/2010/1389/`](hg/2010/1389/) | in force | 2 | 2011-04-01 | 2011-04-01 |
 | Hotărârea Guvernului nr. 30/2011 | [`hg/2011/30/`](hg/2011/30/) | in force | 1 | 2011-01-20 | 2011-01-20 |
 | Hotărârea Guvernului nr. 32/2011 | [`hg/2011/32/`](hg/2011/32/) | in force | 2 | 2011-01-20 | 2014-03-25 |
 | Hotărârea Guvernului nr. 38/2011 pentru aprobarea Normelor metodologice de aplicare a prevederilor Legii nr. 277/2010 privind alocația pentru susținerea familiei | [`hg/2011/38/`](hg/2011/38/) | amending act | 1 | 2011-01-21 | 2011-01-21 |
@@ -4942,6 +4957,7 @@
 | Hotărârea Guvernului nr. 943/2013 | [`hg/2013/943/`](hg/2013/943/) | in force | 1 | 2013-12-17 | 2013-12-17 |
 | Hotărârea Guvernului nr. 1011/2013 | [`hg/2013/1011/`](hg/2013/1011/) | in force | 2 | 2013-12-18 | 2014-01-29 |
 | Hotărârea Guvernului nr. 1052/2013 | [`hg/2013/1052/`](hg/2013/1052/) | in force | 2 | 2013-12-18 | 2017-01-16 |
+| Hotărârea Guvernului nr. 1069/2013 | [`hg/2013/1069/`](hg/2013/1069/) | in force | 4 | 2013-12-24 | 2018-07-12 |
 | Hotărârea Guvernului nr. 1071/2013 | [`hg/2013/1071/`](hg/2013/1071/) | in force | 1 | 2014-01-30 | 2014-01-30 |
 | Hotărârea Guvernului nr. 1072/2013 | [`hg/2013/1072/`](hg/2013/1072/) | in force | 1 | 2013-12-23 | 2013-12-23 |
 | Hotărârea Guvernului nr. 1086/2013 pentru aprobarea Normelor generale privind exercitarea activității de audit public intern | [`hg/2013/1086/`](hg/2013/1086/) | amending act | 1 | 2014-01-10 | 2014-01-10 |
@@ -5071,6 +5087,7 @@
 | Hotărârea Guvernului nr. 915/2015 | [`hg/2015/915/`](hg/2015/915/) | in force | 1 | 2015-11-04 | 2015-11-04 |
 | Hotărârea Guvernului nr. 954/2015 | [`hg/2015/954/`](hg/2015/954/) | in force | 1 | 2015-12-14 | 2015-12-14 |
 | Hotărârea Guvernului nr. 957/2015 | [`hg/2015/957/`](hg/2015/957/) | in force | 3 | 2015-12-10 | 2016-06-24 |
+| Hotărârea Guvernului nr. 1000/2015 privind faptele pentru care se înscriu informații în cazierul fiscal al contribuabililor, potrivit legislației în vigoare | [`hg/2015/1000/`](hg/2015/1000/) | in force | 2 | 2015-12-30 | 2023-01-29 |
 | Hotărârea Guvernului nr. 1002/2015 | [`hg/2015/1002/`](hg/2015/1002/) | in force | 2 | 2015-12-30 | 2016-01-29 |
 | Hotărârea Guvernului nr. 1014/2015 | [`hg/2015/1014/`](hg/2015/1014/) | in force | 2 | 2016-01-01 | 2016-01-10 |
 | Hotărârea Guvernului nr. 1019/2015 | [`hg/2015/1019/`](hg/2015/1019/) | in force | 1 | 2015-12-31 | 2015-12-31 |
@@ -5164,6 +5181,7 @@
 | Hotărârea Guvernului nr. 965/2016 | [`hg/2016/965/`](hg/2016/965/) | in force | 1 | 2017-01-21 | 2017-01-21 |
 | Hotărârea Guvernului nr. 997/2016 | [`hg/2016/997/`](hg/2016/997/) | in force | 2 | 2017-01-29 | 2018-11-09 |
 | Hotărârea Guvernului nr. 1000/2016 | [`hg/2016/1000/`](hg/2016/1000/) | in force | 1 | 2016-12-29 | 2016-12-29 |
+| Hotărârea Guvernului nr. 1004/2016 pentru aprobarea Normelor referitoare la proveniența, circulația și comercializarea materialelor lemnoase, la regimul spațiilor de depozitare a materialelor lemnoase și al instalațiilor de prelucrat lemn rotund, precum și a unor măsuri de aplicare a Regulamentului (UE) nr. 995/2010 al Parlamentului European și al Consiliului din 20 octombrie 2010 de stabilire a obligațiilor ce revin operatorilor care introduc pe piață lemn și produse din lemn | [`hg/2016/1004/`](hg/2016/1004/) | amending act | 1 | 2017-04-22 | 2017-04-22 |
 | Hotărârea Guvernului nr. 1008/2016 | [`hg/2016/1008/`](hg/2016/1008/) | in force | 1 | 2016-12-29 | 2016-12-29 |
 | Hotărârea Guvernului nr. 1/2017 | [`hg/2017/1/`](hg/2017/1/) | in force | 1 | 2017-01-06 | 2017-01-06 |
 | Hotărârea Guvernului nr. 12/2017 privind organizarea și funcționarea Ministerului Muncii și Justiției Sociale | [`hg/2017/12/`](hg/2017/12/) | in force | 4 | 2017-01-16 | 2019-06-26 |
@@ -5777,14 +5795,19 @@
 | Hotărârea Guvernului nr. 1050/2021 pentru modificarea anexelor nr. 2 și 3 la Hotărârea Guvernului nr. 932/2021 privind prelungirea stării de alertă pe teritoriul României începând cu data de 10 septembrie 2021, precum și stabilirea măsurilor care se aplică pe durata acesteia pentru prevenirea și combaterea efectelor pandemiei de COVID-19 | [`hg/2021/1050/`](hg/2021/1050/) | amending act | 1 | 2021-10-02 | 2021-10-02 |
 | Hotărârea Guvernului nr. 1060/2021 privind stabilirea cuantumului valorii minime a taxei de licență pentru acordarea unor drepturi de utilizare a frecvențelor radio, precum și a condițiilor de plată a taxei de licență | [`hg/2021/1060/`](hg/2021/1060/) | in force | 1 | 2021-10-08 | 2021-10-08 |
 | Hotărârea Guvernului nr. 1064/2021 privind modificarea și completarea Hotărârii Guvernului nr. 861/201 8 pentru aprobarea Strategiei naționale împotriva traficului de persoane pentru perioada 2018-2022 și a Planului național de acțiune 2018-2020 pentru implementarea Strategiei naționale împotriva traficului de persoane pentru perioada 2018-2022 | [`hg/2021/1064/`](hg/2021/1064/) | amending act | 1 | 2021-10-25 | 2021-10-25 |
+| Hotărârea Guvernului nr. 1071/2021 pentru stabilirea salariului de bază minim brut pe țară garantat în plată | [`hg/2021/1071/`](hg/2021/1071/) | in force | 1 | 2022-01-01 | 2022-01-01 |
 | Hotărârea Guvernului nr. 1074/2021 privind stabilirea sistemului de garanţie-returnare pentru ambalaje primare nereutilizabile | [`hg/2021/1074/`](hg/2021/1074/) | in force | 9 | 2021-10-06 | 2025-08-18 |
 | Hotărârea Guvernului nr. 1075/2021 pentru modificarea și completarea Regulamentului de aplicare a Ordonanței de urgență a Guvernului nr. 195/2002 privind circulația pe drumurile publice, aprobat prin Hotărârea Guvernului nr. 1.391/2006 | [`hg/2021/1075/`](hg/2021/1075/) | amending act | 1 | 2021-10-06 | 2021-10-06 |
 | Hotărârea Guvernului nr. 1078/2021 privind condițiile de acordare a despăgubirilor privind viața, sănătatea și bunurile polițiștilor de penitenciare | [`hg/2021/1078/`](hg/2021/1078/) | in force | 1 | 2021-10-29 | 2021-10-29 |
+| Hotărârea Guvernului nr. 1086/2021 pentru modificarea Hotărârii Guvernului nr. 385/2021 privind domeniile și programele de studii universitare de master acreditate și numărul maxim de studenți ce pot fi școlarizați în anul universitar 2021-2022 și a Hotărârii Guvernului nr. 403/2021 privind aprobarea Nomenclatorului domeniilor și al specializărilor/programelor de studii universitare și a structurii instituțiilor de învățământ superior pentru anul universitar 2021-2022 | [`hg/2021/1086/`](hg/2021/1086/) | amending act | 1 | 2021-10-12 | 2021-10-12 |
+| Hotărârea Guvernului nr. 1088/2021 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziția Guvernului, prevăzut în bugetul de stat pe anul 2021, pentru unele unități administrativ-teritoriale | [`hg/2021/1088/`](hg/2021/1088/) | in force | 1 | 2021-10-07 | 2021-10-07 |
 | Hotărârea Guvernului nr. 1090/2021 privind prelungirea stării de alertă pe teritoriul României începând cu data de 10 octombrie 2021, precum și stabilirea măsurilor care se aplică pe durata acesteia pentru prevenirea și combaterea efectelor pandemiei de COVID-19 | [`hg/2021/1090/`](hg/2021/1090/) | in force | 1 | 2021-10-07 | 2021-10-07 |
 | Hotărârea Guvernului nr. 1094/2021 pentru aprobarea cuantumului minim al burselor de performanță, de merit, de studiu și de ajutor social pentru elevii din învățământul preuniversitar de stat, cu frecvență, care se acordă în anul școlar 2021-2022 | [`hg/2021/1094/`](hg/2021/1094/) | amending act | 1 | 2021-10-12 | 2021-10-12 |
 | Hotărârea Guvernului nr. 1098/2021 privind aprobarea bugetului de venituri și cheltuieli pentru anul 2021 al Regiei Autonome "Monetăria Statului", aflată în subordinea Băncii Naționale a României | [`hg/2021/1098/`](hg/2021/1098/) | amending act | 1 | 2021-10-13 | 2021-10-13 |
 | Hotărârea Guvernului nr. 1099/2021 privind aprobarea bugetului de venituri și cheltuieli pentru anul 2021 al Regiei Autonome "Imprimeria Băncii Naționale a României", aflată în subordinea Băncii Naționale a României | [`hg/2021/1099/`](hg/2021/1099/) | amending act | 1 | 2021-10-13 | 2021-10-13 |
+| Hotărârea Guvernului nr. 1120/2021 privind modificarea anexei nr. 31 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului | [`hg/2021/1120/`](hg/2021/1120/) | amending act | 1 | 2021-10-28 | 2021-10-28 |
 | Hotărârea Guvernului nr. 1121/2021 privind actualizarea valorii de inventar pentru unele imobile aflate în domeniul public al statului și administrarea Ministerului Afacerilor Interne - Inspectoratul pentru Situații de Urgență "General Magheru" al Județului Vâlcea | [`hg/2021/1121/`](hg/2021/1121/) | in force | 1 | 2021-10-28 | 2021-10-28 |
+| Hotărârea Guvernului nr. 1122/2021 privind înscrierea în inventarul centralizat al bunurilor din domeniul public al statului și darea în administrarea Serviciului Român de Informații a unor bunuri imobile, proprietate publică a statului, situate în municipiul București | [`hg/2021/1122/`](hg/2021/1122/) | in force | 1 | 2021-10-28 | 2021-10-28 |
 | Hotărârea Guvernului nr. 1130/2021 pentru modificarea anexelor nr. 2 și 3 la Hotărârea Guvernului nr. 1.090/2021 privind prelungirea stării de alertă pe teritoriul României începând cu data de 10 octombrie 2021, precum și stabilirea măsurilor care se aplică pe durata acesteia pentru prevenirea și combaterea efectelor pandemiei de COVID-19 | [`hg/2021/1130/`](hg/2021/1130/) | amending act | 1 | 2021-10-25 | 2021-10-25 |
 | Hotărârea Guvernului nr. 1161/2021 pentru modificarea și completarea anexelor nr. 2 și 3 la Hotărârea Guvernului nr. 1.090/2021 privind prelungirea stării de alertă pe teritoriul României începând cu data de 10 octombrie 2021, precum și stabilirea măsurilor care se aplică pe durata acesteia pentru prevenirea și combaterea efectelor pandemiei de COVID-19 | [`hg/2021/1161/`](hg/2021/1161/) | amending act | 1 | 2021-10-25 | 2021-10-25 |
 | Hotărârea Guvernului nr. 1183/2021 privind prelungirea stării de alertă pe teritoriul României începând cu data de 9 noiembrie 2021, precum şi stabilirea măsurilor care se aplică pe durata acesteia pentru prevenirea şi combaterea efectelor pandemiei de COVID-19 | [`hg/2021/1183/`](hg/2021/1183/) | in force | 1 | 2021-11-09 | 2021-11-09 |
