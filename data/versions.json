@@ -15833,6 +15833,27 @@
    ]
   },
   {
+   "slug": "hg-236-2023",
+   "path": "hg/2023/236",
+   "short": "HG nr. 236/2023",
+   "title": "Hotărârea Guvernului nr. 236/2023 pentru aprobarea metodologiei de derulare a procedurii de evaluare de mediu pentru amenajamentele silvice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/266037",
+   "versions": [
+    {
+     "from": "2023-03-20",
+     "units": 26,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/266037",
+     "sha256": "d0b33d81e5d34f8bc6373148860e6951f61aa98e1c3209e3d8526149f9ee9829"
+    },
+    {
+     "from": "2023-04-19",
+     "units": 28,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/266037",
+     "sha256": "d0b33d81e5d34f8bc6373148860e6951f61aa98e1c3209e3d8526149f9ee9829"
+    }
+   ]
+  },
+  {
    "slug": "hg-237-2001",
    "path": "hg/2001/237",
    "short": "HG nr. 237/2001",
@@ -22511,6 +22532,27 @@
    ]
   },
   {
+   "slug": "hg-697-2022",
+   "path": "hg/2022/697",
+   "short": "HG nr. 697/2022",
+   "title": "Hotărârea Guvernului nr. 697/2022 privind aprobarea metodologiei de raportare şi a circuitului informaţional în Registrul electronic naţional de vaccinări",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/255757",
+   "versions": [
+    {
+     "from": "2022-05-27",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/255757",
+     "sha256": "33a10ff15455b2c65f720121d0735a4c681e6b5406d37e8df3a5a3a9e1cbb834"
+    },
+    {
+     "from": "2022-06-26",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/255757",
+     "sha256": "33a10ff15455b2c65f720121d0735a4c681e6b5406d37e8df3a5a3a9e1cbb834"
+    }
+   ]
+  },
+  {
    "slug": "hg-699-2003",
    "path": "hg/2003/699",
    "short": "HG nr. 699/2003",
@@ -22675,6 +22717,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/314009",
      "sha256": "3a27a2249d8f7fc96892974eeae378176bb749ae868e6357354d65cd42a89be2"
+    }
+   ]
+  },
+  {
+   "slug": "hg-701-2024",
+   "path": "hg/2024/701",
+   "short": "HG nr. 701/2024",
+   "title": "Hotărârea Guvernului nr. 701/2024 privind modificarea anexei la Hotărârea Guvernului nr. 152/2024 pentru aprobarea Schemei de ajutor de minimis pentru sprijinirea beneficiarilor de ajutor de stat în contextul crizei economice generate de pandemia de COVID-19, afectaţi de creşterea ROBOR",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/284581",
+   "versions": [
+    {
+     "from": "2024-06-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/284581",
+     "sha256": "081d264ef373547a1e74d91214f9a5d7c2fc052d99857a4b53c9c31a9da80321"
     }
    ]
   },
