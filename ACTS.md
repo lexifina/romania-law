@@ -1,6 +1,6 @@
 # Every act in this repository
 
-8769 acts, 21,832 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+8772 acts, 21,859 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -32,7 +32,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (2060, of which 835 amending acts)
+## Laws (legi) (2062, of which 836 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -646,6 +646,7 @@
 | Legea nr. 319/2006 a securității și sănătății în muncă | [`lege/2006/319/`](lege/2006/319/) | in force | 7 | 2006-10-01 | 2021-07-25 |
 | Legea nr. 323/2006 | [`lege/2006/323/`](lege/2006/323/) | in force | 1 | 2006-07-22 | 2006-07-22 |
 | Legea nr. 325/2006 | [`lege/2006/325/`](lege/2006/325/) | in force | 6 | 2006-07-30 | 2024-04-20 |
+| Legea nr. 328/2006 pentru aprobarea Ordonanței Guvernului nr. 39/2005 privind cinematografia | [`lege/2006/328/`](lege/2006/328/) | amending act | 9 | 2006-07-30 | 2016-12-12 |
 | Legea nr. 333/2006 | [`lege/2006/333/`](lege/2006/333/) | in force | 1 | 2007-01-01 | 2007-01-01 |
 | Legea nr. 334/2006 privind finanțarea activității partidelor politice și a campaniilor electorale | [`lege/2006/334/`](lege/2006/334/) | in force | 21 | 2006-08-20 | 2020-09-19 |
 | Legea nr. 337/2006 | [`lege/2006/337/`](lege/2006/337/) | in force | 2 | 2006-07-23 | 2006-08-01 |
@@ -860,6 +861,7 @@
 | Legea nr. 187/2011 | [`lege/2011/187/`](lege/2011/187/) | in force | 2 | 2011-11-03 | 2022-12-14 |
 | Legea nr. 191/2011 | [`lege/2011/191/`](lege/2011/191/) | in force | 3 | 2011-11-06 | 2024-08-24 |
 | Legea nr. 194/2011 privind combaterea operațiunilor cu produse susceptibile de a avea efecte psihoactive, altele decât cele prevăzute de acte normative în vigoare | [`lege/2011/194/`](lege/2011/194/) | in force | 7 | 2011-11-13 | 2024-06-03 |
+| Legea nr. 211/2011 | [`lege/2011/211/`](lege/2011/211/) | in force | 11 | 2011-11-28 | 2021-08-26 |
 | Legea nr. 214/2011 | [`lege/2011/214/`](lege/2011/214/) | in force | 3 | 2011-11-24 | 2014-02-01 |
 | Legea nr. 218/2011 | [`lege/2011/218/`](lege/2011/218/) | in force | 1 | 2011-12-09 | 2011-12-09 |
 | Legea nr. 226/2011 | [`lege/2011/226/`](lege/2011/226/) | in force | 3 | 2011-12-05 | 2015-04-23 |
@@ -2097,7 +2099,7 @@
 | Legea nr. 190/2026 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 81/2021 privind aprobarea metodelor de intervenţie imediată pentru prevenirea şi combaterea atacurilor exemplarelor de urs brun asupra persoanelor şi bunurilor acestora, precum şi pentru modificarea şi completarea unor acte normative | [`lege/2026/190/`](lege/2026/190/) | amending act | 1 | 2026-10-08 | 2026-10-08 |
 | Legea nr. 205/2026 pentru completarea Ordonanţei Guvernului nr. 22/2002 privind executarea obligaţiilor de plată ale instituţiilor publice, stabilite prin titluri executorii | [`lege/2026/205/`](lege/2026/205/) | amending act | 1 | 2026-11-02 | 2026-11-02 |
 
-## Emergency ordinances (OUG) (1523, of which 533 amending acts)
+## Emergency ordinances (OUG) (1524, of which 533 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -2517,6 +2519,7 @@
 | Ordonanța de urgență a Guvernului nr. 74/2008 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 109/2005 privind transporturile rutiere | [`oug/2008/74/`](oug/2008/74/) | amending act | 2 | 2008-06-17 | 2009-06-14 |
 | Ordonanța de urgență a Guvernului nr. 76/2008 | [`oug/2008/76/`](oug/2008/76/) | in force | 2 | 2008-06-23 | 2009-03-27 |
 | Ordonanța de urgență a Guvernului nr. 78/2008 | [`oug/2008/78/`](oug/2008/78/) | in force | 2 | 2008-06-23 | 2009-04-11 |
+| Ordonanța de urgență a Guvernului nr. 79/2008 | [`oug/2008/79/`](oug/2008/79/) | repealed 2013-09-01 | 7 | 2008-06-23 | 2013-09-01 |
 | Ordonanța de urgență a Guvernului nr. 83/2008 | [`oug/2008/83/`](oug/2008/83/) | in force | 2 | 2008-06-26 | 2009-03-21 |
 | Ordonanța de urgență a Guvernului nr. 85/2008 | [`oug/2008/85/`](oug/2008/85/) | in force | 5 | 2008-06-27 | 2015-01-28 |
 | Ordonanța de urgență a Guvernului nr. 86/2008 | [`oug/2008/86/`](oug/2008/86/) | in force | 2 | 2008-06-27 | 2009-06-13 |

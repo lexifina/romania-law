@@ -10389,6 +10389,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/73837"
 },
 {
+"slug": "legea-328-2006",
+"path": "lege/2006/328",
+"kind": "lege",
+"year": "2006",
+"number": "328",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 328/2006 pentru aprobarea Ordonanței Guvernului nr. 39/2005 privind cinematografia",
+"short": "Legea nr. 328/2006",
+"code": null,
+"status": "amending act",
+"versions": 9,
+"from": "2006-07-30",
+"latest": "2016-12-12",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/73800"
+},
+{
 "slug": "legea-333-2006",
 "path": "lege/2006/333",
 "kind": "lege",
@@ -14025,6 +14042,23 @@
 "from": "2011-11-13",
 "latest": "2024-06-03",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/132824"
+},
+{
+"slug": "legea-211-2011",
+"path": "lege/2011/211",
+"kind": "lege",
+"year": "2011",
+"number": "211",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 211/2011",
+"short": "Legea nr. 211/2011",
+"code": null,
+"status": "in force",
+"versions": 11,
+"from": "2011-11-28",
+"latest": "2021-08-26",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/133184"
 },
 {
 "slug": "legea-214-2011",
@@ -42109,6 +42143,23 @@
 "from": "2008-06-23",
 "latest": "2009-04-11",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/106680"
+},
+{
+"slug": "oug-79-2008",
+"path": "oug/2008/79",
+"kind": "oug",
+"year": "2008",
+"number": "79",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 79/2008",
+"short": "OUG nr. 79/2008",
+"code": null,
+"status": "repealed 2013-09-01",
+"versions": 7,
+"from": "2008-06-23",
+"latest": "2013-09-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/135915"
 },
 {
 "slug": "oug-83-2008",
