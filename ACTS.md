@@ -1,6 +1,6 @@
 # Every act in this repository
 
-9980 acts, 23,434 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+9985 acts, 23,482 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -32,7 +32,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (2184, of which 912 amending acts)
+## Laws (legi) (2186, of which 912 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -389,6 +389,7 @@
 | Legea nr. 486/2002 | [`lege/2002/486/`](lege/2002/486/) | in force | 1 | 2002-07-17 | 2002-07-17 |
 | Legea sănătății mintale și a protecției persoanelor cu tulburări psihice nr. 487/2002 | [`lege/2002/487/`](lege/2002/487/) | in force | 10 | 2002-08-08 | 2024-12-13 |
 | Legea nr. 500/2002 privind finanțele publice | [`lege/2002/500/`](lege/2002/500/) | in force | 28 | 2003-01-01 | 2023-10-05 |
+| Legea nr. 504/2002 | [`lege/2002/504/`](lege/2002/504/) | in force | 31 | 2002-07-22 | 2025-03-28 |
 | Legea nr. 505/2002 | [`lege/2002/505/`](lege/2002/505/) | in force | 1 | 2002-07-18 | 2002-07-18 |
 | Legea nr. 507/2002 | [`lege/2002/507/`](lege/2002/507/) | repealed 2004-09-27 | 3 | 2002-11-04 | 2004-09-27 |
 | Legea nr. 515/2002 | [`lege/2002/515/`](lege/2002/515/) | in force | 1 | 2002-08-05 | 2002-08-05 |
@@ -553,6 +554,7 @@
 | Legea nr. 369/2004 | [`lege/2004/369/`](lege/2004/369/) | in force | 4 | 2004-12-29 | 2023-02-21 |
 | Legea nr. 370/2004 pentru alegerea Președintelui României | [`lege/2004/370/`](lege/2004/370/) | in force | 15 | 2004-10-02 | 2024-05-10 |
 | Legea nr. 372/2004 | [`lege/2004/372/`](lege/2004/372/) | in force | 1 | 2004-10-01 | 2004-10-01 |
+| Legea nr. 373/2004 pentru alegerea Camerei Deputaților și a Senatului | [`lege/2004/373/`](lege/2004/373/) | repealed 2008-04-12 | 9 | 2004-10-02 | 2008-04-12 |
 | Legea nr. 376/2004 | [`lege/2004/376/`](lege/2004/376/) | in force | 4 | 2004-10-07 | 2007-01-19 |
 | Legea nr. 381/2004 | [`lege/2004/381/`](lege/2004/381/) | in force | 1 | 2004-10-04 | 2004-10-04 |
 | Legea nr. 389/2004 | [`lege/2004/389/`](lege/2004/389/) | in force | 6 | 2004-10-16 | 2012-08-14 |
@@ -3799,7 +3801,7 @@
 | Ordonanța de urgență a Guvernului nr. 30/2026 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 23/2004 privind stabilirea unor măsuri de reorganizare a Autorităţii pentru Valorificarea Activelor Bancare prin comasarea prin absorbţie cu Autoritatea pentru Privatizare şi Administrarea Participaţiilor Statului | [`oug/2026/30/`](oug/2026/30/) | amending act | 1 | 2026-04-21 | 2026-04-21 |
 | Ordonanța de urgență a Guvernului nr. 33/2026 pentru modificarea şi completarea Legii educaţiei fizice şi sportului nr. 69/2000 | [`oug/2026/33/`](oug/2026/33/) | amending act | 1 | 2026-04-27 | 2026-04-27 |
 
-## Ordinances (OG) (499, of which 92 amending acts)
+## Ordinances (OG) (500, of which 92 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -3822,6 +3824,7 @@
 | Ordonanța Guvernului nr. 8/1996 | [`og/1996/8/`](og/1996/8/) | in force | 1 | 1996-01-30 | 1996-01-30 |
 | Ordonanța Guvernului nr. 9/1996 | [`og/1996/9/`](og/1996/9/) | in force | 10 | 1996-01-30 | 2012-09-04 |
 | Ordonanța Guvernului nr. 10/1996 | [`og/1996/10/`](og/1996/10/) | in force | 4 | 1996-01-30 | 2009-02-16 |
+| Ordonanța Guvernului nr. 11/1996 | [`og/1996/11/`](og/1996/11/) | repealed 2003-01-01 | 4 | 1996-04-30 | 2003-01-01 |
 | Ordonanța Guvernului nr. 15/1996 | [`og/1996/15/`](og/1996/15/) | in force | 9 | 1996-02-10 | 2004-11-22 |
 | Ordonanța Guvernului nr. 27/1996 | [`og/1996/27/`](og/1996/27/) | in force | 9 | 1996-08-08 | 2021-11-01 |
 | Ordonanța Guvernului nr. 39/1996 | [`og/1996/39/`](og/1996/39/) | in force | 17 | 1996-08-30 | 2015-12-14 |
@@ -4303,7 +4306,7 @@
 | Ordonanța Guvernului nr. 21/2025 pentru modificarea și completarea Legii nr. 431/2023 privind asigurarea unui nivel minim global de impozitare a grupurilor de întreprinderi multinaționale și a grupurilor naționale de mari dimensiuni | [`og/2025/21/`](og/2025/21/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 | Ordonanța Guvernului nr. 22/2025 pentru modificarea și completarea Legii nr. 227/2015 privind Codul fiscal | [`og/2025/22/`](og/2025/22/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 
-## Government decisions (HG) (5685, of which 2336 amending acts)
+## Government decisions (HG) (5687, of which 2336 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -4427,10 +4430,12 @@
 | Hotărârea Guvernului nr. 560/2000 | [`hg/2000/560/`](hg/2000/560/) | in force | 1 | 2000-07-14 | 2000-07-14 |
 | Hotărârea Guvernului nr. 580/2000 | [`hg/2000/580/`](hg/2000/580/) | in force | 1 | 2000-07-07 | 2000-07-07 |
 | Hotărârea Guvernului nr. 581/2000 | [`hg/2000/581/`](hg/2000/581/) | in force | 1 | 2000-07-11 | 2000-07-11 |
+| Hotărârea Guvernului nr. 627/2000 privind reorganizarea Companiei Naţionale de Electricitate - S.A | [`hg/2000/627/`](hg/2000/627/) | in force | 2 | 2000-07-31 | 2001-05-29 |
 | Hotărârea Guvernului nr. 696/2000 | [`hg/2000/696/`](hg/2000/696/) | in force | 1 | 2000-08-24 | 2000-08-24 |
 | Hotărârea Guvernului nr. 697/2000 | [`hg/2000/697/`](hg/2000/697/) | in force | 1 | 2000-08-24 | 2000-08-24 |
 | Hotărârea Guvernului nr. 753/2000 | [`hg/2000/753/`](hg/2000/753/) | in force | 1 | 2000-09-05 | 2000-09-05 |
 | Hotărârea Guvernului nr. 774/2000 pentru aprobarea Regulamentului de aplicare a dispozițiilor Ordonanței Guvernului nr. 1/2000 privind organizarea activității și funcționarea instituțiilor de medicină legală | [`hg/2000/774/`](hg/2000/774/) | amending act | 1 | 2000-09-19 | 2000-09-19 |
+| Hotărârea Guvernului nr. 845/2000 privind unele măsuri de protecţie socială referitoare la pensiile de asigurări sociale de stat, în lunile septembrie-decembrie 2000 | [`hg/2000/845/`](hg/2000/845/) | in force | 2 | 2000-09-29 | 2000-12-18 |
 | Hotărârea Guvernului nr. 886/2000 pentru aprobarea Grilei naționale de evaluare a nevoilor persoanelor vârstnice | [`hg/2000/886/`](hg/2000/886/) | amending act | 3 | 2000-10-16 | 2025-03-01 |
 | Hotărârea Guvernului nr. 910/2000 | [`hg/2000/910/`](hg/2000/910/) | in force | 1 | 2000-10-12 | 2000-10-12 |
 | Hotărârea Guvernului nr. 947/2000 | [`hg/2000/947/`](hg/2000/947/) | in force | 5 | 2001-01-25 | 2022-06-05 |
