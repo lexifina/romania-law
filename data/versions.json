@@ -9428,6 +9428,42 @@
    ]
   },
   {
+   "slug": "hg-12-2021",
+   "path": "hg/2021/12",
+   "short": "HG nr. 12/2021",
+   "title": "Hotărârea Guvernului nr. 12/2021 pentru modificarea și completarea Hotărârii Guvernului nr. 1.031/2020 privind aprobarea Strategiei de vaccinare împotriva COVID-19 în România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/236626",
+   "versions": [
+    {
+     "from": "2021-01-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/236626",
+     "sha256": "b5a5abb0d72aa5557a1e7a7ba2513348910552c35e354520ac78555072c32456"
+    }
+   ]
+  },
+  {
+   "slug": "hg-123-2002",
+   "path": "hg/2002/123",
+   "short": "HG nr. 123/2002",
+   "title": "Hotărârea Guvernului nr. 123/2002 pentru aprobarea Normelor metodologice de aplicare a Legii nr. 544/2001 privind liberul acces la informațiile de interes public",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34416",
+   "versions": [
+    {
+     "from": "2002-03-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/34416",
+     "sha256": "26dbf58afec80cafe0cd17a2f0a0246b5a000ef3d255d81b054deb5085b6657f"
+    },
+    {
+     "from": "2016-07-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/179995",
+     "sha256": "d5dc01425e7189cb7f3873d9e334958a792ede39804f5995280b2f4b6ce607dc"
+    }
+   ]
+  },
+  {
    "slug": "hg-1313-1996",
    "path": "hg/1996/1313",
    "short": "HG nr. 1313/1996",
@@ -9451,6 +9487,75 @@
      "units": 9,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/237978",
      "sha256": "663ef5947eb195a5891803779b265a6e847422b15f56ffb8b5968f9221ed1b97"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1317-1996",
+   "path": "hg/1996/1317",
+   "short": "HG nr. 1317/1996",
+   "title": "Hotărârea Guvernului nr. 1317/1996 privind înființarea Institutului Național de Cercetare-Dezvoltare pentru Științe Biologice București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/239371",
+   "versions": [
+    {
+     "from": "1996-12-11",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/10382",
+     "sha256": "cdd83050a6649722df21f0fc86482e11af4bc0e2b453c11dc0009463a191ddf5"
+    },
+    {
+     "from": "2004-12-20",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/239372",
+     "sha256": "f8213a14482ea20fb5db1082e63992ce9da9e0a1eb238d9aa39516f4cf0e5d6b"
+    }
+   ]
+  },
+  {
+   "slug": "hg-153-2018",
+   "path": "hg/2018/153",
+   "short": "HG nr. 153/2018",
+   "title": "Hotărârea Guvernului nr. 153/2018 pentru aprobarea Regulamentului-cadru privind stabilirea locurilor de muncă, a categoriilor de personal, a mărimii concrete a sporului pentru condiții de muncă prevăzut în anexa nr. II la Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, precum și a condițiilor de acordare a acestuia, pentru familia ocupațională de funcții bugetare \"Sănătate și asistență socială\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/199240",
+   "versions": [
+    {
+     "from": "2018-03-30",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/199240",
+     "sha256": "fe97141a91c83cc30b34a5674df45bebcd528554730c0d07ad5ded1412481e63"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1693-2004",
+   "path": "hg/2004/1693",
+   "short": "HG nr. 1693/2004",
+   "title": "Hotărârea Guvernului nr. 1693/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/56022",
+   "versions": [
+    {
+     "from": "2004-10-21",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/56022",
+     "sha256": "f63d9ce6a828411e780a9a6a961693313e9232c626d82aaa081e6d1050ae8533"
+    },
+    {
+     "from": "2004-10-27",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142299",
+     "sha256": "0a7b00398ec23438e4970925ce10712fab5d2ce0c374159b3c5aa0b3cb82186d"
+    },
+    {
+     "from": "2012-10-18",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142300",
+     "sha256": "5f9005817066df13281e72101997d1f44c4991ccd8677bb65524f844f60c3909"
+    },
+    {
+     "from": "2022-02-14",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/250895",
+     "sha256": "2b169078b3bea388a399ab3bd46d416fe3369b75c5d394ef8623f4bf86cb1a59"
     }
    ]
   },
@@ -9502,6 +9607,27 @@
      "units": 177,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/282823",
      "sha256": "2f467f3519287ec997691a5e22784a848bf6cd95ea1dd659be6820c95b5d1ad9"
+    }
+   ]
+  },
+  {
+   "slug": "hg-594-2008",
+   "path": "hg/2008/594",
+   "short": "HG nr. 594/2008",
+   "title": "Hotărârea Guvernului nr. 594/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132965",
+   "versions": [
+    {
+     "from": "2008-06-14",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/94036",
+     "sha256": "b9e486eebeeb1d701eac9c6c2e040d78f199cfc3a1c61b83c4b7fdbfdc8553d9"
+    },
+    {
+     "from": "2019-07-21",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/241341",
+     "sha256": "51d1f6ddde0e19436fdaf2cd6c750974bfceae8884943d4763c8560f36b37ae8"
     }
    ]
   },
