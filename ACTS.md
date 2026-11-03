@@ -1,6 +1,6 @@
 # Every act in this repository
 
-9249 acts, 22,509 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+9251 acts, 22,515 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -32,7 +32,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (2111, of which 865 amending acts)
+## Laws (legi) (2112, of which 865 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -439,6 +439,7 @@
 | Legea nr. 280/2003 | [`lege/2003/280/`](lege/2003/280/) | in force | 1 | 2003-06-26 | 2003-06-26 |
 | Legea nr. 285/2003 | [`lege/2003/285/`](lege/2003/285/) | in force | 1 | 2003-07-02 | 2003-07-02 |
 | Legea nr. 290/2003 | [`lege/2003/290/`](lege/2003/290/) | in force | 9 | 2003-08-13 | 2023-07-03 |
+| Legea nr. 304/2003 pentru serviciul universal și drepturile utilizatorilor cu privire la rețelele și serviciile de comunicații electronice | [`lege/2003/304/`](lege/2003/304/) | repealed 2011-12-27 | 5 | 2003-07-31 | 2011-12-27 |
 | Legea nr. 311/2003 muzeelor și a colecțiilor publice | [`lege/2003/311/`](lege/2003/311/) | in force | 1 | 2014-03-24 | 2014-03-24 |
 | Legea nr. 319/2003 | [`lege/2003/319/`](lege/2003/319/) | in force | 2 | 2003-07-23 | 2018-03-23 |
 | Legea nr. 326/2003 | [`lege/2003/326/`](lege/2003/326/) | in force | 3 | 2004-01-01 | 2013-10-03 |
@@ -4186,7 +4187,7 @@
 | Ordonanța Guvernului nr. 21/2025 pentru modificarea și completarea Legii nr. 431/2023 privind asigurarea unui nivel minim global de impozitare a grupurilor de întreprinderi multinaționale și a grupurilor naționale de mari dimensiuni | [`og/2025/21/`](og/2025/21/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 | Ordonanța Guvernului nr. 22/2025 pentru modificarea și completarea Legii nr. 227/2015 privind Codul fiscal | [`og/2025/22/`](og/2025/22/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 
-## Government decisions (HG) (5071, of which 1992 amending acts)
+## Government decisions (HG) (5072, of which 1992 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -4738,6 +4739,7 @@
 | Hotărârea Guvernului nr. 781/2005 | [`hg/2005/781/`](hg/2005/781/) | in force | 1 | 2005-08-03 | 2005-08-03 |
 | Hotărârea Guvernului nr. 783/2005 | [`hg/2005/783/`](hg/2005/783/) | in force | 1 | 2005-08-09 | 2005-08-09 |
 | Hotărârea Guvernului nr. 788/2005 | [`hg/2005/788/`](hg/2005/788/) | in force | 1 | 2005-08-09 | 2005-08-09 |
+| Hotărârea Guvernului nr. 797/2005 | [`hg/2005/797/`](hg/2005/797/) | in force | 1 | 2006-01-01 | 2006-01-01 |
 | Hotărârea Guvernului nr. 802/2005 | [`hg/2005/802/`](hg/2005/802/) | in force | 5 | 2005-08-03 | 2013-08-08 |
 | Hotărârea Guvernului nr. 803/2005 | [`hg/2005/803/`](hg/2005/803/) | in force | 6 | 2005-08-02 | 2024-06-29 |
 | Hotărârea Guvernului nr. 808/2005 | [`hg/2005/808/`](hg/2005/808/) | in force | 1 | 2005-08-12 | 2005-08-12 |

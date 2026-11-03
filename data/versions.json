@@ -23777,6 +23777,21 @@
    ]
   },
   {
+   "slug": "hg-797-2005",
+   "path": "hg/2005/797",
+   "short": "HG nr. 797/2005",
+   "title": "Hotărârea Guvernului nr. 797/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/68118",
+   "versions": [
+    {
+     "from": "2006-01-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/64177",
+     "sha256": "3629292e49f249f737709a8307035ef01c0529a8105114f329ef83adab9c8078"
+    }
+   ]
+  },
+  {
    "slug": "hg-798-1992",
    "path": "hg/1992/798",
    "short": "HG nr. 798/1992",
@@ -45436,6 +45451,45 @@
      "units": 294,
      "source_url": "https://web.archive.org/web/20260514220727id_/https://legislatie.just.ro/Public/DetaliiDocument/307048",
      "sha256": "ac4c00bae64471d8aff87b524c59075fc123be46ffa09976d85b9b0d055113ce"
+    }
+   ]
+  },
+  {
+   "slug": "legea-304-2003",
+   "path": "lege/2003/304",
+   "short": "Legea nr. 304/2003",
+   "title": "Legea nr. 304/2003 pentru serviciul universal și drepturile utilizatorilor cu privire la rețelele și serviciile de comunicații electronice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/82471",
+   "versions": [
+    {
+     "from": "2003-07-31",
+     "units": 39,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/45359",
+     "sha256": "135285db2eaf05652231d2fdd568a2902ff49e27f6edb88a836c12e114650aa8"
+    },
+    {
+     "from": "2006-10-02",
+     "units": 39,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/75718",
+     "sha256": "5332b52a6f598ea6e943ace16a288a11cab996d72c95350bf721e28f11bf22cd"
+    },
+    {
+     "from": "2006-11-06",
+     "units": 39,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/76862",
+     "sha256": "23f5b1edf5912e62b7093fbaef2921bb6a07d45c6168c54be808bb349abb052d"
+    },
+    {
+     "from": "2008-05-05",
+     "units": 39,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/92154",
+     "sha256": "da8c2a90e6f5a0ea5644e93035f8119195a5eded85e6497ec269a609157215e6"
+    },
+    {
+     "from": "2011-12-27",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/134098",
+     "sha256": "1b6837bf2937bc08307165322fd0493743ade0b5fb231b25c2247a8d4415206d"
     }
    ]
   },
