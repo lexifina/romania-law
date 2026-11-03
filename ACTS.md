@@ -1,6 +1,6 @@
 # Every act in this repository
 
-13639 acts, 27,228 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+13646 acts, 27,235 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -4721,7 +4721,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (8927, of which 4030 amending acts)
+## Government decisions (HG) (8934, of which 4031 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -6129,6 +6129,7 @@
 | Hotărârea Guvernului nr. 979/2008 privind reluarea activităţii în funcţia publică de subprefect al judeţului Prahova de către domnul Ioniţă Mircea | [`hg/2008/979/`](hg/2008/979/) | in force | 1 | 2008-09-01 | 2008-09-01 |
 | Hotărârea Guvernului nr. 980/2008 privind suplimentarea bugetului Secretariatului General al Guvernului din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2008, pentru Agenţia Naţională pentru Romi | [`hg/2008/980/`](hg/2008/980/) | in force | 1 | 2008-08-29 | 2008-08-29 |
 | Hotărârea Guvernului nr. 981/2008 privind rechemarea şi numirea unui consul general | [`hg/2008/981/`](hg/2008/981/) | in force | 1 | 2008-08-29 | 2008-08-29 |
+| Hotărârea Guvernului nr. 982/2008 privind aprobarea Planului naţional de acţiune 2008-2010 pentru implementarea Strategiei naţionale împotriva traficului de persoane pentru perioada 2006-2010 | [`hg/2008/982/`](hg/2008/982/) | amending act | 1 | 2008-09-19 | 2008-09-19 |
 | Hotărârea Guvernului nr. 983/2008 | [`hg/2008/983/`](hg/2008/983/) | in force | 1 | 2008-09-01 | 2008-09-01 |
 | Hotărârea Guvernului nr. 986/2008 privind stabilirea măsurilor pentru organizarea şi desfăşurarea alegerilor pentru Camera Deputaţilor şi Senat din anul 2008 | [`hg/2008/986/`](hg/2008/986/) | in force | 1 | 2008-09-02 | 2008-09-02 |
 | Hotărârea Guvernului nr. 987/2008 pentru aprobarea modelului timbrului autocolant şi a condiţiilor de tipărire, de gestionare şi de utilizare ale acestuia la alegerile pentru Camera Deputaţilor şi Senat din anul 2008 | [`hg/2008/987/`](hg/2008/987/) | amending act | 1 | 2008-09-02 | 2008-09-02 |
@@ -6199,7 +6200,13 @@
 | Hotărârea Guvernului nr. 1080/2008 privind transmiterea unui imobil din domeniul public al statului şi din administrarea Autorităţii Naţionale Sanitare Veterinare şi pentru Siguranţa Alimentelor - Direcţia Sanitară Veterinară şi pentru Siguranţa Alimentelor Olt în domeniul public al municipiului Caracal, judeţul Olt, şi în administrarea Consiliului Local al Municipiului Caracal, precum şi transmiterea unor imobile, aflate în domeniul public al statului, din administrarea Consiliului Local al Municipiului Caracal în administrarea Autorităţii Naţionale Sanitare Veterinare şi pentru Siguranţa Alimentelor - Direcţia Sanitară Veterinară şi pentru Siguranţa Alimentelor Olt | [`hg/2008/1080/`](hg/2008/1080/) | in force | 1 | 2008-09-17 | 2008-09-17 |
 | Hotărârea Guvernului nr. 1081/2008 privind modificarea anexei nr. 3 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului | [`hg/2008/1081/`](hg/2008/1081/) | amending act | 1 | 2008-09-18 | 2008-09-18 |
 | Hotărârea Guvernului nr. 1086/2008 privind stabilirea tarifelor pentru operațiunile efectuate de Oficiul Român pentru Drepturile de Autor contra cost și pentru aprobarea Normelor metodologice privind nivelul de constituire, condițiile de repartizare și de utilizare a fondului de stimulente pentru personalul Oficiului Român pentru Drepturile de Autor | [`hg/2008/1086/`](hg/2008/1086/) | amending act | 1 | 2008-11-14 | 2008-11-14 |
+| Hotărârea Guvernului nr. 1088/2008 privind revocarea din funcţie a guvernatorului Administraţiei Rezervaţiei Biosferei "Delta Dunării" şi numirea domnului Mihaiu Liviu în această funcţie | [`hg/2008/1088/`](hg/2008/1088/) | in force | 1 | 2008-09-18 | 2008-09-18 |
+| Hotărârea Guvernului nr. 1089/2008 privind stabilirea datei alegerilor locale parţiale pentru alegerea primarilor în unele circumscripţii electorale | [`hg/2008/1089/`](hg/2008/1089/) | in force | 1 | 2008-09-19 | 2008-09-19 |
+| Hotărârea Guvernului nr. 1090/2008 privind încetarea raportului de serviciu al domnului Onofrei Orest prin demisia din funcţia publică de subprefect al judeţului Suceava | [`hg/2008/1090/`](hg/2008/1090/) | in force | 1 | 2008-09-22 | 2008-09-22 |
+| Hotărârea Guvernului nr. 1091/2008 privind exercitarea, cu caracter temporar, a funcţiei publice de subprefect al judeţului Covasna de către domnul Banu Gheorghe Dorel | [`hg/2008/1091/`](hg/2008/1091/) | in force | 1 | 2008-09-22 | 2008-09-22 |
+| Hotărârea Guvernului nr. 1095/2008 privind acordarea unui ajutor | [`hg/2008/1095/`](hg/2008/1095/) | in force | 1 | 2008-09-22 | 2008-09-22 |
 | Hotărârea Guvernului nr. 1096/2008 pentru modificarea unor acte normative privind înființarea aeroporturilor de interes național | [`hg/2008/1096/`](hg/2008/1096/) | amending act | 1 | 2008-10-15 | 2008-10-15 |
+| Hotărârea Guvernului nr. 1116/2008 privind organizarea şi finanţarea Festivalului Naţional de Teatru | [`hg/2008/1116/`](hg/2008/1116/) | in force | 1 | 2008-09-22 | 2008-09-22 |
 | Hotărârea Guvernului nr. 1132/2008 | [`hg/2008/1132/`](hg/2008/1132/) | in force | 5 | 2008-09-25 | 2021-12-17 |
 | Hotărârea Guvernului nr. 1133/2008 | [`hg/2008/1133/`](hg/2008/1133/) | in force | 2 | 2008-09-29 | 2009-06-01 |
 | Hotărârea Guvernului nr. 1148/2008 | [`hg/2008/1148/`](hg/2008/1148/) | in force | 5 | 2008-10-09 | 2015-02-02 |
