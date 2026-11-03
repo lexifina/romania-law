@@ -1,6 +1,6 @@
 # Every act in this repository
 
-6068 acts, 17,409 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+6072 acts, 17,442 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -32,7 +32,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (1783, of which 644 amending acts)
+## Laws (legi) (1784, of which 644 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -353,6 +353,7 @@
 | Legea nr. 421/2002 | [`lege/2002/421/`](lege/2002/421/) | in force | 3 | 2002-07-05 | 2020-06-29 |
 | Legea nr. 439/2002 | [`lege/2002/439/`](lege/2002/439/) | in force | 1 | 2002-07-17 | 2002-07-17 |
 | Legea nr. 451/2002 | [`lege/2002/451/`](lege/2002/451/) | in force | 1 | 2002-07-23 | 2002-07-23 |
+| Legea nr. 458/2002 | [`lege/2002/458/`](lege/2002/458/) | repealed 2023-01-28 | 8 | 2002-08-28 | 2023-01-28 |
 | Legea nr. 460/2002 privind Ordinul Virtutea Aeronautică și Medalia Virtutea Aeronautică | [`lege/2002/460/`](lege/2002/460/) | in force | 1 | 2002-07-31 | 2002-07-31 |
 | Legea nr. 486/2002 | [`lege/2002/486/`](lege/2002/486/) | in force | 1 | 2002-07-17 | 2002-07-17 |
 | Legea sănătății mintale și a protecției persoanelor cu tulburări psihice nr. 487/2002 | [`lege/2002/487/`](lege/2002/487/) | in force | 10 | 2002-08-08 | 2024-12-13 |
@@ -1820,7 +1821,7 @@
 | Legea nr. 241/2025 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 31/2002 privind interzicerea organizațiilor, simbolurilor și faptelor cu caracter fascist, legionar, rasist sau xenofob și a promovării cultului persoanelor vinovate de săvârșirea unor infracțiuni de genocid contra umanității și de crime de război, precum și pentru modificarea Legii nr. 157/2018 privind unele măsuri pentru prevenirea și combaterea antisemitismului | [`lege/2025/241/`](lege/2025/241/) | amending act | 1 | 2025-12-27 | 2025-12-27 |
 | Legea nr. 245/2025 pentru modificarea art. 32 alin. (7) din Legea nr. 273/2006 privind finanțele publice locale | [`lege/2025/245/`](lege/2025/245/) | amending act | 1 | 2026-01-01 | 2026-01-01 |
 
-## Emergency ordinances (OUG) (1479, of which 521 amending acts)
+## Emergency ordinances (OUG) (1482, of which 521 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -2081,6 +2082,7 @@
 | Ordonanța de urgență a Guvernului nr. 105/2005 | [`oug/2005/105/`](oug/2005/105/) | in force | 2 | 2005-07-21 | 2006-01-23 |
 | Ordonanța de urgență a Guvernului nr. 106/2005 | [`oug/2005/106/`](oug/2005/106/) | in force | 2 | 2005-07-21 | 2005-12-05 |
 | Ordonanța de urgență a Guvernului nr. 108/2005 | [`oug/2005/108/`](oug/2005/108/) | in force | 3 | 2005-09-01 | 2006-01-26 |
+| Ordonanța de urgență a Guvernului nr. 109/2005 | [`oug/2005/109/`](oug/2005/109/) | in force | 15 | 2005-07-22 | 2011-10-01 |
 | Ordonanța de urgență a Guvernului nr. 111/2005 | [`oug/2005/111/`](oug/2005/111/) | in force | 2 | 2005-07-25 | 2005-12-08 |
 | Ordonanța de urgență a Guvernului nr. 113/2005 | [`oug/2005/113/`](oug/2005/113/) | in force | 2 | 2005-07-25 | 2005-11-03 |
 | Ordonanța de urgență a Guvernului nr. 114/2005 | [`oug/2005/114/`](oug/2005/114/) | in force | 4 | 2005-07-27 | 2011-12-28 |
@@ -2106,6 +2108,7 @@
 | Ordonanța de urgență a Guvernului nr. 3/2006 | [`oug/2006/3/`](oug/2006/3/) | in force | 2 | 2006-02-13 | 2006-05-28 |
 | Ordonanța de urgență a Guvernului nr. 4/2006 | [`oug/2006/4/`](oug/2006/4/) | in force | 2 | 2006-02-14 | 2006-05-27 |
 | Ordonanța de urgență a Guvernului nr. 12/2006 | [`oug/2006/12/`](oug/2006/12/) | in force | 7 | 2006-02-27 | 2018-05-14 |
+| Ordonanța de urgență a Guvernului nr. 13/2006 | [`oug/2006/13/`](oug/2006/13/) | in force | 8 | 2006-02-27 | 2012-11-24 |
 | Ordonanța de urgență a Guvernului nr. 19/2006 | [`oug/2006/19/`](oug/2006/19/) | in force | 10 | 2006-03-10 | 2022-03-21 |
 | Ordonanța de urgență a Guvernului nr. 22/2006 | [`oug/2006/22/`](oug/2006/22/) | in force | 2 | 2006-03-27 | 2006-07-23 |
 | Ordonanța de urgență a Guvernului nr. 23/2006 | [`oug/2006/23/`](oug/2006/23/) | in force | 2 | 2006-03-28 | 2006-07-14 |
@@ -2283,6 +2286,7 @@
 | Ordonanța de urgență a Guvernului nr. 25/2009 | [`oug/2009/25/`](oug/2009/25/) | in force | 2 | 2009-03-23 | 2009-07-16 |
 | Ordonanța de urgență a Guvernului nr. 33/2009 | [`oug/2009/33/`](oug/2009/33/) | in force | 2 | 2009-04-07 | 2009-10-04 |
 | Ordonanța de urgență a Guvernului nr. 34/2009 | [`oug/2009/34/`](oug/2009/34/) | in force | 14 | 2009-04-14 | 2015-10-28 |
+| Ordonanța de urgență a Guvernului nr. 35/2009 | [`oug/2009/35/`](oug/2009/35/) | in force | 2 | 2009-04-14 | 2009-07-16 |
 | Ordonanța de urgență a Guvernului nr. 36/2009 | [`oug/2009/36/`](oug/2009/36/) | in force | 2 | 2009-04-21 | 2009-11-19 |
 | Ordonanța de urgență a Guvernului nr. 40/2009 | [`oug/2009/40/`](oug/2009/40/) | in force | 2 | 2009-04-30 | 2009-12-25 |
 | Ordonanța de urgență a Guvernului nr. 43/2009 | [`oug/2009/43/`](oug/2009/43/) | in force | 2 | 2009-05-19 | 2010-04-09 |

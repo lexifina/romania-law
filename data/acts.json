@@ -5408,6 +5408,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/37537"
 },
 {
+"slug": "legea-458-2002",
+"path": "lege/2002/458",
+"kind": "lege",
+"year": "2002",
+"number": "458",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 458/2002",
+"short": "Legea nr. 458/2002",
+"code": null,
+"status": "repealed 2023-01-28",
+"versions": 8,
+"from": "2002-08-28",
+"latest": "2023-01-28",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/37723"
+},
+{
 "slug": "legea-460-2002",
 "path": "lege/2002/460",
 "kind": "lege",
@@ -34699,6 +34716,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/104194"
 },
 {
+"slug": "oug-109-2005",
+"path": "oug/2005/109",
+"kind": "oug",
+"year": "2005",
+"number": "109",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 109/2005",
+"short": "OUG nr. 109/2005",
+"code": null,
+"status": "in force",
+"versions": 15,
+"from": "2005-07-22",
+"latest": "2011-10-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/63482"
+},
+{
 "slug": "oug-111-2005",
 "path": "oug/2005/111",
 "kind": "oug",
@@ -35122,6 +35156,23 @@
 "from": "2006-02-27",
 "latest": "2018-05-14",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/69336"
+},
+{
+"slug": "oug-13-2006",
+"path": "oug/2006/13",
+"kind": "oug",
+"year": "2006",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 13/2006",
+"short": "OUG nr. 13/2006",
+"code": null,
+"status": "in force",
+"versions": 8,
+"from": "2006-02-27",
+"latest": "2012-11-24",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/143075"
 },
 {
 "slug": "oug-19-2006",
@@ -38131,6 +38182,23 @@
 "from": "2009-04-14",
 "latest": "2015-10-28",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/109290"
+},
+{
+"slug": "oug-35-2009",
+"path": "oug/2009/35",
+"kind": "oug",
+"year": "2009",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 35/2009",
+"short": "OUG nr. 35/2009",
+"code": null,
+"status": "in force",
+"versions": 2,
+"from": "2009-04-14",
+"latest": "2009-07-16",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/109905"
 },
 {
 "slug": "oug-36-2009",
