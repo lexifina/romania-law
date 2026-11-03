@@ -33998,6 +33998,21 @@
    ]
   },
   {
+   "slug": "legea-167-2017",
+   "path": "lege/2017/167",
+   "short": "Legea nr. 167/2017",
+   "title": "Legea nr. 167/2017 pentru modificarea și completarea Legii nr. 346/2006 privind organizarea și funcționarea Ministerului Apărării",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/191229",
+   "versions": [
+    {
+     "from": "2017-10-14",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/191229",
+     "sha256": "40451d0a05410959d618bf7ac9cc5d3c2645d9ab9f0aa36396b4a6fa259bf756"
+    }
+   ]
+  },
+  {
    "slug": "legea-168-1999",
    "path": "lege/1999/168",
    "short": "Legea nr. 168/1999",
@@ -44615,6 +44630,33 @@
    ]
   },
   {
+   "slug": "legea-30-1994",
+   "path": "lege/1994/30",
+   "short": "Legea nr. 30/1994",
+   "title": "Legea nr. 30/1994 privind ratificarea Convenției pentru apărarea drepturilor omului și a libertăților fundamentale și a protocoalelor adiționale la aceasta convenție",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/4043",
+   "versions": [
+    {
+     "from": "1994-05-31",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/4043",
+     "sha256": "ccf458349ceb700a3296f8cbf2fe1f16106fdf3da93c1d8b26ffeab661d956ce"
+    },
+    {
+     "from": "2004-07-29",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85274",
+     "sha256": "dddab1fc12d8a57f1c9d1de7f4a34d199c715e8e65d2d36de641edecb9b21eac"
+    },
+    {
+     "from": "2014-12-08",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/175188",
+     "sha256": "698528647cc280d8597923f7fa90346ad56eda89eccd13582c30003f33b0526b"
+    }
+   ]
+  },
+  {
    "slug": "legea-30-1996",
    "path": "lege/1996/30",
    "short": "Legea nr. 30/1996",
@@ -44854,6 +44896,51 @@
      "units": 96,
      "source_url": "https://legislatie.just.ro/public/detaliidocument/261415",
      "sha256": "07e0791e61acf57dc1281601f5d0c0f8df91b8135a8fe59d7d3eba5bb0f18cb1"
+    }
+   ]
+  },
+  {
+   "slug": "legea-307-2004",
+   "path": "lege/2004/307",
+   "short": "Legea nr. 307/2004",
+   "title": "Legea nr. 307/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/68166",
+   "versions": [
+    {
+     "from": "2004-07-30",
+     "units": 70,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/53131",
+     "sha256": "c220307c9ec18d12106dc955110995ab2ab62c5583ac505119a23f0c1755dd24"
+    },
+    {
+     "from": "2004-08-02",
+     "units": 70,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/68162",
+     "sha256": "7f4280e980408fda9f0605663a5458f3b83513c8d60542039e9ee056906eb538"
+    },
+    {
+     "from": "2004-09-01",
+     "units": 70,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/68163",
+     "sha256": "ec5786b88074483ef29771f4b62d2590a3fd36d839808029803ed70b6a094954"
+    },
+    {
+     "from": "2004-11-19",
+     "units": 70,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/68164",
+     "sha256": "51bf62120c8de5e048eac1aa4648466c8b4d083cb8a7c964d4c0cb080c932bd6"
+    },
+    {
+     "from": "2004-12-22",
+     "units": 70,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/68165",
+     "sha256": "5d34ab13af874c987c4f0d961a01d373b5f0cf75c7edd7b6920b392aec312b3a"
+    },
+    {
+     "from": "2005-03-31",
+     "units": 70,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/68167",
+     "sha256": "771d52027657854efe69ac9ed5e172254e5a35efc3402e73c9a9a2c309b903e3"
     }
    ]
   },

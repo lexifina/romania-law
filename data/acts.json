@@ -1515,6 +1515,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/3924"
 },
 {
+"slug": "legea-30-1994",
+"path": "lege/1994/30",
+"kind": "lege",
+"year": "1994",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 30/1994 privind ratificarea Convenției pentru apărarea drepturilor omului și a libertăților fundamentale și a protocoalelor adiționale la aceasta convenție",
+"short": "Legea nr. 30/1994",
+"code": null,
+"status": "in force",
+"versions": 3,
+"from": "1994-05-31",
+"latest": "2014-12-08",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/4043"
+},
+{
 "slug": "legea-31-1994",
 "path": "lege/1994/31",
 "kind": "lege",
@@ -8177,6 +8194,23 @@
 "from": "2004-09-27",
 "latest": "2022-12-16",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/64951"
+},
+{
+"slug": "legea-307-2004",
+"path": "lege/2004/307",
+"kind": "lege",
+"year": "2004",
+"number": "307",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 307/2004",
+"short": "Legea nr. 307/2004",
+"code": null,
+"status": "in force",
+"versions": 6,
+"from": "2004-07-30",
+"latest": "2005-03-31",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/68166"
 },
 {
 "slug": "legea-310-2004",
@@ -18411,6 +18445,23 @@
 "from": "2017-07-15",
 "latest": "2025-07-25",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/191165"
+},
+{
+"slug": "legea-167-2017",
+"path": "lege/2017/167",
+"kind": "lege",
+"year": "2017",
+"number": "167",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 167/2017 pentru modificarea și completarea Legii nr. 346/2006 privind organizarea și funcționarea Ministerului Apărării",
+"short": "Legea nr. 167/2017",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2017-10-14",
+"latest": "2017-10-14",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/191229"
 },
 {
 "slug": "legea-168-2017",

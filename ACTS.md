@@ -1,6 +1,6 @@
 # Every act in this repository
 
-8643 acts, 21,595 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+8646 acts, 21,605 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -32,7 +32,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (2046, of which 832 amending acts)
+## Laws (legi) (2049, of which 833 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -124,6 +124,7 @@
 | Legea nr. 10/1994 | [`lege/1994/10/`](lege/1994/10/) | in force | 1 | 1994-03-11 | 1994-03-11 |
 | Legea nr. 15/1994 | [`lege/1994/15/`](lege/1994/15/) | in force | 5 | 1994-03-29 | 2003-08-31 |
 | Legea nr. 16/1994 | [`lege/1994/16/`](lege/1994/16/) | in force | 6 | 1994-04-07 | 2006-06-11 |
+| Legea nr. 30/1994 privind ratificarea Convenției pentru apărarea drepturilor omului și a libertăților fundamentale și a protocoalelor adiționale la aceasta convenție | [`lege/1994/30/`](lege/1994/30/) | in force | 3 | 1994-05-31 | 2014-12-08 |
 | Legea nr. 31/1994 pentru aderarea României la Acordul european referitor la transportul rutier internațional al mărfurilor periculoase (A.D.R.), încheiat la Geneva la 30 septembrie 1957 | [`lege/1994/31/`](lege/1994/31/) | in force | 1 | 1994-05-31 | 1994-05-31 |
 | Legea nr. 32/1994 | [`lege/1994/32/`](lege/1994/32/) | in force | 7 | 1994-06-01 | 2018-09-03 |
 | Legea nr. 33/1994 privind exproprierea pentru cauză de utilitate publică | [`lege/1994/33/`](lege/1994/33/) | in force | 3 | 1994-06-02 | 2020-11-16 |
@@ -516,6 +517,7 @@
 | Legea nr. 302/2004 privind cooperarea judiciară internațională în materie penală | [`lege/2004/302/`](lege/2004/302/) | in force | 15 | 2004-08-30 | 2025-10-19 |
 | Legea nr. 303/2004 privind statutul judecătorilor și procurorilor | [`lege/2004/303/`](lege/2004/303/) | repealed 2022-12-16 | 39 | 2004-09-27 | 2022-12-16 |
 | Legea nr. 304/2004 privind organizarea judiciară | [`lege/2004/304/`](lege/2004/304/) | in force | 45 | 2004-09-27 | 2022-12-16 |
+| Legea nr. 307/2004 | [`lege/2004/307/`](lege/2004/307/) | in force | 6 | 2004-07-30 | 2005-03-31 |
 | Legea nr. 310/2004 | [`lege/2004/310/`](lege/2004/310/) | in force | 1 | 2004-08-29 | 2004-08-29 |
 | Legea nr. 311/2004 | [`lege/2004/311/`](lege/2004/311/) | in force | 1 | 2004-07-03 | 2004-07-03 |
 | Legea nr. 312/2004 | [`lege/2004/312/`](lege/2004/312/) | in force | 3 | 2004-07-30 | 2005-01-01 |
@@ -1118,6 +1120,7 @@
 | Legea nr. 154/2017 pentru modificarea și completarea Legii nr. 185/2013 privind amplasarea și autorizarea mijloacelor de publicitate | [`lege/2017/154/`](lege/2017/154/) | amending act | 1 | 2017-07-06 | 2017-07-06 |
 | Legea nr. 159/2017 privind aprobarea Ordonanței de urgență a Guvernului nr. 9/2016 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 195/2005 privind protecția mediului, precum și pentru modificarea art. 3 din Ordonanța de urgență a Guvernului nr. 32/2015 privind înființarea Gărzilor forestiere | [`lege/2017/159/`](lege/2017/159/) | amending act | 1 | 2017-07-07 | 2017-07-07 |
 | Legea nr. 162/2017 privind auditul statutar al situațiilor financiare anuale și al situațiilor financiare anuale consolidate și de modificare a unor acte normative | [`lege/2017/162/`](lege/2017/162/) | amending act | 8 | 2017-07-15 | 2025-07-25 |
+| Legea nr. 167/2017 pentru modificarea și completarea Legii nr. 346/2006 privind organizarea și funcționarea Ministerului Apărării | [`lege/2017/167/`](lege/2017/167/) | amending act | 1 | 2017-10-14 | 2017-10-14 |
 | Legea nr. 168/2017 privind instituirea zilei de 10 octombrie - Ziua națională a produselor agroalimentare românești | [`lege/2017/168/`](lege/2017/168/) | in force | 1 | 2017-07-16 | 2017-07-16 |
 | Legea nr. 169/2017 pentru modificarea și completarea Legii nr. 254/2013 privind executarea pedepselor și a măsurilor privative de libertate dispuse de organele judiciare în cursul procesului penal | [`lege/2017/169/`](lege/2017/169/) | amending act | 2 | 2017-07-21 | 2019-12-23 |
 | Legea nr. 170/2017 privind modificarea Legii nr. 145/2014 pentru stabilirea unor măsuri de reglementare a pieței produselor din sectorul agricol | [`lege/2017/170/`](lege/2017/170/) | amending act | 1 | 2017-07-21 | 2017-07-21 |
