@@ -1,6 +1,6 @@
 # Every act in this repository
 
-8924 acts, 22,025 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+8926 acts, 22,042 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -32,7 +32,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (2080, of which 847 amending acts)
+## Laws (legi) (2081, of which 847 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -69,6 +69,7 @@
 | Legea nr. 37/1991 | [`lege/1991/37/`](lege/1991/37/) | in force | 1 | 1991-05-30 | 1991-05-30 |
 | Legea nr. 38/1991 pentru ratificarea Acordului privind promovarea și protejarea reciprocă a investițiilor dintre Guvernul României și Guvernul Republicii Orientale a Uruguayului | [`lege/1991/38/`](lege/1991/38/) | in force | 1 | 1991-06-06 | 1991-06-06 |
 | Legea nr. 39/1991 | [`lege/1991/39/`](lege/1991/39/) | in force | 1 | 1991-06-06 | 1991-06-06 |
+| Legea nr. 40/1991 | [`lege/1991/40/`](lege/1991/40/) | in force | 5 | 1991-06-07 | 2010-01-01 |
 | Legea nr. 44/1991 | [`lege/1991/44/`](lege/1991/44/) | in force | 1 | 1991-07-11 | 1991-07-11 |
 | Legea nr. 49/1991 | [`lege/1991/49/`](lege/1991/49/) | in force | 16 | 1991-08-01 | 2022-12-09 |
 | Legea nr. 50/1991 privind autorizarea executării lucrărilor de construcții | [`lege/1991/50/`](lege/1991/50/) | in force | 63 | 1997-01-13 | 2026-03-27 |
@@ -3648,7 +3649,7 @@
 | Ordonanța de urgență a Guvernului nr. 30/2026 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 23/2004 privind stabilirea unor măsuri de reorganizare a Autorităţii pentru Valorificarea Activelor Bancare prin comasarea prin absorbţie cu Autoritatea pentru Privatizare şi Administrarea Participaţiilor Statului | [`oug/2026/30/`](oug/2026/30/) | amending act | 1 | 2026-04-21 | 2026-04-21 |
 | Ordonanța de urgență a Guvernului nr. 33/2026 pentru modificarea şi completarea Legii educaţiei fizice şi sportului nr. 69/2000 | [`oug/2026/33/`](oug/2026/33/) | amending act | 1 | 2026-04-27 | 2026-04-27 |
 
-## Ordinances (OG) (469, of which 92 amending acts)
+## Ordinances (OG) (470, of which 92 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -3809,6 +3810,7 @@
 | Ordonanța Guvernului nr. 61/2002 | [`og/2002/61/`](og/2002/61/) | repealed 2004-01-01 | 6 | 2003-01-01 | 2004-01-01 |
 | Ordonanța Guvernului nr. 63/2002 | [`og/2002/63/`](og/2002/63/) | in force | 4 | 2002-08-30 | 2007-10-26 |
 | Ordonanța Guvernului nr. 67/2002 | [`og/2002/67/`](og/2002/67/) | in force | 3 | 2002-08-31 | 2003-01-23 |
+| Ordonanța Guvernului nr. 69/2002 | [`og/2002/69/`](og/2002/69/) | in force | 12 | 2002-08-31 | 2023-02-03 |
 | Ordonanța Guvernului nr. 70/2002 | [`og/2002/70/`](og/2002/70/) | in force | 15 | 2002-10-01 | 2017-12-06 |
 | Ordonanța Guvernului nr. 71/2002 | [`og/2002/71/`](og/2002/71/) | in force | 6 | 2002-09-30 | 2023-12-11 |
 | Ordonanța Guvernului nr. 73/2002 | [`og/2002/73/`](og/2002/73/) | in force | 3 | 2002-11-29 | 2004-04-29 |

@@ -49799,6 +49799,45 @@
    ]
   },
   {
+   "slug": "legea-40-1991",
+   "path": "lege/1991/40",
+   "short": "Legea nr. 40/1991",
+   "title": "Legea nr. 40/1991",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/115560",
+   "versions": [
+    {
+     "from": "1991-06-07",
+     "units": 40,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/1497",
+     "sha256": "804e5a292d9c6c62cec92b6a9081f1a94b3dd06532e23f03d5ea607de1bcaaad"
+    },
+    {
+     "from": "1993-07-14",
+     "units": 43,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/1501",
+     "sha256": "6aa944729241d9440035e3c72aaadf97efbfab291f12aee7d3974a2dcbc3bfb9"
+    },
+    {
+     "from": "1994-09-01",
+     "units": 43,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/89094",
+     "sha256": "aa176ba0046bfcd6e9a5b394952233621495ce342f10d9924373a018cd888b15"
+    },
+    {
+     "from": "1998-07-16",
+     "units": 37,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/89095",
+     "sha256": "3d2d481df8ee726c6723f92acfbffe82a3e1ba227230b085e24a99bced033e57"
+    },
+    {
+     "from": "2010-01-01",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/115560",
+     "sha256": "f17bb6c858e58309622a9c518590981832f0b543f3e5afff5ca7bdc0d911d39c"
+    }
+   ]
+  },
+  {
    "slug": "legea-40-2025",
    "path": "lege/2025/40",
    "short": "Legea nr. 40/2025",
@@ -68239,6 +68278,87 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/30383",
      "sha256": "0635e004a7fe3309b58e85c958848ac2db16039a40fc9ed71a9eacac38a7adb3"
+    }
+   ]
+  },
+  {
+   "slug": "og-69-2002",
+   "path": "og/2002/69",
+   "short": "OG nr. 69/2002",
+   "title": "Ordonanța Guvernului nr. 69/2002",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/38229",
+   "versions": [
+    {
+     "from": "2002-08-31",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/38229",
+     "sha256": "5b2b5434ad30a2b8beb725cafa1276c6a047bf7115deee835c248e0d2d48f45b"
+    },
+    {
+     "from": "2004-01-13",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49090",
+     "sha256": "b55cbbc86d570022a5928275ca6bce2599852dbcd121df7a2672488ac4e2e6d1"
+    },
+    {
+     "from": "2004-01-31",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49740",
+     "sha256": "1ac0b994c8c5b07526b6aa19098a69ef2c6a325949610b54b8007ea61cddb2ea"
+    },
+    {
+     "from": "2004-09-15",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/55158",
+     "sha256": "25222cf9669c0e6b7317385f0167d0da342d2a4d90e85f84d090d79112012954"
+    },
+    {
+     "from": "2005-12-29",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/68421",
+     "sha256": "e87f4afa5a4caf450853fcc945428924b6752f9e219548cfeafdea4bd1077c02"
+    },
+    {
+     "from": "2008-12-02",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/136119",
+     "sha256": "ba736598f8af9077037766ac52fc5a4d25fa618c10b068bed2170996927cf908"
+    },
+    {
+     "from": "2010-12-30",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/136120",
+     "sha256": "e43c56142d9f1fe666f70205445368af4a4ce8b0453a7283dc1c4cc432b601a1"
+    },
+    {
+     "from": "2012-12-12",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/143836",
+     "sha256": "0e19794c1398ca29dbe69ed8540c378cea6a659314e77c7cdaf99ecc86b43f7a"
+    },
+    {
+     "from": "2013-07-22",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/150050",
+     "sha256": "c570e4bbb534eb1e6b529c7075b63839fb4208f59ea4e29673d15d5866215ddd"
+    },
+    {
+     "from": "2020-08-07",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/228245",
+     "sha256": "eddc8221acbc7b423b6aa45985a0cd8d2ac9986773a187fdea41ff822bdea7bc"
+    },
+    {
+     "from": "2022-07-28",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/257229",
+     "sha256": "03dd85687e8cda9d1062407224288a203c3cff95ce899252d7ca976f6c442dc5"
+    },
+    {
+     "from": "2023-02-03",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/264150",
+     "sha256": "9e608b60792bec8fc32c027ce1745e0459064156e0379266ae10b59cffaf1774"
     }
    ]
   },
