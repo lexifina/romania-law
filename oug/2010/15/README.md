@@ -15,3 +15,9 @@ Act id: `oug-15-2010` (tags `oug-15-2010/<day>`; `python tools/on.py <day> oug-1
 - OUG nr. 15/2010: added by Lexifina's automatic pass with the default rules: the forms are those the portal lists, each version is dated by its form or by the notes it prints, and no rule or ruling made for this act alone was applied. It was published only because every automatic check passed: two parses identical, the newest form read afresh equal to the latest version article by article, every article a form leaves out settled by the standing rules, every version dated by a rule or a stated in-force day, and no unexplained change other than diacritics or spacing.
 - OUG nr. 15/2010: the first version is the emergency ordinance as published in Monitorul Oficial nr. 192 of 26 March 2010 (DetaliiDocumentAfis/117439), dated 26 March 2010: an emergency ordinance with no day of its own, in force on publication (Constituția art. 115 alin. (5); Legea nr. 24/2000 art. 12 alin. (2)). The portal holds no consolidated form before 23 July 2010, so the changes made up to then arrive together that day.
 - OUG nr. 15/2010: the emergency ordinance has a single article ("Articol unic"), filed as art-001.
+
+## Credits corrected
+
+These changes were first published credited to another law. The words are unchanged; `git blame` still names the commit that wrote them, and `data/credits.csv` lists every corrected credit.
+
+- `art-001.md`, in force from 2010-07-23: Legea nr. 167/2010 (first published as no law named).
