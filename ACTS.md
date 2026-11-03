@@ -1,6 +1,6 @@
 # Every act in this repository
 
-17965 acts, 31,591 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+17974 acts, 31,600 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (2987, of which 1568 amending acts)
+## Laws (legi) (2988, of which 1569 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -1133,6 +1133,7 @@
 | Legea nr. 52/2015 | [`lege/2015/52/`](lege/2015/52/) | in force | 3 | 2015-03-23 | 2020-06-12 |
 | Legea nr. 70/2015 | [`lege/2015/70/`](lege/2015/70/) | in force | 8 | 2015-04-12 | 2026-01-01 |
 | Legea nr. 71/2015 | [`lege/2015/71/`](lege/2015/71/) | in force | 2 | 2015-04-09 | 2017-07-01 |
+| Legea nr. 72/2015 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 71/2014 privind modificarea art. X alin. (2) din Ordonanţa de urgenţă a Guvernului nr. 65/2014 pentru modificarea şi completarea unor acte normative | [`lege/2015/72/`](lege/2015/72/) | amending act | 1 | 2015-04-10 | 2015-04-10 |
 | Legea nr. 74/2015 privind administratorii de fonduri de investiții alternative | [`lege/2015/74/`](lege/2015/74/) | in force | 9 | 2015-05-23 | 2026-01-16 |
 | Legea nr. 75/2015 privind aprobarea Ordonanţei Guvernului nr. 14/2014 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 88/1997 privind privatizarea societăţilor | [`lege/2015/75/`](lege/2015/75/) | amending act | 1 | 2015-04-18 | 2015-04-18 |
 | Legea nr. 80/2015 pentru modificarea art. 4 alin. (2) din Legea nr. 226/2011 privind reparaţiile morale şi materiale pentru fostele cadre militare active, îndepărtate abuziv din armată în perioada 23 august 1944-31 decembrie 1961 | [`lege/2015/80/`](lege/2015/80/) | amending act | 1 | 2015-04-23 | 2015-04-23 |
@@ -5222,7 +5223,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (12752, of which 6306 amending acts)
+## Government decisions (HG) (12760, of which 6311 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -8720,7 +8721,15 @@
 | Hotărârea Guvernului nr. 209/2015 | [`hg/2015/209/`](hg/2015/209/) | in force | 1 | 2015-04-23 | 2015-04-23 |
 | Hotărârea Guvernului nr. 218/2015 | [`hg/2015/218/`](hg/2015/218/) | in force | 1 | 2015-04-09 | 2015-04-09 |
 | Hotărârea Guvernului nr. 226/2015 | [`hg/2015/226/`](hg/2015/226/) | in force | 9 | 2015-04-06 | 2024-05-28 |
+| Hotărârea Guvernului nr. 229/2015 pentru aprobarea Memorandumului de înţelegere dintre Oficiul Naţional de Prevenire şi Combatere a Spălării Banilor din România şi Ministerul de Finanţe din Republica Kazahstan privind cooperarea în domeniul schimbului de informaţii financiare având legătură cu spălarea banilor şi finanţarea terorismului, semnat la Bucureşti la 25 septembrie 2014 şi la Astana la 29 octombrie 2014 | [`hg/2015/229/`](hg/2015/229/) | amending act | 1 | 2015-04-08 | 2015-04-08 |
+| Hotărârea Guvernului nr. 230/2015 privind aprobarea bugetului de venituri şi cheltuieli pe anul 2015 al Regiei Autonome "Administraţia Fluvială a Dunării de Jos" Galaţi, aflată sub autoritatea Ministerului Transporturilor | [`hg/2015/230/`](hg/2015/230/) | amending act | 1 | 2015-04-09 | 2015-04-09 |
+| Hotărârea Guvernului nr. 231/2015 pentru modificarea şi completarea unor anexe la Hotărârea Guvernului nr. 978/2002 privind atestarea domeniului public al judeţului Sibiu, precum şi al municipiilor, oraşelor şi comunelor din judeţul Sibiu | [`hg/2015/231/`](hg/2015/231/) | amending act | 1 | 2015-04-22 | 2015-04-22 |
+| Hotărârea Guvernului nr. 232/2015 privind abrogarea Hotărârii Guvernului nr. 313/2009 pentru aprobarea Listei cuprinzând documentele de trecere a frontierei de stat acceptate de statul român | [`hg/2015/232/`](hg/2015/232/) | amending act | 1 | 2015-04-08 | 2015-04-08 |
+| Hotărârea Guvernului nr. 233/2015 pentru aprobarea Acordului dintre Ministerul Apărării Naţionale din România şi Ministerul Federal al Apărării al Republicii Federale Germania privind cooperarea militară în domeniul pregătirii, semnat la Berlin la 24 septembrie 2014 | [`hg/2015/233/`](hg/2015/233/) | amending act | 1 | 2015-04-08 | 2015-04-08 |
 | Hotărârea Guvernului nr. 234/2015 | [`hg/2015/234/`](hg/2015/234/) | in force | 1 | 2015-04-14 | 2015-04-14 |
+| Hotărârea Guvernului nr. 235/2015 privind suplimentarea bugetului Curţii Constituţionale pentru plata titlurilor executorii corespunzătoare primelor două tranşe aferente anului 2016 | [`hg/2015/235/`](hg/2015/235/) | in force | 1 | 2015-04-08 | 2015-04-08 |
+| Hotărârea Guvernului nr. 238/2015 privind suplimentarea bugetului Ministerului Culturii din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2015, pentru finanţarea unui proiect cultural | [`hg/2015/238/`](hg/2015/238/) | in force | 1 | 2015-04-08 | 2015-04-08 |
+| Hotărârea Guvernului nr. 240/2015 privind suplimentarea bugetului Ministerului Agriculturii şi Dezvoltării Rurale pe anul 2015, la titlul 10 "Cheltuieli de personal" şi titlul 51 "Transferuri între unităţi ale administraţiei publice", pentru plata titlurilor executorii corespunzătoare primelor două tranşe aferente anului 2016 | [`hg/2015/240/`](hg/2015/240/) | in force | 1 | 2015-04-10 | 2015-04-10 |
 | Hotărârea Guvernului nr. 241/2015 privind aprobarea bugetului de venituri şi cheltuieli pe anul 2015 pentru Societatea Naţională de Închideri Mine Valea Jiului - S.A., aflată sub autoritatea Ministerului Energiei, Întreprinderilor Mici şi Mijlocii şi Mediului de Afaceri | [`hg/2015/241/`](hg/2015/241/) | amending act | 1 | 2015-04-10 | 2015-04-10 |
 | Hotărârea Guvernului nr. 242/2015 pentru aprobarea amendamentului convenit între Guvernul României şi Banca de Dezvoltare a Consiliului Europei prin schimb de scrisori semnate la Bucureşti la 12 decembrie 2014 şi la Paris la 15 decembrie 2014 la Acordul-cadru de împrumut dintre România şi Banca de Dezvoltare a Consiliului Europei, semnat la Bucureşti la 27 decembrie 2005 şi la Paris la 10 ianuarie 2006 | [`hg/2015/242/`](hg/2015/242/) | amending act | 1 | 2015-04-14 | 2015-04-14 |
 | Hotărârea Guvernului nr. 243/2015 pentru modificarea şi completarea anexei nr. 64 la Hotărârea Guvernului nr. 934/2002 privind atestarea domeniului public al judeţului Maramureş, precum şi al municipiilor, oraşelor şi comunelor din judeţul Maramureş | [`hg/2015/243/`](hg/2015/243/) | amending act | 1 | 2015-04-17 | 2015-04-17 |
