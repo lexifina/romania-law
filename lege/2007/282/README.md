@@ -1,0 +1,27 @@
+# Legea nr. 282/2007
+
+Legea nr. 282/2007 · 1 versions, from 2007-11-09 (latest in force: 2007-11-09) · <https://legislatie.just.ro/Public/DetaliiDocument/86674>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Art. 1 | [art-001.md](art-001.md) | 0 |  |
+| Art. 2 | [art-002.md](art-002.md) | 0 |  |
+| Art. 3 | [art-003.md](art-003.md) | 0 |  |
+| Art. 4 | [art-004.md](art-004.md) | 0 |  |
+| Art. 5 | [art-005.md](art-005.md) | 0 |  |
+| Art. 6 | [art-006.md](art-006.md) | 0 |  |
+| Art. 7 | [art-007.md](art-007.md) | 0 |  |
+| Art. 8 | [art-008.md](art-008.md) | 0 |  |
+| Art. 9 | [art-009.md](art-009.md) | 0 |  |
+| Art. 10 | [art-010.md](art-010.md) | 0 |  |
+| Art. 11 | [art-011.md](art-011.md) | 0 |  |
+
+Act id: `legea-282-2007` (tags `legea-282-2007/<day>`; `python tools/on.py <day> legea-282-2007`).
+
+## Decisions made by hand
+
+- Legea nr. 282/2007: added 2026-11-02, one of the Portalul legislativ's consolidated forms per version, as for the other acts. A capture was used only if it was complete and the page showed the form its document id stands for. The forms are those listed by DetaliiDocument/86674 as captured on 2025-12-15, the newest capture of any of the act's pages: 0 forms, 0 held.
+- Legea nr. 282/2007: the newest form held is that of 09.11.2007; amendments in force after it may be missing.
+- Legea nr. 282/2007: added by Lexifina's automatic pass with the default rules: the forms are those the portal lists, each version is dated by its form or by the notes it prints, and no rule or ruling made for this act alone was applied. It was published only because every automatic check passed: two parses identical, the newest form read afresh equal to the latest version article by article, every article a form leaves out settled by the standing rules, every version dated by a rule or a stated in-force day, and no unexplained change other than diacritics or spacing.
+- Legea nr. 282/2007: the first version is the law as published in Monitorul Oficial nr. 752 of 6 November 2007 (DetaliiDocumentAfis/86674), dated 9 November 2007: it sets no day of its own, so in force 3 days after publication (Constituția art. 78). The portal lists no consolidated form of it, so the text as published is its only version; the act page (DetaliiDocument/86674) prints the same text.
+- Legea nr. 282/2007: the portal editorial notes printed as paragraphs of an article (on a Constitutional Court ruling, a rectification, a provision put back in force) are not text: 71 such paragraphs across all forms, for example «* articolul 10 - Autoritățile administrative și serviciile p», «* articolul 11 - Mijloace de comunicare:», «* articolul 12 - Activități și facilități culturale:».
