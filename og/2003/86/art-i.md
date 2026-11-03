@@ -11,6 +11,6 @@ Ordonanța Guvernului nr. 75/2001 privind organizarea și funcționarea cazierul
 5. Alineatele (2)-(4) ale articolului 9 vor avea următorul cuprins:
 "(2) Eliberarea certificatului de cazier fiscal se face în termen de 10 zile lucrătoare de la data solicitării eliberării.
 (3) Pentru eliberarea certificatului de cazier fiscal se percepe o taxa în suma de 50.000 lei.
-(4) La cerere, pentru situații de urgenta, certificatul de cazier fiscal poate fi eliberat în 5 zile lucrătoare, cu plata unei taxe în suma de 200.000 lei."
+(4) La cerere, pentru situații de urgență, certificatul de cazier fiscal poate fi eliberat în 5 zile lucrătoare, cu plata unei taxe în suma de 200.000 lei."
 6. După alineatul (4) al articolului 9 se introduce un nou alineat, alineatul (5), cu următorul cuprins:
 "(5) Taxele prevăzute la alin. (3) și (4) se fac venit la bugetul de stat."
