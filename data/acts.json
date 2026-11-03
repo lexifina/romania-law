@@ -1073,6 +1073,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/2384"
 },
 {
+"slug": "legea-105-1992",
+"path": "lege/1992/105",
+"kind": "lege",
+"year": "1992",
+"number": "105",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 105/1992",
+"short": "Legea nr. 105/1992",
+"code": null,
+"status": "repealed 2013-02-15",
+"versions": 5,
+"from": "1992-11-30",
+"latest": "2013-02-15",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/2389"
+},
+{
 "slug": "legea-107-1992",
 "path": "lege/1992/107",
 "kind": "lege",
@@ -29123,6 +29140,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/282659"
 },
 {
+"slug": "legea-138-2024",
+"path": "lege/2024/138",
+"kind": "lege",
+"year": "2024",
+"number": "138",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 138/2024 privind aprobarea Ordonanţei Guvernului nr. 28/2023 pentru stabilirea unor măsuri necesare optimizării procesului de implementare a proiectelor finanţate din fonduri externe nerambursabile",
+"short": "Legea nr. 138/2024",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2024-05-18",
+"latest": "2024-05-18",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/282711"
+},
+{
 "slug": "legea-139-2024",
 "path": "lege/2024/139",
 "kind": "lege",
@@ -56644,6 +56678,23 @@
 "from": "2024-05-14",
 "latest": "2024-12-05",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/291548"
+},
+{
+"slug": "oug-48-2024",
+"path": "oug/2024/48",
+"kind": "oug",
+"year": "2024",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 48/2024 pentru modificarea art. 34 alin. (4) din Ordonanţa de urgenţă a Guvernului nr. 57/2015 privind salarizarea personalului plătit din fonduri publice în anul 2016, prorogarea unor termene, precum şi unele măsuri fiscal-bugetare",
+"short": "OUG nr. 48/2024",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2024-05-16",
+"latest": "2024-05-16",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/282966"
 },
 {
 "slug": "oug-52-2024",

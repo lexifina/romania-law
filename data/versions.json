@@ -27095,6 +27095,45 @@
    ]
   },
   {
+   "slug": "legea-105-1992",
+   "path": "lege/1992/105",
+   "short": "Legea nr. 105/1992",
+   "title": "Legea nr. 105/1992",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2389",
+   "versions": [
+    {
+     "from": "1992-11-30",
+     "units": 183,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/2389",
+     "sha256": "abf4c4c191b38dfc0f2a1dffce9586b559247f08e86420801fff634ff2475b57"
+    },
+    {
+     "from": "1993-10-26",
+     "units": 183,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/71029",
+     "sha256": "65281588369912e2d845d454c7b761b49b5de6e2b32235ad48e3c8aab3ea435e"
+    },
+    {
+     "from": "2010-11-25",
+     "units": 183,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/123234",
+     "sha256": "af0fe0d9f62f38e1a12faae5919a53d9d3fa0ced111f995f5af0b3dfd27eaffe"
+    },
+    {
+     "from": "2011-10-01",
+     "units": 183,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132042",
+     "sha256": "aa8d9b964dcdbcf669c00e7d7c54d2954fdc513ab2d07a459617c6cd3535cd99"
+    },
+    {
+     "from": "2013-02-15",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/138484",
+     "sha256": "c4e5cbd9387ffa6db085e9dc4d594d297174af387cca86d7540140d938119b94"
+    }
+   ]
+  },
+  {
    "slug": "legea-105-1996",
    "path": "lege/1996/105",
    "short": "Legea nr. 105/1996",
@@ -147629,6 +147668,21 @@
    ]
   },
   {
+   "slug": "legea-138-2024",
+   "path": "lege/2024/138",
+   "short": "Legea nr. 138/2024",
+   "title": "Legea nr. 138/2024 privind aprobarea Ordonanţei Guvernului nr. 28/2023 pentru stabilirea unor măsuri necesare optimizării procesului de implementare a proiectelor finanţate din fonduri externe nerambursabile",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/282711",
+   "versions": [
+    {
+     "from": "2024-05-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/282711",
+     "sha256": "e8678064a6b1437dfe484f34584c085e6abf9efd90e6549f1e58514d8cd2d884"
+    }
+   ]
+  },
+  {
    "slug": "legea-139-2014",
    "path": "lege/2014/139",
    "short": "Legea nr. 139/2014",
@@ -187471,6 +187525,21 @@
      "units": 9,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/254224",
      "sha256": "b5d9cf389b1cf00439d680ec35b80fadeb21cadbc3cd6150899a91b6d2114238"
+    }
+   ]
+  },
+  {
+   "slug": "oug-48-2024",
+   "path": "oug/2024/48",
+   "short": "OUG nr. 48/2024",
+   "title": "Ordonanța de urgență a Guvernului nr. 48/2024 pentru modificarea art. 34 alin. (4) din Ordonanţa de urgenţă a Guvernului nr. 57/2015 privind salarizarea personalului plătit din fonduri publice în anul 2016, prorogarea unor termene, precum şi unele măsuri fiscal-bugetare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/282966",
+   "versions": [
+    {
+     "from": "2024-05-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/282966",
+     "sha256": "92504c60236aab2f881a6cbf5726bd4205ea100c47e5040f77a991272e40f2e8"
     }
    ]
   },

@@ -1,6 +1,6 @@
 # Every act in this repository
 
-8009 acts, 20,765 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+8012 acts, 20,772 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -32,7 +32,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (1920, of which 742 amending acts)
+## Laws (legi) (1922, of which 743 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -98,6 +98,7 @@
 | Legea nr. 95/1992 | [`lege/1992/95/`](lege/1992/95/) | in force | 1 | 1992-09-24 | 1992-09-24 |
 | Legea nr. 102/1992 | [`lege/1992/102/`](lege/1992/102/) | in force | 2 | 1992-09-24 | 2016-07-22 |
 | Legea nr. 103/1992 | [`lege/1992/103/`](lege/1992/103/) | in force | 5 | 1992-10-01 | 2001-01-29 |
+| Legea nr. 105/1992 | [`lege/1992/105/`](lege/1992/105/) | repealed 2013-02-15 | 5 | 1992-11-30 | 2013-02-15 |
 | Legea nr. 107/1992 pentru aderarea României la Convenția internationala privind standardele de pregătire a navigatorilor, brevetare/atestare și efectuare a serviciului de cart, adoptată la Londra la 7 iulie 1978 (STCW 1978) | [`lege/1992/107/`](lege/1992/107/) | in force | 3 | 1992-10-15 | 2016-01-01 |
 | Legea nr. 118/1992 | [`lege/1992/118/`](lege/1992/118/) | in force | 1 | 1992-12-30 | 1992-12-30 |
 | Legea nr. 129/1992 privind protecția desenelor și modelelor industriale | [`lege/1992/129/`](lege/1992/129/) | in force | 10 | 2003-01-06 | 2024-05-09 |
@@ -1748,6 +1749,7 @@
 | Legea nr. 123/2024 pentru modificarea și completarea Legii nr. 272/2004 privind protecția și promovarea drepturilor copilului | [`lege/2024/123/`](lege/2024/123/) | amending act | 1 | 2024-05-10 | 2024-05-10 |
 | Legea nr. 126/2024 privind unele măsuri pentru consolidarea capacității de combatere a evaziunii fiscale, precum și pentru modificarea și completarea unor acte normative | [`lege/2024/126/`](lege/2024/126/) | amending act | 1 | 2024-05-16 | 2024-05-16 |
 | Legea nr. 127/2024 pentru aprobarea Ordonanței de urgență a Guvernului nr. 5/2015 privind deșeurile de echipamente electrice și electronice | [`lege/2024/127/`](lege/2024/127/) | amending act | 1 | 2024-05-17 | 2024-05-17 |
+| Legea nr. 138/2024 privind aprobarea Ordonanţei Guvernului nr. 28/2023 pentru stabilirea unor măsuri necesare optimizării procesului de implementare a proiectelor finanţate din fonduri externe nerambursabile | [`lege/2024/138/`](lege/2024/138/) | amending act | 1 | 2024-05-18 | 2024-05-18 |
 | Legea nr. 139/2024 pentru modificarea art. 331 alin. (1) din Legea nr. 134/2010 privind Codul de procedură civilă | [`lege/2024/139/`](lege/2024/139/) | amending act | 1 | 2024-05-18 | 2024-05-18 |
 | Legea nr. 144/2024 pentru ratificarea Acordului dintre Guvernul României şi Guvernul Emiratelor Arabe Unite privind cooperarea în domeniul militar, semnat la Abu Dhabi la 22 iunie 2022 | [`lege/2024/144/`](lege/2024/144/) | in force | 1 | 2024-05-24 | 2024-05-24 |
 | Legea nr. 150/2024 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 120/2023 privind stabilirea cadrului financiar general pentru utilizarea celei de-a doua contribuţii financiare elveţiene nerambursabile acordate României prin intermediul Programului de cooperare elveţiano-român vizând reducerea disparităţilor economice şi sociale în cadrul Uniunii Europene, precum şi a contribuţiei naţionale aferente acestei asistenţe | [`lege/2024/150/`](lege/2024/150/) | amending act | 1 | 2024-06-01 | 2024-06-01 |
@@ -1957,7 +1959,7 @@
 | Legea nr. 241/2025 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 31/2002 privind interzicerea organizațiilor, simbolurilor și faptelor cu caracter fascist, legionar, rasist sau xenofob și a promovării cultului persoanelor vinovate de săvârșirea unor infracțiuni de genocid contra umanității și de crime de război, precum și pentru modificarea Legii nr. 157/2018 privind unele măsuri pentru prevenirea și combaterea antisemitismului | [`lege/2025/241/`](lege/2025/241/) | amending act | 1 | 2025-12-27 | 2025-12-27 |
 | Legea nr. 245/2025 pentru modificarea art. 32 alin. (7) din Legea nr. 273/2006 privind finanțele publice locale | [`lege/2025/245/`](lege/2025/245/) | amending act | 1 | 2026-01-01 | 2026-01-01 |
 
-## Emergency ordinances (OUG) (1508, of which 525 amending acts)
+## Emergency ordinances (OUG) (1509, of which 526 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -3372,6 +3374,7 @@
 | Ordonanța de urgență a Guvernului nr. 38/2024 pentru modificarea și completarea Legii nr. 111/2022 privind reglementarea activității prestatorului casnic | [`oug/2024/38/`](oug/2024/38/) | amending act | 1 | 2024-04-25 | 2024-04-25 |
 | Ordonanța de urgență a Guvernului nr. 43/2024 pentru modificarea și completarea unor acte normative | [`oug/2024/43/`](oug/2024/43/) | amending act | 1 | 2024-04-30 | 2024-04-30 |
 | Ordonanța de urgență a Guvernului nr. 46/2024 privind unele măsuri bugetare și pentru modificarea și completarea unor acte normative | [`oug/2024/46/`](oug/2024/46/) | amending act | 2 | 2024-05-14 | 2024-12-05 |
+| Ordonanța de urgență a Guvernului nr. 48/2024 pentru modificarea art. 34 alin. (4) din Ordonanţa de urgenţă a Guvernului nr. 57/2015 privind salarizarea personalului plătit din fonduri publice în anul 2016, prorogarea unor termene, precum şi unele măsuri fiscal-bugetare | [`oug/2024/48/`](oug/2024/48/) | amending act | 1 | 2024-05-16 | 2024-05-16 |
 | Ordonanța de urgență a Guvernului nr. 52/2024 pentru modificarea și abrogarea unor prevederi din acte normative în domeniul achizițiilor publice și achizițiilor sectoriale | [`oug/2024/52/`](oug/2024/52/) | amending act | 1 | 2024-05-24 | 2024-05-24 |
 | Ordonanța de urgență a Guvernului nr. 53/2024 privind măsuri referitoare la salarizarea personalului din unele sectoare de activitate bugetară, precum și reglementarea unor aspecte organizatorice | [`oug/2024/53/`](oug/2024/53/) | in force | 1 | 2024-05-24 | 2024-05-24 |
 | Ordonanța de urgență a Guvernului nr. 55/2024 pentru modificarea şi completarea Legii nr. 255/2010 privind exproprierea pentru cauză de utilitate publică, necesară realizării unor obiective de interes naţional, judeţean şi local | [`oug/2024/55/`](oug/2024/55/) | amending act | 1 | 2024-05-30 | 2024-05-30 |
