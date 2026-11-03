@@ -1,6 +1,6 @@
 # Every act in this repository
 
-6592 acts, 19,118 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+6593 acts, 19,122 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -3783,7 +3783,7 @@
 | Ordonanța Guvernului nr. 21/2025 pentru modificarea și completarea Legii nr. 431/2023 privind asigurarea unui nivel minim global de impozitare a grupurilor de întreprinderi multinaționale și a grupurilor naționale de mari dimensiuni | [`og/2025/21/`](og/2025/21/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 | Ordonanța Guvernului nr. 22/2025 pentru modificarea și completarea Legii nr. 227/2015 privind Codul fiscal | [`og/2025/22/`](og/2025/22/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 
-## Government decisions (HG) (2817, of which 929 amending acts)
+## Government decisions (HG) (2818, of which 929 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -4059,6 +4059,7 @@
 | Hotărârea Guvernului nr. 59/2003 | [`hg/2003/59/`](hg/2003/59/) | in force | 2 | 2003-02-06 | 2004-05-26 |
 | Hotărârea Guvernului nr. 77/2003 privind instituirea unor măsuri pentru prevenirea accidentelor montane și organizarea activității de salvare în munți | [`hg/2003/77/`](hg/2003/77/) | in force | 1 | 2003-05-14 | 2003-05-14 |
 | Hotărârea Guvernului nr. 85/2003 | [`hg/2003/85/`](hg/2003/85/) | in force | 2 | 2003-02-01 | 2004-07-12 |
+| Hotărârea Guvernului nr. 88/2003 | [`hg/2003/88/`](hg/2003/88/) | repealed 2015-04-25 | 4 | 2003-02-14 | 2015-04-25 |
 | Hotărârea Guvernului nr. 90/2003 | [`hg/2003/90/`](hg/2003/90/) | repealed 2017-11-23 | 3 | 2003-02-07 | 2017-11-23 |
 | Hotărârea Guvernului nr. 92/2003 | [`hg/2003/92/`](hg/2003/92/) | in force | 1 | 2003-02-25 | 2003-02-25 |
 | Hotărârea Guvernului nr. 133/2003 pentru modificarea Hotărârii Guvernului nr. 521/1998 privind înființarea Societății Naționale "Aeroportul Internațional Timișoara" - S.A. | [`hg/2003/133/`](hg/2003/133/) | amending act | 1 | 2003-02-14 | 2003-02-14 |

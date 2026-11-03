@@ -68155,6 +68155,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/65818"
 },
 {
+"slug": "hg-88-2003",
+"path": "hg/2003/88",
+"kind": "hg",
+"year": "2003",
+"number": "88",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 88/2003",
+"short": "HG nr. 88/2003",
+"code": null,
+"status": "repealed 2015-04-25",
+"versions": 4,
+"from": "2003-02-14",
+"latest": "2015-04-25",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/41807"
+},
+{
 "slug": "hg-90-2003",
 "path": "hg/2003/90",
 "kind": "hg",
