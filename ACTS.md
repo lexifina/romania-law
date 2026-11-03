@@ -1,6 +1,6 @@
 # Every act in this repository
 
-5886 acts, 16,555 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+5889 acts, 16,562 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -1749,7 +1749,7 @@
 | Legea nr. 241/2025 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 31/2002 privind interzicerea organizațiilor, simbolurilor și faptelor cu caracter fascist, legionar, rasist sau xenofob și a promovării cultului persoanelor vinovate de săvârșirea unor infracțiuni de genocid contra umanității și de crime de război, precum și pentru modificarea Legii nr. 157/2018 privind unele măsuri pentru prevenirea și combaterea antisemitismului | [`lege/2025/241/`](lege/2025/241/) | amending act | 1 | 2025-12-27 | 2025-12-27 |
 | Legea nr. 245/2025 pentru modificarea art. 32 alin. (7) din Legea nr. 273/2006 privind finanțele publice locale | [`lege/2025/245/`](lege/2025/245/) | amending act | 1 | 2026-01-01 | 2026-01-01 |
 
-## Emergency ordinances (OUG) (1422, of which 513 amending acts)
+## Emergency ordinances (OUG) (1424, of which 515 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -2661,6 +2661,7 @@
 | Ordonanța de urgență a Guvernului nr. 68/2019 privind stabilirea unor măsuri la nivelul administrației publice centrale și pentru modificarea și completarea unor acte normative | [`oug/2019/68/`](oug/2019/68/) | amending act | 3 | 2019-11-06 | 2020-06-13 |
 | Ordonanța de urgență a Guvernului nr. 69/2019 pentru aplicarea unor măsuri de protecție socială acordată persoanelor disponibilizate prin concedieri colective efectuate în baza planurilor de disponibilizare din cadrul operatorilor economici pentru care s-a aprobat acordarea ajutoarelor de stat pentru facilitarea închiderii minelor de cărbune necompetitive în perioada 2019-2024 | [`oug/2019/69/`](oug/2019/69/) | in force | 2 | 2019-11-14 | 2021-06-30 |
 | Ordonanța de urgență a Guvernului nr. 74/2019 pentru modificarea și completarea Ordonanței Guvernului nr. 18/2009 privind organizarea și finanțarea rezidențiatului, precum și pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătății | [`oug/2019/74/`](oug/2019/74/) | amending act | 2 | 2019-12-11 | 2021-07-25 |
+| Ordonanța de urgență a Guvernului nr. 78/2019 privind modificarea unor acte normative și stabilirea unor măsuri în domeniul agriculturii, precum și pentru aprobarea unor măsuri fiscal-bugetare | [`oug/2019/78/`](oug/2019/78/) | amending act | 2 | 2019-12-23 | 2020-02-01 |
 | Ordonanța de urgență a Guvernului nr. 80/2019 pentru modificarea și completarea unor acte normative în domeniul fondurilor europene | [`oug/2019/80/`](oug/2019/80/) | amending act | 2 | 2019-12-24 | 2021-03-19 |
 | Ordonanța de urgență a Guvernului nr. 81/2019 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 115/2011 privind stabilirea cadrului instituțional și autorizarea Guvernului, prin Ministerul Finanțelor Publice, de a scoate la licitație certificatele de emisii de gaze cu efect de seră atribuite României la nivelul Uniunii Europene, precum și pentru instituirea unei scheme de ajutor de stat privind sprijinirea întreprinderilor din sectoarele și subsectoarele expuse unui risc important de relocare ca urmare a transferului costului emisiilor de gaze cu efect de seră în prețul energiei electrice | [`oug/2019/81/`](oug/2019/81/) | amending act | 5 | 2019-12-30 | 2021-11-07 |
 | Ordonanța de urgență a Guvernului nr. 82/2019 privind prorogarea termenului prevăzut la art. III din Legea nr. 352/2015 pentru modificarea și completarea Ordonanței Guvernului nr. 26/2011 privind înființarea Inspectoratului de Stat pentru Controlul în Transportul Rutier | [`oug/2019/82/`](oug/2019/82/) | amending act | 2 | 2019-12-30 | 2021-12-27 |
@@ -2697,6 +2698,7 @@
 | Ordonanța de urgență a Guvernului nr. 48/2020 privind unele măsuri financiar-fiscale | [`oug/2020/48/`](oug/2020/48/) | in force | 3 | 2020-04-16 | 2022-04-14 |
 | Ordonanța de urgență a Guvernului nr. 49/2020 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 158/2005 privind concediile și indemnizațiile de asigurări sociale de sănătate, precum și pentru reglementarea unor măsuri de protecție socială | [`oug/2020/49/`](oug/2020/49/) | amending act | 1 | 2020-04-16 | 2020-04-16 |
 | Ordonanța de urgență a Guvernului nr. 51/2020 pentru rectificarea bugetului asigurărilor sociale de stat pe anul 2020 | [`oug/2020/51/`](oug/2020/51/) | in force | 1 | 2020-04-17 | 2020-04-17 |
+| Ordonanța de urgență a Guvernului nr. 52/2020 pentru modificarea art. 29^3 alin. (2) din Ordonanța de urgență a Guvernului nr. 40/2015 privind gestionarea financiară a fondurilor europene pentru perioada de programare 2014-2020, precum și pentru adoptarea unor măsuri privind beneficiarii de fonduri europene în contextul răspândirii COVID-19 | [`oug/2020/52/`](oug/2020/52/) | amending act | 2 | 2020-04-21 | 2020-04-28 |
 | Ordonanța de urgență a Guvernului nr. 54/2020 privind prelungirea mandatelor Comitetului de reglementare al Autorității Naționale de Reglementare în Domeniul Energiei | [`oug/2020/54/`](oug/2020/54/) | in force | 2 | 2020-04-23 | 2020-07-25 |
 | Ordonanța de urgență a Guvernului nr. 55/2020 privind instituirea unor măsuri de protecție socială în contextul situației epidemiologice determinate de răspândirea coronavirusului SARS-CoV-2 | [`oug/2020/55/`](oug/2020/55/) | in force | 1 | 2020-04-27 | 2020-04-27 |
 | Ordonanța de urgență a Guvernului nr. 56/2020 privind unele măsuri provizorii în contextul situației epidemiologice determinate de răspândirea coronavirusului SARS-CoV-2 | [`oug/2020/56/`](oug/2020/56/) | in force | 1 | 2020-04-27 | 2020-04-27 |
@@ -3176,7 +3178,7 @@
 | Ordonanța de urgență a Guvernului nr. 78/2025 pentru modificarea Legii nr. 239/2025 privind stabilirea unor măsuri de redresare și eficientizare a resurselor publice și pentru modificarea și completarea unor acte normative | [`oug/2025/78/`](oug/2025/78/) | amending act | 1 | 2025-12-17 | 2025-12-17 |
 | Ordonanța de urgență a Guvernului nr. 87/2025 pentru stabilirea unor măsuri bugetare privind implementarea programelor naționale din domeniul lucrărilor publice | [`oug/2025/87/`](oug/2025/87/) | in force | 1 | 2025-12-24 | 2025-12-24 |
 
-## Ordinances (OG) (405, of which 87 amending acts)
+## Ordinances (OG) (406, of which 87 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -3301,6 +3303,7 @@
 | Ordonanța Guvernului nr. 35/2002 | [`og/2002/35/`](og/2002/35/) | in force | 2 | 2002-02-02 | 2002-12-24 |
 | Ordonanța Guvernului nr. 37/2002 | [`og/2002/37/`](og/2002/37/) | in force | 2 | 2002-02-02 | 2007-03-02 |
 | Ordonanța Guvernului nr. 53/2002 | [`og/2002/53/`](og/2002/53/) | in force | 2 | 2002-08-27 | 2003-03-26 |
+| Ordonanța Guvernului nr. 55/2002 | [`og/2002/55/`](og/2002/55/) | in force | 3 | 2002-09-29 | 2009-10-04 |
 | Ordonanța Guvernului nr. 56/2002 | [`og/2002/56/`](og/2002/56/) | in force | 2 | 2002-08-30 | 2003-02-03 |
 | Ordonanța Guvernului nr. 57/2002 | [`og/2002/57/`](og/2002/57/) | in force | 24 | 2002-08-30 | 2023-11-11 |
 | Ordonanța Guvernului nr. 63/2002 | [`og/2002/63/`](og/2002/63/) | in force | 4 | 2002-08-30 | 2007-10-26 |

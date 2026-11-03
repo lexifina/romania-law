@@ -44559,6 +44559,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/244543"
 },
 {
+"slug": "oug-78-2019",
+"path": "oug/2019/78",
+"kind": "oug",
+"year": "2019",
+"number": "78",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 78/2019 privind modificarea unor acte normative și stabilirea unor măsuri în domeniul agriculturii, precum și pentru aprobarea unor măsuri fiscal-bugetare",
+"short": "OUG nr. 78/2019",
+"code": null,
+"status": "amending act",
+"versions": 2,
+"from": "2019-12-23",
+"latest": "2020-02-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/221169"
+},
+{
 "slug": "oug-80-2019",
 "path": "oug/2019/80",
 "kind": "oug",
@@ -45169,6 +45186,23 @@
 "from": "2020-04-17",
 "latest": "2020-04-17",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/224923"
+},
+{
+"slug": "oug-52-2020",
+"path": "oug/2020/52",
+"kind": "oug",
+"year": "2020",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 52/2020 pentru modificarea art. 29^3 alin. (2) din Ordonanța de urgență a Guvernului nr. 40/2015 privind gestionarea financiară a fondurilor europene pentru perioada de programare 2014-2020, precum și pentru adoptarea unor măsuri privind beneficiarii de fonduri europene în contextul răspândirii COVID-19",
+"short": "OUG nr. 52/2020",
+"code": null,
+"status": "amending act",
+"versions": 2,
+"from": "2020-04-21",
+"latest": "2020-04-28",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/224934"
 },
 {
 "slug": "oug-54-2020",
@@ -55352,6 +55386,23 @@
 "from": "2002-08-27",
 "latest": "2003-03-26",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/38139"
+},
+{
+"slug": "og-55-2002",
+"path": "og/2002/55",
+"kind": "og",
+"year": "2002",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța Guvernului nr. 55/2002",
+"short": "OG nr. 55/2002",
+"code": null,
+"status": "in force",
+"versions": 3,
+"from": "2002-09-29",
+"latest": "2009-10-04",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/38212"
 },
 {
 "slug": "og-56-2002",
