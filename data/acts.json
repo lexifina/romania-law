@@ -2807,6 +2807,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/16209"
 },
 {
+"slug": "legea-255-1998",
+"path": "lege/1998/255",
+"kind": "lege",
+"year": "1998",
+"number": "255",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 255/1998",
+"short": "Legea nr. 255/1998",
+"code": null,
+"status": "in force",
+"versions": 8,
+"from": "1999-03-31",
+"latest": "2014-04-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/156962"
+},
+{
 "slug": "legea-49-1999",
 "path": "lege/1999/49",
 "kind": "lege",
@@ -4641,6 +4658,23 @@
 "from": "2002-07-20",
 "latest": "2022-09-03",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/36083"
+},
+{
+"slug": "legea-290-2002",
+"path": "lege/2002/290",
+"kind": "lege",
+"year": "2002",
+"number": "290",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 290/2002",
+"short": "Legea nr. 290/2002",
+"code": null,
+"status": "in force",
+"versions": 12,
+"from": "2002-05-29",
+"latest": "2009-04-02",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/162315"
 },
 {
 "slug": "legea-296-2002",
@@ -6530,6 +6564,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/211326"
 },
 {
+"slug": "legea-150-2004",
+"path": "lege/2004/150",
+"kind": "lege",
+"year": "2004",
+"number": "150",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 150/2004",
+"short": "Legea nr. 150/2004",
+"code": null,
+"status": "in force",
+"versions": 2,
+"from": "2004-06-23",
+"latest": "2006-11-29",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/52134"
+},
+{
 "slug": "legea-157-2004",
 "path": "lege/2004/157",
 "kind": "lege",
@@ -8041,6 +8092,23 @@
 "from": "2005-10-10",
 "latest": "2005-10-10",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/31576"
+},
+{
+"slug": "legea-279-2005",
+"path": "lege/2005/279",
+"kind": "lege",
+"year": "2005",
+"number": "279",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 279/2005",
+"short": "Legea nr. 279/2005",
+"code": null,
+"status": "in force",
+"versions": 10,
+"from": "2006-02-08",
+"latest": "2019-05-11",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/31649"
 },
 {
 "slug": "legea-281-2005",
@@ -36569,6 +36637,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/269008"
 },
 {
+"slug": "oug-80-2009",
+"path": "oug/2009/80",
+"kind": "oug",
+"year": "2009",
+"number": "80",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 80/2009",
+"short": "OUG nr. 80/2009",
+"code": null,
+"status": "in force",
+"versions": 2,
+"from": "2009-06-30",
+"latest": "2010-04-02",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/201685"
+},
+{
 "slug": "oug-84-2009",
 "path": "oug/2009/84",
 "kind": "oug",
@@ -42993,6 +43078,23 @@
 "from": "2018-01-01",
 "latest": "2018-01-01",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/194621"
+},
+{
+"slug": "oug-82-2017",
+"path": "oug/2017/82",
+"kind": "oug",
+"year": "2017",
+"number": "82",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 82/2017 pentru modificarea și completarea unor acte normative",
+"short": "OUG nr. 82/2017",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2017-11-16",
+"latest": "2017-11-16",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/194725"
 },
 {
 "slug": "oug-85-2017",

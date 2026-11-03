@@ -1,6 +1,6 @@
 # Every act in this repository
 
-5889 acts, 16,562 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+5895 acts, 16,597 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -32,7 +32,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (1712, of which 637 amending acts)
+## Laws (legi) (1716, of which 637 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -200,6 +200,7 @@
 | Legea nr. 160/1998 pentru organizarea și exercitarea profesiunii de medic veterinar*) | [`lege/1998/160/`](lege/1998/160/) | in force | 1 | 2014-03-24 | 2014-03-24 |
 | Legea nr. 202/1998 | [`lege/1998/202/`](lege/1998/202/) | in force | 16 | 1998-12-10 | 2021-04-05 |
 | Legea nr. 213/1998 privind proprietatea publică și regimul juridic al acesteia | [`lege/1998/213/`](lege/1998/213/) | in force | 6 | 1999-01-23 | 2019-07-05 |
+| Legea nr. 255/1998 | [`lege/1998/255/`](lege/1998/255/) | in force | 8 | 1999-03-31 | 2014-04-01 |
 | Legea nr. 49/1999 | [`lege/1999/49/`](lege/1999/49/) | in force | 7 | 1999-04-01 | 2024-01-01 |
 | Legea nr. 117/1999 | [`lege/1999/117/`](lege/1999/117/) | in force | 6 | 1999-10-04 | 2016-06-30 |
 | Legea nr. 132/1999 | [`lege/1999/132/`](lege/1999/132/) | in force | 10 | 1999-07-23 | 2021-03-08 |
@@ -308,6 +309,7 @@
 | Legea nr. 233/2002 pentru aprobarea Ordonanței Guvernului nr. 27/2002 privind reglementarea activității de soluționare a petițiilor | [`lege/2002/233/`](lege/2002/233/) | amending act | 2 | 2002-04-30 | 2002-08-20 |
 | Legea nr. 266/2002 | [`lege/2002/266/`](lege/2002/266/) | in force | 6 | 2002-05-23 | 2021-07-12 |
 | Legea nr. 289/2002 | [`lege/2002/289/`](lege/2002/289/) | in force | 11 | 2002-07-20 | 2022-09-03 |
+| Legea nr. 290/2002 | [`lege/2002/290/`](lege/2002/290/) | in force | 12 | 2002-05-29 | 2009-04-02 |
 | Legea nr. 296/2002 | [`lege/2002/296/`](lege/2002/296/) | in force | 2 | 2002-05-30 | 2004-08-22 |
 | Legea nr. 309/2002 | [`lege/2002/309/`](lege/2002/309/) | in force | 6 | 2002-08-05 | 2016-11-28 |
 | Legea nr. 338/2002 | [`lege/2002/338/`](lege/2002/338/) | in force | 1 | 2002-06-25 | 2002-06-25 |
@@ -419,6 +421,7 @@
 | Legea nr. 126/2004 privind aprobarea Ordonanței Guvernului nr. 24/2004 pentru modificarea și completarea Ordonanței Guvernului nr. 69/2002 privind regimul juridic al cărții electronice de identitate | [`lege/2004/126/`](lege/2004/126/) | amending act | 1 | 2004-04-25 | 2004-04-25 |
 | Legea nr. 138/2004 | [`lege/2004/138/`](lege/2004/138/) | in force | 24 | 2004-05-01 | 2025-04-18 |
 | Legea nr. 149/2004 pentru modificarea și completarea Legii nr. 64/1995 privind procedura reorganizării judiciare și a falimentului, precum și a altor acte normative cu incidență asupra acestei proceduri | [`lege/2004/149/`](lege/2004/149/) | amending act | 3 | 2004-05-15 | 2006-07-20 |
+| Legea nr. 150/2004 | [`lege/2004/150/`](lege/2004/150/) | in force | 2 | 2004-06-23 | 2006-11-29 |
 | Legea nr. 157/2004 | [`lege/2004/157/`](lege/2004/157/) | in force | 3 | 2004-05-28 | 2009-09-03 |
 | Legea nr. 158/2004 | [`lege/2004/158/`](lege/2004/158/) | in force | 1 | 2004-05-28 | 2004-05-28 |
 | Legea nr. 190/2004 | [`lege/2004/190/`](lege/2004/190/) | in force | 4 | 2004-05-29 | 2005-04-08 |
@@ -508,6 +511,7 @@
 | Legea nr. 248/2005 | [`lege/2005/248/`](lege/2005/248/) | in force | 31 | 2006-01-29 | 2025-03-15 |
 | Legea nr. 261/2005 pentru aprobarea Ordonanței de urgență a Guvernului nr. 19/2005 privind realizarea Ansamblului Arhitectural Catedrala Mântuirii Neamului | [`lege/2005/261/`](lege/2005/261/) | amending act | 1 | 2005-10-13 | 2005-10-13 |
 | Legea nr. 263/2005 | [`lege/2005/263/`](lege/2005/263/) | in force | 1 | 2005-10-10 | 2005-10-10 |
+| Legea nr. 279/2005 | [`lege/2005/279/`](lege/2005/279/) | in force | 10 | 2006-02-08 | 2019-05-11 |
 | Legea nr. 281/2005 | [`lege/2005/281/`](lege/2005/281/) | in force | 1 | 2005-10-15 | 2005-10-15 |
 | Legea nr. 282/2005 | [`lege/2005/282/`](lege/2005/282/) | in force | 9 | 2005-10-16 | 2022-04-14 |
 | Legea nr. 289/2005 privind unele măsuri pentru prevenirea și combaterea fenomenului infracțional în domeniul transportului pe calea ferată | [`lege/2005/289/`](lege/2005/289/) | in force | 2 | 2005-10-20 | 2014-02-01 |
@@ -1749,7 +1753,7 @@
 | Legea nr. 241/2025 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 31/2002 privind interzicerea organizațiilor, simbolurilor și faptelor cu caracter fascist, legionar, rasist sau xenofob și a promovării cultului persoanelor vinovate de săvârșirea unor infracțiuni de genocid contra umanității și de crime de război, precum și pentru modificarea Legii nr. 157/2018 privind unele măsuri pentru prevenirea și combaterea antisemitismului | [`lege/2025/241/`](lege/2025/241/) | amending act | 1 | 2025-12-27 | 2025-12-27 |
 | Legea nr. 245/2025 pentru modificarea art. 32 alin. (7) din Legea nr. 273/2006 privind finanțele publice locale | [`lege/2025/245/`](lege/2025/245/) | amending act | 1 | 2026-01-01 | 2026-01-01 |
 
-## Emergency ordinances (OUG) (1424, of which 515 amending acts)
+## Emergency ordinances (OUG) (1426, of which 516 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -2191,6 +2195,7 @@
 | Ordonanța de urgență a Guvernului nr. 75/2009 | [`oug/2009/75/`](oug/2009/75/) | in force | 2 | 2009-06-29 | 2009-11-27 |
 | Ordonanța de urgență a Guvernului nr. 77/2009 | [`oug/2009/77/`](oug/2009/77/) | in force | 27 | 2009-06-26 | 2025-12-18 |
 | Ordonanța de urgență a Guvernului nr. 79/2009 | [`oug/2009/79/`](oug/2009/79/) | in force | 5 | 2009-06-30 | 2018-09-02 |
+| Ordonanța de urgență a Guvernului nr. 80/2009 | [`oug/2009/80/`](oug/2009/80/) | in force | 2 | 2009-06-30 | 2010-04-02 |
 | Ordonanța de urgență a Guvernului nr. 84/2009 | [`oug/2009/84/`](oug/2009/84/) | in force | 2 | 2009-07-01 | 2010-01-01 |
 | Ordonanța de urgență a Guvernului nr. 87/2009 | [`oug/2009/87/`](oug/2009/87/) | in force | 1 | 2009-07-01 | 2009-07-01 |
 | Ordonanța de urgență a Guvernului nr. 88/2009 | [`oug/2009/88/`](oug/2009/88/) | in force | 2 | 2009-07-01 | 2010-07-23 |
@@ -2569,6 +2574,7 @@
 | Ordonanța de urgență a Guvernului nr. 77/2017 privind înființarea Centrului Național pentru Informații Financiare | [`oug/2017/77/`](oug/2017/77/) | in force | 3 | 2017-10-30 | 2018-12-13 |
 | Ordonanța de urgență a Guvernului nr. 78/2017 pentru modificarea și completarea Legii apelor nr. 107/1996 | [`oug/2017/78/`](oug/2017/78/) | amending act | 2 | 2017-11-10 | 2018-11-05 |
 | Ordonanța de urgență a Guvernului nr. 79/2017 pentru modificarea și completarea Legii nr. 227/2015 privind Codul fiscal | [`oug/2017/79/`](oug/2017/79/) | amending act | 1 | 2018-01-01 | 2018-01-01 |
+| Ordonanța de urgență a Guvernului nr. 82/2017 pentru modificarea și completarea unor acte normative | [`oug/2017/82/`](oug/2017/82/) | amending act | 1 | 2017-11-16 | 2017-11-16 |
 | Ordonanța de urgență a Guvernului nr. 85/2017 pentru modificarea art. 5 din Legea nr. 299/2007 privind sprijinul acordat românilor de pretutindeni, precum și pentru acordarea unor burse de studii etnicilor români cu domiciliul stabil în Ucraina | [`oug/2017/85/`](oug/2017/85/) | amending act | 2 | 2017-11-27 | 2018-06-10 |
 | Ordonanța de urgență a Guvernului nr. 87/2017 pentru completarea art. 5 din Ordonanța Guvernului nr. 70/2002 privind administrarea unităților sanitare publice de interes județean și local | [`oug/2017/87/`](oug/2017/87/) | amending act | 1 | 2017-12-06 | 2017-12-06 |
 | Ordonanța de urgență a Guvernului nr. 90/2017 privind unele măsuri fiscal-bugetare, modificarea și completarea unor acte normative și prorogarea unor termene | [`oug/2017/90/`](oug/2017/90/) | in force | 12 | 2017-12-07 | 2020-04-04 |
