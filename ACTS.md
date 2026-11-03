@@ -1,6 +1,6 @@
 # Every act in this repository
 
-14292 acts, 27,881 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+14313 acts, 27,902 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -4782,7 +4782,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (9519, of which 4357 amending acts)
+## Government decisions (HG) (9540, of which 4368 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -5711,18 +5711,39 @@
 | Hotărârea Guvernului nr. 478/2007 pentru aprobarea organizării Conferinţei internaţionale "Relaţia Guvern - Administraţie publică Asociaţii de proprietari. Parteneriate pentru o locuire durabilă", Bucureşti, 21-22 iunie 2007 | [`hg/2007/478/`](hg/2007/478/) | amending act | 1 | 2007-05-25 | 2007-05-25 |
 | Hotărârea Guvernului nr. 479/2007 privind acordarea unor premii pentru performanţe deosebite obţinute în sport | [`hg/2007/479/`](hg/2007/479/) | in force | 1 | 2007-05-25 | 2007-05-25 |
 | Hotărârea Guvernului nr. 480/2007 privind suplimentarea bugetului Ministerului Dezvoltării, Lucrărilor Publice şi Locuinţelor din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2007 | [`hg/2007/480/`](hg/2007/480/) | in force | 1 | 2007-05-25 | 2007-05-25 |
+| Hotărârea Guvernului nr. 481/2007 privind transmiterea unor părţi din imobile din domeniul public al statului şi din administrarea Ministerului Apărării în domeniul public al municipiului Piteşti, respectiv al municipiului Bacău, şi în administrarea Consiliului Local al Municipiului Piteşti, respectiv a Consiliului Local al Municipiului Bacău | [`hg/2007/481/`](hg/2007/481/) | in force | 1 | 2007-05-28 | 2007-05-28 |
+| Hotărârea Guvernului nr. 482/2007 privind transmiterea unor imobile sau părţi din imobile, aflate în domeniul public al statului, din administrarea Ministerului Apărării în administrarea Ministerului Sănătăţii Publice | [`hg/2007/482/`](hg/2007/482/) | in force | 1 | 2007-05-28 | 2007-05-28 |
+| Hotărârea Guvernului nr. 485/2007 privind schimbarea titularului dreptului de administrare asupra unor imobile aflate în domeniul public al statului | [`hg/2007/485/`](hg/2007/485/) | in force | 1 | 2007-05-29 | 2007-05-29 |
+| Hotărârea Guvernului nr. 486/2007 privind transmiterea unor imobile, aflate în domeniul privat al statului, din administrarea Serviciului Român de Informaţii în administrarea Ministerului Internelor şi Reformei Administrative | [`hg/2007/486/`](hg/2007/486/) | in force | 1 | 2007-05-29 | 2007-05-29 |
+| Hotărârea Guvernului nr. 487/2007 pentru modificarea anexei la Hotărârea Guvernului nr. 389/2007 privind aprobarea cifrelor de şcolarizare pentru învăţământul preuniversitar şi superior de stat în anul şcolar/universitar 2007-2008 | [`hg/2007/487/`](hg/2007/487/) | amending act | 1 | 2007-05-29 | 2007-05-29 |
+| Hotărârea Guvernului nr. 488/2007 pentru includerea unei părţi dintr-un imobil, aflată în administrarea Institutului Naţional de Statistică - Direcţia Regională de Statistică a Municipiului Bucureşti, în inventarul bunurilor din domeniul public al statului | [`hg/2007/488/`](hg/2007/488/) | in force | 1 | 2007-05-30 | 2007-05-30 |
 | Hotărârea Guvernului nr. 490/2007 | [`hg/2007/490/`](hg/2007/490/) | in force | 1 | 2007-05-31 | 2007-05-31 |
+| Hotărârea Guvernului nr. 491/2007 privind modificarea şi completarea Hotărârii Guvernului nr. 98/2004 pentru aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii "Fluidizarea traficului pe DN1 între km 8+100 şi km 17+100 şi Centura rutieră în zona de nord a municipiului Bucureşti" | [`hg/2007/491/`](hg/2007/491/) | amending act | 1 | 2007-06-06 | 2007-06-06 |
+| Hotărârea Guvernului nr. 492/2007 pentru aprobarea Normelor metodologice de aplicare a Ordonanţei de urgenţă a Guvernului nr. 116/2006 privind protecţia socială acordată persoanelor disponibilizate prin concedieri colective efectuate ca urmare a restructurării şi reorganizării unor societăţi naţionale, regii autonome, companii naţionale şi societăţi comerciale cu capital majoritar de stat, precum şi a societăţilor comerciale şi regiilor autonome subordonate autorităţilor administraţiei publice locale | [`hg/2007/492/`](hg/2007/492/) | amending act | 1 | 2007-06-05 | 2007-06-05 |
+| Hotărârea Guvernului nr. 493/2007 privind transmiterea unui imobil aflat în domeniul public al statului din administrarea Ministerului Apărării în administrarea Academiei Române | [`hg/2007/493/`](hg/2007/493/) | in force | 1 | 2007-06-05 | 2007-06-05 |
 | Hotărârea Guvernului nr. 495/2007 | [`hg/2007/495/`](hg/2007/495/) | in force | 2 | 2007-06-06 | 2007-10-17 |
 | Hotărârea Guvernului nr. 499/2007 | [`hg/2007/499/`](hg/2007/499/) | in force | 1 | 2007-05-31 | 2007-05-31 |
 | Hotărârea Guvernului nr. 500/2007 | [`hg/2007/500/`](hg/2007/500/) | in force | 1 | 2007-05-31 | 2007-05-31 |
+| Hotărârea Guvernului nr. 501/2007 privind titlurile obţinute de absolvenţii învăţământului universitar, înmatriculaţi în anul I de studii, în anii universitari 2002-2003, 2003-2004 şi 2004-2005 | [`hg/2007/501/`](hg/2007/501/) | in force | 1 | 2007-06-06 | 2007-06-06 |
 | Hotărârea Guvernului nr. 502/2007 | [`hg/2007/502/`](hg/2007/502/) | in force | 1 | 2007-05-31 | 2007-05-31 |
+| Hotărârea Guvernului nr. 503/2007 privind pregătirea şi finanţarea exerciţiului trilateral româno-bulgaro-sârb "Danube Guard 07" | [`hg/2007/503/`](hg/2007/503/) | in force | 1 | 2007-06-05 | 2007-06-05 |
+| Hotărârea Guvernului nr. 505/2007 privind organizarea Conferinţei anuale a membrilor Iniţiativei Europene privind Cercetarea Agricolă (EURAGRI) | [`hg/2007/505/`](hg/2007/505/) | in force | 1 | 2007-06-06 | 2007-06-06 |
 | Hotărârea Guvernului nr. 506/2007 | [`hg/2007/506/`](hg/2007/506/) | in force | 1 | 2007-06-04 | 2007-06-04 |
 | Hotărârea Guvernului nr. 508/2007 privind numirea delegaţiei părţii române în Comisia mixtă pentru reconstituirea şi marcarea frontierei de stat dintre România şi Republica Serbia | [`hg/2007/508/`](hg/2007/508/) | in force | 3 | 2007-06-04 | 2018-04-24 |
+| Hotărârea Guvernului nr. 509/2007 privind aprobarea stemelor oraşelor Abrud şi Ocna Mureş, judeţul Alba | [`hg/2007/509/`](hg/2007/509/) | amending act | 1 | 2007-06-07 | 2007-06-07 |
+| Hotărârea Guvernului nr. 510/2007 privind aprobarea stemei municipiului Sfântu Gheorghe, judeţul Covasna | [`hg/2007/510/`](hg/2007/510/) | amending act | 1 | 2007-06-07 | 2007-06-07 |
+| Hotărârea Guvernului nr. 511/2007 privind aprobarea stemelor municipiilor Drobeta-Turnu Severin şi Orşova, judeţul Mehedinţi | [`hg/2007/511/`](hg/2007/511/) | amending act | 1 | 2007-06-07 | 2007-06-07 |
+| Hotărârea Guvernului nr. 512/2007 privind aprobarea stemei comunei Tunari, judeţul Ilfov | [`hg/2007/512/`](hg/2007/512/) | amending act | 1 | 2007-06-07 | 2007-06-07 |
+| Hotărârea Guvernului nr. 513/2007 privind aprobarea stemei oraşului Miercurea Sibiului, judeţul Sibiu | [`hg/2007/513/`](hg/2007/513/) | amending act | 1 | 2007-06-07 | 2007-06-07 |
+| Hotărârea Guvernului nr. 514/2007 privind aprobarea stemelor comunelor Bârnova, Erbiceni, Şipote şi Vlădeni, judeţul Iaşi | [`hg/2007/514/`](hg/2007/514/) | amending act | 1 | 2007-06-07 | 2007-06-07 |
+| Hotărârea Guvernului nr. 515/2007 pentru modificarea şi completarea Hotărârii Guvernului nr. 1.359/2001 privind atestarea domeniului public al judeţului Prahova, precum şi al municipiilor, oraşelor şi comunelor din judeţul Prahova | [`hg/2007/515/`](hg/2007/515/) | amending act | 1 | 2007-06-05 | 2007-06-05 |
 | Hotărârea Guvernului nr. 516/2007 | [`hg/2007/516/`](hg/2007/516/) | in force | 1 | 2007-06-04 | 2007-06-04 |
 | Hotărârea Guvernului nr. 517/2007 | [`hg/2007/517/`](hg/2007/517/) | in force | 1 | 2007-06-04 | 2007-06-04 |
 | Hotărârea Guvernului nr. 518/2007 | [`hg/2007/518/`](hg/2007/518/) | in force | 1 | 2007-06-04 | 2007-06-04 |
 | Hotărârea Guvernului nr. 521/2007 | [`hg/2007/521/`](hg/2007/521/) | in force | 1 | 2007-06-08 | 2007-06-08 |
+| Hotărârea Guvernului nr. 523/2007 privind stabilirea situaţiei juridice a unor imobile situate în municipiul Bucureşti | [`hg/2007/523/`](hg/2007/523/) | in force | 1 | 2007-06-07 | 2007-06-07 |
 | Hotărârea Guvernului nr. 524/2007 | [`hg/2007/524/`](hg/2007/524/) | in force | 1 | 2007-06-08 | 2007-06-08 |
+| Hotărârea Guvernului nr. 531/2007 privind aprobarea modului de îndeplinire a gradului valoric de integrare în România de către Societatea Comercială "Daewoo Automobile România" - S.A | [`hg/2007/531/`](hg/2007/531/) | amending act | 1 | 2007-06-11 | 2007-06-11 |
 | Hotărârea Guvernului nr. 532/2007 | [`hg/2007/532/`](hg/2007/532/) | in force | 3 | 2007-06-18 | 2007-10-17 |
 | Hotărârea Guvernului nr. 534/2007 | [`hg/2007/534/`](hg/2007/534/) | in force | 15 | 2007-06-22 | 2025-06-30 |
 | Hotărârea Guvernului nr. 535/2007 | [`hg/2007/535/`](hg/2007/535/) | in force | 1 | 2007-06-07 | 2007-06-07 |
