@@ -1,6 +1,6 @@
 # Every act in this repository
 
-1770 acts, 7,955 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+1785 acts, 8,048 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -32,7 +32,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (714, of which 381 amending acts)
+## Laws (legi) (717, of which 381 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -130,10 +130,12 @@
 | Legea nr. 514/2003 | [`lege/2003/514/`](lege/2003/514/) | in force | 3 | 2003-12-08 | 2023-06-10 |
 | Legea nr. 526/2003 | [`lege/2003/526/`](lege/2003/526/) | in force | 7 | 2003-12-19 | 2022-07-29 |
 | Codul fiscal (Legea nr. 571/2003) | [`lege/2003/571/`](lege/2003/571/) | in force | 61 | 2004-01-01 | 2015-11-04 |
+| Legea nr. 200/2004 | [`lege/2004/200/`](lege/2004/200/) | in force | 9 | 2004-06-06 | 2024-10-14 |
 | Legea nr. 211/2004 privind unele măsuri pentru asigurarea protecției victimelor infracțiunilor | [`lege/2004/211/`](lege/2004/211/) | in force | 8 | 2005-01-01 | 2024-11-08 |
 | Legea nr. 213/2004 privind exercitarea profesiei de psiholog cu drept de liberă practică, înființarea, organizarea și funcționarea Colegiului Psihologilor din România | [`lege/2004/213/`](lege/2004/213/) | in force | 3 | 2004-07-01 | 2023-07-14 |
 | Legea petrolului nr. 238/2004 | [`lege/2004/238/`](lege/2004/238/) | in force | 16 | 2004-09-13 | 2024-06-29 |
 | Legea nr. 253/2004 privind caracterul definitiv al decontării în sistemele de plăți și în sistemele de decontare a operațiunilor cu instrumente financiare | [`lege/2004/253/`](lege/2004/253/) | in force | 5 | 2004-07-01 | 2022-01-03 |
+| Legea nr. 263/2004 | [`lege/2004/263/`](lege/2004/263/) | in force | 16 | 2005-01-01 | 2024-09-06 |
 | Legea nr. 272/2004 privind protecția și promovarea drepturilor copilului | [`lege/2004/272/`](lege/2004/272/) | in force | 32 | 2005-01-01 | 2026-04-10 |
 | Legea nr. 273/2004 | [`lege/2004/273/`](lege/2004/273/) | in force | 18 | 2004-06-26 | 2024-04-19 |
 | Legea nr. 295/2004 privind regimul armelor și al munițiilor | [`lege/2004/295/`](lege/2004/295/) | in force | 22 | 2004-12-30 | 2025-11-02 |
@@ -241,6 +243,7 @@
 | Legea nr. 99/2014 pentru modificarea și completarea Legii serviciului de salubrizare a localităților nr. 101/2006 | [`lege/2014/99/`](lege/2014/99/) | amending act | 2 | 2014-07-11 | 2022-04-07 |
 | Legea nr. 121/2014 | [`lege/2014/121/`](lege/2014/121/) | in force | 14 | 2014-08-04 | 2024-07-12 |
 | Legea nr. 138/2014 pentru modificarea și completarea Legii nr. 134/2010 privind Codul de procedură civilă, precum și pentru modificarea și completarea unor acte normative conexe | [`lege/2014/138/`](lege/2014/138/) | amending act | 2 | 2014-10-19 | 2016-02-04 |
+| Legea nr. 179/2014 pentru ratificarea Acordului de împrumut (Proiectul privind reforma sectorului sanitar - îmbunătățirea calității și eficienței sistemului sanitar) dintre România și Banca Internațională pentru Reconstrucție și Dezvoltare, semnat la București la 17 iunie 2014 | [`lege/2014/179/`](lege/2014/179/) | in force | 2 | 2017-10-02 | 2024-11-22 |
 | Legea nr. 70/2015 | [`lege/2015/70/`](lege/2015/70/) | in force | 8 | 2015-04-12 | 2026-01-01 |
 | Legea nr. 74/2015 privind administratorii de fonduri de investiții alternative | [`lege/2015/74/`](lege/2015/74/) | in force | 9 | 2015-05-23 | 2026-01-16 |
 | Legea nr. 115/2015 pentru alegerea autorităților administrației publice locale, pentru modificarea Legii administrației publice locale nr. 215/2001, precum și pentru modificarea și completarea Legii nr. 393/2004 privind Statutul aleșilor locali | [`lege/2015/115/`](lege/2015/115/) | amending act | 7 | 2015-05-23 | 2023-07-27 |
@@ -751,7 +754,7 @@
 | Legea nr. 241/2025 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 31/2002 privind interzicerea organizațiilor, simbolurilor și faptelor cu caracter fascist, legionar, rasist sau xenofob și a promovării cultului persoanelor vinovate de săvârșirea unor infracțiuni de genocid contra umanității și de crime de război, precum și pentru modificarea Legii nr. 157/2018 privind unele măsuri pentru prevenirea și combaterea antisemitismului | [`lege/2025/241/`](lege/2025/241/) | amending act | 1 | 2025-12-27 | 2025-12-27 |
 | Legea nr. 245/2025 pentru modificarea art. 32 alin. (7) din Legea nr. 273/2006 privind finanțele publice locale | [`lege/2025/245/`](lege/2025/245/) | amending act | 1 | 2026-01-01 | 2026-01-01 |
 
-## Emergency ordinances (OUG) (510, of which 314 amending acts)
+## Emergency ordinances (OUG) (518, of which 314 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -776,6 +779,7 @@
 | Ordonanța de urgență a Guvernului nr. 84/2003 | [`oug/2003/84/`](oug/2003/84/) | in force | 12 | 2003-10-03 | 2021-04-01 |
 | Ordonanța de urgență a Guvernului nr. 36/2004 | [`oug/2004/36/`](oug/2004/36/) | in force | 2 | 2004-05-31 | 2004-07-15 |
 | Ordonanța de urgență a Guvernului nr. 65/2005 | [`oug/2005/65/`](oug/2005/65/) | in force | 2 | 2005-07-05 | 2005-12-22 |
+| Ordonanța de urgență a Guvernului nr. 75/2005 | [`oug/2005/75/`](oug/2005/75/) | in force | 16 | 2005-07-20 | 2022-12-24 |
 | Ordonanța de urgență a Guvernului nr. 97/2005 | [`oug/2005/97/`](oug/2005/97/) | in force | 26 | 2005-07-20 | 2025-03-27 |
 | Ordonanța de urgență a Guvernului nr. 158/2005 | [`oug/2005/158/`](oug/2005/158/) | in force | 31 | 2006-01-01 | 2025-12-31 |
 | Ordonanța de urgență a Guvernului nr. 179/2005 | [`oug/2005/179/`](oug/2005/179/) | in force | 3 | 2005-12-16 | 2006-05-27 |
@@ -888,6 +892,7 @@
 | Ordonanța de urgență a Guvernului nr. 70/2020 privind reglementarea unor măsuri, începând cu data de 15 mai 2020, în contextul situației epidemiologice determinate de răspândirea coronavirusului SARS-CoV-2, pentru prelungirea unor termene, pentru modificarea și completarea Legii nr. 227/2015 privind Codul fiscal , a Legii educației naționale nr. 1/2011 , precum și a altor acte normative | [`oug/2020/70/`](oug/2020/70/) | amending act | 14 | 2020-05-14 | 2022-12-15 |
 | Ordonanța de urgență a Guvernului nr. 72/2020 pentru suspendarea aplicării prevederilor art. 21 alin. (6) din Legea nr. 165/2013 privind măsurile pentru finalizarea procesului de restituire, în natură sau prin echivalent, a imobilelor preluate în mod abuziv în perioada regimului comunist în România și instituirea unor măsuri tranzitorii | [`oug/2020/72/`](oug/2020/72/) | amending act | 3 | 2020-05-19 | 2021-07-12 |
 | Ordonanța de urgență a Guvernului nr. 84/2020 pentru stabilirea unor măsuri necesare în vederea implementării Programului operațional Ajutorarea persoanelor defavorizate - POAD | [`oug/2020/84/`](oug/2020/84/) | in force | 3 | 2020-05-29 | 2021-03-18 |
+| Ordonanța de urgență a Guvernului nr. 88/2020 privind instituirea unor măsuri, precum și acordarea unui sprijin financiar pentru pregătirea portofoliului de proiecte în domenii strategice considerate prioritare pentru perioada de programare 2021-2027, destinat finanțării prin Programul operațional Asistență tehnică 2014-2020 (POAT 2014-2020) și Programul operațional Infrastructură mare 2014-2020 (POIM) | [`oug/2020/88/`](oug/2020/88/) | in force | 4 | 2020-09-12 | 2023-05-26 |
 | Ordonanța de urgență a Guvernului nr. 94/2020 privind unele măsuri pentru finanțarea din fonduri europene a unor programe naționale | [`oug/2020/94/`](oug/2020/94/) | in force | 2 | 2020-06-11 | 2022-04-18 |
 | Ordonanța de urgență a Guvernului nr. 101/2020 privind unele măsuri pentru implementarea proiectelor cu finanțare din fonduri europene în vederea evitării riscului de dezangajare pentru perioada de programare 2014-2020 | [`oug/2020/101/`](oug/2020/101/) | in force | 4 | 2020-06-26 | 2023-05-26 |
 | Ordonanța de urgență a Guvernului nr. 115/2020 privind unele măsuri pentru sprijinirea categoriilor de persoane cele mai defavorizate care beneficiază de mese calde pe bază de tichete sociale pe suport electronic pentru mese calde, acordate din fonduri externe nerambursabile, precum și unele măsuri de distribuire a acestora | [`oug/2020/115/`](oug/2020/115/) | in force | 4 | 2020-07-17 | 2021-05-02 |
@@ -1005,6 +1010,7 @@
 | Ordonanța de urgență a Guvernului nr. 14/2022 pentru modificarea Legii nr. 146/2021 privind monitorizarea electronică în cadrul unor proceduri judiciare și execuțional penale | [`oug/2022/14/`](oug/2022/14/) | amending act | 1 | 2022-02-24 | 2022-02-24 |
 | Ordonanța de urgență a Guvernului nr. 15/2022 privind acordarea de sprijin și asistență umanitară de către statul român cetățenilor străini sau apatrizilor aflați în situații deosebite, proveniți din zona conflictului armat din Ucraina | [`oug/2022/15/`](oug/2022/15/) | in force | 7 | 2022-02-27 | 2024-03-28 |
 | Ordonanța de urgență a Guvernului nr. 16/2022 pentru modificarea art. 7 alin. (13) din Legea nr. 52/2003 privind transparența decizională în administrația publică | [`oug/2022/16/`](oug/2022/16/) | amending act | 1 | 2022-03-02 | 2022-03-02 |
+| Ordonanța de urgență a Guvernului nr. 19/2022 privind unele măsuri referitoare la garanțiile de bună execuție constituite în cadrul contractelor de achiziție publică și al contractelor sectoriale | [`oug/2022/19/`](oug/2022/19/) | in force | 2 | 2022-05-09 | 2024-01-29 |
 | Ordonanța de urgență a Guvernului nr. 21/2022 privind instituirea cadrului legal pentru acordarea unui ajutor de stat pentru restructurarea Societății "Complexul Energetic Oltenia"- S.A. | [`oug/2022/21/`](oug/2022/21/) | in force | 3 | 2022-03-11 | 2024-05-14 |
 | Ordonanța de urgență a Guvernului nr. 22/2022 pentru abrogarea Ordonanței de urgență a Guvernului nr. 129/2021 privind implementarea formularului digital de intrare în România | [`oug/2022/22/`](oug/2022/22/) | amending act | 1 | 2022-03-11 | 2022-03-11 |
 | Ordonanța de urgență a Guvernului nr. 23/2022 pentru completarea art. 43 din Legea nr. 411/2004 privind fondurile de pensii administrate privat | [`oug/2022/23/`](oug/2022/23/) | amending act | 1 | 2022-03-16 | 2022-03-16 |
@@ -1034,6 +1040,7 @@
 | Ordonanța de urgență a Guvernului nr. 66/2022 pentru completarea Legii nr. 16/2017 privind detașarea salariaților în cadrul prestării de servicii transnaționale | [`oug/2022/66/`](oug/2022/66/) | amending act | 1 | 2022-05-12 | 2022-05-12 |
 | Ordonanța de urgență a Guvernului nr. 67/2022 privind unele măsuri fiscale, precum și pentru modificarea și completarea art. 59 din Legea nr. 207/2015 privind Codul de procedură fiscală | [`oug/2022/67/`](oug/2022/67/) | amending act | 1 | 2022-05-18 | 2022-05-18 |
 | Ordonanța de urgență a Guvernului nr. 69/2022 pentru modificarea și completarea Legii educației naționale nr. 1/2011 și prorogarea unor termene | [`oug/2022/69/`](oug/2022/69/) | amending act | 1 | 2022-05-26 | 2022-05-26 |
+| Ordonanța de urgență a Guvernului nr. 70/2022 privind prevenirea, verificarea și constatarea neregulilor/dublei finanțări, a neregulilor grave apărute în obținerea și utilizarea fondurilor externe nerambursabile/rambursabile alocate României prin Mecanismul de redresare și reziliență și/sau a fondurilor publice naționale aferente acestora și recuperarea creanțelor rezultate | [`oug/2022/70/`](oug/2022/70/) | in force | 2 | 2022-06-06 | 2023-07-20 |
 | Ordonanța de urgență a Guvernului nr. 71/2022 pentru modificarea art. 155 alin. (1) din Legea nr. 286/2009 privind Codul penal | [`oug/2022/71/`](oug/2022/71/) | amending act | 1 | 2022-05-30 | 2022-05-30 |
 | Ordonanța de urgență a Guvernului nr. 73/2022 pentru completarea Ordonanței de urgență a Guvernului nr. 132/2020 privind măsuri de sprijin destinate salariaților și angajatorilor în contextul situației epidemiologice determinate de răspândirea coronavirusului SARS-CoV-2, precum și pentru stimularea creșterii ocupării forței de muncă | [`oug/2022/73/`](oug/2022/73/) | amending act | 1 | 2022-05-31 | 2022-05-31 |
 | Ordonanța de urgență a Guvernului nr. 74/2022 privind acordarea unui ajutor financiar pensionarilor sistemului public de pensii, ai sistemului pensiilor militare de stat, precum și beneficiarilor de drepturi prevăzute de legi cu caracter special, în luna iulie 2022 | [`oug/2022/74/`](oug/2022/74/) | in force | 1 | 2022-06-02 | 2022-06-02 |
@@ -1046,6 +1053,7 @@
 | Ordonanța de urgență a Guvernului nr. 85/2022 privind modificarea și completarea unor acte normative din domeniul fiscal și vamal | [`oug/2022/85/`](oug/2022/85/) | amending act | 1 | 2022-06-17 | 2022-06-17 |
 | Ordonanța de urgență a Guvernului nr. 86/2022 pentru modificarea și completarea Ordonanței Guvernului nr. 58/1998 privind organizarea și desfășurarea activității de turism în România | [`oug/2022/86/`](oug/2022/86/) | amending act | 2 | 2022-06-24 | 2023-03-23 |
 | Ordonanța de urgență a Guvernului nr. 88/2022 pentru modificarea și completarea unor acte normative în vederea gestionării fondurilor europene nerambursabile destinate dezvoltării regionale | [`oug/2022/88/`](oug/2022/88/) | amending act | 1 | 2022-06-28 | 2022-06-28 |
+| Ordonanța de urgență a Guvernului nr. 89/2022 privind înființarea, administrarea și dezvoltarea infrastructurilor și serviciilor informatice de tip cloud utilizate de autoritățile și instituțiile publice | [`oug/2022/89/`](oug/2022/89/) | in force | 3 | 2022-07-07 | 2023-12-29 |
 | Ordonanța de urgență a Guvernului nr. 90/2022 privind acordarea unor facilități pentru creditele acordate de bănci și instituții financiare nebancare anumitor categorii de debitori | [`oug/2022/90/`](oug/2022/90/) | in force | 2 | 2022-06-29 | 2022-09-02 |
 | Ordonanța de urgență a Guvernului nr. 93/2022 privind restituirea sumelor reprezentând taxa specială pentru autoturisme și autovehicule, taxa pe poluare pentru autovehicule, taxa pentru emisiile poluante provenite de la autovehicule și timbrul de mediu pentru autovehicule | [`oug/2022/93/`](oug/2022/93/) | in force | 1 | 2022-06-29 | 2022-06-29 |
 | Ordonanța de urgență a Guvernului nr. 94/2022 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 57/2019 privind Codul administrativ | [`oug/2022/94/`](oug/2022/94/) | amending act | 2 | 2022-06-29 | 2023-10-20 |
@@ -1113,6 +1121,7 @@
 | Ordonanța de urgență a Guvernului nr. 20/2023 pentru modificarea și completarea Legii nr. 207/2015 privind Codul de procedură fiscală , precum și pentru modificarea Ordonanței Guvernului nr. 6/2019 privind instituirea unor facilități fiscale | [`oug/2023/20/`](oug/2023/20/) | amending act | 1 | 2023-04-06 | 2023-04-06 |
 | Ordonanța de urgență a Guvernului nr. 22/2023 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 15/2022 privind acordarea de sprijin și asistență umanitară de către statul român cetățenilor străini sau apatrizilor aflați în situații deosebite, proveniți din zona conflictului armat din Ucraina | [`oug/2023/22/`](oug/2023/22/) | amending act | 1 | 2023-04-13 | 2023-04-13 |
 | Ordonanța de urgență a Guvernului nr. 23/2023 privind instituirea unor măsuri de simplificare și digitalizare pentru gestionarea fondurilor europene aferente Politicii de coeziune 2021-2027 | [`oug/2023/23/`](oug/2023/23/) | in force | 6 | 2023-04-13 | 2025-09-12 |
+| Ordonanța de urgență a Guvernului nr. 24/2023 privind unele măsuri fiscal-bugetare destinate acordării unor împrumuturi din Trezoreria Statului | [`oug/2023/24/`](oug/2023/24/) | in force | 1 | 2023-07-23 | 2023-07-23 |
 | Ordonanța de urgență a Guvernului nr. 26/2023 pentru modificarea și completarea art. 12 din Legea nr. 137/2002 privind unele măsuri pentru accelerarea privatizării | [`oug/2023/26/`](oug/2023/26/) | amending act | 1 | 2023-04-21 | 2023-04-21 |
 | Ordonanța de urgență a Guvernului nr. 27/2023 pentru modificarea și completarea unor acte normative în domeniul energetic, precum și pentru instituirea unor derogări | [`oug/2023/27/`](oug/2023/27/) | amending act | 2 | 2023-04-24 | 2023-07-20 |
 | Ordonanța de urgență a Guvernului nr. 32/2023 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 166/2022 privind unele măsuri pentru acordarea unui sprijin categoriilor de persoane vulnerabile pentru compensarea prețului la energie, suportat parțial din fonduri externe nerambursabile | [`oug/2023/32/`](oug/2023/32/) | amending act | 1 | 2023-05-11 | 2023-05-11 |
@@ -1121,6 +1130,7 @@
 | Ordonanța de urgență a Guvernului nr. 38/2023 pentru modificarea și completarea unor acte normative în scopul furnizării de servicii publice electronice aferente înmatriculării vehiculelor în România | [`oug/2023/38/`](oug/2023/38/) | amending act | 1 | 2023-05-25 | 2023-05-25 |
 | Ordonanța de urgență a Guvernului nr. 39/2023 privind înființarea Oficiului de Film și Investiții Culturale, precum și pentru stabilirea unor măsuri instituționale referitoare la gestionarea schemei de ajutor de stat pentru sprijinirea culturii de film și producției de film în România | [`oug/2023/39/`](oug/2023/39/) | in force | 2 | 2023-05-25 | 2024-03-29 |
 | Ordonanța de urgență a Guvernului nr. 40/2023 pentru modificarea și completarea Ordonanței Guvernului nr. 43/1997 privind regimul drumurilor | [`oug/2023/40/`](oug/2023/40/) | amending act | 1 | 2023-05-25 | 2023-05-25 |
+| Ordonanța de urgență a Guvernului nr. 41/2023 privind transferul rețelei sanitare a Ministerului Transporturilor și Infrastructurii către alte ministere și instituții cu rețele sanitare proprii, așa cum sunt reglementate la art. 4 alin. (2) din Legea nr. 95/2006 privind reforma în domeniul sănătății | [`oug/2023/41/`](oug/2023/41/) | in force | 4 | 2024-01-06 | 2024-12-05 |
 | Ordonanța de urgență a Guvernului nr. 42/2023 pentru modificarea și completarea Legii nr. 367/2022 privind dialogul social și a Legii nr. 53/2003 - Codul muncii | [`oug/2023/42/`](oug/2023/42/) | amending act | 2 | 2023-05-25 | 2023-12-02 |
 | Ordonanța de urgență a Guvernului nr. 43/2023 pentru modificarea și completarea Ordonanței Guvernului nr. 57/2002 privind cercetarea științifică și dezvoltarea tehnologică | [`oug/2023/43/`](oug/2023/43/) | amending act | 2 | 2023-05-25 | 2023-11-11 |
 | Ordonanța de urgență a Guvernului nr. 44/2023 pentru stabilirea unor măsuri necesare optimizării procesului de implementare a proiectelor de infrastructură finanțate din fonduri externe nerambursabile, precum și pentru modificarea și completarea unor acte normative | [`oug/2023/44/`](oug/2023/44/) | amending act | 2 | 2023-05-26 | 2023-12-23 |
@@ -1172,6 +1182,7 @@
 | Ordonanța de urgență a Guvernului nr. 6/2024 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 126/2005 privind reprezentarea României sau a instituțiilor publice în fața Curții de Arbitraj Internaționale a Centrului Internațional pentru Reglementarea Diferendelor Relative la Investiții | [`oug/2024/6/`](oug/2024/6/) | amending act | 4 | 2024-02-09 | 2024-10-14 |
 | Ordonanța de urgență a Guvernului nr. 7/2024 privind aprobarea schemei de ajutor de stat "Creditul fermierului", în contextul crizei provocate de agresiunea Rusiei împotriva Ucrainei, precum și pentru modificarea art. 12 alin. (1) din Legea nr. 218/2005 privind stimularea absorbției fondurilor alocate României pentru agricultură, dezvoltare rurală, pescuit și afaceri maritime, gestionate de Ministerul Agriculturii și Dezvoltării Rurale, prin instrumente financiare de garantare și creditare, precum și pentru susținerea obiectivelor naționale de politică agricolă | [`oug/2024/7/`](oug/2024/7/) | amending act | 3 | 2024-02-09 | 2024-10-16 |
 | Ordonanța de urgență a Guvernului nr. 10/2024 pentru modificarea și completarea unor acte normative | [`oug/2024/10/`](oug/2024/10/) | amending act | 1 | 2024-02-27 | 2024-02-27 |
+| Ordonanța de urgență a Guvernului nr. 13/2024 privind instituirea unei scheme de ajutor de stat pentru compensarea parțială a pierderilor la cultura de tomate în spații protejate și cultura de usturoi, în contextul crizei provocate de agresiunea Rusiei împotriva Ucrainei | [`oug/2024/13/`](oug/2024/13/) | in force | 2 | 2024-06-25 | 2024-07-06 |
 | Ordonanța de urgență a Guvernului nr. 21/2024 privind unele măsuri pentru organizarea și desfășurarea alegerilor pentru membrii din România în Parlamentul European din anul 2024 și a alegerilor pentru autoritățile administrației publice locale din anul 2024 | [`oug/2024/21/`](oug/2024/21/) | in force | 2 | 2024-03-08 | 2024-05-14 |
 | Ordonanța de urgență a Guvernului nr. 22/2024 pentru modificarea art. 35^1 din Ordonanța de urgență a Guvernului nr. 36/2023 privind stabilirea cadrului general pentru închiderea programelor operaționale finanțate în perioada de programare 2014-2020 | [`oug/2024/22/`](oug/2024/22/) | amending act | 2 | 2024-03-14 | 2024-06-13 |
 | Ordonanța de urgență a Guvernului nr. 23/2024 privind unele măsuri pentru consolidarea capacității instituționale a Agenției Naționale de Administrare Fiscală, reorganizarea activității acesteia, precum și pentru modificarea și completarea unor acte normative | [`oug/2024/23/`](oug/2024/23/) | amending act | 4 | 2024-03-18 | 2025-06-30 |
@@ -1266,12 +1277,13 @@
 | Ordonanța de urgență a Guvernului nr. 78/2025 pentru modificarea Legii nr. 239/2025 privind stabilirea unor măsuri de redresare și eficientizare a resurselor publice și pentru modificarea și completarea unor acte normative | [`oug/2025/78/`](oug/2025/78/) | amending act | 1 | 2025-12-17 | 2025-12-17 |
 | Ordonanța de urgență a Guvernului nr. 87/2025 pentru stabilirea unor măsuri bugetare privind implementarea programelor naționale din domeniul lucrărilor publice | [`oug/2025/87/`](oug/2025/87/) | in force | 1 | 2025-12-24 | 2025-12-24 |
 
-## Ordinances (OG) (116, of which 56 amending acts)
+## Ordinances (OG) (120, of which 56 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
 | Ordonanța Guvernului nr. 21/1992 privind protecția consumatorilor | [`og/1992/21/`](og/1992/21/) | in force | 11 | 1992-08-28 | 2023-11-11 |
 | Ordonanța Guvernului nr. 20/1994 | [`og/1994/20/`](og/1994/20/) | in force | 17 | 1994-01-28 | 2022-03-07 |
+| Ordonanța Guvernului nr. 26/1994 | [`og/1994/26/`](og/1994/26/) | in force | 15 | 1994-07-29 | 2023-04-17 |
 | Ordonanța Guvernului nr. 41/1994 | [`og/1994/41/`](og/1994/41/) | in force | 2 | 1994-08-29 | 2000-07-06 |
 | Ordonanța Guvernului nr. 27/1996 | [`og/1996/27/`](og/1996/27/) | in force | 9 | 1996-08-08 | 2021-11-01 |
 | Ordonanța Guvernului nr. 29/1997 privind Codul aerian civil | [`og/1997/29/`](og/1997/29/) | in force | 7 | 1998-01-01 | 2019-01-07 |
@@ -1286,9 +1298,11 @@
 | Ordonanța Guvernului nr. 2/2000 privind organizarea activității de expertiza tehnica judiciară și extrajudiciara | [`og/2000/2/`](og/2000/2/) | in force | 7 | 2000-01-25 | 2023-11-06 |
 | Ordonanța Guvernului nr. 26/2000 cu privire la asociații și fundații | [`og/2000/26/`](og/2000/26/) | in force | 15 | 2000-04-30 | 2024-10-08 |
 | Ordonanța Guvernului nr. 78/2000 | [`og/2000/78/`](og/2000/78/) | in force | 13 | 2000-08-30 | 2023-05-25 |
+| Ordonanța Guvernului nr. 80/2000 | [`og/2000/80/`](og/2000/80/) | in force | 7 | 2000-08-30 | 2021-04-16 |
 | Ordonanța Guvernului nr. 81/2000 | [`og/2000/81/`](og/2000/81/) | in force | 11 | 2000-08-30 | 2024-02-17 |
 | Ordonanța Guvernului nr. 137/2000 privind prevenirea și sancționarea tuturor formelor de discriminare | [`og/2000/137/`](og/2000/137/) | in force | 22 | 2000-11-01 | 2022-07-02 |
 | Ordonanța Guvernului nr. 2/2001 privind regimul juridic al contravențiilor | [`og/2001/2/`](og/2001/2/) | in force | 23 | 2001-08-24 | 2026-03-27 |
+| Ordonanța Guvernului nr. 50/2001 pentru ratificarea Memorandumului de înțelegere privind controlul statului portului în regiunea Marii Negre, semnat la Istanbul la 7 aprilie 2000 | [`og/2001/50/`](og/2001/50/) | in force | 1 | 2024-05-20 | 2024-05-20 |
 | Ordonanța Guvernului nr. 64/2001 | [`og/2001/64/`](og/2001/64/) | in force | 15 | 2001-09-01 | 2024-03-29 |
 | Ordonanța Guvernului nr. 82/2001 | [`og/2001/82/`](og/2001/82/) | in force | 8 | 2002-01-01 | 2024-06-29 |
 | Ordonanța Guvernului nr. 83/2001 | [`og/2001/83/`](og/2001/83/) | in force | 21 | 2002-01-01 | 2025-12-19 |
@@ -1297,6 +1311,7 @@
 | Ordonanța Guvernului nr. 22/2002 | [`og/2002/22/`](og/2002/22/) | in force | 5 | 2002-02-01 | 2011-06-11 |
 | Ordonanța Guvernului nr. 27/2002 privind reglementarea activității de soluționare a petitiilor | [`og/2002/27/`](og/2002/27/) | in force | 5 | 2002-02-01 | 2024-12-01 |
 | Ordonanța Guvernului nr. 57/2002 | [`og/2002/57/`](og/2002/57/) | in force | 24 | 2002-08-30 | 2023-11-11 |
+| Ordonanța Guvernului nr. 11/2003 | [`og/2003/11/`](og/2003/11/) | in force | 9 | 2003-02-01 | 2021-04-01 |
 | Ordonanța Guvernului nr. 81/2003 | [`og/2003/81/`](og/2003/81/) | in force | 6 | 2003-08-31 | 2021-05-07 |
 | Ordonanța Guvernului nr. 86/2003 | [`og/2003/86/`](og/2003/86/) | in force | 20 | 2003-08-31 | 2025-12-18 |
 | Ordonanța Guvernului nr. 42/2004 | [`og/2004/42/`](og/2004/42/) | in force | 26 | 2004-02-03 | 2026-01-01 |
