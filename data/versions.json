@@ -78494,6 +78494,27 @@
    ]
   },
   {
+   "slug": "oug-158-2001",
+   "path": "oug/2001/158",
+   "short": "OUG nr. 158/2001",
+   "title": "Ordonanța de urgență a Guvernului nr. 158/2001",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/45147",
+   "versions": [
+    {
+     "from": "2002-01-01",
+     "units": 62,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/32456",
+     "sha256": "07e77cd3dd4dca492b3eba2d56a19c9bdaaa7f46e7a8030b641d7dff41b55a1c"
+    },
+    {
+     "from": "2003-07-16",
+     "units": 62,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/45147",
+     "sha256": "7865aabc1bbc80253f6d348991c003ca2199bb86bdab9af06a3a16a600dfd107"
+    }
+   ]
+  },
+  {
    "slug": "oug-158-2005",
    "path": "oug/2005/158",
    "short": "OUG nr. 158/2005",

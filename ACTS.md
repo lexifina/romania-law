@@ -1,6 +1,6 @@
 # Every act in this repository
 
-10114 acts, 23,635 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+10115 acts, 23,637 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -2228,7 +2228,7 @@
 | Legea nr. 190/2026 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 81/2021 privind aprobarea metodelor de intervenţie imediată pentru prevenirea şi combaterea atacurilor exemplarelor de urs brun asupra persoanelor şi bunurilor acestora, precum şi pentru modificarea şi completarea unor acte normative | [`lege/2026/190/`](lege/2026/190/) | amending act | 1 | 2026-10-08 | 2026-10-08 |
 | Legea nr. 205/2026 pentru completarea Ordonanţei Guvernului nr. 22/2002 privind executarea obligaţiilor de plată ale instituţiilor publice, stabilite prin titluri executorii | [`lege/2026/205/`](lege/2026/205/) | amending act | 1 | 2026-11-02 | 2026-11-02 |
 
-## Emergency ordinances (OUG) (1576, of which 541 amending acts)
+## Emergency ordinances (OUG) (1577, of which 541 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -2349,6 +2349,7 @@
 | Ordonanța de urgență a Guvernului nr. 144/2001 | [`oug/2001/144/`](oug/2001/144/) | in force | 7 | 2001-12-01 | 2006-04-14 |
 | Ordonanța de urgență a Guvernului nr. 149/2001 | [`oug/2001/149/`](oug/2001/149/) | repealed 2011-12-11 | 3 | 2001-11-21 | 2011-12-11 |
 | Ordonanța de urgență a Guvernului nr. 155/2001 | [`oug/2001/155/`](oug/2001/155/) | in force | 7 | 2001-12-13 | 2023-12-11 |
+| Ordonanța de urgență a Guvernului nr. 158/2001 | [`oug/2001/158/`](oug/2001/158/) | in force | 2 | 2002-01-01 | 2003-07-16 |
 | Ordonanța de urgență a Guvernului nr. 163/2001 | [`oug/2001/163/`](oug/2001/163/) | in force | 2 | 2001-12-13 | 2003-04-25 |
 | Ordonanța de urgență a Guvernului nr. 168/2001 | [`oug/2001/168/`](oug/2001/168/) | repealed 2011-01-02 | 6 | 2001-12-20 | 2011-01-02 |
 | Ordonanța de urgență a Guvernului nr. 175/2001 | [`oug/2001/175/`](oug/2001/175/) | in force | 2 | 2001-12-21 | 2002-07-10 |
