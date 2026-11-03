@@ -1,6 +1,6 @@
 # Every act in this repository
 
-15590 acts, 29,214 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+15593 acts, 29,217 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -4925,7 +4925,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (10674, of which 4997 amending acts)
+## Government decisions (HG) (10677, of which 4998 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -8820,6 +8820,9 @@
 | Hotărârea Guvernului nr. 795/2018 privind aprobarea Planului de urgență pentru gestionarea situațiilor de disfuncționalitate majoră în aprovizionarea cu țiței și/sau produse petroliere, a situațiilor de urgență deosebită și a situațiilor de criză locală | [`hg/2018/795/`](hg/2018/795/) | amending act | 1 | 2018-10-10 | 2018-10-10 |
 | Hotărârea Guvernului nr. 830/2018 privind preluarea în depozit de către Centrul Național de Management al Apei Grele a cantităților de apă grea constituite ca stoc rezervă de stat | [`hg/2018/830/`](hg/2018/830/) | in force | 1 | 2018-10-29 | 2018-10-29 |
 | Hotărârea Guvernului nr. 845/2018 pentru aprobarea Regulamentului privind recepția construcțiilor din domeniul infrastructurii rutiere și feroviare de interes național | [`hg/2018/845/`](hg/2018/845/) | amending act | 2 | 2018-11-06 | 2024-03-05 |
+| Hotărârea Guvernului nr. 846/2018 pentru modificarea şi completarea Hotărârii Guvernului nr. 1.215/2009 privind stabilirea criteriilor şi a condiţiilor necesare implementării schemei de sprijin pentru promovarea cogenerării de înaltă eficienţă pe baza cererii de energie termică utilă | [`hg/2018/846/`](hg/2018/846/) | amending act | 1 | 2018-11-02 | 2018-11-02 |
+| Hotărârea Guvernului nr. 847/2018 privind suplimentarea bugetului Ministerului Finanţelor Publice - Acţiuni generale din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2018 | [`hg/2018/847/`](hg/2018/847/) | in force | 1 | 2018-11-01 | 2018-11-01 |
+| Hotărârea Guvernului nr. 848/2018 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2018, pentru echilibrarea bugetelor locale | [`hg/2018/848/`](hg/2018/848/) | in force | 1 | 2018-11-01 | 2018-11-01 |
 | Hotărârea Guvernului nr. 849/2018 privind aprobarea bugetului de venituri şi cheltuieli rectificat pe anul 2018 pentru Regia Autonomă Tehnologii pentru Energia Nucleară, aflată sub autoritatea Ministerului Energiei | [`hg/2018/849/`](hg/2018/849/) | amending act | 1 | 2018-11-02 | 2018-11-02 |
 | Hotărârea Guvernului nr. 851/2018 pentru modificarea anexei la Hotărârea Guvernului nr. 429/2008 privind nivelul alocaţiilor de hrană pentru consumurile colective din unităţile sanitare publice | [`hg/2018/851/`](hg/2018/851/) | amending act | 1 | 2018-11-01 | 2018-11-01 |
 | Hotărârea Guvernului nr. 852/2018 privind aprobarea alocării unei sume din bugetul asigurărilor pentru şomaj pe anul 2018 pentru plata venitului lunar de completare de care beneficiază persoanele disponibilizate de la Societatea Complexul Energetic Hunedoara - S.A | [`hg/2018/852/`](hg/2018/852/) | amending act | 1 | 2018-11-02 | 2018-11-02 |

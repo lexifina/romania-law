@@ -231497,6 +231497,21 @@
    ]
   },
   {
+   "slug": "hg-846-2018",
+   "path": "hg/2018/846",
+   "short": "HG nr. 846/2018",
+   "title": "Hotărârea Guvernului nr. 846/2018 pentru modificarea şi completarea Hotărârii Guvernului nr. 1.215/2009 privind stabilirea criteriilor şi a condiţiilor necesare implementării schemei de sprijin pentru promovarea cogenerării de înaltă eficienţă pe baza cererii de energie termică utilă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/206396",
+   "versions": [
+    {
+     "from": "2018-11-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/206396",
+     "sha256": "00f2fef72c36f2f25929fa2b28081e93d66c4add57d5d8d93fffea170d8a42d5"
+    }
+   ]
+  },
+  {
    "slug": "hg-846-2019",
    "path": "hg/2019/846",
    "short": "HG nr. 846/2019",
@@ -231638,6 +231653,21 @@
    ]
   },
   {
+   "slug": "hg-847-2018",
+   "path": "hg/2018/847",
+   "short": "HG nr. 847/2018",
+   "title": "Hotărârea Guvernului nr. 847/2018 privind suplimentarea bugetului Ministerului Finanţelor Publice - Acţiuni generale din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/206365",
+   "versions": [
+    {
+     "from": "2018-11-01",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/206365",
+     "sha256": "15e00492041d2e5c95fbe9093c0d4af685cfa866e543cb3821e17370061a7638"
+    }
+   ]
+  },
+  {
    "slug": "hg-847-2019",
    "path": "hg/2019/847",
    "short": "HG nr. 847/2019",
@@ -231724,6 +231754,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84045",
      "sha256": "dd9d6cf3d70d5bbfa921e9c151de5a6c25dea332cde0e2993363fb2a339329ab"
+    }
+   ]
+  },
+  {
+   "slug": "hg-848-2018",
+   "path": "hg/2018/848",
+   "short": "HG nr. 848/2018",
+   "title": "Hotărârea Guvernului nr. 848/2018 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2018, pentru echilibrarea bugetelor locale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/206366",
+   "versions": [
+    {
+     "from": "2018-11-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/206366",
+     "sha256": "be923f3bd93bbaf0e7f95be0702cde052f9312d2aacd6274c36d8613403e0ac2"
     }
    ]
   },
