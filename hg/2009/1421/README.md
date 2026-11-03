@@ -30,3 +30,13 @@ Act id: `hg-1421-2009` (tags `hg-1421-2009/<day>`; `python tools/on.py <day> hg-
 - HG nr. 1421/2009: added by Lexifina's automatic pass with the default rules: the forms are those the portal lists, each version is dated by its form or by the notes it prints, and no rule or ruling made for this act alone was applied. It was published only because every automatic check passed: two parses identical, the newest form read afresh equal to the latest version article by article, every article a form leaves out settled by the standing rules, every version dated by a rule or a stated in-force day, and no unexplained change other than diacritics or spacing.
 - HG nr. 1421/2009: the first version is the Government decision as published in Monitorul Oficial nr. 848 of 8 December 2009 (DetaliiDocumentAfis/114247), dated 8 December 2009: a Government decision with no day of its own, in force on publication (Legea nr. 24/2000 art. 12 alin. (3)). The portal holds no consolidated form before 11 November 2011, so the changes made up to then arrive together that day.
 - HG nr. 1421/2009: the portal editorial notes printed as paragraphs of an article (on a Constitutional Court ruling, a rectification, a provision put back in force) are not text: 4 such paragraphs across all forms, for example «A se vedea și alin. (1) al art. II din HOTĂRÂREA nr. 1.093 d».
+
+## Credits corrected
+
+These changes were first published credited to another law. The words are unchanged; `git blame` still names the commit that wrote them, and `data/credits.csv` lists every corrected credit.
+
+- `art-001.md`, in force from 2011-11-11: HG nr. 1093/2011 (first published as no law named).
+- `art-004.md`, in force from 2011-11-11: HG nr. 1093/2011 (first published as no law named).
+- `art-010.md`, in force from 2011-11-11: HG nr. 1093/2011 (first published as no law named).
+- `art-004.md`, in force from 2012-06-05: HG nr. 560/2012 (first published as no law named).
+- `art-010.md`, in force from 2012-06-05: HG nr. 560/2012 (first published as no law named).
