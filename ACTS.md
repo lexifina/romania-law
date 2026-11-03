@@ -1,6 +1,6 @@
 # Every act in this repository
 
-5320 acts, 14,272 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+5322 acts, 14,290 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -2747,7 +2747,7 @@
 | Ordonanța de urgență a Guvernului nr. 78/2025 pentru modificarea Legii nr. 239/2025 privind stabilirea unor măsuri de redresare și eficientizare a resurselor publice și pentru modificarea și completarea unor acte normative | [`oug/2025/78/`](oug/2025/78/) | amending act | 1 | 2025-12-17 | 2025-12-17 |
 | Ordonanța de urgență a Guvernului nr. 87/2025 pentru stabilirea unor măsuri bugetare privind implementarea programelor naționale din domeniul lucrărilor publice | [`oug/2025/87/`](oug/2025/87/) | in force | 1 | 2025-12-24 | 2025-12-24 |
 
-## Ordinances (OG) (322, of which 83 amending acts)
+## Ordinances (OG) (323, of which 83 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -2772,6 +2772,7 @@
 | Ordonanța Guvernului nr. 46/1998 | [`og/1998/46/`](og/1998/46/) | in force | 8 | 1998-07-31 | 2022-08-28 |
 | Ordonanța Guvernului nr. 47/1998 | [`og/1998/47/`](og/1998/47/) | in force | 2 | 1998-09-29 | 2001-04-26 |
 | Ordonanța Guvernului nr. 51/1998 | [`og/1998/51/`](og/1998/51/) | in force | 17 | 1998-08-13 | 2024-09-01 |
+| Ordonanța Guvernului nr. 58/1998 | [`og/1998/58/`](og/1998/58/) | in force | 17 | 1998-08-26 | 2026-09-25 |
 | Ordonanța Guvernului nr. 76/1998 | [`og/1998/76/`](og/1998/76/) | in force | 1 | 1998-08-27 | 1998-08-27 |
 | Ordonanța Guvernului nr. 90/1998 | [`og/1998/90/`](og/1998/90/) | in force | 2 | 1998-08-27 | 1998-11-16 |
 | Ordonanța Guvernului nr. 95/1998 | [`og/1998/95/`](og/1998/95/) | in force | 9 | 1998-09-27 | 2024-04-24 |
@@ -3074,7 +3075,7 @@
 | Ordonanța Guvernului nr. 21/2025 pentru modificarea și completarea Legii nr. 431/2023 privind asigurarea unui nivel minim global de impozitare a grupurilor de întreprinderi multinaționale și a grupurilor naționale de mari dimensiuni | [`og/2025/21/`](og/2025/21/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 | Ordonanța Guvernului nr. 22/2025 pentru modificarea și completarea Legii nr. 227/2015 privind Codul fiscal | [`og/2025/22/`](og/2025/22/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 
-## Government decisions (HG) (2254, of which 816 amending acts)
+## Government decisions (HG) (2255, of which 817 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -5225,6 +5226,7 @@
 | Hotărârea Guvernului nr. 4/2025 privind stabilirea datei alegerilor pentru Președintele României din anul 2025 | [`hg/2025/4/`](hg/2025/4/) | in force | 1 | 2025-02-18 | 2025-02-18 |
 | Hotărârea Guvernului nr. 5/2025 privind stabilirea datei alegerilor locale parțiale pentru președintele Consiliului Județean Bihor și pentru primari în unele circumscripții electorale | [`hg/2025/5/`](hg/2025/5/) | in force | 1 | 2025-03-30 | 2025-03-30 |
 | Hotărârea Guvernului nr. 12/2025 pentru aprobarea indicatorilor tehnico-economici aferenți obiectivului de investiții "Realizarea de noi noduri rutiere pe autostrăzi - Nod rutier Pantelimon (A0 - km 48), sectorul A0-Nord", județul Ilfov | [`hg/2025/12/`](hg/2025/12/) | amending act | 1 | 2025-01-17 | 2025-01-17 |
+| Hotărârea Guvernului nr. 27/2025 pentru modificarea și completarea Metodologiei privind prevenirea și combaterea hărțuirii pe criteriul de sex, precum și a hărțuirii morale la locul de muncă, aprobată prin Hotărârea Guvernului nr. 970/2023 | [`hg/2025/27/`](hg/2025/27/) | amending act | 1 | 2025-02-03 | 2025-02-03 |
 | Hotărârea Guvernului nr. 56/2025 privind aprobarea prealabilă în vederea recunoașterii prin hotărâre judecătorească a Asociației Obștești "Asociația Investitorilor din România" | [`hg/2025/56/`](hg/2025/56/) | amending act | 1 | 2025-02-17 | 2025-02-17 |
 | Hotărârea Guvernului nr. 57/2025 privind aprobarea unor modificări în inventarul centralizat al bunurilor din domeniul public al statului aflate în administrarea Ministerului Apărării Naționale, situate în județele Arad, Satu Mare, Harghita, Alba, Cluj, Buzău, Caraș-Severin, Timiș, Maramureș și Brașov, și modificarea anexei nr. 4 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului | [`hg/2025/57/`](hg/2025/57/) | amending act | 1 | 2025-02-17 | 2025-02-17 |
 | Hotărârea Guvernului nr. 63/2025 privind acordarea unor ajutoare de urgență | [`hg/2025/63/`](hg/2025/63/) | in force | 1 | 2025-02-21 | 2025-02-21 |

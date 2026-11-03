@@ -46361,6 +46361,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/15449"
 },
 {
+"slug": "og-58-1998",
+"path": "og/1998/58",
+"kind": "og",
+"year": "1998",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța Guvernului nr. 58/1998",
+"short": "OG nr. 58/1998",
+"code": null,
+"status": "in force",
+"versions": 17,
+"from": "1998-08-26",
+"latest": "2026-09-25",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/15492"
+},
+{
 "slug": "og-76-1998",
 "path": "og/1998/76",
 "kind": "og",
@@ -88536,6 +88553,23 @@
 "from": "2025-01-17",
 "latest": "2025-01-17",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/293685"
+},
+{
+"slug": "hg-27-2025",
+"path": "hg/2025/27",
+"kind": "hg",
+"year": "2025",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 27/2025 pentru modificarea și completarea Metodologiei privind prevenirea și combaterea hărțuirii pe criteriul de sex, precum și a hărțuirii morale la locul de muncă, aprobată prin Hotărârea Guvernului nr. 970/2023",
+"short": "HG nr. 27/2025",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2025-02-03",
+"latest": "2025-02-03",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/294209"
 },
 {
 "slug": "hg-56-2025",

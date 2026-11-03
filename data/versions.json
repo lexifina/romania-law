@@ -34913,6 +34913,117 @@
    ]
   },
   {
+   "slug": "og-58-1998",
+   "path": "og/1998/58",
+   "short": "OG nr. 58/1998",
+   "title": "Ordonanța Guvernului nr. 58/1998",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15492",
+   "versions": [
+    {
+     "from": "1998-08-26",
+     "units": 44,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/15492",
+     "sha256": "2b8536bf8bb01fde07095da758a61d46b3231e3bcce743f730945be4c841b7b7"
+    },
+    {
+     "from": "2003-05-29",
+     "units": 44,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49063",
+     "sha256": "96fd26f93aa5a3b3438a9732188214aedbecd99e71684c45fed48abf08aac3f1"
+    },
+    {
+     "from": "2006-03-10",
+     "units": 44,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/70489",
+     "sha256": "58e08f10ad1926859e5ad647fb5973e5557460da3577877fe8c2ee0bf9914df1"
+    },
+    {
+     "from": "2008-10-07",
+     "units": 44,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/98138",
+     "sha256": "3a333f5cbd28f40bdfda48fb355de4ff50c0b4a7ccb01eebb8dbdc7dfa87458b"
+    },
+    {
+     "from": "2009-07-06",
+     "units": 44,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/109427",
+     "sha256": "4b6e285cfd28c27bce80f6634808b1a79b2e6f3c795e8a93402d17b50cd2eaad"
+    },
+    {
+     "from": "2010-04-02",
+     "units": 40,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/117680",
+     "sha256": "e18a03adf7982314c4025936db52ec20eec1527f57799ad778debd207b3e60ca"
+    },
+    {
+     "from": "2011-12-29",
+     "units": 40,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/134347",
+     "sha256": "c60218b4b185b87e2fe12b515b90bd381002cdf5894ed105189608b028216187"
+    },
+    {
+     "from": "2013-11-07",
+     "units": 44,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/154509",
+     "sha256": "18f3791c9e6ec780ccaf2b34862f17d126af089c8ae04a0e42a38c45e630f870"
+    },
+    {
+     "from": "2014-12-18",
+     "units": 45,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/164097",
+     "sha256": "d52c21c9ad67bf2628c48cd812acb1a9c91ec153b542b3ae2d9d75e7d2f2bc32"
+    },
+    {
+     "from": "2015-04-27",
+     "units": 45,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167537",
+     "sha256": "169cb364aba2345c998aaffe97b467c51a821d7c27ee64a4eac5e5ae5d21a829"
+    },
+    {
+     "from": "2017-08-27",
+     "units": 48,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/192277",
+     "sha256": "1a65dd20e7177e1ed59f87563b7a8765710d6869011554e65746fd38f104b542"
+    },
+    {
+     "from": "2018-12-06",
+     "units": 52,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/207238",
+     "sha256": "47156a27eada026c550e565769f79d459f7f5922d21883820e5ccebd0f3d9255"
+    },
+    {
+     "from": "2021-06-30",
+     "units": 52,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/243497",
+     "sha256": "a659b7252c98c75f91e873377389aa2b75c4fdd443d003fd92385dd59156824a"
+    },
+    {
+     "from": "2022-06-24",
+     "units": 56,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/256247",
+     "sha256": "f062f70da50e404a85f6e717578a3f9346b28bc7af67cbca571c60bbdb7b3937"
+    },
+    {
+     "from": "2023-03-23",
+     "units": 56,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/265099",
+     "sha256": "8ab8dab2fc7faaf078eb5864f931ed280b4c02c49caec16428a4653e4112c131"
+    },
+    {
+     "from": "2024-12-19",
+     "units": 56,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/291724",
+     "sha256": "dacfd67d1d936733a0091dd1699104ebc557630d500cb1aa77dd6771dd749ab8"
+    },
+    {
+     "from": "2026-09-25",
+     "units": 56,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15492",
+     "sha256": "d6558ecebf724e1e804df8c06fb3200d456ff5e64e4aec905ae3f05f43685ae5"
+    }
+   ]
+  },
+  {
    "slug": "og-6-2013",
    "path": "og/2013/6",
    "short": "OG nr. 6/2013",
@@ -59947,6 +60058,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/295755",
      "sha256": "b5e8a05dfb63839a7d04f1984efef49a0e992ec89c89632d0e4392a7aa9a2918"
+    }
+   ]
+  },
+  {
+   "slug": "hg-27-2025",
+   "path": "hg/2025/27",
+   "short": "HG nr. 27/2025",
+   "title": "Hotărârea Guvernului nr. 27/2025 pentru modificarea și completarea Metodologiei privind prevenirea și combaterea hărțuirii pe criteriul de sex, precum și a hărțuirii morale la locul de muncă, aprobată prin Hotărârea Guvernului nr. 970/2023",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/294209",
+   "versions": [
+    {
+     "from": "2025-02-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/public/DetaliiDocument/294209",
+     "sha256": "b7abca4283658ec2771f3aa84d0893d977f549caa6b3e2647d30d3b682842949"
     }
    ]
   },
