@@ -54122,6 +54122,63 @@
    ]
   },
   {
+   "slug": "legea-59-1934",
+   "path": "lege/1934/59",
+   "short": "Legea nr. 59/1934",
+   "title": "Legea nr. 59/1934",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19",
+   "versions": [
+    {
+     "from": "1934-06-01",
+     "units": 89,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/19",
+     "sha256": "a465c22e99c05b69e5ad7d6203d5f3007c57ebe1a5a35b3f12a1ca9aabe48c59"
+    },
+    {
+     "from": "1993-08-23",
+     "units": 86,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59201",
+     "sha256": "90aa956dba3e9e48195b0bc95f5ad823350e97d59adbd80ac09ddcbb2f2802ef"
+    },
+    {
+     "from": "1994-10-14",
+     "units": 86,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59202",
+     "sha256": "9320b76b81f3bfa3304280a0e75a81c1417b320ced19093b641db5ea143ae99f"
+    },
+    {
+     "from": "2008-05-11",
+     "units": 89,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/91655",
+     "sha256": "db61aa56d6c5e117b21b8891998f608fcbd7e87bd7a2d8d3854500d0b4abb680"
+    },
+    {
+     "from": "2009-05-09",
+     "units": 89,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/105638",
+     "sha256": "0a6085181d553812e0bfbf8ff52a89a03e1677b59aae81ee23a1679d5668d9b3"
+    },
+    {
+     "from": "2013-02-15",
+     "units": 89,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/140436",
+     "sha256": "bf9ce6f79c4b3052398a228b31f76acc6e770cbff4a31998c0264f359aaddaf2"
+    },
+    {
+     "from": "2014-02-01",
+     "units": 89,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142866",
+     "sha256": "5a136d27a28261ee73f6756b20594589029fe2c47ba8a54fed98ef88b5124f23"
+    },
+    {
+     "from": "2022-06-23",
+     "units": 96,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19",
+     "sha256": "3799c2f0539ceacd9a58b76c44d50c030318347a0d85cb676baf23d8e129b646"
+    }
+   ]
+  },
+  {
    "slug": "legea-590-2003",
    "path": "lege/2003/590",
    "short": "Legea nr. 590/2003",
@@ -90197,6 +90254,57 @@
    ]
   },
   {
+   "slug": "oug-91-2014",
+   "path": "oug/2014/91",
+   "short": "OUG nr. 91/2014",
+   "title": "Ordonanța de urgență a Guvernului nr. 91/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/192626",
+   "versions": [
+    {
+     "from": "2014-12-30",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/164308",
+     "sha256": "49e1df1325bf50fcaa4705e7e7b9e33fd263933dd2ec84806de89b52d1491eae"
+    },
+    {
+     "from": "2015-01-09",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/164308",
+     "sha256": "49e1df1325bf50fcaa4705e7e7b9e33fd263933dd2ec84806de89b52d1491eae"
+    },
+    {
+     "from": "2015-07-23",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/169942",
+     "sha256": "e2e23b6296963ab1e1d2bcfa323357f2afec57379a4fa09ae94744d77e7218cd"
+    },
+    {
+     "from": "2015-11-13",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172871",
+     "sha256": "af849c4616df4e96787f85405e1b867ac5ffd9eaff06722a1b732f5841646c7f"
+    },
+    {
+     "from": "2015-12-11",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/173980",
+     "sha256": "c18198b8a96a7a28b8c543e671ddb54712c6367974717b82cccbd815a0662b80"
+    },
+    {
+     "from": "2016-12-21",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/184718",
+     "sha256": "911a4b2526d2e7c518509d7db9499b0e5bf0369062ebcd2fbf97dfdf781d05d0"
+    },
+    {
+     "from": "2017-09-03",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/192626",
+     "sha256": "f925a202326310f203a56cf3d08f586c938d593c249cb7bfc6ee13d62f45a862"
+    }
+   ]
+  },
+  {
    "slug": "oug-91-2017",
    "path": "oug/2017/91",
    "short": "OUG nr. 91/2017",
@@ -118427,6 +118535,21 @@
    ]
   },
   {
+   "slug": "hg-290-2023",
+   "path": "hg/2023/290",
+   "short": "HG nr. 290/2023",
+   "title": "Hotărârea Guvernului nr. 290/2023 privind aprobarea modelului steagului comunei Lereşti, judeţul Argeş",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/267122",
+   "versions": [
+    {
+     "from": "2023-04-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/267122",
+     "sha256": "6ac62f9595f17d6953e3466be8684ee9a5e9b3c591f369148aab2d9ae91cf39c"
+    }
+   ]
+  },
+  {
    "slug": "hg-290-2024",
    "path": "hg/2024/290",
    "short": "HG nr. 290/2024",
@@ -119717,6 +119840,21 @@
    ]
   },
   {
+   "slug": "hg-316-2023",
+   "path": "hg/2023/316",
+   "short": "HG nr. 316/2023",
+   "title": "Hotărârea Guvernului nr. 316/2023 privind actualizarea descrierii tehnice a unui bun imobil aflat în domeniul public al statului şi în administrarea Staţiunii de Cercetare-Dezvoltare Agricolă Livada, precum şi trecerea unor bunuri imobile aflate în administrarea Staţiunii de Cercetare-Dezvoltare Agricolă Livada din domeniul public al statului în domeniul privat al acestuia, în vederea scoaterii din funcţiune, valorificării şi casării, după caz",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/266795",
+   "versions": [
+    {
+     "from": "2023-04-12",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/266795",
+     "sha256": "276e24d06c161ccf69c9f214920aa75ea325dda48be8d7332c0c23c35d4c3579"
+    }
+   ]
+  },
+  {
    "slug": "hg-316-2024",
    "path": "hg/2024/316",
    "short": "HG nr. 316/2024",
@@ -119873,6 +120011,21 @@
    ]
   },
   {
+   "slug": "hg-320-2023",
+   "path": "hg/2023/320",
+   "short": "HG nr. 320/2023",
+   "title": "Hotărârea Guvernului nr. 320/2023 privind aprobarea stemei comunei Tomeşti, judeţul Harghita",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/267123",
+   "versions": [
+    {
+     "from": "2023-04-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/267123",
+     "sha256": "9b8801e8c158380dd71b1e1d43fad6e10187724b064582a9165a8cfc2025cee6"
+    }
+   ]
+  },
+  {
    "slug": "hg-320-2024",
    "path": "hg/2024/320",
    "short": "HG nr. 320/2024",
@@ -119914,6 +120067,21 @@
      "units": 7,
      "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/200687",
      "sha256": "6af0e0128a8ecf97f028190b40a86aba0e6a1171143afe3974233286599d7c81"
+    }
+   ]
+  },
+  {
+   "slug": "hg-321-2023",
+   "path": "hg/2023/321",
+   "short": "HG nr. 321/2023",
+   "title": "Hotărârea Guvernului nr. 321/2023 privind aprobarea modelului de steag al comunei Ciceu, judeţul Harghita",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/267124",
+   "versions": [
+    {
+     "from": "2023-04-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/267124",
+     "sha256": "1d595e4fc3577eb804353ace487e7c2dd283a21d4c94b5d2905ddceeb3c89bab"
     }
    ]
   },
@@ -120356,6 +120524,21 @@
    ]
   },
   {
+   "slug": "hg-330-2023",
+   "path": "hg/2023/330",
+   "short": "HG nr. 330/2023",
+   "title": "Hotărârea Guvernului nr. 330/2023 privind aprobarea bugetului de venituri şi cheltuieli pe anul 2023 pentru Societatea IOR - S.A., aflată sub autoritatea Ministerului Economiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/267111",
+   "versions": [
+    {
+     "from": "2023-04-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/267111",
+     "sha256": "7b8be71e8fa6ae2199f17046fe0ea43a7d0d54abdae2f7b972e8658da2b6e78e"
+    }
+   ]
+  },
+  {
    "slug": "hg-330-2024",
    "path": "hg/2024/330",
    "short": "HG nr. 330/2024",
@@ -120491,6 +120674,21 @@
    ]
   },
   {
+   "slug": "hg-334-2023",
+   "path": "hg/2023/334",
+   "short": "HG nr. 334/2023",
+   "title": "Hotărârea Guvernului nr. 334/2023 privind actualizarea valorii de inventar pentru unele imobile aflate în domeniul public al statului şi în administrarea Ministerului Afacerilor Interne - Inspectoratul Teritorial al Poliţiei de Frontieră Oradea, respectiv pentru aprobarea închirierii unor părţi din aceste imobile",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/267266",
+   "versions": [
+    {
+     "from": "2023-04-20",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/267266",
+     "sha256": "4dd64d69f23846528a07da1d1b1aa6eca92a430eb12ee6b7176ef659ee020879"
+    }
+   ]
+  },
+  {
    "slug": "hg-334-2024",
    "path": "hg/2024/334",
    "short": "HG nr. 334/2024",
@@ -120532,6 +120730,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35440",
      "sha256": "c4d7ae4b62e971b4cb0f2dc548490e387d4d2dcf651aacf6f85a4f7d7601ee60"
+    }
+   ]
+  },
+  {
+   "slug": "hg-335-2023",
+   "path": "hg/2023/335",
+   "short": "HG nr. 335/2023",
+   "title": "Hotărârea Guvernului nr. 335/2023 pentru aprobarea Acordului dintre guvernele Republicii Azerbaidjan, Georgiei, României şi Ungariei privind Parteneriatul strategic în domeniul dezvoltării şi transportului energiei verzi, semnat la Bucureşti la 17 decembrie 2022",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/267211",
+   "versions": [
+    {
+     "from": "2023-04-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/267211",
+     "sha256": "318d6f42d44939d3942e7a57bfe7bd63d5c9e868efca9231cbdf0dccdcb28b66"
     }
    ]
   },
@@ -120656,6 +120869,21 @@
    ]
   },
   {
+   "slug": "hg-338-2023",
+   "path": "hg/2023/338",
+   "short": "HG nr. 338/2023",
+   "title": "Hotărârea Guvernului nr. 338/2023 privind aprobarea bugetului de venituri şi cheltuieli pe anul 2023 al Regiei Autonome \"Autoritatea Aeronautică Civilă Română\", aflată sub autoritatea Ministerului Transporturilor şi Infrastructurii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/267132",
+   "versions": [
+    {
+     "from": "2023-04-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/267132",
+     "sha256": "b9c783306664d8227f02065a130b8f7d3d2bdf8786f3ee607c6da173bef8f87c"
+    }
+   ]
+  },
+  {
    "slug": "hg-338-2024",
    "path": "hg/2024/338",
    "short": "HG nr. 338/2024",
@@ -120682,6 +120910,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/296611",
      "sha256": "d1afa6a20e5f1aaec9bff7b92c7914ac00ae5b82390a9c53d4d9774479ebd1bd"
+    }
+   ]
+  },
+  {
+   "slug": "hg-339-2023",
+   "path": "hg/2023/339",
+   "short": "HG nr. 339/2023",
+   "title": "Hotărârea Guvernului nr. 339/2023 privind aprobarea bugetului de venituri şi cheltuieli pe anul 2023 al Companiei Naţionale \"Administraţia Porturilor Dunării Fluviale\" - S.A. Giurgiu, aflată sub autoritatea Ministerului Transporturilor şi Infrastructurii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/267133",
+   "versions": [
+    {
+     "from": "2023-04-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/267133",
+     "sha256": "cc2a0ddf8fe55b4c79491fefe73a757800d1e1335fe4f478c6a892e8a62e590f"
     }
    ]
   },
@@ -120806,6 +121049,21 @@
    ]
   },
   {
+   "slug": "hg-340-2023",
+   "path": "hg/2023/340",
+   "short": "HG nr. 340/2023",
+   "title": "Hotărârea Guvernului nr. 340/2023 pentru modificarea şi completarea Hotărârii Guvernului nr. 30/2017 privind organizarea şi funcţionarea Ministerului Agriculturii şi Dezvoltării Rurale, precum şi pentru modificarea art. 6 alin. (6) din Hotărârea Guvernului nr. 1.186/2014 privind organizarea şi funcţionarea Autorităţii pentru Administrarea Sistemului Naţional Antigrindină şi de Creştere a Precipitaţiilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/267214",
+   "versions": [
+    {
+     "from": "2023-04-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/267214",
+     "sha256": "324559e10dc7e7082aa1001a314d4ab374eb7589cba139fcf98e1fe3818b1644"
+    }
+   ]
+  },
+  {
    "slug": "hg-340-2024",
    "path": "hg/2024/340",
    "short": "HG nr. 340/2024",
@@ -120881,6 +121139,21 @@
    ]
   },
   {
+   "slug": "hg-341-2023",
+   "path": "hg/2023/341",
+   "short": "HG nr. 341/2023",
+   "title": "Hotărârea Guvernului nr. 341/2023 privind aprobarea obiectivelor etapei a XXIII-a 2023 a Programului de realizare a Sistemului naţional antigrindină şi de creştere a precipitaţiilor pe perioada 2010-2024, aprobat prin Hotărârea Guvernului nr. 256/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/267215",
+   "versions": [
+    {
+     "from": "2023-04-19",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/267215",
+     "sha256": "d73093e6f90fd6063fa25be8b8194e08bdb7c54cda2f52dfb4015c34f76aec12"
+    }
+   ]
+  },
+  {
    "slug": "hg-341-2024",
    "path": "hg/2024/341",
    "short": "HG nr. 341/2024",
@@ -120907,6 +121180,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/296595",
      "sha256": "5dd41eb7ee202472add9d031af6621928b9040990548bf46d60f87d58ca28a35"
+    }
+   ]
+  },
+  {
+   "slug": "hg-342-2023",
+   "path": "hg/2023/342",
+   "short": "HG nr. 342/2023",
+   "title": "Hotărârea Guvernului nr. 342/2023 privind recunoaşterea Asociaţiei Europene a Implementării şi Apărării Drepturilor Omului - Themis ca fiind de utilitate publică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/267267",
+   "versions": [
+    {
+     "from": "2023-04-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/267267",
+     "sha256": "ffd178eab022ceaa35e714c664e9688f374f5993ce8bbffb15860a3c08749839"
     }
    ]
   },
@@ -120967,6 +121255,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/189596",
      "sha256": "e038aeff76d4e48b6f0cb9003e0c8727ab3c8373cb2b60b86410795a53258bfd"
+    }
+   ]
+  },
+  {
+   "slug": "hg-343-2023",
+   "path": "hg/2023/343",
+   "short": "HG nr. 343/2023",
+   "title": "Hotărârea Guvernului nr. 343/2023 privind actualizarea valorilor de inventar ale unor bunuri imobile aflate în domeniul public al statului şi în administrarea Administraţiei Naţionale \"Apele Române\", prin Administraţia Bazinală de Apă Buzău-Ialomiţa, instituţie publică aflată în coordonarea Ministerului Mediului, Apelor şi Pădurilor, prevăzute în anexa nr. 12 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului, ca urmare a reevaluării",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/267268",
+   "versions": [
+    {
+     "from": "2023-04-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/267268",
+     "sha256": "6a180aaa5c4d6aa23b02dbf1f93737f65c139e8f2ef1bb480702f28ab6547797"
     }
    ]
   },
@@ -121034,6 +121337,21 @@
    ]
   },
   {
+   "slug": "hg-344-2023",
+   "path": "hg/2023/344",
+   "short": "HG nr. 344/2023",
+   "title": "Hotărârea Guvernului nr. 344/2023 privind actualizarea descrierii tehnice şi a valorii de inventar a unui drum forestier şi a lucrării de artă pod betonat Rioaia, precum şi trecerea cu titlu gratuit a unui tronson de drum forestier, a terenului aferent şi a lucrării de artă pod betonat Rioaia din domeniul public al statului şi din administrarea Regiei Naţionale a Pădurilor - Romsilva în domeniul public al comunei Lăpuş, judeţul Maramureş",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/267324",
+   "versions": [
+    {
+     "from": "2023-04-24",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/267324",
+     "sha256": "eb5ff592138860ae5a101a6c8e7c00ec64ad09737d296dbe633205ac8a2b51db"
+    }
+   ]
+  },
+  {
    "slug": "hg-344-2024",
    "path": "hg/2024/344",
    "short": "HG nr. 344/2024",
@@ -121064,6 +121382,21 @@
    ]
   },
   {
+   "slug": "hg-345-2023",
+   "path": "hg/2023/345",
+   "short": "HG nr. 345/2023",
+   "title": "Hotărârea Guvernului nr. 345/2023 privind aprobarea Acordului dintre Secretariatul General al Guvernului României (SGG) şi Organizaţia pentru Cooperare şi Dezvoltare Economică (OCDE), semnat la Bucureşti la 1 februarie 2023 şi la Paris la 3 februarie 2023",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/267170",
+   "versions": [
+    {
+     "from": "2023-04-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/267170",
+     "sha256": "4dd11089a0aad27f1e52ee1a0cda9b8c94148f968bae95f8a27b6c82ab0c364b"
+    }
+   ]
+  },
+  {
    "slug": "hg-345-2024",
    "path": "hg/2024/345",
    "short": "HG nr. 345/2024",
@@ -121090,6 +121423,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/240085",
      "sha256": "1a3a354e9d713de9f99e121af3ba5699db585c68b08dc88d2426c5b01023b97b"
+    }
+   ]
+  },
+  {
+   "slug": "hg-346-2023",
+   "path": "hg/2023/346",
+   "short": "HG nr. 346/2023",
+   "title": "Hotărârea Guvernului nr. 346/2023 pentru aprobarea Normelor metodologice privind constituirea, funcţionarea, evaluarea şi acreditarea entităţilor din infrastructura de inovare şi transfer tehnologic, precum şi modalitatea de susţinere a acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/267320",
+   "versions": [
+    {
+     "from": "2023-05-24",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/267320",
+     "sha256": "57290413dddd957ad90d1a2c1ef29ee07835e7f7f93e04c4014fd476e2520a61"
     }
    ]
   },
@@ -121135,6 +121483,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/148894",
      "sha256": "32ec0b51101fcb9cd5d8f3a263b6754165053b355a6adaaebd54e142a20343b6"
+    }
+   ]
+  },
+  {
+   "slug": "hg-347-2023",
+   "path": "hg/2023/347",
+   "short": "HG nr. 347/2023",
+   "title": "Hotărârea Guvernului nr. 347/2023 pentru reaprobarea indicatorilor tehnico-economici aferenţi obiectivului de investiţii \"P47 Berceni - Penitenciar 1.000 de locuri cu regim de maximă siguranţă şi închis - Penitenciarul Ploieşti - judeţul Prahova\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/267224",
+   "versions": [
+    {
+     "from": "2023-04-19",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/267224",
+     "sha256": "824b5803c00e1c6e39a8baf5ac566ac9a497c58d487f112f8e01261d5d5f90c0"
     }
    ]
   },
@@ -121198,6 +121561,21 @@
      "units": 39,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50756",
      "sha256": "c076ff10576c9fa019bc6dac63b36e7f4e4367e9df22009143b98f6333e9cd9e"
+    }
+   ]
+  },
+  {
+   "slug": "hg-348-2023",
+   "path": "hg/2023/348",
+   "short": "HG nr. 348/2023",
+   "title": "Hotărârea Guvernului nr. 348/2023 privind actualizarea denumirii, codului de clasificaţie, caracteristicilor tehnice, adresei poştale şi a valorii de inventar ale unor imobile aflate în domeniul public al statului şi în administrarea Ministerului Educaţiei, prin Universitatea de Vest din Timişoara, instituţie aflată în coordonarea ministerului, ca urmare a reevaluării şi a înscrierii acestora în cartea funciară, şi trecerea din domeniul public în domeniul privat al statului a unei construcţii aflate în administrarea Universităţii de Vest din Timişoara, pentru scoaterea din funcţiune în vederea casării şi valorificării acesteia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/267330",
+   "versions": [
+    {
+     "from": "2023-04-24",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/267330",
+     "sha256": "8855e6af2777fb5dfe4a655b111cb2e75d1e56115992f5fccf7950403e4c76d8"
     }
    ]
   },
@@ -121288,6 +121666,21 @@
      "units": 2,
      "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/214888",
      "sha256": "f2b0ecf0f604cb87d06faeb382a32b410add06819bfe73d94357f9dff60895de"
+    }
+   ]
+  },
+  {
+   "slug": "hg-349-2023",
+   "path": "hg/2023/349",
+   "short": "HG nr. 349/2023",
+   "title": "Hotărârea Guvernului nr. 349/2023 privind actualizarea valorii de inventar a bunurilor imobile aflate în domeniul public al statului şi în administrarea Laboratorului de Control Doping",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/267269",
+   "versions": [
+    {
+     "from": "2023-04-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/267269",
+     "sha256": "d9a4ed7da47bb614d70330a5d00246df4963b91c4ec1b0ee6c7a11d5492903f0"
     }
    ]
   },
@@ -121397,6 +121790,21 @@
    ]
   },
   {
+   "slug": "hg-350-2023",
+   "path": "hg/2023/350",
+   "short": "HG nr. 350/2023",
+   "title": "Hotărârea Guvernului nr. 350/2023 privind eliberarea doamnei Terci Corina-Geanina din funcţia de subprefect al judeţului Tulcea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/267270",
+   "versions": [
+    {
+     "from": "2023-04-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/267270",
+     "sha256": "db02b6f49778bd2a501521f216ba52c73a1a59027e50afa30f980470e6d2e005"
+    }
+   ]
+  },
+  {
    "slug": "hg-350-2024",
    "path": "hg/2024/350",
    "short": "HG nr. 350/2024",
@@ -121438,6 +121846,21 @@
      "units": 5,
      "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/214889",
      "sha256": "1d8327af846f26b899b4142f3a0b5c424646de09293836ea2c70f0820c1af2f8"
+    }
+   ]
+  },
+  {
+   "slug": "hg-351-2023",
+   "path": "hg/2023/351",
+   "short": "HG nr. 351/2023",
+   "title": "Hotărârea Guvernului nr. 351/2023 privind numirea doamnei Mierlă Aslâ-Aişe în funcţia de subprefect al judeţului Tulcea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/267271",
+   "versions": [
+    {
+     "from": "2023-04-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/267271",
+     "sha256": "bfcdc9bf864052dbbf98e7a339e510dc071fec18f1b77c13f7a98e2e91515972"
     }
    ]
   },
@@ -121709,6 +122132,21 @@
    ]
   },
   {
+   "slug": "hg-357-2023",
+   "path": "hg/2023/357",
+   "short": "HG nr. 357/2023",
+   "title": "Hotărârea Guvernului nr. 357/2023 privind aprobarea bugetului de venituri şi cheltuieli pe anul 2023 pentru Societatea Naţională a Sării - S.A., aflată sub autoritatea Ministerului Economiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/267316",
+   "versions": [
+    {
+     "from": "2023-04-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/267316",
+     "sha256": "0b9de692c9b8009c235b274d50be4ce768df9dde33de2840d1dd8dd120ae1897"
+    }
+   ]
+  },
+  {
    "slug": "hg-357-2024",
    "path": "hg/2024/357",
    "short": "HG nr. 357/2024",
@@ -121775,6 +122213,21 @@
    ]
   },
   {
+   "slug": "hg-358-2023",
+   "path": "hg/2023/358",
+   "short": "HG nr. 358/2023",
+   "title": "Hotărârea Guvernului nr. 358/2023 privind aprobarea bugetului de venituri şi cheltuieli pe anul 2023 al Companiei Naţionale \"Aeroporturi Bucureşti\" - S.A., aflată sub autoritatea Ministerului Transporturilor şi Infrastructurii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/267317",
+   "versions": [
+    {
+     "from": "2023-04-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/267317",
+     "sha256": "b877ee279d992b973d95de51cd03d329c441ef3fdf4af5e0a7a5c626c0d5593e"
+    }
+   ]
+  },
+  {
    "slug": "hg-358-2024",
    "path": "hg/2024/358",
    "short": "HG nr. 358/2024",
@@ -121801,6 +122254,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/296663",
      "sha256": "423ef7bc8da8264d3dd1877326661775873a74b0882fb8babfdf497dde8acef1"
+    }
+   ]
+  },
+  {
+   "slug": "hg-359-2023",
+   "path": "hg/2023/359",
+   "short": "HG nr. 359/2023",
+   "title": "Hotărârea Guvernului nr. 359/2023 pentru aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Dezvoltare terminal, turn de control şi parcare la Aeroportul Internaţional Mihail Kogălniceanu - Constanţa\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/267336",
+   "versions": [
+    {
+     "from": "2023-04-24",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/267336",
+     "sha256": "2f361719fc98ee367791cd0cd2a5637f907a1987ef37eda4b104ba7342821d1f"
     }
    ]
   },
@@ -121979,6 +122447,21 @@
    ]
   },
   {
+   "slug": "hg-361-2023",
+   "path": "hg/2023/361",
+   "short": "HG nr. 361/2023",
+   "title": "Hotărârea Guvernului nr. 361/2023 privind actualizarea caracteristicilor tehnice şi a valorii de inventar ale bunului imobil identificat cu nr. MF 40145, aflat în domeniul public al statului şi în administrarea Bibliotecii Centrale Universitare \"Lucian Blaga\" din Cluj-Napoca, instituţie aflată în subordinea Ministerului Educaţiei, ca urmare a reevaluării şi a înscrierii acestuia în cartea funciară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/267356",
+   "versions": [
+    {
+     "from": "2023-04-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/267356",
+     "sha256": "2ec3eebb792be22f1135893a37bcfc04fed93800df7e2d614f79c1757ad07db1"
+    }
+   ]
+  },
+  {
    "slug": "hg-361-2024",
    "path": "hg/2024/361",
    "short": "HG nr. 361/2024",
@@ -122005,6 +122488,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/296587",
      "sha256": "5079f3aded19e9ef5e79bd20ee53ab8a3ebde5e981fd6068425ec9876c919c6b"
+    }
+   ]
+  },
+  {
+   "slug": "hg-362-2023",
+   "path": "hg/2023/362",
+   "short": "HG nr. 362/2023",
+   "title": "Hotărârea Guvernului nr. 362/2023 privind trecerea unor bunuri imobile aflate în administrarea Institutului Naţional de Cercetare-Dezvoltare pentru Biotehnologii în Horticultură Ştefăneşti din domeniul public al statului în domeniul privat al acestuia, în vederea scoaterii din funcţiune, valorificării şi casării, după caz",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/267412",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/267412",
+     "sha256": "2075e960b9591301b3389910cc3bd786ed056d8473b3543be59b48a479d0b626"
     }
    ]
   },
@@ -122087,6 +122585,21 @@
    ]
   },
   {
+   "slug": "hg-363-2023",
+   "path": "hg/2023/363",
+   "short": "HG nr. 363/2023",
+   "title": "Hotărârea Guvernului nr. 363/2023 privind reaprobarea caracteristicilor principale şi a indicatorilor tehnico-economici aferenţi obiectivului de investiţii \"Regularizare râu Aiudel la Aiud, judeţul Alba\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/267357",
+   "versions": [
+    {
+     "from": "2023-04-25",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/267357",
+     "sha256": "450d95cc6f0d1b76f408bcca6808baba862efcd0e8dfd6d7269b46d1a1d25ced"
+    }
+   ]
+  },
+  {
    "slug": "hg-363-2024",
    "path": "hg/2024/363",
    "short": "HG nr. 363/2024",
@@ -122162,6 +122675,21 @@
    ]
   },
   {
+   "slug": "hg-364-2023",
+   "path": "hg/2023/364",
+   "short": "HG nr. 364/2023",
+   "title": "Hotărârea Guvernului nr. 364/2023 privind aprobarea prealabilă în vederea recunoaşterii prin hotărâre judecătorească a Asociaţiei \"Deutschland Sagt Nein Zum Tiermorden e.V.\" din Republica Federală Germania",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/267413",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/267413",
+     "sha256": "980ce09751d631d5fc9a60f54ff44874d3a25cff68d68fb59158d507799c9820"
+    }
+   ]
+  },
+  {
    "slug": "hg-364-2024",
    "path": "hg/2024/364",
    "short": "HG nr. 364/2024",
@@ -122222,6 +122750,21 @@
    ]
   },
   {
+   "slug": "hg-365-2023",
+   "path": "hg/2023/365",
+   "short": "HG nr. 365/2023",
+   "title": "Hotărârea Guvernului nr. 365/2023 pentru completarea Hotărârii Guvernului nr. 9/2019 privind aprobarea listei terenurilor agricole situate în extravilan care fac obiectul proiectului de interes comun în domeniul gazelor naturale \"Conducta Ţărmul Mării Negre-Podişor (RO) pentru preluarea gazului din Marea Neagră\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/267373",
+   "versions": [
+    {
+     "from": "2023-04-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/267373",
+     "sha256": "4e21b67f4ce93630d7ca9caf37b2d4b2c557a5eeb6c880a3e9f092327191a686"
+    }
+   ]
+  },
+  {
    "slug": "hg-365-2025",
    "path": "hg/2025/365",
    "short": "HG nr. 365/2025",
@@ -122248,6 +122791,21 @@
      "units": 4,
      "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/214934",
      "sha256": "35ddaa67c8ec341ea9885488bce051fcc8bf5cf1df4ddadddefb6068c3b30baf"
+    }
+   ]
+  },
+  {
+   "slug": "hg-366-2023",
+   "path": "hg/2023/366",
+   "short": "HG nr. 366/2023",
+   "title": "Hotărârea Guvernului nr. 366/2023 pentru declararea proiectului de investiţii \"Conductă de transport gaze naturale Timişoara-Deta-Denta-Moraviţa\" proiect de importanţă naţională în domeniul gazelor naturale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/267337",
+   "versions": [
+    {
+     "from": "2023-04-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/267337",
+     "sha256": "b23d82505ccd44c98c3e86f333e8486a7a8f6524c9b5cd4e9ce19d61ee2735b2"
     }
    ]
   },
@@ -122423,6 +122981,21 @@
    ]
   },
   {
+   "slug": "hg-369-2023",
+   "path": "hg/2023/369",
+   "short": "HG nr. 369/2023",
+   "title": "Hotărârea Guvernului nr. 369/2023 privind aprobarea bugetului de venituri şi cheltuieli pe anul 2023 pentru Societatea CUPRU MIN - S.A. Abrud, aflată sub autoritatea Ministerului Economiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/267421",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/267421",
+     "sha256": "36a4d17afc31f54d0934dc678c4f91b86458f7770181fce09aee4f6fcb93229c"
+    }
+   ]
+  },
+  {
    "slug": "hg-369-2024",
    "path": "hg/2024/369",
    "short": "HG nr. 369/2024",
@@ -122552,6 +123125,21 @@
    ]
   },
   {
+   "slug": "hg-370-2023",
+   "path": "hg/2023/370",
+   "short": "HG nr. 370/2023",
+   "title": "Hotărârea Guvernului nr. 370/2023 privind aprobarea bugetului de venituri şi cheltuieli pe anul 2023 pentru Societatea BĂIŢA - S.A., aflată sub autoritatea Ministerului Economiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/267422",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/267422",
+     "sha256": "ba9e94cf13b23c692578b9e41ab7807d5bbbc978ea21f44dcf5ce2143efdf718"
+    }
+   ]
+  },
+  {
    "slug": "hg-370-2025",
    "path": "hg/2025/370",
    "short": "HG nr. 370/2025",
@@ -122590,6 +123178,21 @@
      "units": 21,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/279127",
      "sha256": "fa63dd1815b1a348f7f2047cd843b1265accf301028f8220a404090a81d81fe5"
+    }
+   ]
+  },
+  {
+   "slug": "hg-371-2023",
+   "path": "hg/2023/371",
+   "short": "HG nr. 371/2023",
+   "title": "Hotărârea Guvernului nr. 371/2023 privind aprobarea bugetului de venituri şi cheltuieli pe anul 2023 al Administraţiei Naţionale de Meteorologie, care funcţionează sub autoritatea Ministerului Mediului, Apelor şi Pădurilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/267423",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/267423",
+     "sha256": "a2d4b8ef00085e0d2694f1a287b4464d80c3b885e6fb91398d35ef5e711d206f"
     }
    ]
   },
@@ -122684,6 +123287,21 @@
    ]
   },
   {
+   "slug": "hg-373-2023",
+   "path": "hg/2023/373",
+   "short": "HG nr. 373/2023",
+   "title": "Hotărârea Guvernului nr. 373/2023 pentru reaprobarea indicatorilor tehnico-economici aferenţi obiectivului de investiţii \"Varianta de ocolire Timişoara Sud\", judeţul Timiş",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/267470",
+   "versions": [
+    {
+     "from": "2023-04-28",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/267470",
+     "sha256": "d0afd3f17a357fb0c80d4c63925674e4af69bf491c41d0bc490c40029a499a46"
+    }
+   ]
+  },
+  {
    "slug": "hg-373-2024",
    "path": "hg/2024/373",
    "short": "HG nr. 373/2024",
@@ -122765,6 +123383,21 @@
    ]
   },
   {
+   "slug": "hg-375-2023",
+   "path": "hg/2023/375",
+   "short": "HG nr. 375/2023",
+   "title": "Hotărârea Guvernului nr. 375/2023 pentru reaprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Consolidare şi restaurare Cazino Constanţa (clădire S + P + 1E + M, pod parţial şi rampa de acces către subsol) şi lucrări exterioare (reabilitare platformă terasă, reţele utilităţi, zid de apărare şi balustradă)\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/267472",
+   "versions": [
+    {
+     "from": "2023-04-28",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/267472",
+     "sha256": "9d9ee66d41865ee18500365e930875534eb8a54a470eacafd733b1f4f9675bc9"
+    }
+   ]
+  },
+  {
    "slug": "hg-375-2024",
    "path": "hg/2024/375",
    "short": "HG nr. 375/2024",
@@ -122840,6 +123473,21 @@
    ]
   },
   {
+   "slug": "hg-377-2023",
+   "path": "hg/2023/377",
+   "short": "HG nr. 377/2023",
+   "title": "Hotărârea Guvernului nr. 377/2023 privind trecerea din domeniul public al statului în domeniul privat al statului a unor bunuri aflate în administrarea Ministerului Transporturilor şi Infrastructurii şi în concesiunea Companiei Naţionale de Căi Ferate \"C.F.R.\" - S.A. - sucursalele regionale CF Craiova, Cluj şi Iaşi, în vederea scoaterii din funcţiune, casării şi valorificării, după caz",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/267627",
+   "versions": [
+    {
+     "from": "2023-05-08",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/267627",
+     "sha256": "48ee85e9f06af113dcda994a81111889f83b806b2e1e92704221736b0e1d2b7c"
+    }
+   ]
+  },
+  {
    "slug": "hg-377-2024",
    "path": "hg/2024/377",
    "short": "HG nr. 377/2024",
@@ -122881,6 +123529,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/240292",
      "sha256": "57ce74a48f6b4a1ad1860680854fb7c153ef36a3dfe877749ab8e069e6e3db38"
+    }
+   ]
+  },
+  {
+   "slug": "hg-378-2023",
+   "path": "hg/2023/378",
+   "short": "HG nr. 378/2023",
+   "title": "Hotărârea Guvernului nr. 378/2023 privind înscrierea unor bunuri imobile în inventarul centralizat al bunurilor din domeniul public al statului şi darea în administrarea Ministerului Mediului, Apelor şi Pădurilor - Regia Naţională a Pădurilor - Romsilva",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/267579",
+   "versions": [
+    {
+     "from": "2023-05-04",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/267579",
+     "sha256": "04262e9bb1382e8a143f125533666aa52a7fd6333ebfacfeaef23483b1987298"
     }
    ]
   },
@@ -122956,6 +123619,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/253158",
      "sha256": "f96b6ae2ea47d6015e719b8e9195c90798f3ba62dd8dddcd88b8e8c88d587ed0"
+    }
+   ]
+  },
+  {
+   "slug": "hg-379-2023",
+   "path": "hg/2023/379",
+   "short": "HG nr. 379/2023",
+   "title": "Hotărârea Guvernului nr. 379/2023 privind actualizarea valorii de inventar pentru unele imobile aflate în domeniul public al statului şi în administrarea Ministerului Afacerilor Interne - Inspectoratul pentru Situaţii de Urgenţă \"General Magheru\" al judeţului Vâlcea, precum şi trecerea unor construcţii din domeniul public al statului în domeniul privat al acestuia, pentru scoaterea din funcţiune, în vederea casării şi, după caz, valorificării",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/267541",
+   "versions": [
+    {
+     "from": "2023-05-03",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/267541",
+     "sha256": "f7e128536c073a38448082abf1e5742fb033aa6d0d7368acd0f6666ccfade4a4"
     }
    ]
   },
@@ -123082,6 +123760,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/278350",
      "sha256": "4832b687617e522e5feef360597af76c4cf3cf49f8c3ea95789f1ec7567b59c6"
+    }
+   ]
+  },
+  {
+   "slug": "hg-380-2023",
+   "path": "hg/2023/380",
+   "short": "HG nr. 380/2023",
+   "title": "Hotărârea Guvernului nr. 380/2023 privind înscrierea imobilelor situate în strada Dr. Victor Papillian nr. 2A, bulevardul 1 Mai nr. 66 D şi strada Dr. Victor Papillian nr. 2B, municipiul Craiova, judeţul Dolj, în inventarul centralizat al bunurilor din domeniul public al statului şi darea acestora în administrarea Ministerului Educaţiei pentru Universitatea de Medicină şi Farmacie din Craiova",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/267580",
+   "versions": [
+    {
+     "from": "2023-05-04",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/267580",
+     "sha256": "cf3f0d81414c377a8375065b54482369ee99349dc2b411fa3274241853bb4f2d"
     }
    ]
   },
@@ -123271,6 +123964,21 @@
      "units": 18,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/253238",
      "sha256": "69c1c969c19f8cb526d05855616475b933d221548b7f18cba940a2614a7f3583"
+    }
+   ]
+  },
+  {
+   "slug": "hg-384-2023",
+   "path": "hg/2023/384",
+   "short": "HG nr. 384/2023",
+   "title": "Hotărârea Guvernului nr. 384/2023 privind actualizarea valorii de inventar a unui imobil aflat în domeniul public al statului şi în administrarea Consiliului Naţional pentru Studierea Arhivelor Securităţii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/267542",
+   "versions": [
+    {
+     "from": "2023-05-03",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/267542",
+     "sha256": "992f7dc48ab2f95404e8ae4e36be0b186b5882541b42b61b10cca97609dcef42"
     }
    ]
   },
@@ -123812,6 +124520,21 @@
    ]
   },
   {
+   "slug": "hg-396-2023",
+   "path": "hg/2023/396",
+   "short": "HG nr. 396/2023",
+   "title": "Hotărârea Guvernului nr. 396/2023 privind aprobarea bugetului de venituri şi cheltuieli pe anul 2023 pentru Societatea Naţională a Apelor Minerale - S.A., aflată sub autoritatea Ministerului Economiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/267619",
+   "versions": [
+    {
+     "from": "2023-05-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/267619",
+     "sha256": "caa4b9fac2a4eb690932e8bac9fdb8be1dab316e4a098d17b99b00d322741be4"
+    }
+   ]
+  },
+  {
    "slug": "hg-396-2025",
    "path": "hg/2025/396",
    "short": "HG nr. 396/2025",
@@ -123823,6 +124546,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/297384",
      "sha256": "a697da5ce9810a2be17031fc8568e6899f838efe3a1ee672661954137f1873eb"
+    }
+   ]
+  },
+  {
+   "slug": "hg-397-2023",
+   "path": "hg/2023/397",
+   "short": "HG nr. 397/2023",
+   "title": "Hotărârea Guvernului nr. 397/2023 privind aprobarea bugetului de venituri şi cheltuieli pe anul 2023 pentru Compania Naţională a Cuprului, Aurului şi Fierului MINVEST - S.A. Deva, aflată sub autoritatea Ministerului Economiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/267620",
+   "versions": [
+    {
+     "from": "2023-05-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/267620",
+     "sha256": "c75903b7dfec7dfdaa4369fd8a221ecad8398c55ee4da6ef66fa24efe1d34c52"
     }
    ]
   },
@@ -124370,6 +125108,21 @@
    ]
   },
   {
+   "slug": "hg-406-2023",
+   "path": "hg/2023/406",
+   "short": "HG nr. 406/2023",
+   "title": "Hotărârea Guvernului nr. 406/2023 privind modificarea valorii de inventar şi a caracteristicilor tehnice ale unui bun înscris în inventarul centralizat al bunurilor din domeniul public al statului şi aflat în administrarea Ministerului Muncii şi Solidarităţii Sociale - Casa Judeţeană de Pensii Bistriţa-Năsăud",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/270068",
+   "versions": [
+    {
+     "from": "2023-05-10",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270068",
+     "sha256": "80a2371f8d0d53a92fb62b5e3bb1a4ad4e7a7d482886023da580bb22693eb992"
+    }
+   ]
+  },
+  {
    "slug": "hg-406-2024",
    "path": "hg/2024/406",
    "short": "HG nr. 406/2024",
@@ -124421,6 +125174,21 @@
    ]
   },
   {
+   "slug": "hg-408-2023",
+   "path": "hg/2023/408",
+   "short": "HG nr. 408/2023",
+   "title": "Hotărârea Guvernului nr. 408/2023 pentru actualizarea valorii de inventar a unui imobil aflat în domeniul public al statului şi în administrarea Instituţiei Prefectului - Judeţul Sălaj din subordinea Ministerului Afacerilor Interne",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/270069",
+   "versions": [
+    {
+     "from": "2023-05-10",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270069",
+     "sha256": "f0cd22ac3bf313abc7557562233f4f0c48716b05f414fd7c6399190692ecd00e"
+    }
+   ]
+  },
+  {
    "slug": "hg-408-2024",
    "path": "hg/2024/408",
    "short": "HG nr. 408/2024",
@@ -124462,6 +125230,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/240845",
      "sha256": "91e52ccc43a563d80d4570de74404e12605fc5281e7934ebcbb6d160bed97d7b"
+    }
+   ]
+  },
+  {
+   "slug": "hg-409-2023",
+   "path": "hg/2023/409",
+   "short": "HG nr. 409/2023",
+   "title": "Hotărârea Guvernului nr. 409/2023 privind actualizarea inventarului centralizat al bunurilor din domeniul public al statului ca urmare a actualizării valorii de inventar şi schimbării unităţii de administrare pentru un imobil aflat în domeniul public al statului şi în administrarea Ministerului Afacerilor Interne",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/270070",
+   "versions": [
+    {
+     "from": "2023-05-10",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270070",
+     "sha256": "689982fc7dc5d3f70e36692c9a9ad68fa869f373df4ddbbd60acb4967432dbf3"
     }
    ]
   },
@@ -124526,6 +125309,21 @@
    ]
   },
   {
+   "slug": "hg-410-2023",
+   "path": "hg/2023/410",
+   "short": "HG nr. 410/2023",
+   "title": "Hotărârea Guvernului nr. 410/2023 privind aprobarea plăţii contribuţiei financiare voluntare a României la bugetul Secretariatului Consiliului Cooperării Regionale pentru anul 2023",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/270042",
+   "versions": [
+    {
+     "from": "2023-05-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270042",
+     "sha256": "cb40519bcb3a310c87a01c87ba7573e9344602ad26c13a46349cac05ceb4f02f"
+    }
+   ]
+  },
+  {
    "slug": "hg-411-2025",
    "path": "hg/2025/411",
    "short": "HG nr. 411/2025",
@@ -124552,6 +125350,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/43173",
      "sha256": "44fb087e0a25db62632ea32e8a356c0dbbb983624f1d4616a2ed33132d9e1e30"
+    }
+   ]
+  },
+  {
+   "slug": "hg-412-2023",
+   "path": "hg/2023/412",
+   "short": "HG nr. 412/2023",
+   "title": "Hotărârea Guvernului nr. 412/2023 privind desemnarea şi operaţionalizarea în România a autorităţii competente pentru serviciul public reglementat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/270054",
+   "versions": [
+    {
+     "from": "2023-05-09",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270054",
+     "sha256": "f608dc491c127a489e25e4568e0f4cb3de8c01e1001cdbe45331dc6edfd61ce8"
     }
    ]
   },
@@ -125102,6 +125915,21 @@
    ]
   },
   {
+   "slug": "hg-423-2023",
+   "path": "hg/2023/423",
+   "short": "HG nr. 423/2023",
+   "title": "Hotărârea Guvernului nr. 423/2023 pentru aprobarea indicatorilor tehnico-economici aferenţi obiectivului de investiţii \"Pod peste Prut la Ungheni\", România - judeţul Iaşi, Republica Moldova - Raionul Ungheni",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/270135",
+   "versions": [
+    {
+     "from": "2023-05-12",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270135",
+     "sha256": "3f94c839f53674f66d05e802da928cfe3f5d28531eb47ddf2d9c059629acf8bf"
+    }
+   ]
+  },
+  {
    "slug": "hg-423-2024",
    "path": "hg/2024/423",
    "short": "HG nr. 423/2024",
@@ -125143,6 +125971,21 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/253365",
      "sha256": "cf281c28ff7bed083f37519e269890fa075c6368f2d084bd18cb92fe14839124"
+    }
+   ]
+  },
+  {
+   "slug": "hg-424-2023",
+   "path": "hg/2023/424",
+   "short": "HG nr. 424/2023",
+   "title": "Hotărârea Guvernului nr. 424/2023 pentru reaprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Dezvoltarea Portului Tulcea - Etapa I\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/270136",
+   "versions": [
+    {
+     "from": "2023-05-12",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270136",
+     "sha256": "915e3d38959d0d5094298a9e128ecaead665a908c873b6c57c750cc52fd3355d"
     }
    ]
   },
@@ -125198,6 +126041,21 @@
    ]
   },
   {
+   "slug": "hg-425-2023",
+   "path": "hg/2023/425",
+   "short": "HG nr. 425/2023",
+   "title": "Hotărârea Guvernului nr. 425/2023 pentru aprobarea indicatorilor tehnico-economici aferenţi obiectivului de investiţii \"Acces rutier complementar descărcare A3 Azuga-Buşteni\", judeţul Prahova",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/270137",
+   "versions": [
+    {
+     "from": "2023-05-12",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270137",
+     "sha256": "d077d0af9db5aa1a93b52a4d243707d77184f8aa7267776b143e8933a369f1ed"
+    }
+   ]
+  },
+  {
    "slug": "hg-426-2020",
    "path": "hg/2020/426",
    "short": "HG nr. 426/2020",
@@ -125215,6 +126073,21 @@
      "units": 8,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/260054",
      "sha256": "76dd04ac0e2d7b55dd1a4786b2fed4ca15f112fc00501c129dd0b3f61145a355"
+    }
+   ]
+  },
+  {
+   "slug": "hg-426-2023",
+   "path": "hg/2023/426",
+   "short": "HG nr. 426/2023",
+   "title": "Hotărârea Guvernului nr. 426/2023 pentru aprobarea indicatorilor tehnico-economici aferenţi obiectivului de investiţii \"Acces rutier complementar descărcare A3 Comarnic\", judeţul Prahova",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/270138",
+   "versions": [
+    {
+     "from": "2023-05-12",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270138",
+     "sha256": "e7e95ee77fd1c40c1af440290f745f1bb2a3eee4348fdb996d198adde0d6b335"
     }
    ]
   },
@@ -125570,6 +126443,21 @@
    ]
   },
   {
+   "slug": "hg-430-2023",
+   "path": "hg/2023/430",
+   "short": "HG nr. 430/2023",
+   "title": "Hotărârea Guvernului nr. 430/2023 pentru aprobarea amendamentului convenit prin schimb de scrisori semnate la Bucureşti la 18 ianuarie 2023 şi la Bruxelles la 21 martie 2023 între Guvernul României şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare la Acordul de împrumut (finanţare adiţională pentru Proiectul privind controlul integrat al poluării cu nutrienţi) dintre România şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare, semnat la Washington la 14 aprilie 2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/270172",
+   "versions": [
+    {
+     "from": "2023-05-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270172",
+     "sha256": "188eb4b7f07573a202b297232b13b1bf8f922579d07b28a1d2c7da6445ddcc02"
+    }
+   ]
+  },
+  {
    "slug": "hg-430-2024",
    "path": "hg/2024/430",
    "short": "HG nr. 430/2024",
@@ -125611,6 +126499,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/179491",
      "sha256": "da390d01e2eb9c69e5a93089104eca8afacd55dfb08646b02c717f1a6e5380d9"
+    }
+   ]
+  },
+  {
+   "slug": "hg-431-2023",
+   "path": "hg/2023/431",
+   "short": "HG nr. 431/2023",
+   "title": "Hotărârea Guvernului nr. 431/2023 privind aprobarea celui de-al doilea amendament convenit între Guvernul României şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare prin scrisoarea semnată la Bucureşti la 5 aprilie 2023, la Scrisoarea de înţelegere privind avansul pentru pregătirea Proiectului de dezvoltare propus, \"Cartierul pentru justiţie\", dintre România şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare, semnată la Bruxelles la 30 mai 2019 şi la Bucureşti la 6 iunie 2019",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/270174",
+   "versions": [
+    {
+     "from": "2023-05-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270174",
+     "sha256": "960e79eacd9f83bc642a3e39820dc7f4c4e33f22c1ecf7fbd4f1232ea655027f"
     }
    ]
   },
@@ -125713,6 +126616,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/118630",
      "sha256": "872d87f823184ec1896d3fc926c84763768f1f6838db100a1cc91369c97685b1"
+    }
+   ]
+  },
+  {
+   "slug": "hg-433-2023",
+   "path": "hg/2023/433",
+   "short": "HG nr. 433/2023",
+   "title": "Hotărârea Guvernului nr. 433/2023 privind actualizarea denumirii, a caracteristicilor tehnice şi scoaterea unor bunuri mobile din inventarul centralizat al bunurilor din domeniul public al statului, aflate în administrarea Ministerului Mediului, Apelor şi Pădurilor - Regia Naţională a Pădurilor - Romsilva, ca urmare a decesului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/270187",
+   "versions": [
+    {
+     "from": "2023-05-15",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270187",
+     "sha256": "14a11c681e8b4a271bd674017c83c53f33e0b494e6bab88c71879f1c6e0ad5fc"
     }
    ]
   },
@@ -125822,6 +126740,36 @@
    ]
   },
   {
+   "slug": "hg-435-2023",
+   "path": "hg/2023/435",
+   "short": "HG nr. 435/2023",
+   "title": "Hotărârea Guvernului nr. 435/2023 privind actualizarea datelor de identificare şi a valorilor de inventar ale unor imobile aflate în domeniul public al statului şi în administrarea Penitenciarului Focşani din subordinea Administraţiei Naţionale a Penitenciarelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/270215",
+   "versions": [
+    {
+     "from": "2023-05-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270215",
+     "sha256": "3ab482889d81bee96a0f2c3632de450c80482c33c3bbc827958781cd0cb0d7ee"
+    }
+   ]
+  },
+  {
+   "slug": "hg-436-2023",
+   "path": "hg/2023/436",
+   "short": "HG nr. 436/2023",
+   "title": "Hotărârea Guvernului nr. 436/2023 privind modificarea anexei nr. 35 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/270216",
+   "versions": [
+    {
+     "from": "2023-05-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270216",
+     "sha256": "f6e8b1d362dd010d27d3ec58ef2b6340de4d01741a1e84a353b95bb9b267eba6"
+    }
+   ]
+  },
+  {
    "slug": "hg-436-2024",
    "path": "hg/2024/436",
    "short": "HG nr. 436/2024",
@@ -125867,6 +126815,21 @@
    ]
   },
   {
+   "slug": "hg-437-2023",
+   "path": "hg/2023/437",
+   "short": "HG nr. 437/2023",
+   "title": "Hotărârea Guvernului nr. 437/2023 privind actualizarea valorii de inventar, caracteristicilor tehnice şi a adresei poştale ale imobilului identificat cu nr. MF 38282, ca urmare a reevaluării şi a înscrierii în cartea funciară, şi trecerea din domeniul public în domeniul privat al statului a construcţiilor aflate în administrarea Ministerului Educaţiei, prin Inspectoratul Şcolar Judeţean Vrancea, Palatul Copiilor Focşani şi Clubul Copiilor Mărăşeşti, pentru scoaterea din funcţiune în vederea demolării",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/270246",
+   "versions": [
+    {
+     "from": "2023-05-17",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270246",
+     "sha256": "a2aed9e9113e84034e8b2b07cb9f01b2d981797efbef8a61288aa6802c4be481"
+    }
+   ]
+  },
+  {
    "slug": "hg-437-2024",
    "path": "hg/2024/437",
    "short": "HG nr. 437/2024",
@@ -125893,6 +126856,21 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/297804",
      "sha256": "4132ee5f77850d6c88096999c568b11d2cab00fee6c230ce234b1553feae13a2"
+    }
+   ]
+  },
+  {
+   "slug": "hg-438-2023",
+   "path": "hg/2023/438",
+   "short": "HG nr. 438/2023",
+   "title": "Hotărârea Guvernului nr. 438/2023 pentru actualizarea inventarului centralizat al bunurilor care alcătuiesc domeniul public al statului, ca urmare a modificării valorii de inventar şi schimbării unităţii de administrare pentru o parte din imobilul aflat în domeniul public al statului şi în administrarea Ministerului Afacerilor Interne - Inspectoratul Teritorial al Poliţiei de Frontieră Iaşi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/270205",
+   "versions": [
+    {
+     "from": "2023-05-16",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270205",
+     "sha256": "4e1825ab93122bb3304239f178af291e5c7e1472cf8d1d50592c97801507a578"
     }
    ]
   },
@@ -125938,6 +126916,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/201870",
      "sha256": "f8b538dcf1b29727cab693ba1a3eb79db316a292bd76f1f025a785aa4fe74867"
+    }
+   ]
+  },
+  {
+   "slug": "hg-439-2023",
+   "path": "hg/2023/439",
+   "short": "HG nr. 439/2023",
+   "title": "Hotărârea Guvernului nr. 439/2023 privind actualizarea anexei nr. 1 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului, precum şi pentru trecerea unei construcţii aflate în administrarea Ministerului Afacerilor Interne - Centrul Medical de Diagnostic şi Tratament Ambulatoriu \"Dr. Nicolae Kretzulescu\" din domeniul public al statului în domeniul privat al acestuia, în vederea scoaterii din funcţiune, casării şi valorificării",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/270206",
+   "versions": [
+    {
+     "from": "2023-05-16",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270206",
+     "sha256": "f23972e79c32a3c65fc7314b7de39fdd4c4ffe095e50f6b25e88436f617af359"
     }
    ]
   },
@@ -126047,6 +127040,21 @@
    ]
   },
   {
+   "slug": "hg-440-2023",
+   "path": "hg/2023/440",
+   "short": "HG nr. 440/2023",
+   "title": "Hotărârea Guvernului nr. 440/2023 privind actualizarea anexei nr. 1 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului, precum şi pentru trecerea unor construcţii aflate în administrarea Ministerului Afacerilor Interne - Inspectoratul pentru Situaţii de Urgenţă \"Mihail Grigore Sturdza\" al Judeţului Iaşi din domeniul public al statului în domeniul privat al acestuia, în vederea scoaterii din funcţiune, casării şi valorificării",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/270207",
+   "versions": [
+    {
+     "from": "2023-05-16",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270207",
+     "sha256": "7cb98ac4d2208e21ec0d06daab362ad9dc9fd3e3f897c186a08c12ec3ed526c3"
+    }
+   ]
+  },
+  {
    "slug": "hg-440-2024",
    "path": "hg/2024/440",
    "short": "HG nr. 440/2024",
@@ -126092,6 +127100,21 @@
    ]
   },
   {
+   "slug": "hg-441-2023",
+   "path": "hg/2023/441",
+   "short": "HG nr. 441/2023",
+   "title": "Hotărârea Guvernului nr. 441/2023 privind aprobarea unor modificări în inventarul centralizat al bunurilor din domeniul public al statului aflate în administrarea Ministerului Apărării Naţionale, trecerea unor părţi de imobile aflate în administrarea Ministerului Apărării Naţionale, constituite din construcţii şi amenajări la terenuri, situate în judeţele Alba, Prahova, Constanţa, Cluj, Buzău, Tulcea, Sibiu şi municipiul Bucureşti, din domeniul public al statului în domeniul privat al acestuia, în vederea scoaterii din funcţiune şi casării, şi modificarea anexei nr. 4 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/270220",
+   "versions": [
+    {
+     "from": "2023-05-16",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270220",
+     "sha256": "76e422c63c1be64b64dc85b41a7c2a820ed2334ee58de3c5086b20b68a5ffa87"
+    }
+   ]
+  },
+  {
    "slug": "hg-441-2024",
    "path": "hg/2024/441",
    "short": "HG nr. 441/2024",
@@ -126133,6 +127156,21 @@
      "units": 1,
      "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/202534",
      "sha256": "a8dc5f3ee04be3ef46d42b24b1c4f3272bac89dd62a099cd4ebdb0302b8362bd"
+    }
+   ]
+  },
+  {
+   "slug": "hg-442-2023",
+   "path": "hg/2023/442",
+   "short": "HG nr. 442/2023",
+   "title": "Hotărârea Guvernului nr. 442/2023 privind aprobarea unor modificări în inventarul centralizat al bunurilor din domeniul public al statului aflate în administrarea Ministerului Apărării Naţionale, situate în judeţele Constanţa, Alba, Sibiu, Giurgiu, Călăraşi, Hunedoara şi municipiul Bucureşti, şi modificarea anexei nr. 4 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/270221",
+   "versions": [
+    {
+     "from": "2023-05-16",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270221",
+     "sha256": "3dc4ef588a7b9a8e76648cc3c52dd1fb3e53d3d701677d78a2e65ca971d22535"
     }
    ]
   },
@@ -126184,6 +127222,21 @@
      "units": 20,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/262055",
      "sha256": "cfec39e64bfb274a410ff421ecb098c94dd60fdccdf55256148e3b50c11f8bcf"
+    }
+   ]
+  },
+  {
+   "slug": "hg-443-2023",
+   "path": "hg/2023/443",
+   "short": "HG nr. 443/2023",
+   "title": "Hotărârea Guvernului nr. 443/2023 privind actualizarea valorii de inventar, a adresei poştale şi modificarea datelor tehnice ale unui imobil aflat în domeniul public al statului şi în administrarea Ministerului Sportului, prin Clubul Sportiv Botoşani, cuprins în anexa nr. 30 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului, precum şi trecerea acestuia în domeniul public al municipiului Botoşani, judeţul Botoşani",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/270222",
+   "versions": [
+    {
+     "from": "2023-05-16",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270222",
+     "sha256": "b9e3fc6d5990ba81fabc09055c5f9fffd7f77c9f7130e834b6c2806c1bee653c"
     }
    ]
   },
@@ -126289,6 +127342,21 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/282575",
      "sha256": "0340cc9ad19f8012b102a45651b3648d69bba38e7eb02440dd215171a7842268"
+    }
+   ]
+  },
+  {
+   "slug": "hg-447-2023",
+   "path": "hg/2023/447",
+   "short": "HG nr. 447/2023",
+   "title": "Hotărârea Guvernului nr. 447/2023 privind scoaterea din rezervele de stat şi acordarea de către România a unui ajutor umanitar extern de urgenţă, cu titlu gratuit, pentru Republica Arabă Siriană, destinat protecţiei populaţiei afectate de cutremurul major produs în Turcia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/270498",
+   "versions": [
+    {
+     "from": "2023-05-18",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270498",
+     "sha256": "bd9ad1cfa90f3bea157b05b9b9f6cdcf107c9edb93530c7fc53fc8494b50411f"
     }
    ]
   },
@@ -126410,6 +127478,21 @@
    ]
   },
   {
+   "slug": "hg-449-2023",
+   "path": "hg/2023/449",
+   "short": "HG nr. 449/2023",
+   "title": "Hotărârea Guvernului nr. 449/2023 privind aprobarea prealabilă a Asociaţiei \"Cerc pentru ajutor natural pentru viaţă\" din Republica Federală Germană, în vederea recunoaşterii prin hotărâre judecătorească",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/270513",
+   "versions": [
+    {
+     "from": "2023-05-19",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270513",
+     "sha256": "6b17a4852a9d2838f9f4940d371583e3302237e5f3f187f1e8f19448e731b06e"
+    }
+   ]
+  },
+  {
    "slug": "hg-449-2024",
    "path": "hg/2024/449",
    "short": "HG nr. 449/2024",
@@ -126466,6 +127549,21 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/278504",
      "sha256": "5c4708927fb888b8a81ea25b33537224b1b36a9a380f0bfddfe50343383bb3af"
+    }
+   ]
+  },
+  {
+   "slug": "hg-450-2023",
+   "path": "hg/2023/450",
+   "short": "HG nr. 450/2023",
+   "title": "Hotărârea Guvernului nr. 450/2023 privind acordarea titulaturii de muzeu de importanţă naţională Muzeului Olteniei Craiova",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/270514",
+   "versions": [
+    {
+     "from": "2023-05-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270514",
+     "sha256": "8e78af82c1227752d822e66fe4c39b0d54f10e254a85c2f43b5fba8b07dda3cf"
     }
    ]
   },
@@ -126581,6 +127679,21 @@
    ]
   },
   {
+   "slug": "hg-452-2023",
+   "path": "hg/2023/452",
+   "short": "HG nr. 452/2023",
+   "title": "Hotărârea Guvernului nr. 452/2023 privind aprobarea normativelor de cheltuieli şi a devizului estimativ aferente organizării şi desfăşurării în România a Conferinţei şefilor apărării din statele din Europa Centrală, în perioada 8-9 iunie 2023",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/270516",
+   "versions": [
+    {
+     "from": "2023-05-19",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270516",
+     "sha256": "8a11d68f603cdf47c2632c02f5cfd224d522cb0eed1083af68edceaa91ef4302"
+    }
+   ]
+  },
+  {
    "slug": "hg-452-2024",
    "path": "hg/2024/452",
    "short": "HG nr. 452/2024",
@@ -126637,6 +127750,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/62026",
      "sha256": "74c0b78b4d3319c492c1aa40ac32c805f22b1a913230ffc272f736b2c176fe92"
+    }
+   ]
+  },
+  {
+   "slug": "hg-454-2023",
+   "path": "hg/2023/454",
+   "short": "HG nr. 454/2023",
+   "title": "Hotărârea Guvernului nr. 454/2023 pentru modificarea şi completarea Normelor metodologice de aplicare a prevederilor Ordonanţei de urgenţă a Guvernului nr. 64/2007 privind datoria publică, aprobate prin Hotărârea Guvernului nr. 1.470/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/270592",
+   "versions": [
+    {
+     "from": "2023-05-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270592",
+     "sha256": "c402ad5527b2fd37d244d1b866632d4dbe5ad6f3ab898cefad0626b4db4a7668"
     }
    ]
   },
@@ -126701,6 +127829,21 @@
    ]
   },
   {
+   "slug": "hg-456-2023",
+   "path": "hg/2023/456",
+   "short": "HG nr. 456/2023",
+   "title": "Hotărârea Guvernului nr. 456/2023 privind aprobarea redării în circuitul agricol a terenurilor înscrise în lista terenurilor agricole situate în extravilan pentru proiectul de importanţă naţională în domeniul gazelor naturale \"Conductă de transport gaze naturale pe direcţia Sighetu Marmaţiei-Vişeu de Sus-Borşa\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/270633",
+   "versions": [
+    {
+     "from": "2023-05-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270633",
+     "sha256": "3f475e89c9f399275cdf877ddd0f784973552be307112e0cf97e2fbc31c12bb3"
+    }
+   ]
+  },
+  {
    "slug": "hg-456-2024",
    "path": "hg/2024/456",
    "short": "HG nr. 456/2024",
@@ -126727,6 +127870,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/128858",
      "sha256": "49fdfef175433a51eb031f9ef3702c815dd842b721a74d41da1dfb37831cbc4a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-457-2023",
+   "path": "hg/2023/457",
+   "short": "HG nr. 457/2023",
+   "title": "Hotărârea Guvernului nr. 457/2023 privind actualizarea descrierii tehnice a bunului cu nr. MF 147818 şi trecerea unei părţi din acesta, denumită \"Pasaj pietonal km 94+844\", din domeniul public al statului, administrarea Ministerului Transporturilor şi Infrastructurii şi concesiunea Companiei Naţionale de Căi Ferate \"C.F.R.\" - S.A. în domeniul public al municipiului Miercurea-Ciuc, judeţul Harghita, precum şi modificarea anexei nr. 16 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/270581",
+   "versions": [
+    {
+     "from": "2023-05-23",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270581",
+     "sha256": "14ec069579a8f1951dd58ed576bd5a06c6b80ab2a31bd492ad03a98c1e07faad"
     }
    ]
   },
@@ -126838,6 +127996,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/226640",
      "sha256": "45f8cbf43216f421019858cb7a0ab761b34c8951aea1be3a60e7b6772839de24"
+    }
+   ]
+  },
+  {
+   "slug": "hg-458-2023",
+   "path": "hg/2023/458",
+   "short": "HG nr. 458/2023",
+   "title": "Hotărârea Guvernului nr. 458/2023 privind trecerea unor imobile terenuri situate în localitatea Ghiroda, judeţul Timiş, din domeniul privat al statului în domeniul public al acestuia şi darea în administrarea Ministerului Transporturilor şi Infrastructurii, precum şi modificarea anexei nr. 16 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/270634",
+   "versions": [
+    {
+     "from": "2023-05-24",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270634",
+     "sha256": "ff689f2ba672527c83e3c6c98655a2ea9f30963e4cafe95e6979164fbaf3eb2c"
     }
    ]
   },
@@ -126968,6 +128141,21 @@
    ]
   },
   {
+   "slug": "hg-459-2023",
+   "path": "hg/2023/459",
+   "short": "HG nr. 459/2023",
+   "title": "Hotărârea Guvernului nr. 459/2023 privind modificarea valorii de inventar şi a caracteristicilor tehnice ale unui bun aflat în domeniul public al statului şi în administrarea Ministerului Muncii şi Solidarităţii Sociale - Autoritatea Naţională pentru Protecţia Drepturilor Persoanelor cu Dizabilităţi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/270582",
+   "versions": [
+    {
+     "from": "2023-05-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270582",
+     "sha256": "90aea2793aec6e27b6be3d9818347c8659bcd71b6d71a278aea8673a2e963828"
+    }
+   ]
+  },
+  {
    "slug": "hg-459-2024",
    "path": "hg/2024/459",
    "short": "HG nr. 459/2024",
@@ -127064,6 +128252,21 @@
    ]
   },
   {
+   "slug": "hg-460-2023",
+   "path": "hg/2023/460",
+   "short": "HG nr. 460/2023",
+   "title": "Hotărârea Guvernului nr. 460/2023 privind actualizarea valorii de inventar şi a datelor de identificare ale unor bunuri imobile din domeniul public al statului aflate în administrarea Ministerului Sănătăţii - Spitalul de Psihiatrie şi pentru Măsuri de Siguranţă Ştei, precum şi trecerea în administrarea Serviciului de Telecomunicaţii Speciale a unui teren în suprafaţă de 200 mp, situat în incinta Spitalului de Psihiatrie şi pentru Măsuri de Siguranţă Ştei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/270635",
+   "versions": [
+    {
+     "from": "2023-05-24",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270635",
+     "sha256": "d54b9f0fe5e8416933647aac11c8e4e4c03b2e1d0f8afe706a7b6753c00054e2"
+    }
+   ]
+  },
+  {
    "slug": "hg-460-2024",
    "path": "hg/2024/460",
    "short": "HG nr. 460/2024",
@@ -127111,6 +128314,21 @@
      "units": 12,
      "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/128445",
      "sha256": "29f9e032f5b372f88d8ceee1bda29a86e3d9d741409b6ba0c98e63c0d9a1ab00"
+    }
+   ]
+  },
+  {
+   "slug": "hg-461-2023",
+   "path": "hg/2023/461",
+   "short": "HG nr. 461/2023",
+   "title": "Hotărârea Guvernului nr. 461/2023 privind înscrierea unui bun imobil în inventarul centralizat al bunurilor din domeniul public al statului şi darea în administrarea Administraţiei Naţionale \"Apele Române\" prin Administraţia Bazinală de Apă Buzău-Ialomiţa, instituţie publică aflată în coordonarea Ministerului Mediului, Apelor şi Pădurilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/270636",
+   "versions": [
+    {
+     "from": "2023-05-24",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270636",
+     "sha256": "23b62dc4672e6a8a03b4cfcfd6d1c9bbfa32f5cb7a06af461c39b5503ac61c67"
     }
    ]
   },
@@ -127384,6 +128602,21 @@
      "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/226781",
      "sha256": "1f2376975442f59c571135b3f7d9cc6699550689ab2cdae167d14eeee92f910b"
+    }
+   ]
+  },
+  {
+   "slug": "hg-466-2023",
+   "path": "hg/2023/466",
+   "short": "HG nr. 466/2023",
+   "title": "Hotărârea Guvernului nr. 466/2023 pentru aprobarea notelor de fundamentare privind necesitatea şi oportunitatea efectuării cheltuielilor aferente proiectelor de investiţii \"Dezvoltarea sistemelor de securitate pentru protecţia spectrului guvernamental\" şi \"Creşterea rezilienţei şi a securităţii cibernetice a serviciilor de infrastructură ale furnizorilor de servicii de internet pentru autorităţile publice din România\" din cadrul componentei 7 \"Transformare digitală\" din Planul naţional de redresare şi rezilienţă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/270571",
+   "versions": [
+    {
+     "from": "2023-05-22",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270571",
+     "sha256": "1fc16527e99041cf73a545bb79c7c2aa3a5cfda547c488394d9621814fad0fb4"
     }
    ]
   },
@@ -160793,6 +162026,21 @@
    ]
   },
   {
+   "slug": "legea-111-2023",
+   "path": "lege/2023/111",
+   "short": "Legea nr. 111/2023",
+   "title": "Legea nr. 111/2023 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 156/2020 privind unele măsuri pentru susţinerea dezvoltării teritoriale a localităţilor urbane şi rurale din România cu finanţare din fonduri externe nerambursabile",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/270028",
+   "versions": [
+    {
+     "from": "2023-05-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270028",
+     "sha256": "6a97e06280deb1d9ca9b96b27948b4794fa897400de963e83c6f7d846c32acde"
+    }
+   ]
+  },
+  {
    "slug": "legea-112-2010",
    "path": "lege/2010/112",
    "short": "Legea nr. 112/2010",
@@ -161132,6 +162380,21 @@
    ]
   },
   {
+   "slug": "legea-117-2023",
+   "path": "lege/2023/117",
+   "short": "Legea nr. 117/2023",
+   "title": "Legea nr. 117/2023 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 134/2022 privind unele măsuri în vederea protejării consumatorului final în ceea ce priveşte utilizarea materialelor lemnoase şi a produselor derivate din lemn, pentru încălzirea locuinţei în sezonul rece",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/270130",
+   "versions": [
+    {
+     "from": "2023-05-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270130",
+     "sha256": "995c7f2c0fb90cb936ed478cc1ac6e4f7b49857e6659f44328e882411aa05f97"
+    }
+   ]
+  },
+  {
    "slug": "legea-117-2024",
    "path": "lege/2024/117",
    "short": "Legea nr. 117/2024",
@@ -161344,6 +162607,21 @@
      "units": 27,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/215433",
      "sha256": "4588ff0d77423813619798674ecdafc3ca9eeca5c9657033b26e1de36383064a"
+    }
+   ]
+  },
+  {
+   "slug": "legea-120-2023",
+   "path": "lege/2023/120",
+   "short": "Legea nr. 120/2023",
+   "title": "Legea nr. 120/2023 pentru instituirea zilei de 30 noiembrie ca Ziua naţională a tezaurului uman viu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/270155",
+   "versions": [
+    {
+     "from": "2023-05-15",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270155",
+     "sha256": "1d38c81b5243ba495323c75476905f41f396d43994d3306e879aa1e758a0faa1"
     }
    ]
   },
@@ -162010,6 +163288,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/227824",
      "sha256": "c1dfad211e3a95329ebf1c0df1c16564568cdc6d938a20277b6ff64493b4d5ea"
+    }
+   ]
+  },
+  {
+   "slug": "legea-129-2023",
+   "path": "lege/2023/129",
+   "short": "Legea nr. 129/2023",
+   "title": "Legea nr. 129/2023 pentru completarea art. 4^3 din Legea nr. 82/1993 privind constituirea Rezervaţiei Biosferei \"Delta Dunării\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/270547",
+   "versions": [
+    {
+     "from": "2023-05-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270547",
+     "sha256": "8b6dc6348a93505059aafd446e24b0177897b81fd5392341d2dc3ab840470b8e"
     }
    ]
   },
@@ -183739,6 +185032,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/199781",
      "sha256": "af7d2d95b28436fa68802aa650def2764c9c7cfb4fd0ef3be3740f787c4e078d"
+    }
+   ]
+  },
+  {
+   "slug": "legea-90-2023",
+   "path": "lege/2023/90",
+   "short": "Legea nr. 90/2023",
+   "title": "Legea nr. 90/2023 pentru ratificarea Acordului dintre Guvernul României şi Guvernul Republicii Moldova privind controlul coordonat pe teritoriul României în punctul de trecere a frontierei de stat Albiţa (România) - Leuşeni (Republica Moldova) rutier, pe sensul de intrare în România, semnat la 9 februarie 2023 la Albiţa",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/266798",
+   "versions": [
+    {
+     "from": "2023-04-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/266798",
+     "sha256": "4da0eeb58d2b3c27cd31172bd9b49c328df521211254a6fef137c1af4f5a7a23"
     }
    ]
   },
