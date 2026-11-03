@@ -1,6 +1,6 @@
 # Every act in this repository
 
-9153 acts, 22,315 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+9158 acts, 22,324 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -3680,7 +3680,7 @@
 | Ordonanța de urgență a Guvernului nr. 30/2026 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 23/2004 privind stabilirea unor măsuri de reorganizare a Autorităţii pentru Valorificarea Activelor Bancare prin comasarea prin absorbţie cu Autoritatea pentru Privatizare şi Administrarea Participaţiilor Statului | [`oug/2026/30/`](oug/2026/30/) | amending act | 1 | 2026-04-21 | 2026-04-21 |
 | Ordonanța de urgență a Guvernului nr. 33/2026 pentru modificarea şi completarea Legii educaţiei fizice şi sportului nr. 69/2000 | [`oug/2026/33/`](oug/2026/33/) | amending act | 1 | 2026-04-27 | 2026-04-27 |
 
-## Ordinances (OG) (471, of which 92 amending acts)
+## Ordinances (OG) (472, of which 92 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -3781,6 +3781,7 @@
 | Ordonanța Guvernului nr. 83/2000 | [`og/2000/83/`](og/2000/83/) | in force | 2 | 2000-09-01 | 2001-01-01 |
 | Ordonanța Guvernului nr. 89/2000 | [`og/2000/89/`](og/2000/89/) | in force | 8 | 2000-09-01 | 2018-10-02 |
 | Ordonanța Guvernului nr. 101/2000 | [`og/2000/101/`](og/2000/101/) | in force | 1 | 2000-09-03 | 2000-09-03 |
+| Ordonanța Guvernului nr. 102/2000 privind statutul și regimul refugiatilor în România | [`og/2000/102/`](og/2000/102/) | repealed 2006-08-16 | 5 | 2000-11-02 | 2006-08-16 |
 | Ordonanța Guvernului nr. 109/2000 | [`og/2000/109/`](og/2000/109/) | in force | 3 | 2000-09-02 | 2006-11-26 |
 | Ordonanța Guvernului nr. 112/2000 | [`og/2000/112/`](og/2000/112/) | in force | 1 | 2000-09-01 | 2000-09-01 |
 | Ordonanța Guvernului nr. 118/2000 | [`og/2000/118/`](og/2000/118/) | in force | 1 | 2000-09-03 | 2000-09-03 |
@@ -4156,7 +4157,7 @@
 | Ordonanța Guvernului nr. 21/2025 pentru modificarea și completarea Legii nr. 431/2023 privind asigurarea unui nivel minim global de impozitare a grupurilor de întreprinderi multinaționale și a grupurilor naționale de mari dimensiuni | [`og/2025/21/`](og/2025/21/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 | Ordonanța Guvernului nr. 22/2025 pentru modificarea și completarea Legii nr. 227/2015 privind Codul fiscal | [`og/2025/22/`](og/2025/22/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 
-## Government decisions (HG) (5005, of which 1962 amending acts)
+## Government decisions (HG) (5009, of which 1965 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -6677,10 +6678,14 @@
 | Hotărârea Guvernului nr. 118/2023 privind acordarea burselor în străinătate pentru stagii de studii universitare de masterat și de doctorat, pentru stagii postdoctorale și de cercetare | [`hg/2023/118/`](hg/2023/118/) | in force | 1 | 2023-02-10 | 2023-02-10 |
 | Hotărârea Guvernului nr. 130/2023 pentru modificarea și completarea Regulamentului de aplicare a Ordonanței de urgență a Guvernului nr. 195/2002 privind circulația pe drumurile publice, aprobat prin Hotărârea Guvernului nr. 1.391/2006 | [`hg/2023/130/`](hg/2023/130/) | amending act | 1 | 2023-02-17 | 2023-02-17 |
 | Hotărârea Guvernului nr. 144/2023 pentru modificarea anexelor nr. 1 și 2 la Strategia națională privind siguranța rutieră pentru perioada 2022-2030, aprobată prin Hotărârea Guvernului nr. 682/2022 | [`hg/2023/144/`](hg/2023/144/) | amending act | 1 | 2023-02-23 | 2023-02-23 |
+| Hotărârea Guvernului nr. 147/2023 privind trecerea din domeniul public al statului în domeniul privat al statului şi în administrarea Companiei Naţionale de Căi Ferate "C.F.R." - S.A. a unor bunuri aflate în administrarea Ministerului Transporturilor şi Infrastructurii şi în concesiunea Companiei Naţionale de Căi Ferate "C.F.R." - S.A. - Sucursala Regională C.F. Galaţi, în vederea reutilizării şi refolosirii, respectiv scoaterii din funcţiune, casării şi valorificării, după caz | [`hg/2023/147/`](hg/2023/147/) | in force | 1 | 2023-02-27 | 2023-02-27 |
+| Hotărârea Guvernului nr. 148/2023 privind modificarea descrierii tehnice a unui bun imobil aparţinând domeniului public al statului şi transmiterea unor părţi din acesta din administrarea Ministerului Transporturilor şi Infrastructurii şi concesiunea Companiei Naţionale Administraţia Porturilor Maritime - S.A. Constanţa în administrarea Agenţiei Naţionale de Administrare a Bunurilor Indisponibilizate, instituţie publică cu personalitate juridică aflată în subordinea Ministerului Justiţiei, şi modificarea anexelor nr. 11 şi 16 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului | [`hg/2023/148/`](hg/2023/148/) | amending act | 1 | 2023-02-27 | 2023-02-27 |
+| Hotărârea Guvernului nr. 149/2023 privind modificarea şi completarea, după caz, a descrierii tehnice şi adresei unor bunuri imobile aparţinând domeniului public al statului aflate în administrarea Administraţiei Naţionale "Apele Române" prin administraţiile bazinale de apă, instituţie publică aflată în coordonarea Ministerului Mediului, Apelor şi Pădurilor, prevăzute în anexa nr. 12 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului, ca urmare a efectuării lucrărilor de cadastru şi publicitate imobiliară | [`hg/2023/149/`](hg/2023/149/) | amending act | 1 | 2023-03-01 | 2023-03-01 |
 | Hotărârea Guvernului nr. 152/2023 pentru aprobarea Normelor metodologice de aplicare a Legii nr. 421/2002 privind regimul juridic al vehiculelor fără stăpân sau abandonate pe terenuri aparținând domeniului public sau privat al statului ori al unităților administrativ-teritoriale | [`hg/2023/152/`](hg/2023/152/) | amending act | 1 | 2023-02-24 | 2023-02-24 |
 | Hotărârea Guvernului nr. 157/2023 privind actualizarea valorilor de inventar şi modificarea datelor de identificare ale unor imobile aflate în domeniul public al statului şi în administrarea Direcţiei Generale Regionale a Finanţelor Publice Ploieşti şi Agenţiei de Plăţi şi Intervenţie pentru Agricultură - Centrul Judeţean Ialomiţa, de transmitere a unui imobil din administrarea Direcţiei Generale Regionale a Finanţelor Publice Ploieşti în administrarea Agenţiei de Plăţi şi Intervenţie pentru Agricultură - Centrul Judeţean Ialomiţa, precum şi de modificare a anexelor nr. 3 şi 9 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului | [`hg/2023/157/`](hg/2023/157/) | amending act | 1 | 2023-03-03 | 2023-03-03 |
 | Hotărârea Guvernului nr. 158/2023 privind înscrierea în inventarul centralizat al bunurilor din domeniul public al statului a unui imobil şi darea acestuia în administrarea Ministerului Muncii şi Solidarităţii Sociale | [`hg/2023/158/`](hg/2023/158/) | in force | 1 | 2023-03-03 | 2023-03-03 |
 | Hotărârea Guvernului nr. 159/2023 privind modificarea valorilor de inventar şi caracteristicilor tehnice ale unor bunuri înscrise în inventarul centralizat al bunurilor din domeniul public al statului şi aflate în administrarea Ministerului Muncii şi Solidarităţii Sociale - Agenţia Judeţeană pentru Plăţi şi Inspecţie Socială Vaslui | [`hg/2023/159/`](hg/2023/159/) | amending act | 1 | 2023-03-03 | 2023-03-03 |
+| Hotărârea Guvernului nr. 160/2023 privind modificarea valorii de inventar, a denumirii şi a datelor de identificare, precum şi trecerea din domeniul public în domeniul privat al statului a unei părţi din imobilul înregistrat cu nr. MF 38795, aflat în administrarea Autorităţii Naţionale Sanitare Veterinare şi pentru Siguranţa Alimentelor - Direcţia Sanitar-Veterinară şi pentru Siguranţa Alimentelor Iaşi, în vederea retrocedării către persoanele îndreptăţite | [`hg/2023/160/`](hg/2023/160/) | amending act | 1 | 2023-03-02 | 2023-03-02 |
 | Hotărârea Guvernului nr. 161/2023 privind aprobarea Programului statistic național anual 2023 | [`hg/2023/161/`](hg/2023/161/) | amending act | 1 | 2023-03-02 | 2023-03-02 |
 | Hotărârea Guvernului nr. 162/2023 privind acordarea unor ajutoare de urgenţă | [`hg/2023/162/`](hg/2023/162/) | in force | 1 | 2023-03-02 | 2023-03-02 |
 | Hotărârea Guvernului nr. 168/2023 privind aprobarea Programului de susținere a crescătorilor de porci de reproducție din rasele Bazna și/sau Mangalița pentru anul 2023 | [`hg/2023/168/`](hg/2023/168/) | amending act | 1 | 2023-03-02 | 2023-03-02 |

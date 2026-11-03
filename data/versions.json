@@ -60344,6 +60344,45 @@
    ]
   },
   {
+   "slug": "og-102-2000",
+   "path": "og/2000/102",
+   "short": "OG nr. 102/2000",
+   "title": "Ordonanța Guvernului nr. 102/2000 privind statutul și regimul refugiatilor în România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49620",
+   "versions": [
+    {
+     "from": "2000-11-02",
+     "units": 42,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/24161",
+     "sha256": "63d8a42527e1dea4fa83b7de88a80f5b34fcd8eeb90a73c0ae44789bdbccf6c3"
+    },
+    {
+     "from": "2003-11-04",
+     "units": 42,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/47538",
+     "sha256": "0fdcb2006702ec7651969cf2b641054a30ca17730e965dc14350493333c9a267"
+    },
+    {
+     "from": "2004-01-31",
+     "units": 43,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49620",
+     "sha256": "298079f570e93e177aff49714c10d8a071e3100c9d66b1168d2b5a835e04e5fa"
+    },
+    {
+     "from": "2004-12-01",
+     "units": 41,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/57203",
+     "sha256": "0bdc069dbbce54ebb3aabc8501668a72e234a081201bd2d76d71051a3a192bee"
+    },
+    {
+     "from": "2006-08-16",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/71808",
+     "sha256": "09bcdabcd0dadaeb6684ebbfda367be40210162c18bd039e8c3d0987ed642ff9"
+    }
+   ]
+  },
+  {
    "slug": "og-105-1999",
    "path": "og/1999/105",
    "short": "OG nr. 105/1999",
@@ -108221,6 +108260,21 @@
    ]
   },
   {
+   "slug": "hg-147-2023",
+   "path": "hg/2023/147",
+   "short": "HG nr. 147/2023",
+   "title": "Hotărârea Guvernului nr. 147/2023 privind trecerea din domeniul public al statului în domeniul privat al statului şi în administrarea Companiei Naţionale de Căi Ferate \"C.F.R.\" - S.A. a unor bunuri aflate în administrarea Ministerului Transporturilor şi Infrastructurii şi în concesiunea Companiei Naţionale de Căi Ferate \"C.F.R.\" - S.A. - Sucursala Regională C.F. Galaţi, în vederea reutilizării şi refolosirii, respectiv scoaterii din funcţiune, casării şi valorificării, după caz",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/265356",
+   "versions": [
+    {
+     "from": "2023-02-27",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/265356",
+     "sha256": "99ef452030d3f9edfc62688a6e88cb2be87678b5a8ef4d2ca830eb3585b69d71"
+    }
+   ]
+  },
+  {
    "slug": "hg-147-2024",
    "path": "hg/2024/147",
    "short": "HG nr. 147/2024",
@@ -108458,6 +108512,21 @@
    ]
   },
   {
+   "slug": "hg-148-2023",
+   "path": "hg/2023/148",
+   "short": "HG nr. 148/2023",
+   "title": "Hotărârea Guvernului nr. 148/2023 privind modificarea descrierii tehnice a unui bun imobil aparţinând domeniului public al statului şi transmiterea unor părţi din acesta din administrarea Ministerului Transporturilor şi Infrastructurii şi concesiunea Companiei Naţionale Administraţia Porturilor Maritime - S.A. Constanţa în administrarea Agenţiei Naţionale de Administrare a Bunurilor Indisponibilizate, instituţie publică cu personalitate juridică aflată în subordinea Ministerului Justiţiei, şi modificarea anexelor nr. 11 şi 16 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/265357",
+   "versions": [
+    {
+     "from": "2023-02-27",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/265357",
+     "sha256": "58cd8f245ebe5c34caa91d46bed49e6b173e492d1746e37db1822cfbb4269380"
+    }
+   ]
+  },
+  {
    "slug": "hg-148-2024",
    "path": "hg/2024/148",
    "short": "HG nr. 148/2024",
@@ -108643,6 +108712,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/114348",
      "sha256": "31daf40816f1b5200c38d449306b0fd9e1e2b4083360a469061a2978d0a26c6d"
+    }
+   ]
+  },
+  {
+   "slug": "hg-149-2023",
+   "path": "hg/2023/149",
+   "short": "HG nr. 149/2023",
+   "title": "Hotărârea Guvernului nr. 149/2023 privind modificarea şi completarea, după caz, a descrierii tehnice şi adresei unor bunuri imobile aparţinând domeniului public al statului aflate în administrarea Administraţiei Naţionale \"Apele Române\" prin administraţiile bazinale de apă, instituţie publică aflată în coordonarea Ministerului Mediului, Apelor şi Pădurilor, prevăzute în anexa nr. 12 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului, ca urmare a efectuării lucrărilor de cadastru şi publicitate imobiliară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/265391",
+   "versions": [
+    {
+     "from": "2023-03-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/265391",
+     "sha256": "14f692f815945007c0bd6de0eece5db34c5a580946750bf1e0ff7f00e7da8afe"
     }
    ]
   },
@@ -110725,6 +110809,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/79825",
      "sha256": "f024dd2736c8d68e4a2074f8ef3bad4924a16e1fb0f8dc828c26e472d1090ee5"
+    }
+   ]
+  },
+  {
+   "slug": "hg-160-2023",
+   "path": "hg/2023/160",
+   "short": "HG nr. 160/2023",
+   "title": "Hotărârea Guvernului nr. 160/2023 privind modificarea valorii de inventar, a denumirii şi a datelor de identificare, precum şi trecerea din domeniul public în domeniul privat al statului a unei părţi din imobilul înregistrat cu nr. MF 38795, aflat în administrarea Autorităţii Naţionale Sanitare Veterinare şi pentru Siguranţa Alimentelor - Direcţia Sanitar-Veterinară şi pentru Siguranţa Alimentelor Iaşi, în vederea retrocedării către persoanele îndreptăţite",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/265411",
+   "versions": [
+    {
+     "from": "2023-03-02",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/265411",
+     "sha256": "2b658ff1ca106d6eb3b8e19e9d3d397c19c1d55ab4e747e52eea5c199ca1d078"
     }
    ]
   },
