@@ -39059,6 +39059,45 @@
    ]
   },
   {
+   "slug": "legea-221-2009",
+   "path": "lege/2009/221",
+   "short": "Legea nr. 221/2009",
+   "title": "Legea nr. 221/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/106808",
+   "versions": [
+    {
+     "from": "2009-06-14",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/106808",
+     "sha256": "ee0490c30fb201fba9286a59da86fa5d684a375c555a8bf2e5d93bf7d86d872b"
+    },
+    {
+     "from": "2010-07-01",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/120270",
+     "sha256": "ef7d5d38be51285daf03689cf3197e2123f1d8f2c2008fd558d1887afd035d6a"
+    },
+    {
+     "from": "2010-11-25",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/124263",
+     "sha256": "5dfcba79dbafb5ca41957ac47221224a47ee451a65e87d11025984e92a17ee37"
+    },
+    {
+     "from": "2010-12-30",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/139026",
+     "sha256": "cb7fd55a5fe1db2ab86c81d6b20c6d1ebed80246fd0599466ac53e593bec8604"
+    },
+    {
+     "from": "2013-03-14",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/146118",
+     "sha256": "77952dd06573d6896949e2fa6a192342576958e667165a1465d83f15aa8da067"
+    }
+   ]
+  },
+  {
    "slug": "legea-222-2008",
    "path": "lege/2008/222",
    "short": "Legea nr. 222/2008",
@@ -77899,6 +77938,33 @@
      "units": 7,
      "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/114105",
      "sha256": "20a831fff4aa4d433c15a067f134ca713540fa9fb0766fefef8b1e861b80a004"
+    }
+   ]
+  },
+  {
+   "slug": "oug-218-2008",
+   "path": "oug/2008/218",
+   "short": "OUG nr. 218/2008",
+   "title": "Ordonanța de urgență a Guvernului nr. 218/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/202096",
+   "versions": [
+    {
+     "from": "2008-12-11",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/100176",
+     "sha256": "77d25061020786b9bbd090101e618e0e24a6cf05e0edc776d6cc8bdc5d7be0ce"
+    },
+    {
+     "from": "2008-12-15",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/100176",
+     "sha256": "77d25061020786b9bbd090101e618e0e24a6cf05e0edc776d6cc8bdc5d7be0ce"
+    },
+    {
+     "from": "2011-07-10",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/202096",
+     "sha256": "934377a83784d158d6e05b0b40c2bfa1727c510ce4268f8e055cbb89336ab204"
     }
    ]
   },
@@ -141815,6 +141881,21 @@
    ]
   },
   {
+   "slug": "hg-769-2023",
+   "path": "hg/2023/769",
+   "short": "HG nr. 769/2023",
+   "title": "Hotărârea Guvernului nr. 769/2023 privind recunoaşterea Asociaţiei \"GAL Suceviţa - Putna\", judeţul Suceava, ca fiind de utilitate publică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/274027",
+   "versions": [
+    {
+     "from": "2023-08-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/274027",
+     "sha256": "b5f3d1155aa2588158039c2e98a84d94e3e480a6d65c42dff7bc75540b2c6457"
+    }
+   ]
+  },
+  {
    "slug": "hg-769-2024",
    "path": "hg/2024/769",
    "short": "HG nr. 769/2024",
@@ -172918,6 +172999,45 @@
      "units": 50,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/127393",
      "sha256": "b9859d6e46f4471b4eeb60d3ab9622deb2d7b8cc7795bdb3b5056a80fc00929f"
+    }
+   ]
+  },
+  {
+   "slug": "legea-335-2013",
+   "path": "lege/2013/335",
+   "short": "Legea nr. 335/2013",
+   "title": "Legea nr. 335/2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/153559",
+   "versions": [
+    {
+     "from": "2014-03-12",
+     "units": 36,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/153559",
+     "sha256": "b81f058e46c5b2ca6216e04b03b8fc11a495786cf1d93d2a4deb806fd968f70d"
+    },
+    {
+     "from": "2014-06-30",
+     "units": 36,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/159545",
+     "sha256": "796581aea06db6144d17ebf5dbdf35a4d5b7e5bd27ec2bc2a663ffd54d4814b1"
+    },
+    {
+     "from": "2017-07-14",
+     "units": 36,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/190955",
+     "sha256": "e2d437bdbf9d27431294f63bd0c330e44b282f703f600a6a4c090ac767219f0b"
+    },
+    {
+     "from": "2018-07-09",
+     "units": 36,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/202091",
+     "sha256": "61ce2d95a3b36be7f6d577a84898878942458d097127575e099967b3c8242e24"
+    },
+    {
+     "from": "2023-12-22",
+     "units": 36,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/269554",
+     "sha256": "050c841a4908bee8eb7a86706f7aba2e157ab7aa9812f9c34c4baea34538dccd"
     }
    ]
   },
@@ -209518,45 +209638,6 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/256608",
      "sha256": "b544a581a4122a701d5f9cbf34bdb6adca1ce7b54beae67fc73c3f4d3a578cca"
-    }
-   ]
-  },
-  {
-   "slug": "legea-335-2013",
-   "path": "lege/2013/335",
-   "short": "Legea nr. 335/2013",
-   "title": "Legea nr. 335/2013",
-   "url": "https://legislatie.just.ro/Public/DetaliiDocument/153559",
-   "versions": [
-    {
-     "from": "2014-03-12",
-     "units": 36,
-     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/153559",
-     "sha256": "b81f058e46c5b2ca6216e04b03b8fc11a495786cf1d93d2a4deb806fd968f70d"
-    },
-    {
-     "from": "2014-06-30",
-     "units": 36,
-     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/159545",
-     "sha256": "796581aea06db6144d17ebf5dbdf35a4d5b7e5bd27ec2bc2a663ffd54d4814b1"
-    },
-    {
-     "from": "2017-07-14",
-     "units": 36,
-     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/190955",
-     "sha256": "e2d437bdbf9d27431294f63bd0c330e44b282f703f600a6a4c090ac767219f0b"
-    },
-    {
-     "from": "2018-07-09",
-     "units": 36,
-     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/202091",
-     "sha256": "61ce2d95a3b36be7f6d577a84898878942458d097127575e099967b3c8242e24"
-    },
-    {
-     "from": "2023-12-22",
-     "units": 36,
-     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/269554",
-     "sha256": "050c841a4908bee8eb7a86706f7aba2e157ab7aa9812f9c34c4baea34538dccd"
     }
    ]
   },

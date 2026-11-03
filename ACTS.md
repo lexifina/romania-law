@@ -1,6 +1,6 @@
 # Every act in this repository
 
-8772 acts, 21,859 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+8775 acts, 21,868 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -32,7 +32,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (2062, of which 836 amending acts)
+## Laws (legi) (2063, of which 836 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -772,6 +772,7 @@
 | Legea nr. 98/2009 | [`lege/2009/98/`](lege/2009/98/) | in force | 1 | 2009-04-19 | 2009-04-19 |
 | Legea nr. 172/2009 privind aprobarea Ordonanței de urgență a Guvernului nr. 216/2008 pentru modificarea și completarea Legii nr. 290/2004 privind cazierul judiciar | [`lege/2009/172/`](lege/2009/172/) | amending act | 2 | 2009-05-17 | 2016-12-10 |
 | Legea nr. 203/2009 | [`lege/2009/203/`](lege/2009/203/) | in force | 3 | 2009-06-12 | 2010-04-12 |
+| Legea nr. 221/2009 | [`lege/2009/221/`](lege/2009/221/) | in force | 5 | 2009-06-14 | 2013-03-14 |
 | Legea nr. 226/2009 organizării și funcționării statisticii oficiale în România | [`lege/2009/226/`](lege/2009/226/) | in force | 7 | 2009-06-14 | 2017-07-01 |
 | Legea nr. 238/2009 | [`lege/2009/238/`](lege/2009/238/) | in force | 2 | 2009-06-18 | 2012-07-12 |
 | Legea nr. 242/2009 privind aprobarea Ordonanței Guvernului nr. 27/2008 pentru modificarea și completarea Legii nr. 350/2001 privind amenajarea teritoriului și urbanismul | [`lege/2009/242/`](lege/2009/242/) | amending act | 1 | 2009-07-06 | 2009-07-06 |
@@ -2099,7 +2100,7 @@
 | Legea nr. 190/2026 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 81/2021 privind aprobarea metodelor de intervenţie imediată pentru prevenirea şi combaterea atacurilor exemplarelor de urs brun asupra persoanelor şi bunurilor acestora, precum şi pentru modificarea şi completarea unor acte normative | [`lege/2026/190/`](lege/2026/190/) | amending act | 1 | 2026-10-08 | 2026-10-08 |
 | Legea nr. 205/2026 pentru completarea Ordonanţei Guvernului nr. 22/2002 privind executarea obligaţiilor de plată ale instituţiilor publice, stabilite prin titluri executorii | [`lege/2026/205/`](lege/2026/205/) | amending act | 1 | 2026-11-02 | 2026-11-02 |
 
-## Emergency ordinances (OUG) (1524, of which 533 amending acts)
+## Emergency ordinances (OUG) (1525, of which 533 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -2563,6 +2564,7 @@
 | Ordonanța de urgență a Guvernului nr. 215/2008 | [`oug/2008/215/`](oug/2008/215/) | in force | 1 | 2008-12-16 | 2008-12-16 |
 | Ordonanța de urgență a Guvernului nr. 216/2008 | [`oug/2008/216/`](oug/2008/216/) | in force | 2 | 2008-12-17 | 2009-05-17 |
 | Ordonanța de urgență a Guvernului nr. 217/2008 | [`oug/2008/217/`](oug/2008/217/) | in force | 3 | 2008-12-17 | 2009-11-12 |
+| Ordonanța de urgență a Guvernului nr. 218/2008 | [`oug/2008/218/`](oug/2008/218/) | in force | 3 | 2008-12-11 | 2011-07-10 |
 | Ordonanța de urgență a Guvernului nr. 221/2008 | [`oug/2008/221/`](oug/2008/221/) | in force | 2 | 2008-12-24 | 2009-02-16 |
 | Ordonanța de urgență a Guvernului nr. 223/2008 | [`oug/2008/223/`](oug/2008/223/) | in force | 2 | 2008-12-31 | 2009-04-14 |
 | Ordonanța de urgență a Guvernului nr. 228/2008 | [`oug/2008/228/`](oug/2008/228/) | in force | 3 | 2009-01-05 | 2009-10-14 |
@@ -4099,7 +4101,7 @@
 | Ordonanța Guvernului nr. 21/2025 pentru modificarea și completarea Legii nr. 431/2023 privind asigurarea unui nivel minim global de impozitare a grupurilor de întreprinderi multinaționale și a grupurilor naționale de mari dimensiuni | [`og/2025/21/`](og/2025/21/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 | Ordonanța Guvernului nr. 22/2025 pentru modificarea și completarea Legii nr. 227/2015 privind Codul fiscal | [`og/2025/22/`](og/2025/22/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 
-## Government decisions (HG) (4681, of which 1801 amending acts)
+## Government decisions (HG) (4682, of which 1801 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -6700,6 +6702,7 @@
 | Hotărârea Guvernului nr. 765/2023 privind actualizarea valorii de inventar a unui bun imobil aflat în domeniul public al statului şi în administrarea Autorităţii pentru Administrarea Activelor Statului, ca urmare a finalizării unor lucrări de investiţii şi a reevaluării acestuia | [`hg/2023/765/`](hg/2023/765/) | in force | 1 | 2023-08-28 | 2023-08-28 |
 | Hotărârea Guvernului nr. 766/2023 privind aprobarea stemei comunei Suteşti, judeţul Vâlcea | [`hg/2023/766/`](hg/2023/766/) | amending act | 1 | 2023-09-01 | 2023-09-01 |
 | Hotărârea Guvernului nr. 768/2023 privind trecerea în domeniul public al statului şi în administrarea Ministerului Transporturilor şi Infrastructurii a sectorului de drum judeţean DJ 291C, inclusiv a terenurilor aferente, aflat în domeniul public al judeţului Botoşani şi în administrarea Consiliului Judeţean Botoşani, încadrarea acestuia în categoria funcţională a drumurilor de interes naţional, precum şi înscrierea în inventarul centralizat al bunurilor din domeniul public al statului | [`hg/2023/768/`](hg/2023/768/) | in force | 1 | 2023-08-29 | 2023-08-29 |
+| Hotărârea Guvernului nr. 769/2023 privind recunoaşterea Asociaţiei "GAL Suceviţa - Putna", judeţul Suceava, ca fiind de utilitate publică | [`hg/2023/769/`](hg/2023/769/) | in force | 1 | 2023-08-28 | 2023-08-28 |
 | Hotărârea Guvernului nr. 772/2023 privind eliberarea domnului Muntean Alin-Cuzma din funcţia de subprefect al judeţului Caraş-Severin | [`hg/2023/772/`](hg/2023/772/) | in force | 1 | 2023-08-31 | 2023-08-31 |
 | Hotărârea Guvernului nr. 773/2023 privind numirea doamnei Radici Adina-Marilena în funcţia de subprefect al judeţului Caraş-Severin | [`hg/2023/773/`](hg/2023/773/) | in force | 1 | 2023-08-31 | 2023-08-31 |
 | Hotărârea Guvernului nr. 774/2023 privind eliberarea domnului Manea Ciprian din funcţia de subprefect al judeţului Galaţi | [`hg/2023/774/`](hg/2023/774/) | in force | 1 | 2023-08-31 | 2023-08-31 |

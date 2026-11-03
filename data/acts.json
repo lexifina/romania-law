@@ -12531,6 +12531,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/121453"
 },
 {
+"slug": "legea-221-2009",
+"path": "lege/2009/221",
+"kind": "lege",
+"year": "2009",
+"number": "221",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 221/2009",
+"short": "Legea nr. 221/2009",
+"code": null,
+"status": "in force",
+"versions": 5,
+"from": "2009-06-14",
+"latest": "2013-03-14",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/106808"
+},
+{
 "slug": "legea-226-2009",
 "path": "lege/2009/226",
 "kind": "lege",
@@ -42891,6 +42908,23 @@
 "from": "2008-12-17",
 "latest": "2009-11-12",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/113273"
+},
+{
+"slug": "oug-218-2008",
+"path": "oug/2008/218",
+"kind": "oug",
+"year": "2008",
+"number": "218",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 218/2008",
+"short": "OUG nr. 218/2008",
+"code": null,
+"status": "in force",
+"versions": 3,
+"from": "2008-12-11",
+"latest": "2011-07-10",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/202096"
 },
 {
 "slug": "oug-221-2008",
@@ -113611,6 +113645,23 @@
 "from": "2023-08-29",
 "latest": "2023-08-29",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/274040"
+},
+{
+"slug": "hg-769-2023",
+"path": "hg/2023/769",
+"kind": "hg",
+"year": "2023",
+"number": "769",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 769/2023 privind recunoaşterea Asociaţiei \"GAL Suceviţa - Putna\", judeţul Suceava, ca fiind de utilitate publică",
+"short": "HG nr. 769/2023",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2023-08-28",
+"latest": "2023-08-28",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/274027"
 },
 {
 "slug": "hg-772-2023",
