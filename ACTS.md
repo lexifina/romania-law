@@ -1,6 +1,6 @@
 # Every act in this repository
 
-13431 acts, 27,018 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+13431 acts, 27,020 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -970,7 +970,7 @@
 | Legea nr. 278/2013 | [`lege/2013/278/`](lege/2013/278/) | in force | 3 | 2013-12-01 | 2023-06-05 |
 | Legea nr. 280/2013 | [`lege/2013/280/`](lege/2013/280/) | in force | 1 | 2013-11-08 | 2013-11-08 |
 | Legea nr. 281/2013 | [`lege/2013/281/`](lege/2013/281/) | in force | 1 | 2013-11-08 | 2013-11-08 |
-| Legea nr. 300/2013 pentru modificarea și completarea Legii nr. 302/2004 privind cooperarea judiciară internațională în materie penală | [`lege/2013/300/`](lege/2013/300/) | amending act | 1 | 2013-12-14 | 2013-12-14 |
+| Legea nr. 300/2013 pentru modificarea și completarea Legii nr. 302/2004 privind cooperarea judiciară internațională în materie penală | [`lege/2013/300/`](lege/2013/300/) | amending act | 3 | 2013-12-14 | 2014-02-01 |
 | Legea nr. 307/2013 | [`lege/2013/307/`](lege/2013/307/) | in force | 4 | 2013-12-06 | 2024-11-15 |
 | Legea nr. 323/2013 | [`lege/2013/323/`](lege/2013/323/) | in force | 2 | 2013-12-05 | 2015-03-13 |
 | Legea nr. 335/2013 | [`lege/2013/335/`](lege/2013/335/) | in force | 5 | 2014-03-12 | 2023-12-22 |

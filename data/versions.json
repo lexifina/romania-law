@@ -242191,9 +242191,21 @@
    "versions": [
     {
      "from": "2013-12-14",
-     "units": 1,
-     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/153510",
-     "sha256": "56725f9c2c3e4a7a58a93285fb601c69e1fa0aa0cccff86c3fb8eba099dedc6b"
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/153510",
+     "sha256": "8fbef66501e768b3869258fd25cef13ffbc554e35fe32005e470864a5f63881b"
+    },
+    {
+     "from": "2013-12-26",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/153510",
+     "sha256": "8fbef66501e768b3869258fd25cef13ffbc554e35fe32005e470864a5f63881b"
+    },
+    {
+     "from": "2014-02-01",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/153510",
+     "sha256": "8fbef66501e768b3869258fd25cef13ffbc554e35fe32005e470864a5f63881b"
     }
    ]
   },
