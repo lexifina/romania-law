@@ -1,6 +1,6 @@
 # Every act in this repository
 
-5309 acts, 14,124 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+5314 acts, 14,157 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -1550,7 +1550,7 @@
 | Legea nr. 241/2025 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 31/2002 privind interzicerea organizațiilor, simbolurilor și faptelor cu caracter fascist, legionar, rasist sau xenofob și a promovării cultului persoanelor vinovate de săvârșirea unor infracțiuni de genocid contra umanității și de crime de război, precum și pentru modificarea Legii nr. 157/2018 privind unele măsuri pentru prevenirea și combaterea antisemitismului | [`lege/2025/241/`](lege/2025/241/) | amending act | 1 | 2025-12-27 | 2025-12-27 |
 | Legea nr. 245/2025 pentru modificarea art. 32 alin. (7) din Legea nr. 273/2006 privind finanțele publice locale | [`lege/2025/245/`](lege/2025/245/) | amending act | 1 | 2026-01-01 | 2026-01-01 |
 
-## Emergency ordinances (OUG) (1185, of which 478 amending acts)
+## Emergency ordinances (OUG) (1187, of which 478 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -1793,6 +1793,7 @@
 | Ordonanța de urgență a Guvernului nr. 114/2007 | [`oug/2007/114/`](oug/2007/114/) | in force | 1 | 2007-10-22 | 2007-10-22 |
 | Ordonanța de urgență a Guvernului nr. 115/2007 | [`oug/2007/115/`](oug/2007/115/) | in force | 1 | 2007-10-26 | 2007-10-26 |
 | Ordonanța de urgență a Guvernului nr. 117/2007 | [`oug/2007/117/`](oug/2007/117/) | in force | 2 | 2007-10-30 | 2009-05-17 |
+| Ordonanța de urgență a Guvernului nr. 123/2007 | [`oug/2007/123/`](oug/2007/123/) | in force | 4 | 2007-11-06 | 2022-05-06 |
 | Ordonanța de urgență a Guvernului nr. 127/2007 | [`oug/2007/127/`](oug/2007/127/) | in force | 3 | 2007-11-13 | 2015-02-02 |
 | Ordonanța de urgență a Guvernului nr. 135/2007 | [`oug/2007/135/`](oug/2007/135/) | in force | 4 | 2007-11-30 | 2011-03-02 |
 | Ordonanța de urgență a Guvernului nr. 138/2007 | [`oug/2007/138/`](oug/2007/138/) | in force | 1 | 2007-12-08 | 2007-12-08 |
@@ -1897,6 +1898,7 @@
 | Ordonanța de urgență a Guvernului nr. 116/2009 pentru instituirea unor măsuri privind activitatea de înregistrare în registrul comerțului | [`oug/2009/116/`](oug/2009/116/) | in force | 5 | 2010-01-14 | 2022-11-26 |
 | Ordonanța de urgență a Guvernului nr. 2/2010 | [`oug/2010/2/`](oug/2010/2/) | in force | 2 | 2010-02-03 | 2013-03-21 |
 | Ordonanța de urgență a Guvernului nr. 3/2010 | [`oug/2010/3/`](oug/2010/3/) | in force | 2 | 2010-02-19 | 2010-07-22 |
+| Ordonanța de urgență a Guvernului nr. 5/2010 pentru înființarea, organizarea și funcționarea Autorității Naționale pentru Cetățenie | [`oug/2010/5/`](oug/2010/5/) | in force | 6 | 2010-02-10 | 2025-03-15 |
 | Ordonanța de urgență a Guvernului nr. 6/2010 | [`oug/2010/6/`](oug/2010/6/) | in force | 1 | 2010-02-15 | 2010-02-15 |
 | Ordonanța de urgență a Guvernului nr. 14/2010 | [`oug/2010/14/`](oug/2010/14/) | in force | 1 | 2010-03-04 | 2010-03-04 |
 | Ordonanța de urgență a Guvernului nr. 15/2010 | [`oug/2010/15/`](oug/2010/15/) | in force | 2 | 2010-03-26 | 2010-07-23 |
@@ -2740,7 +2742,7 @@
 | Ordonanța de urgență a Guvernului nr. 78/2025 pentru modificarea Legii nr. 239/2025 privind stabilirea unor măsuri de redresare și eficientizare a resurselor publice și pentru modificarea și completarea unor acte normative | [`oug/2025/78/`](oug/2025/78/) | amending act | 1 | 2025-12-17 | 2025-12-17 |
 | Ordonanța de urgență a Guvernului nr. 87/2025 pentru stabilirea unor măsuri bugetare privind implementarea programelor naționale din domeniul lucrărilor publice | [`oug/2025/87/`](oug/2025/87/) | in force | 1 | 2025-12-24 | 2025-12-24 |
 
-## Ordinances (OG) (320, of which 83 amending acts)
+## Ordinances (OG) (322, of which 83 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -2786,6 +2788,7 @@
 | Ordonanța Guvernului nr. 9/2000 | [`og/2000/9/`](og/2000/9/) | in force | 3 | 2000-01-25 | 2011-08-31 |
 | Ordonanța Guvernului nr. 26/2000 cu privire la asociații și fundații | [`og/2000/26/`](og/2000/26/) | in force | 15 | 2000-04-30 | 2024-10-08 |
 | Ordonanța Guvernului nr. 42/2000 privind îmbunătățirea finanțării unor programe de dezvoltare sectoriala inițiate de Ministerul Culturii | [`og/2000/42/`](og/2000/42/) | in force | 2 | 2000-01-31 | 2006-02-02 |
+| Ordonanța Guvernului nr. 43/2000 | [`og/2000/43/`](og/2000/43/) | in force | 9 | 2000-01-31 | 2021-08-30 |
 | Ordonanța Guvernului nr. 47/2000 privind stabilirea unor măsuri de protecție a monumentelor istorice care fac parte din Lista patrimoniului mondial | [`og/2000/47/`](og/2000/47/) | in force | 4 | 2000-01-31 | 2024-02-03 |
 | Ordonanța Guvernului nr. 49/2000 | [`og/2000/49/`](og/2000/49/) | in force | 2 | 2000-01-31 | 2007-06-28 |
 | Ordonanța Guvernului nr. 53/2000 | [`og/2000/53/`](og/2000/53/) | in force | 2 | 2000-03-31 | 2001-12-04 |
@@ -2817,6 +2820,7 @@
 | Ordonanța Guvernului nr. 80/2001 | [`og/2001/80/`](og/2001/80/) | in force | 28 | 2001-09-01 | 2024-09-06 |
 | Ordonanța Guvernului nr. 82/2001 | [`og/2001/82/`](og/2001/82/) | in force | 8 | 2002-01-01 | 2024-06-29 |
 | Ordonanța Guvernului nr. 83/2001 | [`og/2001/83/`](og/2001/83/) | in force | 21 | 2002-01-01 | 2025-12-19 |
+| Ordonanța Guvernului nr. 84/2001 | [`og/2001/84/`](og/2001/84/) | in force | 13 | 2002-01-01 | 2023-02-03 |
 | Ordonanța Guvernului nr. 88/2001 | [`og/2001/88/`](og/2001/88/) | in force | 9 | 2002-01-01 | 2021-06-30 |
 | Ordonanța Guvernului nr. 7/2002 | [`og/2002/7/`](og/2002/7/) | in force | 2 | 2002-02-01 | 2002-05-10 |
 | Ordonanța Guvernului nr. 15/2002 | [`og/2002/15/`](og/2002/15/) | in force | 26 | 2002-02-01 | 2025-09-08 |
@@ -3065,7 +3069,7 @@
 | Ordonanța Guvernului nr. 21/2025 pentru modificarea și completarea Legii nr. 431/2023 privind asigurarea unui nivel minim global de impozitare a grupurilor de întreprinderi multinaționale și a grupurilor naționale de mari dimensiuni | [`og/2025/21/`](og/2025/21/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 | Ordonanța Guvernului nr. 22/2025 pentru modificarea și completarea Legii nr. 227/2015 privind Codul fiscal | [`og/2025/22/`](og/2025/22/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 
-## Government decisions (HG) (2252, of which 815 amending acts)
+## Government decisions (HG) (2253, of which 815 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -5213,6 +5217,7 @@
 | Hotărârea Guvernului nr. 1653/2024 privind condițiile de finanțare a burselor de studii și a stagiilor de specializare și de formare profesională/perfecționare acordate românilor de pretutindeni și cetățenilor străini | [`hg/2024/1653/`](hg/2024/1653/) | in force | 1 | 2024-12-17 | 2024-12-17 |
 | Hotărârea Guvernului nr. 1673/2024 pentru modificarea și completarea Hotărârii Guvernului nr. 153/2024 privind instituirea unei scheme de ajutor de stat pentru compensarea creșterii accizei la motorina utilizată drept combustibil pentru motor | [`hg/2024/1673/`](hg/2024/1673/) | amending act | 1 | 2024-12-19 | 2024-12-19 |
 | Hotărârea Guvernului nr. 2/2025 privind stabilirea zilelor lucrătoare pentru care se acordă zile libere, zile care precedă și/sau care succedă zilelor de sărbătoare legală în care nu se lucrează, pentru anul 2025 | [`hg/2025/2/`](hg/2025/2/) | in force | 1 | 2025-01-13 | 2025-01-13 |
+| Hotărârea Guvernului nr. 4/2025 privind stabilirea datei alegerilor pentru Președintele României din anul 2025 | [`hg/2025/4/`](hg/2025/4/) | in force | 1 | 2025-02-18 | 2025-02-18 |
 | Hotărârea Guvernului nr. 5/2025 privind stabilirea datei alegerilor locale parțiale pentru președintele Consiliului Județean Bihor și pentru primari în unele circumscripții electorale | [`hg/2025/5/`](hg/2025/5/) | in force | 1 | 2025-03-30 | 2025-03-30 |
 | Hotărârea Guvernului nr. 56/2025 privind aprobarea prealabilă în vederea recunoașterii prin hotărâre judecătorească a Asociației Obștești "Asociația Investitorilor din România" | [`hg/2025/56/`](hg/2025/56/) | amending act | 1 | 2025-02-17 | 2025-02-17 |
 | Hotărârea Guvernului nr. 57/2025 privind aprobarea unor modificări în inventarul centralizat al bunurilor din domeniul public al statului aflate în administrarea Ministerului Apărării Naționale, situate în județele Arad, Satu Mare, Harghita, Alba, Cluj, Buzău, Caraș-Severin, Timiș, Maramureș și Brașov, și modificarea anexei nr. 4 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului | [`hg/2025/57/`](hg/2025/57/) | amending act | 1 | 2025-02-17 | 2025-02-17 |
