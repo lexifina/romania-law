@@ -1,6 +1,6 @@
 # Every act in this repository
 
-14335 acts, 27,924 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+14342 acts, 27,931 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -4789,7 +4789,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (9555, of which 4377 amending acts)
+## Government decisions (HG) (9562, of which 4381 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -5781,11 +5781,18 @@
 | Hotărârea Guvernului nr. 570/2007 privind declararea stării de calamitate naturală în agricultură pentru floarea-soarelui, soia şi porumb, însămânţate în primăvara anului 2004, în judeţul Botoşani şi stabilirea nivelului maxim al sumei ce poate fi acordată ca despăgubire | [`hg/2007/570/`](hg/2007/570/) | in force | 1 | 2007-06-21 | 2007-06-21 |
 | Hotărârea Guvernului nr. 582/2007 | [`hg/2007/582/`](hg/2007/582/) | in force | 1 | 2007-06-20 | 2007-06-20 |
 | Hotărârea Guvernului nr. 583/2007 | [`hg/2007/583/`](hg/2007/583/) | in force | 1 | 2007-06-20 | 2007-06-20 |
+| Hotărârea Guvernului nr. 586/2007 privind declararea utilităţii publice pentru lucrarea de interes naţional "Extindere şi supraînălţare depozit de zgură şi cenuşă la ROMAG-TERMO. Etapa a II-a" | [`hg/2007/586/`](hg/2007/586/) | in force | 1 | 2007-06-21 | 2007-06-21 |
 | Hotărârea Guvernului nr. 589/2007 | [`hg/2007/589/`](hg/2007/589/) | in force | 1 | 2007-06-20 | 2007-06-20 |
+| Hotărârea Guvernului nr. 591/2007 privind aprobarea Licenţei de concesiune a activităţii miniere de exploatare nr. 6.945/2006, încheiată între Agenţia Naţională pentru Resurse Minerale şi Societatea Comercială "DORNA APEMIN" - S.A | [`hg/2007/591/`](hg/2007/591/) | amending act | 1 | 2007-06-21 | 2007-06-21 |
+| Hotărârea Guvernului nr. 592/2007 privind aprobarea prealabilă în vederea recunoaşterii prin hotărâre judecătorească a Fundaţiei "Stichting World Full Contact Association" din Olanda | [`hg/2007/592/`](hg/2007/592/) | amending act | 1 | 2007-06-21 | 2007-06-21 |
 | Hotărârea Guvernului nr. 600/2007 | [`hg/2007/600/`](hg/2007/600/) | in force | 2 | 2007-07-13 | 2015-06-01 |
 | Hotărârea Guvernului nr. 601/2007 | [`hg/2007/601/`](hg/2007/601/) | in force | 1 | 2007-07-12 | 2007-07-12 |
+| Hotărârea Guvernului nr. 603/2007 privind realocarea sumei prevăzute la art. 2 lit. a) din Hotărârea Guvernului nr. 549/2006 privind aprobarea sumelor necesare pentru accelerarea lucrărilor de construcţie a Autostrăzii Bucureşti-Constanţa, Tronsonul 4 - Drajna-Feteşti şi Tronsonul 5 - Feteşti-Cernavodă | [`hg/2007/603/`](hg/2007/603/) | amending act | 1 | 2007-06-21 | 2007-06-21 |
+| Hotărârea Guvernului nr. 604/2007 privind aprobarea sumelor necesare pentru finalizarea contractului de execuţie a lucrării "Lărgire la patru benzi a DN 5 de la Adunaţii Copăceni la Giurgiu, km 23+200 - km 59+100" | [`hg/2007/604/`](hg/2007/604/) | amending act | 1 | 2007-06-21 | 2007-06-21 |
+| Hotărârea Guvernului nr. 605/2007 privind transmiterea unei suprafeţe aflate în proprietatea publică a statului din administrarea Ministerului Internelor şi Reformei Administrative - Academia de Poliţie "Alexandru Ioan Cuza" în administrarea Ministerului Transporturilor, în vederea realizării activităţilor de interes naţional de către Compania Naţională de Autostrăzi şi Drumuri Naţionale - S.A | [`hg/2007/605/`](hg/2007/605/) | in force | 1 | 2007-06-21 | 2007-06-21 |
 | Hotărârea Guvernului nr. 607/2007 | [`hg/2007/607/`](hg/2007/607/) | in force | 1 | 2007-06-21 | 2007-06-21 |
 | Hotărârea Guvernului nr. 609/2007 pentru modificarea art. 2 alin. (2) din Hotărârea Guvernului nr. 933/2004 privind contorizarea consumatorilor racordați la sistemele publice centralizate de alimentare cu energie termică | [`hg/2007/609/`](hg/2007/609/) | amending act | 1 | 2007-06-27 | 2007-06-27 |
+| Hotărârea Guvernului nr. 612/2007 privind alocarea unor sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2007, pentru judeţul Vaslui | [`hg/2007/612/`](hg/2007/612/) | in force | 1 | 2007-06-21 | 2007-06-21 |
 | Hotărârea Guvernului nr. 613/2007 | [`hg/2007/613/`](hg/2007/613/) | in force | 1 | 2007-06-22 | 2007-06-22 |
 | Hotărârea Guvernului nr. 616/2007 | [`hg/2007/616/`](hg/2007/616/) | in force | 1 | 2007-06-22 | 2007-06-22 |
 | Hotărârea Guvernului nr. 618/2007 | [`hg/2007/618/`](hg/2007/618/) | in force | 1 | 2007-06-22 | 2007-06-22 |
