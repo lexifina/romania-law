@@ -1,6 +1,6 @@
 # Every act in this repository
 
-17927 acts, 31,553 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+17941 acts, 31,567 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (2980, of which 1561 amending acts)
+## Laws (legi) (2984, of which 1565 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -1135,7 +1135,11 @@
 | Legea nr. 71/2015 | [`lege/2015/71/`](lege/2015/71/) | in force | 2 | 2015-04-09 | 2017-07-01 |
 | Legea nr. 74/2015 privind administratorii de fonduri de investiții alternative | [`lege/2015/74/`](lege/2015/74/) | in force | 9 | 2015-05-23 | 2026-01-16 |
 | Legea nr. 83/2015 | [`lege/2015/83/`](lege/2015/83/) | in force | 1 | 2015-05-22 | 2015-05-22 |
+| Legea nr. 86/2015 privind aprobarea Ordonanţei Guvernului nr. 17/2014 pentru modificarea art. 9 alin. (3) din Ordonanţa Guvernului nr. 2/2001 privind regimul juridic al contravenţiilor | [`lege/2015/86/`](lege/2015/86/) | amending act | 1 | 2015-04-30 | 2015-04-30 |
+| Legea nr. 87/2015 pentru completarea art. 84 din Legea nr. 204/2006 privind pensiile facultative şi a art. 23 alin. (1) din Legea nr. 411/2004 privind fondurile de pensii administrate privat | [`lege/2015/87/`](lege/2015/87/) | amending act | 1 | 2015-04-30 | 2015-04-30 |
 | Legea nr. 91/2015 | [`lege/2015/91/`](lege/2015/91/) | in force | 2 | 2015-04-30 | 2015-12-31 |
+| Legea nr. 92/2015 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 57/2014 pentru aprobarea unor măsuri privind operarea unei aeronave aflate în proprietatea Ministerului Afacerilor Interne | [`lege/2015/92/`](lege/2015/92/) | amending act | 1 | 2015-04-30 | 2015-04-30 |
+| Legea nr. 93/2015 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 84/2014 pentru completarea Ordonanţei Guvernului nr. 58/1998 privind organizarea şi desfăşurarea activităţii de turism în România | [`lege/2015/93/`](lege/2015/93/) | amending act | 1 | 2015-04-30 | 2015-04-30 |
 | Legea nr. 94/2015 pentru ratificarea Acordului dintre Guvernul României şi Organizaţia Internaţională de Poliţie Criminală - INTERPOL privind privilegiile şi imunităţile participanţilor la cea de-a 43-a Conferinţă Regională Europeană a Organizaţiei Internaţionale de Poliţie Criminală - INTERPOL de la Bucureşti, încheiat prin schimb de scrisori semnate la 30 ianuarie 2015 la Bucureşti şi la 25 februarie 2015 la Lyon | [`lege/2015/94/`](lege/2015/94/) | in force | 1 | 2015-05-08 | 2015-05-08 |
 | Legea nr. 95/2015 privind modificarea art. 96 din Legea educaţiei naţionale nr. 1/2011 | [`lege/2015/95/`](lege/2015/95/) | amending act | 1 | 2015-05-08 | 2015-05-08 |
 | Legea nr. 96/2015 pentru modificarea anexei nr. 3 la Legea nr. 43/2014 privind protecţia animalelor utilizate în scopuri ştiinţifice | [`lege/2015/96/`](lege/2015/96/) | amending act | 1 | 2015-05-11 | 2015-05-11 |
@@ -5215,7 +5219,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (12721, of which 6284 amending acts)
+## Government decisions (HG) (12731, of which 6291 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -8717,6 +8721,16 @@
 | Hotărârea Guvernului nr. 245/2015 | [`hg/2015/245/`](hg/2015/245/) | in force | 1 | 2015-05-19 | 2015-05-19 |
 | Hotărârea Guvernului nr. 257/2015 privind aprobarea Metodologiei de elaborare a planurilor de calitate a aerului, a planurilor de acțiune pe termen scurt și a planurilor de menținere a calității aerului | [`hg/2015/257/`](hg/2015/257/) | amending act | 1 | 2015-04-27 | 2015-04-27 |
 | Hotărârea Guvernului nr. 274/2015 | [`hg/2015/274/`](hg/2015/274/) | in force | 1 | 2015-04-29 | 2015-04-29 |
+| Hotărârea Guvernului nr. 280/2015 privind numirea unui consul general | [`hg/2015/280/`](hg/2015/280/) | in force | 1 | 2015-04-30 | 2015-04-30 |
+| Hotărârea Guvernului nr. 281/2015 privind numirea unui consul general | [`hg/2015/281/`](hg/2015/281/) | in force | 1 | 2015-04-30 | 2015-04-30 |
+| Hotărârea Guvernului nr. 282/2015 privind rechemarea şi numirea unui consul general | [`hg/2015/282/`](hg/2015/282/) | in force | 1 | 2015-04-30 | 2015-04-30 |
+| Hotărârea Guvernului nr. 284/2015 privind aprobarea bugetului de venituri şi cheltuieli pe anul 2015 pentru Societatea de Administrare a Participaţiilor în Energie - S.A., aflată sub autoritatea Ministerului Energiei, Întreprinderilor Mici şi Mijlocii şi Mediului de Afaceri | [`hg/2015/284/`](hg/2015/284/) | amending act | 1 | 2015-05-04 | 2015-05-04 |
+| Hotărârea Guvernului nr. 285/2015 privind aprobarea bugetului de venituri şi cheltuieli pe anul 2015 pentru Societatea Comercială "Electrocentrale Bucureşti" - S.A., aflată sub autoritatea Ministerului Energiei, Întreprinderilor Mici şi Mijlocii şi Mediului de Afaceri | [`hg/2015/285/`](hg/2015/285/) | amending act | 1 | 2015-05-04 | 2015-05-04 |
+| Hotărârea Guvernului nr. 286/2015 privind aprobarea bugetului de venituri şi cheltuieli pe anul 2015 pentru Societatea Comercială RADIOACTIV MINERAL MĂGURELE - S.A., aflată sub autoritatea Ministerului Economiei, Comerţului şi Turismului | [`hg/2015/286/`](hg/2015/286/) | amending act | 1 | 2015-05-04 | 2015-05-04 |
+| Hotărârea Guvernului nr. 287/2015 pentru completarea art. 3 din Hotărârea Guvernului nr. 578/2014 privind stabilirea modului de acordare a sprijinului financiar din partea Uniunii Europene pentru producătorii din sectorul vitivinicol în perioada 2014-2018 | [`hg/2015/287/`](hg/2015/287/) | amending act | 1 | 2015-05-04 | 2015-05-04 |
+| Hotărârea Guvernului nr. 290/2015 privind aprobarea bugetului de venituri şi cheltuieli pe anul 2015 al Companiei Naţionale "Romtehnica" - S.A., aflată în coordonarea Ministerului Apărării Naţionale | [`hg/2015/290/`](hg/2015/290/) | amending act | 1 | 2015-05-06 | 2015-05-06 |
+| Hotărârea Guvernului nr. 291/2015 pentru modificarea şi completarea Hotărârii Guvernului nr. 864/2014 privind aprobarea schemei de minimis "Ajutor specific compensatoriu acordat exploataţiilor vegetale înregistrate în sistemul de agricultură ecologică" | [`hg/2015/291/`](hg/2015/291/) | amending act | 1 | 2015-05-06 | 2015-05-06 |
+| Hotărârea Guvernului nr. 292/2015 pentru modificarea şi completarea Hotărârii Guvernului nr. 1.185/2014 privind organizarea şi funcţionarea Ministerului Agriculturii şi Dezvoltării Rurale | [`hg/2015/292/`](hg/2015/292/) | amending act | 1 | 2015-05-06 | 2015-05-06 |
 | Hotărârea Guvernului nr. 294/2015 | [`hg/2015/294/`](hg/2015/294/) | in force | 4 | 2015-05-06 | 2022-07-05 |
 | Hotărârea Guvernului nr. 295/2015 privind plata contribuţiei României la bugetul Misiunii Speciale de Monitorizare a Organizaţiei pentru Securitate şi Cooperare în Europa (OSCE) în Ucraina | [`hg/2015/295/`](hg/2015/295/) | in force | 1 | 2015-05-06 | 2015-05-06 |
 | Hotărârea Guvernului nr. 296/2015 privind actualizarea valorii de inventar a imobilului aflat în domeniul public al statului şi în administrarea Academiei Oamenilor de Ştiinţă din România | [`hg/2015/296/`](hg/2015/296/) | in force | 1 | 2015-05-07 | 2015-05-07 |
