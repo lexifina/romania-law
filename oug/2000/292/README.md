@@ -22,6 +22,13 @@ Act id: `oug-292-2000` (tags `oug-292-2000/<day>`; `python tools/on.py <day> oug
 - OUG nr. 292/2000: the first version is the emergency ordinance as published in Monitorul Oficial nr. 706 of 29 December 2000 (DetaliiDocumentAfis/25819), dated 29 December 2000: an emergency ordinance with no day of its own, in force on publication (Constituția art. 115 alin. (5); Legea nr. 24/2000 art. 12 alin. (2)). The portal holds no consolidated form before 6 February 2001, so the changes made up to then arrive together that day.
 - OUG nr. 292/2000: the signature block after the last article (the signatories, the place, the date and the number) is not part of an article and is left out, as in every act of this record.
 - OUG nr. 292/2000: wording changes between forms that no note credits (typesetting, diacritics, misprints, renamed bodies) are the publisher's: no law is credited for them and each is dated by the first form that shows it.
+- OUG nr. 292/2000: the form of 6 February 2001 changes art. 3 with no note at the article; the form's header lists the changes made by Ordonanța de urgență nr. 12/2001 (26 January 2001), so the change is credited to that ordinance (flag form_credits).
 - OUG nr. 292/2000: the portal editorial notes printed as paragraphs of an article (on a Constitutional Court ruling, a rectification, a provision put back in force) are not text: 21 such paragraphs across all forms, for example «Art. 1 din ORDONANȚA DE URGENȚĂ nr. 12 din 26 ianuarie 2001,», «Conform literei b) a art. 24 din ORDONANȚA DE URGENȚĂ nr. 12», «ORDONANȚA DE URGENȚĂ nr. 192 din 8 decembrie 1999, publicată».
-- OUG nr. 292/2000: 5 changed article(s) with no note naming a law, committed as the publisher's: 2001-02-06 art-002, 2001-02-06 art-003, 2014-09-01 art-004, 2014-09-01 art-006, 2014-09-01 art-007.
+- OUG nr. 292/2000: 4 changed article(s) with no note naming a law, committed as the publisher's: 2001-02-06 art-002, 2014-09-01 art-004, 2014-09-01 art-006, 2014-09-01 art-007.
 - OUG nr. 292/2000: forms with no change after normalisation, so no version: 2001-04-02 (102349).
+
+## Credits corrected
+
+These changes were first published credited to another law. The words are unchanged; `git blame` still names the commit that wrote them, and `data/credits.csv` lists every corrected credit.
+
+- `art-003.md`, in force from 2001-02-06: OUG nr. 12/2001 (first published as no law named).
