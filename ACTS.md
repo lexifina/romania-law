@@ -1,6 +1,6 @@
 # Every act in this repository
 
-6589 acts, 19,105 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+6592 acts, 19,118 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -3783,7 +3783,7 @@
 | Ordonanța Guvernului nr. 21/2025 pentru modificarea și completarea Legii nr. 431/2023 privind asigurarea unui nivel minim global de impozitare a grupurilor de întreprinderi multinaționale și a grupurilor naționale de mari dimensiuni | [`og/2025/21/`](og/2025/21/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 | Ordonanța Guvernului nr. 22/2025 pentru modificarea și completarea Legii nr. 227/2015 privind Codul fiscal | [`og/2025/22/`](og/2025/22/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 
-## Government decisions (HG) (2814, of which 929 amending acts)
+## Government decisions (HG) (2817, of which 929 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -4764,6 +4764,7 @@
 | Hotărârea Guvernului nr. 127/2010 | [`hg/2010/127/`](hg/2010/127/) | in force | 1 | 2010-02-25 | 2010-02-25 |
 | Hotărârea Guvernului nr. 128/2010 | [`hg/2010/128/`](hg/2010/128/) | in force | 1 | 2010-02-25 | 2010-02-25 |
 | Hotărârea Guvernului nr. 129/2010 | [`hg/2010/129/`](hg/2010/129/) | in force | 1 | 2010-02-25 | 2010-02-25 |
+| Hotărârea Guvernului nr. 132/2010 | [`hg/2010/132/`](hg/2010/132/) | in force | 1 | 2010-03-04 | 2010-03-04 |
 | Hotărârea Guvernului nr. 135/2010 | [`hg/2010/135/`](hg/2010/135/) | in force | 1 | 2010-02-24 | 2010-02-24 |
 | Hotărârea Guvernului nr. 136/2010 | [`hg/2010/136/`](hg/2010/136/) | in force | 1 | 2010-02-24 | 2010-02-24 |
 | Hotărârea Guvernului nr. 139/2010 | [`hg/2010/139/`](hg/2010/139/) | in force | 1 | 2010-03-03 | 2010-03-03 |
@@ -4892,6 +4893,7 @@
 | Hotărârea Guvernului nr. 901/2011 | [`hg/2011/901/`](hg/2011/901/) | in force | 1 | 2011-09-14 | 2011-09-14 |
 | Hotărârea Guvernului nr. 920/2011 | [`hg/2011/920/`](hg/2011/920/) | in force | 1 | 2011-09-23 | 2011-09-23 |
 | Hotărârea Guvernului nr. 925/2011 | [`hg/2011/925/`](hg/2011/925/) | in force | 1 | 2011-09-23 | 2011-09-23 |
+| Hotărârea Guvernului nr. 935/2011 | [`hg/2011/935/`](hg/2011/935/) | repealed 2018-09-19 | 6 | 2011-11-10 | 2018-09-19 |
 | Hotărârea Guvernului nr. 967/2011 | [`hg/2011/967/`](hg/2011/967/) | in force | 2 | 2011-10-07 | 2011-12-09 |
 | Hotărârea Guvernului nr. 980/2011 | [`hg/2011/980/`](hg/2011/980/) | in force | 1 | 2011-10-25 | 2011-10-25 |
 | Hotărârea Guvernului nr. 1016/2011 | [`hg/2011/1016/`](hg/2011/1016/) | in force | 2 | 2011-10-24 | 2022-07-15 |
@@ -4952,6 +4954,7 @@
 | Hotărârea Guvernului nr. 924/2012 | [`hg/2012/924/`](hg/2012/924/) | in force | 1 | 2012-09-19 | 2012-09-19 |
 | Hotărârea Guvernului nr. 926/2012 | [`hg/2012/926/`](hg/2012/926/) | in force | 1 | 2012-09-20 | 2012-09-20 |
 | Hotărârea Guvernului nr. 927/2012 pentru modificarea art. 7 alin. (1) din Hotărârea Guvernului nr. 1.259/2010 privind stabilirea unor măsuri pentru aplicarea Regulamentului (CE) nr. 924/2009 al Parlamentului European și al Consiliului din 16 septembrie 2009 privind plățile transfrontaliere în Comunitate și de abrogare a Regulamentului (CE) nr. 2.560/2001 | [`hg/2012/927/`](hg/2012/927/) | amending act | 1 | 2012-09-24 | 2012-09-24 |
+| Hotărârea Guvernului nr. 928/2012 | [`hg/2012/928/`](hg/2012/928/) | repealed 2018-09-19 | 6 | 2012-10-31 | 2018-09-19 |
 | Hotărârea Guvernului nr. 929/2012 | [`hg/2012/929/`](hg/2012/929/) | in force | 1 | 2012-09-20 | 2012-09-20 |
 | Hotărârea Guvernului nr. 930/2012 | [`hg/2012/930/`](hg/2012/930/) | in force | 1 | 2012-09-24 | 2012-09-24 |
 | Hotărârea Guvernului nr. 931/2012 | [`hg/2012/931/`](hg/2012/931/) | in force | 1 | 2012-09-20 | 2012-09-20 |

@@ -11828,6 +11828,21 @@
    ]
   },
   {
+   "slug": "hg-132-2010",
+   "path": "hg/2010/132",
+   "short": "HG nr. 132/2010",
+   "title": "Hotărârea Guvernului nr. 132/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/116772",
+   "versions": [
+    {
+     "from": "2010-03-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/116772",
+     "sha256": "b04e923e53e2ecf9fa9d3fc1e625e84f5e3a8b092dc467e6e64c3af8d730a6ad"
+    }
+   ]
+  },
+  {
    "slug": "hg-132-2022",
    "path": "hg/2022/132",
    "short": "HG nr. 132/2022",
@@ -22424,6 +22439,51 @@
    ]
   },
   {
+   "slug": "hg-928-2012",
+   "path": "hg/2012/928",
+   "short": "HG nr. 928/2012",
+   "title": "Hotărârea Guvernului nr. 928/2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/195891",
+   "versions": [
+    {
+     "from": "2012-10-31",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/141600",
+     "sha256": "9d5765978cbfd8c9aa5141ec906ad7b896c38847d16f104580985bed010fbd19"
+    },
+    {
+     "from": "2012-12-28",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/145025",
+     "sha256": "0058024bd3246e4b6183ac8ee8d43d1f7aea80ef11a17cff4bcff89d94ecedb6"
+    },
+    {
+     "from": "2013-01-27",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/145026",
+     "sha256": "f0c8c6765cefcfd443c12666c083508d375fa7611dc6c54865ac4b7ce4b83d59"
+    },
+    {
+     "from": "2014-01-06",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/154511",
+     "sha256": "f14fc64f7fb50042aff5f55c720e09effe9126e60eb7dd787ab25d6d0c8d7cf7"
+    },
+    {
+     "from": "2017-12-28",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/195891",
+     "sha256": "60b8594dc169efedf8b786a019453ead20488fb276aec0dcfe5f7d27fbc1b367"
+    },
+    {
+     "from": "2018-09-19",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/208826",
+     "sha256": "d11d93eb3cfe2bb978e9424310bb3f3d1076eaab95da420c1b424cd4183f4a83"
+    }
+   ]
+  },
+  {
    "slug": "hg-930-2002",
    "path": "hg/2002/930",
    "short": "HG nr. 930/2002",
@@ -22465,6 +22525,51 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/246195",
      "sha256": "d740a888f5df97dab141e60087041772157d7de643f54386662f754ceaffe571"
+    }
+   ]
+  },
+  {
+   "slug": "hg-935-2011",
+   "path": "hg/2011/935",
+   "short": "HG nr. 935/2011",
+   "title": "Hotărârea Guvernului nr. 935/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/195890",
+   "versions": [
+    {
+     "from": "2011-11-10",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/132088",
+     "sha256": "277833d1372a589fc97d81e0859e85bc41ede66d564b6e312c297bfa8324d855"
+    },
+    {
+     "from": "2012-09-14",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/141340",
+     "sha256": "7c4daf6ce5a77cf3259556e70d527d302a4422fc755b9daa37a93986640f7e28"
+    },
+    {
+     "from": "2012-12-28",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168557",
+     "sha256": "cc398412e0e56fc9bebc526f932b5d4d9c0af93f6159559558fd37eff48f5c93"
+    },
+    {
+     "from": "2014-01-06",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168558",
+     "sha256": "a5d33188168942eeb07d751715e31f2a56ab28537d026799fda5d4d60bdabd66"
+    },
+    {
+     "from": "2017-12-28",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/195890",
+     "sha256": "8c64dcd016508808ee4f217096f798fe2d43e8405ada94f5e15a93f24949520b"
+    },
+    {
+     "from": "2018-09-19",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/208826",
+     "sha256": "d11d93eb3cfe2bb978e9424310bb3f3d1076eaab95da420c1b424cd4183f4a83"
     }
    ]
   },

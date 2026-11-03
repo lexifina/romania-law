@@ -80140,6 +80140,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/116607"
 },
 {
+"slug": "hg-132-2010",
+"path": "hg/2010/132",
+"kind": "hg",
+"year": "2010",
+"number": "132",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 132/2010",
+"short": "HG nr. 132/2010",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2010-03-04",
+"latest": "2010-03-04",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/116772"
+},
+{
 "slug": "hg-135-2010",
 "path": "hg/2010/135",
 "kind": "hg",
@@ -82316,6 +82333,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/131672"
 },
 {
+"slug": "hg-935-2011",
+"path": "hg/2011/935",
+"kind": "hg",
+"year": "2011",
+"number": "935",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 935/2011",
+"short": "HG nr. 935/2011",
+"code": null,
+"status": "repealed 2018-09-19",
+"versions": 6,
+"from": "2011-11-10",
+"latest": "2018-09-19",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/195890"
+},
+{
 "slug": "hg-967-2011",
 "path": "hg/2011/967",
 "kind": "hg",
@@ -83334,6 +83368,23 @@
 "from": "2012-09-24",
 "latest": "2012-09-24",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/141442"
+},
+{
+"slug": "hg-928-2012",
+"path": "hg/2012/928",
+"kind": "hg",
+"year": "2012",
+"number": "928",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 928/2012",
+"short": "HG nr. 928/2012",
+"code": null,
+"status": "repealed 2018-09-19",
+"versions": 6,
+"from": "2012-10-31",
+"latest": "2018-09-19",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/195891"
 },
 {
 "slug": "hg-929-2012",
