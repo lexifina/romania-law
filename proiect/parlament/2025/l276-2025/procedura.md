@@ -17,6 +17,7 @@ Initiator: Membri ai Parlamentului.
 - 2025-10-22: registered at the Chamber of Deputies
 - 2026-10-12: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2026-10-19: sent for promulgation
+- 2026-11-03: promulgated, becomes Legea nr. 207/2026; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -30,3 +31,5 @@ Initiator: Membri ai Parlamentului.
 - 2025-10-16: Adresă către Camera Deputaților (AM): [am-58428426.md](am-58428426.md); official file https://www.senat.ro/legis/PDF/2025/25L276AM.PDF
 - 2026-10-12: Adresă privind sesizarea CCR (AXS): [axs-9f7ad3b9.md](axs-9f7ad3b9.md); official file https://www.senat.ro/legis/PDF/2025/25L276AXS.PDF
 - 2026-10-12: Forma trimisă la promulgare (LP): [lp-bd8dda6a.md](lp-bd8dda6a.md); official file https://www.senat.ro/legis/PDF/2025/25L276LP.PDF
+- 2026-11-03: Decret de promulgare (DP): [dp-bfedc4ed.md](dp-bfedc4ed.md); official file https://www.senat.ro/legis/PDF/2025/25L276DP.PDF
+- 2026-11-03: Forma promulgată (FP): [fp-2164e329.md](fp-2164e329.md); official file https://www.senat.ro/legis/PDF/2025/25L276FP.PDF
