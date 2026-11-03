@@ -1,6 +1,6 @@
 # Every act in this repository
 
-16555 acts, 30,179 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+16556 acts, 30,180 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -5044,7 +5044,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (11520, of which 5560 amending acts)
+## Government decisions (HG) (11521, of which 5561 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -8743,6 +8743,7 @@
 | Hotărârea Guvernului nr. 154/2017 privind exercitarea, cu caracter temporar, prin detașare în condițiile legii, a funcției publice de prefect al județului Vâlcea de către domnul Marin Florian | [`hg/2017/154/`](hg/2017/154/) | in force | 1 | 2017-04-19 | 2017-04-19 |
 | Hotărârea Guvernului nr. 155/2017 privind aprobarea programelor naționale de sănătate pentru anii 2017 și 2018 | [`hg/2017/155/`](hg/2017/155/) | amending act | 8 | 2017-04-01 | 2021-06-18 |
 | Hotărârea Guvernului nr. 173/2017 pentru aprobarea Actului adițional încheiat între Guvernul României, reprezentat prin Ministerul Dezvoltării Regionale, Administrației Publice și Fondurilor Europene, și Fondul European de Investiții, semnat la București la 23 martie 2017 și la Luxemburg la 22 martie 2017, la Acordul de finanțare dintre Guvernul României și Fondul European de Investiții privind programul JEREMIE în România, semnat la București la 19 noiembrie 2013 și la Luxemburg la 15 noiembrie 2013 | [`hg/2017/173/`](hg/2017/173/) | amending act | 1 | 2017-03-31 | 2017-03-31 |
+| Hotărârea Guvernului nr. 184/2017 pentru modificarea art. 1 din Hotărârea Guvernului nr. 272/2012 privind oferta unilaterală a statului român de burse pentru Organizaţia pentru Eliberarea Palestinei, care acţionează pentru Autoritatea Naţională Palestiniană | [`hg/2017/184/`](hg/2017/184/) | amending act | 1 | 2017-04-05 | 2017-04-05 |
 | Hotărârea Guvernului nr. 188/2017 privind modificarea şi completarea Hotărârii Guvernului nr. 345/2010 pentru aprobarea modelelor formularelor-tip folosite în activitatea de cazier judiciar | [`hg/2017/188/`](hg/2017/188/) | amending act | 1 | 2017-04-06 | 2017-04-06 |
 | Hotărârea Guvernului nr. 189/2017 privind desfiinţarea Centrului de Sănătate Teaca, judeţul Bistriţa-Năsăud | [`hg/2017/189/`](hg/2017/189/) | in force | 1 | 2017-04-05 | 2017-04-05 |
 | Hotărârea Guvernului nr. 197/2017 pentru modificarea şi completarea Hotărârii Guvernului nr. 1.412/2009 privind organizarea şi funcţionarea Institutului de Ştiinţe ale Educaţiei | [`hg/2017/197/`](hg/2017/197/) | amending act | 1 | 2017-04-07 | 2017-04-07 |
