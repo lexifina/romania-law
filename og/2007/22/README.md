@@ -34,6 +34,15 @@ Act id: `og-22-2007` (tags `og-22-2007/<day>`; `python tools/on.py <day> og-22-2
 - OG nr. 22/2007: the signature block after the last article (the signatories, the place, the date and the number) is not part of an article and is left out, as in every act of this record.
 - OG nr. 22/2007: the provisions of the amending acts that the portal reproduces after the ordinance's last article ("Reproducem mai jos prevederile ...") are those acts' own text, not this ordinance's, and are left out, as in every act of this record.
 - OG nr. 22/2007: wording changes between forms that no note credits (typesetting, diacritics, misprints, renamed bodies) are the publisher's: no law is credited for them and each is dated by the first form that shows it.
+- OG nr. 22/2007: the form of 12 November 2009 changes art. 8 with no note at the article; the form's header lists the changes made by Legea nr. 329/2009 (5 November 2009), so the change is credited to that law (flag form_credits).
+- OG nr. 22/2007: the form of 7 July 2014 changes art. 10 with no note at the article; the form's header lists Ordonanța de urgență nr. 77/2013 as rejected by Legea nr. 92/2014 (1 July 2014), so the change is credited to that law, as a law rejecting an ordinance explains the return (flag form_credits).
 - OG nr. 22/2007: the portal editorial notes printed as paragraphs of an article (on a Constitutional Court ruling, a rectification, a provision put back in force) are not text: 18 such paragraphs across all forms, for example «* A se vedea Hotărârea Guvernului nr. 371/2018 pentru stabil», «* Potrivit art. 2 din Ordonanța de urgență a Guvernului nr. », «Alin. (3) al art. 10 a revenit la forma inițială prin respin».
-- OG nr. 22/2007: 14 changed article(s) with no note naming a law, committed as the publisher's: 2007-07-14 art-005, 2007-07-14 art-006, 2007-07-14 art-007, 2007-07-14 art-009, 2007-07-14 art-010, 2007-07-14 art-011, 2007-07-14 art-012, 2007-07-14 art-013, 2007-07-14 art-014, 2007-07-14 art-015, 2007-07-14 art-016, 2009-11-12 art-008, 2014-02-25 art-003, 2014-07-07 art-010.
+- OG nr. 22/2007: 12 changed article(s) with no note naming a law, committed as the publisher's: 2007-07-14 art-005, 2007-07-14 art-006, 2007-07-14 art-007, 2007-07-14 art-009, 2007-07-14 art-010, 2007-07-14 art-011, 2007-07-14 art-012, 2007-07-14 art-013, 2007-07-14 art-014, 2007-07-14 art-015, 2007-07-14 art-016, 2014-02-25 art-003.
 - OG nr. 22/2007: forms with no change after normalisation, so no version: 2014-04-12 (157427).
+
+## Credits corrected
+
+These changes were first published credited to another law. The words are unchanged; `git blame` still names the commit that wrote them, and `data/credits.csv` lists every corrected credit.
+
+- `art-008.md`, in force from 2009-11-12: Legea nr. 329/2009 (first published as no law named).
+- `art-010.md`, in force from 2014-07-07: Legea nr. 92/2014 (first published as no law named).
