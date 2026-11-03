@@ -94388,6 +94388,57 @@
    ]
   },
   {
+   "slug": "oug-97-2000",
+   "path": "oug/2000/97",
+   "short": "OUG nr. 97/2000",
+   "title": "Ordonanța de urgență a Guvernului nr. 97/2000",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/76726",
+   "versions": [
+    {
+     "from": "2000-08-13",
+     "units": 287,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/23264",
+     "sha256": "125858b0856ff322cd3708fd9fe05ba0734203280ab7d43d580d7667ae7a1180"
+    },
+    {
+     "from": "2000-12-19",
+     "units": 291,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/76725",
+     "sha256": "fd6a18ecf57d867d34742c4cab46bc3e09e0fbd76487e8f8bcb148d6a76ffb88"
+    },
+    {
+     "from": "2002-05-20",
+     "units": 292,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/76727",
+     "sha256": "8e220ec43e4b761e712979cef6177e2dacba25ee982c491e3f3de56e65977459"
+    },
+    {
+     "from": "2003-12-13",
+     "units": 292,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/76728",
+     "sha256": "a46f26382f6f9339e82deec2e83390b4734af4be14a890ab8aedb62dc0c6f5e4"
+    },
+    {
+     "from": "2004-01-01",
+     "units": 292,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/76729",
+     "sha256": "0735264a3b30ed2b0546f8f2d438e5014f7d0d6ba0e4b91a53456664e6f03d11"
+    },
+    {
+     "from": "2004-05-06",
+     "units": 292,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/76730",
+     "sha256": "7babad74e3aec9719e3c8a61fb5458fd46d632d2d9f5ebd0ec00b1fee76afb28"
+    },
+    {
+     "from": "2007-01-01",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/78313",
+     "sha256": "ea7baed292537d71080082cb361a1fbb8e32e550d96cdad0b1ecdc634cab27c5"
+    }
+   ]
+  },
+  {
    "slug": "oug-97-2001",
    "path": "oug/2001/97",
    "short": "OUG nr. 97/2001",
@@ -194917,6 +194968,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/239313",
      "sha256": "13111a901a0a82542009621a2c40c239ffd005554e3c14a50369bbc633f3d63f"
+    }
+   ]
+  },
+  {
+   "slug": "legea-36-2022",
+   "path": "lege/2022/36",
+   "short": "Legea nr. 36/2022",
+   "title": "Legea nr. 36/2022 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 191/2020 pentru prelungirea termenelor privind depunerea unor documente prevăzute în sarcina asociaţiilor şi fundaţiilor, precum şi a persoanelor juridice înregistrate în registrul comerţului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/252254",
+   "versions": [
+    {
+     "from": "2022-03-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/252254",
+     "sha256": "10ad1eed7015bf18af746c5aee8cbcb6a401913cb713ef5d2f4297bb368f6755"
     }
    ]
   },

@@ -1,6 +1,6 @@
 # Every act in this repository
 
-10013 acts, 23,524 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+10015 acts, 23,532 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -32,7 +32,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (2189, of which 914 amending acts)
+## Laws (legi) (2190, of which 915 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -1520,6 +1520,7 @@
 | Legea nr. 21/2022 privind instituirea zilei de 15 februarie ca Ziua națională a lecturii | [`lege/2022/21/`](lege/2022/21/) | in force | 1 | 2022-01-17 | 2022-01-17 |
 | Legea nr. 22/2022 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 194/2002 privind regimul străinilor în România | [`lege/2022/22/`](lege/2022/22/) | amending act | 1 | 2022-01-17 | 2022-01-17 |
 | Legea nr. 24/2022 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 158/2005 privind concediile și indemnizațiile de asigurări sociale de sănătate | [`lege/2022/24/`](lege/2022/24/) | amending act | 2 | 2022-04-16 | 2023-02-16 |
+| Legea nr. 36/2022 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 191/2020 pentru prelungirea termenelor privind depunerea unor documente prevăzute în sarcina asociaţiilor şi fundaţiilor, precum şi a persoanelor juridice înregistrate în registrul comerţului | [`lege/2022/36/`](lege/2022/36/) | amending act | 1 | 2022-03-04 | 2022-03-04 |
 | Legea nr. 40/2022 pentru completarea art. 87 din Legea nr. 448/2006 privind protecția și promovarea drepturilor persoanelor cu handicap | [`lege/2022/40/`](lege/2022/40/) | amending act | 1 | 2022-03-07 | 2022-03-07 |
 | Legea nr. 44/2022 privind cooperarea judiciară dintre România şi Curtea Penală Internaţională | [`lege/2022/44/`](lege/2022/44/) | in force | 1 | 2022-03-12 | 2022-03-12 |
 | Legea nr. 45/2022 pentru modificarea și completarea unor acte normative și pentru stabilirea unor măsuri financiare în domeniul unor programe gestionate de Ministerul Dezvoltării, Lucrărilor Publice și Administrației | [`lege/2022/45/`](lege/2022/45/) | amending act | 1 | 2022-03-13 | 2022-03-13 |
@@ -2226,7 +2227,7 @@
 | Legea nr. 190/2026 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 81/2021 privind aprobarea metodelor de intervenţie imediată pentru prevenirea şi combaterea atacurilor exemplarelor de urs brun asupra persoanelor şi bunurilor acestora, precum şi pentru modificarea şi completarea unor acte normative | [`lege/2026/190/`](lege/2026/190/) | amending act | 1 | 2026-10-08 | 2026-10-08 |
 | Legea nr. 205/2026 pentru completarea Ordonanţei Guvernului nr. 22/2002 privind executarea obligaţiilor de plată ale instituţiilor publice, stabilite prin titluri executorii | [`lege/2026/205/`](lege/2026/205/) | amending act | 1 | 2026-11-02 | 2026-11-02 |
 
-## Emergency ordinances (OUG) (1575, of which 541 amending acts)
+## Emergency ordinances (OUG) (1576, of which 541 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -2291,6 +2292,7 @@
 | Ordonanța de urgență a Guvernului nr. 83/2000 | [`oug/2000/83/`](oug/2000/83/) | in force | 5 | 2000-06-27 | 2025-08-16 |
 | Ordonanța de urgență a Guvernului nr. 88/2000 | [`oug/2000/88/`](oug/2000/88/) | in force | 1 | 2000-07-06 | 2000-07-06 |
 | Ordonanța de urgență a Guvernului nr. 94/2000 | [`oug/2000/94/`](oug/2000/94/) | in force | 12 | 2000-09-02 | 2020-03-21 |
+| Ordonanța de urgență a Guvernului nr. 97/2000 | [`oug/2000/97/`](oug/2000/97/) | repealed 2007-01-01 | 7 | 2000-08-13 | 2007-01-01 |
 | Ordonanța de urgență a Guvernului nr. 99/2000 | [`oug/2000/99/`](oug/2000/99/) | in force | 1 | 2000-07-04 | 2000-07-04 |
 | Ordonanța de urgență a Guvernului nr. 101/2000 pentru modificarea și completarea anexei la Ordonanța de urgenta a Guvernului nr. 21/1997 privind restituirea unor bunuri imobile care au aparținut comunităților evreiesti din România, respectiv a anexei la Ordonanța de urgenta a Guvernului nr. 83/1999 privind restituirea unor bunuri imobile care au aparținut comunităților cetățenilor aparținând minorităților naționale din România | [`oug/2000/101/`](oug/2000/101/) | amending act | 2 | 2000-07-05 | 2004-07-25 |
 | Ordonanța de urgență a Guvernului nr. 103/2000 privind decoratia "Crucea Comemorativa a Rezistentei Anticomuniste" | [`oug/2000/103/`](oug/2000/103/) | in force | 2 | 2000-07-07 | 2002-01-18 |
