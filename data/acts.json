@@ -17257,6 +17257,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/183560"
 },
 {
+"slug": "legea-215-2016",
+"path": "lege/2016/215",
+"kind": "lege",
+"year": "2016",
+"number": "215",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 215/2016 privind ceremoniile oficiale",
+"short": "Legea nr. 215/2016",
+"code": null,
+"status": "in force",
+"versions": 2,
+"from": "2016-12-14",
+"latest": "2024-01-14",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/183586"
+},
+{
 "slug": "legea-216-2016",
 "path": "lege/2016/216",
 "kind": "lege",
@@ -19176,6 +19193,23 @@
 "from": "2018-07-31",
 "latest": "2019-12-01",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/203151"
+},
+{
+"slug": "legea-193-2018",
+"path": "lege/2018/193",
+"kind": "lege",
+"year": "2018",
+"number": "193",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 193/2018 pentru reglementarea principiilor privind asigurarea strategiei naţionale a României referitoare la menţinerea ciclului nuclear integrat, prin asigurarea materiei prime pentru fabricarea combustibilului nuclear necesar funcţionării unităţilor de la Centrala Nuclearoelectrică de la Cernavodă",
+"short": "Legea nr. 193/2018",
+"code": null,
+"status": "in force",
+"versions": 2,
+"from": "2018-07-26",
+"latest": "2021-06-30",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/203077"
 },
 {
 "slug": "legea-195-2018",
@@ -46361,6 +46395,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/194725"
 },
 {
+"slug": "oug-83-2017",
+"path": "oug/2017/83",
+"kind": "oug",
+"year": "2017",
+"number": "83",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 83/2017 cu privire la rectificarea bugetului de stat pe anul 2017",
+"short": "OUG nr. 83/2017",
+"code": null,
+"status": "in force",
+"versions": 2,
+"from": "2017-11-17",
+"latest": "2017-11-29",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/194760"
+},
+{
 "slug": "oug-85-2017",
 "path": "oug/2017/85",
 "kind": "oug",
@@ -47005,6 +47056,23 @@
 "from": "2018-06-04",
 "latest": "2018-06-04",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/201303"
+},
+{
+"slug": "oug-47-2018",
+"path": "oug/2018/47",
+"kind": "oug",
+"year": "2018",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 47/2018 privind stabilirea unor măsuri de urgentare a absorbţiei fondurilor europene",
+"short": "OUG nr. 47/2018",
+"code": null,
+"status": "in force",
+"versions": 2,
+"from": "2018-06-14",
+"latest": "2019-01-10",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/201494"
 },
 {
 "slug": "oug-48-2018",
@@ -62834,6 +62902,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/181175"
 },
 {
+"slug": "og-18-2016",
+"path": "og/2016/18",
+"kind": "og",
+"year": "2016",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța Guvernului nr. 18/2016 privind amenajarea spaţiului maritim",
+"short": "OG nr. 18/2016",
+"code": null,
+"status": "in force",
+"versions": 2,
+"from": "2016-09-01",
+"latest": "2021-09-03",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/181227"
+},
+{
 "slug": "og-21-2016",
 "path": "og/2016/21",
 "kind": "og",
@@ -75686,6 +75771,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/76002"
 },
 {
+"slug": "hg-1391-2006",
+"path": "hg/2006/1391",
+"kind": "hg",
+"year": "2006",
+"number": "1391",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 1391/2006",
+"short": "HG nr. 1391/2006",
+"code": null,
+"status": "in force",
+"versions": 4,
+"from": "2006-12-01",
+"latest": "2023-02-17",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/76226"
+},
+{
 "slug": "hg-1418-2006",
 "path": "hg/2006/1418",
 "kind": "hg",
@@ -86209,6 +86311,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/150138"
 },
 {
+"slug": "hg-520-2013",
+"path": "hg/2013/520",
+"kind": "hg",
+"year": "2013",
+"number": "520",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 520/2013",
+"short": "HG nr. 520/2013",
+"code": null,
+"status": "in force",
+"versions": 14,
+"from": "2013-08-01",
+"latest": "2024-05-27",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/150246"
+},
+{
 "slug": "hg-525-2013",
 "path": "hg/2013/525",
 "kind": "hg",
@@ -87040,6 +87159,23 @@
 "from": "2014-04-18",
 "latest": "2015-06-29",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/169288"
+},
+{
+"slug": "hg-299-2014",
+"path": "hg/2014/299",
+"kind": "hg",
+"year": "2014",
+"number": "299",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 299/2014",
+"short": "HG nr. 299/2014",
+"code": null,
+"status": "in force",
+"versions": 2,
+"from": "2014-04-20",
+"latest": "2019-03-15",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/211487"
 },
 {
 "slug": "hg-330-2014",
@@ -88912,6 +89048,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/172088"
 },
 {
+"slug": "hg-845-2015",
+"path": "hg/2015/845",
+"kind": "hg",
+"year": "2015",
+"number": "845",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 845/2015 privind stabilirea unor obligaţii şi sancţiuni ce revin operatorilor care introduc pentru prima dată pe piaţă produse din lemn, în conformitate cu Regulamentul (UE) nr. 995/2010 al Parlamentului European şi al Consiliului din 20 octombrie 2010 de stabilire a obligaţiilor ce revin operatorilor care introduc pe piaţă lemn şi produse din lemn",
+"short": "HG nr. 845/2015",
+"code": null,
+"status": "in force",
+"versions": 2,
+"from": "2015-10-15",
+"latest": "2017-11-09",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/172082"
+},
+{
 "slug": "hg-867-2015",
 "path": "hg/2015/867",
 "kind": "hg",
@@ -88963,6 +89116,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/172642"
 },
 {
+"slug": "hg-924-2015",
+"path": "hg/2015/924",
+"kind": "hg",
+"year": "2015",
+"number": "924",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 924/2015 pentru aprobarea Regulamentului de valorificare a masei lemnoase din fondul forestier proprietate publică",
+"short": "HG nr. 924/2015",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2015-11-11",
+"latest": "2015-11-11",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/172892"
+},
+{
 "slug": "hg-954-2015",
 "path": "hg/2015/954",
 "kind": "hg",
@@ -88995,6 +89165,23 @@
 "from": "2015-12-10",
 "latest": "2016-06-24",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/173814"
+},
+{
+"slug": "hg-960-2015",
+"path": "hg/2015/960",
+"kind": "hg",
+"year": "2015",
+"number": "960",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 960/2015 privind aprobarea amplasamentului şi declanşarea procedurilor de expropriere a tuturor imobilelor proprietate privată situate în coridorul de expropriere al lucrării de utilitate publică de interes naţional \"Deschiderea şi punerea în exploatare a carierei Jilţ Nord la o capacitate de 4,5 milioane tone/an lignit\"",
+"short": "HG nr. 960/2015",
+"code": null,
+"status": "amending act",
+"versions": 2,
+"from": "2015-12-11",
+"latest": "2025-06-13",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/173831"
 },
 {
 "slug": "hg-1000-2015",
@@ -89267,6 +89454,23 @@
 "from": "2016-02-11",
 "latest": "2016-02-11",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/175779"
+},
+{
+"slug": "hg-58-2016",
+"path": "hg/2016/58",
+"kind": "hg",
+"year": "2016",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 58/2016 pentru aprobarea modului de repartizare şi de utilizare a sumelor prevăzute la lit. a) şi b) din anexa nr. 3/13/02a la bugetul Secretariatului General al Guvernului, aprobat prin Legea bugetului de stat pe anul 2016 nr. 339/2015",
+"short": "HG nr. 58/2016",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2016-02-12",
+"latest": "2016-02-12",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/175803"
 },
 {
 "slug": "hg-67-2016",
@@ -89779,6 +89983,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/179464"
 },
 {
+"slug": "hg-465-2016",
+"path": "hg/2016/465",
+"kind": "hg",
+"year": "2016",
+"number": "465",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 465/2016 privind înfiinţarea, organizarea, funcţionarea şi atribuţiile Departamentului CENTENAR",
+"short": "HG nr. 465/2016",
+"code": null,
+"status": "repealed 2017-08-24",
+"versions": 2,
+"from": "2016-07-07",
+"latest": "2017-08-24",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/179847"
+},
+{
 "slug": "hg-472-2016",
 "path": "hg/2016/472",
 "kind": "hg",
@@ -89966,6 +90187,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/180921"
 },
 {
+"slug": "hg-579-2016",
+"path": "hg/2016/579",
+"kind": "hg",
+"year": "2016",
+"number": "579",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 579/2016",
+"short": "HG nr. 579/2016",
+"code": null,
+"status": "in force",
+"versions": 2,
+"from": "2016-08-12",
+"latest": "2021-08-05",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/180891"
+},
+{
 "slug": "hg-582-2016",
 "path": "hg/2016/582",
 "kind": "hg",
@@ -90066,6 +90304,23 @@
 "from": "2016-09-07",
 "latest": "2016-09-07",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/181551"
+},
+{
+"slug": "hg-637-2016",
+"path": "hg/2016/637",
+"kind": "hg",
+"year": "2016",
+"number": "637",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 637/2016 privind stabilirea cheltuielilor necesare pregătirii, organizării şi desfăşurării în bune condiţii a alegerilor pentru Senat şi Camera Deputaţilor din anul 2016",
+"short": "HG nr. 637/2016",
+"code": null,
+"status": "in force",
+"versions": 2,
+"from": "2016-09-12",
+"latest": "2016-10-21",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/181505"
 },
 {
 "slug": "hg-638-2016",
@@ -90476,6 +90731,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/183889"
 },
 {
+"slug": "hg-864-2016",
+"path": "hg/2016/864",
+"kind": "hg",
+"year": "2016",
+"number": "864",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 864/2016 privind aprobarea schemei \"Ajutor de minimis pentru asigurarea serviciilor silvice pentru fondul forestier proprietate privată a persoanelor juridice şi fizice care desfăşoară activităţi economice, dacă suprafaţa proprietăţii forestiere este mai mică sau egală cu 30 ha\" şi a Procedurii de acordare de la bugetul de stat a costurilor serviciilor silvice pentru fondul forestier proprietate privată a persoanelor juridice şi fizice care nu desfăşoară activităţi economice, dacă suprafaţa proprietăţii forestiere este mai mică sau egală cu 30 ha",
+"short": "HG nr. 864/2016",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2016-11-23",
+"latest": "2016-11-23",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/183904"
+},
+{
 "slug": "hg-867-2016",
 "path": "hg/2016/867",
 "kind": "hg",
@@ -90525,6 +90797,23 @@
 "from": "2016-12-06",
 "latest": "2016-12-06",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/184313"
+},
+{
+"slug": "hg-903-2016",
+"path": "hg/2016/903",
+"kind": "hg",
+"year": "2016",
+"number": "903",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 903/2016 pentru aprobarea Planului naţional de mobilitate",
+"short": "HG nr. 903/2016",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2016-12-19",
+"latest": "2016-12-19",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/184834"
 },
 {
 "slug": "hg-906-2016",
@@ -91445,6 +91734,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/188435"
 },
 {
+"slug": "hg-233-2017",
+"path": "hg/2017/233",
+"kind": "hg",
+"year": "2017",
+"number": "233",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 233/2017 privind alocarea temporară, pentru luna aprilie a anului 2017, a unor sume din venituri din privatizare ordonatorului principal de credite cu rol de Autoritate de management pentru Programul operaţional Iniţiativa pentru întreprinderile mici şi mijlocii (POIIMM)",
+"short": "HG nr. 233/2017",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2017-04-26",
+"latest": "2017-04-26",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/188597"
+},
+{
 "slug": "hg-284-2017",
 "path": "hg/2017/284",
 "kind": "hg",
@@ -92193,6 +92499,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/192557"
 },
 {
+"slug": "hg-611-2017",
+"path": "hg/2017/611",
+"kind": "hg",
+"year": "2017",
+"number": "611",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 611/2017 pentru aprobarea Normelor metodologice de aplicare a Legii nr. 232/2016 privind industria naţională de apărare, precum şi pentru modificarea şi completarea unor acte normative",
+"short": "HG nr. 611/2017",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2017-09-06",
+"latest": "2017-09-06",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/192885"
+},
+{
 "slug": "hg-615-2017",
 "path": "hg/2017/615",
 "kind": "hg",
@@ -92346,6 +92669,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/193282"
 },
 {
+"slug": "hg-677-2017",
+"path": "hg/2017/677",
+"kind": "hg",
+"year": "2017",
+"number": "677",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 677/2017 privind aprobarea Metodologiei de analiză cost-beneficiu pentru investiţiile în infrastructura de apă",
+"short": "HG nr. 677/2017",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2017-09-28",
+"latest": "2017-09-28",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/193419"
+},
+{
 "slug": "hg-696-2017",
 "path": "hg/2017/696",
 "kind": "hg",
@@ -92497,6 +92837,23 @@
 "from": "2017-11-20",
 "latest": "2017-11-20",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/194769"
+},
+{
+"slug": "hg-806-2017",
+"path": "hg/2017/806",
+"kind": "hg",
+"year": "2017",
+"number": "806",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 806/2017 privind înscrierea unui imobil situat în municipiul Slatina, judeţul Olt, în inventarul centralizat al bunurilor din domeniul public al statului şi darea acestuia în administrarea Ministerului Apărării Naţionale, precum şi pentru actualizarea valorii de inventar a imobilului 539 aflat în domeniul public al statului",
+"short": "HG nr. 806/2017",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2017-11-13",
+"latest": "2017-11-13",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/194638"
 },
 {
 "slug": "hg-808-2017",
@@ -92805,6 +93162,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/195770"
 },
 {
+"slug": "hg-914-2017",
+"path": "hg/2017/914",
+"kind": "hg",
+"year": "2017",
+"number": "914",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 914/2017 pentru aprobarea Regulamentului de organizare şi funcţionare şi a structurii organizatorice a Centrului Naţional de Management al Apei Grele, precum şi a unor măsuri necesare pentru asigurarea securităţii obiectivului",
+"short": "HG nr. 914/2017",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2017-12-28",
+"latest": "2017-12-28",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/196235"
+},
+{
 "slug": "hg-917-2017",
 "path": "hg/2017/917",
 "kind": "hg",
@@ -92905,6 +93279,23 @@
 "from": "2018-01-04",
 "latest": "2018-01-04",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/196377"
+},
+{
+"slug": "hg-950-2017",
+"path": "hg/2017/950",
+"kind": "hg",
+"year": "2017",
+"number": "950",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 950/2017 pentru aprobarea elementelor tehnice necesare aplicării art. 3^2 din Ordonanţa de urgenţă a Guvernului nr. 156/2007 privind despăgubirea persoanelor fizice care au constituit depozite la Casa de Economii şi Consemnaţiuni C.E.C. - S.A. în vederea achiziţionării de autoturisme",
+"short": "HG nr. 950/2017",
+"code": null,
+"status": "amending act",
+"versions": 2,
+"from": "2018-01-10",
+"latest": "2020-04-09",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/196602"
 },
 {
 "slug": "hg-951-2017",
@@ -93075,6 +93466,23 @@
 "from": "2018-02-05",
 "latest": "2018-02-05",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/197475"
+},
+{
+"slug": "hg-34-2018",
+"path": "hg/2018/34",
+"kind": "hg",
+"year": "2018",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 34/2018 pentru aprobarea Regulamentului-cadru privind stabilirea locurilor de muncă, a categoriilor de personal, a mărimii concrete a sporului pentru condiţii de muncă, precum şi a condiţiilor de acordare a acestuia pentru personalul din familia ocupaţională de funcţii bugetare \"Învăţământ\"",
+"short": "HG nr. 34/2018",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2018-01-31",
+"latest": "2018-01-31",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/197260"
 },
 {
 "slug": "hg-40-2018",
@@ -93383,6 +93791,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/199240"
 },
 {
+"slug": "hg-158-2018",
+"path": "hg/2018/158",
+"kind": "hg",
+"year": "2018",
+"number": "158",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 158/2018 privind aprobarea Nomenclatorului domeniilor şi al specializărilor/programelor de studii universitare şi a structurii instituţiilor de învăţământ superior pentru anul universitar 2018-2019",
+"short": "HG nr. 158/2018",
+"code": null,
+"status": "amending act",
+"versions": 2,
+"from": "2018-04-10",
+"latest": "2018-11-15",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/199537"
+},
+{
 "slug": "hg-209-2018",
 "path": "hg/2018/209",
 "kind": "hg",
@@ -93619,6 +94044,23 @@
 "from": "2018-06-06",
 "latest": "2018-06-06",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/201350"
+},
+{
+"slug": "hg-399-2018",
+"path": "hg/2018/399",
+"kind": "hg",
+"year": "2018",
+"number": "399",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 399/2018 privind aprobarea amplasamentului şi declanşarea procedurilor de expropriere a tuturor imobilelor proprietate privată care constituie coridorul de expropriere situat pe amplasamentul lucrării de utilitate publică de interes naţional \"Deschiderea şi punerea în exploatare a Carierei Roşia de Jiu, judeţul Gorj, la o capacitate de 8,0 milioane tone/an\"",
+"short": "HG nr. 399/2018",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2018-06-12",
+"latest": "2018-06-12",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/201449"
 },
 {
 "slug": "hg-414-2018",
