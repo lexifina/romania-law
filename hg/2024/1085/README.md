@@ -4,9 +4,7 @@ HG nr. 1085/2024 · 1 versions, from 2024-09-06 (latest in force: 2024-09-06) ·
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
-| Art. 1 | [art-001.md](art-001.md) | 0 |  |
-| Art. 2 | [art-002.md](art-002.md) | 0 |  |
-| Art. 3 | [art-003.md](art-003.md) | 0 |  |
+| ARTICOL UNIC | [art-001.md](art-001.md) | 0 |  |
 
 Act id: `hg-1085-2024` (tags `hg-1085-2024/<day>`; `python tools/on.py <day> hg-1085-2024`).
 

@@ -5,7 +5,6 @@ HG nr. 703/2024 · 1 versions, from 2024-07-01 (latest in force: 2024-07-01) · 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | ARTICOL UNIC | [art-001.md](art-001.md) | 0 |  |
-| Art. 2 | [art-002.md](art-002.md) | 0 |  |
 
 Act id: `hg-703-2024` (tags `hg-703-2024/<day>`; `python tools/on.py <day> hg-703-2024`).
 

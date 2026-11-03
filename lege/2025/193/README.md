@@ -4,7 +4,7 @@ Legea nr. 193/2025 · 1 versions, from 2025-11-23 (latest in force: 2025-11-23) 
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
-| Art. 1 | [art-001.md](art-001.md) | 0 |  |
+| ARTICOL UNIC | [art-001.md](art-001.md) | 0 |  |
 
 Act id: `legea-193-2025` (tags `legea-193-2025/<day>`; `python tools/on.py <day> legea-193-2025`).
 

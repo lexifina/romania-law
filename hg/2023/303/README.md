@@ -4,7 +4,9 @@ HG nr. 303/2023 · 1 versions, from 2023-04-07 (latest in force: 2023-04-07) · 
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
-| Art. 1 | [art-001.md](art-001.md) | 0 |  |
+| Art. I | [art-001.md](art-001.md) | 0 |  |
+| Art. II | [art-002.md](art-002.md) | 0 |  |
+| Art. III | [art-003.md](art-003.md) | 0 |  |
 
 Act id: `hg-303-2023` (tags `hg-303-2023/<day>`; `python tools/on.py <day> hg-303-2023`).
 

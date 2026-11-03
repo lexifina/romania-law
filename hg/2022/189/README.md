@@ -4,7 +4,7 @@ HG nr. 189/2022 · 1 versions, from 2022-02-15 (latest in force: 2022-02-15) · 
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
-| Art. 1 | [art-001.md](art-001.md) | 0 |  |
+| ARTICOL UNIC | [art-001.md](art-001.md) | 0 |  |
 
 Act id: `hg-189-2022` (tags `hg-189-2022/<day>`; `python tools/on.py <day> hg-189-2022`).
 

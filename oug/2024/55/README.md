@@ -4,7 +4,7 @@ OUG nr. 55/2024 · 1 versions, from 2024-05-30 (latest in force: 2024-05-30) · 
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
-| Art. 1 | [art-001.md](art-001.md) | 0 |  |
+| ARTICOL UNIC | [art-001.md](art-001.md) | 0 |  |
 
 Act id: `oug-55-2024` (tags `oug-55-2024/<day>`; `python tools/on.py <day> oug-55-2024`).
 

@@ -13289,6 +13289,27 @@
    ]
   },
   {
+   "slug": "hg-1429-2024",
+   "path": "hg/2024/1429",
+   "short": "HG nr. 1429/2024",
+   "title": "Hotărârea Guvernului nr. 1429/2024 pentru aprobarea Programului naţional de securitate a aviaţiei civile",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/291217",
+   "versions": [
+    {
+     "from": "2024-11-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/291217",
+     "sha256": "0feba2a3feff26dec343c6ef26b85e22099a20e58ae97ba84e2e62221ba06eda"
+    },
+    {
+     "from": "2025-03-21",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/291217",
+     "sha256": "0feba2a3feff26dec343c6ef26b85e22099a20e58ae97ba84e2e62221ba06eda"
+    }
+   ]
+  },
+  {
    "slug": "hg-1432-2004",
    "path": "hg/2004/1432",
    "short": "HG nr. 1432/2004",
@@ -13976,6 +13997,36 @@
    ]
   },
   {
+   "slug": "hg-1582-2024",
+   "path": "hg/2024/1582",
+   "short": "HG nr. 1582/2024",
+   "title": "Hotărârea Guvernului nr. 1582/2024 pentru modificarea art. 1 alin. (1) din Hotărârea Guvernului nr. 1.371/2024 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2024, pentru suplimentarea bugetului Ministerului Sănătăţii, pentru finanţarea activităţilor specifice operaţionalizării capabilităţilor medicale mobile Emergency Medical Teams 1 oferite de România prin Mecanismul European de Protecţie Civilă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/292257",
+   "versions": [
+    {
+     "from": "2024-12-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/292257",
+     "sha256": "ebaa4403f33d8d6efc150e703358709a005a1a694ec553dc2aa74458affa689f"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1594-2024",
+   "path": "hg/2024/1594",
+   "short": "HG nr. 1594/2024",
+   "title": "Hotărârea Guvernului nr. 1594/2024 pentru modificarea şi completarea anexei la Hotărârea Guvernului nr. 183/2020 privind aprobarea închirierii unor bunuri imobile proprietate publică a statului, aflate în administrarea Administraţiei Naţionale \"Apele Române\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/292336",
+   "versions": [
+    {
+     "from": "2024-12-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/292336",
+     "sha256": "728766f28f3237888d309541f6a314c82d09e3357e3048d0f7d0d5c109129ffd"
+    }
+   ]
+  },
+  {
    "slug": "hg-16-2017",
    "path": "hg/2017/16",
    "short": "HG nr. 16/2017",
@@ -14569,6 +14620,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/100706",
      "sha256": "c6be22ab4eb01df9a57e0773f53cc80ab79408a5264ca603346ba627073e374a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1697-2024",
+   "path": "hg/2024/1697",
+   "short": "HG nr. 1697/2024",
+   "title": "Hotărârea Guvernului nr. 1697/2024 pentru modificarea şi completarea anexei nr. 1 la Hotărârea Guvernului nr. 323/1996 privind aprobarea Programului special pentru sprijinirea dezvoltării economico-sociale a unor localităţi din Munţii Apuseni",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/292775",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/292775",
+     "sha256": "7cbcafef0fe5529712af2277f49713b539409545b9f3be8522d540ecf3d0e903"
     }
    ]
   },
@@ -19379,6 +19445,21 @@
    ]
   },
   {
+   "slug": "hg-490-2025",
+   "path": "hg/2025/490",
+   "short": "HG nr. 490/2025",
+   "title": "Hotărârea Guvernului nr. 490/2025 pentru modificarea anexei nr. 1 la Hotărârea Guvernului nr. 52/2018 privind organizarea şi funcţionarea Ministerului Investiţiilor şi Proiectelor Europene",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/298278",
+   "versions": [
+    {
+     "from": "2025-05-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/298278",
+     "sha256": "f4f23bc3d335e867cd03729d3b71ce6875e577f06edc640a323d1189c02964c4"
+    }
+   ]
+  },
+  {
    "slug": "hg-492-2003",
    "path": "hg/2003/492",
    "short": "HG nr. 492/2003",
@@ -19825,6 +19906,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/298456",
      "sha256": "d2355d59faa26b41a4ad5fe5065152fbb6b8c0a555acbb2f129c0e8276c5a262"
+    }
+   ]
+  },
+  {
+   "slug": "hg-512-2025",
+   "path": "hg/2025/512",
+   "short": "HG nr. 512/2025",
+   "title": "Hotărârea Guvernului nr. 512/2025 pentru modificarea Hotărârii Guvernului nr. 259/2006 privind aprobarea Normelor de cheltuieli pentru realizarea programelor Ministerului Tineretului şi Sportului în domeniul activităţii de tineret",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/298457",
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/298457",
+     "sha256": "6fb9fe1d88ff533ea5388fcc466435f45d0e38f739ea6c266912634d0192c78a"
     }
    ]
   },
@@ -20872,6 +20968,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/254592",
      "sha256": "f5b4bf36b3a51ac7f23fd75c268b4622daa6144583a84c1a32be4db13e7ec5f2"
+    }
+   ]
+  },
+  {
+   "slug": "hg-569-2025",
+   "path": "hg/2025/569",
+   "short": "HG nr. 569/2025",
+   "title": "Hotărârea Guvernului nr. 569/2025 privind modificarea Hotărârii Guvernului nr. 1.096/2013 pentru aprobarea mecanismului de alocare tranzitorie cu titlu gratuit a certificatelor de emisii de gaze cu efect de seră producătorilor de energie electrică, pentru perioada 2013-2020, inclusiv Planul naţional de investiţii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/299172",
+   "versions": [
+    {
+     "from": "2025-06-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/299172",
+     "sha256": "4292e8e56eafe25d21a75c1a9564967ec00b137b93146a931f3efb70ffaf5d5b"
     }
    ]
   },
@@ -23531,6 +23642,21 @@
    ]
   },
   {
+   "slug": "hg-738-2025",
+   "path": "hg/2025/738",
+   "short": "HG nr. 738/2025",
+   "title": "Hotărârea Guvernului nr. 738/2025 pentru modificarea anexei nr. 2b \"Lista sumelor alocate categoriilor de proiecte prioritare finanţate din Fondul pentru mediu pentru anul 2025\" la Hotărârea Guvernului nr. 407/2025 pentru aprobarea bugetului de venituri şi cheltuieli pe anul 2025 al Fondului pentru mediu şi al Administraţiei Fondului pentru Mediu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/302001",
+   "versions": [
+    {
+     "from": "2025-09-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/302001",
+     "sha256": "09572a672db02d2aa78ef960419cac0aa72cfa75389f1b19f0bb6a0d75c3263e"
+    }
+   ]
+  },
+  {
    "slug": "hg-738-2026",
    "path": "hg/2026/738",
    "short": "HG nr. 738/2026",
@@ -24619,6 +24745,21 @@
      "units": 35,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/292592",
      "sha256": "b87c0415137d0e95ddbcb6a520e689707a673413cfcf38534bb87e7e9e47e67d"
+    }
+   ]
+  },
+  {
+   "slug": "hg-818-2025",
+   "path": "hg/2025/818",
+   "short": "HG nr. 818/2025",
+   "title": "Hotărârea Guvernului nr. 818/2025 privind acordarea cetăţeniei române domnului R. D",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/302732",
+   "versions": [
+    {
+     "from": "2025-10-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/302732",
+     "sha256": "07c60ca02eafdd9dd5b6d3b4104051f53b5b70d622329178a1e2eb9214ce29a5"
     }
    ]
   },
@@ -101626,7 +101767,7 @@
    "versions": [
     {
      "from": "2024-09-06",
-     "units": 3,
+     "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/288136",
      "sha256": "73b2b423311aa01edc67460823e95eb502249b73c2d0c6bd2167ad8484a5d205"
     }
@@ -109219,7 +109360,7 @@
    "versions": [
     {
      "from": "2023-12-11",
-     "units": 16,
+     "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/277123",
      "sha256": "3a6001db0654aa31711b88abd64b6cecfbd845c4c00e8edc5d2c03367c966504"
     }
@@ -114706,7 +114847,7 @@
    "versions": [
     {
      "from": "2023-12-29",
-     "units": 21,
+     "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/277844",
      "sha256": "cb0d5865c1d1e88a785da3d649c2405c1bfb26adb2aaf45378719718500fac4d"
     }
@@ -118426,7 +118567,7 @@
    "versions": [
     {
      "from": "2022-02-01",
-     "units": 13,
+     "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/251281",
      "sha256": "ecb32119a501521a95869c70edd4fa0e6963de8c9b002bc176f0680ab0da5027"
     }
@@ -134761,7 +134902,7 @@
    "versions": [
     {
      "from": "2023-04-07",
-     "units": 1,
+     "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/266693",
      "sha256": "27b4375a120becff52dab067cb9d90d4d6739ebb9a5b1f947ed573e466c6f74f"
     }
@@ -141412,7 +141553,7 @@
    "versions": [
     {
      "from": "2024-01-22",
-     "units": 5,
+     "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/278342",
      "sha256": "5607c9acfc0f9f2859603cf6623c6d9dd6349013ec3e469c94fe210f353ace52"
     }
@@ -165424,7 +165565,7 @@
    "versions": [
     {
      "from": "2024-07-01",
-     "units": 2,
+     "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/284731",
      "sha256": "6cb585d7365da17fd429ea2c1a742b0c9687c006b7b513736f8a0b8ea4bc21c2"
     }
@@ -175507,7 +175648,7 @@
    "versions": [
     {
      "from": "2024-07-22",
-     "units": 5,
+     "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/285734",
      "sha256": "fc476ba192c14b7ed5447195c15c58318c6defb699ffc188389ffd4814928dcc"
     }
@@ -176584,7 +176725,7 @@
    "versions": [
     {
      "from": "2023-09-20",
-     "units": 6,
+     "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/274597",
      "sha256": "31de469dc1717b7890791f136c63c15b3337a3f0219c3fa18aacf8da9508f423"
     }
@@ -181504,7 +181645,7 @@
    "versions": [
     {
      "from": "2023-10-03",
-     "units": 40,
+     "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/274970",
      "sha256": "7cf149e77d5182d565b287b768ae019140615805b8b8a4f1d15c91abd61096b1"
     }
