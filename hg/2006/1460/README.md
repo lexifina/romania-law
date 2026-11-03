@@ -17,7 +17,7 @@ HG nr. 1460/2006 · 3 versions, from 2006-11-10 (latest in force: 2019-10-09) ·
 | Art. 11 | [art-011.md](art-011.md) | 0 |  |
 | Art. 12 | [art-012.md](art-012.md) | 0 |  |
 | Art. 13 | [art-013.md](art-013.md) | 0 |  |
-| Art. 14 | [art-014.md](art-014.md) | 2 | 2019-10-09 |
+| Art. 14 | [art-014.md](art-014.md) | 1 | 2018-06-13 |
 
 Act id: `hg-1460-2006` (tags `hg-1460-2006/<day>`; `python tools/on.py <day> hg-1460-2006`).
 
@@ -29,5 +29,5 @@ Act id: `hg-1460-2006` (tags `hg-1460-2006/<day>`; `python tools/on.py <day> hg-
 - HG nr. 1460/2006: the first version is the Government decision as published in Monitorul Oficial nr. 915 of 10 November 2006 (DetaliiDocumentAfis/76663), dated 10 November 2006: a Government decision with no day of its own, in force on publication (Legea nr. 24/2000 art. 12 alin. (3)). The portal holds no consolidated form before 18 February 2008, so the changes made up to then arrive together that day.
 - HG nr. 1460/2006: the forms of 13 June 2018 and 9 October 2019 differ from the earlier forms in diacritics and punctuation (portal typesetting: not an amendment; the printed text is kept and no law is credited, as for the other portal typesetting in this record).
 - HG nr. 1460/2006: the form of 9 October 2019 prints art. 14 with wording that differs from the earlier form (wording changed with no note and no amending act identified): the printed text is kept, dated by the first form that shows it, and no law is credited.
-- HG nr. 1460/2006: 4 changed article(s) with no note naming a law, committed as the publisher's: 2018-06-13 art-002, 2018-06-13 art-014, 2019-10-09 art-002, 2019-10-09 art-014.
+- HG nr. 1460/2006: 3 changed article(s) with no note naming a law, committed as the publisher's: 2018-06-13 art-002, 2018-06-13 art-014, 2019-10-09 art-002.
 - HG nr. 1460/2006: forms with no change after normalisation, so no version: 2008-02-18 (201225), 2008-10-24 (201227), 2010-07-25 (201229), 2018-05-18 (201296).
