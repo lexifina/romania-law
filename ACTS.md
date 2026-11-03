@@ -1,6 +1,6 @@
 # Every act in this repository
 
-13725 acts, 27,314 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+13748 acts, 27,337 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (2525, of which 1211 amending acts)
+## Laws (legi) (2526, of which 1211 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -785,6 +785,7 @@
 | Legea nr. 146/2008 pentru aderarea României la Tratatul dintre Regatul Belgiei, Republica Federală Germania, Regatul Spaniei, Republica Franceză, Marele Ducat de Luxemburg, Regatul Ţărilor de Jos şi Republica Austria privind aprofundarea cooperării transfrontaliere, în special în vederea combaterii terorismului, criminalităţii transfrontaliere şi migraţiei ilegale, semnat la Pr&#8319;\'62m la 27 mai 2005 | [`lege/2008/146/`](lege/2008/146/) | in force | 1 | 2008-08-09 | 2008-08-09 |
 | Legea nr. 157/2008 pentru completarea alin. (2) al art. 218 din Legea nr. 95/2006 privind reforma în domeniul sănătăţii | [`lege/2008/157/`](lege/2008/157/) | amending act | 1 | 2008-07-26 | 2008-07-26 |
 | Legea nr. 158/2008 | [`lege/2008/158/`](lege/2008/158/) | in force | 3 | 2008-07-27 | 2013-07-24 |
+| Legea nr. 165/2008 pentru ratificarea Acordului dintre Guvernul României şi Guvernul Republicii Kazahstan privind transportul rutier internaţional de mărfuri, semnat la Bucureşti la 22 noiembrie 2007 | [`lege/2008/165/`](lege/2008/165/) | in force | 1 | 2008-10-16 | 2008-10-16 |
 | Legea nr. 173/2008 | [`lege/2008/173/`](lege/2008/173/) | in force | 4 | 2008-10-24 | 2014-10-23 |
 | Legea nr. 198/2008 | [`lege/2008/198/`](lege/2008/198/) | in force | 8 | 2008-11-27 | 2024-11-07 |
 | Legea nr. 220/2008 pentru stabilirea sistemului de promovare a producerii energiei din surse regenerabile de energie | [`lege/2008/220/`](lege/2008/220/) | in force | 25 | 2008-11-06 | 2025-11-07 |
@@ -2563,7 +2564,7 @@
 | Legea nr. 204/2026 privind aprobarea Ordonanţei Guvernului nr. 22/2025 pentru modificarea şi completarea Legii nr. 227/2015 privind Codul fiscal şi pentru completarea articolului 342 din Legea nr. 227/2015 privind Codul fiscal | [`lege/2026/204/`](lege/2026/204/) | amending act | 1 | 2026-10-25 | 2026-10-25 |
 | Legea nr. 205/2026 pentru completarea Ordonanţei Guvernului nr. 22/2002 privind executarea obligaţiilor de plată ale instituţiilor publice, stabilite prin titluri executorii | [`lege/2026/205/`](lege/2026/205/) | amending act | 1 | 2026-11-02 | 2026-11-02 |
 
-## Emergency ordinances (OUG) (1633, of which 577 amending acts)
+## Emergency ordinances (OUG) (1634, of which 578 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -3021,6 +3022,7 @@
 | Ordonanța de urgență a Guvernului nr. 114/2008 pentru asigurarea de la bugetul de stat, prin bugetul Ministerului Sănătăţii Publice, a sumelor necesare acoperirii plăţii TVA aferente bunurilor şi serviciilor achiziţionate în cadrul programelor privind combaterea HIV/SIDA şi tuberculozei în România, implementate de Fundaţia Romanian Angel Appeal | [`oug/2008/114/`](oug/2008/114/) | in force | 1 | 2008-09-29 | 2008-09-29 |
 | Ordonanța de urgență a Guvernului nr. 118/2008 | [`oug/2008/118/`](oug/2008/118/) | in force | 2 | 2008-10-03 | 2009-05-17 |
 | Ordonanța de urgență a Guvernului nr. 120/2008 privind transmiterea unei părţi dintr-un imobil, aflat în domeniul public al statului, din administrarea Ministerului Apărării în administrarea Academiei Române | [`oug/2008/120/`](oug/2008/120/) | in force | 1 | 2008-10-06 | 2008-10-06 |
+| Ordonanța de urgență a Guvernului nr. 122/2008 privind aprobarea participării României, în calitate de "ţară parteneră", la manifestarea expoziţională internaţională cu specific de turism "Caravan Motor Turism Stuttgart", în perioada 17-25 ianuarie 2009 | [`oug/2008/122/`](oug/2008/122/) | amending act | 1 | 2008-10-07 | 2008-10-07 |
 | Ordonanța de urgență a Guvernului nr. 123/2008 | [`oug/2008/123/`](oug/2008/123/) | in force | 2 | 2008-10-07 | 2009-07-06 |
 | Ordonanța de urgență a Guvernului nr. 130/2008 | [`oug/2008/130/`](oug/2008/130/) | in force | 2 | 2008-10-20 | 2009-05-18 |
 | Ordonanța de urgență a Guvernului nr. 133/2008 privind modificarea anexei nr. 1^1 la Ordonanţa Guvernului nr. 64/1999 pentru aprobarea Programului strategic de dezvoltare a infrastructurii aeroportuare la Aeroportul Internaţional Henri Coandă - Bucureşti | [`oug/2008/133/`](oug/2008/133/) | amending act | 1 | 2008-10-24 | 2008-10-24 |
@@ -4723,7 +4725,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (9011, of which 4066 amending acts)
+## Government decisions (HG) (9032, of which 4078 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -6243,6 +6245,7 @@
 | Hotărârea Guvernului nr. 1131/2008 pentru modificarea şi completarea Hotărârii Guvernului nr. 1.424/2007 privind aprobarea Programului multianual "Asistenţă tehnică pentru sprijinirea autorităţilor administraţiei publice locale în pregătirea tehnică a proiectelor de investiţii publice, finanţabile prin Programul operaţional regional 2007-2013", şi finanţarea acestuia din bugetul Ministerului Dezvoltării, Lucrărilor Publice şi Locuinţelor | [`hg/2008/1131/`](hg/2008/1131/) | amending act | 1 | 2008-09-29 | 2008-09-29 |
 | Hotărârea Guvernului nr. 1132/2008 | [`hg/2008/1132/`](hg/2008/1132/) | in force | 5 | 2008-09-25 | 2021-12-17 |
 | Hotărârea Guvernului nr. 1133/2008 | [`hg/2008/1133/`](hg/2008/1133/) | in force | 2 | 2008-09-29 | 2009-06-01 |
+| Hotărârea Guvernului nr. 1134/2008 privind aprobarea Strategiei de restructurare a Companiei Naţionale "Poşta Română" - S.A. în vederea declanşării procesului de privatizare a acesteia | [`hg/2008/1134/`](hg/2008/1134/) | amending act | 1 | 2008-10-09 | 2008-10-09 |
 | Hotărârea Guvernului nr. 1135/2008 privind aprobarea Programului de iarnă în domeniul energetic pentru asigurarea funcţionării în condiţii de siguranţă şi stabilitate a Sistemului electroenergetic naţional în perioada 1 octombrie 2008 - 31 martie 2009 | [`hg/2008/1135/`](hg/2008/1135/) | amending act | 1 | 2008-10-03 | 2008-10-03 |
 | Hotărârea Guvernului nr. 1137/2008 privind alocarea unei sume din Fondul de intervenţie la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2008, pentru înlăturarea efectelor calamităţilor naturale produse în unele judeţe | [`hg/2008/1137/`](hg/2008/1137/) | in force | 1 | 2008-09-29 | 2008-09-29 |
 | Hotărârea Guvernului nr. 1138/2008 pentru aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii "Variantă ocolitoare Timişoara DN 6 km 549+076 şi DN 69 km 6+430" | [`hg/2008/1138/`](hg/2008/1138/) | amending act | 1 | 2008-10-03 | 2008-10-03 |
@@ -6276,6 +6279,7 @@
 | Hotărârea Guvernului nr. 1179/2008 privind transmiterea unei părţi dintr-un imobil, proprietate publică a statului, din administrarea Ministerului Muncii, Familiei şi Egalităţii de Şanse - Inspectoratul Teritorial de Muncă Suceava în administrarea Ministerului Internelor şi Reformei Administrative, pentru Inspectoratul de Jandarmi Judeţean Suceava | [`hg/2008/1179/`](hg/2008/1179/) | in force | 1 | 2008-10-02 | 2008-10-02 |
 | Hotărârea Guvernului nr. 1180/2008 privind schimbarea titularului dreptului de administrare a unui imobil | [`hg/2008/1180/`](hg/2008/1180/) | in force | 1 | 2008-10-02 | 2008-10-02 |
 | Hotărârea Guvernului nr. 1181/2008 privind transmiterea unui imobil aflat în domeniul public al statului din administrarea Ministerului Agriculturii şi Dezvoltării Rurale - Agenţia de Plăţi şi Intervenţie pentru Agricultură în administrarea Ministerului Agriculturii şi Dezvoltării Rurale - Inspectoratul Teritorial de Regim Silvic şi de Vânătoare Focşani | [`hg/2008/1181/`](hg/2008/1181/) | in force | 1 | 2008-09-30 | 2008-09-30 |
+| Hotărârea Guvernului nr. 1183/2008 pentru aprobarea tezelor prealabile ale proiectului Codului penal | [`hg/2008/1183/`](hg/2008/1183/) | amending act | 1 | 2008-10-08 | 2008-10-08 |
 | Hotărârea Guvernului nr. 1185/2008 pentru completarea Hotărârii Guvernului nr. 743/2005 privind declanşarea procedurilor de expropriere a imobilelor proprietate privată situate pe amplasamentul lucrării "Centura de ocolire a municipiului Craiova - varianta de Nord" din cadrul obiectivului de investiţii "Centura de ocolire a municipiului Craiova - varianta de Nord" | [`hg/2008/1185/`](hg/2008/1185/) | amending act | 1 | 2008-10-02 | 2008-10-02 |
 | Hotărârea Guvernului nr. 1187/2008 privind declanşarea procedurilor de expropriere a imobilului proprietate privată situat pe amplasamentul lucrării de utilitate publică de interes naţional "Autostrada Bucureşti-Cernavodă, Secţiunea 4 Drajna-Feteşti şi Secţiunea 5 Feteşti-Cernavodă" pe teritoriul localităţii Cernavodă din judeţul Constanţa | [`hg/2008/1187/`](hg/2008/1187/) | in force | 1 | 2008-10-02 | 2008-10-02 |
 | Hotărârea Guvernului nr. 1188/2008 pentru aprobarea Acordului dintre Guvernul României şi Guvernul Republicii Tunisiene privind cooperarea economică şi tehnico-ştiinţifică, semnat la Bucureşti la 2 iunie 2008 | [`hg/2008/1188/`](hg/2008/1188/) | amending act | 1 | 2008-10-03 | 2008-10-03 |
@@ -6288,9 +6292,28 @@
 | Hotărârea Guvernului nr. 1203/2008 privind încetarea raportului de serviciu al subprefectului judeţului Giurgiu, domnul Păsat Dan, prin acordul părţilor | [`hg/2008/1203/`](hg/2008/1203/) | in force | 1 | 2008-10-02 | 2008-10-02 |
 | Hotărârea Guvernului nr. 1205/2008 privind exercitarea, cu caracter temporar, a funcţiei publice de prefect al judeţului Braşov de către domnul Niţă Emil | [`hg/2008/1205/`](hg/2008/1205/) | in force | 1 | 2008-10-02 | 2008-10-02 |
 | Hotărârea Guvernului nr. 1206/2008 privind exercitarea, cu caracter temporar, a funcţiei publice de subprefect al judeţului Botoşani de către domnul Mihai Corneliu | [`hg/2008/1206/`](hg/2008/1206/) | in force | 1 | 2008-10-02 | 2008-10-02 |
+| Hotărârea Guvernului nr. 1208/2008 pentru aprobarea plăţii contribuţiilor voluntare, în lei, ale României la programele şi fondurile de dezvoltare ale ONU pe anul 2008 | [`hg/2008/1208/`](hg/2008/1208/) | amending act | 1 | 2008-10-10 | 2008-10-10 |
+| Hotărârea Guvernului nr. 1210/2008 privind acordarea cetăţeniei române unor persoane | [`hg/2008/1210/`](hg/2008/1210/) | in force | 1 | 2008-10-08 | 2008-10-08 |
+| Hotărârea Guvernului nr. 1211/2008 privind transmiterea unui imobil aflat în domeniul public al statului din administrarea Administraţiei Naţionale a Penitenciarelor - Penitenciarul Aiud în administrarea Ministerului Justiţiei - Tribunalul Alba, pentru Judecătoria Aiud | [`hg/2008/1211/`](hg/2008/1211/) | in force | 1 | 2008-10-14 | 2008-10-14 |
+| Hotărârea Guvernului nr. 1213/2008 privind modificarea anexei nr. 1 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului | [`hg/2008/1213/`](hg/2008/1213/) | amending act | 1 | 2008-10-07 | 2008-10-07 |
+| Hotărârea Guvernului nr. 1217/2008 privind modificarea art. 2 din Hotărârea Guvernului nr. 1.153/2001 pentru aprobarea Normelor metodologice de aplicare a prevederilor Legii nr. 34/1998 privind acordarea unor subvenţii asociaţiilor şi fundaţiilor române cu personalitate juridică, care înfiinţează şi administrează unităţi de asistenţă socială | [`hg/2008/1217/`](hg/2008/1217/) | amending act | 1 | 2008-10-08 | 2008-10-08 |
+| Hotărârea Guvernului nr. 1221/2008 privind aprobarea Licenţei de concesiune a activităţii miniere de exploatare a lignitului nr. 3.499/2002, încheiată între Agenţia Naţională pentru Resurse Minerale şi Societatea Comercială "Complexul Energetic Rovinari" - S.A | [`hg/2008/1221/`](hg/2008/1221/) | amending act | 1 | 2008-10-08 | 2008-10-08 |
+| Hotărârea Guvernului nr. 1223/2008 privind aprobarea Licenţei de concesiune a activităţii miniere de exploatare a nisipurilor caolinoase şi a nisipurilor silicioase nr. 4.109/2003, încheiată între Agenţia Naţională pentru Resurse Minerale şi Societatea Comercială RO MINERAL INVEST - S.R.L | [`hg/2008/1223/`](hg/2008/1223/) | amending act | 1 | 2008-10-08 | 2008-10-08 |
+| Hotărârea Guvernului nr. 1224/2008 pentru aprobarea Regulamentului privind organizarea şi desfăşurarea procedurilor pentru valorificarea bunurilor aflate în administrarea Serviciului de Telecomunicaţii Speciale | [`hg/2008/1224/`](hg/2008/1224/) | amending act | 1 | 2008-10-13 | 2008-10-13 |
 | Hotărârea Guvernului nr. 1225/2008 pentru modificarea Contractului-cadru privind condiţiile acordării asistenţei medicale în cadrul sistemului de asigurări sociale de sănătate pentru anul 2008, aprobat prin Hotărârea Guvernului nr. 324/2008 | [`hg/2008/1225/`](hg/2008/1225/) | amending act | 1 | 2008-10-03 | 2008-10-03 |
 | Hotărârea Guvernului nr. 1227/2008 privind completarea art. 8 din Hotărârea Guvernului nr. 996/2008 pentru aprobarea Normelor referitoare la provenienţa, circulaţia şi comercializarea materialelor lemnoase, la regimul spaţiilor de depozitare a materialelor lemnoase şi al instalaţiilor de prelucrat lemn rotund | [`hg/2008/1227/`](hg/2008/1227/) | amending act | 1 | 2008-10-07 | 2008-10-07 |
+| Hotărârea Guvernului nr. 1229/2008 privind transmiterea unei părţi dintr-un imobil din domeniul public al statului şi din administrarea Agenţiei Naţionale pentru Sport - Direcţia pentru Sport a Judeţului Iaşi în domeniul public al municipiului Iaşi şi în administrarea Consiliului Local al Municipiului Iaşi, judeţul Iaşi | [`hg/2008/1229/`](hg/2008/1229/) | in force | 1 | 2008-10-09 | 2008-10-09 |
+| Hotărârea Guvernului nr. 1231/2008 privind modificarea Hotărârii Guvernului nr. 766/1997 pentru aprobarea unor regulamente privind calitatea în construcţii | [`hg/2008/1231/`](hg/2008/1231/) | amending act | 1 | 2008-10-10 | 2008-10-10 |
+| Hotărârea Guvernului nr. 1241/2008 privind stabilirea datei alegerilor locale parţiale pentru alegerea primarilor în unele circumscripţii electorale | [`hg/2008/1241/`](hg/2008/1241/) | in force | 1 | 2008-10-10 | 2008-10-10 |
+| Hotărârea Guvernului nr. 1242/2008 privind încetarea raportului de serviciu al prefectului judeţului Suceava, domnul Băişanu Ştefan Alexandru, prin acordul părţilor | [`hg/2008/1242/`](hg/2008/1242/) | in force | 1 | 2008-10-10 | 2008-10-10 |
+| Hotărârea Guvernului nr. 1243/2008 privind exercitarea, cu caracter temporar, a funcţiei publice de subprefect al judeţului Suceava de către doamna Zarojanu Angela | [`hg/2008/1243/`](hg/2008/1243/) | in force | 1 | 2008-10-10 | 2008-10-10 |
 | Hotărârea Guvernului nr. 1244/2008 | [`hg/2008/1244/`](hg/2008/1244/) | in force | 1 | 2008-10-14 | 2008-10-14 |
+| Hotărârea Guvernului nr. 1245/2008 privind organizarea de către Ministerul Afacerilor Externe a unei reuniuni speciale a Forţei Operative NATO la Nivel Înalt | [`hg/2008/1245/`](hg/2008/1245/) | in force | 1 | 2008-10-14 | 2008-10-14 |
+| Hotărârea Guvernului nr. 1249/2008 privind modificarea Hotărârii Guvernului nr. 1.490/2004 pentru aprobarea Regulamentului de organizare şi funcţionare şi a organigramei Inspectoratului General pentru Situaţii de Urgenţă | [`hg/2008/1249/`](hg/2008/1249/) | amending act | 1 | 2008-10-14 | 2008-10-14 |
+| Hotărârea Guvernului nr. 1251/2008 privind suplimentarea bugetului Ministerului Internelor şi Reformei Administrative din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2008, pentru aniversarea la data de 1 decembrie 2008 a Zilei Naţionale a României şi a 90 de ani de la Marea Unire | [`hg/2008/1251/`](hg/2008/1251/) | in force | 1 | 2008-10-13 | 2008-10-13 |
+| Hotărârea Guvernului nr. 1270/2008 privind aprobarea bugetelor de venituri şi cheltuieli rectificate pe anul 2008 ale unor operatori economici aflaţi sub autoritatea Ministerului Transporturilor | [`hg/2008/1270/`](hg/2008/1270/) | amending act | 1 | 2008-10-13 | 2008-10-13 |
+| Hotărârea Guvernului nr. 1271/2008 privind aprobarea bugetelor de venituri şi cheltuieli rectificate pe anul 2008 ale unor operatori economici aflaţi sub autoritatea Ministerului Transporturilor | [`hg/2008/1271/`](hg/2008/1271/) | amending act | 1 | 2008-10-13 | 2008-10-13 |
+| Hotărârea Guvernului nr. 1276/2008 privind unele măsuri referitoare la organizarea şi desfăşurarea la Bucureşti, în perioada 23-25 martie 2009, a celui de-al treilea Summit Mondial al Procurorilor Generali | [`hg/2008/1276/`](hg/2008/1276/) | in force | 1 | 2008-10-10 | 2008-10-10 |
 | Hotărârea Guvernului nr. 1285/2008 | [`hg/2008/1285/`](hg/2008/1285/) | in force | 1 | 2008-10-22 | 2008-10-22 |
 | Hotărârea Guvernului nr. 1289/2008 pentru aprobarea limitei pe anul 2008 a finanţărilor rambursabile ce pot fi contractate şi a tragerilor din finanţările rambursabile contractate sau care urmează a fi contractate de unităţile administrativ-teritoriale | [`hg/2008/1289/`](hg/2008/1289/) | amending act | 2 | 2008-10-28 | 2008-12-16 |
 | Hotărârea Guvernului nr. 1314/2008 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2008, pentru finanţarea lucrărilor de forare şi de echipare a forajelor destinate alimentării cu apă a locuinţelor reconstruite/strămutate ca urmare a calamităţilor naturale produse în comuna Mogoşeşti-Siret, judeţul Iaşi | [`hg/2008/1314/`](hg/2008/1314/) | in force | 2 | 2008-10-20 | 2008-11-28 |
