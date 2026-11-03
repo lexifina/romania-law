@@ -1,6 +1,6 @@
 # Every act in this repository
 
-7266 acts, 19,903 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+7270 acts, 19,908 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -3853,7 +3853,7 @@
 | Ordonanța Guvernului nr. 21/2025 pentru modificarea și completarea Legii nr. 431/2023 privind asigurarea unui nivel minim global de impozitare a grupurilor de întreprinderi multinaționale și a grupurilor naționale de mari dimensiuni | [`og/2025/21/`](og/2025/21/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 | Ordonanța Guvernului nr. 22/2025 pentru modificarea și completarea Legii nr. 227/2015 privind Codul fiscal | [`og/2025/22/`](og/2025/22/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 
-## Government decisions (HG) (3421, of which 1199 amending acts)
+## Government decisions (HG) (3425, of which 1200 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -4235,6 +4235,7 @@
 | Hotărârea Guvernului nr. 1459/2003 pentru aprobarea participării Ministerului Educaţiei, Cercetării şi Tineretului în calitate de membru la Fundaţia Europeană pentru Ştiinţă (ESF) şi a plăţii cotizaţiei anuale | [`hg/2003/1459/`](hg/2003/1459/) | amending act | 2 | 2003-12-16 | 2005-06-22 |
 | Hotărârea Guvernului nr. 1463/2003 | [`hg/2003/1463/`](hg/2003/1463/) | in force | 2 | 2003-12-17 | 2009-12-04 |
 | Hotărârea Guvernului nr. 1553/2003 | [`hg/2003/1553/`](hg/2003/1553/) | in force | 2 | 2004-01-12 | 2007-02-12 |
+| Hotărârea Guvernului nr. 1574/2003 | [`hg/2003/1574/`](hg/2003/1574/) | in force | 2 | 2004-01-05 | 2004-01-16 |
 | Hotărârea Guvernului nr. 1618/2003 | [`hg/2003/1618/`](hg/2003/1618/) | in force | 1 | 2004-01-20 | 2004-01-20 |
 | Hotărârea Guvernului nr. 1621/2003 | [`hg/2003/1621/`](hg/2003/1621/) | in force | 6 | 2004-01-23 | 2021-04-12 |
 | Hotărârea Guvernului nr. 1627/2003 | [`hg/2003/1627/`](hg/2003/1627/) | in force | 3 | 2004-01-27 | 2015-08-26 |
@@ -4332,6 +4333,7 @@
 | Hotărârea Guvernului nr. 2082/2004 pentru aprobarea Regulamentului de organizare și funcționare a Institutului Național de Cercetare-Dezvoltare pentru Științe Biologice București | [`hg/2004/2082/`](hg/2004/2082/) | amending act | 1 | 2004-12-20 | 2004-12-20 |
 | Hotărârea Guvernului nr. 2104/2004 pentru aprobarea Metodologiei privind criteriile de dimensionare a numărului de funcţii din aparatul serviciilor publice comunitare de evidenţă a persoanelor, constituirea patrimoniului şi managementul resurselor umane, financiare şi materiale | [`hg/2004/2104/`](hg/2004/2104/) | amending act | 2 | 2004-12-03 | 2005-03-02 |
 | Hotărârea Guvernului nr. 2108/2004 | [`hg/2004/2108/`](hg/2004/2108/) | in force | 1 | 2004-12-10 | 2004-12-10 |
+| Hotărârea Guvernului nr. 2139/2004 pentru aprobarea Catalogului privind clasificarea și duratele normale de funcționare a mijloacelor fixe | [`hg/2004/2139/`](hg/2004/2139/) | amending act | 1 | 2005-01-13 | 2005-01-13 |
 | Hotărârea Guvernului nr. 2151/2004 | [`hg/2004/2151/`](hg/2004/2151/) | in force | 1 | 2005-01-12 | 2005-01-12 |
 | Hotărârea Guvernului nr. 2155/2004 | [`hg/2004/2155/`](hg/2004/2155/) | in force | 1 | 2004-12-20 | 2004-12-20 |
 | Hotărârea Guvernului nr. 2269/2004 | [`hg/2004/2269/`](hg/2004/2269/) | in force | 1 | 2005-01-04 | 2005-01-04 |
@@ -4497,6 +4499,7 @@
 | Hotărârea Guvernului nr. 1093/2006 | [`hg/2006/1093/`](hg/2006/1093/) | in force | 7 | 2006-10-01 | 2024-03-11 |
 | Hotărârea Guvernului nr. 1135/2006 privind cerințele minime de securitate și sănătate în munca la bordul navelor de pescuit | [`hg/2006/1135/`](hg/2006/1135/) | in force | 1 | 2006-10-01 | 2006-10-01 |
 | Hotărârea Guvernului nr. 1136/2006 | [`hg/2006/1136/`](hg/2006/1136/) | in force | 1 | 2006-10-01 | 2006-10-01 |
+| Hotărârea Guvernului nr. 1146/2006 | [`hg/2006/1146/`](hg/2006/1146/) | in force | 1 | 2006-10-03 | 2006-10-03 |
 | Hotărârea Guvernului nr. 1217/2006 privind constituirea mecanismului național pentru promovarea incluziunii sociale în România | [`hg/2006/1217/`](hg/2006/1217/) | in force | 2 | 2006-09-26 | 2021-06-03 |
 | Hotărârea Guvernului nr. 1251/2006 | [`hg/2006/1251/`](hg/2006/1251/) | in force | 1 | 2006-09-25 | 2006-09-25 |
 | Hotărârea Guvernului nr. 1276/2006 | [`hg/2006/1276/`](hg/2006/1276/) | in force | 1 | 2006-10-12 | 2006-10-12 |
@@ -4521,6 +4524,7 @@
 | Hotărârea Guvernului nr. 1660/2006 | [`hg/2006/1660/`](hg/2006/1660/) | in force | 1 | 2006-12-07 | 2006-12-07 |
 | Hotărârea Guvernului nr. 1705/2006 | [`hg/2006/1705/`](hg/2006/1705/) | in force | 4 | 2006-12-21 | 2024-10-07 |
 | Hotărârea Guvernului nr. 1739/2006 | [`hg/2006/1739/`](hg/2006/1739/) | in force | 2 | 2006-12-13 | 2014-02-19 |
+| Hotărârea Guvernului nr. 1756/2006 | [`hg/2006/1756/`](hg/2006/1756/) | in force | 1 | 2007-01-22 | 2007-01-22 |
 | Hotărârea Guvernului nr. 1850/2006 | [`hg/2006/1850/`](hg/2006/1850/) | in force | 1 | 2007-01-01 | 2007-01-01 |
 | Hotărârea Guvernului nr. 1860/2006 | [`hg/2006/1860/`](hg/2006/1860/) | in force | 2 | 2007-01-01 | 2008-12-19 |
 | Hotărârea Guvernului nr. 1879/2006 | [`hg/2006/1879/`](hg/2006/1879/) | in force | 1 | 2007-01-16 | 2007-01-16 |

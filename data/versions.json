@@ -10817,6 +10817,21 @@
    ]
   },
   {
+   "slug": "hg-1146-2006",
+   "path": "hg/2006/1146",
+   "short": "HG nr. 1146/2006",
+   "title": "Hotărârea Guvernului nr. 1146/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/75585",
+   "versions": [
+    {
+     "from": "2006-10-03",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/75585",
+     "sha256": "b0ff54af62ee7f098ca0163887add5e66e3c232eb09cc8243d38cc71a23b673a"
+    }
+   ]
+  },
+  {
    "slug": "hg-1148-2008",
    "path": "hg/2008/1148",
    "short": "HG nr. 1148/2008",
@@ -13376,6 +13391,27 @@
    ]
   },
   {
+   "slug": "hg-1574-2003",
+   "path": "hg/2003/1574",
+   "short": "HG nr. 1574/2003",
+   "title": "Hotărârea Guvernului nr. 1574/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49256",
+   "versions": [
+    {
+     "from": "2004-01-05",
+     "units": 33,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/48945",
+     "sha256": "bdc42f61b13bd05c8ff3034b22f2d04f307dd75b1b31e36c1b366e02c56b9247"
+    },
+    {
+     "from": "2004-01-16",
+     "units": 33,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49256",
+     "sha256": "63ea64d81012b478f886afbb6a9dad46675b416e0a9d6184a4a4fc3b277420b3"
+    }
+   ]
+  },
+  {
    "slug": "hg-1578-2002",
    "path": "hg/2002/1578",
    "short": "HG nr. 1578/2002",
@@ -14207,6 +14243,21 @@
    ]
   },
   {
+   "slug": "hg-1756-2006",
+   "path": "hg/2006/1756",
+   "short": "HG nr. 1756/2006",
+   "title": "Hotărârea Guvernului nr. 1756/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/78826",
+   "versions": [
+    {
+     "from": "2007-01-22",
+     "units": 25,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/78826",
+     "sha256": "43b8254207f327e3f0340f0f449787952f10718dba9d59ceb8b2096bbce5b2da"
+    }
+   ]
+  },
+  {
    "slug": "hg-177-2008",
    "path": "hg/2008/177",
    "short": "HG nr. 177/2008",
@@ -14791,6 +14842,21 @@
      "units": 1,
      "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/65814",
      "sha256": "f0cf34168a77fdb9387d02583d98af13b00fd7c4890f6dca7ade95da9efb3cdd"
+    }
+   ]
+  },
+  {
+   "slug": "hg-2139-2004",
+   "path": "hg/2004/2139",
+   "short": "HG nr. 2139/2004",
+   "title": "Hotărârea Guvernului nr. 2139/2004 pentru aprobarea Catalogului privind clasificarea și duratele normale de funcționare a mijloacelor fixe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/58613",
+   "versions": [
+    {
+     "from": "2005-01-13",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/58613",
+     "sha256": "16d0b6f919cdfd7d18cfde6da0eba82a8cb333da5fa8fa407e4642a1d0b8c877"
     }
    ]
   },
