@@ -164,20 +164,18 @@ def credit_ledger(repo: Path, ref: str) -> list[dict]:
     return list(csv.DictReader(io.StringIO(out.stdout))) if not out.returncode and out.stdout else []
 
 
-def credit_fixes(repo: Path, c: dict, act: dict, last: str, ledger: list[dict]) -> list[dict]:
-    """Provisions whose change on a published day main credits to a different law (or to none) than the corpus now
-    does, when the words are the same. Main's credit for (day, provision) is the Law trailer of the last commit with
-    that In-force day that wrote the provision (none for a publisher commit or a text correction), overridden by the
-    ledger; the corpus's is what build.plan would credit (the latest law named for it). Versions after `last` are
-    appended as usual and need no correction."""
-    folders = list(dict.fromkeys([act.get('path') or act['slug'], act['slug']]))
-    # A law commit is authored at the law's own address (<key>@<publisher domain>, build.law_email); a publisher or
-    # correction commit is not, and credits no law.
+def main_credits(repo: Path, c: dict, acts: list[dict]) -> dict[str, dict[tuple[str, str], tuple[str, str]]]:
+    """{act: {(in-force day, provision): (law key or '', commit)}} as main credits each change, for several acts from
+    one history walk. A law commit is authored at the law's own address (<key>@<publisher domain>, build.law_email);
+    a publisher or correction commit credits no law."""
+    if not acts:
+        return {}
     key_of = {B.law_email(c, k).lower(): k for k in c['laws']}
+    owner = {f: a['slug'] for a in acts for f in dict.fromkeys([a.get('path') or a['slug'], a['slug']])}
     out = git(repo, 'log', '--no-merges', '--reverse', '--name-only',
               '--format=%x00%H%x09%(trailers:key=In-force,valueonly,separator=)%x09%(trailers:key=Kind,valueonly,'
-              'separator=)%x09%ae', 'main', '--', *folders)
-    have: dict[tuple[str, str], tuple[str, str]] = {}
+              'separator=)%x09%ae', 'main', '--', *owner)
+    have: dict[str, dict] = {a['slug']: {} for a in acts}
     for rec in out.split('\x00')[1:]:
         head, _, names = rec.partition('\n')
         h, d, kind, email = (head.split('\t') + ['', '', ''])[:4]
@@ -185,9 +183,24 @@ def credit_fixes(repo: Path, c: dict, act: dict, last: str, ledger: list[dict]) 
         if not d or kind == 'layout':
             continue
         for name in names.splitlines():
-            for f in folders:
-                if name.startswith(f + '/') and name.endswith('.md') and name != f'{f}/README.md':
-                    have[(d, name[len(f) + 1:-3])] = ('' if kind == 'correction' else law, h)
+            if not name.endswith('.md') or name.endswith('/README.md'):
+                continue
+            folder = name.rsplit('/', 1)[0]
+            while folder and folder not in owner:  # a provision in a sub-folder of its act
+                folder = folder.rsplit('/', 1)[0] if '/' in folder else ''
+            if folder:
+                have[owner[folder]][(d, name[len(folder) + 1:-3])] = ('' if kind == 'correction' else law, h)
+    return have
+
+
+def credit_fixes(repo: Path, c: dict, act: dict, last: str, ledger: list[dict],
+                 have: dict[tuple[str, str], tuple[str, str]] | None = None) -> list[dict]:
+    """Provisions whose change on a published day main credits to a different law (or to none) than the corpus now
+    does, when the words are the same. Main's credit for (day, provision) is the Law trailer of the last commit with
+    that In-force day that wrote the provision (none for a publisher commit or a text correction), overridden by the
+    ledger; the corpus's is what build.plan would credit (the latest law named for it). Versions after `last` are
+    appended as usual and need no correction."""
+    have = dict(have if have is not None else main_credits(repo, c, [act])[act['slug']])
     for r in ledger:
         if r['act'] == act['slug']:
             have[(r['in_force'], r['provision'])] = (r['law'], have.get((r['in_force'], r['provision']), ('', ''))[1])
@@ -415,8 +428,10 @@ def append(folder: Path, repo: Path, docs_date: str, dry_run: bool = False, comm
     # an act corrected for its text this publish gets its credits checked on the next.
     ledger = credit_ledger(repo, head)
     credit_rows: dict[str, list[dict]] = {}
-    for s in sorted(set(approved) & set(state) - set(problems)):
-        rows_s = credit_fixes(repo, c, by_slug[s], state[s], ledger)
+    listed = sorted(set(approved) & set(state) - set(problems))
+    credited = main_credits(repo, c, [by_slug[s] for s in listed])  # one history walk for all of them
+    for s in listed:
+        rows_s = credit_fixes(repo, c, by_slug[s], state[s], ledger, credited[s])
         if rows_s:
             credit_rows[s] = rows_s
     fixes_by_act: dict[str, list[dict]] = {}

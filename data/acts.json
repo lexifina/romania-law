@@ -1515,6 +1515,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/4143"
 },
 {
+"slug": "legea-52-1994",
+"path": "lege/1994/52",
+"kind": "lege",
+"year": "1994",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 52/1994",
+"short": "Legea nr. 52/1994",
+"code": null,
+"status": "repealed 2002-04-09",
+"versions": 2,
+"from": "1994-09-10",
+"latest": "2002-04-09",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/4181"
+},
+{
 "slug": "legea-58-1994",
 "path": "lege/1994/58",
 "kind": "lege",
@@ -2958,6 +2975,23 @@
 "from": "2014-03-24",
 "latest": "2014-03-24",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/282842"
+},
+{
+"slug": "legea-189-1998",
+"path": "lege/1998/189",
+"kind": "lege",
+"year": "1998",
+"number": "189",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 189/1998",
+"short": "Legea nr. 189/1998",
+"code": null,
+"status": "repealed 2004-01-01",
+"versions": 3,
+"from": "1999-01-01",
+"latest": "2004-01-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/47777"
 },
 {
 "slug": "legea-202-1998",
@@ -5289,6 +5323,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/37384"
 },
 {
+"slug": "legea-507-2002",
+"path": "lege/2002/507",
+"kind": "lege",
+"year": "2002",
+"number": "507",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 507/2002",
+"short": "Legea nr. 507/2002",
+"code": null,
+"status": "repealed 2004-09-27",
+"versions": 3,
+"from": "2002-11-04",
+"latest": "2004-09-27",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/47560"
+},
+{
 "slug": "legea-515-2002",
 "path": "lege/2002/515",
 "kind": "lege",
@@ -7157,6 +7208,23 @@
 "from": "2004-09-13",
 "latest": "2024-06-29",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/52681"
+},
+{
+"slug": "legea-240-2004",
+"path": "lege/2004/240",
+"kind": "lege",
+"year": "2004",
+"number": "240",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 240/2004",
+"short": "Legea nr. 240/2004",
+"code": null,
+"status": "in force",
+"versions": 5,
+"from": "2004-07-22",
+"latest": "2013-02-15",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/52850"
 },
 {
 "slug": "legea-251-2004",
@@ -10729,6 +10797,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/83911"
 },
 {
+"slug": "legea-265-2007",
+"path": "lege/2007/265",
+"kind": "lege",
+"year": "2007",
+"number": "265",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 265/2007",
+"short": "Legea nr. 265/2007",
+"code": null,
+"status": "in force",
+"versions": 6,
+"from": "2007-08-06",
+"latest": "2018-12-31",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/209164"
+},
+{
 "slug": "legea-275-2007",
 "path": "lege/2007/275",
 "kind": "lege",
@@ -11560,6 +11645,23 @@
 "from": "2009-05-17",
 "latest": "2016-12-10",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/184429"
+},
+{
+"slug": "legea-203-2009",
+"path": "lege/2009/203",
+"kind": "lege",
+"year": "2009",
+"number": "203",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 203/2009",
+"short": "Legea nr. 203/2009",
+"code": null,
+"status": "in force",
+"versions": 3,
+"from": "2009-06-12",
+"latest": "2010-04-12",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/121453"
 },
 {
 "slug": "legea-226-2009",
@@ -13313,6 +13415,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/171355"
 },
 {
+"slug": "legea-82-2012",
+"path": "lege/2012/82",
+"kind": "lege",
+"year": "2012",
+"number": "82",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 82/2012",
+"short": "Legea nr. 82/2012",
+"code": null,
+"status": "in force",
+"versions": 5,
+"from": "2012-06-21",
+"latest": "2014-03-25",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/138881"
+},
+{
 "slug": "legea-103-2012",
 "path": "lege/2012/103",
 "kind": "lege",
@@ -13991,6 +14110,23 @@
 "from": "2013-07-05",
 "latest": "2013-07-05",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/149406"
+},
+{
+"slug": "legea-216-2013",
+"path": "lege/2013/216",
+"kind": "lege",
+"year": "2013",
+"number": "216",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 216/2013 privind aprobarea Ordonanței de urgență a Guvernului nr. 127/2010 pentru adoptarea unor măsuri destinate dezvoltării economico-sociale a zonei \"Delta Dunării\"",
+"short": "Legea nr. 216/2013",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2013-07-07",
+"latest": "2013-07-07",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/149501"
 },
 {
 "slug": "legea-235-2013",
@@ -31010,6 +31146,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/24786"
 },
 {
+"slug": "oug-190-2000",
+"path": "oug/2000/190",
+"kind": "oug",
+"year": "2000",
+"number": "190",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 190/2000",
+"short": "OUG nr. 190/2000",
+"code": null,
+"status": "in force",
+"versions": 8,
+"from": "2000-12-16",
+"latest": "2018-03-16",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/25014"
+},
+{
 "slug": "oug-199-2000",
 "path": "oug/2000/199",
 "kind": "oug",
@@ -33849,6 +34002,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/69981"
 },
 {
+"slug": "oug-49-2005",
+"path": "oug/2005/49",
+"kind": "oug",
+"year": "2005",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 49/2005",
+"short": "OUG nr. 49/2005",
+"code": null,
+"status": "in force",
+"versions": 7,
+"from": "2005-06-17",
+"latest": "2020-06-02",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/76411"
+},
+{
 "slug": "oug-50-2005",
 "path": "oug/2005/50",
 "kind": "oug",
@@ -36518,6 +36688,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/103890"
 },
 {
+"slug": "oug-78-2008",
+"path": "oug/2008/78",
+"kind": "oug",
+"year": "2008",
+"number": "78",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 78/2008",
+"short": "OUG nr. 78/2008",
+"code": null,
+"status": "in force",
+"versions": 2,
+"from": "2008-06-23",
+"latest": "2009-04-11",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/106680"
+},
+{
 "slug": "oug-83-2008",
 "path": "oug/2008/83",
 "kind": "oug",
@@ -36943,6 +37130,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/99630"
 },
 {
+"slug": "oug-176-2008",
+"path": "oug/2008/176",
+"kind": "oug",
+"year": "2008",
+"number": "176",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 176/2008",
+"short": "OUG nr. 176/2008",
+"code": null,
+"status": "in force",
+"versions": 2,
+"from": "2008-12-02",
+"latest": "2009-07-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/109292"
+},
+{
 "slug": "oug-181-2008",
 "path": "oug/2008/181",
 "kind": "oug",
@@ -37230,6 +37434,23 @@
 "from": "2008-12-24",
 "latest": "2009-02-16",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/103277"
+},
+{
+"slug": "oug-223-2008",
+"path": "oug/2008/223",
+"kind": "oug",
+"year": "2008",
+"number": "223",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 223/2008",
+"short": "OUG nr. 223/2008",
+"code": null,
+"status": "in force",
+"versions": 2,
+"from": "2008-12-31",
+"latest": "2009-04-14",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/104777"
 },
 {
 "slug": "oug-228-2008",
@@ -42092,6 +42313,23 @@
 "from": "2015-06-29",
 "latest": "2016-05-27",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/178750"
+},
+{
+"slug": "oug-23-2015",
+"path": "oug/2015/23",
+"kind": "oug",
+"year": "2015",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 23/2015",
+"short": "OUG nr. 23/2015",
+"code": null,
+"status": "repealed 2017-09-25",
+"versions": 3,
+"from": "2015-06-29",
+"latest": "2017-09-25",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/184524"
 },
 {
 "slug": "oug-24-2015",
@@ -57139,6 +57377,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/211313"
 },
 {
+"slug": "og-70-2002",
+"path": "og/2002/70",
+"kind": "og",
+"year": "2002",
+"number": "70",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța Guvernului nr. 70/2002",
+"short": "OG nr. 70/2002",
+"code": null,
+"status": "in force",
+"versions": 15,
+"from": "2002-10-01",
+"latest": "2017-12-06",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/194898"
+},
+{
 "slug": "og-71-2002",
 "path": "og/2002/71",
 "kind": "og",
@@ -58191,6 +58446,23 @@
 "from": "2005-09-30",
 "latest": "2005-12-22",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/210125"
+},
+{
+"slug": "og-47-2005",
+"path": "og/2005/47",
+"kind": "og",
+"year": "2005",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța Guvernului nr. 47/2005",
+"short": "OG nr. 47/2005",
+"code": null,
+"status": "in force",
+"versions": 3,
+"from": "2005-08-29",
+"latest": "2010-02-02",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/116285"
 },
 {
 "slug": "og-49-2005",

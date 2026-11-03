@@ -57,6 +57,12 @@ History is never rewritten. When a version was published with the wrong text (fo
 
 The rule for reading a day stays the same: take the newest commit that touches the act's folder with `In-force:` on or before the day. Every day from the corrected one on then reads the corrected history, and earlier days read the original commits. `tools/on.py` and `tools/build/check_repo.py` follow this rule. The `<act id>/<day>` tags made before a correction are never moved, so they still show the text as first published.
 
+When only the credit was wrong (the words are right, but a change was credited to the wrong law, or to none), nothing is restated. A `Kind: correction` commit with `Credits: <n>` and `Corrects: <commit>` trailers and no `In-force:` trailer (so no reader ever takes text from it) does two things:
+- it adds one row per provision and day to `data/credits.csv` (`act,in_force,provision,law,was_law,was_commit`);
+- it lists the corrected credits in the act's README.md, under "Credits corrected".
+
+`git blame` still names the commit that wrote the words, and `tools/on.py --law` gives the corrected law. To credit a change, take the commit's author, unless `data/credits.csv` has a row for that act, day and provision; if it has several, the last one counts.
+
 ## What is not here
 
 - Annexes, chapter and section headings.
