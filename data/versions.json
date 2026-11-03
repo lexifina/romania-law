@@ -186431,6 +186431,21 @@
    ]
   },
   {
+   "slug": "hg-564-2007",
+   "path": "hg/2007/564",
+   "short": "HG nr. 564/2007",
+   "title": "Hotărârea Guvernului nr. 564/2007 privind modificarea şi completarea Hotărârii Guvernului nr. 1.197/2002 pentru aprobarea Normelor privind materialele şi obiectele care vin în contact cu alimentele",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/83369",
+   "versions": [
+    {
+     "from": "2007-07-04",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/83369",
+     "sha256": "5011fefd0912837f1ef16cbca281b902bff3ab527f125295e479f4845cbcaa1f"
+    }
+   ]
+  },
+  {
    "slug": "hg-564-2008",
    "path": "hg/2008/564",
    "short": "HG nr. 564/2008",
@@ -190235,6 +190250,21 @@
    ]
   },
   {
+   "slug": "hg-596-2007",
+   "path": "hg/2007/596",
+   "short": "HG nr. 596/2007",
+   "title": "Hotărârea Guvernului nr. 596/2007 privind darea unui imobil aflat în domeniul public al statului în administrarea Ministerului Internelor şi Reformei Administrative - Inspectoratul de Poliţie al Judeţului Dolj",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/83282",
+   "versions": [
+    {
+     "from": "2007-06-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/83282",
+     "sha256": "9e63e840b7a70fbc05ab47c0752d81af4ce125a10b9c5fb631fbb431e93b042a"
+    }
+   ]
+  },
+  {
    "slug": "hg-596-2008",
    "path": "hg/2008/596",
    "short": "HG nr. 596/2008",
@@ -194015,6 +194045,21 @@
    ]
   },
   {
+   "slug": "hg-627-2007",
+   "path": "hg/2007/627",
+   "short": "HG nr. 627/2007",
+   "title": "Hotărârea Guvernului nr. 627/2007 privind modificarea anexei nr. 3 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului, prin schimbarea destinaţiei şi denumirii unor imobile aflate în administrarea Direcţiei pentru Agricultură şi Dezvoltare Rurală Tulcea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/83269",
+   "versions": [
+    {
+     "from": "2007-06-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/83269",
+     "sha256": "cbf07c79987259660c31b46d458b948557a2da0c14e3d82ad55b432f8d14a94b"
+    }
+   ]
+  },
+  {
    "slug": "hg-627-2019",
    "path": "hg/2019/627",
    "short": "HG nr. 627/2019",
@@ -195803,6 +195848,21 @@
    ]
   },
   {
+   "slug": "hg-642-2007",
+   "path": "hg/2007/642",
+   "short": "HG nr. 642/2007",
+   "title": "Hotărârea Guvernului nr. 642/2007 pentru modificarea art. 11 şi 12 din Regulamentul privind organizarea şi funcţionarea Regiei Naţionale a Pădurilor - Romsilva, prevăzut în anexa nr. 1 la Hotărârea Guvernului nr. 1.105/2003 privind reorganizarea Regiei Naţionale a Pădurilor - Romsilva",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/83332",
+   "versions": [
+    {
+     "from": "2007-07-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/83332",
+     "sha256": "028f4fc29b2be3aa38ccb9842b8f1d7a69c08d8ba8c866c82aebd4a50bc512a9"
+    }
+   ]
+  },
+  {
    "slug": "hg-642-2008",
    "path": "hg/2008/642",
    "short": "HG nr. 642/2008",
@@ -197573,6 +197633,21 @@
    ]
   },
   {
+   "slug": "hg-657-2007",
+   "path": "hg/2007/657",
+   "short": "HG nr. 657/2007",
+   "title": "Hotărârea Guvernului nr. 657/2007 privind transmiterea unei suprafeţe de teren aflate în proprietatea publică a statului din administrarea Serviciului de Informaţii Externe în administrarea Ministerului Transporturilor, în vederea realizării activităţilor de interes naţional de către Compania Naţională de Autostrăzi şi Drumuri Naţionale din România - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/83340",
+   "versions": [
+    {
+     "from": "2007-07-03",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/83340",
+     "sha256": "fbb08f8ad521cb0e674cff46839f4ba9bd581e2f893ea778f85d18cd7e9c8253"
+    }
+   ]
+  },
+  {
    "slug": "hg-657-2008",
    "path": "hg/2008/657",
    "short": "HG nr. 657/2008",
@@ -198611,6 +198686,21 @@
    ]
   },
   {
+   "slug": "hg-666-2007",
+   "path": "hg/2007/666",
+   "short": "HG nr. 666/2007",
+   "title": "Hotărârea Guvernului nr. 666/2007 privind suplimentarea bugetului Cancelariei Primului-Ministru din Fondul de rezerva bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2007, pentru Agenţia Naţionala pentru Sport",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/83374",
+   "versions": [
+    {
+     "from": "2007-07-04",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/83374",
+     "sha256": "5b2db98f20e960f53802d0751fde619cbd5895256f824ac984a757a7ce5a7e98"
+    }
+   ]
+  },
+  {
    "slug": "hg-666-2008",
    "path": "hg/2008/666",
    "short": "HG nr. 666/2008",
@@ -198682,6 +198772,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/284104",
      "sha256": "76a6e4ac2a922bc50bbd560206940ec48a7804cec4681f3c98f6483c35286fef"
+    }
+   ]
+  },
+  {
+   "slug": "hg-667-2007",
+   "path": "hg/2007/667",
+   "short": "HG nr. 667/2007",
+   "title": "Hotărârea Guvernului nr. 667/2007 privind structura accizei totale exprimată în echivalent euro pentru 1.000 de ţigarete",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/83270",
+   "versions": [
+    {
+     "from": "2007-06-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/83270",
+     "sha256": "4f6cf57d0556cc0abbce682762700fcff3e635c1a7dded01fbc89c1c50f4812a"
     }
    ]
   },
@@ -245984,6 +246089,21 @@
    ]
   },
   {
+   "slug": "legea-196-2007",
+   "path": "lege/2007/196",
+   "short": "Legea nr. 196/2007",
+   "title": "Legea nr. 196/2007 pentru modificarea art. 2 din Legea nr. 93/1997 privind declararea ca erou-martir a lui Liviu Cornel Babeş",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/83363",
+   "versions": [
+    {
+     "from": "2007-07-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/83363",
+     "sha256": "c94211063a63fa5eb4b17ca637e96b217acc6c17774421d66c19282d683a6511"
+    }
+   ]
+  },
+  {
    "slug": "legea-196-2008",
    "path": "lege/2008/196",
    "short": "Legea nr. 196/2008",
@@ -248155,6 +248275,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/285223",
      "sha256": "0de9bff2b7efda9a3a1b21e59a66ee21076793609cd89c002836d3aa58618fbd"
+    }
+   ]
+  },
+  {
+   "slug": "legea-218-2007",
+   "path": "lege/2007/218",
+   "short": "Legea nr. 218/2007",
+   "title": "Legea nr. 218/2007 pentru aprobarea Ordonanţei Guvernului nr. 16/2007 privind creşterile salariale ce se vor acorda în anul 2007 personalului salarizat potrivit Legii nr. 495/2004 privind salarizarea şi alte drepturi băneşti ale personalului din administraţia centrala a Ministerului Afacerilor Externe şi de la misiunile diplomatice, oficiile consulare şi institutele culturale româneşti din străinătate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/83365",
+   "versions": [
+    {
+     "from": "2007-07-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/83365",
+     "sha256": "50a0e7e6cd1228f3009a0c0dd31cbe89633ac16b7216a7892fdc9e7b8d9bd5a4"
     }
    ]
   },
