@@ -79443,6 +79443,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/112172"
 },
 {
+"slug": "hg-1214-2009",
+"path": "hg/2009/1214",
+"kind": "hg",
+"year": "2009",
+"number": "1214",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 1214/2009",
+"short": "HG nr. 1214/2009",
+"code": null,
+"status": "in force",
+"versions": 2,
+"from": "2009-11-09",
+"latest": "2018-07-06",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/269580"
+},
+{
 "slug": "hg-1215-2009",
 "path": "hg/2009/1215",
 "kind": "hg",
@@ -88621,6 +88638,23 @@
 "from": "2016-07-08",
 "latest": "2016-07-08",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/179920"
+},
+{
+"slug": "hg-487-2016",
+"path": "hg/2016/487",
+"kind": "hg",
+"year": "2016",
+"number": "487",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 487/2016",
+"short": "HG nr. 487/2016",
+"code": null,
+"status": "in force",
+"versions": 5,
+"from": "2016-08-25",
+"latest": "2023-11-11",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/268891"
 },
 {
 "slug": "hg-520-2016",
@@ -99127,6 +99161,23 @@
 "from": "2021-03-19",
 "latest": "2024-04-02",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/280351"
+},
+{
+"slug": "hg-316-2021",
+"path": "hg/2021/316",
+"kind": "hg",
+"year": "2021",
+"number": "316",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 316/2021 privind organizarea și funcționarea Ministerului Energiei",
+"short": "HG nr. 316/2021",
+"code": null,
+"status": "in force",
+"versions": 6,
+"from": "2021-03-17",
+"latest": "2025-05-09",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/239350"
 },
 {
 "slug": "hg-346-2021",

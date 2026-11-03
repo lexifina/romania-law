@@ -1,6 +1,6 @@
 # Every act in this repository
 
-6610 acts, 19,178 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+6613 acts, 19,191 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -3783,7 +3783,7 @@
 | Ordonanța Guvernului nr. 21/2025 pentru modificarea și completarea Legii nr. 431/2023 privind asigurarea unui nivel minim global de impozitare a grupurilor de întreprinderi multinaționale și a grupurilor naționale de mari dimensiuni | [`og/2025/21/`](og/2025/21/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 | Ordonanța Guvernului nr. 22/2025 pentru modificarea și completarea Legii nr. 227/2015 privind Codul fiscal | [`og/2025/22/`](og/2025/22/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 
-## Government decisions (HG) (2835, of which 932 amending acts)
+## Government decisions (HG) (2838, of which 932 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -4723,6 +4723,7 @@
 | Hotărârea Guvernului nr. 956/2009 | [`hg/2009/956/`](hg/2009/956/) | in force | 1 | 2009-09-24 | 2009-09-24 |
 | Hotărârea Guvernului nr. 1076/2009 | [`hg/2009/1076/`](hg/2009/1076/) | in force | 1 | 2010-01-24 | 2010-01-24 |
 | Hotărârea Guvernului nr. 1203/2009 | [`hg/2009/1203/`](hg/2009/1203/) | in force | 1 | 2009-10-12 | 2009-10-12 |
+| Hotărârea Guvernului nr. 1214/2009 | [`hg/2009/1214/`](hg/2009/1214/) | in force | 2 | 2009-11-09 | 2018-07-06 |
 | Hotărârea Guvernului nr. 1215/2009 | [`hg/2009/1215/`](hg/2009/1215/) | in force | 4 | 2009-11-03 | 2022-03-25 |
 | Hotărârea Guvernului nr. 1262/2009 | [`hg/2009/1262/`](hg/2009/1262/) | in force | 1 | 2009-10-28 | 2009-10-28 |
 | Hotărârea Guvernului nr. 1301/2009 | [`hg/2009/1301/`](hg/2009/1301/) | in force | 1 | 2009-12-02 | 2009-12-02 |
@@ -5263,6 +5264,7 @@
 | Hotărârea Guvernului nr. 472/2016 | [`hg/2016/472/`](hg/2016/472/) | in force | 1 | 2016-07-11 | 2016-07-11 |
 | Hotărârea Guvernului nr. 476/2016 | [`hg/2016/476/`](hg/2016/476/) | in force | 1 | 2016-07-14 | 2016-07-14 |
 | Hotărârea Guvernului nr. 478/2016 | [`hg/2016/478/`](hg/2016/478/) | in force | 1 | 2016-07-08 | 2016-07-08 |
+| Hotărârea Guvernului nr. 487/2016 | [`hg/2016/487/`](hg/2016/487/) | in force | 5 | 2016-08-25 | 2023-11-11 |
 | Hotărârea Guvernului nr. 520/2016 | [`hg/2016/520/`](hg/2016/520/) | in force | 1 | 2016-08-01 | 2016-08-01 |
 | Hotărârea Guvernului nr. 521/2016 | [`hg/2016/521/`](hg/2016/521/) | in force | 2 | 2016-08-01 | 2017-12-22 |
 | Hotărârea Guvernului nr. 536/2016 privind stimularea performanței școlare înalte din învățământul preuniversitar | [`hg/2016/536/`](hg/2016/536/) | in force | 1 | 2016-08-10 | 2016-08-10 |
@@ -5863,6 +5865,7 @@
 | Hotărârea Guvernului nr. 295/2021 pentru aprobarea Normelor metodologice de aplicare unitară a dispozițiilor Ordonanței de urgență a Guvernului nr. 97/2005 privind evidența, domiciliul, reședința și actele de identitate ale cetățenilor români, precum și pentru stabilirea formei și conținutului actelor de identitate, ale dovezii de reședință și ale cărții de imobil | [`hg/2021/295/`](hg/2021/295/) | amending act | 1 | 2021-04-28 | 2021-04-28 |
 | Hotărârea Guvernului nr. 298/2021 pentru aprobarea tezelor prealabile ale Codului amenajării teritoriului, urbanismului și construcțiilor | [`hg/2021/298/`](hg/2021/298/) | amending act | 1 | 2021-03-30 | 2021-03-30 |
 | Hotărârea Guvernului nr. 301/2021 pentru aprobarea indicatorilor tehnico-economici ai obiectivului de investiții "Lucrări de investiții și intervenții în cazarma 705 Pitești" | [`hg/2021/301/`](hg/2021/301/) | amending act | 2 | 2021-03-19 | 2024-04-02 |
+| Hotărârea Guvernului nr. 316/2021 privind organizarea și funcționarea Ministerului Energiei | [`hg/2021/316/`](hg/2021/316/) | in force | 6 | 2021-03-17 | 2025-05-09 |
 | Hotărârea Guvernului nr. 346/2021 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziția Guvernului, prevăzut în bugetul de stat pe anul 2021, pentru unele unități administrativ-teritoriale | [`hg/2021/346/`](hg/2021/346/) | in force | 1 | 2021-03-26 | 2021-03-26 |
 | Hotărârea Guvernului nr. 353/2021 pentru modificarea Hotărârii Guvernului nr. 72/2013 privind aprobarea normelor metodologice pentru determinarea costului standard per elev/preșcolar și stabilirea finanțării de bază a unităților de învățământ preuniversitar de stat, care se asigură din bugetul de stat, din sume defalcate din T.V.A. prin bugetele locale, pe baza costului standard per elev/preșcolar | [`hg/2021/353/`](hg/2021/353/) | amending act | 1 | 2021-03-30 | 2021-03-30 |
 | Hotărârea Guvernului nr. 364/2021 privind stabilirea unor măsuri pentru punerea în aplicare a unor prevederi ale Regulamentului (UE) nr. 376/2014 al Parlamentului European și al Consiliului din 3 aprilie 2014 privind raportarea, analiza și acțiunile subsecvente cu privire la evenimentele de aviație civilă, de modificare a Regulamentului (UE) nr. 996/2010 al Parlamentului European și al Consiliului și de abrogare a Directivei 2003/42/CE a Parlamentului European și a Consiliului, și a Regulamentelor (CE) nr. 1.321/2007 și (CE) nr. 1.330/2007 ale Comisiei | [`hg/2021/364/`](hg/2021/364/) | amending act | 1 | 2021-05-08 | 2021-05-08 |

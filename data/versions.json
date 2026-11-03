@@ -11591,6 +11591,27 @@
    ]
   },
   {
+   "slug": "hg-1214-2009",
+   "path": "hg/2009/1214",
+   "short": "HG nr. 1214/2009",
+   "title": "Hotărârea Guvernului nr. 1214/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/269580",
+   "versions": [
+    {
+     "from": "2009-11-09",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/112910",
+     "sha256": "a9332d924985b8ed4e9bedcda9191f6383ea9fe95ce90d9c2b7bfb68a8780322"
+    },
+    {
+     "from": "2018-07-06",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/202074",
+     "sha256": "aa8c2439cf4619e4f3763938b842e2a0f635376befce2a01d23ac650b7903e10"
+    }
+   ]
+  },
+  {
    "slug": "hg-1215-2009",
    "path": "hg/2009/1215",
    "short": "HG nr. 1215/2009",
@@ -15608,6 +15629,51 @@
    ]
   },
   {
+   "slug": "hg-316-2021",
+   "path": "hg/2021/316",
+   "short": "HG nr. 316/2021",
+   "title": "Hotărârea Guvernului nr. 316/2021 privind organizarea și funcționarea Ministerului Energiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/239350",
+   "versions": [
+    {
+     "from": "2021-03-17",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/239350",
+     "sha256": "aea539f04cf807d8b4287016958de03d5f0456007e217a0f75d373b54babcbce"
+    },
+    {
+     "from": "2021-06-10",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/242605",
+     "sha256": "e73d578b7f65e86191247861ce244151e43ea7a815ed693ecf1e79ccee054f86"
+    },
+    {
+     "from": "2022-03-22",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/252196",
+     "sha256": "1894d630e47688c4762071631f63e6da02d9f208d1669fa9949342031574f101"
+    },
+    {
+     "from": "2023-02-09",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/264243",
+     "sha256": "7ebc1ab12593257be12dc87428794657690fd9ce2252a94bc77d8ace4fa2e309"
+    },
+    {
+     "from": "2024-03-12",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/279795",
+     "sha256": "93f19a61a15c2a84a27d0785d3345b69c40089e63b2e1b7d1faea903b8ece9a1"
+    },
+    {
+     "from": "2025-05-09",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/297174",
+     "sha256": "48f12423f9395ef61ff4e4f34f705a3d79efba3839a1e5c34a482b7a835eac31"
+    }
+   ]
+  },
+  {
    "slug": "hg-32-2008",
    "path": "hg/2008/32",
    "short": "HG nr. 32/2008",
@@ -17650,6 +17716,45 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/253855",
      "sha256": "b40dd20d4ebe7a316f7e07e9dd9448fb63a3601ac7be74f7afb104543c0b46e9"
+    }
+   ]
+  },
+  {
+   "slug": "hg-487-2016",
+   "path": "hg/2016/487",
+   "short": "HG nr. 487/2016",
+   "title": "Hotărârea Guvernului nr. 487/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/268891",
+   "versions": [
+    {
+     "from": "2016-08-25",
+     "units": 50,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/180391",
+     "sha256": "8857164f45b59541792fa37baf892766eb720fad50726edd0a261a026968d208"
+    },
+    {
+     "from": "2019-05-31",
+     "units": 50,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/214224",
+     "sha256": "7113c0d7d845e1e25f0adf250c14ccfbec2967b98212b3f306c6f9f8934a8e23"
+    },
+    {
+     "from": "2019-08-08",
+     "units": 51,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/215738",
+     "sha256": "2f9024bb9eff35da3a6d5b25b4ae097be3e36388e68e76de42e9b788e86a3ac3"
+    },
+    {
+     "from": "2023-10-12",
+     "units": 52,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/268890",
+     "sha256": "337a86418f9c3088ccb7fc5a372265ccca063ce071b745048a16808a9ec98033"
+    },
+    {
+     "from": "2023-11-11",
+     "units": 52,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/268891",
+     "sha256": "0eb728a3a85edfb5901d5e333b16595a4a92e37b931864d0e7e59027183d69d8"
     }
    ]
   },
