@@ -23780,6 +23780,27 @@
    ]
   },
   {
+   "slug": "hg-781-2023",
+   "path": "hg/2023/781",
+   "short": "HG nr. 781/2023",
+   "title": "Hotărârea Guvernului nr. 781/2023 privind modificarea și completarea Hotărârii Guvernului nr. 720/2008 pentru aprobarea Listei cuprinzând denumirile comune internaționale corespunzătoare medicamentelor de care beneficiază asigurații, cu sau fără contribuție personală, pe bază de prescripție medicală, în sistemul de asigurări sociale de sănătate, precum și denumirile comune internaționale corespunzătoare medicamentelor care se acordă în cadrul programelor naționale de sănătate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/274129",
+   "versions": [
+    {
+     "from": "2023-09-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/274129",
+     "sha256": "b821b839852cfafe28de0e741d78dc19c08596e7e239cc7a352514d81febc10b"
+    },
+    {
+     "from": "2023-12-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/274129",
+     "sha256": "b821b839852cfafe28de0e741d78dc19c08596e7e239cc7a352514d81febc10b"
+    }
+   ]
+  },
+  {
    "slug": "hg-787-2003",
    "path": "hg/2003/787",
    "short": "HG nr. 787/2003",
@@ -98144,6 +98165,21 @@
    ]
   },
   {
+   "slug": "hg-105-2022",
+   "path": "hg/2022/105",
+   "short": "HG nr. 105/2022",
+   "title": "Hotărârea Guvernului nr. 105/2022 privind actualizarea valorii de inventar, a denumirii şi a datelor de identificare ale unor imobile aflate în domeniul public al statului şi în administrarea Institutului Naţional de Hematologie Transfuzională, prin centrele de transfuzii sanguine, instituţii subordonate Ministerului Sănătăţii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/251093",
+   "versions": [
+    {
+     "from": "2022-01-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/251093",
+     "sha256": "2c7d4ec6035f5475270f84bf5bf2f87c5d92b72baf1473b0adc0e2995cb7e1aa"
+    }
+   ]
+  },
+  {
    "slug": "hg-105-2024",
    "path": "hg/2024/105",
    "short": "HG nr. 105/2024",
@@ -98491,6 +98527,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/211652",
      "sha256": "35daf88004019af5066cfaf52ca6af4ade8958f4ffcf1c0b1c38e3d9228f495c"
+    }
+   ]
+  },
+  {
+   "slug": "hg-106-2022",
+   "path": "hg/2022/106",
+   "short": "HG nr. 106/2022",
+   "title": "Hotărârea Guvernului nr. 106/2022 privind transmiterea cu titlu gratuit a suprafeţei de 203.500 mp, fond forestier din grupa I funcţională - vegetaţia forestieră cu funcţii speciale de protecţie, subgrupa 1.4.a - păduri special amenajate în scop recreativ (păduri-parc), din domeniul public al statului şi din administrarea Ministerului Mediului, Apelor şi Pădurilor, prin Regia Naţională a Pădurilor - Romsilva, în domeniul public al oraşului Călimăneşti, judeţul Vâlcea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/251094",
+   "versions": [
+    {
+     "from": "2022-01-25",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/251094",
+     "sha256": "d8dd11f4e82cae350eb839720154ae864838fdfc58fc966195fc96c770a37920"
     }
    ]
   },
@@ -99299,6 +99350,21 @@
    ]
   },
   {
+   "slug": "hg-107-2022",
+   "path": "hg/2022/107",
+   "short": "HG nr. 107/2022",
+   "title": "Hotărârea Guvernului nr. 107/2022 privind modificarea şi completarea descrierii tehnice, precum şi actualizarea valorii de inventar a unui bun imobil aflat în domeniul public al statului şi în administrarea Ministerului Transporturilor şi Infrastructurii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/251095",
+   "versions": [
+    {
+     "from": "2022-01-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/251095",
+     "sha256": "5be0b60d8cf5c1ae713f149bbdaaa07647b81187c8cc9510963a8d32c465e682"
+    }
+   ]
+  },
+  {
    "slug": "hg-107-2025",
    "path": "hg/2025/107",
    "short": "HG nr. 107/2025",
@@ -99811,6 +99877,21 @@
      "units": 52,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/223037",
      "sha256": "b7eadd9dfb84fd759c3f3f1d96235eda4456b1292d1c7ef9cebfd2984c2a627d"
+    }
+   ]
+  },
+  {
+   "slug": "hg-108-2022",
+   "path": "hg/2022/108",
+   "short": "HG nr. 108/2022",
+   "title": "Hotărârea Guvernului nr. 108/2022 pentru aprobarea Protocolului Sesiunii a XXXII-a a Comisiei hidrotehnice româno-ungare, semnat la Cluj-Napoca la 13 octombrie 2021, pentru aplicarea Acordului dintre Guvernul României şi Guvernul Republicii Ungare privind colaborarea pentru protecţia şi utilizarea durabilă a apelor de frontieră, semnat la Budapesta la 15 septembrie 2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/251145",
+   "versions": [
+    {
+     "from": "2022-01-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/251145",
+     "sha256": "ec55b452d7a4c859a6103f8b749e06e1410132f49d5c2ff90a7db50ba28a6366"
     }
    ]
   },
@@ -103751,6 +103832,21 @@
    ]
   },
   {
+   "slug": "hg-116-2022",
+   "path": "hg/2022/116",
+   "short": "HG nr. 116/2022",
+   "title": "Hotărârea Guvernului nr. 116/2022 privind numirea doamnei Gilia Claudia în funcţia de prefect al judeţului Dâmboviţa",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/251174",
+   "versions": [
+    {
+     "from": "2022-01-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/251174",
+     "sha256": "124b4f2048610df297e577fe777c862f086e7888bc217d0728371d952fced66f"
+    }
+   ]
+  },
+  {
    "slug": "hg-116-2025",
    "path": "hg/2025/116",
    "short": "HG nr. 116/2025",
@@ -104047,6 +104143,21 @@
      "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/146452",
      "sha256": "63480f64e7aeac39c01bc07902bc0cdd29de1f9b5799ee42c58a0e94b65b3805"
+    }
+   ]
+  },
+  {
+   "slug": "hg-117-2022",
+   "path": "hg/2022/117",
+   "short": "HG nr. 117/2022",
+   "title": "Hotărârea Guvernului nr. 117/2022 privind numirea doamnei Stănculescu Florentina în funcţia de prefect al judeţului Giurgiu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/251175",
+   "versions": [
+    {
+     "from": "2022-01-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/251175",
+     "sha256": "5e8819e93c2019ecc2a55485af73262bcecde65986b14f23aad84b171ab42d9b"
     }
    ]
   },
@@ -104609,6 +104720,21 @@
    ]
   },
   {
+   "slug": "hg-118-2022",
+   "path": "hg/2022/118",
+   "short": "HG nr. 118/2022",
+   "title": "Hotărârea Guvernului nr. 118/2022 privind numirea domnului Isuf Constantin-Alin în funcţia de prefect al judeţului Mehedinţi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/251176",
+   "versions": [
+    {
+     "from": "2022-01-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/251176",
+     "sha256": "ed881c7d3ef8b78c86613eb49d7c7fa64c90ec45a5214a276b30b531cadbb54c"
+    }
+   ]
+  },
+  {
    "slug": "hg-118-2023",
    "path": "hg/2023/118",
    "short": "HG nr. 118/2023",
@@ -105067,6 +105193,21 @@
      "units": 1,
      "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/187567",
      "sha256": "535b6981d7790e2a1ee56a64452d1b8ff901d29c9de6bf4d9907445a706f6f24"
+    }
+   ]
+  },
+  {
+   "slug": "hg-119-2022",
+   "path": "hg/2022/119",
+   "short": "HG nr. 119/2022",
+   "title": "Hotărârea Guvernului nr. 119/2022 privind numirea domnului Niţă Vasile-Adrian în funcţia de prefect al judeţului Neamţ",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/251177",
+   "versions": [
+    {
+     "from": "2022-01-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/251177",
+     "sha256": "4811f1ae38b16d4030411e22d17a5c4811f65cce6ee2d45eb65f7a0237d1ef3d"
     }
    ]
   },
@@ -105647,6 +105788,21 @@
    ]
   },
   {
+   "slug": "hg-120-2022",
+   "path": "hg/2022/120",
+   "short": "HG nr. 120/2022",
+   "title": "Hotărârea Guvernului nr. 120/2022 privind numirea domnului Ritivoiu Mihai în funcţia de prefect al judeţului Timiş",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/251178",
+   "versions": [
+    {
+     "from": "2022-01-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/251178",
+     "sha256": "76dab523528d3755bac743bb66548b9f652d14030cf723fe6db8a7e7e32359b2"
+    }
+   ]
+  },
+  {
    "slug": "hg-120-2025",
    "path": "hg/2025/120",
    "short": "HG nr. 120/2025",
@@ -106078,6 +106234,21 @@
      "units": 1,
      "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/187569",
      "sha256": "a20a0d30cec26a9ec32e74a206904c832d956f2012ea32d6222b18a50ad76560"
+    }
+   ]
+  },
+  {
+   "slug": "hg-121-2022",
+   "path": "hg/2022/121",
+   "short": "HG nr. 121/2022",
+   "title": "Hotărârea Guvernului nr. 121/2022 privind numirea domnului Munteanu Alexandru-Dan în funcţia de prefect al judeţului Tulcea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/251179",
+   "versions": [
+    {
+     "from": "2022-01-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/251179",
+     "sha256": "631368708ed3fc0bd91265b2ca0f0dd00a03cb49ef0c3a0267328813df620aca"
     }
    ]
   },
@@ -106591,6 +106762,21 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/289193",
      "sha256": "90e2a27b5ec34be0ec719b7295783f02651e8c8ad62be1043f39030896508899"
+    }
+   ]
+  },
+  {
+   "slug": "hg-122-2022",
+   "path": "hg/2022/122",
+   "short": "HG nr. 122/2022",
+   "title": "Hotărârea Guvernului nr. 122/2022 privind numirea domnului Sulincean Marius-Mircea în funcţia de subprefect al judeţului Arad",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/251180",
+   "versions": [
+    {
+     "from": "2022-01-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/251180",
+     "sha256": "68d10bd13b1189739062e5b5a9fbfe01c0e7a4e9da308e77fd992dddea48c0e6"
     }
    ]
   },
@@ -107258,6 +107444,21 @@
    ]
   },
   {
+   "slug": "hg-124-2022",
+   "path": "hg/2022/124",
+   "short": "HG nr. 124/2022",
+   "title": "Hotărârea Guvernului nr. 124/2022 privind numirea domnului Urdea Gheorghe-Bogdan în funcţia de subprefect al judeţului Hunedoara",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/251182",
+   "versions": [
+    {
+     "from": "2022-01-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/251182",
+     "sha256": "ce3443772319f4800beafd5863a44aa9504726cb9bfbcd1adab9f606f85282f7"
+    }
+   ]
+  },
+  {
    "slug": "hg-124-2023",
    "path": "hg/2023/124",
    "short": "HG nr. 124/2023",
@@ -107545,6 +107746,21 @@
      "units": 2,
      "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/227146",
      "sha256": "28b2aaa013545fa28da6e0208d006e57391562eab91d3e166673caf079a60382"
+    }
+   ]
+  },
+  {
+   "slug": "hg-125-2022",
+   "path": "hg/2022/125",
+   "short": "HG nr. 125/2022",
+   "title": "Hotărârea Guvernului nr. 125/2022 privind numirea domnului Pavel Cristinel în funcţia de subprefect al judeţului Mehedinţi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/251183",
+   "versions": [
+    {
+     "from": "2022-01-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/251183",
+     "sha256": "9a616b5c916c02d86c987266057fa5d23f4f9c1661bb4f39e55da449fe0e5d5d"
     }
    ]
   },
@@ -108098,6 +108314,21 @@
    ]
   },
   {
+   "slug": "hg-126-2022",
+   "path": "hg/2022/126",
+   "short": "HG nr. 126/2022",
+   "title": "Hotărârea Guvernului nr. 126/2022 privind numirea domnului Florian Florin în funcţia de subprefect al judeţului Sălaj",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/251184",
+   "versions": [
+    {
+     "from": "2022-01-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/251184",
+     "sha256": "7f10c5b16e6c7441c36cffdbedbbb15e05e9c0ec54c28e33d2f4683cef17011e"
+    }
+   ]
+  },
+  {
    "slug": "hg-126-2024",
    "path": "hg/2024/126",
    "short": "HG nr. 126/2024",
@@ -108493,6 +108724,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/116603",
      "sha256": "ca7fd7a02134337743c12706a01dcad1c9774b20e1f281083f71338044ed3aa5"
+    }
+   ]
+  },
+  {
+   "slug": "hg-127-2022",
+   "path": "hg/2022/127",
+   "short": "HG nr. 127/2022",
+   "title": "Hotărârea Guvernului nr. 127/2022 privind numirea domnului Şologon Ioan-Cristian în funcţia de subprefect al judeţului Suceava",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/251185",
+   "versions": [
+    {
+     "from": "2022-01-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/251185",
+     "sha256": "39e18c6917f737f37d09d0180b51c6575aee8c295cb8a212f95bf52f6a0f663f"
     }
    ]
   },
@@ -176947,6 +177193,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/211256",
      "sha256": "e1e5e06477717cae45972d395b1ab55475c0fd3c19f988b9b742044e75a7d939"
+    }
+   ]
+  },
+  {
+   "slug": "hg-99-2022",
+   "path": "hg/2022/99",
+   "short": "HG nr. 99/2022",
+   "title": "Hotărârea Guvernului nr. 99/2022 privind înscrierea unor bunuri imobile în inventarul centralizat al bunurilor din domeniul public al statului şi darea în administrarea Administraţiei Naţionale \"Apele Române\", prin Administraţiile Bazinale de Apă Buzău - Ialomiţa, Dobrogea - Litoral şi Prut - Bârlad, instituţie publică în coordonarea Ministerului Mediului, Apelor şi Pădurilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/251084",
+   "versions": [
+    {
+     "from": "2022-01-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/251084",
+     "sha256": "72f31fc24226ae08e55637417b5fd941ea30b830f7dcac2999d38837f3252ed0"
     }
    ]
   },
