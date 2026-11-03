@@ -1,6 +1,6 @@
 # Every act in this repository
 
-11968 acts, 25,542 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+11969 acts, 25,543 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -32,7 +32,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (2372, of which 1072 amending acts)
+## Laws (legi) (2373, of which 1073 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -1308,6 +1308,7 @@
 | Legea nr. 180/2019 pentru declararea zilei de 30 octombrie - Ziua pacientului cu arsuri | [`lege/2019/180/`](lege/2019/180/) | in force | 1 | 2019-10-14 | 2019-10-14 |
 | Legea nr. 181/2019 privind instituirea zilei de 12 octombrie - Ziua limbii, alfabetului și culturii armene | [`lege/2019/181/`](lege/2019/181/) | in force | 1 | 2019-10-14 | 2019-10-14 |
 | Legea nr. 188/2019 pentru modificarea şi completarea Legii nr. 211/2011 privind regimul deşeurilor | [`lege/2019/188/`](lege/2019/188/) | amending act | 1 | 2019-10-31 | 2019-10-31 |
+| Legea nr. 189/2019 pentru modificarea şi completarea Ordonanţei Guvernului nr. 43/1997 privind regimul drumurilor | [`lege/2019/189/`](lege/2019/189/) | amending act | 1 | 2019-10-31 | 2019-10-31 |
 | Legea nr. 190/2019 pentru modificarea Legii nr. 351/2001 privind aprobarea Planului de amenajare a teritoriului naţional - Secţiunea a IV-a - Reţeaua de localităţi | [`lege/2019/190/`](lege/2019/190/) | amending act | 1 | 2019-10-31 | 2019-10-31 |
 | Legea nr. 193/2019 pentru modificarea și completarea Legii nr. 50/1991 privind autorizarea executării lucrărilor de construcții | [`lege/2019/193/`](lege/2019/193/) | amending act | 1 | 2019-11-02 | 2019-11-02 |
 | Legea nr. 195/2019 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 56/2018 pentru completarea Legii nr. 15/1990 privind reorganizarea unităţilor economice de stat ca regii autonome şi societăţi comerciale | [`lege/2019/195/`](lege/2019/195/) | amending act | 1 | 2019-11-02 | 2019-11-02 |

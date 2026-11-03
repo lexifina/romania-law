@@ -211922,6 +211922,21 @@
    ]
   },
   {
+   "slug": "legea-189-2019",
+   "path": "lege/2019/189",
+   "short": "Legea nr. 189/2019",
+   "title": "Legea nr. 189/2019 pentru modificarea şi completarea Ordonanţei Guvernului nr. 43/1997 privind regimul drumurilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/219131",
+   "versions": [
+    {
+     "from": "2019-10-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/219131",
+     "sha256": "332e2962055447c12f406ca65ce6681b3fe90642ba3ee27a98dd2992f379958e"
+    }
+   ]
+  },
+  {
    "slug": "legea-189-2020",
    "path": "lege/2020/189",
    "short": "Legea nr. 189/2020",

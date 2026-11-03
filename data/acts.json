@@ -21643,6 +21643,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/219129"
 },
 {
+"slug": "legea-189-2019",
+"path": "lege/2019/189",
+"kind": "lege",
+"year": "2019",
+"number": "189",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 189/2019 pentru modificarea şi completarea Ordonanţei Guvernului nr. 43/1997 privind regimul drumurilor",
+"short": "Legea nr. 189/2019",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2019-10-31",
+"latest": "2019-10-31",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/219131"
+},
+{
 "slug": "legea-190-2019",
 "path": "lege/2019/190",
 "kind": "lege",
