@@ -40,3 +40,9 @@ Act id: `oug-24-2007` (tags `oug-24-2007/<day>`; `python tools/on.py <day> oug-2
 - OUG nr. 24/2007: the form of 22 July 2012 prints the quoted art. VIII that the earlier form leaves out. Text an amending act quotes stays as published, and a later form that prints the target's newer wording inside the quotation is the publisher's: the printed text is kept, dated by that form, and no law is credited.
 - OUG nr. 24/2007: the portal editorial notes printed as paragraphs of an article (on a Constitutional Court ruling, a rectification, a provision put back in force) are not text: 54 such paragraphs across all forms, for example «* Art. unic din LEGEA nr. 379 din 10 decembrie 2009 publicat», «Alin. (1) al art. 18 a fost repus în situația anterioara mod», «Art. VII și VIII din ORDONANȚA DE URGENȚĂ nr. 3 din 11 febru».
 - OUG nr. 24/2007: 7 changed article(s) with no note naming a law, committed as the publisher's: 2008-12-24 art-001, 2008-12-24 art-004, 2008-12-24 art-006, 2009-02-11 art-010, 2009-03-09 art-010, 2009-12-17 art-010, 2012-07-22 art-010.
+
+## Credits corrected
+
+These changes were first published credited to another law. The words are unchanged; `git blame` still names the commit that wrote them, and `data/credits.csv` lists every corrected credit.
+
+- `art-018.md`, in force from 2009-12-17: Legea nr. 379/2009 (first published as no law named).
