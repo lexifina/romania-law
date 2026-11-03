@@ -35015,6 +35015,51 @@
    ]
   },
   {
+   "slug": "legea-198-2004",
+   "path": "lege/2004/198",
+   "short": "Legea nr. 198/2004",
+   "title": "Legea nr. 198/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/191079",
+   "versions": [
+    {
+     "from": "2004-06-03",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/52345",
+     "sha256": "77699e7aba393b83ee2bfe02830f6efedee1ac45f644a2e16e75acd0ab0309ef"
+    },
+    {
+     "from": "2007-06-29",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/99111",
+     "sha256": "475ea1a6ba8bf39b3baf3689f2defb6fc778ed42087cc376cb3bfdd770bc5eeb"
+    },
+    {
+     "from": "2008-11-03",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/99112",
+     "sha256": "733b8ca153de6c90c3504594b8f9d3e96f76ef0ad2e2ba8295cc405d4e27193b"
+    },
+    {
+     "from": "2009-01-05",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/101031",
+     "sha256": "58d0ffd54022debe13f92add7a0680472970d859151e636b48a64a8fac85240c"
+    },
+    {
+     "from": "2009-03-20",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/191079",
+     "sha256": "55c1d67bdf414d9f2e44cb06878f8545902dc411eb665b05e0f74e9470e978bf"
+    },
+    {
+     "from": "2010-12-23",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/124540",
+     "sha256": "ec5d5eadb31a81c2c52a1421e098ebeb97f0be26889d5c06b02399e038c4ccb2"
+    }
+   ]
+  },
+  {
    "slug": "legea-198-2015",
    "path": "lege/2015/198",
    "short": "Legea nr. 198/2015",
@@ -37108,6 +37153,21 @@
      "units": 8,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/257536",
      "sha256": "c08d5afa6f7c5aa336ae5ac4c6882172f405ae02bf20839799897320e2f42d13"
+    }
+   ]
+  },
+  {
+   "slug": "legea-216-2023",
+   "path": "lege/2023/216",
+   "short": "Legea nr. 216/2023",
+   "title": "Legea nr. 216/2023 pentru modificarea și completarea Legii nr. 227/2015 privind Codul fiscal",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/272034",
+   "versions": [
+    {
+     "from": "2023-07-14",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/272034",
+     "sha256": "d063d6de15a57cde5d6c53cc09545e8d3c4810e02fc177cf5f686e3dbe3f4591"
     }
    ]
   },
@@ -91196,6 +91256,36 @@
    ]
   },
   {
+   "slug": "hg-1095-2023",
+   "path": "hg/2023/1095",
+   "short": "HG nr. 1095/2023",
+   "title": "Hotărârea Guvernului nr. 1095/2023 privind aprobarea stemei oraşului Băile Tuşnad, judeţul Harghita",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/276421",
+   "versions": [
+    {
+     "from": "2023-11-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/276421",
+     "sha256": "14f2d5aee30f5146c9b6ad1ba0603387d3516bee615749f553dfc74615da82a5"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1096-2023",
+   "path": "hg/2023/1096",
+   "short": "HG nr. 1096/2023",
+   "title": "Hotărârea Guvernului nr. 1096/2023 privind aprobarea stemei comunei Eremitu, judeţul Mureş",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/276422",
+   "versions": [
+    {
+     "from": "2023-11-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/276422",
+     "sha256": "9f5182e599c49a74a433ec3f441c0c3c0ec21f65e08ca2db8ef7720dae27fa61"
+    }
+   ]
+  },
+  {
    "slug": "hg-1096-2024",
    "path": "hg/2024/1096",
    "short": "HG nr. 1096/2024",
@@ -91226,6 +91316,21 @@
    ]
   },
   {
+   "slug": "hg-1097-2023",
+   "path": "hg/2023/1097",
+   "short": "HG nr. 1097/2023",
+   "title": "Hotărârea Guvernului nr. 1097/2023 privind aprobarea stemei comunei Robeasca, judeţul Buzău",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/276423",
+   "versions": [
+    {
+     "from": "2023-11-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/276423",
+     "sha256": "0a994e1da2b6b0de279502657084a15ac0c285a2826ae3a6c925702aa20b6cac"
+    }
+   ]
+  },
+  {
    "slug": "hg-1097-2024",
    "path": "hg/2024/1097",
    "short": "HG nr. 1097/2024",
@@ -91252,6 +91357,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/247378",
      "sha256": "717a794accf2d6de8d583c52f3681be0c0ad278bb57a9cd6e12c439f80c12122"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1098-2023",
+   "path": "hg/2023/1098",
+   "short": "HG nr. 1098/2023",
+   "title": "Hotărârea Guvernului nr. 1098/2023 privind aprobarea modelului steagului comunei Suhaia, judeţul Teleorman",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/276424",
+   "versions": [
+    {
+     "from": "2023-11-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/276424",
+     "sha256": "e0b19bd3b3df2a340f36bb943300c002ec824047c09bc58e12161ad8ca7dd3ee"
     }
    ]
   },
@@ -91523,6 +91643,21 @@
    ]
   },
   {
+   "slug": "hg-1105-2023",
+   "path": "hg/2023/1105",
+   "short": "HG nr. 1105/2023",
+   "title": "Hotărârea Guvernului nr. 1105/2023 privind aprobarea bugetului Trezoreriei Statului pe anul 2024",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/276394",
+   "versions": [
+    {
+     "from": "2023-11-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/276394",
+     "sha256": "63a7ac705f5331bcafa0e4520c52c4d605b93e5f7188fe5debcb52c462db294c"
+    }
+   ]
+  },
+  {
    "slug": "hg-1105-2024",
    "path": "hg/2024/1105",
    "short": "HG nr. 1105/2024",
@@ -91568,6 +91703,21 @@
    ]
   },
   {
+   "slug": "hg-1108-2023",
+   "path": "hg/2023/1108",
+   "short": "HG nr. 1108/2023",
+   "title": "Hotărârea Guvernului nr. 1108/2023 privind alocarea unor sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2023, pentru suplimentarea bugetului Serviciului de Protecţie şi Pază pe anul 2023",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/276397",
+   "versions": [
+    {
+     "from": "2023-11-16",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/276397",
+     "sha256": "e1b0c33aa8582351410c4f8c55795255aed555c47ad32c9035ca5aea500e538f"
+    }
+   ]
+  },
+  {
    "slug": "hg-1108-2024",
    "path": "hg/2024/1108",
    "short": "HG nr. 1108/2024",
@@ -91579,6 +91729,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/288280",
      "sha256": "e8e0239d4a395cb68b107feab5f2010ec00c3d5953f73e5a780deb2cdae2cdae"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1109-2023",
+   "path": "hg/2023/1109",
+   "short": "HG nr. 1109/2023",
+   "title": "Hotărârea Guvernului nr. 1109/2023 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2023, pentru suplimentarea bugetului Ministerului Dezvoltării, Lucrărilor Publice şi Administraţiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/276398",
+   "versions": [
+    {
+     "from": "2023-11-16",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/276398",
+     "sha256": "604ecbae533e5702482a0d16774d47662d84e65b431fa7c0ae729f7e9861608d"
     }
    ]
   },
@@ -91634,6 +91799,21 @@
    ]
   },
   {
+   "slug": "hg-1110-2023",
+   "path": "hg/2023/1110",
+   "short": "HG nr. 1110/2023",
+   "title": "Hotărârea Guvernului nr. 1110/2023 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2023, pentru suplimentarea bugetului Ministerului Agriculturii şi Dezvoltării Rurale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/276399",
+   "versions": [
+    {
+     "from": "2023-11-16",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/276399",
+     "sha256": "fdb08c49aac0f687a7dde6da10414c49eaced2304192dd1ad13ff9cc1b46c14b"
+    }
+   ]
+  },
+  {
    "slug": "hg-1110-2024",
    "path": "hg/2024/1110",
    "short": "HG nr. 1110/2024",
@@ -91649,6 +91829,21 @@
    ]
   },
   {
+   "slug": "hg-1111-2023",
+   "path": "hg/2023/1111",
+   "short": "HG nr. 1111/2023",
+   "title": "Hotărârea Guvernului nr. 1111/2023 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2023, pentru suplimentarea bugetului Înaltei Curţi de Casaţie şi Justiţie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/276400",
+   "versions": [
+    {
+     "from": "2023-11-16",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/276400",
+     "sha256": "00d061ad4df54623932bdb55a2a9d70ef779e2366ac6390d0075395aec04a891"
+    }
+   ]
+  },
+  {
    "slug": "hg-1112-2003",
    "path": "hg/2003/1112",
    "short": "HG nr. 1112/2003",
@@ -91660,6 +91855,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/46576",
      "sha256": "787a990a663fec773050440c8428ce6336a60a1fcc903cedfe19135af4cf3ea2"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1112-2023",
+   "path": "hg/2023/1112",
+   "short": "HG nr. 1112/2023",
+   "title": "Hotărârea Guvernului nr. 1112/2023 pentru reaprobarea indicatorilor tehnico-economici aferenţi obiectivului de investiţii \"Drum expres Arad-Oradea\", judeţele Arad şi Bihor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/276425",
+   "versions": [
+    {
+     "from": "2023-11-17",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/276425",
+     "sha256": "8714a0b4f8494f894abfcb4a90d6a65a05a6054baa113d3d0ebc9efb562d627f"
     }
    ]
   },
@@ -91762,6 +91972,21 @@
      "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/269956",
      "sha256": "f7495b7658eff864440e451b3fa41877ae8239fd70508e1bf3c1c506112363ac"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1119-2023",
+   "path": "hg/2023/1119",
+   "short": "HG nr. 1119/2023",
+   "title": "Hotărârea Guvernului nr. 1119/2023 privind declanşarea procedurilor de expropriere a tuturor imobilelor proprietate privată situate pe amplasamentul suplimentar, aprobarea listei imobilelor proprietate publică a statului, precum şi aprobarea listei imobilelor proprietate publică a unităţilor administrativ-teritoriale, care fac parte din coridorul de expropriere al lucrării de utilitate publică de interes naţional \"Autostrada Focşani-Bacău\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/276544",
+   "versions": [
+    {
+     "from": "2023-11-23",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/276544",
+     "sha256": "35c16d41f445568889c12bb66a46a33afb2109e2d3da51175d889cf71939ac2e"
     }
    ]
   },
@@ -92105,6 +92330,21 @@
    ]
   },
   {
+   "slug": "hg-1127-2023",
+   "path": "hg/2023/1127",
+   "short": "HG nr. 1127/2023",
+   "title": "Hotărârea Guvernului nr. 1127/2023 pentru actualizarea datelor de identificare ale imobilului cu nr. MF 155277, ca urmare a schimbării unităţii de administrare între structuri subordonate Ministerului Afacerilor Interne şi a reevaluării",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/276476",
+   "versions": [
+    {
+     "from": "2023-11-21",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/276476",
+     "sha256": "f9bb7e36726d5054400ee9ebcf84ccb3ad2e96974e3d053a124ddd43639c5589"
+    }
+   ]
+  },
+  {
    "slug": "hg-1128-2020",
    "path": "hg/2020/1128",
    "short": "HG nr. 1128/2020",
@@ -92116,6 +92356,36 @@
      "units": 6,
      "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/235809",
      "sha256": "9efc2c875e9c23013aaaf3e65cfe0ea15579c3d393b3d730dd4c16a1ac775c2f"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1128-2023",
+   "path": "hg/2023/1128",
+   "short": "HG nr. 1128/2023",
+   "title": "Hotărârea Guvernului nr. 1128/2023 privind înscrierea unui imobil în inventarul centralizat al bunurilor din domeniul public al statului şi darea acestuia în administrarea Ministerului Afacerilor Interne - Inspectoratul Judeţean de Poliţie Vaslui",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/276477",
+   "versions": [
+    {
+     "from": "2023-11-21",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/276477",
+     "sha256": "1e599e5f573245f0694af5d76c76fc85edb9500b9cccce64642c64ed79828347"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1129-2023",
+   "path": "hg/2023/1129",
+   "short": "HG nr. 1129/2023",
+   "title": "Hotărârea Guvernului nr. 1129/2023 privind actualizarea valorii de inventar a unui imobil aflat în domeniul public al statului şi administrarea Instituţiei Prefectului - Judeţul Mehedinţi din subordinea Ministerului Afacerilor Interne",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/276478",
+   "versions": [
+    {
+     "from": "2023-11-21",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/276478",
+     "sha256": "ba2cbdc875f3ccaac6d2b73d94f8a953325f30b5733d9467be0163a925eedb38"
     }
    ]
   },
@@ -92206,6 +92476,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/247646",
      "sha256": "f1bce58ccf7a90793d7600b639182d14b4ba22317111dda86bffdb4741bfdefa"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1130-2023",
+   "path": "hg/2023/1130",
+   "short": "HG nr. 1130/2023",
+   "title": "Hotărârea Guvernului nr. 1130/2023 privind înscrierea unor imobile în inventarul centralizat al bunurilor din domeniul public al statului şi darea acestora în administrarea unor unităţi din subordinea Ministerului Afacerilor Interne",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/276479",
+   "versions": [
+    {
+     "from": "2023-11-21",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/276479",
+     "sha256": "635d8639d8220f70214b8fc7dcf1d04d6c671e946e652624ea0446307c9d6acd"
     }
    ]
   },
@@ -92359,6 +92644,21 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/288371",
      "sha256": "212432155b338790307e42672adf9bf47a17e30a92e3b918f3dd0411627edd6f"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1134-2023",
+   "path": "hg/2023/1134",
+   "short": "HG nr. 1134/2023",
+   "title": "Hotărârea Guvernului nr. 1134/2023 pentru aprobarea indicatorilor tehnico-economici aferenţi obiectivului de investiţii \"Muzeul Naţional de Istorie a Evreilor şi al Holocaustului din România\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/276480",
+   "versions": [
+    {
+     "from": "2023-11-21",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/276480",
+     "sha256": "01aeb696003edadaea6716a4b76809a02e66e713ccfc8f75294f1f97fa10008b"
     }
    ]
   },
