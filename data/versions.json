@@ -46685,6 +46685,33 @@
    ]
   },
   {
+   "slug": "og-53-2005",
+   "path": "og/2005/53",
+   "short": "OG nr. 53/2005",
+   "title": "Ordonanța Guvernului nr. 53/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/72331",
+   "versions": [
+    {
+     "from": "2005-09-04",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/64687",
+     "sha256": "e005377a9bfb202082bc55a24d44f0f122f8deef9966decbf7b71199aea44b20"
+    },
+    {
+     "from": "2006-02-03",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/69980",
+     "sha256": "25cb67b2809099ec8d6ed0d7c12ca07ee3fb71a5de795a9f70a11a78dfcd8c44"
+    },
+    {
+     "from": "2006-05-21",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/72331",
+     "sha256": "66347b03e98040dd597dd7401ee69401a3a33f3dc0817f5ddc60ff7fb84eb48c"
+    }
+   ]
+  },
+  {
    "slug": "og-55-2002",
    "path": "og/2002/55",
    "short": "OG nr. 55/2002",

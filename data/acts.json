@@ -59281,6 +59281,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/209893"
 },
 {
+"slug": "og-53-2005",
+"path": "og/2005/53",
+"kind": "og",
+"year": "2005",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța Guvernului nr. 53/2005",
+"short": "OG nr. 53/2005",
+"code": null,
+"status": "in force",
+"versions": 3,
+"from": "2005-09-04",
+"latest": "2006-05-21",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/72331"
+},
+{
 "slug": "og-54-2005",
 "path": "og/2005/54",
 "kind": "og",

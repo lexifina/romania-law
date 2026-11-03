@@ -1,6 +1,6 @@
 # Every act in this repository
 
-6073 acts, 17,443 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+6074 acts, 17,446 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -3309,7 +3309,7 @@
 | Ordonanța de urgență a Guvernului nr. 78/2025 pentru modificarea Legii nr. 239/2025 privind stabilirea unor măsuri de redresare și eficientizare a resurselor publice și pentru modificarea și completarea unor acte normative | [`oug/2025/78/`](oug/2025/78/) | amending act | 1 | 2025-12-17 | 2025-12-17 |
 | Ordonanța de urgență a Guvernului nr. 87/2025 pentru stabilirea unor măsuri bugetare privind implementarea programelor naționale din domeniul lucrărilor publice | [`oug/2025/87/`](oug/2025/87/) | in force | 1 | 2025-12-24 | 2025-12-24 |
 
-## Ordinances (OG) (449, of which 87 amending acts)
+## Ordinances (OG) (450, of which 87 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -3532,6 +3532,7 @@
 | Ordonanța Guvernului nr. 47/2005 | [`og/2005/47/`](og/2005/47/) | in force | 3 | 2005-08-29 | 2010-02-02 |
 | Ordonanța Guvernului nr. 49/2005 | [`og/2005/49/`](og/2005/49/) | in force | 2 | 2005-08-29 | 2006-04-07 |
 | Ordonanța Guvernului nr. 51/2005 | [`og/2005/51/`](og/2005/51/) | in force | 2 | 2005-09-03 | 2006-03-13 |
+| Ordonanța Guvernului nr. 53/2005 | [`og/2005/53/`](og/2005/53/) | in force | 3 | 2005-09-04 | 2006-05-21 |
 | Ordonanța Guvernului nr. 54/2005 | [`og/2005/54/`](og/2005/54/) | in force | 2 | 2005-09-05 | 2006-01-20 |
 | Ordonanța Guvernului nr. 2/2006 | [`og/2006/2/`](og/2006/2/) | in force | 2 | 2006-01-23 | 2006-11-27 |
 | Ordonanța Guvernului nr. 5/2006 | [`og/2006/5/`](og/2006/5/) | in force | 2 | 2006-01-29 | 2006-05-25 |
