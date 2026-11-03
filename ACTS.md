@@ -1,6 +1,6 @@
 # Every act in this repository
 
-14957 acts, 28,577 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+14958 acts, 28,578 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -4847,7 +4847,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (10119, of which 4673 amending acts)
+## Government decisions (HG) (10120, of which 4674 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -6468,6 +6468,7 @@
 | Hotărârea Guvernului nr. 1547/2007 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2007, pentru judeţul Suceava | [`hg/2007/1547/`](hg/2007/1547/) | in force | 1 | 2007-12-20 | 2007-12-20 |
 | Hotărârea Guvernului nr. 1549/2007 pentru modificarea Hotărârii Guvernului nr. 141/2007 privind aprobarea activităţilor pentru care se acordă sprijin financiar producătorilor agricoli din sectorul zootehnic, în anul 2007, a cuantumului acestuia, precum şi a sumei totale alocate fiecărei activităţi | [`hg/2007/1549/`](hg/2007/1549/) | amending act | 1 | 2007-12-20 | 2007-12-20 |
 | Hotărârea Guvernului nr. 1557/2007 privind aprobarea numărului de personal disponibilizat prin concedieri colective ce vor fi efectuate de Societatea Comercială "ORLATEX" - S.A. Orlat, aflată în portofoliul Autorităţii pentru Valorificarea Activelor Statului | [`hg/2007/1557/`](hg/2007/1557/) | amending act | 1 | 2007-12-20 | 2007-12-20 |
+| Hotărârea Guvernului nr. 1561/2007 privind aprobarea contractării unui împrumut extern, sub forma unei emisiuni de obligaţiuni pe pieţele externe de capital, denominată în euro | [`hg/2007/1561/`](hg/2007/1561/) | amending act | 1 | 2007-12-21 | 2007-12-21 |
 | Hotărârea Guvernului nr. 1575/2007 privind suplimentarea bugetului Ministerului Culturii şi Cultelor pe anul 2007, din Fondul de rezervă bugetară la dispoziţia Guvernului | [`hg/2007/1575/`](hg/2007/1575/) | in force | 1 | 2007-12-20 | 2007-12-20 |
 | Hotărârea Guvernului nr. 1588/2007 pentru aprobarea Normelor metodologice de aplicare a Legii nr. 230/2007 privind înființarea, organizarea și funcționarea asociațiilor de proprietari | [`hg/2007/1588/`](hg/2007/1588/) | amending act | 1 | 2008-01-18 | 2008-01-18 |
 | Hotărârea Guvernului nr. 2/2008 | [`hg/2008/2/`](hg/2008/2/) | in force | 1 | 2008-01-10 | 2008-01-10 |
