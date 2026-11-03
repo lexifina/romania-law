@@ -10007,6 +10007,21 @@
    ]
   },
   {
+   "slug": "hg-1066-2008",
+   "path": "hg/2008/1066",
+   "short": "HG nr. 1066/2008",
+   "title": "Hotărârea Guvernului nr. 1066/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97567",
+   "versions": [
+    {
+     "from": "2008-09-24",
+     "units": 47,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/97567",
+     "sha256": "b4a106ece004807b58274940ee32e24d1f66cb4032b5470e960252aad8182663"
+    }
+   ]
+  },
+  {
    "slug": "hg-1069-2013",
    "path": "hg/2013/1069",
    "short": "HG nr. 1069/2013",
@@ -20507,6 +20522,27 @@
    ]
   },
   {
+   "slug": "hg-612-2010",
+   "path": "hg/2010/612",
+   "short": "HG nr. 612/2010",
+   "title": "Hotărârea Guvernului nr. 612/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/151813",
+   "versions": [
+    {
+     "from": "2010-07-01",
+     "units": 61,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/120021",
+     "sha256": "1368062b7a924eaf83e9a14b9bd5552b6ac8b71e995a36a69d6cc42949d86488"
+    },
+    {
+     "from": "2013-10-07",
+     "units": 61,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/151813",
+     "sha256": "6d03c0dc846a7db6cabc3b7f43b68b8205358df2171fcf52358dc4a684f2bfd2"
+    }
+   ]
+  },
+  {
    "slug": "hg-617-2003",
    "path": "hg/2003/617",
    "short": "HG nr. 617/2003",
@@ -22127,6 +22163,21 @@
    ]
   },
   {
+   "slug": "hg-727-2013",
+   "path": "hg/2013/727",
+   "short": "HG nr. 727/2013",
+   "title": "Hotărârea Guvernului nr. 727/2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/151622",
+   "versions": [
+    {
+     "from": "2013-10-30",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/151622",
+     "sha256": "42472ef3bd35bc8788e7a7cb44a36b95b37012f3d06fa9161c75bfc0530f6a2e"
+    }
+   ]
+  },
+  {
    "slug": "hg-73-2000",
    "path": "hg/2000/73",
    "short": "HG nr. 73/2000",
@@ -23176,6 +23227,27 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/256869",
      "sha256": "735c6b935d4e9046e502c98285cdbcac833d1413a54e377fd0e19b57f136f922"
+    }
+   ]
+  },
+  {
+   "slug": "hg-831-1997",
+   "path": "hg/1997/831",
+   "short": "HG nr. 831/1997",
+   "title": "Hotărârea Guvernului nr. 831/1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/79321",
+   "versions": [
+    {
+     "from": "1997-12-19",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/13651",
+     "sha256": "abe6d127c7e73774df650f56b3918f77a1f704d482e9fdc7795ac5c3747885d6"
+    },
+    {
+     "from": "1998-01-26",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/62757",
+     "sha256": "f64ea4f4a9ddb6a81e082e15a1d552a31f82670d31f3560a9efb5d7e320e58ae"
     }
    ]
   },

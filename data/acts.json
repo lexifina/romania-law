@@ -66489,6 +66489,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/13606"
 },
 {
+"slug": "hg-831-1997",
+"path": "hg/1997/831",
+"kind": "hg",
+"year": "1997",
+"number": "831",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 831/1997",
+"short": "HG nr. 831/1997",
+"code": null,
+"status": "in force",
+"versions": 2,
+"from": "1997-12-19",
+"latest": "1998-01-26",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/79321"
+},
+{
 "slug": "hg-837-1997",
 "path": "hg/1997/837",
 "kind": "hg",
@@ -80225,6 +80242,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/97365"
 },
 {
+"slug": "hg-1066-2008",
+"path": "hg/2008/1066",
+"kind": "hg",
+"year": "2008",
+"number": "1066",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 1066/2008",
+"short": "HG nr. 1066/2008",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2008-09-24",
+"latest": "2008-09-24",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/97567"
+},
+{
 "slug": "hg-1068-2008",
 "path": "hg/2008/1068",
 "kind": "hg",
@@ -83215,6 +83249,23 @@
 "from": "2010-07-28",
 "latest": "2012-10-29",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/142390"
+},
+{
+"slug": "hg-612-2010",
+"path": "hg/2010/612",
+"kind": "hg",
+"year": "2010",
+"number": "612",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 612/2010",
+"short": "HG nr. 612/2010",
+"code": null,
+"status": "in force",
+"versions": 2,
+"from": "2010-07-01",
+"latest": "2013-10-07",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/151813"
 },
 {
 "slug": "hg-707-2010",
@@ -87550,6 +87601,23 @@
 "from": "2013-09-05",
 "latest": "2013-09-05",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/151216"
+},
+{
+"slug": "hg-727-2013",
+"path": "hg/2013/727",
+"kind": "hg",
+"year": "2013",
+"number": "727",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 727/2013",
+"short": "HG nr. 727/2013",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2013-10-30",
+"latest": "2013-10-30",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/151622"
 },
 {
 "slug": "hg-730-2013",

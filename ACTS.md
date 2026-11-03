@@ -1,6 +1,6 @@
 # Every act in this repository
 
-7688 acts, 20,395 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+7692 acts, 20,401 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -3893,7 +3893,7 @@
 | Ordonanța Guvernului nr. 21/2025 pentru modificarea și completarea Legii nr. 431/2023 privind asigurarea unui nivel minim global de impozitare a grupurilor de întreprinderi multinaționale și a grupurilor naționale de mari dimensiuni | [`og/2025/21/`](og/2025/21/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 | Ordonanța Guvernului nr. 22/2025 pentru modificarea și completarea Legii nr. 227/2015 privind Codul fiscal | [`og/2025/22/`](og/2025/22/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 
-## Government decisions (HG) (3803, of which 1390 amending acts)
+## Government decisions (HG) (3807, of which 1390 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -3961,6 +3961,7 @@
 | Hotărârea Guvernului nr. 766/1997 | [`hg/1997/766/`](hg/1997/766/) | in force | 4 | 1997-12-10 | 2017-10-19 |
 | Hotărârea Guvernului nr. 767/1997 privind înfiinţarea Societăţii Naţionale a Sării - S.A | [`hg/1997/767/`](hg/1997/767/) | in force | 2 | 1997-11-28 | 1998-03-18 |
 | Hotărârea Guvernului nr. 786/1997 | [`hg/1997/786/`](hg/1997/786/) | in force | 1 | 1997-12-15 | 1997-12-15 |
+| Hotărârea Guvernului nr. 831/1997 | [`hg/1997/831/`](hg/1997/831/) | in force | 2 | 1997-12-19 | 1998-01-26 |
 | Hotărârea Guvernului nr. 837/1997 privind acordarea ajutorului anual pentru acoperirea unei părţi din costul chiriei, energiei electrice şi energiei termice pentru nevoi casnice, cuvenit veteranilor de război, văduvelor de război, precum şi accidentaţilor de război în afară serviciului ordonat | [`hg/1997/837/`](hg/1997/837/) | in force | 2 | 1997-12-12 | 1997-12-30 |
 | Hotărârea Guvernului nr. 863/1997 | [`hg/1997/863/`](hg/1997/863/) | in force | 1 | 1997-12-24 | 1997-12-24 |
 | Hotărârea Guvernului nr. 870/1997 privind autorizarea Ministerului Finanţelor de a garanta un credit extern pentru Ministerul Sănătăţii, în vederea finanţării achiziţionării de echipamente medicale de înalta performanta pentru chirurgia endoscopică | [`hg/1997/870/`](hg/1997/870/) | in force | 3 | 1997-12-30 | 1999-03-11 |
@@ -4769,6 +4770,7 @@
 | Hotărârea Guvernului nr. 1061/2008 privind transportul deșeurilor periculoase și nepericuloase pe teritoriul României | [`hg/2008/1061/`](hg/2008/1061/) | in force | 1 | 2008-12-29 | 2008-12-29 |
 | Hotărârea Guvernului nr. 1062/2008 | [`hg/2008/1062/`](hg/2008/1062/) | in force | 1 | 2008-09-16 | 2008-09-16 |
 | Hotărârea Guvernului nr. 1065/2008 | [`hg/2008/1065/`](hg/2008/1065/) | in force | 1 | 2008-09-16 | 2008-09-16 |
+| Hotărârea Guvernului nr. 1066/2008 | [`hg/2008/1066/`](hg/2008/1066/) | in force | 1 | 2008-09-24 | 2008-09-24 |
 | Hotărârea Guvernului nr. 1068/2008 | [`hg/2008/1068/`](hg/2008/1068/) | in force | 1 | 2008-09-18 | 2008-09-18 |
 | Hotărârea Guvernului nr. 1069/2008 | [`hg/2008/1069/`](hg/2008/1069/) | in force | 1 | 2008-09-16 | 2008-09-16 |
 | Hotărârea Guvernului nr. 1070/2008 | [`hg/2008/1070/`](hg/2008/1070/) | in force | 1 | 2008-09-16 | 2008-09-16 |
@@ -4945,6 +4947,7 @@
 | Hotărârea Guvernului nr. 545/2010 | [`hg/2010/545/`](hg/2010/545/) | in force | 6 | 2010-07-01 | 2024-12-18 |
 | Hotărârea Guvernului nr. 606/2010 | [`hg/2010/606/`](hg/2010/606/) | in force | 2 | 2010-07-20 | 2013-12-02 |
 | Hotărârea Guvernului nr. 608/2010 | [`hg/2010/608/`](hg/2010/608/) | in force | 2 | 2010-07-28 | 2012-10-29 |
+| Hotărârea Guvernului nr. 612/2010 | [`hg/2010/612/`](hg/2010/612/) | in force | 2 | 2010-07-01 | 2013-10-07 |
 | Hotărârea Guvernului nr. 707/2010 | [`hg/2010/707/`](hg/2010/707/) | in force | 1 | 2010-08-06 | 2010-08-06 |
 | Hotărârea Guvernului nr. 725/2010 privind reorganizarea și funcționarea Ministerului Agriculturii și Dezvoltării Rurale, precum și a unor structuri aflate în subordinea acestuia | [`hg/2010/725/`](hg/2010/725/) | in force | 8 | 2010-08-04 | 2014-07-03 |
 | Hotărârea Guvernului nr. 751/2010 | [`hg/2010/751/`](hg/2010/751/) | in force | 6 | 2010-08-05 | 2016-11-22 |
@@ -5200,6 +5203,7 @@
 | Hotărârea Guvernului nr. 583/2013 | [`hg/2013/583/`](hg/2013/583/) | in force | 1 | 2013-08-08 | 2013-08-08 |
 | Hotărârea Guvernului nr. 587/2013 | [`hg/2013/587/`](hg/2013/587/) | in force | 1 | 2013-08-12 | 2013-08-12 |
 | Hotărârea Guvernului nr. 663/2013 privind modificarea Hotărârii Guvernului nr. 447/2003 pentru aprobarea normelor metodologice privind modul de elaborare și conținutul hărților de risc natural la alunecări de teren și inundații | [`hg/2013/663/`](hg/2013/663/) | amending act | 1 | 2013-09-05 | 2013-09-05 |
+| Hotărârea Guvernului nr. 727/2013 | [`hg/2013/727/`](hg/2013/727/) | in force | 1 | 2013-10-30 | 2013-10-30 |
 | Hotărârea Guvernului nr. 730/2013 | [`hg/2013/730/`](hg/2013/730/) | in force | 1 | 2013-09-27 | 2013-09-27 |
 | Hotărârea Guvernului nr. 778/2013 pentru modificarea și completarea Normelor metodologice de aplicare a prevederilor Legii nr. 416/2001 privind venitul minim garantat, aprobate prin Hotărârea Guvernului nr. 50/2011 , a Normelor metodologice de aplicare a prevederilor Legii nr. 277/2010 privind alocația pentru susținerea familiei, aprobate prin Hotărârea Guvernului nr. 38/2011 , și a Normelor metodologice de aplicare a prevederilor Ordonanței de urgență a Guvernului nr. 70/2011 privind măsurile de protecție socială în perioada sezonului rece, aprobate prin Hotărârea Guvernului nr. 920/2011 | [`hg/2013/778/`](hg/2013/778/) | amending act | 1 | 2013-10-11 | 2013-10-11 |
 | Hotărârea Guvernului nr. 784/2013 privind aprobarea Strategiei naționale antidrog 2013-2020 și a Planului de acțiune în perioada 2013-2016 pentru implementarea Strategiei naționale antidrog 2013-2020 | [`hg/2013/784/`](hg/2013/784/) | amending act | 2 | 2013-11-15 | 2018-11-12 |
