@@ -214562,6 +214562,21 @@
    ]
   },
   {
+   "slug": "hg-708-2018",
+   "path": "hg/2018/708",
+   "short": "HG nr. 708/2018",
+   "title": "Hotărârea Guvernului nr. 708/2018 privind trecerea unor imobile, aflate în administrarea Regiei Autonome \"Administraţia Patrimoniului Protocolului de Stat\", din domeniul privat al statului în domeniul public al statului, atribuirea destinaţiei de reşedinţă oficială pentru aceste imobile şi pentru modificarea şi completarea unor acte normative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/204734",
+   "versions": [
+    {
+     "from": "2018-09-10",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/204734",
+     "sha256": "38b8764b636452feadaaa73b759ae3a5bd36455d94d0c968de06789b3b8bdb02"
+    }
+   ]
+  },
+  {
    "slug": "hg-708-2019",
    "path": "hg/2019/708",
    "short": "HG nr. 708/2019",
@@ -214648,6 +214663,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95402",
      "sha256": "e69e8b790b1e81a072aaef56b097f317889740b7f66992cc94e6a524390692bb"
+    }
+   ]
+  },
+  {
+   "slug": "hg-709-2018",
+   "path": "hg/2018/709",
+   "short": "HG nr. 709/2018",
+   "title": "Hotărârea Guvernului nr. 709/2018 privind transmiterea unui bun aflat în domeniul privat al statului şi în administrarea Băncii Naţionale a României în domeniul public al statului şi în administrarea Universităţii „Aurel Vlaicu“ din Arad, aflată în coordonarea Ministerului Educaţiei Naţionale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/204821",
+   "versions": [
+    {
+     "from": "2018-09-17",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/204821",
+     "sha256": "cce4c457386ba25d4c3e2e592129241d46a9d154706500d368d2834f044e9627"
     }
    ]
   },
