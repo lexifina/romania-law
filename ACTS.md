@@ -1,6 +1,6 @@
 # Every act in this repository
 
-9612 acts, 22,985 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+9614 acts, 22,996 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -2194,7 +2194,7 @@
 | Legea nr. 190/2026 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 81/2021 privind aprobarea metodelor de intervenţie imediată pentru prevenirea şi combaterea atacurilor exemplarelor de urs brun asupra persoanelor şi bunurilor acestora, precum şi pentru modificarea şi completarea unor acte normative | [`lege/2026/190/`](lege/2026/190/) | amending act | 1 | 2026-10-08 | 2026-10-08 |
 | Legea nr. 205/2026 pentru completarea Ordonanţei Guvernului nr. 22/2002 privind executarea obligaţiilor de plată ale instituţiilor publice, stabilite prin titluri executorii | [`lege/2026/205/`](lege/2026/205/) | amending act | 1 | 2026-11-02 | 2026-11-02 |
 
-## Emergency ordinances (OUG) (1556, of which 537 amending acts)
+## Emergency ordinances (OUG) (1557, of which 538 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -3005,6 +3005,7 @@
 | Ordonanța de urgență a Guvernului nr. 11/2016 | [`oug/2016/11/`](oug/2016/11/) | in force | 3 | 2016-04-14 | 2016-08-31 |
 | Ordonanța de urgență a Guvernului nr. 17/2016 | [`oug/2016/17/`](oug/2016/17/) | in force | 2 | 2016-05-13 | 2016-11-17 |
 | Ordonanța de urgență a Guvernului nr. 18/2016 pentru modificarea și completarea Legii nr. 286/2009 privind Codul penal, Legii nr. 135/2010 privind Codul de procedură penală, precum și pentru completarea art. 31 alin. (1) din Legea nr. 304/2004 privind organizarea judiciară | [`oug/2016/18/`](oug/2016/18/) | amending act | 2 | 2016-05-23 | 2024-05-10 |
+| Ordonanța de urgență a Guvernului nr. 20/2016 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 57/2015 privind salarizarea personalului plătit din fonduri publice în anul 2016, prorogarea unor termene, precum și unele măsuri fiscal-bugetare și pentru modificarea și completarea unor acte normative | [`oug/2016/20/`](oug/2016/20/) | amending act | 6 | 2016-06-09 | 2017-07-01 |
 | Ordonanța de urgență a Guvernului nr. 21/2016 pentru modificarea și completarea Legii nr. 360/2002 privind Statutul polițistului | [`oug/2016/21/`](oug/2016/21/) | amending act | 2 | 2016-06-21 | 2017-06-02 |
 | Ordonanța de urgență a Guvernului nr. 22/2016 | [`oug/2016/22/`](oug/2016/22/) | in force | 2 | 2016-07-02 | 2017-06-12 |
 | Ordonanța de urgență a Guvernului nr. 23/2016 | [`oug/2016/23/`](oug/2016/23/) | in force | 2 | 2016-06-21 | 2016-11-22 |
@@ -3755,7 +3756,7 @@
 | Ordonanța de urgență a Guvernului nr. 30/2026 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 23/2004 privind stabilirea unor măsuri de reorganizare a Autorităţii pentru Valorificarea Activelor Bancare prin comasarea prin absorbţie cu Autoritatea pentru Privatizare şi Administrarea Participaţiilor Statului | [`oug/2026/30/`](oug/2026/30/) | amending act | 1 | 2026-04-21 | 2026-04-21 |
 | Ordonanța de urgență a Guvernului nr. 33/2026 pentru modificarea şi completarea Legii educaţiei fizice şi sportului nr. 69/2000 | [`oug/2026/33/`](oug/2026/33/) | amending act | 1 | 2026-04-27 | 2026-04-27 |
 
-## Ordinances (OG) (497, of which 92 amending acts)
+## Ordinances (OG) (498, of which 92 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -3906,6 +3907,7 @@
 | Ordonanța Guvernului nr. 14/2002 | [`og/2002/14/`](og/2002/14/) | in force | 2 | 2002-02-01 | 2003-02-03 |
 | Ordonanța Guvernului nr. 15/2002 | [`og/2002/15/`](og/2002/15/) | in force | 26 | 2002-02-01 | 2025-09-08 |
 | Ordonanța Guvernului nr. 16/2002 | [`og/2002/16/`](og/2002/16/) | repealed 2006-06-30 | 5 | 2002-02-02 | 2006-06-30 |
+| Ordonanța Guvernului nr. 17/2002 | [`og/2002/17/`](og/2002/17/) | in force | 5 | 2003-01-01 | 2005-12-10 |
 | Ordonanța Guvernului nr. 18/2002 | [`og/2002/18/`](og/2002/18/) | in force | 2 | 2002-02-01 | 2005-07-18 |
 | Ordonanța Guvernului nr. 19/2002 | [`og/2002/19/`](og/2002/19/) | in force | 13 | 2002-02-01 | 2024-06-14 |
 | Ordonanța Guvernului nr. 20/2002 | [`og/2002/20/`](og/2002/20/) | repealed 2006-06-30 | 6 | 2002-03-03 | 2006-06-30 |

@@ -62939,6 +62939,45 @@
    ]
   },
   {
+   "slug": "og-17-2002",
+   "path": "og/2002/17",
+   "short": "OG nr. 17/2002",
+   "title": "Ordonanța Guvernului nr. 17/2002",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/66670",
+   "versions": [
+    {
+     "from": "2003-01-01",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/33847",
+     "sha256": "cf700603d6ad91216e0cec854c1245b3091e9f2a52cc0026ff5e04849100ed35"
+    },
+    {
+     "from": "2003-11-28",
+     "units": 24,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/60126",
+     "sha256": "281d66e0ac5e972801b4a56136afca8c421a1d1ee714dba7f9e97a71e487dba5"
+    },
+    {
+     "from": "2004-02-03",
+     "units": 24,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/60127",
+     "sha256": "61e56e3dcd61f9d30feecf03c542f7e3ee718a0576adbb0fedae408abe990676"
+    },
+    {
+     "from": "2005-09-05",
+     "units": 30,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/64805",
+     "sha256": "639f15b21a5ea8bbc09708c9d836276eae357df41aac95f5dd68194b954d46e6"
+    },
+    {
+     "from": "2005-12-10",
+     "units": 31,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66670",
+     "sha256": "c9082ce8d93c24ea9db1104bc82bfd39358822a1c2fddb8aae4356c47e1f66d7"
+    }
+   ]
+  },
+  {
    "slug": "og-17-2012",
    "path": "og/2012/17",
    "short": "OG nr. 17/2012",
@@ -80317,6 +80356,51 @@
      "units": 24,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/292519",
      "sha256": "dc8907ef16f390ab11ac2251a17197ae9918f839e0e0abc1d519610f48d057e6"
+    }
+   ]
+  },
+  {
+   "slug": "oug-20-2016",
+   "path": "oug/2016/20",
+   "short": "OUG nr. 20/2016",
+   "title": "Ordonanța de urgență a Guvernului nr. 20/2016 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 57/2015 privind salarizarea personalului plătit din fonduri publice în anul 2016, prorogarea unor termene, precum și unele măsuri fiscal-bugetare și pentru modificarea și completarea unor acte normative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/179110",
+   "versions": [
+    {
+     "from": "2016-06-09",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/179110",
+     "sha256": "93743717fb181f0c6099b8be575cea0453c91db5118fadb058512866c007f794"
+    },
+    {
+     "from": "2016-08-31",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181346",
+     "sha256": "84e3ee60b30ee766fa97c1ffcb3d071bf6556a26e5067992636aa2e514e28586"
+    },
+    {
+     "from": "2016-12-21",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/184720",
+     "sha256": "02ab4eacf11560bc6929c4f2505fbca4d9ca272e8a0e8ad09554d648b2155a68"
+    },
+    {
+     "from": "2016-12-24",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/184721",
+     "sha256": "149eb68ec1549f78c86da78f639a5bde3b04e986c04b0c4dff26c33fbba47b5f"
+    },
+    {
+     "from": "2017-02-23",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/186577",
+     "sha256": "502a3a184f331a18e8c40827147529c7df5a3ecf822ad3718ac67532c53a4733"
+    },
+    {
+     "from": "2017-07-01",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/190572",
+     "sha256": "dc22866b71b0789c7afdb75ae7b5dc595281851e48882590c55dd46286021392"
     }
    ]
   },

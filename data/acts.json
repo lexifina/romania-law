@@ -50407,6 +50407,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/178639"
 },
 {
+"slug": "oug-20-2016",
+"path": "oug/2016/20",
+"kind": "oug",
+"year": "2016",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 20/2016 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 57/2015 privind salarizarea personalului plătit din fonduri publice în anul 2016, prorogarea unor termene, precum și unele măsuri fiscal-bugetare și pentru modificarea și completarea unor acte normative",
+"short": "OUG nr. 20/2016",
+"code": null,
+"status": "amending act",
+"versions": 6,
+"from": "2016-06-09",
+"latest": "2017-07-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/179110"
+},
+{
 "slug": "oug-21-2016",
 "path": "oug/2016/21",
 "kind": "oug",
@@ -65637,6 +65654,23 @@
 "from": "2002-02-02",
 "latest": "2006-06-30",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/33841"
+},
+{
+"slug": "og-17-2002",
+"path": "og/2002/17",
+"kind": "og",
+"year": "2002",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța Guvernului nr. 17/2002",
+"short": "OG nr. 17/2002",
+"code": null,
+"status": "in force",
+"versions": 5,
+"from": "2003-01-01",
+"latest": "2005-12-10",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/66670"
 },
 {
 "slug": "og-18-2002",
