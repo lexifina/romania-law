@@ -1,6 +1,6 @@
 # Every act in this repository
 
-19677 acts, 33,307 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+19689 acts, 33,319 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -5381,7 +5381,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (14305, of which 7275 amending acts)
+## Government decisions (HG) (14317, of which 7284 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -8681,12 +8681,24 @@
 | Hotărârea Guvernului nr. 1018/2012 | [`hg/2012/1018/`](hg/2012/1018/) | in force | 2 | 2012-10-29 | 2019-06-21 |
 | Hotărârea Guvernului nr. 1055/2012 | [`hg/2012/1055/`](hg/2012/1055/) | in force | 1 | 2012-11-01 | 2012-11-01 |
 | Hotărârea Guvernului nr. 1080/2012 | [`hg/2012/1080/`](hg/2012/1080/) | in force | 1 | 2012-11-16 | 2012-11-16 |
+| Hotărârea Guvernului nr. 1140/2012 privind desfiinţarea Muzeului Cinegetic al Carpaţilor "Posada", secţie din cadrul Muzeului Naţional Peleş | [`hg/2012/1140/`](hg/2012/1140/) | in force | 1 | 2012-12-03 | 2012-12-03 |
 | Hotărârea Guvernului nr. 1141/2012 | [`hg/2012/1141/`](hg/2012/1141/) | in force | 1 | 2012-12-03 | 2012-12-03 |
+| Hotărârea Guvernului nr. 1143/2012 privind ocuparea în anul 2012 a unui număr de 172 de posturi vacante necesare funcţionării serviciilor sociale din judeţele Neamţ, Mureş, Iaşi şi Brăila | [`hg/2012/1143/`](hg/2012/1143/) | in force | 1 | 2012-12-03 | 2012-12-03 |
+| Hotărârea Guvernului nr. 1144/2012 privind aprobarea stemelor comunelor Malaia şi Voiceşti, judeţul Vâlcea | [`hg/2012/1144/`](hg/2012/1144/) | amending act | 1 | 2012-12-10 | 2012-12-10 |
 | Hotărârea Guvernului nr. 1145/2012 | [`hg/2012/1145/`](hg/2012/1145/) | in force | 1 | 2012-12-04 | 2012-12-04 |
+| Hotărârea Guvernului nr. 1146/2012 privind aprobarea Acordului de concesiune de exploatare petrolieră în perimetrul P IX - 13 ŢEPU, încheiat între Agenţia Naţională pentru Resurse Minerale şi Amromco Energy L.L.C | [`hg/2012/1146/`](hg/2012/1146/) | amending act | 1 | 2012-12-03 | 2012-12-03 |
+| Hotărârea Guvernului nr. 1147/2012 pentru modificarea şi completarea Normelor metodologice de aplicare a prevederilor Legii nr. 448/2006 privind protecţia şi promovarea drepturilor persoanelor cu handicap, aprobate prin Hotărârea Guvernului nr. 268/2007 | [`hg/2012/1147/`](hg/2012/1147/) | amending act | 1 | 2012-11-29 | 2012-11-29 |
 | Hotărârea Guvernului nr. 1150/2012 | [`hg/2012/1150/`](hg/2012/1150/) | in force | 1 | 2012-12-03 | 2012-12-03 |
 | Hotărârea Guvernului nr. 1151/2012 | [`hg/2012/1151/`](hg/2012/1151/) | in force | 1 | 2012-12-03 | 2012-12-03 |
+| Hotărârea Guvernului nr. 1152/2012 pentru modificarea şi completarea Hotărârii Guvernului nr. 144/2010 privind organizarea şi funcţionarea Ministerului Sănătăţii | [`hg/2012/1152/`](hg/2012/1152/) | amending act | 1 | 2012-12-04 | 2012-12-04 |
+| Hotărârea Guvernului nr. 1153/2012 privind aprobarea Acordului petrolier de concesiune pentru explorare-dezvoltare-exploatare în perimetrul EX-10 Parta, încheiat între Agenţia Naţională pentru Resurse Minerale şi AuDAX Resources Ltd | [`hg/2012/1153/`](hg/2012/1153/) | amending act | 1 | 2012-12-04 | 2012-12-04 |
 | Hotărârea Guvernului nr. 1154/2012 | [`hg/2012/1154/`](hg/2012/1154/) | in force | 1 | 2012-12-03 | 2012-12-03 |
 | Hotărârea Guvernului nr. 1157/2012 | [`hg/2012/1157/`](hg/2012/1157/) | in force | 1 | 2012-12-03 | 2012-12-03 |
+| Hotărârea Guvernului nr. 1158/2012 pentru aprobarea Protocolului dintre Ministerul Administraţiei şi Internelor din România prin Inspectoratul General al Poliţiei de Frontieră şi Serviciul Grăniceri al Republicii Moldova privind consolidarea cooperării la nivel central şi teritorial, semnat la Iaşi la 29 noiembrie 2011 | [`hg/2012/1158/`](hg/2012/1158/) | amending act | 1 | 2012-12-05 | 2012-12-05 |
+| Hotărârea Guvernului nr. 1159/2012 pentru aprobarea amendamentelor convenite între Guvernul României şi KfW, prin scrisoarea semnată la Frankfurt am Main la 4 august 2011 şi la Bucureşti la 23 august 2011, la Acordul de împrumut dintre KfW, Frankfurt am Main, (KfW) şi România, semnat la Frankfurt am Main la 26 septembrie 2007, respectiv la Bucureşti la 28 decembrie 2007, pentru finanţarea Programului privind infrastructura municipală | [`hg/2012/1159/`](hg/2012/1159/) | amending act | 1 | 2012-12-06 | 2012-12-06 |
+| Hotărârea Guvernului nr. 1160/2012 privind aplicarea corecţiilor financiare solicitate de Comisia Europeană asupra cheltuielilor finanţate din Programul operaţional regional | [`hg/2012/1160/`](hg/2012/1160/) | in force | 1 | 2012-12-04 | 2012-12-04 |
+| Hotărârea Guvernului nr. 1161/2012 pentru aprobarea atestării oraşului Râşnov, judeţul Braşov, ca staţiune turistică de interes naţional | [`hg/2012/1161/`](hg/2012/1161/) | amending act | 1 | 2012-12-05 | 2012-12-05 |
+| Hotărârea Guvernului nr. 1162/2012 pentru modificarea art. 14 din Hotărârea Guvernului nr. 546/2005 privind aprobarea Strategiei de privatizare a Societăţii Comerciale Filiala de Distribuţie şi Furnizare a Energiei Electrice ”Electrica Muntenia Sud” - S.A., a unor măsuri pentru punerea în aplicare a strategiei, precum şi privind constituirea Comisiei pentru coordonarea privatizării acestei societăţi şi a art. 4 din Hotărârea Guvernului nr. 528/2007 privind unele măsuri pentru derularea şi finalizarea privatizării Societăţii Comerciale Filiala de Distribuţie şi Furnizare a Energiei Electrice ”Electrica Muntenia Sud” - S.A | [`hg/2012/1162/`](hg/2012/1162/) | amending act | 1 | 2012-12-07 | 2012-12-07 |
 | Hotărârea Guvernului nr. 1163/2012 pentru aprobarea elementelor principale ale contractului de vânzare-cumpărare de acţiuni, a numărului acţiunilor şi a preţului unitar al acţiunii în cadrul procesului de exercitare, de către Societatea Comercială de Distribuţie şi Furnizare a Energiei Electrice "Electrica" - S.A. Bucureşti, a opţiunii de vânzare de acţiuni conform prevederilor contractului de privatizare privind achiziţionarea şi subscrierea de acţiuni la Societatea Comercială Filiala de Distribuţie şi Furnizare a Energiei Electrice "Electrica Muntenia Sud" - S.A | [`hg/2012/1163/`](hg/2012/1163/) | amending act | 1 | 2012-12-07 | 2012-12-07 |
 | Hotărârea Guvernului nr. 1165/2012 privind aprobarea Acordului de concesiune de exploatare petrolieră în perimetrul P IX-11 Sudurău, încheiat între Agenţia Naţională pentru Resurse Minerale şi Blackstairs Energy Plc | [`hg/2012/1165/`](hg/2012/1165/) | amending act | 1 | 2012-12-13 | 2012-12-13 |
 | Hotărârea Guvernului nr. 1166/2012 privind suplimentarea bugetului Ministerului Mediului şi Pădurilor pentru plata titlurilor executorii prevăzute de Ordonanţa de urgenţă a Guvernului nr. 71/2009 privind plata unor sume prevăzute în titluri executorii având ca obiect acordarea de drepturi salariale personalului din sectorul bugetar | [`hg/2012/1166/`](hg/2012/1166/) | in force | 1 | 2012-12-05 | 2012-12-05 |
