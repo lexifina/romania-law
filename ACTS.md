@@ -1,6 +1,6 @@
 # Every act in this repository
 
-5932 acts, 16,741 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+5937 acts, 16,784 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -32,7 +32,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (1731, of which 641 amending acts)
+## Laws (legi) (1735, of which 641 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -89,6 +89,7 @@
 | Legea nr. 74/1992 | [`lege/1992/74/`](lege/1992/74/) | in force | 1 | 1992-07-23 | 1992-07-23 |
 | Legea nr. 77/1992 | [`lege/1992/77/`](lege/1992/77/) | in force | 1 | 1992-07-25 | 1992-07-25 |
 | Legea nr. 84/1992 | [`lege/1992/84/`](lege/1992/84/) | in force | 5 | 1992-07-30 | 2020-10-23 |
+| Legea nr. 85/1992 | [`lege/1992/85/`](lege/1992/85/) | in force | 5 | 1992-07-29 | 2011-12-17 |
 | Legea nr. 94/1992 privind organizarea și funcționarea Curții de Conturi | [`lege/1992/94/`](lege/1992/94/) | in force | 17 | 1992-09-09 | 2024-01-01 |
 | Legea nr. 95/1992 | [`lege/1992/95/`](lege/1992/95/) | in force | 1 | 1992-09-24 | 1992-09-24 |
 | Legea nr. 102/1992 | [`lege/1992/102/`](lege/1992/102/) | in force | 2 | 1992-09-24 | 2016-07-22 |
@@ -121,6 +122,7 @@
 | Legea nr. 33/1994 privind exproprierea pentru cauză de utilitate publică | [`lege/1994/33/`](lege/1994/33/) | in force | 3 | 1994-06-02 | 2020-11-16 |
 | Legea nr. 41/1994 | [`lege/1994/41/`](lege/1994/41/) | in force | 10 | 1994-06-18 | 2022-07-03 |
 | Legea nr. 44/1994 | [`lege/1994/44/`](lege/1994/44/) | in force | 20 | 1994-07-07 | 2024-12-09 |
+| Legea nr. 45/1994 | [`lege/1994/45/`](lege/1994/45/) | in force | 8 | 1994-07-07 | 2011-05-06 |
 | Legea nr. 58/1994 | [`lege/1994/58/`](lege/1994/58/) | in force | 1 | 1994-08-02 | 1994-08-02 |
 | Legea nr. 69/1994 | [`lege/1994/69/`](lege/1994/69/) | in force | 1 | 1994-08-12 | 1994-08-12 |
 | Legea nr. 75/1994 privind arborarea drapelului României, intonarea imnului național și folosirea sigiliilor cu stema României de către autoritățile și instituțiile publice | [`lege/1994/75/`](lege/1994/75/) | in force | 5 | 1994-08-26 | 2024-02-26 |
@@ -157,6 +159,7 @@
 | Legea nr. 18/1996 | [`lege/1996/18/`](lege/1996/18/) | in force | 2 | 1996-05-11 | 2003-05-14 |
 | Legea concurenței nr. 21/1996 | [`lege/1996/21/`](lege/1996/21/) | in force | 42 | 1997-01-30 | 2025-06-26 |
 | Legea nr. 30/1996 | [`lege/1996/30/`](lege/1996/30/) | in force | 1 | 1996-05-13 | 1996-05-13 |
+| Legea nr. 31/1996 | [`lege/1996/31/`](lege/1996/31/) | in force | 7 | 1996-11-13 | 2014-02-01 |
 | Legea nr. 46/1996 | [`lege/1996/46/`](lege/1996/46/) | in force | 2 | 1996-06-11 | 2004-07-02 |
 | Legea nr. 61/1996 privind ratificarea Acordului dintre Guvernul României şi Guvernul Maltei pentru evitarea dublei impuneri şi prevenirea evaziunii fiscale cu privire la impozitele pe venit şi a protocolului anexat, semnate la Bucureşti la 30 noiembrie 1995 | [`lege/1996/61/`](lege/1996/61/) | in force | 2 | 1996-07-10 | 2025-01-16 |
 | Legea nr. 64/1996 | [`lege/1996/64/`](lege/1996/64/) | in force | 1 | 1996-07-10 | 1996-07-10 |
@@ -412,6 +415,7 @@
 | Legea nr. 577/2003 | [`lege/2003/577/`](lege/2003/577/) | in force | 1 | 2004-01-08 | 2004-01-08 |
 | Legea nr. 590/2003 privind tratatele | [`lege/2003/590/`](lege/2003/590/) | in force | 1 | 2004-02-11 | 2004-02-11 |
 | Legea nr. 595/2003 | [`lege/2003/595/`](lege/2003/595/) | in force | 1 | 2004-01-08 | 2004-01-08 |
+| Legea nr. 1/2004 | [`lege/2004/1/`](lege/2004/1/) | in force | 17 | 2004-03-26 | 2011-10-31 |
 | Legea nr. 4/2004 | [`lege/2004/4/`](lege/2004/4/) | in force | 2 | 2004-03-05 | 2008-11-28 |
 | Legea nr. 8/2004 | [`lege/2004/8/`](lege/2004/8/) | in force | 1 | 2004-03-05 | 2004-03-05 |
 | Legea nr. 23/2004 pentru modificarea și completarea Legii nr. 90/2001 privind organizarea și funcționarea Guvernului României și a ministerelor | [`lege/2004/23/`](lege/2004/23/) | amending act | 1 | 2004-03-06 | 2004-03-06 |
@@ -1768,7 +1772,7 @@
 | Legea nr. 241/2025 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 31/2002 privind interzicerea organizațiilor, simbolurilor și faptelor cu caracter fascist, legionar, rasist sau xenofob și a promovării cultului persoanelor vinovate de săvârșirea unor infracțiuni de genocid contra umanității și de crime de război, precum și pentru modificarea Legii nr. 157/2018 privind unele măsuri pentru prevenirea și combaterea antisemitismului | [`lege/2025/241/`](lege/2025/241/) | amending act | 1 | 2025-12-27 | 2025-12-27 |
 | Legea nr. 245/2025 pentru modificarea art. 32 alin. (7) din Legea nr. 273/2006 privind finanțele publice locale | [`lege/2025/245/`](lege/2025/245/) | amending act | 1 | 2026-01-01 | 2026-01-01 |
 
-## Emergency ordinances (OUG) (1436, of which 517 amending acts)
+## Emergency ordinances (OUG) (1437, of which 517 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -2259,6 +2263,7 @@
 | Ordonanța de urgență a Guvernului nr. 50/2010 privind contractele de credit pentru consumatori | [`oug/2010/50/`](oug/2010/50/) | in force | 8 | 2010-06-21 | 2024-03-17 |
 | Ordonanța de urgență a Guvernului nr. 51/2010 | [`oug/2010/51/`](oug/2010/51/) | in force | 2 | 2010-06-21 | 2011-03-27 |
 | Ordonanța de urgență a Guvernului nr. 54/2010 privind unele măsuri pentru combaterea evaziunii fiscale | [`oug/2010/54/`](oug/2010/54/) | in force | 5 | 2010-06-23 | 2018-11-24 |
+| Ordonanța de urgență a Guvernului nr. 58/2010 | [`oug/2010/58/`](oug/2010/58/) | in force | 6 | 2010-07-01 | 2012-07-01 |
 | Ordonanța de urgență a Guvernului nr. 59/2010 | [`oug/2010/59/`](oug/2010/59/) | in force | 1 | 2010-06-30 | 2010-06-30 |
 | Ordonanța de urgență a Guvernului nr. 62/2010 | [`oug/2010/62/`](oug/2010/62/) | in force | 3 | 2010-07-01 | 2012-07-09 |
 | Ordonanța de urgență a Guvernului nr. 63/2010 | [`oug/2010/63/`](oug/2010/63/) | in force | 16 | 2010-07-05 | 2022-04-16 |

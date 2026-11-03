@@ -920,6 +920,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/231366"
 },
 {
+"slug": "legea-85-1992",
+"path": "lege/1992/85",
+"kind": "lege",
+"year": "1992",
+"number": "85",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 85/1992",
+"short": "Legea nr. 85/1992",
+"code": null,
+"status": "in force",
+"versions": 5,
+"from": "1992-07-29",
+"latest": "2011-12-17",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/2340"
+},
+{
 "slug": "legea-94-1992",
 "path": "lege/1992/94",
 "kind": "lege",
@@ -1462,6 +1479,23 @@
 "from": "1994-07-07",
 "latest": "2024-12-09",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/4137"
+},
+{
+"slug": "legea-45-1994",
+"path": "lege/1994/45",
+"kind": "lege",
+"year": "1994",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 45/1994",
+"short": "Legea nr. 45/1994",
+"code": null,
+"status": "in force",
+"versions": 8,
+"from": "1994-07-07",
+"latest": "2011-05-06",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/4143"
 },
 {
 "slug": "legea-58-1994",
@@ -2074,6 +2108,23 @@
 "from": "1996-05-13",
 "latest": "1996-05-13",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/8100"
+},
+{
+"slug": "legea-31-1996",
+"path": "lege/1996/31",
+"kind": "lege",
+"year": "1996",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 31/1996",
+"short": "Legea nr. 31/1996",
+"code": null,
+"status": "in force",
+"versions": 7,
+"from": "1996-11-13",
+"latest": "2014-02-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/8112"
 },
 {
 "slug": "legea-46-1996",
@@ -6409,6 +6460,23 @@
 "from": "2004-01-08",
 "latest": "2004-01-08",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/48935"
+},
+{
+"slug": "legea-1-2004",
+"path": "lege/2004/1",
+"kind": "lege",
+"year": "2004",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 1/2004",
+"short": "Legea nr. 1/2004",
+"code": null,
+"status": "in force",
+"versions": 17,
+"from": "2004-03-26",
+"latest": "2011-10-31",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/49972"
 },
 {
 "slug": "legea-4-2004",
@@ -37723,6 +37791,23 @@
 "from": "2010-06-23",
 "latest": "2018-11-24",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/119785"
+},
+{
+"slug": "oug-58-2010",
+"path": "oug/2010/58",
+"kind": "oug",
+"year": "2010",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 58/2010",
+"short": "OUG nr. 58/2010",
+"code": null,
+"status": "in force",
+"versions": 6,
+"from": "2010-07-01",
+"latest": "2012-07-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/141486"
 },
 {
 "slug": "oug-59-2010",
