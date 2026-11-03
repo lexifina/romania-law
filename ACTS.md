@@ -1,6 +1,6 @@
 # Every act in this repository
 
-5367 acts, 14,470 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+5558 acts, 15,184 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -32,7 +32,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (1538, of which 611 amending acts)
+## Laws (legi) (1593, of which 622 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -69,10 +69,12 @@
 | Legea nr. 81/1991 | [`lege/1991/81/`](lege/1991/81/) | in force | 1 | 1991-12-31 | 1991-12-31 |
 | Legea contabilității nr. 82/1991 | [`lege/1991/82/`](lege/1991/82/) | in force | 25 | 1992-01-01 | 2025-02-04 |
 | Legea nr. 11/1992 | [`lege/1992/11/`](lege/1992/11/) | in force | 1 | 1992-03-02 | 1992-03-02 |
+| Legea nr. 14/1992 | [`lege/1992/14/`](lege/1992/14/) | in force | 6 | 1992-03-03 | 2016-03-14 |
 | Legea nr. 19/1992 | [`lege/1992/19/`](lege/1992/19/) | in force | 1 | 1992-03-16 | 1992-03-16 |
 | Legea nr. 34/1992 | [`lege/1992/34/`](lege/1992/34/) | in force | 1 | 1992-04-13 | 1992-04-13 |
 | Legea nr. 35/1992 | [`lege/1992/35/`](lege/1992/35/) | in force | 1 | 1992-04-13 | 1992-04-13 |
 | Legea nr. 47/1992 privind organizarea și funcționarea Curții Constituționale | [`lege/1992/47/`](lege/1992/47/) | in force | 11 | 1992-05-22 | 2023-12-08 |
+| Legea nr. 48/1992 | [`lege/1992/48/`](lege/1992/48/) | in force | 2 | 1992-05-25 | 2002-06-03 |
 | Legea nr. 69/1992 | [`lege/1992/69/`](lege/1992/69/) | in force | 2 | 1992-07-16 | 2003-09-26 |
 | Legea nr. 74/1992 | [`lege/1992/74/`](lege/1992/74/) | in force | 1 | 1992-07-23 | 1992-07-23 |
 | Legea nr. 77/1992 | [`lege/1992/77/`](lege/1992/77/) | in force | 1 | 1992-07-25 | 1992-07-25 |
@@ -120,8 +122,10 @@
 | Legea nr. 34/1995 | [`lege/1995/34/`](lege/1995/34/) | in force | 1 | 1995-05-02 | 1995-05-02 |
 | Legea notarilor publici și a activității notariale nr. 36/1995 | [`lege/1995/36/`](lege/1995/36/) | in force | 29 | 1995-05-16 | 2024-12-06 |
 | Legea nr. 41/1995 | [`lege/1995/41/`](lege/1995/41/) | in force | 1 | 1995-05-30 | 1995-05-30 |
+| Legea nr. 50/1995 | [`lege/1995/50/`](lege/1995/50/) | in force | 3 | 1995-05-31 | 2010-01-01 |
 | Legea nr. 51/1995 pentru organizarea și exercitarea profesiei de avocat | [`lege/1995/51/`](lege/1995/51/) | in force | 31 | 2001-03-06 | 2023-04-15 |
 | Legea nr. 80/1995 | [`lege/1995/80/`](lege/1995/80/) | in force | 30 | 1995-09-18 | 2024-03-28 |
+| Legea nr. 112/1995 | [`lege/1995/112/`](lege/1995/112/) | in force | 4 | 1996-01-28 | 2013-02-01 |
 | Legea nr. 120/1995 | [`lege/1995/120/`](lege/1995/120/) | in force | 1 | 1995-12-11 | 1995-12-11 |
 | Legea nr. 126/1995 | [`lege/1995/126/`](lege/1995/126/) | in force | 13 | 1996-01-27 | 2025-12-31 |
 | Legea cadastrului și a publicității imobiliare nr. 7/1996 | [`lege/1996/7/`](lege/1996/7/) | in force | 51 | 1996-06-24 | 2026-03-13 |
@@ -130,6 +134,7 @@
 | Legea nr. 17/1996 | [`lege/1996/17/`](lege/1996/17/) | in force | 3 | 1996-05-11 | 2016-10-17 |
 | Legea nr. 18/1996 | [`lege/1996/18/`](lege/1996/18/) | in force | 2 | 1996-05-11 | 2003-05-14 |
 | Legea concurenței nr. 21/1996 | [`lege/1996/21/`](lege/1996/21/) | in force | 42 | 1997-01-30 | 2025-06-26 |
+| Legea nr. 61/1996 privind ratificarea Acordului dintre Guvernul României şi Guvernul Maltei pentru evitarea dublei impuneri şi prevenirea evaziunii fiscale cu privire la impozitele pe venit şi a protocolului anexat, semnate la Bucureşti la 30 noiembrie 1995 | [`lege/1996/61/`](lege/1996/61/) | in force | 2 | 1996-07-10 | 2025-01-16 |
 | Legea nr. 64/1996 | [`lege/1996/64/`](lege/1996/64/) | in force | 1 | 1996-07-10 | 1996-07-10 |
 | Legea nr. 71/1996 | [`lege/1996/71/`](lege/1996/71/) | in force | 1 | 1996-07-29 | 1996-07-29 |
 | Legea nr. 92/1996 | [`lege/1996/92/`](lege/1996/92/) | in force | 2 | 1996-07-30 | 2002-02-12 |
@@ -140,6 +145,8 @@
 | Legea locuinței nr. 114/1996 | [`lege/1996/114/`](lege/1996/114/) | in force | 21 | 1996-10-21 | 2022-07-30 |
 | Legea nr. 115/1996 privind declararea și controlul averii demnitarilor, magistraților, funcționarilor publici și a unor persoane cu funcții de conducere | [`lege/1996/115/`](lege/1996/115/) | in force | 8 | 1996-10-28 | 2010-09-05 |
 | Legea nr. 119/1996 | [`lege/1996/119/`](lege/1996/119/) | in force | 25 | 1997-02-09 | 2025-03-27 |
+| Legea nr. 121/1996 | [`lege/1996/121/`](lege/1996/121/) | in force | 3 | 1996-10-23 | 2014-02-01 |
+| Legea nr. 122/1996 | [`lege/1996/122/`](lege/1996/122/) | in force | 3 | 1996-10-25 | 2009-04-22 |
 | Legea nr. 140/1996 pentru modificarea și completarea Codului penal | [`lege/1996/140/`](lege/1996/140/) | amending act | 1 | 1996-11-14 | 1996-11-14 |
 | Legea nr. 35/1997 privind organizarea și funcționarea instituției Avocatul Poporului | [`lege/1997/35/`](lege/1997/35/) | in force | 12 | 1997-03-20 | 2018-02-27 |
 | Legea nr. 56/1997 | [`lege/1997/56/`](lege/1997/56/) | in force | 6 | 1997-04-17 | 2022-08-14 |
@@ -153,17 +160,20 @@
 | Legea nr. 197/1997 | [`lege/1997/197/`](lege/1997/197/) | in force | 1 | 1997-11-26 | 1997-11-26 |
 | Legea nr. 208/1997 | [`lege/1997/208/`](lege/1997/208/) | in force | 1 | 1997-12-17 | 1997-12-17 |
 | Legea nr. 215/1997 | [`lege/1997/215/`](lege/1997/215/) | in force | 4 | 1997-12-22 | 2024-04-13 |
+| Legea nr. 1/1998 | [`lege/1998/1/`](lege/1998/1/) | in force | 8 | 1998-01-12 | 2017-04-22 |
 | Legea nr. 9/1998 | [`lege/1998/9/`](lege/1998/9/) | in force | 13 | 1998-03-14 | 2023-07-03 |
 | Legea nr. 13/1998 | [`lege/1998/13/`](lege/1998/13/) | in force | 1 | 1998-01-26 | 1998-01-26 |
 | Legea nr. 84/1998 privind mărcile și indicațiile geografice | [`lege/1998/84/`](lege/1998/84/) | in force | 12 | 2005-12-28 | 2024-03-07 |
 | Legea nr. 129/1998 | [`lege/1998/129/`](lege/1998/129/) | in force | 12 | 1998-06-30 | 2017-01-30 |
 | Legea nr. 135/1998 privind aprobarea Ordonanței de urgență a Guvernului nr. 81/1997 pentru reglementarea plății premiilor anuale, a celui de-al 13-lea salariu sau a altor sume de această natură, suportate din fondul de salarii, care, de regulă, se acordă la finele anului | [`lege/1998/135/`](lege/1998/135/) | amending act | 1 | 1998-07-02 | 1998-07-02 |
+| Legea nr. 151/1998 | [`lege/1998/151/`](lege/1998/151/) | in force | 3 | 1998-07-16 | 2003-07-16 |
 | Legea nr. 152/1998 privind înființarea Agenției Naționale pentru Locuințe | [`lege/1998/152/`](lege/1998/152/) | in force | 37 | 1998-07-16 | 2025-02-03 |
 | Legea nr. 154/1998 privind sistemul de stabilire a salariilor de bază în sectorul bugetar și a indemnizațiilor pentru persoane care ocupă funcții de demnitate publică | [`lege/1998/154/`](lege/1998/154/) | in force | 2 | 1998-07-16 | 2008-12-05 |
 | Legea nr. 160/1998 pentru organizarea și exercitarea profesiunii de medic veterinar*) | [`lege/1998/160/`](lege/1998/160/) | in force | 1 | 2014-03-24 | 2014-03-24 |
 | Legea nr. 202/1998 | [`lege/1998/202/`](lege/1998/202/) | in force | 16 | 1998-12-10 | 2021-04-05 |
 | Legea nr. 213/1998 privind proprietatea publică și regimul juridic al acesteia | [`lege/1998/213/`](lege/1998/213/) | in force | 6 | 1999-01-23 | 2019-07-05 |
 | Legea nr. 49/1999 | [`lege/1999/49/`](lege/1999/49/) | in force | 7 | 1999-04-01 | 2024-01-01 |
+| Legea nr. 117/1999 | [`lege/1999/117/`](lege/1999/117/) | in force | 6 | 1999-10-04 | 2016-06-30 |
 | Legea nr. 132/1999 | [`lege/1999/132/`](lege/1999/132/) | in force | 10 | 1999-07-23 | 2021-03-08 |
 | Legea nr. 133/1999 | [`lege/1999/133/`](lege/1999/133/) | in force | 2 | 1999-07-23 | 2002-07-30 |
 | Legea nr. 138/1999 | [`lege/1999/138/`](lege/1999/138/) | in force | 5 | 1999-08-01 | 2010-01-01 |
@@ -189,7 +199,9 @@
 | Legea nr. 147/2000 | [`lege/2000/147/`](lege/2000/147/) | in force | 4 | 2001-01-01 | 2012-03-25 |
 | Legea nr. 148/2000 | [`lege/2000/148/`](lege/2000/148/) | in force | 7 | 2000-10-31 | 2024-07-25 |
 | Legea nr. 156/2000 | [`lege/2000/156/`](lege/2000/156/) | in force | 10 | 2000-08-04 | 2022-02-23 |
+| Legea nr. 159/2000 | [`lege/2000/159/`](lege/2000/159/) | in force | 1 | 2000-10-05 | 2000-10-05 |
 | Legea nr. 188/2000 privind executorii judecătorești | [`lege/2000/188/`](lege/2000/188/) | in force | 14 | 2000-11-10 | 2022-07-17 |
+| Legea nr. 189/2000 | [`lege/2000/189/`](lege/2000/189/) | in force | 19 | 2000-11-08 | 2013-02-15 |
 | Legea nr. 193/2000 privind clauzele abuzive din contractele încheiate între profesioniști și consumatori | [`lege/2000/193/`](lege/2000/193/) | in force | 10 | 2000-12-10 | 2022-05-28 |
 | Legea nr. 228/2000 | [`lege/2000/228/`](lege/2000/228/) | in force | 1 | 2000-12-05 | 2000-12-05 |
 | Legea nr. 10/2001 privind regimul juridic al unor imobile preluate în mod abuziv în perioada 6 martie 1945 - 22 decembrie 1989 | [`lege/2001/10/`](lege/2001/10/) | in force | 24 | 2001-08-13 | 2024-07-20 |
@@ -206,17 +218,21 @@
 | Legea nr. 90/2001 privind organizarea și funcționarea Guvernului României și a ministerelor | [`lege/2001/90/`](lege/2001/90/) | repealed 2019-07-05 | 29 | 2001-04-02 | 2019-07-05 |
 | Legea nr. 150/2001 | [`lege/2001/150/`](lege/2001/150/) | in force | 1 | 2001-04-10 | 2001-04-10 |
 | Legea nr. 163/2001 | [`lege/2001/163/`](lege/2001/163/) | in force | 1 | 2001-04-11 | 2001-04-11 |
+| Legea nr. 184/2001 | [`lege/2001/184/`](lege/2001/184/) | in force | 12 | 2001-06-17 | 2020-11-28 |
 | Legea nr. 191/2001 | [`lege/2001/191/`](lege/2001/191/) | in force | 1 | 2001-04-18 | 2001-04-18 |
+| Legea nr. 192/2001 | [`lege/2001/192/`](lege/2001/192/) | in force | 8 | 2001-04-20 | 2006-05-12 |
 | Legea nr. 204/2001 privind aprobarea Ordonanței Guvernului nr. 36/1998 pentru modificarea și completarea Legii nr. 32/1994 privind sponsorizarea | [`lege/2001/204/`](lege/2001/204/) | amending act | 2 | 2001-07-05 | 2001-10-26 |
 | Legea nr. 209/2001 pentru aprobarea Ordonanței de urgenta a Guvernului nr. 79/2000 privind stingerea unei părți din datoria Companiei Naționale de Electricitate - S.A. către stat cu contravaloarea energiei electrice livrate în Republica Moldova | [`lege/2001/209/`](lege/2001/209/) | amending act | 1 | 2001-04-26 | 2001-04-26 |
 | Legea administrației publice locale nr. 215/2001 | [`lege/2001/215/`](lege/2001/215/) | in force | 40 | 2001-05-23 | 2019-07-20 |
 | Legea nr. 241/2001 | [`lege/2001/241/`](lege/2001/241/) | in force | 1 | 2001-05-23 | 2001-05-23 |
 | Legea nr. 245/2001 | [`lege/2001/245/`](lege/2001/245/) | in force | 1 | 2001-05-24 | 2001-05-24 |
+| Legea nr. 257/2001 | [`lege/2001/257/`](lege/2001/257/) | in force | 4 | 2001-07-24 | 2014-03-25 |
 | Legea nr. 268/2001 | [`lege/2001/268/`](lege/2001/268/) | in force | 24 | 2001-06-07 | 2025-12-31 |
 | Legea nr. 314/2001 pentru reglementarea situației unor societăți comerciale | [`lege/2001/314/`](lege/2001/314/) | in force | 4 | 2001-06-26 | 2024-10-20 |
 | Legea nr. 321/2001 privind acordarea gratuită de lapte praf pentru copii cu vârste cuprinse între 0-12 luni | [`lege/2001/321/`](lege/2001/321/) | in force | 1 | 2001-06-27 | 2001-06-27 |
 | Legea nr. 350/2001 privind amenajarea teritoriului și urbanismul | [`lege/2001/350/`](lege/2001/350/) | in force | 33 | 2001-07-10 | 2026-02-25 |
 | Legea nr. 351/2001 privind aprobarea Planului de amenajare a teritoriului național - Secțiunea a IV-a Rețeaua de localități | [`lege/2001/351/`](lege/2001/351/) | amending act | 10 | 2001-07-24 | 2022-07-28 |
+| Legea nr. 356/2001 | [`lege/2001/356/`](lege/2001/356/) | in force | 2 | 2001-07-12 | 2004-01-01 |
 | Legea nr. 396/2001 pentru aprobarea Ordonanței Guvernului nr. 121/2000 privind înființarea Institutului pentru Studierea Problemelor Minorităților Naționale | [`lege/2001/396/`](lege/2001/396/) | amending act | 1 | 2001-07-20 | 2001-07-20 |
 | Legea nr. 402/2001 | [`lege/2001/402/`](lege/2001/402/) | in force | 1 | 2001-07-18 | 2001-07-18 |
 | Legea nr. 406/2001 | [`lege/2001/406/`](lege/2001/406/) | in force | 5 | 2001-07-16 | 2025-09-15 |
@@ -243,6 +259,7 @@
 | Legea nr. 111/2002 | [`lege/2002/111/`](lege/2002/111/) | in force | 1 | 2002-03-28 | 2002-03-28 |
 | Legea nr. 116/2002 | [`lege/2002/116/`](lege/2002/116/) | in force | 4 | 2002-06-19 | 2023-09-03 |
 | Legea nr. 118/2002 pentru instituirea indemnizației de merit | [`lege/2002/118/`](lege/2002/118/) | in force | 7 | 2002-03-20 | 2024-03-29 |
+| Legea nr. 129/2002 | [`lege/2002/129/`](lege/2002/129/) | in force | 1 | 2002-03-20 | 2002-03-20 |
 | Legea nr. 137/2002 | [`lege/2002/137/`](lege/2002/137/) | in force | 15 | 2002-03-28 | 2023-04-21 |
 | Legea nr. 156/2002 pentru aprobarea Ordonanței Guvernului nr. 2/2000 privind organizarea activității de expertiza tehnica judiciară și extrajudiciara | [`lege/2002/156/`](lege/2002/156/) | amending act | 1 | 2002-04-15 | 2002-04-15 |
 | Legea nr. 167/2002 | [`lege/2002/167/`](lege/2002/167/) | in force | 1 | 2002-04-16 | 2002-04-16 |
@@ -291,6 +308,8 @@
 | Legea nr. 8/2003 privind Ordinul Meritul Cultural și Medalia Meritul Cultural | [`lege/2003/8/`](lege/2003/8/) | in force | 2 | 2003-02-06 | 2004-01-11 |
 | Legea nr. 9/2003 privind Ordinul Meritul Sportiv și Medalia Meritul Sportiv | [`lege/2003/9/`](lege/2003/9/) | in force | 1 | 2003-02-05 | 2003-02-05 |
 | Legea partidelor politice nr. 14/2003 | [`lege/2003/14/`](lege/2003/14/) | in force | 7 | 2003-01-17 | 2015-06-10 |
+| Legea nr. 15/2003 | [`lege/2003/15/`](lege/2003/15/) | in force | 11 | 2003-07-22 | 2016-01-01 |
+| Legea nr. 19/2003 | [`lege/2003/19/`](lege/2003/19/) | in force | 4 | 2003-01-22 | 2015-01-01 |
 | Legea nr. 38/2003 privind transportul în regim de taxi și în regim de închiriere | [`lege/2003/38/`](lege/2003/38/) | in force | 15 | 2003-04-28 | 2022-03-27 |
 | Legea nr. 39/2003 privind prevenirea și combaterea criminalității organizate | [`lege/2003/39/`](lege/2003/39/) | in force | 4 | 2003-02-28 | 2014-02-01 |
 | Legea drepturilor pacientului nr. 46/2003 | [`lege/2003/46/`](lege/2003/46/) | in force | 12 | 2003-02-28 | 2025-04-14 |
@@ -323,6 +342,7 @@
 | Legea nr. 399/2003 | [`lege/2003/399/`](lege/2003/399/) | in force | 1 | 2003-10-10 | 2003-10-10 |
 | Legea nr. 403/2003 | [`lege/2003/403/`](lege/2003/403/) | in force | 1 | 2003-10-10 | 2003-10-10 |
 | Legea nr. 406/2003 | [`lege/2003/406/`](lege/2003/406/) | in force | 1 | 2003-10-15 | 2003-10-15 |
+| Legea nr. 429/2003 | [`lege/2003/429/`](lege/2003/429/) | in force | 1 | 2003-10-29 | 2003-10-29 |
 | Legea nr. 460/2003 | [`lege/2003/460/`](lege/2003/460/) | in force | 2 | 2003-12-25 | 2024-06-17 |
 | Legea nr. 477/2003 | [`lege/2003/477/`](lege/2003/477/) | in force | 6 | 2004-01-19 | 2021-03-20 |
 | Legea nr. 502/2003 pentru aprobarea Ordonanței Guvernului nr. 33/2003 privind înființarea Centrului Român pentru Pregătirea și Perfecționarea Personalului din Transporturi Navale - CERONAV | [`lege/2003/502/`](lege/2003/502/) | amending act | 1 | 2003-12-08 | 2003-12-08 |
@@ -350,6 +370,7 @@
 | Legea nr. 200/2004 | [`lege/2004/200/`](lege/2004/200/) | in force | 9 | 2004-06-06 | 2024-10-14 |
 | Legea nr. 211/2004 privind unele măsuri pentru asigurarea protecției victimelor infracțiunilor | [`lege/2004/211/`](lege/2004/211/) | in force | 8 | 2005-01-01 | 2024-11-08 |
 | Legea nr. 213/2004 privind exercitarea profesiei de psiholog cu drept de liberă practică, înființarea, organizarea și funcționarea Colegiului Psihologilor din România | [`lege/2004/213/`](lege/2004/213/) | in force | 3 | 2004-07-01 | 2023-07-14 |
+| Legea nr. 215/2004 | [`lege/2004/215/`](lege/2004/215/) | in force | 13 | 2004-06-17 | 2013-04-01 |
 | Legea petrolului nr. 238/2004 | [`lege/2004/238/`](lege/2004/238/) | in force | 16 | 2004-09-13 | 2024-06-29 |
 | Legea nr. 251/2004 | [`lege/2004/251/`](lege/2004/251/) | in force | 2 | 2004-06-27 | 2025-04-18 |
 | Legea nr. 253/2004 privind caracterul definitiv al decontării în sistemele de plăți și în sistemele de decontare a operațiunilor cu instrumente financiare | [`lege/2004/253/`](lege/2004/253/) | in force | 5 | 2004-07-01 | 2022-01-03 |
@@ -359,6 +380,8 @@
 | Legea nr. 272/2004 privind protecția și promovarea drepturilor copilului | [`lege/2004/272/`](lege/2004/272/) | in force | 32 | 2005-01-01 | 2026-04-10 |
 | Legea nr. 273/2004 | [`lege/2004/273/`](lege/2004/273/) | in force | 18 | 2004-06-26 | 2024-04-19 |
 | Legea nr. 287/2004 | [`lege/2004/287/`](lege/2004/287/) | in force | 3 | 2004-07-10 | 2014-02-13 |
+| Legea nr. 288/2004 | [`lege/2004/288/`](lege/2004/288/) | in force | 6 | 2004-07-10 | 2018-08-31 |
+| Legea nr. 289/2004 | [`lege/2004/289/`](lege/2004/289/) | in force | 4 | 2005-01-06 | 2008-12-27 |
 | Legea nr. 290/2004 privind cazierul judiciar | [`lege/2004/290/`](lege/2004/290/) | in force | 16 | 2004-07-30 | 2025-12-06 |
 | Legea nr. 295/2004 privind regimul armelor și al munițiilor | [`lege/2004/295/`](lege/2004/295/) | in force | 22 | 2004-12-30 | 2025-11-02 |
 | Legea nr. 296/2004 privind Codul consumului | [`lege/2004/296/`](lege/2004/296/) | in force | 4 | 2007-01-01 | 2010-07-22 |
@@ -375,6 +398,7 @@
 | Legea nr. 346/2004 privind stimularea înființării și dezvoltării întreprinderilor mici și mijlocii | [`lege/2004/346/`](lege/2004/346/) | in force | 20 | 2004-08-01 | 2025-12-12 |
 | Legea nr. 348/2004 privind denominarea monedei naționale | [`lege/2004/348/`](lege/2004/348/) | in force | 3 | 2004-07-26 | 2005-05-08 |
 | Legea nr. 359/2004 | [`lege/2004/359/`](lege/2004/359/) | repealed 2022-11-26 | 11 | 2004-10-13 | 2022-11-26 |
+| Legea nr. 364/2004 | [`lege/2004/364/`](lege/2004/364/) | in force | 9 | 2004-09-26 | 2020-02-11 |
 | Legea nr. 365/2004 pentru ratificarea Convenției Națiunilor Unite împotriva corupției , adoptată la New York la 31 octombrie 2003 | [`lege/2004/365/`](lege/2004/365/) | in force | 1 | 2004-10-08 | 2004-10-08 |
 | Legea nr. 369/2004 | [`lege/2004/369/`](lege/2004/369/) | in force | 4 | 2004-12-29 | 2023-02-21 |
 | Legea nr. 370/2004 pentru alegerea Președintelui României | [`lege/2004/370/`](lege/2004/370/) | in force | 15 | 2004-10-02 | 2024-05-10 |
@@ -383,6 +407,7 @@
 | Legea nr. 389/2004 | [`lege/2004/389/`](lege/2004/389/) | in force | 6 | 2004-10-16 | 2012-08-14 |
 | Legea nr. 391/2004 privind Semnul onorific Răsplata Muncii în Serviciul Public | [`lege/2004/391/`](lege/2004/391/) | in force | 2 | 2004-10-14 | 2011-10-30 |
 | Legea nr. 411/2004 | [`lege/2004/411/`](lege/2004/411/) | in force | 26 | 2006-07-01 | 2025-04-17 |
+| Legea nr. 418/2004 privind statutul profesional specific al medicului de medicina a muncii | [`lege/2004/418/`](lege/2004/418/) | in force | 2 | 2004-11-01 | 2007-03-24 |
 | Legea nr. 425/2004 | [`lege/2004/425/`](lege/2004/425/) | in force | 1 | 2004-10-31 | 2004-10-31 |
 | Legea nr. 451/2004 privind marca temporală | [`lege/2004/451/`](lege/2004/451/) | repealed 2024-07-11 | 2 | 2004-12-05 | 2024-07-11 |
 | Legea nr. 457/2004 | [`lege/2004/457/`](lege/2004/457/) | in force | 2 | 2006-12-31 | 2009-01-01 |
@@ -420,6 +445,7 @@
 | Legea nr. 281/2005 | [`lege/2005/281/`](lege/2005/281/) | in force | 1 | 2005-10-15 | 2005-10-15 |
 | Legea nr. 282/2005 | [`lege/2005/282/`](lege/2005/282/) | in force | 9 | 2005-10-16 | 2022-04-14 |
 | Legea nr. 289/2005 privind unele măsuri pentru prevenirea și combaterea fenomenului infracțional în domeniul transportului pe calea ferată | [`lege/2005/289/`](lege/2005/289/) | in force | 2 | 2005-10-20 | 2014-02-01 |
+| Legea nr. 312/2005 privind dobândirea dreptului de proprietate privată asupra terenurilor de către cetățenii străini și apatrizi, precum și de către persoanele juridice străine | [`lege/2005/312/`](lege/2005/312/) | in force | 1 | 2007-01-01 | 2007-01-01 |
 | Legea nr. 332/2005 | [`lege/2005/332/`](lege/2005/332/) | in force | 1 | 2005-12-05 | 2005-12-05 |
 | Legea nr. 339/2005 | [`lege/2005/339/`](lege/2005/339/) | in force | 9 | 2005-12-05 | 2024-09-29 |
 | Legea nr. 344/2005 | [`lege/2005/344/`](lege/2005/344/) | in force | 2 | 2006-02-03 | 2023-11-11 |
@@ -433,7 +459,9 @@
 | Legea nr. 37/2006 | [`lege/2006/37/`](lege/2006/37/) | in force | 3 | 2006-03-06 | 2011-01-02 |
 | Legea nr. 38/2006 | [`lege/2006/38/`](lege/2006/38/) | in force | 1 | 2006-03-09 | 2006-03-09 |
 | Legea serviciilor comunitare de utilități publice nr. 51/2006 | [`lege/2006/51/`](lege/2006/51/) | in force | 19 | 2006-03-24 | 2026-02-25 |
+| Legea nr. 55/2006 | [`lege/2006/55/`](lege/2006/55/) | in force | 8 | 2006-04-13 | 2019-12-12 |
 | Legea nr. 66/2006 | [`lege/2006/66/`](lege/2006/66/) | in force | 1 | 2006-03-31 | 2006-03-31 |
+| Legea nr. 67/2006 | [`lege/2006/67/`](lege/2006/67/) | in force | 2 | 2007-01-01 | 2018-06-17 |
 | Legea nr. 85/2006 privind procedura insolvenței | [`lege/2006/85/`](lege/2006/85/) | repealed 2014-06-28 | 12 | 2006-07-20 | 2014-06-28 |
 | Legea nr. 86/2006 privind Codul vamal al României | [`lege/2006/86/`](lege/2006/86/) | in force | 13 | 2006-06-18 | 2025-12-18 |
 | Legea nr. 87/2006 | [`lege/2006/87/`](lege/2006/87/) | in force | 1 | 2006-04-16 | 2006-04-16 |
@@ -467,6 +495,7 @@
 | Legea nr. 337/2006 | [`lege/2006/337/`](lege/2006/337/) | in force | 2 | 2006-07-23 | 2006-08-01 |
 | Legea nr. 343/2006 pentru modificarea și completarea Legii nr. 571/2003 privind Codul fiscal | [`lege/2006/343/`](lege/2006/343/) | amending act | 1 | 2006-08-04 | 2006-08-04 |
 | Legea nr. 346/2006 privind organizarea și funcționarea Ministerului Apărării Naționale | [`lege/2006/346/`](lege/2006/346/) | in force | 1 | 2017-11-02 | 2017-11-02 |
+| Legea nr. 350/2006 | [`lege/2006/350/`](lege/2006/350/) | in force | 4 | 2006-09-25 | 2017-12-25 |
 | Legea nr. 351/2006 | [`lege/2006/351/`](lege/2006/351/) | in force | 1 | 2006-08-25 | 2006-08-25 |
 | Legea nr. 363/2006 privind aprobarea Planului de amenajare a teritoriului național - Secțiunea I - Rețele de transport | [`lege/2006/363/`](lege/2006/363/) | amending act | 2 | 2006-09-29 | 2019-06-01 |
 | Legea nr. 369/2006 | [`lege/2006/369/`](lege/2006/369/) | in force | 1 | 2006-10-19 | 2006-10-19 |
@@ -482,12 +511,14 @@
 | Legea nr. 411/2006 | [`lege/2006/411/`](lege/2006/411/) | in force | 1 | 2006-11-27 | 2006-11-27 |
 | Legea nr. 441/2006 pentru modificarea și completarea Legii nr. 31/1990 privind societățile comerciale, republicată, și a Legii nr. 26/1990 privind registrul comerțului, republicată | [`lege/2006/441/`](lege/2006/441/) | amending act | 2 | 2006-12-01 | 2007-01-01 |
 | Legea nr. 448/2006 privind protecția și promovarea drepturilor persoanelor cu handicap | [`lege/2006/448/`](lege/2006/448/) | in force | 57 | 2007-01-01 | 2025-03-30 |
+| Legea nr. 467/2006 | [`lege/2006/467/`](lege/2006/467/) | in force | 2 | 2007-01-01 | 2018-06-17 |
 | Legea nr. 474/2006 privind aprobarea Ordonanței de urgență a Guvernului nr. 39/2006 pentru modificarea și completarea Legii Arhivelor Naționale nr. 16/1996 | [`lege/2006/474/`](lege/2006/474/) | amending act | 1 | 2006-12-24 | 2006-12-24 |
 | Legea nr. 497/2006 | [`lege/2006/497/`](lege/2006/497/) | in force | 1 | 2007-01-13 | 2007-01-13 |
 | Legea nr. 509/2006 | [`lege/2006/509/`](lege/2006/509/) | in force | 2 | 2007-01-14 | 2019-01-01 |
 | Legea nr. 512/2006 | [`lege/2006/512/`](lege/2006/512/) | in force | 1 | 2007-01-13 | 2007-01-13 |
 | Legea nr. 7/2007 | [`lege/2007/7/`](lege/2007/7/) | in force | 1 | 2007-01-20 | 2007-01-20 |
 | Legea nr. 9/2007 | [`lege/2007/9/`](lege/2007/9/) | in force | 1 | 2007-01-20 | 2007-01-20 |
+| Legea nr. 13/2007 energiei electrice | [`lege/2007/13/`](lege/2007/13/) | in force | 7 | 2007-02-22 | 2012-10-06 |
 | Legea nr. 27/2007 | [`lege/2007/27/`](lege/2007/27/) | in force | 1 | 2007-01-21 | 2007-01-21 |
 | Legea nr. 35/2007 | [`lege/2007/35/`](lege/2007/35/) | in force | 2 | 2007-03-11 | 2010-03-07 |
 | Legea nr. 57/2007 | [`lege/2007/57/`](lege/2007/57/) | in force | 3 | 2007-03-19 | 2011-01-12 |
@@ -515,6 +546,7 @@
 | Legea nr. 252/2007 | [`lege/2007/252/`](lege/2007/252/) | in force | 1 | 2007-07-30 | 2007-07-30 |
 | Legea nr. 255/2007 | [`lege/2007/255/`](lege/2007/255/) | in force | 1 | 2008-01-01 | 2008-01-01 |
 | Legea nr. 257/2007 | [`lege/2007/257/`](lege/2007/257/) | in force | 1 | 2007-07-30 | 2007-07-30 |
+| Legea nr. 258/2007 privind practica elevilor şi studenţilor | [`lege/2007/258/`](lege/2007/258/) | in force | 2 | 2007-07-27 | 2015-01-15 |
 | Legea nr. 263/2007 | [`lege/2007/263/`](lege/2007/263/) | in force | 4 | 2007-08-29 | 2018-08-02 |
 | Legea nr. 264/2007 | [`lege/2007/264/`](lege/2007/264/) | in force | 1 | 2007-07-30 | 2007-07-30 |
 | Legea nr. 275/2007 privind aprobarea Ordonanței de urgență a Guvernului nr. 14/2007 pentru modificarea și completarea Legii nr. 448/2006 privind protecția și promovarea drepturilor persoanelor cu handicap | [`lege/2007/275/`](lege/2007/275/) | amending act | 1 | 2007-10-20 | 2007-10-20 |
@@ -528,6 +560,7 @@
 | Legea nr. 349/2007 | [`lege/2007/349/`](lege/2007/349/) | in force | 4 | 2007-12-10 | 2013-12-07 |
 | Legea nr. 350/2007 | [`lege/2007/350/`](lege/2007/350/) | in force | 2 | 2008-03-11 | 2013-02-15 |
 | Legea nr. 363/2007 | [`lege/2007/363/`](lege/2007/363/) | in force | 7 | 2007-12-31 | 2022-05-28 |
+| Legea nr. 4/2008 | [`lege/2008/4/`](lege/2008/4/) | in force | 5 | 2008-02-10 | 2016-12-23 |
 | Legea nr. 6/2008 | [`lege/2008/6/`](lege/2008/6/) | in force | 1 | 2008-01-14 | 2008-01-14 |
 | Legea nr. 7/2008 | [`lege/2008/7/`](lege/2008/7/) | in force | 1 | 2008-01-14 | 2008-01-14 |
 | Legea nr. 9/2008 | [`lege/2008/9/`](lege/2008/9/) | in force | 1 | 2008-01-18 | 2008-01-18 |
@@ -539,6 +572,7 @@
 | Legea nr. 100/2008 | [`lege/2008/100/`](lege/2008/100/) | in force | 1 | 2008-05-19 | 2008-05-19 |
 | Legea nr. 104/2008 | [`lege/2008/104/`](lege/2008/104/) | in force | 7 | 2008-05-19 | 2021-08-27 |
 | Legea nr. 109/2008 | [`lege/2008/109/`](lege/2008/109/) | in force | 1 | 2008-05-17 | 2008-05-17 |
+| Legea nr. 123/2008 | [`lege/2008/123/`](lege/2008/123/) | in force | 1 | 2008-07-02 | 2008-07-02 |
 | Legea nr. 158/2008 | [`lege/2008/158/`](lege/2008/158/) | in force | 3 | 2008-07-27 | 2013-07-24 |
 | Legea nr. 198/2008 | [`lege/2008/198/`](lege/2008/198/) | in force | 8 | 2008-11-27 | 2024-11-07 |
 | Legea nr. 220/2008 pentru stabilirea sistemului de promovare a producerii energiei din surse regenerabile de energie | [`lege/2008/220/`](lege/2008/220/) | in force | 25 | 2008-11-06 | 2025-11-07 |
@@ -548,6 +582,7 @@
 | Legea nr. 260/2008 | [`lege/2008/260/`](lege/2008/260/) | in force | 8 | 2009-03-10 | 2023-11-11 |
 | Legea nr. 265/2008 | [`lege/2008/265/`](lege/2008/265/) | in force | 12 | 2009-02-18 | 2025-02-03 |
 | Legea farmaciei nr. 266/2008 | [`lege/2008/266/`](lege/2008/266/) | in force | 16 | 2009-01-12 | 2024-10-26 |
+| Legea nr. 268/2008 privind aprobarea Ordonanței de urgență a Guvernului nr. 26/2008 pentru modificarea și completarea Legii nr. 295/2004 privind regimul armelor și al munițiilor | [`lege/2008/268/`](lege/2008/268/) | amending act | 2 | 2008-11-17 | 2014-02-01 |
 | Legea nr. 287/2008 | [`lege/2008/287/`](lege/2008/287/) | in force | 1 | 2008-12-13 | 2008-12-13 |
 | Legea nr. 291/2008 | [`lege/2008/291/`](lege/2008/291/) | in force | 1 | 2008-11-23 | 2008-11-23 |
 | Legea nr. 7/2009 | [`lege/2009/7/`](lege/2009/7/) | in force | 1 | 2009-02-23 | 2009-02-23 |
@@ -559,6 +594,7 @@
 | Legea nr. 98/2009 | [`lege/2009/98/`](lege/2009/98/) | in force | 1 | 2009-04-19 | 2009-04-19 |
 | Legea nr. 172/2009 privind aprobarea Ordonanței de urgență a Guvernului nr. 216/2008 pentru modificarea și completarea Legii nr. 290/2004 privind cazierul judiciar | [`lege/2009/172/`](lege/2009/172/) | amending act | 2 | 2009-05-17 | 2016-12-10 |
 | Legea nr. 226/2009 organizării și funcționării statisticii oficiale în România | [`lege/2009/226/`](lege/2009/226/) | in force | 7 | 2009-06-14 | 2017-07-01 |
+| Legea nr. 238/2009 | [`lege/2009/238/`](lege/2009/238/) | in force | 2 | 2009-06-18 | 2012-07-12 |
 | Legea nr. 242/2009 privind aprobarea Ordonanței Guvernului nr. 27/2008 pentru modificarea și completarea Legii nr. 350/2001 privind amenajarea teritoriului și urbanismul | [`lege/2009/242/`](lege/2009/242/) | amending act | 1 | 2009-07-06 | 2009-07-06 |
 | Legea nr. 249/2009 | [`lege/2009/249/`](lege/2009/249/) | in force | 1 | 2009-07-06 | 2009-07-06 |
 | Codul penal (Legea nr. 286/2009) | [`lege/2009/286/`](lege/2009/286/) | in force | 45 | 2014-02-01 | 2026-04-26 |
@@ -598,6 +634,7 @@
 | Legea nr. 171/2010 | [`lege/2010/171/`](lege/2010/171/) | in force | 11 | 2010-08-22 | 2025-01-12 |
 | Legea nr. 174/2010 privind transmiterea unor terenuri din domeniul public al statului și din administrarea Academiei de Științe Agricole și Silvice "Gheorghe Ionescu-Șișești" - Stațiunea de Cercetare-Dezvoltare Agricolă Suceava în domeniul public al municipiului Suceava și în administrarea Consiliului Local al Municipiului Suceava, județul Suceava | [`lege/2010/174/`](lege/2010/174/) | in force | 1 | 2010-07-25 | 2010-07-25 |
 | Legea nr. 176/2010 privind integritatea în exercitarea funcțiilor și demnităților publice, pentru modificarea și completarea Legii nr. 144/2007 privind înființarea, organizarea și funcționarea Agenției Naționale de Integritate, precum și pentru modificarea și completarea altor acte normative | [`lege/2010/176/`](lege/2010/176/) | amending act | 14 | 2010-09-05 | 2025-11-22 |
+| Legea nr. 178/2010 | [`lege/2010/178/`](lege/2010/178/) | in force | 7 | 2010-11-04 | 2015-01-21 |
 | Legea nr. 183/2010 | [`lege/2010/183/`](lege/2010/183/) | in force | 1 | 2010-10-31 | 2010-10-31 |
 | Legea nr. 192/2010 | [`lege/2010/192/`](lege/2010/192/) | in force | 4 | 2010-10-21 | 2019-04-25 |
 | Legea nr. 221/2010 | [`lege/2010/221/`](lege/2010/221/) | in force | 1 | 2010-11-29 | 2010-11-29 |
@@ -650,6 +687,7 @@
 | Legea nr. 76/2012 pentru punerea în aplicare a Legii nr. 134/2010 privind Codul de procedură civilă | [`lege/2012/76/`](lege/2012/76/) | in force | 6 | 2012-06-02 | 2014-10-19 |
 | Legea nr. 103/2012 | [`lege/2012/103/`](lege/2012/103/) | in force | 1 | 2012-07-09 | 2012-07-09 |
 | Legea nr. 109/2012 | [`lege/2012/109/`](lege/2012/109/) | in force | 1 | 2012-07-12 | 2012-07-12 |
+| Legea nr. 115/2012 | [`lege/2012/115/`](lege/2012/115/) | in force | 3 | 2012-10-01 | 2015-01-23 |
 | Legea energiei electrice și a gazelor naturale nr. 123/2012 | [`lege/2012/123/`](lege/2012/123/) | in force | 48 | 2012-07-19 | 2025-12-19 |
 | Legea nr. 134/2012 | [`lege/2012/134/`](lege/2012/134/) | in force | 2 | 2012-07-26 | 2013-07-01 |
 | Legea nr. 148/2012 | [`lege/2012/148/`](lege/2012/148/) | in force | 1 | 2012-07-27 | 2012-07-27 |
@@ -757,9 +795,11 @@
 | Legea nr. 157/2015 | [`lege/2015/157/`](lege/2015/157/) | in force | 1 | 2015-06-26 | 2015-06-26 |
 | Legea nr. 158/2015 | [`lege/2015/158/`](lege/2015/158/) | in force | 1 | 2015-06-26 | 2015-06-26 |
 | Legea nr. 159/2015 | [`lege/2015/159/`](lege/2015/159/) | in force | 1 | 2015-06-26 | 2015-06-26 |
+| Legea nr. 173/2015 | [`lege/2015/173/`](lege/2015/173/) | in force | 2 | 2015-07-04 | 2015-07-31 |
 | Legea nr. 180/2015 | [`lege/2015/180/`](lege/2015/180/) | in force | 1 | 2015-07-04 | 2015-07-04 |
 | Legea nr. 187/2015 | [`lege/2015/187/`](lege/2015/187/) | in force | 2 | 2015-07-10 | 2015-08-06 |
 | Legea nr. 191/2015 | [`lege/2015/191/`](lege/2015/191/) | in force | 1 | 2015-07-09 | 2015-07-09 |
+| Legea nr. 198/2015 privind aprobarea Ordonanței Guvernului nr. 7/2010 pentru modificarea și completarea Ordonanței Guvernului nr. 43/1997 privind regimul drumurilor | [`lege/2015/198/`](lege/2015/198/) | amending act | 2 | 2015-08-15 | 2015-10-14 |
 | Legea nr. 203/2015 | [`lege/2015/203/`](lege/2015/203/) | in force | 2 | 2015-07-30 | 2018-03-31 |
 | Codul de procedură fiscală (Legea nr. 207/2015) | [`lege/2015/207/`](lege/2015/207/) | in force | 62 | 2016-01-01 | 2026-02-25 |
 | Legea nr. 208/2015 privind alegerea Senatului și a Camerei Deputaților, precum și pentru organizarea și funcționarea Autorității Electorale Permanente | [`lege/2015/208/`](lege/2015/208/) | in force | 15 | 2015-07-27 | 2024-10-08 |
@@ -783,6 +823,7 @@
 | Legea nr. 249/2015 | [`lege/2015/249/`](lege/2015/249/) | in force | 9 | 2015-11-02 | 2023-11-03 |
 | Legea nr. 269/2015 privind aprobarea Ordonanței de urgență a Guvernului nr. 4/2015 pentru modificarea Ordonanței de urgență a Guvernului nr. 82/2011 privind unele măsuri de organizare a activității de îmbunătățiri funciare | [`lege/2015/269/`](lege/2015/269/) | amending act | 5 | 2015-11-15 | 2022-05-19 |
 | Legea nr. 279/2015 | [`lege/2015/279/`](lege/2015/279/) | in force | 1 | 2015-11-20 | 2015-11-20 |
+| Legea nr. 288/2015 | [`lege/2015/288/`](lege/2015/288/) | in force | 6 | 2015-11-22 | 2020-09-19 |
 | Legea nr. 293/2015 | [`lege/2015/293/`](lege/2015/293/) | in force | 2 | 2015-11-28 | 2017-07-01 |
 | Legea nr. 299/2015 | [`lege/2015/299/`](lege/2015/299/) | in force | 1 | 2015-12-06 | 2015-12-06 |
 | Legea nr. 305/2015 | [`lege/2015/305/`](lege/2015/305/) | in force | 1 | 2015-12-07 | 2015-12-07 |
@@ -807,6 +848,7 @@
 | Legea nr. 78/2016 | [`lege/2016/78/`](lege/2016/78/) | in force | 1 | 2016-05-01 | 2016-05-01 |
 | Legea nr. 83/2016 | [`lege/2016/83/`](lege/2016/83/) | in force | 1 | 2016-05-07 | 2016-05-07 |
 | Legea nr. 85/2016 | [`lege/2016/85/`](lege/2016/85/) | in force | 1 | 2016-05-08 | 2016-05-08 |
+| Legea nr. 95/2016 | [`lege/2016/95/`](lege/2016/95/) | in force | 5 | 2016-05-16 | 2019-11-21 |
 | Legea nr. 98/2016 privind achizițiile publice | [`lege/2016/98/`](lege/2016/98/) | in force | 23 | 2016-05-26 | 2026-01-01 |
 | Legea nr. 99/2016 privind achizițiile sectoriale | [`lege/2016/99/`](lege/2016/99/) | in force | 22 | 2016-05-26 | 2024-05-24 |
 | Legea nr. 100/2016 privind concesiunile de lucrări și concesiunile de servicii | [`lege/2016/100/`](lege/2016/100/) | in force | 14 | 2016-05-26 | 2024-11-17 |
@@ -820,6 +862,7 @@
 | Legea nr. 157/2016 | [`lege/2016/157/`](lege/2016/157/) | in force | 1 | 2016-07-23 | 2016-07-23 |
 | Legea nr. 159/2016 | [`lege/2016/159/`](lege/2016/159/) | in force | 7 | 2016-07-28 | 2024-10-08 |
 | Legea nr. 163/2016 | [`lege/2016/163/`](lege/2016/163/) | in force | 2 | 2016-08-24 | 2018-02-23 |
+| Legea nr. 164/2016 | [`lege/2016/164/`](lege/2016/164/) | in force | 2 | 2016-07-29 | 2016-08-25 |
 | Legea nr. 169/2016 | [`lege/2016/169/`](lege/2016/169/) | in force | 1 | 2016-10-06 | 2016-10-06 |
 | Legea nr. 170/2016 privind impozitul specific unor activități | [`lege/2016/170/`](lege/2016/170/) | in force | 2 | 2017-01-01 | 2020-07-27 |
 | Legea nr. 172/2016 | [`lege/2016/172/`](lege/2016/172/) | in force | 1 | 2016-11-12 | 2016-11-12 |
@@ -831,6 +874,7 @@
 | Legea nr. 184/2016 | [`lege/2016/184/`](lege/2016/184/) | in force | 2 | 2016-10-23 | 2017-06-20 |
 | Legea nr. 185/2016 | [`lege/2016/185/`](lege/2016/185/) | in force | 1 | 2016-10-28 | 2016-10-28 |
 | Legea nr. 186/2016 | [`lege/2016/186/`](lege/2016/186/) | in force | 3 | 2016-10-27 | 2017-12-10 |
+| Legea nr. 193/2016 | [`lege/2016/193/`](lege/2016/193/) | in force | 2 | 2016-11-05 | 2017-07-01 |
 | Legea nr. 201/2016 privind stabilirea condițiilor pentru fabricarea, prezentarea și vânzarea produselor din tutun și a produselor conexe și de modificare a Legii nr. 349/2002 pentru prevenirea și combaterea efectelor consumului produselor din tutun | [`lege/2016/201/`](lege/2016/201/) | amending act | 6 | 2016-12-10 | 2024-03-31 |
 | Legea nr. 202/2016 | [`lege/2016/202/`](lege/2016/202/) | in force | 7 | 2016-11-12 | 2025-09-12 |
 | Legea nr. 210/2016 | [`lege/2016/210/`](lege/2016/210/) | in force | 1 | 2016-11-17 | 2016-11-17 |
@@ -886,6 +930,7 @@
 | Legea nr. 222/2017 pentru realizarea "Capabilității de apărare aeriană cu baza la sol", aferentă programului de înzestrare esențial "Sistem de rachete sol-aer cu bătaie mare (HSAM)" | [`lege/2017/222/`](lege/2017/222/) | in force | 1 | 2021-03-15 | 2021-03-15 |
 | Legea nr. 228/2017 privind modificarea și completarea Legii nr. 235/2010 pentru acordarea burselor de merit olimpic internațional elevilor premiați la olimpiadele școlare internaționale | [`lege/2017/228/`](lege/2017/228/) | amending act | 1 | 2017-12-02 | 2017-12-02 |
 | Legea nr. 231/2017 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 18/2009 privind creșterea performanței energetice a blocurilor de locuințe | [`lege/2017/231/`](lege/2017/231/) | amending act | 2 | 2017-12-08 | 2024-07-25 |
+| Legea nr. 232/2017 pentru modificarea și completarea Legii nr. 156/2000 privind protecția cetățenilor români care lucrează în străinătate | [`lege/2017/232/`](lege/2017/232/) | amending act | 1 | 2018-03-05 | 2018-03-05 |
 | Legea nr. 233/2017 privind respingerea Ordonanței Guvernului nr. 14/2015 pentru completarea Ordonanței de urgență a Guvernului nr. 83/2014 privind salarizarea personalului plătit din fonduri publice în anul 2015, precum și alte măsuri în domeniul cheltuielilor publice | [`lege/2017/233/`](lege/2017/233/) | amending act | 1 | 2017-12-08 | 2017-12-08 |
 | Legea nr. 234/2017 privind aprobarea Ordonanței Guvernului nr. 6/2017 pentru prorogarea termenului de intrare în vigoare a Legii nr. 151/2015 privind procedura insolvenței persoanelor fizice | [`lege/2017/234/`](lege/2017/234/) | amending act | 1 | 2017-12-08 | 2017-12-08 |
 | Legea nr. 235/2017 pentru modificarea și completarea Ordonanței Guvernului nr. 22/1999 privind administrarea porturilor și a căilor navigabile, utilizarea infrastructurilor de transport naval aparținând domeniului public, precum și desfășurarea activităților de transport naval în porturi și pe căile navigabile interioare | [`lege/2017/235/`](lege/2017/235/) | amending act | 1 | 2017-12-10 | 2017-12-10 |
@@ -897,6 +942,7 @@
 | Legea nr. 253/2017 privind instituirea Zilei limbii și teatrului idiș | [`lege/2017/253/`](lege/2017/253/) | in force | 1 | 2017-12-18 | 2017-12-18 |
 | Legea nr. 258/2017 privind comparabilitatea comisioanelor aferente conturilor de plăți, schimbarea conturilor de plăți și accesul la conturile de plăți cu servicii de bază | [`lege/2017/258/`](lege/2017/258/) | in force | 2 | 2018-01-27 | 2024-06-16 |
 | Legea nr. 265/2017 pentru aprobarea Ordonanței Guvernului nr. 9/2017 privind prorogarea termenului prevăzut la art. IV din Ordonanța de urgență a Guvernului nr. 51/2016 pentru modificarea și completarea Legii nr. 171/2010 privind stabilirea și sancționarea contravențiilor silvice | [`lege/2017/265/`](lege/2017/265/) | amending act | 1 | 2017-12-25 | 2017-12-25 |
+| Legea nr. 270/2017 prevenirii | [`lege/2017/270/`](lege/2017/270/) | in force | 2 | 2017-12-31 | 2018-01-17 |
 | Legea nr. 274/2017 pentru aprobarea Ordonanței de urgență a Guvernului nr. 62/2017 privind completarea art. II din Legea nr. 152/2017 pentru aprobarea Ordonanței de urgență a Guvernului nr. 99/2016 privind unele măsuri pentru salarizarea personalului plătit din fonduri publice, prorogarea unor termene, precum și unele măsuri fiscal-bugetare | [`lege/2017/274/`](lege/2017/274/) | amending act | 1 | 2017-12-31 | 2017-12-31 |
 | Legea nr. 275/2017 pentru aprobarea Ordonanței Guvernului nr. 23/2017 privind plata defalcată a TVA | [`lege/2017/275/`](lege/2017/275/) | amending act | 1 | 2017-12-31 | 2017-12-31 |
 | Legea nr. 277/2017 privind aprobarea Ordonanței Guvernului nr. 26/2017 pentru modificarea Ordonanței Guvernului nr. 107/1999 privind activitatea de comercializare a pachetelor de servicii turistice | [`lege/2017/277/`](lege/2017/277/) | amending act | 1 | 2018-01-07 | 2018-01-07 |
@@ -922,6 +968,7 @@
 | Legea nr. 90/2018 pentru aprobarea Ordonanței de urgență a Guvernului nr. 38/2017 privind modificarea și completarea Legii educației fizice și sportului nr. 69/2000 | [`lege/2018/90/`](lege/2018/90/) | amending act | 1 | 2018-04-20 | 2018-04-20 |
 | Legea nr. 95/2018 privind adoptarea unor măsuri în domeniul finanțării învățământului | [`lege/2018/95/`](lege/2018/95/) | in force | 1 | 2018-04-27 | 2018-04-27 |
 | Legea nr. 126/2018 privind piețele de instrumente financiare | [`lege/2018/126/`](lege/2018/126/) | in force | 11 | 2018-07-06 | 2026-01-16 |
+| Legea nr. 129/2018 pentru modificarea și completarea Legii nr. 102/2005 privind înființarea, organizarea și funcționarea Autorității Naționale de Supraveghere a Prelucrării Datelor cu Caracter Personal, precum și pentru abrogarea Legii nr. 677/2001 pentru protecția persoanelor cu privire la prelucrarea datelor cu caracter personal și libera circulație a acestor date | [`lege/2018/129/`](lege/2018/129/) | amending act | 1 | 2018-06-24 | 2018-06-24 |
 | Legea nr. 142/2018 privind precursorii de droguri | [`lege/2018/142/`](lege/2018/142/) | in force | 2 | 2018-06-28 | 2018-07-25 |
 | Legea nr. 145/2018 pentru aprobarea Ordonanței de urgență a Guvernului nr. 18/2018 privind adoptarea unor măsuri fiscal-bugetare și pentru modificarea și completarea unor acte normative | [`lege/2018/145/`](lege/2018/145/) | amending act | 2 | 2018-06-25 | 2019-03-21 |
 | Legea nr. 149/2018 pentru modificarea și completarea unor acte normative din domeniul apărării, ordinii publice și securității naționale | [`lege/2018/149/`](lege/2018/149/) | amending act | 1 | 2018-06-30 | 2018-06-30 |
@@ -963,6 +1010,7 @@
 | Legea nr. 302/2018 privind măsurile de control al tuberculozei | [`lege/2018/302/`](lege/2018/302/) | in force | 1 | 2018-12-15 | 2018-12-15 |
 | Legea nr. 305/2018 pentru modificarea și completarea Legii nr. 273/2006 privind finanțele publice locale, precum și pentru modificarea alin. (5) al art. 15 din Legea administrației publice locale nr. 215/2001 | [`lege/2018/305/`](lege/2018/305/) | amending act | 1 | 2018-12-15 | 2018-12-15 |
 | Legea nr. 310/2018 pentru modificarea și completarea Legii nr. 134/2010 privind Codul de procedură civilă , precum și pentru modificarea și completarea altor acte normative | [`lege/2018/310/`](lege/2018/310/) | amending act | 1 | 2018-12-21 | 2018-12-21 |
+| Legea nr. 328/2018 pentru modificarea și completarea Legii serviciilor de transport public local nr. 92/2007 | [`lege/2018/328/`](lege/2018/328/) | amending act | 3 | 2018-12-31 | 2020-04-04 |
 | Legea nr. 337/2018 privind statutul inspectorului de muncă | [`lege/2018/337/`](lege/2018/337/) | in force | 2 | 2018-12-31 | 2024-11-17 |
 | Legea nr. 351/2018 privind finanțarea activității Administrației Naționale a Penitenciarelor și a unităților subordonate | [`lege/2018/351/`](lege/2018/351/) | in force | 1 | 2019-01-07 | 2019-01-07 |
 | Legea nr. 353/2018 privind aprobarea Ordonanței Guvernului nr. 9/2016 pentru modificarea și completarea Legii nr. 449/2003 privind vânzarea produselor și garanțiile asociate acestora | [`lege/2018/353/`](lege/2018/353/) | amending act | 1 | 2019-01-06 | 2019-01-06 |
@@ -1028,6 +1076,7 @@
 | Legea nr. 255/2019 privind instituirea zilei de 1 noiembrie ca Ziua Națională a Radioului | [`lege/2019/255/`](lege/2019/255/) | in force | 1 | 2020-01-02 | 2020-01-02 |
 | Legea nr. 261/2019 pentru ratificarea Scrisorii de înțelegere privind avansul pentru pregătirea Proiectului de dezvoltare propus, "Cartierul pentru justiție", dintre România și Banca Internațională pentru Reconstrucție și Dezvoltare, semnată la Bruxelles la 30 mai 2019 și la București la 6 iunie 2019 | [`lege/2019/261/`](lege/2019/261/) | in force | 1 | 2020-01-03 | 2020-01-03 |
 | Legea nr. 1/2020 privind pensiile ocupaționale | [`lege/2020/1/`](lege/2020/1/) | in force | 2 | 2020-02-07 | 2023-04-07 |
+| Legea nr. 14/2020 privind aprobarea Ordonanței de urgență a Guvernului nr. 9/2019 pentru modificarea și completarea Legii nr. 61/1993 privind alocația de stat pentru copii, precum și pentru modificarea art. 58 alin. (1) din Legea nr. 448/2006 privind protecția și promovarea drepturilor persoanelor cu handicap | [`lege/2020/14/`](lege/2020/14/) | amending act | 1 | 2020-02-01 | 2020-02-01 |
 | Legea nr. 27/2020 privind limba semnelor române | [`lege/2020/27/`](lege/2020/27/) | in force | 1 | 2020-04-02 | 2020-04-02 |
 | Legea nr. 33/2020 pentru completarea Legii concediului paternal nr. 210/1999 și pentru abrogarea art. 10 alin. (7) din Ordonanța de urgență a Guvernului nr. 90/2017 privind unele măsuri fiscal-bugetare, modificarea și completarea unor acte normative și prorogarea unor termene | [`lege/2020/33/`](lege/2020/33/) | amending act | 1 | 2020-04-04 | 2020-04-04 |
 | Legea nr. 35/2020 privind acordarea unui ajutor financiar familiilor pentru plata serviciilor oferite de bonă | [`lege/2020/35/`](lege/2020/35/) | in force | 2 | 2020-04-16 | 2020-05-31 |
@@ -1053,6 +1102,7 @@
 | Legea nr. 122/2020 pentru modificarea și completarea Legii apelor nr. 107/1996 | [`lege/2020/122/`](lege/2020/122/) | amending act | 3 | 2020-07-16 | 2023-06-12 |
 | Legea nr. 123/2020 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 195/2005 privind protecția mediului | [`lege/2020/123/`](lege/2020/123/) | amending act | 1 | 2020-07-16 | 2020-07-16 |
 | Legea nr. 129/2020 pentru modificarea Legii nr. 62/2018 privind combaterea buruienii ambrozia | [`lege/2020/129/`](lege/2020/129/) | amending act | 1 | 2020-07-18 | 2020-07-18 |
+| Legea nr. 133/2020 pentru completarea art. 83 din Legea educației naționale nr. 1/2011 | [`lege/2020/133/`](lege/2020/133/) | amending act | 1 | 2021-09-01 | 2021-09-01 |
 | Legea nr. 135/2020 privind stabilirea datei alegerilor pentru autoritățile administrației publice locale din anul 2020, precum și a unor măsuri pentru buna organizare și desfășurare a acestora | [`lege/2020/135/`](lege/2020/135/) | in force | 1 | 2020-07-19 | 2020-07-19 |
 | Legea nr. 137/2020 pentru declararea lui Mihai Viteazul, Domn al Țării Românești și al Moldovei și Principe al Transilvaniei, martir și erou al națiunii române | [`lege/2020/137/`](lege/2020/137/) | in force | 1 | 2020-07-25 | 2020-07-25 |
 | Legea nr. 141/2020 pentru aprobarea Ordonanței de urgență a Guvernului nr. 67/2020 privind modificarea unor acte normative și prelungirea unor termene | [`lege/2020/141/`](lege/2020/141/) | amending act | 1 | 2020-07-25 | 2020-07-25 |
@@ -1063,16 +1113,19 @@
 | Legea nr. 152/2020 privind organizarea și finanțarea serviciilor de promovare a sănătății și prevenire a îmbolnăvirilor | [`lege/2020/152/`](lege/2020/152/) | in force | 2 | 2020-08-23 | 2023-09-04 |
 | Legea nr. 153/2020 pentru modificarea și completarea Legii nr. 227/2015 privind Codul fiscal , precum și pentru completarea Legii nr. 170/2016 privind impozitul specific unor activități | [`lege/2020/153/`](lege/2020/153/) | amending act | 1 | 2020-07-27 | 2020-07-27 |
 | Legea nr. 154/2020 pentru modificarea art. 19 lit. a) din Ordonanța de urgență a Guvernului nr. 49/2019 privind activitățile de transport alternativ cu autoturism și conducător auto | [`lege/2020/154/`](lege/2020/154/) | amending act | 1 | 2020-07-27 | 2020-07-27 |
+| Legea nr. 155/2020 pentru modificarea și completarea Legii energiei electrice și a gazelor naturale nr. 123/2012 și privind modificarea și completarea altor acte normative | [`lege/2020/155/`](lege/2020/155/) | amending act | 2 | 2020-07-30 | 2020-09-25 |
 | Legea nr. 156/2020 pentru modificarea Legii-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice | [`lege/2020/156/`](lege/2020/156/) | amending act | 1 | 2020-07-30 | 2020-07-30 |
 | Legea nr. 162/2020 pentru modificarea și completarea unor acte normative care cuprind dispoziții privind evidența persoanelor și actele de identitate ale cetățenilor români | [`lege/2020/162/`](lege/2020/162/) | amending act | 1 | 2020-08-07 | 2020-08-07 |
 | Legea nr. 167/2020 pentru modificarea și completarea Ordonanței Guvernului nr. 137/2000 privind prevenirea și sancționarea tuturor formelor de discriminare, precum și pentru completarea art. 6 din Legea nr. 202/2002 privind egalitatea de șanse și de tratament între femei și bărbați | [`lege/2020/167/`](lege/2020/167/) | amending act | 1 | 2020-08-10 | 2020-08-10 |
 | Legea nr. 168/2020 pentru recunoașterea meritelor personalului participant la acțiuni militare, misiuni și operații pe teritoriul sau în afara teritoriului statului român și acordarea unor drepturi acestuia, familiei acestuia și urmașilor celui decedat | [`lege/2020/168/`](lege/2020/168/) | in force | 5 | 2021-02-04 | 2024-06-30 |
+| Legea nr. 172/2020 pentru modificarea și completarea Legii nr. 16/2017 privind detașarea salariaților în cadrul prestării de servicii transnaționale | [`lege/2020/172/`](lege/2020/172/) | amending act | 1 | 2020-08-16 | 2020-08-16 |
 | Legea nr. 174/2020 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 217/2000 privind aprobarea coșului minim de consum lunar | [`lege/2020/174/`](lege/2020/174/) | amending act | 1 | 2020-08-17 | 2020-08-17 |
 | Legea nr. 175/2020 pentru modificarea și completarea Legii nr. 17/2014 privind unele măsuri de reglementare a vânzării-cumpărării terenurilor agricole situate în extravilan și de modificare a Legii nr. 268/2001 privind privatizarea societăților comerciale ce dețin în administrare terenuri proprietate publică și privată a statului cu destinație agricolă și înființarea Agenției Domeniilor Statului | [`lege/2020/175/`](lege/2020/175/) | amending act | 1 | 2020-10-13 | 2020-10-13 |
 | Legea nr. 181/2020 privind gestionarea deșeurilor nepericuloase compostabile | [`lege/2020/181/`](lege/2020/181/) | in force | 1 | 2021-02-20 | 2021-02-20 |
 | Legea nr. 182/2020 pentru stabilirea conținutului de acizi grași trans în produsele alimentare destinate consumului uman | [`lege/2020/182/`](lege/2020/182/) | in force | 1 | 2021-04-01 | 2021-04-01 |
 | Legea nr. 184/2020 pentru modificarea și completarea Legii educației naționale nr. 1/2011 | [`lege/2020/184/`](lege/2020/184/) | amending act | 1 | 2020-08-23 | 2020-08-23 |
 | Legea nr. 185/2020 pentru modificarea și completarea Legii educației naționale nr. 1/2011 | [`lege/2020/185/`](lege/2020/185/) | amending act | 1 | 2020-09-01 | 2020-09-01 |
+| Legea nr. 186/2020 pentru modificarea și completarea art. 58 din Legea educației naționale nr. 1/2011 | [`lege/2020/186/`](lege/2020/186/) | amending act | 1 | 2020-09-01 | 2020-09-01 |
 | Legea nr. 188/2020 pentru modificarea și completarea Legii nr. 263/2010 privind sistemul unitar de pensii publice | [`lege/2020/188/`](lege/2020/188/) | amending act | 1 | 2020-08-24 | 2020-08-24 |
 | Legea nr. 190/2020 privind utilizarea voluntară a logotipului "100% rasă autohtonă" pentru produsele de origine animală din România | [`lege/2020/190/`](lege/2020/190/) | in force | 1 | 2020-08-27 | 2020-08-27 |
 | Legea nr. 191/2020 pentru completarea art. 4 din Legea serviciului de iluminat public nr. 230/2006 | [`lege/2020/191/`](lege/2020/191/) | amending act | 1 | 2020-08-24 | 2020-08-24 |
@@ -1092,6 +1145,7 @@
 | Legea nr. 220/2020 pentru aprobarea Ordonanței de urgență a Guvernului nr. 130/2020 privind unele măsuri pentru acordarea de sprijin financiar din fonduri externe nerambursabile, aferente Programului operațional Competitivitate 2014-2020, în contextul crizei provocate de COVID-19, precum și alte măsuri în domeniul fondurilor europene | [`lege/2020/220/`](lege/2020/220/) | amending act | 1 | 2020-11-02 | 2020-11-02 |
 | Legea nr. 221/2020 pentru modificarea și completarea art. 1 din Ordonanța de urgență a Guvernului nr. 56/2015 privind plata tratamentului în străinătate al persoanelor a căror stare de sănătate a fost afectată în urma tragicului eveniment din data de 30 octombrie 2015 produs în clubul Colectiv din municipiul București | [`lege/2020/221/`](lege/2020/221/) | amending act | 1 | 2020-11-02 | 2020-11-02 |
 | Legea nr. 222/2020 pentru abrogarea Legii nr. 12/1990 privind protejarea populației împotriva unor activități de producție, comerț sau prestări de servicii ilicite și pentru modificarea și completarea Ordonanței Guvernului nr. 21/1992 privind protecția consumatorilor | [`lege/2020/222/`](lege/2020/222/) | amending act | 1 | 2020-11-05 | 2020-11-05 |
+| Legea nr. 223/2020 pentru simplificarea și debirocratizarea transferului de părți sociale și a vărsării capitalului social prin modificarea Legii societăților nr. 31/1990 | [`lege/2020/223/`](lege/2020/223/) | in force | 2 | 2020-11-05 | 2020-11-05 |
 | Legea nr. 226/2020 pentru modificarea și completarea Legii educației naționale nr. 1/2011 | [`lege/2020/226/`](lege/2020/226/) | amending act | 1 | 2020-11-05 | 2020-11-05 |
 | Legea nr. 228/2020 pentru modificarea și completarea unor acte normative din domeniul penal în vederea transpunerii unor directive ale Uniunii Europene | [`lege/2020/228/`](lege/2020/228/) | amending act | 1 | 2020-11-05 | 2020-11-05 |
 | Legea nr. 230/2020 pentru modificarea Legii nr. 227/2015 privind Codul fiscal | [`lege/2020/230/`](lege/2020/230/) | amending act | 1 | 2021-01-01 | 2021-01-01 |
@@ -1181,6 +1235,7 @@
 | Legea nr. 219/2021 pentru modificarea și completarea Legii nr. 104/2008 privind prevenirea și combaterea producerii și traficului ilicit de substanțe dopante cu grad mare de risc | [`lege/2021/219/`](lege/2021/219/) | amending act | 2 | 2021-07-31 | 2021-08-27 |
 | Legea nr. 221/2021 pentru completarea Legii nr. 55/2020 privind unele măsuri pentru prevenirea și combaterea efectelor pandemiei de COVID-19 | [`lege/2021/221/`](lege/2021/221/) | amending act | 1 | 2021-07-29 | 2021-07-29 |
 | Legea nr. 243/2021 pentru modificarea art. 1 alin. (3) din Legea nr. 406/2001 privind acordarea unor drepturi persoanelor care au avut calitatea de șef al statului român | [`lege/2021/243/`](lege/2021/243/) | amending act | 1 | 2021-10-11 | 2021-10-11 |
+| Legea nr. 249/2021 pentru completarea art. 84 din Legea educației naționale nr. 1/2011 | [`lege/2021/249/`](lege/2021/249/) | amending act | 1 | 2022-09-01 | 2022-09-01 |
 | Legea nr. 259/2021 pentru aprobarea Ordonanței de urgență a Guvernului nr. 118/2021 privind stabilirea unei scheme de compensare pentru consumul de energie electrică și gaze naturale pentru sezonul rece 2021-2022, precum și pentru completarea Ordonanței Guvernului nr. 27/1996 privind acordarea de facilități persoanelor care domiciliază sau lucrează în unele localități din Munții Apuseni și în Rezervația Biosferei "Delta Dunării" | [`lege/2021/259/`](lege/2021/259/) | amending act | 3 | 2021-11-01 | 2022-02-17 |
 | Legea nr. 267/2021 pentru completarea Ordonanței de urgență a Guvernului nr. 41/2016 privind stabilirea unor măsuri de simplificare la nivelul administrației publice centrale și pentru modificarea și completarea unor acte normative | [`lege/2021/267/`](lege/2021/267/) | amending act | 1 | 2022-01-01 | 2022-01-01 |
 | Legea nr. 268/2021 pentru înființarea Autorității Vamale Române și pentru modificarea unor acte normative | [`lege/2021/268/`](lege/2021/268/) | amending act | 2 | 2021-12-10 | 2024-06-26 |
@@ -1575,7 +1630,7 @@
 | Legea nr. 241/2025 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 31/2002 privind interzicerea organizațiilor, simbolurilor și faptelor cu caracter fascist, legionar, rasist sau xenofob și a promovării cultului persoanelor vinovate de săvârșirea unor infracțiuni de genocid contra umanității și de crime de război, precum și pentru modificarea Legii nr. 157/2018 privind unele măsuri pentru prevenirea și combaterea antisemitismului | [`lege/2025/241/`](lege/2025/241/) | amending act | 1 | 2025-12-27 | 2025-12-27 |
 | Legea nr. 245/2025 pentru modificarea art. 32 alin. (7) din Legea nr. 273/2006 privind finanțele publice locale | [`lege/2025/245/`](lege/2025/245/) | amending act | 1 | 2026-01-01 | 2026-01-01 |
 
-## Emergency ordinances (OUG) (1208, of which 481 amending acts)
+## Emergency ordinances (OUG) (1269, of which 490 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -1585,7 +1640,9 @@
 | Ordonanța de urgență a Guvernului nr. 41/1997 pentru modificarea și completarea Decretului-lege nr. 118/1990 privind acordarea unor drepturi persoanelor persecutate din motive politice de dictatura instaurată cu începere de la 6 martie 1945, precum și celor deportate în străinătate ori constituite în prizonieri | [`oug/1997/41/`](oug/1997/41/) | amending act | 2 | 1997-07-14 | 1998-03-09 |
 | Ordonanța de urgență a Guvernului nr. 51/1997 privind unele măsuri de conservare și de închidere a minelor | [`oug/1997/51/`](oug/1997/51/) | in force | 2 | 1997-09-19 | 1998-02-24 |
 | Ordonanța de urgență a Guvernului nr. 81/1997 pentru reglementarea plății premiilor anuale, a celui de-al 13-lea salariu sau a altor sume de aceasta natura, suportate din fondul de salarii, care, de regula, se acordă la finele anului | [`oug/1997/81/`](oug/1997/81/) | in force | 2 | 1997-12-17 | 1998-07-02 |
+| Ordonanța de urgență a Guvernului nr. 86/1997 privind aprobarea primei de export pentru cantitatea de un milion tone porumb boabe din recolta anului 1997 | [`oug/1997/86/`](oug/1997/86/) | amending act | 2 | 1997-12-24 | 1998-07-31 |
 | Ordonanța de urgență a Guvernului nr. 87/1997 pentru modificarea art. 8 alin. 1 din Ordonanța Guvernului nr. 59/1994 privind reglementarea operațiunilor de import-export care se derulează prin cliring, barter și cooperare economică internationala în baza acordurilor comerciale și de plati guvernamentale | [`oug/1997/87/`](oug/1997/87/) | amending act | 2 | 1997-12-24 | 1998-10-13 |
+| Ordonanța de urgență a Guvernului nr. 92/1997 | [`oug/1997/92/`](oug/1997/92/) | in force | 5 | 1997-12-30 | 2007-01-01 |
 | Ordonanța de urgență a Guvernului nr. 1/1998 | [`oug/1998/1/`](oug/1998/1/) | in force | 2 | 1998-01-26 | 1998-11-26 |
 | Ordonanța de urgență a Guvernului nr. 12/1998 | [`oug/1998/12/`](oug/1998/12/) | in force | 28 | 1998-07-08 | 2025-09-12 |
 | Ordonanța de urgență a Guvernului nr. 67/1998 privind restructurarea financiară a Băncii Române de Comerț Exterior - BANCOREX - S.A., în vederea privatizării | [`oug/1998/67/`](oug/1998/67/) | in force | 3 | 1998-12-30 | 1999-07-30 |
@@ -1593,6 +1650,7 @@
 | Ordonanța de urgență a Guvernului nr. 1/1999 | [`oug/1999/1/`](oug/1999/1/) | in force | 9 | 1999-01-21 | 2023-03-18 |
 | Ordonanța de urgență a Guvernului nr. 25/1999 pentru modificarea art. 15 din Legea nr. 44/1994 privind veteranii de război, precum și unele drepturi ale invalizilor și văduvelor de război | [`oug/1999/25/`](oug/1999/25/) | amending act | 2 | 1999-03-31 | 1999-06-25 |
 | Ordonanța de urgență a Guvernului nr. 28/1999 | [`oug/1999/28/`](oug/1999/28/) | in force | 32 | 1999-03-31 | 2024-12-26 |
+| Ordonanța de urgență a Guvernului nr. 40/1999 privind protecția chiriașilor și stabilirea chiriei pentru spațiile cu destinația de locuințe | [`oug/1999/40/`](oug/1999/40/) | in force | 7 | 1999-04-08 | 2011-10-01 |
 | Ordonanța de urgență a Guvernului nr. 44/1999 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 67/1998 privind restructurarea financiară a Băncii Române de Comerț Exterior - BANCOREX - S.A., în vederea privatizării | [`oug/1999/44/`](oug/1999/44/) | amending act | 2 | 1999-04-09 | 2001-12-13 |
 | Ordonanța de urgență a Guvernului nr. 52/1999 privind asigurarea unui cadru unitar pentru managementul proiectelor finanțate prin împrumuturi externe contractate sau garantate de stat, rambursabile sau nerambursabile, inclusiv privind plata specialiștilor români care își desfășoară activitatea în cadrul unităților de management de proiect | [`oug/1999/52/`](oug/1999/52/) | in force | 5 | 1999-04-29 | 2021-08-13 |
 | Ordonanța de urgență a Guvernului nr. 54/1999 privind asigurarea unor facilități furnizorilor de îngrășăminte chimice și de uz fitosanitar | [`oug/1999/54/`](oug/1999/54/) | in force | 2 | 1999-04-30 | 2000-06-06 |
@@ -1617,6 +1675,7 @@
 | Ordonanța de urgență a Guvernului nr. 34/2000 | [`oug/2000/34/`](oug/2000/34/) | in force | 13 | 2000-04-21 | 2022-05-28 |
 | Ordonanța de urgență a Guvernului nr. 55/2000 privind regularizarea datoriilor fostei Companii Române de Petrol | [`oug/2000/55/`](oug/2000/55/) | in force | 2 | 2000-05-23 | 2001-07-24 |
 | Ordonanța de urgență a Guvernului nr. 59/2000 | [`oug/2000/59/`](oug/2000/59/) | in force | 6 | 2000-05-30 | 2025-03-14 |
+| Ordonanța de urgență a Guvernului nr. 79/2000 privind stingerea unei părţi din datoria Companiei Naţionale de Electricitate - S.A. către stat cu contravaloarea energiei electrice livrate în Republica Moldova | [`oug/2000/79/`](oug/2000/79/) | in force | 2 | 2000-06-22 | 2001-04-26 |
 | Ordonanța de urgență a Guvernului nr. 83/2000 | [`oug/2000/83/`](oug/2000/83/) | in force | 5 | 2000-06-27 | 2025-08-16 |
 | Ordonanța de urgență a Guvernului nr. 88/2000 | [`oug/2000/88/`](oug/2000/88/) | in force | 1 | 2000-07-06 | 2000-07-06 |
 | Ordonanța de urgență a Guvernului nr. 99/2000 | [`oug/2000/99/`](oug/2000/99/) | in force | 1 | 2000-07-04 | 2000-07-04 |
@@ -1638,6 +1697,7 @@
 | Ordonanța de urgență a Guvernului nr. 296/2000 | [`oug/2000/296/`](oug/2000/296/) | in force | 3 | 2000-12-30 | 2003-08-06 |
 | Ordonanța de urgență a Guvernului nr. 2/2001 | [`oug/2001/2/`](oug/2001/2/) | in force | 4 | 2001-01-09 | 2003-06-29 |
 | Ordonanța de urgență a Guvernului nr. 9/2001 | [`oug/2001/9/`](oug/2001/9/) | in force | 5 | 2001-01-19 | 2011-02-15 |
+| Ordonanța de urgență a Guvernului nr. 32/2001 pentru reglementarea unor probleme financiare | [`oug/2001/32/`](oug/2001/32/) | in force | 3 | 2001-03-05 | 2004-10-17 |
 | Ordonanța de urgență a Guvernului nr. 41/2001 | [`oug/2001/41/`](oug/2001/41/) | in force | 3 | 2001-03-23 | 2014-02-01 |
 | Ordonanța de urgență a Guvernului nr. 49/2001 | [`oug/2001/49/`](oug/2001/49/) | in force | 1 | 2001-03-30 | 2001-03-30 |
 | Ordonanța de urgență a Guvernului nr. 80/2001 | [`oug/2001/80/`](oug/2001/80/) | in force | 5 | 2001-06-12 | 2012-12-22 |
@@ -1647,8 +1707,11 @@
 | Ordonanța de urgență a Guvernului nr. 99/2001 | [`oug/2001/99/`](oug/2001/99/) | in force | 2 | 2001-06-29 | 2002-05-09 |
 | Ordonanța de urgență a Guvernului nr. 107/2001 | [`oug/2001/107/`](oug/2001/107/) | in force | 1 | 2001-06-30 | 2001-06-30 |
 | Ordonanța de urgență a Guvernului nr. 112/2001 | [`oug/2001/112/`](oug/2001/112/) | in force | 2 | 2001-09-03 | 2002-05-09 |
+| Ordonanța de urgență a Guvernului nr. 115/2001 privind reglementarea unor măsuri de asigurare a fondurilor necesare în vederea furnizarii energiei termice și a gazelor naturale pentru populație | [`oug/2001/115/`](oug/2001/115/) | in force | 6 | 2001-09-28 | 2003-12-18 |
 | Ordonanța de urgență a Guvernului nr. 141/2001 | [`oug/2001/141/`](oug/2001/141/) | in force | 2 | 2001-10-31 | 2003-10-08 |
+| Ordonanța de urgență a Guvernului nr. 144/2001 | [`oug/2001/144/`](oug/2001/144/) | in force | 7 | 2001-12-01 | 2006-04-14 |
 | Ordonanța de urgență a Guvernului nr. 155/2001 | [`oug/2001/155/`](oug/2001/155/) | in force | 7 | 2001-12-13 | 2023-12-11 |
+| Ordonanța de urgență a Guvernului nr. 163/2001 | [`oug/2001/163/`](oug/2001/163/) | in force | 2 | 2001-12-13 | 2003-04-25 |
 | Ordonanța de urgență a Guvernului nr. 168/2001 | [`oug/2001/168/`](oug/2001/168/) | repealed 2011-01-02 | 6 | 2001-12-20 | 2011-01-02 |
 | Ordonanța de urgență a Guvernului nr. 175/2001 | [`oug/2001/175/`](oug/2001/175/) | in force | 2 | 2001-12-21 | 2002-07-10 |
 | Ordonanța de urgență a Guvernului nr. 184/2001 | [`oug/2001/184/`](oug/2001/184/) | in force | 2 | 2001-12-29 | 2002-07-18 |
@@ -1659,13 +1722,17 @@
 | Ordonanța de urgență a Guvernului nr. 58/2002 | [`oug/2002/58/`](oug/2002/58/) | in force | 2 | 2002-05-27 | 2005-06-05 |
 | Ordonanța de urgență a Guvernului nr. 78/2002 | [`oug/2002/78/`](oug/2002/78/) | in force | 4 | 2002-06-27 | 2014-05-08 |
 | Ordonanța de urgență a Guvernului nr. 84/2002 | [`oug/2002/84/`](oug/2002/84/) | in force | 2 | 2002-07-06 | 2003-01-22 |
+| Ordonanța de urgență a Guvernului nr. 96/2002 | [`oug/2002/96/`](oug/2002/96/) | in force | 11 | 2002-08-26 | 2016-04-30 |
 | Ordonanța de urgență a Guvernului nr. 101/2002 | [`oug/2002/101/`](oug/2002/101/) | in force | 2 | 2002-09-09 | 2003-01-27 |
+| Ordonanța de urgență a Guvernului nr. 104/2002 | [`oug/2002/104/`](oug/2002/104/) | in force | 5 | 2002-09-11 | 2014-02-01 |
 | Ordonanța de urgență a Guvernului nr. 107/2002 privind înființarea Administrației Naționale "Apele Române" | [`oug/2002/107/`](oug/2002/107/) | in force | 17 | 2002-09-20 | 2024-10-25 |
+| Ordonanța de urgență a Guvernului nr. 113/2002 | [`oug/2002/113/`](oug/2002/113/) | in force | 10 | 2002-10-28 | 2019-12-16 |
 | Ordonanța de urgență a Guvernului nr. 121/2002 pentru modificarea Legii nr. 416/2001 privind venitul minim garantat | [`oug/2002/121/`](oug/2002/121/) | amending act | 2 | 2002-10-03 | 2003-01-20 |
 | Ordonanța de urgență a Guvernului nr. 124/2002 | [`oug/2002/124/`](oug/2002/124/) | in force | 2 | 2002-10-10 | 2003-01-20 |
 | Ordonanța de urgență a Guvernului nr. 146/2002 | [`oug/2002/146/`](oug/2002/146/) | in force | 24 | 2002-11-14 | 2024-06-16 |
 | Ordonanța de urgență a Guvernului nr. 152/2002 | [`oug/2002/152/`](oug/2002/152/) | in force | 2 | 2002-11-15 | 2003-04-22 |
 | Ordonanța de urgență a Guvernului nr. 153/2002 | [`oug/2002/153/`](oug/2002/153/) | in force | 3 | 2002-11-15 | 2017-07-01 |
+| Ordonanța de urgență a Guvernului nr. 155/2002 privind aprobarea scoaterii din rezervele de stat a unor cantităţi de combustibili pentru Societatea Comercială de Producere a Energiei Electrice şi Termice "Termoelectrica" - S.A., Societatea Comercială "Electrocentrale" Deva - S.A. şi centralele termice şi electrice de termoficare aflate în administrarea consiliilor judeţene şi locale | [`oug/2002/155/`](oug/2002/155/) | amending act | 2 | 2002-11-15 | 2003-04-23 |
 | Ordonanța de urgență a Guvernului nr. 179/2002 | [`oug/2002/179/`](oug/2002/179/) | in force | 4 | 2003-01-01 | 2019-10-31 |
 | Ordonanța de urgență a Guvernului nr. 192/2002 | [`oug/2002/192/`](oug/2002/192/) | in force | 2 | 2003-01-01 | 2003-05-28 |
 | Ordonanța de urgență a Guvernului nr. 193/2002 | [`oug/2002/193/`](oug/2002/193/) | in force | 11 | 2002-12-23 | 2024-06-16 |
@@ -1682,6 +1749,7 @@
 | Ordonanța de urgență a Guvernului nr. 10/2003 pentru prelungirea termenului de depunere a actelor doveditoare prevăzut de art. 22 din Legea nr. 10/2001 privind regimul juridic al unor imobile preluate în mod abuziv în perioada 6 martie 1945 - 22 decembrie 1989 | [`oug/2003/10/`](oug/2003/10/) | in force | 2 | 2003-03-14 | 2003-06-30 |
 | Ordonanța de urgență a Guvernului nr. 23/2003 | [`oug/2003/23/`](oug/2003/23/) | in force | 1 | 2003-04-14 | 2003-04-14 |
 | Ordonanța de urgență a Guvernului nr. 27/2003 | [`oug/2003/27/`](oug/2003/27/) | in force | 4 | 2003-04-25 | 2014-02-01 |
+| Ordonanța de urgență a Guvernului nr. 31/2003 privind unele măsuri de restructurare financiară a creanţelor deţinute de Autoritatea pentru Valorificarea Activelor Bancare asupra unor societăţi comerciale de pe platformele industriale Arad şi Harghita | [`oug/2003/31/`](oug/2003/31/) | in force | 2 | 2003-05-06 | 2003-12-11 |
 | Ordonanța de urgență a Guvernului nr. 32/2003 | [`oug/2003/32/`](oug/2003/32/) | in force | 1 | 2003-05-20 | 2003-05-20 |
 | Ordonanța de urgență a Guvernului nr. 33/2003 | [`oug/2003/33/`](oug/2003/33/) | in force | 1 | 2003-05-21 | 2003-05-21 |
 | Ordonanța de urgență a Guvernului nr. 34/2003 | [`oug/2003/34/`](oug/2003/34/) | in force | 1 | 2003-05-23 | 2003-05-23 |
@@ -1690,8 +1758,10 @@
 | Ordonanța de urgență a Guvernului nr. 39/2003 | [`oug/2003/39/`](oug/2003/39/) | in force | 1 | 2003-06-02 | 2003-06-02 |
 | Ordonanța de urgență a Guvernului nr. 40/2003 | [`oug/2003/40/`](oug/2003/40/) | in force | 3 | 2003-06-02 | 2004-04-19 |
 | Ordonanța de urgență a Guvernului nr. 42/2003 | [`oug/2003/42/`](oug/2003/42/) | in force | 1 | 2003-06-09 | 2003-06-09 |
+| Ordonanța de urgență a Guvernului nr. 48/2003 | [`oug/2003/48/`](oug/2003/48/) | in force | 3 | 2003-06-19 | 2006-10-16 |
 | Ordonanța de urgență a Guvernului nr. 50/2003 | [`oug/2003/50/`](oug/2003/50/) | in force | 1 | 2003-06-20 | 2003-06-20 |
 | Ordonanța de urgență a Guvernului nr. 61/2003 | [`oug/2003/61/`](oug/2003/61/) | in force | 2 | 2003-06-28 | 2003-11-07 |
+| Ordonanța de urgență a Guvernului nr. 63/2003 | [`oug/2003/63/`](oug/2003/63/) | in force | 5 | 2003-06-28 | 2005-06-09 |
 | Ordonanța de urgență a Guvernului nr. 68/2003 | [`oug/2003/68/`](oug/2003/68/) | in force | 2 | 2003-08-19 | 2004-03-21 |
 | Ordonanța de urgență a Guvernului nr. 71/2003 | [`oug/2003/71/`](oug/2003/71/) | in force | 2 | 2003-08-26 | 2003-12-18 |
 | Ordonanța de urgență a Guvernului nr. 72/2003 | [`oug/2003/72/`](oug/2003/72/) | in force | 1 | 2003-08-28 | 2003-08-28 |
@@ -1706,6 +1776,7 @@
 | Ordonanța de urgență a Guvernului nr. 98/2003 | [`oug/2003/98/`](oug/2003/98/) | in force | 3 | 2003-10-23 | 2005-10-20 |
 | Ordonanța de urgență a Guvernului nr. 117/2003 | [`oug/2003/117/`](oug/2003/117/) | in force | 2 | 2003-10-27 | 2004-03-28 |
 | Ordonanța de urgență a Guvernului nr. 121/2003 | [`oug/2003/121/`](oug/2003/121/) | in force | 5 | 2003-12-10 | 2010-01-01 |
+| Ordonanța de urgență a Guvernului nr. 127/2003 | [`oug/2003/127/`](oug/2003/127/) | in force | 2 | 2003-12-23 | 2004-06-17 |
 | Ordonanța de urgență a Guvernului nr. 18/2004 pentru finalizarea vânzării unor pachete de acțiuni ale Băncii Comerciale Române - S.A. către Banca Europeană pentru Reconstrucție și Dezvoltare și Corporația Financiară Internațională, precum și către Asociația Salariaților Băncii Comerciale Române - S.A. | [`oug/2004/18/`](oug/2004/18/) | in force | 4 | 2004-04-09 | 2006-08-06 |
 | Ordonanța de urgență a Guvernului nr. 21/2004 | [`oug/2004/21/`](oug/2004/21/) | in force | 8 | 2004-04-26 | 2025-10-25 |
 | Ordonanța de urgență a Guvernului nr. 25/2004 | [`oug/2004/25/`](oug/2004/25/) | in force | 2 | 2004-05-03 | 2006-01-01 |
@@ -1755,11 +1826,13 @@
 | Ordonanța de urgență a Guvernului nr. 113/2005 | [`oug/2005/113/`](oug/2005/113/) | in force | 2 | 2005-07-25 | 2005-11-03 |
 | Ordonanța de urgență a Guvernului nr. 114/2005 | [`oug/2005/114/`](oug/2005/114/) | in force | 4 | 2005-07-27 | 2011-12-28 |
 | Ordonanța de urgență a Guvernului nr. 119/2005 | [`oug/2005/119/`](oug/2005/119/) | in force | 2 | 2005-07-28 | 2005-10-30 |
+| Ordonanța de urgență a Guvernului nr. 120/2005 | [`oug/2005/120/`](oug/2005/120/) | in force | 5 | 2005-09-06 | 2013-12-05 |
 | Ordonanța de urgență a Guvernului nr. 126/2005 | [`oug/2005/126/`](oug/2005/126/) | in force | 11 | 2005-09-19 | 2024-12-17 |
 | Ordonanța de urgență a Guvernului nr. 134/2005 | [`oug/2005/134/`](oug/2005/134/) | in force | 2 | 2005-10-07 | 2006-03-16 |
 | Ordonanța de urgență a Guvernului nr. 135/2005 | [`oug/2005/135/`](oug/2005/135/) | in force | 2 | 2005-10-07 | 2006-03-13 |
 | Ordonanța de urgență a Guvernului nr. 158/2005 | [`oug/2005/158/`](oug/2005/158/) | in force | 31 | 2006-01-01 | 2025-12-31 |
 | Ordonanța de urgență a Guvernului nr. 179/2005 | [`oug/2005/179/`](oug/2005/179/) | in force | 3 | 2005-12-16 | 2006-05-27 |
+| Ordonanța de urgență a Guvernului nr. 180/2005 | [`oug/2005/180/`](oug/2005/180/) | in force | 5 | 2005-12-22 | 2013-05-29 |
 | Ordonanța de urgență a Guvernului nr. 188/2005 | [`oug/2005/188/`](oug/2005/188/) | in force | 1 | 2005-12-29 | 2005-12-29 |
 | Ordonanța de urgență a Guvernului nr. 189/2005 | [`oug/2005/189/`](oug/2005/189/) | in force | 2 | 2005-12-28 | 2006-12-09 |
 | Ordonanța de urgență a Guvernului nr. 196/2005 | [`oug/2005/196/`](oug/2005/196/) | in force | 32 | 2005-12-30 | 2025-03-07 |
@@ -1774,6 +1847,7 @@
 | Ordonanța de urgență a Guvernului nr. 39/2006 | [`oug/2006/39/`](oug/2006/39/) | in force | 2 | 2006-06-05 | 2006-12-24 |
 | Ordonanța de urgență a Guvernului nr. 44/2006 | [`oug/2006/44/`](oug/2006/44/) | in force | 2 | 2006-06-23 | 2007-01-08 |
 | Ordonanța de urgență a Guvernului nr. 47/2006 | [`oug/2006/47/`](oug/2006/47/) | in force | 2 | 2006-06-29 | 2007-03-22 |
+| Ordonanța de urgență a Guvernului nr. 49/2006 | [`oug/2006/49/`](oug/2006/49/) | in force | 2 | 2006-06-30 | 2007-01-12 |
 | Ordonanța de urgență a Guvernului nr. 54/2006 privind regimul contractelor de concesiune de bunuri proprietate publică | [`oug/2006/54/`](oug/2006/54/) | repealed 2019-07-05 | 3 | 2006-06-30 | 2019-07-05 |
 | Ordonanța de urgență a Guvernului nr. 55/2006 | [`oug/2006/55/`](oug/2006/55/) | in force | 2 | 2006-09-18 | 2007-04-22 |
 | Ordonanța de urgență a Guvernului nr. 56/2006 | [`oug/2006/56/`](oug/2006/56/) | in force | 2 | 2006-09-08 | 2007-01-11 |
@@ -1799,6 +1873,7 @@
 | Ordonanța de urgență a Guvernului nr. 14/2007 | [`oug/2007/14/`](oug/2007/14/) | in force | 2 | 2007-03-19 | 2007-10-20 |
 | Ordonanța de urgență a Guvernului nr. 15/2007 | [`oug/2007/15/`](oug/2007/15/) | in force | 2 | 2007-03-12 | 2007-08-31 |
 | Ordonanța de urgență a Guvernului nr. 21/2007 | [`oug/2007/21/`](oug/2007/21/) | in force | 1 | 2007-03-29 | 2007-03-29 |
+| Ordonanța de urgență a Guvernului nr. 24/2007 | [`oug/2007/24/`](oug/2007/24/) | in force | 6 | 2007-04-12 | 2012-07-22 |
 | Ordonanța de urgență a Guvernului nr. 26/2007 | [`oug/2007/26/`](oug/2007/26/) | in force | 1 | 2007-04-27 | 2007-04-27 |
 | Ordonanța de urgență a Guvernului nr. 28/2007 | [`oug/2007/28/`](oug/2007/28/) | in force | 2 | 2007-04-27 | 2007-10-07 |
 | Ordonanța de urgență a Guvernului nr. 29/2007 | [`oug/2007/29/`](oug/2007/29/) | in force | 2 | 2007-05-08 | 2013-01-15 |
@@ -1808,10 +1883,12 @@
 | Ordonanța de urgență a Guvernului nr. 43/2007 | [`oug/2007/43/`](oug/2007/43/) | in force | 6 | 2007-06-28 | 2023-06-01 |
 | Ordonanța de urgență a Guvernului nr. 49/2007 | [`oug/2007/49/`](oug/2007/49/) | in force | 2 | 2007-06-01 | 2008-04-21 |
 | Ordonanța de urgență a Guvernului nr. 55/2007 | [`oug/2007/55/`](oug/2007/55/) | in force | 6 | 2007-06-26 | 2025-10-25 |
+| Ordonanța de urgență a Guvernului nr. 57/2007 | [`oug/2007/57/`](oug/2007/57/) | in force | 21 | 2007-06-29 | 2025-03-10 |
 | Ordonanța de urgență a Guvernului nr. 59/2007 | [`oug/2007/59/`](oug/2007/59/) | in force | 4 | 2007-06-29 | 2008-03-27 |
 | Ordonanța de urgență a Guvernului nr. 63/2007 | [`oug/2007/63/`](oug/2007/63/) | in force | 4 | 2007-06-28 | 2018-12-30 |
 | Ordonanța de urgență a Guvernului nr. 64/2007 | [`oug/2007/64/`](oug/2007/64/) | in force | 17 | 2007-06-28 | 2024-08-23 |
 | Ordonanța de urgență a Guvernului nr. 65/2007 | [`oug/2007/65/`](oug/2007/65/) | in force | 2 | 2007-06-29 | 2007-12-11 |
+| Ordonanța de urgență a Guvernului nr. 68/2007 | [`oug/2007/68/`](oug/2007/68/) | in force | 5 | 2007-06-29 | 2016-07-31 |
 | Ordonanța de urgență a Guvernului nr. 69/2007 | [`oug/2007/69/`](oug/2007/69/) | in force | 1 | 2007-06-29 | 2007-06-29 |
 | Ordonanța de urgență a Guvernului nr. 74/2007 | [`oug/2007/74/`](oug/2007/74/) | in force | 4 | 2007-06-29 | 2022-03-13 |
 | Ordonanța de urgență a Guvernului nr. 82/2007 pentru modificarea și completarea Legii nr. 31/1990 privind societățile comerciale și a altor acte normative incidente | [`oug/2007/82/`](oug/2007/82/) | amending act | 2 | 2007-06-29 | 2009-04-17 |
@@ -1835,12 +1912,15 @@
 | Ordonanța de urgență a Guvernului nr. 138/2007 | [`oug/2007/138/`](oug/2007/138/) | in force | 1 | 2007-12-08 | 2007-12-08 |
 | Ordonanța de urgență a Guvernului nr. 141/2007 | [`oug/2007/141/`](oug/2007/141/) | in force | 3 | 2007-12-20 | 2009-05-05 |
 | Ordonanța de urgență a Guvernului nr. 146/2007 | [`oug/2007/146/`](oug/2007/146/) | in force | 2 | 2007-12-20 | 2008-10-23 |
+| Ordonanța de urgență a Guvernului nr. 151/2007 pentru completarea destinaţiei unor părţi din imobile situate în municipiul Bucureşti | [`oug/2007/151/`](oug/2007/151/) | amending act | 2 | 2007-12-21 | 2009-02-23 |
 | Ordonanța de urgență a Guvernului nr. 152/2007 | [`oug/2007/152/`](oug/2007/152/) | in force | 2 | 2007-12-21 | 2008-06-05 |
 | Ordonanța de urgență a Guvernului nr. 153/2007 | [`oug/2007/153/`](oug/2007/153/) | in force | 2 | 2007-12-21 | 2008-03-30 |
 | Ordonanța de urgență a Guvernului nr. 156/2007 | [`oug/2007/156/`](oug/2007/156/) | in force | 2 | 2007-12-21 | 2016-03-10 |
+| Ordonanța de urgență a Guvernului nr. 157/2007 | [`oug/2007/157/`](oug/2007/157/) | in force | 2 | 2008-01-01 | 2009-04-11 |
 | Ordonanța de urgență a Guvernului nr. 4/2008 | [`oug/2008/4/`](oug/2008/4/) | in force | 3 | 2008-02-11 | 2009-06-29 |
 | Ordonanța de urgență a Guvernului nr. 13/2008 | [`oug/2008/13/`](oug/2008/13/) | in force | 2 | 2008-02-26 | 2012-11-29 |
 | Ordonanța de urgență a Guvernului nr. 14/2008 | [`oug/2008/14/`](oug/2008/14/) | in force | 2 | 2008-02-27 | 2009-01-01 |
+| Ordonanța de urgență a Guvernului nr. 18/2008 | [`oug/2008/18/`](oug/2008/18/) | in force | 3 | 2008-03-04 | 2013-09-02 |
 | Ordonanța de urgență a Guvernului nr. 23/2008 | [`oug/2008/23/`](oug/2008/23/) | in force | 14 | 2008-03-10 | 2025-12-07 |
 | Ordonanța de urgență a Guvernului nr. 24/2008 | [`oug/2008/24/`](oug/2008/24/) | in force | 9 | 2008-03-15 | 2024-06-17 |
 | Ordonanța de urgență a Guvernului nr. 26/2008 | [`oug/2008/26/`](oug/2008/26/) | in force | 2 | 2008-03-17 | 2008-11-17 |
@@ -1849,6 +1929,7 @@
 | Ordonanța de urgență a Guvernului nr. 39/2008 | [`oug/2008/39/`](oug/2008/39/) | in force | 2 | 2008-05-11 | 2009-05-17 |
 | Ordonanța de urgență a Guvernului nr. 40/2008 | [`oug/2008/40/`](oug/2008/40/) | in force | 1 | 2008-04-09 | 2008-04-09 |
 | Ordonanța de urgență a Guvernului nr. 44/2008 privind desfășurarea activităților economice de către persoanele fizice autorizate, întreprinderile individuale și întreprinderile familiale | [`oug/2008/44/`](oug/2008/44/) | in force | 7 | 2008-04-25 | 2022-11-26 |
+| Ordonanța de urgență a Guvernului nr. 45/2008 privind unele măsuri pentru întărirea capacităţii administrative a României în vederea îndeplinirii obligaţiilor ce îi revin în calitatea sa de stat membru al Uniunii Europene | [`oug/2008/45/`](oug/2008/45/) | in force | 2 | 2008-04-23 | 2008-11-06 |
 | Ordonanța de urgență a Guvernului nr. 48/2008 | [`oug/2008/48/`](oug/2008/48/) | in force | 2 | 2008-04-25 | 2008-10-31 |
 | Ordonanța de urgență a Guvernului nr. 50/2008 | [`oug/2008/50/`](oug/2008/50/) | in force | 4 | 2008-07-01 | 2011-01-01 |
 | Ordonanța de urgență a Guvernului nr. 51/2008 | [`oug/2008/51/`](oug/2008/51/) | in force | 8 | 2008-05-25 | 2024-11-03 |
@@ -1862,16 +1943,19 @@
 | Ordonanța de urgență a Guvernului nr. 83/2008 | [`oug/2008/83/`](oug/2008/83/) | in force | 2 | 2008-06-26 | 2009-03-21 |
 | Ordonanța de urgență a Guvernului nr. 86/2008 | [`oug/2008/86/`](oug/2008/86/) | in force | 2 | 2008-06-27 | 2009-06-13 |
 | Ordonanța de urgență a Guvernului nr. 89/2008 | [`oug/2008/89/`](oug/2008/89/) | in force | 2 | 2008-06-30 | 2009-07-06 |
+| Ordonanța de urgență a Guvernului nr. 90/2008 | [`oug/2008/90/`](oug/2008/90/) | repealed 2017-07-15 | 7 | 2008-06-30 | 2017-07-15 |
 | Ordonanța de urgență a Guvernului nr. 92/2008 | [`oug/2008/92/`](oug/2008/92/) | in force | 6 | 2008-06-30 | 2014-02-01 |
 | Ordonanța de urgență a Guvernului nr. 94/2008 | [`oug/2008/94/`](oug/2008/94/) | in force | 3 | 2008-06-30 | 2012-12-12 |
 | Ordonanța de urgență a Guvernului nr. 100/2008 | [`oug/2008/100/`](oug/2008/100/) | in force | 2 | 2008-10-01 | 2008-12-09 |
 | Ordonanța de urgență a Guvernului nr. 102/2008 | [`oug/2008/102/`](oug/2008/102/) | in force | 2 | 2008-09-05 | 2009-03-29 |
 | Ordonanța de urgență a Guvernului nr. 103/2008 | [`oug/2008/103/`](oug/2008/103/) | in force | 2 | 2008-09-08 | 2009-03-12 |
 | Ordonanța de urgență a Guvernului nr. 106/2008 | [`oug/2008/106/`](oug/2008/106/) | in force | 1 | 2008-09-18 | 2008-09-18 |
+| Ordonanța de urgență a Guvernului nr. 109/2008 | [`oug/2008/109/`](oug/2008/109/) | in force | 4 | 2008-09-24 | 2016-10-07 |
 | Ordonanța de urgență a Guvernului nr. 123/2008 | [`oug/2008/123/`](oug/2008/123/) | in force | 2 | 2008-10-07 | 2009-07-06 |
 | Ordonanța de urgență a Guvernului nr. 130/2008 | [`oug/2008/130/`](oug/2008/130/) | in force | 2 | 2008-10-20 | 2009-05-18 |
 | Ordonanța de urgență a Guvernului nr. 142/2008 | [`oug/2008/142/`](oug/2008/142/) | in force | 3 | 2008-11-21 | 2023-10-14 |
 | Ordonanța de urgență a Guvernului nr. 158/2008 | [`oug/2008/158/`](oug/2008/158/) | in force | 2 | 2008-11-24 | 2009-06-04 |
+| Ordonanța de urgență a Guvernului nr. 162/2008 | [`oug/2008/162/`](oug/2008/162/) | in force | 8 | 2009-01-01 | 2018-03-01 |
 | Ordonanța de urgență a Guvernului nr. 164/2008 | [`oug/2008/164/`](oug/2008/164/) | in force | 2 | 2008-12-03 | 2013-07-21 |
 | Ordonanța de urgență a Guvernului nr. 167/2008 | [`oug/2008/167/`](oug/2008/167/) | in force | 2 | 2008-11-25 | 2009-05-03 |
 | Ordonanța de urgență a Guvernului nr. 173/2008 | [`oug/2008/173/`](oug/2008/173/) | in force | 2 | 2008-11-26 | 2009-07-17 |
@@ -1906,6 +1990,7 @@
 | Ordonanța de urgență a Guvernului nr. 40/2009 | [`oug/2009/40/`](oug/2009/40/) | in force | 2 | 2009-04-30 | 2009-12-25 |
 | Ordonanța de urgență a Guvernului nr. 43/2009 | [`oug/2009/43/`](oug/2009/43/) | in force | 2 | 2009-05-19 | 2010-04-09 |
 | Ordonanța de urgență a Guvernului nr. 46/2009 | [`oug/2009/46/`](oug/2009/46/) | in force | 2 | 2009-05-25 | 2009-10-25 |
+| Ordonanța de urgență a Guvernului nr. 49/2009 | [`oug/2009/49/`](oug/2009/49/) | in force | 3 | 2009-06-01 | 2016-02-27 |
 | Ordonanța de urgență a Guvernului nr. 59/2009 | [`oug/2009/59/`](oug/2009/59/) | in force | 2 | 2009-06-26 | 2011-03-27 |
 | Ordonanța de urgență a Guvernului nr. 60/2009 | [`oug/2009/60/`](oug/2009/60/) | in force | 12 | 2009-06-04 | 2024-06-07 |
 | Ordonanța de urgență a Guvernului nr. 61/2009 | [`oug/2009/61/`](oug/2009/61/) | in force | 2 | 2009-06-09 | 2010-04-09 |
@@ -1914,6 +1999,7 @@
 | Ordonanța de urgență a Guvernului nr. 66/2009 | [`oug/2009/66/`](oug/2009/66/) | in force | 2 | 2009-06-19 | 2009-11-12 |
 | Ordonanța de urgență a Guvernului nr. 69/2009 | [`oug/2009/69/`](oug/2009/69/) | in force | 2 | 2009-06-18 | 2010-05-29 |
 | Ordonanța de urgență a Guvernului nr. 70/2009 | [`oug/2009/70/`](oug/2009/70/) | in force | 1 | 2009-06-29 | 2009-06-29 |
+| Ordonanța de urgență a Guvernului nr. 71/2009 | [`oug/2009/71/`](oug/2009/71/) | in force | 6 | 2009-06-18 | 2011-12-11 |
 | Ordonanța de urgență a Guvernului nr. 73/2009 | [`oug/2009/73/`](oug/2009/73/) | in force | 2 | 2009-06-24 | 2009-12-03 |
 | Ordonanța de urgență a Guvernului nr. 75/2009 | [`oug/2009/75/`](oug/2009/75/) | in force | 2 | 2009-06-29 | 2009-11-27 |
 | Ordonanța de urgență a Guvernului nr. 77/2009 | [`oug/2009/77/`](oug/2009/77/) | in force | 27 | 2009-06-26 | 2025-12-18 |
@@ -1939,6 +2025,7 @@
 | Ordonanța de urgență a Guvernului nr. 14/2010 | [`oug/2010/14/`](oug/2010/14/) | in force | 1 | 2010-03-04 | 2010-03-04 |
 | Ordonanța de urgență a Guvernului nr. 15/2010 | [`oug/2010/15/`](oug/2010/15/) | in force | 2 | 2010-03-26 | 2010-07-23 |
 | Ordonanța de urgență a Guvernului nr. 21/2010 | [`oug/2010/21/`](oug/2010/21/) | in force | 4 | 2010-03-30 | 2016-06-29 |
+| Ordonanța de urgență a Guvernului nr. 23/2010 | [`oug/2010/23/`](oug/2010/23/) | in force | 3 | 2010-03-30 | 2019-12-16 |
 | Ordonanța de urgență a Guvernului nr. 25/2010 | [`oug/2010/25/`](oug/2010/25/) | in force | 2 | 2010-04-02 | 2013-11-07 |
 | Ordonanța de urgență a Guvernului nr. 29/2010 | [`oug/2010/29/`](oug/2010/29/) | in force | 2 | 2010-04-13 | 2010-07-22 |
 | Ordonanța de urgență a Guvernului nr. 30/2010 | [`oug/2010/30/`](oug/2010/30/) | in force | 2 | 2010-04-16 | 2010-10-21 |
@@ -1952,6 +2039,7 @@
 | Ordonanța de urgență a Guvernului nr. 48/2010 | [`oug/2010/48/`](oug/2010/48/) | in force | 1 | 2010-06-10 | 2010-06-10 |
 | Ordonanța de urgență a Guvernului nr. 50/2010 privind contractele de credit pentru consumatori | [`oug/2010/50/`](oug/2010/50/) | in force | 8 | 2010-06-21 | 2024-03-17 |
 | Ordonanța de urgență a Guvernului nr. 51/2010 | [`oug/2010/51/`](oug/2010/51/) | in force | 2 | 2010-06-21 | 2011-03-27 |
+| Ordonanța de urgență a Guvernului nr. 54/2010 privind unele măsuri pentru combaterea evaziunii fiscale | [`oug/2010/54/`](oug/2010/54/) | in force | 5 | 2010-06-23 | 2018-11-24 |
 | Ordonanța de urgență a Guvernului nr. 59/2010 | [`oug/2010/59/`](oug/2010/59/) | in force | 1 | 2010-06-30 | 2010-06-30 |
 | Ordonanța de urgență a Guvernului nr. 63/2010 | [`oug/2010/63/`](oug/2010/63/) | in force | 16 | 2010-07-05 | 2022-04-16 |
 | Ordonanța de urgență a Guvernului nr. 64/2010 | [`oug/2010/64/`](oug/2010/64/) | in force | 3 | 2010-07-02 | 2012-07-27 |
@@ -1971,9 +2059,11 @@
 | Ordonanța de urgență a Guvernului nr. 112/2010 | [`oug/2010/112/`](oug/2010/112/) | in force | 2 | 2010-12-17 | 2011-07-18 |
 | Ordonanța de urgență a Guvernului nr. 113/2010 | [`oug/2010/113/`](oug/2010/113/) | in force | 1 | 2010-12-20 | 2010-12-20 |
 | Ordonanța de urgență a Guvernului nr. 116/2010 | [`oug/2010/116/`](oug/2010/116/) | in force | 2 | 2010-12-30 | 2011-07-14 |
+| Ordonanța de urgență a Guvernului nr. 121/2010 | [`oug/2010/121/`](oug/2010/121/) | in force | 2 | 2010-12-30 | 2011-06-24 |
 | Ordonanța de urgență a Guvernului nr. 124/2010 | [`oug/2010/124/`](oug/2010/124/) | in force | 1 | 2010-12-30 | 2010-12-30 |
 | Ordonanța de urgență a Guvernului nr. 125/2010 | [`oug/2010/125/`](oug/2010/125/) | in force | 2 | 2010-12-30 | 2011-06-23 |
 | Ordonanța de urgență a Guvernului nr. 127/2010 | [`oug/2010/127/`](oug/2010/127/) | in force | 2 | 2010-12-31 | 2013-07-07 |
+| Ordonanța de urgență a Guvernului nr. 130/2010 | [`oug/2010/130/`](oug/2010/130/) | in force | 3 | 2010-12-30 | 2012-11-18 |
 | Ordonanța de urgență a Guvernului nr. 133/2010 | [`oug/2010/133/`](oug/2010/133/) | in force | 2 | 2010-12-30 | 2013-07-05 |
 | Ordonanța de urgență a Guvernului nr. 6/2011 | [`oug/2011/6/`](oug/2011/6/) | in force | 4 | 2011-02-09 | 2014-07-11 |
 | Ordonanța de urgență a Guvernului nr. 17/2011 | [`oug/2011/17/`](oug/2011/17/) | in force | 2 | 2011-02-28 | 2012-03-26 |
@@ -1998,13 +2088,16 @@
 | Ordonanța de urgență a Guvernului nr. 73/2011 | [`oug/2011/73/`](oug/2011/73/) | in force | 2 | 2011-09-09 | 2013-06-16 |
 | Ordonanța de urgență a Guvernului nr. 77/2011 | [`oug/2011/77/`](oug/2011/77/) | in force | 25 | 2011-10-01 | 2025-10-27 |
 | Ordonanța de urgență a Guvernului nr. 79/2011 | [`oug/2011/79/`](oug/2011/79/) | in force | 2 | 2011-10-01 | 2012-04-20 |
+| Ordonanța de urgență a Guvernului nr. 80/2011 | [`oug/2011/80/`](oug/2011/80/) | in force | 2 | 2011-10-01 | 2012-04-21 |
 | Ordonanța de urgență a Guvernului nr. 81/2011 | [`oug/2011/81/`](oug/2011/81/) | in force | 2 | 2011-10-20 | 2012-11-26 |
+| Ordonanța de urgență a Guvernului nr. 82/2011 | [`oug/2011/82/`](oug/2011/82/) | in force | 10 | 2011-09-30 | 2019-06-26 |
 | Ordonanța de urgență a Guvernului nr. 84/2011 | [`oug/2011/84/`](oug/2011/84/) | in force | 3 | 2011-10-04 | 2024-06-23 |
 | Ordonanța de urgență a Guvernului nr. 85/2011 | [`oug/2011/85/`](oug/2011/85/) | in force | 2 | 2011-10-11 | 2013-04-12 |
 | Ordonanța de urgență a Guvernului nr. 88/2011 | [`oug/2011/88/`](oug/2011/88/) | in force | 2 | 2011-10-19 | 2012-07-26 |
 | Ordonanța de urgență a Guvernului nr. 93/2011 | [`oug/2011/93/`](oug/2011/93/) | in force | 2 | 2011-11-11 | 2012-11-17 |
 | Ordonanța de urgență a Guvernului nr. 94/2011 | [`oug/2011/94/`](oug/2011/94/) | in force | 4 | 2011-11-11 | 2012-08-27 |
 | Ordonanța de urgență a Guvernului nr. 98/2011 | [`oug/2011/98/`](oug/2011/98/) | in force | 2 | 2011-11-22 | 2016-01-01 |
+| Ordonanța de urgență a Guvernului nr. 101/2011 privind reglementarea condițiilor pentru vânzarea imobilelor, proprietate privată a statului, aflate în administrarea Regiei Autonome "Administrația Patrimoniului Protocolului de Stat", a imobilelor proprietatea Regiei Autonome ”Administrația Patrimoniului Protocolului de Stat”, precum și pentru modificarea unor acte normative | [`oug/2011/101/`](oug/2011/101/) | amending act | 18 | 2011-11-30 | 2022-06-30 |
 | Ordonanța de urgență a Guvernului nr. 102/2011 | [`oug/2011/102/`](oug/2011/102/) | in force | 1 | 2011-12-02 | 2011-12-02 |
 | Ordonanța de urgență a Guvernului nr. 103/2011 | [`oug/2011/103/`](oug/2011/103/) | in force | 2 | 2011-12-02 | 2012-07-22 |
 | Ordonanța de urgență a Guvernului nr. 105/2011 | [`oug/2011/105/`](oug/2011/105/) | in force | 1 | 2011-12-05 | 2011-12-05 |
@@ -2024,11 +2117,14 @@
 | Ordonanța de urgență a Guvernului nr. 23/2012 | [`oug/2012/23/`](oug/2012/23/) | in force | 2 | 2012-06-07 | 2013-05-08 |
 | Ordonanța de urgență a Guvernului nr. 26/2012 | [`oug/2012/26/`](oug/2012/26/) | in force | 7 | 2012-06-12 | 2024-03-29 |
 | Ordonanța de urgență a Guvernului nr. 32/2012 | [`oug/2012/32/`](oug/2012/32/) | in force | 11 | 2012-07-10 | 2025-01-17 |
+| Ordonanța de urgență a Guvernului nr. 35/2012 | [`oug/2012/35/`](oug/2012/35/) | in force | 3 | 2012-06-30 | 2014-07-19 |
 | Ordonanța de urgență a Guvernului nr. 41/2012 | [`oug/2012/41/`](oug/2012/41/) | in force | 2 | 2012-07-05 | 2012-07-27 |
 | Ordonanța de urgență a Guvernului nr. 43/2012 | [`oug/2012/43/`](oug/2012/43/) | in force | 2 | 2012-07-06 | 2013-10-26 |
+| Ordonanța de urgență a Guvernului nr. 47/2012 | [`oug/2012/47/`](oug/2012/47/) | in force | 2 | 2012-09-06 | 2013-04-18 |
 | Ordonanța de urgență a Guvernului nr. 49/2012 | [`oug/2012/49/`](oug/2012/49/) | in force | 2 | 2012-09-12 | 2013-06-13 |
 | Ordonanța de urgență a Guvernului nr. 50/2012 | [`oug/2012/50/`](oug/2012/50/) | in force | 1 | 2012-09-19 | 2012-09-19 |
 | Ordonanța de urgență a Guvernului nr. 51/2012 | [`oug/2012/51/`](oug/2012/51/) | in force | 2 | 2012-09-24 | 2013-03-11 |
+| Ordonanța de urgență a Guvernului nr. 55/2012 | [`oug/2012/55/`](oug/2012/55/) | in force | 3 | 2012-10-12 | 2013-04-21 |
 | Ordonanța de urgență a Guvernului nr. 58/2012 | [`oug/2012/58/`](oug/2012/58/) | in force | 2 | 2012-10-16 | 2013-04-28 |
 | Ordonanța de urgență a Guvernului nr. 60/2012 | [`oug/2012/60/`](oug/2012/60/) | in force | 2 | 2012-10-22 | 2013-04-25 |
 | Ordonanța de urgență a Guvernului nr. 69/2012 | [`oug/2012/69/`](oug/2012/69/) | in force | 1 | 2012-11-26 | 2012-11-26 |
@@ -2037,15 +2133,19 @@
 | Ordonanța de urgență a Guvernului nr. 80/2012 | [`oug/2012/80/`](oug/2012/80/) | in force | 1 | 2012-12-10 | 2012-12-10 |
 | Ordonanța de urgență a Guvernului nr. 82/2012 | [`oug/2012/82/`](oug/2012/82/) | in force | 3 | 2012-12-12 | 2022-07-28 |
 | Ordonanța de urgență a Guvernului nr. 83/2012 | [`oug/2012/83/`](oug/2012/83/) | in force | 2 | 2012-12-13 | 2013-04-28 |
+| Ordonanța de urgență a Guvernului nr. 84/2012 | [`oug/2012/84/`](oug/2012/84/) | in force | 2 | 2012-12-13 | 2017-07-01 |
 | Ordonanța de urgență a Guvernului nr. 85/2012 | [`oug/2012/85/`](oug/2012/85/) | in force | 3 | 2012-12-13 | 2018-06-25 |
 | Ordonanța de urgență a Guvernului nr. 90/2012 | [`oug/2012/90/`](oug/2012/90/) | in force | 2 | 2012-12-21 | 2013-01-31 |
+| Ordonanța de urgență a Guvernului nr. 92/2012 | [`oug/2012/92/`](oug/2012/92/) | in force | 2 | 2012-12-19 | 2018-01-26 |
 | Ordonanța de urgență a Guvernului nr. 93/2012 privind înființarea, organizarea și funcționarea Autorității de Supraveghere Financiară | [`oug/2012/93/`](oug/2012/93/) | in force | 10 | 2012-12-21 | 2021-05-24 |
 | Ordonanța de urgență a Guvernului nr. 1/2013 | [`oug/2013/1/`](oug/2013/1/) | in force | 3 | 2013-01-23 | 2014-11-04 |
 | Ordonanța de urgență a Guvernului nr. 5/2013 | [`oug/2013/5/`](oug/2013/5/) | in force | 2 | 2013-02-04 | 2017-07-01 |
+| Ordonanța de urgență a Guvernului nr. 6/2013 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 96/2012 privind stabilirea unor măsuri de reorganizare în cadrul administrației publice centrale și pentru modificarea unor acte normative | [`oug/2013/6/`](oug/2013/6/) | amending act | 4 | 2013-02-19 | 2016-10-22 |
 | Ordonanța de urgență a Guvernului nr. 9/2013 | [`oug/2013/9/`](oug/2013/9/) | in force | 4 | 2013-03-15 | 2015-09-03 |
 | Ordonanța de urgență a Guvernului nr. 10/2013 | [`oug/2013/10/`](oug/2013/10/) | in force | 2 | 2013-02-28 | 2013-11-16 |
 | Ordonanța de urgență a Guvernului nr. 11/2013 | [`oug/2013/11/`](oug/2013/11/) | in force | 2 | 2013-03-05 | 2014-07-18 |
 | Ordonanța de urgență a Guvernului nr. 14/2013 | [`oug/2013/14/`](oug/2013/14/) | in force | 2 | 2013-03-13 | 2019-05-09 |
+| Ordonanța de urgență a Guvernului nr. 19/2013 | [`oug/2013/19/`](oug/2013/19/) | in force | 2 | 2013-04-02 | 2013-06-30 |
 | Ordonanța de urgență a Guvernului nr. 20/2013 | [`oug/2013/20/`](oug/2013/20/) | in force | 8 | 2013-04-03 | 2025-12-18 |
 | Ordonanța de urgență a Guvernului nr. 24/2013 | [`oug/2013/24/`](oug/2013/24/) | in force | 4 | 2013-04-12 | 2016-02-12 |
 | Ordonanța de urgență a Guvernului nr. 25/2013 | [`oug/2013/25/`](oug/2013/25/) | in force | 2 | 2013-04-12 | 2015-07-05 |
@@ -2057,6 +2157,7 @@
 | Ordonanța de urgență a Guvernului nr. 43/2013 | [`oug/2013/43/`](oug/2013/43/) | in force | 9 | 2013-06-19 | 2025-09-01 |
 | Ordonanța de urgență a Guvernului nr. 53/2013 | [`oug/2013/53/`](oug/2013/53/) | in force | 2 | 2013-06-05 | 2013-11-21 |
 | Ordonanța de urgență a Guvernului nr. 55/2013 | [`oug/2013/55/`](oug/2013/55/) | in force | 2 | 2013-06-06 | 2013-10-07 |
+| Ordonanța de urgență a Guvernului nr. 57/2013 | [`oug/2013/57/`](oug/2013/57/) | in force | 3 | 2013-07-01 | 2017-03-31 |
 | Ordonanța de urgență a Guvernului nr. 62/2013 | [`oug/2013/62/`](oug/2013/62/) | in force | 2 | 2013-06-25 | 2017-10-14 |
 | Ordonanța de urgență a Guvernului nr. 64/2013 | [`oug/2013/64/`](oug/2013/64/) | in force | 2 | 2013-06-26 | 2015-06-26 |
 | Ordonanța de urgență a Guvernului nr. 67/2013 | [`oug/2013/67/`](oug/2013/67/) | in force | 2 | 2013-06-28 | 2013-12-24 |
@@ -2072,17 +2173,21 @@
 | Ordonanța de urgență a Guvernului nr. 94/2013 | [`oug/2013/94/`](oug/2013/94/) | in force | 4 | 2013-10-18 | 2021-05-24 |
 | Ordonanța de urgență a Guvernului nr. 101/2013 | [`oug/2013/101/`](oug/2013/101/) | in force | 2 | 2013-11-04 | 2015-12-31 |
 | Ordonanța de urgență a Guvernului nr. 102/2013 | [`oug/2013/102/`](oug/2013/102/) | in force | 3 | 2013-11-15 | 2015-01-16 |
+| Ordonanța de urgență a Guvernului nr. 103/2013 | [`oug/2013/103/`](oug/2013/103/) | in force | 13 | 2013-11-15 | 2017-12-07 |
 | Ordonanța de urgență a Guvernului nr. 106/2013 pentru modificarea și completarea Legii petrolului nr. 238/2004 | [`oug/2013/106/`](oug/2013/106/) | amending act | 2 | 2013-12-09 | 2014-06-28 |
 | Ordonanța de urgență a Guvernului nr. 111/2013 | [`oug/2013/111/`](oug/2013/111/) | in force | 1 | 2013-12-19 | 2013-12-19 |
 | Ordonanța de urgență a Guvernului nr. 114/2013 | [`oug/2013/114/`](oug/2013/114/) | in force | 3 | 2013-12-24 | 2017-04-15 |
 | Ordonanța de urgență a Guvernului nr. 115/2013 | [`oug/2013/115/`](oug/2013/115/) | in force | 2 | 2013-12-24 | 2015-04-05 |
 | Ordonanța de urgență a Guvernului nr. 117/2013 | [`oug/2013/117/`](oug/2013/117/) | in force | 2 | 2013-12-30 | 2014-12-30 |
+| Ordonanța de urgență a Guvernului nr. 1/2014 | [`oug/2014/1/`](oug/2014/1/) | in force | 5 | 2014-02-04 | 2020-11-20 |
 | Ordonanța de urgență a Guvernului nr. 3/2014 pentru luarea unor măsuri de implementare necesare aplicării Legii nr. 135/2010 privind Codul de procedură penală și pentru implementarea altor acte normative | [`oug/2014/3/`](oug/2014/3/) | in force | 2 | 2014-02-07 | 2016-04-17 |
 | Ordonanța de urgență a Guvernului nr. 4/2014 | [`oug/2014/4/`](oug/2014/4/) | in force | 2 | 2014-02-13 | 2014-02-23 |
+| Ordonanța de urgență a Guvernului nr. 8/2014 | [`oug/2014/8/`](oug/2014/8/) | in force | 4 | 2014-02-28 | 2017-08-07 |
 | Ordonanța de urgență a Guvernului nr. 9/2014 | [`oug/2014/9/`](oug/2014/9/) | in force | 2 | 2014-02-28 | 2014-10-16 |
 | Ordonanța de urgență a Guvernului nr. 11/2014 privind adoptarea unor măsuri de reorganizare la nivelul administrației publice centrale și pentru modificarea și completarea unor acte normative | [`oug/2014/11/`](oug/2014/11/) | amending act | 2 | 2014-03-21 | 2021-03-26 |
 | Ordonanța de urgență a Guvernului nr. 18/2014 | [`oug/2014/18/`](oug/2014/18/) | in force | 3 | 2014-04-24 | 2022-06-30 |
 | Ordonanța de urgență a Guvernului nr. 22/2014 | [`oug/2014/22/`](oug/2014/22/) | in force | 2 | 2014-05-14 | 2016-11-04 |
+| Ordonanța de urgență a Guvernului nr. 23/2014 | [`oug/2014/23/`](oug/2014/23/) | in force | 2 | 2014-05-15 | 2014-10-27 |
 | Ordonanța de urgență a Guvernului nr. 25/2014 | [`oug/2014/25/`](oug/2014/25/) | in force | 4 | 2014-05-21 | 2017-07-03 |
 | Ordonanța de urgență a Guvernului nr. 33/2014 | [`oug/2014/33/`](oug/2014/33/) | in force | 2 | 2014-06-06 | 2015-01-12 |
 | Ordonanța de urgență a Guvernului nr. 34/2014 | [`oug/2014/34/`](oug/2014/34/) | in force | 7 | 2014-06-13 | 2022-07-20 |
@@ -2104,6 +2209,7 @@
 | Ordonanța de urgență a Guvernului nr. 77/2014 privind procedurile naționale în domeniul ajutorului de stat, precum și pentru modificarea și completarea Legii concurenței nr. 21/1996 | [`oug/2014/77/`](oug/2014/77/) | amending act | 8 | 2015-01-01 | 2024-07-29 |
 | Ordonanța de urgență a Guvernului nr. 79/2014 | [`oug/2014/79/`](oug/2014/79/) | in force | 2 | 2015-01-01 | 2015-06-05 |
 | Ordonanța de urgență a Guvernului nr. 82/2014 pentru modificarea și completarea Legii nr. 135/2010 privind Codul de procedură penală | [`oug/2014/82/`](oug/2014/82/) | amending act | 2 | 2014-12-15 | 2016-05-02 |
+| Ordonanța de urgență a Guvernului nr. 2/2015 | [`oug/2015/2/`](oug/2015/2/) | in force | 5 | 2015-03-13 | 2015-10-28 |
 | Ordonanța de urgență a Guvernului nr. 5/2015 | [`oug/2015/5/`](oug/2015/5/) | in force | 7 | 2015-04-26 | 2024-12-03 |
 | Ordonanța de urgență a Guvernului nr. 13/2015 privind înființarea, organizarea și funcționarea Agenției Naționale pentru Achiziții Publice | [`oug/2015/13/`](oug/2015/13/) | in force | 7 | 2015-05-26 | 2020-07-13 |
 | Ordonanța de urgență a Guvernului nr. 18/2015 | [`oug/2015/18/`](oug/2015/18/) | in force | 5 | 2015-06-15 | 2019-08-02 |
@@ -2153,6 +2259,7 @@
 | Ordonanța de urgență a Guvernului nr. 61/2016 | [`oug/2016/61/`](oug/2016/61/) | in force | 2 | 2016-10-04 | 2017-04-15 |
 | Ordonanța de urgență a Guvernului nr. 62/2016 | [`oug/2016/62/`](oug/2016/62/) | in force | 3 | 2016-10-11 | 2024-09-13 |
 | Ordonanța de urgență a Guvernului nr. 66/2016 | [`oug/2016/66/`](oug/2016/66/) | in force | 2 | 2016-10-12 | 2017-06-02 |
+| Ordonanța de urgență a Guvernului nr. 68/2016 | [`oug/2016/68/`](oug/2016/68/) | in force | 2 | 2016-10-28 | 2017-07-16 |
 | Ordonanța de urgență a Guvernului nr. 69/2016 pentru completarea art. 84 din Legea educației naționale nr. 1/2011 și a art. 45 din Legea serviciilor de transport public local nr. 92/2007 , precum și pentru abrogarea art. 15 din Ordonanța Guvernului nr. 29/2013 privind reglementarea unor măsuri bugetare | [`oug/2016/69/`](oug/2016/69/) | amending act | 3 | 2016-10-19 | 2017-10-05 |
 | Ordonanța de urgență a Guvernului nr. 70/2016 pentru modificarea și completarea Codului de procedură penală și a Legii nr. 304/2004 privind organizarea judiciară | [`oug/2016/70/`](oug/2016/70/) | amending act | 2 | 2016-10-31 | 2019-05-29 |
 | Ordonanța de urgență a Guvernului nr. 72/2016 | [`oug/2016/72/`](oug/2016/72/) | in force | 1 | 2016-11-01 | 2016-11-01 |
@@ -2167,9 +2274,12 @@
 | Ordonanța de urgență a Guvernului nr. 87/2016 | [`oug/2016/87/`](oug/2016/87/) | in force | 1 | 2016-11-28 | 2016-11-28 |
 | Ordonanța de urgență a Guvernului nr. 92/2016 | [`oug/2016/92/`](oug/2016/92/) | in force | 2 | 2017-01-01 | 2017-05-11 |
 | Ordonanța de urgență a Guvernului nr. 93/2016 | [`oug/2016/93/`](oug/2016/93/) | in force | 1 | 2016-12-12 | 2016-12-12 |
+| Ordonanța de urgență a Guvernului nr. 96/2016 | [`oug/2016/96/`](oug/2016/96/) | in force | 5 | 2016-12-15 | 2018-05-07 |
 | Ordonanța de urgență a Guvernului nr. 100/2016 pentru modificarea și completarea Legii nr. 350/2001 privind amenajarea teritoriului și urbanismul, precum și a Legii nr. 50/1991 privind autorizarea executării lucrărilor de construcții | [`oug/2016/100/`](oug/2016/100/) | amending act | 1 | 2016-12-27 | 2016-12-27 |
 | Ordonanța de urgență a Guvernului nr. 1/2017 pentru stabilirea unor măsuri în domeniul administrației publice centrale și pentru modificarea și completarea unor acte normative | [`oug/2017/1/`](oug/2017/1/) | amending act | 4 | 2017-01-05 | 2017-12-17 |
+| Ordonanța de urgență a Guvernului nr. 2/2017 privind unele măsuri fiscal-bugetare, precum și modificarea și completarea unor acte normative | [`oug/2017/2/`](oug/2017/2/) | in force | 3 | 2017-01-06 | 2017-06-17 |
 | Ordonanța de urgență a Guvernului nr. 3/2017 pentru modificarea și completarea Legii nr. 227/2015 privind Codul fiscal | [`oug/2017/3/`](oug/2017/3/) | amending act | 4 | 2017-01-06 | 2018-01-01 |
+| Ordonanța de urgență a Guvernului nr. 11/2017 | [`oug/2017/11/`](oug/2017/11/) | in force | 3 | 2017-01-30 | 2019-11-06 |
 | Ordonanța de urgență a Guvernului nr. 12/2017 | [`oug/2017/12/`](oug/2017/12/) | in force | 1 | 2017-01-31 | 2017-01-31 |
 | Ordonanța de urgență a Guvernului nr. 13/2017 | [`oug/2017/13/`](oug/2017/13/) | in force | 2 | 2017-02-01 | 2017-02-11 |
 | Ordonanța de urgență a Guvernului nr. 14/2017 | [`oug/2017/14/`](oug/2017/14/) | in force | 2 | 2017-02-05 | 2017-02-27 |
@@ -2211,6 +2321,7 @@
 | Ordonanța de urgență a Guvernului nr. 72/2017 privind implementarea Sistemului de avertizare a populației în situații de urgență "RO-ALERT" | [`oug/2017/72/`](oug/2017/72/) | in force | 1 | 2017-10-12 | 2017-10-12 |
 | Ordonanța de urgență a Guvernului nr. 74/2017 privind desemnarea Inspectoratului General pentru Situații de Urgență ca unitate de achiziții centralizată pentru achiziția centralizată de autospeciale/ambulanțe pentru Serviciul Mobil de Urgență, Reanimare și Descarcerare din cadrul Inspectoratului General pentru Situații de Urgență, pentru serviciile de ambulanță județene și pentru Serviciul de Ambulanță București-Ilfov | [`oug/2017/74/`](oug/2017/74/) | in force | 2 | 2017-10-16 | 2024-11-22 |
 | Ordonanța de urgență a Guvernului nr. 77/2017 privind înființarea Centrului Național pentru Informații Financiare | [`oug/2017/77/`](oug/2017/77/) | in force | 3 | 2017-10-30 | 2018-12-13 |
+| Ordonanța de urgență a Guvernului nr. 78/2017 pentru modificarea și completarea Legii apelor nr. 107/1996 | [`oug/2017/78/`](oug/2017/78/) | amending act | 2 | 2017-11-10 | 2018-11-05 |
 | Ordonanța de urgență a Guvernului nr. 79/2017 pentru modificarea și completarea Legii nr. 227/2015 privind Codul fiscal | [`oug/2017/79/`](oug/2017/79/) | amending act | 1 | 2018-01-01 | 2018-01-01 |
 | Ordonanța de urgență a Guvernului nr. 85/2017 pentru modificarea art. 5 din Legea nr. 299/2007 privind sprijinul acordat românilor de pretutindeni, precum și pentru acordarea unor burse de studii etnicilor români cu domiciliul stabil în Ucraina | [`oug/2017/85/`](oug/2017/85/) | amending act | 2 | 2017-11-27 | 2018-06-10 |
 | Ordonanța de urgență a Guvernului nr. 87/2017 pentru completarea art. 5 din Ordonanța Guvernului nr. 70/2002 privind administrarea unităților sanitare publice de interes județean și local | [`oug/2017/87/`](oug/2017/87/) | amending act | 1 | 2017-12-06 | 2017-12-06 |
@@ -2226,6 +2337,7 @@
 | Ordonanța de urgență a Guvernului nr. 114/2017 privind reglementarea unor măsuri fiscal-bugetare pentru personalul încadrat în unitățile sanitare | [`oug/2017/114/`](oug/2017/114/) | in force | 1 | 2017-12-29 | 2017-12-29 |
 | Ordonanța de urgență a Guvernului nr. 1/2018 pentru aprobarea unor măsuri de reorganizare în cadrul administrației publice centrale și pentru modificarea unor acte normative | [`oug/2018/1/`](oug/2018/1/) | amending act | 1 | 2018-01-31 | 2018-01-31 |
 | Ordonanța de urgență a Guvernului nr. 2/2018 pentru prorogarea unor termene prevăzute în Legea nr. 227/2015 privind Codul fiscal | [`oug/2018/2/`](oug/2018/2/) | amending act | 1 | 2018-01-31 | 2018-01-31 |
+| Ordonanța de urgență a Guvernului nr. 3/2018 privind unele măsuri fiscal-bugetare | [`oug/2018/3/`](oug/2018/3/) | in force | 2 | 2018-02-08 | 2019-01-01 |
 | Ordonanța de urgență a Guvernului nr. 4/2018 privind modificarea și completarea Ordonanței de urgență a Guvernului nr. 3/2015 pentru aprobarea schemelor de plăți care se aplică în agricultură în perioada 2015-2020 și pentru modificarea art. 2 din Legea nr. 36/1991 privind societățile agricole și alte forme de asociere în agricultură | [`oug/2018/4/`](oug/2018/4/) | amending act | 2 | 2018-02-19 | 2018-06-25 |
 | Ordonanța de urgență a Guvernului nr. 8/2018 privind reglementarea unor măsuri în domeniul sănătății | [`oug/2018/8/`](oug/2018/8/) | in force | 2 | 2018-03-01 | 2022-04-24 |
 | Ordonanța de urgență a Guvernului nr. 11/2018 pentru adoptarea unor măsuri bugetare și pentru completarea art. 63 din Legea nr. 273/2006 privind finanțele publice locale | [`oug/2018/11/`](oug/2018/11/) | amending act | 5 | 2018-03-07 | 2019-05-23 |
@@ -2259,12 +2371,14 @@
 | Ordonanța de urgență a Guvernului nr. 86/2018 pentru modificarea și completarea Legii nr. 3/2000 privind organizarea și desfășurarea referendumului, precum și pentru unele măsuri pentru buna organizare și desfășurare a referendumului național pentru revizuirea Constituției | [`oug/2018/86/`](oug/2018/86/) | amending act | 2 | 2018-09-18 | 2021-09-19 |
 | Ordonanța de urgență a Guvernului nr. 88/2018 pentru modificarea și completarea unor acte normative în domeniul insolvenței și a altor acte normative | [`oug/2018/88/`](oug/2018/88/) | amending act | 2 | 2018-10-02 | 2020-07-11 |
 | Ordonanța de urgență a Guvernului nr. 90/2018 privind unele măsuri pentru operaționalizarea Secției pentru investigarea infracțiunilor din justiție | [`oug/2018/90/`](oug/2018/90/) | in force | 1 | 2018-10-10 | 2018-10-10 |
+| Ordonanța de urgență a Guvernului nr. 96/2018 privind prorogarea unor termene, precum și pentru modificarea și completarea unor acte normative | [`oug/2018/96/`](oug/2018/96/) | amending act | 2 | 2018-11-14 | 2019-05-11 |
 | Ordonanța de urgență a Guvernului nr. 104/2018 privind implementarea Programului guvernamental "gROwth - Contul individual de economii Junior Centenar" | [`oug/2018/104/`](oug/2018/104/) | in force | 1 | 2018-12-04 | 2018-12-04 |
 | Ordonanța de urgență a Guvernului nr. 105/2018 pentru modificarea și completarea unor acte normative din domeniul fondurilor europene nerambursabile | [`oug/2018/105/`](oug/2018/105/) | amending act | 2 | 2018-12-12 | 2024-03-29 |
 | Ordonanța de urgență a Guvernului nr. 111/2018 pentru completarea Ordonanței de urgență a Guvernului nr. 77/2011 privind stabilirea unor contribuții pentru finanțarea unor cheltuieli în domeniul sănătății | [`oug/2018/111/`](oug/2018/111/) | amending act | 2 | 2018-12-21 | 2020-10-30 |
 | Ordonanța de urgență a Guvernului nr. 112/2018 privind accesibilitatea site-urilor web și a aplicațiilor mobile ale organismelor din sectorul public | [`oug/2018/112/`](oug/2018/112/) | in force | 1 | 2018-12-27 | 2018-12-27 |
 | Ordonanța de urgență a Guvernului nr. 113/2018 pentru modificarea și completarea art. 38 din Ordonanța de urgență a Guvernului nr. 90/2017 privind unele măsuri fiscal-bugetare, modificarea și completarea unor acte normative și prorogarea unor termene | [`oug/2018/113/`](oug/2018/113/) | amending act | 2 | 2018-12-29 | 2019-11-11 |
 | Ordonanța de urgență a Guvernului nr. 114/2018 privind instituirea unor măsuri în domeniul investițiilor publice și a unor măsuri fiscal-bugetare, modificarea și completarea unor acte normative și prorogarea unor termene | [`oug/2018/114/`](oug/2018/114/) | in force | 14 | 2018-12-29 | 2023-10-30 |
+| Ordonanța de urgență a Guvernului nr. 7/2019 privind unele măsuri temporare referitoare la concursul de admitere la Institutul Național al Magistraturii, formarea profesională inițială a judecătorilor și procurorilor, examenul de absolvire a Institutului Național al Magistraturii, stagiul și examenul de capacitate al judecătorilor și procurorilor stagiari, precum și pentru modificarea și completarea Legii nr. 303/2004 privind statutul judecătorilor și procurorilor, Legii nr. 304/2004 privind organizarea judiciară și Legii nr. 317/2004 privind Consiliul Superior al Magistraturii | [`oug/2019/7/`](oug/2019/7/) | amending act | 2 | 2019-02-20 | 2019-03-07 |
 | Ordonanța de urgență a Guvernului nr. 8/2019 privind unele măsuri pentru aplicarea Regulamentului (UE) 2017/1.939 al Consiliului din 12 octombrie 2017 de punere în aplicare a unei forme de cooperare consolidată în ceea ce privește instituirea Parchetului European (EPPO) | [`oug/2019/8/`](oug/2019/8/) | in force | 1 | 2019-02-20 | 2019-02-20 |
 | Ordonanța de urgență a Guvernului nr. 9/2019 pentru modificarea și completarea Legii nr. 61/1993 privind alocația de stat pentru copii, precum și pentru modificarea art. 58 alin. (1) din Legea nr. 448/2006 privind protecția și promovarea drepturilor persoanelor cu handicap | [`oug/2019/9/`](oug/2019/9/) | amending act | 2 | 2019-02-22 | 2020-02-01 |
 | Ordonanța de urgență a Guvernului nr. 15/2019 pentru prorogarea unor termene | [`oug/2019/15/`](oug/2019/15/) | amending act | 1 | 2019-03-14 | 2019-03-14 |
@@ -2413,6 +2527,7 @@
 | Ordonanța de urgență a Guvernului nr. 199/2020 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 130/2020 privind unele măsuri pentru acordarea de sprijin financiar din fonduri externe nerambursabile, aferente Programului operațional Competitivitate 2014-2020, în contextul crizei provocate de COVID-19, precum și alte măsuri în domeniul fondurilor europene | [`oug/2020/199/`](oug/2020/199/) | amending act | 1 | 2020-11-19 | 2020-11-19 |
 | Ordonanța de urgență a Guvernului nr. 203/2020 privind unele măsuri de reglementare a vânzării terenurilor agricole situate în extravilan | [`oug/2020/203/`](oug/2020/203/) | in force | 1 | 2020-11-25 | 2020-11-25 |
 | Ordonanța de urgență a Guvernului nr. 204/2020 privind stabilirea unor măsuri de aplicare a Acordului privind retragerea Regatului Unit al Marii Britanii și Irlandei de Nord din Uniunea Europeană și din Comunitatea Europeană a Energiei Atomice, în materie de reglementare a dreptului de intrare și ședere pe teritoriul României | [`oug/2020/204/`](oug/2020/204/) | in force | 5 | 2020-12-01 | 2024-03-22 |
+| Ordonanța de urgență a Guvernului nr. 205/2020 privind aprobarea Schemei de ajutor de stat pentru susținerea activității producătorilor din sectorul vitivinicol în contextul crizei economice generate de pandemia de COVID-19 | [`oug/2020/205/`](oug/2020/205/) | amending act | 1 | 2020-12-04 | 2020-12-04 |
 | Ordonanța de urgență a Guvernului nr. 210/2020 pentru modificarea Ordonanței Guvernului nr. 99/2000 privind comercializarea produselor și serviciilor de piață | [`oug/2020/210/`](oug/2020/210/) | amending act | 2 | 2020-12-08 | 2022-12-08 |
 | Ordonanța de urgență a Guvernului nr. 211/2020 privind prelungirea aplicării unor măsuri de protecție socială adoptate în contextul răspândirii coronavirusului SARS-CoV-2, precum și pentru modificarea Ordonanței de urgență a Guvernului nr. 132/2020 privind măsuri de sprijin destinate salariaților și angajatorilor în contextul situației epidemiologice determinate de răspândirea coronavirusului SARS-CoV-2, precum și pentru stimularea creșterii ocupării forței de muncă | [`oug/2020/211/`](oug/2020/211/) | amending act | 2 | 2020-12-07 | 2021-04-08 |
 | Ordonanța de urgență a Guvernului nr. 212/2020 privind stabilirea unor măsuri la nivelul administrației publice centrale și pentru modificarea și completarea unor acte normative | [`oug/2020/212/`](oug/2020/212/) | amending act | 3 | 2020-12-29 | 2024-06-25 |
@@ -2649,6 +2764,7 @@
 | Ordonanța de urgență a Guvernului nr. 70/2023 pentru modificarea și/sau completarea unor acte normative din domeniul pensiilor publice | [`oug/2023/70/`](oug/2023/70/) | amending act | 2 | 2023-08-31 | 2025-02-28 |
 | Ordonanța de urgență a Guvernului nr. 71/2023 pentru instituirea unei prelungiri a termenelor prevăzute la art. 262 alin. (3^2) din Legea nr. 85/2014 privind procedurile de prevenire a insolvenței și de insolvență | [`oug/2023/71/`](oug/2023/71/) | in force | 1 | 2023-09-01 | 2023-09-01 |
 | Ordonanța de urgență a Guvernului nr. 72/2023 pentru modificarea unor acte normative în domeniul educației, precum și pentru modificarea Ordonanței de urgență a Guvernului nr. 57/2019 privind Codul administrativ | [`oug/2023/72/`](oug/2023/72/) | amending act | 2 | 2023-09-03 | 2024-01-06 |
+| Ordonanța de urgență a Guvernului nr. 73/2023 privind unele măsuri bugetare | [`oug/2023/73/`](oug/2023/73/) | in force | 2 | 2023-09-14 | 2023-10-27 |
 | Ordonanța de urgență a Guvernului nr. 79/2023 privind acordarea unui ajutor de stat Complexului Energetic "Valea Jiului" - S.A. pentru închiderea și punerea în siguranță a extracției de huilă din cadrul exploatărilor miniere Lonea, Lupeni, Livezeni și Vulcan | [`oug/2023/79/`](oug/2023/79/) | in force | 1 | 2023-10-02 | 2023-10-02 |
 | Ordonanța de urgență a Guvernului nr. 80/2023 pentru modificarea art. 1 alin. (11) din Ordonanța de urgență a Guvernului nr. 15/2022 privind acordarea de sprijin și asistență umanitară de către statul român cetățenilor străini sau apatrizilor aflați în situații deosebite, proveniți din zona conflictului armat din Ucraina | [`oug/2023/80/`](oug/2023/80/) | amending act | 1 | 2023-10-05 | 2023-10-05 |
 | Ordonanța de urgență a Guvernului nr. 81/2023 privind consolidarea capacității instituționale a Ministerului Finanțelor, exercitarea controlului financiar de specialitate al statului, pentru unele reglementări specifice, precum și pentru modificarea și completarea unor acte normative | [`oug/2023/81/`](oug/2023/81/) | amending act | 2 | 2023-10-06 | 2023-12-15 |
@@ -2788,27 +2904,32 @@
 | Ordonanța de urgență a Guvernului nr. 78/2025 pentru modificarea Legii nr. 239/2025 privind stabilirea unor măsuri de redresare și eficientizare a resurselor publice și pentru modificarea și completarea unor acte normative | [`oug/2025/78/`](oug/2025/78/) | amending act | 1 | 2025-12-17 | 2025-12-17 |
 | Ordonanța de urgență a Guvernului nr. 87/2025 pentru stabilirea unor măsuri bugetare privind implementarea programelor naționale din domeniul lucrărilor publice | [`oug/2025/87/`](oug/2025/87/) | in force | 1 | 2025-12-24 | 2025-12-24 |
 
-## Ordinances (OG) (327, of which 83 amending acts)
+## Ordinances (OG) (349, of which 84 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
 | Ordonanța Guvernului nr. 21/1992 privind protecția consumatorilor | [`og/1992/21/`](og/1992/21/) | in force | 11 | 1992-08-28 | 2023-11-11 |
+| Ordonanța Guvernului nr. 15/1993 | [`og/1993/15/`](og/1993/15/) | in force | 4 | 1993-08-23 | 2016-06-04 |
 | Ordonanța Guvernului nr. 20/1994 | [`og/1994/20/`](og/1994/20/) | in force | 17 | 1994-01-28 | 2022-03-07 |
 | Ordonanța Guvernului nr. 26/1994 | [`og/1994/26/`](og/1994/26/) | in force | 15 | 1994-07-29 | 2023-04-17 |
 | Ordonanța Guvernului nr. 28/1994 privind plata majorărilor de întârziere și a unor sume restante datorate statului | [`og/1994/28/`](og/1994/28/) | in force | 2 | 1994-08-09 | 1994-12-23 |
 | Ordonanța Guvernului nr. 41/1994 | [`og/1994/41/`](og/1994/41/) | in force | 2 | 1994-08-29 | 2000-07-06 |
 | Ordonanța Guvernului nr. 48/1994 | [`og/1994/48/`](og/1994/48/) | in force | 3 | 1994-08-29 | 2002-02-20 |
+| Ordonanța Guvernului nr. 65/1994 | [`og/1994/65/`](og/1994/65/) | in force | 16 | 1994-08-30 | 2017-07-15 |
+| Ordonanța Guvernului nr. 68/1994 | [`og/1994/68/`](og/1994/68/) | in force | 5 | 1994-08-31 | 2001-01-25 |
 | Ordonanța Guvernului nr. 4/1995 | [`og/1995/4/`](og/1995/4/) | in force | 6 | 1995-01-30 | 2025-10-02 |
 | Ordonanța Guvernului nr. 8/1996 | [`og/1996/8/`](og/1996/8/) | in force | 1 | 1996-01-30 | 1996-01-30 |
 | Ordonanța Guvernului nr. 27/1996 | [`og/1996/27/`](og/1996/27/) | in force | 9 | 1996-08-08 | 2021-11-01 |
 | Ordonanța Guvernului nr. 22/1997 privind unele măsuri de protecție ce se acordă personalului din industria miniera și din activitățile de prospecțiuni și explorari geologice | [`og/1997/22/`](og/1997/22/) | in force | 1 | 1997-08-20 | 1997-08-20 |
 | Ordonanța Guvernului nr. 29/1997 privind Codul aerian civil | [`og/1997/29/`](og/1997/29/) | in force | 7 | 1998-01-01 | 2019-01-07 |
+| Ordonanța Guvernului nr. 37/1997 | [`og/1997/37/`](og/1997/37/) | in force | 5 | 1997-08-28 | 2008-08-23 |
 | Ordonanța Guvernului nr. 43/1997 privind regimul drumurilor | [`og/1997/43/`](og/1997/43/) | in force | 37 | 1998-01-01 | 2025-08-25 |
 | Ordonanța Guvernului nr. 45/1997 | [`og/1997/45/`](og/1997/45/) | in force | 11 | 1997-09-28 | 2021-10-05 |
 | Ordonanța Guvernului nr. 51/1997 | [`og/1997/51/`](og/1997/51/) | in force | 11 | 1997-08-30 | 2021-04-19 |
 | Ordonanța Guvernului nr. 54/1997 pentru modificarea și completarea Legii nr. 15/1994 privind amortizarea capitalului imobilizat în active corporale și necorporale | [`og/1997/54/`](og/1997/54/) | amending act | 2 | 1997-08-30 | 1998-12-09 |
 | Ordonanța Guvernului nr. 63/1997 privind stabilirea unor facilități pentru dezvoltarea turismului rural | [`og/1997/63/`](og/1997/63/) | in force | 3 | 1997-08-30 | 2000-01-01 |
 | Ordonanța Guvernului nr. 8/1998 | [`og/1998/8/`](og/1998/8/) | in force | 5 | 1998-02-01 | 2003-03-24 |
+| Ordonanța Guvernului nr. 9/1998 | [`og/1998/9/`](og/1998/9/) | in force | 4 | 1998-01-30 | 1998-11-23 |
 | Ordonanța Guvernului nr. 32/1998 | [`og/1998/32/`](og/1998/32/) | in force | 14 | 1998-03-01 | 2019-03-01 |
 | Ordonanța Guvernului nr. 46/1998 | [`og/1998/46/`](og/1998/46/) | in force | 8 | 1998-07-31 | 2022-08-28 |
 | Ordonanța Guvernului nr. 47/1998 | [`og/1998/47/`](og/1998/47/) | in force | 2 | 1998-09-29 | 2001-04-26 |
@@ -2822,6 +2943,7 @@
 | Ordonanța Guvernului nr. 124/1998 | [`og/1998/124/`](og/1998/124/) | in force | 11 | 1998-09-28 | 2025-05-23 |
 | Ordonanța Guvernului nr. 16/1999 | [`og/1999/16/`](og/1999/16/) | in force | 3 | 1999-01-29 | 2003-11-27 |
 | Ordonanța Guvernului nr. 19/1999 | [`og/1999/19/`](og/1999/19/) | in force | 1 | 1999-01-29 | 1999-01-29 |
+| Ordonanța Guvernului nr. 39/1999 privind finalizarea procesului de restructurare a Băncii Române de Comerț Exterior - Bancorex - S.A. și fuziunea prin absorbire a acestei bănci cu Banca Comercială Română - S.A. | [`og/1999/39/`](og/1999/39/) | in force | 9 | 1999-07-30 | 2003-04-09 |
 | Ordonanța Guvernului nr. 48/1999 privind transportul rutier al mărfurilor periculoase | [`og/1999/48/`](og/1999/48/) | in force | 2 | 1999-08-24 | 2002-03-25 |
 | Ordonanța Guvernului nr. 49/1999 | [`og/1999/49/`](og/1999/49/) | in force | 2 | 1999-08-24 | 2002-01-16 |
 | Ordonanța Guvernului nr. 62/1999 | [`og/1999/62/`](og/1999/62/) | in force | 7 | 1999-10-01 | 2023-02-01 |
@@ -2849,6 +2971,7 @@
 | Ordonanța Guvernului nr. 101/2000 | [`og/2000/101/`](og/2000/101/) | in force | 1 | 2000-09-03 | 2000-09-03 |
 | Ordonanța Guvernului nr. 112/2000 | [`og/2000/112/`](og/2000/112/) | in force | 1 | 2000-09-01 | 2000-09-01 |
 | Ordonanța Guvernului nr. 118/2000 | [`og/2000/118/`](og/2000/118/) | in force | 1 | 2000-09-03 | 2000-09-03 |
+| Ordonanța Guvernului nr. 121/2000 privind înfiinţarea Institutului pentru Studierea Problemelor Minorităţilor Naţionale | [`og/2000/121/`](og/2000/121/) | in force | 2 | 2000-09-03 | 2001-07-20 |
 | Ordonanța Guvernului nr. 122/2000 pentru acceptarea amendamentelor la anexa la Convenția internațională privind standardele de pregătire a navigatorilor, brevetare/atestare și efectuare a serviciului de cart, adoptată la Londra la 7 iulie 1978 (STCW 1978), și a Codului privind pregătirea, brevetarea/atestarea și efectuarea serviciului de cart (Codul STCW), adoptate prin Actul final al Conferintei părților la aceasta convenție la Londra la 7 iulie 1995, precum și a amendamentelor ulterioare, adoptate prin rezoluții ale Comitetului Securității Maritime al Organizației Maritime Internaționale | [`og/2000/122/`](og/2000/122/) | in force | 1 | 2000-09-02 | 2000-09-02 |
 | Ordonanța Guvernului nr. 128/2000 | [`og/2000/128/`](og/2000/128/) | in force | 6 | 2000-09-02 | 2017-02-01 |
 | Ordonanța Guvernului nr. 136/2000 | [`og/2000/136/`](og/2000/136/) | in force | 3 | 2000-10-02 | 2010-07-02 |
@@ -2858,6 +2981,7 @@
 | Ordonanța Guvernului nr. 24/2001 | [`og/2001/24/`](og/2001/24/) | in force | 3 | 2001-09-01 | 2003-05-31 |
 | Ordonanța Guvernului nr. 25/2001 | [`og/2001/25/`](og/2001/25/) | in force | 19 | 2001-08-17 | 2024-04-26 |
 | Ordonanța Guvernului nr. 33/2001 | [`og/2001/33/`](og/2001/33/) | in force | 2 | 2001-08-23 | 2002-03-25 |
+| Ordonanța Guvernului nr. 49/2001 privind acceptarea unor amendamente la Convenţia internaţionala pentru securitatea containerelor, încheiată la Geneva la 2 decembrie 1972 | [`og/2001/49/`](og/2001/49/) | in force | 2 | 2001-08-31 | 2001-12-13 |
 | Ordonanța Guvernului nr. 50/2001 pentru ratificarea Memorandumului de înțelegere privind controlul statului portului în regiunea Marii Negre, semnat la Istanbul la 7 aprilie 2000 | [`og/2001/50/`](og/2001/50/) | in force | 1 | 2024-05-20 | 2024-05-20 |
 | Ordonanța Guvernului nr. 57/2001 pentru modificarea și completarea Ordonanței Guvernului nr. 1/2000 privind organizarea activității și funcționarea instituțiilor de medicina legală | [`og/2001/57/`](og/2001/57/) | amending act | 2 | 2001-08-31 | 2004-07-10 |
 | Ordonanța Guvernului nr. 63/2001 | [`og/2001/63/`](og/2001/63/) | in force | 13 | 2001-10-01 | 2021-07-23 |
@@ -2868,6 +2992,7 @@
 | Ordonanța Guvernului nr. 82/2001 | [`og/2001/82/`](og/2001/82/) | in force | 8 | 2002-01-01 | 2024-06-29 |
 | Ordonanța Guvernului nr. 83/2001 | [`og/2001/83/`](og/2001/83/) | in force | 21 | 2002-01-01 | 2025-12-19 |
 | Ordonanța Guvernului nr. 84/2001 | [`og/2001/84/`](og/2001/84/) | in force | 13 | 2002-01-01 | 2023-02-03 |
+| Ordonanța Guvernului nr. 86/2001 | [`og/2001/86/`](og/2001/86/) | in force | 3 | 2001-10-01 | 2006-02-17 |
 | Ordonanța Guvernului nr. 88/2001 | [`og/2001/88/`](og/2001/88/) | in force | 9 | 2002-01-01 | 2021-06-30 |
 | Ordonanța Guvernului nr. 7/2002 | [`og/2002/7/`](og/2002/7/) | in force | 2 | 2002-02-01 | 2002-05-10 |
 | Ordonanța Guvernului nr. 15/2002 | [`og/2002/15/`](og/2002/15/) | in force | 26 | 2002-02-01 | 2025-09-08 |
@@ -2886,6 +3011,7 @@
 | Ordonanța Guvernului nr. 57/2002 | [`og/2002/57/`](og/2002/57/) | in force | 24 | 2002-08-30 | 2023-11-11 |
 | Ordonanța Guvernului nr. 63/2002 | [`og/2002/63/`](og/2002/63/) | in force | 4 | 2002-08-30 | 2007-10-26 |
 | Ordonanța Guvernului nr. 71/2002 | [`og/2002/71/`](og/2002/71/) | in force | 6 | 2002-09-30 | 2023-12-11 |
+| Ordonanța Guvernului nr. 73/2002 | [`og/2002/73/`](og/2002/73/) | in force | 3 | 2002-11-29 | 2004-04-29 |
 | Ordonanța Guvernului nr. 5/2003 | [`og/2003/5/`](og/2003/5/) | in force | 2 | 2003-01-30 | 2003-05-29 |
 | Ordonanța Guvernului nr. 11/2003 | [`og/2003/11/`](og/2003/11/) | in force | 9 | 2003-02-01 | 2021-04-01 |
 | Ordonanța Guvernului nr. 24/2003 | [`og/2003/24/`](og/2003/24/) | in force | 2 | 2003-02-02 | 2003-09-26 |
@@ -2894,6 +3020,7 @@
 | Ordonanța Guvernului nr. 33/2003 | [`og/2003/33/`](og/2003/33/) | in force | 3 | 2003-04-02 | 2011-06-12 |
 | Ordonanța Guvernului nr. 34/2003 | [`og/2003/34/`](og/2003/34/) | in force | 2 | 2003-02-01 | 2003-06-10 |
 | Ordonanța Guvernului nr. 41/2003 | [`og/2003/41/`](og/2003/41/) | in force | 4 | 2003-02-02 | 2009-07-02 |
+| Ordonanța Guvernului nr. 42/2003 | [`og/2003/42/`](og/2003/42/) | in force | 4 | 2003-03-04 | 2004-12-18 |
 | Ordonanța Guvernului nr. 48/2003 | [`og/2003/48/`](og/2003/48/) | in force | 2 | 2003-08-06 | 2003-12-27 |
 | Ordonanța Guvernului nr. 53/2003 | [`og/2003/53/`](og/2003/53/) | in force | 1 | 2003-08-15 | 2003-08-15 |
 | Ordonanța Guvernului nr. 80/2003 | [`og/2003/80/`](og/2003/80/) | in force | 2 | 2003-08-30 | 2003-12-27 |
@@ -2908,6 +3035,7 @@
 | Ordonanța Guvernului nr. 33/2004 | [`og/2004/33/`](og/2004/33/) | in force | 2 | 2004-03-31 | 2004-07-30 |
 | Ordonanța Guvernului nr. 38/2004 | [`og/2004/38/`](og/2004/38/) | in force | 2 | 2004-02-03 | 2004-06-07 |
 | Ordonanța Guvernului nr. 42/2004 | [`og/2004/42/`](og/2004/42/) | in force | 26 | 2004-02-03 | 2026-01-01 |
+| Ordonanța Guvernului nr. 55/2004 | [`og/2004/55/`](og/2004/55/) | in force | 12 | 2004-08-02 | 2008-10-16 |
 | Ordonanța Guvernului nr. 72/2004 | [`og/2004/72/`](og/2004/72/) | in force | 3 | 2004-08-30 | 2005-03-18 |
 | Ordonanța Guvernului nr. 77/2004 | [`og/2004/77/`](og/2004/77/) | in force | 3 | 2004-08-30 | 2005-12-30 |
 | Ordonanța Guvernului nr. 81/2004 | [`og/2004/81/`](og/2004/81/) | in force | 2 | 2004-08-30 | 2004-11-22 |
@@ -2925,6 +3053,7 @@
 | Ordonanța Guvernului nr. 32/2005 | [`og/2005/32/`](og/2005/32/) | in force | 2 | 2005-07-23 | 2006-01-19 |
 | Ordonanța Guvernului nr. 34/2005 | [`og/2005/34/`](og/2005/34/) | in force | 2 | 2005-10-24 | 2005-12-22 |
 | Ordonanța Guvernului nr. 35/2005 | [`og/2005/35/`](og/2005/35/) | in force | 2 | 2005-10-25 | 2005-12-18 |
+| Ordonanța Guvernului nr. 39/2005 | [`og/2005/39/`](og/2005/39/) | in force | 21 | 2005-08-07 | 2024-12-09 |
 | Ordonanța Guvernului nr. 40/2005 | [`og/2005/40/`](og/2005/40/) | in force | 2 | 2005-09-30 | 2005-12-22 |
 | Ordonanța Guvernului nr. 49/2005 | [`og/2005/49/`](og/2005/49/) | in force | 2 | 2005-08-29 | 2006-04-07 |
 | Ordonanța Guvernului nr. 51/2005 | [`og/2005/51/`](og/2005/51/) | in force | 2 | 2005-09-03 | 2006-03-13 |
@@ -2935,7 +3064,9 @@
 | Ordonanța Guvernului nr. 16/2006 | [`og/2006/16/`](og/2006/16/) | in force | 2 | 2006-02-02 | 2006-05-25 |
 | Ordonanța Guvernului nr. 21/2006 | [`og/2006/21/`](og/2006/21/) | in force | 2 | 2006-02-02 | 2006-12-21 |
 | Ordonanța Guvernului nr. 24/2006 | [`og/2006/24/`](og/2006/24/) | in force | 2 | 2006-02-02 | 2006-07-01 |
+| Ordonanța Guvernului nr. 25/2006 | [`og/2006/25/`](og/2006/25/) | in force | 5 | 2006-03-01 | 2011-06-27 |
 | Ordonanța Guvernului nr. 26/2006 pentru modificarea și completarea Legii bibliotecilor nr. 334/2002 | [`og/2006/26/`](og/2006/26/) | amending act | 2 | 2006-02-02 | 2006-07-13 |
+| Ordonanța Guvernului nr. 30/2006 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 102/2005 privind libera circulație pe teritoriul României a cetățenilor statelor membre ale Uniunii Europene și Spațiului Economic European | [`og/2006/30/`](og/2006/30/) | amending act | 2 | 2007-01-01 | 2007-01-02 |
 | Ordonanța Guvernului nr. 36/2006 | [`og/2006/36/`](og/2006/36/) | in force | 9 | 2006-09-01 | 2022-11-17 |
 | Ordonanța Guvernului nr. 38/2006 | [`og/2006/38/`](og/2006/38/) | in force | 2 | 2006-08-17 | 2007-01-19 |
 | Ordonanța Guvernului nr. 40/2006 | [`og/2006/40/`](og/2006/40/) | in force | 8 | 2006-08-20 | 2021-09-03 |
@@ -2951,6 +3082,7 @@
 | Ordonanța Guvernului nr. 44/2007 | [`og/2007/44/`](og/2007/44/) | in force | 1 | 2007-09-02 | 2007-09-02 |
 | Ordonanța Guvernului nr. 1/2008 | [`og/2008/1/`](og/2008/1/) | in force | 2 | 2008-01-27 | 2009-03-29 |
 | Ordonanța Guvernului nr. 2/2008 | [`og/2008/2/`](og/2008/2/) | in force | 2 | 2008-02-10 | 2008-10-31 |
+| Ordonanța Guvernului nr. 3/2008 | [`og/2008/3/`](og/2008/3/) | in force | 2 | 2008-02-03 | 2009-07-16 |
 | Ordonanța Guvernului nr. 4/2008 | [`og/2008/4/`](og/2008/4/) | in force | 2 | 2008-02-03 | 2009-05-09 |
 | Ordonanța Guvernului nr. 9/2008 | [`og/2008/9/`](og/2008/9/) | in force | 1 | 2008-02-04 | 2008-02-04 |
 | Ordonanța Guvernului nr. 10/2008 | [`og/2008/10/`](og/2008/10/) | in force | 8 | 2008-02-04 | 2015-01-25 |
@@ -2962,10 +3094,12 @@
 | Ordonanța Guvernului nr. 23/2009 | [`og/2009/23/`](og/2009/23/) | in force | 3 | 2009-09-03 | 2011-12-11 |
 | Ordonanța Guvernului nr. 26/2009 | [`og/2009/26/`](og/2009/26/) | in force | 3 | 2009-09-03 | 2018-09-03 |
 | Ordonanța Guvernului nr. 9/2010 | [`og/2010/9/`](og/2010/9/) | in force | 2 | 2010-02-02 | 2010-07-03 |
+| Ordonanța Guvernului nr. 13/2010 | [`og/2010/13/`](og/2010/13/) | in force | 2 | 2010-02-02 | 2010-07-05 |
 | Ordonanța Guvernului nr. 15/2010 privind unele măsuri de reorganizare a activităților de tineret și sport | [`og/2010/15/`](og/2010/15/) | in force | 2 | 2010-07-25 | 2011-12-11 |
 | Ordonanța Guvernului nr. 16/2010 privind preluarea Centrului Național de Cercetare-Dezvoltare pentru Protecția Construcțiilor la Acțiuni Seismice și Alunecări de Teren - CNRRS, aflat în subordinea Ministerului Dezvoltării Regionale și Turismului, de către Institutul Național de Cercetare-Dezvoltare în Construcții, Urbanism și Dezvoltare Teritorială Durabilă "URBAN-INCERC", aflat în coordonarea Ministerului Dezvoltării Regionale și Turismului, prin procedura comasării prin absorbție | [`og/2010/16/`](og/2010/16/) | in force | 1 | 2010-09-01 | 2010-09-01 |
 | Ordonanța Guvernului nr. 20/2010 | [`og/2010/20/`](og/2010/20/) | in force | 5 | 2010-08-29 | 2023-02-03 |
 | Ordonanța Guvernului nr. 24/2010 | [`og/2010/24/`](og/2010/24/) | in force | 5 | 2010-09-02 | 2023-06-01 |
+| Ordonanța Guvernului nr. 6/2011 | [`og/2011/6/`](og/2011/6/) | in force | 3 | 2011-02-03 | 2018-08-06 |
 | Ordonanța Guvernului nr. 7/2011 | [`og/2011/7/`](og/2011/7/) | in force | 2 | 2011-02-03 | 2012-07-19 |
 | Ordonanța Guvernului nr. 8/2011 | [`og/2011/8/`](og/2011/8/) | in force | 7 | 2011-02-03 | 2021-11-27 |
 | Ordonanța Guvernului nr. 13/2011 privind dobânda legală remuneratorie și penalizatoare pentru obligații bănești, precum și pentru reglementarea unor măsuri financiar-fiscale în domeniul bancar | [`og/2011/13/`](og/2011/13/) | in force | 5 | 2011-09-01 | 2014-06-28 |
@@ -2973,7 +3107,10 @@
 | Ordonanța Guvernului nr. 16/2011 | [`og/2011/16/`](og/2011/16/) | in force | 2 | 2011-10-28 | 2012-11-18 |
 | Ordonanța Guvernului nr. 17/2011 | [`og/2011/17/`](og/2011/17/) | in force | 2 | 2011-09-01 | 2012-07-27 |
 | Ordonanța Guvernului nr. 21/2011 | [`og/2011/21/`](og/2011/21/) | in force | 3 | 2011-09-04 | 2012-06-12 |
+| Ordonanța Guvernului nr. 24/2011 | [`og/2011/24/`](og/2011/24/) | in force | 5 | 2011-09-05 | 2013-07-24 |
+| Ordonanța Guvernului nr. 25/2011 | [`og/2011/25/`](og/2011/25/) | in force | 2 | 2011-09-05 | 2012-07-09 |
 | Ordonanța Guvernului nr. 27/2011 | [`og/2011/27/`](og/2011/27/) | in force | 16 | 2011-09-02 | 2024-12-05 |
+| Ordonanța Guvernului nr. 2/2012 | [`og/2012/2/`](og/2012/2/) | in force | 2 | 2012-02-02 | 2012-10-11 |
 | Ordonanța Guvernului nr. 3/2012 | [`og/2012/3/`](og/2012/3/) | in force | 1 | 2012-03-01 | 2012-03-01 |
 | Ordonanța Guvernului nr. 7/2012 privind implementarea sistemelor de transport inteligente în domeniul transportului rutier și pentru realizarea interfețelor cu alte moduri de transport | [`og/2012/7/`](og/2012/7/) | in force | 2 | 2012-02-03 | 2025-02-03 |
 | Ordonanța Guvernului nr. 8/2012 | [`og/2012/8/`](og/2012/8/) | in force | 2 | 2012-02-03 | 2015-03-28 |
@@ -2981,6 +3118,7 @@
 | Ordonanța Guvernului nr. 4/2013 | [`og/2013/4/`](og/2013/4/) | in force | 8 | 2013-01-22 | 2024-12-17 |
 | Ordonanța Guvernului nr. 5/2013 | [`og/2013/5/`](og/2013/5/) | in force | 6 | 2013-01-26 | 2021-12-18 |
 | Ordonanța Guvernului nr. 6/2013 | [`og/2013/6/`](og/2013/6/) | in force | 7 | 2013-01-26 | 2021-12-18 |
+| Ordonanța Guvernului nr. 7/2013 | [`og/2013/7/`](og/2013/7/) | in force | 7 | 2013-02-01 | 2018-04-01 |
 | Ordonanța Guvernului nr. 14/2013 | [`og/2013/14/`](og/2013/14/) | in force | 2 | 2013-08-02 | 2015-03-07 |
 | Ordonanța Guvernului nr. 15/2013 | [`og/2013/15/`](og/2013/15/) | in force | 9 | 2013-08-10 | 2024-03-22 |
 | Ordonanța Guvernului nr. 20/2013 | [`og/2013/20/`](og/2013/20/) | in force | 4 | 2013-08-10 | 2023-03-10 |
@@ -3120,7 +3258,7 @@
 | Ordonanța Guvernului nr. 21/2025 pentru modificarea și completarea Legii nr. 431/2023 privind asigurarea unui nivel minim global de impozitare a grupurilor de întreprinderi multinaționale și a grupurilor naționale de mari dimensiuni | [`og/2025/21/`](og/2025/21/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 | Ordonanța Guvernului nr. 22/2025 pentru modificarea și completarea Legii nr. 227/2015 privind Codul fiscal | [`og/2025/22/`](og/2025/22/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 
-## Government decisions (HG) (2255, of which 817 amending acts)
+## Government decisions (HG) (2308, of which 834 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -3152,12 +3290,14 @@
 | Hotărârea Guvernului nr. 571/1993 | [`hg/1993/571/`](hg/1993/571/) | in force | 1 | 1993-11-01 | 1993-11-01 |
 | Hotărârea Guvernului nr. 273/1994 | [`hg/1994/273/`](hg/1994/273/) | in force | 2 | 1994-08-27 | 2017-07-29 |
 | Hotărârea Guvernului nr. 200/1995 privind prelungirea valabilității Hotărârii Guvernului nr. 70/1994 și a Hotărârii Guvernului nr. 363/1994 | [`hg/1995/200/`](hg/1995/200/) | in force | 1 | 1995-04-05 | 1995-04-05 |
+| Hotărârea Guvernului nr. 206/1995 privind reorganizarea Institutului Superior de Informaţii în Institutul Naţional de Informaţii, în subordinea Serviciului Român de Informaţii | [`hg/1995/206/`](hg/1995/206/) | in force | 2 | 1995-04-12 | 2017-10-03 |
 | Hotărârea Guvernului nr. 209/1995 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiții "Modernizarea centralei termice 3 T Zarnesti, județul Brașov" | [`hg/1995/209/`](hg/1995/209/) | amending act | 1 | 1995-04-14 | 1995-04-14 |
 | Hotărârea Guvernului nr. 244/1995 privind aprobarea renunțării la cetățenia română de către unele persoane | [`hg/1995/244/`](hg/1995/244/) | amending act | 1 | 1995-05-02 | 1995-05-02 |
 | Hotărârea Guvernului nr. 925/1995 pentru aprobarea Regulamentului de verificare și expertizare tehnică de calitate a proiectelor, a execuției lucrărilor și a construcțiilor | [`hg/1995/925/`](hg/1995/925/) | amending act | 2 | 1996-01-10 | 2018-09-27 |
 | Hotărârea Guvernului nr. 8/1996 | [`hg/1996/8/`](hg/1996/8/) | in force | 1 | 1996-01-18 | 1996-01-18 |
 | Hotărârea Guvernului nr. 31/1996 pentru aprobarea Metodologiei de avizare a documentațiilor de urbanism privind zone și stațiuni turistice și a documentațiilor tehnice privind construcții din domeniul turismului | [`hg/1996/31/`](hg/1996/31/) | amending act | 1 | 1996-01-30 | 1996-01-30 |
 | Hotărârea Guvernului nr. 305/1996 | [`hg/1996/305/`](hg/1996/305/) | in force | 1 | 1996-05-13 | 1996-05-13 |
+| Hotărârea Guvernului nr. 315/1996 privind instituirea regimului special de supraveghere economico-financiară la unele societăţi comerciale cu capital majoritar de stat | [`hg/1996/315/`](hg/1996/315/) | in force | 2 | 1996-05-13 | 1996-10-31 |
 | Hotărârea Guvernului nr. 738/1996 | [`hg/1996/738/`](hg/1996/738/) | in force | 1 | 1996-09-03 | 1996-09-03 |
 | Hotărârea Guvernului nr. 1312/1996 | [`hg/1996/1312/`](hg/1996/1312/) | in force | 2 | 1996-12-09 | 2016-01-06 |
 | Hotărârea Guvernului nr. 361/1997 | [`hg/1997/361/`](hg/1997/361/) | in force | 1 | 1997-07-23 | 1997-07-23 |
@@ -3168,9 +3308,11 @@
 | Hotărârea Guvernului nr. 521/1997 | [`hg/1997/521/`](hg/1997/521/) | in force | 2 | 1997-09-22 | 2006-07-10 |
 | Hotărârea Guvernului nr. 687/1997 | [`hg/1997/687/`](hg/1997/687/) | in force | 5 | 1997-11-10 | 2007-10-31 |
 | Hotărârea Guvernului nr. 786/1997 | [`hg/1997/786/`](hg/1997/786/) | in force | 1 | 1997-12-15 | 1997-12-15 |
+| Hotărârea Guvernului nr. 837/1997 privind acordarea ajutorului anual pentru acoperirea unei părţi din costul chiriei, energiei electrice şi energiei termice pentru nevoi casnice, cuvenit veteranilor de război, văduvelor de război, precum şi accidentaţilor de război în afară serviciului ordonat | [`hg/1997/837/`](hg/1997/837/) | in force | 2 | 1997-12-12 | 1997-12-30 |
 | Hotărârea Guvernului nr. 863/1997 | [`hg/1997/863/`](hg/1997/863/) | in force | 1 | 1997-12-24 | 1997-12-24 |
 | Hotărârea Guvernului nr. 909/1997 | [`hg/1997/909/`](hg/1997/909/) | in force | 1 | 1998-01-08 | 1998-01-08 |
 | Hotărârea Guvernului nr. 12/1998 | [`hg/1998/12/`](hg/1998/12/) | in force | 1 | 1998-01-29 | 1998-01-29 |
+| Hotărârea Guvernului nr. 16/1998 privind alocarea unor fonduri necesare desfăşurării activităţii Institutului Naţional de Meteorologie şi Hidrologie | [`hg/1998/16/`](hg/1998/16/) | in force | 2 | 1998-01-26 | 1998-07-27 |
 | Hotărârea Guvernului nr. 198/1998 | [`hg/1998/198/`](hg/1998/198/) | in force | 1 | 1998-04-07 | 1998-04-07 |
 | Hotărârea Guvernului nr. 364/1998 | [`hg/1998/364/`](hg/1998/364/) | in force | 1 | 1998-07-03 | 1998-07-03 |
 | Hotărârea Guvernului nr. 372/1998 | [`hg/1998/372/`](hg/1998/372/) | in force | 1 | 1998-07-06 | 1998-07-06 |
@@ -3187,7 +3329,10 @@
 | Hotărârea Guvernului nr. 408/1999 privind înființarea Institutului Național de Cercetare-Dezvoltare pentru Tehnologii Izotopice și Moleculare - I.N.C.D.T.I.M. Cluj-Napoca | [`hg/1999/408/`](hg/1999/408/) | in force | 2 | 1999-06-03 | 2005-12-29 |
 | Hotărârea Guvernului nr. 459/1999 | [`hg/1999/459/`](hg/1999/459/) | in force | 1 | 1999-06-21 | 1999-06-21 |
 | Hotărârea Guvernului nr. 482/1999 | [`hg/1999/482/`](hg/1999/482/) | in force | 1 | 1999-06-24 | 1999-06-24 |
+| Hotărârea Guvernului nr. 517/1999 privind delimitarea suprafeţelor de teren strict necesare pentru cercetarea şi producerea de seminţe şi material săditor din categorii biologice superioare şi de animale de rasa şi trecerea terenurilor destinate producţiei, aflate în administrarea institutelor şi staţiunilor de cercetare şi producţie agricolă, în domeniul privat al statului | [`hg/1999/517/`](hg/1999/517/) | in force | 1 | 1999-07-09 | 1999-07-09 |
+| Hotărârea Guvernului nr. 523/1999 privind interdicţia de a intra pe teritoriul României a unor persoane provenind din Republica Federala Iugoslavia | [`hg/1999/523/`](hg/1999/523/) | in force | 1 | 1999-07-09 | 1999-07-09 |
 | Hotărârea Guvernului nr. 535/1999 | [`hg/1999/535/`](hg/1999/535/) | in force | 1 | 1999-07-07 | 1999-07-07 |
+| Hotărârea Guvernului nr. 716/1999 privind reorganizarea şi funcţionarea inspectoratelor pentru calitatea seminţelor şi materialului săditor şi a Laboratorului Central pentru Controlul Calităţii Seminţelor, precum şi actualizarea limitelor amenzilor prevăzute de Legea nr. 75/1995 | [`hg/1999/716/`](hg/1999/716/) | in force | 3 | 1999-09-15 | 2002-09-12 |
 | Hotărârea Guvernului nr. 720/1999 | [`hg/1999/720/`](hg/1999/720/) | in force | 1 | 1999-09-13 | 1999-09-13 |
 | Hotărârea Guvernului nr. 767/1999 | [`hg/1999/767/`](hg/1999/767/) | in force | 2 | 1999-09-24 | 2004-07-12 |
 | Hotărârea Guvernului nr. 843/1999 privind încadrarea pe tipuri a unităților de alimentație publică neincluse în structurile de primire turistice | [`hg/1999/843/`](hg/1999/843/) | in force | 1 | 1999-10-21 | 1999-10-21 |
@@ -3248,13 +3393,16 @@
 | Hotărârea Guvernului nr. 1090/2001 | [`hg/2001/1090/`](hg/2001/1090/) | in force | 2 | 2001-11-13 | 2002-02-01 |
 | Hotărârea Guvernului nr. 1099/2001 | [`hg/2001/1099/`](hg/2001/1099/) | in force | 1 | 2002-01-01 | 2002-01-01 |
 | Hotărârea Guvernului nr. 1114/2001 | [`hg/2001/1114/`](hg/2001/1114/) | in force | 2 | 2001-11-19 | 2003-04-03 |
+| Hotărârea Guvernului nr. 1153/2001 pentru aprobarea Normelor metodologice de aplicare a prevederilor Legii nr. 34/1998 privind acordarea unor subvenţii asociaţiilor şi fundaţiilor române cu personalitate juridică, care înfiinţează şi administrează unităţi de asistenţă socială | [`hg/2001/1153/`](hg/2001/1153/) | amending act | 7 | 2001-11-28 | 2024-10-10 |
 | Hotărârea Guvernului nr. 1157/2001 | [`hg/2001/1157/`](hg/2001/1157/) | in force | 1 | 2001-12-05 | 2001-12-05 |
 | Hotărârea Guvernului nr. 1172/2001 pentru aprobarea Regulamentului privind procedura de constituire, atribuțiile și funcționarea comisiilor pentru stabilirea dreptului de proprietate privată asupra terenurilor, a modelului și modului de atribuire a titlurilor de proprietate, precum și punerea în posesie a proprietarilor | [`hg/2001/1172/`](hg/2001/1172/) | amending act | 2 | 2001-12-21 | 2002-07-19 |
 | Hotărârea Guvernului nr. 1175/2001 | [`hg/2001/1175/`](hg/2001/1175/) | in force | 1 | 2001-12-12 | 2001-12-12 |
+| Hotărârea Guvernului nr. 1206/2001 pentru aprobarea Normelor de aplicare a dispoziţiilor privitoare la dreptul cetăţenilor aparţinând unei minorităţi naţionale de a folosi limba maternă în administraţia publică locală, cuprinse în Legea administraţiei publice locale nr. 215/2001 | [`hg/2001/1206/`](hg/2001/1206/) | amending act | 1 | 2001-12-07 | 2001-12-07 |
 | Hotărârea Guvernului nr. 1217/2001 | [`hg/2001/1217/`](hg/2001/1217/) | in force | 1 | 2001-12-17 | 2001-12-17 |
 | Hotărârea Guvernului nr. 1219/2001 | [`hg/2001/1219/`](hg/2001/1219/) | in force | 1 | 2001-12-11 | 2001-12-11 |
 | Hotărârea Guvernului nr. 1259/2001 | [`hg/2001/1259/`](hg/2001/1259/) | in force | 2 | 2001-12-28 | 2004-12-30 |
 | Hotărârea Guvernului nr. 1364/2001 | [`hg/2001/1364/`](hg/2001/1364/) | in force | 1 | 2002-02-05 | 2002-02-05 |
+| Hotărârea Guvernului nr. 45/2002 privind darea unor imobile, proprietate publică a statului, în administrarea Ministerului Culturii şi Cultelor şi în folosinţa gratuită a Uniunii Scriitorilor din România | [`hg/2002/45/`](hg/2002/45/) | in force | 1 | 2002-01-30 | 2002-01-30 |
 | Hotărârea Guvernului nr. 62/2002 | [`hg/2002/62/`](hg/2002/62/) | in force | 1 | 2002-02-01 | 2002-02-01 |
 | Hotărârea Guvernului nr. 100/2002 pentru aprobarea Normelor de calitate pe care trebuie să le îndeplinescă apele de suprafața utilizate pentru potabilizare și a Normativului privind metodele de măsurare și frecventa de prelevare și analiza a probelor din apele de suprafața destinate producerii de apa potabilă | [`hg/2002/100/`](hg/2002/100/) | repealed 2027-07-01 | 4 | 2002-02-19 | 2027-07-01 |
 | Hotărârea Guvernului nr. 167/2002 | [`hg/2002/167/`](hg/2002/167/) | in force | 1 | 2002-03-01 | 2002-03-01 |
@@ -3273,9 +3421,11 @@
 | Hotărârea Guvernului nr. 459/2002 | [`hg/2002/459/`](hg/2002/459/) | in force | 1 | 2002-06-26 | 2002-06-26 |
 | Hotărârea Guvernului nr. 536/2002 | [`hg/2002/536/`](hg/2002/536/) | in force | 2 | 2002-08-03 | 2011-02-22 |
 | Hotărârea Guvernului nr. 573/2002 pentru aprobarea procedurilor de autorizare a funcționării comercianților | [`hg/2002/573/`](hg/2002/573/) | amending act | 1 | 2002-06-14 | 2002-06-14 |
+| Hotărârea Guvernului nr. 592/2002 privind instituirea "Zilei statisticianului" | [`hg/2002/592/`](hg/2002/592/) | in force | 2 | 2002-06-24 | 2023-11-01 |
 | Hotărârea Guvernului nr. 706/2002 | [`hg/2002/706/`](hg/2002/706/) | in force | 2 | 2002-07-18 | 2008-03-21 |
 | Hotărârea Guvernului nr. 715/2002 | [`hg/2002/715/`](hg/2002/715/) | in force | 1 | 2002-07-15 | 2002-07-15 |
 | Hotărârea Guvernului nr. 781/2002 | [`hg/2002/781/`](hg/2002/781/) | in force | 1 | 2002-08-05 | 2002-08-05 |
+| Hotărârea Guvernului nr. 782/2002 pentru modificarea capitalului social al Societăţii Comerciale "Moreni Parc Industrial" - S.A | [`hg/2002/782/`](hg/2002/782/) | amending act | 2 | 2002-07-30 | 2003-07-07 |
 | Hotărârea Guvernului nr. 831/2002 | [`hg/2002/831/`](hg/2002/831/) | in force | 1 | 2002-08-15 | 2002-08-15 |
 | Hotărârea Guvernului nr. 847/2002 | [`hg/2002/847/`](hg/2002/847/) | in force | 1 | 2002-08-21 | 2002-08-21 |
 | Hotărârea Guvernului nr. 898/2002 | [`hg/2002/898/`](hg/2002/898/) | in force | 1 | 2002-08-30 | 2002-08-30 |
@@ -3371,11 +3521,14 @@
 | Hotărârea Guvernului nr. 1192/2003 | [`hg/2003/1192/`](hg/2003/1192/) | in force | 1 | 2003-10-20 | 2003-10-20 |
 | Hotărârea Guvernului nr. 1200/2003 | [`hg/2003/1200/`](hg/2003/1200/) | in force | 1 | 2003-10-15 | 2003-10-15 |
 | Hotărârea Guvernului nr. 1204/2003 | [`hg/2003/1204/`](hg/2003/1204/) | in force | 1 | 2003-10-20 | 2003-10-20 |
+| Hotărârea Guvernului nr. 1212/2003 privind unele drepturi acordate personalului trimis în misiune permanenta sau temporară în Irak | [`hg/2003/1212/`](hg/2003/1212/) | in force | 2 | 2003-10-27 | 2005-03-28 |
 | Hotărârea Guvernului nr. 1217/2003 | [`hg/2003/1217/`](hg/2003/1217/) | in force | 2 | 2004-01-01 | 2004-08-20 |
 | Hotărârea Guvernului nr. 1290/2003 | [`hg/2003/1290/`](hg/2003/1290/) | in force | 1 | 2003-12-04 | 2003-12-04 |
 | Hotărârea Guvernului nr. 1325/2003 | [`hg/2003/1325/`](hg/2003/1325/) | in force | 1 | 2003-11-26 | 2003-11-26 |
 | Hotărârea Guvernului nr. 1344/2003 | [`hg/2003/1344/`](hg/2003/1344/) | in force | 1 | 2003-11-25 | 2003-11-25 |
 | Hotărârea Guvernului nr. 1430/2003 | [`hg/2003/1430/`](hg/2003/1430/) | in force | 1 | 2003-12-18 | 2003-12-18 |
+| Hotărârea Guvernului nr. 1434/2003 pentru aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii "CTE Deva - Reabilitare Grup nr. 1", judeţul Hunedoara | [`hg/2003/1434/`](hg/2003/1434/) | amending act | 2 | 2003-12-15 | 2008-11-28 |
+| Hotărârea Guvernului nr. 1459/2003 pentru aprobarea participării Ministerului Educaţiei, Cercetării şi Tineretului în calitate de membru la Fundaţia Europeană pentru Ştiinţă (ESF) şi a plăţii cotizaţiei anuale | [`hg/2003/1459/`](hg/2003/1459/) | amending act | 2 | 2003-12-16 | 2005-06-22 |
 | Hotărârea Guvernului nr. 1463/2003 | [`hg/2003/1463/`](hg/2003/1463/) | in force | 2 | 2003-12-17 | 2009-12-04 |
 | Hotărârea Guvernului nr. 1618/2003 | [`hg/2003/1618/`](hg/2003/1618/) | in force | 1 | 2004-01-20 | 2004-01-20 |
 | Hotărârea Guvernului nr. 44/2004 | [`hg/2004/44/`](hg/2004/44/) | in force | 2 | 2004-02-06 | 2015-06-01 |
@@ -3433,6 +3586,7 @@
 | Hotărârea Guvernului nr. 1697/2004 | [`hg/2004/1697/`](hg/2004/1697/) | in force | 1 | 2004-10-28 | 2004-10-28 |
 | Hotărârea Guvernului nr. 1733/2004 | [`hg/2004/1733/`](hg/2004/1733/) | in force | 1 | 2004-10-25 | 2004-10-25 |
 | Hotărârea Guvernului nr. 1760/2004 | [`hg/2004/1760/`](hg/2004/1760/) | in force | 1 | 2004-11-25 | 2004-11-25 |
+| Hotărârea Guvernului nr. 1767/2004 privind modul de organizare şi funcţionare a serviciilor publice comunitare regim permise de conducere şi înmatriculare a vehiculelor | [`hg/2004/1767/`](hg/2004/1767/) | in force | 2 | 2004-11-12 | 2011-06-30 |
 | Hotărârea Guvernului nr. 1769/2004 | [`hg/2004/1769/`](hg/2004/1769/) | in force | 1 | 2004-11-08 | 2004-11-08 |
 | Hotărârea Guvernului nr. 1777/2004 | [`hg/2004/1777/`](hg/2004/1777/) | in force | 6 | 2004-12-08 | 2012-01-12 |
 | Hotărârea Guvernului nr. 1842/2004 | [`hg/2004/1842/`](hg/2004/1842/) | in force | 1 | 2004-11-19 | 2004-11-19 |
@@ -3461,6 +3615,7 @@
 | Hotărârea Guvernului nr. 60/2005 privind organizarea și funcționarea Regiei Autonome "Administrația Patrimoniului Protocolului de Stat" | [`hg/2005/60/`](hg/2005/60/) | in force | 5 | 2005-02-01 | 2010-07-09 |
 | Hotărârea Guvernului nr. 76/2005 | [`hg/2005/76/`](hg/2005/76/) | in force | 6 | 2005-02-08 | 2022-01-17 |
 | Hotărârea Guvernului nr. 86/2005 | [`hg/2005/86/`](hg/2005/86/) | in force | 1 | 2005-02-11 | 2005-02-11 |
+| Hotărârea Guvernului nr. 111/2005 privind organizarea şi funcţionarea Departamentului pentru Relaţii Interetnice | [`hg/2005/111/`](hg/2005/111/) | in force | 2 | 2005-03-03 | 2024-12-05 |
 | Hotărârea Guvernului nr. 130/2005 | [`hg/2005/130/`](hg/2005/130/) | in force | 1 | 2005-03-23 | 2005-03-23 |
 | Hotărârea Guvernului nr. 166/2005 | [`hg/2005/166/`](hg/2005/166/) | in force | 1 | 2005-03-16 | 2005-03-16 |
 | Hotărârea Guvernului nr. 167/2005 | [`hg/2005/167/`](hg/2005/167/) | in force | 1 | 2005-03-16 | 2005-03-16 |
@@ -3468,6 +3623,7 @@
 | Hotărârea Guvernului nr. 257/2005 | [`hg/2005/257/`](hg/2005/257/) | in force | 2 | 2005-04-06 | 2013-09-13 |
 | Hotărârea Guvernului nr. 259/2005 privind înființarea și stabilirea atribuțiilor Centrului Național pentru Securitate la Incendiu și Protecție Civilă | [`hg/2005/259/`](hg/2005/259/) | in force | 1 | 2005-04-07 | 2005-04-07 |
 | Hotărârea Guvernului nr. 269/2005 | [`hg/2005/269/`](hg/2005/269/) | in force | 1 | 2005-04-13 | 2005-04-13 |
+| Hotărârea Guvernului nr. 284/2005 privind stabilirea cuantumului şi condiţiilor de acordare a compensaţiei lunare pentru chirie cuvenite poliţiştilor | [`hg/2005/284/`](hg/2005/284/) | in force | 2 | 2005-04-19 | 2023-10-23 |
 | Hotărârea Guvernului nr. 293/2005 | [`hg/2005/293/`](hg/2005/293/) | in force | 1 | 2005-04-19 | 2005-04-19 |
 | Hotărârea Guvernului nr. 361/2005 | [`hg/2005/361/`](hg/2005/361/) | in force | 4 | 2005-04-29 | 2013-08-08 |
 | Hotărârea Guvernului nr. 401/2005 | [`hg/2005/401/`](hg/2005/401/) | in force | 2 | 2005-05-16 | 2006-02-09 |
@@ -3476,10 +3632,12 @@
 | Hotărârea Guvernului nr. 454/2005 | [`hg/2005/454/`](hg/2005/454/) | in force | 1 | 2005-05-30 | 2005-05-30 |
 | Hotărârea Guvernului nr. 459/2005 | [`hg/2005/459/`](hg/2005/459/) | in force | 4 | 2005-05-31 | 2009-12-09 |
 | Hotărârea Guvernului nr. 460/2005 | [`hg/2005/460/`](hg/2005/460/) | in force | 2 | 2005-06-03 | 2007-01-10 |
+| Hotărârea Guvernului nr. 485/2005 privind echivalarea funcţiilor militare din Ministerul Apărării Naţionale cu funcţii civile | [`hg/2005/485/`](hg/2005/485/) | in force | 1 | 2005-06-06 | 2005-06-06 |
 | Hotărârea Guvernului nr. 501/2005 | [`hg/2005/501/`](hg/2005/501/) | in force | 1 | 2005-08-07 | 2005-08-07 |
 | Hotărârea Guvernului nr. 521/2005 | [`hg/2005/521/`](hg/2005/521/) | in force | 2 | 2005-06-22 | 2013-12-03 |
 | Hotărârea Guvernului nr. 560/2005 | [`hg/2005/560/`](hg/2005/560/) | in force | 1 | 2005-06-21 | 2005-06-21 |
 | Hotărârea Guvernului nr. 567/2005 | [`hg/2005/567/`](hg/2005/567/) | in force | 2 | 2005-06-24 | 2009-01-06 |
+| Hotărârea Guvernului nr. 719/2005 privind paza sediilor instanţelor judecătoreşti, parchetelor şi Consiliului Superior al Magistraturii, a bunurilor şi valorilor aparţinând acestora, supravegherea accesului şi menţinerea ordinii interioare necesare desfăşurării normale a activităţii în aceste sedii, precum şi protecţia magistraţilor | [`hg/2005/719/`](hg/2005/719/) | in force | 2 | 2005-07-21 | 2025-12-09 |
 | Hotărârea Guvernului nr. 769/2005 | [`hg/2005/769/`](hg/2005/769/) | in force | 1 | 2005-07-27 | 2005-07-27 |
 | Hotărârea Guvernului nr. 781/2005 | [`hg/2005/781/`](hg/2005/781/) | in force | 1 | 2005-08-03 | 2005-08-03 |
 | Hotărârea Guvernului nr. 783/2005 | [`hg/2005/783/`](hg/2005/783/) | in force | 1 | 2005-08-09 | 2005-08-09 |
@@ -3530,7 +3688,9 @@
 | Hotărârea Guvernului nr. 183/2006 | [`hg/2006/183/`](hg/2006/183/) | in force | 1 | 2006-02-27 | 2006-02-27 |
 | Hotărârea Guvernului nr. 190/2006 | [`hg/2006/190/`](hg/2006/190/) | in force | 1 | 2006-02-27 | 2006-02-27 |
 | Hotărârea Guvernului nr. 234/2006 | [`hg/2006/234/`](hg/2006/234/) | in force | 1 | 2006-03-02 | 2006-03-02 |
+| Hotărârea Guvernului nr. 247/2006 pentru numirea membrilor Comisiei privind determinarea oportunităţilor proiectelor | [`hg/2006/247/`](hg/2006/247/) | in force | 2 | 2006-02-27 | 2006-10-12 |
 | Hotărârea Guvernului nr. 259/2006 | [`hg/2006/259/`](hg/2006/259/) | in force | 2 | 2006-03-01 | 2019-05-29 |
+| Hotărârea Guvernului nr. 420/2006 privind înfiinţarea şi organizarea Comisiei Naţionale de Drept Internaţional Umanitar | [`hg/2006/420/`](hg/2006/420/) | in force | 2 | 2006-04-13 | 2011-05-04 |
 | Hotărârea Guvernului nr. 430/2006 | [`hg/2006/430/`](hg/2006/430/) | in force | 1 | 2006-04-05 | 2006-04-05 |
 | Hotărârea Guvernului nr. 460/2006 | [`hg/2006/460/`](hg/2006/460/) | in force | 1 | 2006-04-26 | 2006-04-26 |
 | Hotărârea Guvernului nr. 483/2006 | [`hg/2006/483/`](hg/2006/483/) | in force | 1 | 2006-04-20 | 2006-04-20 |
@@ -3545,6 +3705,7 @@
 | Hotărârea Guvernului nr. 852/2006 | [`hg/2006/852/`](hg/2006/852/) | in force | 1 | 2006-06-30 | 2006-06-30 |
 | Hotărârea Guvernului nr. 862/2006 | [`hg/2006/862/`](hg/2006/862/) | in force | 4 | 2006-07-07 | 2008-04-02 |
 | Hotărârea Guvernului nr. 870/2006 privind aprobarea Strategiei pentru îmbunătățirea sistemului de elaborare, coordonare și planificare a politicilor publice la nivelul administrației publice centrale | [`hg/2006/870/`](hg/2006/870/) | amending act | 1 | 2006-07-24 | 2006-07-24 |
+| Hotărârea Guvernului nr. 876/2006 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2006, pentru asigurarea unor cheltuieli curente şi de capital ale autorităţilor administraţiei publice locale | [`hg/2006/876/`](hg/2006/876/) | in force | 1 | 2006-07-07 | 2006-07-07 |
 | Hotărârea Guvernului nr. 882/2006 | [`hg/2006/882/`](hg/2006/882/) | in force | 3 | 2006-07-13 | 2007-11-06 |
 | Hotărârea Guvernului nr. 972/2006 | [`hg/2006/972/`](hg/2006/972/) | in force | 1 | 2006-08-08 | 2006-08-08 |
 | Hotărârea Guvernului nr. 976/2006 | [`hg/2006/976/`](hg/2006/976/) | in force | 1 | 2006-08-14 | 2006-08-14 |
@@ -3595,6 +3756,7 @@
 | Hotărârea Guvernului nr. 210/2007 | [`hg/2007/210/`](hg/2007/210/) | in force | 1 | 2007-03-19 | 2007-03-19 |
 | Hotărârea Guvernului nr. 219/2007 | [`hg/2007/219/`](hg/2007/219/) | in force | 2 | 2007-03-23 | 2015-10-19 |
 | Hotărârea Guvernului nr. 242/2007 | [`hg/2007/242/`](hg/2007/242/) | repealed 2011-02-01 | 2 | 2007-03-20 | 2011-02-01 |
+| Hotărârea Guvernului nr. 244/2007 privind autorităţile competente responsabile cu aplicarea legislaţiei din domeniul protecţiei consumatorilor şi cooperarea dintre autorităţile naţionale în acest domeniu | [`hg/2007/244/`](hg/2007/244/) | in force | 2 | 2007-03-19 | 2019-04-10 |
 | Hotărârea Guvernului nr. 246/2007 | [`hg/2007/246/`](hg/2007/246/) | in force | 8 | 2007-03-09 | 2015-01-01 |
 | Hotărârea Guvernului nr. 250/2007 pentru aprobarea Normelor metodologice de aplicare unitară a Legii nr. 10/2001 privind regimul juridic al unor imobile preluate în mod abuziv în perioada 6 martie 1945-22 decembrie 1989 | [`hg/2007/250/`](hg/2007/250/) | amending act | 1 | 2007-04-03 | 2007-04-03 |
 | Hotărârea Guvernului nr. 268/2007 | [`hg/2007/268/`](hg/2007/268/) | in force | 1 | 2007-04-04 | 2007-04-04 |
@@ -3610,6 +3772,7 @@
 | Hotărârea Guvernului nr. 499/2007 | [`hg/2007/499/`](hg/2007/499/) | in force | 1 | 2007-05-31 | 2007-05-31 |
 | Hotărârea Guvernului nr. 500/2007 | [`hg/2007/500/`](hg/2007/500/) | in force | 1 | 2007-05-31 | 2007-05-31 |
 | Hotărârea Guvernului nr. 502/2007 | [`hg/2007/502/`](hg/2007/502/) | in force | 1 | 2007-05-31 | 2007-05-31 |
+| Hotărârea Guvernului nr. 508/2007 privind numirea delegaţiei părţii române în Comisia mixtă pentru reconstituirea şi marcarea frontierei de stat dintre România şi Republica Serbia | [`hg/2007/508/`](hg/2007/508/) | in force | 3 | 2007-06-04 | 2018-04-24 |
 | Hotărârea Guvernului nr. 516/2007 | [`hg/2007/516/`](hg/2007/516/) | in force | 1 | 2007-06-04 | 2007-06-04 |
 | Hotărârea Guvernului nr. 517/2007 | [`hg/2007/517/`](hg/2007/517/) | in force | 1 | 2007-06-04 | 2007-06-04 |
 | Hotărârea Guvernului nr. 518/2007 | [`hg/2007/518/`](hg/2007/518/) | in force | 1 | 2007-06-04 | 2007-06-04 |
@@ -3646,6 +3809,7 @@
 | Hotărârea Guvernului nr. 813/2007 | [`hg/2007/813/`](hg/2007/813/) | in force | 1 | 2007-08-08 | 2007-08-08 |
 | Hotărârea Guvernului nr. 814/2007 | [`hg/2007/814/`](hg/2007/814/) | in force | 1 | 2007-08-08 | 2007-08-08 |
 | Hotărârea Guvernului nr. 839/2007 | [`hg/2007/839/`](hg/2007/839/) | in force | 2 | 2007-08-01 | 2007-08-08 |
+| Hotărârea Guvernului nr. 893/2007 privind organizarea şi funcţionarea Institutului pentru Studierea Problemelor Minorităţilor Naţionale | [`hg/2007/893/`](hg/2007/893/) | in force | 3 | 2007-08-14 | 2024-07-30 |
 | Hotărârea Guvernului nr. 900/2007 pentru modificarea art. 1 din Hotărârea Guvernului nr. 839/2007 privind suplimentarea bugetului Ministerului Culturii și Cultelor din Fondul de rezervă bugetară la dispoziția Guvernului prevăzut în bugetul de stat pe anul 2007 pentru Patriarhia Română | [`hg/2007/900/`](hg/2007/900/) | amending act | 1 | 2007-08-08 | 2007-08-08 |
 | Hotărârea Guvernului nr. 901/2007 | [`hg/2007/901/`](hg/2007/901/) | in force | 1 | 2007-08-08 | 2007-08-08 |
 | Hotărârea Guvernului nr. 927/2007 | [`hg/2007/927/`](hg/2007/927/) | in force | 1 | 2007-09-21 | 2007-09-21 |
@@ -3656,6 +3820,7 @@
 | Hotărârea Guvernului nr. 1080/2007 | [`hg/2007/1080/`](hg/2007/1080/) | in force | 2 | 2007-09-17 | 2025-08-05 |
 | Hotărârea Guvernului nr. 1081/2007 | [`hg/2007/1081/`](hg/2007/1081/) | in force | 1 | 2007-09-17 | 2007-09-17 |
 | Hotărârea Guvernului nr. 1084/2007 | [`hg/2007/1084/`](hg/2007/1084/) | in force | 2 | 2007-09-25 | 2015-05-20 |
+| Hotărârea Guvernului nr. 1105/2007 pentru aprobarea Normelor metodologice de punere în aplicare a prevederilor anexei VI "Reguli privind prevenirea poluării atmosferei de către nave" la Convenţia internaţională din 1973 pentru prevenirea poluării de către nave, aşa cum a fost modificată prin Protocolul din 1978 referitor la aceasta (MARPOL 73/78) | [`hg/2007/1105/`](hg/2007/1105/) | amending act | 1 | 2007-12-14 | 2007-12-14 |
 | Hotărârea Guvernului nr. 1106/2007 | [`hg/2007/1106/`](hg/2007/1106/) | in force | 1 | 2007-09-26 | 2007-09-26 |
 | Hotărârea Guvernului nr. 1136/2007 | [`hg/2007/1136/`](hg/2007/1136/) | in force | 1 | 2007-11-03 | 2007-11-03 |
 | Hotărârea Guvernului nr. 1143/2007 | [`hg/2007/1143/`](hg/2007/1143/) | in force | 1 | 2007-10-11 | 2007-10-11 |
@@ -3666,6 +3831,7 @@
 | Hotărârea Guvernului nr. 1156/2007 | [`hg/2007/1156/`](hg/2007/1156/) | in force | 1 | 2007-10-01 | 2007-10-01 |
 | Hotărârea Guvernului nr. 1157/2007 | [`hg/2007/1157/`](hg/2007/1157/) | in force | 1 | 2007-10-01 | 2007-10-01 |
 | Hotărârea Guvernului nr. 1175/2007 pentru aprobarea Normelor de efectuare a activității de transport rutier de mărfuri periculoase în România | [`hg/2007/1175/`](hg/2007/1175/) | amending act | 1 | 2007-10-15 | 2007-10-15 |
+| Hotărârea Guvernului nr. 1198/2007 privind suplimentarea bugetului Cancelariei Primului-Ministru din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2007, pentru Agenţia Naţională pentru Sport | [`hg/2007/1198/`](hg/2007/1198/) | in force | 2 | 2007-10-11 | 2007-11-20 |
 | Hotărârea Guvernului nr. 1341/2007 | [`hg/2007/1341/`](hg/2007/1341/) | in force | 1 | 2007-11-08 | 2007-11-08 |
 | Hotărârea Guvernului nr. 1344/2007 | [`hg/2007/1344/`](hg/2007/1344/) | in force | 5 | 2007-11-13 | 2009-04-14 |
 | Hotărârea Guvernului nr. 1398/2007 | [`hg/2007/1398/`](hg/2007/1398/) | in force | 3 | 2007-11-23 | 2012-12-13 |
@@ -3673,6 +3839,7 @@
 | Hotărârea Guvernului nr. 1447/2007 | [`hg/2007/1447/`](hg/2007/1447/) | in force | 1 | 2007-12-03 | 2007-12-03 |
 | Hotărârea Guvernului nr. 1470/2007 | [`hg/2007/1470/`](hg/2007/1470/) | in force | 1 | 2007-12-19 | 2007-12-19 |
 | Hotărârea Guvernului nr. 1502/2007 | [`hg/2007/1502/`](hg/2007/1502/) | in force | 1 | 2008-02-14 | 2008-02-14 |
+| Hotărârea Guvernului nr. 1510/2007 pentru aprobarea plăţii contribuţiei financiare anuale a României la bugetul Şcolii internaţionale de la Comandamentul Suprem al Forţelor Aliate din Europa (SHAPE), aferentă şcolarizării copiilor personalului din Ministerul Apărării trimis în misiune permanentă în străinătate | [`hg/2007/1510/`](hg/2007/1510/) | amending act | 2 | 2007-12-18 | 2009-09-15 |
 | Hotărârea Guvernului nr. 1527/2007 | [`hg/2007/1527/`](hg/2007/1527/) | in force | 1 | 2007-12-27 | 2007-12-27 |
 | Hotărârea Guvernului nr. 1588/2007 pentru aprobarea Normelor metodologice de aplicare a Legii nr. 230/2007 privind înființarea, organizarea și funcționarea asociațiilor de proprietari | [`hg/2007/1588/`](hg/2007/1588/) | amending act | 1 | 2008-01-18 | 2008-01-18 |
 | Hotărârea Guvernului nr. 2/2008 | [`hg/2008/2/`](hg/2008/2/) | in force | 1 | 2008-01-10 | 2008-01-10 |
@@ -3681,6 +3848,7 @@
 | Hotărârea Guvernului nr. 8/2008 | [`hg/2008/8/`](hg/2008/8/) | in force | 1 | 2008-01-10 | 2008-01-10 |
 | Hotărârea Guvernului nr. 38/2008 | [`hg/2008/38/`](hg/2008/38/) | in force | 2 | 2008-01-22 | 2012-01-12 |
 | Hotărârea Guvernului nr. 55/2008 | [`hg/2008/55/`](hg/2008/55/) | in force | 3 | 2008-01-24 | 2018-08-29 |
+| Hotărârea Guvernului nr. 58/2008 privind recunoaşterea Statutului de organizare şi funcţionare a Cultului Creştin Baptist - Uniunea Bisericilor Creştine Baptiste din România | [`hg/2008/58/`](hg/2008/58/) | in force | 1 | 2008-01-25 | 2008-01-25 |
 | Hotărârea Guvernului nr. 61/2008 | [`hg/2008/61/`](hg/2008/61/) | in force | 1 | 2008-01-31 | 2008-01-31 |
 | Hotărârea Guvernului nr. 67/2008 | [`hg/2008/67/`](hg/2008/67/) | in force | 1 | 2008-01-25 | 2008-01-25 |
 | Hotărârea Guvernului nr. 86/2008 | [`hg/2008/86/`](hg/2008/86/) | in force | 1 | 2008-02-05 | 2008-02-05 |
@@ -3688,6 +3856,7 @@
 | Hotărârea Guvernului nr. 153/2008 | [`hg/2008/153/`](hg/2008/153/) | in force | 1 | 2008-02-19 | 2008-02-19 |
 | Hotărârea Guvernului nr. 170/2008 | [`hg/2008/170/`](hg/2008/170/) | in force | 1 | 2008-02-22 | 2008-02-22 |
 | Hotărârea Guvernului nr. 175/2008 | [`hg/2008/175/`](hg/2008/175/) | in force | 1 | 2008-02-22 | 2008-02-22 |
+| Hotărârea Guvernului nr. 189/2008 privind recunoaşterea Statutului Cultului Creştin Penticostal - Biserica lui Dumnezeu Apostolică din România | [`hg/2008/189/`](hg/2008/189/) | in force | 1 | 2008-03-20 | 2008-03-20 |
 | Hotărârea Guvernului nr. 199/2008 | [`hg/2008/199/`](hg/2008/199/) | in force | 1 | 2008-02-28 | 2008-02-28 |
 | Hotărârea Guvernului nr. 293/2008 | [`hg/2008/293/`](hg/2008/293/) | in force | 1 | 2008-03-26 | 2008-03-26 |
 | Hotărârea Guvernului nr. 324/2008 | [`hg/2008/324/`](hg/2008/324/) | in force | 1 | 2008-04-01 | 2008-04-01 |
@@ -3697,6 +3866,7 @@
 | Hotărârea Guvernului nr. 577/2008 | [`hg/2008/577/`](hg/2008/577/) | in force | 1 | 2008-06-12 | 2008-06-12 |
 | Hotărârea Guvernului nr. 599/2008 | [`hg/2008/599/`](hg/2008/599/) | in force | 1 | 2008-06-10 | 2008-06-10 |
 | Hotărârea Guvernului nr. 634/2008 | [`hg/2008/634/`](hg/2008/634/) | in force | 1 | 2008-06-20 | 2008-06-20 |
+| Hotărârea Guvernului nr. 665/2008 pentru stabilirea nominală şi pe porţiuni a căilor navigabile interioare ale României | [`hg/2008/665/`](hg/2008/665/) | in force | 1 | 2008-07-04 | 2008-07-04 |
 | Hotărârea Guvernului nr. 686/2008 | [`hg/2008/686/`](hg/2008/686/) | in force | 1 | 2008-07-01 | 2008-07-01 |
 | Hotărârea Guvernului nr. 714/2008 | [`hg/2008/714/`](hg/2008/714/) | in force | 1 | 2008-07-08 | 2008-07-08 |
 | Hotărârea Guvernului nr. 715/2008 | [`hg/2008/715/`](hg/2008/715/) | in force | 1 | 2008-08-07 | 2008-08-07 |
@@ -3724,13 +3894,17 @@
 | Hotărârea Guvernului nr. 1193/2008 | [`hg/2008/1193/`](hg/2008/1193/) | in force | 1 | 2008-10-01 | 2008-10-01 |
 | Hotărârea Guvernului nr. 1244/2008 | [`hg/2008/1244/`](hg/2008/1244/) | in force | 1 | 2008-10-14 | 2008-10-14 |
 | Hotărârea Guvernului nr. 1285/2008 | [`hg/2008/1285/`](hg/2008/1285/) | in force | 1 | 2008-10-22 | 2008-10-22 |
+| Hotărârea Guvernului nr. 1289/2008 pentru aprobarea limitei pe anul 2008 a finanţărilor rambursabile ce pot fi contractate şi a tragerilor din finanţările rambursabile contractate sau care urmează a fi contractate de unităţile administrativ-teritoriale | [`hg/2008/1289/`](hg/2008/1289/) | amending act | 2 | 2008-10-28 | 2008-12-16 |
+| Hotărârea Guvernului nr. 1314/2008 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2008, pentru finanţarea lucrărilor de forare şi de echipare a forajelor destinate alimentării cu apă a locuinţelor reconstruite/strămutate ca urmare a calamităţilor naturale produse în comuna Mogoşeşti-Siret, judeţul Iaşi | [`hg/2008/1314/`](hg/2008/1314/) | in force | 2 | 2008-10-20 | 2008-11-28 |
 | Hotărârea Guvernului nr. 1319/2008 | [`hg/2008/1319/`](hg/2008/1319/) | in force | 1 | 2008-10-27 | 2008-10-27 |
 | Hotărârea Guvernului nr. 1395/2008 | [`hg/2008/1395/`](hg/2008/1395/) | in force | 1 | 2008-11-07 | 2008-11-07 |
 | Hotărârea Guvernului nr. 1421/2008 | [`hg/2008/1421/`](hg/2008/1421/) | in force | 1 | 2008-11-21 | 2008-11-21 |
 | Hotărârea Guvernului nr. 1451/2008 | [`hg/2008/1451/`](hg/2008/1451/) | in force | 1 | 2008-11-25 | 2008-11-25 |
+| Hotărârea Guvernului nr. 1467/2008 privind acordarea unor măsuri de sprijin familiilor afectate de explozia care a avut loc în data de 15 noiembrie 2008 la Exploatarea Minieră Petrila, judeţul Hunedoara | [`hg/2008/1467/`](hg/2008/1467/) | in force | 2 | 2008-11-21 | 2013-02-04 |
 | Hotărârea Guvernului nr. 1480/2008 | [`hg/2008/1480/`](hg/2008/1480/) | in force | 1 | 2008-11-27 | 2008-11-27 |
 | Hotărârea Guvernului nr. 1496/2008 privind modificarea anexei la Hotărârea Guvernului nr. 2.139/2004 pentru aprobarea Catalogului privind clasificarea și duratele normale de funcționare a mijloacelor fixe | [`hg/2008/1496/`](hg/2008/1496/) | amending act | 1 | 2008-12-18 | 2008-12-18 |
 | Hotărârea Guvernului nr. 1566/2008 | [`hg/2008/1566/`](hg/2008/1566/) | in force | 1 | 2008-12-15 | 2008-12-15 |
+| Hotărârea Guvernului nr. 1567/2008 privind aprobarea Listei unităţilor sanitare publice cu paturi pentru care se transferă managementul asistenţei medicale către autorităţile administraţiei publice locale şi către Primăria Municipiului Bucureşti, precum şi a criteriilor care stau la baza acestui transfer | [`hg/2008/1567/`](hg/2008/1567/) | amending act | 1 | 2008-12-29 | 2008-12-29 |
 | Hotărârea Guvernului nr. 1605/2008 | [`hg/2008/1605/`](hg/2008/1605/) | in force | 1 | 2008-12-15 | 2008-12-15 |
 | Hotărârea Guvernului nr. 1622/2008 | [`hg/2008/1622/`](hg/2008/1622/) | in force | 1 | 2009-01-01 | 2009-01-01 |
 | Hotărârea Guvernului nr. 1639/2008 | [`hg/2008/1639/`](hg/2008/1639/) | in force | 1 | 2008-12-15 | 2008-12-15 |
@@ -4794,10 +4968,13 @@
 | Hotărârea Guvernului nr. 1302/2021 privind aprobarea Programului de acțiune pentru dezvoltarea infrastructurii feroviare și transferul modal către calea ferată al fluxurilor de transport de călători și marfă | [`hg/2021/1302/`](hg/2021/1302/) | amending act | 1 | 2021-12-31 | 2021-12-31 |
 | Hotărârea Guvernului nr. 1312/2021 privind modificarea Hotărârii Guvernului nr. 666/2016 pentru aprobarea documentului strategic Master Planul General de Transport al României | [`hg/2021/1312/`](hg/2021/1312/) | amending act | 1 | 2021-12-31 | 2021-12-31 |
 | Hotărârea Guvernului nr. 1315/2021 pentru modificarea și completarea Hotărârii Guvernului nr. 1.048/2006 privind cerințele minime de securitate și sănătate pentru utilizarea de către lucrători a echipamentelor individuale de protecție la locul de muncă | [`hg/2021/1315/`](hg/2021/1315/) | amending act | 1 | 2022-01-11 | 2022-01-11 |
+| Hotărârea Guvernului nr. 1326/2021 privind organizarea şi funcţionarea Ministerului Economiei | [`hg/2021/1326/`](hg/2021/1326/) | in force | 2 | 2022-01-03 | 2023-04-28 |
 | Hotărârea Guvernului nr. 1327/2021 privind organizarea și funcționarea Ministerului Antreprenoriatului și Turismului | [`hg/2021/1327/`](hg/2021/1327/) | in force | 3 | 2022-01-03 | 2023-04-07 |
+| Hotărârea Guvernului nr. 25/2022 privind organizarea şi funcţionarea Ministerului Sportului | [`hg/2022/25/`](hg/2022/25/) | in force | 2 | 2022-01-06 | 2023-02-17 |
 | Hotărârea Guvernului nr. 34/2022 privind prelungirea stării de alertă pe teritoriul României începând cu data de 8 ianuarie 2022, precum și stabilirea măsurilor care se aplică pe durata acesteia pentru prevenirea și combaterea efectelor pandemiei de COVID-19 | [`hg/2022/34/`](hg/2022/34/) | in force | 1 | 2022-01-06 | 2022-01-06 |
 | Hotărârea Guvernului nr. 69/2022 pentru aprobarea Notei de fundamentare privind necesitatea și oportunitatea efectuării cheltuielilor aferente proiectului de investiții "Operaționalizarea Sistemului informatic de monitorizare electronică" | [`hg/2022/69/`](hg/2022/69/) | amending act | 1 | 2022-01-13 | 2022-01-13 |
 | Hotărârea Guvernului nr. 147/2022 pentru aprobarea schemei "Ajutor de minimis pentru aplicarea programului de susținere a producției de usturoi", precum și pentru stabilirea unor măsuri de verificare și control al acesteia în anul 2022 | [`hg/2022/147/`](hg/2022/147/) | amending act | 3 | 2022-02-03 | 2022-12-06 |
+| Hotărârea Guvernului nr. 148/2022 pentru aprobarea Programului de susţinere a producţiei de legume în spaţii protejate pentru anul 2022 | [`hg/2022/148/`](hg/2022/148/) | amending act | 2 | 2022-02-03 | 2022-12-12 |
 | Hotărârea Guvernului nr. 155/2022 privind aprobarea Regulamentului de organizare și funcționare al Agenției Române de Asigurare a Calității în Învățământul Preuniversitar | [`hg/2022/155/`](hg/2022/155/) | amending act | 1 | 2022-02-04 | 2022-02-04 |
 | Hotărârea Guvernului nr. 171/2022 privind prelungirea stării de alertă pe teritoriul României începând cu data de 7 februarie 2022, precum și stabilirea măsurilor care se aplică pe durata acesteia pentru prevenirea și combaterea efectelor pandemiei de COVID-19 | [`hg/2022/171/`](hg/2022/171/) | in force | 1 | 2022-02-04 | 2022-02-04 |
 | Hotărârea Guvernului nr. 195/2022 pentru aprobarea Schemei de ajutor de stat privind sprijinirea investițiilor destinate promovării producției de energie din surse regenerabile mai puțin exploatate, respectiv biomasă, biogaz, energie geotermală, și a Schemei de ajutor de stat privind sprijinirea investițiilor în cogenerare de înaltă eficiență | [`hg/2022/195/`](hg/2022/195/) | amending act | 1 | 2022-02-14 | 2022-02-14 |
@@ -4810,6 +4987,7 @@
 | Hotărârea Guvernului nr. 259/2022 pentru modificarea și completarea Normelor metodologice de aplicare a prevederilor Legii securității și sănătății în muncă nr. 319/2006 , aprobate prin Hotărârea Guvernului nr. 1.425/2006 | [`hg/2022/259/`](hg/2022/259/) | amending act | 1 | 2022-03-07 | 2022-03-07 |
 | Hotărârea Guvernului nr. 292/2022 pentru modificarea și completarea Hotărârii Guvernului nr. 717/2009 privind aprobarea normelor de implementare a programului "Noua casă" | [`hg/2022/292/`](hg/2022/292/) | amending act | 1 | 2022-03-03 | 2022-03-03 |
 | Hotărârea Guvernului nr. 304/2022 privind acordarea prestațiilor sub forma biletelor de tratament balnear, pentru anul 2022, prin sistemul organizat și administrat de Casa Națională de Pensii Publice | [`hg/2022/304/`](hg/2022/304/) | in force | 1 | 2022-03-04 | 2022-03-04 |
+| Hotărârea Guvernului nr. 315/2022 pentru aprobarea valorii maxime a costurilor aferente cazării în locaţiile stabilite de comitetele judeţene/al municipiului Bucureşti pentru situaţii de urgenţă pentru cetăţenii străini sau apatrizii aflaţi în situaţii deosebite care provin din zona conflictului armat din Ucraina şi care nu solicită o formă de protecţie potrivit Legii nr. 122/2006 privind azilul în România, precum şi pentru alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2022, pentru suplimentarea bugetului Ministerului Afacerilor Interne | [`hg/2022/315/`](hg/2022/315/) | repealed 2023-12-31 | 3 | 2022-03-05 | 2023-12-31 |
 | Hotărârea Guvernului nr. 337/2022 privind acordarea de gratuități și facilități pentru transportul cetățenilor străini sau apatrizilor aflați în situații deosebite, proveniți din zona conflictului armat din Ucraina | [`hg/2022/337/`](hg/2022/337/) | in force | 1 | 2022-03-12 | 2022-03-12 |
 | Hotărârea Guvernului nr. 344/2022 pentru aprobarea Strategiei naționale în domeniul drogurilor 2022-2026 și a Planului de acțiune pentru implementarea Strategiei naționale în domeniul drogurilor 2022-2026 | [`hg/2022/344/`](hg/2022/344/) | amending act | 1 | 2022-04-05 | 2022-04-05 |
 | Hotărârea Guvernului nr. 364/2022 privind modificarea descrierii tehnice și actualizarea valorii de inventar a unui bun imobil aflat în domeniul public al statului și în administrarea Oficiului de Cadastru și Publicitate Imobiliară Galați | [`hg/2022/364/`](hg/2022/364/) | amending act | 1 | 2022-03-30 | 2022-03-30 |
@@ -4886,6 +5064,7 @@
 | Hotărârea Guvernului nr. 868/2022 privind stabilirea sistemului de management și control în vederea gestionării programelor naționale Afaceri interne pentru perioada 2021-2027 | [`hg/2022/868/`](hg/2022/868/) | in force | 1 | 2022-07-11 | 2022-07-11 |
 | Hotărârea Guvernului nr. 875/2022 pentru aprobarea Normelor metodologice de aplicare a Ordonanței de urgență a Guvernului nr. 48/2022 privind plata diferențelor de drepturi salariale cuvenite personalului didactic din învățământul de stat pentru perioada 1 iulie 2017-31 august 2021 | [`hg/2022/875/`](hg/2022/875/) | amending act | 1 | 2022-07-08 | 2022-07-08 |
 | Hotărârea Guvernului nr. 876/2022 pentru modificarea și completarea Normelor metodologice de aplicare a prevederilor Legii nr. 219/2015 privind economia socială, aprobate prin Hotărârea Guvernului nr. 585/2016 | [`hg/2022/876/`](hg/2022/876/) | amending act | 1 | 2022-07-15 | 2022-07-15 |
+| Hotărârea Guvernului nr. 887/2022 privind actualizarea datelor de identificare şi a valorii de inventar ale unui imobil şi transmiterea acestuia din domeniul public al statului şi din administrarea Ministerului Muncii şi Solidarităţii Sociale - Casa Judeţeană de Pensii Neamţ în domeniul public al judeţului Neamţ | [`hg/2022/887/`](hg/2022/887/) | in force | 2 | 2022-07-18 | 2025-03-13 |
 | Hotărârea Guvernului nr. 893/2022 privind numirea domnului Diaconu Dan în funcția de prefect al județului Dolj | [`hg/2022/893/`](hg/2022/893/) | in force | 1 | 2022-07-13 | 2022-07-13 |
 | Hotărârea Guvernului nr. 902/2022 privind punerea în executare a Sentinței civile nr. 54 din 5 august 2020 pronunțate de Curtea de Apel Brașov - Secția contencios administrativ și fiscal în Dosarul nr. 512/64/2016, definitivă prin Decizia civilă nr. 775 din 10 februarie 2022 a Înaltei Curți de Casație și Justiție - Secția de contencios administrativ și fiscal | [`hg/2022/902/`](hg/2022/902/) | in force | 1 | 2022-07-26 | 2022-07-26 |
 | Hotărârea Guvernului nr. 907/2022 privind declanșarea procedurilor de expropriere a tuturor imobilelor proprietate privată care constituie coridorul de expropriere al lucrării de utilitate publică de interes național "Modernizare DN 7 km 52+300-km 54+000, Titu", precum și aprobarea listei imobilelor proprietate publică a unităților administrativ-teritoriale, care fac parte din coridorul de expropriere al lucrării de utilitate publică de interes național | [`hg/2022/907/`](hg/2022/907/) | in force | 1 | 2022-07-19 | 2022-07-19 |
@@ -4920,6 +5099,7 @@
 | Hotărârea Guvernului nr. 1006/2022 pentru aprobarea Listei cuprinzând categoriile de informații secrete de stat, pe niveluri de secretizare, elaborate sau deținute de Ministerul Antreprenoriatului și Turismului, cu termenele de clasificare aferente | [`hg/2022/1006/`](hg/2022/1006/) | amending act | 1 | 2022-08-12 | 2022-08-12 |
 | Hotărârea Guvernului nr. 1007/2022 privind stabilirea bugetului pentru implementarea Programului pentru școli al României în perioada 2017-2023 pentru anul școlar 2022-2023, precum și pentru modificarea și completarea Hotărârii Guvernului nr. 640/2017 pentru aprobarea Programului pentru școli al României în perioada 2017-2023 și pentru stabilirea bugetului pentru implementarea acestuia în anul școlar 2017-2018 | [`hg/2022/1007/`](hg/2022/1007/) | amending act | 2 | 2022-08-11 | 2022-11-16 |
 | Hotărârea Guvernului nr. 1011/2022 privind declanșarea procedurilor de expropriere a imobilelor proprietate privată, care constituie coridorul de expropriere al lucrării de utilitate publică de interes național, precum și aprobarea listei imobilelor proprietate publică a unităților administrativ-teritoriale, care fac parte din coridorul de expropriere al lucrării de utilitate publică de interes național "Realizare pasaj rutier la intersecția DN 1 cu Strada Prahovei (Azuga)" | [`hg/2022/1011/`](hg/2022/1011/) | in force | 1 | 2022-08-17 | 2022-08-17 |
+| Hotărârea Guvernului nr. 1025/2022 pentru stabilirea aspectelor tehnice şi organizatorice privind funcţionarea în sistem-pilot, precum şi a celor privind operaţionalizarea Sistemului informatic de monitorizare electronică | [`hg/2022/1025/`](hg/2022/1025/) | in force | 5 | 2022-08-17 | 2025-02-25 |
 | Hotărârea Guvernului nr. 1031/2022 privind stabilirea valorii ajutorului financiar în avans pentru depozitarea privată a cărnii de porc | [`hg/2022/1031/`](hg/2022/1031/) | in force | 1 | 2022-08-18 | 2022-08-18 |
 | Hotărârea Guvernului nr. 1032/2022 privind acordarea unor ajutoare excepționale producătorilor agricoli din sectorul vegetal | [`hg/2022/1032/`](hg/2022/1032/) | in force | 2 | 2022-08-18 | 2022-10-05 |
 | Hotărârea Guvernului nr. 1044/2022 pentru modificarea anexei la Hotărârea Guvernului nr. 556/2011 privind organizarea, structura și funcționarea Autorității Naționale pentru Calificări | [`hg/2022/1044/`](hg/2022/1044/) | amending act | 1 | 2022-08-22 | 2022-08-22 |
@@ -4939,6 +5119,7 @@
 | Hotărârea Guvernului nr. 1179/2022 privind eliberarea domnului Topoleanu Nicolae din funcția de subprefect al județului Tulcea | [`hg/2022/1179/`](hg/2022/1179/) | in force | 1 | 2022-09-30 | 2022-09-30 |
 | Hotărârea Guvernului nr. 1180/2022 privind numirea doamnei Terci Corina-Geanina în funcția de subprefect al județului Tulcea | [`hg/2022/1180/`](hg/2022/1180/) | in force | 1 | 2022-09-30 | 2022-09-30 |
 | Hotărârea Guvernului nr. 1181/2022 privind modificarea și completarea Hotărârii Guvernului nr. 571/2016 pentru aprobarea categoriilor de construcții și amenajări care se supun avizării și/sau autorizării privind securitatea la incendiu | [`hg/2022/1181/`](hg/2022/1181/) | amending act | 1 | 2022-09-30 | 2022-09-30 |
+| Hotărârea Guvernului nr. 1182/2022 privind aprobarea structurii organizatorice şi a Regulamentului de organizare şi funcţionare ale Agenţiei Naţionale Anti-Doping | [`hg/2022/1182/`](hg/2022/1182/) | amending act | 3 | 2022-10-03 | 2025-05-08 |
 | Hotărârea Guvernului nr. 1194/2022 privind actualizarea limitelor amenzilor prevăzute la art. 13 din Legea nr. 82/1993 privind constituirea Rezervației Biosferei "Delta Dunării" | [`hg/2022/1194/`](hg/2022/1194/) | in force | 1 | 2022-11-03 | 2022-11-03 |
 | Hotărârea Guvernului nr. 1200/2022 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziția Guvernului, prevăzut în bugetul de stat pe anul 2022, pentru unele unități administrativ-teritoriale | [`hg/2022/1200/`](hg/2022/1200/) | in force | 1 | 2022-10-05 | 2022-10-05 |
 | Hotărârea Guvernului nr. 1201/2022 privind aprobarea normativelor de cheltuieli aferente organizării și desfășurării în România a celei de-a șasea ediții a Forumului cooperării descentralizate româno-franceze, în perioada 3-5 noiembrie 2022 | [`hg/2022/1201/`](hg/2022/1201/) | amending act | 1 | 2022-10-05 | 2022-10-05 |
@@ -5010,6 +5191,7 @@
 | Hotărârea Guvernului nr. 255/2023 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2023 al Companiei Naționale de Investiții "C.N.I." - S.A., aflată sub autoritatea Ministerului Dezvoltării, Lucrărilor Publice și Administrației | [`hg/2023/255/`](hg/2023/255/) | amending act | 1 | 2023-03-24 | 2023-03-24 |
 | Hotărârea Guvernului nr. 260/2023 privind trecerea unui palat administrativ din domeniul public al statului și din administrarea Instituției Prefectului - Județul Brașov în domeniul public al județului Brașov | [`hg/2023/260/`](hg/2023/260/) | in force | 1 | 2023-03-30 | 2023-03-30 |
 | Hotărârea Guvernului nr. 269/2023 privind actualizarea anexei nr. 1 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului, trecerea unor imobile din domeniul privat al statului în domeniul public al acestuia, înscrierea unor imobile în inventarul centralizat al bunurilor din domeniul public al statului și darea acestora în administrarea Ministerului Afacerilor Interne - Inspectoratul de Jandarmi Județean Dâmbovița (UM 0705 Târgoviște) | [`hg/2023/269/`](hg/2023/269/) | amending act | 1 | 2023-03-30 | 2023-03-30 |
+| Hotărârea Guvernului nr. 272/2023 privind participarea României la Programul pentru evaluarea internaţională a elevilor - PISA 2025, inclusiv la opţiunile internaţionale, dezvoltate de Organizaţia pentru Cooperare şi Dezvoltare Economică | [`hg/2023/272/`](hg/2023/272/) | in force | 2 | 2023-03-27 | 2025-04-22 |
 | Hotărârea Guvernului nr. 298/2023 privind stabilirea tarifelor de primă maxime și a altor măsuri aplicabile de către societățile de asigurare care practică asigurarea obligatorie de răspundere civilă auto pentru prejudicii produse terților prin accidente de vehicule și de tramvaie | [`hg/2023/298/`](hg/2023/298/) | in force | 2 | 2023-04-11 | 2023-04-16 |
 | Hotărârea Guvernului nr. 302/2023 pentru modificarea Normelor metodologice privind detașarea salariaților în cadrul prestării de servicii transnaționale pe teritoriul României, aprobate prin Hotărârea Guvernului nr. 337/2017 | [`hg/2023/302/`](hg/2023/302/) | amending act | 1 | 2023-04-06 | 2023-04-06 |
 | Hotărârea Guvernului nr. 328/2023 pentru modificarea Hotărârii Guvernului nr. 311/2022 privind intensitatea maximă a ajutorului de stat regional în perioada 2022-2027 pentru investiții inițiale | [`hg/2023/328/`](hg/2023/328/) | amending act | 1 | 2023-04-13 | 2023-04-13 |
@@ -5054,6 +5236,7 @@
 | Hotărârea Guvernului nr. 506/2023 pentru aprobarea Strategiei naționale privind dezvoltarea pieței de capital din România pentru perioada 2023-2026 | [`hg/2023/506/`](hg/2023/506/) | amending act | 1 | 2023-05-30 | 2023-05-30 |
 | Hotărârea Guvernului nr. 511/2023 privind aprobarea bugetului de venituri și cheltuieli pentru anul 2023 al Regiei Autonome "Imprimeria Băncii Naționale a României", aflată în subordinea Băncii Naționale a României | [`hg/2023/511/`](hg/2023/511/) | amending act | 1 | 2023-05-29 | 2023-05-29 |
 | Hotărârea Guvernului nr. 521/2023 pentru aprobarea pachetelor de servicii și a Contractului-cadru care reglementează condițiile acordării asistenței medicale, a medicamentelor și a dispozitivelor medicale, în cadrul sistemului de asigurări sociale de sănătate | [`hg/2023/521/`](hg/2023/521/) | amending act | 3 | 2023-07-01 | 2025-08-29 |
+| Hotărârea Guvernului nr. 526/2023 privind aprobarea programului "Gala Cercetării Româneşti" | [`hg/2023/526/`](hg/2023/526/) | amending act | 2 | 2023-05-30 | 2023-10-31 |
 | Hotărârea Guvernului nr. 529/2023 privind declanșarea procedurilor de expropriere a tuturor imobilelor proprietate privată, situate pe amplasamentul suplimentar, precum și aprobarea listei imobilelor proprietate publică a statului și a listei imobilelor proprietate publică a unităților administrativ-teritoriale, care fac parte din coridorul de expropriere al lucrării de utilitate publică de interes național "Secțiunea 3B Mihăiești-Suplacu de Barcău" din cadrul obiectivului de investiții de interes național "Autostrada Brașov-Târgu Mureș-Cluj-Oradea" | [`hg/2023/529/`](hg/2023/529/) | in force | 1 | 2023-06-08 | 2023-06-08 |
 | Hotărârea Guvernului nr. 543/2023 pentru modificarea Hotărârii Guvernului nr. 369/2017 privind reorganizarea Institutului de Cercetare-Dezvoltare pentru Ecologie Acvatică, Pescuit și Acvacultură - Galați și modificarea anexei nr. 3 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului, pentru actualizarea denumirii, datelor de identificare, a valorilor de inventar și a adresei, după caz, ale bunurilor imobile aflate în domeniul public al statului și în administrarea Institutului de Cercetare-Dezvoltare pentru Ecologie Acvatică, Pescuit și Acvacultură - Galați, din subordinea Academiei de Științe Agricole și Silvice "Gheorghe Ionescu-Șișești", precum și pentru modificarea codului unic de înregistrare fiscală al institutului | [`hg/2023/543/`](hg/2023/543/) | amending act | 1 | 2023-06-12 | 2023-06-12 |
 | Hotărârea Guvernului nr. 567/2023 pentru modificarea anexelor nr. 1 și 2 la Normele metodologice privind stabilirea salariilor de bază pentru funcțiile didactice de conducere de director și director adjunct din învățământul preuniversitar de stat, precum și pentru stabilirea categoriilor de unități de învățământ preuniversitar de stat în care se normează funcțiile de conducere didactice auxiliare de contabil-șef și secretar-șef, cu nivel de studii S/M, și nivelul salariilor de bază aferente acestora, aprobate prin Hotărârea Guvernului nr. 598/2018 | [`hg/2023/567/`](hg/2023/567/) | amending act | 1 | 2023-07-10 | 2023-07-10 |
@@ -5092,6 +5275,7 @@
 | Hotărârea Guvernului nr. 1004/2023 privind aprobarea Strategiei naționale de sănătate pentru perioada 2023-2030 | [`hg/2023/1004/`](hg/2023/1004/) | amending act | 1 | 2023-10-24 | 2023-10-24 |
 | Hotărârea Guvernului nr. 1005/2023 privind aprobarea Strategiei naționale pentru prevenirea și limitarea infecțiilor asociate asistenței medicale și combaterea fenomenului de rezistență la antimicrobiene în România pentru perioada 2023-2030 | [`hg/2023/1005/`](hg/2023/1005/) | amending act | 1 | 2023-10-25 | 2023-10-25 |
 | Hotărârea Guvernului nr. 1006/2023 privind aprobarea Strategiei naționale de vaccinare în România pentru perioada 2023-2030 | [`hg/2023/1006/`](hg/2023/1006/) | amending act | 1 | 2023-10-25 | 2023-10-25 |
+| Hotărârea Guvernului nr. 1010/2023 privind modificarea denumirii, valorii de inventar şi caracteristicilor tehnice ale unui bun aflat în domeniul public al statului şi în administrarea Casei Judeţene de Pensii Neamţ | [`hg/2023/1010/`](hg/2023/1010/) | amending act | 1 | 2023-10-27 | 2023-10-27 |
 | Hotărârea Guvernului nr. 1011/2023 privind actualizarea denumirii, datelor de identificare, codului de clasificație și a valorii de inventar ale unui bun imobil, aflat în domeniul public al statului și în administrarea Direcției Generale Regionale a Finanțelor Publice București din subordinea Agenției Naționale de Administrare Fiscală, și modificarea anexei nr. 9 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului | [`hg/2023/1011/`](hg/2023/1011/) | amending act | 1 | 2023-10-27 | 2023-10-27 |
 | Hotărârea Guvernului nr. 1013/2023 privind actualizarea valorii de inventar și a datelor de identificare ale unor bunuri imobile aflate în domeniul public al statului și în administrarea Ministerului Agriculturii și Dezvoltării Rurale, prin Direcția pentru Agricultură Județeană Tulcea, și trecerea acestora și a unui imobil aflat în administrarea Ministerului Agriculturii și Dezvoltării Rurale în domeniul public al comunei Mihail Kogălniceanu, județul Tulcea | [`hg/2023/1013/`](hg/2023/1013/) | in force | 1 | 2023-10-27 | 2023-10-27 |
 | Hotărârea Guvernului nr. 1048/2023 privind aprobarea Actului adițional nr. 1 pentru anul 2023 la Contractul de activitate și performanță al Companiei Naționale de Căi Ferate "C.F.R." - S.A. pentru perioada 2021-2025 , aprobat prin Hotărârea Guvernului nr. 920/2021 | [`hg/2023/1048/`](hg/2023/1048/) | amending act | 1 | 2023-11-07 | 2023-11-07 |
@@ -5125,12 +5309,14 @@
 | Hotărârea Guvernului nr. 51/2024 privind acordarea prestațiilor sub forma biletelor de tratament balnear, pentru anul 2024, prin sistemul organizat și administrat de Casa Națională de Pensii Publice | [`hg/2024/51/`](hg/2024/51/) | in force | 1 | 2024-01-29 | 2024-01-29 |
 | Hotărârea Guvernului nr. 56/2024 pentru aprobarea Metodologiei-cadru privind organizarea și desfășurarea examenului de promovare în cariera didactică, în învățământul superior | [`hg/2024/56/`](hg/2024/56/) | amending act | 1 | 2024-01-30 | 2024-01-30 |
 | Hotărârea Guvernului nr. 63/2024 pentru completarea art. 3 din anexa nr. 1 la Hotărârea Guvernului nr. 717/2009 privind aprobarea normelor de implementare a programului "Noua casă" | [`hg/2024/63/`](hg/2024/63/) | amending act | 1 | 2024-02-01 | 2024-02-01 |
+| Hotărârea Guvernului nr. 69/2024 privind aprobarea normelor metodologice pentru determinarea costului standard per antepreşcolar/preşcolar/elev, pentru finanţarea de bază a unităţilor de învăţământ preuniversitar particular şi confesional acreditate şi autorizate, fără taxă | [`hg/2024/69/`](hg/2024/69/) | amending act | 2 | 2024-02-01 | 2025-03-24 |
 | Hotărârea Guvernului nr. 70/2024 pentru aprobarea mecanismului de implementare a măsurilor de acordare a unui sprijin material pentru anumite categorii de persoane defavorizate, în perioada 2024-2027, regulile de acordare, modalitatea și frecvența măsurilor de sprijin, precum și instituțiile responsabile | [`hg/2024/70/`](hg/2024/70/) | amending act | 1 | 2024-02-01 | 2024-02-01 |
 | Hotărârea Guvernului nr. 83/2024 privind aprobarea Cadrului referitor la finanțarea unor proiecte care sunt destinate protejării mediului înconjurător și combaterii schimbărilor climatice | [`hg/2024/83/`](hg/2024/83/) | amending act | 1 | 2024-02-09 | 2024-02-09 |
 | Hotărârea Guvernului nr. 112/2024 privind aprobarea Regulamentului de organizare și funcționare a Comitetului de organizare a funeraliilor de stat și a componenței acestuia | [`hg/2024/112/`](hg/2024/112/) | amending act | 1 | 2024-02-12 | 2024-02-12 |
 | Hotărârea Guvernului nr. 145/2024 pentru aprobarea indicatorilor tehnico-economici ai obiectivului de investiții "Lucrări de intervenție la infrastructură din cazarma 2645 Babadag" | [`hg/2024/145/`](hg/2024/145/) | amending act | 1 | 2024-02-26 | 2024-02-26 |
 | Hotărârea Guvernului nr. 146/2024 privind aprobarea normativelor de cheltuieli și a devizului estimativ aferente organizării și desfășurării la București a celei de-a opta Întâlniri a președinților curților de apel din Uniunea Europeană în perioada 12-14 iunie 2024 | [`hg/2024/146/`](hg/2024/146/) | amending act | 1 | 2024-02-26 | 2024-02-26 |
 | Hotărârea Guvernului nr. 148/2024 privind aprobarea Strategiei naționale anti-doping pentru perioada 2024-2027 | [`hg/2024/148/`](hg/2024/148/) | amending act | 1 | 2024-03-05 | 2024-03-05 |
+| Hotărârea Guvernului nr. 150/2024 privind aprobarea schemei "Ajutor de minimis pentru aplicarea Programului de susţinere a producţiei de cartof de consum" în anul 2024 | [`hg/2024/150/`](hg/2024/150/) | amending act | 2 | 2024-02-23 | 2024-11-22 |
 | Hotărârea Guvernului nr. 167/2024 pentru aprobarea normelor metodologice de acordare, utilizare și control al compensațiilor reprezentând contravaloarea produselor pe care proprietarii nu le recoltează din cauza funcțiilor de protecție stabilite prin amenajamente silvice care determină restricții în recoltarea de masă lemnoasă | [`hg/2024/167/`](hg/2024/167/) | amending act | 1 | 2024-03-05 | 2024-03-05 |
 | Hotărârea Guvernului nr. 181/2024 pentru aprobarea Normelor de aplicare a Legii nr. 360/2023 privind sistemul public de pensii | [`hg/2024/181/`](hg/2024/181/) | amending act | 1 | 2024-03-01 | 2024-03-01 |
 | Hotărârea Guvernului nr. 199/2024 privind aprobarea calendarului acțiunilor din cuprinsul perioadei electorale la alegerile pentru membrii din România în Parlamentul European din anul 2024 și la alegerile pentru autoritățile administrației publice locale din anul 2024 | [`hg/2024/199/`](hg/2024/199/) | amending act | 1 | 2024-03-11 | 2024-03-11 |
@@ -5259,7 +5445,9 @@
 | Hotărârea Guvernului nr. 1029/2024 pentru stabilirea unor măsuri de punere în aplicare a Regulamentului (UE) 2023/1.115 al Parlamentului European și al Consiliului din 31 mai 2023 privind punerea la dispoziție pe piața Uniunii și exportul din Uniune a anumitor produse de bază și produse asociate cu defrișările și degradarea pădurilor și de abrogare a Regulamentului (UE) nr. 995/2010 | [`hg/2024/1029/`](hg/2024/1029/) | in force | 1 | 2024-08-27 | 2024-08-27 |
 | Hotărârea Guvernului nr. 1034/2024 pentru aprobarea calendarului acțiunilor din cuprinsul perioadei electorale a alegerilor pentru Senat și Camera Deputaților din anul 2024 | [`hg/2024/1034/`](hg/2024/1034/) | amending act | 1 | 2024-09-02 | 2024-09-02 |
 | Hotărârea Guvernului nr. 1035/2024 privind stabilirea cheltuielilor necesare pregătirii, organizării și desfășurării în bune condiții a alegerilor pentru Senat și Camera Deputaților din anul 2024 | [`hg/2024/1035/`](hg/2024/1035/) | in force | 1 | 2024-09-02 | 2024-09-02 |
+| Hotărârea Guvernului nr. 1145/2024 privind acordarea unor ajutoare de urgenţă pentru combaterea efectelor fenomenelor meteorologice deosebite produse în luna septembrie 2024, precum şi pentru suplimentarea bugetului Ministerului Muncii şi Solidarităţii Sociale din Fondul de rezervă bugetară la dispoziţia Guvernului | [`hg/2024/1145/`](hg/2024/1145/) | in force | 2 | 2024-09-16 | 2024-11-21 |
 | Hotărârea Guvernului nr. 1175/2024 privind aprobarea declanșării procedurilor de expropriere a tuturor imobilelor proprietate privată, aprobarea listei imobilelor proprietate publică a statului și a listei imobilelor proprietate publică a unităților administrativ-teritoriale, situate pe amplasamentul care constituie coridorul de expropriere al lucrării de utilitate publică de interes național "Modernizarea infrastructurii de cale ferată dintre stațiile C.F. București Nord-Jilava-Giurgiu Nord-Giurgiu Nord Frontieră", aflate pe raza unităților administrativ-teritoriale Jilava, Vidra - județul Ilfov, Comana, Mihai Bravu, Băneasa, Daia, Frătești și Giurgiu - județul Giurgiu | [`hg/2024/1175/`](hg/2024/1175/) | amending act | 1 | 2024-10-01 | 2024-10-01 |
+| Hotărârea Guvernului nr. 1475/2024 privind transferul dreptului de administrare asupra unei părţi de imobil, aflat în domeniul public al statului, din administrarea Ministerului Apărării Naţionale în administrarea Ministerului Transporturilor şi Infrastructurii, în vederea realizării de către Metrorex - S.A. a lucrării de utilitate publică de interes naţional "Legătura reţelei de metrou cu Aeroportul Internaţional Henri Coandă - Otopeni (Magistrala 6. 1 Mai-Otopeni)" | [`hg/2024/1475/`](hg/2024/1475/) | in force | 1 | 2024-11-29 | 2024-11-29 |
 | Hotărârea Guvernului nr. 1481/2024 privind înscrierea unor bunuri imobile în inventarul centralizat al bunurilor din domeniul public al statului și darea în administrarea Ministerului Mediului, Apelor și Pădurilor prin Regia Națională a Pădurilor - Romsilva | [`hg/2024/1481/`](hg/2024/1481/) | in force | 1 | 2024-11-29 | 2024-11-29 |
 | Hotărârea Guvernului nr. 1513/2024 privind actualizarea, după caz, a valorii de inventar, a descrierii tehnice și a adresei unor bunuri imobile aparținând domeniului public al statului, aflate în administrarea Administrației Naționale "Apele Române", prin Administrația Bazinală de Apă Someș-Tisa, instituție publică aflată în coordonarea Ministerului Mediului, Apelor și Pădurilor, prevăzute în anexa nr. 12 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului, ca urmare a reevaluării și a efectuării lucrărilor de cadastru și publicitate imobiliară | [`hg/2024/1513/`](hg/2024/1513/) | amending act | 1 | 2024-12-06 | 2024-12-06 |
 | Hotărârea Guvernului nr. 1549/2024 privind aprobarea bugetului de venituri și cheltuieli rectificat pe anul 2024 al Societății de Transport cu Metroul București "Metrorex" - S.A., aflată sub autoritatea Ministerului Transporturilor și Infrastructurii | [`hg/2024/1549/`](hg/2024/1549/) | amending act | 1 | 2024-12-05 | 2024-12-05 |
@@ -5272,6 +5460,7 @@
 | Hotărârea Guvernului nr. 5/2025 privind stabilirea datei alegerilor locale parțiale pentru președintele Consiliului Județean Bihor și pentru primari în unele circumscripții electorale | [`hg/2025/5/`](hg/2025/5/) | in force | 1 | 2025-03-30 | 2025-03-30 |
 | Hotărârea Guvernului nr. 12/2025 pentru aprobarea indicatorilor tehnico-economici aferenți obiectivului de investiții "Realizarea de noi noduri rutiere pe autostrăzi - Nod rutier Pantelimon (A0 - km 48), sectorul A0-Nord", județul Ilfov | [`hg/2025/12/`](hg/2025/12/) | amending act | 1 | 2025-01-17 | 2025-01-17 |
 | Hotărârea Guvernului nr. 27/2025 pentru modificarea și completarea Metodologiei privind prevenirea și combaterea hărțuirii pe criteriul de sex, precum și a hărțuirii morale la locul de muncă, aprobată prin Hotărârea Guvernului nr. 970/2023 | [`hg/2025/27/`](hg/2025/27/) | amending act | 1 | 2025-02-03 | 2025-02-03 |
+| Hotărârea Guvernului nr. 35/2025 privind aprobarea procedurii de aplicare a mecanismului de stabilire și actualizare a salariului de bază minim brut pe țară garantat în plată | [`hg/2025/35/`](hg/2025/35/) | amending act | 1 | 2025-02-06 | 2025-02-06 |
 | Hotărârea Guvernului nr. 56/2025 privind aprobarea prealabilă în vederea recunoașterii prin hotărâre judecătorească a Asociației Obștești "Asociația Investitorilor din România" | [`hg/2025/56/`](hg/2025/56/) | amending act | 1 | 2025-02-17 | 2025-02-17 |
 | Hotărârea Guvernului nr. 57/2025 privind aprobarea unor modificări în inventarul centralizat al bunurilor din domeniul public al statului aflate în administrarea Ministerului Apărării Naționale, situate în județele Arad, Satu Mare, Harghita, Alba, Cluj, Buzău, Caraș-Severin, Timiș, Maramureș și Brașov, și modificarea anexei nr. 4 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului | [`hg/2025/57/`](hg/2025/57/) | amending act | 1 | 2025-02-17 | 2025-02-17 |
 | Hotărârea Guvernului nr. 63/2025 privind acordarea unor ajutoare de urgență | [`hg/2025/63/`](hg/2025/63/) | in force | 1 | 2025-02-21 | 2025-02-21 |
@@ -5281,6 +5470,7 @@
 | Hotărârea Guvernului nr. 186/2025 privind organizarea și funcționarea Agenției Naționale pentru Politici și Coordonare în Domeniul Drogurilor și al Adicțiilor | [`hg/2025/186/`](hg/2025/186/) | in force | 1 | 2025-03-03 | 2025-03-03 |
 | Hotărârea Guvernului nr. 187/2025 pentru modificarea și completarea Hotărârii Guvernului nr. 731/2024 privind organizarea și funcționarea Ministerului Educației | [`hg/2025/187/`](hg/2025/187/) | amending act | 1 | 2025-03-03 | 2025-03-03 |
 | Hotărârea Guvernului nr. 188/2025 privind organizarea și funcționarea Autorității Naționale pentru Cercetare | [`hg/2025/188/`](hg/2025/188/) | in force | 1 | 2025-03-03 | 2025-03-03 |
+| Hotărârea Guvernului nr. 189/2025 privind organizarea şi funcţionarea Ministerului Economiei, Digitalizării, Antreprenoriatului şi Turismului | [`hg/2025/189/`](hg/2025/189/) | in force | 2 | 2025-03-03 | 2025-03-06 |
 | Hotărârea Guvernului nr. 205/2025 privind modificarea denumirii, actualizarea valorii de inventar și a datelor de identificare, după caz, ale unor bunuri imobile aflate în domeniul public al statului și în administrarea Ministerului Sănătății - Spitalul de Recuperare Borșa și trecerea unor bunuri imobile din domeniul public al statului și din administrarea Ministerului Sănătății - Spitalul de Recuperare Borșa în domeniul public al orașului Borșa, județul Maramureș, precum și modificarea anexei nr. 15 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului | [`hg/2025/205/`](hg/2025/205/) | amending act | 1 | 2025-03-14 | 2025-03-14 |
 | Hotărârea Guvernului nr. 207/2025 pentru completarea art. 2 din Hotărârea Guvernului nr. 887/2022 privind actualizarea datelor de identificare și a valorii de inventar ale unui imobil și transmiterea acestuia din domeniul public al statului și din administrarea Ministerului Muncii și Solidarității Sociale - Casa Județeană de Pensii Neamț în domeniul public al județului Neamț | [`hg/2025/207/`](hg/2025/207/) | amending act | 1 | 2025-03-13 | 2025-03-13 |
 | Hotărârea Guvernului nr. 211/2025 privind actualizarea valorii de inventar a unui imobil aflat în domeniul public al statului și în administrarea Ministerului Afacerilor Interne - Inspectoratul pentru Situații de Urgență "Anghel Saligny" al Județului Vrancea, ca urmare a reevaluării | [`hg/2025/211/`](hg/2025/211/) | in force | 1 | 2025-03-12 | 2025-03-12 |
@@ -5336,6 +5526,7 @@
 | Hotărârea Guvernului nr. 677/2025 pentru modificarea și completarea Hotărârii Guvernului nr. 556/2006 privind stabilirea datei de la care se eliberează pașapoarte simple temporare, precum și a formei și conținutului acestora, precum și pentru modificarea Hotărârii Guvernului nr. 557/2006 privind stabilirea datei de la care se pun în circulație pașapoartele electronice, precum și a formei și conținutului acestora | [`hg/2025/677/`](hg/2025/677/) | amending act | 1 | 2025-08-22 | 2025-08-22 |
 | Hotărârea Guvernului nr. 704/2025 privind modificarea și completarea inventarului bunurilor din domeniul public al statului, administrate de Ministerul Transporturilor și Infrastructurii și concesionate Companiei Naționale de Căi Ferate "C.F.R." - S.A., prevăzute în anexa nr. 16 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului, ca urmare a modificărilor constatate la inventarierea efectuată în anul 2023 | [`hg/2025/704/`](hg/2025/704/) | amending act | 1 | 2025-09-03 | 2025-09-03 |
 | Hotărârea Guvernului nr. 732/2025 pentru aprobarea Metodologiei-cadru de acordare a burselor și cuantumul acestora | [`hg/2025/732/`](hg/2025/732/) | amending act | 1 | 2025-09-05 | 2025-09-05 |
+| Hotărârea Guvernului nr. 739/2025 privind aprobarea criteriilor cuantificabile prin raportare la criteriile specifice de performanţă pentru evaluarea activităţii desfăşurate de personalul din instituţiile şi structurile care gestionează fonduri europene nerambursabile din domeniul de competenţă al Ministerului Agriculturii şi Dezvoltării Rurale, în baza cărora se acordă stimulentele stabilite prin Programul Naţional de Dezvoltare Rurală 2014-2020, Planul strategic PAC 2023-2027 şi Programul pentru Acvacultură şi Pescuit 2021-2027 | [`hg/2025/739/`](hg/2025/739/) | amending act | 1 | 2025-09-12 | 2025-09-12 |
 | Hotărârea Guvernului nr. 783/2025 privind actualizarea descrierii tehnice, adresei și a valorii de inventar ale unor bunuri imobile aflate în domeniul public al statului și în administrarea Agenției Naționale pentru Zootehnie "Prof. dr. G.K. Constantinescu", instituție subordonată Ministerului Agriculturii și Dezvoltării Rurale, și trecerea acestora în domeniul public al comunei Adămuș, județul Mureș | [`hg/2025/783/`](hg/2025/783/) | in force | 1 | 2025-10-03 | 2025-10-03 |
 | Hotărârea Guvernului nr. 789/2025 privind declanșarea procedurilor de expropriere a tuturor imobilelor proprietate privată, aprobarea listei imobilelor proprietate publică a statului, precum și aprobarea listei imobilelor proprietate publică a unităților administrativ-teritoriale, situate pe amplasamentul suplimentar, care fac parte din coridorul de expropriere al lucrării de utilitate publică de interes național "Autostrada de Centură București, sector Centură Sud - lot 1, sector 1 km 52+070-km 52+770 aferent Centură Nord; sector 2 km 52+770-km 69+000 aferent Centură Sud" | [`hg/2025/789/`](hg/2025/789/) | in force | 1 | 2025-10-03 | 2025-10-03 |
 | Hotărârea Guvernului nr. 819/2025 privind aprobarea scoaterii din rezervele de stat a unor produse și acordarea acestora ca ajutoare umanitare interne de urgență, cu titlu gratuit, pentru protecția populației afectate de depășirea concentrației maxime admise la parametrii cloruri în apa brută pe râul Târnava Mare, în județul Mureș, și de fenomenele hidrometeorologice produse în județul Covasna | [`hg/2025/819/`](hg/2025/819/) | amending act | 1 | 2025-10-03 | 2025-10-03 |
