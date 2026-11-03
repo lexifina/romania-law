@@ -62596,6 +62596,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/204585"
 },
 {
+"slug": "og-39-1998",
+"path": "og/1998/39",
+"kind": "og",
+"year": "1998",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța Guvernului nr. 39/1998",
+"short": "OG nr. 39/1998",
+"code": null,
+"status": "in force",
+"versions": 5,
+"from": "1998-01-30",
+"latest": "2005-06-17",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/64002"
+},
+{
 "slug": "og-41-1998",
 "path": "og/1998/41",
 "kind": "og",
@@ -63189,6 +63206,23 @@
 "from": "2000-04-30",
 "latest": "2024-10-08",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/20740"
+},
+{
+"slug": "og-27-2000",
+"path": "og/2000/27",
+"kind": "og",
+"year": "2000",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța Guvernului nr. 27/2000",
+"short": "OG nr. 27/2000",
+"code": null,
+"status": "in force",
+"versions": 2,
+"from": "2000-02-15",
+"latest": "2002-07-15",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/37610"
 },
 {
 "slug": "og-39-2000",
@@ -65365,6 +65399,23 @@
 "from": "2004-08-30",
 "latest": "2005-12-30",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/70254"
+},
+{
+"slug": "og-79-2004",
+"path": "og/2004/79",
+"kind": "og",
+"year": "2004",
+"number": "79",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța Guvernului nr. 79/2004",
+"short": "OG nr. 79/2004",
+"code": null,
+"status": "in force",
+"versions": 3,
+"from": "2004-09-26",
+"latest": "2006-05-21",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/72976"
 },
 {
 "slug": "og-81-2004",

@@ -64136,6 +64136,27 @@
    ]
   },
   {
+   "slug": "og-27-2000",
+   "path": "og/2000/27",
+   "short": "OG nr. 27/2000",
+   "title": "Ordonanța Guvernului nr. 27/2000",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/37610",
+   "versions": [
+    {
+     "from": "2000-02-15",
+     "units": 59,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/20825",
+     "sha256": "5d2332069559655118d8e4fcb697a1b0039d49d80956bc456ce01c9ceee2d440"
+    },
+    {
+     "from": "2002-07-15",
+     "units": 67,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/37610",
+     "sha256": "c30d17c4494353de633dbd565741fbcd667f7daebf1bea5fd9b8bbe2d3a16f8c"
+    }
+   ]
+  },
+  {
    "slug": "og-27-2002",
    "path": "og/2002/27",
    "short": "OG nr. 27/2002",
@@ -65332,6 +65353,45 @@
      "units": 75,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/173872",
      "sha256": "eb7df8c64183c5b4e287fc5b8a4214b76ae2176fd0c3d624293e85fcb3f349de"
+    }
+   ]
+  },
+  {
+   "slug": "og-39-1998",
+   "path": "og/1998/39",
+   "short": "OG nr. 39/1998",
+   "title": "Ordonanța Guvernului nr. 39/1998",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/64002",
+   "versions": [
+    {
+     "from": "1998-01-30",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/14168",
+     "sha256": "992801abacc0bf716ca1a49bf737a2eb7156df6d0858b150e2547bad639a7f68"
+    },
+    {
+     "from": "1998-10-31",
+     "units": 30,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/14168",
+     "sha256": "992801abacc0bf716ca1a49bf737a2eb7156df6d0858b150e2547bad639a7f68"
+    },
+    {
+     "from": "1998-10-31",
+     "units": 30,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/64001",
+     "sha256": "0300295a03a96a3121065f9785dfa7ee69f72d07b756de9c1cfa1ac4a77c3730"
+    },
+    {
+     "from": "2002-06-26",
+     "units": 32,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/64003",
+     "sha256": "72b71dac08df1a354176c74492a8ce2759a70312f85e575dba5b166ca7223a45"
+    },
+    {
+     "from": "2005-06-17",
+     "units": 32,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/64003",
+     "sha256": "72b71dac08df1a354176c74492a8ce2759a70312f85e575dba5b166ca7223a45"
     }
    ]
   },
@@ -69367,6 +69427,33 @@
      "units": 16,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97752",
      "sha256": "e83dd69c8015a608aa83d4c5aa7014b1b299b055bd4d65899db0afbd037b00fc"
+    }
+   ]
+  },
+  {
+   "slug": "og-79-2004",
+   "path": "og/2004/79",
+   "short": "OG nr. 79/2004",
+   "title": "Ordonanța Guvernului nr. 79/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/72976",
+   "versions": [
+    {
+     "from": "2004-09-26",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/54796",
+     "sha256": "969deb206096e900f254b403cfa08cc323ab1a15e40a961cccc78ee5f1954261"
+    },
+    {
+     "from": "2004-12-24",
+     "units": 21,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/72975",
+     "sha256": "6ed37c8d5ba9552aa9474e6c962ca1a058400ceec898d23ab768a7f944e9ef6b"
+    },
+    {
+     "from": "2006-05-21",
+     "units": 21,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/72977",
+     "sha256": "ef6bea3cd01be57fffb32e9af96d611218430f9e40bfaf4e73fa8846c4aa6ff6"
     }
    ]
   },

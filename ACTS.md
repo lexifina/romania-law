@@ -1,6 +1,6 @@
 # Every act in this repository
 
-9161 acts, 22,345 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+9164 acts, 22,355 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -3681,7 +3681,7 @@
 | Ordonanța de urgență a Guvernului nr. 30/2026 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 23/2004 privind stabilirea unor măsuri de reorganizare a Autorităţii pentru Valorificarea Activelor Bancare prin comasarea prin absorbţie cu Autoritatea pentru Privatizare şi Administrarea Participaţiilor Statului | [`oug/2026/30/`](oug/2026/30/) | amending act | 1 | 2026-04-21 | 2026-04-21 |
 | Ordonanța de urgență a Guvernului nr. 33/2026 pentru modificarea şi completarea Legii educaţiei fizice şi sportului nr. 69/2000 | [`oug/2026/33/`](oug/2026/33/) | amending act | 1 | 2026-04-27 | 2026-04-27 |
 
-## Ordinances (OG) (474, of which 92 amending acts)
+## Ordinances (OG) (477, of which 92 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -3727,6 +3727,7 @@
 | Ordonanța Guvernului nr. 16/1998 | [`og/1998/16/`](og/1998/16/) | in force | 2 | 1998-03-01 | 2003-03-21 |
 | Ordonanța Guvernului nr. 32/1998 | [`og/1998/32/`](og/1998/32/) | in force | 14 | 1998-03-01 | 2019-03-01 |
 | Ordonanța Guvernului nr. 36/1998 | [`og/1998/36/`](og/1998/36/) | in force | 3 | 1998-02-01 | 2001-10-26 |
+| Ordonanța Guvernului nr. 39/1998 | [`og/1998/39/`](og/1998/39/) | in force | 5 | 1998-01-30 | 2005-06-17 |
 | Ordonanța Guvernului nr. 41/1998 | [`og/1998/41/`](og/1998/41/) | in force | 7 | 1998-01-30 | 2011-11-20 |
 | Ordonanța Guvernului nr. 46/1998 | [`og/1998/46/`](og/1998/46/) | in force | 8 | 1998-07-31 | 2022-08-28 |
 | Ordonanța Guvernului nr. 47/1998 | [`og/1998/47/`](og/1998/47/) | in force | 2 | 1998-09-29 | 2001-04-26 |
@@ -3762,6 +3763,7 @@
 | Ordonanța Guvernului nr. 2/2000 privind organizarea activității de expertiza tehnica judiciară și extrajudiciara | [`og/2000/2/`](og/2000/2/) | in force | 7 | 2000-01-25 | 2023-11-06 |
 | Ordonanța Guvernului nr. 9/2000 | [`og/2000/9/`](og/2000/9/) | in force | 3 | 2000-01-25 | 2011-08-31 |
 | Ordonanța Guvernului nr. 26/2000 cu privire la asociații și fundații | [`og/2000/26/`](og/2000/26/) | in force | 15 | 2000-04-30 | 2024-10-08 |
+| Ordonanța Guvernului nr. 27/2000 | [`og/2000/27/`](og/2000/27/) | in force | 2 | 2000-02-15 | 2002-07-15 |
 | Ordonanța Guvernului nr. 39/2000 | [`og/2000/39/`](og/2000/39/) | in force | 4 | 2000-01-31 | 2012-03-01 |
 | Ordonanța Guvernului nr. 40/2000 | [`og/2000/40/`](og/2000/40/) | in force | 2 | 2000-01-31 | 2005-07-19 |
 | Ordonanța Guvernului nr. 42/2000 privind îmbunătățirea finanțării unor programe de dezvoltare sectoriala inițiate de Ministerul Culturii | [`og/2000/42/`](og/2000/42/) | in force | 2 | 2000-01-31 | 2006-02-02 |
@@ -3890,6 +3892,7 @@
 | Ordonanța Guvernului nr. 67/2004 | [`og/2004/67/`](og/2004/67/) | in force | 2 | 2005-01-01 | 2005-01-01 |
 | Ordonanța Guvernului nr. 72/2004 | [`og/2004/72/`](og/2004/72/) | in force | 3 | 2004-08-30 | 2005-03-18 |
 | Ordonanța Guvernului nr. 77/2004 | [`og/2004/77/`](og/2004/77/) | in force | 3 | 2004-08-30 | 2005-12-30 |
+| Ordonanța Guvernului nr. 79/2004 | [`og/2004/79/`](og/2004/79/) | in force | 3 | 2004-09-26 | 2006-05-21 |
 | Ordonanța Guvernului nr. 81/2004 | [`og/2004/81/`](og/2004/81/) | in force | 2 | 2004-08-30 | 2004-11-22 |
 | Ordonanța Guvernului nr. 84/2004 | [`og/2004/84/`](og/2004/84/) | in force | 2 | 2004-09-02 | 2004-11-27 |
 | Ordonanța Guvernului nr. 85/2004 | [`og/2004/85/`](og/2004/85/) | in force | 8 | 2004-09-26 | 2019-12-13 |
