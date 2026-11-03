@@ -9869,6 +9869,66 @@
    ]
   },
   {
+   "slug": "hg-336-2022",
+   "path": "hg/2022/336",
+   "short": "HG nr. 336/2022",
+   "title": "Hotărârea Guvernului nr. 336/2022 privind stabilirea mecanismului de decontare din bugetul inspectoratelor județene pentru situații de urgență/Inspectoratului pentru Situații de Urgență București-Ilfov a cheltuielilor cu hrana cetățenilor străini sau apatrizilor aflați în situații deosebite, proveniți din zona conflictului armat din Ucraina, găzduiți de persoane fizice, precum și pentru alocarea unei sume din Fondul de rezervă bugetară la dispoziția Guvernului, prevăzut în bugetul de stat pe anul 2022, pentru suplimentarea bugetului Ministerului Afacerilor Interne",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/252563",
+   "versions": [
+    {
+     "from": "2022-03-11",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/252563",
+     "sha256": "2fd9f50d5e725830489f87b514e9137832811e4689de850caca75411648589c7"
+    },
+    {
+     "from": "2022-04-08",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/253034",
+     "sha256": "8c9d8c403443939fb052850064f1ebe737a415fa94f7b210f6c4276f86ab295e"
+    },
+    {
+     "from": "2023-04-26",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/252563",
+     "sha256": "b4d23d9f630ebb5cbf89d5f6d48972da7563665d77ef877907ee9e32fa5d736b"
+    }
+   ]
+  },
+  {
+   "slug": "hg-339-2020",
+   "path": "hg/2020/339",
+   "short": "HG nr. 339/2020",
+   "title": "Hotărârea Guvernului nr. 339/2020 privind aprobarea Programului național apicol pentru perioada 2020-2022 , a normelor de aplicare , precum și a valorii sprijinului financiar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/228195",
+   "versions": [
+    {
+     "from": "2020-05-06",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/225430",
+     "sha256": "2aff88afd8d6689ae27dc879ecbddee2233c0a9280d4efca6a58d9ccc01c4a5d"
+    },
+    {
+     "from": "2021-05-13",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/241500",
+     "sha256": "532a6aaafbf8365928bc065c1fb660aabb5dc5722e0ecf18c0fbc5ba81a25f96"
+    },
+    {
+     "from": "2021-08-24",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/244788",
+     "sha256": "bbe5852bed3e4f5e398176a3a1f7a31b5430ffcd369b0c899066cd8f3b37a8b5"
+    },
+    {
+     "from": "2022-04-18",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/253979",
+     "sha256": "f1a83a943e206de61f78c4ad0fdd68c2c86879ff40cd56040334894a553f147c"
+    }
+   ]
+  },
+  {
    "slug": "hg-395-2016",
    "path": "hg/2016/395",
    "short": "HG nr. 395/2016",
@@ -9920,6 +9980,39 @@
    ]
   },
   {
+   "slug": "hg-523-1998",
+   "path": "hg/1998/523",
+   "short": "HG nr. 523/1998",
+   "title": "Hotărârea Guvernului nr. 523/1998 privind înființarea Societății Naționale \"Aeroportul Internațional Constanta\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15580",
+   "versions": [
+    {
+     "from": "1998-10-07",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/15580",
+     "sha256": "22991db660672d306f2be329db673106663ab620193557f0452ec0a2050810a7"
+    },
+    {
+     "from": "2006-02-09",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/230673",
+     "sha256": "8bdd47bbccafd4ea5adda2207d830652a1661035d8122e01698c3acfcc4ba84d"
+    },
+    {
+     "from": "2008-10-15",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/230675",
+     "sha256": "2370ca6612209660a58051edbcdcc15d3c8304ce932a73f5c6176b4bd4e939ab"
+    },
+    {
+     "from": "2020-10-06",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/230677",
+     "sha256": "48353da3e631eb5a7ea3435d94ff023533de34da21db9ca8a27ea5c19c4e31a1"
+    }
+   ]
+  },
+  {
    "slug": "hg-547-2005",
    "path": "hg/2005/547",
    "short": "HG nr. 547/2005",
@@ -9952,6 +10045,27 @@
      "units": 0,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/241341",
      "sha256": "51d1f6ddde0e19436fdaf2cd6c750974bfceae8884943d4763c8560f36b37ae8"
+    }
+   ]
+  },
+  {
+   "slug": "hg-864-2003",
+   "path": "hg/2003/864",
+   "short": "HG nr. 864/2003",
+   "title": "Hotărârea Guvernului nr. 864/2003 privind unele măsuri de reglementare a pieţei graului şi exceptarea temporară de la plata taxelor vamale a importului de secara, orz şi porumb destinate furajării animalelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/45330",
+   "versions": [
+    {
+     "from": "2003-08-02",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/45330",
+     "sha256": "53a43a5c8d84200657b006ed4d14eb09f311c0825b5ff79e06374f327e6bf31f"
+    },
+    {
+     "from": "2003-10-20",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/45330",
+     "sha256": "2dcc75e66cd698c23c00b4fbc92b85dcdf148b91d14858e3ea0749cf01930b13"
     }
    ]
   },

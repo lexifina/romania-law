@@ -1,6 +1,6 @@
 # Every act in this repository
 
-6102 acts, 17,511 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+6106 acts, 17,524 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -3767,7 +3767,7 @@
 | Ordonanța Guvernului nr. 21/2025 pentru modificarea și completarea Legii nr. 431/2023 privind asigurarea unui nivel minim global de impozitare a grupurilor de întreprinderi multinaționale și a grupurilor naționale de mari dimensiuni | [`og/2025/21/`](og/2025/21/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 | Ordonanța Guvernului nr. 22/2025 pentru modificarea și completarea Legii nr. 227/2015 privind Codul fiscal | [`og/2025/22/`](og/2025/22/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 
-## Government decisions (HG) (2343, of which 847 amending acts)
+## Government decisions (HG) (2347, of which 848 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -3827,6 +3827,7 @@
 | Hotărârea Guvernului nr. 198/1998 | [`hg/1998/198/`](hg/1998/198/) | in force | 1 | 1998-04-07 | 1998-04-07 |
 | Hotărârea Guvernului nr. 364/1998 | [`hg/1998/364/`](hg/1998/364/) | in force | 1 | 1998-07-03 | 1998-07-03 |
 | Hotărârea Guvernului nr. 372/1998 | [`hg/1998/372/`](hg/1998/372/) | in force | 1 | 1998-07-06 | 1998-07-06 |
+| Hotărârea Guvernului nr. 523/1998 privind înființarea Societății Naționale "Aeroportul Internațional Constanta" - S.A. | [`hg/1998/523/`](hg/1998/523/) | in force | 4 | 1998-10-07 | 2020-10-06 |
 | Hotărârea Guvernului nr. 581/1998 | [`hg/1998/581/`](hg/1998/581/) | in force | 5 | 1998-09-15 | 2007-01-20 |
 | Hotărârea Guvernului nr. 582/1998 | [`hg/1998/582/`](hg/1998/582/) | in force | 3 | 1998-09-15 | 2010-11-17 |
 | Hotărârea Guvernului nr. 585/1998 | [`hg/1998/585/`](hg/1998/585/) | in force | 3 | 1998-09-15 | 2007-01-20 |
@@ -4006,6 +4007,7 @@
 | Hotărârea Guvernului nr. 768/2003 | [`hg/2003/768/`](hg/2003/768/) | in force | 2 | 2003-07-07 | 2003-07-24 |
 | Hotărârea Guvernului nr. 771/2003 | [`hg/2003/771/`](hg/2003/771/) | repealed 2004-01-23 | 2 | 2003-07-08 | 2004-01-23 |
 | Hotărârea Guvernului nr. 773/2003 | [`hg/2003/773/`](hg/2003/773/) | in force | 2 | 2003-07-14 | 2003-09-23 |
+| Hotărârea Guvernului nr. 864/2003 privind unele măsuri de reglementare a pieţei graului şi exceptarea temporară de la plata taxelor vamale a importului de secara, orz şi porumb destinate furajării animalelor | [`hg/2003/864/`](hg/2003/864/) | in force | 2 | 2003-08-02 | 2003-10-20 |
 | Hotărârea Guvernului nr. 868/2003 | [`hg/2003/868/`](hg/2003/868/) | in force | 7 | 2003-08-01 | 2024-06-11 |
 | Hotărârea Guvernului nr. 896/2003 pentru aprobarea Normelor metodologice de aplicare a Legii nr. 15/2003 privind sprijinul acordat tinerilor pentru construirea unei locuințe proprietate personală | [`hg/2003/896/`](hg/2003/896/) | amending act | 1 | 2003-08-19 | 2003-08-19 |
 | Hotărârea Guvernului nr. 899/2003 | [`hg/2003/899/`](hg/2003/899/) | in force | 3 | 2003-10-18 | 2025-03-11 |
@@ -5305,6 +5307,7 @@
 | Hotărârea Guvernului nr. 306/2020 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2020 al Societății Comerciale Compania Națională de Investiții "C.N.I." - S.A., aflată sub autoritatea Ministerului Lucrărilor Publice, Dezvoltării și Administrației | [`hg/2020/306/`](hg/2020/306/) | amending act | 1 | 2020-04-17 | 2020-04-17 |
 | Hotărârea Guvernului nr. 327/2020 privind aprobarea cifrelor de școlarizare pentru învățământul preuniversitar de stat și pentru învățământul superior de stat în anul școlar/universitar 2020-2021 | [`hg/2020/327/`](hg/2020/327/) | amending act | 1 | 2020-04-29 | 2020-04-29 |
 | Hotărârea Guvernului nr. 328/2020 privind modificarea și completarea Hotărârii Guvernului nr. 1.621/2003 pentru organizarea și funcționarea Institutului Național de Cercetare-Dezvoltare în Informatică - ICI București | [`hg/2020/328/`](hg/2020/328/) | amending act | 1 | 2020-04-28 | 2020-04-28 |
+| Hotărârea Guvernului nr. 339/2020 privind aprobarea Programului național apicol pentru perioada 2020-2022 , a normelor de aplicare , precum și a valorii sprijinului financiar | [`hg/2020/339/`](hg/2020/339/) | amending act | 4 | 2020-05-06 | 2022-04-18 |
 | Hotărârea Guvernului nr. 370/2020 privind aprobarea Programului național "Școala de acasă" și pentru alocarea unei sume din Fondul de rezervă bugetară la dispoziția Guvernului, prevăzut în bugetul de stat pe anul 2020, pentru Ministerul Educației și Cercetării | [`hg/2020/370/`](hg/2020/370/) | amending act | 1 | 2020-05-11 | 2020-05-11 |
 | Hotărârea Guvernului nr. 392/2020 privind aprobarea Normelor tehnice pentru întocmirea inventarului bunurilor care alcătuiesc domeniul public și privat al comunelor, al orașelor, al municipiilor și al județelor | [`hg/2020/392/`](hg/2020/392/) | amending act | 1 | 2020-05-22 | 2020-05-22 |
 | Hotărârea Guvernului nr. 394/2020 privind declararea stării de alertă și măsurile care se aplică pe durata acesteia pentru prevenirea și combaterea efectelor pandemiei de COVID-19 | [`hg/2020/394/`](hg/2020/394/) | in force | 1 | 2020-05-18 | 2020-05-18 |
@@ -5532,6 +5535,7 @@
 | Hotărârea Guvernului nr. 292/2022 pentru modificarea și completarea Hotărârii Guvernului nr. 717/2009 privind aprobarea normelor de implementare a programului "Noua casă" | [`hg/2022/292/`](hg/2022/292/) | amending act | 1 | 2022-03-03 | 2022-03-03 |
 | Hotărârea Guvernului nr. 304/2022 privind acordarea prestațiilor sub forma biletelor de tratament balnear, pentru anul 2022, prin sistemul organizat și administrat de Casa Națională de Pensii Publice | [`hg/2022/304/`](hg/2022/304/) | in force | 1 | 2022-03-04 | 2022-03-04 |
 | Hotărârea Guvernului nr. 315/2022 pentru aprobarea valorii maxime a costurilor aferente cazării în locaţiile stabilite de comitetele judeţene/al municipiului Bucureşti pentru situaţii de urgenţă pentru cetăţenii străini sau apatrizii aflaţi în situaţii deosebite care provin din zona conflictului armat din Ucraina şi care nu solicită o formă de protecţie potrivit Legii nr. 122/2006 privind azilul în România, precum şi pentru alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2022, pentru suplimentarea bugetului Ministerului Afacerilor Interne | [`hg/2022/315/`](hg/2022/315/) | repealed 2023-12-31 | 3 | 2022-03-05 | 2023-12-31 |
+| Hotărârea Guvernului nr. 336/2022 privind stabilirea mecanismului de decontare din bugetul inspectoratelor județene pentru situații de urgență/Inspectoratului pentru Situații de Urgență București-Ilfov a cheltuielilor cu hrana cetățenilor străini sau apatrizilor aflați în situații deosebite, proveniți din zona conflictului armat din Ucraina, găzduiți de persoane fizice, precum și pentru alocarea unei sume din Fondul de rezervă bugetară la dispoziția Guvernului, prevăzut în bugetul de stat pe anul 2022, pentru suplimentarea bugetului Ministerului Afacerilor Interne | [`hg/2022/336/`](hg/2022/336/) | in force | 3 | 2022-03-11 | 2023-04-26 |
 | Hotărârea Guvernului nr. 337/2022 privind acordarea de gratuități și facilități pentru transportul cetățenilor străini sau apatrizilor aflați în situații deosebite, proveniți din zona conflictului armat din Ucraina | [`hg/2022/337/`](hg/2022/337/) | in force | 1 | 2022-03-12 | 2022-03-12 |
 | Hotărârea Guvernului nr. 344/2022 pentru aprobarea Strategiei naționale în domeniul drogurilor 2022-2026 și a Planului de acțiune pentru implementarea Strategiei naționale în domeniul drogurilor 2022-2026 | [`hg/2022/344/`](hg/2022/344/) | amending act | 1 | 2022-04-05 | 2022-04-05 |
 | Hotărârea Guvernului nr. 364/2022 privind modificarea descrierii tehnice și actualizarea valorii de inventar a unui bun imobil aflat în domeniul public al statului și în administrarea Oficiului de Cadastru și Publicitate Imobiliară Galați | [`hg/2022/364/`](hg/2022/364/) | amending act | 1 | 2022-03-30 | 2022-03-30 |
