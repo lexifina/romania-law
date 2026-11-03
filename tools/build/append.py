@@ -154,6 +154,57 @@ def absent_acts(repo: Path, head: str, listed: set[str], known_paths: dict[str, 
     return extra, rows_for, path_for
 
 
+CREDIT_COLUMNS = ['act', 'in_force', 'provision', 'law', 'was_law', 'was_commit']
+
+
+def credit_ledger(repo: Path, ref: str) -> list[dict]:
+    """data/credits.csv on ref: every credit corrected so far, oldest first ([] before the first)."""
+    out = subprocess.run(['git', 'show', f'{ref}:data/credits.csv'], cwd=repo, capture_output=True, text=True,
+                         encoding='utf-8')
+    return list(csv.DictReader(io.StringIO(out.stdout))) if not out.returncode and out.stdout else []
+
+
+def credit_fixes(repo: Path, c: dict, act: dict, last: str, ledger: list[dict]) -> list[dict]:
+    """Provisions whose change on a published day main credits to a different law (or to none) than the corpus now
+    does, when the words are the same. Main's credit for (day, provision) is the Law trailer of the last commit with
+    that In-force day that wrote the provision (none for a publisher commit or a text correction), overridden by the
+    ledger; the corpus's is what build.plan would credit (the latest law named for it). Versions after `last` are
+    appended as usual and need no correction."""
+    folders = list(dict.fromkeys([act.get('path') or act['slug'], act['slug']]))
+    # A law commit is authored at the law's own address (<key>@<publisher domain>, build.law_email); a publisher or
+    # correction commit is not, and credits no law.
+    key_of = {B.law_email(c, k).lower(): k for k in c['laws']}
+    out = git(repo, 'log', '--no-merges', '--reverse', '--name-only',
+              '--format=%x00%H%x09%(trailers:key=In-force,valueonly,separator=)%x09%(trailers:key=Kind,valueonly,'
+              'separator=)%x09%ae', 'main', '--', *folders)
+    have: dict[tuple[str, str], tuple[str, str]] = {}
+    for rec in out.split('\x00')[1:]:
+        head, _, names = rec.partition('\n')
+        h, d, kind, email = (head.split('\t') + ['', '', ''])[:4]
+        d, kind, law = d.strip(), kind.strip(), key_of.get(email.strip().lower(), '')
+        if not d or kind == 'layout':
+            continue
+        for name in names.splitlines():
+            for f in folders:
+                if name.startswith(f + '/') and name.endswith('.md') and name != f'{f}/README.md':
+                    have[(d, name[len(f) + 1:-3])] = ('' if kind == 'correction' else law, h)
+    for r in ledger:
+        if r['act'] == act['slug']:
+            have[(r['in_force'], r['provision'])] = (r['law'], have.get((r['in_force'], r['provision']), ('', ''))[1])
+    want: dict[tuple[str, str], str] = {}
+    for prev, cur in zip(act['versions'], act['versions'][1:]):
+        if cur['from'] > last:
+            break
+        credits = cur.get('credits', {})
+        for k in set(prev['units']) | set(cur['units']):
+            if prev['units'].get(k, {}).get('text') != cur['units'].get(k, {}).get('text'):
+                ls = sorted(set(credits.get(k, [])), key=lambda l: B.law_order(c['laws'], l))
+                want[(cur['from'], k)] = ls[-1] if ls else ''
+    return [{'act': act['slug'], 'in_force': d, 'provision': k, 'law': law, 'was_law': have[(d, k)][0],
+             'was_commit': have[(d, k)][1]}
+            for (d, k), law in sorted(want.items()) if (d, k) in have and have[(d, k)][0] != law]
+
+
 def approved_corrections() -> dict[str, str]:
     """{act slug: public reason} from the file GITLAW_CORRECTIONS names (JSON). Only these acts are corrected; a
     listed act whose published text already matches the corpus needs nothing, so the list can stay in place."""
@@ -360,6 +411,19 @@ def append(folder: Path, repo: Path, docs_date: str, dry_run: bool = False, comm
     for s in sorted(set(problems) - set(unapproved)):
         corrections += correction_block(repo, c, by_slug[s], problems[s][0], state[s], rows[s],
                                         B.public_note(approved[s]) or '')
+    # Credits: a listed act whose words already match main may still credit a change to the wrong law. Text first:
+    # an act corrected for its text this publish gets its credits checked on the next.
+    ledger = credit_ledger(repo, head)
+    credit_rows: dict[str, list[dict]] = {}
+    for s in sorted(set(approved) & set(state) - set(problems)):
+        rows_s = credit_fixes(repo, c, by_slug[s], state[s], ledger)
+        if rows_s:
+            credit_rows[s] = rows_s
+    fixes_by_act: dict[str, list[dict]] = {}
+    for r in ledger + [r for rs in credit_rows.values() for r in rs]:
+        fixes_by_act.setdefault(r['act'], []).append(r)
+    for a in c['acts']:
+        a['_credit_fixes'] = fixes_by_act.get(a['slug'], [])  # shown in the act's README
     sub, based = to_append({**c, 'acts': [a for a in c['acts'] if a['slug'] not in unapproved]}, state, docs_date)
     commits = B.plan(sub) if sub['acts'] else []
     commits = [x for x in commits if not (x['kind'] == 'start' and x['act']['slug'] in based)]
@@ -370,16 +434,18 @@ def append(folder: Path, repo: Path, docs_date: str, dry_run: bool = False, comm
     summary = {'head': head, 'new_acts': sorted(a['slug'] for a in sub['acts'] if a['slug'] not in based),
                'extended_acts': sorted(based), 'commits': len(commits) + len(corrections),
                'corrected_acts': sorted({x['act']['slug'] for x in corrections}),
+               'credit_corrections': {s: len(rs) for s, rs in credit_rows.items()},
                'held_acts': sorted(unapproved),
                'held_parts': sorted({by_slug[s].get('_part') for s in unapproved} - {None})}
-    if dry_run or (not commits and not corrections and not refresh_docs):
+    if dry_run or (not commits and not corrections and not credit_rows and not refresh_docs):
         summary['main'] = head
         return summary
     # Committer time: the publish time when given (so the host shows when the law was added), never earlier than the
     # published head; each appended commit one second after the last. The batch log (data/appends.csv) records it, so
     # a rebuild replays the same times and the same hashes.
     # The batch ends at the publish time, not after it: check_repo rejects commits dated in the future.
-    start_ct = max(head_ct, (committer_time - len(commits) - len(corrections) - 2) if committer_time else 0)
+    start_ct = max(head_ct, (committer_time - len(commits) - len(corrections) - len(credit_rows) - 2)
+                   if committer_time else 0)
     w = Appender(repo, head, start_ct, '+0000' if committer_time else head_tz, cap=committer_time)
     tags: dict[str, int] = {}
     log = []
@@ -391,6 +457,35 @@ def append(folder: Path, repo: Path, docs_date: str, dry_run: bool = False, comm
         w.commit(committer, fixed_when, committer, text, x['files'])
         log.append({'day': x['day'], 'kind': 'correction', 'law': None, 'acts': [x['act']['slug']],
                     'units': len(x['files']), 'branch': 'main', 'clamped': x['day'] < '1970-01-01'})
+    # Credit corrections: one commit per act, with no In-force trailer, so no reader ever takes text from it. It adds
+    # the rows to data/credits.csv and rewrites the act's README, so `git log` on the act's folder shows it too.
+    ledger_rows = list(ledger)
+    names = {k: l.get('label', k) for k, l in c['laws'].items()}
+    def law_name(k: str) -> str:
+        return names.get(k, k) if k else "no law (a change the publisher's record leaves unexplained)"
+    for s, rows_s in credit_rows.items():
+        act = by_slug[s]
+        ledger_rows += rows_s
+        buf = io.StringIO()
+        wr = csv.DictWriter(buf, fieldnames=CREDIT_COLUMNS, lineterminator='\n')
+        wr.writeheader()
+        wr.writerows(ledger_rows)
+        readme = f'{act.get("path") or s}/README.md'
+        files = {'data/credits.csv': buf.getvalue(), readme: B.tables({**c, 'acts': [act]}, [])[readme]}
+        lines = [f'- In force {r["in_force"]}, {r["provision"]}: {law_name(r["law"])} (was {law_name(r["was_law"])}).'
+                 for r in rows_s]
+        reason = B.public_note(approved[s]) or ''
+        msg = [f'Credit correction: {act.get("short") or s}', ''] + ([reason, ''] if reason else []) + \
+              ['The words are unchanged; only the law each change is credited to. git blame still names the commit that '
+               'wrote the words; data/credits.csv records the corrected credit.', ''] + \
+              lines[:60] + ([f'- and {len(lines) - 60} more (data/credits.csv)'] if len(lines) > 60 else [])
+        trailers = ['Kind: correction', f'Act: {s}', f'Credits: {len(rows_s)}'] + \
+                   [f'Corrects: {h}' for h in dict.fromkeys(r['was_commit'] for r in rows_s) if h]
+        B.check_trailers(trailers)
+        w.commit(committer, fixed_when, committer, '\n'.join(msg).rstrip('\n') + '\n\n' + '\n'.join(trailers) + '\n',
+                 files)
+        log.append({'day': docs_date, 'kind': 'correction', 'law': None, 'acts': [s], 'units': len(rows_s),
+                    'branch': 'main', 'clamped': False})
     for x in commits:
         if x['kind'] == 'start':
             author, msg, trailers = B.start_message(c, x)

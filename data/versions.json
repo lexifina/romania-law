@@ -22535,6 +22535,39 @@
    ]
   },
   {
+   "slug": "legea-251-2006",
+   "path": "lege/2006/251",
+   "short": "Legea nr. 251/2006",
+   "title": "Legea nr. 251/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/210203",
+   "versions": [
+    {
+     "from": "2006-07-19",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/73144",
+     "sha256": "07fbc2ac90ec46415bea0395fd26127313cb7619c44982a82ae869c68b742516"
+    },
+    {
+     "from": "2007-01-01",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/73144",
+     "sha256": "07fbc2ac90ec46415bea0395fd26127313cb7619c44982a82ae869c68b742516"
+    },
+    {
+     "from": "2009-03-25",
+     "units": 14,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/210202",
+     "sha256": "1eaad7a62757482ac051b1bbd208c454fb15a2ea8be481f4f47a0872fb3981f3"
+    },
+    {
+     "from": "2009-07-01",
+     "units": 14,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/210204",
+     "sha256": "44027c69b9ab0ffd0b400ed8cae9d1405c44547853b2e378c8ab98c431987601"
+    }
+   ]
+  },
+  {
    "slug": "legea-252-2013",
    "path": "lege/2013/252",
    "short": "Legea nr. 252/2013",
@@ -29608,6 +29641,105 @@
      "units": 34,
      "source_url": "https://web.archive.org/web/20250405195303id_/https://legislatie.just.ro/Public/DetaliiDocument/150851",
      "sha256": "a8182f8214a69f4c56c3e364ae8c98e8466861414d1ac37d918f5e3f69978f7c"
+    }
+   ]
+  },
+  {
+   "slug": "legea-393-2004",
+   "path": "lege/2004/393",
+   "short": "Legea nr. 393/2004",
+   "title": "Legea nr. 393/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/55664",
+   "versions": [
+    {
+     "from": "2004-12-06",
+     "units": 85,
+     "source_url": "https://web.archive.org/web/20260510115133id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/55664",
+     "sha256": "9b17cb48ce44ba8bbc8e86114042ebed9393687d9e7ba458b738b84c438cdf7c"
+    },
+    {
+     "from": "2005-07-10",
+     "units": 85,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/64707",
+     "sha256": "fd2096724df03c69a14c0b8c905e3446d81bab53099397d8c5dc551b02b9776c"
+    },
+    {
+     "from": "2006-06-30",
+     "units": 86,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73120",
+     "sha256": "8e8239a636639ac66f2defda908166eecbc3542e9bdf87c2c90fb22742682706"
+    },
+    {
+     "from": "2006-07-21",
+     "units": 86,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73593",
+     "sha256": "40f95807d67738bb3e9fb32e17a536d92e9ae3f01f445dbfb91743ea03df5f7c"
+    },
+    {
+     "from": "2007-04-01",
+     "units": 86,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/80825",
+     "sha256": "d7e3df3fd25d1da719a4d08c40260a0af0550a101a7ddfa77d5116e85a0738c6"
+    },
+    {
+     "from": "2007-11-25",
+     "units": 86,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/90348",
+     "sha256": "a0bbf36f2c3aea9b011fac96b8bebc74eed7a648b21eb6322181d321b7dfcd3e"
+    },
+    {
+     "from": "2008-03-16",
+     "units": 86,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/90349",
+     "sha256": "64ea87f3a57567f781f25a325c4ef0bd48ff8ec7de1bde9e4c2392eb3e4913f6"
+    },
+    {
+     "from": "2009-04-10",
+     "units": 86,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/104552",
+     "sha256": "b2b44b0e3e4b4ab18b7bedf8b862d392226a894dc50e7b12dfb02160f2447cf0"
+    },
+    {
+     "from": "2014-02-01",
+     "units": 86,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/154601",
+     "sha256": "357d0631934ef28d2d3919a0f262252a18b5f88a3cd847fa9a3b35e8f065c773"
+    },
+    {
+     "from": "2015-05-23",
+     "units": 86,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168165",
+     "sha256": "7dbf4cd0941975708c30a97df9324ace955511775ac79b93bee39fbbec5ead32"
+    },
+    {
+     "from": "2017-04-01",
+     "units": 86,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/187314",
+     "sha256": "43513971e618e0204ec8f8bc9e63333c0e1ef1d494de6c7f7b9b362d5c9b9a83"
+    },
+    {
+     "from": "2017-06-23",
+     "units": 86,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/189809",
+     "sha256": "974a9cf44dba3e2cacc5a44efd4601f1e434c2a14591fc4e81a78b902b300da6"
+    },
+    {
+     "from": "2019-05-09",
+     "units": 86,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/213121",
+     "sha256": "c32c247de7350db015883357509f5c4e54f5ef3c297f8970ec28fa97bf1e13b3"
+    },
+    {
+     "from": "2019-06-04",
+     "units": 86,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/214334",
+     "sha256": "a62771d31867193472788925131174823271f5b2cd5272c5bb70d6f9c87f4077"
+    },
+    {
+     "from": "2019-07-05",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/230251",
+     "sha256": "62a0dd741ace551e02a25d6621dd54520e1e6cbd850466558c19ba17ce8767c1"
     }
    ]
   },
@@ -43433,6 +43565,45 @@
    ]
   },
   {
+   "slug": "og-37-2005",
+   "path": "og/2005/37",
+   "short": "OG nr. 37/2005",
+   "title": "Ordonanța Guvernului nr. 37/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/63439",
+   "versions": [
+    {
+     "from": "2005-07-25",
+     "units": 21,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/63439",
+     "sha256": "03914d2b1ccf1cad336187d2408ae2b625779fc10cc65347235997f34975d12f"
+    },
+    {
+     "from": "2005-12-09",
+     "units": 22,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/113308",
+     "sha256": "1aa31a687e2f057bb6f782c57fd9504d8ebc64e5b98d4ee16d343e67af9d6345"
+    },
+    {
+     "from": "2014-12-22",
+     "units": 26,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170976",
+     "sha256": "0ccbb1ec11874868d5468d97bca8da39ddc64a6262cd0705cbe028def5236b58"
+    },
+    {
+     "from": "2015-08-30",
+     "units": 27,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170980",
+     "sha256": "7b6d48b620373f92b0b47e1a171365a2d56de3a53cca98062b120104c4449b63"
+    },
+    {
+     "from": "2016-03-11",
+     "units": 27,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/176489",
+     "sha256": "cc1f98464fbdb369e4102e388126916080d8ee04fbc674431972703d0dc417ce"
+    }
+   ]
+  },
+  {
    "slug": "og-37-2007",
    "path": "og/2007/37",
    "short": "OG nr. 37/2007",
@@ -43543,6 +43714,117 @@
      "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/258758",
      "sha256": "dd14547fab5d837cbf636f0f8e8a4fb9426a477277d4a55fe7bbce5e38a7f9ea"
+    }
+   ]
+  },
+  {
+   "slug": "og-39-1996",
+   "path": "og/1996/39",
+   "short": "OG nr. 39/1996",
+   "title": "Ordonanța Guvernului nr. 39/1996",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/173872",
+   "versions": [
+    {
+     "from": "1996-08-30",
+     "units": 52,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/8203",
+     "sha256": "054432feb1a33f6bfd932a374524803ad81b9fd3902436ea26027edbee2984d0"
+    },
+    {
+     "from": "2002-02-25",
+     "units": 52,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/34239",
+     "sha256": "0ea6454b9028be4afd076567aab59d85f819de37b03a14dc5898db1ce6230a28"
+    },
+    {
+     "from": "2004-01-01",
+     "units": 52,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/64438",
+     "sha256": "6ef819fe061ee70920fc04a1c467c1d2ea65398063b8bd15421e9165f9b12915"
+    },
+    {
+     "from": "2004-07-01",
+     "units": 49,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/64439",
+     "sha256": "a96553545e0b570dcd9c811baa613da4fecb717ae88b9268b22ba36c055dfd7e"
+    },
+    {
+     "from": "2004-09-15",
+     "units": 49,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/64440",
+     "sha256": "2f9fda2cb507d32bfa1bc2caf60df8cc442c1a796228fee760cdaf5e54461147"
+    },
+    {
+     "from": "2005-07-30",
+     "units": 49,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/64441",
+     "sha256": "833fd8050f30a3786fd0632e948160d5249aa2d8db5810f16771223587c03827"
+    },
+    {
+     "from": "2006-03-25",
+     "units": 49,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73541",
+     "sha256": "aa07712805c700ad56494dc030a10a64e083fb3dc701318552a710a940eb9df0"
+    },
+    {
+     "from": "2006-07-14",
+     "units": 49,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73542",
+     "sha256": "d3bc4f19eb3ab2a14ce0e020bd93d241d51e247bc9eb6f27ee924b502208f848"
+    },
+    {
+     "from": "2008-10-15",
+     "units": 49,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/98256",
+     "sha256": "1311f29f28d88e5eef57ad7db1ccdbd62ee307b058525daf9491f8f7af51e0d2"
+    },
+    {
+     "from": "2009-06-30",
+     "units": 55,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/109246",
+     "sha256": "b5fb42805342aba08e016cad96989bb0fb5a80693b172085386950839a4eaf26"
+    },
+    {
+     "from": "2010-04-02",
+     "units": 56,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/117713",
+     "sha256": "e06c4e5af07da27a8c6be5e7a770ab7455fc49a86a4b803dd41207143bf6d10d"
+    },
+    {
+     "from": "2010-08-19",
+     "units": 56,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/121637",
+     "sha256": "1b3efcd57d9eaf55289df504a62eee6d9815120632d9f297cae23c31c9519107"
+    },
+    {
+     "from": "2010-12-30",
+     "units": 67,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/131441",
+     "sha256": "83dc6c170f496e0a819d3d1e43811971ea5b88ded514e7075bdeb14863fc42da"
+    },
+    {
+     "from": "2011-09-01",
+     "units": 68,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/131442",
+     "sha256": "a07b837402d98e1d4775fff87cca369647f31673a30fa8429367f47b6db8ed95"
+    },
+    {
+     "from": "2012-01-21",
+     "units": 75,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/135511",
+     "sha256": "c2e976a38438a5e681620a674a9cfd2c00505d692052c627f25a108d75f559fd"
+    },
+    {
+     "from": "2014-02-01",
+     "units": 75,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/146939",
+     "sha256": "b0388670ce3c7853b22542f9aee58a61e5d01e26c61e6c6f4861ccc5e7102756"
+    },
+    {
+     "from": "2015-12-14",
+     "units": 75,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/173872",
+     "sha256": "eb7df8c64183c5b4e287fc5b8a4214b76ae2176fd0c3d624293e85fcb3f349de"
     }
    ]
   },
@@ -55844,6 +56126,33 @@
    ]
   },
   {
+   "slug": "oug-228-2008",
+   "path": "oug/2008/228",
+   "short": "OUG nr. 228/2008",
+   "title": "Ordonanța de urgență a Guvernului nr. 228/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/114109",
+   "versions": [
+    {
+     "from": "2009-01-05",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/100955",
+     "sha256": "0a9e3d4934abc7afed4b626f82b1d26a2b87b174066a671d150b40ab15658854"
+    },
+    {
+     "from": "2009-03-12",
+     "units": 4,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/114108",
+     "sha256": "ac77217966dfc33baae979ae05ea2da13343e86866a0ead0911fd5606805aedd"
+    },
+    {
+     "from": "2009-10-14",
+     "units": 2,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/114110",
+     "sha256": "bca1c4e775d259e7c98669f12b37bd676f765933b9f65dff4495c93aee414647"
+    }
+   ]
+  },
+  {
    "slug": "oug-23-2008",
    "path": "oug/2008/23",
    "short": "OUG nr. 23/2008",
@@ -57598,6 +57907,57 @@
      "units": 24,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/244549",
      "sha256": "f5c3f1d6655aa00c92331ce86033b38d3975ed25cd740c13b06c50ff17d3fc64"
+    }
+   ]
+  },
+  {
+   "slug": "oug-31-2002",
+   "path": "oug/2002/31",
+   "short": "OUG nr. 31/2002",
+   "title": "Ordonanța de urgență a Guvernului nr. 31/2002",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34759",
+   "versions": [
+    {
+     "from": "2002-03-28",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/34759",
+     "sha256": "140c9c15285e9a1809bdb1fe8691c927a67e01e7ffa5715676283958822a20a8"
+    },
+    {
+     "from": "2005-07-14",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/72125",
+     "sha256": "f20678b3251320c90b5b29d26a771554e5ac1715244ce823703a31865b5009c5"
+    },
+    {
+     "from": "2006-08-11",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/109734",
+     "sha256": "af0e86b5a3ae307a0d708f2741bd3105912e0032ef0fc7f04f8c283e057a0e83"
+    },
+    {
+     "from": "2014-02-01",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/150824",
+     "sha256": "1d21d673e507b6ea48e51bdee4423bdc53588221003683c3e21ff61df5af0131"
+    },
+    {
+     "from": "2015-07-30",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170134",
+     "sha256": "38fd883be6af2e4c68aa9cd823a10377e9b2de7d5c9e9e7e9ee56914bcff8205"
+    },
+    {
+     "from": "2018-07-07",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/202015",
+     "sha256": "d458ed7f9d45c244c4e4f7dfa359de4bfd74e9ddee93110cd424b10558fd5627"
+    },
+    {
+     "from": "2025-12-27",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34759",
+     "sha256": "9947a5638358709c059afdde7c9398aed3543311bd82fb552f351a643caf64f6"
     }
    ]
   },
