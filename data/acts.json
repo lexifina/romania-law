@@ -40173,6 +40173,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/44231"
 },
 {
+"slug": "oug-45-2003",
+"path": "oug/2003/45",
+"kind": "oug",
+"year": "2003",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 45/2003",
+"short": "OUG nr. 45/2003",
+"code": null,
+"status": "repealed 2007-01-01",
+"versions": 7,
+"from": "2003-06-19",
+"latest": "2007-01-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/61624"
+},
+{
 "slug": "oug-48-2003",
 "path": "oug/2003/48",
 "kind": "oug",

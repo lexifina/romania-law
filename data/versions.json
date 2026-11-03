@@ -85874,6 +85874,57 @@
    ]
   },
   {
+   "slug": "oug-45-2003",
+   "path": "oug/2003/45",
+   "short": "OUG nr. 45/2003",
+   "title": "Ordonanța de urgență a Guvernului nr. 45/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/61624",
+   "versions": [
+    {
+     "from": "2003-06-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/44498",
+     "sha256": "b4b09aa8e5375bef6d46f5970a3f03f9d0118dedb6b1a12ec56024d66d098820"
+    },
+    {
+     "from": "2004-01-01",
+     "units": 79,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/44498",
+     "sha256": "b4b09aa8e5375bef6d46f5970a3f03f9d0118dedb6b1a12ec56024d66d098820"
+    },
+    {
+     "from": "2004-04-19",
+     "units": 79,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/51273",
+     "sha256": "75d7f28b1d8085ec06d9593820ee4cb548a0945fe46faa5bba14d10e5b353b1b"
+    },
+    {
+     "from": "2005-01-01",
+     "units": 79,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58720",
+     "sha256": "01004fa0d591116edab1b5b1118c6d1b56d0056af4f0f4281c384ed923fce124"
+    },
+    {
+     "from": "2005-02-28",
+     "units": 79,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59564",
+     "sha256": "a14f873f72c508284c315ac69f59d8aa221b3422de3701320de9626c2ae8faa4"
+    },
+    {
+     "from": "2005-05-12",
+     "units": 79,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/61624",
+     "sha256": "ceb937faeffbb346a557a0f08c2e8d0250c26232890bf5866ee8f8532359222e"
+    },
+    {
+     "from": "2007-01-01",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/73527",
+     "sha256": "30a1bcbc36162233307a654181afa2675f5b60f550a97bc6b6a317a634623b7e"
+    }
+   ]
+  },
+  {
    "slug": "oug-46-2021",
    "path": "oug/2021/46",
    "short": "OUG nr. 46/2021",

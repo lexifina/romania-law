@@ -1,6 +1,6 @@
 # Every act in this repository
 
-9812 acts, 23,220 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+9813 acts, 23,227 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -2213,7 +2213,7 @@
 | Legea nr. 190/2026 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 81/2021 privind aprobarea metodelor de intervenţie imediată pentru prevenirea şi combaterea atacurilor exemplarelor de urs brun asupra persoanelor şi bunurilor acestora, precum şi pentru modificarea şi completarea unor acte normative | [`lege/2026/190/`](lege/2026/190/) | amending act | 1 | 2026-10-08 | 2026-10-08 |
 | Legea nr. 205/2026 pentru completarea Ordonanţei Guvernului nr. 22/2002 privind executarea obligaţiilor de plată ale instituţiilor publice, stabilite prin titluri executorii | [`lege/2026/205/`](lege/2026/205/) | amending act | 1 | 2026-11-02 | 2026-11-02 |
 
-## Emergency ordinances (OUG) (1564, of which 539 amending acts)
+## Emergency ordinances (OUG) (1565, of which 539 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -2403,6 +2403,7 @@
 | Ordonanța de urgență a Guvernului nr. 39/2003 | [`oug/2003/39/`](oug/2003/39/) | in force | 1 | 2003-06-02 | 2003-06-02 |
 | Ordonanța de urgență a Guvernului nr. 40/2003 | [`oug/2003/40/`](oug/2003/40/) | in force | 3 | 2003-06-02 | 2004-04-19 |
 | Ordonanța de urgență a Guvernului nr. 42/2003 | [`oug/2003/42/`](oug/2003/42/) | in force | 1 | 2003-06-09 | 2003-06-09 |
+| Ordonanța de urgență a Guvernului nr. 45/2003 | [`oug/2003/45/`](oug/2003/45/) | repealed 2007-01-01 | 7 | 2003-06-19 | 2007-01-01 |
 | Ordonanța de urgență a Guvernului nr. 48/2003 | [`oug/2003/48/`](oug/2003/48/) | in force | 3 | 2003-06-19 | 2006-10-16 |
 | Ordonanța de urgență a Guvernului nr. 50/2003 | [`oug/2003/50/`](oug/2003/50/) | in force | 1 | 2003-06-20 | 2003-06-20 |
 | Ordonanța de urgență a Guvernului nr. 53/2003 | [`oug/2003/53/`](oug/2003/53/) | repealed 2005-07-21 | 3 | 2003-06-25 | 2005-07-21 |
