@@ -27,7 +27,14 @@ Act id: `oug-43-1997` (tags `oug-43-1997/<day>`; `python tools/on.py <day> oug-4
 - OUG nr. 43/1997: the first version is the emergency ordinance as published in Monitorul Oficial nr. 153 of 14 July 1997 (DetaliiDocumentAfis/11272), dated 14 July 1997: an emergency ordinance with no day of its own, in force on publication (Constituția art. 115 alin. (5); Legea nr. 24/2000 art. 12 alin. (2)). The portal holds no consolidated form before 12 September 1997, so the changes made up to then arrive together that day.
 - OUG nr. 43/1997: the signature block after the last article (the signatories, the place, the date and the number) is not part of an article and is left out, as in every act of this record.
 - OUG nr. 43/1997: wording changes between forms that no note credits (typesetting, diacritics, misprints, renamed bodies) are the publisher's: no law is credited for them and each is dated by the first form that shows it.
+- OUG nr. 43/1997: the form of 2 November 1999 changes arts. 9 and 10 with no note at the article; the form's notes name Ordonanța de urgență nr. 163/1999 (Monitorul Oficial nr. 533 of 2 November 1999) as the act that changes this ordinance that month, so the changes are credited to it (flag form_credits).
 - OUG nr. 43/1997: changes a form prints before the in-force day its own notes give are dated by the notes (the earlier text stands until then): 1999-11-15 (art-007; printed in the form of 02.11.1999).
 - OUG nr. 43/1997: changes whose notes give an in-force day between two forms the portal holds are dated by the note, with the later form's text for those articles: 1998-09-29 (art-002, art-011; form 02.11.1999).
 - OUG nr. 43/1997: the portal editorial notes printed as paragraphs of an article (on a Constitutional Court ruling, a rectification, a provision put back in force) are not text: 4 such paragraphs across all forms, for example «(la 20-08-1998 Art. 10 a revenit la forma anterioară ORDONAN», «(la 20-08-1998 Art. 9 a revenit la forma anterioară ORDONANȚ».
-- OUG nr. 43/1997: 2 changed article(s) with no note naming a law, committed as the publisher's: 1999-11-02 art-009, 1999-11-02 art-010.
+
+## Credits corrected
+
+These changes were first published credited to another law. The words are unchanged; `git blame` still names the commit that wrote them, and `data/credits.csv` lists every corrected credit.
+
+- `art-009.md`, in force from 1999-11-02: OUG nr. 163/1999 (first published as no law named).
+- `art-010.md`, in force from 1999-11-02: OUG nr. 163/1999 (first published as no law named).
