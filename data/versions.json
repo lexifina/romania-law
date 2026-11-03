@@ -83354,6 +83354,27 @@
    ]
   },
   {
+   "slug": "oug-44-2007",
+   "path": "oug/2007/44",
+   "short": "OUG nr. 44/2007",
+   "title": "Ordonanța de urgență a Guvernului nr. 44/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/83295",
+   "versions": [
+    {
+     "from": "2007-06-28",
+     "units": 37,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/83295",
+     "sha256": "e8267f865a1dc1f4baa6c92a3d24b05b00a62a82cfe1327afd43e2e6cdba0ed6"
+    },
+    {
+     "from": "2008-01-14",
+     "units": 37,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/89009",
+     "sha256": "5a19896b102ba792e3caf3be29aae4f0f212cf763dc6addfb4e7806d3a573173"
+    }
+   ]
+  },
+  {
    "slug": "oug-44-2008",
    "path": "oug/2008/44",
    "short": "OUG nr. 44/2008",

@@ -41601,6 +41601,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/83244"
 },
 {
+"slug": "oug-44-2007",
+"path": "oug/2007/44",
+"kind": "oug",
+"year": "2007",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 44/2007",
+"short": "OUG nr. 44/2007",
+"code": null,
+"status": "in force",
+"versions": 2,
+"from": "2007-06-28",
+"latest": "2008-01-14",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/83295"
+},
+{
 "slug": "oug-49-2007",
 "path": "oug/2007/49",
 "kind": "oug",
