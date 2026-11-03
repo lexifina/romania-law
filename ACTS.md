@@ -1,6 +1,6 @@
 # Every act in this repository
 
-17549 acts, 31,174 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+17557 acts, 31,182 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -5166,7 +5166,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (12392, of which 6070 amending acts)
+## Government decisions (HG) (12400, of which 6072 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -8704,6 +8704,14 @@
 | Hotărârea Guvernului nr. 720/2015 | [`hg/2015/720/`](hg/2015/720/) | in force | 1 | 2015-09-09 | 2015-09-09 |
 | Hotărârea Guvernului nr. 723/2015 | [`hg/2015/723/`](hg/2015/723/) | in force | 1 | 2015-09-09 | 2015-09-09 |
 | Hotărârea Guvernului nr. 725/2015 | [`hg/2015/725/`](hg/2015/725/) | in force | 2 | 2015-09-11 | 2018-11-16 |
+| Hotărârea Guvernului nr. 730/2015 privind constatarea încetării de drept a raportului de serviciu al domnului Ciobotea Ionel, subprefect al judeţului Dolj | [`hg/2015/730/`](hg/2015/730/) | in force | 1 | 2015-09-10 | 2015-09-10 |
+| Hotărârea Guvernului nr. 731/2015 privind exercitarea, cu caracter temporar, prin detaşare în condiţiile legii, a funcţiei publice de subprefect al judeţului Dolj de către doamna Moise Simona | [`hg/2015/731/`](hg/2015/731/) | in force | 1 | 2015-09-10 | 2015-09-10 |
+| Hotărârea Guvernului nr. 732/2015 privind încetarea exercitării, cu caracter temporar, prin detaşare în condiţiile legii, a funcţiei publice de subprefect al judeţului Braşov de către domnul Romer Ambrus Sandor Mihaly | [`hg/2015/732/`](hg/2015/732/) | in force | 1 | 2015-09-10 | 2015-09-10 |
+| Hotărârea Guvernului nr. 733/2015 privind acordarea unei sume destinate decontării cheltuielilor pentru achiziţionarea de manuale şcolare de către elevii aflaţi în anul şcolar 2015-2016 în ciclul superior al învăţământului liceal de stat | [`hg/2015/733/`](hg/2015/733/) | in force | 1 | 2015-09-10 | 2015-09-10 |
+| Hotărârea Guvernului nr. 734/2015 privind suplimentarea bugetului Ministerului Afacerilor Interne pe anul 2015 din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2015, pentru achiziţia de octoxid de uraniu | [`hg/2015/734/`](hg/2015/734/) | in force | 1 | 2015-09-14 | 2015-09-14 |
+| Hotărârea Guvernului nr. 735/2015 privind transmiterea unor imobile aflate în proprietatea publică a statului din administrarea Autorităţii de Supraveghere Financiară în administrarea Agenţiei Naţionale pentru Achiziţii Publice | [`hg/2015/735/`](hg/2015/735/) | in force | 1 | 2015-09-11 | 2015-09-11 |
+| Hotărârea Guvernului nr. 737/2015 privind aprobarea Planului de ocupare a funcţiilor publice din cadrul autorităţilor şi instituţiilor publice din administraţia publică centrală pentru anul 2015 | [`hg/2015/737/`](hg/2015/737/) | amending act | 1 | 2015-09-14 | 2015-09-14 |
+| Hotărârea Guvernului nr. 738/2015 privind actualizarea valorilor de inventar ale unor bunuri imobile aflate în domeniul public al statului şi în administrarea Administraţiei Naţionale "Apele Române" - Administraţia Bazinală de Apă Siret, instituţie publică aflată în coordonarea Ministerului Mediului, Apelor şi Pădurilor, prevăzute în anexa nr. 12 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului, ca urmare a reevaluării | [`hg/2015/738/`](hg/2015/738/) | amending act | 1 | 2015-09-18 | 2015-09-18 |
 | Hotărârea Guvernului nr. 739/2015 privind actualizarea valorilor de inventar ale unor bunuri imobile aflate în domeniul public al statului şi în administrarea Administraţiei Naţionale "Apele Române" - Administraţia Bazinală de Apă Mureş, instituţie publică aflată în coordonarea Ministerului Mediului, Apelor şi Pădurilor, prevăzute în anexa nr. 12 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului, ca urmare a reevaluării | [`hg/2015/739/`](hg/2015/739/) | amending act | 1 | 2015-09-28 | 2015-09-28 |
 | Hotărârea Guvernului nr. 740/2015 privind modificarea datelor de identificare a unui imobil aflat în domeniul public al statului şi transmiterea acestuia din domeniul public al statului şi administrarea Tribunalului Tulcea în domeniul public al municipiului Tulcea, judeţul Tulcea | [`hg/2015/740/`](hg/2015/740/) | amending act | 1 | 2015-09-14 | 2015-09-14 |
 | Hotărârea Guvernului nr. 742/2015 privind alocarea de la bugetul de stat a fondurilor necesare pentru finalizarea proiectelor PHARE pentru care Ministerul Fondurilor Europene are rolul de autoritate de implementare | [`hg/2015/742/`](hg/2015/742/) | in force | 1 | 2015-09-15 | 2015-09-15 |
