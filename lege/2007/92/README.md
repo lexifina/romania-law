@@ -69,5 +69,27 @@ Act id: `legea-92-2007` (tags `legea-92-2007/<day>`; `python tools/on.py <day> l
 - Legea nr. 92/2007: the first version is the law as published in Monitorul Oficial nr. 262 of 19 April 2007 (DetaliiDocumentAfis/81267), dated 22 April 2007: its art. 50 puts it in force 3 days after publication. The portal holds no consolidated form before 13 April 2010, so the changes made up to then arrive together that day.
 - Legea nr. 92/2007: the signature block after the last article (the signatories, the place, the date and the number) is not part of an article and is left out, as in every act of this record.
 - Legea nr. 92/2007: wording changes between forms that no note credits (typesetting, diacritics, misprints, renamed bodies) are the publisher's: no law is credited for them and each is dated by the first form that shows it.
+- Legea nr. 92/2007: the form of 4 April 2020 prints again the text the law had before Ordonanța de urgență nr. 51/2019 in 14 articles; its notes give the reason: Legea nr. 34/2020 (Monitorul Oficial nr. 271 of 1 April 2020) rejects that ordinance, as a law rejecting an ordinance explains the return; credited to Legea nr. 34/2020 (flag form_credits).
+- Legea nr. 92/2007: the first consolidated form, of 13 April 2010, prints art. 4 changed with no note at the article; the form's notes and header name Ordonanța de urgență nr. 34/2010 (12 April 2010) as the act that changed this law that month, so the change is credited to it (flag form_credits).
 - Legea nr. 92/2007: the portal editorial notes printed as paragraphs of an article (on a Constitutional Court ruling, a rectification, a provision put back in force) are not text: 1 such paragraphs across all forms, for example «Conform art. IV din ORDONANȚA DE URGENȚĂ nr. 34 din 12 april».
-- Legea nr. 92/2007: 45 changed article(s) with no note naming a law, committed as the publisher's: 2010-04-13 art-004, 2012-01-13 art-019, 2012-01-13 art-035, 2017-10-05 art-017, 2018-10-09 art-020, 2019-06-28 art-015, 2019-06-28 art-019, 2019-06-28 art-024, 2019-06-28 art-031, 2019-06-28 art-032, 2019-06-28 art-034, 2019-06-28 art-036, 2020-04-04 art-001, 2020-04-04 art-002, 2020-04-04 art-003, 2020-04-04 art-004, 2020-04-04 art-012, 2020-04-04 art-014, 2020-04-04 art-015, 2020-04-04 art-016, 2020-04-04 art-017, 2020-04-04 art-018, 2020-04-04 art-019, 2020-04-04 art-020, 2020-04-04 art-021, 2020-04-04 art-022, 2020-04-04 art-023-1, 2020-04-04 art-024, 2020-04-04 art-028, 2020-04-04 art-029, 2020-04-04 art-030, 2020-04-04 art-032, 2020-04-04 art-033, 2020-04-04 art-034, 2020-04-04 art-035, 2020-04-04 art-036, 2020-04-04 art-037, 2020-04-04 art-038, 2020-04-04 art-039, 2020-04-04 art-040, 2020-04-04 art-041, 2020-04-04 art-042, 2020-04-04 art-043, 2020-04-04 art-045, 2020-04-04 art-048.
+- Legea nr. 92/2007: 30 changed article(s) with no note naming a law, committed as the publisher's: 2012-01-13 art-019, 2012-01-13 art-035, 2017-10-05 art-017, 2018-10-09 art-020, 2019-06-28 art-015, 2019-06-28 art-019, 2019-06-28 art-024, 2019-06-28 art-031, 2019-06-28 art-032, 2019-06-28 art-034, 2019-06-28 art-036, 2020-04-04 art-002, 2020-04-04 art-003, 2020-04-04 art-014, 2020-04-04 art-015, 2020-04-04 art-018, 2020-04-04 art-019, 2020-04-04 art-022, 2020-04-04 art-023-1, 2020-04-04 art-024, 2020-04-04 art-028, 2020-04-04 art-029, 2020-04-04 art-032, 2020-04-04 art-034, 2020-04-04 art-036, 2020-04-04 art-038, 2020-04-04 art-040, 2020-04-04 art-041, 2020-04-04 art-042, 2020-04-04 art-048.
+
+## Credits corrected
+
+These changes were first published credited to another law. The words are unchanged; `git blame` still names the commit that wrote them, and `data/credits.csv` lists every corrected credit.
+
+- `art-004.md`, in force from 2010-04-13: OUG nr. 34/2010 (first published as no law named).
+- `art-001.md`, in force from 2020-04-04: Legea nr. 34/2020 (first published as no law named).
+- `art-004.md`, in force from 2020-04-04: Legea nr. 34/2020 (first published as no law named).
+- `art-012.md`, in force from 2020-04-04: Legea nr. 34/2020 (first published as no law named).
+- `art-016.md`, in force from 2020-04-04: Legea nr. 34/2020 (first published as no law named).
+- `art-017.md`, in force from 2020-04-04: Legea nr. 34/2020 (first published as no law named).
+- `art-020.md`, in force from 2020-04-04: Legea nr. 34/2020 (first published as no law named).
+- `art-021.md`, in force from 2020-04-04: Legea nr. 34/2020 (first published as no law named).
+- `art-030.md`, in force from 2020-04-04: Legea nr. 34/2020 (first published as no law named).
+- `art-033.md`, in force from 2020-04-04: Legea nr. 34/2020 (first published as no law named).
+- `art-035.md`, in force from 2020-04-04: Legea nr. 34/2020 (first published as no law named).
+- `art-037.md`, in force from 2020-04-04: Legea nr. 34/2020 (first published as no law named).
+- `art-039.md`, in force from 2020-04-04: Legea nr. 34/2020 (first published as no law named).
+- `art-043.md`, in force from 2020-04-04: Legea nr. 34/2020 (first published as no law named).
+- `art-045.md`, in force from 2020-04-04: Legea nr. 34/2020 (first published as no law named).
