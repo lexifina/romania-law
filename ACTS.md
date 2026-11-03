@@ -1,6 +1,6 @@
 # Every act in this repository
 
-15017 acts, 28,637 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+15018 acts, 28,638 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -4855,7 +4855,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (10171, of which 4699 amending acts)
+## Government decisions (HG) (10172, of which 4700 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -8815,6 +8815,7 @@
 | Hotărârea Guvernului nr. 278/2019 privind organizarea și desfășurarea referendumului național din data de 26 mai 2019, precum și pentru modificarea Hotărârii Guvernului nr. 100/2019 pentru aprobarea bugetului și a cheltuielilor necesare pentru pregătirea, organizarea și desfășurarea alegerilor pentru membrii din România în Parlamentul European din anul 2019 | [`hg/2019/278/`](hg/2019/278/) | amending act | 1 | 2019-05-09 | 2019-05-09 |
 | Hotărârea Guvernului nr. 308/2019 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2019 al Companiei Naționale de Investiții "C.N.I." - S.A., aflată sub autoritatea Ministerului Dezvoltării Regionale și Administrației Publice | [`hg/2019/308/`](hg/2019/308/) | amending act | 1 | 2019-05-27 | 2019-05-27 |
 | Hotărârea Guvernului nr. 309/2019 privind aprobarea stemei oraşului Râşnov, judeţul Braşov | [`hg/2019/309/`](hg/2019/309/) | amending act | 1 | 2019-06-05 | 2019-06-05 |
+| Hotărârea Guvernului nr. 316/2019 pentru aprobarea listei terenurilor agricole situate în extravilan pentru proiectul de importanţă naţională în domeniul gazelor naturale "Dezvoltarea capacităţii Sistemului Naţional de Transport în vederea asigurării fluxului de gaze naturale pe direcţia România-Republica Moldova" | [`hg/2019/316/`](hg/2019/316/) | amending act | 1 | 2019-05-30 | 2019-05-30 |
 | Hotărârea Guvernului nr. 317/2019 pentru modificarea anexei la Hotărârea Guvernului nr. 798/2016 privind aprobarea programului de interes naţional în domeniul protecţiei şi promovării drepturilor persoanelor cu dizabilităţi "Înfiinţarea de servicii sociale de tip centre de zi, centre respiro/centre de criză şi locuinţe protejate în vederea dezinstituţionalizării persoanelor cu dizabilităţi aflate în instituţii de tip vechi şi pentru prevenirea instituţionalizării persoanelor cu dizabilităţi din comunitate" şi pentru modificarea anexei la Hotărârea Guvernului nr. 193/2018 privind aprobarea programului de interes naţional în domeniul protecţiei şi promovării drepturilor persoanelor cu dizabilităţi "Înfiinţarea de servicii sociale în vederea asigurării tranziţiei tinerilor cu dizabilităţi de la sistemul de protecţie specială a copilului către sistemul de protecţie a persoanelor adulte cu dizabilităţi" | [`hg/2019/317/`](hg/2019/317/) | amending act | 1 | 2019-05-29 | 2019-05-29 |
 | Hotărârea Guvernului nr. 318/2019 privind domeniile şi programele de studii universitare de master acreditate şi numărul maxim de studenţi ce pot fi şcolarizaţi în anul universitar 2019-2020 | [`hg/2019/318/`](hg/2019/318/) | in force | 2 | 2019-06-20 | 2019-09-04 |
 | Hotărârea Guvernului nr. 320/2019 privind actualizarea valorii de inventar a unor imobile aflate în domeniul public al statului şi administrarea Instituţiei Prefectului - Judeţul Vâlcea din subordinea Ministerului Afacerilor Interne | [`hg/2019/320/`](hg/2019/320/) | in force | 1 | 2019-05-30 | 2019-05-30 |
