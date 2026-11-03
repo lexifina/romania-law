@@ -102284,6 +102284,21 @@
    ]
   },
   {
+   "slug": "hg-1030-2007",
+   "path": "hg/2007/1030",
+   "short": "HG nr. 1030/2007",
+   "title": "Hotărârea Guvernului nr. 1030/2007 privind aprobarea stemei oraşului Luduş, judeţul Mureş",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/85172",
+   "versions": [
+    {
+     "from": "2007-09-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85172",
+     "sha256": "54aef7fc41e4175c7becd86872192adda681207e6144d9f96535e566fe643b82"
+    }
+   ]
+  },
+  {
    "slug": "hg-1030-2020",
    "path": "hg/2020/1030",
    "short": "HG nr. 1030/2020",

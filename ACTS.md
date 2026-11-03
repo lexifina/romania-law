@@ -1,6 +1,6 @@
 # Every act in this repository
 
-14607 acts, 28,196 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+14608 acts, 28,197 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -4808,7 +4808,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (9808, of which 4514 amending acts)
+## Government decisions (HG) (9809, of which 4515 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -6082,6 +6082,7 @@
 | Hotărârea Guvernului nr. 1027/2007 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii "Spitalul Orăşenesc Iernut", judeţul Mureş | [`hg/2007/1027/`](hg/2007/1027/) | amending act | 1 | 2007-09-03 | 2007-09-03 |
 | Hotărârea Guvernului nr. 1028/2007 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii "Spitalul Comunal Gurghiu", judeţul Mureş | [`hg/2007/1028/`](hg/2007/1028/) | amending act | 1 | 2007-09-03 | 2007-09-03 |
 | Hotărârea Guvernului nr. 1029/2007 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii "Spitalul Comunal Deda", judeţul Mureş | [`hg/2007/1029/`](hg/2007/1029/) | amending act | 1 | 2007-09-03 | 2007-09-03 |
+| Hotărârea Guvernului nr. 1030/2007 privind aprobarea stemei oraşului Luduş, judeţul Mureş | [`hg/2007/1030/`](hg/2007/1030/) | amending act | 1 | 2007-09-06 | 2007-09-06 |
 | Hotărârea Guvernului nr. 1035/2007 privind trecerea domnului Bălu Marius din funcţia publică de prefect al judeţului Mehedinţi în funcţia publică de subprefect al judeţului Mehedinţi, pe durata suspendării din funcţie a titularului postului | [`hg/2007/1035/`](hg/2007/1035/) | in force | 1 | 2007-09-03 | 2007-09-03 |
 | Hotărârea Guvernului nr. 1036/2007 privind exercitarea, cu caracter temporar, a funcţiei publice de prefect al judeţului Mehedinţi de către domnul Bâzoi Sevastian | [`hg/2007/1036/`](hg/2007/1036/) | in force | 1 | 2007-09-03 | 2007-09-03 |
 | Hotărârea Guvernului nr. 1037/2007 privind trecerea domnului Oprea Ion din funcţia publică de prefect al judeţului Vrancea în funcţia publică de subprefect al judeţului Vrancea | [`hg/2007/1037/`](hg/2007/1037/) | in force | 1 | 2007-09-03 | 2007-09-03 |
