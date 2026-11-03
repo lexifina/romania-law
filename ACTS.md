@@ -1,6 +1,6 @@
 # Every act in this repository
 
-5900 acts, 16,611 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+5904 acts, 16,633 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -32,7 +32,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (1718, of which 639 amending acts)
+## Laws (legi) (1721, of which 640 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -73,6 +73,7 @@
 | Legea nr. 60/1991 privind organizarea și desfășurarea adunărilor publice | [`lege/1991/60/`](lege/1991/60/) | in force | 5 | 1991-09-25 | 2021-10-11 |
 | Legea nr. 61/1991 pentru sancționarea faptelor de încălcare a unor norme de conviețuire socială, a ordinii și liniștii publice | [`lege/1991/61/`](lege/1991/61/) | in force | 21 | 1991-09-27 | 2026-06-13 |
 | Legea nr. 64/1991 privind brevetele de invenție | [`lege/1991/64/`](lege/1991/64/) | in force | 14 | 2002-10-15 | 2024-06-27 |
+| Legea nr. 70/1991 | [`lege/1991/70/`](lege/1991/70/) | in force | 4 | 1991-11-28 | 2003-09-15 |
 | Legea nr. 77/1991 | [`lege/1991/77/`](lege/1991/77/) | in force | 1 | 1991-12-20 | 1991-12-20 |
 | Legea nr. 81/1991 | [`lege/1991/81/`](lege/1991/81/) | in force | 1 | 1991-12-31 | 1991-12-31 |
 | Legea contabilității nr. 82/1991 | [`lege/1991/82/`](lege/1991/82/) | in force | 25 | 1992-01-01 | 2025-02-04 |
@@ -898,6 +899,7 @@
 | Legea nr. 158/2015 | [`lege/2015/158/`](lege/2015/158/) | in force | 1 | 2015-06-26 | 2015-06-26 |
 | Legea nr. 159/2015 | [`lege/2015/159/`](lege/2015/159/) | in force | 1 | 2015-06-26 | 2015-06-26 |
 | Legea nr. 173/2015 | [`lege/2015/173/`](lege/2015/173/) | in force | 2 | 2015-07-04 | 2015-07-31 |
+| Legea nr. 177/2015 | [`lege/2015/177/`](lege/2015/177/) | in force | 2 | 2015-08-31 | 2016-08-31 |
 | Legea nr. 180/2015 | [`lege/2015/180/`](lege/2015/180/) | in force | 1 | 2015-07-04 | 2015-07-04 |
 | Legea nr. 187/2015 | [`lege/2015/187/`](lege/2015/187/) | in force | 2 | 2015-07-10 | 2015-08-06 |
 | Legea nr. 191/2015 | [`lege/2015/191/`](lege/2015/191/) | in force | 1 | 2015-07-09 | 2015-07-09 |
@@ -1217,6 +1219,7 @@
 | Legea nr. 106/2020 privind modificarea și completarea Legii nr. 217/2003 pentru prevenirea și combaterea violenței domestice | [`lege/2020/106/`](lege/2020/106/) | amending act | 1 | 2020-07-09 | 2020-07-09 |
 | Legea nr. 108/2020 privind modificarea și completarea Legii nr. 129/2019 pentru prevenirea și combaterea spălării banilor și finanțării terorismului, precum și pentru modificarea și completarea unor acte normative | [`lege/2020/108/`](lege/2020/108/) | amending act | 1 | 2020-07-09 | 2020-07-09 |
 | Legea nr. 109/2020 pentru completarea Legii educației naționale nr. 1/2011 | [`lege/2020/109/`](lege/2020/109/) | amending act | 1 | 2020-07-09 | 2020-07-09 |
+| Legea nr. 112/2020 pentru modificarea și completarea Legii nr. 84/1998 privind mărcile și indicațiile geografice | [`lege/2020/112/`](lege/2020/112/) | amending act | 2 | 2020-07-12 | 2020-07-30 |
 | Legea nr. 113/2020 privind aprobarea Ordonanței de urgență a Guvernului nr. 88/2018 pentru modificarea și completarea unor acte normative în domeniul insolvenței și a altor acte normative | [`lege/2020/113/`](lege/2020/113/) | amending act | 1 | 2020-07-11 | 2020-07-11 |
 | Legea nr. 114/2020 privind aprobarea Ordonanței de urgență a Guvernului nr. 90/2020 pentru modificarea Ordonanței Guvernului nr. 6/2019 privind instituirea unor facilități fiscale, precum și pentru modificarea altor acte normative | [`lege/2020/114/`](lege/2020/114/) | amending act | 1 | 2020-07-11 | 2020-07-11 |
 | Legea nr. 122/2020 pentru modificarea și completarea Legii apelor nr. 107/1996 | [`lege/2020/122/`](lege/2020/122/) | amending act | 3 | 2020-07-16 | 2023-06-12 |
@@ -1755,7 +1758,7 @@
 | Legea nr. 241/2025 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 31/2002 privind interzicerea organizațiilor, simbolurilor și faptelor cu caracter fascist, legionar, rasist sau xenofob și a promovării cultului persoanelor vinovate de săvârșirea unor infracțiuni de genocid contra umanității și de crime de război, precum și pentru modificarea Legii nr. 157/2018 privind unele măsuri pentru prevenirea și combaterea antisemitismului | [`lege/2025/241/`](lege/2025/241/) | amending act | 1 | 2025-12-27 | 2025-12-27 |
 | Legea nr. 245/2025 pentru modificarea art. 32 alin. (7) din Legea nr. 273/2006 privind finanțele publice locale | [`lege/2025/245/`](lege/2025/245/) | amending act | 1 | 2026-01-01 | 2026-01-01 |
 
-## Emergency ordinances (OUG) (1429, of which 517 amending acts)
+## Emergency ordinances (OUG) (1430, of which 517 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -2180,6 +2183,7 @@
 | Ordonanța de urgență a Guvernului nr. 22/2009 | [`oug/2009/22/`](oug/2009/22/) | in force | 13 | 2009-03-19 | 2022-07-10 |
 | Ordonanța de urgență a Guvernului nr. 25/2009 | [`oug/2009/25/`](oug/2009/25/) | in force | 2 | 2009-03-23 | 2009-07-16 |
 | Ordonanța de urgență a Guvernului nr. 33/2009 | [`oug/2009/33/`](oug/2009/33/) | in force | 2 | 2009-04-07 | 2009-10-04 |
+| Ordonanța de urgență a Guvernului nr. 34/2009 | [`oug/2009/34/`](oug/2009/34/) | in force | 14 | 2009-04-14 | 2015-10-28 |
 | Ordonanța de urgență a Guvernului nr. 36/2009 | [`oug/2009/36/`](oug/2009/36/) | in force | 2 | 2009-04-21 | 2009-11-19 |
 | Ordonanța de urgență a Guvernului nr. 40/2009 | [`oug/2009/40/`](oug/2009/40/) | in force | 2 | 2009-04-30 | 2009-12-25 |
 | Ordonanța de urgență a Guvernului nr. 43/2009 | [`oug/2009/43/`](oug/2009/43/) | in force | 2 | 2009-05-19 | 2010-04-09 |
