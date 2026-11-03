@@ -1,6 +1,6 @@
 # Every act in this repository
 
-11781 acts, 25,355 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+11800 acts, 25,374 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -4516,7 +4516,7 @@
 | Ordonanța Guvernului nr. 21/2025 pentru modificarea și completarea Legii nr. 431/2023 privind asigurarea unui nivel minim global de impozitare a grupurilor de întreprinderi multinaționale și a grupurilor naționale de mari dimensiuni | [`og/2025/21/`](og/2025/21/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 | Ordonanța Guvernului nr. 22/2025 pentru modificarea și completarea Legii nr. 227/2015 privind Codul fiscal | [`og/2025/22/`](og/2025/22/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 
-## Government decisions (HG) (7273, of which 3155 amending acts)
+## Government decisions (HG) (7292, of which 3160 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -6519,6 +6519,10 @@
 | Hotărârea Guvernului nr. 19/2020 privind încetarea exercitării, cu caracter temporar, prin detașare în condițiile legii, a funcției publice de subprefect al județului Vrancea de către doamna Stoica Cristina | [`hg/2020/19/`](hg/2020/19/) | in force | 1 | 2020-01-17 | 2020-01-17 |
 | Hotărârea Guvernului nr. 20/2020 privind încetarea exercitării, cu caracter temporar, prin detașare în condițiile legii, a funcției publice de subprefect al municipiului București de către domnul Cîrstea Corneliu | [`hg/2020/20/`](hg/2020/20/) | in force | 1 | 2020-01-17 | 2020-01-17 |
 | Hotărârea Guvernului nr. 24/2020 privind organizarea și funcționarea Ministerului Educației și Cercetării | [`hg/2020/24/`](hg/2020/24/) | in force | 2 | 2020-01-20 | 2020-09-14 |
+| Hotărârea Guvernului nr. 26/2020 pentru aprobarea amendamentului convenit prin schimbul de scrisori semnate la Bucureşti la 27 iunie 2019 şi la Paris la 26 iulie 2019 între Guvernul României şi Banca de Dezvoltare a Consiliului Europei la Acordul-cadru de împrumut dintre România şi Banca de Dezvoltare a Consiliului Europei, semnat la 12 iulie 2007 la Bucureşti şi la 26 iulie 2007 la Paris, pentru finanţarea proiectului "Reforma educaţiei timpurii în România" | [`hg/2020/26/`](hg/2020/26/) | amending act | 1 | 2020-01-20 | 2020-01-20 |
+| Hotărârea Guvernului nr. 29/2020 privind modificarea anexei nr. 16 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului | [`hg/2020/29/`](hg/2020/29/) | amending act | 1 | 2020-01-21 | 2020-01-21 |
+| Hotărârea Guvernului nr. 33/2020 pentru aprobarea plafoanelor alocate ajutoarelor naţionale tranzitorii în sectoarele vegetal şi zootehnic pentru anul de cerere 2019 | [`hg/2020/33/`](hg/2020/33/) | amending act | 1 | 2020-01-20 | 2020-01-20 |
+| Hotărârea Guvernului nr. 34/2020 pentru aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii "Locuinţe pentru tineri, destinate închirierii, judeţul Sibiu, municipiul Mediaş, str. Gheorghe Lazăr fn" | [`hg/2020/34/`](hg/2020/34/) | amending act | 1 | 2020-01-21 | 2020-01-21 |
 | Hotărârea Guvernului nr. 35/2020 privind aprobarea modelului steagului orașului Vișeu de Sus, județul Maramureș | [`hg/2020/35/`](hg/2020/35/) | amending act | 1 | 2020-01-27 | 2020-01-27 |
 | Hotărârea Guvernului nr. 36/2020 privind aprobarea stemei comunei Biertan, județul Sibiu | [`hg/2020/36/`](hg/2020/36/) | amending act | 1 | 2020-01-27 | 2020-01-27 |
 | Hotărârea Guvernului nr. 37/2020 privind aprobarea stemei comunei Scăești, județul Dolj | [`hg/2020/37/`](hg/2020/37/) | amending act | 1 | 2020-01-27 | 2020-01-27 |
@@ -6530,9 +6534,24 @@
 | Hotărârea Guvernului nr. 43/2020 privind organizarea și funcționarea Ministerului Mediului, Apelor și Pădurilor | [`hg/2020/43/`](hg/2020/43/) | in force | 7 | 2020-01-28 | 2025-04-07 |
 | Hotărârea Guvernului nr. 44/2020 privind organizarea și funcționarea Ministerului Economiei, Energiei și Mediului de Afaceri | [`hg/2020/44/`](hg/2020/44/) | in force | 3 | 2020-01-31 | 2020-06-30 |
 | Hotărârea Guvernului nr. 46/2020 pentru stabilirea drepturilor de diurnă, cazare, hrană, facilitarea legăturii cu familia, recreere și transport ale personalului militar și civil participant la misiuni și operații în afara teritoriului statului român | [`hg/2020/46/`](hg/2020/46/) | in force | 1 | 2020-01-27 | 2020-01-27 |
+| Hotărârea Guvernului nr. 47/2020 pentru abrogarea art. 3 din Hotărârea Guvernului nr. 454/2018 privind rechemarea şi numirea unui consul general | [`hg/2020/47/`](hg/2020/47/) | amending act | 1 | 2020-01-29 | 2020-01-29 |
 | Hotărârea Guvernului nr. 48/2020 privind încetarea exercitării, cu caracter temporar, în condiţiile legii, a funcţiei publice de prefect al judeţului Caraş-Severin de către doamna Albu Florenţa-Maria | [`hg/2020/48/`](hg/2020/48/) | in force | 1 | 2020-01-29 | 2020-01-29 |
 | Hotărârea Guvernului nr. 49/2020 privind încetarea exercitării, cu caracter temporar, în condiţiile legii, a funcţiei publice de subprefect al judeţului Olt de către domnul Dumitru Florin | [`hg/2020/49/`](hg/2020/49/) | in force | 1 | 2020-01-29 | 2020-01-29 |
 | Hotărârea Guvernului nr. 50/2020 privind exercitarea, cu caracter temporar, în condiţiile legii, a funcţiei publice de prefect al judeţului Caraş-Severin de către domnul Gâfu Cristian | [`hg/2020/50/`](hg/2020/50/) | in force | 1 | 2020-01-29 | 2020-01-29 |
+| Hotărârea Guvernului nr. 51/2020 privind exercitarea, cu caracter temporar, în condiţiile legii, a funcţiei publice de subprefect al judeţului Alba de către doamna Rof Ioana-Diane | [`hg/2020/51/`](hg/2020/51/) | in force | 1 | 2020-01-29 | 2020-01-29 |
+| Hotărârea Guvernului nr. 53/2020 privind exercitarea, cu caracter temporar, în condiţiile legii, a funcţiei publice de subprefect al judeţului Bacău de către domnul Dragu Emil-Dragoş | [`hg/2020/53/`](hg/2020/53/) | in force | 1 | 2020-01-29 | 2020-01-29 |
+| Hotărârea Guvernului nr. 54/2020 privind exercitarea, cu caracter temporar, în condiţiile legii, a funcţiei publice de subprefect al judeţului Bihor de către domnul Carţiş Horia-Laurenţiu | [`hg/2020/54/`](hg/2020/54/) | in force | 1 | 2020-01-29 | 2020-01-29 |
+| Hotărârea Guvernului nr. 56/2020 privind exercitarea, cu caracter temporar, în condiţiile legii, a funcţiei publice de subprefect al judeţului Caraş-Severin de către doamna Sărăor Elena-Adriana | [`hg/2020/56/`](hg/2020/56/) | in force | 1 | 2020-01-29 | 2020-01-29 |
+| Hotărârea Guvernului nr. 57/2020 privind exercitarea, cu caracter temporar, în condiţiile legii, a funcţiei publice de subprefect al judeţului Caraş-Severin de către domnul Paulescu Ioan-Anton | [`hg/2020/57/`](hg/2020/57/) | in force | 1 | 2020-01-29 | 2020-01-29 |
+| Hotărârea Guvernului nr. 61/2020 privind exercitarea, cu caracter temporar, în condiţiile legii, a funcţiei publice de subprefect al judeţului Dolj de către doamna Dobrin Daniela | [`hg/2020/61/`](hg/2020/61/) | in force | 1 | 2020-01-29 | 2020-01-29 |
+| Hotărârea Guvernului nr. 62/2020 privind exercitarea, cu caracter temporar, în condiţiile legii, a funcţiei publice de subprefect al judeţului Galaţi de către doamna David Viorica | [`hg/2020/62/`](hg/2020/62/) | in force | 1 | 2020-01-29 | 2020-01-29 |
+| Hotărârea Guvernului nr. 63/2020 privind exercitarea, cu caracter temporar, în condiţiile legii, a funcţiei publice de subprefect al judeţului Gorj de către domnul Drăguşin Virgil | [`hg/2020/63/`](hg/2020/63/) | in force | 1 | 2020-01-29 | 2020-01-29 |
+| Hotărârea Guvernului nr. 64/2020 privind exercitarea, cu caracter temporar, prin detaşare în condiţiile legii, a funcţiei publice de subprefect al judeţului Hunedoara de către domnul Bretean Dorel-Ovidiu | [`hg/2020/64/`](hg/2020/64/) | in force | 1 | 2020-01-29 | 2020-01-29 |
+| Hotărârea Guvernului nr. 65/2020 privind exercitarea, cu caracter temporar, în condiţiile legii, a funcţiei publice de subprefect al judeţului Ilfov de către domnul Enache Anghel | [`hg/2020/65/`](hg/2020/65/) | in force | 1 | 2020-01-29 | 2020-01-29 |
+| Hotărârea Guvernului nr. 66/2020 privind exercitarea, cu caracter temporar, în condiţiile legii, a funcţiei publice de subprefect al judeţului Olt de către domnul Hristescu Nicolae | [`hg/2020/66/`](hg/2020/66/) | in force | 1 | 2020-01-29 | 2020-01-29 |
+| Hotărârea Guvernului nr. 67/2020 privind exercitarea, cu caracter temporar, în condiţiile legii, a funcţiei publice de subprefect al judeţului Prahova de către domnul Brezoi Constantin-George | [`hg/2020/67/`](hg/2020/67/) | in force | 1 | 2020-01-29 | 2020-01-29 |
+| Hotărârea Guvernului nr. 68/2020 privind exercitarea, cu caracter temporar, în condiţiile legii, a funcţiei publice de subprefect al judeţului Suceava de către domnul Prorociuc Daniel | [`hg/2020/68/`](hg/2020/68/) | in force | 1 | 2020-01-29 | 2020-01-29 |
+| Hotărârea Guvernului nr. 71/2020 privind exercitarea, cu caracter temporar, în condiţiile legii, a funcţiei publice de subprefect al judeţului Timiş de către doamna Popa Elena | [`hg/2020/71/`](hg/2020/71/) | in force | 1 | 2020-01-29 | 2020-01-29 |
 | Hotărârea Guvernului nr. 76/2020 pentru completarea art. 10 din Hotărârea Guvernului nr. 1.174/2014 privind instituirea unei scheme de ajutor de stat pentru reducerea accizei la motorina utilizată în agricultură | [`hg/2020/76/`](hg/2020/76/) | amending act | 1 | 2020-01-30 | 2020-01-30 |
 | Hotărârea Guvernului nr. 78/2020 pentru aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii "Clădiri administrative şi bază sportivă în cazarma 914 Bucureşti" | [`hg/2020/78/`](hg/2020/78/) | amending act | 1 | 2020-02-03 | 2020-02-03 |
 | Hotărârea Guvernului nr. 79/2020 pentru aprobarea plăţii contribuţiei financiare voluntare a României, pentru anul 2018, necesare funcţionării Secretariatului Organismului de coordonare al Acordului multilateral al autorităţilor competente privind schimbul de rapoarte pentru fiecare ţară în parte | [`hg/2020/79/`](hg/2020/79/) | amending act | 1 | 2020-01-31 | 2020-01-31 |
