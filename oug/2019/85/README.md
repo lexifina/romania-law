@@ -17,6 +17,11 @@ Act id: `oug-85-2019` (tags `oug-85-2019/<day>`; `python tools/on.py <day> oug-8
 - OUG nr. 85/2019: the first version is the emergency ordinance as published in Monitorul Oficial nr. 1053 of 30 December 2019 (DetaliiDocumentAfis/221747), dated 30 December 2019: an emergency ordinance with no day of its own, in force on publication (Constituția art. 115 alin. (5); Legea nr. 24/2000 art. 12 alin. (2)). The portal holds no consolidated form before 18 May 2020, so the changes made up to then arrive together that day.
 - OUG nr. 85/2019: the emergency ordinance has a single article ("Articol unic"), filed as art-001.
 - OUG nr. 85/2019: a later form prints its articles as "Articolul I", "Articolul II", ..., after a law rewrote the single article and added others (the forms' notes name it); Articolul I continues art-001 and each further article is filed by its value (art-002 for Articolul II).
-- OUG nr. 85/2019: the form of 2020-05-18 prints another text for art. 1 with no note and no amending act identified (wording changed with no note): the printed text is kept, dated by the first form that shows it, and no law is credited.
-- OUG nr. 85/2019: the form of 2020-05-18 prints art. 2, which the earlier form does not print with no note and no amending act identified (wording changed with no note): the printed text is kept, dated by the first form that shows it, and no law is credited.
-- OUG nr. 85/2019: 2 changed article(s) with no note naming a law, committed as the publisher's: 2020-05-18 art-001, 2020-05-18 art-002.
+- OUG nr. 85/2019: the form of 18 May 2020 (portal page 225624) prints the text as approved by Legea nr. 53/2020 (portal page 225616; Monitorul Oficial nr. 396 of 15 May 2020), whose sole article approves the ordinance "cu următoarele modificări" and gives it a new text; the act is read as published and the change in arts. 1 and 2 is credited to it.
+
+## Credits corrected
+
+These changes were first published credited to another law. The words are unchanged; `git blame` still names the commit that wrote them, and `data/credits.csv` lists every corrected credit.
+
+- `art-001.md`, in force from 2020-05-18: Legea nr. 53/2020 (first published as no law named).
+- `art-002.md`, in force from 2020-05-18: Legea nr. 53/2020 (first published as no law named).
