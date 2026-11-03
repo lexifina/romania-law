@@ -1,6 +1,6 @@
 # Every act in this repository
 
-11692 acts, 25,266 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+11693 acts, 25,267 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -4514,7 +4514,7 @@
 | Ordonanța Guvernului nr. 21/2025 pentru modificarea și completarea Legii nr. 431/2023 privind asigurarea unui nivel minim global de impozitare a grupurilor de întreprinderi multinaționale și a grupurilor naționale de mari dimensiuni | [`og/2025/21/`](og/2025/21/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 | Ordonanța Guvernului nr. 22/2025 pentru modificarea și completarea Legii nr. 227/2015 privind Codul fiscal | [`og/2025/22/`](og/2025/22/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 
-## Government decisions (HG) (7186, of which 3108 amending acts)
+## Government decisions (HG) (7187, of which 3109 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -9398,6 +9398,7 @@
 | Hotărârea Guvernului nr. 538/2023 privind actualizarea valorii de inventar a bunurilor imobile aflate în domeniul public al statului şi în administrarea Oficiului de Cadastru şi Publicitate Imobiliară Giurgiu | [`hg/2023/538/`](hg/2023/538/) | in force | 1 | 2023-06-12 | 2023-06-12 |
 | Hotărârea Guvernului nr. 539/2023 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2023, pentru unele unităţi administrativ-teritoriale | [`hg/2023/539/`](hg/2023/539/) | in force | 1 | 2023-06-08 | 2023-06-08 |
 | Hotărârea Guvernului nr. 540/2023 pentru modificarea pct. VII subpct. 1 din anexa la Hotărârea Guvernului nr. 403/2023 privind aprobarea cifrelor de şcolarizare pentru învăţământul preuniversitar de stat şi pentru învăţământul superior de stat în anul şcolar/universitar 2023-2024 | [`hg/2023/540/`](hg/2023/540/) | amending act | 1 | 2023-06-08 | 2023-06-08 |
+| Hotărârea Guvernului nr. 542/2023 pentru modificarea şi completarea Regulamentului privind modelul uniformei de serviciu, însemnele distinctive şi accesoriile care însoţesc portul acesteia, durata normată de utilizare, condiţiile de acordare şi personalul vamal care beneficiază de uniformă, aprobat prin Hotărârea Guvernului nr. 572/2019 | [`hg/2023/542/`](hg/2023/542/) | amending act | 1 | 2023-06-20 | 2023-06-20 |
 | Hotărârea Guvernului nr. 543/2023 pentru modificarea Hotărârii Guvernului nr. 369/2017 privind reorganizarea Institutului de Cercetare-Dezvoltare pentru Ecologie Acvatică, Pescuit și Acvacultură - Galați și modificarea anexei nr. 3 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului, pentru actualizarea denumirii, datelor de identificare, a valorilor de inventar și a adresei, după caz, ale bunurilor imobile aflate în domeniul public al statului și în administrarea Institutului de Cercetare-Dezvoltare pentru Ecologie Acvatică, Pescuit și Acvacultură - Galați, din subordinea Academiei de Științe Agricole și Silvice "Gheorghe Ionescu-Șișești", precum și pentru modificarea codului unic de înregistrare fiscală al institutului | [`hg/2023/543/`](hg/2023/543/) | amending act | 1 | 2023-06-12 | 2023-06-12 |
 | Hotărârea Guvernului nr. 545/2023 privind modificarea descrierii tehnice a unui bun aflat în domeniul public al statului, administrarea Ministerului Transporturilor şi Infrastructurii şi concesiunea Companiei Naţionale "Administraţia Porturilor Maritime" - S.A. Constanţa, ca urmare a unor dezmembrări din cartea funciară, precum şi trecerea unei părţi din acesta în domeniul public al comunei Limanu, judeţul Constanţa | [`hg/2023/545/`](hg/2023/545/) | amending act | 1 | 2023-06-13 | 2023-06-13 |
 | Hotărârea Guvernului nr. 546/2023 privind actualizarea anexei nr. 30 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului şi trecerea unei construcţii aflate în administrarea Ministerului Sportului, prin Complexul Sportiv Naţional "Lia Manoliu", din domeniul public al statului în domeniul privat al acestuia, în vederea scoaterii din funcţiune, casării şi demolării | [`hg/2023/546/`](hg/2023/546/) | amending act | 1 | 2023-06-14 | 2023-06-14 |
