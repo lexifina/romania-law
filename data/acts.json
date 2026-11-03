@@ -1838,6 +1838,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/8005"
 },
 {
+"slug": "legea-30-1996",
+"path": "lege/1996/30",
+"kind": "lege",
+"year": "1996",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 30/1996",
+"short": "Legea nr. 30/1996",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "1996-05-13",
+"latest": "1996-05-13",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/8100"
+},
+{
 "slug": "legea-61-1996",
 "path": "lege/1996/61",
 "kind": "lege",
@@ -7312,6 +7329,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/62337"
 },
 {
+"slug": "legea-217-2005",
+"path": "lege/2005/217",
+"kind": "lege",
+"year": "2005",
+"number": "217",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 217/2005",
+"short": "Legea nr. 217/2005",
+"code": null,
+"status": "in force",
+"versions": 5,
+"from": "2007-01-01",
+"latest": "2018-06-17",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/63291"
+},
+{
 "slug": "legea-240-2005",
 "path": "lege/2005/240",
 "kind": "lege",
@@ -8213,6 +8247,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/73550"
 },
 {
+"slug": "legea-307-2006",
+"path": "lege/2006/307",
+"kind": "lege",
+"year": "2006",
+"number": "307",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 307/2006",
+"short": "Legea nr. 307/2006",
+"code": null,
+"status": "in force",
+"versions": 13,
+"from": "2006-07-24",
+"latest": "2021-07-30",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/73657"
+},
+{
 "slug": "legea-319-2006",
 "path": "lege/2006/319",
 "kind": "lege",
@@ -8313,6 +8364,23 @@
 "from": "2006-08-04",
 "latest": "2006-08-04",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/73981"
+},
+{
+"slug": "legea-344-2006",
+"path": "lege/2006/344",
+"kind": "lege",
+"year": "2006",
+"number": "344",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 344/2006",
+"short": "Legea nr. 344/2006",
+"code": null,
+"status": "repealed 2017-05-20",
+"versions": 3,
+"from": "2007-01-01",
+"latest": "2017-05-20",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/73695"
 },
 {
 "slug": "legea-346-2006",
@@ -20045,6 +20113,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/234457"
 },
 {
+"slug": "legea-286-2020",
+"path": "lege/2020/286",
+"kind": "lege",
+"year": "2020",
+"number": "286",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 286/2020 pentru modificarea și completarea Legii nr. 273/2006 privind finanțele publice locale",
+"short": "Legea nr. 286/2020",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2020-12-12",
+"latest": "2020-12-12",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/234459"
+},
+{
 "slug": "legea-287-2020",
 "path": "lege/2020/287",
 "kind": "lege",
@@ -25857,6 +25942,23 @@
 "from": "2024-03-08",
 "latest": "2024-03-08",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/279587"
+},
+{
+"slug": "legea-33-2024",
+"path": "lege/2024/33",
+"kind": "lege",
+"year": "2024",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 33/2024 pentru modificarea și completarea Legii nr. 227/2015 privind Codul fiscal",
+"short": "Legea nr. 33/2024",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2024-03-08",
+"latest": "2024-03-08",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/279603"
 },
 {
 "slug": "legea-42-2024",
@@ -33696,6 +33798,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/94923"
 },
 {
+"slug": "oug-93-2008",
+"path": "oug/2008/93",
+"kind": "oug",
+"year": "2008",
+"number": "93",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 93/2008",
+"short": "OUG nr. 93/2008",
+"code": null,
+"status": "in force",
+"versions": 4,
+"from": "2008-06-30",
+"latest": "2013-02-28",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/94941"
+},
+{
 "slug": "oug-94-2008",
 "path": "oug/2008/94",
 "kind": "oug",
@@ -37181,6 +37300,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/205635"
 },
 {
+"slug": "oug-91-2012",
+"path": "oug/2012/91",
+"kind": "oug",
+"year": "2012",
+"number": "91",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 91/2012",
+"short": "OUG nr. 91/2012",
+"code": null,
+"status": "in force",
+"versions": 2,
+"from": "2012-12-27",
+"latest": "2013-12-24",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/200373"
+},
+{
 "slug": "oug-92-2012",
 "path": "oug/2012/92",
 "kind": "oug",
@@ -39935,6 +40071,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/190956"
 },
 {
+"slug": "oug-24-2017",
+"path": "oug/2017/24",
+"kind": "oug",
+"year": "2017",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 24/2017 privind modificarea și completarea Legii nr. 220/2008 pentru stabilirea sistemului de promovare a producerii energiei din surse regenerabile de energie și pentru modificarea unor acte normative",
+"short": "OUG nr. 24/2017",
+"code": null,
+"status": "amending act",
+"versions": 3,
+"from": "2017-03-31",
+"latest": "2018-07-23",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/187869"
+},
+{
 "slug": "oug-30-2017",
 "path": "oug/2017/30",
 "kind": "oug",
@@ -40562,6 +40715,23 @@
 "from": "2017-12-07",
 "latest": "2020-04-04",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/195526"
+},
+{
+"slug": "oug-91-2017",
+"path": "oug/2017/91",
+"kind": "oug",
+"year": "2017",
+"number": "91",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 91/2017 pentru modificarea și completarea Legii-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice",
+"short": "OUG nr. 91/2017",
+"code": null,
+"status": "amending act",
+"versions": 3,
+"from": "2017-12-08",
+"latest": "2018-04-13",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/195564"
 },
 {
 "slug": "oug-92-2017",
@@ -41548,6 +41718,23 @@
 "from": "2019-03-29",
 "latest": "2020-01-09",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/221501"
+},
+{
+"slug": "oug-21-2019",
+"path": "oug/2019/21",
+"kind": "oug",
+"year": "2019",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 21/2019 pentru modificarea și completarea Legii nr. 38/2003 privind transportul în regim de taxi și în regim de închiriere",
+"short": "OUG nr. 21/2019",
+"code": null,
+"status": "amending act",
+"versions": 3,
+"from": "2019-04-16",
+"latest": "2019-06-15",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/212731"
 },
 {
 "slug": "oug-23-2019",
@@ -51223,6 +51410,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/19161"
 },
 {
+"slug": "og-112-1999",
+"path": "og/1999/112",
+"kind": "og",
+"year": "1999",
+"number": "112",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța Guvernului nr. 112/1999",
+"short": "OG nr. 112/1999",
+"code": null,
+"status": "in force",
+"versions": 8,
+"from": "1999-08-31",
+"latest": "2019-05-03",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/225167"
+},
+{
 "slug": "og-117-1999",
 "path": "og/1999/117",
 "kind": "og",
@@ -51578,6 +51782,23 @@
 "from": "2000-09-03",
 "latest": "2000-09-03",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/24194"
+},
+{
+"slug": "og-109-2000",
+"path": "og/2000/109",
+"kind": "og",
+"year": "2000",
+"number": "109",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța Guvernului nr. 109/2000",
+"short": "OG nr. 109/2000",
+"code": null,
+"status": "in force",
+"versions": 3,
+"from": "2000-09-02",
+"latest": "2006-11-26",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/24096"
 },
 {
 "slug": "og-112-2000",
@@ -52853,6 +53074,23 @@
 "from": "2004-08-02",
 "latest": "2008-10-16",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/102920"
+},
+{
+"slug": "og-59-2004",
+"path": "og/2004/59",
+"kind": "og",
+"year": "2004",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța Guvernului nr. 59/2004",
+"short": "OG nr. 59/2004",
+"code": null,
+"status": "in force",
+"versions": 5,
+"from": "2004-08-09",
+"latest": "2005-11-29",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/102610"
 },
 {
 "slug": "og-72-2004",
