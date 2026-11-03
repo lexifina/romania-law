@@ -83843,6 +83843,45 @@
    ]
   },
   {
+   "slug": "oug-76-2001",
+   "path": "oug/2001/76",
+   "short": "OUG nr. 76/2001",
+   "title": "Ordonanța de urgență a Guvernului nr. 76/2001",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/36632",
+   "versions": [
+    {
+     "from": "2001-05-31",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/28706",
+     "sha256": "09bde6807e800099cf980fbf3fb05ab03d1f1bc122c1d0b6f5f72a52bc8abd0b"
+    },
+    {
+     "from": "2002-06-14",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/36632",
+     "sha256": "ee0215e3501aa01abdda2ffa25833356b98f2e8adfcfc54aa6187f19b06b0f52"
+    },
+    {
+     "from": "2003-08-07",
+     "units": 19,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/45539",
+     "sha256": "caed26312f283da4f4cbf97617fd13d37fd7ef6c49b7cb5fd67c54ca8e02a2b1"
+    },
+    {
+     "from": "2003-12-06",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/48225",
+     "sha256": "09776c87d549419d537e21d1f1e1f56b87b2e7a1026d02b7d07455e99a71a77e"
+    },
+    {
+     "from": "2004-10-13",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/55110",
+     "sha256": "415232fffc83c5a3ca884ec010116e520870628b43f262c9683ab492b6d6a0ad"
+    }
+   ]
+  },
+  {
    "slug": "oug-76-2010",
    "path": "oug/2010/76",
    "short": "OUG nr. 76/2010",
@@ -94172,6 +94211,21 @@
    ]
   },
   {
+   "slug": "hg-119-2024",
+   "path": "hg/2024/119",
+   "short": "HG nr. 119/2024",
+   "title": "Hotărârea Guvernului nr. 119/2024 pentru aprobarea indicatorilor tehnico-economici aferenţi obiectivului de investiţii \"Varianta de ocolire Horezu\", judeţul Vâlcea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/279330",
+   "versions": [
+    {
+     "from": "2024-02-19",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/279330",
+     "sha256": "0c9110bbf21f370e9f138211ba7757a7aa0defa06fb359732e4a867cb125cc95"
+    }
+   ]
+  },
+  {
    "slug": "hg-119-2025",
    "path": "hg/2025/119",
    "short": "HG nr. 119/2025",
@@ -95594,6 +95648,21 @@
    ]
   },
   {
+   "slug": "hg-124-2024",
+   "path": "hg/2024/124",
+   "short": "HG nr. 124/2024",
+   "title": "Hotărârea Guvernului nr. 124/2024 pentru aprobarea plafoanelor alocate ajutoarelor naţionale tranzitorii în sectorul zootehnic, pentru anul de cerere 2023",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/279331",
+   "versions": [
+    {
+     "from": "2024-02-19",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/279331",
+     "sha256": "551836104c5ed734ce7839d00679f39cda6cd12ed53c197a814b35efc9d163d1"
+    }
+   ]
+  },
+  {
    "slug": "hg-124-2025",
    "path": "hg/2025/124",
    "short": "HG nr. 124/2025",
@@ -95716,6 +95785,21 @@
      "units": 2,
      "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/227146",
      "sha256": "28b2aaa013545fa28da6e0208d006e57391562eab91d3e166673caf079a60382"
+    }
+   ]
+  },
+  {
+   "slug": "hg-125-2024",
+   "path": "hg/2024/125",
+   "short": "HG nr. 125/2024",
+   "title": "Hotărârea Guvernului nr. 125/2024 pentru aprobarea plafoanelor alocate ajutoarelor naţionale tranzitorii în sectorul vegetal, pentru anul de cerere 2023",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/279332",
+   "versions": [
+    {
+     "from": "2024-02-19",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/279332",
+     "sha256": "09efac7e0aa2270f6196c18d40996db9437133962735bf48b7e5314a3ff579b1"
     }
    ]
   },
@@ -96944,6 +97028,21 @@
    ]
   },
   {
+   "slug": "hg-130-2024",
+   "path": "hg/2024/130",
+   "short": "HG nr. 130/2024",
+   "title": "Hotărârea Guvernului nr. 130/2024 privind trecerea unei părţi din imobilul 2810 din domeniul public al statului şi din administrarea Ministerului Apărării Naţionale în domeniul public al municipiului Craiova, judeţul Dolj, şi modificarea anexei nr. 4 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/279446",
+   "versions": [
+    {
+     "from": "2024-02-26",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/279446",
+     "sha256": "2dcb68b43673c957344e6a3a39512a9bfdabe4a6ebf2b5b2d95111c48ff33a51"
+    }
+   ]
+  },
+  {
    "slug": "hg-130-2025",
    "path": "hg/2025/130",
    "short": "HG nr. 130/2025",
@@ -97237,6 +97336,21 @@
      "units": 67,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/211896",
      "sha256": "d15d55700156f9aedd6d6062bb3306ede51cd6cfe40881266231ed262c27561f"
+    }
+   ]
+  },
+  {
+   "slug": "hg-131-2024",
+   "path": "hg/2024/131",
+   "short": "HG nr. 131/2024",
+   "title": "Hotărârea Guvernului nr. 131/2024 privind declararea unui imobil ca bun de interes public naţional, înscrierea acestuia în inventarul centralizat al bunurilor din domeniul public al statului şi darea respectivului imobil în administrarea Tribunalului Gorj",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/279447",
+   "versions": [
+    {
+     "from": "2024-02-26",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/279447",
+     "sha256": "067dbf97685aef0312ca6dc78d607cd538e84ffb2a83b4802e786aae07342d04"
     }
    ]
   },
@@ -98306,6 +98420,21 @@
    ]
   },
   {
+   "slug": "hg-136-2024",
+   "path": "hg/2024/136",
+   "short": "HG nr. 136/2024",
+   "title": "Hotărârea Guvernului nr. 136/2024 privind înfiinţarea pe lângă Agenţia de Plăţi şi Intervenţie pentru Agricultură a unei activităţi finanţate integral din venituri proprii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/279371",
+   "versions": [
+    {
+     "from": "2024-02-21",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/279371",
+     "sha256": "d141bdf4a712fb7961c53858f875765d8ce9143b05813b0855f9ffe6ca520eaf"
+    }
+   ]
+  },
+  {
    "slug": "hg-136-2025",
    "path": "hg/2025/136",
    "short": "HG nr. 136/2025",
@@ -99359,6 +99488,21 @@
    ]
   },
   {
+   "slug": "hg-141-2024",
+   "path": "hg/2024/141",
+   "short": "HG nr. 141/2024",
+   "title": "Hotărârea Guvernului nr. 141/2024 pentru reaprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Sală de Sport Multifuncţională cu 3.000 de locuri - structură preluată, str. Crişan nr. 33, municipiul Slatina, judeţul Olt\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/279429",
+   "versions": [
+    {
+     "from": "2024-02-23",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/279429",
+     "sha256": "e87893be8792be60b429afb2ff7348e5bebf12c469937f460ebd7937b0a35850"
+    }
+   ]
+  },
+  {
    "slug": "hg-1410-2009",
    "path": "hg/2009/1410",
    "short": "HG nr. 1410/2009",
@@ -99623,6 +99767,21 @@
    ]
   },
   {
+   "slug": "hg-142-2024",
+   "path": "hg/2024/142",
+   "short": "HG nr. 142/2024",
+   "title": "Hotărârea Guvernului nr. 142/2024 privind aprobarea sumei alocate schemei de ajutor de stat în sectorul creşterii animalelor pentru anul 2024",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/279430",
+   "versions": [
+    {
+     "from": "2024-02-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/279430",
+     "sha256": "4f3c5c693840f12b650bf9b7749ca596babe6f7eb413673381bd683ed51caf3f"
+    }
+   ]
+  },
+  {
    "slug": "hg-142-2025",
    "path": "hg/2025/142",
    "short": "HG nr. 142/2025",
@@ -99799,6 +99958,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/187798",
      "sha256": "0357208d0051c4bd479add42157b6b33cfe7d32d4100fea874eb1678e82fa80a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-143-2024",
+   "path": "hg/2024/143",
+   "short": "HG nr. 143/2024",
+   "title": "Hotărârea Guvernului nr. 143/2024 pentru aprobarea modului de repartizare şi de utilizare a sumelor prevăzute la lit. c) şi d) din anexa nr. 3/13/02a la Legea bugetului de stat pe anul 2024 nr. 421/2023",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/279431",
+   "versions": [
+    {
+     "from": "2024-02-23",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/279431",
+     "sha256": "bfc4f0942861b7eb18b17f59a09bdb1f20333d07639b1d033562d5110f69442e"
     }
    ]
   },
@@ -197902,6 +198076,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/238055",
      "sha256": "70fb20ad03db034f3f802d07e6624be48204b8b33a8f7007f171fe228a1d5e2d"
+    }
+   ]
+  },
+  {
+   "slug": "oug-9-2024",
+   "path": "oug/2024/9",
+   "short": "OUG nr. 9/2024",
+   "title": "Ordonanța de urgență a Guvernului nr. 9/2024 pentru instituirea unor măsuri de sprijin în vederea aplicării prevederilor Legii nr. 226/2021 privind stabilirea măsurilor de protecţie socială pentru consumatorul vulnerabil de energie, pentru perioada rămasă din sezonul rece noiembrie 2023-martie 2024",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/279427",
+   "versions": [
+    {
+     "from": "2024-02-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/279427",
+     "sha256": "3446f83bc9238834ef22dc5d35832ff1a7cb18ec7301743b24ca774fd6832b98"
     }
    ]
   },

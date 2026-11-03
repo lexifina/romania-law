@@ -1,6 +1,6 @@
 # Every act in this repository
 
-8192 acts, 21,015 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+8203 acts, 21,030 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -1988,7 +1988,7 @@
 | Legea nr. 241/2025 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 31/2002 privind interzicerea organizațiilor, simbolurilor și faptelor cu caracter fascist, legionar, rasist sau xenofob și a promovării cultului persoanelor vinovate de săvârșirea unor infracțiuni de genocid contra umanității și de crime de război, precum și pentru modificarea Legii nr. 157/2018 privind unele măsuri pentru prevenirea și combaterea antisemitismului | [`lege/2025/241/`](lege/2025/241/) | amending act | 1 | 2025-12-27 | 2025-12-27 |
 | Legea nr. 245/2025 pentru modificarea art. 32 alin. (7) din Legea nr. 273/2006 privind finanțele publice locale | [`lege/2025/245/`](lege/2025/245/) | amending act | 1 | 2026-01-01 | 2026-01-01 |
 
-## Emergency ordinances (OUG) (1510, of which 526 amending acts)
+## Emergency ordinances (OUG) (1512, of which 526 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -2084,6 +2084,7 @@
 | Ordonanța de urgență a Guvernului nr. 49/2001 | [`oug/2001/49/`](oug/2001/49/) | in force | 1 | 2001-03-30 | 2001-03-30 |
 | Ordonanța de urgență a Guvernului nr. 58/2001 | [`oug/2001/58/`](oug/2001/58/) | in force | 4 | 2001-04-26 | 2004-12-12 |
 | Ordonanța de urgență a Guvernului nr. 70/2001 | [`oug/2001/70/`](oug/2001/70/) | in force | 4 | 2001-07-01 | 2005-07-25 |
+| Ordonanța de urgență a Guvernului nr. 76/2001 | [`oug/2001/76/`](oug/2001/76/) | repealed 2004-10-13 | 5 | 2001-05-31 | 2004-10-13 |
 | Ordonanța de urgență a Guvernului nr. 79/2001 | [`oug/2001/79/`](oug/2001/79/) | in force | 3 | 2001-06-07 | 2004-02-03 |
 | Ordonanța de urgență a Guvernului nr. 80/2001 | [`oug/2001/80/`](oug/2001/80/) | in force | 5 | 2001-06-12 | 2012-12-22 |
 | Ordonanța de urgență a Guvernului nr. 89/2001 | [`oug/2001/89/`](oug/2001/89/) | in force | 1 | 2001-06-26 | 2001-06-26 |
@@ -3384,6 +3385,7 @@
 | Ordonanța de urgență a Guvernului nr. 5/2024 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 67/2023 privind instituirea unei măsuri cu caracter temporar de combatere a creșterii excesive a prețurilor la unele produse agricole și alimentare, precum și pentru modificarea și completarea unor acte normative | [`oug/2024/5/`](oug/2024/5/) | amending act | 2 | 2024-01-31 | 2024-03-31 |
 | Ordonanța de urgență a Guvernului nr. 6/2024 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 126/2005 privind reprezentarea României sau a instituțiilor publice în fața Curții de Arbitraj Internaționale a Centrului Internațional pentru Reglementarea Diferendelor Relative la Investiții | [`oug/2024/6/`](oug/2024/6/) | amending act | 4 | 2024-02-09 | 2024-10-14 |
 | Ordonanța de urgență a Guvernului nr. 7/2024 privind aprobarea schemei de ajutor de stat "Creditul fermierului", în contextul crizei provocate de agresiunea Rusiei împotriva Ucrainei, precum și pentru modificarea art. 12 alin. (1) din Legea nr. 218/2005 privind stimularea absorbției fondurilor alocate României pentru agricultură, dezvoltare rurală, pescuit și afaceri maritime, gestionate de Ministerul Agriculturii și Dezvoltării Rurale, prin instrumente financiare de garantare și creditare, precum și pentru susținerea obiectivelor naționale de politică agricolă | [`oug/2024/7/`](oug/2024/7/) | amending act | 3 | 2024-02-09 | 2024-10-16 |
+| Ordonanța de urgență a Guvernului nr. 9/2024 pentru instituirea unor măsuri de sprijin în vederea aplicării prevederilor Legii nr. 226/2021 privind stabilirea măsurilor de protecţie socială pentru consumatorul vulnerabil de energie, pentru perioada rămasă din sezonul rece noiembrie 2023-martie 2024 | [`oug/2024/9/`](oug/2024/9/) | in force | 1 | 2024-02-23 | 2024-02-23 |
 | Ordonanța de urgență a Guvernului nr. 10/2024 pentru modificarea și completarea unor acte normative | [`oug/2024/10/`](oug/2024/10/) | amending act | 1 | 2024-02-27 | 2024-02-27 |
 | Ordonanța de urgență a Guvernului nr. 13/2024 privind instituirea unei scheme de ajutor de stat pentru compensarea parțială a pierderilor la cultura de tomate în spații protejate și cultura de usturoi, în contextul crizei provocate de agresiunea Rusiei împotriva Ucrainei | [`oug/2024/13/`](oug/2024/13/) | in force | 2 | 2024-06-25 | 2024-07-06 |
 | Ordonanța de urgență a Guvernului nr. 15/2024 privind administratorii de credite și cumpărătorii de credite, precum și pentru modificarea și completarea unor acte normative privind contractele de credit pentru consumatori | [`oug/2024/15/`](oug/2024/15/) | amending act | 1 | 2024-03-17 | 2024-03-17 |
@@ -3969,7 +3971,7 @@
 | Ordonanța Guvernului nr. 21/2025 pentru modificarea și completarea Legii nr. 431/2023 privind asigurarea unui nivel minim global de impozitare a grupurilor de întreprinderi multinaționale și a grupurilor naționale de mari dimensiuni | [`og/2025/21/`](og/2025/21/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 | Ordonanța Guvernului nr. 22/2025 pentru modificarea și completarea Legii nr. 227/2015 privind Codul fiscal | [`og/2025/22/`](og/2025/22/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 
-## Government decisions (HG) (4231, of which 1600 amending acts)
+## Government decisions (HG) (4240, of which 1606 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -6622,7 +6624,16 @@
 | Hotărârea Guvernului nr. 70/2024 pentru aprobarea mecanismului de implementare a măsurilor de acordare a unui sprijin material pentru anumite categorii de persoane defavorizate, în perioada 2024-2027, regulile de acordare, modalitatea și frecvența măsurilor de sprijin, precum și instituțiile responsabile | [`hg/2024/70/`](hg/2024/70/) | amending act | 1 | 2024-02-01 | 2024-02-01 |
 | Hotărârea Guvernului nr. 83/2024 privind aprobarea Cadrului referitor la finanțarea unor proiecte care sunt destinate protejării mediului înconjurător și combaterii schimbărilor climatice | [`hg/2024/83/`](hg/2024/83/) | amending act | 1 | 2024-02-09 | 2024-02-09 |
 | Hotărârea Guvernului nr. 112/2024 privind aprobarea Regulamentului de organizare și funcționare a Comitetului de organizare a funeraliilor de stat și a componenței acestuia | [`hg/2024/112/`](hg/2024/112/) | amending act | 1 | 2024-02-12 | 2024-02-12 |
+| Hotărârea Guvernului nr. 119/2024 pentru aprobarea indicatorilor tehnico-economici aferenţi obiectivului de investiţii "Varianta de ocolire Horezu", judeţul Vâlcea | [`hg/2024/119/`](hg/2024/119/) | amending act | 1 | 2024-02-19 | 2024-02-19 |
+| Hotărârea Guvernului nr. 124/2024 pentru aprobarea plafoanelor alocate ajutoarelor naţionale tranzitorii în sectorul zootehnic, pentru anul de cerere 2023 | [`hg/2024/124/`](hg/2024/124/) | amending act | 1 | 2024-02-19 | 2024-02-19 |
+| Hotărârea Guvernului nr. 125/2024 pentru aprobarea plafoanelor alocate ajutoarelor naţionale tranzitorii în sectorul vegetal, pentru anul de cerere 2023 | [`hg/2024/125/`](hg/2024/125/) | amending act | 1 | 2024-02-19 | 2024-02-19 |
+| Hotărârea Guvernului nr. 130/2024 privind trecerea unei părţi din imobilul 2810 din domeniul public al statului şi din administrarea Ministerului Apărării Naţionale în domeniul public al municipiului Craiova, judeţul Dolj, şi modificarea anexei nr. 4 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului | [`hg/2024/130/`](hg/2024/130/) | amending act | 1 | 2024-02-26 | 2024-02-26 |
+| Hotărârea Guvernului nr. 131/2024 privind declararea unui imobil ca bun de interes public naţional, înscrierea acestuia în inventarul centralizat al bunurilor din domeniul public al statului şi darea respectivului imobil în administrarea Tribunalului Gorj | [`hg/2024/131/`](hg/2024/131/) | in force | 1 | 2024-02-26 | 2024-02-26 |
 | Hotărârea Guvernului nr. 133/2024 privind aprobarea stemei comunei Valea Lungă, judeţul Alba | [`hg/2024/133/`](hg/2024/133/) | amending act | 1 | 2024-03-07 | 2024-03-07 |
+| Hotărârea Guvernului nr. 136/2024 privind înfiinţarea pe lângă Agenţia de Plăţi şi Intervenţie pentru Agricultură a unei activităţi finanţate integral din venituri proprii | [`hg/2024/136/`](hg/2024/136/) | in force | 1 | 2024-02-21 | 2024-02-21 |
+| Hotărârea Guvernului nr. 141/2024 pentru reaprobarea indicatorilor tehnico-economici ai obiectivului de investiţii "Sală de Sport Multifuncţională cu 3.000 de locuri - structură preluată, str. Crişan nr. 33, municipiul Slatina, judeţul Olt" | [`hg/2024/141/`](hg/2024/141/) | in force | 1 | 2024-02-23 | 2024-02-23 |
+| Hotărârea Guvernului nr. 142/2024 privind aprobarea sumei alocate schemei de ajutor de stat în sectorul creşterii animalelor pentru anul 2024 | [`hg/2024/142/`](hg/2024/142/) | amending act | 1 | 2024-02-23 | 2024-02-23 |
+| Hotărârea Guvernului nr. 143/2024 pentru aprobarea modului de repartizare şi de utilizare a sumelor prevăzute la lit. c) şi d) din anexa nr. 3/13/02a la Legea bugetului de stat pe anul 2024 nr. 421/2023 | [`hg/2024/143/`](hg/2024/143/) | amending act | 1 | 2024-02-23 | 2024-02-23 |
 | Hotărârea Guvernului nr. 145/2024 pentru aprobarea indicatorilor tehnico-economici ai obiectivului de investiții "Lucrări de intervenție la infrastructură din cazarma 2645 Babadag" | [`hg/2024/145/`](hg/2024/145/) | amending act | 1 | 2024-02-26 | 2024-02-26 |
 | Hotărârea Guvernului nr. 146/2024 privind aprobarea normativelor de cheltuieli și a devizului estimativ aferente organizării și desfășurării la București a celei de-a opta Întâlniri a președinților curților de apel din Uniunea Europeană în perioada 12-14 iunie 2024 | [`hg/2024/146/`](hg/2024/146/) | amending act | 1 | 2024-02-26 | 2024-02-26 |
 | Hotărârea Guvernului nr. 147/2024 privind aprobarea bugetului de venituri şi cheltuieli pe anul 2024 al Regiei Autonome "Monitorul Oficial" | [`hg/2024/147/`](hg/2024/147/) | amending act | 1 | 2024-02-26 | 2024-02-26 |
