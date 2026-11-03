@@ -63293,6 +63293,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/1737"
 },
 {
+"slug": "hg-498-1991",
+"path": "hg/1991/498",
+"kind": "hg",
+"year": "1991",
+"number": "498",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 498/1991 privind salarizarea personalului regiilor autonome \"Romag Drobeta\" Drobeta-Turnu Severin şi \"Zirom\" Giurgiu",
+"short": "HG nr. 498/1991",
+"code": null,
+"status": "in force",
+"versions": 2,
+"from": "1992-06-24",
+"latest": "1993-10-18",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/40497"
+},
+{
 "slug": "hg-783-1991",
 "path": "hg/1991/783",
 "kind": "hg",
@@ -65229,6 +65246,23 @@
 "from": "2001-06-11",
 "latest": "2003-04-23",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/28911"
+},
+{
+"slug": "hg-530-2001",
+"path": "hg/2001/530",
+"kind": "hg",
+"year": "2001",
+"number": "530",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 530/2001",
+"short": "HG nr. 530/2001",
+"code": null,
+"status": "in force",
+"versions": 3,
+"from": "2002-03-18",
+"latest": "2009-04-11",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/126053"
 },
 {
 "slug": "hg-536-2001",
@@ -68308,6 +68342,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/51521"
 },
 {
+"slug": "hg-577-2004",
+"path": "hg/2004/577",
+"kind": "hg",
+"year": "2004",
+"number": "577",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 577/2004 pentru aprobarea Acordului dintre Guvernul României și Guvernul Republicii Ungare privind colaborarea pentru protecția și utilizarea durabila a apelor de frontieră, semnat la Budapesta la 15 septembrie 2003",
+"short": "HG nr. 577/2004",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2004-05-05",
+"latest": "2004-05-05",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/51669"
+},
+{
 "slug": "hg-672-2004",
 "path": "hg/2004/672",
 "kind": "hg",
@@ -70686,6 +70737,23 @@
 "from": "2006-06-30",
 "latest": "2006-06-30",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/69535"
+},
+{
+"slug": "hg-180-2006",
+"path": "hg/2006/180",
+"kind": "hg",
+"year": "2006",
+"number": "180",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 180/2006",
+"short": "HG nr. 180/2006",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2006-02-27",
+"latest": "2006-02-27",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/69438"
 },
 {
 "slug": "hg-183-2006",
@@ -74851,6 +74919,40 @@
 "from": "2009-02-18",
 "latest": "2009-02-18",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/102435"
+},
+{
+"slug": "hg-54-2009",
+"path": "hg/2009/54",
+"kind": "hg",
+"year": "2009",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 54/2009",
+"short": "HG nr. 54/2009",
+"code": null,
+"status": "in force",
+"versions": 4,
+"from": "2009-02-17",
+"latest": "2021-06-11",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/164724"
+},
+{
+"slug": "hg-55-2009",
+"path": "hg/2009/55",
+"kind": "hg",
+"year": "2009",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 55/2009",
+"short": "HG nr. 55/2009",
+"code": null,
+"status": "in force",
+"versions": 3,
+"from": "2010-03-21",
+"latest": "2021-06-11",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/164785"
 },
 {
 "slug": "hg-56-2009",
@@ -85869,6 +85971,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/202537"
 },
 {
+"slug": "hg-551-2018",
+"path": "hg/2018/551",
+"kind": "hg",
+"year": "2018",
+"number": "551",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 551/2018 pentru aprobarea Normelor metodologice de aplicare a prevederilor Ordonanței Guvernului nr. 24/2016 privind organizarea și desfășurarea activității de neutralizare a subproduselor de origine animală care nu sunt destinate consumului uman",
+"short": "HG nr. 551/2018",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2018-07-31",
+"latest": "2018-07-31",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/203274"
+},
+{
 "slug": "hg-572-2018",
 "path": "hg/2018/572",
 "kind": "hg",
@@ -86360,6 +86479,23 @@
 "from": "2018-11-21",
 "latest": "2022-06-21",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/207035"
+},
+{
+"slug": "hg-892-2018",
+"path": "hg/2018/892",
+"kind": "hg",
+"year": "2018",
+"number": "892",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 892/2018 privind reorganizarea unor staţiuni de cercetare-dezvoltare agricolă în domeniul pomiculturii prin desfiinţarea unor staţiuni de cercetare şi producţie agricolă din domeniul pomiculturii",
+"short": "HG nr. 892/2018",
+"code": null,
+"status": "in force",
+"versions": 2,
+"from": "2018-11-22",
+"latest": "2024-05-09",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/207078"
 },
 {
 "slug": "hg-899-2018",
@@ -87074,6 +87210,23 @@
 "from": "2019-03-04",
 "latest": "2021-04-16",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/241459"
+},
+{
+"slug": "hg-110-2019",
+"path": "hg/2019/110",
+"kind": "hg",
+"year": "2019",
+"number": "110",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 110/2019 pentru stabilirea nivelului de reprezentare a României în Consiliul guvernatorilor Băncii Asiatice de Investiţii în Infrastructură",
+"short": "HG nr. 110/2019",
+"code": null,
+"status": "in force",
+"versions": 2,
+"from": "2019-03-05",
+"latest": "2019-12-03",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/220088"
 },
 {
 "slug": "hg-131-2019",
@@ -89607,6 +89760,23 @@
 "from": "2020-05-06",
 "latest": "2022-04-18",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/228195"
+},
+{
+"slug": "hg-365-2020",
+"path": "hg/2020/365",
+"kind": "hg",
+"year": "2020",
+"number": "365",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 365/2020 privind aprobarea schemei \"Ajutor de minimis pentru aplicarea programului de susținere a crescătorilor de porci de reproducție din rasele Bazna și/sau Mangalița\", pentru perioada 2020-2022, precum și a unor măsuri de aplicare a acesteia",
+"short": "HG nr. 365/2020",
+"code": null,
+"status": "amending act",
+"versions": 3,
+"from": "2020-05-11",
+"latest": "2022-03-03",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/225492"
 },
 {
 "slug": "hg-370-2020",
@@ -93383,6 +93553,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/250097"
 },
 {
+"slug": "hg-1307-2021",
+"path": "hg/2021/1307",
+"kind": "hg",
+"year": "2021",
+"number": "1307",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 1307/2021 pentru aprobarea bugetului rectificat de venituri și cheltuieli pe anul 2021 al Societății Compania Națională de Investiții \"C.N.I.\" - S.A., aflată sub autoritatea Ministerului Dezvoltării, Lucrărilor Publice și Administrației",
+"short": "HG nr. 1307/2021",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2021-12-30",
+"latest": "2021-12-30",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/250084"
+},
+{
 "slug": "hg-1312-2021",
 "path": "hg/2021/1312",
 "kind": "hg",
@@ -93755,6 +93942,23 @@
 "from": "2022-06-21",
 "latest": "2022-06-21",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/256587"
+},
+{
+"slug": "hg-132-2022",
+"path": "hg/2022/132",
+"kind": "hg",
+"year": "2022",
+"number": "132",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 132/2022 privind stabilirea contingentului de lucrători străini nou-admiși pe piața forței de muncă în anul 2022",
+"short": "HG nr. 132/2022",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2022-01-28",
+"latest": "2022-01-28",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/251226"
 },
 {
 "slug": "hg-147-2022",
