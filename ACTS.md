@@ -1,6 +1,6 @@
 # Every act in this repository
 
-1767 acts, 7,940 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+1770 acts, 7,955 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -32,7 +32,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (713, of which 381 amending acts)
+## Laws (legi) (714, of which 381 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -125,6 +125,7 @@
 | Legea nr. 217/2003 pentru prevenirea și combaterea violenței domestice | [`lege/2003/217/`](lege/2003/217/) | in force | 22 | 2003-08-27 | 2025-01-17 |
 | Legea nr. 329/2003 privind exercitarea profesiei de detectiv particular*) | [`lege/2003/329/`](lege/2003/329/) | in force | 1 | 2014-03-12 | 2014-03-12 |
 | Legea nr. 356/2003 | [`lege/2003/356/`](lege/2003/356/) | in force | 12 | 2003-07-23 | 2021-07-12 |
+| Legea nr. 460/2003 | [`lege/2003/460/`](lege/2003/460/) | in force | 2 | 2003-12-25 | 2024-06-17 |
 | Legea nr. 477/2003 | [`lege/2003/477/`](lege/2003/477/) | in force | 6 | 2004-01-19 | 2021-03-20 |
 | Legea nr. 514/2003 | [`lege/2003/514/`](lege/2003/514/) | in force | 3 | 2003-12-08 | 2023-06-10 |
 | Legea nr. 526/2003 | [`lege/2003/526/`](lege/2003/526/) | in force | 7 | 2003-12-19 | 2022-07-29 |
@@ -1265,7 +1266,7 @@
 | Ordonanța de urgență a Guvernului nr. 78/2025 pentru modificarea Legii nr. 239/2025 privind stabilirea unor măsuri de redresare și eficientizare a resurselor publice și pentru modificarea și completarea unor acte normative | [`oug/2025/78/`](oug/2025/78/) | amending act | 1 | 2025-12-17 | 2025-12-17 |
 | Ordonanța de urgență a Guvernului nr. 87/2025 pentru stabilirea unor măsuri bugetare privind implementarea programelor naționale din domeniul lucrărilor publice | [`oug/2025/87/`](oug/2025/87/) | in force | 1 | 2025-12-24 | 2025-12-24 |
 
-## Ordinances (OG) (114, of which 56 amending acts)
+## Ordinances (OG) (116, of which 56 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -1279,6 +1280,8 @@
 | Ordonanța Guvernului nr. 46/1998 | [`og/1998/46/`](og/1998/46/) | in force | 8 | 1998-07-31 | 2022-08-28 |
 | Ordonanța Guvernului nr. 124/1998 | [`og/1998/124/`](og/1998/124/) | in force | 11 | 1998-09-28 | 2025-05-23 |
 | Ordonanța Guvernului nr. 62/1999 | [`og/1999/62/`](og/1999/62/) | in force | 7 | 1999-10-01 | 2023-02-01 |
+| Ordonanța Guvernului nr. 64/1999 | [`og/1999/64/`](og/1999/64/) | in force | 4 | 1999-08-26 | 2011-02-15 |
+| Ordonanța Guvernului nr. 94/1999 privind participarea României la procedurile în fața Curții Europene a Drepturilor Omului și a Comitetului Ministrilor ale Consiliului Europei și regresul statului în urma hotărârilor și convențiilor de rezolvare pe cale amiabila | [`og/1999/94/`](og/1999/94/) | in force | 9 | 1999-08-31 | 2023-11-24 |
 | Ordonanța Guvernului nr. 105/1999 | [`og/1999/105/`](og/1999/105/) | in force | 24 | 1999-08-31 | 2025-01-01 |
 | Ordonanța Guvernului nr. 2/2000 privind organizarea activității de expertiza tehnica judiciară și extrajudiciara | [`og/2000/2/`](og/2000/2/) | in force | 7 | 2000-01-25 | 2023-11-06 |
 | Ordonanța Guvernului nr. 26/2000 cu privire la asociații și fundații | [`og/2000/26/`](og/2000/26/) | in force | 15 | 2000-04-30 | 2024-10-08 |
