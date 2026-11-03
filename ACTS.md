@@ -1,6 +1,6 @@
 # Every act in this repository
 
-12514 acts, 26,096 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+12525 acts, 26,107 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -4568,7 +4568,7 @@
 | Ordonanța Guvernului nr. 21/2025 pentru modificarea și completarea Legii nr. 431/2023 privind asigurarea unui nivel minim global de impozitare a grupurilor de întreprinderi multinaționale și a grupurilor naționale de mari dimensiuni | [`og/2025/21/`](og/2025/21/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 | Ordonanța Guvernului nr. 22/2025 pentru modificarea și completarea Legii nr. 227/2015 privind Codul fiscal | [`og/2025/22/`](og/2025/22/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 
-## Government decisions (HG) (7955, of which 3411 amending acts)
+## Government decisions (HG) (7966, of which 3415 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -5459,13 +5459,24 @@
 | Hotărârea Guvernului nr. 132/2008 privind preluarea unui sector de drum naţional, proprietate publică a statului, din administrarea Ministerului Transporturilor în administrarea Consiliului Local al Municipiului Bacău, judeţul Bacău | [`hg/2008/132/`](hg/2008/132/) | in force | 1 | 2008-02-14 | 2008-02-14 |
 | Hotărârea Guvernului nr. 133/2008 pentru modificarea Hotărârii Guvernului nr. 332/2007 privind stabilirea procedurilor pentru aprobarea de tip a motoarelor destinate a fi montate pe maşini mobile nerutiere şi a motoarelor destinate vehiculelor pentru transportul rutier de persoane sau de marfă şi stabilirea măsurilor de limitare a emisiilor gazoase şi de particule poluante provenite de la acestea, în scopul protecţiei atmosferei | [`hg/2008/133/`](hg/2008/133/) | amending act | 1 | 2008-02-14 | 2008-02-14 |
 | Hotărârea Guvernului nr. 137/2008 pentru aprobarea Protocolului dintre Guvernul României şi Guvernul Republicii Ungare în vederea sprijinirii cercetării în domeniul minorităţilor naţionale, semnat la Sibiu la 14 noiembrie 2007 | [`hg/2008/137/`](hg/2008/137/) | amending act | 1 | 2008-02-15 | 2008-02-15 |
+| Hotărârea Guvernului nr. 138/2008 pentru aprobarea amendamentului convenit prin schimb de scrisori, semnate la Bucureşti la 10 octombrie 2007 şi la Washington, D.C. la 31 octombrie 2007, între Guvernul României şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare, la Acordul de asistenţă financiară nerambursabilă dintre România şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare, acţionând în calitate de agenţie de implementare a Fondului Global de Mediu, pentru finanţarea Proiectului de eficienţă energetică, semnat la Bucureşti la 18 octombrie 2002 | [`hg/2008/138/`](hg/2008/138/) | amending act | 1 | 2008-02-18 | 2008-02-18 |
 | Hotărârea Guvernului nr. 142/2008 privind acordarea unui ajutor | [`hg/2008/142/`](hg/2008/142/) | in force | 1 | 2008-02-14 | 2008-02-14 |
 | Hotărârea Guvernului nr. 143/2008 privind numirea domnului Bedrosian Laviniu-Eduard în funcţia publică de subprefect al judeţului Timiş | [`hg/2008/143/`](hg/2008/143/) | in force | 1 | 2008-02-18 | 2008-02-18 |
 | Hotărârea Guvernului nr. 144/2008 | [`hg/2008/144/`](hg/2008/144/) | in force | 1 | 2008-02-18 | 2008-02-18 |
 | Hotărârea Guvernului nr. 147/2008 privind declararea stării de calamitate naturală în zonele agricole din judeţul Vrancea pentru culturile de grâu şi rapiţă însămânţate în toamna anului 2005 | [`hg/2008/147/`](hg/2008/147/) | in force | 1 | 2008-02-18 | 2008-02-18 |
+| Hotărârea Guvernului nr. 152/2008 privind transmiterea unui imobil aflat în domeniul public al statului din administrarea Staţiunii de Cercetare-Dezvoltare Agricolă Valu lui Traian, judeţul Constanţa, în administrarea Direcţiei pentru Agricultură şi Dezvoltare Rurală Tulcea | [`hg/2008/152/`](hg/2008/152/) | in force | 1 | 2008-02-18 | 2008-02-18 |
 | Hotărârea Guvernului nr. 153/2008 | [`hg/2008/153/`](hg/2008/153/) | in force | 1 | 2008-02-19 | 2008-02-19 |
+| Hotărârea Guvernului nr. 154/2008 privind preluarea unor sectoare de drum naţional, domeniu public al statului, din administrarea Consiliului Local al Municipiului Topliţa, judeţul Harghita, în administrarea Ministerului Transporturilor, în vederea realizării de către Compania Naţională de Autostrăzi şi Drumuri Naţionale din România - S.A. a activităţilor de interes naţional în domeniul administrării drumurilor naţionale | [`hg/2008/154/`](hg/2008/154/) | in force | 1 | 2008-02-18 | 2008-02-18 |
+| Hotărârea Guvernului nr. 155/2008 privind modificarea anexei nr. 16 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului | [`hg/2008/155/`](hg/2008/155/) | amending act | 1 | 2008-02-18 | 2008-02-18 |
+| Hotărârea Guvernului nr. 156/2008 privind recunoaşterea Asociaţiei Comunelor din România ca fiind de utilitate publică | [`hg/2008/156/`](hg/2008/156/) | in force | 1 | 2008-02-18 | 2008-02-18 |
+| Hotărârea Guvernului nr. 157/2008 privind aprobarea stemelor oraşelor Băile Olăneşti şi Ocnele Mari, judeţul Vâlcea | [`hg/2008/157/`](hg/2008/157/) | amending act | 1 | 2008-02-19 | 2008-02-19 |
+| Hotărârea Guvernului nr. 166/2008 privind aprobarea numărului mediu maxim de personal pe anul 2008 pentru operatorii economici din industria de apărare, care desfăşoară activităţi conform prevederilor art. 10 din Ordonanţa de urgenţă a Guvernului nr. 95/2002 privind industria de apărare | [`hg/2008/166/`](hg/2008/166/) | amending act | 1 | 2008-02-21 | 2008-02-21 |
+| Hotărârea Guvernului nr. 168/2008 privind încetarea raportului de serviciu al unui subprefect al judeţului Iaşi | [`hg/2008/168/`](hg/2008/168/) | in force | 1 | 2008-02-21 | 2008-02-21 |
+| Hotărârea Guvernului nr. 169/2008 privind exercitarea, cu caracter temporar, a funcţiei publice de prefect al judeţului Iaşi de către domnul Bodea Marius | [`hg/2008/169/`](hg/2008/169/) | in force | 1 | 2008-02-21 | 2008-02-21 |
 | Hotărârea Guvernului nr. 170/2008 | [`hg/2008/170/`](hg/2008/170/) | in force | 1 | 2008-02-22 | 2008-02-22 |
+| Hotărârea Guvernului nr. 171/2008 privind suplimentarea bugetului Ministerului Afacerilor Externe din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2008, pentru finanţarea cheltuielilor aferente organizării la Bucureşti, în perioada 2-4 aprilie 2008, a Summitului NATO | [`hg/2008/171/`](hg/2008/171/) | in force | 1 | 2008-02-22 | 2008-02-22 |
 | Hotărârea Guvernului nr. 175/2008 | [`hg/2008/175/`](hg/2008/175/) | in force | 1 | 2008-02-22 | 2008-02-22 |
+| Hotărârea Guvernului nr. 176/2008 privind elaborarea Rezumatului anual pentru fondurile structurale şi de coeziune şi pentru Fondul European pentru Pescuit | [`hg/2008/176/`](hg/2008/176/) | in force | 1 | 2008-02-22 | 2008-02-22 |
 | Hotărârea Guvernului nr. 177/2008 | [`hg/2008/177/`](hg/2008/177/) | in force | 1 | 2008-02-22 | 2008-02-22 |
 | Hotărârea Guvernului nr. 189/2008 privind recunoaşterea Statutului Cultului Creştin Penticostal - Biserica lui Dumnezeu Apostolică din România | [`hg/2008/189/`](hg/2008/189/) | in force | 1 | 2008-03-20 | 2008-03-20 |
 | Hotărârea Guvernului nr. 199/2008 | [`hg/2008/199/`](hg/2008/199/) | in force | 1 | 2008-02-28 | 2008-02-28 |
