@@ -86108,6 +86108,27 @@
    ]
   },
   {
+   "slug": "oug-5-2020",
+   "path": "oug/2020/5",
+   "short": "OUG nr. 5/2020",
+   "title": "Ordonanța de urgență a Guvernului nr. 5/2020 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 43/2007 privind introducerea deliberată în mediu a organismelor modificate genetic",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/222611",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/222611",
+     "sha256": "9923b43080192d460700130a4f42df235e5b7174347182297ebc5a6a5db9ab9d"
+    },
+    {
+     "from": "2020-02-29",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/222611",
+     "sha256": "9923b43080192d460700130a4f42df235e5b7174347182297ebc5a6a5db9ab9d"
+    }
+   ]
+  },
+  {
    "slug": "oug-5-2025",
    "path": "oug/2025/5",
    "short": "OUG nr. 5/2025",
@@ -151277,6 +151298,21 @@
    ]
   },
   {
+   "slug": "hg-702-2022",
+   "path": "hg/2022/702",
+   "short": "HG nr. 702/2022",
+   "title": "Hotărârea Guvernului nr. 702/2022 privind aprobarea închirierii unei părţi dintr-un imobil aflat în domeniul public al statului şi în administrarea Ministerului Afacerilor Interne - Spitalul de Urgenţă \"Prof. Dr. Dimitrie Gerota\" Bucureşti",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/255872",
+   "versions": [
+    {
+     "from": "2022-06-02",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/255872",
+     "sha256": "b1e9049612b75b2af94463e8a0c24af43b639ee48adf84ca4ebcb853feb767ff"
+    }
+   ]
+  },
+  {
    "slug": "hg-702-2023",
    "path": "hg/2023/702",
    "short": "HG nr. 702/2023",
@@ -152183,6 +152219,21 @@
    ]
   },
   {
+   "slug": "hg-721-2022",
+   "path": "hg/2022/721",
+   "short": "HG nr. 721/2022",
+   "title": "Hotărârea Guvernului nr. 721/2022 pentru aprobarea Listei cuprinzând categoriile de informaţii secrete de stat, pe niveluri de secretizare, elaborate sau deţinute de Ministerul Finanţelor şi de instituţiile aflate în subordinea sau sub autoritatea acestuia şi termenele de clasificare aferente",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/256009",
+   "versions": [
+    {
+     "from": "2022-06-07",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/256009",
+     "sha256": "5d65fbd333819f654f8bc80e4775f98d02db787ec9330d3ec7bea2bd3f48dd22"
+    }
+   ]
+  },
+  {
    "slug": "hg-721-2023",
    "path": "hg/2023/721",
    "short": "HG nr. 721/2023",
@@ -152384,6 +152435,21 @@
    ]
   },
   {
+   "slug": "hg-725-2022",
+   "path": "hg/2022/725",
+   "short": "HG nr. 725/2022",
+   "title": "Hotărârea Guvernului nr. 725/2022 privind actualizarea datelor de identificare şi scoaterea unor bunuri mobile din inventarul centralizat al bunurilor din domeniul public al statului, aflate în administrarea Ministerului Mediului, Apelor şi Pădurilor - Regia Naţională a Pădurilor - Romsilva, ca urmare a decesului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/256020",
+   "versions": [
+    {
+     "from": "2022-06-08",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/256020",
+     "sha256": "5c396261d70f55ec695cd3901ad1ae2d27ec18815dd02c8ab80745bb259cb647"
+    }
+   ]
+  },
+  {
    "slug": "hg-725-2023",
    "path": "hg/2023/725",
    "short": "HG nr. 725/2023",
@@ -152444,6 +152510,21 @@
    ]
   },
   {
+   "slug": "hg-726-2022",
+   "path": "hg/2022/726",
+   "short": "HG nr. 726/2022",
+   "title": "Hotărârea Guvernului nr. 726/2022 pentru actualizarea valorii de inventar a unui imobil aflat în domeniul public al statului şi administrarea Instituţiei Prefectului - Judeţul Tulcea din subordinea Ministerului Afacerilor Interne",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/256021",
+   "versions": [
+    {
+     "from": "2022-06-08",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/256021",
+     "sha256": "0ef649a4623cc657363999ce287ea6be7b900f8052a3fc3993b70fea2668f276"
+    }
+   ]
+  },
+  {
    "slug": "hg-726-2023",
    "path": "hg/2023/726",
    "short": "HG nr. 726/2023",
@@ -152470,6 +152551,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/301936",
      "sha256": "fd4599a1c8459a7c1002be478a3a5f0195a07536f929474f46ce19a04246f4f6"
+    }
+   ]
+  },
+  {
+   "slug": "hg-727-2022",
+   "path": "hg/2022/727",
+   "short": "HG nr. 727/2022",
+   "title": "Hotărârea Guvernului nr. 727/2022 privind reacordarea recunoaşterii caracterului de utilitate publică a amenajării de irigaţii Ţigănaşi-Perieni, judeţul Iaşi, şi de modificare a anexei nr. 3 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului, prin actualizarea denumirii, descrierii tehnice şi a valorii de inventar pentru două bunuri aflate în administrarea Agenţiei Naţionale de Îmbunătăţiri Funciare, din subordinea Ministerului Agriculturii şi Dezvoltării Rurale, şi comasarea acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/256014",
+   "versions": [
+    {
+     "from": "2022-06-08",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/256014",
+     "sha256": "e590deb856a023559727fbe39f23ced029cdec76e15c69054f36f978a2c7bb2d"
     }
    ]
   },
@@ -152690,6 +152786,21 @@
    ]
   },
   {
+   "slug": "hg-730-2022",
+   "path": "hg/2022/730",
+   "short": "HG nr. 730/2022",
+   "title": "Hotărârea Guvernului nr. 730/2022 privind transmiterea unui imobil aflat în domeniul public al statului din administrarea Agenţiei Naţionale de Cadastru şi Publicitate Imobiliară în administrarea Oficiului de Cadastru şi Publicitate Imobiliară Neamţ",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/256022",
+   "versions": [
+    {
+     "from": "2022-06-08",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/256022",
+     "sha256": "e5fa53104582991dcae3fac3189292210fcdb26256768d43d55375dea60c498e"
+    }
+   ]
+  },
+  {
    "slug": "hg-730-2023",
    "path": "hg/2023/730",
    "short": "HG nr. 730/2023",
@@ -152761,6 +152872,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/244835",
      "sha256": "5c034c06aee53a703aa7346c9128265d0dc2267babb605d83f92049a220a6f6d"
+    }
+   ]
+  },
+  {
+   "slug": "hg-731-2022",
+   "path": "hg/2022/731",
+   "short": "HG nr. 731/2022",
+   "title": "Hotărârea Guvernului nr. 731/2022 privind aprobarea scoaterii din rezervele de stat a unor cantităţi de produse şi acordarea acestora ca ajutoare umanitare interne de urgenţă, cu titlu gratuit, Instituţiei Prefectului din judeţele Botoşani, Brăila, Călăraşi, Constanţa, Ialomiţa, Vaslui şi Ministerului Afacerilor Interne - Inspectoratului General pentru Imigrări, pentru protecţia populaţiei refugiate, în contextul escaladării conflictului din Ucraina",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/255959",
+   "versions": [
+    {
+     "from": "2022-06-06",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/255959",
+     "sha256": "6b0addb283061bcc69268b070222a919cedff12439239ffae50f19c1a0a3f233"
     }
    ]
   },
@@ -152837,6 +152963,21 @@
    ]
   },
   {
+   "slug": "hg-732-2022",
+   "path": "hg/2022/732",
+   "short": "HG nr. 732/2022",
+   "title": "Hotărârea Guvernului nr. 732/2022 privind aprobarea bugetului de venituri şi cheltuieli pe anul 2022 pentru Societatea ROMAERO - S.A., aflată sub autoritatea Ministerului Economiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/255994",
+   "versions": [
+    {
+     "from": "2022-06-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/255994",
+     "sha256": "465df9802c137c998e068a0ab9d1c9d890797eec6261f405448a49bbb208564b"
+    }
+   ]
+  },
+  {
    "slug": "hg-732-2025",
    "path": "hg/2025/732",
    "short": "HG nr. 732/2025",
@@ -152897,6 +153038,21 @@
    ]
   },
   {
+   "slug": "hg-733-2022",
+   "path": "hg/2022/733",
+   "short": "HG nr. 733/2022",
+   "title": "Hotărârea Guvernului nr. 733/2022 privind aprobarea Normelor metodologice pentru identificarea obiectivelor strategice de interes naţional, aflate în stadiul de proiectare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/255995",
+   "versions": [
+    {
+     "from": "2022-06-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/255995",
+     "sha256": "a9f8c49dc4704bf67c826d93d8487481e48e155f88ec7b883b58eacc8d9445e8"
+    }
+   ]
+  },
+  {
    "slug": "hg-733-2025",
    "path": "hg/2025/733",
    "short": "HG nr. 733/2025",
@@ -152938,6 +153094,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/193867",
      "sha256": "d784ee5f86da27c25654ec4b42e9869cd74a445cde0bf32a5fdb5f7a137b74f4"
+    }
+   ]
+  },
+  {
+   "slug": "hg-734-2022",
+   "path": "hg/2022/734",
+   "short": "HG nr. 734/2022",
+   "title": "Hotărârea Guvernului nr. 734/2022 pentru modificarea art. 1 alin. (2) din Hotărârea Guvernului nr. 808/2021 privind organizarea, funcţionarea şi atribuţiile Departamentului pentru Relaţia cu Republica Moldova",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/255997",
+   "versions": [
+    {
+     "from": "2022-06-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/255997",
+     "sha256": "ca1a748d8371fc0f00b78d9741ef86bdae27a713ef0cdb3b6eab916f9e5579e0"
     }
    ]
   },
@@ -153005,6 +153176,21 @@
    ]
   },
   {
+   "slug": "hg-735-2022",
+   "path": "hg/2022/735",
+   "short": "HG nr. 735/2022",
+   "title": "Hotărârea Guvernului nr. 735/2022 pentru aprobarea Protocolului dintre Ministerul Apărării Naţionale din România şi Ministerul Apărării al Republicii Moldova privind colaborarea în domeniul învăţământului militar, semnat la Chişinău la 11 februarie 2022",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/255998",
+   "versions": [
+    {
+     "from": "2022-06-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/255998",
+     "sha256": "1228ab7c25505db547cb2ac65b45b25e0af683a307e331cb4e0d506e7eb2591e"
+    }
+   ]
+  },
+  {
    "slug": "hg-735-2024",
    "path": "hg/2024/735",
    "short": "HG nr. 735/2024",
@@ -153031,6 +153217,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/301998",
      "sha256": "7f8e974b8e90c050a2692628d8f536a7a16f929627a1c6a3c0e6ea9d291229dd"
+    }
+   ]
+  },
+  {
+   "slug": "hg-736-2022",
+   "path": "hg/2022/736",
+   "short": "HG nr. 736/2022",
+   "title": "Hotărârea Guvernului nr. 736/2022 privind actualizarea valorii de inventar şi modificarea descrierii tehnice ale unor bunuri aflate în domeniul public al statului şi în administrarea Ministerului Economiei, precum şi a unor unităţi aflate în subordinea acestuia şi pentru modificarea anexei nr. 7 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/256062",
+   "versions": [
+    {
+     "from": "2022-06-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/256062",
+     "sha256": "753f12f12f2fcfb0fee386edc8137c841ff1a4dc1ebb26adb059e4ed9cb1123f"
     }
    ]
   },
@@ -153185,6 +153386,21 @@
    ]
   },
   {
+   "slug": "hg-738-2022",
+   "path": "hg/2022/738",
+   "short": "HG nr. 738/2022",
+   "title": "Hotărârea Guvernului nr. 738/2022 privind aprobarea amplasamentului şi declanşarea procedurilor de expropriere a imobilelor proprietate privată care constituie coridorul de expropriere situat pe amplasamentul lucrării de utilitate publică de interes naţional \"Apărarea complexă a localităţilor situate în Delta Dunării pentru minimizarea riscului la inundaţii asupra vieţii, judeţul Tulcea\", situate pe raza localităţilor Vulturu şi Ilganii de Sus, comuna Maliuc, judeţul Tulcea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/256023",
+   "versions": [
+    {
+     "from": "2022-06-08",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/256023",
+     "sha256": "54888e868b1636bd75d32f58f7c37657c38c26185ec9102731a5f7af92aa2022"
+    }
+   ]
+  },
+  {
    "slug": "hg-739-2020",
    "path": "hg/2020/739",
    "short": "HG nr. 739/2020",
@@ -153278,6 +153494,21 @@
    ]
   },
   {
+   "slug": "hg-740-2022",
+   "path": "hg/2022/740",
+   "short": "HG nr. 740/2022",
+   "title": "Hotărârea Guvernului nr. 740/2022 privind actualizarea inventarului centralizat al bunurilor din domeniul public al statului ca urmare a actualizării valorii de inventar şi a schimbării unităţii de administrare pentru un imobil aflat în domeniul public al statului şi administrarea Ministerului Afacerilor Interne - Inspectoratul pentru Situaţii de Urgenţă \"General Eremia Grigorescu\" al Judeţului Galaţi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/256015",
+   "versions": [
+    {
+     "from": "2022-06-08",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/256015",
+     "sha256": "af136e379474f89f55c842520179b62f59029443725ac46e2abf3f41f475da04"
+    }
+   ]
+  },
+  {
    "slug": "hg-741-2008",
    "path": "hg/2008/741",
    "short": "HG nr. 741/2008",
@@ -153355,6 +153586,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/205185",
      "sha256": "722f14c3f459021fd743ae99b4484248ea75d8c0ee70c6c15edaf6d425e6eafd"
+    }
+   ]
+  },
+  {
+   "slug": "hg-742-2022",
+   "path": "hg/2022/742",
+   "short": "HG nr. 742/2022",
+   "title": "Hotărârea Guvernului nr. 742/2022 privind înscrierea unor imobile în inventarul centralizat al bunurilor din domeniul public al statului şi darea acestora în administrarea Agenţiei Naţionale de Cadastru şi Publicitate Imobiliară, precum şi pentru modificarea anexei nr. 10 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului, pentru unele bunuri aflate în administrarea Agenţiei Naţionale de Cadastru şi Publicitate Imobiliară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/256049",
+   "versions": [
+    {
+     "from": "2022-06-09",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/256049",
+     "sha256": "fe1f78119a351d090c37b5334195b29cc6ed232bb4db16340eba8704006b7228"
     }
    ]
   },
@@ -153560,6 +153806,21 @@
    ]
   },
   {
+   "slug": "hg-747-2022",
+   "path": "hg/2022/747",
+   "short": "HG nr. 747/2022",
+   "title": "Hotărârea Guvernului nr. 747/2022 pentru modificarea Hotărârii Guvernului nr. 144/2010 privind organizarea şi funcţionarea Ministerului Sănătăţii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/256043",
+   "versions": [
+    {
+     "from": "2022-06-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/256043",
+     "sha256": "952fd40ad8da2304beaa771997e2ad40cca2bd622719516b10342aa5179514bf"
+    }
+   ]
+  },
+  {
    "slug": "hg-747-2023",
    "path": "hg/2023/747",
    "short": "HG nr. 747/2023",
@@ -153631,6 +153892,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/83871",
      "sha256": "73e062d9ddd35c31e66ce8d37d7c4924bfb2be469a95a35f53f84b56baffd4ff"
+    }
+   ]
+  },
+  {
+   "slug": "hg-749-2022",
+   "path": "hg/2022/749",
+   "short": "HG nr. 749/2022",
+   "title": "Hotărârea Guvernului nr. 749/2022 pentru modificarea anexei nr. 2 la Hotărârea Guvernului nr. 1.415/2009 privind organizarea şi funcţionarea Autorităţii Naţionale Sanitare Veterinare şi pentru Siguranţa Alimentelor şi a unităţilor din subordinea acesteia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/256069",
+   "versions": [
+    {
+     "from": "2022-06-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/256069",
+     "sha256": "1ffdcf28a2bf062b9d659eefa3760fd9607fb09e1367092dae008dab0ced0394"
     }
    ]
   },
@@ -153836,6 +154112,21 @@
    ]
   },
   {
+   "slug": "hg-752-2022",
+   "path": "hg/2022/752",
+   "short": "HG nr. 752/2022",
+   "title": "Hotărârea Guvernului nr. 752/2022 pentru aprobarea bugetului de venituri şi cheltuieli pe anul 2022 al Agenţiei Naţionale pentru Locuinţe, instituţie publică aflată sub autoritatea Ministerului Dezvoltării, Lucrărilor Publice şi Administraţiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/256434",
+   "versions": [
+    {
+     "from": "2022-06-15",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/256434",
+     "sha256": "da86623d7df93c4e96efc330a8e8151ddf404513637a1de30bc7f15e8e3fdbc1"
+    }
+   ]
+  },
+  {
    "slug": "hg-752-2023",
    "path": "hg/2023/752",
    "short": "HG nr. 752/2023",
@@ -153913,6 +154204,21 @@
      "units": 9,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/156002",
      "sha256": "76422a28b958f7103fe8431faf24f291d391c65860f7ab3d9fc3844f0fc82002"
+    }
+   ]
+  },
+  {
+   "slug": "hg-753-2022",
+   "path": "hg/2022/753",
+   "short": "HG nr. 753/2022",
+   "title": "Hotărârea Guvernului nr. 753/2022 privind aprobarea repartizării sub formă de vărsăminte la bugetul de stat a cotei din profitul contabil rămas după deducerea impozitului pe profit, realizat de Regia Autonomă \"Monetăria Statului\" pentru exerciţiul financiar al anului 2021",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/256461",
+   "versions": [
+    {
+     "from": "2022-06-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/256461",
+     "sha256": "fdbdf4e728508596fd990ee6c9e9cb97f8cab38f04d8c20479e68bac94bd14aa"
     }
    ]
   },
@@ -154208,6 +154514,21 @@
    ]
   },
   {
+   "slug": "hg-758-2022",
+   "path": "hg/2022/758",
+   "short": "HG nr. 758/2022",
+   "title": "Hotărârea Guvernului nr. 758/2022 privind actualizarea valorii de inventar, modificarea codului de clasificaţie, a descrierii tehnice şi a adresei unor bunuri imobile cuprinse în anexa nr. 12 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului, aflate în administrarea Administraţiei Naţionale \"Apele Române\" prin Administraţia Bazinală de Apă Banat, instituţie publică aflată în coordonarea Ministerului Mediului, Apelor şi Pădurilor, ca urmare a reevaluării şi înscrierii în cartea funciară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/256494",
+   "versions": [
+    {
+     "from": "2022-06-17",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/256494",
+     "sha256": "07a6a886e51786fa5053639e37a40d13935fef353aba27ce386540634c8fa3e9"
+    }
+   ]
+  },
+  {
    "slug": "hg-758-2024",
    "path": "hg/2024/758",
    "short": "HG nr. 758/2024",
@@ -154496,6 +154817,21 @@
    ]
   },
   {
+   "slug": "hg-760-2022",
+   "path": "hg/2022/760",
+   "short": "HG nr. 760/2022",
+   "title": "Hotărârea Guvernului nr. 760/2022 privind actualizarea valorii de inventar pentru un imobil aflat în domeniul public al statului şi în administrarea Ministerului Afacerilor Interne - Direcţia Generală de Poliţie a Municipiului Bucureşti, precum şi trecerea unor construcţii din domeniul public al statului în domeniul privat al acestuia, pentru scoaterea din funcţiune în vederea casării şi, după caz, valorificării",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/256495",
+   "versions": [
+    {
+     "from": "2022-06-17",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/256495",
+     "sha256": "6f99cb19a44537d934b3f6e53a02b45884dbb864c0d76fc7ecbd014d5b2b4a18"
+    }
+   ]
+  },
+  {
    "slug": "hg-760-2024",
    "path": "hg/2024/760",
    "short": "HG nr. 760/2024",
@@ -154522,6 +154858,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/302367",
      "sha256": "a76b266bcbc98ff20e5ec1c679d1c7c01c620dc2387e17bf25f7013fa01479ba"
+    }
+   ]
+  },
+  {
+   "slug": "hg-761-2022",
+   "path": "hg/2022/761",
+   "short": "HG nr. 761/2022",
+   "title": "Hotărârea Guvernului nr. 761/2022 privind închirierea unor părţi din imobilele 1535 şi 2771 aflate în domeniul public al statului şi în administrarea Ministerului Apărării Naţionale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/256462",
+   "versions": [
+    {
+     "from": "2022-06-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/256462",
+     "sha256": "cccf6a36dcf2a84ba1fe507a3dfc80caa9d4d12a0a4a60a4d2c0811d12340a0d"
     }
    ]
   },
@@ -154616,6 +154967,21 @@
    ]
   },
   {
+   "slug": "hg-763-2022",
+   "path": "hg/2022/763",
+   "short": "HG nr. 763/2022",
+   "title": "Hotărârea Guvernului nr. 763/2022 privind trecerea unor bunuri imobile din domeniul public al statului şi din administrarea unor centre judeţene ale Agenţiei de Plăţi şi Intervenţie pentru Agricultură în domeniul public al oraşului Căzăneşti, judeţul Ialomiţa, al oraşelor Brezoi şi Horezu, judeţul Vâlcea, şi al comunei Petreşti, judeţul Dâmboviţa, şi de modificare a anexei nr. 3 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/256464",
+   "versions": [
+    {
+     "from": "2022-06-16",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/256464",
+     "sha256": "9ddcd6183890f251a38fad5dccf1581bc041b18ff811d963c47cea4a24fc5b5d"
+    }
+   ]
+  },
+  {
    "slug": "hg-763-2023",
    "path": "hg/2023/763",
    "short": "HG nr. 763/2023",
@@ -154657,6 +155023,21 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/302643",
      "sha256": "654cac8803ea7b6cff7b4fd00bcc393628d67c33c07346862de3552663c36985"
+    }
+   ]
+  },
+  {
+   "slug": "hg-764-2022",
+   "path": "hg/2022/764",
+   "short": "HG nr. 764/2022",
+   "title": "Hotărârea Guvernului nr. 764/2022 privind actualizarea valorilor de inventar, modificarea datelor tehnice, a denumirii şi comasarea numerelor M.F. 26285, 100891 şi 144709 la poziţia cu nr. 26285, cuprinse în anexa nr. 30 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului, administrate de Ministerul Sportului, prin Clubul Sportiv \"Farul\" Constanţa",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/256507",
+   "versions": [
+    {
+     "from": "2022-06-17",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/256507",
+     "sha256": "c337e30a8c098a9f475678d94d52c378b265b117716b347716eea375cf546a6a"
     }
    ]
   },
@@ -154787,6 +155168,21 @@
    ]
   },
   {
+   "slug": "hg-766-2022",
+   "path": "hg/2022/766",
+   "short": "HG nr. 766/2022",
+   "title": "Hotărârea Guvernului nr. 766/2022 privind aprobarea modelului steagului comunei Semlac, judeţul Arad",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/256789",
+   "versions": [
+    {
+     "from": "2022-06-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/256789",
+     "sha256": "e95b536bf69d517db0ca48a9f3ac562f49647ffcfbf97e78e8cfadd5381a6b6f"
+    }
+   ]
+  },
+  {
    "slug": "hg-766-2023",
    "path": "hg/2023/766",
    "short": "HG nr. 766/2023",
@@ -154868,6 +155264,21 @@
    ]
   },
   {
+   "slug": "hg-767-2022",
+   "path": "hg/2022/767",
+   "short": "HG nr. 767/2022",
+   "title": "Hotărârea Guvernului nr. 767/2022 privind aprobarea modelului steagului comunei Comandău, judeţul Covasna",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/256790",
+   "versions": [
+    {
+     "from": "2022-06-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/256790",
+     "sha256": "b7ae85f82351d3a3763df9a50fffcf68da312b4e56595ff86d469aeb8fc53806"
+    }
+   ]
+  },
+  {
    "slug": "hg-767-2023",
    "path": "hg/2023/767",
    "short": "HG nr. 767/2023",
@@ -154915,6 +155326,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/63009",
      "sha256": "dd484ca3b756c4b687a080d964d06bbf2459b8ad712312ebc4c4351e93c2d371"
+    }
+   ]
+  },
+  {
+   "slug": "hg-768-2022",
+   "path": "hg/2022/768",
+   "short": "HG nr. 768/2022",
+   "title": "Hotărârea Guvernului nr. 768/2022 privind aprobarea modelului steagului comunei Cetăţeni, judeţul Argeş",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/256791",
+   "versions": [
+    {
+     "from": "2022-06-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/256791",
+     "sha256": "2b9a6fa09fdfec1019d5f3e711bd7dcbc206001b40296c3b65f9e2e9dac643d1"
     }
    ]
   },
@@ -154990,6 +155416,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/121695",
      "sha256": "8bac6587c1be71e5f503f23d13ccd35eac562061a660bb6d9853bffffee7750b"
+    }
+   ]
+  },
+  {
+   "slug": "hg-769-2022",
+   "path": "hg/2022/769",
+   "short": "HG nr. 769/2022",
+   "title": "Hotărârea Guvernului nr. 769/2022 privind aprobarea modelului steagului comunei Ceatalchioi, judeţul Tulcea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/256792",
+   "versions": [
+    {
+     "from": "2022-06-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/256792",
+     "sha256": "e228224e1640dc59573a4bd0dc6fd7c76b689812af12cd9c813a4ec414086365"
     }
    ]
   },
@@ -155114,6 +155555,21 @@
    ]
   },
   {
+   "slug": "hg-770-2022",
+   "path": "hg/2022/770",
+   "short": "HG nr. 770/2022",
+   "title": "Hotărârea Guvernului nr. 770/2022 privind aprobarea stemei comunei Ţiţeşti, judeţul Argeş",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/256793",
+   "versions": [
+    {
+     "from": "2022-06-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/256793",
+     "sha256": "b8ce76dea3fad3f8d4e2d38be565c19d59cc16022efef93f96a4d1de57906c07"
+    }
+   ]
+  },
+  {
    "slug": "hg-770-2023",
    "path": "hg/2023/770",
    "short": "HG nr. 770/2023",
@@ -155191,6 +155647,21 @@
      "units": 1,
      "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/230026",
      "sha256": "3ea81f73e94f5e383f2c47d0ae6a28b7e8c0485b6d54d01b7e9a640d9a6249f8"
+    }
+   ]
+  },
+  {
+   "slug": "hg-771-2022",
+   "path": "hg/2022/771",
+   "short": "HG nr. 771/2022",
+   "title": "Hotărârea Guvernului nr. 771/2022 pentru modificarea art. 1 lit. i) din Hotărârea Guvernului nr. 1.366/2001 privind reorganizarea şi schimbarea denumirilor unor unităţi de cercetare din subordinea Academiei Române",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/256497",
+   "versions": [
+    {
+     "from": "2022-06-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/256497",
+     "sha256": "44587329a703226a02cd09b99af00717a458887c71da8bca6b748e9232a40948"
     }
    ]
   },
@@ -155411,6 +155882,21 @@
    ]
   },
   {
+   "slug": "hg-775-2022",
+   "path": "hg/2022/775",
+   "short": "HG nr. 775/2022",
+   "title": "Hotărârea Guvernului nr. 775/2022 privind eliberarea doamnei Lungu Tudoriţa din funcţia de subprefect al judeţului Bacău",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/256492",
+   "versions": [
+    {
+     "from": "2022-06-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/256492",
+     "sha256": "1aa4e47316da4a770a22f327bf15b41efb2dedbbffe8a5d2ce530e4fefdff682"
+    }
+   ]
+  },
+  {
    "slug": "hg-775-2023",
    "path": "hg/2023/775",
    "short": "HG nr. 775/2023",
@@ -155468,6 +155954,21 @@
    ]
   },
   {
+   "slug": "hg-776-2022",
+   "path": "hg/2022/776",
+   "short": "HG nr. 776/2022",
+   "title": "Hotărârea Guvernului nr. 776/2022 pentru modificarea şi completarea anexelor la Hotărârea Guvernului nr. 607/2022 privind unele măsuri necesare procesului de pregătire, organizare şi găzduire a Conferinţei Plenipotenţiarilor Uniunii Internaţionale a Telecomunicaţiilor ce va avea loc la Bucureşti în perioada 26 septembrie-14 octombrie 2022",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/256493",
+   "versions": [
+    {
+     "from": "2022-06-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/256493",
+     "sha256": "60ece81db024c2ea985faaa660059edf86b7d0263cdb21bfe0b2dbef20e197c6"
+    }
+   ]
+  },
+  {
    "slug": "hg-776-2023",
    "path": "hg/2023/776",
    "short": "HG nr. 776/2023",
@@ -155494,6 +155995,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/285353",
      "sha256": "98d85d8e78773f788887d018e414c8fa9eb8186487d02f0dbe40be140d375817"
+    }
+   ]
+  },
+  {
+   "slug": "hg-777-2022",
+   "path": "hg/2022/777",
+   "short": "HG nr. 777/2022",
+   "title": "Hotărârea Guvernului nr. 777/2022 pentru reaprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Lucrări de infrastructură necesare funcţionării Colegiului Naţional Militar «Tudor Vladimirescu» în cazarma 878 Craiova\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/256527",
+   "versions": [
+    {
+     "from": "2022-06-20",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/256527",
+     "sha256": "62aa186805f78f8c920437f110b5085b2f71f926687244378b5d4d8b10aac3e7"
     }
    ]
   },
@@ -155569,6 +156085,21 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/285275",
      "sha256": "2347bb62ac245801ace23966e373034894eb14eeb7f5a80efb0e4fc964cf2e9e"
+    }
+   ]
+  },
+  {
+   "slug": "hg-779-2022",
+   "path": "hg/2022/779",
+   "short": "HG nr. 779/2022",
+   "title": "Hotărârea Guvernului nr. 779/2022 pentru aprobarea Listei cuprinzând categoriile de informaţii secrete de stat, pe niveluri de secretizare, elaborate sau deţinute de Ministerul Sănătăţii, precum şi de către unităţile cu personalitate juridică aflate în subordinea, sub autoritatea sau în coordonarea acestuia şi termenele de menţinere a acestora în nivelurile de secretizare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/256573",
+   "versions": [
+    {
+     "from": "2022-06-20",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/256573",
+     "sha256": "65a70b81a8fa5d4689016fbabbaf352007633577bc9bae76cc27396cc5ff251b"
     }
    ]
   },
@@ -155753,6 +156284,21 @@
    ]
   },
   {
+   "slug": "hg-781-2022",
+   "path": "hg/2022/781",
+   "short": "HG nr. 781/2022",
+   "title": "Hotărârea Guvernului nr. 781/2022 privind înfiinţarea Comitetului interministerial pentru analiza cadrului legal aplicabil sectoarelor cu impact asupra biodiversităţii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/256549",
+   "versions": [
+    {
+     "from": "2022-06-20",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/256549",
+     "sha256": "8975a20e154b0be4629232570b9f46a424e6478da1125ac4d952f62e77b92435"
+    }
+   ]
+  },
+  {
    "slug": "hg-781-2024",
    "path": "hg/2024/781",
    "short": "HG nr. 781/2024",
@@ -155909,6 +156455,21 @@
    ]
   },
   {
+   "slug": "hg-783-2022",
+   "path": "hg/2022/783",
+   "short": "HG nr. 783/2022",
+   "title": "Hotărârea Guvernului nr. 783/2022 privind trecerea unei părţi din imobilul nr. MF 147828, aflat în domeniul public al statului, administrarea Ministerului Transporturilor şi Infrastructurii şi în concesiunea Companiei Naţionale \"C.F.R.\" - S.A., în domeniul public al municipiului Bacău, judeţul Bacău, precum şi modificarea anexei nr. 16 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/256515",
+   "versions": [
+    {
+     "from": "2022-06-17",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/256515",
+     "sha256": "cd175dd72902925aae161c719ef5ce2a4a8ddbe011844d3fa70cf075346e3ae5"
+    }
+   ]
+  },
+  {
    "slug": "hg-783-2023",
    "path": "hg/2023/783",
    "short": "HG nr. 783/2023",
@@ -155986,6 +156547,21 @@
      "units": 11,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/205843",
      "sha256": "952d482ec4ed476c771f13e336d7c5802258a1dd0c388401b230e942d07887cc"
+    }
+   ]
+  },
+  {
+   "slug": "hg-784-2022",
+   "path": "hg/2022/784",
+   "short": "HG nr. 784/2022",
+   "title": "Hotărârea Guvernului nr. 784/2022 privind actualizarea valorii de inventar şi a datelor de identificare ale unui imobil aflat în domeniul public al statului şi în administrarea Ministerului Sănătăţii - Direcţia de Sănătate Publică a Judeţului Constanţa şi trecerea acestuia din domeniul public al statului în domeniul public al judeţului Constanţa",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/256600",
+   "versions": [
+    {
+     "from": "2022-06-21",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/256600",
+     "sha256": "fb262a67146495035263a621e3d976e3339b0b33c8a92d91b95c45f0a549cfa6"
     }
    ]
   },
@@ -157262,6 +157838,21 @@
    ]
   },
   {
+   "slug": "hg-799-2022",
+   "path": "hg/2022/799",
+   "short": "HG nr. 799/2022",
+   "title": "Hotărârea Guvernului nr. 799/2022 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2022, pentru suplimentarea bugetului Ministerului Afacerilor Interne, în scopul decontării din bugetul inspectoratelor judeţene pentru situaţii de urgenţă/Inspectoratului pentru Situaţii de Urgenţă Bucureşti-Ilfov a cheltuielilor cu hrana şi cazarea cetăţenilor străini sau apatrizilor aflaţi în situaţii deosebite, proveniţi din zona conflictului armat din Ucraina, găzduiţi de persoane fizice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/256690",
+   "versions": [
+    {
+     "from": "2022-06-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/256690",
+     "sha256": "1a9ed0a1a43a33123fc48c272e85a23c7711cbabc5b9d7e378afa0d2b817cfaa"
+    }
+   ]
+  },
+  {
    "slug": "hg-799-2023",
    "path": "hg/2023/799",
    "short": "HG nr. 799/2023",
@@ -157672,6 +158263,21 @@
      "units": 11,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/284457",
      "sha256": "6703a06fb285c81396372f81f090ed2b3ca3829fc1b7e19447ee4dc548562773"
+    }
+   ]
+  },
+  {
+   "slug": "hg-803-2022",
+   "path": "hg/2022/803",
+   "short": "HG nr. 803/2022",
+   "title": "Hotărârea Guvernului nr. 803/2022 pentru derogarea de la prevederile art. 5 alin. (1^3) din Normele metodologice de aplicare a Ordonanţei de urgenţă a Guvernului nr. 110/2017 privind Programul de susţinere a întreprinderilor mici şi mijlocii şi a întreprinderilor mici cu capitalizare de piaţă medie - IMM INVEST ROMÂNIA, aprobate prin Hotărârea Guvernului nr. 282/2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/256691",
+   "versions": [
+    {
+     "from": "2022-06-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/256691",
+     "sha256": "529c6a24884fa30e4d09a6faf98215ce650c38fb5a83e5990fbadebfc182d830"
     }
    ]
   },
@@ -158491,6 +159097,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/302729",
      "sha256": "f61f8fc516b27da6b44768761d4d215afddb6f35dc03d7d5f038df9e34f32d72"
+    }
+   ]
+  },
+  {
+   "slug": "hg-816-2022",
+   "path": "hg/2022/816",
+   "short": "HG nr. 816/2022",
+   "title": "Hotărârea Guvernului nr. 816/2022 privind recunoaşterea Asociaţiei GAL Valea Dunării Sudolt, judeţul Dolj, ca fiind de utilitate publică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/256802",
+   "versions": [
+    {
+     "from": "2022-06-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/256802",
+     "sha256": "41c9daf1eede9ef6b7b229c80d8763bf2d8f25a737adec23ff74ff604c3087b4"
     }
    ]
   },
