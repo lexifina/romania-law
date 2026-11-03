@@ -8791,6 +8791,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/55664"
 },
 {
+"slug": "legea-403-2004",
+"path": "lege/2004/403",
+"kind": "lege",
+"year": "2004",
+"number": "403",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 403/2004",
+"short": "Legea nr. 403/2004",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2004-10-28",
+"latest": "2004-10-28",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/56106"
+},
+{
 "slug": "legea-411-2004",
 "path": "lege/2004/411",
 "kind": "lege",
@@ -63002,6 +63019,23 @@
 "from": "1999-01-01",
 "latest": "2010-01-27",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/115977"
+},
+{
+"slug": "og-128-1998",
+"path": "og/1998/128",
+"kind": "og",
+"year": "1998",
+"number": "128",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța Guvernului nr. 128/1998",
+"short": "OG nr. 128/1998",
+"code": null,
+"status": "repealed 2007-05-03",
+"versions": 9,
+"from": "1998-08-29",
+"latest": "2007-05-03",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/61710"
 },
 {
 "slug": "og-16-1999",

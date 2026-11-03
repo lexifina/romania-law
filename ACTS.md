@@ -1,6 +1,6 @@
 # Every act in this repository
 
-9216 acts, 22,434 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+9218 acts, 22,444 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -32,7 +32,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (2105, of which 864 amending acts)
+## Laws (legi) (2106, of which 864 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -552,6 +552,7 @@
 | Legea nr. 389/2004 | [`lege/2004/389/`](lege/2004/389/) | in force | 6 | 2004-10-16 | 2012-08-14 |
 | Legea nr. 391/2004 privind Semnul onorific Răsplata Muncii în Serviciul Public | [`lege/2004/391/`](lege/2004/391/) | in force | 2 | 2004-10-14 | 2011-10-30 |
 | Legea nr. 393/2004 | [`lege/2004/393/`](lege/2004/393/) | repealed 2019-07-05 | 15 | 2004-12-06 | 2019-07-05 |
+| Legea nr. 403/2004 | [`lege/2004/403/`](lege/2004/403/) | in force | 1 | 2004-10-28 | 2004-10-28 |
 | Legea nr. 411/2004 | [`lege/2004/411/`](lege/2004/411/) | in force | 26 | 2006-07-01 | 2025-04-17 |
 | Legea nr. 418/2004 privind statutul profesional specific al medicului de medicina a muncii | [`lege/2004/418/`](lege/2004/418/) | in force | 2 | 2004-11-01 | 2007-03-24 |
 | Legea nr. 425/2004 | [`lege/2004/425/`](lege/2004/425/) | in force | 1 | 2004-10-31 | 2004-10-31 |
@@ -3689,7 +3690,7 @@
 | Ordonanța de urgență a Guvernului nr. 30/2026 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 23/2004 privind stabilirea unor măsuri de reorganizare a Autorităţii pentru Valorificarea Activelor Bancare prin comasarea prin absorbţie cu Autoritatea pentru Privatizare şi Administrarea Participaţiilor Statului | [`oug/2026/30/`](oug/2026/30/) | amending act | 1 | 2026-04-21 | 2026-04-21 |
 | Ordonanța de urgență a Guvernului nr. 33/2026 pentru modificarea şi completarea Legii educaţiei fizice şi sportului nr. 69/2000 | [`oug/2026/33/`](oug/2026/33/) | amending act | 1 | 2026-04-27 | 2026-04-27 |
 
-## Ordinances (OG) (481, of which 92 amending acts)
+## Ordinances (OG) (482, of which 92 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -3751,6 +3752,7 @@
 | Ordonanța Guvernului nr. 121/1998 | [`og/1998/121/`](og/1998/121/) | in force | 4 | 1998-11-27 | 2024-01-09 |
 | Ordonanța Guvernului nr. 124/1998 | [`og/1998/124/`](og/1998/124/) | in force | 11 | 1998-09-28 | 2025-05-23 |
 | Ordonanța Guvernului nr. 125/1998 | [`og/1998/125/`](og/1998/125/) | in force | 8 | 1999-01-01 | 2010-01-27 |
+| Ordonanța Guvernului nr. 128/1998 | [`og/1998/128/`](og/1998/128/) | repealed 2007-05-03 | 9 | 1998-08-29 | 2007-05-03 |
 | Ordonanța Guvernului nr. 16/1999 | [`og/1999/16/`](og/1999/16/) | in force | 3 | 1999-01-29 | 2003-11-27 |
 | Ordonanța Guvernului nr. 19/1999 | [`og/1999/19/`](og/1999/19/) | in force | 1 | 1999-01-29 | 1999-01-29 |
 | Ordonanța Guvernului nr. 39/1999 privind finalizarea procesului de restructurare a Băncii Române de Comerț Exterior - Bancorex - S.A. și fuziunea prin absorbire a acestei bănci cu Banca Comercială Română - S.A. | [`og/1999/39/`](og/1999/39/) | in force | 9 | 1999-07-30 | 2003-04-09 |
