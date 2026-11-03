@@ -6564,6 +6564,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/149910"
 },
 {
+"slug": "legea-7-2004",
+"path": "lege/2004/7",
+"kind": "lege",
+"year": "2004",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 7/2004",
+"short": "Legea nr. 7/2004",
+"code": null,
+"status": "repealed 2019-07-05",
+"versions": 4,
+"from": "2004-03-09",
+"latest": "2019-07-05",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/49915"
+},
+{
 "slug": "legea-8-2004",
 "path": "lege/2004/8",
 "kind": "lege",
@@ -14059,6 +14076,23 @@
 "from": "2014-01-19",
 "latest": "2014-01-19",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/154581"
+},
+{
+"slug": "legea-383-2013",
+"path": "lege/2013/383",
+"kind": "lege",
+"year": "2013",
+"number": "383",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 383/2013",
+"short": "Legea nr. 383/2013",
+"code": null,
+"status": "in force",
+"versions": 4,
+"from": "2014-01-12",
+"latest": "2020-06-18",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/154381"
 },
 {
 "slug": "legea-17-2014",
@@ -35751,6 +35785,23 @@
 "from": "2008-03-04",
 "latest": "2013-09-02",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/152164"
+},
+{
+"slug": "oug-19-2008",
+"path": "oug/2008/19",
+"kind": "oug",
+"year": "2008",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 19/2008",
+"short": "OUG nr. 19/2008",
+"code": null,
+"status": "in force",
+"versions": 4,
+"from": "2008-03-03",
+"latest": "2009-06-04",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/205239"
 },
 {
 "slug": "oug-23-2008",
@@ -58108,6 +58159,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/202985"
 },
 {
+"slug": "og-47-2007",
+"path": "og/2007/47",
+"kind": "og",
+"year": "2007",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța Guvernului nr. 47/2007",
+"short": "OG nr. 47/2007",
+"code": null,
+"status": "in force",
+"versions": 4,
+"from": "2007-09-03",
+"latest": "2009-04-10",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/148467"
+},
+{
 "slug": "og-1-2008",
 "path": "og/2008/1",
 "kind": "og",
@@ -59738,6 +59806,23 @@
 "from": "2016-09-01",
 "latest": "2016-09-01",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/181228"
+},
+{
+"slug": "og-22-2016",
+"path": "og/2016/22",
+"kind": "og",
+"year": "2016",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța Guvernului nr. 22/2016",
+"short": "OG nr. 22/2016",
+"code": null,
+"status": "in force",
+"versions": 3,
+"from": "2016-09-01",
+"latest": "2017-07-06",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/181229"
 },
 {
 "slug": "og-23-2016",
