@@ -1,6 +1,6 @@
 # Every act in this repository
 
-12309 acts, 25,891 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+12310 acts, 25,892 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -4566,7 +4566,7 @@
 | Ordonanța Guvernului nr. 21/2025 pentru modificarea și completarea Legii nr. 431/2023 privind asigurarea unui nivel minim global de impozitare a grupurilor de întreprinderi multinaționale și a grupurilor naționale de mari dimensiuni | [`og/2025/21/`](og/2025/21/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 | Ordonanța Guvernului nr. 22/2025 pentru modificarea și completarea Legii nr. 227/2015 privind Codul fiscal | [`og/2025/22/`](og/2025/22/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 
-## Government decisions (HG) (7752, of which 3356 amending acts)
+## Government decisions (HG) (7753, of which 3356 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -5556,6 +5556,7 @@
 | Hotărârea Guvernului nr. 117/2009 privind aplicarea mobilităţii pentru domnul Şerban Claudiu Octavian din funcţia publică de prefect al judeţului Bacău în funcţia publică de inspector guvernamental | [`hg/2009/117/`](hg/2009/117/) | in force | 1 | 2009-02-25 | 2009-02-25 |
 | Hotărârea Guvernului nr. 118/2009 privind exercitarea, cu caracter temporar, a funcţiei publice de prefect al judeţului Bacău de către domnul Pocovnicu Constantin-Dorian | [`hg/2009/118/`](hg/2009/118/) | in force | 1 | 2009-02-25 | 2009-02-25 |
 | Hotărârea Guvernului nr. 119/2009 privind aplicarea mobilităţii pentru domnul Paulescu Ioan Anton din funcţia publică de prefect al judeţului Caraş-Severin în funcţia publică de inspector guvernamental | [`hg/2009/119/`](hg/2009/119/) | in force | 1 | 2009-02-25 | 2009-02-25 |
+| Hotărârea Guvernului nr. 120/2009 privind exercitarea, cu caracter temporar, a funcţiei publice de prefect al judeţului Caraş-Severin de către domnul Ţunea Octavian-Gheorghe | [`hg/2009/120/`](hg/2009/120/) | in force | 1 | 2009-02-25 | 2009-02-25 |
 | Hotărârea Guvernului nr. 121/2009 privind aplicarea mobilităţii pentru domnul Lazăr Mirel-Nicolae din funcţia publică de prefect al judeţului Dâmboviţa în funcţia publică de inspector guvernamental | [`hg/2009/121/`](hg/2009/121/) | in force | 1 | 2009-02-25 | 2009-02-25 |
 | Hotărârea Guvernului nr. 122/2009 privind exercitarea, cu caracter temporar, a funcţiei publice de prefect al judeţului Dâmboviţa de către domnul Caracota Iancu | [`hg/2009/122/`](hg/2009/122/) | in force | 1 | 2009-02-25 | 2009-02-25 |
 | Hotărârea Guvernului nr. 123/2009 privind aplicarea mobilităţii pentru domnul Jecu Nicolae din funcţia publică de prefect al judeţului Ilfov în funcţia publică de inspector guvernamental | [`hg/2009/123/`](hg/2009/123/) | in force | 1 | 2009-02-25 | 2009-02-25 |
