@@ -69,5 +69,32 @@ Act id: `oug-123-2003` (tags `oug-123-2003/<day>`; `python tools/on.py <day> oug
 - OUG nr. 123/2003: the first version is the emergency ordinance as published in Monitorul Oficial nr. 919 of 22 December 2003 (DetaliiDocumentAfis/48622), dated 1 January 2004: its art. 52 puts it in force on 1 January 2004. The portal holds no consolidated form before 22 May 2004, so the changes made up to then arrive together that day.
 - OUG nr. 123/2003: the signature block after the last article (the signatories, the place, the date and the number) is not part of an article and is left out, as in every act of this record.
 - OUG nr. 123/2003: wording changes between forms that no note credits (typesetting, diacritics, misprints, renamed bodies) are the publisher's: no law is credited for them and each is dated by the first form that shows it.
+- OUG nr. 123/2003: the form of 1 January 2005 leaves out the text of 21 articles with no note at the article; the form's editorial note gives the reason: art. 45 lit. a) of Ordonanța de urgență nr. 92/2004 (Monitorul Oficial nr. 1091 of 23 November 2004) repeals the provisions on public officials in this ordinance; credited to that ordinance (flag form_credits).
 - OUG nr. 123/2003: a form that prints one text for a range of articles ("Articolul 20-Articolul 42") gives each article in the range that text; one form tags the range as a chapter ("Capitolul 66-Articolul 73"), read the same.
-- OUG nr. 123/2003: 28 changed article(s) with no note naming a law, committed as the publisher's: 2004-05-22 art-016, 2004-05-22 art-018, 2004-05-22 art-029, 2004-05-22 art-042, 2004-05-22 art-045, 2005-01-01 art-020, 2005-01-01 art-021, 2005-01-01 art-022, 2005-01-01 art-023, 2005-01-01 art-024, 2005-01-01 art-025, 2005-01-01 art-026, 2005-01-01 art-027, 2005-01-01 art-028, 2005-01-01 art-029, 2005-01-01 art-030, 2005-01-01 art-031, 2005-01-01 art-032, 2005-01-01 art-033, 2005-01-01 art-034, 2005-01-01 art-035, 2005-01-01 art-036, 2005-01-01 art-037, 2005-01-01 art-038, 2005-01-01 art-039, 2005-01-01 art-040, 2005-01-01 art-041, 2005-01-01 art-042.
+- OUG nr. 123/2003: 7 changed article(s) with no note naming a law, committed as the publisher's: 2004-05-22 art-016, 2004-05-22 art-018, 2004-05-22 art-029, 2004-05-22 art-042, 2004-05-22 art-045, 2005-01-01 art-020, 2005-01-01 art-032.
+
+## Credits corrected
+
+These changes were first published credited to another law. The words are unchanged; `git blame` still names the commit that wrote them, and `data/credits.csv` lists every corrected credit.
+
+- `art-021.md`, in force from 2005-01-01: OUG nr. 92/2004 (first published as no law named).
+- `art-022.md`, in force from 2005-01-01: OUG nr. 92/2004 (first published as no law named).
+- `art-023.md`, in force from 2005-01-01: OUG nr. 92/2004 (first published as no law named).
+- `art-024.md`, in force from 2005-01-01: OUG nr. 92/2004 (first published as no law named).
+- `art-025.md`, in force from 2005-01-01: OUG nr. 92/2004 (first published as no law named).
+- `art-026.md`, in force from 2005-01-01: OUG nr. 92/2004 (first published as no law named).
+- `art-027.md`, in force from 2005-01-01: OUG nr. 92/2004 (first published as no law named).
+- `art-028.md`, in force from 2005-01-01: OUG nr. 92/2004 (first published as no law named).
+- `art-029.md`, in force from 2005-01-01: OUG nr. 92/2004 (first published as no law named).
+- `art-030.md`, in force from 2005-01-01: OUG nr. 92/2004 (first published as no law named).
+- `art-031.md`, in force from 2005-01-01: OUG nr. 92/2004 (first published as no law named).
+- `art-033.md`, in force from 2005-01-01: OUG nr. 92/2004 (first published as no law named).
+- `art-034.md`, in force from 2005-01-01: OUG nr. 92/2004 (first published as no law named).
+- `art-035.md`, in force from 2005-01-01: OUG nr. 92/2004 (first published as no law named).
+- `art-036.md`, in force from 2005-01-01: OUG nr. 92/2004 (first published as no law named).
+- `art-037.md`, in force from 2005-01-01: OUG nr. 92/2004 (first published as no law named).
+- `art-038.md`, in force from 2005-01-01: OUG nr. 92/2004 (first published as no law named).
+- `art-039.md`, in force from 2005-01-01: OUG nr. 92/2004 (first published as no law named).
+- `art-040.md`, in force from 2005-01-01: OUG nr. 92/2004 (first published as no law named).
+- `art-041.md`, in force from 2005-01-01: OUG nr. 92/2004 (first published as no law named).
+- `art-042.md`, in force from 2005-01-01: OUG nr. 92/2004 (first published as no law named).
