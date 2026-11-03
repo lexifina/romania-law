@@ -12174,6 +12174,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/280837"
 },
 {
+"slug": "legea-64-2008",
+"path": "lege/2008/64",
+"kind": "lege",
+"year": "2008",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 64/2008",
+"short": "Legea nr. 64/2008",
+"code": null,
+"status": "in force",
+"versions": 12,
+"from": "2008-06-25",
+"latest": "2023-12-23",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/90716"
+},
+{
 "slug": "legea-76-2008",
 "path": "lege/2008/76",
 "kind": "lege",

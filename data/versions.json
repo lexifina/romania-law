@@ -54863,6 +54863,87 @@
    ]
   },
   {
+   "slug": "legea-64-2008",
+   "path": "lege/2008/64",
+   "short": "Legea nr. 64/2008",
+   "title": "Legea nr. 64/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/90716",
+   "versions": [
+    {
+     "from": "2008-06-25",
+     "units": 30,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/90716",
+     "sha256": "a380b9c34e0e39d4bd8194e3dc08f4365839d183cd4ba1577c3700a6c477de5b"
+    },
+    {
+     "from": "2008-11-17",
+     "units": 30,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121967",
+     "sha256": "2e391a02283922f8e7049c4ab810377348fd8a07fa7f9958b62446f05f16dc14"
+    },
+    {
+     "from": "2010-08-29",
+     "units": 30,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121969",
+     "sha256": "7c3fbbacac63db9031e244529ac911fe0e25e325bdcad8895881ac18034e944b"
+    },
+    {
+     "from": "2011-06-12",
+     "units": 30,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/129308",
+     "sha256": "0791acf9f3cbc5761208b39aa036085a8fbb3b0a769acbe5aa18715abb3842de"
+    },
+    {
+     "from": "2011-07-08",
+     "units": 30,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/129946",
+     "sha256": "a11eae89da1f25488023409dd7d5abe3ba9c97f2733074c13e3791a8b32daccb"
+    },
+    {
+     "from": "2014-02-01",
+     "units": 30,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/155231",
+     "sha256": "2d2961c42df81be22f3cbbae3373db6378b7780cf09e99bc4eddaa34349b79e3"
+    },
+    {
+     "from": "2015-06-08",
+     "units": 29,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/168615",
+     "sha256": "ac5f98be6896372350eb1c2273a84b0f6b6467c5ce37ebe69990ee2f2be71167"
+    },
+    {
+     "from": "2019-01-03",
+     "units": 29,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/210760",
+     "sha256": "0d86ccdb132614e48e9f21042e5e6f0507d99ac317657f57049dcc27d21d065d"
+    },
+    {
+     "from": "2019-04-17",
+     "units": 29,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/211497",
+     "sha256": "32fa9b9d2035251d62c9d6f75f8075b32398aa8536c045c47e75f0053f316f61"
+    },
+    {
+     "from": "2023-03-16",
+     "units": 29,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/265074",
+     "sha256": "91a18be44409a529fd44ccbd162a062421506b7bc2002c1c8561ba57d0a7e176"
+    },
+    {
+     "from": "2023-12-13",
+     "units": 29,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/90716",
+     "sha256": "ba2e8727b6df452486016a67f3185b413dbffab64a8a892abc15a06052fde609"
+    },
+    {
+     "from": "2023-12-23",
+     "units": 29,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/90716",
+     "sha256": "ba2e8727b6df452486016a67f3185b413dbffab64a8a892abc15a06052fde609"
+    }
+   ]
+  },
+  {
    "slug": "legea-65-2012",
    "path": "lege/2012/65",
    "short": "Legea nr. 65/2012",

@@ -1,6 +1,6 @@
 # Every act in this repository
 
-9246 acts, 22,476 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+9247 acts, 22,488 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -32,7 +32,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (2109, of which 865 amending acts)
+## Laws (legi) (2110, of which 865 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -751,6 +751,7 @@
 | Legea nr. 26/2008 | [`lege/2008/26/`](lege/2008/26/) | in force | 1 | 2008-03-08 | 2008-03-08 |
 | Legea nr. 35/2008 | [`lege/2008/35/`](lege/2008/35/) | in force | 12 | 2008-03-16 | 2014-03-24 |
 | Legea nr. 46/2008 - Codul silvic | [`lege/2008/46/`](lege/2008/46/) | in force | 22 | 2008-12-08 | 2024-04-13 |
+| Legea nr. 64/2008 | [`lege/2008/64/`](lege/2008/64/) | in force | 12 | 2008-06-25 | 2023-12-23 |
 | Legea nr. 76/2008 | [`lege/2008/76/`](lege/2008/76/) | in force | 5 | 2008-10-14 | 2024-03-29 |
 | Legea nr. 84/2008 | [`lege/2008/84/`](lege/2008/84/) | in force | 1 | 2008-04-18 | 2008-04-18 |
 | Legea nr. 95/2008 | [`lege/2008/95/`](lege/2008/95/) | in force | 2 | 2008-04-21 | 2011-01-01 |
