@@ -1,6 +1,6 @@
 # Every act in this repository
 
-5879 acts, 16,523 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+5886 acts, 16,555 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -32,7 +32,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (1709, of which 637 amending acts)
+## Laws (legi) (1712, of which 637 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -392,6 +392,7 @@
 | Legea nr. 449/2003 | [`lege/2003/449/`](lege/2003/449/) | in force | 7 | 2007-01-01 | 2019-01-06 |
 | Legea nr. 460/2003 | [`lege/2003/460/`](lege/2003/460/) | in force | 2 | 2003-12-25 | 2024-06-17 |
 | Legea nr. 477/2003 | [`lege/2003/477/`](lege/2003/477/) | in force | 6 | 2004-01-19 | 2021-03-20 |
+| Legea nr. 491/2003 | [`lege/2003/491/`](lege/2003/491/) | in force | 6 | 2003-11-29 | 2020-11-23 |
 | Legea nr. 502/2003 pentru aprobarea Ordonanței Guvernului nr. 33/2003 privind înființarea Centrului Român pentru Pregătirea și Perfecționarea Personalului din Transporturi Navale - CERONAV | [`lege/2003/502/`](lege/2003/502/) | amending act | 1 | 2003-12-08 | 2003-12-08 |
 | Legea nr. 514/2003 | [`lege/2003/514/`](lege/2003/514/) | in force | 3 | 2003-12-08 | 2023-06-10 |
 | Legea nr. 517/2003 | [`lege/2003/517/`](lege/2003/517/) | in force | 1 | 2003-12-13 | 2003-12-13 |
@@ -455,6 +456,7 @@
 | Legea nr. 329/2004 | [`lege/2004/329/`](lege/2004/329/) | in force | 1 | 2004-07-23 | 2004-07-23 |
 | Legea nr. 341/2004 | [`lege/2004/341/`](lege/2004/341/) | in force | 20 | 2004-07-23 | 2021-10-11 |
 | Legea nr. 346/2004 privind stimularea înființării și dezvoltării întreprinderilor mici și mijlocii | [`lege/2004/346/`](lege/2004/346/) | in force | 20 | 2004-08-01 | 2025-12-12 |
+| Legea nr. 347/2004 | [`lege/2004/347/`](lege/2004/347/) | in force | 6 | 2004-07-29 | 2010-08-04 |
 | Legea nr. 348/2004 privind denominarea monedei naționale | [`lege/2004/348/`](lege/2004/348/) | in force | 3 | 2004-07-26 | 2005-05-08 |
 | Legea nr. 359/2004 | [`lege/2004/359/`](lege/2004/359/) | repealed 2022-11-26 | 11 | 2004-10-13 | 2022-11-26 |
 | Legea nr. 364/2004 | [`lege/2004/364/`](lege/2004/364/) | in force | 9 | 2004-09-26 | 2020-02-11 |
@@ -590,6 +592,7 @@
 | Legea nr. 7/2007 | [`lege/2007/7/`](lege/2007/7/) | in force | 1 | 2007-01-20 | 2007-01-20 |
 | Legea nr. 9/2007 | [`lege/2007/9/`](lege/2007/9/) | in force | 1 | 2007-01-20 | 2007-01-20 |
 | Legea nr. 13/2007 energiei electrice | [`lege/2007/13/`](lege/2007/13/) | in force | 7 | 2007-02-22 | 2012-10-06 |
+| Legea nr. 24/2007 | [`lege/2007/24/`](lege/2007/24/) | in force | 6 | 2007-01-21 | 2014-10-19 |
 | Legea nr. 27/2007 | [`lege/2007/27/`](lege/2007/27/) | in force | 1 | 2007-01-21 | 2007-01-21 |
 | Legea nr. 35/2007 | [`lege/2007/35/`](lege/2007/35/) | in force | 2 | 2007-03-11 | 2010-03-07 |
 | Legea nr. 57/2007 | [`lege/2007/57/`](lege/2007/57/) | in force | 3 | 2007-03-19 | 2011-01-12 |
@@ -1746,7 +1749,7 @@
 | Legea nr. 241/2025 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 31/2002 privind interzicerea organizațiilor, simbolurilor și faptelor cu caracter fascist, legionar, rasist sau xenofob și a promovării cultului persoanelor vinovate de săvârșirea unor infracțiuni de genocid contra umanității și de crime de război, precum și pentru modificarea Legii nr. 157/2018 privind unele măsuri pentru prevenirea și combaterea antisemitismului | [`lege/2025/241/`](lege/2025/241/) | amending act | 1 | 2025-12-27 | 2025-12-27 |
 | Legea nr. 245/2025 pentru modificarea art. 32 alin. (7) din Legea nr. 273/2006 privind finanțele publice locale | [`lege/2025/245/`](lege/2025/245/) | amending act | 1 | 2026-01-01 | 2026-01-01 |
 
-## Emergency ordinances (OUG) (1418, of which 513 amending acts)
+## Emergency ordinances (OUG) (1422, of which 513 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -2029,6 +2032,8 @@
 | Ordonanța de urgență a Guvernului nr. 100/2006 privind transmiterea unor părți dintr-un imobil proprietate privată a statului din administrarea Societății Comerciale ”Compania Națională de Transporturi Aeriene Române - TAROM” - S.A. în administrarea Companiei Naționale de Investiții ”C.N.I.” - S.A. | [`oug/2006/100/`](oug/2006/100/) | in force | 2 | 2006-12-27 | 2007-05-13 |
 | Ordonanța de urgență a Guvernului nr. 111/2006 | [`oug/2006/111/`](oug/2006/111/) | in force | 2 | 2006-12-27 | 2007-10-12 |
 | Ordonanța de urgență a Guvernului nr. 113/2006 privind înființarea Fondului național de dezvoltare | [`oug/2006/113/`](oug/2006/113/) | in force | 3 | 2006-12-27 | 2010-07-19 |
+| Ordonanța de urgență a Guvernului nr. 117/2006 | [`oug/2006/117/`](oug/2006/117/) | in force | 2 | 2007-01-01 | 2007-05-27 |
+| Ordonanța de urgență a Guvernului nr. 118/2006 | [`oug/2006/118/`](oug/2006/118/) | in force | 7 | 2006-12-28 | 2014-09-29 |
 | Ordonanța de urgență a Guvernului nr. 119/2006 | [`oug/2006/119/`](oug/2006/119/) | in force | 8 | 2006-12-28 | 2024-01-14 |
 | Ordonanța de urgență a Guvernului nr. 120/2006 | [`oug/2006/120/`](oug/2006/120/) | in force | 2 | 2006-12-28 | 2007-04-23 |
 | Ordonanța de urgență a Guvernului nr. 123/2006 | [`oug/2006/123/`](oug/2006/123/) | repealed 2011-01-02 | 3 | 2006-12-28 | 2011-01-02 |
@@ -2036,6 +2041,7 @@
 | Ordonanța de urgență a Guvernului nr. 125/2006 | [`oug/2006/125/`](oug/2006/125/) | in force | 5 | 2006-12-29 | 2014-08-30 |
 | Ordonanța de urgență a Guvernului nr. 126/2006 | [`oug/2006/126/`](oug/2006/126/) | in force | 2 | 2006-12-28 | 2007-06-15 |
 | Ordonanța de urgență a Guvernului nr. 128/2006 | [`oug/2006/128/`](oug/2006/128/) | in force | 1 | 2006-12-28 | 2006-12-28 |
+| Ordonanța de urgență a Guvernului nr. 129/2006 | [`oug/2006/129/`](oug/2006/129/) | in force | 2 | 2007-01-01 | 2007-05-28 |
 | Ordonanța de urgență a Guvernului nr. 11/2007 | [`oug/2007/11/`](oug/2007/11/) | in force | 2 | 2007-03-05 | 2007-06-23 |
 | Ordonanța de urgență a Guvernului nr. 12/2007 | [`oug/2007/12/`](oug/2007/12/) | in force | 1 | 2007-03-02 | 2007-03-02 |
 | Ordonanța de urgență a Guvernului nr. 14/2007 | [`oug/2007/14/`](oug/2007/14/) | in force | 2 | 2007-03-19 | 2007-10-20 |
@@ -2150,6 +2156,7 @@
 | Ordonanța de urgență a Guvernului nr. 211/2008 | [`oug/2008/211/`](oug/2008/211/) | in force | 1 | 2008-12-15 | 2008-12-15 |
 | Ordonanța de urgență a Guvernului nr. 212/2008 | [`oug/2008/212/`](oug/2008/212/) | in force | 2 | 2008-12-12 | 2010-11-25 |
 | Ordonanța de urgență a Guvernului nr. 213/2008 | [`oug/2008/213/`](oug/2008/213/) | in force | 1 | 2008-12-15 | 2008-12-15 |
+| Ordonanța de urgență a Guvernului nr. 214/2008 | [`oug/2008/214/`](oug/2008/214/) | in force | 3 | 2009-02-14 | 2009-10-14 |
 | Ordonanța de urgență a Guvernului nr. 215/2008 | [`oug/2008/215/`](oug/2008/215/) | in force | 1 | 2008-12-16 | 2008-12-16 |
 | Ordonanța de urgență a Guvernului nr. 216/2008 | [`oug/2008/216/`](oug/2008/216/) | in force | 2 | 2008-12-17 | 2009-05-17 |
 | Ordonanța de urgență a Guvernului nr. 217/2008 | [`oug/2008/217/`](oug/2008/217/) | in force | 3 | 2008-12-17 | 2009-11-12 |
