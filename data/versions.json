@@ -9455,6 +9455,33 @@
    ]
   },
   {
+   "slug": "hg-1024-2004",
+   "path": "hg/2004/1024",
+   "short": "HG nr. 1024/2004",
+   "title": "Hotărârea Guvernului nr. 1024/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53937",
+   "versions": [
+    {
+     "from": "2004-07-29",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/53937",
+     "sha256": "359747e96a94d664abfc947203099c72db448bb23f5ef433887fbaa928ce2b01"
+    },
+    {
+     "from": "2005-06-23",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53937",
+     "sha256": "97eb3796c06f95d5b658eac59779c4a98aae8b212441e70ca28de9bce777af47"
+    },
+    {
+     "from": "2006-06-13",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53937",
+     "sha256": "97eb3796c06f95d5b658eac59779c4a98aae8b212441e70ca28de9bce777af47"
+    }
+   ]
+  },
+  {
    "slug": "hg-1028-2014",
    "path": "hg/2014/1028",
    "short": "HG nr. 1028/2014",
@@ -10916,6 +10943,27 @@
    ]
   },
   {
+   "slug": "hg-1235-2022",
+   "path": "hg/2022/1235",
+   "short": "HG nr. 1235/2022",
+   "title": "Hotărârea Guvernului nr. 1235/2022 privind aprobarea distribuţiei bugetului aferent reformelor şi investiţiilor finanţate prin Planul naţional de redresare şi rezilienţă al României pentru fiecare coordonator de reformă şi/sau investiţii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/260349",
+   "versions": [
+    {
+     "from": "2022-10-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/260349",
+     "sha256": "ad2abb3751fe9ab4e2dc4a20d7dcbf1614a539fc53292c450b15c01e59ad52a8"
+    },
+    {
+     "from": "2024-03-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/260349",
+     "sha256": "9735cc0ff98550d5c714f5e5a67f1c0a4a8da7a1f1b6d09ee2dc3bc51f06281e"
+    }
+   ]
+  },
+  {
    "slug": "hg-1284-2007",
    "path": "hg/2007/1284",
    "short": "HG nr. 1284/2007",
@@ -10948,6 +10996,27 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/49330",
      "sha256": "30ee851ed2d39de323bff1bda80d005c9be3b8f1f38752a72a5122143bd2ab62"
+    }
+   ]
+  },
+  {
+   "slug": "hg-13-2017",
+   "path": "hg/2017/13",
+   "short": "HG nr. 13/2017",
+   "title": "Hotărârea Guvernului nr. 13/2017",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/218114",
+   "versions": [
+    {
+     "from": "2017-01-16",
+     "units": 24,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/185728",
+     "sha256": "4f3faf1d3428c2b1e2c1db061c9762dfed9e2c328fdbb0289f95960a0f84db44"
+    },
+    {
+     "from": "2018-05-02",
+     "units": 24,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/199976",
+     "sha256": "5d15872d0a3e7a669e331cc130ad138a881a19330822760b2895c8b17e0b413d"
     }
    ]
   },
@@ -11045,6 +11114,27 @@
    ]
   },
   {
+   "slug": "hg-1326-2009",
+   "path": "hg/2009/1326",
+   "short": "HG nr. 1326/2009",
+   "title": "Hotărârea Guvernului nr. 1326/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/297252",
+   "versions": [
+    {
+     "from": "2009-11-27",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/113836",
+     "sha256": "27d2c2908140224a5a7d96215d50c6af0b6b9ec9038b079b10dc25ef5258baf7"
+    },
+    {
+     "from": "2011-07-26",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/189793",
+     "sha256": "938f8f9110ba4e172311741c836924c157946be937941f5a946072b6f4868230"
+    }
+   ]
+  },
+  {
    "slug": "hg-1326-2023",
    "path": "hg/2023/1326",
    "short": "HG nr. 1326/2023",
@@ -11062,6 +11152,75 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/277838",
      "sha256": "9fe58810d6fef16442bb264141289612c459c6a6e01e32bd5afec066b46a70ea"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1340-2001",
+   "path": "hg/2001/1340",
+   "short": "HG nr. 1340/2001",
+   "title": "Hotărârea Guvernului nr. 1340/2001",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/284889",
+   "versions": [
+    {
+     "from": "2002-01-21",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/33465",
+     "sha256": "1a48502ffc4a26e417eba2f7725576954b9f4905c05801fb048588748b61204b"
+    },
+    {
+     "from": "2005-03-28",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/111202",
+     "sha256": "a9ba679e58a839a778fc22d715aeee2fb1d1094abbd1977029e6a6e8f5a748da"
+    },
+    {
+     "from": "2009-09-07",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/111203",
+     "sha256": "b0c89fe0f271b3ba2743f4f1e8333819177da9ddbb0e10f32cdefb9b52f5b917"
+    },
+    {
+     "from": "2009-12-09",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/115194",
+     "sha256": "e57a4a5399b415248f3d3fb14f9ad668d99aa9a04a6d8607371924d16b59b59d"
+    },
+    {
+     "from": "2010-03-10",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/136090",
+     "sha256": "b2ceaefacdf520bd2b009c6c4823a73cd9abf6d884cc927d51ae9d7ab330d96c"
+    },
+    {
+     "from": "2010-11-22",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/136091",
+     "sha256": "b5d701f5828dc6182378d3bdd2ffc54c0305a4828eb2d1a7c293b30090b35616"
+    },
+    {
+     "from": "2013-08-07",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/150550",
+     "sha256": "f309f45bfbf62858addeab78c35353e639fd798c683a6bef0ff30440ab7213a8"
+    },
+    {
+     "from": "2014-08-11",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/160618",
+     "sha256": "7dc7e2b9446724a607181f9fac482a7f624ad911f82d3f15e1fa7a2e505d5da2"
+    },
+    {
+     "from": "2019-09-12",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/217746",
+     "sha256": "39d2403cd2c681c839f4750e7e652e7a3296f432f1e20aea7b6df31b6219d794"
+    },
+    {
+     "from": "2024-07-05",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/284889",
+     "sha256": "4530c23cc953c66441fef741b776318fceae6045d2d12743d738aa8bcb383862"
     }
    ]
   },
@@ -11126,6 +11285,27 @@
    ]
   },
   {
+   "slug": "hg-1367-2009",
+   "path": "hg/2009/1367",
+   "short": "HG nr. 1367/2009",
+   "title": "Hotărârea Guvernului nr. 1367/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/113706",
+   "versions": [
+    {
+     "from": "2009-12-25",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/113706",
+     "sha256": "85ea157295637239bfb0f65b2b60d86b680949e9d4f63e9618c888850786ebf3"
+    },
+    {
+     "from": "2022-11-03",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/267951",
+     "sha256": "7d80f765b61f8054e1c5fe6aa2c57735294b4c3a4449a3de7913d71d3b141836"
+    }
+   ]
+  },
+  {
    "slug": "hg-137-2015",
    "path": "hg/2015/137",
    "short": "HG nr. 137/2015",
@@ -11137,6 +11317,39 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/166289",
      "sha256": "722cd77158162c37076365123a1472a984bcd65dcdc877a41171876029c9d082"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1377-2009",
+   "path": "hg/2009/1377",
+   "short": "HG nr. 1377/2009",
+   "title": "Hotărârea Guvernului nr. 1377/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/113709",
+   "versions": [
+    {
+     "from": "2009-11-25",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/113709",
+     "sha256": "7a2c1e032885e565c3b681cd23f81b918a98486b7607f1704ee6a9b07d9bca82"
+    },
+    {
+     "from": "2010-09-22",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/122371",
+     "sha256": "defd7d6a31f7f1ef3aa0602767b687e351ee11af97abe4afa0dacec916581d0c"
+    },
+    {
+     "from": "2010-12-30",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/127164",
+     "sha256": "2af3ed1baa94030a9629d947e3938a2614e53954e970e4cc64819e06ee10fde2"
+    },
+    {
+     "from": "2015-10-29",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172517",
+     "sha256": "077a8d0dc2a5baa9b13adcb3e0f235105c47f6a00a252506c337e67af5393a0d"
     }
    ]
   },
@@ -11156,6 +11369,165 @@
    ]
   },
   {
+   "slug": "hg-1408-2009",
+   "path": "hg/2009/1408",
+   "short": "HG nr. 1408/2009",
+   "title": "Hotărârea Guvernului nr. 1408/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/194899",
+   "versions": [
+    {
+     "from": "2009-12-02",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/114017",
+     "sha256": "22bf9e5af4aa5570ac404d3580fd6d788842a82d0a238b18a2faa80c24a2a396"
+    },
+    {
+     "from": "2010-08-04",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/155925",
+     "sha256": "a2a762bb44f4b40517c153bad41957183d7e57eb6fa689e5af0abd2c09f93b38"
+    },
+    {
+     "from": "2013-08-12",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/155926",
+     "sha256": "da3ea6fa399af0098442255617aa3c61e9acf505a2189ea6e337285a627b3275"
+    },
+    {
+     "from": "2014-05-27",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/158618",
+     "sha256": "948673d3a34a912121de571bac3e4770ed8e97019682168d7b8451faf7dc1e45"
+    },
+    {
+     "from": "2018-02-02",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/197458",
+     "sha256": "de3aef58dad0de5ede173b8fc55e271eaf97566a50c9b58e6d1c5174e8b37b4c"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1420-2003",
+   "path": "hg/2003/1420",
+   "short": "HG nr. 1420/2003",
+   "title": "Hotărârea Guvernului nr. 1420/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/48485",
+   "versions": [
+    {
+     "from": "2003-12-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/48485",
+     "sha256": "aaab9a67ebf8036eadafe57531ecdec44abd83d02644d3bf2d488f29a8e4664d"
+    },
+    {
+     "from": "2011-01-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/212525",
+     "sha256": "3fb17f500532a62b79db33fa7ba7d334af92c7fec1d8583b940ebb79f368f1aa"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1425-2006",
+   "path": "hg/2006/1425",
+   "short": "HG nr. 1425/2006",
+   "title": "Hotărârea Guvernului nr. 1425/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/76337",
+   "versions": [
+    {
+     "from": "2006-10-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/76337",
+     "sha256": "48680dcd7018e4fef09c77b75a3bc9b0b3a60866ad614f2bd6c414ab9b030a51"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1434-2004",
+   "path": "hg/2004/1434",
+   "short": "HG nr. 1434/2004",
+   "title": "Hotărârea Guvernului nr. 1434/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/177699",
+   "versions": [
+    {
+     "from": "2005-01-01",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/55363",
+     "sha256": "d0bcb2d271af90db89be8628db0583aa8c22b56dfffd6d088e6c9e70e2cebf81"
+    },
+    {
+     "from": "2007-01-10",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/78592",
+     "sha256": "b0ddb5c3b7b736d98a3789a59834c76d9a937eb4227233321f7658e65827731d"
+    },
+    {
+     "from": "2008-07-21",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/95781",
+     "sha256": "9af51c2d172a5edec5c8b8262b7e5d9b2d4187f8345a480fe919814f5778d7eb"
+    },
+    {
+     "from": "2010-09-22",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/122373",
+     "sha256": "2cae3b3965a689395c9eee526b900e9e75ece58fbaae6fdf6db3859029712da9"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1449-2005",
+   "path": "hg/2005/1449",
+   "short": "HG nr. 1449/2005",
+   "title": "Hotărârea Guvernului nr. 1449/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/143779",
+   "versions": [
+    {
+     "from": "2005-12-07",
+     "units": 21,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/66551",
+     "sha256": "3499da2b3e862638b3383b596abcdd2b9b579705754983f19a460c2ca8d6be37"
+    },
+    {
+     "from": "2007-02-07",
+     "units": 21,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/89866",
+     "sha256": "201533492d687b4e95cb1ae675b2d33da4fee6d8700edb9d528a2f687a77c0ee"
+    },
+    {
+     "from": "2007-07-31",
+     "units": 21,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/89867",
+     "sha256": "1b28d3a29731ebf20262bef120a731cda19cdcfa613aa117707edba6fd0fed01"
+    },
+    {
+     "from": "2008-12-17",
+     "units": 21,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/104774",
+     "sha256": "827161dfdc90d044693fc9bfc23b78762057c42691f432bb995ca2bc49168c70"
+    },
+    {
+     "from": "2009-02-03",
+     "units": 21,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/104775",
+     "sha256": "d7f28a73e4f2c6ed006c62d07b798520240876e71147208221f4963c6d1f73cf"
+    },
+    {
+     "from": "2009-12-03",
+     "units": 21,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/114402",
+     "sha256": "83cb7ac80069e8d77250a86cb6d72c1496a454bcdcbaac3e18bbc12edc006502"
+    },
+    {
+     "from": "2012-12-11",
+     "units": 21,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/143779",
+     "sha256": "7d5c7ae320532143402de2d8cd9499d85e248c7d6062eba3f1832c4db87c8662"
+    }
+   ]
+  },
+  {
    "slug": "hg-148-2003",
    "path": "hg/2003/148",
    "short": "HG nr. 148/2003",
@@ -11167,6 +11539,45 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/41877",
      "sha256": "9995386fe6dbf5215279da780c57cf924e1fed1bf31398f3520733b2e016af2e"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1489-2002",
+   "path": "hg/2002/1489",
+   "short": "HG nr. 1489/2002",
+   "title": "Hotărârea Guvernului nr. 1489/2002",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/98890",
+   "versions": [
+    {
+     "from": "2002-12-27",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/41004",
+     "sha256": "18d9a2a41514befb0731e88e0627800c795ea0df6bab4000bd92a3ba5e524864"
+    },
+    {
+     "from": "2003-02-28",
+     "units": 12,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/80452",
+     "sha256": "0c8309549752244b4c5a95a2d45207f4e9380fe2513fc03c59a37cc2bad7326b"
+    },
+    {
+     "from": "2004-07-23",
+     "units": 13,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/80453",
+     "sha256": "a7502673834e3707963516ab4323d19c6d011f1059f78cedda4515167c0d2cb3"
+    },
+    {
+     "from": "2007-01-05",
+     "units": 17,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/80454",
+     "sha256": "e170a59de338e9f478fcf71dfcf497086ac1938796c63c22e9583772bffdaf24"
+    },
+    {
+     "from": "2008-05-04",
+     "units": 17,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/98890",
+     "sha256": "614bff324158a2f1d49e67b3e53459f6fac83a270a9275c7140e4bf36b554e84"
     }
    ]
   },
@@ -12782,6 +13193,27 @@
    ]
   },
   {
+   "slug": "hg-318-2019",
+   "path": "hg/2019/318",
+   "short": "HG nr. 318/2019",
+   "title": "Hotărârea Guvernului nr. 318/2019 privind domeniile şi programele de studii universitare de master acreditate şi numărul maxim de studenţi ce pot fi şcolarizaţi în anul universitar 2019-2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/215308",
+   "versions": [
+    {
+     "from": "2019-06-20",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/215308",
+     "sha256": "42c986a8e8df386dbecdf54a85fdd5967eaae1070cef2638df650690359f77aa"
+    },
+    {
+     "from": "2019-09-04",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/215308",
+     "sha256": "339eb56ea56e276fc9cbe40d81d6a9def5e573bf309e664c1819c7fd9fc69310"
+    }
+   ]
+  },
+  {
    "slug": "hg-32-2008",
    "path": "hg/2008/32",
    "short": "HG nr. 32/2008",
@@ -12899,6 +13331,147 @@
    ]
   },
   {
+   "slug": "hg-34-2009",
+   "path": "hg/2009/34",
+   "short": "HG nr. 34/2009",
+   "title": "Hotărârea Guvernului nr. 34/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/101725",
+   "versions": [
+    {
+     "from": "2009-01-28",
+     "units": 29,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/101725",
+     "sha256": "24c3568ea6a159f230221afb3a955a2c2a8bdaf0b7e7b6e6a5ca0cadeac2a200"
+    },
+    {
+     "from": "2009-03-26",
+     "units": 30,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/104620",
+     "sha256": "42abd2a96f7712a07b4f08c523532170ffe9fe2b75acebeeb8aaee74179bf0b0"
+    },
+    {
+     "from": "2010-12-13",
+     "units": 30,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/135710",
+     "sha256": "7a8f1f75033b3b70d082d01cf5cfc9c2262c072d2763f447faa183e9cd5ea723"
+    },
+    {
+     "from": "2012-08-21",
+     "units": 30,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/140752",
+     "sha256": "bee9f52691d2749241bd19cc95f179f63bae15cf6c6e8ea63cd3fa60f5acb2de"
+    },
+    {
+     "from": "2013-03-19",
+     "units": 30,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/146238",
+     "sha256": "d2917f7dad5f641d104fddc04b8e028c1c5e48a60cd913972c6ec6517b4e7c21"
+    },
+    {
+     "from": "2013-07-31",
+     "units": 30,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/150342",
+     "sha256": "ef85fc9cc297b9fee93d7cd4661ea9d5e165138161ca80a230368c91d55ed9c9"
+    },
+    {
+     "from": "2015-08-25",
+     "units": 30,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170891",
+     "sha256": "72de62c6c0d718a18d3cdff6977c2a715ca4f99c7086ce45b0e67dc453b49153"
+    },
+    {
+     "from": "2015-11-19",
+     "units": 30,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172206",
+     "sha256": "6f8d2b82571ec86affec5e61277f0e172a800986b8ab5e405f4f043459d33582"
+    },
+    {
+     "from": "2016-06-24",
+     "units": 30,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/179482",
+     "sha256": "9446eadcd4c7451dd15ddbeda075e5f24f8beb3ea5ebbd3e9ec197b8f9fb8ea1"
+    },
+    {
+     "from": "2017-02-17",
+     "units": 30,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/186517",
+     "sha256": "cffcc8dc79effe0c708b6e4ea656daf9e2ec0114cd0d7111e0e176a6bc0fd8d9"
+    },
+    {
+     "from": "2017-11-23",
+     "units": 30,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/195291",
+     "sha256": "9fbb30ab543753ca6d6a4be081eaa9713f12b29fe56c823ef3247ac5c6e189e6"
+    },
+    {
+     "from": "2017-12-11",
+     "units": 30,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/195292",
+     "sha256": "31b176a468bef4b55353093cb5612b5a4aa59dd5b1ef2d946b3b9659160b430a"
+    },
+    {
+     "from": "2018-03-22",
+     "units": 30,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/198900",
+     "sha256": "246a2f39574f50489b7b1e852225cb5e576301a884ecfcc4948538d8485fbf40"
+    },
+    {
+     "from": "2018-07-17",
+     "units": 30,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/202431",
+     "sha256": "12cb8c665d829fb524a6d41240fc52398f3cec00ca360b4d1ad69c1693db6adc"
+    },
+    {
+     "from": "2020-01-09",
+     "units": 30,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/221504",
+     "sha256": "3b7652526616eb7b7832975b0f58e105b8176cad6307879fb5bcef7731b147c9"
+    },
+    {
+     "from": "2020-05-18",
+     "units": 30,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/225643",
+     "sha256": "de9ee0df513de28b7b586d30ea69cd02b09c81bc942869a81e9bf0ac9795795e"
+    },
+    {
+     "from": "2022-02-18",
+     "units": 30,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/250948",
+     "sha256": "f7376a55eb9320eee3c2f1776f1ae2e8695ade08568f85d6fbb30634e79d19e7"
+    },
+    {
+     "from": "2023-08-01",
+     "units": 30,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/268387",
+     "sha256": "44b5925e6b73ce9a8583b6d24ae4a57de5d38f1b477330abf21375d31927dbda"
+    },
+    {
+     "from": "2023-12-11",
+     "units": 30,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/269461",
+     "sha256": "73db3cb805f043356ae6ca7043d6fe1bda49431d56020aa507b6c4f429aec946"
+    },
+    {
+     "from": "2024-03-13",
+     "units": 30,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/279803",
+     "sha256": "3b2732d1a560e4988e550dbb47831bb9e19d02e82bfead8730a4eccea19f24e6"
+    },
+    {
+     "from": "2024-06-17",
+     "units": 30,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/283639",
+     "sha256": "53ae97052feff9aa71d5642b84c4efe7ef8494f83abd44b40b3196a675341215"
+    },
+    {
+     "from": "2025-04-07",
+     "units": 30,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/296086",
+     "sha256": "46889a9158ded9386630f827a48dfbfd573a7072edb78451193331dd82d039d3"
+    }
+   ]
+  },
+  {
    "slug": "hg-347-2016",
    "path": "hg/2016/347",
    "short": "HG nr. 347/2016",
@@ -12928,6 +13501,39 @@
      "units": 24,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/267696",
      "sha256": "ffde2c2f60cc131f4795758c1fbcdfd9effef152949dde8d9231aae693e994a3"
+    }
+   ]
+  },
+  {
+   "slug": "hg-355-2007",
+   "path": "hg/2007/355",
+   "short": "HG nr. 355/2007",
+   "title": "Hotărârea Guvernului nr. 355/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/82130",
+   "versions": [
+    {
+     "from": "2007-05-17",
+     "units": 49,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/82130",
+     "sha256": "c4a30dcfd8eb98f5414ca2969370beec4a0100521362d3389ff8dfc4d088b78d"
+    },
+    {
+     "from": "2008-01-21",
+     "units": 49,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/118494",
+     "sha256": "848a4f5a56bb047913285c7cef034fc29c2392a52dec6086a8a7b2deee6fd532"
+    },
+    {
+     "from": "2011-12-12",
+     "units": 49,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/134308",
+     "sha256": "d1391f264a2faab1c39296eecee617090e25da655caaee1ce00182d1e4f813ed"
+    },
+    {
+     "from": "2012-01-19",
+     "units": 49,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/82130",
+     "sha256": "10bf7ed62a90033c5761126120b71aba545c19ce317fa037c1d2ece97fd69441"
     }
    ]
   },
@@ -12976,6 +13582,51 @@
      "units": 17,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/252012",
      "sha256": "a06ffb65887b22d75210ee228c0701a5e85bda4f2a2c10b56667e326ec2a179f"
+    }
+   ]
+  },
+  {
+   "slug": "hg-366-2007",
+   "path": "hg/2007/366",
+   "short": "HG nr. 366/2007",
+   "title": "Hotărârea Guvernului nr. 366/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/96900",
+   "versions": [
+    {
+     "from": "2007-04-25",
+     "units": 22,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/81455",
+     "sha256": "39ea8cb61531dc5ff50797eabe2b5a5cd7304a46b36be485dd86d1af62fedae2"
+    },
+    {
+     "from": "2007-07-31",
+     "units": 22,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/89070",
+     "sha256": "9e74ffc91dd15deb36e37f4d5c7f4b781112b4297d045dfca405db4b77dfe0d7"
+    },
+    {
+     "from": "2007-08-30",
+     "units": 22,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/89071",
+     "sha256": "88ed2849a9e1bebcd84b932f7e3a42f4613ea04725f466de3dc0f43177744005"
+    },
+    {
+     "from": "2008-01-22",
+     "units": 22,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/89072",
+     "sha256": "ad99437547f6b97868d82451c32a52274395d495d338e52201b6992a7e0b970a"
+    },
+    {
+     "from": "2008-03-20",
+     "units": 22,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/90689",
+     "sha256": "a3cf5e600afb7116efcff36c1d2b7ace879aea3ec6ea6b892dd5fd62a440a1ad"
+    },
+    {
+     "from": "2008-08-22",
+     "units": 22,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/96900",
+     "sha256": "044ff3dc97f162d6c68e5f7fd72dc1e89d6ee9ec6f57f13d39a273b87dabe25e"
     }
    ]
   },
@@ -13054,6 +13705,27 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/169184",
      "sha256": "715f16e59d7cf3138178364b8258b4f277d120f5e5e977642eaae4ce14ec3f52"
+    }
+   ]
+  },
+  {
+   "slug": "hg-385-2021",
+   "path": "hg/2021/385",
+   "short": "HG nr. 385/2021",
+   "title": "Hotărârea Guvernului nr. 385/2021 privind domeniile şi programele de studii universitare de master acreditate şi numărul maxim de studenţi ce pot fi şcolarizaţi în anul universitar 2021-2022",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/240901",
+   "versions": [
+    {
+     "from": "2021-04-12",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/240901",
+     "sha256": "0df7fe60536f16d8104d6260326a8f6bc6aa5b1ce51347881129eb5d8b8fe2d7"
+    },
+    {
+     "from": "2021-05-14",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/241542",
+     "sha256": "95a43c1fa6ae79b6250d05eb660b49ac77263dd19df50f80691005d30dd8b98c"
     }
    ]
   },
@@ -13235,6 +13907,27 @@
    ]
   },
   {
+   "slug": "hg-403-2021",
+   "path": "hg/2021/403",
+   "short": "HG nr. 403/2021",
+   "title": "Hotărârea Guvernului nr. 403/2021 privind aprobarea Nomenclatorului domeniilor şi al specializărilor/ programelor de studii universitare şi a structurii instituţiilor de învăţământ superior pentru anul universitar 2021-2022",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/240925",
+   "versions": [
+    {
+     "from": "2021-04-12",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/240925",
+     "sha256": "5a2152b4526acc1e50498abbbb92caef497b42c24dc8852109cf9105a0236ac8"
+    },
+    {
+     "from": "2021-05-14",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/241540",
+     "sha256": "28137b1a4bdd7b520bcd09d0f8d418ab5c99fae1eb31ad343d74ee06e610864d"
+    }
+   ]
+  },
+  {
    "slug": "hg-408-2004",
    "path": "hg/2004/408",
    "short": "HG nr. 408/2004",
@@ -13292,6 +13985,27 @@
    ]
   },
   {
+   "slug": "hg-409-2004",
+   "path": "hg/2004/409",
+   "short": "HG nr. 409/2004",
+   "title": "Hotărârea Guvernului nr. 409/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54589",
+   "versions": [
+    {
+     "from": "2004-04-01",
+     "units": 22,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/50923",
+     "sha256": "c7843124d41bcc1215ab0c987cdbe7691e33d27b0d36fcd28849fea044611bf0"
+    },
+    {
+     "from": "2004-08-10",
+     "units": 22,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/54589",
+     "sha256": "ef19e787300c72dc9d4fcd93f1fdffdb5cecb89364bc09b6d318eb6a3d66bdb3"
+    }
+   ]
+  },
+  {
    "slug": "hg-41-2015",
    "path": "hg/2015/41",
    "short": "HG nr. 41/2015",
@@ -13318,6 +14032,27 @@
      "units": 1,
      "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/226876",
      "sha256": "fe202e7f5445347a41a37e1acc87bf9427e5bb74ed98801106351b7b8c5e40f9"
+    }
+   ]
+  },
+  {
+   "slug": "hg-413-2024",
+   "path": "hg/2024/413",
+   "short": "HG nr. 413/2024",
+   "title": "Hotărârea Guvernului nr. 413/2024 privind aprobarea domeniilor şi programelor de studii universitare de master acreditate şi a numărului maxim de studenţi ce pot fi şcolarizaţi în anul universitar 2024-2025",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/282308",
+   "versions": [
+    {
+     "from": "2024-04-29",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/282308",
+     "sha256": "910969ac8ffd3c5023ca0f5e8534dfb6b72f98cad3bf4d5171b1230489d3739c"
+    },
+    {
+     "from": "2024-09-12",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/public/DetaliiDocument/282308",
+     "sha256": "d06e024e9a70eb9d4eb20674b5f68e2918e2f96f2d2924bb1714690ff36efd97"
     }
    ]
   },
@@ -13571,6 +14306,21 @@
    ]
   },
   {
+   "slug": "hg-437-2022",
+   "path": "hg/2022/437",
+   "short": "HG nr. 437/2022",
+   "title": "Hotărârea Guvernului nr. 437/2022 privind recunoașterea Fundației Prison Fellowship România ca fiind de utilitate publică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/253608",
+   "versions": [
+    {
+     "from": "2022-04-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/253608",
+     "sha256": "1f5b5bdec441c2a599c86c95ef5ec574051f88cdc09aea5e7b052fdbbab03dc7"
+    }
+   ]
+  },
+  {
    "slug": "hg-44-2013",
    "path": "hg/2013/44",
    "short": "HG nr. 44/2013",
@@ -13613,6 +14363,54 @@
    ]
   },
   {
+   "slug": "hg-446-1999",
+   "path": "hg/1999/446",
+   "short": "HG nr. 446/1999",
+   "title": "Hotărârea Guvernului nr. 446/1999",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/162349",
+   "versions": [
+    {
+     "from": "1999-06-09",
+     "units": 4,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocumentAfis/18425",
+     "sha256": "9180335f6c5c60cffed776c707f43c7032e870274c5891bfa35df6950f1211c4"
+    },
+    {
+     "from": "2004-05-29",
+     "units": 4,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/162348",
+     "sha256": "5db41b7c70989945bbd91e97db564bd736f923490dd7baa765ca95eb49efd5e2"
+    },
+    {
+     "from": "2005-05-21",
+     "units": 4,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/162350",
+     "sha256": "25f77896d2e1dd1bfcff7eb4c8480a09583fb405e1446eeb8af8961d03704f95"
+    }
+   ]
+  },
+  {
+   "slug": "hg-456-2006",
+   "path": "hg/2006/456",
+   "short": "HG nr. 456/2006",
+   "title": "Hotărârea Guvernului nr. 456/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/71099",
+   "versions": [
+    {
+     "from": "2006-05-26",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/71099",
+     "sha256": "316c06386465bf23f367f7573284d64f9efd01cc28e0b72dab386d9129e1e1c5"
+    },
+    {
+     "from": "2007-10-29",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/71099",
+     "sha256": "306ce2835dfdee7b618fbecae83955837c85f96a830e450cc326477021bc2e32"
+    }
+   ]
+  },
+  {
    "slug": "hg-46-2020",
    "path": "hg/2020/46",
    "short": "HG nr. 46/2020",
@@ -13651,6 +14449,45 @@
      "units": 9,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/254098",
      "sha256": "f5890f94961fa7090b071802c6d0194ec435c4ee0f123fd91e42d98298c0c3b4"
+    }
+   ]
+  },
+  {
+   "slug": "hg-462-2006",
+   "path": "hg/2006/462",
+   "short": "HG nr. 462/2006",
+   "title": "Hotărârea Guvernului nr. 462/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170192",
+   "versions": [
+    {
+     "from": "2006-05-03",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/71196",
+     "sha256": "e2040021c1757fa6ed26c830d5797d496b99be98266f094499b75957834ffdaf"
+    },
+    {
+     "from": "2008-07-23",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/95877",
+     "sha256": "ad6db9a4c0f981046b596285a72595d4bb87c8430fbca7608f4ce09d2f57ee47"
+    },
+    {
+     "from": "2012-07-18",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/139865",
+     "sha256": "55ed0ae8ab7b5d318a1b735f09b1cc69da23d20ea6ef00fe510bd55090253e09"
+    },
+    {
+     "from": "2013-06-11",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/148863",
+     "sha256": "ee29dba3cd7af3f301a1d6e525ab5a67ac3c9d59760cf0a4425bbf632befc320"
+    },
+    {
+     "from": "2015-07-28",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170192",
+     "sha256": "dae459088a18d41141f0f7ef5cbc050ee7df1d130d399037f5a89b3b93281a99"
     }
    ]
   },
@@ -13717,6 +14554,72 @@
      "units": 8,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/16884",
      "sha256": "b0238143cc5afcac561236bdae35b7ecfbcd506dc30eaa9308919596c117b8a6"
+    }
+   ]
+  },
+  {
+   "slug": "hg-492-2004",
+   "path": "hg/2004/492",
+   "short": "HG nr. 492/2004",
+   "title": "Hotărârea Guvernului nr. 492/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/265070",
+   "versions": [
+    {
+     "from": "2004-04-21",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/51315",
+     "sha256": "b7df436a84bc5a6edd44a3aff4ff8308d6571ed316f6d33f02c2174acd79170c"
+    },
+    {
+     "from": "2005-05-13",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/143678",
+     "sha256": "bfe2d52304d0925a552120839b89f6fe0dbd35e9d636288b9abaa62418e88d93"
+    },
+    {
+     "from": "2007-11-07",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/143679",
+     "sha256": "6d7c7249df3aac95bec409dc7489d4e8b132f6b82ab031e43dc0e643cb81606c"
+    },
+    {
+     "from": "2011-10-25",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/143680",
+     "sha256": "59936f24698c26cab616a62643ca19352bed6bf871a9ac5925076eb79abc738c"
+    },
+    {
+     "from": "2015-10-19",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172208",
+     "sha256": "19446d4593fcd275a63a122ccb338ef02f0d0f9885b078731d52a8c00f810c7f"
+    },
+    {
+     "from": "2023-03-15",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/265070",
+     "sha256": "dac4d1c24717564c56b7a0f716dc380168eeefc9d34fea07d75e1db43a241500"
+    }
+   ]
+  },
+  {
+   "slug": "hg-495-2007",
+   "path": "hg/2007/495",
+   "short": "HG nr. 495/2007",
+   "title": "Hotărârea Guvernului nr. 495/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/89902",
+   "versions": [
+    {
+     "from": "2007-06-06",
+     "units": 25,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/82616",
+     "sha256": "43e516b84d5460c8f64b08ed4a284be26969c26619ab54b5f3185f40bac99fc6"
+    },
+    {
+     "from": "2007-10-17",
+     "units": 26,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/89903",
+     "sha256": "5cb51cdbe831f09d5b2b454b616c3913e9711b6fa184aa08ffc4bb5c5e22cb8d"
     }
    ]
   },
@@ -14558,6 +15461,21 @@
    ]
   },
   {
+   "slug": "hg-569-2022",
+   "path": "hg/2022/569",
+   "short": "HG nr. 569/2022",
+   "title": "Hotărârea Guvernului nr. 569/2022 pentru modificarea Hotărârii Guvernului nr. 460/2011 privind organizarea și funcționarea Agenției Naționale împotriva Traficului de Persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/254592",
+   "versions": [
+    {
+     "from": "2022-05-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/254592",
+     "sha256": "f5b4bf36b3a51ac7f23fd75c268b4622daa6144583a84c1a32be4db13e7ec5f2"
+    }
+   ]
+  },
+  {
    "slug": "hg-572-2008",
    "path": "hg/2008/572",
    "short": "HG nr. 572/2008",
@@ -14881,6 +15799,21 @@
      "units": 2,
      "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/182363",
      "sha256": "e2903283c399a010bb0da802fdda64b7e08a3977dcc0ae91ed795e1312a56b21"
+    }
+   ]
+  },
+  {
+   "slug": "hg-604-2022",
+   "path": "hg/2022/604",
+   "short": "HG nr. 604/2022",
+   "title": "Hotărârea Guvernului nr. 604/2022 privind numirea domnului Greblă Toni în funcția de prefect al municipiului București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/254666",
+   "versions": [
+    {
+     "from": "2022-05-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/254666",
+     "sha256": "161237381fd8e20861a5ed627e6fd40ce0d30a1d852ddf9d720294fde1e1483a"
     }
    ]
   },
@@ -15557,6 +16490,69 @@
    ]
   },
   {
+   "slug": "hg-750-2005",
+   "path": "hg/2005/750",
+   "short": "HG nr. 750/2005",
+   "title": "Hotărârea Guvernului nr. 750/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/194048",
+   "versions": [
+    {
+     "from": "2005-07-28",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/63663",
+     "sha256": "644e51d91a5683b13dd90e5907a425686fdf733d0a9a2e7c7b8b9e3676e7eaf6"
+    },
+    {
+     "from": "2005-08-05",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/194040",
+     "sha256": "a696a225b677b258a763993c1372b8c10a15904740ddca035e570f9cd656e4c7"
+    },
+    {
+     "from": "2009-02-19",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/194041",
+     "sha256": "1d1183153bf2192bd4c51a53d04562c6b8bed39a8ecfe43c6216494b24a16b19"
+    },
+    {
+     "from": "2010-02-17",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/194042",
+     "sha256": "44b4e2ef7aadd41fe5443b418315fa490c9eefd6d6797e67d2954201fd024063"
+    },
+    {
+     "from": "2011-04-20",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/194043",
+     "sha256": "2e1ac43dbeee5ae3c392e6172bd207822dde524bc890da8fe0483985642c67e6"
+    },
+    {
+     "from": "2012-10-19",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/194045",
+     "sha256": "1888da38af7457693dd96fa13b108596b1f808055eafe24fcdcea59b9a1f8b5f"
+    },
+    {
+     "from": "2013-08-05",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/194046",
+     "sha256": "45d3205fb1324bc1704c93865c537bb6639fe3f22c89a6650e900172ab96cdff"
+    },
+    {
+     "from": "2017-03-13",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/194049",
+     "sha256": "ef4bf4ab73131971dfba106a40be2a7344cbbd1116c35b16442554653ce9edd2"
+    },
+    {
+     "from": "2017-10-23",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/194050",
+     "sha256": "5394c14b684631176ebb01bf3718233b78c101d16c4310ae2394b50e9c29216f"
+    }
+   ]
+  },
+  {
    "slug": "hg-755-2016",
    "path": "hg/2016/755",
    "short": "HG nr. 755/2016",
@@ -15583,6 +16579,39 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/256430",
      "sha256": "e236c57705b352a42ab893e15330d6f767032d2389665bc6833afdb8c7c41c22"
+    }
+   ]
+  },
+  {
+   "slug": "hg-766-1997",
+   "path": "hg/1997/766",
+   "short": "HG nr. 766/1997",
+   "title": "Hotărârea Guvernului nr. 766/1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13583",
+   "versions": [
+    {
+     "from": "1997-12-10",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/13583",
+     "sha256": "646e21675651edada96781e2507b9b996895e82b21ce96a1eb782a58a8d663ca"
+    },
+    {
+     "from": "2002-07-11",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/79212",
+     "sha256": "fb1ed57021845bd4f95aa1a3f6ff68f6bce9d8d112b5cff70e6319a32f456462"
+    },
+    {
+     "from": "2008-10-10",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/98678",
+     "sha256": "28d85af3e09bb0a49b68328e1b6480e8bc154b9a5051f0dbbc6d354924f4ebb3"
+    },
+    {
+     "from": "2017-10-19",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/194013",
+     "sha256": "66269acbea40c05f7b40b2b1da446beb7f1fd0bbf68f62f3cd381827e1aa0506"
     }
    ]
   },
@@ -15638,6 +16667,39 @@
    ]
   },
   {
+   "slug": "hg-787-2003",
+   "path": "hg/2003/787",
+   "short": "HG nr. 787/2003",
+   "title": "Hotărârea Guvernului nr. 787/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171593",
+   "versions": [
+    {
+     "from": "2003-07-15",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/44988",
+     "sha256": "e6d17b19d5b7d2df751459e8d4043f25b9d3e87b4124a7a12c76dd222c81e9c4"
+    },
+    {
+     "from": "2004-08-04",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/158594",
+     "sha256": "818e73808928514e3cb6a95b492fbdbe87b8b26d39f951f9e583182d3be330e4"
+    },
+    {
+     "from": "2014-05-27",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/158595",
+     "sha256": "8565b28cc6dacfd825fb6802cb030490a0a689963556f6d654e74fea9d51b7d8"
+    },
+    {
+     "from": "2015-11-01",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171593",
+     "sha256": "6d4f2f24dff24ad46535d6d0f58a304bed64a9d1318785af5b4ee5cfe50a1466"
+    }
+   ]
+  },
+  {
    "slug": "hg-788-2007",
    "path": "hg/2007/788",
    "short": "HG nr. 788/2007",
@@ -15671,6 +16733,48 @@
    ]
   },
   {
+   "slug": "hg-798-1992",
+   "path": "hg/1992/798",
+   "short": "HG nr. 798/1992",
+   "title": "Hotărârea Guvernului nr. 798/1992",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2896",
+   "versions": [
+    {
+     "from": "1992-12-29",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/2896",
+     "sha256": "6fea6d6f82713fd5c12e87a0aa1723796d32c2e574717960b7c98e79866c9c47"
+    },
+    {
+     "from": "1993-10-27",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2896",
+     "sha256": "96e88ffe65d676b7f40b446c5b8ed2723dee00eefc7bdfa397c4f306f3d21946"
+    }
+   ]
+  },
+  {
+   "slug": "hg-803-2008",
+   "path": "hg/2008/803",
+   "short": "HG nr. 803/2008",
+   "title": "Hotărârea Guvernului nr. 803/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/116641",
+   "versions": [
+    {
+     "from": "2008-08-11",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/96471",
+     "sha256": "d34e97b9191b45bb46b3b4510e62c2de8e708246c03008f3c1af43f0bf62f2aa"
+    },
+    {
+     "from": "2009-06-26",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/116641",
+     "sha256": "f4b00311ce5ef302db825a78a6c4a60f72ca7f937931d8b13bf178bc00c61fb6"
+    }
+   ]
+  },
+  {
    "slug": "hg-81-2020",
    "path": "hg/2020/81",
    "short": "HG nr. 81/2020",
@@ -15694,6 +16798,51 @@
      "units": 26,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/227276",
      "sha256": "537f922d12ff7badb88a6c539eea264d0a30cb94d3a9013a5c6685340be8b7f9"
+    }
+   ]
+  },
+  {
+   "slug": "hg-811-2010",
+   "path": "hg/2010/811",
+   "short": "HG nr. 811/2010",
+   "title": "Hotărârea Guvernului nr. 811/2010 privind controlul statului portului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/121912",
+   "versions": [
+    {
+     "from": "2010-09-01",
+     "units": 32,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/121912",
+     "sha256": "e20089cc841e0ecc142f65e9d8c02b7a409e52d633a759dc149ada0d167c6c0a"
+    },
+    {
+     "from": "2013-03-20",
+     "units": 32,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/146349",
+     "sha256": "19950b2125154d9436948207b4dd5edb6a9448b81a82b58f62fefd01e0a9c949"
+    },
+    {
+     "from": "2015-10-27",
+     "units": 34,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172488",
+     "sha256": "18ad9b6d1ba91d3b09df6c863110fc4981f4cd88484c5646486378f636492eee"
+    },
+    {
+     "from": "2015-10-28",
+     "units": 34,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/228827",
+     "sha256": "4e48de309ca3c34bb3220fe1c94e86fc5ce9343f9a52246a74e55f8d74081d21"
+    },
+    {
+     "from": "2020-08-13",
+     "units": 35,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/228827",
+     "sha256": "4e48de309ca3c34bb3220fe1c94e86fc5ce9343f9a52246a74e55f8d74081d21"
+    },
+    {
+     "from": "2025-01-29",
+     "units": 35,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/292592",
+     "sha256": "b87c0415137d0e95ddbcb6a520e689707a673413cfcf38534bb87e7e9e47e67d"
     }
    ]
   },
@@ -15766,6 +16915,27 @@
      "units": 14,
      "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/117014",
      "sha256": "782b639a0ebf2798901f5f1475ce2df2031d0b011b34ceaa5c1a77ccded9a68c"
+    }
+   ]
+  },
+  {
+   "slug": "hg-857-2021",
+   "path": "hg/2021/857",
+   "short": "HG nr. 857/2021",
+   "title": "Hotărârea Guvernului nr. 857/2021 pentru aprobarea Regulamentului-cadru și a componenței comitetelor de organizare UNESCO",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/245833",
+   "versions": [
+    {
+     "from": "2021-08-26",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/245833",
+     "sha256": "c3cbf98db83395e92a9d994b55a334ee5a9cbe20744a1a00d5db1df01cf88a39"
+    },
+    {
+     "from": "2024-02-03",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/245833",
+     "sha256": "b247b9fdeef09dea41b3ae92a2e4f02850b294655e4e002386381c6b391081e5"
     }
    ]
   },
@@ -15884,6 +17054,27 @@
    ]
   },
   {
+   "slug": "hg-867-2016",
+   "path": "hg/2016/867",
+   "short": "HG nr. 867/2016",
+   "title": "Hotărârea Guvernului nr. 867/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/184355",
+   "versions": [
+    {
+     "from": "2016-12-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/184355",
+     "sha256": "2a52b68da5a27d5d0d4da6fd9f87f9a8f61809e89e0c4dd5203674ea1c3a6c2d"
+    },
+    {
+     "from": "2018-06-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/201282",
+     "sha256": "973455b0a5e84b9025dfbecdc631bce0c216f1a8e2b9e55119c3defff2ec1dac"
+    }
+   ]
+  },
+  {
    "slug": "hg-87-2015",
    "path": "hg/2015/87",
    "short": "HG nr. 87/2015",
@@ -15916,6 +17107,72 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/289586",
      "sha256": "a6609352661a581719384cdba849e1193819c11768f13d37751ab55287e07369"
+    }
+   ]
+  },
+  {
+   "slug": "hg-870-1997",
+   "path": "hg/1997/870",
+   "short": "HG nr. 870/1997",
+   "title": "Hotărârea Guvernului nr. 870/1997 privind autorizarea Ministerului Finanţelor de a garanta un credit extern pentru Ministerul Sănătăţii, în vederea finanţării achiziţionării de echipamente medicale de înalta performanta pentru chirurgia endoscopică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/217726",
+   "versions": [
+    {
+     "from": "1997-12-30",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13691",
+     "sha256": "8380eec1cd13d02543f01274512d9434078c088a588369cb094eb608cedbf19a"
+    },
+    {
+     "from": "1998-01-29",
+     "units": 3,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/217725",
+     "sha256": "27296e7da8862c15c96985d5cf50fa1229fd0c345aa76cd85be84a0c84ac457e"
+    },
+    {
+     "from": "1999-03-11",
+     "units": 3,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/217726",
+     "sha256": "5960c1895cd23880cb1b215cb50725dd5255c1e694260bb8af69db03c1392f89"
+    }
+   ]
+  },
+  {
+   "slug": "hg-876-2007",
+   "path": "hg/2007/876",
+   "short": "HG nr. 876/2007",
+   "title": "Hotărârea Guvernului nr. 876/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/249459",
+   "versions": [
+    {
+     "from": "2007-09-14",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/84467",
+     "sha256": "b553731e26d7d227e96d05ffbc3c62a96d7095ee581982d4a02379f173074aee"
+    },
+    {
+     "from": "2009-12-20",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/188952",
+     "sha256": "1c434b02d1832a65e4ad630a2f0d03391c1415cdda92bee87f42e24d7c215e23"
+    },
+    {
+     "from": "2010-11-03",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/188953",
+     "sha256": "cd738af0131822320c3c314a7d1eef7411f52fc07a80d5aeaf0286f0cc14baa0"
+    },
+    {
+     "from": "2011-01-01",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/188954",
+     "sha256": "ffdeabc0506eb1ca4827ec54d83d5dd3e4099576e20fecce1688a189438e085d"
+    },
+    {
+     "from": "2022-01-26",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/249459",
+     "sha256": "8c42a89597715d727023a4a8221a2d82194352ef332772af653b2a0700c4800d"
     }
    ]
   },
@@ -16085,6 +17342,48 @@
    ]
   },
   {
+   "slug": "hg-912-2021",
+   "path": "hg/2021/912",
+   "short": "HG nr. 912/2021",
+   "title": "Hotărârea Guvernului nr. 912/2021 privind aprobarea circumstanțelor și a procedurii specifice aferente programului de înzestrare \"Sistem UAS tactic-operativ clasa II\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/245887",
+   "versions": [
+    {
+     "from": "2021-08-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/245887",
+     "sha256": "4ae963dead1db119f5392505d6c6943061d8f90c3a3ad1875348e497cc2f895c"
+    }
+   ]
+  },
+  {
+   "slug": "hg-918-2013",
+   "path": "hg/2013/918",
+   "short": "HG nr. 918/2013",
+   "title": "Hotărârea Guvernului nr. 918/2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/153002",
+   "versions": [
+    {
+     "from": "2013-11-28",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/153002",
+     "sha256": "b5f67d52e7097cdb72dfe2d75c74fb41ed3f44da0d34e4f9169e70ca3183c2cb"
+    },
+    {
+     "from": "2015-07-30",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170238",
+     "sha256": "83572c27bd543d431d31a36800b07fa927ec92517074ca90bf4e2734d53611c9"
+    },
+    {
+     "from": "2018-03-28",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/198963",
+     "sha256": "f9d74dfdf0740a27ac51e299a873d05d8fdddb526623ca0c0f89c849f2547bdf"
+    }
+   ]
+  },
+  {
    "slug": "hg-921-2025",
    "path": "hg/2025/921",
    "short": "HG nr. 921/2025",
@@ -16190,6 +17489,114 @@
    ]
   },
   {
+   "slug": "hg-957-2005",
+   "path": "hg/2005/957",
+   "short": "HG nr. 957/2005",
+   "title": "Hotărârea Guvernului nr. 957/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/64827",
+   "versions": [
+    {
+     "from": "2005-09-17",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/64827",
+     "sha256": "efd1e0f2334bddda32403acbef68d92e063bf601a14036e35f69089d72654841"
+    },
+    {
+     "from": "2007-06-25",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85587",
+     "sha256": "dcf153873fc0010f49c3bf4d1a3c07d51dfc4081654cfc247dc267b847868b03"
+    },
+    {
+     "from": "2007-09-19",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85588",
+     "sha256": "8473e851721b4768d97585849690f061a31edb5239f5e074478a4d1aa53ccc01"
+    },
+    {
+     "from": "2007-12-18",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/87989",
+     "sha256": "70d0869d84164ab35e31b46e308d8e9c3e32a67b23e0f9a4bde8be696d8db72c"
+    },
+    {
+     "from": "2008-10-23",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/150465",
+     "sha256": "924b6a44dbd4d2f23656bdad8699b47da14d1640c520320e7671ca633e4aac56"
+    },
+    {
+     "from": "2010-12-16",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/150466",
+     "sha256": "8f161a8c49f8525be19e707cd0aa6a01dadd7ec3c951372ec8b2eaba365b10b1"
+    },
+    {
+     "from": "2013-08-05",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/150467",
+     "sha256": "32202281a36e0023844a15dda8383cb8e5a46e2f79d924a2643b309f03eb0838"
+    },
+    {
+     "from": "2016-03-30",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/177110",
+     "sha256": "6ef80ce96c77e7f7693738cf357c30dccd488ae5c1c715e745ec237497901c0f"
+    },
+    {
+     "from": "2016-09-22",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181924",
+     "sha256": "202d53ba45ee187ef05a0b46ce8fb9046d15e28fa110e9ad1b5794f2c1b0d0a8"
+    },
+    {
+     "from": "2018-04-16",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/199607",
+     "sha256": "64e5115904be49a8bfa2e80656965b7fabd54d1698d28cc4e0a5b82dca54ea34"
+    },
+    {
+     "from": "2020-04-03",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/224044",
+     "sha256": "4f98800c6863c45ea9da5270942aeff57db85aed6f1e6750e9d6403c9c95c2de"
+    },
+    {
+     "from": "2024-06-25",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/284272",
+     "sha256": "6bfa31df6acbc0f9f6e13a43b983a971ed5e3310bac95d3ed9d3cd04d3f33762"
+    },
+    {
+     "from": "2025-04-25",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/64827",
+     "sha256": "649e55e668405957a5b330274e2835f9e672010f8bd022bfc4ae32a474c4541e"
+    }
+   ]
+  },
+  {
+   "slug": "hg-964-2000",
+   "path": "hg/2000/964",
+   "short": "HG nr. 964/2000",
+   "title": "Hotărârea Guvernului nr. 964/2000",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/24726",
+   "versions": [
+    {
+     "from": "2000-11-24",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/24726",
+     "sha256": "6a349f53c320190cc0330850ac6b44c62aea51dfef7b40bdfd8d4a4dc5023137"
+    },
+    {
+     "from": "2007-03-19",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/116728",
+     "sha256": "a806d4cc4a52bfcade70d7c01032f547724d863ae3bb896b50f7e46005309abd"
+    }
+   ]
+  },
+  {
    "slug": "hg-965-2002",
    "path": "hg/2002/965",
    "short": "HG nr. 965/2002",
@@ -16252,6 +17659,39 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38505",
      "sha256": "6f98b6d6fb8772cced82b08cd2c4bc8854b836afc8581eec3c0f5337001c3f5a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-977-2003",
+   "path": "hg/2003/977",
+   "short": "HG nr. 977/2003",
+   "title": "Hotărârea Guvernului nr. 977/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/177882",
+   "versions": [
+    {
+     "from": "2003-08-27",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/45862",
+     "sha256": "88c929c1ae8d186a763dd18232ce4b56e9d90151824162c7535b8651159608bf"
+    },
+    {
+     "from": "2007-10-30",
+     "units": 12,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/105921",
+     "sha256": "1bfd73efdbac49c74f6b0d4184d37a3b782d5d3b2b1cf8092e9c5220f8515232"
+    },
+    {
+     "from": "2009-10-15",
+     "units": 12,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/112362",
+     "sha256": "e111b5bbf93d1dbcd79df4d9bc5edf6c8a82b46709d2ba55539694ac6b05dddf"
+    },
+    {
+     "from": "2016-04-22",
+     "units": 12,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/177882",
+     "sha256": "fac1c28fef9c25a07f128b1a841f835cf945020e10f51e3bdba8b69b93c43179"
     }
    ]
   },
