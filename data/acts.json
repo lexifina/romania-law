@@ -61134,6 +61134,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/33837"
 },
 {
+"slug": "og-36-2002",
+"path": "og/2002/36",
+"kind": "og",
+"year": "2002",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța Guvernului nr. 36/2002",
+"short": "OG nr. 36/2002",
+"code": null,
+"status": "repealed 2004-01-01",
+"versions": 5,
+"from": "2002-02-02",
+"latest": "2004-01-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/38365"
+},
+{
 "slug": "og-37-2002",
 "path": "og/2002/37",
 "kind": "og",

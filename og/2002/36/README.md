@@ -1,0 +1,20 @@
+# Ordonanța Guvernului nr. 36/2002
+
+OG nr. 36/2002 · 5 versions, from 2002-02-02 (latest in force: 2004-01-01) · <https://legislatie.just.ro/Public/DetaliiDocument/38365>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+
+Act id: `og-36-2002` (tags `og-36-2002/<day>`; `python tools/on.py <day> og-36-2002`).
+
+## Decisions made by hand
+
+- OG nr. 36/2002: added 2026-11-02, one of the Portalul legislativ's consolidated forms per version, as for the other acts. A capture was used only if it was complete and the page showed the form its document id stands for. The forms are those listed by DetaliiDocumentAfis/33840 as captured on 2025-12-17, the newest capture of any of the act's pages: 2 forms, 2 held.
+- OG nr. 36/2002: the newest form held is that of 14.02.2003; amendments in force after it may be missing.
+- OG nr. 36/2002: the first version is the ordinance as published in Monitorul Oficial nr. 92 of 2 February 2002 (DetaliiDocumentAfis/33840). Its art. 79 reads "Prevederile prezentei ordonanțe se aplică începând cu data de 1 ianuarie 2003", read as the day it takes effect (ruling 44), save art. 10 alin. (3), arts. 73, 74, 76 and 77 ("se aduc la îndeplinire la termenele prevăzute, în anul 2002") and art. 31 alin. (3) and chapter VII, arts. 34-45 ("se pun în executare începând cu data publicării"), which take effect on publication, 2 February 2002, with a version of their own that day.
+- OG nr. 36/2002: the republication of 10 September 2002 (38365) is credited, for the changes no note explains, to Legea nr. 522/2002, under whose art. II it was republished, as its own note says.
+- OG nr. 36/2002: the portal lists the ordinance's republication (Monitorul Oficial nr. 670 of 10 September 2002, under art. II of Legea nr. 522/2002, with renumbered articles; DetaliiDocumentAfis/38365) under a day before most of it took effect. It is read as the text on 1 January 2003, the day art. 79 applies the ordinance from (flag read_on; ruling 46), and credited to Legea nr. 522/2002 (Monitorul Oficial nr. 602 of 14 August 2002). No form shows separately what changed before then in the provisions already in force since 2 February 2002: the rectification of art. 31 alin. (3) published in Monitorul Oficial nr. 145 of 26 February 2002 ("Taxele datorate pentru eliberarea certificatelor de urbanism și a autorizațiilor de construire de către președinții consiliilor județene ..."), and the changes of Legea nr. 522/2002 to chapter VII and arts. 73-77 (in force 14 August 2002, printed by the republication of 10 September 2002). They arrive with the republication on 1 January 2003, the fallback when they cannot be cut (as ruling 54); the articles keep the republication's numbering from that day.
+- OG nr. 36/2002: the form of 14 February 2003 (DetaliiDocument/42059) prints art. 45 alin. (3), which its note says Ordonanța de urgență nr. 138/2002 (Monitorul Oficial nr. 786 of 29 October 2002) inserted; the note gives no day the parse reads and the article (taxa hotelieră) applies only from 1 January 2003, so the change is dated by the form, 14 February 2003, the first form that prints it, with this line naming the earlier day it could apply from (1 January 2003).
+- OG nr. 36/2002: the same form prints a few misprints with no note ("asi" for "își" in arts. 5, 25, 36, 40, 62 and 66; "în" for "an" in arts. 32 and 73; "hotara" for "hotărî" in art. 58); no act was found making them and they are committed as the publisher's typesetting, credited to no law.
+- OG nr. 36/2002: the official web service holds no text of the ordinance as first published (only its republication), so the first version is checked against the act page as published alone (DetaliiDocumentAfis/33840).
+- OG nr. 36/2002: 10 changed article(s) with no note naming a law, committed as the publisher's: 2003-02-14 art-005, 2003-02-14 art-025, 2003-02-14 art-032, 2003-02-14 art-036, 2003-02-14 art-040, 2003-02-14 art-051, 2003-02-14 art-058, 2003-02-14 art-062, 2003-02-14 art-066, 2003-02-14 art-073.

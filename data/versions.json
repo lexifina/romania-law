@@ -61178,6 +61178,45 @@
    ]
   },
   {
+   "slug": "og-36-2002",
+   "path": "og/2002/36",
+   "short": "OG nr. 36/2002",
+   "title": "Ordonanța Guvernului nr. 36/2002",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/38365",
+   "versions": [
+    {
+     "from": "2002-02-02",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/33840",
+     "sha256": "3a9a23a64c8f2efea94babc6d893b31f76e16c21a8e616b14aa917963d657f56"
+    },
+    {
+     "from": "2003-01-01",
+     "units": 81,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/33840",
+     "sha256": "3a9a23a64c8f2efea94babc6d893b31f76e16c21a8e616b14aa917963d657f56"
+    },
+    {
+     "from": "2003-01-01",
+     "units": 80,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/38365",
+     "sha256": "d6e3fb86f5e25d6d9b156b7bfe328d331235a9d04de1129a23504e74168a9343"
+    },
+    {
+     "from": "2003-02-14",
+     "units": 80,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42059",
+     "sha256": "ef51295d9d3484b4dc08a5f13dc578c09bd8a22e7976a3188c53777c36b484d4"
+    },
+    {
+     "from": "2004-01-01",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/48725",
+     "sha256": "72e0e25082a4178f34e500f6fbe7b82408416fbf157f0037b9e37f80b157fb14"
+    }
+   ]
+  },
+  {
    "slug": "og-36-2006",
    "path": "og/2006/36",
    "short": "OG nr. 36/2006",

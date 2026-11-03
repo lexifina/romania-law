@@ -1,6 +1,6 @@
 # Every act in this repository
 
-8129 acts, 20,915 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+8130 acts, 20,920 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -3492,7 +3492,7 @@
 | Ordonanța de urgență a Guvernului nr. 78/2025 pentru modificarea Legii nr. 239/2025 privind stabilirea unor măsuri de redresare și eficientizare a resurselor publice și pentru modificarea și completarea unor acte normative | [`oug/2025/78/`](oug/2025/78/) | amending act | 1 | 2025-12-17 | 2025-12-17 |
 | Ordonanța de urgență a Guvernului nr. 87/2025 pentru stabilirea unor măsuri bugetare privind implementarea programelor naționale din domeniul lucrărilor publice | [`oug/2025/87/`](oug/2025/87/) | in force | 1 | 2025-12-24 | 2025-12-24 |
 
-## Ordinances (OG) (460, of which 90 amending acts)
+## Ordinances (OG) (461, of which 90 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -3641,6 +3641,7 @@
 | Ordonanța Guvernului nr. 33/2002 | [`og/2002/33/`](og/2002/33/) | in force | 2 | 2002-02-02 | 2002-04-29 |
 | Ordonanța Guvernului nr. 34/2002 | [`og/2002/34/`](og/2002/34/) | repealed 2011-12-27 | 6 | 2002-02-02 | 2011-12-27 |
 | Ordonanța Guvernului nr. 35/2002 | [`og/2002/35/`](og/2002/35/) | in force | 2 | 2002-02-02 | 2002-12-24 |
+| Ordonanța Guvernului nr. 36/2002 | [`og/2002/36/`](og/2002/36/) | repealed 2004-01-01 | 5 | 2002-02-02 | 2004-01-01 |
 | Ordonanța Guvernului nr. 37/2002 | [`og/2002/37/`](og/2002/37/) | in force | 2 | 2002-02-02 | 2007-03-02 |
 | Ordonanța Guvernului nr. 38/2002 | [`og/2002/38/`](og/2002/38/) | in force | 4 | 2002-02-02 | 2004-05-15 |
 | Ordonanța Guvernului nr. 53/2002 | [`og/2002/53/`](og/2002/53/) | in force | 2 | 2002-08-27 | 2003-03-26 |
