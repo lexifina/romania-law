@@ -34,3 +34,28 @@ Act id: `legea-73-2000` (tags `legea-73-2000/<day>`; `python tools/on.py <day> l
 - Legea nr. 73/2000: the form of 27 May 2005 differs from the earlier form in diacritics and punctuation and prints misprints (portal typesetting: not an amendment; the printed text is kept and no law is credited, as for the other portal typesetting in this record).
 - Legea nr. 73/2000: the portal editorial notes printed as paragraphs of an article (on a Constitutional Court ruling, a rectification, a provision put back in force) are not text: 3 such paragraphs across all forms, for example «Art. 3 a fost modificat de ORDONANȚA DE URGENȚĂ nr. 86 din 2».
 - Legea nr. 73/2000: 10 changed article(s) with no note naming a law, committed as the publisher's: 2005-05-27 art-001, 2005-05-27 art-002, 2005-05-27 art-003, 2005-05-27 art-004, 2005-05-27 art-007, 2005-05-27 art-008, 2005-05-27 art-011, 2005-05-27 art-013, 2005-05-27 art-014, 2005-05-27 art-015.
+
+## Credits corrected
+
+These changes were first published credited to another law. The words are unchanged; `git blame` still names the commit that wrote them, and `data/credits.csv` lists every corrected credit.
+
+- `art-001.md`, in force from 2003-10-03: OUG nr. 86/2003 (first published as no law named).
+- `art-002.md`, in force from 2003-10-03: OUG nr. 86/2003 (first published as no law named).
+- `art-003.md`, in force from 2003-10-03: OUG nr. 86/2003 (first published as no law named).
+- `art-004.md`, in force from 2003-10-03: OUG nr. 86/2003 (first published as no law named).
+- `art-005.md`, in force from 2003-10-03: OUG nr. 86/2003 (first published as no law named).
+- `art-007.md`, in force from 2003-10-03: OUG nr. 86/2003 (first published as no law named).
+- `art-008.md`, in force from 2003-10-03: OUG nr. 86/2003 (first published as no law named).
+- `art-009.md`, in force from 2003-10-03: OUG nr. 86/2003 (first published as no law named).
+- `art-010.md`, in force from 2003-10-03: OUG nr. 86/2003 (first published as no law named).
+- `art-011.md`, in force from 2003-10-03: OUG nr. 86/2003 (first published as no law named).
+- `art-012.md`, in force from 2003-10-03: OUG nr. 86/2003 (first published as no law named).
+- `art-014.md`, in force from 2003-10-03: OUG nr. 86/2003 (first published as no law named).
+- `art-008.md`, in force from 2004-07-30: Legea nr. 333/2004 (first published as no law named).
+- `art-009.md`, in force from 2004-07-30: Legea nr. 333/2004 (first published as no law named).
+- `art-012.md`, in force from 2004-07-30: Legea nr. 333/2004 (first published as no law named).
+- `art-014.md`, in force from 2004-07-30: Legea nr. 333/2004 (first published as no law named).
+- `art-005.md`, in force from 2005-05-27: OUG nr. 86/2003 (first published as no law named).
+- `art-009.md`, in force from 2005-05-27: Rectificare MO nr. 57/2003 (first published as no law named).
+- `art-010.md`, in force from 2005-05-27: OUG nr. 41/2005 (first published as no law named).
+- `art-012.md`, in force from 2005-05-27: Legea nr. 333/2004 (first published as no law named).
