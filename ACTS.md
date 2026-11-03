@@ -1,6 +1,6 @@
 # Every act in this repository
 
-2559 acts, 9,811 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+2559 acts, 9,815 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -102,7 +102,7 @@
 | Legea nr. 188/2000 privind executorii judecătorești | [`lege/2000/188/`](lege/2000/188/) | in force | 14 | 2000-11-10 | 2022-07-17 |
 | Legea nr. 193/2000 privind clauzele abuzive din contractele încheiate între profesioniști și consumatori | [`lege/2000/193/`](lege/2000/193/) | in force | 10 | 2000-12-10 | 2022-05-28 |
 | Legea nr. 10/2001 privind regimul juridic al unor imobile preluate în mod abuziv în perioada 6 martie 1945 - 22 decembrie 1989 | [`lege/2001/10/`](lege/2001/10/) | in force | 24 | 2001-08-13 | 2024-07-20 |
-| Legea nr. 90/2001 privind organizarea și funcționarea Guvernului României și a ministerelor | [`lege/2001/90/`](lege/2001/90/) | in force | 28 | 2001-04-02 | 2019-03-01 |
+| Legea nr. 90/2001 privind organizarea și funcționarea Guvernului României și a ministerelor | [`lege/2001/90/`](lege/2001/90/) | repealed 2019-07-05 | 29 | 2001-04-02 | 2019-07-05 |
 | Legea administrației publice locale nr. 215/2001 | [`lege/2001/215/`](lege/2001/215/) | in force | 40 | 2001-05-23 | 2019-07-20 |
 | Legea nr. 241/2001 | [`lege/2001/241/`](lege/2001/241/) | in force | 1 | 2001-05-23 | 2001-05-23 |
 | Legea nr. 268/2001 | [`lege/2001/268/`](lege/2001/268/) | in force | 24 | 2001-06-07 | 2025-12-31 |
@@ -112,7 +112,7 @@
 | Legea nr. 406/2001 | [`lege/2001/406/`](lege/2001/406/) | in force | 5 | 2001-07-16 | 2025-09-15 |
 | Legea nr. 416/2001 privind venitul minim garantat | [`lege/2001/416/`](lege/2001/416/) | in force | 31 | 2002-01-01 | 2021-09-16 |
 | Legea nr. 422/2001 privind protejarea monumentelor istorice | [`lege/2001/422/`](lege/2001/422/) | in force | 25 | 2001-07-24 | 2024-09-01 |
-| Legea nr. 455/2001 | [`lege/2001/455/`](lege/2001/455/) | in force | 6 | 2001-07-31 | 2022-08-18 |
+| Legea nr. 455/2001 | [`lege/2001/455/`](lege/2001/455/) | repealed 2024-10-08 | 7 | 2001-07-31 | 2024-10-08 |
 | Legea nr. 544/2001 privind liberul acces la informațiile de interes public | [`lege/2001/544/`](lege/2001/544/) | in force | 6 | 2001-12-22 | 2016-07-17 |
 | Legea nr. 677/2001 pentru protecția persoanelor cu privire la prelucrarea datelor cu caracter personal și libera circulație a acestor date | [`lege/2001/677/`](lege/2001/677/) | repealed 2018-06-24 | 4 | 2001-12-12 | 2018-06-24 |
 | Legea nr. 678/2001 | [`lege/2001/678/`](lege/2001/678/) | in force | 10 | 2001-12-11 | 2023-05-29 |
@@ -186,14 +186,14 @@
 | Legea nr. 341/2004 | [`lege/2004/341/`](lege/2004/341/) | in force | 20 | 2004-07-23 | 2021-10-11 |
 | Legea nr. 346/2004 privind stimularea înființării și dezvoltării întreprinderilor mici și mijlocii | [`lege/2004/346/`](lege/2004/346/) | in force | 20 | 2004-08-01 | 2025-12-12 |
 | Legea nr. 348/2004 privind denominarea monedei naționale | [`lege/2004/348/`](lege/2004/348/) | in force | 3 | 2004-07-26 | 2005-05-08 |
-| Legea nr. 359/2004 | [`lege/2004/359/`](lege/2004/359/) | in force | 10 | 2004-10-13 | 2021-07-23 |
+| Legea nr. 359/2004 | [`lege/2004/359/`](lege/2004/359/) | repealed 2022-11-26 | 11 | 2004-10-13 | 2022-11-26 |
 | Legea nr. 369/2004 | [`lege/2004/369/`](lege/2004/369/) | in force | 4 | 2004-12-29 | 2023-02-21 |
 | Legea nr. 370/2004 pentru alegerea Președintelui României | [`lege/2004/370/`](lege/2004/370/) | in force | 15 | 2004-10-02 | 2024-05-10 |
 | Legea nr. 411/2004 | [`lege/2004/411/`](lege/2004/411/) | in force | 26 | 2006-07-01 | 2025-04-17 |
 | Legea nr. 466/2004 | [`lege/2004/466/`](lege/2004/466/) | in force | 4 | 2004-11-26 | 2023-06-26 |
 | Legea nr. 481/2004 | [`lege/2004/481/`](lege/2004/481/) | in force | 8 | 2005-01-23 | 2023-03-07 |
 | Legea nr. 490/2004 | [`lege/2004/490/`](lege/2004/490/) | in force | 11 | 2005-01-01 | 2024-03-29 |
-| Legea nr. 503/2004 privind redresarea financiară și falimentul societăților de asigurare | [`lege/2004/503/`](lege/2004/503/) | in force | 9 | 2005-01-13 | 2021-09-24 |
+| Legea nr. 503/2004 privind redresarea financiară și falimentul societăților de asigurare | [`lege/2004/503/`](lege/2004/503/) | repealed 2024-01-19 | 10 | 2005-01-13 | 2024-01-19 |
 | Legea nr. 506/2004 privind prelucrarea datelor cu caracter personal și protecția vieții private în sectorul comunicațiilor electronice | [`lege/2004/506/`](lege/2004/506/) | in force | 9 | 2004-11-28 | 2024-10-08 |
 | Legea nr. 535/2004 | [`lege/2004/535/`](lege/2004/535/) | in force | 7 | 2004-12-11 | 2025-11-28 |
 | Legea nr. 550/2004 | [`lege/2004/550/`](lege/2004/550/) | in force | 5 | 2005-03-13 | 2025-10-25 |
