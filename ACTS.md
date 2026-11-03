@@ -1,6 +1,6 @@
 # Every act in this repository
 
-14555 acts, 28,144 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+14556 acts, 28,145 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -4808,7 +4808,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (9756, of which 4477 amending acts)
+## Government decisions (HG) (9757, of which 4477 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -6036,6 +6036,7 @@
 | Hotărârea Guvernului nr. 941/2007 privind acordarea unor ajutoare de urgenţă | [`hg/2007/941/`](hg/2007/941/) | in force | 1 | 2007-08-23 | 2007-08-23 |
 | Hotărârea Guvernului nr. 943/2007 privind aprobarea numărului de personal disponibilizat prin concedieri colective ce vor fi efectuate de Societatea Comercială "MENAROM" - S.A. Galaţi şi de Societatea Comercială "I.C.E.F.S." - S.A. Săvineşti, aflate în portofoliul Autorităţii pentru Valorificarea Activelor Statului | [`hg/2007/943/`](hg/2007/943/) | amending act | 1 | 2007-08-27 | 2007-08-27 |
 | Hotărârea Guvernului nr. 944/2007 privind aprobarea numărului de personal disponibilizat prin concedieri colective ce vor fi efectuate de Societatea Naţională "PLAFAR" - S.A. Bucureşti, aflată în portofoliul Autorităţii pentru Valorificarea Activelor Statului | [`hg/2007/944/`](hg/2007/944/) | amending act | 1 | 2007-08-27 | 2007-08-27 |
+| Hotărârea Guvernului nr. 954/2007 privind trecerea unui imobil aflat în domeniul public al statului din administrarea Ministerului Economiei şi Finanţelor - Agenţia Naţională de Administrare Fiscală - Direcţia Generală a Finanţelor Publice a Judeţului Harghita în administrarea Ministerului Economiei şi Finanţelor - Agenţia Naţională de Administrare Fiscală - Autoritatea Naţională a Vămilor | [`hg/2007/954/`](hg/2007/954/) | in force | 1 | 2007-08-30 | 2007-08-30 |
 | Hotărârea Guvernului nr. 987/2007 privind suplimentarea bugetului Ministerului Culturii şi Cultelor din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2007, pentru Mănăstirea Secu, judeţul Neamţ, Mitropolia Moldovei şi Bucovinei | [`hg/2007/987/`](hg/2007/987/) | in force | 1 | 2007-08-28 | 2007-08-28 |
 | Hotărârea Guvernului nr. 993/2007 privind suplimentarea bugetului Ministerului Justiţiei din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2007 | [`hg/2007/993/`](hg/2007/993/) | in force | 1 | 2007-08-29 | 2007-08-29 |
 | Hotărârea Guvernului nr. 1064/2007 | [`hg/2007/1064/`](hg/2007/1064/) | in force | 1 | 2007-09-17 | 2007-09-17 |
