@@ -11552,27 +11552,6 @@
    ]
   },
   {
-   "slug": "hg-1235-2022",
-   "path": "hg/2022/1235",
-   "short": "HG nr. 1235/2022",
-   "title": "Hotărârea Guvernului nr. 1235/2022 privind aprobarea distribuţiei bugetului aferent reformelor şi investiţiilor finanţate prin Planul naţional de redresare şi rezilienţă al României pentru fiecare coordonator de reformă şi/sau investiţii",
-   "url": "https://legislatie.just.ro/Public/DetaliiDocument/260349",
-   "versions": [
-    {
-     "from": "2022-10-12",
-     "units": 1,
-     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/260349",
-     "sha256": "ad2abb3751fe9ab4e2dc4a20d7dcbf1614a539fc53292c450b15c01e59ad52a8"
-    },
-    {
-     "from": "2024-03-15",
-     "units": 1,
-     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/260349",
-     "sha256": "9735cc0ff98550d5c714f5e5a67f1c0a4a8da7a1f1b6d09ee2dc3bc51f06281e"
-    }
-   ]
-  },
-  {
    "slug": "hg-124-2013",
    "path": "hg/2013/124",
    "short": "HG nr. 124/2013",
@@ -12718,6 +12697,21 @@
      "units": 24,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/55469",
      "sha256": "e00d60693219bae2d17092546333eeab18caaa658978948841cf563d2e7ba6a6"
+    }
+   ]
+  },
+  {
+   "slug": "hg-15-2016",
+   "path": "hg/2016/15",
+   "short": "HG nr. 15/2016",
+   "title": "Hotărârea Guvernului nr. 15/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/175271",
+   "versions": [
+    {
+     "from": "2016-01-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/175271",
+     "sha256": "0226a5378ad947eedd76c2204efa6547d3e34841f68d58ddec7fc4a22ac30edd"
     }
    ]
   },
@@ -15101,27 +15095,6 @@
    ]
   },
   {
-   "slug": "hg-297-2020",
-   "path": "hg/2020/297",
-   "short": "HG nr. 297/2020",
-   "title": "Hotărârea Guvernului nr. 297/2020 privind domeniile şi programele de studii universitare de master acreditate şi numărul maxim de studenţi ce pot fi şcolarizaţi în anul universitar 2020-2021",
-   "url": "https://legislatie.just.ro/Public/DetaliiDocument/225475",
-   "versions": [
-    {
-     "from": "2020-05-08",
-     "units": 4,
-     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/225475",
-     "sha256": "05603469a9910023c1973c6cb6e050888111b350776783e085abb180e6d8545f"
-    },
-    {
-     "from": "2020-09-08",
-     "units": 4,
-     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/229449",
-     "sha256": "795f191d196af6b06d0f82bc9a3b4f3eb14b79cce6a4ddaacdc513a9a0c7f923"
-    }
-   ]
-  },
-  {
    "slug": "hg-299-2010",
    "path": "hg/2010/299",
    "short": "HG nr. 299/2010",
@@ -15421,27 +15394,6 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/252515",
      "sha256": "c5466d8e0b4394fb4d82211961d394ada2c281f4fd72a76a4bd18f3ce15fb9e0"
-    }
-   ]
-  },
-  {
-   "slug": "hg-318-2019",
-   "path": "hg/2019/318",
-   "short": "HG nr. 318/2019",
-   "title": "Hotărârea Guvernului nr. 318/2019 privind domeniile şi programele de studii universitare de master acreditate şi numărul maxim de studenţi ce pot fi şcolarizaţi în anul universitar 2019-2020",
-   "url": "https://legislatie.just.ro/Public/DetaliiDocument/215308",
-   "versions": [
-    {
-     "from": "2019-06-20",
-     "units": 4,
-     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/215308",
-     "sha256": "42c986a8e8df386dbecdf54a85fdd5967eaae1070cef2638df650690359f77aa"
-    },
-    {
-     "from": "2019-09-04",
-     "units": 4,
-     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/215308",
-     "sha256": "339eb56ea56e276fc9cbe40d81d6a9def5e573bf309e664c1819c7fd9fc69310"
     }
    ]
   },
@@ -16100,27 +16052,6 @@
    ]
   },
   {
-   "slug": "hg-356-2023",
-   "path": "hg/2023/356",
-   "short": "HG nr. 356/2023",
-   "title": "Hotărârea Guvernului nr. 356/2023 privind aprobarea domeniilor şi programelor de studii universitare de master acreditate şi a numărului maxim de studenţi ce pot fi şcolarizaţi în anul universitar 2023-2024",
-   "url": "https://legislatie.just.ro/Public/DetaliiDocument/267355",
-   "versions": [
-    {
-     "from": "2023-04-25",
-     "units": 4,
-     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/267355",
-     "sha256": "374f47436087609fc05eadec7bc35a9983d2bfc4855bc257aac3d7203eba38b3"
-    },
-    {
-     "from": "2023-08-04",
-     "units": 4,
-     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/267355",
-     "sha256": "593c8b78fdcb8936c6436b68d3abbe8ced7ee03b0b1f98da96e416d6a039c2fa"
-    }
-   ]
-  },
-  {
    "slug": "hg-363-1994",
    "path": "hg/1994/363",
    "short": "HG nr. 363/1994",
@@ -16598,27 +16529,6 @@
    ]
   },
   {
-   "slug": "hg-403-2021",
-   "path": "hg/2021/403",
-   "short": "HG nr. 403/2021",
-   "title": "Hotărârea Guvernului nr. 403/2021 privind aprobarea Nomenclatorului domeniilor şi al specializărilor/ programelor de studii universitare şi a structurii instituţiilor de învăţământ superior pentru anul universitar 2021-2022",
-   "url": "https://legislatie.just.ro/Public/DetaliiDocument/240925",
-   "versions": [
-    {
-     "from": "2021-04-12",
-     "units": 8,
-     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/240925",
-     "sha256": "5a2152b4526acc1e50498abbbb92caef497b42c24dc8852109cf9105a0236ac8"
-    },
-    {
-     "from": "2021-05-14",
-     "units": 8,
-     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/241540",
-     "sha256": "28137b1a4bdd7b520bcd09d0f8d418ab5c99fae1eb31ad343d74ee06e610864d"
-    }
-   ]
-  },
-  {
    "slug": "hg-405-2007",
    "path": "hg/2007/405",
    "short": "HG nr. 405/2007",
@@ -16843,27 +16753,6 @@
      "units": 1,
      "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/226876",
      "sha256": "fe202e7f5445347a41a37e1acc87bf9427e5bb74ed98801106351b7b8c5e40f9"
-    }
-   ]
-  },
-  {
-   "slug": "hg-413-2024",
-   "path": "hg/2024/413",
-   "short": "HG nr. 413/2024",
-   "title": "Hotărârea Guvernului nr. 413/2024 privind aprobarea domeniilor şi programelor de studii universitare de master acreditate şi a numărului maxim de studenţi ce pot fi şcolarizaţi în anul universitar 2024-2025",
-   "url": "https://legislatie.just.ro/Public/DetaliiDocument/282308",
-   "versions": [
-    {
-     "from": "2024-04-29",
-     "units": 4,
-     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/282308",
-     "sha256": "910969ac8ffd3c5023ca0f5e8534dfb6b72f98cad3bf4d5171b1230489d3739c"
-    },
-    {
-     "from": "2024-09-12",
-     "units": 4,
-     "source_url": "https://legislatie.just.ro/public/DetaliiDocument/282308",
-     "sha256": "d06e024e9a70eb9d4eb20674b5f68e2918e2f96f2d2924bb1714690ff36efd97"
     }
    ]
   },
@@ -18770,6 +18659,39 @@
    ]
   },
   {
+   "slug": "hg-577-2003",
+   "path": "hg/2003/577",
+   "short": "HG nr. 577/2003",
+   "title": "Hotărârea Guvernului nr. 577/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/74745",
+   "versions": [
+    {
+     "from": "2003-07-06",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/44206",
+     "sha256": "d79da39d6943debf3078b4166bad91e4770de9ca977e851ba957ae787de5367d"
+    },
+    {
+     "from": "2004-03-12",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/74745",
+     "sha256": "a1a9b1865b6bc160b906151c3d9321eea6a6a45c372d185e82d3064d7abbc613"
+    },
+    {
+     "from": "2006-07-05",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/74746",
+     "sha256": "97736cda7d17ff4af5ca5a71baa6ad352b3c3c67352172980dde4ecdf9fbd446"
+    },
+    {
+     "from": "2007-06-26",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/179916",
+     "sha256": "98e3361ea24256bb1b36a1f429ba342aa2b45215dca84c7c22e7861ec444817f"
+    }
+   ]
+  },
+  {
    "slug": "hg-577-2004",
    "path": "hg/2004/577",
    "short": "HG nr. 577/2004",
@@ -19619,27 +19541,6 @@
    ]
   },
   {
-   "slug": "hg-644-2025",
-   "path": "hg/2025/644",
-   "short": "HG nr. 644/2025",
-   "title": "Hotărârea Guvernului nr. 644/2025 pentru modificarea anexelor nr. 1 şi 2 la Hotărârea Guvernului nr. 428/2025 privind aprobarea domeniilor şi programelor de studii universitare de master acreditate şi a numărului maxim de studenţi ce pot fi şcolarizaţi în anul universitar 2025-2026",
-   "url": "https://legislatie.just.ro/Public/DetaliiDocument/301322",
-   "versions": [
-    {
-     "from": "2025-08-13",
-     "units": 1,
-     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/301322",
-     "sha256": "e650047db6d934328cd4b6b1b7f28bf161100404b506812a0884b47dbf7156ff"
-    },
-    {
-     "from": "2025-08-29",
-     "units": 1,
-     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/301322",
-     "sha256": "1eab86e9fc4cde5e23ce04fb910e4bcf8b2339bfcb2da3abf81622ec294658e0"
-    }
-   ]
-  },
-  {
    "slug": "hg-65-2009",
    "path": "hg/2009/65",
    "short": "HG nr. 65/2009",
@@ -19895,6 +19796,45 @@
    ]
   },
   {
+   "slug": "hg-661-2001",
+   "path": "hg/2001/661",
+   "short": "HG nr. 661/2001",
+   "title": "Hotărârea Guvernului nr. 661/2001",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/29948",
+   "versions": [
+    {
+     "from": "2001-09-02",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/29948",
+     "sha256": "ec53cc13606e6447869d7b3bc8c4852e8a9e4da705dfe0845f95640e158cdd42"
+    },
+    {
+     "from": "2004-10-04",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/55678",
+     "sha256": "d71253c47b41a88fa607657db15a76e431d9a5e1cbafbc1bdeb7da2e68e539d7"
+    },
+    {
+     "from": "2005-03-14",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/60593",
+     "sha256": "275820be006347ceac12bc6da151682de9fb87bb8398d4a56b6afe3cc60777ce"
+    },
+    {
+     "from": "2006-11-04",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/81058",
+     "sha256": "89c201249a9d130088c62dd82ab3fb9b9d74f5e8885c07a029e6619deed50424"
+    },
+    {
+     "from": "2014-11-03",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/199363",
+     "sha256": "b94e460533f4c6deade9ea3c66a5aa43ab71fc041a5c61a1bf9d07c068014ab9"
+    }
+   ]
+  },
+  {
    "slug": "hg-666-2016",
    "path": "hg/2016/666",
    "short": "HG nr. 666/2016",
@@ -19906,6 +19846,27 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/182251",
      "sha256": "e25ecd8560c2e6e968689e64c3c775657dd8f353c80b929e56f2656dc4eadbbd"
+    }
+   ]
+  },
+  {
+   "slug": "hg-679-2003",
+   "path": "hg/2003/679",
+   "short": "HG nr. 679/2003",
+   "title": "Hotărârea Guvernului nr. 679/2003 privind condițiile de obținere a atestatului, procedurile de atestare și statutul asistentului maternal profesionist",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/44582",
+   "versions": [
+    {
+     "from": "2003-06-23",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/44582",
+     "sha256": "b2fcb2565db6ec1ea15eb48a1a06d5d9139554fe8173e2675916a586d7a4600c"
+    },
+    {
+     "from": "2024-08-12",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/public/DetaliiDocument/286772",
+     "sha256": "938d9cb3abb4fb1bc91b7230e819dd3f73053b402abe76063c852f78e4c319db"
     }
    ]
   },
@@ -81367,6 +81328,111 @@
      "units": 18,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/61100",
      "sha256": "82fb5c8ef988c084550e7a085d938ea14b69ab41675cc0f3ed8b5258017d8b2c"
+    }
+   ]
+  },
+  {
+   "slug": "oug-79-2002",
+   "path": "oug/2002/79",
+   "short": "OUG nr. 79/2002",
+   "title": "Ordonanța de urgență a Guvernului nr. 79/2002",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/36917",
+   "versions": [
+    {
+     "from": "2002-06-27",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/36917",
+     "sha256": "96b5313dad94b282a6b4e048799c3f677df357c6e80febd2dcf704a64762b71d"
+    },
+    {
+     "from": "2002-09-25",
+     "units": 67,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/36917",
+     "sha256": "96b5313dad94b282a6b4e048799c3f677df357c6e80febd2dcf704a64762b71d"
+    },
+    {
+     "from": "2002-10-30",
+     "units": 67,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/60160",
+     "sha256": "0ddb480d6086ec19cc79fea4c80fc1ded7880be06c2c55ee4cf9d21ad2ce02d5"
+    },
+    {
+     "from": "2004-11-25",
+     "units": 68,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/60162",
+     "sha256": "7ef961397840120a1600b3ab5ee7a22997c3d99215596ce1064a7af314b58f2d"
+    },
+    {
+     "from": "2005-03-02",
+     "units": 68,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/60163",
+     "sha256": "f22ec1bc41d82a9abe65445256c240ffcfa95d0499ac202e1b538ea3b3521a5d"
+    },
+    {
+     "from": "2005-07-29",
+     "units": 73,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/64219",
+     "sha256": "09aa89fed239f15d5cc00ff67782595015feb06623aae1d2122edeb5cae22c08"
+    },
+    {
+     "from": "2005-12-31",
+     "units": 71,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/75622",
+     "sha256": "04ed95cf93807851c76be1a08199f1088419023d9035fdf100e2a0e2a846ac14"
+    },
+    {
+     "from": "2006-06-01",
+     "units": 71,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/75622",
+     "sha256": "04ed95cf93807851c76be1a08199f1088419023d9035fdf100e2a0e2a846ac14"
+    },
+    {
+     "from": "2006-10-02",
+     "units": 80,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/75623",
+     "sha256": "eec21269a32e36389b490a392d184acab6f257c42880aee33113f66dfb90ccf7"
+    },
+    {
+     "from": "2006-12-29",
+     "units": 75,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/82405",
+     "sha256": "01ef0fb9246ef0b758968c6d9b16613fe0e9e4e8892895ed9ed1fa01c7d3bd32"
+    },
+    {
+     "from": "2007-05-27",
+     "units": 78,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/82406",
+     "sha256": "e48dc29fa95d97340279fc8274a46b19cbeaa3bdac1da6418e3c9e5a854d66db"
+    },
+    {
+     "from": "2008-05-16",
+     "units": 79,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/93172",
+     "sha256": "523cd0887cb20da49957e62e7ea0645ef5e019dd15b00cedd22e649646516fdf"
+    },
+    {
+     "from": "2008-09-18",
+     "units": 78,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/104006",
+     "sha256": "73be2221ca8e971da8ec568658a5a2cb7783b6b7a1c94fc3ce5d212c4b917d22"
+    },
+    {
+     "from": "2011-02-28",
+     "units": 86,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/126760",
+     "sha256": "fd5177f4e38f78bca5803a522cca84a2cedb041bf6c4ebf36b46ea7d7003e78e"
+    },
+    {
+     "from": "2011-12-27",
+     "units": 86,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/141793",
+     "sha256": "0cf5e4e3ef27b9896fd8329d5373a2e0173e252ec33389752f01fadf931e9c9f"
+    },
+    {
+     "from": "2012-10-31",
+     "units": 85,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/141794",
+     "sha256": "054db3b5461b76ea518c1193a40879cff7250249ac84ef675ddcc99591313f62"
     }
    ]
   },
@@ -173265,6 +173331,27 @@
    ]
   },
   {
+   "slug": "hg-1235-2022",
+   "path": "hg/2022/1235",
+   "short": "HG nr. 1235/2022",
+   "title": "Hotărârea Guvernului nr. 1235/2022 privind aprobarea distribuţiei bugetului aferent reformelor şi investiţiilor finanţate prin Planul naţional de redresare şi rezilienţă al României pentru fiecare coordonator de reformă şi/sau investiţii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/260349",
+   "versions": [
+    {
+     "from": "2022-10-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/260349",
+     "sha256": "ad2abb3751fe9ab4e2dc4a20d7dcbf1614a539fc53292c450b15c01e59ad52a8"
+    },
+    {
+     "from": "2024-03-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/260349",
+     "sha256": "9735cc0ff98550d5c714f5e5a67f1c0a4a8da7a1f1b6d09ee2dc3bc51f06281e"
+    }
+   ]
+  },
+  {
    "slug": "hg-15-2021",
    "short": "HG nr. 15/2021",
    "title": "Hotărârea Guvernului nr. 15/2021 privind modificarea Regulamentului Camerei Deputaților",
@@ -173377,6 +173464,27 @@
    ]
   },
   {
+   "slug": "hg-297-2020",
+   "path": "hg/2020/297",
+   "short": "HG nr. 297/2020",
+   "title": "Hotărârea Guvernului nr. 297/2020 privind domeniile şi programele de studii universitare de master acreditate şi numărul maxim de studenţi ce pot fi şcolarizaţi în anul universitar 2020-2021",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/225475",
+   "versions": [
+    {
+     "from": "2020-05-08",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/225475",
+     "sha256": "05603469a9910023c1973c6cb6e050888111b350776783e085abb180e6d8545f"
+    },
+    {
+     "from": "2020-09-08",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/229449",
+     "sha256": "795f191d196af6b06d0f82bc9a3b4f3eb14b79cce6a4ddaacdc513a9a0c7f923"
+    }
+   ]
+  },
+  {
    "slug": "hg-3-2021",
    "short": "HG nr. 3/2021",
    "title": "Hotărârea Guvernului nr. 3/2021 privind aprobarea Procedurii de organizare la distanță a Convenției naționale a Colegiului Psihologilor din România",
@@ -173391,6 +173499,48 @@
    ]
   },
   {
+   "slug": "hg-318-2019",
+   "path": "hg/2019/318",
+   "short": "HG nr. 318/2019",
+   "title": "Hotărârea Guvernului nr. 318/2019 privind domeniile şi programele de studii universitare de master acreditate şi numărul maxim de studenţi ce pot fi şcolarizaţi în anul universitar 2019-2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/215308",
+   "versions": [
+    {
+     "from": "2019-06-20",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/215308",
+     "sha256": "42c986a8e8df386dbecdf54a85fdd5967eaae1070cef2638df650690359f77aa"
+    },
+    {
+     "from": "2019-09-04",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/215308",
+     "sha256": "339eb56ea56e276fc9cbe40d81d6a9def5e573bf309e664c1819c7fd9fc69310"
+    }
+   ]
+  },
+  {
+   "slug": "hg-356-2023",
+   "path": "hg/2023/356",
+   "short": "HG nr. 356/2023",
+   "title": "Hotărârea Guvernului nr. 356/2023 privind aprobarea domeniilor şi programelor de studii universitare de master acreditate şi a numărului maxim de studenţi ce pot fi şcolarizaţi în anul universitar 2023-2024",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/267355",
+   "versions": [
+    {
+     "from": "2023-04-25",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/267355",
+     "sha256": "374f47436087609fc05eadec7bc35a9983d2bfc4855bc257aac3d7203eba38b3"
+    },
+    {
+     "from": "2023-08-04",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/267355",
+     "sha256": "593c8b78fdcb8936c6436b68d3abbe8ced7ee03b0b1f98da96e416d6a039c2fa"
+    }
+   ]
+  },
+  {
    "slug": "hg-4-2022",
    "short": "HG nr. 4/2022",
    "title": "Hotărârea Guvernului nr. 4/2022 privind radierea Societății PROCAPITAL ALLIANCE IFN - S.A. din Registrul general și din Registrul special Instituții Financiare Nebancare și, implicit, interzicerea desfășurării activității de creditare",
@@ -173401,6 +173551,48 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/253938",
      "sha256": "d339c446dae38b285d4e70c16a576f0b2ba4c657de1d0f99deb51db4744b21da"
+    }
+   ]
+  },
+  {
+   "slug": "hg-403-2021",
+   "path": "hg/2021/403",
+   "short": "HG nr. 403/2021",
+   "title": "Hotărârea Guvernului nr. 403/2021 privind aprobarea Nomenclatorului domeniilor şi al specializărilor/ programelor de studii universitare şi a structurii instituţiilor de învăţământ superior pentru anul universitar 2021-2022",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/240925",
+   "versions": [
+    {
+     "from": "2021-04-12",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/240925",
+     "sha256": "5a2152b4526acc1e50498abbbb92caef497b42c24dc8852109cf9105a0236ac8"
+    },
+    {
+     "from": "2021-05-14",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/241540",
+     "sha256": "28137b1a4bdd7b520bcd09d0f8d418ab5c99fae1eb31ad343d74ee06e610864d"
+    }
+   ]
+  },
+  {
+   "slug": "hg-413-2024",
+   "path": "hg/2024/413",
+   "short": "HG nr. 413/2024",
+   "title": "Hotărârea Guvernului nr. 413/2024 privind aprobarea domeniilor şi programelor de studii universitare de master acreditate şi a numărului maxim de studenţi ce pot fi şcolarizaţi în anul universitar 2024-2025",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/282308",
+   "versions": [
+    {
+     "from": "2024-04-29",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/282308",
+     "sha256": "910969ac8ffd3c5023ca0f5e8534dfb6b72f98cad3bf4d5171b1230489d3739c"
+    },
+    {
+     "from": "2024-09-12",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/public/DetaliiDocument/282308",
+     "sha256": "d06e024e9a70eb9d4eb20674b5f68e2918e2f96f2d2924bb1714690ff36efd97"
     }
    ]
   },
@@ -173513,6 +173705,27 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/248535",
      "sha256": "663a924d95e5c5b9debef0f27f2c01b7fbefa4222ac064c2d459aadb0d9339a2"
+    }
+   ]
+  },
+  {
+   "slug": "hg-644-2025",
+   "path": "hg/2025/644",
+   "short": "HG nr. 644/2025",
+   "title": "Hotărârea Guvernului nr. 644/2025 pentru modificarea anexelor nr. 1 şi 2 la Hotărârea Guvernului nr. 428/2025 privind aprobarea domeniilor şi programelor de studii universitare de master acreditate şi a numărului maxim de studenţi ce pot fi şcolarizaţi în anul universitar 2025-2026",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/301322",
+   "versions": [
+    {
+     "from": "2025-08-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/301322",
+     "sha256": "e650047db6d934328cd4b6b1b7f28bf161100404b506812a0884b47dbf7156ff"
+    },
+    {
+     "from": "2025-08-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/301322",
+     "sha256": "1eab86e9fc4cde5e23ce04fb910e4bcf8b2339bfcb2da3abf81622ec294658e0"
     }
    ]
   },

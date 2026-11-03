@@ -1,6 +1,6 @@
 # Every act in this repository
 
-6583 acts, 19,076 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+6588 acts, 19,104 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -1828,7 +1828,7 @@
 | Legea nr. 241/2025 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 31/2002 privind interzicerea organizațiilor, simbolurilor și faptelor cu caracter fascist, legionar, rasist sau xenofob și a promovării cultului persoanelor vinovate de săvârșirea unor infracțiuni de genocid contra umanității și de crime de război, precum și pentru modificarea Legii nr. 157/2018 privind unele măsuri pentru prevenirea și combaterea antisemitismului | [`lege/2025/241/`](lege/2025/241/) | amending act | 1 | 2025-12-27 | 2025-12-27 |
 | Legea nr. 245/2025 pentru modificarea art. 32 alin. (7) din Legea nr. 273/2006 privind finanțele publice locale | [`lege/2025/245/`](lege/2025/245/) | amending act | 1 | 2026-01-01 | 2026-01-01 |
 
-## Emergency ordinances (OUG) (1491, of which 521 amending acts)
+## Emergency ordinances (OUG) (1492, of which 521 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -1957,6 +1957,7 @@
 | Ordonanța de urgență a Guvernului nr. 57/2002 | [`oug/2002/57/`](oug/2002/57/) | in force | 1 | 2002-05-27 | 2002-05-27 |
 | Ordonanța de urgență a Guvernului nr. 58/2002 | [`oug/2002/58/`](oug/2002/58/) | in force | 2 | 2002-05-27 | 2005-06-05 |
 | Ordonanța de urgență a Guvernului nr. 78/2002 | [`oug/2002/78/`](oug/2002/78/) | in force | 4 | 2002-06-27 | 2014-05-08 |
+| Ordonanța de urgență a Guvernului nr. 79/2002 | [`oug/2002/79/`](oug/2002/79/) | in force | 16 | 2002-06-27 | 2012-10-31 |
 | Ordonanța de urgență a Guvernului nr. 84/2002 | [`oug/2002/84/`](oug/2002/84/) | in force | 2 | 2002-07-06 | 2003-01-22 |
 | Ordonanța de urgență a Guvernului nr. 95/2002 | [`oug/2002/95/`](oug/2002/95/) | in force | 8 | 2002-06-28 | 2012-06-12 |
 | Ordonanța de urgență a Guvernului nr. 96/2002 | [`oug/2002/96/`](oug/2002/96/) | in force | 11 | 2002-08-26 | 2016-04-30 |
@@ -3782,7 +3783,7 @@
 | Ordonanța Guvernului nr. 21/2025 pentru modificarea și completarea Legii nr. 431/2023 privind asigurarea unui nivel minim global de impozitare a grupurilor de întreprinderi multinaționale și a grupurilor naționale de mari dimensiuni | [`og/2025/21/`](og/2025/21/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 | Ordonanța Guvernului nr. 22/2025 pentru modificarea și completarea Legii nr. 227/2015 privind Codul fiscal | [`og/2025/22/`](og/2025/22/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 
-## Government decisions (HG) (2809, of which 928 amending acts)
+## Government decisions (HG) (2813, of which 928 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -3945,6 +3946,7 @@
 | Hotărârea Guvernului nr. 614/2001 | [`hg/2001/614/`](hg/2001/614/) | in force | 1 | 2001-07-11 | 2001-07-11 |
 | Hotărârea Guvernului nr. 626/2001 | [`hg/2001/626/`](hg/2001/626/) | in force | 2 | 2001-07-17 | 2020-09-29 |
 | Hotărârea Guvernului nr. 656/2001 | [`hg/2001/656/`](hg/2001/656/) | in force | 1 | 2001-08-03 | 2001-08-03 |
+| Hotărârea Guvernului nr. 661/2001 | [`hg/2001/661/`](hg/2001/661/) | repealed 2014-11-03 | 5 | 2001-09-02 | 2014-11-03 |
 | Hotărârea Guvernului nr. 662/2001 | [`hg/2001/662/`](hg/2001/662/) | in force | 2 | 2002-02-08 | 2003-10-14 |
 | Hotărârea Guvernului nr. 676/2001 | [`hg/2001/676/`](hg/2001/676/) | in force | 1 | 2001-07-30 | 2001-07-30 |
 | Hotărârea Guvernului nr. 702/2001 pentru modificarea și completarea Hotărârii Guvernului nr. 1.313/1996 privind înființarea Institutului Național de Cercetare-Dezvoltare pentru Fizica Pământului INCDFP București | [`hg/2001/702/`](hg/2001/702/) | amending act | 1 | 2001-08-08 | 2001-08-08 |
@@ -4097,10 +4099,12 @@
 | Hotărârea Guvernului nr. 506/2003 | [`hg/2003/506/`](hg/2003/506/) | in force | 1 | 2003-04-25 | 2003-04-25 |
 | Hotărârea Guvernului nr. 522/2003 | [`hg/2003/522/`](hg/2003/522/) | in force | 1 | 2003-05-21 | 2003-05-21 |
 | Hotărârea Guvernului nr. 556/2003 | [`hg/2003/556/`](hg/2003/556/) | in force | 1 | 2003-05-30 | 2003-05-30 |
+| Hotărârea Guvernului nr. 577/2003 | [`hg/2003/577/`](hg/2003/577/) | repealed 2007-06-26 | 4 | 2003-07-06 | 2007-06-26 |
 | Hotărârea Guvernului nr. 610/2003 | [`hg/2003/610/`](hg/2003/610/) | in force | 1 | 2003-06-10 | 2003-06-10 |
 | Hotărârea Guvernului nr. 617/2003 | [`hg/2003/617/`](hg/2003/617/) | in force | 4 | 2003-07-16 | 2009-11-13 |
 | Hotărârea Guvernului nr. 661/2003 | [`hg/2003/661/`](hg/2003/661/) | in force | 2 | 2003-06-13 | 2003-09-23 |
 | Hotărârea Guvernului nr. 677/2003 | [`hg/2003/677/`](hg/2003/677/) | in force | 2 | 2003-06-19 | 2005-03-10 |
+| Hotărârea Guvernului nr. 679/2003 privind condițiile de obținere a atestatului, procedurile de atestare și statutul asistentului maternal profesionist | [`hg/2003/679/`](hg/2003/679/) | repealed 2024-08-12 | 2 | 2003-06-23 | 2024-08-12 |
 | Hotărârea Guvernului nr. 726/2003 privind completarea art. 2 din Hotărârea Guvernului nr. 782/2002 pentru modificarea capitalului social al Societății Comerciale "Moreni Parc Industrial" - S.A. | [`hg/2003/726/`](hg/2003/726/) | amending act | 1 | 2003-07-07 | 2003-07-07 |
 | Hotărârea Guvernului nr. 735/2003 | [`hg/2003/735/`](hg/2003/735/) | in force | 2 | 2003-07-04 | 2003-10-31 |
 | Hotărârea Guvernului nr. 737/2003 | [`hg/2003/737/`](hg/2003/737/) | in force | 1 | 2003-07-07 | 2003-07-07 |
@@ -5202,6 +5206,7 @@
 | Hotărârea Guvernului nr. 1021/2015 | [`hg/2015/1021/`](hg/2015/1021/) | in force | 1 | 2016-01-04 | 2016-01-04 |
 | Hotărârea Guvernului nr. 10/2016 | [`hg/2016/10/`](hg/2016/10/) | in force | 2 | 2016-01-26 | 2016-02-05 |
 | Hotărârea Guvernului nr. 11/2016 | [`hg/2016/11/`](hg/2016/11/) | in force | 1 | 2016-01-22 | 2016-01-22 |
+| Hotărârea Guvernului nr. 15/2016 | [`hg/2016/15/`](hg/2016/15/) | in force | 1 | 2016-01-25 | 2016-01-25 |
 | Hotărârea Guvernului nr. 40/2016 | [`hg/2016/40/`](hg/2016/40/) | in force | 1 | 2016-02-27 | 2016-02-27 |
 | Hotărârea Guvernului nr. 44/2016 | [`hg/2016/44/`](hg/2016/44/) | in force | 3 | 2016-02-09 | 2016-10-04 |
 | Hotărârea Guvernului nr. 51/2016 | [`hg/2016/51/`](hg/2016/51/) | in force | 1 | 2016-03-22 | 2016-03-22 |
