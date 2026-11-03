@@ -1,6 +1,6 @@
 # Every act in this repository
 
-14191 acts, 27,780 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+14210 acts, 27,799 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -4779,7 +4779,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (9421, of which 4307 amending acts)
+## Government decisions (HG) (9440, of which 4321 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -5594,10 +5594,29 @@
 | Hotărârea Guvernului nr. 285/2007 pentru trecerea din domeniul public al statului în domeniul privat al acestuia a unor construcţii aflate în administrarea Ministerului Apărării | [`hg/2007/285/`](hg/2007/285/) | in force | 1 | 2007-03-29 | 2007-03-29 |
 | Hotărârea Guvernului nr. 286/2007 privind transmiterea unui imobil, proprietate publică a statului, din administrarea Ministerului Muncii, Solidarităţii Sociale şi Familiei - Inspectoratul Teritorial de Muncă Ialomiţa în administrarea Agenţiei Naţionale pentru Ocuparea Forţei de Muncă, pentru Agenţia Judeţeană pentru Ocuparea Forţei de Muncă Ialomiţa | [`hg/2007/286/`](hg/2007/286/) | in force | 1 | 2007-03-26 | 2007-03-26 |
 | Hotărârea Guvernului nr. 288/2007 | [`hg/2007/288/`](hg/2007/288/) | in force | 2 | 2007-03-29 | 2010-11-30 |
+| Hotărârea Guvernului nr. 293/2007 pentru modificarea şi completarea Hotărârii Guvernului nr. 384/2005 privind organizarea şi funcţionarea Autorităţii Naţionale pentru Tineret | [`hg/2007/293/`](hg/2007/293/) | amending act | 1 | 2007-04-05 | 2007-04-05 |
 | Hotărârea Guvernului nr. 294/2007 | [`hg/2007/294/`](hg/2007/294/) | in force | 6 | 2007-04-03 | 2023-10-01 |
+| Hotărârea Guvernului nr. 306/2007 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii "Locuinţe pentru tineri, destinate închirierii, judeţul Covasna, municipiul Târgu Secuiesc, str. Bethlen Gabor nr. 23, bl. 7, sc. B" | [`hg/2007/306/`](hg/2007/306/) | amending act | 1 | 2007-04-04 | 2007-04-04 |
+| Hotărârea Guvernului nr. 307/2007 privind înscrierea în domeniul public al statului şi darea în administrarea Ministerului Agriculturii, Pădurilor şi Dezvoltării Rurale - Direcţia pentru Agricultură şi Dezvoltare Rurală Călăraşi a unui imobil, precum şi pentru modificarea valorii de inventar a unui imobil | [`hg/2007/307/`](hg/2007/307/) | amending act | 1 | 2007-04-04 | 2007-04-04 |
+| Hotărârea Guvernului nr. 308/2007 privind înscrierea unor imobile în domeniul public al statului şi darea acestora în administrarea Ministerului Agriculturii, Pădurilor şi Dezvoltării Rurale - Institutul de Stat pentru Testarea şi Înregistrarea Soiurilor | [`hg/2007/308/`](hg/2007/308/) | in force | 1 | 2007-04-04 | 2007-04-04 |
+| Hotărârea Guvernului nr. 309/2007 privind transmiterea unei părţi dintr-un imobil din domeniul public al statului şi din administrarea Ministerului Apărării în domeniul public al judeţului Ilfov şi în administrarea Consiliului Judeţean Ilfov | [`hg/2007/309/`](hg/2007/309/) | in force | 1 | 2007-04-04 | 2007-04-04 |
 | Hotărârea Guvernului nr. 310/2007 | [`hg/2007/310/`](hg/2007/310/) | in force | 1 | 2007-03-30 | 2007-03-30 |
+| Hotărârea Guvernului nr. 312/2007 privind abrogarea unor prevederi ale Hotărârii Guvernului nr. 806/2005 pentru aprobarea Strategiei de privatizare a Casei de Economii şi Consemnaţiuni C.E.C. - S.A., ca urmare a întreruperii procesului de privatizare | [`hg/2007/312/`](hg/2007/312/) | amending act | 1 | 2007-04-03 | 2007-04-03 |
+| Hotărârea Guvernului nr. 315/2007 privind aprobarea normelor pentru stabilirea cuantumului subvenţiei de la bugetul de stat ce se poate acorda în anul 2007 categoriilor de persoane prevăzute la art. 7 din Legea locuinţei nr. 114/1996 | [`hg/2007/315/`](hg/2007/315/) | amending act | 1 | 2007-04-04 | 2007-04-04 |
+| Hotărârea Guvernului nr. 317/2007 pentru modificarea valorii de inventar a unor imobile înscrise în domeniul public al statului şi în administrarea Serviciului de Informaţii Externe | [`hg/2007/317/`](hg/2007/317/) | amending act | 1 | 2007-04-04 | 2007-04-04 |
+| Hotărârea Guvernului nr. 319/2007 pentru modificarea valorii de inventar a unui imobil aflat în administrarea Institutului Naţional de Statistică, prevăzut în inventarul bunurilor din domeniul public al statului | [`hg/2007/319/`](hg/2007/319/) | amending act | 1 | 2007-04-04 | 2007-04-04 |
+| Hotărârea Guvernului nr. 322/2007 privind aprobarea modificării indicatorilor tehnico-economici ai obiectivului de investiţii "LG-97 - Dezvoltare Sediu administrativ al Serviciului de Telecomunicaţii Speciale", prevăzuţi în anexa la Hotărârea Guvernului nr. 233/1997 | [`hg/2007/322/`](hg/2007/322/) | amending act | 1 | 2007-04-03 | 2007-04-03 |
+| Hotărârea Guvernului nr. 325/2007 pentru modificarea alin. (3) şi (4) ale art. 2 din Hotărârea Guvernului nr. 1.849/2006 privind aprobarea participării României la festivalul EUROPALIA. EUROPA, Bruxelles, octombrie 2007 - februarie 2008 | [`hg/2007/325/`](hg/2007/325/) | amending act | 1 | 2007-04-06 | 2007-04-06 |
+| Hotărârea Guvernului nr. 326/2007 privind aprobarea realizării de către Ministerul Finanţelor Publice, în colaborare cu Serviciul de Telecomunicaţii Speciale, a reţelei securizate de comunicaţii de arie extinsă | [`hg/2007/326/`](hg/2007/326/) | amending act | 1 | 2007-04-06 | 2007-04-06 |
+| Hotărârea Guvernului nr. 327/2007 pentru aprobarea Protocolului de cooperare dintre Ministerul Administraţiei şi Internelor din România şi Ministerul de Interne din Republica Italiană, semnat la Bucureşti la 19 decembrie 2006 | [`hg/2007/327/`](hg/2007/327/) | amending act | 1 | 2007-04-06 | 2007-04-06 |
+| Hotărârea Guvernului nr. 330/2007 privind aprobarea Aranjamentului administrativ, semnat la Bucureşti la 19 octombrie 2006, pentru aplicarea Acordului dintre România şi Republica Ungară în domeniul securităţii sociale, semnat la Bucureşti la 20 octombrie 2005 | [`hg/2007/330/`](hg/2007/330/) | amending act | 1 | 2007-04-16 | 2007-04-16 |
+| Hotărârea Guvernului nr. 331/2007 pentru aprobarea Amendamentului nr. 1, convenit între Guvernul României şi Banca Europeană de Investiţii şi Municipiul Bucureşti prin Scrisoarea semnată la Luxemburg la 19 mai 2006 şi la Bucureşti la 25 şi 31 mai 2006, la Contractul de finanţare dintre România şi Banca Europeană de Investiţii şi Municipiul Bucureşti pentru finanţarea Proiectului privind reabilitarea infrastructurii educaţionale în Bucureşti, semnat la Bucureşti la 1 octombrie 2003 şi la Luxemburg la 7 octombrie 2003 | [`hg/2007/331/`](hg/2007/331/) | amending act | 1 | 2007-04-16 | 2007-04-16 |
 | Hotărârea Guvernului nr. 332/2007 | [`hg/2007/332/`](hg/2007/332/) | in force | 2 | 2007-08-12 | 2008-02-14 |
+| Hotărârea Guvernului nr. 334/2007 privind numirea domnului Eţcu Vasile în funcţia publică de subprefect al judeţului Iaşi | [`hg/2007/334/`](hg/2007/334/) | in force | 1 | 2007-04-12 | 2007-04-12 |
+| Hotărârea Guvernului nr. 338/2007 pentru modificarea alin. (1) al art. 5 din Metodologia de acordare a cotei individuale de lapte, precum şi modul de alocare şi reconstituire a rezervei naţionale de lapte, aprobată prin Hotărârea Guvernului nr. 852/2006 | [`hg/2007/338/`](hg/2007/338/) | amending act | 1 | 2007-04-13 | 2007-04-13 |
+| Hotărârea Guvernului nr. 340/2007 privind organizarea şi desfăşurarea în România a celui de-al XII-lea Congres Balcanic de Medicină Militară | [`hg/2007/340/`](hg/2007/340/) | in force | 1 | 2007-04-16 | 2007-04-16 |
 | Hotărârea Guvernului nr. 341/2007 | [`hg/2007/341/`](hg/2007/341/) | repealed 2023-12-28 | 11 | 2007-04-12 | 2023-12-28 |
+| Hotărârea Guvernului nr. 342/2007 privind trecerea domnului Ilie Gavril Bolojan din funcţia publică de prefect al judeţului Bihor în funcţia publică de secretar general al Guvernului | [`hg/2007/342/`](hg/2007/342/) | in force | 1 | 2007-04-12 | 2007-04-12 |
 | Hotărârea Guvernului nr. 355/2007 | [`hg/2007/355/`](hg/2007/355/) | in force | 4 | 2007-05-17 | 2012-01-19 |
 | Hotărârea Guvernului nr. 360/2007 | [`hg/2007/360/`](hg/2007/360/) | in force | 1 | 2007-05-02 | 2007-05-02 |
 | Hotărârea Guvernului nr. 366/2007 | [`hg/2007/366/`](hg/2007/366/) | in force | 6 | 2007-04-25 | 2008-08-22 |
