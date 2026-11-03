@@ -65639,6 +65639,33 @@
    ]
   },
   {
+   "slug": "og-32-2002",
+   "path": "og/2002/32",
+   "short": "OG nr. 32/2002",
+   "title": "Ordonanța Guvernului nr. 32/2002",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/60203",
+   "versions": [
+    {
+     "from": "2002-03-04",
+     "units": 41,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/33865",
+     "sha256": "7f42c96d19bb5efde0b5efff6ae17ae2e791b9bd0342790cdf156fa8b835b945"
+    },
+    {
+     "from": "2003-12-05",
+     "units": 41,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/48257",
+     "sha256": "19362517674fc0db8d11dc90b06fffe9a1e3fee4c3c2d377264545cbc24db649"
+    },
+    {
+     "from": "2004-04-26",
+     "units": 41,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/60204",
+     "sha256": "5f64ae5a0ffee67831245403598de1bc07e99c432643ea153de4c53ba7eeb3fa"
+    }
+   ]
+  },
+  {
    "slug": "og-34-2002",
    "path": "og/2002/34",
    "short": "OG nr. 34/2002",

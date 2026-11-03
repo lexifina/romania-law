@@ -65843,6 +65843,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/172358"
 },
 {
+"slug": "og-32-2002",
+"path": "og/2002/32",
+"kind": "og",
+"year": "2002",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța Guvernului nr. 32/2002",
+"short": "OG nr. 32/2002",
+"code": null,
+"status": "in force",
+"versions": 3,
+"from": "2002-03-04",
+"latest": "2004-04-26",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/60203"
+},
+{
 "slug": "og-33-2002",
 "path": "og/2002/33",
 "kind": "og",
