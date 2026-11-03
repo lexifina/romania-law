@@ -40,3 +40,32 @@ Act id: `og-124-1998` (tags `og-124-1998/<day>`; `python tools/on.py <day> og-12
 - OG nr. 124/1998: the portal editorial notes printed as paragraphs of an article (on a Constitutional Court ruling, a rectification, a provision put back in force) are not text: 2 such paragraphs across all forms, for example «Prin RECTIFICAREA nr. 124 din 29 august 1998, publicată în M».
 - OG nr. 124/1998: 13 changed article(s) with no note naming a law, committed as the publisher's: 2002-11-15 art-001, 2002-11-15 art-002, 2002-11-15 art-004, 2002-11-15 art-006, 2002-11-15 art-007, 2002-11-15 art-008, 2002-11-15 art-009, 2002-11-15 art-012, 2002-11-15 art-013, 2002-11-15 art-014, 2002-11-15 art-016, 2002-11-15 art-017, 2012-01-01 art-015.
 - OG nr. 124/1998: forms with no change after normalisation, so no version: 2004-01-01 (68670), 2004-08-13 (68671).
+
+## Credits corrected
+
+These changes were first published credited to another law. The words are unchanged; `git blame` still names the commit that wrote them, and `data/credits.csv` lists every corrected credit.
+
+- `art-009.md`, in force from 2003-01-01: Legea nr. 493/2002 (first published as no law named).
+- `art-005.md`, in force from 2006-11-05: Legea nr. 400/2006 (first published as no law named).
+- `art-008.md`, in force from 2006-11-05: Legea nr. 400/2006 (first published as no law named).
+- `art-009.md`, in force from 2006-11-05: Legea nr. 400/2006 (first published as no law named).
+- `art-012.md`, in force from 2006-11-05: Legea nr. 400/2006 (first published as no law named).
+- `art-014.md`, in force from 2006-11-05: Legea nr. 400/2006 (first published as no law named).
+- `art-015.md`, in force from 2006-11-05: Legea nr. 400/2006 (first published as no law named).
+- `art-009.md`, in force from 2011-09-05: OG nr. 30/2011 (first published as no law named).
+- `art-001.md`, in force from 2025-02-03: OG nr. 9/2025 (first published as no law named).
+- `art-002.md`, in force from 2025-02-03: OG nr. 9/2025 (first published as no law named).
+- `art-004.md`, in force from 2025-02-03: OG nr. 9/2025 (first published as no law named).
+- `art-005.md`, in force from 2025-02-03: OG nr. 9/2025 (first published as no law named).
+- `art-006.md`, in force from 2025-02-03: OG nr. 9/2025 (first published as no law named).
+- `art-007.md`, in force from 2025-02-03: OG nr. 9/2025 (first published as no law named).
+- `art-008.md`, in force from 2025-02-03: OG nr. 9/2025 (first published as no law named).
+- `art-010.md`, in force from 2025-02-03: OG nr. 9/2025 (first published as no law named).
+- `art-011.md`, in force from 2025-02-03: OG nr. 9/2025 (first published as no law named).
+- `art-012.md`, in force from 2025-02-03: OG nr. 9/2025 (first published as no law named).
+- `art-015.md`, in force from 2025-02-03: OG nr. 9/2025 (first published as no law named).
+- `art-016.md`, in force from 2025-02-03: OG nr. 9/2025 (first published as no law named).
+- `art-017.md`, in force from 2025-02-03: OG nr. 9/2025 (first published as no law named).
+- `art-013.md`, in force from 2025-03-04: OG nr. 9/2025 (first published as no law named).
+- `art-002.md`, in force from 2025-03-07: OUG nr. 8/2025 (first published as no law named).
+- `art-001.md`, in force from 2025-05-23: Legea nr. 78/2025 (first published as no law named).
