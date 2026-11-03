@@ -172028,6 +172028,21 @@
    ]
   },
   {
+   "slug": "hg-339-2016",
+   "path": "hg/2016/339",
+   "short": "HG nr. 339/2016",
+   "title": "Hotărârea Guvernului nr. 339/2016 privind aprobarea stemelor comunelor Apa, Tarna Mare şi Urziceni, judeţul Satu Mare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/178479",
+   "versions": [
+    {
+     "from": "2016-05-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/178479",
+     "sha256": "17435e10eb7fb75bdc734f6168e8e7e30e4878b4ad3c41050632dc799b55126b"
+    }
+   ]
+  },
+  {
    "slug": "hg-339-2017",
    "path": "hg/2017/339",
    "short": "HG nr. 339/2017",
@@ -172628,6 +172643,21 @@
    ]
   },
   {
+   "slug": "hg-342-2016",
+   "path": "hg/2016/342",
+   "short": "HG nr. 342/2016",
+   "title": "Hotărârea Guvernului nr. 342/2016 privind aprobarea stemei comunei Maliuc, judeţul Tulcea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/179244",
+   "versions": [
+    {
+     "from": "2016-06-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/179244",
+     "sha256": "470533c3709f36ef43f8a3731abd50c5b6d69eccbe34f7eade8c3822bf3aacdf"
+    }
+   ]
+  },
+  {
    "slug": "hg-342-2017",
    "path": "hg/2017/342",
    "short": "HG nr. 342/2017",
@@ -172808,6 +172838,21 @@
    ]
   },
   {
+   "slug": "hg-343-2016",
+   "path": "hg/2016/343",
+   "short": "HG nr. 343/2016",
+   "title": "Hotărârea Guvernului nr. 343/2016 privind aprobarea Înţelegerii dintre Comisia Naţională pentru Controlul Activităţilor Nucleare (CNCAN) din România şi Agenţia de Reglementare în Domeniul Nuclear (NRA) din Republica Bulgaria privind schimbul de informaţii tehnice şi cooperarea în domeniul reglementării şi controlului securităţii nucleare şi al protecţiei radiologice, semnată la Sofia la 20 ianuarie 2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/178549",
+   "versions": [
+    {
+     "from": "2016-05-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/178549",
+     "sha256": "0ce3187d5722c55bca4dbbcf3947ab3d57a91b60634dd8bf0c9ae40bb1a1f055"
+    }
+   ]
+  },
+  {
    "slug": "hg-343-2017",
    "path": "hg/2017/343",
    "short": "HG nr. 343/2017",
@@ -172972,6 +173017,21 @@
      "units": 34,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/157987",
      "sha256": "3312e088f1c21b27b7829ded2286b744b1f8f9951c86931f2bed73b0c5cc27a5"
+    }
+   ]
+  },
+  {
+   "slug": "hg-344-2016",
+   "path": "hg/2016/344",
+   "short": "HG nr. 344/2016",
+   "title": "Hotărârea Guvernului nr. 344/2016 pentru aprobarea normativelor de cheltuieli privind acţiunea de protocol cu caracter deosebit \"Aniversarea a 35 de ani de la primul zbor al unui român în cosmos\", organizată în perioada 13-19 mai 2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/178397",
+   "versions": [
+    {
+     "from": "2016-05-12",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/178397",
+     "sha256": "fd6fa96603c8748f459dd5b58da5d08bb5acb28c155ff08f305525619de0cbdc"
     }
    ]
   },
@@ -173156,6 +173216,21 @@
    ]
   },
   {
+   "slug": "hg-345-2016",
+   "path": "hg/2016/345",
+   "short": "HG nr. 345/2016",
+   "title": "Hotărârea Guvernului nr. 345/2016 pentru modificarea şi completarea Hotărârii Guvernului nr. 617/2014 privind stabilirea cadrului instituţional şi a unor măsuri pentru punerea în aplicare a Regulamentului (UE) nr. 528/2012 al Parlamentului European şi al Consiliului din 22 mai 2012 privind punerea la dispoziţie pe piaţă şi utilizarea produselor biocide",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/178398",
+   "versions": [
+    {
+     "from": "2016-05-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/178398",
+     "sha256": "27d48da84b5e33fddc2cfc3231f4fefdd8100a698e65a4016593a88ba11acd8e"
+    }
+   ]
+  },
+  {
    "slug": "hg-345-2017",
    "path": "hg/2017/345",
    "short": "HG nr. 345/2017",
@@ -173272,6 +173347,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/103864",
      "sha256": "927eb26b92c6028133aa62c706b813720ba3a81d20b4e74cc1fcfa20bd1e4ad9"
+    }
+   ]
+  },
+  {
+   "slug": "hg-346-2016",
+   "path": "hg/2016/346",
+   "short": "HG nr. 346/2016",
+   "title": "Hotărârea Guvernului nr. 346/2016 privind limitarea conţinutului de sulf din combustibilii lichizi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/178454",
+   "versions": [
+    {
+     "from": "2016-05-13",
+     "units": 28,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/178454",
+     "sha256": "fc2943c871ff8e913f831b23bdae440209e6e3e30abccf6b7c6cf98bcdb0a1fd"
     }
    ]
   },
@@ -173999,6 +174089,21 @@
    ]
   },
   {
+   "slug": "hg-350-2016",
+   "path": "hg/2016/350",
+   "short": "HG nr. 350/2016",
+   "title": "Hotărârea Guvernului nr. 350/2016 privind aprobarea unor modificări şi completări în inventarul bunurilor din domeniul public al statului aflate în administrarea Ministerului Apărării Naţionale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/178459",
+   "versions": [
+    {
+     "from": "2016-05-16",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/178459",
+     "sha256": "c2880af75769087669e8f32abeafc7c9de8d2404522165bedb2cf1c74d215ac6"
+    }
+   ]
+  },
+  {
    "slug": "hg-350-2019",
    "path": "hg/2019/350",
    "short": "HG nr. 350/2019",
@@ -174130,6 +174235,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/103872",
      "sha256": "613ce9475604df4dc1d81c38cdb36f26a5244f6b515017d93e6c4c2108cf9b66"
+    }
+   ]
+  },
+  {
+   "slug": "hg-351-2016",
+   "path": "hg/2016/351",
+   "short": "HG nr. 351/2016",
+   "title": "Hotărârea Guvernului nr. 351/2016 privind trecerea din domeniul public al statului în domeniul privat al acestuia şi în administrarea Companiei Naţionale de Căi Ferate \"C.F.R.\"- S.A. a unor mijloace fixe aflate în administrarea Ministerului Transporturilor şi în concesiunea Companiei Naţionale de Căi Ferate \"C.F.R.\" - S.A. - Sucursala Regionala CF Timişoara, în vederea reutilizării şi refolosirii, respectiv scoaterii din funcţiune, casării şi valorificării, după caz",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/178491",
+   "versions": [
+    {
+     "from": "2016-05-16",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/178491",
+     "sha256": "7f87ada9b93f08e2530ff840f27aaf14eab2065ff27dfba375b90a3190082d97"
     }
    ]
   },
@@ -174269,6 +174389,21 @@
    ]
   },
   {
+   "slug": "hg-352-2016",
+   "path": "hg/2016/352",
+   "short": "HG nr. 352/2016",
+   "title": "Hotărârea Guvernului nr. 352/2016 privind înscrierea în inventarul centralizat al bunurilor din domeniul public al statului şi darea în administrarea Serviciului Român de Informaţii a unui imobil aflat în domeniul public al statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/178462",
+   "versions": [
+    {
+     "from": "2016-05-16",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/178462",
+     "sha256": "34a5a71b728057ab01dcb93db1ee5d3c6227dde2772b97f9a7c727d874a5cce8"
+    }
+   ]
+  },
+  {
    "slug": "hg-352-2018",
    "path": "hg/2018/352",
    "short": "HG nr. 352/2018",
@@ -174404,6 +174539,21 @@
    ]
   },
   {
+   "slug": "hg-353-2016",
+   "path": "hg/2016/353",
+   "short": "HG nr. 353/2016",
+   "title": "Hotărârea Guvernului nr. 353/2016 privind modificarea valorii de inventar a unui imobil aflat în domeniul public al statului şi în administrarea Senatului României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/178464",
+   "versions": [
+    {
+     "from": "2016-05-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/178464",
+     "sha256": "0d29a4be5f7ec6e569a69df1386380787bdd565345503af674d19906aa1654f9"
+    }
+   ]
+  },
+  {
    "slug": "hg-353-2018",
    "path": "hg/2018/353",
    "short": "HG nr. 353/2018",
@@ -174505,6 +174655,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/104160",
      "sha256": "65a2da18b0067d1146f86b1d9bf4591bd8accaea96bc238c375211768642535d"
+    }
+   ]
+  },
+  {
+   "slug": "hg-354-2016",
+   "path": "hg/2016/354",
+   "short": "HG nr. 354/2016",
+   "title": "Hotărârea Guvernului nr. 354/2016 pentru aprobarea plăţii cotizaţiilor şi taxelor pentru realizarea interconectării cu instituţii similare internaţionale în domeniul donatorilor voluntari de celule stem hematopoietice, precum şi pentru acreditarea laboratoarelor de imunogenetică şi histocompatibilitate, în anul 2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/178463",
+   "versions": [
+    {
+     "from": "2016-05-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/178463",
+     "sha256": "c336247065039de27b44e9ca39e5d4d289c08beccef50358dcdeee1a3db370fa"
     }
    ]
   },
@@ -175127,6 +175292,21 @@
    ]
   },
   {
+   "slug": "hg-359-2016",
+   "path": "hg/2016/359",
+   "short": "HG nr. 359/2016",
+   "title": "Hotărârea Guvernului nr. 359/2016 privind actualizarea valorii de inventar a unui imobil aflat în domeniul public al statului şi în administrarea Ministerului Apărării Naţionale şi pentru transmiterea unor părţi de imobile aflate în domeniul public al statului din administrarea Ministerului Apărării Naţionale în administrarea Ministerului Transporturilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/178569",
+   "versions": [
+    {
+     "from": "2016-05-19",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/178569",
+     "sha256": "dd17b9e81367180d332af8b698c3b66d56d0cd96adb0a6eff4393c87a9bc6423"
+    }
+   ]
+  },
+  {
    "slug": "hg-359-2018",
    "path": "hg/2018/359",
    "short": "HG nr. 359/2018",
@@ -175343,6 +175523,21 @@
    ]
   },
   {
+   "slug": "hg-360-2016",
+   "path": "hg/2016/360",
+   "short": "HG nr. 360/2016",
+   "title": "Hotărârea Guvernului nr. 360/2016 privind scăderea din inventarul centralizat al bunurilor din domeniul public al statului a unor bunuri imobile, ca urmare a trecerii lor din domeniul public al statului în domeniul privat al unor staţiuni de cercetare-dezvoltare în domeniul agricol şi transmiterii în proprietatea Academiei de Ştiinţe Agricole şi Silvice \"Gheorghe Ionescu-Şişeşti\", în condiţiile legii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/178562",
+   "versions": [
+    {
+     "from": "2016-05-19",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/178562",
+     "sha256": "7e18cde1610cd714833a9c2589bc03de1b470309f875d006b2df223112504bc3"
+    }
+   ]
+  },
+  {
    "slug": "hg-360-2018",
    "path": "hg/2018/360",
    "short": "HG nr. 360/2018",
@@ -175496,6 +175691,21 @@
    ]
   },
   {
+   "slug": "hg-361-2016",
+   "path": "hg/2016/361",
+   "short": "HG nr. 361/2016",
+   "title": "Hotărârea Guvernului nr. 361/2016 privind modificarea şi completarea anexei nr. 43 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/178771",
+   "versions": [
+    {
+     "from": "2016-05-26",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/178771",
+     "sha256": "689e7f4d7b391e8c06b5e9714e3d2c1c220b9a39f40735963b1a6135b79bd379"
+    }
+   ]
+  },
+  {
    "slug": "hg-361-2018",
    "path": "hg/2018/361",
    "short": "HG nr. 361/2018",
@@ -175627,6 +175837,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/91124",
      "sha256": "78f8d4a12652026754e6e690273250809165cd73a44439dc8140bd217c9e1828"
+    }
+   ]
+  },
+  {
+   "slug": "hg-362-2016",
+   "path": "hg/2016/362",
+   "short": "HG nr. 362/2016",
+   "title": "Hotărârea Guvernului nr. 362/2016 pentru modificarea şi completarea unor acte normative privind acordarea de ajutoare de urgenţă familiilor victimelor tragicului eveniment din 30 octombrie 2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/178579",
+   "versions": [
+    {
+     "from": "2016-05-19",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/178579",
+     "sha256": "f83745332bf463f81fa0e3b6570ed6e16d1e8a114fd37db505ca20494baab50e"
     }
    ]
   },
@@ -175780,6 +176005,21 @@
      "units": 0,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/205044",
      "sha256": "b0697e510c94c67d9cb6d58e72589b4c6703317c9605912b790a4bb310d753b4"
+    }
+   ]
+  },
+  {
+   "slug": "hg-363-2016",
+   "path": "hg/2016/363",
+   "short": "HG nr. 363/2016",
+   "title": "Hotărârea Guvernului nr. 363/2016 privind acţiunea \"Dezvelirea şi sfinţirea monumentului intitulat &#171;ARIPI&#187; ridicat în memoria luptătorilor din rezistenţa anticomunistă 1945-1989\" şi aprobarea normativelor de cheltuieli pentru organizarea şi desfăşurarea acesteia în Bucureşti în cursul trimestrului II al anului 2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/178578",
+   "versions": [
+    {
+     "from": "2016-05-19",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/178578",
+     "sha256": "50f2a3ef5f2efdf3ac5f0d5b18acf51e3ab6ba312a32cb3d21784bbf1d9d8729"
     }
    ]
   },
@@ -176080,6 +176320,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/104164",
      "sha256": "5d759cae8e00525532f288c215cdd28747ed87382e647a0cc06d363aa26d87d8"
+    }
+   ]
+  },
+  {
+   "slug": "hg-365-2016",
+   "path": "hg/2016/365",
+   "short": "HG nr. 365/2016",
+   "title": "Hotărârea Guvernului nr. 365/2016 pentru aprobarea cuantumului şi a plăţii cotizaţiei anuale de participare a României la Conferinţa de la Haga de Drept Internaţional Privat, pentru anul financiar 1 iulie 2015-30 iunie 2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/178618",
+   "versions": [
+    {
+     "from": "2016-05-20",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/178618",
+     "sha256": "a458d4091fdd1a5525ac40849f289131d0629abb2f35a56ccf79d4959cb87c4b"
     }
    ]
   },
@@ -176426,6 +176681,21 @@
    ]
   },
   {
+   "slug": "hg-368-2016",
+   "path": "hg/2016/368",
+   "short": "HG nr. 368/2016",
+   "title": "Hotărârea Guvernului nr. 368/2016 privind includerea unui imobil în inventarul centralizat al bunurilor din domeniul public al statului şi transmiterea acestuia în administrarea Ministerului Public - Parchetul de pe lângă Tribunalul Hunedoara",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/178729",
+   "versions": [
+    {
+     "from": "2016-05-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/178729",
+     "sha256": "5235a8a9a1797297cb6e1980298ccee2b607bc6b2d65bed1c0812cb398b7accb"
+    }
+   ]
+  },
+  {
    "slug": "hg-368-2019",
    "path": "hg/2019/368",
    "short": "HG nr. 368/2019",
@@ -176518,6 +176788,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/90933",
      "sha256": "90325684f5003d5d69e2897a8c1605158f872aec11de4d102151900804293fbd"
+    }
+   ]
+  },
+  {
+   "slug": "hg-369-2016",
+   "path": "hg/2016/369",
+   "short": "HG nr. 369/2016",
+   "title": "Hotărârea Guvernului nr. 369/2016 privind modificarea datelor de identificare a unui imobil aflat în domeniul public al statului şi în administrarea Ministerului Justiţiei, precum şi transmiterea unei părţi din acesta din domeniul public al statului în domeniul privat al acestuia, în vederea scoaterii din funcţiune şi demolării",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/178731",
+   "versions": [
+    {
+     "from": "2016-05-25",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/178731",
+     "sha256": "7f34cbb322940c23296a13c14d891300e1fcfe832d29c788a7d4119e87a29ca2"
     }
    ]
   },
@@ -177037,6 +177322,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/50858",
      "sha256": "305279c631013b7694e6f420b7392aad583b1edbe233d0ff73e5dbb452378025"
+    }
+   ]
+  },
+  {
+   "slug": "hg-372-2016",
+   "path": "hg/2016/372",
+   "short": "HG nr. 372/2016",
+   "title": "Hotărârea Guvernului nr. 372/2016 privind actualizarea valorilor de inventar ale unor bunuri imobile aflate în domeniul public al statului şi în administrarea Administraţiei Naţionale \"Apele Române\" - Administraţia Bazinală de Apă Crişuri, instituţie publică aflată în coordonarea Ministerului Mediului, Apelor şi Pădurilor, prevăzute în anexa nr. 12 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului, ca urmare a reevaluării",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/178831",
+   "versions": [
+    {
+     "from": "2016-05-30",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/178831",
+     "sha256": "2efe3ab53f060b51887e813f948e5aaddea18f672632c7a3321b130920b47458"
     }
    ]
   },
