@@ -10424,6 +10424,21 @@
    ]
   },
   {
+   "slug": "hg-1096-2008",
+   "path": "hg/2008/1096",
+   "short": "HG nr. 1096/2008",
+   "title": "Hotărârea Guvernului nr. 1096/2008 pentru modificarea unor acte normative privind înființarea aeroporturilor de interes național",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/98083",
+   "versions": [
+    {
+     "from": "2008-10-15",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/98083",
+     "sha256": "790a8bf3f0703e57771ed410e2a6b04a5742a8ec829d2893b1b006d9320cb6d4"
+    }
+   ]
+  },
+  {
    "slug": "hg-1096-2013",
    "path": "hg/2013/1096",
    "short": "HG nr. 1096/2013",
@@ -20066,6 +20081,21 @@
    ]
   },
   {
+   "slug": "hg-598-2009",
+   "path": "hg/2009/598",
+   "short": "HG nr. 598/2009",
+   "title": "Hotărârea Guvernului nr. 598/2009 pentru modificarea și completarea Hotărârii Guvernului nr. 518/1998 privind înființarea Companiei Naționale \"Administrația Porturilor Dunării Maritime\" - S.A. Galați",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/107202",
+   "versions": [
+    {
+     "from": "2009-06-19",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/107202",
+     "sha256": "8ab38b07640e8cac6d6d1c2c458a0a2805f109163ded07e4516a94b8aa2d5ca6"
+    }
+   ]
+  },
+  {
    "slug": "hg-60-2008",
    "path": "hg/2008/60",
    "short": "HG nr. 60/2008",
@@ -22342,6 +22372,57 @@
      "units": 10,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2896",
      "sha256": "96e88ffe65d676b7f40b446c5b8ed2723dee00eefc7bdfa397c4f306f3d21946"
+    }
+   ]
+  },
+  {
+   "slug": "hg-798-2003",
+   "path": "hg/2003/798",
+   "short": "HG nr. 798/2003",
+   "title": "Hotărârea Guvernului nr. 798/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/259993",
+   "versions": [
+    {
+     "from": "2003-11-01",
+     "units": 69,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/45368",
+     "sha256": "1be61781635b0608aa8abfb1837c41e9cd03809718133c2b9e214408618a2b0a"
+    },
+    {
+     "from": "2007-01-01",
+     "units": 69,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/45368",
+     "sha256": "1be61781635b0608aa8abfb1837c41e9cd03809718133c2b9e214408618a2b0a"
+    },
+    {
+     "from": "2007-08-22",
+     "units": 70,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/125266",
+     "sha256": "4f91a79f3cc304312aaa7fe4d5463130e7a61f2ff66a6d8410b4bac8f6ec4313"
+    },
+    {
+     "from": "2008-06-23",
+     "units": 70,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/125267",
+     "sha256": "9b1bb1d8f55cf7518e2a6c3181e23c029d5bb5b65464d2501fd62550e51a9604"
+    },
+    {
+     "from": "2012-07-01",
+     "units": 70,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/139294",
+     "sha256": "4b1345147e1094465f601b51985f7d4cd2436a4e4477c6f5479243981e7e358c"
+    },
+    {
+     "from": "2015-01-13",
+     "units": 70,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/164780",
+     "sha256": "35f3d621e05bc7e6149f1607a5a73e244b55f1621f35dd01ef85b3c267321eb9"
+    },
+    {
+     "from": "2022-10-13",
+     "units": 70,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/259993",
+     "sha256": "096bdff117a342acdb35d19342837324ec6fa709000ff787a3f3367b1b3413fd"
     }
    ]
   },
@@ -95921,6 +96002,21 @@
    ]
   },
   {
+   "slug": "hg-1493-2024",
+   "path": "hg/2024/1493",
+   "short": "HG nr. 1493/2024",
+   "title": "Hotărârea Guvernului nr. 1493/2024 privind aprobarea plăţii contribuţiei financiare voluntare a României la bugetul Secretariatului Consiliului Cooperării Regionale pentru anul 2024",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/291783",
+   "versions": [
+    {
+     "from": "2024-11-29",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/291783",
+     "sha256": "b6d2edfffc8f2bbb8bee7f8f305500fb65841fc2d0354df99e9866bcfe360ff2"
+    }
+   ]
+  },
+  {
    "slug": "hg-1496-2008",
    "path": "hg/2008/1496",
    "short": "HG nr. 1496/2008",
@@ -96013,6 +96109,21 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/292112",
      "sha256": "c75b4c392cbaf0536459c3d1e5d1d7a58fb9f8702955bb29b6f664d9817a062e"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1505-2024",
+   "path": "hg/2024/1505",
+   "short": "HG nr. 1505/2024",
+   "title": "Hotărârea Guvernului nr. 1505/2024 pentru aprobarea Aranjamentului administrativ , semnat la Bucureşti la 4 iunie 2024, pentru aplicarea Acordului dintre România şi Republica Albania în domeniul securităţii sociale, semnat la Bucureşti la 27 februarie 2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/291937",
+   "versions": [
+    {
+     "from": "2024-12-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/291937",
+     "sha256": "d9f27799051205083a9d59eada553fd2a58bc661c0656899154c5aa02cc41f16"
     }
    ]
   },
@@ -96391,6 +96502,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/88209",
      "sha256": "9a3390bf52b03c061663aed7dc4f65eca802ec71c1bddfd3836d342ffcb2df65"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1527-2024",
+   "path": "hg/2024/1527",
+   "short": "HG nr. 1527/2024",
+   "title": "Hotărârea Guvernului nr. 1527/2024 privind transmiterea unui imobil aflat în domeniul public al statului din administrarea Serviciului Român de Informaţii în administrarea Oficiului de Cadastru şi Publicitate Imobiliară Prahova",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/291793",
+   "versions": [
+    {
+     "from": "2024-11-29",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/291793",
+     "sha256": "f1522201e624745972f83ac5164097e7387966e47dae73f334c2b0d61b667684"
     }
    ]
   },
