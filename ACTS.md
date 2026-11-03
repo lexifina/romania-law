@@ -1,6 +1,6 @@
 # Every act in this repository
 
-6064 acts, 17,386 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+6068 acts, 17,409 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -1820,7 +1820,7 @@
 | Legea nr. 241/2025 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 31/2002 privind interzicerea organizațiilor, simbolurilor și faptelor cu caracter fascist, legionar, rasist sau xenofob și a promovării cultului persoanelor vinovate de săvârșirea unor infracțiuni de genocid contra umanității și de crime de război, precum și pentru modificarea Legii nr. 157/2018 privind unele măsuri pentru prevenirea și combaterea antisemitismului | [`lege/2025/241/`](lege/2025/241/) | amending act | 1 | 2025-12-27 | 2025-12-27 |
 | Legea nr. 245/2025 pentru modificarea art. 32 alin. (7) din Legea nr. 273/2006 privind finanțele publice locale | [`lege/2025/245/`](lege/2025/245/) | amending act | 1 | 2026-01-01 | 2026-01-01 |
 
-## Emergency ordinances (OUG) (1477, of which 521 amending acts)
+## Emergency ordinances (OUG) (1479, of which 521 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -1897,6 +1897,7 @@
 | Ordonanța de urgență a Guvernului nr. 221/2000 | [`oug/2000/221/`](oug/2000/221/) | repealed 2016-05-08 | 3 | 2001-05-28 | 2016-05-08 |
 | Ordonanța de urgență a Guvernului nr. 226/2000 | [`oug/2000/226/`](oug/2000/226/) | in force | 2 | 2000-11-25 | 2002-03-18 |
 | Ordonanța de urgență a Guvernului nr. 229/2000 | [`oug/2000/229/`](oug/2000/229/) | in force | 1 | 2000-11-25 | 2000-11-25 |
+| Ordonanța de urgență a Guvernului nr. 236/2000 | [`oug/2000/236/`](oug/2000/236/) | in force | 4 | 2000-12-04 | 2007-07-22 |
 | Ordonanța de urgență a Guvernului nr. 244/2000 | [`oug/2000/244/`](oug/2000/244/) | in force | 3 | 2000-12-06 | 2014-02-01 |
 | Ordonanța de urgență a Guvernului nr. 248/2000 | [`oug/2000/248/`](oug/2000/248/) | in force | 1 | 2000-12-12 | 2000-12-12 |
 | Ordonanța de urgență a Guvernului nr. 258/2000 | [`oug/2000/258/`](oug/2000/258/) | in force | 1 | 2000-12-15 | 2000-12-15 |
@@ -1906,6 +1907,7 @@
 | Ordonanța de urgență a Guvernului nr. 2/2001 | [`oug/2001/2/`](oug/2001/2/) | in force | 4 | 2001-01-09 | 2003-06-29 |
 | Ordonanța de urgență a Guvernului nr. 9/2001 | [`oug/2001/9/`](oug/2001/9/) | in force | 5 | 2001-01-19 | 2011-02-15 |
 | Ordonanța de urgență a Guvernului nr. 10/2001 | [`oug/2001/10/`](oug/2001/10/) | in force | 2 | 2001-02-06 | 2002-01-28 |
+| Ordonanța de urgență a Guvernului nr. 16/2001 | [`oug/2001/16/`](oug/2001/16/) | in force | 6 | 2001-02-07 | 2007-01-21 |
 | Ordonanța de urgență a Guvernului nr. 32/2001 pentru reglementarea unor probleme financiare | [`oug/2001/32/`](oug/2001/32/) | in force | 3 | 2001-03-05 | 2004-10-17 |
 | Ordonanța de urgență a Guvernului nr. 36/2001 | [`oug/2001/36/`](oug/2001/36/) | in force | 7 | 2001-03-07 | 2003-12-22 |
 | Ordonanța de urgență a Guvernului nr. 41/2001 | [`oug/2001/41/`](oug/2001/41/) | in force | 3 | 2001-03-23 | 2014-02-01 |
@@ -3302,7 +3304,7 @@
 | Ordonanța de urgență a Guvernului nr. 78/2025 pentru modificarea Legii nr. 239/2025 privind stabilirea unor măsuri de redresare și eficientizare a resurselor publice și pentru modificarea și completarea unor acte normative | [`oug/2025/78/`](oug/2025/78/) | amending act | 1 | 2025-12-17 | 2025-12-17 |
 | Ordonanța de urgență a Guvernului nr. 87/2025 pentru stabilirea unor măsuri bugetare privind implementarea programelor naționale din domeniul lucrărilor publice | [`oug/2025/87/`](oug/2025/87/) | in force | 1 | 2025-12-24 | 2025-12-24 |
 
-## Ordinances (OG) (447, of which 87 amending acts)
+## Ordinances (OG) (449, of which 87 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -3446,6 +3448,7 @@
 | Ordonanța Guvernului nr. 25/2002 | [`og/2002/25/`](og/2002/25/) | in force | 5 | 2002-02-02 | 2005-12-08 |
 | Ordonanța Guvernului nr. 27/2002 privind reglementarea activității de soluționare a petitiilor | [`og/2002/27/`](og/2002/27/) | in force | 5 | 2002-02-01 | 2024-12-01 |
 | Ordonanța Guvernului nr. 29/2002 | [`og/2002/29/`](og/2002/29/) | in force | 2 | 2002-02-01 | 2002-06-10 |
+| Ordonanța Guvernului nr. 31/2002 | [`og/2002/31/`](og/2002/31/) | in force | 7 | 2002-02-01 | 2013-07-04 |
 | Ordonanța Guvernului nr. 33/2002 | [`og/2002/33/`](og/2002/33/) | in force | 2 | 2002-02-02 | 2002-04-29 |
 | Ordonanța Guvernului nr. 34/2002 | [`og/2002/34/`](og/2002/34/) | repealed 2011-12-27 | 6 | 2002-02-02 | 2011-12-27 |
 | Ordonanța Guvernului nr. 35/2002 | [`og/2002/35/`](og/2002/35/) | in force | 2 | 2002-02-02 | 2002-12-24 |
@@ -3594,6 +3597,7 @@
 | Ordonanța Guvernului nr. 24/2011 | [`og/2011/24/`](og/2011/24/) | in force | 5 | 2011-09-05 | 2013-07-24 |
 | Ordonanța Guvernului nr. 25/2011 | [`og/2011/25/`](og/2011/25/) | in force | 2 | 2011-09-05 | 2012-07-09 |
 | Ordonanța Guvernului nr. 27/2011 | [`og/2011/27/`](og/2011/27/) | in force | 16 | 2011-09-02 | 2024-12-05 |
+| Ordonanța Guvernului nr. 30/2011 | [`og/2011/30/`](og/2011/30/) | in force | 6 | 2011-09-05 | 2013-01-01 |
 | Ordonanța Guvernului nr. 2/2012 | [`og/2012/2/`](og/2012/2/) | in force | 2 | 2012-02-02 | 2012-10-11 |
 | Ordonanța Guvernului nr. 3/2012 | [`og/2012/3/`](og/2012/3/) | in force | 1 | 2012-03-01 | 2012-03-01 |
 | Ordonanța Guvernului nr. 6/2012 | [`og/2012/6/`](og/2012/6/) | in force | 2 | 2012-03-31 | 2013-07-21 |
