@@ -21923,6 +21923,21 @@
    ]
   },
   {
+   "slug": "hg-658-2025",
+   "path": "hg/2025/658",
+   "short": "HG nr. 658/2025",
+   "title": "Hotărârea Guvernului nr. 658/2025 pentru modificarea Hotărârii Guvernului nr. 1.267/2010 privind eliberarea certificatelor de clasificare, a licenţelor şi brevetelor de turism",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/301386",
+   "versions": [
+    {
+     "from": "2025-08-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/301386",
+     "sha256": "ce204399e3b6436b2f1d33a15c7953b5cb7defa5083b01d5883e2419ca6ed649"
+    }
+   ]
+  },
+  {
    "slug": "hg-661-2001",
    "path": "hg/2001/661",
    "short": "HG nr. 661/2001",
@@ -22025,6 +22040,21 @@
    ]
   },
   {
+   "slug": "hg-679-2026",
+   "path": "hg/2026/679",
+   "short": "HG nr. 679/2026",
+   "title": "Hotărârea Guvernului nr. 679/2026 pentru modificarea şi completarea Hotărârii Guvernului nr. 1.756/2006 privind limitarea nivelului emisiilor de zgomot în mediu produs de echipamente destinate utilizării în exteriorul clădirilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/313893",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/313893",
+     "sha256": "0e8635d6cfedb4705bd39ac56e9df5a8cb870ad6b0ce17400964a17ef10afaf2"
+    }
+   ]
+  },
+  {
    "slug": "hg-683-2016",
    "path": "hg/2016/683",
    "short": "HG nr. 683/2016",
@@ -22084,6 +22114,21 @@
      "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/83834",
      "sha256": "6ab919c22cb094eff411189da608c36ff35d1e5f0172f0928d02041be166df63"
+    }
+   ]
+  },
+  {
+   "slug": "hg-689-2026",
+   "path": "hg/2026/689",
+   "short": "HG nr. 689/2026",
+   "title": "Hotărârea Guvernului nr. 689/2026 pentru completarea Hotărârii Guvernului nr. 30/2017 privind organizarea şi funcţionarea Ministerului Agriculturii şi Dezvoltării Rurale, precum şi pentru modificarea art. 6 alin. (6) din Hotărârea Guvernului nr. 1.186/2014 privind organizarea şi funcţionarea Autorităţii pentru Administrarea Sistemului Naţional Antigrindină şi de Creştere a Precipitaţiilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/313905",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/313905",
+     "sha256": "ba531661f4d01be6aa3c35f8e9459528ee86aaf9019a66ec9dc08d90e3dbc2cc"
     }
    ]
   },
@@ -22396,6 +22441,21 @@
      "units": 18,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/284420",
      "sha256": "abcfa9905127a1236f5267482e805175a2889e43229d28cf57026fb24e65b2ba"
+    }
+   ]
+  },
+  {
+   "slug": "hg-700-2026",
+   "path": "hg/2026/700",
+   "short": "HG nr. 700/2026",
+   "title": "Hotărârea Guvernului nr. 700/2026 pentru modificarea Hotărârii Guvernului nr. 16/2017 privind organizarea şi funcţionarea Ministerului Afacerilor Externe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/314009",
+   "versions": [
+    {
+     "from": "2026-09-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/314009",
+     "sha256": "3a27a2249d8f7fc96892974eeae378176bb749ae868e6357354d65cd42a89be2"
     }
    ]
   },
@@ -23981,6 +24041,51 @@
    ]
   },
   {
+   "slug": "hg-822-2026",
+   "path": "hg/2026/822",
+   "short": "HG nr. 822/2026",
+   "title": "Hotărârea Guvernului nr. 822/2026 pentru modificarea şi completarea Hotărârii Guvernului nr. 824/2015 privind stabilirea condiţiilor pentru punerea la dispoziţie pe piaţă a recipientelor simple sub presiune",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/315201",
+   "versions": [
+    {
+     "from": "2026-10-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/315201",
+     "sha256": "4ed52e5c5a4b65e457ea2d03daa81458bbc9c211c5868da31201febfdc81ae47"
+    }
+   ]
+  },
+  {
+   "slug": "hg-823-2026",
+   "path": "hg/2026/823",
+   "short": "HG nr. 823/2026",
+   "title": "Hotărârea Guvernului nr. 823/2026 pentru modificarea şi completarea Hotărârii Guvernului nr. 410/2016 privind stabilirea condiţiilor pentru introducerea pe piaţă sau punerea în funcţiune a ascensoarelor şi pentru punerea la dispoziţie pe piaţă a componentelor de siguranţă pentru ascensoare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/315190",
+   "versions": [
+    {
+     "from": "2026-10-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/315190",
+     "sha256": "020df70874c3732f7a146f8af28cf7afa3673df7538127652302500e815c1ba2"
+    }
+   ]
+  },
+  {
+   "slug": "hg-824-2026",
+   "path": "hg/2026/824",
+   "short": "HG nr. 824/2026",
+   "title": "Hotărârea Guvernului nr. 824/2026 pentru modificarea şi completarea Hotărârii Guvernului nr. 123/2015 privind stabilirea condiţiilor pentru punerea la dispoziţie pe piaţă a echipamentelor sub presiune",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/315161",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/315161",
+     "sha256": "120ae0d34389ae512594342ac9f38a81831ec03e6c6d78273440875905140279"
+    }
+   ]
+  },
+  {
    "slug": "hg-829-2022",
    "path": "hg/2022/829",
    "short": "HG nr. 829/2022",
@@ -24776,6 +24881,21 @@
    ]
   },
   {
+   "slug": "hg-894-2024",
+   "path": "hg/2024/894",
+   "short": "HG nr. 894/2024",
+   "title": "Hotărârea Guvernului nr. 894/2024 privind modificarea şi completarea Normelor metodologice pentru aplicarea prevederilor Ordonanţei Guvernului nr. 82/2001 privind stabilirea unor forme de sprijin financiar pentru unităţile de cult aparţinând cultelor religioase recunoscute din România, aprobate prin Hotărârea Guvernului nr. 1.470/2002",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/286369",
+   "versions": [
+    {
+     "from": "2024-07-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/286369",
+     "sha256": "1211c4e804687821db84f256f5c052aa4d5000719304659adef21a5772b8b2da"
+    }
+   ]
+  },
+  {
    "slug": "hg-895-2007",
    "path": "hg/2007/895",
    "short": "HG nr. 895/2007",
@@ -24817,6 +24937,21 @@
      "units": 21,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/189767",
      "sha256": "931891d178d325e6654082e751c6d3478183484ccf03397d1e2058ffb353daf6"
+    }
+   ]
+  },
+  {
+   "slug": "hg-896-2025",
+   "path": "hg/2025/896",
+   "short": "HG nr. 896/2025",
+   "title": "Hotărârea Guvernului nr. 896/2025 pentru completarea Hotărârii Guvernului nr. 178/2024 privind stabilirea cadrului general de implementare a operaţiunilor cofinanţate din Fondul european pentru afaceri maritime, pescuit şi acvacultură prin Programul pentru Acvacultură şi Pescuit 2021-2027",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/303697",
+   "versions": [
+    {
+     "from": "2025-10-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/303697",
+     "sha256": "714da36bf8ad8697e7332798b10586e14137cd01b4b570fe3fc4625dc7045db3"
     }
    ]
   },
@@ -24958,6 +25093,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38215",
      "sha256": "074ee9e14b2a619f5f730cfdddd2e5a0550aa0325236c92004307fd1ee4e3ca4"
+    }
+   ]
+  },
+  {
+   "slug": "hg-905-2025",
+   "path": "hg/2025/905",
+   "short": "HG nr. 905/2025",
+   "title": "Hotărârea Guvernului nr. 905/2025 pentru modificarea Normelor metodologice de aplicare a prevederilor Ordonanţei de urgenţă a Guvernului nr. 49/2015 privind gestionarea financiară a fondurilor europene nerambursabile aferente politicii agricole comune, politicii comune de pescuit şi politicii maritime integrate la nivelul Uniunii Europene, precum şi a fondurilor alocate de la bugetul de stat pentru perioada de programare 2014-2020 şi pentru modificarea şi completarea unor acte normative din domeniul garantării, aprobate prin Hotărârea Guvernului nr. 640/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/303722",
+   "versions": [
+    {
+     "from": "2025-10-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/303722",
+     "sha256": "902707157424000bd901ac1fb4d1fb2697fc7eaa23fa8fcfa33566ec496e9cb4"
     }
    ]
   },
@@ -25414,6 +25564,36 @@
      "units": 11,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/196623",
      "sha256": "19b688f94fac789b048a3c33adff5b43e12b308c0d6f1f846d13a5a3e06d0789"
+    }
+   ]
+  },
+  {
+   "slug": "hg-951-2025",
+   "path": "hg/2025/951",
+   "short": "HG nr. 951/2025",
+   "title": "Hotărârea Guvernului nr. 951/2025 pentru modificarea şi completarea Hotărârii Guvernului nr. 1.204/2022 privind constituirea, organizarea şi funcţionarea Băncii de Investiţii şi Dezvoltare - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/304221",
+   "versions": [
+    {
+     "from": "2025-11-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/304221",
+     "sha256": "d1b548cd6fde63e99665e1c7564c6ce6e47ca0a5bf5f7e9bab738b02183ad5b9"
+    }
+   ]
+  },
+  {
+   "slug": "hg-951-2026",
+   "path": "hg/2026/951",
+   "short": "HG nr. 951/2026",
+   "title": "Hotărârea Guvernului nr. 951/2026 pentru completarea Hotărârii Guvernului nr. 1.074/2021 privind stabilirea sistemului de garanţie-returnare pentru ambalaje primare nereutilizabile",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/315986",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/315986",
+     "sha256": "db92fd879a6017dd97409d4a7c459d64839251134c671802e69b29ba2fa3d198"
     }
    ]
   },
@@ -27455,6 +27635,21 @@
    ]
   },
   {
+   "slug": "legea-103-2025",
+   "path": "lege/2025/103",
+   "short": "Legea nr. 103/2025",
+   "title": "Legea nr. 103/2025 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 162/2022 pentru modificarea şi completarea Legii nr. 245/2020 privind efectuarea unui test de proporţionalitate anterior adoptării unor noi reglementări referitoare la profesii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/299081",
+   "versions": [
+    {
+     "from": "2025-06-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/299081",
+     "sha256": "abf91ca60ae006daebe4dcad03c39f57fe7fdc211d7d8ded163a7b3e2128c3af"
+    }
+   ]
+  },
+  {
    "slug": "legea-104-2003",
    "path": "lege/2003/104",
    "short": "Legea nr. 104/2003",
@@ -27673,6 +27868,21 @@
      "units": 10,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/214062",
      "sha256": "4052fe83f21149ee89113c83dd1651dfc537cb1d05e9b52145032f7375689722"
+    }
+   ]
+  },
+  {
+   "slug": "legea-105-2026",
+   "path": "lege/2026/105",
+   "short": "Legea nr. 105/2026",
+   "title": "Legea nr. 105/2026 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 22/2026 pentru modificarea Ordonanţei de urgenţă a Guvernului nr. 67/2023 privind instituirea unei măsuri cu caracter temporar de combatere a creşterii excesive a preţurilor la unele produse agricole şi alimentare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/311571",
+   "versions": [
+    {
+     "from": "2026-06-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/311571",
+     "sha256": "ec881d3fb42695001eb8167a848bebba9fb28613693c9b39e18e731a3e2b452c"
     }
    ]
   },
@@ -28994,6 +29204,21 @@
    ]
   },
   {
+   "slug": "legea-120-2026",
+   "path": "lege/2026/120",
+   "short": "Legea nr. 120/2026",
+   "title": "Legea nr. 120/2026 pentru modificarea art. 59^1 din Legea nr. 119/1996 cu privire la actele de stare civilă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/312021",
+   "versions": [
+    {
+     "from": "2026-07-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/312021",
+     "sha256": "bfe45d8623506e4ac2c45b6156811d730ff725ad3fcf85f831f821507fe7d813"
+    }
+   ]
+  },
+  {
    "slug": "legea-121-1996",
    "path": "lege/1996/121",
    "short": "Legea nr. 121/1996",
@@ -29233,6 +29458,21 @@
      "units": 36,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/129400",
      "sha256": "9221b4b6a2da833935b576d145eb1a701b963b6a73c88107d2f290bb1b463480"
+    }
+   ]
+  },
+  {
+   "slug": "legea-122-2026",
+   "path": "lege/2026/122",
+   "short": "Legea nr. 122/2026",
+   "title": "Legea nr. 122/2026 pentru modificarea art. 197 din Legea nr. 286/2009 privind Codul penal",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/312025",
+   "versions": [
+    {
+     "from": "2026-07-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/312025",
+     "sha256": "bc78847152d177bd105f3a7f4eb3eeb5acf22a995f97291aa77a7bed04af1123"
     }
    ]
   },
@@ -32684,6 +32924,21 @@
    ]
   },
   {
+   "slug": "legea-153-2026",
+   "path": "lege/2026/153",
+   "short": "Legea nr. 153/2026",
+   "title": "Legea nr. 153/2026 privind reglementarea Programului Naţional de Accesibilizare a Locuinţelor - \"Lift pentru viaţă\", precum şi pentru completarea unor acte normative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/312386",
+   "versions": [
+    {
+     "from": "2026-08-19",
+     "units": 26,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/312386",
+     "sha256": "bc2b41ed5b5f6c9832a643349fbe6ef0f39cf9ac6c060903ce6fa1ca09b9f039"
+    }
+   ]
+  },
+  {
    "slug": "legea-155-2010",
    "path": "lege/2010/155",
    "short": "Legea nr. 155/2010",
@@ -32929,6 +33184,21 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/280205",
      "sha256": "f110ab56461a0a26661e3b572d7659944a2298215ce001564d28c6c5a8c9f28a"
+    }
+   ]
+  },
+  {
+   "slug": "legea-158-2026",
+   "path": "lege/2026/158",
+   "short": "Legea nr. 158/2026",
+   "title": "Legea nr. 158/2026 pentru modificarea Legii nr. 286/2009 privind Codul penal",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/312383",
+   "versions": [
+    {
+     "from": "2026-07-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/312383",
+     "sha256": "ac0981fa4a14ff9f4ceb060e104830e518995d858b2ab13271e1b7c61d6f47e7"
     }
    ]
   },
@@ -33469,6 +33739,21 @@
      "units": 101,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/191165",
      "sha256": "26bb6bb4617151395c6d671b6ede02b9f433fa7034518fab3c65e3a3bf59c94d"
+    }
+   ]
+  },
+  {
+   "slug": "legea-162-2025",
+   "path": "lege/2025/162",
+   "short": "Legea nr. 162/2025",
+   "title": "Legea nr. 162/2025 pentru modificarea şi completarea Legii educaţiei fizice şi sportului nr. 69/2000",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/303622",
+   "versions": [
+    {
+     "from": "2025-10-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/303622",
+     "sha256": "2033ce3a069a42907c5824e55316c320ea6996dc463c7e6a2b67278f8b030bc4"
     }
    ]
   },
@@ -35336,6 +35621,21 @@
    ]
   },
   {
+   "slug": "legea-190-2026",
+   "path": "lege/2026/190",
+   "short": "Legea nr. 190/2026",
+   "title": "Legea nr. 190/2026 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 81/2021 privind aprobarea metodelor de intervenţie imediată pentru prevenirea şi combaterea atacurilor exemplarelor de urs brun asupra persoanelor şi bunurilor acestora, precum şi pentru modificarea şi completarea unor acte normative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/315028",
+   "versions": [
+    {
+     "from": "2026-10-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/315028",
+     "sha256": "ab324e443941da0144c633089ea2475c6b36ba41bf15fee3207aaf084cea5482"
+    }
+   ]
+  },
+  {
    "slug": "legea-191-2011",
    "path": "lege/2011/191",
    "short": "Legea nr. 191/2011",
@@ -37100,6 +37400,36 @@
    ]
   },
   {
+   "slug": "legea-205-2024",
+   "path": "lege/2024/205",
+   "short": "Legea nr. 205/2024",
+   "title": "Legea nr. 205/2024 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 88/2023 pentru modificarea şi completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi pentru modificarea şi completarea unor acte normative cu impact în domeniul sănătăţii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/284835",
+   "versions": [
+    {
+     "from": "2024-07-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/284835",
+     "sha256": "309d30c92b364d4c74410d1fc35b5082234da6971580b0fb73e6d1ca3e2499b0"
+    }
+   ]
+  },
+  {
+   "slug": "legea-205-2026",
+   "path": "lege/2026/205",
+   "short": "Legea nr. 205/2026",
+   "title": "Legea nr. 205/2026 pentru completarea Ordonanţei Guvernului nr. 22/2002 privind executarea obligaţiilor de plată ale instituţiilor publice, stabilite prin titluri executorii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/315835",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/315835",
+     "sha256": "043addf6d9967e58975a3522b20b4963a726a03ec3547bad67400374e2e8e1cb"
+    }
+   ]
+  },
+  {
    "slug": "legea-206-2004",
    "path": "lege/2004/206",
    "short": "Legea nr. 206/2004",
@@ -37832,6 +38162,21 @@
    ]
   },
   {
+   "slug": "legea-212-2024",
+   "path": "lege/2024/212",
+   "short": "Legea nr. 212/2024",
+   "title": "Legea nr. 212/2024 privind aprobarea Ordonanței Guvernului nr. 19/2024 pentru modificarea și completarea Legii nr. 422/2001 privind protejarea monumentelor istorice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/285133",
+   "versions": [
+    {
+     "from": "2024-07-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/285133",
+     "sha256": "aa0affde381d3e4c0c7af52793c3d958ae598f7748ed45c763650fb99f508fe3"
+    }
+   ]
+  },
+  {
    "slug": "legea-213-2004",
    "path": "lege/2004/213",
    "short": "Legea nr. 213/2004",
@@ -38530,6 +38875,33 @@
      "units": 14,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/301691",
      "sha256": "69edc3a7644e29906d0f6efebe88ba78ccc8fdff572ece2654f6a50b1feb037e"
+    }
+   ]
+  },
+  {
+   "slug": "legea-219-1998",
+   "path": "lege/1998/219",
+   "short": "Legea nr. 219/1998",
+   "title": "Legea nr. 219/1998",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/57612",
+   "versions": [
+    {
+     "from": "1999-01-29",
+     "units": 42,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/16279",
+     "sha256": "00facc4550895d85d5e44b2bc32ac213bfc8f5630eaec502ce81dd248e8a007e"
+    },
+    {
+     "from": "2004-12-10",
+     "units": 54,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/57612",
+     "sha256": "62b7f163f425dbe84c0ca5dbf61d07391b3fdec4db228f407a72861f248ec1fe"
+    },
+    {
+     "from": "2006-06-30",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/71663",
+     "sha256": "14ac70d760f519f996dff83a5f82d4025c0b4c5ab7fee7d022e51d498726aa66"
     }
    ]
   },
@@ -39256,6 +39628,21 @@
      "units": 0,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/203233",
      "sha256": "b63179a09baf8f03ace1fa7c3141facc0e340d3bc9442792cec6579bd949533b"
+    }
+   ]
+  },
+  {
+   "slug": "legea-230-2024",
+   "path": "lege/2024/230",
+   "short": "Legea nr. 230/2024",
+   "title": "Legea nr. 230/2024 pentru aprobarea Ordonanței de urgență a Guvernului nr. 25/2019 privind protecția know-how-ului și a informațiilor de afaceri nedivulgate care constituie secrete comerciale împotriva dobândirii, utilizării și divulgării ilegale, precum și pentru modificarea și completarea unor acte normative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/285622",
+   "versions": [
+    {
+     "from": "2024-07-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/285622",
+     "sha256": "18495c8e54d43df93758bdb9a9fd57a1d54fe24b165ec504c29b39f4e8ec70f5"
     }
    ]
   },
@@ -41258,6 +41645,21 @@
    ]
   },
   {
+   "slug": "legea-261-2004",
+   "path": "lege/2004/261",
+   "short": "Legea nr. 261/2004",
+   "title": "Legea nr. 261/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53592",
+   "versions": [
+    {
+     "from": "2004-07-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/53592",
+     "sha256": "b03fff70fde6f4e13e47564e778f0e6d0fd44672cb3c9faecf14a590288b4b45"
+    }
+   ]
+  },
+  {
    "slug": "legea-263-2004",
    "path": "lege/2004/263",
    "short": "Legea nr. 263/2004",
@@ -41957,6 +42359,21 @@
    ]
   },
   {
+   "slug": "legea-265-2024",
+   "path": "lege/2024/265",
+   "short": "Legea nr. 265/2024",
+   "title": "Legea nr. 265/2024 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/290091",
+   "versions": [
+    {
+     "from": "2024-11-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/290091",
+     "sha256": "612cd283c49f8d95b51cd1bab512cc6df13aec185020fb14a8a0c5c0aefc4921"
+    }
+   ]
+  },
+  {
    "slug": "legea-266-2002",
    "path": "lege/2002/266",
    "short": "Legea nr. 266/2002",
@@ -42448,6 +42865,21 @@
      "units": 11,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/196268",
      "sha256": "4e48a99d7fe61292c82efd752f2555f9580f537f8c9d2f3cb644eca2d1d13584"
+    }
+   ]
+  },
+  {
+   "slug": "legea-271-2024",
+   "path": "lege/2024/271",
+   "short": "Legea nr. 271/2024",
+   "title": "Legea nr. 271/2024 pentru modificarea şi completarea Legii nr. 119/1996 cu privire la actele de stare civilă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/290269",
+   "versions": [
+    {
+     "from": "2024-11-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/290269",
+     "sha256": "8a3cd994098480faafdb78b75e1b99a9182d31e0770dd1baa94220718db0a065"
     }
    ]
   },
@@ -43196,6 +43628,21 @@
    ]
   },
   {
+   "slug": "legea-29-2026",
+   "path": "lege/2026/29",
+   "short": "Legea nr. 29/2026",
+   "title": "Legea nr. 29/2026 pentru completarea Legii audiovizualului nr. 504/2002",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/308183",
+   "versions": [
+    {
+     "from": "2026-03-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/308183",
+     "sha256": "de4fb7359a0928ec1af547a12351fdd7fc32e49e3476d885dfedb9fdd912e324"
+    }
+   ]
+  },
+  {
    "slug": "legea-290-2002",
    "path": "lege/2002/290",
    "short": "Legea nr. 290/2002",
@@ -43510,6 +43957,21 @@
      "units": 161,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305570",
      "sha256": "ef7fb3ea74bed4710e1c6761d0ff29f8cef262744b2501bef7188986d5c007f9"
+    }
+   ]
+  },
+  {
+   "slug": "legea-293-2024",
+   "path": "lege/2024/293",
+   "short": "Legea nr. 293/2024",
+   "title": "Legea nr. 293/2024 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 150/2022 pentru modificarea şi completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii şi a Legii nr. 151/2010 privind serviciile specializate integrate de sănătate, educaţie şi sociale adresate persoanelor cu tulburări din spectrul autist şi cu tulburări de sănătate mintală asociate, precum şi pentru stabilirea unor măsuri în domeniul sănătăţii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/291473",
+   "versions": [
+    {
+     "from": "2024-12-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/291473",
+     "sha256": "e5d9047f30baa4ae37793e91802f490a15142f0fdfee8e631718cce28c4cd61e"
     }
    ]
   },
@@ -44630,6 +45092,21 @@
    ]
   },
   {
+   "slug": "legea-316-2024",
+   "path": "lege/2024/316",
+   "short": "Legea nr. 316/2024",
+   "title": "Legea nr. 316/2024 privind aprobarea Ordonanței de urgență a Guvernului nr. 32/2024 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 27/2022 privind măsurile aplicabile clienților finali din piața de energie electrică și gaze naturale în perioada 1 aprilie 2022-31 martie 2023, precum și pentru modificarea și completarea unor acte normative din domeniul energiei și adoptarea unor măsuri în domeniul energiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/292940",
+   "versions": [
+    {
+     "from": "2024-12-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/292940",
+     "sha256": "ee727744bcabf01349d057dbdf3d667d361472b10547f65c597704dd36bb267a"
+    }
+   ]
+  },
+  {
    "slug": "legea-318-2015",
    "path": "lege/2015/318",
    "short": "Legea nr. 318/2015",
@@ -44659,6 +45136,21 @@
      "units": 89,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/268196",
      "sha256": "7406191cde28e23c744964a789fab8f1a45ea91c68d65098d417d3b3760c1922"
+    }
+   ]
+  },
+  {
+   "slug": "legea-318-2024",
+   "path": "lege/2024/318",
+   "short": "Legea nr. 318/2024",
+   "title": "Legea nr. 318/2024 privind aprobarea Ordonanței de urgență a Guvernului nr. 25/2024 pentru modificarea și completarea unor acte normative în domeniul străinilor și al frontierei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/292954",
+   "versions": [
+    {
+     "from": "2024-12-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/292954",
+     "sha256": "419b4d1495f96af8fac3717c078e20197e61fc548a4095f769f6d20cb18532cc"
     }
    ]
   },
@@ -48182,6 +48674,21 @@
    ]
   },
   {
+   "slug": "legea-40-2025",
+   "path": "lege/2025/40",
+   "short": "Legea nr. 40/2025",
+   "title": "Legea nr. 40/2025 pentru modificarea şi completarea Legii nr. 312/2015 privind redresarea şi rezoluţia instituţiilor de credit şi a firmelor de investiţii, precum şi pentru modificarea şi completarea unor acte normative în domeniul financiar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/296450",
+   "versions": [
+    {
+     "from": "2025-04-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/296450",
+     "sha256": "181defddf23b2104807d22eb7d5e26ed5a58dc1907431e7bdee1f448e7040f24"
+    }
+   ]
+  },
+  {
    "slug": "legea-404-2003",
    "path": "lege/2003/404",
    "short": "Legea nr. 404/2003",
@@ -49435,6 +49942,21 @@
      "units": 41,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/4143",
      "sha256": "dd124ca4cb0d4af838e7795bc8582cf98b12b14a35a2f8a85d09d47dfd165726"
+    }
+   ]
+  },
+  {
+   "slug": "legea-45-2026",
+   "path": "lege/2026/45",
+   "short": "Legea nr. 45/2026",
+   "title": "Legea nr. 45/2026 pentru modificarea şi completarea Legii responsabilităţii fiscal-bugetare nr. 69/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/308901",
+   "versions": [
+    {
+     "from": "2026-04-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/308901",
+     "sha256": "78f0bd9a071ac51ba143c3a88bff79b582fc12d045c9b01e0c8cfd12f66d97e0"
     }
    ]
   },
@@ -51539,6 +52061,21 @@
    ]
   },
   {
+   "slug": "legea-53-2026",
+   "path": "lege/2026/53",
+   "short": "Legea nr. 53/2026",
+   "title": "Legea nr. 53/2026 pentru prevenirea şi combaterea femicidului şi a violenţelor care îl precedă, precum şi pentru modificarea şi completarea unor acte normative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/309755",
+   "versions": [
+    {
+     "from": "2026-04-26",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/309755",
+     "sha256": "8d5a464a4a45968c9962571f6bab0a3e08a258e37704f36c6dd1e7ec327a7fc3"
+    }
+   ]
+  },
+  {
    "slug": "legea-535-2004",
    "path": "lege/2004/535",
    "short": "Legea nr. 535/2004",
@@ -52207,6 +52744,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/188442",
      "sha256": "7dfa7e2ffd913b74e896465c123a744e266e1c993e8256b2d7f96fae969f8210"
+    }
+   ]
+  },
+  {
+   "slug": "legea-57-2026",
+   "path": "lege/2026/57",
+   "short": "Legea nr. 57/2026",
+   "title": "Legea nr. 57/2026 pentru modificarea Legii nr. 287/2009 privind Codul civil",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/310182",
+   "versions": [
+    {
+     "from": "2026-05-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/310182",
+     "sha256": "554082c8a94fb2267029b76dc54fcc745258c7cb6691ae595c01b3b78e384c6a"
     }
    ]
   },
@@ -53116,6 +53668,21 @@
      "units": 17,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/201247",
      "sha256": "be6bb66b89194329093b271ba28b872ab73a87d7a6941d0922155896fd6770a3"
+    }
+   ]
+  },
+  {
+   "slug": "legea-67-2025",
+   "path": "lege/2025/67",
+   "short": "Legea nr. 67/2025",
+   "title": "Legea nr. 67/2025 privind aprobarea Ordonanței de urgență a Guvernului nr. 62/2020 pentru adoptarea unor măsuri în domeniul societăților, în vederea desfășurării reuniunilor organelor statutare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/298035",
+   "versions": [
+    {
+     "from": "2025-05-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/298035",
+     "sha256": "e65f22377500472f96d5fd675e260c3668eef8454cfefccfdaaf5178a91336d1"
     }
    ]
   },
@@ -54184,6 +54751,21 @@
      "units": 1,
      "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/188451",
      "sha256": "16fd2d2e2d55cd3318c7140107601ab38ac61c612c1d876d1c180b25fd8a25cd"
+    }
+   ]
+  },
+  {
+   "slug": "legea-71-2025",
+   "path": "lege/2025/71",
+   "short": "Legea nr. 71/2025",
+   "title": "Legea nr. 71/2025 pentru modificarea şi completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/298105",
+   "versions": [
+    {
+     "from": "2025-05-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/298105",
+     "sha256": "af471c03fe291d89c1d52d819a29046308d8f73215bb929f22fbe1482ddecc70"
     }
    ]
   },
@@ -55529,6 +56111,21 @@
    ]
   },
   {
+   "slug": "legea-84-2025",
+   "path": "lege/2025/84",
+   "short": "Legea nr. 84/2025",
+   "title": "Legea nr. 84/2025 pentru modificarea art. 11 din Legea nr. 122/2006 privind azilul în România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/298272",
+   "versions": [
+    {
+     "from": "2025-05-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/298272",
+     "sha256": "521eedce1a0a637f42e10fd4df17ea3ca4d0c3b232489e43ca3fab2546e9dd65"
+    }
+   ]
+  },
+  {
    "slug": "legea-85-1992",
    "path": "lege/1992/85",
    "short": "Legea nr. 85/1992",
@@ -56119,6 +56716,21 @@
      "units": 54,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/81267",
      "sha256": "e8e13da66a02d0db3dc5931aa557a7b4215e50c75d5439553e5f15f1d5a54a56"
+    }
+   ]
+  },
+  {
+   "slug": "legea-92-2026",
+   "path": "lege/2026/92",
+   "short": "Legea nr. 92/2026",
+   "title": "Legea nr. 92/2026 pentru modificarea şi completarea Legii nr. 61/1991 pentru sancţionarea faptelor de încălcare a unor norme de convieţuire socială, a ordinii şi liniştii publice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/311293",
+   "versions": [
+    {
+     "from": "2026-06-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/311293",
+     "sha256": "aa6e025322a7c6562655e91a53608cb637da5e081dd0dab08df70411e46b9222"
     }
    ]
   },
@@ -71111,6 +71723,21 @@
    ]
   },
   {
+   "slug": "oug-118-2024",
+   "path": "oug/2024/118",
+   "short": "OUG nr. 118/2024",
+   "title": "Ordonanța de urgență a Guvernului nr. 118/2024 privind modificarea și completarea Ordonanței de urgență a Guvernului nr. 4/2024 pentru stabilirea unor măsuri de sprijin cu caracter temporar, destinate producătorilor agricoli în scopul gestionării efectelor fenomenului de secetă pedologică din anul 2023 și ca urmare a agresiunii Rusiei împotriva Ucrainei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/289405",
+   "versions": [
+    {
+     "from": "2024-10-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/289405",
+     "sha256": "54667937077bcc14fcc0bf64daf89184737e18770bb3d5a0dd476322be74455e"
+    }
+   ]
+  },
+  {
    "slug": "oug-119-2007",
    "path": "oug/2007/119",
    "short": "OUG nr. 119/2007",
@@ -78317,6 +78944,21 @@
    ]
   },
   {
+   "slug": "oug-30-2026",
+   "path": "oug/2026/30",
+   "short": "OUG nr. 30/2026",
+   "title": "Ordonanța de urgență a Guvernului nr. 30/2026 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 23/2004 privind stabilirea unor măsuri de reorganizare a Autorităţii pentru Valorificarea Activelor Bancare prin comasarea prin absorbţie cu Autoritatea pentru Privatizare şi Administrarea Participaţiilor Statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/309696",
+   "versions": [
+    {
+     "from": "2026-04-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/309696",
+     "sha256": "03bff73c4a18d65c58d47ce86d688cbf74d0ba69c38464787bf7ee2dabf475eb"
+    }
+   ]
+  },
+  {
    "slug": "oug-31-2002",
    "path": "oug/2002/31",
    "short": "OUG nr. 31/2002",
@@ -78736,6 +79378,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/229405",
      "sha256": "0ddc06112fd08f6c18f2b50dfea8d783d92a5970788675eccf879b20dba00512"
+    }
+   ]
+  },
+  {
+   "slug": "oug-33-2026",
+   "path": "oug/2026/33",
+   "short": "OUG nr. 33/2026",
+   "title": "Ordonanța de urgență a Guvernului nr. 33/2026 pentru modificarea şi completarea Legii educaţiei fizice şi sportului nr. 69/2000",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/309825",
+   "versions": [
+    {
+     "from": "2026-04-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/309825",
+     "sha256": "6eaea3b5a36b9e37470038e2ea339b2ff0da9c08ad6a46833a5ffa977b65be1b"
     }
    ]
   },
@@ -83519,6 +84176,21 @@
    ]
   },
   {
+   "slug": "oug-66-2025",
+   "path": "oug/2025/66",
+   "short": "OUG nr. 66/2025",
+   "title": "Ordonanța de urgență a Guvernului nr. 66/2025 pentru completarea Ordonanței de urgență a Guvernului nr. 202/2008 privind punerea în aplicare a sancțiunilor internaționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/304960",
+   "versions": [
+    {
+     "from": "2025-12-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/304960",
+     "sha256": "6c4c7e1e9940d8a3cdf1d2e7040cf4796789edf01710d781baae1a717ab86612"
+    }
+   ]
+  },
+  {
    "slug": "oug-67-2006",
    "path": "oug/2006/67",
    "short": "OUG nr. 67/2006",
@@ -86686,6 +87358,21 @@
      "units": 23,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/190484",
      "sha256": "ee1901675667e012e3c873f04efc63872ad414684673b52fc0c53aff79d529a6"
+    }
+   ]
+  },
+  {
+   "slug": "oug-86-2025",
+   "path": "oug/2025/86",
+   "short": "OUG nr. 86/2025",
+   "title": "Ordonanța de urgență a Guvernului nr. 86/2025 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 66/2011 privind prevenirea, constatarea şi sancţionarea neregulilor apărute în obţinerea şi utilizarea fondurilor europene şi/sau a fondurilor publice naţionale aferente acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/305783",
+   "versions": [
+    {
+     "from": "2025-12-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305783",
+     "sha256": "3354c0d0f007a84ac9b3e4c3a9f3fb23b37a38a8f14a20a1f84339d142f9d1e5"
     }
    ]
   },
