@@ -1447,6 +1447,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/4066"
 },
 {
+"slug": "legea-35-1994",
+"path": "lege/1994/35",
+"kind": "lege",
+"year": "1994",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 35/1994",
+"short": "Legea nr. 35/1994",
+"code": null,
+"status": "in force",
+"versions": 5,
+"from": "1994-09-12",
+"latest": "2008-07-07",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/4079"
+},
+{
 "slug": "legea-41-1994",
 "path": "lege/1994/41",
 "kind": "lege",
@@ -2178,6 +2195,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/8355"
 },
 {
+"slug": "legea-66-1996",
+"path": "lege/1996/66",
+"kind": "lege",
+"year": "1996",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 66/1996",
+"short": "Legea nr. 66/1996",
+"code": null,
+"status": "repealed 2005-06-01",
+"versions": 4,
+"from": "1996-07-05",
+"latest": "2005-06-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/47883"
+},
+{
 "slug": "legea-71-1996",
 "path": "lege/1996/71",
 "kind": "lege",
@@ -2448,6 +2482,23 @@
 "from": "1997-05-12",
 "latest": "1997-05-12",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/11494"
+},
+{
+"slug": "legea-80-1997",
+"path": "lege/1997/80",
+"kind": "lege",
+"year": "1997",
+"number": "80",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 80/1997",
+"short": "Legea nr. 80/1997",
+"code": null,
+"status": "in force",
+"versions": 3,
+"from": "1997-05-14",
+"latest": "2006-06-24",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/84565"
 },
 {
 "slug": "legea-109-1997",
@@ -6086,6 +6137,23 @@
 "from": "2003-09-22",
 "latest": "2003-09-22",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/46360"
+},
+{
+"slug": "legea-379-2003",
+"path": "lege/2003/379",
+"kind": "lege",
+"year": "2003",
+"number": "379",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 379/2003",
+"short": "Legea nr. 379/2003",
+"code": null,
+"status": "in force",
+"versions": 5,
+"from": "2003-11-06",
+"latest": "2015-11-26",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/46739"
 },
 {
 "slug": "legea-393-2003",
@@ -32489,6 +32557,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/46840"
 },
 {
+"slug": "oug-91-2003",
+"path": "oug/2003/91",
+"kind": "oug",
+"year": "2003",
+"number": "91",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 91/2003",
+"short": "OUG nr. 91/2003",
+"code": null,
+"status": "in force",
+"versions": 8,
+"from": "2003-10-13",
+"latest": "2014-02-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/150923"
+},
+{
 "slug": "oug-93-2003",
 "path": "oug/2003/93",
 "kind": "oug",
@@ -33915,6 +34000,23 @@
 "from": "2005-12-29",
 "latest": "2006-05-13",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/206771"
+},
+{
+"slug": "oug-1-2006",
+"path": "oug/2006/1",
+"kind": "oug",
+"year": "2006",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 1/2006",
+"short": "OUG nr. 1/2006",
+"code": null,
+"status": "in force",
+"versions": 5,
+"from": "2006-01-31",
+"latest": "2009-04-14",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/104844"
 },
 {
 "slug": "oug-3-2006",
@@ -42109,6 +42211,23 @@
 "from": "2016-06-30",
 "latest": "2016-06-30",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/179580"
+},
+{
+"slug": "oug-39-2016",
+"path": "oug/2016/39",
+"kind": "oug",
+"year": "2016",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 39/2016",
+"short": "OUG nr. 39/2016",
+"code": null,
+"status": "in force",
+"versions": 2,
+"from": "2016-06-30",
+"latest": "2017-01-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/185996"
 },
 {
 "slug": "oug-41-2016",
@@ -54181,6 +54300,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/7829"
 },
 {
+"slug": "og-10-1996",
+"path": "og/1996/10",
+"kind": "og",
+"year": "1996",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța Guvernului nr. 10/1996",
+"short": "OG nr. 10/1996",
+"code": null,
+"status": "in force",
+"versions": 4,
+"from": "1996-01-30",
+"latest": "2009-02-16",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/104917"
+},
+{
 "slug": "og-15-1996",
 "path": "og/1996/15",
 "kind": "og",
@@ -54213,6 +54349,23 @@
 "from": "1996-08-08",
 "latest": "2021-11-01",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/245669"
+},
+{
+"slug": "og-19-1997",
+"path": "og/1997/19",
+"kind": "og",
+"year": "1997",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța Guvernului nr. 19/1997",
+"short": "OG nr. 19/1997",
+"code": null,
+"status": "in force",
+"versions": 8,
+"from": "1997-09-19",
+"latest": "2012-01-13",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/11050"
 },
 {
 "slug": "og-22-1997",
@@ -54672,6 +54825,23 @@
 "from": "1998-09-28",
 "latest": "2025-05-23",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/15571"
+},
+{
+"slug": "og-125-1998",
+"path": "og/1998/125",
+"kind": "og",
+"year": "1998",
+"number": "125",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța Guvernului nr. 125/1998",
+"short": "OG nr. 125/1998",
+"code": null,
+"status": "in force",
+"versions": 8,
+"from": "1999-01-01",
+"latest": "2010-01-27",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/115977"
 },
 {
 "slug": "og-16-1999",
@@ -56814,6 +56984,23 @@
 "from": "2004-08-02",
 "latest": "2008-10-16",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/102920"
+},
+{
+"slug": "og-58-2004",
+"path": "og/2004/58",
+"kind": "og",
+"year": "2004",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța Guvernului nr. 58/2004",
+"short": "OG nr. 58/2004",
+"code": null,
+"status": "in force",
+"versions": 3,
+"from": "2004-09-05",
+"latest": "2010-01-27",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/115942"
 },
 {
 "slug": "og-59-2004",
