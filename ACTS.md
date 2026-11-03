@@ -1,6 +1,6 @@
 # Every act in this repository
 
-18968 acts, 32,597 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+19005 acts, 32,634 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (3030, of which 1599 amending acts)
+## Laws (legi) (3039, of which 1606 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -1089,7 +1089,16 @@
 | Legea nr. 300/2013 pentru modificarea și completarea Legii nr. 302/2004 privind cooperarea judiciară internațională în materie penală | [`lege/2013/300/`](lege/2013/300/) | amending act | 3 | 2013-12-14 | 2014-02-01 |
 | Legea nr. 307/2013 | [`lege/2013/307/`](lege/2013/307/) | in force | 4 | 2013-12-06 | 2024-11-15 |
 | Legea nr. 323/2013 | [`lege/2013/323/`](lege/2013/323/) | in force | 2 | 2013-12-05 | 2015-03-13 |
+| Legea nr. 325/2013 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 38/2013 privind finanţarea Autorităţii Naţionale pentru Restituirea Proprietăţilor | [`lege/2013/325/`](lege/2013/325/) | amending act | 1 | 2013-12-15 | 2013-12-15 |
+| Legea nr. 326/2013 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 60/2013 pentru completarea art. 4 alin. (1) din Legea nr. 349/2007 privind reorganizarea cadrului instituţional în domeniul managementului substanţelor chimice | [`lege/2013/326/`](lege/2013/326/) | amending act | 1 | 2013-12-07 | 2013-12-07 |
+| Legea nr. 327/2013 pentru completarea art. 86 din Legea nr. 80/1995 privind statutul cadrelor militare | [`lege/2013/327/`](lege/2013/327/) | amending act | 1 | 2013-12-12 | 2013-12-12 |
+| Legea nr. 328/2013 pentru aprobarea participării României la Forumul global privind transparenţa şi schimbul de informaţii în scopuri fiscale | [`lege/2013/328/`](lege/2013/328/) | amending act | 1 | 2013-12-12 | 2013-12-12 |
+| Legea nr. 329/2013 privind ratificarea Acordului dintre România şi Republica India pentru evitarea dublei impuneri şi prevenirea evaziunii fiscale cu privire la impozitele pe venit, semnat la New Delhi la 8 martie 2013 | [`lege/2013/329/`](lege/2013/329/) | in force | 1 | 2013-12-13 | 2013-12-13 |
+| Legea nr. 330/2013 pentru ratificarea Acordului dintre Guvernul României şi Guvernul Irlandei privind cooperarea în prevenirea şi combaterea traficului ilicit de droguri, spălării banilor, criminalităţii organizate, traficului de persoane, terorismului, finanţării terorismului şi a altor infracţiuni grave, semnat la Dublin la 17 ianuarie 2013 | [`lege/2013/330/`](lege/2013/330/) | in force | 1 | 2013-12-20 | 2013-12-20 |
+| Legea nr. 333/2013 privind aprobarea Ordonanţei Guvernului nr. 21/2013 pentru reglementarea unor măsuri necesare derulării proiectelor cu finanţare nerambursabilă în domeniul forţei de muncă | [`lege/2013/333/`](lege/2013/333/) | amending act | 1 | 2013-12-14 | 2013-12-14 |
 | Legea nr. 335/2013 | [`lege/2013/335/`](lege/2013/335/) | in force | 5 | 2014-03-12 | 2023-12-22 |
+| Legea nr. 337/2013 pentru modificarea alin. (1) al art. 11 al cap. II din titlul VII al Legii nr. 247/2005 privind reforma în domeniile proprietăţii şi justiţiei, precum şi unele măsuri adiacente, precum şi pentru modificarea şi completarea Legii nr. 26/1990 privind registrul comerţului | [`lege/2013/337/`](lege/2013/337/) | amending act | 1 | 2013-12-15 | 2013-12-15 |
+| Legea nr. 338/2013 privind modificarea art. 6 alin. (1) din Legea nr. 67/2004 pentru alegerea autorităţilor administraţiei publice locale | [`lege/2013/338/`](lege/2013/338/) | amending act | 1 | 2013-12-15 | 2013-12-15 |
 | Legea nr. 340/2013 | [`lege/2013/340/`](lege/2013/340/) | in force | 1 | 2013-12-15 | 2013-12-15 |
 | Legea nr. 341/2013 pentru modificarea şi completarea Legii nr. 3/2000 privind organizarea şi desfăşurarea referendumului | [`lege/2013/341/`](lege/2013/341/) | amending act | 1 | 2014-12-16 | 2014-12-16 |
 | Legea nr. 343/2013 pentru aprobarea Ordonanţei Guvernului nr. 12/2013 privind reglementarea unor măsuri fiscal-bugetare | [`lege/2013/343/`](lege/2013/343/) | amending act | 1 | 2013-12-23 | 2013-12-23 |
@@ -3068,7 +3077,7 @@
 | Legea nr. 204/2026 privind aprobarea Ordonanţei Guvernului nr. 22/2025 pentru modificarea şi completarea Legii nr. 227/2015 privind Codul fiscal şi pentru completarea articolului 342 din Legea nr. 227/2015 privind Codul fiscal | [`lege/2026/204/`](lege/2026/204/) | amending act | 1 | 2026-10-25 | 2026-10-25 |
 | Legea nr. 205/2026 pentru completarea Ordonanţei Guvernului nr. 22/2002 privind executarea obligaţiilor de plată ale instituţiilor publice, stabilite prin titluri executorii | [`lege/2026/205/`](lege/2026/205/) | amending act | 1 | 2026-11-02 | 2026-11-02 |
 
-## Emergency ordinances (OUG) (1670, of which 592 amending acts)
+## Emergency ordinances (OUG) (1671, of which 593 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -3822,6 +3831,7 @@
 | Ordonanța de urgență a Guvernului nr. 103/2013 | [`oug/2013/103/`](oug/2013/103/) | in force | 13 | 2013-11-15 | 2017-12-07 |
 | Ordonanța de urgență a Guvernului nr. 106/2013 pentru modificarea și completarea Legii petrolului nr. 238/2004 | [`oug/2013/106/`](oug/2013/106/) | amending act | 2 | 2013-12-09 | 2014-06-28 |
 | Ordonanța de urgență a Guvernului nr. 107/2013 | [`oug/2013/107/`](oug/2013/107/) | in force | 4 | 2013-12-13 | 2015-04-27 |
+| Ordonanța de urgență a Guvernului nr. 108/2013 pentru prorogarea termenului prevăzut la alin. (1) al art. 56 din Legea nr. 185/2013 privind amplasarea şi autorizarea mijloacelor de publicitate | [`oug/2013/108/`](oug/2013/108/) | amending act | 1 | 2013-12-17 | 2013-12-17 |
 | Ordonanța de urgență a Guvernului nr. 111/2013 | [`oug/2013/111/`](oug/2013/111/) | in force | 1 | 2013-12-19 | 2013-12-19 |
 | Ordonanța de urgență a Guvernului nr. 113/2013 privind unele măsuri bugetare și pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 99/2006 privind instituțiile de credit și adecvarea capitalului | [`oug/2013/113/`](oug/2013/113/) | amending act | 3 | 2013-12-23 | 2015-03-15 |
 | Ordonanța de urgență a Guvernului nr. 114/2013 | [`oug/2013/114/`](oug/2013/114/) | in force | 3 | 2013-12-24 | 2017-04-15 |
@@ -5268,7 +5278,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (13709, of which 6874 amending acts)
+## Government decisions (HG) (13736, of which 6882 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -8670,6 +8680,33 @@
 | Hotărârea Guvernului nr. 918/2013 | [`hg/2013/918/`](hg/2013/918/) | in force | 3 | 2013-11-28 | 2018-03-28 |
 | Hotărârea Guvernului nr. 941/2013 | [`hg/2013/941/`](hg/2013/941/) | in force | 3 | 2013-12-04 | 2023-09-15 |
 | Hotărârea Guvernului nr. 943/2013 | [`hg/2013/943/`](hg/2013/943/) | in force | 1 | 2013-12-17 | 2013-12-17 |
+| Hotărârea Guvernului nr. 944/2013 privind aplicarea mobilităţii pentru domnul Coman Cornel din funcţia publică de subprefect al judeţului Călăraşi în funcţia publică de inspector guvernamental | [`hg/2013/944/`](hg/2013/944/) | in force | 1 | 2013-12-05 | 2013-12-05 |
+| Hotărârea Guvernului nr. 945/2013 privind exercitarea, cu caracter temporar, prin detaşare în condiţiile legii, a funcţiei publice de subprefect al judeţului Călăraşi de către domnul Stan Ion | [`hg/2013/945/`](hg/2013/945/) | in force | 1 | 2013-12-05 | 2013-12-05 |
+| Hotărârea Guvernului nr. 946/2013 privind alocarea temporară, pentru luna decembrie a anului 2013, a unor sume din venituri din privatizare Ministerului Dezvoltării Regionale şi Administraţiei Publice, pentru Programul de cooperare transfrontalieră România-Bulgaria | [`hg/2013/946/`](hg/2013/946/) | in force | 1 | 2013-12-05 | 2013-12-05 |
+| Hotărârea Guvernului nr. 947/2013 privind suplimentarea bugetului Ministerului Agriculturii şi Dezvoltării Rurale pe anul 2013, la titlul 10 "Cheltuieli de personal" şi titlul 51 "Transferuri între unităţi ale administraţiei publice", pentru plata titlurilor executorii prevăzute de Ordonanţa de urgenţă a Guvernului nr. 71/2009 privind plata unor sume prevăzute în titluri executorii având ca obiect acordarea de drepturi salariale personalului din sectorul bugetar, de Ordonanţa Guvernului nr. 17/2012 privind reglementarea unor măsuri fiscal-bugetare şi de Ordonanţa de urgenţă a Guvernului nr. 92/2012 privind luarea unor măsuri în domeniul învăţământului şi cercetării, precum şi în ceea ce priveşte plata sumelor prevăzute în hotărâri judecătoreşti devenite executorii în perioada 1 ianuarie-31 decembrie 2013 | [`hg/2013/947/`](hg/2013/947/) | in force | 1 | 2013-12-06 | 2013-12-06 |
+| Hotărârea Guvernului nr. 951/2013 privind aprobarea stemei comunei Valea Mărului, judeţul Galaţi | [`hg/2013/951/`](hg/2013/951/) | amending act | 1 | 2013-12-09 | 2013-12-09 |
+| Hotărârea Guvernului nr. 953/2013 privind transmiterea unui sector de drum de interes judeţean din domeniul public al oraşului Bragadiru şi din administrarea Consiliului Local al Oraşului Bragadiru în domeniul public al statului şi în administrarea Departamentului pentru proiecte de infrastructură şi investiţii străine, în vederea realizării de către Compania Naţională de Autostrăzi şi Drumuri Naţionale din România - S.A. a obiectivului de investiţii de interes naţional "Pasaj suprateran pe DJ 602 - Centura Bucureşti-Domneşti", precum şi declasarea acestuia din categoria drumurilor de interes judeţean şi încadrarea în categoria funcţională a drumurilor de interes naţional | [`hg/2013/953/`](hg/2013/953/) | in force | 1 | 2013-12-06 | 2013-12-06 |
+| Hotărârea Guvernului nr. 954/2013 pentru modificarea art. 2 alin. (1) din Hotărârea Guvernului nr. 484/2013 privind suplimentarea bugetului Ministerului Sănătăţii din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2013, şi aprobarea unor limite de cheltuieli pentru finanţarea primei faze a programului de cooperare pentru dezvoltarea capabilităţilor de chirurgie cardiacă neonatală şi infantilă în România | [`hg/2013/954/`](hg/2013/954/) | amending act | 1 | 2013-12-06 | 2013-12-06 |
+| Hotărârea Guvernului nr. 956/2013 privind modificarea Hotărârii Guvernului nr. 1.680/2008 pentru instituirea unei scheme de ajutor de stat privind asigurarea dezvoltării economice durabile | [`hg/2013/956/`](hg/2013/956/) | amending act | 1 | 2013-12-10 | 2013-12-10 |
+| Hotărârea Guvernului nr. 957/2013 privind modificarea Hotărârii Guvernului nr. 1.084/2012 pentru aprobarea indicatorilor tehnico-economici aferenţi obiectivului de investiţii "Varianta de ocolire a municipiului Satu Mare", judeţul Satu Mare | [`hg/2013/957/`](hg/2013/957/) | amending act | 1 | 2013-12-10 | 2013-12-10 |
+| Hotărârea Guvernului nr. 958/2013 pentru completarea Normelor metodologice de aplicare a Legii nr. 255/2010 privind exproprierea pentru cauză de utilitate publică, necesară realizării unor obiective de interes naţional, judeţean şi local, aprobate prin Hotărârea Guvernului nr. 53/2011 | [`hg/2013/958/`](hg/2013/958/) | amending act | 1 | 2013-12-06 | 2013-12-06 |
+| Hotărârea Guvernului nr. 959/2013 privind prorogarea termenelor de aplicare a unor ajutoare de stat, precum şi pentru aprobarea ajutoarelor de stat care se acordă producătorilor agricoli pentru anul 2014 şi a sumei totale alocate acestor ajutoare de stat | [`hg/2013/959/`](hg/2013/959/) | amending act | 1 | 2013-12-10 | 2013-12-10 |
+| Hotărârea Guvernului nr. 961/2013 privind transmiterea unei părţi dintr-un imobil, proprietate publică a statului, din administrarea Serviciului de Telecomunicaţii Speciale în administrarea Ministerului Afacerilor Interne - Inspectoratul General al Poliţiei de Frontieră | [`hg/2013/961/`](hg/2013/961/) | in force | 1 | 2013-12-12 | 2013-12-12 |
+| Hotărârea Guvernului nr. 962/2013 privind aprobarea acordării ajutoarelor de minimis pentru conservarea raselor locale de animale în pericol de abandon | [`hg/2013/962/`](hg/2013/962/) | amending act | 1 | 2013-12-11 | 2013-12-11 |
+| Hotărârea Guvernului nr. 963/2013 pentru modificarea Hotărârii Guvernului nr. 1.007/2010 privind aprobarea programelor de interes naţional în domeniul protecţiei familiei şi a drepturilor copilului pentru perioada 2010-2012 | [`hg/2013/963/`](hg/2013/963/) | amending act | 1 | 2013-12-16 | 2013-12-16 |
+| Hotărârea Guvernului nr. 964/2013 privind încetarea dreptului de folosinţă gratuită acordat Comitetului Olimpic şi Sportiv Român şi Federaţiei Române de Rugby asupra unui imobil, proprietate privată a statului, aflat în administrarea Ministerului Afacerilor Externe | [`hg/2013/964/`](hg/2013/964/) | in force | 1 | 2013-12-17 | 2013-12-17 |
+| Hotărârea Guvernului nr. 965/2013 pentru stabilirea zilelor de 27 şi 31 decembrie 2013 şi 3 ianuarie 2014 ca zile libere | [`hg/2013/965/`](hg/2013/965/) | in force | 1 | 2013-12-12 | 2013-12-12 |
+| Hotărârea Guvernului nr. 966/2013 privind suplimentarea bugetului Ministerului Dezvoltării Regionale şi Administraţiei Publice pe anul 2013 din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2013 | [`hg/2013/966/`](hg/2013/966/) | in force | 1 | 2013-12-12 | 2013-12-12 |
+| Hotărârea Guvernului nr. 967/2013 privind suplimentarea bugetului Ministerului Afacerilor Interne din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2013 | [`hg/2013/967/`](hg/2013/967/) | in force | 1 | 2013-12-12 | 2013-12-12 |
+| Hotărârea Guvernului nr. 968/2013 privind suplimentarea bugetului Secretariatului General al Guvernului pe anul 2013 din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2013, pentru Secretariatul de Stat pentru Culte | [`hg/2013/968/`](hg/2013/968/) | in force | 1 | 2013-12-12 | 2013-12-12 |
+| Hotărârea Guvernului nr. 969/2013 privind suplimentarea bugetului Ministerului Afacerilor Interne din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2013 | [`hg/2013/969/`](hg/2013/969/) | in force | 1 | 2013-12-13 | 2013-12-13 |
+| Hotărârea Guvernului nr. 970/2013 privind suplimentarea bugetului Ministerului Apărării Naţionale pentru anul 2013, din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2013 | [`hg/2013/970/`](hg/2013/970/) | in force | 1 | 2013-12-12 | 2013-12-12 |
+| Hotărârea Guvernului nr. 971/2013 privind alocarea unei sume din Fondul naţional de dezvoltare la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2013, pentru judeţul Cluj | [`hg/2013/971/`](hg/2013/971/) | in force | 1 | 2013-12-12 | 2013-12-12 |
+| Hotărârea Guvernului nr. 972/2013 privind suplimentarea bugetului Serviciului Român de Informaţii pe anul 2013 din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2013 | [`hg/2013/972/`](hg/2013/972/) | in force | 1 | 2013-12-12 | 2013-12-12 |
+| Hotărârea Guvernului nr. 973/2013 privind alocarea unor sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2013, pentru unele judeţe | [`hg/2013/973/`](hg/2013/973/) | in force | 1 | 2013-12-12 | 2013-12-12 |
+| Hotărârea Guvernului nr. 976/2013 privind suplimentarea bugetului Ministerului Finanţelor Publice | [`hg/2013/976/`](hg/2013/976/) | in force | 1 | 2013-12-12 | 2013-12-12 |
+| Hotărârea Guvernului nr. 977/2013 privind suplimentarea bugetelor Ministerului Justiţiei, Înaltei Curţi de Casaţie şi Justiţie, Ministerului Public şi Consiliului Superior al Magistraturii | [`hg/2013/977/`](hg/2013/977/) | in force | 1 | 2013-12-12 | 2013-12-12 |
+| Hotărârea Guvernului nr. 981/2013 privind acordarea unor ajutoare de urgenţă | [`hg/2013/981/`](hg/2013/981/) | in force | 1 | 2013-12-13 | 2013-12-13 |
 | Hotărârea Guvernului nr. 983/2013 privind aprobarea bugetului de venituri şi cheltuieli rectificat pe anul 2013 pentru Societatea Comercială "Complexul Energetic Oltenia" - S.A., aflată sub autoritatea Departamentului pentru Energie | [`hg/2013/983/`](hg/2013/983/) | amending act | 1 | 2013-12-16 | 2013-12-16 |
 | Hotărârea Guvernului nr. 984/2013 privind actualizarea valorii de inventar a unor imobile aflate în domeniul public al statului şi administrarea Instituţiei Prefectului - Judeţul Ialomiţa, aflată în subordinea Ministerului Afacerilor Interne, ca urmare a reevaluării | [`hg/2013/984/`](hg/2013/984/) | in force | 1 | 2013-12-16 | 2013-12-16 |
 | Hotărârea Guvernului nr. 985/2013 privind rectificarea bugetului de venituri şi cheltuieli pe anul 2013 al Regiei Autonome "Administraţia Patrimoniului Protocolului de Stat", regie autonomă de interes naţional aflată sub autoritatea Secretariatului General al Guvernului | [`hg/2013/985/`](hg/2013/985/) | in force | 1 | 2013-12-16 | 2013-12-16 |
