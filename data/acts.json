@@ -19484,6 +19484,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/149939"
 },
 {
+"slug": "legea-234-2013",
+"path": "lege/2013/234",
+"kind": "lege",
+"year": "2013",
+"number": "234",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 234/2013 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 33/2013 pentru modificarea şi completarea unor acte normative",
+"short": "Legea nr. 234/2013",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2013-07-20",
+"latest": "2013-07-20",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/149835"
+},
+{
 "slug": "legea-235-2013",
 "path": "lege/2013/235",
 "kind": "lege",
@@ -19584,6 +19601,23 @@
 "from": "2013-07-27",
 "latest": "2017-03-29",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/150073"
+},
+{
+"slug": "legea-251-2013",
+"path": "lege/2013/251",
+"kind": "lege",
+"year": "2013",
+"number": "251",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 251/2013 privind aprobarea Ordonanţei Guvernului nr. 3/2013 pentru reglementarea unor măsuri financiare în domeniul programelor multianuale prioritare de mediu şi gospodărire a apelor",
+"short": "Legea nr. 251/2013",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2013-07-26",
+"latest": "2013-07-26",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/150027"
 },
 {
 "slug": "legea-252-2013",
@@ -19754,6 +19788,23 @@
 "from": "2013-10-17",
 "latest": "2013-10-17",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/151838"
+},
+{
+"slug": "legea-269-2013",
+"path": "lege/2013/269",
+"kind": "lege",
+"year": "2013",
+"number": "269",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 269/2013 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 52/2013 pentru modificarea şi completarea art. 13 din Ordonanţa de urgenţă a Guvernului nr. 64/2009 privind gestionarea financiară a instrumentelor structurale şi utilizarea acestora pentru obiectivul convergenţă",
+"short": "Legea nr. 269/2013",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2013-10-18",
+"latest": "2013-10-18",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/151881"
 },
 {
 "slug": "legea-270-2013",
@@ -20009,6 +20060,23 @@
 "from": "2013-11-17",
 "latest": "2013-11-17",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/152596"
+},
+{
+"slug": "legea-295-2013",
+"path": "lege/2013/295",
+"kind": "lege",
+"year": "2013",
+"number": "295",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 295/2013 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 63/2013 pentru modificarea art. 13 alin. (1^2) din Ordonanţa de urgenţă a Guvernului nr. 43/2002 privind Direcţia Naţională Anticorupţie",
+"short": "Legea nr. 295/2013",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2013-11-21",
+"latest": "2013-11-21",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/152654"
 },
 {
 "slug": "legea-299-2013",
@@ -20485,6 +20553,23 @@
 "from": "2013-12-15",
 "latest": "2013-12-15",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/153549"
+},
+{
+"slug": "legea-339-2013",
+"path": "lege/2013/339",
+"kind": "lege",
+"year": "2013",
+"number": "339",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 339/2013 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 66/2013 pentru modificarea şi completarea Legii nr. 360/2002 privind Statutul poliţistului",
+"short": "Legea nr. 339/2013",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2013-12-15",
+"latest": "2013-12-15",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/153564"
 },
 {
 "slug": "legea-340-2013",
@@ -68459,6 +68544,23 @@
 "from": "2013-08-29",
 "latest": "2013-08-29",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/151047"
+},
+{
+"slug": "oug-83-2013",
+"path": "oug/2013/83",
+"kind": "oug",
+"year": "2013",
+"number": "83",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 83/2013 privind unele măsuri în vederea contractării serviciilor de consultanţă pentru privatizarea Societăţii Comerciale \"Romtelecom\" - S.A",
+"short": "OUG nr. 83/2013",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2013-09-09",
+"latest": "2013-09-09",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/151284"
 },
 {
 "slug": "oug-84-2013",
@@ -166925,6 +167027,40 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/151011"
 },
 {
+"slug": "hg-596-2013",
+"path": "hg/2013/596",
+"kind": "hg",
+"year": "2013",
+"number": "596",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 596/2013 pentru modificarea şi completarea unor anexe la Hotărârea Guvernului nr. 904/2002 privind atestarea domeniului public al judeţului Constanţa, precum şi al municipiilor, oraşelor şi comunelor din judeţul Constanţa",
+"short": "HG nr. 596/2013",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2013-08-22",
+"latest": "2013-08-22",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/150850"
+},
+{
+"slug": "hg-597-2013",
+"path": "hg/2013/597",
+"kind": "hg",
+"year": "2013",
+"number": "597",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 597/2013 pentru modificarea şi completarea unor anexe la Hotărârea Guvernului nr. 1.357/2001 privind atestarea domeniului public al judeţului Suceava, precum şi al municipiilor, oraşelor şi comunelor din judeţul Suceava",
+"short": "HG nr. 597/2013",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2013-08-22",
+"latest": "2013-08-22",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/150854"
+},
+{
 "slug": "hg-598-2013",
 "path": "hg/2013/598",
 "kind": "hg",
@@ -167401,6 +167537,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/151097"
 },
 {
+"slug": "hg-647-2013",
+"path": "hg/2013/647",
+"kind": "hg",
+"year": "2013",
+"number": "647",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 647/2013 privind stabilirea serviciilor publice esenţiale la nivelul unităţilor administrativ-teritoriale",
+"short": "HG nr. 647/2013",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2013-08-29",
+"latest": "2013-08-29",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/151041"
+},
+{
 "slug": "hg-648-2013",
 "path": "hg/2013/648",
 "kind": "hg",
@@ -167450,6 +167603,40 @@
 "from": "2013-09-03",
 "latest": "2013-09-03",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/151167"
+},
+{
+"slug": "hg-653-2013",
+"path": "hg/2013/653",
+"kind": "hg",
+"year": "2013",
+"number": "653",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 653/2013 pentru modificarea Normelor metodologice de aplicare a Legii nr. 122/2006 privind azilul în România, aprobate prin Hotărârea Guvernului nr. 1.251/2006",
+"short": "HG nr. 653/2013",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2013-09-03",
+"latest": "2013-09-03",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/151176"
+},
+{
+"slug": "hg-656-2013",
+"path": "hg/2013/656",
+"kind": "hg",
+"year": "2013",
+"number": "656",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 656/2013 pentru modificarea şi completarea unor anexe la Hotărârea Guvernului nr. 1.358/2001 privind atestarea domeniului public al judeţului Teleorman, precum şi al municipiilor, oraşelor şi comunelor din judeţul Teleorman",
+"short": "HG nr. 656/2013",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2013-09-02",
+"latest": "2013-09-02",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/151133"
 },
 {
 "slug": "hg-657-2013",
@@ -167620,6 +167807,23 @@
 "from": "2013-09-05",
 "latest": "2013-09-05",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/151245"
+},
+{
+"slug": "hg-668-2013",
+"path": "hg/2013/668",
+"kind": "hg",
+"year": "2013",
+"number": "668",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 668/2013 privind numirea unui consul general",
+"short": "HG nr. 668/2013",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2013-09-11",
+"latest": "2013-09-11",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/151344"
 },
 {
 "slug": "hg-670-2013",
@@ -169643,6 +169847,23 @@
 "from": "2013-11-04",
 "latest": "2013-11-04",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/152343"
+},
+{
+"slug": "hg-844-2013",
+"path": "hg/2013/844",
+"kind": "hg",
+"year": "2013",
+"number": "844",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 844/2013 privind alocarea temporară, pentru lunile octombrie şi noiembrie ale anului 2013, a unor sume din venituri din privatizare Ministerului Dezvoltării Regionale şi Administraţiei Publice, pentru Programul de cooperare transfrontalieră România-Bulgaria",
+"short": "HG nr. 844/2013",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2013-11-04",
+"latest": "2013-11-04",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/152337"
 },
 {
 "slug": "hg-846-2013",
@@ -171819,6 +172040,23 @@
 "from": "2013-12-19",
 "latest": "2013-12-19",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/153794"
+},
+{
+"slug": "hg-1025-2013",
+"path": "hg/2013/1025",
+"kind": "hg",
+"year": "2013",
+"number": "1025",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 1025/2013 privind suplimentarea bugetului Ministerului Culturii pe anul 2013 pentru plata unor sume prevăzute în titluri executorii având ca obiect acordarea de drepturi salariale",
+"short": "HG nr. 1025/2013",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2013-12-16",
+"latest": "2013-12-16",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/153648"
 },
 {
 "slug": "hg-1028-2013",
