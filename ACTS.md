@@ -1,6 +1,6 @@
 # Every act in this repository
 
-5978 acts, 16,953 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+5994 acts, 17,043 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -32,7 +32,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (1749, of which 642 amending acts)
+## Laws (legi) (1759, of which 643 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -134,6 +134,7 @@
 | Legea nr. 101/1994 | [`lege/1994/101/`](lege/1994/101/) | in force | 1 | 1994-11-22 | 1994-11-22 |
 | Legea nr. 142/1994 | [`lege/1994/142/`](lege/1994/142/) | in force | 1 | 1994-12-30 | 1994-12-30 |
 | Legea nr. 10/1995 privind calitatea în construcții | [`lege/1995/10/`](lege/1995/10/) | in force | 25 | 1995-01-24 | 2025-12-24 |
+| Legea nr. 16/1995 | [`lege/1995/16/`](lege/1995/16/) | in force | 4 | 1995-06-09 | 2014-03-25 |
 | Legea nr. 23/1995 | [`lege/1995/23/`](lege/1995/23/) | in force | 1 | 1995-04-07 | 1995-04-07 |
 | Legea nr. 24/1995 | [`lege/1995/24/`](lege/1995/24/) | in force | 1 | 1995-04-10 | 1995-04-10 |
 | Legea nr. 25/1995 | [`lege/1995/25/`](lege/1995/25/) | in force | 1 | 1995-04-14 | 1995-04-14 |
@@ -168,6 +169,7 @@
 | Legea nr. 71/1996 | [`lege/1996/71/`](lege/1996/71/) | in force | 1 | 1996-07-29 | 1996-07-29 |
 | Legea nr. 92/1996 | [`lege/1996/92/`](lege/1996/92/) | in force | 2 | 1996-07-30 | 2002-02-12 |
 | Legea nr. 103/1996 | [`lege/1996/103/`](lege/1996/103/) | in force | 3 | 1996-10-27 | 2005-12-28 |
+| Legea nr. 105/1996 | [`lege/1996/105/`](lege/1996/105/) | in force | 4 | 1996-09-30 | 2004-12-10 |
 | Legea apelor nr. 107/1996 | [`lege/1996/107/`](lege/1996/107/) | in force | 30 | 1996-12-07 | 2024-07-08 |
 | Legea nr. 108/1996 | [`lege/1996/108/`](lege/1996/108/) | in force | 1 | 1996-10-17 | 1996-10-17 |
 | Legea nr. 111/1996 | [`lege/1996/111/`](lege/1996/111/) | in force | 16 | 1996-12-28 | 2024-06-17 |
@@ -233,6 +235,7 @@
 | Legea nr. 89/2000 | [`lege/2000/89/`](lege/2000/89/) | in force | 1 | 2000-05-30 | 2000-05-30 |
 | Legea nr. 96/2000 | [`lege/2000/96/`](lege/2000/96/) | in force | 15 | 2000-06-06 | 2025-09-30 |
 | Legea nr. 124/2000 | [`lege/2000/124/`](lege/2000/124/) | repealed 2023-12-08 | 3 | 2000-07-17 | 2023-12-08 |
+| Legea nr. 139/2000 | [`lege/2000/139/`](lege/2000/139/) | in force | 11 | 2000-09-01 | 2015-11-22 |
 | Legea nr. 143/2000 privind prevenirea și combaterea traficului și consumului ilicit de droguri | [`lege/2000/143/`](lege/2000/143/) | in force | 15 | 2000-08-03 | 2024-07-25 |
 | Legea nr. 144/2000 | [`lege/2000/144/`](lege/2000/144/) | in force | 2 | 2000-10-02 | 2014-02-13 |
 | Legea nr. 147/2000 | [`lege/2000/147/`](lege/2000/147/) | in force | 4 | 2001-01-01 | 2012-03-25 |
@@ -242,6 +245,7 @@
 | Legea nr. 188/2000 privind executorii judecătorești | [`lege/2000/188/`](lege/2000/188/) | in force | 14 | 2000-11-10 | 2022-07-17 |
 | Legea nr. 189/2000 | [`lege/2000/189/`](lege/2000/189/) | in force | 19 | 2000-11-08 | 2013-02-15 |
 | Legea nr. 193/2000 privind clauzele abuzive din contractele încheiate între profesioniști și consumatori | [`lege/2000/193/`](lege/2000/193/) | in force | 10 | 2000-12-10 | 2022-05-28 |
+| Legea nr. 199/2000 | [`lege/2000/199/`](lege/2000/199/) | in force | 4 | 2001-02-15 | 2006-11-27 |
 | Legea nr. 228/2000 | [`lege/2000/228/`](lege/2000/228/) | in force | 1 | 2000-12-05 | 2000-12-05 |
 | Legea nr. 10/2001 privind regimul juridic al unor imobile preluate în mod abuziv în perioada 6 martie 1945 - 22 decembrie 1989 | [`lege/2001/10/`](lege/2001/10/) | in force | 24 | 2001-08-13 | 2024-07-20 |
 | Legea nr. 17/2001 | [`lege/2001/17/`](lege/2001/17/) | in force | 1 | 2001-02-28 | 2001-02-28 |
@@ -306,6 +310,7 @@
 | Legea nr. 118/2002 pentru instituirea indemnizației de merit | [`lege/2002/118/`](lege/2002/118/) | in force | 7 | 2002-03-20 | 2024-03-29 |
 | Legea nr. 129/2002 | [`lege/2002/129/`](lege/2002/129/) | in force | 1 | 2002-03-20 | 2002-03-20 |
 | Legea nr. 137/2002 | [`lege/2002/137/`](lege/2002/137/) | in force | 15 | 2002-03-28 | 2023-04-21 |
+| Legea nr. 146/2002 | [`lege/2002/146/`](lege/2002/146/) | in force | 2 | 2002-08-13 | 2002-12-03 |
 | Legea nr. 156/2002 pentru aprobarea Ordonanței Guvernului nr. 2/2000 privind organizarea activității de expertiza tehnica judiciară și extrajudiciara | [`lege/2002/156/`](lege/2002/156/) | amending act | 1 | 2002-04-15 | 2002-04-15 |
 | Legea nr. 167/2002 | [`lege/2002/167/`](lege/2002/167/) | in force | 1 | 2002-04-16 | 2002-04-16 |
 | Legea nr. 176/2002 | [`lege/2002/176/`](lege/2002/176/) | in force | 1 | 2002-04-17 | 2002-04-17 |
@@ -385,6 +390,7 @@
 | Legea nr. 252/2003 | [`lege/2003/252/`](lege/2003/252/) | in force | 1 | 2003-07-18 | 2003-07-18 |
 | Legea nr. 259/2003 | [`lege/2003/259/`](lege/2003/259/) | in force | 1 | 2003-06-19 | 2003-06-19 |
 | Legea nr. 269/2003 | [`lege/2003/269/`](lege/2003/269/) | in force | 7 | 2003-06-23 | 2019-07-05 |
+| Legea nr. 270/2003 | [`lege/2003/270/`](lege/2003/270/) | in force | 5 | 2003-09-18 | 2005-12-27 |
 | Legea nr. 271/2003 | [`lege/2003/271/`](lege/2003/271/) | in force | 1 | 2003-07-01 | 2003-07-01 |
 | Legea nr. 280/2003 | [`lege/2003/280/`](lege/2003/280/) | in force | 1 | 2003-06-26 | 2003-06-26 |
 | Legea nr. 285/2003 | [`lege/2003/285/`](lege/2003/285/) | in force | 1 | 2003-07-02 | 2003-07-02 |
@@ -448,6 +454,7 @@
 | Legea nr. 213/2004 privind exercitarea profesiei de psiholog cu drept de liberă practică, înființarea, organizarea și funcționarea Colegiului Psihologilor din România | [`lege/2004/213/`](lege/2004/213/) | in force | 3 | 2004-07-01 | 2023-07-14 |
 | Legea nr. 215/2004 | [`lege/2004/215/`](lege/2004/215/) | in force | 13 | 2004-06-17 | 2013-04-01 |
 | Legea nr. 216/2004 | [`lege/2004/216/`](lege/2004/216/) | in force | 5 | 2004-06-04 | 2017-09-02 |
+| Legea nr. 230/2004 privind aprobarea Ordonanței Guvernului nr. 38/2004 pentru modificarea Ordonanței Guvernului nr. 57/2002 privind cercetarea științifică și dezvoltarea tehnologică | [`lege/2004/230/`](lege/2004/230/) | amending act | 3 | 2004-06-07 | 2005-04-08 |
 | Legea petrolului nr. 238/2004 | [`lege/2004/238/`](lege/2004/238/) | in force | 16 | 2004-09-13 | 2024-06-29 |
 | Legea nr. 251/2004 | [`lege/2004/251/`](lege/2004/251/) | in force | 2 | 2004-06-27 | 2025-04-18 |
 | Legea nr. 253/2004 privind caracterul definitiv al decontării în sistemele de plăți și în sistemele de decontare a operațiunilor cu instrumente financiare | [`lege/2004/253/`](lege/2004/253/) | in force | 5 | 2004-07-01 | 2022-01-03 |
@@ -457,6 +464,7 @@
 | Legea nr. 272/2004 privind protecția și promovarea drepturilor copilului | [`lege/2004/272/`](lege/2004/272/) | in force | 32 | 2005-01-01 | 2026-04-10 |
 | Legea nr. 273/2004 | [`lege/2004/273/`](lege/2004/273/) | in force | 18 | 2004-06-26 | 2024-04-19 |
 | Legea nr. 274/2004 | [`lege/2004/274/`](lege/2004/274/) | in force | 7 | 2005-01-01 | 2012-12-22 |
+| Legea nr. 281/2004 | [`lege/2004/281/`](lege/2004/281/) | in force | 3 | 2004-07-04 | 2005-05-19 |
 | Legea nr. 287/2004 | [`lege/2004/287/`](lege/2004/287/) | in force | 3 | 2004-07-10 | 2014-02-13 |
 | Legea nr. 288/2004 | [`lege/2004/288/`](lege/2004/288/) | in force | 6 | 2004-07-10 | 2018-08-31 |
 | Legea nr. 289/2004 | [`lege/2004/289/`](lege/2004/289/) | in force | 4 | 2005-01-06 | 2008-12-27 |
@@ -524,6 +532,7 @@
 | Legea nr. 161/2005 privind stabilirea unor măsuri pentru prevenirea și combaterea corupției în cadrul Ministerului Administrației și Internelor | [`lege/2005/161/`](lege/2005/161/) | in force | 1 | 2005-06-09 | 2005-06-09 |
 | Legea nr. 179/2005 | [`lege/2005/179/`](lege/2005/179/) | in force | 1 | 2005-06-17 | 2005-06-17 |
 | Legea nr. 217/2005 | [`lege/2005/217/`](lege/2005/217/) | in force | 5 | 2007-01-01 | 2018-06-17 |
+| Legea nr. 218/2005 | [`lege/2005/218/`](lege/2005/218/) | in force | 14 | 2005-07-17 | 2025-09-01 |
 | Legea nr. 231/2005 | [`lege/2005/231/`](lege/2005/231/) | repealed 2010-02-02 | 6 | 2005-07-16 | 2010-02-02 |
 | Legea nr. 239/2005 | [`lege/2005/239/`](lege/2005/239/) | in force | 2 | 2005-07-29 | 2005-12-31 |
 | Legea nr. 240/2005 | [`lege/2005/240/`](lege/2005/240/) | repealed 2009-04-24 | 2 | 2005-07-29 | 2009-04-24 |
@@ -1143,6 +1152,7 @@
 | Legea nr. 245/2018 privind aprobarea Ordonanței de urgență a Guvernului nr. 33/2017 pentru modificarea și completarea art. 11 din Ordonanța de urgență a Guvernului nr. 22/2009 privind înființarea Autorității Naționale pentru Administrare și Reglementare în Comunicații | [`lege/2018/245/`](lege/2018/245/) | amending act | 1 | 2018-11-08 | 2018-11-08 |
 | Legea nr. 247/2018 pentru modificarea și completarea unor acte normative privind regimul străinilor în România | [`lege/2018/247/`](lege/2018/247/) | amending act | 2 | 2018-11-10 | 2024-03-22 |
 | Legea nr. 252/2018 pentru modificarea și completarea Legii nr. 374/2006 privind suspendarea serviciului public cu specific silvic pentru proprietarii terenurilor forestiere pentru care au fost emise documentele prevăzute la art. III alin. (1) din Legea nr. 169/1997 pentru modificarea și completarea Legii fondului funciar nr. 18/1991 | [`lege/2018/252/`](lege/2018/252/) | amending act | 1 | 2018-11-12 | 2018-11-12 |
+| Legea nr. 256/2018 privind unele măsuri necesare pentru implementarea operațiunilor petroliere de către titularii de acorduri petroliere referitoare la perimetre petroliere offshore | [`lege/2018/256/`](lege/2018/256/) | in force | 3 | 2018-11-17 | 2024-06-07 |
 | Legea nr. 288/2018 pentru modificarea și completarea unor acte normative | [`lege/2018/288/`](lege/2018/288/) | amending act | 1 | 2018-12-09 | 2018-12-09 |
 | Legea nr. 292/2018 privind evaluarea impactului anumitor proiecte publice și private asupra mediului | [`lege/2018/292/`](lege/2018/292/) | in force | 1 | 2019-01-09 | 2019-01-09 |
 | Legea nr. 294/2018 privind aprobarea Ordonanței de urgență a Guvernului nr. 93/2017 pentru stabilirea unor măsuri privind organizarea, funcționarea și atribuțiile oficiilor teritoriale ale Autorității Naționale de Management al Calității în Sănătate | [`lege/2018/294/`](lege/2018/294/) | amending act | 1 | 2018-12-08 | 2018-12-08 |
@@ -1786,7 +1796,7 @@
 | Legea nr. 241/2025 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 31/2002 privind interzicerea organizațiilor, simbolurilor și faptelor cu caracter fascist, legionar, rasist sau xenofob și a promovării cultului persoanelor vinovate de săvârșirea unor infracțiuni de genocid contra umanității și de crime de război, precum și pentru modificarea Legii nr. 157/2018 privind unele măsuri pentru prevenirea și combaterea antisemitismului | [`lege/2025/241/`](lege/2025/241/) | amending act | 1 | 2025-12-27 | 2025-12-27 |
 | Legea nr. 245/2025 pentru modificarea art. 32 alin. (7) din Legea nr. 273/2006 privind finanțele publice locale | [`lege/2025/245/`](lege/2025/245/) | amending act | 1 | 2026-01-01 | 2026-01-01 |
 
-## Emergency ordinances (OUG) (1451, of which 521 amending acts)
+## Emergency ordinances (OUG) (1454, of which 521 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -2044,6 +2054,7 @@
 | Ordonanța de urgență a Guvernului nr. 128/2005 | [`oug/2005/128/`](oug/2005/128/) | repealed 2010-07-22 | 3 | 2005-09-26 | 2010-07-22 |
 | Ordonanța de urgență a Guvernului nr. 134/2005 | [`oug/2005/134/`](oug/2005/134/) | in force | 2 | 2005-10-07 | 2006-03-16 |
 | Ordonanța de urgență a Guvernului nr. 135/2005 | [`oug/2005/135/`](oug/2005/135/) | in force | 2 | 2005-10-07 | 2006-03-13 |
+| Ordonanța de urgență a Guvernului nr. 148/2005 | [`oug/2005/148/`](oug/2005/148/) | in force | 13 | 2006-01-01 | 2012-10-14 |
 | Ordonanța de urgență a Guvernului nr. 152/2005 | [`oug/2005/152/`](oug/2005/152/) | repealed 2013-12-01 | 5 | 2005-11-30 | 2013-12-01 |
 | Ordonanța de urgență a Guvernului nr. 158/2005 | [`oug/2005/158/`](oug/2005/158/) | in force | 31 | 2006-01-01 | 2025-12-31 |
 | Ordonanța de urgență a Guvernului nr. 179/2005 | [`oug/2005/179/`](oug/2005/179/) | in force | 3 | 2005-12-16 | 2006-05-27 |
@@ -2053,6 +2064,7 @@
 | Ordonanța de urgență a Guvernului nr. 196/2005 | [`oug/2005/196/`](oug/2005/196/) | in force | 32 | 2005-12-30 | 2025-03-07 |
 | Ordonanța de urgență a Guvernului nr. 198/2005 | [`oug/2005/198/`](oug/2005/198/) | in force | 2 | 2005-12-30 | 2014-06-06 |
 | Ordonanța de urgență a Guvernului nr. 205/2005 | [`oug/2005/205/`](oug/2005/205/) | in force | 2 | 2005-12-29 | 2006-05-13 |
+| Ordonanța de urgență a Guvernului nr. 209/2005 | [`oug/2005/209/`](oug/2005/209/) | in force | 1 | 2005-12-30 | 2005-12-30 |
 | Ordonanța de urgență a Guvernului nr. 1/2006 | [`oug/2006/1/`](oug/2006/1/) | in force | 5 | 2006-01-31 | 2009-04-14 |
 | Ordonanța de urgență a Guvernului nr. 3/2006 | [`oug/2006/3/`](oug/2006/3/) | in force | 2 | 2006-02-13 | 2006-05-28 |
 | Ordonanța de urgență a Guvernului nr. 4/2006 | [`oug/2006/4/`](oug/2006/4/) | in force | 2 | 2006-02-14 | 2006-05-27 |
@@ -2082,6 +2094,7 @@
 | Ordonanța de urgență a Guvernului nr. 100/2006 privind transmiterea unor părți dintr-un imobil proprietate privată a statului din administrarea Societății Comerciale ”Compania Națională de Transporturi Aeriene Române - TAROM” - S.A. în administrarea Companiei Naționale de Investiții ”C.N.I.” - S.A. | [`oug/2006/100/`](oug/2006/100/) | in force | 2 | 2006-12-27 | 2007-05-13 |
 | Ordonanța de urgență a Guvernului nr. 111/2006 | [`oug/2006/111/`](oug/2006/111/) | in force | 2 | 2006-12-27 | 2007-10-12 |
 | Ordonanța de urgență a Guvernului nr. 113/2006 privind înființarea Fondului național de dezvoltare | [`oug/2006/113/`](oug/2006/113/) | in force | 3 | 2006-12-27 | 2010-07-19 |
+| Ordonanța de urgență a Guvernului nr. 116/2006 | [`oug/2006/116/`](oug/2006/116/) | in force | 7 | 2007-02-01 | 2011-04-14 |
 | Ordonanța de urgență a Guvernului nr. 117/2006 | [`oug/2006/117/`](oug/2006/117/) | in force | 2 | 2007-01-01 | 2007-05-27 |
 | Ordonanța de urgență a Guvernului nr. 118/2006 | [`oug/2006/118/`](oug/2006/118/) | in force | 7 | 2006-12-28 | 2014-09-29 |
 | Ordonanța de urgență a Guvernului nr. 119/2006 | [`oug/2006/119/`](oug/2006/119/) | in force | 8 | 2006-12-28 | 2024-01-14 |
@@ -3242,7 +3255,7 @@
 | Ordonanța de urgență a Guvernului nr. 78/2025 pentru modificarea Legii nr. 239/2025 privind stabilirea unor măsuri de redresare și eficientizare a resurselor publice și pentru modificarea și completarea unor acte normative | [`oug/2025/78/`](oug/2025/78/) | amending act | 1 | 2025-12-17 | 2025-12-17 |
 | Ordonanța de urgență a Guvernului nr. 87/2025 pentru stabilirea unor măsuri bugetare privind implementarea programelor naționale din domeniul lucrărilor publice | [`oug/2025/87/`](oug/2025/87/) | in force | 1 | 2025-12-24 | 2025-12-24 |
 
-## Ordinances (OG) (431, of which 87 amending acts)
+## Ordinances (OG) (434, of which 87 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -3287,6 +3300,7 @@
 | Ordonanța Guvernului nr. 58/1998 | [`og/1998/58/`](og/1998/58/) | in force | 17 | 1998-08-26 | 2026-09-25 |
 | Ordonanța Guvernului nr. 64/1998 | [`og/1998/64/`](og/1998/64/) | in force | 3 | 1998-08-26 | 2002-02-20 |
 | Ordonanța Guvernului nr. 76/1998 | [`og/1998/76/`](og/1998/76/) | in force | 1 | 1998-08-27 | 1998-08-27 |
+| Ordonanța Guvernului nr. 83/1998 | [`og/1998/83/`](og/1998/83/) | in force | 2 | 1998-09-01 | 2003-11-14 |
 | Ordonanța Guvernului nr. 90/1998 | [`og/1998/90/`](og/1998/90/) | in force | 2 | 1998-08-27 | 1998-11-16 |
 | Ordonanța Guvernului nr. 95/1998 | [`og/1998/95/`](og/1998/95/) | in force | 9 | 1998-09-27 | 2024-04-24 |
 | Ordonanța Guvernului nr. 103/1998 | [`og/1998/103/`](og/1998/103/) | in force | 2 | 1998-08-28 | 1999-06-18 |
@@ -3404,6 +3418,7 @@
 | Ordonanța Guvernului nr. 48/2003 | [`og/2003/48/`](og/2003/48/) | in force | 2 | 2003-08-06 | 2003-12-27 |
 | Ordonanța Guvernului nr. 53/2003 | [`og/2003/53/`](og/2003/53/) | in force | 1 | 2003-08-15 | 2003-08-15 |
 | Ordonanța Guvernului nr. 59/2003 | [`og/2003/59/`](og/2003/59/) | repealed 2007-07-27 | 4 | 2003-11-27 | 2007-07-27 |
+| Ordonanța Guvernului nr. 68/2003 | [`og/2003/68/`](og/2003/68/) | in force | 6 | 2004-01-01 | 2015-08-30 |
 | Ordonanța Guvernului nr. 79/2003 | [`og/2003/79/`](og/2003/79/) | in force | 7 | 2004-01-01 | 2008-08-23 |
 | Ordonanța Guvernului nr. 80/2003 | [`og/2003/80/`](og/2003/80/) | in force | 2 | 2003-08-30 | 2003-12-27 |
 | Ordonanța Guvernului nr. 81/2003 | [`og/2003/81/`](og/2003/81/) | in force | 6 | 2003-08-31 | 2021-05-07 |
@@ -3429,6 +3444,7 @@
 | Ordonanța Guvernului nr. 77/2004 | [`og/2004/77/`](og/2004/77/) | in force | 3 | 2004-08-30 | 2005-12-30 |
 | Ordonanța Guvernului nr. 81/2004 | [`og/2004/81/`](og/2004/81/) | in force | 2 | 2004-08-30 | 2004-11-22 |
 | Ordonanța Guvernului nr. 84/2004 | [`og/2004/84/`](og/2004/84/) | in force | 2 | 2004-09-02 | 2004-11-27 |
+| Ordonanța Guvernului nr. 85/2004 | [`og/2004/85/`](og/2004/85/) | in force | 8 | 2004-09-26 | 2019-12-13 |
 | Ordonanța Guvernului nr. 86/2004 | [`og/2004/86/`](og/2004/86/) | in force | 2 | 2004-09-02 | 2004-11-22 |
 | Ordonanța Guvernului nr. 5/2005 | [`og/2005/5/`](og/2005/5/) | in force | 2 | 2005-01-28 | 2005-05-08 |
 | Ordonanța Guvernului nr. 7/2005 | [`og/2005/7/`](og/2005/7/) | in force | 3 | 2005-02-03 | 2006-10-11 |
