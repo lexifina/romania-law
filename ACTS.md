@@ -1,6 +1,6 @@
 # Every act in this repository
 
-12247 acts, 25,829 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+12275 acts, 25,857 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -4566,7 +4566,7 @@
 | Ordonanța Guvernului nr. 21/2025 pentru modificarea și completarea Legii nr. 431/2023 privind asigurarea unui nivel minim global de impozitare a grupurilor de întreprinderi multinaționale și a grupurilor naționale de mari dimensiuni | [`og/2025/21/`](og/2025/21/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 | Ordonanța Guvernului nr. 22/2025 pentru modificarea și completarea Legii nr. 227/2015 privind Codul fiscal | [`og/2025/22/`](og/2025/22/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 
-## Government decisions (HG) (7690, of which 3350 amending acts)
+## Government decisions (HG) (7718, of which 3355 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -5499,6 +5499,7 @@
 | Hotărârea Guvernului nr. 1720/2008 | [`hg/2008/1720/`](hg/2008/1720/) | in force | 3 | 2009-01-06 | 2009-06-23 |
 | Hotărârea Guvernului nr. 1721/2008 | [`hg/2008/1721/`](hg/2008/1721/) | in force | 2 | 2009-01-13 | 2009-05-07 |
 | Hotărârea Guvernului nr. 4/2009 | [`hg/2009/4/`](hg/2009/4/) | in force | 1 | 2009-01-16 | 2009-01-16 |
+| Hotărârea Guvernului nr. 10/2009 pentru modificarea şi completarea Hotărârii Guvernului nr. 100/2004 privind organizarea şi funcţionarea Ministerului Afacerilor Externe | [`hg/2009/10/`](hg/2009/10/) | amending act | 1 | 2009-01-23 | 2009-01-23 |
 | Hotărârea Guvernului nr. 11/2009 | [`hg/2009/11/`](hg/2009/11/) | in force | 10 | 2009-01-23 | 2012-09-14 |
 | Hotărârea Guvernului nr. 12/2009 | [`hg/2009/12/`](hg/2009/12/) | in force | 8 | 2009-01-28 | 2012-03-27 |
 | Hotărârea Guvernului nr. 15/2009 pentru aprobarea modelului copiei de pe lista electorală permanentă, modelului copiei de pe lista electorală complementară, modelului listei electorale suplimentare, al extrasului de pe copia listei electorale permanente, complementare sau a listei suplimentare, al declaraţiei de acceptare a candidaturii, al declaraţiei de renunţare la candidatură, al listei susţinătorilor, precum şi a modelului listei membrilor organizaţiei cetăţenilor aparţinând unei minorităţi naţionale, ce sunt folosite la alegerile locale parţiale din perioada 2009-2012 | [`hg/2009/15/`](hg/2009/15/) | amending act | 1 | 2009-01-23 | 2009-01-23 |
@@ -5506,14 +5507,41 @@
 | Hotărârea Guvernului nr. 30/2009 privind exercitarea, cu caracter temporar, a funcţiei publice de prefect al judeţului Iaşi de către domnul Lupu Victorel | [`hg/2009/30/`](hg/2009/30/) | in force | 1 | 2009-01-23 | 2009-01-23 |
 | Hotărârea Guvernului nr. 33/2009 | [`hg/2009/33/`](hg/2009/33/) | in force | 2 | 2009-01-27 | 2009-02-13 |
 | Hotărârea Guvernului nr. 34/2009 | [`hg/2009/34/`](hg/2009/34/) | in force | 22 | 2009-01-28 | 2025-04-07 |
+| Hotărârea Guvernului nr. 38/2009 privind aplicarea mobilităţii pentru domnul Culeţu Dănuţ din funcţia publică de prefect al judeţului Constanţa în funcţia publică de inspector guvernamental | [`hg/2009/38/`](hg/2009/38/) | in force | 1 | 2009-01-29 | 2009-01-29 |
+| Hotărârea Guvernului nr. 39/2009 privind exercitarea, cu caracter temporar, a funcţiei publice de prefect al judeţului Constanţa de către domnul Brăiloiu Tit-Liviu | [`hg/2009/39/`](hg/2009/39/) | in force | 1 | 2009-01-29 | 2009-01-29 |
+| Hotărârea Guvernului nr. 46/2009 privind încetarea exercitării funcţiei publice de prefect al judeţului Mureş de către doamna Pop Felicia | [`hg/2009/46/`](hg/2009/46/) | in force | 1 | 2009-01-29 | 2009-01-29 |
+| Hotărârea Guvernului nr. 47/2009 privind exercitarea, cu caracter temporar, a funcţiei publice de prefect al judeţului Mureş de către domnul Paşcan Emil-Marius | [`hg/2009/47/`](hg/2009/47/) | in force | 1 | 2009-01-29 | 2009-01-29 |
+| Hotărârea Guvernului nr. 48/2009 privind aplicarea mobilităţii pentru domnul Niculcea Zorinel din funcţia publică de prefect al judeţului Teleorman în funcţia publică de inspector guvernamental | [`hg/2009/48/`](hg/2009/48/) | in force | 1 | 2009-01-29 | 2009-01-29 |
+| Hotărârea Guvernului nr. 50/2009 privind modificarea Normelor metodologice de calcul al contribuţiei de asigurare pentru accidente de muncă şi boli profesionale, aprobate prin Hotărârea Guvernului nr. 144/2008 | [`hg/2009/50/`](hg/2009/50/) | amending act | 1 | 2009-02-03 | 2009-02-03 |
 | Hotărârea Guvernului nr. 51/2009 | [`hg/2009/51/`](hg/2009/51/) | in force | 2 | 2009-02-03 | 2009-12-03 |
 | Hotărârea Guvernului nr. 53/2009 | [`hg/2009/53/`](hg/2009/53/) | in force | 1 | 2009-02-18 | 2009-02-18 |
 | Hotărârea Guvernului nr. 54/2009 | [`hg/2009/54/`](hg/2009/54/) | in force | 4 | 2009-02-17 | 2021-06-11 |
 | Hotărârea Guvernului nr. 55/2009 | [`hg/2009/55/`](hg/2009/55/) | in force | 3 | 2010-03-21 | 2021-06-11 |
 | Hotărârea Guvernului nr. 56/2009 | [`hg/2009/56/`](hg/2009/56/) | in force | 1 | 2009-02-16 | 2009-02-16 |
 | Hotărârea Guvernului nr. 57/2009 | [`hg/2009/57/`](hg/2009/57/) | in force | 2 | 2009-02-09 | 2009-12-09 |
+| Hotărârea Guvernului nr. 58/2009 privind acordarea unui ajutor | [`hg/2009/58/`](hg/2009/58/) | in force | 1 | 2009-02-06 | 2009-02-06 |
+| Hotărârea Guvernului nr. 59/2009 privind modificarea raportului de serviciu al prefectului judeţului Olt, domnul Nicolae Ştefan, prin transferarea, la cerere, într-o funcţie publică vacantă în cadrul Autorităţii Naţionale Sanitare Veterinare şi pentru Siguranţa Alimentelor - Direcţia Sanitar-Veterinară şi pentru Siguranţa Alimentelor a Judeţului Olt | [`hg/2009/59/`](hg/2009/59/) | amending act | 1 | 2009-02-06 | 2009-02-06 |
+| Hotărârea Guvernului nr. 61/2009 privind încetarea exercitării funcţiei publice de subprefect al judeţului Botoşani de către domnul Mihai Corneliu | [`hg/2009/61/`](hg/2009/61/) | in force | 1 | 2009-02-06 | 2009-02-06 |
+| Hotărârea Guvernului nr. 62/2009 privind exercitarea, cu caracter temporar, a funcţiei publice de subprefect al judeţului Botoşani de către doamna Afrăsinei Viorica | [`hg/2009/62/`](hg/2009/62/) | in force | 1 | 2009-02-06 | 2009-02-06 |
+| Hotărârea Guvernului nr. 63/2009 privind încetarea raportului de serviciu al subprefectului judeţului Covasna, domnul Banu Gheorghe Dorel, prin acordul părţilor | [`hg/2009/63/`](hg/2009/63/) | in force | 1 | 2009-02-06 | 2009-02-06 |
 | Hotărârea Guvernului nr. 65/2009 | [`hg/2009/65/`](hg/2009/65/) | in force | 6 | 2009-02-11 | 2012-10-23 |
+| Hotărârea Guvernului nr. 66/2009 privind încetarea exercitării funcţiei publice de prefect al judeţului Braşov de către domnul Niţă Emil | [`hg/2009/66/`](hg/2009/66/) | in force | 1 | 2009-02-11 | 2009-02-11 |
+| Hotărârea Guvernului nr. 67/2009 privind exercitarea, cu caracter temporar, a funcţiei publice de prefect al judeţului Braşov de către domnul Gonţea Ion | [`hg/2009/67/`](hg/2009/67/) | in force | 1 | 2009-02-11 | 2009-02-11 |
+| Hotărârea Guvernului nr. 68/2009 privind modificarea raportului de serviciu al prefectului judeţului Brăila, doamna Marcu Mihaela, prin transferarea la cerere într-o funcţie publică de conducere vacantă în cadrul Agenţiei Naţionale de Administrare Fiscală - Direcţia Generală a Finanţelor Publice Brăila | [`hg/2009/68/`](hg/2009/68/) | amending act | 1 | 2009-02-11 | 2009-02-11 |
+| Hotărârea Guvernului nr. 69/2009 privind exercitarea, cu caracter temporar, a funcţiei publice de prefect al judeţului Brăila de către doamna Alexandru Gabriela Loredana | [`hg/2009/69/`](hg/2009/69/) | in force | 1 | 2009-02-11 | 2009-02-11 |
+| Hotărârea Guvernului nr. 70/2009 privind încetarea exercitării funcţiei publice de prefect al judeţului Suceava de către domnul Doroftei Ovidiu | [`hg/2009/70/`](hg/2009/70/) | in force | 1 | 2009-02-11 | 2009-02-11 |
+| Hotărârea Guvernului nr. 72/2009 privind exercitarea, cu caracter temporar, a funcţiei publice de subprefect al judeţului Braşov de către domnul Niţă Emil | [`hg/2009/72/`](hg/2009/72/) | in force | 1 | 2009-02-11 | 2009-02-11 |
 | Hotărârea Guvernului nr. 76/2009 | [`hg/2009/76/`](hg/2009/76/) | in force | 6 | 2009-02-13 | 2012-07-13 |
+| Hotărârea Guvernului nr. 78/2009 privind revocarea din funcţie a guvernatorului Administraţiei Rezervaţiei Biosferei "Delta Dunării" şi numirea domnului Baboianu Grigore în această funcţie | [`hg/2009/78/`](hg/2009/78/) | in force | 1 | 2009-02-12 | 2009-02-12 |
+| Hotărârea Guvernului nr. 81/2009 privind exercitarea, cu caracter temporar, a funcţiei publice de prefect al judeţului Alba de către domnul Bardan Cornel Ştefan | [`hg/2009/81/`](hg/2009/81/) | in force | 1 | 2009-02-18 | 2009-02-18 |
+| Hotărârea Guvernului nr. 82/2009 privind încetarea raportului de serviciu al prefectului judeţului Arad, domnul Popescu Gavril-Florin-Valer, prin acordul părţilor | [`hg/2009/82/`](hg/2009/82/) | in force | 1 | 2009-02-18 | 2009-02-18 |
+| Hotărârea Guvernului nr. 83/2009 privind exercitarea, cu caracter temporar, a funcţiei publice de prefect al judeţului Arad de către domnul Bibarţ Laurenţiu-Călin | [`hg/2009/83/`](hg/2009/83/) | in force | 1 | 2009-02-18 | 2009-02-18 |
+| Hotărârea Guvernului nr. 84/2009 privind modificarea raportului de serviciu al prefectului judeţului Bihor, domnul Ghitea Mircea-Teodor, prin transfer la cerere într-o funcţie publică de conducere vacantă în cadrul Primăriei Municipiului Oradea | [`hg/2009/84/`](hg/2009/84/) | amending act | 1 | 2009-02-18 | 2009-02-18 |
+| Hotărârea Guvernului nr. 85/2009 privind exercitarea, cu caracter temporar, a funcţiei publice de prefect al judeţului Bihor de către domnul Ghilea Găvrilă | [`hg/2009/85/`](hg/2009/85/) | in force | 1 | 2009-02-18 | 2009-02-18 |
+| Hotărârea Guvernului nr. 86/2009 privind constatarea încetării de drept a raportului de serviciu al domnului Szilagyi Ioan, prefect al judeţului Bistriţa-Năsăud | [`hg/2009/86/`](hg/2009/86/) | in force | 1 | 2009-02-18 | 2009-02-18 |
+| Hotărârea Guvernului nr. 87/2009 privind exercitarea, cu caracter temporar, a funcţiei publice de prefect al judeţului Bistriţa-Năsăud de către domnul Florian Daniel-Cristian | [`hg/2009/87/`](hg/2009/87/) | in force | 1 | 2009-02-18 | 2009-02-18 |
+| Hotărârea Guvernului nr. 88/2009 privind aplicarea mobilităţii pentru domnul Platon Gavril Călin din funcţia publică de prefect al judeţului Cluj în funcţia publică de inspector guvernamental | [`hg/2009/88/`](hg/2009/88/) | in force | 1 | 2009-02-18 | 2009-02-18 |
+| Hotărârea Guvernului nr. 89/2009 privind exercitarea, cu caracter temporar, a funcţiei publice de prefect al judeţului Cluj de către domnul Stamatian Vasile-Florin | [`hg/2009/89/`](hg/2009/89/) | in force | 1 | 2009-02-18 | 2009-02-18 |
 | Hotărârea Guvernului nr. 110/2009 | [`hg/2009/110/`](hg/2009/110/) | in force | 3 | 2009-03-02 | 2012-08-21 |
 | Hotărârea Guvernului nr. 112/2009 | [`hg/2009/112/`](hg/2009/112/) | in force | 4 | 2009-03-02 | 2010-03-26 |
 | Hotărârea Guvernului nr. 186/2009 | [`hg/2009/186/`](hg/2009/186/) | in force | 11 | 2009-02-27 | 2024-01-01 |
