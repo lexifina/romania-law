@@ -1,6 +1,6 @@
 # Every act in this repository
 
-17987 acts, 31,613 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+17998 acts, 31,624 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -5225,7 +5225,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (12771, of which 6317 amending acts)
+## Government decisions (HG) (12782, of which 6323 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -8718,6 +8718,17 @@
 | Hotărârea Guvernului nr. 137/2015 | [`hg/2015/137/`](hg/2015/137/) | in force | 1 | 2015-03-12 | 2015-03-12 |
 | Hotărârea Guvernului nr. 148/2015 privind actualizarea valorii de inventar și a datelor de identificare, precum și aprobarea închirierii unor imobile sau părți din acestea aflate în domeniul public al statului și în administrarea unităților subordonate Ministerului Sănătății | [`hg/2015/148/`](hg/2015/148/) | in force | 2 | 2015-03-16 | 2023-02-15 |
 | Hotărârea Guvernului nr. 171/2015 | [`hg/2015/171/`](hg/2015/171/) | in force | 1 | 2015-03-25 | 2015-03-25 |
+| Hotărârea Guvernului nr. 175/2015 privind încetarea exercitării, cu caracter temporar, prin detaşare în condiţiile legii, a funcţiei publice de subprefect al judeţului Sibiu de către domnul Radu Lucian | [`hg/2015/175/`](hg/2015/175/) | in force | 1 | 2015-03-19 | 2015-03-19 |
+| Hotărârea Guvernului nr. 176/2015 privind exercitarea, cu caracter temporar, prin detaşare în condiţiile legii, a funcţiei publice de subprefect al judeţului Sibiu de către doamna Şandru Anca Livia | [`hg/2015/176/`](hg/2015/176/) | in force | 1 | 2015-03-19 | 2015-03-19 |
+| Hotărârea Guvernului nr. 178/2015 privind exercitarea, cu caracter temporar, prin detaşare în condiţiile legii, a funcţiei publice de subprefect al judeţului Suceava de către domnul Harasim Constantin | [`hg/2015/178/`](hg/2015/178/) | in force | 1 | 2015-03-19 | 2015-03-19 |
+| Hotărârea Guvernului nr. 179/2015 privind acordarea unor ajutoare de urgenţă | [`hg/2015/179/`](hg/2015/179/) | in force | 1 | 2015-03-19 | 2015-03-19 |
+| Hotărârea Guvernului nr. 180/2015 privind aprobarea bugetului de venituri şi cheltuieli pe anul 2015 al Regiei Autonome "Registrul Auto Român", aflată sub autoritatea Ministerului Transporturilor | [`hg/2015/180/`](hg/2015/180/) | amending act | 1 | 2015-03-19 | 2015-03-19 |
+| Hotărârea Guvernului nr. 181/2015 privind aprobarea bugetului de venituri şi cheltuieli aferent activităţii de privatizare al Oficiului Participaţiilor Statului şi Privatizării în Industrie pe anul 2015 | [`hg/2015/181/`](hg/2015/181/) | amending act | 1 | 2015-03-20 | 2015-03-20 |
+| Hotărârea Guvernului nr. 183/2015 privind suplimentarea bugetului Ministerului Culturii pe anul 2015 pentru plata unor sume prevăzute în titluri executorii având ca obiect acordarea de drepturi salariale | [`hg/2015/183/`](hg/2015/183/) | in force | 1 | 2015-03-23 | 2015-03-23 |
+| Hotărârea Guvernului nr. 188/2015 privind aprobarea bugetului de venituri şi cheltuieli pe anul 2015 al Societăţii Comerciale "Grup Exploatare şi Întreţinere Palat C.F.R." - S.A., aflată sub autoritatea Ministerului Transporturilor | [`hg/2015/188/`](hg/2015/188/) | amending act | 1 | 2015-03-24 | 2015-03-24 |
+| Hotărârea Guvernului nr. 189/2015 pentru modificarea şi completarea Hotărârii Guvernului nr. 786/2014 privind aprobarea Listei instalaţiilor şi obiectivelor speciale de interes naţional, finanţate din fondurile Ministerului Educaţiei Naţionale | [`hg/2015/189/`](hg/2015/189/) | amending act | 1 | 2015-03-23 | 2015-03-23 |
+| Hotărârea Guvernului nr. 190/2015 pentru modificarea şi completarea Normelor metodologice de aplicare a Ordonanţei de urgenţă a Guvernului nr. 92/2013 privind Programul de garantare a creditelor pentru întreprinderi mici şi mijlocii, aprobate prin Hotărârea Guvernului nr. 936/2013 | [`hg/2015/190/`](hg/2015/190/) | amending act | 1 | 2015-03-25 | 2015-03-25 |
+| Hotărârea Guvernului nr. 191/2015 privind aprobarea amendamentului convenit între Guvernul României, prin Ministerul Finanţelor Publice, şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare, prin schimbul de scrisori semnate la Bucureşti la 3 iunie 2014, 10 iunie 2014 şi 17 iunie 2014, la Acordul de împrumut dintre România şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare, destinat finanţării Proiectului privind reforma sectorului sanitar - faza a II-a, semnat la Bucureşti la 28 ianuarie 2005 | [`hg/2015/191/`](hg/2015/191/) | amending act | 1 | 2015-04-07 | 2015-04-07 |
 | Hotărârea Guvernului nr. 193/2015 pentru aprobarea modului de repartizare şi de utilizare a sumelor prevăzute la lit. c) şi d) din anexa nr. 3/13/02a la Legea bugetului de stat pe anul 2015 nr. 186/2014 | [`hg/2015/193/`](hg/2015/193/) | amending act | 1 | 2015-03-24 | 2015-03-24 |
 | Hotărârea Guvernului nr. 194/2015 privind suplimentarea bugetului Ministerului Transporturilor din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2015, pentru finanţarea unor cheltuieli ale Şcolii Superioare de Aviaţie Civilă | [`hg/2015/194/`](hg/2015/194/) | in force | 1 | 2015-03-24 | 2015-03-24 |
 | Hotărârea Guvernului nr. 195/2015 privind suplimentarea bugetelor Ministerului Justiţiei, Înaltei Curţi de Casaţie şi Justiţie, Ministerului Public şi Consiliului Superior al Magistraturii pentru plata titlurilor executorii corespunzătoare primelor două tranşe aferente anului 2016 | [`hg/2015/195/`](hg/2015/195/) | in force | 1 | 2015-03-24 | 2015-03-24 |
