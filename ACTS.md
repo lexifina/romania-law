@@ -1,6 +1,6 @@
 # Every act in this repository
 
-6588 acts, 19,104 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+6589 acts, 19,105 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -3783,7 +3783,7 @@
 | Ordonanța Guvernului nr. 21/2025 pentru modificarea și completarea Legii nr. 431/2023 privind asigurarea unui nivel minim global de impozitare a grupurilor de întreprinderi multinaționale și a grupurilor naționale de mari dimensiuni | [`og/2025/21/`](og/2025/21/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 | Ordonanța Guvernului nr. 22/2025 pentru modificarea și completarea Legii nr. 227/2015 privind Codul fiscal | [`og/2025/22/`](og/2025/22/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 
-## Government decisions (HG) (2813, of which 928 amending acts)
+## Government decisions (HG) (2814, of which 929 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -6010,6 +6010,7 @@
 | Hotărârea Guvernului nr. 512/2022 pentru modificarea și completarea Normelor referitoare la proveniența, circulația și comercializarea materialelor lemnoase, la regimul spațiilor de depozitare a materialelor lemnoase și al instalațiilor de prelucrat lemn rotund, precum și a celor privind proveniența și circulația materialelor lemnoase destinate consumului propriu al proprietarului și a unor măsuri de aplicare a prevederilor Regulamentului (UE) nr. 995/2010 al Parlamentului European și al Consiliului din 20 octombrie 2010 de stabilire a obligațiilor care revin operatorilor care introduc pe piață lemn și produse din lemn, aprobate prin Hotărârea Guvernului nr. 497/2020 | [`hg/2022/512/`](hg/2022/512/) | amending act | 1 | 2022-04-20 | 2022-04-20 |
 | Hotărârea Guvernului nr. 514/2022 privind aprobarea bugetului de venituri și cheltuieli pe anul 2022 al Regiei Autonome "Administrația Fluvială a Dunării de Jos" Galați, aflată sub autoritatea Ministerului Transporturilor și Infrastructurii | [`hg/2022/514/`](hg/2022/514/) | amending act | 1 | 2022-04-20 | 2022-04-20 |
 | Hotărârea Guvernului nr. 523/2022 privind recunoașterea Asociației Futball Klub Csikszereda Miercurea-Ciuc ca fiind de utilitate publică | [`hg/2022/523/`](hg/2022/523/) | in force | 1 | 2022-04-20 | 2022-04-20 |
+| Hotărârea Guvernului nr. 532/2022 privind modificarea art. 2 alin. (1) din Hotărârea Guvernului nr. 315/2022 pentru aprobarea valorii maxime a costurilor aferente cazării în locațiile stabilite de comitetele județene/al municipiului București pentru situații de urgență pentru cetățenii străini sau apatrizii aflați în situații deosebite care provin din zona conflictului armat din Ucraina și care nu solicită o formă de protecție potrivit Legii nr. 122/2006 privind azilul în România, precum și pentru alocarea unei sume din Fondul de rezervă bugetară la dispoziția Guvernului, prevăzut în bugetul de stat pe anul 2022, pentru suplimentarea bugetului Ministerului Afacerilor Interne | [`hg/2022/532/`](hg/2022/532/) | amending act | 1 | 2022-04-21 | 2022-04-21 |
 | Hotărârea Guvernului nr. 560/2022 pentru aprobarea Strategiei Guvernului României de incluziune a cetățenilor români aparținând minorității rome pentru perioada 2022-2027 | [`hg/2022/560/`](hg/2022/560/) | amending act | 1 | 2022-05-05 | 2022-05-05 |
 | Hotărârea Guvernului nr. 566/2022 privind aprobarea Metodologiei de organizare și funcționare a creșelor și a altor unități de educație timpurie antepreșcolară | [`hg/2022/566/`](hg/2022/566/) | amending act | 1 | 2022-05-04 | 2022-05-04 |
 | Hotărârea Guvernului nr. 568/2022 privind aprobarea bugetului de venituri și cheltuieli pentru anul 2022 al Regiei Autonome "Imprimeria Băncii Naționale a României", aflată în subordinea Băncii Naționale a României | [`hg/2022/568/`](hg/2022/568/) | amending act | 1 | 2022-05-03 | 2022-05-03 |

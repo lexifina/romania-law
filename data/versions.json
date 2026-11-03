@@ -18041,6 +18041,21 @@
    ]
   },
   {
+   "slug": "hg-532-2022",
+   "path": "hg/2022/532",
+   "short": "HG nr. 532/2022",
+   "title": "Hotărârea Guvernului nr. 532/2022 privind modificarea art. 2 alin. (1) din Hotărârea Guvernului nr. 315/2022 pentru aprobarea valorii maxime a costurilor aferente cazării în locațiile stabilite de comitetele județene/al municipiului București pentru situații de urgență pentru cetățenii străini sau apatrizii aflați în situații deosebite care provin din zona conflictului armat din Ucraina și care nu solicită o formă de protecție potrivit Legii nr. 122/2006 privind azilul în România, precum și pentru alocarea unei sume din Fondul de rezervă bugetară la dispoziția Guvernului, prevăzut în bugetul de stat pe anul 2022, pentru suplimentarea bugetului Ministerului Afacerilor Interne",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/254338",
+   "versions": [
+    {
+     "from": "2022-04-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/254338",
+     "sha256": "93e7ea90506a24b40ca505646774c8dea0a8e2d7ad35e52969e4362c884e1860"
+    }
+   ]
+  },
+  {
    "slug": "hg-534-2007",
    "path": "hg/2007/534",
    "short": "HG nr. 534/2007",
@@ -20840,21 +20855,6 @@
    ]
   },
   {
-   "slug": "hg-756-2022",
-   "path": "hg/2022/756",
-   "short": "HG nr. 756/2022",
-   "title": "Hotărârea Guvernului nr. 756/2022 pentru modificarea și completarea anexei nr. 2 la Legea nr. 121/2019 privind evaluarea și gestionarea zgomotului ambiant",
-   "url": "https://legislatie.just.ro/Public/DetaliiDocument/256430",
-   "versions": [
-    {
-     "from": "2022-06-15",
-     "units": 1,
-     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/256430",
-     "sha256": "e236c57705b352a42ab893e15330d6f767032d2389665bc6833afdb8c7c41c22"
-    }
-   ]
-  },
-  {
    "slug": "hg-759-2010",
    "path": "hg/2010/759",
    "short": "HG nr. 759/2010",
@@ -22450,27 +22450,6 @@
      "units": 33,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/246437",
      "sha256": "da8f53417698578521d52cf573ce2f31253dc53fa02624efa2363e88899f237c"
-    }
-   ]
-  },
-  {
-   "slug": "hg-931-2023",
-   "path": "hg/2023/931",
-   "short": "HG nr. 931/2023",
-   "title": "Hotărârea Guvernului nr. 931/2023 pentru modificarea și completarea Hotărârii Guvernului nr. 740/2016 privind punerea la dispoziție pe piață a echipamentelor radio, precum și a Hotărârii Guvernului nr. 487/2016 privind compatibilitatea electromagnetică",
-   "url": "https://legislatie.just.ro/Public/DetaliiDocument/275240",
-   "versions": [
-    {
-     "from": "2023-10-12",
-     "units": 3,
-     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/275240",
-     "sha256": "c5714f0bb5e9644b34c64c746653ef70e373bedee0635f0ef046428b294e9e4c"
-    },
-    {
-     "from": "2023-11-11",
-     "units": 3,
-     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/275240",
-     "sha256": "c5714f0bb5e9644b34c64c746653ef70e373bedee0635f0ef046428b294e9e4c"
     }
    ]
   },
@@ -173758,6 +173737,21 @@
    ]
   },
   {
+   "slug": "hg-756-2022",
+   "path": "hg/2022/756",
+   "short": "HG nr. 756/2022",
+   "title": "Hotărârea Guvernului nr. 756/2022 pentru modificarea și completarea anexei nr. 2 la Legea nr. 121/2019 privind evaluarea și gestionarea zgomotului ambiant",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/256430",
+   "versions": [
+    {
+     "from": "2022-06-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/256430",
+     "sha256": "e236c57705b352a42ab893e15330d6f767032d2389665bc6833afdb8c7c41c22"
+    }
+   ]
+  },
+  {
    "slug": "hg-91-2022",
    "short": "HG nr. 91/2022",
    "title": "Hotărârea Guvernului nr. 91/2022 referitoare la propunerea de Regulament al Parlamentului European și al Consiliului de modificare și rectificare a Regulamentului (UE) nr. 508/2014 în ceea ce privește anumite măsuri specifice pentru atenuarea consecințelor agresiunii militare a Rusiei împotriva Ucrainei asupra activităților de pescuit și pentru diminuarea efectelor perturbării pieței cauzate de respectiva agresiune militară asupra lanțului de aprovizionare cu produse pescărești și din acvacultură - COM(2022) 179 final",
@@ -173796,6 +173790,27 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/256603",
      "sha256": "667146d7c44ddc64e86db09c8bda4454f0e34281957f2e9c99e6b61d9e22cda0"
+    }
+   ]
+  },
+  {
+   "slug": "hg-931-2023",
+   "path": "hg/2023/931",
+   "short": "HG nr. 931/2023",
+   "title": "Hotărârea Guvernului nr. 931/2023 pentru modificarea și completarea Hotărârii Guvernului nr. 740/2016 privind punerea la dispoziție pe piață a echipamentelor radio, precum și a Hotărârii Guvernului nr. 487/2016 privind compatibilitatea electromagnetică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/275240",
+   "versions": [
+    {
+     "from": "2023-10-12",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/275240",
+     "sha256": "c5714f0bb5e9644b34c64c746653ef70e373bedee0635f0ef046428b294e9e4c"
+    },
+    {
+     "from": "2023-11-11",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/275240",
+     "sha256": "c5714f0bb5e9644b34c64c746653ef70e373bedee0635f0ef046428b294e9e4c"
     }
    ]
   },
