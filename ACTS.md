@@ -1,6 +1,6 @@
 # Every act in this repository
 
-14255 acts, 27,844 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+14266 acts, 27,855 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -4782,7 +4782,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (9482, of which 4342 amending acts)
+## Government decisions (HG) (9493, of which 4346 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -5668,10 +5668,21 @@
 | Hotărârea Guvernului nr. 423/2007 privind suplimentarea bugetului Ministerului Culturii şi Cultelor din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2007, pentru Patriarhia Bisericii Ortodoxe Române şi Arhiepiscopia Română Unită cu Roma, Greco-Catolică, Alba Iulia şi Făgăraş | [`hg/2007/423/`](hg/2007/423/) | in force | 1 | 2007-05-11 | 2007-05-11 |
 | Hotărârea Guvernului nr. 424/2007 privind plata justei despăgubiri şi a dobânzii legale aferente acesteia Societăţii Comerciale "Aţa Odorhei" - S.R.L | [`hg/2007/424/`](hg/2007/424/) | in force | 1 | 2007-05-11 | 2007-05-11 |
 | Hotărârea Guvernului nr. 425/2007 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2007, pentru judeţul Cluj | [`hg/2007/425/`](hg/2007/425/) | in force | 1 | 2007-05-11 | 2007-05-11 |
+| Hotărârea Guvernului nr. 427/2007 privind transmiterea unui imobil aflat în domeniul public al statului din administrarea Ministerului Apărării în administrarea Ministerului Sănătăţii Publice, pentru construirea Spitalului Regional de Urgenţă Constanţa | [`hg/2007/427/`](hg/2007/427/) | in force | 1 | 2007-05-18 | 2007-05-18 |
 | Hotărârea Guvernului nr. 428/2007 privind repartizarea pe proiecte a sumelor defalcate din taxa pe valoarea adăugată pentru finanţarea Programului de dezvoltare a infrastructurii şi a unor baze sportive din spaţiul rural | [`hg/2007/428/`](hg/2007/428/) | in force | 1 | 2007-05-16 | 2007-05-16 |
+| Hotărârea Guvernului nr. 430/2007 pentru aprobarea plăţii de către Comisia Naţională pentru Controlul Activităţilor Nucleare a contribuţiei la costurile naţionale de participare la programele de cooperare tehnică ale Agenţiei Internaţionale pentru Energie Atomică, furnizată în cadrul proiectelor ROM/9/026 "Sprijin acordat infrastructurii organismului de reglementare şi misiunilor de experţi în domeniul securităţii nucleare", ROM/9/027 - "Consolidarea capacităţilor naţionale în domeniul radioprotecţiei" şi ROM/9/028 - "Asistenţa tehnică acordată Organismului Nuclear de reglementare al României în vederea îmbunătăţirii competenţelor de reglementare" | [`hg/2007/430/`](hg/2007/430/) | amending act | 1 | 2007-05-17 | 2007-05-17 |
+| Hotărârea Guvernului nr. 432/2007 pentru aprobarea organizării Conferinţei de lansare în România a programelor de cooperare teritorială la graniţele interne ale Uniunii Europene, Bucureşti, 14-15 iunie 2007 | [`hg/2007/432/`](hg/2007/432/) | amending act | 1 | 2007-05-18 | 2007-05-18 |
+| Hotărârea Guvernului nr. 433/2007 privind acordarea unui ajutor | [`hg/2007/433/`](hg/2007/433/) | in force | 1 | 2007-05-17 | 2007-05-17 |
 | Hotărârea Guvernului nr. 434/2007 privind acordarea unui ajutor | [`hg/2007/434/`](hg/2007/434/) | in force | 1 | 2007-05-17 | 2007-05-17 |
 | Hotărârea Guvernului nr. 435/2007 privind acordarea unui ajutor | [`hg/2007/435/`](hg/2007/435/) | in force | 1 | 2007-05-17 | 2007-05-17 |
 | Hotărârea Guvernului nr. 436/2007 privind acordarea unui ajutor | [`hg/2007/436/`](hg/2007/436/) | in force | 1 | 2007-05-17 | 2007-05-17 |
+| Hotărârea Guvernului nr. 437/2007 privind acordarea unor ajutoare de urgenţă | [`hg/2007/437/`](hg/2007/437/) | in force | 1 | 2007-05-18 | 2007-05-18 |
+| Hotărârea Guvernului nr. 439/2007 privind aprobarea susţinerii includerii României în Programul Visa Waiver | [`hg/2007/439/`](hg/2007/439/) | amending act | 1 | 2007-05-17 | 2007-05-17 |
+| Hotărârea Guvernului nr. 440/2007 privind plata contribuţiei voluntare a României pentru participarea la cea de-a 2-a expediţie multinaţională privind monitorizarea calităţii apelor fluviului Dunărea de la izvor până la vărsare | [`hg/2007/440/`](hg/2007/440/) | in force | 1 | 2007-05-18 | 2007-05-18 |
+| Hotărârea Guvernului nr. 442/2007 privind transmiterea unei părţi dintr-un imobil din domeniul public al statului şi din administrarea Ministerului Internelor şi Reformei Administrative în domeniul public al judeţului Bihor şi în administrarea Consiliului Judeţean Bihor | [`hg/2007/442/`](hg/2007/442/) | in force | 1 | 2007-05-18 | 2007-05-18 |
+| Hotărârea Guvernului nr. 443/2007 pentru aprobarea cheltuielilor ocazionate de organizarea întâlnirii Grupului de lucru pentru produsele de protecţie a plantelor al Organizaţiei Europene şi Mediteraneene pentru Protecţia Plantelor | [`hg/2007/443/`](hg/2007/443/) | amending act | 1 | 2007-05-18 | 2007-05-18 |
+| Hotărârea Guvernului nr. 458/2007 privind suplimentarea bugetului Cancelariei Primului-Ministru din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2007, pentru Agenţia Naţională pentru Sport | [`hg/2007/458/`](hg/2007/458/) | in force | 1 | 2007-05-18 | 2007-05-18 |
+| Hotărârea Guvernului nr. 459/2007 privind suplimentarea bugetului Cancelariei Primului-Ministru din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2007, pentru Agenţia Naţională pentru Sport | [`hg/2007/459/`](hg/2007/459/) | in force | 1 | 2007-05-18 | 2007-05-18 |
 | Hotărârea Guvernului nr. 463/2007 | [`hg/2007/463/`](hg/2007/463/) | in force | 3 | 2007-05-21 | 2008-06-03 |
 | Hotărârea Guvernului nr. 475/2007 | [`hg/2007/475/`](hg/2007/475/) | in force | 8 | 2007-05-31 | 2015-04-22 |
 | Hotărârea Guvernului nr. 490/2007 | [`hg/2007/490/`](hg/2007/490/) | in force | 1 | 2007-05-31 | 2007-05-31 |
