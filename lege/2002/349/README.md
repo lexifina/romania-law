@@ -48,3 +48,82 @@ Act id: `legea-349-2002` (tags `legea-349-2002/<day>`; `python tools/on.py <day>
 - Legea nr. 349/2002: articles a form leaves out are shown repealed on the day the repealing act took effect (on publication for an emergency ordinance, 3 days after for a law, unless the act sets its own day), credited to that act as its repeal note names it: art. 13, left out from the form of 31.12.2004: repealed by Legea nr. 90/2004, in force 31.12.2004 (its art. III: in force on 31 December 2004 (save points 6-7 and the provisions it names in art. 3, in force on 1 January 2007), published in Monitorul Oficial nr. 342 of 20 April 2004); art. 8^1, left out from the form of 31.10.2008: repealed by Legea nr. 203/2008, in force 31.10.2008 (a law with no day of its own: in force 3 days after publication in Monitorul Oficial nr. 729 of 28 October 2008 (Constituția art. 78)).
 - Legea nr. 349/2002: articles already shown repealed that a later form prints again as "Abrogat" are typesetting, committed as the publisher's: 17.03.2016 art-008-1, 17.03.2016 art-013.
 - Legea nr. 349/2002: 10 changed article(s) with no note naming a law, committed as the publisher's: 2003-06-25 art-001, 2008-02-14 art-007, 2008-02-14 art-008-1, 2008-02-14 art-014, 2016-03-17 art-003-2, 2016-03-17 art-006, 2016-03-17 art-007, 2016-03-17 art-014, 2016-03-17 art-015, 2024-03-31 art-007-1.
+
+## Credits corrected
+
+These changes were first published credited to another law. The words are unchanged; `git blame` still names the commit that wrote them, and `data/credits.csv` lists every corrected credit.
+
+- `art-002.md`, in force from 2003-06-25: OG nr. 13/2003 (first published as no law named).
+- `art-003.md`, in force from 2003-06-25: Legea nr. 275/2003 (first published as no law named).
+- `art-007.md`, in force from 2003-06-25: Legea nr. 275/2003 (first published as no law named).
+- `art-010.md`, in force from 2003-06-25: OG nr. 13/2003 (first published as no law named).
+- `art-012.md`, in force from 2003-06-25: Legea nr. 275/2003 (first published as no law named).
+- `art-013.md`, in force from 2003-06-25: OG nr. 13/2003 (first published as no law named).
+- `art-001.md`, in force from 2004-12-31: Legea nr. 90/2004 (first published as no law named).
+- `art-002.md`, in force from 2004-12-31: Legea nr. 90/2004 (first published as no law named).
+- `art-003.md`, in force from 2004-12-31: Legea nr. 90/2004 (first published as no law named).
+- `art-003-1.md`, in force from 2004-12-31: Legea nr. 90/2004 (first published as no law named).
+- `art-003-2.md`, in force from 2004-12-31: Legea nr. 90/2004 (first published as no law named).
+- `art-003-3.md`, in force from 2004-12-31: Legea nr. 90/2004 (first published as no law named).
+- `art-003-4.md`, in force from 2004-12-31: Legea nr. 90/2004 (first published as no law named).
+- `art-006.md`, in force from 2004-12-31: Legea nr. 90/2004 (first published as no law named).
+- `art-007.md`, in force from 2004-12-31: Legea nr. 90/2004 (first published as no law named).
+- `art-007-1.md`, in force from 2004-12-31: Legea nr. 90/2004 (first published as no law named).
+- `art-009-1.md`, in force from 2004-12-31: Legea nr. 90/2004 (first published as no law named).
+- `art-010.md`, in force from 2004-12-31: Legea nr. 90/2004 (first published as no law named).
+- `art-010-1.md`, in force from 2004-12-31: Legea nr. 90/2004 (first published as no law named).
+- `art-013.md`, in force from 2004-12-31: Legea nr. 90/2004 (first published as no law named).
+- `art-014.md`, in force from 2004-12-31: Legea nr. 90/2004 (first published as no law named).
+- `art-014-1.md`, in force from 2004-12-31: Legea nr. 90/2004 (first published as no law named).
+- `art-002.md`, in force from 2007-01-01: OUG nr. 58/2006 (first published as no law named).
+- `art-006.md`, in force from 2007-01-01: OUG nr. 58/2006 (first published as no law named).
+- `art-014-2.md`, in force from 2007-01-01: OUG nr. 58/2006 (first published as no law named).
+- `art-015.md`, in force from 2007-01-01: OUG nr. 58/2006 (first published as no law named).
+- `art-002.md`, in force from 2008-02-03: OG nr. 5/2008 (first published as no law named).
+- `art-003.md`, in force from 2008-02-03: OG nr. 5/2008 (first published as no law named).
+- `art-003-2.md`, in force from 2008-02-03: OG nr. 5/2008 (first published as no law named).
+- `art-003-4.md`, in force from 2008-02-03: OG nr. 5/2008 (first published as no law named).
+- `art-006.md`, in force from 2008-02-03: OG nr. 5/2008 (first published as no law named).
+- `art-007.md`, in force from 2008-02-03: OG nr. 5/2008 (first published as no law named).
+- `art-008-1.md`, in force from 2008-02-03: OG nr. 5/2008 (first published as no law named).
+- `art-010.md`, in force from 2008-02-03: OG nr. 5/2008 (first published as no law named).
+- `art-011.md`, in force from 2008-02-03: OG nr. 5/2008 (first published as no law named).
+- `art-012.md`, in force from 2008-02-03: OG nr. 5/2008 (first published as no law named).
+- `art-014.md`, in force from 2008-02-03: OG nr. 5/2008 (first published as no law named).
+- `art-014-1.md`, in force from 2008-02-03: OG nr. 5/2008 (first published as no law named).
+- `art-008-1.md`, in force from 2008-10-31: Legea nr. 203/2008 (first published as no law named).
+- `art-010.md`, in force from 2008-10-31: Legea nr. 203/2008 (first published as no law named).
+- `art-001.md`, in force from 2016-03-17: Legea nr. 15/2016 (first published as no law named).
+- `art-002.md`, in force from 2016-03-17: Legea nr. 15/2016 (first published as no law named).
+- `art-003.md`, in force from 2016-03-17: Legea nr. 15/2016 (first published as no law named).
+- `art-005.md`, in force from 2016-03-17: Legea nr. 15/2016 (first published as no law named).
+- `art-009.md`, in force from 2016-03-17: Legea nr. 15/2016 (first published as no law named).
+- `art-010.md`, in force from 2016-03-17: Legea nr. 15/2016 (first published as no law named).
+- `art-011.md`, in force from 2016-03-17: Legea nr. 15/2016 (first published as no law named).
+- `art-012.md`, in force from 2016-03-17: Legea nr. 15/2016 (first published as no law named).
+- `art-014-1.md`, in force from 2016-03-17: Legea nr. 15/2016 (first published as no law named).
+- `art-001.md`, in force from 2016-12-10: Legea nr. 201/2016 (first published as no law named).
+- `art-002.md`, in force from 2016-12-10: Legea nr. 201/2016 (first published as no law named).
+- `art-003.md`, in force from 2016-12-10: Legea nr. 201/2016 (first published as no law named).
+- `art-003-1.md`, in force from 2016-12-10: Legea nr. 201/2016 (first published as no law named).
+- `art-003-2.md`, in force from 2016-12-10: Legea nr. 201/2016 (first published as no law named).
+- `art-003-3.md`, in force from 2016-12-10: Legea nr. 201/2016 (first published as no law named).
+- `art-003-4.md`, in force from 2016-12-10: Legea nr. 201/2016 (first published as no law named).
+- `art-006.md`, in force from 2016-12-10: Legea nr. 201/2016 (first published as no law named).
+- `art-007.md`, in force from 2016-12-10: Legea nr. 201/2016 (first published as no law named).
+- `art-007-1.md`, in force from 2016-12-10: Legea nr. 201/2016 (first published as no law named).
+- `art-010.md`, in force from 2016-12-10: Legea nr. 201/2016 (first published as no law named).
+- `art-011.md`, in force from 2016-12-10: Legea nr. 201/2016 (first published as no law named).
+- `art-012.md`, in force from 2016-12-10: Legea nr. 201/2016 (first published as no law named).
+- `art-014-1.md`, in force from 2016-12-10: Legea nr. 201/2016 (first published as no law named).
+- `art-014-2.md`, in force from 2016-12-10: Legea nr. 201/2016 (first published as no law named).
+- `art-015.md`, in force from 2016-12-10: Legea nr. 201/2016 (first published as no law named).
+- `art-010.md`, in force from 2022-03-26: Legea nr. 64/2022 (first published as no law named).
+- `art-014-1.md`, in force from 2022-03-26: Legea nr. 64/2022 (first published as no law named).
+- `art-002.md`, in force from 2024-03-31: Legea nr. 64/2024 (first published as no law named).
+- `art-003.md`, in force from 2024-03-31: Legea nr. 64/2024 (first published as no law named).
+- `art-005.md`, in force from 2024-03-31: Legea nr. 64/2024 (first published as no law named).
+- `art-010.md`, in force from 2024-03-31: Legea nr. 64/2024 (first published as no law named).
+- `art-014-1.md`, in force from 2024-03-31: Legea nr. 64/2024 (first published as no law named).
+- `art-010.md`, in force from 2024-11-11: OUG nr. 128/2024 (first published as no law named).
+- `art-014.md`, in force from 2024-11-11: OUG nr. 128/2024 (first published as no law named).
