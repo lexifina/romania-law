@@ -1,6 +1,6 @@
 # Every act in this repository
 
-19759 acts, 33,390 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+19767 acts, 33,398 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (3139, of which 1690 amending acts)
+## Laws (legi) (3142, of which 1693 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -1048,6 +1048,9 @@
 | Legea nr. 166/2012 | [`lege/2012/166/`](lege/2012/166/) | in force | 1 | 2012-10-14 | 2012-10-14 |
 | Legea nr. 173/2012 | [`lege/2012/173/`](lege/2012/173/) | in force | 1 | 2012-10-19 | 2012-10-19 |
 | Legea nr. 187/2012 pentru punerea în aplicare a Legii nr. 286/2009 privind Codul penal | [`lege/2012/187/`](lege/2012/187/) | in force | 7 | 2012-11-15 | 2023-07-09 |
+| Legea nr. 188/2012 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 21/2011 privind unele măsuri pentru organizarea şi funcţionarea Consiliului de supraveghere | [`lege/2012/188/`](lege/2012/188/) | amending act | 1 | 2012-11-04 | 2012-11-04 |
+| Legea nr. 189/2012 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 13/2012 pentru modificarea şi completarea Legii nr. 506/2004 privind prelucrarea datelor cu caracter personal şi protecţia vieţii private în sectorul comunicaţiilor electronice | [`lege/2012/189/`](lege/2012/189/) | amending act | 1 | 2012-11-03 | 2012-11-03 |
+| Legea nr. 193/2012 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 2/2012 pentru modificarea şi completarea Legii nr. 31/1990 privind societăţile comerciale | [`lege/2012/193/`](lege/2012/193/) | amending act | 1 | 2012-11-03 | 2012-11-03 |
 | Legea nr. 196/2012 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 15/2012 privind stabilirea unor măsuri financiare în domeniul asigurărilor sociale de sănătate şi al finanţelor publice | [`lege/2012/196/`](lege/2012/196/) | amending act | 1 | 2012-11-08 | 2012-11-08 |
 | Legea nr. 197/2012 privind asigurarea calității în domeniul serviciilor sociale | [`lege/2012/197/`](lege/2012/197/) | in force | 11 | 2012-11-12 | 2024-12-17 |
 | Legea nr. 198/2012 | [`lege/2012/198/`](lege/2012/198/) | in force | 1 | 2012-11-16 | 2012-11-16 |
@@ -5392,7 +5395,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (14376, of which 7312 amending acts)
+## Government decisions (HG) (14381, of which 7315 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -8690,6 +8693,11 @@
 | Hotărârea Guvernului nr. 987/2012 | [`hg/2012/987/`](hg/2012/987/) | in force | 1 | 2012-10-17 | 2012-10-17 |
 | Hotărârea Guvernului nr. 1000/2012 | [`hg/2012/1000/`](hg/2012/1000/) | in force | 5 | 2012-10-29 | 2022-12-20 |
 | Hotărârea Guvernului nr. 1018/2012 | [`hg/2012/1018/`](hg/2012/1018/) | in force | 2 | 2012-10-29 | 2019-06-21 |
+| Hotărârea Guvernului nr. 1048/2012 privind transmiterea, fără plată, a unor bunuri mobile, proprietate privată a statului, din administrarea Ministerului Apărării Naţionale în administrarea Ministerului Administraţiei şi Internelor | [`hg/2012/1048/`](hg/2012/1048/) | in force | 1 | 2012-10-30 | 2012-10-30 |
+| Hotărârea Guvernului nr. 1049/2012 privind aprobarea Normelor metodologice pentru aplicarea prevederilor Legii nr. 226/2011 privind reparaţiile morale şi materiale pentru fostele cadre militare active, îndepărtate abuziv din armată în perioada 23 august 1944 - 31 decembrie 1961 | [`hg/2012/1049/`](hg/2012/1049/) | amending act | 1 | 2012-11-14 | 2012-11-14 |
+| Hotărârea Guvernului nr. 1050/2012 privind trecerea Centrului pentru Artele Spectacolului "Sala Palatului" din subordinea Ministerului Culturii şi Patrimoniului Naţional în subordinea Secretariatului General al Guvernului, precum şi pentru modificarea unor acte normative | [`hg/2012/1050/`](hg/2012/1050/) | amending act | 1 | 2012-11-02 | 2012-11-02 |
+| Hotărârea Guvernului nr. 1051/2012 privind stabilirea pentru anul 2012 a cuantumului plăţilor naţionale directe complementare care se acordă în agricultură în sectorul vegetal | [`hg/2012/1051/`](hg/2012/1051/) | in force | 1 | 2012-10-31 | 2012-10-31 |
+| Hotărârea Guvernului nr. 1052/2012 pentru modificarea Hotărârii Guvernului nr. 975/2011 privind aprobarea ajutoarelor de stat care se acordă producătorilor agricoli pentru perioada 2011-2012 şi a sumei totale alocate acestor ajutoare de stat | [`hg/2012/1052/`](hg/2012/1052/) | amending act | 1 | 2012-10-31 | 2012-10-31 |
 | Hotărârea Guvernului nr. 1054/2012 privind numirea unui consul general | [`hg/2012/1054/`](hg/2012/1054/) | in force | 1 | 2012-11-02 | 2012-11-02 |
 | Hotărârea Guvernului nr. 1055/2012 | [`hg/2012/1055/`](hg/2012/1055/) | in force | 1 | 2012-11-01 | 2012-11-01 |
 | Hotărârea Guvernului nr. 1056/2012 pentru modificarea anexei nr. 2 la Hotărârea Guvernului nr. 652/2009 privind organizarea şi funcţionarea Ministerului Justiţiei | [`hg/2012/1056/`](hg/2012/1056/) | amending act | 1 | 2012-11-05 | 2012-11-05 |

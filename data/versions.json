@@ -106439,6 +106439,21 @@
    ]
   },
   {
+   "slug": "hg-1048-2012",
+   "path": "hg/2012/1048",
+   "short": "HG nr. 1048/2012",
+   "title": "Hotărârea Guvernului nr. 1048/2012 privind transmiterea, fără plată, a unor bunuri mobile, proprietate privată a statului, din administrarea Ministerului Apărării Naţionale în administrarea Ministerului Administraţiei şi Internelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/142397",
+   "versions": [
+    {
+     "from": "2012-10-30",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142397",
+     "sha256": "f3cbaa959e826775baa80fd9130e828fe94a48e1513581ce8920c458c6621064"
+    }
+   ]
+  },
+  {
    "slug": "hg-1048-2020",
    "path": "hg/2020/1048",
    "short": "HG nr. 1048/2020",
@@ -106540,6 +106555,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97361",
      "sha256": "440c7ac83091870c806eeb11f966ea0d5a074c772420a2ef5a696c2356961056"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1049-2012",
+   "path": "hg/2012/1049",
+   "short": "HG nr. 1049/2012",
+   "title": "Hotărârea Guvernului nr. 1049/2012 privind aprobarea Normelor metodologice pentru aplicarea prevederilor Legii nr. 226/2011 privind reparaţiile morale şi materiale pentru fostele cadre militare active, îndepărtate abuziv din armată în perioada 23 august 1944 - 31 decembrie 1961",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/142787",
+   "versions": [
+    {
+     "from": "2012-11-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142787",
+     "sha256": "20a6d874c4281a2597b082903657c577c5992036aa6e8fa2df318cb156983cde"
     }
    ]
   },
@@ -106784,6 +106814,21 @@
    ]
   },
   {
+   "slug": "hg-1050-2012",
+   "path": "hg/2012/1050",
+   "short": "HG nr. 1050/2012",
+   "title": "Hotărârea Guvernului nr. 1050/2012 privind trecerea Centrului pentru Artele Spectacolului \"Sala Palatului\" din subordinea Ministerului Culturii şi Patrimoniului Naţional în subordinea Secretariatului General al Guvernului, precum şi pentru modificarea unor acte normative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/142516",
+   "versions": [
+    {
+     "from": "2012-11-02",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142516",
+     "sha256": "8d286a6e567426408e043c8ec654ac20c05761eddc53bc10c3eee2201fb52e01"
+    }
+   ]
+  },
+  {
    "slug": "hg-1050-2014",
    "path": "hg/2014/1050",
    "short": "HG nr. 1050/2014",
@@ -106870,6 +106915,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85331",
      "sha256": "ffa7b5e3d456026bb4dfc17f000ad71cbedd807937902e86ddb537e22b007579"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1051-2012",
+   "path": "hg/2012/1051",
+   "short": "HG nr. 1051/2012",
+   "title": "Hotărârea Guvernului nr. 1051/2012 privind stabilirea pentru anul 2012 a cuantumului plăţilor naţionale directe complementare care se acordă în agricultură în sectorul vegetal",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/142420",
+   "versions": [
+    {
+     "from": "2012-10-31",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142420",
+     "sha256": "98530da7a0ee5959f2a47a6713eaf4573355a1498b285485189ab1ee521d78d4"
     }
    ]
   },
@@ -106975,6 +107035,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97332",
      "sha256": "c0a4cf35128a87df95cadf5443c1f5f7750d7546732ddd46f4824c20f930ee85"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1052-2012",
+   "path": "hg/2012/1052",
+   "short": "HG nr. 1052/2012",
+   "title": "Hotărârea Guvernului nr. 1052/2012 pentru modificarea Hotărârii Guvernului nr. 975/2011 privind aprobarea ajutoarelor de stat care se acordă producătorilor agricoli pentru perioada 2011-2012 şi a sumei totale alocate acestor ajutoare de stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/142422",
+   "versions": [
+    {
+     "from": "2012-10-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142422",
+     "sha256": "17580d66598e3723069e58d3b5eb506dd05750f4e974cc3219ca97e243662cca"
     }
    ]
   },
@@ -319943,6 +320018,21 @@
    ]
   },
   {
+   "slug": "legea-188-2012",
+   "path": "lege/2012/188",
+   "short": "Legea nr. 188/2012",
+   "title": "Legea nr. 188/2012 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 21/2011 privind unele măsuri pentru organizarea şi funcţionarea Consiliului de supraveghere",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/142450",
+   "versions": [
+    {
+     "from": "2012-11-04",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142450",
+     "sha256": "7482fa6e90b26a4d965e28fcf69697e1bae113a4789524961d71913835702d0b"
+    }
+   ]
+  },
+  {
    "slug": "legea-188-2013",
    "path": "lege/2013/188",
    "short": "Legea nr. 188/2013",
@@ -320065,6 +320155,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/83127",
      "sha256": "0d0d5e8845c050b71daaa03918e215529f008bc6cb3f7898c9b26e4917a8ba25"
+    }
+   ]
+  },
+  {
+   "slug": "legea-189-2012",
+   "path": "lege/2012/189",
+   "short": "Legea nr. 189/2012",
+   "title": "Legea nr. 189/2012 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 13/2012 pentru modificarea şi completarea Legii nr. 506/2004 privind prelucrarea datelor cu caracter personal şi protecţia vieţii private în sectorul comunicaţiilor electronice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/142430",
+   "versions": [
+    {
+     "from": "2012-11-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142430",
+     "sha256": "7f5f71041c4164d2d4cef065ab4ae8c310b1011c44a8522ff6a7a6bd99f4f76c"
     }
    ]
   },
@@ -320620,6 +320725,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/304602",
      "sha256": "1c0358275cc0a3ae9df340942e28730439fdef217dcc8f1ce912261624335094"
+    }
+   ]
+  },
+  {
+   "slug": "legea-193-2012",
+   "path": "lege/2012/193",
+   "short": "Legea nr. 193/2012",
+   "title": "Legea nr. 193/2012 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 2/2012 pentru modificarea şi completarea Legii nr. 31/1990 privind societăţile comerciale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/142433",
+   "versions": [
+    {
+     "from": "2012-11-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142433",
+     "sha256": "a7825c14b49486e65e0c34bd018c87c10258f2258ab4f9e2f42408c9cf23d905"
     }
    ]
   },
