@@ -36722,6 +36722,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/103709"
 },
 {
+"slug": "oug-149-2007",
+"path": "oug/2007/149",
+"kind": "oug",
+"year": "2007",
+"number": "149",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 149/2007",
+"short": "OUG nr. 149/2007",
+"code": null,
+"status": "in force",
+"versions": 3,
+"from": "2007-12-21",
+"latest": "2010-05-10",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/88098"
+},
+{
 "slug": "oug-151-2007",
 "path": "oug/2007/151",
 "kind": "oug",

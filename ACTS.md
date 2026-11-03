@@ -1,6 +1,6 @@
 # Every act in this repository
 
-6076 acts, 17,457 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+6077 acts, 17,460 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -1822,7 +1822,7 @@
 | Legea nr. 241/2025 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 31/2002 privind interzicerea organizațiilor, simbolurilor și faptelor cu caracter fascist, legionar, rasist sau xenofob și a promovării cultului persoanelor vinovate de săvârșirea unor infracțiuni de genocid contra umanității și de crime de război, precum și pentru modificarea Legii nr. 157/2018 privind unele măsuri pentru prevenirea și combaterea antisemitismului | [`lege/2025/241/`](lege/2025/241/) | amending act | 1 | 2025-12-27 | 2025-12-27 |
 | Legea nr. 245/2025 pentru modificarea art. 32 alin. (7) din Legea nr. 273/2006 privind finanțele publice locale | [`lege/2025/245/`](lege/2025/245/) | amending act | 1 | 2026-01-01 | 2026-01-01 |
 
-## Emergency ordinances (OUG) (1484, of which 521 amending acts)
+## Emergency ordinances (OUG) (1485, of which 521 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -2200,6 +2200,7 @@
 | Ordonanța de urgență a Guvernului nr. 138/2007 | [`oug/2007/138/`](oug/2007/138/) | in force | 1 | 2007-12-08 | 2007-12-08 |
 | Ordonanța de urgență a Guvernului nr. 141/2007 | [`oug/2007/141/`](oug/2007/141/) | in force | 3 | 2007-12-20 | 2009-05-05 |
 | Ordonanța de urgență a Guvernului nr. 146/2007 | [`oug/2007/146/`](oug/2007/146/) | in force | 2 | 2007-12-20 | 2008-10-23 |
+| Ordonanța de urgență a Guvernului nr. 149/2007 | [`oug/2007/149/`](oug/2007/149/) | in force | 3 | 2007-12-21 | 2010-05-10 |
 | Ordonanța de urgență a Guvernului nr. 151/2007 pentru completarea destinaţiei unor părţi din imobile situate în municipiul Bucureşti | [`oug/2007/151/`](oug/2007/151/) | amending act | 2 | 2007-12-21 | 2009-02-23 |
 | Ordonanța de urgență a Guvernului nr. 152/2007 | [`oug/2007/152/`](oug/2007/152/) | in force | 2 | 2007-12-21 | 2008-06-05 |
 | Ordonanța de urgență a Guvernului nr. 153/2007 | [`oug/2007/153/`](oug/2007/153/) | in force | 2 | 2007-12-21 | 2008-03-30 |

@@ -55166,6 +55166,33 @@
    ]
   },
   {
+   "slug": "oug-149-2007",
+   "path": "oug/2007/149",
+   "short": "OUG nr. 149/2007",
+   "title": "Ordonanța de urgență a Guvernului nr. 149/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/88098",
+   "versions": [
+    {
+     "from": "2007-12-21",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/88098",
+     "sha256": "a9de3e9091224f759bcccf8927128085f72256cb9cb472d28a2d21238933c062"
+    },
+    {
+     "from": "2008-04-08",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/103710",
+     "sha256": "c864911a00fe65bebb40ad47e6454f56f81cd684693e51c8e7952babf3919b3a"
+    },
+    {
+     "from": "2010-05-10",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/88098",
+     "sha256": "138efbbb5a2aa1540ecf35c6075f51970432957dd524f6019c9973e8141b0fdd"
+    }
+   ]
+  },
+  {
    "slug": "oug-15-2015",
    "path": "oug/2015/15",
    "short": "OUG nr. 15/2015",
