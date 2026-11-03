@@ -1,6 +1,6 @@
 # Every act in this repository
 
-17781 acts, 31,407 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+17804 acts, 31,430 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (2950, of which 1534 amending acts)
+## Laws (legi) (2957, of which 1541 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -1148,10 +1148,17 @@
 | Legea nr. 136/2015 | [`lege/2015/136/`](lege/2015/136/) | in force | 2 | 2015-06-13 | 2024-03-29 |
 | Legea nr. 140/2015 | [`lege/2015/140/`](lege/2015/140/) | in force | 1 | 2015-06-14 | 2015-06-14 |
 | Legea nr. 141/2015 | [`lege/2015/141/`](lege/2015/141/) | in force | 1 | 2015-06-14 | 2015-06-14 |
+| Legea nr. 143/2015 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 132/2010 pentru modificarea şi completarea Legii nr. 132/1999 privind înfiinţarea, organizarea şi funcţionarea Consiliului Naţional de Formare Profesională a Adulţilor | [`lege/2015/143/`](lege/2015/143/) | amending act | 1 | 2015-06-22 | 2015-06-22 |
+| Legea nr. 146/2015 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 93/2014 privind realizarea unor angajamente ce derivă din hotărârile Curţii Europene a Drepturilor Omului Moldovan şi alţii împotriva României nr. 1 din 5 iulie 2005 şi Moldovan şi alţii împotriva României nr. 2 din 12 iulie 2005 | [`lege/2015/146/`](lege/2015/146/) | amending act | 1 | 2015-06-18 | 2015-06-18 |
+| Legea nr. 147/2015 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 78/2013 pentru completarea Ordonanţei de urgenţă a Guvernului nr. 93/2012 privind înfiinţarea, organizarea şi funcţionarea Autorităţii de Supraveghere Financiară | [`lege/2015/147/`](lege/2015/147/) | amending act | 1 | 2015-06-21 | 2015-06-21 |
 | Legea nr. 151/2015 privind procedura insolvenței persoanelor fizice | [`lege/2015/151/`](lege/2015/151/) | in force | 2 | 2015-06-29 | 2018-01-01 |
+| Legea nr. 153/2015 pentru modificarea art. 18 din Legea educaţiei naţionale nr. 1/2011 | [`lege/2015/153/`](lege/2015/153/) | amending act | 1 | 2015-06-25 | 2015-06-25 |
+| Legea nr. 154/2015 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 96/2003 privind protecţia maternităţii la locurile de muncă | [`lege/2015/154/`](lege/2015/154/) | amending act | 1 | 2015-06-25 | 2015-06-25 |
+| Legea nr. 156/2015 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 63/2014 pentru modificarea şi completarea unor acte normative din domeniul agriculturii | [`lege/2015/156/`](lege/2015/156/) | amending act | 1 | 2015-06-26 | 2015-06-26 |
 | Legea nr. 157/2015 | [`lege/2015/157/`](lege/2015/157/) | in force | 1 | 2015-06-26 | 2015-06-26 |
 | Legea nr. 158/2015 | [`lege/2015/158/`](lege/2015/158/) | in force | 1 | 2015-06-26 | 2015-06-26 |
 | Legea nr. 159/2015 | [`lege/2015/159/`](lege/2015/159/) | in force | 1 | 2015-06-26 | 2015-06-26 |
+| Legea nr. 161/2015 privind modificarea art. 12 alin. (3) din Ordonanţa de urgenţă a Guvernului nr. 5/2010 pentru înfiinţarea, organizarea şi funcţionarea Autorităţii Naţionale pentru Cetăţenie | [`lege/2015/161/`](lege/2015/161/) | amending act | 1 | 2015-07-02 | 2015-07-02 |
 | Legea nr. 162/2015 privind aprobarea Ordonanţei Guvernului nr. 9/2015 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 127/2007 privind Gruparea europeană de cooperare teritorială | [`lege/2015/162/`](lege/2015/162/) | amending act | 1 | 2015-06-29 | 2015-06-29 |
 | Legea nr. 165/2015 privind aprobarea Ordonanţei Guvernului nr. 22/2014 pentru modificarea şi completarea Legii nr. 122/2006 privind azilul în România | [`lege/2015/165/`](lege/2015/165/) | amending act | 1 | 2015-06-29 | 2015-06-29 |
 | Legea nr. 169/2015 privind ratificarea Acordului dintre Guvernul României şi Organizaţia pentru Eliberarea Palestinei privind dobândirea, pe bază de reciprocitate, a dreptului de proprietate asupra terenurilor pentru buna funcţionare a misiunilor diplomatice şi oficiilor consulare, semnat la Bethlehem la 24 decembrie 2013 | [`lege/2015/169/`](lege/2015/169/) | in force | 1 | 2015-07-06 | 2015-07-06 |
@@ -5185,7 +5192,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (12605, of which 6208 amending acts)
+## Government decisions (HG) (12621, of which 6220 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -8697,7 +8704,23 @@
 | Hotărârea Guvernului nr. 414/2015 | [`hg/2015/414/`](hg/2015/414/) | in force | 1 | 2015-06-19 | 2015-06-19 |
 | Hotărârea Guvernului nr. 417/2015 | [`hg/2015/417/`](hg/2015/417/) | in force | 1 | 2015-06-19 | 2015-06-19 |
 | Hotărârea Guvernului nr. 418/2015 | [`hg/2015/418/`](hg/2015/418/) | in force | 1 | 2015-06-23 | 2015-06-23 |
+| Hotărârea Guvernului nr. 428/2015 privind modificarea valorii de inventar a unor imobile aflate în domeniul public al statului şi în administrarea Senatului României | [`hg/2015/428/`](hg/2015/428/) | amending act | 1 | 2015-06-19 | 2015-06-19 |
+| Hotărârea Guvernului nr. 429/2015 privind suplimentarea bugetului Ministerului Mediului, Apelor şi Pădurilor pe anul 2015 pentru plata unor sume prevăzute în titluri executorii având ca obiect acordarea de drepturi salariale | [`hg/2015/429/`](hg/2015/429/) | in force | 1 | 2015-06-16 | 2015-06-16 |
+| Hotărârea Guvernului nr. 430/2015 privind aprobarea bugetului de venituri şi cheltuieli pe anul 2015 al Societăţii Comerciale "Institutul de Cercetare-Proiectare Rulmenţi şi Organe de Asamblare" - ICPROA - S.A. Braşov, aflată sub autoritatea Autorităţii Naţionale pentru Cercetare Ştiinţifică şi Inovare | [`hg/2015/430/`](hg/2015/430/) | amending act | 1 | 2015-06-19 | 2015-06-19 |
+| Hotărârea Guvernului nr. 431/2015 privind modificarea anexei nr. 44 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului | [`hg/2015/431/`](hg/2015/431/) | amending act | 1 | 2015-06-19 | 2015-06-19 |
+| Hotărârea Guvernului nr. 432/2015 pentru aprobarea Acordului dintre Guvernul României şi Guvernul Statului Israel pentru cooperare în domeniul tehnologiei informaţiei şi comunicaţiilor, semnat la Tel Aviv la 14 septembrie 2014 | [`hg/2015/432/`](hg/2015/432/) | amending act | 1 | 2015-06-23 | 2015-06-23 |
+| Hotărârea Guvernului nr. 433/2015 privind modificarea valorii de inventar a unui imobil aflat în domeniul public al statului şi în administrarea Ministerului Afacerilor Interne - Unitatea Militară 0854 Fălticeni | [`hg/2015/433/`](hg/2015/433/) | amending act | 1 | 2015-06-19 | 2015-06-19 |
 | Hotărârea Guvernului nr. 434/2015 | [`hg/2015/434/`](hg/2015/434/) | in force | 2 | 2015-06-19 | 2020-06-11 |
+| Hotărârea Guvernului nr. 435/2015 privind actualizarea valorii de inventar a unui imobil aflat în domeniul public al statului şi în administrarea Ministerului Afacerilor Interne | [`hg/2015/435/`](hg/2015/435/) | in force | 1 | 2015-06-18 | 2015-06-18 |
+| Hotărârea Guvernului nr. 436/2015 pentru aprobarea Amendamentului convenit prin schimbul de scrisori semnate la Bucureşti la 19 ianuarie 2015, la 27 ianuarie 2015 şi respectiv la 4 februarie 2015 între Guvernul României şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare la Acordul de împrumut (Proiect privind completarea sprijinului financiar acordat de Uniunea Europeană pentru restructurarea agriculturii) dintre România şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare, semnat la Bucureşti la 28 decembrie 2007 | [`hg/2015/436/`](hg/2015/436/) | amending act | 1 | 2015-06-19 | 2015-06-19 |
+| Hotărârea Guvernului nr. 438/2015 privind numirea unui controlor financiar şef adjunct la Corpul controlorilor delegaţi din cadrul Ministerului Finanţelor Publice | [`hg/2015/438/`](hg/2015/438/) | in force | 1 | 2015-06-18 | 2015-06-18 |
+| Hotărârea Guvernului nr. 439/2015 privind trecerea din domeniul public al statului în domeniul privat al statului a unor mijloace fixe aflate în administrarea Ministerului Transporturilor şi în concesiunea Companiei Naţionale de Căi Ferate "C.F.R." - S.A. - sucursalele regionale CF Bucureşti şi Craiova, în vederea scoaterii din funcţiune, casării şi valorificării, după caz | [`hg/2015/439/`](hg/2015/439/) | in force | 1 | 2015-06-23 | 2015-06-23 |
+| Hotărârea Guvernului nr. 440/2015 privind trecerea din domeniul public în domeniul privat al statului a unor construcţii şi amenajări la terenuri din cadrul unor imobile aflate în administrarea Ministerului Apărării Naţionale, situate în judeţele Prahova, Dolj, Vaslui, Sălaj, Timiş, Tulcea, Constanţa şi Argeş, în vederea scoaterii din funcţiune şi casării acestora şi pentru actualizarea anexei nr. 4 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului | [`hg/2015/440/`](hg/2015/440/) | amending act | 1 | 2015-06-19 | 2015-06-19 |
+| Hotărârea Guvernului nr. 441/2015 privind aprobarea stemei comunei Brăeşti, judeţul Buzău | [`hg/2015/441/`](hg/2015/441/) | amending act | 1 | 2015-07-16 | 2015-07-16 |
+| Hotărârea Guvernului nr. 443/2015 privind aprobarea stemei comunei Dumbrăveni, judeţul Vrancea | [`hg/2015/443/`](hg/2015/443/) | amending act | 1 | 2015-07-16 | 2015-07-16 |
+| Hotărârea Guvernului nr. 444/2015 privind aprobarea unei sume din bugetul asigurărilor pentru şomaj pe anul 2015 ce se va aloca pentru plata venitului lunar de completare pentru persoanele disponibilizate de la Societatea Naţională Închideri de Mine Valea Jiului - S.A | [`hg/2015/444/`](hg/2015/444/) | amending act | 1 | 2015-06-17 | 2015-06-17 |
+| Hotărârea Guvernului nr. 446/2015 pentru modificarea art. 2 din Hotărârea Guvernului nr. 206/1995 privind reorganizarea Institutului Naţional de Informaţii în Academia Naţională de Informaţii "Mihai Viteazul", în subordinea Serviciului Român de Informaţii | [`hg/2015/446/`](hg/2015/446/) | amending act | 1 | 2015-06-22 | 2015-06-22 |
+| Hotărârea Guvernului nr. 447/2015 privind aprobarea stemei comunei Socond, judeţul Satu Mare | [`hg/2015/447/`](hg/2015/447/) | amending act | 1 | 2015-07-16 | 2015-07-16 |
 | Hotărârea Guvernului nr. 448/2015 privind aprobarea bugetului de venituri şi cheltuieli pe anul 2015 pentru Societatea Naţională de Radiocomunicaţii - S.A., aflată sub autoritatea Ministerului pentru Societatea Informaţională | [`hg/2015/448/`](hg/2015/448/) | amending act | 1 | 2015-07-01 | 2015-07-01 |
 | Hotărârea Guvernului nr. 450/2015 privind unele măsuri pentru organizarea Zilei Justiţiei în anul 2015 | [`hg/2015/450/`](hg/2015/450/) | in force | 1 | 2015-06-26 | 2015-06-26 |
 | Hotărârea Guvernului nr. 451/2015 pentru aprobarea amendamentului convenit prin schimbul de scrisori semnate la Bucureşti la 28 ianuarie 2015 şi la Paris la 11 februarie 2015 între Guvernul României şi Banca de Dezvoltare a Consiliului Europei la Acordul-cadru de împrumut dintre România şi Banca de Dezvoltare a Consiliului Europei pentru finanţarea Proiectului privind dezvoltarea la nivel local de servicii comunitare de prevenire a separării copilului de familia sa, precum şi instruirea personalului aferent, semnat la Bucureşti la 29 ianuarie 2007 şi la Paris la 9 februarie 2007 | [`hg/2015/451/`](hg/2015/451/) | amending act | 1 | 2015-06-26 | 2015-06-26 |
