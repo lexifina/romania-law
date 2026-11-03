@@ -1,6 +1,6 @@
 # Every act in this repository
 
-10209 acts, 23,731 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+10210 acts, 23,732 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -32,7 +32,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (2195, of which 919 amending acts)
+## Laws (legi) (2196, of which 920 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -1506,6 +1506,7 @@
 | Legea nr. 281/2021 pentru aprobarea Ordonanței Guvernului nr. 15/2021 privind reglementarea unor măsuri fiscal-bugetare | [`lege/2021/281/`](lege/2021/281/) | amending act | 2 | 2021-12-05 | 2022-04-15 |
 | Legea nr. 283/2021 pentru modificarea și completarea Legii nr. 122/2011 privind regimul armelor, dispozitivelor militare și munițiilor deținute de Ministerul Apărării Naționale și de forțele armate străine pe teritoriul României | [`lege/2021/283/`](lege/2021/283/) | amending act | 1 | 2021-12-10 | 2021-12-10 |
 | Legea nr. 291/2021 pentru modificarea art. 291 alin. (3) lit. a) din Legea nr. 227/2015 privind Codul fiscal | [`lege/2021/291/`](lege/2021/291/) | amending act | 1 | 2022-01-01 | 2022-01-01 |
+| Legea nr. 294/2021 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 207/2020 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 4/2009 privind reglementarea unor măsuri în domeniul bugetar | [`lege/2021/294/`](lege/2021/294/) | amending act | 1 | 2021-12-17 | 2021-12-17 |
 | Legea nr. 296/2021 privind aprobarea Ordonanței de urgență a Guvernului nr. 33/2021 pentru modificarea și completarea Legii nr. 156/2000 privind protecția cetățenilor români care lucrează în străinătate | [`lege/2021/296/`](lege/2021/296/) | amending act | 1 | 2021-12-17 | 2021-12-17 |
 | Legea nr. 297/2021 pentru ratificarea Tratatului dintre România şi Regatul Haşemit al Iordaniei privind extrădarea, semnat la Amman la 4 aprilie 2021 | [`lege/2021/297/`](lege/2021/297/) | in force | 1 | 2021-12-18 | 2021-12-18 |
 | Legea nr. 300/2021 pentru ratificarea Acordului , semnat la Bruxelles la 27 ianuarie 2021 şi 8 februarie 2021, dintre Regatul Belgiei, Republica Bulgaria, Republica Cehă, Regatul Danemarcei, Republica Federală Germania, Republica Estonia, Irlanda, Republica Elenă, Regatul Spaniei, Republica Franceză, Republica Croaţia, Republica Italiană, Republica Cipru, Republica Letonia, Republica Lituania, Marele Ducat al Luxemburgului, Ungaria, Republica Malta, Regatul Ţărilor de Jos, Republica Austria, Republica Polonă, Republica Portugheză, România, Republica Slovenia, Republica Slovacă şi Republica Finlanda de modificare a Acordului privind transferul şi mutualizarea contribuţiilor la Fondul unic de rezoluţie , semnat la Bruxelles la 21 mai 2014 | [`lege/2021/300/`](lege/2021/300/) | amending act | 1 | 2021-12-18 | 2021-12-18 |
