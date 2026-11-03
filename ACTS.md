@@ -1,6 +1,6 @@
 # Every act in this repository
 
-16031 acts, 29,655 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+16032 acts, 29,656 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -4973,7 +4973,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (11067, of which 5272 amending acts)
+## Government decisions (HG) (11068, of which 5272 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -8800,6 +8800,7 @@
 | Hotărârea Guvernului nr. 118/2018 pentru aprobarea Regulamentului-cadru privind stabilirea locurilor de muncă, a categoriilor de personal, a mărimii concrete a sporului pentru condiții de muncă, precum și a condițiilor de acordare a acestuia pentru familia ocupațională de funcții bugetare "Justiție" și Curtea Constituțională | [`hg/2018/118/`](hg/2018/118/) | amending act | 1 | 2018-03-26 | 2018-03-26 |
 | Hotărârea Guvernului nr. 128/2018 pentru aprobarea modului de repartizare și de utilizare a sumelor prevăzute la lit. a) și b) din anexa nr. 3/13/02a la bugetul Secretariatului General al Guvernului, aprobat prin Legea bugetului de stat pe anul 2018 nr. 2/2018 | [`hg/2018/128/`](hg/2018/128/) | amending act | 1 | 2018-03-27 | 2018-03-27 |
 | Hotărârea Guvernului nr. 140/2018 pentru aprobarea pachetelor de servicii și a Contractului-cadru care reglementează condițiile acordării asistenței medicale, a medicamentelor și a dispozitivelor medicale în cadrul sistemului de asigurări sociale de sănătate pentru anii 2018-2019 | [`hg/2018/140/`](hg/2018/140/) | amending act | 1 | 2018-04-01 | 2018-04-01 |
+| Hotărârea Guvernului nr. 149/2018 privind înscrierea în inventarul centralizat al bunurilor din domeniul public al statului a unor imobile şi darea acestora în administrarea Oficiului de Cadastru şi Publicitate Imobiliară Vrancea pentru Biroul de Cadastru şi Publicitate Imobiliară Adjud | [`hg/2018/149/`](hg/2018/149/) | in force | 1 | 2018-03-29 | 2018-03-29 |
 | Hotărârea Guvernului nr. 151/2018 privind acordarea unor ajutoare de urgenţă familiilor cetăţenilor români afectaţi de explozia de la uzina chimică din Kralupy nad Vltavou, Republica Cehă | [`hg/2018/151/`](hg/2018/151/) | in force | 1 | 2018-03-29 | 2018-03-29 |
 | Hotărârea Guvernului nr. 152/2018 privind aprobarea bugetului de venituri şi cheltuieli pe anul 2018 al Societăţii Comerciale "Compania Naţională de Transporturi Aeriene Române - TAROM" - S.A., aflată sub autoritatea Ministerului Transporturilor | [`hg/2018/152/`](hg/2018/152/) | amending act | 1 | 2018-03-29 | 2018-03-29 |
 | Hotărârea Guvernului nr. 153/2018 pentru aprobarea Regulamentului-cadru privind stabilirea locurilor de muncă, a categoriilor de personal, a mărimii concrete a sporului pentru condiții de muncă prevăzut în anexa nr. II la Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, precum și a condițiilor de acordare a acestuia, pentru familia ocupațională de funcții bugetare "Sănătate și asistență socială" | [`hg/2018/153/`](hg/2018/153/) | amending act | 1 | 2018-03-30 | 2018-03-30 |
