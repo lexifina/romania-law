@@ -9779,6 +9779,21 @@
    ]
   },
   {
+   "slug": "hg-1037-2023",
+   "path": "hg/2023/1037",
+   "short": "HG nr. 1037/2023",
+   "title": "Hotărârea Guvernului nr. 1037/2023 pentru modificarea art. 1 din Hotărârea Guvernului nr. 592/2002 privind instituirea \"Zilei statisticianului\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/275872",
+   "versions": [
+    {
+     "from": "2023-11-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/275872",
+     "sha256": "97f2453b6e9c850c1fbdb1633dcf881218b5763f89cd82854cbd45fa264dab29"
+    }
+   ]
+  },
+  {
    "slug": "hg-1038-2025",
    "path": "hg/2025/1038",
    "short": "HG nr. 1038/2025",
@@ -10798,6 +10813,21 @@
      "units": 18,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/140754",
      "sha256": "3e71b8a32269b8a3ea1fc857a8fe9d0cc478de7f228fc0342f344b9ce089cb28"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1100-2023",
+   "path": "hg/2023/1100",
+   "short": "HG nr. 1100/2023",
+   "title": "Hotărârea Guvernului nr. 1100/2023 privind acordarea cetăţeniei române doamnei C. K",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/276326",
+   "versions": [
+    {
+     "from": "2023-11-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/276326",
+     "sha256": "030a7b4a716dfce1f17e131a3b9972c4b5d3a2c3e83e775c174ac25c8eb1b782"
     }
    ]
   },
@@ -19246,6 +19276,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/311286",
      "sha256": "1a3798e6b1ec8eae0497d661ddd0c7a6aecb6b9a11205ecd50b69521324382fa"
+    }
+   ]
+  },
+  {
+   "slug": "hg-451-2023",
+   "path": "hg/2023/451",
+   "short": "HG nr. 451/2023",
+   "title": "Hotărârea Guvernului nr. 451/2023 privind modificarea şi completarea anexei nr. 1 la Ordonanţa de urgenţă a Guvernului nr. 84/2003 pentru înfiinţarea Companiei Naţionale de Administrare a Infrastructurii Rutiere - S.A. prin reorganizarea Regiei Autonome \"Administraţia Naţională a Drumurilor din România\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/270515",
+   "versions": [
+    {
+     "from": "2023-05-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270515",
+     "sha256": "0b4078bc9275af56caa7f37a35ed87226159a470d530f197b9ed282991f6f503"
     }
    ]
   },
@@ -33290,6 +33335,21 @@
    ]
   },
   {
+   "slug": "legea-147-2023",
+   "path": "lege/2023/147",
+   "short": "Legea nr. 147/2023",
+   "title": "Legea nr. 147/2023 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 9/2023 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 49/2015 privind gestionarea financiară a fondurilor europene nerambursabile aferente politicii agricole comune, politicii comune de pescuit şi politicii maritime integrate la nivelul Uniunii Europene, precum şi a fondurilor alocate de la bugetul de stat pentru perioada de programare 2014-2020 şi pentru modificarea şi completarea unor acte normative din domeniul garantării, precum şi pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 41/2014 privind înfiinţarea, organizarea şi funcţionarea Agenţiei pentru Finanţarea Investiţiilor Rurale, prin reorganizarea Agenţiei de Plăţi pentru Dezvoltare Rurală şi Pescuit",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/270837",
+   "versions": [
+    {
+     "from": "2023-06-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270837",
+     "sha256": "e1fbca61f64e21a3df89cccb802b206e2d5cf57ddf990780f3049e2c347638c1"
+    }
+   ]
+  },
+  {
    "slug": "legea-147-2025",
    "path": "lege/2025/147",
    "short": "Legea nr. 147/2025",
@@ -37726,6 +37786,21 @@
      "units": 51,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/291680",
      "sha256": "ad74a10e0ac094663d9df473f65fc632f20fab9546c47d707e7dfe1d62e2542d"
+    }
+   ]
+  },
+  {
+   "slug": "legea-197-2023",
+   "path": "lege/2023/197",
+   "short": "Legea nr. 197/2023",
+   "title": "Legea nr. 197/2023 pentru aprobarea Ordonanţei Guvernului nr. 27/2022 privind reglementarea unor măsuri financiare prin instituirea schemei de ajutor de minimis în vederea tranziţiei către economia circulară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/271888",
+   "versions": [
+    {
+     "from": "2023-07-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/271888",
+     "sha256": "a118b8a1ac7dfda4fbe300e61fb88661aa7d0634228d01508912237a992cb0d4"
     }
    ]
   },
@@ -44543,6 +44618,21 @@
    ]
   },
   {
+   "slug": "legea-271-2023",
+   "path": "lege/2023/271",
+   "short": "Legea nr. 271/2023",
+   "title": "Legea nr. 271/2023 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 142/2008 privind aprobarea Planului de amenajare a teritoriului naţional Secţiunea a VIII-a - zone cu resurse turistice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/275204",
+   "versions": [
+    {
+     "from": "2023-10-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/275204",
+     "sha256": "b5fe179e45dee96019b31d0113e36e4ab3b6adb9f1fa3e4341af8593a6457af7"
+    }
+   ]
+  },
+  {
    "slug": "legea-271-2024",
    "path": "lege/2024/271",
    "short": "Legea nr. 271/2024",
@@ -47734,6 +47824,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/73587",
      "sha256": "8b61f877eff9bd69c1ddc61e89b6b0b4f4fb0b1e20825a0cddab038375511216"
+    }
+   ]
+  },
+  {
+   "slug": "legea-324-2023",
+   "path": "lege/2023/324",
+   "short": "Legea nr. 324/2023",
+   "title": "Legea nr. 324/2023 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 200/2020 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 60/2019 privind reglementarea unor măsuri pentru stingerea unor obligaţii fiscale şi bugetare, precum şi unele măsuri referitoare la obligaţiile de plată aferente împrumuturilor din venituri din privatizare şi împrumuturilor contractate de statul român de la instituţii de credit şi subîmprumutate operatorilor economici",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/276147",
+   "versions": [
+    {
+     "from": "2023-11-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/276147",
+     "sha256": "3ddf372695580936374b05b438693b83ff8a002f73f796bc9a8aa5c9ff2ad7eb"
     }
    ]
   },
