@@ -1,6 +1,6 @@
 # Every act in this repository
 
-13512 acts, 27,101 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+13521 acts, 27,110 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -4721,7 +4721,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (8800, of which 3969 amending acts)
+## Government decisions (HG) (8809, of which 3974 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -6048,16 +6048,25 @@
 | Hotărârea Guvernului nr. 836/2008 privind recunoaşterea Asociaţiei pentru Implementarea Democraţiei ca fiind de utilitate publică | [`hg/2008/836/`](hg/2008/836/) | in force | 1 | 2008-08-18 | 2008-08-18 |
 | Hotărârea Guvernului nr. 840/2008 pentru modificarea alin. (3) al art. 1 din Hotărârea Guvernului nr. 797/2008 privind suplimentarea bugetului Ministerului Dezvoltării, Lucrărilor Publice şi Locuinţelor din Fondul de intervenţie la dispoziţia Guvernului, pentru înlăturarea efectelor calamităţilor naturale produse în luna iulie 2008 | [`hg/2008/840/`](hg/2008/840/) | amending act | 1 | 2008-08-15 | 2008-08-15 |
 | Hotărârea Guvernului nr. 841/2008 privind suplimentarea bugetului Ministerului Dezvoltării, Lucrărilor Publice şi Locuinţelor din Fondul de intervenţie la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2008, pentru înlăturarea efectelor calamităţilor naturale produse în luna iulie 2008 | [`hg/2008/841/`](hg/2008/841/) | in force | 1 | 2008-08-15 | 2008-08-15 |
+| Hotărârea Guvernului nr. 843/2008 privind declanşarea procedurilor de expropriere a imobilelor proprietate privată situate pe amplasamentul lucrării "Reabilitare DN 6 Drobeta-Turnu Severin - Lugoj", între km 358+000 şi km 495+800, pe teritoriul localităţilor Plugova şi Iablaniţa | [`hg/2008/843/`](hg/2008/843/) | in force | 1 | 2008-08-21 | 2008-08-21 |
 | Hotărârea Guvernului nr. 845/2008 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii "Extindere şi supraînălţare depozit zgură şi cenuşă la CET Drobeta-Turnu Severin, etapa a II-a", din cadrul Regiei Autonome pentru Activităţi Nucleare - Sucursala "ROMAG-TERMO" | [`hg/2008/845/`](hg/2008/845/) | amending act | 1 | 2008-08-20 | 2008-08-20 |
 | Hotărârea Guvernului nr. 846/2008 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii "Instalaţia de evacuare în şlam dens a zgurii şi cenuşii" din cadrul Regiei Autonome pentru Activităţi Nucleare - Sucursala "ROMAG-TERMO" | [`hg/2008/846/`](hg/2008/846/) | amending act | 1 | 2008-08-20 | 2008-08-20 |
 | Hotărârea Guvernului nr. 847/2008 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii "Instalaţii de desulfurare a gazelor arse de la grupurile 1, 3, 5 şi 6 de 210 MW de la CTE Mintia" | [`hg/2008/847/`](hg/2008/847/) | amending act | 1 | 2008-08-20 | 2008-08-20 |
 | Hotărârea Guvernului nr. 850/2008 privind preluarea unor sectoare de drumuri naţionale, aflate în domeniul public al statului, din administrarea Consiliului Local al Municipiului Miercurea-Ciuc, judeţul Harghita, în administrarea Ministerului Transporturilor, în vederea realizării de către Compania Naţională de Autostrăzi şi Drumuri Naţionale din România - S.A. a activităţilor de interes naţional în domeniul administrării drumurilor naţionale | [`hg/2008/850/`](hg/2008/850/) | in force | 1 | 2008-08-21 | 2008-08-21 |
+| Hotărârea Guvernului nr. 851/2008 pentru modificarea şi completarea Hotărârii Guvernului nr. 1.564/2003 privind înfiinţarea laboratoarelor publice pentru controlul calităţii şi igienei vinului | [`hg/2008/851/`](hg/2008/851/) | amending act | 1 | 2008-08-21 | 2008-08-21 |
 | Hotărârea Guvernului nr. 852/2008 | [`hg/2008/852/`](hg/2008/852/) | in force | 5 | 2008-08-20 | 2024-03-23 |
 | Hotărârea Guvernului nr. 855/2008 | [`hg/2008/855/`](hg/2008/855/) | in force | 2 | 2008-08-28 | 2023-04-11 |
+| Hotărârea Guvernului nr. 857/2008 privind constituirea şi funcţionarea grupului de experţi responsabili cu organizarea şi susţinerea candidaturii României în vederea obţinerii dreptului de organizare a Festivalului Olimpic al Tineretului European (F.O.T.E.) - ediţia de iarnă, 2013 | [`hg/2008/857/`](hg/2008/857/) | in force | 1 | 2008-08-22 | 2008-08-22 |
+| Hotărârea Guvernului nr. 864/2008 privind alocarea unei sume din Fondul de intervenţie la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2008, pentru înlăturarea efectelor calamităţilor naturale produse în unele judeţe | [`hg/2008/864/`](hg/2008/864/) | in force | 1 | 2008-08-22 | 2008-08-22 |
 | Hotărârea Guvernului nr. 867/2008 | [`hg/2008/867/`](hg/2008/867/) | in force | 1 | 2008-09-09 | 2008-09-09 |
 | Hotărârea Guvernului nr. 869/2008 privind acordarea unui ajutor | [`hg/2008/869/`](hg/2008/869/) | in force | 1 | 2008-08-21 | 2008-08-21 |
+| Hotărârea Guvernului nr. 871/2008 pentru transmiterea unui imobil din domeniul public al statului şi din administrarea Ministerului Internelor şi Reformei Administrative în domeniul privat al statului şi în administrarea Regiei Autonome "Administraţia Patrimoniului Protocolului de Stat" şi pentru completarea anexei nr. 4 la Hotărârea Guvernului nr. 60/2005 privind organizarea şi funcţionarea Regiei Autonome "Administraţia Patrimoniului Protocolului de Stat" | [`hg/2008/871/`](hg/2008/871/) | amending act | 1 | 2008-08-22 | 2008-08-22 |
+| Hotărârea Guvernului nr. 877/2008 privind aprobarea bugetului de venituri şi cheltuieli rectificat pe anul 2008 al Societăţii Comerciale "Compania Naţională de Transporturi Aeriene Române - TAROM" - S.A., aflată sub autoritatea Ministerului Transporturilor | [`hg/2008/877/`](hg/2008/877/) | amending act | 1 | 2008-08-22 | 2008-08-22 |
+| Hotărârea Guvernului nr. 882/2008 pentru modificarea Hotărârii Guvernului nr. 100/2004 privind organizarea şi funcţionarea Ministerului Afacerilor Externe | [`hg/2008/882/`](hg/2008/882/) | amending act | 1 | 2008-08-25 | 2008-08-25 |
 | Hotărârea Guvernului nr. 886/2008 | [`hg/2008/886/`](hg/2008/886/) | in force | 1 | 2008-09-11 | 2008-09-11 |
+| Hotărârea Guvernului nr. 899/2008 privind alocarea unei sume din Fondul de intervenţie la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2008, pentru înlăturarea efectelor calamităţilor naturale produse în judeţul Maramureş | [`hg/2008/899/`](hg/2008/899/) | in force | 1 | 2008-08-22 | 2008-08-22 |
 | Hotărârea Guvernului nr. 901/2008 | [`hg/2008/901/`](hg/2008/901/) | in force | 1 | 2008-10-03 | 2008-10-03 |
+| Hotărârea Guvernului nr. 909/2008 pentru aprobarea rectificării bugetului de venituri şi cheltuieli pe anul 2008 al Comisiei Naţionale pentru Controlul Activităţilor Nucleare | [`hg/2008/909/`](hg/2008/909/) | amending act | 1 | 2008-08-25 | 2008-08-25 |
 | Hotărârea Guvernului nr. 918/2008 | [`hg/2008/918/`](hg/2008/918/) | in force | 1 | 2008-08-28 | 2008-08-28 |
 | Hotărârea Guvernului nr. 926/2008 | [`hg/2008/926/`](hg/2008/926/) | in force | 2 | 2008-08-27 | 2009-02-19 |
 | Hotărârea Guvernului nr. 983/2008 | [`hg/2008/983/`](hg/2008/983/) | in force | 1 | 2008-09-01 | 2008-09-01 |
