@@ -1,6 +1,6 @@
 # Every act in this repository
 
-15356 acts, 28,978 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+15366 acts, 28,988 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (2702, of which 1339 amending acts)
+## Laws (legi) (2705, of which 1342 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -1377,7 +1377,10 @@
 | Legea nr. 237/2018 pentru modificarea Ordonanței Guvernului nr. 105/1999 privind acordarea unor drepturi persoanelor persecutate de către regimurile instaurate în România cu începere de la 6 septembrie 1940 până la 6 martie 1945 din motive etnice | [`lege/2018/237/`](lege/2018/237/) | amending act | 2 | 2018-10-14 | 2019-01-13 |
 | Legea nr. 242/2018 pentru modificarea și completarea Legii nr. 303/2004 privind statutul judecătorilor și procurorilor | [`lege/2018/242/`](lege/2018/242/) | amending act | 2 | 2018-10-18 | 2022-01-01 |
 | Legea nr. 245/2018 privind aprobarea Ordonanței de urgență a Guvernului nr. 33/2017 pentru modificarea și completarea art. 11 din Ordonanța de urgență a Guvernului nr. 22/2009 privind înființarea Autorității Naționale pentru Administrare și Reglementare în Comunicații | [`lege/2018/245/`](lege/2018/245/) | amending act | 1 | 2018-11-08 | 2018-11-08 |
+| Legea nr. 246/2018 pentru completarea art. 42^1 din Legea audiovizualului nr. 504/2002 | [`lege/2018/246/`](lege/2018/246/) | amending act | 1 | 2019-01-01 | 2019-01-01 |
 | Legea nr. 247/2018 pentru modificarea și completarea unor acte normative privind regimul străinilor în România | [`lege/2018/247/`](lege/2018/247/) | amending act | 2 | 2018-11-10 | 2024-03-22 |
+| Legea nr. 250/2018 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 42/2015 pentru modificarea şi completarea unor acte normative din domeniul jocurilor de noroc | [`lege/2018/250/`](lege/2018/250/) | amending act | 1 | 2018-11-10 | 2018-11-10 |
+| Legea nr. 251/2018 pentru completarea art. 19 din Ordonanţa Guvernului nr. 27/2011 privind transporturile rutiere | [`lege/2018/251/`](lege/2018/251/) | amending act | 1 | 2018-11-12 | 2018-11-12 |
 | Legea nr. 252/2018 pentru modificarea și completarea Legii nr. 374/2006 privind suspendarea serviciului public cu specific silvic pentru proprietarii terenurilor forestiere pentru care au fost emise documentele prevăzute la art. III alin. (1) din Legea nr. 169/1997 pentru modificarea și completarea Legii fondului funciar nr. 18/1991 | [`lege/2018/252/`](lege/2018/252/) | amending act | 1 | 2018-11-12 | 2018-11-12 |
 | Legea nr. 253/2018 pentru ratificarea Acordului dintre Guvernul României şi Guvernul Republicii Serbia privind cooperarea în domeniul apărării, semnat la Belgrad la 4 decembrie 2017 | [`lege/2018/253/`](lege/2018/253/) | in force | 1 | 2018-11-16 | 2018-11-16 |
 | Legea nr. 255/2018 pentru ratificarea Acordului de parteneriat cuprinzător şi consolidat dintre Uniunea Europeană şi Comunitatea Europeană a Energiei Atomice şi statele membre ale acestora, pe de o parte, şi Republica Armenia, pe de altă parte, semnat la Bruxelles la 24 noiembrie 2017 | [`lege/2018/255/`](lege/2018/255/) | in force | 1 | 2018-12-10 | 2018-12-10 |
@@ -4921,7 +4924,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (10444, of which 4896 amending acts)
+## Government decisions (HG) (10451, of which 4902 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -8815,8 +8818,15 @@
 | Hotărârea Guvernului nr. 795/2018 privind aprobarea Planului de urgență pentru gestionarea situațiilor de disfuncționalitate majoră în aprovizionarea cu țiței și/sau produse petroliere, a situațiilor de urgență deosebită și a situațiilor de criză locală | [`hg/2018/795/`](hg/2018/795/) | amending act | 1 | 2018-10-10 | 2018-10-10 |
 | Hotărârea Guvernului nr. 830/2018 privind preluarea în depozit de către Centrul Național de Management al Apei Grele a cantităților de apă grea constituite ca stoc rezervă de stat | [`hg/2018/830/`](hg/2018/830/) | in force | 1 | 2018-10-29 | 2018-10-29 |
 | Hotărârea Guvernului nr. 845/2018 pentru aprobarea Regulamentului privind recepția construcțiilor din domeniul infrastructurii rutiere și feroviare de interes național | [`hg/2018/845/`](hg/2018/845/) | amending act | 2 | 2018-11-06 | 2024-03-05 |
+| Hotărârea Guvernului nr. 851/2018 pentru modificarea anexei la Hotărârea Guvernului nr. 429/2008 privind nivelul alocaţiilor de hrană pentru consumurile colective din unităţile sanitare publice | [`hg/2018/851/`](hg/2018/851/) | amending act | 1 | 2018-11-01 | 2018-11-01 |
+| Hotărârea Guvernului nr. 852/2018 privind aprobarea alocării unei sume din bugetul asigurărilor pentru şomaj pe anul 2018 pentru plata venitului lunar de completare de care beneficiază persoanele disponibilizate de la Societatea Complexul Energetic Hunedoara - S.A | [`hg/2018/852/`](hg/2018/852/) | amending act | 1 | 2018-11-02 | 2018-11-02 |
 | Hotărârea Guvernului nr. 853/2018 pentru modificarea și completarea Hotărârii Guvernului nr. 784/2013 privind aprobarea Strategiei naționale antidrog 2013-2020 și a Planului de acțiune în perioada 2013-2016 pentru implementarea Strategiei naționale antidrog 2013-2020 | [`hg/2018/853/`](hg/2018/853/) | amending act | 1 | 2018-11-12 | 2018-11-12 |
+| Hotărârea Guvernului nr. 854/2018 privind actualizarea valorii de inventar a unui imobil aflat în domeniul public al statului şi administrarea Ministerului Afacerilor Interne - Inspectoratul de Poliţie Judeţean Suceava, trecerea acestuia în domeniul public al judeţului Suceava, precum şi înscrierea în inventarul centralizat al bunurilor din domeniul public al statului şi darea în administrarea Ministerului Afacerilor Interne - Inspectoratul de Poliţie Judeţean Suceava a unei părţi din imobilul trecut în domeniul public al statului | [`hg/2018/854/`](hg/2018/854/) | in force | 1 | 2018-11-02 | 2018-11-02 |
 | Hotărârea Guvernului nr. 861/2018 pentru aprobarea Strategiei naționale împotriva traficului de persoane pentru perioada 2018-2022 și a Planului național de acțiune 2018-2020 pentru implementarea Strategiei naționale împotriva traficului de persoane pentru perioada 2018-2022 | [`hg/2018/861/`](hg/2018/861/) | amending act | 2 | 2018-11-09 | 2021-10-25 |
+| Hotărârea Guvernului nr. 865/2018 privind modificarea anexei nr. 40 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului | [`hg/2018/865/`](hg/2018/865/) | amending act | 1 | 2018-11-06 | 2018-11-06 |
+| Hotărârea Guvernului nr. 866/2018 pentru completarea anexei nr. 1 la Hotărârea Guvernului nr. 837/1995 cu privire la criteriile de salarizare în valută şi celelalte drepturi în valută şi în lei ale personalului trimis în misiune permanentă în străinătate | [`hg/2018/866/`](hg/2018/866/) | amending act | 1 | 2018-11-02 | 2018-11-02 |
+| Hotărârea Guvernului nr. 870/2018 privind modificarea anexei nr. 41 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului | [`hg/2018/870/`](hg/2018/870/) | amending act | 1 | 2018-11-20 | 2018-11-20 |
+| Hotărârea Guvernului nr. 871/2018 pentru modificarea Hotărârii Guvernului nr. 396/2018 privind unele măsuri referitoare la pregătirea şi exercitarea de către România a Preşedinţiei Consiliului Uniunii Europene în anul 2019 | [`hg/2018/871/`](hg/2018/871/) | amending act | 1 | 2018-11-16 | 2018-11-16 |
 | Hotărârea Guvernului nr. 873/2018 privind revocarea dreptului de folosinţă gratuită al Muftiatului Cultului Musulman din România asupra unui imobil-teren şi pentru trecerea acestuia din domeniul public al statului şi administrarea Secretariatului de Stat pentru Culte în proprietatea privată a statului şi în administrarea Regiei Autonome "Administraţia Patrimoniului Protocolului de Stat" | [`hg/2018/873/`](hg/2018/873/) | in force | 1 | 2018-11-13 | 2018-11-13 |
 | Hotărârea Guvernului nr. 875/2018 privind trecerea unui imobil din domeniul privat al statului și administrarea Regiei Autonome "Administrația Patrimoniului Protocolului de Stat" în domeniul public al statului și administrarea Secretariatului de Stat pentru Culte și în folosința gratuită a Bisericii Unitariene Maghiare | [`hg/2018/875/`](hg/2018/875/) | in force | 1 | 2018-11-13 | 2018-11-13 |
 | Hotărârea Guvernului nr. 877/2018 privind adoptarea Strategiei naționale pentru dezvoltarea durabilă a României 2030 | [`hg/2018/877/`](hg/2018/877/) | in force | 2 | 2018-11-21 | 2022-06-21 |
