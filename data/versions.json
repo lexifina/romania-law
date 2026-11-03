@@ -11480,6 +11480,27 @@
    ]
   },
   {
+   "slug": "hg-1184-2021",
+   "path": "hg/2021/1184",
+   "short": "HG nr. 1184/2021",
+   "title": "Hotărârea Guvernului nr. 1184/2021 pentru modificarea și completarea Regulamentului de aplicare a Codului vamal al României , aprobat prin Hotărârea Guvernului nr. 707/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/248354",
+   "versions": [
+    {
+     "from": "2021-11-10",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/248354",
+     "sha256": "5352d6bf2f736c8b388b057f79d6a6e754819e7c308864533e6e5db8079bcbf5"
+    },
+    {
+     "from": "2021-11-20",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/248354",
+     "sha256": "5352d6bf2f736c8b388b057f79d6a6e754819e7c308864533e6e5db8079bcbf5"
+    }
+   ]
+  },
+  {
    "slug": "hg-1185-2014",
    "path": "hg/2014/1185",
    "short": "HG nr. 1185/2014",
@@ -17954,6 +17975,27 @@
    ]
   },
   {
+   "slug": "hg-43-2024",
+   "path": "hg/2024/43",
+   "short": "HG nr. 43/2024",
+   "title": "Hotărârea Guvernului nr. 43/2024 privind modificarea și completarea Hotărârii Guvernului nr. 1.017/2018 pentru aprobarea Normelor metodologice privind modalitatea de acordare a drepturilor la transport interurban gratuit persoanelor cu handicap",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/278373",
+   "versions": [
+    {
+     "from": "2024-01-23",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/278373",
+     "sha256": "e30dd8eebb47cd6e6f01a8e91bd2691cce1cbdd5498cb9ec4a17f2c22c56cfd0"
+    },
+    {
+     "from": "2024-02-22",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/278373",
+     "sha256": "e30dd8eebb47cd6e6f01a8e91bd2691cce1cbdd5498cb9ec4a17f2c22c56cfd0"
+    }
+   ]
+  },
+  {
    "slug": "hg-431-2017",
    "path": "hg/2017/431",
    "short": "HG nr. 431/2017",
@@ -19180,6 +19222,33 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119555",
      "sha256": "51f9370098a6653b95c41c69a509ea484a42c47295b9eff0d232c6d91b6d2ffa"
+    }
+   ]
+  },
+  {
+   "slug": "hg-527-2023",
+   "path": "hg/2023/527",
+   "short": "HG nr. 527/2023",
+   "title": "Hotărârea Guvernului nr. 527/2023 privind stabilirea unor măsuri pentru asigurarea aplicării Regulamentului (UE) 2021/782 al Parlamentului European și al Consiliului din 29 aprilie 2021 privind drepturile și obligațiile călătorilor din transportul feroviar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/270951",
+   "versions": [
+    {
+     "from": "2023-06-07",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/270951",
+     "sha256": "ca4bf9d5ea8b71d7253ffefd5ed272807948b3b8256141701f200a13852e5250"
+    },
+    {
+     "from": "2023-06-16",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/270951",
+     "sha256": "ca4bf9d5ea8b71d7253ffefd5ed272807948b3b8256141701f200a13852e5250"
+    },
+    {
+     "from": "2024-12-03",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/270951",
+     "sha256": "ca4bf9d5ea8b71d7253ffefd5ed272807948b3b8256141701f200a13852e5250"
     }
    ]
   },
@@ -24760,6 +24829,27 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/246738",
      "sha256": "e89338279330c492fd550968f21269a64e8f5b006917d154f96eca12c24516fb"
+    }
+   ]
+  },
+  {
+   "slug": "hg-990-2021",
+   "path": "hg/2021/990",
+   "short": "HG nr. 990/2021",
+   "title": "Hotărârea Guvernului nr. 990/2021 pentru modificarea și completarea anexelor nr. 2 și 3 la Hotărârea Guvernului nr. 932/2021 privind prelungirea stării de alertă pe teritoriul României începând cu data de 10 septembrie 2021, precum și stabilirea măsurilor care se aplică pe durata acesteia pentru prevenirea și combaterea efectelor pandemiei de COVID-19",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/246468",
+   "versions": [
+    {
+     "from": "2021-09-17",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/246468",
+     "sha256": "c3eff93084683a147faebb204db7806f7e80578d180bc628dd71db68b3833d1f"
+    },
+    {
+     "from": "2021-09-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/246468",
+     "sha256": "c3eff93084683a147faebb204db7806f7e80578d180bc628dd71db68b3833d1f"
     }
    ]
   },

@@ -103107,6 +103107,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/246738"
 },
 {
+"slug": "hg-990-2021",
+"path": "hg/2021/990",
+"kind": "hg",
+"year": "2021",
+"number": "990",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 990/2021 pentru modificarea și completarea anexelor nr. 2 și 3 la Hotărârea Guvernului nr. 932/2021 privind prelungirea stării de alertă pe teritoriul României începând cu data de 10 septembrie 2021, precum și stabilirea măsurilor care se aplică pe durata acesteia pentru prevenirea și combaterea efectelor pandemiei de COVID-19",
+"short": "HG nr. 990/2021",
+"code": null,
+"status": "amending act",
+"versions": 2,
+"from": "2021-09-17",
+"latest": "2021-09-20",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/246468"
+},
+{
 "slug": "hg-1000-2021",
 "path": "hg/2021/1000",
 "kind": "hg",
@@ -103547,6 +103564,23 @@
 "from": "2021-11-09",
 "latest": "2021-11-09",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/248311"
+},
+{
+"slug": "hg-1184-2021",
+"path": "hg/2021/1184",
+"kind": "hg",
+"year": "2021",
+"number": "1184",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 1184/2021 pentru modificarea și completarea Regulamentului de aplicare a Codului vamal al României , aprobat prin Hotărârea Guvernului nr. 707/2006",
+"short": "HG nr. 1184/2021",
+"code": null,
+"status": "amending act",
+"versions": 2,
+"from": "2021-11-10",
+"latest": "2021-11-20",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/248354"
 },
 {
 "slug": "hg-1203-2021",
@@ -109176,6 +109210,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/270862"
 },
 {
+"slug": "hg-527-2023",
+"path": "hg/2023/527",
+"kind": "hg",
+"year": "2023",
+"number": "527",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 527/2023 privind stabilirea unor măsuri pentru asigurarea aplicării Regulamentului (UE) 2021/782 al Parlamentului European și al Consiliului din 29 aprilie 2021 privind drepturile și obligațiile călătorilor din transportul feroviar",
+"short": "HG nr. 527/2023",
+"code": null,
+"status": "in force",
+"versions": 3,
+"from": "2023-06-07",
+"latest": "2024-12-03",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/270951"
+},
+{
 "slug": "hg-529-2023",
 "path": "hg/2023/529",
 "kind": "hg",
@@ -110415,6 +110466,23 @@
 "from": "2024-01-23",
 "latest": "2024-01-23",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/278381"
+},
+{
+"slug": "hg-43-2024",
+"path": "hg/2024/43",
+"kind": "hg",
+"year": "2024",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 43/2024 privind modificarea și completarea Hotărârii Guvernului nr. 1.017/2018 pentru aprobarea Normelor metodologice privind modalitatea de acordare a drepturilor la transport interurban gratuit persoanelor cu handicap",
+"short": "HG nr. 43/2024",
+"code": null,
+"status": "amending act",
+"versions": 2,
+"from": "2024-01-23",
+"latest": "2024-02-22",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/278373"
 },
 {
 "slug": "hg-51-2024",
