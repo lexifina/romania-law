@@ -1,6 +1,6 @@
 # Every act in this repository
 
-17901 acts, 31,527 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+17912 acts, 31,538 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (2974, of which 1556 amending acts)
+## Laws (legi) (2978, of which 1560 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -1136,7 +1136,11 @@
 | Legea nr. 74/2015 privind administratorii de fonduri de investiții alternative | [`lege/2015/74/`](lege/2015/74/) | in force | 9 | 2015-05-23 | 2026-01-16 |
 | Legea nr. 83/2015 | [`lege/2015/83/`](lege/2015/83/) | in force | 1 | 2015-05-22 | 2015-05-22 |
 | Legea nr. 91/2015 | [`lege/2015/91/`](lege/2015/91/) | in force | 2 | 2015-04-30 | 2015-12-31 |
+| Legea nr. 96/2015 pentru modificarea anexei nr. 3 la Legea nr. 43/2014 privind protecţia animalelor utilizate în scopuri ştiinţifice | [`lege/2015/96/`](lege/2015/96/) | amending act | 1 | 2015-05-11 | 2015-05-11 |
+| Legea nr. 97/2015 pentru modificarea art. 137 alin. (1) din Legea nr. 53/2003 - Codul muncii | [`lege/2015/97/`](lege/2015/97/) | amending act | 1 | 2015-05-11 | 2015-05-11 |
+| Legea nr. 99/2015 pentru modificarea şi completarea Legii nr. 192/2010 privind trecerea unor drumuri forestiere din domeniul public al statului şi din administrarea Regiei Naţionale a Pădurilor - Romsilva în domeniul public al unor unităţi administrativ-teritoriale şi în administrarea consiliilor locale ale acestora | [`lege/2015/99/`](lege/2015/99/) | amending act | 1 | 2015-05-11 | 2015-05-11 |
 | Legea nr. 100/2015 | [`lege/2015/100/`](lege/2015/100/) | in force | 1 | 2015-05-11 | 2015-05-11 |
+| Legea nr. 101/2015 pentru modificarea Legii nr. 299/2007 privind sprijinul acordat românilor de pretutindeni | [`lege/2015/101/`](lege/2015/101/) | amending act | 1 | 2015-05-11 | 2015-05-11 |
 | Legea nr. 102/2015 | [`lege/2015/102/`](lege/2015/102/) | in force | 1 | 2015-05-16 | 2015-05-16 |
 | Legea nr. 103/2015 | [`lege/2015/103/`](lege/2015/103/) | in force | 1 | 2015-05-21 | 2015-05-21 |
 | Legea nr. 105/2015 privind aprobarea Ordonanţei Guvernului nr. 12/2015 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 64/2009 privind gestionarea financiară a instrumentelor structurale şi utilizarea acestora pentru obiectivul convergenţă | [`lege/2015/105/`](lege/2015/105/) | amending act | 1 | 2015-05-21 | 2015-05-21 |
@@ -5209,7 +5213,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (12701, of which 6273 amending acts)
+## Government decisions (HG) (12708, of which 6278 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -8713,6 +8717,13 @@
 | Hotărârea Guvernului nr. 274/2015 | [`hg/2015/274/`](hg/2015/274/) | in force | 1 | 2015-04-29 | 2015-04-29 |
 | Hotărârea Guvernului nr. 294/2015 | [`hg/2015/294/`](hg/2015/294/) | in force | 4 | 2015-05-06 | 2022-07-05 |
 | Hotărârea Guvernului nr. 308/2015 | [`hg/2015/308/`](hg/2015/308/) | in force | 1 | 2015-05-11 | 2015-05-11 |
+| Hotărârea Guvernului nr. 314/2015 pentru aprobarea Protocolului dintre Ministerul Apărării Naţionale din România şi Ministerul Apărării din Republica Armenia privind cooperarea în domeniul pregătirii personalului militar şi civil, semnat la Bucureşti la 26 noiembrie 2014 | [`hg/2015/314/`](hg/2015/314/) | amending act | 1 | 2015-05-13 | 2015-05-13 |
+| Hotărârea Guvernului nr. 315/2015 privind recunoaşterea Asociaţiei "LUMINA" ca fiind de utilitate publică | [`hg/2015/315/`](hg/2015/315/) | in force | 1 | 2015-05-11 | 2015-05-11 |
+| Hotărârea Guvernului nr. 317/2015 privind modificarea valorii de inventar şi/sau completarea şi corectarea datelor de identificare a unor imobile, precum şi scăderea acestora sau a unor părţi ale lor din inventarul centralizat al bunurilor din domeniul public al statului şi din administrarea unităţilor subordonate Ministerului Sănătăţii, ca urmare a retrocedării în condiţiile legii | [`hg/2015/317/`](hg/2015/317/) | amending act | 1 | 2015-05-12 | 2015-05-12 |
+| Hotărârea Guvernului nr. 319/2015 privind suplimentarea bugetului Ministerului Afacerilor Externe pe anul 2015 din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2015 | [`hg/2015/319/`](hg/2015/319/) | in force | 1 | 2015-05-12 | 2015-05-12 |
+| Hotărârea Guvernului nr. 320/2015 privind modificarea şi completarea Normelor metodologice pentru aplicarea prevederilor Legii nr. 297/2013 privind stabilirea relaţiilor contractuale din sectorul laptelui şi al produselor lactate, precum şi recunoaşterea organizaţiilor de producători din sectorul laptelui şi al produselor lactate, aprobate prin Hotărârea Guvernului nr. 441/2014 | [`hg/2015/320/`](hg/2015/320/) | amending act | 1 | 2015-05-12 | 2015-05-12 |
+| Hotărârea Guvernului nr. 321/2015 privind aprobarea Acordului încheiat între Guvernul României şi Guvernul Republicii Bulgaria pentru cooperare în domeniul tehnologiei informaţiei şi comunicaţiilor, semnat la Ruse la 7 martie 2014 | [`hg/2015/321/`](hg/2015/321/) | amending act | 1 | 2015-05-20 | 2015-05-20 |
+| Hotărârea Guvernului nr. 322/2015 pentru modificarea şi completarea anexei la Hotărârea Guvernului nr. 1.361/2006 privind conţinutul instrumentului de prezentare şi motivare a proiectelor de acte normative supuse aprobării Guvernului | [`hg/2015/322/`](hg/2015/322/) | amending act | 1 | 2015-05-19 | 2015-05-19 |
 | Hotărârea Guvernului nr. 324/2015 privind rechemarea unui consul general | [`hg/2015/324/`](hg/2015/324/) | in force | 1 | 2015-05-14 | 2015-05-14 |
 | Hotărârea Guvernului nr. 325/2015 pentru modificarea Hotărârii Guvernului nr. 158/2015 privind suplimentarea bugetului Ministerului Culturii din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2015, pentru finanţarea unui proiect cultural | [`hg/2015/325/`](hg/2015/325/) | amending act | 1 | 2015-05-13 | 2015-05-13 |
 | Hotărârea Guvernului nr. 326/2015 privind suplimentarea numărului maxim de posturi pentru Ministerul Public | [`hg/2015/326/`](hg/2015/326/) | in force | 1 | 2015-05-14 | 2015-05-14 |
