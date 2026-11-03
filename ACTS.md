@@ -1,6 +1,6 @@
 # Every act in this repository
 
-12356 acts, 25,938 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+12357 acts, 25,939 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -4566,7 +4566,7 @@
 | Ordonanța Guvernului nr. 21/2025 pentru modificarea și completarea Legii nr. 431/2023 privind asigurarea unui nivel minim global de impozitare a grupurilor de întreprinderi multinaționale și a grupurilor naționale de mari dimensiuni | [`og/2025/21/`](og/2025/21/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 | Ordonanța Guvernului nr. 22/2025 pentru modificarea și completarea Legii nr. 227/2015 privind Codul fiscal | [`og/2025/22/`](og/2025/22/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 
-## Government decisions (HG) (7799, of which 3365 amending acts)
+## Government decisions (HG) (7800, of which 3365 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -5630,6 +5630,7 @@
 | Hotărârea Guvernului nr. 224/2009 privind modelul timbrului autocolant, condiţiile de tipărire, de gestionare şi de utilizare a acestuia la alegerile pentru membrii din România în Parlamentul European din anul 2009 | [`hg/2009/224/`](hg/2009/224/) | in force | 1 | 2009-03-09 | 2009-03-09 |
 | Hotărârea Guvernului nr. 225/2009 privind aprobarea modelului buletinului de vot care va fi folosit la alegerile pentru membrii din România în Parlamentul European din anul 2009 | [`hg/2009/225/`](hg/2009/225/) | amending act | 1 | 2009-03-09 | 2009-03-09 |
 | Hotărârea Guvernului nr. 229/2009 | [`hg/2009/229/`](hg/2009/229/) | in force | 3 | 2009-03-16 | 2020-04-29 |
+| Hotărârea Guvernului nr. 231/2009 privind aplicarea mobilităţii pentru domnul Drăgănescu Ovidiu-Virgil din funcţia publică de prefect al judeţului Timiş în funcţia publică de inspector guvernamental | [`hg/2009/231/`](hg/2009/231/) | in force | 1 | 2009-03-09 | 2009-03-09 |
 | Hotărârea Guvernului nr. 266/2009 pentru modificarea Hotărârii Guvernului nr. 416/2007 privind structura organizatorică și efectivele Ministerului Administrației și Internelor și a Hotărârii Guvernului nr. 1.678/2008 privind înființarea Institutului de Studii pentru Ordine Publică în subordinea Ministerului Administrației și Internelor și pentru completarea anexei nr. 1 la Hotărârea Guvernului nr. 416/2007 privind structura organizatorică și efectivele Ministerului Administrației și Internelor | [`hg/2009/266/`](hg/2009/266/) | amending act | 2 | 2009-03-15 | 2023-10-01 |
 | Hotărârea Guvernului nr. 284/2009 | [`hg/2009/284/`](hg/2009/284/) | repealed 2010-08-30 | 3 | 2009-03-24 | 2010-08-30 |
 | Hotărârea Guvernului nr. 367/2009 | [`hg/2009/367/`](hg/2009/367/) | in force | 2 | 2009-04-01 | 2009-12-17 |
