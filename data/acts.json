@@ -79698,6 +79698,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/93154"
 },
 {
+"slug": "hg-546-2008",
+"path": "hg/2008/546",
+"kind": "hg",
+"year": "2008",
+"number": "546",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 546/2008",
+"short": "HG nr. 546/2008",
+"code": null,
+"status": "in force",
+"versions": 3,
+"from": "2008-06-01",
+"latest": "2011-04-26",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/93484"
+},
+{
 "slug": "hg-548-2008",
 "path": "hg/2008/548",
 "kind": "hg",

@@ -19523,6 +19523,33 @@
    ]
   },
   {
+   "slug": "hg-546-2008",
+   "path": "hg/2008/546",
+   "short": "HG nr. 546/2008",
+   "title": "Hotărârea Guvernului nr. 546/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/93484",
+   "versions": [
+    {
+     "from": "2008-06-01",
+     "units": 34,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/93484",
+     "sha256": "1bda975bf6a92170516a90a78daa4e8d0bee6dd20aa700e4dcf3898d54d96080"
+    },
+    {
+     "from": "2011-01-01",
+     "units": 40,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/93484",
+     "sha256": "1bda975bf6a92170516a90a78daa4e8d0bee6dd20aa700e4dcf3898d54d96080"
+    },
+    {
+     "from": "2011-04-26",
+     "units": 40,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/93484",
+     "sha256": "f85cd23b99b3105c86f35255814fc4a828e329ddb1236efa84d97ba6ce49f071"
+    }
+   ]
+  },
+  {
    "slug": "hg-547-2005",
    "path": "hg/2005/547",
    "short": "HG nr. 547/2005",
