@@ -1,6 +1,6 @@
 # Every act in this repository
 
-10115 acts, 23,637 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+10156 acts, 23,678 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -32,7 +32,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (2191, of which 916 amending acts)
+## Laws (legi) (2192, of which 917 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -1514,6 +1514,7 @@
 | Legea nr. 319/2021 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 99/2006 privind instituțiile de credit și adecvarea capitalului | [`lege/2021/319/`](lege/2021/319/) | amending act | 1 | 2022-01-01 | 2022-01-01 |
 | Legea nr. 322/2021 pentru completarea Legii nr. 227/2015 privind Codul fiscal | [`lege/2021/322/`](lege/2021/322/) | amending act | 1 | 2022-01-02 | 2022-01-02 |
 | Legea nr. 5/2022 privind ratificarea Convenției multilaterale pentru implementarea în cadrul tratatelor fiscale a măsurilor legate de prevenirea erodării bazei impozabile și a transferului profiturilor, deschisă spre semnare și semnată de România la Paris la 7 iunie 2017 | [`lege/2022/5/`](lege/2022/5/) | in force | 1 | 2022-01-13 | 2022-01-13 |
+| Legea nr. 13/2022 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 79/2021 pentru modificarea Legii nr. 350/2001 privind amenajarea teritoriului şi urbanismul | [`lege/2022/13/`](lege/2022/13/) | amending act | 1 | 2022-01-10 | 2022-01-10 |
 | Legea nr. 14/2022 pentru modificarea și completarea Legii educației naționale nr. 1/2011 | [`lege/2022/14/`](lege/2022/14/) | amending act | 1 | 2022-01-13 | 2022-01-13 |
 | Legea nr. 17/2022 privind aprobarea Ordonanței de urgență a Guvernului nr. 100/2021 pentru modificarea și completarea Legii educației naționale nr. 1/2011 și abrogarea unor acte normative din domeniul protecției sociale | [`lege/2022/17/`](lege/2022/17/) | amending act | 1 | 2022-01-17 | 2022-01-17 |
 | Legea nr. 18/2022 privind declararea primei zile de duminică din luna iunie ca Ziua națională a supraviețuitorilor de cancer | [`lege/2022/18/`](lege/2022/18/) | in force | 1 | 2022-01-17 | 2022-01-17 |
@@ -4318,7 +4319,7 @@
 | Ordonanța Guvernului nr. 21/2025 pentru modificarea și completarea Legii nr. 431/2023 privind asigurarea unui nivel minim global de impozitare a grupurilor de întreprinderi multinaționale și a grupurilor naționale de mari dimensiuni | [`og/2025/21/`](og/2025/21/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 | Ordonanța Guvernului nr. 22/2025 pentru modificarea și completarea Legii nr. 227/2015 privind Codul fiscal | [`og/2025/22/`](og/2025/22/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 
-## Government decisions (HG) (5805, of which 2376 amending acts)
+## Government decisions (HG) (5845, of which 2380 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -6604,11 +6605,51 @@
 | Hotărârea Guvernului nr. 1315/2021 pentru modificarea și completarea Hotărârii Guvernului nr. 1.048/2006 privind cerințele minime de securitate și sănătate pentru utilizarea de către lucrători a echipamentelor individuale de protecție la locul de muncă | [`hg/2021/1315/`](hg/2021/1315/) | amending act | 1 | 2022-01-11 | 2022-01-11 |
 | Hotărârea Guvernului nr. 1326/2021 privind organizarea şi funcţionarea Ministerului Economiei | [`hg/2021/1326/`](hg/2021/1326/) | in force | 2 | 2022-01-03 | 2023-04-28 |
 | Hotărârea Guvernului nr. 1327/2021 privind organizarea și funcționarea Ministerului Antreprenoriatului și Turismului | [`hg/2021/1327/`](hg/2021/1327/) | in force | 3 | 2022-01-03 | 2023-04-07 |
+| Hotărârea Guvernului nr. 11/2022 privind numirea doamnei Lungu Tudoriţa în funcţia de subprefect al judeţului Bacău | [`hg/2022/11/`](hg/2022/11/) | in force | 1 | 2022-01-05 | 2022-01-05 |
 | Hotărârea Guvernului nr. 22/2022 privind organizarea și funcționarea Ministerului Familiei, Tineretului și Egalității de Șanse | [`hg/2022/22/`](hg/2022/22/) | in force | 3 | 2022-01-06 | 2024-02-21 |
 | Hotărârea Guvernului nr. 25/2022 privind organizarea şi funcţionarea Ministerului Sportului | [`hg/2022/25/`](hg/2022/25/) | in force | 2 | 2022-01-06 | 2023-02-17 |
 | Hotărârea Guvernului nr. 34/2022 privind prelungirea stării de alertă pe teritoriul României începând cu data de 8 ianuarie 2022, precum și stabilirea măsurilor care se aplică pe durata acesteia pentru prevenirea și combaterea efectelor pandemiei de COVID-19 | [`hg/2022/34/`](hg/2022/34/) | in force | 1 | 2022-01-06 | 2022-01-06 |
+| Hotărârea Guvernului nr. 35/2022 privind eliberarea domnului Dolha Nechita-Stelian din funcţia de prefect al judeţului Bistriţa-Năsăud | [`hg/2022/35/`](hg/2022/35/) | in force | 1 | 2022-01-12 | 2022-01-12 |
+| Hotărârea Guvernului nr. 36/2022 privind eliberarea domnului Ionescu Cristian din funcţia de prefect al judeţului Prahova | [`hg/2022/36/`](hg/2022/36/) | in force | 1 | 2022-01-12 | 2022-01-12 |
+| Hotărârea Guvernului nr. 37/2022 privind eliberarea domnului Ionescu Lucian-Mihai din funcţia de subprefect al judeţului Argeş | [`hg/2022/37/`](hg/2022/37/) | in force | 1 | 2022-01-12 | 2022-01-12 |
+| Hotărârea Guvernului nr. 38/2022 privind eliberarea doamnei Boloş Marieta din funcţia de subprefect al judeţului Buzău | [`hg/2022/38/`](hg/2022/38/) | in force | 1 | 2022-01-12 | 2022-01-12 |
+| Hotărârea Guvernului nr. 39/2022 privind eliberarea domnului Dumitru Nicolae din funcţia de subprefect al judeţului Călăraşi | [`hg/2022/39/`](hg/2022/39/) | in force | 1 | 2022-01-12 | 2022-01-12 |
+| Hotărârea Guvernului nr. 40/2022 privind eliberarea doamnei Suliman Secyl din funcţia de subprefect al judeţului Constanţa | [`hg/2022/40/`](hg/2022/40/) | in force | 1 | 2022-01-12 | 2022-01-12 |
+| Hotărârea Guvernului nr. 42/2022 privind eliberarea domnului Stauder Rudolf din funcţia de subprefect al judeţului Maramureş | [`hg/2022/42/`](hg/2022/42/) | in force | 1 | 2022-01-12 | 2022-01-12 |
+| Hotărârea Guvernului nr. 43/2022 privind eliberarea doamnei Muntean Sanda-Ligia din funcţia de subprefect al judeţului Sibiu | [`hg/2022/43/`](hg/2022/43/) | in force | 1 | 2022-01-12 | 2022-01-12 |
+| Hotărârea Guvernului nr. 45/2022 privind eliberarea domnului Onofrei Daniel-Garincha din funcţia de subprefect al judeţului Vaslui | [`hg/2022/45/`](hg/2022/45/) | in force | 1 | 2022-01-12 | 2022-01-12 |
+| Hotărârea Guvernului nr. 46/2022 privind eliberarea doamnei Ghiţă Florela-Antonela din funcţia de subprefect al municipiului Bucureşti | [`hg/2022/46/`](hg/2022/46/) | in force | 1 | 2022-01-12 | 2022-01-12 |
+| Hotărârea Guvernului nr. 47/2022 privind numirea doamnei Oprea Mica în funcţia de prefect al judeţului Bistriţa-Năsăud | [`hg/2022/47/`](hg/2022/47/) | in force | 1 | 2022-01-12 | 2022-01-12 |
+| Hotărârea Guvernului nr. 48/2022 privind numirea domnului Gavril Claudiu-Sorin în funcţia de prefect al judeţului Galaţi | [`hg/2022/48/`](hg/2022/48/) | in force | 1 | 2022-01-12 | 2022-01-12 |
+| Hotărârea Guvernului nr. 49/2022 privind numirea domnului Stauder Rudolf în funcţia de prefect al judeţului Maramureş | [`hg/2022/49/`](hg/2022/49/) | in force | 1 | 2022-01-12 | 2022-01-12 |
+| Hotărârea Guvernului nr. 51/2022 privind numirea domnului Onofrei Daniel-Garincha în funcţia de prefect al judeţului Vaslui | [`hg/2022/51/`](hg/2022/51/) | in force | 1 | 2022-01-12 | 2022-01-12 |
+| Hotărârea Guvernului nr. 52/2022 privind numirea domnului Mureşan Corneliu în funcţia de subprefect al judeţului Alba | [`hg/2022/52/`](hg/2022/52/) | in force | 1 | 2022-01-12 | 2022-01-12 |
+| Hotărârea Guvernului nr. 53/2022 privind numirea domnului Minciunescu Ionuţ-Bogdan în funcţia de subprefect al judeţului Argeş | [`hg/2022/53/`](hg/2022/53/) | in force | 1 | 2022-01-12 | 2022-01-12 |
+| Hotărârea Guvernului nr. 54/2022 privind numirea domnului Zăgrean Ioan în funcţia de subprefect al judeţului Bistriţa-Năsăud | [`hg/2022/54/`](hg/2022/54/) | in force | 1 | 2022-01-12 | 2022-01-12 |
+| Hotărârea Guvernului nr. 55/2022 privind numirea domnului Cristea Constantin în funcţia de subprefect al judeţului Buzău | [`hg/2022/55/`](hg/2022/55/) | in force | 1 | 2022-01-12 | 2022-01-12 |
+| Hotărârea Guvernului nr. 57/2022 privind numirea domnului Diaconu Virgiliu în funcţia de subprefect al judeţului Călăraşi | [`hg/2022/57/`](hg/2022/57/) | in force | 1 | 2022-01-12 | 2022-01-12 |
+| Hotărârea Guvernului nr. 58/2022 privind numirea domnului Ilie Marius-Eugen în funcţia de subprefect al judeţului Călăraşi | [`hg/2022/58/`](hg/2022/58/) | in force | 1 | 2022-01-12 | 2022-01-12 |
+| Hotărârea Guvernului nr. 59/2022 privind numirea doamnei Dragnea Marilena în funcţia de subprefect al judeţului Constanţa | [`hg/2022/59/`](hg/2022/59/) | in force | 1 | 2022-01-12 | 2022-01-12 |
+| Hotărârea Guvernului nr. 61/2022 privind numirea doamnei Macri Veronica în funcţia de subprefect al judeţului Galaţi | [`hg/2022/61/`](hg/2022/61/) | in force | 1 | 2022-01-12 | 2022-01-12 |
+| Hotărârea Guvernului nr. 62/2022 privind numirea domnului Pălăşan Nicolae-Florin în funcţia de subprefect al judeţului Mureş | [`hg/2022/62/`](hg/2022/62/) | in force | 1 | 2022-01-12 | 2022-01-12 |
+| Hotărârea Guvernului nr. 63/2022 privind numirea domnului Şebu Sebastian-Gheorghe în funcţia de subprefect al judeţului Sibiu | [`hg/2022/63/`](hg/2022/63/) | in force | 1 | 2022-01-12 | 2022-01-12 |
+| Hotărârea Guvernului nr. 64/2022 privind numirea domnului Moşin Daniel în funcţia de subprefect al judeţului Sibiu | [`hg/2022/64/`](hg/2022/64/) | in force | 1 | 2022-01-12 | 2022-01-12 |
+| Hotărârea Guvernului nr. 65/2022 privind numirea domnului Ionescu Sorin-Gabriel în funcţia de subprefect al judeţului Timiş | [`hg/2022/65/`](hg/2022/65/) | in force | 1 | 2022-01-12 | 2022-01-12 |
 | Hotărârea Guvernului nr. 69/2022 pentru aprobarea Notei de fundamentare privind necesitatea și oportunitatea efectuării cheltuielilor aferente proiectului de investiții "Operaționalizarea Sistemului informatic de monitorizare electronică" | [`hg/2022/69/`](hg/2022/69/) | amending act | 1 | 2022-01-13 | 2022-01-13 |
+| Hotărârea Guvernului nr. 71/2022 pentru modificarea Hotărârii Guvernului nr. 76/2005 privind înfiinţarea Agenţiei Naţionale pentru Programe Comunitare în Domeniul Educaţiei şi Formării Profesionale | [`hg/2022/71/`](hg/2022/71/) | amending act | 1 | 2022-01-17 | 2022-01-17 |
+| Hotărârea Guvernului nr. 72/2022 privind actualizarea denumirii, valorii de inventar, a codului de clasificaţie şi modificarea datelor de identificare ale unui bun imobil aflat în administrarea Agenţiei Naţionale pentru Zootehnie "Prof. dr. G. K. Constantinescu", din subordinea Ministerului Agriculturii şi Dezvoltării Rurale, şi transmiterea acestuia din administrarea Agenţiei Naţionale pentru Zootehnie "Prof. dr. G. K. Constantinescu" în administrarea Agenţiei Domeniilor Statului, din subordinea Ministerului Agriculturii şi Dezvoltării Rurale | [`hg/2022/72/`](hg/2022/72/) | in force | 1 | 2022-01-19 | 2022-01-19 |
+| Hotărârea Guvernului nr. 73/2022 privind înscrierea unui imobil, construcţii şi teren, în inventarul centralizat al bunurilor din domeniul public al statului şi darea acestuia în administrarea Universităţii "Alexandru Ioan Cuza" din Iaşi | [`hg/2022/73/`](hg/2022/73/) | in force | 1 | 2022-01-19 | 2022-01-19 |
+| Hotărârea Guvernului nr. 74/2022 privind înscrierea unui imobil, teren şi construcţie, în inventarul centralizat al bunurilor din domeniul public al statului şi darea acestuia în administrarea Universităţii "Alexandru Ioan Cuza" din Iaşi | [`hg/2022/74/`](hg/2022/74/) | in force | 1 | 2022-01-19 | 2022-01-19 |
+| Hotărârea Guvernului nr. 75/2022 pentru actualizarea datelor din inventarul bunurilor care alcătuiesc domeniul public al statului pentru unele imobile aflate în domeniul public al statului şi în administrarea Ministerului Afacerilor Interne, transmiterea dreptului de administrare a unei părţi de imobil între structuri din Ministerul Afacerilor Interne, precum şi pentru trecerea unui imobil din domeniul privat al statului în domeniul public al statului, înscrierea acestuia în inventarul centralizat al bunurilor din domeniul public al statului şi darea în administrarea Ministerului Afacerilor Interne - Direcţia Generală de Protecţie Internă | [`hg/2022/75/`](hg/2022/75/) | in force | 1 | 2022-01-19 | 2022-01-19 |
+| Hotărârea Guvernului nr. 79/2022 privind modificarea descrierii tehnice şi actualizarea valorii de inventar ale unor bunuri imobile aflate în domeniul public al statului şi concesionate Societăţii Naţionale "Aeroportul Internaţional Mihail Kogălniceanu - Constanţa" - S.A., unitate aflată sub autoritatea Ministerului Transporturilor şi Infrastructurii | [`hg/2022/79/`](hg/2022/79/) | amending act | 1 | 2022-01-19 | 2022-01-19 |
+| Hotărârea Guvernului nr. 82/2022 privind eliberarea domnului Gavril Claudiu-Sorin din funcţia de prefect al judeţului Galaţi | [`hg/2022/82/`](hg/2022/82/) | in force | 1 | 2022-01-19 | 2022-01-19 |
+| Hotărârea Guvernului nr. 83/2022 privind eliberarea doamnei Gireadă Aneta din funcţia de subprefect al judeţului Botoşani | [`hg/2022/83/`](hg/2022/83/) | in force | 1 | 2022-01-19 | 2022-01-19 |
+| Hotărârea Guvernului nr. 84/2022 privind numirea domnului Timofei Iulian în funcţia de prefect al judeţului Brăila | [`hg/2022/84/`](hg/2022/84/) | in force | 1 | 2022-01-19 | 2022-01-19 |
+| Hotărârea Guvernului nr. 85/2022 privind numirea domnului Panaitescu Gabriel-Aurelian în funcţia de prefect al judeţului Galaţi | [`hg/2022/85/`](hg/2022/85/) | in force | 1 | 2022-01-19 | 2022-01-19 |
+| Hotărârea Guvernului nr. 89/2022 pentru aprobarea indicatorilor tehnico-economici aferenţi obiectivului de investiţii "Varianta ocolitoare a municipiului Arad - Est", judeţul Arad | [`hg/2022/89/`](hg/2022/89/) | amending act | 1 | 2022-01-20 | 2022-01-20 |
 | Hotărârea Guvernului nr. 99/2022 privind înscrierea unor bunuri imobile în inventarul centralizat al bunurilor din domeniul public al statului şi darea în administrarea Administraţiei Naţionale "Apele Române", prin Administraţiile Bazinale de Apă Buzău - Ialomiţa, Dobrogea - Litoral şi Prut - Bârlad, instituţie publică în coordonarea Ministerului Mediului, Apelor şi Pădurilor | [`hg/2022/99/`](hg/2022/99/) | in force | 1 | 2022-01-25 | 2022-01-25 |
+| Hotărârea Guvernului nr. 100/2022 privind transmiterea cu titlu gratuit a suprafeţei de 177,7895 ha, fond forestier din grupa I funcţională - vegetaţia forestieră cu funcţii speciale de protecţie, subgrupa 1.4.b - păduri constituite în zone verzi în jurul localităţilor incluse în intravilan, din domeniul public al statului şi din administrarea Ministerului Mediului, Apelor şi Pădurilor, prin Regia Naţională a Pădurilor - Romsilva, în domeniul public al municipiului Buzău | [`hg/2022/100/`](hg/2022/100/) | in force | 1 | 2022-01-21 | 2022-01-21 |
+| Hotărârea Guvernului nr. 103/2022 pentru aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii "Construire Bazin de înot olimpic, str. Decebal nr. 1, localitatea Vaslui, judeţul Vaslui" | [`hg/2022/103/`](hg/2022/103/) | amending act | 1 | 2022-01-21 | 2022-01-21 |
 | Hotărârea Guvernului nr. 105/2022 privind actualizarea valorii de inventar, a denumirii şi a datelor de identificare ale unor imobile aflate în domeniul public al statului şi în administrarea Institutului Naţional de Hematologie Transfuzională, prin centrele de transfuzii sanguine, instituţii subordonate Ministerului Sănătăţii | [`hg/2022/105/`](hg/2022/105/) | in force | 1 | 2022-01-25 | 2022-01-25 |
 | Hotărârea Guvernului nr. 106/2022 privind transmiterea cu titlu gratuit a suprafeţei de 203.500 mp, fond forestier din grupa I funcţională - vegetaţia forestieră cu funcţii speciale de protecţie, subgrupa 1.4.a - păduri special amenajate în scop recreativ (păduri-parc), din domeniul public al statului şi din administrarea Ministerului Mediului, Apelor şi Pădurilor, prin Regia Naţională a Pădurilor - Romsilva, în domeniul public al oraşului Călimăneşti, judeţul Vâlcea | [`hg/2022/106/`](hg/2022/106/) | in force | 1 | 2022-01-25 | 2022-01-25 |
 | Hotărârea Guvernului nr. 107/2022 privind modificarea şi completarea descrierii tehnice, precum şi actualizarea valorii de inventar a unui bun imobil aflat în domeniul public al statului şi în administrarea Ministerului Transporturilor şi Infrastructurii | [`hg/2022/107/`](hg/2022/107/) | amending act | 1 | 2022-01-25 | 2022-01-25 |
