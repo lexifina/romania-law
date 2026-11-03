@@ -1,6 +1,6 @@
 # Every act in this repository
 
-18031 acts, 31,657 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+18067 acts, 31,694 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -18,7 +18,7 @@
 | Codul de procedură penală | Codul de procedură penală | [`lege/2010/135/`](lege/2010/135/) | 61 | 2026-06-13 |
 | Codul de procedură penală din 12 noiembrie 1968 | Codul de procedură penală din 1968 | [`lege/1968/29/`](lege/1968/29/) | 35 | 2014-02-01 |
 | Codul familiei din 1953 | Codul familiei | [`lege/1953/4/`](lege/1953/4/) | 8 | 2011-10-01 |
-| Codul fiscal | Codul fiscal 2003 | [`lege/2003/571/`](lege/2003/571/) | 61 | 2015-11-04 |
+| Codul fiscal | Codul fiscal 2003 | [`lege/2003/571/`](lege/2003/571/) | 62 | 2016-01-01 |
 | Codul fiscal | Codul fiscal | [`lege/2015/227/`](lege/2015/227/) | 149 | 2026-08-08 |
 | Codul muncii | Codul muncii | [`lege/2003/53/`](lege/2003/53/) | 61 | 2025-12-18 |
 | Codul penal | Codul penal | [`lege/2009/286/`](lege/2009/286/) | 45 | 2026-04-26 |
@@ -473,7 +473,7 @@
 | Legea nr. 526/2003 | [`lege/2003/526/`](lege/2003/526/) | in force | 7 | 2003-12-19 | 2022-07-29 |
 | Legea nr. 544/2003 | [`lege/2003/544/`](lege/2003/544/) | in force | 1 | 2004-01-01 | 2004-01-01 |
 | Legea nr. 554/2003 | [`lege/2003/554/`](lege/2003/554/) | in force | 1 | 2003-12-23 | 2003-12-23 |
-| Codul fiscal (Legea nr. 571/2003) | [`lege/2003/571/`](lege/2003/571/) | in force | 61 | 2004-01-01 | 2015-11-04 |
+| Codul fiscal (Legea nr. 571/2003) | [`lege/2003/571/`](lege/2003/571/) | repealed 2016-01-01 | 62 | 2004-01-01 | 2016-01-01 |
 | Legea nr. 577/2003 | [`lege/2003/577/`](lege/2003/577/) | in force | 1 | 2004-01-08 | 2004-01-08 |
 | Legea nr. 590/2003 privind tratatele | [`lege/2003/590/`](lege/2003/590/) | in force | 1 | 2004-02-11 | 2004-02-11 |
 | Legea nr. 595/2003 | [`lege/2003/595/`](lege/2003/595/) | in force | 1 | 2004-01-08 | 2004-01-08 |
@@ -5227,7 +5227,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (12813, of which 6342 amending acts)
+## Government decisions (HG) (12849, of which 6371 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -8707,14 +8707,50 @@
 | Hotărârea Guvernului nr. 1188/2014 | [`hg/2014/1188/`](hg/2014/1188/) | in force | 7 | 2015-01-12 | 2023-11-22 |
 | Hotărârea Guvernului nr. 18/2015 | [`hg/2015/18/`](hg/2015/18/) | in force | 1 | 2015-01-21 | 2015-01-21 |
 | Hotărârea Guvernului nr. 21/2015 | [`hg/2015/21/`](hg/2015/21/) | in force | 10 | 2015-01-21 | 2018-06-12 |
+| Hotărârea Guvernului nr. 22/2015 pentru modificarea şi completarea Hotărârii Guvernului nr. 536/2014 privind organizarea şi funcţionarea Departamentului pentru Proiecte de Infrastructură, Investiţii Străine, Parteneriat Public-Privat şi Promovarea Exporturilor | [`hg/2015/22/`](hg/2015/22/) | amending act | 1 | 2015-01-21 | 2015-01-21 |
 | Hotărârea Guvernului nr. 23/2015 | [`hg/2015/23/`](hg/2015/23/) | in force | 2 | 2015-01-22 | 2017-11-27 |
+| Hotărârea Guvernului nr. 31/2015 privind schimbarea regimului juridic al unor imobile şi pentru modificarea unor acte normative | [`hg/2015/31/`](hg/2015/31/) | amending act | 1 | 2015-01-23 | 2015-01-23 |
+| Hotărârea Guvernului nr. 33/2015 pentru aprobarea Amendamentului nr. 5 convenit între Guvernul României şi Banca Europeană de Investiţii, prin scrisoarea semnată la Luxemburg la 26 noiembrie 2014 şi la Bucureşti la 2 decembrie 2014, la Contractul de finanţare dintre România şi Banca Europeană de Investiţii destinat finanţării proiectului privind reabilitarea sectorului sanitar, semnat la Bucureşti la 28 februarie 2005 | [`hg/2015/33/`](hg/2015/33/) | amending act | 1 | 2015-01-26 | 2015-01-26 |
 | Hotărârea Guvernului nr. 34/2015 pentru aprobarea Normelor metodologice privind modalitatea de utilizare și completare a dosarului electronic de sănătate al pacientului | [`hg/2015/34/`](hg/2015/34/) | amending act | 1 | 2015-01-26 | 2015-01-26 |
 | Hotărârea Guvernului nr. 38/2015 | [`hg/2015/38/`](hg/2015/38/) | in force | 2 | 2015-01-23 | 2016-04-21 |
 | Hotărârea Guvernului nr. 41/2015 | [`hg/2015/41/`](hg/2015/41/) | in force | 1 | 2015-01-28 | 2015-01-28 |
+| Hotărârea Guvernului nr. 44/2015 privind unele măsuri referitoare la derularea proceselor de privatizare pentru unele societăţi la care Ministerul Energiei, Întreprinderilor Mici şi Mijlocii şi Mediului de Afaceri deţine calitatea de instituţie publică implicată | [`hg/2015/44/`](hg/2015/44/) | in force | 1 | 2015-02-05 | 2015-02-05 |
+| Hotărârea Guvernului nr. 45/2015 privind încetarea exercitării, cu caracter temporar, prin detaşare în condiţiile legii, a funcţiei publice de prefect al judeţului Brăila de către doamna Vîlcu Vasilica | [`hg/2015/45/`](hg/2015/45/) | in force | 1 | 2015-01-29 | 2015-01-29 |
+| Hotărârea Guvernului nr. 46/2015 privind exercitarea, cu caracter temporar, prin detaşare în condiţiile legii, a funcţiei publice de prefect al judeţului Brăila de către domnul Olteanu Nicu Lucian | [`hg/2015/46/`](hg/2015/46/) | in force | 1 | 2015-01-29 | 2015-01-29 |
 | Hotărârea Guvernului nr. 48/2015 | [`hg/2015/48/`](hg/2015/48/) | in force | 2 | 2015-02-05 | 2019-03-06 |
 | Hotărârea Guvernului nr. 50/2015 | [`hg/2015/50/`](hg/2015/50/) | in force | 4 | 2015-02-02 | 2018-12-20 |
+| Hotărârea Guvernului nr. 52/2015 privind stabilirea contingentului pe tipuri de lucrători nou-admişi pe piaţa forţei de muncă în anul 2015 | [`hg/2015/52/`](hg/2015/52/) | in force | 1 | 2015-02-02 | 2015-02-02 |
+| Hotărârea Guvernului nr. 54/2015 privind acordarea prestaţiilor sub forma biletelor de tratament balnear, pentru anul 2015, prin sistemul organizat şi administrat de Casa Naţională de Pensii Publice | [`hg/2015/54/`](hg/2015/54/) | in force | 1 | 2015-02-03 | 2015-02-03 |
+| Hotărârea Guvernului nr. 59/2015 privind exercitarea, cu caracter temporar, prin detaşare în condiţiile legii, a funcţiei publice de subprefect al judeţului Brăila de către domnul Ţiripa Marius-Aurelian | [`hg/2015/59/`](hg/2015/59/) | in force | 1 | 2015-02-05 | 2015-02-05 |
+| Hotărârea Guvernului nr. 61/2015 privind completarea art. 2 din Hotărârea Guvernului nr. 736/2010 pentru aprobarea Normelor de aplicare a Ordonanţei de urgenţă a Guvernului nr. 69/2010 privind reabilitarea termică a clădirilor de locuit cu finanţare prin credite bancare cu garanţie guvernamentală | [`hg/2015/61/`](hg/2015/61/) | amending act | 1 | 2015-02-06 | 2015-02-06 |
+| Hotărârea Guvernului nr. 63/2015 privind completarea art. 4 din Normele de implementare a Programului de sprijin pentru beneficiarii proiectelor în domenii prioritare pentru economia românească, finanţate din instrumentele structurale ale Uniunii Europene alocate României, aprobate prin Hotărârea Guvernului nr. 175/2010 | [`hg/2015/63/`](hg/2015/63/) | amending act | 1 | 2015-02-06 | 2015-02-06 |
+| Hotărârea Guvernului nr. 67/2015 pentru aprobarea Acordului de cooperare în domeniul sănătăţii şi al ştiinţelor medicale dintre Ministerul Sănătăţii din România şi Comisia Naţională de Sănătate şi Planificare Familială din Republica Populară Chineză, semnat la Bucureşti la 28 iunie 2014 | [`hg/2015/67/`](hg/2015/67/) | amending act | 1 | 2015-02-11 | 2015-02-11 |
 | Hotărârea Guvernului nr. 75/2015 | [`hg/2015/75/`](hg/2015/75/) | in force | 1 | 2015-02-13 | 2015-02-13 |
+| Hotărârea Guvernului nr. 78/2015 privind modificarea şi completarea Normelor metodologice pentru aplicarea prevederilor Ordonanţei de urgenţă a Guvernului nr. 34/2013 privind organizarea, administrarea şi exploatarea pajiştilor permanente şi pentru modificarea şi completarea Legii fondului funciar nr. 18/1991 , aprobate prin Hotărârea Guvernului nr. 1.064/2013 | [`hg/2015/78/`](hg/2015/78/) | amending act | 1 | 2015-02-18 | 2015-02-18 |
+| Hotărârea Guvernului nr. 80/2015 pentru completarea Hotărârii Guvernului nr. 799/2014 privind implementarea Programului operaţional Ajutorarea persoanelor defavorizate | [`hg/2015/80/`](hg/2015/80/) | amending act | 1 | 2015-02-18 | 2015-02-18 |
+| Hotărârea Guvernului nr. 82/2015 privind aprobarea bugetului de venituri şi cheltuieli pe anul 2015 pentru Administraţia Naţională "Apele Române", aflată în coordonarea Ministerului Mediului, Apelor şi Pădurilor | [`hg/2015/82/`](hg/2015/82/) | amending act | 1 | 2015-02-18 | 2015-02-18 |
+| Hotărârea Guvernului nr. 84/2015 pentru modificarea anexei la Hotărârea Guvernului nr. 311/2007 privind transmiterea unui imobil, proprietate publică a statului, din administrarea Regiei Autonome "Administraţia Patrimoniului Protocolului de Stat" în administrarea Direcţiei Naţionale Anticorupţie din cadrul Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie | [`hg/2015/84/`](hg/2015/84/) | amending act | 1 | 2015-02-18 | 2015-02-18 |
+| Hotărârea Guvernului nr. 85/2015 privind modificarea datelor de identificare şi actualizarea valorilor de inventar ale unor bunuri aflate în domeniul public al statului şi în administrarea Ministerului Agriculturii şi Dezvoltării Rurale - Direcţia pentru Agricultură Mureş, trecerea din domeniul public al statului în domeniul privat al statului a unor bunuri în vederea scoaterii din funcţiune şi casării, în condiţiile legii, şi modificarea anexei nr. 3 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului | [`hg/2015/85/`](hg/2015/85/) | amending act | 1 | 2015-02-18 | 2015-02-18 |
+| Hotărârea Guvernului nr. 86/2015 privind actualizarea inventarului centralizat al bunurilor din domeniul public al statului aflate în administrarea Ministerului pentru Societatea Informaţională | [`hg/2015/86/`](hg/2015/86/) | in force | 1 | 2015-02-18 | 2015-02-18 |
 | Hotărârea Guvernului nr. 87/2015 | [`hg/2015/87/`](hg/2015/87/) | in force | 1 | 2015-02-18 | 2015-02-18 |
+| Hotărârea Guvernului nr. 90/2015 privind aprobarea stemei comunei Rădeşti, judeţul Alba | [`hg/2015/90/`](hg/2015/90/) | amending act | 1 | 2015-02-25 | 2015-02-25 |
+| Hotărârea Guvernului nr. 91/2015 privind aprobarea stemei comunei Şieu-Odorhei, judeţul Bistriţa-Năsăud | [`hg/2015/91/`](hg/2015/91/) | amending act | 1 | 2015-02-25 | 2015-02-25 |
+| Hotărârea Guvernului nr. 92/2015 privind aprobarea stemelor comunelor Mica şi Zau de Câmpie, judeţul Mureş | [`hg/2015/92/`](hg/2015/92/) | amending act | 1 | 2015-02-25 | 2015-02-25 |
+| Hotărârea Guvernului nr. 93/2015 privind aprobarea stemei comunei Brădeni, judeţul Sibiu | [`hg/2015/93/`](hg/2015/93/) | amending act | 1 | 2015-02-25 | 2015-02-25 |
+| Hotărârea Guvernului nr. 94/2015 privind aprobarea stemei comunei Chiajna, judeţul Ilfov | [`hg/2015/94/`](hg/2015/94/) | amending act | 1 | 2015-02-25 | 2015-02-25 |
+| Hotărârea Guvernului nr. 95/2015 privind aprobarea stemelor comunelor Frecăţei, Galbenu, Jirlău, Râmnicelu, Scorţaru Nou şi Zăvoaia, judeţul Brăila | [`hg/2015/95/`](hg/2015/95/) | amending act | 1 | 2015-02-25 | 2015-02-25 |
+| Hotărârea Guvernului nr. 96/2015 privind aprobarea stemelor comunelor Bran, Cincu şi Teliu, judeţul Braşov | [`hg/2015/96/`](hg/2015/96/) | amending act | 1 | 2015-02-25 | 2015-02-25 |
+| Hotărârea Guvernului nr. 97/2015 privind aprobarea stemei municipiului Codlea, judeţul Braşov | [`hg/2015/97/`](hg/2015/97/) | amending act | 1 | 2015-02-25 | 2015-02-25 |
+| Hotărârea Guvernului nr. 100/2015 pentru modificarea şi completarea Hotărârii Guvernului nr. 1/2013 privind organizarea şi funcţionarea Ministerului Dezvoltării Regionale şi Administraţiei Publice | [`hg/2015/100/`](hg/2015/100/) | amending act | 1 | 2015-02-18 | 2015-02-18 |
+| Hotărârea Guvernului nr. 101/2015 privind aprobarea stemelor comunelor Băleşti şi Bumbeşti-Piţic, judeţul Gorj | [`hg/2015/101/`](hg/2015/101/) | amending act | 1 | 2015-03-24 | 2015-03-24 |
+| Hotărârea Guvernului nr. 102/2015 privind aprobarea bugetului de venituri şi cheltuieli pe anul 2015 al Regiei Autonome "Monitorul Oficial", aflată sub autoritatea Guvernului României, exercitată prin Secretariatul General al Guvernului | [`hg/2015/102/`](hg/2015/102/) | amending act | 1 | 2015-02-19 | 2015-02-19 |
+| Hotărârea Guvernului nr. 103/2015 privind modificarea datelor de identificare ale unui imobil aflat în domeniul public al statului şi în administrarea Ministerului Justiţiei - Tribunalul Dolj şi transmiterea unei părţi din acesta din domeniul public al statului în domeniul privat al acestuia, în vederea scoaterii din funcţiune şi demolării | [`hg/2015/103/`](hg/2015/103/) | amending act | 1 | 2015-02-23 | 2015-02-23 |
+| Hotărârea Guvernului nr. 105/2015 privind aprobarea stemei oraşului Turceni, judeţul Gorj | [`hg/2015/105/`](hg/2015/105/) | amending act | 1 | 2015-03-09 | 2015-03-09 |
+| Hotărârea Guvernului nr. 107/2015 privind aprobarea bugetului de venituri şi cheltuieli pe anul 2015 al Regiei Autonome "Administraţia Patrimoniului Protocolului de Stat", regie autonomă de interes naţional aflată sub autoritatea Secretariatului General al Guvernului | [`hg/2015/107/`](hg/2015/107/) | amending act | 1 | 2015-02-20 | 2015-02-20 |
+| Hotărârea Guvernului nr. 108/2015 privind modificarea şi completarea datelor de identificare şi actualizarea valorii de inventar a unui bun imobil aflat în domeniul public al statului şi în administrarea Administraţiei Naţionale "Apele Române", instituţie publică aflată în coordonarea Ministerului Mediului, Apelor şi Pădurilor, şi trecerea unei părţi din acesta din domeniul public al statului în domeniul privat al acestuia, în vederea scoaterii din funcţiune şi casării | [`hg/2015/108/`](hg/2015/108/) | amending act | 1 | 2015-03-06 | 2015-03-06 |
+| Hotărârea Guvernului nr. 109/2015 privind modificarea şi completarea anexei nr. 12 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului | [`hg/2015/109/`](hg/2015/109/) | amending act | 1 | 2015-03-06 | 2015-03-06 |
+| Hotărârea Guvernului nr. 110/2015 privind aprobarea unor modificări şi completări în inventarul bunurilor din domeniul public al statului aflate în administrarea Ministerului Apărării Naţionale | [`hg/2015/110/`](hg/2015/110/) | amending act | 1 | 2015-02-27 | 2015-02-27 |
+| Hotărârea Guvernului nr. 111/2015 pentru aprobarea bugetului de venituri şi cheltuieli pe anul 2015 al Agenţiei Naţionale pentru Locuinţe, instituţie publică aflată sub autoritatea Ministerului Dezvoltării Regionale şi Administraţiei Publice | [`hg/2015/111/`](hg/2015/111/) | amending act | 1 | 2015-02-20 | 2015-02-20 |
 | Hotărârea Guvernului nr. 112/2015 pentru modificarea şi completarea unor anexe la Hotărârea Guvernului nr. 974/2002 privind atestarea domeniului public al judeţului Alba, precum şi al municipiilor, oraşelor şi comunelor din judeţul Alba | [`hg/2015/112/`](hg/2015/112/) | amending act | 1 | 2015-02-26 | 2015-02-26 |
 | Hotărârea Guvernului nr. 114/2015 | [`hg/2015/114/`](hg/2015/114/) | in force | 1 | 2015-03-09 | 2015-03-09 |
 | Hotărârea Guvernului nr. 116/2015 privind instituirea unui sistem de trasabilitate a articolelor pirotehnice | [`hg/2015/116/`](hg/2015/116/) | in force | 1 | 2016-10-17 | 2016-10-17 |

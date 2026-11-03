@@ -5,7 +5,7 @@ How to query this repository without reading it all. Everything here is plain gi
 ## Find an act
 
 - `data/acts.json`: one row per act with `slug` (the act id), `path` (its folder), `kind` (`constitutie`, `lege`, `oug`, `og`, `hg`), `year`, `number`, `title`, `code` (the code's name, if it is one), `status` (`in force`, `repealed <day>`, `amending act`), `versions`, `from`, `latest` and `portal` (the source page).
-- The folder is the official identifier: Legea nr. 31/1990 is `lege/1990/31/`, OUG nr. 195/2002 `oug/2002/195/`, HG nr. 1/2016 `hg/2016/1/`. A code lives under its own act: Codul civil `lege/2009/287/`, Codul administrativ `oug/2019/57/`, the Constitution `constitutie/1991/`.
+- The folder is the official identifier: Legea nr. 31/1990 is `lege/1990/31/`, OUG nr. 195/2002 `oug/2002/195/`, HG nr. 10/2016 `hg/2016/10/`. A code lives under its own act: Codul civil `lege/2009/287/`, Codul administrativ `oug/2019/57/`, the Constitution `constitutie/1991/`.
 - `data/paths.json` maps every act id to its folder.
 - [ACTS.md](ACTS.md) is the same list for people.
 

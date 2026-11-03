@@ -24,7 +24,7 @@ Folders follow the official identifier, as in the UK (`ukpga/2014/6/`) and Germa
 ## Find an act
 
 - **By name:** the codes are at the top of [ACTS.md](ACTS.md) (Codul civil, Codul fiscal, Codul de procedură fiscală, Codul vamal, …); every other act is listed there by title.
-- **By number:** Legea nr. 207/2015 is `lege/2015/207/`, OUG nr. 195/2002 is `oug/2002/195/`, HG nr. 1/2016 is `hg/2016/1/`.
+- **By number:** Legea nr. 207/2015 is `lege/2015/207/`, OUG nr. 195/2002 is `oug/2002/195/`, HG nr. 10/2016 is `hg/2016/10/`.
 - **On a date:** `python tools/in_vigoare_la.py 2014-10-18 codul-civil 1112` (by id) or `python tools/on.py 2014-10-18 lege/2009/287 1112` (by folder).
 
 **What is in it now**
