@@ -32421,6 +32421,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/211301"
 },
 {
+"slug": "oug-50-2004",
+"path": "oug/2004/50",
+"kind": "oug",
+"year": "2004",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 50/2004",
+"short": "OUG nr. 50/2004",
+"code": null,
+"status": "in force",
+"versions": 4,
+"from": "2004-07-01",
+"latest": "2009-11-12",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/53215"
+},
+{
 "slug": "oug-55-2004",
 "path": "oug/2004/55",
 "kind": "oug",
@@ -34595,6 +34612,23 @@
 "from": "2007-09-26",
 "latest": "2007-09-26",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/85642"
+},
+{
+"slug": "oug-91-2007",
+"path": "oug/2007/91",
+"kind": "oug",
+"year": "2007",
+"number": "91",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 91/2007",
+"short": "OUG nr. 91/2007",
+"code": null,
+"status": "in force",
+"versions": 3,
+"from": "2007-10-01",
+"latest": "2008-10-30",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/85762"
 },
 {
 "slug": "oug-92-2007",

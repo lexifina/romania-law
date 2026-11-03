@@ -1,6 +1,6 @@
 # Every act in this repository
 
-5895 acts, 16,597 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+5897 acts, 16,604 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -1753,7 +1753,7 @@
 | Legea nr. 241/2025 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 31/2002 privind interzicerea organizațiilor, simbolurilor și faptelor cu caracter fascist, legionar, rasist sau xenofob și a promovării cultului persoanelor vinovate de săvârșirea unor infracțiuni de genocid contra umanității și de crime de război, precum și pentru modificarea Legii nr. 157/2018 privind unele măsuri pentru prevenirea și combaterea antisemitismului | [`lege/2025/241/`](lege/2025/241/) | amending act | 1 | 2025-12-27 | 2025-12-27 |
 | Legea nr. 245/2025 pentru modificarea art. 32 alin. (7) din Legea nr. 273/2006 privind finanțele publice locale | [`lege/2025/245/`](lege/2025/245/) | amending act | 1 | 2026-01-01 | 2026-01-01 |
 
-## Emergency ordinances (OUG) (1426, of which 516 amending acts)
+## Emergency ordinances (OUG) (1428, of which 516 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -1947,6 +1947,7 @@
 | Ordonanța de urgență a Guvernului nr. 37/2004 | [`oug/2004/37/`](oug/2004/37/) | in force | 3 | 2004-05-28 | 2004-11-22 |
 | Ordonanța de urgență a Guvernului nr. 41/2004 | [`oug/2004/41/`](oug/2004/41/) | in force | 2 | 2004-06-07 | 2004-11-20 |
 | Ordonanța de urgență a Guvernului nr. 48/2004 | [`oug/2004/48/`](oug/2004/48/) | in force | 2 | 2004-06-24 | 2004-10-31 |
+| Ordonanța de urgență a Guvernului nr. 50/2004 | [`oug/2004/50/`](oug/2004/50/) | in force | 4 | 2004-07-01 | 2009-11-12 |
 | Ordonanța de urgență a Guvernului nr. 55/2004 | [`oug/2004/55/`](oug/2004/55/) | in force | 1 | 2004-07-01 | 2004-07-01 |
 | Ordonanța de urgență a Guvernului nr. 59/2004 | [`oug/2004/59/`](oug/2004/59/) | in force | 1 | 2004-08-31 | 2004-08-31 |
 | Ordonanța de urgență a Guvernului nr. 65/2004 | [`oug/2004/65/`](oug/2004/65/) | in force | 2 | 2004-09-14 | 2004-11-21 |
@@ -2075,6 +2076,7 @@
 | Ordonanța de urgență a Guvernului nr. 87/2007 | [`oug/2007/87/`](oug/2007/87/) | in force | 2 | 2007-09-14 | 2008-04-14 |
 | Ordonanța de urgență a Guvernului nr. 89/2007 | [`oug/2007/89/`](oug/2007/89/) | in force | 2 | 2007-09-19 | 2008-04-18 |
 | Ordonanța de urgență a Guvernului nr. 90/2007 | [`oug/2007/90/`](oug/2007/90/) | in force | 1 | 2007-09-26 | 2007-09-26 |
+| Ordonanța de urgență a Guvernului nr. 91/2007 | [`oug/2007/91/`](oug/2007/91/) | in force | 3 | 2007-10-01 | 2008-10-30 |
 | Ordonanța de urgență a Guvernului nr. 92/2007 | [`oug/2007/92/`](oug/2007/92/) | in force | 2 | 2007-10-01 | 2008-11-06 |
 | Ordonanța de urgență a Guvernului nr. 93/2007 | [`oug/2007/93/`](oug/2007/93/) | in force | 1 | 2007-10-01 | 2007-10-01 |
 | Ordonanța de urgență a Guvernului nr. 97/2007 | [`oug/2007/97/`](oug/2007/97/) | in force | 3 | 2007-10-08 | 2008-10-24 |
