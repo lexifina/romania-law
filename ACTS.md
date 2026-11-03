@@ -1,6 +1,6 @@
 # Every act in this repository
 
-17881 acts, 31,507 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+17901 acts, 31,527 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (2971, of which 1553 amending acts)
+## Laws (legi) (2974, of which 1556 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -1139,6 +1139,9 @@
 | Legea nr. 100/2015 | [`lege/2015/100/`](lege/2015/100/) | in force | 1 | 2015-05-11 | 2015-05-11 |
 | Legea nr. 102/2015 | [`lege/2015/102/`](lege/2015/102/) | in force | 1 | 2015-05-16 | 2015-05-16 |
 | Legea nr. 103/2015 | [`lege/2015/103/`](lege/2015/103/) | in force | 1 | 2015-05-21 | 2015-05-21 |
+| Legea nr. 105/2015 privind aprobarea Ordonanţei Guvernului nr. 12/2015 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 64/2009 privind gestionarea financiară a instrumentelor structurale şi utilizarea acestora pentru obiectivul convergenţă | [`lege/2015/105/`](lege/2015/105/) | amending act | 1 | 2015-05-21 | 2015-05-21 |
+| Legea nr. 106/2015 privind aprobarea Ordonanţei Guvernului nr. 3/2015 pentru modificarea şi completarea Legii nr. 146/2014 privind autorizarea plăţii cotizaţiilor la Forumul Internaţional al Echipelor de Răspuns la Incidente de Securitate Cibernetică (Forum of Incident Response and Security Teams - FIRST) şi la Forumul TF/CSIRT Trusted Introducer (TI) din cadrul Asociaţiei Transeuropene a Reţelelor din Domeniul Cercetării şi al Educaţiei (Transeuropean Research and Education Network Association - TERENA) în scopul menţinerii participării Centrului Naţional de Răspuns la Incidente de Securitate Cibernetică CERT - RO la aceste două organisme neguvernamentale | [`lege/2015/106/`](lege/2015/106/) | amending act | 1 | 2015-05-22 | 2015-05-22 |
+| Legea nr. 108/2015 privind aprobarea Ordonanţei Guvernului nr. 11/2014 pentru completarea art. 2 din Ordonanţa Guvernului nr. 82/2001 privind stabilirea unor forme de sprijin financiar pentru unităţile de cult aparţinând cultelor religioase recunoscute din România | [`lege/2015/108/`](lege/2015/108/) | amending act | 1 | 2015-05-18 | 2015-05-18 |
 | Legea nr. 109/2015 pentru aprobarea Ordonanţei Guvernului nr. 29/2010 privind modificarea şi completarea Legii nr. 220/2008 pentru stabilirea sistemului de promovare a producerii energiei din surse regenerabile de energie | [`lege/2015/109/`](lege/2015/109/) | amending act | 1 | 2015-05-18 | 2015-05-18 |
 | Legea nr. 110/2015 privind aprobarea Ordonanţei Guvernului nr. 2/2015 pentru reglementarea unor măsuri bugetare | [`lege/2015/110/`](lege/2015/110/) | amending act | 1 | 2015-05-18 | 2015-05-18 |
 | Legea nr. 111/2015 pentru modificarea Legii nr. 350/2005 privind regimul finanţărilor nerambursabile din fonduri publice alocate pentru activităţi nonprofit de interes general | [`lege/2015/111/`](lege/2015/111/) | amending act | 1 | 2015-05-18 | 2015-05-18 |
@@ -5206,7 +5209,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (12684, of which 6259 amending acts)
+## Government decisions (HG) (12701, of which 6273 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -8710,6 +8713,23 @@
 | Hotărârea Guvernului nr. 274/2015 | [`hg/2015/274/`](hg/2015/274/) | in force | 1 | 2015-04-29 | 2015-04-29 |
 | Hotărârea Guvernului nr. 294/2015 | [`hg/2015/294/`](hg/2015/294/) | in force | 4 | 2015-05-06 | 2022-07-05 |
 | Hotărârea Guvernului nr. 308/2015 | [`hg/2015/308/`](hg/2015/308/) | in force | 1 | 2015-05-11 | 2015-05-11 |
+| Hotărârea Guvernului nr. 324/2015 privind rechemarea unui consul general | [`hg/2015/324/`](hg/2015/324/) | in force | 1 | 2015-05-14 | 2015-05-14 |
+| Hotărârea Guvernului nr. 325/2015 pentru modificarea Hotărârii Guvernului nr. 158/2015 privind suplimentarea bugetului Ministerului Culturii din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2015, pentru finanţarea unui proiect cultural | [`hg/2015/325/`](hg/2015/325/) | amending act | 1 | 2015-05-13 | 2015-05-13 |
+| Hotărârea Guvernului nr. 326/2015 privind suplimentarea numărului maxim de posturi pentru Ministerul Public | [`hg/2015/326/`](hg/2015/326/) | in force | 1 | 2015-05-14 | 2015-05-14 |
+| Hotărârea Guvernului nr. 328/2015 privind aprobarea bugetului de venituri şi cheltuieli pe anul 2015 pentru Societatea Comercială Electrocentrale Grup - S.A., aflată sub autoritatea Ministerului Energiei, Întreprinderilor Mici şi Mijlocii şi Mediului de Afaceri | [`hg/2015/328/`](hg/2015/328/) | amending act | 1 | 2015-05-20 | 2015-05-20 |
+| Hotărârea Guvernului nr. 329/2015 privind aprobarea bugetului de venituri şi cheltuieli pe anul 2015 pentru Societatea Naţională de Gaze Naturale ROMGAZ - S.A. Mediaş, aflată sub autoritatea Ministerului Energiei, Întreprinderilor Mici şi Mijlocii şi Mediului de Afaceri | [`hg/2015/329/`](hg/2015/329/) | amending act | 1 | 2015-05-20 | 2015-05-20 |
+| Hotărârea Guvernului nr. 330/2015 privind aprobarea unor modificări şi completări în inventarul bunurilor din domeniul public al statului aflate în administrarea Ministerului Apărării Naţionale | [`hg/2015/330/`](hg/2015/330/) | amending act | 1 | 2015-05-19 | 2015-05-19 |
+| Hotărârea Guvernului nr. 331/2015 pentru completarea anexei nr. 64 la Hotărârea Guvernului nr. 973/2002 privind atestarea domeniului public al judeţului Gorj, precum şi al municipiilor, oraşelor şi comunelor din judeţul Gorj | [`hg/2015/331/`](hg/2015/331/) | amending act | 1 | 2015-05-18 | 2015-05-18 |
+| Hotărârea Guvernului nr. 332/2015 privind trecerea unui drum forestier şi a terenului aferent acestuia din domeniul public al statului şi din administrarea Regiei Naţionale a Pădurilor - Romsilva în domeniul public al comunei Ciocăneşti, judeţul Suceava | [`hg/2015/332/`](hg/2015/332/) | in force | 1 | 2015-05-18 | 2015-05-18 |
+| Hotărârea Guvernului nr. 333/2015 pentru modificarea Hotărârii Guvernului nr. 1.084/2007 privind stabilirea unor măsuri pentru aplicarea Regulamentului Consiliului Uniunii Europene nr. 2.964/95/CE de introducere a înregistrării importurilor şi livrărilor de ţiţei în cadrul Comunităţii, a Deciziei Consiliului Uniunii Europene nr. 1999/280/CE privind o procedură comunitară de informare şi de consultare asupra costurilor de aprovizionare cu ţiţei şi asupra preţurilor de consum ale produselor petroliere şi a Deciziei Comisiei Europene nr. 1999/566/CE de aplicare a Deciziei 1999/280/CE a Consiliului privind o procedură comunitară de informare şi de consultare asupra costurilor de aprovizionare cu ţiţei şi a preţurilor de consum ale produselor petroliere | [`hg/2015/333/`](hg/2015/333/) | amending act | 1 | 2015-05-20 | 2015-05-20 |
+| Hotărârea Guvernului nr. 334/2015 privind abrogarea Hotărârii Guvernului nr. 86/2013 pentru aprobarea strategiei de privatizare prin metoda majorării de capital social prin aport de capital privat a Societăţii Comerciale Complexul Energetic Hunedoara - S.A | [`hg/2015/334/`](hg/2015/334/) | amending act | 1 | 2015-05-18 | 2015-05-18 |
+| Hotărârea Guvernului nr. 336/2015 pentru modificarea anexelor nr. 4 şi 5 la Legea nr. 104/2011 privind calitatea aerului înconjurător | [`hg/2015/336/`](hg/2015/336/) | amending act | 1 | 2015-05-19 | 2015-05-19 |
+| Hotărârea Guvernului nr. 337/2015 privind trecerea din domeniul public în domeniul privat al statului a unor construcţii şi amenajări la terenuri din cadrul unor imobile aflate în administrarea Ministerului Apărării Naţionale, situate în judeţele Buzău, Bihor, Sibiu, Neamţ, Botoşani, Dâmboviţa, Satu Mare, Arad, Argeş, Mureş, Braşov, Alba, Tulcea, Bacău, Constanţa, Cluj şi municipiul Bucureşti în vederea scoaterii din funcţiune şi casării acestora şi pentru actualizarea anexei nr. 4 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului | [`hg/2015/337/`](hg/2015/337/) | amending act | 1 | 2015-05-27 | 2015-05-27 |
+| Hotărârea Guvernului nr. 340/2015 privind aprobarea stemelor comunelor Odăile şi Poşta Câlnău, judeţul Buzău | [`hg/2015/340/`](hg/2015/340/) | amending act | 1 | 2015-05-27 | 2015-05-27 |
+| Hotărârea Guvernului nr. 341/2015 privind aprobarea stemei comunei Mereni, judeţul Covasna | [`hg/2015/341/`](hg/2015/341/) | amending act | 1 | 2015-05-27 | 2015-05-27 |
+| Hotărârea Guvernului nr. 343/2015 privind aprobarea obiectivului de investiţii "Punerea în siguranţă a barajului Işalniţa, judeţul Dolj", precum şi a caracteristicilor principale şi a indicatorilor tehnico-economici aferenţi acestuia | [`hg/2015/343/`](hg/2015/343/) | amending act | 1 | 2015-05-25 | 2015-05-25 |
+| Hotărârea Guvernului nr. 344/2015 pentru aprobarea înscrierii în inventarul centralizat al bunurilor din domeniul public al statului şi darea în administrarea Consiliului Concurenţei a unor imobile | [`hg/2015/344/`](hg/2015/344/) | amending act | 1 | 2015-05-25 | 2015-05-25 |
+| Hotărârea Guvernului nr. 345/2015 privind aprobarea stemelor comunelor Bocicoiu Mare, Coaş, Onceşti şi Suciu de Sus, judeţul Maramureş | [`hg/2015/345/`](hg/2015/345/) | amending act | 1 | 2015-06-10 | 2015-06-10 |
 | Hotărârea Guvernului nr. 347/2015 privind suplimentarea bugetului Ministerului Afacerilor Interne pe anul 2015 din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2015, pentru achiziţia de apă grea | [`hg/2015/347/`](hg/2015/347/) | in force | 1 | 2015-05-20 | 2015-05-20 |
 | Hotărârea Guvernului nr. 348/2015 privind aprobarea bugetului de venituri şi cheltuieli pe anul 2015 al Societăţii Naţionale "Aeroportul Internaţional Mihail Kogălniceanu - Constanţa" - S.A., aflată sub autoritatea Ministerului Transporturilor | [`hg/2015/348/`](hg/2015/348/) | amending act | 1 | 2015-05-22 | 2015-05-22 |
 | Hotărârea Guvernului nr. 350/2015 privind reactualizarea valorii taxelor pentru activităţile miniere, prevăzute de Legea minelor nr. 85/2003 | [`hg/2015/350/`](hg/2015/350/) | in force | 1 | 2015-05-25 | 2015-05-25 |
