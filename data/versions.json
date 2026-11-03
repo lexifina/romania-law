@@ -149699,6 +149699,21 @@
    ]
   },
   {
+   "slug": "hg-188-2017",
+   "path": "hg/2017/188",
+   "short": "HG nr. 188/2017",
+   "title": "Hotărârea Guvernului nr. 188/2017 privind modificarea şi completarea Hotărârii Guvernului nr. 345/2010 pentru aprobarea modelelor formularelor-tip folosite în activitatea de cazier judiciar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/188017",
+   "versions": [
+    {
+     "from": "2017-04-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/188017",
+     "sha256": "96c47b81ba749a5d090079cffa6c0567626a70ad556c1464bbfc8f316647a2dd"
+    }
+   ]
+  },
+  {
    "slug": "hg-188-2018",
    "path": "hg/2018/188",
    "short": "HG nr. 188/2018",
@@ -149785,6 +149800,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/90476",
      "sha256": "3a10a4c73008e7d5fbe38a57de23d2b2081c44e14db5009469d1d62185583b55"
+    }
+   ]
+  },
+  {
+   "slug": "hg-189-2017",
+   "path": "hg/2017/189",
+   "short": "HG nr. 189/2017",
+   "title": "Hotărârea Guvernului nr. 189/2017 privind desfiinţarea Centrului de Sănătate Teaca, judeţul Bistriţa-Năsăud",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/187974",
+   "versions": [
+    {
+     "from": "2017-04-05",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/187974",
+     "sha256": "70549bfd311e87da66d82c137d7673369579006d9e408893720284c6fffc28c9"
     }
    ]
   },
@@ -151472,6 +151502,21 @@
    ]
   },
   {
+   "slug": "hg-200-2017",
+   "path": "hg/2017/200",
+   "short": "HG nr. 200/2017",
+   "title": "Hotărârea Guvernului nr. 200/2017 privind acordarea unor ajutoare de urgenţă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/188034",
+   "versions": [
+    {
+     "from": "2017-04-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/188034",
+     "sha256": "48b8c8be44d8db1febf2d381ff67ca790dc99bb0086879ac46e3361d7d2278d9"
+    }
+   ]
+  },
+  {
    "slug": "hg-200-2018",
    "path": "hg/2018/200",
    "short": "HG nr. 200/2018",
@@ -151639,6 +151684,21 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/117383",
      "sha256": "111c5436c4adf9990ea51871822cc4fbb71455d68c0963797b005532a0029cbb"
+    }
+   ]
+  },
+  {
+   "slug": "hg-201-2017",
+   "path": "hg/2017/201",
+   "short": "HG nr. 201/2017",
+   "title": "Hotărârea Guvernului nr. 201/2017 pentru aprobarea bugetului de venituri şi cheltuieli pe anul 2017 al Agenţiei Naţionale pentru Locuinţe, instituţie publică aflată sub autoritatea Ministerului Dezvoltării Regionale, Administraţiei Publice şi Fondurilor Europene",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/188019",
+   "versions": [
+    {
+     "from": "2017-04-06",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/188019",
+     "sha256": "078185d18e4f8e5a3c9b6f1a2c9690fa3ff663493ea2a4cc8df9e053f6794112"
     }
    ]
   },
