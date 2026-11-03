@@ -1,6 +1,6 @@
 # Every act in this repository
 
-20077 acts, 33,708 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+20086 acts, 33,717 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -5436,7 +5436,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (14650, of which 7490 amending acts)
+## Government decisions (HG) (14659, of which 7493 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -8697,6 +8697,15 @@
 | Hotărârea Guvernului nr. 390/2012 | [`hg/2012/390/`](hg/2012/390/) | in force | 1 | 2012-05-08 | 2012-05-08 |
 | Hotărârea Guvernului nr. 544/2012 | [`hg/2012/544/`](hg/2012/544/) | in force | 1 | 2012-05-31 | 2012-05-31 |
 | Hotărârea Guvernului nr. 549/2012 | [`hg/2012/549/`](hg/2012/549/) | in force | 1 | 2012-05-30 | 2012-05-30 |
+| Hotărârea Guvernului nr. 596/2012 pentru completarea anexei nr. 2 la Hotărârea Guvernului nr. 798/2003 privind stabilirea condiţiilor de introducere pe piaţă şi de utilizare a dispozitivelor medicale pentru diagnostic în vitro | [`hg/2012/596/`](hg/2012/596/) | amending act | 1 | 2012-07-01 | 2012-07-01 |
+| Hotărârea Guvernului nr. 597/2012 privind rechemarea unui consul general | [`hg/2012/597/`](hg/2012/597/) | in force | 1 | 2012-06-18 | 2012-06-18 |
+| Hotărârea Guvernului nr. 598/2012 privind suplimentarea bugetelor Ministerului Justiţiei, Înaltei Curţi de Casaţie şi Justiţie, Ministerului Public şi Consiliului Superior al Magistraturii pe anul 2012 pentru plata titlurilor executorii prevăzute de Ordonanţa de urgenţă a Guvernului nr. 71/2009 privind plata unor sume prevăzute în titluri executorii având ca obiect acordarea de drepturi salariale personalului din sectorul bugetar | [`hg/2012/598/`](hg/2012/598/) | in force | 1 | 2012-06-18 | 2012-06-18 |
+| Hotărârea Guvernului nr. 599/2012 privind participarea României la studiul dezvoltat de Organizaţia pentru Cooperare şi Dezvoltare Economică, OCDE - Skills beyond School, în anul 2012 | [`hg/2012/599/`](hg/2012/599/) | in force | 1 | 2012-06-20 | 2012-06-20 |
+| Hotărârea Guvernului nr. 600/2012 privind înfiinţarea Centrului de Sănătate Multifuncţional Băneasa prin reorganizarea Centrului de Sănătate Băneasa şi a Spitalului Clinic Judeţean de Urgenţă Constanţa | [`hg/2012/600/`](hg/2012/600/) | in force | 1 | 2012-06-20 | 2012-06-20 |
+| Hotărârea Guvernului nr. 602/2012 pentru aprobarea plăţii contribuţiei voluntare, în lei, a României la Programul Naţiunilor Unite pentru Dezvoltare pe anul 2012 | [`hg/2012/602/`](hg/2012/602/) | amending act | 1 | 2012-06-19 | 2012-06-19 |
+| Hotărârea Guvernului nr. 603/2012 privind desfiinţarea unei unităţi sanitare publice cu paturi pentru care managementul asistenţei medicale a fost transferat către autoritatea administraţiei publice locale Zlatna din judeţul Alba | [`hg/2012/603/`](hg/2012/603/) | in force | 1 | 2012-06-20 | 2012-06-20 |
+| Hotărârea Guvernului nr. 605/2012 privind stabilirea cuantumului valorilor minime a taxelor de licenţă pentru acordarea drepturilor de utilizare a frecvenţelor radio în benzile de frecvenţe 790-862 MHz, 880-915 MHz/925-960 MHz, 1710-1785 MHz/1805-1880 MHz şi 2500-2690 MHz | [`hg/2012/605/`](hg/2012/605/) | in force | 1 | 2012-06-20 | 2012-06-20 |
+| Hotărârea Guvernului nr. 606/2012 pentru modificarea Hotărârii Guvernului nr. 1.165/2011 privind utilizarea fondurilor alocate prin Fondul de Solidaritate al Uniunii Europene pentru decontarea cheltuielilor publice eligibile operaţiunilor de urgenţă întreprinse în scopul înlăturării pagubelor provocate de inundaţiile din perioada 23 iunie 2010-31 iulie 2010 | [`hg/2012/606/`](hg/2012/606/) | amending act | 1 | 2012-06-26 | 2012-06-26 |
 | Hotărârea Guvernului nr. 607/2012 privind încetarea exercitării, cu caracter temporar, a funcţiei publice de prefect al judeţului Iaşi de către domnul Bosianu Marian | [`hg/2012/607/`](hg/2012/607/) | in force | 1 | 2012-06-20 | 2012-06-20 |
 | Hotărârea Guvernului nr. 608/2012 privind exercitarea, cu caracter temporar, prin detaşare în condiţiile legii, a funcţiei publice de prefect al judeţului Iaşi de către domnul Olteanu Romeo | [`hg/2012/608/`](hg/2012/608/) | in force | 1 | 2012-06-20 | 2012-06-20 |
 | Hotărârea Guvernului nr. 609/2012 privind exercitarea, cu caracter temporar, prin detaşare în condiţiile legii, a funcţiei publice de prefect al judeţului Hunedoara de către domnul Vasilescu Sorin-Adrian | [`hg/2012/609/`](hg/2012/609/) | in force | 1 | 2012-06-20 | 2012-06-20 |
