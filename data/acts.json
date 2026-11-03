@@ -3708,6 +3708,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/36837"
 },
 {
+"slug": "legea-349-2002",
+"path": "lege/2002/349",
+"kind": "lege",
+"year": "2002",
+"number": "349",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 349/2002",
+"short": "Legea nr. 349/2002",
+"code": null,
+"status": "in force",
+"versions": 13,
+"from": "2002-12-21",
+"latest": "2024-11-11",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/36778"
+},
+{
 "slug": "legea-365-2002",
 "path": "lege/2002/365",
 "kind": "lege",
@@ -5049,6 +5066,23 @@
 "from": "2004-04-25",
 "latest": "2004-04-25",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/51346"
+},
+{
+"slug": "legea-138-2004",
+"path": "lege/2004/138",
+"kind": "lege",
+"year": "2004",
+"number": "138",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 138/2004",
+"short": "Legea nr. 138/2004",
+"code": null,
+"status": "in force",
+"versions": 24,
+"from": "2004-05-01",
+"latest": "2025-04-18",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/51504"
 },
 {
 "slug": "legea-158-2004",

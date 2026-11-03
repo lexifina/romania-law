@@ -1,6 +1,6 @@
 # Every act in this repository
 
-5307 acts, 14,087 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+5309 acts, 14,124 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -32,7 +32,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (1511, of which 608 amending acts)
+## Laws (legi) (1513, of which 608 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -253,6 +253,7 @@
 | Legea nr. 309/2002 | [`lege/2002/309/`](lege/2002/309/) | in force | 6 | 2002-08-05 | 2016-11-28 |
 | Legea nr. 338/2002 | [`lege/2002/338/`](lege/2002/338/) | in force | 1 | 2002-06-25 | 2002-06-25 |
 | Legea nr. 341/2002 | [`lege/2002/341/`](lege/2002/341/) | in force | 1 | 2002-06-25 | 2002-06-25 |
+| Legea nr. 349/2002 | [`lege/2002/349/`](lege/2002/349/) | in force | 13 | 2002-12-21 | 2024-11-11 |
 | Legea nr. 365/2002 privind comerțul electronic | [`lege/2002/365/`](lege/2002/365/) | in force | 7 | 2002-07-05 | 2024-10-08 |
 | Legea nr. 372/2002 | [`lege/2002/372/`](lege/2002/372/) | in force | 1 | 2002-06-26 | 2002-06-26 |
 | Legea nr. 395/2002 | [`lege/2002/395/`](lege/2002/395/) | in force | 2 | 2002-07-16 | 2002-09-04 |
@@ -332,6 +333,7 @@
 | Legea nr. 84/2004 | [`lege/2004/84/`](lege/2004/84/) | in force | 1 | 2004-04-10 | 2004-04-10 |
 | Legea nr. 105/2004 | [`lege/2004/105/`](lege/2004/105/) | in force | 1 | 2004-04-16 | 2004-04-16 |
 | Legea nr. 126/2004 privind aprobarea Ordonanței Guvernului nr. 24/2004 pentru modificarea și completarea Ordonanței Guvernului nr. 69/2002 privind regimul juridic al cărții electronice de identitate | [`lege/2004/126/`](lege/2004/126/) | amending act | 1 | 2004-04-25 | 2004-04-25 |
+| Legea nr. 138/2004 | [`lege/2004/138/`](lege/2004/138/) | in force | 24 | 2004-05-01 | 2025-04-18 |
 | Legea nr. 158/2004 | [`lege/2004/158/`](lege/2004/158/) | in force | 1 | 2004-05-28 | 2004-05-28 |
 | Legea nr. 200/2004 | [`lege/2004/200/`](lege/2004/200/) | in force | 9 | 2004-06-06 | 2024-10-14 |
 | Legea nr. 211/2004 privind unele măsuri pentru asigurarea protecției victimelor infracțiunilor | [`lege/2004/211/`](lege/2004/211/) | in force | 8 | 2005-01-01 | 2024-11-08 |
