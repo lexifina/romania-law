@@ -9641,6 +9641,27 @@
    ]
   },
   {
+   "slug": "hg-1045-2018",
+   "path": "hg/2018/1045",
+   "short": "HG nr. 1045/2018",
+   "title": "Hotărârea Guvernului nr. 1045/2018 pentru aprobarea Normelor metodologice de aplicare a Legii nr. 165/2018 privind acordarea biletelor de valoare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/209698",
+   "versions": [
+    {
+     "from": "2019-01-09",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/209698",
+     "sha256": "35ec2d1b59d22dde64ff2fbb8b2fdcafae3fecb334b3ec27283685cd7b510175"
+    },
+    {
+     "from": "2022-07-26",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/257245",
+     "sha256": "d4807f597b3cc726460acb5bcc0ac544ac9934f05919a6a6e60c2d6749e53962"
+    }
+   ]
+  },
+  {
    "slug": "hg-1048-2006",
    "path": "hg/2006/1048",
    "short": "HG nr. 1048/2006",
@@ -10705,6 +10726,33 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/164537",
      "sha256": "f27c34be43303fc2ceb4fe99445593903702146acbcad7723c9d23e494ae9e9a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1156-2013",
+   "path": "hg/2013/1156",
+   "short": "HG nr. 1156/2013",
+   "title": "Hotărârea Guvernului nr. 1156/2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/154320",
+   "versions": [
+    {
+     "from": "2014-01-17",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/154320",
+     "sha256": "6a4ba3b666f9d19aa285fa0eb78bf460b62385ea28687f6a15a6beadb505a8b7"
+    },
+    {
+     "from": "2024-11-21",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/290730",
+     "sha256": "fbae22cbed2eec69e094e6693ae33464d2e9e6adb76c7ac21b8f76554da7b1da"
+    },
+    {
+     "from": "2024-12-21",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/290730",
+     "sha256": "fbae22cbed2eec69e094e6693ae33464d2e9e6adb76c7ac21b8f76554da7b1da"
     }
    ]
   },
@@ -12997,6 +13045,66 @@
      "units": 19,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/268652",
      "sha256": "556bb919b8675fc9dbba9e4bc2c16645c21b47ccb94e5891a19d931ab83590c5"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1570-2022",
+   "path": "hg/2022/1570",
+   "short": "HG nr. 1570/2022",
+   "title": "Hotărârea Guvernului nr. 1570/2022 privind stabilirea cadrului general de implementare a intervențiilor specifice dezvoltării rurale cuprinse în Planul strategic PAC 2023-2027",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/279855",
+   "versions": [
+    {
+     "from": "2022-12-29",
+     "units": 47,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/263280",
+     "sha256": "02bf86558cbf6b2f2e0ff7837adb4ce17423b5eb4fdc6cd089aa2ee1580d787a"
+    },
+    {
+     "from": "2023-11-13",
+     "units": 47,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/269251",
+     "sha256": "6ad3c99069bda27a57b96c04e7aafc61660e2656db2c5dd21e6590050b75cd8b"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1571-2022",
+   "path": "hg/2022/1571",
+   "short": "HG nr. 1571/2022",
+   "title": "Hotărârea Guvernului nr. 1571/2022 privind stabilirea cadrului general de implementare a intervențiilor aferente sectoarelor vegetal și zootehnic din cadrul Planului strategic PAC 2023-2027, finanțate din Fondul european de garantare agricolă și de la bugetul de stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/263344",
+   "versions": [
+    {
+     "from": "2022-12-30",
+     "units": 54,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/263344",
+     "sha256": "d03c4d1671ddea0438ca2f03e6988eeb13cf91e812b5e99a9e95e385bf1e187a"
+    },
+    {
+     "from": "2023-05-12",
+     "units": 54,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/267055",
+     "sha256": "d9448f46edd85c139bfe944e15e78fc3d63a43688e417abe1b87f10f3a998822"
+    },
+    {
+     "from": "2024-03-18",
+     "units": 55,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/279846",
+     "sha256": "73023b8e9c805e27e272b7a463680afecc19d706f18f37b51977ee6015278a4e"
+    },
+    {
+     "from": "2024-11-01",
+     "units": 56,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/289600",
+     "sha256": "4dbc9697d26d7c49a02c6373461db1dbed68c366fdc0918ba002f7fcba4b14df"
+    },
+    {
+     "from": "2025-01-17",
+     "units": 56,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/293282",
+     "sha256": "b2be6817b2ed62b4fc2550b8fd5a733de10eaa467f4671e1006bd08675c58ad0"
     }
    ]
   },
@@ -15464,6 +15572,27 @@
    ]
   },
   {
+   "slug": "hg-311-2022",
+   "path": "hg/2022/311",
+   "short": "HG nr. 311/2022",
+   "title": "Hotărârea Guvernului nr. 311/2022 privind intensitatea maximă a ajutorului de stat regional în perioada 2022-2027 pentru investiții inițiale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/252399",
+   "versions": [
+    {
+     "from": "2022-03-04",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/252399",
+     "sha256": "5dbfa2ddd088f74a3a2dc484576b97215ba8864c61dec013c74c073626ffec09"
+    },
+    {
+     "from": "2023-04-13",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/266821",
+     "sha256": "9472b2c411175a6f147a68319ca17a0f1569883041ce2bdae14b2a26d842f65b"
+    }
+   ]
+  },
+  {
    "slug": "hg-312-2022",
    "path": "hg/2022/312",
    "short": "HG nr. 312/2022",
@@ -15577,6 +15706,27 @@
      "units": 14,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/218056",
      "sha256": "53c2002fe79b5220fba2d4a07e8cca24a7dbb73e2e1c25b59e702613bd614bc5"
+    }
+   ]
+  },
+  {
+   "slug": "hg-325-2025",
+   "path": "hg/2025/325",
+   "short": "HG nr. 325/2025",
+   "title": "Hotărârea Guvernului nr. 325/2025 privind aprobarea schemei \"Ajutor de minimis pentru aplicarea Programului de susţinere a producţiei de legume cultivate în spaţii protejate\", în perioada 2025-2027",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/296454",
+   "versions": [
+    {
+     "from": "2025-04-08",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/296454",
+     "sha256": "125705cdd3b55c991b059ce2e9071d85ab3ca27049bcdc3c80aff59674c6f004"
+    },
+    {
+     "from": "2025-10-13",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/302993",
+     "sha256": "c25393a8786db3e977096c9994d6dd6d7657c1e92a6e1ffb7798da819a13203f"
     }
    ]
   },
@@ -17410,6 +17560,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/169303",
      "sha256": "28a4f4c217d11276f02ec6ace8795a07a566263402ebfad69b33b319db03662e"
+    }
+   ]
+  },
+  {
+   "slug": "hg-473-2014",
+   "path": "hg/2014/473",
+   "short": "HG nr. 473/2014",
+   "title": "Hotărârea Guvernului nr. 473/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/159144",
+   "versions": [
+    {
+     "from": "2014-06-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/159144",
+     "sha256": "09e50d348cadde97f07497a0b8ec6101b3773fb804b2b5367a6533111eeee6a3"
     }
    ]
   },
@@ -20411,6 +20576,21 @@
    ]
   },
   {
+   "slug": "hg-707-2018",
+   "path": "hg/2018/707",
+   "short": "HG nr. 707/2018",
+   "title": "Hotărârea Guvernului nr. 707/2018 pentru aprobarea Normelor metodologice de aplicare a Legii nr. 62/2018 privind combaterea buruienii ambrozia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/236376",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/204772",
+     "sha256": "d48568743bd7b4d4658f74cf498757200a00b6277b2878036b5939e42b0d3722"
+    }
+   ]
+  },
+  {
    "slug": "hg-715-2007",
    "path": "hg/2007/715",
    "short": "HG nr. 715/2007",
@@ -21358,6 +21538,27 @@
      "units": 15,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/249371",
      "sha256": "68be7ee4ce2b3bf308e07aeae5afa7dfdde0a0dbbccbde01384a7742fd0d6e46"
+    }
+   ]
+  },
+  {
+   "slug": "hg-791-2009",
+   "path": "hg/2009/791",
+   "short": "HG nr. 791/2009",
+   "title": "Hotărârea Guvernului nr. 791/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/109985",
+   "versions": [
+    {
+     "from": "2009-07-29",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/109985",
+     "sha256": "80a5018e2fea0cd5f3c649a84378f93490617f422d6e8c05a06dbaef8f00fb13"
+    },
+    {
+     "from": "2016-11-03",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/183335",
+     "sha256": "73b4d724801273b9a67c99a0e8ac88e001315417abf35fd9a474a747a60d2183"
     }
    ]
   },

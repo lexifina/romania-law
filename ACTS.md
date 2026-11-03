@@ -1,6 +1,6 @@
 # Every act in this repository
 
-6601 acts, 19,158 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+6610 acts, 19,178 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -3783,7 +3783,7 @@
 | Ordonanța Guvernului nr. 21/2025 pentru modificarea și completarea Legii nr. 431/2023 privind asigurarea unui nivel minim global de impozitare a grupurilor de întreprinderi multinaționale și a grupurilor naționale de mari dimensiuni | [`og/2025/21/`](og/2025/21/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 | Ordonanța Guvernului nr. 22/2025 pentru modificarea și completarea Legii nr. 227/2015 privind Codul fiscal | [`og/2025/22/`](og/2025/22/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 
-## Government decisions (HG) (2826, of which 929 amending acts)
+## Government decisions (HG) (2835, of which 932 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -4714,6 +4714,7 @@
 | Hotărârea Guvernului nr. 652/2009 | [`hg/2009/652/`](hg/2009/652/) | in force | 23 | 2009-06-29 | 2024-06-05 |
 | Hotărârea Guvernului nr. 717/2009 | [`hg/2009/717/`](hg/2009/717/) | in force | 11 | 2009-06-18 | 2020-08-21 |
 | Hotărârea Guvernului nr. 760/2009 | [`hg/2009/760/`](hg/2009/760/) | in force | 4 | 2009-09-09 | 2018-05-15 |
+| Hotărârea Guvernului nr. 791/2009 | [`hg/2009/791/`](hg/2009/791/) | in force | 2 | 2009-07-29 | 2016-11-03 |
 | Hotărârea Guvernului nr. 810/2009 | [`hg/2009/810/`](hg/2009/810/) | in force | 2 | 2009-11-02 | 2011-12-27 |
 | Hotărârea Guvernului nr. 861/2009 | [`hg/2009/861/`](hg/2009/861/) | in force | 1 | 2009-08-18 | 2009-08-18 |
 | Hotărârea Guvernului nr. 867/2009 | [`hg/2009/867/`](hg/2009/867/) | in force | 1 | 2009-08-14 | 2009-08-14 |
@@ -5082,6 +5083,7 @@
 | Hotărârea Guvernului nr. 1072/2013 | [`hg/2013/1072/`](hg/2013/1072/) | in force | 1 | 2013-12-23 | 2013-12-23 |
 | Hotărârea Guvernului nr. 1086/2013 pentru aprobarea Normelor generale privind exercitarea activității de audit public intern | [`hg/2013/1086/`](hg/2013/1086/) | amending act | 1 | 2014-01-10 | 2014-01-10 |
 | Hotărârea Guvernului nr. 1087/2013 | [`hg/2013/1087/`](hg/2013/1087/) | in force | 1 | 2014-01-06 | 2014-01-06 |
+| Hotărârea Guvernului nr. 1156/2013 | [`hg/2013/1156/`](hg/2013/1156/) | in force | 3 | 2014-01-17 | 2024-12-21 |
 | Hotărârea Guvernului nr. 6/2014 privind înființarea, organizarea și funcționarea Comitetului Tehnic de Securitate Aeronautică | [`hg/2014/6/`](hg/2014/6/) | in force | 2 | 2014-01-13 | 2015-08-25 |
 | Hotărârea Guvernului nr. 19/2014 | [`hg/2014/19/`](hg/2014/19/) | in force | 1 | 2014-02-19 | 2014-02-19 |
 | Hotărârea Guvernului nr. 32/2014 | [`hg/2014/32/`](hg/2014/32/) | in force | 1 | 2014-01-27 | 2014-01-27 |
@@ -5104,6 +5106,7 @@
 | Hotărârea Guvernului nr. 400/2014 | [`hg/2014/400/`](hg/2014/400/) | in force | 3 | 2014-06-01 | 2015-10-01 |
 | Hotărârea Guvernului nr. 444/2014 | [`hg/2014/444/`](hg/2014/444/) | in force | 1 | 2014-06-03 | 2014-06-03 |
 | Hotărârea Guvernului nr. 470/2014 | [`hg/2014/470/`](hg/2014/470/) | in force | 4 | 2014-10-08 | 2016-10-20 |
+| Hotărârea Guvernului nr. 473/2014 | [`hg/2014/473/`](hg/2014/473/) | in force | 1 | 2014-06-19 | 2014-06-19 |
 | Hotărârea Guvernului nr. 495/2014 | [`hg/2014/495/`](hg/2014/495/) | in force | 4 | 2014-08-01 | 2016-02-29 |
 | Hotărârea Guvernului nr. 519/2014 | [`hg/2014/519/`](hg/2014/519/) | in force | 3 | 2014-06-28 | 2020-05-06 |
 | Hotărârea Guvernului nr. 535/2014 | [`hg/2014/535/`](hg/2014/535/) | in force | 1 | 2014-07-02 | 2014-07-02 |
@@ -5510,6 +5513,7 @@
 | Hotărârea Guvernului nr. 613/2018 privind declasificarea informațiilor cuprinse în documentele referitoare la activitatea Ministerului Apelor și Pădurilor | [`hg/2018/613/`](hg/2018/613/) | in force | 1 | 2018-08-10 | 2018-08-10 |
 | Hotărârea Guvernului nr. 697/2018 pentru completarea Hotărârii Guvernului nr. 742/2010 privind declanșarea procedurilor de expropriere a imobilelor proprietate privată situate pe amplasamentul lucrării de utilitate publică "Reabilitare DN 1 (E 68), Brașov-Sibiu, km 173 + 800 și km 296 + 293" din cadrul Proiectului de reabilitare a drumurilor, etapa a V-a | [`hg/2018/697/`](hg/2018/697/) | amending act | 1 | 2018-09-13 | 2018-09-13 |
 | Hotărârea Guvernului nr. 706/2018 privind modificarea datelor de identificare a unor imobile aflate în domeniul public al statului și în administrarea Ministerului Justiției și transmiterea unor imobile din domeniul public al statului și din administrarea Ministerului Justiției în administrarea curților de apel și a tribunalelor | [`hg/2018/706/`](hg/2018/706/) | amending act | 1 | 2018-09-13 | 2018-09-13 |
+| Hotărârea Guvernului nr. 707/2018 pentru aprobarea Normelor metodologice de aplicare a Legii nr. 62/2018 privind combaterea buruienii ambrozia | [`hg/2018/707/`](hg/2018/707/) | amending act | 1 | 2019-01-01 | 2019-01-01 |
 | Hotărârea Guvernului nr. 710/2018 privind aprobarea normativelor de cheltuieli aferente acțiunii de protocol și altor măsuri necesare în vederea desfășurării normale și eficiente a acțiunilor de protocol organizate cu ocazia celei de a 9-a Reuniuni a Forumului Autorităților de Reglementare din Domeniul Audiovizual din țările din jurul Mării Negre - BRAF la București, în perioada 3-5 octombrie 2018 | [`hg/2018/710/`](hg/2018/710/) | amending act | 1 | 2018-09-13 | 2018-09-13 |
 | Hotărârea Guvernului nr. 714/2018 privind drepturile și obligațiile personalului autorităților și instituțiilor publice pe perioada delegării și detașării în altă localitate, precum și în cazul deplasării în interesul serviciului | [`hg/2018/714/`](hg/2018/714/) | in force | 1 | 2019-01-01 | 2019-01-01 |
 | Hotărârea Guvernului nr. 742/2018 privind modificarea Hotărârii Guvernului nr. 925/1995 pentru aprobarea Regulamentului de verificare și expertizare tehnică de calitate a proiectelor, a execuției lucrărilor și a construcțiilor | [`hg/2018/742/`](hg/2018/742/) | amending act | 1 | 2018-09-27 | 2018-09-27 |
@@ -5550,6 +5554,7 @@
 | Hotărârea Guvernului nr. 1006/2018 privind actualizarea valorilor de inventar și modificarea datelor de identificare a unor imobile cuprinse în anexa nr. 30 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului, aflate în administrarea Ministerului Tineretului și Sportului - Clubul Sportiv Municipal Sfântu Gheorghe | [`hg/2018/1006/`](hg/2018/1006/) | amending act | 1 | 2018-12-28 | 2018-12-28 |
 | Hotărârea Guvernului nr. 1017/2018 pentru aprobarea Normelor metodologice privind modalitatea de acordare a drepturilor la transport interurban gratuit persoanelor cu handicap | [`hg/2018/1017/`](hg/2018/1017/) | amending act | 1 | 2019-01-01 | 2019-01-01 |
 | Hotărârea Guvernului nr. 1019/2018 privind aprobarea Procedurii de preluare de către agențiile județene pentru plăți și inspecție socială, respectiv a municipiului București, a personalului cu atribuții în efectuarea plăților prestațiilor sociale pentru persoanele cu handicap de la direcțiile generale de asistență socială și protecția copilului județene, respectiv ale sectoarelor municipiului București, a Procedurii de acordare a plăților , precum și situațiile de suspendare, modificare, încetare a dreptului la prestațiile sociale pentru persoanele cu handicap, precum și pentru modificarea Statutului propriu de organizare și funcționare al Agenției Naționale pentru Plăți și Inspecție Socială, aprobat prin Hotărârea Guvernului nr. 151/201 2 | [`hg/2018/1019/`](hg/2018/1019/) | amending act | 1 | 2018-12-28 | 2018-12-28 |
+| Hotărârea Guvernului nr. 1045/2018 pentru aprobarea Normelor metodologice de aplicare a Legii nr. 165/2018 privind acordarea biletelor de valoare | [`hg/2018/1045/`](hg/2018/1045/) | amending act | 2 | 2019-01-09 | 2022-07-26 |
 | Hotărârea Guvernului nr. 5/2019 pentru modificarea Hotărârii Guvernului nr. 556/2006 privind stabilirea datei de la care se eliberează pașapoarte simple temporare, precum și a formei și conținutului acestora | [`hg/2019/5/`](hg/2019/5/) | amending act | 1 | 2019-01-10 | 2019-01-10 |
 | Hotărârea Guvernului nr. 35/2019 pentru desemnarea autorităților publice responsabile în domeniul protecției infrastructurilor critice naționale și europene | [`hg/2019/35/`](hg/2019/35/) | in force | 1 | 2019-02-01 | 2019-02-01 |
 | Hotărârea Guvernului nr. 50/2019 privind reorganizarea Stațiunii de Cercetare-Dezvoltare pentru Creșterea Bovinelor Târgu Mureș, prin fuziune prin absorbție cu Stațiunea de Cercetare și Producție pentru Creșterea Bovinelor Sighet, și modificarea anexei nr. 3 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului | [`hg/2019/50/`](hg/2019/50/) | amending act | 1 | 2019-02-08 | 2019-02-08 |
@@ -5991,6 +5996,7 @@
 | Hotărârea Guvernului nr. 277/2022 pentru modificarea art. 55 alin. (1) și (2) din Normele metodologice de aplicare a Legii nr. 122/2006 privind azilul în România, aprobate prin Hotărârea Guvernului României nr. 1.251/2006 | [`hg/2022/277/`](hg/2022/277/) | amending act | 1 | 2022-02-27 | 2022-02-27 |
 | Hotărârea Guvernului nr. 292/2022 pentru modificarea și completarea Hotărârii Guvernului nr. 717/2009 privind aprobarea normelor de implementare a programului "Noua casă" | [`hg/2022/292/`](hg/2022/292/) | amending act | 1 | 2022-03-03 | 2022-03-03 |
 | Hotărârea Guvernului nr. 304/2022 privind acordarea prestațiilor sub forma biletelor de tratament balnear, pentru anul 2022, prin sistemul organizat și administrat de Casa Națională de Pensii Publice | [`hg/2022/304/`](hg/2022/304/) | in force | 1 | 2022-03-04 | 2022-03-04 |
+| Hotărârea Guvernului nr. 311/2022 privind intensitatea maximă a ajutorului de stat regional în perioada 2022-2027 pentru investiții inițiale | [`hg/2022/311/`](hg/2022/311/) | in force | 2 | 2022-03-04 | 2023-04-13 |
 | Hotărârea Guvernului nr. 312/2022 privind aprobarea modelului steagului comunei Horoatu Crasnei, județul Sălaj | [`hg/2022/312/`](hg/2022/312/) | amending act | 1 | 2022-03-10 | 2022-03-10 |
 | Hotărârea Guvernului nr. 315/2022 pentru aprobarea valorii maxime a costurilor aferente cazării în locaţiile stabilite de comitetele judeţene/al municipiului Bucureşti pentru situaţii de urgenţă pentru cetăţenii străini sau apatrizii aflaţi în situaţii deosebite care provin din zona conflictului armat din Ucraina şi care nu solicită o formă de protecţie potrivit Legii nr. 122/2006 privind azilul în România, precum şi pentru alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2022, pentru suplimentarea bugetului Ministerului Afacerilor Interne | [`hg/2022/315/`](hg/2022/315/) | repealed 2023-12-31 | 3 | 2022-03-05 | 2023-12-31 |
 | Hotărârea Guvernului nr. 336/2022 privind stabilirea mecanismului de decontare din bugetul inspectoratelor județene pentru situații de urgență/Inspectoratului pentru Situații de Urgență București-Ilfov a cheltuielilor cu hrana cetățenilor străini sau apatrizilor aflați în situații deosebite, proveniți din zona conflictului armat din Ucraina, găzduiți de persoane fizice, precum și pentru alocarea unei sume din Fondul de rezervă bugetară la dispoziția Guvernului, prevăzut în bugetul de stat pe anul 2022, pentru suplimentarea bugetului Ministerului Afacerilor Interne | [`hg/2022/336/`](hg/2022/336/) | in force | 3 | 2022-03-11 | 2023-04-26 |
@@ -6193,6 +6199,8 @@
 | Hotărârea Guvernului nr. 1555/2022 privind stabilirea zilelor lucrătoare pentru care se acordă zile libere, altele decât zilele de sărbătoare legală, pentru anul 2023 | [`hg/2022/1555/`](hg/2022/1555/) | in force | 1 | 2022-12-29 | 2022-12-29 |
 | Hotărârea Guvernului nr. 1568/2022 pentru modificarea anexei la Hotărârea Guvernului nr. 1.000/2015 privind faptele pentru care se înscriu informații în cazierul fiscal al contribuabililor, potrivit legislației în vigoare | [`hg/2022/1568/`](hg/2022/1568/) | amending act | 1 | 2023-01-29 | 2023-01-29 |
 | Hotărârea Guvernului nr. 1569/2022 privind aprobarea programului de susţinere a producţiei de tomate în spaţii protejate pentru anul 2023 | [`hg/2022/1569/`](hg/2022/1569/) | amending act | 4 | 2022-12-29 | 2023-09-15 |
+| Hotărârea Guvernului nr. 1570/2022 privind stabilirea cadrului general de implementare a intervențiilor specifice dezvoltării rurale cuprinse în Planul strategic PAC 2023-2027 | [`hg/2022/1570/`](hg/2022/1570/) | in force | 2 | 2022-12-29 | 2023-11-13 |
+| Hotărârea Guvernului nr. 1571/2022 privind stabilirea cadrului general de implementare a intervențiilor aferente sectoarelor vegetal și zootehnic din cadrul Planului strategic PAC 2023-2027, finanțate din Fondul european de garantare agricolă și de la bugetul de stat | [`hg/2022/1571/`](hg/2022/1571/) | in force | 5 | 2022-12-30 | 2025-01-17 |
 | Hotărârea Guvernului nr. 1573/2022 privind aprobarea amânării închiderii unor capacități energetice cu funcționare pe lignit și a exploatărilor miniere aferente acestora | [`hg/2022/1573/`](hg/2022/1573/) | amending act | 1 | 2022-12-29 | 2022-12-29 |
 | Hotărârea Guvernului nr. 1577/2022 pentru modificarea Normelor metodologice de aplicare a Legii concediului paternal nr. 210/1999 , aprobate prin Hotărârea Guvernului nr. 244/2000 | [`hg/2022/1577/`](hg/2022/1577/) | amending act | 1 | 2023-01-04 | 2023-01-04 |
 | Hotărârea Guvernului nr. 3/2023 privind modalitatea de acordare a despăgubirilor pentru pagubele și/sau daunele produse de speciile de faună de interes cinegetic cuprinse în anexele nr. 1 și 2 la Legea vânătorii și a protecției fondului cinegetic nr. 407/2006 și unele măsuri de punere în aplicare a acesteia | [`hg/2023/3/`](hg/2023/3/) | in force | 2 | 2023-01-06 | 2023-02-05 |
@@ -6530,6 +6538,7 @@
 | Hotărârea Guvernului nr. 298/2025 privind aprobarea Planului de recrutare a funcționarilor publici și a Planului de promovare în funcții publice de conducere, pentru perioada 2025-2026 | [`hg/2025/298/`](hg/2025/298/) | amending act | 1 | 2025-04-08 | 2025-04-08 |
 | Hotărârea Guvernului nr. 301/2025 privind stabilirea măsurilor tehnice necesare bunei organizări și desfășurări a alegerilor locale parțiale din data de 4 mai 2025 | [`hg/2025/301/`](hg/2025/301/) | in force | 1 | 2025-03-30 | 2025-03-30 |
 | Hotărârea Guvernului nr. 302/2025 privind stabilirea cheltuielilor necesare pregătirii și desfășurării în bune condiții a alegerilor locale parțiale din data de 4 mai 2025 | [`hg/2025/302/`](hg/2025/302/) | in force | 1 | 2025-03-30 | 2025-03-30 |
+| Hotărârea Guvernului nr. 325/2025 privind aprobarea schemei "Ajutor de minimis pentru aplicarea Programului de susţinere a producţiei de legume cultivate în spaţii protejate", în perioada 2025-2027 | [`hg/2025/325/`](hg/2025/325/) | amending act | 2 | 2025-04-08 | 2025-10-13 |
 | Hotărârea Guvernului nr. 351/2025 privind repartizarea unor sume din transferuri din bugetul de stat către bugetele locale, prevăzute în bugetul Ministerului Educației și Cercetării, pentru finanțarea în anul 2025 a unor cheltuieli de capital ale unităților de învățământ preuniversitar de stat | [`hg/2025/351/`](hg/2025/351/) | in force | 1 | 2025-04-10 | 2025-04-10 |
 | Hotărârea Guvernului nr. 358/2025 privind aprobarea Strategiei pentru guvernare deschisă în România 2025-2030 | [`hg/2025/358/`](hg/2025/358/) | amending act | 1 | 2025-04-15 | 2025-04-15 |
 | Hotărârea Guvernului nr. 362/2025 privind modificarea denumirii, descrierii tehnice, adresei și actualizarea valorii de inventar ale unor bunuri imobile aflate în domeniul public al statului și în administrarea Spitalului General CF Sibiu, unitate aflată în subordinea Ministerului Transporturilor și Infrastructurii | [`hg/2025/362/`](hg/2025/362/) | amending act | 1 | 2025-04-15 | 2025-04-15 |

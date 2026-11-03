@@ -79290,6 +79290,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/200453"
 },
 {
+"slug": "hg-791-2009",
+"path": "hg/2009/791",
+"kind": "hg",
+"year": "2009",
+"number": "791",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 791/2009",
+"short": "HG nr. 791/2009",
+"code": null,
+"status": "in force",
+"versions": 2,
+"from": "2009-07-29",
+"latest": "2016-11-03",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/109985"
+},
+{
 "slug": "hg-810-2009",
 "path": "hg/2009/810",
 "kind": "hg",
@@ -85546,6 +85563,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/154271"
 },
 {
+"slug": "hg-1156-2013",
+"path": "hg/2013/1156",
+"kind": "hg",
+"year": "2013",
+"number": "1156",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 1156/2013",
+"short": "HG nr. 1156/2013",
+"code": null,
+"status": "in force",
+"versions": 3,
+"from": "2014-01-17",
+"latest": "2024-12-21",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/154320"
+},
+{
 "slug": "hg-6-2014",
 "path": "hg/2014/6",
 "kind": "hg",
@@ -85918,6 +85952,23 @@
 "from": "2014-10-08",
 "latest": "2016-10-20",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/158885"
+},
+{
+"slug": "hg-473-2014",
+"path": "hg/2014/473",
+"kind": "hg",
+"year": "2014",
+"number": "473",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 473/2014",
+"short": "HG nr. 473/2014",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2014-06-19",
+"latest": "2014-06-19",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/159144"
 },
 {
 "slug": "hg-495-2014",
@@ -92822,6 +92873,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/204784"
 },
 {
+"slug": "hg-707-2018",
+"path": "hg/2018/707",
+"kind": "hg",
+"year": "2018",
+"number": "707",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 707/2018 pentru aprobarea Normelor metodologice de aplicare a Legii nr. 62/2018 privind combaterea buruienii ambrozia",
+"short": "HG nr. 707/2018",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2019-01-01",
+"latest": "2019-01-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/236376"
+},
+{
 "slug": "hg-710-2018",
 "path": "hg/2018/710",
 "kind": "hg",
@@ -93500,6 +93568,23 @@
 "from": "2018-12-28",
 "latest": "2018-12-28",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/209469"
+},
+{
+"slug": "hg-1045-2018",
+"path": "hg/2018/1045",
+"kind": "hg",
+"year": "2018",
+"number": "1045",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 1045/2018 pentru aprobarea Normelor metodologice de aplicare a Legii nr. 165/2018 privind acordarea biletelor de valoare",
+"short": "HG nr. 1045/2018",
+"code": null,
+"status": "amending act",
+"versions": 2,
+"from": "2019-01-09",
+"latest": "2022-07-26",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/209698"
 },
 {
 "slug": "hg-5-2019",
@@ -101560,6 +101645,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/252392"
 },
 {
+"slug": "hg-311-2022",
+"path": "hg/2022/311",
+"kind": "hg",
+"year": "2022",
+"number": "311",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 311/2022 privind intensitatea maximă a ajutorului de stat regional în perioada 2022-2027 pentru investiții inițiale",
+"short": "HG nr. 311/2022",
+"code": null,
+"status": "in force",
+"versions": 2,
+"from": "2022-03-04",
+"latest": "2023-04-13",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/252399"
+},
+{
 "slug": "hg-312-2022",
 "path": "hg/2022/312",
 "kind": "hg",
@@ -104992,6 +105094,40 @@
 "from": "2022-12-29",
 "latest": "2023-09-15",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/263283"
+},
+{
+"slug": "hg-1570-2022",
+"path": "hg/2022/1570",
+"kind": "hg",
+"year": "2022",
+"number": "1570",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 1570/2022 privind stabilirea cadrului general de implementare a intervențiilor specifice dezvoltării rurale cuprinse în Planul strategic PAC 2023-2027",
+"short": "HG nr. 1570/2022",
+"code": null,
+"status": "in force",
+"versions": 2,
+"from": "2022-12-29",
+"latest": "2023-11-13",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/279855"
+},
+{
+"slug": "hg-1571-2022",
+"path": "hg/2022/1571",
+"kind": "hg",
+"year": "2022",
+"number": "1571",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 1571/2022 privind stabilirea cadrului general de implementare a intervențiilor aferente sectoarelor vegetal și zootehnic din cadrul Planului strategic PAC 2023-2027, finanțate din Fondul european de garantare agricolă și de la bugetul de stat",
+"short": "HG nr. 1571/2022",
+"code": null,
+"status": "in force",
+"versions": 5,
+"from": "2022-12-30",
+"latest": "2025-01-17",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/263344"
 },
 {
 "slug": "hg-1573-2022",
@@ -110721,6 +110857,23 @@
 "from": "2025-03-30",
 "latest": "2025-03-30",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/295984"
+},
+{
+"slug": "hg-325-2025",
+"path": "hg/2025/325",
+"kind": "hg",
+"year": "2025",
+"number": "325",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 325/2025 privind aprobarea schemei \"Ajutor de minimis pentru aplicarea Programului de susţinere a producţiei de legume cultivate în spaţii protejate\", în perioada 2025-2027",
+"short": "HG nr. 325/2025",
+"code": null,
+"status": "amending act",
+"versions": 2,
+"from": "2025-04-08",
+"latest": "2025-10-13",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/296454"
 },
 {
 "slug": "hg-351-2025",
