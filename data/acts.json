@@ -852,6 +852,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/36456"
 },
 {
+"slug": "legea-54-1992",
+"path": "lege/1992/54",
+"kind": "lege",
+"year": "1992",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 54/1992 privind impozitul pe sumele obținute din vînzarea activelor societăților comerciale cu capital de stat",
+"short": "Legea nr. 54/1992",
+"code": null,
+"status": "in force",
+"versions": 2,
+"from": "1992-06-04",
+"latest": "1995-01-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/222201"
+},
+{
 "slug": "legea-68-1992",
 "path": "lege/1992/68",
 "kind": "lege",
@@ -1683,6 +1700,23 @@
 "from": "1994-11-22",
 "latest": "1994-11-22",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/194060"
+},
+{
+"slug": "legea-141-1994",
+"path": "lege/1994/141",
+"kind": "lege",
+"year": "1994",
+"number": "141",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 141/1994",
+"short": "Legea nr. 141/1994",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "1994-12-30",
+"latest": "1994-12-30",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/4574"
 },
 {
 "slug": "legea-142-1994",
@@ -2603,6 +2637,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/84565"
 },
 {
+"slug": "legea-83-1997",
+"path": "lege/1997/83",
+"kind": "lege",
+"year": "1997",
+"number": "83",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 83/1997",
+"short": "Legea nr. 83/1997",
+"code": null,
+"status": "in force",
+"versions": 2,
+"from": "1997-06-22",
+"latest": "2003-08-18",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/45728"
+},
+{
 "slug": "legea-109-1997",
 "path": "lege/1997/109",
 "kind": "lege",
@@ -3179,6 +3230,23 @@
 "from": "1999-08-01",
 "latest": "2010-01-01",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/136638"
+},
+{
+"slug": "legea-168-1999",
+"path": "lege/1999/168",
+"kind": "lege",
+"year": "1999",
+"number": "168",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 168/1999",
+"short": "Legea nr. 168/1999",
+"code": null,
+"status": "in force",
+"versions": 5,
+"from": "2000-01-01",
+"latest": "2011-05-13",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/20040"
 },
 {
 "slug": "legea-187-1999",
@@ -5051,6 +5119,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/36468"
 },
 {
+"slug": "legea-334-2002",
+"path": "lege/2002/334",
+"kind": "lege",
+"year": "2002",
+"number": "334",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 334/2002",
+"short": "Legea nr. 334/2002",
+"code": null,
+"status": "in force",
+"versions": 13,
+"from": "2002-06-18",
+"latest": "2013-12-30",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/36728"
+},
+{
 "slug": "legea-338-2002",
 "path": "lege/2002/338",
 "kind": "lege",
@@ -6817,6 +6902,23 @@
 "from": "2004-03-05",
 "latest": "2004-03-05",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/50078"
+},
+{
+"slug": "legea-22-2004",
+"path": "lege/2004/22",
+"kind": "lege",
+"year": "2004",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 22/2004",
+"short": "Legea nr. 22/2004",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2004-03-06",
+"latest": "2004-03-06",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/50135"
 },
 {
 "slug": "legea-23-2004",
@@ -19822,6 +19924,23 @@
 "from": "2019-05-22",
 "latest": "2019-05-22",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/213208"
+},
+{
+"slug": "legea-69-2019",
+"path": "lege/2019/69",
+"kind": "lege",
+"year": "2019",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 69/2019 privind înființarea Consiliului național pentru dezvoltarea resurselor umane din administrația publică",
+"short": "Legea nr. 69/2019",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2019-04-28",
+"latest": "2019-04-28",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/213311"
 },
 {
 "slug": "legea-79-2019",

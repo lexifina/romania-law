@@ -1,6 +1,6 @@
 # Every act in this repository
 
-6027 acts, 17,213 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+6034 acts, 17,238 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -32,7 +32,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (1773, of which 644 amending acts)
+## Laws (legi) (1780, of which 644 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -85,6 +85,7 @@
 | Legea nr. 35/1992 | [`lege/1992/35/`](lege/1992/35/) | in force | 1 | 1992-04-13 | 1992-04-13 |
 | Legea nr. 47/1992 privind organizarea și funcționarea Curții Constituționale | [`lege/1992/47/`](lege/1992/47/) | in force | 11 | 1992-05-22 | 2023-12-08 |
 | Legea nr. 48/1992 | [`lege/1992/48/`](lege/1992/48/) | in force | 2 | 1992-05-25 | 2002-06-03 |
+| Legea nr. 54/1992 privind impozitul pe sumele obținute din vînzarea activelor societăților comerciale cu capital de stat | [`lege/1992/54/`](lege/1992/54/) | in force | 2 | 1992-06-04 | 1995-01-01 |
 | Legea nr. 68/1992 | [`lege/1992/68/`](lege/1992/68/) | in force | 2 | 1992-07-16 | 2004-07-06 |
 | Legea nr. 69/1992 | [`lege/1992/69/`](lege/1992/69/) | in force | 2 | 1992-07-16 | 2003-09-26 |
 | Legea nr. 74/1992 | [`lege/1992/74/`](lege/1992/74/) | in force | 1 | 1992-07-23 | 1992-07-23 |
@@ -134,6 +135,7 @@
 | Legea nr. 87/1994 | [`lege/1994/87/`](lege/1994/87/) | repealed 2005-08-26 | 4 | 1994-11-23 | 2005-08-26 |
 | Legea nr. 99/1994 | [`lege/1994/99/`](lege/1994/99/) | in force | 1 | 1994-11-16 | 1994-11-16 |
 | Legea nr. 101/1994 | [`lege/1994/101/`](lege/1994/101/) | in force | 1 | 1994-11-22 | 1994-11-22 |
+| Legea nr. 141/1994 | [`lege/1994/141/`](lege/1994/141/) | in force | 1 | 1994-12-30 | 1994-12-30 |
 | Legea nr. 142/1994 | [`lege/1994/142/`](lege/1994/142/) | in force | 1 | 1994-12-30 | 1994-12-30 |
 | Legea nr. 10/1995 privind calitatea în construcții | [`lege/1995/10/`](lege/1995/10/) | in force | 25 | 1995-01-24 | 2025-12-24 |
 | Legea nr. 16/1995 | [`lege/1995/16/`](lege/1995/16/) | in force | 4 | 1995-06-09 | 2014-03-25 |
@@ -188,6 +190,7 @@
 | Legea nr. 56/1997 | [`lege/1997/56/`](lege/1997/56/) | in force | 6 | 1997-04-17 | 2022-08-14 |
 | Legea nr. 79/1997 | [`lege/1997/79/`](lege/1997/79/) | in force | 1 | 1997-05-12 | 1997-05-12 |
 | Legea nr. 80/1997 | [`lege/1997/80/`](lege/1997/80/) | in force | 3 | 1997-05-14 | 2006-06-24 |
+| Legea nr. 83/1997 | [`lege/1997/83/`](lege/1997/83/) | in force | 2 | 1997-06-22 | 2003-08-18 |
 | Legea nr. 109/1997 | [`lege/1997/109/`](lege/1997/109/) | repealed 2011-05-13 | 4 | 1997-07-07 | 2011-05-13 |
 | Legea nr. 120/1997 | [`lege/1997/120/`](lege/1997/120/) | repealed 2001-04-01 | 2 | 1997-07-11 | 2001-04-01 |
 | Legea nr. 128/1997 | [`lege/1997/128/`](lege/1997/128/) | in force | 5 | 1997-09-01 | 2011-01-01 |
@@ -222,6 +225,7 @@
 | Legea nr. 132/1999 | [`lege/1999/132/`](lege/1999/132/) | in force | 10 | 1999-07-23 | 2021-03-08 |
 | Legea nr. 133/1999 | [`lege/1999/133/`](lege/1999/133/) | in force | 2 | 1999-07-23 | 2002-07-30 |
 | Legea nr. 138/1999 | [`lege/1999/138/`](lege/1999/138/) | in force | 5 | 1999-08-01 | 2010-01-01 |
+| Legea nr. 168/1999 | [`lege/1999/168/`](lege/1999/168/) | in force | 5 | 2000-01-01 | 2011-05-13 |
 | Legea nr. 187/1999 | [`lege/1999/187/`](lege/1999/187/) | in force | 3 | 1999-12-09 | 2006-03-22 |
 | Legea nr. 188/1999 privind Statutul funcționarilor publici | [`lege/1999/188/`](lege/1999/188/) | in force | 46 | 2000-01-07 | 2019-08-02 |
 | Legea nr. 190/1999 | [`lege/1999/190/`](lege/1999/190/) | in force | 7 | 1999-12-14 | 2016-03-03 |
@@ -332,6 +336,7 @@
 | Legea nr. 290/2002 | [`lege/2002/290/`](lege/2002/290/) | in force | 12 | 2002-05-29 | 2009-04-02 |
 | Legea nr. 296/2002 | [`lege/2002/296/`](lege/2002/296/) | in force | 2 | 2002-05-30 | 2004-08-22 |
 | Legea nr. 309/2002 | [`lege/2002/309/`](lege/2002/309/) | in force | 6 | 2002-08-05 | 2016-11-28 |
+| Legea nr. 334/2002 | [`lege/2002/334/`](lege/2002/334/) | in force | 13 | 2002-06-18 | 2013-12-30 |
 | Legea nr. 338/2002 | [`lege/2002/338/`](lege/2002/338/) | in force | 1 | 2002-06-25 | 2002-06-25 |
 | Legea nr. 341/2002 | [`lege/2002/341/`](lege/2002/341/) | in force | 1 | 2002-06-25 | 2002-06-25 |
 | Legea nr. 344/2002 | [`lege/2002/344/`](lege/2002/344/) | in force | 1 | 2002-06-07 | 2002-06-07 |
@@ -436,6 +441,7 @@
 | Legea nr. 4/2004 | [`lege/2004/4/`](lege/2004/4/) | in force | 2 | 2004-03-05 | 2008-11-28 |
 | Legea nr. 7/2004 | [`lege/2004/7/`](lege/2004/7/) | repealed 2019-07-05 | 4 | 2004-03-09 | 2019-07-05 |
 | Legea nr. 8/2004 | [`lege/2004/8/`](lege/2004/8/) | in force | 1 | 2004-03-05 | 2004-03-05 |
+| Legea nr. 22/2004 | [`lege/2004/22/`](lege/2004/22/) | in force | 1 | 2004-03-06 | 2004-03-06 |
 | Legea nr. 23/2004 pentru modificarea și completarea Legii nr. 90/2001 privind organizarea și funcționarea Guvernului României și a ministerelor | [`lege/2004/23/`](lege/2004/23/) | amending act | 1 | 2004-03-06 | 2004-03-06 |
 | Legea nr. 24/2004 | [`lege/2004/24/`](lege/2004/24/) | in force | 1 | 2004-03-07 | 2004-03-07 |
 | Legea nr. 25/2004 | [`lege/2004/25/`](lege/2004/25/) | in force | 1 | 2004-03-14 | 2004-03-14 |
@@ -1201,6 +1207,7 @@
 | Legea nr. 35/2019 pentru modificarea și completarea Legii nr. 95/2006 privind reforma în domeniul sănătății | [`lege/2019/35/`](lege/2019/35/) | amending act | 2 | 2019-01-24 | 2019-07-02 |
 | Legea nr. 62/2019 privind activitatea consulară | [`lege/2019/62/`](lege/2019/62/) | in force | 3 | 2019-04-21 | 2024-01-14 |
 | Legea nr. 66/2019 privind instituirea zilei de 11 martie ca "Ziua Națională a Meseriilor" | [`lege/2019/66/`](lege/2019/66/) | in force | 1 | 2019-05-22 | 2019-05-22 |
+| Legea nr. 69/2019 privind înființarea Consiliului național pentru dezvoltarea resurselor umane din administrația publică | [`lege/2019/69/`](lege/2019/69/) | in force | 1 | 2019-04-28 | 2019-04-28 |
 | Legea nr. 79/2019 privind instituirea Zilei naționale a gastronomiei și a vinului românesc | [`lege/2019/79/`](lege/2019/79/) | in force | 2 | 2019-05-05 | 2025-06-13 |
 | Legea nr. 89/2019 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 111/2010 privind concediul și indemnizația lunară pentru creșterea copiilor, precum și pentru stabilirea unor măsuri privind recuperarea debitelor reprezentând indemnizație pentru creșterea copilului | [`lege/2019/89/`](lege/2019/89/) | amending act | 1 | 2019-05-06 | 2019-05-06 |
 | Legea nr. 100/2019 privind instituirea zilei de 21 aprilie - Ziua națională a luptei împotriva traficului ilicit de mărfuri | [`lege/2019/100/`](lege/2019/100/) | in force | 1 | 2019-05-13 | 2019-05-13 |
