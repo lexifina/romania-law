@@ -27304,6 +27304,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/263825"
 },
 {
+"slug": "legea-28-2023",
+"path": "lege/2023/28",
+"kind": "lege",
+"year": "2023",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 28/2023 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii",
+"short": "Legea nr. 28/2023",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2023-01-14",
+"latest": "2023-01-14",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/263827"
+},
+{
 "slug": "legea-30-2023",
 "path": "lege/2023/30",
 "kind": "lege",
@@ -66181,6 +66198,23 @@
 "from": "2005-09-30",
 "latest": "2005-12-22",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/210125"
+},
+{
+"slug": "og-41-2005",
+"path": "og/2005/41",
+"kind": "og",
+"year": "2005",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța Guvernului nr. 41/2005 privind reglementarea unor măsuri financiare",
+"short": "OG nr. 41/2005",
+"code": null,
+"status": "in force",
+"versions": 7,
+"from": "2005-07-31",
+"latest": "2011-10-31",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/135788"
 },
 {
 "slug": "og-47-2005",

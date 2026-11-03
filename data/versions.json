@@ -66539,6 +66539,57 @@
    ]
   },
   {
+   "slug": "og-41-2005",
+   "path": "og/2005/41",
+   "short": "OG nr. 41/2005",
+   "title": "Ordonanța Guvernului nr. 41/2005 privind reglementarea unor măsuri financiare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/135788",
+   "versions": [
+    {
+     "from": "2005-07-31",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/63664",
+     "sha256": "56175c6aa2a2870238e3a997fc54f84fe16766814863b9cf925dd1b487465e7e"
+    },
+    {
+     "from": "2006-02-03",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84833",
+     "sha256": "2189d8656a942e632b4e2449c2598920a0a798561237f4e57cb7ebbf40319962"
+    },
+    {
+     "from": "2006-05-05",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84834",
+     "sha256": "0d596fe3afc3dc33e5f18d38eb2a7fbf5653b4476a3e392ffe55374a98ec08c7"
+    },
+    {
+     "from": "2006-07-08",
+     "units": 17,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/84835",
+     "sha256": "69e14b99bed59cbd59020a0ee09edd940f555b6a441675032b2ee0aeb64f84f7"
+    },
+    {
+     "from": "2007-08-13",
+     "units": 19,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/84836",
+     "sha256": "3b05e53b4cbb6df93846e666e3a7c885c0eb5a86c9000274fb498e038a9cb12b"
+    },
+    {
+     "from": "2007-12-20",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/88590",
+     "sha256": "3ec651715b12eb1c8dab80e54d2bfeeec26399d8220a26ee6a7e4586d81bf185"
+    },
+    {
+     "from": "2011-10-31",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/135788",
+     "sha256": "42ba67a5aeb4e3e058dc3324845796ceaa511124317d45d1b30b73e940ac3e4f"
+    }
+   ]
+  },
+  {
    "slug": "og-41-2007",
    "path": "og/2007/41",
    "short": "OG nr. 41/2007",
@@ -179101,6 +179152,21 @@
      "units": 20,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/209956",
      "sha256": "a04b2adba373392a69644e81f7fb35deb6ffda0acc9507ee3d8465fac9469793"
+    }
+   ]
+  },
+  {
+   "slug": "legea-28-2023",
+   "path": "lege/2023/28",
+   "short": "Legea nr. 28/2023",
+   "title": "Legea nr. 28/2023 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/263827",
+   "versions": [
+    {
+     "from": "2023-01-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/263827",
+     "sha256": "901c9af6ffd20d4d40e9f6fb7ba33ebf82cd5f1318975158cd8f1582860a9225"
     }
    ]
   },

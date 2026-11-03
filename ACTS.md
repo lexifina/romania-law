@@ -1,6 +1,6 @@
 # Every act in this repository
 
-9254 acts, 22,537 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+9256 acts, 22,545 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -32,7 +32,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (2113, of which 865 amending acts)
+## Laws (legi) (2114, of which 866 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -1641,6 +1641,7 @@
 | Legea nr. 24/2023 privind aprobarea Ordonanței de urgență a Guvernului nr. 130/2022 pentru modificarea și completarea Legii nr. 121/2014 privind eficiența energetică | [`lege/2023/24/`](lege/2023/24/) | amending act | 1 | 2023-01-13 | 2023-01-13 |
 | Legea nr. 26/2023 pentru modificarea și completarea Legii Arhivelor Naționale nr. 16/1996 și a Legii nr. 53/2003 - Codul muncii | [`lege/2023/26/`](lege/2023/26/) | amending act | 1 | 2023-01-14 | 2023-01-14 |
 | Legea nr. 27/2023 privind instituirea "Zilei Victoriei Revoluției de la 1848 și a Democrației Românești" și declararea unor municipii ca orașe-martir ale Revoluției de la 1848 | [`lege/2023/27/`](lege/2023/27/) | in force | 1 | 2023-01-14 | 2023-01-14 |
+| Legea nr. 28/2023 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii | [`lege/2023/28/`](lege/2023/28/) | amending act | 1 | 2023-01-14 | 2023-01-14 |
 | Legea nr. 30/2023 privind plata unei contribuţii financiare voluntare a României pentru susţinerea Muzeului Victimelor Comunismului din Washington D.C | [`lege/2023/30/`](lege/2023/30/) | in force | 1 | 2023-01-14 | 2023-01-14 |
 | Legea nr. 31/2023 pentru modificarea Ordonanței de urgență a Guvernului nr. 51/2008 privind ajutorul public judiciar în materie civilă | [`lege/2023/31/`](lege/2023/31/) | amending act | 1 | 2023-01-15 | 2023-01-15 |
 | Legea nr. 33/2023 pentru modificarea şi completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii | [`lege/2023/33/`](lege/2023/33/) | amending act | 1 | 2023-01-15 | 2023-01-15 |
@@ -3699,7 +3700,7 @@
 | Ordonanța de urgență a Guvernului nr. 30/2026 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 23/2004 privind stabilirea unor măsuri de reorganizare a Autorităţii pentru Valorificarea Activelor Bancare prin comasarea prin absorbţie cu Autoritatea pentru Privatizare şi Administrarea Participaţiilor Statului | [`oug/2026/30/`](oug/2026/30/) | amending act | 1 | 2026-04-21 | 2026-04-21 |
 | Ordonanța de urgență a Guvernului nr. 33/2026 pentru modificarea şi completarea Legii educaţiei fizice şi sportului nr. 69/2000 | [`oug/2026/33/`](oug/2026/33/) | amending act | 1 | 2026-04-27 | 2026-04-27 |
 
-## Ordinances (OG) (486, of which 92 amending acts)
+## Ordinances (OG) (487, of which 92 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -3938,6 +3939,7 @@
 | Ordonanța Guvernului nr. 37/2005 | [`og/2005/37/`](og/2005/37/) | in force | 5 | 2005-07-25 | 2016-03-11 |
 | Ordonanța Guvernului nr. 39/2005 | [`og/2005/39/`](og/2005/39/) | in force | 21 | 2005-08-07 | 2024-12-09 |
 | Ordonanța Guvernului nr. 40/2005 | [`og/2005/40/`](og/2005/40/) | in force | 2 | 2005-09-30 | 2005-12-22 |
+| Ordonanța Guvernului nr. 41/2005 privind reglementarea unor măsuri financiare | [`og/2005/41/`](og/2005/41/) | in force | 7 | 2005-07-31 | 2011-10-31 |
 | Ordonanța Guvernului nr. 47/2005 | [`og/2005/47/`](og/2005/47/) | in force | 3 | 2005-08-29 | 2010-02-02 |
 | Ordonanța Guvernului nr. 49/2005 | [`og/2005/49/`](og/2005/49/) | in force | 2 | 2005-08-29 | 2006-04-07 |
 | Ordonanța Guvernului nr. 51/2005 | [`og/2005/51/`](og/2005/51/) | in force | 2 | 2005-09-03 | 2006-03-13 |
