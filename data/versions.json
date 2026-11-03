@@ -115100,6 +115100,21 @@
    ]
   },
   {
+   "slug": "hg-1164-2024",
+   "path": "hg/2024/1164",
+   "short": "HG nr. 1164/2024",
+   "title": "Hotărârea Guvernului nr. 1164/2024 privind aprobarea stemei comunei Suseni, judeţul Harghita",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/288852",
+   "versions": [
+    {
+     "from": "2024-09-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/288852",
+     "sha256": "a0c4b565aed399dd6c3196d9686c1bea20f8c229e2c5ebd920a93627645ab4e8"
+    }
+   ]
+  },
+  {
    "slug": "hg-1165-2008",
    "path": "hg/2008/1165",
    "short": "HG nr. 1165/2008",
@@ -115396,6 +115411,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/247862",
      "sha256": "c71df5a373ff49312faec369e62853a487dd329d158ad3d9c69f029b08ea0be8"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1169-2024",
+   "path": "hg/2024/1169",
+   "short": "HG nr. 1169/2024",
+   "title": "Hotărârea Guvernului nr. 1169/2024 privind acordarea unor ajutoare de urgenţă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/288870",
+   "versions": [
+    {
+     "from": "2024-09-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/288870",
+     "sha256": "9b32a2a116b9d4b27e448287b0d6de50c0d9d725710e1897ed6f3862831be424"
     }
    ]
   },
@@ -118571,6 +118601,21 @@
    ]
   },
   {
+   "slug": "hg-1205-2024",
+   "path": "hg/2024/1205",
+   "short": "HG nr. 1205/2024",
+   "title": "Hotărârea Guvernului nr. 1205/2024 privind numirea domnului Mitroi Sergiu în funcţia de subprefect al judeţului Covasna",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/289074",
+   "versions": [
+    {
+     "from": "2024-10-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/289074",
+     "sha256": "6d655f73d0de3d3ad3e35aa253838fae463adea5f1179fb1386c5ab6879d96c8"
+    }
+   ]
+  },
+  {
    "slug": "hg-1206-2001",
    "path": "hg/2001/1206",
    "short": "HG nr. 1206/2001",
@@ -118747,6 +118792,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/277088",
      "sha256": "02c364048817bdf8c78e18f313d642c1cbf60cad7c45c06ce191c1a93af4475e"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1207-2024",
+   "path": "hg/2024/1207",
+   "short": "HG nr. 1207/2024",
+   "title": "Hotărârea Guvernului nr. 1207/2024 privind numirea domnului Apetrii Gheorghe în funcţia de subprefect al judeţului Suceava",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/289076",
+   "versions": [
+    {
+     "from": "2024-10-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/289076",
+     "sha256": "6e2438dd1c6a59b01bfd837fc40f5108eb091c32566cd30435eca6d7957859b7"
     }
    ]
   },
@@ -133994,6 +134054,21 @@
    ]
   },
   {
+   "slug": "hg-1434-2024",
+   "path": "hg/2024/1434",
+   "short": "HG nr. 1434/2024",
+   "title": "Hotărârea Guvernului nr. 1434/2024 privind eliberarea doamnei Manea Toniţa din funcţia de subprefect al judeţului Ialomiţa",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/291249",
+   "versions": [
+    {
+     "from": "2024-11-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/291249",
+     "sha256": "63dd58741790427a001e3690046bfa3295cedb1433cc5440bc267f8402bc071d"
+    }
+   ]
+  },
+  {
    "slug": "hg-1435-2007",
    "path": "hg/2007/1435",
    "short": "HG nr. 1435/2007",
@@ -134578,6 +134653,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/262408",
      "sha256": "7d367185cde81f5b5ba4f272e22e16cb0f21a1f13e5fe75f7c613757f27afe81"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1442-2024",
+   "path": "hg/2024/1442",
+   "short": "HG nr. 1442/2024",
+   "title": "Hotărârea Guvernului nr. 1442/2024 privind acordarea unor ajutoare de urgenţă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/291257",
+   "versions": [
+    {
+     "from": "2024-11-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/291257",
+     "sha256": "2026003503596e4d6365f94c9f65d644da3635f951654a00061e5f4045c746bf"
     }
    ]
   },
@@ -135208,6 +135298,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/262807",
      "sha256": "7fa91c7355037093592bc908d720864dc6af4617fd70f3987c2e184c85281f23"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1456-2024",
+   "path": "hg/2024/1456",
+   "short": "HG nr. 1456/2024",
+   "title": "Hotărârea Guvernului nr. 1456/2024 privind aprobarea bugetului Trezoreriei Statului pe anul 2025",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/291298",
+   "versions": [
+    {
+     "from": "2024-11-22",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/291298",
+     "sha256": "ac63ec57b146d466d6e7c56d92969a4daf1d364538aa46e0ad65c252ae4722ba"
     }
    ]
   },
@@ -142148,6 +142253,21 @@
    ]
   },
   {
+   "slug": "hg-159-2025",
+   "path": "hg/2025/159",
+   "short": "HG nr. 159/2025",
+   "title": "Hotărârea Guvernului nr. 159/2025 privind numirea domnului Nicolae Ştefan în funcţia de subprefect al judeţului Olt",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/295074",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/295074",
+     "sha256": "c3bda7e805a4ea4f431346c9daea0d4f5cfc70d0b1344e381df28ac6af1c75fa"
+    }
+   ]
+  },
+  {
    "slug": "hg-1590-2022",
    "path": "hg/2022/1590",
    "short": "HG nr. 1590/2022",
@@ -143671,6 +143791,21 @@
      "units": 25,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/135938",
      "sha256": "bec8a16b0e3dd29ab779b17e5a9cdab996ea9e157d681f63f3cccad53dedd1d7"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1636-2024",
+   "path": "hg/2024/1636",
+   "short": "HG nr. 1636/2024",
+   "title": "Hotărârea Guvernului nr. 1636/2024 privind organizarea şi funcţionarea Autorităţii Naţionale Fitosanitare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/292462",
+   "versions": [
+    {
+     "from": "2024-12-18",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/292462",
+     "sha256": "437ab218888187377f5007bb00749577579ea4040d05828aa540548e11d3c079"
     }
    ]
   },
@@ -149192,6 +149327,21 @@
    ]
   },
   {
+   "slug": "hg-194-2025",
+   "path": "hg/2025/194",
+   "short": "HG nr. 194/2025",
+   "title": "Hotărârea Guvernului nr. 194/2025 privind numirea domnului Şerbescu Marian în funcţia de subprefect al judeţului Iaşi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/295200",
+   "versions": [
+    {
+     "from": "2025-03-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/295200",
+     "sha256": "d7a99dc15dc9aeb6599fefe0ad2587c86c3c1a865f936de2b683008cb3bf9f41"
+    }
+   ]
+  },
+  {
    "slug": "hg-194-2026",
    "path": "hg/2026/194",
    "short": "HG nr. 194/2026",
@@ -152548,6 +152698,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/280084",
      "sha256": "a8c9e1b9db3436f9456668a37b421752e091ff13d014560836cf0f21a35c35a0"
+    }
+   ]
+  },
+  {
+   "slug": "hg-222-2025",
+   "path": "hg/2025/222",
+   "short": "HG nr. 222/2025",
+   "title": "Hotărârea Guvernului nr. 222/2025 privind eliberarea doamnei Breşug Cristina din funcţia de subprefect al judeţului Botoşani",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/295391",
+   "versions": [
+    {
+     "from": "2025-03-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/295391",
+     "sha256": "adc52330ad946e39653b4061619835657e45fca0c5c352392ac46aef6dfdc015"
     }
    ]
   },
@@ -172834,6 +172999,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/278350",
      "sha256": "4832b687617e522e5feef360597af76c4cf3cf49f8c3ea95789f1ec7567b59c6"
+    }
+   ]
+  },
+  {
+   "slug": "hg-38-2025",
+   "path": "hg/2025/38",
+   "short": "HG nr. 38/2025",
+   "title": "Hotărârea Guvernului nr. 38/2025 privind aprobarea stemei comunei Mihăeşti, judeţul Argeş",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/294901",
+   "versions": [
+    {
+     "from": "2025-02-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/294901",
+     "sha256": "e29b049ef9c61baaed9d86e8b26058e6ee77233fbbd95455f3dffd182b159108"
     }
    ]
   },
@@ -193840,6 +194020,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/278544",
      "sha256": "bc2c0ac8175eae839746ac54a77e80b1f3488e96001f29d72f77c5875afefe87"
+    }
+   ]
+  },
+  {
+   "slug": "hg-55-2025",
+   "path": "hg/2025/55",
+   "short": "HG nr. 55/2025",
+   "title": "Hotărârea Guvernului nr. 55/2025 privind aprobarea stemei comunei Giuvărăşti, judeţul Olt",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/294902",
+   "versions": [
+    {
+     "from": "2025-02-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/294902",
+     "sha256": "1a543fb39ef77265754f2327e19b91cb17c0cb3aaf49fd471876e395ef1a9443"
     }
    ]
   },
@@ -238217,6 +238412,21 @@
    ]
   },
   {
+   "slug": "hg-91-2025",
+   "path": "hg/2025/91",
+   "short": "HG nr. 91/2025",
+   "title": "Hotărârea Guvernului nr. 91/2025 privind eliberarea doamnei Stănculescu Florentina din funcţia de prefect al judeţului Giurgiu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/295006",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/295006",
+     "sha256": "7e1cccc02501214c2c242faa2936d697ac14ad3e0d75d5029294a6daa9d70feb"
+    }
+   ]
+  },
+  {
    "slug": "hg-910-2000",
    "path": "hg/2000/910",
    "short": "HG nr. 910/2000",
@@ -239365,6 +239575,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/278983",
      "sha256": "a112756be48378f336088b59973692aff0a8ab1de9e36a816a3446603d180e9a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-92-2025",
+   "path": "hg/2025/92",
+   "short": "HG nr. 92/2025",
+   "title": "Hotărârea Guvernului nr. 92/2025 privind eliberarea domnului Drăguşin Virgil din funcţia de prefect al judeţului Gorj",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/295007",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/295007",
+     "sha256": "8cbe4ba28c268fadd30f0d0c4450d4cd3e86f82ece09de69ba44886f3337ac5a"
     }
    ]
   },
