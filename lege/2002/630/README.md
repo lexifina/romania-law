@@ -64,3 +64,14 @@ Act id: `legea-630-2002` (tags `legea-630-2002/<day>`; `python tools/on.py <day>
 - Legea nr. 630/2002: added by Lexifina's automatic pass with the default rules: the forms are those the portal lists, each version is dated by its form or by the notes it prints, and no rule or ruling made for this act alone was applied. It was published only because every automatic check passed: two parses identical, the newest form read afresh equal to the latest version article by article, every article a form leaves out settled by the standing rules, every version dated by a rule or a stated in-force day, and no unexplained change other than diacritics or spacing.
 - Legea nr. 630/2002: the first version is the law as published in Monitorul Oficial nr. 889 of 9 December 2002 (DetaliiDocumentAfis/40414), dated 9 December 2002: it sets no day of its own, so in force on publication (Constituția of 1991, art. 78, which applied until 29 October 2003). The portal holds no consolidated form before 29 June 2003, so the changes made up to then arrive together that day.
 - Legea nr. 630/2002: 31 changed article(s) with no note naming a law, committed as the publisher's: 2003-06-29 art-001, 2003-06-29 art-002, 2003-06-29 art-003, 2003-06-29 art-005, 2003-06-29 art-013, 2003-06-29 art-015, 2003-06-29 art-016, 2003-06-29 art-017, 2003-06-29 art-018, 2003-06-29 art-019, 2003-06-29 art-020, 2003-06-29 art-021, 2003-06-29 art-022, 2003-06-29 art-023, 2003-06-29 art-024, 2003-06-29 art-030, 2003-06-29 art-032, 2003-06-29 art-033, 2003-06-29 art-034, 2003-06-29 art-035, 2003-06-29 art-037, 2003-06-29 art-038, 2003-06-29 art-040, 2003-06-29 art-041, 2003-06-29 art-042, 2003-06-29 art-044, 2003-06-29 art-045, 2003-06-29 art-046, 2003-06-29 art-047, 2003-06-29 art-048, 2003-06-29 art-049.
+
+## Credits corrected
+
+These changes were first published credited to another law. The words are unchanged; `git blame` still names the commit that wrote them, and `data/credits.csv` lists every corrected credit.
+
+- `art-009.md`, in force from 2003-06-29: OUG nr. 64/2003 (first published as no law named).
+- `art-011.md`, in force from 2003-06-29: OUG nr. 64/2003 (first published as no law named).
+- `art-012.md`, in force from 2003-06-29: OUG nr. 64/2003 (first published as no law named).
+- `art-011.md`, in force from 2004-12-27: Legea nr. 577/2004 (first published as no law named).
+- `art-012.md`, in force from 2004-12-27: Legea nr. 577/2004 (first published as no law named).
+- `art-037.md`, in force from 2004-12-27: Legea nr. 571/2003 (first published as no law named).
