@@ -43,3 +43,15 @@ Act id: `legea-24-2007` (tags `legea-24-2007/<day>`; `python tools/on.py <day> l
 - Legea nr. 24/2007: the portal editorial notes printed as paragraphs of an article (on a Constitutional Court ruling, a rectification, a provision put back in force) are not text: 2 such paragraphs across all forms, for example «Potrivit art. II din LEGEA nr. 47 din 19 martie 2012, public».
 - Legea nr. 24/2007: articles a form leaves out are shown repealed on the day the repealing act took effect (on publication for an emergency ordinance, 3 days after for a law, unless the act sets its own day), credited to that act as its repeal note names it: art. 4, left out from the form of 18.10.2009: repealed by Legea nr. 313/2009, in force 18.10.2009 (it sets no day of its own: in force 3 days after publication in Monitorul Oficial nr. 694 of 15 October 2009 (Constituția art. 78)); art. 5, left out from the form of 18.10.2009: repealed by Legea nr. 313/2009, in force 18.10.2009 (it sets no day of its own: in force 3 days after publication in Monitorul Oficial nr. 694 of 15 October 2009 (Constituția art. 78)).
 - Legea nr. 24/2007: 1 changed article(s) with no note naming a law, committed as the publisher's: 2014-07-07 art-010.
+
+## Credits corrected
+
+These changes were first published credited to another law. The words are unchanged; `git blame` still names the commit that wrote them, and `data/credits.csv` lists every corrected credit.
+
+- `art-010.md`, in force from 2012-03-25: Legea nr. 47/2012 (first published as no law named).
+- `art-018.md`, in force from 2012-03-25: Legea nr. 47/2012 (first published as no law named).
+- `art-023.md`, in force from 2012-03-25: Legea nr. 47/2012 (first published as no law named).
+- `art-012.md`, in force from 2014-07-07: Legea nr. 88/2014 (first published as no law named).
+- `art-015.md`, in force from 2014-07-07: Legea nr. 88/2014 (first published as no law named).
+- `art-023.md`, in force from 2014-07-07: Legea nr. 88/2014 (first published as no law named).
+- `art-018.md`, in force from 2014-10-19: Legea nr. 135/2014 (first published as no law named).
