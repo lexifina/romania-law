@@ -62,3 +62,42 @@ Act id: `og-24-2011` (tags `og-24-2011/<day>`; `python tools/on.py <day> og-24-2
 - OG nr. 24/2011: the changes of the form of 18 April 2013 (portal page 147076) are credited to Legea nr. 99/2013: its form header and the note on art. II alin. (1) say that Legea nr. 99/2013 replaces "Uniunea" by "Asociația" (Asociația Națională a Evaluatorilor Autorizați din România) in the text.
 - OG nr. 24/2011: the form of 24 July 2013 differs from the earlier form in diacritics and punctuation (portal typesetting: not an amendment; the printed text is kept and no law is credited, as for the other portal typesetting in this record).
 - OG nr. 24/2011: 1 changed article(s) with no note naming a law, committed as the publisher's: 2013-07-24 art-020.
+
+## Credits corrected
+
+These changes were first published credited to another law. The words are unchanged; `git blame` still names the commit that wrote them, and `data/credits.csv` lists every corrected credit.
+
+- `art-003.md`, in force from 2013-04-18: Legea nr. 99/2013 (first published as no law named).
+- `art-004.md`, in force from 2013-04-18: Legea nr. 99/2013 (first published as no law named).
+- `art-005.md`, in force from 2013-04-18: Legea nr. 99/2013 (first published as no law named).
+- `art-006.md`, in force from 2013-04-18: Legea nr. 99/2013 (first published as no law named).
+- `art-007.md`, in force from 2013-04-18: Legea nr. 99/2013 (first published as no law named).
+- `art-008.md`, in force from 2013-04-18: Legea nr. 99/2013 (first published as no law named).
+- `art-009.md`, in force from 2013-04-18: Legea nr. 99/2013 (first published as no law named).
+- `art-010.md`, in force from 2013-04-18: Legea nr. 99/2013 (first published as no law named).
+- `art-011.md`, in force from 2013-04-18: Legea nr. 99/2013 (first published as no law named).
+- `art-012.md`, in force from 2013-04-18: Legea nr. 99/2013 (first published as no law named).
+- `art-013.md`, in force from 2013-04-18: Legea nr. 99/2013 (first published as no law named).
+- `art-014.md`, in force from 2013-04-18: Legea nr. 99/2013 (first published as no law named).
+- `art-015.md`, in force from 2013-04-18: Legea nr. 99/2013 (first published as no law named).
+- `art-018.md`, in force from 2013-04-18: Legea nr. 99/2013 (first published as no law named).
+- `art-019.md`, in force from 2013-04-18: Legea nr. 99/2013 (first published as no law named).
+- `art-021.md`, in force from 2013-04-18: Legea nr. 99/2013 (first published as no law named).
+- `art-022.md`, in force from 2013-04-18: Legea nr. 99/2013 (first published as no law named).
+- `art-023.md`, in force from 2013-04-18: Legea nr. 99/2013 (first published as no law named).
+- `art-024.md`, in force from 2013-04-18: Legea nr. 99/2013 (first published as no law named).
+- `art-026.md`, in force from 2013-04-18: Legea nr. 99/2013 (first published as no law named).
+- `art-027.md`, in force from 2013-04-18: Legea nr. 99/2013 (first published as no law named).
+- `art-028.md`, in force from 2013-04-18: Legea nr. 99/2013 (first published as no law named).
+- `art-029.md`, in force from 2013-04-18: Legea nr. 99/2013 (first published as no law named).
+- `art-031.md`, in force from 2013-04-18: Legea nr. 99/2013 (first published as no law named).
+- `art-032.md`, in force from 2013-04-18: Legea nr. 99/2013 (first published as no law named).
+- `art-033.md`, in force from 2013-04-18: Legea nr. 99/2013 (first published as no law named).
+- `art-034.md`, in force from 2013-04-18: Legea nr. 99/2013 (first published as no law named).
+- `art-036.md`, in force from 2013-04-18: Legea nr. 99/2013 (first published as no law named).
+- `art-037.md`, in force from 2013-04-18: Legea nr. 99/2013 (first published as no law named).
+- `art-038.md`, in force from 2013-04-18: Legea nr. 99/2013 (first published as no law named).
+- `art-039.md`, in force from 2013-04-18: Legea nr. 99/2013 (first published as no law named).
+- `art-040.md`, in force from 2013-04-18: Legea nr. 99/2013 (first published as no law named).
+- `art-041.md`, in force from 2013-04-18: Legea nr. 99/2013 (first published as no law named).
+- `art-043.md`, in force from 2013-04-18: Legea nr. 99/2013 (first published as no law named).
