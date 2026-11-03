@@ -1,0 +1,34 @@
+# Ordonanța Guvernului nr. 20/2023 privind stabilirea unor măsuri pentru aplicarea Regulamentului (UE) 2019/1.020 al Parlamentului European și al Consiliului din 20 iunie 2019 privind supravegherea pieței și conformitatea produselor și de modificare a Directivei 2004/42/CE și a Regulamentelor (CE) nr. 765/2008 și (UE) nr. 305/2011, precum și pentru modificarea și completarea unor acte normative
+
+OG nr. 20/2023 · 1 versions, from 2023-02-03 (latest in force: 2023-02-03) · <https://legislatie.just.ro/Public/DetaliiDocument/264509>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Art. 1 | [art-001.md](art-001.md) | 0 |  |
+| Art. 2 | [art-002.md](art-002.md) | 0 |  |
+| Art. 3 | [art-003.md](art-003.md) | 0 |  |
+| Art. 4 | [art-004.md](art-004.md) | 0 |  |
+| Art. 5 | [art-005.md](art-005.md) | 0 |  |
+| Art. 6 | [art-006.md](art-006.md) | 0 |  |
+| Art. 7 | [art-007.md](art-007.md) | 0 |  |
+| Art. 8 | [art-008.md](art-008.md) | 0 |  |
+| Art. 9 | [art-009.md](art-009.md) | 0 |  |
+| Art. 10 | [art-010.md](art-010.md) | 0 |  |
+| Art. 11 | [art-011.md](art-011.md) | 0 |  |
+| Art. 12 | [art-012.md](art-012.md) | 0 |  |
+| Art. 13 | [art-013.md](art-013.md) | 0 |  |
+| Art. 14 | [art-014.md](art-014.md) | 0 |  |
+| Art. 15 | [art-015.md](art-015.md) | 0 |  |
+| Art. 16 | [art-016.md](art-016.md) | 0 |  |
+| Art. 17 | [art-017.md](art-017.md) | 0 |  |
+| Art. 18 | [art-018.md](art-018.md) | 0 |  |
+| Art. 19 | [art-019.md](art-019.md) | 0 |  |
+
+Act id: `og-20-2023` (tags `og-20-2023/<day>`; `python tools/on.py <day> og-20-2023`).
+
+## Decisions made by hand
+
+- OG nr. 20/2023: added 2026-11-02, one of the Portalul legislativ's consolidated forms per version, as for the other acts. A capture was used only if it was complete and the page showed the form its document id stands for. The forms are those listed by DetaliiDocument/264509 as captured on 2025-10-15, the newest capture of any of the act's pages: 0 forms, 0 held.
+- OG nr. 20/2023: the newest form held is that of 03.02.2023; amendments in force after it may be missing.
+- OG nr. 20/2023: added by Lexifina's automatic pass with the default rules: the forms are those the portal lists, each version is dated by its form or by the notes it prints, and no rule or ruling made for this act alone was applied. It was published only because every automatic check passed: two parses identical, the newest form read afresh equal to the latest version article by article, every article a form leaves out settled by the standing rules, every version dated by a rule or a stated in-force day, and no unexplained change other than diacritics or spacing.
+- OG nr. 20/2023: the first version is the ordinance as published in Monitorul Oficial nr. 86 of 31 January 2023 (DetaliiDocumentAfis/264509), dated 3 February 2023: an ordinance with no day of its own, so in force 3 days after publication (Legea nr. 24/2000 art. 12 alin. (1), as for laws). The portal lists no consolidated form of it, so the text as published is its only version; the act page (DetaliiDocument/264509) prints the same text.
