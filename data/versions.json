@@ -100553,6 +100553,21 @@
    ]
   },
   {
+   "slug": "hg-1017-2020",
+   "path": "hg/2020/1017",
+   "short": "HG nr. 1017/2020",
+   "title": "Hotărârea Guvernului nr. 1017/2020 pentru modificarea și completarea Hotărârii Guvernului nr. 1.198/2012 privind desemnarea infrastructurilor critice naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/234344",
+   "versions": [
+    {
+     "from": "2020-12-08",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/234344",
+     "sha256": "07e6c8eb9f64acfbc1a38ea66c69ea18ba3b83ffbd50f0cd5a21a9da9bcf0cf7"
+    }
+   ]
+  },
+  {
    "slug": "hg-1017-2022",
    "path": "hg/2022/1017",
    "short": "HG nr. 1017/2022",
@@ -138655,6 +138670,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/295783",
      "sha256": "cdea23762efbe12d497c2e6b2adf3d656d90944e84db5db56b6db4a00630a48e"
+    }
+   ]
+  },
+  {
+   "slug": "hg-276-2018",
+   "path": "hg/2018/276",
+   "short": "HG nr. 276/2018",
+   "title": "Hotărârea Guvernului nr. 276/2018 pentru modificarea și completarea Hotărârii Guvernului nr. 1.198/2012 privind desemnarea infrastructurilor critice naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/200565",
+   "versions": [
+    {
+     "from": "2018-05-10",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/200565",
+     "sha256": "ed705a1037ada750e5b1775f28a2acb4caa5aa6cd5bf94b2b97181514236151c"
     }
    ]
   },
@@ -265149,21 +265179,6 @@
    ]
   },
   {
-   "slug": "hg-1017-2020",
-   "path": "hg/2020/1017",
-   "short": "HG nr. 1017/2020",
-   "title": "Hotărârea Guvernului nr. 1017/2020 pentru modificarea și completarea Hotărârii Guvernului nr. 1.198/2012 privind desemnarea infrastructurilor critice naționale",
-   "url": "https://legislatie.just.ro/Public/DetaliiDocument/234344",
-   "versions": [
-    {
-     "from": "2020-12-08",
-     "units": 2,
-     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/234344",
-     "sha256": "07e6c8eb9f64acfbc1a38ea66c69ea18ba3b83ffbd50f0cd5a21a9da9bcf0cf7"
-    }
-   ]
-  },
-  {
    "slug": "hg-103-2021",
    "short": "HG nr. 103/2021",
    "title": "Hotărârea Guvernului nr. 103/2021 referitoare la Comunicarea Comisiei către Parlamentul European, Consiliu, Comitetul Economic și Social European și Comitetul Regiunilor - O Uniune a egalității: Strategia privind drepturile persoanelor cu handicap 2021-2030 - COM(2021) 101 final",
@@ -265356,21 +265371,6 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/254279",
      "sha256": "98c068f9ef10e977cdb1dd013c58b3c51f9b824b6d2c6d74b77e00e5336e0689"
-    }
-   ]
-  },
-  {
-   "slug": "hg-276-2018",
-   "path": "hg/2018/276",
-   "short": "HG nr. 276/2018",
-   "title": "Hotărârea Guvernului nr. 276/2018 pentru modificarea și completarea Hotărârii Guvernului nr. 1.198/2012 privind desemnarea infrastructurilor critice naționale",
-   "url": "https://legislatie.just.ro/Public/DetaliiDocument/200565",
-   "versions": [
-    {
-     "from": "2018-05-10",
-     "units": 2,
-     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/200565",
-     "sha256": "ed705a1037ada750e5b1775f28a2acb4caa5aa6cd5bf94b2b97181514236151c"
     }
    ]
   },
