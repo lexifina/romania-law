@@ -1,6 +1,6 @@
 # Every act in this repository
 
-19792 acts, 33,423 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+19819 acts, 33,450 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (3149, of which 1699 amending acts)
+## Laws (legi) (3151, of which 1701 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -1047,6 +1047,8 @@
 | Legea nr. 160/2012 | [`lege/2012/160/`](lege/2012/160/) | in force | 1 | 2012-10-06 | 2012-10-06 |
 | Legea nr. 166/2012 | [`lege/2012/166/`](lege/2012/166/) | in force | 1 | 2012-10-14 | 2012-10-14 |
 | Legea nr. 173/2012 | [`lege/2012/173/`](lege/2012/173/) | in force | 1 | 2012-10-19 | 2012-10-19 |
+| Legea nr. 175/2012 privind respingerea Ordonanţei de urgenţă a Guvernului nr. 172/2008 pentru modificarea şi completarea Legii energiei electrice nr. 13/2007 | [`lege/2012/175/`](lege/2012/175/) | amending act | 1 | 2012-10-21 | 2012-10-21 |
+| Legea nr. 177/2012 pentru modificarea art. 34 alin. (5) lit. b) din Legea nr. 571/2003 privind Codul fiscal | [`lege/2012/177/`](lege/2012/177/) | amending act | 1 | 2012-10-21 | 2012-10-21 |
 | Legea nr. 178/2012 privind completarea Legii recunoştinţei faţă de eroii-martiri şi luptătorii care au contribuit la victoria Revoluţiei române din decembrie 1989, precum şi faţă de persoanele care şi-au jertfit viaţa sau au avut de suferit în urma revoltei muncitoreşti anticomuniste de la Braşov din noiembrie 1987 nr. 341/2004 | [`lege/2012/178/`](lege/2012/178/) | amending act | 1 | 2012-10-22 | 2012-10-22 |
 | Legea nr. 179/2012 pentru modificarea şi completarea Legii nr. 339/2005 privind regimul juridic al plantelor, substanţelor şi preparatelor stupefiante şi psihotrope | [`lege/2012/179/`](lege/2012/179/) | amending act | 1 | 2012-10-22 | 2012-10-22 |
 | Legea nr. 180/2012 privind modificarea Ordonanţei Guvernului nr. 41/2007 pentru comercializarea produselor de protecţie a plantelor, precum şi pentru modificarea şi abrogarea unor acte normative din domeniul fitosanitar | [`lege/2012/180/`](lege/2012/180/) | amending act | 1 | 2012-10-22 | 2012-10-22 |
@@ -5402,7 +5404,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (14399, of which 7323 amending acts)
+## Government decisions (HG) (14424, of which 7337 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -8697,9 +8699,34 @@
 | Hotărârea Guvernului nr. 973/2012 | [`hg/2012/973/`](hg/2012/973/) | in force | 5 | 2012-10-10 | 2024-08-12 |
 | Hotărârea Guvernului nr. 974/2012 | [`hg/2012/974/`](hg/2012/974/) | in force | 1 | 2012-10-16 | 2012-10-16 |
 | Hotărârea Guvernului nr. 985/2012 | [`hg/2012/985/`](hg/2012/985/) | in force | 1 | 2012-10-16 | 2012-10-16 |
+| Hotărârea Guvernului nr. 986/2012 privind actualizarea inventarului centralizat al bunurilor din domeniul public al statului aflate în administrarea Ministerului Comunicaţiilor şi Societăţii Informaţionale | [`hg/2012/986/`](hg/2012/986/) | in force | 1 | 2012-10-16 | 2012-10-16 |
 | Hotărârea Guvernului nr. 987/2012 | [`hg/2012/987/`](hg/2012/987/) | in force | 1 | 2012-10-17 | 2012-10-17 |
+| Hotărârea Guvernului nr. 988/2012 privind modificarea şi completarea Hotărârii Guvernului nr. 527/1992 de reorganizare a unor instituţii publice subordonate Ministerului Culturii şi Patrimoniului Naţional şi pentru modificarea Hotărârii Guvernului nr. 90/2010 privind organizarea şi funcţionarea Ministerului Culturii şi Patrimoniului Naţional | [`hg/2012/988/`](hg/2012/988/) | amending act | 1 | 2012-10-23 | 2012-10-23 |
+| Hotărârea Guvernului nr. 989/2012 privind modificarea Listei cuprinzând statele terţe care impun cerinţe similare cu cele prevăzute de Legea nr. 656/2002 pentru prevenirea şi sancţionarea spălării banilor, precum şi pentru instituirea unor măsuri de prevenire şi combatere a finanţării actelor de terorism, aprobată prin Hotărârea Guvernului nr. 1.437/2008 | [`hg/2012/989/`](hg/2012/989/) | amending act | 1 | 2012-11-01 | 2012-11-01 |
+| Hotărârea Guvernului nr. 990/2012 privind aprobarea Acordului de cooperare dintre Ministerul Administraţiei şi Internelor din România şi Academia de Administrare Publică de pe lângă Preşedintele Republicii Moldova privind cooperarea în domeniul managementului funcţiei publice şi al funcţionarilor publici, semnat la Chişinău la 2 aprilie 2012 | [`hg/2012/990/`](hg/2012/990/) | amending act | 1 | 2012-10-17 | 2012-10-17 |
+| Hotărârea Guvernului nr. 991/2012 privind aprobarea stemelor comunelor Adămuş, Băla, Deda, Grebenişu de Câmpie şi Viişoara, judeţul Mureş | [`hg/2012/991/`](hg/2012/991/) | amending act | 1 | 2012-10-19 | 2012-10-19 |
+| Hotărârea Guvernului nr. 992/2012 pentru completarea Hotărârii Guvernului nr. 1.693/2004 privind modul de organizare şi funcţionare a serviciilor publice comunitare pentru eliberarea şi evidenţa paşapoartelor simple | [`hg/2012/992/`](hg/2012/992/) | amending act | 1 | 2012-10-18 | 2012-10-18 |
+| Hotărârea Guvernului nr. 993/2012 privind rechemarea unui consul general | [`hg/2012/993/`](hg/2012/993/) | in force | 1 | 2012-10-17 | 2012-10-17 |
+| Hotărârea Guvernului nr. 994/2012 privind rechemarea şi numirea unui consul general | [`hg/2012/994/`](hg/2012/994/) | in force | 1 | 2012-10-17 | 2012-10-17 |
+| Hotărârea Guvernului nr. 996/2012 privind numirea unui consul general | [`hg/2012/996/`](hg/2012/996/) | in force | 1 | 2012-10-17 | 2012-10-17 |
+| Hotărârea Guvernului nr. 997/2012 privind alocarea unei sume din Fondul de intervenţie la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2012, pentru înlăturarea efectelor calamităţilor naturale produse în unele judeţe ale ţării | [`hg/2012/997/`](hg/2012/997/) | in force | 1 | 2012-11-08 | 2012-11-08 |
+| Hotărârea Guvernului nr. 998/2012 privind completarea Hotărârii Guvernului nr. 1.680/2008 pentru instituirea unei scheme de ajutor de stat privind asigurarea dezvoltării economice durabile şi a Hotărârii Guvernului nr. 753/2008 pentru instituirea unei scheme de ajutor de stat privind dezvoltarea regională prin stimularea investiţiilor | [`hg/2012/998/`](hg/2012/998/) | amending act | 1 | 2012-10-17 | 2012-10-17 |
+| Hotărârea Guvernului nr. 999/2012 pentru aprobarea unei plăţi din fondul de risc constituit în baza Ordonanţei de urgenţă a Guvernului nr. 64/2007 privind datoria publică | [`hg/2012/999/`](hg/2012/999/) | amending act | 1 | 2012-10-18 | 2012-10-18 |
 | Hotărârea Guvernului nr. 1000/2012 | [`hg/2012/1000/`](hg/2012/1000/) | in force | 5 | 2012-10-29 | 2022-12-20 |
+| Hotărârea Guvernului nr. 1002/2012 privind suplimentarea bugetului Ministerului Muncii, Familiei şi Protecţiei Sociale pentru plata titlurilor executorii prevăzute de Ordonanţa de urgenţă a Guvernului nr. 71/2009 privind plata unor sume prevăzute în titluri executorii având ca obiect acordarea de drepturi salariale personalului din sectorul bugetar | [`hg/2012/1002/`](hg/2012/1002/) | in force | 1 | 2012-10-23 | 2012-10-23 |
+| Hotărârea Guvernului nr. 1004/2012 privind suplimentarea bugetului Ministerului Comunicaţiilor şi Societăţii Informaţionale, la titlul "Cheltuieli de personal", pentru plata titlurilor executorii prevăzute de Ordonanţa de urgenţă a Guvernului nr. 71/2009 privind plata unor sume prevăzute în titluri executorii având ca obiect acordarea de drepturi salariale personalului din sectorul bugetar | [`hg/2012/1004/`](hg/2012/1004/) | in force | 1 | 2012-10-23 | 2012-10-23 |
+| Hotărârea Guvernului nr. 1006/2012 privind ocuparea, în anul 2012, a unui număr de 198 de posturi vacante existente la Spitalul Orăşenesc Bumbeşti-Jiu, judeţul Gorj, şi la Spitalul Orăşenesc Ţăndărei, judeţul Ialomiţa | [`hg/2012/1006/`](hg/2012/1006/) | in force | 1 | 2012-10-22 | 2012-10-22 |
+| Hotărârea Guvernului nr. 1007/2012 pentru modificarea Hotărârii Guvernului nr. 65/2009 privind înfiinţarea, organizarea şi funcţionarea Agenţiei pentru Implementarea Proiectelor şi Programelor pentru Întreprinderi Mici şi Mijlocii | [`hg/2012/1007/`](hg/2012/1007/) | amending act | 1 | 2012-10-23 | 2012-10-23 |
+| Hotărârea Guvernului nr. 1008/2012 pentru aprobarea Protocolului dintre Guvernul României şi Guvernul Republicii Algeriene Democratice şi Populare, semnat la Bucureşti la 22 noiembrie 2011, de amendare a Acordului dintre Guvernul Republicii Socialiste România şi Guvernul Republicii Algeriene Democratice şi Populare privind crearea Comisiei mixte româno-algeriene de cooperare economică, ştiinţifică şi tehnică, semnat la Alger la 13 martie 1972 | [`hg/2012/1008/`](hg/2012/1008/) | amending act | 1 | 2012-10-25 | 2012-10-25 |
+| Hotărârea Guvernului nr. 1010/2012 pentru aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii "Regularizare râu Buzău pe zona Întorsura Buzăului - Sita Buzăului, judeţul Covasna" | [`hg/2012/1010/`](hg/2012/1010/) | amending act | 1 | 2012-10-25 | 2012-10-25 |
+| Hotărârea Guvernului nr. 1011/2012 pentru aprobarea Memorandumului de înţelegere dintre Ministerul Apărării Naţionale din România şi ministrul apărării din Regatul Belgiei privind cooperarea în domeniul apărării şi al relaţiilor militare, semnat la Bruxelles la 18 aprilie 2012 | [`hg/2012/1011/`](hg/2012/1011/) | amending act | 1 | 2012-10-25 | 2012-10-25 |
+| Hotărârea Guvernului nr. 1012/2012 pentru modificarea Hotărârii Guvernului nr. 812/2005 privind aprobarea Regulamentului de organizare şi funcţionare şi atribuţiile şi finanţarea Consiliului de supraveghere din domeniul feroviar | [`hg/2012/1012/`](hg/2012/1012/) | amending act | 1 | 2012-10-24 | 2012-10-24 |
+| Hotărârea Guvernului nr. 1013/2012 privind transmiterea unei părţi dintr-un imobil, proprietate publică a statului, din administrarea Ministerului Justiţiei - Tribunalul Mehedinţi în administrarea Consiliului Superior al Magistraturii, pentru Institutul Naţional al Magistraturii şi Şcoala Naţională de Grefieri | [`hg/2012/1013/`](hg/2012/1013/) | in force | 1 | 2012-10-24 | 2012-10-24 |
+| Hotărârea Guvernului nr. 1014/2012 pentru modificarea Normelor metodologice de aplicare a Legii viei şi vinului în sistemul organizării comune a pieţei vitivinicole nr. 244/2002, aprobate prin Hotărârea Guvernului nr. 769/2010 | [`hg/2012/1014/`](hg/2012/1014/) | amending act | 1 | 2012-11-02 | 2012-11-02 |
+| Hotărârea Guvernului nr. 1015/2012 privind trecerea unui imobil, respectiv a unei părţi de imobil din domeniul public al statului şi din administrarea Ministerului Justiţiei - Curtea de Apel Târgu Mureş în domeniul privat al statului, în vederea scoaterii din funcţiune şi demolării | [`hg/2012/1015/`](hg/2012/1015/) | in force | 1 | 2012-11-14 | 2012-11-14 |
+| Hotărârea Guvernului nr. 1017/2012 pentru aprobarea Amendamentului nr. 4, convenit între Guvernul României, Banca Europeană de Investiţii şi Municipiul Bucureşti prin scrisoarea semnată la Luxemburg la 25 aprilie 2012 şi la Bucureşti la 8 mai 2012 şi la 11 mai 2012, la Contractul de finanţare dintre România şi Banca Europeană de Investiţii şi Municipiul Bucureşti pentru finanţarea Proiectului privind reabilitarea infrastructurii educaţionale în Bucureşti, semnat la Bucureşti la 1 octombrie 2003 şi la Luxemburg la 7 octombrie 2003 | [`hg/2012/1017/`](hg/2012/1017/) | amending act | 1 | 2012-10-29 | 2012-10-29 |
 | Hotărârea Guvernului nr. 1018/2012 | [`hg/2012/1018/`](hg/2012/1018/) | in force | 2 | 2012-10-29 | 2019-06-21 |
+| Hotărârea Guvernului nr. 1019/2012 privind unele măsuri referitoare la derularea proceselor de privatizare pentru unele societăţi comerciale la care Ministerul Economiei, Comerţului şi Mediului de Afaceri este acţionar şi pentru filialele acestora | [`hg/2012/1019/`](hg/2012/1019/) | in force | 1 | 2012-11-01 | 2012-11-01 |
 | Hotărârea Guvernului nr. 1020/2012 privind încetarea, prin acordul părţilor, a exercitării cu caracter temporar a funcţiei publice de prefect al judeţului Alba de către domnul Simedru Dan-Coriolan | [`hg/2012/1020/`](hg/2012/1020/) | in force | 1 | 2012-10-24 | 2012-10-24 |
 | Hotărârea Guvernului nr. 1021/2012 privind încetarea exercitării, cu caracter temporar, a funcţiei publice de prefect al judeţului Dâmboviţa de către domnul Rusu Emilian | [`hg/2012/1021/`](hg/2012/1021/) | in force | 1 | 2012-10-26 | 2012-10-26 |
 | Hotărârea Guvernului nr. 1022/2012 privind exercitarea, cu caracter temporar, prin detaşare în condiţiile legii, a funcţiei publice de prefect al judeţului Dâmboviţa de către domnul Sanda Victor | [`hg/2012/1022/`](hg/2012/1022/) | in force | 1 | 2012-10-26 | 2012-10-26 |
