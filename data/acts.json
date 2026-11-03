@@ -70263,6 +70263,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/51521"
 },
 {
+"slug": "hg-543-2004",
+"path": "hg/2004/543",
+"kind": "hg",
+"year": "2004",
+"number": "543",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 543/2004",
+"short": "HG nr. 543/2004",
+"code": null,
+"status": "repealed 2011-07-28",
+"versions": 3,
+"from": "2004-06-03",
+"latest": "2011-07-28",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/117013"
+},
+{
 "slug": "hg-577-2004",
 "path": "hg/2004/577",
 "kind": "hg",

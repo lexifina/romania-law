@@ -18311,6 +18311,33 @@
    ]
   },
   {
+   "slug": "hg-543-2004",
+   "path": "hg/2004/543",
+   "short": "HG nr. 543/2004",
+   "title": "Hotărârea Guvernului nr. 543/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/117013",
+   "versions": [
+    {
+     "from": "2004-06-03",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/51616",
+     "sha256": "751394e279f9400800da2fdc3b89a1c9330106a6f233140863bdd4a6a3500610"
+    },
+    {
+     "from": "2007-03-19",
+     "units": 19,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/117013",
+     "sha256": "c3bca1e02e13c70bf83857fa4e825ce24612fd3f4f08d1ef195fb2cc48a4bbdf"
+    },
+    {
+     "from": "2011-07-28",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/183488",
+     "sha256": "7482e84312ee327079bfb65f9c2e2a05a454bc617d4ac6eff5da123316496ef5"
+    }
+   ]
+  },
+  {
    "slug": "hg-547-2005",
    "path": "hg/2005/547",
    "short": "HG nr. 547/2005",

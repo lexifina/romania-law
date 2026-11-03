@@ -1,6 +1,6 @@
 # Every act in this repository
 
-6580 acts, 19,065 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+6581 acts, 19,068 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -3781,7 +3781,7 @@
 | Ordonanța Guvernului nr. 21/2025 pentru modificarea și completarea Legii nr. 431/2023 privind asigurarea unui nivel minim global de impozitare a grupurilor de întreprinderi multinaționale și a grupurilor naționale de mari dimensiuni | [`og/2025/21/`](og/2025/21/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 | Ordonanța Guvernului nr. 22/2025 pentru modificarea și completarea Legii nr. 227/2015 privind Codul fiscal | [`og/2025/22/`](og/2025/22/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 
-## Government decisions (HG) (2807, of which 928 amending acts)
+## Government decisions (HG) (2808, of which 928 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -4183,6 +4183,7 @@
 | Hotărârea Guvernului nr. 497/2004 | [`hg/2004/497/`](hg/2004/497/) | in force | 5 | 2004-04-20 | 2007-06-28 |
 | Hotărârea Guvernului nr. 518/2004 pentru aprobarea Normelor metodologice privind exportul definitiv sau temporar al bunurilor culturale mobile | [`hg/2004/518/`](hg/2004/518/) | amending act | 1 | 2004-04-28 | 2004-04-28 |
 | Hotărârea Guvernului nr. 537/2004 | [`hg/2004/537/`](hg/2004/537/) | in force | 1 | 2004-04-29 | 2004-04-29 |
+| Hotărârea Guvernului nr. 543/2004 | [`hg/2004/543/`](hg/2004/543/) | repealed 2011-07-28 | 3 | 2004-06-03 | 2011-07-28 |
 | Hotărârea Guvernului nr. 577/2004 pentru aprobarea Acordului dintre Guvernul României și Guvernul Republicii Ungare privind colaborarea pentru protecția și utilizarea durabila a apelor de frontieră, semnat la Budapesta la 15 septembrie 2003 | [`hg/2004/577/`](hg/2004/577/) | amending act | 1 | 2004-05-05 | 2004-05-05 |
 | Hotărârea Guvernului nr. 584/2004 | [`hg/2004/584/`](hg/2004/584/) | in force | 3 | 2004-05-06 | 2007-09-13 |
 | Hotărârea Guvernului nr. 622/2004 | [`hg/2004/622/`](hg/2004/622/) | repealed 2017-11-19 | 6 | 2005-02-27 | 2017-11-19 |
