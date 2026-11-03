@@ -1,6 +1,6 @@
 # Every act in this repository
 
-8322 acts, 21,217 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+8323 acts, 21,219 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -32,7 +32,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (1963, of which 764 amending acts)
+## Laws (legi) (1964, of which 765 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -1116,6 +1116,7 @@
 | Legea nr. 180/2017 pentru aprobarea Ordonanței de urgență a Guvernului nr. 18/2017 privind asistența medicală comunitară | [`lege/2017/180/`](lege/2017/180/) | amending act | 1 | 2017-07-23 | 2017-07-23 |
 | Legea nr. 185/2017 privind asigurarea calității în sistemul de sănătate | [`lege/2017/185/`](lege/2017/185/) | in force | 8 | 2017-07-29 | 2025-02-03 |
 | Legea nr. 186/2017 pentru modificarea și completarea Legii fondului funciar nr. 18/1991 | [`lege/2017/186/`](lege/2017/186/) | amending act | 1 | 2017-07-28 | 2017-07-28 |
+| Legea nr. 188/2017 pentru completarea Legii educației naționale nr. 1/2011 | [`lege/2017/188/`](lege/2017/188/) | amending act | 2 | 2017-07-28 | 2017-10-01 |
 | Legea nr. 197/2017 privind aprobarea Ordonanței de urgență a Guvernului nr. 69/2016 pentru completarea art. 84 din Legea educației naționale nr. 1/2011 și a art. 45 din Legea serviciilor de transport public local nr. 92/2007 , precum și pentru abrogarea art. 15 din Ordonanța Guvernului nr. 29/2013 privind reglementarea unor măsuri bugetare | [`lege/2017/197/`](lege/2017/197/) | amending act | 1 | 2017-10-05 | 2017-10-05 |
 | Legea nr. 198/2017 pentru aprobarea Ordonanței de urgență a Guvernului nr. 17/2017 privind unele măsuri în domeniul învățământului | [`lege/2017/198/`](lege/2017/198/) | amending act | 1 | 2017-10-16 | 2017-10-16 |
 | Legea nr. 209/2017 pentru modificarea și completarea Legii nr. 227/2015 privind Codul fiscal | [`lege/2017/209/`](lege/2017/209/) | amending act | 1 | 2018-01-01 | 2018-01-01 |

@@ -34058,6 +34058,27 @@
    ]
   },
   {
+   "slug": "legea-188-2017",
+   "path": "lege/2017/188",
+   "short": "Legea nr. 188/2017",
+   "title": "Legea nr. 188/2017 pentru completarea Legii educației naționale nr. 1/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/191621",
+   "versions": [
+    {
+     "from": "2017-07-28",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/191621",
+     "sha256": "e78c19da4e6f163a8888be36d813a0adf09ca679eba121e91dae13b1cc11fcd9"
+    },
+    {
+     "from": "2017-10-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/191621",
+     "sha256": "e78c19da4e6f163a8888be36d813a0adf09ca679eba121e91dae13b1cc11fcd9"
+    }
+   ]
+  },
+  {
    "slug": "legea-189-1998",
    "path": "lege/1998/189",
    "short": "Legea nr. 189/1998",

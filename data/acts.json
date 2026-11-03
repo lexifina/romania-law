@@ -18379,6 +18379,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/191644"
 },
 {
+"slug": "legea-188-2017",
+"path": "lege/2017/188",
+"kind": "lege",
+"year": "2017",
+"number": "188",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 188/2017 pentru completarea Legii educației naționale nr. 1/2011",
+"short": "Legea nr. 188/2017",
+"code": null,
+"status": "amending act",
+"versions": 2,
+"from": "2017-07-28",
+"latest": "2017-10-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/191621"
+},
+{
 "slug": "legea-197-2017",
 "path": "lege/2017/197",
 "kind": "lege",
