@@ -28732,6 +28732,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/195582"
 },
 {
+"slug": "legea-249-2017",
+"path": "lege/2017/249",
+"kind": "lege",
+"year": "2017",
+"number": "249",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 249/2017 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 50/2017 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 1/2017 pentru stabilirea unor măsuri în domeniul administraţiei publice centrale şi pentru modificarea şi completarea unor acte normative",
+"short": "Legea nr. 249/2017",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2017-12-17",
+"latest": "2017-12-17",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/195660"
+},
+{
 "slug": "legea-250-2017",
 "path": "lege/2017/250",
 "kind": "lege",
@@ -28885,6 +28902,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/196051"
 },
 {
+"slug": "legea-267-2017",
+"path": "lege/2017/267",
+"kind": "lege",
+"year": "2017",
+"number": "267",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 267/2017 privind abilitarea Guvernului de a emite ordonanţe",
+"short": "Legea nr. 267/2017",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2017-12-30",
+"latest": "2017-12-30",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/196218"
+},
+{
 "slug": "legea-268-2017",
 "path": "lege/2017/268",
 "kind": "lege",
@@ -28934,6 +28968,23 @@
 "from": "2017-12-31",
 "latest": "2018-01-17",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/196268"
+},
+{
+"slug": "legea-271-2017",
+"path": "lege/2017/271",
+"kind": "lege",
+"year": "2017",
+"number": "271",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 271/2017 pentru modificarea anexei nr. 2 la Ordonanţa Guvernului nr. 20/2012 privind instalaţiile portuare de preluare a deşeurilor generate de nave şi a reziduurilor mărfii",
+"short": "Legea nr. 271/2017",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2017-12-31",
+"latest": "2017-12-31",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/196256"
 },
 {
 "slug": "legea-272-2017",
@@ -29121,6 +29172,23 @@
 "from": "2018-01-21",
 "latest": "2018-01-21",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/202480"
+},
+{
+"slug": "legea-35-2018",
+"path": "lege/2018/35",
+"kind": "lege",
+"year": "2018",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 35/2018 pentru completarea art. III din Legea nr. 269/2015 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 4/2015 pentru modificarea Ordonanţei de urgenţă a Guvernului nr. 82/2011 privind unele măsuri de organizare a activităţii de îmbunătăţiri funciare",
+"short": "Legea nr. 35/2018",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2018-01-21",
+"latest": "2018-01-21",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/196836"
 },
 {
 "slug": "legea-37-2018",
@@ -29580,6 +29648,23 @@
 "from": "2018-05-13",
 "latest": "2018-05-13",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/200569"
+},
+{
+"slug": "legea-106-2018",
+"path": "lege/2018/106",
+"kind": "lege",
+"year": "2018",
+"number": "106",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 106/2018 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 108/2017 privind prorogarea unui termen",
+"short": "Legea nr. 106/2018",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2018-05-17",
+"latest": "2018-05-17",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/200618"
 },
 {
 "slug": "legea-112-2018",
@@ -72335,6 +72420,23 @@
 "from": "2018-04-23",
 "latest": "2018-07-26",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/202840"
+},
+{
+"slug": "oug-35-2018",
+"path": "oug/2018/35",
+"kind": "oug",
+"year": "2018",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 35/2018 privind desfiinţarea Autorităţii Metropolitane de Transport Bucureşti din subordinea Ministerului Transporturilor",
+"short": "OUG nr. 35/2018",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2018-06-13",
+"latest": "2018-06-13",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/200623"
 },
 {
 "slug": "oug-38-2018",
@@ -216259,6 +216361,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/191193"
 },
 {
+"slug": "hg-487-2017",
+"path": "hg/2017/487",
+"kind": "hg",
+"year": "2017",
+"number": "487",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 487/2017 pentru modificarea pct. III. subpct. 2 lit. a) din anexa la Hotărârea Guvernului nr. 267/2016 privind aprobarea cifrelor de şcolarizare pentru învăţământul preuniversitar de stat şi pentru învăţământul superior de stat în anul şcolar/universitar 2016-2017",
+"short": "HG nr. 487/2017",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2017-07-13",
+"latest": "2017-07-13",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/191212"
+},
+{
 "slug": "hg-488-2017",
 "path": "hg/2017/488",
 "kind": "hg",
@@ -216478,6 +216597,23 @@
 "from": "2017-07-25",
 "latest": "2017-07-25",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/191632"
+},
+{
+"slug": "hg-512-2017",
+"path": "hg/2017/512",
+"kind": "hg",
+"year": "2017",
+"number": "512",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 512/2017 privind stabilirea zilei de 14 august 2017 ca zi liberă",
+"short": "HG nr. 512/2017",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2017-07-24",
+"latest": "2017-07-24",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/191574"
 },
 {
 "slug": "hg-513-2017",
@@ -217073,6 +217209,23 @@
 "from": "2017-08-09",
 "latest": "2017-08-09",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/192313"
+},
+{
+"slug": "hg-562-2017",
+"path": "hg/2017/562",
+"kind": "hg",
+"year": "2017",
+"number": "562",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 562/2017 privind declararea proiectului \"Dezvoltarea capacităţii Sistemului Naţional de Transport în vederea asigurării fluxului de gaze naturale pe direcţia România-Republica Moldova\" ca proiect de importanţă naţională în domeniul gazelor naturale",
+"short": "HG nr. 562/2017",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2017-08-09",
+"latest": "2017-08-09",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/192315"
 },
 {
 "slug": "hg-565-2017",
@@ -218741,6 +218894,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/193731"
 },
 {
+"slug": "hg-704-2017",
+"path": "hg/2017/704",
+"kind": "hg",
+"year": "2017",
+"number": "704",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 704/2017 privind modificarea denumirii şi descrierii tehnice ale unui imobil aflat în domeniul public al statului şi în administrarea Agenţiei de Plăţi şi Intervenţie pentru Agricultură",
+"short": "HG nr. 704/2017",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2017-10-03",
+"latest": "2017-10-03",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/193726"
+},
+{
 "slug": "hg-705-2017",
 "path": "hg/2017/705",
 "kind": "hg",
@@ -218943,6 +219113,23 @@
 "from": "2017-10-06",
 "latest": "2017-10-06",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/193800"
+},
+{
+"slug": "hg-722-2017",
+"path": "hg/2017/722",
+"kind": "hg",
+"year": "2017",
+"number": "722",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 722/2017 privind aprobarea alocării unei sume din bugetul asigurărilor pentru şomaj pe anul 2017 pentru plata venitului lunar de completare de care beneficiază persoanele disponibilizate de la Societatea Naţională Închideri de Mine Valea Jiului - S.A",
+"short": "HG nr. 722/2017",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2017-10-06",
+"latest": "2017-10-06",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/193795"
 },
 {
 "slug": "hg-723-2017",
@@ -219436,6 +219623,23 @@
 "from": "2017-10-16",
 "latest": "2017-10-16",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/193955"
+},
+{
+"slug": "hg-761-2017",
+"path": "hg/2017/761",
+"kind": "hg",
+"year": "2017",
+"number": "761",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 761/2017 privind modificarea şi completarea Hotărârii Guvernului nr. 611/2008 pentru aprobarea normelor privind organizarea şi dezvoltarea carierei funcţionarilor publici",
+"short": "HG nr. 761/2017",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2017-10-19",
+"latest": "2017-10-19",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/194128"
 },
 {
 "slug": "hg-763-2017",
@@ -220084,6 +220288,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/194718"
 },
 {
+"slug": "hg-821-2017",
+"path": "hg/2017/821",
+"kind": "hg",
+"year": "2017",
+"number": "821",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 821/2017 privind desfiinţarea Centrului de Monitorizare a Unităţilor cu Risc Profesional",
+"short": "HG nr. 821/2017",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2018-01-01",
+"latest": "2018-01-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/194761"
+},
+{
 "slug": "hg-822-2017",
 "path": "hg/2017/822",
 "kind": "hg",
@@ -220184,6 +220405,23 @@
 "from": "2017-12-06",
 "latest": "2017-12-06",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/195451"
+},
+{
+"slug": "hg-831-2017",
+"path": "hg/2017/831",
+"kind": "hg",
+"year": "2017",
+"number": "831",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 831/2017 privind acordarea unor ajutoare de urgenţă",
+"short": "HG nr. 831/2017",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2017-11-22",
+"latest": "2017-11-22",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/194953"
 },
 {
 "slug": "hg-832-2017",
@@ -220509,6 +220747,40 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/195487"
 },
 {
+"slug": "hg-856-2017",
+"path": "hg/2017/856",
+"kind": "hg",
+"year": "2017",
+"number": "856",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 856/2017 pentru completarea anexei nr. 45 la Hotărârea Guvernului nr. 976/2002 privind atestarea domeniului public al judeţului Arad, precum şi al municipiului Arad, oraşelor şi comunelor din judeţul Arad",
+"short": "HG nr. 856/2017",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2017-12-07",
+"latest": "2017-12-07",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/195513"
+},
+{
+"slug": "hg-857-2017",
+"path": "hg/2017/857",
+"kind": "hg",
+"year": "2017",
+"number": "857",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 857/2017 privind reorganizarea Staţiunii de Cercetare-Dezvoltare pentru Creşterea Ovinelor şi Caprinelor Caransebeş şi modificarea anexei nr. 3 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului",
+"short": "HG nr. 857/2017",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2017-12-07",
+"latest": "2017-12-07",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/195514"
+},
+{
 "slug": "hg-858-2017",
 "path": "hg/2017/858",
 "kind": "hg",
@@ -220524,6 +220796,23 @@
 "from": "2017-12-11",
 "latest": "2017-12-11",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/195570"
+},
+{
+"slug": "hg-859-2017",
+"path": "hg/2017/859",
+"kind": "hg",
+"year": "2017",
+"number": "859",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 859/2017 pentru modificarea Hotărârii Guvernului nr. 607/2017 privind acordarea cetăţeniei române domnului Despotovski Filip",
+"short": "HG nr. 859/2017",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2017-12-11",
+"latest": "2017-12-11",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/195571"
 },
 {
 "slug": "hg-861-2017",
@@ -220966,6 +221255,23 @@
 "from": "2017-12-19",
 "latest": "2017-12-19",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/195784"
+},
+{
+"slug": "hg-897-2017",
+"path": "hg/2017/897",
+"kind": "hg",
+"year": "2017",
+"number": "897",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 897/2017 privind modificarea Hotărârii Guvernului nr. 1.066/2013 pentru aprobarea strategiei de privatizare a Societăţii de Producere a Energiei Electrice în Hidrocentrale \"Hidroelectrica\" - S.A. Bucureşti",
+"short": "HG nr. 897/2017",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2017-12-20",
+"latest": "2017-12-20",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/195800"
 },
 {
 "slug": "hg-898-2017",
@@ -221461,6 +221767,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/196377"
 },
 {
+"slug": "hg-937-2017",
+"path": "hg/2017/937",
+"kind": "hg",
+"year": "2017",
+"number": "937",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 937/2017 pentru aprobarea bugetului rectificat de venituri şi cheltuieli pe anul 2017 al Agenţiei Naţionale pentru Locuinţe, instituţie publică aflată sub autoritatea Ministerului Dezvoltării Regionale, Administraţiei Publice şi Fondurilor Europene",
+"short": "HG nr. 937/2017",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2017-12-27",
+"latest": "2017-12-27",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/196215"
+},
+{
 "slug": "hg-938-2017",
 "path": "hg/2017/938",
 "kind": "hg",
@@ -221663,6 +221986,23 @@
 "from": "2018-01-11",
 "latest": "2018-01-11",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/196644"
+},
+{
+"slug": "hg-957-2017",
+"path": "hg/2017/957",
+"kind": "hg",
+"year": "2017",
+"number": "957",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 957/2017 privind rechemarea şi numirea unui consul general",
+"short": "HG nr. 957/2017",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2018-01-04",
+"latest": "2018-01-04",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/196360"
 },
 {
 "slug": "hg-959-2017",
@@ -221954,6 +222294,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/197220"
 },
 {
+"slug": "hg-30-2018",
+"path": "hg/2018/30",
+"kind": "hg",
+"year": "2018",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 30/2018 pentru modificarea şi completarea Hotărârii Guvernului nr. 72/2013 privind aprobarea normelor metodologice pentru determinarea costului standard per elev/preşcolar şi stabilirea finanţării de bază a unităţilor de învăţământ preuniversitar de stat, care se asigură din bugetul de stat, din sume defalcate din T.V.A. prin bugetele locale, pe baza costului standard per elev/preşcolar",
+"short": "HG nr. 30/2018",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2018-02-05",
+"latest": "2018-02-05",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/197472"
+},
+{
 "slug": "hg-32-2018",
 "path": "hg/2018/32",
 "kind": "hg",
@@ -222088,6 +222445,23 @@
 "from": "2018-02-13",
 "latest": "2018-02-13",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/197827"
+},
+{
+"slug": "hg-47-2018",
+"path": "hg/2018/47",
+"kind": "hg",
+"year": "2018",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 47/2018 privind înscrierea unui bun în inventarul centralizat al bunurilor din domeniul public al statului şi darea în administrarea Ministerului Mediului - Administraţia Naţională de Meteorologie, radierea unui bun din domeniul public al statului şi modificarea denumirii, datelor de identificare, valorii de inventar sau bazei legale a unor bunuri din domeniul public al statului aflate în administrarea Ministerului Mediului - Administraţia Naţională de Meteorologie",
+"short": "HG nr. 47/2018",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2018-02-20",
+"latest": "2018-02-20",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/197979"
 },
 {
 "slug": "hg-51-2018",
@@ -222736,6 +223110,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/199043"
 },
 {
+"slug": "hg-117-2018",
+"path": "hg/2018/117",
+"kind": "hg",
+"year": "2018",
+"number": "117",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 117/2018 pentru aprobarea cuantumului şi a plăţii cotizaţiei anuale de participare a României la Conferinţa de la Haga de Drept Internaţional Privat, pentru anul financiar 1 iulie 2017-30 iunie 2018",
+"short": "HG nr. 117/2018",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2018-03-22",
+"latest": "2018-03-22",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/199010"
+},
+{
 "slug": "hg-118-2018",
 "path": "hg/2018/118",
 "kind": "hg",
@@ -222802,6 +223193,23 @@
 "from": "2018-03-21",
 "latest": "2018-03-21",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/198875"
+},
+{
+"slug": "hg-124-2018",
+"path": "hg/2018/124",
+"kind": "hg",
+"year": "2018",
+"number": "124",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 124/2018 pentru modificarea şi completarea Hotărârii Guvernului nr. 34/2009 privind organizarea şi funcţionarea Ministerului Finanţelor Publice, precum şi pentru modificarea art. 9 alin. (6) din Hotărârea Guvernului nr. 520/2013 privind organizarea şi funcţionarea Agenţiei Naţionale de Administrare Fiscală",
+"short": "HG nr. 124/2018",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2018-03-22",
+"latest": "2018-03-22",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/199023"
 },
 {
 "slug": "hg-125-2018",
@@ -223312,6 +223720,23 @@
 "from": "2018-04-12",
 "latest": "2018-04-12",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/199586"
+},
+{
+"slug": "hg-174-2018",
+"path": "hg/2018/174",
+"kind": "hg",
+"year": "2018",
+"number": "174",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 174/2018 privind aprobarea Notei de fundamentare a caracteristicilor principale şi a indicatorilor tehnico-economici aferenţi proiectului de investiţii \"Optimizarea interacţiunii cu mediul de afaceri şi implementarea unor mecanisme avansate de analiză şi schimb de date prin implementarea unui sistem informatic de e-guvernare şi analiză de tip Big Data în cadrul Consiliului Concurenţei\"",
+"short": "HG nr. 174/2018",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2018-04-11",
+"latest": "2018-04-11",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/199576"
 },
 {
 "slug": "hg-175-2018",
@@ -224026,6 +224451,23 @@
 "from": "2018-04-25",
 "latest": "2018-04-25",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/200144"
+},
+{
+"slug": "hg-248-2018",
+"path": "hg/2018/248",
+"kind": "hg",
+"year": "2018",
+"number": "248",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 248/2018 privind revocarea dreptului de folosinţă gratuită al Clubului Sportiv \"U-Mobitelco\" Cluj-Napoca asupra unui imobil aflat în proprietatea publică a statului şi în administrarea Ministerului Tineretului şi Sportului - Direcţia Judeţeană pentru Sport şi Tineret Cluj",
+"short": "HG nr. 248/2018",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2018-04-27",
+"latest": "2018-04-27",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/200223"
 },
 {
 "slug": "hg-249-2018",
@@ -225182,6 +225624,23 @@
 "from": "2018-05-18",
 "latest": "2018-05-18",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/200772"
+},
+{
+"slug": "hg-340-2018",
+"path": "hg/2018/340",
+"kind": "hg",
+"year": "2018",
+"number": "340",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 340/2018 pentru aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Reabilitarea liniei de cale ferată Braşov-Simeria, componentă a Coridorului Rin-Dunăre, pentru circulaţia trenurilor cu viteza maximă de 160 km/h, tronsonul Braşov-Sighişoara\"",
+"short": "HG nr. 340/2018",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2018-05-21",
+"latest": "2018-05-21",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/200905"
 },
 {
 "slug": "hg-341-2018",
