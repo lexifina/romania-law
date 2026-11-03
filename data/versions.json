@@ -38606,6 +38606,93 @@
    ]
   },
   {
+   "slug": "oug-34-2000",
+   "path": "oug/2000/34",
+   "short": "OUG nr. 34/2000",
+   "title": "Ordonanța de urgență a Guvernului nr. 34/2000",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/21942",
+   "versions": [
+    {
+     "from": "2000-04-21",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/21942",
+     "sha256": "f208ead7ba52cf156a88813fdf1cb962d6f91de8c7f046596f9eeca00e129852"
+    },
+    {
+     "from": "2006-09-18",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/75719",
+     "sha256": "d3b90b9f28a500c37fa12c3ec0f36eb319e301145c74d7c2f034af63d0f30172"
+    },
+    {
+     "from": "2007-01-01",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/81126",
+     "sha256": "2727425440dc462d7648fcfc30c26ee32b05625344586b1b1ce71811eb8bf756"
+    },
+    {
+     "from": "2007-01-13",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/81127",
+     "sha256": "b05c4894054a041ca70d01935f3aef58be7d91615b779879825af3203a6e1d51"
+    },
+    {
+     "from": "2014-09-29",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/161229",
+     "sha256": "b123b24d76e0155f85eadb70b506de9d13e55c09432b0b7816cc3a4b419ff3b8"
+    },
+    {
+     "from": "2016-02-01",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176177",
+     "sha256": "0c1100e806dcf73200fbd484ab84bbd63bd9f8ced8cb9a31f96df7e261327935"
+    },
+    {
+     "from": "2017-12-25",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/195855",
+     "sha256": "f512bb0a3b22aafa278f5c9fbbbc6eeae12b40cdf788fb06745947b084fdb4f0"
+    },
+    {
+     "from": "2019-01-06",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/209220",
+     "sha256": "05aae4c7aea0ce72e580501cc3cbc1e99afd1a34aad2ec9b1134d620a3bb6367"
+    },
+    {
+     "from": "2019-02-03",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/210230",
+     "sha256": "87fb70d24a3f1b654b1397536a644d2a75bef9659dcbbee5d4cbccd980598d29"
+    },
+    {
+     "from": "2019-08-12",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/216489",
+     "sha256": "ea011be2fbabf0bf15c54472c42414725fcd4ca514f5936c38b52706da3fba55"
+    },
+    {
+     "from": "2021-12-20",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/219250",
+     "sha256": "32c61e3695ef0d8e3830251e854dc53a165114d2ea36675a1e8c87921966430d"
+    },
+    {
+     "from": "2022-01-01",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/245555",
+     "sha256": "70722f6fd1fd2bca27bf4986718967f98418b75904b4d88cad79d939685c8a2e"
+    },
+    {
+     "from": "2022-05-28",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/255240",
+     "sha256": "f0dad49bcfef6523293a531b1b42efee303c6fc5899efcc697ec9bd12f3eeaf5"
+    }
+   ]
+  },
+  {
    "slug": "oug-34-2006",
    "path": "oug/2006/34",
    "short": "OUG nr. 34/2006",
@@ -55651,6 +55738,27 @@
      "units": 8,
      "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/232687",
      "sha256": "caffdd4919a9630077f32b56b4de225c33dfc59c6739c0c96b839a9f27bc7568"
+    }
+   ]
+  },
+  {
+   "slug": "hg-933-2024",
+   "path": "hg/2024/933",
+   "short": "HG nr. 933/2024",
+   "title": "Hotărârea Guvernului nr. 933/2024 privind stabilirea cadrului instituțional și a măsurilor necesare pentru punerea în aplicare a prevederilor Regulamentului (UE) 2023/1.230 al Parlamentului European și al Consiliului din 14 iunie 2023 privind mașinile și de abrogare a Directivei 2006/42/CE a Parlamentului European și a Consiliului și a Directivei 73/361/CEE a Consiliului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/286762",
+   "versions": [
+    {
+     "from": "2024-08-09",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/286762",
+     "sha256": "6ab96001e4bdf4900c2ba61921c5e0f388476910b93ee22b31d1a4b2c1c395a4"
+    },
+    {
+     "from": "2027-01-20",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/286762",
+     "sha256": "6ab96001e4bdf4900c2ba61921c5e0f388476910b93ee22b31d1a4b2c1c395a4"
     }
    ]
   },

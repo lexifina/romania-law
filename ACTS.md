@@ -1,6 +1,6 @@
 # Every act in this repository
 
-2555 acts, 9,773 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+2557 acts, 9,788 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -973,7 +973,7 @@
 | Legea nr. 241/2025 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 31/2002 privind interzicerea organizațiilor, simbolurilor și faptelor cu caracter fascist, legionar, rasist sau xenofob și a promovării cultului persoanelor vinovate de săvârșirea unor infracțiuni de genocid contra umanității și de crime de război, precum și pentru modificarea Legii nr. 157/2018 privind unele măsuri pentru prevenirea și combaterea antisemitismului | [`lege/2025/241/`](lege/2025/241/) | amending act | 1 | 2025-12-27 | 2025-12-27 |
 | Legea nr. 245/2025 pentru modificarea art. 32 alin. (7) din Legea nr. 273/2006 privind finanțele publice locale | [`lege/2025/245/`](lege/2025/245/) | amending act | 1 | 2026-01-01 | 2026-01-01 |
 
-## Emergency ordinances (OUG) (649, of which 374 amending acts)
+## Emergency ordinances (OUG) (650, of which 374 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -986,6 +986,7 @@
 | Ordonanța de urgență a Guvernului nr. 63/1999 | [`oug/1999/63/`](oug/1999/63/) | in force | 16 | 1999-05-17 | 2022-07-23 |
 | Ordonanța de urgență a Guvernului nr. 75/1999 | [`oug/1999/75/`](oug/1999/75/) | in force | 11 | 1999-06-04 | 2024-12-03 |
 | Ordonanța de urgență a Guvernului nr. 77/1999 | [`oug/1999/77/`](oug/1999/77/) | in force | 7 | 1999-06-04 | 2024-01-29 |
+| Ordonanța de urgență a Guvernului nr. 34/2000 | [`oug/2000/34/`](oug/2000/34/) | in force | 13 | 2000-04-21 | 2022-05-28 |
 | Ordonanța de urgență a Guvernului nr. 59/2000 | [`oug/2000/59/`](oug/2000/59/) | in force | 6 | 2000-05-30 | 2025-03-14 |
 | Ordonanța de urgență a Guvernului nr. 83/2000 | [`oug/2000/83/`](oug/2000/83/) | in force | 5 | 2000-06-27 | 2025-08-16 |
 | Ordonanța de urgență a Guvernului nr. 199/2000 | [`oug/2000/199/`](oug/2000/199/) | in force | 13 | 2000-11-20 | 2024-07-29 |
@@ -1781,7 +1782,7 @@
 | Ordonanța Guvernului nr. 21/2025 pentru modificarea și completarea Legii nr. 431/2023 privind asigurarea unui nivel minim global de impozitare a grupurilor de întreprinderi multinaționale și a grupurilor naționale de mari dimensiuni | [`og/2025/21/`](og/2025/21/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 | Ordonanța Guvernului nr. 22/2025 pentru modificarea și completarea Legii nr. 227/2015 privind Codul fiscal | [`og/2025/22/`](og/2025/22/) | amending act | 1 | 2025-09-01 | 2025-09-01 |
 
-## Government decisions (HG) (784, of which 453 amending acts)
+## Government decisions (HG) (785, of which 453 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -2532,6 +2533,7 @@
 | Hotărârea Guvernului nr. 861/2024 pentru reaprobarea indicatorilor tehnico-economici ai obiectivului de investiții "Realizare pavilion administrativ, rețele utilități și acces rutier/pietonal în cazarma 389 București" | [`hg/2024/861/`](hg/2024/861/) | in force | 1 | 2024-07-23 | 2024-07-23 |
 | Hotărârea Guvernului nr. 877/2024 pentru aprobarea Normelor privind recoltarea, depozitarea și transportul mostrelor biologice în vederea stabilirii îmbibației de alcool în sânge sau a prezenței în organism a substanțelor psihoactive în cazul persoanelor implicate în evenimente sau împrejurări în legătură cu traficul rutier, precum și de punere în aplicare a art. 1 din Ordonanța de urgență a Guvernului nr. 97/2024 pentru stabilirea unor măsuri în domeniul siguranței rutiere și pentru modificarea și completarea Regulamentului de aplicare a Ordonanței de urgență a Guvernului nr. 195/2002 privind circulația pe drumurile publice, aprobat prin Hotărârea Guvernului nr. 1.391/2006 | [`hg/2024/877/`](hg/2024/877/) | amending act | 1 | 2024-07-19 | 2024-07-19 |
 | Hotărârea Guvernului nr. 878/2024 pentru aprobarea Listei cuprinzând categoriile de informații secrete de stat, pe niveluri de secretizare, elaborate sau deținute de Comisia Națională de Strategie și Prognoză și termenele de clasificare aferente | [`hg/2024/878/`](hg/2024/878/) | amending act | 1 | 2024-07-23 | 2024-07-23 |
+| Hotărârea Guvernului nr. 933/2024 privind stabilirea cadrului instituțional și a măsurilor necesare pentru punerea în aplicare a prevederilor Regulamentului (UE) 2023/1.230 al Parlamentului European și al Consiliului din 14 iunie 2023 privind mașinile și de abrogare a Directivei 2006/42/CE a Parlamentului European și a Consiliului și a Directivei 73/361/CEE a Consiliului | [`hg/2024/933/`](hg/2024/933/) | in force | 2 | 2024-08-09 | 2027-01-20 |
 | Hotărârea Guvernului nr. 962/2024 privind aprobarea Metodologiei de evaluare externă a calității educației în învățământul superior | [`hg/2024/962/`](hg/2024/962/) | amending act | 1 | 2024-08-13 | 2024-08-13 |
 | Hotărârea Guvernului nr. 1000/2024 privind modificarea și completarea, după caz, a descrierii tehnice și adresei unor bunuri imobile aparținând domeniului public al statului aflate în administrarea Administrației Naționale "Apele Române", prin administrațiile bazinale de apă Buzău-Ialomița și Siret, instituție publică aflată în coordonarea Ministerului Mediului, Apelor și Pădurilor, prevăzute în anexa nr. 12 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului, ca urmare a efectuării lucrărilor de cadastru și publicitate imobiliară | [`hg/2024/1000/`](hg/2024/1000/) | amending act | 1 | 2024-08-21 | 2024-08-21 |
 | Hotărârea Guvernului nr. 1010/2024 pentru aprobarea Strategiei naționale privind adaptarea la schimbările climatice pentru perioada 2024-2030, cu perspectiva anului 2050 | [`hg/2024/1010/`](hg/2024/1010/) | amending act | 1 | 2024-08-19 | 2024-08-19 |
