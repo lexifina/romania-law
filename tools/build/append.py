@@ -77,23 +77,38 @@ def published_state(repo: Path, c: dict) -> tuple[dict[str, str], dict[str, tupl
             state[act['slug']] = last
             if act['slug'] in trusted:
                 continue
-            # Every corpus version on or before `last` must read back from main exactly (else: correction or back-fill).
-            for i, v in enumerate(act['versions']):
-                if v['from'] > last:
-                    break
-                if i + 1 < len(act['versions']) and act['versions'][i + 1]['from'] == v['from']:
-                    continue
-                h = K.state_on(r, v['from'])
+            # On every day that starts a version, in the corpus or on main, up to `last`, main must serve the corpus's
+            # text (else: correction or back-fill). Main's own days matter too: a repeal main dates too early is a day
+            # only main has, on which the corpus still has the earlier text in force.
+            for day in version_days(act, r, last):
+                v = in_force_on(act, day)
+                h = K.state_on(r, day)
                 files = K.tree_oids(cat, h, dirs[act['slug']], trees) if h else {}
-                want = {f'{k}.md': K.blob_oid(u['text']) for k, u in v['units'].items()}
-                if files != want:
+                want = {f'{k}.md': K.blob_oid(u['text']) for k, u in v['units'].items()} if v else {}
+                if files != want or (v is None) != (h is None):
                     bad = sorted(f for f in set(files) | set(want) if files.get(f) != want.get(f))
-                    day, msgs = problems.setdefault(act['slug'], (v['from'], []))  # versions run oldest first
-                    msgs.append(f'{act["slug"]} {v["from"]}: main differs from the corpus in {len(bad)} file(s), '
+                    first, msgs = problems.get(act['slug'], (day, []))
+                    problems[act['slug']] = (min(first, day), msgs)
+                    msgs.append(f'{act["slug"]} {day}: main differs from the corpus in {len(bad)} file(s), '
                                 f'e.g. {bad[:3]} (a correction or a back-filled form: decide by hand)')
     finally:
         cat.close()
     return state, problems, rows, dirs
+
+
+def in_force_on(act: dict, day: str) -> dict | None:
+    """The corpus version in force on `day` (the last one of the latest day on or before it), or None before the first."""
+    hit = None
+    for v in act['versions']:
+        if v['from'] > day:
+            break
+        hit = v
+    return hit
+
+
+def version_days(act: dict, rows: list, last: str) -> list[str]:
+    """Every day on or before `last` that starts a version in the corpus or on main (main's In-force days)."""
+    return sorted({v['from'] for v in act['versions'] if v['from'] <= last} | {d for _, d in rows if d <= last})
 
 
 def absent_acts(repo: Path, head: str, listed: set[str], known_paths: dict[str, str], c: dict):
@@ -234,8 +249,15 @@ def correction_block(repo: Path, c: dict, act: dict, first_day: str, last: str, 
     corrected one, then each later one again, so every day from `first_day` reads the corrected history; days before
     it still read the original commits. Nothing published is rewritten."""
     vs = act['versions']
-    days = [v for i, v in enumerate(vs) if first_day <= v['from'] <= last
-            and not (i + 1 < len(vs) and vs[i + 1]['from'] == v['from'])]  # a day's last version is its text
+    # (In-force day, the corpus text in force from it): the first wrong day with whatever version is in force then
+    # (it may have started earlier: a repeal main dated too early leaves the earlier text in force on main's day),
+    # then each later version day up to `last`, a day's last version being its text.
+    start = in_force_on(act, first_day)
+    if start is None:
+        raise B.CorpusError(f'correction of {act["slug"]}: main has the act in force on {first_day}, before its first '
+                            'version in the corpus; a correction can only restate text, so decide by hand')
+    days = [(first_day, start)] + [(v['from'], v) for i, v in enumerate(vs) if first_day < v['from'] <= last
+                                   and not (i + 1 < len(vs) and vs[i + 1]['from'] == v['from'])]
     path = act.get('path') or act['slug']
     cat = K.Cat(repo)
     try:
@@ -243,20 +265,20 @@ def correction_block(repo: Path, c: dict, act: dict, first_day: str, last: str, 
         have = K.tree_oids(cat, head, path, {})  # the act's files on main now: {name: blob}
         served = []
         trees: dict = {}
-        for v in days:
-            h = K.state_on(rows, v['from'])
+        for day, v in days:
+            h = K.state_on(rows, day)
             want = {f'{k}.md': K.blob_oid(u['text']) for k, u in v['units'].items()}
             served.append((h, bool(h) and K.tree_oids(cat, h, [path, act['slug']], trees) == want))
     finally:
         cat.close()
-    first = days[0]
+    first = start
     if {f'{k}.md': K.blob_oid(u['text']) for k, u in first['units'].items()} == have:
         # A commit that changes no file under the folder is invisible to the reader rule: the original commits would
         # still be served for the days it should correct.
         raise B.CorpusError(f'correction of {act["slug"]}: the text in force from {first_day} equals the text on main '
                             'now, so no commit can correct it by touching the folder; decide by hand')
     out, prev = [], None
-    for v, (h, same) in zip(days, served):
+    for (day, v), (h, same) in zip(days, served):
         if prev is None:
             files = {f'{path}/{k}.md': u['text'] for k, u in v['units'].items()}
             files.update({f'{path}/{n}': None for n in have if n[:-3] not in v['units']})
@@ -264,19 +286,20 @@ def correction_block(repo: Path, c: dict, act: dict, first_day: str, last: str, 
             files = B.act_files(act, v['units'], prev['units'])
         label = act.get('short') or act.get('title') or act['slug']
         if prev is None:
-            msg = [f'Correction: {label} as in force from {v["from"]}', '',
+            since = '' if v['from'] == day else f' (the text in force since {v["from"]}, still in force on this day)'
+            msg = [f'Correction: {label} as in force on {day}', '',
                    f'{reason}'.rstrip() + (' ' if reason else '') +
                    f'The text served for this day {"was" if h else "was missing"} '
-                   f'{"in commit " + h[:12] if h else "from main"}; this commit carries the official text.']
+                   f'{"in commit " + h[:12] if h else "from main"}; this commit carries the official text{since}.']
         else:
-            msg = [f'Correction: {label} as in force from {v["from"]}, restated', '',
-                   f'Restates the text in force from {v["from"]} after the correction of {first_day}, so that every '
+            msg = [f'Correction: {label} as in force from {day}, restated', '',
+                   f'Restates the text in force from {day} after the correction of {first_day}, so that every '
                    'later day reads the corrected history.' + ('' if same else ' The text served for this day '
                                                                   'differed from the official one as well.')]
-        trailers = ['Kind: correction', f'Act: {act["slug"]}', f'In-force: {v["from"]}']
+        trailers = ['Kind: correction', f'Act: {act["slug"]}', f'In-force: {day}']
         if h:
             trailers.append(f'{"Re-asserts" if same and prev is not None else "Corrects"}: {h}')
-        out.append({'day': v['from'], 'act': act, 'files': files, 'message': msg, 'trailers': trailers})
+        out.append({'day': day, 'act': act, 'files': files, 'message': msg, 'trailers': trailers})
         prev = v
     return out
 

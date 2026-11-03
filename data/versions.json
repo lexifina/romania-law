@@ -45170,6 +45170,33 @@
    ]
   },
   {
+   "slug": "og-39-2007",
+   "path": "og/2007/39",
+   "short": "OG nr. 39/2007",
+   "title": "Ordonanța Guvernului nr. 39/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/84774",
+   "versions": [
+    {
+     "from": "2007-09-26",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/84774",
+     "sha256": "86edab669b92af63409f765b1e1cefa0e7411748cb4c46ff81e1326b93df05fb"
+    },
+    {
+     "from": "2009-05-17",
+     "units": 12,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/84774",
+     "sha256": "a9ee540661d3de95b20352e7209b286d03365afb710f039c28a083ee0af118ce"
+    },
+    {
+     "from": "2022-02-03",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/251250",
+     "sha256": "3ac65bd081aaf85266e7d9c3b363d4669b7f10835244582a13be048972933f8a"
+    }
+   ]
+  },
+  {
    "slug": "og-4-1995",
    "path": "og/1995/4",
    "short": "OG nr. 4/1995",
@@ -92633,6 +92660,27 @@
    ]
   },
   {
+   "slug": "hg-493-2004",
+   "path": "hg/2004/493",
+   "short": "HG nr. 493/2004",
+   "title": "Hotărârea Guvernului nr. 493/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/51555",
+   "versions": [
+    {
+     "from": "2004-04-30",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/51555",
+     "sha256": "3e190766cc0f891c6fc12eff23333e97e302fe9cdb7d4382d8d26d39608e373c"
+    },
+    {
+     "from": "2024-02-03",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/278750",
+     "sha256": "c28d1f616ba2b36699835f4fe4d219d934862084254bf299451e4cdafcaebb50"
+    }
+   ]
+  },
+  {
    "slug": "hg-493-2010",
    "path": "hg/2010/493",
    "short": "HG nr. 493/2010",
@@ -101488,6 +101536,27 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/229962",
      "sha256": "8f1485b11dd5ae1dd7d08b1952a9d39f2d4ecea3d17fa682b66ec050853c9890"
+    }
+   ]
+  },
+  {
+   "slug": "hg-766-2014",
+   "path": "hg/2014/766",
+   "short": "HG nr. 766/2014",
+   "title": "Hotărârea Guvernului nr. 766/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/161196",
+   "versions": [
+    {
+     "from": "2014-09-10",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/161196",
+     "sha256": "914f06b045a9511410d4b11c6dabfdf482e8086023d2cdabd92d35a62c61bf68"
+    },
+    {
+     "from": "2022-02-03",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/251250",
+     "sha256": "3ac65bd081aaf85266e7d9c3b363d4669b7f10835244582a13be048972933f8a"
     }
    ]
   },
@@ -126227,6 +126296,27 @@
    ]
   },
   {
+   "slug": "legea-451-2004",
+   "path": "lege/2004/451",
+   "short": "Legea nr. 451/2004",
+   "title": "Legea nr. 451/2004 privind marca temporală",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/56432",
+   "versions": [
+    {
+     "from": "2004-12-05",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/56432",
+     "sha256": "10d68d868f602c24c260d51e1c462585a676b69188381180b0f0d784202920b0"
+    },
+    {
+     "from": "2024-10-08",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/285178",
+     "sha256": "199a4f16a2590c46f94ab9341e5b847f26669c51d5f0725e7a2df8ac680d824e"
+    }
+   ]
+  },
+  {
    "slug": "legea-457-2004",
    "path": "lege/2004/457",
    "short": "Legea nr. 457/2004",
@@ -148136,6 +148226,27 @@
    ]
   },
   {
+   "slug": "oug-38-2020",
+   "path": "oug/2020/38",
+   "short": "OUG nr. 38/2020",
+   "title": "Ordonanța de urgență a Guvernului nr. 38/2020 privind utilizarea înscrisurilor în formă electronică la nivelul autorităților și instituțiilor publice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/224709",
+   "versions": [
+    {
+     "from": "2020-04-07",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/224709",
+     "sha256": "4ad2bb6df72a7ab3ef709f1a25548070244ea4ad627ad2fe7ce36c2f1165edd2"
+    },
+    {
+     "from": "2024-10-08",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/285178",
+     "sha256": "199a4f16a2590c46f94ab9341e5b847f26669c51d5f0725e7a2df8ac680d824e"
+    }
+   ]
+  },
+  {
    "slug": "oug-38-2023",
    "path": "oug/2023/38",
    "short": "OUG nr. 38/2023",
@@ -158961,27 +159072,6 @@
    ]
   },
   {
-   "slug": "hg-493-2004",
-   "path": "hg/2004/493",
-   "short": "HG nr. 493/2004",
-   "title": "Hotărârea Guvernului nr. 493/2004",
-   "url": "https://legislatie.just.ro/Public/DetaliiDocument/51555",
-   "versions": [
-    {
-     "from": "2004-04-30",
-     "units": 3,
-     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/51555",
-     "sha256": "3e190766cc0f891c6fc12eff23333e97e302fe9cdb7d4382d8d26d39608e373c"
-    },
-    {
-     "from": "2024-01-31",
-     "units": 0,
-     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/278750",
-     "sha256": "c28d1f616ba2b36699835f4fe4d219d934862084254bf299451e4cdafcaebb50"
-    }
-   ]
-  },
-  {
    "slug": "hg-5-2020",
    "short": "HG nr. 5/2020",
    "title": "Hotărârea Guvernului nr. 5/2020 pentru încuviințarea stării de alertă și a măsurilor instituite prin Hotărârea Guvernului nr. 394/2020 privind declararea stării de alertă și măsurile care se aplică pe durata acesteia pentru prevenirea și combaterea efectelor pandemiei de COVID-19",
@@ -159090,27 +159180,6 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/250561",
      "sha256": "e035dce3efe2ffdd2acf562fe4f3136b4493c96b2aadd4cab088c686cec31389"
-    }
-   ]
-  },
-  {
-   "slug": "hg-766-2014",
-   "path": "hg/2014/766",
-   "short": "HG nr. 766/2014",
-   "title": "Hotărârea Guvernului nr. 766/2014",
-   "url": "https://legislatie.just.ro/Public/DetaliiDocument/161196",
-   "versions": [
-    {
-     "from": "2014-09-10",
-     "units": 8,
-     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/161196",
-     "sha256": "914f06b045a9511410d4b11c6dabfdf482e8086023d2cdabd92d35a62c61bf68"
-    },
-    {
-     "from": "2022-01-31",
-     "units": 0,
-     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/251250",
-     "sha256": "3ac65bd081aaf85266e7d9c3b363d4669b7f10835244582a13be048972933f8a"
     }
    ]
   },
@@ -159227,54 +159296,6 @@
    ]
   },
   {
-   "slug": "legea-451-2004",
-   "path": "lege/2004/451",
-   "short": "Legea nr. 451/2004",
-   "title": "Legea nr. 451/2004 privind marca temporală",
-   "url": "https://legislatie.just.ro/Public/DetaliiDocument/56432",
-   "versions": [
-    {
-     "from": "2004-12-05",
-     "units": 15,
-     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/56432",
-     "sha256": "10d68d868f602c24c260d51e1c462585a676b69188381180b0f0d784202920b0"
-    },
-    {
-     "from": "2024-07-11",
-     "units": 0,
-     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/285178",
-     "sha256": "199a4f16a2590c46f94ab9341e5b847f26669c51d5f0725e7a2df8ac680d824e"
-    }
-   ]
-  },
-  {
-   "slug": "og-39-2007",
-   "path": "og/2007/39",
-   "short": "OG nr. 39/2007",
-   "title": "Ordonanța Guvernului nr. 39/2007",
-   "url": "https://legislatie.just.ro/Public/DetaliiDocument/84774",
-   "versions": [
-    {
-     "from": "2007-09-26",
-     "units": 11,
-     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/84774",
-     "sha256": "86edab669b92af63409f765b1e1cefa0e7411748cb4c46ff81e1326b93df05fb"
-    },
-    {
-     "from": "2009-05-17",
-     "units": 12,
-     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/84774",
-     "sha256": "a9ee540661d3de95b20352e7209b286d03365afb710f039c28a083ee0af118ce"
-    },
-    {
-     "from": "2022-01-31",
-     "units": 0,
-     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/251250",
-     "sha256": "3ac65bd081aaf85266e7d9c3b363d4669b7f10835244582a13be048972933f8a"
-    }
-   ]
-  },
-  {
    "slug": "og-50-2001",
    "path": "og/2001/50",
    "short": "OG nr. 50/2001",
@@ -159286,27 +159307,6 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/282761",
      "sha256": "fd3428a521d22894b8a963cf07141e84536f5052eac9e7c68904d5024c4cb0b7"
-    }
-   ]
-  },
-  {
-   "slug": "oug-38-2020",
-   "path": "oug/2020/38",
-   "short": "OUG nr. 38/2020",
-   "title": "Ordonanța de urgență a Guvernului nr. 38/2020 privind utilizarea înscrisurilor în formă electronică la nivelul autorităților și instituțiilor publice",
-   "url": "https://legislatie.just.ro/Public/DetaliiDocument/224709",
-   "versions": [
-    {
-     "from": "2020-04-07",
-     "units": 6,
-     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/224709",
-     "sha256": "4ad2bb6df72a7ab3ef709f1a25548070244ea4ad627ad2fe7ce36c2f1165edd2"
-    },
-    {
-     "from": "2024-07-11",
-     "units": 0,
-     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/285178",
-     "sha256": "199a4f16a2590c46f94ab9341e5b847f26669c51d5f0725e7a2df8ac680d824e"
     }
    ]
   }

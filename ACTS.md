@@ -516,7 +516,7 @@
 | Legea nr. 411/2004 | [`lege/2004/411/`](lege/2004/411/) | in force | 26 | 2006-07-01 | 2025-04-17 |
 | Legea nr. 418/2004 privind statutul profesional specific al medicului de medicina a muncii | [`lege/2004/418/`](lege/2004/418/) | in force | 2 | 2004-11-01 | 2007-03-24 |
 | Legea nr. 425/2004 | [`lege/2004/425/`](lege/2004/425/) | in force | 1 | 2004-10-31 | 2004-10-31 |
-| Legea nr. 451/2004 privind marca temporală | [`lege/2004/451/`](lege/2004/451/) | repealed 2024-07-11 | 2 | 2004-12-05 | 2024-07-11 |
+| Legea nr. 451/2004 privind marca temporală | [`lege/2004/451/`](lege/2004/451/) | repealed 2024-10-08 | 2 | 2004-12-05 | 2024-10-08 |
 | Legea nr. 457/2004 | [`lege/2004/457/`](lege/2004/457/) | in force | 2 | 2006-12-31 | 2009-01-01 |
 | Legea nr. 461/2004 | [`lege/2004/461/`](lege/2004/461/) | in force | 1 | 2005-01-14 | 2005-01-14 |
 | Legea nr. 466/2004 | [`lege/2004/466/`](lege/2004/466/) | in force | 4 | 2004-11-26 | 2023-06-26 |
@@ -2817,7 +2817,7 @@
 | Ordonanța de urgență a Guvernului nr. 35/2020 privind modalitatea de emitere și prelungirea valabilității voucherelor de vacanță, în contextul situației epidemiologice determinate de răspândirea COVID-19 | [`oug/2020/35/`](oug/2020/35/) | in force | 1 | 2020-03-30 | 2020-03-30 |
 | Ordonanța de urgență a Guvernului nr. 36/2020 pentru modificarea și completarea unor acte normative, precum și pentru adoptarea unor măsuri pe timpul stării de urgență instituite prin Decretul nr. 195/2020 privind instituirea stării de urgență pe teritoriul României | [`oug/2020/36/`](oug/2020/36/) | amending act | 2 | 2020-03-31 | 2021-03-18 |
 | Ordonanța de urgență a Guvernului nr. 37/2020 privind acordarea unor facilități pentru creditele acordate de instituții de credit și instituții financiare nebancare anumitor categorii de debitori | [`oug/2020/37/`](oug/2020/37/) | in force | 5 | 2020-03-30 | 2021-01-01 |
-| Ordonanța de urgență a Guvernului nr. 38/2020 privind utilizarea înscrisurilor în formă electronică la nivelul autorităților și instituțiilor publice | [`oug/2020/38/`](oug/2020/38/) | repealed 2024-07-11 | 2 | 2020-04-07 | 2024-07-11 |
+| Ordonanța de urgență a Guvernului nr. 38/2020 privind utilizarea înscrisurilor în formă electronică la nivelul autorităților și instituțiilor publice | [`oug/2020/38/`](oug/2020/38/) | repealed 2024-10-08 | 2 | 2020-04-07 | 2024-10-08 |
 | Ordonanța de urgență a Guvernului nr. 39/2020 pentru completarea Legii nr. 455/2001 privind semnătura electronică | [`oug/2020/39/`](oug/2020/39/) | amending act | 2 | 2020-04-03 | 2020-07-18 |
 | Ordonanța de urgență a Guvernului nr. 40/2020 privind întărirea capacităţii administrative a sistemului sanitar | [`oug/2020/40/`](oug/2020/40/) | in force | 2 | 2020-04-03 | 2020-06-13 |
 | Ordonanța de urgență a Guvernului nr. 41/2020 pentru modificarea și completarea Legii nr. 19/2020 privind acordarea unor zile libere părinților pentru supravegherea copiilor, în situația închiderii temporare a unităților de învățământ | [`oug/2020/41/`](oug/2020/41/) | amending act | 2 | 2020-04-03 | 2020-05-22 |
@@ -3558,7 +3558,7 @@
 | Ordonanța Guvernului nr. 25/2007 | [`og/2007/25/`](og/2007/25/) | in force | 2 | 2007-02-05 | 2007-06-21 |
 | Ordonanța Guvernului nr. 28/2007 | [`og/2007/28/`](og/2007/28/) | in force | 3 | 2007-02-05 | 2011-11-30 |
 | Ordonanța Guvernului nr. 37/2007 | [`og/2007/37/`](og/2007/37/) | in force | 12 | 2007-08-19 | 2025-02-03 |
-| Ordonanța Guvernului nr. 39/2007 | [`og/2007/39/`](og/2007/39/) | repealed 2022-01-31 | 3 | 2007-09-26 | 2022-01-31 |
+| Ordonanța Guvernului nr. 39/2007 | [`og/2007/39/`](og/2007/39/) | repealed 2022-02-03 | 3 | 2007-09-26 | 2022-02-03 |
 | Ordonanța Guvernului nr. 41/2007 | [`og/2007/41/`](og/2007/41/) | in force | 6 | 2007-09-07 | 2025-10-02 |
 | Ordonanța Guvernului nr. 44/2007 | [`og/2007/44/`](og/2007/44/) | in force | 1 | 2007-09-02 | 2007-09-02 |
 | Ordonanța Guvernului nr. 45/2007 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 109/2005 privind transporturile rutiere | [`og/2007/45/`](og/2007/45/) | amending act | 2 | 2007-09-02 | 2008-03-31 |
@@ -4051,7 +4051,7 @@
 | Hotărârea Guvernului nr. 385/2004 | [`hg/2004/385/`](hg/2004/385/) | in force | 1 | 2004-04-06 | 2004-04-06 |
 | Hotărârea Guvernului nr. 427/2004 | [`hg/2004/427/`](hg/2004/427/) | in force | 3 | 2004-07-15 | 2006-03-30 |
 | Hotărârea Guvernului nr. 451/2004 | [`hg/2004/451/`](hg/2004/451/) | in force | 1 | 2004-04-19 | 2004-04-19 |
-| Hotărârea Guvernului nr. 493/2004 | [`hg/2004/493/`](hg/2004/493/) | repealed 2024-01-31 | 2 | 2004-04-30 | 2024-01-31 |
+| Hotărârea Guvernului nr. 493/2004 | [`hg/2004/493/`](hg/2004/493/) | repealed 2024-02-03 | 2 | 2004-04-30 | 2024-02-03 |
 | Hotărârea Guvernului nr. 518/2004 pentru aprobarea Normelor metodologice privind exportul definitiv sau temporar al bunurilor culturale mobile | [`hg/2004/518/`](hg/2004/518/) | amending act | 1 | 2004-04-28 | 2004-04-28 |
 | Hotărârea Guvernului nr. 537/2004 | [`hg/2004/537/`](hg/2004/537/) | in force | 1 | 2004-04-29 | 2004-04-29 |
 | Hotărârea Guvernului nr. 672/2004 | [`hg/2004/672/`](hg/2004/672/) | in force | 1 | 2004-05-17 | 2004-05-17 |
@@ -4769,7 +4769,7 @@
 | Hotărârea Guvernului nr. 535/2014 | [`hg/2014/535/`](hg/2014/535/) | in force | 1 | 2014-07-02 | 2014-07-02 |
 | Hotărârea Guvernului nr. 536/2014 | [`hg/2014/536/`](hg/2014/536/) | in force | 2 | 2014-07-09 | 2015-01-21 |
 | Hotărârea Guvernului nr. 615/2014 | [`hg/2014/615/`](hg/2014/615/) | in force | 1 | 2014-07-30 | 2014-07-30 |
-| Hotărârea Guvernului nr. 766/2014 | [`hg/2014/766/`](hg/2014/766/) | repealed 2022-01-31 | 2 | 2014-09-10 | 2022-01-31 |
+| Hotărârea Guvernului nr. 766/2014 | [`hg/2014/766/`](hg/2014/766/) | repealed 2022-02-03 | 2 | 2014-09-10 | 2022-02-03 |
 | Hotărârea Guvernului nr. 786/2014 | [`hg/2014/786/`](hg/2014/786/) | in force | 4 | 2014-09-22 | 2023-07-31 |
 | Hotărârea Guvernului nr. 799/2014 | [`hg/2014/799/`](hg/2014/799/) | in force | 4 | 2014-09-19 | 2016-12-08 |
 | Hotărârea Guvernului nr. 835/2014 | [`hg/2014/835/`](hg/2014/835/) | in force | 1 | 2014-10-07 | 2014-10-07 |
