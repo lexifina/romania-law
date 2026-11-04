@@ -1,6 +1,6 @@
 # Every act in this repository
 
-20925 acts, 34,558 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+20947 acts, 34,580 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (3324, of which 1838 amending acts)
+## Laws (legi) (3327, of which 1840 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -1008,7 +1008,10 @@
 | Legea nr. 153/2011 | [`lege/2011/153/`](lege/2011/153/) | in force | 6 | 2011-08-10 | 2023-01-06 |
 | Legea nr. 156/2011 | [`lege/2011/156/`](lege/2011/156/) | in force | 1 | 2011-07-25 | 2011-07-25 |
 | Legea nr. 157/2011 | [`lege/2011/157/`](lege/2011/157/) | in force | 4 | 2011-07-31 | 2024-03-22 |
+| Legea nr. 186/2011 pentru modificarea şi completarea Legii nr. 217/2005 privind constituirea, organizarea şi funcţionarea comitetului european de întreprindere | [`lege/2011/186/`](lege/2011/186/) | amending act | 1 | 2011-10-31 | 2011-10-31 |
 | Legea nr. 187/2011 | [`lege/2011/187/`](lege/2011/187/) | in force | 2 | 2011-11-03 | 2022-12-14 |
+| Legea nr. 188/2011 privind gestionarea taxelor colectate în cadrul aplicării politicii agricole comune şi care fac parte din sistemul de finanţare al fondurilor europene pentru agricultură, precum şi din sistemul resurselor proprii al Uniunii Europene | [`lege/2011/188/`](lege/2011/188/) | in force | 1 | 2011-10-31 | 2011-10-31 |
+| Legea nr. 190/2011 pentru completarea art. 12 din Legea nr. 137/2002 privind unele măsuri pentru accelerarea privatizării | [`lege/2011/190/`](lege/2011/190/) | amending act | 1 | 2011-11-03 | 2011-11-03 |
 | Legea nr. 191/2011 | [`lege/2011/191/`](lege/2011/191/) | in force | 3 | 2011-11-06 | 2024-08-24 |
 | Legea nr. 192/2011 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 68/2008 privind vânzarea spaţiilor proprietate privată a statului sau a unităţilor administrativ-teritoriale cu destinaţia de cabinete medicale, precum şi a spaţiilor în care se desfăşoară activităţi conexe actului medical | [`lege/2011/192/`](lege/2011/192/) | amending act | 1 | 2011-11-12 | 2011-11-12 |
 | Legea nr. 194/2011 privind combaterea operațiunilor cu produse susceptibile de a avea efecte psihoactive, altele decât cele prevăzute de acte normative în vigoare | [`lege/2011/194/`](lege/2011/194/) | in force | 7 | 2011-11-13 | 2024-06-03 |
@@ -5603,7 +5606,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (15331, of which 7831 amending acts)
+## Government decisions (HG) (15350, of which 7844 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -8830,7 +8833,26 @@
 | Hotărârea Guvernului nr. 1024/2011 | [`hg/2011/1024/`](hg/2011/1024/) | in force | 1 | 2011-10-24 | 2011-10-24 |
 | Hotărârea Guvernului nr. 1040/2011 | [`hg/2011/1040/`](hg/2011/1040/) | in force | 2 | 2011-11-08 | 2012-06-22 |
 | Hotărârea Guvernului nr. 1048/2011 pentru aprobarea Acordului privind cooperarea în domeniul sănătăţii şi al ştiinţei medicale dintre Ministerul Sănătăţii al României şi Ministerul Sănătăţii al Republicii Azerbaidjan, semnat la Baku la 18 aprilie 2011 | [`hg/2011/1048/`](hg/2011/1048/) | amending act | 1 | 2011-11-21 | 2011-11-21 |
+| Hotărârea Guvernului nr. 1063/2011 privind aprobarea actualizării valorii de inventar a unui imobil proprietate publică a statului şi transmiterea unei părţi din acesta din administrarea Ministerului Apărării Naţionale în administrarea Ministerului Culturii şi Patrimoniului Naţional şi în folosinţa gratuită a Asociaţiei "Memorialul Revoluţiei 16 - 22 Decembrie 1989" | [`hg/2011/1063/`](hg/2011/1063/) | amending act | 1 | 2011-10-28 | 2011-10-28 |
+| Hotărârea Guvernului nr. 1064/2011 privind încetarea exercitării, cu caracter temporar, a funcţiei publice de subprefect al judeţului Buzău de către domnul Anghel Ovidiu | [`hg/2011/1064/`](hg/2011/1064/) | in force | 1 | 2011-11-01 | 2011-11-01 |
+| Hotărârea Guvernului nr. 1065/2011 privind transmiterea unor imobile sau a unor părţi din acestea, aflate în domeniul public al statului, din administrarea unor unităţi din subordinea Ministerului Agriculturii şi Dezvoltării Rurale în administrarea Ministerului Agriculturii şi Dezvoltării Rurale - Agenţia de Plăţi şi Intervenţie pentru Agricultură, pentru unele centre judeţene aflate în subordinea acesteia | [`hg/2011/1065/`](hg/2011/1065/) | in force | 1 | 2011-11-08 | 2011-11-08 |
+| Hotărârea Guvernului nr. 1066/2011 privind aprobarea bugetului de venituri şi cheltuieli rectificat pe anul 2011 al Companiei Naţionale "Administraţia Porturilor Dunării Maritime" - S.A. Galaţi, aflată sub autoritatea Ministerului Transporturilor şi Infrastructurii | [`hg/2011/1066/`](hg/2011/1066/) | amending act | 1 | 2011-11-03 | 2011-11-03 |
+| Hotărârea Guvernului nr. 1067/2011 privind aprobarea bugetului de venituri şi cheltuieli rectificat pe anul 2011 al Companiei Naţionale de Autostrăzi şi Drumuri Naţionale din România - S.A., aflată sub autoritatea Ministerului Transporturilor şi Infrastructurii | [`hg/2011/1067/`](hg/2011/1067/) | amending act | 1 | 2011-11-02 | 2011-11-02 |
+| Hotărârea Guvernului nr. 1068/2011 privind aprobarea bugetului de venituri şi cheltuieli rectificat pe anul 2011 al Societăţii Naţionale de Transport Feroviar de Călători "C.F.R. Călători" - S.A., aflată sub autoritatea Ministerului Transporturilor şi Infrastructurii | [`hg/2011/1068/`](hg/2011/1068/) | amending act | 1 | 2011-11-02 | 2011-11-02 |
+| Hotărârea Guvernului nr. 1069/2011 privind aprobarea bugetului de venituri şi cheltuieli rectificat pe anul 2011 al Regiei Autonome "Administraţia Română a Serviciilor de Trafic Aerian - ROMATSA", aflată sub autoritatea Ministerului Transporturilor şi Infrastructurii | [`hg/2011/1069/`](hg/2011/1069/) | amending act | 1 | 2011-11-02 | 2011-11-02 |
+| Hotărârea Guvernului nr. 1072/2011 privind aprobarea bugetelor de venituri şi cheltuieli rectificate pe anul 2011 ale unor operatori economici aflaţi sub autoritatea Ministerului Transporturilor şi Infrastructurii | [`hg/2011/1072/`](hg/2011/1072/) | amending act | 1 | 2011-11-02 | 2011-11-02 |
+| Hotărârea Guvernului nr. 1073/2011 privind aprobarea bugetului de venituri şi cheltuieli pe anul 2011 al Societăţii Comerciale GOSTRANS - S.A. Anina, aflată în portofoliul Autorităţii pentru Valorificarea Activelor Statului | [`hg/2011/1073/`](hg/2011/1073/) | amending act | 1 | 2011-11-04 | 2011-11-04 |
+| Hotărârea Guvernului nr. 1074/2011 privind aprobarea bugetului de venituri şi cheltuieli pe anul 2011 al Societăţii Comerciale CEPROHART - S.A. Brăila, aflată în portofoliul Autorităţii pentru Valorificarea Activelor Statului | [`hg/2011/1074/`](hg/2011/1074/) | amending act | 1 | 2011-11-04 | 2011-11-04 |
+| Hotărârea Guvernului nr. 1075/2011 privind aprobarea bugetului de venituri şi cheltuieli rectificat pe anul 2011 al Companiei Naţionale de Radiocomunicaţii Navale "Radionav" - S.A., aflată sub autoritatea Ministerului Transporturilor şi Infrastructurii | [`hg/2011/1075/`](hg/2011/1075/) | amending act | 1 | 2011-11-02 | 2011-11-02 |
+| Hotărârea Guvernului nr. 1079/2011 pentru modificarea şi completarea Hotărârii Guvernului nr. 1.132/2008 privind regimul bateriilor şi acumulatorilor şi al deşeurilor de baterii şi acumulatori | [`hg/2011/1079/`](hg/2011/1079/) | amending act | 1 | 2011-11-03 | 2011-11-03 |
+| Hotărârea Guvernului nr. 1080/2011 privind actualizarea valorii de inventar a imobilului aflat în domeniul public al statului şi în administrarea Agenţiei Naţionale de Integritate | [`hg/2011/1080/`](hg/2011/1080/) | in force | 1 | 2011-11-03 | 2011-11-03 |
+| Hotărârea Guvernului nr. 1082/2011 pentru modificarea şi completarea Hotărârii Guvernului nr. 1.347/2001 privind atestarea domeniului public al judeţului Bacău, precum şi al municipiilor, oraşelor şi comunelor din judeţul Bacău | [`hg/2011/1082/`](hg/2011/1082/) | amending act | 1 | 2011-11-23 | 2011-11-23 |
+| Hotărârea Guvernului nr. 1083/2011 pentru înfiinţarea, organizarea şi funcţionarea Comitetului interdepartamental privind proiectul Nabucco | [`hg/2011/1083/`](hg/2011/1083/) | in force | 1 | 2011-11-11 | 2011-11-11 |
+| Hotărârea Guvernului nr. 1086/2011 privind repartizarea unor sume către bugetele locale ale unităţilor administrativ-teritoriale | [`hg/2011/1086/`](hg/2011/1086/) | in force | 1 | 2011-10-27 | 2011-10-27 |
+| Hotărârea Guvernului nr. 1087/2011 privind transmiterea unei părţi de teren din domeniul public al statului şi din administrarea Ministerului Educaţiei, Cercetării, Tineretului şi Sportului, prin Inspectoratul Şcolar Judeţean Călăraşi, pentru Clubul Elevilor Olteniţa, în domeniul public al municipiului Olteniţa şi în administrarea Consiliului Local al Municipiului Olteniţa, judeţul Călăraşi | [`hg/2011/1087/`](hg/2011/1087/) | in force | 1 | 2011-11-14 | 2011-11-14 |
 | Hotărârea Guvernului nr. 1088/2011 privind organizarea și funcționarea Inspectoratului de Stat pentru Controlul în Transportul Rutier | [`hg/2011/1088/`](hg/2011/1088/) | in force | 2 | 2011-11-03 | 2022-08-13 |
+| Hotărârea Guvernului nr. 1089/2011 pentru modificarea anexei nr. 2/7 la Hotărârea Guvernului nr. 523/2004 privind aprobarea "Programului pentru prevenirea şi managementul riscului la dezastre naturale, componenta B: Reducerea riscului seismic" şi a indicatorilor tehnico-economici pentru obiectivele de investiţii prevăzute în etapa I de implementare a programului | [`hg/2011/1089/`](hg/2011/1089/) | amending act | 1 | 2011-11-11 | 2011-11-11 |
+| Hotărârea Guvernului nr. 1090/2011 pentru aprobarea plăţii contribuţiei României la Organizaţia pentru Cooperare şi Dezvoltare Economică, în calitate de observator în cadrul Comitetului pentru Turism, pentru anul 2011 | [`hg/2011/1090/`](hg/2011/1090/) | amending act | 1 | 2011-11-10 | 2011-11-10 |
 | Hotărârea Guvernului nr. 1091/2011 privind transmiterea unei părţi dintr-un imobil din domeniul public al statului şi din administrarea Ministerului Apărării Naţionale în domeniul public al municipiului Bucureşti şi în administrarea Consiliului General al Municipiului Bucureşti, pentru actualizarea valorii de inventar a bunului imobil şi pentru actualizarea anexei nr. 4 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului | [`hg/2011/1091/`](hg/2011/1091/) | amending act | 1 | 2011-11-16 | 2011-11-16 |
 | Hotărârea Guvernului nr. 1092/2011 pentru aprobarea bugetului de venituri şi cheltuieli rectificat pe anul 2011 al Regiei Autonome Compania Română de Aviaţie "ROMAVIA" | [`hg/2011/1092/`](hg/2011/1092/) | amending act | 1 | 2011-11-11 | 2011-11-11 |
 | Hotărârea Guvernului nr. 1094/2011 | [`hg/2011/1094/`](hg/2011/1094/) | in force | 1 | 2011-12-16 | 2011-12-16 |
