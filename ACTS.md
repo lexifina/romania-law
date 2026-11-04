@@ -1,6 +1,6 @@
 # Every act in this repository
 
-27482 acts, 41,125 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+27493 acts, 41,136 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -6398,7 +6398,7 @@
 | Ordonanța Guvernului nr. 3/2026 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 70/2022 privind prevenirea, verificarea şi constatarea neregulilor/dublei finanţări, a neregulilor grave apărute în obţinerea şi utilizarea fondurilor externe nerambursabile/rambursabile alocate României prin Mecanismul de redresare şi rezilienţă şi/sau a fondurilor publice naţionale aferente acestora şi recuperarea creanţelor rezultate | [`og/2026/3/`](og/2026/3/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (21093, of which 10882 amending acts)
+## Government decisions (HG) (21104, of which 10886 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -6869,6 +6869,17 @@
 | Hotărârea Guvernului nr. 1505/2004 | [`hg/2004/1505/`](hg/2004/1505/) | in force | 1 | 2004-09-23 | 2004-09-23 |
 | Hotărârea Guvernului nr. 1506/2004 | [`hg/2004/1506/`](hg/2004/1506/) | in force | 1 | 2004-09-23 | 2004-09-23 |
 | Hotărârea Guvernului nr. 1516/2004 | [`hg/2004/1516/`](hg/2004/1516/) | in force | 1 | 2004-10-05 | 2004-10-05 |
+| Hotărârea Guvernului nr. 1534/2004 privind suplimentarea bugetului Ministerului Culturii şi Cultelor din Fondul de rezervă bugetară la dispoziţia Guvernului pe anul 2004, pentru Mănăstirea Ortodoxă Râmeţ din judeţul Alba | [`hg/2004/1534/`](hg/2004/1534/) | in force | 1 | 2004-09-30 | 2004-09-30 |
+| Hotărârea Guvernului nr. 1535/2004 privind deschiderea consulatelor generale ale României la Vrsac, Serbia şi Muntenegru, Sevilla, Regatul Spaniei, şi a agenţiilor consulare la Trieste şi Torino, Republica Italiană | [`hg/2004/1535/`](hg/2004/1535/) | in force | 1 | 2004-09-30 | 2004-09-30 |
+| Hotărârea Guvernului nr. 1536/2004 privind suplimentarea bugetului Secretariatului General al Guvernului din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2004 | [`hg/2004/1536/`](hg/2004/1536/) | in force | 1 | 2004-09-30 | 2004-09-30 |
+| Hotărârea Guvernului nr. 1537/2004 privind alocarea unor sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2004, pentru asigurarea unor cheltuieli curente ale autorităţilor administraţiei publice locale | [`hg/2004/1537/`](hg/2004/1537/) | in force | 1 | 2004-09-30 | 2004-09-30 |
+| Hotărârea Guvernului nr. 1539/2004 privind trecerea unor suprafeţe dintr-un imobil aflat în domeniul public al statului din administrarea Ministerului Transporturilor, Construcţiilor şi Turismului în administrarea Ministerului Justiţiei şi a Institutului Naţional de Cercetare-Dezvoltare în Turism - I.N.C.D.T. Bucureşti | [`hg/2004/1539/`](hg/2004/1539/) | in force | 1 | 2004-10-04 | 2004-10-04 |
+| Hotărârea Guvernului nr. 1540/2004 privind transmiterea unui imobil din domeniul public al statului şi din administrarea Ministerului Apărării Naţionale în domeniul public al oraşului Pecica şi în administrarea Consiliului Local al Oraşului Pecica, judeţul Arad | [`hg/2004/1540/`](hg/2004/1540/) | in force | 1 | 2004-10-04 | 2004-10-04 |
+| Hotărârea Guvernului nr. 1541/2004 pentru modificarea art. 3 din Hotărârea Guvernului nr. 834/1991 privind stabilirea şi evaluarea unor terenuri deţinute de societăţile comerciale cu capital de stat | [`hg/2004/1541/`](hg/2004/1541/) | amending act | 1 | 2004-10-04 | 2004-10-04 |
+| Hotărârea Guvernului nr. 1542/2004 privind trecerea unui imobil din domeniul public al statului şi din administrarea Ministerului Administraţiei şi Internelor în domeniul public al comunei Chiajna şi în administrarea Consiliului Local al Comunei Chiajna, judeţul Ilfov | [`hg/2004/1542/`](hg/2004/1542/) | in force | 1 | 2004-10-04 | 2004-10-04 |
+| Hotărârea Guvernului nr. 1543/2004 pentru modificarea pct. 3 al lit. A din anexa nr. 2 la Metodologia de achiziţionare, prin cumpărare, schimb sau donaţie, de către autoritatea publică centrală care răspunde de silvicultură, prin Regia Naţională a Pădurilor, a terenurilor ce pot fi incluse în fondul forestier proprietate publică a statului, aprobată prin Hotărârea Guvernului nr. 796/2002 | [`hg/2004/1543/`](hg/2004/1543/) | amending act | 1 | 2004-10-04 | 2004-10-04 |
+| Hotărârea Guvernului nr. 1544/2004 pentru modificarea şi completarea Hotărârii Guvernului nr. 742/2003 privind organizarea şi funcţionarea Ministerului Culturii şi Cultelor | [`hg/2004/1544/`](hg/2004/1544/) | amending act | 1 | 2004-10-04 | 2004-10-04 |
+| Hotărârea Guvernului nr. 1545/2004 pentru aprobarea Programului de aplicare a Acordului dintre Guvernul României şi Guvernul Republicii Polone privind colaborarea în domeniile ştiinţei, învăţământului şi culturii pentru anii 2003-2006, semnat la Bucureşti la 8 octombrie 2003 | [`hg/2004/1545/`](hg/2004/1545/) | amending act | 1 | 2004-10-11 | 2004-10-11 |
 | Hotărârea Guvernului nr. 1546/2004 pentru aprobarea Normelor metodologice privind modul de stabilire a valorii terenurilor arabile şi a celor forestiere, sursele financiare şi modalităţile de plată către foştii proprietari | [`hg/2004/1546/`](hg/2004/1546/) | amending act | 1 | 2004-10-06 | 2004-10-06 |
 | Hotărârea Guvernului nr. 1547/2004 | [`hg/2004/1547/`](hg/2004/1547/) | in force | 1 | 2004-10-12 | 2004-10-12 |
 | Hotărârea Guvernului nr. 1548/2004 pentru modificarea art. 1 alin. (1) din Hotărârea Guvernului nr. 1.584/2002 privind schimbarea destinaţiei unei părţi dintr-un obiectiv de investiţii situat în municipiul Paşcani, judeţul Iaşi, şi trecerea acestuia din proprietatea publică a statului în proprietatea publică a municipiului Paşcani | [`hg/2004/1548/`](hg/2004/1548/) | amending act | 1 | 2004-10-12 | 2004-10-12 |
