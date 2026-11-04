@@ -39177,13 +39177,13 @@
 | Decretul-lege nr. 143/1990 privind autorizarea funcţionării în condiţii de autonomie a Secţiei Naţionale Române a Uniunii Medicale Balcanice | [`decret-lege/1990/143/`](decret-lege/1990/143/) | in force | 1 | 1990-05-12 | 1990-05-12 |
 | Decretul-lege nr. 144/1990 privind prelungirea termenului de aplicare a Decretului-lege nr. 25/1990 cu privire la utilizarea şi salarizarea personalului în perioadele de întrerupere a activităţii | [`decret-lege/1990/144/`](decret-lege/1990/144/) | in force | 1 | 1990-05-12 | 1990-05-12 |
 
-## Parliament's decisions (Senate, Chamber of Deputies, joint sittings) (138, of which 54 amending acts)
+## Parliament's decisions (Senate, Chamber of Deputies, joint sittings) (138, of which 53 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
 | Hotărârea Senatului nr. 13/1990 privind Regulamentul Senatului | [`hotarare-parlament/senat/1990/13/`](hotarare-parlament/senat/1990/13/) | amended, not consolidated | 1 | 1990-06-28 | 1990-06-28 |
 | Hotărârea Camerei Deputaților nr. 48/1993 privind modificarea Regulamentului Camerei Deputaţilor | [`hotarare-parlament/camera/1993/48/`](hotarare-parlament/camera/1993/48/) | amending act | 1 | 1993-09-07 | 1993-09-07 |
-| Hotărârea Camerei Deputaților nr. 8/1994 pentru aprobarea Regulamentului Camerei Deputaţilor | [`hotarare-parlament/camera/1994/8/`](hotarare-parlament/camera/1994/8/) | amending act | 1 | 1994-02-25 | 1994-02-25 |
+| Hotărârea Camerei Deputaților nr. 8/1994 pentru aprobarea Regulamentului Camerei Deputaţilor | [`hotarare-parlament/camera/1994/8/`](hotarare-parlament/camera/1994/8/) | amended, not consolidated | 1 | 1994-02-25 | 1994-02-25 |
 | Hotărârea Camerei Deputaților nr. 11/1994 privind organizarea Bibliotecii Camerei Deputaţilor | [`hotarare-parlament/camera/1994/11/`](hotarare-parlament/camera/1994/11/) | as published, amendments not yet checked | 1 | 1994-04-01 | 1994-04-01 |
 | Hotărârea Senatului nr. 11/1994 privind modificarea şi completarea Regulamentului Senatului | [`hotarare-parlament/senat/1994/11/`](hotarare-parlament/senat/1994/11/) | as published, amendments not yet checked | 1 | 1994-04-04 | 1994-04-04 |
 | Hotărârea Parlamentului nr. 13/1995 privind modificarea şi completarea articolului 7 din Regulamentul şedinţelor comune ale Camerei Deputaţilor şi Senatului | [`hotarare-parlament/parlament/1995/13/`](hotarare-parlament/parlament/1995/13/) | as published, amendments not yet checked | 1 | 1995-07-05 | 1995-07-05 |

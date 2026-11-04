@@ -32738,6 +32738,7 @@ This file is written by the build on 2026-11-04, the day the source data was ret
 | Portalul legislativ (legislatie.just.ro), Ministerul Justiției: official web service (FreeWebService), the Hotărârea Camerei Deputaților nr. 73/2021 as published | <http://legislatie.just.ro/apiws/FreeWebService.svc> | 2026-11-03 | Official texts are excluded from copyright protection (Legea nr. 8/1996, art. 9). |
 | Portalul legislativ (legislatie.just.ro), Ministerul Justiției: official web service (FreeWebService), the Hotărârea Camerei Deputaților nr. 74/2021 as published | <http://legislatie.just.ro/apiws/FreeWebService.svc> | 2026-11-03 | Official texts are excluded from copyright protection (Legea nr. 8/1996, art. 9). |
 | Portalul legislativ (legislatie.just.ro), Ministerul Justiției: official web service (FreeWebService), the Hotărârea Camerei Deputaților nr. 79/2021 as published | <http://legislatie.just.ro/apiws/FreeWebService.svc> | 2026-11-03 | Official texts are excluded from copyright protection (Legea nr. 8/1996, art. 9). |
+| Portalul legislativ (legislatie.just.ro), Ministerul Justiției: official web service (FreeWebService), the Hotărârea Camerei Deputaților nr. 8/1994 as published | <http://legislatie.just.ro/apiws/FreeWebService.svc> | 2026-11-02 | Official texts are excluded from copyright protection (Legea nr. 8/1996, art. 9). |
 | Portalul legislativ (legislatie.just.ro), Ministerul Justiției: official web service (FreeWebService), the Hotărârea Camerei Deputaților nr. 8/2022 as published | <http://legislatie.just.ro/apiws/FreeWebService.svc> | 2026-11-03 | Official texts are excluded from copyright protection (Legea nr. 8/1996, art. 9). |
 | Portalul legislativ (legislatie.just.ro), Ministerul Justiției: official web service (FreeWebService), the Hotărârea Camerei Deputaților nr. 83/2022 as published | <http://legislatie.just.ro/apiws/FreeWebService.svc> | 2026-11-03 | Official texts are excluded from copyright protection (Legea nr. 8/1996, art. 9). |
 | Portalul legislativ (legislatie.just.ro), Ministerul Justiției: official web service (FreeWebService), the Hotărârea Camerei Deputaților nr. 84/2022 as published | <http://legislatie.just.ro/apiws/FreeWebService.svc> | 2026-11-03 | Official texts are excluded from copyright protection (Legea nr. 8/1996, art. 9). |
@@ -43617,9 +43618,9 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 
 | Act | Title | Versions | Span |
 | --- | --- | ---: | --- |
-| 43221 acts | every act, with its kind, number, status and span, is listed in [ACTS.md](ACTS.md) | 56967 | |
+| 43222 acts | every act, with its kind, number, status and span, is listed in [ACTS.md](ACTS.md) | 56968 | |
 
-The build made 61898 commits:
+The build made 61899 commits:
 
 | Commits | Kind |
 | ---: | --- |
@@ -43630,7 +43631,7 @@ The build made 61898 commits:
 Other counts:
 - 0 commits on the branch `viitor`: laws not yet in force on 2026-11-04.
 - 46 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 45328 laws in the record.
+- 45329 laws in the record.
 - 125991 tags.
 
 ## Dates
@@ -43643,7 +43644,7 @@ When a law gives no date of its own, the default rule applies: Constituția Rom�
 
 `tools/build/build.py` (and, for later publishes, `tools/build/append.py`) turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/build/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/build/SCHEMA.md`.
 
-- Corpus: sha256 `f6f417b896dc3fbaa596fddec4704b98959f7834439f48f1ac71966854c05177` (763659704 bytes).
+- Corpus: sha256 `749be6a42a41819e13dba0755bc21692a4ac372ac8cc2b7e2d33f2c968707b06` (763787655 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `b4ba525b908f722cf3cd1f8df7f64a87cc1f14f3`, `check.py` `d36188b60926167ff377bd58f0b03f30cc9a1a52`, `on.py` `6f97912a22e479168f0e34a7fc8095551253996f`.
 - Python 3.14.0; git version 2.52.0.windows.1.
 
@@ -43655,7 +43656,7 @@ No second build of this corpus has been compared yet.
 
 ## Decisions made by hand
 
-- Every act's decisions made by hand (209179 in all) are listed in that act's own README.md, under "Decisions made by hand".
+- Every act's decisions made by hand (209184 in all) are listed in that act's own README.md, under "Decisions made by hand".
 
 ## What AI did and did not do
 
@@ -76099,6 +76100,7 @@ Model use at data-build time:
 - Hotărârea Camerei Deputaților nr. 73/2021: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - Hotărârea Camerei Deputaților nr. 74/2021: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - Hotărârea Camerei Deputaților nr. 79/2021: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
+- Hotărârea Camerei Deputaților nr. 8/1994: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - Hotărârea Camerei Deputaților nr. 8/2022: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - Hotărârea Camerei Deputaților nr. 83/2022: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - Hotărârea Camerei Deputaților nr. 84/2022: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.

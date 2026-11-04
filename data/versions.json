@@ -557417,6 +557417,21 @@
    ]
   },
   {
+   "slug": "hotarare-camera-8-1994",
+   "path": "hotarare-parlament/camera/1994/8",
+   "short": "Hotărârea Camerei Deputaților nr. 8/1994",
+   "title": "Hotărârea Camerei Deputaților nr. 8/1994 pentru aprobarea Regulamentului Camerei Deputaţilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/3844",
+   "versions": [
+    {
+     "from": "1994-02-25",
+     "units": 215,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/3844",
+     "sha256": "7337e0b4f6a6e13690aa852b8555285376397c98b8c8f1c8bc73aa642fa74cd3"
+    }
+   ]
+  },
+  {
    "slug": "hotarare-camera-8-2022",
    "path": "hotarare-parlament/camera/2022/8",
    "short": "Hotărârea Camerei Deputaților nr. 8/2022",
@@ -731884,21 +731899,6 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/256608",
      "sha256": "b544a581a4122a701d5f9cbf34bdb6adca1ce7b54beae67fc73c3f4d3a578cca"
-    }
-   ]
-  },
-  {
-   "slug": "hotarare-camera-8-1994",
-   "path": "hotarare-parlament/camera/1994/8",
-   "short": "Hotărârea Camerei Deputaților nr. 8/1994",
-   "title": "Hotărârea Camerei Deputaților nr. 8/1994 pentru aprobarea Regulamentului Camerei Deputaţilor",
-   "url": "https://legislatie.just.ro/Public/DetaliiDocument/3844",
-   "versions": [
-    {
-     "from": "1994-02-25",
-     "units": 2,
-     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/3844",
-     "sha256": "7337e0b4f6a6e13690aa852b8555285376397c98b8c8f1c8bc73aa642fa74cd3"
     }
    ]
   },
