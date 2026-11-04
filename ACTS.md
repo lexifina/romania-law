@@ -1,6 +1,6 @@
 # Every act in this repository
 
-20984 acts, 34,617 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+20997 acts, 34,630 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -5619,7 +5619,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (15374, of which 7864 amending acts)
+## Government decisions (HG) (15387, of which 7871 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -8841,6 +8841,19 @@
 | Hotărârea Guvernului nr. 966/2011 pentru aprobarea Nomenclatorului domeniilor şi al specializărilor/programelor de studii universitare, a structurii instituţiilor de învăţământ superior, a domeniilor şi programelor de studii universitare acreditate sau autorizate să funcţioneze provizoriu, a locaţiilor geografice de desfăşurare, a numărului de credite de studii transferabile pentru fiecare program de studii universitare, formă de învăţământ sau limbă de predare, precum şi a numărului maxim de studenţi care pot fi şcolarizaţi | [`hg/2011/966/`](hg/2011/966/) | amending act | 1 | 2011-10-01 | 2011-10-01 |
 | Hotărârea Guvernului nr. 967/2011 | [`hg/2011/967/`](hg/2011/967/) | in force | 2 | 2011-10-07 | 2011-12-09 |
 | Hotărârea Guvernului nr. 980/2011 | [`hg/2011/980/`](hg/2011/980/) | in force | 1 | 2011-10-25 | 2011-10-25 |
+| Hotărârea Guvernului nr. 1003/2011 privind încetarea exercitării, cu caracter temporar, a funcţiei publice de subprefect al judeţului Vrancea de către domnul Hornea Sorin-Ionel-Florin | [`hg/2011/1003/`](hg/2011/1003/) | in force | 1 | 2011-10-17 | 2011-10-17 |
+| Hotărârea Guvernului nr. 1004/2011 privind aplicarea mobilităţii pentru domnul Oprea Ion din funcţia publică de prefect al judeţului Vrancea în funcţia publică de inspector guvernamental | [`hg/2011/1004/`](hg/2011/1004/) | in force | 1 | 2011-10-17 | 2011-10-17 |
+| Hotărârea Guvernului nr. 1005/2011 privind exercitarea, cu caracter temporar, în condiţiile legii, a funcţiei publice de prefect al judeţului Vrancea de către domnul Hornea Sorin-Ionel-Florin | [`hg/2011/1005/`](hg/2011/1005/) | in force | 1 | 2011-10-17 | 2011-10-17 |
+| Hotărârea Guvernului nr. 1006/2011 privind donarea unor mijloace fixe pentru munca de poliţie, aparţinând domeniului privat al statului, Ministerului Afacerilor Interne din Republica Moldova | [`hg/2011/1006/`](hg/2011/1006/) | in force | 1 | 2011-10-13 | 2011-10-13 |
+| Hotărârea Guvernului nr. 1007/2011 privind aprobarea Normelor metodologice de aplicare a prevederilor art. 1 alin. (1) din Ordonanţa de urgenţă a Guvernului nr. 54/2011 pentru stabilirea unor măsuri privind încadrarea în limita alocată cheltuielilor de personal din Ministerul Administraţiei şi Internelor pentru anul 2011 | [`hg/2011/1007/`](hg/2011/1007/) | amending act | 1 | 2011-10-13 | 2011-10-13 |
+| Hotărârea Guvernului nr. 1008/2011 privind stabilirea pentru anul 2011 a cuantumului plăţilor directe unice pe suprafaţă şi a plăţilor separate pentru zahăr, care se acordă în agricultură în sectorul vegetal | [`hg/2011/1008/`](hg/2011/1008/) | in force | 1 | 2011-10-17 | 2011-10-17 |
+| Hotărârea Guvernului nr. 1009/2011 privind suplimentarea bugetului Ministerului Finanţelor Publice din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2011 | [`hg/2011/1009/`](hg/2011/1009/) | in force | 1 | 2011-10-17 | 2011-10-17 |
+| Hotărârea Guvernului nr. 1010/2011 pentru aprobarea amendamentelor convenite între Guvernul României şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare, prin scrisoarea semnată la Washington la 6 aprilie 2011 şi la Bucureşti la 28 aprilie 2011, la Acordul de împrumut dintre România şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare, destinat finanţării Proiectului privind incluziunea socială, semnat la Bucureşti la 4 iulie 2006 | [`hg/2011/1010/`](hg/2011/1010/) | amending act | 1 | 2011-10-24 | 2011-10-24 |
+| Hotărârea Guvernului nr. 1011/2011 pentru aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii "Pod km 57+560 linia CF 300 Bucureşti-Ploieşti, între staţiile Brazi-Ploieşti Sud" | [`hg/2011/1011/`](hg/2011/1011/) | amending act | 1 | 2011-10-24 | 2011-10-24 |
+| Hotărârea Guvernului nr. 1012/2011 pentru aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii "Pod km 1+510 linia CF 301B, Linia colectoare Mogoşoaia" | [`hg/2011/1012/`](hg/2011/1012/) | amending act | 1 | 2011-10-24 | 2011-10-24 |
+| Hotărârea Guvernului nr. 1013/2011 pentru aprobarea indicatorilor tehnico-economici aferenţi lucrărilor de intervenţii "Ranforsare sistem rutier DN 73A km 0+000 - 19+910; km 20+975 - 69+340" | [`hg/2011/1013/`](hg/2011/1013/) | amending act | 1 | 2011-10-24 | 2011-10-24 |
+| Hotărârea Guvernului nr. 1014/2011 pentru aprobarea indicatorilor tehnico-economici aferenţi lucrărilor de intervenţii "Ranforsare DN 28 km 69+657 - km 79+927" | [`hg/2011/1014/`](hg/2011/1014/) | amending act | 1 | 2011-10-24 | 2011-10-24 |
+| Hotărârea Guvernului nr. 1015/2011 pentru aprobarea indicatorilor tehnico-economici aferenţi lucrărilor de intervenţii "Ranforsare sistem rutier pe DN 15C Piatra Neamţ-Târgu Neamţ, km 1 + 975 - km 42 + 472" | [`hg/2011/1015/`](hg/2011/1015/) | amending act | 1 | 2011-10-24 | 2011-10-24 |
 | Hotărârea Guvernului nr. 1016/2011 | [`hg/2011/1016/`](hg/2011/1016/) | in force | 2 | 2011-10-24 | 2022-07-15 |
 | Hotărârea Guvernului nr. 1019/2011 pentru modificarea şi completarea Hotărârii Guvernului nr. 492/2004 privind organizarea şi funcţionarea institutelor culturale româneşti din străinătate prin reorganizarea centrelor culturale din străinătate, precum şi înfiinţarea unor institute noi | [`hg/2011/1019/`](hg/2011/1019/) | amending act | 1 | 2011-10-25 | 2011-10-25 |
 | Hotărârea Guvernului nr. 1020/2011 privind aprobarea Acordului petrolier de concesiune pentru explorare-dezvoltare-exploatare, în perimetrul EX-27 Muridava, încheiat între Agenţia Naţională pentru Resurse Minerale şi Melrose Resources România B.V. împreună cu Societatea Comercială "Petromar Resources" - S.A | [`hg/2011/1020/`](hg/2011/1020/) | amending act | 1 | 2011-10-24 | 2011-10-24 |
