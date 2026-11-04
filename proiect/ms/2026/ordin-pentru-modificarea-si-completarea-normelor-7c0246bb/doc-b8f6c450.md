@@ -1,0 +1,22 @@
+MINISTERUL SĂNĂTĂȚII
+DIRECȚIA FARMACEUTICĂ ȘI DISPOZITIVE MEDICALE
+
+                                                                                           APROB,
+                                                                                        pentru MINISTRUL SĂNĂTĂȚII
+      dr. Romică – Andrei BACIU
+               Secretar de Stat
+
+REFERAT DE APROBARE
+
+Luând în considerare faptul că:
+dezideratul asigurării accesului pacienților la medicamente reprezintă unul dintre obiectivele de bază ale Uniunii Europene și implicit al României, iar accesul universal la medicamente depinde de disponibilitatea la timp a acestora,
+o strategie eficientă ar trebui să acopere atât măsurile de atenuare a discontinuităților în aprovizionarea cu medicamente, cât și măsurile de prevenire a apariției acestora,
+în urma experienței acumulate de la intrarea în vigoare atât a Ordinului ministrului sănătății nr. 85/2013 pentru aprobarea Normelor de aplicare a prevederilor art. 703 alin. (1) și (2) din Legea nr. 95/2006 privind reforma în domeniul sănătății referitoare la medicamentele utilizate pentru rezolvarea unor nevoi speciale, cât și a modificărilor și completărilor acestuia, au fost evidențiate situații care necesită alinierea cadrului legal aplicabil cu starea de fapt,
+se impune modificarea unor reglementări în vigoare sau introducerea unor prevederi de noutate în vederea eficientizării procedurilor de asigurare a disponibilității medicamentelor pentru nevoi speciale asigurate în baza prevederilor Ordinului ministrului sănătății nr. 85/2013, după cum urmează:
+Potrivit celor statuate prin art. 14 alin. (3) din Normele aprobate prin Ordinul ministrului sănătății nr. 85/2013, cu modificările și completările ulterioare, după expirarea valabilității autorizației de nevoi speciale, în cazul în care cantitatea prevăzută în autorizație nu este epuizată, se poate solicita prelungirea acesteia cu maxim 12 luni calendaristice. Din practică, s-a constatat că și după această perioadă, chiar dacă deținătorul autorizației pentru nevoi speciale (distribuitorul) a epuizat cantitatea, mai există stocuri în circuitul terapeutic (farmacii) din produsele autorizate. Prin urmare se apreciază oportună prelungirea dreptului de comercializare în farmacii a acestor produse pentru o perioadă de cel mult 12 luni calendaristice.
+Pe lângă cele precizate, această nouă abordare ce vizează medicamentele asigurate prin procedura de autorizare pentru nevoi speciale vine în realizarea concordanței cu medicamentele asigurate prin canalul clasic de autorizare (Autorizație de punere pe piață), în sensul că potrivit art. 738 alin. (8) din Legea nr. 95/2006 privind reforma în domeniul sănătății, cu modificările și completările ulterioare, republicată, aceste medicamente (în situația în care se mai află în circuitul terapeutic) își păstrează dreptul pentru a fi comercializate pentru o perioadă de 12 luni de la expirarea autorizației, până la epuizarea stocurilor existente.
+În concordanță cu prevederile art. 121 alin. (2) din Normele aprobate prin Ordinul ministrului sănătății nr. 85/2013, cu modificările și completările ulterioare, anunțul care conține medicamentele pentru care urmează să se emită autorizații privind furnizarea de medicamente pentru nevoi speciale, medicamente pentru care distribuitorii urmează să exprime intenția de asigurare a acestora se publică de către ANMDMR la solicitarea structurii de specialitate din cadrul Ministerului Sănătății. Întrucât situația analitică a tuturor stocurilor de medicamente asigurate atât în baza unor Autorizații privind furnizarea de medicamente pentru nevoi speciale, cât și în baza unor Autorizații de punere pe piață este gestionată de către ANMDMR, se consideră oportun ca anunțul respectiv să fie publicat la inițiativa ANMDMR, în urma transmiterii de către direcția de specialitate din cadrul ministerului a referatului/referatelor de justificare medicală întocmit/întocmite de către Comisiile de specialitate din cadrul Ministerului Sănătății.
+În considerarea celor de mai sus, am întocmit prezentul proiect de ordin privind modificarea și completarea Normelor de aplicare a prevederilor art. 703 alin. (1) și (2) din Legea nr. 95/2006 privind reforma în domeniul sănătății referitoare la medicamentele utilizate pentru rezolvarea unor nevoi speciale  aprobate prin Ordinul ministrului sănătății nr. 85/2013, pe care, dacă sunteți de acord, vă rugăm să-l aprobați în vederea publicării pe pagina web a Ministerului Sănătății, la secțiunea Transparență decizională.
+
+Director
+Monica NEGOVAN
