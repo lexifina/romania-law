@@ -32,6 +32,10 @@ try:
 except ImportError:  # a published copy of this builder runs without it
     private = None
 KEY = re.compile(r'^[a-z0-9][a-z0-9-]*$')
+# Orders (2026-11-04): the norms, regulation or methodology an order approves are part of it and live in its folder,
+# one subfolder per annex: anexa-<n>/art-NNN.md (or anexa-<n>/text.md), and anexa-<n>/README.md naming the instrument,
+# its service document and its sha256 (a unit like any other, so a reader and the check see it).
+ANNEX_UNIT = re.compile(r'^anexa-\d+/(?:README|[a-z0-9][a-z0-9-]*)$')
 KINDS = {'law', 'decree', 'court', 'referendum', 'publisher', 'treaty'}
 SUBJECT_MAX = 72
 
@@ -262,7 +266,7 @@ def validate(c: dict) -> list[str]:
             if not _is_date(v.get('from', '')):
                 errs.append(f'act {s}: version from {v.get("from")!r} is not YYYY-MM-DD')
             for uk, u in v.get('units', {}).items():
-                if not KEY.match(uk) or uk == 'readme':
+                if not (KEY.match(uk) or ANNEX_UNIT.match(uk)) or uk == 'readme':
                     errs.append(f'act {s} {v.get("from")}: unit key {uk!r} must be lowercase ASCII [a-z0-9-]')
                 t = u.get('text', '')
                 if not t.endswith('\n') or '\r' in t:
@@ -741,7 +745,9 @@ def tables(c: dict, log: list[dict]) -> dict[str, str]:
         rows = [f'# {a["title"]}', '', f'{a["short"]} · {len(a["versions"])} versions, from {a["versions"][0]["from"]} '
                 f'(latest in force: {now[-1]["from"]})' + (f' · <{a["url"]}>' if a.get('url') else ''), '',
                 '| Provision | File | Changes | Last changed |', '| --- | --- | ---: | --- |']
-        for k in sorted(units):
+        if a.get('status_note'):  # a plain status line (an order published as it appeared, its amendments not checked)
+            rows[4:4] = [f'**Status:** {a["status_note"]}', '']
+        for k in sorted(units, key=lambda k: ('/' in k, k)):  # an order's annex folders after its articles
             rows.append(f'| {units[k]["label"]} | [{k}.md]({k}.md) | {counts.get(k, 0)} | {last.get(k, "")} |')
         rows += ['', f'Act id: `{a["slug"]}` (tags `{a["slug"]}/<day>`; `python tools/on.py <day> {a["slug"]}`).']
         dec = [n for n in map(public_note, a.get('_decisions', [])) if n]

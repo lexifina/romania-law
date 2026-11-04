@@ -5,6 +5,7 @@
     python tools/on.py 2015-06-01 lege/2009/287          # the same act, by its folder
     python tools/on.py 2015-06-01 codul-civil art-1112   # one provision (a file name without .md)
     python tools/on.py 2015-06-01 codul-civil 1112       # the same, by article number
+    python tools/on.py 2020-01-01 ordin-justitie-492-c-2012 anexa-1/art-003   # an article of an order's annex
     python tools/on.py --law 2015-06-01 codul-civil 1112 # also name the law behind the version shown
 
 Each commit carries the day its change took effect in an `In-force:` trailer. That trailer, not the commit date, is
@@ -42,23 +43,36 @@ def branches() -> tuple[str, str | None]:
 
 
 _PATHS = None
+_ALIASES = None
 
 
 def paths() -> dict[str, str]:
     """{act id: folder} from data/paths.json on main ({} before the layout move)."""
-    global _PATHS
+    global _PATHS, _ALIASES
     if _PATHS is None:
         try:
-            _PATHS = json.loads(git('show', 'main:data/paths.json')).get('paths', {})
+            pj = json.loads(git('show', 'main:data/paths.json'))
+            _PATHS, _ALIASES = pj.get('paths', {}), pj.get('aliases', {})
         except (subprocess.CalledProcessError, ValueError):
-            _PATHS = {}
+            _PATHS, _ALIASES = {}, {}
     return _PATHS
 
 
+def aliases() -> dict[str, str]:
+    """{alias id: folder}: a joint order lives once, under its first issuer; each co-issuer's number gives it an alias
+    id (ordin-munca-1883-2016 -> ordin/sanatate/2016/1306), read here like the act's own id."""
+    paths()
+    return _ALIASES
+
+
 def folders(act: str) -> list[str]:
-    """Every folder an act has had: its folder now, then its id (its folder before the layout move)."""
+    """Every folder an act has had: its folder now, then its id (its folder before the layout move). An alias id (a
+    joint order's co-issuer number) reads as the act it names."""
     act = act.strip('/')
     p = paths()
+    if act not in p and act in aliases():
+        folder = aliases()[act]
+        act = next((k for k, v in p.items() if v == folder), folder)
     if act in p:
         return list(dict.fromkeys([p[act], act]))
     back = {v: k for k, v in p.items()}

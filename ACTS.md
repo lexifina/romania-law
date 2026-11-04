@@ -1,6 +1,6 @@
 # Every act in this repository
 
-39078 acts, 52,832 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+39083 acts, 52,837 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -12200,7 +12200,7 @@
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 5/2026 pentru modificarea şi completarea Ordonanţei Guvernului nr. 27/2011 privind transporturile rutiere şi pentru completarea Ordonanţei de urgenţă a Guvernului nr. 28/1999 privind obligaţia operatorilor economici de a utiliza aparate de marcat electronice fiscale | [`og/2026/5/`](og/2026/5/) | amended, not consolidated | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (26844, of which 12524 amending acts)
+## Government decisions (HG) (26849, of which 12526 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -13226,6 +13226,11 @@
 | Hotărârea Guvernului nr. 326/2001 pentru stabilirea componentei Comisiei de privatizare a Băncii Comerciale Române - S.A | [`hg/2001/326/`](hg/2001/326/) | amended, not consolidated | 1 | 2001-03-23 | 2001-03-23 |
 | Hotărârea Guvernului nr. 336/2001 pentru constituirea Comitetului Naţional de Coordonare a Proiectului de Dezvoltare Rurală | [`hg/2001/336/`](hg/2001/336/) | amended, not consolidated | 1 | 2001-03-29 | 2001-03-29 |
 | Hotărârea Guvernului nr. 358/2001 privind numirea delegaţiei părţii române în Comisia mixtă pentru întreţinerea şi reconstituirea frontierei în sectorul de uscat al frontierei de stat româno-bulgare | [`hg/2001/358/`](hg/2001/358/) | amended, not consolidated | 1 | 2001-04-09 | 2001-04-09 |
+| Hotărârea Guvernului nr. 368/2001 privind acordarea unor ajutoare de urgenta | [`hg/2001/368/`](hg/2001/368/) | in force | 1 | 2001-04-06 | 2001-04-06 |
+| Hotărârea Guvernului nr. 370/2001 privind suplimentarea bugetului Ministerului Culturii şi Cultelor din Fondul de rezerva bugetară la dispoziţia Guvernului pe anul 2001 pentru Arhiepiscopia Tomisului | [`hg/2001/370/`](hg/2001/370/) | in force | 1 | 2001-04-12 | 2001-04-12 |
+| Hotărârea Guvernului nr. 372/2001 privind exceptarea de la plata taxelor vamale a importului de porumb, orz, secara şi seminţe de floarea-soarelui, din soiuri nemodificate genetic | [`hg/2001/372/`](hg/2001/372/) | in force | 1 | 2001-04-17 | 2001-04-17 |
+| Hotărârea Guvernului nr. 373/2001 privind aprobarea listei cuprinzând echipamentele pentru protecţia mediului scutite de la plata taxelor vamale de import, achiziţionate în cadrul proiectelor LIFE 99/ENV/RO/006607 MOSYM şi LIFE 99/ENV/RO/006746 ASSURE | [`hg/2001/373/`](hg/2001/373/) | amending act | 1 | 2001-04-17 | 2001-04-17 |
+| Hotărârea Guvernului nr. 376/2001 pentru modificarea anexei nr. 1 la Hotărârea Guvernului nr. 13/2001 privind organizarea şi funcţionarea Ministerului Informaţiilor Publice | [`hg/2001/376/`](hg/2001/376/) | amending act | 1 | 2001-04-18 | 2001-04-18 |
 | Hotărârea Guvernului nr. 377/2001 privind finanţarea în anul 2001 din bugetul Ministerului Educaţiei şi Cercetării a lucrărilor de consolidare a structurii de rezistenta, precum şi de reabilitare a clădirii şcolii Grupului şcolar cu program sportiv Deva, judeţul Hunedoara | [`hg/2001/377/`](hg/2001/377/) | in force | 1 | 2001-04-23 | 2001-04-23 |
 | Hotărârea Guvernului nr. 378/2001 privind alocarea sumei de 3.800 milioane lei din Fondul de rezerva bugetară la dispoziţia Guvernului pe anul 2001 pentru continuarea lucrărilor la obiectivul de investiţii "Conducta racord gaze naturale din magistrala ROMGAZ şi Staţie - Reglare-Măsurare pentru alimentarea cu gaze naturale a localităţilor Popeşti, Roeşti, Şirineasa, judeţul Valcea" | [`hg/2001/378/`](hg/2001/378/) | in force | 1 | 2001-04-23 | 2001-04-23 |
 | Hotărârea Guvernului nr. 379/2001 | [`hg/2001/379/`](hg/2001/379/) | in force | 1 | 2001-04-23 | 2001-04-23 |

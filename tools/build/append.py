@@ -142,6 +142,9 @@ def absent_acts(repo: Path, head: str, listed: set[str], known_paths: dict[str, 
     have = set(known_paths.values()) | {a['path'] for a in c['acts'] if a.get('path')}
     folders = {f[:-len('/README.md')] for f in git(repo, 'ls-tree', '-r', '--name-only', head).splitlines()
                if f.endswith('/README.md') and f.split('/')[0] not in ('tools', 'data')}
+    # An order's annex folder (ordin/<issuer>/<year>/<nr>/anexa-<n>/README.md) is part of its act's folder, not an act:
+    # a README under a known act folder is never looked up as a lost act (2026-11-04).
+    folders = {f for f in folders if not any('/'.join(f.split('/')[:i]) in have for i in range(1, f.count('/') + 1))}
     for f in sorted(folders - have):
         if '/' not in f and f in rows_for:  # a folder still named by its id (an act from before the layout move)
             continue

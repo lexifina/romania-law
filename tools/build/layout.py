@@ -30,7 +30,18 @@ KIND_NAMES = {'constitutie': 'Constituția', 'lege': 'Laws (legi)', 'oug': 'Emer
               'og': 'Ordinances (OG)', 'hg': 'Government decisions (HG)', 'decret': 'Decrees', 'decret-lege': 'Decree-laws',
               'hotarare-parlament': "Parliament's decisions (Senate, Chamber of Deputies, joint sittings)",
               'cod': 'Historical codes', 'alte': 'Other acts'}
+# Orders and the numbered instruments of an authority (approved 2026-11-04): an order's number is unique only within one
+# issuer's yearly register, so their folders add the issuer, a lineage slug that is frozen once published:
+# <kind>/<issuer>/<year>/<number>[-<series>]/, ids <kind>-<issuer>-<number>[-<series>]-<year>
+# (ordin/justitie/2012/492-c/, ordin-justitie-492-c-2012).
+ORDER_KINDS = {'ordin': 'Ministerial and authority orders (ordine)', 'norma': 'Norms (norme)',
+               'regulament': 'Regulations (regulamente)', 'instructiuni': 'Instructions (instrucțiuni)',
+               'precizari': 'Clarifications (precizări)', 'metodologie': 'Methodologies (metodologii)',
+               'criterii': 'Criteria (criterii)'}
+KIND_NAMES = {**{k: v for k, v in KIND_NAMES.items() if k not in ('cod', 'alte')}, **ORDER_KINDS,
+              'cod': KIND_NAMES['cod'], 'alte': KIND_NAMES['alte']}
 KIND_ORDER = list(KIND_NAMES)
+ORDER_SLUG_RE = re.compile(r'^(' + '|'.join(ORDER_KINDS) + r')-([a-z]+)-(\d+)(?:-([a-z]+))?-(\d{4})(?:-\d+)?$')
 # An optional "-2", "-3" ... marks a second act under the same number after an earlier id was withdrawn (ids are never
 # reused, so their tags never clash); the folder is still the official identifier.
 SLUG_RE = re.compile(r'^(legea|oug|og|hg|decret|decret-lege|hotarare-senat|hotarare-camera|hotarare-parlament|hotarare-senat-birou|hotarare-camera-birou|'
@@ -59,6 +70,9 @@ def act_path(slug: str, title: str = '') -> str:
     m = SLUG_RE.match(slug)
     if m:
         return f'{KINDS[m.group(1)]}/{m.group(3)}/{int(m.group(2))}'
+    m = ORDER_SLUG_RE.match(slug)
+    if m:  # ordin-justitie-492-c-2012 -> ordin/justitie/2012/492-c
+        return f'{m.group(1)}/{m.group(2)}/{m.group(5)}/{int(m.group(3))}' + (f'-{m.group(4)}' if m.group(4) else '')
     for rx, kind in TITLE_RE:
         t = rx.search(title or '')
         if t:
@@ -77,7 +91,163 @@ def parts_of(path: str) -> tuple[str, str, str]:
         return bits[0], bits[2], bits[3]
     if bits[0] == 'hotarare-parlament' and len(bits) == 5:  # hotarare-parlament/<chamber>/birou/<year>/<number>
         return bits[0], bits[3], bits[4]
+    if bits[0] in ORDER_KINDS and len(bits) == 4:  # ordin/<issuer>/<year>/<number>[-<series>]
+        return bits[0], bits[2], bits[3]
     return bits[0], (bits[1] if len(bits) > 1 else ''), (bits[2] if len(bits) > 2 else '')
+
+
+# The bodies that issue orders, by the issuer slug of their folders (frozen once published): each slug names one
+# body and its successors (a lineage).
+ISSUER_NAMES: dict[str, str] = {
+    'aaas': 'Autoritatea pentru Administrarea Activelor Statului (APAPS 2000-2004, AVAS 2004-2012)',
+    'achizitii': 'Public procurement (ANRMAP, ANAP)',
+    'adoptii': 'Oficiul Român pentru Adopții',
+    'adr': 'Autoritatea pentru Digitalizarea României',
+    'aep': 'Autoritatea Electorală Permanentă',
+    'agricultura': 'Ministerul Agriculturii (all names)',
+    'amepip': 'Agenția pentru Monitorizarea și Evaluarea Performanțelor Întreprinderilor Publice',
+    'anaf': 'Agenția Națională de Administrare Fiscală (ANAF)',
+    'anci': 'Agenția Națională pentru Comunicații și Informatică',
+    'ancom': 'ANCOM (and ANRC, IGCTI before it)',
+    'ancpi': 'Agenția Națională de Cadastru și Publicitate Imobiliară',
+    'ancs': 'Research authority (ANSTI, Autoritatea Națională pentru Cercetare Științifică)',
+    'andpdca': 'Autoritatea Națională pentru Drepturile Persoanelor cu Dizabilități, Copii și Adopții',
+    'anfp': 'Agenția Națională a Funcționarilor Publici',
+    'anmcs': 'Autoritatea Națională de Management al Calității în Sănătate',
+    'anofm': 'Agenția Națională pentru Ocuparea Forței de Muncă',
+    'anpc': 'Autoritatea Națională pentru Protecția Consumatorilor',
+    'anre': 'Autoritatea Națională de Reglementare în Domeniul Energiei',
+    'anrgn': 'Autoritatea Națională de Reglementare în Domeniul Gazelor Naturale (to 2007, now ANRE)',
+    'anrm': 'Agenția Națională pentru Resurse Minerale',
+    'anrp': 'Autoritatea Națională pentru Restituirea Proprietăților',
+    'anrsc': 'ANRSC (community utilities; ANRSPGC before it)',
+    'anspdcp': 'Autoritatea Națională de Supraveghere a Prelucrării Datelor cu Caracter Personal',
+    'ansvsa': 'ANSVSA (veterinary and food safety)',
+    'antidoping': 'Agenția Națională Antidoping',
+    'aparare': 'Ministerul Apărării Naționale',
+    'ard': 'Agenția Română de Dezvoltare',
+    'arhitecti': 'Ordinul Arhitecților din România',
+    'arice': 'Agenția Română pentru Investiții și Comerț Exterior',
+    'asf': 'Autoritatea de Supraveghere Financiară',
+    'asg': 'Agenția pentru Strategii Guvernamentale',
+    'asistentimedicali': 'Ordinul Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România',
+    'aspaas': 'Autoritatea pentru Supravegherea Publică a Activității de Audit Statutar',
+    'autoritateacontrol': 'Autoritatea Națională de Control',
+    'avocatulpoporului': 'Avocatul Poporului',
+    'bnr': 'Banca Națională a României',
+    'cafr': 'Camera Auditorilor Financiari din România',
+    'camera': 'Camera Deputaților',
+    'casaopsnaj': 'Casa Asigurărilor de Sănătate a Apărării, Ordinii Publice, Siguranței Naționale și Autorității Judecătorești',
+    'ccir': 'Camera de Comerț și Industrie a României',
+    'cear': 'Centrul Euro-Atlantic pentru Reziliență',
+    'ceccar': 'Corpul Experților Contabili și Contabililor Autorizați din România',
+    'cetatenie': 'Autoritatea Națională pentru Cetățenie',
+    'cifga': 'Comitetul Interministerial de Finanțări, Garanții și Asigurări',
+    'cinematografie': 'Centrul (Oficiul) Național al Cinematografiei',
+    'cmdpd': 'Consiliul de Monitorizare a Implementării Convenției privind Drepturile Persoanelor cu Dizabilități',
+    'cnas': 'Casa Națională de Asigurări de Sănătate',
+    'cncan': 'Comisia Națională pentru Controlul Activităților Nucleare',
+    'cncd': 'Consiliul Național pentru Combaterea Discriminării',
+    'cnpp': 'Casa Națională de Pensii Publice',
+    'cnvm': 'Comisia Națională a Valorilor Mobiliare (to 2013, now ASF)',
+    'comunicatii': 'Ministerul Comunicațiilor / Cercetării, Inovării și Digitalizării',
+    'conas': 'Comisia Națională de Acreditare a Spitalelor',
+    'concurenta': 'Consiliul Concurenței',
+    'copii': 'Child protection (ANPCA, ANPDC, ANPDCA)',
+    'cosr': 'Comitetul Olimpic și Sportiv Român',
+    'csa': 'Comisia de Supraveghere a Asigurărilor (to 2013, now ASF)',
+    'csm': 'Consiliul Superior al Magistraturii',
+    'csspp': 'Comisia de Supraveghere a Sistemului de Pensii Private (to 2013, now ASF)',
+    'culte': 'Secretariatul de Stat pentru Culte',
+    'cultura': 'Ministerul Culturii (all names)',
+    'curteadeconturi': 'Curtea de Conturi',
+    'dapl': 'Departamentul pentru Administrație Publică Locală',
+    'dezvoltare': 'Ministerul Dezvoltării / Lucrărilor Publice (construction rules)',
+    'dgep': 'Direcția Generală pentru Evidența Persoanelor',
+    'dgia': 'Direcția Generală de Informații a Apărării',
+    'disciplinafunctionari': 'Comisia de disciplină pentru înalții funcționari publici',
+    'dizabilitati': 'Persons with disabilities (SSPH, ANPH, ANPDPD)',
+    'dna': 'Direcția Națională Anticorupție (Parchetul Național Anticorupție before it)',
+    'dnsc': 'Directoratul Național de Securitate Cibernetică',
+    'dsu': 'Departamentul pentru Situații de Urgență',
+    'economie': 'Ministerul Economiei (all names)',
+    'educatie': 'Ministerul Educației (all names)',
+    'egalitate': 'Agenția Națională pentru Egalitatea de Șanse între Femei și Bărbați',
+    'europene': 'European affairs (Ministerul Integrării Europene, Ministerul / Departamentul Afacerilor Europene)',
+    'exporturi': 'Agenția Națională de Control al Exporturilor (Strategice ...)',
+    'externe': 'Ministerul Afacerilor Externe',
+    'familie': 'Ministerul Familiei (all names)',
+    'fci': 'Fondul de Compensare a Investitorilor',
+    'fga': 'Fondul de Garantare a Asiguraților',
+    'fgdb': 'Fondul de Garantare a Depozitelor Bancare',
+    'fgdspp': 'Fondul de Garantare a Drepturilor din Sistemul de Pensii Private',
+    'finante': 'Ministerul Finanțelor (Publice); Ministerul Economiei și Finanțelor',
+    'fonduri': 'Ministerul Fondurilor / Investițiilor și Proiectelor Europene',
+    'fps': 'Fondul Proprietății de Stat',
+    'functiepublica': 'Ministerul Funcției Publice',
+    'geodezi': 'Ordinul Geodezilor din România',
+    'guvern': 'Guvernul (prime-minister orders, Secretariatul General al Guvernului)',
+    'hipica': 'Autoritatea Hipică Națională',
+    'iccj': 'Înalta Curte de Casație și Justiție (Curtea Supremă de Justiție before it)',
+    'igsu': 'Inspectoratul General pentru Situații de Urgență',
+    'iiccr': 'Institutul de Investigare a Crimelor Comunismului în România',
+    'imm': 'Small and medium enterprises (ANIMMC; the ministries and departments for SMEs)',
+    'ina': 'Institutul Național de Administrație',
+    'inaltifunctionari': 'Comisia de concurs pentru recrutarea înalților funcționari publici',
+    'infrastructura': 'Departamentul pentru Proiecte de Infrastructură și Investiții (Străine ...)',
+    'ins': 'Institutul Național de Statistică (Comisia Națională pentru Statistică before it)',
+    'inspectiajudiciara': 'Inspecția Judiciară',
+    'integritate': 'Agenția Națională de Integritate',
+    'international': 'International bodies (Council of Europe ...: out of scope)',
+    'interne': 'Ministerul Afacerilor Interne (all names)',
+    'isc': 'Inspectoratul de Stat în Construcții',
+    'iscir': 'ISCIR (boilers, pressure vessels and lifting equipment)',
+    'justitie': 'Ministerul Justiției',
+    'luptatori': 'Secretariatul de Stat pentru Recunoașterea Meritelor Luptătorilor împotriva Regimului Comunist',
+    'macroprudential': 'Comitetul Național pentru Supravegherea Macroprudențială',
+    'medici': 'Colegiul Medicilor din România',
+    'mediu': 'Ministerul Mediului (all names)',
+    'metrologie': 'Biroul Român de Metrologie (Legală)',
+    'minoritati': 'Departamentul pentru Protecția Minorităților Naționale',
+    'moldova': 'Departamentul pentru Relația cu Republica Moldova',
+    'munca': 'Ministerul Muncii (all names)',
+    'nucleara': 'Agenția Nucleară',
+    'offshore': 'Black Sea offshore operations regulator (ACROPO)',
+    'oli': 'Oficiul pentru Licență Industrială',
+    'onac': 'Oficiul Național pentru Achiziții Centralizate',
+    'onjn': 'Oficiul Național pentru Jocuri de Noroc',
+    'onpcsb': 'Oficiul Național de Prevenire și Combatere a Spălării Banilor',
+    'onrc': 'Oficiul Național al Registrului Comerțului',
+    'orniss': 'Oficiul Registrului Național al Informațiilor Secrete de Stat',
+    'osim': 'Oficiul de Stat pentru Invenții și Mărci',
+    'parchet': 'Ministerul Public (Parchetul de pe lângă Înalta Curte / Curtea Supremă)',
+    'penitenciare': 'Administrația Națională a Penitenciarelor',
+    'privatizare': 'Agenția Națională pentru Privatizare (and for SME development); Ministerul Privatizării',
+    'prognoza': 'Comisia Națională de (Strategie și) Prognoză',
+    'rechizitii': 'Comisia Centrală de Rechiziții',
+    'revolutionari': 'Secretariatul de Stat pentru Problemele Revoluționarilor din Decembrie 1989',
+    'rezervestat': 'State reserves and special problems (OCSPS, ANRSPS)',
+    'romaniipretutindeni': 'Românii de pretutindeni (ministry, department)',
+    'romi': 'Agenția Națională pentru Romi',
+    'rur': 'Registrul Urbaniștilor din România',
+    'sanatate': 'Ministerul Sănătății',
+    'senat': 'Senatul',
+    'sie': 'Serviciul de Informații Externe',
+    'smap': 'Statul Major al Apărării',
+    'sport': 'Sport and youth (Ministerul Tineretului și Sportului, Ministerul Sportului, ANS, ANST)',
+    'spp': 'Serviciul de Protecție și Pază',
+    'sri': 'Serviciul Român de Informații',
+    'sts': 'Serviciul de Telecomunicații Speciale',
+    'transporturi': 'Ministerul Transporturilor (all names)',
+    'turism': 'Tourism (Ministerul Turismului, Autoritatea Națională pentru Turism, Ministerul Antreprenoriatului și Turismului)',
+    'ue': 'EU institutions (acts reprinted in the Monitorul Oficial: out of scope)',
+    'vama': 'Autoritatea Vamală Română / Autoritatea Națională a Vămilor',
+}
+
+def issuer_of(path: str) -> str:
+    """The issuer level of an order's folder (ordin/justitie/2012/492-c -> justitie); '' for every other act."""
+    bits = (path or '').split('/')
+    return bits[1] if bits[0] in ORDER_KINDS and len(bits) == 4 else ''
 
 
 def paths_at(repo: Path, ref: str = 'main') -> dict[str, str]:
@@ -110,6 +280,8 @@ def status(a: dict) -> str:
         return f'repealed {last["from"]}'
     if a.get('unconsolidated'):  # amended, but the portal publishes no consolidated text: the act as published only
         return 'amended, not consolidated'
+    if a.get('amendments_checked') is False:  # published as it appeared; whether it was amended is not checked yet
+        return 'as published, amendments not yet checked'
     if AMENDING.search(a.get('title', '')):
         return 'amending act'
     return 'in force'
@@ -137,9 +309,27 @@ def acts_rows(c: dict) -> list[dict]:
                      'number': number, 'withdrawn_by': a.get('_withdrawn_by'), 'reason': a.get('_reason'),
                      'title': a.get('title', ''), 'short': a.get('short', ''), 'code': code_name(a), 'status': status(a),
                      'versions': len(vs), 'from': vs[0]['from'] if vs else None, 'latest': vs[-1]['from'] if vs else None,
-                     'portal': a.get('url')})
+                     'portal': a.get('url'),
+                     # orders: the issuer level, and a joint order's co-issuers with the id each one's number gives it
+                     **({'issuer': issuer_of(p), 'joint': a.get('joint') or []} if issuer_of(p) else {})})
+    return sort_rows(rows)
+
+
+def _num(n: str) -> int:
+    m = re.match(r'\d+', n or '')
+    return int(m.group(0)) if m else 0
+
+
+def sort_rows(rows: list[dict]) -> list[dict]:
+    """Kind, then year and number; orders by issuer first. Acts of the other kinds keep the earlier order exactly (the
+    sort is stable, and their key adds only constants)."""
     order = {k: i for i, k in enumerate(KIND_ORDER)}
-    rows.sort(key=lambda r: (order.get(r['kind'], 99), r['year'], int(r['number']) if r['number'].isdigit() else 0))
+
+    def key(r):
+        if r.get('issuer'):
+            return (order.get(r['kind'], 99), r['issuer'], r['year'], _num(r['number']), r['number'])
+        return (order.get(r['kind'], 99), '', r['year'], int(r['number']) if r['number'].isdigit() else 0, '')
+    rows.sort(key=key)
     return rows
 
 
@@ -148,20 +338,42 @@ def acts_json(c: dict) -> str:
 
 
 def paths_json(c: dict, since: str) -> str:
-    return json.dumps({'layout': '<kind>/<year>/<number>', 'since': since,
-                       'note': 'Act folders before the layout move were named by slug; tools/on.py reads both.',
+    orders = any(issuer_of(a.get('path') or '') for a in c['acts'])
+    al = aliases_of(c)
+    return json.dumps({'layout': '<kind>/<year>/<number>' + ('; orders: <kind>/<issuer>/<year>/<number>[-<series>]'
+                                                             if orders else ''), 'since': since,
+                       'note': 'Act folders before the layout move were named by slug; tools/on.py reads both.' + (
+                           ' A joint order lives once, under its first issuer; `aliases` maps the id each co-issuer\'s '
+                           'number gives it to that folder.' if al else ''),
                        'paths': {a['slug']: a['path'] for a in sorted(c['acts'], key=lambda a: a['slug'])
-                                 if a.get('path') and not a.get('_withdrawn')}},
+                                 if a.get('path') and not a.get('_withdrawn')},
+                       **({'aliases': al} if al else {})},
                       ensure_ascii=False, indent=0) + '\n'
+
+
+def aliases_of(c: dict) -> dict[str, str]:
+    """A joint order lives once, under the issuer its EMITENT block lists first; every co-issuer's own number gives it
+    an alias id (ordin-munca-1883-2016 -> ordin/sanatate/2016/1306). No duplicate folders and no symlinks: tools/on.py
+    resolves the alias. An alias that is an act's own id is never written."""
+    ids = {a['slug'] for a in c['acts']}
+    out = {}
+    for a in c['acts']:
+        if a.get('path') and not a.get('_withdrawn'):
+            for j in a.get('joint') or []:
+                if j.get('alias') and j['alias'] != a['slug'] and j['alias'] not in ids:
+                    out[j['alias']] = a['path']
+    return dict(sorted(out.items()))
 
 
 def acts_md(c: dict) -> str:
     rows = acts_rows(c)
     esc = lambda s: (s or '').replace('|', '/')  # noqa: E731
+    orders = any(r.get('issuer') for r in rows)
     out = ['# Every act in this repository', '',
            f'{len(rows)} acts, {sum(r["versions"] for r in rows):,} versions. Each act lives in a folder named by its '
-           'official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md '
-           'lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; '
+           'official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`)' + (
+               '; an order adds its issuer, `ordin/<issuer>/<year>/<number>[-<series>]/` (`ordin/justitie/2012/492-c/`)'
+               if orders else '') + '; its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; '
            'the same list is in [data/acts.json](data/acts.json).', '']
     codes = [r for r in rows if r['code']]
     if codes:
@@ -179,7 +391,11 @@ def acts_md(c: dict) -> str:
             continue
         n_amend = sum(1 for r in group if r['status'] == 'amending act')
         out += [f'## {KIND_NAMES.get(kind, kind)} ({len(group)}' + (f', of which {n_amend} amending acts' if n_amend else '')
-                + ')', '', '| Act | Folder | Status | Versions | From | Latest |', '| --- | --- | --- | ---: | --- | --- |']
+                + ')', '']
+        if kind in ORDER_KINDS:
+            out += order_sections(group, esc)
+            continue
+        out += ['| Act | Folder | Status | Versions | From | Latest |', '| --- | --- | --- | ---: | --- | --- |']
         for r in group:
             out.append(f'| {esc(r["title"])} | [`{r["path"]}/`]({r["path"]}/) | {r["status"]} | {r["versions"]} | '
                        f'{r["from"]} | {r["latest"]} |')
@@ -194,6 +410,36 @@ def acts_md(c: dict) -> str:
             out.append(f'| `{r["slug"]}` | {esc(r.get("reason") or "")} | {r.get("withdrawn_by") or ""} |')
         out.append('')
     return '\n'.join(out)
+
+
+
+def order_sections(group: list[dict], esc) -> list[str]:
+    """One section per issuer (its slug and name); a joint order is listed under its first issuer and again under each
+    co-issuer, there marked "joint with <first issuer>" and named by the co-issuer's own number and alias id."""
+    by: dict[str, list] = {}
+    for r in group:
+        by.setdefault(r.get('issuer', ''), []).append((r, None))
+        for j in r.get('joint') or []:
+            if j.get('issuer') and j['issuer'] != r.get('issuer'):
+                by.setdefault(j['issuer'], []).append((r, j))
+    out = []
+    for iss in sorted(by):
+        items = by[iss]
+        name = ISSUER_NAMES.get(iss, '')
+        out += [f'### `{iss}`' + (f': {esc(name)}' if name else '') + f' ({len(items)})', '',
+                '| Act | Folder | Status | Versions | From | Latest |', '| --- | --- | --- | ---: | --- | --- |']
+        for r, j in sorted(items, key=lambda x: (x[0]['year'], _num((x[1] or {}).get('nr') or x[0]['number']),
+                                                 x[0]['slug'])):
+            title = esc(r['title'])
+            if j:
+                title = f'{title} (joint with `{r.get("issuer")}`; this issuer\'s number {j.get("nr", "")}' + (
+                    f', id `{j["alias"]}`' if j.get('alias') else '') + ')'
+            elif r.get('joint'):
+                title += ' (joint with ' + ', '.join(f'`{x["issuer"]}`' for x in r['joint'] if x.get('issuer')) + ')'
+            out.append(f'| {title} | [`{r["path"]}/`]({r["path"]}/) | {r["status"]} | {r["versions"]} | '
+                       f'{r["from"]} | {r["latest"]} |')
+        out.append('')
+    return out
 
 
 def move(repo: Path, when: int) -> str:
