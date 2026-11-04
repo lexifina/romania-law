@@ -1,6 +1,6 @@
 # Every act in this repository
 
-27497 acts, 41,140 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+27499 acts, 41,142 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -6398,7 +6398,7 @@
 | Ordonanța Guvernului nr. 3/2026 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 70/2022 privind prevenirea, verificarea şi constatarea neregulilor/dublei finanţări, a neregulilor grave apărute în obţinerea şi utilizarea fondurilor externe nerambursabile/rambursabile alocate României prin Mecanismul de redresare şi rezilienţă şi/sau a fondurilor publice naţionale aferente acestora şi recuperarea creanţelor rezultate | [`og/2026/3/`](og/2026/3/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (21108, of which 10888 amending acts)
+## Government decisions (HG) (21110, of which 10889 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -6869,6 +6869,8 @@
 | Hotărârea Guvernului nr. 1505/2004 | [`hg/2004/1505/`](hg/2004/1505/) | in force | 1 | 2004-09-23 | 2004-09-23 |
 | Hotărârea Guvernului nr. 1506/2004 | [`hg/2004/1506/`](hg/2004/1506/) | in force | 1 | 2004-09-23 | 2004-09-23 |
 | Hotărârea Guvernului nr. 1516/2004 | [`hg/2004/1516/`](hg/2004/1516/) | in force | 1 | 2004-10-05 | 2004-10-05 |
+| Hotărârea Guvernului nr. 1525/2004 privind suplimentarea bugetului Ministerului Mediului şi Gospodăririi Apelor din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2004 | [`hg/2004/1525/`](hg/2004/1525/) | in force | 1 | 2004-09-28 | 2004-09-28 |
+| Hotărârea Guvernului nr. 1526/2004 pentru aprobarea bugetului de venituri şi cheltuieli rectificat pe anul 2004 al Regiei Naţionale a Pădurilor - Romsilva, aflată sub autoritatea Ministerului Agriculturii, Pădurilor şi Dezvoltării Rurale | [`hg/2004/1526/`](hg/2004/1526/) | amending act | 1 | 2004-09-28 | 2004-09-28 |
 | Hotărârea Guvernului nr. 1527/2004 privind acordarea unor ajutoare de urgenţă | [`hg/2004/1527/`](hg/2004/1527/) | in force | 1 | 2004-09-28 | 2004-09-28 |
 | Hotărârea Guvernului nr. 1528/2004 privind prorogarea unui termen | [`hg/2004/1528/`](hg/2004/1528/) | amending act | 1 | 2004-09-28 | 2004-09-28 |
 | Hotărârea Guvernului nr. 1530/2004 privind stabilirea Criteriilor de acordare a etichetei ecologice pentru grupul de produse detergenţi de vase pentru spălare manuală | [`hg/2004/1530/`](hg/2004/1530/) | in force | 1 | 2004-11-05 | 2004-11-05 |

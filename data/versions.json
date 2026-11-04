@@ -176360,6 +176360,21 @@
    ]
   },
   {
+   "slug": "hg-1525-2004",
+   "path": "hg/2004/1525",
+   "short": "HG nr. 1525/2004",
+   "title": "Hotărârea Guvernului nr. 1525/2004 privind suplimentarea bugetului Ministerului Mediului şi Gospodăririi Apelor din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/55478",
+   "versions": [
+    {
+     "from": "2004-09-28",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/55478",
+     "sha256": "182092a946e7403166a3bec36ef517e46fcd17794d1fb501ee1f5bec14005baa"
+    }
+   ]
+  },
+  {
    "slug": "hg-1525-2005",
    "path": "hg/2005/1525",
    "short": "HG nr. 1525/2005",
@@ -176446,6 +176461,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/262921",
      "sha256": "08c603a8c617aae9878de7ea3578bb94ea1de496f6fd9c7203a337a9dae643a1"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1526-2004",
+   "path": "hg/2004/1526",
+   "short": "HG nr. 1526/2004",
+   "title": "Hotărârea Guvernului nr. 1526/2004 pentru aprobarea bugetului de venituri şi cheltuieli rectificat pe anul 2004 al Regiei Naţionale a Pădurilor - Romsilva, aflată sub autoritatea Ministerului Agriculturii, Pădurilor şi Dezvoltării Rurale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/55519",
+   "versions": [
+    {
+     "from": "2004-09-28",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/55519",
+     "sha256": "601818359d60f34eaf6f1b10844a6ae25a6895f9c177524b1679a03fef339ec2"
     }
    ]
   },
