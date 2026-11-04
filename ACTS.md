@@ -1,6 +1,6 @@
 # Every act in this repository
 
-38776 acts, 52,529 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+38791 acts, 52,544 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (8157, of which 2976 amending acts)
+## Laws (legi) (8158, of which 2977 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -1044,6 +1044,7 @@
 | Legea nr. 464/2001 pentru modificarea şi completarea Legii nr. 126/1995 privind regimul materiilor explozive | [`lege/2001/464/`](lege/2001/464/) | amended, not consolidated | 1 | 2001-07-30 | 2001-07-30 |
 | Legea nr. 465/2001 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 16/2001 privind gestionarea deşeurilor industriale reciclabile | [`lege/2001/465/`](lege/2001/465/) | amended, not consolidated | 1 | 2001-07-30 | 2001-07-30 |
 | Legea nr. 466/2001 | [`lege/2001/466/`](lege/2001/466/) | in force | 1 | 2001-07-31 | 2001-07-31 |
+| Legea nr. 468/2001 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 130/1999 pentru completarea Legii nr. 115/1999 privind responsabilitatea ministerială | [`lege/2001/468/`](lege/2001/468/) | amending act | 1 | 2001-07-25 | 2001-07-25 |
 | Legea nr. 469/2001 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 109/2001 pentru prelungirea unor termene prevăzute de Legea nr. 10/2001 privind regimul juridic al unor imobile preluate în mod abuziv în perioada 6 martie 1945 - 22 decembrie 1989 | [`lege/2001/469/`](lege/2001/469/) | amending act | 1 | 2001-09-03 | 2001-09-03 |
 | Legea nr. 470/2001 pentru ratificarea Protocolului facultativ la Convenţia cu privire la drepturile copilului, referitor la vânzarea de copii, prostituţia copiilor şi pornografia infantila, semnat la New York la 6 septembrie 2000*) | [`lege/2001/470/`](lege/2001/470/) | in force | 1 | 2001-09-25 | 2001-09-25 |
 | Legea nr. 471/2001 privind respingerea Ordonanţei de urgenţă a Guvernului nr. 122/2000 pentru modificarea şi completarea Ordonanţei Guvernului nr. 118/1999 privind achiziţiile publice | [`lege/2001/471/`](lege/2001/471/) | amending act | 1 | 2001-09-26 | 2001-09-26 |
@@ -12068,7 +12069,7 @@
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 5/2026 pentru modificarea şi completarea Ordonanţei Guvernului nr. 27/2011 privind transporturile rutiere şi pentru completarea Ordonanţei de urgenţă a Guvernului nr. 28/1999 privind obligaţia operatorilor economici de a utiliza aparate de marcat electronice fiscale | [`og/2026/5/`](og/2026/5/) | amended, not consolidated | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (26674, of which 12469 amending acts)
+## Government decisions (HG) (26688, of which 12471 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -13146,8 +13147,22 @@
 | Hotărârea Guvernului nr. 680/2001 privind organizarea şi desfăşurarea recensământului populaţiei şi al locuinţelor din România în anul 2002 | [`hg/2001/680/`](hg/2001/680/) | amended, not consolidated | 1 | 2001-08-06 | 2001-08-06 |
 | Hotărârea Guvernului nr. 687/2001 privind transmiterea unui imobil proprietate publică a statului din administrarea Ministerului Apărării Naţionale în administrarea Ministerului Sănătăţii şi Familiei | [`hg/2001/687/`](hg/2001/687/) | amended, not consolidated | 1 | 2001-07-26 | 2001-07-26 |
 | Hotărârea Guvernului nr. 702/2001 pentru modificarea și completarea Hotărârii Guvernului nr. 1.313/1996 privind înființarea Institutului Național de Cercetare-Dezvoltare pentru Fizica Pământului INCDFP București | [`hg/2001/702/`](hg/2001/702/) | amending act | 1 | 2001-08-08 | 2001-08-08 |
+| Hotărârea Guvernului nr. 704/2001 privind aprobarea renunţării la cetăţenia Română unor persoane | [`hg/2001/704/`](hg/2001/704/) | amending act | 1 | 2001-08-02 | 2001-08-02 |
+| Hotărârea Guvernului nr. 706/2001 privind transmiterea unor imobile aflate în proprietatea publică a statului din administrarea Ministerului Apărării Naţionale în administrarea Agenţiei Naţionale pentru Locuinţe | [`hg/2001/706/`](hg/2001/706/) | in force | 1 | 2001-08-07 | 2001-08-07 |
 | Hotărârea Guvernului nr. 708/2001 privind aprobarea structurii, indicatorilor şi fondurilor aferente programelor care se experimentează şi se finanţează din bugetul Ministerului Lucrărilor Publice, Transporturilor şi Locuinţei în anul 2001 | [`hg/2001/708/`](hg/2001/708/) | amended, not consolidated | 1 | 2001-08-08 | 2001-08-08 |
+| Hotărârea Guvernului nr. 710/2001 privind înfiinţarea filialei Societatea Comercială pentru Servicii de Mentenanţă a Reţelei Electrice de Transport "Smart" - S.A. prin reorganizarea unor activităţi din cadrul Companiei Naţionale de Transport al Energiei Electrice "Transelectrica" - S.A | [`hg/2001/710/`](hg/2001/710/) | in force | 1 | 2001-08-08 | 2001-08-08 |
+| Hotărârea Guvernului nr. 712/2001 privind participarea României în anul 2001 la Programul de acţiune comunitară "Tineret" şi plata contribuţiei financiare la acest program | [`hg/2001/712/`](hg/2001/712/) | in force | 1 | 2001-07-31 | 2001-07-31 |
+| Hotărârea Guvernului nr. 713/2001 privind transmiterea unui spaţiu de garare, proprietate publică a statului, din administrarea Camerei Deputaţilor în administrarea Serviciului Român de Informaţii | [`hg/2001/713/`](hg/2001/713/) | in force | 1 | 2001-07-31 | 2001-07-31 |
 | Hotărârea Guvernului nr. 714/2001 privind transferul Închisorii Militare nr. 5 Caracal din subordinea Ministerului Apărării Naţionale în subordinea Ministerului de Interne - Comandamentul Naţional al Jandarmeriei | [`hg/2001/714/`](hg/2001/714/) | amended, not consolidated | 1 | 2001-07-31 | 2001-07-31 |
+| Hotărârea Guvernului nr. 717/2001 pentru aprobarea Strategiei privind participarea sectorului privat la îmbunătăţirea performantei sistemului sanitar din România (2001-2004) | [`hg/2001/717/`](hg/2001/717/) | amending act | 1 | 2001-08-09 | 2001-08-09 |
+| Hotărârea Guvernului nr. 718/2001 privind posibilitatea de prelungire a valabilităţii contractelor de consultanţa în vederea privatizării/restructurării/lichidării societăţilor comerciale incluse în Programul pentru Ajustarea Sectorului Privat (PSAL) | [`hg/2001/718/`](hg/2001/718/) | in force | 1 | 2001-08-07 | 2001-08-07 |
+| Hotărârea Guvernului nr. 719/2001 pentru propunerea Preacuviosului Arhimandrit Nicodim (Nicolae Nicolăescu) în funcţia de Episcop-vicar al Arhiepiscopiei Craiovei, în vederea recunoaşterii prin decret al Preşedintelui României | [`hg/2001/719/`](hg/2001/719/) | in force | 1 | 2001-08-09 | 2001-08-09 |
+| Hotărârea Guvernului nr. 720/2001 pentru propunerea Preacuviosului Arhimandrit Gurie (Grigore Georgiu) în funcţia de Episcop-vicar al Arhiepiscopiei Craiovei, în vederea recunoaşterii prin decret al Preşedintelui României | [`hg/2001/720/`](hg/2001/720/) | in force | 1 | 2001-08-09 | 2001-08-09 |
+| Hotărârea Guvernului nr. 721/2001 pentru propunerea Preacuviosului Protosinghel Varsanufie (Valentin Gogescu) în funcţia de Episcop-vicar al Arhiepiscopiei Bucureştilor, în vederea recunoaşterii prin decret al Preşedintelui României | [`hg/2001/721/`](hg/2001/721/) | in force | 1 | 2001-08-09 | 2001-08-09 |
+| Hotărârea Guvernului nr. 722/2001 pentru propunerea Preacuviosului Ieromonah Siluan (Ciprian Span) în funcţia de Episcop-vicar al Arhiepiscopiei Ortodoxe Române pentru Europa Occidentala şi Meridionala, în vederea recunoaşterii prin decret al Preşedintelui României | [`hg/2001/722/`](hg/2001/722/) | in force | 1 | 2001-08-09 | 2001-08-09 |
+| Hotărârea Guvernului nr. 725/2001 privind acordarea unor ajutoare de urgenta | [`hg/2001/725/`](hg/2001/725/) | in force | 1 | 2001-08-08 | 2001-08-08 |
+| Hotărârea Guvernului nr. 726/2001 privind acordarea unor ajutoare de urgenta | [`hg/2001/726/`](hg/2001/726/) | in force | 1 | 2001-08-08 | 2001-08-08 |
+| Hotărârea Guvernului nr. 727/2001 privind alocarea unei sume din Fondul de rezerva bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2001, pentru finanţarea Concursului Internaţional "Haricleea Darclee "- Brăila 2001, ediţia a III-a | [`hg/2001/727/`](hg/2001/727/) | in force | 1 | 2001-08-10 | 2001-08-10 |
 | Hotărârea Guvernului nr. 728/2001 | [`hg/2001/728/`](hg/2001/728/) | in force | 1 | 2001-08-15 | 2001-08-15 |
 | Hotărârea Guvernului nr. 729/2001 privind alocarea unor sume din bugetul de stat pe anul 2001 ca ajutor financiar acordat populaţiei afectate de calamităţile naturale produse în judeţul Botoşani | [`hg/2001/729/`](hg/2001/729/) | in force | 1 | 2001-08-10 | 2001-08-10 |
 | Hotărârea Guvernului nr. 730/2001 privind aprobarea categoriilor de cheltuieli şi a obiectivelor pentru înlăturarea efectelor calamităţilor naturale produse în luna iunie 2001 în judeţul Dâmboviţa | [`hg/2001/730/`](hg/2001/730/) | amending act | 1 | 2001-08-10 | 2001-08-10 |
