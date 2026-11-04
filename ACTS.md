@@ -1,6 +1,6 @@
 # Every act in this repository
 
-38057 acts, 51,714 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+38058 acts, 51,715 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -11820,7 +11820,7 @@
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 5/2026 pentru modificarea şi completarea Ordonanţei Guvernului nr. 27/2011 privind transporturile rutiere şi pentru completarea Ordonanţei de urgenţă a Guvernului nr. 28/1999 privind obligaţia operatorilor economici de a utiliza aparate de marcat electronice fiscale | [`og/2026/5/`](og/2026/5/) | amended, not consolidated | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (26246, of which 12304 amending acts)
+## Government decisions (HG) (26247, of which 12305 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -12971,6 +12971,7 @@
 | Hotărârea Guvernului nr. 62/2002 | [`hg/2002/62/`](hg/2002/62/) | in force | 1 | 2002-02-01 | 2002-02-01 |
 | Hotărârea Guvernului nr. 63/2002 | [`hg/2002/63/`](hg/2002/63/) | in force | 3 | 2002-05-06 | 2007-05-22 |
 | Hotărârea Guvernului nr. 82/2002 privind trecerea unor imobile din domeniul public al statului în domeniul privat al statului şi din administrarea Ministerului Justiţiei, a Ministerului Culturii şi Cultelor şi a Societăţii Române de Radiodifuziune în administrarea Ministerului Lucrărilor Publice, Transporturilor şi Locuinţei, precum şi mandatarea acestuia de a iniţia un program prioritar de reconversie funcţională a amplasamentului şi de finalizare a construcţiilor existente | [`hg/2002/82/`](hg/2002/82/) | amended, not consolidated | 1 | 2002-02-12 | 2002-02-12 |
+| Hotărârea Guvernului nr. 93/2002 pentru aprobarea bugetelor de venituri şi cheltuieli pe anul 2002 ale Companiei Naţionale "Imprimeria Naţionala" - S.A. şi Companiei Naţionale "Loteria Română" - S.A., unităţi economice de interes public naţional, aflate sub autoritatea Ministerului Finanţelor Publice | [`hg/2002/93/`](hg/2002/93/) | amending act | 1 | 2002-02-12 | 2002-02-12 |
 | Hotărârea Guvernului nr. 97/2002 privind darea în folosinţa gratuită a unor bunuri imobile, proprietate publică a statului, aflate în administrarea Ministerului Tineretului şi Sportului, unor federaţii sportive naţionale | [`hg/2002/97/`](hg/2002/97/) | amended, not consolidated | 1 | 2002-03-20 | 2002-03-20 |
 | Hotărârea Guvernului nr. 98/2002 pentru modificarea Hotărârii Guvernului nr. 709/2001 privind transmiterea fără plata a Centralei Electrice de Termoficare Reşita din domeniul privat al statului şi din patrimoniul Societăţii Comerciale "Termoelectrica" - S.A. în domeniul privat al statului şi în administrarea Consiliului Local Reşita, judeţul Caraş-Severin | [`hg/2002/98/`](hg/2002/98/) | amending act | 1 | 2002-02-12 | 2002-02-12 |
 | Hotărârea Guvernului nr. 100/2002 pentru aprobarea Normelor de calitate pe care trebuie să le îndeplinescă apele de suprafața utilizate pentru potabilizare și a Normativului privind metodele de măsurare și frecventa de prelevare și analiza a probelor din apele de suprafața destinate producerii de apa potabilă | [`hg/2002/100/`](hg/2002/100/) | repealed 2027-07-01 | 4 | 2002-02-19 | 2027-07-01 |
