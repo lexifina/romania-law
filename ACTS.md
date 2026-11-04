@@ -1,6 +1,6 @@
 # Every act in this repository
 
-38572 acts, 52,325 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+38588 acts, 52,341 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (8129, of which 2951 amending acts)
+## Laws (legi) (8134, of which 2955 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -1050,7 +1050,12 @@
 | Legea nr. 499/2001 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 189/2000 privind stingerea unor obligaţii bugetare | [`lege/2001/499/`](lege/2001/499/) | amended, not consolidated | 1 | 2001-10-10 | 2001-10-10 |
 | Legea nr. 503/2001 privind aprobarea Ordonanţei Guvernului nr. 35/2000 pentru modificarea Ordonanţei Guvernului nr. 66/1994 privind formarea şi utilizarea resurselor derulate prin trezoreria statului | [`lege/2001/503/`](lege/2001/503/) | amended, not consolidated | 1 | 2001-10-10 | 2001-10-10 |
 | Legea nr. 506/2001 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 13/2001 privind soluţionarea contestaţiilor împotriva măsurilor dispuse prin actele de control sau de impunere întocmite de organele Ministerului Finanţelor Publice | [`lege/2001/506/`](lege/2001/506/) | amended, not consolidated | 1 | 2001-10-16 | 2001-10-16 |
+| Legea nr. 508/2001 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 114/2000 privind aprobarea scutirii de la plata taxelor vamale a unei drage absorbant-refulante autopropulsate, cu magazie proprie cu capacitate de 2.500 mc | [`lege/2001/508/`](lege/2001/508/) | amending act | 1 | 2001-10-15 | 2001-10-15 |
+| Legea nr. 509/2001 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 51/2001 pentru modificarea art. 44 din Legea nr. 32/2000 privind societăţile de asigurare şi supravegherea asigurărilor | [`lege/2001/509/`](lege/2001/509/) | amending act | 1 | 2001-10-15 | 2001-10-15 |
+| Legea nr. 510/2001 privind respingerea Ordonanţei de urgenţă a Guvernului nr. 22/1997 pentru modificarea şi completarea Legii administraţiei publice locale nr. 69/1991 , republicată | [`lege/2001/510/`](lege/2001/510/) | amending act | 1 | 2001-10-15 | 2001-10-15 |
+| Legea nr. 511/2001 privind aprobarea Ordonanţei Guvernului nr. 92/1999 pentru ratificarea Protocolului adiţional la Convenţia europeană asupra transferării persoanelor condamnate, adoptat la Strasbourg la 18 decembrie 1997 | [`lege/2001/511/`](lege/2001/511/) | amending act | 1 | 2001-10-15 | 2001-10-15 |
 | Legea nr. 512/2001 pentru ratificarea Memorandumului de finanţare convenit între Guvernul României şi Comisia Europeană privind asistenţa financiară nerambursabilă acordată prin Instrumentul pentru Politici Structurale de Preaderare pentru măsura "Program pentru managementul deşeurilor în Piatra-Neamţ", semnat la Bruxelles la 23 octombrie 2000 şi la Bucureşti la 22 decembrie 2000 | [`lege/2001/512/`](lege/2001/512/) | amended, not consolidated | 1 | 2001-11-29 | 2001-11-29 |
+| Legea nr. 513/2001 pentru ratificarea Acordului dintre Guvernul României şi Guvernul Republicii Slovenia privind readmisia persoanelor care au intrat ilegal şi/sau stau în mod ilegal pe teritoriile statelor lor respective, semnat la Bucureşti la 4 octombrie 2000 | [`lege/2001/513/`](lege/2001/513/) | in force | 1 | 2001-10-23 | 2001-10-23 |
 | Legea nr. 515/2001 pentru aprobarea Ordonanţei Guvernului nr. 48/1998 privind majorarea capitalului social al societăţilor comerciale bancare la care statul este acţionar majoritar | [`lege/2001/515/`](lege/2001/515/) | amending act | 1 | 2001-10-17 | 2001-10-17 |
 | Legea nr. 516/2001 privind ratificarea Contractului de finanţare dintre România şi Banca Europeană de Investiţii şi Compania Naţională de Cai Ferate "C.F.R." - S.A. pentru finanţarea Proiectului de modernizare a căilor ferate, etapa a II-a, semnat la Bucureşti la 6 noiembrie 2000*) | [`lege/2001/516/`](lege/2001/516/) | in force | 1 | 2001-10-23 | 2001-10-23 |
 | Legea nr. 517/2001 privind ratificarea Contractului de finanţare dintre România şi Banca Europeană de Investiţii şi Compania Naţională "Administraţia Porturilor Maritime Constanţa" - S.A. pentru finanţarea Proiectului privind mediul şi infrastructura în Portul Constanţa, semnat la Bucureşti la 6 noiembrie 2000*) | [`lege/2001/517/`](lege/2001/517/) | in force | 1 | 2001-10-24 | 2001-10-24 |
@@ -12030,7 +12035,7 @@
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 5/2026 pentru modificarea şi completarea Ordonanţei Guvernului nr. 27/2011 privind transporturile rutiere şi pentru completarea Ordonanţei de urgenţă a Guvernului nr. 28/1999 privind obligaţia operatorilor economici de a utiliza aparate de marcat electronice fiscale | [`og/2026/5/`](og/2026/5/) | amended, not consolidated | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (26508, of which 12397 amending acts)
+## Government decisions (HG) (26519, of which 12399 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -13132,7 +13137,18 @@
 | Hotărârea Guvernului nr. 938/2001 | [`hg/2001/938/`](hg/2001/938/) | in force | 1 | 2001-10-03 | 2001-10-03 |
 | Hotărârea Guvernului nr. 952/2001 | [`hg/2001/952/`](hg/2001/952/) | in force | 1 | 2001-10-09 | 2001-10-09 |
 | Hotărârea Guvernului nr. 962/2001 | [`hg/2001/962/`](hg/2001/962/) | in force | 3 | 2001-10-04 | 2014-04-08 |
+| Hotărârea Guvernului nr. 971/2001 privind abrogarea Hotărârii Guvernului nr. 1.182/2000 de declarare a utilităţii publice pentru lucrarea de interes naţional "Sanatoriul antituberculos situat în oraşul Buşteni, judeţul Prahova" | [`hg/2001/971/`](hg/2001/971/) | amending act | 1 | 2001-10-05 | 2001-10-05 |
 | Hotărârea Guvernului nr. 974/2001 | [`hg/2001/974/`](hg/2001/974/) | in force | 1 | 2001-10-18 | 2001-10-18 |
+| Hotărârea Guvernului nr. 975/2001 privind acordarea cetăţeniei române unor persoane | [`hg/2001/975/`](hg/2001/975/) | in force | 1 | 2001-10-16 | 2001-10-16 |
+| Hotărârea Guvernului nr. 976/2001 pentru modificarea art. 13 alin. (1) din Normele metodologice de aplicare a prevederilor Ordonanţei de urgenţă a Guvernului nr. 30/2001 privind acordarea în anul 2001 a unui sprijin direct de un milion lei producătorilor agricoli pentru fiecare hectar de teren cultivat, cu finanţare de la bugetul de stat, aprobate prin Hotărârea Guvernului nr. 278/2001 | [`hg/2001/976/`](hg/2001/976/) | amending act | 1 | 2001-10-09 | 2001-10-09 |
+| Hotărârea Guvernului nr. 977/2001 privind suplimentarea bugetului Societăţii Române de Televiziune din Fondul de rezerva bugetară la dispoziţia Guvernului | [`hg/2001/977/`](hg/2001/977/) | in force | 1 | 2001-10-12 | 2001-10-12 |
+| Hotărârea Guvernului nr. 983/2001 privind transmiterea unui imobil situat în oraşul Ocnele Mari, judeţul Valcea, din patrimoniul Societăţii Naţionale a Sării - S.A. în domeniul public al oraşului Ocnele Mari şi în administrarea Consiliului Local al Oraşului Ocnele Mari, drept compensare pentru daunele provocate prin alunecare de teren în zona | [`hg/2001/983/`](hg/2001/983/) | in force | 1 | 2001-10-09 | 2001-10-09 |
+| Hotărârea Guvernului nr. 986/2001 privind declararea zonei Mizil, judeţul Prahova, zona defavorizată | [`hg/2001/986/`](hg/2001/986/) | in force | 1 | 2001-10-22 | 2001-10-22 |
+| Hotărârea Guvernului nr. 987/2001 privind declararea zonei Nădrag, judeţul Timiş, zona defavorizată | [`hg/2001/987/`](hg/2001/987/) | in force | 1 | 2001-10-22 | 2001-10-22 |
+| Hotărârea Guvernului nr. 988/2001 privind declararea zonei Mărăşeşti, judeţul Vrancea, zona defavorizată | [`hg/2001/988/`](hg/2001/988/) | in force | 1 | 2001-10-22 | 2001-10-22 |
+| Hotărârea Guvernului nr. 989/2001 privind declararea zonei Nehoiu, judeţul Buzău, zona defavorizată | [`hg/2001/989/`](hg/2001/989/) | in force | 1 | 2001-10-22 | 2001-10-22 |
+| Hotărârea Guvernului nr. 990/2001 privind declararea zonei Negreşti, judeţul Vaslui, zona defavorizată | [`hg/2001/990/`](hg/2001/990/) | in force | 1 | 2001-10-22 | 2001-10-22 |
+| Hotărârea Guvernului nr. 991/2001 privind alocarea unei sume din Fondul de rezerva bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2001, pentru reabilitarea Centralei termice şi a sistemului de termoficare, proprietate publică a municipiului Fălticeni, judeţul Suceava | [`hg/2001/991/`](hg/2001/991/) | in force | 1 | 2001-10-15 | 2001-10-15 |
 | Hotărârea Guvernului nr. 993/2001 pentru aprobarea bugetului de venituri şi cheltuieli pe anul 2001 al Institutului Naţional de Cercetare-Dezvoltare în Turism (I.N.C.D.T.), aflat în coordonarea Ministerului Turismului | [`hg/2001/993/`](hg/2001/993/) | amending act | 1 | 2001-10-15 | 2001-10-15 |
 | Hotărârea Guvernului nr. 994/2001 pentru aprobarea bugetului de venituri şi cheltuieli pe anul 2001 al Regiei Autonome "Multiproduct" | [`hg/2001/994/`](hg/2001/994/) | amending act | 1 | 2001-10-15 | 2001-10-15 |
 | Hotărârea Guvernului nr. 995/2001 pentru aprobarea bugetelor de venituri şi cheltuieli pe anul 2001 ale regiilor autonome de interes naţional aflate sub autoritatea Ministerului Apărării Naţionale | [`hg/2001/995/`](hg/2001/995/) | amending act | 1 | 2001-10-15 | 2001-10-15 |
