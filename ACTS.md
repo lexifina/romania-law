@@ -1,6 +1,6 @@
 # Every act in this repository
 
-38902 acts, 52,655 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+38918 acts, 52,671 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (8220, of which 3034 amending acts)
+## Laws (legi) (8224, of which 3037 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -983,6 +983,10 @@
 | Legea nr. 312/2001 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 98/1999 privind protecţia socială a persoanelor ale căror contracte individuale de muncă vor fi desfăcute ca urmare a concedierilor colective | [`lege/2001/312/`](lege/2001/312/) | amended, not consolidated | 1 | 2001-07-06 | 2001-07-06 |
 | Legea nr. 314/2001 pentru reglementarea situației unor societăți comerciale | [`lege/2001/314/`](lege/2001/314/) | in force | 4 | 2001-06-26 | 2024-10-20 |
 | Legea nr. 315/2001 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 38/2000 privind unele măsuri pentru diminuarea datoriei publice interne | [`lege/2001/315/`](lege/2001/315/) | amended, not consolidated | 1 | 2001-06-21 | 2001-06-21 |
+| Legea nr. 317/2001 pentru ratificarea Acordului anual de finanţare dintre Guvernul României şi Comisia Comunităţii Europene cu privire la Programul special de aderare pentru agricultura şi dezvoltare rurală în România, semnat la Bruxelles la 27 februarie 2001 | [`lege/2001/317/`](lege/2001/317/) | in force | 1 | 2001-06-26 | 2001-06-26 |
+| Legea nr. 318/2001 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 94/1999 privind sistemul de monitorizare a cheltuielilor de personal din bugetul de stat pe anul 1999 | [`lege/2001/318/`](lege/2001/318/) | amending act | 1 | 2001-06-21 | 2001-06-21 |
+| Legea nr. 319/2001 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 195/1999 pentru completarea Ordonanţei Guvernului nr. 39/1999 privind finalizarea procesului de restructurare a Băncii Române de Comerţ Exterior - Bancorex- S.A. şi fuziunea prin absorbire a acestei bănci cu Banca Comercială Română - S.A | [`lege/2001/319/`](lege/2001/319/) | amending act | 1 | 2001-06-21 | 2001-06-21 |
+| Legea nr. 320/2001 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 137/1999 privind modificarea şi completarea Legii nr. 108/1999 pentru înfiinţarea şi organizarea Inspecţiei Muncii | [`lege/2001/320/`](lege/2001/320/) | amending act | 1 | 2001-06-28 | 2001-06-28 |
 | Legea nr. 321/2001 privind acordarea gratuită de lapte praf pentru copii cu vârste cuprinse între 0-12 luni | [`lege/2001/321/`](lege/2001/321/) | in force | 1 | 2001-06-27 | 2001-06-27 |
 | Legea nr. 322/2001 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 136/1999 pentru modificarea şi completarea Legii nr. 130/1999 privind unele măsuri de protecţie a persoanelor încadrate în munca | [`lege/2001/322/`](lege/2001/322/) | amended, not consolidated | 1 | 2001-06-27 | 2001-06-27 |
 | Legea nr. 323/2001 pentru aprobarea Ordonanţei Guvernului nr. 102/2000 privind statutul şi regimul refugiaţilor în România | [`lege/2001/323/`](lege/2001/323/) | amended, not consolidated | 1 | 2001-06-27 | 2001-06-27 |
@@ -8258,7 +8262,7 @@
 | Legea nr. 204/2026 privind aprobarea Ordonanţei Guvernului nr. 22/2025 pentru modificarea şi completarea Legii nr. 227/2015 privind Codul fiscal şi pentru completarea articolului 342 din Legea nr. 227/2015 privind Codul fiscal | [`lege/2026/204/`](lege/2026/204/) | amending act | 1 | 2026-10-25 | 2026-10-25 |
 | Legea nr. 205/2026 pentru completarea Ordonanţei Guvernului nr. 22/2002 privind executarea obligaţiilor de plată ale instituţiilor publice, stabilite prin titluri executorii | [`lege/2026/205/`](lege/2026/205/) | amending act | 1 | 2026-11-02 | 2026-11-02 |
 
-## Emergency ordinances (OUG) (2872, of which 658 amending acts)
+## Emergency ordinances (OUG) (2873, of which 659 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -8605,6 +8609,7 @@
 | Ordonanța de urgență a Guvernului nr. 89/2001 | [`oug/2001/89/`](oug/2001/89/) | in force | 1 | 2001-06-26 | 2001-06-26 |
 | Ordonanța de urgență a Guvernului nr. 90/2001 pentru modificarea și completarea Legii nr. 80/1995 privind Statutul cadrelor militare | [`oug/2001/90/`](oug/2001/90/) | amending act | 3 | 2001-07-29 | 2011-04-29 |
 | Ordonanța de urgență a Guvernului nr. 91/2001 | [`oug/2001/91/`](oug/2001/91/) | in force | 2 | 2001-06-29 | 2003-08-29 |
+| Ordonanța de urgență a Guvernului nr. 92/2001 pentru aprobarea scutirii de la plata taxei pe valoarea adăugată a unor importuri de bunuri şi servicii, efectuate în anul 2001, destinate înzestrării Ministerului Apărării Naţionale | [`oug/2001/92/`](oug/2001/92/) | amending act | 1 | 2001-06-29 | 2001-06-29 |
 | Ordonanța de urgență a Guvernului nr. 93/2001 pentru modificarea şi completarea Legii nr. 73/2000 privind Fondul pentru mediu | [`oug/2001/93/`](oug/2001/93/) | amended, not consolidated | 1 | 2001-06-29 | 2001-06-29 |
 | Ordonanța de urgență a Guvernului nr. 95/2001 privind constituirea şi utilizarea Fondului România | [`oug/2001/95/`](oug/2001/95/) | amended, not consolidated | 1 | 2001-06-29 | 2001-06-29 |
 | Ordonanța de urgență a Guvernului nr. 96/2001 privind controlul contribuţiilor de asigurări sociale şi soluţionarea contestaţiilor împotriva măsurilor dispuse prin actele de control întocmite de organele de control ale Casei Naţionale de Pensii şi Alte Drepturi de Asigurări Sociale şi ale caselor teritoriale de pensii | [`oug/2001/96/`](oug/2001/96/) | repealed 2004-01-01 | 2 | 2001-06-29 | 2004-01-01 |
@@ -12131,7 +12136,7 @@
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 5/2026 pentru modificarea şi completarea Ordonanţei Guvernului nr. 27/2011 privind transporturile rutiere şi pentru completarea Ordonanţei de urgenţă a Guvernului nr. 28/1999 privind obligaţia operatorilor economici de a utiliza aparate de marcat electronice fiscale | [`og/2026/5/`](og/2026/5/) | amended, not consolidated | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (26737, of which 12486 amending acts)
+## Government decisions (HG) (26748, of which 12486 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -13186,11 +13191,22 @@
 | Hotărârea Guvernului nr. 559/2001 | [`hg/2001/559/`](hg/2001/559/) | in force | 1 | 2001-06-22 | 2001-06-22 |
 | Hotărârea Guvernului nr. 561/2001 pentru aprobarea programelor de sănătate finanţate în anul 2001 din bugetul Ministerului Sănătăţii şi Familiei şi din bugetul Fondului de asigurări sociale de sănătate | [`hg/2001/561/`](hg/2001/561/) | amended, not consolidated | 1 | 2001-06-22 | 2001-06-22 |
 | Hotărârea Guvernului nr. 568/2001 | [`hg/2001/568/`](hg/2001/568/) | in force | 6 | 2002-01-01 | 2013-12-19 |
+| Hotărârea Guvernului nr. 577/2001 privind alocarea sumei de 10 miliarde lei din Fondul de rezerva bugetară la dispoziţia Guvernului pe anul 2001 pentru organizarea şi desfăşurarea Festivalului "Cerbul de Aur" de la Braşov | [`hg/2001/577/`](hg/2001/577/) | in force | 1 | 2001-06-30 | 2001-06-30 |
+| Hotărârea Guvernului nr. 578/2001 privind transmiterea unor părţi din imobile, proprietate privată a statului, din administrarea Autorităţii Feroviare Române - AFER în administrarea Agenţiei Naţionale pentru Locuinţe | [`hg/2001/578/`](hg/2001/578/) | in force | 1 | 2001-07-04 | 2001-07-04 |
+| Hotărârea Guvernului nr. 579/2001 privind transmiterea unor imobile aflate în proprietatea publică a statului din administrarea Ministerului Apărării Naţionale în administrarea Agenţiei Naţionale pentru Locuinţe | [`hg/2001/579/`](hg/2001/579/) | in force | 1 | 2001-07-04 | 2001-07-04 |
+| Hotărârea Guvernului nr. 580/2001 privind unele măsuri pentru asigurarea lemnului de mina în anul 2001 şi gospodărirea durabilă a pădurilor | [`hg/2001/580/`](hg/2001/580/) | in force | 1 | 2001-06-30 | 2001-06-30 |
 | Hotărârea Guvernului nr. 581/2001 | [`hg/2001/581/`](hg/2001/581/) | in force | 1 | 2001-07-06 | 2001-07-06 |
 | Hotărârea Guvernului nr. 583/2001 | [`hg/2001/583/`](hg/2001/583/) | in force | 1 | 2001-06-29 | 2001-06-29 |
+| Hotărârea Guvernului nr. 584/2001 privind amplasarea unor obiecte de mobilier urban | [`hg/2001/584/`](hg/2001/584/) | in force | 1 | 2001-06-30 | 2001-06-30 |
+| Hotărârea Guvernului nr. 585/2001 privind repartizarea sumelor pentru întreţinerea, conservarea şi perpetuarea patrimoniului genetic al animalelor pe specii, rase, linii şi hibrizi, precum şi stabilirea numărului de animale pentru care se acordă aceste sume în anul 2001 | [`hg/2001/585/`](hg/2001/585/) | in force | 1 | 2001-07-02 | 2001-07-02 |
+| Hotărârea Guvernului nr. 587/2001 privind alocarea unei sume din Fondul de rezerva bugetară la dispoziţia Guvernului pe anul 2001 pentru organizarea manifestărilor prilejuite de împlinirea a 400 de ani de la moartea lui Mihai Viteazul şi a 500 de ani de la sfinţirea Mănăstirii Dealu | [`hg/2001/587/`](hg/2001/587/) | in force | 1 | 2001-06-29 | 2001-06-29 |
 | Hotărârea Guvernului nr. 589/2001 | [`hg/2001/589/`](hg/2001/589/) | in force | 1 | 2001-07-06 | 2001-07-06 |
+| Hotărârea Guvernului nr. 591/2001 privind suplimentarea bugetului Ministerului Culturii şi Cultelor pe anul 2001 din Fondul de rezerva bugetară la dispoziţia Guvernului | [`hg/2001/591/`](hg/2001/591/) | in force | 1 | 2001-06-29 | 2001-06-29 |
+| Hotărârea Guvernului nr. 592/2001 privind suplimentarea bugetului Ministerului Culturii şi Cultelor pe anul 2001 din Fondul de rezerva bugetară la dispoziţia Guvernului pentru Catedrala "Naşterea Maicii Domnului" din oraşul Gura Humorului, judeţul Suceava | [`hg/2001/592/`](hg/2001/592/) | in force | 1 | 2001-06-30 | 2001-06-30 |
+| Hotărârea Guvernului nr. 593/2001 privind suplimentarea bugetului Ministerului Culturii şi Cultelor pe anul 2001 din Fondul de rezerva bugetară la dispoziţia Guvernului pentru Mânăstirea Ramet | [`hg/2001/593/`](hg/2001/593/) | in force | 1 | 2001-06-30 | 2001-06-30 |
 | Hotărârea Guvernului nr. 594/2001 privind suplimentarea bugetului Ministerului Culturii şi Cultelor pe anul 2001 din Fondul de rezerva bugetară la dispoziţia Guvernului pentru Patriarhia Română | [`hg/2001/594/`](hg/2001/594/) | amended, not consolidated | 1 | 2001-06-30 | 2001-06-30 |
 | Hotărârea Guvernului nr. 598/2001 privind stabilirea cerinţelor referitoare la etichetarea şi eficienta energetica pentru introducerea pe piaţa a maşinilor de spălat rufe de uz casnic | [`hg/2001/598/`](hg/2001/598/) | amended, not consolidated | 1 | 2002-04-11 | 2002-04-11 |
+| Hotărârea Guvernului nr. 600/2001 privind stabilirea onorariilor în suma fixa pentru serviciile prestate de notarii publici în vederea înregistrării şi autorizării funcţionarii comercianţilor | [`hg/2001/600/`](hg/2001/600/) | in force | 1 | 2001-07-04 | 2001-07-04 |
 | Hotărârea Guvernului nr. 604/2001 pentru înfiinţarea Centrului Naţional de Formare a Personalului din Învăţământul Preuniversitar | [`hg/2001/604/`](hg/2001/604/) | amended, not consolidated | 1 | 2001-07-09 | 2001-07-09 |
 | Hotărârea Guvernului nr. 606/2001 pentru stabilirea cuantumului amenzilor care se aplică în cazul săvârşirii faptelor contravenţionale prevăzute în Ordonanţa Guvernului nr. 29/1997 privind Codul aerian | [`hg/2001/606/`](hg/2001/606/) | in force | 1 | 2001-07-05 | 2001-07-05 |
 | Hotărârea Guvernului nr. 610/2001 privind transmiterea în administrarea Serviciului Român de Informaţii a unui imobil, proprietate publică a statului, situat în municipiul Ploieşti | [`hg/2001/610/`](hg/2001/610/) | in force | 1 | 2001-07-09 | 2001-07-09 |
