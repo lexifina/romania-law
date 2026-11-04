@@ -1,0 +1,17 @@
+# Ordonanța de urgență a Guvernului nr. 10/2014 privind unele măsuri temporare în vederea consolidării cadrului normativ necesar aplicării unor dispoziţii din Legea nr. 9/1998 privind acordarea de compensaţii cetăţenilor români pentru bunurile trecute în proprietatea statului bulgar în urma aplicării Tratatului dintre România şi Bulgaria, semnat la Craiova la 7 septembrie 1940, precum şi din Legea nr. 290/2003 privind acordarea de despăgubiri sau compensaţii cetăţenilor români pentru bunurile proprietate a acestora, sechestrate, reţinute sau rămase în Basarabia, Bucovina de Nord şi Ţinutul Herţa, ca urmare a stării de război şi a aplicării Tratatului de Pace între România şi Puterile Aliate şi Asociate, semnat la Paris la 10 februarie 1947
+
+OUG nr. 10/2014 · 1 versions, from 2014-03-14 (latest in force: 2014-03-14) · <https://legislatie.just.ro/Public/DetaliiDocument/156379>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Art. 1 | [art-001.md](art-001.md) | 0 |  |
+| Art. 2 | [art-002.md](art-002.md) | 0 |  |
+
+Act id: `oug-10-2014` (tags `oug-10-2014/<day>`; `python tools/on.py <day> oug-10-2014`).
+
+## Decisions made by hand
+
+- OUG nr. 10/2014: added from the official web service of the Portalul legislativ (FreeWebService): its only version is the act as published (document 156379, retrieved 2026-11-03). No consolidated form exists: a full-text search of the official web service on 2026-11-04 finds no act changing it ().
+- OUG nr. 10/2014: added by Lexifina's automatic pass with the default rules, and no rule or ruling made for this act alone was applied. It was published only because every automatic check that applies to an act known from the official web service alone passed: two parses identical, issuer, number and in-force day confirmed by the service, and no act changing it found by the full-text search.
+- OUG nr. 10/2014: the first version is the emergency ordinance as published in Monitorul Oficial nr. 184 of 14 March 2014 (document 156379 of the official web service), dated 14 March 2014: an emergency ordinance with no day of its own, in force on publication (Constituția art. 115 alin. (5); Legea nr. 24/2000 art. 12 alin. (2)). No consolidated form of it exists, so the text as published is its only version; no page of the act is held.
+- OUG nr. 10/2014: AMENDMENTS NOT APPLIED. This act was amended (by: legea-112-2014  LEGE nr. 112 din 11 iulie 2014 pentru aprobarea Ordonantei de urgenta a Guvernu;  februarie 2015 referitoare la exceptia de neconstitutionalitate a dispozitiilor ;   din 7 mai 2015 referitoare la exceptia de neconstitutionalitate a prevederilor ;  2015 referitoare la exceptia de neconstitutionalitate a prevederilor art. 2 din ;  2015 referitoare la exceptia de neconstitutionalitate a prevederilor art. 2 din ;   14 iulie 2015 referitoare la exceptia de neconstitutionalitate a dispozitiilor ;   octombrie 2015 referitoare la exceptia de neconstitutionalitate a prevederilor ;  2016 referitoare la exceptia de neconstitutionalitate a prevederilor art. 2 din ; and 3 more), but the Portalul legislativ publishes no consolidated text of it: its current text there is the act as published (checked against a copy of the portal's texts of 3 November 2026). This record therefore holds only the act as published, as the official web service returns it (FreeWebService, http://legislatie.just.ro/apiws/FreeWebService.svc), document 156379, retrieved 2026-11-03; read the amending acts for the text in force.

@@ -568616,6 +568616,21 @@
    ]
   },
   {
+   "slug": "og-73-2003",
+   "path": "og/2003/73",
+   "short": "OG nr. 73/2003",
+   "title": "Ordonanța Guvernului nr. 73/2003 pentru modificarea şi completarea Ordonanţei Guvernului nr. 20/2002 privind achiziţiile publice prin licitaţii electronice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/45941",
+   "versions": [
+    {
+     "from": "2003-09-29",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/45941",
+     "sha256": "f89ad2c3cf04c327fd18c18853f796c99875949d5d2c26994110929df56a7e64"
+    }
+   ]
+  },
+  {
    "slug": "og-73-2004",
    "path": "og/2004/73",
    "short": "OG nr. 73/2004",
@@ -568631,6 +568646,81 @@
    ]
   },
   {
+   "slug": "og-74-1999",
+   "path": "og/1999/74",
+   "short": "OG nr. 74/1999",
+   "title": "Ordonanța Guvernului nr. 74/1999 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 82/1997 privind regimul accizelor şi al altor impozite indirecte",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19100",
+   "versions": [
+    {
+     "from": "1999-08-30",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19100",
+     "sha256": "4863e539a3c5f8eb3592441096e21f1eda6d40383408b7b3e7b3d6563cf0eb97"
+    }
+   ]
+  },
+  {
+   "slug": "og-74-2000",
+   "path": "og/2000/74",
+   "short": "OG nr. 74/2000",
+   "title": "Ordonanța Guvernului nr. 74/2000 pentru modificarea art. 9 din Legea nr. 118/1996 privind constituirea şi utilizarea Fondului special al drumurilor publice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/24021",
+   "versions": [
+    {
+     "from": "2000-08-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/24021",
+     "sha256": "b23bed44b9e3a1efae0c0f0bfe6f7c78488337a00aa9269a3b81d8a0751ad3c2"
+    }
+   ]
+  },
+  {
+   "slug": "og-74-2001",
+   "path": "og/2001/74",
+   "short": "OG nr. 74/2001",
+   "title": "Ordonanța Guvernului nr. 74/2001 privind abilitarea Ministerului de Interne de a angaja şi presta servicii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/30400",
+   "versions": [
+    {
+     "from": "2001-09-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/30400",
+     "sha256": "55022a3d5ddd944ab891b0dd4c2975c7fa1567b8f0af16e50ade74d6cf40a87f"
+    }
+   ]
+  },
+  {
+   "slug": "og-75-1999",
+   "path": "og/1999/75",
+   "short": "OG nr. 75/1999",
+   "title": "Ordonanța Guvernului nr. 75/1999 privind constituirea Fondului special de susţinere a învăţământului de stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19126",
+   "versions": [
+    {
+     "from": "1999-08-31",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19126",
+     "sha256": "b540a633c0cd184ce7022db89fdc89c45732ffa5da4014c8a4d69652ad0de1c3"
+    }
+   ]
+  },
+  {
+   "slug": "og-75-2004",
+   "path": "og/2004/75",
+   "short": "OG nr. 75/2004",
+   "title": "Ordonanța Guvernului nr. 75/2004 pentru modificarea Ordonanţei de urgenţă a Guvernului nr. 60/2001 privind achiziţiile publice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54649",
+   "versions": [
+    {
+     "from": "2004-08-27",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54649",
+     "sha256": "9682ba2b282965b3cc8fd8b3b490dd95214702ddb590051a006e8c25764115a4"
+    }
+   ]
+  },
+  {
    "slug": "og-76-1998",
    "path": "og/1998/76",
    "short": "OG nr. 76/1998",
@@ -568642,6 +568732,51 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/15567",
      "sha256": "b48e5f4ffe8e689904de0975d8a4e431896c41f74b1a6c1e9d4adecdae860d17"
+    }
+   ]
+  },
+  {
+   "slug": "og-76-2001",
+   "path": "og/2001/76",
+   "short": "OG nr. 76/2001",
+   "title": "Ordonanța Guvernului nr. 76/2001 pentru modificarea şi completarea Ordonanţei Guvernului nr. 19/1994 privind stimularea investiţiilor pentru realizarea unor lucrări publice şi construcţii de locuinţe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/30404",
+   "versions": [
+    {
+     "from": "2001-09-01",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/30404",
+     "sha256": "ff6461a4253839b44983b9555fa0582a22bafb5b38979d1a80be656534d3b58f"
+    }
+   ]
+  },
+  {
+   "slug": "og-76-2004",
+   "path": "og/2004/76",
+   "short": "OG nr. 76/2004",
+   "title": "Ordonanța Guvernului nr. 76/2004 pentru modificarea şi completarea Ordonanţei Guvernului nr. 129/2000 privind formarea profesională a adulţilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54791",
+   "versions": [
+    {
+     "from": "2004-10-26",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54791",
+     "sha256": "8808059c9678af8d225f4210dcc6856d1d1ccbaf68829651964a9385ebb1b40c"
+    }
+   ]
+  },
+  {
+   "slug": "og-77-2000",
+   "path": "og/2000/77",
+   "short": "OG nr. 77/2000",
+   "title": "Ordonanța Guvernului nr. 77/2000 pentru ratificarea Acordului de împrumut dintre România şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare (B.I.R.D.) pentru finanţarea Proiectului \"Facilitarea comerţului şi transportului în Sud-Estul Europei\", semnat la Bucureşti la 7 iulie 2000",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/24137",
+   "versions": [
+    {
+     "from": "2000-08-31",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/24137",
+     "sha256": "3bf219fe6caa8b6cb8dbdab861983d5fda7e322319d1712000dfd5c7cdb4c8dc"
     }
    ]
   },
@@ -568673,6 +568808,21 @@
    ]
   },
   {
+   "slug": "og-78-1998",
+   "path": "og/1998/78",
+   "short": "OG nr. 78/1998",
+   "title": "Ordonanța Guvernului nr. 78/1998 pentru modificarea şi completarea Ordonanţei Guvernului nr. 68/1997 privind procedura de întocmire şi depunere a declaraţiilor de impozite şi taxe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15499",
+   "versions": [
+    {
+     "from": "1998-08-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15499",
+     "sha256": "f092d629ab2791de666c9b4ddce398b9ef818fee6ee1a4772f58d597b51c2ed4"
+    }
+   ]
+  },
+  {
    "slug": "og-78-2001",
    "path": "og/2001/78",
    "short": "OG nr. 78/2001",
@@ -568694,6 +568844,21 @@
    ]
   },
   {
+   "slug": "og-78-2004",
+   "path": "og/2004/78",
+   "short": "OG nr. 78/2004",
+   "title": "Ordonanța Guvernului nr. 78/2004 pentru modificarea şi completarea Ordonanţei Guvernului nr. 70/2002 privind administrarea unităţilor sanitare publice de interes judeţean şi local",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54771",
+   "versions": [
+    {
+     "from": "2004-08-30",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54771",
+     "sha256": "3e4fbd074e63bf97e75a64023946cfac52f8d63cce68e4de1eea025a09a01764"
+    }
+   ]
+  },
+  {
    "slug": "og-79-2000",
    "path": "og/2000/79",
    "short": "OG nr. 79/2000",
@@ -568711,6 +568876,21 @@
      "units": 15,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/213083",
      "sha256": "ff9f84dec1afe78e88aff095543b89709345b6372dfa7cc71c8bffba6a536225"
+    }
+   ]
+  },
+  {
+   "slug": "og-8-1994",
+   "path": "og/1994/8",
+   "short": "OG nr. 8/1994",
+   "title": "Ordonanța Guvernului nr. 8/1994 pentru modificarea şi completarea Legii nr. 57/1991 pentru ratificarea Acordului de împrumut dintre România şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/3847",
+   "versions": [
+    {
+     "from": "1994-01-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/3847",
+     "sha256": "b82039fd41f3796596d0ccc8fcdfb0d1732c0d0e99d130a6e57de31a17bc5d34"
     }
    ]
   },
@@ -568769,6 +568949,51 @@
    ]
   },
   {
+   "slug": "og-8-2001",
+   "path": "og/2001/8",
+   "short": "OG nr. 8/2001",
+   "title": "Ordonanța Guvernului nr. 8/2001 pentru modificarea Legii nr. 34/1994 privind impozitul pe venitul agricol",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/29921",
+   "versions": [
+    {
+     "from": "2001-07-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/29921",
+     "sha256": "d6daf9a2d612713f0e848c43c1c886a8830ee00cb1b94bed0744740a5936aa8b"
+    }
+   ]
+  },
+  {
+   "slug": "og-8-2002",
+   "path": "og/2002/8",
+   "short": "OG nr. 8/2002",
+   "title": "Ordonanța Guvernului nr. 8/2002 pentru ratificarea Memorandumului de finanţare convenit între Guvernul României şi Comisia Europeană privind asistenţa financiară nerambursabilă acordată prin Instrumentul pentru Politici Structurale de Preaderare pentru măsura \"Reabilitarea reţelei de canalizare şi a staţiei de epurare a apelor uzate în Focşani, România\", semnat la Bruxelles la 20 august 2001 şi la Bucureşti la 10 octombrie 2001",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/33802",
+   "versions": [
+    {
+     "from": "2002-02-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33802",
+     "sha256": "050e095850bd790ab21028a846fed61c8909de7f2397752f2c5f95fc370f5483"
+    }
+   ]
+  },
+  {
+   "slug": "og-8-2004",
+   "path": "og/2004/8",
+   "short": "OG nr. 8/2004",
+   "title": "Ordonanța Guvernului nr. 8/2004 pentru modificarea şi completarea Ordonanţei Guvernului nr. 38/2003 privind salarizarea şi alte drepturi ale poliţiştilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49447",
+   "versions": [
+    {
+     "from": "2004-02-02",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49447",
+     "sha256": "a5846cd3b49cf1abf09d1b85aa32ee5f9f3a24b11570a853ef513c95085783d5"
+    }
+   ]
+  },
+  {
    "slug": "og-8-2005",
    "path": "og/2005/8",
    "short": "OG nr. 8/2005",
@@ -568817,6 +569042,21 @@
    ]
   },
   {
+   "slug": "og-8-2009",
+   "path": "og/2009/8",
+   "short": "OG nr. 8/2009",
+   "title": "Ordonanța Guvernului nr. 8/2009 pentru completarea art. 21 din Ordonanţa Guvernului nr. 119/1999 privind controlul intern şi controlul financiar preventiv",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/109449",
+   "versions": [
+    {
+     "from": "2009-07-13",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/109449",
+     "sha256": "e066ffcb26cae1009d27213d3b3a3c937b7bbb5a211c456176fd0eda07fc1532"
+    }
+   ]
+  },
+  {
    "slug": "og-8-2012",
    "path": "og/2012/8",
    "short": "OG nr. 8/2012",
@@ -568855,6 +569095,36 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/169442",
      "sha256": "50363aece6722a46b88332b43dcb9d7d149ddfc2967b11d2a2c4d124c6158c36"
+    }
+   ]
+  },
+  {
+   "slug": "og-8-2016",
+   "path": "og/2016/8",
+   "short": "OG nr. 8/2016",
+   "title": "Ordonanța Guvernului nr. 8/2016 pentru modificarea şi completarea Legii nr. 38/2003 privind transportul în regim de taxi şi în regim de închiriere",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/175371",
+   "versions": [
+    {
+     "from": "2016-02-01",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/175371",
+     "sha256": "73dc5c79a457b059ae887a67ac38eb6daee30cf67b6948d43ac62ddd4324491b"
+    }
+   ]
+  },
+  {
+   "slug": "og-8-2018",
+   "path": "og/2018/8",
+   "short": "OG nr. 8/2018",
+   "title": "Ordonanța Guvernului nr. 8/2018 pentru reglementarea unor măsuri fiscal-bugetare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/204333",
+   "versions": [
+    {
+     "from": "2018-08-31",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/204333",
+     "sha256": "01d58a67ebb4535b8ce656fcf7008ef99f97f2fb674610de7fe7081616eae97e"
     }
    ]
   },
@@ -568927,6 +569197,36 @@
      "units": 11,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/45932",
      "sha256": "0356787e9baf51bed204ec4f66e269eca7d96319e7d9e3a864e876179632de70"
+    }
+   ]
+  },
+  {
+   "slug": "og-80-2004",
+   "path": "og/2004/80",
+   "short": "OG nr. 80/2004",
+   "title": "Ordonanța Guvernului nr. 80/2004 pentru modificarea Ordonanţei de urgenţă a Guvernului nr. 8/2003 privind stimularea procesului de restructurare, reorganizare şi privatizare a unor societăţi naţionale, companii naţionale şi societăţi comerciale cu capital majoritar de stat, precum şi a societăţilor şi regiilor autonome subordonate autorităţilor administraţiei publice locale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54797",
+   "versions": [
+    {
+     "from": "2004-08-30",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54797",
+     "sha256": "5bf86a312efef3d7d867c9c7795ac37908e69cd0a3e519a997384b7ec295a0cf"
+    }
+   ]
+  },
+  {
+   "slug": "og-81-1999",
+   "path": "og/1999/81",
+   "short": "OG nr. 81/1999",
+   "title": "Ordonanța Guvernului nr. 81/1999 pentru aprobarea participării Ministerului Justiţiei ca membru permanent la Conferinţa Europeană Permanentă de Probaţiune",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19136",
+   "versions": [
+    {
+     "from": "1999-08-31",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19136",
+     "sha256": "b766038984eb8dff0fcbe50859260f1ddc62d16ac95f0b73f981e97878f8a6e4"
     }
    ]
   },
@@ -569072,6 +569372,21 @@
    ]
   },
   {
+   "slug": "og-82-1999",
+   "path": "og/1999/82",
+   "short": "OG nr. 82/1999",
+   "title": "Ordonanța Guvernului nr. 82/1999 pentru modificarea şi completarea Decretului nr. 247/1977 cu privire la încadrarea cadrelor militare permanente în grupele I, II sau III de muncă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19146",
+   "versions": [
+    {
+     "from": "1999-08-31",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19146",
+     "sha256": "b1d94238be0e74c94abf745146803f9a55ee733c146bf2910ef49f3b39f37793"
+    }
+   ]
+  },
+  {
    "slug": "og-82-2001",
    "path": "og/2001/82",
    "short": "OG nr. 82/2001",
@@ -569129,6 +569444,36 @@
    ]
   },
   {
+   "slug": "og-82-2003",
+   "path": "og/2003/82",
+   "short": "OG nr. 82/2003",
+   "title": "Ordonanța Guvernului nr. 82/2003 privind modificarea şi completarea Ordonanţei Guvernului nr. 128/1998 pentru reglementarea modului şi condiţiilor de valorificare a bunurilor legal confiscate sau intrate, potrivit legii, în proprietatea privată a statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/45953",
+   "versions": [
+    {
+     "from": "2003-08-31",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/45953",
+     "sha256": "2a36d459af5a1728d2b96b253cb4ba248f80bc9979d0ba3e7e0e22de371593e5"
+    }
+   ]
+  },
+  {
+   "slug": "og-84-2003",
+   "path": "og/2003/84",
+   "short": "OG nr. 84/2003",
+   "title": "Ordonanța Guvernului nr. 84/2003 pentru modificarea şi completarea Ordonanţei Guvernului nr. 65/1997 privind regimul paşapoartelor în România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/45942",
+   "versions": [
+    {
+     "from": "2003-09-29",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/45942",
+     "sha256": "8aa612bb2112165fb48bee5f4a8ff7a41372bb09a0af26f879da5d94f9897927"
+    }
+   ]
+  },
+  {
    "slug": "og-84-2004",
    "path": "og/2004/84",
    "short": "OG nr. 84/2004",
@@ -569150,6 +569495,51 @@
    ]
   },
   {
+   "slug": "og-85-2000",
+   "path": "og/2000/85",
+   "short": "OG nr. 85/2000",
+   "title": "Ordonanța Guvernului nr. 85/2000 pentru modificarea şi completarea Ordonanţei Guvernului nr. 119/1999 privind auditul intern şi controlul financiar preventiv",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/24074",
+   "versions": [
+    {
+     "from": "2000-09-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/24074",
+     "sha256": "23d2124c4f6e13499d6a2a9b08fd3d1b5533259ddcb98e2f6c2c3fcbcc209fe1"
+    }
+   ]
+  },
+  {
+   "slug": "og-85-2001",
+   "path": "og/2001/85",
+   "short": "OG nr. 85/2001",
+   "title": "Ordonanța Guvernului nr. 85/2001 privind organizarea şi funcţionarea asociaţiilor de proprietari",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/30381",
+   "versions": [
+    {
+     "from": "2001-10-01",
+     "units": 24,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/30381",
+     "sha256": "a347213c31e6565f38d4e8e9bbfdf4dfc597aeed033e9e303da4c81bcdaceb4c"
+    }
+   ]
+  },
+  {
+   "slug": "og-86-1998",
+   "path": "og/1998/86",
+   "short": "OG nr. 86/1998",
+   "title": "Ordonanța Guvernului nr. 86/1998 pentru modificarea şi completarea Ordonanţei Guvernului nr. 23/1995 privind instituirea sistemului de marcare pentru ţigarete, produse din tutun şi băuturi alcoolice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15501",
+   "versions": [
+    {
+     "from": "1998-08-27",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15501",
+     "sha256": "db9ba172302a92576678c2fad27487230ce7ee12628843e06797703599b9fde3"
+    }
+   ]
+  },
+  {
    "slug": "og-86-2004",
    "path": "og/2004/86",
    "short": "OG nr. 86/2004",
@@ -569167,6 +569557,96 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/210752",
      "sha256": "afe81ba6946e27653d0c01f76b8d5bff50b376998ffb6ee98ec70ce76134ce20"
+    }
+   ]
+  },
+  {
+   "slug": "og-87-1999",
+   "path": "og/1999/87",
+   "short": "OG nr. 87/1999",
+   "title": "Ordonanța Guvernului nr. 87/1999 pentru modificarea anexei A \"Descrierea tehnică\" la Acordul de împrumut dintre România şi Banca Europeană de Investiţii, semnat la Luxemburg şi la Bruxelles la 10 mai 1993",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19137",
+   "versions": [
+    {
+     "from": "1999-08-31",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19137",
+     "sha256": "d00e55b0bb1de0c3452fc6d867cf2c0ccefa66d9ef6e1e8c1d54be4503a2cf94"
+    }
+   ]
+  },
+  {
+   "slug": "og-87-2000",
+   "path": "og/2000/87",
+   "short": "OG nr. 87/2000",
+   "title": "Ordonanța Guvernului nr. 87/2000 privind răspunderea producătorilor pentru pagubele generate de produsele defectuoase",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/24076",
+   "versions": [
+    {
+     "from": "2001-09-01",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/24076",
+     "sha256": "b310ff966da12004184bc2b38f0df0c0386a44f5401d6efe46dd278ccde7ea67"
+    }
+   ]
+  },
+  {
+   "slug": "og-88-2000",
+   "path": "og/2000/88",
+   "short": "OG nr. 88/2000",
+   "title": "Ordonanța Guvernului nr. 88/2000 privind finanţarea centrelor de consultanţa şi informare a consumatorilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/24077",
+   "versions": [
+    {
+     "from": "2000-09-01",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/24077",
+     "sha256": "d0a1cb97473ddcffc216d94e3dcf1d5dd774c3bda555d427b55456ba122b9518"
+    }
+   ]
+  },
+  {
+   "slug": "og-89-1998",
+   "path": "og/1998/89",
+   "short": "OG nr. 89/1998",
+   "title": "Ordonanța Guvernului nr. 89/1998 pentru modificarea şi completarea Ordonanţei Guvernului nr. 65/1994 privind organizarea activităţii de expertiza contabila şi a contabililor autorizaţi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15523",
+   "versions": [
+    {
+     "from": "1998-08-27",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15523",
+     "sha256": "4682ae5de98bdde44fe00bbfd6eab1b2292a49b64df5b821edc3d47e5d1064e3"
+    }
+   ]
+  },
+  {
+   "slug": "og-9-1994",
+   "path": "og/1994/9",
+   "short": "OG nr. 9/1994",
+   "title": "Ordonanța Guvernului nr. 9/1994 pentru modificarea şi completarea Legii nr. 63/1992 pentru ratificarea Acordului de împrumut dintre România şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare, încheiat la Washington la 2 iunie 1992",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/3858",
+   "versions": [
+    {
+     "from": "1994-01-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/3858",
+     "sha256": "56de7a538b22b612054f3092baf66b2fe93d76eb95a6f50a7d91f6efa2059cda"
+    }
+   ]
+  },
+  {
+   "slug": "og-9-1995",
+   "path": "og/1995/9",
+   "short": "OG nr. 9/1995",
+   "title": "Ordonanța Guvernului nr. 9/1995 referitoare la perfecţionarea unor reglementări privind taxa pe valoarea adăugată",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/5726",
+   "versions": [
+    {
+     "from": "1995-01-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/5726",
+     "sha256": "29a38fc60e325d03016bfe465f5428852f99a406daba7f748a81c71c4206887f"
     }
    ]
   },
@@ -569194,6 +569674,36 @@
      "units": 12,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/149564",
      "sha256": "eeeaa58838fa4c484a9d06e4ba5b38b3ae651a66058eb87d73b632cf03881d84"
+    }
+   ]
+  },
+  {
+   "slug": "og-9-2001",
+   "path": "og/2001/9",
+   "short": "OG nr. 9/2001",
+   "title": "Ordonanța Guvernului nr. 9/2001 pentru modificarea Ordonanţei de urgenţă a Guvernului nr. 57/2000 privind salarizarea personalului Consiliului Naţional pentru Studierea Arhivelor Securităţii, precum şi indemnizaţiile şi celelalte drepturi ale membrilor Colegiului Consiliului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/29918",
+   "versions": [
+    {
+     "from": "2001-07-31",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/29918",
+     "sha256": "882bcd33587c43bb87416f5b4d5b1e1723774512843c90f30586706cf815bcd1"
+    }
+   ]
+  },
+  {
+   "slug": "og-9-2002",
+   "path": "og/2002/9",
+   "short": "OG nr. 9/2002",
+   "title": "Ordonanța Guvernului nr. 9/2002 pentru ratificarea Memorandumului de finanţare convenit între Guvernul României şi Comisia Europeană privind asistenţa financiară nerambursabilă acordată prin Instrumentul pentru Politici Structurale de Preaderare pentru măsura \"Reabilitarea reţelei de canalizare şi a staţiei de epurare a apelor uzate în Oradea, România\", semnat la Bruxelles la 20 august 2001 şi la Bucureşti la 10 octombrie 2001",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/33805",
+   "versions": [
+    {
+     "from": "2002-02-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33805",
+     "sha256": "46c060b31b050f534616161d7cf7f92e7ccdcdc1736925dd87225f6a899b8a5d"
     }
    ]
   },
@@ -569288,6 +569798,36 @@
    ]
   },
   {
+   "slug": "og-9-2011",
+   "path": "og/2011/9",
+   "short": "OG nr. 9/2011",
+   "title": "Ordonanța Guvernului nr. 9/2011 privind stabilirea unor măsuri pentru punerea în aplicare a Regulamentului (CE) nr. 1.005/2009 al Parlamentului European şi al Consiliului din 16 septembrie 2009 privind substanţele care diminuează stratul de ozon şi de abrogare a Ordonanţei Guvernului nr. 89/1999 privind regimul comercial şi introducerea unor restricţii la utilizarea hidrocarburilor halogenate care distrug stratul de ozon",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/125700",
+   "versions": [
+    {
+     "from": "2011-02-10",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/125700",
+     "sha256": "6d1e2d034ce83ab6b02be3c9ec0d3d6c3c7b917468cc3bf0bb1e6f6a9736e171"
+    }
+   ]
+  },
+  {
+   "slug": "og-9-2013",
+   "path": "og/2013/9",
+   "short": "OG nr. 9/2013",
+   "title": "Ordonanța Guvernului nr. 9/2013 privind prorogarea termenului prevăzut la art. V din Ordonanţa de urgenţă a Guvernului nr. 7/2011 pentru modificarea şi completarea Legii nr. 350/2001 privind amenajarea teritoriului şi urbanismul",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/144944",
+   "versions": [
+    {
+     "from": "2013-01-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/144944",
+     "sha256": "34a6166ee4ce689569b041a6951913709cc327e8c18b77ddf06bd0462018474f"
+    }
+   ]
+  },
+  {
    "slug": "og-9-2014",
    "path": "og/2014/9",
    "short": "OG nr. 9/2014",
@@ -569315,6 +569855,21 @@
    ]
   },
   {
+   "slug": "og-9-2015",
+   "path": "og/2015/9",
+   "short": "OG nr. 9/2015",
+   "title": "Ordonanța Guvernului nr. 9/2015 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 127/2007 privind Gruparea europeană de cooperare teritorială",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/165263",
+   "versions": [
+    {
+     "from": "2015-02-02",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/165263",
+     "sha256": "ab6b35c4d758d6a7190a776e563a697bae162894b15d652f67c5b1331bffc1b2"
+    }
+   ]
+  },
+  {
    "slug": "og-9-2016",
    "path": "og/2016/9",
    "short": "OG nr. 9/2016",
@@ -569332,6 +569887,36 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/209225",
      "sha256": "0e3a0026a2ddd1ed3c886aed46bdf43bb35552a57a26c79f04866a3e24874522"
+    }
+   ]
+  },
+  {
+   "slug": "og-9-2017",
+   "path": "og/2017/9",
+   "short": "OG nr. 9/2017",
+   "title": "Ordonanța Guvernului nr. 9/2017 privind prorogarea termenului prevăzut la art. IV din Ordonanţa de urgenţă a Guvernului nr. 51/2016 pentru modificarea şi completarea Legii nr. 171/2010 privind stabilirea şi sancţionarea contravenţiilor silvice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/192347",
+   "versions": [
+    {
+     "from": "2017-08-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/192347",
+     "sha256": "9c91f4ff579d48b942ae3c4552e3a3f8a7236cc53c1fe725d6ec9978c4eb6a1b"
+    }
+   ]
+  },
+  {
+   "slug": "og-9-2018",
+   "path": "og/2018/9",
+   "short": "OG nr. 9/2018",
+   "title": "Ordonanța Guvernului nr. 9/2018 privind modificarea şi completarea unor acte normative în domeniul educaţiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/204334",
+   "versions": [
+    {
+     "from": "2018-08-31",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/204334",
+     "sha256": "78fa2dbe000297dce98f3b9ac41aa14ff0e09c05f19835540ff1120cd46ba32a"
     }
    ]
   },
@@ -569456,6 +570041,126 @@
    ]
   },
   {
+   "slug": "og-90-2004",
+   "path": "og/2004/90",
+   "short": "OG nr. 90/2004",
+   "title": "Ordonanța Guvernului nr. 90/2004 pentru completarea Legii nr. 148/2000 privind publicitatea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54807",
+   "versions": [
+    {
+     "from": "2005-01-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54807",
+     "sha256": "73b5680817080fbb26340e66dafeccc306bbb586cf30ab5f7bfb06a0e7d8efbb"
+    }
+   ]
+  },
+  {
+   "slug": "og-93-2004",
+   "path": "og/2004/93",
+   "short": "OG nr. 93/2004",
+   "title": "Ordonanța Guvernului nr. 93/2004 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 150/2002 privind organizarea şi funcţionarea sistemului de asigurări sociale de sănătate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54802",
+   "versions": [
+    {
+     "from": "2004-09-02",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54802",
+     "sha256": "c9b7d5fd74b720b1e700583bae331dd1d35d3b715a0c92d76e69ef4c5556fd43"
+    }
+   ]
+  },
+  {
+   "slug": "og-94-1998",
+   "path": "og/1998/94",
+   "short": "OG nr. 94/1998",
+   "title": "Ordonanța Guvernului nr. 94/1998 pentru modificarea anexelor nr. 1 şi 2 la Legea telecomunicaţiilor nr. 74/1996",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15524",
+   "versions": [
+    {
+     "from": "1998-08-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15524",
+     "sha256": "44c616d91a907a7258ab61095a3b50325b25973c68ee3679f87c5242569659ba"
+    }
+   ]
+  },
+  {
+   "slug": "og-95-1999",
+   "path": "og/1999/95",
+   "short": "OG nr. 95/1999",
+   "title": "Ordonanța Guvernului nr. 95/1999 privind calitatea lucrărilor de montaj pentru utilaje, echipamente şi instalaţii tehnologice industriale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19178",
+   "versions": [
+    {
+     "from": "1999-08-31",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19178",
+     "sha256": "0d2b3d7dfc4573d59b5c9fc144b0836c60960ca04f41c56d67b079ab2da994dc"
+    }
+   ]
+  },
+  {
+   "slug": "og-97-1998",
+   "path": "og/1998/97",
+   "short": "OG nr. 97/1998",
+   "title": "Ordonanța Guvernului nr. 97/1998 pentru modificarea şi completarea Ordonanţei Guvernului nr. 66/1994 privind formarea şi utilizarea resurselor derulate prin trezoreria statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15539",
+   "versions": [
+    {
+     "from": "1998-08-28",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15539",
+     "sha256": "c76da2efba4ab4ff4db56fe7af973d40d25fc3bf0122fd35ab312603359ff8c2"
+    }
+   ]
+  },
+  {
+   "slug": "og-97-2000",
+   "path": "og/2000/97",
+   "short": "OG nr. 97/2000",
+   "title": "Ordonanța Guvernului nr. 97/2000 pentru ratificarea Contractului de finanţare dintre România şi Banca Europeană de Investiţii în vederea finanţării Proiectului de reconstrucţie pentru eliminarea efectelor inundaţiilor, semnat la Luxemburg la 4 august 2000 şi la Bucureşti la 9 august 2000",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/24169",
+   "versions": [
+    {
+     "from": "2000-09-03",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/24169",
+     "sha256": "3eaf8345b9e1097916fe3868049601c68161f59b41d30a86ae0787f80c9b4703"
+    }
+   ]
+  },
+  {
+   "slug": "og-98-1998",
+   "path": "og/1998/98",
+   "short": "OG nr. 98/1998",
+   "title": "Ordonanța Guvernului nr. 98/1998 privind desemnarea semnatarilor acordurilor de exploatare ale organizaţiilor internaţionale de telecomunicaţii prin sateliţi \"INTELSAT\", \"EUTELSAT\" ŞI \"INMARSAT\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15538",
+   "versions": [
+    {
+     "from": "1998-08-28",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15538",
+     "sha256": "fafe3190442cab3ca1aca70e4ad86aa48868f198cb9d5d6661079f6a6747e3f0"
+    }
+   ]
+  },
+  {
+   "slug": "og-98-2000",
+   "path": "og/2000/98",
+   "short": "OG nr. 98/2000",
+   "title": "Ordonanța Guvernului nr. 98/2000 pentru modificarea Ordonanţei Guvernului nr. 45/1997 privind înfiinţarea Societăţii Comerciale \"Compania Naţională de Transporturi Aeriene Române - TAROM\" - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/24150",
+   "versions": [
+    {
+     "from": "2000-10-16",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/24150",
+     "sha256": "484e53d76c519de214044411094be173dc4f0a311c20caf004a53b6a42ebeec5"
+    }
+   ]
+  },
+  {
    "slug": "oug-1-1998",
    "path": "oug/1998/1",
    "short": "OUG nr. 1/1998",
@@ -569477,6 +570182,21 @@
    ]
   },
   {
+   "slug": "oug-1-2001",
+   "path": "oug/2001/1",
+   "short": "OUG nr. 1/2001",
+   "title": "Ordonanța de urgență a Guvernului nr. 1/2001 pentru modificarea şi completarea Legii nr. 47/1994 privind organizarea şi funcţionarea Preşedinţiei României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/25942",
+   "versions": [
+    {
+     "from": "2001-01-10",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/25942",
+     "sha256": "336173b3b220994ba529b803c8b925feef9277c54efab18247889fd8d2090ab2"
+    }
+   ]
+  },
+  {
    "slug": "oug-1-2003",
    "path": "oug/2003/1",
    "short": "OUG nr. 1/2003",
@@ -569488,6 +570208,36 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/41515",
      "sha256": "b8f20535ca0e73895ad0cfb4bd192980ddf8d8991698b7aed5d8eaf873dad5ed"
+    }
+   ]
+  },
+  {
+   "slug": "oug-1-2005",
+   "path": "oug/2005/1",
+   "short": "OUG nr. 1/2005",
+   "title": "Ordonanța de urgență a Guvernului nr. 1/2005 pentru modificarea Ordonanţei de urgenţă a Guvernului nr. 99/2004 privind instituirea Programului de stimulare a înnoirii Parcului naţional auto",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/58888",
+   "versions": [
+    {
+     "from": "2005-01-28",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58888",
+     "sha256": "85d860a0cc832e99a7ad8363f0a468150ecf04bfd59ce66c061b618f6f461f63"
+    }
+   ]
+  },
+  {
+   "slug": "oug-1-2008",
+   "path": "oug/2008/1",
+   "short": "OUG nr. 1/2008",
+   "title": "Ordonanța de urgență a Guvernului nr. 1/2008 pentru asigurarea continuităţii unor activităţi ale Consiliului Naţional pentru Studierea Arhivelor Securităţii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/89350",
+   "versions": [
+    {
+     "from": "2008-02-06",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/89350",
+     "sha256": "0f4b6c154776737d7bf3c5e12f946389bcb02871c413dbf91fc003d199fc9cb1"
     }
    ]
   },
@@ -569570,6 +570320,21 @@
    ]
   },
   {
+   "slug": "oug-1-2023",
+   "path": "oug/2023/1",
+   "short": "OUG nr. 1/2023",
+   "title": "Ordonanța de urgență a Guvernului nr. 1/2023 pentru completarea art. 3 din Ordonanţa Guvernului nr. 62/1999 privind înfiinţarea Unităţii Executive pentru Finanţarea Învăţământului Superior şi a Cercetării Ştiinţifice Universitare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/264530",
+   "versions": [
+    {
+     "from": "2023-02-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/264530",
+     "sha256": "6b84e9ef41a52b41f33f4489359009d0d22dba58c39ff817e8a038b1070d2f4c"
+    }
+   ]
+  },
+  {
    "slug": "oug-1-2024",
    "path": "oug/2024/1",
    "short": "OUG nr. 1/2024",
@@ -569600,6 +570365,36 @@
    ]
   },
   {
+   "slug": "oug-1-2026",
+   "path": "oug/2026/1",
+   "short": "OUG nr. 1/2026",
+   "title": "Ordonanța de urgență a Guvernului nr. 1/2026 pentru modificarea şi completarea unor acte normative din domeniul educaţiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/306783",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/306783",
+     "sha256": "16842ab041603f60cda56292812c89861c9bcc6cd7932bb5a4e342153f349924"
+    }
+   ]
+  },
+  {
+   "slug": "oug-10-2002",
+   "path": "oug/2002/10",
+   "short": "OUG nr. 10/2002",
+   "title": "Ordonanța de urgență a Guvernului nr. 10/2002 pentru modificarea Legii nr. 142/1999 privind sprijinul statului pentru salarizarea clerului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34106",
+   "versions": [
+    {
+     "from": "2002-02-18",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34106",
+     "sha256": "aa27c4e21f7a191448837682db64d92366be9751f0d09acfd2c594e2c6976105"
+    }
+   ]
+  },
+  {
    "slug": "oug-10-2003",
    "path": "oug/2003/10",
    "short": "OUG nr. 10/2003",
@@ -569617,6 +570412,66 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/214428",
      "sha256": "0f387995d6d4fd733f1f3ca6e73a7527ed0a259a18e72844bdb608db2cfebba7"
+    }
+   ]
+  },
+  {
+   "slug": "oug-10-2005",
+   "path": "oug/2005/10",
+   "short": "OUG nr. 10/2005",
+   "title": "Ordonanța de urgență a Guvernului nr. 10/2005 pentru modificarea Ordonanţei Guvernului nr. 32/1998 privind organizarea cabinetului demnitarului din administraţia publică centrală",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/59541",
+   "versions": [
+    {
+     "from": "2005-02-28",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59541",
+     "sha256": "c95c9c76df3ca3c999c2ee2f6a9464ec6161550aeaaee8a61fa0700272a3d27c"
+    }
+   ]
+  },
+  {
+   "slug": "oug-10-2007",
+   "path": "oug/2007/10",
+   "short": "OUG nr. 10/2007",
+   "title": "Ordonanța de urgență a Guvernului nr. 10/2007 pentru modificarea şi completarea anexei nr. 4 la Legea nr. 495/2004 privind salarizarea şi alte drepturi băneşti ale personalului din administraţia centrală a Ministerului Afacerilor Externe şi de la misiunile diplomatice, oficiile consulare şi institutele culturale româneşti din străinătate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/79833",
+   "versions": [
+    {
+     "from": "2007-02-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/79833",
+     "sha256": "878401c65bb31790fb79592afee5ef6a751f44ff9f48682f0e30be5f0a57a513"
+    }
+   ]
+  },
+  {
+   "slug": "oug-10-2008",
+   "path": "oug/2008/10",
+   "short": "OUG nr. 10/2008",
+   "title": "Ordonanța de urgență a Guvernului nr. 10/2008 pentru modificarea şi completarea Legii nr. 299/2007 privind sprijinul acordat românilor de pretutindeni",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/89746",
+   "versions": [
+    {
+     "from": "2008-02-20",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/89746",
+     "sha256": "93c20411d6d71d44fef4b30769ebbc1a151dc11afc38d6e5436bea9520ed3602"
+    }
+   ]
+  },
+  {
+   "slug": "oug-10-2010",
+   "path": "oug/2010/10",
+   "short": "OUG nr. 10/2010",
+   "title": "Ordonanța de urgență a Guvernului nr. 10/2010 privind ratificarea Scrisorii de intenţie, semnată de autorităţile române la Bucureşti la 5 februarie 2010 şi aprobată prin Decizia Consiliului director al Fondului Monetar Internaţional din 19 februarie 2010, şi pentru modificarea Ordonanţei de urgenţă a Guvernului nr. 99/2009 privind ratificarea Aranjamentului stand-by dintre România şi Fondul Monetar Internaţional, convenit prin Scrisoarea de intenţie transmisă de autorităţile române, semnată la Bucureşti la 24 aprilie 2009, şi prin Decizia Consiliului director al Fondului Monetar Internaţional din 4 mai 2009, precum şi a Scrisorii suplimentare de intenţie, semnată de autorităţile române la data de 8 septembrie 2009 şi aprobată prin Decizia Consiliului director al Fondului Monetar Internaţional din 21 septembrie 2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/116453",
+   "versions": [
+    {
+     "from": "2010-02-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/116453",
+     "sha256": "8670e827d8b68900e7a69c8d369fbb15ea3eaff940ae275b245cf8ab93a8e342"
     }
    ]
   },
@@ -569642,6 +570497,51 @@
    ]
   },
   {
+   "slug": "oug-10-2014",
+   "path": "oug/2014/10",
+   "short": "OUG nr. 10/2014",
+   "title": "Ordonanța de urgență a Guvernului nr. 10/2014 privind unele măsuri temporare în vederea consolidării cadrului normativ necesar aplicării unor dispoziţii din Legea nr. 9/1998 privind acordarea de compensaţii cetăţenilor români pentru bunurile trecute în proprietatea statului bulgar în urma aplicării Tratatului dintre România şi Bulgaria, semnat la Craiova la 7 septembrie 1940, precum şi din Legea nr. 290/2003 privind acordarea de despăgubiri sau compensaţii cetăţenilor români pentru bunurile proprietate a acestora, sechestrate, reţinute sau rămase în Basarabia, Bucovina de Nord şi Ţinutul Herţa, ca urmare a stării de război şi a aplicării Tratatului de Pace între România şi Puterile Aliate şi Asociate, semnat la Paris la 10 februarie 1947",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/156379",
+   "versions": [
+    {
+     "from": "2014-03-14",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/156379",
+     "sha256": "fb4891f07c6ef9dae4c9c9055810e08c3e2c619591830ff3395aa4e743933324"
+    }
+   ]
+  },
+  {
+   "slug": "oug-10-2015",
+   "path": "oug/2015/10",
+   "short": "OUG nr. 10/2015",
+   "title": "Ordonanța de urgență a Guvernului nr. 10/2015 pentru completarea Ordonanţei de urgenţă a Guvernului nr. 109/2011 privind guvernanţa corporativă a întreprinderilor publice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/168016",
+   "versions": [
+    {
+     "from": "2015-05-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168016",
+     "sha256": "99f5297045c6c98143ebeffa6fdf2a17c6493f651bf79647bda83b579e94850f"
+    }
+   ]
+  },
+  {
+   "slug": "oug-10-2016",
+   "path": "oug/2016/10",
+   "short": "OUG nr. 10/2016",
+   "title": "Ordonanța de urgență a Guvernului nr. 10/2016 privind stabilirea măsurilor necesare în vederea asigurării resurselor financiare pentru achiziţionarea unui bun aparţinând patrimoniului cultural naţional mobil clasat în categoria tezaurul patrimoniului cultural naţional mobil",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/177278",
+   "versions": [
+    {
+     "from": "2016-04-06",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/177278",
+     "sha256": "645f66f9faa14a219fb7246eff68aa1063d95789c02857822ac019abc94941ca"
+    }
+   ]
+  },
+  {
    "slug": "oug-10-2019",
    "path": "oug/2019/10",
    "short": "OUG nr. 10/2019",
@@ -569653,6 +570553,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/211162",
      "sha256": "e5a150c99458f18cda1872d06959a9e210bc4cf56136aa7bb7822b46215a49fc"
+    }
+   ]
+  },
+  {
+   "slug": "oug-10-2020",
+   "path": "oug/2020/10",
+   "short": "OUG nr. 10/2020",
+   "title": "Ordonanța de urgență a Guvernului nr. 10/2020 pentru completarea Legii nr. 263/2010 privind sistemul unitar de pensii publice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/222778",
+   "versions": [
+    {
+     "from": "2020-02-07",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/222778",
+     "sha256": "ee0347833211607819c95beceec17732b58b0c5ef363efc04341c4c9a21eb719"
     }
    ]
   },
@@ -569744,6 +570659,66 @@
    ]
   },
   {
+   "slug": "oug-100-1999",
+   "path": "oug/1999/100",
+   "short": "OUG nr. 100/1999",
+   "title": "Ordonanța de urgență a Guvernului nr. 100/1999 privind unele măsuri de protecţie socială a cadrelor militare şi a salariaţilor civili, care se vor aplica în perioada restructurării aparatului central, comandamentelor de arma, inspectoratelor generale, marilor unităţi, unităţilor şi a formaţiunilor din compunerea Ministerului de Interne",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18603",
+   "versions": [
+    {
+     "from": "1999-06-30",
+     "units": 27,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18603",
+     "sha256": "771797a4932134030e589f9a310d6a8a8494940b71792d9d70f3f33a157e21b1"
+    }
+   ]
+  },
+  {
+   "slug": "oug-100-2000",
+   "path": "oug/2000/100",
+   "short": "OUG nr. 100/2000",
+   "title": "Ordonanța de urgență a Guvernului nr. 100/2000 pentru modificarea anexei nr. 2 la Ordonanţa Guvernului nr. 39/1999 privind finalizarea procesului de restructurare a Băncii Române de Comerţ Exterior - Bancorex - S.A. şi fuziunea prin absorbire a acestei bănci cu Banca Comercială Română - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/23120",
+   "versions": [
+    {
+     "from": "2000-07-04",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/23120",
+     "sha256": "a436a552f78bf7a9d494e7e1fedfaf36cf615f9b5bbe148f909e722cf13d7778"
+    }
+   ]
+  },
+  {
+   "slug": "oug-100-2001",
+   "path": "oug/2001/100",
+   "short": "OUG nr. 100/2001",
+   "title": "Ordonanța de urgență a Guvernului nr. 100/2001 privind acumularea cantităţii de 3 milioane tone de cărbune energetic de către Administraţia Naţionala a Rezervelor de Stat în anul 2001",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/29316",
+   "versions": [
+    {
+     "from": "2001-06-29",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/29316",
+     "sha256": "dc8b9dbc3858431ee601c759ef47df21dcea0427e337f371c6fefce8019bc976"
+    }
+   ]
+  },
+  {
+   "slug": "oug-100-2003",
+   "path": "oug/2003/100",
+   "short": "OUG nr. 100/2003",
+   "title": "Ordonanța de urgență a Guvernului nr. 100/2003 pentru modificarea Legii nr. 15/1998 cu privire la asigurările facultative de bunuri, persoane şi răspundere civilă în Ministerul Apărării Naţionale, Ministerul de Interne, Serviciul Român de Informaţii, Serviciul de Informaţii Externe, Serviciul de Protecţie şi Paza, Serviciul de Telecomunicaţii Speciale şi Ministerul Justiţiei - Direcţia Generală a Penitenciarelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/47199",
+   "versions": [
+    {
+     "from": "2003-10-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/47199",
+     "sha256": "03159b956f6522314e0bf173555398cbc5f4ed5e7004369700dea8378f4ac412"
+    }
+   ]
+  },
+  {
    "slug": "oug-100-2005",
    "path": "oug/2005/100",
    "short": "OUG nr. 100/2005",
@@ -569819,6 +570794,36 @@
    ]
   },
   {
+   "slug": "oug-100-2009",
+   "path": "oug/2009/100",
+   "short": "OUG nr. 100/2009",
+   "title": "Ordonanța de urgență a Guvernului nr. 100/2009 pentru abrogarea alin. (8) al art. 19 din Ordonanţa Guvernului nr. 19/2009 cu privire la rectificarea bugetului de stat pe anul 2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/111394",
+   "versions": [
+    {
+     "from": "2009-09-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/111394",
+     "sha256": "b3749df938738d0475cd990ca4cf8bb0653070adb0d3f46007d1ebba7ea0ff72"
+    }
+   ]
+  },
+  {
+   "slug": "oug-100-2010",
+   "path": "oug/2010/100",
+   "short": "OUG nr. 100/2010",
+   "title": "Ordonanța de urgență a Guvernului nr. 100/2010 pentru modificarea Ordonanţei Guvernului nr. 63/2001 privind înfiinţarea Inspectoratului de Stat în Construcţii - I.S.C",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/123662",
+   "versions": [
+    {
+     "from": "2010-11-17",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/123662",
+     "sha256": "0dff0ecc6033e22bb8f6664c521b8c1edf6c1a7684a859896f9e237e8ee77511"
+    }
+   ]
+  },
+  {
    "slug": "oug-100-2016",
    "path": "oug/2016/100",
    "short": "OUG nr. 100/2016",
@@ -569830,6 +570835,36 @@
      "units": 16,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/185079",
      "sha256": "2a1aa8b241637b631f9913b9f30e25086f9728a4abbadc994aef234dfe129383"
+    }
+   ]
+  },
+  {
+   "slug": "oug-100-2017",
+   "path": "oug/2017/100",
+   "short": "OUG nr. 100/2017",
+   "title": "Ordonanța de urgență a Guvernului nr. 100/2017 pentru completarea Ordonanţei de urgenţă a Guvernului nr. 77/2011 privind stabilirea unor contribuţii pentru finanţarea unor cheltuieli în domeniul sănătăţii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/195776",
+   "versions": [
+    {
+     "from": "2017-12-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/195776",
+     "sha256": "91aa7e4ae36b70d6fcf9cdc9efba5b2e0e745ab8c9d178875f64f2522425081e"
+    }
+   ]
+  },
+  {
+   "slug": "oug-100-2020",
+   "path": "oug/2020/100",
+   "short": "OUG nr. 100/2020",
+   "title": "Ordonanța de urgență a Guvernului nr. 100/2020 pentru prorogarea termenului prevăzut la art. III alin. (3) din Ordonanţa de urgenţă a Guvernului nr. 1/2020 privind unele măsuri fiscal-bugetare şi pentru modificarea şi completarea unor acte normative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/227112",
+   "versions": [
+    {
+     "from": "2020-06-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/227112",
+     "sha256": "ee80ae91fac577a048dcaec8a53cdcd55ef21ad068e522e6e3760938711d715c"
     }
    ]
   },
@@ -569912,6 +570947,36 @@
    ]
   },
   {
+   "slug": "oug-101-2003",
+   "path": "oug/2003/101",
+   "short": "OUG nr. 101/2003",
+   "title": "Ordonanța de urgență a Guvernului nr. 101/2003 pentru modificarea şi completarea Legii nr. 15/2003 privind sprijinul acordat tinerilor pentru construirea unei locuinţe proprietate personală",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/47190",
+   "versions": [
+    {
+     "from": "2003-10-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/47190",
+     "sha256": "72951f3619ae124f31fea62d6ab7512c8f435fdd9179a08d89f0c335926d2e25"
+    }
+   ]
+  },
+  {
+   "slug": "oug-101-2004",
+   "path": "oug/2004/101",
+   "short": "OUG nr. 101/2004",
+   "title": "Ordonanța de urgență a Guvernului nr. 101/2004 privind preluarea de către Autoritatea pentru Valorificarea Activelor Statului a unor creanţe fiscale asupra societăţilor comerciale \"RAFO\" - S.A. Oneşti şi \"CAROM\" - S.A. Oneşti",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/56761",
+   "versions": [
+    {
+     "from": "2004-11-18",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/56761",
+     "sha256": "df6de1c99421400637313778184b113e32ede41d8a0a6bfffb55cab3ce1ba4f8"
+    }
+   ]
+  },
+  {
    "slug": "oug-101-2005",
    "path": "oug/2005/101",
    "short": "OUG nr. 101/2005",
@@ -569923,6 +570988,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/63380",
      "sha256": "0f10129101cbf7be6028b4a0ce31f9ca2876f632fc92d5b3113ac1edaee2833c"
+    }
+   ]
+  },
+  {
+   "slug": "oug-101-2006",
+   "path": "oug/2006/101",
+   "short": "OUG nr. 101/2006",
+   "title": "Ordonanța de urgență a Guvernului nr. 101/2006 privind reorganizarea Autorităţii pentru Valorificarea Activelor Statului prin comasarea prin absorbţie cu Oficiul Participaţiilor Statului şi Privatizării în Industrie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/77891",
+   "versions": [
+    {
+     "from": "2006-12-20",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/77891",
+     "sha256": "37140f9c6086ae1f7a97d858ab9333237582da180471698ecbf330c0af232cc6"
     }
    ]
   },
@@ -570047,6 +571127,21 @@
    ]
   },
   {
+   "slug": "oug-101-2022",
+   "path": "oug/2022/101",
+   "short": "OUG nr. 101/2022",
+   "title": "Ordonanța de urgență a Guvernului nr. 101/2022 privind reglementarea unor măsuri fiscal-bugetare pentru suportarea de la bugetul de stat a sumelor aferente reducerilor procentuale şi/sau corecţiilor financiare aplicate pentru abaterile de la conformitatea cu legislaţia din domeniul achiziţiilor publice, precum şi a altor creanţe bugetare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/256916",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/256916",
+     "sha256": "baaac664b2f9c3d68243baeea0018e55e2ac5e8743bd717b2c45ecc9dba73ba2"
+    }
+   ]
+  },
+  {
    "slug": "oug-101-2023",
    "path": "oug/2023/101",
    "short": "OUG nr. 101/2023",
@@ -570079,6 +571174,36 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/287662",
      "sha256": "c8c32c4bae09917ca8af827126a08a628c29750f6f3fbd6b0a90cf61adadd9ab"
+    }
+   ]
+  },
+  {
+   "slug": "oug-102-2000",
+   "path": "oug/2000/102",
+   "short": "OUG nr. 102/2000",
+   "title": "Ordonanța de urgență a Guvernului nr. 102/2000 pentru modificarea art. 6 din Ordonanţa de urgenţă a Guvernului nr. 170/1999 privind acordarea, în mod gratuit, a asistenţei medicale, medicamentelor şi protezelor pentru unele categorii de persoane prevăzute în legi speciale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/23156",
+   "versions": [
+    {
+     "from": "2000-07-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/23156",
+     "sha256": "f38a74a1e2739dd44dc38324db574714db6dc09733cc258c5ca391ff4c7831f9"
+    }
+   ]
+  },
+  {
+   "slug": "oug-102-2003",
+   "path": "oug/2003/102",
+   "short": "OUG nr. 102/2003",
+   "title": "Ordonanța de urgență a Guvernului nr. 102/2003 pentru modificarea Ordonanţei de urgenta a Guvernului nr. 43/2002 privind Parchetul Naţional Anticorupţie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/47200",
+   "versions": [
+    {
+     "from": "2003-10-26",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/47200",
+     "sha256": "ffd7ec8e50acbd0fe07ed86303bb8cc0886ce96ac76464218a7bd0cedadb263f"
     }
    ]
   },
@@ -570157,6 +571282,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/111573",
      "sha256": "153b90e5b9ed66da3b7a1da35d20caa385cd303708e26b26e74a25c7c1fe1de9"
+    }
+   ]
+  },
+  {
+   "slug": "oug-102-2010",
+   "path": "oug/2010/102",
+   "short": "OUG nr. 102/2010",
+   "title": "Ordonanța de urgență a Guvernului nr. 102/2010 pentru modificarea şi completarea Legii vânătorii şi a protecţiei fondului cinegetic nr. 407/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/124150",
+   "versions": [
+    {
+     "from": "2010-12-03",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/124150",
+     "sha256": "07f3a4c2edcccb7d76f15539cb5e511a90dc4740bea8180e11dae0985dbe8f15"
     }
    ]
   },
@@ -570263,6 +571403,21 @@
    ]
   },
   {
+   "slug": "oug-103-2001",
+   "path": "oug/2001/103",
+   "short": "OUG nr. 103/2001",
+   "title": "Ordonanța de urgență a Guvernului nr. 103/2001 pentru completarea art. 1 din Ordonanţa de urgenţă a Guvernului nr. 73/2001 privind scutirea temporară de la plata taxelor vamale a unor bunuri provenite din import",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/29324",
+   "versions": [
+    {
+     "from": "2001-06-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/29324",
+     "sha256": "8b071ee37ad63a8b90470b0f580df58162d0f6819d7ce6e4396495d4f8dfac5f"
+    }
+   ]
+  },
+  {
    "slug": "oug-103-2003",
    "path": "oug/2003/103",
    "short": "OUG nr. 103/2003",
@@ -570274,6 +571429,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/47202",
      "sha256": "f236cb579ce6d8e6793b31efbd2987f01765a490995f755a5d1c4ac4efcfa126"
+    }
+   ]
+  },
+  {
+   "slug": "oug-103-2004",
+   "path": "oug/2004/103",
+   "short": "OUG nr. 103/2004",
+   "title": "Ordonanța de urgență a Guvernului nr. 103/2004 pentru modificarea Ordonanţei de urgenţă a Guvernului nr. 43/2002 privind Parchetul Naţional Anticorupţie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/56947",
+   "versions": [
+    {
+     "from": "2004-11-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/56947",
+     "sha256": "9c5f2894e15c6da8b9f0e20ff09c4faa8568af3ffe277ffe00d4f513932278ef"
     }
    ]
   },
@@ -570362,6 +571532,21 @@
    ]
   },
   {
+   "slug": "oug-103-2018",
+   "path": "oug/2018/103",
+   "short": "OUG nr. 103/2018",
+   "title": "Ordonanța de urgență a Guvernului nr. 103/2018 pentru modificarea art. 1 din Legea nr. 49/1991 privind acordarea de indemnizaţii şi sporuri invalizilor, veteranilor şi văduvelor de război",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/208308",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/208308",
+     "sha256": "4b0465edceae2eeb52cb2fa759d648f5fe88596c98bc49d5bde046c221ed0f91"
+    }
+   ]
+  },
+  {
    "slug": "oug-103-2021",
    "path": "oug/2021/103",
    "short": "OUG nr. 103/2021",
@@ -570419,6 +571604,36 @@
    ]
   },
   {
+   "slug": "oug-104-2000",
+   "path": "oug/2000/104",
+   "short": "OUG nr. 104/2000",
+   "title": "Ordonanța de urgență a Guvernului nr. 104/2000 privind reinstituirea Ordinului şi Medaliei Naţionale Pentru Merit",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/23255",
+   "versions": [
+    {
+     "from": "2000-07-10",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/23255",
+     "sha256": "778279d08e1fcf34208b17448d49942ff7e415586b1874cc1c6862a432b19d4a"
+    }
+   ]
+  },
+  {
+   "slug": "oug-104-2003",
+   "path": "oug/2003/104",
+   "short": "OUG nr. 104/2003",
+   "title": "Ordonanța de urgență a Guvernului nr. 104/2003 privind aprobarea scoaterii din rezerva de stat, sub forma de împrumut, a unor cantităţi de combustibil pentru Societatea Comercială de Producere a Energiei Electrice şi Termice \"Termoelectrica\" - S.A., filialele sale, Regia Autonomă pentru Activităţi Nucleare - Sucursala \"ROMAG-TERMO\" şi centralele termice şi electrice de termoficare aflate în administrarea consiliilor judeţene şi locale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/47203",
+   "versions": [
+    {
+     "from": "2003-10-26",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/47203",
+     "sha256": "a9f1d7636e7402fed8f83f70952b4399cc1f8ce4a36df5b5afe1c203f4d7f38a"
+    }
+   ]
+  },
+  {
    "slug": "oug-104-2004",
    "path": "oug/2004/104",
    "short": "OUG nr. 104/2004",
@@ -570434,6 +571649,21 @@
    ]
   },
   {
+   "slug": "oug-104-2006",
+   "path": "oug/2006/104",
+   "short": "OUG nr. 104/2006",
+   "title": "Ordonanța de urgență a Guvernului nr. 104/2006 pentru modificarea alin. (3) al art. 190 din Legea nr. 95/2006 privind reforma în domeniul sănătăţii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/77822",
+   "versions": [
+    {
+     "from": "2006-12-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/77822",
+     "sha256": "aadde4c1a9bc62d9e603616fbcabfc36fdb0aff9c1ece14aa931c0c7682c2b00"
+    }
+   ]
+  },
+  {
    "slug": "oug-104-2007",
    "path": "oug/2007/104",
    "short": "OUG nr. 104/2007",
@@ -570445,6 +571675,21 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85981",
      "sha256": "dbd55a04f10b2811e8ed329f4a6ef3f40380ce58a950fa822f051a85a398018b"
+    }
+   ]
+  },
+  {
+   "slug": "oug-104-2008",
+   "path": "oug/2008/104",
+   "short": "OUG nr. 104/2008",
+   "title": "Ordonanța de urgență a Guvernului nr. 104/2008 pentru modificarea art. 5 din Ordonanţa de urgenţă a Guvernului nr. 59/2006 privind asigurarea de la bugetul de stat a cofinanţării publice nerambursabile pentru proiectele de investiţii din cadrul Programului SAPARD",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97415",
+   "versions": [
+    {
+     "from": "2008-09-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97415",
+     "sha256": "9d5e619ee3742a9c2a9c6ef359dd7ab8e7c69bdcd56fad27c7a49ef63c9f35ad"
     }
    ]
   },
@@ -570584,6 +571829,21 @@
    ]
   },
   {
+   "slug": "oug-104-2024",
+   "path": "oug/2024/104",
+   "short": "OUG nr. 104/2024",
+   "title": "Ordonanța de urgență a Guvernului nr. 104/2024 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 196/2005 privind Fondul pentru mediu, precum şi pentru modificarea art. 22 din Ordonanţa de urgenţă a Guvernului nr. 60/2022 privind stabilirea cadrului instituţional şi financiar de implementare şi gestionare a fondurilor alocate României prin Fondul pentru modernizare, precum şi pentru modificarea şi completarea unor acte normative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/287863",
+   "versions": [
+    {
+     "from": "2024-08-30",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/287863",
+     "sha256": "ad0717cc401654f11934eb5e492a86264e8341c5ac0ef823054cdd991b188ed3"
+    }
+   ]
+  },
+  {
    "slug": "oug-105-2000",
    "path": "oug/2000/105",
    "short": "OUG nr. 105/2000",
@@ -570631,6 +571891,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/204869",
      "sha256": "8266365d5b1db7c8bb9ed0340d6f5bf0467ae18e9eb446f5c5e4694dabb90b68"
+    }
+   ]
+  },
+  {
+   "slug": "oug-105-2006",
+   "path": "oug/2006/105",
+   "short": "OUG nr. 105/2006",
+   "title": "Ordonanța de urgență a Guvernului nr. 105/2006 pentru modificarea Legii tinerilor nr. 350/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/77913",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/77913",
+     "sha256": "7b4b14604a63c1870073a8fc36820bbc8682618bafee709912e1475e9a6ab860"
     }
    ]
   },
@@ -570719,6 +571994,21 @@
    ]
   },
   {
+   "slug": "oug-105-2017",
+   "path": "oug/2017/105",
+   "short": "OUG nr. 105/2017",
+   "title": "Ordonanța de urgență a Guvernului nr. 105/2017 pentru modificarea art. 23 alin. (1) lit. c) din Legea vânătorii şi a protecţiei fondului cinegetic nr. 407/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/196040",
+   "versions": [
+    {
+     "from": "2017-12-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/196040",
+     "sha256": "cca8d4f2403f76bcc0b90a42db15720c868d5c527ca28676e7e11b6878c4068b"
+    }
+   ]
+  },
+  {
    "slug": "oug-105-2018",
    "path": "oug/2018/105",
    "short": "OUG nr. 105/2018",
@@ -570776,6 +572066,21 @@
    ]
   },
   {
+   "slug": "oug-105-2023",
+   "path": "oug/2023/105",
+   "short": "OUG nr. 105/2023",
+   "title": "Ordonanța de urgență a Guvernului nr. 105/2023 privind instituirea unor măsuri în derularea Programului naţional de dezvoltare locală şi a Programului naţional de investiţii \"Anghel Saligny\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/276611",
+   "versions": [
+    {
+     "from": "2023-11-24",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/276611",
+     "sha256": "a55b544cd73e9b2dd2f260be8e625a8a5e026033dc749e92a773deec9e7a1eb3"
+    }
+   ]
+  },
+  {
    "slug": "oug-106-2000",
    "path": "oug/2000/106",
    "short": "OUG nr. 106/2000",
@@ -570787,6 +572092,36 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/23251",
      "sha256": "d8594df628423a3561f796f6dafe785a16fd7741847be6bf4186bc072e2b7615"
+    }
+   ]
+  },
+  {
+   "slug": "oug-106-2003",
+   "path": "oug/2003/106",
+   "short": "OUG nr. 106/2003",
+   "title": "Ordonanța de urgență a Guvernului nr. 106/2003 pentru completarea art. 41 din Ordonanţa de urgenţă a Guvernului nr. 60/2001 privind achiziţiile publice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/47189",
+   "versions": [
+    {
+     "from": "2003-10-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/47189",
+     "sha256": "c157dffe7de62025ef033d69bfaf1c75d5c3a4147b5e3cf97dfa058540869eaa"
+    }
+   ]
+  },
+  {
+   "slug": "oug-106-2004",
+   "path": "oug/2004/106",
+   "short": "OUG nr. 106/2004",
+   "title": "Ordonanța de urgență a Guvernului nr. 106/2004 privind stabilirea indemnizaţiilor unor aleşi locali pentru anul 2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/56984",
+   "versions": [
+    {
+     "from": "2004-11-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/56984",
+     "sha256": "8a436400c51d779bafde7f1056ad7e83bc25e0b7f858846a51c8795dc05e1629"
     }
    ]
   },
@@ -570808,6 +572143,36 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/204866",
      "sha256": "a6d007f3c654207516ea12cdd441453e8ae8f17d61b21f6f5bad51cb79b23895"
+    }
+   ]
+  },
+  {
+   "slug": "oug-106-2006",
+   "path": "oug/2006/106",
+   "short": "OUG nr. 106/2006",
+   "title": "Ordonanța de urgență a Guvernului nr. 106/2006 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 19/2003 privind organizarea şi funcţionarea Corpului consilierilor de integrare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/78003",
+   "versions": [
+    {
+     "from": "2006-12-27",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/78003",
+     "sha256": "e835269e5653ca197cee58388c2a1896c58f4ac7a6a39a95e9e94b0d5182c69c"
+    }
+   ]
+  },
+  {
+   "slug": "oug-106-2007",
+   "path": "oug/2007/106",
+   "short": "OUG nr. 106/2007",
+   "title": "Ordonanța de urgență a Guvernului nr. 106/2007 pentru modificarea şi completarea Legii nr. 571/2003 privind Codul fiscal",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86196",
+   "versions": [
+    {
+     "from": "2008-01-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86196",
+     "sha256": "ef7e2fc4d4fa259729e9c3b185824f0edd67af072d6d80b358caa40d002cd065"
     }
    ]
   },
@@ -570848,6 +572213,36 @@
    ]
   },
   {
+   "slug": "oug-106-2010",
+   "path": "oug/2010/106",
+   "short": "OUG nr. 106/2010",
+   "title": "Ordonanța de urgență a Guvernului nr. 106/2010 pentru modificarea anexei nr. 4 la Ordonanţa de urgenţă a Guvernului nr. 107/2002 privind înfiinţarea Administraţiei Naţionale \"Apele Române\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/124276",
+   "versions": [
+    {
+     "from": "2010-12-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/124276",
+     "sha256": "e6133e134aef00df3cafa6a79b2da70e15ef19477de873fb24662e379c1817c6"
+    }
+   ]
+  },
+  {
+   "slug": "oug-106-2011",
+   "path": "oug/2011/106",
+   "short": "OUG nr. 106/2011",
+   "title": "Ordonanța de urgență a Guvernului nr. 106/2011 pentru modificarea titlului XI \"Renta viageră agricolă\" din Legea nr. 247/2005 privind reforma în domeniile proprietăţii şi justiţiei, precum şi unele măsuri adiacente şi pentru stabilirea unor măsuri privind plata rentei viagere agricole în anul 2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/133408",
+   "versions": [
+    {
+     "from": "2011-12-06",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133408",
+     "sha256": "f29f22d15ce504783ade6a845e368d71dfb6affad9f6c109874e116850825345"
+    }
+   ]
+  },
+  {
    "slug": "oug-106-2013",
    "path": "oug/2013/106",
    "short": "OUG nr. 106/2013",
@@ -570880,6 +572275,36 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/196041",
      "sha256": "52ce953af7b45786964f4aba2462fe3503cfcbf339dac8982c325e0f34c5d1ab"
+    }
+   ]
+  },
+  {
+   "slug": "oug-106-2018",
+   "path": "oug/2018/106",
+   "short": "OUG nr. 106/2018",
+   "title": "Ordonanța de urgență a Guvernului nr. 106/2018 privind prorogarea unor termene",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/208716",
+   "versions": [
+    {
+     "from": "2018-12-13",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/208716",
+     "sha256": "14be87eff6fbbfdb44b01cc8467a14ae65c04d0744744be9d60c49f8fb8570bb"
+    }
+   ]
+  },
+  {
+   "slug": "oug-106-2021",
+   "path": "oug/2021/106",
+   "short": "OUG nr. 106/2021",
+   "title": "Ordonanța de urgență a Guvernului nr. 106/2021 privind unele măsuri pentru organizarea şi funcţionarea Societăţii Române de Radiodifuziune şi Societăţii Române de Televiziune",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/246746",
+   "versions": [
+    {
+     "from": "2021-09-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/246746",
+     "sha256": "04a724902020524b5280101808f849d66be616b43aa86560efda5716a72070d4"
     }
    ]
   },
@@ -570934,6 +572359,66 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/29290",
      "sha256": "4f3974fa19e6df6b82fb8bb7b6db9800ea5f2cfd512b7aa23702f61859cd019e"
+    }
+   ]
+  },
+  {
+   "slug": "oug-107-2004",
+   "path": "oug/2004/107",
+   "short": "OUG nr. 107/2004",
+   "title": "Ordonanța de urgență a Guvernului nr. 107/2004 pentru modificarea titlului capitolului II din anexa nr. Ib la Ordonanţa de urgenţă a Guvernului nr. 191/2002 privind creşterile salariale ce se vor acorda în anul 2003 personalului bugetar salarizat potrivit Ordonanţei de urgenţă a Guvernului nr. 24/2000 privind sistemul de stabilire a salariilor de bază pentru personalul contractual din sectorul bugetar şi personalului salarizat potrivit anexelor nr. II şi III la Legea nr. 154/1998 privind sistemul de stabilire a salariilor de bază în sectorul bugetar şi a indemnizaţiilor pentru persoane care ocupă funcţii de demnitate publică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/56978",
+   "versions": [
+    {
+     "from": "2004-11-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/56978",
+     "sha256": "82a468f31c85083b159843aa3ff1910226a1b5bb27b3e951619fc7343f890074"
+    }
+   ]
+  },
+  {
+   "slug": "oug-107-2005",
+   "path": "oug/2005/107",
+   "short": "OUG nr. 107/2005",
+   "title": "Ordonanța de urgență a Guvernului nr. 107/2005 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 150/2002 privind organizarea şi funcţionarea sistemului de asigurări sociale de sănătate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/63402",
+   "versions": [
+    {
+     "from": "2005-07-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/63402",
+     "sha256": "a3469aa58b8d3d48c37aef8f7c0da37250e405b9cd37a397fa16646e7ac31616"
+    }
+   ]
+  },
+  {
+   "slug": "oug-107-2008",
+   "path": "oug/2008/107",
+   "short": "OUG nr. 107/2008",
+   "title": "Ordonanța de urgență a Guvernului nr. 107/2008 pentru modificarea anexei nr. 1 la Ordonanţa Guvernului nr. 38/2003 privind salarizarea şi alte drepturi ale poliţiştilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97500",
+   "versions": [
+    {
+     "from": "2009-01-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97500",
+     "sha256": "9bb7e65515780c099698d463f31f3675144fee82f9c49bca790446d601f7bfdc"
+    }
+   ]
+  },
+  {
+   "slug": "oug-107-2009",
+   "path": "oug/2009/107",
+   "short": "OUG nr. 107/2009",
+   "title": "Ordonanța de urgență a Guvernului nr. 107/2009 privind modificarea art. III alin. (2) din Ordonanţa de urgenţă a Guvernului nr. 207/2008 pentru modificarea şi completarea Legii nr. 248/2005 privind regimul liberei circulaţii a cetăţenilor români în străinătate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/112197",
+   "versions": [
+    {
+     "from": "2009-10-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/112197",
+     "sha256": "109875b86638e70ad6e7f7a5f09490181b051466f47fcc6b0fee08fd6df4d204"
     }
    ]
   },
@@ -571033,6 +572518,21 @@
      "units": 9,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/300322",
      "sha256": "64d9cf8030dca2baf601c5a183203f0078161933fc574d5a6ce1a5764a655bf5"
+    }
+   ]
+  },
+  {
+   "slug": "oug-108-1999",
+   "path": "oug/1999/108",
+   "short": "OUG nr. 108/1999",
+   "title": "Ordonanța de urgență a Guvernului nr. 108/1999 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 68/1999 privind stimularea plăţii obligaţiilor fata de bugetul de stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18624",
+   "versions": [
+    {
+     "from": "1999-06-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18624",
+     "sha256": "407e231d1a6cb105b5a1a6db321156870bcccf833f4bd5ee5dcadda2c050e233"
     }
    ]
   },
@@ -571139,6 +572639,21 @@
    ]
   },
   {
+   "slug": "oug-109-2000",
+   "path": "oug/2000/109",
+   "short": "OUG nr. 109/2000",
+   "title": "Ordonanța de urgență a Guvernului nr. 109/2000 pentru modificarea şi completarea Ordonanţei Guvernului nr. 56/2000 privind reglementarea depozitarii cerealelor şi seminţelor oleaginoase, regimul certificatelor de depozit pentru acestea, precum şi constituirea Fondului de garantare pentru certificatele de depozit",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/23180",
+   "versions": [
+    {
+     "from": "2000-07-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/23180",
+     "sha256": "7e1edc1babedeff8513b38fcf7ca2df60db712a173cdcf964c142bef0c658c25"
+    }
+   ]
+  },
+  {
    "slug": "oug-109-2006",
    "path": "oug/2006/109",
    "short": "OUG nr. 109/2006",
@@ -571150,6 +572665,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/77953",
      "sha256": "e3201ed9fe0b77a72f5f9e085be5606b0a83cc6b05b8f153301ee047b6cc4d27"
+    }
+   ]
+  },
+  {
+   "slug": "oug-109-2007",
+   "path": "oug/2007/109",
+   "short": "OUG nr. 109/2007",
+   "title": "Ordonanța de urgență a Guvernului nr. 109/2007 pentru modificarea şi completarea Legii nr. 200/2004 privind recunoaşterea diplomelor şi calificărilor profesionale pentru profesiile reglementate din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86197",
+   "versions": [
+    {
+     "from": "2007-10-18",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86197",
+     "sha256": "b56ed418fff36ec6f15043f4fcf67c217b1cc155641cc8871a92da51f491effc"
     }
    ]
   },
@@ -571196,6 +572726,36 @@
    ]
   },
   {
+   "slug": "oug-109-2018",
+   "path": "oug/2018/109",
+   "short": "OUG nr. 109/2018",
+   "title": "Ordonanța de urgență a Guvernului nr. 109/2018 pentru modificarea şi completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/208914",
+   "versions": [
+    {
+     "from": "2018-12-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/208914",
+     "sha256": "99e310adf1e1a8b9214d542344993f852464ecce7fc4425f2ae58c43a74efb92"
+    }
+   ]
+  },
+  {
+   "slug": "oug-109-2020",
+   "path": "oug/2020/109",
+   "short": "OUG nr. 109/2020",
+   "title": "Ordonanța de urgență a Guvernului nr. 109/2020 pentru modificarea Ordonanţei Guvernului nr. 41/1994 privind autorizarea plăţii cotizaţiilor la organizaţiile internaţionale interguvernamentale la care România este parte, precum şi pentru aprobarea plăţii cotizaţiei anuale ce decurge din calitatea de membru a României în cadrul Forumului Internaţional al Transporturilor al Organizaţiei pentru Cooperare şi Dezvoltare Economică - OCDE",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/227661",
+   "versions": [
+    {
+     "from": "2020-07-07",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/227661",
+     "sha256": "39bdb663850cd9f3f066c534462531802c3a9ce8456327d4b62fa901ef3999a1"
+    }
+   ]
+  },
+  {
    "slug": "oug-109-2023",
    "path": "oug/2023/109",
    "short": "OUG nr. 109/2023",
@@ -571207,6 +572767,21 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/277148",
      "sha256": "151b3c1f11a4f59cc98ee5237b2625ac0d6a52c11a4fb50d6defb516a14ab222"
+    }
+   ]
+  },
+  {
+   "slug": "oug-11-2001",
+   "path": "oug/2001/11",
+   "short": "OUG nr. 11/2001",
+   "title": "Ordonanța de urgență a Guvernului nr. 11/2001 privind unele măsuri pentru achiziţionarea metalelor neferoase, a aliajelor acestora şi a deşeurilor neferoase reciclabile",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/26546",
+   "versions": [
+    {
+     "from": "2001-02-07",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/26546",
+     "sha256": "728ca8426dae064b1a7c78ce3cb1c01b159164416fb9f2b61ae5cb757620707e"
     }
    ]
   },
@@ -571249,6 +572824,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/202016",
      "sha256": "9a7c2bc00a576be56323771d57ee98687eab1360f927d105c71da91bbbe765ee"
+    }
+   ]
+  },
+  {
+   "slug": "oug-11-2011",
+   "path": "oug/2011/11",
+   "short": "OUG nr. 11/2011",
+   "title": "Ordonanța de urgență a Guvernului nr. 11/2011 privind utilizarea indicatorului de referinţă câştigul salarial mediu brut în actele normative din domeniul muncii şi protecţiei sociale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/126149",
+   "versions": [
+    {
+     "from": "2011-02-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/126149",
+     "sha256": "5cd6e508127cbf14bf95efb3ec1fbffa40e403c577379909133b2d2f5c43ae55"
     }
    ]
   },
@@ -571382,6 +572972,21 @@
    ]
   },
   {
+   "slug": "oug-11-2019",
+   "path": "oug/2019/11",
+   "short": "OUG nr. 11/2019",
+   "title": "Ordonanța de urgență a Guvernului nr. 11/2019 privind modificarea şi completarea unor acte normative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/211272",
+   "versions": [
+    {
+     "from": "2019-03-01",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/211272",
+     "sha256": "f7940c5be6aa20f8b03fac371e1a3c5f79c25617fda1473074eca990b10c1e5a"
+    }
+   ]
+  },
+  {
    "slug": "oug-11-2020",
    "path": "oug/2020/11",
    "short": "OUG nr. 11/2020",
@@ -571469,6 +573074,21 @@
    ]
   },
   {
+   "slug": "oug-11-2023",
+   "path": "oug/2023/11",
+   "short": "OUG nr. 11/2023",
+   "title": "Ordonanța de urgență a Guvernului nr. 11/2023 pentru modificarea şi completarea Legii nr. 64/2008 privind funcţionarea în condiţii de siguranţă a instalaţiilor sub presiune, instalaţiilor de ridicat şi a aparatelor consumatoare de combustibil",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/265699",
+   "versions": [
+    {
+     "from": "2023-03-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/265699",
+     "sha256": "0acee188f0521f5ae1987582585a8c905c54fd6eaf861e601000b80223507e34"
+    }
+   ]
+  },
+  {
    "slug": "oug-11-2025",
    "path": "oug/2025/11",
    "short": "OUG nr. 11/2025",
@@ -571480,6 +573100,156 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/295400",
      "sha256": "967357385b69d092a73f83511a0e4a79e9e65c9261a854a0ef122ca85e01ee13"
+    }
+   ]
+  },
+  {
+   "slug": "oug-11-2026",
+   "path": "oug/2026/11",
+   "short": "OUG nr. 11/2026",
+   "title": "Ordonanța de urgență a Guvernului nr. 11/2026 pentru modificarea şi completarea Legii nr. 76/2002 privind sistemul asigurărilor pentru şomaj şi stimularea ocupării forţei de muncă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/308123",
+   "versions": [
+    {
+     "from": "2026-03-09",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/308123",
+     "sha256": "cb3fd6cbbe8e0aef824f1ba5df289bca8c015f10fc6536f8d7908122062ea92a"
+    }
+   ]
+  },
+  {
+   "slug": "oug-110-2002",
+   "path": "oug/2002/110",
+   "short": "OUG nr. 110/2002",
+   "title": "Ordonanța de urgență a Guvernului nr. 110/2002 pentru modificarea şi completarea Ordonanţei Guvernului nr. 111/1999 privind reglementarea transferului unor echipamente specifice sectorului de drumuri, achiziţionate din împrumutul acordat de Banca Europeană pentru Reconstrucţie şi Dezvoltare, către societăţile comerciale înfiinţate prin reorganizarea Regiei Autonome ”Administraţia Naţionala a Drumurilor din România”",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/38564",
+   "versions": [
+    {
+     "from": "2002-09-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38564",
+     "sha256": "ac24541209270d071ebb45a05fd1a4234f781dbd1914d0ec15ca18df5b671f6b"
+    }
+   ]
+  },
+  {
+   "slug": "oug-110-2005",
+   "path": "oug/2005/110",
+   "short": "OUG nr. 110/2005",
+   "title": "Ordonanța de urgență a Guvernului nr. 110/2005 privind vânzarea spaţiilor proprietate privată a statului sau a unităţilor administrativ-teritoriale, cu destinaţia de cabinete medicale, precum şi a spaţiilor în care se desfăşoară activităţi conexe actului medical",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/63435",
+   "versions": [
+    {
+     "from": "2005-08-06",
+     "units": 30,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/63435",
+     "sha256": "a35f05969f6b859198c17e289a86b46e1172a0fa4fd3c17b4f1b814edfff3099"
+    }
+   ]
+  },
+  {
+   "slug": "oug-110-2006",
+   "path": "oug/2006/110",
+   "short": "OUG nr. 110/2006",
+   "title": "Ordonanța de urgență a Guvernului nr. 110/2006 pentru modificarea şi completarea Legii nr. 571/2003 privind Codul fiscal",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/78005",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/78005",
+     "sha256": "4d06621f6154294b5fb788286b234fcf5eafef5cba26cf983092105aefc7b4b6"
+    }
+   ]
+  },
+  {
+   "slug": "oug-110-2008",
+   "path": "oug/2008/110",
+   "short": "OUG nr. 110/2008",
+   "title": "Ordonanța de urgență a Guvernului nr. 110/2008 pentru modificarea Ordonanţei de urgenţă a Guvernului nr. 109/2005 privind transporturile rutiere",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97505",
+   "versions": [
+    {
+     "from": "2008-09-22",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97505",
+     "sha256": "04c5a8514ef428d2a98112502878f77129a20414776ef92262879e9ef6e489ba"
+    }
+   ]
+  },
+  {
+   "slug": "oug-110-2009",
+   "path": "oug/2009/110",
+   "short": "OUG nr. 110/2009",
+   "title": "Ordonanța de urgență a Guvernului nr. 110/2009 privind acordarea unor ajutoare de stat operatorilor economici care prestează serviciul public de producere, transport şi distribuţie a energiei termice în sistem centralizat către populaţie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/112190",
+   "versions": [
+    {
+     "from": "2009-10-12",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/112190",
+     "sha256": "5652ee3c16544fbf760b03bca4e2252fd5a72630613f69fe223b375e5ea18884"
+    }
+   ]
+  },
+  {
+   "slug": "oug-110-2010",
+   "path": "oug/2010/110",
+   "short": "OUG nr. 110/2010",
+   "title": "Ordonanța de urgență a Guvernului nr. 110/2010 pentru modificarea Ordonanţei de urgenţă a Guvernului nr. 118/2006 privind înfiinţarea, organizarea şi desfăşurarea activităţii aşezămintelor culturale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/124531",
+   "versions": [
+    {
+     "from": "2010-12-20",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/124531",
+     "sha256": "32458c65a9fb5f03677c1f0bad60228221eff24d1e2e86d11dbc36e5a85426ed"
+    }
+   ]
+  },
+  {
+   "slug": "oug-110-2011",
+   "path": "oug/2011/110",
+   "short": "OUG nr. 110/2011",
+   "title": "Ordonanța de urgență a Guvernului nr. 110/2011 pentru modificarea şi completarea unor acte normative în domeniile sănătăţii şi protecţiei sociale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/133436",
+   "versions": [
+    {
+     "from": "2011-12-07",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133436",
+     "sha256": "cecd9196625f970473cdd16657d2bd91c2e999964a810339f7a47276b0bd75d9"
+    }
+   ]
+  },
+  {
+   "slug": "oug-110-2013",
+   "path": "oug/2013/110",
+   "short": "OUG nr. 110/2013",
+   "title": "Ordonanța de urgență a Guvernului nr. 110/2013 pentru completarea Legii nr. 41/1994 privind organizarea şi funcţionarea Societăţii Române de Radiodifuziune şi Societăţii Române de Televiziune",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/153815",
+   "versions": [
+    {
+     "from": "2013-12-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/153815",
+     "sha256": "8e288d54b6584a53fe81c3c713c5a0317464825929d17634f4970c1303add252"
+    }
+   ]
+  },
+  {
+   "slug": "oug-110-2018",
+   "path": "oug/2018/110",
+   "short": "OUG nr. 110/2018",
+   "title": "Ordonanța de urgență a Guvernului nr. 110/2018 privind modificarea anexei la Ordonanţa de urgenţă a Guvernului nr. 92/2011 pentru aprobarea organizării unor acţiuni de informare şi promovare privind politicile aplicate în domeniul agriculturii şi dezvoltării rurale, în plan intern şi internaţional",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/209308",
+   "versions": [
+    {
+     "from": "2018-12-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/209308",
+     "sha256": "41ef9f7c013db814e2112cfc7a4300f4c5702a0ab0c6b97b80c55b3082f10911"
     }
    ]
   },
@@ -571562,6 +573332,36 @@
    ]
   },
   {
+   "slug": "oug-111-2001",
+   "path": "oug/2001/111",
+   "short": "OUG nr. 111/2001",
+   "title": "Ordonanța de urgență a Guvernului nr. 111/2001 pentru ratificarea Acordului de împrumut dintre România şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare, semnat la Bucureşti la 6 iulie 2001",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/30284",
+   "versions": [
+    {
+     "from": "2001-08-28",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/30284",
+     "sha256": "d72f9a075fec2694389dbda917e84d17b278d8d2d1500574b01c246ed3e959e2"
+    }
+   ]
+  },
+  {
+   "slug": "oug-111-2004",
+   "path": "oug/2004/111",
+   "short": "OUG nr. 111/2004",
+   "title": "Ordonanța de urgență a Guvernului nr. 111/2004 pentru modificarea şi completarea Legii nr. 315/2004 privind dezvoltarea regională în România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/57082",
+   "versions": [
+    {
+     "from": "2004-11-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/57082",
+     "sha256": "7e9e535aff3a89ac96a0ca38c406f37a50bcd6d531c80306fe69ad07d6fd19e7"
+    }
+   ]
+  },
+  {
    "slug": "oug-111-2005",
    "path": "oug/2005/111",
    "short": "OUG nr. 111/2005",
@@ -571600,6 +573400,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86163",
      "sha256": "2300a2aa0032ae5d771a32235b683770282b4283cf5552335de0442d7f446267"
+    }
+   ]
+  },
+  {
+   "slug": "oug-111-2007",
+   "path": "oug/2007/111",
+   "short": "OUG nr. 111/2007",
+   "title": "Ordonanța de urgență a Guvernului nr. 111/2007 pentru rectificarea bugetului asigurărilor sociale de stat pe anul 2007, aprobat prin Legea nr. 487/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86042",
+   "versions": [
+    {
+     "from": "2007-10-11",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86042",
+     "sha256": "257b7293ab89cb3dfee47ac50cee16265f4366cfefc5db41e1cf5f3aecaf77b9"
     }
    ]
   },
@@ -571721,6 +573536,21 @@
    ]
   },
   {
+   "slug": "oug-112-2002",
+   "path": "oug/2002/112",
+   "short": "OUG nr. 112/2002",
+   "title": "Ordonanța de urgență a Guvernului nr. 112/2002 pentru modificarea alin. (1) al art. 5 din Legea nr. 469/2002 privind unele măsuri pentru întărirea disciplinei contractuale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/38581",
+   "versions": [
+    {
+     "from": "2002-09-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38581",
+     "sha256": "dc7fca5309c8a9ede2232e275298d62f52ea0ab199abc89692a79a74867e3771"
+    }
+   ]
+  },
+  {
    "slug": "oug-112-2003",
    "path": "oug/2003/112",
    "short": "OUG nr. 112/2003",
@@ -571766,6 +573596,21 @@
    ]
   },
   {
+   "slug": "oug-112-2009",
+   "path": "oug/2009/112",
+   "short": "OUG nr. 112/2009",
+   "title": "Ordonanța de urgență a Guvernului nr. 112/2009 pentru modificarea Ordonanţei Guvernului nr. 7/2006 privind instituirea Programului de dezvoltare a infrastructurii şi a unor baze sportive din spaţiul rural",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/112189",
+   "versions": [
+    {
+     "from": "2009-10-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/112189",
+     "sha256": "fb5b1a72afd94064f738692b4688cb581e4b618d3297ed32d1a635c25264c90c"
+    }
+   ]
+  },
+  {
    "slug": "oug-112-2010",
    "path": "oug/2010/112",
    "short": "OUG nr. 112/2010",
@@ -571798,6 +573643,36 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133971",
      "sha256": "03ae435b5fb717da503dcd28902e5379542fbb0ed081390ffde3c6a2be2c3d58"
+    }
+   ]
+  },
+  {
+   "slug": "oug-112-2013",
+   "path": "oug/2013/112",
+   "short": "OUG nr. 112/2013",
+   "title": "Ordonanța de urgență a Guvernului nr. 112/2013 privind prorogarea unor termene prevăzute la art. 2 din Ordonanţa de urgenţă a Guvernului nr. 116/2011 pentru aprobarea unor măsuri cu privire la vânzarea unor pachete de acţiuni deţinute de Societatea Comercială de Distribuţie şi Furnizare a Energiei Electrice \"Electrica\" - S.A. şi pentru modificarea şi completarea Ordonanţei Guvernului nr. 31/2004 privind unele măsuri pentru derularea procesului de privatizare a Societăţii Comerciale de Distribuţie a Gazelor Naturale \"Distrigaz Sud\" - S.A. Bucureşti şi a Societăţii Comerciale de Distribuţie a Gazelor Naturale \"Distrigaz Nord\" - S.A. Târgu Mureş, precum şi a societăţilor comerciale filiale de distribuţie şi furnizare a energiei electrice, precum şi a termenelor prevăzute la alin. (2) şi (4) ale art. 6 din Ordonanţa de urgenţă a Guvernului nr. 114/2005 privind unele măsuri pentru derularea şi finalizarea privatizării societăţilor comerciale filiale de distribuţie şi furnizare a energiei electrice \"Electrica Moldova\" - S.A. şi \"Electrica Oltenia\" - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/153869",
+   "versions": [
+    {
+     "from": "2013-12-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/153869",
+     "sha256": "74180d7115cf4355138077361b56d9a433c36d7e86f2420c5c19d1166dc365b1"
+    }
+   ]
+  },
+  {
+   "slug": "oug-112-2017",
+   "path": "oug/2017/112",
+   "short": "OUG nr. 112/2017",
+   "title": "Ordonanța de urgență a Guvernului nr. 112/2017 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 57/2016 privind reglementarea unor măsuri în vederea conformării statului la unele obligaţii de mediu din sarcina operatorilor economici din industria extractivă, aflaţi sub autoritatea Ministerului Economiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/196285",
+   "versions": [
+    {
+     "from": "2017-12-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/196285",
+     "sha256": "7ee74f17266520e24e111a3147a1a22eb90566bd7d8439809f34eff9f8750372"
     }
    ]
   },
@@ -571913,6 +573788,36 @@
    ]
   },
   {
+   "slug": "oug-113-2001",
+   "path": "oug/2001/113",
+   "short": "OUG nr. 113/2001",
+   "title": "Ordonanța de urgență a Guvernului nr. 113/2001 pentru modificarea alin. 1 al art. 7 din Legea Curţii Supreme de Justiţie nr. 56/1993",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/30488",
+   "versions": [
+    {
+     "from": "2001-09-07",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/30488",
+     "sha256": "4d8826d849083cfd33c75d85c0988b25196067c6585e849d4ab38b1db3562e6f"
+    }
+   ]
+  },
+  {
+   "slug": "oug-113-2003",
+   "path": "oug/2003/113",
+   "short": "OUG nr. 113/2003",
+   "title": "Ordonanța de urgență a Guvernului nr. 113/2003 privind protecţia socială a salariaţilor disponibilizaţi prin concedieri colective din sectorul sanitar, în cadrul procesului de restructurare şi reorganizare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/47201",
+   "versions": [
+    {
+     "from": "2003-10-26",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/47201",
+     "sha256": "c0a21154d64092200c1f57cf85e74d92f59fb305293c3da110bc1e547982e989"
+    }
+   ]
+  },
+  {
    "slug": "oug-113-2005",
    "path": "oug/2005/113",
    "short": "OUG nr. 113/2005",
@@ -571972,6 +573877,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/86423",
      "sha256": "789b447d1da67d80c4414d2fc530eacf22851da3216905734be479aac9d9afe9"
+    }
+   ]
+  },
+  {
+   "slug": "oug-113-2008",
+   "path": "oug/2008/113",
+   "short": "OUG nr. 113/2008",
+   "title": "Ordonanța de urgență a Guvernului nr. 113/2008 pentru modificarea Ordonanţei de urgenţă a Guvernului nr. 156/2007 privind despăgubirea persoanelor fizice care au constituit depozite la Casa de Economii şi Consemnaţiuni C.E.C. - S.A. în vederea achiziţionării de autoturisme",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97645",
+   "versions": [
+    {
+     "from": "2008-09-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97645",
+     "sha256": "32db6758b5ac578858deb1699ccc366f14824e9b46d94a6fde05144baad4547e"
     }
    ]
   },
@@ -572047,6 +573967,36 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/219271",
      "sha256": "fb5b740059af4dcbcbb9431023a7571bad5d9042c19c837395b326deb93279c3"
+    }
+   ]
+  },
+  {
+   "slug": "oug-113-2020",
+   "path": "oug/2020/113",
+   "short": "OUG nr. 113/2020",
+   "title": "Ordonanța de urgență a Guvernului nr. 113/2020 pentru modificarea art. 2 din Legea nr. 114/2007 privind sprijinul financiar acordat de statul român Schitului românesc \"Prodromu\", de la Muntele Athos, Grecia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/227785",
+   "versions": [
+    {
+     "from": "2020-07-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/227785",
+     "sha256": "804d86911a34899fd4072511379608bd16b49ccde9b8a630efa1fbcf4c08d8bf"
+    }
+   ]
+  },
+  {
+   "slug": "oug-113-2021",
+   "path": "oug/2021/113",
+   "short": "OUG nr. 113/2021",
+   "title": "Ordonanța de urgență a Guvernului nr. 113/2021 pentru completarea Ordonanţei Guvernului nr. 45/1997 privind înfiinţarea Societăţii Comerciale \"Compania naţională de transporturi aeriene române - TAROM\" - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/246888",
+   "versions": [
+    {
+     "from": "2021-10-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/246888",
+     "sha256": "628ae03bfbe34654dfa4fad70bea8df2b07decdabfbf99149c7cd2f7effff86d"
     }
    ]
   },
@@ -572261,6 +574211,51 @@
    ]
   },
   {
+   "slug": "oug-115-2003",
+   "path": "oug/2003/115",
+   "short": "OUG nr. 115/2003",
+   "title": "Ordonanța de urgență a Guvernului nr. 115/2003 privind privatizarea Societăţii Comerciale \"Roman\" - S.A. Braşov şi constituirea parcului industrial pe platforma Societăţii Comerciale \"Roman\" - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/47236",
+   "versions": [
+    {
+     "from": "2003-10-26",
+     "units": 24,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/47236",
+     "sha256": "e74e3d96837d862c5252ffd679df6a8ea2a80793c3b8ed0cc13e4c32effcdf74"
+    }
+   ]
+  },
+  {
+   "slug": "oug-115-2005",
+   "path": "oug/2005/115",
+   "short": "OUG nr. 115/2005",
+   "title": "Ordonanța de urgență a Guvernului nr. 115/2005 pentru modificarea Ordonanţei de urgenta a Guvernului nr. 89/2004 privind vânzarea bunurilor imobile în care se desfăşoară activităţi de asistenţa sanitar-veterinara",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/63665",
+   "versions": [
+    {
+     "from": "2005-07-28",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/63665",
+     "sha256": "6d9e04af4b14ab27e4efb4c8865fe24fd64d9084c442024ec673cd43d4a88da0"
+    }
+   ]
+  },
+  {
+   "slug": "oug-115-2006",
+   "path": "oug/2006/115",
+   "short": "OUG nr. 115/2006",
+   "title": "Ordonanța de urgență a Guvernului nr. 115/2006 pentru modificarea şi completarea Legii nr. 102/2005 privind înfiinţarea, organizarea şi funcţionarea Autorităţii Naţionale de Supraveghere a Prelucrării Datelor cu Caracter Personal",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/77960",
+   "versions": [
+    {
+     "from": "2006-12-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/77960",
+     "sha256": "68bb14ca0c7f9b167b8d341c123dd7fe9d35581e083dc9bd64b45e57449239fc"
+    }
+   ]
+  },
+  {
    "slug": "oug-115-2007",
    "path": "oug/2007/115",
    "short": "OUG nr. 115/2007",
@@ -572272,6 +574267,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/86424",
      "sha256": "690713bcc440c19b9f8ec8003e25c0224f1fd18fbbbab8c2462926e94c58a124"
+    }
+   ]
+  },
+  {
+   "slug": "oug-115-2008",
+   "path": "oug/2008/115",
+   "short": "OUG nr. 115/2008",
+   "title": "Ordonanța de urgență a Guvernului nr. 115/2008 pentru modificarea Ordonanţei de urgenţă a Guvernului nr. 25/2007 privind stabilirea unor măsuri pentru reorganizarea aparatului de lucru al Guvernului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97646",
+   "versions": [
+    {
+     "from": "2008-09-29",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97646",
+     "sha256": "d2c1446d9d33c199ff3a5a289e4fc346b094e2538df1d4b44995b25c429c09c1"
     }
    ]
   },
@@ -572297,6 +574307,21 @@
    ]
   },
   {
+   "slug": "oug-115-2010",
+   "path": "oug/2010/115",
+   "short": "OUG nr. 115/2010",
+   "title": "Ordonanța de urgență a Guvernului nr. 115/2010 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 196/2005 privind Fondul pentru mediu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/124629",
+   "versions": [
+    {
+     "from": "2010-12-22",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/124629",
+     "sha256": "d5226e3e76e13dd7a65e0c52c83a190bfc2434e5abb597d3f1564ddf43af90ab"
+    }
+   ]
+  },
+  {
    "slug": "oug-115-2013",
    "path": "oug/2013/115",
    "short": "OUG nr. 115/2013",
@@ -572314,6 +574339,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167171",
      "sha256": "b6af9add1676ee61939f31d6e03f732de4108b284aa3482d5b7c8014858d599c"
+    }
+   ]
+  },
+  {
+   "slug": "oug-115-2017",
+   "path": "oug/2017/115",
+   "short": "OUG nr. 115/2017",
+   "title": "Ordonanța de urgență a Guvernului nr. 115/2017 pentru modificarea şi completarea unor acte normative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/196304",
+   "versions": [
+    {
+     "from": "2017-12-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/196304",
+     "sha256": "aeedbd6b6ae98b53b81df60c53beafe02cd1e55ae28c47d795308bc689dd6e26"
     }
    ]
   },
@@ -572402,6 +574442,51 @@
    ]
   },
   {
+   "slug": "oug-116-2002",
+   "path": "oug/2002/116",
+   "short": "OUG nr. 116/2002",
+   "title": "Ordonanța de urgență a Guvernului nr. 116/2002 privind modificarea Legii nr. 373/2002 pentru aprobarea finanţării repatrierii personalului navigant, debarcat sau aflat la bordul unor nave maritime de transport, achitarea drepturilor restante şi pentru menţinerea în siguranţa a navelor din patrimoniul Companiei de Navigaţie Maritima \"Romline\" - S.A. Constanţa",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/38606",
+   "versions": [
+    {
+     "from": "2002-09-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38606",
+     "sha256": "c9cccc8fe77588d75cab11ab2e668163388d1328a8dff8b433e415acf1f73860"
+    }
+   ]
+  },
+  {
+   "slug": "oug-116-2004",
+   "path": "oug/2004/116",
+   "short": "OUG nr. 116/2004",
+   "title": "Ordonanța de urgență a Guvernului nr. 116/2004 pentru modificarea art. 5 din Ordonanţa de urgenţă a Guvernului nr. 142/2000 privind înfiinţarea, organizarea şi funcţionarea Agenţiei SAPARD pentru implementarea tehnică şi financiară a Instrumentului special de preaderare pentru agricultură şi dezvoltare rurală",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/57092",
+   "versions": [
+    {
+     "from": "2004-11-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/57092",
+     "sha256": "22f98477df0465197db90557a9d177e7de9cdc670b9fdb36a976c0cc2456ef4d"
+    }
+   ]
+  },
+  {
+   "slug": "oug-116-2008",
+   "path": "oug/2008/116",
+   "short": "OUG nr. 116/2008",
+   "title": "Ordonanța de urgență a Guvernului nr. 116/2008 pentru modificarea alin. (2) şi (4) ale art. 6 din Ordonanţa de urgenţă a Guvernului nr. 114/2005 privind unele măsuri pentru derularea şi finalizarea privatizării societăţilor comerciale filiale de distribuţie şi furnizare a energiei electrice \"Electrica Moldova\" - S.A. şi \"Electrica Oltenia\" - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97693",
+   "versions": [
+    {
+     "from": "2008-09-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97693",
+     "sha256": "26fdb626696375b81e7a2b98eaa682874b754e0ee5dba2fd5e894a8b9bcea599"
+    }
+   ]
+  },
+  {
    "slug": "oug-116-2009",
    "path": "oug/2009/116",
    "short": "OUG nr. 116/2009",
@@ -572462,6 +574547,21 @@
    ]
   },
   {
+   "slug": "oug-116-2011",
+   "path": "oug/2011/116",
+   "short": "OUG nr. 116/2011",
+   "title": "Ordonanța de urgență a Guvernului nr. 116/2011 pentru aprobarea unor măsuri cu privire la vânzarea unor pachete de acţiuni deţinute de Societatea Comercială de Distribuţie şi Furnizare a Energiei Electrice \"Electrica\" - S.A. şi pentru modificarea şi completarea Ordonanţei Guvernului nr. 31/2004 privind unele măsuri pentru derularea procesului de privatizare a Societăţii Comerciale de Distribuţie a Gazelor Naturale \"Distrigaz Sud\" - S.A. Bucureşti şi a Societăţii Comerciale de Distribuţie a Gazelor Naturale \"Distrigaz Nord\" - S.A. Târgu Mureş, precum şi a societăţilor comerciale filiale de distribuţie şi furnizare a energiei electrice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/134142",
+   "versions": [
+    {
+     "from": "2011-12-29",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/134142",
+     "sha256": "26bd169901e56b291ba23efd15aa639007b0b1e629ea531ebfe00f6310641529"
+    }
+   ]
+  },
+  {
    "slug": "oug-116-2020",
    "path": "oug/2020/116",
    "short": "OUG nr. 116/2020",
@@ -572479,6 +574579,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/239358",
      "sha256": "fd28c7a8940e9a10152f11dff037e8caa4f9fb4819636df3f9bd5f0dfe041b16"
+    }
+   ]
+  },
+  {
+   "slug": "oug-116-2021",
+   "path": "oug/2021/116",
+   "short": "OUG nr. 116/2021",
+   "title": "Ordonanța de urgență a Guvernului nr. 116/2021 privind modificarea şi completarea Legii nr. 56/2020 pentru recunoaşterea meritelor personalului medical participant la acţiuni medicale împotriva COVID-19",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/246896",
+   "versions": [
+    {
+     "from": "2021-10-05",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/246896",
+     "sha256": "a896801337a5e667e5364e4be8314486c816174ec5e237f9d08dea450a53e5a2"
     }
    ]
   },
@@ -572519,6 +574634,21 @@
    ]
   },
   {
+   "slug": "oug-117-2000",
+   "path": "oug/2000/117",
+   "short": "OUG nr. 117/2000",
+   "title": "Ordonanța de urgență a Guvernului nr. 117/2000 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 58/2000 privind unele măsuri pentru întărirea disciplinei salariale şi financiare în regiile autonome, societăţile şi companiile naţionale şi în unele societăţi comerciale cu capital majoritar de stat, în anul 2000",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/23102",
+   "versions": [
+    {
+     "from": "2000-07-04",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/23102",
+     "sha256": "88605fa1c85de5cdaf35fe6893f1fd0f7d9aace07d29be1b0b72d1d9924aac14"
+    }
+   ]
+  },
+  {
    "slug": "oug-117-2003",
    "path": "oug/2003/117",
    "short": "OUG nr. 117/2003",
@@ -572536,6 +574666,21 @@
      "units": 11,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/80206",
      "sha256": "7f8245e778985da6db193342af49a2e52baa5f2bb81b40ff705c27cb8b49128d"
+    }
+   ]
+  },
+  {
+   "slug": "oug-117-2005",
+   "path": "oug/2005/117",
+   "short": "OUG nr. 117/2005",
+   "title": "Ordonanța de urgență a Guvernului nr. 117/2005 privind acordarea unui sprijin direct al statului producătorilor agricoli pentru înfiinţarea culturilor în toamna anului 2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/63557",
+   "versions": [
+    {
+     "from": "2005-07-26",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/63557",
+     "sha256": "a99728bdbbd07d4ddaac7f816b05ef61bc387cfb5be5313ac0a213273967ca97"
     }
    ]
   },
@@ -572593,6 +574738,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/164472",
      "sha256": "f93fcc0f7496cac798520ddaf685c68b76ff9d9d8cee9a084b96bb938a5d9424"
+    }
+   ]
+  },
+  {
+   "slug": "oug-117-2017",
+   "path": "oug/2017/117",
+   "short": "OUG nr. 117/2017",
+   "title": "Ordonanța de urgență a Guvernului nr. 117/2017 privind stabilirea măsurilor în vederea asigurării mecanismelor şi a resurselor financiare necesare returnării donaţiilor colectate pentru achiziţionarea unui bun aparţinând patrimoniului cultural naţional mobil clasat în categoria tezaurul patrimoniului cultural naţional mobil",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/196306",
+   "versions": [
+    {
+     "from": "2017-12-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/196306",
+     "sha256": "9a9b77743abf6202ee306d313b96efa89c71cbb4c68b4f3a1c03d74cfd9ef76e"
     }
    ]
   },
@@ -572657,6 +574817,51 @@
    ]
   },
   {
+   "slug": "oug-118-2001",
+   "path": "oug/2001/118",
+   "short": "OUG nr. 118/2001",
+   "title": "Ordonanța de urgență a Guvernului nr. 118/2001 pentru modificarea art. 6 din Legea nr. 78/1995 privind protecţia personalului şi a patrimoniului din sectorul producţiei de apărare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/30907",
+   "versions": [
+    {
+     "from": "2001-09-28",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/30907",
+     "sha256": "3e03a66a4862a326676086130194e5d641dfa2d14d16ca1aa864930eee5fffb6"
+    }
+   ]
+  },
+  {
+   "slug": "oug-118-2002",
+   "path": "oug/2002/118",
+   "short": "OUG nr. 118/2002",
+   "title": "Ordonanța de urgență a Guvernului nr. 118/2002 privind punerea în valoare a plantaţiilor vitipomicole abandonate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/38718",
+   "versions": [
+    {
+     "from": "2002-10-04",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38718",
+     "sha256": "78d02bc408003577d7cfb5004acee414633a0f23d8ed6cee9361012b2c788a06"
+    }
+   ]
+  },
+  {
+   "slug": "oug-118-2004",
+   "path": "oug/2004/118",
+   "short": "OUG nr. 118/2004",
+   "title": "Ordonanța de urgență a Guvernului nr. 118/2004 privind acordarea unor drepturi salariale personalului Ministerului Administraţiei şi Internelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/57253",
+   "versions": [
+    {
+     "from": "2004-12-02",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/57253",
+     "sha256": "4a09bfc7f8aed7456afba5e2e82e93a95892c4db621d0d7b4e9a0f2bc77db877"
+    }
+   ]
+  },
+  {
    "slug": "oug-118-2005",
    "path": "oug/2005/118",
    "short": "OUG nr. 118/2005",
@@ -572668,6 +574873,36 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/63609",
      "sha256": "b6f023ac21f2479a706287b2f7e6fb143956648da8f66570951a7c2fd480f723"
+    }
+   ]
+  },
+  {
+   "slug": "oug-118-2007",
+   "path": "oug/2007/118",
+   "short": "OUG nr. 118/2007",
+   "title": "Ordonanța de urgență a Guvernului nr. 118/2007 pentru completarea titlului VII din Legea nr. 247/2005 privind reforma în domeniile proprietăţii şi justiţiei, precum şi unele măsuri adiacente",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86519",
+   "versions": [
+    {
+     "from": "2007-10-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86519",
+     "sha256": "1233a200f2e6f4e17e44befa5c5c64c0f4f5a8a66f7f2785e2cb8e03fc3e4695"
+    }
+   ]
+  },
+  {
+   "slug": "oug-118-2010",
+   "path": "oug/2010/118",
+   "short": "OUG nr. 118/2010",
+   "title": "Ordonanța de urgență a Guvernului nr. 118/2010 privind modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 50/2008 pentru instituirea taxei pe poluare pentru autovehicule",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/124875",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/124875",
+     "sha256": "876a713df3865fc1f0da2acdd1cd54194ffddc9f3aad252c098809a6ef5a40e8"
     }
    ]
   },
@@ -572714,6 +574949,21 @@
    ]
   },
   {
+   "slug": "oug-118-2022",
+   "path": "oug/2022/118",
+   "short": "OUG nr. 118/2022",
+   "title": "Ordonanța de urgență a Guvernului nr. 118/2022 pentru completarea Ordonanţei Guvernului nr. 26/2013 privind întărirea disciplinei financiare la nivelul unor operatori economici la care statul sau unităţile administrativ-teritoriale sunt acţionari unici ori majoritari sau deţin direct ori indirect o participaţie majoritară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/258702",
+   "versions": [
+    {
+     "from": "2022-08-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/258702",
+     "sha256": "30eb2798dc9e4288e0738ca0a9f46b46bed1fde10527b99dd45a170c8be2643d"
+    }
+   ]
+  },
+  {
    "slug": "oug-119-1999",
    "path": "oug/1999/119",
    "short": "OUG nr. 119/1999",
@@ -572725,6 +574975,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/18637",
      "sha256": "618bc70fbd076568f4067e141c52ab17a5dd8bde7d60353b531105b91ed9fe00"
+    }
+   ]
+  },
+  {
+   "slug": "oug-119-2000",
+   "path": "oug/2000/119",
+   "short": "OUG nr. 119/2000",
+   "title": "Ordonanța de urgență a Guvernului nr. 119/2000 pentru completarea alineatului 2 al articolului 74 din Legea nr. 80/1995 privind statutul cadrelor militare, astfel cum a fost modificată prin Ordonanţa de urgenţă a Guvernului nr. 60/2000",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/23123",
+   "versions": [
+    {
+     "from": "2000-07-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/23123",
+     "sha256": "8c116cf219b9bf9a671d19196ec212fa4421bf754570af4f427a8e905ca8ac0b"
     }
    ]
   },
@@ -572843,6 +575108,66 @@
    ]
   },
   {
+   "slug": "oug-12-1999",
+   "path": "oug/1999/12",
+   "short": "OUG nr. 12/1999",
+   "title": "Ordonanța de urgență a Guvernului nr. 12/1999 privind schimbul terenului în suprafaţa de 5.000 mp, situat în şoseaua Kiseleff, zona Piaţa Presei Libere, sectorul 1, Bucureşti - România, cu construcţia şi terenul aferent, situate în Dorotheenstrasse 62-66, Berlin - Republica Federala Germania",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17064",
+   "versions": [
+    {
+     "from": "1999-03-02",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17064",
+     "sha256": "002085edaeb6808770b10d817b7810892d394eb71b8aed8fd916b7b9f98d090b"
+    }
+   ]
+  },
+  {
+   "slug": "oug-12-2000",
+   "path": "oug/2000/12",
+   "short": "OUG nr. 12/2000",
+   "title": "Ordonanța de urgență a Guvernului nr. 12/2000 pentru modificarea şi completarea Ordonanţei Guvernului nr. 39/1999 privind finalizarea procesului de restructurare a Băncii Române de Comerţ Exterior - Bancorex - S.A. şi fuziunea prin absorbire a acestei bănci cu Banca Comercială Română - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/21224",
+   "versions": [
+    {
+     "from": "2000-03-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/21224",
+     "sha256": "9eca86cf6e532edfe20a6b2c07099207b72d216e5df73636fcd9340c03bf0e7b"
+    }
+   ]
+  },
+  {
+   "slug": "oug-12-2004",
+   "path": "oug/2004/12",
+   "short": "OUG nr. 12/2004",
+   "title": "Ordonanța de urgență a Guvernului nr. 12/2004 pentru completarea Legii nr. 44/1994 privind veteranii de război, precum şi unele drepturi ale invalizilor şi văduvelor de război",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50820",
+   "versions": [
+    {
+     "from": "2004-03-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50820",
+     "sha256": "d30ab826916c03c8d24e0071a9ec407702ccdc3909b935d0cd0d8396ee116a38"
+    }
+   ]
+  },
+  {
+   "slug": "oug-12-2005",
+   "path": "oug/2005/12",
+   "short": "OUG nr. 12/2005",
+   "title": "Ordonanța de urgență a Guvernului nr. 12/2005 pentru modificarea art. 12 din Ordonanţa de urgenţă a Guvernului nr. 113/2002 privind identificarea şi înregistrarea bovinelor în România şi pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 61/2004 privind acordarea în anul agricol 2004-2005 a unui sprijin direct al statului de 2,5 milioane lei/ha producătorilor agricoli pentru suprafeţe de teren arabil de până la 5 ha inclusiv",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/59571",
+   "versions": [
+    {
+     "from": "2005-03-01",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59571",
+     "sha256": "9cc1629eb5298dd3ee17bef2a16c7a73c8720243aaaf6802e9d63bc4d7f1128c"
+    }
+   ]
+  },
+  {
    "slug": "oug-12-2007",
    "path": "oug/2007/12",
    "short": "OUG nr. 12/2007",
@@ -572858,6 +575183,66 @@
    ]
   },
   {
+   "slug": "oug-12-2009",
+   "path": "oug/2009/12",
+   "short": "OUG nr. 12/2009",
+   "title": "Ordonanța de urgență a Guvernului nr. 12/2009 privind declanşarea procedurilor de expropriere pentru cauză de utilitate publică a imobilelor proprietate privată situate pe amplasamentul lucrării de interes local \"Pasaj rutier denivelat superior Basarab\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/103102",
+   "versions": [
+    {
+     "from": "2009-03-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/103102",
+     "sha256": "f5576ac364c626fe1603e1e03db15e0bf9d1bcd0dc8fda5b767d0dcaa1584d08"
+    }
+   ]
+  },
+  {
+   "slug": "oug-12-2010",
+   "path": "oug/2010/12",
+   "short": "OUG nr. 12/2010",
+   "title": "Ordonanța de urgență a Guvernului nr. 12/2010 pentru completarea Ordonanţei de urgenţă a Guvernului nr. 194/2002 privind regimul străinilor în România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/116659",
+   "versions": [
+    {
+     "from": "2010-03-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/116659",
+     "sha256": "9deb818624461db9b0f779f58e70daafecfc23cd93845944394d9fa197eb0cfd"
+    }
+   ]
+  },
+  {
+   "slug": "oug-12-2012",
+   "path": "oug/2012/12",
+   "short": "OUG nr. 12/2012",
+   "title": "Ordonanța de urgență a Guvernului nr. 12/2012 pentru modificarea Ordonanţei de urgenţă a Guvernului nr. 119/2010 privind regimul de control al operaţiunilor cu produse cu dublă utilizare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/137221",
+   "versions": [
+    {
+     "from": "2012-04-18",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/137221",
+     "sha256": "789d1fbd47b974bea470ec03a43ac4461412bc8ba5c575f03943395f2f9e3e4d"
+    }
+   ]
+  },
+  {
+   "slug": "oug-12-2016",
+   "path": "oug/2016/12",
+   "short": "OUG nr. 12/2016",
+   "title": "Ordonanța de urgență a Guvernului nr. 12/2016 pentru modificarea alin. (4) al art. 24^1 din Legea nr. 38/2003 privind transportul în regim de taxi şi în regim de închiriere, precum şi pentru stabilirea unor măsuri privind aplicarea în domeniul transportului cu metroul a prevederilor Regulamentului (CE) nr. 1.370/2007 al Parlamentului European şi al Consiliului din 23 octombrie 2007 privind serviciile publice de transport feroviar şi rutier de călători şi de abrogare a Regulamentelor (CEE) nr. 1.191/69 şi nr. 1.107/70 ale Consiliului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/178038",
+   "versions": [
+    {
+     "from": "2016-04-28",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/178038",
+     "sha256": "a953781f6394301f410b1d6a21318b7cf8fb6037ae1e62386da3b5e0633d9200"
+    }
+   ]
+  },
+  {
    "slug": "oug-12-2017",
    "path": "oug/2017/12",
    "short": "OUG nr. 12/2017",
@@ -572869,6 +575254,36 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/186346",
      "sha256": "4476c4b5c1027bc999ce9aa5beb99c4d70ad97b30ae24015977a8f7ee96f2637"
+    }
+   ]
+  },
+  {
+   "slug": "oug-12-2019",
+   "path": "oug/2019/12",
+   "short": "OUG nr. 12/2019",
+   "title": "Ordonanța de urgență a Guvernului nr. 12/2019 pentru modificarea şi completarea unor acte normative în domeniul justiţiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/211709",
+   "versions": [
+    {
+     "from": "2019-03-07",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/211709",
+     "sha256": "6fb70f6e6b202c0226909d2c434b7184a91ba858698c96ec756f63f89f509274"
+    }
+   ]
+  },
+  {
+   "slug": "oug-12-2022",
+   "path": "oug/2022/12",
+   "short": "OUG nr. 12/2022",
+   "title": "Ordonanța de urgență a Guvernului nr. 12/2022 pentru modificarea şi completarea Ordonanţei Guvernului nr. 15/2013 privind reglementarea unor măsuri fiscal-bugetare pentru suportarea de la bugetul de stat a sumelor aferente corecţiilor financiare aplicate pentru abaterile de la conformitatea cu legislaţia din domeniul achiziţiilor publice pentru Programul operaţional sectorial Mediu 2007-2013 şi pentru proiecte preluate integral sau parţial din Programul operaţional sectorial Mediu 2007-2013 în cadrul Programului operaţional Infrastructura mare 2014-2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/251879",
+   "versions": [
+    {
+     "from": "2022-02-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/251879",
+     "sha256": "d3c7fdb33a9654ed87710994b6e418562ad228f84cca497f416ba459756ec07d"
     }
    ]
   },
@@ -572899,6 +575314,36 @@
      "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/295401",
      "sha256": "4a402d5821bf5366e3cd8a77f42786d7880f3dd786c5209c3218d060bc89c6b7"
+    }
+   ]
+  },
+  {
+   "slug": "oug-120-2000",
+   "path": "oug/2000/120",
+   "short": "OUG nr. 120/2000",
+   "title": "Ordonanța de urgență a Guvernului nr. 120/2000 pentru modificarea şi completarea Ordonanţei de urgenta a Guvernului nr. 95/1999 cu privire la valorificarea bunurilor scoase din funcţiune, aflate în administrarea Ministerului Apărării Naţionale, şi a Ordonanţei Guvernului nr. 122/1998 privind acumularea, scoaterea şi împrospătarea produselor din rezervele proprii ale forţelor destinate apărării naţionale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/23181",
+   "versions": [
+    {
+     "from": "2000-07-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/23181",
+     "sha256": "48993afe3a5f54313c7138cb8274842115c5169fcf09c8bc8c815fcbca859923"
+    }
+   ]
+  },
+  {
+   "slug": "oug-120-2001",
+   "path": "oug/2001/120",
+   "short": "OUG nr. 120/2001",
+   "title": "Ordonanța de urgență a Guvernului nr. 120/2001 pentru completarea art. 19^49 din Ordonanţa de urgenţă a Guvernului nr. 51/1998 privind valorificarea unor active bancare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/31032",
+   "versions": [
+    {
+     "from": "2001-10-04",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/31032",
+     "sha256": "fe921b1bf0cc05e9e3e8bf1528ef0161d6a429a5212b6da3af8ec14248cd0660"
     }
    ]
   },
@@ -572939,6 +575384,21 @@
    ]
   },
   {
+   "slug": "oug-120-2007",
+   "path": "oug/2007/120",
+   "short": "OUG nr. 120/2007",
+   "title": "Ordonanța de urgență a Guvernului nr. 120/2007 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 67/2006 privind gestionarea fondurilor nerambursabile destinate finanţării politicii agricole comune alocate de la Comunitatea Europeană, precum şi a fondurilor de cofinanţare şi prefinanţare alocate de la bugetul de stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86605",
+   "versions": [
+    {
+     "from": "2007-11-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86605",
+     "sha256": "d0b8dce05ce5bb08618e4f084e0ad1e6c3dbf2959ce8052c930a8611c586c366"
+    }
+   ]
+  },
+  {
    "slug": "oug-120-2008",
    "path": "oug/2008/120",
    "short": "OUG nr. 120/2008",
@@ -572950,6 +575410,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97810",
      "sha256": "10bdbc74f58a9dabf4efbdd31a94d98a0bdb44289404a79ea4c0837d33ecdbdc"
+    }
+   ]
+  },
+  {
+   "slug": "oug-120-2010",
+   "path": "oug/2010/120",
+   "short": "OUG nr. 120/2010",
+   "title": "Ordonanța de urgență a Guvernului nr. 120/2010 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 64/2009 privind gestionarea financiară a instrumentelor structurale şi utilizarea acestora pentru obiectivul convergenţă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/124869",
+   "versions": [
+    {
+     "from": "2010-12-30",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/124869",
+     "sha256": "7f15853328437415579cbca084b0e87221d9b0931192c105e2dbdbbbaf6d3a57"
     }
    ]
   },
@@ -573101,6 +575576,51 @@
    ]
   },
   {
+   "slug": "oug-121-2007",
+   "path": "oug/2007/121",
+   "short": "OUG nr. 121/2007",
+   "title": "Ordonanța de urgență a Guvernului nr. 121/2007 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 5/2003 privind acordarea de ajutoare pentru încălzirea locuinţei, precum şi a unor facilităţi populaţiei pentru plata energiei termice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86632",
+   "versions": [
+    {
+     "from": "2007-11-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86632",
+     "sha256": "6f80fb0e51c6bb02850caeb6af1cc659a67337d1142f114faf6313a21b42cf05"
+    }
+   ]
+  },
+  {
+   "slug": "oug-121-2008",
+   "path": "oug/2008/121",
+   "short": "OUG nr. 121/2008",
+   "title": "Ordonanța de urgență a Guvernului nr. 121/2008 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 127/2003 privind identificarea şi înregistrarea suinelor, ovinelor şi caprinelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97792",
+   "versions": [
+    {
+     "from": "2008-10-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97792",
+     "sha256": "9cd74ce5d085ffd0f8c83d32d28a5f8c44485b1d86de7726cd7bfaf349ccff59"
+    }
+   ]
+  },
+  {
+   "slug": "oug-121-2020",
+   "path": "oug/2020/121",
+   "short": "OUG nr. 121/2020",
+   "title": "Ordonanța de urgență a Guvernului nr. 121/2020 pentru completarea art. 2 din Ordonanţa Guvernului nr. 13/2017 privind aprobarea participării României la Programul pentru şcoli al Uniunii Europene şi pentru adoptarea unor măsuri privind redistribuirea stocurilor de produse înregistrate ca urmare a suspendării cursurilor în unităţile de învăţământ preuniversitar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/228442",
+   "versions": [
+    {
+     "from": "2020-07-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/228442",
+     "sha256": "da364ffb70eeeff7084d382c0f7f119882ef10f320bd23bde512bc232273ca06"
+    }
+   ]
+  },
+  {
    "slug": "oug-121-2021",
    "path": "oug/2021/121",
    "short": "OUG nr. 121/2021",
@@ -573152,6 +575672,66 @@
    ]
   },
   {
+   "slug": "oug-121-2024",
+   "path": "oug/2024/121",
+   "short": "OUG nr. 121/2024",
+   "title": "Ordonanța de urgență a Guvernului nr. 121/2024 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 7/2024 privind aprobarea schemei de ajutor de stat \"Creditul fermierului\", în contextul crizei provocate de agresiunea Rusiei împotriva Ucrainei, precum şi pentru modificarea art. 12 alin. (1) din Legea nr. 218/2005 privind stimularea absorbţiei fondurilor alocate României pentru agricultură, dezvoltare rurală, pescuit şi afaceri maritime, gestionate de Ministerul Agriculturii şi Dezvoltării Rurale, prin instrumente financiare de garantare şi creditare, precum şi pentru susţinerea obiectivelor naţionale de politică agricolă şi a Ordonanţei de urgenţă a Guvernului nr. 84/2023 privind instituirea unui mecanism de consultare şi reacţie coordonată în contextul implementării sistemului de autorizare la export introdus de Ucraina pentru produsele agricole",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/289783",
+   "versions": [
+    {
+     "from": "2024-10-16",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/289783",
+     "sha256": "4eef33d3bd6b7ba855381f5655df93392b0ebb808627ef4496978b8c7a0e55b1"
+    }
+   ]
+  },
+  {
+   "slug": "oug-122-2000",
+   "path": "oug/2000/122",
+   "short": "OUG nr. 122/2000",
+   "title": "Ordonanța de urgență a Guvernului nr. 122/2000 pentru modificarea şi completarea Ordonanţei Guvernului nr. 118/1999 privind achiziţiile publice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/23182",
+   "versions": [
+    {
+     "from": "2000-07-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/23182",
+     "sha256": "617bc2a3f0106eebea33e91864c72e0f09b0a79a90387f8045eaf5ab18d05e2d"
+    }
+   ]
+  },
+  {
+   "slug": "oug-122-2001",
+   "path": "oug/2001/122",
+   "short": "OUG nr. 122/2001",
+   "title": "Ordonanța de urgență a Guvernului nr. 122/2001 privind modificarea art. 2 din Ordonanţa de urgenţă a Guvernului nr. 50/2000 pentru abrogarea Ordonanţei de urgenţă a Guvernului nr. 67/1999 privind unele măsuri pentru dezvoltarea activităţii economice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/31207",
+   "versions": [
+    {
+     "from": "2001-10-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/31207",
+     "sha256": "74384b1d801af6d353547b638c4c642116f8c3aa4d3a6db0b97264d93d25d3fd"
+    }
+   ]
+  },
+  {
+   "slug": "oug-122-2002",
+   "path": "oug/2002/122",
+   "short": "OUG nr. 122/2002",
+   "title": "Ordonanța de urgență a Guvernului nr. 122/2002 pentru modificarea art. 138 din Ordonanţa de urgenţă a Guvernului nr. 28/2002 privind valorile mobiliare, serviciile de investiţii financiare şi pieţele reglementate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/38725",
+   "versions": [
+    {
+     "from": "2002-10-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38725",
+     "sha256": "12e2e1af45b645952c88bdf3d00acc588ca5b8b87b4acf2a61714496c98086d3"
+    }
+   ]
+  },
+  {
    "slug": "oug-122-2003",
    "path": "oug/2003/122",
    "short": "OUG nr. 122/2003",
@@ -573163,6 +575743,36 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/48275",
      "sha256": "b7be479dd211b744617bfdae1806161e17c189f22751c802da144fafe6fdf2f8"
+    }
+   ]
+  },
+  {
+   "slug": "oug-122-2004",
+   "path": "oug/2004/122",
+   "short": "OUG nr. 122/2004",
+   "title": "Ordonanța de urgență a Guvernului nr. 122/2004 pentru modificarea art. 4 din Legea nr. 50/1991 privind autorizarea executării lucrărilor de construcţii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/57375",
+   "versions": [
+    {
+     "from": "2004-12-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/57375",
+     "sha256": "dc187eba88dc0d2b390fa12e34069c5c2e5f11b47ece6b44b21ad1969b2d7e38"
+    }
+   ]
+  },
+  {
+   "slug": "oug-122-2005",
+   "path": "oug/2005/122",
+   "short": "OUG nr. 122/2005",
+   "title": "Ordonanța de urgență a Guvernului nr. 122/2005 pentru ratificarea Acordului-cadru de împrumut dintre România şi Banca de Dezvoltare a Consiliului Europei, semnat la Bucureşti la 28 iulie 2005 şi la Paris la 1 august 2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/65143",
+   "versions": [
+    {
+     "from": "2005-09-19",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/65143",
+     "sha256": "239f213d68274bb33bd6284aa244ada4d8cfae8d4a381d7ea710cd8990980f4b"
     }
    ]
   },
@@ -573224,6 +575834,36 @@
    ]
   },
   {
+   "slug": "oug-122-2022",
+   "path": "oug/2022/122",
+   "short": "OUG nr. 122/2022",
+   "title": "Ordonanța de urgență a Guvernului nr. 122/2022 privind unele măsuri pentru proiectele de infrastructură de transport, proiectele pentru dezvoltarea infrastructurii de management integrat al deşeurilor, proiectele privind îmbunătăţirea sistemului de răspuns la risc şi proiectele privind investiţii în infrastructuri spitaliceşti, finanţate din fonduri externe nerambursabile, precum şi pentru modificarea unor acte normative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/259206",
+   "versions": [
+    {
+     "from": "2022-09-09",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/259206",
+     "sha256": "a9f4d759eac8ea7fddfd38d931b8b7fecc732f9db56cf43c79704b225d5f8d26"
+    }
+   ]
+  },
+  {
+   "slug": "oug-122-2023",
+   "path": "oug/2023/122",
+   "short": "OUG nr. 122/2023",
+   "title": "Ordonanța de urgență a Guvernului nr. 122/2023 pentru modificarea art. 13 alin. (3) din Ordonanţa de urgenţă a Guvernului nr. 97/2005 privind evidenţa, domiciliul, reşedinţa şi actele de identitate ale cetăţenilor români",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/277808",
+   "versions": [
+    {
+     "from": "2023-12-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/277808",
+     "sha256": "55f9aa7fb436add1dc5b5defb59d56fd846c1891327cd4578c3b4940dc251062"
+    }
+   ]
+  },
+  {
    "slug": "oug-122-2024",
    "path": "oug/2024/122",
    "short": "OUG nr. 122/2024",
@@ -573235,6 +575875,36 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/public/DetaliiDocument/289784",
      "sha256": "c12b058c3e82e15caa2fbc2421b7e6e6ec9b9d7fa02de8fcda53967a49d18647"
+    }
+   ]
+  },
+  {
+   "slug": "oug-123-2000",
+   "path": "oug/2000/123",
+   "short": "OUG nr. 123/2000",
+   "title": "Ordonanța de urgență a Guvernului nr. 123/2000 pentru completarea Ordonanţei Guvernului nr. 41/1994 privind autorizarea plăţii cotizaţiilor la organizaţiile internaţionale interguvernamentale la care România este parte",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/23163",
+   "versions": [
+    {
+     "from": "2000-07-06",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/23163",
+     "sha256": "be1b9b1f07ae26620b9d11cceffc231f578db3d11b509989cc411985f2eec926"
+    }
+   ]
+  },
+  {
+   "slug": "oug-123-2002",
+   "path": "oug/2002/123",
+   "short": "OUG nr. 123/2002",
+   "title": "Ordonanța de urgență a Guvernului nr. 123/2002 pentru prorogarea termenului prevăzut la art. 1 alin. (1) din Ordonanţa de urgenţă a Guvernului nr. 121/2001 pentru suspendarea temporară a tuturor procedurilor referitoare la adopţiile internaţionale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/38792",
+   "versions": [
+    {
+     "from": "2002-10-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38792",
+     "sha256": "4d377733d113f93db3d56ab47f7f33d294d0f7bee61d7c1685038acf2d1e9db6"
     }
    ]
   },
@@ -573338,6 +576008,36 @@
    ]
   },
   {
+   "slug": "oug-123-2023",
+   "path": "oug/2023/123",
+   "short": "OUG nr. 123/2023",
+   "title": "Ordonanța de urgență a Guvernului nr. 123/2023 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 36/2023 privind stabilirea cadrului general pentru închiderea programelor operaţionale finanţate în perioada de programare 2014-2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/277809",
+   "versions": [
+    {
+     "from": "2023-12-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/277809",
+     "sha256": "5e54fa7cc50ea4f944398bca71d343363060b68dfa2c2a64d049a65feddc19af"
+    }
+   ]
+  },
+  {
+   "slug": "oug-124-1999",
+   "path": "oug/1999/124",
+   "short": "OUG nr. 124/1999",
+   "title": "Ordonanța de urgență a Guvernului nr. 124/1999 privind modificarea unor indicatori de venituri şi cheltuieli aprobaţi prin bugetul de stat şi bugetul asigurărilor sociale de stat pe anul 1999",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19208",
+   "versions": [
+    {
+     "from": "1999-09-10",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19208",
+     "sha256": "7c9ca12475f9539b52bcd2151e145fae76eaa038d25c0a5f9c29549a43767d02"
+    }
+   ]
+  },
+  {
    "slug": "oug-124-2002",
    "path": "oug/2002/124",
    "short": "OUG nr. 124/2002",
@@ -573355,6 +576055,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/216421",
      "sha256": "f41bffcda4ce8debbae074d4d5965d73101ab3723bcf39e6f33b413f145a5476"
+    }
+   ]
+  },
+  {
+   "slug": "oug-124-2003",
+   "path": "oug/2003/124",
+   "short": "OUG nr. 124/2003",
+   "title": "Ordonanța de urgență a Guvernului nr. 124/2003 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 8/2003 privind stimularea procesului de restructurare, reorganizare şi privatizare a unor societăţi naţionale, companii naţionale şi societăţi comerciale cu capital majoritar de stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/48589",
+   "versions": [
+    {
+     "from": "2003-12-22",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/48589",
+     "sha256": "33ed3ac24753ddf6ff4d0bdca4e508d4f7f2cb94eb3ab62ad008e13ac2a74c79"
     }
    ]
   },
@@ -573397,6 +576112,21 @@
      "units": 41,
      "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/101785",
      "sha256": "5d252b851b6b5c5213678fc38ca652f5dc21acc1386cde45547ab2793cc9a031"
+    }
+   ]
+  },
+  {
+   "slug": "oug-124-2007",
+   "path": "oug/2007/124",
+   "short": "OUG nr. 124/2007",
+   "title": "Ordonanța de urgență a Guvernului nr. 124/2007 pentru aprobarea redistribuirii unor posturi din cadrul aparatului de lucru al Guvernului şi al Agenţiei pentru Strategii Guvernamentale în cadrul Ministerului Afacerilor Externe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86706",
+   "versions": [
+    {
+     "from": "2007-11-06",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86706",
+     "sha256": "bc8502bbff2e41a4dacb3d8482c1b4840f1c8f33ee1c7b576ed05525d5689926"
     }
    ]
   },
@@ -573457,6 +576187,81 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/289985",
      "sha256": "97f075e99d94feff0176cc42a7de86c9ab651c0833c5ac6799c164f67b0d9718"
+    }
+   ]
+  },
+  {
+   "slug": "oug-125-2003",
+   "path": "oug/2003/125",
+   "short": "OUG nr. 125/2003",
+   "title": "Ordonanța de urgență a Guvernului nr. 125/2003 pentru completarea Ordonanţei de urgenţă a Guvernului nr. 12/1998 privind transportul pe căile ferate române şi reorganizarea Societăţii Naţionale a Căilor Ferate Române",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/48590",
+   "versions": [
+    {
+     "from": "2003-12-22",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/48590",
+     "sha256": "4ecacd91d8c135e1e51d022256a13e4b51e2755be243b90472b9e3e6847d87a1"
+    }
+   ]
+  },
+  {
+   "slug": "oug-125-2004",
+   "path": "oug/2004/125",
+   "short": "OUG nr. 125/2004",
+   "title": "Ordonanța de urgență a Guvernului nr. 125/2004 privind instituirea unor măsuri speciale de reabilitare a unor blocuri de locuinţe situate în localităţi din zone defavorizate şi/sau monoindustriale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/57619",
+   "versions": [
+    {
+     "from": "2004-12-13",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/57619",
+     "sha256": "d054a205fe7b1fcc9ae4d2fac4e775cc1f89bd923220597ece54ac5991f11bc3"
+    }
+   ]
+  },
+  {
+   "slug": "oug-125-2005",
+   "path": "oug/2005/125",
+   "short": "OUG nr. 125/2005",
+   "title": "Ordonanța de urgență a Guvernului nr. 125/2005 privind acordarea unui sprijin direct al statului producătorilor agricoli care deţin şi/sau exploatează plantaţii viticole cu soiuri nobile",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/65121",
+   "versions": [
+    {
+     "from": "2005-09-20",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/65121",
+     "sha256": "dc60d21d36dd8fe13a1ec365dcc7ed732f20997357cdc1f79a6285873b15898a"
+    }
+   ]
+  },
+  {
+   "slug": "oug-125-2007",
+   "path": "oug/2007/125",
+   "short": "OUG nr. 125/2007",
+   "title": "Ordonanța de urgență a Guvernului nr. 125/2007 pentru modificarea art. 13 din Legea notarilor publici şi a activităţii notariale nr. 36/1995",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86797",
+   "versions": [
+    {
+     "from": "2007-11-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86797",
+     "sha256": "6910e8a6374eb8b6d94754580693a6214d0a55f43701d424cd782f735d9a2ecf"
+    }
+   ]
+  },
+  {
+   "slug": "oug-125-2008",
+   "path": "oug/2008/125",
+   "short": "OUG nr. 125/2008",
+   "title": "Ordonanța de urgență a Guvernului nr. 125/2008 pentru modificarea şi completarea art. 29 din Legea nr. 188/1999 privind Statutul funcţionarilor publici",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97960",
+   "versions": [
+    {
+     "from": "2008-10-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97960",
+     "sha256": "6a213af26b2cac40dfcd37e304fc4d4a29d370dc7ad854430683c58a485a4588"
     }
    ]
   },
@@ -573533,6 +576338,21 @@
    ]
   },
   {
+   "slug": "oug-125-2023",
+   "path": "oug/2023/125",
+   "short": "OUG nr. 125/2023",
+   "title": "Ordonanța de urgență a Guvernului nr. 125/2023 pentru completarea art. 13 din Legea nr. 195/2018 privind aprobarea Programului de susţinere a crescătorilor de suine pentru activitatea de reproducţie, precum şi a art. 12 din Legea nr. 227/2018 privind aprobarea Programului de susţinere pentru activitatea de reproducţie, incubaţie şi de creştere în sectorul avicol",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/277824",
+   "versions": [
+    {
+     "from": "2023-12-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/277824",
+     "sha256": "4d70ad72166b59fbb9758601604e55bb6f21051f56089e315f8ec9dc65ddf138"
+    }
+   ]
+  },
+  {
    "slug": "oug-125-2024",
    "path": "oug/2024/125",
    "short": "OUG nr. 125/2024",
@@ -573544,6 +576364,21 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/290024",
      "sha256": "7c15f3e3a6da80a8d862c236141d24fe3893afdb4d9be80a451a9735d2125ca8"
+    }
+   ]
+  },
+  {
+   "slug": "oug-126-2001",
+   "path": "oug/2001/126",
+   "short": "OUG nr. 126/2001",
+   "title": "Ordonanța de urgență a Guvernului nr. 126/2001 privind stingerea obligaţiilor bugetare ale agenţilor economici din sectorul producţiei de apărare, din patrimoniul cărora se constituie parcuri industriale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/31378",
+   "versions": [
+    {
+     "from": "2001-10-19",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/31378",
+     "sha256": "66130a8da6d3f7162bd3501ed2857eac205a887eace36594859ae468c0f3ee7f"
     }
    ]
   },
@@ -573580,6 +576415,51 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/205691",
      "sha256": "c868b171735d1b280eee6bfaa5059fc6149fde18fbb9c5a36017400e7b602d54"
+    }
+   ]
+  },
+  {
+   "slug": "oug-126-2007",
+   "path": "oug/2007/126",
+   "short": "OUG nr. 126/2007",
+   "title": "Ordonanța de urgență a Guvernului nr. 126/2007 pentru modificarea Legii nr. 248/2005 privind regimul liberei circulaţii a cetăţenilor români în străinătate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86798",
+   "versions": [
+    {
+     "from": "2007-11-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86798",
+     "sha256": "fcd21d1767ec0173a559a19662f53754ae05c7bb377d89bfad05e0afc74e10ab"
+    }
+   ]
+  },
+  {
+   "slug": "oug-126-2008",
+   "path": "oug/2008/126",
+   "short": "OUG nr. 126/2008",
+   "title": "Ordonanța de urgență a Guvernului nr. 126/2008 privind modificarea şi completarea unor acte normative în vederea eliminării legăturilor dintre nivelul drepturilor acordate din bugetul asigurărilor pentru şomaj şi nivelul salariului de bază minim brut pe ţară şi al stabilirii măsurilor de aplicare a unor regulamente comunitare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/98026",
+   "versions": [
+    {
+     "from": "2008-10-14",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/98026",
+     "sha256": "9da29662b8bf5ddffa9f65711cfc32ad23dac76c6bff07a7170b3a553025f590"
+    }
+   ]
+  },
+  {
+   "slug": "oug-126-2010",
+   "path": "oug/2010/126",
+   "short": "OUG nr. 126/2010",
+   "title": "Ordonanța de urgență a Guvernului nr. 126/2010 pentru modificarea alin. (2) şi (4) ale art. 6 din Ordonanţa de urgenţă a Guvernului nr. 114/2005 privind unele măsuri pentru derularea şi finalizarea privatizării societăţilor comerciale filiale de distribuţie şi furnizare a energiei electrice \"Electrica Moldova\" - S.A. şi \"Electrica Oltenia\" - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/124874",
+   "versions": [
+    {
+     "from": "2010-12-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/124874",
+     "sha256": "c1240aa4f6a9e1fc38a8139759b47cc558b0e7885f0536e6cd0d09d27c075cf6"
     }
    ]
   },
@@ -573665,6 +576545,36 @@
    ]
   },
   {
+   "slug": "oug-127-2005",
+   "path": "oug/2005/127",
+   "short": "OUG nr. 127/2005",
+   "title": "Ordonanța de urgență a Guvernului nr. 127/2005 privind modificarea art. 33 alin. (1) din Legea nr. 1/2000 pentru reconstituirea dreptului de proprietate asupra terenurilor agricole şi celor forestiere, solicitate potrivit prevederilor Legii fondului funciar nr. 18/1991 şi ale Legii nr. 169/1997 , precum şi a art. III al titlului VI din Legea nr. 247/2005 privind reforma în domeniile proprietăţii şi justiţiei, precum şi unele măsuri adiacente",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/65146",
+   "versions": [
+    {
+     "from": "2005-09-21",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/65146",
+     "sha256": "97395ff3ccbf184651b6b6d9d40ef88478a2f457fe71ad1745a349d4a28097bb"
+    }
+   ]
+  },
+  {
+   "slug": "oug-127-2006",
+   "path": "oug/2006/127",
+   "short": "OUG nr. 127/2006",
+   "title": "Ordonanța de urgență a Guvernului nr. 127/2006 pentru modificarea şi completarea Legii nr. 231/2005 privind stimularea investiţiilor în agricultură",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/78059",
+   "versions": [
+    {
+     "from": "2006-12-28",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/78059",
+     "sha256": "222d9b8890b18df1ccf0b9f4ce44174e6016d61f2985a4ffb4c5bbfe0f944a39"
+    }
+   ]
+  },
+  {
    "slug": "oug-127-2007",
    "path": "oug/2007/127",
    "short": "OUG nr. 127/2007",
@@ -573724,6 +576634,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/228657",
      "sha256": "d0e6f3f9bc28e349e92bdd8fad5bd3f3963526c46f434be2c71ab6e334fb945f"
+    }
+   ]
+  },
+  {
+   "slug": "oug-127-2021",
+   "path": "oug/2021/127",
+   "short": "OUG nr. 127/2021",
+   "title": "Ordonanța de urgență a Guvernului nr. 127/2021 pentru modificarea Legii nr. 176/2010 privind integritatea în exercitarea funcţiilor şi demnităţilor publice, pentru modificarea şi completarea Legii nr. 144/2007 privind înfiinţarea, organizarea şi funcţionarea Agenţiei Naţionale de Integritate, precum şi pentru modificarea şi completarea altor acte normative şi a art. III din Legea nr. 105/2020 pentru completarea Legii nr. 176/2010 privind integritatea în exercitarea funcţiilor şi demnităţilor publice, pentru modificarea şi completarea Legii nr. 144/2007 privind înfiinţarea, organizarea şi funcţionarea Agenţiei Naţionale de Integritate, precum şi pentru modificarea şi completarea altor acte normative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/249259",
+   "versions": [
+    {
+     "from": "2021-12-15",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/249259",
+     "sha256": "e1bb705055889b4d6b732c4aded8e976b1f9e1ffe30d5d1eca8aba12d419d453"
     }
    ]
   },
@@ -573803,6 +576728,36 @@
    ]
   },
   {
+   "slug": "oug-128-2002",
+   "path": "oug/2002/128",
+   "short": "OUG nr. 128/2002",
+   "title": "Ordonanța de urgență a Guvernului nr. 128/2002 pentru modificarea art. 15 din Ordonanţa Guvernului nr. 40/2000 privind acreditarea agenţiilor de credit în vederea administrării fondurilor pentru acordarea de microcredite",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/38918",
+   "versions": [
+    {
+     "from": "2002-10-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38918",
+     "sha256": "e37652f8b79357cbf2f195c4adc79f77cdb39b0253ef8d6dc082081e063ff35f"
+    }
+   ]
+  },
+  {
+   "slug": "oug-128-2004",
+   "path": "oug/2004/128",
+   "short": "OUG nr. 128/2004",
+   "title": "Ordonanța de urgență a Guvernului nr. 128/2004 pentru modificarea art. 3 din Ordonanţa de urgenţă a Guvernului nr. 73/1997 privind asigurarea şi creditarea stocurilor de aprovizionare pentru perioada de toamnă-iarnă, destinate localităţilor izolate din Delta Dunării",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/57783",
+   "versions": [
+    {
+     "from": "2004-12-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/57783",
+     "sha256": "9c02a8d1f7d255de8b453b940b95bf2e71229c3cfbb0f6096fc3f123f6ac44d3"
+    }
+   ]
+  },
+  {
    "slug": "oug-128-2006",
    "path": "oug/2006/128",
    "short": "OUG nr. 128/2006",
@@ -573814,6 +576769,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/78079",
      "sha256": "cf1848ada278bbc8684e2f52801a06cdf04201fbf9cade2d6e8092e77dc8dc93"
+    }
+   ]
+  },
+  {
+   "slug": "oug-128-2008",
+   "path": "oug/2008/128",
+   "short": "OUG nr. 128/2008",
+   "title": "Ordonanța de urgență a Guvernului nr. 128/2008 privind unele măsuri de reorganizare a sectorului energetic prin preluarea de către Societatea Comercială de Distribuţie şi Furnizare a Energiei Electrice \"Electrica\" - S.A. a unor pachete de acţiuni",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/98562",
+   "versions": [
+    {
+     "from": "2008-10-28",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/98562",
+     "sha256": "8d2bf10cb350e49c21745673fef9ee84e8fece88bb0a34bd2c448aac8be13c24"
     }
    ]
   },
@@ -573880,6 +576850,36 @@
      "units": 12,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/290536",
      "sha256": "acbd0468f1d59a81d8ea4b258a35df47bb75f3ad06c1efdb3600e6b488b5ed04"
+    }
+   ]
+  },
+  {
+   "slug": "oug-129-2002",
+   "path": "oug/2002/129",
+   "short": "OUG nr. 129/2002",
+   "title": "Ordonanța de urgență a Guvernului nr. 129/2002 pentru modificarea Legii nr. 26/1990 privind registrul comerţului şi a Ordonanţei de urgenţă a Guvernului nr. 76/2001 privind simplificarea unor formalităţi administrative pentru înregistrarea şi autorizarea funcţionării comercianţilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/38865",
+   "versions": [
+    {
+     "from": "2002-10-11",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38865",
+     "sha256": "b5af5f6b928531c0f4cbeab5175f39cba86e883a6c47c3ff29d5630111d07eec"
+    }
+   ]
+  },
+  {
+   "slug": "oug-129-2008",
+   "path": "oug/2008/129",
+   "short": "OUG nr. 129/2008",
+   "title": "Ordonanța de urgență a Guvernului nr. 129/2008 pentru completarea art. 5 din Ordonanţa Guvernului nr. 39/1996 privind înfiinţarea şi funcţionarea Fondului de garantare a depozitelor în sistemul bancar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/98082",
+   "versions": [
+    {
+     "from": "2008-10-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/98082",
+     "sha256": "345d06941699fd1af0de60a1cd4171cdda3d666765cddb364eacc4ad38ef5d83"
     }
    ]
   },
