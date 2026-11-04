@@ -1,6 +1,6 @@
 # Every act in this repository
 
-20960 acts, 34,593 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+20984 acts, 34,617 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (3328, of which 1841 amending acts)
+## Laws (legi) (3340, of which 1853 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -1008,6 +1008,18 @@
 | Legea nr. 153/2011 | [`lege/2011/153/`](lege/2011/153/) | in force | 6 | 2011-08-10 | 2023-01-06 |
 | Legea nr. 156/2011 | [`lege/2011/156/`](lege/2011/156/) | in force | 1 | 2011-07-25 | 2011-07-25 |
 | Legea nr. 157/2011 | [`lege/2011/157/`](lege/2011/157/) | in force | 4 | 2011-07-31 | 2024-03-22 |
+| Legea nr. 169/2011 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 13/2011 privind modificarea Ordonanţei Guvernului nr. 64/1999 pentru aprobarea Programului strategic de dezvoltare a infrastructurii aeroportuare la Aeroportul Internaţional Henri Coandă - Bucureşti | [`lege/2011/169/`](lege/2011/169/) | amending act | 1 | 2011-10-20 | 2011-10-20 |
+| Legea nr. 170/2011 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 34/2011 pentru modificarea şi completarea Ordonanţei Guvernului nr. 36/2007 privind efectuarea recensământului populaţiei şi al locuinţelor din România în anul 2011 | [`lege/2011/170/`](lege/2011/170/) | amending act | 1 | 2011-10-20 | 2011-10-20 |
+| Legea nr. 172/2011 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 129/2010 pentru prorogarea aplicării dispoziţiilor art. 4 din Ordonanţa Guvernului nr. 41/1998 privind taxele în domeniul protecţiei proprietăţii industriale şi regimul de utilizare a acestora | [`lege/2011/172/`](lege/2011/172/) | amending act | 1 | 2011-10-20 | 2011-10-20 |
+| Legea nr. 173/2011 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 68/2010 privind unele măsuri de reorganizare a Ministerului Muncii, Familiei şi Protecţiei Sociale şi a activităţii instituţiilor aflate în subordinea, în coordonarea sau sub autoritatea sa | [`lege/2011/173/`](lege/2011/173/) | amending act | 1 | 2011-10-20 | 2011-10-20 |
+| Legea nr. 175/2011 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 28/2011 privind completarea Ordonanţei de urgenţă a Guvernului nr. 105/2010 pentru aprobarea Programului naţional de dezvoltare a infrastructurii | [`lege/2011/175/`](lege/2011/175/) | amending act | 1 | 2011-10-20 | 2011-10-20 |
+| Legea nr. 176/2011 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 38/2011 pentru modificarea şi completarea Legii nr. 597/2001 privind unele măsuri de protecţie şi autorizare a construcţiilor în zona de coastă a Mării Negre | [`lege/2011/176/`](lege/2011/176/) | amending act | 1 | 2011-10-20 | 2011-10-20 |
+| Legea nr. 178/2011 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 123/2010 pentru abrogarea Legii nr. 130/1999 privind unele măsuri de protecţie a persoanelor încadrate în muncă | [`lege/2011/178/`](lege/2011/178/) | amending act | 1 | 2011-10-20 | 2011-10-20 |
+| Legea nr. 179/2011 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 12/2011 pentru reorganizarea unor instituţii aflate în subordinea Ministerului Culturii şi Patrimoniului Naţional, precum şi pentru reducerea unor cheltuieli | [`lege/2011/179/`](lege/2011/179/) | amending act | 1 | 2011-10-20 | 2011-10-20 |
+| Legea nr. 180/2011 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 110/2010 pentru modificarea Ordonanţei de urgenţă a Guvernului nr. 118/2006 privind înfiinţarea, organizarea şi desfăşurarea activităţii aşezămintelor culturale | [`lege/2011/180/`](lege/2011/180/) | amending act | 1 | 2011-10-22 | 2011-10-22 |
+| Legea nr. 181/2011 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 27/2011 privind măsuri pentru refacerea infrastructurii rutiere comunale în localităţile afectate de inundaţiile din perioada iunie-august 2010 | [`lege/2011/181/`](lege/2011/181/) | amending act | 1 | 2011-10-22 | 2011-10-22 |
+| Legea nr. 183/2011 pentru aprobarea Ordonanţei Guvernului nr. 16/2010 privind preluarea Centrului Naţional de Cercetare-Dezvoltare pentru Protecţia Construcţiilor la Acţiuni Seismice şi Alunecări de Teren - CNRRS, aflat în subordinea Ministerului Dezvoltării Regionale şi Turismului, de către Institutul Naţional de Cercetare-Dezvoltare în Construcţii, Urbanism şi Dezvoltare Teritorială Durabilă "URBAN-INCERC", aflat în coordonarea Ministerului Dezvoltării Regionale şi Turismului, prin procedura comasării prin absorbţie | [`lege/2011/183/`](lege/2011/183/) | amending act | 1 | 2011-10-22 | 2011-10-22 |
+| Legea nr. 184/2011 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 11/2011 privind utilizarea indicatorului de referinţă câştigul salarial mediu brut în actele normative din domeniul muncii şi protecţiei sociale | [`lege/2011/184/`](lege/2011/184/) | amending act | 1 | 2011-10-22 | 2011-10-22 |
 | Legea nr. 185/2011 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 26/2011 privind stabilirea unor măsuri organizatorice la nivelul aparatului de lucru al Guvernului şi al unor ministere, precum şi pentru stabilirea unor măsuri financiar-bugetare | [`lege/2011/185/`](lege/2011/185/) | amending act | 1 | 2011-10-29 | 2011-10-29 |
 | Legea nr. 186/2011 pentru modificarea şi completarea Legii nr. 217/2005 privind constituirea, organizarea şi funcţionarea comitetului european de întreprindere | [`lege/2011/186/`](lege/2011/186/) | amending act | 1 | 2011-10-31 | 2011-10-31 |
 | Legea nr. 187/2011 | [`lege/2011/187/`](lege/2011/187/) | in force | 2 | 2011-11-03 | 2022-12-14 |
@@ -5607,7 +5619,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (15362, of which 7855 amending acts)
+## Government decisions (HG) (15374, of which 7864 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -8830,8 +8842,20 @@
 | Hotărârea Guvernului nr. 967/2011 | [`hg/2011/967/`](hg/2011/967/) | in force | 2 | 2011-10-07 | 2011-12-09 |
 | Hotărârea Guvernului nr. 980/2011 | [`hg/2011/980/`](hg/2011/980/) | in force | 1 | 2011-10-25 | 2011-10-25 |
 | Hotărârea Guvernului nr. 1016/2011 | [`hg/2011/1016/`](hg/2011/1016/) | in force | 2 | 2011-10-24 | 2022-07-15 |
+| Hotărârea Guvernului nr. 1019/2011 pentru modificarea şi completarea Hotărârii Guvernului nr. 492/2004 privind organizarea şi funcţionarea institutelor culturale româneşti din străinătate prin reorganizarea centrelor culturale din străinătate, precum şi înfiinţarea unor institute noi | [`hg/2011/1019/`](hg/2011/1019/) | amending act | 1 | 2011-10-25 | 2011-10-25 |
+| Hotărârea Guvernului nr. 1020/2011 privind aprobarea Acordului petrolier de concesiune pentru explorare-dezvoltare-exploatare, în perimetrul EX-27 Muridava, încheiat între Agenţia Naţională pentru Resurse Minerale şi Melrose Resources România B.V. împreună cu Societatea Comercială "Petromar Resources" - S.A | [`hg/2011/1020/`](hg/2011/1020/) | amending act | 1 | 2011-10-24 | 2011-10-24 |
+| Hotărârea Guvernului nr. 1021/2011 privind aprobarea Acordului petrolier de concesiune pentru explorare-dezvoltare-exploatare, în perimetrul EX-28 Est Cobălcescu, încheiat între Agenţia Naţională pentru Resurse Minerale şi Melrose Resources România B.V. împreună cu Societatea Comercială "Petromar Resources" - S.A | [`hg/2011/1021/`](hg/2011/1021/) | amending act | 1 | 2011-10-24 | 2011-10-24 |
+| Hotărârea Guvernului nr. 1022/2011 privind aprobarea Acordului petrolier de concesiune pentru explorare-dezvoltare-exploatare, în perimetrul EX - 25 Luceafărul, încheiat între Agenţia Naţională pentru Resurse Minerale şi Petro Ventures Europe B.V | [`hg/2011/1022/`](hg/2011/1022/) | amending act | 1 | 2011-10-24 | 2011-10-24 |
 | Hotărârea Guvernului nr. 1023/2011 | [`hg/2011/1023/`](hg/2011/1023/) | in force | 1 | 2011-10-25 | 2011-10-25 |
 | Hotărârea Guvernului nr. 1024/2011 | [`hg/2011/1024/`](hg/2011/1024/) | in force | 1 | 2011-10-24 | 2011-10-24 |
+| Hotărârea Guvernului nr. 1026/2011 pentru aprobarea indicatorilor tehnico-economici aferenţi lucrărilor de intervenţii "Refacere sistem rutier DN 22 km 227+000 - km 287+400" | [`hg/2011/1026/`](hg/2011/1026/) | amending act | 1 | 2011-10-24 | 2011-10-24 |
+| Hotărârea Guvernului nr. 1027/2011 pentru aprobarea indicatorilor tehnico-economici aferenţi lucrărilor de intervenţii "Consolidare sistem rutier DN 18 km 3+522 - km 15+000" | [`hg/2011/1027/`](hg/2011/1027/) | amending act | 1 | 2011-10-24 | 2011-10-24 |
+| Hotărârea Guvernului nr. 1029/2011 privind actualizarea inventarului centralizat al bunurilor din domeniul public al statului, ca urmare a schimbării unităţii de administrare a unui imobil aflat în domeniul public al statului şi în administrarea Ministerului Administraţiei şi Internelor | [`hg/2011/1029/`](hg/2011/1029/) | in force | 1 | 2011-10-21 | 2011-10-21 |
+| Hotărârea Guvernului nr. 1030/2011 pentru aprobarea indicatorilor tehnico-economici aferenţi lucrărilor de intervenţii "Consolidare DN 59C km 0+000 - km 41+900 Jimbolia - Sânnicolau Mare" | [`hg/2011/1030/`](hg/2011/1030/) | amending act | 1 | 2011-10-24 | 2011-10-24 |
+| Hotărârea Guvernului nr. 1031/2011 pentru aprobarea indicatorilor tehnico-economici aferenţi lucrărilor de intervenţii "Reparaţii sistem rutier DN 21 km 70+900 - km 87+850" | [`hg/2011/1031/`](hg/2011/1031/) | amending act | 1 | 2011-10-24 | 2011-10-24 |
+| Hotărârea Guvernului nr. 1032/2011 privind stabilirea unor contravenţii în domeniul aviaţiei civile | [`hg/2011/1032/`](hg/2011/1032/) | in force | 1 | 2011-12-24 | 2011-12-24 |
+| Hotărârea Guvernului nr. 1034/2011 pentru aprobarea indicatorilor tehnico-economici aferenţi lucrărilor de intervenţii "Reabilitare primară DN 15E Târgu Mureş - Satu Nou, km 6+275 - km 45+280" | [`hg/2011/1034/`](hg/2011/1034/) | amending act | 1 | 2011-10-21 | 2011-10-21 |
+| Hotărârea Guvernului nr. 1036/2011 privind declanşarea procedurilor de expropriere a imobilelor proprietate privată care constituie coridorul de expropriere al lucrării de utilitate publică "Drum de legătură DN 1A - Ocolitoarea mică a municipiului Săcele - Platforma Electroprecizia", judeţul Braşov | [`hg/2011/1036/`](hg/2011/1036/) | in force | 1 | 2011-10-21 | 2011-10-21 |
 | Hotărârea Guvernului nr. 1039/2011 privind recunoaşterea Asociaţiei "Memorialul Revoluţiei 16-22 Decembrie 1989 Timişoara" ca fiind de utilitate publică | [`hg/2011/1039/`](hg/2011/1039/) | in force | 1 | 2011-10-27 | 2011-10-27 |
 | Hotărârea Guvernului nr. 1040/2011 | [`hg/2011/1040/`](hg/2011/1040/) | in force | 2 | 2011-11-08 | 2012-06-22 |
 | Hotărârea Guvernului nr. 1046/2011 pentru aprobarea indicatorilor tehnico-economici aferenţi lucrărilor de intervenţii "Consolidare DN 57 km 152+990-km 200+745 Oraviţa-Moraviţa" | [`hg/2011/1046/`](hg/2011/1046/) | amending act | 1 | 2011-11-04 | 2011-11-04 |
