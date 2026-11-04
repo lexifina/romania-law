@@ -1,6 +1,6 @@
 # Every act in this repository
 
-26756 acts, 40,398 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+26790 acts, 40,432 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (3835, of which 2246 amending acts)
+## Laws (legi) (3837, of which 2248 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -578,6 +578,8 @@
 | Legea nr. 504/2004 | [`lege/2004/504/`](lege/2004/504/) | in force | 2 | 2004-12-29 | 2006-05-15 |
 | Legea nr. 506/2004 privind prelucrarea datelor cu caracter personal și protecția vieții private în sectorul comunicațiilor electronice | [`lege/2004/506/`](lege/2004/506/) | in force | 9 | 2004-11-28 | 2024-10-08 |
 | Legea nr. 510/2004 | [`lege/2004/510/`](lege/2004/510/) | repealed 2011-12-27 | 4 | 2004-11-25 | 2011-12-27 |
+| Legea nr. 523/2004 privind aprobarea Ordonanţei Guvernului nr. 68/2004 pentru modificarea şi completarea Legii spitalelor nr. 270/2003 | [`lege/2004/523/`](lege/2004/523/) | amending act | 1 | 2004-12-02 | 2004-12-02 |
+| Legea nr. 524/2004 pentru modificarea şi completarea Legii Societăţii Naţionale de Cruce Roşie din România nr. 139/1995 | [`lege/2004/524/`](lege/2004/524/) | amending act | 1 | 2004-12-02 | 2004-12-02 |
 | Legea nr. 529/2004 pentru aprobarea Ordonanţei Guvernului nr. 89/2004 privind unele măsuri pentru constituirea şi utilizarea eficientă a veniturilor cu destinaţie specială în sectorul energetic | [`lege/2004/529/`](lege/2004/529/) | amending act | 1 | 2004-12-09 | 2004-12-09 |
 | Legea nr. 530/2004 pentru completarea art. 2 din Ordonanţa de urgenţă a Guvernului nr. 142/2000 privind înfiinţarea, organizarea şi funcţionarea Agenţiei SAPARD pentru implementarea tehnică şi financiară a Instrumentului special de preaderare pentru agricultură şi dezvoltare rurală | [`lege/2004/530/`](lege/2004/530/) | amending act | 1 | 2004-12-09 | 2004-12-09 |
 | Legea nr. 531/2004 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 76/2004 pentru ratificarea Protocolului adiţional la Scrisoarea de înţelegere privind controlul drogurilor şi aplicarea legii, semnată la Bucureşti la 3 iulie 2001 între Guvernul României şi Guvernul Statelor Unite ale Americii, semnat la Bucureşti la 17 septembrie 2004 | [`lege/2004/531/`](lege/2004/531/) | amending act | 1 | 2004-12-04 | 2004-12-04 |
@@ -3873,7 +3875,7 @@
 | Legea nr. 204/2026 privind aprobarea Ordonanţei Guvernului nr. 22/2025 pentru modificarea şi completarea Legii nr. 227/2015 privind Codul fiscal şi pentru completarea articolului 342 din Legea nr. 227/2015 privind Codul fiscal | [`lege/2026/204/`](lege/2026/204/) | amending act | 1 | 2026-10-25 | 2026-10-25 |
 | Legea nr. 205/2026 pentru completarea Ordonanţei Guvernului nr. 22/2002 privind executarea obligaţiilor de plată ale instituţiilor publice, stabilite prin titluri executorii | [`lege/2026/205/`](lege/2026/205/) | amending act | 1 | 2026-11-02 | 2026-11-02 |
 
-## Emergency ordinances (OUG) (1749, of which 619 amending acts)
+## Emergency ordinances (OUG) (1750, of which 619 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -4122,6 +4124,7 @@
 | Ordonanța de urgență a Guvernului nr. 102/2004 pentru modificarea și completarea Legii nr. 360/2002 privind Statutul polițistului | [`oug/2004/102/`](oug/2004/102/) | amending act | 2 | 2004-11-22 | 2005-03-10 |
 | Ordonanța de urgență a Guvernului nr. 115/2004 | [`oug/2004/115/`](oug/2004/115/) | in force | 9 | 2005-01-01 | 2023-06-30 |
 | Ordonanța de urgență a Guvernului nr. 124/2004 | [`oug/2004/124/`](oug/2004/124/) | in force | 2 | 2004-12-09 | 2005-04-14 |
+| Ordonanța de urgență a Guvernului nr. 126/2004 privind trecerea Teatrului Naţional din Târgu Mureş, judeţul Mureş, în subordinea Ministerului Culturii şi Cultelor | [`oug/2004/126/`](oug/2004/126/) | in force | 1 | 2004-12-13 | 2004-12-13 |
 | Ordonanța de urgență a Guvernului nr. 137/2004 | [`oug/2004/137/`](oug/2004/137/) | in force | 2 | 2004-12-29 | 2005-03-24 |
 | Ordonanța de urgență a Guvernului nr. 141/2004 | [`oug/2004/141/`](oug/2004/141/) | in force | 2 | 2004-12-30 | 2005-03-06 |
 | Ordonanța de urgență a Guvernului nr. 142/2004 pentru suspendarea aplicării prevederilor Ordonanţei de urgenţă a Guvernului nr. 101/2004 privind preluarea de către Autoritatea pentru Valorificarea Activelor Statului a unor creanţe fiscale asupra societăţilor comerciale "RAFO" - S.A. Oneşti şi "CAROM" - S.A. Oneşti | [`oug/2004/142/`](oug/2004/142/) | amending act | 1 | 2004-12-30 | 2004-12-30 |
@@ -6163,7 +6166,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (20602, of which 10606 amending acts)
+## Government decisions (HG) (20633, of which 10612 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -6653,6 +6656,37 @@
 | Hotărârea Guvernului nr. 1946/2004 | [`hg/2004/1946/`](hg/2004/1946/) | in force | 2 | 2004-12-02 | 2009-11-23 |
 | Hotărârea Guvernului nr. 1996/2004 | [`hg/2004/1996/`](hg/2004/1996/) | in force | 3 | 2004-12-01 | 2014-10-09 |
 | Hotărârea Guvernului nr. 1997/2004 | [`hg/2004/1997/`](hg/2004/1997/) | in force | 2 | 2004-12-22 | 2010-04-30 |
+| Hotărârea Guvernului nr. 2009/2004 privind regimul de import al produselor periculoase pentru sănătatea populaţiei şi pentru mediu | [`hg/2004/2009/`](hg/2004/2009/) | in force | 1 | 2005-01-01 | 2005-01-01 |
+| Hotărârea Guvernului nr. 2010/2004 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2004, pentru judeţul Suceava | [`hg/2004/2010/`](hg/2004/2010/) | in force | 1 | 2004-11-26 | 2004-11-26 |
+| Hotărârea Guvernului nr. 2011/2004 privind suplimentarea bugetului Ministerului Culturii şi Cultelor din Fondul de rezervă bugetară la dispoziţia Guvernului pe anul 2004, pentru finanţarea unor lucrări de amenajare la Mănăstirea Putna, judeţul Suceava, Arhiepiscopia Sucevei şi Rădăuţilor | [`hg/2004/2011/`](hg/2004/2011/) | in force | 1 | 2004-11-26 | 2004-11-26 |
+| Hotărârea Guvernului nr. 2012/2004 privind suplimentarea bugetului Ministerului Culturii şi Cultelor din Fondul de rezervă bugetară la dispoziţia Guvernului pe anul 2004, pentru continuarea lucrărilor de construcţie la Catedrala Ortodoxă "Naşterea Domnului" din municipiul Suceava, judeţul Suceava, Arhiepiscopia Sucevei şi Rădăuţilor | [`hg/2004/2012/`](hg/2004/2012/) | in force | 1 | 2004-11-26 | 2004-11-26 |
+| Hotărârea Guvernului nr. 2013/2004 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2004, pentru judeţul Vrancea | [`hg/2004/2013/`](hg/2004/2013/) | in force | 1 | 2004-11-26 | 2004-11-26 |
+| Hotărârea Guvernului nr. 2014/2004 privind suplimentarea bugetului Ministerului Culturii şi Cultelor din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2004, pentru finalizarea lucrărilor de construcţie la Biserica Ortodoxă "Sfântul Apostol Toma" din municipiul Cluj-Napoca, judeţul Cluj | [`hg/2004/2014/`](hg/2004/2014/) | in force | 1 | 2004-11-24 | 2004-11-24 |
+| Hotărârea Guvernului nr. 2017/2004 privind aprobarea desfăşurării unei serii de manifestări complexe care să marcheze sărbătorirea Zilei Naţionale a României în Italia | [`hg/2004/2017/`](hg/2004/2017/) | amending act | 1 | 2004-11-26 | 2004-11-26 |
+| Hotărârea Guvernului nr. 2018/2004 privind acoperirea cheltuielilor aferente deplasării şi pregătirii în România a cinci experţi electorali irakieni, în perioada 25 noiembrie - 2 decembrie 2004 | [`hg/2004/2018/`](hg/2004/2018/) | in force | 1 | 2004-11-26 | 2004-11-26 |
+| Hotărârea Guvernului nr. 2019/2004 privind suplimentarea bugetului Ministerului Sănătăţii din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2004 | [`hg/2004/2019/`](hg/2004/2019/) | in force | 1 | 2004-11-26 | 2004-11-26 |
+| Hotărârea Guvernului nr. 2020/2004 privind suplimentarea bugetului Ministerului Sănătăţii din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2004 | [`hg/2004/2020/`](hg/2004/2020/) | in force | 1 | 2004-11-26 | 2004-11-26 |
+| Hotărârea Guvernului nr. 2021/2004 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2004, pentru Prefectura Judeţului Galaţi | [`hg/2004/2021/`](hg/2004/2021/) | in force | 1 | 2004-11-26 | 2004-11-26 |
+| Hotărârea Guvernului nr. 2022/2004 privind acordarea unui ajutor umanitar, constând în materiale de construcţii şi reparat case, pentru populaţia din judeţele Gorj şi Hunedoara afectată de fenomenele meteorologice periculoase care s-au produs în perioada 8-15 noiembrie 2004 | [`hg/2004/2022/`](hg/2004/2022/) | in force | 1 | 2004-11-26 | 2004-11-26 |
+| Hotărârea Guvernului nr. 2024/2004 pentru modificarea anexei nr. IV la Hotărârea Guvernului nr. 1.476/2003 privind aprobarea bugetelor de venituri şi cheltuieli pe anul 2004 pentru companiile, societăţile naţionale şi societăţile comerciale, aflate sub autoritatea sau în coordonarea Ministerului Economiei şi Comerţului, precum şi a transferurilor pentru societăţile comerciale | [`hg/2004/2024/`](hg/2004/2024/) | amending act | 1 | 2004-11-26 | 2004-11-26 |
+| Hotărârea Guvernului nr. 2025/2004 privind suplimentarea bugetului Ministerului Culturii şi Cultelor din Fondul de rezervă bugetară la dispoziţia Guvernului pe anul 2004, pentru Mănăstirea Lainici, judeţul Gorj, din cadrul Arhiepiscopiei Ortodoxe a Craiovei | [`hg/2004/2025/`](hg/2004/2025/) | in force | 1 | 2004-11-26 | 2004-11-26 |
+| Hotărârea Guvernului nr. 2026/2004 pentru modificarea anexei la Hotărârea Guvernului nr. 1.611/2004 privind cheltuielile necesare pentru pregătirea, organizarea şi desfăşurarea alegerilor pentru Camera Deputaţilor, Senat şi Preşedintele României din anul 2004 | [`hg/2004/2026/`](hg/2004/2026/) | amending act | 1 | 2004-11-26 | 2004-11-26 |
+| Hotărârea Guvernului nr. 2027/2004 privind suplimentarea bugetului Ministerului Culturii şi Cultelor din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2004, pentru continuarea lucrărilor la Biserica Ortodoxă "Sfântul Mare Mucenic şi Tămăduitor Pantelimon" din incinta Schitului "Sfântul Mina" din oraşul Târgu-Neamţ, judeţul Neamţ | [`hg/2004/2027/`](hg/2004/2027/) | in force | 1 | 2004-11-26 | 2004-11-26 |
+| Hotărârea Guvernului nr. 2030/2004 privind suplimentarea bugetului Secretariatului General al Guvernului din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2004 | [`hg/2004/2030/`](hg/2004/2030/) | in force | 1 | 2004-11-27 | 2004-11-27 |
+| Hotărârea Guvernului nr. 2031/2004 privind suplimentarea bugetului Ministerului Public din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2004 | [`hg/2004/2031/`](hg/2004/2031/) | in force | 1 | 2004-11-27 | 2004-11-27 |
+| Hotărârea Guvernului nr. 2032/2004 privind suplimentarea bugetului Ministerului Educaţiei şi Cercetării din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2004 | [`hg/2004/2032/`](hg/2004/2032/) | in force | 1 | 2004-11-27 | 2004-11-27 |
+| Hotărârea Guvernului nr. 2033/2004 privind redistribuirea unei sume în bugetul Ministerului Educaţiei şi Cercetării pe anul 2004 pentru lucrări de execuţie la unele obiective de investiţii, consolidări şi reabilitări imobile din învăţământul preuniversitar | [`hg/2004/2033/`](hg/2004/2033/) | in force | 1 | 2004-11-27 | 2004-11-27 |
+| Hotărârea Guvernului nr. 2034/2004 pentru modificarea structurii sumelor alocate Ministerului Administraţiei şi Internelor din credite externe pe anul 2004 | [`hg/2004/2034/`](hg/2004/2034/) | amending act | 1 | 2004-11-27 | 2004-11-27 |
+| Hotărârea Guvernului nr. 2035/2004 privind suplimentarea bugetului Ministerului Justiţiei - Direcţia Generală de Protecţie şi Anticorupţie din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2004 | [`hg/2004/2035/`](hg/2004/2035/) | in force | 1 | 2004-11-27 | 2004-11-27 |
+| Hotărârea Guvernului nr. 2036/2004 privind suplimentarea bugetului Ministerului Justiţiei din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2004 | [`hg/2004/2036/`](hg/2004/2036/) | in force | 1 | 2004-11-27 | 2004-11-27 |
+| Hotărârea Guvernului nr. 2037/2004 privind suplimentarea bugetului Ministerului Administraţiei şi Internelor din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2004 | [`hg/2004/2037/`](hg/2004/2037/) | in force | 1 | 2004-11-27 | 2004-11-27 |
+| Hotărârea Guvernului nr. 2040/2004 pentru aprobarea rectificării bugetului de venituri şi cheltuieli al Ministerului Transporturilor, Construcţiilor şi Turismului privind activitatea de privatizare pe anul 2004 | [`hg/2004/2040/`](hg/2004/2040/) | amending act | 1 | 2004-11-27 | 2004-11-27 |
+| Hotărârea Guvernului nr. 2041/2004 privind suplimentarea bugetului Ministerului Afacerilor Externe din Fondul de rezervă bugetară la dispoziţia Guvernului pe anul 2004 | [`hg/2004/2041/`](hg/2004/2041/) | in force | 1 | 2004-11-27 | 2004-11-27 |
+| Hotărârea Guvernului nr. 2042/2004 pentru aprobarea redistribuirii sumelor alocate din credite externe pe anul 2004 | [`hg/2004/2042/`](hg/2004/2042/) | amending act | 1 | 2004-11-27 | 2004-11-27 |
+| Hotărârea Guvernului nr. 2043/2004 privind suplimentarea bugetului Serviciului de Informaţii Externe din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2004 | [`hg/2004/2043/`](hg/2004/2043/) | in force | 1 | 2004-11-27 | 2004-11-27 |
+| Hotărârea Guvernului nr. 2044/2004 privind acordarea unui ajutor | [`hg/2004/2044/`](hg/2004/2044/) | in force | 1 | 2004-11-26 | 2004-11-26 |
+| Hotărârea Guvernului nr. 2045/2004 privind acordarea unor ajutoare financiare | [`hg/2004/2045/`](hg/2004/2045/) | in force | 1 | 2004-11-26 | 2004-11-26 |
+| Hotărârea Guvernului nr. 2046/2004 privind suplimentarea bugetului Ministerului Muncii, Solidarităţii Sociale şi Familiei din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2004 | [`hg/2004/2046/`](hg/2004/2046/) | in force | 1 | 2004-11-26 | 2004-11-26 |
 | Hotărârea Guvernului nr. 2047/2004 privind acordarea unor ajutoare financiare | [`hg/2004/2047/`](hg/2004/2047/) | in force | 1 | 2004-11-27 | 2004-11-27 |
 | Hotărârea Guvernului nr. 2048/2004 privind acordarea unor ajutoare financiare | [`hg/2004/2048/`](hg/2004/2048/) | in force | 1 | 2004-11-27 | 2004-11-27 |
 | Hotărârea Guvernului nr. 2049/2004 privind aprobarea stemelor unor comune din judeţul Caraş-Severin | [`hg/2004/2049/`](hg/2004/2049/) | amending act | 1 | 2004-12-08 | 2004-12-08 |
