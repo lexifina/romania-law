@@ -1,6 +1,6 @@
 # Every act in this repository
 
-24661 acts, 38,295 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+24673 acts, 38,307 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -6021,7 +6021,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (18649, of which 9570 amending acts)
+## Government decisions (HG) (18661, of which 9570 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -6620,6 +6620,18 @@
 | Hotărârea Guvernului nr. 1581/2005 | [`hg/2005/1581/`](hg/2005/1581/) | in force | 1 | 2006-01-11 | 2006-01-11 |
 | Hotărârea Guvernului nr. 1724/2005 | [`hg/2005/1724/`](hg/2005/1724/) | in force | 3 | 2006-01-29 | 2007-05-04 |
 | Hotărârea Guvernului nr. 1768/2005 | [`hg/2005/1768/`](hg/2005/1768/) | in force | 4 | 2005-12-28 | 2009-11-27 |
+| Hotărârea Guvernului nr. 1784/2005 privind numirea domnului Tişe Alin-Păunel în funcţia publică de prefect al judeţului Cluj | [`hg/2005/1784/`](hg/2005/1784/) | in force | 1 | 2005-12-29 | 2005-12-29 |
+| Hotărârea Guvernului nr. 1788/2005 privind numirea domnului Capră Mihai în funcţia publică de prefect al judeţului Galaţi | [`hg/2005/1788/`](hg/2005/1788/) | in force | 1 | 2005-12-29 | 2005-12-29 |
+| Hotărârea Guvernului nr. 1789/2005 privind numirea domnului Stănişteanu Sergiu Noruţ în funcţia publică de prefect al judeţului Giurgiu | [`hg/2005/1789/`](hg/2005/1789/) | in force | 1 | 2005-12-29 | 2005-12-29 |
+| Hotărârea Guvernului nr. 1790/2005 privind numirea domnului Popescu-Bejat Ştefan-Marian în funcţia publică de prefect al judeţului Gorj | [`hg/2005/1790/`](hg/2005/1790/) | in force | 1 | 2005-12-29 | 2005-12-29 |
+| Hotărârea Guvernului nr. 1796/2005 privind numirea domnului Madaras Lazar în funcţia publică de prefect al judeţului Mehedinţi | [`hg/2005/1796/`](hg/2005/1796/) | in force | 1 | 2005-12-29 | 2005-12-29 |
+| Hotărârea Guvernului nr. 1797/2005 privind numirea domnului Dobre Ciprian Minodor în funcţia publică de prefect al judeţului Mureş | [`hg/2005/1797/`](hg/2005/1797/) | in force | 1 | 2005-12-29 | 2005-12-29 |
+| Hotărârea Guvernului nr. 1798/2005 privind numirea domnului Mocanu Toader în funcţia publică de prefect al judeţului Neamţ | [`hg/2005/1798/`](hg/2005/1798/) | in force | 1 | 2005-12-29 | 2005-12-29 |
+| Hotărârea Guvernului nr. 1799/2005 privind numirea domnului Popescu Octavian în funcţia publică de prefect al judeţului Olt | [`hg/2005/1799/`](hg/2005/1799/) | in force | 1 | 2005-12-29 | 2005-12-29 |
+| Hotărârea Guvernului nr. 1804/2005 privind numirea domnului Onofrei Orest în funcţia publică de prefect al judeţului Suceava | [`hg/2005/1804/`](hg/2005/1804/) | in force | 1 | 2005-12-29 | 2005-12-29 |
+| Hotărârea Guvernului nr. 1805/2005 privind numirea domnului Izină Ionel în funcţia publică de prefect al judeţului Teleorman | [`hg/2005/1805/`](hg/2005/1805/) | in force | 1 | 2005-12-29 | 2005-12-29 |
+| Hotărârea Guvernului nr. 1806/2005 privind numirea domnului Drăgănescu Ovidiu-Virgil în funcţia publică de prefect al judeţului Timiş | [`hg/2005/1806/`](hg/2005/1806/) | in force | 1 | 2005-12-29 | 2005-12-29 |
+| Hotărârea Guvernului nr. 1807/2005 privind numirea domnului Chirică Lefter în funcţia publică de prefect al judeţului Tulcea | [`hg/2005/1807/`](hg/2005/1807/) | in force | 1 | 2005-12-29 | 2005-12-29 |
 | Hotărârea Guvernului nr. 1808/2005 privind numirea domnului Zaharia Ioan în funcţia publică de prefect al judeţului Vaslui | [`hg/2005/1808/`](hg/2005/1808/) | in force | 1 | 2005-12-29 | 2005-12-29 |
 | Hotărârea Guvernului nr. 1809/2005 privind numirea doamnei Handolescu Anuţa în funcţia publică de prefect al judeţului Vâlcea | [`hg/2005/1809/`](hg/2005/1809/) | in force | 1 | 2005-12-29 | 2005-12-29 |
 | Hotărârea Guvernului nr. 1810/2005 privind numirea domnului Oprea Ion în funcţia publică de prefect al judeţului Vrancea | [`hg/2005/1810/`](hg/2005/1810/) | in force | 1 | 2005-12-29 | 2005-12-29 |
