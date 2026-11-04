@@ -1,6 +1,6 @@
 # Every act in this repository
 
-22537 acts, 36,170 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+22550 acts, 36,183 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (3455, of which 1946 amending acts)
+## Laws (legi) (3458, of which 1948 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -936,6 +936,9 @@
 | Legea nr. 354/2009 privind aprobarea Ordonanței de urgență a Guvernului nr. 36/2009 pentru modificarea și completarea Legii cetățeniei române nr. 21/1991 | [`lege/2009/354/`](lege/2009/354/) | amending act | 2 | 2009-11-19 | 2010-02-10 |
 | Legea nr. 355/2009 | [`lege/2009/355/`](lege/2009/355/) | in force | 1 | 2010-02-23 | 2010-02-23 |
 | Legea nr. 381/2009 | [`lege/2009/381/`](lege/2009/381/) | repealed 2014-06-28 | 3 | 2010-01-13 | 2014-06-28 |
+| Legea nr. 386/2009 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 163/2008 pentru abrogarea Ordonanţei de urgenţă a Guvernului nr. 45/2006 privind unele măsuri pentru privatizarea Societăţii Comerciale "Oltchim" - S.A. Râmnicu Vâlcea | [`lege/2009/386/`](lege/2009/386/) | amending act | 1 | 2009-12-21 | 2009-12-21 |
+| Legea nr. 388/2009 privind acceptarea Acordului dintre Republica Albania, Republica Austria, Republica Bulgaria, Bosnia şi Herţegovina, Republica Croaţia, Republica Cehă, Republica Ungară, Republica Macedonia, Muntenegru, Republica Polonă, România, Republica Serbia, Republica Slovacă şi Republica Slovenia pentru promovarea cooperării în domeniul învăţământului superior în cadrul Programului de schimburi pentru studii universitare în Europa Centrală (CEEPUS II), revizuit de Comitetul mixt al miniştrilor în 16 martie 2007 la Zagreb, Republica Croaţia | [`lege/2009/388/`](lege/2009/388/) | in force | 1 | 2010-01-16 | 2010-01-16 |
+| Legea nr. 391/2009 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 84/2009 pentru prorogarea termenului prevăzut la art. 9 alin. (1) din Legea recunoştinţei faţă de eroii-martiri şi luptătorii care au contribuit la victoria Revoluţiei române din decembrie 1989, precum şi faţă de persoanele care şi-au jertfit viaţa sau au avut de suferit în urma revoltei muncitoreşti anticomuniste de la Braşov din noiembrie 1987 nr. 341/2004 | [`lege/2009/391/`](lege/2009/391/) | amending act | 1 | 2010-01-01 | 2010-01-01 |
 | Legea nr. 7/2010 | [`lege/2010/7/`](lege/2010/7/) | in force | 1 | 2010-01-14 | 2010-01-14 |
 | Legea nr. 13/2010 | [`lege/2010/13/`](lege/2010/13/) | in force | 1 | 2010-03-07 | 2010-03-07 |
 | Legea nr. 14/2010 | [`lege/2010/14/`](lege/2010/14/) | in force | 1 | 2010-03-07 | 2010-03-07 |
@@ -3493,7 +3496,7 @@
 | Legea nr. 204/2026 privind aprobarea Ordonanţei Guvernului nr. 22/2025 pentru modificarea şi completarea Legii nr. 227/2015 privind Codul fiscal şi pentru completarea articolului 342 din Legea nr. 227/2015 privind Codul fiscal | [`lege/2026/204/`](lege/2026/204/) | amending act | 1 | 2026-10-25 | 2026-10-25 |
 | Legea nr. 205/2026 pentru completarea Ordonanţei Guvernului nr. 22/2002 privind executarea obligaţiilor de plată ale instituţiilor publice, stabilite prin titluri executorii | [`lege/2026/205/`](lege/2026/205/) | amending act | 1 | 2026-11-02 | 2026-11-02 |
 
-## Emergency ordinances (OUG) (1722, of which 606 amending acts)
+## Emergency ordinances (OUG) (1723, of which 606 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -4053,6 +4056,7 @@
 | Ordonanța de urgență a Guvernului nr. 114/2009 privind unele măsuri financiar-bugetare | [`oug/2009/114/`](oug/2009/114/) | in force | 2 | 2011-01-01 | 2017-12-07 |
 | Ordonanța de urgență a Guvernului nr. 115/2009 | [`oug/2009/115/`](oug/2009/115/) | in force | 2 | 2009-12-29 | 2013-03-21 |
 | Ordonanța de urgență a Guvernului nr. 116/2009 pentru instituirea unor măsuri privind activitatea de înregistrare în registrul comerțului | [`oug/2009/116/`](oug/2009/116/) | in force | 5 | 2010-01-14 | 2022-11-26 |
+| Ordonanța de urgență a Guvernului nr. 117/2009 pentru aplicarea unor măsuri privind taxa pe poluare pentru autovehicule | [`oug/2009/117/`](oug/2009/117/) | in force | 1 | 2009-12-30 | 2009-12-30 |
 | Ordonanța de urgență a Guvernului nr. 1/2010 | [`oug/2010/1/`](oug/2010/1/) | repealed 2011-01-01 | 2 | 2010-01-27 | 2011-01-01 |
 | Ordonanța de urgență a Guvernului nr. 2/2010 | [`oug/2010/2/`](oug/2010/2/) | in force | 2 | 2010-02-03 | 2013-03-21 |
 | Ordonanța de urgență a Guvernului nr. 3/2010 | [`oug/2010/3/`](oug/2010/3/) | in force | 2 | 2010-02-19 | 2010-07-22 |
@@ -5753,7 +5757,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (16793, of which 8739 amending acts)
+## Government decisions (HG) (16802, of which 8744 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -8804,10 +8808,19 @@
 | Hotărârea Guvernului nr. 1431/2009 | [`hg/2009/1431/`](hg/2009/1431/) | in force | 3 | 2009-12-10 | 2010-09-03 |
 | Hotărârea Guvernului nr. 1476/2009 | [`hg/2009/1476/`](hg/2009/1476/) | in force | 5 | 2009-12-03 | 2023-06-07 |
 | Hotărârea Guvernului nr. 1489/2009 | [`hg/2009/1489/`](hg/2009/1489/) | in force | 1 | 2009-12-10 | 2009-12-10 |
+| Hotărârea Guvernului nr. 1602/2009 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţie "Bazin de înot olimpic - Bd. Gării nr. 21, municipiul Braşov, judeţul Braşov" - structură preluată, din cadrul Programului "Bazine de înot", realizat prin Compania Naţională de Investiţii "C.N.I." - S.A | [`hg/2009/1602/`](hg/2009/1602/) | amending act | 1 | 2009-12-24 | 2009-12-24 |
+| Hotărârea Guvernului nr. 1604/2009 pentru modificarea şi completarea Hotărârii Guvernului nr. 1.359/2001 privind atestarea domeniului public al judeţului Prahova, precum şi al municipiilor, oraşelor şi comunelor din judeţul Prahova | [`hg/2009/1604/`](hg/2009/1604/) | amending act | 1 | 2010-01-11 | 2010-01-11 |
 | Hotărârea Guvernului nr. 1609/2009 | [`hg/2009/1609/`](hg/2009/1609/) | in force | 1 | 2009-12-30 | 2009-12-30 |
 | Hotărârea Guvernului nr. 1611/2009 | [`hg/2009/1611/`](hg/2009/1611/) | in force | 2 | 2010-01-08 | 2016-08-16 |
 | Hotărârea Guvernului nr. 1613/2009 | [`hg/2009/1613/`](hg/2009/1613/) | in force | 1 | 2010-01-01 | 2010-01-01 |
+| Hotărârea Guvernului nr. 1614/2009 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2009, pentru judeţul Timiş | [`hg/2009/1614/`](hg/2009/1614/) | in force | 1 | 2009-12-24 | 2009-12-24 |
+| Hotărârea Guvernului nr. 1615/2009 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2009, pentru judeţul Maramureş | [`hg/2009/1615/`](hg/2009/1615/) | in force | 1 | 2009-12-24 | 2009-12-24 |
+| Hotărârea Guvernului nr. 1616/2009 privind suplimentarea bugetului Ministerului Justiţiei din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2009 | [`hg/2009/1616/`](hg/2009/1616/) | in force | 1 | 2009-12-24 | 2009-12-24 |
+| Hotărârea Guvernului nr. 1617/2009 pentru prorogarea termenului prevăzut la art. 6 din Hotărârea Guvernului nr. 620/2007 privind modalitatea de utilizare a fondurilor alocate de Uniunea Europeană prin intermediul Facilităţii Schengen şi pentru fluxurile de numerar | [`hg/2009/1617/`](hg/2009/1617/) | amending act | 1 | 2009-12-29 | 2009-12-29 |
+| Hotărârea Guvernului nr. 1623/2009 privind exercitarea, cu caracter temporar, a funcţiei publice de subprefect al judeţului Tulcea de către doamna Petrescu Laura-Cătălina | [`hg/2009/1623/`](hg/2009/1623/) | in force | 1 | 2009-12-30 | 2009-12-30 |
+| Hotărârea Guvernului nr. 1625/2009 pentru completarea art. 3 din Hotărârea Guvernului nr. 954/2008 privind rectificarea bugetelor de venituri şi cheltuieli ale Inspectoratului de Stat în Construcţii şi Comisiei Naţionale pentru Controlul Activităţilor Nucleare pe anul 2008 şi acordarea de ajutoare pentru daunele provocate de calamităţile naturale | [`hg/2009/1625/`](hg/2009/1625/) | amending act | 1 | 2009-12-30 | 2009-12-30 |
 | Hotărârea Guvernului nr. 1627/2009 | [`hg/2009/1627/`](hg/2009/1627/) | in force | 1 | 2010-01-01 | 2010-01-01 |
+| Hotărârea Guvernului nr. 1628/2009 privind aprobarea indicatorilor tehnico-economici ai obiectivelor de investiţii din judeţele Iaşi şi Suceava, în cadrul proiectului "Programul de incluziune socială", investiţii finanţate în conformitate cu prevederile Acordului de împrumut nr. 4.825 RO încheiat între România şi BIRD şi ratificat prin Legea nr. 40/2007 , împrumut acordat Guvernului României de Banca Internaţională pentru Reconstrucţie şi Dezvoltare (BIRD) şi din cofinanţare de către Guvernul României | [`hg/2009/1628/`](hg/2009/1628/) | amending act | 1 | 2010-01-05 | 2010-01-05 |
 | Hotărârea Guvernului nr. 1630/2009 privind unele măsuri de reducere a cheltuielilor cu deplasările în străinătate pentru anul 2010 | [`hg/2009/1630/`](hg/2009/1630/) | in force | 1 | 2009-12-30 | 2009-12-30 |
 | Hotărârea Guvernului nr. 1631/2009 | [`hg/2009/1631/`](hg/2009/1631/) | in force | 9 | 2010-01-04 | 2012-09-13 |
 | Hotărârea Guvernului nr. 1632/2009 | [`hg/2009/1632/`](hg/2009/1632/) | in force | 1 | 2010-01-04 | 2010-01-04 |
