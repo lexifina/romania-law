@@ -28,6 +28,8 @@ This repository holds Romania's **primary legislation**: the Constitution, the l
 
 Ordinary court judgments, local council decisions and EU law are almost absent from the portal (a few hundred documents each): they are published elsewhere.
 
+**Next.** Work started in November 2026 on the decisions that change what a provision means or whether it applies: the Constitutional Court's decisions and the High Court of Cassation and Justice's binding decisions (appeals in the interest of the law and preliminary rulings on points of law), then the orders and norms of ministries and authorities.
+
 ## Layout
 
 | Where | What |
@@ -67,6 +69,7 @@ Read a date with the tools rather than `git rev-list --before`: they choose each
 ## Limits
 
 - Each act's latest version is the newest consolidated form held; amendments in force after it may be missing.
+- No consolidated text has legal force in Romania, ours included: only the text published in the Monitorul Oficial, Part I (and an official republication there) is authoritative. The portal's and the Legislative Council's consolidated versions are documentation tools too.
 - Not included: chapter and section headings, the portal's editorial notes, annexes and figures printed as facsimiles or in a separate issue, and rulings that interpret a text without changing its wording.
 
 ## How it is checked
