@@ -1,6 +1,6 @@
 # Every act in this repository
 
-24739 acts, 38,373 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+24751 acts, 38,385 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -6022,7 +6022,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (18726, of which 9579 amending acts)
+## Government decisions (HG) (18738, of which 9580 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -6619,6 +6619,18 @@
 | Hotărârea Guvernului nr. 1514/2005 | [`hg/2005/1514/`](hg/2005/1514/) | in force | 1 | 2005-12-09 | 2005-12-09 |
 | Hotărârea Guvernului nr. 1579/2005 | [`hg/2005/1579/`](hg/2005/1579/) | in force | 1 | 2006-02-09 | 2006-02-09 |
 | Hotărârea Guvernului nr. 1581/2005 | [`hg/2005/1581/`](hg/2005/1581/) | in force | 1 | 2006-01-11 | 2006-01-11 |
+| Hotărârea Guvernului nr. 1673/2005 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru judeţul Bistriţa-Năsăud | [`hg/2005/1673/`](hg/2005/1673/) | in force | 1 | 2005-12-22 | 2005-12-22 |
+| Hotărârea Guvernului nr. 1674/2005 privind alocarea unei sume din Fondul de rezerva bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru judeţul Cluj | [`hg/2005/1674/`](hg/2005/1674/) | in force | 1 | 2005-12-22 | 2005-12-22 |
+| Hotărârea Guvernului nr. 1675/2005 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru judeţul Cluj | [`hg/2005/1675/`](hg/2005/1675/) | in force | 1 | 2005-12-22 | 2005-12-22 |
+| Hotărârea Guvernului nr. 1676/2005 privind alocarea unei sume din Fondul de rezerva bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru judeţul Cluj | [`hg/2005/1676/`](hg/2005/1676/) | in force | 1 | 2005-12-22 | 2005-12-22 |
+| Hotărârea Guvernului nr. 1677/2005 privind alocarea unei sume din Fondul de rezerva bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru judeţul Cluj | [`hg/2005/1677/`](hg/2005/1677/) | in force | 1 | 2005-12-22 | 2005-12-22 |
+| Hotărârea Guvernului nr. 1678/2005 privind alocarea unei sume din Fondul de rezerva bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru judeţul Galaţi | [`hg/2005/1678/`](hg/2005/1678/) | in force | 1 | 2005-12-22 | 2005-12-22 |
+| Hotărârea Guvernului nr. 1679/2005 privind alocarea unei sume din Fondul de rezerva bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru judeţul Harghita | [`hg/2005/1679/`](hg/2005/1679/) | in force | 1 | 2005-12-22 | 2005-12-22 |
+| Hotărârea Guvernului nr. 1680/2005 privind alocarea unei sume din Fondul de rezerva bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru judeţul Hunedoara | [`hg/2005/1680/`](hg/2005/1680/) | in force | 1 | 2005-12-22 | 2005-12-22 |
+| Hotărârea Guvernului nr. 1681/2005 privind alocarea unei sume din Fondul de rezerva bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru judeţul Ialomiţa | [`hg/2005/1681/`](hg/2005/1681/) | in force | 1 | 2005-12-22 | 2005-12-22 |
+| Hotărârea Guvernului nr. 1685/2005 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru judeţul Satu Mare | [`hg/2005/1685/`](hg/2005/1685/) | in force | 1 | 2005-12-22 | 2005-12-22 |
+| Hotărârea Guvernului nr. 1690/2005 privind suplimentarea bugetului Ministerului Culturii şi Cultelor din Fondul de rezervă bugetară la dispoziţia Guvernului pe anul 2005, pentru Mănăstirea Antim din cadrul Patriarhiei Române, municipiul Bucureşti | [`hg/2005/1690/`](hg/2005/1690/) | in force | 1 | 2005-12-22 | 2005-12-22 |
+| Hotărârea Guvernului nr. 1691/2005 pentru modificarea anexei la Hotărârea Guvernului nr. 100/2005 privind numirea reprezentanţilor Guvernului în Consiliul Economic şi Social | [`hg/2005/1691/`](hg/2005/1691/) | amending act | 1 | 2005-12-23 | 2005-12-23 |
 | Hotărârea Guvernului nr. 1692/2005 privind suplimentarea bugetului Ministerului Transporturilor, Construcţiilor şi Turismului din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005 | [`hg/2005/1692/`](hg/2005/1692/) | in force | 1 | 2005-12-22 | 2005-12-22 |
 | Hotărârea Guvernului nr. 1693/2005 pentru modificarea art. 1 alin. (1) din Hotărârea Guvernului nr. 1.648/2005 privind suplimentarea bugetului Ministerului Apărării Naţionale pe anul 2005 din Fondul de intervenţie bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005 | [`hg/2005/1693/`](hg/2005/1693/) | amending act | 1 | 2005-12-22 | 2005-12-22 |
 | Hotărârea Guvernului nr. 1694/2005 privind acoperirea din bugetul Ministerului Afacerilor Externe a cheltuielilor ocazionate de amplasarea unei plăci reprezentând România la Berlin, în cadrul proiectului "Drumul vizionarilor", dedicat Uniunii Europene | [`hg/2005/1694/`](hg/2005/1694/) | in force | 1 | 2005-12-22 | 2005-12-22 |
