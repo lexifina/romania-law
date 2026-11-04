@@ -1,6 +1,6 @@
 # Every act in this repository
 
-27768 acts, 41,411 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+27769 acts, 41,412 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -6403,7 +6403,7 @@
 | Ordonanța Guvernului nr. 3/2026 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 70/2022 privind prevenirea, verificarea şi constatarea neregulilor/dublei finanţări, a neregulilor grave apărute în obţinerea şi utilizarea fondurilor externe nerambursabile/rambursabile alocate României prin Mecanismul de redresare şi rezilienţă şi/sau a fondurilor publice naţionale aferente acestora şi recuperarea creanţelor rezultate | [`og/2026/3/`](og/2026/3/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (21374, of which 10997 amending acts)
+## Government decisions (HG) (21375, of which 10998 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -6849,6 +6849,7 @@
 | Hotărârea Guvernului nr. 1024/2004 | [`hg/2004/1024/`](hg/2004/1024/) | in force | 3 | 2004-07-29 | 2006-06-13 |
 | Hotărârea Guvernului nr. 1043/2004 | [`hg/2004/1043/`](hg/2004/1043/) | in force | 2 | 2004-08-02 | 2005-01-03 |
 | Hotărârea Guvernului nr. 1076/2004 | [`hg/2004/1076/`](hg/2004/1076/) | in force | 3 | 2004-12-03 | 2012-10-29 |
+| Hotărârea Guvernului nr. 1105/2004 pentru aprobarea Memorandumului de înţelegere dintre Ministerul Mediului şi Gospodăririi Apelor din România şi Ministerul Transporturilor, Lucrărilor Publice şi Gospodăririi Apelor din Olanda privind cooperarea în domeniul managementului integrat al apelor, semnat la Bucureşti la 14 aprilie 2004 | [`hg/2004/1105/`](hg/2004/1105/) | amending act | 1 | 2004-07-29 | 2004-07-29 |
 | Hotărârea Guvernului nr. 1106/2004 privind trecerea unui imobil din domeniul privat al statului şi din administrarea Ministerului Administraţiei şi Internelor în domeniul public al oraşului Sulina şi în administrarea Consiliului Local al Oraşului Sulina | [`hg/2004/1106/`](hg/2004/1106/) | in force | 1 | 2004-07-27 | 2004-07-27 |
 | Hotărârea Guvernului nr. 1107/2004 privind trecerea unor imobile din domeniul public al statului şi din administrarea Ministerului Apărării Naţionale în domeniul public al unor unităţi administrativ-teritoriale şi în administrarea consiliilor locale ale acestora | [`hg/2004/1107/`](hg/2004/1107/) | in force | 1 | 2004-07-27 | 2004-07-27 |
 | Hotărârea Guvernului nr. 1108/2004 privind aprobarea rectificării bugetului de venituri şi cheltuieli pe anul 2004 al Comisiei Naţionale pentru Controlul Activităţilor Nucleare | [`hg/2004/1108/`](hg/2004/1108/) | amending act | 1 | 2004-07-27 | 2004-07-27 |
