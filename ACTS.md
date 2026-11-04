@@ -1,6 +1,6 @@
 # Every act in this repository
 
-38527 acts, 52,280 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+38544 acts, 52,297 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (8104, of which 2929 amending acts)
+## Laws (legi) (8115, of which 2940 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -1060,11 +1060,22 @@
 | Legea nr. 540/2001 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 64/2001 pentru modificarea şi completarea Legii nr. 188/2000 privind executorii judecătoreşti | [`lege/2001/540/`](lege/2001/540/) | amended, not consolidated | 1 | 2001-10-17 | 2001-10-17 |
 | Legea nr. 544/2001 privind liberul acces la informațiile de interes public | [`lege/2001/544/`](lege/2001/544/) | in force | 6 | 2001-12-22 | 2016-07-17 |
 | Legea nr. 545/2001 pentru completarea art. 36 din Legea fondului funciar nr. 18/1991 | [`lege/2001/545/`](lege/2001/545/) | amended, not consolidated | 1 | 2001-10-19 | 2001-10-19 |
+| Legea nr. 546/2001 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 17/2001 pentru modificarea Ordonanţei de urgenţă a Guvernului nr. 71/1999 privind reorganizarea activităţii de protecţie a plantelor şi carantina fitosanitara | [`lege/2001/546/`](lege/2001/546/) | amending act | 1 | 2001-10-25 | 2001-10-25 |
 | Legea nr. 547/2001 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 17/2000 privind taxa pe valoarea adăugată | [`lege/2001/547/`](lege/2001/547/) | amended, not consolidated | 1 | 2001-10-25 | 2001-10-25 |
+| Legea nr. 548/2001 privind respingerea Ordonanţei de urgenţă a Guvernului nr. 150/1999 pentru modificarea art. 14 din Ordonanţa de urgenţă a Guvernului nr. 88/1997 privind privatizarea societăţilor comerciale | [`lege/2001/548/`](lege/2001/548/) | amending act | 1 | 2001-10-25 | 2001-10-25 |
+| Legea nr. 549/2001 privind aprobarea Ordonanţei Guvernului nr. 93/2000 pentru modificarea Ordonanţei Guvernului nr. 82/1998 privind înregistrarea fiscală a plătitorilor de impozite şi taxe | [`lege/2001/549/`](lege/2001/549/) | amending act | 1 | 2001-10-25 | 2001-10-25 |
 | Legea nr. 550/2001 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 172/2000 pentru completarea Legii nr. 203/1999 privind permisele de muncă | [`lege/2001/550/`](lege/2001/550/) | amended, not consolidated | 1 | 2001-10-25 | 2001-10-25 |
+| Legea nr. 551/2001 pentru respingerea Ordonanţei Guvernului nr. 18/2000 privind unele măsuri pentru aprobarea şi implementarea Programului special de reabilitare a unor zone miniere defavorizate şi a altor zone cu dezechilibre economice şi sociale | [`lege/2001/551/`](lege/2001/551/) | amending act | 1 | 2001-10-25 | 2001-10-25 |
 | Legea nr. 552/2001 pentru aprobarea Ordonanţei de urgenta a Guvernului nr. 88/2001 privind înfiinţarea Oficiului Participaţiilor Statului şi Privatizării în Industrie | [`lege/2001/552/`](lege/2001/552/) | amended, not consolidated | 1 | 2001-10-26 | 2001-10-26 |
+| Legea nr. 553/2001 privind respingerea Ordonanţei Guvernului nr. 52/2000 pentru completarea unor dispoziţii privind sistemul de stabilire a salariilor de baza în sectorul bugetar şi a indemnizaţiilor pentru persoanele care ocupa funcţii de demnitate publică | [`lege/2001/553/`](lege/2001/553/) | amending act | 1 | 2001-10-26 | 2001-10-26 |
 | Legea nr. 554/2001 pentru aprobarea Ordonanţei de urgenta a Guvernului nr. 217/2000 privind aprobarea coşului minim de consum lunar | [`lege/2001/554/`](lege/2001/554/) | amended, not consolidated | 1 | 2001-10-24 | 2001-10-24 |
+| Legea nr. 555/2001 privind aprobarea Ordonanţei de urgenta a Guvernului nr. 67/2001 pentru abrogarea Ordonanţei de urgenta a Guvernului nr. 137/2000 privind modul de acordare a sumelor de bani reprezentând ajutoare şi plăti compensatorii de care beneficiază, potrivit legii, cadrele militare trecute în rezerva sau direct în retragere | [`lege/2001/555/`](lege/2001/555/) | amending act | 1 | 2001-10-30 | 2001-10-30 |
+| Legea nr. 556/2001 pentru aprobarea Ordonanţei de urgenta a Guvernului nr. 84/2001 privind mandatarea Autorităţii pentru Privatizare şi Administrarea Participaţiilor Statului sa vândă acţiunile Oficiului pentru Recuperarea Creanţelor Bancare, deţinute de acesta la Societatea Comercială "Şantierul Naval" - S.A. Constanţa, inclusă în proiectul componenta "Privatizarea a 50 de societăţi comerciale cu capital majoritar de stat, grupate în pachete", din cadrul PSAL (Programul pentru Ajustarea Sectorului Privat) | [`lege/2001/556/`](lege/2001/556/) | amending act | 1 | 2001-10-30 | 2001-10-30 |
+| Legea nr. 557/2001 privind respingerea Ordonanţei Guvernului nr. 6/1998 pentru modificarea şi completarea Legii nr. 32/1991 privind impozitul pe salarii | [`lege/2001/557/`](lege/2001/557/) | amending act | 1 | 2001-10-30 | 2001-10-30 |
+| Legea nr. 558/2001 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 125/1999 privind modificarea Ordonanţei de urgenţă a Guvernului nr. 93/1999 pentru aprobarea finanţării repatrierii personalului navigant debarcat sau aflat la bordul unor nave maritime de transport, achitarea drepturilor restante şi pentru menţinerea în siguranţă a navelor aflate în conservare din patrimoniul companiilor de navigaţie maritime "Navrom" - S.A. Constanţa şi "Romline" - S.A. Constanţa | [`lege/2001/558/`](lege/2001/558/) | amending act | 1 | 2001-10-30 | 2001-10-30 |
+| Legea nr. 559/2001 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 93/1999 pentru aprobarea finanţării repatrierii personalului navigant debarcat sau aflat la bordul unor nave maritime de transport, achitarea drepturilor restante şi pentru menţinerea în siguranţă a navelor aflate în conservare din patrimoniul companiilor de navigaţie maritime "Navrom"-S.A. Constanţa şi "Romline" - S.A. Constanţa | [`lege/2001/559/`](lege/2001/559/) | amending act | 1 | 2001-10-30 | 2001-10-30 |
 | Legea nr. 561/2001 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 43/2001 pentru modificarea Ordonanţei Guvernului nr. 11/1996 privind executarea creanţelor bugetare | [`lege/2001/561/`](lege/2001/561/) | amended, not consolidated | 1 | 2001-10-30 | 2001-10-30 |
+| Legea nr. 562/2001 privind completarea art. 2 din Decretul nr. 343/1970 pentru aderarea Republicii Socialiste România la Convenţia cu privire la privilegiile şi imunităţile instituţiilor specializate, aprobată de Adunarea generală a Organizaţiei Naţiunilor Unite la 21 noiembrie 1947 | [`lege/2001/562/`](lege/2001/562/) | amending act | 1 | 2001-10-30 | 2001-10-30 |
 | Legea nr. 563/2001 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 173/2000 pentru modificarea Decretului-lege nr. 118/1990 privind acordarea unor drepturi persoanelor persecutate din motive politice de dictatura instaurată cu începere de la 6 martie 1945, precum şi celor deportate în străinătate ori constituite în prizonieri | [`lege/2001/563/`](lege/2001/563/) | amended, not consolidated | 1 | 2001-10-30 | 2001-10-30 |
 | Legea nr. 564/2001 | [`lege/2001/564/`](lege/2001/564/) | in force | 1 | 2001-11-01 | 2001-11-01 |
 | Legea nr. 565/2001 privind respingerea Ordonanţei de urgenţă a Guvernului nr. 38/1999 pentru modificarea şi completarea Legii nr. 46/1996 privind pregătirea populaţiei pentru apărare | [`lege/2001/565/`](lege/2001/565/) | amending act | 1 | 2001-10-30 | 2001-10-30 |
@@ -12004,7 +12015,7 @@
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 5/2026 pentru modificarea şi completarea Ordonanţei Guvernului nr. 27/2011 privind transporturile rutiere şi pentru completarea Ordonanţei de urgenţă a Guvernului nr. 28/1999 privind obligaţia operatorilor economici de a utiliza aparate de marcat electronice fiscale | [`og/2026/5/`](og/2026/5/) | amended, not consolidated | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (26489, of which 12387 amending acts)
+## Government decisions (HG) (26495, of which 12389 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -13107,6 +13118,12 @@
 | Hotărârea Guvernului nr. 952/2001 | [`hg/2001/952/`](hg/2001/952/) | in force | 1 | 2001-10-09 | 2001-10-09 |
 | Hotărârea Guvernului nr. 962/2001 | [`hg/2001/962/`](hg/2001/962/) | in force | 3 | 2001-10-04 | 2014-04-08 |
 | Hotărârea Guvernului nr. 974/2001 | [`hg/2001/974/`](hg/2001/974/) | in force | 1 | 2001-10-18 | 2001-10-18 |
+| Hotărârea Guvernului nr. 1021/2001 privind transmiterea fără plata a unui imobil din domeniul privat al statului şi din administrarea Autorităţii pentru Valorificarea Activelor Bancare în domeniul public al statului şi în administrarea Autorităţii pentru Privatizare şi Administrarea Participaţiilor Statului | [`hg/2001/1021/`](hg/2001/1021/) | in force | 1 | 2001-10-19 | 2001-10-19 |
+| Hotărârea Guvernului nr. 1022/2001 pentru aprobarea cheltuielilor ocazionate de organizarea la Bucureşti, în luna septembrie 2001, a Conferinţei OSCE asupra problematicii minorităţii Roma-Sinti "şanse egale pentru Roma şi Sinti. De la vorbe la fapte" | [`hg/2001/1022/`](hg/2001/1022/) | amending act | 1 | 2001-10-22 | 2001-10-22 |
+| Hotărârea Guvernului nr. 1023/2001 pentru modificarea art. 5 din Normele metodologice de aplicare a Legii nr. 333/2001 privind unele măsuri pentru diminuarea consecinţelor încetării răscumpărării de unităţi de fond de către Fondul Naţional de Investiţii, aprobate prin Hotărârea Guvernului nr. 742/2001 | [`hg/2001/1023/`](hg/2001/1023/) | amending act | 1 | 2001-10-22 | 2001-10-22 |
+| Hotărârea Guvernului nr. 1025/2001 privind trecerea cu plata a unui imobil din patrimoniul Societăţii Comerciale "Agiloq" - S.A. Agigea în proprietatea publică a comunei Cumpăna şi în administrarea Consiliului Local al Comunei Cumpăna, judeţul Constanţa | [`hg/2001/1025/`](hg/2001/1025/) | in force | 1 | 2001-10-22 | 2001-10-22 |
+| Hotărârea Guvernului nr. 1026/2001 privind lichidarea activităţii la unele instituţii de învăţământ superior particular | [`hg/2001/1026/`](hg/2001/1026/) | in force | 1 | 2001-10-22 | 2001-10-22 |
+| Hotărârea Guvernului nr. 1027/2001 privind lichidarea activităţii la unele instituţii de învăţământ superior particular | [`hg/2001/1027/`](hg/2001/1027/) | in force | 1 | 2001-10-22 | 2001-10-22 |
 | Hotărârea Guvernului nr. 1028/2001 privind modificarea art. 8 din Normele metodologice pentru aplicarea Ordonanţei de urgenţă a Guvernului nr. 24/1998 privind regimul zonelor defavorizate, republicată, cu modificările ulterioare, aprobate prin Hotărârea Guvernului nr. 728/2001 | [`hg/2001/1028/`](hg/2001/1028/) | amended, not consolidated | 1 | 2001-10-25 | 2001-10-25 |
 | Hotărârea Guvernului nr. 1029/2001 pentru aprobarea bugetului de venituri şi cheltuieli pe anul 2001 al Institutului Naţional de Cercetare-Dezvoltare în Domeniul Patologiei şi Ştiinţelor Biomedicale "Victor Babeş", aflat în coordonarea Ministerului Sănătăţii şi Familiei | [`hg/2001/1029/`](hg/2001/1029/) | amending act | 1 | 2001-10-25 | 2001-10-25 |
 | Hotărârea Guvernului nr. 1032/2001 privind stabilirea condiţiilor de introducere pe piaţa şi de funcţionare a aparatelor electrice şi electronice din punct de vedere al compatibilităţii electromagnetice | [`hg/2001/1032/`](hg/2001/1032/) | amended, not consolidated | 1 | 2002-01-01 | 2002-01-01 |
