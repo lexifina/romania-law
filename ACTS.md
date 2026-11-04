@@ -1,6 +1,6 @@
 # Every act in this repository
 
-38202 acts, 51,953 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+38210 acts, 51,961 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (7968, of which 2820 amending acts)
+## Laws (legi) (7972, of which 2824 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -1157,13 +1157,17 @@
 | Legea nr. 40/2002 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 29/2001 pentru completarea Legii nr. 40/1990 privind organizarea şi funcţionarea Ministerului de Interne | [`lege/2002/40/`](lege/2002/40/) | amended, not consolidated | 1 | 2002-01-31 | 2002-01-31 |
 | Legea nr. 41/2002 pentru aprobarea Ordonanţei de urgenta a Guvernului nr. 58/2001 privind organizarea şi finanţarea rezidenţiatului, stagiaturii şi activităţii de cercetare medicală în sectorul sanitar | [`lege/2002/41/`](lege/2002/41/) | amended, not consolidated | 1 | 2002-01-30 | 2002-01-30 |
 | Legea nr. 43/2002 pentru respingerea Ordonanţei Guvernului nr. 87/2000 privind răspunderea producătorilor pentru pagubele generate de produsele defectuoase | [`lege/2002/43/`](lege/2002/43/) | amended, not consolidated | 1 | 2002-01-31 | 2002-01-31 |
+| Legea nr. 44/2002 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 89/1999 privind unele măsuri de restructurare financiară a Băncii Române de Comerţ Exterior - Bancorex - S.A | [`lege/2002/44/`](lege/2002/44/) | amending act | 1 | 2002-01-25 | 2002-01-25 |
+| Legea nr. 45/2002 privind respingerea Ordonanţei de urgenţă a Guvernului nr. 53/2000 pentru unele măsuri privind soluţionarea cererilor referitoare la acordarea de despăgubiri pentru daunele morale | [`lege/2002/45/`](lege/2002/45/) | amending act | 1 | 2002-01-31 | 2002-01-31 |
 | Legea nr. 47/2002 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 66/1999 privind autorizarea Fondului Proprietăţii de Stat de a acorda un sprijin financiar nerambursabil în valoare de 50 miliarde lei Societăţii Comerciale "Comtim" - S.A. Timişoara | [`lege/2002/47/`](lege/2002/47/) | amended, not consolidated | 1 | 2002-01-31 | 2002-01-31 |
 | Legea nr. 48/2002 pentru aprobarea Ordonanţei Guvernului nr. 137/2000 privind prevenirea şi sancţionarea tuturor formelor de discriminare | [`lege/2002/48/`](lege/2002/48/) | amended, not consolidated | 1 | 2002-01-31 | 2002-01-31 |
 | Legea nr. 50/2002 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 126/2001 privind stingerea obligaţiilor bugetare ale agenţilor economici din sectorul producţiei de apărare, din patrimoniul cărora se constituie parcuri industriale | [`lege/2002/50/`](lege/2002/50/) | amended, not consolidated | 1 | 2002-01-31 | 2002-01-31 |
+| Legea nr. 51/2002 privind aprobarea Ordonanţei Guvernului nr. 94/2000 pentru modificarea şi completarea Ordonanţei Guvernului nr. 19/1997 privind transporturile | [`lege/2002/51/`](lege/2002/51/) | amending act | 1 | 2002-02-02 | 2002-02-02 |
 | Legea nr. 52/2002 | [`lege/2002/52/`](lege/2002/52/) | in force | 1 | 2002-01-24 | 2002-01-24 |
 | Legea nr. 53/2002 pentru aprobarea Ordonanţei Guvernului nr. 69/2001 privind ratificarea Protocolului din 3 iunie 1999 pentru modificarea Convenţiei privind transporturile internaţionale feroviare (COTIF), semnată la Berna la 9 mai 1980 (Protocolul 1999), semnat la Vilnius la 3 iunie 1999 | [`lege/2002/53/`](lege/2002/53/) | amended, not consolidated | 1 | 2002-01-22 | 2002-01-22 |
 | Legea nr. 54/2002 pentru aprobarea Ordonanţei Guvernului nr. 42/2001 privind aprobarea preluării de către Ministerul Lucrărilor Publice, Transporturilor şi Locuinţei a drepturilor şi obligaţiilor, inclusiv a obligaţiilor de plată a cotizaţiei anuale, ce decurg din calitatea României de membru al Organizaţiei interguvernamentale pentru transporturile internaţionale feroviare (OTIF), constituită în conformitate cu prevederile Convenţiei cu privire la transporturile internaţionale feroviare (COTIF) | [`lege/2002/54/`](lege/2002/54/) | amended, not consolidated | 1 | 2002-01-22 | 2002-01-22 |
 | Legea nr. 55/2002 pentru aprobarea Ordonanței Guvernului nr. 79/2000 privind regimul navigației pe Canalul Dunăre-Marea Neagra și Canalul Poarta Alba-Midia-Navodari | [`lege/2002/55/`](lege/2002/55/) | amending act | 1 | 2002-01-24 | 2002-01-24 |
+| Legea nr. 56/2002 privind aprobarea Ordonanţei Guvernului nr. 64/2000 pentru completarea Legii nr. 133/1999 privind stimularea întreprinzătorilor privaţi pentru înfiinţarea şi dezvoltarea întreprinderilor mici şi mijlocii | [`lege/2002/56/`](lege/2002/56/) | amending act | 1 | 2002-01-24 | 2002-01-24 |
 | Legea nr. 57/2002 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 97/2001 privind reglementarea producţiei, circulaţiei şi comercializării alimentelor | [`lege/2002/57/`](lege/2002/57/) | amended, not consolidated | 1 | 2002-01-31 | 2002-01-31 |
 | Legea nr. 58/2002 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 86/2000 privind suspendarea procedurilor de vânzare a activelor închise operaţional, deţinute de societăţile comerciale incluse în Programul pentru ajustarea sectorului privat (PSAL) | [`lege/2002/58/`](lege/2002/58/) | amended, not consolidated | 1 | 2002-01-25 | 2002-01-25 |
 | Legea nr. 59/2002 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 79/2001 privind întărirea disciplinei economico-financiare şi alte dispoziţii cu caracter financiar | [`lege/2002/59/`](lege/2002/59/) | amended, not consolidated | 1 | 2002-01-24 | 2002-01-24 |
@@ -11859,7 +11863,7 @@
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 5/2026 pentru modificarea şi completarea Ordonanţei Guvernului nr. 27/2011 privind transporturile rutiere şi pentru completarea Ordonanţei de urgenţă a Guvernului nr. 28/1999 privind obligaţia operatorilor economici de a utiliza aparate de marcat electronice fiscale | [`og/2026/5/`](og/2026/5/) | amended, not consolidated | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (26312, of which 12304 amending acts)
+## Government decisions (HG) (26313, of which 12304 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -13023,6 +13027,7 @@
 | Hotărârea Guvernului nr. 1364/2001 | [`hg/2001/1364/`](hg/2001/1364/) | in force | 1 | 2002-02-05 | 2002-02-05 |
 | Hotărârea Guvernului nr. 4/2002 privind organizarea la Bucureşti, în perioada 18-24 mai 2002, a Reuniunii anuale a guvernatorilor Băncii Europene pentru Reconstrucţie şi Dezvoltare, a Forumului de Afaceri, a Forumului Român de Investiţii şi a Reuniunii miniştrilor de finanţe din ţările candidate pentru aderarea la Uniunea Europeană | [`hg/2002/4/`](hg/2002/4/) | amended, not consolidated | 1 | 2002-01-17 | 2002-01-17 |
 | Hotărârea Guvernului nr. 19/2002 pentru aprobarea bugetelor de venituri şi cheltuieli pe anul 2002 ale societăţilor naţionale şi al regiei autonome, aflate sub autoritatea Ministerului Agriculturii, Alimentaţiei şi Pădurilor | [`hg/2002/19/`](hg/2002/19/) | amended, not consolidated | 1 | 2002-01-18 | 2002-01-18 |
+| Hotărârea Guvernului nr. 23/2002 privind premierea sportivului Leonard Doroftei pentru cucerirea titlului de campion mondial la box profesionist în versiunea WBA | [`hg/2002/23/`](hg/2002/23/) | in force | 1 | 2002-01-18 | 2002-01-18 |
 | Hotărârea Guvernului nr. 25/2002 pentru modificarea Hotărârii Guvernului nr. 332/2001 privind denumirea, marcarea compoziţiei fibroase şi etichetarea produselor textile | [`hg/2002/25/`](hg/2002/25/) | amended, not consolidated | 1 | 2002-03-01 | 2002-03-01 |
 | Hotărârea Guvernului nr. 26/2002 | [`hg/2002/26/`](hg/2002/26/) | in force | 2 | 2002-03-01 | 2013-09-12 |
 | Hotărârea Guvernului nr. 27/2002 privind stabilirea cerinţelor referitoare la etichetarea şi eficienta energetica pentru introducerea pe piaţa a maşinilor de spălat vase de uz casnic | [`hg/2002/27/`](hg/2002/27/) | amended, not consolidated | 1 | 2002-10-30 | 2002-10-30 |
@@ -38207,7 +38212,7 @@
 | Decretul-lege nr. 143/1990 privind autorizarea funcţionării în condiţii de autonomie a Secţiei Naţionale Române a Uniunii Medicale Balcanice | [`decret-lege/1990/143/`](decret-lege/1990/143/) | in force | 1 | 1990-05-12 | 1990-05-12 |
 | Decretul-lege nr. 144/1990 privind prelungirea termenului de aplicare a Decretului-lege nr. 25/1990 cu privire la utilizarea şi salarizarea personalului în perioadele de întrerupere a activităţii | [`decret-lege/1990/144/`](decret-lege/1990/144/) | in force | 1 | 1990-05-12 | 1990-05-12 |
 
-## Parliament's decisions (Senate, Chamber of Deputies, joint sittings) (11, of which 11 amending acts)
+## Parliament's decisions (Senate, Chamber of Deputies, joint sittings) (14, of which 14 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -38222,6 +38227,9 @@
 | Hotărârea Camerei Deputaților nr. 16/2024 privind modificarea art. 84 alin. (2) din Regulamentul Camerei Deputaţilor | [`hotarare-parlament/camera/2024/16/`](hotarare-parlament/camera/2024/16/) | amending act | 1 | 2024-03-06 | 2024-03-06 |
 | Hotărârea Camerei Deputaților nr. 17/2024 privind modificarea art. 2 alin. (1) şi (2) şi art. 4 alin. (3) din Regulamentul Camerei Deputaţilor | [`hotarare-parlament/camera/2024/17/`](hotarare-parlament/camera/2024/17/) | amending act | 1 | 2024-03-11 | 2024-03-11 |
 | Hotărârea Camerei Deputaților nr. 36/2024 privind modificarea Regulamentului Camerei Deputaţilor | [`hotarare-parlament/camera/2024/36/`](hotarare-parlament/camera/2024/36/) | amending act | 1 | 2024-05-21 | 2024-05-21 |
+| Hotărârea Camerei Deputaților nr. 27/2025 privind modificarea Regulamentului Camerei Deputaţilor | [`hotarare-parlament/camera/2025/27/`](hotarare-parlament/camera/2025/27/) | amending act | 1 | 2025-03-26 | 2025-03-26 |
+| Hotărârea Senatului nr. 66/2025 privind modificarea art. 67 alin. (6) şi (7) din Regulamentul Senatului | [`hotarare-parlament/senat/2025/66/`](hotarare-parlament/senat/2025/66/) | amending act | 1 | 2025-06-24 | 2025-06-24 |
+| Hotărârea Senatului nr. 113/2025 privind completarea art. 178 din Regulamentul Senatului | [`hotarare-parlament/senat/2025/113/`](hotarare-parlament/senat/2025/113/) | amending act | 1 | 2025-10-27 | 2025-10-27 |
 
 ## Historical codes (3)
 

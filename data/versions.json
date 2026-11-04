@@ -248333,6 +248333,21 @@
    ]
   },
   {
+   "slug": "hg-23-2002",
+   "path": "hg/2002/23",
+   "short": "HG nr. 23/2002",
+   "title": "Hotărârea Guvernului nr. 23/2002 privind premierea sportivului Leonard Doroftei pentru cucerirea titlului de campion mondial la box profesionist în versiunea WBA",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/33410",
+   "versions": [
+    {
+     "from": "2002-01-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33410",
+     "sha256": "1a0b28b9b910b22c46516a9cc159b2746ae2f618f1111236130a6bced71fee95"
+    }
+   ]
+  },
+  {
    "slug": "hg-23-2003",
    "path": "hg/2003/23",
    "short": "HG nr. 23/2003",
@@ -487382,6 +487397,21 @@
    ]
   },
   {
+   "slug": "hotarare-camera-27-2025",
+   "path": "hotarare-parlament/camera/2025/27",
+   "short": "Hotărârea Camerei Deputaților nr. 27/2025",
+   "title": "Hotărârea Camerei Deputaților nr. 27/2025 privind modificarea Regulamentului Camerei Deputaţilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/295880",
+   "versions": [
+    {
+     "from": "2025-03-26",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/295880",
+     "sha256": "2e961f1d0c845455d7558c9a0f2e94f6c58bc07c9111da4a8a205dedba9bef73"
+    }
+   ]
+  },
+  {
    "slug": "hotarare-camera-36-2024",
    "path": "hotarare-parlament/camera/2024/36",
    "short": "Hotărârea Camerei Deputaților nr. 36/2024",
@@ -487502,6 +487532,21 @@
    ]
   },
   {
+   "slug": "hotarare-senat-113-2025",
+   "path": "hotarare-parlament/senat/2025/113",
+   "short": "Hotărârea Senatului nr. 113/2025",
+   "title": "Hotărârea Senatului nr. 113/2025 privind completarea art. 178 din Regulamentul Senatului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/303725",
+   "versions": [
+    {
+     "from": "2025-10-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/303725",
+     "sha256": "3b1af02774b89e0a74906f476ecf94f7cb196ca2c688bea08fed003bc750af57"
+    }
+   ]
+  },
+  {
    "slug": "hotarare-senat-50-2022",
    "path": "hotarare-parlament/senat/2022/50",
    "short": "Hotărârea Senatului nr. 50/2022",
@@ -487513,6 +487558,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/254643",
      "sha256": "9860a6f3ce617c3bb306e32c9526ea519250652262d98fd10521270d1da7650a"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-senat-66-2025",
+   "path": "hotarare-parlament/senat/2025/66",
+   "short": "Hotărârea Senatului nr. 66/2025",
+   "title": "Hotărârea Senatului nr. 66/2025 privind modificarea art. 67 alin. (6) şi (7) din Regulamentul Senatului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/299270",
+   "versions": [
+    {
+     "from": "2025-06-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/299270",
+     "sha256": "31e6e59d23d44b121230f4f0d8548088554a467f7f9695fe43c4506fc81095a2"
     }
    ]
   },
@@ -570605,6 +570665,21 @@
    ]
   },
   {
+   "slug": "legea-44-2002",
+   "path": "lege/2002/44",
+   "short": "Legea nr. 44/2002",
+   "title": "Legea nr. 44/2002 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 89/1999 privind unele măsuri de restructurare financiară a Băncii Române de Comerţ Exterior - Bancorex - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/33582",
+   "versions": [
+    {
+     "from": "2002-01-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33582",
+     "sha256": "e9eef9c85f79128438ada3d419ce9eb36affea5b852f0071c1e1e58e6f4ccccc"
+    }
+   ]
+  },
+  {
    "slug": "legea-44-2004",
    "path": "lege/2004/44",
    "short": "Legea nr. 44/2004",
@@ -571336,6 +571411,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/27245",
      "sha256": "08864076bcda2022c4fb59332b3d654a2f8b0aec76bad36cc023c3ce9fbc3548"
+    }
+   ]
+  },
+  {
+   "slug": "legea-45-2002",
+   "path": "lege/2002/45",
+   "short": "Legea nr. 45/2002",
+   "title": "Legea nr. 45/2002 privind respingerea Ordonanţei de urgenţă a Guvernului nr. 53/2000 pentru unele măsuri privind soluţionarea cererilor referitoare la acordarea de despăgubiri pentru daunele morale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/33757",
+   "versions": [
+    {
+     "from": "2002-01-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33757",
+     "sha256": "91de24b9afcc5f3dfafae628a79fad6069bd17e799883c6dcff557a2c38e0acf"
     }
    ]
   },
@@ -576359,6 +576449,21 @@
    ]
   },
   {
+   "slug": "legea-51-2002",
+   "path": "lege/2002/51",
+   "short": "Legea nr. 51/2002",
+   "title": "Legea nr. 51/2002 privind aprobarea Ordonanţei Guvernului nr. 94/2000 pentru modificarea şi completarea Ordonanţei Guvernului nr. 19/1997 privind transporturile",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/33823",
+   "versions": [
+    {
+     "from": "2002-02-02",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33823",
+     "sha256": "2367d4d4e327149d8c24aba77c42c9a0b54ecda997c978ac6f5a8117158924ed"
+    }
+   ]
+  },
+  {
    "slug": "legea-51-2004",
    "path": "lege/2004/51",
    "short": "Legea nr. 51/2004",
@@ -580039,6 +580144,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/27320",
      "sha256": "adacd3d06449f9aeb0f903206a9591b01cb48c397ce5b635406fa1389d8929ba"
+    }
+   ]
+  },
+  {
+   "slug": "legea-56-2002",
+   "path": "lege/2002/56",
+   "short": "Legea nr. 56/2002",
+   "title": "Legea nr. 56/2002 privind aprobarea Ordonanţei Guvernului nr. 64/2000 pentru completarea Legii nr. 133/1999 privind stimularea întreprinzătorilor privaţi pentru înfiinţarea şi dezvoltarea întreprinderilor mici şi mijlocii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/33556",
+   "versions": [
+    {
+     "from": "2002-01-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33556",
+     "sha256": "84403d3546808a33842b774a770c0cecc4fb02efe1b1f1def4f8092dc4c27e1e"
     }
    ]
   },
