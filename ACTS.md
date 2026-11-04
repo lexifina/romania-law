@@ -1,6 +1,6 @@
 # Every act in this repository
 
-24690 acts, 38,324 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+24702 acts, 38,336 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -6021,7 +6021,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (18678, of which 9571 amending acts)
+## Government decisions (HG) (18690, of which 9572 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -6619,6 +6619,18 @@
 | Hotărârea Guvernului nr. 1579/2005 | [`hg/2005/1579/`](hg/2005/1579/) | in force | 1 | 2006-02-09 | 2006-02-09 |
 | Hotărârea Guvernului nr. 1581/2005 | [`hg/2005/1581/`](hg/2005/1581/) | in force | 1 | 2006-01-11 | 2006-01-11 |
 | Hotărârea Guvernului nr. 1724/2005 | [`hg/2005/1724/`](hg/2005/1724/) | in force | 3 | 2006-01-29 | 2007-05-04 |
+| Hotărârea Guvernului nr. 1735/2005 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru judeţul Iaşi | [`hg/2005/1735/`](hg/2005/1735/) | in force | 1 | 2005-12-23 | 2005-12-23 |
+| Hotărârea Guvernului nr. 1736/2005 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru judeţul Olt | [`hg/2005/1736/`](hg/2005/1736/) | in force | 1 | 2005-12-23 | 2005-12-23 |
+| Hotărârea Guvernului nr. 1742/2005 privind suplimentarea bugetului Ministerului Transporturilor, Construcţiilor şi Turismului din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005 | [`hg/2005/1742/`](hg/2005/1742/) | in force | 1 | 2005-12-23 | 2005-12-23 |
+| Hotărârea Guvernului nr. 1743/2005 privind alocarea unei sume din Fondul de intervenţie la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru asigurarea acţiunilor de prevenire şi combatere a gripei aviare pe drumurile naţionale şi în gările din zonele de carantină | [`hg/2005/1743/`](hg/2005/1743/) | in force | 1 | 2005-12-23 | 2005-12-23 |
+| Hotărârea Guvernului nr. 1744/2005 privind stabilirea unor normative de cheltuieli pentru activităţi specifice ale Institutului Naţional de Statistică | [`hg/2005/1744/`](hg/2005/1744/) | in force | 1 | 2006-01-16 | 2006-01-16 |
+| Hotărârea Guvernului nr. 1746/2005 pentru suplimentarea bugetului Ministerului Economiei şi Comerţului din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005 | [`hg/2005/1746/`](hg/2005/1746/) | in force | 1 | 2005-12-23 | 2005-12-23 |
+| Hotărârea Guvernului nr. 1747/2005 pentru prelungirea aplicării prevederilor Hotărârii Guvernului nr. 52/2005 pentru aprobarea Contractului-cadru privind condiţiile acordării asistenţei medicale în cadrul sistemului de asigurări sociale de sănătate pentru anul 2005 şi ale Hotărârii Guvernului nr. 235/2005 privind aprobarea pentru anul 2005 a listei cuprinzând denumirile comune internaţionale ale medicamentelor din Nomenclatorul medicamentelor de uz uman, de care beneficiază asiguraţii în tratamentul ambulatoriu, cu sau fără contribuţie personală, pe bază de prescripţie medicală | [`hg/2005/1747/`](hg/2005/1747/) | amending act | 1 | 2005-12-29 | 2005-12-29 |
+| Hotărârea Guvernului nr. 1749/2005 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru municipiul Bucureşti | [`hg/2005/1749/`](hg/2005/1749/) | in force | 1 | 2005-12-23 | 2005-12-23 |
+| Hotărârea Guvernului nr. 1750/2005 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru judeţul Covasna | [`hg/2005/1750/`](hg/2005/1750/) | in force | 1 | 2005-12-23 | 2005-12-23 |
+| Hotărârea Guvernului nr. 1751/2005 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru judeţul Covasna | [`hg/2005/1751/`](hg/2005/1751/) | in force | 1 | 2005-12-23 | 2005-12-23 |
+| Hotărârea Guvernului nr. 1753/2005 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru judeţul Prahova | [`hg/2005/1753/`](hg/2005/1753/) | in force | 1 | 2005-12-23 | 2005-12-23 |
+| Hotărârea Guvernului nr. 1754/2005 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru judeţul Satu Mare | [`hg/2005/1754/`](hg/2005/1754/) | in force | 1 | 2005-12-23 | 2005-12-23 |
 | Hotărârea Guvernului nr. 1755/2005 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru judeţul Sibiu | [`hg/2005/1755/`](hg/2005/1755/) | in force | 1 | 2005-12-23 | 2005-12-23 |
 | Hotărârea Guvernului nr. 1757/2005 privind suplimentarea bugetului Ministerului Culturii şi Cultelor din Fondul de intervenţie la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru înlăturarea efectelor calamităţilor naturale produse de inundaţii asupra unor monumente istorice din judeţele Caraş-Severin şi Timiş | [`hg/2005/1757/`](hg/2005/1757/) | in force | 1 | 2005-12-23 | 2005-12-23 |
 | Hotărârea Guvernului nr. 1759/2005 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru judeţul Călăraşi | [`hg/2005/1759/`](hg/2005/1759/) | in force | 1 | 2005-12-23 | 2005-12-23 |
