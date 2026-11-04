@@ -1,6 +1,6 @@
 # Every act in this repository
 
-38227 acts, 51,978 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+38244 acts, 51,995 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (7989, of which 2839 amending acts)
+## Laws (legi) (7994, of which 2843 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -1121,12 +1121,17 @@
 | Legea nr. 751/2001 privind abilitarea Guvernului de a emite ordonanţe | [`lege/2001/751/`](lege/2001/751/) | amended, not consolidated | 1 | 2001-12-27 | 2001-12-27 |
 | Legea nr. 752/2001 | [`lege/2001/752/`](lege/2001/752/) | in force | 9 | 2001-12-28 | 2017-07-01 |
 | Legea nr. 758/2001 privind aprobarea Ordonanţei Guvernului nr. 62/2001 pentru completarea Legii sanitare veterinare nr. 60/1974 | [`lege/2001/758/`](lege/2001/758/) | amended, not consolidated | 1 | 2002-01-07 | 2002-01-07 |
+| Legea nr. 759/2001 privind respingerea Ordonanţei Guvernului nr. 18/2001 pentru ratificarea Memorandumului de finanţare convenit între Guvernul României şi Comisia Europeană privind asistenţa financiară nerambursabilă acordată prin Instrumentul pentru politici Structurale de Preaderare pentru măsura "Reabilitarea reţelei de canalizare şi a facilităţilor de epurare a apelor uzate în Constanţa, România", semnat la Bruxelles la 16 noiembrie 2000 şi la Bucureşti la 22 decembrie 2000 | [`lege/2001/759/`](lege/2001/759/) | amending act | 1 | 2002-01-08 | 2002-01-08 |
 | Legea nr. 760/2001 pentru aprobarea Ordonanţei Guvernului nr. 32/1998 privind organizarea cabinetului demnitarului din administraţia publică centrala | [`lege/2001/760/`](lege/2001/760/) | amended, not consolidated | 1 | 2002-01-16 | 2002-01-16 |
 | Legea nr. 761/2001 privind respingerea Ordonanţei Guvernului nr. 131/1998 pentru modificarea Ordonanţei Guvernului nr. 66/1997 privind regimul investiţiilor străine în România, realizate prin cumpărarea de titluri de stat | [`lege/2001/761/`](lege/2001/761/) | amended, not consolidated | 1 | 2002-01-16 | 2002-01-16 |
+| Legea nr. 762/2001 privind aprobarea Ordonanţei Guvernului nr. 73/2001 pentru modificarea şi completarea Ordonanţei Guvernului nr. 26/1998 privind regimul de confecţionare a plăcilor cu numere de înmatriculare pentru vehicule rutiere | [`lege/2001/762/`](lege/2001/762/) | amending act | 1 | 2002-01-16 | 2002-01-16 |
+| Legea nr. 764/2001 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 114/2001 pentru scutirea de la plata drepturilor de import şi a comisionului vamal a unor bunuri din import necesare în vederea modernizării Complexului Sportiv Dinamo Bucureşti | [`lege/2001/764/`](lege/2001/764/) | amending act | 1 | 2002-01-15 | 2002-01-15 |
 | Legea nr. 765/2001 privind respingerea Ordonanţei de urgenţă a Guvernului nr. 197/2000 pentru modificarea Legii nr. 142/1999 privind sprijinul statului pentru salarizarea clerului | [`lege/2001/765/`](lege/2001/765/) | amended, not consolidated | 1 | 2002-01-16 | 2002-01-16 |
+| Legea nr. 766/2001 pentru declararea municipiului Alba Iulia Oraş-martir al Revoluţiei din Decembrie 1989 | [`lege/2001/766/`](lege/2001/766/) | in force | 1 | 2002-01-15 | 2002-01-15 |
 | Legea nr. 768/2001 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 96/2001 privind controlul contribuţiilor de asigurări sociale şi soluţionarea contestaţiilor împotriva măsurilor dispuse prin actele de control întocmite de organele de control ale Casei Naţionale de Pensii şi Alte Drepturi de Asigurări Sociale şi ale caselor teritoriale de pensii | [`lege/2001/768/`](lege/2001/768/) | amended, not consolidated | 1 | 2002-01-18 | 2002-01-18 |
 | Legea nr. 769/2001 pentru aprobarea Ordonanţei Guvernului nr. 64/2001 privind repartizarea profitului la societăţile naţionale, companiile naţionale şi societăţile comerciale cu capital integral sau majoritar de stat, precum şi la regiile autonome | [`lege/2001/769/`](lege/2001/769/) | amended, not consolidated | 1 | 2002-01-15 | 2002-01-15 |
 | Legea nr. 770/2001 | [`lege/2001/770/`](lege/2001/770/) | in force | 1 | 2002-01-11 | 2002-01-11 |
+| Legea nr. 771/2001 pentru respingerea Ordonanţei de urgenta a Guvernului nr. 137/2000 privind modul de acordare a sumelor de bani reprezentând ajutoare şi plăti compensatorii de care beneficiază, potrivit legii, cadrele militare trecute în rezerva sau direct în retragere | [`lege/2001/771/`](lege/2001/771/) | amending act | 1 | 2002-01-15 | 2002-01-15 |
 | Legea nr. 772/2001 privind aprobarea Ordonanţei Guvernului nr. 52/2001 pentru ratificarea Convenţiei nr. 163/1987 privind bunăstarea navigatorilor pe mare şi în port, adoptată la cea de a 74-a sesiune a Conferinţei generale a Organizaţiei Internaţionale a Muncii la Geneva la 8 octombrie 1987 | [`lege/2001/772/`](lege/2001/772/) | amending act | 1 | 2002-01-15 | 2002-01-15 |
 | Legea nr. 773/2001 pentru aprobarea Ordonanţei de urgenta a Guvernului nr. 41/1998 privind organizarea activităţii de asistenţa medicală şi psihologică a personalului din transporturi cu atribuţii în siguranţa circulaţiei şi a navigaţiei şi înfiinţarea Casei Asigurărilor de Sănătate a Transporturilor | [`lege/2001/773/`](lege/2001/773/) | amended, not consolidated | 1 | 2002-01-15 | 2002-01-15 |
 | Legea nr. 774/2001 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 216/1999 pentru modificarea Legii nr. 189/1998 privind finanţele publice locale | [`lege/2001/774/`](lege/2001/774/) | amending act | 1 | 2002-01-11 | 2002-01-11 |
@@ -11880,7 +11885,7 @@
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 5/2026 pentru modificarea şi completarea Ordonanţei Guvernului nr. 27/2011 privind transporturile rutiere şi pentru completarea Ordonanţei de urgenţă a Guvernului nr. 28/1999 privind obligaţia operatorilor economici de a utiliza aparate de marcat electronice fiscale | [`og/2026/5/`](og/2026/5/) | amended, not consolidated | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (26313, of which 12304 amending acts)
+## Government decisions (HG) (26325, of which 12314 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -13028,10 +13033,20 @@
 | Hotărârea Guvernului nr. 1259/2001 | [`hg/2001/1259/`](hg/2001/1259/) | in force | 2 | 2001-12-28 | 2004-12-30 |
 | Hotărârea Guvernului nr. 1272/2001 pentru majorarea gradului de deschidere a pieţei energiei electrice | [`hg/2001/1272/`](hg/2001/1272/) | amended, not consolidated | 1 | 2001-12-21 | 2001-12-21 |
 | Hotărârea Guvernului nr. 1305/2001 privind exceptarea şi reducerea temporară de la plata taxelor vamale la unele produse din import | [`hg/2001/1305/`](hg/2001/1305/) | amended, not consolidated | 1 | 2002-01-04 | 2002-01-04 |
+| Hotărârea Guvernului nr. 1324/2001 pentru modificarea Hotărârii Guvernului nr. 686/1997 privind autorizarea Regiei Autonome a Îmbunătăţirilor Funciare pentru achiziţionarea unor pachete agricole, a Comitetului Interministerial de Garanţii şi Credite de Comerţ Exterior pentru aprobarea garantării creditului extern şi a Ministerului Finanţelor de a garanta creditul în numele statului | [`hg/2001/1324/`](hg/2001/1324/) | amending act | 1 | 2002-01-17 | 2002-01-17 |
+| Hotărârea Guvernului nr. 1325/2001 pentru aprobarea bugetului de venituri şi cheltuieli pe anul 2001, rectificat, al Institutului Naţional de Cercetare-Dezvoltare în Turism (I.N.C.D.T.), aflat în coordonarea Ministerului Turismului | [`hg/2001/1325/`](hg/2001/1325/) | amending act | 1 | 2002-01-17 | 2002-01-17 |
+| Hotărârea Guvernului nr. 1329/2001 pentru aprobarea Strategiei pe termen mediu şi lung (2001-2005 şi 2005-2010) pentru fabricaţia de rulmenţi din România | [`hg/2001/1329/`](hg/2001/1329/) | amending act | 1 | 2002-01-18 | 2002-01-18 |
+| Hotărârea Guvernului nr. 1332/2001 pentru modificarea alin. (2) al art. 1 din Hotărârea Guvernului nr. 240/1997 privind stabilirea preţurilor, tarifelor şi adaosurilor comerciale maximale la unele produse şi servicii reglementate potrivit Legii concurentei nr. 21/1996 , a impozitului pe ţiţei şi gaze din producţia internă şi a modului de reglementare a cheltuielilor necesare realizării, dezvoltării şi modernizării producţiei la produsele respective şi pentru aprobarea Listei cuprinzând produsele din industria cărbunelui, minereurilor feroase, neferoase, radioactive, rare şi nemetalifere care se subvenţionează de la bugetul de stat în anul 2002 | [`hg/2001/1332/`](hg/2001/1332/) | amending act | 1 | 2002-01-15 | 2002-01-15 |
 | Hotărârea Guvernului nr. 1334/2001 privind aprobarea bugetelor de venituri şi cheltuieli pe anul 2002 pentru companiile, societăţile naţionale şi societăţile comerciale aflate sub autoritatea sau în coordonarea Ministerului Industriei şi Resurselor, precum şi a transferurilor pentru societăţile comerciale din sectorul minier şi pentru Societatea Comercială "Romplumb" - S.A. Baia Mare | [`hg/2001/1334/`](hg/2001/1334/) | amended, not consolidated | 1 | 2002-01-15 | 2002-01-15 |
+| Hotărârea Guvernului nr. 1335/2001 privind scutirea de la plata taxelor vamale a importului unui utilaj de igienizare şi ecologizare a plajelor | [`hg/2001/1335/`](hg/2001/1335/) | in force | 1 | 2002-01-21 | 2002-01-21 |
 | Hotărârea Guvernului nr. 1336/2001 privind domeniile şi specializările de referinţa din învăţământul universitar | [`hg/2001/1336/`](hg/2001/1336/) | amended, not consolidated | 1 | 2002-01-21 | 2002-01-21 |
+| Hotărârea Guvernului nr. 1337/2001 pentru modificarea şi completarea Hotărârii Guvernului nr. 261/2001 privind criteriile şi metodologia de încadrare a locurilor de muncă în condiţii deosebite | [`hg/2001/1337/`](hg/2001/1337/) | amending act | 1 | 2002-01-21 | 2002-01-21 |
+| Hotărârea Guvernului nr. 1339/2001 pentru aprobarea Convenţiei dintre Guvernul României şi Guvernul Republicii Polone privind cooperarea în domeniul protecţiei plantelor, semnat la Varşovia la 11 iulie 2001 | [`hg/2001/1339/`](hg/2001/1339/) | amending act | 1 | 2002-01-25 | 2002-01-25 |
 | Hotărârea Guvernului nr. 1340/2001 | [`hg/2001/1340/`](hg/2001/1340/) | in force | 10 | 2002-01-21 | 2024-07-05 |
+| Hotărârea Guvernului nr. 1341/2001 pentru aprobarea Normelor metodologice privind utilizarea Fondului special pentru produse petroliere | [`hg/2001/1341/`](hg/2001/1341/) | amending act | 1 | 2002-01-22 | 2002-01-22 |
 | Hotărârea Guvernului nr. 1342/2001 privind reorganizarea Societăţii Comerciale de Distribuţie şi Furnizare a Energiei Electrice "Electrica" - S.A | [`hg/2001/1342/`](hg/2001/1342/) | amended, not consolidated | 1 | 2002-01-23 | 2002-01-23 |
+| Hotărârea Guvernului nr. 1344/2001 privind aprobarea bugetelor de venituri şi cheltuieli rectificate pe anul 2001 ale unor agenţi economici din domeniul transportului feroviar care funcţionează sub autoritatea Ministerului Lucrărilor Publice, Transporturilor şi Locuinţei | [`hg/2001/1344/`](hg/2001/1344/) | amending act | 1 | 2002-01-17 | 2002-01-17 |
+| Hotărârea Guvernului nr. 1346/2001 privind aprobarea bugetelor de venituri şi cheltuieli pe anul 2002 ale unor agenţi economici din domeniul transportului feroviar care funcţionează sub autoritatea Ministerului Lucrărilor Publice, Transporturilor şi Locuinţei | [`hg/2001/1346/`](hg/2001/1346/) | amending act | 1 | 2002-01-17 | 2002-01-17 |
 | Hotărârea Guvernului nr. 1348/2001 privind atestarea domeniului public al judeţului Buzău, precum şi al municipiilor, oraşelor şi comunelor din judeţul Buzău | [`hg/2001/1348/`](hg/2001/1348/) | amended, not consolidated | 1 | 2002-08-22 | 2002-08-22 |
 | Hotărârea Guvernului nr. 1349/2001 | [`hg/2001/1349/`](hg/2001/1349/) | in force | 1 | 2002-08-26 | 2002-08-26 |
 | Hotărârea Guvernului nr. 1352/2001 | [`hg/2001/1352/`](hg/2001/1352/) | in force | 1 | 2002-08-28 | 2002-08-28 |
@@ -13041,7 +13056,9 @@
 | Hotărârea Guvernului nr. 1359/2001 | [`hg/2001/1359/`](hg/2001/1359/) | in force | 1 | 2002-02-18 | 2002-02-18 |
 | Hotărârea Guvernului nr. 1361/2001 privind atestarea domeniului public al judeţului Vaslui, precum şi al municipiilor, oraşelor şi comunelor din judeţul Vaslui | [`hg/2001/1361/`](hg/2001/1361/) | amended, not consolidated | 1 | 2002-08-27 | 2002-08-27 |
 | Hotărârea Guvernului nr. 1362/2001 | [`hg/2001/1362/`](hg/2001/1362/) | in force | 1 | 2002-04-25 | 2002-04-25 |
+| Hotărârea Guvernului nr. 1363/2001 privind aprobarea numărului de autoturisme şi a consumului de carburanţi pentru activităţile specifice desfăşurate de Ministerul Turismului prin birourile de promovare şi informare turistica din străinătate | [`hg/2001/1363/`](hg/2001/1363/) | amending act | 1 | 2002-01-21 | 2002-01-21 |
 | Hotărârea Guvernului nr. 1364/2001 | [`hg/2001/1364/`](hg/2001/1364/) | in force | 1 | 2002-02-05 | 2002-02-05 |
+| Hotărârea Guvernului nr. 1365/2001 privind producţia şi finanţarea stocului de octoxid de uraniu necesar Unităţii 2 din cadrul Centralei Nuclearoelectrică (CNE) Cernavodă în anul 2002 | [`hg/2001/1365/`](hg/2001/1365/) | in force | 1 | 2002-01-28 | 2002-01-28 |
 | Hotărârea Guvernului nr. 4/2002 privind organizarea la Bucureşti, în perioada 18-24 mai 2002, a Reuniunii anuale a guvernatorilor Băncii Europene pentru Reconstrucţie şi Dezvoltare, a Forumului de Afaceri, a Forumului Român de Investiţii şi a Reuniunii miniştrilor de finanţe din ţările candidate pentru aderarea la Uniunea Europeană | [`hg/2002/4/`](hg/2002/4/) | amended, not consolidated | 1 | 2002-01-17 | 2002-01-17 |
 | Hotărârea Guvernului nr. 19/2002 pentru aprobarea bugetelor de venituri şi cheltuieli pe anul 2002 ale societăţilor naţionale şi al regiei autonome, aflate sub autoritatea Ministerului Agriculturii, Alimentaţiei şi Pădurilor | [`hg/2002/19/`](hg/2002/19/) | amended, not consolidated | 1 | 2002-01-18 | 2002-01-18 |
 | Hotărârea Guvernului nr. 23/2002 privind premierea sportivului Leonard Doroftei pentru cucerirea titlului de campion mondial la box profesionist în versiunea WBA | [`hg/2002/23/`](hg/2002/23/) | in force | 1 | 2002-01-18 | 2002-01-18 |
