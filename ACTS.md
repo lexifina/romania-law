@@ -1,6 +1,6 @@
 # Every act in this repository
 
-38268 acts, 52,020 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+38290 acts, 52,042 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -8036,7 +8036,7 @@
 | Legea nr. 204/2026 privind aprobarea Ordonanţei Guvernului nr. 22/2025 pentru modificarea şi completarea Legii nr. 227/2015 privind Codul fiscal şi pentru completarea articolului 342 din Legea nr. 227/2015 privind Codul fiscal | [`lege/2026/204/`](lege/2026/204/) | amending act | 1 | 2026-10-25 | 2026-10-25 |
 | Legea nr. 205/2026 pentru completarea Ordonanţei Guvernului nr. 22/2002 privind executarea obligaţiilor de plată ale instituţiilor publice, stabilite prin titluri executorii | [`lege/2026/205/`](lege/2026/205/) | amending act | 1 | 2026-11-02 | 2026-11-02 |
 
-## Emergency ordinances (OUG) (2861, of which 658 amending acts)
+## Emergency ordinances (OUG) (2864, of which 658 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -8425,9 +8425,12 @@
 | Ordonanța de urgență a Guvernului nr. 175/2001 | [`oug/2001/175/`](oug/2001/175/) | in force | 2 | 2001-12-21 | 2002-07-10 |
 | Ordonanța de urgență a Guvernului nr. 176/2001 pentru modificarea şi completarea Legii nr. 47/1994 privind serviciile din subordinea Preşedintelui României | [`oug/2001/176/`](oug/2001/176/) | amended, not consolidated | 1 | 2001-12-27 | 2001-12-27 |
 | Ordonanța de urgență a Guvernului nr. 179/2001 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 271/2000 privind regimul activităţilor de transport, comercializare şi recuperare a ţiţeiului, gazolinei, condensatului şi etanului lichid | [`oug/2001/179/`](oug/2001/179/) | amended, not consolidated | 1 | 2002-01-26 | 2002-01-26 |
+| Ordonanța de urgență a Guvernului nr. 180/2001 privind unele măsuri de redresare financiară la Societatea Naţională "Tutunul Românesc" - S.A | [`oug/2001/180/`](oug/2001/180/) | in force | 1 | 2001-12-27 | 2001-12-27 |
 | Ordonanța de urgență a Guvernului nr. 182/2001 pentru modificarea Legii nr. 80/1995 privind Statutul cadrelor militare | [`oug/2001/182/`](oug/2001/182/) | amended, not consolidated | 1 | 2001-12-28 | 2001-12-28 |
 | Ordonanța de urgență a Guvernului nr. 184/2001 | [`oug/2001/184/`](oug/2001/184/) | in force | 2 | 2001-12-29 | 2002-07-18 |
+| Ordonanța de urgență a Guvernului nr. 185/2001 privind unele măsuri de administrare şi gestionare a rezervei de mobilizare | [`oug/2001/185/`](oug/2001/185/) | in force | 1 | 2001-12-29 | 2001-12-29 |
 | Ordonanța de urgență a Guvernului nr. 187/2001 privind creşterile salariale ce se vor acorda în anul 2002 personalului din sectorul bugetar | [`oug/2001/187/`](oug/2001/187/) | amended, not consolidated | 1 | 2001-12-29 | 2001-12-29 |
+| Ordonanța de urgență a Guvernului nr. 188/2001 pentru ratificarea Acordului dintre Guvernul României şi Guvernul Federal al Republicii Austria privind readmisia persoanelor, semnat la Viena la 28 noiembrie 2001, precum şi a Protocolului pentru aplicarea Acordului dintre Guvernul României şi Guvernul Federal al Republicii Austria privind readmisia persoanelor, semnat la Viena la 28 noiembrie 2001 | [`oug/2001/188/`](oug/2001/188/) | in force | 1 | 2001-12-29 | 2001-12-29 |
 | Ordonanța de urgență a Guvernului nr. 194/2001 privind modificarea şi completarea Ordonanţei Guvernului nr. 128/1998 pentru reglementarea modului şi condiţiilor de valorificare a bunurilor legal confiscate sau intrate, potrivit legii, în proprietatea privată a statului | [`oug/2001/194/`](oug/2001/194/) | amended, not consolidated | 1 | 2001-12-29 | 2001-12-29 |
 | Ordonanța de urgență a Guvernului nr. 195/2001 | [`oug/2001/195/`](oug/2001/195/) | in force | 3 | 2001-12-29 | 2012-08-27 |
 | Ordonanța de urgență a Guvernului nr. 1/2002 | [`oug/2002/1/`](oug/2002/1/) | in force | 2 | 2002-01-22 | 2002-04-24 |
@@ -11889,7 +11892,7 @@
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 5/2026 pentru modificarea şi completarea Ordonanţei Guvernului nr. 27/2011 privind transporturile rutiere şi pentru completarea Ordonanţei de urgenţă a Guvernului nr. 28/1999 privind obligaţia operatorilor economici de a utiliza aparate de marcat electronice fiscale | [`og/2026/5/`](og/2026/5/) | amended, not consolidated | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (26345, of which 12324 amending acts)
+## Government decisions (HG) (26364, of which 12333 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -13033,9 +13036,28 @@
 | Hotărârea Guvernului nr. 1222/2001 pentru aprobarea compensării timpului de muncă aferent zilelor de 24 şi 31 decembrie 2001, stabilite ca zile libere | [`hg/2001/1222/`](hg/2001/1222/) | amended, not consolidated | 1 | 2001-12-07 | 2001-12-07 |
 | Hotărârea Guvernului nr. 1244/2001 pentru aprobarea Contractului-cadru privind condiţiile acordării asistenţei medicale în cadrul sistemului asigurărilor sociale de sănătate în asistenţa medicală primara | [`hg/2001/1244/`](hg/2001/1244/) | amended, not consolidated | 1 | 2002-01-01 | 2002-01-01 |
 | Hotărârea Guvernului nr. 1245/2001 pentru aprobarea Contractului-cadru privind condiţiile acordării asistenţei medicale în cadrul sistemului asigurărilor sociale de sănătate în asistenţa medicală ambulatorie de specialitate pentru specialităţile clinice, paraclinice şi stomatologice | [`hg/2001/1245/`](hg/2001/1245/) | amended, not consolidated | 1 | 2002-01-01 | 2002-01-01 |
+| Hotărârea Guvernului nr. 1256/2001 privind alocarea unor sume din Fondul de rezerva bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2001, pentru acoperirea unor cheltuieli ale consiliilor locale ale municipiilor Constanţa şi Cernavodă | [`hg/2001/1256/`](hg/2001/1256/) | in force | 1 | 2001-12-19 | 2001-12-19 |
+| Hotărârea Guvernului nr. 1257/2001 privind plata contribuţiei României pe anii 1995, 1996 şi 1997 la Fondul European pentru Tineret | [`hg/2001/1257/`](hg/2001/1257/) | in force | 1 | 2001-12-20 | 2001-12-20 |
 | Hotărârea Guvernului nr. 1258/2001 | [`hg/2001/1258/`](hg/2001/1258/) | in force | 2 | 2001-12-20 | 2009-12-04 |
 | Hotărârea Guvernului nr. 1259/2001 | [`hg/2001/1259/`](hg/2001/1259/) | in force | 2 | 2001-12-28 | 2004-12-30 |
+| Hotărârea Guvernului nr. 1260/2001 privind acordarea unui ajutor financiar din partea statului Mănăstirii Bogdana din municipiul Rădăuţi, judeţul Suceava, pentru continuarea lucrărilor de construcţie a Orfelinatului de copii "Sfântul Ierarh Leonte - Mânăstirea Bogdana" | [`hg/2001/1260/`](hg/2001/1260/) | in force | 1 | 2001-12-19 | 2001-12-19 |
+| Hotărârea Guvernului nr. 1261/2001 privind redistribuirea unor sume din Fondul de asigurări sociale de sănătate aprobat pe anul 2001 | [`hg/2001/1261/`](hg/2001/1261/) | in force | 1 | 2001-12-20 | 2001-12-20 |
+| Hotărârea Guvernului nr. 1262/2001 privind finanţarea cheltuielilor de funcţionare a Muzeului Naţional al Pompierilor | [`hg/2001/1262/`](hg/2001/1262/) | in force | 1 | 2001-12-21 | 2001-12-21 |
+| Hotărârea Guvernului nr. 1263/2001 privind aprobarea rectificării bugetului de venituri şi cheltuieli pe anul 2001 al Institutului Naţional de Studii şi Cercetări pentru Comunicaţii - I.N.S.C.C. Bucureşti, care funcţionează în coordonarea Ministerului Comunicaţiilor şi Tehnologiei Informaţiei | [`hg/2001/1263/`](hg/2001/1263/) | amending act | 1 | 2001-12-21 | 2001-12-21 |
+| Hotărârea Guvernului nr. 1264/2001 privind abrogarea unor prevederi din Regulamentul de organizare şi funcţionare a Camerei Auditorilor din România, aprobat prin Hotărârea Guvernului nr. 591/2000 | [`hg/2001/1264/`](hg/2001/1264/) | amending act | 1 | 2001-12-21 | 2001-12-21 |
+| Hotărârea Guvernului nr. 1267/2001 privind aprobarea structurii, indicatorilor şi fondurilor aferente programelor Ministerului Apărării Naţionale care se experimentează şi se finanţează din bugetul de stat pe anul 2001 | [`hg/2001/1267/`](hg/2001/1267/) | amending act | 1 | 2001-12-28 | 2001-12-28 |
+| Hotărârea Guvernului nr. 1269/2001 pentru modificarea Hotărârii Guvernului nr. 1.044/2001 privind suplimentarea bugetului Secretariatului General al Guvernului pe anul 2001 din Fondul de rezerva bugetară la dispoziţia Guvernului | [`hg/2001/1269/`](hg/2001/1269/) | amending act | 1 | 2001-12-21 | 2001-12-21 |
+| Hotărârea Guvernului nr. 1270/2001 privind alocarea unei sume din Fondul de rezerva bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2001, pentru acoperirea unor cheltuieli ale unor instituţii publice din judeţul Iaşi | [`hg/2001/1270/`](hg/2001/1270/) | in force | 1 | 2001-12-21 | 2001-12-21 |
 | Hotărârea Guvernului nr. 1272/2001 pentru majorarea gradului de deschidere a pieţei energiei electrice | [`hg/2001/1272/`](hg/2001/1272/) | amended, not consolidated | 1 | 2001-12-21 | 2001-12-21 |
+| Hotărârea Guvernului nr. 1273/2001 privind schimbul unui teren situat în municipiul Bucureşti | [`hg/2001/1273/`](hg/2001/1273/) | in force | 1 | 2001-12-27 | 2001-12-27 |
+| Hotărârea Guvernului nr. 1276/2001 privind participarea României în anul 2001 la Programul Uniunii Europene "Cultura 2000" şi plata contribuţiei financiare la acest program | [`hg/2001/1276/`](hg/2001/1276/) | in force | 1 | 2001-12-28 | 2001-12-28 |
+| Hotărârea Guvernului nr. 1277/2001 pentru modificarea anexei la Hotărârea Guvernului nr. 594/2001 privind suplimentarea bugetului Ministerului Culturii şi Cultelor pe anul 2001 din Fondul de rezerva bugetară la dispoziţia Guvernului pentru Patriarhia Română | [`hg/2001/1277/`](hg/2001/1277/) | amending act | 1 | 2001-12-28 | 2001-12-28 |
+| Hotărârea Guvernului nr. 1280/2001 privind acordarea unor facilităţi Societăţii Comerciale "C.S.R." - S.A. Reşita | [`hg/2001/1280/`](hg/2001/1280/) | in force | 1 | 2001-12-27 | 2001-12-27 |
+| Hotărârea Guvernului nr. 1282/2001 privind aprobarea rectificării bugetului de venituri şi cheltuieli pe anul 2001 al Regiei Autonome "Administraţia Patrimoniului Protocolului de Stat", regie autonomă de interes naţional aflată sub autoritatea Secretariatului General al Guvernului | [`hg/2001/1282/`](hg/2001/1282/) | amending act | 1 | 2001-12-28 | 2001-12-28 |
+| Hotărârea Guvernului nr. 1283/2001 pentru aprobarea bugetului de venituri şi cheltuieli al Autorităţii pentru Privatizare şi Administrarea Participaţiilor Statului pe anul 2001 | [`hg/2001/1283/`](hg/2001/1283/) | amending act | 1 | 2001-12-28 | 2001-12-28 |
+| Hotărârea Guvernului nr. 1285/2001 pentru modificarea art. 47 din Regulamentul de organizare şi funcţionare a Comisiei pentru cinstirea şi sprijinirea eroilor Revoluţiei din decembrie 1989, aprobat prin Hotărârea Guvernului nr. 566/1996 | [`hg/2001/1285/`](hg/2001/1285/) | amending act | 1 | 2001-12-27 | 2001-12-27 |
+| Hotărârea Guvernului nr. 1286/2001 privind înfiinţarea Clubului Sportiv Municipal Reşita în subordinea Ministerului Tineretului şi Sportului | [`hg/2001/1286/`](hg/2001/1286/) | in force | 1 | 2001-12-28 | 2001-12-28 |
+| Hotărârea Guvernului nr. 1289/2001 pentru aprobarea Acordului privind cooperarea în domeniul agriculturii şi industriei alimentare dintre Ministerul Agriculturii, Alimentaţiei şi Pădurilor din România şi Ministerul Agriculturii şi Îmbunătăţirilor Funciare din Republica Arabă Egipt, semnat la Cairo la 28 iunie 2001 | [`hg/2001/1289/`](hg/2001/1289/) | amending act | 1 | 2001-12-28 | 2001-12-28 |
 | Hotărârea Guvernului nr. 1290/2001 privind actualizarea anexei la Legea nr. 327/2001 pentru aprobarea scutirii de la plata taxei pe valoarea adăugată a unor bunuri importate şi servicii efectuate de prestatori cu sediul în străinătate, necesare în vederea înzestrării Serviciului de Telecomunicaţii Speciale | [`hg/2001/1290/`](hg/2001/1290/) | amending act | 1 | 2001-12-28 | 2001-12-28 |
 | Hotărârea Guvernului nr. 1296/2001 privind actualizarea cuantumului sumelor prevăzute la art. 5 alin. (1) şi (2) din Ordonanţa de urgenţă a Guvernului nr. 13/2001 privind soluţionarea contestaţiilor împotriva măsurilor dispuse prin actele de control sau de impunere întocmite de organele Ministerului Finanţelor Publice | [`hg/2001/1296/`](hg/2001/1296/) | in force | 1 | 2001-12-29 | 2001-12-29 |
 | Hotărârea Guvernului nr. 1297/2001 pentru aprobarea Strategiei de dezvoltare a industriei aparatelor şi maşinilor de uz casnic din România pe perioada 2001-2010 | [`hg/2001/1297/`](hg/2001/1297/) | amending act | 1 | 2001-12-29 | 2001-12-29 |
