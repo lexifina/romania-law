@@ -1,6 +1,6 @@
 # Every act in this repository
 
-38474 acts, 52,227 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+38483 acts, 52,236 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (8093, of which 2922 amending acts)
+## Laws (legi) (8097, of which 2923 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -1071,10 +1071,14 @@
 | Legea nr. 573/2001 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 147/1999 privind asociaţiile utilizatorilor de apa pentru irigaţii | [`lege/2001/573/`](lege/2001/573/) | amended, not consolidated | 1 | 2001-11-01 | 2001-11-01 |
 | Legea nr. 574/2001 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 9/2001 privind unele măsuri în domeniile culturii şi artei, cultelor, cinematografiei şi dreptului de autor | [`lege/2001/574/`](lege/2001/574/) | amended, not consolidated | 1 | 2001-10-30 | 2001-10-30 |
 | Legea nr. 575/2001 | [`lege/2001/575/`](lege/2001/575/) | in force | 1 | 2001-11-14 | 2001-11-14 |
+| Legea nr. 579/2001 privind declararea municipiului Hunedoara Oraş martir al Revoluţiei din decembrie 1989 | [`lege/2001/579/`](lege/2001/579/) | in force | 1 | 2001-11-05 | 2001-11-05 |
+| Legea nr. 580/2001 privind declararea ca municipiu a oraşului Moineşti, judeţul Bacău | [`lege/2001/580/`](lege/2001/580/) | in force | 1 | 2001-11-05 | 2001-11-05 |
+| Legea nr. 581/2001 privind declararea ca municipiu a oraşului Salonta, judeţul Bihor | [`lege/2001/581/`](lege/2001/581/) | in force | 1 | 2001-11-05 | 2001-11-05 |
 | Legea nr. 582/2001 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 111/2001 pentru ratificarea Acordului de împrumut dintre România şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare, semnat la Bucureşti la 6 iulie 2001 | [`lege/2001/582/`](lege/2001/582/) | amended, not consolidated | 1 | 2001-11-05 | 2001-11-05 |
 | Legea nr. 583/2001 privind aprobarea Ordonanţei Guvernului nr. 23/2001 pentru ratificarea Memorandumului de finanţare convenit între Guvernul României şi Comisia Europeană privind asistenţa financiară nerambursabilă acordată prin Instrumentul pentru Politici Structurale de Preaderare pentru măsura "Reabilitarea reţelei de canalizare şi furnizarea de facilităţi pentru epurarea apelor uzate în municipiul Craiova pentru protecţia fluviului Dunărea, România", semnat la Bruxelles la 22 decembrie 2000 şi la Bucureşti la 13 mai 2001 | [`lege/2001/583/`](lege/2001/583/) | amended, not consolidated | 1 | 2001-11-05 | 2001-11-05 |
 | Legea nr. 584/2001 privind aprobarea Ordonanţei Guvernului nr. 16/2001 pentru ratificarea Memorandumului de finanţare convenit între Guvernul României şi Comisia Europeană privind asistenţa financiară nerambursabilă acordată prin Instrumentul pentru Politici Structurale de Preaderare pentru măsura "Îmbunătăţirea sistemului de apa potabilă şi a celui al apelor uzate în scopul conformării cu standardele europene în domeniul calităţii apei şi protecţiei mediului în municipiul Iaşi, România", semnat la Bruxelles la 22 decembrie 2000 şi la Bucureşti la 13 mai 2001 | [`lege/2001/584/`](lege/2001/584/) | amended, not consolidated | 1 | 2001-11-05 | 2001-11-05 |
 | Legea nr. 585/2001 privind aprobarea Ordonanţei Guvernului nr. 15/2001 pentru ratificarea Memorandumului de finanţare convenit între Guvernul României şi Comisia Europeană privind asistenţa financiară nerambursabilă acordată prin Instrumentul pentru Politici Structurale de Preaderare pentru măsura "Extinderea Staţiei de epurare a apelor uzate Dănuţoni - etapa de tratare biologica, Valea Jiului, România", semnat la Bruxelles la 22 decembrie 2000 şi la Bucureşti la 13 mai 2001 | [`lege/2001/585/`](lege/2001/585/) | amended, not consolidated | 1 | 2001-11-05 | 2001-11-05 |
+| Legea nr. 586/2001 privind aprobarea Ordonanţei de urgenta a Guvernului nr. 87/2001 pentru aprobarea plăţii contribuţiei României la Centrul Regional pentru Combaterea Criminalităţii Transfrontaliere (SECI) | [`lege/2001/586/`](lege/2001/586/) | amending act | 1 | 2001-11-09 | 2001-11-09 |
 | Legea nr. 587/2001 pentru ratificarea Acordului de amendament dintre România şi Banca Europeană pentru Reconstrucţie şi Dezvoltare, semnat la Londra la 6 iulie 2001, la Acordul de împrumut dintre România şi Banca Europeană pentru Reconstrucţie şi Dezvoltare pentru finanţarea "Proiectului privind conservarea energiei termice", semnat la Londra la 13 aprilie 1997*) | [`lege/2001/587/`](lege/2001/587/) | in force | 1 | 2001-11-01 | 2001-11-01 |
 | Legea nr. 588/2001 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 238/2000 privind rambursarea ratelor de capital pentru o cotă-parte din creditul acordat de Guvernul S.U.A. în baza programului CCC - Legea publică nr. 480 din 1992, precum şi achitarea dobânzii şi a altor costuri externe aferente acestei cote-părţi | [`lege/2001/588/`](lege/2001/588/) | amending act | 1 | 2001-11-07 | 2001-11-07 |
 | Legea nr. 590/2001 pentru respingerea Ordonanţei de urgenţă a Guvernului nr. 66/1998 privind regularizarea unor credite acordate Băncii Agricole - S.A. în conformitate cu prevederile Legii nr. 20/1996 şi a dobânzilor aferente acestor credite | [`lege/2001/590/`](lege/2001/590/) | amending act | 1 | 2001-11-07 | 2001-11-07 |
@@ -11992,7 +11996,7 @@
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 5/2026 pentru modificarea şi completarea Ordonanţei Guvernului nr. 27/2011 privind transporturile rutiere şi pentru completarea Ordonanţei de urgenţă a Guvernului nr. 28/1999 privind obligaţia operatorilor economici de a utiliza aparate de marcat electronice fiscale | [`og/2026/5/`](og/2026/5/) | amended, not consolidated | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (26448, of which 12366 amending acts)
+## Government decisions (HG) (26453, of which 12369 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -13115,6 +13119,11 @@
 | Hotărârea Guvernului nr. 1094/2001 privind înfiinţarea Societăţii Comerciale "Uzina Electrica Gura Barza" - S.A. prin reorganizarea unor activităţi din cadrul Societăţii Comerciale de Producere a Energiei Electrice şi Termice "Termoelectrica" - S.A | [`hg/2001/1094/`](hg/2001/1094/) | amended, not consolidated | 1 | 2001-11-05 | 2001-11-05 |
 | Hotărârea Guvernului nr. 1098/2001 pentru prelungirea mandatului directorului proiectului "Calea Ferată Transeuropeana (TER)" din cadrul Acordului dintre Comisia Economică pentru Europa a Organizaţiei Naţiunilor Unite (C.E.E./O.N.U.) şi guvernele participante privind fondul de cooperare şi creditare, semnat la Geneva la 17 decembrie 1992 | [`hg/2001/1098/`](hg/2001/1098/) | amended, not consolidated | 1 | 2001-11-07 | 2001-11-07 |
 | Hotărârea Guvernului nr. 1099/2001 | [`hg/2001/1099/`](hg/2001/1099/) | in force | 1 | 2002-01-01 | 2002-01-01 |
+| Hotărârea Guvernului nr. 1103/2001 pentru modificarea anexei nr. 1 la Hotărârea Guvernului nr. 18/2001 privind organizarea şi funcţionarea Ministerului Finanţelor Publice | [`hg/2001/1103/`](hg/2001/1103/) | amending act | 1 | 2001-11-13 | 2001-11-13 |
+| Hotărârea Guvernului nr. 1104/2001 privind transmiterea unui imobil, proprietate publică a statului, din administrarea Regiei Autonome "Administraţia Patrimoniului Protocolului de Stat" în administrarea Ministerului Justiţiei şi a Ministerului Public | [`hg/2001/1104/`](hg/2001/1104/) | in force | 1 | 2001-11-13 | 2001-11-13 |
+| Hotărârea Guvernului nr. 1105/2001 privind transmiterea unui imobil situat în municipiul Slobozia, judeţul Ialomiţa, în folosinţa gratuită a Episcopiei Sloboziei şi Călăraşilor | [`hg/2001/1105/`](hg/2001/1105/) | in force | 1 | 2001-11-13 | 2001-11-13 |
+| Hotărârea Guvernului nr. 1106/2001 pentru modificarea art. 1 din Hotărârea Guvernului nr. 1.087/2000 privind transmiterea, cu plata, a imobilului "Lebăda" din proprietatea Societăţii Comerciale "Capitol" - S.A. în proprietatea publică a statului, în administrarea Secretariatului de Stat pentru Culte şi în folosinţa gratuită a Patriarhiei Române | [`hg/2001/1106/`](hg/2001/1106/) | amending act | 1 | 2001-11-13 | 2001-11-13 |
+| Hotărârea Guvernului nr. 1110/2001 pentru aprobarea Memorandumului de înţelegere dintre Guvernul României şi Guvernul Statului Israel privind cooperarea în domeniul locuinţelor şi dezvoltării urbane, semnat la Ierusalim la 17 iulie 2001 | [`hg/2001/1110/`](hg/2001/1110/) | amending act | 1 | 2001-11-19 | 2001-11-19 |
 | Hotărârea Guvernului nr. 1111/2001 privind numirea unui consul general | [`hg/2001/1111/`](hg/2001/1111/) | in force | 1 | 2001-11-13 | 2001-11-13 |
 | Hotărârea Guvernului nr. 1112/2001 pentru aprobarea plăţii de către Secretariatul General al Guvernului, a creanţelor dispuse în sarcina Guvernului, prin titluri executorii judecătoreşti | [`hg/2001/1112/`](hg/2001/1112/) | amending act | 1 | 2001-11-13 | 2001-11-13 |
 | Hotărârea Guvernului nr. 1113/2001 privind aprobarea Normelor metodologice pentru aplicarea Ordonanţei Guvernului nr. 56/2000 privind reglementarea depozitării cerealelor şi seminţelor oleaginoase, regimul certificatelor de depozit pentru acestea, precum şi constituirea Fondului de garantare pentru certificatele de depozit şi pentru stabilirea contravenţiilor şi a modului de sancţionare a acestora | [`hg/2001/1113/`](hg/2001/1113/) | amended, not consolidated | 1 | 2001-11-27 | 2001-11-27 |

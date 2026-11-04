@@ -12,7 +12,7 @@ Act id: `hg-380-2017` (tags `hg-380-2017/<day>`; `python tools/on.py <day> hg-38
 
 ## Decisions made by hand
 
-- HG nr. 380/2017: added from the official web service of the Portalul legislativ (FreeWebService): its only version is the act as published (document 190071, retrieved 2026-11-03). No consolidated form exists: a full-text search of the official web service on 2026-11-04 finds no act changing it ().
+- HG nr. 380/2017: added from the official web service of the Portalul legislativ (FreeWebService): the act as published (document 190071, retrieved 2026-11-03).
 - HG nr. 380/2017: added by Lexifina's automatic pass with the default rules, and no rule or ruling made for this act alone was applied. It was published only because every automatic check that applies to an act known from the official web service alone passed: two parses identical, issuer, number and in-force day confirmed by the service, and no act changing it found by the full-text search.
 - HG nr. 380/2017: the first version is the Government decision as published in Monitorul Oficial nr. 441 of 14 June 2017 (document 190071 of the official web service), dated 24 June 2017: its art. II puts it in force 10 days after publication. No consolidated form of it exists, so the text as published is its only version; no page of the act is held.
 - HG nr. 380/2017: the Government decision numbers its own articles in Roman numerals (I, II, ...); each is kept under its Roman title and filed by its value (art-001 for Articolul I), so the files sort in order. The articles of other acts it quotes stay in the text of the article that quotes them.
