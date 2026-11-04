@@ -99521,6 +99521,21 @@
    ]
   },
   {
+   "slug": "hg-1000-2011",
+   "path": "hg/2011/1000",
+   "short": "HG nr. 1000/2011",
+   "title": "Hotărârea Guvernului nr. 1000/2011 pentru modificarea şi completarea Hotărârii Guvernului nr. 1.239/2010 privind aprobarea Normelor metodologice de aplicare a Legii parteneriatului public-privat nr. 178/2010 , precum şi pentru aprobarea unor măsuri privind reorganizarea Unităţii centrale pentru coordonarea parteneriatului public-privat din cadrul Ministerului Finanţelor Publice şi pentru modificarea şi completarea Hotărârii Guvernului nr. 405/2007 privind funcţionarea Secretariatului General al Guvernului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132310",
+   "versions": [
+    {
+     "from": "2011-10-20",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132310",
+     "sha256": "0ae2a167cd5f2e67ddeb418c6fd74e7016a485252579afc56dbd84a270aab7d9"
+    }
+   ]
+  },
+  {
    "slug": "hg-1000-2012",
    "path": "hg/2012/1000",
    "short": "HG nr. 1000/2012",
@@ -99701,6 +99716,21 @@
    ]
   },
   {
+   "slug": "hg-1001-2011",
+   "path": "hg/2011/1001",
+   "short": "HG nr. 1001/2011",
+   "title": "Hotărârea Guvernului nr. 1001/2011 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2011, pentru unele unităţi administrativ-teritoriale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132232",
+   "versions": [
+    {
+     "from": "2011-10-17",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132232",
+     "sha256": "98ac97c5bcf777a771a15305b9f776fcf352a90a818cf6cc4f2e239b49746422"
+    }
+   ]
+  },
+  {
    "slug": "hg-1001-2013",
    "path": "hg/2013/1001",
    "short": "HG nr. 1001/2013",
@@ -99832,6 +99862,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97139",
      "sha256": "45ee9fa9d5b875d75fc261481f815483d0ed868f95163d88e4dce0ef59e90d4b"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1002-2011",
+   "path": "hg/2011/1002",
+   "short": "HG nr. 1002/2011",
+   "title": "Hotărârea Guvernului nr. 1002/2011 privind suplimentarea bugetului Ministerului Educaţiei, Cercetării, Tineretului şi Sportului din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132210",
+   "versions": [
+    {
+     "from": "2011-10-17",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132210",
+     "sha256": "7d3addd121ed8a0de3e463fa4096db709f262f1c7b01474495bb81d90e759804"
     }
    ]
   },
@@ -317330,6 +317375,21 @@
    ]
   },
   {
+   "slug": "hg-968-2011",
+   "path": "hg/2011/968",
+   "short": "HG nr. 968/2011",
+   "title": "Hotărârea Guvernului nr. 968/2011 pentru aprobarea actului adiţional nr. 4 la Acordul de concesiune a unor perimetre de explorare, dezvoltare şi exploatare petrolieră, încheiat între Agenţia Naţională pentru Resurse Minerale şi Societatea Naţională de Gaze Naturale \"Romgaz\" - S.A., aprobat prin Hotărârea Guvernului nr. 23/2000",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132013",
+   "versions": [
+    {
+     "from": "2011-10-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132013",
+     "sha256": "85050464db4c59dd573daeab8469ce1221722ec8bd8caef39d141f65534544b3"
+    }
+   ]
+  },
+  {
    "slug": "hg-968-2012",
    "path": "hg/2012/968",
    "short": "HG nr. 968/2012",
@@ -317476,6 +317536,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97114",
      "sha256": "f8a14cb95080e9fb300d198f1e823882d73e7e009330f81af810e41697525e59"
+    }
+   ]
+  },
+  {
+   "slug": "hg-969-2011",
+   "path": "hg/2011/969",
+   "short": "HG nr. 969/2011",
+   "title": "Hotărârea Guvernului nr. 969/2011 privind plata contribuţiei României la bugetul Secretariatului Consiliului Cooperării Regionale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132062",
+   "versions": [
+    {
+     "from": "2011-10-11",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132062",
+     "sha256": "3adc55a8742c67d671845c4b71eb3b64266a0833670700b3c446da628bb8dc52"
     }
    ]
   },
@@ -317821,6 +317896,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97060",
      "sha256": "63e62037c98b04b2cf3ad829fc702e8acbc38a68523dad4b194d6e57ff195c47"
+    }
+   ]
+  },
+  {
+   "slug": "hg-970-2011",
+   "path": "hg/2011/970",
+   "short": "HG nr. 970/2011",
+   "title": "Hotărârea Guvernului nr. 970/2011 pentru aprobarea Înţelegerii dintre Comisia Naţională pentru Controlul Activităţilor Nucleare din România (CNCAN) şi Comisia pentru Reglementări Nucleare din Statele Unite ale Americii (NRC) privind schimbul de informaţii tehnice şi cooperarea în domeniul securităţii nucleare, semnată la Viena la 4 aprilie 2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132120",
+   "versions": [
+    {
+     "from": "2011-10-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132120",
+     "sha256": "36d7001344ecb967d7642760c0608a2378d033b6324e2b635adec3589888b89c"
     }
    ]
   },
@@ -318185,6 +318275,21 @@
    ]
   },
   {
+   "slug": "hg-972-2011",
+   "path": "hg/2011/972",
+   "short": "HG nr. 972/2011",
+   "title": "Hotărârea Guvernului nr. 972/2011 pentru aprobarea scoaterii definitive din fondul forestier naţional, cu compensare, a terenului în suprafaţă de 7,2078 ha, proprietate publică a oraşului Slănic-Moldova, în vederea realizării obiectivului \"Schi Parc Slănic Moldova\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132075",
+   "versions": [
+    {
+     "from": "2011-10-11",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132075",
+     "sha256": "d9e94cc4ad030d28c54531d77187ffe4c26954f28a5789c4e0b4faf023a4c3a5"
+    }
+   ]
+  },
+  {
    "slug": "hg-972-2012",
    "path": "hg/2012/972",
    "short": "HG nr. 972/2012",
@@ -318331,6 +318436,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97015",
      "sha256": "1bb27b81426da4a66685bca3502ddbeb5ab6fc171cd56c038c0c24af45a6c443"
+    }
+   ]
+  },
+  {
+   "slug": "hg-973-2011",
+   "path": "hg/2011/973",
+   "short": "HG nr. 973/2011",
+   "title": "Hotărârea Guvernului nr. 973/2011 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Refuncţionalizare imobil &#171;Spital Clinic de Urgenţă cu 300 paturi Iaşi&#187;, în curs de execuţie, pentru amenajarea &#171;Institutului Regional de Oncologie 300 paturi Iaşi&#187;, judeţul Iaşi\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132073",
+   "versions": [
+    {
+     "from": "2011-10-11",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132073",
+     "sha256": "866f9b4dae5e5f6c664dbd12bd97d64f5b8f7e527bcaed84b08f52931d6bb670"
     }
    ]
   },
@@ -319100,6 +319220,21 @@
    ]
   },
   {
+   "slug": "hg-977-2011",
+   "path": "hg/2011/977",
+   "short": "HG nr. 977/2011",
+   "title": "Hotărârea Guvernului nr. 977/2011 privind aprobarea desfiinţării unor unităţi sanitare publice cu paturi pentru care managementul asistenţei medicale a fost transferat către autorităţile administraţiei publice locale din judeţele Ilfov şi Mureş",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132189",
+   "versions": [
+    {
+     "from": "2011-10-14",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132189",
+     "sha256": "5bb635984cc6e1fe78261893d54b505bb55d604439450fc0ccdf75f63fb3b14a"
+    }
+   ]
+  },
+  {
    "slug": "hg-977-2012",
    "path": "hg/2012/977",
    "short": "HG nr. 977/2012",
@@ -319276,6 +319411,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97020",
      "sha256": "6f9543e78e549fd36cd086493fabf8e584f1d190978a87f4f6421067dbf05aa1"
+    }
+   ]
+  },
+  {
+   "slug": "hg-978-2011",
+   "path": "hg/2011/978",
+   "short": "HG nr. 978/2011",
+   "title": "Hotărârea Guvernului nr. 978/2011 privind aprobarea bugetului de venituri şi cheltuieli pe anul 2011 al Societăţii Comerciale ARCADIA 2000 - S.A. Bucureşti, aflată în portofoliul Autorităţii pentru Valorificarea Activelor Statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132153",
+   "versions": [
+    {
+     "from": "2011-10-13",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132153",
+     "sha256": "0a8a32ea0bb0087a2d7f364e93ee16d6eefb2bef6ee3f5f2a50820e4d91ffff5"
     }
    ]
   },
@@ -320210,6 +320360,21 @@
    ]
   },
   {
+   "slug": "hg-983-2011",
+   "path": "hg/2011/983",
+   "short": "HG nr. 983/2011",
+   "title": "Hotărârea Guvernului nr. 983/2011 privind aprobarea stemei oraşului Murfatlar, judeţul Constanţa",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132397",
+   "versions": [
+    {
+     "from": "2011-10-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132397",
+     "sha256": "b4265b41432c81c4ab122a20e565ddce47ea8c41297b376856cceed69013eaf3"
+    }
+   ]
+  },
+  {
    "slug": "hg-983-2012",
    "path": "hg/2012/983",
    "short": "HG nr. 983/2012",
@@ -320360,6 +320525,21 @@
    ]
   },
   {
+   "slug": "hg-984-2011",
+   "path": "hg/2011/984",
+   "short": "HG nr. 984/2011",
+   "title": "Hotărârea Guvernului nr. 984/2011 privind aprobarea stemelor comunelor Miroşi şi Stoeneşti, judeţul Argeş",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132398",
+   "versions": [
+    {
+     "from": "2011-10-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132398",
+     "sha256": "aebd18457a0f8f8b0c0815b33f96fa6fde42f9c81f01245a2c46464a5c62f5ee"
+    }
+   ]
+  },
+  {
    "slug": "hg-984-2013",
    "path": "hg/2013/984",
    "short": "HG nr. 984/2013",
@@ -320476,6 +320656,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/287390",
      "sha256": "7f0d61401f2e5032dc35009e479531e0bf3a6dc0ebad4e7e9861db577fa20454"
+    }
+   ]
+  },
+  {
+   "slug": "hg-985-2011",
+   "path": "hg/2011/985",
+   "short": "HG nr. 985/2011",
+   "title": "Hotărârea Guvernului nr. 985/2011 pentru modificarea şi completarea unor anexe la Hotărârea Guvernului nr. 1.353/2001 privind atestarea domeniului public al judeţului Ialomiţa, precum şi al municipiilor, oraşelor şi comunelor din judeţul Ialomiţa",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132584",
+   "versions": [
+    {
+     "from": "2011-11-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132584",
+     "sha256": "7ddfed2fc611d5f0552d6cfa30cb27205b560944ab7aea594c679bafb8dcdfea"
     }
    ]
   },
@@ -320641,6 +320836,21 @@
      "units": 14,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97071",
      "sha256": "03cf36ef76459de52f64b2cd249ad5049f213a20e37bc0eb56403039e5205f9b"
+    }
+   ]
+  },
+  {
+   "slug": "hg-986-2011",
+   "path": "hg/2011/986",
+   "short": "HG nr. 986/2011",
+   "title": "Hotărârea Guvernului nr. 986/2011 pentru modificarea şi completarea unor anexe la Hotărârea Guvernului nr. 934/2002 privind atestarea domeniului public al judeţului Maramureş, precum şi al municipiilor, oraşelor şi comunelor din judeţul Maramureş",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132165",
+   "versions": [
+    {
+     "from": "2011-10-13",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132165",
+     "sha256": "9eb8ed677a8847469c481d9485d973ac07964da7012559c8e8bec85f22326f57"
     }
    ]
   },
@@ -320825,6 +321035,21 @@
    ]
   },
   {
+   "slug": "hg-987-2011",
+   "path": "hg/2011/987",
+   "short": "HG nr. 987/2011",
+   "title": "Hotărârea Guvernului nr. 987/2011 pentru modificarea şi completarea unor anexe la Hotărârea Guvernului nr. 1.347/2001 privind atestarea domeniului public al judeţului Bacău, precum şi al municipiilor, oraşelor şi comunelor din judeţul Bacău",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132193",
+   "versions": [
+    {
+     "from": "2011-10-14",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132193",
+     "sha256": "5d95178e042256d465ee042288cb264f7ceb66a7f0e481cb11d1393e8f2a734a"
+    }
+   ]
+  },
+  {
    "slug": "hg-987-2012",
    "path": "hg/2012/987",
    "short": "HG nr. 987/2012",
@@ -320990,6 +321215,21 @@
    ]
   },
   {
+   "slug": "hg-988-2011",
+   "path": "hg/2011/988",
+   "short": "HG nr. 988/2011",
+   "title": "Hotărârea Guvernului nr. 988/2011 pentru aprobarea înscrierii în inventarul centralizat al bunurilor din domeniul public al statului şi darea în administrarea Ministerului Administraţiei şi Internelor, pentru Inspectoratul Judeţean al Poliţiei de Frontieră Tulcea, a unui imobil aflat în domeniul public al statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132190",
+   "versions": [
+    {
+     "from": "2011-10-14",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132190",
+     "sha256": "c587e383e956f06157d76782a1a8d4ae8a839e0e45b129c757a7426d1ea79d7b"
+    }
+   ]
+  },
+  {
    "slug": "hg-988-2012",
    "path": "hg/2012/988",
    "short": "HG nr. 988/2012",
@@ -321112,6 +321352,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/287400",
      "sha256": "59aa2f6ffb5add5b17026b6b93ef0dd971a64b1c8703a28ed978af55667482ec"
+    }
+   ]
+  },
+  {
+   "slug": "hg-989-2011",
+   "path": "hg/2011/989",
+   "short": "HG nr. 989/2011",
+   "title": "Hotărârea Guvernului nr. 989/2011 privind aprobarea Acordului de concesiune de exploatare petrolieră în perimetrul P VIII - 4 Cheţ, încheiat între Agenţia Naţională pentru Resurse Minerale şi Blackstairs Energy Plc",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132182",
+   "versions": [
+    {
+     "from": "2011-10-14",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132182",
+     "sha256": "b768cc6f5563fe91f41d94bd2531066874cf6d5a040d01809ae3aa490e30e57b"
     }
    ]
   },
@@ -321412,6 +321667,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/278970",
      "sha256": "be154e0bdabad933a8c3d7d2301be6e7e01c5ffdfcae2791d08eca7ae9c0b11d"
+    }
+   ]
+  },
+  {
+   "slug": "hg-990-2011",
+   "path": "hg/2011/990",
+   "short": "HG nr. 990/2011",
+   "title": "Hotărârea Guvernului nr. 990/2011 privind aprobarea Acordului de concesiune de exploatare petrolieră în perimetrul P VIII - 5 Ciutelec, încheiat între Agenţia Naţională pentru Resurse Minerale şi Blackstairs Energy Plc",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132183",
+   "versions": [
+    {
+     "from": "2011-10-14",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132183",
+     "sha256": "8e14ed28f472cde285b35fca452c36e709d2057464c2c2ab3821d483ebe0f01b"
     }
    ]
   },
@@ -321941,6 +322211,21 @@
    ]
   },
   {
+   "slug": "hg-993-2011",
+   "path": "hg/2011/993",
+   "short": "HG nr. 993/2011",
+   "title": "Hotărârea Guvernului nr. 993/2011 privind aprobarea Acordului de concesiune de exploatare petrolieră în perimetrul P VIII - 18 Postăvari, încheiat între Agenţia Naţională pentru Resurse Minerale şi Blackstairs Energy Plc",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132138",
+   "versions": [
+    {
+     "from": "2011-10-13",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132138",
+     "sha256": "bc5224de32e0ad08c2d199bd9a1b0d7321cabc96bef5f0c2fba3cd4e964e07c9"
+    }
+   ]
+  },
+  {
    "slug": "hg-993-2012",
    "path": "hg/2012/993",
    "short": "HG nr. 993/2012",
@@ -322142,6 +322427,21 @@
    ]
   },
   {
+   "slug": "hg-994-2011",
+   "path": "hg/2011/994",
+   "short": "HG nr. 994/2011",
+   "title": "Hotărârea Guvernului nr. 994/2011 privind aprobarea Acordului de concesiune de exploatare petrolieră în perimetrul P VIII - 22 Sâniob, încheiat între Agenţia Naţională pentru Resurse Minerale şi Blackstairs Energy Plc",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132139",
+   "versions": [
+    {
+     "from": "2011-10-13",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132139",
+     "sha256": "6a85aaf6ac530b5a6d7b8012ed3ed74e3f4d75682f8b12d77cc4ea15a0d94323"
+    }
+   ]
+  },
+  {
    "slug": "hg-994-2012",
    "path": "hg/2012/994",
    "short": "HG nr. 994/2012",
@@ -322307,6 +322607,21 @@
    ]
   },
   {
+   "slug": "hg-995-2011",
+   "path": "hg/2011/995",
+   "short": "HG nr. 995/2011",
+   "title": "Hotărârea Guvernului nr. 995/2011 privind aprobarea Licenţei de concesiune nr. 11.478/2008 a activităţii miniere de exploatare a dioxidului de carbon în perimetrul Ciocaia, încheiată între Agenţia Naţională pentru Resurse Minerale şi Societatea Comercială \"Petrom\" - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132140",
+   "versions": [
+    {
+     "from": "2011-10-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132140",
+     "sha256": "c48a7e4ed14024c35354e0e28b93915fcfbc66c1b0eb6a7f2bfcc98f162ab5f0"
+    }
+   ]
+  },
+  {
    "slug": "hg-995-2013",
    "path": "hg/2013/995",
    "short": "HG nr. 995/2013",
@@ -322438,6 +322753,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/287584",
      "sha256": "7cad36067019707257e096f21598f3190fcc2bca155c4257f2fc5f90246661b1"
+    }
+   ]
+  },
+  {
+   "slug": "hg-996-2011",
+   "path": "hg/2011/996",
+   "short": "HG nr. 996/2011",
+   "title": "Hotărârea Guvernului nr. 996/2011 privind aprobarea Acordului de concesiune de exploatare petrolieră în perimetrul P IX - 8 Lăculeţe, încheiat între Agenţia Naţională pentru Resurse Minerale şi Moesia Oil and Gas Plc",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132141",
+   "versions": [
+    {
+     "from": "2011-10-13",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132141",
+     "sha256": "c9ac9da3331f84073bca3bd13a40415a926c606a7c101ba62cfb96c40cad537a"
     }
    ]
   },
@@ -322588,6 +322918,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97171",
      "sha256": "82913e120b7cba43b84c05cdd866e228bd9fc8bb3b0b7949ea4d0b482f4d1e6b"
+    }
+   ]
+  },
+  {
+   "slug": "hg-997-2011",
+   "path": "hg/2011/997",
+   "short": "HG nr. 997/2011",
+   "title": "Hotărârea Guvernului nr. 997/2011 privind aprobarea stemei comunei Dumbrăveşti, judeţul Prahova",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132399",
+   "versions": [
+    {
+     "from": "2011-10-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132399",
+     "sha256": "fd1ac44d54357d5555f1d3d2873c29faee806d965ac62080b14f5b0e9e417ddc"
     }
    ]
   },
@@ -322805,6 +323150,21 @@
    ]
   },
   {
+   "slug": "hg-998-2011",
+   "path": "hg/2011/998",
+   "short": "HG nr. 998/2011",
+   "title": "Hotărârea Guvernului nr. 998/2011 pentru modificarea şi completarea Hotărârii Guvernului nr. 536/2011 privind organizarea şi funcţionarea Ministerului Educaţiei, Cercetării, Tineretului şi Sportului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132156",
+   "versions": [
+    {
+     "from": "2011-10-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132156",
+     "sha256": "b0db57347f021bc00a454605b57fe5ab0702c3d1903fac73ea636c18baaaa775"
+    }
+   ]
+  },
+  {
    "slug": "hg-998-2012",
    "path": "hg/2012/998",
    "short": "HG nr. 998/2012",
@@ -322972,6 +323332,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85514",
      "sha256": "e7692f15e7beb5a63a8d5d11aa7ac133c6929541823fcf330c5850ab43fd07fc"
+    }
+   ]
+  },
+  {
+   "slug": "hg-999-2011",
+   "path": "hg/2011/999",
+   "short": "HG nr. 999/2011",
+   "title": "Hotărârea Guvernului nr. 999/2011 privind transmiterea unor bunuri imobile, proprietate publică a statului şi aflate în concesiunea Companiei Naţionale \"Administraţia Porturilor Maritime\" - S.A. Constanţa, din administrarea Ministerului Transporturilor şi Infrastructurii în administrarea Ministerului Apărării Naţionale - Direcţia hidrografică maritimă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132345",
+   "versions": [
+    {
+     "from": "2011-10-21",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132345",
+     "sha256": "c0cf1e7509551df8eb081efd4eba5d8b24dcc2bcc61ec52e5cd91b078e9d3627"
     }
    ]
   },
@@ -332738,6 +333113,21 @@
    ]
   },
   {
+   "slug": "legea-166-2011",
+   "path": "lege/2011/166",
+   "short": "Legea nr. 166/2011",
+   "title": "Legea nr. 166/2011 pentru modificarea şi completarea Legii educaţiei naţionale nr. 1/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/131998",
+   "versions": [
+    {
+     "from": "2011-10-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/131998",
+     "sha256": "bdd6c56eb342f993f81e5b0a9e8f7fb84f48638eec67782c87f93b227a091dc2"
+    }
+   ]
+  },
+  {
    "slug": "legea-166-2012",
    "path": "lege/2012/166",
    "short": "Legea nr. 166/2012",
@@ -332824,6 +333214,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/35271",
      "sha256": "53ad43b4cc51688001f7ce5bcc0a54b90d85ef60b632e2b4115c4dadeb4cd780"
+    }
+   ]
+  },
+  {
+   "slug": "legea-167-2011",
+   "path": "lege/2011/167",
+   "short": "Legea nr. 167/2011",
+   "title": "Legea nr. 167/2011 pentru aderarea României la Acordul dintre Confederaţia Elveţiană şi Republica Austria privind înfiinţarea şi funcţionarea la Viena a Centrului Internaţional pentru Dezvoltarea Politicilor de Migraţie (ICMPD), semnat la Viena la 1 iunie 1993",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132000",
+   "versions": [
+    {
+     "from": "2011-10-10",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132000",
+     "sha256": "d6658c3513ff65cf364350328449820c9fdea7b6802017e49bdd1a4c851ec235"
     }
    ]
   },
