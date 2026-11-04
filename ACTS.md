@@ -1,6 +1,6 @@
 # Every act in this repository
 
-38805 acts, 52,558 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+38810 acts, 52,563 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (8158, of which 2977 amending acts)
+## Laws (legi) (8163, of which 2982 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -1027,7 +1027,12 @@
 | Legea nr. 428/2001 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 133/1999 privind completarea Legii nr. 82/1992 privind rezervele de stat | [`lege/2001/428/`](lege/2001/428/) | amended, not consolidated | 1 | 2001-07-25 | 2001-07-25 |
 | Legea nr. 440/2001 pentru aprobarea Ordonanţei de urgenta a Guvernului nr. 23/2000 privind înfiinţarea Societăţii Naţionale "Îmbunătăţiri Funciare" - S.A. prin reorganizarea Regiei Autonome a Îmbunătăţirilor Funciare | [`lege/2001/440/`](lege/2001/440/) | amended, not consolidated | 1 | 2001-07-24 | 2001-07-24 |
 | Legea nr. 441/2001 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 133/2000 privind învăţământul universitar şi postuniversitar de stat cu taxa | [`lege/2001/441/`](lege/2001/441/) | amended, not consolidated | 1 | 2001-07-25 | 2001-07-25 |
+| Legea nr. 442/2001 pentru respingerea Ordonanţei de urgenţă a Guvernului nr. 48/2000 privind comasarea Agenţiei Române de Dezvoltare şi Agenţiei Naţionale pentru Întreprinderi Mici şi Mijlocii cu Agenţia Naţionala pentru Dezvoltare Regionala | [`lege/2001/442/`](lege/2001/442/) | amending act | 1 | 2001-07-20 | 2001-07-20 |
+| Legea nr. 443/2001 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 123/2000 pentru completarea Ordonanţei Guvernului nr. 41/1994 privind autorizarea plăţii cotizaţiilor la organizaţiile internaţionale interguvernamentale la care România este parte | [`lege/2001/443/`](lege/2001/443/) | amending act | 1 | 2001-07-25 | 2001-07-25 |
+| Legea nr. 444/2001 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 251/2000 pentru modificarea art. 14 din Ordonanţa de urgenţă a Guvernului nr. 88/1997 privind privatizarea societăţilor comerciale | [`lege/2001/444/`](lege/2001/444/) | amending act | 1 | 2001-07-24 | 2001-07-24 |
 | Legea nr. 445/2001 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 55/2000 privind regularizarea datoriilor fostei Companii Române de Petrol | [`lege/2001/445/`](lege/2001/445/) | amended, not consolidated | 1 | 2001-07-24 | 2001-07-24 |
+| Legea nr. 446/2001 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 281/2000 pentru prelungirea termenului prevăzut la art. 25 alin. (1) din Ordonanţa Guvernului nr. 25/1995 privind reglementarea organizării şi finanţării activităţii de cercetare-dezvoltare | [`lege/2001/446/`](lege/2001/446/) | amending act | 1 | 2001-07-20 | 2001-07-20 |
+| Legea nr. 447/2001 pentru aprobarea Ordonanţei de urgenta a Guvernului nr. 39/2001 privind garantarea de către Autoritatea pentru Privatizare şi Administrarea Participaţiilor Statului a unui credit fără dobânda acordat Societăţii Comerciale "I.C.P.P.A.M." - S.A. Baloteşti | [`lege/2001/447/`](lege/2001/447/) | amending act | 1 | 2001-07-25 | 2001-07-25 |
 | Legea nr. 448/2001 pentru aprobarea Ordonanţei de urgenta a Guvernului nr. 14/2000 privind înfiinţarea formaţiunilor de protecţie civilă pentru intervenţie de urgenta în caz de dezastru | [`lege/2001/448/`](lege/2001/448/) | amended, not consolidated | 1 | 2001-07-24 | 2001-07-24 |
 | Legea nr. 449/2001 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 214/2000 privind unele măsuri pentru execuţia lucrărilor de reabilitare a Grupului nr. 1 din Centrala Termoelectrica Mintia-Deva | [`lege/2001/449/`](lege/2001/449/) | amended, not consolidated | 1 | 2001-07-25 | 2001-07-25 |
 | Legea nr. 450/2001 pentru aprobarea Ordonanţei Guvernului nr. 17/1999 privind constituirea, organizarea şi funcţionarea Serviciului Public de Radiocomunicaţii Navale de Apel, Pericol şi Salvare | [`lege/2001/450/`](lege/2001/450/) | amended, not consolidated | 1 | 2001-07-26 | 2001-07-26 |
