@@ -1,6 +1,6 @@
 # Every act in this repository
 
-25139 acts, 38,773 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+25163 acts, 38,797 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (3758, of which 2198 amending acts)
+## Laws (legi) (3762, of which 2202 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -609,6 +609,10 @@
 | Legea nr. 248/2005 | [`lege/2005/248/`](lege/2005/248/) | in force | 31 | 2006-01-29 | 2025-03-15 |
 | Legea nr. 261/2005 pentru aprobarea Ordonanței de urgență a Guvernului nr. 19/2005 privind realizarea Ansamblului Arhitectural Catedrala Mântuirii Neamului | [`lege/2005/261/`](lege/2005/261/) | amending act | 1 | 2005-10-13 | 2005-10-13 |
 | Legea nr. 263/2005 | [`lege/2005/263/`](lege/2005/263/) | in force | 1 | 2005-10-10 | 2005-10-10 |
+| Legea nr. 266/2005 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 93/2005 privind unele măsuri pentru atragerea de investitori în vederea rezolvării situaţiei specifice de la Societatea Comercială "Daewoo Automobile România" - S.A | [`lege/2005/266/`](lege/2005/266/) | amending act | 1 | 2005-10-10 | 2005-10-10 |
+| Legea nr. 271/2005 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 82/2005 pentru aprobarea numărului de exemplare din speciile urs, lup, râs şi pisică sălbatică, care se pot recolta în cadrul sezonului de vânătoare 2005-2006 | [`lege/2005/271/`](lege/2005/271/) | amending act | 1 | 2005-10-10 | 2005-10-10 |
+| Legea nr. 272/2005 pentru completarea art. 1 din Legea nr. 570/2003 privind interzicerea exploatării de masă lemnoasă din fondul forestier naţional şi din afara acestuia, pentru o perioadă de 3 ani, în judeţele Brăila, Călăraşi, Constanţa, Dolj, Galaţi, Giurgiu, Ialomiţa, Olt, Tulcea şi Teleorman | [`lege/2005/272/`](lege/2005/272/) | amending act | 1 | 2005-10-14 | 2005-10-14 |
+| Legea nr. 276/2005 pentru modificarea art. 3 din Legea arendării nr. 16/1994 | [`lege/2005/276/`](lege/2005/276/) | amending act | 1 | 2005-10-13 | 2005-10-13 |
 | Legea nr. 279/2005 | [`lege/2005/279/`](lege/2005/279/) | in force | 10 | 2006-02-08 | 2019-05-11 |
 | Legea nr. 281/2005 | [`lege/2005/281/`](lege/2005/281/) | in force | 1 | 2005-10-15 | 2005-10-15 |
 | Legea nr. 282/2005 | [`lege/2005/282/`](lege/2005/282/) | in force | 9 | 2005-10-16 | 2022-04-14 |
@@ -6076,7 +6080,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (19072, of which 9669 amending acts)
+## Government decisions (HG) (19092, of which 9679 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -6659,7 +6663,27 @@
 | Hotărârea Guvernului nr. 1063/2005 | [`hg/2005/1063/`](hg/2005/1063/) | in force | 3 | 2005-10-10 | 2024-03-27 |
 | Hotărârea Guvernului nr. 1064/2005 | [`hg/2005/1064/`](hg/2005/1064/) | in force | 3 | 2005-10-12 | 2010-11-30 |
 | Hotărârea Guvernului nr. 1085/2005 pentru modificarea Hotărârii Guvernului nr. 182/2004 privind aprobarea indicatorilor tehnico-economici ai unor obiective de investiţii din cadrul programului "38.000 de locuinţe pentru tineri, destinate închirierii", derulate prin intermediul Agenţiei Naţionale pentru Locuinţe | [`hg/2005/1085/`](hg/2005/1085/) | amending act | 1 | 2005-11-21 | 2005-11-21 |
+| Hotărârea Guvernului nr. 1169/2005 pentru modificarea Hotărârii Guvernului nr. 567/2005 privind organizarea şi desfăşurarea studiilor universitare de doctorat | [`hg/2005/1169/`](hg/2005/1169/) | amending act | 1 | 2005-10-10 | 2005-10-10 |
+| Hotărârea Guvernului nr. 1171/2005 pentru modificarea anexei la Hotărârea Guvernului nr. 2.209/2004 privind aprobarea Strategiei naţionale de combatere a criminalităţii organizate în perioada 2004-2007 şi pentru aprobarea Planului de acţiune pentru implementarea Strategiei naţionale de combatere a criminalităţii organizate 2005-2007 | [`hg/2005/1171/`](hg/2005/1171/) | amending act | 1 | 2005-10-19 | 2005-10-19 |
+| Hotărârea Guvernului nr. 1172/2005 privind aprobarea Politicii industriale a României pentru perioada 2005-2008 şi a Planului de acţiune pentru implementarea politicii industriale a României în perioada 2005-2006 | [`hg/2005/1172/`](hg/2005/1172/) | amending act | 1 | 2005-10-24 | 2005-10-24 |
 | Hotărârea Guvernului nr. 1176/2005 | [`hg/2005/1176/`](hg/2005/1176/) | in force | 1 | 2005-10-20 | 2005-10-20 |
+| Hotărârea Guvernului nr. 1177/2005 privind alocarea unei sume din Fondul de intervenţie la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru înlăturarea efectelor calamităţilor naturale produse de inundaţii în luna septembrie 2005 în localitatea Tuzla, judeţul Constanţa | [`hg/2005/1177/`](hg/2005/1177/) | in force | 1 | 2005-10-20 | 2005-10-20 |
+| Hotărârea Guvernului nr. 1178/2005 privind organizarea referendumului local pentru încetarea înainte de termen a mandatului unui primar | [`hg/2005/1178/`](hg/2005/1178/) | in force | 1 | 2005-10-06 | 2005-10-06 |
+| Hotărârea Guvernului nr. 1179/2005 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru judeţul Maramureş | [`hg/2005/1179/`](hg/2005/1179/) | in force | 1 | 2005-10-06 | 2005-10-06 |
+| Hotărârea Guvernului nr. 1180/2005 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru judeţul Maramureş | [`hg/2005/1180/`](hg/2005/1180/) | in force | 1 | 2005-10-06 | 2005-10-06 |
+| Hotărârea Guvernului nr. 1181/2005 privind organizarea acţiunilor de comemorare a Zilei Holocaustului în România (9-10 octombrie 2005) | [`hg/2005/1181/`](hg/2005/1181/) | in force | 1 | 2005-10-07 | 2005-10-07 |
+| Hotărârea Guvernului nr. 1182/2005 privind aprobarea stemei oraşului Târgu Frumos, judeţul Iaşi | [`hg/2005/1182/`](hg/2005/1182/) | amending act | 1 | 2005-10-10 | 2005-10-10 |
+| Hotărârea Guvernului nr. 1183/2005 privind aprobarea stemelor unor comune din judeţul Covasna | [`hg/2005/1183/`](hg/2005/1183/) | amending act | 1 | 2005-10-10 | 2005-10-10 |
+| Hotărârea Guvernului nr. 1184/2005 privind aprobarea stemelor unor comune din judeţul Prahova | [`hg/2005/1184/`](hg/2005/1184/) | amending act | 1 | 2005-10-10 | 2005-10-10 |
+| Hotărârea Guvernului nr. 1185/2005 privind aprobarea stemei comunei Lupac, judeţul Caraş-Severin | [`hg/2005/1185/`](hg/2005/1185/) | amending act | 1 | 2005-10-10 | 2005-10-10 |
+| Hotărârea Guvernului nr. 1186/2005 privind aprobarea stemei comunei Ţigănaşi, judeţul Iaşi | [`hg/2005/1186/`](hg/2005/1186/) | amending act | 1 | 2005-10-10 | 2005-10-10 |
+| Hotărârea Guvernului nr. 1187/2005 privind suplimentarea bugetului Ministerului Apărării Naţionale pe anul 2005 din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat | [`hg/2005/1187/`](hg/2005/1187/) | in force | 1 | 2005-10-06 | 2005-10-06 |
+| Hotărârea Guvernului nr. 1188/2005 pentru aprobarea efectuării concedierilor colective în baza prevederilor Ordonanţei de urgenţă a Guvernului nr. 8/2003 privind stimularea procesului de restructurare, reorganizare şi privatizare a unor societăţi naţionale, companii naţionale şi societăţi comerciale cu capital majoritar de stat, precum şi a societăţilor comerciale şi regiilor autonome subordonate autorităţilor administraţiei publice locale, de către Societatea Comercială "Nicolina" - S.A. Iaşi | [`hg/2005/1188/`](hg/2005/1188/) | amending act | 1 | 2005-10-07 | 2005-10-07 |
+| Hotărârea Guvernului nr. 1189/2005 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru judeţul Brăila | [`hg/2005/1189/`](hg/2005/1189/) | in force | 1 | 2005-10-10 | 2005-10-10 |
+| Hotărârea Guvernului nr. 1190/2005 privind acordarea unor despăgubiri | [`hg/2005/1190/`](hg/2005/1190/) | in force | 1 | 2005-10-10 | 2005-10-10 |
+| Hotărârea Guvernului nr. 1192/2005 privind aprobarea bugetului de venituri şi cheltuieli rectificat pe anul 2005 al Companiei Naţionale a Imprimeriilor "Coresi" - S.A., aflată sub autoritatea Ministerului Culturii şi Cultelor | [`hg/2005/1192/`](hg/2005/1192/) | amending act | 1 | 2005-10-17 | 2005-10-17 |
+| Hotărârea Guvernului nr. 1194/2005 privind transmiterea unui imobil din domeniul public al statului şi din administrarea Ministerului Apărării Naţionale în domeniul public al judeţului Maramureş şi în administrarea Consiliului Judeţean Maramureş, pentru Regia Autonomă "Aeroportul" Baia Mare | [`hg/2005/1194/`](hg/2005/1194/) | in force | 1 | 2005-10-12 | 2005-10-12 |
+| Hotărârea Guvernului nr. 1195/2005 privind donarea unor bunuri, aparţinând domeniului privat al statului, pentru Muzeul Naţional Tehnic din Kosice - Republica Slovacă | [`hg/2005/1195/`](hg/2005/1195/) | in force | 1 | 2005-10-12 | 2005-10-12 |
 | Hotărârea Guvernului nr. 1196/2005 privind transmiterea unei părţi din imobilul Casa Agronomului Cluj, proprietate publică a statului, din administrarea Agenţiei Naţionale de Consultanţă Agricolă în administrarea Direcţiei pentru Agricultură şi Dezvoltare Rurală Cluj | [`hg/2005/1196/`](hg/2005/1196/) | in force | 1 | 2005-10-12 | 2005-10-12 |
 | Hotărârea Guvernului nr. 1197/2005 privind transmiterea, fără plată, a Bazei Sportive "Voinicelul" - construcţii şi teren - din domeniul public al statului şi din administrarea Ministerului Educaţiei şi Cercetării - Clubul Copiilor din sectorul 3 în domeniul public al sectorului 3 al municipiului Bucureşti şi în administrarea Consiliului Local al Sectorului 3, pentru Grupul Şcolar Industrial "Nicolae Teclu" | [`hg/2005/1197/`](hg/2005/1197/) | in force | 1 | 2005-10-17 | 2005-10-17 |
 | Hotărârea Guvernului nr. 1198/2005 privind trecerea unor construcţii aflate în administrarea Ministerului Administraţiei şi Internelor din domeniul public al statului în domeniul privat al statului | [`hg/2005/1198/`](hg/2005/1198/) | in force | 1 | 2005-10-12 | 2005-10-12 |
