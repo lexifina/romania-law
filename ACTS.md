@@ -1,6 +1,6 @@
 # Every act in this repository
 
-23747 acts, 37,380 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+23768 acts, 37,401 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (3623, of which 2087 amending acts)
+## Laws (legi) (3630, of which 2094 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -678,9 +678,16 @@
 | Legea nr. 351/2006 | [`lege/2006/351/`](lege/2006/351/) | in force | 1 | 2006-08-25 | 2006-08-25 |
 | Legea nr. 363/2006 privind aprobarea Planului de amenajare a teritoriului național - Secțiunea I - Rețele de transport | [`lege/2006/363/`](lege/2006/363/) | amending act | 2 | 2006-09-29 | 2019-06-01 |
 | Legea nr. 369/2006 | [`lege/2006/369/`](lege/2006/369/) | in force | 1 | 2006-10-19 | 2006-10-19 |
+| Legea nr. 370/2006 pentru modificarea art. 17 alin. (1) din Ordonanţa Guvernului nr. 34/2002 privind accesul la reţelele publice de comunicaţii electronice şi la infrastructura asociată, precum şi interconectarea acestora | [`lege/2006/370/`](lege/2006/370/) | amending act | 1 | 2006-10-14 | 2006-10-14 |
 | Legea nr. 371/2006 | [`lege/2006/371/`](lege/2006/371/) | in force | 1 | 2006-10-14 | 2006-10-14 |
+| Legea nr. 372/2006 pentru modificarea şi completarea Ordonanţei Guvernului nr. 80/2001 privind stabilirea unor normative de cheltuieli pentru autorităţile administraţiei publice şi instituţiile publice | [`lege/2006/372/`](lege/2006/372/) | amending act | 1 | 2006-10-16 | 2006-10-16 |
 | Legea nr. 374/2006 | [`lege/2006/374/`](lege/2006/374/) | in force | 2 | 2006-10-16 | 2018-11-12 |
+| Legea nr. 375/2006 privind respingerea Ordonanţei de urgenţă a Guvernului nr. 11/2005 pentru abrogarea alin. (2) al art. 38 din Ordonanţa de urgenţă a Guvernului nr. 79/2002 privind cadrul general de reglementare a comunicaţiilor | [`lege/2006/375/`](lege/2006/375/) | amending act | 1 | 2006-10-14 | 2006-10-14 |
+| Legea nr. 378/2006 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 37/2006 privind autorizarea Agenţiei de Compensare pentru Achiziţii de Tehnică Specială de a încheia Acordul de compensare cu firma EUROCOPTER Deutschland GmbH, potrivit obligaţiei de compensare asumate de această firmă în cadrul contractului de achiziţie încheiat cu Ministerul Administraţiei şi Internelor prin Societatea Comercială "COMICEX" - S.A | [`lege/2006/378/`](lege/2006/378/) | amending act | 1 | 2006-10-14 | 2006-10-14 |
 | Legea nr. 380/2006 | [`lege/2006/380/`](lege/2006/380/) | in force | 1 | 2006-10-16 | 2006-10-16 |
+| Legea nr. 381/2006 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 36/2006 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 189/2002 privind operaţiunile compensatorii referitoare la contractele de achiziţii pentru nevoi de apărare, ordine publică şi siguranţă naţională | [`lege/2006/381/`](lege/2006/381/) | amending act | 1 | 2006-10-16 | 2006-10-16 |
+| Legea nr. 382/2006 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 48/2003 privind unele măsuri în vederea întăririi disciplinei financiare şi a creşterii eficienţei utilizării fondurilor în sistemul sanitar, precum şi modificarea unor acte normative | [`lege/2006/382/`](lege/2006/382/) | amending act | 1 | 2006-10-16 | 2006-10-16 |
+| Legea nr. 383/2006 pentru aprobarea Ordonanţei Guvernului nr. 33/2006 privind unele măsuri pentru finalizarea privatizării Băncii Comerciale Române - S.A | [`lege/2006/383/`](lege/2006/383/) | amending act | 1 | 2006-10-12 | 2006-10-12 |
 | Legea nr. 384/2006 | [`lege/2006/384/`](lege/2006/384/) | in force | 14 | 2006-12-23 | 2024-03-24 |
 | Legea nr. 385/2006 pentru aprobarea plăţii unor contribuţii voluntare anuale din partea României la bugetele Comitetului Internaţional al Crucii Roşii, Înaltului Comisariat al Naţiunilor Unite pentru Refugiaţi şi Oficiului Înaltului Comisar al Naţiunilor Unite pentru Drepturile Omului | [`lege/2006/385/`](lege/2006/385/) | amending act | 1 | 2006-10-28 | 2006-10-28 |
 | Legea nr. 386/2006 pentru aprobarea prelungirii participării Guvernului României, pentru perioada 2006-2010, la Acordul dintre Comisia Economică pentru Europa a Naţiunilor Unite (C.E.E./O.N.U.) şi guvernele participante la proiectul "Calea Ferată Trans-Europeană (TER)" privind fondul de cooperare şi creditare, semnat la Geneva la 17 decembrie 1992 | [`lege/2006/386/`](lege/2006/386/) | amending act | 1 | 2006-10-28 | 2006-10-28 |
@@ -5930,7 +5937,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (17826, of which 9219 amending acts)
+## Government decisions (HG) (17840, of which 9220 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -6621,7 +6628,21 @@
 | Hotărârea Guvernului nr. 1361/2006 | [`hg/2006/1361/`](hg/2006/1361/) | in force | 1 | 2007-01-01 | 2007-01-01 |
 | Hotărârea Guvernului nr. 1364/2006 | [`hg/2006/1364/`](hg/2006/1364/) | in force | 1 | 2006-10-05 | 2006-10-05 |
 | Hotărârea Guvernului nr. 1375/2006 | [`hg/2006/1375/`](hg/2006/1375/) | in force | 1 | 2006-10-17 | 2006-10-17 |
+| Hotărârea Guvernului nr. 1383/2006 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2006, pentru judeţul Tulcea | [`hg/2006/1383/`](hg/2006/1383/) | in force | 1 | 2006-10-09 | 2006-10-09 |
+| Hotărârea Guvernului nr. 1384/2006 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2006, pentru judeţul Vâlcea | [`hg/2006/1384/`](hg/2006/1384/) | in force | 1 | 2006-10-09 | 2006-10-09 |
+| Hotărârea Guvernului nr. 1385/2006 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2006, pentru judeţul Cluj | [`hg/2006/1385/`](hg/2006/1385/) | in force | 1 | 2006-10-09 | 2006-10-09 |
+| Hotărârea Guvernului nr. 1386/2006 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2006, pentru judeţul Alba | [`hg/2006/1386/`](hg/2006/1386/) | in force | 1 | 2006-10-09 | 2006-10-09 |
+| Hotărârea Guvernului nr. 1387/2006 privind alocarea unei sume din Fondul de intervenţie la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2006, pentru înlăturarea unor efecte ale calamităţilor naturale produse în judeţul Braşov | [`hg/2006/1387/`](hg/2006/1387/) | in force | 1 | 2006-10-09 | 2006-10-09 |
+| Hotărârea Guvernului nr. 1388/2006 privind trecerea din domeniul public al statului în domeniul privat al acestuia a unor construcţii aflate în administrarea Serviciului Român de Informaţii | [`hg/2006/1388/`](hg/2006/1388/) | in force | 1 | 2006-10-12 | 2006-10-12 |
+| Hotărârea Guvernului nr. 1389/2006 pentru trecerea din domeniul public al statului în domeniul privat al acestuia a unor construcţii aflate în administrarea Ministerului Apărării | [`hg/2006/1389/`](hg/2006/1389/) | in force | 1 | 2006-10-13 | 2006-10-13 |
+| Hotărârea Guvernului nr. 1390/2006 privind transmiterea unui imobil din domeniul public al statului şi din administrarea Ministerului Apărării în domeniul public al comunei Băiculeşti şi în administrarea Consiliului Local al Comunei Băiculeşti, judeţul Argeş | [`hg/2006/1390/`](hg/2006/1390/) | in force | 1 | 2006-10-16 | 2006-10-16 |
 | Hotărârea Guvernului nr. 1391/2006 | [`hg/2006/1391/`](hg/2006/1391/) | in force | 4 | 2006-12-01 | 2023-02-17 |
+| Hotărârea Guvernului nr. 1392/2006 pentru modificarea şi completarea Hotărârii Guvernului nr. 625/1998 privind organizarea şi funcţionarea Autorităţii Rutiere Române - A.R.R | [`hg/2006/1392/`](hg/2006/1392/) | amending act | 1 | 2006-10-18 | 2006-10-18 |
+| Hotărârea Guvernului nr. 1394/2006 privind acordarea unui ajutor Guvernului Republicii Bulgaria în vederea eliminării efectelor fenomenului de poluare accidentală a fluviului Dunărea din luna octombrie 2006 | [`hg/2006/1394/`](hg/2006/1394/) | in force | 1 | 2006-10-16 | 2006-10-16 |
+| Hotărârea Guvernului nr. 1395/2006 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2006, pentru judeţul Tulcea | [`hg/2006/1395/`](hg/2006/1395/) | in force | 1 | 2006-10-16 | 2006-10-16 |
+| Hotărârea Guvernului nr. 1396/2006 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2006, pentru judeţul Ialomiţa | [`hg/2006/1396/`](hg/2006/1396/) | in force | 1 | 2006-10-16 | 2006-10-16 |
+| Hotărârea Guvernului nr. 1400/2006 privind acordarea unor premii pentru obţinerea de către echipa naţională de polo a României a locului IV la Campionatul European de Polo Masculin, Serbia 2006 | [`hg/2006/1400/`](hg/2006/1400/) | in force | 1 | 2006-10-13 | 2006-10-13 |
+| Hotărârea Guvernului nr. 1401/2006 privind suplimentarea bugetelor Ministerului Afacerilor Externe şi Ministerului Culturii şi Cultelor, din Fondul de rezervă bugetară la dispoziţia Guvernului pe anul 2006, pentru finanţarea cheltuielilor aferente acţiunilor de diplomaţie culturală care se vor desfăşura cu ocazia Zilei naţionale a României în anul 2006 | [`hg/2006/1401/`](hg/2006/1401/) | in force | 1 | 2006-10-13 | 2006-10-13 |
 | Hotărârea Guvernului nr. 1403/2006 pentru modificarea Hotărârii Guvernului nr. 1.718/2005 privind autorizarea Ministerului Administraţiei şi Internelor pentru încheierea unor contracte comerciale de achiziţii publice şi a Ministerului Finanţelor Publice de a contracta credite externe pentru realizarea unor programe de achiziţii, precum şi a Hotărârii Guvernului nr. 302/2006 privind autorizarea Ministerului Administraţiei şi Internelor pentru încheierea unor contracte de achiziţii publice şi a Ministerului Finanţelor Publice de a contracta credite externe pentru realizarea unor programe de achiziţii | [`hg/2006/1403/`](hg/2006/1403/) | amending act | 1 | 2006-10-16 | 2006-10-16 |
 | Hotărârea Guvernului nr. 1406/2006 privind suplimentarea bugetului Serviciului de Telecomunicaţii Speciale din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2006 | [`hg/2006/1406/`](hg/2006/1406/) | in force | 1 | 2006-10-18 | 2006-10-18 |
 | Hotărârea Guvernului nr. 1407/2006 privind înfiinţarea unui post de ofiţer de legătură între Ministerul Apărării şi Agenţia NATO pentru Întreţinere şi Aprovizionare (NAMSA) | [`hg/2006/1407/`](hg/2006/1407/) | in force | 1 | 2006-10-18 | 2006-10-18 |
