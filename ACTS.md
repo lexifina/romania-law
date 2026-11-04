@@ -1,6 +1,6 @@
 # Every act in this repository
 
-20919 acts, 34,552 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+20925 acts, 34,558 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -5603,7 +5603,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (15325, of which 7825 amending acts)
+## Government decisions (HG) (15331, of which 7831 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -8831,7 +8831,13 @@
 | Hotărârea Guvernului nr. 1040/2011 | [`hg/2011/1040/`](hg/2011/1040/) | in force | 2 | 2011-11-08 | 2012-06-22 |
 | Hotărârea Guvernului nr. 1048/2011 pentru aprobarea Acordului privind cooperarea în domeniul sănătăţii şi al ştiinţei medicale dintre Ministerul Sănătăţii al României şi Ministerul Sănătăţii al Republicii Azerbaidjan, semnat la Baku la 18 aprilie 2011 | [`hg/2011/1048/`](hg/2011/1048/) | amending act | 1 | 2011-11-21 | 2011-11-21 |
 | Hotărârea Guvernului nr. 1088/2011 privind organizarea și funcționarea Inspectoratului de Stat pentru Controlul în Transportul Rutier | [`hg/2011/1088/`](hg/2011/1088/) | in force | 2 | 2011-11-03 | 2022-08-13 |
+| Hotărârea Guvernului nr. 1091/2011 privind transmiterea unei părţi dintr-un imobil din domeniul public al statului şi din administrarea Ministerului Apărării Naţionale în domeniul public al municipiului Bucureşti şi în administrarea Consiliului General al Municipiului Bucureşti, pentru actualizarea valorii de inventar a bunului imobil şi pentru actualizarea anexei nr. 4 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului | [`hg/2011/1091/`](hg/2011/1091/) | amending act | 1 | 2011-11-16 | 2011-11-16 |
+| Hotărârea Guvernului nr. 1092/2011 pentru aprobarea bugetului de venituri şi cheltuieli rectificat pe anul 2011 al Regiei Autonome Compania Română de Aviaţie "ROMAVIA" | [`hg/2011/1092/`](hg/2011/1092/) | amending act | 1 | 2011-11-11 | 2011-11-11 |
 | Hotărârea Guvernului nr. 1094/2011 | [`hg/2011/1094/`](hg/2011/1094/) | in force | 1 | 2011-12-16 | 2011-12-16 |
+| Hotărârea Guvernului nr. 1096/2011 pentru modificarea şi completarea unor anexe la Hotărârea Guvernului nr. 1.352/2001 privind atestarea domeniului public al judeţului Hunedoara, precum şi al municipiilor, oraşelor şi comunelor din judeţul Hunedoara | [`hg/2011/1096/`](hg/2011/1096/) | amending act | 1 | 2011-11-16 | 2011-11-16 |
+| Hotărârea Guvernului nr. 1097/2011 pentru modificarea şi completarea unor anexe la Hotărârea Guvernului nr. 977/2002 privind atestarea domeniului public al judeţului Timiş, precum şi al municipiilor, oraşelor şi comunelor din judeţul Timiş | [`hg/2011/1097/`](hg/2011/1097/) | amending act | 1 | 2011-11-16 | 2011-11-16 |
+| Hotărârea Guvernului nr. 1099/2011 privind aprobarea transferului managementului asistenţei medicale al Spitalului de Pneumoftiziologie Câmpulung de la Consiliul Judeţean Argeş la Consiliul Local al Municipiului Câmpulung | [`hg/2011/1099/`](hg/2011/1099/) | amending act | 1 | 2011-11-11 | 2011-11-11 |
+| Hotărârea Guvernului nr. 1101/2011 privind aprobarea plăţii contribuţiei României la Organizaţia pentru Cooperare şi Dezvoltare Economică - Grupul de lucru pentru întreprinderi mici şi mijlocii şi antreprenoriat, pentru anul 2011 | [`hg/2011/1101/`](hg/2011/1101/) | amending act | 1 | 2011-11-14 | 2011-11-14 |
 | Hotărârea Guvernului nr. 1102/2011 pentru modificarea Programului de protecţie şi gestiune a monumentelor istorice înscrise în Lista patrimoniului mondial UNESCO, aprobat prin Hotărârea Guvernului nr. 1.268/2010 | [`hg/2011/1102/`](hg/2011/1102/) | amending act | 1 | 2011-11-14 | 2011-11-14 |
 | Hotărârea Guvernului nr. 1103/2011 privind aprobarea Acordului petrolier de concesiune pentru explorare-dezvoltare-exploatare în perimetrul EX-12 Crai Nou, încheiat între Agenţia Naţională pentru Resurse Minerale şi Moesia Oil and Gas Plc | [`hg/2011/1103/`](hg/2011/1103/) | amending act | 1 | 2011-11-14 | 2011-11-14 |
 | Hotărârea Guvernului nr. 1104/2011 pentru aprobarea bugetului propriu de venituri şi cheltuieli al Ministerului Transporturilor şi Infrastructurii privind activitatea de privatizare, rectificat, pe anul 2011 | [`hg/2011/1104/`](hg/2011/1104/) | amending act | 1 | 2011-11-09 | 2011-11-09 |
