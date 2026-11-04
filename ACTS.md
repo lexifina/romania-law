@@ -1,6 +1,6 @@
 # Every act in this repository
 
-34984 acts, 48,632 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+35024 acts, 48,672 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (7596, of which 2638 amending acts)
+## Laws (legi) (7602, of which 2640 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -1351,9 +1351,15 @@
 | Legea nr. 670/2002 privind aprobarea Ordonanţei Guvernului nr. 64/2002 pentru modificarea şi completarea Ordonanţei de urgenta a Guvernului nr. 214/1999 privind acordarea calităţii de luptător în rezistenta anticomunista persoanelor condamnate pentru infracţiuni săvârşite din motive politice, persoanelor împotriva cărora au fost dispuse, din motive politice, măsuri administrative abuzive, precum şi persoanelor care au participat la acţiuni de împotrivire cu arme şi de răsturnare prin forţa a regimului comunist instaurat în România | [`lege/2002/670/`](lege/2002/670/) | amended, not consolidated | 1 | 2002-12-20 | 2002-12-20 |
 | Legea nr. 672/2002 | [`lege/2002/672/`](lege/2002/672/) | in force | 14 | 2002-12-24 | 2026-02-25 |
 | Legea nr. 673/2002 privind aprobarea Ordonanţei Guvernului nr. 35/2002 pentru aprobarea Regulamentului-cadru de organizare şi funcţionare a consiliilor locale | [`lege/2002/673/`](lege/2002/673/) | amended, not consolidated | 1 | 2002-12-24 | 2002-12-24 |
+| Legea nr. 674/2002 privind declararea ca oraş a comunei Ghimbav, judeţul Braşov | [`lege/2002/674/`](lege/2002/674/) | in force | 1 | 2002-12-23 | 2002-12-23 |
+| Legea nr. 675/2002 pentru înfiinţarea comunei Bărăganu, judeţul Constanţa, prin reorganizarea comunei Mereni | [`lege/2002/675/`](lege/2002/675/) | in force | 1 | 2003-02-01 | 2003-02-01 |
+| Legea nr. 676/2002 pentru înfiinţarea comunei Titeşti, judeţul Valcea, prin reorganizarea comunei Perişani | [`lege/2002/676/`](lege/2002/676/) | in force | 1 | 2002-12-23 | 2002-12-23 |
+| Legea nr. 679/2002 privind constituirea dreptului de proprietate privată asupra terenurilor situate în intravilanul localităţilor în Delta Dunării | [`lege/2002/679/`](lege/2002/679/) | in force | 1 | 2002-12-24 | 2002-12-24 |
 | Legea nr. 680/2002 privind abilitarea Guvernului de a emite ordonanţe | [`lege/2002/680/`](lege/2002/680/) | amended, not consolidated | 1 | 2002-12-23 | 2002-12-23 |
 | Legea nr. 681/2002 privind acceptarea de către România a amendamentelor la Codul internaţional de management pentru exploatarea în siguranţa a navelor şi pentru prevenirea poluării (Codul internaţional de management al siguranţei - Codul I.S.M.), adoptate de către Organizaţia Maritima Internaţionala prin Rezoluţia M.S.C. 104 (73) din 5 decembrie 2000, şi pentru modificarea Legii nr. 85/1997 privind acceptarea de către România a Codului internaţional de management pentru exploatarea în siguranţa a navelor şi pentru prevenirea poluării (Codul internaţional de management al siguranţei - Codul I.S.M.), adoptat de către Organizaţia Maritima Internaţionala prin Rezoluţia A 741 (18) din 4 noiembrie 1993 | [`lege/2002/681/`](lege/2002/681/) | amended, not consolidated | 1 | 2002-12-28 | 2002-12-28 |
 | Legea nr. 682/2002 | [`lege/2002/682/`](lege/2002/682/) | in force | 5 | 2003-01-27 | 2023-07-09 |
+| Legea nr. 683/2002 pentru completarea Legii nr. 123/2001 privind regimul străinilor în România | [`lege/2002/683/`](lege/2002/683/) | amending act | 1 | 2002-12-24 | 2002-12-24 |
+| Legea nr. 4/2003 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 124/2002 pentru modificarea şi completarea Legii nr. 76/2002 privind sistemul asigurărilor pentru şomaj şi stimularea ocupării forţei de muncă | [`lege/2003/4/`](lege/2003/4/) | amending act | 1 | 2003-01-20 | 2003-01-20 |
 | Legea nr. 5/2003 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 142/2002 pentru modificarea şi completarea Ordonanţei Guvernului nr. 5/2001 privind procedura somaţiei de plată | [`lege/2003/5/`](lege/2003/5/) | amended, not consolidated | 1 | 2003-01-20 | 2003-01-20 |
 | Legea nr. 6/2003 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 127/2002 privind unele măsuri de accelerare a acţiunii de eliberare a titlurilor de proprietate asupra terenurilor agricole şi forestiere | [`lege/2003/6/`](lege/2003/6/) | amended, not consolidated | 1 | 2003-01-20 | 2003-01-20 |
 | Legea nr. 8/2003 privind Ordinul Meritul Cultural și Medalia Meritul Cultural | [`lege/2003/8/`](lege/2003/8/) | in force | 2 | 2003-02-06 | 2004-01-11 |
@@ -10095,7 +10101,7 @@
 | Ordonanța de urgență a Guvernului nr. 37/2026 pentru modificarea şi completarea Legii nr. 333/2003 privind paza obiectivelor, bunurilor, valorilor şi protecţia persoanelor | [`oug/2026/37/`](oug/2026/37/) | amending act | 2 | 2026-05-06 | 2026-06-05 |
 | Ordonanța de urgență a Guvernului nr. 39/2026 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 58/2023 privind unele măsuri pentru acordarea unei prime de carieră didactică pentru personalul didactic şi didactic auxiliar, precum şi unei prime de carieră profesională pentru personalul administrativ din învăţământul de stat, suportate din fonduri externe nerambursabile, precum şi pentru instituirea unor reglementări în vederea gestionării Programului Educaţie şi Ocupare 2021-2027 | [`oug/2026/39/`](oug/2026/39/) | amended, not consolidated | 1 | 2026-05-06 | 2026-05-06 |
 
-## Ordinances (OG) (947, of which 115 amending acts)
+## Ordinances (OG) (948, of which 115 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -10479,6 +10485,7 @@
 | Ordonanța Guvernului nr. 71/2002 | [`og/2002/71/`](og/2002/71/) | in force | 6 | 2002-09-30 | 2023-12-11 |
 | Ordonanța Guvernului nr. 72/2002 privind unele măsuri pentru finalizarea procesului de privatizare a Societăţii Comerciale "Şantierul Naval" - S.A. Constanţa | [`og/2002/72/`](og/2002/72/) | amended, not consolidated | 1 | 2002-08-31 | 2002-08-31 |
 | Ordonanța Guvernului nr. 73/2002 | [`og/2002/73/`](og/2002/73/) | in force | 3 | 2002-11-29 | 2004-04-29 |
+| Ordonanța Guvernului nr. 4/2003 privind finanţarea unui obiectiv de investiţii situat în municipiul Paşcani, judeţul Iaşi | [`og/2003/4/`](og/2003/4/) | in force | 1 | 2003-01-27 | 2003-01-27 |
 | Ordonanța Guvernului nr. 5/2003 | [`og/2003/5/`](og/2003/5/) | in force | 2 | 2003-01-30 | 2003-05-29 |
 | Ordonanța Guvernului nr. 7/2003 | [`og/2003/7/`](og/2003/7/) | in force | 5 | 2003-02-01 | 2009-12-11 |
 | Ordonanța Guvernului nr. 11/2003 | [`og/2003/11/`](og/2003/11/) | in force | 9 | 2003-02-01 | 2021-04-01 |
@@ -11047,7 +11054,7 @@
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 5/2026 pentru modificarea şi completarea Ordonanţei Guvernului nr. 27/2011 privind transporturile rutiere şi pentru completarea Ordonanţei de urgenţă a Guvernului nr. 28/1999 privind obligaţia operatorilor economici de a utiliza aparate de marcat electronice fiscale | [`og/2026/5/`](og/2026/5/) | amended, not consolidated | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (23946, of which 11656 amending acts)
+## Government decisions (HG) (23979, of which 11678 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -11891,14 +11898,47 @@
 | Hotărârea Guvernului nr. 1489/2002 | [`hg/2002/1489/`](hg/2002/1489/) | in force | 5 | 2002-12-27 | 2008-05-04 |
 | Hotărârea Guvernului nr. 1515/2002 | [`hg/2002/1515/`](hg/2002/1515/) | in force | 2 | 2003-01-01 | 2017-05-04 |
 | Hotărârea Guvernului nr. 1524/2002 | [`hg/2002/1524/`](hg/2002/1524/) | in force | 1 | 2003-01-09 | 2003-01-09 |
+| Hotărârea Guvernului nr. 1534/2002 privind aprobarea stemei oraşului Cernavodă, judeţul Constanţa | [`hg/2002/1534/`](hg/2002/1534/) | amending act | 1 | 2003-01-22 | 2003-01-22 |
+| Hotărârea Guvernului nr. 1536/2002 privind aprobarea stemei municipiului Motru, judeţul Gorj | [`hg/2002/1536/`](hg/2002/1536/) | amending act | 1 | 2003-01-24 | 2003-01-24 |
+| Hotărârea Guvernului nr. 1537/2002 privind aprobarea stemei municipiului Olteniţa, judeţul Călăraşi | [`hg/2002/1537/`](hg/2002/1537/) | amending act | 1 | 2003-01-22 | 2003-01-22 |
+| Hotărârea Guvernului nr. 1538/2002 privind aprobarea stemei municipiului Alexandria, judeţul Teleorman | [`hg/2002/1538/`](hg/2002/1538/) | amending act | 1 | 2003-01-22 | 2003-01-22 |
+| Hotărârea Guvernului nr. 1539/2002 privind aprobarea stemei municipiului Brad, judeţul Hunedoara | [`hg/2002/1539/`](hg/2002/1539/) | amending act | 1 | 2003-01-23 | 2003-01-23 |
+| Hotărârea Guvernului nr. 1540/2002 privind aprobarea stemei municipiului Târgu Jiu, judeţul Gorj | [`hg/2002/1540/`](hg/2002/1540/) | amending act | 1 | 2003-01-21 | 2003-01-21 |
+| Hotărârea Guvernului nr. 1541/2002 privind aprobarea stemei municipiului Sibiu, judeţul Sibiu | [`hg/2002/1541/`](hg/2002/1541/) | amending act | 1 | 2003-01-21 | 2003-01-21 |
+| Hotărârea Guvernului nr. 1542/2002 privind aprobarea stemei oraşului Hârşova, judeţul Constanţa | [`hg/2002/1542/`](hg/2002/1542/) | amending act | 1 | 2003-01-23 | 2003-01-23 |
+| Hotărârea Guvernului nr. 1544/2002 privind aprobarea stemei municipiului Brăila, judeţul Brăila | [`hg/2002/1544/`](hg/2002/1544/) | amending act | 1 | 2003-01-23 | 2003-01-23 |
+| Hotărârea Guvernului nr. 1547/2002 privind aprobarea bugetului de venituri şi cheltuieli pe anul 2003 al Regiei Autonome "Multiproduct" | [`hg/2002/1547/`](hg/2002/1547/) | amending act | 1 | 2003-01-10 | 2003-01-10 |
+| Hotărârea Guvernului nr. 1548/2002 privind aprobarea Programului cercetărilor statistice în anul 2003 | [`hg/2002/1548/`](hg/2002/1548/) | amending act | 1 | 2003-01-20 | 2003-01-20 |
+| Hotărârea Guvernului nr. 1550/2002 privind transmiterea cu titlu gratuit a unei conducte din cadrul unei investiţii sistate la Centrala Termoelectrica Anina, judeţul Caraş-Severin, din patrimoniul Societăţii Comerciale de Producere a Energiei Electrice şi Termice "Termoelectrica" - S.A. în domeniul public al oraşului Oraviţa şi în administrarea Consiliului Local al Oraşului Oraviţa, judeţul Caraş-Severin | [`hg/2002/1550/`](hg/2002/1550/) | in force | 1 | 2003-01-10 | 2003-01-10 |
+| Hotărârea Guvernului nr. 1554/2002 pentru aprobarea bugetului propriu de venituri şi cheltuieli al Ministerului Lucrărilor Publice, Transporturilor şi Locuinţei privind activitatea de privatizare pe anul 2003 | [`hg/2002/1554/`](hg/2002/1554/) | amending act | 1 | 2003-01-20 | 2003-01-20 |
+| Hotărârea Guvernului nr. 1560/2002 privind aprobarea bugetelor de venituri şi cheltuieli pe anul 2003 ale agenţilor economici care funcţionează sub autoritatea Ministerului Lucrărilor Publice, Transporturilor şi Locuinţei | [`hg/2002/1560/`](hg/2002/1560/) | amending act | 1 | 2003-01-10 | 2003-01-10 |
+| Hotărârea Guvernului nr. 1562/2002 privind aprobarea bugetului de venituri şi cheltuieli pe anul 2003 al Regiei Autonome "Rami-Dacia" din subordinea Ministerului de Interne | [`hg/2002/1562/`](hg/2002/1562/) | amending act | 1 | 2003-01-14 | 2003-01-14 |
+| Hotărârea Guvernului nr. 1563/2002 privind înfiinţarea pe lângă Centrul Naţional al Cinematografiei a unei activităţi finanţate integral din venituri proprii | [`hg/2002/1563/`](hg/2002/1563/) | in force | 1 | 2003-01-14 | 2003-01-14 |
+| Hotărârea Guvernului nr. 1565/2002 privind alocarea unor sume din Fondul de rezerva bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2003, pentru echilibrarea bugetelor locale din judeţul Covasna pe anul 2003 | [`hg/2002/1565/`](hg/2002/1565/) | in force | 1 | 2003-01-20 | 2003-01-20 |
+| Hotărârea Guvernului nr. 1566/2002 privind alocarea unor sume din Fondul de rezerva bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2003, Consiliului Judeţean Bihor şi consiliilor locale din judeţul Bihor | [`hg/2002/1566/`](hg/2002/1566/) | in force | 1 | 2003-01-20 | 2003-01-20 |
+| Hotărârea Guvernului nr. 1567/2002 privind alocarea unei sume din Fondul de rezerva bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2003, Consiliului Judeţean Sălaj pentru finanţarea proiectului "Conducta de transport gaze naturale de presiune înalta Zalău-Şimleu Silvaniei, judeţul Sălaj" | [`hg/2002/1567/`](hg/2002/1567/) | in force | 1 | 2003-01-20 | 2003-01-20 |
+| Hotărârea Guvernului nr. 1568/2002 pentru modificarea anexei nr. 1 la Hotărârea Guvernului nr. 844/1991 privind înfiinţarea Comitetului Interministerial de Garanţii şi Credite de Comerţ Exterior | [`hg/2002/1568/`](hg/2002/1568/) | amending act | 1 | 2003-01-20 | 2003-01-20 |
+| Hotărârea Guvernului nr. 1569/2002 pentru aprobarea Normelor privind limitele legale de perisabilitate la mărfuri în procesul de comercializare | [`hg/2002/1569/`](hg/2002/1569/) | amending act | 1 | 2003-01-20 | 2003-01-20 |
+| Hotărârea Guvernului nr. 1572/2002 pentru aprobarea Acordului dintre Ministerul Apărării Naţionale din România şi Ministerul Apărării din Republica Ungara privind cooperarea între forţele aeriene, semnat la Arad la 17 octombrie 2002 | [`hg/2002/1572/`](hg/2002/1572/) | amending act | 1 | 2003-01-21 | 2003-01-21 |
+| Hotărârea Guvernului nr. 1573/2002 pentru aprobarea Acordului dintre Ministerul Apărării Naţionale din România şi Ministerul Federal al Economiei şi Muncii din Republica Austria privind cooperarea în domeniul infrastructurii medico-sanitare militare, semnat la Bucureşti la 25 iunie 2002 şi la Viena la 14 octombrie 2002 | [`hg/2002/1573/`](hg/2002/1573/) | amending act | 1 | 2003-01-21 | 2003-01-21 |
+| Hotărârea Guvernului nr. 1577/2002 pentru aprobarea bugetelor de venituri şi cheltuieli pe anul 2003 ale Companiei Naţionale "Poşta Română" - S.A. şi Societăţii Naţionale de Radiocomunicaţii - S.A., la care Ministerul Comunicaţiilor şi Tehnologiei Informaţiei îndeplineşte atribuţiile pe care statul român le are în calitate de acţionar | [`hg/2002/1577/`](hg/2002/1577/) | amending act | 1 | 2003-01-21 | 2003-01-21 |
 | Hotărârea Guvernului nr. 1578/2002 privind condiţiile în baza cărora poliţistul are dreptul la concedii de odihnă, concedii de studii şi învoiri plătite, concedii fără plata, bilete de odihnă, tratament şi recuperare | [`hg/2002/1578/`](hg/2002/1578/) | in force | 2 | 2003-01-20 | 2006-03-09 |
+| Hotărârea Guvernului nr. 1582/2002 privind aprobarea bugetului de venituri şi cheltuieli pe anul 2003 al Companiei Naţionale "Institutul Naţional de Meteorologie, Hidrologie şi Gospodărire a Apelor" - S.A., aflată sub autoritatea Ministerului Apelor şi Protecţiei Mediului | [`hg/2002/1582/`](hg/2002/1582/) | amending act | 1 | 2003-01-20 | 2003-01-20 |
+| Hotărârea Guvernului nr. 1586/2002 privind transmiterea unui imobil din domeniul public al statului şi din administrarea Ministerului de Interne în domeniul privat al oraşului Cugir şi în administrarea Consiliului Local al Oraşului Cugir, judeţul Alba | [`hg/2002/1586/`](hg/2002/1586/) | in force | 1 | 2003-01-20 | 2003-01-20 |
 | Hotărârea Guvernului nr. 1593/2002 | [`hg/2002/1593/`](hg/2002/1593/) | in force | 2 | 2003-05-15 | 2006-07-25 |
+| Hotărârea Guvernului nr. 1595/2002 pentru modificarea şi completarea Hotărârii Guvernului nr. 523/1997 privind asigurarea pazei obiectivelor, bunurilor şi valorilor cu efective de jandarmi | [`hg/2002/1595/`](hg/2002/1595/) | amending act | 1 | 2003-01-28 | 2003-01-28 |
 | Hotărârea Guvernului nr. 1597/2002 | [`hg/2002/1597/`](hg/2002/1597/) | in force | 1 | 2003-01-27 | 2003-01-27 |
+| Hotărârea Guvernului nr. 1599/2002 privind stabilirea unor măsuri pentru aducerea în ţara a osemintelor regelui Carol al II-lea de Hohenzollern-Sigmaringen | [`hg/2002/1599/`](hg/2002/1599/) | in force | 1 | 2003-01-20 | 2003-01-20 |
 | Hotărârea Guvernului nr. 1602/2002 | [`hg/2002/1602/`](hg/2002/1602/) | in force | 2 | 2003-01-29 | 2003-12-10 |
+| Hotărârea Guvernului nr. 4/2003 privind suplimentarea bugetului Secretariatului General al Guvernului din Fondul de rezerva bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2003, pentru Fundaţia Europeană "Titulescu" | [`hg/2003/4/`](hg/2003/4/) | in force | 1 | 2003-01-21 | 2003-01-21 |
 | Hotărârea Guvernului nr. 6/2003 privind constituirea Comisiei interministeriale pentru urmărirea Programului de construcţie de sali de sport | [`hg/2003/6/`](hg/2003/6/) | amended, not consolidated | 1 | 2003-01-23 | 2003-01-23 |
 | Hotărârea Guvernului nr. 9/2003 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii "Amenajarea hidroenergetica a râului Olt pe sectorul Izbiceni Dunăre-CHE Islaz" | [`hg/2003/9/`](hg/2003/9/) | amended, not consolidated | 1 | 2003-01-31 | 2003-01-31 |
+| Hotărârea Guvernului nr. 13/2003 pentru aprobarea Memorandumului de înţelegere dintre Ministerul Apărării Naţionale din România şi Ministerul Apărării din Republica Bulgaria cu privire la protecţia obiectivelor strategice şi a obiectivelor de importanţa deosebită din apropierea frontierei comune împotriva actelor teroriste executate din aer, semnat la Sofia la 12 noiembrie 2002 | [`hg/2003/13/`](hg/2003/13/) | amending act | 1 | 2003-02-06 | 2003-02-06 |
+| Hotărârea Guvernului nr. 23/2003 privind transmiterea unei părţi a unui imobil, proprietate publică a statului, din administrarea Ministerului Apărării Naţionale în administrarea Administraţiei Naţionale "Apele Române" | [`hg/2003/23/`](hg/2003/23/) | in force | 1 | 2003-01-28 | 2003-01-28 |
+| Hotărârea Guvernului nr. 26/2003 privind transparenta relaţiilor financiare dintre autorităţile publice şi întreprinderile publice, precum şi transparenta financiară în cadrul anumitor întreprinderi | [`hg/2003/26/`](hg/2003/26/) | in force | 1 | 2003-02-12 | 2003-02-12 |
 | Hotărârea Guvernului nr. 30/2003 | [`hg/2003/30/`](hg/2003/30/) | in force | 1 | 2003-02-03 | 2003-02-03 |
 | Hotărârea Guvernului nr. 31/2003 | [`hg/2003/31/`](hg/2003/31/) | in force | 1 | 2003-02-14 | 2003-02-14 |
+| Hotărârea Guvernului nr. 32/2003 privind transmiterea unui imobil în proprietatea publică a judeţului Olt şi în administrarea Consiliului Judeţean Olt | [`hg/2003/32/`](hg/2003/32/) | in force | 1 | 2003-02-03 | 2003-02-03 |
 | Hotărârea Guvernului nr. 48/2003 pentru aprobarea Programului naţional-cadru de restructurare şi modernizare a unor unităţi de profil zootehnic şi din industria alimentară | [`hg/2003/48/`](hg/2003/48/) | amended, not consolidated | 1 | 2003-02-17 | 2003-02-17 |
 | Hotărârea Guvernului nr. 51/2003 privind procedura de predare-primire a documentelor creatorilor şi/sau deţinătorilor de documente, persoane juridice, care s-au desfiinţat | [`hg/2003/51/`](hg/2003/51/) | amended, not consolidated | 1 | 2003-02-17 | 2003-02-17 |
 | Hotărârea Guvernului nr. 56/2003 pentru aprobarea modului de repartizare şi de utilizare a sumelor prevăzute la lit. a)-d), f) şi g) din anexa nr. 3/33/07 la Legea bugetului de stat pe anul 2003 nr. 631/2002 | [`hg/2003/56/`](hg/2003/56/) | amended, not consolidated | 1 | 2003-02-05 | 2003-02-05 |

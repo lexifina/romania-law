@@ -23,18 +23,28 @@ The tools choose each version by the commit's `In-force:` trailer, never by comm
 - One article per file (`art-NNN.md`, an inserted article 112^1 is `art-112-1.md`), one paragraph, letter or point per line.
 - `git blame <folder>/art-NNN.md` names, line by line, the act that wrote it (the commit author).
 - `git log --follow -p --word-diff <folder>/art-NNN.md` gives every change, word by word.
-- Tags: `<act id>/<in-force day>` is the act as it stood from that day; `law/<key>` is the commit of the act `<key>`.
+- Tags: `<act id>/<in-force day>` is the act as it stood from that day; `law/<key>` is the commit of the act `<key>`; `ruling/<id>` is the commit that added the decision `<id>` (`ruling/dcc-623-2019`). A Constitutional Court decision that changed a text has both: `law/dcc-<n>-<year>` on the text change, `ruling/dcc-<n>-<year>` on the decision.
 - Commit trailers (all ASCII, parse with `git interpret-trailers --parse`):
   - `In-force:`, the day the change took effect;
-  - `Kind:`: `law` (a law), `decree` (an ordinance or Government decision), `court` (a Constitutional Court
-    decision), `publisher` (a change no amendment note explains), `layout` (the folder move) or `correction`
-    (see below);
+  - `Kind:`: `law` (a law), `decree` (an ordinance or Government decision), `court` (a change to an act's text made
+    by a Constitutional Court decision: the article struck out or conditioned), `ruling` (a court decision itself,
+    added under `jurisprudenta/`; it changes no act's text), `publisher` (a change no amendment note explains),
+    `layout` (the folder move) or `correction` (see below);
   - `Corrects:` and `Re-asserts:`, on a correction, the earlier commit it replaces for its day;
   - `Law:`, the act's key, as in `law/<key>` tags;
   - `Enacted:` and `Published:`;
   - `Act:` and `Provisions:` (or `Affecting:`), the act and provisions changed;
   - `Words-changed:`;
   - `Consolidated:` and `Source:`, the source pages of that version.
+
+## Find a court decision
+
+- `jurisprudenta/ccr/<year>/<number>/` (Constitutional Court), `jurisprudenta/iccj/<panel>/<year>/<number>/` (High Court of Cassation and Justice; panels `ril`, `hp`, `hp-penal`, `su`, `scaf`), `jurisprudenta/cedo/<year>/<application>/` (European Court of Human Rights). Each holds the text as published (`decizie.md`, or `hotarare.md` for an ECHR judgment), one paragraph per line, and `meta.json`. A 1993–1995 plenary decision is `ccr/<year>/plen-<n>/`; ÎCCJ United Sections numbers printed in Roman numerals are given in digits (`su/2007/22/` is Decizia nr. XXII/2007).
+- `meta.json`: `key` (the id: `dcc-623-2019`, `iccj-ril-13-2023`, `iccj-hp-penal-8-2015`, `cedo-3594-19-2020-05-05`), `number`, `date` (of the decision), `mo` (Monitorul Oficial number and date), `binding_from`, `kind` and `subkind` (CCR: `exceptie`, `a-priori`, `alta`; ÎCCJ: `RIL`, `HP`, `alta`), `panel`, `outcome` (`admitted`, `rejected`, `other`; ECHR: `violation`, `no-violation`, `inadmissible`, `struck-out`, `friendly-settlement`), `finds_unconstitutional`, `interpretive`, `rejected_as` (`neintemeiata`, `inadmisibila`, `devenita-inadmisibila`, `fara-obiect`), `operative` (the operative part, one item per paragraph), `subjects` (the acts and articles it rules on, read from its title and operative part, not its reasoning; the Constitution is the standard, not a subject), `cites` (every act its text cites, with counts), `source` (the page and the text's sha256) and `warnings` (where a rule could not read a field). These fields are read by rules, not by hand.
+- A code is resolved by name and date: "Codul penal" in a decision of 2010 is `lege/1968/15`, in 2015 `lege/2009/286`.
+- `data/decisions.json` (and `.csv`) has one row per decision on main. `data/rulings-by-provision.json` maps an act's folder (`lege/2009/287`) and article (`2526`, `112-1` for art. 112^1) to the ids of the decisions on it; `jurisprudenta/acte/<act folder>.md` is the same for people.
+- Commits of kind `ruling` carry `Law:`, `Kind: ruling`, `Court:` (`ccr`, `iccj`, `cedo`), `Ruling-kind:`, `Panel:`, `Outcome:`, `Enacted:` (the day of the decision), `Published:` (the Monitorul Oficial day), `In-force:` (the day it binds: the publication day, or the day of the judgment for the ECHR), `Monitorul-Oficial:`, `Rules-on:` (one per act ruled on), `Ceases-unless-amended:` (a Constitutional Court finding on a law or ordinance in force: publication plus 45 days, Constituția art. 147(1)), `Application:` (ECHR), `Source:` and `Text-sha256:`. The author is the court, at the decision's id (`Curtea Constituțională <dcc-623-2019@legislatie.invalid>`), dated on the publication day.
+- `tools/on.py` never reads a `ruling` commit: it takes an act's text only from commits that touch the act's folder. To see what a decision did to a text, follow its id: `git log --author=dcc-638-2018` lists the decision and the `court` commit that struck the words.
 
 ## The layout move (November 2026)
 
@@ -68,7 +78,7 @@ When only the credit was wrong (the words are right, but a change was credited t
 - Annexes, chapter and section headings.
 - Figures, signs, pictograms and annexes that the Monitorul Oficial printed as facsimiles or in a separate issue; an article that refers to one keeps that reference.
 - The portal's editorial notes.
-- Interpretive rulings that left the wording unchanged.
+- Court decisions other than the Constitutional Court's, the High Court of Cassation and Justice's binding decisions and the ECHR judgments published in the Monitorul Oficial. Those are in `jurisprudenta/` and change no act file.
 - Forms newer than the newest archived capture.
 
 Each act's README.md lists its articles and the decisions made by hand for that act. REPRODUCE.md says how the repository was built and checked.

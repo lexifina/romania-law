@@ -21,14 +21,14 @@ The repository will grow well beyond that: case law, the orders and norms of min
 
 The aim is every source a Romanian lawyer or citizen needs. This table is the plan, bin by bin, with what is published so far; it is regenerated with each documentation commit, so the gap can be followed over time.
 
-**34.9%** of the plan is published, weighted by how binding each source is and how often it is used. **70.1%** counting sources already collected but not yet published. 1.7% of the weight is in bins that need the publisher's permission first. Updated 2026-11-04 15:41 UTC.
+**35.7%** of the plan is published, weighted by how binding each source is and how often it is used. **70.9%** counting sources already collected but not yet published. 1.7% of the weight is in bins that need the publisher's permission first. Updated 2026-11-04 17:00 UTC.
 
 | Bin | Will be in | Weight | Progress | How | Status |
 | --- | --- | ---: | --- | --- | --- |
 | **Primary legislation** | | | | | |
 | Constitution and codes | constitutie/1991/; the codes in lege/ and oug/ (Codul civil is lege/2009/287/) | 11.7% | 19 of 20 acts · 95.0% | built by hand with every version, checked against the text as published | collecting |
-| Laws, OUG, OG and HG (consolidated) | lege/, oug/, og/, hg/ | 25.3% | 33,730 of 55,923 acts · 61.3% | automatic: the official text as published plus every consolidated form | collecting |
-| Amended, not consolidated | lege/, oug/, og/, hg/ with status "amended, not consolidated" | in the laws bin | 5,017 of 8,321 acts · 60.3% | the official text as published, labelled, with the amending acts named | collecting |
+| Laws, OUG, OG and HG (consolidated) | lege/, oug/, og/, hg/ | 25.3% | 34,240 of 55,923 acts · 64.5% | automatic: the official text as published plus every consolidated form | collecting |
+| Amended, not consolidated | lege/, oug/, og/, hg/ with status "amended, not consolidated" | in the laws bin | 5,527 of 8,321 acts · 66.4% | the official text as published, labelled, with the amending acts named | collecting |
 | Third-party-only acts | lege/, oug/, og/, hg/ once found in the official service | 1.9% | 445 of 5,166 acts · 8.6% | searched for one by one in the official service; only its text is used | collecting |
 | **Case law** | | | | | |
 | CCR decisions | jurisprudenta/ccr/ | 9.7% | 0 of 25,147 decisions; 0 of 937 rulings applied · 0.0% | official texts as published; unconstitutionality rulings dated on the articles they suspend | collecting |
@@ -43,22 +43,22 @@ The aim is every source a Romanian lawyer or citizen needs. This table is the pl
 | Norms and regulations (BNR, ASF, ANRE, ANCOM and others) | norme/<issuer>/ | 11.2% | 0 of 38,524 acts · 0.0% | official texts as published | planned |
 | Standards (ASRO) | none: standard numbers cited only | – | out of scope | standard numbers cited only (the texts are copyright) | not planned: Copyright held by ASRO |
 | **Local acts** | | | | | |
-| Local acts: Bucharest (CGMB) | local/bucuresti/cgmb/ | 1.2% | 0 of 12,236 records · index pages 1,224/1,224 · listed 12,236/12,236 · texts 1 · 0.0% | the council's own register of decisions (PDF and text) | collecting |
+| Local acts: Bucharest (CGMB) | local/bucuresti/cgmb/ | 1.2% | 0 of 12,236 records · index pages 1,224/1,224 · listed 12,236/12,236 · texts 1 · 0.0% | the council's own register of decisions (PDF and text) | planned |
 | Local acts: Bucharest sectors 1-6 | local/bucuresti/sector-1/ ... sector-6/ | 0.6% | 0 of 6 sectors · 0.0% | each council's Monitorul Oficial Local | planned |
 | Local acts: county councils (41) | local/judet/<county>/ | 1.0% | 0 of 41 councils · 0.0% | each council's Monitorul Oficial Local | planned |
 | Local acts: municipalities and towns | local/<county>/<municipality or town>/ | 0.7% | 0 of 320 councils · 0.0% | each council's Monitorul Oficial Local | planned |
 | Local acts: communes | local/<county>/<commune>/ | 0.3% | 0 of 2,861 councils · 0.0% | each council's Monitorul Oficial Local | planned |
 | Local acts: other local authorities (prefects' orders) | local/prefect/<county>/ | 0.2% | 0 of 42 prefects · 0.0% | each prefecture, where it publishes | no publication channel found yet |
 | **EU and international** | | | | | |
-| Treaties | tratat/ (texts), linked from the ratifying acts | 2.0% | 0 of 2,648 treaty texts; 1,554 of 3,500 acts · 16.9% | official texts, linked from the ratifying acts | collecting |
+| Treaties | tratat/ (texts), linked from the ratifying acts | 2.0% | 0 of 2,648 treaty texts; 1,566 of 3,500 acts · 17.0% | official texts, linked from the ratifying acts | collecting |
 | EU transposition links | data/eu-transposition.csv | 2.9% | 6,938 of 5,834 notification records · 100.0% | EU notification records and the transposition clauses in the acts | done |
 | EU law in Romanian (links) | data/eu-links.csv (texts, if kept, in eu/) | 0.5% | 0 of 37,112 EU acts · 0.0% | links to the Romanian text on EUR-Lex | planned |
 | **Parliament and President** | | | | | |
 | Presidential decrees | promulgation data on each law; normative decrees in decret/ | 0.3% | 0 of 9,678 decrees · 0.0% | promulgation data on each law; normative decrees as acts | planned |
 | Parliament decisions | hotarare-parlament/ | 0.4% | 0 of 7,050 decisions · 0.0% | official texts as published | planned |
 | **Legislative history and publications** | | | | | |
-| Legislative history (amendment links, bills, Council opinions) | data/act-links.csv, data/bills.csv | 5.6% | 53,706 of 34,441 acts; 0 of 7,333 laws (+2 more) · 61.4% | the Chamber of Deputies' act sheets and bill files | collecting |
-| Monitorul Oficial parts | MO reference in each version; data/mo-links.csv | 1.3% | 34,441 of 34,441 acts · 38.5% | the Monitorul Oficial reference of every version | planned |
+| Legislative history (amendment links, bills, Council opinions) | data/act-links.csv, data/bills.csv | 5.6% | 53,706 of 34,951 acts; 0 of 7,333 laws (+2 more) · 61.4% | the Chamber of Deputies' act sheets and bill files | collecting |
+| Monitorul Oficial parts | MO reference in each version; data/mo-links.csv | 1.3% | 34,951 of 34,951 acts · 38.5% | the Monitorul Oficial reference of every version | planned |
 | Collective labour agreements (MO Part V) | cct/ | 0.3% | 0 of 57 agreements · 0.0% | official texts as published | planned |
 | **Historical law** | | | | | |
 | Historical law | cod/ (old codes), decret-lege/, pre-1990 lege/ and decret/ | 2.4% | 9 of 10 codes and statutes; 2 of 200 decree-laws (+1 more) · 36.5% | built by hand from the official texts | collecting |
@@ -93,6 +93,18 @@ Each act also has a short id (`codul-civil`, `legea-31-1990`, `hg-10-2016`) used
 ### EU law each act transposes
 
 `data/eu-transposition.csv` links 2,339 Romanian acts to the 1,814 EU acts they transpose or implement (6,938 rows). `link_source` says where each link comes from: `nim`, Romania's notification to the European Commission (the EU Publications Office's records of national implementing measures, CC0); `clause`, the transposition note in the act as published (Legea 24/2000, art. 45); `both`, when they agree. Other columns: `act_slug`, `act_folder`, `eu_celex`, `eu_title`, `scope` (the whole act, or the part the note names) and the Monitorul Oficial issue named in the notification. The two sources often name different EU acts (a base directive, or a later amendment); both are kept. Some acts listed are not in the repository yet. Retrieved 4 November 2026.
+
+## Case law
+
+`jurisprudenta/` holds the decisions that say what a provision means or whether it still applies, as published in the Monitorul Oficial, Part I. They are added in batches, oldest first, until all 23,743 are on `main`:
+
+| Court | Decisions | Folder |
+| --- | ---: | --- |
+| Constitutional Court (Curtea Constituțională), from 1992 | 21,561 | `jurisprudenta/ccr/<year>/<number>/` |
+| High Court of Cassation and Justice (ÎCCJ): appeals in the interest of the law and preliminary rulings, from 1998 | 1,863 | `jurisprudenta/iccj/<panel>/<year>/<number>/` (`ril`, `hp`, `hp-penal`, `su`, `scaf`) |
+| European Court of Human Rights, judgments against Romania in the Monitorul Oficial's translation | 319 | `jurisprudenta/cedo/<year>/<application>/` |
+
+Each folder has the text (`decizie.md`, one paragraph per line) and `meta.json`: number, date, Monitorul Oficial issue, kind, outcome, the operative part, and the acts and articles it rules on. `data/rulings-by-provision.json` maps each article (`lege/2009/287`, `2526`) to the decisions about it; `jurisprudenta/acte/<act folder>.md` is the same for people; `data/decisions.csv` lists them all. Each decision is one commit of kind `ruling` on its publication day, authored by the court at the decision's id (`dcc-623-2019`), tagged `ruling/<id>`. A ruling changes no act file: the change a Constitutional Court decision made to a text is a separate commit of kind `court` in that act's history, under the same id. Names of parties are reproduced as the Monitorul Oficial prints them. The portal holds about 85% of the Constitutional Court's own yearly totals in recent years; the gap is not explained yet. Field-by-field details are in [AGENTS.md](AGENTS.md).
 
 ## Use it
 
