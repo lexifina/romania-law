@@ -1,6 +1,6 @@
 # Every act in this repository
 
-22793 acts, 36,426 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+22815 acts, 36,448 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (3488, of which 1970 amending acts)
+## Laws (legi) (3493, of which 1973 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -928,6 +928,11 @@
 | Legea nr. 249/2009 | [`lege/2009/249/`](lege/2009/249/) | in force | 1 | 2009-07-06 | 2009-07-06 |
 | Codul penal (Legea nr. 286/2009) | [`lege/2009/286/`](lege/2009/286/) | in force | 45 | 2014-02-01 | 2026-04-26 |
 | Codul civil (Legea nr. 287/2009) | [`lege/2009/287/`](lege/2009/287/) | in force | 13 | 2011-10-01 | 2026-05-03 |
+| Legea nr. 301/2009 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 39/2009 privind unele măsuri de creştere a suprafeţei contractate pentru irigaţii | [`lege/2009/301/`](lege/2009/301/) | amending act | 1 | 2009-10-11 | 2009-10-11 |
+| Legea nr. 302/2009 pentru modificarea alin. (3) al art. 31 din Legea nr. 10/2001 privind regimul juridic al unor imobile preluate în mod abuziv în perioada 6 martie 1945 - 22 decembrie 1989 | [`lege/2009/302/`](lege/2009/302/) | amending act | 1 | 2009-10-12 | 2009-10-12 |
+| Legea nr. 305/2009 pentru modificarea alin. (1) al art. 65 din Ordonanţa Guvernului nr. 57/2002 privind cercetarea ştiinţifică şi dezvoltarea tehnologică şi pentru modificarea şi completarea art. 52 din Legea nr. 500/2002 privind finanţele publice | [`lege/2009/305/`](lege/2009/305/) | amending act | 1 | 2009-10-12 | 2009-10-12 |
+| Legea nr. 306/2009 pentru ratificarea Protocolului dintre Guvernul României şi Guvernul Republicii India, semnat la Bucureşti la 16 februarie 2009, privind amendarea Acordului dintre Guvernul României şi Guvernul Republicii India pentru promovarea şi protejarea reciprocă a investiţiilor, semnat la New Delhi la 17 noiembrie 1997 | [`lege/2009/306/`](lege/2009/306/) | in force | 1 | 2009-10-15 | 2009-10-15 |
+| Legea nr. 307/2009 pentru ratificarea Acordului de sediu dintre Guvernul României şi Organizaţia Internaţională a Francofoniei privind Antena Regională a Organizaţiei Internaţionale a Francofoniei pe lângă Statele din Europa Centrală şi de Est, semnat la Bucureşti la 21 aprilie 2008 | [`lege/2009/307/`](lege/2009/307/) | in force | 1 | 2009-10-15 | 2009-10-15 |
 | Legea nr. 314/2009 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 30/2006 privind funcţia de verificare a aspectelor procedurale aferente procesului de atribuire a contractelor de achiziţie publică, a contractelor de concesiune de lucrări publice şi a contractelor de concesiune de servicii | [`lege/2009/314/`](lege/2009/314/) | amending act | 1 | 2009-10-25 | 2009-10-25 |
 | Legea nr. 315/2009 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 48/2009 privind modificarea şi completarea art. 5 din Legea nr. 82/1992 privind rezervele de stat | [`lege/2009/315/`](lege/2009/315/) | amending act | 1 | 2009-10-17 | 2009-10-17 |
 | Legea nr. 319/2009 pentru instituirea Zilei mamei și a Zilei tatălui | [`lege/2009/319/`](lege/2009/319/) | in force | 1 | 2009-10-18 | 2009-10-18 |
@@ -5788,7 +5793,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (17014, of which 8872 amending acts)
+## Government decisions (HG) (17031, of which 8877 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -8813,7 +8818,24 @@
 | Hotărârea Guvernului nr. 955/2009 privind modificarea art. 1 din Hotărârea Guvernului nr. 1.510/2007 pentru aprobarea plății contribuției financiare anuale a României la bugetul Școlii internaționale de la Comandamentul Suprem al Forțelor Aliate din Europa (SHAPE), aferentă școlarizării copiilor personalului din Ministerul Apărării trimis în misiune permanentă în străinătate | [`hg/2009/955/`](hg/2009/955/) | amending act | 1 | 2009-09-15 | 2009-09-15 |
 | Hotărârea Guvernului nr. 956/2009 | [`hg/2009/956/`](hg/2009/956/) | in force | 1 | 2009-09-24 | 2009-09-24 |
 | Hotărârea Guvernului nr. 1076/2009 | [`hg/2009/1076/`](hg/2009/1076/) | in force | 1 | 2010-01-24 | 2010-01-24 |
+| Hotărârea Guvernului nr. 1190/2009 privind trecerea unei părţi dintr-un imobil din domeniul public al statului şi din administrarea Ministerului Apărării Naţionale în domeniul public al judeţului Botoşani şi în administrarea Consiliului Judeţean Botoşani | [`hg/2009/1190/`](hg/2009/1190/) | in force | 1 | 2009-10-27 | 2009-10-27 |
+| Hotărârea Guvernului nr. 1191/2009 pentru modificarea anexei la Hotărârea Guvernului nr. 175/2009 privind numirea reprezentanţilor Guvernului în Consiliul Economic şi Social | [`hg/2009/1191/`](hg/2009/1191/) | amending act | 1 | 2009-10-07 | 2009-10-07 |
+| Hotărârea Guvernului nr. 1192/2009 privind aplicarea mobilităţii pentru domnul Bitea Cristian-Vasile din funcţia publică de secretar general al Institutului Naţional de Administraţie în funcţia publică de subprefect al judeţului Bihor | [`hg/2009/1192/`](hg/2009/1192/) | in force | 1 | 2009-10-08 | 2009-10-08 |
+| Hotărârea Guvernului nr. 1193/2009 privind exercitarea, cu caracter temporar, a funcţiei publice de subprefect al judeţului Iaşi de către domnul Nacu Viorel Ionel | [`hg/2009/1193/`](hg/2009/1193/) | in force | 1 | 2009-10-08 | 2009-10-08 |
+| Hotărârea Guvernului nr. 1194/2009 privind încetarea exercitării temporare a funcţiei publice de subprefect al judeţului Suceava de către domnul Girigan Eugen | [`hg/2009/1194/`](hg/2009/1194/) | in force | 1 | 2009-10-08 | 2009-10-08 |
+| Hotărârea Guvernului nr. 1195/2009 privind încetarea exercitării temporare a funcţiei publice de subprefect al judeţului Suceava de către domnul Huţanu Constantin | [`hg/2009/1195/`](hg/2009/1195/) | in force | 1 | 2009-10-08 | 2009-10-08 |
+| Hotărârea Guvernului nr. 1196/2009 privind exercitarea, cu caracter temporar, a funcţiei publice de subprefect al judeţului Suceava de către doamna Zarojanu Angela | [`hg/2009/1196/`](hg/2009/1196/) | in force | 1 | 2009-10-08 | 2009-10-08 |
+| Hotărârea Guvernului nr. 1197/2009 privind exercitarea, cu caracter temporar, a funcţiei publice de subprefect al judeţului Suceava de către domnul Creţuleac Radu Ionuţ | [`hg/2009/1197/`](hg/2009/1197/) | in force | 1 | 2009-10-08 | 2009-10-08 |
+| Hotărârea Guvernului nr. 1198/2009 privind încetarea exercitării temporare a funcţiei publice de subprefect al municipiului Bucureşti de către domnul Gheorghe Florian-Costinel | [`hg/2009/1198/`](hg/2009/1198/) | in force | 1 | 2009-10-08 | 2009-10-08 |
+| Hotărârea Guvernului nr. 1199/2009 privind exercitarea, cu caracter temporar, a funcţiei publice de subprefect al municipiului Bucureşti de către doamna Dumitrescu Cristiana | [`hg/2009/1199/`](hg/2009/1199/) | in force | 1 | 2009-10-08 | 2009-10-08 |
+| Hotărârea Guvernului nr. 1200/2009 pentru modificarea anexei la Hotărârea Guvernului nr. 175/2009 privind numirea reprezentanţilor Guvernului în Consiliul Economic şi Social | [`hg/2009/1200/`](hg/2009/1200/) | amending act | 1 | 2009-10-08 | 2009-10-08 |
+| Hotărârea Guvernului nr. 1201/2009 pentru aprobarea Protocolului dintre Arhivele Naţionale din cadrul Ministerului Internelor şi Reformei Administrative din România şi Muzeul Memorial al Holocaustului din Statele Unite ale Americii, semnat la Bucureşti la 29 octombrie 2008, pentru modificarea Acordului de cooperare dintre Arhivele Naţionale din cadrul Ministerului Administraţiei şi Internelor din România şi Muzeul Memorial al Holocaustului din Statele Unite ale Americii, semnat la Bucureşti la 3 iulie 2006 | [`hg/2009/1201/`](hg/2009/1201/) | amending act | 1 | 2009-10-08 | 2009-10-08 |
+| Hotărârea Guvernului nr. 1202/2009 privind suplimentarea bugetului Secretariatului General al Guvernului din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2009 | [`hg/2009/1202/`](hg/2009/1202/) | in force | 1 | 2009-10-09 | 2009-10-09 |
 | Hotărârea Guvernului nr. 1203/2009 | [`hg/2009/1203/`](hg/2009/1203/) | in force | 1 | 2009-10-12 | 2009-10-12 |
+| Hotărârea Guvernului nr. 1205/2009 pentru aprobarea atestării zonei Parâng-Petroşani, judeţul Hunedoara, ca staţiune turistică de interes naţional | [`hg/2009/1205/`](hg/2009/1205/) | amending act | 1 | 2009-10-13 | 2009-10-13 |
+| Hotărârea Guvernului nr. 1209/2009 pentru modificarea Hotărârii Guvernului nr. 1.626/2008 privind aprobarea activităţii pentru care se acordă sprijin financiar producătorilor agricoli din sectorul vegetal în anul 2009, a cuantumului sprijinului financiar, precum şi a sumei totale alocate acestei activităţi | [`hg/2009/1209/`](hg/2009/1209/) | amending act | 1 | 2009-10-16 | 2009-10-16 |
+| Hotărârea Guvernului nr. 1210/2009 privind reglementarea unor măsuri financiare temporare pentru stimularea gradului de absorbţie a fondurilor alocate pentru agricultură | [`hg/2009/1210/`](hg/2009/1210/) | in force | 1 | 2009-10-15 | 2009-10-15 |
+| Hotărârea Guvernului nr. 1211/2009 privind stabilirea pentru anul 2009 a cuantumului plăţilor directe unice pe suprafaţă, plăţilor naţionale directe complementare, plăţilor pentru culturi energetice şi plăţilor separate pentru zahăr, care se acordă în agricultură în sectorul vegetal | [`hg/2009/1211/`](hg/2009/1211/) | in force | 1 | 2009-10-16 | 2009-10-16 |
 | Hotărârea Guvernului nr. 1214/2009 | [`hg/2009/1214/`](hg/2009/1214/) | in force | 2 | 2009-11-09 | 2018-07-06 |
 | Hotărârea Guvernului nr. 1215/2009 | [`hg/2009/1215/`](hg/2009/1215/) | in force | 4 | 2009-11-03 | 2022-03-25 |
 | Hotărârea Guvernului nr. 1219/2009 privind darea în administrarea Serviciului Român de Informaţii a unui imobil, trecut în proprietatea publică a statului | [`hg/2009/1219/`](hg/2009/1219/) | in force | 1 | 2009-10-19 | 2009-10-19 |
