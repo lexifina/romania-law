@@ -182270,6 +182270,21 @@
    ]
   },
   {
+   "slug": "hg-1839-2005",
+   "path": "hg/2005/1839",
+   "short": "HG nr. 1839/2005",
+   "title": "Hotărârea Guvernului nr. 1839/2005 privind modificarea art. 5 alin. (1) şi (2) din Normele metodologice pentru aplicarea Legii nr. 290/2003 privind acordarea de despăgubiri sau compensaţii cetăţenilor români pentru bunurile proprietate a acestora, sechestrate, reţinute sau rămase în Basarabia, Bucovina de Nord şi ţinutul Herţa, ca urmare a stării de război şi a aplicării Tratatului de Pace între România şi Puterile Aliate şi Asociate, semnat la Paris la 10 februarie 1947, aprobate prin Hotărârea Guvernului nr. 1.239/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/67733",
+   "versions": [
+    {
+     "from": "2006-01-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/67733",
+     "sha256": "cc4360fb78e9cb202ba7073e0ac5ae127a19151913d4cc95e73ce702772c949c"
+    }
+   ]
+  },
+  {
    "slug": "hg-1839-2006",
    "path": "hg/2006/1839",
    "short": "HG nr. 1839/2006",
@@ -182450,6 +182465,21 @@
    ]
   },
   {
+   "slug": "hg-1840-2005",
+   "path": "hg/2005/1840",
+   "short": "HG nr. 1840/2005",
+   "title": "Hotărârea Guvernului nr. 1840/2005 pentru modificarea şi completarea Hotărârii Guvernului nr. 1.355/2001 privind atestarea domeniului public al judeţului Olt, precum şi al municipiilor, oraşelor şi comunelor din judeţul Olt",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/68100",
+   "versions": [
+    {
+     "from": "2006-01-18",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/68100",
+     "sha256": "51c4bf2f91b635660f3e7a7dd56ae2ab1487dd6d8a5c74e09e87165d33012bf9"
+    }
+   ]
+  },
+  {
    "slug": "hg-1840-2006",
    "path": "hg/2006/1840",
    "short": "HG nr. 1840/2006",
@@ -182465,6 +182495,21 @@
    ]
   },
   {
+   "slug": "hg-1841-2005",
+   "path": "hg/2005/1841",
+   "short": "HG nr. 1841/2005",
+   "title": "Hotărârea Guvernului nr. 1841/2005 privind aprobarea bugetului de venituri şi cheltuieli pe anul 2006 al Comisiei Naţionale pentru Controlul Activităţii Nucleare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/67738",
+   "versions": [
+    {
+     "from": "2006-01-09",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/67738",
+     "sha256": "f74ea77b5924e03ea102357070b8fdd99f883ae6d0eb246f6325f69d19599c38"
+    }
+   ]
+  },
+  {
    "slug": "hg-1842-2004",
    "path": "hg/2004/1842",
    "short": "HG nr. 1842/2004",
@@ -182476,6 +182521,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/56822",
      "sha256": "3825ace2243344604b9ed417d73af7c8207f77dde6b4eb8d7d2e488f9da4876f"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1843-2005",
+   "path": "hg/2005/1843",
+   "short": "HG nr. 1843/2005",
+   "title": "Hotărârea Guvernului nr. 1843/2005 privind stabilirea datei pentru organizarea alegerii unui consiliu local",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/69440",
+   "versions": [
+    {
+     "from": "2006-03-02",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/69440",
+     "sha256": "d66953a4d24f68b7e6eaab9dde04eac6d5a29791e2f0add0d2ec76847059f096"
     }
    ]
   },
@@ -182516,6 +182576,21 @@
    ]
   },
   {
+   "slug": "hg-1846-2005",
+   "path": "hg/2005/1846",
+   "short": "HG nr. 1846/2005",
+   "title": "Hotărârea Guvernului nr. 1846/2005 pentru modificarea şi completarea Hotărârii Guvernului nr. 387/2003 privind înfiinţarea pe lângă Ministerul Culturii şi Cultelor şi direcţiile pentru cultură, culte şi patrimoniul cultural naţional judeţene, respectiv a municipiului Bucureşti, a unor activităţi finanţate integral din venituri proprii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/67780",
+   "versions": [
+    {
+     "from": "2006-01-11",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/67780",
+     "sha256": "54a9a134248809b1414a8754f168047961b4ba6da6bf75cbd01e007a1c0261b0"
+    }
+   ]
+  },
+  {
    "slug": "hg-1846-2006",
    "path": "hg/2006/1846",
    "short": "HG nr. 1846/2006",
@@ -182527,6 +182602,36 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/78119",
      "sha256": "b55f3d805e4613a9e4d31c2072b8f6796ee80d10edc123d85e0435f96a5ee541"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1847-2005",
+   "path": "hg/2005/1847",
+   "short": "HG nr. 1847/2005",
+   "title": "Hotărârea Guvernului nr. 1847/2005 pentru modificarea Regulamentului de organizare şi funcţionare al Autorităţii Naţionale de Reglementare în Domeniul Energiei, aprobat prin Hotărârea Guvernului nr. 1.816/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/67988",
+   "versions": [
+    {
+     "from": "2006-01-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/67988",
+     "sha256": "99b5898494cb46002baebcbc330a64d3768d64d5a83135d6de879138f1a181d3"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1849-2005",
+   "path": "hg/2005/1849",
+   "short": "HG nr. 1849/2005",
+   "title": "Hotărârea Guvernului nr. 1849/2005 pentru abrogarea unor prevederi din anexa nr. 2 la Hotărârea Guvernului nr. 182/2002 privind lista autorităţilor contractante care au obligaţia de a aplica prevederile Ordonanţei Guvernului nr. 20/2002 privind achiziţiile publice prin licitaţii electronice şi produsele care urmează să fie achiziţionate prin procedura de licitaţie electronică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/67821",
+   "versions": [
+    {
+     "from": "2006-01-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/67821",
+     "sha256": "ec01895752ff755e070005e253da0e9def1ab31e976e3109fd1b8f09afae8bb6"
     }
    ]
   },
@@ -182726,6 +182831,21 @@
    ]
   },
   {
+   "slug": "hg-1851-2005",
+   "path": "hg/2005/1851",
+   "short": "HG nr. 1851/2005",
+   "title": "Hotărârea Guvernului nr. 1851/2005 privind transmiterea unui imobil din domeniul public al statului şi din administrarea Regiei Autonome \"Administraţia Patrimoniului Protocolului de Stat\" în domeniul public al municipiului Bucureşti şi în administrarea Consiliului General al Municipiului Bucureşti",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/67961",
+   "versions": [
+    {
+     "from": "2006-01-18",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/67961",
+     "sha256": "934e3280c5bd01643853be2b41fab94773afd0acfbff6c91116e68df46e6e9ec"
+    }
+   ]
+  },
+  {
    "slug": "hg-1851-2006",
    "path": "hg/2006/1851",
    "short": "HG nr. 1851/2006",
@@ -182737,6 +182857,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/78234",
      "sha256": "aa40e66d3db017689ac2e8832ddd7e8e8c270648444567c383a87dff1f9e6c13"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1852-2005",
+   "path": "hg/2005/1852",
+   "short": "HG nr. 1852/2005",
+   "title": "Hotărârea Guvernului nr. 1852/2005 pentru modificarea şi completarea Hotărârii Guvernului nr. 965/2002 privind atestarea domeniului public al judeţului Dolj, precum şi al municipiilor, oraşelor şi comunelor din judeţul Dolj",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/67822",
+   "versions": [
+    {
+     "from": "2006-01-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/67822",
+     "sha256": "ac0124354a93fa5101d822e66e430f4c792afec42fbae26949785ac247a1f339"
     }
    ]
   },

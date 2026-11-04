@@ -1,6 +1,6 @@
 # Every act in this repository
 
-24630 acts, 38,264 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+24639 acts, 38,273 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -6021,7 +6021,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (18618, of which 9546 amending acts)
+## Government decisions (HG) (18627, of which 9553 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -6622,8 +6622,17 @@
 | Hotărârea Guvernului nr. 1768/2005 | [`hg/2005/1768/`](hg/2005/1768/) | in force | 4 | 2005-12-28 | 2009-11-27 |
 | Hotărârea Guvernului nr. 1825/2005 | [`hg/2005/1825/`](hg/2005/1825/) | in force | 2 | 2006-01-04 | 2006-01-20 |
 | Hotărârea Guvernului nr. 1826/2005 | [`hg/2005/1826/`](hg/2005/1826/) | in force | 1 | 2006-01-06 | 2006-01-06 |
+| Hotărârea Guvernului nr. 1839/2005 privind modificarea art. 5 alin. (1) şi (2) din Normele metodologice pentru aplicarea Legii nr. 290/2003 privind acordarea de despăgubiri sau compensaţii cetăţenilor români pentru bunurile proprietate a acestora, sechestrate, reţinute sau rămase în Basarabia, Bucovina de Nord şi ţinutul Herţa, ca urmare a stării de război şi a aplicării Tratatului de Pace între România şi Puterile Aliate şi Asociate, semnat la Paris la 10 februarie 1947, aprobate prin Hotărârea Guvernului nr. 1.239/2004 | [`hg/2005/1839/`](hg/2005/1839/) | amending act | 1 | 2006-01-09 | 2006-01-09 |
+| Hotărârea Guvernului nr. 1840/2005 pentru modificarea şi completarea Hotărârii Guvernului nr. 1.355/2001 privind atestarea domeniului public al judeţului Olt, precum şi al municipiilor, oraşelor şi comunelor din judeţul Olt | [`hg/2005/1840/`](hg/2005/1840/) | amending act | 1 | 2006-01-18 | 2006-01-18 |
+| Hotărârea Guvernului nr. 1841/2005 privind aprobarea bugetului de venituri şi cheltuieli pe anul 2006 al Comisiei Naţionale pentru Controlul Activităţii Nucleare | [`hg/2005/1841/`](hg/2005/1841/) | amending act | 1 | 2006-01-09 | 2006-01-09 |
+| Hotărârea Guvernului nr. 1843/2005 privind stabilirea datei pentru organizarea alegerii unui consiliu local | [`hg/2005/1843/`](hg/2005/1843/) | in force | 1 | 2006-03-02 | 2006-03-02 |
 | Hotărârea Guvernului nr. 1844/2005 | [`hg/2005/1844/`](hg/2005/1844/) | in force | 2 | 2006-01-18 | 2010-10-24 |
+| Hotărârea Guvernului nr. 1846/2005 pentru modificarea şi completarea Hotărârii Guvernului nr. 387/2003 privind înfiinţarea pe lângă Ministerul Culturii şi Cultelor şi direcţiile pentru cultură, culte şi patrimoniul cultural naţional judeţene, respectiv a municipiului Bucureşti, a unor activităţi finanţate integral din venituri proprii | [`hg/2005/1846/`](hg/2005/1846/) | amending act | 1 | 2006-01-11 | 2006-01-11 |
+| Hotărârea Guvernului nr. 1847/2005 pentru modificarea Regulamentului de organizare şi funcţionare al Autorităţii Naţionale de Reglementare în Domeniul Energiei, aprobat prin Hotărârea Guvernului nr. 1.816/2004 | [`hg/2005/1847/`](hg/2005/1847/) | amending act | 1 | 2006-01-18 | 2006-01-18 |
+| Hotărârea Guvernului nr. 1849/2005 pentru abrogarea unor prevederi din anexa nr. 2 la Hotărârea Guvernului nr. 182/2002 privind lista autorităţilor contractante care au obligaţia de a aplica prevederile Ordonanţei Guvernului nr. 20/2002 privind achiziţiile publice prin licitaţii electronice şi produsele care urmează să fie achiziţionate prin procedura de licitaţie electronică | [`hg/2005/1849/`](hg/2005/1849/) | amending act | 1 | 2006-01-12 | 2006-01-12 |
 | Hotărârea Guvernului nr. 1850/2005 | [`hg/2005/1850/`](hg/2005/1850/) | in force | 3 | 2006-01-30 | 2021-10-15 |
+| Hotărârea Guvernului nr. 1851/2005 privind transmiterea unui imobil din domeniul public al statului şi din administrarea Regiei Autonome "Administraţia Patrimoniului Protocolului de Stat" în domeniul public al municipiului Bucureşti şi în administrarea Consiliului General al Municipiului Bucureşti | [`hg/2005/1851/`](hg/2005/1851/) | in force | 1 | 2006-01-18 | 2006-01-18 |
+| Hotărârea Guvernului nr. 1852/2005 pentru modificarea şi completarea Hotărârii Guvernului nr. 965/2002 privind atestarea domeniului public al judeţului Dolj, precum şi al municipiilor, oraşelor şi comunelor din judeţul Dolj | [`hg/2005/1852/`](hg/2005/1852/) | amending act | 1 | 2006-01-12 | 2006-01-12 |
 | Hotărârea Guvernului nr. 1854/2005 | [`hg/2005/1854/`](hg/2005/1854/) | in force | 1 | 2006-01-26 | 2006-01-26 |
 | Hotărârea Guvernului nr. 1855/2005 privind stabilirea Criteriilor de acordare a etichetei ecologice pentru serviciile de cazare pentru turişti | [`hg/2005/1855/`](hg/2005/1855/) | in force | 1 | 2006-01-18 | 2006-01-18 |
 | Hotărârea Guvernului nr. 1856/2005 | [`hg/2005/1856/`](hg/2005/1856/) | in force | 2 | 2006-01-11 | 2017-05-05 |
