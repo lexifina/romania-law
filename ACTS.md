@@ -1,6 +1,6 @@
 # Every act in this repository
 
-38640 acts, 52,393 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+38653 acts, 52,406 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (8153, of which 2973 amending acts)
+## Laws (legi) (8156, of which 2975 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -1044,6 +1044,9 @@
 | Legea nr. 464/2001 pentru modificarea şi completarea Legii nr. 126/1995 privind regimul materiilor explozive | [`lege/2001/464/`](lege/2001/464/) | amended, not consolidated | 1 | 2001-07-30 | 2001-07-30 |
 | Legea nr. 465/2001 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 16/2001 privind gestionarea deşeurilor industriale reciclabile | [`lege/2001/465/`](lege/2001/465/) | amended, not consolidated | 1 | 2001-07-30 | 2001-07-30 |
 | Legea nr. 466/2001 | [`lege/2001/466/`](lege/2001/466/) | in force | 1 | 2001-07-31 | 2001-07-31 |
+| Legea nr. 470/2001 pentru ratificarea Protocolului facultativ la Convenţia cu privire la drepturile copilului, referitor la vânzarea de copii, prostituţia copiilor şi pornografia infantila, semnat la New York la 6 septembrie 2000*) | [`lege/2001/470/`](lege/2001/470/) | in force | 1 | 2001-09-25 | 2001-09-25 |
+| Legea nr. 471/2001 privind respingerea Ordonanţei de urgenţă a Guvernului nr. 122/2000 pentru modificarea şi completarea Ordonanţei Guvernului nr. 118/1999 privind achiziţiile publice | [`lege/2001/471/`](lege/2001/471/) | amending act | 1 | 2001-09-26 | 2001-09-26 |
+| Legea nr. 472/2001 privind respingerea Ordonanţei de urgenţă a Guvernului nr. 48/2001 pentru suspendarea aplicării Ordonanţei Guvernului nr. 118/1999 privind achiziţiile publice | [`lege/2001/472/`](lege/2001/472/) | amending act | 1 | 2001-09-26 | 2001-09-26 |
 | Legea nr. 475/2001 privind respingerea Ordonanţei de urgenţă a Guvernului nr. 18/2000 pentru prorogarea termenelor prevăzute la art. 111 şi 112 din Ordonanţa Guvernului nr. 118/1999 privind achiziţiile publice | [`lege/2001/475/`](lege/2001/475/) | amending act | 1 | 2001-09-27 | 2001-09-27 |
 | Legea nr. 476/2001 privind respingerea Ordonanţei de urgenţă a Guvernului nr. 141/2000 pentru prorogarea termenelor prevăzute la art. 111 şi 112 din Ordonanţa Guvernului nr. 118/1999 privind achiziţiile publice | [`lege/2001/476/`](lege/2001/476/) | amending act | 1 | 2001-09-27 | 2001-09-27 |
 | Legea nr. 477/2001 privind respingerea Ordonanţei de urgenţă a Guvernului nr. 186/2000 pentru prorogarea termenelor prevăzute la art. 111 şi 112 din Ordonanţa Guvernului nr. 118/1999 privind achiziţiile publice | [`lege/2001/477/`](lege/2001/477/) | amending act | 1 | 2001-09-27 | 2001-09-27 |
@@ -12054,7 +12057,7 @@
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 5/2026 pentru modificarea şi completarea Ordonanţei Guvernului nr. 27/2011 privind transporturile rutiere şi pentru completarea Ordonanţei de urgenţă a Guvernului nr. 28/1999 privind obligaţia operatorilor economici de a utiliza aparate de marcat electronice fiscale | [`og/2026/5/`](og/2026/5/) | amended, not consolidated | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (26552, of which 12415 amending acts)
+## Government decisions (HG) (26562, of which 12419 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -13151,8 +13154,18 @@
 | Hotărârea Guvernului nr. 884/2001 pentru aprobarea Regulamentului de punere în aplicare a dispozițiilor Legii educației fizice și sportului nr. 69/2000 | [`hg/2001/884/`](hg/2001/884/) | amending act | 1 | 2001-09-14 | 2001-09-14 |
 | Hotărârea Guvernului nr. 887/2001 privind înfiinţarea unor filiale ale Companiei Naţionale de Căi Ferate "C.F.R." - S.A | [`hg/2001/887/`](hg/2001/887/) | amended, not consolidated | 1 | 2001-09-24 | 2001-09-24 |
 | Hotărârea Guvernului nr. 895/2001 pentru aprobarea bugetelor de venituri şi cheltuieli pe anul 2001 ale regiilor autonome de interes naţional de sub autoritatea Băncii Naţionale a României | [`hg/2001/895/`](hg/2001/895/) | amended, not consolidated | 1 | 2001-09-24 | 2001-09-24 |
+| Hotărârea Guvernului nr. 910/2001 privind diferenţierea tarifelor percepute pentru înscrierea în Registrul Naţional al Fonogramelor şi în Registrul Programelor pentru Calculator, administrate de Oficiul Român pentru Drepturile de Autor | [`hg/2001/910/`](hg/2001/910/) | in force | 1 | 2001-09-21 | 2001-09-21 |
+| Hotărârea Guvernului nr. 911/2001 pentru modificarea art. 1 alin. (1) lit. b) din Hotărârea Guvernului nr. 295/2001 privind aprobarea volumului maxim de masa lemnoasă care se va recolta în anul 2001 | [`hg/2001/911/`](hg/2001/911/) | amending act | 1 | 2001-09-21 | 2001-09-21 |
+| Hotărârea Guvernului nr. 912/2001 privind suspendarea temporară a exportului seminţelor de floarea-soarelui | [`hg/2001/912/`](hg/2001/912/) | amending act | 1 | 2001-09-25 | 2001-09-25 |
+| Hotărârea Guvernului nr. 913/2001 privind alocarea sumei de 13,946 miliarde lei din Fondul la dispoziţia Guvernului României pentru relaţiile cu Republica Moldova pe anul 2001, pentru finanţarea unor proiecte de integrare economică şi culturală între România şi Republica Moldova | [`hg/2001/913/`](hg/2001/913/) | in force | 1 | 2001-09-24 | 2001-09-24 |
+| Hotărârea Guvernului nr. 914/2001 privind finanţarea din bugetul Ministerului Educaţiei şi Cercetării pe anul 2001 a lucrărilor de execuţie pentru obiectivul de investiţii "Şcoala localitatea Brad" | [`hg/2001/914/`](hg/2001/914/) | in force | 1 | 2001-09-25 | 2001-09-25 |
+| Hotărârea Guvernului nr. 916/2001 privind transmiterea unui imobil, proprietate publică a statului, din administrarea Ministerului Apărării Naţionale în administrarea Ministerului Culturii şi Cultelor pentru Episcopia Ortodoxă Română a Maramureşului şi Sătmarului | [`hg/2001/916/`](hg/2001/916/) | in force | 1 | 2001-09-25 | 2001-09-25 |
 | Hotărârea Guvernului nr. 917/2001 pentru aprobarea Normelor metodologice de aplicare a prevederilor Ordonanţei de urgenţă a Guvernului nr. 34/2000 privind produsele agroalimentare ecologice | [`hg/2001/917/`](hg/2001/917/) | amended, not consolidated | 1 | 2001-10-12 | 2001-10-12 |
+| Hotărârea Guvernului nr. 919/2001 pentru modificarea Hotărârii Guvernului nr. 1.024/2000 privind aprobarea schimbului unor imobile între Ministerul de Interne şi Ministerul Sănătăţii | [`hg/2001/919/`](hg/2001/919/) | amending act | 1 | 2001-09-27 | 2001-09-27 |
 | Hotărârea Guvernului nr. 920/2001 privind aprobarea bugetelor de venituri şi cheltuieli pe anul 2001 pentru companiile şi societăţile naţionale, societăţile comerciale şi institutele naţionale de cercetare-dezvoltare aflate sub autoritatea sau în coordonarea Ministerului Industriei şi Resurselor, precum şi a transferurilor pentru societăţile comerciale din sectorul minier şi pentru Societatea Comercială "Romplumb"-S.A. Baia Mare | [`hg/2001/920/`](hg/2001/920/) | amended, not consolidated | 1 | 2001-10-02 | 2001-10-02 |
+| Hotărârea Guvernului nr. 921/2001 privind exceptarea de la plata taxelor vamale a unor produse, materii prime şi materiale necesare pentru punerea în circulaţie a noilor paşapoarte româneşti | [`hg/2001/921/`](hg/2001/921/) | in force | 1 | 2001-10-02 | 2001-10-02 |
+| Hotărârea Guvernului nr. 922/2001 privind aprobarea Listei cuprinzând echipamentele pentru protecţia mediului scutite de la plata taxelor vamale de import, achiziţionate în cadrul proiectului "Sistemul meteorologic integrat naţional" | [`hg/2001/922/`](hg/2001/922/) | amending act | 1 | 2001-10-02 | 2001-10-02 |
+| Hotărârea Guvernului nr. 923/2001 privind organizarea în România a celei de-a 3-a Reuniuni a Comitetului de Coordonare a Procesului Reuniunii Miniştrilor Apărării din Sud-Estul Europei (SEDM-CC) şi a celei de-a 6-a Reuniuni a Comitetului Director Politico-Militar (PMSC) al Forţei Multinaţionale de Pace din Sud-Estul Europei (MPFSEE) | [`hg/2001/923/`](hg/2001/923/) | in force | 1 | 2001-10-02 | 2001-10-02 |
 | Hotărârea Guvernului nr. 924/2001 pentru aprobarea bugetului de venituri şi cheltuieli pe anul 2001 al Societăţii Naţionale "Tutunul Românesc" - S.A., aflată sub autoritatea Ministerului Agriculturii, Alimentaţiei şi Pădurilor | [`hg/2001/924/`](hg/2001/924/) | amending act | 1 | 2001-09-28 | 2001-09-28 |
 | Hotărârea Guvernului nr. 925/2001 privind acordarea unui ajutor de urgenta | [`hg/2001/925/`](hg/2001/925/) | in force | 1 | 2001-09-28 | 2001-09-28 |
 | Hotărârea Guvernului nr. 926/2001 pentru modificarea art. 2 alin. (2) din Hotărârea Guvernului nr. 617/2001 privind Sistemul naţional unic pentru apeluri de urgenta | [`hg/2001/926/`](hg/2001/926/) | amending act | 1 | 2001-09-28 | 2001-09-28 |
