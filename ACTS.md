@@ -1,6 +1,6 @@
 # Every act in this repository
 
-38633 acts, 52,386 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+38640 acts, 52,393 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -12054,7 +12054,7 @@
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 5/2026 pentru modificarea şi completarea Ordonanţei Guvernului nr. 27/2011 privind transporturile rutiere şi pentru completarea Ordonanţei de urgenţă a Guvernului nr. 28/1999 privind obligaţia operatorilor economici de a utiliza aparate de marcat electronice fiscale | [`og/2026/5/`](og/2026/5/) | amended, not consolidated | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (26545, of which 12411 amending acts)
+## Government decisions (HG) (26552, of which 12415 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -13153,6 +13153,13 @@
 | Hotărârea Guvernului nr. 895/2001 pentru aprobarea bugetelor de venituri şi cheltuieli pe anul 2001 ale regiilor autonome de interes naţional de sub autoritatea Băncii Naţionale a României | [`hg/2001/895/`](hg/2001/895/) | amended, not consolidated | 1 | 2001-09-24 | 2001-09-24 |
 | Hotărârea Guvernului nr. 917/2001 pentru aprobarea Normelor metodologice de aplicare a prevederilor Ordonanţei de urgenţă a Guvernului nr. 34/2000 privind produsele agroalimentare ecologice | [`hg/2001/917/`](hg/2001/917/) | amended, not consolidated | 1 | 2001-10-12 | 2001-10-12 |
 | Hotărârea Guvernului nr. 920/2001 privind aprobarea bugetelor de venituri şi cheltuieli pe anul 2001 pentru companiile şi societăţile naţionale, societăţile comerciale şi institutele naţionale de cercetare-dezvoltare aflate sub autoritatea sau în coordonarea Ministerului Industriei şi Resurselor, precum şi a transferurilor pentru societăţile comerciale din sectorul minier şi pentru Societatea Comercială "Romplumb"-S.A. Baia Mare | [`hg/2001/920/`](hg/2001/920/) | amended, not consolidated | 1 | 2001-10-02 | 2001-10-02 |
+| Hotărârea Guvernului nr. 924/2001 pentru aprobarea bugetului de venituri şi cheltuieli pe anul 2001 al Societăţii Naţionale "Tutunul Românesc" - S.A., aflată sub autoritatea Ministerului Agriculturii, Alimentaţiei şi Pădurilor | [`hg/2001/924/`](hg/2001/924/) | amending act | 1 | 2001-09-28 | 2001-09-28 |
+| Hotărârea Guvernului nr. 925/2001 privind acordarea unui ajutor de urgenta | [`hg/2001/925/`](hg/2001/925/) | in force | 1 | 2001-09-28 | 2001-09-28 |
+| Hotărârea Guvernului nr. 926/2001 pentru modificarea art. 2 alin. (2) din Hotărârea Guvernului nr. 617/2001 privind Sistemul naţional unic pentru apeluri de urgenta | [`hg/2001/926/`](hg/2001/926/) | amending act | 1 | 2001-09-28 | 2001-09-28 |
+| Hotărârea Guvernului nr. 928/2001 privind aprobarea structurii, a indicatorilor şi a fondurilor alocate din bugetul Ministerului Turismului pe anul 2001, aferente Programului de marketing şi promovare turistica, precum şi Programului de dezvoltare a produselor turistice | [`hg/2001/928/`](hg/2001/928/) | amending act | 1 | 2001-10-01 | 2001-10-01 |
+| Hotărârea Guvernului nr. 929/2001 privind transmiterea unui imobil, proprietate publică a statului, din administrarea Ministerului Public, prin Parchetul de pe lângă Judecătoria Craiova, în administrarea Ministerului Agriculturii, Alimentaţiei şi Pădurilor, pentru Direcţia generală pentru agricultura şi industrie alimentară a judeţului Dolj | [`hg/2001/929/`](hg/2001/929/) | in force | 1 | 2001-09-28 | 2001-09-28 |
+| Hotărârea Guvernului nr. 930/2001 privind aprobarea principalilor indicatori tehnico-economici ai investiţiei "CTE Turceni - Reabilitarea grupurilor nr. 4 şi 5 de 330 MW" | [`hg/2001/930/`](hg/2001/930/) | amending act | 1 | 2001-09-28 | 2001-09-28 |
+| Hotărârea Guvernului nr. 931/2001 privind plata de către Ministerul Afacerilor Externe a unui studiu efectuat în domeniul dreptului internaţional | [`hg/2001/931/`](hg/2001/931/) | in force | 1 | 2001-10-01 | 2001-10-01 |
 | Hotărârea Guvernului nr. 932/2001 pentru modificarea art. 1 din Hotărârea Guvernului nr. 723/2001 privind modificarea cuantumului ajutorului bănesc şi a limitelor de venituri în funcţie de care acesta se acordă categoriilor defavorizate ale populaţiei ale căror locuinţe sunt racordate la sisteme centralizate de furnizare a energiei termice, pentru perioada 1 noiembrie - 31 decembrie 2001 | [`hg/2001/932/`](hg/2001/932/) | amending act | 1 | 2001-09-28 | 2001-09-28 |
 | Hotărârea Guvernului nr. 933/2001 pentru modificarea pct. 1 din anexa nr. 1 la Hotărârea Guvernului nr. 552/2001 pentru aprobarea programelor de interes naţional în domeniul protecţiei drepturilor copilului | [`hg/2001/933/`](hg/2001/933/) | amending act | 1 | 2001-09-28 | 2001-09-28 |
 | Hotărârea Guvernului nr. 934/2001 pentru aprobarea bugetului de venituri şi cheltuieli pe anul 2001 al Regiei Autonome "Rasirom" | [`hg/2001/934/`](hg/2001/934/) | amending act | 1 | 2001-10-01 | 2001-10-01 |
