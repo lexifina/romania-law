@@ -106136,6 +106136,21 @@
    ]
   },
   {
+   "slug": "hg-103-2005",
+   "path": "hg/2005/103",
+   "short": "HG nr. 103/2005",
+   "title": "Hotărârea Guvernului nr. 103/2005 privind acordarea unui ajutor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/59508",
+   "versions": [
+    {
+     "from": "2005-02-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59508",
+     "sha256": "a4f5ca8e13fd6c3ca4ff7f65305eb09115b60302accac9a7e7940e88ac29c3d5"
+    }
+   ]
+  },
+  {
    "slug": "hg-103-2011",
    "path": "hg/2011/103",
    "short": "HG nr. 103/2011",
@@ -111485,6 +111500,21 @@
    ]
   },
   {
+   "slug": "hg-106-2005",
+   "path": "hg/2005/106",
+   "short": "HG nr. 106/2005",
+   "title": "Hotărârea Guvernului nr. 106/2005 privind eliberarea domnului Diaconu Ion, la cerere, din funcţia de prefect al judeţului Botoşani",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/59546",
+   "versions": [
+    {
+     "from": "2005-02-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59546",
+     "sha256": "b48eb9bbe3aa52bc0052d49bed11116d21997db4ff6bf8c9c229697cdc7386a0"
+    }
+   ]
+  },
+  {
    "slug": "hg-106-2007",
    "path": "hg/2007/106",
    "short": "HG nr. 106/2007",
@@ -113575,6 +113605,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305085",
      "sha256": "32bfa2b38dd30d5020c913bd3469b7adf84c5d6c0af16f860f446071d8b083f9"
+    }
+   ]
+  },
+  {
+   "slug": "hg-107-2005",
+   "path": "hg/2005/107",
+   "short": "HG nr. 107/2005",
+   "title": "Hotărârea Guvernului nr. 107/2005 privind acordarea unor ajutoare de urgenţă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/59548",
+   "versions": [
+    {
+     "from": "2005-02-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59548",
+     "sha256": "1a854591090e8cb88b9266d87c5951d8aa1e8b4f6a62728a853a255280a8169e"
     }
    ]
   },
@@ -122666,6 +122711,21 @@
    ]
   },
   {
+   "slug": "hg-112-2005",
+   "path": "hg/2005/112",
+   "short": "HG nr. 112/2005",
+   "title": "Hotărârea Guvernului nr. 112/2005 pentru modificarea şi completarea Hotărârii Guvernului nr. 677/2003 privind condiţiile de acordare în mod gratuit a asistenţei medicale şi psihologice, a medicamentelor şi protezelor pentru poliţişti",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/59788",
+   "versions": [
+    {
+     "from": "2005-03-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59788",
+     "sha256": "f4cae545417938803693ae19887e7e9aade8ac60e170e6005efe8314edecbc29"
+    }
+   ]
+  },
+  {
    "slug": "hg-112-2006",
    "path": "hg/2006/112",
    "short": "HG nr. 112/2006",
@@ -128558,6 +128618,21 @@
    ]
   },
   {
+   "slug": "hg-115-2005",
+   "path": "hg/2005/115",
+   "short": "HG nr. 115/2005",
+   "title": "Hotărârea Guvernului nr. 115/2005 privind regimul călătoriilor în România aplicabil cetăţenilor polonezi, cehi şi slovaci",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/59563",
+   "versions": [
+    {
+     "from": "2005-03-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59563",
+     "sha256": "e40d71575d6a80eafca8d579d77c96d7d264f4a9d09f84efaf6764b86658b5d0"
+    }
+   ]
+  },
+  {
    "slug": "hg-115-2006",
    "path": "hg/2006/115",
    "short": "HG nr. 115/2006",
@@ -132059,6 +132134,21 @@
    ]
   },
   {
+   "slug": "hg-117-2005",
+   "path": "hg/2005/117",
+   "short": "HG nr. 117/2005",
+   "title": "Hotărârea Guvernului nr. 117/2005 privind constituirea Comitetului interministerial pentru coordonarea reformei procesului politicilor publice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/59569",
+   "versions": [
+    {
+     "from": "2005-03-01",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59569",
+     "sha256": "aab6b26db190e6a0d33f6067da45a026a109c9185c698c5d44954a9e91dfb8f8"
+    }
+   ]
+  },
+  {
    "slug": "hg-117-2007",
    "path": "hg/2007/117",
    "short": "HG nr. 117/2007",
@@ -133768,6 +133858,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/289005",
      "sha256": "7d94906e13e6662ecac274f7199c6553c1f3931e08a3124bc10255b0cbc530c2"
+    }
+   ]
+  },
+  {
+   "slug": "hg-118-2005",
+   "path": "hg/2005/118",
+   "short": "HG nr. 118/2005",
+   "title": "Hotărârea Guvernului nr. 118/2005 privind modificarea componenţei Comisiei de privatizare a Băncii Comerciale Române - S.A., prevăzută la art. 1 din Hotărârea Guvernului nr. 326/2001",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/59547",
+   "versions": [
+    {
+     "from": "2005-02-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59547",
+     "sha256": "4aebe431d7fe11cfa984e36bc553600d50cbf3668175d8b57ef15ebf11b90ca1"
     }
    ]
   },
@@ -138757,6 +138862,21 @@
      "units": 9,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/260212",
      "sha256": "bee70d010e9502b23f3f01bb3ed3ffa497ca7008a13e34bdf27a983c21654074"
+    }
+   ]
+  },
+  {
+   "slug": "hg-121-2005",
+   "path": "hg/2005/121",
+   "short": "HG nr. 121/2005",
+   "title": "Hotărârea Guvernului nr. 121/2005 pentru aprobarea bugetului de venituri şi cheltuieli pe anul 2005 al Regiei Autonome \"Editura Didactică şi Pedagogică\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/59575",
+   "versions": [
+    {
+     "from": "2005-03-01",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59575",
+     "sha256": "328bb06cdca872a739975e41fe3efd8347bce3c3991035c6171c63446fbbd813"
     }
    ]
   },
@@ -147311,6 +147431,21 @@
    ]
   },
   {
+   "slug": "hg-127-2005",
+   "path": "hg/2005/127",
+   "short": "HG nr. 127/2005",
+   "title": "Hotărârea Guvernului nr. 127/2005 privind asigurarea hârtiei necesare pentru organizarea şi desfăşurarea alegerilor locale parţiale din perioada 2005-2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/59665",
+   "versions": [
+    {
+     "from": "2005-03-04",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59665",
+     "sha256": "14b5599704da1b995306b3355a3b56cfa7621af5352172368fcacf92085ac88a"
+    }
+   ]
+  },
+  {
    "slug": "hg-127-2006",
    "path": "hg/2006/127",
    "short": "HG nr. 127/2006",
@@ -150295,6 +150430,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/289952",
      "sha256": "dc870e64d43cb5ef34cd54042f518a719d7ecb6c10d408d44260f24c5c7cc68c"
+    }
+   ]
+  },
+  {
+   "slug": "hg-129-2005",
+   "path": "hg/2005/129",
+   "short": "HG nr. 129/2005",
+   "title": "Hotărârea Guvernului nr. 129/2005 privind transmiterea unor bunuri imobile în proprietatea publică a unor unităţi administrativ-teritoriale din judeţul Hunedoara şi în administrarea consiliilor locale ale acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/59908",
+   "versions": [
+    {
+     "from": "2005-03-11",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59908",
+     "sha256": "70acc4dc64c20f2f1166db8e673ffd7a71c1844fe13b6923f699dd4b75ef4184"
     }
    ]
   },
@@ -153476,6 +153626,21 @@
    ]
   },
   {
+   "slug": "hg-131-2005",
+   "path": "hg/2005/131",
+   "short": "HG nr. 131/2005",
+   "title": "Hotărârea Guvernului nr. 131/2005 privind trecerea unor construcţii aflate în administrarea Ministerului Administraţiei şi Internelor din domeniul public al statului în domeniul privat al acestuia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/59789",
+   "versions": [
+    {
+     "from": "2005-03-10",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59789",
+     "sha256": "19acf074299bef181a9e2b0aef6b5d961aae1084ab8e06b8a4b599eafba83a98"
+    }
+   ]
+  },
+  {
    "slug": "hg-131-2007",
    "path": "hg/2007/131",
    "short": "HG nr. 131/2007",
@@ -154675,6 +154840,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/290079",
      "sha256": "0a25539c218dbe77f220cb5b66628734696d7eb4d9114998c1bdde2907d66104"
+    }
+   ]
+  },
+  {
+   "slug": "hg-132-2005",
+   "path": "hg/2005/132",
+   "short": "HG nr. 132/2005",
+   "title": "Hotărârea Guvernului nr. 132/2005 privind aprobarea Protocolului celei de-a doua reuniuni a Comisiei mixte româno-ungare pentru realizarea prevederilor Acordului dintre Guvernul României şi Guvernul Republicii Ungare privind cooperarea în domeniul protecţiei mediului, semnat la Bucureşti la 19 noiembrie 2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/60033",
+   "versions": [
+    {
+     "from": "2005-03-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/60033",
+     "sha256": "b625261768f1e480d2ea1af5d5fa74d53d49215a71c0f480b8161ff70e1dea19"
     }
    ]
   },
@@ -155899,6 +156079,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/41763",
      "sha256": "7cad29df6aee4f166ca5e55b9195d7787253fac7f8e2f11c8e43346f2483c515"
+    }
+   ]
+  },
+  {
+   "slug": "hg-133-2005",
+   "path": "hg/2005/133",
+   "short": "HG nr. 133/2005",
+   "title": "Hotărârea Guvernului nr. 133/2005 pentru aprobarea Memorandumului de înţelegere în domeniul tehnologiei informaţiei şi al comunicaţiilor dintre Ministerul Comunicaţiilor şi Tehnologiei Informaţiei din România şi Ministerul Delegat al Industriei din Republica Franceză, semnat la Bucureşti la 27 septembrie 2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/59722",
+   "versions": [
+    {
+     "from": "2005-03-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59722",
+     "sha256": "692370f0b52d02eaf3d82f574abdd4c747831dda975179f9e330ee720ad911a2"
     }
    ]
   },
@@ -158099,6 +158294,21 @@
    ]
   },
   {
+   "slug": "hg-135-2005",
+   "path": "hg/2005/135",
+   "short": "HG nr. 135/2005",
+   "title": "Hotărârea Guvernului nr. 135/2005 pentru aprobarea Memorandumului de înţelegere dintre Ministerul Comunicaţiilor şi Tehnologiei Informaţiei din România şi Ministerul Informaţiei şi Comunicaţiilor din Republica Ungara privind cooperarea în domeniul comunicaţiilor şi tehnologiei informaţiei, semnat la Budapesta la 14 ianuarie 2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/59756",
+   "versions": [
+    {
+     "from": "2005-03-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59756",
+     "sha256": "8d0a1db3881f5d714b6f6a263e6e0a4a9f35642b8e21f14f0ada14bb0d908c0a"
+    }
+   ]
+  },
+  {
    "slug": "hg-135-2008",
    "path": "hg/2008/135",
    "short": "HG nr. 135/2008",
@@ -159055,6 +159265,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/290379",
      "sha256": "2cd063b9d0b548c2f61ac6698478ac02cf6cc5a5ea5f236556abe022b354ffc4"
+    }
+   ]
+  },
+  {
+   "slug": "hg-136-2005",
+   "path": "hg/2005/136",
+   "short": "HG nr. 136/2005",
+   "title": "Hotărârea Guvernului nr. 136/2005 pentru aprobarea Memorandumului de înţelegere dintre Ministerul Comunicaţiilor şi Tehnologiei Informaţiei din România şi Ministerul Comunicaţiilor şi Tehnologiei Informaţiei din Republica Arabă Egipt privind cooperarea în domeniul comunicaţiilor şi tehnologiei informaţiei, semnat la Bucureşti la 28 septembrie 2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/59724",
+   "versions": [
+    {
+     "from": "2005-03-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59724",
+     "sha256": "3403355bfefe1e8c762e053bb9ffcad101a165c20b9123519f15cbe65b3d2295"
     }
    ]
   },
@@ -160138,6 +160363,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/290414",
      "sha256": "5d4b5b94ef5b64b3a3d81af1de213f39653ed81d142ee11ccba40e546b38ef74"
+    }
+   ]
+  },
+  {
+   "slug": "hg-137-2005",
+   "path": "hg/2005/137",
+   "short": "HG nr. 137/2005",
+   "title": "Hotărârea Guvernului nr. 137/2005 pentru aprobarea amendamentului convenit prin schimbul de scrisori semnate la Bucureşti la 25 noiembrie 2004 şi la Zagreb la 5 ianuarie 2005 între Guvernul României şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare la Acordul de împrumut pentru Proiectul de dezvoltare instituţională a sectorului privat şi public, semnat la Bucureşti la 13 septembrie 2002 între România şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/59733",
+   "versions": [
+    {
+     "from": "2005-03-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59733",
+     "sha256": "ed1d61621db76dd834b10610d749b9ee752d75c89f28c4a1905a3a4ccfa9e9a6"
     }
    ]
   },
@@ -168119,6 +168359,21 @@
    ]
   },
   {
+   "slug": "hg-145-2005",
+   "path": "hg/2005/145",
+   "short": "HG nr. 145/2005",
+   "title": "Hotărârea Guvernului nr. 145/2005 privind aprobarea bugetelor de venituri şi cheltuieli pe anul 2005 ale agenţilor economici monitorizaţi conform Ordonanţei de urgenţă a Guvernului nr. 79/2001 , care funcţionează sub autoritatea Ministerului Transporturilor, Construcţiilor şi Turismului, a pachetului minim necesar de servicii publice de transport feroviar de călători pentru Compania Naţională a Căilor Ferate \"C.F.R.\" - S.A., precum şi a unor programe ale Societăţii Comerciale \"Compania Naţională de Transporturi Aeriene Române - TAROM\" - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/59667",
+   "versions": [
+    {
+     "from": "2005-03-04",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59667",
+     "sha256": "39c739bfb7adf538974c2ac2cbdc27a8a0f850932bdd2ed0c2867dbdeefa3130"
+    }
+   ]
+  },
+  {
    "slug": "hg-145-2009",
    "path": "hg/2009/145",
    "short": "HG nr. 145/2009",
@@ -170023,6 +170278,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/41876",
      "sha256": "41363cf4ad3450d632d94085de9a09b76a1bb93ece886e894622ae3ce87eb00e"
+    }
+   ]
+  },
+  {
+   "slug": "hg-147-2005",
+   "path": "hg/2005/147",
+   "short": "HG nr. 147/2005",
+   "title": "Hotărârea Guvernului nr. 147/2005 pentru aprobarea bugetului de venituri şi cheltuieli pe anul 2005 al Administraţiei Naţionale de Meteorologie, aflată sub autoritatea Ministerului Mediului şi Gospodăririi Apelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/59669",
+   "versions": [
+    {
+     "from": "2005-03-04",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59669",
+     "sha256": "80521a299fee29c0933c64b47d6e621f3d659d1798655cf873935a9379f1d33d"
     }
    ]
   },
@@ -174043,6 +174313,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/41878",
      "sha256": "fce060822c2719d7ae78ce002b38301065ec5914ac33ee47c1eeb9d3505c3e00"
+    }
+   ]
+  },
+  {
+   "slug": "hg-151-2005",
+   "path": "hg/2005/151",
+   "short": "HG nr. 151/2005",
+   "title": "Hotărârea Guvernului nr. 151/2005 privind aprobarea bugetului de venituri şi cheltuieli pe anul 2005 al Companiei Naţionale a Imprimeriilor \"Coresi\" - S.A., aflată sub autoritatea Ministerului Culturii şi Cultelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/59673",
+   "versions": [
+    {
+     "from": "2005-03-07",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59673",
+     "sha256": "853a67d6194af5a7940df929b9a6b39a9b5975b4e2d6bcef2bf49fe8441c1c85"
     }
    ]
   },
@@ -196988,6 +197273,21 @@
    ]
   },
   {
+   "slug": "hg-19-2005",
+   "path": "hg/2005/19",
+   "short": "HG nr. 19/2005",
+   "title": "Hotărârea Guvernului nr. 19/2005 privind numirea domnului Giugea Nicolae în funcţia de prefect al judeţului Dolj",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/58424",
+   "versions": [
+    {
+     "from": "2005-01-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58424",
+     "sha256": "9b029f2153a47a55996a8fb69d416647e9ea0cf4ec04a61c85f416a5973fe61b"
+    }
+   ]
+  },
+  {
    "slug": "hg-19-2009",
    "path": "hg/2009/19",
    "short": "HG nr. 19/2009",
@@ -210557,6 +210857,21 @@
    ]
   },
   {
+   "slug": "hg-25-2005",
+   "path": "hg/2005/25",
+   "short": "HG nr. 25/2005",
+   "title": "Hotărârea Guvernului nr. 25/2005 privind numirea domnului Cazacu Marinică în funcţia de prefect al judeţului Ialomiţa",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/58430",
+   "versions": [
+    {
+     "from": "2005-01-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58430",
+     "sha256": "3e6e48fa4a78983f1758f883b74b7704b124018763575ae3c96f60bef6e7b638"
+    }
+   ]
+  },
+  {
    "slug": "hg-25-2013",
    "path": "hg/2013/25",
    "short": "HG nr. 25/2013",
@@ -215179,6 +215494,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/295755",
      "sha256": "b5e8a05dfb63839a7d04f1984efef49a0e992ec89c89632d0e4392a7aa9a2918"
+    }
+   ]
+  },
+  {
+   "slug": "hg-27-2005",
+   "path": "hg/2005/27",
+   "short": "HG nr. 27/2005",
+   "title": "Hotărârea Guvernului nr. 27/2005 privind numirea domnului Petrache Marian în funcţia de prefect al judeţului Ilfov",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/58432",
+   "versions": [
+    {
+     "from": "2005-01-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58432",
+     "sha256": "6596c15f5e290838ba239059899040f5635190ffb3010afae99fe06a7bdc0e62"
     }
    ]
   },
@@ -222305,6 +222635,21 @@
    ]
   },
   {
+   "slug": "hg-30-2005",
+   "path": "hg/2005/30",
+   "short": "HG nr. 30/2005",
+   "title": "Hotărârea Guvernului nr. 30/2005 privind numirea domnului Mocanu Toader în funcţia de prefect al judeţului Neamţ",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/58435",
+   "versions": [
+    {
+     "from": "2005-01-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58435",
+     "sha256": "1d09a30f497e04acc6b686a6e217e651143ced2d94442ed8602e7d590ded140a"
+    }
+   ]
+  },
+  {
    "slug": "hg-30-2009",
    "path": "hg/2009/30",
    "short": "HG nr. 30/2009",
@@ -224737,6 +225082,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/41780",
      "sha256": "3d41dbc99e70d91fbfb5517b34897630cad3b9e50043d5421b1e7e395073814c"
+    }
+   ]
+  },
+  {
+   "slug": "hg-31-2005",
+   "path": "hg/2005/31",
+   "short": "HG nr. 31/2005",
+   "title": "Hotărârea Guvernului nr. 31/2005 privind numirea domnului Popescu Octavian în funcţia de prefect al judeţului Olt",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/58436",
+   "versions": [
+    {
+     "from": "2005-01-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58436",
+     "sha256": "42a98e0af42a77dbc3919916e94104d4b57dc0d43957afd0a1f6e31b80e2300c"
     }
    ]
   },
@@ -227213,6 +227573,21 @@
    ]
   },
   {
+   "slug": "hg-32-2005",
+   "path": "hg/2005/32",
+   "short": "HG nr. 32/2005",
+   "title": "Hotărârea Guvernului nr. 32/2005 privind numirea domnului Popescu Corneliu în funcţia de prefect al judeţului Prahova",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/58437",
+   "versions": [
+    {
+     "from": "2005-01-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58437",
+     "sha256": "4c7519aa9470f57b64736f1c114ea6a28fa6aac8c2195717975703ecd4e15ead"
+    }
+   ]
+  },
+  {
    "slug": "hg-32-2010",
    "path": "hg/2010/32",
    "short": "HG nr. 32/2010",
@@ -229501,6 +229876,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/296539",
      "sha256": "deadb26cb2dcd8bed9362673ee37783cd7957c56983a5b122e6695ba94880922"
+    }
+   ]
+  },
+  {
+   "slug": "hg-33-2005",
+   "path": "hg/2005/33",
+   "short": "HG nr. 33/2005",
+   "title": "Hotărârea Guvernului nr. 33/2005 privind numirea domnului Bud Radu în funcţia de prefect al judeţului Satu Mare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/58438",
+   "versions": [
+    {
+     "from": "2005-01-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58438",
+     "sha256": "b7e6d63e49e049f67f58a97af87de47c9b8b99dc74cf7387b3658ebb9a35ea0d"
     }
    ]
   },
@@ -236741,6 +237131,21 @@
    ]
   },
   {
+   "slug": "hg-36-2005",
+   "path": "hg/2005/36",
+   "short": "HG nr. 36/2005",
+   "title": "Hotărârea Guvernului nr. 36/2005 privind numirea domnului Onofrei Orest în funcţia de prefect al judeţului Suceava",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/58442",
+   "versions": [
+    {
+     "from": "2005-01-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58442",
+     "sha256": "c4e86b331c160ec91ce3114ddb441467f90d3d85c609c26af8df0292c0a76e76"
+    }
+   ]
+  },
+  {
    "slug": "hg-36-2008",
    "path": "hg/2008/36",
    "short": "HG nr. 36/2008",
@@ -241642,6 +242047,21 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16773",
      "sha256": "a86cd82c5007c91b4c1ff678a73ca941ff351caf6f2382b2625aab1b0a005617"
+    }
+   ]
+  },
+  {
+   "slug": "hg-38-2005",
+   "path": "hg/2005/38",
+   "short": "HG nr. 38/2005",
+   "title": "Hotărârea Guvernului nr. 38/2005 privind numirea domnului Drăgănescu Ovidiu-Virgil în funcţia de prefect al judeţului Timiş",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/58444",
+   "versions": [
+    {
+     "from": "2005-01-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58444",
+     "sha256": "722b539202d09a910e8cd0a8893c261f5ba279e3149b79a0a0c4c29d25305d65"
     }
    ]
   },
@@ -246556,6 +246976,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/293675",
      "sha256": "0cf812de86f5406f61b16b713d8a76a448143d1842e5897c3e4df10b2073a698"
+    }
+   ]
+  },
+  {
+   "slug": "hg-40-2005",
+   "path": "hg/2005/40",
+   "short": "HG nr. 40/2005",
+   "title": "Hotărârea Guvernului nr. 40/2005 privind numirea domnului Toderică Paul în funcţia de prefect al judeţului Vaslui",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/58446",
+   "versions": [
+    {
+     "from": "2005-01-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58446",
+     "sha256": "399d1ac6766bae632c586eccb6ec19a1f3f040ba8ac40acd9b856f490eeebc22"
     }
    ]
   },
@@ -253429,6 +253864,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/297086",
      "sha256": "2478c484e0e38401722ab7946d8c53256df7fe12b5be98d21f44be285c6c9644"
+    }
+   ]
+  },
+  {
+   "slug": "hg-43-2005",
+   "path": "hg/2005/43",
+   "short": "HG nr. 43/2005",
+   "title": "Hotărârea Guvernului nr. 43/2005 privind numirea domnului Diaconu Ion în funcţia de prefect al judeţului Botoşani",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/58603",
+   "versions": [
+    {
+     "from": "2005-01-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58603",
+     "sha256": "37edc267d232d469add847cd1c1acdbe54e63bae823c49f113a7171a8fe8224c"
     }
    ]
   },
@@ -260686,6 +261136,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/297958",
      "sha256": "3c050db5538a636cc4db5008fa46c0290ba4678f428a6929fa009560489b1734"
+    }
+   ]
+  },
+  {
+   "slug": "hg-46-2005",
+   "path": "hg/2005/46",
+   "short": "HG nr. 46/2005",
+   "title": "Hotărârea Guvernului nr. 46/2005 privind numirea domnului Şerban Jenel în funcţia de prefect al judeţului Călăraşi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/58604",
+   "versions": [
+    {
+     "from": "2005-01-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58604",
+     "sha256": "cb5a0de93ce11ca510606430358536469542be7c85ceeb7519e3811bd97aacb4"
     }
    ]
   },
@@ -273650,6 +274115,21 @@
    ]
   },
   {
+   "slug": "hg-51-2005",
+   "path": "hg/2005/51",
+   "short": "HG nr. 51/2005",
+   "title": "Hotărârea Guvernului nr. 51/2005 privind eliberarea domnului Silvian Ionescu, la cerere, din funcţia de prefect al municipiului Bucureşti",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/58600",
+   "versions": [
+    {
+     "from": "2005-01-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58600",
+     "sha256": "3f2baac264e992f1bf02b7b36a4137cb8b3a28527601a445b3dc26ef6155393f"
+    }
+   ]
+  },
+  {
    "slug": "hg-51-2007",
    "path": "hg/2007/51",
    "short": "HG nr. 51/2007",
@@ -286457,6 +286937,21 @@
    ]
   },
   {
+   "slug": "hg-56-2005",
+   "path": "hg/2005/56",
+   "short": "HG nr. 56/2005",
+   "title": "Hotărârea Guvernului nr. 56/2005 privind acordarea subvenţiilor şi transferurilor pe anul 2005 la Ministerul Economiei şi Comerţului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/58752",
+   "versions": [
+    {
+     "from": "2005-01-21",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58752",
+     "sha256": "2b8c98198ecdb281693535b7add1e4b191d7f370e099665f72d4910e4b3b6439"
+    }
+   ]
+  },
+  {
    "slug": "hg-56-2006",
    "path": "hg/2006/56",
    "short": "HG nr. 56/2006",
@@ -291271,6 +291766,21 @@
      "units": 0,
      "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/74132",
      "sha256": "1ac487ad03d12b61dde36aea36e984a07e2e8a3323d9b735e99c43c40282c3ec"
+    }
+   ]
+  },
+  {
+   "slug": "hg-58-2005",
+   "path": "hg/2005/58",
+   "short": "HG nr. 58/2005",
+   "title": "Hotărârea Guvernului nr. 58/2005 privind numirea doamnei Mantale Mioara în funcţia de prefect al municipiului Bucureşti",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/58799",
+   "versions": [
+    {
+     "from": "2005-01-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58799",
+     "sha256": "7afd162abe0ee8f60277e288df6db03e26a43a8e41a0e69020b1b41d4bcb1af5"
     }
    ]
   },
@@ -303934,6 +304444,21 @@
      "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/300520",
      "sha256": "0c786d781ac6fdcee84b4535c5128f6e3868116f0ed018549fba3b4613ad2d6f"
+    }
+   ]
+  },
+  {
+   "slug": "hg-63-2005",
+   "path": "hg/2005/63",
+   "short": "HG nr. 63/2005",
+   "title": "Hotărârea Guvernului nr. 63/2005 privind suplimentarea bugetului Ministerului Culturii şi Cultelor din Fondul de rezervă bugetară la dispoziţia Guvernului pe anul 2005 pentru Teatrul Naţional de Operetă \"Ion Dacian\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/58906",
+   "versions": [
+    {
+     "from": "2005-01-28",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58906",
+     "sha256": "e3913a354037c586c4088f1e6910ed7c62ccc33b289bb15227d664e44948997c"
     }
    ]
   },
@@ -321721,6 +322246,21 @@
      "units": 3,
      "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/221961",
      "sha256": "65332943579f2aa3e113cee708b44e3510dce98c8029881ed5d29fb3db600c90"
+    }
+   ]
+  },
+  {
+   "slug": "hg-70-2005",
+   "path": "hg/2005/70",
+   "short": "HG nr. 70/2005",
+   "title": "Hotărârea Guvernului nr. 70/2005 pentru aprobarea Normelor privind organizarea în ţară a acţiunilor de protocol, specifice Ministerului Afacerilor Externe, precum şi cheltuielile ce se pot efectua în acest scop",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/59100",
+   "versions": [
+    {
+     "from": "2005-02-08",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59100",
+     "sha256": "8c6995c820bde0912cef7cdd863f5e1566fac7642c464cf999e869168935e33d"
     }
    ]
   },
@@ -348854,6 +349394,21 @@
    ]
   },
   {
+   "slug": "hg-81-2005",
+   "path": "hg/2005/81",
+   "short": "HG nr. 81/2005",
+   "title": "Hotărârea Guvernului nr. 81/2005 privind darea în administrarea Ministerului Muncii, Solidarităţii Sociale şi Familiei, pentru Casa de Pensii a Municipiului Bucureşti, a unui imobil proprietate publică a statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/59105",
+   "versions": [
+    {
+     "from": "2005-02-08",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59105",
+     "sha256": "fb4b5a8497e0cb88b157071b133ac410ad1d1e1638cc9d28ca30ce59a1855bff"
+    }
+   ]
+  },
+  {
    "slug": "hg-81-2006",
    "path": "hg/2006/81",
    "short": "HG nr. 81/2006",
@@ -351466,6 +352021,21 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/302772",
      "sha256": "8852a61382d22745e046b294ef416f1884146d223de336d4b44669eb9a0cad15"
+    }
+   ]
+  },
+  {
+   "slug": "hg-82-2005",
+   "path": "hg/2005/82",
+   "short": "HG nr. 82/2005",
+   "title": "Hotărârea Guvernului nr. 82/2005 privind organizarea acţiunilor de lansare a Centrului de Studii Ebraice de la Iaşi, în perioada 14-16 februarie 2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/59106",
+   "versions": [
+    {
+     "from": "2005-02-08",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59106",
+     "sha256": "96885f5211fdc83066ef0b44583ab2727a01b1e532944fa24c52b5a725076ed4"
     }
    ]
   },
@@ -358774,6 +359344,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53524",
      "sha256": "03375ab19ec87ffa3e5191faa53e3634f8572568cde147333ead2f03958be684"
+    }
+   ]
+  },
+  {
+   "slug": "hg-85-2005",
+   "path": "hg/2005/85",
+   "short": "HG nr. 85/2005",
+   "title": "Hotărârea Guvernului nr. 85/2005 privind unele măsuri pentru derularea şi finalizarea privatizării, precum şi modificarea şi completarea Strategiei de privatizare a Societăţii Comerciale Filiala de Distribuţie şi Furnizare a Energiei Electrice \"Electrica Moldova\" - S.A. şi a Societăţii Comerciale Filiala de Distribuţie şi Furnizare a Energiei Electrice \"Electrica Oltenia\" - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/59303",
+   "versions": [
+    {
+     "from": "2005-02-16",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59303",
+     "sha256": "b2a94b408f360d5d1bc1942b2f86161eece9db062b9444d26358a2f4496e226a"
     }
    ]
   },
@@ -368981,6 +369566,21 @@
    ]
   },
   {
+   "slug": "hg-89-2005",
+   "path": "hg/2005/89",
+   "short": "HG nr. 89/2005",
+   "title": "Hotărârea Guvernului nr. 89/2005 pentru aprobarea plăţii contribuţiilor voluntare, în lei, ale României la programele şi fondurile de dezvoltare ale O.N.U. pe anul 2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/59288",
+   "versions": [
+    {
+     "from": "2005-02-14",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59288",
+     "sha256": "b414a850843bb3f6a9879f1c1e95c404770db6b08fddb8912904ba01d9a5797c"
+    }
+   ]
+  },
+  {
    "slug": "hg-89-2007",
    "path": "hg/2007/89",
    "short": "HG nr. 89/2007",
@@ -371747,6 +372347,21 @@
    ]
   },
   {
+   "slug": "hg-90-2005",
+   "path": "hg/2005/90",
+   "short": "HG nr. 90/2005",
+   "title": "Hotărârea Guvernului nr. 90/2005 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru judeţul Alba",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/59289",
+   "versions": [
+    {
+     "from": "2005-02-14",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59289",
+     "sha256": "7a38bfc3d70b849ed410142e9c3385f366b2ab73617e63a1e8351066b9a8c930"
+    }
+   ]
+  },
+  {
    "slug": "hg-90-2006",
    "path": "hg/2006/90",
    "short": "HG nr. 90/2006",
@@ -374372,6 +374987,21 @@
    ]
   },
   {
+   "slug": "hg-91-2005",
+   "path": "hg/2005/91",
+   "short": "HG nr. 91/2005",
+   "title": "Hotărârea Guvernului nr. 91/2005 privind aprobarea bugetului de venituri şi cheltuieli pe anul 2005 al Autorităţii Naţionale de Reglementare pentru Serviciile Publice de Gospodărie Comunală",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/59322",
+   "versions": [
+    {
+     "from": "2005-02-15",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59322",
+     "sha256": "32b2f9cf8b90f56e59203e61a90fc12a1d34561882edcccbe153f7d3b940493a"
+    }
+   ]
+  },
+  {
    "slug": "hg-91-2006",
    "path": "hg/2006/91",
    "short": "HG nr. 91/2006",
@@ -376774,6 +377404,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/41979",
      "sha256": "0c24c450d9d845b517c439af5baf09f019f46a71f6da53b5904142261d8d089b"
+    }
+   ]
+  },
+  {
+   "slug": "hg-92-2005",
+   "path": "hg/2005/92",
+   "short": "HG nr. 92/2005",
+   "title": "Hotărârea Guvernului nr. 92/2005 privind aprobarea hotărârilor adoptate prin Protocolul Sesiunii a IV-a a Împuterniciţilor, semnat la Cernăuţi la 3 decembrie 2004, pentru aplicarea Acordului dintre Guvernul României şi Guvernul Ucrainei privind cooperarea în domeniul gospodăririi apelor de frontieră, semnat la Galaţi la 30 septembrie 1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/59277",
+   "versions": [
+    {
+     "from": "2005-02-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59277",
+     "sha256": "dcc17cf773d7d33fbd350bba748fb6a3464c873beeea113093d4c3e4e38693b0"
     }
    ]
   },
@@ -379382,6 +380027,21 @@
    ]
   },
   {
+   "slug": "hg-93-2005",
+   "path": "hg/2005/93",
+   "short": "HG nr. 93/2005",
+   "title": "Hotărârea Guvernului nr. 93/2005 pentru aprobarea amendamentelor convenite prin scrisoarea-acord, semnată la Zagreb la 21 octombrie 2004 şi la Bucureşti la 10 noiembrie 2004, între Guvernul României şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare, la Acordul de împrumut dintre România şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare pentru realizarea Proiectului de finanţare rurală, semnat la Washington D.C. la 30 aprilie 2001",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/59296",
+   "versions": [
+    {
+     "from": "2005-02-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59296",
+     "sha256": "5e34de2c167d6ab3690ef0d44cf356b67d6c1b170baf6e0bbfd107bfb315a868"
+    }
+   ]
+  },
+  {
    "slug": "hg-93-2006",
    "path": "hg/2006/93",
    "short": "HG nr. 93/2006",
@@ -381844,6 +382504,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/275190",
      "sha256": "41be966623b46ec986d6c77beb962dd11a7a21657e92b2548fb6bc39cdca1bb9"
+    }
+   ]
+  },
+  {
+   "slug": "hg-94-2005",
+   "path": "hg/2005/94",
+   "short": "HG nr. 94/2005",
+   "title": "Hotărârea Guvernului nr. 94/2005 privind numirea în funcţia de preşedinte al Comitetului interministerial de coordonare a organizării şi funcţionării pieţelor produselor agricole şi alimentare în România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/59278",
+   "versions": [
+    {
+     "from": "2005-02-14",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59278",
+     "sha256": "a16e5d6c64b3e905f13887b87d609b5a48ee9767f8bf3f29bb7d130cbb1296d0"
     }
    ]
   },
@@ -384442,6 +385117,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/304229",
      "sha256": "3616224c89b4e2e0e79fa5088631c1372095a82f60e70596a0061c6648fb3d35"
+    }
+   ]
+  },
+  {
+   "slug": "hg-95-2005",
+   "path": "hg/2005/95",
+   "short": "HG nr. 95/2005",
+   "title": "Hotărârea Guvernului nr. 95/2005 pentru modificarea şi completarea Hotărârii Guvernului nr. 799/1990 privind recunoaşterea înfiinţării unor camere de comerţ şi industrie teritoriale judeţene",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/59221",
+   "versions": [
+    {
+     "from": "2005-02-14",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59221",
+     "sha256": "d80e2f09ded907f624f98fe4b6d7a9df21e1096fbc651f094bcdbcd2b1ae24dd"
     }
    ]
   },
@@ -392050,6 +392740,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/287378",
      "sha256": "df29c5e0c0cfe0653392d554b8666eeddb8201a459637abc254a40659cf2bfe1"
+    }
+   ]
+  },
+  {
+   "slug": "hg-98-2005",
+   "path": "hg/2005/98",
+   "short": "HG nr. 98/2005",
+   "title": "Hotărârea Guvernului nr. 98/2005 privind numirea unui consul general",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/59356",
+   "versions": [
+    {
+     "from": "2005-02-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59356",
+     "sha256": "58b1a59deecd6cca295e7b4ff8d960d7e45f59f463c0dba79428cd11099b451b"
     }
    ]
   },
