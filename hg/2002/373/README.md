@@ -1,0 +1,34 @@
+# Hotărârea Guvernului nr. 373/2002 privind organizarea şi funcţionarea Autorităţii Naţionale de Reglementare pentru Serviciile Publice de Gospodărie Comunală - A.N.R.S.C
+
+HG nr. 373/2002 · 1 versions, from 2002-05-23 (latest in force: 2002-05-23) · <https://legislatie.just.ro/Public/DetaliiDocument/35501>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Art. 1 | [art-001.md](art-001.md) | 0 |  |
+| Art. 2 | [art-002.md](art-002.md) | 0 |  |
+| Art. 3 | [art-003.md](art-003.md) | 0 |  |
+| Art. 4 | [art-004.md](art-004.md) | 0 |  |
+| Art. 5 | [art-005.md](art-005.md) | 0 |  |
+| Art. 6 | [art-006.md](art-006.md) | 0 |  |
+| Art. 7 | [art-007.md](art-007.md) | 0 |  |
+| Art. 8 | [art-008.md](art-008.md) | 0 |  |
+| Art. 9 | [art-009.md](art-009.md) | 0 |  |
+| Art. 10 | [art-010.md](art-010.md) | 0 |  |
+| Art. 11 | [art-011.md](art-011.md) | 0 |  |
+| Art. 12 | [art-012.md](art-012.md) | 0 |  |
+| Art. 13 | [art-013.md](art-013.md) | 0 |  |
+| Art. 14 | [art-014.md](art-014.md) | 0 |  |
+| Art. 15 | [art-015.md](art-015.md) | 0 |  |
+| Art. 16 | [art-016.md](art-016.md) | 0 |  |
+| Art. 17 | [art-017.md](art-017.md) | 0 |  |
+| Art. 18 | [art-018.md](art-018.md) | 0 |  |
+| Art. 19 | [art-019.md](art-019.md) | 0 |  |
+
+Act id: `hg-373-2002` (tags `hg-373-2002/<day>`; `python tools/on.py <day> hg-373-2002`).
+
+## Decisions made by hand
+
+- HG nr. 373/2002: added from the official web service of the Portalul legislativ (FreeWebService): its only version is the act as published (document 35501, retrieved 2026-11-02). No consolidated form exists: a full-text search of the official web service on 2026-11-04 finds no act changing it ().
+- HG nr. 373/2002: added by Lexifina's automatic pass with the default rules, and no rule or ruling made for this act alone was applied. It was published only because every automatic check that applies to an act known from the official web service alone passed: two parses identical, issuer, number and in-force day confirmed by the service, and no act changing it found by the full-text search.
+- HG nr. 373/2002: the first version is the Government decision as published in Monitorul Oficial nr. 272 of 23 April 2002 (document 35501 of the official web service), dated 23 May 2002: its art. 19 puts it in force 30 days after publication. No consolidated form of it exists, so the text as published is its only version; no page of the act is held.
+- HG nr. 373/2002: AMENDMENTS NOT APPLIED. This act was amended (by: hg-1049-2002 ARE nr. 1.049 din 19 septembrie 2002 pentru modificarea alin. (2) al art. 1 din ; hg-437-2004  HOTARARE nr. 437 din 23 martie 2004 pentru modificarea si completarea Hotararii;  podarie comunala nr. 326/2001 , cu modificarile si completarile ulterioare, ale ; (5) si (6) din Hotararea Guvernului nr. 373/2002 , cu modificarile si completari; (5) si (6) din Hotararea Guvernului nr. 373/2002 , cu modificarile si completari; (5) si (6) din Hotararea Guvernului nr. 373/2002 , cu modificarile si completari;  pct. 11 din Hotararea Guvernului nr. 437/2004 pentru modificarea si completarea ; legea-51-2006 tea I, nr. 359 din 4 iulie 2001, cu modificarile si completarile ulterioare, si ; and 2 more), but the Portalul legislativ publishes no consolidated text of it: its current text there is the act as published (checked against a copy of the portal's texts of 3 November 2026). This record therefore holds only the act as published, as the official web service returns it (FreeWebService, http://legislatie.just.ro/apiws/FreeWebService.svc), document 35501, retrieved 2026-11-02; read the amending acts for the text in force.
