@@ -205100,6 +205100,111 @@
    ]
   },
   {
+   "slug": "hg-2240-2004",
+   "path": "hg/2004/2240",
+   "short": "HG nr. 2240/2004",
+   "title": "Hotărârea Guvernului nr. 2240/2004 privind suplimentarea bugetului Ministerului Justiţiei din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/57797",
+   "versions": [
+    {
+     "from": "2004-12-16",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/57797",
+     "sha256": "8abd5bcaaecd2fd949a3e7bac11b93365a65766947e5fad5f7fe6a79badae20a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-2241-2004",
+   "path": "hg/2004/2241",
+   "short": "HG nr. 2241/2004",
+   "title": "Hotărârea Guvernului nr. 2241/2004 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2004, pentru judeţul Prahova",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/57798",
+   "versions": [
+    {
+     "from": "2004-12-16",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/57798",
+     "sha256": "4004f3b0bd5a907200cad8ecfa4ea65b81693a6918380d2527dc5f660d47c84e"
+    }
+   ]
+  },
+  {
+   "slug": "hg-2242-2004",
+   "path": "hg/2004/2242",
+   "short": "HG nr. 2242/2004",
+   "title": "Hotărârea Guvernului nr. 2242/2004 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2004, pentru judeţul Iaşi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/57799",
+   "versions": [
+    {
+     "from": "2004-12-16",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/57799",
+     "sha256": "d5a018be253c37b8ad1c12b4f9d580ab42d0cfc48187251312b87ae18a25ca5a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-2243-2004",
+   "path": "hg/2004/2243",
+   "short": "HG nr. 2243/2004",
+   "title": "Hotărârea Guvernului nr. 2243/2004 privind suplimentarea bugetului Ministerului Administraţiei şi Internelor din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/57800",
+   "versions": [
+    {
+     "from": "2004-12-16",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/57800",
+     "sha256": "110bfc9a073f38b24e20f8961c2ad743a42c810a44a452bb9cd73a747ca7df93"
+    }
+   ]
+  },
+  {
+   "slug": "hg-2245-2004",
+   "path": "hg/2004/2245",
+   "short": "HG nr. 2245/2004",
+   "title": "Hotărârea Guvernului nr. 2245/2004 privind aprobarea renunţării la cetăţenia română unor persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/58313",
+   "versions": [
+    {
+     "from": "2004-12-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58313",
+     "sha256": "2083f4ac923c29d8c9450d1b748928447a9c4374087b66de2cbd09f7b619d107"
+    }
+   ]
+  },
+  {
+   "slug": "hg-2248-2004",
+   "path": "hg/2004/2248",
+   "short": "HG nr. 2248/2004",
+   "title": "Hotărârea Guvernului nr. 2248/2004 privind suplimentarea bugetului Ministerului Educaţiei şi Cercetării din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/57762",
+   "versions": [
+    {
+     "from": "2004-12-15",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/57762",
+     "sha256": "062c8220ca9570bfa35eac5de842c423593da490d0cb587ff79b6d7a1b43c199"
+    }
+   ]
+  },
+  {
+   "slug": "hg-2249-2004",
+   "path": "hg/2004/2249",
+   "short": "HG nr. 2249/2004",
+   "title": "Hotărârea Guvernului nr. 2249/2004 pentru aprobarea bugetului de venituri şi cheltuieli rectificat pe anul 2004 al Administraţiei Naţionale a Îmbunătăţirilor Funciare, aflată sub autoritatea Ministerului Agriculturii, Pădurilor şi Dezvoltării Rurale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/57853",
+   "versions": [
+    {
+     "from": "2004-12-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/57853",
+     "sha256": "03aa203a31c26c27fd4e0da561e3b9bb8ad0e7c70ce7994674141b01e34917d3"
+    }
+   ]
+  },
+  {
    "slug": "hg-225-2007",
    "path": "hg/2007/225",
    "short": "HG nr. 225/2007",
@@ -205301,6 +205406,66 @@
    ]
   },
   {
+   "slug": "hg-2252-2004",
+   "path": "hg/2004/2252",
+   "short": "HG nr. 2252/2004",
+   "title": "Hotărârea Guvernului nr. 2252/2004 pentru modificarea alin. (1) al art. 3 din Hotărârea Guvernului nr. 82/2002 privind trecerea unor imobile din domeniul public al statului în domeniul privat al statului şi din administrarea Ministerului Justiţiei, a Ministerului Culturii şi Cultelor şi a Societăţii Române de Radiodifuziune în administrarea Ministerului Lucrărilor Publice, Transporturilor şi Locuinţei, precum şi mandatarea acestuia de a iniţia un program prioritar de reconversie funcţională a amplasamentului şi de finalizare a construcţiilor existente şi a anexei la Hotărârea Guvernului nr. 492/2002 pentru schimbarea denumirii amplasamentului situat în municipiul Bucureşti, str. Ştirbei Vodă, sectorul 1, din \"Muzeul Naţional de Istorie\" în \"Centrul Dâmboviţa\" şi aprobarea programului prioritar de reconversie funcţională a amplasamentului şi de finalizare a construcţiilor existente",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/57980",
+   "versions": [
+    {
+     "from": "2004-12-21",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/57980",
+     "sha256": "c427a5d1c58d9f34ecd077712fdfae59ba54092e8ecff9030f4df5f9f9751706"
+    }
+   ]
+  },
+  {
+   "slug": "hg-2254-2004",
+   "path": "hg/2004/2254",
+   "short": "HG nr. 2254/2004",
+   "title": "Hotărârea Guvernului nr. 2254/2004 privind stabilirea nivelului fondurilor publice care se acordă în anul 2005 conform prevederilor Legii creditului agricol pentru producţie nr. 150/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/57944",
+   "versions": [
+    {
+     "from": "2004-12-21",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/57944",
+     "sha256": "a677e0c1b33851d38aa964b3f2a94439a2f14a0119530b9a3d4d5bbec490f43a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-2257-2004",
+   "path": "hg/2004/2257",
+   "short": "HG nr. 2257/2004",
+   "title": "Hotărârea Guvernului nr. 2257/2004 privind transmiterea cu titlu gratuit a unor active cu caracter social, barajele Loranţa, Orvişele şi Corbeni, situate în judeţul Bihor, din domeniul privat al statului şi din patrimoniul Societăţii Comerciale de Producere a Energiei Electrice şi Termice \"Termoelectrica\" - S.A. în domeniul public al comunelor Brusturi şi Derna şi în administrarea consiliilor locale ale comunelor Brusturi şi Derna, judeţul Bihor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/57884",
+   "versions": [
+    {
+     "from": "2004-12-17",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/57884",
+     "sha256": "abfa5d33c25744f792ce96bbdcff6bc882f7a9339ef67bcdc240ccdd1d07b443"
+    }
+   ]
+  },
+  {
+   "slug": "hg-2258-2004",
+   "path": "hg/2004/2258",
+   "short": "HG nr. 2258/2004",
+   "title": "Hotărârea Guvernului nr. 2258/2004 pentru aprobarea concesionării unei părţi dintr-un imobil aflat în domeniul public al statului şi în administrarea Ministerului Apărării Naţionale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/57790",
+   "versions": [
+    {
+     "from": "2004-12-16",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/57790",
+     "sha256": "7ccbd015ddd8021c1b0cfac970e83bf0e3deb0741092779cccf5acfb296ab573"
+    }
+   ]
+  },
+  {
    "slug": "hg-226-2005",
    "path": "hg/2005/226",
    "short": "HG nr. 226/2005",
@@ -205477,6 +205642,51 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/295395",
      "sha256": "1cefb99ee383168e49bb6633634818b34aedf32ba38922b49981b82ead75f7bd"
+    }
+   ]
+  },
+  {
+   "slug": "hg-2260-2004",
+   "path": "hg/2004/2260",
+   "short": "HG nr. 2260/2004",
+   "title": "Hotărârea Guvernului nr. 2260/2004 privind trecerea unui imobil din domeniul public al statului şi din administrarea Agenţiei Naţionale pentru Sport în domeniul public al municipiului Constanţa şi în administrarea Consiliului Local al Municipiului Constanţa",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/57872",
+   "versions": [
+    {
+     "from": "2004-12-17",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/57872",
+     "sha256": "732d37fe73730b6754f7bf951a96e187f3a6be6ba155e2e36d7eb2d8b4f3cfdf"
+    }
+   ]
+  },
+  {
+   "slug": "hg-2261-2004",
+   "path": "hg/2004/2261",
+   "short": "HG nr. 2261/2004",
+   "title": "Hotărârea Guvernului nr. 2261/2004 privind aprobarea contractării şi garantării unui credit extern în favoarea Societăţii Comerciale \"Pharmaser\" - S.A. pentru construirea şi dotarea unei unităţi pentru producţia de soluţii perfuzabile",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/57757",
+   "versions": [
+    {
+     "from": "2004-12-15",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/57757",
+     "sha256": "db7eece61f6a419e4c04bceda4ff911556e67c1cfe33e719519726d9577b42b8"
+    }
+   ]
+  },
+  {
+   "slug": "hg-2262-2004",
+   "path": "hg/2004/2262",
+   "short": "HG nr. 2262/2004",
+   "title": "Hotărârea Guvernului nr. 2262/2004 privind recunoaşterea Organizaţiei \"Salvaţi Copiii\" ca fiind de utilitate publică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/58015",
+   "versions": [
+    {
+     "from": "2004-12-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58015",
+     "sha256": "53a315e875cd88f4fe58777364c2e4b5ee41d38e9c8cae51839e69f41584d792"
     }
    ]
   },
