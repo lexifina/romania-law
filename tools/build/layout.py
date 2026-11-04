@@ -19,14 +19,23 @@ import subprocess
 import sys
 from pathlib import Path
 
-KINDS = {'legea': 'lege', 'oug': 'oug', 'og': 'og', 'hg': 'hg', 'decret': 'decret', 'decret-lege': 'decret-lege'}
+KINDS = {'legea': 'lege', 'oug': 'oug', 'og': 'og', 'hg': 'hg', 'decret': 'decret', 'decret-lege': 'decret-lege',
+         # Parliament's decisions: numbered per chamber (and for joint sittings), so the chamber is a folder level
+         'hotarare-senat': 'hotarare-parlament/senat', 'hotarare-camera': 'hotarare-parlament/camera',
+         'hotarare-parlament': 'hotarare-parlament/parlament',
+         # a Permanent Bureau numbers its decisions apart from its chamber's plenary: a folder of its own
+         'hotarare-senat-birou': 'hotarare-parlament/senat/birou', 'hotarare-camera-birou': 'hotarare-parlament/camera/birou',
+         'hotarare-parlament-birou': 'hotarare-parlament/parlament/birou'}
 KIND_NAMES = {'constitutie': 'Constituția', 'lege': 'Laws (legi)', 'oug': 'Emergency ordinances (OUG)',
               'og': 'Ordinances (OG)', 'hg': 'Government decisions (HG)', 'decret': 'Decrees', 'decret-lege': 'Decree-laws',
+              'hotarare-parlament': "Parliament's decisions (Senate, Chamber of Deputies, joint sittings)",
               'cod': 'Historical codes', 'alte': 'Other acts'}
 KIND_ORDER = list(KIND_NAMES)
 # An optional "-2", "-3" ... marks a second act under the same number after an earlier id was withdrawn (ids are never
 # reused, so their tags never clash); the folder is still the official identifier.
-SLUG_RE = re.compile(r'^(legea|oug|og|hg|decret|decret-lege)-(\d+)-(\d{4})(?:-\d+)?$')
+SLUG_RE = re.compile(r'^(legea|oug|og|hg|decret|decret-lege|hotarare-senat|hotarare-camera|hotarare-parlament|hotarare-senat-birou|hotarare-camera-birou|'
+                     r'hotarare-parlament-birou)-(\d+)-'
+                     r'(\d{4})(?:-\d+)?$')
 # A code's own act, from its title: "Codul civil (Legea nr. 287/2009)", "Codul administrativ (Ordonanța de urgență a
 # Guvernului nr. 57/2019)".
 TITLE_RE = [(re.compile(r'Ordonan[țţ]a de urgen[țţ][ăa] a Guvernului nr\.\s*(\d+)/(\d{4})'), 'oug'),
@@ -64,6 +73,10 @@ def act_path(slug: str, title: str = '') -> str:
 
 def parts_of(path: str) -> tuple[str, str, str]:
     bits = path.split('/')
+    if bits[0] == 'hotarare-parlament' and len(bits) == 4:  # hotarare-parlament/<chamber>/<year>/<number>
+        return bits[0], bits[2], bits[3]
+    if bits[0] == 'hotarare-parlament' and len(bits) == 5:  # hotarare-parlament/<chamber>/birou/<year>/<number>
+        return bits[0], bits[3], bits[4]
     return bits[0], (bits[1] if len(bits) > 1 else ''), (bits[2] if len(bits) > 2 else '')
 
 

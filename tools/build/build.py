@@ -1056,6 +1056,15 @@ def docs_files(c: dict, folder: Path, raw: bytes, log: list[dict], tags: dict, d
             wr.writerow([r['law'], f'Decretul nr. {r["decree_nr"]}/{r["decree_date"][:4]}', r['decree_date'],
                          r.get('mo_nr') or '', r.get('mo_date') or '', r.get('decree_service_id') or ''])
         files['data/promulgation.csv'] = out.getvalue()
+    # Extra data files (2026-11-04): data-extra.json beside the corpus maps a published name under data/ to a lane's
+    # output file, read fresh on every build so each documentation commit carries the current version. Kept under 10 MB
+    # each (a larger file is skipped and named in the log), and covered by the privacy audit like every text file.
+    extra = folder / 'data-extra.json'
+    if extra.exists():
+        for name, src in json.loads(extra.read_text(encoding='utf-8')).items():
+            sp = Path(src)
+            if sp.exists() and sp.stat().st_size <= 10_000_000 and re.fullmatch(r'[a-z0-9-]+\.csv', name):
+                files[f'data/{name}'] = sp.read_text(encoding='utf-8')
     files.update(tables(c, log))
     files['REPRODUCE.md'] = reproduce(c, folder, raw, log, tags, docs_date)
     return files

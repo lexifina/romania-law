@@ -99131,6 +99131,21 @@
    ]
   },
   {
+   "slug": "decret-lege-103-1990",
+   "path": "decret-lege/1990/103",
+   "short": "Decretul-lege nr. 103/1990",
+   "title": "Decretul-lege nr. 103/1990 privind unele măsuri referitoare la durata serviciului militar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14975",
+   "versions": [
+    {
+     "from": "1990-03-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14975",
+     "sha256": "9054c1ccd2159415d228924560c15e42ee00b0b9039ffdf691e6531dbf624fc7"
+    }
+   ]
+  },
+  {
    "slug": "decret-lege-31-1990",
    "path": "decret-lege/1990/31",
    "short": "Decretul-lege nr. 31/1990",
@@ -106192,21 +106207,6 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/153854",
      "sha256": "7f97e8b4b95ee2cbfda46c7cf3f2bc0c84a6258b7db9092377008afa1ba2e190"
-    }
-   ]
-  },
-  {
-   "slug": "hg-1023-2014",
-   "path": "hg/2014/1023",
-   "short": "HG nr. 1023/2014",
-   "title": "Hotărârea Guvernului nr. 1023/2014 pentru modificarea Hotărârii Guvernului nr. 478/2014 privind stabilirea nivelului stocurilor minime şi aprobarea modului de transpunere a obligaţiilor de constituire şi menţinere a stocurilor de urgenţă pentru ţiţei şi/sau produse petroliere pe operatori economici în anul 2014",
-   "url": "https://legislatie.just.ro/Public/DetaliiDocument/163080",
-   "versions": [
-    {
-     "from": "2014-11-19",
-     "units": 1,
-     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/163080",
-     "sha256": "6d3aa1d738ace2d60e2c599abe847485d894cbd1cec239ac501b208fa22a359b"
     }
    ]
   },
@@ -127981,21 +127981,6 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38999",
      "sha256": "b72413511913936e91e7c9a55b68db532483bf853aeccb46e867c086bfbabcc8"
-    }
-   ]
-  },
-  {
-   "slug": "hg-1113-2004",
-   "path": "hg/2004/1113",
-   "short": "HG nr. 1113/2004",
-   "title": "Hotărârea Guvernului nr. 1113/2004 pentru aprobarea statutului de consilier al ministrului afacerilor externe al domnului Wolfgang Dix, diplomat în Ministerul Afacerilor Externe din Republica Federală Germania",
-   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53733",
-   "versions": [
-    {
-     "from": "2004-07-22",
-     "units": 2,
-     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53733",
-     "sha256": "c8cf78c0691a211a3cfcb70618e3261a79595d6802c0e3def9d042382ad6393c"
     }
    ]
   },
@@ -232550,21 +232535,6 @@
    ]
   },
   {
-   "slug": "hg-1898-2006",
-   "path": "hg/2006/1898",
-   "short": "HG nr. 1898/2006",
-   "title": "Hotărârea Guvernului nr. 1898/2006 pentru declasificarea şi publicarea în Monitorul Oficial al României, Partea I, a anexei la Hotărârea Guvernului nr. 947/2006 privind aprobarea contractului de consultanţă şi servicii financiare în vederea finalizării privatizării Societăţii Comerciale \"Romtelecom\" - S.A",
-   "url": "https://legislatie.just.ro/Public/DetaliiDocument/78702",
-   "versions": [
-    {
-     "from": "2007-01-17",
-     "units": 1,
-     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/78702",
-     "sha256": "7631f90726ecf40ee8279abd70272ecdff777def8398e9e067025966f78694d9"
-    }
-   ]
-  },
-  {
    "slug": "hg-1899-2006",
    "path": "hg/2006/1899",
    "short": "HG nr. 1899/2006",
@@ -328796,21 +328766,6 @@
    ]
   },
   {
-   "slug": "hg-492-2011",
-   "path": "hg/2011/492",
-   "short": "HG nr. 492/2011",
-   "title": "Hotărârea Guvernului nr. 492/2011 pentru modificarea şi completarea Hotărârii Guvernului nr. 1.232/2010 privind declanşarea procedurilor de expropriere a imobilelor proprietate privată situate pe amplasamentul lucrării de utilitate publică \"Autostrada Lugoj - Deva\"",
-   "url": "https://legislatie.just.ro/Public/DetaliiDocument/129301",
-   "versions": [
-    {
-     "from": "2011-06-14",
-     "units": 1,
-     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/129301",
-     "sha256": "a91ad420587a5d5aa7f3e0c3f1d99be0c8cbe6972ec313ca9561cc3c07a6b515"
-    }
-   ]
-  },
-  {
    "slug": "hg-492-2012",
    "path": "hg/2012/492",
    "short": "HG nr. 492/2012",
@@ -338884,21 +338839,6 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119506",
      "sha256": "f420c80be3a0d45800c9f6d5a68edec0e1698dc4a5e93f31a031eb5d09d37185"
-    }
-   ]
-  },
-  {
-   "slug": "hg-523-2011",
-   "path": "hg/2011/523",
-   "short": "HG nr. 523/2011",
-   "title": "Hotărârea Guvernului nr. 523/2011 pentru modificarea şi completarea Hotărârii Guvernului nr. 1.233/2010 privind declanşarea procedurilor de expropriere a imobilelor proprietate privată situate pe amplasamentul lucrării de utilitate publică \"Reabilitare DN 24 limita de judeţ Galaţi/Vaslui până la Crasna (km 51+000 - km 105+070) şi DN 24B Crasna-Albiţa (DN 24B km 0+000 - km 47+881)\"",
-   "url": "https://legislatie.just.ro/Public/DetaliiDocument/129319",
-   "versions": [
-    {
-     "from": "2011-06-14",
-     "units": 1,
-     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/129319",
-     "sha256": "d684ddfd9951f330e4c43fafa08d27b148531e29bc4576751ab7775b40c730c4"
     }
    ]
   },
@@ -653937,6 +653877,21 @@
    ]
   },
   {
+   "slug": "hg-1023-2014",
+   "path": "hg/2014/1023",
+   "short": "HG nr. 1023/2014",
+   "title": "Hotărârea Guvernului nr. 1023/2014 pentru modificarea Hotărârii Guvernului nr. 478/2014 privind stabilirea nivelului stocurilor minime şi aprobarea modului de transpunere a obligaţiilor de constituire şi menţinere a stocurilor de urgenţă pentru ţiţei şi/sau produse petroliere pe operatori economici în anul 2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/163080",
+   "versions": [
+    {
+     "from": "2014-11-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/163080",
+     "sha256": "6d3aa1d738ace2d60e2c599abe847485d894cbd1cec239ac501b208fa22a359b"
+    }
+   ]
+  },
+  {
    "slug": "hg-103-2021",
    "short": "HG nr. 103/2021",
    "title": "Hotărârea Guvernului nr. 103/2021 referitoare la Comunicarea Comisiei către Parlamentul European, Consiliu, Comitetul Economic și Social European și Comitetul Regiunilor - O Uniune a egalității: Strategia privind drepturile persoanelor cu handicap 2021-2030 - COM(2021) 101 final",
@@ -653977,6 +653932,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66057",
      "sha256": "1940c28514b997d61365ad802536358e285d5cca96c7d75ed8528970a9d7bf14"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1113-2004",
+   "path": "hg/2004/1113",
+   "short": "HG nr. 1113/2004",
+   "title": "Hotărârea Guvernului nr. 1113/2004 pentru aprobarea statutului de consilier al ministrului afacerilor externe al domnului Wolfgang Dix, diplomat în Ministerul Afacerilor Externe din Republica Federală Germania",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53733",
+   "versions": [
+    {
+     "from": "2004-07-22",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53733",
+     "sha256": "c8cf78c0691a211a3cfcb70618e3261a79595d6802c0e3def9d042382ad6393c"
     }
    ]
   },
@@ -654143,6 +654113,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/247758",
      "sha256": "1a5e481a41d997fbf9e06c4fba5eea17355cc1d58d1c3c8669202e1421b2f5fe"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1898-2006",
+   "path": "hg/2006/1898",
+   "short": "HG nr. 1898/2006",
+   "title": "Hotărârea Guvernului nr. 1898/2006 pentru declasificarea şi publicarea în Monitorul Oficial al României, Partea I, a anexei la Hotărârea Guvernului nr. 947/2006 privind aprobarea contractului de consultanţă şi servicii financiare în vederea finalizării privatizării Societăţii Comerciale \"Romtelecom\" - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/78702",
+   "versions": [
+    {
+     "from": "2007-01-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/78702",
+     "sha256": "7631f90726ecf40ee8279abd70272ecdff777def8398e9e067025966f78694d9"
     }
    ]
   },
@@ -654504,6 +654489,21 @@
    ]
   },
   {
+   "slug": "hg-492-2011",
+   "path": "hg/2011/492",
+   "short": "HG nr. 492/2011",
+   "title": "Hotărârea Guvernului nr. 492/2011 pentru modificarea şi completarea Hotărârii Guvernului nr. 1.232/2010 privind declanşarea procedurilor de expropriere a imobilelor proprietate privată situate pe amplasamentul lucrării de utilitate publică \"Autostrada Lugoj - Deva\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/129301",
+   "versions": [
+    {
+     "from": "2011-06-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/129301",
+     "sha256": "a91ad420587a5d5aa7f3e0c3f1d99be0c8cbe6972ec313ca9561cc3c07a6b515"
+    }
+   ]
+  },
+  {
    "slug": "hg-492-2014",
    "path": "hg/2014/492",
    "short": "HG nr. 492/2014",
@@ -654558,6 +654558,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/247534",
      "sha256": "8e81da68c21eb34e4e2ea09a5d4404f8ea941154229d1da0f0a83ec38d5e42b4"
+    }
+   ]
+  },
+  {
+   "slug": "hg-523-2011",
+   "path": "hg/2011/523",
+   "short": "HG nr. 523/2011",
+   "title": "Hotărârea Guvernului nr. 523/2011 pentru modificarea şi completarea Hotărârii Guvernului nr. 1.233/2010 privind declanşarea procedurilor de expropriere a imobilelor proprietate privată situate pe amplasamentul lucrării de utilitate publică \"Reabilitare DN 24 limita de judeţ Galaţi/Vaslui până la Crasna (km 51+000 - km 105+070) şi DN 24B Crasna-Albiţa (DN 24B km 0+000 - km 47+881)\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/129319",
+   "versions": [
+    {
+     "from": "2011-06-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/129319",
+     "sha256": "d684ddfd9951f330e4c43fafa08d27b148531e29bc4576751ab7775b40c730c4"
     }
    ]
   },

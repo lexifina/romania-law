@@ -1,6 +1,6 @@
 # Every act in this repository
 
-38166 acts, 51,916 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+38167 acts, 51,917 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -11858,7 +11858,7 @@
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 5/2026 pentru modificarea şi completarea Ordonanţei Guvernului nr. 27/2011 privind transporturile rutiere şi pentru completarea Ordonanţei de urgenţă a Guvernului nr. 28/1999 privind obligaţia operatorilor economici de a utiliza aparate de marcat electronice fiscale | [`og/2026/5/`](og/2026/5/) | amended, not consolidated | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (26317, of which 12309 amending acts)
+## Government decisions (HG) (26312, of which 12304 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -15786,7 +15786,6 @@
 | Hotărârea Guvernului nr. 1109/2004 privind producţia şi finanţarea stocului de octoxid de uraniu necesar Unităţii 2 din cadrul obiectivului de investiţii "Centrala Nuclearoelectrică Cernavodă - 5 X 700 MW", în anul 2005 | [`hg/2004/1109/`](hg/2004/1109/) | in force | 1 | 2004-07-27 | 2004-07-27 |
 | Hotărârea Guvernului nr. 1110/2004 privind trecerea din domeniul public al statului în domeniul privat al statului a unor construcţii aflate în administrarea Ministerului Apărării Naţionale | [`hg/2004/1110/`](hg/2004/1110/) | in force | 1 | 2004-07-27 | 2004-07-27 |
 | Hotărârea Guvernului nr. 1111/2004 privind trecerea din domeniul public al statului în domeniul privat al statului a unei construcţii aflate în administrarea Ministerului Administraţiei şi Internelor | [`hg/2004/1111/`](hg/2004/1111/) | in force | 1 | 2004-07-27 | 2004-07-27 |
-| Hotărârea Guvernului nr. 1113/2004 pentru aprobarea statutului de consilier al ministrului afacerilor externe al domnului Wolfgang Dix, diplomat în Ministerul Afacerilor Externe din Republica Federală Germania | [`hg/2004/1113/`](hg/2004/1113/) | amending act | 1 | 2004-07-22 | 2004-07-22 |
 | Hotărârea Guvernului nr. 1114/2004 pentru completarea Hotărârii Guvernului nr. 1.336/2002 privind instituirea Sistemului naţional de gradare a seminţelor de consum | [`hg/2004/1114/`](hg/2004/1114/) | amending act | 1 | 2004-07-23 | 2004-07-23 |
 | Hotărârea Guvernului nr. 1115/2004 privind elaborarea în parteneriat a Planului Naţional de Dezvoltare | [`hg/2004/1115/`](hg/2004/1115/) | amended, not consolidated | 1 | 2004-08-02 | 2004-08-02 |
 | Hotărârea Guvernului nr. 1120/2004 pentru modificarea şi completarea Hotărârii Guvernului nr. 737/2003 privind organizarea şi funcţionarea Ministerului Muncii, Solidarităţii Sociale şi Familiei, precum şi pentru modificarea anexei nr. 2 la Hotărârea Guvernului nr. 837/1995 cu privire la criteriile de salarizare în valută şi celelalte drepturi în valută şi în lei ale personalului trimis în misiune permanentă în străinătate | [`hg/2004/1120/`](hg/2004/1120/) | amending act | 1 | 2004-08-03 | 2004-08-03 |
@@ -19517,7 +19516,6 @@
 | Hotărârea Guvernului nr. 1894/2006 privind transmiterea unui teren din domeniul privat al statului şi din administrarea Ministerului Agriculturii, Pădurilor şi Dezvoltării Rurale - Agenţia Domeniilor Statului în domeniul privat al comunei Icuşeşti şi în administrarea Consiliului Local al Comunei Icuşeşti, judeţul Neamţ | [`hg/2006/1894/`](hg/2006/1894/) | in force | 1 | 2007-01-10 | 2007-01-10 |
 | Hotărârea Guvernului nr. 1896/2006 pentru modificarea anexei la Hotărârea Guvernului nr. 1.434/2004 privind atribuţiile şi Regulamentul-cadru de organizare şi funcţionare ale Direcţiei generale de asistenţă socială şi protecţia copilului | [`hg/2006/1896/`](hg/2006/1896/) | amending act | 1 | 2007-01-10 | 2007-01-10 |
 | Hotărârea Guvernului nr. 1897/2006 | [`hg/2006/1897/`](hg/2006/1897/) | in force | 1 | 2007-01-16 | 2007-01-16 |
-| Hotărârea Guvernului nr. 1898/2006 pentru declasificarea şi publicarea în Monitorul Oficial al României, Partea I, a anexei la Hotărârea Guvernului nr. 947/2006 privind aprobarea contractului de consultanţă şi servicii financiare în vederea finalizării privatizării Societăţii Comerciale "Romtelecom" - S.A | [`hg/2006/1898/`](hg/2006/1898/) | amending act | 1 | 2007-01-17 | 2007-01-17 |
 | Hotărârea Guvernului nr. 1899/2006 pentru modificarea şi completarea Hotărârii Guvernului nr. 78/2005 privind organizarea şi funcţionarea Ministerului Culturii şi Cultelor | [`hg/2006/1899/`](hg/2006/1899/) | amended, not consolidated | 1 | 2007-01-08 | 2007-01-08 |
 | Hotărârea Guvernului nr. 1900/2006 pentru abrogarea unor acte normative din domeniul comerţului exterior | [`hg/2006/1900/`](hg/2006/1900/) | amending act | 1 | 2006-12-29 | 2006-12-29 |
 | Hotărârea Guvernului nr. 1901/2006 pentru modificarea Hotărârii Guvernului nr. 1.268/2006 privind sprijinul financiar care se acordă producătorilor agricoli în anul 2006 pentru anumite cantităţi de legume şi fructe proaspete destinate prelucrării industriale, cuantumul sprijinului financiar, sumele alocate pentru fiecare produs, precum şi pentru modificarea şi completarea Hotărârii Guvernului nr. 1.205/2004 privind modul de acordare a sprijinului financiar producătorilor agricoli pentru unele legume şi fructe proaspete destinate prelucrării industriale, precum şi pentru completarea art. 7 din Hotărârea Guvernului nr. 1.205/2004 | [`hg/2006/1901/`](hg/2006/1901/) | amending act | 1 | 2006-12-28 | 2006-12-28 |
@@ -24565,7 +24563,6 @@
 | Hotărârea Guvernului nr. 488/2011 pentru modificarea şi completarea Hotărârii Guvernului nr. 416/2010 privind declanşarea procedurilor de expropriere a imobilelor proprietate privată situate pe amplasamentul lucrării de utilitate publică ”Autostrada Nădlac-Arad” | [`hg/2011/488/`](hg/2011/488/) | amended, not consolidated | 1 | 2011-05-26 | 2011-05-26 |
 | Hotărârea Guvernului nr. 490/2011 privind completarea Regulamentului general de urbanism, aprobat prin Hotărârea Guvernului nr. 525/1996 | [`hg/2011/490/`](hg/2011/490/) | amending act | 1 | 2011-05-24 | 2011-05-24 |
 | Hotărârea Guvernului nr. 491/2011 privind transmiterea unor drumuri forestiere şi a terenurilor aferente acestora din domeniul public al statului şi din administrarea Regiei Naţionale a Pădurilor - Romsilva în domeniul public al comunei Lunca şi în administrarea Consiliului Local al Comunei Lunca, judeţul Bihor | [`hg/2011/491/`](hg/2011/491/) | in force | 1 | 2011-05-23 | 2011-05-23 |
-| Hotărârea Guvernului nr. 492/2011 pentru modificarea şi completarea Hotărârii Guvernului nr. 1.232/2010 privind declanşarea procedurilor de expropriere a imobilelor proprietate privată situate pe amplasamentul lucrării de utilitate publică "Autostrada Lugoj - Deva" | [`hg/2011/492/`](hg/2011/492/) | amending act | 1 | 2011-06-14 | 2011-06-14 |
 | Hotărârea Guvernului nr. 493/2011 pentru aprobarea amendamentului convenit prin schimbul de scrisori semnate la Bucureşti la 3 martie 2011 şi la Paris la 5 aprilie 2011 între Guvernul României şi Banca de Dezvoltare a Consiliului Europei, la Acordul-cadru de împrumut dintre România şi Banca de Dezvoltare a Consiliului Europei, semnat la 2 februarie 2007 la Bucureşti şi la 9 februarie 2007 la Paris, pentru finanţarea primei faze a Proiectului "Sistem integrat de reabilitare a sistemelor de alimentare cu apă şi canalizare, a staţiilor de tratare a apei potabile şi staţiilor de epurare a apelor uzate în localităţile cu o populaţie de până la 50.000 locuitori" | [`hg/2011/493/`](hg/2011/493/) | amending act | 1 | 2011-05-25 | 2011-05-25 |
 | Hotărârea Guvernului nr. 494/2011 | [`hg/2011/494/`](hg/2011/494/) | repealed 2021-09-24 | 5 | 2011-06-02 | 2021-09-24 |
 | Hotărârea Guvernului nr. 495/2011 privind rechemarea şi numirea unui consul general | [`hg/2011/495/`](hg/2011/495/) | in force | 1 | 2011-06-01 | 2011-06-01 |
@@ -24593,7 +24590,6 @@
 | Hotărârea Guvernului nr. 519/2011 privind aprobarea plăţii contribuţiei voluntare, în lei, a României la Organizaţia Internaţională a Francofoniei pentru derularea Planului multianual de formare în limba franceză a funcţionarilor din administraţia publică română, în anul 2011 | [`hg/2011/519/`](hg/2011/519/) | amending act | 1 | 2011-05-26 | 2011-05-26 |
 | Hotărârea Guvernului nr. 520/2011 privind transmiterea unor părţi de imobile aflate în domeniul public al statului din administrarea Ministerului Justiţiei - Tribunalul Sălaj în administrarea Ministerului Public - Parchetul de pe lângă Tribunalul Sălaj | [`hg/2011/520/`](hg/2011/520/) | in force | 1 | 2011-05-27 | 2011-05-27 |
 | Hotărârea Guvernului nr. 521/2011 pentru completarea Hotărârii Guvernului nr. 1.230/2010 privind declanşarea procedurilor de expropriere a imobilelor proprietate privată rămase de expropriat, situate pe amplasamentul lucrării de utilitate publică "Autostrada Timişoara Lugoj" | [`hg/2011/521/`](hg/2011/521/) | amending act | 1 | 2011-06-10 | 2011-06-10 |
-| Hotărârea Guvernului nr. 523/2011 pentru modificarea şi completarea Hotărârii Guvernului nr. 1.233/2010 privind declanşarea procedurilor de expropriere a imobilelor proprietate privată situate pe amplasamentul lucrării de utilitate publică "Reabilitare DN 24 limita de judeţ Galaţi/Vaslui până la Crasna (km 51+000 - km 105+070) şi DN 24B Crasna-Albiţa (DN 24B km 0+000 - km 47+881)" | [`hg/2011/523/`](hg/2011/523/) | amending act | 1 | 2011-06-14 | 2011-06-14 |
 | Hotărârea Guvernului nr. 524/2011 privind aprobarea bugetului de venituri şi cheltuieli pe anul 2011 pentru Societatea Comercială EUROTEST - S.A., aflată sub autoritatea Ministerului Economiei, Comerţului şi Mediului de Afaceri | [`hg/2011/524/`](hg/2011/524/) | amending act | 1 | 2011-05-27 | 2011-05-27 |
 | Hotărârea Guvernului nr. 525/2011 pentru suplimentarea numărului de posturi din cadrul Consiliului Naţional de Soluţionare a Contestaţiilor | [`hg/2011/525/`](hg/2011/525/) | in force | 1 | 2011-05-25 | 2011-05-25 |
 | Hotărârea Guvernului nr. 527/2011 privind reorganizarea unor unităţi sanitare publice din judeţul Mureş | [`hg/2011/527/`](hg/2011/527/) | in force | 1 | 2011-05-27 | 2011-05-27 |
@@ -27843,7 +27839,6 @@
 | Hotărârea Guvernului nr. 1020/2014 privind aprobarea Actului adiţional nr. 1 la Acordul petrolier de concesiune pentru explorare-dezvoltare-exploatare, în perimetrul E X - 27 Muridava, încheiat între Agenţia Naţională pentru Resurse Minerale şi Melrose Resources România B.V. împreună cu Societatea Comercială "Petromar Resources" - S.A., aprobat prin Hotărârea Guvernului nr. 1.020/2011 | [`hg/2014/1020/`](hg/2014/1020/) | amending act | 1 | 2014-11-17 | 2014-11-17 |
 | Hotărârea Guvernului nr. 1021/2014 privind aprobarea Actului adiţional nr. 1 la Acordul petrolier de concesiune pentru explorare-dezvoltare-exploatare, în perimetrul E X - 28 Est Cobălcescu, încheiat între Agenţia Naţională pentru Resurse Minerale şi Melrose Resources România B.V. împreună cu Societatea Comercială "Petromar Resources" - S.A., aprobat prin Hotărârea Guvernului nr. 1.021/2011 | [`hg/2014/1021/`](hg/2014/1021/) | amending act | 1 | 2014-11-17 | 2014-11-17 |
 | Hotărârea Guvernului nr. 1022/2014 privind actualizarea inventarului centralizat al bunurilor din domeniul public al statului, ca urmare a modificării valorii de inventar şi schimbării unităţii de administrare pentru un imobil aflat în administrarea Ministerului Afacerilor Interne - Inspectoratul de Jandarmi Judeţean Iaşi | [`hg/2014/1022/`](hg/2014/1022/) | in force | 1 | 2014-11-20 | 2014-11-20 |
-| Hotărârea Guvernului nr. 1023/2014 pentru modificarea Hotărârii Guvernului nr. 478/2014 privind stabilirea nivelului stocurilor minime şi aprobarea modului de transpunere a obligaţiilor de constituire şi menţinere a stocurilor de urgenţă pentru ţiţei şi/sau produse petroliere pe operatori economici în anul 2014 | [`hg/2014/1023/`](hg/2014/1023/) | amending act | 1 | 2014-11-19 | 2014-11-19 |
 | Hotărârea Guvernului nr. 1024/2014 pentru modificarea anexei la Hotărârea Guvernului nr. 262/2008 privind constituirea Comisiei pentru soluţionarea întâmpinărilor unor persoane fizice în vederea exproprierii pentru cauză de utilitate publică pentru lucrarea de interes naţional "Menţinerea şi dezvoltarea capacităţii de producţie în câmpul minier Amaradia-Tărâia, etapa a II-a, carierele Berbeşti şi Olteţ, judeţul Vâlcea" | [`hg/2014/1024/`](hg/2014/1024/) | amending act | 1 | 2014-11-18 | 2014-11-18 |
 | Hotărârea Guvernului nr. 1025/2014 pentru modificarea art. 3 alin. (4) din Hotărârea Guvernului nr. 526/2014 privind utilizarea fondurilor alocate prin Fondul de Solidaritate al Uniunii Europene pentru decontarea cheltuielilor publice eligibile operaţiunilor de urgenţă întreprinse în scopul înlăturării pagubelor provocate de fenomenul de secetă şi de incendiile de pădure şi vegetaţie care au afectat România în anul 2012 | [`hg/2014/1025/`](hg/2014/1025/) | amending act | 1 | 2014-11-20 | 2014-11-20 |
 | Hotărârea Guvernului nr. 1026/2014 pentru reorganizarea Comisiei Naţionale privind Schimbările Climatice | [`hg/2014/1026/`](hg/2014/1026/) | in force | 1 | 2014-11-20 | 2014-11-20 |
@@ -38180,11 +38175,12 @@
 | Hotărârea Guvernului nr. 950/2026 pentru modificarea şi completarea Hotărârii Guvernului nr. 751/2026 privind acordarea unui sprijin financiar de urgenţă în agricultură producătorilor agricoli din sectorul vegetal, pentru suprafeţele cultivate cu porumb şi/sau floarea-soarelui afectate de seceta pedologică manifestată în anul 2025 | [`hg/2026/950/`](hg/2026/950/) | amending act | 1 | 2026-11-02 | 2026-11-02 |
 | Hotărârea Guvernului nr. 951/2026 pentru completarea Hotărârii Guvernului nr. 1.074/2021 privind stabilirea sistemului de garanţie-returnare pentru ambalaje primare nereutilizabile | [`hg/2026/951/`](hg/2026/951/) | amending act | 1 | 2026-11-02 | 2026-11-02 |
 
-## Decree-laws (2)
+## Decree-laws (3)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
 | Decretul-lege nr. 31/1990 | [`decret-lege/1990/31/`](decret-lege/1990/31/) | in force | 1 | 1990-01-19 | 1990-01-19 |
+| Decretul-lege nr. 103/1990 privind unele măsuri referitoare la durata serviciului militar | [`decret-lege/1990/103/`](decret-lege/1990/103/) | in force | 1 | 1990-03-23 | 1990-03-23 |
 | Decretul-lege nr. 118/1990 | [`decret-lege/1990/118/`](decret-lege/1990/118/) | in force | 25 | 1990-04-09 | 2024-11-16 |
 
 ## Historical codes (3)
@@ -38195,7 +38191,7 @@
 | Codul de procedură civilă din 9 septembrie 1865 | [`cod/1865/procedura-civila/`](cod/1865/procedura-civila/) | repealed 2013-02-15 | 28 | 1865-12-01 | 2013-02-15 |
 | Codul comercial din 10 mai 1887 | [`cod/1887/comercial/`](cod/1887/comercial/) | in force | 17 | 1887-09-01 | 2013-02-15 |
 
-## Withdrawn from the record (33)
+## Withdrawn from the record (38)
 
 Acts published here and later found not to belong (for example, titled as Government decisions but issued by another body). Their folders were removed by a correction commit; the commits that added them stay in the history. Their ids are retired: a later act with the same number gets the id with `-2` appended.
 
@@ -38203,12 +38199,15 @@ Acts published here and later found not to belong (for example, titled as Govern
 | --- | --- | --- |
 | `hg-10-2021` | issued by Autoritatea Electorală Permanentă | e010c422ad |
 | `hg-101-2022` | issued by Senatul României | e010c422ad |
+| `hg-1023-2014` | published with part of its article text missing: an automatic check was briefly too loose (2026-11-04 18:13-18:24 UTC); withdrawn until it is rebuilt and verified | e74b4fb6fd |
 | `hg-103-2021` | issued by Senatul României | e010c422ad |
+| `hg-1113-2004` | published with part of its article text missing: an automatic check was briefly too loose (2026-11-04 18:13-18:24 UTC); withdrawn until it is rebuilt and verified | e74b4fb6fd |
 | `hg-119-2021` | issued by Consiliul Superior al Magistraturii | e010c422ad |
 | `hg-120-2021` | issued by Consiliul Superior al Magistraturii | e010c422ad |
 | `hg-15-2021` | issued by Parlamentul României / Camera Deputaților (birourile permanente) | e010c422ad |
 | `hg-16-2022` | issued by Comitetul Național pentru Situații de Urgență (a CNSU decision, not a Government decision) | e010c422ad |
 | `hg-180-2021` | issued by Consiliul Superior al Magistraturii | e010c422ad |
+| `hg-1898-2006` | published with part of its article text missing: an automatic check was briefly too loose (2026-11-04 18:13-18:24 UTC); withdrawn until it is rebuilt and verified | e74b4fb6fd |
 | `hg-19-2021` | issued by Senatul României | e010c422ad |
 | `hg-2-2021` | issued by Parlamentul României / Camera Deputaților (birourile permanente) | e010c422ad |
 | `hg-23-2022` | issued by Colegiul Fizioterapeuților din România | e010c422ad |
@@ -38218,8 +38217,10 @@ Acts published here and later found not to belong (for example, titled as Govern
 | `hg-4-2022` | issued by Banca Națională a României | e010c422ad |
 | `hg-42-2021` | issued by Parlamentul României / Camera Deputaților (birourile permanente) | e010c422ad |
 | `hg-44-2022` | issued by Colegiul Fizioterapeuților din România | e010c422ad |
+| `hg-492-2011` | published with part of its article text missing: an automatic check was briefly too loose (2026-11-04 18:13-18:24 UTC); withdrawn until it is rebuilt and verified | e74b4fb6fd |
 | `hg-5-2020` | issued by Parlamentul României / Camera Deputaților (birourile permanente) | e010c422ad |
 | `hg-52-2021` | issued by Colegiul Psihologilor din România | e010c422ad |
+| `hg-523-2011` | published with part of its article text missing: an automatic check was briefly too loose (2026-11-04 18:13-18:24 UTC); withdrawn until it is rebuilt and verified | e74b4fb6fd |
 | `hg-60-2021` | issued by Colegiul Psihologilor din România | e010c422ad |
 | `hg-61-2021` | issued by Colegiul Psihologilor din România | e010c422ad |
 | `hg-62-2021` | issued by Colegiul Psihologilor din România | e010c422ad |
