@@ -481031,6 +481031,21 @@
    ]
   },
   {
+   "slug": "hg-969-2001",
+   "path": "hg/2001/969",
+   "short": "HG nr. 969/2001",
+   "title": "Hotărârea Guvernului nr. 969/2001 pentru aprobarea cheltuielilor ocazionate de organizarea la Bucureşti în luna septembrie 2001 a reuniunii Comisiei mixte de control pentru soluţionarea conflictului georgiano-sud-osetin",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/31111",
+   "versions": [
+    {
+     "from": "2001-10-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/31111",
+     "sha256": "e939346e14ac623ea7907d36f47352e0171c317aed176de6b503f04ea38e9398"
+    }
+   ]
+  },
+  {
    "slug": "hg-969-2003",
    "path": "hg/2003/969",
    "short": "HG nr. 969/2003",
@@ -481567,6 +481582,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/295012",
      "sha256": "0adc4c094d610a7c71fcfad2b265a3f5a5719ae887334cb22ccafb39ede2f4ff"
+    }
+   ]
+  },
+  {
+   "slug": "hg-970-2001",
+   "path": "hg/2001/970",
+   "short": "HG nr. 970/2001",
+   "title": "Hotărârea Guvernului nr. 970/2001 pentru aprobarea amendamentului convenit prin schimb de scrisori semnate la Washington la 20 aprilie 2001 şi la Bucureşti la 21 mai 2001 între Guvernul României şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare la Acordul de împrumut dintre România şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare - Proiectul privind reabilitarea şcolilor -, semnat la Washington la 2 octombrie 1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/31430",
+   "versions": [
+    {
+     "from": "2001-10-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/31430",
+     "sha256": "0677b0ed611ff3ff9052d6427a7ab56528f4eecff6f00692eb725e2f619159b3"
     }
    ]
   },
@@ -578138,6 +578168,21 @@
    ]
   },
   {
+   "slug": "legea-492-2001",
+   "path": "lege/2001/492",
+   "short": "Legea nr. 492/2001",
+   "title": "Legea nr. 492/2001 pentru completarea Legii nr. 109/1997 privind organizarea şi funcţionarea Consiliului Economic şi Social",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/31011",
+   "versions": [
+    {
+     "from": "2001-10-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/31011",
+     "sha256": "0a5a4ec3c571a1762d8a3593411737b9e6049a15a195e924d02b3b2b813cf804"
+    }
+   ]
+  },
+  {
    "slug": "legea-492-2002",
    "path": "lege/2002/492",
    "short": "Legea nr. 492/2002",
@@ -578179,6 +578224,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/56783",
      "sha256": "1d5744b28613efe8f6a72b9391decaf9ea3a8580a72087cb9ac078a64242a3e9"
+    }
+   ]
+  },
+  {
+   "slug": "legea-493-2001",
+   "path": "lege/2001/493",
+   "short": "Legea nr. 493/2001",
+   "title": "Legea nr. 493/2001 privind respingerea Ordonanţei de urgenţă a Guvernului nr. 72/2000 pentru modificarea art. 2 lit. a) din Ordonanţa de urgenţă a Guvernului nr. 170/1999 privind acordarea, în mod gratuit, a asistenţei medicale, medicamentelor şi protezelor pentru unele categorii de persoane prevăzute în legi speciale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/31028",
+   "versions": [
+    {
+     "from": "2001-10-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/31028",
+     "sha256": "8dcb03c72c1568722f7eb0a79a1a2c2866896ce159ac1f7ea42faae70bee8540"
     }
    ]
   },
@@ -578273,6 +578333,21 @@
    ]
   },
   {
+   "slug": "legea-495-2001",
+   "path": "lege/2001/495",
+   "short": "Legea nr. 495/2001",
+   "title": "Legea nr. 495/2001 pentru respingerea Ordonanţei Guvernului nr. 25/1998 privind protecţia tranzitorie a brevetelor de invenţie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/31085",
+   "versions": [
+    {
+     "from": "2001-10-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/31085",
+     "sha256": "d18daeb536aa0afc9aed17dc9a2cacf3077182bf1c737c042cf2df3d9f9d3c5a"
+    }
+   ]
+  },
+  {
    "slug": "legea-495-2002",
    "path": "lege/2002/495",
    "short": "Legea nr. 495/2002",
@@ -578299,6 +578374,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/48077",
      "sha256": "2e081b521ca089e69456c60bf36a4bd80edd7fcb95aa0a6c30b55facd8824bc4"
+    }
+   ]
+  },
+  {
+   "slug": "legea-496-2001",
+   "path": "lege/2001/496",
+   "short": "Legea nr. 496/2001",
+   "title": "Legea nr. 496/2001 pentru ratificarea Protocolului dintre Guvernul României şi Guvernul Republicii Populare Chineze privind rezolvarea problemelor restante la conturile instituite în baza acordurilor interguvernamentale, semnat la Bucureşti la 27 februarie 2001",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/31119",
+   "versions": [
+    {
+     "from": "2001-10-10",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/31119",
+     "sha256": "05c1b8b051e1b465130d115ef54ffb23f7d3f3b64a1d4014da3bf678a3ca6272"
     }
    ]
   },
@@ -578404,6 +578494,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/78451",
      "sha256": "a15af999f857e6e9474fc83fd0e884e20d77ba8102062e9fc0052d02ffe05682"
+    }
+   ]
+  },
+  {
+   "slug": "legea-498-2001",
+   "path": "lege/2001/498",
+   "short": "Legea nr. 498/2001",
+   "title": "Legea nr. 498/2001 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 263/2000 privind majorarea capitalului social al Societăţii Comerciale \"C.U.G.\" - S.A. Cluj-Napoca",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/31087",
+   "versions": [
+    {
+     "from": "2001-10-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/31087",
+     "sha256": "804f02800748f06b0d85c0092966c722f85bdd23ae0d38ec8d540bb21fb5db05"
     }
    ]
   },
@@ -579158,6 +579263,21 @@
    ]
   },
   {
+   "slug": "legea-500-2001",
+   "path": "lege/2001/500",
+   "short": "Legea nr. 500/2001",
+   "title": "Legea nr. 500/2001 pentru aprobarea Ordonanţei de urgenta a Guvernului nr. 55/2001 privind reglementarea rambursării ratelor scadente, precum şi plata altor costuri aferente unor împrumuturi externe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/31091",
+   "versions": [
+    {
+     "from": "2001-10-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/31091",
+     "sha256": "6b0fb3de099d5e83a9d2a9a25fd4ee8cbb33e715d73421b48d802a80947ef06f"
+    }
+   ]
+  },
+  {
    "slug": "legea-500-2004",
    "path": "lege/2004/500",
    "short": "Legea nr. 500/2004",
@@ -579169,6 +579289,21 @@
      "units": 9,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/56721",
      "sha256": "06c465e430f76da06a30192166a39be17c5805797eabc362ebd7b4fc76f4ff8d"
+    }
+   ]
+  },
+  {
+   "slug": "legea-501-2001",
+   "path": "lege/2001/501",
+   "short": "Legea nr. 501/2001",
+   "title": "Legea nr. 501/2001 privind aprobarea Ordonanţei Guvernului nr. 97/1998 pentru modificarea şi completarea Ordonanţei Guvernului nr. 66/1994 privind formarea şi utilizarea resurselor derulate prin trezoreria statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/31124",
+   "versions": [
+    {
+     "from": "2001-10-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/31124",
+     "sha256": "e2d41369b26b00ea475e564482668fe1ca8fe16e9877b9e666563ef8c613f353"
     }
    ]
   },
@@ -579214,6 +579349,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/56917",
      "sha256": "50c6ab11dae295731954ba6dfbce7d37d0c7320674345cf38fa0c883bf9213ed"
+    }
+   ]
+  },
+  {
+   "slug": "legea-502-2001",
+   "path": "lege/2001/502",
+   "short": "Legea nr. 502/2001",
+   "title": "Legea nr. 502/2001 privind aprobarea Ordonanţei Guvernului nr. 120/1999 pentru modificarea şi completarea Ordonanţei Guvernului nr. 66/1994 privind formarea şi utilizarea resurselor derulate prin trezoreria statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/31129",
+   "versions": [
+    {
+     "from": "2001-10-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/31129",
+     "sha256": "99aca7ce1a1edcd5a9c35854188eec8c45d01f217c8553e6d5e045a4ee39225d"
     }
    ]
   },
@@ -579289,6 +579439,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/37404",
      "sha256": "8b0c4abdf697d92e341b2d1a8388a7a7f9218161e124c9e47b4dc6ccf219c343"
+    }
+   ]
+  },
+  {
+   "slug": "legea-505-2001",
+   "path": "lege/2001/505",
+   "short": "Legea nr. 505/2001",
+   "title": "Legea nr. 505/2001 privind aprobarea Ordonanţei Guvernului nr. 109/1999 pentru modificarea şi completarea Ordonanţei Guvernului nr. 22/1992 privind finanţarea ocrotirii sănătăţii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/31183",
+   "versions": [
+    {
+     "from": "2001-10-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/31183",
+     "sha256": "f2838d9c4026ba7e0e844a4b7385cd0251230e0a0a610f0000bc468e600aec8e"
     }
    ]
   },

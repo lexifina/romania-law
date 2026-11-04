@@ -1,6 +1,6 @@
 # Every act in this repository
 
-38588 acts, 52,341 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+38599 acts, 52,352 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (8134, of which 2955 amending acts)
+## Laws (legi) (8143, of which 2963 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -1046,9 +1046,18 @@
 | Legea nr. 466/2001 | [`lege/2001/466/`](lege/2001/466/) | in force | 1 | 2001-07-31 | 2001-07-31 |
 | Legea nr. 486/2001 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 225/2000 pentru completarea Ordonanţei Guvernului nr. 119/1999 privind auditul intern şi controlul financiar preventiv | [`lege/2001/486/`](lege/2001/486/) | amended, not consolidated | 1 | 2001-09-28 | 2001-09-28 |
 | Legea nr. 489/2001 privind ratificarea Contractului de finanţare dintre România, Banca Europeană de Investiţii şi Consiliul General al Municipiului Bucureşti pentru finanţarea Proiectului privind infrastructura urbana în Bucureşti, semnat la Luxemburg la 18 decembrie 2000 şi la Bucureşti la 19 decembrie 2000 | [`lege/2001/489/`](lege/2001/489/) | amended, not consolidated | 1 | 2001-10-10 | 2001-10-10 |
+| Legea nr. 492/2001 pentru completarea Legii nr. 109/1997 privind organizarea şi funcţionarea Consiliului Economic şi Social | [`lege/2001/492/`](lege/2001/492/) | amending act | 1 | 2001-10-03 | 2001-10-03 |
+| Legea nr. 493/2001 privind respingerea Ordonanţei de urgenţă a Guvernului nr. 72/2000 pentru modificarea art. 2 lit. a) din Ordonanţa de urgenţă a Guvernului nr. 170/1999 privind acordarea, în mod gratuit, a asistenţei medicale, medicamentelor şi protezelor pentru unele categorii de persoane prevăzute în legi speciale | [`lege/2001/493/`](lege/2001/493/) | amending act | 1 | 2001-10-04 | 2001-10-04 |
+| Legea nr. 495/2001 pentru respingerea Ordonanţei Guvernului nr. 25/1998 privind protecţia tranzitorie a brevetelor de invenţie | [`lege/2001/495/`](lege/2001/495/) | amending act | 1 | 2001-10-09 | 2001-10-09 |
+| Legea nr. 496/2001 pentru ratificarea Protocolului dintre Guvernul României şi Guvernul Republicii Populare Chineze privind rezolvarea problemelor restante la conturile instituite în baza acordurilor interguvernamentale, semnat la Bucureşti la 27 februarie 2001 | [`lege/2001/496/`](lege/2001/496/) | in force | 1 | 2001-10-10 | 2001-10-10 |
 | Legea nr. 497/2001 pentru ratificarea Memorandumului de finanţare convenit între Guvernul României şi Comisia Europeană privind asistenţa financiară nerambursabilă acordată prin Instrumentul pentru Politici Structurale de Preaderare pentru măsura "Reabilitarea reţelei de canalizare şi a facilităţilor de epurare a apelor uzate în Constanţa, România", semnat la Bruxelles la 16 noiembrie 2000 şi la Bucureşti la 22 decembrie 2000 | [`lege/2001/497/`](lege/2001/497/) | amended, not consolidated | 1 | 2002-01-08 | 2002-01-08 |
+| Legea nr. 498/2001 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 263/2000 privind majorarea capitalului social al Societăţii Comerciale "C.U.G." - S.A. Cluj-Napoca | [`lege/2001/498/`](lege/2001/498/) | amending act | 1 | 2001-10-09 | 2001-10-09 |
 | Legea nr. 499/2001 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 189/2000 privind stingerea unor obligaţii bugetare | [`lege/2001/499/`](lege/2001/499/) | amended, not consolidated | 1 | 2001-10-10 | 2001-10-10 |
+| Legea nr. 500/2001 pentru aprobarea Ordonanţei de urgenta a Guvernului nr. 55/2001 privind reglementarea rambursării ratelor scadente, precum şi plata altor costuri aferente unor împrumuturi externe | [`lege/2001/500/`](lege/2001/500/) | amending act | 1 | 2001-10-09 | 2001-10-09 |
+| Legea nr. 501/2001 privind aprobarea Ordonanţei Guvernului nr. 97/1998 pentru modificarea şi completarea Ordonanţei Guvernului nr. 66/1994 privind formarea şi utilizarea resurselor derulate prin trezoreria statului | [`lege/2001/501/`](lege/2001/501/) | amending act | 1 | 2001-10-10 | 2001-10-10 |
+| Legea nr. 502/2001 privind aprobarea Ordonanţei Guvernului nr. 120/1999 pentru modificarea şi completarea Ordonanţei Guvernului nr. 66/1994 privind formarea şi utilizarea resurselor derulate prin trezoreria statului | [`lege/2001/502/`](lege/2001/502/) | amending act | 1 | 2001-10-10 | 2001-10-10 |
 | Legea nr. 503/2001 privind aprobarea Ordonanţei Guvernului nr. 35/2000 pentru modificarea Ordonanţei Guvernului nr. 66/1994 privind formarea şi utilizarea resurselor derulate prin trezoreria statului | [`lege/2001/503/`](lege/2001/503/) | amended, not consolidated | 1 | 2001-10-10 | 2001-10-10 |
+| Legea nr. 505/2001 privind aprobarea Ordonanţei Guvernului nr. 109/1999 pentru modificarea şi completarea Ordonanţei Guvernului nr. 22/1992 privind finanţarea ocrotirii sănătăţii | [`lege/2001/505/`](lege/2001/505/) | amending act | 1 | 2001-10-15 | 2001-10-15 |
 | Legea nr. 506/2001 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 13/2001 privind soluţionarea contestaţiilor împotriva măsurilor dispuse prin actele de control sau de impunere întocmite de organele Ministerului Finanţelor Publice | [`lege/2001/506/`](lege/2001/506/) | amended, not consolidated | 1 | 2001-10-16 | 2001-10-16 |
 | Legea nr. 508/2001 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 114/2000 privind aprobarea scutirii de la plata taxelor vamale a unei drage absorbant-refulante autopropulsate, cu magazie proprie cu capacitate de 2.500 mc | [`lege/2001/508/`](lege/2001/508/) | amending act | 1 | 2001-10-15 | 2001-10-15 |
 | Legea nr. 509/2001 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 51/2001 pentru modificarea art. 44 din Legea nr. 32/2000 privind societăţile de asigurare şi supravegherea asigurărilor | [`lege/2001/509/`](lege/2001/509/) | amending act | 1 | 2001-10-15 | 2001-10-15 |
@@ -12035,7 +12044,7 @@
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 5/2026 pentru modificarea şi completarea Ordonanţei Guvernului nr. 27/2011 privind transporturile rutiere şi pentru completarea Ordonanţei de urgenţă a Guvernului nr. 28/1999 privind obligaţia operatorilor economici de a utiliza aparate de marcat electronice fiscale | [`og/2026/5/`](og/2026/5/) | amended, not consolidated | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (26519, of which 12399 amending acts)
+## Government decisions (HG) (26521, of which 12401 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -13137,6 +13146,8 @@
 | Hotărârea Guvernului nr. 938/2001 | [`hg/2001/938/`](hg/2001/938/) | in force | 1 | 2001-10-03 | 2001-10-03 |
 | Hotărârea Guvernului nr. 952/2001 | [`hg/2001/952/`](hg/2001/952/) | in force | 1 | 2001-10-09 | 2001-10-09 |
 | Hotărârea Guvernului nr. 962/2001 | [`hg/2001/962/`](hg/2001/962/) | in force | 3 | 2001-10-04 | 2014-04-08 |
+| Hotărârea Guvernului nr. 969/2001 pentru aprobarea cheltuielilor ocazionate de organizarea la Bucureşti în luna septembrie 2001 a reuniunii Comisiei mixte de control pentru soluţionarea conflictului georgiano-sud-osetin | [`hg/2001/969/`](hg/2001/969/) | amending act | 1 | 2001-10-09 | 2001-10-09 |
+| Hotărârea Guvernului nr. 970/2001 pentru aprobarea amendamentului convenit prin schimb de scrisori semnate la Washington la 20 aprilie 2001 şi la Bucureşti la 21 mai 2001 între Guvernul României şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare la Acordul de împrumut dintre România şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare - Proiectul privind reabilitarea şcolilor -, semnat la Washington la 2 octombrie 1997 | [`hg/2001/970/`](hg/2001/970/) | amending act | 1 | 2001-10-24 | 2001-10-24 |
 | Hotărârea Guvernului nr. 971/2001 privind abrogarea Hotărârii Guvernului nr. 1.182/2000 de declarare a utilităţii publice pentru lucrarea de interes naţional "Sanatoriul antituberculos situat în oraşul Buşteni, judeţul Prahova" | [`hg/2001/971/`](hg/2001/971/) | amending act | 1 | 2001-10-05 | 2001-10-05 |
 | Hotărârea Guvernului nr. 974/2001 | [`hg/2001/974/`](hg/2001/974/) | in force | 1 | 2001-10-18 | 2001-10-18 |
 | Hotărârea Guvernului nr. 975/2001 privind acordarea cetăţeniei române unor persoane | [`hg/2001/975/`](hg/2001/975/) | in force | 1 | 2001-10-16 | 2001-10-16 |
