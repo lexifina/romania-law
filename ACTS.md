@@ -1,6 +1,6 @@
 # Every act in this repository
 
-22695 acts, 36,328 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+22717 acts, 36,350 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (3472, of which 1957 amending acts)
+## Laws (legi) (3481, of which 1963 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -931,8 +931,17 @@
 | Legea nr. 319/2009 pentru instituirea Zilei mamei și a Zilei tatălui | [`lege/2009/319/`](lege/2009/319/) | in force | 1 | 2009-10-18 | 2009-10-18 |
 | Legea nr. 327/2009 | [`lege/2009/327/`](lege/2009/327/) | in force | 1 | 2009-11-05 | 2009-11-05 |
 | Legea nr. 329/2009 privind reorganizarea unor autorități și instituții publice, raționalizarea cheltuielilor publice, susținerea mediului de afaceri și respectarea acordurilor-cadru cu Comisia Europeană și Fondul Monetar Internațional | [`lege/2009/329/`](lege/2009/329/) | in force | 15 | 2009-11-12 | 2025-09-01 |
+| Legea nr. 338/2009 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 96/2007 privind adoptarea unor măsuri referitoare la alegerile pentru Parlamentul European din anul 2007 | [`lege/2009/338/`](lege/2009/338/) | amending act | 1 | 2009-11-16 | 2009-11-16 |
 | Legea nr. 340/2009 privind formularea de către România a unei declarații în baza prevederilor art. 35 paragraful (2) din Tratatul privind Uniunea Europeană | [`lege/2009/340/`](lege/2009/340/) | in force | 1 | 2009-11-21 | 2009-11-21 |
+| Legea nr. 341/2009 pentru completarea art. 5 din Ordonanţa de urgenţă a Guvernului nr. 148/2005 privind susţinerea familiei în vederea creşterii copilului | [`lege/2009/341/`](lege/2009/341/) | amending act | 1 | 2009-11-16 | 2009-11-16 |
+| Legea nr. 343/2009 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 200/2008 pentru modificarea şi completarea Legii nr. 571/2003 privind Codul fiscal | [`lege/2009/343/`](lege/2009/343/) | amending act | 1 | 2009-11-16 | 2009-11-16 |
+| Legea nr. 344/2009 pentru completarea art. 8 din Legea bibliotecilor nr. 334/2002 | [`lege/2009/344/`](lege/2009/344/) | amending act | 1 | 2009-11-16 | 2009-11-16 |
+| Legea nr. 345/2009 pentru modificarea şi completarea art. 36 din Legea nr. 350/2001 privind amenajarea teritoriului şi urbanismul | [`lege/2009/345/`](lege/2009/345/) | amending act | 1 | 2009-11-16 | 2009-11-16 |
+| Legea nr. 346/2009 pentru ratificarea Protocolului, semnat la Bucureşti la 6 aprilie 2009, de amendare a Acordului dintre Guvernul României şi Guvernul Regatului Haşemit al Iordaniei privind promovarea şi protejarea reciprocă a investiţiilor, semnat la Bucureşti la 2 iulie 1992 | [`lege/2009/346/`](lege/2009/346/) | in force | 1 | 2009-11-20 | 2009-11-20 |
+| Legea nr. 347/2009 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 83/2009 privind ratificarea Contractului de finanţare dintre România şi Banca Europeană de Investiţii referitor la Proiectul privind infrastructura municipală în domeniul protecţiei mediului, faza B, semnat la Bucureşti la 30 octombrie 2008 şi la Luxemburg la 10 noiembrie 2008 | [`lege/2009/347/`](lege/2009/347/) | amending act | 1 | 2009-11-21 | 2009-11-21 |
+| Legea nr. 348/2009 pentru ratificarea Acordului de garanţie semnat între statele membre ale Uniunii Europene şi Banca Europeană de Investiţii privind împrumuturile care vor fi acordate de către Banca Europeană de Investiţii pentru proiectele de investiţii din statele din Africa, Caraibe şi Pacific şi din ţările şi teritoriile de peste mări, precum şi a Acordului privind administrarea arieratelor semnat între statele membre ale Uniunii Europene şi Banca Europeană de Investiţii privind procedurile de plată şi rambursare în cadrul garanţiilor statelor membre în favoarea Băncii Europene de Investiţii, semnate de România la Luxemburg la 21 octombrie 2008 | [`lege/2009/348/`](lege/2009/348/) | in force | 1 | 2009-11-29 | 2009-11-29 |
 | Legea nr. 349/2009 | [`lege/2009/349/`](lege/2009/349/) | in force | 1 | 2009-11-21 | 2009-11-21 |
+| Legea nr. 351/2009 pentru ratificarea Acordului de împrumut dintre România, reprezentată de Ministerul Economiei şi Finanţelor (Împrumutat), şi Institutul de Credit pentru Reconstrucţie - Frankfurt pe Main (KfW) (Împrumutător) pentru 8.000.000 de euro, semnat la Bucureşti la 31 iulie 2008 şi, respectiv, la Frankfurt pe Main la 2 noiembrie 2007, pentru finanţarea Proiectului "Promovarea întreprinderilor mici şi mijlocii (etapa a 4-a)" | [`lege/2009/351/`](lege/2009/351/) | in force | 1 | 2009-11-20 | 2009-11-20 |
 | Legea nr. 354/2009 privind aprobarea Ordonanței de urgență a Guvernului nr. 36/2009 pentru modificarea și completarea Legii cetățeniei române nr. 21/1991 | [`lege/2009/354/`](lege/2009/354/) | amending act | 2 | 2009-11-19 | 2010-02-10 |
 | Legea nr. 355/2009 | [`lege/2009/355/`](lege/2009/355/) | in force | 1 | 2010-02-23 | 2010-02-23 |
 | Legea nr. 356/2009 privind ratificarea Acordului dintre Guvernul României şi Guvernul Canadei pentru promovarea şi protejarea reciprocă a investiţiilor, semnat la Bucureşti la 8 mai 2009 | [`lege/2009/356/`](lege/2009/356/) | in force | 1 | 2009-11-29 | 2009-11-29 |
@@ -5771,7 +5780,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (16933, of which 8829 amending acts)
+## Government decisions (HG) (16946, of which 8836 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -8802,6 +8811,19 @@
 | Hotărârea Guvernului nr. 1262/2009 | [`hg/2009/1262/`](hg/2009/1262/) | in force | 1 | 2009-10-28 | 2009-10-28 |
 | Hotărârea Guvernului nr. 1301/2009 | [`hg/2009/1301/`](hg/2009/1301/) | in force | 1 | 2009-12-02 | 2009-12-02 |
 | Hotărârea Guvernului nr. 1326/2009 | [`hg/2009/1326/`](hg/2009/1326/) | in force | 2 | 2009-11-27 | 2011-07-26 |
+| Hotărârea Guvernului nr. 1327/2009 pentru modificarea anexei nr. 3 "Judeţul Argeş" la Hotărârea Guvernului nr. 1.051/2009 privind stabilirea secţiilor de votare speciale care se vor organiza în municipii, oraşe şi comune pentru desfăşurarea alegerilor pentru Preşedintele României din anul 2009 | [`hg/2009/1327/`](hg/2009/1327/) | amending act | 1 | 2009-11-11 | 2009-11-11 |
+| Hotărârea Guvernului nr. 1328/2009 privind suplimentarea bugetului Ministerului Administraţiei şi Internelor din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2009 | [`hg/2009/1328/`](hg/2009/1328/) | in force | 1 | 2009-11-11 | 2009-11-11 |
+| Hotărârea Guvernului nr. 1329/2009 pentru modificarea şi completarea Hotărârii Guvernului nr. 1.259/2009 privind organizarea şi desfăşurarea referendumului naţional din data de 22 noiembrie 2009 | [`hg/2009/1329/`](hg/2009/1329/) | amending act | 1 | 2009-11-11 | 2009-11-11 |
+| Hotărârea Guvernului nr. 1330/2009 privind exercitarea, cu caracter temporar, a funcţiei publice de subprefect al judeţului Ilfov de către domnul Zamfir Daniel-Tudorel | [`hg/2009/1330/`](hg/2009/1330/) | in force | 1 | 2009-11-12 | 2009-11-12 |
+| Hotărârea Guvernului nr. 1335/2009 privind numirea unui consul general | [`hg/2009/1335/`](hg/2009/1335/) | in force | 1 | 2009-11-12 | 2009-11-12 |
+| Hotărârea Guvernului nr. 1336/2009 privind suplimentarea bugetului Ministerului Afacerilor Externe din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2009 | [`hg/2009/1336/`](hg/2009/1336/) | in force | 1 | 2009-11-13 | 2009-11-13 |
+| Hotărârea Guvernului nr. 1337/2009 privind aprobarea bugetului de venituri şi cheltuieli pe anul 2009 al Societăţii Comerciale de Transport cu Metroul Bucureşti "Metrorex" - S.A., aflată sub autoritatea Ministerului Transporturilor şi Infrastructurii | [`hg/2009/1337/`](hg/2009/1337/) | amending act | 1 | 2009-11-12 | 2009-11-12 |
+| Hotărârea Guvernului nr. 1338/2009 privind aprobarea indicatorilor tehnico-economici ai unor obiective de investiţii din cadrul programului de construcţii de locuinţe pentru tineri, destinate închirierii, derulat prin intermediul Agenţiei Naţionale pentru Locuinţe | [`hg/2009/1338/`](hg/2009/1338/) | amending act | 1 | 2009-11-16 | 2009-11-16 |
+| Hotărârea Guvernului nr. 1339/2009 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţie "Bazin de înot de polo - str. Alexandru Vaida Voevod, f.n., Cluj-Napoca, judeţul Cluj" din cadrul Programului "Bazine de înot", realizat prin Compania Naţională de Investiţii "C.N.I." - S.A | [`hg/2009/1339/`](hg/2009/1339/) | amending act | 1 | 2009-11-16 | 2009-11-16 |
+| Hotărârea Guvernului nr. 1342/2009 pentru aprobarea redistribuirii sumelor alocate din credite externe, pe anul 2009, între Ministerul Administraţiei şi Internelor şi Ministerul Transporturilor şi Infrastructurii | [`hg/2009/1342/`](hg/2009/1342/) | amending act | 1 | 2009-11-16 | 2009-11-16 |
+| Hotărârea Guvernului nr. 1343/2009 pentru scoaterea din inventarul centralizat al bunurilor din domeniul public al statului şi din administrarea Agenţiei Domeniilor Statului a unor suprafeţe de teren ca urmare a retrocedării acestora către foştii proprietari | [`hg/2009/1343/`](hg/2009/1343/) | in force | 1 | 2009-11-20 | 2009-11-20 |
+| Hotărârea Guvernului nr. 1346/2009 privind aprobarea înscrierii în inventarul bunurilor din domeniul public al statului şi darea în administrarea Ministerului Administraţiei şi Internelor a unui imobil situat în municipiul Piteşti şi pentru actualizarea inventarului centralizat al bunurilor din domeniul public al statului, ca urmare a schimbării unităţii de administrare pentru 3 imobile aflate în domeniul public al statului şi în administrarea Ministerului Administraţiei şi Internelor, situate în localităţile Olteniţa, Sinaia şi Bacău | [`hg/2009/1346/`](hg/2009/1346/) | amending act | 1 | 2009-11-20 | 2009-11-20 |
+| Hotărârea Guvernului nr. 1347/2009 privind consolidarea capacităţii de gestionare a Programului operaţional pentru pescuit | [`hg/2009/1347/`](hg/2009/1347/) | in force | 1 | 2009-11-19 | 2009-11-19 |
 | Hotărârea Guvernului nr. 1350/2009 privind trecerea din domeniul public al statului în domeniul privat al acestuia a unor construcţii aflate în administrarea Ministerului Administraţiei şi Internelor | [`hg/2009/1350/`](hg/2009/1350/) | in force | 1 | 2009-11-26 | 2009-11-26 |
 | Hotărârea Guvernului nr. 1352/2009 privind aprobarea bugetelor de venituri şi cheltuieli rectificate pe anul 2009 ale unor operatori economici aflaţi sub autoritatea Ministerului Transporturilor şi Infrastructurii | [`hg/2009/1352/`](hg/2009/1352/) | amending act | 1 | 2009-11-19 | 2009-11-19 |
 | Hotărârea Guvernului nr. 1353/2009 privind suplimentarea bugetului Ministerului Transporturilor şi Infrastructurii din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2009 | [`hg/2009/1353/`](hg/2009/1353/) | in force | 1 | 2009-11-19 | 2009-11-19 |
