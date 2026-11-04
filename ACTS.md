@@ -1,6 +1,6 @@
 # Every act in this repository
 
-23617 acts, 37,250 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+23629 acts, 37,262 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -5921,7 +5921,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (17705, of which 9177 amending acts)
+## Government decisions (HG) (17717, of which 9181 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -6618,7 +6618,19 @@
 | Hotărârea Guvernului nr. 1460/2006 privind înființarea unor stațiuni de cercetare-dezvoltare agricolă în domeniul culturii plantelor de camp prin reorganizarea unor stațiuni de cercetare și producție agricolă în domeniul culturii plantelor de camp | [`hg/2006/1460/`](hg/2006/1460/) | in force | 3 | 2006-11-10 | 2019-10-09 |
 | Hotărârea Guvernului nr. 1470/2006 privind redobândirea cetățeniei române de către unele persoane | [`hg/2006/1470/`](hg/2006/1470/) | in force | 1 | 2006-11-15 | 2006-11-15 |
 | Hotărârea Guvernului nr. 1522/2006 | [`hg/2006/1522/`](hg/2006/1522/) | in force | 7 | 2006-11-09 | 2017-10-16 |
+| Hotărârea Guvernului nr. 1572/2006 pentru aprobarea bugetului de venituri şi cheltuieli rectificat al Regiei Autonome "Monitorul Oficial" pe anul 2006 | [`hg/2006/1572/`](hg/2006/1572/) | amending act | 1 | 2006-11-09 | 2006-11-09 |
+| Hotărârea Guvernului nr. 1574/2006 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2006, pentru judeţul Covasna | [`hg/2006/1574/`](hg/2006/1574/) | in force | 1 | 2006-11-13 | 2006-11-13 |
+| Hotărârea Guvernului nr. 1579/2006 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2006, pentru judeţul Teleorman | [`hg/2006/1579/`](hg/2006/1579/) | in force | 1 | 2006-11-13 | 2006-11-13 |
+| Hotărârea Guvernului nr. 1581/2006 pentru modificarea art. 6 alin. (2) din Hotărârea Guvernului nr. 1.853/2005 privind sprijinul direct al statului prin acordarea de subvenţii, în anul 2006, producătorilor agricoli din sectorul animalier şi din sectorul piscicol | [`hg/2006/1581/`](hg/2006/1581/) | amending act | 1 | 2006-11-20 | 2006-11-20 |
+| Hotărârea Guvernului nr. 1583/2006 pentru susţinerea din fonduri bugetare a achiziţiei de animale de reproducţie | [`hg/2006/1583/`](hg/2006/1583/) | in force | 1 | 2006-11-16 | 2006-11-16 |
+| Hotărârea Guvernului nr. 1584/2006 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2006, pentru asigurarea cheltuielilor de personal ale unităţilor de învăţământ preuniversitar de stat | [`hg/2006/1584/`](hg/2006/1584/) | in force | 1 | 2006-11-10 | 2006-11-10 |
+| Hotărârea Guvernului nr. 1585/2006 privind suplimentarea bugetului Serviciului de Protecţie şi Pază din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2006 | [`hg/2006/1585/`](hg/2006/1585/) | in force | 1 | 2006-11-13 | 2006-11-13 |
 | Hotărârea Guvernului nr. 1586/2006 | [`hg/2006/1586/`](hg/2006/1586/) | in force | 1 | 2006-11-20 | 2006-11-20 |
+| Hotărârea Guvernului nr. 1587/2006 privind stabilirea criteriilor de acordare a etichetei ecologice pentru serviciile de camping | [`hg/2006/1587/`](hg/2006/1587/) | in force | 1 | 2006-12-05 | 2006-12-05 |
+| Hotărârea Guvernului nr. 1588/2006 privind darea în administrarea Casei Judeţene de Pensii Satu Mare a unor bunuri imobile, proprietate publică a statului | [`hg/2006/1588/`](hg/2006/1588/) | in force | 1 | 2006-11-21 | 2006-11-21 |
+| Hotărârea Guvernului nr. 1589/2006 pentru modificarea Hotărârii Guvernului nr. 1.009/2004 privind stabilirea condiţiilor de punere în funcţiune a instalaţiilor de transport pe cablu pentru persoane | [`hg/2006/1589/`](hg/2006/1589/) | amending act | 1 | 2006-11-17 | 2006-11-17 |
+| Hotărârea Guvernului nr. 1590/2006 privind trecerea unor construcţii aflate în administrarea Ministerului Administraţiei şi Internelor din domeniul public al statului în domeniul privat al acestuia | [`hg/2006/1590/`](hg/2006/1590/) | in force | 1 | 2006-11-21 | 2006-11-21 |
+| Hotărârea Guvernului nr. 1591/2006 privind aprobarea Normelor pentru organizarea în România, în perioada 2006-2008, a acţiunilor de protocol specifice Ministerului Culturii şi Cultelor, cu ocazia unor evenimente culturale la nivel naţional şi internaţional şi stabilirea cheltuielilor ce se pot efectua în acest scop | [`hg/2006/1591/`](hg/2006/1591/) | amending act | 1 | 2006-11-21 | 2006-11-21 |
 | Hotărârea Guvernului nr. 1593/2006 privind suplimentarea bugetului Cancelariei Primului-Ministru din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2006, pentru Agenţia Naţională pentru Sport | [`hg/2006/1593/`](hg/2006/1593/) | in force | 1 | 2006-11-15 | 2006-11-15 |
 | Hotărârea Guvernului nr. 1594/2006 privind suplimentarea bugetului Cancelariei Primului-Ministru din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2006, pentru Autoritatea Naţională pentru Tineret | [`hg/2006/1594/`](hg/2006/1594/) | in force | 1 | 2006-11-15 | 2006-11-15 |
 | Hotărârea Guvernului nr. 1598/2006 privind declararea zile de 1 ianuarie "Ziua aderării României la Uniunea Europeană" şi pentru aprobarea organizării, în perioada 24 decembrie 2006 - 1 ianuarie 2007, a manifestărilor ocazionate de aderarea României la Uniunea Europeană | [`hg/2006/1598/`](hg/2006/1598/) | amending act | 1 | 2006-11-13 | 2006-11-13 |
