@@ -1,6 +1,6 @@
 # Every act in this repository
 
-23389 acts, 37,022 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+23408 acts, 37,041 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (3578, of which 2049 amending acts)
+## Laws (legi) (3588, of which 2059 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -696,9 +696,19 @@
 | Legea nr. 474/2006 privind aprobarea Ordonanței de urgență a Guvernului nr. 39/2006 pentru modificarea și completarea Legii Arhivelor Naționale nr. 16/1996 | [`lege/2006/474/`](lege/2006/474/) | amending act | 1 | 2006-12-24 | 2006-12-24 |
 | Legea nr. 482/2006 | [`lege/2006/482/`](lege/2006/482/) | repealed 2010-07-03 | 3 | 2007-01-01 | 2010-07-03 |
 | Legea nr. 489/2006 | [`lege/2006/489/`](lege/2006/489/) | in force | 5 | 2007-01-11 | 2014-05-26 |
+| Legea nr. 490/2006 pentru modificarea Ordonanţei de urgenţă a Guvernului nr. 68/2004 privind unele măsuri în domeniul învăţământului şi a Ordonanţei de urgenţă a Guvernului nr. 196/2002 privind creşterile salariale ce se vor acorda în anii 2003 şi 2004 personalului din învăţământ, salarizat potrivit Ordonanţei de urgenţă a Guvernului nr. 8/2000 pentru modificarea şi completarea Legii nr. 128/1997 privind Statutul personalului didactic, referitor la stabilirea salariului de bază al personalului din învăţământ, şi pentru abrogarea unor dispoziţii din Legea nr. 154/1998 privind sistemul de stabilire a salariilor de bază în sectorul bugetar şi a indemnizaţiilor pentru persoane care ocupă funcţii de demnitate publică | [`lege/2006/490/`](lege/2006/490/) | amending act | 1 | 2007-01-01 | 2007-01-01 |
+| Legea nr. 493/2006 privind aprobarea Ordonanţei Guvernului nr. 32/2006 pentru modificarea art. 4 din Legea nr. 597/2001 privind unele măsuri de protecţie şi autorizare a construcţiilor în zona de coastă a Mării Negre | [`lege/2006/493/`](lege/2006/493/) | amending act | 1 | 2007-01-08 | 2007-01-08 |
+| Legea nr. 496/2006 privind aprobarea Ordonanţei Guvernului nr. 43/2006 pentru modificarea art. 199 alin. (1) lit. d) din Legea nr. 571/2003 privind Codul fiscal | [`lege/2006/496/`](lege/2006/496/) | amending act | 1 | 2007-01-01 | 2007-01-01 |
 | Legea nr. 497/2006 | [`lege/2006/497/`](lege/2006/497/) | in force | 1 | 2007-01-13 | 2007-01-13 |
+| Legea nr. 499/2006 privind aprobarea Ordonanţei Guvernului nr. 58/2006 pentru modificarea şi completarea Ordonanţei Guvernului nr. 57/2002 privind cercetarea ştiinţifică şi dezvoltarea tehnologică | [`lege/2006/499/`](lege/2006/499/) | amending act | 1 | 2007-01-01 | 2007-01-01 |
+| Legea nr. 506/2006 privind aprobarea Ordonanţei Guvernului nr. 51/2006 pentru modificarea alin. (2) al art. 11 din Legea nr. 231/2005 privind stimularea investiţiilor în agricultură | [`lege/2006/506/`](lege/2006/506/) | amending act | 1 | 2007-01-08 | 2007-01-08 |
+| Legea nr. 508/2006 pentru modificarea şi completarea Legii nr. 61/1993 privind alocaţia de stat pentru copii | [`lege/2006/508/`](lege/2006/508/) | amending act | 1 | 2007-01-08 | 2007-01-08 |
 | Legea nr. 509/2006 | [`lege/2006/509/`](lege/2006/509/) | in force | 2 | 2007-01-14 | 2019-01-01 |
+| Legea nr. 510/2006 privind aprobarea Ordonanţei Guvernului nr. 52/2006 pentru aprobarea numărului de exemplare din speciile urs, lup, râs şi pisică sălbatică, ce se pot recolta în cadrul sezonului de vânătoare 2006-2007 | [`lege/2006/510/`](lege/2006/510/) | amending act | 1 | 2007-01-13 | 2007-01-13 |
 | Legea nr. 512/2006 | [`lege/2006/512/`](lege/2006/512/) | in force | 1 | 2007-01-13 | 2007-01-13 |
+| Legea nr. 513/2006 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 62/2006 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 34/2000 privind produsele agroalimentare ecologice | [`lege/2006/513/`](lege/2006/513/) | amending act | 1 | 2007-01-13 | 2007-01-13 |
+| Legea nr. 516/2006 privind completarea Legii nr. 302/2005 pentru modificarea şi completarea Legii nr. 31/1990 privind societăţile comerciale | [`lege/2006/516/`](lege/2006/516/) | amending act | 1 | 2007-01-12 | 2007-01-12 |
+| Legea nr. 517/2006 privind aprobarea Ordonanţei Guvernului nr. 60/2006 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 49/2005 privind stabilirea unor măsuri de reorganizare în cadrul administraţiei publice centrale | [`lege/2006/517/`](lege/2006/517/) | amending act | 1 | 2007-01-12 | 2007-01-12 |
 | Legea nr. 7/2007 | [`lege/2007/7/`](lege/2007/7/) | in force | 1 | 2007-01-20 | 2007-01-20 |
 | Legea nr. 9/2007 | [`lege/2007/9/`](lege/2007/9/) | in force | 1 | 2007-01-20 | 2007-01-20 |
 | Legea nr. 13/2007 energiei electrice | [`lege/2007/13/`](lege/2007/13/) | in force | 7 | 2007-02-22 | 2012-10-06 |
@@ -5880,7 +5890,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (17518, of which 9105 amending acts)
+## Government decisions (HG) (17527, of which 9111 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -6591,8 +6601,17 @@
 | Hotărârea Guvernului nr. 1879/2006 | [`hg/2006/1879/`](hg/2006/1879/) | in force | 1 | 2007-01-16 | 2007-01-16 |
 | Hotărârea Guvernului nr. 1883/2006 | [`hg/2006/1883/`](hg/2006/1883/) | in force | 1 | 2007-01-11 | 2007-01-11 |
 | Hotărârea Guvernului nr. 1897/2006 | [`hg/2006/1897/`](hg/2006/1897/) | in force | 1 | 2007-01-16 | 2007-01-16 |
+| Hotărârea Guvernului nr. 1902/2006 pentru modificarea şi completarea Hotărârii Guvernului nr. 1.853/2005 privind sprijinul direct al statului prin acordarea de subvenţii, în anul 2006, producătorilor agricoli din sectorul animalier şi din sectorul piscicol | [`hg/2006/1902/`](hg/2006/1902/) | amending act | 1 | 2006-12-28 | 2006-12-28 |
+| Hotărârea Guvernului nr. 1903/2006 pentru modificarea Hotărârii Guvernului nr. 965/2006 privind sprijinul direct al statului, sub formă de primă de producţie, acordat producătorilor de tutun în anul 2006 în scopul creşterii producţiei şi a calităţii tutunului | [`hg/2006/1903/`](hg/2006/1903/) | amending act | 1 | 2006-12-28 | 2006-12-28 |
+| Hotărârea Guvernului nr. 1905/2006 privind finanţarea din bugetul Ministerului Afacerilor Externe a unor manifestări culturale şi de diplomaţie publică organizate la misiunile României în vederea marcării aderării României la Uniunea Europeană | [`hg/2006/1905/`](hg/2006/1905/) | in force | 1 | 2006-12-27 | 2006-12-27 |
+| Hotărârea Guvernului nr. 1908/2006 pentru extinderea regimului de zonă liberă pe unele suprafeţe din porturile Galaţi, Brăila şi Constanţa | [`hg/2006/1908/`](hg/2006/1908/) | in force | 1 | 2007-01-03 | 2007-01-03 |
+| Hotărârea Guvernului nr. 1910/2006 privind stabilirea numărului de permise de muncă ce pot fi eliberate străinilor în anul 2007 | [`hg/2006/1910/`](hg/2006/1910/) | in force | 1 | 2006-12-29 | 2006-12-29 |
+| Hotărârea Guvernului nr. 1911/2006 pentru aprobarea participării României cu un pavilion naţional la Expoziţia Internaţională pentru Industrie Alimentară, Agricultură şi Horticultură "Săptămâna Verde", Berlin, 19-28 ianuarie 2007 | [`hg/2006/1911/`](hg/2006/1911/) | amending act | 1 | 2007-01-03 | 2007-01-03 |
 | Hotărârea Guvernului nr. 1912/2006 | [`hg/2006/1912/`](hg/2006/1912/) | in force | 1 | 2007-01-01 | 2007-01-01 |
+| Hotărârea Guvernului nr. 1914/2006 pentru aprobarea Normelor metodologice de aplicare a prevederilor cap. VI din Legea nr. 295/2004 privind regimul armelor şi al muniţiilor | [`hg/2006/1914/`](hg/2006/1914/) | amending act | 1 | 2007-01-01 | 2007-01-01 |
 | Hotărârea Guvernului nr. 1915/2006 | [`hg/2006/1915/`](hg/2006/1915/) | in force | 1 | 2007-01-11 | 2007-01-11 |
+| Hotărârea Guvernului nr. 1917/2006 privind aprobarea Protocolului adiţional, semnat la Bucureşti la data de 14 decembrie 2006, la Memorandumul de înţelegere dintre Ministerul Integrării Europene şi Programul Natiunilor Unite pentru Dezvoltare referitor la cofinanţarea şi administrarea proiectului "Extinderea implementării Agendei locale 21 în România", semnat la Bucureşti la 12 mai 2006 şi aprobat prin Hotărârea Guvernului nr. 898/2006, publicată în Monitorul Oficial al României, Partea I, nr. 659 din 31 iulie 2006 | [`hg/2006/1917/`](hg/2006/1917/) | amending act | 1 | 2007-01-16 | 2007-01-16 |
+| Hotărârea Guvernului nr. 1918/2006 pentru modificarea şi completarea Hotărârii Guvernului nr. 83/2005 privind organizarea şi funcţionarea Ministerului Justiţiei | [`hg/2006/1918/`](hg/2006/1918/) | amending act | 1 | 2007-01-09 | 2007-01-09 |
 | Hotărârea Guvernului nr. 9/2007 | [`hg/2007/9/`](hg/2007/9/) | in force | 7 | 2007-01-30 | 2023-11-09 |
 | Hotărârea Guvernului nr. 26/2007 | [`hg/2007/26/`](hg/2007/26/) | in force | 1 | 2007-01-22 | 2007-01-22 |
 | Hotărârea Guvernului nr. 42/2007 privind transmiterea unui imobil din domeniul privat al statului şi din administrarea Regiei Autonome "Administraţia Română a Serviciilor de Trafic Aerian - ROMATSA" în domeniul public al oraşului Mizil şi în administrarea Consiliului Local al Oraşului Mizil, judeţul Prahova | [`hg/2007/42/`](hg/2007/42/) | in force | 1 | 2007-01-25 | 2007-01-25 |
