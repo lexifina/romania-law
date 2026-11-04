@@ -150113,6 +150113,21 @@
    ]
   },
   {
+   "slug": "hg-1208-2001",
+   "path": "hg/2001/1208",
+   "short": "HG nr. 1208/2001",
+   "title": "Hotărârea Guvernului nr. 1208/2001 pentru aprobarea Acordului de cooperare tehnică, ştiinţifică şi tehnologică dintre Guvernul României şi Guvernul Republicii Cuba, semnat la Bucureşti la 21 septembrie 2001",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/32893",
+   "versions": [
+    {
+     "from": "2001-12-19",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/32893",
+     "sha256": "c7d284584128913b9c7dd798d644b9f80540184c370c8d36db24ace75ee528c7"
+    }
+   ]
+  },
+  {
    "slug": "hg-1208-2002",
    "path": "hg/2002/1208",
    "short": "HG nr. 1208/2002",
@@ -151454,6 +151469,21 @@
    ]
   },
   {
+   "slug": "hg-1215-2001",
+   "path": "hg/2001/1215",
+   "short": "HG nr. 1215/2001",
+   "title": "Hotărârea Guvernului nr. 1215/2001 pentru aprobarea Protocolului dintre Ministerul Apărării Naţionale din România şi Ministerul Apărării din Republica Bulgaria privind cooperarea între forţele aeriene, semnat la Constanţa la 24 august 2001",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/32930",
+   "versions": [
+    {
+     "from": "2001-12-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/32930",
+     "sha256": "e81f7af3ae41ded07a56205c1bb8ce3833976d157911e3befc9438e1873b0bbb"
+    }
+   ]
+  },
+  {
    "slug": "hg-1215-2002",
    "path": "hg/2002/1215",
    "short": "HG nr. 1215/2002",
@@ -152017,6 +152047,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/289124",
      "sha256": "faf34eebb1564a1e14f932c2c306a94edf8597fe534173de090f75494518090d"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1218-2001",
+   "path": "hg/2001/1218",
+   "short": "HG nr. 1218/2001",
+   "title": "Hotărârea Guvernului nr. 1218/2001 privind înfiinţarea Societăţii Comerciale \"Petrotrans\" - S.A. prin reorganizarea, prin divizare parţială, a Sucursalei \"Petrotrans\" Ploieşti din cadrul Societăţii Naţionale a Petrolului \"Petrom\" - S.A. Bucureşti",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/32870",
+   "versions": [
+    {
+     "from": "2001-12-18",
+     "units": 35,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/32870",
+     "sha256": "7745c57d19a1b2928d9667a35077b874259f39b8e04430082aea460d8dfdc736"
     }
    ]
   },

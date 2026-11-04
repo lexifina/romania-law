@@ -1,6 +1,6 @@
 # Every act in this repository
 
-38357 acts, 52,110 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+38360 acts, 52,113 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -11934,7 +11934,7 @@
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 5/2026 pentru modificarea şi completarea Ordonanţei Guvernului nr. 27/2011 privind transporturile rutiere şi pentru completarea Ordonanţei de urgenţă a Guvernului nr. 28/1999 privind obligaţia operatorilor economici de a utiliza aparate de marcat electronice fiscale | [`og/2026/5/`](og/2026/5/) | amended, not consolidated | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (26389, of which 12341 amending acts)
+## Government decisions (HG) (26392, of which 12343 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -13072,8 +13072,11 @@
 | Hotărârea Guvernului nr. 1188/2001 pentru aprobarea Normelor metodologice privind recalcularea pensiilor militare de stat | [`hg/2001/1188/`](hg/2001/1188/) | amended, not consolidated | 1 | 2001-12-07 | 2001-12-07 |
 | Hotărârea Guvernului nr. 1194/2001 | [`hg/2001/1194/`](hg/2001/1194/) | in force | 2 | 2001-12-12 | 2003-11-17 |
 | Hotărârea Guvernului nr. 1206/2001 pentru aprobarea Normelor de aplicare a dispoziţiilor privitoare la dreptul cetăţenilor aparţinând unei minorităţi naţionale de a folosi limba maternă în administraţia publică locală, cuprinse în Legea administraţiei publice locale nr. 215/2001 | [`hg/2001/1206/`](hg/2001/1206/) | amending act | 1 | 2001-12-07 | 2001-12-07 |
+| Hotărârea Guvernului nr. 1208/2001 pentru aprobarea Acordului de cooperare tehnică, ştiinţifică şi tehnologică dintre Guvernul României şi Guvernul Republicii Cuba, semnat la Bucureşti la 21 septembrie 2001 | [`hg/2001/1208/`](hg/2001/1208/) | amending act | 1 | 2001-12-19 | 2001-12-19 |
 | Hotărârea Guvernului nr. 1211/2001 | [`hg/2001/1211/`](hg/2001/1211/) | in force | 8 | 2001-12-11 | 2017-06-12 |
+| Hotărârea Guvernului nr. 1215/2001 pentru aprobarea Protocolului dintre Ministerul Apărării Naţionale din România şi Ministerul Apărării din Republica Bulgaria privind cooperarea între forţele aeriene, semnat la Constanţa la 24 august 2001 | [`hg/2001/1215/`](hg/2001/1215/) | amending act | 1 | 2001-12-20 | 2001-12-20 |
 | Hotărârea Guvernului nr. 1217/2001 | [`hg/2001/1217/`](hg/2001/1217/) | in force | 1 | 2001-12-17 | 2001-12-17 |
+| Hotărârea Guvernului nr. 1218/2001 privind înfiinţarea Societăţii Comerciale "Petrotrans" - S.A. prin reorganizarea, prin divizare parţială, a Sucursalei "Petrotrans" Ploieşti din cadrul Societăţii Naţionale a Petrolului "Petrom" - S.A. Bucureşti | [`hg/2001/1218/`](hg/2001/1218/) | in force | 1 | 2001-12-18 | 2001-12-18 |
 | Hotărârea Guvernului nr. 1219/2001 | [`hg/2001/1219/`](hg/2001/1219/) | in force | 1 | 2001-12-11 | 2001-12-11 |
 | Hotărârea Guvernului nr. 1220/2001 privind eliberarea din funcţia de prefect al Judeţului Vrancea | [`hg/2001/1220/`](hg/2001/1220/) | in force | 1 | 2001-12-07 | 2001-12-07 |
 | Hotărârea Guvernului nr. 1221/2001 privind numirea în funcţia de prefect al judeţului Vrancea | [`hg/2001/1221/`](hg/2001/1221/) | in force | 1 | 2001-12-07 | 2001-12-07 |
