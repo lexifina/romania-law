@@ -1,6 +1,6 @@
 # Every act in this repository
 
-39006 acts, 52,760 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+39032 acts, 52,786 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (8258, of which 3069 amending acts)
+## Laws (legi) (8267, of which 3078 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -952,8 +952,17 @@
 | Legea nr. 212/2001 pentru aprobarea Ordonanţei Guvernului nr. 47/1998 privind constituirea şi utilizarea Fondului special al aviaţiei civile | [`lege/2001/212/`](lege/2001/212/) | amended, not consolidated | 1 | 2001-04-26 | 2001-04-26 |
 | Legea nr. 214/2001 pentru aprobarea Ordonanţei Guvernului nr. 136/2000 privind măsurile de protecţie împotriva introducerii şi răspândirii organismelor de carantina dăunătoare plantelor sau produselor vegetale în România | [`lege/2001/214/`](lege/2001/214/) | amended, not consolidated | 1 | 2001-04-26 | 2001-04-26 |
 | Legea administrației publice locale nr. 215/2001 | [`lege/2001/215/`](lege/2001/215/) | in force | 40 | 2001-05-23 | 2019-07-20 |
+| Legea nr. 217/2001 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 65/2000 privind exceptarea de la plata taxei vamale, a suprataxei şi a taxei pe valoarea adăugată pentru obiectivul de investiţii "Incinerator - sistem de ardere şi neutralizare a deşeurilor din municipiul Oradea" | [`lege/2001/217/`](lege/2001/217/) | amending act | 1 | 2001-05-04 | 2001-05-04 |
+| Legea nr. 218/2001 pentru aprobarea Ordonanţei Guvernului nr. 85/1998 privind plata colaboratorilor externi folosiţi de ministere pentru elaborarea proiectelor de coduri şi a altor acte normative | [`lege/2001/218/`](lege/2001/218/) | amending act | 1 | 2001-05-04 | 2001-05-04 |
 | Legea nr. 219/2001 pentru aprobarea Ordonanţei Guvernului nr. 68/1999 privind finanţarea activităţii Direcţiei Generale a Penitenciarelor din subordinea Ministerului Justiţiei | [`lege/2001/219/`](lege/2001/219/) | amended, not consolidated | 1 | 2001-05-04 | 2001-05-04 |
+| Legea nr. 220/2001 privind aprobarea Ordonanţei Guvernului nr. 25/2000 pentru modificarea Ordonanţei Guvernului nr. 63/1994 privind actualizarea unor normative de cheltuieli pentru autorităţile şi instituţiile publice | [`lege/2001/220/`](lege/2001/220/) | amending act | 1 | 2001-05-04 | 2001-05-04 |
+| Legea nr. 221/2001 privind aprobarea Ordonanţei Guvernului nr. 82/1999 pentru modificarea şi completarea Decretului nr. 247/1977 cu privire la încadrarea cadrelor militare permanente în grupele I, II sau III de muncă | [`lege/2001/221/`](lege/2001/221/) | amending act | 1 | 2001-05-04 | 2001-05-04 |
+| Legea nr. 222/2001 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 8/2001 privind exceptarea de la plata accizelor pentru produsele petroliere acordate ca ajutor umanitar Republicii Federale Iugoslavia | [`lege/2001/222/`](lege/2001/222/) | amending act | 1 | 2001-05-04 | 2001-05-04 |
 | Legea nr. 223/2001 privind respingerea Ordonanţei de urgenţă a Guvernului nr. 177/2000 pentru completarea Legii notarilor publici şi a activităţii notariale nr. 36/1995 | [`lege/2001/223/`](lege/2001/223/) | amended, not consolidated | 1 | 2001-05-04 | 2001-05-04 |
+| Legea nr. 224/2001 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 168/1999 privind măsuri pentru asigurarea finanţării acţiunilor legate de aplicarea Legii fondului funciar nr. 18/1991 | [`lege/2001/224/`](lege/2001/224/) | amending act | 1 | 2001-05-04 | 2001-05-04 |
+| Legea nr. 230/2001 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 246/2000 pentru completarea art. 1 alin. (2) din Ordonanţa Guvernului nr. 70/1994 privind impozitul pe profit | [`lege/2001/230/`](lege/2001/230/) | amending act | 1 | 2001-05-07 | 2001-05-07 |
+| Legea nr. 231/2001 privind aprobarea Ordonanţei de urgenta a Guvernului nr. 135/2000 pentru completarea art. 16 din Ordonanţa de urgenţă a Guvernului nr. 100/1999 privind unele măsuri de protecţie socială a cadrelor militare şi a salariaţilor civili, care se vor aplica în perioada restructurării aparatului central, comandamentelor de arma, inspectoratelor generale, marilor unităţi, unităţilor şi a formaţiunilor din compunerea Ministerului de Interne | [`lege/2001/231/`](lege/2001/231/) | amending act | 1 | 2001-05-07 | 2001-05-07 |
+| Legea nr. 232/2001 pentru aprobarea Ordonanţei de urgenta a Guvernului nr. 202/2000 privind finanţarea continuării şi finalizării lucrărilor pentru Centrul Regional pentru Prevenirea şi Combaterea Infracţionalităţii Transfrontaliere (SECI) | [`lege/2001/232/`](lege/2001/232/) | amending act | 1 | 2001-05-07 | 2001-05-07 |
 | Legea nr. 233/2001 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 2/2001 pentru stabilirea unor măsuri privind înfiinţarea, organizarea/reorganizarea sau funcţionarea, după caz, a unor ministere, organe de specialitate ale administraţiei publice centrale şi instituţii publice | [`lege/2001/233/`](lege/2001/233/) | amended, not consolidated | 1 | 2001-05-22 | 2001-05-22 |
 | Legea nr. 234/2001 pentru respingerea Ordonanţei Guvernului nr. 41/1999 privind organizarea şi funcţionarea Ministerului Apărării Naţionale | [`lege/2001/234/`](lege/2001/234/) | amending act | 1 | 2001-05-22 | 2001-05-22 |
 | Legea nr. 235/2001 pentru respingerea Ordonanţei de urgenţă a Guvernului nr. 74/2000 privind organizarea şi funcţionarea Ministerului Apărării Naţionale | [`lege/2001/235/`](lege/2001/235/) | amending act | 1 | 2001-05-22 | 2001-05-22 |
@@ -8296,7 +8305,7 @@
 | Legea nr. 204/2026 privind aprobarea Ordonanţei Guvernului nr. 22/2025 pentru modificarea şi completarea Legii nr. 227/2015 privind Codul fiscal şi pentru completarea articolului 342 din Legea nr. 227/2015 privind Codul fiscal | [`lege/2026/204/`](lege/2026/204/) | amending act | 1 | 2026-10-25 | 2026-10-25 |
 | Legea nr. 205/2026 pentru completarea Ordonanţei Guvernului nr. 22/2002 privind executarea obligaţiilor de plată ale instituţiilor publice, stabilite prin titluri executorii | [`lege/2026/205/`](lege/2026/205/) | amending act | 1 | 2026-11-02 | 2026-11-02 |
 
-## Emergency ordinances (OUG) (2874, of which 659 amending acts)
+## Emergency ordinances (OUG) (2875, of which 660 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -8626,6 +8635,7 @@
 | Ordonanța de urgență a Guvernului nr. 62/2001 privind conversia în acţiuni a unor sume datorate statului | [`oug/2001/62/`](oug/2001/62/) | amended, not consolidated | 1 | 2001-05-10 | 2001-05-10 |
 | Ordonanța de urgență a Guvernului nr. 64/2001 pentru modificarea şi completarea Legii nr. 188/2000 privind executorii judecătoreşti | [`oug/2001/64/`](oug/2001/64/) | amended, not consolidated | 1 | 2001-05-09 | 2001-05-09 |
 | Ordonanța de urgență a Guvernului nr. 66/2001 pentru modificarea şi completarea Legii nr. 152/1998 privind înfiinţarea Agenţiei Naţionale pentru Locuinţe | [`oug/2001/66/`](oug/2001/66/) | amended, not consolidated | 1 | 2001-05-14 | 2001-05-14 |
+| Ordonanța de urgență a Guvernului nr. 67/2001 pentru abrogarea Ordonanţei de urgenta a Guvernului nr. 137/2000 privind modul de acordare a sumelor de bani reprezentând ajutoare şi plăti compensatorii de care beneficiază, potrivit legii, cadrele militare trecute în rezerva sau direct în retragere | [`oug/2001/67/`](oug/2001/67/) | amending act | 1 | 2001-05-17 | 2001-05-17 |
 | Ordonanța de urgență a Guvernului nr. 68/2001 privind reglementarea situaţiei creanţelor Băncii Naţionale a României şi Casei de Economii şi Consemnaţiuni fata de Banca "Dacia Felix" - S.A | [`oug/2001/68/`](oug/2001/68/) | in force | 1 | 2001-05-18 | 2001-05-18 |
 | Ordonanța de urgență a Guvernului nr. 69/2001 pentru modificarea alin. 2 al art. 74 din Legea nr. 80/1995 privind statutul cadrelor militare | [`oug/2001/69/`](oug/2001/69/) | amended, not consolidated | 1 | 2001-05-22 | 2001-05-22 |
 | Ordonanța de urgență a Guvernului nr. 70/2001 | [`oug/2001/70/`](oug/2001/70/) | in force | 4 | 2001-07-01 | 2005-07-25 |
@@ -12171,7 +12181,7 @@
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 5/2026 pentru modificarea şi completarea Ordonanţei Guvernului nr. 27/2011 privind transporturile rutiere şi pentru completarea Ordonanţei de urgenţă a Guvernului nr. 28/1999 privind obligaţia operatorilor economici de a utiliza aparate de marcat electronice fiscale | [`og/2026/5/`](og/2026/5/) | amended, not consolidated | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (26801, of which 12504 amending acts)
+## Government decisions (HG) (26817, of which 12512 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -13207,10 +13217,26 @@
 | Hotărârea Guvernului nr. 410/2001 | [`hg/2001/410/`](hg/2001/410/) | in force | 1 | 2001-04-27 | 2001-04-27 |
 | Hotărârea Guvernului nr. 427/2001 pentru aprobarea Normelor metodologice privind condiţiile de încadrare, drepturile şi obligaţiile asistentului personal al persoanei cu handicap | [`hg/2001/427/`](hg/2001/427/) | amended, not consolidated | 1 | 2001-05-07 | 2001-05-07 |
 | Hotărârea Guvernului nr. 430/2001 privind aprobarea Strategiei Guvernului României de îmbunătăţire a situaţiei romilor | [`hg/2001/430/`](hg/2001/430/) | amended, not consolidated | 1 | 2001-05-16 | 2001-05-16 |
+| Hotărârea Guvernului nr. 434/2001 pentru modificarea Hotărârii Guvernului nr. 415/2000 privind caracterizarea, clasificarea şi marcarea produselor din sticla cristal în vederea comercializării acestora | [`hg/2001/434/`](hg/2001/434/) | amending act | 1 | 2001-05-09 | 2001-05-09 |
+| Hotărârea Guvernului nr. 435/2001 privind garantarea de către Ministerul Finanţelor Publice a unui credit extern pentru Ministerul Justiţiei | [`hg/2001/435/`](hg/2001/435/) | in force | 1 | 2001-05-09 | 2001-05-09 |
 | Hotărârea Guvernului nr. 436/2001 pentru aprobarea Strategiei privind privatizarea societăţilor comerciale din turism | [`hg/2001/436/`](hg/2001/436/) | amended, not consolidated | 1 | 2001-05-09 | 2001-05-09 |
+| Hotărârea Guvernului nr. 437/2001 privind premierea inventatorilor români laureaţi la Salonul Internaţional al Invenţiilor de la Geneva | [`hg/2001/437/`](hg/2001/437/) | in force | 1 | 2001-05-09 | 2001-05-09 |
+| Hotărârea Guvernului nr. 438/2001 privind acordarea unor ajutoare | [`hg/2001/438/`](hg/2001/438/) | in force | 1 | 2001-05-10 | 2001-05-10 |
+| Hotărârea Guvernului nr. 439/2001 privind măsuri în legătură cu taxele vamale la unele produse din import | [`hg/2001/439/`](hg/2001/439/) | in force | 1 | 2001-05-14 | 2001-05-14 |
 | Hotărârea Guvernului nr. 440/2001 pentru modificarea Hotărârii Guvernului nr. 12/2001 privind organizarea şi funcţionarea Ministerului Agriculturii, Alimentaţiei şi Pădurilor | [`hg/2001/440/`](hg/2001/440/) | amended, not consolidated | 1 | 2001-05-14 | 2001-05-14 |
 | Hotărârea Guvernului nr. 441/2001 pentru aprobarea Normelor metodologice de aplicare a Ordonanţei de urgenţă a Guvernului nr. 52/2001 privind accelerarea şi finalizarea procesului de privatizare a societăţilor comerciale din turism, precum şi pentru stabilirea unor măsuri necesare în vederea implementării acestora | [`hg/2001/441/`](hg/2001/441/) | amended, not consolidated | 1 | 2001-05-14 | 2001-05-14 |
+| Hotărârea Guvernului nr. 442/2001 pentru modificarea anexei la Hotărârea Guvernului nr. 523/1999 privind interdicţia de a intra pe teritoriul României a unor persoane provenind din Republica Federala Iugoslavia | [`hg/2001/442/`](hg/2001/442/) | amending act | 1 | 2001-05-14 | 2001-05-14 |
+| Hotărârea Guvernului nr. 443/2001 pentru modificarea Normelor metodologice de aplicare a Ordonanţei de urgenţă a Guvernului nr. 88/1997 privind privatizarea societăţilor comerciale, cu modificările şi completările ulterioare, aprobate prin Hotărârea Guvernului nr. 450/1999 | [`hg/2001/443/`](hg/2001/443/) | amending act | 1 | 2001-05-14 | 2001-05-14 |
+| Hotărârea Guvernului nr. 444/2001 pentru modificarea şi completarea art. 3 din Hotărârea Guvernului nr. 295/2001 privind aprobarea volumului maxim de masa lemnoasă care se va recolta în anul 2001 | [`hg/2001/444/`](hg/2001/444/) | amending act | 1 | 2001-05-14 | 2001-05-14 |
+| Hotărârea Guvernului nr. 445/2001 privind numirea Consiliului naţional de coordonare al Agenţiei Naţionale pentru Locuinţe | [`hg/2001/445/`](hg/2001/445/) | in force | 1 | 2001-05-14 | 2001-05-14 |
+| Hotărârea Guvernului nr. 446/2001 privind aprobarea plăţii obligaţiilor ce revin României din reevaluarea soldului Contului de capital al Băncii pentru Comerţ şi Dezvoltare a Marii Negre deschis la Banca Naţionala a României | [`hg/2001/446/`](hg/2001/446/) | amending act | 1 | 2001-05-14 | 2001-05-14 |
+| Hotărârea Guvernului nr. 447/2001 privind transmiterea unor imobile proprietate publică a statului din administrarea Ministerului Public în administrarea Ministerului de Interne şi din administrarea Ministerului de Interne în administrarea Ministerului Public | [`hg/2001/447/`](hg/2001/447/) | in force | 1 | 2001-05-14 | 2001-05-14 |
+| Hotărârea Guvernului nr. 448/2001 privind aprobarea renunţării la cetăţenia Română unor persoane | [`hg/2001/448/`](hg/2001/448/) | amending act | 1 | 2001-05-15 | 2001-05-15 |
+| Hotărârea Guvernului nr. 449/2001 pentru aprobarea cheltuielilor ocazionate de organizarea la Bucureşti la data de 21 mai 2001 a Conferinţei regionale consultative cu tema "Lupta împotriva traficului de fiinţe umane şi migraţiei ilegale" | [`hg/2001/449/`](hg/2001/449/) | amending act | 1 | 2001-05-14 | 2001-05-14 |
+| Hotărârea Guvernului nr. 450/2001 privind suplimentarea bugetului Ministerului Culturii şi Cultelor pe anul 2001 din Fondul de rezerva bugetară la dispoziţia Guvernului, pentru achiziţionarea unor lucrări de arta plastica contemporana, în vederea donării acestora Uniunii Europene | [`hg/2001/450/`](hg/2001/450/) | in force | 1 | 2001-05-11 | 2001-05-11 |
+| Hotărârea Guvernului nr. 452/2001 privind autorizarea Ministerului Finanţelor Publice de a plăti taxele şi cheltuielile aferente serviciilor de rating acordate României de către agenţiile specializate de rating Standard &amp; Poor's, Fitch IBCA Ltd şi Japan Credit Rating Agency pentru anul 2000 | [`hg/2001/452/`](hg/2001/452/) | in force | 1 | 2001-05-17 | 2001-05-17 |
 | Hotărârea Guvernului nr. 456/2001 privind aprobarea cifrelor de şcolarizare pentru învăţământul preuniversitar şi superior de stat în anul şcolar/universitar 2001-2002 | [`hg/2001/456/`](hg/2001/456/) | amended, not consolidated | 1 | 2001-05-18 | 2001-05-18 |
+| Hotărârea Guvernului nr. 459/2001 privind aprobarea unei licenţe de concesiune a activităţii miniere de exploatare, încheiată între Agenţia Naţionala pentru Resurse Minerale şi Societatea Comercială "Drumuri şi Poduri" - S.A. Galaţi | [`hg/2001/459/`](hg/2001/459/) | amending act | 1 | 2001-05-22 | 2001-05-22 |
 | Hotărârea Guvernului nr. 461/2001 pentru aprobarea normelor de aplicare a Ordonanţei de urgenţă a Guvernului nr. 60/2001 privind achiziţiile publice | [`hg/2001/461/`](hg/2001/461/) | amended, not consolidated | 1 | 2001-05-24 | 2001-05-24 |
 | Hotărârea Guvernului nr. 464/2001 privind aprobarea renunţării la cetăţenia Română unor persoane | [`hg/2001/464/`](hg/2001/464/) | amending act | 1 | 2001-05-24 | 2001-05-24 |
 | Hotărârea Guvernului nr. 465/2001 privind transmiterea unui teren, proprietate publică a statului, din administrarea Ministerului Industriei şi Resurselor în administrarea Ministerului Culturii şi Cultelor şi în folosinţa gratuită a Mănăstirii Oasa | [`hg/2001/465/`](hg/2001/465/) | in force | 1 | 2001-05-22 | 2001-05-22 |
