@@ -1,6 +1,6 @@
 # Every act in this repository
 
-38987 acts, 52,741 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+39006 acts, 52,760 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (8249, of which 3060 amending acts)
+## Laws (legi) (8258, of which 3069 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -955,17 +955,26 @@
 | Legea nr. 219/2001 pentru aprobarea Ordonanţei Guvernului nr. 68/1999 privind finanţarea activităţii Direcţiei Generale a Penitenciarelor din subordinea Ministerului Justiţiei | [`lege/2001/219/`](lege/2001/219/) | amended, not consolidated | 1 | 2001-05-04 | 2001-05-04 |
 | Legea nr. 223/2001 privind respingerea Ordonanţei de urgenţă a Guvernului nr. 177/2000 pentru completarea Legii notarilor publici şi a activităţii notariale nr. 36/1995 | [`lege/2001/223/`](lege/2001/223/) | amended, not consolidated | 1 | 2001-05-04 | 2001-05-04 |
 | Legea nr. 233/2001 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 2/2001 pentru stabilirea unor măsuri privind înfiinţarea, organizarea/reorganizarea sau funcţionarea, după caz, a unor ministere, organe de specialitate ale administraţiei publice centrale şi instituţii publice | [`lege/2001/233/`](lege/2001/233/) | amended, not consolidated | 1 | 2001-05-22 | 2001-05-22 |
+| Legea nr. 234/2001 pentru respingerea Ordonanţei Guvernului nr. 41/1999 privind organizarea şi funcţionarea Ministerului Apărării Naţionale | [`lege/2001/234/`](lege/2001/234/) | amending act | 1 | 2001-05-22 | 2001-05-22 |
+| Legea nr. 235/2001 pentru respingerea Ordonanţei de urgenţă a Guvernului nr. 74/2000 privind organizarea şi funcţionarea Ministerului Apărării Naţionale | [`lege/2001/235/`](lege/2001/235/) | amending act | 1 | 2001-05-22 | 2001-05-22 |
+| Legea nr. 239/2001 privind respingerea Ordonanţei de urgenţă a Guvernului nr. 191/2000 pentru aprobarea unor măsuri necesare în vederea realizării de construcţii cu destinaţia de locuinţe pe un teren proprietate privată a statului, situat în comuna Voluntari, judeţul Ilfov | [`lege/2001/239/`](lege/2001/239/) | amending act | 1 | 2001-05-22 | 2001-05-22 |
 | Legea nr. 240/2001 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 26/2000 privind autorizarea Băncii Naţionale a României de a acorda un credit pentru acoperirea cererilor populaţiei de retragere a depozitelor constituite la Banca "Renaşterea Creditului Românesc" - S.A. - Credit Bank | [`lege/2001/240/`](lege/2001/240/) | amended, not consolidated | 1 | 2001-05-22 | 2001-05-22 |
 | Legea nr. 241/2001 | [`lege/2001/241/`](lege/2001/241/) | in force | 1 | 2001-05-23 | 2001-05-23 |
+| Legea nr. 242/2001 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 176/2000 pentru modificarea art. 4 din Ordonanţa Guvernului nr. 72/2000 privind stabilirea unor forme de sprijin financiar pentru unităţile de cult cu venituri mici sau fără venituri aparţinând cultelor religioase din România | [`lege/2001/242/`](lege/2001/242/) | amending act | 1 | 2001-05-23 | 2001-05-23 |
 | Legea nr. 243/2001 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 148/1999 privind reglementarea regimului juridic al terenurilor destinate construirii de locuinţe prin Agenţia Naţionala pentru Locuinţe | [`lege/2001/243/`](lege/2001/243/) | amended, not consolidated | 1 | 2001-05-23 | 2001-05-23 |
 | Legea nr. 244/2001 pentru aprobarea Ordonanţei Guvernului nr. 72/2000 privind stabilirea unor forme de sprijin financiar pentru unităţile de cult cu venituri mici sau fără venituri aparţinând cultelor religioase din România | [`lege/2001/244/`](lege/2001/244/) | amended, not consolidated | 1 | 2001-06-01 | 2001-06-01 |
 | Legea nr. 245/2001 | [`lege/2001/245/`](lege/2001/245/) | in force | 1 | 2001-05-24 | 2001-05-24 |
 | Legea nr. 247/2001 pentru aprobarea Ordonanţei Guvernului nr. 79/1998 privind organizarea şi funcţionarea Fondului Cultural Naţional | [`lege/2001/247/`](lege/2001/247/) | amended, not consolidated | 1 | 2001-06-06 | 2001-06-06 |
+| Legea nr. 249/2001 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 124/2000 pentru aprobarea modificării taxelor vamale aplicate în România la importul anumitor produse agricole originare din Uniunea Europeană | [`lege/2001/249/`](lege/2001/249/) | amending act | 1 | 2001-05-23 | 2001-05-23 |
 | Legea nr. 251/2001 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 247/2000 privind scutirea de la plata taxelor vamale a importurilor necesare pentru Reparaţia capitala cu modernizare pentru creşterea siguranţei şi capacităţii Centralei Hidroelectrice Porţile de Fier I | [`lege/2001/251/`](lege/2001/251/) | amended, not consolidated | 1 | 2001-05-23 | 2001-05-23 |
 | Legea nr. 252/2001 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 12/2001 privind înfiinţarea Autorităţii Naţionale pentru Protecţia Copilului şi Adopţie | [`lege/2001/252/`](lege/2001/252/) | amended, not consolidated | 1 | 2001-05-23 | 2001-05-23 |
 | Legea nr. 254/2001 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 216/2000 privind reglementarea situaţiei juridice a conductelor magistrale şi a instalaţiilor, echipamentelor şi dotărilor anexe, aferente Sistemului naţional de transport al ţiţeiului, gazolinei, condensatului şi etanului | [`lege/2001/254/`](lege/2001/254/) | amended, not consolidated | 1 | 2001-05-23 | 2001-05-23 |
 | Legea nr. 255/2001 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 292/2000 pentru stabilirea unor măsuri privind reorganizarea şi funcţionarea Secretariatului General al Guvernului | [`lege/2001/255/`](lege/2001/255/) | amended, not consolidated | 1 | 2001-05-23 | 2001-05-23 |
+| Legea nr. 256/2001 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 213/2000 privind suspendarea plăţii taxei pe valoarea adăugată şi scutirea de la plata taxei vamale şi a suprataxei vamale de import pentru bunurile importate în cadrul ajutorului nerambursabil acordat de Guvernul Japoniei Guvernului României | [`lege/2001/256/`](lege/2001/256/) | amending act | 1 | 2001-05-23 | 2001-05-23 |
 | Legea nr. 257/2001 | [`lege/2001/257/`](lege/2001/257/) | in force | 4 | 2001-07-24 | 2014-03-25 |
+| Legea nr. 258/2001 pentru respingerea Ordonanţei de urgenţă a Guvernului nr. 80/2000 privind admiterea cu taxa în învăţământul preuniversitar de stat, în licee, şcoli profesionale şi şcoli de ucenici peste cifra de şcolarizare pentru care se asigura finanţare de la bugetul de stat | [`lege/2001/258/`](lege/2001/258/) | amending act | 1 | 2001-05-25 | 2001-05-25 |
+| Legea nr. 259/2001 pentru aprobarea Ordonanţei de urgenta a Guvernului nr. 3/2000 privind acordarea unui credit Companiei Naţionale de Electricitate - S.A. de către Fondul Proprietăţii de Stat prin Banca de Import-Export a României (Eximbank) - S.A. pentru asigurarea finanţării parţiale a importurilor de păcura, gaze naturale şi cărbune energetic, necesare realizării Programului energetic 1999-2000 | [`lege/2001/259/`](lege/2001/259/) | amending act | 1 | 2001-05-25 | 2001-05-25 |
+| Legea nr. 260/2001 privind aprobarea Ordonanţei Guvernului nr. 134/2000 pentru modificarea caracteristicilor unor titluri de stat emise pe bază de legi speciale | [`lege/2001/260/`](lege/2001/260/) | amending act | 1 | 2001-05-29 | 2001-05-29 |
 | Legea nr. 262/2001 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 82/1999 pentru modificarea alin. 3 al art. 4 din Ordonanţa Guvernului nr. 15/1996 privind întărirea disciplinei financiar-valutare | [`lege/2001/262/`](lege/2001/262/) | amending act | 1 | 2001-05-25 | 2001-05-25 |
 | Legea nr. 266/2001 pentru respingerea Ordonanţei de urgenţă a Guvernului nr. 126/2000 privind finanţarea organizării şi desfăşurării concursului naţional de ocupare a posturilor didactice vacante din învăţământul preuniversitar de stat în anul şcolar 2000/2001 | [`lege/2001/266/`](lege/2001/266/) | amending act | 1 | 2001-05-24 | 2001-05-24 |
 | Legea nr. 268/2001 | [`lege/2001/268/`](lege/2001/268/) | in force | 24 | 2001-06-07 | 2025-12-31 |
@@ -8287,7 +8296,7 @@
 | Legea nr. 204/2026 privind aprobarea Ordonanţei Guvernului nr. 22/2025 pentru modificarea şi completarea Legii nr. 227/2015 privind Codul fiscal şi pentru completarea articolului 342 din Legea nr. 227/2015 privind Codul fiscal | [`lege/2026/204/`](lege/2026/204/) | amending act | 1 | 2026-10-25 | 2026-10-25 |
 | Legea nr. 205/2026 pentru completarea Ordonanţei Guvernului nr. 22/2002 privind executarea obligaţiilor de plată ale instituţiilor publice, stabilite prin titluri executorii | [`lege/2026/205/`](lege/2026/205/) | amending act | 1 | 2026-11-02 | 2026-11-02 |
 
-## Emergency ordinances (OUG) (2873, of which 659 amending acts)
+## Emergency ordinances (OUG) (2874, of which 659 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -8617,6 +8626,7 @@
 | Ordonanța de urgență a Guvernului nr. 62/2001 privind conversia în acţiuni a unor sume datorate statului | [`oug/2001/62/`](oug/2001/62/) | amended, not consolidated | 1 | 2001-05-10 | 2001-05-10 |
 | Ordonanța de urgență a Guvernului nr. 64/2001 pentru modificarea şi completarea Legii nr. 188/2000 privind executorii judecătoreşti | [`oug/2001/64/`](oug/2001/64/) | amended, not consolidated | 1 | 2001-05-09 | 2001-05-09 |
 | Ordonanța de urgență a Guvernului nr. 66/2001 pentru modificarea şi completarea Legii nr. 152/1998 privind înfiinţarea Agenţiei Naţionale pentru Locuinţe | [`oug/2001/66/`](oug/2001/66/) | amended, not consolidated | 1 | 2001-05-14 | 2001-05-14 |
+| Ordonanța de urgență a Guvernului nr. 68/2001 privind reglementarea situaţiei creanţelor Băncii Naţionale a României şi Casei de Economii şi Consemnaţiuni fata de Banca "Dacia Felix" - S.A | [`oug/2001/68/`](oug/2001/68/) | in force | 1 | 2001-05-18 | 2001-05-18 |
 | Ordonanța de urgență a Guvernului nr. 69/2001 pentru modificarea alin. 2 al art. 74 din Legea nr. 80/1995 privind statutul cadrelor militare | [`oug/2001/69/`](oug/2001/69/) | amended, not consolidated | 1 | 2001-05-22 | 2001-05-22 |
 | Ordonanța de urgență a Guvernului nr. 70/2001 | [`oug/2001/70/`](oug/2001/70/) | in force | 4 | 2001-07-01 | 2005-07-25 |
 | Ordonanța de urgență a Guvernului nr. 71/2001 privind modificarea anexei nr. 2 la Ordonanţa de urgenţă a Guvernului nr. 8/2000 pentru modificarea şi completarea Legii nr. 128/1997 privind Statutul personalului didactic, referitor la stabilirea salariului de baza al personalului din învăţământ, şi pentru abrogarea unor dispoziţii din Legea nr. 154/1998 privind sistemul de stabilire a salariilor de baza în sectorul bugetar şi a indemnizaţiilor pentru persoane care ocupa funcţii de demnitate publică | [`oug/2001/71/`](oug/2001/71/) | amended, not consolidated | 1 | 2001-05-23 | 2001-05-23 |
@@ -12161,7 +12171,7 @@
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 5/2026 pentru modificarea şi completarea Ordonanţei Guvernului nr. 27/2011 privind transporturile rutiere şi pentru completarea Ordonanţei de urgenţă a Guvernului nr. 28/1999 privind obligaţia operatorilor economici de a utiliza aparate de marcat electronice fiscale | [`og/2026/5/`](og/2026/5/) | amended, not consolidated | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (26792, of which 12503 amending acts)
+## Government decisions (HG) (26801, of which 12504 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -13202,8 +13212,17 @@
 | Hotărârea Guvernului nr. 441/2001 pentru aprobarea Normelor metodologice de aplicare a Ordonanţei de urgenţă a Guvernului nr. 52/2001 privind accelerarea şi finalizarea procesului de privatizare a societăţilor comerciale din turism, precum şi pentru stabilirea unor măsuri necesare în vederea implementării acestora | [`hg/2001/441/`](hg/2001/441/) | amended, not consolidated | 1 | 2001-05-14 | 2001-05-14 |
 | Hotărârea Guvernului nr. 456/2001 privind aprobarea cifrelor de şcolarizare pentru învăţământul preuniversitar şi superior de stat în anul şcolar/universitar 2001-2002 | [`hg/2001/456/`](hg/2001/456/) | amended, not consolidated | 1 | 2001-05-18 | 2001-05-18 |
 | Hotărârea Guvernului nr. 461/2001 pentru aprobarea normelor de aplicare a Ordonanţei de urgenţă a Guvernului nr. 60/2001 privind achiziţiile publice | [`hg/2001/461/`](hg/2001/461/) | amended, not consolidated | 1 | 2001-05-24 | 2001-05-24 |
+| Hotărârea Guvernului nr. 464/2001 privind aprobarea renunţării la cetăţenia Română unor persoane | [`hg/2001/464/`](hg/2001/464/) | amending act | 1 | 2001-05-24 | 2001-05-24 |
+| Hotărârea Guvernului nr. 465/2001 privind transmiterea unui teren, proprietate publică a statului, din administrarea Ministerului Industriei şi Resurselor în administrarea Ministerului Culturii şi Cultelor şi în folosinţa gratuită a Mănăstirii Oasa | [`hg/2001/465/`](hg/2001/465/) | in force | 1 | 2001-05-22 | 2001-05-22 |
 | Hotărârea Guvernului nr. 466/2001 privind suplimentarea bugetului Ministerului Culturii şi Cultelor din Fondul de rezerva bugetară la dispoziţia Guvernului pe anul 2001 pentru Arhiepiscopia Targovistei | [`hg/2001/466/`](hg/2001/466/) | amended, not consolidated | 1 | 2001-05-22 | 2001-05-22 |
+| Hotărârea Guvernului nr. 471/2001 privind stabilirea modelelor listelor electorale pentru alegerile locale parţiale din perioada 2001-2004 | [`hg/2001/471/`](hg/2001/471/) | in force | 1 | 2001-05-25 | 2001-05-25 |
+| Hotărârea Guvernului nr. 472/2001 privind stabilirea modelelor proceselor-verbale pentru consemnarea rezultatelor alegerilor locale parţiale din perioada 2001-2004, a modelului certificatului doveditor al alegerii consilierilor locali şi a primarilor, precum şi a consilierilor judeţeni şi a modelului adeverinţei privind exercitarea dreptului de vot | [`hg/2001/472/`](hg/2001/472/) | in force | 1 | 2001-05-25 | 2001-05-25 |
+| Hotărârea Guvernului nr. 473/2001 privind stabilirea modelelor buletinelor de vot care vor fi folosite la alegerile locale parţiale din perioada 2001-2004 | [`hg/2001/473/`](hg/2001/473/) | in force | 1 | 2001-05-25 | 2001-05-25 |
+| Hotărârea Guvernului nr. 475/2001 privind asigurarea hârtiei necesare pentru organizarea şi desfăşurarea alegerilor locale parţiale din perioada 2001-2004 | [`hg/2001/475/`](hg/2001/475/) | in force | 1 | 2001-05-25 | 2001-05-25 |
 | Hotărârea Guvernului nr. 476/2001 pentru aprobarea Normelor metodologice de aplicare a Legii nr. 123/2001 privind regimul străinilor în România | [`hg/2001/476/`](hg/2001/476/) | amended, not consolidated | 1 | 2001-05-29 | 2001-05-29 |
+| Hotărârea Guvernului nr. 477/2001 pentru numirea în funcţie a unui membru al Oficiului Naţional de Prevenire şi Combatere a Spălării Banilor | [`hg/2001/477/`](hg/2001/477/) | in force | 1 | 2001-05-29 | 2001-05-29 |
+| Hotărârea Guvernului nr. 479/2001 privind alocarea unei sume din Fondul de rezerva bugetară la dispoziţia Guvernului municipiului Fălticeni, pentru neutralizarea şi eliminarea deşeurilor periculoase existente pe platforma industriala a Societăţii Comerciale "Metadet" - S.A. Fălticeni | [`hg/2001/479/`](hg/2001/479/) | in force | 1 | 2001-05-28 | 2001-05-28 |
+| Hotărârea Guvernului nr. 481/2001 privind acordarea unor ajutoare de urgenta | [`hg/2001/481/`](hg/2001/481/) | in force | 1 | 2001-05-29 | 2001-05-29 |
 | Hotărârea Guvernului nr. 485/2001 pentru stabilirea limitelor minime ale sumelor asigurate prin asigurarea obligatorie de răspundere civilă pentru pagube produse terţilor de către operatorii aerieni români care efectuează operaţiuni de lucru aerian sau de aviaţie generală pe teritoriul României | [`hg/2001/485/`](hg/2001/485/) | amended, not consolidated | 1 | 2001-08-29 | 2001-08-29 |
 | Hotărârea Guvernului nr. 487/2001 privind trecerea unor imobile din domeniul public în domeniul privat al statului şi transmiterea acestora cu plata în proprietatea Asociaţiei Generale a Vânătorilor şi Pescarilor Sportivi din România, precum şi darea în folosinţa gratuită a unui teren proprietate publică a statului | [`hg/2001/487/`](hg/2001/487/) | in force | 1 | 2001-05-30 | 2001-05-30 |
 | Hotărârea Guvernului nr. 491/2001 pentru modificarea Hotărârii Guvernului nr. 292/2001 privind aprobarea categoriilor de cheltuieli şi a obiectivelor pentru înlăturarea efectelor calamităţilor naturale produse în perioada 3-6 martie 2001 în judeţele Alba, Bihor, Bistriţa-Năsăud, Cluj, Hunedoara, Maramureş şi Satu Mare | [`hg/2001/491/`](hg/2001/491/) | amending act | 1 | 2001-05-31 | 2001-05-31 |
