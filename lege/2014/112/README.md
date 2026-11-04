@@ -1,0 +1,17 @@
+# Legea nr. 112/2014 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 10/2014 privind unele măsuri temporare în vederea consolidării cadrului normativ necesar aplicării unor dispoziţii din Legea nr. 9/1998 privind acordarea de compensaţii cetăţenilor români pentru bunurile trecute în proprietatea statului bulgar în urma aplicării Tratatului dintre România şi Bulgaria, semnat la Craiova la 7 septembrie 1940, precum şi din Legea nr. 290/2003 privind acordarea de despăgubiri sau compensaţii cetăţenilor români pentru bunurile proprietate a acestora, sechestrate, reţinute sau rămase în Basarabia, Bucovina de Nord şi Ţinutul Herţa, ca urmare a stării de război şi a aplicării Tratatului de Pace între România şi Puterile Aliate şi Asociate, semnat la Paris la 10 februarie 1947
+
+Legea nr. 112/2014 · 1 versions, from 2014-07-19 (latest in force: 2014-07-19) · <https://legislatie.just.ro/Public/DetaliiDocument/159937>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Articolul UNIC | [art-001.md](art-001.md) | 0 |  |
+
+Act id: `legea-112-2014` (tags `legea-112-2014/<day>`; `python tools/on.py <day> legea-112-2014`).
+
+## Decisions made by hand
+
+- Legea nr. 112/2014: added from the official web service of the Portalul legislativ (FreeWebService): its only version is the act as published (document 159937, retrieved 2026-11-03). No consolidated form exists: a full-text search of the official web service on 2026-11-04 finds no act changing it ().
+- Legea nr. 112/2014: added by Lexifina's automatic pass with the default rules, and no rule or ruling made for this act alone was applied. It was published only because every automatic check that applies to an act known from the official web service alone passed: two parses identical, issuer, number and in-force day confirmed by the service, and no act changing it found by the full-text search.
+- Legea nr. 112/2014: the first version is the law as published in Monitorul Oficial nr. 530 of 16 July 2014 (document 159937 of the official web service), dated 19 July 2014: it sets no day of its own, so in force 3 days after publication (Constituția art. 78). No consolidated form of it exists, so the text as published is its only version; no page of the act is held.
+- Legea nr. 112/2014: the law has a single article ("Articol unic"), filed as art-001.
+- Legea nr. 112/2014: AMENDMENTS NOT APPLIED. This act was amended (by:  ea I, nr. 184 din 14 martie 2014, astfel cum a fost aprobata cu modificari prin ;   al Romaniei, Partea I, nr. 184 din 14 martie 2014, aprobata cu modificari prin ;   al Romaniei, Partea I, nr. 184 din 14 martie 2014, aprobata cu modificari prin ;   al Romaniei, Partea I, nr. 184 din 14 martie 2014, aprobata cu modificari prin ;  ea I, nr. 184 din 14 martie 2014, astfel cum a fost aprobata cu modificari prin ;  ciate, semnat la Paris la 10 februarie 1947, precum si ale art. 1 si art. 2 din ;  ea I, nr. 184 din 14 martie 2014, astfel cum a fost aprobata cu modificari prin ), but the Portalul legislativ publishes no consolidated text of it: its current text there is the act as published (checked against a copy of the portal's texts of 3 November 2026). This record therefore holds only the act as published, as the official web service returns it (FreeWebService, http://legislatie.just.ro/apiws/FreeWebService.svc), document 159937, retrieved 2026-11-03; read the amending acts for the text in force.

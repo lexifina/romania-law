@@ -21,44 +21,44 @@ The repository will grow well beyond that: case law, the orders and norms of min
 
 The aim is every source a Romanian lawyer or citizen needs. This table is the plan, bin by bin, with what is published so far; it is regenerated with each documentation commit, so the gap can be followed over time.
 
-**24.2%** of the plan is published, weighted by how binding each source is and how often it is used; Updated 2026-11-04 14:01 UTC.
+**24.9%** of the plan is published, weighted by how binding each source is and how often it is used. **65.3%** counting sources already collected but not yet published. 1.7% of the weight is in bins that need the publisher's permission first. Updated 2026-11-04 14:21 UTC.
 
 | Bin | Will be in | Weight | Progress | How | Status |
 | --- | --- | ---: | --- | --- | --- |
 | **Primary legislation** | | | | | |
 | Constitution and codes | constitutie/1991/; the codes in lege/ and oug/ (Codul civil is lege/2009/287/) | 11.7% | 19 of 20 acts · 95.0% | built by hand with every version, checked against the text as published | collecting |
-| Laws, OUG, OG and HG (consolidated) | lege/, oug/, og/, hg/ | 25.3% | 28,369 of 55,923 acts · 44.7% | automatic: the official text as published plus every consolidated form | collecting |
-| Amended, not consolidated | lege/, oug/, og/, hg/ with status "amended, not consolidated" | in the laws bin | 0 of 8,321 acts · 0.0% | the official text as published, labelled, with the amending acts named | collecting |
+| Laws, OUG, OG and HG (consolidated) | lege/, oug/, og/, hg/ | 25.3% | 30,229 of 55,923 acts · 47.3% | automatic: the official text as published plus every consolidated form | collecting |
+| Amended, not consolidated | lege/, oug/, og/, hg/ with status "amended, not consolidated" | in the laws bin | 1,537 of 8,321 acts · 18.5% | the official text as published, labelled, with the amending acts named | collecting |
 | Third-party-only acts | lege/, oug/, og/, hg/ once found in the official service | 1.9% | 445 of 5,166 acts · 8.6% | searched for one by one in the official service; only its text is used | collecting |
 | **Case law** | | | | | |
-| CCR decisions | jurisprudenta/ccr/ | 9.7% | 0 of 25,137 decisions; 0 of 937 rulings applied · 0.0% | official texts as published; unconstitutionality rulings dated on the articles they suspend | collecting |
+| CCR decisions | jurisprudenta/ccr/ | 9.7% | 0 of 25,147 decisions; 0 of 937 rulings applied · 0.0% | official texts as published; unconstitutionality rulings dated on the articles they suspend | collecting |
 | ICCJ RIL and HP | jurisprudenta/iccj/ | 4.9% | 0 of 2,102 decisions · 0.0% | official texts as published, linked to the articles they interpret | collecting |
-| ICCJ other judgments (links) | data/iccj-links.csv | 1.0% | target unknown | links and metadata only | – |
+| ICCJ other judgments (links) | data/iccj-links.csv | 1.0% | target unknown | links and metadata only | no publication channel found yet |
 | Lower courts (ReJust links; MO annulments) | data/rejust-links.csv; annulments as effects on acts | 1.5% | 0 of 26,000,000 judgments; 0 of 229 annulments · 0.0% | links and metadata only; annulments of acts as dated effects | planned |
 | ECHR judgments against Romania | jurisprudenta/cedo/ | 1.5% | 0 of 1,942 judgments · 0.0% | Romanian translations published in the Monitorul Oficial; HUDOC links for the rest | collecting |
 | CJEU references | data/cjeu-links.csv | 0.5% | 0 of 397 cases · 0.0% | links by ECLI and CELEX to the EU publications | planned |
-| CNSC and other bodies | jurisprudenta/cnsc/ (links for the rest) | 0.5% | target unknown | official bulletins, where reuse is allowed | – |
+| CNSC and other bodies | jurisprudenta/cnsc/ (links for the rest) | 0.5% | target unknown | official bulletins, where reuse is allowed | needs the publisher's permission |
 | **Secondary legislation** | | | | | |
 | Ministerial and authority orders | ordin/<issuer>/ | 10.7% | 0 of 62,513 orders · 0.0% | official texts as published, with the documents that amend them | collecting |
-| Norms and regulations (BNR, ASF, ANRE, ANCOM and others) | norme/<issuer>/ | 11.2% | 0 of 38,514 acts · 0.0% | official texts as published | planned |
+| Norms and regulations (BNR, ASF, ANRE, ANCOM and others) | norme/<issuer>/ | 11.2% | 0 of 38,524 acts · 0.0% | official texts as published | planned |
 | Standards (ASRO) | none: standard numbers cited only | – | out of scope | standard numbers cited only (the texts are copyright) | not planned: Copyright held by ASRO |
 | **Local acts** | | | | | |
-| Local acts: Bucharest (CGMB) | local/bucuresti/cgmb/ | 1.2% | 0 of 12,236 records · index pages 1,224/1,224 · listed 12,236/12,236 · texts 0 · 0.0% | the council's own register of decisions (PDF and text) | collecting |
+| Local acts: Bucharest (CGMB) | local/bucuresti/cgmb/ | 1.2% | 0 of 12,236 records · index pages 1,224/1,224 · listed 12,236/12,236 · texts 1 · 0.0% | the council's own register of decisions (PDF and text) | collecting |
 | Local acts: Bucharest sectors 1-6 | local/bucuresti/sector-1/ ... sector-6/ | 0.6% | 0 of 6 sectors · 0.0% | each council's Monitorul Oficial Local | planned |
 | Local acts: county councils (41) | local/judet/<county>/ | 1.0% | 0 of 41 councils · 0.0% | each council's Monitorul Oficial Local | planned |
 | Local acts: municipalities and towns | local/<county>/<municipality or town>/ | 0.7% | 0 of 320 councils · 0.0% | each council's Monitorul Oficial Local | planned |
 | Local acts: communes | local/<county>/<commune>/ | 0.3% | 0 of 2,861 councils · 0.0% | each council's Monitorul Oficial Local | planned |
-| Local acts: other local authorities (prefects' orders) | local/prefect/<county>/ | 0.2% | 0 of 42 prefects · 0.0% | each prefecture, where it publishes | – |
+| Local acts: other local authorities (prefects' orders) | local/prefect/<county>/ | 0.2% | 0 of 42 prefects · 0.0% | each prefecture, where it publishes | no publication channel found yet |
 | **EU and international** | | | | | |
-| Treaties | tratat/ (texts), linked from the ratifying acts | 2.0% | 0 of 2,648 treaty texts; 987 of 3,500 acts · 10.7% | official texts, linked from the ratifying acts | collecting |
-| EU transposition links | data/eu-transposition.csv | 2.9% | 0 of 5,834 notification records · 0.0% | EU notification records and the transposition clauses in the acts | collecting |
-| EU law in Romanian (links) | data/eu-links.csv (texts, if kept, in eu/) | 0.5% | 0 of 37,112 EU acts · 0.0% | links to the Romanian text on EUR-Lex | collecting |
+| Treaties | tratat/ (texts), linked from the ratifying acts | 2.0% | 0 of 2,648 treaty texts; 1,096 of 3,500 acts · 11.9% | official texts, linked from the ratifying acts | collecting |
+| EU transposition links | data/eu-transposition.csv | 2.9% | 0 of 5,834 notification records · 0.0% | EU notification records and the transposition clauses in the acts | planned |
+| EU law in Romanian (links) | data/eu-links.csv (texts, if kept, in eu/) | 0.5% | 0 of 37,112 EU acts · 0.0% | links to the Romanian text on EUR-Lex | planned |
 | **Parliament and President** | | | | | |
 | Presidential decrees | promulgation data on each law; normative decrees in decret/ | 0.3% | 0 of 9,678 decrees · 0.0% | promulgation data on each law; normative decrees as acts | planned |
 | Parliament decisions | hotarare-parlament/ | 0.4% | 0 of 7,050 decisions · 0.0% | official texts as published | planned |
 | **Legislative history and publications** | | | | | |
-| Legislative history (amendment links, bills, Council opinions) | data/act-links.csv, data/bills.csv | 5.6% | 0 of 29,124 acts; 0 of 4,136 laws (+2 more) · 0.0% | the Chamber of Deputies' act sheets and bill files | collecting |
-| Monitorul Oficial parts | MO reference in each version; data/mo-links.csv | 1.3% | 29,124 of 29,124 acts · 38.5% | the Monitorul Oficial reference of every version | planned |
+| Legislative history (amendment links, bills, Council opinions) | data/act-links.csv, data/bills.csv | 5.6% | 0 of 30,961 acts; 0 of 4,518 laws (+2 more) · 0.0% | the Chamber of Deputies' act sheets and bill files | collecting |
+| Monitorul Oficial parts | MO reference in each version; data/mo-links.csv | 1.3% | 30,961 of 30,961 acts · 38.5% | the Monitorul Oficial reference of every version | planned |
 | Collective labour agreements (MO Part V) | cct/ | 0.3% | 0 of 57 agreements · 0.0% | official texts as published | planned |
 | **Historical law** | | | | | |
 | Historical law | cod/ (old codes), decret-lege/, pre-1990 lege/ and decret/ | 2.4% | 9 of 10 codes and statutes; 2 of 200 decree-laws (+1 more) · 36.4% | built by hand from the official texts | collecting |
