@@ -1,6 +1,6 @@
 # Every act in this repository
 
-20947 acts, 34,580 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+20960 acts, 34,593 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (3327, of which 1840 amending acts)
+## Laws (legi) (3328, of which 1841 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -1008,6 +1008,7 @@
 | Legea nr. 153/2011 | [`lege/2011/153/`](lege/2011/153/) | in force | 6 | 2011-08-10 | 2023-01-06 |
 | Legea nr. 156/2011 | [`lege/2011/156/`](lege/2011/156/) | in force | 1 | 2011-07-25 | 2011-07-25 |
 | Legea nr. 157/2011 | [`lege/2011/157/`](lege/2011/157/) | in force | 4 | 2011-07-31 | 2024-03-22 |
+| Legea nr. 185/2011 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 26/2011 privind stabilirea unor măsuri organizatorice la nivelul aparatului de lucru al Guvernului şi al unor ministere, precum şi pentru stabilirea unor măsuri financiar-bugetare | [`lege/2011/185/`](lege/2011/185/) | amending act | 1 | 2011-10-29 | 2011-10-29 |
 | Legea nr. 186/2011 pentru modificarea şi completarea Legii nr. 217/2005 privind constituirea, organizarea şi funcţionarea comitetului european de întreprindere | [`lege/2011/186/`](lege/2011/186/) | amending act | 1 | 2011-10-31 | 2011-10-31 |
 | Legea nr. 187/2011 | [`lege/2011/187/`](lege/2011/187/) | in force | 2 | 2011-11-03 | 2022-12-14 |
 | Legea nr. 188/2011 privind gestionarea taxelor colectate în cadrul aplicării politicii agricole comune şi care fac parte din sistemul de finanţare al fondurilor europene pentru agricultură, precum şi din sistemul resurselor proprii al Uniunii Europene | [`lege/2011/188/`](lege/2011/188/) | in force | 1 | 2011-10-31 | 2011-10-31 |
@@ -5606,7 +5607,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (15350, of which 7844 amending acts)
+## Government decisions (HG) (15362, of which 7855 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -8831,8 +8832,20 @@
 | Hotărârea Guvernului nr. 1016/2011 | [`hg/2011/1016/`](hg/2011/1016/) | in force | 2 | 2011-10-24 | 2022-07-15 |
 | Hotărârea Guvernului nr. 1023/2011 | [`hg/2011/1023/`](hg/2011/1023/) | in force | 1 | 2011-10-25 | 2011-10-25 |
 | Hotărârea Guvernului nr. 1024/2011 | [`hg/2011/1024/`](hg/2011/1024/) | in force | 1 | 2011-10-24 | 2011-10-24 |
+| Hotărârea Guvernului nr. 1039/2011 privind recunoaşterea Asociaţiei "Memorialul Revoluţiei 16-22 Decembrie 1989 Timişoara" ca fiind de utilitate publică | [`hg/2011/1039/`](hg/2011/1039/) | in force | 1 | 2011-10-27 | 2011-10-27 |
 | Hotărârea Guvernului nr. 1040/2011 | [`hg/2011/1040/`](hg/2011/1040/) | in force | 2 | 2011-11-08 | 2012-06-22 |
+| Hotărârea Guvernului nr. 1046/2011 pentru aprobarea indicatorilor tehnico-economici aferenţi lucrărilor de intervenţii "Consolidare DN 57 km 152+990-km 200+745 Oraviţa-Moraviţa" | [`hg/2011/1046/`](hg/2011/1046/) | amending act | 1 | 2011-11-04 | 2011-11-04 |
+| Hotărârea Guvernului nr. 1047/2011 pentru aprobarea indicatorilor tehnico-economici aferenţi lucrărilor de intervenţii "Refacere sistem rutier DN 22 km 178+000 - km 227+000 - etapa I" | [`hg/2011/1047/`](hg/2011/1047/) | amending act | 1 | 2011-11-04 | 2011-11-04 |
 | Hotărârea Guvernului nr. 1048/2011 pentru aprobarea Acordului privind cooperarea în domeniul sănătăţii şi al ştiinţei medicale dintre Ministerul Sănătăţii al României şi Ministerul Sănătăţii al Republicii Azerbaidjan, semnat la Baku la 18 aprilie 2011 | [`hg/2011/1048/`](hg/2011/1048/) | amending act | 1 | 2011-11-21 | 2011-11-21 |
+| Hotărârea Guvernului nr. 1051/2011 pentru completarea Hotărârii Guvernului nr. 1.255/2004 privind declanşarea procedurilor de expropriere a imobilelor proprietate privată situate pe amplasamentul lucrării "Secţiunea 2B pe teritoriul localităţilor Moldoveneşti, Mihai Viteazu, Turda, Sănduleşti, Tureni, Ciurila şi, parţial, Săvădisla din judeţul Cluj şi secţiunea 3C parţial pe teritoriul localităţilor Abram, Tăuteu şi Balc din judeţul Bihor", din cadrul obiectivului de investiţie "Autostrada Braşov-Cluj-Borş", a Hotărârii Guvernului nr. 742/2005 privind declanşarea procedurilor de expropriere a imobilelor proprietate privată situate pe amplasamentul lucrării "Secţiunea 2B pe teritoriul localităţilor Câmpia Turzii, Gilău, Floreşti, Săvădisla, Petreştii de Jos, Luna şi Sănduleşti din judeţul Cluj şi Secţiunea 3C pe teritoriul localităţilor Abram, Suplacu de Barcău, Balc, Chişlaz, Tăuteu, Sârbi şi Biharia din judeţul Bihor" din cadrul obiectivului de investiţie "Autostrada Braşov-Cluj-Borş" şi a Hotărârii Guvernului nr. 689/2007 privind declanşarea procedurilor de expropriere a imobilelor proprietate privată situate pe amplasamentul lucrării de utilitate publică "Secţiunea 3C pe teritoriul localităţilor Ip şi Marca din judeţul Sălaj şi al localităţilor Spinuş, Ciuhoiu, Sălard şi Tămăşeu din judeţul Bihor" din cadrul obiectivului de investiţii Autostrada Braşov-Cluj-Borş | [`hg/2011/1051/`](hg/2011/1051/) | amending act | 1 | 2011-11-04 | 2011-11-04 |
+| Hotărârea Guvernului nr. 1053/2011 privind modificarea anexei nr. 11 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului | [`hg/2011/1053/`](hg/2011/1053/) | amending act | 1 | 2011-10-27 | 2011-10-27 |
+| Hotărârea Guvernului nr. 1054/2011 privind aprobarea Acordului petrolier de concesiune pentru explorare-dezvoltare-exploatare în perimetrul EX - 29 Est Rapsodia, încheiat între Agenţia Naţională pentru Resurse Minerale şi Lukoil Overseas Atash B.V. împreună cu Vanco Internaţional Ltd | [`hg/2011/1054/`](hg/2011/1054/) | amending act | 1 | 2011-11-04 | 2011-11-04 |
+| Hotărârea Guvernului nr. 1055/2011 privind aprobarea Acordului petrolier de concesiune pentru explorare-dezvoltare-exploatare petrolieră în perimetrul EX - 30 Trident, încheiat între Agenţia Naţională pentru Resurse Minerale şi Lukoil Overseas Atash B.V. împreună cu Vanco Internaţional Ltd | [`hg/2011/1055/`](hg/2011/1055/) | amending act | 1 | 2011-11-04 | 2011-11-04 |
+| Hotărârea Guvernului nr. 1056/2011 pentru modificarea şi completarea Hotărârii Guvernului nr. 649/2011 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2011, pentru plata unor arierate, a unor cheltuieli curente şi de capital, precum şi pentru finanţarea unor obiective de investiţii ale unităţilor administrativ-teritoriale | [`hg/2011/1056/`](hg/2011/1056/) | amending act | 1 | 2011-11-01 | 2011-11-01 |
+| Hotărârea Guvernului nr. 1057/2011 pentru modificarea nr. crt.. 67 şi 172 din anexa nr. 2 la Hotărârea Guvernului nr. 649/2011 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2011, pentru plata unor arierate, a unor cheltuieli curente şi de capital, precum şi pentru finanţarea unor obiective de investiţii ale unităţilor administrativ-teritoriale | [`hg/2011/1057/`](hg/2011/1057/) | amending act | 1 | 2011-11-01 | 2011-11-01 |
+| Hotărârea Guvernului nr. 1058/2011 pentru modificarea şi completarea unor anexe la Hotărârea Guvernului nr. 1.348/2001 privind atestarea domeniului public al judeţului Buzău, precum şi al municipiilor, oraşelor şi comunelor din judeţul Buzău | [`hg/2011/1058/`](hg/2011/1058/) | amending act | 1 | 2011-11-03 | 2011-11-03 |
+| Hotărârea Guvernului nr. 1059/2011 pentru modificarea şi completarea unor anexe la Hotărârea Guvernului nr. 363/2002 privind atestarea domeniului public al judeţului Brăila, precum şi al municipiului, oraşelor şi comunelor din judeţul Brăila | [`hg/2011/1059/`](hg/2011/1059/) | amending act | 1 | 2011-11-03 | 2011-11-03 |
+| Hotărârea Guvernului nr. 1060/2011 privind aprobarea plăţii contribuţiei României la fondurile strânse pentru finanţarea proiectelor de la Cernobîl, Ucraina | [`hg/2011/1060/`](hg/2011/1060/) | amending act | 1 | 2011-11-04 | 2011-11-04 |
 | Hotărârea Guvernului nr. 1063/2011 privind aprobarea actualizării valorii de inventar a unui imobil proprietate publică a statului şi transmiterea unei părţi din acesta din administrarea Ministerului Apărării Naţionale în administrarea Ministerului Culturii şi Patrimoniului Naţional şi în folosinţa gratuită a Asociaţiei "Memorialul Revoluţiei 16 - 22 Decembrie 1989" | [`hg/2011/1063/`](hg/2011/1063/) | amending act | 1 | 2011-10-28 | 2011-10-28 |
 | Hotărârea Guvernului nr. 1064/2011 privind încetarea exercitării, cu caracter temporar, a funcţiei publice de subprefect al judeţului Buzău de către domnul Anghel Ovidiu | [`hg/2011/1064/`](hg/2011/1064/) | in force | 1 | 2011-11-01 | 2011-11-01 |
 | Hotărârea Guvernului nr. 1065/2011 privind transmiterea unor imobile sau a unor părţi din acestea, aflate în domeniul public al statului, din administrarea unor unităţi din subordinea Ministerului Agriculturii şi Dezvoltării Rurale în administrarea Ministerului Agriculturii şi Dezvoltării Rurale - Agenţia de Plăţi şi Intervenţie pentru Agricultură, pentru unele centre judeţene aflate în subordinea acesteia | [`hg/2011/1065/`](hg/2011/1065/) | in force | 1 | 2011-11-08 | 2011-11-08 |
