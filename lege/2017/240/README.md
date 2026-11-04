@@ -1,0 +1,17 @@
+# Legea nr. 240/2017 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 49/2017 privind unele măsuri în vederea accelerării implementării proiectelor de infrastructură de transport de interes naţional, pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 40/2015 privind gestionarea financiară a fondurilor europene pentru perioada de programare 2014-2020, pentru completarea Legii nr. 105/2011 privind gestionarea şi utilizarea fondurilor externe nerambursabile şi a cofinanţării publice naţionale, pentru obiectivul "Cooperare Teritorială Europeană", precum şi pentru modificarea şi completarea Ordonanţei Guvernului nr. 17/2015 privind reglementarea unor măsuri fiscal-bugetare şi modificarea şi completarea unor acte normative
+
+Legea nr. 240/2017 · 1 versions, from 2017-12-10 (latest in force: 2017-12-10) · <https://legislatie.just.ro/Public/DetaliiDocument/195504>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| ARTICOL UNIC | [art-001.md](art-001.md) | 0 |  |
+
+Act id: `legea-240-2017` (tags `legea-240-2017/<day>`; `python tools/on.py <day> legea-240-2017`).
+
+## Decisions made by hand
+
+- Legea nr. 240/2017: added from the official web service of the Portalul legislativ (FreeWebService): its only version is the act as published (document 195504, retrieved 2026-11-03). No consolidated form exists: a full-text search of the official web service on 2026-11-04 finds no act changing it ().
+- Legea nr. 240/2017: added by Lexifina's automatic pass with the default rules, and no rule or ruling made for this act alone was applied. It was published only because every automatic check that applies to an act known from the official web service alone passed: two parses identical, issuer, number and in-force day confirmed by the service, and no act changing it found by the full-text search.
+- Legea nr. 240/2017: the first version is the law as published in Monitorul Oficial nr. 971 of 7 December 2017 (document 195504 of the official web service), dated 10 December 2017: it sets no day of its own, so in force 3 days after publication (Constituția art. 78). No consolidated form of it exists, so the text as published is its only version; no page of the act is held.
+- Legea nr. 240/2017: the law has a single article ("Articol unic"), filed as art-001.
+- Legea nr. 240/2017: AMENDMENTS NOT APPLIED. This act was amended (by: hg-298-2021 a si completarea unor acte normative, aprobata cu modificari si completari prin ), but the Portalul legislativ publishes no consolidated text of it: its current text there is the act as published (checked against a copy of the portal's texts of 3 November 2026). This record therefore holds only the act as published, as the official web service returns it (FreeWebService, http://legislatie.just.ro/apiws/FreeWebService.svc), document 195504, retrieved 2026-11-03; read the amending acts for the text in force.
