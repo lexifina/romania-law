@@ -1,6 +1,6 @@
 # Every act in this repository
 
-38973 acts, 52,727 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+38987 acts, 52,741 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (8246, of which 3057 amending acts)
+## Laws (legi) (8249, of which 3060 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -966,7 +966,10 @@
 | Legea nr. 254/2001 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 216/2000 privind reglementarea situaţiei juridice a conductelor magistrale şi a instalaţiilor, echipamentelor şi dotărilor anexe, aferente Sistemului naţional de transport al ţiţeiului, gazolinei, condensatului şi etanului | [`lege/2001/254/`](lege/2001/254/) | amended, not consolidated | 1 | 2001-05-23 | 2001-05-23 |
 | Legea nr. 255/2001 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 292/2000 pentru stabilirea unor măsuri privind reorganizarea şi funcţionarea Secretariatului General al Guvernului | [`lege/2001/255/`](lege/2001/255/) | amended, not consolidated | 1 | 2001-05-23 | 2001-05-23 |
 | Legea nr. 257/2001 | [`lege/2001/257/`](lege/2001/257/) | in force | 4 | 2001-07-24 | 2014-03-25 |
+| Legea nr. 262/2001 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 82/1999 pentru modificarea alin. 3 al art. 4 din Ordonanţa Guvernului nr. 15/1996 privind întărirea disciplinei financiar-valutare | [`lege/2001/262/`](lege/2001/262/) | amending act | 1 | 2001-05-25 | 2001-05-25 |
+| Legea nr. 266/2001 pentru respingerea Ordonanţei de urgenţă a Guvernului nr. 126/2000 privind finanţarea organizării şi desfăşurării concursului naţional de ocupare a posturilor didactice vacante din învăţământul preuniversitar de stat în anul şcolar 2000/2001 | [`lege/2001/266/`](lege/2001/266/) | amending act | 1 | 2001-05-24 | 2001-05-24 |
 | Legea nr. 268/2001 | [`lege/2001/268/`](lege/2001/268/) | in force | 24 | 2001-06-07 | 2025-12-31 |
+| Legea nr. 269/2001 pentru respingerea Ordonanţei de urgenţă a Guvernului nr. 91/2000 privind organizarea sistemului naţional de formare a personalului din învăţământul preuniversitar | [`lege/2001/269/`](lege/2001/269/) | amending act | 1 | 2001-05-31 | 2001-05-31 |
 | Legea nr. 270/2001 pentru respingerea Ordonanţei Guvernului nr. 115/2000 privind parteneriatul social în educaţie şi formare profesională iniţială | [`lege/2001/270/`](lege/2001/270/) | amending act | 1 | 2001-05-31 | 2001-05-31 |
 | Legea nr. 271/2001 pentru ratificarea Acordului de comerţ liber dintre Guvernul României şi Guvernul Statului Israel, semnat la Bucureşti la 30 ianuarie 2001 | [`lege/2001/271/`](lege/2001/271/) | in force | 1 | 2001-05-30 | 2001-05-30 |
 | Legea nr. 272/2001 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 159/2000 privind aprobarea efectuării unor cheltuieli din Fondul extrabugetar pentru construirea de drumuri forestiere, gestionat de Regia Naţionala a Pădurilor | [`lege/2001/272/`](lege/2001/272/) | amending act | 1 | 2001-06-07 | 2001-06-07 |
@@ -12158,7 +12161,7 @@
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 5/2026 pentru modificarea şi completarea Ordonanţei Guvernului nr. 27/2011 privind transporturile rutiere şi pentru completarea Ordonanţei de urgenţă a Guvernului nr. 28/1999 privind obligaţia operatorilor economici de a utiliza aparate de marcat electronice fiscale | [`og/2026/5/`](og/2026/5/) | amended, not consolidated | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (26781, of which 12499 amending acts)
+## Government decisions (HG) (26792, of which 12503 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -13202,6 +13205,17 @@
 | Hotărârea Guvernului nr. 466/2001 privind suplimentarea bugetului Ministerului Culturii şi Cultelor din Fondul de rezerva bugetară la dispoziţia Guvernului pe anul 2001 pentru Arhiepiscopia Targovistei | [`hg/2001/466/`](hg/2001/466/) | amended, not consolidated | 1 | 2001-05-22 | 2001-05-22 |
 | Hotărârea Guvernului nr. 476/2001 pentru aprobarea Normelor metodologice de aplicare a Legii nr. 123/2001 privind regimul străinilor în România | [`hg/2001/476/`](hg/2001/476/) | amended, not consolidated | 1 | 2001-05-29 | 2001-05-29 |
 | Hotărârea Guvernului nr. 485/2001 pentru stabilirea limitelor minime ale sumelor asigurate prin asigurarea obligatorie de răspundere civilă pentru pagube produse terţilor de către operatorii aerieni români care efectuează operaţiuni de lucru aerian sau de aviaţie generală pe teritoriul României | [`hg/2001/485/`](hg/2001/485/) | amended, not consolidated | 1 | 2001-08-29 | 2001-08-29 |
+| Hotărârea Guvernului nr. 487/2001 privind trecerea unor imobile din domeniul public în domeniul privat al statului şi transmiterea acestora cu plata în proprietatea Asociaţiei Generale a Vânătorilor şi Pescarilor Sportivi din România, precum şi darea în folosinţa gratuită a unui teren proprietate publică a statului | [`hg/2001/487/`](hg/2001/487/) | in force | 1 | 2001-05-30 | 2001-05-30 |
+| Hotărârea Guvernului nr. 491/2001 pentru modificarea Hotărârii Guvernului nr. 292/2001 privind aprobarea categoriilor de cheltuieli şi a obiectivelor pentru înlăturarea efectelor calamităţilor naturale produse în perioada 3-6 martie 2001 în judeţele Alba, Bihor, Bistriţa-Năsăud, Cluj, Hunedoara, Maramureş şi Satu Mare | [`hg/2001/491/`](hg/2001/491/) | amending act | 1 | 2001-05-31 | 2001-05-31 |
+| Hotărârea Guvernului nr. 492/2001 privind unele măsuri referitoare la activitatea Regiei Autonome "Zirom" Giurgiu | [`hg/2001/492/`](hg/2001/492/) | in force | 1 | 2001-05-31 | 2001-05-31 |
+| Hotărârea Guvernului nr. 493/2001 pentru aprobarea Acordului dintre Guvernul României, Guvernul Republicii Bulgaria şi Guvernul Republicii Turcia privind cooperarea tripartita în domeniul turismului, semnat la Sinaia la 11 martie 1999 | [`hg/2001/493/`](hg/2001/493/) | amending act | 1 | 2001-06-01 | 2001-06-01 |
+| Hotărârea Guvernului nr. 495/2001 pentru aprobarea cheltuielilor ocazionate de desfăşurarea la Sinaia, în perioada 18-20 mai 2001, a reuniunii informale "Strengthening the OSCE" | [`hg/2001/495/`](hg/2001/495/) | amending act | 1 | 2001-06-01 | 2001-06-01 |
+| Hotărârea Guvernului nr. 496/2001 privind finanţarea din bugetul Ministerului Educaţiei şi Cercetării a lucrărilor de execuţie pentru obiectivul de investiţii "Extindere Grup Şcolar Agricol Şendriceni", judeţul Botoşani, şi a lucrărilor de consolidare a clădirii şcolii | [`hg/2001/496/`](hg/2001/496/) | in force | 1 | 2001-06-01 | 2001-06-01 |
+| Hotărârea Guvernului nr. 497/2001 privind alocarea unei sume din Fondul de intervenţie la dispoziţia Guvernului pe anul 2001, în vederea strămutării celor 22 de gospodării aflate în zona câmpului II de sonde Ocnele Mari, judeţul Valcea | [`hg/2001/497/`](hg/2001/497/) | in force | 1 | 2001-06-05 | 2001-06-05 |
+| Hotărârea Guvernului nr. 498/2001 pentru actualizarea limitelor amenzilor contravenţionale, prevăzute la art. 33 din Legea nr. 10/1995 privind calitatea în construcţii | [`hg/2001/498/`](hg/2001/498/) | in force | 1 | 2001-06-05 | 2001-06-05 |
+| Hotărârea Guvernului nr. 501/2001 privind trecerea unui imobil din proprietatea privată a statului în proprietatea publică a statului şi transmiterea acestuia din administrarea Regiei Autonome "Administraţia Patrimoniului Protocolului de Stat" în administrarea Serviciului Român de Informaţii | [`hg/2001/501/`](hg/2001/501/) | in force | 1 | 2001-06-05 | 2001-06-05 |
+| Hotărârea Guvernului nr. 502/2001 privind trecerea unui imobil, proprietate publică a statului, din administrarea Consiliului Local al Municipiului Buzău în administrarea Ministerului Educaţiei şi Cercetării pentru Inspectoratul Şcolar al Judeţului Buzău | [`hg/2001/502/`](hg/2001/502/) | in force | 1 | 2001-06-05 | 2001-06-05 |
+| Hotărârea Guvernului nr. 503/2001 privind aprobarea unei licenţe de concesiune a activităţii miniere de exploatare, încheiată între Agenţia Naţionala pentru Resurse Minerale şi Societatea Comercială "Consir" - S.A | [`hg/2001/503/`](hg/2001/503/) | amending act | 1 | 2001-06-06 | 2001-06-06 |
 | Hotărârea Guvernului nr. 507/2001 pentru aprobarea Protocolului privind modalităţile de funcţionare a Comisiei mixte româno-tunisiene de cooperare economică, ştiinţifică şi tehnică, semnat la Bucureşti la 12 septembrie 2000 | [`hg/2001/507/`](hg/2001/507/) | amending act | 1 | 2001-06-08 | 2001-06-08 |
 | Hotărârea Guvernului nr. 510/2001 privind acordarea unui ajutor de urgenta | [`hg/2001/510/`](hg/2001/510/) | in force | 1 | 2001-06-07 | 2001-06-07 |
 | Hotărârea Guvernului nr. 511/2001 privind unele măsuri de organizare a activității de agrement în stațiunile turistice | [`hg/2001/511/`](hg/2001/511/) | in force | 2 | 2001-06-11 | 2003-04-23 |
