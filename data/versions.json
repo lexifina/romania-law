@@ -102881,6 +102881,21 @@
    ]
   },
   {
+   "slug": "hg-102-2012",
+   "path": "hg/2012/102",
+   "short": "HG nr. 102/2012",
+   "title": "Hotărârea Guvernului nr. 102/2012 pentru modificarea şi completarea unor anexe la Hotărârea Guvernului nr. 1.357/2001 privind atestarea domeniului public al judeţului Suceava, precum şi al municipiilor, oraşelor şi comunelor din judeţul Suceava",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/136039",
+   "versions": [
+    {
+     "from": "2012-03-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/136039",
+     "sha256": "e94ddeecd0baeb76858fa848ee50c000a6c9dc6806c7bcb8f5a0335ce7e09efc"
+    }
+   ]
+  },
+  {
    "slug": "hg-102-2015",
    "path": "hg/2015/102",
    "short": "HG nr. 102/2015",
@@ -107200,6 +107215,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/102575",
      "sha256": "c329c1d139220745fb195bce27aa185395528fc2877cbb3edc0ba0122c72f3e0"
+    }
+   ]
+  },
+  {
+   "slug": "hg-105-2012",
+   "path": "hg/2012/105",
+   "short": "HG nr. 105/2012",
+   "title": "Hotărârea Guvernului nr. 105/2012 privind modificarea şi completarea Hotărârii Guvernului nr. 478/2010 pentru aprobarea structurii organizatorice a Autorităţii coordonatoare şi de management în România pentru gestionarea asistenţei financiare comunitare, acordată prin Fondul de Solidaritate al Uniunii Europene",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/135897",
+   "versions": [
+    {
+     "from": "2012-03-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/135897",
+     "sha256": "92045468a103c9c2f975064ecfda409f77852641a494c460fe3c06c9afd26128"
     }
    ]
   },
@@ -113771,6 +113801,21 @@
    ]
   },
   {
+   "slug": "hg-110-2012",
+   "path": "hg/2012/110",
+   "short": "HG nr. 110/2012",
+   "title": "Hotărârea Guvernului nr. 110/2012 privind numirea unui consul general",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/135986",
+   "versions": [
+    {
+     "from": "2012-03-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/135986",
+     "sha256": "4b5daca93c6ab215b335a983b5af3abe0ca71873b71b401730a06273416295e3"
+    }
+   ]
+  },
+  {
    "slug": "hg-110-2013",
    "path": "hg/2013/110",
    "short": "HG nr. 110/2013",
@@ -115034,6 +115079,21 @@
    ]
   },
   {
+   "slug": "hg-111-2012",
+   "path": "hg/2012/111",
+   "short": "HG nr. 111/2012",
+   "title": "Hotărârea Guvernului nr. 111/2012 privind rechemarea unui consul general",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/135987",
+   "versions": [
+    {
+     "from": "2012-03-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/135987",
+     "sha256": "5f9efae85d02bfaa5a48376237ee5bf1b18786b179450d0135583af2db065916"
+    }
+   ]
+  },
+  {
    "slug": "hg-111-2013",
    "path": "hg/2013/111",
    "short": "HG nr. 111/2013",
@@ -116125,6 +116185,21 @@
      "units": 22,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/117798",
      "sha256": "4391445c35ef2ced7701305d0fd4e4364fd7904f1f80be600a54450e5ef01105"
+    }
+   ]
+  },
+  {
+   "slug": "hg-112-2012",
+   "path": "hg/2012/112",
+   "short": "HG nr. 112/2012",
+   "title": "Hotărârea Guvernului nr. 112/2012 privind rechemarea unui consul general",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/135988",
+   "versions": [
+    {
+     "from": "2012-03-08",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/135988",
+     "sha256": "2b18a5d3f30748a97a98a67fbfc6cf0d8910f1e4cc0e92c890e5eb59df2d845d"
     }
    ]
   },
@@ -117547,6 +117622,21 @@
      "units": 8,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/116605",
      "sha256": "f60946dc753a491f0ad8ef7039253dcf0c6e753fce739bea24e81a80aeb822da"
+    }
+   ]
+  },
+  {
+   "slug": "hg-113-2012",
+   "path": "hg/2012/113",
+   "short": "HG nr. 113/2012",
+   "title": "Hotărârea Guvernului nr. 113/2012 privind rechemarea şi numirea unui consul general",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/135989",
+   "versions": [
+    {
+     "from": "2012-03-08",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/135989",
+     "sha256": "6ce993aa9f6499a62082d88cc9b42a65c2fb5a974f514e2dfdb118ab2af5f848"
     }
    ]
   },
@@ -118990,6 +119080,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/288398",
      "sha256": "a25ae4281b827586dd483d6adfe3666242e0392413aadd52626450166ef59490"
+    }
+   ]
+  },
+  {
+   "slug": "hg-114-2012",
+   "path": "hg/2012/114",
+   "short": "HG nr. 114/2012",
+   "title": "Hotărârea Guvernului nr. 114/2012 privind încetarea de drept a raportului de serviciu al doamnei Bondi Gyongyike, subprefect al judeţului Maramureş",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/136032",
+   "versions": [
+    {
+     "from": "2012-03-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/136032",
+     "sha256": "27a341a956034b4b11404461f49874ed9905b6ad0d23c0f5c147acf8f8be068e"
     }
    ]
   },
@@ -122348,6 +122453,21 @@
    ]
   },
   {
+   "slug": "hg-117-2012",
+   "path": "hg/2012/117",
+   "short": "HG nr. 117/2012",
+   "title": "Hotărârea Guvernului nr. 117/2012 pentru modificarea Hotărârii Guvernului nr. 11/2009 privind organizarea şi funcţionarea Ministerului Muncii, Familiei şi Protecţiei Sociale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/135992",
+   "versions": [
+    {
+     "from": "2012-03-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/135992",
+     "sha256": "c04c877e258bec7be7501c710204c5dfddf221ab17cee866c7cec5dc2b83a74b"
+    }
+   ]
+  },
+  {
    "slug": "hg-117-2013",
    "path": "hg/2013/117",
    "short": "HG nr. 117/2013",
@@ -124463,6 +124583,21 @@
    ]
   },
   {
+   "slug": "hg-119-2012",
+   "path": "hg/2012/119",
+   "short": "HG nr. 119/2012",
+   "title": "Hotărârea Guvernului nr. 119/2012 privind includerea unui imobil în inventarul centralizat al bunurilor din domeniul public al statului şi în administrarea Ministerului Justiţiei - Tribunalul Mehedinţi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/135999",
+   "versions": [
+    {
+     "from": "2012-03-08",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/135999",
+     "sha256": "d179224467ab21191b7ca568378fa8e83507849868d0fd6550ba63d93e4ea974"
+    }
+   ]
+  },
+  {
    "slug": "hg-119-2013",
    "path": "hg/2013/119",
    "short": "HG nr. 119/2013",
@@ -125534,6 +125669,21 @@
    ]
   },
   {
+   "slug": "hg-120-2012",
+   "path": "hg/2012/120",
+   "short": "HG nr. 120/2012",
+   "title": "Hotărârea Guvernului nr. 120/2012 privind aprobarea bugetului de venituri şi cheltuieli pe anul 2012 pentru Compania Naţională UNIFARM - S.A. Bucureşti, aflată sub autoritatea Ministerului Sănătăţii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/136096",
+   "versions": [
+    {
+     "from": "2012-03-13",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/136096",
+     "sha256": "8834075d5d15ad011397b29c3452ddc4f5b72d30ea142a7187c7cb51673258a7"
+    }
+   ]
+  },
+  {
    "slug": "hg-120-2015",
    "path": "hg/2015/120",
    "short": "HG nr. 120/2015",
@@ -126520,6 +126670,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/102718",
      "sha256": "2cde50ffff6bb5422fdc7c40f6375068869a0b28b01ba5da6b09cb7f4117f226"
+    }
+   ]
+  },
+  {
+   "slug": "hg-121-2012",
+   "path": "hg/2012/121",
+   "short": "HG nr. 121/2012",
+   "title": "Hotărârea Guvernului nr. 121/2012 privind aprobarea bugetului de venituri şi cheltuieli pe anul 2012 pentru Societatea Comercială ANTIBIOTICE - S.A. Iaşi, aflată sub autoritatea Ministerului Sănătăţii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/136097",
+   "versions": [
+    {
+     "from": "2012-03-13",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/136097",
+     "sha256": "8632d42e3b5906dfedabf8fe0fa3cc5b892b7de344d52c3d1b189f7c06233b90"
     }
    ]
   },
@@ -128945,6 +129110,21 @@
    ]
   },
   {
+   "slug": "hg-124-2012",
+   "path": "hg/2012/124",
+   "short": "HG nr. 124/2012",
+   "title": "Hotărârea Guvernului nr. 124/2012 privind aprobarea bugetului de venituri şi cheltuieli pe anul 2012 al Societăţii Comerciale \"Grup Exploatare şi Întreţinere Palat C.F.R.\" - S.A., aflată sub autoritatea Ministerului Transporturilor şi Infrastructurii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/136040",
+   "versions": [
+    {
+     "from": "2012-03-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/136040",
+     "sha256": "c9917f37188286bacdae167a0a7b4bcd2606db4e0b89431dd3427330fcad06da"
+    }
+   ]
+  },
+  {
    "slug": "hg-124-2014",
    "path": "hg/2014/124",
    "short": "HG nr. 124/2014",
@@ -129766,6 +129946,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/102737",
      "sha256": "9ef57c90e2fa9066eb7ddfaccd10f86b23dd3bdc17a94abcd50c598de1090a8a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-125-2012",
+   "path": "hg/2012/125",
+   "short": "HG nr. 125/2012",
+   "title": "Hotărârea Guvernului nr. 125/2012 privind aprobarea bugetului de venituri şi cheltuieli pe anul 2012 al Companiei Naţionale \"Administraţia Porturilor Dunării Fluviale\" - S.A. Giurgiu, aflată sub autoritatea Ministerului Transporturilor şi Infrastructurii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/136068",
+   "versions": [
+    {
+     "from": "2012-03-12",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/136068",
+     "sha256": "c6a9796c4e982eef4af9fe753f07216ddcc4a381e2e406929684d7d779e6c9fa"
     }
    ]
   },
@@ -136121,6 +136316,21 @@
    ]
   },
   {
+   "slug": "hg-132-2012",
+   "path": "hg/2012/132",
+   "short": "HG nr. 132/2012",
+   "title": "Hotărârea Guvernului nr. 132/2012 privind modificarea şi completarea Hotărârii Guvernului nr. 604/2006 pentru modificarea şi completarea Hotărârii Guvernului nr. 971/2002 privind atestarea domeniului public al judeţului Botoşani, precum şi al municipiilor, oraşelor şi comunelor din judeţul Botoşani, precum şi a Hotărârii Guvernului nr. 971/2002 privind atestarea domeniului public al judeţului Botoşani, precum şi al municipiilor, oraşelor şi comunelor din judeţul Botoşani",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/136210",
+   "versions": [
+    {
+     "from": "2012-03-16",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/136210",
+     "sha256": "974d8bf9d17d85f6357a1532a7cc4025cb4a7a7f6786799ee6ce55dfa4fa4511"
+    }
+   ]
+  },
+  {
    "slug": "hg-132-2013",
    "path": "hg/2013/132",
    "short": "HG nr. 132/2013",
@@ -137567,6 +137777,21 @@
    ]
   },
   {
+   "slug": "hg-134-2012",
+   "path": "hg/2012/134",
+   "short": "HG nr. 134/2012",
+   "title": "Hotărârea Guvernului nr. 134/2012 pentru modificarea art. 8 alin. (1) din Hotărârea Guvernului nr. 855/1998 privind înfiinţarea Centrului Naţional de Dezvoltare a Învăţământului Profesional şi Tehnic",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/135993",
+   "versions": [
+    {
+     "from": "2012-03-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/135993",
+     "sha256": "b9b15a7d91eb93ce7d8b9ed14d36e516ef9c08b19144c5ccf6f021a0b77feeb2"
+    }
+   ]
+  },
+  {
    "slug": "hg-134-2013",
    "path": "hg/2013/134",
    "short": "HG nr. 134/2013",
@@ -138206,6 +138431,21 @@
    ]
   },
   {
+   "slug": "hg-135-2012",
+   "path": "hg/2012/135",
+   "short": "HG nr. 135/2012",
+   "title": "Hotărârea Guvernului nr. 135/2012 pentru modificarea şi completarea Hotărârii Guvernului nr. 974/2002 privind atestarea domeniului public al judeţului Alba, precum şi al municipiilor, oraşelor şi comunelor din judeţul Alba",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/136597",
+   "versions": [
+    {
+     "from": "2012-03-27",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/136597",
+     "sha256": "37a172ca28979c115e36bc8106d85773b0c3a1503c911f4071ea1a40c353b525"
+    }
+   ]
+  },
+  {
    "slug": "hg-135-2013",
    "path": "hg/2013/135",
    "short": "HG nr. 135/2013",
@@ -138697,6 +138937,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/116508",
      "sha256": "377c67accdd0441b2cbe7d41bc2f56a570362d94118a9830f88b1c3f2f7a1bc4"
+    }
+   ]
+  },
+  {
+   "slug": "hg-136-2012",
+   "path": "hg/2012/136",
+   "short": "HG nr. 136/2012",
+   "title": "Hotărârea Guvernului nr. 136/2012 privind aprobarea bugetului de venituri şi cheltuieli pe anul 2012 al Fondului pentru mediu, al Administraţiei Fondului pentru Mediu, precum şi a Listei proiectelor şi programelor pentru protecţia mediului finanţate din Fondul pentru mediu în anul 2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/136194",
+   "versions": [
+    {
+     "from": "2012-03-15",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/136194",
+     "sha256": "7a68b0f8ca677e56d27812aaa6c3eccb487a2337b17b8bbed3ad9a77ce035957"
     }
    ]
   },
@@ -166381,6 +166636,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/80732",
      "sha256": "716a1dd316547f36d6dc18f259e62d4dc825a91953d01acca521b4204957b1b5"
+    }
+   ]
+  },
+  {
+   "slug": "hg-217-2012",
+   "path": "hg/2012/217",
+   "short": "HG nr. 217/2012",
+   "title": "Hotărârea Guvernului nr. 217/2012 privind stabilirea cerinţelor pentru indicarea, prin etichetare şi informaţii standard despre produs, a consumului de energie şi de alte resurse al produselor cu impact energetic şi de modificare a Hotărârii Guvernului nr. 1.039/2003 privind stabilirea cerinţelor referitoare la etichetarea şi eficienţa energetică a aparatelor frigorifice de uz casnic pentru introducerea lor pe piaţă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/136634",
+   "versions": [
+    {
+     "from": "2012-03-28",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/136634",
+     "sha256": "e522104ff2331ddc8a5390df7f2c9e4f0f9ece87c2745d11038c0015b4bca65a"
     }
    ]
   },
@@ -215609,6 +215879,21 @@
    ]
   },
   {
+   "slug": "hg-47-2012",
+   "path": "hg/2012/47",
+   "short": "HG nr. 47/2012",
+   "title": "Hotărârea Guvernului nr. 47/2012 privind schimbarea titularului dreptului de administrare a unei părţi de imobil aflat în proprietatea publică a statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/134918",
+   "versions": [
+    {
+     "from": "2012-02-02",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/134918",
+     "sha256": "1fc0f33ca237a35eb0b84881314a1f486514f898da2cfab6a39bdc306372c57e"
+    }
+   ]
+  },
+  {
    "slug": "hg-47-2013",
    "path": "hg/2013/47",
    "short": "HG nr. 47/2013",
@@ -236030,6 +236315,21 @@
    ]
   },
   {
+   "slug": "hg-57-2012",
+   "path": "hg/2012/57",
+   "short": "HG nr. 57/2012",
+   "title": "Hotărârea Guvernului nr. 57/2012 pentru modificarea şi completarea Normelor metodologice de aplicare a prevederilor Legii nr. 416/2001 privind venitul minim garantat, aprobate prin Hotărârea Guvernului nr. 50/2011 , a Normelor metodologice de aplicare a prevederilor Ordonanţei de urgenţă a Guvernului nr. 111/2010 privind concediul şi indemnizaţia lunară pentru creşterea copiilor, aprobate prin Hotărârea Guvernului nr. 52/2011 , şi a Normelor metodologice de aplicare a prevederilor Legii nr. 277/2010 privind alocaţia pentru susţinerea familiei, aprobate prin Hotărârea Guvernului nr. 38/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/134912",
+   "versions": [
+    {
+     "from": "2012-02-01",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/134912",
+     "sha256": "2d4e49618434f8a28c46cdd7f9508a8737f42693778f8bf62b81d6468b465e61"
+    }
+   ]
+  },
+  {
    "slug": "hg-57-2014",
    "path": "hg/2014/57",
    "short": "HG nr. 57/2014",
@@ -237904,6 +238204,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/102126",
      "sha256": "f8fd28dff6565361cf11d62b65b0453568524eb7ea4153af52e00b07373a0722"
+    }
+   ]
+  },
+  {
+   "slug": "hg-58-2012",
+   "path": "hg/2012/58",
+   "short": "HG nr. 58/2012",
+   "title": "Hotărârea Guvernului nr. 58/2012 privind acordarea unui ajutor umanitar de urgenţă pentru populaţia din judeţele Argeş, Călăraşi, Dâmboviţa, Ialomiţa şi Giurgiu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/134925",
+   "versions": [
+    {
+     "from": "2012-02-02",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/134925",
+     "sha256": "334a4322aff87c5437874d0de547913dd95f881e83d7873fdbb11c8dfd33dbed"
     }
    ]
   },
@@ -239971,6 +240286,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/102127",
      "sha256": "2d81aad54824118187e8ecf725beb92a878356666c8cb119758c15ffede76fb7"
+    }
+   ]
+  },
+  {
+   "slug": "hg-59-2012",
+   "path": "hg/2012/59",
+   "short": "HG nr. 59/2012",
+   "title": "Hotărârea Guvernului nr. 59/2012 privind suplimentarea bugetului Ministerului Administraţiei şi Internelor din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/134927",
+   "versions": [
+    {
+     "from": "2012-02-02",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/134927",
+     "sha256": "3c75d580fe5d5ddcc962801d9dd6f184b07566156a94b3a61960eba725f931e0"
     }
    ]
   },
@@ -249860,6 +250190,21 @@
    ]
   },
   {
+   "slug": "hg-64-2012",
+   "path": "hg/2012/64",
+   "short": "HG nr. 64/2012",
+   "title": "Hotărârea Guvernului nr. 64/2012 privind darea în administrarea Ministerului Transporturilor şi Infrastructurii a unei suprafeţe totale de teren de 318 m&#178;, trecută în domeniul public al statului, în vederea finalizării de către Compania Naţională de Autostrăzi şi Drumuri Naţionale din România - S.A. a obiectivului de investiţie \"Varianta de ocolire a municipiului Constanţa\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/135027",
+   "versions": [
+    {
+     "from": "2012-02-07",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/135027",
+     "sha256": "338845c18821d18f73f0e0d7b2c99ddb42031ceadff054fcb937140049949b52"
+    }
+   ]
+  },
+  {
    "slug": "hg-64-2016",
    "path": "hg/2016/64",
    "short": "HG nr. 64/2016",
@@ -251818,6 +252163,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/89058",
      "sha256": "23d37a23c1ac7a88696f45b9fb64972b2864f030cde349a1c01d0b92a5859283"
+    }
+   ]
+  },
+  {
+   "slug": "hg-65-2012",
+   "path": "hg/2012/65",
+   "short": "HG nr. 65/2012",
+   "title": "Hotărârea Guvernului nr. 65/2012 privind darea în administrarea Ministerului Transporturilor şi Infrastructurii a unor terenuri în suprafaţă totală de 73.262 m&#178;, trecute în domeniul public al statului, în vederea realizării de către Compania Naţională de Autostrăzi şi Drumuri Naţionale din România - S.A. a obiectivului de interes naţional \"Autostrada Bucureşti-Braşov, tronson Bucureşti-Ploieşti\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/135028",
+   "versions": [
+    {
+     "from": "2012-02-07",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/135028",
+     "sha256": "c4936d4e6461d051518f22dd75196985e5ef2c47cb5f108aea754a2ce03b4c81"
     }
    ]
   },
@@ -264878,6 +265238,21 @@
    ]
   },
   {
+   "slug": "hg-72-2012",
+   "path": "hg/2012/72",
+   "short": "HG nr. 72/2012",
+   "title": "Hotărârea Guvernului nr. 72/2012 privind suplimentarea bugetului Ministerului Transporturilor şi Infrastructurii din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/134990",
+   "versions": [
+    {
+     "from": "2012-02-06",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/134990",
+     "sha256": "0577d733ec68130bdd5effe87cc08a4644cb4d6a187261b041ed38719b83a2c6"
+    }
+   ]
+  },
+  {
    "slug": "hg-72-2014",
    "path": "hg/2014/72",
    "short": "HG nr. 72/2014",
@@ -276638,6 +277013,21 @@
    ]
   },
   {
+   "slug": "hg-78-2012",
+   "path": "hg/2012/78",
+   "short": "HG nr. 78/2012",
+   "title": "Hotărârea Guvernului nr. 78/2012 privind suplimentarea bugetului Ministerului Mediului şi Pădurilor din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2012, în vederea plăţii serviciului datoriei publice externe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/135251",
+   "versions": [
+    {
+     "from": "2012-02-08",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/135251",
+     "sha256": "23489f1d040bc6ddd0ead785569b7f1b14b4122c6592a6a552367d62e7e42075"
+    }
+   ]
+  },
+  {
    "slug": "hg-78-2015",
    "path": "hg/2015/78",
    "short": "HG nr. 78/2015",
@@ -278509,6 +278899,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/79112",
      "sha256": "829a62bacdb77e0171fc940049f25aeefb9bd009bcb6e062adea9b7b01aa7d9f"
+    }
+   ]
+  },
+  {
+   "slug": "hg-79-2012",
+   "path": "hg/2012/79",
+   "short": "HG nr. 79/2012",
+   "title": "Hotărârea Guvernului nr. 79/2012 privind acordarea de către România a unui ajutor de urgenţă, cu titlu gratuit, Guvernului Republicii Bulgaria",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/135334",
+   "versions": [
+    {
+     "from": "2012-02-10",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/135334",
+     "sha256": "951fe1746f9311c159895b40b66445e76dac64cebfe1fc950df570f361999e96"
     }
    ]
   },
@@ -280528,6 +280933,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/293679",
      "sha256": "9b5e52633e0616ca7a5c6c48e3dccff0a2b99833a3b71bf3cc824cd3dd3f3af3"
+    }
+   ]
+  },
+  {
+   "slug": "hg-80-2012",
+   "path": "hg/2012/80",
+   "short": "HG nr. 80/2012",
+   "title": "Hotărârea Guvernului nr. 80/2012 privind modificarea anexei nr. 12 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/135355",
+   "versions": [
+    {
+     "from": "2012-02-13",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/135355",
+     "sha256": "2c734e01246e7024865165c93dc0dd2c90581f877abf2408364dcf6b492387d7"
     }
    ]
   },
@@ -282562,6 +282982,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/102475",
      "sha256": "321bfa05157f5d6ee25832500d1cb1892a5e398f48bee03f0c2faec7cb45b10a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-81-2012",
+   "path": "hg/2012/81",
+   "short": "HG nr. 81/2012",
+   "title": "Hotărârea Guvernului nr. 81/2012 pentru modificarea şi completarea unor anexe la Hotărârea Guvernului nr. 363/2002 privind atestarea domeniului public al judeţului Brăila, precum şi al municipiului, oraşelor şi comunelor din judeţul Brăila",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/135615",
+   "versions": [
+    {
+     "from": "2012-02-22",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/135615",
+     "sha256": "9094bb111b01d95e286271a577cc6a0419893db067811e6804466c0006912965"
     }
    ]
   },
@@ -290161,6 +290596,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/102479",
      "sha256": "f85ddeea221ce88dde01c8b8af31a1b87c3911350d3f6c3e5a247f775636003b"
+    }
+   ]
+  },
+  {
+   "slug": "hg-85-2012",
+   "path": "hg/2012/85",
+   "short": "HG nr. 85/2012",
+   "title": "Hotărârea Guvernului nr. 85/2012 privind alocarea unei sume din Fondul de intervenţie la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2012, pentru înlăturarea efectelor calamităţilor naturale produse de căderile masive de zăpadă şi viscol în unele judeţe ale ţării",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/135569",
+   "versions": [
+    {
+     "from": "2012-02-21",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/135569",
+     "sha256": "c816e581df4f191ee5f4bdafcf81592810a9a15b46fc31e30d4e5c4620abae33"
     }
    ]
   },
@@ -300617,6 +301067,21 @@
    ]
   },
   {
+   "slug": "hg-90-2012",
+   "path": "hg/2012/90",
+   "short": "HG nr. 90/2012",
+   "title": "Hotărârea Guvernului nr. 90/2012 privind organizarea în perioada 1 - 14 iulie 2012, la Bucureşti, a celei de-a 11-a reuniuni a Conferinţei părţilor contractante la Convenţia asupra zonelor umede de importanţă internaţională, în special ca habitat al păsărilor acvatice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/135762",
+   "versions": [
+    {
+     "from": "2012-02-28",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/135762",
+     "sha256": "98c173a0ff18e4e84a56754e10101c3ba02dab8373b6d2237628026e22dbe9e0"
+    }
+   ]
+  },
+  {
    "slug": "hg-90-2014",
    "path": "hg/2014/90",
    "short": "HG nr. 90/2014",
@@ -308399,6 +308864,21 @@
    ]
   },
   {
+   "slug": "hg-94-2012",
+   "path": "hg/2012/94",
+   "short": "HG nr. 94/2012",
+   "title": "Hotărârea Guvernului nr. 94/2012 privind suplimentarea bugetului Ministerului Sănătăţii din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/135645",
+   "versions": [
+    {
+     "from": "2012-02-23",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/135645",
+     "sha256": "de42aa1abcaa3320875d68d5247c313d77a900ccdcdec0cd8767e2732e98e5e2"
+    }
+   ]
+  },
+  {
    "slug": "hg-94-2013",
    "path": "hg/2013/94",
    "short": "HG nr. 94/2013",
@@ -310438,6 +310918,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/126345",
      "sha256": "77ac1f43fd14cd25d1e1facdf2de6c8e8c82537dec184bdc56b665360088a88b"
+    }
+   ]
+  },
+  {
+   "slug": "hg-95-2012",
+   "path": "hg/2012/95",
+   "short": "HG nr. 95/2012",
+   "title": "Hotărârea Guvernului nr. 95/2012 privind acordarea unui ajutor umanitar de urgenţă, cu titlu gratuit, pentru populaţia din judeţele Bacău, Buzău, Caraş-Severin, Dolj, Galaţi, Iaşi, Mehedinţi, Neamţ şi Vrancea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/135785",
+   "versions": [
+    {
+     "from": "2012-02-29",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/135785",
+     "sha256": "ce58483dcf7c83b1f9344aef2e398058f300555d77f46646d2a1ff037a10d508"
     }
    ]
   },
@@ -314345,6 +314840,21 @@
    ]
   },
   {
+   "slug": "hg-97-2012",
+   "path": "hg/2012/97",
+   "short": "HG nr. 97/2012",
+   "title": "Hotărârea Guvernului nr. 97/2012 pentru modificarea unor acte normative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/135870",
+   "versions": [
+    {
+     "from": "2012-03-02",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/135870",
+     "sha256": "1737a8c635d50e20a623fe86989042db66e668b9ff86728b6e4dbab8a828f380"
+    }
+   ]
+  },
+  {
    "slug": "hg-97-2013",
    "path": "hg/2013/97",
    "short": "HG nr. 97/2013",
@@ -316306,6 +316816,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/116263",
      "sha256": "617f2817ab27c13b5be2144a1ca61bf17b7dfdec7f6c96700adb513c543df8c9"
+    }
+   ]
+  },
+  {
+   "slug": "hg-98-2012",
+   "path": "hg/2012/98",
+   "short": "HG nr. 98/2012",
+   "title": "Hotărârea Guvernului nr. 98/2012 pentru completarea art. 2 alin. (1) din Normele metodologice de aplicare a Ordonanţei de urgenţă a Guvernului nr. 60/2011 privind aprobarea Programului Mihail Kogălniceanu pentru întreprinderi mici şi mijlocii, aprobate prin Hotărârea Guvernului nr. 682/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/135827",
+   "versions": [
+    {
+     "from": "2012-03-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/135827",
+     "sha256": "4c5ebe8e8b11422d1c814a760b2faf9c1e6c143c24f272a44f8ccc9847ae588b"
     }
    ]
   },
