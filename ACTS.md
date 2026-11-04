@@ -1,6 +1,6 @@
 # Every act in this repository
 
-22522 acts, 36,155 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+22537 acts, 36,170 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -5753,7 +5753,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (16778, of which 8732 amending acts)
+## Government decisions (HG) (16793, of which 8739 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -8808,13 +8808,28 @@
 | Hotărârea Guvernului nr. 1611/2009 | [`hg/2009/1611/`](hg/2009/1611/) | in force | 2 | 2010-01-08 | 2016-08-16 |
 | Hotărârea Guvernului nr. 1613/2009 | [`hg/2009/1613/`](hg/2009/1613/) | in force | 1 | 2010-01-01 | 2010-01-01 |
 | Hotărârea Guvernului nr. 1627/2009 | [`hg/2009/1627/`](hg/2009/1627/) | in force | 1 | 2010-01-01 | 2010-01-01 |
+| Hotărârea Guvernului nr. 1630/2009 privind unele măsuri de reducere a cheltuielilor cu deplasările în străinătate pentru anul 2010 | [`hg/2009/1630/`](hg/2009/1630/) | in force | 1 | 2009-12-30 | 2009-12-30 |
 | Hotărârea Guvernului nr. 1631/2009 | [`hg/2009/1631/`](hg/2009/1631/) | in force | 9 | 2010-01-04 | 2012-09-13 |
 | Hotărârea Guvernului nr. 1632/2009 | [`hg/2009/1632/`](hg/2009/1632/) | in force | 1 | 2010-01-04 | 2010-01-04 |
+| Hotărârea Guvernului nr. 1633/2009 pentru modificarea şi completarea Hotărârii Guvernului nr. 2.406/2004 privind gestionarea vehiculelor scoase din uz | [`hg/2009/1633/`](hg/2009/1633/) | amending act | 1 | 2010-02-13 | 2010-02-13 |
 | Hotărârea Guvernului nr. 1634/2009 | [`hg/2009/1634/`](hg/2009/1634/) | in force | 3 | 2010-01-04 | 2012-05-30 |
 | Hotărârea Guvernului nr. 1635/2009 | [`hg/2009/1635/`](hg/2009/1635/) | in force | 3 | 2010-01-12 | 2012-03-02 |
 | Hotărârea Guvernului nr. 22/2010 | [`hg/2010/22/`](hg/2010/22/) | in force | 2 | 2010-01-11 | 2012-07-16 |
 | Hotărârea Guvernului nr. 26/2010 privind organizarea şi funcţionarea Departamentului pentru Relaţia cu Parlamentul | [`hg/2010/26/`](hg/2010/26/) | in force | 3 | 2010-01-12 | 2013-01-19 |
+| Hotărârea Guvernului nr. 28/2010 privind aprobarea bugetului de venituri şi cheltuieli pe anul 2009 al Societăţii Naţionale de Transport Feroviar de Marfă "C.F.R. - Marfă" - S.A., aflată sub autoritatea Ministerului Transporturilor şi Infrastructurii | [`hg/2010/28/`](hg/2010/28/) | amending act | 1 | 2010-01-12 | 2010-01-12 |
+| Hotărârea Guvernului nr. 29/2010 pentru modificarea şi completarea art. 3 din anexa nr. 1 la Hotărârea Guvernului nr. 717/2009 privind aprobarea normelor de implementare a programului "Prima casă" | [`hg/2010/29/`](hg/2010/29/) | amending act | 1 | 2010-01-12 | 2010-01-12 |
+| Hotărârea Guvernului nr. 33/2010 privind trecerea unor construcţii aflate în administrarea Ministerului Administraţiei şi Internelor - Inspectoratul Judeţean al Poliţiei de Frontieră Caraş-Severin din domeniul public al statului în domeniul privat al acestuia, în vederea scoaterii din funcţiune şi demolării, şi privind actualizarea anexei nr. 1 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului | [`hg/2010/33/`](hg/2010/33/) | amending act | 1 | 2010-01-19 | 2010-01-19 |
+| Hotărârea Guvernului nr. 35/2010 privind aprobarea stemelor comunelor Baloteşti şi Moara Vlăsiei, judeţul Ilfov | [`hg/2010/35/`](hg/2010/35/) | amending act | 1 | 2010-01-25 | 2010-01-25 |
+| Hotărârea Guvernului nr. 38/2010 privind stabilirea modelului proceselor-verbale pentru consemnarea rezultatelor votării la alegerile parţiale pentru Camera Deputaţilor din Circumscripţia Electorală nr. 42 Municipiul Bucureşti, Colegiul uninominal pentru alegerea Camerei Deputaţilor nr. 1, din data de 17 ianuarie 2010 | [`hg/2010/38/`](hg/2010/38/) | in force | 1 | 2010-01-15 | 2010-01-15 |
+| Hotărârea Guvernului nr. 42/2010 privind aplicarea mobilităţii pentru domnul Strujan Constantin din funcţia publică de prefect al judeţului Harghita în funcţia publică de subprefect al judeţului Harghita | [`hg/2010/42/`](hg/2010/42/) | in force | 1 | 2010-01-15 | 2010-01-15 |
+| Hotărârea Guvernului nr. 44/2010 privind încetarea exercitării temporare a funcţiei publice de prefect al judeţului Mehedinţi de către domnul Mîţu Ion, ca urmare a încetării suspendării din funcţie a titularului postului | [`hg/2010/44/`](hg/2010/44/) | in force | 1 | 2010-01-18 | 2010-01-18 |
+| Hotărârea Guvernului nr. 46/2010 privind exercitarea, cu caracter temporar, a funcţiei publice de subprefect al judeţului Botoşani de către domnul Moruzi Petru Daniel | [`hg/2010/46/`](hg/2010/46/) | in force | 1 | 2010-01-18 | 2010-01-18 |
+| Hotărârea Guvernului nr. 47/2010 pentru aprobarea indicatorilor tehnico-economici ai obiectivului de investiţie "Varianta de ocolire a municipiului Slatina", judeţul Olt | [`hg/2010/47/`](hg/2010/47/) | amending act | 1 | 2010-01-21 | 2010-01-21 |
+| Hotărârea Guvernului nr. 52/2010 privind aprobarea subvenţiilor pe produse, pentru acţiuni de ecologizare şi a subvenţiilor privind protecţia socială, acordate companiilor, societăţilor naţionale din sectorul minier şi societăţilor comerciale din sectorul industrial care se subvenţionează în anul 2010 | [`hg/2010/52/`](hg/2010/52/) | amending act | 1 | 2010-01-21 | 2010-01-21 |
+| Hotărârea Guvernului nr. 53/2010 privind exercitarea, cu caracter temporar, a funcţiei publice de subprefect al judeţului Giurgiu de către domnul Cristoi Robert-Ioan | [`hg/2010/53/`](hg/2010/53/) | in force | 1 | 2010-01-21 | 2010-01-21 |
 | Hotărârea Guvernului nr. 56/2010 privind stabilirea unor măsuri pentru reorganizarea producătorilor de energie electrică şi termică de sub autoritatea Ministerului Economiei, Comerţului şi Mediului de Afaceri, prin înfiinţarea Companiei Naţionale Electra - S.A. şi Companiei Naţionale Hidroenergetica - S.A | [`hg/2010/56/`](hg/2010/56/) | in force | 2 | 2010-02-05 | 2010-04-20 |
+| Hotărârea Guvernului nr. 61/2010 privind exercitarea, cu caracter temporar, a funcţiei publice de subprefect al judeţului Caraş-Severin de către domnul Verindeanu Nicolae | [`hg/2010/61/`](hg/2010/61/) | in force | 1 | 2010-01-29 | 2010-01-29 |
+| Hotărârea Guvernului nr. 65/2010 privind exercitarea, cu caracter temporar, a funcţiei publice de subprefect al judeţului Mehedinţi de către domnul Suru Ioan | [`hg/2010/65/`](hg/2010/65/) | in force | 1 | 2010-01-29 | 2010-01-29 |
 | Hotărârea Guvernului nr. 67/2010 privind aplicarea mobilităţii pentru domnul Iftimoaei Ciprian Constantin din funcţia publică de prefect al judeţului Vaslui în funcţia publică de subprefect al judeţului Vaslui | [`hg/2010/67/`](hg/2010/67/) | in force | 1 | 2010-01-29 | 2010-01-29 |
 | Hotărârea Guvernului nr. 70/2010 privind numirea unui consul general | [`hg/2010/70/`](hg/2010/70/) | in force | 1 | 2010-01-29 | 2010-01-29 |
 | Hotărârea Guvernului nr. 73/2010 privind mandatarea reprezentanţilor statului în Adunarea generală a acţionarilor la Societatea Comercială "Fondul Proprietatea"- S.A. să aprobe forma finală a Contractului de administrare ce urmează a fi încheiat de societate cu Franklin Templeton Investment Management Limited (Londra) | [`hg/2010/73/`](hg/2010/73/) | in force | 1 | 2010-02-05 | 2010-02-05 |
