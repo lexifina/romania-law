@@ -1,6 +1,6 @@
 # Every act in this repository
 
-27461 acts, 41,104 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+27473 acts, 41,116 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (4027, of which 2427 amending acts)
+## Laws (legi) (4033, of which 2429 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -557,8 +557,14 @@
 | Legea nr. 370/2004 pentru alegerea Președintelui României | [`lege/2004/370/`](lege/2004/370/) | in force | 15 | 2004-10-02 | 2024-05-10 |
 | Legea nr. 372/2004 | [`lege/2004/372/`](lege/2004/372/) | in force | 1 | 2004-10-01 | 2004-10-01 |
 | Legea nr. 373/2004 pentru alegerea Camerei Deputaților și a Senatului | [`lege/2004/373/`](lege/2004/373/) | repealed 2008-04-12 | 9 | 2004-10-02 | 2008-04-12 |
+| Legea nr. 374/2004 pentru acceptarea amendamentelor la art. 19 şi 25 şi la anexa II şi abrogarea anexelor XII şi XIII privind ajutorul de stat, în cadrul Acordului de comerţ liber dintre România şi statele Asociaţiei Europene a Liberului Schimb (AELS), semnat la Geneva la 10 decembrie 1992, adoptate prin Decizia Comitetului mixt România-AELS nr. 3/2004 , prin procedură scrisă, la 1 aprilie 2004 | [`lege/2004/374/`](lege/2004/374/) | in force | 1 | 2004-10-07 | 2004-10-07 |
 | Legea nr. 376/2004 | [`lege/2004/376/`](lege/2004/376/) | in force | 4 | 2004-10-07 | 2007-01-19 |
+| Legea nr. 377/2004 pentru aprobarea Ordonanţei Guvernului nr. 66/2004 privind acordarea de facilităţi fiscale Organizaţiei Tratatului Atlanticului de Nord pentru pregătirea şi desfăşurarea în România a Reuniunii informale a miniştrilor apărării din ţările membre NATO | [`lege/2004/377/`](lege/2004/377/) | amending act | 1 | 2004-10-07 | 2004-10-07 |
+| Legea nr. 380/2004 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 51/2004 privind prelungirea termenelor de preschimbare a certificatului de înmatriculare şi a celui de înregistrare fiscală de către comercianţi, precum şi a autorizaţiei de funcţionare de către persoanele fizice autorizate şi asociaţiile familiale | [`lege/2004/380/`](lege/2004/380/) | amending act | 1 | 2004-10-07 | 2004-10-07 |
 | Legea nr. 381/2004 | [`lege/2004/381/`](lege/2004/381/) | in force | 1 | 2004-10-04 | 2004-10-04 |
+| Legea nr. 382/2004 privind instituirea Zilei Aviaţiei Române şi a Zilei Marinei Române | [`lege/2004/382/`](lege/2004/382/) | in force | 1 | 2004-10-04 | 2004-10-04 |
+| Legea nr. 383/2004 pentru ratificarea Convenţiei consulare dintre România şi Federaţia Rusă, semnată la Moscova la 4 iulie 2003 | [`lege/2004/383/`](lege/2004/383/) | in force | 1 | 2004-10-11 | 2004-10-11 |
+| Legea nr. 388/2004 privind trecerea unor construcţii şi a terenurilor aferente, aflate în administrarea Regiei Naţionale a Pădurilor Romsilva, din domeniul public al statului în domeniul privat al statului şi în administrarea Regiei Naţionale a Pădurilor Romsilva şi vânzarea acestora de către Regia Naţională a Pădurilor - Romsilva | [`lege/2004/388/`](lege/2004/388/) | in force | 1 | 2004-10-07 | 2004-10-07 |
 | Legea nr. 389/2004 | [`lege/2004/389/`](lege/2004/389/) | in force | 6 | 2004-10-16 | 2012-08-14 |
 | Legea nr. 391/2004 privind Semnul onorific Răsplata Muncii în Serviciul Public | [`lege/2004/391/`](lege/2004/391/) | in force | 2 | 2004-10-14 | 2011-10-30 |
 | Legea nr. 393/2004 | [`lege/2004/393/`](lege/2004/393/) | repealed 2019-07-05 | 15 | 2004-12-06 | 2019-07-05 |
@@ -6392,7 +6398,7 @@
 | Ordonanța Guvernului nr. 3/2026 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 70/2022 privind prevenirea, verificarea şi constatarea neregulilor/dublei finanţări, a neregulilor grave apărute în obţinerea şi utilizarea fondurilor externe nerambursabile/rambursabile alocate României prin Mecanismul de redresare şi rezilienţă şi/sau a fondurilor publice naţionale aferente acestora şi recuperarea creanţelor rezultate | [`og/2026/3/`](og/2026/3/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (21078, of which 10879 amending acts)
+## Government decisions (HG) (21084, of which 10879 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -6866,6 +6872,12 @@
 | Hotărârea Guvernului nr. 1547/2004 | [`hg/2004/1547/`](hg/2004/1547/) | in force | 1 | 2004-10-12 | 2004-10-12 |
 | Hotărârea Guvernului nr. 1550/2004 | [`hg/2004/1550/`](hg/2004/1550/) | in force | 2 | 2004-10-01 | 2005-02-28 |
 | Hotărârea Guvernului nr. 1553/2004 | [`hg/2004/1553/`](hg/2004/1553/) | in force | 4 | 2007-01-01 | 2011-09-30 |
+| Hotărârea Guvernului nr. 1565/2004 privind suplimentarea bugetului Cancelariei Primului-Ministru din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2004 | [`hg/2004/1565/`](hg/2004/1565/) | in force | 1 | 2004-10-01 | 2004-10-01 |
+| Hotărârea Guvernului nr. 1566/2004 privind suplimentarea bugetului Ministerului Afacerilor Externe din Fondul de rezervă bugetară la dispoziţia Guvernului pe anul 2004, pentru organizarea unei expoziţii de pictură românească contemporană la sediul Parlamentului European de la Bruxelles | [`hg/2004/1566/`](hg/2004/1566/) | in force | 1 | 2004-10-04 | 2004-10-04 |
+| Hotărârea Guvernului nr. 1567/2004 privind alocarea unor sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2004, pentru asigurarea cheltuielilor de personal ale unităţilor de învăţământ preuniversitar de stat | [`hg/2004/1567/`](hg/2004/1567/) | in force | 1 | 2004-10-04 | 2004-10-04 |
+| Hotărârea Guvernului nr. 1568/2004 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2004, pentru judeţul Mureş | [`hg/2004/1568/`](hg/2004/1568/) | in force | 1 | 2004-10-04 | 2004-10-04 |
+| Hotărârea Guvernului nr. 1569/2004 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2004, pentru judeţul Caraş-Severin | [`hg/2004/1569/`](hg/2004/1569/) | in force | 1 | 2004-10-04 | 2004-10-04 |
+| Hotărârea Guvernului nr. 1570/2004 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2004, pentru judeţul Vrancea | [`hg/2004/1570/`](hg/2004/1570/) | in force | 1 | 2004-10-04 | 2004-10-04 |
 | Hotărârea Guvernului nr. 1571/2004 privind suplimentarea bugetului Ministerului Justiţiei pe anul 2004 din Fondul de rezervă bugetară la dispoziţia Guvernului pe anul 2004, pentru Direcţia Generală de Protecţie şi Anticorupţie | [`hg/2004/1571/`](hg/2004/1571/) | in force | 1 | 2004-10-04 | 2004-10-04 |
 | Hotărârea Guvernului nr. 1574/2004 privind constituirea, organizarea şi funcţionarea Grupului interministerial pentru cercetare-dezvoltare în domeniul securităţii | [`hg/2004/1574/`](hg/2004/1574/) | in force | 1 | 2004-10-05 | 2004-10-05 |
 | Hotărârea Guvernului nr. 1575/2004 privind acordarea cetăţeniei române unor persoane | [`hg/2004/1575/`](hg/2004/1575/) | in force | 1 | 2004-10-12 | 2004-10-12 |
