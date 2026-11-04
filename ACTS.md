@@ -1,6 +1,6 @@
 # Every act in this repository
 
-21929 acts, 35,562 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+21947 acts, 35,580 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (3427, of which 1924 amending acts)
+## Laws (legi) (3431, of which 1928 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -969,6 +969,10 @@
 | Legea nr. 178/2010 | [`lege/2010/178/`](lege/2010/178/) | in force | 7 | 2010-11-04 | 2015-01-21 |
 | Legea nr. 183/2010 | [`lege/2010/183/`](lege/2010/183/) | in force | 1 | 2010-10-31 | 2010-10-31 |
 | Legea nr. 192/2010 | [`lege/2010/192/`](lege/2010/192/) | in force | 4 | 2010-10-21 | 2019-04-25 |
+| Legea nr. 193/2010 pentru aprobarea contului general anual de execuţie a bugetului de stat, a contului anual de execuţie a bugetului Fondului naţional unic de asigurări sociale de sănătate şi a contului general anual al datoriei publice, aferente anului 2008 | [`lege/2010/193/`](lege/2010/193/) | amending act | 1 | 2011-01-07 | 2011-01-07 |
+| Legea nr. 194/2010 pentru aprobarea contului general anual de execuţie a bugetului asigurărilor sociale de stat pe anul 2008, precum şi a contului general anual de execuţie a bugetului asigurărilor pentru şomaj pe anul 2008 | [`lege/2010/194/`](lege/2010/194/) | amending act | 1 | 2010-10-29 | 2010-10-29 |
+| Legea nr. 199/2010 privind aprobarea Ordonanţei Guvernului nr. 3/2010 pentru aprobarea scoaterii din rezerva de stat, sub formă de împrumut, a unor cantităţi de combustibil pentru unii operatori economici | [`lege/2010/199/`](lege/2010/199/) | amending act | 1 | 2010-10-31 | 2010-10-31 |
+| Legea nr. 200/2010 pentru completarea art. 35 din Legea nr. 111/1996 privind desfăşurarea în siguranţă, reglementarea, autorizarea şi controlul activităţilor nucleare | [`lege/2010/200/`](lege/2010/200/) | amending act | 1 | 2010-10-31 | 2010-10-31 |
 | Legea nr. 202/2010 privind unele măsuri pentru accelerarea soluționării proceselor | [`lege/2010/202/`](lege/2010/202/) | in force | 2 | 2010-11-25 | 2010-12-25 |
 | Legea nr. 204/2010 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 44/2010 privind trecerea Inspectoratului de Stat în Construcţii - I.S.C. din subordinea Guvernului în subordinea Ministerului Dezvoltării Regionale şi Turismului | [`lege/2010/204/`](lege/2010/204/) | amending act | 1 | 2010-11-19 | 2010-11-19 |
 | Legea nr. 205/2010 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 40/2010 pentru modificarea Ordonanţei de urgenţă a Guvernului nr. 152/2005 privind prevenirea şi controlul integrat al poluării | [`lege/2010/205/`](lege/2010/205/) | amending act | 1 | 2010-11-19 | 2010-11-19 |
@@ -3465,7 +3469,7 @@
 | Legea nr. 204/2026 privind aprobarea Ordonanţei Guvernului nr. 22/2025 pentru modificarea şi completarea Legii nr. 227/2015 privind Codul fiscal şi pentru completarea articolului 342 din Legea nr. 227/2015 privind Codul fiscal | [`lege/2026/204/`](lege/2026/204/) | amending act | 1 | 2026-10-25 | 2026-10-25 |
 | Legea nr. 205/2026 pentru completarea Ordonanţei Guvernului nr. 22/2002 privind executarea obligaţiilor de plată ale instituţiilor publice, stabilite prin titluri executorii | [`lege/2026/205/`](lege/2026/205/) | amending act | 1 | 2026-11-02 | 2026-11-02 |
 
-## Emergency ordinances (OUG) (1713, of which 604 amending acts)
+## Emergency ordinances (OUG) (1714, of which 604 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -4068,6 +4072,7 @@
 | Ordonanța de urgență a Guvernului nr. 84/2010 | [`oug/2010/84/`](oug/2010/84/) | in force | 2 | 2010-09-22 | 2012-07-26 |
 | Ordonanța de urgență a Guvernului nr. 87/2010 | [`oug/2010/87/`](oug/2010/87/) | in force | 1 | 2010-10-01 | 2010-10-01 |
 | Ordonanța de urgență a Guvernului nr. 88/2010 | [`oug/2010/88/`](oug/2010/88/) | in force | 3 | 2010-10-01 | 2011-06-24 |
+| Ordonanța de urgență a Guvernului nr. 94/2010 privind unele măsuri în domeniul asigurării unor categorii de persoane în sistemul public de pensii | [`oug/2010/94/`](oug/2010/94/) | in force | 1 | 2010-11-02 | 2010-11-02 |
 | Ordonanța de urgență a Guvernului nr. 98/2010 | [`oug/2010/98/`](oug/2010/98/) | in force | 7 | 2010-11-12 | 2024-12-02 |
 | Ordonanța de urgență a Guvernului nr. 101/2010 privind ratificarea Protocolului, semnat la Chişinău la 5 noiembrie 2010, pentru amendarea Acordului dintre Guvernul României şi Guvernul Republicii Moldova cu privire la principiile colaborării în domeniul transportului feroviar, încheiat la Chişinău la 21 februarie 1995 | [`oug/2010/101/`](oug/2010/101/) | in force | 1 | 2010-11-19 | 2010-11-19 |
 | Ordonanța de urgență a Guvernului nr. 105/2010 | [`oug/2010/105/`](oug/2010/105/) | in force | 3 | 2010-11-25 | 2011-03-25 |
@@ -5716,7 +5721,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (16222, of which 8416 amending acts)
+## Government decisions (HG) (16235, of which 8424 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -8860,6 +8865,19 @@
 | Hotărârea Guvernului nr. 966/2010 | [`hg/2010/966/`](hg/2010/966/) | in force | 2 | 2010-09-21 | 2016-12-20 |
 | Hotărârea Guvernului nr. 1013/2010 | [`hg/2010/1013/`](hg/2010/1013/) | in force | 1 | 2010-10-28 | 2010-10-28 |
 | Hotărârea Guvernului nr. 1016/2010 pentru stabilirea Sistemului de informare și monitorizare a traficului navelor maritime care intră/ies în/din apele naționale navigabile ale României | [`hg/2010/1016/`](hg/2010/1016/) | in force | 5 | 2010-11-03 | 2025-01-29 |
+| Hotărârea Guvernului nr. 1054/2010 pentru modificarea şi completarea Hotărârii Guvernului nr. 261/2010 privind aprobarea programelor naţionale de sănătate pentru anul 2010 | [`hg/2010/1054/`](hg/2010/1054/) | amending act | 1 | 2010-10-26 | 2010-10-26 |
+| Hotărârea Guvernului nr. 1056/2010 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2010, pentru judeţul Suceava | [`hg/2010/1056/`](hg/2010/1056/) | in force | 1 | 2010-10-28 | 2010-10-28 |
+| Hotărârea Guvernului nr. 1057/2010 pentru modificarea şi completarea Regulamentului de organizare şi funcţionare a Institutului Naţional de Expertiză Medicală şi Recuperare a Capacităţii de Muncă şi a serviciilor teritoriale de expertiză medicală a capacităţii de muncă, aprobat prin Hotărârea Guvernului nr. 1.229/2005 | [`hg/2010/1057/`](hg/2010/1057/) | amending act | 1 | 2010-11-03 | 2010-11-03 |
+| Hotărârea Guvernului nr. 1058/2010 pentru aprobarea indicatorilor tehnico-economici ai obiectivului de investiţie "Varianta ocolitoare Carei km 0+000-km 10+459" | [`hg/2010/1058/`](hg/2010/1058/) | amending act | 1 | 2010-11-19 | 2010-11-19 |
+| Hotărârea Guvernului nr. 1059/2010 privind modificarea Hotărârii Guvernului nr. 1.634/2006 pentru modificarea şi completarea Hotărârii Guvernului nr. 934/2002 privind atestarea domeniului public al judeţului Maramureş, precum şi al municipiilor, oraşelor şi comunelor din judeţul Maramureş şi pentru modificarea şi completarea Hotărârii Guvernului nr. 934/2002 privind atestarea domeniului public al judeţului Maramureş, precum şi al municipiilor, oraşelor şi comunelor din judeţul Maramureş | [`hg/2010/1059/`](hg/2010/1059/) | amending act | 1 | 2010-11-10 | 2010-11-10 |
+| Hotărârea Guvernului nr. 1061/2010 pentru aprobarea Acordului de cooperare în domeniul agriculturii dintre Ministerul Agriculturii, Pădurilor şi Dezvoltării Rurale din România şi Ministerul Agriculturii din Republica Populară Chineză, semnat la Bucureşti la 20 octombrie 2009 | [`hg/2010/1061/`](hg/2010/1061/) | amending act | 1 | 2010-11-10 | 2010-11-10 |
+| Hotărârea Guvernului nr. 1063/2010 pentru aprobarea indicatorilor tehnico-economici ai obiectivului de investiţie "Varianta ocolitoare Valea lui Mihai km 0+000-km 3+417" | [`hg/2010/1063/`](hg/2010/1063/) | amending act | 1 | 2010-11-19 | 2010-11-19 |
+| Hotărârea Guvernului nr. 1066/2010 privind instituirea regimului de arie naturală protejată asupra unor zone din Rezervaţia Biosferei "Delta Dunării" şi încadrarea acestora în categoria rezervaţiilor ştiinţifice | [`hg/2010/1066/`](hg/2010/1066/) | in force | 1 | 2010-11-18 | 2010-11-18 |
+| Hotărârea Guvernului nr. 1068/2010 privind transmiterea parţială a unor imobile din domeniul public al statului şi din administrarea Ministerului Apărării Naţionale în domeniul public al municipiului Zalău şi în administrarea Consiliului Local al Municipiului Zalău, judeţul Sălaj | [`hg/2010/1068/`](hg/2010/1068/) | in force | 1 | 2010-11-09 | 2010-11-09 |
+| Hotărârea Guvernului nr. 1069/2010 privind transmiterea unei părţi de imobil din domeniul public al statului şi din administrarea Ministerului Apărării Naţionale în domeniul public al oraşului Lipova şi în administrarea Consiliului Local al Oraşului Lipova, judeţul Arad | [`hg/2010/1069/`](hg/2010/1069/) | in force | 1 | 2010-11-09 | 2010-11-09 |
+| Hotărârea Guvernului nr. 1070/2010 pentru modificarea Hotărârii Guvernului nr. 527/2007 privind denumirea, marcarea compoziţiei fibroase şi etichetarea produselor textile | [`hg/2010/1070/`](hg/2010/1070/) | amending act | 1 | 2010-11-16 | 2010-11-16 |
+| Hotărârea Guvernului nr. 1071/2010 privind acordarea de către România a unui ajutor de urgenţă, cu titlu gratuit, pentru Republica Ungară | [`hg/2010/1071/`](hg/2010/1071/) | in force | 1 | 2010-10-27 | 2010-10-27 |
+| Hotărârea Guvernului nr. 1074/2010 privind aprobarea bugetului de venituri şi cheltuieli rectificat pe anul 2010 al Societăţii Comerciale "Antibiotice" - S.A. Iaşi, aflată sub autoritatea Ministerului Sănătăţii | [`hg/2010/1074/`](hg/2010/1074/) | amending act | 1 | 2010-11-04 | 2010-11-04 |
 | Hotărârea Guvernului nr. 1076/2010 pentru aprobarea plăţii contribuţiilor voluntare, în lei, ale României la Centrul de informare al ONU şi la Fondul Naţiunilor Unite pentru Copii pe anul 2010 | [`hg/2010/1076/`](hg/2010/1076/) | amending act | 2 | 2010-11-23 | 2011-04-05 |
 | Hotărârea Guvernului nr. 1077/2010 privind înscrierea unui imobil în inventarul centralizat al bunurilor din domeniul public al statului | [`hg/2010/1077/`](hg/2010/1077/) | in force | 1 | 2010-11-17 | 2010-11-17 |
 | Hotărârea Guvernului nr. 1078/2010 privind unele măsuri necesare bunei organizări şi desfăşurări a alegerilor parţiale pentru Camera Deputaţilor în Circumscripţia electorală nr. 22 - judeţul Hunedoara, Colegiul uninominal pentru alegerea Camerei Deputaţilor nr. 3, din data de 5 decembrie 2010 | [`hg/2010/1078/`](hg/2010/1078/) | in force | 1 | 2010-11-03 | 2010-11-03 |
