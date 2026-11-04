@@ -221342,6 +221342,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/32720"
 },
 {
+"slug": "hg-1203-2001",
+"path": "hg/2001/1203",
+"kind": "hg",
+"year": "2001",
+"number": "1203",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 1203/2001 privind alocarea unei sume din Fondul de rezerva bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2001, pentru judeţul Gorj",
+"short": "HG nr. 1203/2001",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2001-12-05",
+"latest": "2001-12-05",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/32530"
+},
+{
 "slug": "hg-1206-2001",
 "path": "hg/2001/1206",
 "kind": "hg",
@@ -221357,6 +221374,23 @@
 "from": "2001-12-07",
 "latest": "2001-12-07",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/32583"
+},
+{
+"slug": "hg-1207-2001",
+"path": "hg/2001/1207",
+"kind": "hg",
+"year": "2001",
+"number": "1207",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 1207/2001 pentru modificarea art. 39 din Normele privind reglementarea unor probleme financiare în activitatea sportiva, aprobate prin Hotărârea Guvernului nr. 766/2001",
+"short": "HG nr. 1207/2001",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2001-12-13",
+"latest": "2001-12-13",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/32713"
 },
 {
 "slug": "hg-1208-2001",
