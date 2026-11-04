@@ -1,6 +1,6 @@
 # Every act in this repository
 
-38290 acts, 52,042 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+38302 acts, 52,054 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (7998, of which 2846 amending acts)
+## Laws (legi) (8002, of which 2847 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -1118,6 +1118,10 @@
 | Legea nr. 732/2001 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 100/2001 privind acumularea cantităţii de 3 milioane tone de cărbune energetic de către Administraţia Naţionala a Rezervelor de Stat în anul 2001 | [`lege/2001/732/`](lege/2001/732/) | amended, not consolidated | 1 | 2001-12-18 | 2001-12-18 |
 | Legea nr. 742/2001 privind aprobarea Ordonanţei Guvernului nr. 34/2001 pentru modificarea şi completarea Legii nr. 146/1997 privind taxele judiciare de timbru | [`lege/2001/742/`](lege/2001/742/) | amended, not consolidated | 1 | 2001-12-17 | 2001-12-17 |
 | Legea nr. 744/2001 | [`lege/2001/744/`](lege/2001/744/) | in force | 1 | 2001-12-11 | 2001-12-11 |
+| Legea nr. 745/2001 pentru ratificarea Memorandumului de înţelegere dintre Guvernul României şi Guvernul Republicii Turcia privind crearea unei linii directe de ferry-boat între Samsun şi Constanţa, semnat la Ankara la 15 iulie 1996 | [`lege/2001/745/`](lege/2001/745/) | in force | 1 | 2001-12-27 | 2001-12-27 |
+| Legea nr. 747/2001 pentru ratificarea Acordului privind serviciile aeriene dintre Guvernul României şi Guvernul Republicii Namibia, semnat la Bucureşti la 3 iulie 1996 | [`lege/2001/747/`](lege/2001/747/) | in force | 1 | 2001-12-20 | 2001-12-20 |
+| Legea nr. 749/2001 pentru ratificarea Acordului dintre Guvernul României şi Guvernul Statelor Unite ale Americii privind schimburile educaţionale şi ştiinţifice administrate de Comisia Fulbright româno-americana, semnat la Bucureşti la 26 octombrie 2000 | [`lege/2001/749/`](lege/2001/749/) | in force | 1 | 2001-12-28 | 2001-12-28 |
+| Legea nr. 750/2001 pentru aprobarea Ordonanţei Guvernului nr. 38/2001 privind acceptarea anexei nr. III, amendata, şi a unor amendamente la Convenţia internaţionala din 1973 pentru prevenirea poluării de către nave, modificată prin Protocolul încheiat la Londra la 17 februarie 1978 (MARPOL 73/78) | [`lege/2001/750/`](lege/2001/750/) | amending act | 1 | 2001-12-27 | 2001-12-27 |
 | Legea nr. 751/2001 privind abilitarea Guvernului de a emite ordonanţe | [`lege/2001/751/`](lege/2001/751/) | amended, not consolidated | 1 | 2001-12-27 | 2001-12-27 |
 | Legea nr. 752/2001 | [`lege/2001/752/`](lege/2001/752/) | in force | 9 | 2001-12-28 | 2017-07-01 |
 | Legea nr. 753/2001 pentru respingerea Ordonanţei Guvernului nr. 113/1999 privind reglementarea producţiei, circulaţiei şi comercializării alimentelor | [`lege/2001/753/`](lege/2001/753/) | amending act | 1 | 2002-01-07 | 2002-01-07 |
@@ -8036,7 +8040,7 @@
 | Legea nr. 204/2026 privind aprobarea Ordonanţei Guvernului nr. 22/2025 pentru modificarea şi completarea Legii nr. 227/2015 privind Codul fiscal şi pentru completarea articolului 342 din Legea nr. 227/2015 privind Codul fiscal | [`lege/2026/204/`](lege/2026/204/) | amending act | 1 | 2026-10-25 | 2026-10-25 |
 | Legea nr. 205/2026 pentru completarea Ordonanţei Guvernului nr. 22/2002 privind executarea obligaţiilor de plată ale instituţiilor publice, stabilite prin titluri executorii | [`lege/2026/205/`](lege/2026/205/) | amending act | 1 | 2026-11-02 | 2026-11-02 |
 
-## Emergency ordinances (OUG) (2864, of which 658 amending acts)
+## Emergency ordinances (OUG) (2865, of which 659 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -8418,6 +8422,7 @@
 | Ordonanța de urgență a Guvernului nr. 162/2001 pentru modificarea alin. (2) al art. 4 din Legea nr. 35/1999 privind ratificarea Acordului de împrumut dintre România şi Banca Europeană de Investiţii şi Societatea Naţionala a Căilor Ferate Române (S.N.C.F.R.) pentru finanţarea Proiectului de modernizare a căilor ferate, semnat la Luxemburg şi la Bucureşti la 30 iunie 1998 | [`oug/2001/162/`](oug/2001/162/) | amended, not consolidated | 1 | 2001-12-12 | 2001-12-12 |
 | Ordonanța de urgență a Guvernului nr. 163/2001 | [`oug/2001/163/`](oug/2001/163/) | in force | 2 | 2001-12-13 | 2003-04-25 |
 | Ordonanța de urgență a Guvernului nr. 166/2001 pentru modificarea Legii nr. 164/2001 privind pensiile militare de stat | [`oug/2001/166/`](oug/2001/166/) | amended, not consolidated | 1 | 2001-12-18 | 2001-12-18 |
+| Ordonanța de urgență a Guvernului nr. 167/2001 privind suspendarea aplicării prevederilor art. 35 din Legea cetăţeniei române nr. 21/1991 , republicată | [`oug/2001/167/`](oug/2001/167/) | amending act | 1 | 2001-12-14 | 2001-12-14 |
 | Ordonanța de urgență a Guvernului nr. 168/2001 | [`oug/2001/168/`](oug/2001/168/) | repealed 2011-01-02 | 6 | 2001-12-20 | 2011-01-02 |
 | Ordonanța de urgență a Guvernului nr. 170/2001 privind atenuarea impactului social ca urmare a procesului de reorganizare a sectorului producţiei de apărare | [`oug/2001/170/`](oug/2001/170/) | amended, not consolidated | 1 | 2001-12-28 | 2001-12-28 |
 | Ordonanța de urgență a Guvernului nr. 171/2001 pentru aprobarea modificării denumirii şi clasificării mărfurilor din Tariful vamal de import al României, precum şi a taxelor vamale de baza aferente acestora | [`oug/2001/171/`](oug/2001/171/) | amended, not consolidated | 1 | 2001-12-29 | 2001-12-29 |
@@ -11892,7 +11897,7 @@
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 5/2026 pentru modificarea şi completarea Ordonanţei Guvernului nr. 27/2011 privind transporturile rutiere şi pentru completarea Ordonanţei de urgenţă a Guvernului nr. 28/1999 privind obligaţia operatorilor economici de a utiliza aparate de marcat electronice fiscale | [`og/2026/5/`](og/2026/5/) | amended, not consolidated | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (26364, of which 12333 amending acts)
+## Government decisions (HG) (26371, of which 12335 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -13034,8 +13039,15 @@
 | Hotărârea Guvernului nr. 1217/2001 | [`hg/2001/1217/`](hg/2001/1217/) | in force | 1 | 2001-12-17 | 2001-12-17 |
 | Hotărârea Guvernului nr. 1219/2001 | [`hg/2001/1219/`](hg/2001/1219/) | in force | 1 | 2001-12-11 | 2001-12-11 |
 | Hotărârea Guvernului nr. 1222/2001 pentru aprobarea compensării timpului de muncă aferent zilelor de 24 şi 31 decembrie 2001, stabilite ca zile libere | [`hg/2001/1222/`](hg/2001/1222/) | amended, not consolidated | 1 | 2001-12-07 | 2001-12-07 |
+| Hotărârea Guvernului nr. 1243/2001 privind alocarea unei sume din Fondul de rezerva bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2001, pentru finanţarea comemorării a 12 ani de la Revoluţia Română din Decembrie 1989 | [`hg/2001/1243/`](hg/2001/1243/) | in force | 1 | 2001-12-17 | 2001-12-17 |
 | Hotărârea Guvernului nr. 1244/2001 pentru aprobarea Contractului-cadru privind condiţiile acordării asistenţei medicale în cadrul sistemului asigurărilor sociale de sănătate în asistenţa medicală primara | [`hg/2001/1244/`](hg/2001/1244/) | amended, not consolidated | 1 | 2002-01-01 | 2002-01-01 |
 | Hotărârea Guvernului nr. 1245/2001 pentru aprobarea Contractului-cadru privind condiţiile acordării asistenţei medicale în cadrul sistemului asigurărilor sociale de sănătate în asistenţa medicală ambulatorie de specialitate pentru specialităţile clinice, paraclinice şi stomatologice | [`hg/2001/1245/`](hg/2001/1245/) | amended, not consolidated | 1 | 2002-01-01 | 2002-01-01 |
+| Hotărârea Guvernului nr. 1248/2001 privind alocarea unor sume din Fondul de rezerva bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2001, pentru subvenţionarea energiei termice livrate populaţiei | [`hg/2001/1248/`](hg/2001/1248/) | in force | 1 | 2001-12-19 | 2001-12-19 |
+| Hotărârea Guvernului nr. 1250/2001 privind acordarea unor ajutoare | [`hg/2001/1250/`](hg/2001/1250/) | in force | 1 | 2001-12-17 | 2001-12-17 |
+| Hotărârea Guvernului nr. 1251/2001 privind acordarea unor ajutoare financiare | [`hg/2001/1251/`](hg/2001/1251/) | in force | 1 | 2001-12-17 | 2001-12-17 |
+| Hotărârea Guvernului nr. 1253/2001 privind restituirea sumelor reţinute cu titlu de garanţie de buna execuţie de 5% pentru blocul energetic nr. 2 la Centrala termoelectrica de 2 x 330 MW Pucheng Republica Populara Chineza | [`hg/2001/1253/`](hg/2001/1253/) | in force | 1 | 2001-12-19 | 2001-12-19 |
+| Hotărârea Guvernului nr. 1254/2001 pentru modificarea Hotărârii Guvernului nr. 609/2001 privind alocarea unei sume din Fondul de rezerva bugetară la dispoziţia Guvernului pe anul 2001 pentru achiziţionarea sculpturii "Cap de copil" de Constantin Brâncuşi şi transmiterea acesteia în administrarea Muzeului Naţional de Arta al României | [`hg/2001/1254/`](hg/2001/1254/) | amending act | 1 | 2001-12-18 | 2001-12-18 |
+| Hotărârea Guvernului nr. 1255/2001 pentru modificarea anexei la Hotărârea Guvernului nr. 1.133/2001 privind aprobarea Strategiei de privatizare a Societăţii Comerciale "Alro" - S.A. Slatina | [`hg/2001/1255/`](hg/2001/1255/) | amending act | 1 | 2001-12-18 | 2001-12-18 |
 | Hotărârea Guvernului nr. 1256/2001 privind alocarea unor sume din Fondul de rezerva bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2001, pentru acoperirea unor cheltuieli ale consiliilor locale ale municipiilor Constanţa şi Cernavodă | [`hg/2001/1256/`](hg/2001/1256/) | in force | 1 | 2001-12-19 | 2001-12-19 |
 | Hotărârea Guvernului nr. 1257/2001 privind plata contribuţiei României pe anii 1995, 1996 şi 1997 la Fondul European pentru Tineret | [`hg/2001/1257/`](hg/2001/1257/) | in force | 1 | 2001-12-20 | 2001-12-20 |
 | Hotărârea Guvernului nr. 1258/2001 | [`hg/2001/1258/`](hg/2001/1258/) | in force | 2 | 2001-12-20 | 2009-12-04 |
