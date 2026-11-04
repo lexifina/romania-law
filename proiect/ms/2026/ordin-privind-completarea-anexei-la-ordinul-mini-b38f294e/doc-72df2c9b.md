@@ -1,0 +1,22 @@
+Nr. 18526/20.08.2025
+
+          AVIZAT,                                                                                                      APROB,
+   SECRETAR GENERAL                                                                      MINISTRUL SĂNĂTĂȚII
+     Georgeta BUMBAC                                                                   Alexandru Florin ROGOBETE
+
+REFERAT DE APROBARE
+Ministerul Sănătății organizează două sesiuni anuale de examen pentru obținerea titlului de specialist, pentru medici, medici stomatologi și farmaciști rezidenți respectiv pentru medici, medici stomatologi sau farmaciști specialiști, înscriși în programul de obținere a celei de a doua specialități cu taxă, cu respectarea prevederilor Ordonanței Guvernului nr.18/2009 privind organizarea și finanțarea rezidențiatului, cu modificările și completările ulterioare și a Ordinului comun al Ministrului Sănătății Publice și al Ministrului Educației, Cercetării și Tineretului nr. 1141/1386/2007 privind modul de efectuare a pregătirii prin rezidențiat în specialitățile prevăzute de Nomenclatorul specialităților medicale, medico-dentare și farmaceutice pentru rețeaua de asistență medicală, cu modificările și completările ulterioare.
+Potrivit art. 15 alin (8) din Ordonanța Guvernului nr. 18/2009 privind organizarea și finanțarea rezidențiatului, cu modificările și completările ulterioare:”Metodologia desfășurării probelor examenului pentru obținerea titlului de medic, medic stomatolog și, respectiv, farmacist specialist se aprobă prin ordin al ministrului sănătății și al ministrului educației și cercetării”.
+Astfel, prin Ordinul comun al Ministerului Sănătății și Ministerului Educației și Cercetării nr. 3393/6495/2023 a fost aprobată Metodologia de desfășurare a probelor examenului de obținere a titlului de medic, medic stomatolog și farmacist specialist, cu modificările și completările ulterioare.
+Având în vedere faptul că există solicitări ale unor candidați care doresc să susțină examenul pentru obținerea titlului de medic, medic stomatolog sau farmacist specialist, care se află în incapacitate de a redacta lucrarea la proba scrisă datorită unei situații medicale și ținând cont că, potrivit legislației actuale  acest examen poate fi susținut în termen de maxim 5 ani de la data încheierii programului de pregătire, propunem  completarea anexei Ordinului Ministerului Sănătății și Ministerului Educației și Cercetării nr. 3393/6495/2023 privind Metodologia desfășurării probelor examenului pentru obținerea titlului de medic, medic stomatolog și, respectiv, farmacist specialist propunem ca la Art. 24, după alin. (14) să se introducă uteri noi alineate, alin. (15), (16), (17) cu următorul cuprins:
+ " Alin. (15) – Pentru candidații care se află în incapacitate de a redacta proba scrisă, dovedită cu un certificat medical, comisia de examen are obligația să desemneze o persoană fără cunoștințe medicale, care va redacta exact ce dictează candidatul, într-o sală separată de ceilalți candidați, sub suprevegherea unui membru al comisiei desemnat de președintele comisiei de examen. În acest caz, proba scrisă va fi înregistrată audio/video, iar înregistrarea se păstrează pentru verificarea conformității redactării.
+Alin. (16) – Candidații prevăzuți la alin. (15) vor depune la sediul  instituției de învățământ superior medical, cu facultăți de medicină, medicină dentară și farmacie din centrul universitar de examen o solicitare cu minimum 5 zile înainte de examen.
+Alin. (17) – Prin excepție de la alin. (16) pentru situația în care în dimineața examenului se prezintă un candidat cu un certificat medical eliberat cu mai puțin de 5 zile înainte de examen, acesta va fi admis și beneficiază de condițiile prevăzute la alin. (15)."
+Având în vedere cele prezentate, cu respectarea prevederilor legale aplicabile, propunem să se aprobe proiectul de ordin al ministrului sănătății și al ministrului educației și cercetării privind completarea anexei la Ordinul ministrului sănătății și al ministrului educației nr. 3393/6495/2023 pentru aprobarea Metodologiei de desfășurare a probelor examenului de obținere a titlului de medic, medic stomatolog și farmacist specialist.
+Proiectul de ordin va fi postat pe transparență, dar nu va respecta termenul potrivit Art. 7            alin. (13) din Legea nr. 52/2003, cu modificările și completările ulterioare.
+
+DIRECTOR,
+Bogdan Andrei VINERSAR
+
+                                                                                                                         CONSILIER,
+ 									 Otilia VÎLCEA
