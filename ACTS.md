@@ -1,6 +1,6 @@
 # Every act in this repository
 
-27473 acts, 41,116 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+27482 acts, 41,125 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -6398,7 +6398,7 @@
 | Ordonanța Guvernului nr. 3/2026 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 70/2022 privind prevenirea, verificarea şi constatarea neregulilor/dublei finanţări, a neregulilor grave apărute în obţinerea şi utilizarea fondurilor externe nerambursabile/rambursabile alocate României prin Mecanismul de redresare şi rezilienţă şi/sau a fondurilor publice naţionale aferente acestora şi recuperarea creanţelor rezultate | [`og/2026/3/`](og/2026/3/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (21084, of which 10879 amending acts)
+## Government decisions (HG) (21093, of which 10882 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -6869,9 +6869,18 @@
 | Hotărârea Guvernului nr. 1505/2004 | [`hg/2004/1505/`](hg/2004/1505/) | in force | 1 | 2004-09-23 | 2004-09-23 |
 | Hotărârea Guvernului nr. 1506/2004 | [`hg/2004/1506/`](hg/2004/1506/) | in force | 1 | 2004-09-23 | 2004-09-23 |
 | Hotărârea Guvernului nr. 1516/2004 | [`hg/2004/1516/`](hg/2004/1516/) | in force | 1 | 2004-10-05 | 2004-10-05 |
+| Hotărârea Guvernului nr. 1546/2004 pentru aprobarea Normelor metodologice privind modul de stabilire a valorii terenurilor arabile şi a celor forestiere, sursele financiare şi modalităţile de plată către foştii proprietari | [`hg/2004/1546/`](hg/2004/1546/) | amending act | 1 | 2004-10-06 | 2004-10-06 |
 | Hotărârea Guvernului nr. 1547/2004 | [`hg/2004/1547/`](hg/2004/1547/) | in force | 1 | 2004-10-12 | 2004-10-12 |
+| Hotărârea Guvernului nr. 1548/2004 pentru modificarea art. 1 alin. (1) din Hotărârea Guvernului nr. 1.584/2002 privind schimbarea destinaţiei unei părţi dintr-un obiectiv de investiţii situat în municipiul Paşcani, judeţul Iaşi, şi trecerea acestuia din proprietatea publică a statului în proprietatea publică a municipiului Paşcani | [`hg/2004/1548/`](hg/2004/1548/) | amending act | 1 | 2004-10-12 | 2004-10-12 |
 | Hotărârea Guvernului nr. 1550/2004 | [`hg/2004/1550/`](hg/2004/1550/) | in force | 2 | 2004-10-01 | 2005-02-28 |
+| Hotărârea Guvernului nr. 1551/2004 privind recunoaşterea Asociaţiei "Grupul pentru Dialog Social" ca fiind de utilitate publică | [`hg/2004/1551/`](hg/2004/1551/) | in force | 1 | 2004-10-04 | 2004-10-04 |
 | Hotărârea Guvernului nr. 1553/2004 | [`hg/2004/1553/`](hg/2004/1553/) | in force | 4 | 2007-01-01 | 2011-09-30 |
+| Hotărârea Guvernului nr. 1554/2004 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2004, pentru judeţul Alba | [`hg/2004/1554/`](hg/2004/1554/) | in force | 1 | 2004-10-04 | 2004-10-04 |
+| Hotărârea Guvernului nr. 1555/2004 privind stabilirea unor măsuri pentru punerea în aplicare a dispoziţiilor Hotărârii Guvernului nr. 184/2004 privind suplimentarea bugetului Secretariatului General al Guvernului din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2004 | [`hg/2004/1555/`](hg/2004/1555/) | in force | 1 | 2004-10-04 | 2004-10-04 |
+| Hotărârea Guvernului nr. 1556/2004 privind trecerea unei suprafeţe de teren arabil din domeniul public al statului şi din administrarea Agenţiei Domeniilor Statului în domeniul public al municipiului Suceava şi în administrarea Consiliului Local al Municipiului Suceava | [`hg/2004/1556/`](hg/2004/1556/) | in force | 1 | 2004-10-05 | 2004-10-05 |
+| Hotărârea Guvernului nr. 1557/2004 pentru modificarea şi completarea Hotărârii Guvernului nr. 308/2004 privind organizarea şi funcţionarea Agenţiei Veterinare şi pentru Siguranţa Alimentelor şi a unităţilor din subordinea acesteia | [`hg/2004/1557/`](hg/2004/1557/) | amending act | 1 | 2004-10-06 | 2004-10-06 |
+| Hotărârea Guvernului nr. 1558/2004 privind recunoaşterea Asociaţiei "Consiliul Naţional al Întreprinderilor Private Mici şi Mijlocii din România" ca fiind de utilitate publică | [`hg/2004/1558/`](hg/2004/1558/) | in force | 1 | 2004-10-05 | 2004-10-05 |
+| Hotărârea Guvernului nr. 1563/2004 privind înfiinţarea bursei de studii româneşti postuniversitare de masterat la Universitatea Indiana din Statele Unite ale Americii | [`hg/2004/1563/`](hg/2004/1563/) | in force | 1 | 2004-10-11 | 2004-10-11 |
 | Hotărârea Guvernului nr. 1565/2004 privind suplimentarea bugetului Cancelariei Primului-Ministru din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2004 | [`hg/2004/1565/`](hg/2004/1565/) | in force | 1 | 2004-10-01 | 2004-10-01 |
 | Hotărârea Guvernului nr. 1566/2004 privind suplimentarea bugetului Ministerului Afacerilor Externe din Fondul de rezervă bugetară la dispoziţia Guvernului pe anul 2004, pentru organizarea unei expoziţii de pictură românească contemporană la sediul Parlamentului European de la Bruxelles | [`hg/2004/1566/`](hg/2004/1566/) | in force | 1 | 2004-10-04 | 2004-10-04 |
 | Hotărârea Guvernului nr. 1567/2004 privind alocarea unor sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2004, pentru asigurarea cheltuielilor de personal ale unităţilor de învăţământ preuniversitar de stat | [`hg/2004/1567/`](hg/2004/1567/) | in force | 1 | 2004-10-04 | 2004-10-04 |
