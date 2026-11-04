@@ -1,6 +1,6 @@
 # Every act in this repository
 
-28353 acts, 41,996 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+28375 acts, 42,018 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -5934,7 +5934,7 @@
 | Ordonanța de urgență a Guvernului nr. 33/2026 pentru modificarea şi completarea Legii educaţiei fizice şi sportului nr. 69/2000 | [`oug/2026/33/`](oug/2026/33/) | amending act | 1 | 2026-04-27 | 2026-04-27 |
 | Ordonanța de urgență a Guvernului nr. 37/2026 pentru modificarea şi completarea Legii nr. 333/2003 privind paza obiectivelor, bunurilor, valorilor şi protecţia persoanelor | [`oug/2026/37/`](oug/2026/37/) | amending act | 2 | 2026-05-06 | 2026-06-05 |
 
-## Ordinances (OG) (536, of which 113 amending acts)
+## Ordinances (OG) (537, of which 113 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -6144,6 +6144,7 @@
 | Ordonanța Guvernului nr. 10/2004 | [`og/2004/10/`](og/2004/10/) | repealed 2014-06-28 | 8 | 2004-02-29 | 2014-06-28 |
 | Ordonanța Guvernului nr. 11/2004 | [`og/2004/11/`](og/2004/11/) | in force | 3 | 2004-02-29 | 2006-06-16 |
 | Ordonanța Guvernului nr. 12/2004 | [`og/2004/12/`](og/2004/12/) | in force | 2 | 2004-02-02 | 2004-04-17 |
+| Ordonanța Guvernului nr. 17/2004 pentru ratificarea Addendumului dintre Guvernul României şi Comisia Europeană, semnat la Bucureşti la 26 ianuarie 2004, la Memorandumul de finanţare dintre Guvernul României şi Comisia Europeană referitor la Programul naţional 1998 RO9803-RO9807, semnat la Bucureşti la 30 septembrie 1998 | [`og/2004/17/`](og/2004/17/) | in force | 1 | 2004-02-02 | 2004-02-02 |
 | Ordonanța Guvernului nr. 24/2004 | [`og/2004/24/`](og/2004/24/) | in force | 2 | 2004-02-03 | 2004-04-25 |
 | Ordonanța Guvernului nr. 29/2004 | [`og/2004/29/`](og/2004/29/) | in force | 8 | 2004-02-03 | 2012-01-01 |
 | Ordonanța Guvernului nr. 31/2004 | [`og/2004/31/`](og/2004/31/) | in force | 3 | 2004-02-03 | 2011-12-29 |
@@ -6475,7 +6476,7 @@
 | Ordonanța Guvernului nr. 3/2026 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 70/2022 privind prevenirea, verificarea şi constatarea neregulilor/dublei finanţări, a neregulilor grave apărute în obţinerea şi utilizarea fondurilor externe nerambursabile/rambursabile alocate României prin Mecanismul de redresare şi rezilienţă şi/sau a fondurilor publice naţionale aferente acestora şi recuperarea creanţelor rezultate | [`og/2026/3/`](og/2026/3/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (21887, of which 11248 amending acts)
+## Government decisions (HG) (21908, of which 11259 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -6872,12 +6873,33 @@
 | Hotărârea Guvernului nr. 1621/2003 | [`hg/2003/1621/`](hg/2003/1621/) | in force | 6 | 2004-01-23 | 2021-04-12 |
 | Hotărârea Guvernului nr. 1627/2003 | [`hg/2003/1627/`](hg/2003/1627/) | in force | 3 | 2004-01-27 | 2015-08-26 |
 | Hotărârea Guvernului nr. 13/2004 | [`hg/2004/13/`](hg/2004/13/) | in force | 1 | 2004-01-23 | 2004-01-23 |
+| Hotărârea Guvernului nr. 17/2004 pentru darea în administrare Ministerului Finanţelor Publice - Direcţia Generală a Finanţelor Publice a Municipiului Bucureşti - Administraţia Finanţelor Publice sector 4 Bucureşti a unui bun imobil proprietate publică a statului | [`hg/2004/17/`](hg/2004/17/) | in force | 1 | 2004-01-20 | 2004-01-20 |
+| Hotărârea Guvernului nr. 34/2004 privind alocarea unei sume din Fondul de intervenţie la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2004, pentru înlăturarea efectelor calamităţilor naturale produse pe versantul Nord-Est al municipiului Suceava, judeţul Suceava | [`hg/2004/34/`](hg/2004/34/) | in force | 1 | 2004-01-23 | 2004-01-23 |
 | Hotărârea Guvernului nr. 44/2004 | [`hg/2004/44/`](hg/2004/44/) | in force | 2 | 2004-02-06 | 2015-06-01 |
+| Hotărârea Guvernului nr. 46/2004 pentru modificarea Hotărârii Guvernului nr. 935/1990 privind aplicarea de către România a Rezoluţiei nr. 661/1990 a Consiliului de Securitate al O.N.U | [`hg/2004/46/`](hg/2004/46/) | amending act | 1 | 2004-02-03 | 2004-02-03 |
+| Hotărârea Guvernului nr. 63/2004 privind alocarea unei sume din Fondul de intervenţie la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2004, pentru finalizarea lucrărilor de intervenţie la blocurile de locuinţe din oraşul Moldova Nouă, judeţul Caraş-Severin, afectate de cutremurele din 24 mai şi 2 august 2002 | [`hg/2004/63/`](hg/2004/63/) | in force | 1 | 2004-02-03 | 2004-02-03 |
+| Hotărârea Guvernului nr. 73/2004 privind aprobarea unei licenţe de concesiune a activităţii miniere de exploatare a apei minerale naturale carbogazoase, încheiată între Agenţia Naţională pentru Resurse Minerale şi Societatea Comercială "Minexfor" - S.A | [`hg/2004/73/`](hg/2004/73/) | amending act | 1 | 2004-02-06 | 2004-02-06 |
+| Hotărârea Guvernului nr. 74/2004 privind aprobarea unei licenţe de concesiune a activităţii miniere de exploatare, încheiată între Agenţia Naţională pentru Resurse Minerale şi Societatea Comercială "Cariera Urviş Comprod" - S.R.L | [`hg/2004/74/`](hg/2004/74/) | amending act | 1 | 2004-02-06 | 2004-02-06 |
+| Hotărârea Guvernului nr. 75/2004 privind aprobarea unei licenţe de concesiune a activităţii miniere de exploatare a căldurii din sistemul geotermal Beiuş, încheiată între Agenţia Naţională pentru Resurse Minerale şi Societatea Comercială "Transgex" - S.A | [`hg/2004/75/`](hg/2004/75/) | amending act | 1 | 2004-02-06 | 2004-02-06 |
+| Hotărârea Guvernului nr. 76/2004 privind aprobarea unor licenţe de concesiune a activităţii miniere de exploatare, încheiate între Agenţia Naţională pentru Resurse Minerale şi Societatea Comercială "Hercules" - S.A | [`hg/2004/76/`](hg/2004/76/) | amending act | 1 | 2004-02-06 | 2004-02-06 |
 | Hotărârea Guvernului nr. 79/2004 | [`hg/2004/79/`](hg/2004/79/) | in force | 1 | 2004-02-12 | 2004-02-12 |
+| Hotărârea Guvernului nr. 80/2004 privind instituirea unei măsuri de salvgardare la importul de carne de porc originară din Republica Polonă | [`hg/2004/80/`](hg/2004/80/) | in force | 1 | 2004-02-10 | 2004-02-10 |
 | Hotărârea Guvernului nr. 85/2004 | [`hg/2004/85/`](hg/2004/85/) | repealed 2015-06-13 | 3 | 2004-04-10 | 2015-06-13 |
+| Hotărârea Guvernului nr. 86/2004 privind aprobarea finanţării unor cheltuieli pentru construcţia şi amenajarea Centrului-pilot de servicii comunitare pentru persoanele cu handicap şi formare personal Techirghiol, judeţul Constanţa | [`hg/2004/86/`](hg/2004/86/) | amending act | 1 | 2004-02-10 | 2004-02-10 |
 | Hotărârea Guvernului nr. 88/2004 | [`hg/2004/88/`](hg/2004/88/) | in force | 1 | 2004-03-14 | 2004-03-14 |
+| Hotărârea Guvernului nr. 90/2004 pentru modificarea anexei la Hotărârea Guvernului nr. 518/1995 privind unele drepturi şi obligaţii ale personalului român trimis în străinătate pentru îndeplinirea unor misiuni cu caracter temporar | [`hg/2004/90/`](hg/2004/90/) | amending act | 1 | 2004-02-10 | 2004-02-10 |
+| Hotărârea Guvernului nr. 91/2004 privind darea în administrare Ministerului Finanţelor Publice - Direcţia generală de administrare a marilor contribuabili a unui bun imobil din domeniul public al statului | [`hg/2004/91/`](hg/2004/91/) | in force | 1 | 2004-02-10 | 2004-02-10 |
+| Hotărârea Guvernului nr. 96/2004 pentru modificarea art. 1 din Hotărârea Guvernului nr. 557/2002 privind garantarea de către Ministerul Finanţelor Publice a unor credite externe pentru Societatea Naţională de Transport Feroviar de Călători "C.F.R. Călători" - S.A | [`hg/2004/96/`](hg/2004/96/) | amending act | 1 | 2004-02-13 | 2004-02-13 |
+| Hotărârea Guvernului nr. 97/2004 pentru aprobarea amendamentelor convenite prin schimb de scrisori semnate la Bucureşti la 22 iunie 2003, respectiv la Zagreb la 24 iunie şi 1 august 2003, între Guvernul României şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare la Acordul de împrumut dintre România şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare, destinat finanţării Proiectului privind reforma în domeniul protecţiei copilului, semnat la Washington la 15 iulie 1998 | [`hg/2004/97/`](hg/2004/97/) | amending act | 1 | 2004-02-10 | 2004-02-10 |
 | Hotărârea Guvernului nr. 100/2004 | [`hg/2004/100/`](hg/2004/100/) | in force | 19 | 2004-02-12 | 2010-08-02 |
+| Hotărârea Guvernului nr. 104/2004 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2004, pentru judeţul Alba | [`hg/2004/104/`](hg/2004/104/) | in force | 1 | 2004-02-10 | 2004-02-10 |
+| Hotărârea Guvernului nr. 106/2004 pentru aprobarea finanţării proiectului "Ziua Europei este şi ziua ta" din fondurile pentru promovarea imaginii externe a României | [`hg/2004/106/`](hg/2004/106/) | amending act | 1 | 2004-02-11 | 2004-02-11 |
+| Hotărârea Guvernului nr. 112/2004 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2004, pentru judeţul Sibiu | [`hg/2004/112/`](hg/2004/112/) | in force | 1 | 2004-02-13 | 2004-02-13 |
+| Hotărârea Guvernului nr. 113/2004 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2004, pentru judeţul Alba | [`hg/2004/113/`](hg/2004/113/) | in force | 1 | 2004-02-13 | 2004-02-13 |
+| Hotărârea Guvernului nr. 114/2004 privind transmiterea unui imobil, proprietate publică a statului, din administrarea Ministerului Apărării Naţionale în administrarea Ministerului Administraţiei şi Internelor | [`hg/2004/114/`](hg/2004/114/) | in force | 1 | 2004-02-16 | 2004-02-16 |
 | Hotărârea Guvernului nr. 115/2004 | [`hg/2004/115/`](hg/2004/115/) | in force | 2 | 2004-06-25 | 2005-08-10 |
+| Hotărârea Guvernului nr. 117/2004 privind trecerea unui imobil proprietate publică a statului din administrarea Ministerului Apărării Naţionale în administrarea Ministerului Administraţiei şi Internelor | [`hg/2004/117/`](hg/2004/117/) | in force | 1 | 2004-02-17 | 2004-02-17 |
+| Hotărârea Guvernului nr. 120/2004 pentru modificarea anexelor nr. 1 şi 1A la Hotărârea Guvernului nr. 1.061/2002 privind stabilirea uniformei, echipamentului specific, însemnelor distinctive, insignei şi documentului de legitimare pentru poliţişti | [`hg/2004/120/`](hg/2004/120/) | amending act | 1 | 2004-02-25 | 2004-02-25 |
 | Hotărârea Guvernului nr. 122/2004 privind plata de către România a contribuţiei financiare anuale la bugetul Convenţiei Naţiunilor Unite pentru combaterea deşertificării în ţările afectate grav de secetă şi/sau de deşertificare, în special în Africa | [`hg/2004/122/`](hg/2004/122/) | in force | 1 | 2004-02-17 | 2004-02-17 |
 | Hotărârea Guvernului nr. 123/2004 privind redistribuirea de posturi şi fonduri aferente acestora în cadrul bugetului pe anul 2004 al Ministerului Educaţiei, Cercetării şi Tineretului | [`hg/2004/123/`](hg/2004/123/) | in force | 1 | 2004-02-17 | 2004-02-17 |
 | Hotărârea Guvernului nr. 126/2004 privind transmiterea unui teren situat în oraşul Pucioasa, judeţul Dâmboviţa, din domeniul public al statului şi din administrarea Ministerului Educaţiei, Cercetării şi Tineretului în domeniul public al oraşului Pucioasa şi în administrarea Consiliului Local al Oraşului Pucioasa, judeţul Dâmboviţa | [`hg/2004/126/`](hg/2004/126/) | in force | 1 | 2004-02-17 | 2004-02-17 |

@@ -1,7 +1,8 @@
 # Romania: law history in git
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="data/coverage-dark.svg"> <img alt="How much of Romanian law is here: acts on main against every law, ordinance and government decision the official service lists, by kind; the Constitution and the main codes complete" src="data/coverage-light.svg" width="880">
+<source media="(prefers-color-scheme: dark)" srcset="data/coverage-dark.svg">
+<img alt="How much of Romanian law is here: acts on main against every numbered law, ordinance and government decision the official service publishes, by kind; the Constitution and the main codes with their histories" src="data/coverage-light.svg" width="880">
 </picture>
 
 The law of Romania as a git history: one file per article, one commit per change on the day it took effect, and the act that made each change as the commit's author. `git blame` names the act behind every paragraph, `git log` lists every change to an article, and the tools give the text in force on any date. The texts are in Romanian, as published.
