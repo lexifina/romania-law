@@ -1,6 +1,6 @@
 # Every act in this repository
 
-21075 acts, 34,708 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+21082 acts, 34,715 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -5622,7 +5622,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (15462, of which 7927 amending acts)
+## Government decisions (HG) (15469, of which 7929 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -8834,7 +8834,14 @@
 | Hotărârea Guvernului nr. 789/2011 | [`hg/2011/789/`](hg/2011/789/) | in force | 1 | 2011-08-10 | 2011-08-10 |
 | Hotărârea Guvernului nr. 835/2011 | [`hg/2011/835/`](hg/2011/835/) | in force | 1 | 2011-08-23 | 2011-08-23 |
 | Hotărârea Guvernului nr. 857/2011 | [`hg/2011/857/`](hg/2011/857/) | in force | 5 | 2011-09-11 | 2025-03-21 |
+| Hotărârea Guvernului nr. 869/2011 privind exercitarea, cu caracter temporar, în condiţiile legii, a funcţiei publice de subprefect al judeţului Bihor de către doamna Coste Marina Adelina | [`hg/2011/869/`](hg/2011/869/) | in force | 1 | 2011-09-01 | 2011-09-01 |
+| Hotărârea Guvernului nr. 870/2011 privind aprobarea Acordului de colaborare dintre Ministerul Culturii şi Patrimoniului Naţional din România şi Ministerul Culturii din Republica Moldova, semnat la Chişinău la 12 aprilie 2011 | [`hg/2011/870/`](hg/2011/870/) | amending act | 1 | 2011-09-08 | 2011-09-08 |
+| Hotărârea Guvernului nr. 871/2011 privind desfiinţarea Spitalului Clinic de Obstetrică-Ginecologie "Dr. Dumitru Popescu" Timişoara şi reorganizarea Spitalului Clinic Municipal de Urgenţă Timişoara | [`hg/2011/871/`](hg/2011/871/) | in force | 1 | 2011-09-05 | 2011-09-05 |
+| Hotărârea Guvernului nr. 872/2011 privind preluarea imobilului - teren şi construcţie -"Cazino Constanţa", aparţinând domeniului privat al municipiului Constanţa, în administrarea Ministerului Dezvoltării Regionale şi Turismului | [`hg/2011/872/`](hg/2011/872/) | in force | 1 | 2011-09-05 | 2011-09-05 |
+| Hotărârea Guvernului nr. 873/2011 privind darea în administrarea Ministerului Transporturilor şi Infrastructurii a unor suprafeţe totale de teren de 4.325 m&#178;, trecute în domeniul public al statului, în vederea finalizării de către Compania Naţională de Autostrăzi şi Drumuri Naţionale din România - S.A. a obiectivului de investiţie "Varianta de ocolire a municipiului Constanţa" | [`hg/2011/873/`](hg/2011/873/) | in force | 1 | 2011-09-07 | 2011-09-07 |
 | Hotărârea Guvernului nr. 875/2011 | [`hg/2011/875/`](hg/2011/875/) | in force | 1 | 2011-09-15 | 2011-09-15 |
+| Hotărârea Guvernului nr. 876/2011 privind desemnarea autorităţii competente responsabile de punerea în aplicare a Regulamentului (CE) nr. 2.173/2005 al Consiliului din 20 decembrie 2005 privind instituirea unui regim de licenţe FLEGT pentru importurile de lemn în Comunitatea Europeană | [`hg/2011/876/`](hg/2011/876/) | in force | 1 | 2011-09-14 | 2011-09-14 |
+| Hotărârea Guvernului nr. 879/2011 privind aprobarea Acordului de concesiune de exploatare petrolieră în perimetrul P IX - 14 Vârfuri, încheiat între Agenţia Naţională pentru Resurse Minerale şi Moesia Oil and Gas P.L.C | [`hg/2011/879/`](hg/2011/879/) | amending act | 1 | 2011-09-08 | 2011-09-08 |
 | Hotărârea Guvernului nr. 880/2011 privind aprobarea Acordului de concesiune de exploatare petrolieră în perimetrul P IX - 9 Otelec, încheiat între Agenţia Naţională pentru Resurse Minerale şi Moesia Oil and Gas P.L.C | [`hg/2011/880/`](hg/2011/880/) | amending act | 1 | 2011-09-08 | 2011-09-08 |
 | Hotărârea Guvernului nr. 881/2011 privind aprobarea Acordului de concesiune de exploatare petrolieră în perimetrul P IX - 12 Şilindru, încheiat între Agenţia Naţională pentru Resurse Minerale şi Moesia Oil and Gas P.LC | [`hg/2011/881/`](hg/2011/881/) | amending act | 1 | 2011-09-08 | 2011-09-08 |
 | Hotărârea Guvernului nr. 882/2011 privind abrogarea şi modificarea unor acte normative din domeniul cercetării | [`hg/2011/882/`](hg/2011/882/) | amending act | 1 | 2011-09-08 | 2011-09-08 |
