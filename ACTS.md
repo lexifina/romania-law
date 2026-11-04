@@ -1,6 +1,6 @@
 # Every act in this repository
 
-20897 acts, 34,530 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+20919 acts, 34,552 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (3317, of which 1833 amending acts)
+## Laws (legi) (3324, of which 1838 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -1010,7 +1010,14 @@
 | Legea nr. 157/2011 | [`lege/2011/157/`](lege/2011/157/) | in force | 4 | 2011-07-31 | 2024-03-22 |
 | Legea nr. 187/2011 | [`lege/2011/187/`](lege/2011/187/) | in force | 2 | 2011-11-03 | 2022-12-14 |
 | Legea nr. 191/2011 | [`lege/2011/191/`](lege/2011/191/) | in force | 3 | 2011-11-06 | 2024-08-24 |
+| Legea nr. 192/2011 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 68/2008 privind vânzarea spaţiilor proprietate privată a statului sau a unităţilor administrativ-teritoriale cu destinaţia de cabinete medicale, precum şi a spaţiilor în care se desfăşoară activităţi conexe actului medical | [`lege/2011/192/`](lege/2011/192/) | amending act | 1 | 2011-11-12 | 2011-11-12 |
 | Legea nr. 194/2011 privind combaterea operațiunilor cu produse susceptibile de a avea efecte psihoactive, altele decât cele prevăzute de acte normative în vigoare | [`lege/2011/194/`](lege/2011/194/) | in force | 7 | 2011-11-13 | 2024-06-03 |
+| Legea nr. 198/2011 privind declararea zilei de 23 august Ziua Comemorării Victimelor Fascismului şi Comunismului şi a zilei de 21 decembrie Ziua Memoriei Victimelor Comunismului în România | [`lege/2011/198/`](lege/2011/198/) | in force | 1 | 2011-11-14 | 2011-11-14 |
+| Legea nr. 199/2011 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 44/2011 privind măsuri economico-financiare la nivelul unor operatori economici | [`lege/2011/199/`](lege/2011/199/) | amending act | 1 | 2011-11-14 | 2011-11-14 |
+| Legea nr. 200/2011 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 50/2011 pentru prorogarea unor termene şi pentru modificarea art. 6 din Ordonanţa de urgenţă a Guvernului nr. 49/2010 privind aprobarea scoaterii din rezervele de stat a unor cantităţi de benzină, motorină şi petrol pentru turboreactoare, care vor fi acordate, cu titlu gratuit, Ministerului Apărării Naţionale şi Ministerului Administraţiei şi Internelor, şi stabilirea regimului taxei pe valoarea adăugată şi al accizelor pentru aceste cantităţi | [`lege/2011/200/`](lege/2011/200/) | amending act | 1 | 2011-11-14 | 2011-11-14 |
+| Legea nr. 201/2011 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 48/2011 privind trecerea unui imobil aflat în administrarea Ministerului Administraţiei şi Internelor din folosinţa gratuită a Ambasadei Franţei în România în folosinţa gratuită a Fundaţiei "Lycee Francais Anna de Noailles" | [`lege/2011/201/`](lege/2011/201/) | amending act | 1 | 2011-11-14 | 2011-11-14 |
+| Legea nr. 202/2011 privind plata de către Autoritatea Electorală Permanentă a cotizaţiei anuale de membru cu drepturi depline al Asociaţiei Oficialilor Electorali Europeni (ACEEEO) | [`lege/2011/202/`](lege/2011/202/) | in force | 1 | 2011-11-14 | 2011-11-14 |
+| Legea nr. 205/2011 pentru modificarea şi completarea Legii nr. 255/2010 privind exproprierea pentru cauză de utilitate publică, necesară realizării unor obiective de interes naţional, judeţean şi local | [`lege/2011/205/`](lege/2011/205/) | amending act | 1 | 2011-11-20 | 2011-11-20 |
 | Legea nr. 207/2011 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 37/2010 pentru modificarea şi completarea Ordonanţei Guvernului nr. 10/2004 privind falimentul instituţiilor de credit | [`lege/2011/207/`](lege/2011/207/) | amending act | 1 | 2011-11-21 | 2011-11-21 |
 | Legea nr. 210/2011 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 41/2011 pentru modificarea Legii nr. 678/2001 privind prevenirea şi combaterea traficului de persoane | [`lege/2011/210/`](lege/2011/210/) | amending act | 1 | 2011-11-24 | 2011-11-24 |
 | Legea nr. 211/2011 | [`lege/2011/211/`](lege/2011/211/) | in force | 11 | 2011-11-28 | 2021-08-26 |
@@ -3355,7 +3362,7 @@
 | Legea nr. 204/2026 privind aprobarea Ordonanţei Guvernului nr. 22/2025 pentru modificarea şi completarea Legii nr. 227/2015 privind Codul fiscal şi pentru completarea articolului 342 din Legea nr. 227/2015 privind Codul fiscal | [`lege/2026/204/`](lege/2026/204/) | amending act | 1 | 2026-10-25 | 2026-10-25 |
 | Legea nr. 205/2026 pentru completarea Ordonanţei Guvernului nr. 22/2002 privind executarea obligaţiilor de plată ale instituţiilor publice, stabilite prin titluri executorii | [`lege/2026/205/`](lege/2026/205/) | amending act | 1 | 2026-11-02 | 2026-11-02 |
 
-## Emergency ordinances (OUG) (1703, of which 600 amending acts)
+## Emergency ordinances (OUG) (1704, of which 600 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -4010,6 +4017,7 @@
 | Ordonanța de urgență a Guvernului nr. 88/2011 | [`oug/2011/88/`](oug/2011/88/) | in force | 2 | 2011-10-19 | 2012-07-26 |
 | Ordonanța de urgență a Guvernului nr. 93/2011 | [`oug/2011/93/`](oug/2011/93/) | in force | 2 | 2011-11-11 | 2012-11-17 |
 | Ordonanța de urgență a Guvernului nr. 94/2011 | [`oug/2011/94/`](oug/2011/94/) | in force | 4 | 2011-11-11 | 2012-08-27 |
+| Ordonanța de urgență a Guvernului nr. 95/2011 privind unele măsuri de aplicare a Programului naţional privind sprijinirea construirii de locuinţe proprietate personală, aprobat prin Ordonanţa de urgenţă a Guvernului nr. 51/2006 | [`oug/2011/95/`](oug/2011/95/) | in force | 1 | 2011-11-15 | 2011-11-15 |
 | Ordonanța de urgență a Guvernului nr. 98/2011 | [`oug/2011/98/`](oug/2011/98/) | in force | 2 | 2011-11-22 | 2016-01-01 |
 | Ordonanța de urgență a Guvernului nr. 99/2011 pentru asigurarea de la bugetul de stat, prin bugetul Ministerului Sănătăţii, a sumelor necesare acoperirii plăţii TVA aferente bunurilor şi serviciilor achiziţionate în cadrul programelor privind combaterea HIV/SIDA şi tuberculozei în România, implementate de Fundaţia Romanian Angel Appeal | [`oug/2011/99/`](oug/2011/99/) | in force | 1 | 2011-11-23 | 2011-11-23 |
 | Ordonanța de urgență a Guvernului nr. 101/2011 privind reglementarea condițiilor pentru vânzarea imobilelor, proprietate privată a statului, aflate în administrarea Regiei Autonome "Administrația Patrimoniului Protocolului de Stat", a imobilelor proprietatea Regiei Autonome ”Administrația Patrimoniului Protocolului de Stat”, precum și pentru modificarea unor acte normative | [`oug/2011/101/`](oug/2011/101/) | amending act | 18 | 2011-11-30 | 2022-06-30 |
@@ -5595,7 +5603,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (15311, of which 7817 amending acts)
+## Government decisions (HG) (15325, of which 7825 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -8824,7 +8832,21 @@
 | Hotărârea Guvernului nr. 1048/2011 pentru aprobarea Acordului privind cooperarea în domeniul sănătăţii şi al ştiinţei medicale dintre Ministerul Sănătăţii al României şi Ministerul Sănătăţii al Republicii Azerbaidjan, semnat la Baku la 18 aprilie 2011 | [`hg/2011/1048/`](hg/2011/1048/) | amending act | 1 | 2011-11-21 | 2011-11-21 |
 | Hotărârea Guvernului nr. 1088/2011 privind organizarea și funcționarea Inspectoratului de Stat pentru Controlul în Transportul Rutier | [`hg/2011/1088/`](hg/2011/1088/) | in force | 2 | 2011-11-03 | 2022-08-13 |
 | Hotărârea Guvernului nr. 1094/2011 | [`hg/2011/1094/`](hg/2011/1094/) | in force | 1 | 2011-12-16 | 2011-12-16 |
+| Hotărârea Guvernului nr. 1102/2011 pentru modificarea Programului de protecţie şi gestiune a monumentelor istorice înscrise în Lista patrimoniului mondial UNESCO, aprobat prin Hotărârea Guvernului nr. 1.268/2010 | [`hg/2011/1102/`](hg/2011/1102/) | amending act | 1 | 2011-11-14 | 2011-11-14 |
+| Hotărârea Guvernului nr. 1103/2011 privind aprobarea Acordului petrolier de concesiune pentru explorare-dezvoltare-exploatare în perimetrul EX-12 Crai Nou, încheiat între Agenţia Naţională pentru Resurse Minerale şi Moesia Oil and Gas Plc | [`hg/2011/1103/`](hg/2011/1103/) | amending act | 1 | 2011-11-14 | 2011-11-14 |
+| Hotărârea Guvernului nr. 1104/2011 pentru aprobarea bugetului propriu de venituri şi cheltuieli al Ministerului Transporturilor şi Infrastructurii privind activitatea de privatizare, rectificat, pe anul 2011 | [`hg/2011/1104/`](hg/2011/1104/) | amending act | 1 | 2011-11-09 | 2011-11-09 |
 | Hotărârea Guvernului nr. 1105/2011 | [`hg/2011/1105/`](hg/2011/1105/) | in force | 1 | 2011-11-10 | 2011-11-10 |
+| Hotărârea Guvernului nr. 1108/2011 privind alocarea unor sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2011, pentru aniversarea la data de 1 decembrie 2011 la Alba Iulia a Zilei Naţionale a României şi a împlinirii a 93 de ani de la Marea Unire | [`hg/2011/1108/`](hg/2011/1108/) | in force | 1 | 2011-11-16 | 2011-11-16 |
+| Hotărârea Guvernului nr. 1109/2011 privind desfiinţarea Spitalului de Boli Cronice Petrila, judeţul Hunedoara | [`hg/2011/1109/`](hg/2011/1109/) | in force | 1 | 2011-11-16 | 2011-11-16 |
+| Hotărârea Guvernului nr. 1110/2011 privind modificarea şi completarea anexei nr. 6 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului şi transmiterea unui bun mobil | [`hg/2011/1110/`](hg/2011/1110/) | amending act | 1 | 2011-11-28 | 2011-11-28 |
+| Hotărârea Guvernului nr. 1111/2011 privind transmiterea, fără plată, a unor imobile din domeniul public al statului în domeniul privat al acestuia şi în proprietatea unităţilor de cult deţinătoare | [`hg/2011/1111/`](hg/2011/1111/) | in force | 1 | 2011-11-21 | 2011-11-21 |
+| Hotărârea Guvernului nr. 1112/2011 privind transmiterea, fără plată, în proprietatea unităţilor de cult deţinătoare a unor imobile aflate în domeniul public al statului şi în administrarea Secretariatului de Stat pentru Culte | [`hg/2011/1112/`](hg/2011/1112/) | in force | 1 | 2011-11-21 | 2011-11-21 |
+| Hotărârea Guvernului nr. 1113/2011 privind aprobarea bugetului de venituri şi cheltuieli rectificat pe anul 2011 al Societăţii Naţionale de Radiocomunicaţii - S.A., la care Ministerul Comunicaţiilor şi Societăţii Informaţionale îndeplineşte atribuţiile pe care statul român le are în calitate de acţionar | [`hg/2011/1113/`](hg/2011/1113/) | amending act | 1 | 2011-11-16 | 2011-11-16 |
+| Hotărârea Guvernului nr. 1115/2011 privind alocarea unor sume defalcate din taxa pe valoarea adăugată unităţilor de învăţământ preuniversitar de stat finanţate din bugetele locale | [`hg/2011/1115/`](hg/2011/1115/) | in force | 1 | 2011-11-16 | 2011-11-16 |
+| Hotărârea Guvernului nr. 1117/2011 pentru actualizarea cuantumurilor limitelor amenzilor contravenţionale prevăzute la art. 3 din Ordonanţa Guvernului nr. 39/2000 pentru stabilirea şi sancţionarea unor fapte contravenţionale în operaţiunile de transport feroviar şi cu metroul | [`hg/2011/1117/`](hg/2011/1117/) | in force | 1 | 2011-11-21 | 2011-11-21 |
+| Hotărârea Guvernului nr. 1118/2011 pentru aprobarea indicatorilor tehnico-economici aferenţi lucrărilor de intervenţii "Refacere corp drum, refacere terasamente, consolidări maluri, refacere podeţe DN 2A km 141+500 - km 152+800" | [`hg/2011/1118/`](hg/2011/1118/) | amending act | 1 | 2011-11-24 | 2011-11-24 |
+| Hotărârea Guvernului nr. 1119/2011 pentru aprobarea indicatorilor tehnico-economici aferenţi lucrărilor de intervenţii "Consolidare sistem rutier, reconstrucţie pod, consolidări maluri, refacere podeţe DN 2A km 152+800 - km 162+500" | [`hg/2011/1119/`](hg/2011/1119/) | amending act | 1 | 2011-11-24 | 2011-11-24 |
+| Hotărârea Guvernului nr. 1120/2011 privind modificarea Hotărârii Guvernului nr. 1.269/2008 pentru aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii "Redeschiderea circulaţiei feroviare pe podul nou de cale ferată peste râul Argeş, linia CF Bucureşti-Giurgiu, între staţiile CF Vidra-Grădiştea" | [`hg/2011/1120/`](hg/2011/1120/) | amending act | 1 | 2011-11-23 | 2011-11-23 |
 | Hotărârea Guvernului nr. 1121/2011 pentru aprobarea indicatorilor tehnico-economici aferenţi lucrărilor de intervenţii "Refacere sistem rutier cu asigurarea lăţimii corespunzătoare, consolidare maluri, refacere podeţe DN 2A km 124+000 - km 141+500" | [`hg/2011/1121/`](hg/2011/1121/) | amending act | 1 | 2011-11-24 | 2011-11-24 |
 | Hotărârea Guvernului nr. 1122/2011 privind aprobarea bugetului de venituri şi cheltuieli rectificat pe anul 2011 al Companiei Naţionale de Căi Ferate "C.F.R." - S.A., aflată sub autoritatea Ministerului Transporturilor şi Infrastructurii | [`hg/2011/1122/`](hg/2011/1122/) | amending act | 1 | 2011-11-24 | 2011-11-24 |
 | Hotărârea Guvernului nr. 1123/2011 privind reglementarea regimului juridic al unor imobile situate în municipiul Tulcea, judeţul Tulcea, şi pentru actualizarea anexei nr. 4 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului | [`hg/2011/1123/`](hg/2011/1123/) | amending act | 1 | 2011-11-24 | 2011-11-24 |
