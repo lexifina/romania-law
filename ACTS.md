@@ -1,6 +1,6 @@
 # Every act in this repository
 
-38255 acts, 52,006 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+38268 acts, 52,020 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (7994, of which 2843 amending acts)
+## Laws (legi) (7998, of which 2846 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -1120,6 +1120,10 @@
 | Legea nr. 744/2001 | [`lege/2001/744/`](lege/2001/744/) | in force | 1 | 2001-12-11 | 2001-12-11 |
 | Legea nr. 751/2001 privind abilitarea Guvernului de a emite ordonanţe | [`lege/2001/751/`](lege/2001/751/) | amended, not consolidated | 1 | 2001-12-27 | 2001-12-27 |
 | Legea nr. 752/2001 | [`lege/2001/752/`](lege/2001/752/) | in force | 9 | 2001-12-28 | 2017-07-01 |
+| Legea nr. 753/2001 pentru respingerea Ordonanţei Guvernului nr. 113/1999 privind reglementarea producţiei, circulaţiei şi comercializării alimentelor | [`lege/2001/753/`](lege/2001/753/) | amending act | 1 | 2002-01-07 | 2002-01-07 |
+| Legea nr. 754/2001 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 111/2000 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 11/1999 privind acordarea de facilităţi fiscale agenţilor economici | [`lege/2001/754/`](lege/2001/754/) | amending act | 1 | 2002-01-04 | 2002-01-04 |
+| Legea nr. 756/2001 asupra transferării persoanelor condamnate în străinătate | [`lege/2001/756/`](lege/2001/756/) | repealed 2004-08-30 | 2 | 2002-01-04 | 2004-08-30 |
+| Legea nr. 757/2001 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 113/2001 pentru modificarea alin. 1 al art. 7 din Legea Curţii Supreme de Justiţie nr. 56/1993 | [`lege/2001/757/`](lege/2001/757/) | amending act | 1 | 2002-01-07 | 2002-01-07 |
 | Legea nr. 758/2001 privind aprobarea Ordonanţei Guvernului nr. 62/2001 pentru completarea Legii sanitare veterinare nr. 60/1974 | [`lege/2001/758/`](lege/2001/758/) | amended, not consolidated | 1 | 2002-01-07 | 2002-01-07 |
 | Legea nr. 759/2001 privind respingerea Ordonanţei Guvernului nr. 18/2001 pentru ratificarea Memorandumului de finanţare convenit între Guvernul României şi Comisia Europeană privind asistenţa financiară nerambursabilă acordată prin Instrumentul pentru politici Structurale de Preaderare pentru măsura "Reabilitarea reţelei de canalizare şi a facilităţilor de epurare a apelor uzate în Constanţa, România", semnat la Bruxelles la 16 noiembrie 2000 şi la Bucureşti la 22 decembrie 2000 | [`lege/2001/759/`](lege/2001/759/) | amending act | 1 | 2002-01-08 | 2002-01-08 |
 | Legea nr. 760/2001 pentru aprobarea Ordonanţei Guvernului nr. 32/1998 privind organizarea cabinetului demnitarului din administraţia publică centrala | [`lege/2001/760/`](lege/2001/760/) | amended, not consolidated | 1 | 2002-01-16 | 2002-01-16 |
@@ -11885,7 +11889,7 @@
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 5/2026 pentru modificarea şi completarea Ordonanţei Guvernului nr. 27/2011 privind transporturile rutiere şi pentru completarea Ordonanţei de urgenţă a Guvernului nr. 28/1999 privind obligaţia operatorilor economici de a utiliza aparate de marcat electronice fiscale | [`og/2026/5/`](og/2026/5/) | amended, not consolidated | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (26336, of which 12319 amending acts)
+## Government decisions (HG) (26345, of which 12324 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -13032,7 +13036,16 @@
 | Hotărârea Guvernului nr. 1258/2001 | [`hg/2001/1258/`](hg/2001/1258/) | in force | 2 | 2001-12-20 | 2009-12-04 |
 | Hotărârea Guvernului nr. 1259/2001 | [`hg/2001/1259/`](hg/2001/1259/) | in force | 2 | 2001-12-28 | 2004-12-30 |
 | Hotărârea Guvernului nr. 1272/2001 pentru majorarea gradului de deschidere a pieţei energiei electrice | [`hg/2001/1272/`](hg/2001/1272/) | amended, not consolidated | 1 | 2001-12-21 | 2001-12-21 |
+| Hotărârea Guvernului nr. 1290/2001 privind actualizarea anexei la Legea nr. 327/2001 pentru aprobarea scutirii de la plata taxei pe valoarea adăugată a unor bunuri importate şi servicii efectuate de prestatori cu sediul în străinătate, necesare în vederea înzestrării Serviciului de Telecomunicaţii Speciale | [`hg/2001/1290/`](hg/2001/1290/) | amending act | 1 | 2001-12-28 | 2001-12-28 |
+| Hotărârea Guvernului nr. 1296/2001 privind actualizarea cuantumului sumelor prevăzute la art. 5 alin. (1) şi (2) din Ordonanţa de urgenţă a Guvernului nr. 13/2001 privind soluţionarea contestaţiilor împotriva măsurilor dispuse prin actele de control sau de impunere întocmite de organele Ministerului Finanţelor Publice | [`hg/2001/1296/`](hg/2001/1296/) | in force | 1 | 2001-12-29 | 2001-12-29 |
+| Hotărârea Guvernului nr. 1297/2001 pentru aprobarea Strategiei de dezvoltare a industriei aparatelor şi maşinilor de uz casnic din România pe perioada 2001-2010 | [`hg/2001/1297/`](hg/2001/1297/) | amending act | 1 | 2001-12-29 | 2001-12-29 |
+| Hotărârea Guvernului nr. 1298/2001 privind organizarea negocierilor dintre România şi organismele financiare internaţionale şi urmărirea îndeplinirii acordurilor încheiate | [`hg/2001/1298/`](hg/2001/1298/) | in force | 1 | 2002-01-10 | 2002-01-10 |
+| Hotărârea Guvernului nr. 1299/2001 privind responsabilităţile ministerelor şi ale celorlalte organe ale administraţiei publice centrale implicate în derularea Aranjamentului stand-by dintre România şi Fondul Monetar Internaţional şi a Memorandumului cu privire la politicile economice şi financiare ale Guvernului României în perioada 2001-2002, convenite prin schimb de scrisori între Bucureşti şi Washington, prin scrisoarea din 17 octombrie 2001 a Ministerului Finanţelor Publice şi Băncii Naţionale a României şi răspunsul din 31 octombrie 2001 al Fondului Monetar Internaţional | [`hg/2001/1299/`](hg/2001/1299/) | in force | 1 | 2002-01-17 | 2002-01-17 |
+| Hotărârea Guvernului nr. 1301/2001 privind alocarea unei sume din Fondul de rezerva bugetară la dispoziţia Guvernului pentru obiectivul de investiţii "Casa de cultura Paşcani" | [`hg/2001/1301/`](hg/2001/1301/) | in force | 1 | 2001-12-29 | 2001-12-29 |
+| Hotărârea Guvernului nr. 1302/2001 privind aprobarea bugetului rectificat de venituri şi cheltuieli pe anul 2001 al Regiei Autonome "Imprimeria Băncii Naţionale a României", aflată sub autoritatea Băncii Naţionale a României | [`hg/2001/1302/`](hg/2001/1302/) | amending act | 1 | 2001-12-29 | 2001-12-29 |
+| Hotărârea Guvernului nr. 1304/2001 privind aprobarea execuţiei bugetelor acţiunilor organizate în anul 2001 şi derulate prin bugetul Secretariatului General al Guvernului | [`hg/2001/1304/`](hg/2001/1304/) | amending act | 1 | 2001-12-29 | 2001-12-29 |
 | Hotărârea Guvernului nr. 1305/2001 privind exceptarea şi reducerea temporară de la plata taxelor vamale la unele produse din import | [`hg/2001/1305/`](hg/2001/1305/) | amended, not consolidated | 1 | 2002-01-04 | 2002-01-04 |
+| Hotărârea Guvernului nr. 1306/2001 privind modificarea Hotărârii Guvernului nr. 605/2001 pentru stabilirea modului de alocare a fondurilor de la bugetul de stat, destinate plăţii materialului seminal provenit din producţia internă, pentru acţiunea de insamantare artificială la bovine şi porcine şi pentru aprobarea Normelor metodologice privind utilizarea, distribuirea şi controlul sumelor cheltuite de la bugetul de stat pentru acţiunea de insamantare artificială la bovine şi porcine | [`hg/2001/1306/`](hg/2001/1306/) | amending act | 1 | 2002-01-11 | 2002-01-11 |
 | Hotărârea Guvernului nr. 1308/2001 pentru modificarea Hotărârii Guvernului nr. 920/2001 privind aprobarea bugetelor de venituri şi cheltuieli pe anul 2001 pentru companiile şi societăţile naţionale, societăţile comerciale şi institutele naţionale de cercetare-dezvoltare aflate sub autoritatea sau în coordonarea Ministerului Industriei şi Resurselor, precum şi a transferurilor pentru societăţile comerciale din sectorul minier şi pentru Societatea Comercială "Romplumb" - S.A. Baia Mare | [`hg/2001/1308/`](hg/2001/1308/) | amending act | 1 | 2002-01-10 | 2002-01-10 |
 | Hotărârea Guvernului nr. 1309/2001 privind completarea art. 4 din Hotărârea Guvernului nr. 445/2000 pentru organizarea şi funcţionarea unei unităţi de management de proiect pentru participarea României la Expoziţia Mondială EXPO-2000 "Om-Natura-Tehnologie", Hanovra 2000, în cadrul Agenţiei Naţionale pentru Dezvoltare Regionala | [`hg/2001/1309/`](hg/2001/1309/) | amending act | 1 | 2002-01-10 | 2002-01-10 |
 | Hotărârea Guvernului nr. 1310/2001 privind trecerea unui imobil, situat în municipiul Târgovişte, judeţul Dâmboviţa, în domeniul public al municipiului Târgovişte | [`hg/2001/1310/`](hg/2001/1310/) | in force | 1 | 2002-01-10 | 2002-01-10 |
