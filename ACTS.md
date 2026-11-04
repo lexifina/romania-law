@@ -1,6 +1,6 @@
 # Every act in this repository
 
-24919 acts, 38,553 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+24931 acts, 38,565 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (3733, of which 2178 amending acts)
+## Laws (legi) (3738, of which 2183 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -615,8 +615,13 @@
 | Legea nr. 289/2005 privind unele măsuri pentru prevenirea și combaterea fenomenului infracțional în domeniul transportului pe calea ferată | [`lege/2005/289/`](lege/2005/289/) | in force | 2 | 2005-10-20 | 2014-02-01 |
 | Legea nr. 312/2005 privind dobândirea dreptului de proprietate privată asupra terenurilor de către cetățenii străini și apatrizi, precum și de către persoanele juridice străine | [`lege/2005/312/`](lege/2005/312/) | in force | 1 | 2007-01-01 | 2007-01-01 |
 | Legea nr. 332/2005 | [`lege/2005/332/`](lege/2005/332/) | in force | 1 | 2005-12-05 | 2005-12-05 |
+| Legea nr. 334/2005 pentru modificarea şi completarea art. 1 din Ordonanţa de urgenţă a Guvernului nr. 95/1999 cu privire la valorificarea bunurilor scoase din funcţiune, aflate în administrarea instituţiilor publice de apărare, ordine publică şi siguranţă naţională | [`lege/2005/334/`](lege/2005/334/) | amending act | 1 | 2005-12-08 | 2005-12-08 |
+| Legea nr. 336/2005 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 111/2005 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 12/1998 privind transportul pe căile ferate române şi reorganizarea Societăţii Naţionale a Căilor Ferate Române | [`lege/2005/336/`](lege/2005/336/) | amending act | 1 | 2005-12-08 | 2005-12-08 |
 | Legea nr. 339/2005 | [`lege/2005/339/`](lege/2005/339/) | in force | 9 | 2005-12-05 | 2024-09-29 |
 | Legea nr. 344/2005 | [`lege/2005/344/`](lege/2005/344/) | in force | 2 | 2006-02-03 | 2023-11-11 |
+| Legea nr. 346/2005 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 78/2005 pentru modificarea şi completarea Legii nr. 288/2004 privind organizarea studiilor universitare | [`lege/2005/346/`](lege/2005/346/) | amending act | 1 | 2005-12-08 | 2005-12-08 |
+| Legea nr. 347/2005 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 106/2005 pentru modificarea şi completarea Ordonanţei Guvernului nr. 25/2001 privind înfiinţarea Companiei Naţionale de Investiţii ”C.N.I.” - S.A | [`lege/2005/347/`](lege/2005/347/) | amending act | 1 | 2005-12-05 | 2005-12-05 |
+| Legea nr. 348/2005 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 70/2005 privind aprobarea scoaterii din rezerva de stat, sub formă de împrumut, a unor cantităţi de combustibil pentru Societatea Comercială de Producere a Energiei Electrice şi Termice ”Termoelectrica” - S.A., filialele sale, complexurile energetice Craiova, Rovinari şi Turceni, Regia Autonomă pentru Activităţi Nucleare - Sucursala ”ROMAG-TERMO” şi centralele termice şi electrice de termoficare aflate în administrarea consiliilor judeţene şi locale | [`lege/2005/348/`](lege/2005/348/) | amending act | 1 | 2005-12-05 | 2005-12-05 |
 | Legea nr. 350/2005 | [`lege/2005/350/`](lege/2005/350/) | in force | 3 | 2006-01-13 | 2015-05-18 |
 | Legea nr. 352/2005 privind respingerea Ordonanţei de urgenţă a Guvernului nr. 132/2005 pentru completarea art. 29 din Ordonanţa de urgenţă a Guvernului nr. 66/2005 cu privire la rectificarea bugetului de stat pe anul 2005 | [`lege/2005/352/`](lege/2005/352/) | amending act | 1 | 2005-12-09 | 2005-12-09 |
 | Legea nr. 354/2005 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 67/2005 cu privire la rectificarea bugetului asigurărilor sociale de stat pe anul 2005 | [`lege/2005/354/`](lege/2005/354/) | amending act | 1 | 2005-12-09 | 2005-12-09 |
@@ -3771,7 +3776,7 @@
 | Legea nr. 204/2026 privind aprobarea Ordonanţei Guvernului nr. 22/2025 pentru modificarea şi completarea Legii nr. 227/2015 privind Codul fiscal şi pentru completarea articolului 342 din Legea nr. 227/2015 privind Codul fiscal | [`lege/2026/204/`](lege/2026/204/) | amending act | 1 | 2026-10-25 | 2026-10-25 |
 | Legea nr. 205/2026 pentru completarea Ordonanţei Guvernului nr. 22/2002 privind executarea obligaţiilor de plată ale instituţiilor publice, stabilite prin titluri executorii | [`lege/2026/205/`](lege/2026/205/) | amending act | 1 | 2026-11-02 | 2026-11-02 |
 
-## Emergency ordinances (OUG) (1735, of which 613 amending acts)
+## Emergency ordinances (OUG) (1737, of which 614 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -4069,6 +4074,8 @@
 | Ordonanța de urgență a Guvernului nr. 152/2005 | [`oug/2005/152/`](oug/2005/152/) | repealed 2013-12-01 | 5 | 2005-11-30 | 2013-12-01 |
 | Ordonanța de urgență a Guvernului nr. 158/2005 | [`oug/2005/158/`](oug/2005/158/) | in force | 31 | 2006-01-01 | 2025-12-31 |
 | Ordonanța de urgență a Guvernului nr. 171/2005 | [`oug/2005/171/`](oug/2005/171/) | in force | 2 | 2005-12-13 | 2006-05-25 |
+| Ordonanța de urgență a Guvernului nr. 172/2005 cu privire la modificarea bugetului Ministerului Administraţiei şi Internelor pe anul 2005 | [`oug/2005/172/`](oug/2005/172/) | in force | 1 | 2005-12-13 | 2005-12-13 |
+| Ordonanța de urgență a Guvernului nr. 173/2005 pentru modificarea alin. (2) al art. 8 din Ordonanţa de urgenţă a Guvernului nr. 11/2004 privind stabilirea unor măsuri de reorganizare în cadrul administraţiei publice centrale | [`oug/2005/173/`](oug/2005/173/) | amending act | 1 | 2005-12-13 | 2005-12-13 |
 | Ordonanța de urgență a Guvernului nr. 174/2005 privind reglementarea unor probleme financiare în anul 2005 | [`oug/2005/174/`](oug/2005/174/) | in force | 1 | 2005-12-12 | 2005-12-12 |
 | Ordonanța de urgență a Guvernului nr. 177/2005 pentru modificarea art. 10 alin. (6) din Ordonanţa Guvernului nr. 96/1998 privind reglementarea regimului silvic şi administrarea Fondului forestier naţional | [`oug/2005/177/`](oug/2005/177/) | amending act | 1 | 2005-12-21 | 2005-12-21 |
 | Ordonanța de urgență a Guvernului nr. 178/2005 pentru prorogarea termenului prevăzut la alin. (1^1) al art. 109 din Ordonanţa de urgenţă a Guvernului nr. 152/1999 privind produsele medicamentoase de uz uman | [`oug/2005/178/`](oug/2005/178/) | amending act | 1 | 2005-12-19 | 2005-12-19 |
@@ -6045,7 +6052,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (18883, of which 9600 amending acts)
+## Government decisions (HG) (18888, of which 9601 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -6639,6 +6646,11 @@
 | Hotărârea Guvernului nr. 1449/2005 | [`hg/2005/1449/`](hg/2005/1449/) | in force | 7 | 2005-12-07 | 2012-12-11 |
 | Hotărârea Guvernului nr. 1469/2005 | [`hg/2005/1469/`](hg/2005/1469/) | in force | 1 | 2005-12-08 | 2005-12-08 |
 | Hotărârea Guvernului nr. 1481/2005 | [`hg/2005/1481/`](hg/2005/1481/) | in force | 2 | 2005-12-05 | 2008-01-11 |
+| Hotărârea Guvernului nr. 1482/2005 privind transmiterea unor sectoare de drumuri naţionale din domeniul public al statului şi din administrarea Ministerului Transporturilor, Construcţiilor şi Turismului în domeniul public al municipiului Botoşani şi în administrarea Consiliului Local al Municipiului Botoşani, judeţul Botoşani | [`hg/2005/1482/`](hg/2005/1482/) | in force | 1 | 2005-12-20 | 2005-12-20 |
+| Hotărârea Guvernului nr. 1483/2005 pentru modificarea Hotărârii Guvernului nr. 326/2005 privind repartizarea pe unităţi administrativ-teritoriale a sumelor defalcate din taxa pe valoarea adăugată pentru retehnologizarea, modernizarea şi dezvoltarea sistemelor centralizate de producere şi distribuţie a energiei termice | [`hg/2005/1483/`](hg/2005/1483/) | amending act | 1 | 2005-12-14 | 2005-12-14 |
+| Hotărârea Guvernului nr. 1484/2005 privind transmiterea unor imobile din domeniul public al statului şi din administrarea Ministerului Administraţiei şi Internelor în domeniul public al oraşului Şomcuta Mare şi în administrarea Consiliului Local al Oraşului Şomcuta Mare, judeţul Maramureş | [`hg/2005/1484/`](hg/2005/1484/) | in force | 1 | 2005-12-14 | 2005-12-14 |
+| Hotărârea Guvernului nr. 1485/2005 pentru reglementarea situaţiei juridice a unui imobil | [`hg/2005/1485/`](hg/2005/1485/) | in force | 1 | 2005-12-14 | 2005-12-14 |
+| Hotărârea Guvernului nr. 1488/2005 privind suplimentarea bugetului Camerei Deputaţilor din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005 | [`hg/2005/1488/`](hg/2005/1488/) | in force | 1 | 2005-12-02 | 2005-12-02 |
 | Hotărârea Guvernului nr. 1489/2005 privind suplimentarea bugetului Ministerului Culturii şi Cultelor din Fondul de rezervă bugetară la dispoziţia Guvernului pe anul 2005, pentru Patriarhia Bisericii Ortodoxe Române | [`hg/2005/1489/`](hg/2005/1489/) | in force | 1 | 2005-12-02 | 2005-12-02 |
 | Hotărârea Guvernului nr. 1490/2005 privind suplimentarea bugetului Ministerului Transporturilor, Construcţiilor şi Turismului din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005 | [`hg/2005/1490/`](hg/2005/1490/) | in force | 1 | 2005-12-02 | 2005-12-02 |
 | Hotărârea Guvernului nr. 1491/2005 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru judeţul Maramureş | [`hg/2005/1491/`](hg/2005/1491/) | in force | 1 | 2005-12-02 | 2005-12-02 |

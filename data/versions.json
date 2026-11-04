@@ -163529,6 +163529,21 @@
    ]
   },
   {
+   "slug": "hg-1482-2005",
+   "path": "hg/2005/1482",
+   "short": "HG nr. 1482/2005",
+   "title": "Hotărârea Guvernului nr. 1482/2005 privind transmiterea unor sectoare de drumuri naţionale din domeniul public al statului şi din administrarea Ministerului Transporturilor, Construcţiilor şi Turismului în domeniul public al municipiului Botoşani şi în administrarea Consiliului Local al Municipiului Botoşani, judeţul Botoşani",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/67099",
+   "versions": [
+    {
+     "from": "2005-12-20",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/67099",
+     "sha256": "d010ed802e61bcedaf599d06a63c20f7a4b30a35c33564922799f6d9fbe7aafe"
+    }
+   ]
+  },
+  {
    "slug": "hg-1482-2006",
    "path": "hg/2006/1482",
    "short": "HG nr. 1482/2006",
@@ -163604,6 +163619,21 @@
    ]
   },
   {
+   "slug": "hg-1483-2005",
+   "path": "hg/2005/1483",
+   "short": "HG nr. 1483/2005",
+   "title": "Hotărârea Guvernului nr. 1483/2005 pentru modificarea Hotărârii Guvernului nr. 326/2005 privind repartizarea pe unităţi administrativ-teritoriale a sumelor defalcate din taxa pe valoarea adăugată pentru retehnologizarea, modernizarea şi dezvoltarea sistemelor centralizate de producere şi distribuţie a energiei termice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/66834",
+   "versions": [
+    {
+     "from": "2005-12-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66834",
+     "sha256": "b6ada4054d778ad990301b0375ddba1b18b3035ec4f4b80323f40cc62cb9c5a8"
+    }
+   ]
+  },
+  {
    "slug": "hg-1483-2006",
    "path": "hg/2006/1483",
    "short": "HG nr. 1483/2006",
@@ -163664,6 +163694,21 @@
    ]
   },
   {
+   "slug": "hg-1484-2005",
+   "path": "hg/2005/1484",
+   "short": "HG nr. 1484/2005",
+   "title": "Hotărârea Guvernului nr. 1484/2005 privind transmiterea unor imobile din domeniul public al statului şi din administrarea Ministerului Administraţiei şi Internelor în domeniul public al oraşului Şomcuta Mare şi în administrarea Consiliului Local al Oraşului Şomcuta Mare, judeţul Maramureş",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/66831",
+   "versions": [
+    {
+     "from": "2005-12-14",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66831",
+     "sha256": "ef7208222e82df79591ddab1f6cc74338c3fc709b46a11ac2c03035da3e4f7f1"
+    }
+   ]
+  },
+  {
    "slug": "hg-1484-2006",
    "path": "hg/2006/1484",
    "short": "HG nr. 1484/2006",
@@ -163720,6 +163765,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/262964",
      "sha256": "c74fd57038fe515b35166a040e669e3822a3cd5894e0bf2ed11c300bcbf9a4c4"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1485-2005",
+   "path": "hg/2005/1485",
+   "short": "HG nr. 1485/2005",
+   "title": "Hotărârea Guvernului nr. 1485/2005 pentru reglementarea situaţiei juridice a unui imobil",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/66832",
+   "versions": [
+    {
+     "from": "2005-12-14",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66832",
+     "sha256": "bf02898fc34b949ecefb265589953bbe32b4efb0019eb7fecb7ab0bffe2fd2b8"
     }
    ]
   },
@@ -163909,6 +163969,21 @@
      "units": 11,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/204672",
      "sha256": "cf77210d94dd5831d008df0279b91cf06370af87fa171bb0d30291c9d170fea3"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1488-2005",
+   "path": "hg/2005/1488",
+   "short": "HG nr. 1488/2005",
+   "title": "Hotărârea Guvernului nr. 1488/2005 privind suplimentarea bugetului Camerei Deputaţilor din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/66372",
+   "versions": [
+    {
+     "from": "2005-12-02",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66372",
+     "sha256": "f62e211458f33f398e421c825fe56adf300c93d16af47287759cfd00a88d0aa3"
     }
    ]
   },
@@ -410234,6 +410309,21 @@
    ]
   },
   {
+   "slug": "legea-334-2005",
+   "path": "lege/2005/334",
+   "short": "Legea nr. 334/2005",
+   "title": "Legea nr. 334/2005 pentru modificarea şi completarea art. 1 din Ordonanţa de urgenţă a Guvernului nr. 95/1999 cu privire la valorificarea bunurilor scoase din funcţiune, aflate în administrarea instituţiilor publice de apărare, ordine publică şi siguranţă naţională",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/66430",
+   "versions": [
+    {
+     "from": "2005-12-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66430",
+     "sha256": "52a8f9c5e161ccaa0b1320b6fa197e09b22785b8274482bd7fa6144124f51a4c"
+    }
+   ]
+  },
+  {
    "slug": "legea-334-2009",
    "path": "lege/2009/334",
    "short": "Legea nr. 334/2009",
@@ -410395,6 +410485,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/262282",
      "sha256": "927bb6e2ab0219b92af04a7c30fbc28ea5481d8ba16d8575636065d2ed2a8e1b"
+    }
+   ]
+  },
+  {
+   "slug": "legea-336-2005",
+   "path": "lege/2005/336",
+   "short": "Legea nr. 336/2005",
+   "title": "Legea nr. 336/2005 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 111/2005 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 12/1998 privind transportul pe căile ferate române şi reorganizarea Societăţii Naţionale a Căilor Ferate Române",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/66432",
+   "versions": [
+    {
+     "from": "2005-12-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66432",
+     "sha256": "86674e1c45e4fc4cbfef66108c456c28f356061565322a7392c33b28c6932cf4"
     }
    ]
   },
@@ -411233,6 +411338,21 @@
    ]
   },
   {
+   "slug": "legea-346-2005",
+   "path": "lege/2005/346",
+   "short": "Legea nr. 346/2005",
+   "title": "Legea nr. 346/2005 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 78/2005 pentru modificarea şi completarea Legii nr. 288/2004 privind organizarea studiilor universitare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/66442",
+   "versions": [
+    {
+     "from": "2005-12-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66442",
+     "sha256": "14f8f1988addb0ee8e6458aada307c8e246d925810cd4d4a79321cec62b4cc7a"
+    }
+   ]
+  },
+  {
    "slug": "legea-346-2009",
    "path": "lege/2009/346",
    "short": "Legea nr. 346/2009",
@@ -411274,6 +411394,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/262388",
      "sha256": "2091227a3b2754793583ab5756eaba8e1e8e365d99b68897aec0f99bea1955f7"
+    }
+   ]
+  },
+  {
+   "slug": "legea-347-2005",
+   "path": "lege/2005/347",
+   "short": "Legea nr. 347/2005",
+   "title": "Legea nr. 347/2005 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 106/2005 pentru modificarea şi completarea Ordonanţei Guvernului nr. 25/2001 privind înfiinţarea Companiei Naţionale de Investiţii ”C.N.I.” - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/66381",
+   "versions": [
+    {
+     "from": "2005-12-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66381",
+     "sha256": "44a3138985b57c0a565b083b16006e86acce048c5c7e61858e5028a11fa06be9"
     }
    ]
   },
@@ -411331,6 +411466,21 @@
      "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53757",
      "sha256": "b9ac7a2e9067d27eaef8347f529617c2bb5f51a0ffd49b5672e5a298a06e864b"
+    }
+   ]
+  },
+  {
+   "slug": "legea-348-2005",
+   "path": "lege/2005/348",
+   "short": "Legea nr. 348/2005",
+   "title": "Legea nr. 348/2005 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 70/2005 privind aprobarea scoaterii din rezerva de stat, sub formă de împrumut, a unor cantităţi de combustibil pentru Societatea Comercială de Producere a Energiei Electrice şi Termice ”Termoelectrica” - S.A., filialele sale, complexurile energetice Craiova, Rovinari şi Turceni, Regia Autonomă pentru Activităţi Nucleare - Sucursala ”ROMAG-TERMO” şi centralele termice şi electrice de termoficare aflate în administrarea consiliilor judeţene şi locale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/66383",
+   "versions": [
+    {
+     "from": "2005-12-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66383",
+     "sha256": "984e320f32777504b5a44e42f08449a17ac807156db162856a8525a1fdcce6dd"
     }
    ]
   },
@@ -437387,6 +437537,21 @@
    ]
   },
   {
+   "slug": "oug-172-2005",
+   "path": "oug/2005/172",
+   "short": "OUG nr. 172/2005",
+   "title": "Ordonanța de urgență a Guvernului nr. 172/2005 cu privire la modificarea bugetului Ministerului Administraţiei şi Internelor pe anul 2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/66848",
+   "versions": [
+    {
+     "from": "2005-12-13",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66848",
+     "sha256": "05ea1678ba3e7e0ee4b81793cef92453b676825ad881e4815e54870e09078965"
+    }
+   ]
+  },
+  {
    "slug": "oug-172-2020",
    "path": "oug/2020/172",
    "short": "OUG nr. 172/2020",
@@ -437419,6 +437584,21 @@
      "units": 8,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/262400",
      "sha256": "607ee92f8e2483f95080fbd6c839218a467dc56b1552f0cf0e7cf3a454e0e50e"
+    }
+   ]
+  },
+  {
+   "slug": "oug-173-2005",
+   "path": "oug/2005/173",
+   "short": "OUG nr. 173/2005",
+   "title": "Ordonanța de urgență a Guvernului nr. 173/2005 pentru modificarea alin. (2) al art. 8 din Ordonanţa de urgenţă a Guvernului nr. 11/2004 privind stabilirea unor măsuri de reorganizare în cadrul administraţiei publice centrale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/66781",
+   "versions": [
+    {
+     "from": "2005-12-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66781",
+     "sha256": "cb5b943be95f082c9bf3672c9e72881bbbc173bce449bd5d4188bea4fccd56da"
     }
    ]
   },
